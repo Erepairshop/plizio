@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pisgah-national-forest-nature-v2",
+      "descriptionAdvanced": "Pisgah National Forest, in the Southern Appalachian Mountains of North Carolina, is a sprawling, forested landscape known for its mist-covered peaks, ancient hardwood forests, and prolific waterfalls. Historically a cornerstone of American conservation history, it was one of the first tracts of forest land purchased under the Weeks Act of 1911, which authorized the federal government to acquire land to protect the headwaters of navigable rivers. The forest is home to immense biodiversity, serving as a critical refuge for rare mountain flora and providing vital habitat for species like black bears and neotropical migratory birds. Today, Pisgah stands as a primary destination for outdoor recreation and an essential laboratory for managing resilient, temperate Appalachian forest ecosystems against climate and human pressure. Biologie K7 — Temperate mountain forest conservation and headwaters protection.",
+      "factsAdvanced": [
+        "Sprawling Southern Appalachian wilderness in North Carolina.",
+        "One of the first tracts purchased under the landmark Weeks Act of 1911.",
+        "Crucial for protecting the headwaters of major navigable river systems.",
+        "Features ancient hardwood forests, dense mist-covered ridges, and prolific waterfalls.",
+        "Vital habitat for iconic Appalachian species like black bears and migratory songbirds.",
+        "Essential laboratory for managing temperate forest resilience under climate change."
+      ]
+    },
+    {
+      "id": "mount-hood-nature-v2",
+      "descriptionAdvanced": "Mount Hood, a 11,249-foot dormant stratovolcano, is a dominant and majestic feature of the Cascade Range in Oregon. It is a massive, complex volcanic entity with significant glacial systems that serve as a high-altitude water source for the surrounding region. As a prime example of Pacific Northwest volcanic stratigraphy, it is a critical site for studying glacial retreat, volcanic hazard risks, and sub-alpine ecological shifts caused by atmospheric warming. Mount Hood serves not only as a spectacular, iconic recreation landmark but as a complex natural feature that requires careful ongoing monitoring. It represents the raw power of the Pacific Ring of Fire and remains a cornerstone for understanding the interconnectedness of volcanic peaks and alpine water security in the Pacific Northwest. Geologie K8 — Volcanic stratigraphy and alpine water security.",
+      "factsAdvanced": [
+        "Dominant dormant stratovolcano reaching 11,249 feet in the Cascade Range.",
+        "Significant glacial systems act as a critical high-altitude water source.",
+        "Complex volcanic stratigraphy makes it a key site for geological hazard research.",
+        "Provides a vital, iconic natural laboratory for monitoring rapid glacial retreat.",
+        "Iconic feature of the Pacific Northwest skyline and a major recreation landmark.",
+        "Represents the enduring geological power of the Pacific Ring of Fire."
+      ]
+    },
+    {
+      "id": "padre-island-nature-v2",
+      "descriptionAdvanced": "Padre Island, the longest barrier island in the world, stretches for 113 miles along the Texas coast, serving as a critical coastal barrier between the Gulf of Mexico and the Laguna Madre. The island is an essential, highly dynamic ecosystem, protecting the coastline from storm surges and providing a vital habitat for endangered sea turtles, migratory birds, and rare coastal vegetation. Because of its fragile barrier-island status, it is a primary site for studying coastal dune dynamics, barrier island evolution, and the impact of climate-driven sea-level rise. Today, Padre Island stands as a celebrated wilderness sanctuary, highlighting the complex interdependence between delicate coastal barrier dynamics and the larger oceanic health of the Gulf of Mexico. Biologie K7 — Barrier island ecology and coastal surge protection.",
+      "factsAdvanced": [
+        "World's longest barrier island, stretching 113 miles along the Texas coast.",
+        "Acts as a critical dynamic barrier between the Gulf of Mexico and Laguna Madre.",
+        "Essential sanctuary for endangered sea turtles and migrating coastal birds.",
+        "Primary study site for coastal dune evolution and barrier island dynamics.",
+        "Highly vulnerable to storm surges and climate-driven sea-level rise.",
+        "Celebrated wilderness landmark highlighting essential coastal barrier functions."
+      ]
+    }
+  ]
+}

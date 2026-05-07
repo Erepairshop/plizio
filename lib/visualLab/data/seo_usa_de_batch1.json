@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "new-york-city-cities-v2",
+      "descriptionAdvanced": "New York City, oft als \"Big Apple\" bezeichnet, ist mit über 8 Millionen Einwohnern die bevölkerungsreichste Stadt der Vereinigten Staaten. Sie liegt an der Ostküste und besteht aus den fünf Bezirken Manhattan, Brooklyn, Queens, The Bronx und Staten Island, die 1898 konsolidiert wurden. Die Metropole ist ein globales Zentrum für Finanzen, Medien, Kunst und Mode. Die Wall Street in Lower Manhattan ist das finanzielle Herzstück der Weltwirtschaft, während der Broadway für erstklassige Theaterproduktionen weltbekannt ist. Berühmte Wahrzeichen wie die Freiheitsstatue, die 1886 als Geschenk Frankreichs eingeweiht wurde, und das Empire State Building prägen die ikonische Skyline. Der Central Park bietet auf 340 Hektar eine unverzichtbare grüne Oase mitten in der dichten Bebauung. Geographie K8 — Weltstädte und kulturelle Vielfalt.",
+      "factsAdvanced": [
+        "Gegründet 1624 als New Amsterdam durch niederländische Kolonisten",
+        "Besteht aus 5 Boroughs: Manhattan, Brooklyn, Queens, The Bronx, Staten Island",
+        "Der Central Park wurde 1858 eröffnet und umfasst 340 Hektar",
+        "Hauptquartier der Vereinten Nationen seit 1952",
+        "Das U-Bahn-Netz hat 472 Stationen und ist eines der größten weltweit",
+        "Die Brooklyn Bridge wurde 1883 fertiggestellt"
+      ]
+    },
+    {
+      "id": "los-angeles-cities-v2",
+      "descriptionAdvanced": "Los Angeles ist mit fast 4 Millionen Einwohnern die größte Stadt Kaliforniens und die zweitgrößte der USA. Sie liegt in Südkalifornien, eingebettet zwischen dem Pazifischen Ozean und den San Gabriel Mountains. Weltweit berühmt ist die Stadt als Zentrum der Film- und Fernsehindustrie, insbesondere durch den Stadtteil Hollywood, dessen berühmtes Schild 1923 errichtet wurde. Los Angeles zeichnet sich durch seine enorme Flächenausdehnung und ein ausgeprägtes Autobahnnetz aus. Das mediterrane Klima mit mehr als 280 Sonnentagen im Jahr zieht seit jeher neue Bewohner an. Wichtige wirtschaftliche Standbeine neben der Unterhaltungsindustrie sind der internationale Handel durch den Hafen von Los Angeles sowie die Luft- und Raumfahrttechnik. Geographie K7 — Wirtschaftszentren an der Pazifikküste.",
+      "factsAdvanced": [
+        "1781 von spanischen Siedlern als 'El Pueblo de Nuestra Señora la Reina de los Ángeles' gegründet",
+        "Zentrum der globalen Unterhaltungsindustrie in Hollywood",
+        "Austragungsort der Olympischen Sommerspiele 1932 und 1984",
+        "Das Griffith Observatory wurde 1935 auf dem Mount Hollywood eröffnet",
+        "Das Getty Center beherbergt eine der bedeutendsten Kunstsammlungen",
+        "Verfügt über den geschäftigsten Containerhafen der USA"
+      ]
+    },
+    {
+      "id": "chicago-cities-v2",
+      "descriptionAdvanced": "Chicago, die drittgrößte Stadt der USA, liegt am südwestlichen Ufer des Michigansees im Bundesstaat Illinois. Die als 'Windy City' bekannte Metropole wurde 1837 offiziell als Stadt gegründet und wuchs rasant als wichtiger Verkehrsknotenpunkt zwischen den Großen Seen und dem Mississippi-Einzugsgebiet. Nach dem verheerenden Großen Brand von 1871 wurde Chicago rasch wieder aufgebaut und entwickelte sich zu einem Pionier der modernen Architektur; hier entstand 1885 der erste Wolkenkratzer der Welt. Die Skyline wird heute vom 442 Meter hohen Willis Tower (früher Sears Tower) dominiert. Chicago ist ein globales Finanzzentrum, berühmt für die Chicagoer Börse, sowie für seine lebendige Musikszene, die tief im Blues und Jazz verwurzelt ist. Geographie K8 — Urbanisierung am Michigansee.",
+      "factsAdvanced": [
+        "1837 offiziell als Stadt inkorporiert",
+        "Der Große Brand von 1871 zerstörte rund 9 Quadratkilometer der Stadt",
+        "Der Willis Tower (Sears Tower) war von 1973 bis 1998 das höchste Gebäude der Welt",
+        "Heimat des ersten Wolkenkratzers (Home Insurance Building, 1885)",
+        "Der O'Hare International Airport gehört zu den verkehrsreichsten Flughäfen",
+        "Bekannt für Deep-Dish Pizza und Chicago-Style Hot Dogs"
+      ]
+    },
+    {
+      "id": "houston-cities-v2",
+      "descriptionAdvanced": "Houston ist die bevölkerungsreichste Stadt in Texas und die viertgrößte in den Vereinigten Staaten. Gelegen an der Golfküste, wurde die Stadt 1836 von den Brüdern Augustus und John Allen gegründet. Houston spielt eine zentrale Rolle in der globalen Energieindustrie, insbesondere in der Erdöl- und Erdgasförderung. Darüber hinaus ist die Stadt weltweit bekannt für das Lyndon B. Johnson Space Center der NASA, von dem aus 1969 die Apollo-11-Mission zum Mond geleitet wurde ('Houston, wir haben ein Problem'). Der Hafen von Houston ist einer der wichtigsten für internationalen Handel in den USA. Kulturell bietet das Museum District zahlreiche hochkarätige Institutionen, und die Stadt weist eine der vielfältigsten Bevölkerungsstrukturen des Landes auf. Wirtschaft K8 — Energie und Raumfahrt.",
+      "factsAdvanced": [
+        "Gegründet 1836 am Ufer des Buffalo Bayou",
+        "Zentrum der globalen Öl- und Gasindustrie",
+        "Sitz des NASA Mission Control Centers (Lyndon B. Johnson Space Center)",
+        "Das Texas Medical Center ist der größte medizinische Komplex der Welt",
+        "Das Astrodome, eröffnet 1965, war das erste überdachte, klimatisierte Stadion",
+        "Zählt zu den ethnisch vielfältigsten Städten der Vereinigten Staaten"
+      ]
+    },
+    {
+      "id": "phoenix-cities-v2",
+      "descriptionAdvanced": "Phoenix, die Hauptstadt und größte Stadt des Bundesstaates Arizona, liegt im Herzen der Sonora-Wüste im Tal der Sonne (Valley of the Sun). Die 1881 als Stadt inkorporierte Siedlung entwickelte sich aufgrund der Konstruktion von Kanälen, die Wasser aus dem Salt River ableiteten, schnell zu einem landwirtschaftlichen Zentrum, bevor sie sich zu einer schnell wachsenden Metropole wandelte. Heute ist Phoenix mit über 1,6 Millionen Einwohnern die fünftgrößte Stadt der USA. Das extrem heiße Wüstenklima mit über 300 Sonnentagen pro Jahr zieht Touristen und Rentner an, erfordert aber auch immense Ressourcen für die Kühlung. Wirtschaftlich dominieren Hightech-Industrie, Gesundheitswesen und Immobilien. Geographie K7 — Leben und Wirtschaft in Wüstenregionen.",
+      "factsAdvanced": [
+        "Hauptstadt und bevölkerungsreichste Stadt in Arizona",
+        "1881 offiziell als Stadt anerkannt",
+        "Liegt im Salt River Valley in der nördlichen Sonora-Wüste",
+        "Die Durchschnittstemperatur im Juli übersteigt häufig 41 °C",
+        "Der Camelback Mountain ist ein markantes geografisches Wahrzeichen",
+        "Heimat des Heard Museums, das indigene Kunst und Kultur präsentiert"
+      ]
+    },
+    {
+      "id": "philadelphia-cities-v2",
+      "descriptionAdvanced": "Philadelphia in Pennsylvania ist eine der ältesten und historisch bedeutendsten Städte der Vereinigten Staaten. Sie wurde 1682 von William Penn gegründet und diente während der Amerikanischen Revolution als intellektuelles und politisches Zentrum. Hier trafen sich die Gründungsväter in der Independence Hall, um 1776 die Unabhängigkeitserklärung und 1787 die US-Verfassung zu unterzeichnen. Die Liberty Bell ist eines der berühmtesten Symbole für Freiheit im Land. Im späten 18. Jahrhundert war Philadelphia sogar zeitweise die Hauptstadt der USA. Heute ist sie ein florierendes Zentrum für Bildung, Gesundheit und Forschung mit zahlreichen Universitäten. Die Stadtkulisse verbindet koloniale Architektur mit modernen Wolkenkratzern und einer starken postindustriellen Identität. Geschichte K8 — Gründung der Vereinigten Staaten.",
+      "factsAdvanced": [
+        "Gegründet 1682 durch den Quäker William Penn",
+        "Die Unabhängigkeitserklärung wurde hier 1776 verabschiedet",
+        "Diente von 1790 bis 1800 als Hauptstadt der Vereinigten Staaten",
+        "Heimat der Liberty Bell (Freiheitsglocke)",
+        "Die University of Pennsylvania wurde 1740 von Benjamin Franklin gegründet",
+        "Bekannt für das kulinarische Original, das Philly Cheesesteak"
+      ]
+    },
+    {
+      "id": "san-antonio-cities-v2",
+      "descriptionAdvanced": "San Antonio im südlichen Zentral-Texas zeichnet sich durch sein reiches koloniales Erbe und eine starke mexikanisch-amerikanische Kultur aus. Die Stadt entstand aus einer 1718 gegründeten spanischen Mission. Weltweite Bekanntheit erlangte San Antonio durch die Schlacht von Alamo im Jahr 1836, bei der texanische Verteidiger heldenhaft, aber vergeblich gegen mexikanische Truppen kämpften. Das Alamo, eine ehemalige Missionsstation, ist heute das am meisten besuchte historische Wahrzeichen in Texas. Ein weiterer zentraler Anziehungspunkt ist der River Walk (Paseo del Río), ein kilometerlanges Netzwerk aus Gehwegen entlang des San Antonio River, das mit Restaurants und Geschäften gesäumt ist. Militärstützpunkte und Tourismus bilden das wirtschaftliche Rückgrat der Stadt. Geschichte K7 — Spanische Kolonialzeit und Texas-Revolution.",
+      "factsAdvanced": [
+        "Ursprung in der 1718 gegründeten Mission San Antonio de Valero",
+        "Die Schlacht von Alamo fand hier im Jahr 1836 statt",
+        "Der River Walk ist ein 24 Kilometer langes Netzwerk am San Antonio River",
+        "Die fünf spanischen Missionen sind seit 2015 UNESCO-Weltkulturerbe",
+        "Verfügt über eine der größten Konzentrationen von Militärbasen in den USA",
+        "Der Tower of the Americas wurde für die Weltausstellung 1968 erbaut"
+      ]
+    },
+    {
+      "id": "san-diego-cities-v2",
+      "descriptionAdvanced": "San Diego liegt an der Pazifikküste im äußersten Süden Kaliforniens, unmittelbar an der Grenze zu Mexiko. Die Region wird oft als 'Geburtsort Kaliforniens' bezeichnet, da sie der Standort der ersten spanischen Mission, der Mission San Diego de Alcalá, aus dem Jahr 1769 ist. Heute ist die Stadt berühmt für ihr mildes, mediterranes Klima, ausgedehnte Strände und tiefes Hafenwasser. San Diego beherbergt die größte Marineflotte der US Navy im Pazifik. Neben der Präsenz des Militärs florieren hier die Biotechnologie und der internationale Handel. Der Balboa Park, eine riesige urbane Kulturlandschaft, beherbergt nicht nur zahlreiche Museen in spanischer Kolonialarchitektur, sondern auch den weltberühmten San Diego Zoo. Geographie K7 — Küstenstädte und militärische Infrastruktur.",
+      "factsAdvanced": [
+        "1769 wurde hier die erste spanische Mission in Kalifornien gegründet",
+        "Beherbergt den wichtigsten Pazifik-Stützpunkt der United States Navy",
+        "Der Balboa Park erstreckt sich über 485 Hektar mit zahlreichen Museen",
+        "Der San Diego Zoo war ein Pionier bei käfiglosen Gehegen",
+        "Die Coronado Bridge verbindet die Stadt mit der Insel Coronado",
+        "Grenzt direkt an die mexikanische Stadt Tijuana"
+      ]
+    },
+    {
+      "id": "dallas-cities-v2",
+      "descriptionAdvanced": "Dallas, eine bedeutende Metropole im Norden von Texas, bildet das historische und wirtschaftliche Zentrum des Dallas-Fort Worth Metroplex. Die 1841 gegründete Stadt wuchs zunächst als wichtiger Knotenpunkt für die Eisenbahn und die Baumwollindustrie. Im 20. Jahrhundert katapultierte die Entdeckung riesiger Ölfelder in der Region Dallas zu einer mächtigen Wirtschaftsmetropole. Heute hat sich der Schwerpunkt auf Telekommunikation, Bankwesen und Logistik verlagert. Die moderne Skyline wird unter anderem durch den markanten Reunion Tower geprägt. Tragische Berühmtheit erlangte die Stadt am 22. November 1963 durch das tödliche Attentat auf Präsident John F. Kennedy am Dealey Plaza, dessen Geschichte im Sixth Floor Museum dokumentiert ist. Geschichte K8 — Wirtschaftswachstum und politische Ereignisse im 20. Jahrhundert.",
+      "factsAdvanced": [
+        "Gegründet 1841 von John Neely Bryan nahe dem Trinity River",
+        "Zentrum des viertgrößten Ballungsraums in den Vereinigten Staaten",
+        "Ort des Attentats auf US-Präsident John F. Kennedy im Jahr 1963",
+        "Der Dallas/Fort Worth International Airport (DFW) gehört zu den größten der Welt",
+        "Starker Wirtschaftsstandort mit zahlreichen Fortune-500-Unternehmen",
+        "Das Dallas Museum of Art ist eine der führenden Kunstinstitutionen im Land"
+      ]
+    },
+    {
+      "id": "san-jose-cities-v2",
+      "descriptionAdvanced": "San José ist die bevölkerungsreichste Stadt in der San Francisco Bay Area in Nordkalifornien und dient als kulturelles, politisches und wirtschaftliches Zentrum des Silicon Valley. Ursprünglich 1777 als landwirtschaftliche Gemeinde unter spanischer Herrschaft (El Pueblo de San José de Guadalupe) gegründet, erlebte die Region ab Mitte des 20. Jahrhunderts einen beispiellosen technologischen Wandel. San José wurde zum Hauptsitz zahlloser hochkarätiger Technologieunternehmen und Start-ups in den Bereichen Mikroelektronik und Software. Der rapide Bevölkerungszuwachs führte zu einem massiven urbanen Ausbau. Die Stadt ist bekannt für ihren hohen Lebensstandard, hohe Immobilienpreise und ihre ausgeprägte Innovationskraft, verfügt jedoch auch über das historische Winchester Mystery House als touristische Kuriosität. Wirtschaft K8 — Technologiezentren und Innovation.",
+      "factsAdvanced": [
+        "Gegründet 1777 als erste zivile spanische Siedlung in Alta California",
+        "Gilt als die Hauptstadt des Silicon Valley",
+        "Erste Hauptstadt des Bundesstaates Kalifornien im Jahr 1850",
+        "Das Winchester Mystery House ist eine historische architektonische Besonderheit",
+        "Heimat der San Jose State University, der ältesten öffentlichen Hochschule in Kalifornien",
+        "Eine der Städte mit den höchsten Durchschnittseinkommen in den USA"
+      ]
+    },
+    {
+      "id": "austin-cities-v2",
+      "descriptionAdvanced": "Austin ist die Hauptstadt des US-Bundesstaates Texas und liegt im malerischen Hill Country am Colorado River. Die 1839 gegründete Stadt wurde nach Stephen F. Austin, dem 'Vater von Texas', benannt. Austin ist berühmt als die 'Live-Musik-Hauptstadt der Welt', was sich durch zahllose Veranstaltungsorte und das riesige Festival South by Southwest (SXSW) manifestiert. In den letzten Jahrzehnten erlebte Austin ein enormes Bevölkerungswachstum und entwickelte sich zu einem bedeutenden Zentrum für die Technologiebranche, weshalb die Region oft als 'Silicon Hills' bezeichnet wird. Das beeindruckende Texas State Capitol, das aus rosafarbenem Granit erbaut wurde, dominiert die historische Skyline. Die lebendige Kulturszene und die Nähe zu Naturparks prägen den städtischen Lebensstil. Geographie K8 — Kultur und Technologiewachstum in Texas.",
+      "factsAdvanced": [
+        "Gegründet 1839 und benannt nach Stephen F. Austin",
+        "Hauptstadt des Bundesstaates Texas seit 1839",
+        "Trägt den offiziellen Slogan 'Live Music Capital of the World'",
+        "Das Texas State Capitol ist größer als das US-Kapitol in Washington",
+        "Das Technologiezentrum wird oft als 'Silicon Hills' bezeichnet",
+        "Die Stadt beherbergt den Hauptcampus der University of Texas"
+      ]
+    },
+    {
+      "id": "jacksonville-cities-v2",
+      "descriptionAdvanced": "Jacksonville im Nordosten Floridas ist, gemessen an der Landfläche, die größte Stadt in den zusammenhängenden Vereinigten Staaten. Die Stadt liegt an den Ufern des St. Johns River und erstreckt sich bis an den Atlantischen Ozean. Sie wurde 1822 benannt nach Andrew Jackson, dem ersten Militärgouverneur des Florida-Territoriums und späteren US-Präsidenten. Aufgrund der tiefen Gewässer und der strategischen Lage ist Jacksonville ein bedeutender militärischer und ziviler Hafen. Zwei wichtige Basen der US Navy, die Naval Station Mayport und die Naval Air Station Jacksonville, befinden sich hier. Das milde Klima, kilometerlange Strände und zahlreiche Naturparks machen die Region auch zu einem beliebten Ziel für Outdoor-Aktivitäten. Geographie K7 — Stadtentwicklung und maritime Infrastruktur in Florida.",
+      "factsAdvanced": [
+        "Flächenmäßig die größte Stadt auf dem amerikanischen Festland (über 2200 km²)",
+        "Benannt nach Andrew Jackson, dem siebten Präsidenten der USA",
+        "Der Hafen ist ein wichtiges logistisches Zentrum für Automobilimporte",
+        "Beherbergt mehrere bedeutende Stützpunkte der US Navy",
+        "Der St. Johns River ist einer der wenigen Flüsse, die von Süd nach Nord fließen",
+        "Consolidated City-County Government seit 1968"
+      ]
+    },
+    {
+      "id": "fort-worth-cities-v2",
+      "descriptionAdvanced": "Fort Worth, gelegen im Norden von Texas, ist eng mit der Cowboy-Kultur und der Geschichte des amerikanischen Westens verwoben. Ursprünglich 1849 als Armeeposten auf einer Klippe über dem Trinity River gegründet, entwickelte sich die Stadt zu einem entscheidenden Knotenpunkt für den Viehtrieb entlang des Chisholm Trail. Die Fort Worth Stockyards, wo früher Millionen von Rindern umgeschlagen wurden, sind heute ein historisches Viertel, das diese Ära mit täglichen Viehtrieben lebendig hält. Im 20. Jahrhundert profitierte die Stadt enorm von der Ölförderung und entwickelte eine starke Luftfahrtindustrie. Trotz ihres modernen Wachstums im Rahmen des Dallas-Fort Worth Metroplex pflegt Fort Worth stolz den Slogan 'Where the West Begins'. Geschichte K7 — Viehzucht und die Expansion nach Westen.",
+      "factsAdvanced": [
+        "1849 als amerikanischer Militärposten gegründet",
+        "Wichtige Station am historischen Chisholm Trail für Rindertriebe",
+        "Die Fort Worth Stockyards sind ein landesweit bekanntes historisches Viertel",
+        "Bekannt unter dem Spitznamen 'Cowtown'",
+        "Das Kimbell Art Museum besitzt eine weltweit renommierte Kunstsammlung",
+        "Ein wichtiges Zentrum für die Luft- und Raumfahrtfertigung"
+      ]
+    },
+    {
+      "id": "columbus-cities-v2",
+      "descriptionAdvanced": "Columbus ist die Hauptstadt und bevölkerungsreichste Stadt des US-Bundesstaates Ohio. Sie wurde 1812 strategisch günstig am Zusammenfluss der Flüsse Scioto und Olentangy gegründet, um als neues Zentrum für den Bundesstaat zu dienen. Die Wirtschaft der Metropole ist bemerkenswert diversifiziert und stützt sich auf Bildung, Regierung, Versicherung, Bankwesen und Technologie. Columbus ist Sitz der Ohio State University, einer der größten und angesehensten Universitäten in den Vereinigten Staaten, die das intellektuelle und kulturelle Leben der Stadt stark prägt. Moderne Stadtentwicklungsinitiativen haben in den letzten Jahrzehnten historische Viertel wie das German Village, das im 19. Jahrhundert von deutschen Einwanderern erbaut wurde, revitalisiert. Geographie K8 — Wirtschaftliche Diversifikation im Mittleren Westen.",
+      "factsAdvanced": [
+        "Gegründet 1812 als neue Hauptstadt für Ohio",
+        "Benannt nach dem Entdecker Christoph Kolumbus",
+        "Die Ohio State University wurde 1870 gegründet",
+        "Das German Village ist ein historisches Viertel, das im 19. Jh. entstand",
+        "Heimat des Battelle Memorial Institute, der weltgrößten F&E-Organisation",
+        "Das Columbus Museum of Art beherbergt europäische und amerikanische Kunst"
+      ]
+    },
+    {
+      "id": "charlotte-cities-v2",
+      "descriptionAdvanced": "Charlotte in North Carolina ist eine der am schnellsten wachsenden Metropolen im Südosten der USA. Die Stadt, 1768 gegründet, wurde nach der britischen Königin Sophie Charlotte von Mecklenburg-Strelitz benannt und trägt daher den Spitznamen 'Queen City'. Nach New York City hat sich Charlotte zum zweitgrößten Bankenzentrum der Vereinigten Staaten entwickelt; unter anderem ist hier der Hauptsitz der Bank of America. Die Stadtgeschichte ist auch eng mit dem frühen amerikanischen Goldrausch verwoben, nachdem 1799 in der Nähe Gold entdeckt wurde. Heute ist Charlotte zudem ein absolutes Zentrum für den amerikanischen Motorsport, da hier die NASCAR Hall of Fame und zahlreiche Rennställe angesiedelt sind. Wirtschaft K8 — Entwicklung des Banken- und Finanzwesens im Süden.",
+      "factsAdvanced": [
+        "1768 inkorporiert und nach der britischen Königin Charlotte benannt",
+        "Trägt den verbreiteten Spitznamen 'Queen City'",
+        "Zweitgrößtes Finanz- und Bankenzentrum in den USA",
+        "Der erste Goldrausch der USA begann 1799 in der Nähe von Charlotte",
+        "Sitz der NASCAR Hall of Fame und zahlreicher Rennteams",
+        "Heimat des NFL-Teams Carolina Panthers"
+      ]
+    },
+    {
+      "id": "indianapolis-cities-v2",
+      "descriptionAdvanced": "Indianapolis ist die Hauptstadt und zugleich größte Stadt des Bundesstaates Indiana im Mittleren Westen der USA. Sie wurde 1821 planmäßig als Hauptstadt entworfen, wobei sich der städtebauliche Entwurf mit einem zentralen Monument Circle und strahlenförmigen Straßen stark an Washington, D.C. orientierte. Im späten 19. und frühen 20. Jahrhundert profitierte die Stadt enorm vom Ausbau der Eisenbahn und einer aufkommenden Automobilindustrie. Heute ist Indianapolis weltweit bekannt für das 'Indianapolis 500', eines der ältesten und traditionsreichsten Automobilrennen der Welt, das jährlich auf dem legendären Indianapolis Motor Speedway ausgetragen wird. Neben dem Sport sind Gesundheitswesen, Pharmazeutika und die Logistikbranche wichtige wirtschaftliche Standbeine. Geographie K8 — Infrastruktur und Sportveranstaltungen im Mittleren Westen.",
+      "factsAdvanced": [
+        "1821 als Planstadt und Hauptstadt von Indiana gegründet",
+        "Das Stadtzentrum ist geprägt vom Soldiers and Sailors Monument",
+        "Austragungsort des jährlichen Rennens 'Indianapolis 500'",
+        "Der Indianapolis Motor Speedway wurde bereits 1909 eröffnet",
+        "Oft als 'Crossroads of America' (Kreuzung Amerikas) bezeichnet",
+        "Der Eli Lilly and Company Hauptsitz befindet sich hier"
+      ]
+    },
+    {
+      "id": "seattle-cities-v2",
+      "descriptionAdvanced": "Seattle ist die größte Stadt in der pazifischen Nordwestregion der USA und liegt im Bundesstaat Washington. Die Metropole ist spektakulär gelegen zwischen dem Puget Sound, einer großen Meeresbucht, und den Kaskadengebirgen. Seattle wurde Mitte des 19. Jahrhunderts gegründet und florierte zunächst durch die Holzindustrie, später als Ausgangspunkt für den Klondike-Goldrausch im Jahr 1897. Heute ist die 'Emerald City' (Smaragdstadt) ein globales Zentrum für Technologie und Innovation, in dem Unternehmen wie Amazon und Microsoft (im nahen Redmond) ansässig sind. Die Skyline wird von der Space Needle dominiert, die für die Weltausstellung 1962 erbaut wurde. Bekannt ist Seattle auch für seine starke Kaffeekultur und als Geburtsort der Grunge-Musik. Wirtschaft K8 — Technologie und Hafenwirtschaft im Pazifischen Nordwesten.",
+      "factsAdvanced": [
+        "Gegründet in den 1850er Jahren am Puget Sound",
+        "Die Space Needle (184 m hoch) wurde für die Weltausstellung 1962 errichtet",
+        "Sitz großer Konzerne wie Amazon und Starbucks",
+        "Der Pike Place Market ist einer der ältesten durchgehend betriebenen Bauernmärkte",
+        "Wichtiger Ausgangspunkt während des Klondike-Goldrauschs von 1897",
+        "Zentrum der Grunge-Musikbewegung in den frühen 1990er Jahren"
+      ]
+    },
+    {
+      "id": "denver-cities-v2",
+      "descriptionAdvanced": "Denver, die Hauptstadt von Colorado, wird wegen ihrer genauen Höhenlage von 5.280 Fuß (ca. 1.609 Meter) über dem Meeresspiegel auch als 'Mile High City' bezeichnet. Sie liegt strategisch günstig am westlichen Rand der Great Plains, unmittelbar vor der steilen Front Range der Rocky Mountains. Denver entstand 1858 während des Pikes Peak-Goldrausches als Bergbaulager. In den folgenden Jahrzehnten entwickelte sich die Stadt durch den Ausbau der Eisenbahn rasch zu einem wichtigen landwirtschaftlichen und logistischen Knotenpunkt im Westen. Heute ist Denver ein modernes Zentrum für Telekommunikation, Energie und ein beliebtes Drehkreuz für den Outdoor-Tourismus in den Rocky Mountains. Die Stadt verfügt zudem über eines der umfangreichsten städtischen Parksysteme des Landes. Geographie K7 — Gebirgslandschaften und ihre wirtschaftliche Nutzung.",
+      "factsAdvanced": [
+        "1858 während des Pikes Peak-Goldrauschs gegründet",
+        "Liegt exakt eine Meile (1609 Meter) über dem Meeresspiegel",
+        "Der Denver International Airport ist flächenmäßig der größte der USA",
+        "Wichtiger Eisenbahnknotenpunkt für Transporte durch die Rocky Mountains",
+        "Das Red Rocks Amphitheatre liegt in einer natürlichen Felsformation in der Nähe",
+        "Sitz der US Mint (Münzprägeanstalt) in Denver"
+      ]
+    },
+    {
+      "id": "washington-dc-cities-v2",
+      "descriptionAdvanced": "Washington, D.C., der Bundesdistrikt der Vereinigten Staaten, ist die eigens geschaffene Hauptstadt der Nation. Die Stadt liegt am Potomac River und wurde 1791 vom französischen Architekten Pierre Charles L'Enfant geplant. Sie beherbergt die drei Gewalten der US-Bundesregierung: das Kapitol (Legislative), das Weiße Haus (Exekutive) und den Supreme Court (Judikative). Washington ist nicht Teil eines Bundesstaates, sondern ein unabhängiger Distrikt, der vom Kongress kontrolliert wird. Die National Mall, ein riesiger grüner Park im Zentrum, ist gesäumt von monumentalen Denkmälern für Präsidenten (wie das Lincoln Memorial) und den herausragenden, kostenfreien Museen der Smithsonian Institution. Neben Regierungsgeschäften spielen Lobbying, Diplomatie und internationale Organisationen wie der IWF die Hauptrolle. Politik K8 — Struktur der US-Regierung.",
+      "factsAdvanced": [
+        "1790 durch den Residence Act genehmigt und 1791 gegründet",
+        "Benannt nach George Washington, dem ersten US-Präsidenten",
+        "Der Grundriss wurde von Pierre Charles L'Enfant entworfen",
+        "Beherbergt das Kapitol, das Weiße Haus und den Supreme Court",
+        "Die Smithsonian Institution betreibt 19 Museen und den Nationalzoo",
+        "Kein Bundesstaat; Bürger haben keine stimmberechtigte Vertretung im Senat"
+      ]
+    },
+    {
+      "id": "boston-cities-v2",
+      "descriptionAdvanced": "Boston, die Hauptstadt von Massachusetts, ist eine der historisch einflussreichsten Städte der Vereinigten Staaten. Sie wurde 1630 von puritanischen Siedlern aus England gegründet. Boston war der zentrale Schauplatz wichtiger Ereignisse der Amerikanischen Revolution, wie dem Massaker von Boston (1770) und der Boston Tea Party (1773). Der Freedom Trail, ein roter Ziegelpfad durch die Stadt, verbindet noch heute 16 historische Stätten. Neben der Geschichte zeichnet sich Boston durch ein weltweit führendes Bildungs- und Forschungsnetzwerk aus; im angrenzenden Cambridge befinden sich die Harvard University und das MIT. Die Wirtschaft wird stark von Medizin, Hochschulbildung, Finanzdienstleistungen und moderner Biotechnologie getragen. Geschichte K8 — Ursprünge der Amerikanischen Revolution.",
+      "factsAdvanced": [
+        "1630 durch englische Puritaner auf der Shawmut-Halbinsel gegründet",
+        "Schauplatz der Boston Tea Party am 16. Dezember 1773",
+        "Der Freedom Trail verbindet auf 4 Kilometern historische Orte",
+        "Harvard University (1636 im benachbarten Cambridge gegründet) ist die älteste Uni der USA",
+        "Die Bostoner U-Bahn ('T') ist das älteste U-Bahn-System des Landes (1897)",
+        "Wichtiger globaler Hub für Biotechnologie und medizinische Forschung"
+      ]
+    },
+    {
+      "id": "el-paso-cities-v2",
+      "descriptionAdvanced": "El Paso, gelegen an der westlichsten Spitze von Texas entlang des Rio Grande, bildet zusammen mit der mexikanischen Stadt Ciudad Juárez eine massive binationale Metropolregion. Die Siedlungsgeschichte reicht bis 1659 zurück, als spanische Mönche eine Mission gründeten; der Name stammt von 'El Paso del Norte' (Der Pass des Nordens). El Paso hat aufgrund seiner starken militärischen Präsenz – vor allem durch Fort Bliss – und des grenzüberschreitenden Handels eine robuste Wirtschaft. Das trockene Wüstenklima wird durch die beeindruckenden Franklin Mountains unterbrochen, die sich direkt in das Stadtgebiet erstrecken. Die Kultur der Stadt ist zutiefst von der hispanischen Tradition geprägt, was sich in der lokalen Küche, Architektur und Zweisprachigkeit widerspiegelt. Geographie K7 — Grenzwirtschaft und binationale Regionen.",
+      "factsAdvanced": [
+        "Befindet sich an der mexikanischen Grenze gegenüber von Ciudad Juárez",
+        "Fort Bliss ist einer der flächenmäßig größten Militärstützpunkte der US Army",
+        "Die Franklin Mountains ragen bis in das Stadtgebiet hinein",
+        "Die Ysleta Mission ist die älteste kontinuierlich betriebene Kirchengemeinde in Texas (1682)",
+        "Besitzt eine Bevölkerungsstruktur mit über 80 % hispanischem Anteil",
+        "Wichtiger Umschlagplatz für den internationalen Handel zwischen den USA und Mexiko"
+      ]
+    },
+    {
+      "id": "detroit-cities-v2",
+      "descriptionAdvanced": "Detroit, die größte Stadt in Michigan, liegt am Detroit River nahe der kanadischen Grenze. Sie wurde 1701 von dem französischen Entdecker Antoine de la Mothe Cadillac gegründet. Im 20. Jahrhundert wurde Detroit weltweit als 'Motor City' berühmt, da Henry Ford und andere Pioniere die Stadt zum unbestrittenen Zentrum der globalen Automobilindustrie machten. Die Erfindung der Fließbandproduktion veränderte hier die Weltwirtschaft. Musikalisch prägte Detroit die Popkultur durch das Plattenlabel Motown Records in den 1960er Jahren. Nach jahrzehntelangem industriellen Niedergang und einem massiven Bevölkerungsrückgang durchläuft Detroit heute eine ambitionierte Phase der städtebaulichen und wirtschaftlichen Erneuerung, die den Fokus auf Technologie und Dienstleistungen setzt. Wirtschaft K8 — Aufstieg und Wandel der Automobilindustrie.",
+      "factsAdvanced": [
+        "1701 von Franzosen als Fort Pontchartrain du Détroit gegründet",
+        "Zentrum der amerikanischen Automobilindustrie ('Motor City')",
+        "Heimat von Ford, General Motors und Chrysler (den 'Big Three')",
+        "Geburtsort des Plattenlabels Motown Records (1959)",
+        "Erlebte ab den 1950er Jahren einen massiven Rückgang der Bevölkerung",
+        "Das Detroit Institute of Arts besitzt bedeutende Wandgemälde von Diego Rivera"
+      ]
+    },
+    {
+      "id": "nashville-cities-v2",
+      "descriptionAdvanced": "Nashville ist die Hauptstadt des US-Bundesstaates Tennessee und liegt am Cumberland River. Die Stadt, die 1779 als Fort Nashborough gegründet wurde, ist weltweit als 'Music City' anerkannt. Sie bildet das absolute Herzstück der Country-Musik-Industrie, mit ikonischen Einrichtungen wie der Grand Ole Opry, dem Ryman Auditorium und der Country Music Hall of Fame. Das Vergnügungsviertel entlang des Broadways zieht jährlich Millionen von Besuchern an. Neben der starken Musik- und Unterhaltungsbranche florieren in Nashville jedoch auch das Gesundheitswesen und die Automobilproduktion. Zudem beherbergt die Stadt zahlreiche Universitäten, darunter die prestigeträchtige Vanderbilt University, was ihr den Spitznamen 'Athen des Südens' eingebracht hat. Musik K7 — Die Entwicklung der Country-Musik in den USA.",
+      "factsAdvanced": [
+        "Gegründet 1779 am Ufer des Cumberland River",
+        "Zentrum der globalen Country-Musik-Industrie",
+        "Die Radioshow 'Grand Ole Opry' wird seit 1925 gesendet",
+        "Wird aufgrund zahlreicher Hochschulen als 'Athen des Südens' bezeichnet",
+        "Verfügt über einen maßstabsgetreuen Nachbau des griechischen Parthenon",
+        "Die Gesundheitsindustrie ist der größte wirtschaftliche Sektor der Stadt"
+      ]
+    },
+    {
+      "id": "portland-or-cities-v2",
+      "descriptionAdvanced": "Portland liegt im pazifischen Nordwesten der USA, am Zusammenfluss der Flüsse Willamette und Columbia im Bundesstaat Oregon. Die in den 1840er Jahren gegründete Stadt ist bekannt für ihre ausgeprägte ökologische Nachhaltigkeit, ihr umfangreiches Netz an öffentlichen Verkehrsmitteln und eine starke Fahrradkultur. Portland wird oft als 'Stadt der Rosen' (City of Roses) bezeichnet, da das dortige milde und regnerische Klima ideal für den Rosenanbau ist, was sich eindrucksvoll im International Rose Test Garden zeigt. Kulturell hat Portland eine sehr lebendige Szene für Mikrobrauereien, Kaffeeröstereien und eine alternative Kunst- und Musikszene. Die Wirtschaft stützt sich auf Hochtechnologie ('Silicon Forest'), Outdoor-Bekleidung und Stahlindustrie. Geographie K8 — Nachhaltige Stadtplanung im Nordwesten.",
+      "factsAdvanced": [
+        "Gegründet in den 1840er Jahren am Willamette River",
+        "Trägt aufgrund des idealen Klimas den Spitznamen 'City of Roses'",
+        "Verfügt über den International Rose Test Garden mit über 10.000 Rosenbüschen",
+        "Pionier bei der nachhaltigen Stadtplanung und der Fahrrad-Infrastruktur",
+        "Das Technologiezentrum der Region wird 'Silicon Forest' genannt",
+        "Heimat des massiven Forest Park, eines der größten städtischen Wälder der USA"
+      ]
+    },
+    {
+      "id": "memphis-cities-v2",
+      "descriptionAdvanced": "Memphis liegt strategisch günstig auf den Flussklippen (Chickasaw Bluffs) hoch über dem Mississippi River im Südwesten des Bundesstaates Tennessee. Die Stadt, die 1819 gegründet wurde, entwickelte sich historisch zu einem massiven Umschlagplatz für Baumwolle und Holz auf dem Flussweg. Weltweiten Ruhm erlangte Memphis jedoch als musikalischer Schmelztiegel: Hier entstanden wesentliche Elemente des Blues, des Soul und des Rock 'n' Roll. Das Sun Studio und die Beale Street sind historische Meilensteine, während Elvis Presleys Anwesen Graceland eine der meistbesuchten Residenzen des Landes ist. Zudem war Memphis Schauplatz tiefgreifender Ereignisse der Bürgerrechtsbewegung, darunter die tragische Ermordung von Dr. Martin Luther King Jr. im Jahr 1968. Geschichte K8 — Bürgerrechtsbewegung und amerikanische Musikgeschichte.",
+      "factsAdvanced": [
+        "Gegründet 1819 am Mississippi River und nach der ägyptischen Hauptstadt benannt",
+        "Graceland, das Anwesen von Elvis Presley, zieht jährlich Hunderttausende an",
+        "Das Sun Studio nahm frühe Hits von Elvis, Johnny Cash und Jerry Lee Lewis auf",
+        "Die historische Beale Street ist ein Zentrum für den amerikanischen Blues",
+        "Dr. Martin Luther King Jr. wurde hier 1968 vor dem Lorraine Motel ermordet",
+        "Das National Civil Rights Museum befindet sich auf dem Gelände des Lorraine Motels"
+      ]
+    }
+  ]
+}

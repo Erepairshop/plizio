@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bronx-zoo-life-v2",
+      "descriptionAdvanced": "The Bronx Zoo, located in New York City, is the largest metropolitan zoo in the United States, spanning 265 acres of diverse, naturalistic habitats. Since its founding in 1899, it has been a global pioneer in wildlife conservation and zoo design, moving beyond cages to provide immersive environments for thousands of animals representing hundreds of species. The zoo is a central hub for the Wildlife Conservation Society, leading critical international research and captive-breeding programs for endangered species. Today, it serves as a vital educational institution for millions of urban residents, connecting the city’s vast population to the complexity of global biodiversity and the urgency of protecting fragile ecosystems. Sachkunde K5 — Urban conservation and biodiversity education.",
+      "factsAdvanced": [
+        "Largest metropolitan zoo in the United States, spanning 265 acres.",
+        "Founded in 1899 and a historic pioneer in wildlife conservation design.",
+        "Provides extensive, immersive habitats for thousands of animals.",
+        "Central operational hub for the Wildlife Conservation Society.",
+        "Leads critical international research and endangered species breeding programs.",
+        "Essential urban institution for connecting city residents to biodiversity."
+      ]
+    },
+    {
+      "id": "kansas-wheat-fields-life-v2",
+      "descriptionAdvanced": "The wheat fields of Kansas are a defining element of the American Great Plains, serving as one of the most productive agricultural landscapes in the world. Often called the 'Wheat State,' Kansas produces a massive proportion of the nation's winter wheat crop, a foundational staple for both domestic and international food security. This agricultural success is rooted in the prairie's vast, flat geography and fertile soils, but it has required large-scale mechanization and sustainable water management to remain viable under the pressures of the changing regional climate. The wheat fields are not just economic zones; they are iconic landscapes that represent the essential role of American agricultural production in the global food chain. Landwirtschaft K7 — Great Plains agriculture and food security.",
+      "factsAdvanced": [
+        "Kansas is famously known as the 'Wheat State' of the US.",
+        "Produces a massive proportion of the nation's annual winter wheat crop.",
+        "Agricultural success is built on the fertile, flat landscape of the Great Plains.",
+        "Requires large-scale mechanization to manage its expansive production.",
+        "Remains a foundational pillar of national and global food security.",
+        "Iconic landscape representing the heart of American agricultural production."
+      ]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "descriptionAdvanced": "Glacier National Park in Montana is a stunning wilderness sanctuary characterized by its dramatic alpine scenery, deep, carved valleys, and the remnants of its namesake glaciers. Established in 1910, the park provides a rugged, high-altitude habitat for a spectacular array of wildlife, including mountain goats, grizzly bears, and wolverines. However, the park is rapidly changing due to climate-driven glacial retreat, making it one of the most visible 'ground zero' sites for monitoring the impacts of warming on alpine ecosystems. Glacier serves as a critical laboratory for climate science and a stark reminder of the rapid loss of alpine habitats, compelling visitors to consider the urgency of ecological stewardship in a changing climate. Biologie K8 — Alpine ecology and climate-driven transformation.",
+      "factsAdvanced": [
+        "Features dramatic alpine scenery, deep carved valleys, and active glaciers.",
+        "Established in 1910 as a sanctuary for high-altitude northern biodiversity.",
+        "Critical habitat for iconic species like mountain goats and grizzly bears.",
+        "Widely monitored as a 'ground zero' site for climate-driven glacial retreat.",
+        "Serves as a vital laboratory for ongoing alpine climate science research.",
+        "Starkly highlights the urgency of global ecological stewardship."
+      ]
+    }
+  ]
+}

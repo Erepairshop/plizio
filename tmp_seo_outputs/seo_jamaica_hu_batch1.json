@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-mandeville-cities-v2",
+      "descriptionAdvanced": "Mandeville, 1816-ban alapított város, Jamaica hegyvidéki szívében, 628 méteres tengerszint feletti magasságon fekszik, ami hűvös, mérsékelt éghajlatot biztosít számára, ellentétben a sziget part menti forróságával. Ez a klíma és a György-korabeli építészeti örökség, mint például a Manchester Parish bírósági épülete, egyedülálló, brit vidéki hangulatot kölcsönöz a városnak. A város a bauxitbányászat egyik központja volt, ami hozzájárult gazdasági fejlődéséhez, ugyanakkor ma már a nyugdíjasok és a csendesebb életmódra vágyók kedvelt célpontja. Földrajz K7 – Hegyi éghajlat és gazdasági tevékenységek.",
+      "factsAdvanced": [
+        "Jamaica egyetlen jelentős városa, amely nem a tengerparton fekszik.",
+        "A Manchester Parish székhelye, amelyet V. Vilmos király egyik fiáról neveztek el.",
+        "A város tervezett, rácsos utcaszerkezete a brit gyarmati várostervezés jegyeit viseli.",
+        "Az 1820-ban épült Szent Márk-templom a György-korabeli építészet kiváló példája.",
+        "A közeli Williamsfieldben található Kirkvine bauxitfeldolgozó üzem évtizedekig a régió fő munkáltatója volt.",
+        "A hűvös éghajlat miatt a térségben sikeresen termesztenek ír burgonyát és zöldségeket.",
+        "A Northern Caribbean University (NCU) adventista egyetem a város fontos oktatási központja.",
+        "A város területe gazdag vörös földben, amely a magas bauxittartalomra utal."
+      ]
+    },
+    {
+      "id": "jm-may-pen-cities-v2",
+      "descriptionAdvanced": "May Pen, Clarendon megye nyüzsgő fővárosa, a Rio Minho, Jamaica leghosszabb folyójának partján terül el. A város a sziget egyik legfontosabb mezőgazdasági központja, különösen a cukornád- és a citrustermesztés terén játszik kiemelkedő szerepet. A hatalmas May Pen piac a régió gazdáinak és kereskedőinek találkozóhelye, ahol a helyi termékek széles skáláját kínálják. A város gyors növekedése a 20. század közepén indult meg, és mára egy dinamikus kereskedelmi és adminisztratív központtá vált, amely fontos szerepet tölt be a sziget középső részének gazdasági életében. Gazdaságtan K8 – Mezőgazdasági központok szerepe.",
+      "factsAdvanced": [
+        "A város neve egy angliai faluból származik.",
+        "A Rio Minho folyó rendszeres áradásai kihívást jelentenek a város számára.",
+        "A közeli Monymusk és New Yarmouth cukorgyárak a helyi gazdaság alapját képezik.",
+        "A város ad otthont a Clarendon Parish Council adminisztratív központjának.",
+        "A Denbigh Agricultural Show, Jamaica legnagyobb mezőgazdasági kiállítása, a város mellett kerül megrendezésre minden évben.",
+        "A May Pen-i óratorony a város egyik legismertebb tájékozódási pontja.",
+        "A város a Kingston és Mandeville közötti fő közlekedési útvonal mentén fekszik.",
+        "A lakosság jelentős része a mezőgazdasági feldolgozóiparban dolgozik."
+      ]
+    },
+    {
+      "id": "jm-savanna-la-mar-cities-v2",
+      "descriptionAdvanced": "Savanna-la-Mar, Westmoreland megye tengerparti fővárosa, az 1730-as években alakult ki, miután egy korábbi települést egy hurrikán elpusztított. A neve spanyolul 'síkság a tengernél'-t jelent, utalva a sík, part menti elhelyezkedésére. Történelme szorosan összefonódik a cukorkereskedelemmel; a 18. és 19. században a sziget egyik legforgalmasabb cukorexport-kikötője volt. Az 1800-as években épült bíróság épülete ma is áll, emlékeztetve a város gyarmati múltjára. Savanna-la-Mar ma is egy élénk kereskedelmi központ, amely a környező mezőgazdasági területeket szolgálja ki. Történelem K7 – Gyarmati kikötővárosok.",
+      "factsAdvanced": [
+        "A várost története során több hurrikán is sújtotta, a legpusztítóbb 1780-ban volt.",
+        "A kikötő mélysége lehetővé tette a nagy cukorszállító hajók fogadását.",
+        "A városközpontban számos 19. századi kereskedőház és épület maradt fenn.",
+        "A Manning's School, az egyik legrégebbi jamaicai középiskola, 1738-ban itt alakult meg.",
+        "A város a Westmoreland-i cukornád- és szarvasmarha-tenyésztési régió központja.",
+        "A helyi piac a hét több napján is nyitva tart, és a régió termékeinek központi elosztóhelye.",
+        "A Fort, egy kis erődítmény romjai még láthatók a tengerparton.",
+        "A város lakossága multikulturális, indiai és afrikai gyökerekkel is rendelkezik."
+      ]
+    },
+    {
+      "id": "jm-falmouth-cities-v2",
+      "descriptionAdvanced": "Falmouth, Trelawny megye fővárosa, a Karib-térség egyik legjobban megőrzött György-korabeli városa. A 18. és 19. század fordulóján alapították, amikor a cukortermelés virágkorát élte. A város rácsos utcaszerkezete és a fennmaradt épületek, mint például a bíróság és a Szent Péter anglikán templom, a korabeli gazdagságról és várostervezésről tanúskodnak. Falmouth volt az Újvilág egyik első városa, ahol vezetékes vizet biztosítottak. Ma a város egy fontos tengerjáró hajó kikötő, amely a történelmi örökségét modern turisztikai vonzerővel ötvözi. Építészet K8 – György-korabeli stílus.",
+      "factsAdvanced": [
+        "A várost Thomas Reid alapította 1769-ben.",
+        "A 19. század elején Jamaica egyik leggazdagabb kikötője volt, megelőzve Liverpoolt.",
+        "A Vermont-i ház egy kiváló példája a korabeli faépítészetnek, ún. 'gingerbread' díszítéssel.",
+        "A Falmouth-i kikötőt 2011-ben újították fel, hogy a világ legnagyobb tengerjáró hajóit is fogadni tudja.",
+        "A közeli Good Hope ültetvény egykor a város gazdasági motorja volt.",
+        "Itt született Usain Bolt, a világhírű sprinter, a közeli Sherwood Content faluban.",
+        "A város vízvezeték-rendszere 1799-ben épült ki.",
+        "A 'Tharp House' egyike a város legimpozánsabb történelmi rezidenciáinak."
+      ]
+    },
+    {
+      "id": "jm-saint-anns-bay-cities-v2",
+      "descriptionAdvanced": "Saint Ann's Bay, Saint Ann megye fővárosa, történelmi jelentőségű hely. A közelben található Sevilla la Nueva, az első spanyol főváros romjai, amelyet 1509-ben alapítottak. Maga a város a nemzeti hős, Marcus Garvey szülőhelyeként ismert, akinek emlékműve a városi könyvtár előtt áll. A 19. századi bíróság épülete és a Szent Anna-templom a város gyarmati múltjának tanúi. A kikötő, bár ma már kevésbé forgalmas, egykor a cukor és a pimento (szegfűbors) exportjának fontos központja volt. A városban egy Kolumbusz Kristófnak szentelt szobor is található, aki 1494-ben itt szállt partra. Történelem K6 – Felfedezések és nemzeti hősök.",
+      "factsAdvanced": [
+        "A város eredeti spanyol neve 'Santa Gloria' volt.",
+        "Marcus Garvey, a pán-afrikanizmus kiemelkedő alakja, 1887-ben itt született.",
+        "A Szent Anna-templom 1871-ben épült egy korábbi, földrengésben elpusztult templom helyén.",
+        "A városi kórház az egyik legrégebbi a szigeten.",
+        "A közeli Dunn's River vízesés a város egyik legfőbb turisztikai vonzereje.",
+        "A bíróság épülete 1860-ban épült, és ma is használatban van.",
+        "A város gazdasága ma nagymértékben a turizmusra és a kereskedelemre épül.",
+        "Sevilla la Nueva az első európai település volt Jamaicában, amelyet Kolumbusz fia, Diego alapított."
+      ]
+    },
+    {
+      "id": "jm-port-maria-cities-v2",
+      "descriptionAdvanced": "Port Maria, Saint Mary megye festői fővárosa, egy patkó alakú öbölben fekszik, amelyet a kis Cabarita-sziget őriz. A város történelmi központjában számos 18. és 19. századi épület található, köztük a Szent Mária anglikán templom és az 1821-ben épült bíróság. A város egykor a banánexport egyik legfontosabb központja volt, a kikötőből hatalmas mennyiségű gyümölcsöt szállítottak a világ minden tájára. A város fölötti dombon található a Firefly birtok, Sir Noël Coward, a híres angol drámaíró egykori otthona, ahonnan lenyűgöző kilátás nyílik a tengerre. Földrajz K7 – Part menti városok és gazdaságuk.",
+      "factsAdvanced": [
+        "A Cabarita-sziget a város jelképe, nevét a spanyol 'kecske' szóról kapta.",
+        "A Szent Mária anglikán templom 1861-ben épült.",
+        "A bíróság épülete előtt áll a Tacky-emlékmű, amely az 1760-as rabszolgafelkelés vezetőjének állít emléket.",
+        "A város egykor vasúti összeköttetéssel is rendelkezett a banánszállítás megkönnyítésére.",
+        "A közeli Galina világítótorony 1912 óta segíti a hajósokat.",
+        "A Pagee Beach a helyiek kedvelt strandja a városban.",
+        "A város építészete a spanyol és a brit gyarmati stílus jegyeit is magán viseli.",
+        "A régió gazdag pimento (szegfűbors) és kókuszültetvényekben."
+      ]
+    },
+    {
+      "id": "jm-lucea-cities-v2",
+      "descriptionAdvanced": "Lucea, Hanover megye bájos fővárosa, egy gyönyörű, mély vizű természetes kikötő köré épült. A város a 18. században virágzott fel a cukor- és banánexportnak köszönhetően. Lucea megőrizte történelmi hangulatát, a központban számos György-korabeli épület látható. A város egyik legismertebb jelképe a 19. századi öntöttvas óratorony, amelyet Németországból importáltak. A kikötőt a történelmi Fort Charlotte erőd őrzi, amelyet a 18. század közepén építettek a tengeri támadások ellen. Lucea ma egy csendesebb város, amely a turizmus és a helyi kereskedelem felé orientálódik. Történelem K7 – Gyarmati védelem és kereskedelem.",
+      "factsAdvanced": [
+        "Az óratornyot eredetileg a St. Lucián található Castries városának szánták.",
+        "A Fort Charlotte erődöt III. György király feleségéről, Charlotte királynéról nevezték el.",
+        "A kikötő természetes mélysége miatt ideális volt a nagy vitorlás hajók számára.",
+        "A Rusea's High School, Jamaica egyik legrégebbi iskolája, 1777-ben itt alakult.",
+        "A városközpont megőrizte a 19. századi rácsos utcaszerkezetét.",
+        "A város a logwood (vérfa) exportjának is fontos központja volt, amelyből festéket készítettek.",
+        "A helyi baptista templom az 1820-as években épült és fontos szerepet játszott a rabszolgák oktatásában.",
+        "A város környéke szarvasmarha-tenyésztéséről is ismert."
+      ]
+    },
+    {
+      "id": "jm-black-river-town-cities-v2",
+      "descriptionAdvanced": "Black River, St. Elizabeth megye fővárosa, a sziget azonos nevű, leghosszabb hajózható folyójának torkolatánál fekszik. A 19. században a város a logwood (vérfa) exportjának köszönhetően rendkívül gazdag volt, és Jamaica első városa lett, ahol 1893-ban bevezették az elektromos áramot. A város György-korabeli és viktoriánus stílusú, 'gingerbread' díszítésű faépületei ma is őrzik ezt a gazdag múltat. Black River ma a környező vizes élőhelyekre, különösen a krokodilokban gazdag folyóra irányuló ökoturizmus központja. Technika és Tudomány K8 – Az elektrifikáció története.",
+      "factsAdvanced": [
+        "Jamaica első telefonja is itt, 1893-ban szólalt meg.",
+        "A Waterloo vendégház az első jamaicai ház volt, amelyet elektromos világítással szereltek fel.",
+        "A Black River folyó tőzeges medre miatt kapta sötét színét.",
+        "A Felső- és Alsó-Morass (mocsárvidék) a Karib-térség legnagyobb vizes élőhelye.",
+        "A folyón hajókirándulásokat szerveznek, ahol megfigyelhetők az amerikai krokodilok.",
+        "A város egykor nyüzsgő lóversenypályával is rendelkezett.",
+        "A halászat és a garnélarák-halászat ma is fontos gazdasági tevékenység.",
+        "A közeli Invercauld Great House a skót telepesek építészetének példája."
+      ]
+    },
+    {
+      "id": "jm-morant-bay-cities-v2",
+      "descriptionAdvanced": "Morant Bay, Saint Thomas megye fővárosa, Jamaica történelmének egyik legfontosabb eseményének, az 1865-ös Morant Bay-i lázadásnak a helyszíne. A lázadást Paul Bogle diakónus vezette, aki a helyi kisbirtokosok jogaiért és az igazságtalan bánásmód ellen küzdött. Az események a bíróság épülete előtt csúcsosodtak ki, és végül a sziget kormányzati rendszerének teljes átalakításához, Jamaica koronagyarmattá válásához vezettek. Ma Paul Bogle szobra áll a bíróság előtt, emlékeztetve a harcra és az áldozatokra. A város ma egy csendesebb kereskedelmi központ a délkeleti parton. Történelem K8 – Társadalmi mozgalmak és politikai változások.",
+      "factsAdvanced": [
+        "A lázadás közvetlen kiváltó oka egy bírósági ügy volt, amelyben egy szegény fekete férfit elítéltek.",
+        "Paul Bogle és George William Gordon, a lázadás két vezetője, Jamaica nemzeti hősei.",
+        "A lázadás leverése rendkívül brutális volt, több száz embert végeztek ki.",
+        "Az események hatására a helyi törvényhozást feloszlatták és közvetlen brit irányítást vezettek be.",
+        "A bíróság eredeti épülete 2007-ben leégett, de újjáépítését tervezik.",
+        "A város kikötője egykor a cukor- és banánexport fontos állomása volt.",
+        "A közeli Lyssons Beach a helyiek kedvelt pihenőhelye.",
+        "A város a sziget egyik legcsapadékosabb részén fekszik."
+      ]
+    },
+    {
+      "id": "jm-linstead-cities-v2",
+      "descriptionAdvanced": "Linstead, egy nyüzsgő mezőváros Saint Catherine megye szívében, Jamaica egyik legismertebb piachelye. A 'Linstead Market' című népszerű népdal tette halhatatlanná, amely a szombati piac forgatagát és a gyümölcsökkel megrakott standokat örökíti meg. A város fontos közlekedési csomópont, amely összeköti a sziget északi és déli partvidékét. A környező termékeny területeken termesztett gyümölcsök, zöldségek és fűszerek itt cserélnek gazdát. Linstead hangulata igazi karibi piaci élményt nyújt, tele élettel, színekkel és illatokkal. Kultúra és Zene K5 – Népdalok és helyi hagyományok.",
+      "factsAdvanced": [
+        "A Linstead-i piac a hét minden napján nyitva van, de szombaton a legforgalmasabb.",
+        "A város a Rio Cobre folyó völgyében fekszik.",
+        "A népdal egy 'ackee' (akit) termelő szemszögéből meséli el a piac nehézségeit.",
+        "A városban található a Dinthill Technical High School, egy neves műszaki középiskola.",
+        "A közeli Ewarton bauxitfinomítója sok helybelinek ad munkát.",
+        "A Bog Walk-szurdok, egy festői, de veszélyes útszakasz, a város közelében található.",
+        "Linstead a 'ground provisions' (gyökérzöldségek, pl. jamgyökér, édesburgonya) egyik fő kereskedelmi központja.",
+        "A városban egykor vasútállomás is működött."
+      ]
+    },
+    {
+      "id": "jm-old-harbour-cities-v2",
+      "descriptionAdvanced": "Old Harbour, egy ipari és halászváros Saint Catherine déli partján, Jamaica egyik legrégebbi és legfontosabb kikötőjének ad otthont. A spanyol gyarmati időkben 'Esquivel' néven ismerték, és a sziget első fővárosának, Sevilla la Nueva-nak a kikötőjeként funkcionált. Ma a kikötő a bauxit- és timföldexport, valamint az energiatermelés fontos központja. A kereskedelmi kikötő mellett a város egy élénk halászközösségnek is otthont ad, a helyi halpiac friss tengeri herkentyűiről híres. A város ötvözi a nehézipart a hagyományos tengerparti élettel. Gazdaságföldrajz K8 – Ipari kikötők.",
+      "factsAdvanced": [
+        "A Port Esquivel terminál a UC Rusal bauxitcég egyik fő exportkikötője.",
+        "A Jamaica Public Service (JPS) vállalat itt működteti egyik legnagyobb erőművét.",
+        "A közeli Goat Islands (Kecske-szigetek) a kritikusan veszélyeztetett jamaicai leguán menedéke.",
+        "A várost 1510-ben Juan de Esquivel, Jamaica első spanyol kormányzója alapította.",
+        "A halászat mellett a sport, különösen a krikett és a futball népszerű a városban.",
+        "Old Harbour Bay a helyiek kedvelt hétvégi kirándulóhelye.",
+        "A város területe lapos, és ki van téve a hurrikánok okozta vihardagálynak.",
+        "A St. Dorothy's anglikán templom az egyik legrégebbi épület a városban."
+      ]
+    },
+    {
+      "id": "jm-half-way-tree-cities-v2",
+      "descriptionAdvanced": "Half Way Tree, Saint Andrew megye fővárosa, Kingston modern üzleti és közlekedési központja. A neve egy régi gyapotfától ered, amely egykor a Kingston és a hegyek felé vezető utak találkozásánál állt, pihenőhelyet kínálva az utazóknak. Ma a Half Way Tree Transport Centre Jamaica legforgalmasabb buszpályaudvara. A környék tele van bevásárlóközpontokkal, irodaházakkal és éttermekkel. Az 1913-ban épült, VII. Eduárd királynak emléket állító óratorony a városrész ikonikus jelképe, amely a nyüzsgő kereszteződés közepén áll. Városföldrajz K7 – Modern városközpontok kialakulása.",
+      "factsAdvanced": [
+        "A városrész hivatalosan St. Andrew fővárosa, bár ma már teljesen egybeépült Kingstonnal.",
+        "A Mandela Park egy népszerű zöldterület a közlekedési központ mellett.",
+        "A Half Way Tree Court House egy történelmi bírósági épület a téren.",
+        "A környéken számos nagykövetség és diplomáciai képviselet található.",
+        "A Carib 5 Cinema az egyik legrégebbi és legnépszerűbb mozi Kingstonban.",
+        "Az eredeti gyapotfát az 1860-as években vágták ki.",
+        "A 'Half Way Tree' kifejezés a 17. század óta használatos a területre.",
+        "A forgalmas csomópontot gyakran 'Kingston szíveként' is emlegetik."
+      ]
+    },
+    {
+      "id": "jm-runaway-bay-cities-v2",
+      "descriptionAdvanced": "Runaway Bay egy népszerű üdülőváros Jamaica északi partján, Saint Ann megyében. A legenda szerint a nevét onnan kapta, hogy az utolsó spanyol kormányzó, Don Cristóbal Arnaldo de Ysassi 1660-ban innen menekült el a szigetet elfoglaló angolok elől. Más történetek szerint szökött rabszolgák menedékhelye volt. Ma a város gyönyörű, fehér homokos strandjairól, all-inclusive üdülőhelyeiről és a közeli korallzátonyokról ismert, amelyek kiváló búvárkodási és sznorkelezési lehetőségeket kínálnak. A város a turizmusra épül, csendesebb alternatívát kínálva a nyüzsgő Ocho Rios-szal szemben. Turizmusföldrajz K8 – Üdülőhelyek fejlődése.",
+      "factsAdvanced": [
+        "A közeli Green Grotto Caves (Zöld Barlangok) egykor a szökött rabszolgák búvóhelye volt.",
+        "A város ad otthont a Breezes Runaway Bay golfklubnak, egy 18 lyukú bajnoki pályának.",
+        "A part menti vizek a Karib-tenger egyik legtisztábbjai közé tartoznak.",
+        "A Cardiff Hall nevű strand a helyiek és a turisták körében is népszerű.",
+        "A városban több luxusvilla és apartman is bérelhető.",
+        "A közeli Discovery Bay-ben szállt partra Kolumbusz Kristóf 1494-ben.",
+        "A város gazdasága szinte teljes mértékben a turizmustól függ.",
+        "A név 'Runaway' (menekülő) több helyi legendában is felbukkan."
+      ]
+    },
+    {
+      "id": "jm-christiana-cities-v2",
+      "descriptionAdvanced": "Christiana egy hegyvidéki mezőváros Manchester megyében, körülbelül 800 méteres magasságban. Hűvös, frissítő éghajlata miatt a 19. század óta népszerű menedékhely a partvidéki hőség elől. A város Manchester második legnagyobb települése, és fontos kereskedelmi központ a környező gazdálkodó közösségek számára. Híres a gyömbér-, banán-, kávé- és citrusfélék termesztéséről. A Christiana a sziget egészségügyi és wellness-turizmusának egyik központja is, számos magánklinikával és pihenőhellyel. A város hegyvidéki fekvése lenyűgöző panorámát kínál a környező tájra. Földrajz K7 – Magashegyi települések.",
+      "factsAdvanced": [
+        "A Percy Junor Kórház a régió legfontosabb egészségügyi intézménye.",
+        "A Coleyville-hegy a közelben található, és népszerű túrázóhely.",
+        "A város ad otthont a Christiana High Schoolnak és a Holmwood Technical High Schoolnak, utóbbi híres atlétikai programjáról.",
+        "A helyi piac a régió legnagyobb mezőgazdasági termékforgalmazója.",
+        "A hűvös éghajlat lehetővé teszi olyan növények termesztését is, amelyek máshol a szigeten nem élnek meg.",
+        "A város fontos közlekedési csomópont a megye északi és déli részei között.",
+        "A területen jelentős a bauxitbányászat is, bár ez környezeti aggályokat vet fel.",
+        "Christiana neve a kereszténység iránti erős helyi elkötelezettségre utalhat."
+      ]
+    },
+    {
+      "id": "jm-porus-cities-v2",
+      "descriptionAdvanced": "Porus egy kisváros Manchester megyében, amely stratégiai fontosságú közlekedési csomópontként szolgál a Kingston és Mandeville közötti főúton. A város neve valószínűleg egy porózus sziklaképződményre utal a területen. Porus elsősorban mezőgazdasági közösség, amely a környező citrus- és banánültetvények termékeinek kereskedelméből él. Híres a lédús narancsairól és más gyümölcseiről, amelyeket az út menti standokon gyakran kínálnak az átutazóknak. A város egy fontos pihenőhely, ahol az utazók megállhatnak enni és feltöltődni, mielőtt folytatnák útjukat a sziget belseje felé. Közlekedésföldrajz K6 – Közlekedési csomópontok szerepe.",
+      "factsAdvanced": [
+        "A közeli Melrose Hill a narancstermesztés egyik központja.",
+        "A város egykor vasútállomással is rendelkezett a Kingston-Montego Bay vonalon.",
+        "A Porus piac a helyi gazdák fontos értékesítési pontja.",
+        "A város a Rio Minho folyó vízgyűjtő területén fekszik.",
+        "A legenda szerint a város neve egy indiai elefánthajcsárról, Porus-ról kapta a nevét, aki a britekkel érkezett.",
+        "A városban több történelmi templom is található, amelyek a 19. században épültek.",
+        "A környék a szarvasmarha-tenyésztésről is ismert.",
+        "A forgalmas főút a város gazdaságának motorja."
+      ]
+    },
+    {
+      "id": "jm-claremont-cities-v2",
+      "descriptionAdvanced": "Claremont egy csendes, vidéki város Saint Ann megye szívében, amelyet a 'kert megyének' is neveznek. A település a pimento (szegfűbors) termesztésének egyik központja, és a levegőt gyakran betölti a fűszer édes illata. A város egykori ültetvények és farmok között fekszik, megőrizve a régi Jamaica vidéki hangulatát. Történelmi templomai és a hagyományos építészeti stílusú házai a 19. századi múltjáról tanúskodnak. Claremont közelében található Nine Mile, Bob Marley, a reggae legenda szülőfaluja és végső nyughelye, ami a környéket a zenerajongók zarándokhelyévé teszi. Vidékföldrajz K6 – Mezőgazdasági közösségek.",
+      "factsAdvanced": [
+        "A pimento fa bogyóit és leveleit egyaránt használják fűszerként és gyógyászatban.",
+        "A városka a sziget egyik legcsapadékosabb részén fekszik, ami kedvez a buja növényzetnek.",
+        "A St. Ann's Great River a közelben folyik, lehetőséget nyújtva a kikapcsolódásra.",
+        "A helyi gazdaság alapja a mezőgazdaság, különösen a pimento, a banán és a gyökérzöldségek termesztése.",
+        "A Claremont-i Szent Jakab anglikán templom egyike a környék legrégebbi épületeinek.",
+        "A város csendesebb, autentikusabb élményt nyújt a turisták számára, távol a part menti nyüzsgéstől.",
+        "A területen számos kisebb barlang és karsztképződmény található.",
+        "A város neve valószínűleg egy skót vagy angol helységnévből származik."
+      ]
+    },
+    {
+      "id": "jm-browns-town-cities-v2",
+      "descriptionAdvanced": "Brown's Town egyike Saint Ann megye legnagyobb és legforgalmasabb szárazföldi városainak. Fontos kereskedelmi, oktatási és piaci központ a környező vidéki közösségek számára. A város nagy és nyüzsgő piacáról híres, amely a hét minden napján vonzza a vásárlókat és az árusokat. Brown's Town az oktatás terén is kiemelkedő, több neves középiskolának és a Brown's Town Community College-nek ad otthont. A várost egy ír bevándorló, Hamilton Brown alapította a 19. század elején. A Szent Márk anglikán templom a város egyik legjelentősebb történelmi épülete, amely a dombtetőről uralja a látképet. Társadalomföldrajz K7 – Oktatási központok szerepe.",
+      "factsAdvanced": [
+        "A Brown's Town Community College a régió felsőoktatásának fontos intézménye.",
+        "A piac a sziget egyik legnagyobb és legváltozatosabb termékpiaca.",
+        "A város 350 méteres tengerszint feletti magasságban fekszik, ami kellemesebb klímát biztosít.",
+        "A Szent Márk anglikán templomot 1840-ben építették.",
+        "A városban jelentős a baptista közösség, templomuk a rabszolgaság eltörlése után épült.",
+        "A város fontos közlekedési csomópont a part és a sziget belseje között.",
+        "A közeli 'Egypt' nevű területen bauxitot bányásznak.",
+        "A város neve az alapító, Hamilton Brown nevére utal."
+      ]
+    },
+    {
+      "id": "jm-yallahs-cities-v2",
+      "descriptionAdvanced": "Yallahs egy tengerparti város Saint Thomas megyében, a Kingston és Morant Bay közötti főút mentén. A város leginkább a Yallahs-tavakról (Yallahs Ponds) ismert, amelyek két nagy, sós vizű lagúna, amit egy keskeny földnyelv választ el a tengertől. Ezek a tavak fontos vizes élőhelyek, madarak és más vadon élő állatok menedékei. A város és környéke gyakran ki van téve a hurrikánoknak és a vihardagályoknak, ami folyamatos kihívást jelent a helyi közösség számára. A gazdaság főként a halászaton, a mezőgazdaságon és a Kingstonba ingázó munkavállalókon alapul. Természetföldrajz K7 – Vizes élőhelyek és part menti folyamatok.",
+      "factsAdvanced": [
+        "A tavak sótartalma magasabb, mint a tengeré, mivel a víz elpárolog, de a só visszamarad.",
+        "A Yallahs folyó, amely a Blue Mountains-ből ered, a tavak mellett ömlik a tengerbe.",
+        "A területen a múltban sókitermelés is folyt.",
+        "A város neve a taino 'Jala Jala' szóból eredhet, ami 'alacsonyan fekvő helyet' jelent.",
+        "1903-ban egy jelentős földrengés rázta meg a területet.",
+        "A Yallahs High School a környék legfontosabb középfokú oktatási intézménye.",
+        "A halászat főként kis, helyi építésű csónakokkal történik.",
+        "A város jó közúti összeköttetéssel rendelkezik a fővárossal, Kingstonnal."
+      ]
+    },
+    {
+      "id": "jm-bull-savannah-cities-v2",
+      "descriptionAdvanced": "Bull Savannah egy mezőgazdasági közösség St. Elizabeth megye száraz, déli síkságain. A terület Jamaica 'éléskamrájának' számít, és híres a dinnye, a paradicsom, a hagyma és más zöldségek termesztéséről. A száraz éghajlat miatt a gazdálkodás nagymértékben függ az öntözéstől, amelyet gyakran a közeli hegyekből származó forrásokból vagy fúrt kutakból biztosítanak. Az erős, összetartó gazdálkodó közösség innovatív technikákat alkalmaz a kihívások leküzdésére. A táj vörös, bauxitban gazdag talaja és a szárazságot tűrő növényzet egyedi karaktert kölcsönöz a vidéknek. A közeli Lovers' Leap szikla drámai hátteret biztosít a tájnak. Agrárföldrajz K8 – Öntözéses gazdálkodás.",
+      "factsAdvanced": [
+        "A területen termesztett 'cantaloupe' és 'honeydew' dinnyék országszerte híresek.",
+        "A csepegtető öntözés széles körben elterjedt a vízhatékonyság növelése érdekében.",
+        "A gazdák gyakran szövetkezetekbe tömörülnek a termékeik értékesítése érdekében.",
+        "A közeli Junction városa a legfontosabb kereskedelmi központ a Bull Savannah-i gazdák számára.",
+        "A 'Bull' név valószínűleg a szarvasmarha-tenyésztésre utal, amely egykor domináns volt a régióban.",
+        "A tájképet gyakran tarkítják a hatalmas, vizet tároló fekete műanyag tartályok.",
+        "A közösség aktívan részt vesz a helyi iskolák és a sportélet támogatásában.",
+        "Az éghajlat itt az egyik legszárazabb az egész szigeten."
+      ]
+    },
+    {
+      "id": "jm-santa-cruz-cities-v2",
+      "descriptionAdvanced": "Santa Cruz egy gyorsan növekvő és nyüzsgő mezőváros St. Elizabeth megyében. Fontos kereskedelmi és közlekedési csomópontként szolgál a környező, rendkívül termékeny mezőgazdasági területek számára. A Santa Cruz-i piac a sziget egyik legnagyobb és legforgalmasabb piaca, ahol a gazdák a zöldségektől és gyümölcsöktől kezdve az állatokig mindent árulnak. A város a St. Elizabeth Parish Library hálózatának központja is. A gyors urbanizáció ellenére Santa Cruz megőrizte vidéki városi jellegét, és a helyi gazdaság továbbra is szorosan kötődik a mezőgazdasághoz. A város a Black River felső vízgyűjtő területén fekszik. Gazdaságföldrajz K7 – Piacvárosok fejlődése.",
+      "factsAdvanced": [
+        "A St. Elizabeth Technical High School (STETHS) a város neves oktatási intézménye, amely híres sportprogramjairól.",
+        "A város területe egykor egy nagy spanyol haciendához tartozott.",
+        "A 'breadbasket parish' (éléskamra megye) központjaként a város élelmiszer-ellátása bőséges.",
+        "A Santa Cruz-i völgy Jamaica egyik legtermékenyebb területe.",
+        "A város fontos átszállópont a déli part és a sziget belseje között utazók számára.",
+        "A környező dombokon bauxitbányászat is folyik.",
+        "A városban több nagy bevásárlóközpont és szupermarket is található.",
+        "A lakosság növekedése az elmúlt évtizedekben az egyik leggyorsabb volt Jamaicában."
+      ]
+    }
+  ]
+}

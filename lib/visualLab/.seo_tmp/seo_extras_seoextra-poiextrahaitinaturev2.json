@@ -1,0 +1,1296 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraHaitiNatureV2.ts"],
+  "items": [
+    {
+      "id": "ht-riviere-grise-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière Grise, auch bekannt als Grande Rivière du Cul-de-Sac, ist einer der bedeutendsten Flüsse im Westen Haitis. Sie entspringt in den Höhenzügen der Chaîne de la Selle auf etwa 2.000 Metern Höhe und fließt über eine Strecke von rund 29 Kilometern durch die fruchtbare Cul-de-Sac-Ebene, bevor sie nördlich der Hauptstadt Port-au-Prince in den Golf von Gonâve mündet. Der Fluss ist eine lebenswichtige Wasserquelle für die Landwirtschaft in der Region, birgt jedoch während der Hurrikansaison auch große Gefahren. Starke Regenfälle führen regelmäßig zu verheerenden Überschwemmungen, die insbesondere die dicht besiedelten Gebiete von Cité Soleil und Tabarre betreffen. In den letzten Jahren wurden umfangreiche Hochwasserschutzmaßnahmen entlang der Ufer eingeleitet, um die Anwohner besser zu schützen. Trotz der ökologischen Herausforderungen bleibt die Rivière Grise ein zentrales Element des hydrologischen Systems im Departement Ouest. Földrajz K7 – folyók és vizek.",
+        "hu": "A Rivière Grise, más néven Grande Rivière du Cul-de-Sac, Haiti nyugati részének egyik legfontosabb folyója. A Chaîne de la Selle hegységben ered, körülbelül 2000 méteres magasságban, majd mintegy 29 kilométeren keresztül kanyarog a termékeny Cul-de-Sac síkságon, mielőtt a fővárostól, Port-au-Prince-től északra a Gonâve-öbölbe torkollna. A folyó létfontosságú vízforrás a régió mezőgazdasága számára, azonban a hurrikánszezon idején komoly veszélyt is jelent. A heves esőzések rendszeresen pusztító áradásokat okoznak, amelyek különösen Cité Soleil és Tabarre sűrűn lakott területeit sújtják. Az elmúlt években jelentős árvízvédelmi munkálatokat végeztek a partok mentén, hogy megvédjék a helyi lakosságot a visszatérő természeti csapásoktól. Az ökológiai kihívások ellenére a Rivière Grise továbbra is a nyugati megye hidrológiai hálózatának egyik központi eleme. Földrajz K7 – folyók és vizek.",
+        "ro": "Rivière Grise, cunoscut și sub numele de Grande Rivière du Cul-de-Sac, este unul dintre cele mai importante cursuri de apă din vestul Haitiului. Izvorând din culmile lanțului muntos Chaîne de la Selle la o altitudine de aproximativ 2.000 de metri, râul parcurge o distanță de circa 29 de kilometri prin câmpia fertilă Cul-de-Sac înainte de a se vărsa în Golful Gonâve, la nord de capitala Port-au-Prince. Râul reprezintă o sursă vitală de apă pentru agricultura regională, însă prezintă riscuri majore în timpul sezonului uraganelor. Ploile torențiale provoacă frecvent inundații devastatoare, afectând în special zonele dens populate precum Cité Soleil și Tabarre. În ultimii ani, au fost demarate lucrări ample de consolidare a malurilor și de protecție împotriva inundațiilor pentru a reduce vulnerabilitatea comunităților locale. În ciuda provocărilor de mediu, Rivière Grise rămâne un element central al sistemului hidrologic din departamentul Ouest. Földrajz K7 – folyók és vizek.",
+        "en": "The Rivière Grise, also known as the Grande Rivière du Cul-de-Sac, is one of the most significant rivers in western Haiti. Originating in the high peaks of the Chaîne de la Selle at an elevation of about 2,000 meters, it flows for approximately 29 kilometers across the fertile Cul-de-Sac plain before emptying into the Gulf of Gonâve north of Port-au-Prince. The river is a crucial water source for local agriculture, but it also poses a serious threat during the hurricane season. Heavy rains frequently lead to catastrophic flooding, particularly impacting densely populated urban areas like Cité Soleil and Tabarre. Recent years have seen extensive flood-control projects along its banks to mitigate these risks and protect residents. Despite ecological challenges and sediment issues, the Rivière Grise remains a vital part of the Ouest department's hydrological infrastructure and cultural landscape. Földrajz K7 – rivers and waters."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Fluss hat eine Gesamtlänge von etwa 29 Kilometern.",
+          "Er entspringt in der Chaîne de la Selle Gebirgskette.",
+          "Er durchquert die landwirtschaftlich genutzte Cul-de-Sac-Ebene.",
+          "Der Fluss mündet nördlich von Port-au-Prince ins Meer.",
+          "Starke Regenfälle führen oft zu gefährlichen Sturzfluten.",
+          "Er ist eine Hauptwasserquelle für die Bewässerung in Tabarre."
+        ],
+        "hu": [
+          "A folyó teljes hossza körülbelül 29 kilométer.",
+          "A Chaîne de la Selle hegyláncban ered.",
+          "Átszeli a mezőgazdaságilag fontos Cul-de-Sac síkságot.",
+          "A folyó Port-au-Prince-től északra torkollik a tengerbe.",
+          "A heves esőzések gyakran veszélyes villámárvizeket okoznak.",
+          "Tabarre régiójában az öntözés fő vízforrása."
+        ],
+        "ro": [
+          "Râul are o lungime totală de aproximativ 29 de kilometri.",
+          "Izvorăște din lanțul muntos Chaîne de la Selle.",
+          "Traversează câmpia Cul-de-Sac, importantă pentru agricultură.",
+          "Râul se varsă în mare la nord de Port-au-Prince.",
+          "Ploile abundente provoacă adesea viituri periculoase.",
+          "Este o sursă principală de apă pentru irigații în Tabarre."
+        ],
+        "en": [
+          "The river has a total length of approximately 29 kilometers.",
+          "It originates in the Chaîne de la Selle mountain range.",
+          "It flows across the agriculturally rich Cul-de-Sac plain.",
+          "The river empties into the sea north of Port-au-Prince.",
+          "Heavy rains often trigger dangerous flash floods.",
+          "It serves as a primary water source for irrigation in Tabarre."
+        ]
+      }
+    },
+    {
+      "id": "ht-lac-de-peligre-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Péligre-See ist das zweitgrößte Binnengewässer Haitis und entstand 1956 durch den Bau des Péligre-Staudamms am Artibonite-Fluss. Dieses gewaltige Reservoir im Zentralplateau des Landes wurde ursprünglich zur Hochwasserkontrolle, Stromerzeugung und Bewässerung konzipiert. Das angeschlossene Wasserkraftwerk deckt einen signifikanten Teil des nationalen Energiebedarfs, während das aufgestaute Wasser das fruchtbare Artibonite-Tal für den Reisanbau versorgt. Die ökologische Situation des Sees ist jedoch durch starke Sedimentation infolge der Entwaldung in den umliegenden Hügeln gefährdet, was die Kapazität des Reservoirs über die Jahrzehnte verringert hat. Dennoch bietet die Seenlandschaft einen atemberaubenden Anblick und ist ein zentraler wirtschaftlicher Faktor für die Region. Die umliegende Landschaft ist geprägt von kargen Hängen und kleinen Fischerdörfern, die vom Fischfang im See leben. Földrajz K8 – vízenergia és környezetvédelem.",
+        "hu": "A Péligre-tó Haiti második legnagyobb állóvize, amely 1956-ban jött létre az Artibonite folyón épített Péligre-gát befejezésével. Ez a hatalmas víztározó az ország központi fennsíkján található, és eredetileg árvízvédelem, villamosenergia-termelés és öntözés céljából hozták létre. A kapcsolódó vízerőmű az országos energiaszükséglet jelentős részét fedezi, míg a felduzzasztott víz a termékeny Artibonite-völgy rizstermesztését biztosítja. A tó ökológiai helyzetét azonban veszélyezteti az erózió okozta erős feltöltődés, amely a környező dombok erdőirtásának következménye, és az évtizedek során csökkentette a tározó kapacitását. Ennek ellenére a tó látványa lélegzetelállító, és a régió központi gazdasági tényezője marad. A környező tájat kopár lejtők és kis halászfalvak jellemzik, amelyek a tavi halászatból élnek. Földrajz K8 – vízenergia és környezetvédelem.",
+        "ro": "Lacul Péligre este a doua cea mai mare întindere de apă dulce din Haiti, creat în 1956 prin construirea barajului Péligre pe râul Artibonite. Acest rezervor masiv, situat în Podișul Central al țării, a fost conceput inițial pentru controlul inundațiilor, generarea de energie electrică și irigații. Hidrocentrala asociată acoperă o parte semnificativă din necesarul național de energie, în timp ce apele stăvilite alimentează Valea Artibonite, esențială pentru cultivarea orezului. Situația ecologică a lacului este însă amenințată de sedimentarea masivă cauzată de despăduririle de pe dealurile din jur, ceea ce a redus capacitatea rezervorului de-a lungul deceniilor. Cu toate acestea, peisajul lacustru oferă o priveliște impresionantă și rămâne un factor economic central pentru regiune. Malurile sunt punctate de mici sate de pescari care depind de resursele lacului pentru subzistență. Földrajz K8 – energia hidroelectrică și protecția mediului.",
+        "en": "Lake Péligre is the second largest lake in Haiti, created in 1956 following the completion of the Péligre Dam on the Artibonite River. Situated in the country's Central Plateau, this massive reservoir was originally designed for flood control, hydroelectric power generation, and irrigation. The dam's hydroelectric plant supplies a significant portion of Haiti's national electricity, while its waters sustain rice production in the fertile Artibonite Valley downstream. However, the lake's ecological health is threatened by heavy siltation caused by deforestation in the surrounding hills, which has significantly reduced the reservoir's capacity over the decades. Despite these environmental challenges, the lake remains a vital economic asset and a stunning geographical feature of the Haitian interior. The surrounding terrain is characterized by rugged slopes and small fishing communities that rely on the lake's aquatic resources. Földrajz K8 – hydroelectric power and environmental protection."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der See entstand durch einen Staudammbau im Jahr 1956.",
+          "Er ist das zweitgrößte Gewässer des Landes Haiti.",
+          "Das Wasserkraftwerk ist eine Hauptenergiequelle Haitis.",
+          "Das Reservoir bewässert das wichtige Artibonite-Reistal.",
+          "Starke Sedimentation bedroht die Lebensdauer des Sees.",
+          "Er liegt malerisch eingebettet im haitianischen Zentralplateau."
+        ],
+        "hu": [
+          "A tó egy 1956-os gátépítés során jött létre.",
+          "Ez Haiti országának második legnagyobb állóvize.",
+          "A vízerőmű Haiti egyik fő energiaforrása.",
+          "A tározó öntözi a fontos Artibonite rizstermelő völgyet.",
+          "Az erős feltöltődés veszélyezteti a tó élettartamát.",
+          "Gleccsermentes övezetben, a központi fennsíkon fekszik."
+        ],
+        "ro": [
+          "Lacul a fost format prin construirea unui baraj în 1956.",
+          "Este a doua cea mai mare întindere de apă din Haiti.",
+          "Hidrocentrala este o sursă majoră de energie pentru țară.",
+          "Rezervorul irigă importanta vale a orezului Artibonite.",
+          "Sedimentarea masivă amenință durata de viață a lacului.",
+          "Este situat pitoresc în Podișul Central al Haitiului."
+        ],
+        "en": [
+          "The lake was formed by dam construction in 1956.",
+          "It is the second largest body of water in Haiti.",
+          "The hydroelectric plant is a major power source for Haiti.",
+          "The reservoir irrigates the vital Artibonite rice valley.",
+          "Heavy siltation threatens the lake's long-term capacity.",
+          "It is picturesquely located in the Haitian Central Plateau."
+        ]
+      }
+    },
+    {
+      "id": "ht-chaine-de-la-selle-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Chaîne de la Selle ist eine beeindruckende Gebirgskette im Südosten Haitis, die sich bis über die Grenze in die Dominikanische Republik erstreckt. Sie beherbergt den Morne la Selle, der mit 2.680 Metern der höchste Gipfel des Landes ist. Die Geologie der Kette besteht überwiegend aus Kalkstein, was zu einer zerklüfteten Karstlandschaft mit zahlreichen Höhlen und tiefen Schluchten geführt hat. In den höheren Lagen finden sich die letzten bedeutenden Bestände der endemischen Hispaniola-Kiefer (Pinus occidentalis), die jedoch durch Abholzung und Landwirtschaft stark bedroht sind. Das Gebirge spielt eine entscheidende Rolle für das Klima der Region, da es die feuchten Passatwinde abfängt und so die Wasserversorgung für die tiefer gelegenen Ebenen sicherstellt. In den kühleren Höhenlagen herrscht ein fast alpines Klima, das in starkem Kontrast zur tropischen Hitze der Küste steht. Földrajz K7 – hegységek és éghajlat.",
+        "hu": "A Chaîne de la Selle egy lenyűgöző hegylánc Haiti délkeleti részén, amely átnyúlik a Dominikai Köztársaság határán is. Itt található a Morne la Selle, amely 2680 méteres magasságával az ország legmagasabb csúcsa. A hegység geológiáját túlnyomórészt mészkő alkotja, ami tagolt karsztvidéket eredményezett, számos barlanggal és mély szurdokkal. A magasabb régiókban találhatók az endemikus hispaniolai fenyő (Pinus occidentalis) utolsó jelentős állományai, amelyeket azonban az erdőirtás és a mezőgazdaság súlyosan veszélyeztet. A hegység döntő szerepet játszik a régió éghajlatában, mivel felfogja a nedves passzátszeleket, biztosítva ezzel az alacsonyabban fekvő síkságok vízellátását. A hűvösebb magaslatokon szinte alpesi éghajlat uralkodik, ami éles ellentétben áll a tengerpart trópusi hőségével. Földrajz K7 – hegységek és éghajlat.",
+        "ro": "Chaîne de la Selle este un lanț muntos impresionant situat în sud-estul Haitiului, extinzându-se peste graniță în Republica Dominicană. Acesta adăpostește Morne la Selle, care, cu o altitudine de 2.680 de metri, este cel mai înalt vârf din țară. Geologia masivului este formată preponderent din calcar, ceea ce a dus la apariția unui peisaj carstic accidentat, cu numeroase peșteri și defilee adânci. La altitudini mari se găsesc ultimele resturi semnificative de pădure de pini endemici (Pinus occidentalis), specii grav amenințate de defrișări și agricultură. Munții joacă un rol crucial în reglarea climatului regiunii, interceptând vânturile alizee umede și asigurând astfel alimentarea cu apă a câmpiilor de dedesubt. Climatul de aici este neașteptat de răcoros, oferind un contrast izbitor cu arșița tropicală de la nivelul mării. Földrajz K7 – munții și clima.",
+        "en": "The Chaîne de la Selle is a majestic mountain range located in southeastern Haiti, extending across the border into the Dominican Republic. It is home to Morne la Selle, the country's highest peak, which reaches an elevation of 2,680 meters above sea level. The range's geology is primarily limestone, resulting in a rugged karst landscape characterized by deep sinkholes, caves, and steep ravines. In the higher elevations, one can find some of the last remaining stands of the endemic Hispaniolan pine (Pinus occidentalis), although these forests are under severe pressure from logging and subsistence farming. The range acts as a vital watershed, trapping moisture from trade winds and providing essential water to the thirsty plains below. The cool, misty climate of the high ridges offers a stark contrast to the tropical heat of the coastal regions. Földrajz K7 – mountains and climate."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt den Morne la Selle, Haitis höchsten Berg.",
+          "Die Kette erreicht eine maximale Höhe von 2.680 Metern.",
+          "Besteht geologisch hauptsächlich aus mesozoischem Kalkstein.",
+          "Wichtiges Rückzugsgebiet für die endemische Hispaniola-Kiefer.",
+          "Zentraler Wasserspeicher für den Südosten des Landes.",
+          "Teil des grenzüberschreitenden Biosphärenreservats La Selle."
+        ],
+        "hu": [
+          "Itt található a Morne la Selle, Haiti legmagasabb hegye.",
+          "A hegylánc maximális magassága 2680 méter.",
+          "Földtanilag főként mezozoikumi mészkőből épül fel.",
+          "Az endemikus hispaniolai fenyő fontos menedékhelye.",
+          "Az ország délkeleti részének központi víztározója.",
+          "A határmenti La Selle Bioszféra-rezervátum része."
+        ],
+        "ro": [
+          "Găzduiește Morne la Selle, cel mai înalt vârf din Haiti.",
+          "Lanțul muntos atinge o înălțime maximă de 2.680 metri.",
+          "Din punct de vedere geologic, este format din calcar mezozoic.",
+          "Refugiu important pentru pinul endemic de Hispaniola.",
+          "Rezervor central de apă pentru sud-estul țării.",
+          "Face parte din Rezervația Biosferei transfrontaliere La Selle."
+        ],
+        "en": [
+          "Home to Morne la Selle, the highest mountain in Haiti.",
+          "The range reaches a maximum elevation of 2,680 meters.",
+          "Geologically composed primarily of Mesozoic limestone.",
+          "Vital refuge for the endemic Hispaniolan pine trees.",
+          "Acts as a central water reservoir for the southeast.",
+          "Part of the transboundary La Selle Biosphere Reserve."
+        ]
+      }
+    },
+    {
+      "id": "ht-massif-de-la-hotte-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Massif de la Hotte auf der Tiburon-Halbinsel im Südwesten Haitis gilt als einer der wichtigsten Biodiversitäts-Hotspots der Welt. Diese abgelegene Gebirgskette beherbergt eine außergewöhnliche Anzahl endemischer Arten, darunter über 40 Amphibienarten, von denen viele nirgendwo sonst auf der Erde vorkommen. Der höchste Punkt ist der Pic Macaya mit 2.347 Metern. Aufgrund seiner Isolation und der steilen Topographie konnten hier Fragmente der ursprünglichen Nebelwälder überdauern. Das Gebiet wurde 2016 von der UNESCO zum Biosphärenreservat erklärt, um die einzigartige Flora und Fauna zu schützen, die jedoch durch illegalen Holzkohleabbau und Landwirtschaft extrem gefährdet ist. Für Wissenschaftler ist das Massif ein lebendiges Labor der Evolution, während es für die lokale Bevölkerung die wichtigste Quelle für frisches Wasser in der Region darstellt. Die Wolkenwälder des Massivs fangen Feuchtigkeit direkt aus der Luft ein und speisen zahlreiche Flüsse. Földrajz K8 – biodiverzitás és természetvédelem.",
+        "hu": "A Haiti délnyugati részén, a Tiburon-félszigeten található Massif de la Hotte a világ egyik legfontosabb biodiverzitási hotspotjának számít. Ez az elszigetelt hegylánc rendkívüli számú endemikus fajnak ad otthont, köztük több mint 40 kétéltűfajnak, amelyek közül sok sehol máshol nem található meg a Földön. Legmagasabb pontja a 2347 méter magas Pic Macaya. Elszigeteltségének és meredek domborzatának köszönhetően itt megmaradhattak az eredeti köderdők töredékei. A területet 2016-ban az UNESCO bioszféra-rezervátummá nyilvánította az egyedülálló flóra és fauna védelme érdekében, amelyet azonban az illegális faszéntermelés és a mezőgazdaság rendkívüli módon veszélyeztet. A tudósok számára a hegység az evolúció élő laboratóriuma, míg a helyi lakosság számára a régió legfontosabb édesvízforrása. A hegység felhőerdői közvetlenül a levegőből gyűjtik össze a nedvességet, és számos folyót táplálnak. Földrajz K8 – biodiverzitás és természetvédelem.",
+        "ro": "Masivul de la Hotte, situat în peninsula Tiburon din sud-vestul Haitiului, este considerat unul dintre cele mai importante puncte fierbinți de biodiversitate din lume. Acest lanț muntos izolat adăpostește un număr extraordinar de specii endemice, inclusiv peste 40 de specii de amfibieni, dintre care multe nu se mai găsesc nicăieri altundeva pe pământ. Cel mai înalt punct este Pic Macaya, cu o altitudine de 2.347 de metri. Datorită izolării sale și topografiei abrupte, fragmente din pădurile tropicale de ceață originale au reușit să supraviețuiască aici. Zona a fost declarată Rezervație a Biosferei de către UNESCO în 2016 pentru a proteja flora și fauna unice, care sunt totuși extrem de amenințate de producția ilegală de cărbune și de agricultură. Pentru cercetători, masivul este un laborator viu al evoluției, în timp ce pentru populația locală reprezintă cea mai importantă sursă de apă dulce din regiune. Földrajz K8 – biodiversitatea și conservarea naturii.",
+        "en": "The Massif de la Hotte, situated on the Tiburon Peninsula in southwestern Haiti, is recognized as one of the most critical biodiversity hotspots in the world. This remote mountain range shelters an extraordinary number of endemic species, including over 40 species of amphibians, many of which are found nowhere else on Earth. Its highest peak is Pic Macaya, standing at 2,347 meters. Because of its extreme isolation and steep terrain, fragments of Haiti's original cloud forests have managed to persist here. In 2016, UNESCO designated the area as a Biosphere Reserve to protect its unique flora and fauna, which face severe threats from illegal charcoal production and encroachment by farming. To scientists, the massif is a living laboratory of evolution, while for the local population, it serves as the most vital source of fresh water in the region. The cloud forests trap moisture from the air, feeding numerous rivers that sustain life in the valleys below. Földrajz K8 – biodiversity and nature conservation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchster Punkt ist der Pic Macaya mit 2.347 Metern.",
+          "Beherbergt über 40 endemische Frosch- und Amphibienarten.",
+          "Wurde 2016 zum UNESCO-Biosphärenreservat erklärt.",
+          "Enthält einige der letzten Nebelwälder der Karibik.",
+          "Extrem hohe Konzentration an endemischen Pflanzenarten.",
+          "Wichtigster Wasserspeicher für die Tiburon-Halbinsel."
+        ],
+        "hu": [
+          "Legmagasabb pontja a 2347 méteres Pic Macaya.",
+          "Több mint 40 endemikus béka- és kétéltűfaj otthona.",
+          "2016-ban az UNESCO bioszféra-rezervátummá nyilvánította.",
+          "A Karib-térség utolsó köderdeinek egy részét őrzi.",
+          "Rendkívül magas az endemikus növényfajok koncentrációja.",
+          "A Tiburon-félsziget legfontosabb víztározója."
+        ],
+        "ro": [
+          "Cel mai înalt punct este Pic Macaya, la 2.347 de metri.",
+          "Adăpostește peste 40 de specii endemice de broaște.",
+          "Declarat Rezervație a Biosferei UNESCO în anul 2016.",
+          "Conține unele dintre ultimele păduri de ceață din Caraibe.",
+          "Concentrație extrem de mare de plante endemice rare.",
+          "Cea mai importantă sursă de apă pentru peninsula Tiburon."
+        ],
+        "en": [
+          "The highest peak is Pic Macaya at 2,347 meters.",
+          "Home to over 40 species of endemic frogs and amphibians.",
+          "Designated as a UNESCO Biosphere Reserve in 2016.",
+          "Contains some of the Caribbean's last remaining cloud forests.",
+          "Extremely high concentration of endemic plant species.",
+          "Vital water catchment area for the Tiburon Peninsula."
+        ]
+      }
+    },
+    {
+      "id": "ht-ile-de-la-gonave-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Île de la Gonâve ist die größte Satelliteninsel Haitis und liegt markant im Golf von Gonâve, westlich von Port-au-Prince. Mit einer Fläche von etwa 743 Quadratkilometern ist die Insel von einer zentralen Bergkette geprägt, die bis auf 778 Meter ansteigt. Das Klima auf La Gonâve ist deutlich trockener als auf dem Festland, was die Landwirtschaft zu einer großen Herausforderung macht. Historisch diente die Insel oft als Zufluchtsort, sowohl während der Kolonialzeit als auch während der US-Besatzung in den 1920er Jahren. Die Flora besteht überwiegend aus Trockenwäldern und Kakteen, während die Küsten von Mangroven und Korallenriffen gesäumt sind. Trotz der Wasserknappheit leben hier über 80.000 Menschen vorwiegend von Fischfang und Subsistenzwirtschaft. Die Insel ist geologisch durch Kalksteinformationen und zahlreiche Höhlensysteme gekennzeichnet, die teilweise noch unerforscht sind. Földrajz K7 – szigetek és tengeri környezet.",
+        "hu": "A Gonâve-sziget (Île de la Gonâve) Haiti legnagyobb mellékszigete, amely jellegzetes formájával a Gonâve-öböl közepén, Port-au-Prince-től nyugatra fekszik. A mintegy 743 négyzetkilométer területű szigetet egy központi hegylánc uralja, amely 778 méter magasságig emelkedik. La Gonâve éghajlata jóval szárazabb, mint a szárazföldé, ami nagy kihívássá teszi a mezőgazdaságot. Történelmileg a sziget gyakran szolgált menedékhelyként, mind a gyarmati időkben, mind az 1920-as évek amerikai megszállása alatt. Flórája túlnyomórészt száraz erdőkből és kaktuszokból áll, míg a partokat mangroveerdők és korallzátonyok szegélyezik. A vízhiány ellenére több mint 80 000 ember él itt, főként halászatból és önellátó gazdálkodásból. A szigetet geológiailag mészkőformációk és számos, részben még feltáratlan barlangrendszer jellemzi. Földrajz K7 – szigetek és tengeri környezet.",
+        "ro": "Insula Gonâve este cea mai mare insulă satelit a Haitiului, situată strategic în centrul Golfului Gonâve, la vest de Port-au-Prince. Cu o suprafață de aproximativ 743 de kilometri pătrați, insula este dominată de un lanț muntos central care atinge o înălțime de 778 de metri. Climatul de pe La Gonâve este mult mai arid decât cel de pe continent, ceea ce face ca agricultura să fie o provocare constantă pentru locuitori. Din punct de vedere istoric, insula a servit adesea ca refugiu, atât în perioada colonială, cât și în timpul ocupației americane din anii 1920. Flora constă în principal din păduri uscate și cactuși, în timp ce coastele sunt mărginite de mangrove și recife de corali. În ciuda penuriei de apă, peste 80.000 de oameni trăiesc aici, depinzând în principal de pescuit și de agricultura de subzistență. Insula este caracterizată geologic de formațiuni calcaroase și numeroase sisteme de peșteri. Földrajz K7 – insulele și mediul marin.",
+        "en": "Gonâve Island (Île de la Gonâve) is the largest of Haiti's satellite islands, positioned prominently in the middle of the Gulf of Gonâve, west of Port-au-Prince. Spanning approximately 743 square kilometers, the island is defined by a central mountain ridge that rises to an altitude of 778 meters. The climate on La Gonâve is significantly drier than that of the mainland, making agriculture a difficult endeavor for its residents. Historically, the island has often served as a sanctuary, both during the colonial era and the U.S. occupation in the 1920s. The vegetation consists mainly of dry scrub forests and cacti, while the coastline is fringed with mangroves and coral reefs. Despite chronic water shortages, over 80,000 people call the island home, relying primarily on fishing and subsistence farming. Geologically, the island is a massive limestone plateau featuring extensive and largely unexplored cave systems. Földrajz K7 – islands and marine environments."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größte Nebeninsel Haitis mit 743 km² Fläche.",
+          "Höchster Punkt ist der Morne de la Gonâve (778 m).",
+          "Besteht geologisch fast vollständig aus Kalkstein.",
+          "Das Klima ist deutlich trockener als auf dem Festland.",
+          "Heimat von über 80.000 Einwohnern (Stand 2015).",
+          "Umgeben von ökologisch wichtigen Korallenriffen."
+        ],
+        "hu": [
+          "Haiti legnagyobb mellékszigete, 743 km² területtel.",
+          "Legmagasabb pontja a Morne de la Gonâve (778 m).",
+          "Geológiailag szinte teljesen mészkőből épül fel.",
+          "Éghajlata jelentősen szárazabb a szárazföldnél.",
+          "Több mint 80 000 lakos otthona (2015-ös adat).",
+          "Ökológiailag fontos korallzátonyok veszik körül."
+        ],
+        "ro": [
+          "Cea mai mare insulă secundară a Haitiului (743 km²).",
+          "Cel mai înalt punct este Morne de la Gonâve (778 m).",
+          "Formată geologic aproape în întregime din calcar.",
+          "Climatul este mult mai uscat decât pe continent.",
+          "Adăpostește o populație de peste 80.000 de locuitori.",
+          "Înconjurată de recife de corali importante ecologic."
+        ],
+        "en": [
+          "Haiti's largest offshore island, covering 743 km².",
+          "The highest peak is Morne de la Gonâve at 778 meters.",
+          "Composed almost entirely of limestone formations.",
+          "The climate is significantly more arid than the mainland.",
+          "Home to a population exceeding 80,000 people.",
+          "Fringed by ecologically significant coral reefs."
+        ]
+      }
+    },
+    {
+      "id": "ht-baie-de-port-au-prince-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bucht von Port-au-Prince ist ein großer, natürlicher Hafen im Osten des Golfs von Gonâve. Sie ist von strategischer Bedeutung für Haiti, da an ihren Ufern die gleichnamige Hauptstadt liegt. Die Bucht wird im Norden von der Ebene von Cul-de-Sac und im Süden von den Ausläufern der Chaîne de la Selle begrenzt. Trotz ihrer wirtschaftlichen Bedeutung durch den internationalen Seehandel leidet die Bucht unter massiver Umweltverschmutzung durch städtische Abwässer und Sedimentation. Dennoch bietet sie einen geschützten Raum für Schiffe und war historisch der Ankerpunkt für Entdecker und Händler. In den Gewässern der Bucht finden sich Reste von Mangrovenökosystemen, die jedoch stark degradiert sind. Die Aussicht über die Bucht bei Sonnenuntergang, mit der Silhouette der Île de la Gonâve am Horizont, gehört zu den bekanntesten Panoramen des Landes. Földrajz K7 – kikötők és partvidéki gazdaság.",
+        "hu": "A Port-au-Prince-i öböl egy nagy, természetes kikötő a Gonâve-öböl keleti részén. Stratégiai jelentősége óriási Haiti számára, mivel partjain fekszik az ország azonos nevű fővárosa. Az öblöt északon a Cul-de-Sac síkság, délen pedig a Chaîne de la Selle hegység nyúlványai határolják. A nemzetközi tengeri kereskedelemben betöltött gazdasági súlya ellenére az öböl súlyos környezetszennyezéstől szenved a városi szennyvíz és a folyók által szállított hordalék miatt. Ennek ellenére védett horgonyzóhelyet biztosít a hajók számára, és történelmileg a felfedezők és kereskedők fontos bázisa volt. Az öböl vizeiben még megtalálhatók a mangrove-ökoszisztémák maradványai, bár ezek állapota jelentősen leromlott. Az öbölre nyíló kilátás naplementekor, a horizonton kirajzolódó Gonâve-szigettel, az ország egyik legismertebb panorámája. Földrajz K7 – kikötők és partvidéki gazdaság.",
+        "ro": "Golful Port-au-Prince este un port natural vast situat în partea de est a Golfului Gonâve. Are o importanță strategică fundamentală pentru Haiti, pe malurile sale aflându-se capitala țării. Golful este delimitat la nord de câmpia Cul-de-Sac și la sud de poalele munților Chaîne de la Selle. În ciuda importanței sale economice vitale pentru comerțul maritim internațional, golful suferă din cauza poluării masive cauzate de deșeurile urbane și sedimentarea severă. Totuși, oferă un adăpost sigur pentru nave și a fost, de-a lungul istoriei, punctul principal de sosire pentru exploratori și comercianți. În apele sale se mai găsesc resturi de ecosisteme de mangrove, deși acestea sunt grav degradate. Priveliștea peste golf la apus, cu silueta insulei Gonâve la orizont, este una dintre cele mai emblematice imagini ale Haitiului. Földrajz K7 – porturile și economia de coastă.",
+        "en": "The Bay of Port-au-Prince is a large natural harbor situated at the eastern end of the Gulf of Gonâve. It is of paramount strategic importance to Haiti, as the capital city shares its name and occupies its shores. The bay is bordered to the north by the Cul-de-Sac plain and to the south by the foothills of the Chaîne de la Selle mountains. While it is the economic heart of the country's international maritime trade, the bay faces severe environmental challenges, including heavy pollution from urban runoff and excessive siltation from deforested watersheds. Despite these issues, it remains a critical sheltered anchorage for shipping and has historically been the primary gateway for explorers and merchants. Fringes of mangrove ecosystems still exist in some areas, though they are heavily degraded. The view across the bay at sunset, with Gonâve Island silhouetted on the horizon, remains one of the most famous vistas in Haiti. Földrajz K7 – ports and coastal economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster natürlicher Tiefwasserhafen Haitis.",
+          "Wird im Norden durch die Cul-de-Sac-Ebene begrenzt.",
+          "Teil des größeren Golfs von Gonâve im Karibischen Meer.",
+          "Zentrum des haitianischen Außenhandels und Versorgungs.",
+          "Leidet unter starker Sedimentation durch Entwaldung.",
+          "Ankerplatz für Kreuzfahrtschiffe in der Vergangenheit."
+        ],
+        "hu": [
+          "Haiti legfontosabb természetes mélyvízi kikötője.",
+          "Északon a Cul-de-Sac síkság határolja.",
+          "A Karib-tengeren található nagyobb Gonâve-öböl része.",
+          "A haiti külkereskedelem és ellátás központja.",
+          "Az erdőirtás miatti erős feltöltődés sújtja.",
+          "A múltban népszerű horgonyzóhely volt üdülőhajók számára."
+        ],
+        "ro": [
+          "Cel mai important port natural de adâncime din Haiti.",
+          "Este delimitat la nord de Câmpia Cul-de-Sac.",
+          "Parte a Golfului Gonâve mai mare din Marea Caraibelor.",
+          "Centrul comerțului exterior și al aprovizionării Haitiului.",
+          "Suferă de sedimentare severă din cauza despăduririlor.",
+          "Punct de ancorare istoric pentru navele comerciale."
+        ],
+        "en": [
+          "Haiti's most important natural deep-water harbor.",
+          "Bounded to the north by the fertile Cul-de-Sac plain.",
+          "Part of the larger Gulf of Gonâve in the Caribbean Sea.",
+          "The hub of Haitian foreign trade and logistics.",
+          "Faces significant siltation due to upstream deforestation.",
+          "A historic anchorage for international maritime traffic."
+        ]
+      }
+    },
+    {
+      "id": "ht-parc-national-la-visite-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Nationalpark La Visite ist einer der wichtigsten Naturschutzgebiete Haitis und liegt im Massif de la Selle, nur etwa 22 Kilometer südlich von Port-au-Prince. Gegründet im Jahr 1983, erstreckt sich der Park über eine Fläche von ca. 30 Quadratkilometern auf einer Höhe zwischen 1.700 und 2.300 Metern. Er ist bekannt für seine weitläufigen Kiefernwälder (Pinus occidentalis) und seine spektakulären Kalksteinformationen mit zahlreichen Dolinen und Höhlen. Der Park beheimatet viele seltene Vogelarten, darunter den gefährdeten Hispaniola-Timalie (La Selle Thrush), der hier eines seiner letzten Rückzugsgebiete hat. Aufgrund der kühlen Temperaturen und der häufigen Nebelbildung wirkt die Landschaft fast mystisch. Die fortschreitende Entwaldung durch die lokale Bevölkerung, die das Land für die Landwirtschaft nutzt, stellt jedoch eine existenzielle Bedrohung für das Ökosystem dar. Dennoch bleibt La Visite ein entscheidendes Wassereinzugsgebiet für die Hauptstadtregion. Földrajz K8 – természetvédelmi területek.",
+        "hu": "A La Visite Nemzeti Park Haiti egyik legfontosabb természetvédelmi területe, amely a Massif de la Selle hegységben található, mindössze 22 kilométerre délre Port-au-Prince-től. Az 1983-ban alapított park körülbelül 30 négyzetkilométeren terül el, 1700 és 2300 méter közötti magasságban. Híres kiterjedt fenyőerdőiről (Pinus occidentalis) és látványos mészkőformációiról, amelyeket számos víznyelő és barlang tesz változatossá. A park számos ritka madárfajnak ad otthont, köztük a veszélyeztetett Hispaniola-rigónak (La Selle Thrush), amelynek itt található az egyik utolsó menedéke. A hűvös hőmérséklet és a gyakori ködképződés miatt a táj szinte misztikusnak tűnik. A helyi lakosság mezőgazdasági tevékenysége miatti folyamatos erdőirtás azonban egzisztenciális fenyegetést jelent az ökoszisztémára. Ennek ellenére La Visite továbbra is a fővárosi régió döntő fontosságú vízgyűjtő területe. Földrajz K8 – természetvédelmi területek.",
+        "ro": "Parcul Național La Visite este una dintre cele mai importante arii protejate din Haiti, situată în masivul muntos La Selle, la aproximativ 22 km sud de Port-au-Prince. Fondat în 1983, parcul acoperă o suprafață de circa 30 km² la altitudini cuprinse între 1.700 și 2.300 de metri. Este renumit pentru pădurile sale vaste de pini endemici (Pinus occidentalis) și pentru formațiunile spectaculoase de calcar, punctate de doline și peșteri. Parcul este un habitat crucial pentru multe specii rare de păsări, inclusiv pentru mierla de La Selle, aflată în pericol de dispariție. Datorită temperaturilor scăzute și ceții frecvente, peisajul are un aspect aproape mistic. Totuși, despăduririle progresive cauzate de extinderea agriculturii reprezintă o amenințare majoră pentru acest ecosistem fragil. Cu toate acestea, La Visite rămâne un bazin hidrografic esențial pentru alimentarea cu apă a regiunii capitalei. Földrajz K8 – arii naturale protejate.",
+        "en": "La Visite National Park is one of Haiti's most vital protected areas, situated within the Massif de la Selle range, just 22 kilometers south of Port-au-Prince. Established in 1983, the park encompasses approximately 30 square kilometers at elevations ranging from 1,700 to 2,300 meters. It is renowned for its expansive stands of Hispaniolan pine (Pinus occidentalis) and its dramatic limestone karst topography, featuring numerous sinkholes and caves. The park serves as a sanctuary for many rare bird species, including the endangered La Selle Thrush, which finds one of its last refuges here. The cool temperatures and frequent mountain mists create an almost mystical atmosphere in this high-altitude landscape. However, ongoing deforestation driven by agricultural expansion poses an existential threat to the park's biodiversity. Despite these pressures, La Visite remains a crucial watershed for the Port-au-Prince metropolitan area. Földrajz K8 – nature conservation areas."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im Jahr 1983 zum Schutz der Hochlandwälder.",
+          "Liegt auf einer Höhe von bis zu 2.273 Metern.",
+          "Beherbergt den seltenen und gefährdeten La Selle Thrush.",
+          "Wichtiger Lebensraum für über 50 verschiedene Vogelarten.",
+          "Besteht aus einer Mischung aus Kiefern- und Laubwäldern.",
+          "Zentraler Wasserspeicher für die Brunnen von Port-au-Prince."
+        ],
+        "hu": [
+          "1983-ban alapították a hegyvidéki erdők védelmére.",
+          "Akár 2273 méteres tengerszint feletti magasságban fekszik.",
+          "A ritka és veszélyeztetett Hispaniola-rigó otthona.",
+          "Több mint 50 különböző madárfaj fontos élőhelye.",
+          "Fenyő- és lombhullató erdők keveréke alkotja.",
+          "Port-au-Prince kútjainak központi víztározója."
+        ],
+        "ro": [
+          "Fondat în 1983 pentru protejarea pădurilor montane.",
+          "Situat la o altitudine de până la 2.273 de metri.",
+          "Adăpostește rara și amenințata mierlă de La Selle.",
+          "Habitat important pentru peste 50 de specii de păsări.",
+          "Format dintr-un amestec de păduri de pini și foioase.",
+          "Bazin hidrografic central pentru fântânile din Port-au-Prince."
+        ],
+        "en": [
+          "Established in 1983 to protect high-altitude forests.",
+          "Located at elevations reaching up to 2,273 meters.",
+          "Home to the rare and endangered La Selle Thrush.",
+          "Critical habitat for over 50 different bird species.",
+          "Features a unique mix of pine and broadleaf forests.",
+          "Serves as a vital water source for the capital city's wells."
+        ]
+      }
+    },
+    {
+      "id": "ht-parc-national-pic-macaya-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Nationalpark Pic Macaya liegt im Herzen des Massif de la Hotte auf der Tiburon-Halbinsel und ist einer der biologisch wertvollsten Orte der Karibik. Der Park umschließt die beiden Gipfel Pic Macaya (2.347 m) und Pic Formon (2.225 m). Hier befinden sich die letzten verbliebenen Primär-Nebelwälder Haitis, die eine unglaubliche Vielfalt an endemischen Pflanzen und Tieren beherbergen. Besonders bemerkenswert ist die hohe Dichte an endemischen Amphibien und Orchideenarten, die weltweit einzigartig sind. Aufgrund der extremen Hangneigungen und der schweren Erreichbarkeit ist der Park ein Rückzugsort für Arten, die anderswo längst ausgestorben sind. Die ökologische Integrität des Parks wird jedoch durch illegale Rodungen und die Jagd bedroht. Internationale Schutzbemühungen versuchen, dieses 'ökologische Juwel' zu bewahren, das auch als Wasserspeicher für den gesamten Südwesten Haitis fungiert. Die Landschaft ist geprägt von tiefen Tälern, steilen Klippen und einer fast undurchdringlichen Vegetation. Földrajz K8 – trópusi esőerdők és biodiverzitás.",
+        "hu": "A Pic Macaya Nemzeti Park a Tiburon-félszigeten, a Massif de la Hotte szívében található, és a Karib-térség egyik legértékesebb biológiai területe. A park két csúcsot, a Pic Macayát (2347 m) és a Pic Formont (2225 m) foglalja magában. Itt találhatók Haiti utolsó megmaradt elsődleges köderdői, amelyek az endemikus növények és állatok hihetetlen változatosságának adnak otthont. Különösen figyelemre méltó az endemikus kétéltűek és orchideafajok magas sűrűsége, amelyek világszerte egyedülállóak. A szélsőséges lejtők és a nehéz megközelíthetőség miatt a park olyan fajok menedékhelye, amelyek máshol már rég kihaltak. A park ökológiai épségét azonban az illegális erdőirtás és a vadászat veszélyezteti. Nemzetközi védelmi erőfeszítések próbálják megőrizni ezt az „ökológiai ékszert”, amely Haiti egész délnyugati részének víztározójaként is funkcionál. A tájat mély völgyek, meredek sziklák és szinte áthatolhatatlan növényzet jellemzi. Földrajz K8 – trópusi esőerdők és biodiverzitás.",
+        "ro": "Parcul Național Pic Macaya este situat în inima masivului La Hotte, pe peninsula Tiburon, fiind una dintre cele mai valoroase zone biologice din Caraibe. Parcul cuprinde două vârfuri majore: Pic Macaya (2.347 m) și Pic Formon (2.225 m). Aici se află ultimele păduri tropicale de ceață primare din Haiti, care adăpostesc o diversitate incredibilă de plante și animale endemice. Este remarcabilă în special densitatea mare de amfibieni și specii de orhidee endemice, unice în lume. Datorită pantelor extrem de abrupte și accesibilității dificile, parcul reprezintă un ultim refugiu pentru specii care au dispărut de mult în alte părți. Integritatea ecologică a parcului este însă amenințată de defrișările ilegale și vânătoare. Eforturile internaționale de conservare încearcă să protejeze această „bijuterie ecologică”, care funcționează și ca rezervor de apă pentru întregul sud-vest al Haitiului. Földrajz K8 – pădurile tropicale și biodiversitatea.",
+        "en": "Pic Macaya National Park is located in the heart of the Massif de la Hotte on the Tiburon Peninsula, representing one of the most biologically significant sites in the Caribbean. The park encompasses two major peaks: Pic Macaya (2,347 m) and Pic Formon (2,225 m). It contains Haiti's last remaining primary cloud forests, which host an incredible array of endemic flora and fauna. Of particular note is the high concentration of endemic amphibians and orchid species, many of which are found nowhere else on the globe. Due to its rugged terrain and steep slopes, the park serves as a final stronghold for species that have vanished elsewhere. However, its ecological integrity is under constant threat from illegal logging and hunting. International conservation efforts aim to preserve this 'ecological jewel,' which also acts as a vital watershed for the entire southwestern region of Haiti. The landscape is defined by deep ravines, jagged cliffs, and nearly impenetrable vegetation. Földrajz K8 – tropical rainforests and biodiversity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt Haitis zweithöchsten Gipfel (2.347 m).",
+          "Zentrum des Massif de la Hotte Biosphärenreservats.",
+          "Schützt die letzten unberührten Nebelwälder des Landes.",
+          "Heimat von über 100 Vogelarten, viele davon endemisch.",
+          "Wichtiges Forschungsgebiet für Evolutionsbiologen weltweit.",
+          "Speist sieben der größten Flüsse im Südwesten Haitis."
+        ],
+        "hu": [
+          "Haiti második legmagasabb csúcsának otthona (2347 m).",
+          "A Massif de la Hotte Bioszféra-rezervátum központja.",
+          "Az ország utolsó érintetlen köderdőit védi.",
+          "Több mint 100 madárfaj otthona, sok közülük endemikus.",
+          "Fontos kutatási terület az evolúcióbiológusok számára.",
+          "Haiti délnyugati részének hét legnagyobb folyóját táplálja."
+        ],
+        "ro": [
+          "Găzduiește al doilea cel mai înalt vârf din Haiti (2.347 m).",
+          "Centrul Rezervației Biosferei Masivul de la Hotte.",
+          "Protejează ultimele păduri de ceață virgine din țară.",
+          "Adăpostește peste 100 de specii de păsări endemice.",
+          "Zonă de cercetare crucială pentru biologi din întreaga lume.",
+          "Alimentează șapte dintre cele mai mari râuri din sud-vest."
+        ],
+        "en": [
+          "Home to Haiti's second-highest peak (2,347 m).",
+          "The core of the Massif de la Hotte Biosphere Reserve.",
+          "Protects the last untouched cloud forests in the country.",
+          "Habitat for over 100 bird species, many endemic.",
+          "A key research site for evolutionary biologists globally.",
+          "Feeds seven of the largest rivers in southwestern Haiti."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-de-nippes-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière de Nippes ist der wichtigste Wasserweg im gleichnamigen Departement Nippes im Südwesten Haitis. Der Fluss entspringt in den nördlichen Ausläufern des Massif de la Hotte und fließt durch eine abwechslungsreiche Landschaft aus Hügeln und fruchtbaren Tälern, bevor er in den Golf von Gonâve mündet. Für die lokale Bevölkerung ist der Fluss von existentieller Bedeutung, da er das Wasser für die Bewässerung von Plantagen liefert, auf denen hauptsächlich Bananen, Kaffee und Kakao angebaut werden. Entlang seines Laufs finden sich zahlreiche kleine Siedlungen, die den Fluss auch für den täglichen Bedarf nutzen. Ökologisch gesehen ist der Fluss ein wichtiger Korridor für die lokale Fauna, leidet jedoch wie viele haitianische Gewässer unter der Erosion der entwaldeten Uferzonen. In der Regenzeit kann der sonst ruhige Fluss schnell anschwellen und die tiefer gelegenen Gebiete überfluten. Földrajz K7 – folyóvizek és mezőgazdaság.",
+        "hu": "A Nippes folyó (Rivière de Nippes) a délnyugat-haiti Nippes megye legfontosabb vízi útja. A folyó a Massif de la Hotte északi nyúlványai között ered, és dombokkal, termékeny völgyekkel tarkított tájon folyik keresztül, mielőtt a Gonâve-öbölbe torkollna. A helyi lakosság számára a folyó létfontosságú, mivel vizet biztosít az ültetvények öntözéséhez, ahol főként banánt, kávét és kakaót termesztenek. Futása mentén számos kis település található, amelyek a folyót mindennapi szükségleteikre is használják. Ökológiai szempontból a folyó fontos folyosó a helyi fauna számára, de sok más haiti vízfolyáshoz hasonlóan az erdőirtott part menti zónák eróziójától szenved. Az esős évszakban az egyébként csendes folyó gyorsan megduzzadhat, és elöntheti az alacsonyabban fekvő területeket. Földrajz K7 – folyóvizek és mezőgazdaság.",
+        "ro": "Rivière de Nippes este principala arteră hidrografică din departamentul Nippes, situat în sud-vestul Haitiului. Râul izvorăște de pe versanții nordici ai masivului La Hotte și traversează un peisaj variat, format din dealuri și văi fertile, înainte de a se vărsa în Golful Gonâve. Pentru populația locală, râul are o importanță existențială, furnizând apă pentru irigarea plantațiilor de banane, cafea și cacao. De-a lungul cursului său se află numeroase așezări mici care depind de râu pentru nevoile zilnice. Din punct de vedere ecologic, râul reprezintă un coridor important pentru fauna locală, însă suferă, ca multe alte ape din Haiti, de pe urma eroziunii cauzate de despădurirea malurilor. În timpul sezonului ploios, debitul râului poate crește rapid, provocând inundații în zonele joase. Földrajz K7 – râurile și agricultura.",
+        "en": "The Nippes River (Rivière de Nippes) is the primary waterway in the Nippes department of southwestern Haiti. Originating in the northern foothills of the Massif de la Hotte, the river winds through a diverse landscape of rolling hills and fertile valleys before emptying into the Gulf of Gonâve. For the local population, the river is of vital importance, providing the water necessary for irrigating plantations of bananas, coffee, and cocoa. Numerous small settlements line its banks, relying on the river for their daily needs. Ecologically, the river serves as an important corridor for local wildlife, although like many Haitian waterways, it suffers from severe soil erosion due to deforestation along its banks. During the rainy season, this otherwise calm river can swell rapidly, posing a threat of flooding to downstream communities. Földrajz K7 – rivers and agriculture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hauptfluss des 2003 gegründeten Departements Nippes.",
+          "Entspringt in den Ausläufern des Massif de la Hotte.",
+          "Wichtig für den Anbau von Bananen und Kakao.",
+          "Mündet in den Golf von Gonâve nahe Miragoâne.",
+          "Dient als Transportweg für lokale Fischerboote.",
+          "Regelmäßige Hochwasserereignisse im Herbst."
+        ],
+        "hu": [
+          "A 2003-ban alapított Nippes megye fő folyója.",
+          "A Massif de la Hotte nyúlványai között ered.",
+          "Fontos a banán- és kakaótermesztés szempontjából.",
+          "Miragoâne közelében torkollik a Gonâve-öbölbe.",
+          "A helyi halászcsónakok szállítási útvonalaként szolgál.",
+          "Ősszel rendszeresek az áradások a folyón."
+        ],
+        "ro": [
+          "Principalul râu al departamentului Nippes (înființat în 2003).",
+          "Izvorăște de la poalele masivului muntos La Hotte.",
+          "Crucial pentru culturile de banane și cacao din regiune.",
+          "Se varsă în Golful Gonâve în apropiere de Miragoâne.",
+          "Utilizat ca rută de transport pentru bărcile locale.",
+          "Inundații periodice frecvente în timpul toamnei."
+        ],
+        "en": [
+          "The main river of the Nippes department (created in 2003).",
+          "Originates in the rugged foothills of Massif de la Hotte.",
+          "Essential for the irrigation of banana and cocoa crops.",
+          "Empties into the Gulf of Gonâve near Miragoâne.",
+          "Serves as a local transport route for small boats.",
+          "Subject to frequent seasonal flooding during autumn."
+        ]
+      }
+    },
+    {
+      "id": "ht-foret-des-pins-reserve-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Forêt des Pins (Kiefernwald) ist eines der bedeutendsten Waldreservate Haitis und liegt im Südosten des Landes, nahe der Grenze zur Dominikanischen Republik. Das Reservat umfasst zwei Hauptbereiche (Unité I und Unité II) in der Chaîne de la Selle auf einer Höhe von bis zu 2.000 Metern. Die dominierende Baumart ist die endemische Hispaniola-Kiefer (Pinus occidentalis), die hier eines ihrer letzten großen zusammenhängenden Verbreitungsgebiete findet. Das kühle, oft neblige Hochlandklima unterscheidet sich drastisch vom tropischen Tiefland und bietet Lebensraum für zahlreiche endemische Vögel und seltene Orchideen. Die Forêt des Pins fungiert als 'Wasserturm' für Port-au-Prince, da die Waldböden das Regenwasser speichern und die Flüsse der Hauptstadtregion speisen. Trotz ihres Schutzstatus ist die Reserve durch illegale Abholzung zur Holzkohlegewinnung und Brandrodung massiv bedroht. Schutzprojekte versuchen heute, die lokale Bevölkerung in eine nachhaltige Waldnutzung einzubinden. Földrajz K8 – erdők és ökológiai egyensúly.",
+        "hu": "A Forêt des Pins (Fenyőerdő) Haiti egyik legjelentősebb erdőrezervátuma, amely az ország délkeleti részén, a Dominikai Köztársaság határának közelében található. A rezervátum két fő egységből (Unité I és Unité II) áll a Chaîne de la Selle hegységben, akár 2000 méteres magasságban. Az uralkodó fafaj az endemikus hispaniolai fenyő (Pinus occidentalis), amelynek itt található az egyik utolsó nagy összefüggő elterjedési területe. A hűvös, gyakran ködös hegyvidéki éghajlat drasztikusan különbözik a trópusi alföldtől, és számos endemikus madárnak és ritka orchideának ad élőhelyet. A Forêt des Pins Port-au-Prince „víztornyaként” működik, mivel az erdőtalaj tárolja az esővizet és táplálja a fővárosi régió folyóit. Védett státusza ellenére a rezervátumot súlyosan veszélyezteti az illegális faszéntermelés és az égetéses erdőirtás. A védelmi projektek ma próbálják bevonni a helyi lakosságot a fenntartható erdőgazdálkodásba. Földrajz K8 – erdők és ökológiai egyensúly.",
+        "ro": "Forêt des Pins (Pădurea de Pini) este una dintre cele mai importante rezervații forestiere din Haiti, situată în sud-estul țării, lângă granița cu Republica Dominicană. Rezervația cuprinde două unități principale (Unité I și Unité II) în lanțul muntos La Selle, la altitudini de până la 2.000 de metri. Specia dominantă este pinul endemic de Hispaniola (Pinus occidentalis), care are aici unul dintre ultimele sale habitate contigue extinse. Climatul montan răcoros și adesea cețos diferă drastic de zonele joase tropicale, oferind habitat pentru numeroase păsări endemice și orhidee rare. Forêt des Pins funcționează ca un „turn de apă” pentru Port-au-Prince, deoarece solul pădurii stochează apa de ploaie și alimentează râurile din regiunea capitalei. În ciuda statutului de protecție, rezervația este grav amenințată de tăierile ilegale pentru cărbune. Proiectele de conservare actuale încearcă să implice populația locală în gestionarea durabilă a pădurii. Földrajz K8 – pădurile și echilibrul ecologic.",
+        "en": "Forêt des Pins (the Pine Forest) is one of Haiti's most significant forest reserves, situated in the southeast of the country near the border with the Dominican Republic. The reserve is divided into two primary units (Unité I and Unité II) within the Chaîne de la Selle range, reaching elevations of up to 2,000 meters. The dominant tree species is the endemic Hispaniolan pine (Pinus occidentalis), and this reserve holds some of its last remaining large, contiguous stands. The cool, often misty highland climate is a sharp contrast to the tropical lowlands, providing a unique habitat for numerous endemic birds and rare orchids. Forêt des Pins serves as a critical 'water tower' for Port-au-Prince, as its forest soils capture and store rainwater that feeds the rivers of the capital region. Despite its protected status, the reserve faces existential threats from illegal logging for charcoal and slash-and-burn agriculture. Current conservation efforts focus on integrating the local community into sustainable forest management practices. Földrajz K8 – forests and ecological balance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes zusammenhängendes Waldgebiet in Haiti.",
+          "Heimat der endemischen Kiefer Pinus occidentalis.",
+          "Liegt in der Chaîne de la Selle auf ca. 2.000 m Höhe.",
+          "Wichtiger Regulator für den Wasserhaushalt des Ouest-Departements.",
+          "Durchschnittliche Jahrestemperatur liegt bei nur 16-18 °C.",
+          "Bedroht durch massiven Holzeinschlag zur Holzkohleproduktion."
+        ],
+        "hu": [
+          "Haiti legnagyobb összefüggő erdőterülete.",
+          "Az endemikus Pinus occidentalis fenyő otthona.",
+          "A Chaîne de la Selle hegységben, kb. 2000 m-en fekszik.",
+          "A nyugati megye vízháztartásának fontos szabályozója.",
+          "Az évi középhőmérséklet mindössze 16-18 °C.",
+          "A faszéntermelés miatti tömeges erdőirtás veszélyezteti."
+        ],
+        "ro": [
+          "Cea mai mare zonă forestieră contiguă din Haiti.",
+          "Adăpostește pinul endemic Pinus occidentalis.",
+          "Situată în Chaîne de la Selle la aproximativ 2.000 m.",
+          "Regulator important al resurselor de apă din Departamentul Ouest.",
+          "Temperatura medie anuală este de doar 16-18 °C.",
+          "Amenințată de tăieri masive pentru producția de cărbune."
+        ],
+        "en": [
+          "The largest contiguous forest area remaining in Haiti.",
+          "Home to the endemic Hispaniolan pine (Pinus occidentalis).",
+          "Located in the Chaîne de la Selle at around 2,000m altitude.",
+          "Vital regulator of the water cycle for the Ouest department.",
+          "Average annual temperature is a cool 16-18 °C.",
+          "Threatened by extensive logging for charcoal production."
+        ]
+      }
+    },
+    {
+      "id": "ht-les-cayemites-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Les Cayemites sind zwei malerische Inseln, Grande Cayemite und Petite Cayemite, die im Golf von Gonâve vor der Küste der Tiburon-Halbinsel liegen. Die Inseln sind vulkanischen und kalksteinigen Ursprungs und bekannt für ihre kristallklaren Gewässer und intakten Korallenriffe. Die lokale Bevölkerung lebt fast ausschließlich vom Fischfang und dem Anbau von Yamswurzeln und Bananen. Aufgrund ihrer isolierten Lage haben die Inseln viel von ihrem ursprünglichen Charme bewahrt, leiden jedoch unter fehlender Infrastruktur und den Auswirkungen des Klimawandels. Das Meer um die Cayemites bietet hervorragende Möglichkeiten für den Tauchtourismus, der jedoch noch in den Kinderschuhen steckt. Die Inseln sind auch ein wichtiger Brutplatz für verschiedene Seevögel. Die Anreise erfolgt meist mit kleinen Booten von der Stadt Pestel aus, was den Cayemites eine ruhige und abgeschiedene Atmosphäre verleiht. Földrajz K7 – szigetek és tengerparti élet.",
+        "hu": "Les Cayemites két festői sziget, Grande Cayemite és Petite Cayemite, amelyek a Gonâve-öbölben, a Tiburon-félsziget partjainál fekszenek. A szigetek vulkáni és mészkő eredetűek, híresek kristálytiszta vizükről és érintetlen korallzátonyaikról. A helyi lakosság szinte kizárólag halászatból, valamint jamgyökér- és banántermesztésből él. Elszigetelt helyzetüknek köszönhetően a szigetek sokat megőriztek eredeti bájukból, de szenvednek az infrastruktúra hiányától és az éghajlatváltozás hatásaitól. A Cayemites körüli tenger kiváló lehetőségeket kínál a búvárturizmus számára, amely azonban még gyerekcipőben jár. A szigetek különböző tengeri madarak fontos fészkelőhelyei is. A megközelítés általában kis csónakokkal történik Pestel városából, ami a Cayemites-szigeteknek nyugodt és eldugott hangulatot kölcsönöz. Földrajz K7 – szigetek és tengerparti élet.",
+        "ro": "Les Cayemites sunt două insule pitorești, Grande Cayemite și Petite Cayemite, situate în Golful Gonâve, în largul coastei peninsulei Tiburon. Insulele au origine vulcanică și calcaroasă, fiind renumite pentru apele lor cristaline și recifele de corali intacte. Populația locală trăiește aproape exclusiv din pescuit și din cultivarea ignamei și a bananelor. Datorită locației lor izolate, insulele și-au păstrat mult din farmecul original, dar suferă de lipsa infrastructurii și de efectele schimbărilor climatice. Marea din jurul insulelor Cayemites oferă oportunități excelente pentru turismul de scufundări, care este însă încă la început. Insulele sunt, de asemenea, un loc important de cuibărit pentru diverse păsări marine. Accesul se face de obicei cu barca din orașul Pestel, ceea ce le conferă o atmosferă liniștită și retrasă. Földrajz K7 – insulele și viața de coastă.",
+        "en": "Les Cayemites are two picturesque islands, Grande Cayemite and Petite Cayemite, located in the Gulf of Gonâve off the northern coast of the Tiburon Peninsula. These islands, of volcanic and limestone origin, are renowned for their crystal-clear waters and vibrant coral reefs. The local inhabitants live almost entirely from fishing and the cultivation of yams and bananas. Due to their relative isolation, the islands have retained much of their original character, though they face challenges from a lack of infrastructure and the impacts of climate change. The waters surrounding Les Cayemites offer excellent potential for scuba diving tourism, which is currently underdeveloped. The islands also serve as an important nesting ground for various species of seabirds. Travelers typically reach the islands by small boat from the town of Pestel, contributing to the serene and secluded atmosphere of the archipelago. Földrajz K7 – islands and coastal life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bestehen aus den Inseln Grande und Petite Cayemite.",
+          "Gesamtfläche beträgt etwa 45 Quadratkilometer.",
+          "Gehören administrativ zum Departement Grand'Anse.",
+          "Umgeben von einigen der gesündesten Korallenriffe Haitis.",
+          "Wichtiger Lebensraum für Seeigel und verschiedene Krustentiere.",
+          "Pestel ist der wichtigste Ausgangspunkt auf dem Festland."
+        ],
+        "hu": [
+          "Grande és Petite Cayemite szigetekből áll.",
+          "Teljes területe körülbelül 45 négyzetkilométer.",
+          "Közigazgatásilag Grand'Anse megyéhez tartoznak.",
+          "Haiti legépebb korallzátonyai veszik körül.",
+          "Fontos élőhely a tengeri sünök és rákfélék számára.",
+          "Pestel a legfontosabb kiindulópont a szárazföldön."
+        ],
+        "ro": [
+          "Formate din insulele Grande și Petite Cayemite.",
+          "Suprafața totală este de aproximativ 45 de kilometri pătrați.",
+          "Aparțin administrativ de departamentul Grand'Anse.",
+          "Înconjurate de unele dintre cele mai sănătoase recife din Haiti.",
+          "Habitat important pentru arici de mare și crustacee.",
+          "Pestel este principalul punct de plecare de pe continent."
+        ],
+        "en": [
+          "Consists of the islands Grande Cayemite and Petite Cayemite.",
+          "The total area is approximately 45 square kilometers.",
+          "Administratively part of the Grand'Anse department.",
+          "Surrounded by some of the healthiest coral reefs in Haiti.",
+          "Vital habitat for sea urchins and various crustaceans.",
+          "Pestel is the primary mainland gateway to the islands."
+        ]
+      }
+    },
+    {
+      "id": "ht-trou-caiman-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Trou Caïman ist ein bedeutender Süßwassersee und ein wichtiges Feuchtgebiet im Departement Ouest von Haiti. Er liegt in der Ebene von Cul-de-Sac, nordwestlich des größeren Étang Saumâtre. Der See erstreckt sich über eine Fläche von etwa 12 Quadratkilometern und ist bekannt für seine reiche Vogelwelt, insbesondere für Kolonien von Flamingos und verschiedenen Reiherarten. Als eines der wenigen Süßwasserreservoire in einer ansonsten eher ariden Ebene bietet der See lebenswichtige Ressourcen für wandernde Wasservögel. Die Uferzonen sind von Sumpfvegetation geprägt, die jedoch durch die Ausweitung der Landwirtschaft zunehmend unter Druck gerät. Historisch gesehen war der See Teil einer Kette von Seen, die einst die Insel Hispaniola teilten. Heute ist Trou Caïman ein wichtiges Ziel für Ökotouristen und Ornithologen, die die unberührte Natur Haitis abseits der Städte erleben möchten. Földrajz K7 – vizes élőhelyek és tavak.",
+        "hu": "A Trou Caïman egy jelentős édesvízi tó és fontos vizes élőhely Haiti nyugati megyéjében (Ouest). A Cul-de-Sac síkságon található, a nagyobb Étang Saumâtre-tól északnyugatra. A tó területe körülbelül 12 négyzetkilométer, és gazdag madárvilágáról ismert, különösen a flamingókolóniákról és a különböző kócsagfajokról. Mint az egyébként száraz síkság kevés édesvízi tározójának egyike, a tó létfontosságú erőforrásokat biztosít a vándorló vízimadarak számára. A part menti zónákat mocsári növényzet jellemzi, amely azonban a mezőgazdaság terjeszkedése miatt egyre nagyobb nyomás alá kerül. Történelmileg a tó egy tófüzér része volt, amely egykor kettéosztotta Hispaniola szigetét. Ma a Trou Caïman fontos célpont az ökoturisták és ornitológusok számára, akik szeretnék megtapasztalni Haiti érintetlen természetét a városoktól távol. Földrajz K7 – vizes élőhelyek és tavak.",
+        "ro": "Trou Caïman este un lac important de apă dulce și o zonă umedă crucială situată în departamentul Ouest din Haiti. Se află în Câmpia Cul-de-Sac, la nord-vest de lacul mai mare Étang Saumâtre. Lacul se întinde pe o suprafață de aproximativ 12 kilometri pătrați și este renumit pentru avifauna sa bogată, în special pentru coloniile de flamingo și diverse specii de egrete. Fiind unul dintre puținele rezervoare de apă dulce într-o câmpie altfel aridă, lacul oferă resurse vitale pentru păsările acvatice migratoare. Zonele de coastă sunt caracterizate de vegetație de mlaștină, care este însă din ce în ce mai presată de extinderea agriculturii. Din punct de vedere istoric, lacul a făcut parte dintr-un lanț de lacuri care au divizat cândva insula Hispaniola. Astăzi, Trou Caïman este o destinație importantă pentru ecoturiști și ornitologi. Földrajz K7 – zonele umede și lacurile.",
+        "en": "Trou Caïman is a significant freshwater lake and a vital wetland located in the Ouest department of Haiti. Situated within the Cul-de-Sac plain, it lies northwest of the larger, brackish Étang Saumâtre. The lake covers an area of approximately 12 square kilometers and is famous for its abundant birdlife, particularly its colonies of flamingos and various species of herons. As one of the few freshwater bodies in an otherwise semi-arid plain, the lake provides critical habitat and resources for migratory waterfowl. The lake's margins are dominated by marsh vegetation, which is increasingly threatened by agricultural encroachment. Historically, Trou Caïman was part of a chain of lakes that once split the island of Hispaniola in two. Today, it is a key destination for eco-tourists and birdwatchers seeking to experience Haiti's natural beauty away from the urban centers. Földrajz K7 – wetlands and lakes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der See ist ein wichtiges Süßwasser-Ökosystem in Haiti.",
+          "Er erstreckt sich über eine Fläche von ca. 12 km².",
+          "Bekannt für seine Flamingos und über 100 Vogelarten.",
+          "Liegt in der Senke der Cul-de-Sac-Ebene.",
+          "Wichtiges Rastgebiet für Zugvögel aus Nordamerika.",
+          "Der Name bedeutet wörtlich 'Kaiman-Loch'."
+        ],
+        "hu": [
+          "A tó fontos édesvízi ökoszisztéma Haitin.",
+          "Területe körülbelül 12 km².",
+          "Híres a flamingóiról és a több mint 100 madárfajáról.",
+          "A Cul-de-Sac síkság mélyedésében található.",
+          "Fontos pihenőhely az Észak-Amerikából érkező vándorló madaraknak.",
+          "A neve szó szerint 'Kajmán-lyukat' jelent."
+        ],
+        "ro": [
+          "Lacul este un ecosistem de apă dulce vital în Haiti.",
+          "Se întinde pe o suprafață de aproximativ 12 km².",
+          "Cunoscut pentru flamingo și cele peste 100 de specii de păsări.",
+          "Situat în depresiunea Câmpiei Cul-de-Sac.",
+          "Zonă importantă de odihnă pentru păsările migratoare.",
+          "Numele se traduce literal prin 'Groapa Caimanului'."
+        ],
+        "en": [
+          "The lake is a vital freshwater ecosystem in Haiti.",
+          "It spans an area of approximately 12 square kilometers.",
+          "Renowned for its flamingos and over 100 bird species.",
+          "Located in the depression of the Cul-de-Sac plain.",
+          "Crucial stopover point for migratory birds from North America.",
+          "The name literally translates to 'Caiman Hole'."
+        ]
+      }
+    },
+    {
+      "id": "ht-canal-de-saint-marc-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Canal de Saint-Marc ist eine strategisch wichtige Meerenge im Westen Haitis, die die Insel La Gonâve vom Festland (Departement Artibonite) trennt. Er bildet den nördlichen Teil des Golfs von Gonâve und ist eine lebenswichtige Schifffahrtsstraße für den Zugang zum Hafen von Saint-Marc. Die Gewässer des Kanals sind tief und weisen starke Strömungen auf, was ihn zu einem interessanten Gebiet für die Meeresbiologie macht. Historisch gesehen war der Kanal Schauplatz zahlreicher maritimer Aktivitäten während der Kolonialzeit. Die Küsten entlang des Kanals sind von Mangroven und kleinen Fischerdörfern geprägt, die von der reichen marinen Biodiversität profitieren. Der Kanal spielt auch eine Rolle für das lokale Klima, indem er die Meeresbrisen ins Landesinnere leitet. Für Reisende bietet die Überquerung des Kanals spektakuläre Ausblicke auf die Gebirgsketten Haitis und die weiten Wasserflächen des Golfs. Földrajz K7 – tengerek és szorosok.",
+        "hu": "A Saint-Marc-csatorna (Canal de Saint-Marc) egy stratégiailag fontos tengerszoros Haiti nyugati részén, amely elválasztja Gonâve szigetét a szárazföldtől (Artibonite megye). Ez a Gonâve-öböl északi részét alkotja, és létfontosságú hajózási útvonal a Saint-Marc kikötőjéhez való hozzáféréshez. A csatorna vizei mélyek és erős áramlatok jellemzik, ami a tengerbiológia számára is érdekessé teszi a területet. Történelmileg a csatorna számos tengeri tevékenység helyszíne volt a gyarmati időkben. A csatorna menti partokat mangroveerdők és kis halászfalvak jellemzik, amelyek a gazdag tengeri biodiverzitásból élnek. A csatorna a helyi éghajlatban is szerepet játszik azáltal, hogy a tengeri szellőket a szárazföld belseje felé vezeti. Az utazók számára a csatornán való átkelés látványos kilátást nyújt Haiti hegyláncaira és az öböl hatalmas vízfelületeire. Földrajz K7 – tengerek és szorosok.",
+        "ro": "Canalul Saint-Marc este o strâmtoare de importanță strategică în vestul Haitiului, care separă insula La Gonâve de continent (departamentul Artibonite). Acesta formează partea de nord a Golfului Gonâve și este o rută maritimă vitală pentru accesul la portul Saint-Marc. Apele canalului sunt adânci și prezintă curenți puternici, ceea ce îl face o zonă de interes pentru biologia marină. Din punct de vedere istoric, canalul a fost scena multor activități maritime în perioada colonială. Coastele de-a lungul canalului sunt marcate de mangrove și mici sate de pescari care beneficiază de biodiversitatea marină bogată. Canalul joacă, de asemenea, un rol în climatul local, direcționând briza mării către interiorul țării. Pentru călători, traversarea canalului oferă vederi spectaculoase asupra lanțurilor muntos din Haiti și a întinderilor vaste de apă ale golfului. Földrajz K7 – mările și strâmtorile.",
+        "en": "The Canal de Saint-Marc (Saint-Marc Channel) is a strategically vital strait in western Haiti that separates Gonâve Island from the mainland (Artibonite department). It forms the northern arm of the Gulf of Gonâve and serves as a crucial shipping lane for vessels accessing the port of Saint-Marc. The channel's waters are notably deep and characterized by strong currents, making it an area of interest for marine biology and research. Historically, the channel was a hive of maritime activity during the colonial era. The shorelines along the channel are fringed with mangroves and small fishing communities that thrive on the rich marine biodiversity. The channel also influences the local microclimate by funneling sea breezes toward the interior. For travelers, crossing or sailing the channel offers spectacular views of Haiti's rugged mountain ranges and the vast expanse of the Caribbean Sea. Földrajz K7 – seas and straits."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Trennt die Île de la Gonâve vom Artibonite-Departement.",
+          "Wichtige Zufahrtsroute zum Hafen von Saint-Marc.",
+          "Teil des größeren maritimen Systems des Golfs von Gonâve.",
+          "Die Gewässer sind für ihre beträchtliche Tiefe bekannt.",
+          "Reich an marinen Ressourcen wie Schnappern und Makrelen.",
+          "Die Breite des Kanals variiert zwischen 25 und 30 Kilometern."
+        ],
+        "hu": [
+          "Elválasztja Gonâve szigetét az Artibonite megyétől.",
+          "Fontos útvonal a Saint-Marc kikötőjébe tartó hajóknak.",
+          "A Gonâve-öböl nagyobb tengeri rendszerének része.",
+          "Vizei jelentős mélységükről ismertek.",
+          "Gazdag tengeri erőforrásokban, például sügérekben és makrélákban.",
+          "A csatorna szélessége 25 és 30 kilométer között mozog."
+        ],
+        "ro": [
+          "Separă Insula Gonâve de departamentul Artibonite.",
+          "Rută importantă de acces către portul Saint-Marc.",
+          "Parte a sistemului maritim mai larg al Golfului Gonâve.",
+          "Apele sunt cunoscute pentru adâncimea lor considerabilă.",
+          "Bogat în resurse marine, cum ar fi lutjanidele și macroul.",
+          "Lățimea canalului variază între 25 și 30 de kilometri."
+        ],
+        "en": [
+          "Separates Gonâve Island from the Artibonite department.",
+          "Key access route for ships heading to the port of Saint-Marc.",
+          "Part of the larger Gulf of Gonâve maritime system.",
+          "The waters are noted for their significant depth.",
+          "Rich in marine resources including snappers and mackerel.",
+          "The channel width varies between 25 and 30 kilometers."
+        ]
+      }
+    },
+    {
+      "id": "ht-canal-du-sud-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Canal du Sud ist eine bedeutende Wasserstraße im Golf von Gonâve, die die Tiburon-Halbinsel im Süden von der Insel La Gonâve im Norden trennt. Er bildet den südlichen Zugang zur Bucht von Port-au-Prince und ist für den Seehandel der Region von entscheidender Bedeutung. Der Kanal ist bekannt für seine lebhaften Gewässer und die malerische Küstenlinie, die von Sandstränden und Korallenriffen gesäumt ist. Ökologisch bietet der Canal du Sud Lebensraum für zahlreiche Meeresbewohner, darunter Meeresschildkröten und verschiedene Walarten, die den Kanal während ihrer Wanderungen passieren. Die Strömungsverhältnisse können je nach Jahreszeit variieren, was die Navigation für kleinere Fischerboote anspruchsvoll macht. Historisch war der Kanal ein wichtiger Weg für den Transport von Agrarprodukten von der Südküste zur Hauptstadt. Heute ist er auch ein potenzielles Gebiet für die Entwicklung von nachhaltigem Küstentourismus. Földrajz K7 – tengeri útvonalak és környezet.",
+        "hu": "A Canal du Sud (Déli-csatorna) egy jelentős vízi út a Gonâve-öbölben, amely elválasztja a déli Tiburon-félszigetet az északi Gonâve-szigettől. Ez képezi a Port-au-Prince-i öböl déli bejáratát, és döntő fontosságú a régió tengeri kereskedelme számára. A csatorna élénk vizeiről és festői partvonaláról ismert, amelyet homokos strandok és korallzátonyok szegélyeznek. Ökológiai szempontból a Canal du Sud számos tengeri élőlénynek ad otthont, köztük tengeri teknősöknek és különböző bálnafajoknak, amelyek vándorlásuk során áthaladnak a csatornán. Az áramlási viszonyok évszakonként változhatnak, ami megnehezíti a navigációt a kisebb halászcsónakok számára. Történelmileg a csatorna fontos útvonal volt a mezőgazdasági termékek szállítására a déli partról a fővárosba. Ma a fenntartható partmenti turizmus fejlesztésének egyik potenciális területe is. Földrajz K7 – tengeri útvonalak és környezet.",
+        "ro": "Canalul de Sud (Canal du Sud) este o cale navigabilă majoră în Golful Gonâve, care separă peninsula Tiburon la sud de insula La Gonâve la nord. Acesta constituie intrarea sudică în Golful Port-au-Prince și este crucial pentru comerțul maritim regional. Canalul este cunoscut pentru apele sale dinamice și linia de coastă pitorească, mărginită de plaje cu nisip și recife de corali. Din punct de vedere ecologic, Canalul de Sud oferă habitat pentru numeroase viețuitoare marine, inclusiv țestoase marine și diverse specii de balene care trec prin canal în timpul migrațiilor. Condițiile de curent pot varia în funcție de sezon, făcând navigația dificilă pentru bărcile de pescuit mici. Din punct de vedere istoric, canalul a fost o rută importantă pentru transportul produselor agricole de pe coasta de sud către capitală. Astăzi, este o zonă cu potențial pentru turismul de coastă durabil. Földrajz K7 – rutele maritime și mediul.",
+        "en": "The Canal du Sud (South Channel) is a major waterway in the Gulf of Gonâve, separating the southern Tiburon Peninsula from Gonâve Island to the north. It serves as the southern entrance to the Bay of Port-au-Prince and is vital for the region's maritime commerce. The channel is known for its dynamic waters and scenic coastline, which is dotted with sandy beaches and coral reefs. Ecologically, the Canal du Sud provides a habitat for various marine life, including sea turtles and several whale species that pass through the channel during their migrations. Tidal and current conditions can fluctuate seasonally, posing challenges for smaller fishing vessels. Historically, the channel was a primary conduit for transporting agricultural goods from the southern coast to the capital. Today, it also holds potential for the development of sustainable coastal tourism and marine conservation. Földrajz K7 – maritime routes and environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Trennt die Tiburon-Halbinsel von der Île de la Gonâve.",
+          "Südlicher Zugangsweg zur Bucht von Port-au-Prince.",
+          "Breite des Kanals beträgt etwa 27 Kilometer.",
+          "Bekannt für reiche Fischgründe und marine Biodiversität.",
+          "Wichtiger Migrationspfad für Meeresschildkröten.",
+          "Strömungen können für kleine Boote gefährlich sein."
+        ],
+        "hu": [
+          "Elválasztja a Tiburon-félszigetet Gonâve szigetétől.",
+          "A Port-au-Prince-i öböl déli bejárati útvonala.",
+          "A csatorna szélessége körülbelül 27 kilométer.",
+          "Gazdag halászterületeiről és tengeri biodiverzitásáról ismert.",
+          "A tengeri teknősök fontos vándorlási útvonala.",
+          "Az áramlatok veszélyesek lehetnek a kis csónakok számára."
+        ],
+        "ro": [
+          "Separă Peninsula Tiburon de Insula Gonâve.",
+          "Cale de acces sudică către Golful Port-au-Prince.",
+          "Lățimea canalului este de aproximativ 27 de kilometri.",
+          "Cunoscut pentru zone de pescuit bogate și biodiversitate marină.",
+          "Cale importantă de migrație pentru țestoasele marine.",
+          "Curenții pot fi periculoși pentru ambarcațiunile mici."
+        ],
+        "en": [
+          "Separates the Tiburon Peninsula from Gonâve Island.",
+          "Acts as the southern entry path to the Bay of Port-au-Prince.",
+          "The channel width is approximately 27 kilometers.",
+          "Renowned for rich fishing grounds and marine biodiversity.",
+          "Important migration corridor for sea turtles.",
+          "Water currents can be hazardous for small vessels."
+        ]
+      }
+    },
+    {
+      "id": "ht-montagnes-noires-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Montagnes Noires (Schwarze Berge) sind eine markante Gebirgskette im Zentrum Haitis, die sich parallel zur Chaîne des Matheux erstreckt. Sie trennen das Zentralplateau vom fruchtbaren Artibonite-Tal. Die Berge erreichen Höhen von über 1.200 Metern und sind geologisch vor allem durch Kalksteinformationen geprägt. Der Name leitet sich wahrscheinlich von der dunklen Erscheinung der dicht bewaldeten Hänge in früherer Zeit ab, obwohl heute weite Teile durch Abholzung kahl sind. Die Region ist von großer Bedeutung für die lokale Landwirtschaft, da an den Hängen Kaffee, Mais und Tabak angebaut werden. Aufgrund der topographischen Barriere wirken die Berge auch auf das lokale Regenmuster ein. Für Wanderer bietet die Region spektakuläre Aussichten auf das Flusssystem des Artibonite. Trotz der ökologischen Herausforderungen beherbergen die Montagnes Noires noch immer isolierte Fragmente tropischer Trockenwälder mit einer spezialisierten Flora. Földrajz K7 – hegyláncok és domborzat.",
+        "hu": "A Fekete-hegység (Montagnes Noires) egy jellegzetes hegylánc Haiti középső részén, amely párhuzamosan fut a Chaîne des Matheux hegységgel. Elválasztják a Központi-fennsíkot a termékeny Artibonite-völgytől. A hegyek 1200 méter feletti magasságot érnek el, és geológiailag főként mészkőformációk jellemzik őket. A név valószínűleg a sűrűn erdősült lejtők egykori sötét megjelenéséből ered, bár mára nagy részük az erdőirtás miatt kopár. A régió nagy jelentőséggel bír a helyi mezőgazdaság számára, mivel a lejtőkön kávét, kukoricát és dohányt termesztenek. A domborzati akadály miatt a hegyek a helyi csapadékmintázatot is befolyásolják. A túrázók számára a régió látványos kilátást nyújt az Artibonite folyórendszerére. Az ökológiai kihívások ellenére a Fekete-hegység még mindig őriz elszigetelt trópusi száraz erdőfoltokat speciális flórával. Földrajz K7 – hegyláncok és domborzat.",
+        "ro": "Munții Negri (Montagnes Noires) reprezintă un lanț muntos proeminent în centrul Haitiului, care se întinde paralel cu Chaîne des Matheux. Aceștia separă Podișul Central de fertila Vale Artibonite. Munții ating înălțimi de peste 1.200 de metri și sunt caracterizați geologic în principal prin formațiuni de calcar. Numele derivă probabil de la aspectul întunecat al versanților care erau odinioară dens împăduriți, deși astăzi mari părți sunt golașe din cauza despăduririlor. Regiunea este de mare importanță pentru agricultura locală, pe versanți fiind cultivate cafea, porumb și tutun. Datorită barierei topografice, munții influențează și regimul local al precipitațiilor. Pentru amatori de drumeții, regiunea oferă vederi spectaculoase asupra sistemului fluvial Artibonite. În ciuda provocărilor ecologice, Montagnes Noires încă adăpostesc fragmente izolate de păduri tropicale uscate cu o floră specializată. Földrajz K7 – lanțurile muntoase și relieful.",
+        "en": "The Montagnes Noires (Black Mountains) are a prominent mountain range in central Haiti, running parallel to the Chaîne des Matheux. They serve as a natural barrier between the Central Plateau and the fertile Artibonite Valley. The mountains reach elevations of over 1,200 meters and are geologically dominated by limestone formations. The name likely originates from the dark appearance of the slopes when they were once densely forested, though today significant portions are bare due to extensive deforestation. The region is vital for local agriculture, with coffee, corn, and tobacco cultivated on the mountain slopes. As a topographic barrier, the range also influences local rainfall patterns. For hikers and explorers, the region offers spectacular vistas of the Artibonite River system. Despite environmental challenges, the Montagnes Noires still harbor isolated fragments of tropical dry forest with specialized flora. Földrajz K7 – mountain ranges and topography."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gebirgskette im Zentrum Haitis mit Gipfeln bis zu 1.200 m.",
+          "Verläuft parallel zum Artibonite-Fluss.",
+          "Wichtige Barriere zwischen dem Plateau Central und der Küste.",
+          "Geologisch geprägt durch Karst- und Kalksteinlandschaften.",
+          "Hauptanbaugebiet für haitianischen Tabak und Kaffee.",
+          "Heimat zahlreicher kleiner, isolierter Bergdörfer."
+        ],
+        "hu": [
+          "Hegylánc Haiti középső részén, 1200 m-ig terjedő csúcsokkal.",
+          "Párhuzamosan fut az Artibonite folyóval.",
+          "Fontos akadály a Központi-fennsík és a tengerpart között.",
+          "Geológiailag karszt- és mészkőtájak jellemzik.",
+          "A haiti dohány és kávé egyik fő termőterülete.",
+          "Számos kicsi, elszigetelt hegyi falu otthona."
+        ],
+        "ro": [
+          "Lanț muntos în centrul Haitiului, cu vârfuri de până la 1.200 m.",
+          "Se desfășoară paralel cu râul Artibonite.",
+          "Barieră importantă între Podișul Central și coastă.",
+          "Caracterizat geologic prin peisaje carstice și calcaroase.",
+          "Zonă principală de cultivare pentru tutun și cafea.",
+          "Adăpostește numeroase sate montane mici și izolate."
+        ],
+        "en": [
+          "Mountain range in central Haiti with peaks up to 1,200 meters.",
+          "Runs parallel to the course of the Artibonite River.",
+          "Major barrier between the Central Plateau and the coast.",
+          "Geologically defined by karst and limestone landscapes.",
+          "Primary cultivation area for Haitian tobacco and coffee.",
+          "Home to many small, isolated mountain communities."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-momance-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière Momance ist ein bedeutender Fluss im Departement Ouest von Haiti, der in den Höhen des Massif de la Selle entspringt. Er fließt in nordwestlicher Richtung und durchquert die fruchtbare Ebene von Léogâne, bevor er in die Bucht von Port-au-Prince mündet. Der Fluss ist bekannt für seine unvorhersehbare Dynamik; während er in der Trockenzeit fast zu einem Rinnsal schrumpfen kann, verwandelt er sich in der Hurrikansaison oft in einen reißenden Strom. Diese Sturzfluten stellen eine ständige Bedrohung für die Stadt Léogâne und die umliegenden landwirtschaftlichen Flächen dar. Trotz der Gefahren ist der Momance lebensnotwendig für die Bewässerung der Zuckerrohr- und Bananenplantagen der Region. Ökologisch leidet der Fluss unter der starken Erosion im Oberlauf, was zu einer hohen Sedimentfracht führt. Bemühungen zur Aufforstung und zum Dammbau zielen darauf ab, die Hochwassergefahr zu mindern und das Ökosystem zu stabilisieren. Földrajz K7 – folyók és árvízvédelem.",
+        "hu": "A Momance folyó (Rivière Momance) jelentős vízfolyás Haiti nyugati megyéjében (Ouest), amely a Massif de la Selle magaslataiban ered. Északnyugati irányba folyik, átszeli a termékeny Léogâne-síkságot, majd a Port-au-Prince-i öbölbe torkollik. A folyó kiszámíthatatlan dinamikájáról ismert; míg a száraz évszakban szinte csermellyé zsugorodhat, a hurrikánszezonban gyakran zúgó áradattá válik. Ezek a villámárvizek állandó fenyegetést jelentenek Léogâne városára és a környező mezőgazdasági területekre. A veszélyek ellenére a Momance létfontosságú a régió cukornád- és banánültetvényeinek öntözéséhez. Ökológiai szempontból a folyó a felső szakaszán tapasztalható erős eróziótól szenved, ami magas hordalékterheléshez vezet. Az erdősítési és gátépítési törekvések célja az árvízveszély mérséklése és az ökoszisztéma stabilizálása. Földrajz K7 – folyók és árvízvédelem.",
+        "ro": "Rivière Momance este un râu important din departamentul Ouest al Haitiului, care izvorăște din înălțimile masivului La Selle. Acesta curge în direcție nord-vestică, traversând câmpia fertilă Léogâne înainte de a se vărsa în Golful Port-au-Prince. Râul este cunoscut pentru dinamica sa imprevizibilă; în timp ce în sezonul uscat poate scădea până la un fir de apă, în timpul sezonului uraganelor se transformă adesea într-un torent violent. Aceste viituri reprezintă o amenințare constantă pentru orașul Léogâne și pentru terenurile agricole din jur. În ciuda pericolelor, Momance este vital pentru irigarea plantațiilor de trestie de zahăr și banane din regiune. Din punct de vedere ecologic, râul suferă din cauza eroziunii puternice din cursul superior, ceea ce duce la o încărcătură mare de sedimente. Eforturile de reîmpădurire și de construire a barajelor vizează reducerea riscului de inundații. Földrajz K7 – râurile și controlul inundațiilor.",
+        "en": "The Momance River (Rivière Momance) is a significant waterway in Haiti's Ouest department, originating in the highlands of the Massif de la Selle. Flowing in a northwesterly direction, it traverses the fertile Léogâne plain before emptying into the Bay of Port-au-Prince. The river is notorious for its unpredictable dynamics; while it can shrink to a mere trickle during the dry season, it frequently transforms into a raging torrent during the hurricane season. These flash floods pose a constant threat to the city of Léogâne and the surrounding agricultural lands. Despite these dangers, the Momance is essential for irrigating the region's sugarcane and banana plantations. Ecologically, the river suffers from severe upstream erosion, resulting in a high sediment load. Conservation efforts, including reforestation and embankment projects, aim to mitigate flood risks and stabilize the river's ecosystem. Földrajz K7 – rivers and flood control."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Entspringt im Massif de la Selle auf ca. 1.500 m.",
+          "Durchfließt die wirtschaftlich wichtige Léogâne-Ebene.",
+          "Mündet in die Bucht von Port-au-Prince nahe Gressier.",
+          "Bekannt für zerstörerische Sturzfluten (Flash Floods).",
+          "Wichtigste Wasserquelle für die Zuckerrohrindustrie vor Ort.",
+          "Das Flussbecken umfasst eine Fläche von etwa 450 km²."
+        ],
+        "hu": [
+          "A Massif de la Selle hegységben ered kb. 1500 m-en.",
+          "Átfolyik a gazdaságilag fontos Léogâne-síkságon.",
+          "Gressier közelében torkollik a Port-au-Prince-i öbölbe.",
+          "Pusztító villámárvizeiről (Flash Floods) ismert.",
+          "A helyi cukornádipar legfontosabb vízforrása.",
+          "A folyó vízgyűjtő területe körülbelül 450 km²."
+        ],
+        "ro": [
+          "Izvorăște din Masivul de la Selle la circa 1.500 m.",
+          "Traversează câmpia Léogâne, importantă economic.",
+          "Se varsă în Golful Port-au-Prince lângă Gressier.",
+          "Cunoscut pentru viituri devastatoare (flash floods).",
+          "Cea mai importantă sursă de apă pentru industria trestiei de zahăr.",
+          "Bazinul hidrografic acoperă o suprafață de circa 450 km²."
+        ],
+        "en": [
+          "Originates in the Massif de la Selle at about 1,500m.",
+          "Flows through the economically vital Léogâne plain.",
+          "Empties into the Bay of Port-au-Prince near Gressier.",
+          "Notorious for destructive seasonal flash floods.",
+          "Primary water source for the local sugarcane industry.",
+          "The river basin covers an area of approximately 450 km²."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-des-trois-rivieres-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Trois Rivières (Drei Flüsse) ist einer der längsten und bedeutendsten Flüsse im Nordwesten Haitis. Trotz ihres Namens handelt es sich um einen einzelnen Flusslauf, der durch den Zusammenfluss mehrerer Quellbäche entsteht. Er entspringt im Massif du Nord und schlängelt sich über eine Länge von etwa 150 Kilometern durch tiefe Täler und Schluchten, bevor er bei der Stadt Port-de-Paix in den Atlantik mündet. Der Fluss ist die Lebensader für die Landwirtschaft im Departement Nord-Ouest und versorgt weite Gebiete mit Wasser für den Anbau von Reis, Tabak und Obst. Ökologisch ist der Fluss von großer Bedeutung, leidet jedoch unter der Entwaldung seines Einzugsgebiets, was zu starker Bodenerosion und einer Veränderung des Abflussverhaltens führt. In der Regenzeit kann der Flusspegel massiv ansteigen und die Verkehrswege der Region unterbrechen. Die Mündung des Flusses ist ein wichtiger Ort für die lokale Fischerei. Földrajz K7 – folyórendszerek és tájformálás.",
+        "hu": "A Trois Rivières (Három folyó) Haiti északnyugati részének egyik leghosszabb és legjelentősebb folyója. Neve ellenére ez egyetlen folyómeder, amely több forráság összefolyásából keletkezik. A Massif du Nord hegységben ered, és körülbelül 150 kilométer hosszan kanyarog mély völgyeken és szurdokokon keresztül, mielőtt Port-de-Paix városánál az Atlanti-óceánba torkollna. A folyó Északnyugat megye mezőgazdaságának éltető eleme, hatalmas területeket lát el vízzel rizs, dohány és gyümölcs termesztéséhez. Ökológiai szempontból a folyó nagy jelentőségű, de szenved a vízgyűjtő területén végzett erdőirtástól, ami erős talajerózióhoz és a vízjárás megváltozásához vezet. Az esős évszakban a folyó vízszintje jelentősen megemelkedhet, elvágva a régió közlekedési útvonalait. A folyó torkolata a helyi halászat fontos helyszíne. Földrajz K7 – folyórendszerek és tájformálás.",
+        "ro": "Trois Rivières (Trei Râuri) este unul dintre cele mai lungi și mai importante râuri din nord-vestul Haitiului. În ciuda numelui său, este un singur curs de apă format prin confluența mai multor pârâuri. Izvorăște din Masivul de Nord și șerpuiește pe o lungime de aproximativ 150 de kilometri prin văi adânci și defilee, înainte de a se vărsa în Oceanul Atlantic lângă orașul Port-de-Paix. Râul este artera vitală pentru agricultura din departamentul Nord-Ouest, furnizând apă pentru cultivarea orezului, tutunului și fructelor. Din punct de vedere ecologic, râul are o mare importanță, dar suferă de pe urma despăduririi bazinului său hidrografic, ceea ce duce la o eroziune severă a solului. În sezonul ploios, nivelul râului poate crește masiv, întrerupând rutele de transport din regiune. Gura râului este un loc important pentru pescuitul local. Földrajz K7 – sistemele fluviale și modelarea reliefului.",
+        "en": "The Trois Rivières (Three Rivers) is one of the longest and most significant rivers in northwestern Haiti. Despite its name, it is a single river channel formed by the confluence of several mountain streams. It originates in the Massif du Nord and winds for approximately 150 kilometers through deep valleys and gorges before emptying into the Atlantic Ocean near the city of Port-de-Paix. The river is the lifeblood for agriculture in the Nord-Ouest department, providing essential water for the cultivation of rice, tobacco, and tropical fruits. Ecologically, the river is of great importance, though it suffers from widespread deforestation in its catchment area, leading to severe soil erosion and erratic discharge patterns. During the rainy season, the river's level can rise dramatically, frequently severing transportation links in the region. The river's estuary is a key site for local artisanal fishing. Földrajz K7 – river systems and landscape formation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit ca. 150 km einer der längsten Flüsse Haitis.",
+          "Entspringt in den Bergen des Massif du Nord.",
+          "Fließt durch die Departements Nord und Nord-Ouest.",
+          "Wichtigste Wasserquelle für die Stadt Port-de-Paix.",
+          "Das Flussdelta ist ein reiches Fischfanggebiet.",
+          "Starke Sedimentation färbt den Fluss oft braun."
+        ],
+        "hu": [
+          "Kb. 150 km-ével Haiti egyik leghosszabb folyója.",
+          "A Massif du Nord hegyeiben ered.",
+          "Észak és Északnyugat megyéken folyik keresztül.",
+          "Port-de-Paix városának legfontosabb vízforrása.",
+          "A folyó deltája gazdag halászterület.",
+          "Az erős feltöltődés gyakran barnára festi a folyót."
+        ],
+        "ro": [
+          "Cu cca. 150 km, este unul dintre cele mai lungi râuri din Haiti.",
+          "Izvorăște din munții Masivului de Nord.",
+          "Traversează departamentele Nord și Nord-Ouest.",
+          "Cea mai importantă sursă de apă pentru orașul Port-de-Paix.",
+          "Delta râului este o zonă bogată pentru pescuit.",
+          "Sedimentarea masivă colorează adesea râul în maro."
+        ],
+        "en": [
+          "At approx. 150 km, it's one of Haiti's longest rivers.",
+          "Originates in the rugged mountains of the Massif du Nord.",
+          "Flows through both the Nord and Nord-Ouest departments.",
+          "The primary water source for the city of Port-de-Paix.",
+          "The river delta is a productive fishing ground.",
+          "Heavy siltation often turns the river's water brown."
+        ]
+      }
+    },
+    {
+      "id": "ht-grande-cayemite-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Grande Cayemite ist die größte Insel der Cayemites-Gruppe und liegt im Golf von Gonâve, nördlich der Tiburon-Halbinsel. Die Insel erstreckt sich über eine Fläche von etwa 45 Quadratkilometern und ist durch ein hügeliges, überwiegend aus Kalkstein bestehendes Gelände geprägt. Da es auf der Insel keine dauerhaften Flüsse gibt, ist die Bevölkerung auf gesammeltes Regenwasser und Zisternen angewiesen. Die Vegetation besteht hauptsächlich aus Trockenwäldern und Buschland, das an die ariden Bedingungen angepasst ist. Wirtschaftlich dominiert der Fischfang, ergänzt durch die Ernte von Meeresfrüchten und kleine landwirtschaftliche Flächen. Die umliegenden Gewässer beherbergen gesunde Korallenriffe, die einen hohen ökologischen Wert besitzen. Trotz ihrer natürlichen Schönheit bleibt Grande Cayemite eine der abgelegensten und am wenigsten entwickelten Regionen Haitis, was sie jedoch zu einem einzigartigen Rückzugsort für Naturbeobachtungen macht. Földrajz K7 – szigetek és szárazsági alkalmazkodás.",
+        "hu": "A Grande Cayemite a Cayemites-szigetcsoport legnagyobb tagja, amely a Gonâve-öbölben, a Tiburon-félszigettől északra található. A mintegy 45 négyzetkilométer területű szigetet dombos, túlnyomórészt mészkőből álló terep jellemzi. Mivel a szigeten nincsenek állandó folyók, a lakosság az összegyűjtött esővízre és ciszternákra van utalva. A növényzet főként száraz erdőkből és bozótosokból áll, amelyek alkalmazkodtak a száraz körülményekhez. Gazdaságilag a halászat dominál, amelyet a tenger gyümölcseinek gyűjtése és kis mezőgazdasági területek egészítenek ki. A környező vizek egészséges korallzátonyoknak adnak otthont, amelyek nagy ökológiai értékkel bírnak. Természeti szépsége ellenére Grande Cayemite Haiti egyik legtávolabbi és legkevésbé fejlett régiója marad, ami azonban az élővilág megfigyelésének egyedülálló helyszínévé teszi. Földrajz K7 – szigetek és szárazsági alkalmazkodás.",
+        "ro": "Grande Cayemite este cea mai mare insulă din grupul Cayemites, situată în Golful Gonâve, la nord de peninsula Tiburon. Insula se întinde pe o suprafață de aproximativ 45 de kilometri pătrați și este caracterizată de un relief deluros, format în principal din calcar. Deoarece nu există râuri permanente pe insulă, populația depinde de colectarea apei de ploaie și de cisterne. Vegetația constă în principal din păduri uscate și tufișuri adaptate la condițiile aride. Din punct de vedere economic, predomină pescuitul, completat de colectarea fructelor de mare și mici parcele agricole. Apele din jur adăpostesc recife de corali sănătoase, care au o valoare ecologică ridicată. În ciuda frumuseții sale naturale, Grande Cayemite rămâne una dintre cele mai izolate și mai puțin dezvoltate regiuni din Haiti, ceea ce o face un refugiu unic pentru observarea naturii. Földrajz K7 – insulele și adaptarea la ariditate.",
+        "en": "Grande Cayemite is the largest island in the Les Cayemites archipelago, situated in the Gulf of Gonâve just north of the Tiburon Peninsula. Covering approximately 45 square kilometers, the island is characterized by hilly, predominantly limestone terrain. With no permanent rivers on the island, the residents rely heavily on harvested rainwater and cisterns for their daily needs. The vegetation consists mainly of dry tropical forests and scrubland adapted to the semi-arid conditions. Fishing is the mainstay of the local economy, supplemented by conch harvesting and small-scale subsistence farming. The surrounding waters host some of Haiti's healthiest coral reefs, making it a site of high ecological value. Despite its natural charm, Grande Cayemite remains one of the most remote and least developed areas in the country, offering a unique glimpse into traditional Caribbean island life and untouched nature. Földrajz K7 – islands and arid adaptation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größte Insel des Cayemites-Archipels (ca. 45 km²).",
+          "Höchster Punkt liegt 151 Meter über dem Meeresspiegel.",
+          "Es gibt keine dauerhaften Süßwasserquellen auf der Insel.",
+          "Wichtiges Zentrum für den Fang von Riesenflügelschnecken.",
+          "Gehört verwaltungstechnisch zur Gemeinde Pestel.",
+          "Umgeben von ökologisch wertvollen Seegraswiesen."
+        ],
+        "hu": [
+          "A Cayemites-szigetcsoport legnagyobb szigete (kb. 45 km²).",
+          "Legmagasabb pontja 151 méterrel van a tengerszint felett.",
+          "A szigeten nincsenek állandó édesvízforrások.",
+          "A szárnyascsigák (lambis) gyűjtésének fontos központja.",
+          "Közigazgatásilag Pestel községhez tartozik.",
+          "Ökológiailag értékes tengerifű-mezők veszik körül."
+        ],
+        "ro": [
+          "Cea mai mare insulă din arhipelagul Cayemites (cca. 45 km²).",
+          "Cel mai înalt punct se află la 151 de metri deasupra mării.",
+          "Nu există surse permanente de apă dulce pe insulă.",
+          "Centru important pentru colectarea melcilor marini (lambis).",
+          "Aparține administrativ de comuna Pestel.",
+          "Înconjurată de pajiști de iarbă de mare valoroase ecologic."
+        ],
+        "en": [
+          "Largest island in the Cayemites archipelago (approx. 45 km²).",
+          "The highest point is 151 meters above sea level.",
+          "There are no permanent freshwater springs on the island.",
+          "Major center for queen conch (lambis) harvesting.",
+          "Administratively part of the commune of Pestel.",
+          "Surrounded by ecologically precious seagrass beds."
+        ]
+      }
+    },
+    {
+      "id": "ht-cap-du-mole-saint-nicolas-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kap von Môle Saint-Nicolas ist ein markanter geografischer Punkt an der nordwestlichen Spitze Haitis. Es ragt in die Windward-Passage hinein, die Meerenge, die Hispaniola von Kuba trennt. Das Kap ist von trockener, fast wüstenähnlicher Vegetation und schroffen Kalksteinfelsen geprägt. Historisch ist der Ort von immenser Bedeutung, da Christoph Kolumbus hier am 6. Dezember 1492 zum ersten Mal haitianischen Boden betrat. Die strategische Lage des Kaps machte es über Jahrhunderte zu einem begehrten Stützpunkt für koloniale Mächte, was die Ruinen zahlreicher Festungen in der Umgebung belegen. Ökologisch gesehen ist das Kap aufgrund seiner exponierten Lage starken Winden und Meeresströmungen ausgesetzt. Die Unterwasserwelt rund um das Kap ist reich an mariner Biodiversität, wird jedoch nur selten besucht. Für Reisende bietet das Kap eine raue, ursprüngliche Schönheit und einen tiefen Einblick in die frühe Kolonialgeschichte der Neuen Welt. Földrajz K7 – fokok és tengeri átjárók.",
+        "hu": "A Môle Saint-Nicolas-fok (Cap du Môle Saint-Nicolas) egy jellegzetes földrajzi pont Haiti északnyugati csücskén. Benyúlik a Windward-átjáróba, abba a tengerszorosba, amely elválasztja Hispaniolát Kubától. A fokot száraz, szinte sivatagi növényzet és meredek mészkősziklák jellemzik. Történelmileg a hely óriási jelentőségű, mivel Kolumbusz Kristóf 1492. december 6-án itt lépett először haiti földre. A fok stratégiai elhelyezkedése évszázadokon át a gyarmati hatalmak vágyott bázisává tette, amiről a környéken található számos erőd romja tanúskodik. Ökológiai szempontból a fok kitett helyzete miatt erős szeleknek és tengeri áramlatoknak van kitéve. A fok körüli víz alatti világ gazdag tengeri biodiverzitásban, de csak ritkán látogatott. Az utazók számára a fok nyers, eredeti szépséget és mély betekintést nyújt az Újvilág korai gyarmati történelmébe. Földrajz K7 – fokok és tengeri átjárók.",
+        "ro": "Capul Môle Saint-Nicolas este un punct geografic proeminent situat în extremitatea de nord-vest a Haitiului. Acesta străjuiește Pasajul Windward, strâmtoarea care separă Hispaniola de Cuba. Capul este caracterizat de o vegetație aridă, aproape deșertică, și stânci de calcar abrupte. Din punct de vedere istoric, locul este de o importanță imensă, deoarece Cristofor Columb a debarcat aici pentru prima dată pe pământ haitian la 6 decembrie 1492. Poziția strategică a capului l-a transformat timp de secole într-o bază râvnită de puterile coloniale, fapt atestat de ruinele numeroaselor fortificații din zonă. Din punct de vedere ecologic, capul este expus vânturilor puternice și curenților marini din cauza locației sale deschise. Lumea subacvatică din jurul capului este bogată în biodiversitate marină, dar este rar vizitată. Földrajz K7 – capurile și pasajele maritime.",
+        "en": "Cape Môle Saint-Nicolas (Cap du Môle Saint-Nicolas) is a prominent geographical feature located at the northwestern tip of Haiti. It juts out into the Windward Passage, the strait that separates the island of Hispaniola from Cuba. The cape is characterized by an arid, almost desert-like landscape with scrubby vegetation and jagged limestone cliffs. Historically, this location is of immense significance, as it is where Christopher Columbus first set foot on Haitian soil on December 6, 1492. The cape's strategic location overlooking a key maritime route made it a coveted military site for colonial powers for centuries, evidenced by the ruins of several forts in the vicinity. Ecologically, its exposed position makes it subject to strong winds and powerful sea currents. The marine environment around the cape is rich in biodiversity, though largely unexplored. For visitors, the cape offers a raw, primeval beauty and a profound connection to the early history of the New World. Földrajz K7 – capes and maritime passages."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ort der ersten Landung von Christoph Kolumbus in Haiti.",
+          "Strategischer Punkt an der 80 km breiten Windward-Passage.",
+          "Umgeben von den Ruinen von über 20 kolonialen Festungen.",
+          "Das Klima ist eines der trockensten in ganz Haiti.",
+          "Wichtiger Orientierungspunkt für die internationale Schifffahrt.",
+          "Bekannt für seine tiefen, geschützten Unterwasserhöhlen."
+        ],
+        "hu": [
+          "Kolumbusz Kristóf első haiti partraszállásának helyszíne.",
+          "Stratégiai pont a 80 km széles Windward-átjárónál.",
+          "Több mint 20 gyarmati erőd romja veszi körül.",
+          "Éghajlata az egyik legszárazabb egész Haitin.",
+          "Fontos tájékozódási pont a nemzetközi hajózás számára.",
+          "Mély, védett víz alatti barlangjairól ismert."
+        ],
+        "ro": [
+          "Locul primei debarcări a lui Cristofor Columb în Haiti.",
+          "Punct strategic pe Pasajul Windward, lat de 80 km.",
+          "Înconjurat de ruinele a peste 20 de fortificații coloniale.",
+          "Climatul este unul dintre cele mai aride din tot Haitiul.",
+          "Punct de reper important pentru navigația internațională.",
+          "Cunoscut pentru peșterile sale subacvatice adânci și protejate."
+        ],
+        "en": [
+          "Site of Christopher Columbus's first landing in Haiti in 1492.",
+          "Strategic vantage point on the 80km-wide Windward Passage.",
+          "Surrounded by the ruins of more than 20 colonial-era forts.",
+          "The climate is among the most arid in all of Haiti.",
+          "Crucial landmark for international maritime navigation.",
+          "Noted for its deep and well-protected underwater sea caves."
+        ]
+      }
+    },
+    {
+      "id": "ht-parc-national-des-trois-baies-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Nationalpark Trois Baies (Drei Buchten) an der Nordostküste Haitis ist eines der größten und wichtigsten Meeresschutzgebiete des Landes. Er umfasst die Buchten von Limonade, Caracol und Fort-Liberté sowie ein weitläufiges Gebiet mit Mangrovenwäldern, Korallenriffen und Seegraswiesen. Der Park wurde 2014 gegründet, um die bedrohten Küstenökosysteme und die darin lebende marine Biodiversität zu schützen. Die Mangrovenwälder von Caracol sind die größten verbliebenen in Haiti und dienen als Kinderstube für zahlreiche Fischarten sowie als Schutz vor Küstenerosion. Der Park hat auch eine immense historische Bedeutung, da sich in der Nähe die Ruinen der ersten spanischen Siedlung La Navidad befinden. Die Herausforderung besteht heute darin, den Naturschutz mit der wirtschaftlichen Entwicklung des nahegelegenen Industrieparks Caracol in Einklang zu bringen. Trois Baies ist ein Modellprojekt für nachhaltiges Ressourcenmanagement in der Karibik. Földrajz K8 – tengeri ökoszisztémák és védelem.",
+        "hu": "A Trois Baies (Három öböl) Nemzeti Park Haiti északkeleti partján az ország egyik legnagyobb és legfontosabb tengeri védett területe. Magában foglalja Limonade, Caracol és Fort-Liberté öbleit, valamint kiterjedt mangroveerdőket, korallzátonyokat és tengerifű-mezőket. A parkot 2014-ben alapították a veszélyeztetett part menti ökoszisztémák és a bennük élő tengeri biodiverzitás védelmére. A Caracol-mangroveerdők Haiti legnagyobb megmaradt ilyen típusú erdői, amelyek számos halfaj bölcsőjeként és a partmenti erózió elleni védelemként szolgálnak. A parknak óriási történelmi jelentősége is van, mivel a közelben találhatók az első spanyol település, La Navidad romjai. A mai kihívást a természetvédelem és a közeli Caracol Ipari Park gazdasági fejlesztésének összehangolása jelenti. A Trois Baies a fenntartható erőforrás-kezelés mintaprojektje a Karib-térségben. Földrajz K8 – tengeri ökoszisztémák és védelem.",
+        "ro": "Parcul Național Trois Baies (Trei Golfuri), situat pe coasta de nord-est a Haitiului, este una dintre cele mai mari și mai importante arii marine protejate din țară. Cuprinde golfurile Limonade, Caracol și Fort-Liberté, împreună cu o zonă vastă de mangrove, recife de corali și pajiști de iarbă de mare. Parcul a fost înființat în 2014 pentru a proteja ecosistemele de coastă amenințate și biodiversitatea marină. Pădurile de mangrove din Caracol sunt cele mai mari rămase în Haiti, servind drept pepinieră pentru numeroase specii de pești și protecție împotriva eroziunii costiere. Parcul are și o imensă importanță istorică, deoarece în apropiere se află ruinele primei așezări spaniole, La Navidad. Provocarea actuală constă în armonizarea conservării naturii cu dezvoltarea economică a parcului industrial Caracol din apropiere. Földrajz K8 – ecosistemele marine și protecția lor.",
+        "en": "Trois Baies (Three Bays) National Park, located on Haiti's northeast coast, is one of the country's largest and most significant marine protected areas. It encompasses the bays of Limonade, Caracol, and Fort-Liberté, as well as an extensive network of mangroves, coral reefs, and seagrass beds. Established in 2014, the park aims to safeguard threatened coastal ecosystems and the rich marine biodiversity they support. The mangrove forests of Caracol are the largest remaining in Haiti, serving as a vital nursery for numerous fish species and providing a natural buffer against coastal erosion. The park also holds immense historical value, as the ruins of La Navidad, the first Spanish settlement in the Americas, are located nearby. Today, the park faces the challenge of balancing environmental conservation with the economic activities of the nearby Caracol Industrial Park. Trois Baies stands as a model for sustainable coastal resource management in the Caribbean. Földrajz K8 – marine ecosystems and protection."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Umfasst eine Fläche von über 75.000 Hektar.",
+          "Beinhaltet die größten Mangrovenwälder Haitis.",
+          "Schützt kritische Lebensräume für Meeresschildkröten.",
+          "Historische Stätte der Siedlung La Navidad von 1492.",
+          "Wurde im Jahr 2014 offiziell unter Schutz gestellt.",
+          "Zentrum für nachhaltige Fischerei im Norden Haitis."
+        ],
+        "hu": [
+          "Több mint 75 000 hektár területet foglal magában.",
+          "Itt találhatók Haiti legnagyobb mangroveerdői.",
+          "Kritikus élőhelyeket véd a tengeri teknősök számára.",
+          "Az 1492-es La Navidad település történelmi helyszíne.",
+          "2014-ben helyezték hivatalosan védelem alá.",
+          "Észak-Haiti fenntartható halászatának központja."
+        ],
+        "ro": [
+          "Acoperă o suprafață de peste 75.000 de hectare.",
+          "Include cele mai mari păduri de mangrove din Haiti.",
+          "Protejează habitate critice pentru țestoasele marine.",
+          "Situl istoric al așezării La Navidad din 1492.",
+          "A fost pus oficial sub protecție în anul 2014.",
+          "Centru pentru pescuit durabil în nordul Haitiului."
+        ],
+        "en": [
+          "Covers a protected area of over 75,000 hectares.",
+          "Contains the largest remaining mangroves in Haiti.",
+          "Protects critical nesting habitats for sea turtles.",
+          "Historical site of the 1492 settlement La Navidad.",
+          "Officially designated as a national park in 2014.",
+          "A hub for sustainable artisanal fishing in the north."
+        ]
+      }
+    },
+    {
+      "id": "ht-gros-morne-mountain-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Gros-Morne ist ein markantes Bergmassiv im Departement Artibonite, das sich über der gleichnamigen Stadt erhebt. Der Name bedeutet 'Großer Berg' und spiegelt die dominante Präsenz des Massivs in der regionalen Landschaft wider. Die Hänge des Berges sind für ihre fruchtbaren Böden bekannt, die für den Anbau von Mango, Kaffee und Zitrusfrüchten genutzt werden. Geologisch besteht das Massiv aus einer Mischung aus Kalkstein und vulkanischem Gestein. Der Berg ist ein wichtiges Wassereinzugsgebiet für mehrere Bäche, die in den Artibonite-Fluss münden. Trotz der fortschreitenden Entwaldung beherbergt das Massiv noch immer Taschen ursprünglicher Vegetation und bietet Lebensraum für lokale Vogelarten. Für die Bewohner der Region ist der Berg nicht nur ein wirtschaftlicher Faktor, sondern auch ein Symbol für Stärke und Beständigkeit. Die Wanderwege auf den Gipfel bieten atemberaubende Ausblicke über das gesamte Artibonite-Tal bis hin zum Zentralplateau. Földrajz K7 – hegyek és mezőgazdasági területek.",
+        "hu": "A Gros-Morne egy jellegzetes hegymasszívum Artibonite megyében, amely az azonos nevű város fölé magasodik. A név jelentése „Nagy hegy”, ami tükrözi a masszívum domináns jelenlétét a régió tájképében. A hegy lejtői híresek termékeny talajukról, amelyet mangó, kávé és citrusfélék termesztésére használnak. Geológiailag a masszívum mészkő és vulkáni kőzetek keverékéből áll. A hegy fontos vízgyűjtő terület több patak számára, amelyek az Artibonite folyóba torkollnak. A folyamatos erdőirtás ellenére a masszívum még mindig őriz foltokat az eredeti növényzetből, és élőhelyet biztosít a helyi madárfajoknak. A régió lakói számára a hegy nemcsak gazdasági tényező, hanem az erő és az állandóság szimbóluma is. A csúcsra vezető túraútvonalak lélegzetelállító kilátást nyújtanak az egész Artibonite-völgyre egészen a Központi-fennsíkig. Földrajz K7 – hegyek és mezőgazdasági területek.",
+        "ro": "Gros-Morne este un masiv muntos proeminent din departamentul Artibonite, care se înalță deasupra orașului cu același nume. Numele înseamnă „Muntele Mare” și reflectă prezența dominantă a masivului în peisajul regional. Versanții muntelui sunt cunoscuți pentru solurile lor fertile, folosite pentru cultivarea mangoului, cafelei și citricelor. Din punct de vedere geologic, masivul este format dintr-un amestec de calcar și roci vulcanice. Muntele este un bazin hidrografic important pentru mai multe pârâuri care se varsă în râul Artibonite. În ciuda despăduririlor progresive, masivul încă mai adăpostește petice de vegetație originală și oferă habitat pentru speciile locale de păsări. Pentru locuitorii regiunii, muntele este un simbol al forței și al permanenței. Traseele de drumeție oferă vederi uluitoare peste întreaga vale Artibonite. Földrajz K7 – munții și zonele agricole.",
+        "en": "Gros-Morne is a prominent mountain massif in the Artibonite department, rising high above the town that shares its name. The name translates to 'Big Mountain,' reflecting the massif's dominating presence in the regional landscape. The slopes of the mountain are renowned for their fertile soils, which are heavily utilized for cultivating mangoes, coffee, and citrus fruits. Geologically, the massif is composed of a mix of limestone and volcanic rock formations. The mountain serves as a vital watershed for several streams that eventually feed into the Artibonite River. Despite ongoing deforestation, the massif still harbors patches of original vegetation and provides habitat for various local bird species. For the people of the region, the mountain is not only an economic asset but also a symbol of strength and resilience. Hiking trails to its ridges offer breathtaking views of the entire Artibonite Valley and the Central Plateau beyond. Földrajz K7 – mountains and agricultural lands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hervorragendes Anbaugebiet für die berühmten Francique-Mangos.",
+          "Wichtiger topografischer Orientierungspunkt im Artibonite.",
+          "Quelle für mehrere Nebenflüsse des Artibonite-Flusses.",
+          "Besteht aus einer komplexen geologischen Faltung.",
+          "Bietet Panorama-Ausblicke über das haitianische Hinterland.",
+          "Wanderwege führen durch vielfältige agroforstwirtschaftliche Zonen."
+        ],
+        "hu": [
+          "A híres Francique mangó kiváló termőterülete.",
+          "Fontos topográfiai tájékozódási pont Artibonite megyében.",
+          "Az Artibonite folyó több mellékágának forrása.",
+          "Összetett geológiai gyűrődésből áll.",
+          "Panorámás kilátást nyújt a haiti hátországra.",
+          "A túraútvonalak változatos agrárerdészeti zónákon vezetnek keresztül."
+        ],
+        "ro": [
+          "Zonă excelentă de cultivare pentru faimoasele mango Francique.",
+          "Punct de reper topografic important în Artibonite.",
+          "Izvor pentru mai mulți afluenți ai râului Artibonite.",
+          "Format dintr-o cutare geologică complexă.",
+          "Oferă vederi panoramice asupra interiorului Haitiului.",
+          "Traseele de drumeție traversează diverse zone agroforestiere."
+        ],
+        "en": [
+          "Premier growing region for Haiti's famous Francique mangoes.",
+          "A major topographic landmark in the Artibonite region.",
+          "Source for several tributary streams of the Artibonite River.",
+          "Composed of a complex geological folding structure.",
+          "Offers panoramic views across the rugged Haitian interior.",
+          "Hiking paths traverse through diverse agroforestry zones."
+        ]
+      }
+    },
+    {
+      "id": "ht-baie-de-lacul-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bucht von Caracol (Baie de Caracol) ist ein ökologisch wertvolles Gebiet an der Nordküste Haitis, nahe der Grenze zur Dominikanischen Republik. Sie ist bekannt für ihre ausgedehnten Mangrovenwälder, die zu den am besten erhaltenen des Landes gehören. Die Bucht ist Teil des Nationalparks Trois Baies und dient als wichtiges Ökosystem für zahlreiche marine Arten, darunter seltene Fische und Krustentiere. In jüngster Zeit stand die Bucht im Fokus internationaler Aufmerksamkeit aufgrund des Baus des Industrieparks Caracol in unmittelbarer Nähe, was Fragen zur Balance zwischen wirtschaftlicher Entwicklung und Umweltschutz aufwarf. Historisch gesehen war die Region Caracol ein bedeutendes Gebiet für die Ureinwohner, die Taíno, und war Schauplatz früher europäischer Kontakte. Die Gewässer der Bucht sind ruhig und flach, was sie zu einem idealen Ort für die traditionelle Fischerei macht. Schutzprogramme arbeiten daran, die Mangroven vor Abholzung zu bewahren und den Ökotourismus zu fördern. Földrajz K8 – vizes élőhelyek és ökológia.",
+        "hu": "A Caracol-öböl (Baie de Caracol) egy ökológiailag értékes terület Haiti északi partján, a Dominikai Köztársaság határának közelében. Híres kiterjedt mangroveerdőiről, amelyek az ország legjobban megőrzött ilyen típusú erdői közé tartoznak. Az öböl a Trois Baies Nemzeti Park része, és fontos ökoszisztémaként szolgál számos tengeri faj, köztük ritka halak és rákfélék számára. A közelmúltban az öböl a nemzetközi figyelem középpontjába került a közvetlen közelében felépített Caracol Ipari Park miatt, ami kérdéseket vetett fel a gazdasági fejlődés és a környezetvédelem közötti egyensúlyról. Történelmileg Caracol régiója a bennszülött taínók fontos területe volt, és a korai európai érintkezések egyik helyszíne. Az öböl vizei nyugodtak és sekélyek, ami ideálissá teszi a hagyományos halászathoz. A védelmi programok a mangroveerdők erdőirtás elleni védelmén és az ökoturizmus népszerűsítésén dolgoznak. Földrajz K8 – vizes élőhelyek és ökológia.",
+        "ro": "Golful Caracol (Baie de Caracol) este o zonă de mare valoare ecologică situată pe coasta de nord a Haitiului, aproape de granița cu Republica Dominicană. Este cunoscut pentru pădurile sale extinse de mangrove, care sunt printre cele mai bine conservate din țară. Golful face parte din Parcul Național Trois Baies și servește ca un ecosistem vital pentru numeroase specii marine, inclusiv pești rari și crustacee. Recent, golful a fost în centrul atenției internaționale din cauza construcției Parcului Industrial Caracol în imediata apropiere, ceea ce a ridicat întrebări despre echilibrul dintre dezvoltarea economică și protecția mediului. Din punct de vedere istoric, regiunea Caracol a fost o zonă importantă pentru populația indigenă Taíno. Apele golfului sunt calme și puțin adânci, ideale pentru pescuitul tradițional. Programele de conservare lucrează pentru a proteja mangrovele și pentru a promova ecoturismul. Földrajz K8 – zonele umede și ecologia.",
+        "en": "Caracol Bay (Baie de Caracol) is an ecologically precious area on Haiti's northern coast, near the border with the Dominican Republic. It is renowned for its extensive mangrove forests, which are among the best-preserved in the entire country. As a core part of the Trois Baies National Park, the bay serves as a critical ecosystem for numerous marine species, including rare fish and crustaceans. In recent years, the bay has drawn international attention due to the construction of the Caracol Industrial Park in its immediate vicinity, sparking debates over the balance between economic development and environmental stewardship. Historically, the Caracol region was a significant territory for the indigenous Taíno people and was a site of early European contact. The bay's waters are characteristically calm and shallow, making them ideal for traditional artisanal fishing. Conservation programs are active here to prevent mangrove deforestation and promote sustainable eco-tourism. Földrajz K8 – wetlands and ecology."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt das größte zusammenhängende Mangrovensystem Haitis.",
+          "Teil des 2014 gegründeten Nationalparks Trois Baies.",
+          "Wichtiges Laichgebiet für Langusten und Schnapper.",
+          "In der Nähe liegt der größte Industriepark des Landes.",
+          "Archäologische Fundstätten der Taíno-Kultur in der Nähe.",
+          "Die Bucht bietet Schutz vor Sturmfluten und Hurrikanen."
+        ],
+        "hu": [
+          "Haiti legnagyobb összefüggő mangrove-rendszerének otthona.",
+          "A 2014-ben alapított Trois Baies Nemzeti Park része.",
+          "Fontos ívóhely a homárok és sügérek számára.",
+          "A közelben található az ország legnagyobb ipari parkja.",
+          "A közelben a taíno kultúra régészeti lelőhelyei találhatók.",
+          "Az öböl védelmet nyújt a viharhullámok és hurrikánok ellen."
+        ],
+        "ro": [
+          "Adăpostește cel mai mare sistem de mangrove din Haiti.",
+          "Parte a Parcului Național Trois Baies înființat în 2014.",
+          "Zonă importantă de depunere a icrelor pentru homari.",
+          "În apropiere se află cel mai mare parc industrial din țară.",
+          "Situri arheologice ale culturii Taíno în vecinătate.",
+          "Golful oferă protecție împotriva valurilor de furtună."
+        ],
+        "en": [
+          "Home to the largest contiguous mangrove system in Haiti.",
+          "Part of the Trois Baies National Park established in 2014.",
+          "Crucial spawning ground for spiny lobsters and snappers.",
+          "Located near the largest industrial park in the country.",
+          "Archaeological sites of Taíno culture are found nearby.",
+          "The bay provides a natural buffer against storm surges."
+        ]
+      }
+    },
+    {
+      "id": "ht-foret-de-bouche-seche-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Forêt de Bouche Sèche ist ein seltener und wertvoller Überrest des tropischen Trockenwaldes im Departement Grand'Anse auf der Tiburon-Halbinsel. Dieser Waldtyp ist in der Karibik aufgrund von Landwirtschaft und Siedlungsbau extrem bedroht. Trotz ihres Namens ('Trockener Mund') beherbergt die Region eine erstaunliche Vielfalt an spezialisierten Pflanzen- und Tierarten, die an längere Trockenperioden angepasst sind. Der Wald liegt in den unteren Lagen des Massif de la Hotte und fungiert als wichtiger ökologischer Puffer. Hier finden sich seltene Vögel und Reptilien, die in den feuchteren Nebelwäldern der höheren Lagen nicht vorkommen. Der Schutz der Forêt de Bouche Sèche ist von entscheidender Bedeutung für die Erhaltung der gesamten Biodiversität des Südwestens. Aktuelle Schutzbemühungen konzentrieren sich darauf, die lokale Bevölkerung für die Bedeutung des Waldes als Wasserspeicher und Erosionsschutz zu sensibilisieren. Die Landschaft ist geprägt von dornigem Gebüsch und robusten Baumarten. Földrajz K8 – trópusi száraz erdők.",
+        "hu": "A Bouche Sèche erdő (Forêt de Bouche Sèche) a trópusi száraz erdők ritka és értékes maradványa a Tiburon-félszigeten, Grand'Anse megyében. Ez az erdőtípus a Karib-térségben a mezőgazdaság és a települések terjeszkedése miatt rendkívüli módon veszélyeztetett. Neve („Száraz száj”) ellenére a régió a hosszabb száraz időszakokhoz alkalmazkodott specializált növény- és állatfajok meglepő változatosságának ad otthont. Az erdő a Massif de la Hotte alacsonyabb régióiban található, és fontos ökológiai pufferzónaként működik. Ritka madarak és hüllők találhatók itt, amelyek a magasabb régiók nedvesebb köderdeiben nem fordulnak elő. A Bouche Sèche erdő védelme döntő fontosságú a délnyugati régió teljes biodiverzitásának megőrzése szempontjából. A jelenlegi védelmi törekvések arra összpontosítanak, hogy tudatosítsák a helyi lakosságban az erdő jelentőségét mint víztározót és az erózió elleni védelmet. A tájat tüskés bozótosok és robusztus fafajok jellemzik. Földrajz K8 – trópusi száraz erdők.",
+        "ro": "Pădurea Bouche Sèche este o rămășiță rară și valoroasă de pădure tropicală uscată situată în departamentul Grand'Anse, pe peninsula Tiburon. Acest tip de pădure este extrem de amenințat în Caraibe din cauza agriculturii și a așezărilor umane. În ciuda numelui său („Gură Uscată”), regiunea adăpostește o varietate surprinzătoare de specii de plante și animale specializate, adaptate la perioade lungi de secetă. Pădurea se află la altitudinile inferioare ale masivului La Hotte și funcționează ca un buffer ecologic important. Aici se găsesc păsări și reptile rare care nu apar în pădurile de ceață mai umede de la altitudini mari. Protejarea pădurii Bouche Sèche este crucială pentru conservarea biodiversității totale a sud-vestului. Eforturile actuale se concentrează pe sensibilizarea populației locale cu privire la importanța pădurii pentru reținerea apei și prevenirea eroziunii. Földrajz K8 – pădurile tropicale uscate.",
+        "en": "The Bouche Sèche Forest (Forêt de Bouche Sèche) is a rare and precious remnant of tropical dry forest located in the Grand'Anse department on the Tiburon Peninsula. This forest type is one of the most threatened in the Caribbean due to conversion for agriculture and human settlement. Despite its name, which translates to 'Dry Mouth,' the region supports a surprising diversity of specialized plant and animal species adapted to prolonged dry periods. The forest is situated in the lower elevations of the Massif de la Hotte and acts as a vital ecological buffer zone. It hosts rare birds and reptiles that are not found in the wetter cloud forests at higher altitudes. Protecting the Bouche Sèche Forest is critical for maintaining the overall biodiversity of southwestern Haiti. Current conservation initiatives focus on raising awareness among the local population about the forest's role in water retention and soil erosion prevention. The landscape is characterized by thorny scrub and resilient, drought-hardy tree species. Földrajz K8 – tropical dry forests."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der letzten tropischen Trockenwälder Haitis.",
+          "Teil des ökologischen Netzwerks des Massif de la Hotte.",
+          "Heimat für spezialisierte Leguanarten und Reptilien.",
+          "Wichtiger Schutz gegen die fortschreitende Wüstenbildung.",
+          "Wird oft für die traditionelle Bienenzucht genutzt.",
+          "Leidet unter starkem Druck durch Holzkohleproduktion."
+        ],
+        "hu": [
+          "Haiti egyik utolsó trópusi száraz erdője.",
+          "A Massif de la Hotte ökológiai hálózatának része.",
+          "Speciális leguánfajok és hüllők otthona.",
+          "Fontos védelem a terjedő elsivatagosodás ellen.",
+          "Gyakran használják hagyományos méhészkedésre.",
+          "A faszéntermelés miatti erős nyomás alatt áll."
+        ],
+        "ro": [
+          "Una dintre ultimele păduri tropicale uscate din Haiti.",
+          "Parte a rețelei ecologice a masivului La Hotte.",
+          "Habitat pentru specii specializate de iguane și reptile.",
+          "Protecție importantă împotriva deșertificării progresive.",
+          "Utilizată adesea pentru apicultura tradițională.",
+          "Suferă de presiunea tăierilor pentru producția de cărbune."
+        ],
+        "en": [
+          "One of the last remaining tropical dry forests in Haiti.",
+          "Integral part of the Massif de la Hotte ecological network.",
+          "Home to specialized iguana species and rare reptiles.",
+          "Serves as a vital barrier against advancing desertification.",
+          "Often utilized for traditional beekeeping and honey production.",
+          "Under intense pressure from charcoal production activities."
+        ]
+      }
+    },
+    {
+      "id": "ht-morne-cabaio-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Morne Cabaïo ist ein markanter Berggipfel im Osten Haitis, der zur mächtigen Chaîne de la Selle gehört. Mit seiner beachtlichen Höhe bietet er eine strategische Aussicht über die Ebene von Léogâne und die südliche Küstenregion. Die Hänge des Berges sind durch ein Mosaik aus landwirtschaftlichen Nutzflächen und Überresten des ursprünglichen Bergwaldes geprägt. Die Region um den Morne Cabaïo ist bekannt für ihr kühleres Klima, das den Anbau von Gemüse ermöglicht, das in den heißen Ebenen nicht gedeiht. Geologisch ist der Berg, wie der Rest der Kette, von Kalkstein geprägt, was zu einem komplexen hydrologischen System führt. Der Berg spielt eine wichtige Rolle in der lokalen Folklore und wird oft als spiritueller Ort angesehen. Trotz der Herausforderungen durch Bodenerosion bleibt der Morne Cabaïo ein wichtiges Ziel für Wanderer und Naturliebhaber, die die raue Schönheit des haitianischen Hochlandes entdecken möchten. Földrajz K7 – hegyek és magaslati éghajlat.",
+        "hu": "A Morne Cabaïo egy jellegzetes hegycsúcs Kelet-Haitin, amely a hatalmas Chaîne de la Selle hegységhez tartozik. Jelentős magasságával stratégiai kilátást nyújt a Léogâne-síkságra és a déli partvidékre. A hegy lejtőit mezőgazdasági területek és az eredeti hegyi erdők maradványainak mozaikja jellemzi. A Morne Cabaïo környéke hűvösebb éghajlatáról ismert, ami lehetővé teszi olyan zöldségek termesztését, amelyek a forró síkságokon nem maradnának meg. Geológiailag a hegyet, a lánc többi részéhez hasonlóan, a mészkő jellemzi, ami összetett hidrológiai rendszert eredményez. A hegy fontos szerepet játszik a helyi folklórban, és gyakran spirituális helyként tekintenek rá. A talajerózió okozta kihívások ellenére a Morne Cabaïo továbbra is fontos célpont a túrázók és természetbarátok számára, akik szeretnék felfedezni a haiti felföld nyers szépségét. Földrajz K7 – hegyek és magaslati éghajlat.",
+        "ro": "Morne Cabaïo este un vârf muntos proeminent din estul Haitiului, făcând parte din impunătorul lanț Chaîne de la Selle. Cu înălțimea sa considerabilă, oferă o vedere strategică asupra câmpiei Léogâne și a regiunii de coastă sudice. Versanții muntelui sunt marcați de un mozaic de terenuri agricole și resturi de pădure montană originală. Regiunea din jurul Morne Cabaïo este cunoscută pentru climatul său mai răcoros, care permite cultivarea legumelor ce nu se dezvoltă în câmpiile fierbinți. Din punct de vedere geologic, muntele este format din calcar, ducând la un sistem hidrologic complex. Muntele joacă un rol important în folclorul local, fiind adesea considerat un loc spiritual. În ciuda provocărilor cauzate de eroziunea solului, Morne Cabaïo rămâne o destinație importantă pentru drumeții care doresc să descopere frumusețea aspră a zonelor montane haitiene. Földrajz K7 – munții și climatul de altitudine.",
+        "en": "Morne Cabaïo is a striking mountain peak in eastern Haiti, forming part of the extensive Chaîne de la Selle range. Its significant elevation provides a strategic vantage point overlooking the Léogâne plain and the southern coastal region. The mountain slopes are characterized by a patchwork of agricultural plots and remnants of original mountain forest. The area surrounding Morne Cabaïo is well-known for its cooler climate, which supports the cultivation of cool-weather vegetables that cannot thrive in the hot lowlands. Geologically, like much of the range, the mountain is composed of limestone, resulting in a complex hydrological system of underground channels. Morne Cabaïo holds a place in local folklore and is often regarded as a site of spiritual significance. Despite challenges related to soil erosion, it remains a notable destination for hikers and nature enthusiasts eager to explore the rugged beauty of the Haitian highlands. Földrajz K7 – mountains and highland climate."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Markanter Aussichtspunkt in der Nähe der Stadt Léogâne.",
+          "Gehört zum geologischen System der Chaîne de la Selle.",
+          "Wichtiges Anbaugebiet für Kohl, Karotten und Zwiebeln.",
+          "Quelle für mehrere Gebirgsbäche im Departement Ouest.",
+          "Bietet bei klarem Wetter Sicht bis nach Port-au-Prince.",
+          "Geprägt durch steile Pfade und kühles Bergklima."
+        ],
+        "hu": [
+          "Jellegzetes kilátópont Léogâne városa közelében.",
+          "A Chaîne de la Selle geológiai rendszeréhez tartozik.",
+          "Káposzta, sárgarépa és hagyma fontos termőterülete.",
+          "A nyugati megye több hegyi patakjának forrása.",
+          "Tiszta időben rálátni Port-au-Prince-re.",
+          "Meredek ösvények és hűvös hegyi éghajlat jellemzi."
+        ],
+        "ro": [
+          "Punct de belvedere proeminent lângă orașul Léogâne.",
+          "Face parte din sistemul geologic al Chaîne de la Selle.",
+          "Zonă importantă pentru cultura de varză, morcovi și ceapă.",
+          "Izvor pentru mai multe pârâuri montane din Departamentul Ouest.",
+          "Oferă vizibilitate până la Port-au-Prince în zilele senine.",
+          "Caracterizat prin poteci abrupte și climat montan răcoros."
+        ],
+        "en": [
+          "A prominent vantage point overlooking the city of Léogâne.",
+          "Part of the geological system of the Chaîne de la Selle.",
+          "Important region for growing cabbage, carrots, and onions.",
+          "Source of several mountain streams in the Ouest department.",
+          "Offers views stretching to Port-au-Prince on clear days.",
+          "Defined by steep trails and a bracing mountain climate."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-de-bainet-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière de Bainet ist ein landschaftlich reizvoller Fluss im Südosten Haitis, der in den südlichen Hängen der Chaîne de la Selle entspringt. Er fließt durch ein tief eingeschnittenes Tal und mündet bei der malerischen Stadt Bainet in das Karibische Meer. Der Fluss ist bekannt für seine Klarheit im Oberlauf und die zahlreichen kleinen Kaskaden, die er auf seinem Weg zum Meer bildet. Für die lokale Gemeinschaft ist er die wichtigste Wasserquelle für Haushalte und Landwirtschaft. Entlang der Ufer finden sich oft dichte Bestände an tropischer Vegetation und Palmen. In der Regenzeit verwandelt sich der Bainet in einen mächtigen Strom, der die Verkehrsverbindungen in dieser abgelegenen Region unterbrechen kann. Trotz seiner Schönheit ist der Fluss durch die Entwaldung im Einzugsgebiet gefährdet, was zu zunehmender Sedimentation an der Mündung führt. Die Region Bainet ist auch für ihre Kaffeeproduktion bekannt, die stark von der Wasserführung des Flusses abhängt. Földrajz K7 – folyók és tengerparti környezet.",
+        "hu": "A Bainet folyó (Rivière de Bainet) egy festői vízfolyás Délkelet-Haitin, amely a Chaîne de la Selle déli lejtőin ered. Egy mélyen bevágott völgyön keresztül folyik, és a festői Bainet városánál torkollik a Karib-tengerbe. A folyó felső szakaszán a tisztaságáról és a tenger felé vezető útján alkotott számos kis vízesésről ismert. A helyi közösség számára a háztartások és a mezőgazdaság legfontosabb vízforrása. Partjai mentén gyakran sűrű trópusi növényzet és pálmák találhatók. Az esős évszakban a Bainet hatalmas folyammá válik, amely elvághatja a közlekedési kapcsolatokat ebben a távoli régióban. Szépsége ellenére a folyót veszélyezteti a vízgyűjtő területén végzett erdőirtás, ami fokozott feltöltődéshez vezet a torkolatnál. Bainet régiója kávétermeléséről is ismert, amely erősen függ a folyó vízhozamától. Földrajz K7 – folyók és tengerparti környezet.",
+        "ro": "Rivière de Bainet este un râu pitoresc din sud-estul Haitiului, care izvorăște de pe versanții sudici ai masivului La Selle. Acesta curge printr-o vale adâncă și se varsă în Marea Caraibelor în apropierea orașului Bainet. Râul este cunoscut pentru claritatea apelor sale în cursul superior și pentru numeroasele mici cascade pe care le formează în drumul său spre mare. Pentru comunitatea locală, este principala sursă de apă pentru gospodării și agricultură. De-a lungul malurilor se găsește adesea o vegetație tropicală densă și palmieri. În sezonul ploios, Bainet se transformă într-un curent puternic care poate întrerupe legăturile de transport în această regiune izolată. În ciuda frumuseții sale, râul este amenințat de despădurirea din bazinul său, ducând la o sedimentare crescută la vărsare. Regiunea Bainet este, de asemenea, cunoscută pentru producția de cafea. Földrajz K7 – râurile și mediul de coastă.",
+        "en": "The Bainet River (Rivière de Bainet) is a scenic waterway in southeastern Haiti, originating on the southern slopes of the Chaîne de la Selle. It flows through a deeply incised valley and empties into the Caribbean Sea at the picturesque town of Bainet. The river is noted for the clarity of its water in the upper reaches and the numerous small cascades it creates on its descent to the sea. For the local community, it is the most vital source of water for domestic use and farming. The riverbanks are often lined with lush tropical vegetation and coconut palms. During the rainy season, the Bainet transforms into a powerful torrent that can sever transportation links in this remote part of the country. Despite its natural beauty, the river faces threats from upstream deforestation, leading to increased siltation at its mouth. The Bainet region is also recognized for its coffee production, which relies heavily on the river's steady flow. Földrajz K7 – rivers and coastal environments."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hauptfluss des südöstlichen Bainet-Beckens.",
+          "Mündet direkt in das Karibische Meer.",
+          "Wichtige Wasserquelle für die lokale Kaffeeindustrie.",
+          "Bekannt für seine pittoresken kleinen Wasserfälle.",
+          "Wird oft von lokalen Frauen zum Wäschewaschen genutzt.",
+          "Das Flussbett ist oft durch große Kalksteinfelsen geprägt."
+        ],
+        "hu": [
+          "A délkeleti Bainet-medence fő folyója.",
+          "Közvetlenül a Karib-tengerbe torkollik.",
+          "A helyi kávéipar fontos vízforrása.",
+          "Festői kis vízeséseiről ismert.",
+          "A helyi nők gyakran használják ruhamosásra.",
+          "A folyómedret gyakran nagy mészkősziklák jellemzik."
+        ],
+        "ro": [
+          "Râul principal al bazinului Bainet din sud-est.",
+          "Se varsă direct în Marea Caraibelor.",
+          "Sursă vitală de apă pentru industria locală a cafelei.",
+          "Cunoscut pentru micile sale cascade pitorești.",
+          "Utilizat frecvent de femeile locale pentru spălarea rufelor.",
+          "Albia râului este adesea marcată de bolovani mari de calcar."
+        ],
+        "en": [
+          "The primary river of the southeastern Bainet basin.",
+          "Empties directly into the Caribbean Sea.",
+          "Vital water source for the local coffee industry.",
+          "Noted for its picturesque small waterfalls and rapids.",
+          "Traditionally used by local residents for washing clothes.",
+          "The riverbed is often characterized by large limestone boulders."
+        ]
+      }
+    },
+    {
+      "id": "ht-pointe-de-l-abacou-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Pointe de l'Abacou ist eine markante Landzunge am westlichen Ende der Tiburon-Halbinsel im Südwesten Haitis. Sie bildet den südwestlichsten Punkt des haitianischen Festlandes und ragt weit in das Karibische Meer hinein. Die Küstenlinie ist hier geprägt von schroffen Felsen, Korallenriffen und kleinen, abgelegenen Sandstränden. Aufgrund ihrer exponierten Lage ist die Pointe de l'Abacou oft starken Wellen und Wind ausgesetzt, was ihr eine wilde und unberührte Atmosphäre verleiht. Historisch gesehen war die Landzunge ein wichtiger Navigationspunkt für die Schifffahrt zwischen Haiti und Jamaika. Die Region ist dünn besiedelt, und die Bewohner leben hauptsächlich von der Kleinfischerei. Ökologisch sind die Gewässer um die Pointe reich an mariner Biodiversität, werden jedoch kaum wissenschaftlich untersucht. Für Abenteurer bietet die Pointe de l'Abacou eines der ursprünglichsten Küstenerlebnisse Haitis mit spektakulären Aussichten über das offene Meer. Földrajz K7 – fokok és partvidékek.",
+        "hu": "Az Abacou-fok (Pointe de l'Abacou) egy jellegzetes földnyelv a Tiburon-félsziget nyugati végén, Haiti délnyugati részén. Ez Haiti szárazföldi területének legdélnyugatibb pontja, amely mélyen benyúlik a Karib-tengerbe. A partvonalat itt meredek sziklák, korallzátonyok és kicsi, elszigetelt homokos strandok jellemzik. Kitett helyzete miatt az Abacou-fok gyakran erős hullámzásnak és szélnek van kitéve, ami vad és érintetlen hangulatot kölcsönöz neki. Történelmileg a földnyelv fontos navigációs pont volt a Haiti és Jamaica közötti hajózásban. A régió ritkán lakott, a lakók főként kisüzemi halászatból élnek. Ökológiai szempontból a fok körüli vizek gazdagok tengeri biodiverzitásban, de tudományosan alig kutatottak. A kalandvágyók számára az Abacou-fok Haiti egyik legeredetibb partmenti élményét nyújtja, látványos kilátással a nyílt tengerre. Földrajz K7 – fokok és partvidékek.",
+        "ro": "Pointe de l'Abacou este un promontoriu proeminent situat la extremitatea vestică a peninsulei Tiburon, în sud-vestul Haitiului. Reprezintă cel mai sud-vestic punct al continentului haitian, înaintând mult în Marea Caraibelor. Linia de coastă este marcată aici de stânci abrupte, recife de corali și mici plaje cu nisip izolate. Din cauza locației sale expuse, Pointe de l'Abacou este adesea supusă valurilor și vânturilor puternice, ceea ce îi conferă o atmosferă sălbatică și neatinsă. Din punct de vedere istoric, promontoriul a fost un punct de navigație important pentru traficul maritim între Haiti și Jamaica. Regiunea este slab populată, locuitorii trăind în principal din pescuitul artizanal. Din punct de vedere ecologic, apele din jurul punctului sunt bogate în biodiversitate marină, dar sunt puțin studiate științific. Földrajz K7 – capurile și zonele de coastă.",
+        "en": "Pointe de l'Abacou is a prominent headland located at the western end of the Tiburon Peninsula in southwestern Haiti. It marks the southwesternmost point of mainland Haiti, jutting significantly into the Caribbean Sea. The coastline here is defined by rugged cliffs, vibrant coral reefs, and small, secluded sandy beaches. Due to its exposed position, Pointe de l'Abacou is often battered by strong waves and winds, giving it a wild and pristine atmosphere. Historically, the headland has served as an important navigational landmark for maritime traffic traveling between Haiti and Jamaica. The surrounding region is sparsely populated, with local residents relying primarily on artisanal fishing. Ecologically, the waters around the point are rich in marine biodiversity, though they remain largely unstudied. For adventurous travelers, Pointe de l'Abacou offers one of Haiti's most authentic coastal experiences, featuring spectacular views across the open sea. Földrajz K7 – capes and coastlines."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Südwestlichster Punkt des haitianischen Festlandes.",
+          "Strategischer Orientierungspunkt für die Karibikschifffahrt.",
+          "Geprägt durch starke Meeresströmungen und Wellengang.",
+          "Nahegelegene Korallenriffe sind weitgehend unberührt.",
+          "Beliebter Ort für die Beobachtung von Seevögeln.",
+          "Gehört administrativ zum Departement Sud."
+        ],
+        "hu": [
+          "Haiti szárazföldi részének legdélnyugatibb pontja.",
+          "Stratégiai tájékozódási pont a karibi hajózás számára.",
+          "Erős tengeri áramlatok és hullámzás jellemzi.",
+          "A közeli korallzátonyok nagyrészt érintetlenek.",
+          "Népszerű hely a tengeri madarak megfigyelésére.",
+          "Közigazgatásilag a Déli megyéhez (Sud) tartozik."
+        ],
+        "ro": [
+          "Cel mai sud-vestic punct al continentului haitian.",
+          "Punct de reper strategic pentru navigația în Caraibe.",
+          "Caracterizat prin curenți marini puternici și valuri mari.",
+          "Recifele de corali din apropiere sunt în mare parte virgine.",
+          "Loc popular pentru observarea păsărilor marine.",
+          "Aparține administrativ de departamentul Sud."
+        ],
+        "en": [
+          "The southwesternmost point of mainland Haiti.",
+          "A strategic navigational landmark for Caribbean shipping.",
+          "Defined by powerful sea currents and wave action.",
+          "Nearby coral reefs are largely untouched by development.",
+          "An excellent location for observing pelagic seabirds.",
+          "Administratively part of the Sud (South) department."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-de-la-cosse-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière de la Cosse ist ein berühmter Fluss im Südosten Haitis, der vor allem für das Naturwunder Bassin Bleu bekannt ist. Der Fluss entspringt in den Bergen der Chaîne de la Selle und schlängelt sich durch üppige tropische Vegetation in Richtung der Stadt Jacmel. Auf seinem Weg bildet er eine Reihe spektakulärer Wasserfälle und tiefblauer Becken, die durch die Auflösung von Kalkstein ihre charakteristische türkise Farbe erhalten. Bassin Bleu besteht aus drei Hauptbecken (Bassin Palmiste, Bassin Clair und Bassin Bleu), die ein beliebtes Ziel für Touristen und Einheimische gleichermaßen sind. Der Fluss ist für das lokale Ökosystem von großer Bedeutung und dient als Lebensraum für zahlreiche Süßwasserarten. Trotz seiner Popularität leidet der Fluss unter der Entwaldung im Oberlauf, was die Wasserqualität bei starken Regenfällen beeinträchtigen kann. Die Region um den Fluss ist reich an Kultur und Legenden, die oft mit der geheimnisvollen Schönheit der blauen Becken verbunden sind. Földrajz K7 – folyók és karsztjelenségek.",
+        "hu": "A La Cosse folyó (Rivière de la Cosse) egy híres vízfolyás Délkelet-Haitin, amely leginkább a Bassin Bleu nevű természeti csodáról ismert. A folyó a Chaîne de la Selle hegyeiben ered, és buja trópusi növényzeten keresztül kanyarog Jacmel városa felé. Útja során látványos vízesések és mélykék medencék sorozatát alkotja, amelyek jellegzetes türkiz színüket a mészkő feloldódásának köszönhetik. A Bassin Bleu három fő medencéből áll (Bassin Palmiste, Bassin Clair és Bassin Bleu), amelyek a turisták és a helyiek körében egyaránt népszerűek. A folyó nagy jelentőséggel bír a helyi ökoszisztéma számára, és számos édesvízi faj élőhelyeként szolgál. Népszerűsége ellenére a folyó szenved a felső szakaszon végzett erdőirtástól, ami heves esőzések idején ronthatja a vízminőséget. A folyó környéke gazdag kultúrában és legendákban, amelyek gyakran a kék medencék titokzatos szépségéhez kapcsolódnak. Földrajz K7 – folyók és karsztjelenségek.",
+        "ro": "Rivière de la Cosse este un râu faimos din sud-estul Haitiului, cunoscut în special pentru minunea naturală Bassin Bleu. Râul izvorăște din munții Chaîne de la Selle și șerpuiește prin vegetație tropicală luxuriantă către orașul Jacmel. Pe parcursul său, formează o serie de cascade spectaculoase și bazine albastru profund, care își capătă culoarea turcoaz caracteristică prin dizolvarea calcarului. Bassin Bleu constă din trei bazine principale (Bassin Palmiste, Bassin Clair și Bassin Bleu), fiind o destinație populară atât pentru turiști, cât și pentru localnici. Râul este de mare importanță pentru ecosistemul local și servește drept habitat pentru numeroase specii de apă dulce. În ciuda popularității sale, râul suferă din cauza despăduririi de amonte, care poate afecta calitatea apei în timpul ploilor abundente. Regiunea din jurul râului este bogată în cultură și legende. Földrajz K7 – râurile și fenomenele carstice.",
+        "en": "The Cosse River (Rivière de la Cosse) is a famous waterway in southeastern Haiti, best known for the natural wonder of Bassin Bleu. Originating in the mountains of the Chaîne de la Selle, the river winds through lush tropical vegetation toward the city of Jacmel. Along its path, it creates a series of spectacular waterfalls and deep blue basins that derive their characteristic turquoise color from dissolved limestone. Bassin Bleu consists of three primary basins (Bassin Palmiste, Bassin Clair, and Bassin Bleu), which are popular destinations for both tourists and locals. The river is vital to the local ecosystem and serves as a habitat for numerous freshwater species. Despite its popularity, the river faces threats from upstream deforestation, which can lead to sedimentation and reduced water clarity after heavy rains. The area surrounding the river is steeped in local culture and legends, often centered on the mysterious beauty of the blue pools. Földrajz K7 – rivers and karst phenomena."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Speist das berühmte Bassin-Bleu-System.",
+          "Erhält seine blaue Farbe durch gelöste Kalksteinpartikel.",
+          "Mündet bei der historischen Stadt Jacmel in die Karibik.",
+          "Beinhaltet Wasserfälle mit einer Höhe von bis zu 10 Metern.",
+          "Wichtiges Ziel für den Naturtourismus in Südost-Haiti.",
+          "Umgeben von Kaffeekulturen und tropischen Obstbäumen."
+        ],
+        "hu": [
+          "A híres Bassin Bleu medencerendszert táplálja.",
+          "Kék színét a feloldott mészkőszemcséknek köszönheti.",
+          "A történelmi Jacmel városánál torkollik a Karib-tengerbe.",
+          "Akár 10 méter magas vízeséseket is magában foglal.",
+          "Délkelet-Haiti természetjáró turizmusának fontos célpontja.",
+          "Kávéültetvények és trópusi gyümölcsfák veszik körül."
+        ],
+        "ro": [
+          "Alimentează faimosul sistem de bazine Bassin Bleu.",
+          "Își capătă culoarea albastră de la particulele de calcar dizolvate.",
+          "Se varsă în Caraibe lângă orașul istoric Jacmel.",
+          "Include cascade cu o înălțime de până la 10 metri.",
+          "Destinație importantă pentru ecoturism în sud-estul Haitiului.",
+          "Înconjurat de culturi de cafea și pomi fructiferi tropicali."
+        ],
+        "en": [
+          "Feeds the world-famous Bassin Bleu waterfall system.",
+          "Derives its blue hue from dissolved limestone particles.",
+          "Empties into the Caribbean at the historic city of Jacmel.",
+          "Features waterfalls with drops of up to 10 meters.",
+          "A premier destination for nature tourism in southeast Haiti.",
+          "Surrounded by coffee plantations and tropical fruit trees."
+        ]
+      }
+    },
+    {
+      "id": "ht-morne-a-cabrit-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Morne à Cabrit ist ein markanter Berg nordöstlich von Port-au-Prince, der für seine strategische Lage und die spektakuläre Straßenführung bekannt ist. Die Nationalstraße 3 führt in engen Serpentinen über den Berg und verbindet die Hauptstadt mit dem Zentralplateau. Von den Aussichtspunkten am Morne à Cabrit hat man einen weiten Blick über die Ebene von Cul-de-Sac und den Étang Saumâtre. Der Berg besteht überwiegend aus Kalkstein und weist eine spärliche, trockene Vegetation auf, die durch menschliche Aktivitäten stark beeinträchtigt wurde. Dennoch ist er ein wichtiger topografischer Orientierungspunkt und beherbergt zahlreiche Telekommunikationsmasten. Der Name ('Ziegenberg') weist auf die traditionelle Nutzung der Hänge als Weideland für Ziegen hin. Aufgrund der kargen Böden und der starken Hangneigung ist das Gebiet anfällig für Bodenerosion, insbesondere bei starken Regenfällen. Für Reisende ist die Überquerung des Morne à Cabrit oft der erste Eindruck vom rauen haitianischen Hinterland. Földrajz K7 – domborzat és közlekedésföldrajz.",
+        "hu": "A Morne à Cabrit egy jellegzetes hegy Port-au-Prince-től északkeletre, amely stratégiai elhelyezkedéséről és látványos útvonaláról ismert. A 3-as számú főút szűk szerpentineken halad át a hegyen, összekötve a fővárost a Központi-fennsíkkal. A Morne à Cabrit kilátóiból tágas kilátás nyílik a Cul-de-Sac síkságra és az Étang Saumâtre tóra. A hegy túlnyomórészt mészkőből áll, növényzete ritkás és száraz, amelyet az emberi tevékenység jelentősen átalakított. Ennek ellenére fontos topográfiai tájékozódási pont, és számos telekommunikációs toronynak ad helyet. Neve („Kecske-hegy”) a lejtők kecskepásztorkodásra való hagyományos használatára utal. A kopár talaj és a meredek lejtők miatt a terület fokozottan kitett a talajeróziónak, különösen heves esőzések idején. Az utazók számára a Morne à Cabrit-n való átkelés gyakran az első benyomás a nyers haiti hátországról. Földrajz K7 – domborzat és közlekedésföldrajz.",
+        "ro": "Morne à Cabrit este un munte proeminent la nord-est de Port-au-Prince, cunoscut pentru locația sa strategică și traseul spectaculos al șoselei. Drumul Național 3 traversează muntele în serpentine strânse, legând capitala de Podișul Central. Din punctele de belvedere de pe Morne à Cabrit se deschide o vedere panoramică asupra câmpiei Cul-de-Sac și a lacului Étang Saumâtre. Muntele este format în principal din calcar și are o vegetație rară și uscată, grav afectată de activitățile umane. Cu toate acestea, este un punct de reper topografic important și găzduiește numeroase turnuri de telecomunicații. Numele („Muntele Caprei”) indică utilizarea tradițională a versanților ca pășune pentru capre. Din cauza solurilor sărace și a pantelor abrupte, zona este predispusă la eroziune, în special în timpul ploilor torențiale. Földrajz K7 – relieful și geografia transporturilor.",
+        "en": "Morne à Cabrit is a prominent mountain located northeast of Port-au-Prince, famous for its strategic position and the spectacular engineering of the road that traverses it. National Road 3 climbs the mountain via tight switchbacks, serving as the primary link between the capital and the Central Plateau. From the vantage points atop Morne à Cabrit, travelers are treated to expansive views of the Cul-de-Sac plain and Lake Étang Saumâtre. The mountain is composed mainly of limestone and features sparse, dry vegetation that has been significantly altered by human activity. Despite this, it remains an essential topographic landmark and a key site for telecommunications infrastructure. Its name, which means 'Goat Mountain,' refers to the traditional use of its slopes for grazing goats. Due to the thin soils and steep inclines, the area is highly susceptible to soil erosion, especially during heavy rainfall. Crossing Morne à Cabrit is often a traveler's first introduction to the rugged interior of Haiti. Földrajz K7 – topography and transport geography."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtiger Pass auf dem Weg zum Zentralplateau.",
+          "Höchster Punkt der Nationalstraße 3 in dieser Region.",
+          "Bietet den besten Panoramablick auf den Étang Saumâtre.",
+          "Der Name stammt von der verbreiteten Ziegenzucht.",
+          "Besteht aus stark erodiertem Kalksteinuntergrund.",
+          "Zentrum für haitianische Telekommunikations-Infrastruktur."
+        ],
+        "hu": [
+          "Fontos hágó a Központi-fennsík felé vezető úton.",
+          "A 3-as főút legmagasabb pontja ebben a régióban.",
+          "Innen nyílik a legjobb panoráma az Étang Saumâtre tóra.",
+          "A neve az elterjedt kecsketartásból ered.",
+          "Erősen erodált mészkő alapkőzetből áll.",
+          "A haiti telekommunikációs infrastruktúra központja."
+        ],
+        "ro": [
+          "Pas montan important pe drumul către Podișul Central.",
+          "Cel mai înalt punct al Drumului Național 3 în această regiune.",
+          "Oferă cea mai bună vedere panoramică asupra Étang Saumâtre.",
+          "Numele provine de la creșterea tradițională a caprelor.",
+          "Format din substrat de calcar puternic erodat.",
+          "Centru pentru infrastructura de telecomunicații din Haiti."
+        ],
+        "en": [
+          "A vital mountain pass on the route to the Central Plateau.",
+          "The highest point of National Road 3 in this sector.",
+          "Offers the best panoramic views of Lake Étang Saumâtre.",
+          "Named for the common local practice of goat herding.",
+          "Composed of heavily eroded limestone bedrock.",
+          "A primary hub for Haiti's telecommunications infrastructure."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-du-limbe-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière du Limbé ist ein bedeutender Fluss im Norden Haitis, der im Massif du Nord entspringt und bei Bas-Limbé in den Atlantik mündet. Er durchfließt die fruchtbare Limbé-Ebene, die für den Anbau von hochwertigem Kaffee, Kakao und Bananen bekannt ist. Der Fluss ist die primäre Wasserquelle für die Stadt Limbé und die umliegenden landwirtschaftlichen Gemeinschaften. Ökologisch gesehen ist der Flusslauf von tropischer Ufervegetation gesäumt, die jedoch durch die Ausweitung der Siedlungsflächen unter Druck steht. In der Regenzeit neigt der Limbé zu massiven Überschwemmungen, die regelmäßig Ernten zerstören und die Infrastruktur beschädigen. Historisch war die Region ein Zentrum der Plantagenwirtschaft während der Kolonialzeit. Heute arbeiten lokale Organisationen an Projekten zur Aufforstung der Uferzonen, um die Erosion zu verringern und die Wasserqualität zu verbessern. Die Mündung des Flusses ist ein wichtiges Gebiet für den lokalen Fischfang und beherbergt Mangrovenfragmente. Földrajz K7 – folyók és mezőgazdasági tájak.",
+        "hu": "A Limbé folyó (Rivière du Limbé) jelentős vízfolyás Észak-Haitin, amely a Massif du Nord hegységben ered, és Bas-Limbé-nél torkollik az Atlanti-óceánba. A termékeny Limbé-síkságon folyik keresztül, amely kiváló minőségű kávé, kakaó és banán termesztéséről híres. A folyó Limbé városának és a környező mezőgazdasági közösségeknek az elsődleges vízforrása. Ökológiai szempontból a folyómedret trópusi parti növényzet szegélyezi, amely azonban a települések terjeszkedése miatt nyomás alatt áll. Az esős évszakban a Limbé masszív áradásokra hajlamos, amelyek rendszeresen elpusztítják a termést és károsítják az infrastruktúrát. Történelmileg a régió a gyarmati időkben az ültetvényes gazdálkodás központja volt. Ma a helyi szervezetek a part menti zónák erdősítésén dolgoznak az erózió csökkentése és a vízminőség javítása érdekében. A folyó torkolata a helyi halászat fontos területe, és mangrove-maradványoknak ad otthont. Földrajz K7 – folyók és mezőgazdasági tájak.",
+        "ro": "Rivière du Limbé este un râu important din nordul Haitiului, care izvorăște din Masivul de Nord și se varsă în Oceanul Atlantic la Bas-Limbé. Acesta traversează fertila câmpie Limbé, renumită pentru cultivarea cafelei, cacao și bananelor de înaltă calitate. Râul este sursa primară de apă pentru orașul Limbé și comunitățile agricole din jur. Din punct de vedere ecologic, cursul râului este mărginit de vegetație tropicală de mal, care este însă amenințată de expansiunea așezărilor umane. În sezonul ploios, Limbé este predispus la inundații masive care distrug periodic culturile și afectează infrastructura. Din punct de vedere istoric, regiunea a fost un centru al economiei de plantație în perioada colonială. Astăzi, organizațiile locale lucrează la proiecte de reîmpădurire pentru a reduce eroziunea. Gura râului este o zonă importantă pentru pescuitul local. Földrajz K7 – râurile și peisajele agricole.",
+        "en": "The Limbé River (Rivière du Limbé) is a major waterway in northern Haiti, originating in the Massif du Nord and emptying into the Atlantic Ocean at Bas-Limbé. It flows through the fertile Limbé Plain, a region famous for producing high-quality coffee, cocoa, and bananas. The river serves as the primary water source for the town of Limbé and the surrounding agricultural communities. Ecologically, the riverbanks are lined with tropical vegetation, though these habitats are increasingly pressured by human settlement and farming. During the rainy season, the Limbé is prone to massive flooding, which frequently destroys crops and damages local infrastructure. Historically, this region was a hub of plantation agriculture during the colonial era. Today, local organizations are engaged in reforestation projects along its banks to combat soil erosion and improve water quality. The river's estuary is an important site for local fishing and contains significant mangrove fragments. Földrajz K7 – rivers and agricultural landscapes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der wichtigsten Flüsse im Nord-Departement.",
+          "Entspringt in den Ausläufern des Massif du Nord.",
+          "Wichtig für die Bewässerung von Kakaoplantagen.",
+          "Mündet in den Atlantik nahe dem Dorf Bas-Limbé.",
+          "Regelmäßige Überschwemmungen in der Region von Limbé.",
+          "Das Flussbecken ist eine Zone mit hoher landwirtschaftlicher Produktivität."
+        ],
+        "hu": [
+          "Az egyik legfontosabb folyó az Északi megyében.",
+          "A Massif du Nord nyúlványai között ered.",
+          "Fontos a kakaóültetvények öntözése szempontjából.",
+          "Bas-Limbé falu közelében torkollik az Atlanti-óceánba.",
+          "Rendszeresek az áradások Limbé régiójában.",
+          "A folyó vízgyűjtője nagy mezőgazdasági termelékenységű zóna."
+        ],
+        "ro": [
+          "Unul dintre cele mai importante râuri din departamentul Nord.",
+          "Izvorăște de la poalele Masivului de Nord.",
+          "Crucial pentru irigarea plantațiilor de cacao.",
+          "Se varsă în Atlantic lângă satul Bas-Limbé.",
+          "Inundații periodice frecvente în regiunea Limbé.",
+          "Bazinul râului este o zonă cu productivitate agricolă ridicată."
+        ],
+        "en": [
+          "One of the most important rivers in the Nord department.",
+          "Originates in the foothills of the Massif du Nord.",
+          "Essential for the irrigation of local cocoa plantations.",
+          "Empties into the Atlantic Ocean near Bas-Limbé village.",
+          "The river is subject to frequent seasonal flooding.",
+          "The basin is a zone of high agricultural productivity."
+        ]
+      }
+    },
+    {
+      "id": "ht-riviere-cavaillon-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rivière de Cavaillon ist ein landschaftlich spektakulärer Fluss im Süden Haitis, der vor allem für den beeindruckenden Wasserfall Saut-Mathurine bekannt ist. Der Fluss entspringt im Massif de la Hotte und fließt durch tiefe Kalksteinschluchten, bevor er bei der Stadt Cavaillon in das Karibische Meer mündet. Der Saut-Mathurine ist mit einer Breite von etwa 30 Metern und einer Fallhöhe von rund 27 Metern der größte Wasserfall des Landes und ein wichtiges touristisches Ziel. Das klare Wasser des Flusses wird für die Stromerzeugung in einem kleinen Wasserkraftwerk genutzt und versorgt zudem die Landwirtschaft in der Ebene von Les Cayes. Ökologisch gesehen bietet das Flusssystem Lebensraum für zahlreiche endemische Fisch- und Krustentierarten. Die Region um den Fluss ist durch üppige Vegetation und steile Felswände geprägt, was sie zu einem der schönsten Naturgebiete Haitis macht. In der Regenzeit kann der Fluss jedoch reißend werden und stellt eine Herausforderung für die lokale Infrastruktur dar. Földrajz K7 – folyók és vízesések.",
+        "hu": "A Cavaillon folyó (Rivière de Cavaillon) egy tájilag lenyűgöző vízfolyás Dél-Haitin, amely leginkább a lenyűgöző Saut-Mathurine vízesésről ismert. A folyó a Massif de la Hotte hegységben ered, és mély mészkőszurdokokon keresztül folyik, mielőtt Cavaillon városánál a Karib-tengerbe torkollna. A Saut-Mathurine körülbelül 30 méter széles és 27 méter magas, ezzel az ország legnagyobb vízesése és fontos turisztikai célpont. A folyó tiszta vizét egy kis vízerőműben áramtermelésre használják, emellett öntözi a Les Cayes-síkság mezőgazdasági területeit. Ökológiai szempontból a folyórendszer számos endemikus hal- és rákfajnak ad élőhelyet. A folyó környékét buja növényzet és meredek sziklafalak jellemzik, ami Haiti egyik legszebb természeti területévé teszi. Az esős évszakban azonban a folyó sodrása felerősödhet, ami kihívást jelent a helyi infrastruktúra számára. Földrajz K7 – folyók és vízesések.",
+        "ro": "Rivière de Cavaillon este un râu spectaculos din sudul Haitiului, renumit în special pentru cascada impresionantă Saut-Mathurine. Râul izvorăște din masivul La Hotte și curge prin defilee adânci de calcar înainte de a se vărsa în Marea Caraibelor lângă orașul Cavaillon. Saut-Mathurine este cea mai mare cascadă din țară, cu o lățime de aproximativ 30 de metri și o înălțime de circa 27 de metri, fiind o destinație turistică majoră. Apa limpede a râului este utilizată pentru producerea de energie electrică într-o hidrocentrală mică și alimentează agricultura din câmpia Les Cayes. Din punct de vedere ecologic, sistemul fluvial oferă habitat pentru numeroase specii endemice de pești și crustacee. Regiunea râului este marcată de vegetație luxuriantă și pereți stâncoși abrupți, fiind una dintre cele mai frumoase zone naturale din Haiti. Földrajz K7 – râurile și cascadele.",
+        "en": "The Cavaillon River (Rivière de Cavaillon) is a geographically spectacular waterway in southern Haiti, most famous for the impressive Saut-Mathurine waterfall. Originating in the Massif de la Hotte, the river carves through deep limestone gorges before emptying into the Caribbean Sea near the town of Cavaillon. Saut-Mathurine, with a width of approximately 30 meters and a drop of about 27 meters, is the largest waterfall in Haiti and a major natural attraction. The river's clear waters are harnessed for hydroelectric power at a small plant and are crucial for irrigating the agricultural lands of the Les Cayes plain. Ecologically, the river system provides a habitat for various endemic fish and crustacean species. The surrounding area is characterized by lush tropical vegetation and towering limestone cliffs, making it one of Haiti's most beautiful natural regions. During the rainy season, however, the river can become a raging torrent, posing challenges to local infrastructure and farming. Földrajz K7 – rivers and waterfalls."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt den Saut-Mathurine, Haitis größten Wasserfall.",
+          "Entspringt in den hohen Lagen des Massif de la Hotte.",
+          "Wird für die Gewinnung von Wasserkraft genutzt.",
+          "Wichtige Wasserquelle für die Region Les Cayes.",
+          "Bekannt für seine tiefen Kalksteinschluchten.",
+          "Mündet bei der historischen Stadt Cavaillon ins Meer."
+        ],
+        "hu": [
+          "Itt található a Saut-Mathurine, Haiti legnagyobb vízesése.",
+          "A Massif de la Hotte magas régióiban ered.",
+          "Vízenergia termelésére hasznosítják.",
+          "Fontos vízforrás Les Cayes régiója számára.",
+          "Mély mészkőszurdokairól ismert.",
+          "A történelmi Cavaillon városánál torkollik a tengerbe."
+        ],
+        "ro": [
+          "Găzduiește Saut-Mathurine, cea mai mare cascadă din Haiti.",
+          "Izvorăște din zonele înalte ale masivului La Hotte.",
+          "Utilizat pentru generarea de energie hidroelectrică.",
+          "Sursă vitală de apă pentru regiunea Les Cayes.",
+          "Cunoscut pentru defileele sale adânci de calcar.",
+          "Se varsă în mare lângă orașul istoric Cavaillon."
+        ],
+        "en": [
+          "Home to Saut-Mathurine, the largest waterfall in Haiti.",
+          "Originates in the high elevations of Massif de la Hotte.",
+          "Harnessed for local hydroelectric power generation.",
+          "Crucial water source for the Les Cayes agricultural region.",
+          "Famous for its dramatic and deep limestone gorges.",
+          "Empties into the sea near the historic town of Cavaillon."
+        ]
+      }
+    }
+  ]
+}

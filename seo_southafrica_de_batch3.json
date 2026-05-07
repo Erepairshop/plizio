@@ -1,0 +1,337 @@
+{
+  "lang": "de",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-tzaneen-cities-v2",
+      "descriptionAdvanced": "Tzaneen, gelegen am Fuße der Drakensberge in der Provinz Limpopo, ist die Gartenstadt des Nordens. Dank ihres subtropischen Klimas und der hohen Niederschläge ist die Region das Zentrum der südafrikanischen Produktion von Avocados, Mangos, Bananen und Litschis. Die Stadt ist umgeben von spektakulären Berglandschaften, Teeplantagen und dichten Wäldern. Für Touristen dient Tzaneen als idealer Ausgangspunkt für den Besuch des Magoebaskloof-Passes und des nördlichen Kruger-Nationalparks. Wirtschaftlich ist die Stadt ein vitaler Knotenpunkt für den Agrarhandel und die Forstwirtschaft. Geografie K7 — Subtropische Landwirtschaft und Bergregionen.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt in der Provinz Limpopo.",
+        "Größter Produzent von Avocados und Mangos im Land.",
+        "Beherbergt einige der größten Teeplantagen Südafrikas.",
+        "Liegt im fruchtbaren Letaba-Tal am Fuße der Wolkberge.",
+        "Bekannt für den Tzaneen Dam, ein beliebtes Angelrevier.",
+        "Umgeben von riesigen Pinien- und Eukalyptus-Forsten.",
+        "Tor zum spektakulären Magoebaskloof-Pass.",
+        "Das Klima ist feucht-subtropisch mit milden Wintern."
+      ]
+    },
+    {
+      "id": "southafrica-mokopane-cities-v2",
+      "descriptionAdvanced": "Mokopane, ehemals Potgietersrus, ist ein bedeutendes Bergbau- und Agrarzentrum im Herzen der Provinz Limpopo. Die Stadt liegt in einem der reichsten mineralischen Gebiete der Welt, insbesondere für Platingruppenmetalle (PGM). In unmittelbarer Nähe befindet sich die Makapansgat-Höhle, eine der weltweit wichtigsten paläontologischen Fundstätten, die Teil des UNESCO-Welterbes 'Wiege der Menschheit' ist. Wirtschaftlich dominieren neben dem Bergbau der Anbau von Tabak, Mais und Zitrusfrüchten sowie die Viehzucht. Mokopane bewahrt ein historisches Erbe aus der Zeit der Voortrekker und der Ndebele-Kultur. Geschichte K8 — Paläontologie und Bergbauökonomie.",
+      "factsAdvanced": [
+        "Offizielle Umbenennung in Mokopane im Jahr 2003.",
+        "Standort der massiven Mogalakwena-Platinmine.",
+        "Liegt nahe der Makapansgat Valley (UNESCO-Welterbe).",
+        "Wichtiger Versorgungsort an der Nationalstraße N1.",
+        "Zentrum für die Produktion von Tabak und Sonnenblumenkernen.",
+        "Gegründet 1852 durch Voortrekker-Siedler.",
+        "Beherbergt das Arend Dieperink Museum zur Regionalgeschichte.",
+        "Umgeben von bizarren Granitformationen."
+      ]
+    },
+    {
+      "id": "southafrica-thohoyandou-cities-v2",
+      "descriptionAdvanced": "Thohoyandou ist das pulsierende kulturelle Zentrum des Venda-Volkes im Nordosten der Provinz Limpopo. Der Name bedeutet in der Sprache Tshivenda 'Haupt des Elefanten', was die Stärke und Bedeutung der Stadt unterstreicht. Als ehemalige Hauptstadt des Homelands Venda verfügt die Stadt über eine moderne Infrastruktur, ein großes Stadion und eine Universität. Thohoyandou liegt in einer üppigen, subtropischen Landschaft, die für ihre Fruchtbarkeit und die Produktion von Macadamia-Nüssen und Bananen bekannt ist. Die Stadt ist tief verwurzelt in den Traditionen der Venda, was sich in Kunst, Architektur und dem lokalen Kunsthandwerk widerspiegelt. Geschichte K8 — Venda-Tradition und Homeland-Geschichte.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt des Homelands Venda (1979-1994).",
+        "Heimat der University of Venda (UNIVEN).",
+        "Bedeutendes Zentrum der Tshivenda-Sprache und Kultur.",
+        "Liegt in einer der fruchtbarsten Regionen des Landes.",
+        "Wichtigster Standort für die südafrikanische Macadamia-Produktion.",
+        "Tor zum nördlichen Teil des Kruger-Nationalparks (Punda Maria).",
+        "Bekannt für den Thohoyandou Botanical Garden.",
+        "Subtropisches Klima mit sehr heißen Sommern."
+      ]
+    },
+    {
+      "id": "southafrica-phalaborwa-cities-v2",
+      "descriptionAdvanced": "Phalaborwa, auch bekannt als die 'Stadt der zwei Sommer', ist das einzige Tor zum Kruger-Nationalpark, das direkt in eine Industriestadt integriert ist. Die Stadt verdankt ihre Existenz den gewaltigen Kupfer- und Phosphatvorkommen im Phalaborwa-Komplex. Das 'Phalaborwa Hole' ist einer der weltweit größten Kupfer-Tagebaue und eine beeindruckende technische Landmarke. Trotz der massiven Industrie ist Phalaborwa ein Zentrum für den Tourismus; die Grenze zum Nationalpark liegt nur wenige hundert Meter vom Stadtzentrum entfernt. Die Stadt ist zudem für ihre ganzjährig warmen Temperaturen und die reiche Tierwelt in der unmittelbaren Umgebung berühmt. Geografie K7 — Industrieller Bergbau und Naturschutzsymbiose.",
+      "factsAdvanced": [
+        "Beherbergt das 'Phalaborwa Hole', einen der größten von Menschen geschaffenen Krater Afrikas.",
+        "Wichtigstes Zentrum für den Kupferabbau und die Phosphatgewinnung (Foskor).",
+        "Einziges direktes Tor zum Kruger-Nationalpark in einer Stadt.",
+        "Gegründet 1957 nach Entdeckung der Mineralvorkommen.",
+        "Liegt am Olifants River in der Provinz Limpopo.",
+        "Besitzt einen der weltweit einzigen Golfplätze mit freilaufenden Wildtieren (Hans Merensky).",
+        "Das Klima ist subtropisch (ganzjährig warm).",
+        "Zentrum für die Verarbeitung von Marula-Früchten (Amarula)."
+      ]
+    },
+    {
+      "id": "port-of-durban-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Durban, offiziell Port of Durban, ist das wirtschaftliche Rückgrat Südafrikas und der größte Containerhafen des afrikanischen Kontinents. Er liegt strategisch an den Handelswegen zwischen Asien, Europa und Amerika. Der Hafen bewältigt über 60 Prozent des gesamten Containeraufkommens des Landes und ist für den Import von Erdöl und den Export von Fahrzeugen und Agrarprodukten unverzichtbar. Durch seine Lage in einer natürlichen Bucht bietet er Schutz für Hunderte von Schiffen. Massive Investitionen in die Modernisierung der Terminals sichern seine globale Wettbewerbsfähigkeit. Geografie K7 — Maritime Logistik und Welthandel.",
+      "factsAdvanced": [
+        "Verkehrsreichster Containerhafen in der südlichen Hemisphäre.",
+        "Besitzt über 50 Liegeplätze für Ozeanriesen.",
+        "Hafeneinfahrt wurde für moderne Megaschiffe auf 220 m verbreitert.",
+        "Umschlagplatz für über 2,5 Millionen Container (TEU) pro Jahr.",
+        "Zentraler Punkt des Güterverkehrskorridors nach Johannesburg.",
+        "Verfügt über ein spezialisiertes Autoterminal für den Export.",
+        "Strategischer Standort für die südafrikanische Marine.",
+        "Existiert seit der Gründung von Port Natal im Jahr 1824."
+      ]
+    },
+    {
+      "id": "port-of-richards-bay-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Richards Bay ist der weltweit führende Exportknotenpunkt für Steinkohle und das industrielle Schwergewicht von KwaZulu-Natal. Er wurde 1976 speziell für den Export massiver Mengen an Schüttgut konzipiert und gebaut. Das Richards Bay Coal Terminal (RBCT) ist eines der größten Kohle-Terminals weltweit und verfügt über eine hocheffiziente Logistik, die Kohle aus dem Mpumalanga-Hochland direkt auf Schiffe verlädt. Neben Kohle werden hier große Mengen an Aluminium, Chrom und Phosphat umgeschlagen. Der Hafen ist tief genug, um die größten Massengutfrachter (Capesize) aufzunehmen. Geografie K7 — Rohstoffexporte und Hafeninfrastruktur.",
+      "factsAdvanced": [
+        "Größter Schüttguthafen Südafrikas nach Tonnage.",
+        "Besitzt das Richards Bay Coal Terminal mit 9 Liegeplätzen.",
+        "Kann Schiffe mit einer Tragfähigkeit von bis zu 250.000 Tonnen aufnehmen.",
+        "Umschlagkapazität von über 90 Millionen Tonnen Kohle pro Jahr.",
+        "Wichtigster Standort für den Export von Aluminiumbarren.",
+        "Verfügt über modernste Förderbandanlagen für den Direktumschlag.",
+        "Hafentiefe beträgt bis zu 22 Meter.",
+        "Speziell für den Güterverkehr konzipierte Bahnanbindung aus dem Hinterland."
+      ]
+    },
+    {
+      "id": "port-of-cape-town-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Kapstadt ist ein vitaler maritimer Knotenpunkt an der Südspitze Afrikas, bekannt für seine strategische Lage am Kreuzungspunkt zweier Ozeane. Er ist der wichtigste Exporthafen für die hochwertigen Agrarprodukte des Westkaps, insbesondere Wein, Obst und Zitrusfrüchte. Neben der Containerlogistik ist der Hafen ein weltweit führendes Zentrum für Schiffsreparaturen und den Service für Öl- und Gasplattformen im Südatlantik. Die V&A Waterfront, ein Teil des Hafengebiets, ist zudem das meistbesuchte Touristenziel des Landes. Die Modernisierung des Terminals ermöglicht den effizienten Umschlag von Kühlcontainern. Geografie K7 — Agrarexport und maritime Dienstleistungen.",
+      "factsAdvanced": [
+        "Zweitgrößter Containerhafen Südafrikas.",
+        "Weltweit bedeutendster Hafen für den Export von südafrikanischem Wein.",
+        "Zentrum für den Bau und die Wartung von Luxusyachten.",
+        "Strategische Basis für die Versorgung antarktischer Forschungsstationen.",
+        "Besitzt das historische Sturrock-Trockendock (eines der größten im Süden).",
+        "Umschlagplatz für die südafrikanische Hochseefischerei.",
+        "Moderner Terminal für Kreuzfahrtschiffe mit Tafelberg-Blick.",
+        "Historischer Kern ist das Alfred Basin aus dem Jahr 1860."
+      ]
+    },
+    {
+      "id": "port-of-gqeberha-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Gqeberha (ehemals Port Elizabeth) ist das logistische Herz der südafrikanischen Automobilindustrie. Er liegt direkt im Stadtzentrum an der Algoa-Bucht und ist spezialisiert auf den Import von Fahrzeugteilen und den Export von fertig montierten Automobilen weltweit. Zudem verfügt der Hafen über bedeutende Kapazitäten für den Umschlag von Manganerz und landwirtschaftlichen Gütern aus dem Hinterland. Die Effizienz des Hafens ist entscheidend für die Wettbewerbsfähigkeit der lokalen Werke von VW, Ford und Isuzu. In Kombination mit dem nahen Tiefseehafen Ngqura bildet er ein gewaltiges maritimes Cluster. Geografie K7 — Automobillogistik und Industriestandorte.",
+      "factsAdvanced": [
+        "Zentraler Exporthafen für die Automobilhersteller im Ostkap.",
+        "Besitzt spezialisierte Terminals für den Umschlag von Mangan.",
+        "Wichtiger Standort für die Lagerung und den Export von Wolle.",
+        "Hafenbecken ist durch eine 1,2 km lange Mole geschützt.",
+        "Umschlagplatz für landwirtschaftliche Produkte des Sundays River Valley.",
+        "Verfügt über moderne Ro-Ro (Roll-on/Roll-off) Liegeplätze.",
+        "Integrierter Bestandteil der Nelson Mandela Bay Logistikzone.",
+        "Gegründet 1933 in seiner heutigen Form."
+      ]
+    },
+    {
+      "id": "port-of-saldanha-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Saldanha ist der größte und tiefste natürliche Hafen Südafrikas und das nationale Zentrum für den Eisenerzexport. Er wurde in den 1970er Jahren speziell ausgebaut, um die gewaltigen Erzvorkommen aus der Sishen-Mine im Nordkap auf den Weltmarkt zu bringen. Eine 861 km lange Schwerlast-Eisenbahnlinie endet direkt an den Verladestationen des Hafens. Die gewaltigen Verladebrücken können Schiffe in Rekordzeit beladen. Neben dem Erzexport entwickelt sich Saldanha zu einem wichtigen Zentrum für die Wartung von Offshore-Ölplattformen und die lokale Fischverarbeitung. Geografie K7 — Rohstofflogistik und Tiefseehäfen.",
+      "factsAdvanced": [
+        "Größter Eisenerz-Exporthafen Afrikas.",
+        "Hafentiefe erlaubt Schiffen mit bis zu 21,5 Metern Tiefgang das Anlegen.",
+        "Endpunkt der längsten Erzzüge der Welt (bis zu 4 km Länge).",
+        "Besitzt eine spezialisierte Erdöl-Lagerstätte in riesigen Betontanks.",
+        "Wichtiger Standort für die südafrikanische Stahlindustrie.",
+        "Bietet den sichersten Ankerplatz an der südafrikanischen Westküste.",
+        "Fokus auf Schiffsreparaturen für den Öl- und Gassektor.",
+        "Liegt inmitten eines sensiblen Ökosystems (Langebaan Lagune)."
+      ]
+    },
+    {
+      "id": "port-of-east-london-economic-v2",
+      "descriptionAdvanced": "Der Hafen von East London ist der einzige Flusshafen Südafrikas und liegt an der Mündung des Buffalo River. Trotz seiner begrenzten Größe spielt er eine entscheidende Rolle für die Wirtschaft des Ostkaps, insbesondere als Hauptumschlagplatz für das Mercedes-Benz Montagewerk. Der Hafen ist spezialisiert auf den Export von Luxuslimousinen und den Import von Komponenten für die Industrie. Zudem verfügt er über Südafrikas größtes Getreidesilo an der Küste, was ihn zum wichtigsten Tor für Agrarexporte der Region macht. Die anspruchsvolle Einfahrt erfordert hohes navigatorisches Geschick der Lotsen. Geografie K7 — Flusshäfen und regionale Industriestruktur.",
+      "factsAdvanced": [
+        "Einziger Flusshafen des Landes an der Mündung des Buffalo River.",
+        "Hauptexporthafen für im Land produzierte Mercedes-Benz Fahrzeuge.",
+        "Besitzt das größte Getreidesilo-Terminal an der südafrikanischen Küste.",
+        "Verfügt über ein bedeutendes Trockendock für Schiffsreparaturen.",
+        "Wichtiger Standort für den Umschlag von Vieh und Agrarprodukten.",
+        "Umschlagkapazität wurde durch neue Autoterminals massiv erweitert.",
+        "Hafeneinfahrt wird durch permanente Baggerarbeiten freigehalten.",
+        "Historisch gewachsenes Industriegebiet im Hafenbereich."
+      ]
+    },
+    {
+      "id": "port-of-ngqura-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ngqura, gelegen in der Coega-Sonderwirtschaftszone bei Gqeberha, ist Südafrikas modernster Tiefsee-Containerhafen. Er wurde als Transshipment-Hub konzipiert, um den internationalen Containerverkehr zwischen Ost und West effizient zu bündeln. Mit seinen tiefen Liegeplätzen kann Ngqura die modernsten und größten Containerschiffe der Welt aufnehmen. Der Hafen ist eng mit dem industriellen Hinterland verknüpft und dient als Katalysator für neue Industrien in der Region, von der Metallverarbeitung bis hin zur grünen Energie. Ngqura entlastet die älteren Stadthäfen und bietet Raum für zukünftiges Wachstum. Geografie K7 — Hochmoderne Logistikzentren und Sonderwirtschaftszonen.",
+      "factsAdvanced": [
+        "Tiefster Containerhafen in Subsahara-Afrika.",
+        "Teil der 11.500 Hektar großen Coega Special Economic Zone (SEZ).",
+        "Inbetriebnahme des ersten Terminals im Jahr 2009.",
+        "Speziell für den Umschlag von Mangan und Containern gebaut.",
+        "Verfügt über hochautomatisierte Krananlagen für schnellen Umschlag.",
+        "Strategischer Standort für zukünftige Wasserstoff-Exportprojekte.",
+        "Liegt an der Algoa-Bucht, ca. 20 km nordöstlich von Gqeberha.",
+        "Umweltfreundliches Hafendesign zum Schutz mariner Ökosysteme."
+      ]
+    },
+    {
+      "id": "mponeng-gold-mine-economic-v2",
+      "descriptionAdvanced": "Die Mponeng-Goldmine westlich von Johannesburg ist eine technische Meisterleistung und gilt als das tiefste von Menschen geschaffene Bauwerk der Erde. In einer Tiefe von fast 4.000 Metern unter der Oberfläche bauen Bergleute unter extremen Bedingungen Gold ab. Die Temperaturen des Gesteins erreichen dort über 60 Grad Celsius, was gewaltige Kühlsysteme erforderlich macht. Mponeng nutzt modernste Bohr- und Sprengtechniken, um die schmalen Goldadern im Witwatersrand-Becken zu erschließen. Die Mine ist ein Symbol für die technologische Führung Südafrikas im Tiefbau und die anhaltende Bedeutung des Edelmetalls für die Landeswährung. Geografie K7 — Rohstoffabbau in extremen Tiefen.",
+      "factsAdvanced": [
+        "Tiefste Mine der Welt (ca. 4.000 Meter unter der Erdoberfläche).",
+        "Die Fahrt mit dem Aufzug zur Sohle dauert über eine Stunde.",
+        "Eisgekühlte Luft muss permanent in die Tiefe gepumpt werden.",
+        "Besitzt einen der weltweit schnellsten und stärksten Förderkörbe.",
+        "Gesteinstemperaturen am Abbauort liegen bei ca. 66 °C.",
+        "Produziert jährlich mehrere Tonnen reines Gold.",
+        "Gehört zum Witwatersrand-Goldfeld (West Wits Line).",
+        "Betrieben von Harmony Gold (ehemals AngloGold Ashanti)."
+      ]
+    },
+    {
+      "id": "south-deep-gold-mine-economic-v2",
+      "descriptionAdvanced": "South Deep ist eine der weltweit größten und modernsten Goldminen und repräsentiert die Zukunft des südafrikanischen Bergbaus. Im Gegensatz zu vielen älteren Minen ist South Deep hochgradig mechanisiert und nutzt ferngesteuerte Maschinen, um Golderz in großer Tiefe effizient abzubauen. Die Mine verfügt über riesige Reserven, die den Betrieb für mehrere Jahrzehnte sichern. In der Nähe von Westonaria gelegen, setzt South Deep neue Standards für Arbeitssicherheit und Produktivität. Die Investitionen in die Digitalisierung und die Automatisierung machen diese Mine zu einem Vorreiter für den Bergbau 4.0 auf dem afrikanischen Kontinent. Geografie K7 — Modernisierung des Bergbaus und Automatisierung.",
+      "factsAdvanced": [
+        "Drittgrößte Goldlagerstätte der Welt.",
+        "Hochgradig mechanisierter Bergbau mit autonomen Fahrzeugen.",
+        "Erreicht Tiefen von bis zu 3.000 Metern.",
+        "Verfügt über Reserven für voraussichtlich über 70 Jahre Betrieb.",
+        "Besitzt eine der größten Aufbereitungsanlagen für Golderz.",
+        "Wichtiger Arbeitgeber im Distrikt West Rand.",
+        "Investiert massiv in erneuerbare Energien zur Eigenversorgung.",
+        "Betrieben von Gold Fields Limited."
+      ]
+    },
+    {
+      "id": "cullinan-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Die Cullinan-Diamantenmine (ehemals Premier Mine) bei Pretoria ist weltberühmt für den Fund des größten Rohdiamanten aller Zeiten, des Cullinan-Diamanten. Die Mine ist bekannt für die Produktion von außergewöhnlich großen und qualitativ hochwertigen Steinen, insbesondere der seltenen blauen Diamanten. Im Gegensatz zu den Alluvial-Funden wird hier in einem gewaltigen vertikalen Schlot, einem Kimberlit-Rohr, abgebaut. Cullinan ist eine der wenigen Minen weltweit, die kontinuierlich Diamanten von globaler Bedeutung liefert. Die Mine verbindet historische Bedeutung mit modernster Bergbautechnik im Untertagebau. Geschichte K8 — Diamantenrausch und die Kronjuwelen.",
+      "factsAdvanced": [
+        "Fundort des 3.106 Karat schweren Cullinan-Diamanten (1905).",
+        "Weltweit bedeutendste Quelle für seltene blaue Diamanten.",
+        "Abbau erfolgt in einem massiven Kimberlit-Schlot.",
+        "Teile des Cullinan-Diamanten befinden sich in den britischen Kronjuwelen.",
+        "Gegründet 1902 durch Sir Thomas Cullinan.",
+        "Modernster Untertagebau mit massiven Investitionen in neue Sohlen.",
+        "Besitzt ein bedeutendes Besucherzentrum für Touristen.",
+        "Liegt ca. 40 km östlich von Pretoria."
+      ]
+    },
+    {
+      "id": "venetia-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Die Venetia-Mine in der Provinz Limpopo ist Südafrikas größte Diamantenmine und ein Musterbeispiel für modernen Bergbau in einer ökologisch sensiblen Region. Sie liegt am Rande des Limpopo-Flusses nahe der Grenze zu Simbabwe. Venetia produziert rund 40 Prozent der gesamten südafrikanischen Diamanten. Derzeit durchläuft die Mine eine gigantische Transformation vom Tagebau zum Untertagebau, um die Lebensdauer des Standorts um Jahrzehnte zu verlängern. Die Mine arbeitet eng mit Naturschutzorganisationen zusammen, da sie an das UNESCO-Welterbe Mapungubwe angrenzt. Venetia ist ein technologischer Vorreiter bei der Wassereinsparung in ariden Gebieten. Geografie K7 — Diamantenabbau und Umweltmanagement.",
+      "factsAdvanced": [
+        "Größte Diamantenmine Südafrikas nach Fördermenge.",
+        "Produziert jährlich mehrere Millionen Karat Rohdiamanten.",
+        "Investition von ca. 2 Milliarden US-Dollar in den neuen Untertagebau.",
+        "Gegründet 1992 durch die De Beers Group.",
+        "Liegt in der Nähe des Mapungubwe-Nationalparks.",
+        "Nutzt modernste Technologien zur Erzsortierung mittels Röntgenstrahlen.",
+        "Wichtiger Standort für hochqualifizierte technische Arbeitsplätze.",
+        "Vorbildliches Wassermanagement-System zur Minimierung des Verbrauchs."
+      ]
+    },
+    {
+      "id": "finsch-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Die Finsch-Diamantenmine im Nordkap ist eine der produktivsten Diamantenminen des Landes und bekannt für ihre stabilen Erträge. Sie wurde 1961 entdeckt und zunächst als Tagebau betrieben, bevor sie vollständig auf Untertagebau umgestellt wurde. Die Mine nutzt das Block-Caving-Verfahren, eine hocheffiziente Bergbautechnik, um große Mengen an Kimberlit-Gestein zu fördern. Finsch ist ein bedeutender Wirtschaftsfaktor für die Provinz Nordkap und ein wichtiger Lieferant für den internationalen Diamantenmarkt. Die Mine setzt auf eine starke Einbindung der lokalen Gemeinschaft und modernste Sicherheitstechnologien für ihre Mitarbeiter. Geografie K7 — Kimberlit-Abbau und Untertagetechnik.",
+      "factsAdvanced": [
+        "Entdeckt 1861 auf der Farm Finsch.",
+        "Zweitgrößte Diamantenoperation der Petra Diamonds Group.",
+        "Besitzt einen der tiefsten Schächte im Nordkap (über 700 m).",
+        "Nutzt das hocheffiziente 'Block Caving' Verfahren.",
+        "Wichtiger Standort für die Ausbildung von Bergbauspezialisten.",
+        "Produziert qualitativ hochwertige Diamanten für den Schmuckmarkt.",
+        "Liegt ca. 160 km westlich von Kimberley.",
+        "Trägt maßgeblich zur regionalen Infrastrukturentwicklung bei."
+      ]
+    },
+    {
+      "id": "sishen-iron-ore-mine-economic-v2",
+      "descriptionAdvanced": "Die Sishen-Mine bei Kathu im Nordkap ist einer der größten Eisenerztagebaue der Welt und ein Symbol für die industrielle Macht Südafrikas. Die gewaltigen Ausmaße der Grube sind selbst aus dem Weltraum sichtbar. Hier wird hochwertiges Eisenerz gewonnen, das per Eisenbahn zum Hafen von Saldanha transportiert und von dort weltweit exportiert wird. Die Mine nutzt die größten Muldenkipper der Welt, um Millionen Tonnen Gestein zu bewegen. Sishen ist das Rückgrat der globalen Eisenexporte des Landes und ein technologisches Zentrum für die Erzaufbereitung. Die Stadt Kathu wurde speziell zur Beherbergung der Minenarbeiter in dieser abgelegenen Region errichtet. Geografie K7 — Eisenerzexport und Großtagebautechnik.",
+      "factsAdvanced": [
+        "Einer der größten Eisenerz-Tagebaue weltweit.",
+        "Produziert hochwertiges Hämatit-Erz mit über 60% Eisengehalt.",
+        "Die Grube ist über 14 Kilometer lang.",
+        "Nutzt LKWs mit einer Tragfähigkeit von bis zu 360 Tonnen.",
+        "Haupteinnahmequelle der Kumba Iron Ore (Anglo American).",
+        "Wichtigster Nutzer der 861 km langen Sishen-Saldanha-Bahnlinie.",
+        "Beschäftigt Tausende von Menschen in der Provinz Nordkap.",
+        "Gegründet in den frühen 1950er Jahren."
+      ]
+    },
+    {
+      "id": "palabora-copper-mine-economic-v2",
+      "descriptionAdvanced": "Die Palabora-Kupfermine in Limpopo ist ein einzigartiges Industriedenkmal, bekannt für das 'Palabora Hole', einen der weltweit größten von Menschen geschaffenen Krater. Nachdem der Tagebau eine Tiefe von über 800 Metern erreicht hatte, wurde die Mine auf einen hochmodernen Untertagebau umgestellt. Hier wird neben Kupfer auch Vermiculit und Magnetit gewonnen. Die Mine grenzt direkt an den Kruger-Nationalpark, was höchste Anforderungen an das Umweltmanagement stellt. Palabora ist der einzige nennenswerte Produzent von raffiniertem Kupfer in Südafrika und versorgt die heimische Industrie mit diesem strategisch wichtigen Metall. Geografie K7 — Kupferproduktion und Bergbau in Parknähe.",
+      "factsAdvanced": [
+        "Standort des größten künstlichen Lochs in Südafrika (ca. 2 km Durchmesser).",
+        "Einziger Produzent von raffiniertem Kupfer im Land.",
+        "Führender globaler Produzent von Vermiculit.",
+        "Nutzt modernstes 'Block Caving' unterhalb des alten Tagebaus.",
+        "Besitzt eine eigene Schmelzhütte und Raffinerie vor Ort.",
+        "Existiert seit den 1960er Jahren.",
+        "Grenzt unmittelbar an den Kruger-Nationalpark.",
+        "Wichtigster Arbeitgeber in der Region Phalaborwa."
+      ]
+    },
+    {
+      "id": "grootegeluk-coal-mine-economic-v2",
+      "descriptionAdvanced": "Die Grootegeluk-Kohlemine bei Lephalale in der Provinz Limpopo ist der größte Steinkohletagebau Südafrikas und ein Gigant der Energieversorgung. Die Mine verfügt über die weltweit größte Kohleaufbereitungsanlage an einem Standort. Grootegeluk versorgt die massiven Wärmekraftwerke Matimba und Medupi direkt über Förderbandsysteme mit Brennstoff. Die hier abgebaute Kohle zeichnet sich durch ihre Vielfalt aus, von Kraftwerkskohle bis hin zu hochwertiger Kokskohle für die Stahlindustrie. Die Mine ist ein technologisches Vorbild für den großflächigen Tagebau und sichert die Stromstabilität des gesamten Landes. Geografie K7 — Kohlebergbau und Energiesicherheit.",
+      "factsAdvanced": [
+        "Größte Kohlemine des Landes nach Fördermenge.",
+        "Besitzt die weltweit größte Kohle-Waschanlage an einem Ort.",
+        "Hauptexporteur von metallurgischer Kohle aus dem Waterberg-Becken.",
+        "Direkte Bandanbindung an das Medupi-Kraftwerk.",
+        "Betrieben von Exxaro Resources.",
+        "Produziert über 25 Millionen Tonnen Kohle pro Jahr.",
+        "Wichtiger Pfeiler der südafrikanischen Industriestrategie.",
+        "Liegt im geologisch reichen Waterberg-Kohlefeld."
+      ]
+    },
+    {
+      "id": "kusile-power-station-economic-v2",
+      "descriptionAdvanced": "Das Kusile-Kraftwerk in Mpumalanga ist eines der größten und modernsten Kohlekraftwerke der Welt. Es wurde entworfen, um die wachsende Energienachfrage Südafrikas zu decken und gleichzeitig strengere Umweltstandards zu erfüllen. Kusile ist das erste Kraftwerk im Land, das mit einer Rauchgasentschwefelungsanlage (REA) ausgestattet ist, um den Ausstoß von Schwefeldioxid massiv zu reduzieren. Das Kraftwerk besteht aus sechs gewaltigen Blöcken, die nach ihrer vollständigen Fertigstellung fast 4.800 Megawatt Strom liefern. Die Dimensionen der Anlage und die Komplexität der Steuerungstechnik machen Kusile zu einem Megaprojekt der globalen Energiewirtschaft. Geografie K7 — Großkraftwerke und Emissionstechnologie.",
+      "factsAdvanced": [
+        "Eines der größten Kohlekraftwerke der südlichen Hemisphäre.",
+        "Installierte Leistung von ca. 4.800 Megawatt.",
+        "Erstes südafrikanisches Kraftwerk mit hocheffizienter Entschwefelung.",
+        "Trockenkühlungstechnologie spart Millionen Liter Wasser ein.",
+        "Wichtiger Baustein zur Behebung der Stromknappheit (Load Shedding).",
+        "Kosten für den Bau belaufen sich auf mehrere Milliarden Euro.",
+        "Standort liegt nahe Witbank (Emalahleni).",
+        "Beherbergt einige der höchsten Kühltürme der Welt."
+      ]
+    },
+    {
+      "id": "medupi-power-station-economic-v2",
+      "descriptionAdvanced": "Das Medupi-Kraftwerk bei Lephalale ist ein Gigant der Stromerzeugung und das größte trockengekühlte Kraftwerk der Welt. In der wasserarmen Region Limpopo ist diese Technologie entscheidend, um die Energieversorgung ohne übermäßigen Wasserverbrauch zu sichern. Medupi besteht aus sechs Einheiten und liefert nach seiner Fertigstellung eine gewaltige Leistung für das südafrikanische Stromnetz. Das Kraftwerk wird direkt von der benachbarten Grootegeluk-Mine mit Kohle versorgt, was Transportwege minimiert. Medupi ist ein Symbol für die industrielle Infrastrukturentwicklung im Norden des Landes und ein technologisches Vorzeigeprojekt für aride Gebiete. Geografie K7 — Energiegewinnung in Trockengebieten.",
+      "factsAdvanced": [
+        "Größtes trockengekühltes Kohlekraftwerk weltweit.",
+        "Viertgrößtes Kohlekraftwerk der Erde nach installierter Leistung.",
+        "Kapazität von ca. 4.764 Megawatt.",
+        "Verwendet 'Supercritical' Technologie für höhere Effizienz.",
+        "Wichtigster Energiepfosten für die Bergbaugebiete in Limpopo.",
+        "Besitzt Schornsteine mit einer Höhe von über 200 Metern.",
+        "Das Wort 'Medupi' bedeutet in Setswana 'sanfter Regen'.",
+        "Erbaut von Eskom zur Sicherung der nationalen Grundlast."
+      ]
+    },
+    {
+      "id": "kendal-power-station-economic-v2",
+      "descriptionAdvanced": "Die Kendal Power Station in Mpumalanga ist eines der etablierten Kraftwerke Südafrikas und hielt lange Zeit den Rekord als weltweit größtes trockengekühltes Kraftwerk. Die Anlage ist ein wichtiger Bestandteil des Eskom-Kraftwerksparks und versorgt die Industriezentren von Gauteng mit Energie. In einer Region mit begrenzten Wasserressourcen ist die indirekte Trockenkühlung von Kendal eine ökologische Notwendigkeit. Das Kraftwerk wird durch Kohle aus nahegelegenen Minen befeuert und ist für seine beeindruckende Architektur und die gewaltigen Dimensionen seiner Kühltürme bekannt. Kendal spielt eine zentrale Rolle bei der Aufrechterhaltung der Netzstabilität im wirtschaftlichen Herzen des Landes. Geografie K7 — Infrastruktur und industrielle Stromversorgung.",
+      "factsAdvanced": [
+        "Ehemaliger Weltrekordhalter als größtes trockengekühltes Kraftwerk.",
+        "Installierte Leistung von ca. 4.116 Megawatt.",
+        "Inbetriebnahme der ersten Einheit im Jahr 1988.",
+        "Besitzt sechs identische Erzeugungsblöcke.",
+        "Indirektes Trockenkühlsystem minimiert den Wasserbedarf massiv.",
+        "Wichtiger Abnehmer für Kohle aus dem Mpumalanga-Becken.",
+        "Liegt verkehrsgünstig nahe der Autobahn N12.",
+        "Versorgt vor allem die Schwerindustrie und den Bergbau."
+      ]
+    },
+    {
+      "id": "sasol-secunda-economic-v2",
+      "descriptionAdvanced": "Sasol Secunda ist die weltweit größte Anlage zur Herstellung von synthetischen flüssigen Kraftstoffen und Chemikalien aus Kohle. Dieser Industriekomplex in Mpumalanga ist eine Stadt für sich und repräsentiert die Spitze der südafrikanischen Ingenieurskunst. Mittels des Fischer-Tropsch-Verfahrens wird hier Kohle in Benzin, Diesel und eine Vielzahl petrochemischer Vorprodukte umgewandelt. Die Anlage sichert einen bedeutenden Teil der nationalen Kraftstoffversorgung und ist ein globaler Technologieführer in der Kohleveredelung. Die Dimensionen der Schornsteine und Reaktoren sind gigantisch und prägen das Bild der Region weithin sichtbar. Geografie K7 — Synthetische Kraftstoffe und Kohleveredelung.",
+      "factsAdvanced": [
+        "Weltweit größte kommerzielle Kohle-zu-Flüssigkraftstoff-Anlage.",
+        "Nutzt das fortschrittliche Fischer-Tropsch-Verfahren.",
+        "Produziert täglich rund 150.000 Barrel synthetischen Kraftstoff.",
+        "Umfasst die Sasol Synfuels und Sasol Chemicals Divisionen.",
+        "Verfügt über eigene Kohleminen zur direkten Versorgung.",
+        "Wichtigster Pfeiler für Südafrikas relative Energieunabhängigkeit.",
+        "Beschäftigt Zehntausende Menschen in der Region Secunda.",
+        "Investiert zunehmend in die Forschung für grünen Wasserstoff."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "tripoli-cities-v2",
+    "name": "Tripoli",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "benghazi-cities-v2",
+    "name": "Benghazi",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "misrata-cities-v2",
+    "name": "Misrata",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "bayda-cities-v2",
+    "name": "Al Bayda",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "zawiya-cities-v2",
+    "name": "Zawiya",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "zliten-cities-v2",
+    "name": "Zliten",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "sirte-cities-v2",
+    "name": "Sirte",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "tobruk-cities-v2",
+    "name": "Tobruk",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "ajdabiya-cities-v2",
+    "name": "Ajdabiya",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "derna-cities-v2",
+    "name": "Derna",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "sabha-cities-v2",
+    "name": "Sabha",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "khoms-cities-v2",
+    "name": "Khoms",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "bani-walid-cities-v2",
+    "name": "Bani Walid",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "kufra-cities-v2",
+    "name": "Al Jawf (Kufra)",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "marj-cities-v2",
+    "name": "Marj",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "tarhuna-cities-v2",
+    "name": "Tarhuna",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "zuwara-cities-v2",
+    "name": "Zuwara",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "gharyan-cities-v2",
+    "name": "Gharyan",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "sabratha-cities-v2",
+    "name": "Sabratha",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "al-jamil-cities-v2",
+    "name": "Al Jamil",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "surman-cities-v2",
+    "name": "Surman",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "yefren-cities-v2",
+    "name": "Yefren",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "nalut-cities-v2",
+    "name": "Nalut",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "murzuq-cities-v2",
+    "name": "Murzuq",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "awbari-cities-v2",
+    "name": "Awbari (Ubari)",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "ghat-cities-v2",
+    "name": "Ghat",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "ghadames-cities-v2",
+    "name": "Ghadames",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "hun-cities-v2",
+    "name": "Hun",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "waddan-cities-v2",
+    "name": "Waddan",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "brak-cities-v2",
+    "name": "Brak",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "al-qatrun-cities-v2",
+    "name": "Al Qatrun",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "zintan-cities-v2",
+    "name": "Zintan",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "mizda-cities-v2",
+    "name": "Mizda",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "shahhat-cities-v2",
+    "name": "Shahhat",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "susa-cities-v2",
+    "name": "Susa",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "jalu-cities-v2",
+    "name": "Jalu",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "awjila-cities-v2",
+    "name": "Awjila",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "zella-cities-v2",
+    "name": "Zella",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "sokna-cities-v2",
+    "name": "Sokna",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "tiji-cities-v2",
+    "name": "Tiji",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "wazin-cities-v2",
+    "name": "Wazin",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "al-abyar-cities-v2",
+    "name": "Al Abyar",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "suluq-cities-v2",
+    "name": "Suluq",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "qaminis-cities-v2",
+    "name": "Qaminis",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "tukrah-cities-v2",
+    "name": "Tukrah",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "benina-cities-v2",
+    "name": "Benina",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "jardas-al-ahrar-cities-v2",
+    "name": "Jardas al Ahrar",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "masa-cities-v2",
+    "name": "Masa",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "martuba-cities-v2",
+    "name": "Martuba",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "umm-al-rizam-cities-v2",
+    "name": "Umm al Rizam",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "kambut-cities-v2",
+    "name": "Kambut",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "jaghbub-cities-v2",
+    "name": "Jaghbub",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "qasr-bin-ghashir-cities-v2",
+    "name": "Qasr bin Ghashir",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "tajoura-cities-v2",
+    "name": "Tajoura",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "msallata-cities-v2",
+    "name": "Msallata",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "al-ajaylat-cities-v2",
+    "name": "Al Ajaylat",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "al-qubbah-cities-v2",
+    "name": "Al Qubbah",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "badr-cities-v2",
+    "name": "Badr",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "al-magrun-cities-v2",
+    "name": "Al Magrun",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "qandulah-cities-v2",
+    "name": "Qandulah",
+    "file": "lib/visualLab/data/poiExtraLibyaCitiesV2.ts"
+  },
+  {
+    "id": "port-of-tripoli-economic-v2",
+    "name": "Port of Tripoli",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-benghazi-economic-v2",
+    "name": "Port of Benghazi",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "misrata-port-economic-v2",
+    "name": "Misrata Free Zone and Port",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "al-khums-port-economic-v2",
+    "name": "Al Khums Port",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "tobruk-port-economic-v2",
+    "name": "Port of Tobruk",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "derna-port-economic-v2",
+    "name": "Port of Derna",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "ras-lanuf-port-economic-v2",
+    "name": "Ras Lanuf Oil Port",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "marsa-el-brega-port-economic-v2",
+    "name": "Marsa el Brega Port",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "zueitina-oil-terminal-economic-v2",
+    "name": "Zueitina Oil Terminal",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "zawiya-port-economic-v2",
+    "name": "Zawiya Port",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "mellitah-port-economic-v2",
+    "name": "Mellitah Oil and Gas Port",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "es-sider-terminal-economic-v2",
+    "name": "Es Sider Oil Terminal",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "sharara-oil-field-economic-v2",
+    "name": "Sharara Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "el-feel-oil-field-economic-v2",
+    "name": "El Feel Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "waha-oil-field-economic-v2",
+    "name": "Waha Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "zelten-oil-field-economic-v2",
+    "name": "Zelten Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "sarir-oil-field-economic-v2",
+    "name": "Sarir Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "bouri-offshore-field-economic-v2",
+    "name": "Bouri Offshore Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "al-jurf-offshore-field-economic-v2",
+    "name": "Al Jurf Offshore Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "mabruk-oil-field-economic-v2",
+    "name": "Mabruk Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "amal-oil-field-economic-v2",
+    "name": "Amal Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "nafoora-oil-field-economic-v2",
+    "name": "Nafoora Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "messla-oil-field-economic-v2",
+    "name": "Messla Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "abu-attifel-oil-field-economic-v2",
+    "name": "Abu Attifel Oil Field",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "zawiya-refinery-economic-v2",
+    "name": "Zawiya Oil Refinery",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "ras-lanuf-refinery-economic-v2",
+    "name": "Ras Lanuf Refinery",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "lisco-misrata-steel-economic-v2",
+    "name": "Libyan Iron and Steel Company (LISCO)",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "zliten-cement-plant-economic-v2",
+    "name": "Zliten Cement Plant",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "mellitah-gas-plant-economic-v2",
+    "name": "Mellitah Gas Plant",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "khoms-power-plant-economic-v2",
+    "name": "Khoms Power Plant",
+    "file": "lib/visualLab/data/poiExtraLibyaEconomicV2.ts"
+  },
+  {
+    "id": "ly-leptis-magna-history-v2",
+    "name": "Leptis Magna",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-sabratha-history-v2",
+    "name": "Sabratha",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-cyrene-history-v2",
+    "name": "Cyrene",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-apollonia-history-v2",
+    "name": "Apollonia",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-ptolemais-history-v2",
+    "name": "Ptolemais",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-tocra-history-v2",
+    "name": "Taucheira (Tocra)",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-ghadames-old-town-history-v2",
+    "name": "Ghadames Old Town",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-marcus-aurelius-arch-history-v2",
+    "name": "Arch of Marcus Aurelius",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-red-castle-history-v2",
+    "name": "Red Castle (Assaraya al-Hamra)",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-tadrart-acacus-history-v2",
+    "name": "Tadrart Acacus",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-germa-history-v2",
+    "name": "Germa (Garama)",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-slonta-history-v2",
+    "name": "Sanctuary of Slonta",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-villa-silin-history-v2",
+    "name": "Villa Silin",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-qasr-libya-history-v2",
+    "name": "Qasr Libya",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-tripoli-medina-history-v2",
+    "name": "Medina of Tripoli",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-gharyan-troglodyte-history-v2",
+    "name": "Gharyan Troglodyte Caves",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-zawiya-jaghbub-history-v2",
+    "name": "Zawiya of Al Jaghbub",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-fort-capuzzo-history-v2",
+    "name": "Fort Capuzzo",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-tobruk-war-cemetery-history-v2",
+    "name": "Tobruk War Cemetery",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-malta-castle-history-v2",
+    "name": "Knights of Malta Castle",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-murzuq-fort-history-v2",
+    "name": "Murzuq Old Fort",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-awjila-mosque-history-v2",
+    "name": "Awjila Old Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-gurgi-mosque-history-v2",
+    "name": "Gurgi Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-karamanli-mosque-history-v2",
+    "name": "Karamanli Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-al-naga-mosque-history-v2",
+    "name": "Al-Naga Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-bir-hakeim-history-v2",
+    "name": "Bir Hakeim Battlefield",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-hospitaller-fort-benghazi-history-v2",
+    "name": "Hospitaller Fort (Benghazi)",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-benghazi-cathedral-history-v2",
+    "name": "Benghazi Cathedral",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-jalu-old-fort-history-v2",
+    "name": "Jalu Old Fort",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "ly-qasr-al-haj-history-v2",
+    "name": "Qasr Al-Haj",
+    "file": "lib/visualLab/data/poiExtraLibyaHistoryV2.ts"
+  },
+  {
+    "id": "tripoli-tower-landmarks-v2",
+    "name": "Tripoli Tower",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "corinthia-hotel-tripoli-landmarks-v2",
+    "name": "Corinthia Hotel Tripoli",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "dat-el-imad-landmarks-v2",
+    "name": "Dat El Imad Towers",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+    "name": "Gamal Abdel Nasser Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "martyrs-square-tripoli-landmarks-v2",
+    "name": "Martyrs' Square",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "tripoli-stadium-landmarks-v2",
+    "name": "Tripoli Stadium",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "benina-airport-terminal-landmarks-v2",
+    "name": "Benina Airport Terminal",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "tibesti-hotel-benghazi-landmarks-v2",
+    "name": "Tibesti Hotel",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "benghazi-lighthouse-landmarks-v2",
+    "name": "Benghazi Lighthouse",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "al-sahaba-mosque-derna-landmarks-v2",
+    "name": "Al-Sahaba Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "misrata-central-mosque-landmarks-v2",
+    "name": "Misrata Central Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "ouagadougou-conference-center-landmarks-v2",
+    "name": "Ouagadougou Conference Center",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "zawiya-grand-mosque-landmarks-v2",
+    "name": "Zawiya Grand Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "al-khums-lighthouse-landmarks-v2",
+    "name": "Al Khums Lighthouse",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "brega-oil-terminal-landmarks-v2",
+    "name": "Brega Oil Terminal",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "ras-lanuf-refinery-landmarks-v2",
+    "name": "Ras Lanuf Refinery",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "fortezza-margherita-sabha-landmarks-v2",
+    "name": "Fortezza Margherita",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "sabha-airport-terminal-landmarks-v2",
+    "name": "Sabha Airport Terminal",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "al-asmarya-mosque-zliten-landmarks-v2",
+    "name": "Al-Asmariya Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "shahat-grand-mosque-landmarks-v2",
+    "name": "Shahat Grand Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "al-baida-grand-mosque-landmarks-v2",
+    "name": "Al-Baida Grand Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "omar-mukhtar-mausoleum-landmarks-v2",
+    "name": "Omar Mukhtar Mausoleum",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "tripoli-central-post-office-landmarks-v2",
+    "name": "Tripoli Central Post Office",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "ghadames-grand-mosque-landmarks-v2",
+    "name": "Ghadames Grand Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "benghazi-university-campus-landmarks-v2",
+    "name": "Benghazi University Campus",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+    "name": "Al-Majidiya Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "tobruk-grand-mosque-landmarks-v2",
+    "name": "Tobruk Grand Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "misrata-airport-terminal-landmarks-v2",
+    "name": "Misrata Airport Terminal",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "al-kish-square-mosque-landmarks-v2",
+    "name": "Al-Kish Square Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "benghazi-great-mosque-landmarks-v2",
+    "name": "Benghazi Great Mosque",
+    "file": "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts"
+  },
+  {
+    "id": "tripoli-zoo-life-v2",
+    "name": "Tripoli Zoo",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "benghazi-zoo-life-v2",
+    "name": "Benghazi Zoo",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "misrata-park-life-v2",
+    "name": "Misrata City Park",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "djebel-nafusa-agri-life-v2",
+    "name": "Jebel Nafusa Olive Groves",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "gadamis-oasis-life-v2",
+    "name": "Ghadames Oasis",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "kufra-orchard-life-v2",
+    "name": "Kufra Orchards",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "zawia-farm-life-v2",
+    "name": "Zawia Agricultural Zone",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "gharyan-nursery-life-v2",
+    "name": "Gharyan Nursery",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "sebha-park-life-v2",
+    "name": "Sebha Family Park",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "tubruq-garden-life-v2",
+    "name": "Tobruk City Garden",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "al-baida-zoo-life-v2",
+    "name": "Al-Baida Zoo",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "djebel-akhdar-farm-life-v2",
+    "name": "Jebel Akhdar Fruit Farming",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "slonta-nursery-life-v2",
+    "name": "Slonta Nursery",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "jalu-oasis-farm-life-v2",
+    "name": "Jalu Oasis Farming",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "awjila-orchard-life-v2",
+    "name": "Awjila Date Grove",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "tauergha-park-life-v2",
+    "name": "Tauergha Park",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "homsh-city-park-life-v2",
+    "name": "Homs City Park",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "sirte-family-life-v2",
+    "name": "Sirte Family Center",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "murzuq-oasis-life-v2",
+    "name": "Murzuq Oasis",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "ghat-oasis-life-v2",
+    "name": "Ghat Oasis Farming",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "zwara-green-belt-life-v2",
+    "name": "Zwara Green Belt",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "darj-oasis-life-v2",
+    "name": "Darj Oasis Gardens",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "nalut-terrace-life-v2",
+    "name": "Nalut Terrace Farming",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "jufra-orchard-life-v2",
+    "name": "Jufra Palm Groves",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "tarhuna-nursery-life-v2",
+    "name": "Tarhuna Seedling Center",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "msallata-olive-life-v2",
+    "name": "Msallata Olive Plantations",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "ghat-family-life-v2",
+    "name": "Ghat Family Square",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "bin-jawad-park-life-v2",
+    "name": "Bin Jawad Leisure Park",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "al-azizia-agri-life-v2",
+    "name": "Al-Azizia Farmland",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "zintan-orchard-life-v2",
+    "name": "Zintan Orchard",
+    "file": "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
+  },
+  {
+    "id": "wadi-al-hayat-nature-v2",
+    "name": "Wadi al-Hayat",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-akhdar-nature-v2",
+    "name": "Jebel Akhdar",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "lake-gaberoun-nature-v2",
+    "name": "Gaberoun Lake",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "mandara-lakes-nature-v2",
+    "name": "Mandara Lakes",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-nafusa-nature-v2",
+    "name": "Jebel Nafusa",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "gar-al-marah-nature-v2",
+    "name": "Gar al-Marah",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "ubari-sand-sea-nature-v2",
+    "name": "Ubari Sand Sea",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "gargaf-mountains-nature-v2",
+    "name": "Gargaf Mountains",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "mizdah-plateau-nature-v2",
+    "name": "Mizdah Plateau",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "al-hamada-al-hamra-nature-v2",
+    "name": "Al-Hamada al-Hamra",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "tibesti-foothills-nature-v2",
+    "name": "Tibesti Foothills",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "sarir-tanezrouft-nature-v2",
+    "name": "Sarir Tanezrouft",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "wadi-kuf-nature-v2",
+    "name": "Wadi al-Kuf",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "sirte-basin-nature-v2",
+    "name": "Sirte Basin",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "gulf-of-sidra-nature-v2",
+    "name": "Gulf of Sidra",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "al-haruj-nature-v2",
+    "name": "Al-Haruj",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-aswad-nature-v2",
+    "name": "Jebel Aswad",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "wadi-zamzam-nature-v2",
+    "name": "Wadi Zamzam",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "al-kufra-basin-nature-v2",
+    "name": "Al-Kufra Basin",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-uwaynat-nature-v2",
+    "name": "Jebel Uwaynat",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "wadi-al-ajal-nature-v2",
+    "name": "Wadi al-Ajal",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "gargaf-desert-nature-v2",
+    "name": "Gargaf Desert",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "sirtica-desert-nature-v2",
+    "name": "Sirtica Desert",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "wadi-mathendous-nature-v2",
+    "name": "Wadi Mathendous",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-soda-nature-v2",
+    "name": "Jebel Soda",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "fezzan-desert-nature-v2",
+    "name": "Fezzan Desert",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "cyrenaica-coast-nature-v2",
+    "name": "Cyrenaica Coast",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "wadi-farigh-nature-v2",
+    "name": "Wadi al-Farigh",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-tarhuna-nature-v2",
+    "name": "Jebel Tarhuna",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "ghat-mountains-nature-v2",
+    "name": "Ghat Mountains",
+    "file": "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
+  },
+  {
+    "id": "jebel-akdar-highlands-relief-v2",
+    "name": "Jebel Akhdar Highlands",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "gargaf-range-relief-v2",
+    "name": "Gargaf Range",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "jebel-soda-relief-v2",
+    "name": "Jebel Soda Mountains",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "tibesti-foothills-relief-v2",
+    "name": "Tibesti Foothills",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "jebel-uwaynat-relief-v2",
+    "name": "Jebel Uwaynat",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "jebel-tarhuna-relief-v2",
+    "name": "Jebel Tarhuna",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "sirte-basin-relief-v2",
+    "name": "Sirte Basin",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "al-haruj-relief-v2",
+    "name": "Al-Haruj",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "al-hamada-al-hamra-relief-v2",
+    "name": "Al-Hamada al-Hamra",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "jebel-nafusa-relief-v2",
+    "name": "Jebel Nafusa",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "jebel-aswad-relief-v2",
+    "name": "Jebel Aswad",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "wadi-al-kuf-relief-v2",
+    "name": "Wadi al-Kuf",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "wadi-al-ajal-relief-v2",
+    "name": "Wadi al-Ajal",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "wadi-zamzam-relief-v2",
+    "name": "Wadi Zamzam",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "wadi-mathendous-relief-v2",
+    "name": "Wadi Mathendous",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "wadi-al-farigh-relief-v2",
+    "name": "Wadi al-Farigh",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "sarir-tanezrouft-relief-v2",
+    "name": "Sarir Tanezrouft",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "gaberoun-lake-relief-v2",
+    "name": "Gaberoun Lake",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "mandara-lakes-relief-v2",
+    "name": "Mandara Lakes",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "ubari-sand-sea-relief-v2",
+    "name": "Ubari Sand Sea",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "kufra-basin-relief-v2",
+    "name": "Al-Kufra Basin",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "gar-al-marah-relief-v2",
+    "name": "Gar al-Marah",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "sirtica-desert-relief-v2",
+    "name": "Sirtica Desert",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "gargaf-desert-relief-v2",
+    "name": "Gargaf Desert",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  },
+  {
+    "id": "cyrenaica-coast-relief-v2",
+    "name": "Cyrenaica Coast",
+    "file": "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  }
+]

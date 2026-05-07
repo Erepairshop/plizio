@@ -1,0 +1,340 @@
+{
+  "lang": "ro",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "guanaja-city-cities-v2",
+      "descriptionAdvanced": "Guanaja este un oraș insular pitoresc situat în departamentul Islas de la Bahía, fiind cea mai estică dintre cele trei insule principale ale arhipelagului hondurian. Cunoscută ca „Insula Pinilor”, a fost explorată de Cristofor Columb în timpul celui de-al patrulea său voiaj, păstrând și astăzi un sentiment de izolare și frumusețe virgină. Așezarea principală, adesea numită Bonacca Town, este unică prin faptul că este construită aproape în întregime pe piloni deasupra apei, pe un recif adiacent, făcând ca bărcile să fie principalul mijloc de transport, similar cu o mică Veneție caraibiană. Economia locală depinde profund de pescuitul comercial și turismul de scufundări, insula fiind înconjurată de un recif de corali spectaculos, parte a Sistemului Recifal Mesoamerican. Eforturile de conservare sunt vitale pentru a proteja acest ecosistem delicat și divers.",
+      "factsAdvanced": [
+        "Descoperită de Cristofor Columb în 1502 în al patrulea său voiaj",
+        "Numită istoric „Insula Pinilor” datorită pădurilor sale dese de pin caribian",
+        "Așezarea principală este construită parțial pe piloni deasupra apei",
+        "Populația municipiului este de aproximativ 6.000 de locuitori",
+        "Situată în extremitatea estică a departamentului Islas de la Bahía",
+        "Un loc de top la nivel mondial pentru scufundări",
+        "Nu are o rețea de drumuri dezvoltată pe insula principală"
+      ]
+    },
+    {
+      "id": "roatan-city-cities-v2",
+      "descriptionAdvanced": "Roatán, adesea denumit Coxen Hole, este centrul administrativ și inima comercială a departamentului Islas de la Bahía, situat pe cea mai mare insulă a arhipelagului. Orașul combină un amestec vibrant de culturi caraibiene, afro-honduriene (Garifuna) și hispanice, reflectând istoria sa complexă de colonizare engleză și spaniolă. Astăzi, turismul internațional este motorul principal al economiei, orașul servind ca punct principal de intrare prin portul său pentru nave de croazieră și aeroportul internațional. Atracțiile sale se centrează pe peisajele tropicale, plajele cu nisip alb și accesul direct la uimitorul recif de corali, o destinație de renume mondial pentru snorkeling și scufundări. Deși a cunoscut o dezvoltare turistică rapidă, comunitatea depune eforturi pentru a menține un echilibru între creșterea economică și conservarea ecosistemelor fragile.",
+      "factsAdvanced": [
+        "Cunoscut oficial ca orașul Roatán, dar adesea numit Coxen Hole",
+        "Este capitala administrativă a departamentului Islas de la Bahía",
+        "Găzduiește Aeroportul Internațional Juan Manuel Gálvez",
+        "Populația municipiului depășește 50.000 de locuitori",
+        "Turismul internațional și serviciile portuare sunt esențiale pentru economie",
+        "Orașul poartă numele căpitanului pirat John Coxen din secolul al XVII-lea",
+        "Este cel mai dezvoltat și populat pol urban din arhipelag"
+      ]
+    },
+    {
+      "id": "lepaera-cities-v2",
+      "descriptionAdvanced": "Lepaera este un municipiu muntos, renumit pentru agricultura sa, situat în inima departamentului Lempira, la poalele celui mai înalt vârf din Honduras, Celaque. Așezarea este faimoasă la nivel național și internațional pentru producția sa de cafea de excepție, fiind de mai multe ori câștigătoare a competiției „Cup of Excellence” datorită condițiilor climatice perfecte, a altitudinii ridicate și a solurilor vulcanice bogate. Orașul în sine păstrează un aer colonial distinct, cu străzi pietruite și o piață centrală liniștită, dominată de o biserică istorică. Comunitatea se remarcă prin dedicarea față de practicile agricole durabile și prin valorificarea moștenirii sale indigene Lenca, care se reflectă în cultura locală și artizanat. Este, de asemenea, o poartă de acces excelentă pentru explorarea Parcului Național Montaña de Celaque.",
+      "factsAdvanced": [
+        "Așezat la o altitudine de 1.300 de metri pe versanții muntelui Celaque",
+        "Renumit la nivel internațional pentru producția de cafea de specialitate",
+        "Câștigător frecvent al premiilor în competiția de cafea „Taza de Excelencia”",
+        "Populația municipiului se apropie de 40.000 de locuitori",
+        "Păstrează influențe puternice din cultura indigenă Lenca",
+        "Oferă acces apropiat la Parcul Național Montaña de Celaque",
+        "A fost fondat oficial sub administrația spaniolă în secolul al XIX-lea"
+      ]
+    },
+    {
+      "id": "san-juan-de-opoa-cities-v2",
+      "descriptionAdvanced": "San Juan de Opoa este un municipiu pitoresc din departamentul Copán, situat de-a lungul văii fertile a râului Higuito. Orașul beneficiază de o poziție strategică între orașul Santa Rosa de Copán și regiunile vestice, facilitând un comerț agricol activ. Economia sa este diversificată, incluzând cultivarea cafelei, a tutunului și a cerealelor, precum și producția de meșteșuguri din răchită și ceramică. O atracție deosebită a zonei este Hacienda San Lucas, o proprietate istorică ce a devenit un important centru de ecoturism, oferind vizitatorilor o perspectivă asupra agriculturii tradiționale mayașe și a arhitecturii coloniale rustice. Orașul este recunoscut pentru ospitalitatea sa, strânsa legătură cu tradițiile rurale și inițiativele de promovare a turismului comunitar.",
+      "factsAdvanced": [
+        "Situat strategic în valea râului Higuito, în departamentul Copán",
+        "Fondat în secolul al XVIII-lea, inițial sub numele de Opoa",
+        "Populație estimată la peste 10.000 de locuitori",
+        "Altitudinea este de aproximativ 500 de metri deasupra nivelului mării",
+        "În apropiere se află Hacienda San Lucas, un important sit ecoturistic",
+        "Economia combină cultivarea cafelei și a tutunului cu agroturismul",
+        "Este un producător local de meșteșuguri din tul și ceramică"
+      ]
+    },
+    {
+      "id": "gualcinse-cities-v2",
+      "descriptionAdvanced": "Gualcinse este un oraș vechi și fascinant din sudul departamentului Lempira, ascuns printre formațiuni muntoase impresionante și aproape izolat de coridoarele comerciale principale. Cu rădăcini puternic înfipte în perioada colonială, a fost inițial un important centru minier, fapt atestat de Biserica sa Parohială impresionantă, bogat decorată și considerată una dintre cele mai frumoase din regiune. Numele său, de origine Lenca, și stilul de viață al locuitorilor săi reflectă o profundă moștenire indigenă. Economia este bazată aproape exclusiv pe agricultura de subzistență, cu mici plantații de cafea și cereale de bază. Vizitarea orașului Gualcinse oferă o călătorie autentică în timp, pe străzile sale liniștite pietruite, oferind priveliști panoramice uluitoare asupra graniței muntoase cu El Salvador.",
+      "factsAdvanced": [
+        "Așezare cu o istorie bogată, fondată oficial în 1576",
+        "Fost centru minier înfloritor în timpul perioadei coloniale spaniole",
+        "Biserica Inmaculada Concepción este un monument arhitectural remarcabil",
+        "Situat la o altitudine impresionantă de aproximativ 1.150 de metri",
+        "Populația municipiului este de aproximativ 12.000 de locuitori",
+        "Economia actuală se bazează pe agricultura la scară mică",
+        "Datorită reliefului accidentat, păstrează o atmosferă izolată și tradițională"
+      ]
+    },
+    {
+      "id": "langue-cities-v2",
+      "descriptionAdvanced": "Langue este un municipiu comercial dinamic și dens populat din departamentul Valle, situat în partea de sud a Hondurasului. Cunoscut pentru climatul său deosebit de cald și uscat, orașul are o importanță istorică ca vechi centru de extracție a aurului și argintului în timpul erei coloniale. În prezent, mineritul a fost înlocuit de agricultură, creșterea animalelor (în special vite și caprine) și comerțul intens cu piețele din El Salvador, aflate în proximitate. Langue se mândrește cu una dintre cele mai neobișnuite piețe artizanale, fiind recunoscut la nivel național pentru hamacele sale țesute manual și produsele din fibre de agave. Străzile sale sunt pline de viață, iar biserica colonială impunătoare domină centrul așezării, subliniind istoria sa lungă și bogată.",
+      "factsAdvanced": [
+        "A fost un important centru minier (aur și argint) în secolele XVIII și XIX",
+        "Recunoscut ca un centru major pentru confecționarea manuală a hamacelor",
+        "Situat la o altitudine mică, înregistrând temperaturi foarte ridicate",
+        "Populație estimată la peste 24.000 de locuitori",
+        "Economia este orientată spre comerț regional, agricultură uscată și artizanat",
+        "A primit titlul de oraș (ciudad) la 15 septembrie 1950",
+        "Păstrează arhitectura colonială, inclusiv biserica veche San Antonio de Padua"
+      ]
+    },
+    {
+      "id": "jesus-de-otoro-cities-v2",
+      "descriptionAdvanced": "Jesús de Otoro este un oraș situat într-o vale extinsă și incredibil de fertilă din departamentul Intibucá. Valea Otoro este recunoscută la nivel național ca „hambarul” Hondurasului datorită producției masive de orez, porumb și fasole, susținută de sistemele de irigații alimentate de râul Grande de Otoro. Spre deosebire de relieful muntos care caracterizează restul departamentului, topografia plată a orașului a permis dezvoltarea unei agriculturi mecanizate și o creștere a prosperității locale. Locuitorii păstrează vii tradițiile Lenca, iar așezarea găzduiește anual festivaluri care sărbătoresc atât moștenirea culturală, cât și bogăția recoltelor. Economia puternică și comunitatea unită fac din Jesús de Otoro unul dintre cele mai vibrante și stabile municipii din regiune.",
+      "factsAdvanced": [
+        "Valea Otoro este un centru agricol major, numit adesea „hambarul” zonei",
+        "Cel mai mare producător de orez la nivel național",
+        "Este așezat la o altitudine de aproximativ 600 de metri deasupra mării",
+        "Orașul a primit statutul de municipiu în anul 1893",
+        "Populația municipiului este de aproximativ 30.000 de locuitori",
+        "Străbătut de râul Grande de Otoro, esențial pentru irigații",
+        "Regiunea a fost populată inițial de grupuri indigene Lenca antice"
+      ]
+    },
+    {
+      "id": "proteccion-cities-v2",
+      "descriptionAdvanced": "Protección este un municipiu tânăr și pitoresc situat în departamentul Santa Bárbara, creat din dorința comunității de a se guverna independent în secolul al XX-lea. Orașul este amplasat într-o zonă deluroasă, bogată în resurse de apă și păduri tropicale umede. Viața economică este puternic centrată pe cultivarea cafelei, care constituie motorul principal al dezvoltării locale, alături de agricultură de subzistență (porumb, fasole) și creșterea animalelor la scară mică. Grație peisajelor sale neatinse, orașul are un potențial ecoturistic considerabil. Comunitatea din Protección este cunoscută pentru coeziunea sa, organizând piețe locale și festivaluri care reflectă o viață rurală liniștită, departe de agitația marilor centre urbane.",
+      "factsAdvanced": [
+        "A fost oficializat ca municipiu relativ târziu, la 12 decembrie 1927",
+        "Se află la o altitudine de aproximativ 850 de metri, înconjurat de munți",
+        "Populație estimată la peste 16.000 de locuitori",
+        "Cultivarea cafelei este cea mai importantă activitate economică a zonei",
+        "Anterior a fost cunoscut sub numele de „El Ocotal”, datorită pinilor",
+        "Regiunea este caracterizată de un relief abrupt și cursuri de apă numeroase",
+        "Viața comunității se bazează puternic pe cooperare și ciclurile agricole"
+      ]
+    },
+    {
+      "id": "san-ignacio-cities-v2",
+      "descriptionAdvanced": "San Ignacio este un municipiu situat în departamentul Francisco Morazán, într-o vale spectaculoasă înconjurată de munți stâncoși. Orașul are un istoric minier notabil, atrăgând inițial locuitori datorită zăcămintelor de metale prețioase exploatate în timpul epocii coloniale și mai târziu. Astăzi, însă, peisajul economic este dominat de agricultură și silvicultură. San Ignacio este remarcat pentru izvoarele sale termale naturale (Aguas Termales), care sunt vizitate de locuitori din regiune pentru proprietățile lor presupus curative, oferind o oportunitate imensă pentru dezvoltarea turismului de wellness. Orașul păstrează un aer rural autentic, cu străzi tradiționale, și o comunitate ospitalieră ce prețuiește atât istoria sa minieră, cât și resursele naturale actuale.",
+      "factsAdvanced": [
+        "Așezat în departamentul Francisco Morazán, la o altitudine de 760 de metri",
+        "Cunoscut în regiune pentru izvoarele sale termale naturale, o atracție turistică",
+        "A avut o importanță minieră substanțială în trecut, în special pentru argint",
+        "Populația municipiului este de aproximativ 9.000 de locuitori",
+        "Creat oficial ca municipiu independent în anul 1920",
+        "Economia actuală a tranzitat spre cultivarea cerealelor de bază și silvicultură",
+        "Este situat pe traseul râului Playón, care traversează valea"
+      ]
+    },
+    {
+      "id": "aramecina-cities-v2",
+      "descriptionAdvanced": "Aramecina este un municipiu liniștit și arid situat în sudul Hondurasului, în departamentul Valle, foarte aproape de granița cu El Salvador. Așezarea are un caracter profund rural, cu un relief predominant deluros și o climă caldă, influențată de savana tropicală. Economia orașului se bazează pe supraviețuire și reziliență agricolă, principalii piloni fiind creșterea extensivă a vitelor și cultivarea unor culturi rezistente la secetă, cum ar fi sorgul și porumbul. Numele său are rădăcini indigene precolumbiene, reflectând vechimea așezării. În ciuda provocărilor climatice și economice, Aramecina are o comunitate mândră, un centru curat cu o biserică istorică, și o tradiție puternică de comerț transfrontalier la scară mică.",
+      "factsAdvanced": [
+        "Situat strategic în sud-vestul țării, la mică distanță de El Salvador",
+        "Fondată în secolul al XVIII-lea, pe ruinele unei așezări indigene Lenca",
+        "Climatul este uscat, cu temperaturi ridicate, la o altitudine de 160 de metri",
+        "Populație estimată la aproximativ 8.000 de locuitori",
+        "Culturile de bază includ sorgul (maicillo), porumbul și pepenii",
+        "Are un important potențial pentru dezvoltarea energiei solare",
+        "Numele provine din limba indigenă și înseamnă „râul maguey-urilor mici”"
+      ]
+    },
+    {
+      "id": "san-agustin-cities-v2",
+      "descriptionAdvanced": "San Agustín este un municipiu din sudul departamentului Copán, caracterizat de o geografie extrem de muntoasă și văi înguste, unde agricultura este o provocare, dar și principala sursă de existență. Orașul trăiește aproape exclusiv din cultivarea cafelei, solurile de altitudine oferind boabe de calitate superioară apreciate pe piețele internaționale. Înconjurat de păduri de pini și stejari, orașul este izolat și pitoresc, cu o atmosferă tipică comunităților rurale andine, unde transportul pe drumuri neasfaltate poate fi dificil. Deși este un municipiu mic, locuitorii săi din San Agustín sunt cunoscuți pentru munca lor asiduă în agricultură și menținerea unor tradiții culturale puternice, adunându-se frecvent pentru piețele de weekend și ceremoniile religioase anuale.",
+      "factsAdvanced": [
+        "Populația este de aproximativ 5.000 de locuitori, majoritatea în zone rurale",
+        "Situat la o altitudine de aproximativ 1.000 de metri în munții Copán",
+        "Primește statutul oficial de municipiu relativ târziu, în anul 1930",
+        "Producția de cafea este baza absolută a economiei și a forței de muncă",
+        "Geografia este extrem de accidentată, limitând dezvoltarea infrastructurii",
+        "Cunoscut pentru clima sa temperată și răcoroasă datorită reliefului andin",
+        "Își trage numele de la sfântul patron catolic, Sfântul Augustin de Hipona"
+      ]
+    },
+    {
+      "id": "guaimaca-cities-v2",
+      "descriptionAdvanced": "Guaimaca este un oraș vibrant și un centru forestier vital în departamentul Francisco Morazán, amplasat pe valea fertilă Lepaguare. Economia sa este istoric legată de industria prelucrării lemnului, numeroase fabrici și gatere operând în regiune datorită extinselor păduri de pini din împrejurimi. În ultimele decenii, orașul a diversificat baza sa economică, extinzându-se masiv în cultivarea cafelei, a trestiei de zahăr și a legumelor de vale. Datorită locației sale pe drumul principal care face legătura cu Olancho, Guaimaca servește ca un important nod comercial. Orașul crește rapid, investind în infrastructură urbană, dar păstrează strânse legături cu moștenirea sa agricolă și cu necesitatea imperativă a gestionării durabile a pădurilor.",
+      "factsAdvanced": [
+        "Punct central al industriei maderiere din regiune",
+        "Situat pe valea Lepaguare, la o altitudine de aproximativ 850 de metri",
+        "Populația a crescut semnificativ, depășind 30.000 de locuitori",
+        "Fondat în secolul al XIX-lea, devenit oficial municipiu în anul 1873",
+        "Găzduiește suprafețe importante cultivate cu cafea și trestie de zahăr",
+        "Autostrada RN-15 traversează orașul, stimulând puternic comerțul",
+        "Comunitatea organizează anual festivități religioase care atrag vizitatori"
+      ]
+    },
+    {
+      "id": "campamento-cities-v2",
+      "descriptionAdvanced": "Campamento este un municipiu prosper și strategic situat în departamentul Olancho, considerat adesea poarta de intrare sudică a acestui vast departament forestier și agricol. Numele său, care înseamnă „Tabără”, provine de la originile sale ca punct de popas pentru călătorii și comercianții care se îndreptau spre interiorul regiunii. Orașul este înconjurat de munți spectaculoși, puternic împăduriți cu pini, silvicultura și industria prelucrării lemnului jucând un rol crucial în economie. De asemenea, Campamento se distinge prin plantațiile sale extinse de cafea, care beneficiază de altitudinea ideală a zonei. Având o locație pe principala rută Olancho-Tegucigalpa, a cunoscut o dezvoltare comercială rapidă, fiind o așezare dinamică și modernizată, unde ecoturismul a început să câștige teren.",
+      "factsAdvanced": [
+        "Cunoscut drept „Poarta de Intrare” în vastul departament Olancho",
+        "Fondat inițial ca un loc de odihnă pentru negustori în secolul al XIX-lea",
+        "Altitudinea medie este de aproximativ 800 de metri deasupra mării",
+        "Populația estimată este de peste 29.000 de locuitori",
+        "Producția de cafea și prelucrarea lemnului sunt pilonii economiei",
+        "Este situat pe traseul principal care leagă Tegucigalpa de Juticalpa",
+        "Găzduiește zone protejate și păduri masive care oferă potențial ecoturistic"
+      ]
+    },
+    {
+      "id": "santo-domingo-savio-cities-v2",
+      "descriptionAdvanced": "Santo Domingo Savio, adesea numit simplu Savio, nu este un municipiu independent, ci mai degrabă un proiect urbanistic și comunitar unic, asociat adesea regiunii vestice a țării, axat pe dezvoltare educațională și socială. Ca centru comunitar, se concentrează pe oferirea de educație calitativă și servicii sociale pentru tinerii din zonele rurale defavorizate. Acest pol reprezintă un exemplu al eforturilor organizațiilor catolice și laice de a reduce inegalitățile regionale. Activitatea economică este legată de instituțiile din jur și comerțul local de susținere, având un impact profund asupra vieții tinerilor din departamentul Copán, formând viitoarea forță de muncă.",
+      "factsAdvanced": [
+        "Reprezintă un centru de dezvoltare educațională și comunitară în regiunea de vest",
+        "Numele este inspirat de tânărul sfânt catolic patron al studenților",
+        "A fost creat pentru a oferi oportunități sociale tinerilor din familii defavorizate",
+        "Zona este caracterizată de o puternică prezență a programelor de asistență",
+        "Este conectat funcțional și administrativ de marile aglomerări urbane din Copán",
+        "Formarea tehnică și educația clasică sunt principalele activități",
+        "Contribuie la combaterea abandonului școlar în vestul Hondurasului"
+      ]
+    },
+    {
+      "id": "corquin-cities-v2",
+      "descriptionAdvanced": "Corquín este un municipiu extrem de pitoresc situat în sud-vestul departamentului Copán, faimos pentru peisajele sale rurale excepționale și producția uneia dintre cele mai fine cafele din Honduras. Așezat pe un relief colinar abrupt și înconjurat de râuri limpezi, orașul păstrează o arhitectură colonială minunată, cu străzi pietruite și clădiri vechi văruite în alb. Numele său de origine indigenă se traduce aproximativ ca \"printre râuri\". Datorită climei reci și a pământului bogat, economia se bazează aproape total pe cafea, locuitorii fiind dedicați îngrijirii recoltelor anuale. Orașul este recunoscut pentru calitatea sa a vieții, festivalurile tradiționale și ca punct de pornire pentru trasee de drumeție ecologice în Munții Celaque din apropiere.",
+      "factsAdvanced": [
+        "Numele indigen „Corquín” înseamnă „situat printre ape/râuri”",
+        "Este unul dintre cei mai apreciați producători de cafea de specialitate din țară",
+        "Așezat la o altitudine de aproximativ 1.000 de metri în munții Copán",
+        "Populație estimată la peste 18.000 de locuitori",
+        "Orașul se distinge prin centrul său istoric curat, cu străzi pietruite",
+        "Creat oficial ca municipiu independent în anul 1924",
+        "Apropierea de Parcul Național Celaque îi conferă un vast potențial ecoturistic"
+      ]
+    },
+    {
+      "id": "el-paraiso-cities-v2",
+      "descriptionAdvanced": "El Paraíso, în departamentul omonim situat pe granița cu Nicaragua, este inima regiunii cafelei de la frontiera de est a Hondurasului. Orașul, cunoscut sub numele de „Capitala Cafelei” a departamentului, atrage mii de lucrători în timpul sezonului de recoltare, impulsionând o economie locală robustă și dinamică. Pe lângă cafea, orașul este un nod comercial important, facilitând schimbul de produse agricole și bunuri de consum între cele două țări. Deși se află într-o zonă deluroasă, dezvoltarea sa a fost rapidă, transformându-l într-un oraș vibrant cu numeroase servicii bancare, comerciale și hoteliere. El Paraíso a fost un punct cheie în istoria recentă a Americii Centrale, iar astăzi este un exemplu de prosperitate bazată pe exportul agricol.",
+      "factsAdvanced": [
+        "Considerat nucleul economic și agricol al departamentului El Paraíso",
+        "Supranumit neoficial „Capitala Cafelei” din estul țării",
+        "Altitudinea medie a orașului este de 1.050 de metri, ideală pentru cafea",
+        "Are o populație urbană de peste 46.000 de locuitori",
+        "Fondat în secolul al XIX-lea, declarat oraș în anul 1959",
+        "Situat strategic pe principala rută comercială către frontiera Las Manos",
+        "Industria tutunului și a trabucurilor de asemenea generează locuri de muncă"
+      ]
+    },
+    {
+      "id": "santa-cruz-de-yojoa-cities-v2",
+      "descriptionAdvanced": "Santa Cruz de Yojoa este un municipiu vital din departamentul Cortés, recunoscut pentru diversitatea sa geografică și importanța turistică, fiind localizat în proximitatea faimosului Lac Yojoa. Peisajul său este dominat de păduri tropicale, baraje hidroelectrice (precum Francisco Morazán - El Cajón) și un climat cald, care susține o agricultură intensivă de ananas, trestie de zahăr și creșterea peștelui tilapia. Orașul are un ritm comercial intens și un sector al serviciilor orientat către turismul ecologic și agrementul din jurul lacului. Ca poartă de acces către atracții majore, cum ar fi Parcul Național Cerro Azul Meámbar, Santa Cruz este o intersecție înfloritoare între dezvoltarea energetică, industrie și eforturile ecologice din nord-vestul Hondurasului.",
+      "factsAdvanced": [
+        "Așezare situată strategic la nordul faimosului Lac Yojoa",
+        "Găzduiește în jurisdicția sa imensul baraj hidroelectric „El Cajón”",
+        "Populația depășește 90.000 de locuitori, fiind unul dintre cele mai mari municipii",
+        "Altitudinea medie în centrul urban este de aproximativ 500 de metri",
+        "Economia depinde de ecoturism, pescuitul de tilapia pe lac și cultivarea ananasului",
+        "A fost fondată oficial ca așezare spaniolă în anul 1864",
+        "În apropiere se află Parcul Național Cerro Azul Meámbar (PANACAM)"
+      ]
+    },
+    {
+      "id": "azacualpa-cities-v2",
+      "descriptionAdvanced": "Azacualpa este un oraș aglomerat din departamentul Santa Bárbara, aflat la granița administrativă cu departamentul Cortés, într-o vale fertilă creată de râul Chamelecón. Este un centru cu o puternică amprentă comercială și agro-industrială. Deși o mare parte a terenurilor din apropiere este dedicată creșterii animalelor și cultivării porumbului și fasolei, orașul prosperă și datorită mineritului, zona fiind cunoscută pentru extracția unor minerale, inclusiv antimoniu și aur, o practică ce a adus atât dezvoltare, cât și provocări ecologice. Amplasat strategic pe rețeaua rutieră de vest, Azacualpa combină agitația urbană modernă cu viața tradițională, fiind un nod de transport critic pentru mărfurile care părăsesc zonele miniere și agricole spre porturi.",
+      "factsAdvanced": [
+        "Numele provine de la un cuvânt indigen Nahuatl, însemnând „Orașul Părăsit”",
+        "Situat în departamentul Santa Bárbara, pe valea râului Chamelecón",
+        "Economia este o combinație de agricultură, creșterea vitelor și exploatări miniere",
+        "Extracția de antimoniu și aur a fost centrală în istoria sa recentă",
+        "Populație estimată la peste 20.000 de locuitori",
+        "Obține titlul de municipiu independent în anul 1958",
+        "Aflat la o altitudine joasă de aproximativ 200 de metri"
+      ]
+    },
+    {
+      "id": "san-manuel-cities-v2",
+      "descriptionAdvanced": "San Manuel este un municipiu extrem de productiv situat în departamentul Cortés, plasat convenabil în inima Văii Sula, motorul agricol și industrial al Hondurasului. Datorită reliefului său complet plat și solurilor foarte fertile, orașul este dominat de imense plantații comerciale de banane și trestie de zahăr, fiind o parte esențială a lanțului de aprovizionare agroindustrial național. Orașul este practic un pol logistic și un centru de locuințe pentru lucrătorii agricoli și din maquilas, situat la câțiva kilometri de San Pedro Sula. Istoria sa a fost profund marcată de companiile bananiere străine, iar astăzi, San Manuel continuă să fie un oraș prosper, cu un mediu antreprenorial activ și o dezvoltare imobiliară accelerată datorită poziției sale metropolitane.",
+      "factsAdvanced": [
+        "Face parte din inima agricolă și industrială a țării, Valea Sula",
+        "Populația estimată a depășit 60.000 de locuitori",
+        "Fondat ca un sat mic în anul 1859, înainte de expansiunea companiilor bananiere",
+        "Terenul este aproape perfect plat, cu o altitudine de doar 30 de metri",
+        "Economia este dominată de marea agroindustrie: banane și trestie de zahăr",
+        "Are o conexiune excelentă cu aeroportul internațional din San Pedro Sula",
+        "Datorită apropierii de metropolă, atrage dezvoltări imobiliare și industriale"
+      ]
+    },
+    {
+      "id": "florida-cities-v2",
+      "descriptionAdvanced": "Florida este un municipiu întins și muntos din departamentul Copán, renumit pentru relieful său spectaculos, acoperit de păduri masive și plantații de cafea. Numele său a fost inspirat de abundența și frumusețea vegetației cu flori găsite în zonă de primii coloniști. Ca pol economic în nordul departamentului Copán, Florida trăiește aproape exclusiv din agricultura cafelei de mare altitudine și creșterea bovinelor. Orașul este un nucleu vital pentru multe sate mai mici din jur, oferind servicii, școli și piețe. Localnicii sunt dedicați tradițiilor lor rurale, organizând sărbători colorate în cinstea sfântului patron. Peisajul său este un punct de atracție pentru turiștii aventurieri în căutare de peisaje virgine și experiențe rurale nealterate de turismul de masă.",
+      "factsAdvanced": [
+        "Numele provine de la frumusețea și abundența florei locale",
+        "Este unul dintre cele mai întinse municipii din departamentul Copán",
+        "Fondat oficial sub statutul de municipiu în anul 1884",
+        "Altitudinea medie este de 750 de metri, ajungând la cote mult mai ridicate",
+        "Populația municipiului este de aproximativ 28.000 de locuitori",
+        "Economia sa este ancorată puternic în creșterea vitelor și a cafelei",
+        "Dispune de mai multe izvoare naturale care alimentează bazine hidrografice"
+      ]
+    },
+    {
+      "id": "san-francisco-de-la-paz-cities-v2",
+      "descriptionAdvanced": "San Francisco de La Paz este un oraș istoric situat în inima departamentului Olancho, cunoscut pentru implicarea sa profundă în evenimentele istorice ale regiunii, în special revoltele politice din secolul al XIX-lea. Astăzi, orașul este un simbol al liniștii și agriculturii productive, numele său reflectând pacea care s-a dorit instalată după perioadele tulburi. Valea largă în care este amplasat favorizează o industrie zootehnică masivă, producând cantități enorme de lapte și carne, precum și culturi de porumb și fasole. Comunitatea se remarcă prin cultura sa autentică \"olanchano\", ospitalitate și prin păstrarea cu mândrie a folclorului, a muzicii specifice și a bucătăriei tradiționale, fiind o destinație esențială pentru a înțelege caracterul rural al Hondurasului.",
+      "factsAdvanced": [
+        "Numele său original a fost „San Francisco de Zapata”",
+        "Fondat în perioada colonială și recunoscut ca municipiu în anul 1883",
+        "A fost un loc cheie în timpul confruntărilor revoluționare olanchoane",
+        "Altitudinea este de aproximativ 400 de metri deasupra mării",
+        "Are o populație de peste 20.000 de locuitori",
+        "Creșterea bovinelor, a cabalinelor și producția de lactate sunt stâlpii economici",
+        "Biserica locală, veche de secole, este un monument central al așezării"
+      ]
+    },
+    {
+      "id": "belen-gualcho-cities-v2",
+      "descriptionAdvanced": "Belén Gualcho este o bijuterie istorică și culturală ascunsă la mare altitudine în departamentul Ocotepeque. Faimos pentru climatul său rece și peisajele sale rurale pitorești, orașul a fost locuit de secole de comunități indigene Lenca și Chorti, cultura lor rămânând o parte integrantă a vieții cotidiene. Piesa sa de rezistență este biserica colonială \"La Trinidad\", una dintre cele mai vechi și frumos ornamentate din lemn din întreaga țară, atrăgând fotografi și istorici deopotrivă. Economia este pur agrară, concentrată pe cultivarea legumelor, a cafelei și a merelor pe terase muntoase. Piețele tradiționale duminicale sunt vibrante, pline de produse locale și textile artizanale, oferind o privire autentică asupra unuia dintre cele mai bine conservate sate de munte din America Centrală.",
+      "factsAdvanced": [
+        "Așezat la o altitudine ridicată, aproape de 1.600 de metri în munții Celaque",
+        "Unul dintre cele mai vechi și mai bine conservate orașe coloniale din regiune",
+        "Biserica sa colonială are influențe de arhitectură Lenca și spaniolă",
+        "Locuit majoritar de descendenți direcți ai populațiilor indigene",
+        "Economia depinde de cultivarea cafelei, legumelor și pomicultură",
+        "Cunoscut pentru clima sa rece și deseori cețoasă",
+        "Reprezintă un punct excelent de intrare pentru alpiniștii ce explorează Celaque"
+      ]
+    },
+    {
+      "id": "san-antonio-de-cortes-cities-v2",
+      "descriptionAdvanced": "San Antonio de Cortés este un municipiu așezat pe coline, situat deasupra Văii Sula, la granița dintre departamentul Cortés și zona Lacului Yojoa. Beneficiind de o altitudine superioară celei din văi, orașul are un climat mai răcoros, excelent pentru cultivarea cafelei și a arborilor de cacao. Locația sa oferă priveliști uimitoare asupra văii industriale aflate dedesubt, funcționând ca o retragere mai pașnică, cu caracter rural, departe de marile orașe, deși rămâne puternic interconectată cu economia acestora. Pe lângă cafea, comunitatea produce fructe și legume pentru piețele din San Pedro Sula. San Antonio se mândrește cu siguranța sa, ospitalitatea locuitorilor și cu mici situri arheologice și peșteri aflate în împrejurimi, care adaugă o dimensiune ecoturistică zonei.",
+      "factsAdvanced": [
+        "Așezare pe colinele de deasupra zonei industriale Valle de Sula",
+        "Oferă un climat semnificativ mai răcoros decât câmpiile din jur",
+        "Primește statutul administrativ de municipiu în anul 1830",
+        "Populație estimată la peste 22.000 de locuitori",
+        "Cultivarea cafelei de înaltă calitate reprezintă baza economiei locale",
+        "Regiunea din jur include mai multe peșteri naturale mai puțin explorate",
+        "Servind ca „balcon natural”, oferă perspective spectaculoase asupra departamentului"
+      ]
+    },
+    {
+      "id": "quimistan-cities-v2",
+      "descriptionAdvanced": "Quimistán este cel mai extins municipiu din departamentul Santa Bárbara, o regiune de un dinamism comercial remarcabil datorită proximității sale față de frontiera guatemaleză și zona Sula. Orașul este traversat de autostrada internațională CA-4, facilitând un trafic intens de bunuri. Din punct de vedere geografic, Valea Quimistán este recunoscută pentru fertilitatea sa, susținând vaste plantații de cafea, ferme de creștere a vitelor de rasă și culturi de trestie de zahăr. O atracție economică unică în istoria zonei o reprezintă culturile de tutun și plantațiile comerciale. Orașul cunoaște o creștere demografică rapidă, devenind un pol de atracție pentru afaceri și investiții, consolidându-se ca o verigă esențială în rețeaua comercială din vestul Hondurasului.",
+      "factsAdvanced": [
+        "Cel mai mare municipiu ca suprafață din departamentul Santa Bárbara",
+        "Așezat pe autostrada principală de vest, un coridor vital pentru comerț",
+        "Bazinul hidrografic al râului Chamelecón traversează teritoriul municipiului",
+        "Populația a depășit 50.000 de locuitori, înregistrând o creștere accelerată",
+        "Fondat înainte de perioada colonială, cu rădăcini ca rută comercială indigenă",
+        "Cunoscut istoric pentru producția de tutun și cafea",
+        "Altitudinea medie a așezării este de aproximativ 200 de metri"
+      ]
+    },
+    {
+      "id": "iriona-cities-v2",
+      "descriptionAdvanced": "Iriona este cel mai izolat și mai extins municipiu din departamentul Colón, situat de-a lungul coastei de nord a Mării Caraibelor și în adâncurile regiunii La Mosquitia. Teritoriul său cuprinde plaje sălbatice extinse, lagune, zone umede și păduri tropicale dense, formând granița naturală cu departamentul Gracias a Dios. Orașul este o moștenire a diversității culturale, fiind populat în principal de comunități afro-descendente Garifuna și grupuri indigene Pech și Miskito, alături de populația ladino. Din cauza lipsei infrastructurii rutiere moderne, economia depinde covârșitor de pescuit, agricultura de subzistență pe soluri dificile și transportul pe calea apei. Izolarea sa îl face un bastion al culturilor tradiționale nealterate și o zonă de o importanță ecologică critică pentru conservarea biodiversității honduriene.",
+      "factsAdvanced": [
+        "Cel mai mare municipiu din departamentul Colón din punct de vedere al suprafeței",
+        "Găzduiește importante sate afro-caribiene de-a lungul coastei nordice",
+        "O mare parte din teritoriul său este acoperit de păduri tropicale neatinse",
+        "Fără conexiuni rutiere asfaltate, transportul fluvial și maritim fiind vital",
+        "Populație estimată la peste 20.000 de locuitori",
+        "Include comunități ale populației indigene Pech și Miskito",
+        "Așezarea principală, Iriona Puerto, se află pe coastă, la o altitudine de 0 metri"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "filingue-cities-v2",
+      "descriptionAdvanced": "Filingué, eingebettet in die weiten und trockenen Steppen der Region Tillabéri, bewahrt auf beeindruckende Weise den ursprünglichen Lebensstil der traditionellen Sahel-Bewohner. Die Region ist durch das Dallol Bosso, ein altes, ausgetrocknetes Flusstal, geprägt, das während der kurzen Regenzeit aufblüht und fruchtbares Land für die Landwirtschaft bietet. Hirse und Sorghum bilden die Basis der lokalen Ernährung, während die Viehzucht durch nomadische Fulani-Gruppen das wirtschaftliche Rückgrat stärkt. Filingué zeichnet sich durch seinen starken Gemeinschaftssinn aus und gilt als wichtiges Reservoir traditionellen agrarischen Wissens im Angesicht wachsender klimatischer Herausforderungen.",
+      "factsAdvanced": [
+        "Eingebettet in die trockenen Steppen der Tillabéri-Region.",
+        "Geprägt durch das ausgetrocknete Flusstal Dallol Bosso.",
+        "Wichtiger Produzent von Hirse und Sorghum.",
+        "Rückgrat der Wirtschaft ist die nomadische Viehzucht.",
+        "Bewahrt den ursprünglichen Lebensstil der Sahel-Bewohner.",
+        "Zentrum für traditionelles agrarisches Wissen."
+      ]
+    },
+    {
+      "id": "bouza-cities-v2",
+      "descriptionAdvanced": "Bouza liegt inmitten einer rauen und steinigen Landschaft in der Region Tahoua, bietet jedoch dank innovativer lokaler Wasserprojekte erstaunliche grüne Rückzugsorte. Die Gemeinde hat in den letzten Jahrzehnten intensiv an der Bekämpfung der Wüstenbildung gearbeitet, indem sie Terrassierungstechniken und Aufforstungsprogramme implementierte. Diese Bemühungen haben nicht nur das lokale Mikroklima verbessert, sondern auch die Erträge beim Anbau von Zwiebeln und Getreide gesteigert. Bouza ist heute ein leuchtendes Beispiel für gemeinschaftliche Resilienz und nachhaltiges Landmanagement in einer der anspruchsvollsten Umgebungen der Erde.",
+      "factsAdvanced": [
+        "Liegt in einer steinigen Landschaft der Region Tahoua.",
+        "Bekannt für innovative lokale Wasser- und Aufforstungsprojekte.",
+        "Leuchtendes Beispiel im Kampf gegen Wüstenbildung.",
+        "Steigerte Erträge von Zwiebeln und Getreide deutlich.",
+        "Nutzt traditionelle Terrassierungstechniken.",
+        "Symbol für gemeinschaftliche Resilienz im Sahel."
+      ]
+    },
+    {
+      "id": "keita-cities-v2",
+      "descriptionAdvanced": "Keita ist weltweit bekannt geworden durch das ambitionierte 'Keita-Projekt', eine großangelegte, von Italien unterstützte Initiative zur ländlichen Entwicklung und Aufforstung, die in den 1980er Jahren begann. Vor diesem Projekt drohte die Stadt fast vollständig von der Wüste verschluckt zu werden. Durch den Bau tausender kleiner Dämme und das Pflanzen von Millionen von Bäumen konnte die Bodenerosion massiv verlangsamt werden. Heute ist Keita ein lebendiges Symbol für ökologische Wiederbelebung. Die verbesserte Wasserhaltung ermöglichte eine Rückkehr zu produktiver Landwirtschaft und sicherte das Überleben der lokalen Gemeinschaft in einer von extremen Dürren geprägten Region.",
+      "factsAdvanced": [
+        "Weltbekannt durch das ökologische 'Keita-Projekt'.",
+        "Kampf gegen Bodenerosion durch Bau kleiner Dämme.",
+        "Millionen Bäume wurden seit den 1980er Jahren gepflanzt.",
+        "Symbol für erfolgreiche ökologische Wiederbelebung.",
+        "Ermöglichte die Rückkehr produktiver Landwirtschaft.",
+        "Gerettet vor dem drohenden Verschlucken durch die Wüste."
+      ]
+    },
+    {
+      "id": "tchirozerine-cities-v2",
+      "descriptionAdvanced": "Tchirozérine, gelegen in den Ausläufern des Aïr-Gebirges unweit von Agadez, ist eine wichtige Industriestadt, die primär von der intensiven Kohleförderung lebt. Die hier abgebaute Kohle wird hauptsächlich genutzt, um das gigantische Kraftwerk Sonichar zu befeuern, welches wiederum den lebensnotwendigen Strom für die Uranminen in Arlit sowie für große Teile der Region Agadez liefert. Trotz ihres industriellen Charakters ist die Stadt tief in die traditionellen Territorien der Tuareg eingebettet. Tchirozérine stellt somit einen faszinierenden Kontrast zwischen moderner Energieinfrastruktur und jahrhundertealtem nomadischen Erbe dar.",
+      "factsAdvanced": [
+        "Gelegen in den Ausläufern des Aïr-Gebirges nahe Agadez.",
+        "Zentrum der nigrischen Kohleförderung.",
+        "Versorgt das wichtige Sonichar-Kraftwerk mit Brennstoff.",
+        "Liefert Energie für den Uranbergbau in Arlit.",
+        "Faszinierender Kontrast aus Industrie und Tuareg-Kultur.",
+        "Wirtschaftlich essenziell für die gesamte Nordregion."
+      ]
+    },
+    {
+      "id": "say-cities-v2",
+      "descriptionAdvanced": "Say ist ein tiefreligiöses und historisch bedeutsames Zentrum am Ufer des Nigers, südlich der Hauptstadt Niamey. Gegründet im 19. Jahrhundert, etablierte sich Say schnell als eine der wichtigsten Hochburgen islamischer Gelehrsamkeit in ganz Westafrika. Die Stadt lockt mit ihren zahlreichen alten Moscheen und Koranschulen noch heute Gelehrte und Gläubige aus der gesamten Sahelzone an. Wirtschaftlich ist die Ansiedlung von Landwirtschaft und Fischerei geprägt, wobei die Nähe zum Fluss ganzjährig Bewässerung ermöglicht. Die ruhige, spirituelle Atmosphäre der Stadt hebt sich deutlich vom Trubel der nahegelegenen Hauptstadt ab.",
+      "factsAdvanced": [
+        "Tiefreligiöses Zentrum südlich von Niamey.",
+        "Direkt am malerischen Ufer des Nigers gelegen.",
+        "Historische Hochburg islamischer Gelehrsamkeit im 19. Jh.",
+        "Lockt Gläubige mit alten Moscheen und Koranschulen.",
+        "Wirtschaft geprägt von ganzjähriger Fischerei und Landwirtschaft.",
+        "Bewahrt eine ruhige und spirituelle Atmosphäre."
+      ]
+    },
+    {
+      "id": "madarounfa-cities-v2",
+      "descriptionAdvanced": "Madarounfa ist ein malerisches Dorf in der fruchtbaren Region Maradi, das vor allem durch seine Lage nahe einem mystischen See bekannt ist, der in der Mythenwelt der lokalen Hausa-Stämme eine zentrale Rolle spielt. Der See ist nicht nur eine wichtige Wasserquelle für die intensive Landwirtschaft, sondern auch ein Ort traditioneller Rituale, bei denen den Geistern des Wassers gehuldigt wird. Die landwirtschaftliche Produktion konzentriert sich auf nährstoffreiches Gemüse und Hirse, was Madarounfa zu einem wichtigen Lieferanten für die städtischen Märkte Maradis macht. Das Dorf verkörpert die tiefe Verbindung zwischen Natur und traditionellem Glauben.",
+      "factsAdvanced": [
+        "Malerisches Dorf in der fruchtbaren Region Maradi.",
+        "Bekannt für einen lokal stark mystifizierten See.",
+        "Ort traditioneller Hausa-Rituale und Wassergeister-Kulte.",
+        "See dient als essenzielle Quelle für Bewässerung.",
+        "Wichtiger Lieferant von Gemüse für die Märkte Maradis.",
+        "Verkörpert die Verbindung zwischen Natur und Glauben."
+      ]
+    },
+    {
+      "id": "guidan-roumdji-cities-v2",
+      "descriptionAdvanced": "Versteckt zwischen schier endlosen Äckern im südlichen Zentralniger, hat sich Guidan Roumdji zu einer aufstrebenden und wirtschaftlich starken Kommune entwickelt. Als wichtiger landwirtschaftlicher Versorger der Provinz stützt sich der Ort auf den intensiven Anbau von Erdnüssen, Sorghum und Augenbohnen. Die Gemeinde profitiert stark von internationalen Hilfsprogrammen, die in moderne Lagerhäuser und Bewässerungstechniken investiert haben, um die Ernteverluste nach der Saison zu minimieren. Die dynamischen Wochenmärkte von Guidan Roumdji ziehen Zwischenhändler aus dem ganzen Land an und stärken die lokale Wirtschaftskraft enorm.",
+      "factsAdvanced": [
+        "Aufstrebende Kommune im südlichen Zentralniger.",
+        "Eingebettet in schier endlose landwirtschaftliche Äcker.",
+        "Intensiver Anbau von Erdnüssen, Sorghum und Augenbohnen.",
+        "Profitiert von modernen Lagerhäusern und Bewässerung.",
+        "Wichtiger landwirtschaftlicher Versorger der Provinz.",
+        "Dynamische Märkte ziehen landesweit Zwischenhändler an."
+      ]
+    },
+    {
+      "id": "maine-soroa-cities-v2",
+      "descriptionAdvanced": "Maïné-Soroa ist eine östliche Ansiedlung in der Region Diffa, die sich durch ihre strategische Nähe zum Fluss Komadougou-Yobé auszeichnet. Die fruchtbaren Uferzonen des Flusses ermöglichen eine intensive Landwirtschaft in einer ansonsten eher trockenen Umgebung, wobei besonders Pfeffer und Reis im Fokus stehen. Die Stadt ist zudem bekannt für ihre Pferdezucht und ihre farbenfrohen Reitfestivals. In der jüngeren Vergangenheit diente Maïné-Soroa als Zufluchtsort für Gemeinschaften, die vor Unruhen im grenzübergreifenden Tschadsee-Becken geflohen sind, was zu einem raschen, aber herausfordernden Bevölkerungswachstum geführt hat.",
+      "factsAdvanced": [
+        "Östliche Ansiedlung in der Region Diffa.",
+        "Liegt am fruchtbaren Fluss Komadougou-Yobé.",
+        "Spezialisiert auf intensiven Anbau von Pfeffer und Reis.",
+        "Bekannt für Pferdezucht und farbenfrohe Reitfestivals.",
+        "Wichtiger Zufluchtsort für Menschen aus dem Tschadsee-Becken.",
+        "Verzeichnet ein rasches demografisches Wachstum."
+      ]
+    },
+    {
+      "id": "tchin-tabaraden-cities-v2",
+      "descriptionAdvanced": "Tchin-Tabaraden fungiert als entscheidendes administratives Zentrum im Herzen der nomadenreichen Azawagh-Region. Dieser entlegene Ort bietet lebenswichtige Infrastruktur wie Brunnen, Tierarztstationen und mobile Schulen in der sonst fast grenzenlosen, trockenen Sahel-Weite. Jeden Oktober verwandelt sich die Umgebung der Stadt, da Tausende von Tuareg- und Wodaabe-Hirten nach der Regenzeit hier zusammenkommen, um ihre großen Viehherden zu tränken und die traditionellen 'Cure Salée'-Feste zu feiern. Tchin-Tabaraden ist somit nicht nur ein administrativer Knotenpunkt, sondern das pulsierende kulturelle Herz der nomadischen Gemeinschaften Nigers.",
+      "factsAdvanced": [
+        "Administratives Zentrum der Azawagh-Region.",
+        "Bietet lebenswichtige Infrastruktur für Nomaden.",
+        "Verfügt über tiefe Brunnen und Tierarztstationen.",
+        "Sammelpunkt für Tuareg- und Wodaabe-Hirten.",
+        "Bedeutender Ort für die jährlichen 'Cure Salée'-Feste.",
+        "Pulsierendes kulturelles Herz der Nomaden Nigers."
+      ]
+    },
+    {
+      "id": "goudoumaria-cities-v2",
+      "descriptionAdvanced": "Goudoumaria ist eine isolierte, kleine Wüstenkommune tief im Osten Nigers, die sich durch eine erstaunliche Spezialisierung in einer feindlichen Umgebung auszeichnet. Die Oasen rund um das Dorf bieten optimale Bedingungen für den Dattelanbau, der das wirtschaftliche Rückgrat der lokalen Bevölkerung darstellt. Die geernteten Datteln gelten als besonders süß und widerstandsfähig gegen den Transport und werden auf den großen Märkten in Zinder und Agadez hoch geschätzt. Die Architektur von Goudoumaria ist geprägt von dicken Lehmwänden, die extremen Temperaturschwankungen zwischen heißen Tagen und eiskalten Nächten standhalten.",
+      "factsAdvanced": [
+        "Isolierte kleine Wüstenkommune tief im Osten Nigers.",
+        "Verfügt über Oasen mit optimalen Bedingungen für Dattelanbau.",
+        "Datteln gelten als überregional süß und transportfähig.",
+        "Wirtschaftliches Rückgrat ist der Dattelhandel mit Zinder.",
+        "Architektur nutzt dicke Lehmwände zur Temperaturregulierung.",
+        "Musterbeispiel für Anpassung an feindliche Wüstenumgebungen."
+      ]
+    },
+    {
+      "id": "dungass-cities-v2",
+      "descriptionAdvanced": "Dungass ist eine rasch wachsende Gemeinde in der Region Zinder, die stark von einer anhaltenden landwirtschaftlichen Expansion geprägt ist. Die jüngsten Investitionen in tiefe Brunnen und verbesserte Saatgutsorten haben Dungass zu einem echten Magneten für junge Familien gemacht, die nach wirtschaftlicher Stabilität suchen. Die Felder rings um die Stadt produzieren im großen Maßstab Hirse und Sesam, was Dungass zu einem wichtigen Exporteur in die benachbarten Regionen Nigerias macht. Der Optimismus in der Stadt ist spürbar, getragen von einer starken lokalen Gemeinschaftsführung, die Bildung und Infrastruktur priorisiert.",
+      "factsAdvanced": [
+        "Rasch wachsende Gemeinde in der Region Zinder.",
+        "Geprägt von starker landwirtschaftlicher Expansion.",
+        "Profitiert von neuen Tiefbrunnen und modernem Saatgut.",
+        "Produziert im großen Maßstab Hirse und Sesam.",
+        "Wichtiger Agrar-Exporteur nach Nigeria.",
+        "Magnet für junge Familien durch wirtschaftliche Stabilität."
+      ]
+    },
+    {
+      "id": "kollo-cities-v2",
+      "descriptionAdvanced": "Kollo liegt nur einen Steinwurf von der geschäftigen Hauptstadt Niamey entfernt, hat es jedoch geschafft, seinen charmanten, dörflichen und entspannten Charakter vollständig zu bewahren. Die Stadt liegt ideal am Niger und ist umgeben von üppigen Obstgärten und weitläufigen Gemüsefeldern, die die nahegelegene Hauptstadt mit frischen Lebensmitteln versorgen. Am Wochenende entfliehen viele Hauptstadtbewohner der Hitze Niameys, um die Ruhe der Flussufer in Kollo zu genießen. Die Stadt beheimatet außerdem bedeutende Forschungsinstitute für Landwirtschaft, die sich der Zucht trockenresistenter Pflanzenarten für den gesamten Sahel widmen.",
+      "factsAdvanced": [
+        "Liegt in unmittelbarer Nähe zur Hauptstadt Niamey.",
+        "Bewahrt einen charmanten, dörflichen und entspannten Charakter.",
+        "Umgeben von üppigen Obstgärten und Gemüsefeldern.",
+        "Wichtiger Frischversorger für die Märkte der Hauptstadt.",
+        "Beliebtes Wochenend-Ausflugsziel für Stadtbewohner.",
+        "Beheimatet wichtige landwirtschaftliche Forschungsinstitute."
+      ]
+    },
+    {
+      "id": "ayorou-cities-v2",
+      "descriptionAdvanced": "Ayorou ist eine der malerischsten Siedlungen Nigers, die teilweise auf mehreren kleinen Inseln direkt im Fluss Niger erbaut wurde. Die Stadt ist vor allem für ihren spektakulären bunten Sonntagsmarkt bekannt, bei dem Händler der Zarma, Tuareg und Fulani per Piroge (traditionelles Kanu) anreisen, um Vieh, handgefertigte Töpferwaren und frischen Fisch auszutauschen. Ayorou gilt auch als herausragendes Ziel für Flussexpeditionen, bei denen man mit etwas Glück Herden von Flusspferden beobachten kann. Die einzigartige Symbiose aus flussbasierter Wirtschaft und traditioneller Architektur macht Ayorou zu einem kulturellen Juwel.",
+      "factsAdvanced": [
+        "Malerisch auf kleinen Inseln im Fluss Niger erbaut.",
+        "Berühmt für seinen spektakulären, bunten Sonntagsmarkt.",
+        "Händler reisen traditionell mit Pirogen (Kanus) an.",
+        "Wichtiger Handelsplatz für Zarma, Tuareg und Fulani.",
+        "Herausragendes Ziel für Nilpferd-Beobachtungen.",
+        "Zeigt einzigartige Symbiose aus Flusswirtschaft und Kultur."
+      ]
+    },
+    {
+      "id": "bermo-cities-v2",
+      "descriptionAdvanced": "Bermo, gelegen inmitten der unendlichen Weiten der nigrischen Halbwüste, fungiert als unverzichtbarer Knotenpunkt und Rastplatz für die wandernden Fulani-Hirten und ihre enormen Zebu-Herden. Die Gemeinde hat sich ganz auf die Bedürfnisse der nomadischen Bevölkerung spezialisiert und bietet ausgedehnte Trinkwasserbecken sowie spezialisierte Veterinärdienste, die für das Überleben des Viehs während der trockenen Monate unerlässlich sind. Trotz seiner Abgeschiedenheit herrscht in Bermo eine bemerkenswerte kulturelle Dynamik, insbesondere während der Regenzeit, wenn die Herden zurückkehren und die lokalen Gemeinschaften traditionelle Feste mit Musik und Poesie feiern.",
+      "factsAdvanced": [
+        "Gelegen in den weiten Ebenen der nigrischen Halbwüste.",
+        "Unverzichtbarer Knotenpunkt für wandernde Fulani-Hirten.",
+        "Bietet ausgedehnte Trinkwasserbecken für Zebu-Herden.",
+        "Spezialisiert auf veterinärmedizinische Nomaden-Dienste.",
+        "Belebt sich extrem während der erlösenden Regenzeit.",
+        "Ort für traditionelle Feste voller Musik und Poesie."
+      ]
+    },
+    {
+      "id": "banibangou-cities-v2",
+      "descriptionAdvanced": "Banibangou ist eine kleine, widerstandsfähige Grenzsiedlung im Norden der Tillabéri-Region, die mutig mit extrem rauen klimatischen Bedingungen und geopolitischen Herausforderungen kämpft. Die lokale Wirtschaft stützt sich auf subsistenzbasierten Trockenfeldbau und marginale Viehzucht. Die Bewohner, überwiegend der Djerma-Ethnie angehörend, sind bekannt für ihre tiefe Verbundenheit mit dem Land und ihre komplexe traditionelle Selbstverwaltung. Banibangou ist ein Ort von stiller Ausdauer, an dem alte Bräuche und Überlebensstrategien von Generation zu Generation weitergegeben werden, um der fortschreitenden Desertifikation entgegenzuwirken.",
+      "factsAdvanced": [
+        "Kleine, widerstandsfähige Grenzsiedlung in Tillabéri.",
+        "Kämpft mit extrem rauen klimatischen Bedingungen.",
+        "Wirtschaft basiert auf subsistenzbasiertem Trockenfeldbau.",
+        "Bewohner gehören überwiegend der Djerma-Ethnie an.",
+        "Verfügt über ein komplexes, traditionelles Selbstverwaltungssystem.",
+        "Symbol für stille Ausdauer gegen Desertifikation."
+      ]
+    },
+    {
+      "id": "ngourti-cities-v2",
+      "descriptionAdvanced": "N'gourti ist eine der isoliertesten Gemeinden Nigers, tief in den weiten, gnadenlosen östlichen Steppen verloren. Die Siedlung verlässt sich fast ausschließlich auf uralte, bewährte Überlebensstrategien, um in einer Umgebung zu gedeihen, die fast das ganze Jahr über von extremer Dürre geplagt ist. Die Bewohner sind Experten darin, tiefes Grundwasser zu lokalisieren und widerstandsfähige Kamele zu züchten, die wochenlang ohne Wasser auskommen. Die Architektur besteht aus temporären und semi-permanenten Unterständen, die schnell abgebaut und an klimatische Veränderungen angepasst werden können, was die Flexibilität der Gemeinschaft unterstreicht.",
+      "factsAdvanced": [
+        "Eine der isoliertesten Gemeinden im tiefen Osten Nigers.",
+        "Liegt in einer von extremer Dürre geplagten Steppe.",
+        "Verlässt sich auf uralte Überlebensstrategien in der Wüste.",
+        "Spezialisiert auf tiefe Brunnen und Kamelzucht.",
+        "Nutzt temporäre und semi-permanente Architektur.",
+        "Gemeinschaft zeichnet sich durch extreme Flexibilität aus."
+      ]
+    },
+    {
+      "id": "tassara-cities-v2",
+      "descriptionAdvanced": "Tassara fungiert als eine entscheidende Station auf den weiten Nomadenrouten im hohen Norden Nigers und dient als seltener Zufluchtsort im endlosen Sandmeer. Der Ort existiert hauptsächlich, um die transsaharischen Bewegungen der Tuareg-Familien zu unterstützen, und bietet neben Wasserstellen auch kleine Handelsposten für notwendige Grundgüter wie Tee, Salz und Hirse. Trotz der unwirtlichen Bedingungen ist Tassara ein wichtiger sozialer Treffpunkt, an dem Nachrichten zwischen den oft monatelang getrennten Karawanen ausgetauscht werden. Der Sternenhimmel über Tassara, völlig frei von Lichtverschmutzung, ist von atemberaubender Klarheit.",
+      "factsAdvanced": [
+        "Entscheidende Station auf nordnigrischen Nomadenrouten.",
+        "Seltener Zufluchtsort im endlosen Sahara-Sandmeer.",
+        "Unterstützt transsaharische Bewegungen der Tuareg.",
+        "Bietet kleine Handelsposten für Tee, Salz und Hirse.",
+        "Wichtiger sozialer Treffpunkt für Nachrichtenaustausch.",
+        "Berühmt für extrem klaren, sternenreichen Nachthimmel."
+      ]
+    },
+    {
+      "id": "bankilare-cities-v2",
+      "descriptionAdvanced": "Bankilaré ist eine kleine, aber äußerst dynamische ländliche Gemeinde im Westen des Landes. Die Lebendigkeit des Ortes wird jeden Freitag unter Beweis gestellt, wenn der große Viehmarkt stattfindet und Händler aus den Nachbarländern Mali und Burkina Faso anlockt. Die Landschaft um Bankilaré besteht aus sanften Tälern, in denen während der kurzen Regenperiode kleine Wasserläufe entstehen, die den Anbau von Bohnen und Melonen erlauben. Die Stadt ist ein exzellentes Beispiel für die grenzüberschreitende wirtschaftliche Integration, die in der Sahelzone seit Jahrhunderten traditionell praktiziert wird.",
+      "factsAdvanced": [
+        "Dynamische ländliche Gemeinde im Westen Nigers.",
+        "Berühmt für seinen großen, wöchentlichen Viehmarkt.",
+        "Zieht Händler aus Mali und Burkina Faso an.",
+        "Landschaft aus sanften Tälern und saisonalen Wasserläufen.",
+        "Ermöglicht den lokalen Anbau von Bohnen und Melonen.",
+        "Beispiel für grenzüberschreitende wirtschaftliche Integration."
+      ]
+    },
+    {
+      "id": "tillia-cities-v2",
+      "descriptionAdvanced": "Tillia liegt tief im Nordwesten Nigers in der Region Tahoua und ist eine abgelegene Siedlung, die heroisch der vorrückenden feindlichen Wüstenlandschaft trotzt. Der Ort verdankt sein Überleben einer Reihe von uralten, artesischen Quellen, die das ganze Jahr über frisches Wasser liefern. Um diese Quellen hat sich ein komplexes System von kleinen Gärten gebildet, in denen Datteln und hitzeresistentes Gemüse angebaut werden. Für die vorbeiziehenden Karawanen und Nomaden der Azawagh-Senke ist Tillia nicht nur ein logistischer Lebensretter, sondern auch ein Ort tiefen kulturellen Austauschs und der Rast.",
+      "factsAdvanced": [
+        "Abgelegene Siedlung im tiefen Nordwesten der Tahoua-Region.",
+        "Trotzt der vorrückenden feindlichen Wüstenlandschaft.",
+        "Überleben basiert auf uralten, artesischen Quellen.",
+        "Komplexes Gartensystem für Datteln und hitzeresistentes Gemüse.",
+        "Logistischer Lebensretter für Nomaden der Azawagh-Senke.",
+        "Wichtiger Ort für kulturellen Austausch und Rast."
+      ]
+    },
+    {
+      "id": "belbedji-cities-v2",
+      "descriptionAdvanced": "Belbédji präsentiert sich als eine standhafte agrarische Bastion in den trockenen, weiten Ebenen der Region Zinder. Das Dorf steht landesweit für bemerkenswerte landwirtschaftliche Ausdauer, da die Bauern hier traditionelle 'Zaï'-Pflanzlöcher nutzen – eine Technik, die Regenwasser auffängt und direkt zu den Wurzeln der Hirsepflanzen leitet. Diese Anpassungsfähigkeit hat es Belbédji ermöglicht, trotz zunehmender klimatischer Herausforderungen stets ausreichend Nahrung zu produzieren. Die starke soziale Kohäsion der Gemeinde spiegelt sich in gemeinsamen Ernte-Aktionen und gemeinschaftlich gepflegten Getreidespeichern wider, die Hungersnöte erfolgreich verhindern.",
+      "factsAdvanced": [
+        "Standhafte agrarische Bastion in der trockenen Region Zinder.",
+        "Bekannt für bemerkenswerte landwirtschaftliche Ausdauer.",
+        "Nutzt traditionelle 'Zaï'-Pflanzlöcher zur Wasserspeicherung.",
+        "Produziert trotz Dürren kontinuierlich Nahrungsmittel.",
+        "Starke soziale Kohäsion bei gemeinsamen Ernte-Aktionen.",
+        "Besitzt gemeinschaftlich gepflegte, präventive Getreidespeicher."
+      ]
+    },
+    {
+      "id": "iferouane-cities-v2",
+      "descriptionAdvanced": "Tief im Herzen des majestätischen Aïr-Gebirges verborgen, ist Iférouane eine wahrhaft verzauberte Oase, die Reisende mit ihren üppigen, schattigen Gärten überrascht. Der Ort profitiert von unterirdischen Wasseradern, die aus den felsigen Bergmassiven gespeist werden, und ermöglicht so den Anbau von Granatäpfeln, Trauben und Zitrusfrüchten in der absoluten Wüste. Historisch war Iférouane ein Rückzugsort für Karawanenführer und ist heute ein kulturelles Zentrum der Tuareg, die hier traditionelles Silberschmiedehandwerk in höchster Perfektion betreiben. Die atemberaubende vulkanische Kulisse macht das Dorf zu einem der landschaftlich schönsten Orte Nigers.",
+      "factsAdvanced": [
+        "Verborgene, verzauberte Oase im majestätischen Aïr-Gebirge.",
+        "Profitiert von unterirdischen Wasseradern aus Bergmassiven.",
+        "Ermöglicht den Anbau von Granatäpfeln und Zitrusfrüchten.",
+        "Kulturelles Zentrum der Tuareg-Nomaden.",
+        "Berühmt für hochperfektes traditionelles Silberschmiedehandwerk.",
+        "Umgeben von atemberaubender vulkanischer Bergkulisse."
+      ]
+    },
+    {
+      "id": "bilma-cities-v2",
+      "descriptionAdvanced": "Bilma, isoliert im Kaouar-Tal inmitten der gnadenlosen Ténéré-Wüste, ist in ganz Afrika legendär für seine jahrhundertealten Salzminen. Seit dem Mittelalter markiert dieser Ort den Endpunkt der historischen Karawanenrouten, bei denen Nomaden mit hunderten Kamelen anreisten, um das wertvolle Steinsalz gegen Getreide und Textilien einzutauschen. Die Salzgewinnung erfolgt noch heute nach alter Tradition in Verdunstungsbecken, die ein faszinierendes, schachbrettartiges Muster in der Wüste bilden. Bilma ist ein lebendes Museum des Transsaharahandels, das von einer kleinen, aber zutiefst stolzen Kanuri-Gemeinschaft erhalten wird.",
+      "factsAdvanced": [
+        "Isoliert im Kaouar-Tal der Ténéré-Wüste gelegen.",
+        "In ganz Afrika legendär für jahrhundertealte Salzminen.",
+        "Endpunkt historischer, mittelalterlicher Karawanenrouten.",
+        "Salz wird noch heute in traditionellen Verdunstungsbecken gewonnen.",
+        "Schachbrettartiges Muster der Becken prägt die Landschaft.",
+        "Lebendes Museum des historischen Transsaharahandels."
+      ]
+    },
+    {
+      "id": "fachi-cities-v2",
+      "descriptionAdvanced": "Völlig umgeben von wogenden Sandmeeren der Sahara, ist das kleine, ummauerte Dorf Fachi ein wahres Wunder menschlicher Überlebenskunst. Die Siedlung, die fast wie eine Festung gegen die Wüste wirkt, verdankt ihre Existenz einer einzigen, lebensspendenden Oase, um die sich die Dattelpalmen drängen. Historisch diente die massive Lehmmauer, die die Altstadt umgibt, als Schutz vor Plünderern und Wüstenstürmen. Heute ist Fachi ein friedlicher, aber isolierter Außenposten, in dem die Zeit stehen geblieben zu sein scheint und die Bewohner durch Dattelernte und Salzabbau ein genügsames Leben führen.",
+      "factsAdvanced": [
+        "Völlig umgeben von Sandmeeren der Sahara.",
+        "Ummauertes Dorf als Wunder menschlicher Überlebenskunst.",
+        "Existenz verdankt einer einzigen lebensspendenden Oase.",
+        "Massive Lehmmauer schützte einst vor Wüstenstürmen.",
+        "Bewohner leben ein genügsames Leben durch Dattelernte.",
+        "Wirkt wie ein Außenposten, an dem die Zeit stehen blieb."
+      ]
+    },
+    {
+      "id": "dirkou-cities-v2",
+      "descriptionAdvanced": "Dirkou ist die wichtigste Transitsiedlung auf den nördlichen Wüstenrouten und verbindet Niger direkt mit den alten Karawanenwegen nach Libyen. In jüngerer Zeit hat die Stadt eine hohe geopolitische Bedeutung erlangt und sich zu einem logistischen Drehkreuz für Transporte und Sicherheitskräfte entwickelt. Trotz des rauen Klimas herrscht in Dirkou aufgrund des ständigen Durchgangsverkehrs von Lastwagen, Händlern und Reisenden eine rastlose Betriebsamkeit. Umgeben von atemberaubenden, windgepeitschten Sanddünen, bietet der Ort eine raue, funktionale Ästhetik und dient als letzter großer Versorgungsposten vor der Überquerung der nördlichen Sahara.",
+      "factsAdvanced": [
+        "Wichtigste Transitsiedlung auf den nördlichen Wüstenrouten.",
+        "Verbindet Niger direkt mit historischen Wegen nach Libyen.",
+        "Logistisches Drehkreuz für Transporte und Sicherheitskräfte.",
+        "Rastlose Betriebsamkeit durch ständigen Durchgangsverkehr.",
+        "Umgeben von windgepeitschten, riesigen Sanddünen.",
+        "Letzter großer Versorgungsposten vor der nördlichen Sahara."
+      ]
+    },
+    {
+      "id": "ingall-cities-v2",
+      "descriptionAdvanced": "In'gall, ein historisches Rückzugsgebiet alter Sultane am Rande der Sahara, verzaubert Besucher mit seinen engen Gassen, jahrhundertealten Moscheen und faszinierenden Lehmruinen. Die Stadt ist das Epizentrum des jährlichen 'Cure Salée', dem Fest der Nomaden, bei dem sich tausende Tuareg und Wodaabe versammeln, um Eheschließungen zu verhandeln und das Ende der Regenzeit zu feiern. Die Region ist zudem berühmt für die nahegelegenen prähistorischen Dinosaurier-Ausgrabungsstätten und jahrtausendealten Felszeichnungen, die belegen, dass diese heute trockene Region einst ein blühendes, tierreiches Ökosystem war. In'gall ist ein Ort tiefer historischer und kultureller Resonanz.",
+      "factsAdvanced": [
+        "Historisches Rückzugsgebiet alter Sultane am Rande der Sahara.",
+        "Epizentrum des jährlichen Nomadenfestes 'Cure Salée'.",
+        "Berühmt für enge Gassen, alte Moscheen und Lehmruinen.",
+        "Sammelplatz für Tuareg und Wodaabe nach der Regenzeit.",
+        "Nahegelegene Ausgrabungsstätten bezeugen prähistorisches Leben.",
+        "Ort tiefer historischer und kultureller Resonanz."
+      ]
+    }
+  ]
+}

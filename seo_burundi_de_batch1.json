@@ -1,0 +1,135 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gikizi-relief-v2",
+      "descriptionAdvanced": "Das Gikizi-Massiv ist eine bemerkenswerte Erhebung in Burundi, die das zerklüftete Relief der Region prägt. Diese Formation besteht primär aus altem metamorphem Gestein und bietet einen Lebensraum für spezialisierte montane Flora. Aufgrund seiner Lage auf dem zentralen Hochplateau spielt es eine wesentliche Rolle im lokalen Wasserkreislauf, indem es Niederschläge für die umliegenden Täler einfängt. Geographie K7 — geologische Formationen Afrikas.",
+      "factsAdvanced": [
+        "Geologische Zusammensetzung: Metamorphes Grundgestein",
+        "Höhenlage: Über 1.800 Meter über dem Meeresspiegel",
+        "Klimazone: Tropisches Hochlandklima",
+        "Bedeutung: Wichtiger Wasserspeicher für die Region",
+        "Flora: Spezialisierte montane Graslandschaften",
+        "Lage: Zentrales burundisches Hochland"
+      ]
+    },
+    {
+      "id": "musongati-relief-v2",
+      "descriptionAdvanced": "Das Musongati-Massiv in der Provinz Rutana ist bekannt für seine komplexen geologischen Strukturen und signifikante mineralische Vorkommen. Die Landschaft ist von steilen Hängen und tief eingeschnittenen Tälern durchzogen, die durch intensive tropische Erosion geformt wurden. Die Region ist geographisch bedeutsam aufgrund ihrer Nähe zur Wasserscheide zwischen den Einzugsgebieten von Nil und Kongo. Geographie K7 — geologische Formationen Afrikas.",
+      "factsAdvanced": [
+        "Lage: Provinz Rutana",
+        "Geologische Besonderheit: Reiche Nickel- und Kobaltvorkommen",
+        "Erosionsformen: Steile Hänge und tiefe Schluchten",
+        "Wasserscheide: Nahe dem Nil-Kongo-Rücken",
+        "Topographie: Zerklüftetes Hochland",
+        "Höhe: Durchschnittlich 1.700 Meter über NN"
+      ]
+    },
+    {
+      "id": "gishora-relief-v2",
+      "descriptionAdvanced": "Gishora zeichnet sich durch ein sanft gewelltes Hochlandrelief aus, das das Herzstück der historischen königlichen Gebiete Burundis bildet. Diese sanften Hügel sind nicht csak geographisch prägend, sondern dienen seit Jahrhunderten als Standort für die traditionelle Architektur der Batare-Dynastie. Die Bodenbeschaffenheit besteht vorwiegend aus nährstoffreichem, verwittertem Basalt, was eine intensive landwirtschaftliche Nutzung ermöglicht. Geographie K7 — geologische Formationen Afrikas.",
+      "factsAdvanced": [
+        "Landschaftstyp: Sanfte Hügellandschaft",
+        "Boden: Nährstoffreicher verwitterter Basalt",
+        "Historische Bedeutung: Zentrum der Batare-Dynastie",
+        "Nutzung: Traditionelle Landwirtschaft",
+        "Topographie: Zentrales Hochplateau",
+        "Höhe: Rund 1.750 Meter"
+      ]
+    },
+    {
+      "id": "teza-relief-v2",
+      "descriptionAdvanced": "Die Region Teza ist Teil des zentralen Bergkamms und bekannt für ihre ausgeprägte vertikale Zonierung des Reliefs. Die kühlen Temperaturen in den höheren Lagen begünstigen den Anbau von hochwertigem Tee, der weit über die Grenzen Burundis hinaus bekannt ist. Geologisch ist die Gegend durch intensive tektonische Aktivitäten in der Vergangenheit geformt worden, was sich in der steilen Hanglage widerspiegelt. Geographie K7 — klimatische Einflüsse auf das Relief.",
+      "factsAdvanced": [
+        "Wirtschaftliche Bedeutung: Hauptanbaugebiet für Tee",
+        "Klima: Kühl-feuchtes Hochlandklima",
+        "Topographie: Steiler zentraler Bergkamm",
+        "Erosion: Hohe Niederschläge fördern Auswaschung",
+        "Lage: Im Bereich des westlichen Rift Valley",
+        "Höhe: Über 2.000 Meter"
+      ]
+    },
+    {
+      "id": "songa-relief-v2",
+      "descriptionAdvanced": "Songa liegt in einer geologisch hochinteressanten Zone Burundis, die von ausgedehnten Plateaus und markanten Felsformationen geprägt ist. Das Relief weist eine klare Staffelung auf, die durch die tektonischen Verschiebungen des Rift Valleys beeinflusst wurde. Die Region ist geographisch ein Knotenpunkt für den Zugang zu tiefer gelegenen Regionen im Süden. Geographie K7 — geologische Formationen Afrikas.",
+      "factsAdvanced": [
+        "Geomorphologie: Gestaffelte Plateaus",
+        "Tektonik: Einfluss des Rift Valley",
+        "Lage: Südliches Zentralhochland",
+        "Geologische Struktur: Tektonische Verwerfungen",
+        "Relief-Typ: Übergang von Plateau zu Tal",
+        "Höhe: Durchschnittlich 1.650 Meter"
+      ]
+    },
+    {
+      "id": "karonje-relief-v2",
+      "descriptionAdvanced": "Das Karonje-Massiv bietet eines der beeindruckendsten Reliefbilder im westlichen Teil Burundis, nahe dem Tanganjika-See. Die steil abfallenden Hänge zum Seebecken bilden eine natürliche Barriere und sind von einer dichten, feuchtigkeitsspeichernden Vegetation bedeckt. Diese vertikale Ausdehnung auf kurzer Distanz ist charakteristisch für die Ausläufer des Rift Valley-Grabens. Geographie K7 — geographische Barrieren und Relief.",
+      "factsAdvanced": [
+        "Lage: Westliches Rift Valley, nahe Tanganjika-See",
+        "Relief: Steilabfallende Hänge",
+        "Vegetation: Dichte Tropenwälder",
+        "Tektonische Entstehung: Grabenbruch-Aktivität",
+        "Höhenunterschied: Große Differenz auf kurzer Distanz",
+        "Maximale Höhe: Rund 1.900 Meter"
+      ]
+    },
+    {
+      "id": "cene-relief-v2",
+      "descriptionAdvanced": "Cene repräsentiert eine charakteristische Hügellandschaft des inneren Hochlands von Burundi. Das Relief ist durch zahlreiche kleine Täler und sanfte Hügelkuppen geprägt, die durch die Erosionskraft lokaler Flüsse geformt wurden. Die Region ist landwirtschaftlich stark geprägt, da das Relief eine gute Drainage und fruchtbare Böden bietet. Geographie K7 — Flussnetz und Oberflächenformung.",
+      "factsAdvanced": [
+        "Topographie: Sanfte Hügel und Täler",
+        "Oberflächenformung: Fluss-Erosion",
+        "Bodenqualität: Fruchtbar und gut drainiert",
+        "Landwirtschaft: Zentrum für Nahrungsmittelanbau",
+        "Geographische Lage: Inneres Hochland",
+        "Höhe: Rund 1.500 Meter"
+      ]
+    },
+    {
+      "id": "birira-relief-v2",
+      "descriptionAdvanced": "Birira liegt inmitten einer Region, die durch ein komplexes Netzwerk aus Hügeln und tief eingeschnittenen Tälern charakterisiert ist. Die geologische Stabilität dieser Region ist für die Besiedlung von großer Bedeutung. Durch die intensive Niederschlagsmenge ist das Relief ständiger Veränderung durch Erosion unterworfen, was zu sehr dynamischen Bodenformen führt. Geographie K7 — Oberflächenformung durch Niederschlag.",
+      "factsAdvanced": [
+        "Relief: Komplexes Hügel-Tal-System",
+        "Geodynamik: Starke Erosionsprozesse",
+        "Niederschlag: Einfluss auf Bodenformung",
+        "Besiedlungsgeschichte: Abhängig von geologischer Stabilität",
+        "Region: Zentrales Hochland",
+        "Höhe: Etwa 1.600 Meter"
+      ]
+    },
+    {
+      "id": "nkoma-relief-v2",
+      "descriptionAdvanced": "Das Nkoma-Massiv ist eine der markantesten Erhebungen im östlichen Burundi. Es besteht aus kompakten Gesteinsschichten, die der Erosion besser standhalten als die umliegenden weicheren Gesteine, wodurch es sich als markantes Relief aus der Umgebung abhebt. Diese geologische Widerstandsfähigkeit sorgt für die charakteristische steile Form des Berges. Geographie K7 — geologische Formationen Afrikas.",
+      "factsAdvanced": [
+        "Geologie: Erosionsresistente Gesteinsschichten",
+        "Relief: Markanter Einzelberg",
+        "Lage: Östliches Burundi",
+        "Topographie: Steiler Anstieg aus der Umgebung",
+        "Gesteinsart: Kompakte metamorphe Gesteine",
+        "Höhe: Über 1.850 Meter"
+      ]
+    },
+    {
+      "id": "mikuba-relief-v2",
+      "descriptionAdvanced": "Mikuba ist ein Gebiet, das durch ein Plateau-Relief mit vereinzelten steilen Erhebungen gekennzeichnet ist. Diese Struktur deutet auf eine komplexe geologische Geschichte hin, in der tektonische Anhebungen und anschließende Erosion das Landschaftsbild maßgeblich beeinflusst haben. Das Relief bietet hervorragende Aussichtspunkte über die weiten Ebenen des östlichen Burundis. Geographie K7 — tektonische Anhebungen und Erosion.",
+      "factsAdvanced": [
+        "Relief-Typ: Plateau mit Erhebungen",
+        "Geologische Entwicklung: Tektonische Anhebung",
+        "Aussicht: Panoramablick auf östliche Ebenen",
+        "Bedeutung: Landschaftsmerkmale durch Erosion",
+        "Region: Östliches Hochplateau",
+        "Höhe: Rund 1.700 Meter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "descriptionAdvanced": "The Cyrenaica Coast is a remarkably diverse stretch of the Mediterranean shoreline in eastern Libya, offering a stark contrast to the flat, arid beaches of Tripolitania. Where the Jabal al Akhdar mountains meet the sea, the coastline becomes dramatic, featuring steep limestone cliffs, hidden coves, and pristine, crystal-clear waters. This geography historically provided excellent natural harbors for ancient Greek colonists, such as Apollonia and Ptolemais. Today, the coast supports local fishing communities and remains largely untouched by heavy industrial development outside of major ports like Benghazi and Tobruk. Geography K7 — coastal geomorphology and ancient ports.",
+      "factsAdvanced": [
+        "A highly diverse, rugged coastal region in eastern Libya (Cyrenaica).",
+        "Features dramatic limestone cliffs where mountains meet the Mediterranean.",
+        "Contains numerous hidden coves and pristine, unspoiled beaches.",
+        "Historically provided ideal natural harbors for ancient Greek colonization.",
+        "Supports traditional, small-scale local fishing communities.",
+        "Remains largely free of the massive industrialization seen in the Gulf of Sidra."
+      ]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "descriptionAdvanced": "Wadi al-Farigh is a major ephemeral river system that cuts across the eastern desert, running generally east-to-west towards the Gulf of Sidra. Though entirely dry on the surface for most of the year, its deep, sandy bed acts as an immense subterranean sponge, retaining moisture from rare flash floods. This subsurface water supports a linear ecosystem of resilient desert acacia trees and hardy scrub grass, providing crucial grazing for nomadic Bedouin herds. Geologically, the wadi marks significant fault lines associated with the nearby Sirte Basin. Earth Science K7 — ephemeral desert hydrology.",
+      "factsAdvanced": [
+        "A massive, prominent dry river valley (wadi) located in the eastern desert.",
+        "Flows generally from the deep interior towards the Gulf of Sidra.",
+        "Functions as a massive subterranean sponge, retaining flash flood moisture.",
+        "Supports a vital, linear ecosystem of hardy acacia trees and scrub grass.",
+        "Provides critical, seasonal grazing routes for nomadic Bedouin herds.",
+        "Geologically linked to the tectonic fault lines of the Sirte Basin."
+      ]
+    },
+    {
+      "id": "jebel-tarhuna-nature-v2",
+      "descriptionAdvanced": "The Jebel Tarhuna is a low, rolling mountain range that forms the immediate southern backdrop to the coastal plains of Tripoli. While not as towering as the Nafusa Mountains, these hills are significantly cooler and receive more reliable rainfall than the adjacent Jafara plain. This favorable microclimate makes the Jebel Tarhuna one of the most agriculturally productive regions in Tripolitania, completely covered in vast olive orchards and vineyards. The hills also provide a massive, natural geographical defense for the capital against southern desert winds. Geography K7 — coastal foothills and microclimates.",
+      "factsAdvanced": [
+        "A low, rolling mountain range located southeast of Tripoli.",
+        "Forms a natural geographic barrier between the Jafara plain and the interior.",
+        "Enjoys a highly favorable, cooler microclimate with reliable rainfall.",
+        "Considered a premier agricultural zone, famous for vast olive orchards.",
+        "Provides a massive natural windbreak protecting the capital from Saharan sandstorms.",
+        "Historically a region of intense tribal independence and colonial resistance."
+      ]
+    },
+    {
+      "id": "ghat-mountains-nature-v2",
+      "descriptionAdvanced": "The Ghat Mountains, often referred to in conjunction with the adjacent Acacus range, form a spectacular, hyper-arid barrier along Libya's southwestern border with Algeria. The landscape is an alien world of towering, wind-eroded sandstone pillars, deep slot canyons, and massive, sweeping sand dunes that encroach upon the rock. This extreme terrain has isolated and protected the unique culture of the local Tuareg people for centuries. The harsh, jagged peaks provide an incredibly dramatic backdrop to the ancient oasis town of Ghat. Geography K8 — extreme desert geology and erosion.",
+      "factsAdvanced": [
+        "A highly dramatic, hyper-arid mountain range near the Algerian border.",
+        "Characterized by towering, wind-eroded sandstone pillars and deep canyons.",
+        "Massive Saharan sand dunes frequently encroach directly upon the rocky peaks.",
+        "Serves as an imposing natural border and protective barrier.",
+        "The ancestral, geographic heartland of the indigenous Tuareg people.",
+        "Provides a spectacular, jagged visual backdrop to the Ghat oasis."
+      ]
+    },
+    {
+      "id": "jebel-akdar-highlands-relief-v2",
+      "descriptionAdvanced": "The Jebel Akhdar Highlands represent a massive geographic anomaly in North Africa, a high-altitude plateau heavily forested with pine, cypress, and juniper. The relief here is complex, characterized by rolling, fertile crests that are deeply incised by steep, dramatic wadis carrying seasonal water to the Mediterranean. The highest peaks reach over 800 meters, forcing coastal clouds to dump significant rainfall over the region. This highly textured, elevated landscape is responsible for the unique, cool microclimate that makes Cyrenaican agriculture possible. Geography K8 — orographic lift and mountain relief.",
+      "factsAdvanced": [
+        "A massive, high-altitude limestone plateau dominating northern Cyrenaica.",
+        "Features complex relief with rolling crests cut by deep, steep wadis.",
+        "Elevations frequently exceed 800 meters above sea level.",
+        "The high relief causes 'orographic lift', resulting in heavy localized rainfall.",
+        "Supports dense Mediterranean forests completely absent elsewhere in Libya.",
+        "The varied terrain is critical for capturing and storing freshwater runoff."
+      ]
+    },
+    {
+      "id": "gargaf-range-relief-v2",
+      "descriptionAdvanced": "The Gargaf Range exhibits a stark, deeply eroded plateau relief, separating the relatively flat northern Hamada from the massive sand seas of the Fezzan. The landscape is a classic 'hamada' (stony desert), featuring flat-topped mesas, sheer cliff drop-offs, and deep, ancient riverbeds completely devoid of modern water. The relief is incredibly abrasive, covered in loose, shattered rocks that make off-road travel exceptionally difficult. This jagged, elevated topography plays a crucial role in directing the flow of scarce subterranean aquifers beneath it. Earth Science K7 — hamada relief and eroded plateaus.",
+      "factsAdvanced": [
+        "An expansive, deeply eroded rocky plateau in the central Fezzan.",
+        "Features classic 'hamada' relief: flat mesas and steep, sheer cliffs.",
+        "The surface is highly abrasive, covered in loose, shattered rock.",
+        "Acts as a massive geographic divider between northern and southern deserts.",
+        "The complex, jagged topography makes cross-country travel highly difficult.",
+        "Its structure is critical for directing deep, subterranean fossil water flows."
+      ]
+    },
+    {
+      "id": "jebel-soda-relief-v2",
+      "descriptionAdvanced": "The relief of the Jebel Soda Mountains is characterized by brutal, jagged peaks of dark, extrusive volcanic basalt. This extinct volcanic massif rises aggressively from the surrounding flat, pale desert plains, creating an imposing and hostile physical barrier in the Fezzan. The mountains are completely devoid of vegetation, presenting a chaotic, highly fractured topography of deep, shadowed ravines and sharp, knife-edge ridges. The extreme relief and dark coloration make it a massive, natural solar heat sink, creating blistering surface temperatures. Earth Science K8 — volcanic massifs and thermal terrain.",
+      "factsAdvanced": [
+        "A massive, extinct volcanic massif located in the central Fezzan.",
+        "Relief is characterized by brutal, jagged peaks of dark basaltic rock.",
+        "Features a highly fractured, chaotic topography with deep, steep ravines.",
+        "The dark rock rapidly absorbs solar radiation, causing extreme surface heat.",
+        "Rises aggressively and abruptly from the surrounding flat, sandy plains.",
+        "The incredibly hostile relief has historically made it an impassable barrier."
+      ]
+    },
+    {
+      "id": "tibesti-foothills-relief-v2",
+      "descriptionAdvanced": "The Tibesti Foothills present a dramatic, rapidly ascending relief profile that marks the extreme southern edge of the Libyan border. The terrain transitions violently from the flat, sandy expanses of the central Sahara into a chaotic jumble of volcanic boulders, steep scree slopes, and deep, narrow canyons. The relief here is some of the most remote and difficult to traverse on the entire African continent. This highly fractured, elevated terrain has historically provided perfect natural fortresses for the indigenous Toubou tribes. Geography K8 — extreme border terrain and volcanic relief.",
+      "factsAdvanced": [
+        "Located at the extreme southern geographic border of Libya.",
+        "Marks the violent transition from flat desert to massive volcanic massifs.",
+        "Relief features steep scree slopes, massive boulders, and deep canyons.",
+        "Considered some of the most physically difficult terrain to traverse in Africa.",
+        "The highly fractured landscape provides massive natural defensive advantages.",
+        "Historically utilized as a refuge and stronghold by indigenous Toubou tribes."
+      ]
+    },
+    {
+      "id": "jebel-uwaynat-relief-v2",
+      "descriptionAdvanced": "Jebel Uwaynat is a stunning example of an inselberg—an isolated mountain that rises abruptly and dramatically from a massive, flat plain. Located at the tri-border junction, its relief consists of massive, smoothly eroded granite domes and heavily fractured, layered sandstone peaks. The sheer vertical drop from the mountain's summit to the surrounding desert floor creates highly localized wind patterns and rare, trapped moisture. The deeply incised valleys within the massif hide ancient, seasonal water catchments (gueltas) crucial for desert survival. Earth Science K8 — inselbergs and isolated massifs.",
+      "factsAdvanced": [
+        "A classic 'inselberg' that rises abruptly from the flat southeastern desert.",
+        "Features massive, smoothly eroded granite domes and fractured sandstone.",
+        "Located exactly at the tri-border junction of Libya, Egypt, and Sudan.",
+        "The sheer vertical relief creates unique, highly localized wind patterns.",
+        "Contains deep, hidden valleys featuring rare, seasonal water catchments.",
+        "The stark relief acts as a massive, natural navigational beacon."
+      ]
+    },
+    {
+      "id": "jebel-tarhuna-relief-v2",
+      "descriptionAdvanced": "The relief of the Jebel Tarhuna is distinctly less aggressive than the mountains further south, characterized by gentle, rolling hills and wide, highly fertile valleys. This undulating topography is perfectly suited for large-scale, terraced dry-farming, particularly for vast olive orchards. The gradual elevation rise from the coastal Jafara plain creates a natural ramp that captures moisture from the Mediterranean sea breezes. This highly manageable, sloping relief makes Tarhuna the most accessible and productive agricultural highland in western Libya. Geography K7 — rolling hills and agricultural topography.",
+      "factsAdvanced": [
+        "Features gentle, rolling hill relief located southeast of Tripoli.",
+        "Characterized by wide, highly fertile valleys rather than steep ravines.",
+        "The undulating topography is perfectly suited for expansive dry-farming.",
+        "Acts as a gradual elevation ramp rising from the coastal Jafara plain.",
+        "The sloping relief effectively captures moisture from Mediterranean breezes.",
+        "Highly accessible terrain compared to the rugged Nafusa Mountains."
+      ]
+    },
+    {
+      "id": "sirte-basin-relief-v2",
+      "descriptionAdvanced": "The surface relief of the Sirte Basin is deceptive; it appears as a massive, overwhelmingly flat, and featureless gravel plain sloping gently toward the Mediterranean. However, its true, immense geological relief lies entirely underground, defined by a highly complex system of massive, ancient tectonic rift blocks and deep grabens (depressions). It is this extreme subsurface topography that perfectly trapped the massive volumes of organic material that eventually became Libya's vast oil reserves. The flat surface relief makes the construction of massive pipeline networks highly efficient. Earth Science K8 — subsurface rift geology.",
+      "factsAdvanced": [
+        "Surface relief is a massive, overwhelmingly flat and featureless gravel plain.",
+        "Slopes very gently downward from the central interior to the Gulf of Sidra.",
+        "The true, extreme geological relief lies entirely below the surface.",
+        "Defined subterraneanly by massive, complex tectonic rift blocks and deep grabens.",
+        "The flat surface is ideal for the rapid construction of massive pipeline networks.",
+        "Contains the vast majority of Libya's highly lucrative hydrocarbon reserves."
+      ]
+    },
+    {
+      "id": "al-haruj-relief-v2",
+      "descriptionAdvanced": "The relief of Al-Haruj is uniquely brutal and chaotic, forming the largest basaltic volcanic field in North Africa. The topography consists of hundreds of well-preserved, extinct volcanic cinder cones rising sharply from massive, overlapping sheets of jagged, solidified lava (a 'malpais' landscape). The highly abrasive, fractured surface makes the entire region effectively impassable for traditional vehicles or camel caravans. The black, chaotic relief violently absorbs solar heat, making it an incredibly hostile physical environment. Earth Science K8 — massive volcanic fields and malpais.",
+      "factsAdvanced": [
+        "Forms the largest, most chaotic basaltic volcanic field in North Africa.",
+        "Relief features hundreds of distinct, extinct volcanic cinder cones.",
+        "Covered in massive, highly abrasive, overlapping sheets of jagged lava.",
+        "The topography is considered a classic 'malpais' (badlands) environment.",
+        "Effectively impassable for traditional vehicles due to extreme surface fracturing.",
+        "The dark, chaotic relief intensely absorbs and amplifies Saharan solar heat."
+      ]
+    },
+    {
+      "id": "al-hamada-al-hamra-relief-v2",
+      "descriptionAdvanced": "The relief of Al-Hamada al-Hamra (The Red Desert) is defined by its sheer, terrifying flatness, forming a massive, elevated limestone plateau in the northwest. It is an archetype of a 'hamada' landscape—a rocky desert entirely stripped of sand by millennia of wind, leaving behind a heavily compacted, level surface of red gravel and exposed bedrock. The almost total lack of vertical relief or visual landmarks makes this immense plain notoriously dangerous to navigate. The edges of the plateau often drop off in steep, sudden escarpments. Geography K7 — hyper-flat hamada plateaus.",
+      "factsAdvanced": [
+        "A massive, elevated limestone plateau dominating northwestern Libya.",
+        "Defined by sheer, almost terrifyingly flat and featureless surface relief.",
+        "An archetypal 'hamada': a rocky desert stripped entirely of loose sand.",
+        "Covered in highly compacted red gravel and wind-scoured bedrock.",
+        "The edges of the flat plateau frequently drop off in steep, sudden escarpments.",
+        "The lack of vertical relief makes it notoriously dangerous to navigate."
+      ]
+    },
+    {
+      "id": "jebel-nafusa-relief-v2",
+      "descriptionAdvanced": "The relief of the Jebel Nafusa is dominated by a massive, continuous limestone escarpment that presents a sheer, highly defensible cliff face facing the northern coastal plains. The plateau top is relatively flat, but the northern edge is deeply incised by steep, dramatic wadis (ravines) carved by winter runoff. This abrupt vertical relief allowed the indigenous Amazigh populations to build virtually impenetrable fortified towns right on the cliff edge. The stark elevation change creates a distinct, cooler microclimate compared to the plains below. Geography K8 — major escarpments and defensive topography.",
+      "factsAdvanced": [
+        "Defined by a massive, continuous limestone escarpment facing the north.",
+        "Presents a sheer, abrupt, and highly defensible cliff face toward the coast.",
+        "The northern edge is deeply incised by steep, dramatic wadis and ravines.",
+        "The sudden vertical relief creates a distinctly cooler mountain microclimate.",
+        "Allowed indigenous populations to build impenetrable cliff-edge fortifications.",
+        "Separates the low-lying Jafara plain from the high Hamada al Hamra plateau."
+      ]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "descriptionAdvanced": "The relief of the Jebel Aswad (Black Mountains) is a chaotic, highly eroded maze of steep ridges and deep, shadowed valleys in the central Fezzan. Unlike a single, contiguous ridge, the massif is heavily fractured, consisting of ancient sandstone that has been aggressively cut by prehistoric water flows and capped with dark volcanic basalt. The steep, unstable scree slopes and labyrinthine wadis make the terrain incredibly disorienting and difficult to traverse. The stark verticality provides massive natural shade within the deep valleys during the intense Saharan day. Geography K7 — highly eroded mountain massifs.",
+      "factsAdvanced": [
+        "A highly eroded, chaotic mountain massif located in the central Fezzan.",
+        "Relief consists of a highly fractured maze of steep ridges and deep valleys.",
+        "Composed of ancient, deeply weathered sandstone capped with dark basalt.",
+        "Features steep, highly unstable scree slopes and labyrinthine wadis.",
+        "The stark vertical relief provides massive natural shade within the deep valleys.",
+        "The highly disorienting terrain has historically served as a natural refuge."
+      ]
+    },
+    {
+      "id": "wadi-al-kuf-relief-v2",
+      "descriptionAdvanced": "The relief of Wadi al-Kuf is characterized by a massive, plunging gorge that slices violently through the high limestone plateau of the Jabal al Akhdar. The walls of the wadi are incredibly steep, almost vertical in places, and are riddled with natural karst caves and overhangs. This intense, plunging topography creates a highly localized, shaded microclimate that supports dense, ancient Mediterranean forest cover on the canyon floor. The sheer drop historically made the wadi an impassable barrier until the construction of modern, massive bridging infrastructure. Earth Science K8 — massive gorges and karst topography.",
+      "factsAdvanced": [
+        "A massive, violently plunging gorge cutting through the Jabal al Akhdar plateau.",
+        "The walls of the wadi feature incredibly steep, near-vertical limestone cliffs.",
+        "The relief is heavily characterized by natural karst caves and overhangs.",
+        "The intense, deep topography creates a heavily shaded, lush microclimate.",
+        "The sheer drops made it an impassable geographic barrier for centuries.",
+        "Now spanned by massive, highly engineered modern bridging infrastructure."
+      ]
+    },
+    {
+      "id": "wadi-al-ajal-relief-v2",
+      "descriptionAdvanced": "The relief of Wadi al-Ajal is defined by a massive, linear geographic depression, essentially a deep trench bounded by two entirely different topographies. To the south, it is walled in by the steep, rocky cliffs of the Messak Settafet plateau, while to the north it faces the towering, encroaching sand dunes of the Ubari Sand Sea. This 'trench' relief acts as a natural funnel, capturing and holding vital subterranean fossil water close to the surface. It is a prime example of how specific, localized relief dictates the habitability of the deep desert. Geography K8 — linear depressions and oasis geography.",
+      "factsAdvanced": [
+        "A massive, linear geographic depression located in the southwestern Fezzan.",
+        "Functions as a deep trench bounded by two entirely distinct topographies.",
+        "Walled to the south by the steep, rocky cliffs of the Messak Settafet plateau.",
+        "Faced to the north by the towering, encroaching dunes of the Ubari Sand Sea.",
+        "The 'trench' relief naturally funnels and captures shallow subterranean water.",
+        "The specific, localized topography makes dense human habitation possible."
+      ]
+    },
+    {
+      "id": "wadi-zamzam-relief-v2",
+      "descriptionAdvanced": "The relief of Wadi Zamzam consists of a wide, gently sloping, and heavily braided river channel that meanders across the relatively flat plains of Tripolitania. Unlike the steep gorges of the east, the banks of Wadi Zamzam are low and gradually terraced, reflecting thousands of years of slow, episodic erosion by flash floods. The wide, shallow relief allows floodwaters to spread out, depositing nutrient-rich silt over a broad area. This specific topography makes the wadi a vital, seasonal grazing corridor rather than an impassable barrier. Geography K6 — braided river channels and plains topography.",
+      "factsAdvanced": [
+        "Features a wide, gently sloping, heavily braided ephemeral river channel.",
+        "Meanders across the relatively flat, stony plains of western Tripolitania.",
+        "Banks are low and gradually terraced, formed by slow, episodic erosion.",
+        "The wide, shallow relief allows flash flood waters to spread and deposit silt.",
+        "Functions as a highly accessible, vital seasonal grazing corridor.",
+        "Does not present a significant vertical geographic barrier to travel."
+      ]
+    },
+    {
+      "id": "wadi-mathendous-relief-v2",
+      "descriptionAdvanced": "The relief of Wadi Mathendous is spectacularly rugged, cutting a deep, meandering trench directly into the hard sandstone of the Messak Settafet plateau. The wadi is characterized by steep, stepped terraces and sheer cliffs that drop abruptly to a rocky, dry riverbed littered with massive boulders. This harsh, incised topography provided highly protected, smooth vertical rock faces, which ancient prehistoric peoples utilized perfectly for their famous rock engravings. The rugged relief ensures the site remains highly isolated and naturally protected from modern encroachment. Earth Science K8 — incised plateau wadis and rock art.",
+      "factsAdvanced": [
+        "A deeply incised, trench-like wadi cut into the Messak Settafet plateau.",
+        "Characterized by steep, stepped terraces and sheer sandstone cliffs.",
+        "The dry riverbed is highly rugged, littered with massive, fallen boulders.",
+        "The vertical relief provided perfectly smooth canvases for prehistoric rock art.",
+        "The harsh, deep topography naturally protects the ancient carvings from erosion.",
+        "Remains highly isolated due to the incredibly difficult surrounding terrain."
+      ]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "descriptionAdvanced": "The relief of Wadi al-Farigh is incredibly vast and subtle, presenting as a massive, shallow depression stretching across hundreds of kilometers of the eastern desert. Rather than a distinct, steep-walled canyon, the wadi forms a broad, barely perceptible trough in the gravel plains, gently guiding extremely rare surface runoff toward the Gulf of Sidra. The subtle relief is deceptive; the massive, sandy subsurface trough acts as an enormous underground reservoir. This gentle topography allows for the uninterrupted construction of the massive oil pipelines that crisscross the region. Geography K7 — broad desert depressions.",
+      "factsAdvanced": [
+        "Features incredibly vast, highly subtle geographic relief in the eastern desert.",
+        "Presents as a massive, shallow, broad depression stretching hundreds of kilometers.",
+        "Lacks the distinct, steep walls associated with mountainous wadis.",
+        "The gentle topography guides extremely rare surface runoff toward the coast.",
+        "The subtle surface relief hides a massive, highly absorptive subterranean trough.",
+        "Allows for the highly efficient, uninterrupted construction of oil pipelines."
+      ]
+    }
+  ]
+}

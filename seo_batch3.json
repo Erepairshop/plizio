@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "witvlei-cities-v2",
+      "descriptionAdvanced": "Witvlei ist ein winziges Dorf in der Region Omaheke, das sich an der Hauptstraße B6 zwischen Windhoek und Gobabis befindet. Der Name, der aus dem Afrikaans stammt und 'Weiße Pfanne' bedeutet, verweist auf die kalkhaltigen, weißlichen Senken, die sich hier nach den spärlichen Sommerregenfällen mit Wasser füllen. Während des Herero-Aufstands im Jahr 1904 fand hier das Gefecht von Owikokorero statt, an das ein kleines, unauffälliges Denkmal im Ort erinnert. Heute ist das Dorf vor allem ein landwirtschaftlicher Umschlagplatz für die umliegenden Rinderfarmen und bekannt für einen fleischverarbeitenden Betrieb, der maßgeblich zur lokalen Beschäftigung beiträgt. Landwirtschaft K6 — Fleischproduktion und ländliche Siedlungen.",
+      "factsAdvanced": [
+        "Das historische Gefecht von Owikokorero fand am 13. März 1904 nahe Witvlei statt.",
+        "Der Ort liegt exakt am Trans-Kalahari-Highway (Nationalstraße B6).",
+        "Die regionale Fleischfabrik (Witvlei Meat) ist der wichtigste Arbeitgeber der Gemeinde.",
+        "Der Name 'Witvlei' bezieht sich auf die weißen Kalkablagerungen in der lokalen Flusspfanne.",
+        "Rinderzucht dominiert die umliegende, von Kameldornbäumen geprägte Savannenlandschaft.",
+        "Witvlei hat den Status eines 'Village' (Dorf) in der namibischen Verwaltungsgliederung."
+      ]
+    },
+    {
+      "id": "leonardville-cities-v2",
+      "descriptionAdvanced": "Leonardville ist ein verschlafenes Dorf in der Omaheke-Region und liegt direkt an den Ufern des saisonalen Nossob-Flusses. Ursprünglich wurde die Siedlung als Hauptsitz für die Amraal-Lambert-Oorlam-Gemeinschaft gegründet, bevor sie in Erinnerung an den deutschen Pfarrer Leonard benannt wurde. Die Gegend ist von tiefem rotem Kalaharisand geprägt und die lokale Wirtschaft stützt sich beinahe vollständig auf ausgedehnte Rinder- und Schafzuchtbetriebe. In den letzten Jahren erlangte das Dorf landesweite Bekanntheit durch intensive Explorationen von Uranvorkommen im Grundwasser, was zu heftigen Debatten über Umweltschutz und Trinkwassersicherheit in der extrem ariden Region führte. Geografie K7 — Rohstoffexploration und Grundwasser.",
+      "factsAdvanced": [
+        "Der Ort trug ursprünglich den Namen Pretorius und wurde später nach Pfarrer Leonard benannt.",
+        "Leonardville liegt am oberen Lauf des meist trockenen Nossob-Flusses.",
+        "Die Region verzeichnet eine extrem hohe Abhängigkeit von artesischem Grundwasser.",
+        "Seit 2021 gibt es hier kontroverse In-situ-Mining-Explorationen für Uran.",
+        "Die örtliche Gemeinde lebt überwiegend von der Schafzucht und der Subsistenzwirtschaft.",
+        "Die Straßenverbindung C20 verbindet das Dorf nördlich mit Gobabis und südlich mit Aranos."
+      ]
+    },
+    {
+      "id": "epukiro-cities-v2",
+      "descriptionAdvanced": "Epukiro, tief im Osten der Omaheke-Region gelegen, ist das Herz eines großen Kommunalgebietes, das traditionell von Mbanderu und Herero bewohnt wird. Der Ort ging 1902 aus einer katholischen Missionsstation hervor und diente während der deutschen Kolonialzeit als wichtiger Kontaktpunkt zu den einheimischen Völkern. Die Region ist von der klassischen Kalahari-Baumsavanne geprägt und leidet chronisch unter Wasserknappheit, weshalb die Menschen stark von tiefen Bohrlöchern abhängig sind. Obwohl die Infrastruktur stark eingeschränkt ist, spielt Epukiro eine zentrale Rolle bei der jährlichen Vermarktung von Rindern aus dem kommunalen Sektor, die die Lebensgrundlage der Region bilden. Wirtschaft K6 — Kommunale Viehwirtschaft.",
+      "factsAdvanced": [
+        "Die katholische Mission Epukiro wurde offiziell im Jahr 1902 gegründet.",
+        "Die Siedlung ist das administrative Zentrum des gleichnamigen Wahlkreises (Constituency).",
+        "Die Bevölkerung der Region besteht überwiegend aus Mbanderu (einer Untergruppe der Herero).",
+        "Trotz seiner Größe liegt der Ort extrem abgelegen und ist nur über Schotterstraßen erreichbar.",
+        "Rinder werden hier oft in traditionellen, kommunalen Weidesystemen gehalten.",
+        "Epukiro liegt nahe der Grenze zur ausgedehnten, sandigen Kalahari-Wüste."
+      ]
+    },
+    {
+      "id": "aminuis-cities-v2",
+      "descriptionAdvanced": "Aminuis ist eine der isoliertesten und zugleich historisch tief verwurzelten Siedlungen im südöstlichen Teil der Omaheke-Region. Die von tiefem Kalaharisand dominierte Region ist das traditionelle Hauptgebiet der Mbanderu-Rinderhirten sowie Heimat für Gruppen der Tswana. Der Ort gewann in den 1970er Jahren an Bedeutung, als die südafrikanische Apartheidsregierung Aminuis zu einem administrativen Zentrum für die einheimische Bevölkerung in der Herero-Homeland-Struktur machte. Trotz extremer Dürren, die die Region regelmäßig heimsuchen, betreiben die Einwohner hier eine bemerkenswert widerstandsfähige Viehwirtschaft. Geografie K7 — Dürre-Resilienz und Homeland-Geschichte.",
+      "factsAdvanced": [
+        "Aminuis war während der Apartheid ein zentraler Bestandteil des Hereroland-Homelands.",
+        "Die Region verfügt über eine bemerkenswerte Konzentration an Tswana-Gemeinschaften in Namibia.",
+        "Eine massive Salzpfanne, die Aminuis-Pfanne, prägt das Landschaftsbild nahe dem Ort.",
+        "Die Region hat extrem niedrige Niederschlagsmengen von oft unter 250 mm im Jahr.",
+        "Tiefbohrlöcher sind für das Überleben von Mensch und Tier in dieser Sandlandschaft unabdingbar.",
+        "Die Siedlung liegt etwa 160 Kilometer südlich von Gobabis, erreichbar über die C20."
+      ]
+    },
+    {
+      "id": "oshikuku-cities-v2",
+      "descriptionAdvanced": "Oshikuku ist eine bedeutende, rasant wachsende Stadt in der Region Omusati im nördlichen Namibia. Sie wurde 1924 von römisch-katholischen Missionaren gegründet und beherbergt heute das große St. Martin Krankenhaus, eines der wichtigsten medizinischen Zentren für die umliegende ländliche Bevölkerung. Die Stadt liegt strategisch günstig an der Hauptverkehrsader C46, die Oshakati mit Outapi verbindet. Geografisch ist die Region durch das faszinierende Cuvelai-Flusssystem geprägt – ein Netzwerk von flachen, saisonalen Wasserläufen (Oshanas), die das Land nach starken Regenfällen in Angola in eine fruchtbare Sumpflandschaft verwandeln. Geografie K7 — Feuchtgebiete und Gesundheitszentren.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1924 als römisch-katholische Missionsstation gegründet.",
+        "Das St. Martin Krankenhaus in Oshikuku versorgt Zehntausende Patienten in der Region.",
+        "Oshikuku erhielt im Jahr 2011 offiziell den Status einer eigenständigen Town (Stadt).",
+        "Die lokale Bevölkerung gehört überwiegend der Kwambi-Ethnie an, einer Untergruppe der Owambo.",
+        "Die Stadt profitiert massiv vom Cuvelai-Drainagesystem während der sommerlichen Efundja-Flut.",
+        "Durch Oshikuku führt ein wichtiger Wasserkanal der NamWater, der die Region versorgt."
+      ]
+    },
+    {
+      "id": "okahao-cities-v2",
+      "descriptionAdvanced": "Okahao liegt im Herzen der Region Omusati und ist historisch und politisch von außerordentlicher Bedeutung, da es der Geburtsort von Dr. Sam Nujoma ist, dem ersten Präsidenten und Gründervater des unabhängigen Namibias. Die Siedlung begann als finnische Missionsstation und wuchs nach der Unabhängigkeit 1990 stetig an, bis sie schließlich in den Stadtstatus erhoben wurde. Wirtschaftlich wird die Stadt von der Subsistenzlandwirtschaft (Mahangu-Anbau) und der Rinderhaltung getragen. Ein markantes Wahrzeichen ist der große Baobab-Baum im Zentrum, der in der Vergangenheit als traditioneller Versammlungsort für lokale Chiefs diente. Geschichte K8 — Gründerväter und traditionelle Führer.",
+      "factsAdvanced": [
+        "Dr. Sam Nujoma, Namibias erster Präsident, wurde 1929 nahe Okahao im Dorf Etunda geboren.",
+        "Die Stadt entwickelte sich um eine alte finnische Missionsstation, die Anfang des 20. Jahrhunderts entstand.",
+        "Okahao erhielt im Jahr 2005 den Status einer anerkannten Stadt (Town).",
+        "Der historische Okahao-Baobab ist ein eingetragenes nationales Denkmal.",
+        "In der Stadt befindet sich ein Gedenkschrein (Shrine) zur Erinnerung an Opfer des Befreiungskampfes.",
+        "Die Wirtschaft basiert stark auf dem Anbau von Perlhirse (Mahangu)."
+      ]
+    },
+    {
+      "id": "tsandi-cities-v2",
+      "descriptionAdvanced": "Tsandi ist eine historisch bedeutsame Gemeinde in der Region Omusati und das traditionelle Machtzentrum der Uukwaluudhi, einer der bedeutenden Untergruppen der Owambo. Die Ortschaft ist berühmt für den Uukwaluudhi Royal Homestead, ein sorgfältig erhaltenes, riesiges traditionelles Palast-Gehöft, das Besuchern einen faszinierenden Einblick in die afrikanische Königsarchitektur und die Lebensweise der traditionellen Führungsschicht gewährt. Das Dorf hat sich rund um diesen Palast entwickelt und spielt heute eine zentrale Rolle in der regionalen Verwaltung. Die Landschaft um Tsandi wird dominiert von hoch aufragenden Makalani-Palmen und weiten Hirsefeldern. Geschichte K7 — Traditionelle Königreiche in Afrika.",
+      "factsAdvanced": [
+        "Tsandi ist der offizielle Sitz des Königs (Tatekulu) der Uukwaluudhi-Gemeinschaft.",
+        "Der Uukwaluudhi Royal Homestead ist heute ein offizielles Museum und Kulturzentrum.",
+        "Die Siedlung ist stark geprägt vom Anbau der dürreresistenten Perlhirse (Mahangu).",
+        "Die traditionellen Zäune des Königspalastes bestehen aus abertausenden von Mopane-Holzstämmen.",
+        "Tsandi liegt etwa 30 Kilometer südwestlich der Regionalhauptstadt Outapi.",
+        "Ein großes Netzwerk an Bewässerungskanälen (von Ruacana kommend) unterstützt die Region."
+      ]
+    },
+    {
+      "id": "bukalo-cities-v2",
+      "descriptionAdvanced": "Bukalo, gelegen im extremen Nordosten Namibias in der feuchttropischen Sambesi-Region, ist die kulturelle Hauptstadt und der Königssitz des Masubia-Volkes. Die Region unterscheidet sich radikal vom restlichen Namibia durch ihre ausgedehnten Sümpfe, Flussauen und dichten Wälder. Jährlich findet hier das farbenfrohe Bwikuhane Bwetu Festival statt, bei dem die Masubia-Gemeinschaft dem amtierenden Munitenge (König) ihren Respekt erweist. Seit der Erhebung in den Stadtstatus in den letzten Jahren erfährt Bukalo eine umfassende infrastrukturelle Erneuerung, um die abgelegenen Dörfer der Sambesi-Schwemmebenen besser an das nationale Straßennetz anzubinden. Kulturanthropologie K7 — Flut-Ökosysteme und indigene Feste.",
+      "factsAdvanced": [
+        "Bukalo ist der traditionelle Sitz des Königs (Munitenge) des Masubia-Stammes.",
+        "Im Jahr 2013 wurde Bukalo offiziell in den Status eines Village (Dorf) erhoben.",
+        "Die jährliche Bwikuhane Bwetu Kulturfeier zieht Tausende Besucher an.",
+        "Die Umgebung von Bukalo besteht aus den weiten Überschwemmungsebenen (Floodplains) des Sambesi.",
+        "Der Ort liegt etwa 40 Kilometer südöstlich der Regionalhauptstadt Katima Mulilo.",
+        "Während der jährlichen Flutzeit sind viele umliegende Siedlungen nur mit Booten erreichbar."
+      ]
+    },
+    {
+      "id": "walvis-bay-hafen-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Walvis Bay ist das unangefochtene maritime Tor Namibias und der größte kommerzielle Tiefseehafen des Landes. Dank seiner strategisch exzellenten Lage an der südwestafrikanischen Küste dient er nicht nur der namibischen Wirtschaft, sondern bietet landumschlossenen SADC-Staaten wie Botswana, Sambia und Simbabwe einen entscheidenden direkten Zugang zum Atlantik. Der Hafen wird von der Namport (Namibian Ports Authority) betrieben und wurde kürzlich durch den Bau eines massiven neuen Containerterminals auf künstlich aufgeschüttetem Land massiv erweitert. Dies ermöglicht die Abfertigung von riesigen Containerschiffen, die früher nicht anlegen konnten. Wirtschaft K8 — Internationale Lieferketten und Hafenlogistik.",
+      "factsAdvanced": [
+        "Der Hafen von Walvis Bay wickelt jährlich über 5 Millionen Tonnen Fracht ab.",
+        "Das neue Containerterminal wurde 2019 eröffnet und erweiterte die Kapazität auf 750.000 TEU (Standardcontainer).",
+        "Für den Ausbau wurden 40 Hektar künstliches Land direkt im Atlantik aufgeschüttet.",
+        "Der Hafen liegt am westlichen Ende der drei wichtigen Transportkorridore (Trans-Kalahari, Trans-Cunene, Walvis Bay-Ndola-Lubumbashi).",
+        "Ein eigens errichtetes Kreuzfahrt-Terminal kann nun auch internationale Passagierschiffe abfertigen.",
+        "Die durchschnittliche Wassertiefe in der Anfahrtsrinne beträgt etwa 14 Meter."
+      ]
+    },
+    {
+      "id": "luederitz-hafen-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Lüderitz, eingebettet in eine flache, felsige Bucht, ist der zweite Seehafen Namibias, jedoch deutlich kleiner und schwieriger anzusteuern als Walvis Bay. Da der felsige Untergrund extrem kostspielige Vertiefungsarbeiten erfordert, konzentriert sich dieser historische Hafen hauptsächlich auf die lukrative Fischereiindustrie, insbesondere den Export von namibischen Langusten (Rock Lobster), und den Offshore-Diamantenabbau. Zudem gewinnt der Hafen durch den zunehmenden Export von Zink und Blei aus den Minen im Süden Namibias wie Rosh Pinah und Skorpion an strategischer Bedeutung. Er bleibt eine kritische Lebensader für die windgepeitschte Küstenstadt. Wirtschaft K7 — Nischenhäfen und Offshore-Bergbau.",
+      "factsAdvanced": [
+        "Der Hafen von Lüderitz ist aufgrund des Felsuntergrunds auf eine Wassertiefe von etwa 8,7 Metern limitiert.",
+        "Er ist das unangefochtene Zentrum der lukrativen namibischen Langusten-Fischerei.",
+        "Zink und Bleikonzentrat aus der 300 km entfernten Rosh Pinah Mine werden von hier verschifft.",
+        "Der Hafen verfügt über eine Flotte hochspezialisierter Schiffe für den marinen Diamantenabbau.",
+        "Lüderitz-Hafen wurde bereits 1883 in der frühen Kolonialzeit kommerziell genutzt.",
+        "In den letzten Jahren wurde der Hafen für den Export von Mangan aus Südafrika genutzt."
+      ]
+    },
+    {
+      "id": "roessing-uranmine-economic-v2",
+      "descriptionAdvanced": "Die Rössing-Uranmine, gelegen in der extrem ariden Erongo-Region, ist eine der ältesten und größten Uran-Tagebauminen der Welt. Die gigantische Mine wurde 1976 von der Rio Tinto Group in Betrieb genommen und war jahrzehntelang das Rückgrat der namibischen Bergbauwirtschaft. Die Entdeckung der schwachgradigen Uranvorkommen im Jahr 1928 dauerte fast 50 Jahre bis zur kommerziellen Erschließung. Heute prägt der gewaltige Krater, der über 3 Kilometer lang ist, die Wüstenlandschaft. Die Anlage, die 2019 mehrheitlich an die China National Uranium Corporation (CNUC) verkauft wurde, liefert Kernbrennstoff für Reaktoren weltweit. Sachkunde K8 — Kernenergie und Bergbau-Giganten.",
+      "factsAdvanced": [
+        "Die kommerzielle Produktion der Rössing-Mine begann im Jahr 1976.",
+        "Der gewaltige Tagebau-Krater ist etwa 3 km lang, 1,5 km breit und über 390 Meter tief.",
+        "Die Mine lieferte im Jahr 2020 rund 4% der weltweiten primären Uranproduktion.",
+        "Sie befindet sich etwa 70 Kilometer landeinwärts von Swakopmund in der Wüste.",
+        "Im Jahr 2019 erwarb die China National Uranium Corporation (CNUC) 68,6% der Anteile.",
+        "Die speziell für die Bergleute errichtete Stadt Arandis liegt nur 15 km entfernt."
+      ]
+    },
+    {
+      "id": "husab-uranmine-economic-v2",
+      "descriptionAdvanced": "Die Husab-Uranmine ist eines der monumentalsten Bergbauprojekte des 21. Jahrhunderts in Namibia. Entdeckt 2008, wurde die Mine ab 2013 für fast 2 Milliarden US-Dollar von der chinesischen Swakop Uranium erbaut. Sie ist die drittgrößte reine Uranmine der Welt und hat Namibia auf den Weltmärkten massiv gestärkt. Die Errichtung dieser hochmodernen Anlage mitten im Namib-Naukluft-Park war eine beispiellose logistische Herausforderung, die neue Straßen, gigantische Wasserpipelines von der Küste und spezielle Umweltprogramme erforderte. Bei voller Auslastung kann die Husab-Mine die namibische Uranproduktion auf einen Schlag mehr als verdoppeln. Wirtschaft K8 — Ausländische Direktinvestitionen in Afrika.",
+      "factsAdvanced": [
+        "Das Husab-Projekt kostete geschätzte 2 Milliarden US-Dollar in der Entwicklungsphase.",
+        "Bei maximaler Auslastung kann die Mine über 15 Millionen Pfund U3O8 pro Jahr produzieren.",
+        "Die Mine wird primär von Swakop Uranium betrieben, einem Tochterunternehmen der CGN (China).",
+        "Die Uranlagerstätte 'Husab' wurde erst im Februar 2008 offiziell entdeckt.",
+        "Die riesige Anlage liegt inmitten des extrem sensiblen Namib-Naukluft-Nationalparks.",
+        "Die Anlage beschäftigt über 1.500 permanente Mitarbeiter, überwiegend Namibier."
+      ]
+    },
+    {
+      "id": "langer-heinrich-mine-economic-v2",
+      "descriptionAdvanced": "Die Langer Heinrich Mine ist eine der großen Uranminen in der namibischen Namib-Wüste. Benannt nach dem markanten Berg Langer Heinrich, wurde die Lagerstätte bereits in den 1970er Jahren entdeckt, jedoch erst 2006 von der australischen Firma Paladin Energy kommerziell in Betrieb genommen. Im Gegensatz zum tiefen Tagebau von Rössing wird das Uranerz hier aus flachen, oberflächennahen Rinnenablagerungen gewonnen. Wegen des drastischen Preisverfalls von Uran auf dem Weltmarkt nach Fukushima wurde die Mine 2018 in den sogenannten 'Care and Maintenance'-Zustand (Wartungsmodus) versetzt, bevor sie aufgrund steigender globaler Nachfrage ab 2024 reaktiviert wurde. Sachkunde K7 — Weltmarktpreise und Rohstoffzyklen.",
+      "factsAdvanced": [
+        "Die kommerzielle Erschließung der Lagerstätte durch Paladin Energy begann 2006.",
+        "Im Jahr 2018 wurde die Produktion aufgrund niedriger Weltmarktpreise vollständig gestoppt.",
+        "Die Anlage liegt 80 Kilometer östlich von Walvis Bay in einem flachen Flusstal.",
+        "Das Uran liegt hier in Form von Carnotit vor, das sich in alten Flussbetten (Calcretes) gebildet hat.",
+        "Die geplante Lebensdauer der reaktivierten Mine wird auf über 25 Jahre geschätzt.",
+        "In der Spitzenzeit produzierte Langer Heinrich über 5 Millionen Pfund Uranoxid pro Jahr."
+      ]
+    },
+    {
+      "id": "trekkopje-uranmine-economic-v2",
+      "descriptionAdvanced": "Die Trekkopje-Uranmine, im Besitz des französischen Atomkonzerns Orano (früher Areva), ist eines der größten ruhenden Investitionsprojekte in Namibia. Die riesige, aber extrem schwachgradige Uranlagerstätte in der Wüste erforderte eine innovative und teure Verarbeitungstechnologie, die alkalische Haufenlaugung (Heap Leaching). Um den gewaltigen Wasserbedarf des Projekts zu decken, baute Orano eigens die Erongo-Meerwasserentsalzungsanlage an der Küste – eine Premiere für das südliche Afrika. Aufgrund des Zusammenbruchs der Uranpreise nach dem Reaktorunglück in Fukushima wurde das Projekt 2012 noch vor Erreichen der vollen Produktion auf Eis gelegt. Wirtschaft K8 — Infrastruktur und Investitionsrisiken.",
+      "factsAdvanced": [
+        "Die Mine befindet sich etwa 70 Kilometer nordöstlich der Küstenstadt Swakopmund.",
+        "Um Wasser zu sichern, errichtete der Betreiber Orano für 200 Millionen Euro eine Entsalzungsanlage.",
+        "Das Projekt nutzt die Technik der alkalischen Haufenlaugung (Heap Leaching) für das schwachgradige Erz.",
+        "Die Mine wurde 2012 in den 'Care and Maintenance'-Zustand versetzt und wartet auf höhere Uranpreise.",
+        "Das Trekkopje-Vorkommen umfasst gewaltige 340.000 Tonnen an abbaubarem Uranerz.",
+        "Das Gelände umfasst Hunderte von Quadratkilometern und ist hermetisch abgeriegelt."
+      ]
+    },
+    {
+      "id": "ohorongo-zementwerk-economic-v2",
+      "descriptionAdvanced": "Das Ohorongo Zementwerk, das nahe der Stadt Otavi im fruchtbaren Karstgebiet liegt, ist die größte Zementfabrik Namibias und ein Leuchtturmprojekt für ausländische Industrieinvestitionen. Erbaut von der deutschen Schwenk-Gruppe und 2010 eingeweiht, ist es eines der modernsten und umweltfreundlichsten Zementwerke des gesamten afrikanischen Kontinents. Da alle Rohstoffe – Kalkstein, Schiefer, Ton und Gips – direkt auf dem Gelände der Farm Sargberg abgebaut werden, ist die Anlage extrem effizient. Mit einer Produktionskapazität von über einer Million Tonnen pro Jahr macht Ohorongo das Land beim Zementbedarf völlig unabhängig von Importen und beliefert zudem die angrenzenden SADC-Staaten. Wirtschaft K6 — Baustoffindustrie und lokale Wertschöpfung.",
+      "factsAdvanced": [
+        "Die Anlage wurde 2010 mit einer Investition von rund 2,5 Milliarden Namibia-Dollar eröffnet.",
+        "Sie besitzt eine maximale Produktionskapazität von 1,2 Millionen Tonnen Zement pro Jahr.",
+        "Als Brennstoff wird zunehmend auf encroacher bush (Verbuschungsholz) aus der Region gesetzt.",
+        "Das Zementwerk wurde primär von dem deutschen Unternehmen Schwenk Zement KG finanziert.",
+        "Alle Grundmaterialien für die Zementherstellung werden im Umkreis von wenigen Kilometern abgebaut.",
+        "Ohorongo betreibt in Namibia ein eigenes, hochmodernes Qualitätskontroll-Labor."
+      ]
+    },
+    {
+      "id": "skorpion-zinkmine-economic-v2",
+      "descriptionAdvanced": "Die Skorpion-Zinkmine, gelegen im extrem abgelegenen Sperrgebiet im Süden Namibias nahe Rosh Pinah, war bis zu ihrer vorübergehenden Schließung eine der größten Zinkminen weltweit. Entdeckt in den späten 1970er Jahren, wurde die Anlage 2003 von Anglo American erbaut. Was die Mine technologisch so besonders macht, ist das komplexe Zinkoxid-Erz, das in der hochmodernen Raffinerie vor Ort durch ein fortschrittliches Lösungsmittelextraktions- und Elektrogewinnungsverfahren direkt in hochreines metallisches Zink (Special High Grade) umgewandelt wurde – ohne den üblichen und umweltbelastenden Schmelzprozess. Die Mine trug massiv zum BIP von Namibia bei. Wirtschaft K8 — Raffinerietechnik und Grundmetalle.",
+      "factsAdvanced": [
+        "Die Skorpion-Zinkmine nahm 2003 die kommerzielle Produktion auf.",
+        "Die Investitionskosten für die Mine und Raffinerie betrugen damals 454 Millionen US-Dollar.",
+        "Die Anlage produzierte hochreines SHG-Zink (99,995 % Reinheit) direkt am Standort.",
+        "Sie befindet sich etwa 25 km nördlich der Nachbarmine Rosh Pinah im Diamantensperrgebiet.",
+        "Im Jahr 2020 wurde die Mine aufgrund geotechnischer Instabilität (Grubenwandrutschungen) vorübergehend geschlossen.",
+        "Der indische Vedanta-Konzern kaufte die Skorpion-Mine im Jahr 2010 von Anglo American."
+      ]
+    },
+    {
+      "id": "rosh-pinah-zinkmine-economic-v2",
+      "descriptionAdvanced": "Die Untertage-Zinkmine Rosh Pinah, in der gleichnamigen Stadt im Süden Namibias, ist eines der am längsten durchgehend produzierenden Bergbauprojekte des Landes. Seit 1969 liefert sie ununterbrochen hochwertige Zink- und Bleikonzentrate. Im Gegensatz zur nahen Skorpion-Mine, die Zinkoxide fördert und direkt verarbeitet, baut Rosh Pinah sulfidische Erze tief unter der Erde ab. Das abgebaute Erz wird vor Ort aufbereitet und dann über staubige Wüstenstraßen in den 300 Kilometer entfernten Hafen von Lüderitz transportiert, um es weltweit an Schmelzhütten zu exportieren. Geografie K7 — Untertagebau und Transportlogistik.",
+      "factsAdvanced": [
+        "Die Rosh Pinah Mine ist seit 1969 kontinuierlich in Betrieb.",
+        "Das geförderte sulfidische Erz wird direkt auf dem Minengelände zu Konzentrat vermahlen.",
+        "Im Jahr 2017 erwarb das kanadische Unternehmen Trevali Mining 90% der Anteile.",
+        "Die Mine produziert jährlich über 100.000 Tonnen Zink- und Bleikonzentrat.",
+        "Ein massives Ausbauprojekt ('RP2.0') soll die Lebensdauer der Mine bis in die 2030er Jahre verlängern.",
+        "Der Name Rosh Pinah wurde vom Entdecker Moshe Kahan, inspiriert durch die Bibel, vergeben."
+      ]
+    },
+    {
+      "id": "navachab-goldmine-economic-v2",
+      "descriptionAdvanced": "Die Navachab-Goldmine ist Namibias wichtigste und älteste aktive Goldmine und liegt verdeckt im Buschland südwestlich der Stadt Karibib. Die Lagerstätte wurde 1984 bei Explorationen entdeckt und der Tagebau nahm 1989 den Betrieb auf. Das Gold ist fein in Marmor- und Kalksteinschichten verteilt, was den Abbau kompliziert macht und einen der Gründe darstellt, warum das Erz zu feinem Staub vermahlen und mittels einer Zyanidlaugung extrahiert wird. An der Minenwand ist deutlich der geologische Faltungsprozess der Damara-Sequenz sichtbar. Die Mine ist ein wirtschaftlicher Anker für die gesamte Erongo-Region. Sachkunde K8 — Edelmetallabbau und geologische Faltungen.",
+      "factsAdvanced": [
+        "Navachab ist die einzige noch produzierende Gold-Tagebaumine in ganz Namibia.",
+        "Die Goldproduktion begann offiziell im Dezember 1989.",
+        "Das Gold liegt fast unsichtbar in Marmor- und Kalksilikatgestein gebunden vor.",
+        "Der Tagebau ist inzwischen über 200 Meter tief und erstreckt sich über einen Kilometer.",
+        "Das britische Unternehmen QKR Corporation kaufte die Mine 2014 von AngloGold Ashanti.",
+        "Die Mine produziert durchschnittlich etwa 60.000 bis 80.000 Unzen Gold pro Jahr."
+      ]
+    },
+    {
+      "id": "otjikoto-goldmine-economic-v2",
+      "descriptionAdvanced": "Die Otjikoto-Goldmine, strategisch gut gelegen nahe der Nationalstraße B1 zwischen Otjiwarongo und Otavi, ist Namibias modernste Edelmetall-Mine. Sie wurde 2014 durch das kanadische Unternehmen B2Gold eröffnet und ist im Vergleich zu Navachab ein relativ junges Projekt. Otjikoto rühmt sich, eine der am schnellsten in die Produktion gebrachten Goldminen der Welt zu sein. Die Mine nutzt hochmoderne Technologie und ein eigenes 7-Megawatt-Solarkraftwerk zur Reduzierung des Schwerölverbrauchs. Das abgebaute Gold wird auf dem Gelände in Form von Barren, dem sogenannten 'Doré-Gold' (ca. 80-90% Reinheit), gegossen und in internationalen Raffinerien verfeinert. Wirtschaft K7 — Nachhaltiger Bergbau und Erneuerbare Energien.",
+      "factsAdvanced": [
+        "Die erste Goldbarren-Gießung (Doré) in Otjikoto fand im Dezember 2014 statt.",
+        "B2Gold hält 90% der Anteile an der Mine, während namibische Partner die restlichen 10% besitzen.",
+        "Die Anlage verfügt über einen der ersten großen Solarstromparks im namibischen Bergbau (7 MW).",
+        "Die Mine erreichte 2019 eine Rekordproduktion von über 175.000 Unzen Gold.",
+        "In der Nähe befindet sich ein Naturschutzgebiet, das von der Minengesellschaft gefördert wird.",
+        "Der Abbau findet zunehmend nicht nur im Tagebau, sondern in der unterirdischen Wolfshag-Zone statt."
+      ]
+    },
+    {
+      "id": "tschudi-kupfermine-economic-v2",
+      "descriptionAdvanced": "Die Tschudi-Kupfermine liegt in der stark mineralisierten Karstlandschaft in der Nähe der alten Bergbaustadt Tsumeb. Die 2015 eröffnete Mine wendet ein innovatives und kostengünstiges hydrometallurgisches Verfahren an: Statt Kupfererz einzuschmelzen, wird das oxidische Erz mit Säure besprüht und das reine Kupfer (LME Grade A) durch Elektrolyse direkt vor Ort aus der Lösung gewonnen. Diese Technik, bekannt als Solvent Extraction and Electrowinning (SX-EW), produzierte zeitweise über 17.000 Tonnen reinstes Kupfer pro Jahr. In jüngster Zeit sah sich das Projekt jedoch mit massiven Herausforderungen durch ungeplanten Grundwassereinbruch im Tagebau konfrontiert. Technologie K8 — Hydrometallurgie und Wasserprobleme im Bergbau.",
+      "factsAdvanced": [
+        "Die Mine wurde 2015 vom britischen Unternehmen Weatherly International in Betrieb genommen.",
+        "Tschudi produzierte Kupferkathoden mit einem extremen Reinheitsgrad von 99,99%.",
+        "Es ist die erste Mine in Namibia, die das SX-EW (Solvent Extraction) Verfahren für Kupfer nutzt.",
+        "Der Grundwasserspiegel ist in der Region hoch, was zu massiven Pumpproblemen im Tagebau führte.",
+        "2020 wurde der Abbau wegen ständiger Überschwemmungen der Grube eingestellt.",
+        "Tschudi liegt etwa 20 Kilometer westlich der historischen Bergbaustadt Tsumeb."
+      ]
+    },
+    {
+      "id": "matchless-kupfermine-economic-v2",
+      "descriptionAdvanced": "Die Matchless-Kupfermine liegt tief in den Ausläufern des Khomas-Hochlandes in der Nähe der Hauptstadt Windhoek und hat eine Geschichte, die bis in die 1850er Jahre zurückreicht, als Forscher wie Charles Andersson sie besuchten. Modern ausgebaut wurde sie in den 1970er Jahren von Tsumeb Corporation, um sulfidisches Kupfererz durch Untertagebau zu gewinnen. Aufgrund schwankender Kupferpreise hat Matchless eine wechselhafte Geschichte mit mehrmaligen Schließungen und Wiedereröffnungen hinter sich. Gemeinsam mit der nahegelegenen Otjihase-Mine liefert sie das Kupfererz, das zur Weiterverarbeitung oft an die große Schmelzhütte in Tsumeb transportiert wird. Geschichte K6 — Historische Abbaugebiete in Zentralnamibia.",
+      "factsAdvanced": [
+        "Der historische Name Matchless (unvergleichlich) wurde in den 1850er Jahren von frühen Händlern vergeben.",
+        "Der moderne Untertagebau begann im Jahr 1980 durch die Tsumeb Corporation Limited (TCL).",
+        "Das Erzvorkommen ist ein sogenanntes vulkanogenes Massivsulfid (VMS).",
+        "Aufgrund der Nähe zum Friedenau-Staudamm müssen Umweltstandards extrem streng kontrolliert werden.",
+        "Matchless wurde wie die Schwestermine Otjihase nach 2015 wegen fallender Kupferpreise in Wartung versetzt.",
+        "Die Mine liegt nur etwa 30 Kilometer südwestlich der Hauptstadt Windhoek."
+      ]
+    },
+    {
+      "id": "otjihase-kupfermine-economic-v2",
+      "descriptionAdvanced": "Die Otjihase-Mine liegt idyllisch in den steilen Bergen nur wenige Kilometer nordöstlich von Windhoek und ist ein Eckpfeiler des namibischen Kupferbergbaus. Die in den 1970er Jahren entdeckte Mine operiert vollständig unter Tage, tief im Khomas-Hochland. Das abgebaute Erz, das oft kleine Mengen Gold und Silber als wertvolle Nebenprodukte enthält, wird an die Oberfläche gebracht und zu einem Konzentrat gemahlen. Weil die Mine geografisch so nah an der Landeshauptstadt liegt, bietet sie den Arbeitern den ungewöhnlichen Vorteil, direkt in Windhoek wohnen zu können. Sie teilt das Schicksal ständiger Produktionsstopps abhängig von den Launen der globalen Kupferpreise. Wirtschaft K7 — Basismetalle und Pendler-Minen.",
+      "factsAdvanced": [
+        "Otjihase wurde 1975 von Johannesburg Consolidated Investments (JCI) in Betrieb genommen.",
+        "Neben Kupfer produziert Otjihase als Nebenprodukte auch Gold, Silber und Pyrit.",
+        "Die Untertagemine liegt nur 18 Kilometer von der Hauptstadt Windhoek entfernt.",
+        "Das Erz wird durch eine lange Transportröhre (Decline) an die Oberfläche befördert.",
+        "Das produzierte Kupferkonzentrat wurde traditionell mit der Eisenbahn zur Tsumeb-Hütte gefahren.",
+        "Die Produktion wurde in den Jahren 1998, 2015 und 2019 aufgrund der Weltmarktlage vorübergehend gestoppt."
+      ]
+    },
+    {
+      "id": "namdeb-oranjemund-economic-v2",
+      "descriptionAdvanced": "Die Minen von Namdeb (einem 50/50 Joint Venture zwischen der namibischen Regierung und De Beers) entlang der Südwestküste bei Oranjemund repräsentieren den wohl reichsten alluvialen Diamantenabbau der Welt. Über Millionen von Jahren wusch der Oranje-Fluss Diamanten aus dem Landesinneren in den Ozean, wo die Strömung sie an der Küste ablagerte. Um diese wertvollen Steine zu bergen, verschieben die Ingenieure von Namdeb buchstäblich das Meer: Riesige Erdwälle werden in die starke atlantische Brandung gebaut, um das Wasser zurückzudrängen, während massives Gerät den freigelegten Meeresboden bis auf das felsige Grundgestein (Bedrock) absaugt, in dessen Rissen sich die Diamanten verstecken. Technik K8 — Alluvialer Abbau und gigantische Küsteningenieurkunst.",
+      "factsAdvanced": [
+        "Namdeb wurde 1994 gegründet und löste die historische Consolidated Diamond Mines (CDM) ab.",
+        "Rund 95% der hier abgebauten Diamanten besitzen höchste Schmucksteinqualität (Gem Quality).",
+        "Namdeb konstruiert sogenannte 'Sea Walls', die den Ozean um bis zu 30 Meter zurückdrängen.",
+        "Die Diamanten wurden vor Millionen von Jahren über 1000 km weit vom Oranje-Fluss herangespült.",
+        "Um das Fundgestein komplett zu leeren, verwenden Arbeiter teils riesige industrielle Staubsauger ('Vacuums').",
+        "Der Diamantenabbau in dieser 'Sperrgebiet'-Zone ist das wichtigste Steuer-Rückgrat der Nation."
+      ]
+    },
+    {
+      "id": "elizabeth-bay-mine-economic-v2",
+      "descriptionAdvanced": "Die Elizabeth Bay Mine ist eine historische Diamantenmine im nördlichen Teil des Sperrgebiets, etwa 25 Kilometer südlich von Lüderitz. Entdeckt wurde sie kurz nach Kolmanskuppe während des großen Diamantenrauschs vor dem Ersten Weltkrieg. Nach jahrzehntelangem Stillstand reaktivierte Namdeb 1991 den Abbau in dieser windgepeitschten Bucht. Das Gebiet zeichnet sich durch rötlichen Sand und gnadenlose Südwinde aus, weshalb die Verarbeitungsanlagen massiv gegen die Elemente geschützt werden mussten. Im Jahr 2020 verkaufte Namdeb die Anlage an ein lokales Konsortium (Sperrgebiet Diamond Mining), das versucht, der rauen Küste mit neuen technologischen Ansätzen die restlichen Edelsteine abzuringen. Geschichte K8 — Wiedereröffnung historischer Minen.",
+      "factsAdvanced": [
+        "Elizabeth Bay produzierte bereits zwischen 1911 und 1948 große Mengen an Diamanten.",
+        "Die Mine wurde 1991 von Namdeb für 135 Millionen Rand komplett neu aufgebaut und reaktiviert.",
+        "In der Anlage wird das diamantenhaltige Sand-Gestein-Gemisch aus ehemals untergetauchten Meeresböden gewonnen.",
+        "Die Winde in der Bucht erreichen fast täglich Sturmgeschwindigkeit (oft über 80 km/h).",
+        "Die historische deutsche Geisterstadt der Mine verfällt langsam unter den vorrückenden Sanddünen.",
+        "2020 kaufte Sperrgebiet Diamond Mining (Namibianischer Besitz) die Mine von Namdeb."
+      ]
+    },
+    {
+      "id": "bogenfels-diamantenmine-economic-v2",
+      "descriptionAdvanced": "Die Bogenfels-Diamantenmine liegt tief im südlichen Sperrgebiet, extrem isoliert nahe dem berühmten, 55 Meter hohen Felsbogen (dem Bogenfels), der in den Atlantik ragt. Während des frühen Diamantenbooms ab 1910 war dies eine der reichsten Claims in Südwestafrika; innerhalb weniger Jahre sammelten die Pioniere hier buchstäblich Millionen von Diamanten aus dem Wüstensand. Um 1930 wurde die extrem aufwendige Förderung hier eingestellt und die großen Fabrikanlagen dem rauen Wüstenklima überlassen. Heute unternimmt Namdeb in der Pocket Beach (kleinen Buchten in der Nähe des Bogenfels) moderne Abbauversuche im kleinen Stil, während die alten Fabrikruinen langsam vom Salznebel zerfressen werden. Geografie K7 — Verlassene Industrien und Naturdenkmäler.",
+      "factsAdvanced": [
+        "Zwischen 1910 und 1913 wurden hier über 400.000 Karat Diamanten quasi von Hand gesammelt.",
+        "Die verlassenen Ruinen der großen Bogenfels-Wäscherei sind heute noch deutlich sichtbar.",
+        "Der nahegelegene Bogenfels ist ein Kalksteinbogen, der sich 55 Meter in den Himmel streckt.",
+        "Der Ort liegt etwa 100 Kilometer südlich der Küstenstadt Lüderitz im völligen Niemandsland.",
+        "Um Wasser zu gewinnen, betrieben die frühen Minen hier Anlagen zur Meerwasserentsalzung durch Kondensation.",
+        "Namdeb führt heutzutage sogenannte 'Pocket Beach Mining'-Operationen in den Felsbuchten durch."
+      ]
+    }
+  ]
+}

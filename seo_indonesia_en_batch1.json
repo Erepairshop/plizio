@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bandung-cities-v2",
+      "descriptionAdvanced": "Bandung, the capital of West Java province, is located in a river basin surrounded by volcanic mountains. This strategic elevation at 768 meters above sea level provides a cooler climate than most Indonesian cities, earning it the nickname 'Paris of Java' during the colonial era. Known for its well-preserved Art Deco architecture and vibrant creative industries, Bandung is a major center for education, fashion, and technology. It holds a significant place in world history as the host of the 1955 Bandung Conference, which was a pivotal moment for the Non-Aligned Movement. Today, it remains a popular getaway from Jakarta, offering a blend of modern urban culture, historical landmarks, and scenic tea plantations in its highlands. Geography K9 — Urban Development and Creative Economies.",
+      "factsAdvanced": [
+        "Officially founded as the capital of West Java on September 25, 1810.",
+        "Sits at an average altitude of 768 meters in a volcanic basin.",
+        "Hosted the historic Asian-African Conference in April 1955.",
+        "Home to the Bandung Institute of Technology (ITB), founded in 1920.",
+        "The iconic Gedung Sate was completed in 1924 as a government hub.",
+        "Features one of the world's highest concentrations of Art Deco buildings.",
+        "Known for the 'Paris van Java' moniker due to its European-style layout.",
+        "Surrounded by active volcanoes like Tangkuban Perahu and Mount Patuha."
+      ]
+    },
+    {
+      "id": "surabaya-cities-v2",
+      "descriptionAdvanced": "Surabaya is Indonesia's second-largest city and the capital of East Java, serving as a vital maritime and commercial gateway for the nation. Historically known as the 'City of Heroes,' it played a crucial role in the Indonesian National Revolution, particularly during the Battle of Surabaya in 1945. The city's name is derived from the myth of a 'Sura' (shark) and 'Baya' (crocodile) battling for dominance, symbolizing the spirit of resistance. As a major industrial hub, it features the Tanjung Perak Port, one of the busiest in Southeast Asia. Surabaya seamlessly blends modern skyscrapers with colonial history, represented by its old town district and the Suramadu Bridge connecting Java to Madura. Geography K8 — Global Trade and Port Infrastructure.",
+      "factsAdvanced": [
+        "Commemorates National Heroes Day every November 10th since 1945.",
+        "The Suramadu Bridge, opened in 2009, spans 5.4 kilometers to Madura.",
+        "Tanjung Perak is the second busiest seaport in Indonesia.",
+        "Home to the Jalesveva Jayamahe Monument, a 30.6-meter maritime statue.",
+        "Officially established on May 31, 1293, after a victory over Mongol forces.",
+        "The city's symbol depicts the legendary fight between a shark and a crocodile.",
+        "Serves as the main base for the Indonesian Navy's Eastern Fleet.",
+        "Features the largest mosque in East Java, the Al-Akbar Mosque."
+      ]
+    },
+    {
+      "id": "medan-cities-v2",
+      "descriptionAdvanced": "Medan is the capital of North Sumatra and the largest city in Indonesia outside the island of Java. It emerged as a major economic hub in the late 19th century through the prosperity of tobacco, rubber, and palm oil plantations. Medan is a vibrant multicultural melting pot where Malay, Javanese, Chinese, Batak, and Indian communities coexist, creating a unique cultural and culinary landscape. Architectural landmarks like the Maimun Palace and the Great Mosque of Medan showcase a blend of Moorish, Malay, and European styles. As the gateway to northern Sumatra, it provides access to natural wonders like Lake Toba and the rainforests of Gunung Leuser National Park. Geography K7 — Plantation Agriculture and Regional Development.",
+      "factsAdvanced": [
+        "Founded on July 1, 1590, by Guru Patimpus Sembiring Pelawi.",
+        "The Maimun Palace, built in 1888, features 30 rooms with royal heritage.",
+        "The Great Mosque of Medan (Masjid Raya Al-Mashun) was opened in 1909.",
+        "Kualanamu International Airport is the first in Indonesia with a train link.",
+        "Medan is the fourth most populous city in Indonesia after Jakarta, Surabaya, and Bandung.",
+        "Known as a world-class culinary destination, famous for Durian and Bika Ambon.",
+        "Belawan Port is the primary export gate for North Sumatran palm oil.",
+        "The Tjong A Fie Mansion highlights the city's rich Chinese-Indonesian history."
+      ]
+    },
+    {
+      "id": "makassar-cities-v2",
+      "descriptionAdvanced": "Makassar, formerly known as Ujung Pandang, is the largest city on the island of Sulawesi and the primary gateway to eastern Indonesia. Historically, it was a powerful maritime sultanate that controlled the spice trade and resisted European colonial monopolies for decades. The city is famous for its seafaring heritage, particularly the traditional Pinisi schooners built by the Bugis and Makassarese people. Today, Makassar is a thriving commercial center known for its bustling waterfront, Losari Beach, and the historic Fort Rotterdam. It serves as a vital logistics hub for nickel, cocoa, and seafood exports, while also acting as a starting point for travelers heading to the Toraja highlands. Geography K10 — International Trade and Maritime Routes.",
+      "factsAdvanced": [
+        "Fort Rotterdam was originally a Gowa Kingdom fortress built in 1545.",
+        "The city was renamed Ujung Pandang from 1971 until 1999.",
+        "Famous for 'Pinisi' ship-building, recognized as UNESCO Intangible Heritage.",
+        "Losari Beach is renowned for having the best sunset views in the region.",
+        "The Trans Studio Makassar is one of the world's largest indoor theme parks.",
+        "Home to Hasanuddin University, a leading educational institution in eastern Indonesia.",
+        "Known for its unique cuisine, including Coto Makassar and Konro soup.",
+        "Serves as the main logistics hub for the export of Indonesian nickel and cocoa."
+      ]
+    },
+    {
+      "id": "semarang-cities-v2",
+      "descriptionAdvanced": "Semarang is the capital of Central Java, uniquely situated on the northern coast with both a low-lying coastal plain and a hilly interior. The city is famous for its 'Kota Lama' (Old Town), which features exceptionally well-preserved Dutch colonial buildings, earning it the name 'Little Netherlands.' Semarang is a significant cultural crossroads, exemplified by the Sam Poo Kong Temple, which honors the Chinese Admiral Zheng He who arrived in the 15th century. Modern Semarang is a vital industrial and educational center, though it faces environmental challenges such as land subsidence and rising sea levels. The city serves as a key maritime link between Java and the rest of the archipelago through its Tanjung Emas Port. Geography K10 — Sea Level Rise and Coastal Protection.",
+      "factsAdvanced": [
+        "The 'Kota Lama' district is home to the 18th-century Blenduk Church.",
+        "Lawang Sewu, meaning 'Thousand Doors,' was the HQ of the Dutch railway company.",
+        "Sam Poo Kong is the oldest Chinese temple in Semarang, dating to 1405.",
+        "The city faces a significant land subsidence rate of up to 10 cm per year.",
+        "The Great Mosque of Central Java features massive hydraulic umbrellas.",
+        "Tanjung Emas is the main international seaport for Central Java.",
+        "Known for its distinct local snack, Lunpia Semarang, influenced by Chinese cuisine.",
+        "Serves as an important center for the Indonesian furniture and textile industries."
+      ]
+    },
+    {
+      "id": "palembang-cities-v2",
+      "descriptionAdvanced": "Palembang is the capital of South Sumatra and one of the oldest continuously inhabited cities in Southeast Asia. Between the 7th and 12th centuries, it was the glorious heart of the Srivijaya Empire, a Buddhist maritime power that controlled the strategic Strait of Malacca. The city is divided by the mighty Musi River, with the iconic red Ampera Bridge serving as its primary landmark. Palembang is known as the 'Venice of the East' due to its traditional lifestyle centered on the river and stilt houses. Today, it is a major industrial hub for oil, gas, and fertilizer production, while maintaining its rich cultural heritage through traditional Songket weaving and its world-famous fishcake dish, Pempek. Geography K8 — Maritime Kingdoms and Regional History.",
+      "factsAdvanced": [
+        "Officially recognized as a city since June 16, 682 AD, per the Kedukan Bukit inscription.",
+        "The Ampera Bridge was built in 1962 using Japanese war reparations.",
+        "Palembang hosted the 2018 Asian Games alongside Jakarta.",
+        "Home to Indonesia's first Light Rail Transit (LRT) system, opened in 2018.",
+        "The Musi River is 750 kilometers long and is the lifeline of the city.",
+        "Famous for Songket, a traditional gold-threaded hand-woven fabric.",
+        "The Great Mosque of Palembang reflects a mix of Malay, Chinese, and European styles.",
+        "Kemaro Island in the Musi River is a sacred site for the Chinese-Indonesian community."
+      ]
+    },
+    {
+      "id": "denpasar-cities-v2",
+      "descriptionAdvanced": "Denpasar is the capital of Bali and the island's primary administrative and commercial center. While many visitors head straight to the beaches of Kuta or Sanur, Denpasar offers an authentic look at Balinese urban life and history. The city is home to the Bajra Sandhi Monument, a massive structure commemorating the struggles of the Balinese people, and the Bali Museum, which houses a vast collection of ethnographic and archaeological artifacts. Denpasar's layout is characterized by ornate Hindu temples, bustling traditional markets like Pasar Badung, and modern infrastructure. As the island's educational and government hub, it balances rapid urbanization with the deep-rooted Hindu traditions that define Balinese culture. Geography K8 — Tourism and Urbanization in Island Regions.",
+      "factsAdvanced": [
+        "Became the capital of Bali province in 1958, replacing Singaraja.",
+        "The name Denpasar means 'North of the Market' in the Balinese language.",
+        "The Bajra Sandhi Monument was completed in 2003 and sits in Renon Square.",
+        "Puputan Square commemorates the 1906 mass suicide in defiance of Dutch rule.",
+        "Pasar Badung is the largest traditional market on the island, operating 24/7.",
+        "The Bali Arts Festival is held annually at the Art Center (Taman Werdhi Budaya).",
+        "Pura Jagatnatha is the largest Hindu temple in the city center.",
+        "The city's population grew rapidly from 80,000 in 1960 to over 700,000 today."
+      ]
+    },
+    {
+      "id": "yogyakarta-cities-v2",
+      "descriptionAdvanced": "Yogyakarta, often called 'Jogja,' is the cultural soul of Java and the only Indonesian province still officially ruled by a pre-colonial monarchy. As a Special Region, it is governed by the Sultan of Yogyakarta, whose palace, the Kraton, remains the city's spiritual and architectural center. Yogyakarta is world-renowned for its classical Javanese arts, including Batik, Gamelan music, and Wayang shadow puppetry. It is a prestigious center for education, home to Gadjah Mada University, and serves as the gateway to the magnificent UNESCO World Heritage temples of Borobudur and Prambanan. The city's atmosphere is a unique blend of ancient tradition, youthful energy from its large student population, and proximity to the active Mount Merapi volcano. Geography K9 — Cultural Heritage and Political Autonomy.",
+      "factsAdvanced": [
+        "Served as the temporary capital of the Indonesian Republic from 1946 to 1950.",
+        "The Kraton Yogyakarta was founded in 1755 by Sultan Hamengkubuwono I.",
+        "Home to Gadjah Mada University, the oldest and largest university in Indonesia.",
+        "Malioboro Street is the city's most famous shopping and cultural thoroughfare.",
+        "The Taman Sari Water Castle served as a royal garden for the Sultanate.",
+        "Located just 30 kilometers from the highly active Mount Merapi volcano.",
+        "The Tugu monument is the iconic symbol of the city's geographical alignment.",
+        "Recognized as a UNESCO City of Crafts and Folk Art."
+      ]
+    },
+    {
+      "id": "pontianak-cities-v2",
+      "descriptionAdvanced": "Pontianak, the capital of West Kalimantan, holds a unique geographical distinction as one of the few cities in the world located exactly on the Equator. This 'Equator City' was founded at the confluence of the Kapuas and Landak rivers, with the Kapuas being the longest river in the Indonesian archipelago. The Equator Monument marks the 0-degree latitude line, where shadows disappear during the biannual equinoxes. Pontianak is a diverse melting pot of Malay, Dayak, and Chinese-Indonesian cultures, visible in its vibrant festivals and varied architecture. The city's economy is driven by river-based trade, agricultural processing of aloe vera and citrus, and its role as a gateway to the vast rainforests of Borneo. Geography K7 — Life on the Equator and River Systems.",
+      "factsAdvanced": [
+        "Founded on October 23, 1771, by Sultan Syarif Abdurrahman Alkadrie.",
+        "The Equator Monument (Tugu Khatulistiwa) was first established in 1928.",
+        "The Kapuas River is 1,143 kilometers long, the longest in Indonesia.",
+        "The shadowless phenomenon occurs every March 21 and September 23.",
+        "Home to the Kadriyah Palace, the seat of the former Pontianak Sultanate.",
+        "The Jami Mosque is one of the oldest and largest wooden mosques in the region.",
+        "A major center for the production of Aloe Vera and Siantan oranges.",
+        "The city sits at an elevation of only 0 to 1 meter above sea level."
+      ]
+    },
+    {
+      "id": "banjarmasin-cities-v2",
+      "descriptionAdvanced": "Banjarmasin is the capital of South Kalimantan and is famously known as the 'City of a Thousand Rivers.' Situated on a delta island near the junction of the Barito and Martapura rivers, the city's identity is defined by its intricate network of waterways. The world-famous floating markets, such as Lok Baintan, showcase a traditional way of life where commerce takes place entirely on small wooden boats called 'jukung.' Banjarmasin is a historic center for the diamond and gemstone trade, with the nearby town of Martapura being a global hub for gem cutting. The city features unique Banjar architecture, characterized by stilt houses and the grand Sabilal Muhtadin Mosque, which dominates the riverfront skyline. Geography K7 — Adaptation to Water Environments.",
+      "factsAdvanced": [
+        "The Sultanate of Banjar was officially established on September 24, 1526.",
+        "The Lok Baintan floating market has been active for over 400 years.",
+        "Sabilal Muhtadin Mosque is the second largest mosque in Indonesia after Istiqlal.",
+        "Martapura, near the city, is a world-renowned center for diamond polishing.",
+        "The city's life is centered on the 900-kilometer long Barito River.",
+        "Proboscis monkeys, endemic to Borneo, can be found in the nearby river islands.",
+        "Traditional houses, called 'Rumah Bubungan Tinggi,' feature high-pitched roofs.",
+        "The city is a major hub for coal, timber, and rubber exports from Borneo."
+      ]
+    },
+    {
+      "id": "balikpapan-cities-v2",
+      "descriptionAdvanced": "Balikpapan is the modern industrial powerhouse of East Kalimantan and is frequently cited as the cleanest and most well-managed city in Indonesia. Historically a small fishing village, its fate changed in 1897 with the discovery of oil, transforming it into a global hub for the petroleum and gas industries. Today, the massive Pertamina oil refineries dominate the coastal landscape, while the city offers high-quality infrastructure and beautiful urban beaches like Kemala. Balikpapan serves as the primary logistics gateway for the resource-rich interior of Kalimantan and is poised to play a critical role in supporting Nusantara, the new capital of Indonesia currently under construction nearby. Geography K11 — Energy Resources and Urban Planning.",
+      "factsAdvanced": [
+        "The first oil well, named 'Mathilda,' was drilled on February 10, 1897.",
+        "Home to the Sultan Aji Muhammad Sulaiman Airport, a top-rated facility in Asia.",
+        "The Pertamina refinery in Balikpapan processes about 260,000 barrels of oil daily.",
+        "Won the 'Adipura Kencana' award multiple times for its environmental cleanliness.",
+        "The Samboja Lestari sanctuary nearby protects endangered Sun Bears and Orangutans.",
+        "Strategically located on the Makassar Strait, a vital international shipping lane.",
+        "The Bangkirai Hill canopy bridge offers a unique view of the tropical rainforest.",
+        "Serves as the main gateway to the new Indonesian capital city, Nusantara."
+      ]
+    },
+    {
+      "id": "pekanbaru-cities-v2",
+      "descriptionAdvanced": "Pekanbaru, the capital of Riau province on Sumatra, has rapidly transformed from a small trading post on the Siak River into one of Indonesia's wealthiest and fastest-growing cities. Its prosperity is driven by the region's vast petroleum reserves and the booming palm oil and pulp industries. The city's name, meaning 'New Market,' reflects its origins as a commercial hub. Modern Pekanbaru is characterized by wide boulevards and grand architectural landmarks, most notably the An-Nur Great Mosque, often called the 'Taj Mahal of Riau' for its stunning design. While it is an industrial center, the city retains strong Malay cultural roots and provides a gateway to the historic Siak Sri Indrapura Palace. Geography K8 — Resource Economies and Industrial Development.",
+      "factsAdvanced": [
+        "Officially founded as a trading market on June 23, 1784.",
+        "The Siak River, which bisects the city, is the deepest river in Indonesia.",
+        "The An-Nur Great Mosque, completed in 1968, features five distinctive domes.",
+        "Riau province produces about one-quarter of Indonesia's total crude oil.",
+        "Home to Chevron Pacific Indonesia, one of the nation's largest oil producers.",
+        "A major global hub for the export of palm oil and paper products.",
+        "The Idrus Tintin Cultural Center is a landmark for Malay arts and performances.",
+        "The city's population skyrocketed from 300,000 to over 1.1 million in 30 years."
+      ]
+    },
+    {
+      "id": "manado-cities-v2",
+      "descriptionAdvanced": "Manado is the stunning capital of North Sulawesi, nestled between lush volcanic mountains and the deep blue Manado Bay. It is a world-class destination for nature lovers, primarily known as the gateway to Bunaken National Marine Park, which boasts some of the highest marine biodiversity on Earth. Unlike most of Indonesia, Manado is a center of Christianity, predominantly inhabited by the Minahasa people, which is reflected in its numerous churches and the massive 'Christ Blessing' statue. The city is famous for its spicy and exotic Minahasan cuisine and its warm hospitality. Surrounded by active volcanoes like Mount Lokon, Manado offers a perfect combination of marine adventure and highland exploration. Geography K10 — Marine Biodiversity and Eco-Tourism.",
+      "factsAdvanced": [
+        "Bunaken National Marine Park covers 89,000 hectares and 390 coral species.",
+        "The 'Christ Blessing' (Kristus Memberkati) statue stands 50 meters tall.",
+        "The city was a major colonial outpost for the Dutch spice trade in the 17th century.",
+        "Manado cuisine is famous for its extreme spiciness and unique ingredients.",
+        "Hosted the World Ocean Conference in 2009 to discuss climate change.",
+        "Approximately 63% of the city's population is Christian.",
+        "The city was almost entirely destroyed in WWII and rebuilt in the 1950s.",
+        "Surrounded by active volcanoes, including Mount Lokon and Mount Mahawu."
+      ]
+    },
+    {
+      "id": "kuta-cities-v2",
+      "descriptionAdvanced": "Kuta is the world-famous face of tourism in Bali, having evolved from a secluded fishing village into the island's most vibrant resort destination. Its long, golden sandy beach is legendary for its beginner-friendly surf waves and spectacular sunsets that draw thousands of visitors daily. Kuta is the epicenter of nightlife, shopping, and dining on the island, offering everything from bustling street markets to luxury malls like Discovery and Beachwalk. This rapid transformation has also brought environmental and social challenges, such as plastic pollution and traffic congestion, making Kuta a prime example of the complexities of mass tourism. Despite the crowds, it remains a beloved gateway for millions of international travelers. Geography K8 — Mass Tourism and Environmental Impact.",
+      "factsAdvanced": [
+        "First gained international fame in the 1970s as part of the 'Hippy Trail'.",
+        "Kuta Beach stretches for about 2.5 kilometers of continuous sand.",
+        "Home to the 'Ground Zero' Memorial, honoring the victims of the 2002 bombings.",
+        "Waterbom Bali in Kuta is consistently ranked as Asia's top water park.",
+        "Located only 15 minutes away from Ngurah Rai International Airport.",
+        "The area was historically a major export port for Balinese rice and slaves.",
+        "Kuta has the highest density of tourist accommodation in Indonesia.",
+        "Suffers from seasonal plastic pollution washed up during the monsoon season."
+      ]
+    },
+    {
+      "id": "bogor-cities-v2",
+      "descriptionAdvanced": "Bogor, situated in the highlands of West Java, is famously known as the 'Rain City' due to its near-daily tropical showers. During the colonial era, it was called 'Buitenzorg' (Without a Care) and served as the summer residence for Dutch Governors-General seeking relief from Jakarta's heat. The heart of the city is the world-renowned Bogor Botanical Gardens, one of the oldest and largest in the world, which adjoins the grand Presidential Palace. Bogor is a major center for agricultural research and education, home to the prestigious IPB University. With its lush greenery, cooler climate, and proximity to the Puncak tea plantations, it remains a favorite weekend destination for residents of the capital. Geography K7 — Tropical Rainforest Climate and Botany.",
+      "factsAdvanced": [
+        "Founded as 'Buitenzorg' in 1745 by Governor-General van Imhoff.",
+        "The Bogor Botanical Gardens (Kebun Raya) was established in 1817.",
+        "The botanical gardens house over 13,000 different plant species.",
+        "The Presidential Palace (Istana Bogor) grounds are home to 800 spotted deer.",
+        "Bogor records an average of 320 thunderstorm days per year.",
+        "Home to IPB University, Indonesia's leading agricultural sciences institution.",
+        "Sits at an elevation of 265 meters, offering a temperate tropical climate.",
+        "Headquarters of the Center for International Forestry Research (CIFOR)."
+      ]
+    },
+    {
+      "id": "jayapura-cities-v2",
+      "descriptionAdvanced": "Jayapura is the easternmost provincial capital of Indonesia and the administrative center of Papua. The city is spectacularly situated along the hills of Yos Sudarso Bay, surrounded by dense tropical rainforests. Historically known as 'Hollandia,' it served as a strategic Allied base during World World II under General MacArthur. Today, Jayapura is a melting pot where indigenous Papuan traditions meet influences from across the Indonesian archipelago. The nearby Lake Sentani, famous for its stilt villages and unique island flora, provides a breathtaking natural backdrop. Jayapura represents the challenges and opportunities of developing Indonesia's peripheral regions while preserving their unique cultural and biological diversity. Geography K9 — Core-Periphery Dynamics in a Nation-State.",
+      "factsAdvanced": [
+        "Founded on March 7, 1910, by the Dutch under the name Hollandia.",
+        "The name Jayapura is derived from Sanskrit, meaning 'City of Victory'.",
+        "Served as the headquarters for the 1944 Allied invasion of the Philippines.",
+        "Lake Sentani, near the city, contains 21 small islands and stilt villages.",
+        "The Base-G Beach is named after the WWII Allied base 'Base G'.",
+        "The Cyclops Mountains Nature Reserve borders the city to the north.",
+        "Jayapura hosted the 20th Indonesian National Sports Week (PON) in 2021.",
+        "The city is the main export hub for Papuan cocoa and timber."
+      ]
+    },
+    {
+      "id": "padang-cities-v2",
+      "descriptionAdvanced": "Padang, located on the rugged west coast of Sumatra, is the proud capital of the Minangkabau people. The city is globally famous for its cuisine, especially 'Rendang,' which has been voted the most delicious dish in the world. The Minangkabau cultural heritage, with its unique matrilineal social structure and iconic 'Buffalo-Horn' roof architecture, is present throughout the city. Geographically, Padang sits in one of the most seismically active zones on Earth, near the Sunda Trench, making it prone to earthquakes and tsunamis. Despite these risks, Padang remains a bustling trade center and the main gateway to the world-class surfing paradises of the Mentawai Islands. Geography K10 — Tectonic Risks and Disaster Mitigation.",
+      "factsAdvanced": [
+        "Capital of West Sumatra and the heart of the world's largest matrilineal society.",
+        "Padang's Rendang was voted the #1 dish in CNN's 'World's 50 Best Foods'.",
+        "Suffered a major 7.6 magnitude earthquake on September 30, 2009.",
+        "The Grand Mosque of West Sumatra features a roof inspired by Minangkabau style.",
+        "Air Manis Beach is home to the 'Malin Kundang' stone, a local legend.",
+        "Teluk Bayur Port, opened in 1888, is a key export hub for cement and coal.",
+        "The Minangkabau International Airport features traditional 'Rumah Gadang' roofs.",
+        "The city's name 'Padang' means 'field' or 'plain' in the local language."
+      ]
+    },
+    {
+      "id": "solo-surakarta-cities-v2",
+      "descriptionAdvanced": "Surakarta, popularly known as 'Solo,' is considered the second great center of Javanese high culture alongside Yogyakarta. As the former seat of two royal houses, the Keraton Surakarta and the Mangkunegaran, the city is a living museum of Javanese etiquette, arts, and tradition. Solo is world-famous for its exquisite Batik fabrics, refined Gamelan music, and sophisticated court cuisine. Unlike the more chaotic Indonesian metropolises, Solo maintains a relaxed, almost village-like charm in many of its districts. It is the hometown of many prominent Indonesian political figures, including President Joko Widodo, and remains a place where the traditions of the Javanese monarchy are deeply respected and actively practiced. Geography K8 — Cultural Continuity and Traditional Structures.",
+      "factsAdvanced": [
+        "Founded in 1745 as the new capital of the Mataram Sultanate.",
+        "Home to two active royal palaces: Keraton Kasunanan and Pura Mangkunegaran.",
+        "The Klewer Market is the largest Batik trading center in all of Indonesia.",
+        "The Bengawan Solo is the longest river on the island of Java (600 km).",
+        "Birthplace of the 7th Indonesian President, Joko Widodo.",
+        "The Sangiran Early Man Site, a UNESCO World Heritage site, is located nearby.",
+        "The annual 'Solo Batik Carnival' is a major cultural and tourist event.",
+        "Known for its polite social etiquette and refined Javanese dialect."
+      ]
+    },
+    {
+      "id": "batam-cities-v2",
+      "descriptionAdvanced": "Batam is a remarkable example of rapid economic transformation in Southeast Asia. Located just 20 kilometers south of Singapore along the strategic Strait of Malacca, the island was developed from a sparsely populated jungle into a bustling industrial and free-trade zone in just a few decades. Today, it is a global hub for shipbuilding, electronics manufacturing, and logistics. For many visitors from neighboring Singapore and Malaysia, Batam is a popular destination for duty-free shopping, world-class golf courses, and luxury resorts. The city symbolizes the close economic integration within the Sijori (Singapore-Johor-Riau) growth triangle and highlights Indonesia's role in global export-oriented industrialization. Geography K11 — Special Economic Zones and Globalization.",
+      "factsAdvanced": [
+        "Declared a strategic industrial zone by the Indonesian government in 1971.",
+        "The Barelang Bridge is a system of 6 bridges connecting Batam to 5 other islands.",
+        "Has the status of a Free Trade Zone (FTZ), exempt from many taxes and duties.",
+        "Hang Nadim International Airport has the longest runway in Indonesia (4,025 m).",
+        "The city's population grew from 6,000 in 1970 to over 1.2 million today.",
+        "The third busiest gateway for international tourists entering Indonesia.",
+        "Home to hundreds of electronics factories and major ship repair yards.",
+        "The Maha Vihara Duta Maitreya is one of the largest Buddhist temples in SE Asia."
+      ]
+    },
+    {
+      "id": "ambon-cities-v2",
+      "descriptionAdvanced": "Ambon, the capital of Maluku province, has been a pivotal location in world history for centuries. As the center of the legendary 'Spice Islands,' it was once the only place on Earth where nutmeg and cloves grew—commodities so valuable in Renaissance Europe that they were worth their weight in gold. This led to fierce colonial battles between the Portuguese, British, and Dutch for control of the trade monopoly. Today, Ambon is a peaceful port city situated on a deep natural bay, known for its multicultural population, rich musical tradition, and as the gateway to the pristine diving grounds of the Banda Islands. The city is officially recognized by UNESCO as a 'City of Music,' celebrating the exceptional talent of its people. Geography K7 — The Global Spice Trade and Colonial Legacies.",
+      "factsAdvanced": [
+        "Founded by the Portuguese in 1575 as Fort Nossa Senhora da Anunciada.",
+        "Recognized by UNESCO as a 'City of Music' in 2019 for its creative culture.",
+        "Ambon Bay is one of the deepest and most biodiverse natural harbors in Indonesia.",
+        "Cloves and nutmeg were historically endemic only to the Maluku islands.",
+        "The Siwa Lima Museum houses the region's largest collection of Moluccan artifacts.",
+        "The Merah Putih Bridge is the longest bridge in eastern Indonesia (1.1 km).",
+        "Home to the monument of Martha Christina Tiahahu, a famous national heroine.",
+        "Historically served as the primary administrative center for the Dutch VOC."
+      ]
+    },
+    {
+      "id": "cirebon-cities-v2",
+      "descriptionAdvanced": "Cirebon is a historic port city on the northern coast of West Java, serving as a fascinating bridge between Javanese, Sundanese, and Chinese cultures. As one of the earliest centers of Islam on Java, it was the seat of a powerful sultanate founded by Sunan Gunung Jati, one of the 'Nine Saints' of Islam. The city is unique for hosting three active sultanates, whose palaces (Keraton) feature a distinct blend of architectural styles. Cirebon is world-famous for its 'Mega Mendung' batik, whose cloud motifs reflect a strong Chinese aesthetic influence. The city's economy is rooted in its historic port, seafood processing, and its position as a vital transportation link between Jakarta and Central Java. Geography K7 — Islamization and Cultural Syncretism.",
+      "factsAdvanced": [
+        "Known as the 'Shrimp City' (Kota Udang) due to its historic seafood trade.",
+        "Home to three royal palaces: Keraton Kasepuhan, Kanoman, and Kacirebonan.",
+        "The 'Mega Mendung' cloud pattern is the iconic cultural symbol of Cirebon.",
+        "Sunyaragi Cave is a 17th-century meditation site built entirely of coral stones.",
+        "The tomb of Sunan Gunung Jati is a major site of religious pilgrimage.",
+        "The city's name is derived from 'Cai-Rebon' (Shrimp Water) in the local dialect.",
+        "A major producer of 'Terasi,' a traditional Indonesian fermented shrimp paste.",
+        "Historically acted as the primary buffer zone between the Sunda and Mataram empires."
+      ]
+    },
+    {
+      "id": "malang-cities-v2",
+      "descriptionAdvanced": "Malang is the educational and cultural heart of East Java, often called the 'Paris of East Java' due to its mild highland climate and elegant colonial-era planning. Surrounded by majestic peaks like Mount Arjuno and Mount Semeru, the city was a favored retreat for Dutch plantation owners during the colonial period. Today, Malang is a vibrant university city with a large student population and a thriving creative scene. The colorful 'Rainbow Village' of Jodipan is a modern symbol of social transformation through community art. As the primary gateway to the Bromo-Tengger-Semeru National Park, the city attracts nature lovers from around the world who come to explore Java's most iconic volcanic landscapes. Geography K7 — Vertical Zonation of Tropical Vegetation.",
+      "factsAdvanced": [
+        "Sits at an average altitude of 440 meters, offering a temperate climate.",
+        "Home to over 50 higher education institutions, including Brawijaya University.",
+        "The Ijen Boulevard is a masterpiece of Dutch colonial urban design.",
+        "Jodipan 'Rainbow Village' was a former slum transformed by students in 2016.",
+        "The main center for apple production in Indonesia (Manalagi variety).",
+        "The 13th-century Singosari Temple nearby marks the city's ancient roots.",
+        "Home to Arema FC, one of Indonesia's most popular and passionate football clubs.",
+        "Known for its unique local dialect, 'Boso Walikan,' which reverses words."
+      ]
+    },
+    {
+      "id": "samarinda-cities-v2",
+      "descriptionAdvanced": "Samarinda, the capital of East Kalimantan, is a bustling river metropolis situated along the banks of the mighty Mahakam River. The city's life and economy are inextricably linked to this massive waterway, which serves as the primary transport artery for the region's vast natural resources, particularly timber and coal. Samarinda is famous for its traditional 'Sarong Samarinda' weaving, a craft passed down through generations in riverside communities. The city is a multicultural melting pot, attracting migrants from across Indonesia due to the boom in the mining and forestry sectors. With the grand Baitul Hikmah Islamic Center, one of the largest in Southeast Asia, Samarinda showcases its economic rise as a key hub in the nation's resource-rich interior. Geography K11 — Inland Trade on Tropical Rivers.",
+      "factsAdvanced": [
+        "Officially founded on January 21, 1668, by a group of Bugis settlers.",
+        "Located 48 kilometers upstream from the mouth of the Mahakam River.",
+        "The Baitul Hikmah Islamic Center features a 99-meter tall minaret.",
+        "The Mahakam River is home to the rare Irrawaddy freshwater dolphin (Pesut).",
+        "Samarinda Sarongs are prized for their high quality and hand-woven technique.",
+        "The Mahakam Bridge, opened in 1987, is the city's primary transport link.",
+        "A major global export hub for coal and tropical timber products.",
+        "The nearby Pampang Cultural Village preserves the traditions of the Dayak Kenyah."
+      ]
+    },
+    {
+      "id": "kupang-cities-v2",
+      "descriptionAdvanced": "Kupang is the sunny administrative and economic center of East Nusa Tenggara, located on the strategic western tip of the island of Timor. The city features a significantly drier climate than most of the Indonesian archipelago, shaping its savanna-like landscape and agricultural patterns. Historically, Kupang was a vital outpost for the Dutch East India Company to control the sandalwood trade and gained fame as the final destination for Captain William Bligh after the 'Mutiny on the Bounty.' Today, the city is an important port for trade with Australia and the surrounding islands of Rote and Alor. Kupang is known for its relaxed atmosphere, its exceptional seafood dishes, and the unique sounds of the Sasando, a traditional leaf-based harp. Geography K7 — Semi-Arid Tropics and Water Scarcity.",
+      "factsAdvanced": [
+        "Captain William Bligh reached Kupang in 1789 after a 6,700 km open-boat voyage.",
+        "The Sasando is a unique tube zither made from bamboo and lontar palm leaves.",
+        "Bengkulu was a major global center for the sandalwood trade in the 18th century.",
+        "The Crystal Cave (Gua Kristal) features a stunning natural pool of clear water.",
+        "Approximately 80% of the city's population is Christian.",
+        "The city is the final stop for the 'Sail Indonesia' international yacht rally.",
+        "The NTT Provincial Museum showcases an extensive collection of traditional Ikat weaving.",
+        "Experiences a long dry season lasting from April to November."
+      ]
+    },
+    {
+      "id": "tasikmalaya-cities-v2",
+      "descriptionAdvanced": "Tasikmalaya, often called the 'Pearl of East Priangan,' is a major religious and economic hub in the highlands of West Java. The city is known nationwide for its high concentration of Islamic boarding schools (Pesantren), which deeply influence its social and cultural life. Economically, Tasikmalaya has built a reputation as a center for traditional handicrafts; the production of hand-painted 'Payung Geulis' (beautiful umbrellas), elegant 'Kelom Geulis' wooden shoes, and intricate woven bamboo wares is deeply rooted here. Nestled at the foot of the active Galunggung volcano, the surrounding fertile soils support the cultivation of the snake fruit (Salak). The city is a successful example of decentralized, small-scale industries thriving in rural Java. Geography K11 — Traditional Handicrafts and Rural Development.",
+      "factsAdvanced": [
+        "Officially attained independent city (Kota) status in 2001.",
+        "Mount Galunggung, an active volcano nearby, had its last major eruption in 1982.",
+        "Home to over 800 Islamic boarding schools, earning it the nickname 'City of Santri'.",
+        "Famous for 'Payung Geulis,' hand-painted decorative paper umbrellas.",
+        "The primary center for the embroidery (Bordir) industry in West Java.",
+        "Situated at an altitude of about 350 meters above sea level.",
+        "The Great Mosque of Tasikmalaya is a landmark of modern Islamic architecture.",
+        "The local economy is driven by over 5000 small and medium creative enterprises."
+      ]
+    }
+  ]
+}

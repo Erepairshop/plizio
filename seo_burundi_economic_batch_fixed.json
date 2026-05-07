@@ -1,0 +1,33 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brarudi-brauerei-economic-v2",
+      "descriptionAdvanced": "Die Brarudi-Brauerei ist das wichtigste Industrieunternehmen Burundis und ein zentraler Pfeiler der nationalen Wirtschaft. Seit ihrer Gründung spielt sie eine Schlüsselrolle bei der Schaffung von Arbeitsplätzen und der Generierung von Steuereinnahmen. Die Brauerei ist tief in der lokalen Kultur verwurzelt, da ihre Getränke, wie Primus, landesweit konsumiert werden und auf keiner sozialen Veranstaltung fehlen dürfen. Wirtschaft K8 — Industrielle Schlüsselunternehmen.",
+      "factsAdvanced": [
+        "Industrie: Getränkeherstellung",
+        "Bedeutung: Wichtigstes Industrieunternehmen",
+        "Produkte: Primus, Amstel",
+        "Wirtschaft: Zentrale Rolle für Steuereinnahmen",
+        "Arbeitsmarkt: Bedeutender Arbeitgeber",
+        "Status: Industrie-Symbol"
+      ]
+    },
+    {
+      "id": "sosumo-zuckerfabrik-economic-v2",
+      "descriptionAdvanced": "Die Zuckerfabrik SOSUMO im Mosso-Gebiet ist eine der größten landwirtschaftlichen Industrieanlagen Burundis. Sie nutzt die fruchtbaren Böden im Osten des Landes für den Zuckerrohranbau und produziert den Großteil des lokal konsumierten Zuckers. Die Fabrik ist ein unverzichtbarer Akteur für die Ernährungssicherheit des Landes und bietet zahlreichen Menschen in der ländlichen Region Beschäftigung. Wirtschaft K7 — Landwirtschaftliche Industrie.",
+      "factsAdvanced": [
+        "Industrie: Zuckerrohrverarbeitung",
+        "Lage: Mosso-Gebiet",
+        "Bedeutung: Zentrale Zuckerversorgung",
+        "Wirtschaft: Beschäftigung in der Landwirtschaft",
+        "Status: Große Industrieanlage",
+        "Wirkung: Regionale Entwicklung im Osten"
+      ]
+    }
+  ]
+}

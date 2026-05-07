@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "berending-crocodile-pool-history-v2",
+      "descriptionAdvanced": "The Berending Crocodile Pool is one of the three major sacred crocodile pools in The Gambia, located in the rural Nuimi district on the north bank of the river. While less commercially developed than Kachikally, it holds immense spiritual significance for the local Mandinka population. The site is surrounded by dense, ancient baobab trees that contribute to its mystical atmosphere. According to local lore, the pool is inhabited by powerful ancestral spirits, and the crocodiles are considered sacred guardians. Residents frequently visit the pool to seek blessings, offer prayers for agricultural prosperity, and participate in traditional rites untouched by mass tourism. (Social Studies K6 — traditional spirituality and sacred wildlife)",
+      "factsAdvanced": [
+        "One of the three highly revered sacred crocodile pools in The Gambia.",
+        "Located in the rural Nuimi district on the north bank of the river.",
+        "Significantly less affected by mass tourism compared to Kachikally in Bakau.",
+        "Surrounded by a dense, ancient grove of culturally significant baobab trees.",
+        "The crocodiles are considered manifestations or guardians of ancestral spirits.",
+        "Frequently used by locals for private traditional prayers and fertility rites."
+      ]
+    },
+    {
+      "id": "folonko-crocodile-pool-history-v2",
+      "descriptionAdvanced": "Situated near the southern coastal village of Kartong, the Folonko Crocodile Pool is a vital spiritual site deeply embedded in the local culture. Managed by the community elders, this sacred freshwater spring is enveloped by thick coastal gallery forest. Historically, Folonko has been the central site for major life-cycle rituals, particularly traditional initiation ceremonies for young men and women from surrounding villages. The resident crocodiles are entirely revered and never harmed. Visitors to the site often witness a remarkably peaceful coexistence between the local villagers, who draw water nearby, and the formidable reptiles basking on the muddy banks. (Geography K6 — sacred ecosystems and traditional rituals)",
+      "factsAdvanced": [
+        "A highly significant sacred crocodile pool located near the village of Kartong.",
+        "Managed exclusively by the traditional elders of the local community.",
+        "Historically the central location for regional youth initiation ceremonies.",
+        "Enveloped by a thick, protected patch of coastal gallery forest.",
+        "The crocodiles are completely protected by strict traditional taboos.",
+        "Demonstrates a peaceful, long-standing coexistence between humans and apex predators."
+      ]
+    },
+    {
+      "id": "janjanbureh-slave-house-history-v2",
+      "descriptionAdvanced": "The Janjanbureh Slave House is a somber historical building located on MacCarthy Island in the Central River Region. Often debated among historians regarding its exact original function, local tradition strongly maintains that this colonial-era structure was used to hold enslaved Africans before they were transported downriver to the coast. The dark, cramped holding cells beneath the building provide a chilling, visceral connection to the brutalities of the transatlantic slave trade. Today, the building serves as a stark memorial and educational site, ensuring that the devastating human cost of this era is remembered by both Gambian students and international visitors. (History K8 — the transatlantic slave trade and historical memorials)",
+      "factsAdvanced": [
+        "A historic colonial-era building located on MacCarthy Island in Janjanbureh.",
+        "Strongly associated by local tradition with the transatlantic slave trade.",
+        "Features dark, cramped subterranean holding cells.",
+        "Functions today as a powerful educational site and historical memorial.",
+        "Often debated by historians regarding its specific administrative vs. holding use.",
+        "Crucial for educating students about the inland logistics of the slave trade."
+      ]
+    },
+    {
+      "id": "bwiam-stone-circle-history-v2",
+      "descriptionAdvanced": "The Bwiam Stone Circle is a fascinating, relatively isolated megalithic site located in the Foni Kansala district, far west of the massive complexes like Wassu. While comprising fewer stones, the Bwiam circle is highly significant because it demonstrates the vast geographical spread of the ancient Senegambian megalithic culture, reaching much closer to the Atlantic coast than previously thought. The laterite stones here are heavily weathered, indicating great antiquity. The site remains largely unexcavated, sitting quietly within the rural agricultural landscape, and is deeply respected by the local Jola community, who associate it with ancient, powerful spirits of the land. (History K7 — ancient megaliths and geographical distribution)",
+      "factsAdvanced": [
+        "An isolated ancient megalithic stone circle located in the Foni Kansala district.",
+        "Geographically significant as it is situated much closer to the Atlantic coast.",
+        "Demonstrates the vast regional spread of the ancient Senegambian stone circle culture.",
+        "The laterite pillars are heavily weathered, indicating extreme antiquity.",
+        "Currently remains largely unexcavated by modern archaeological teams.",
+        "Deeply respected by the local Jola community as a site of ancient spirits."
+      ]
+    },
+    {
+      "id": "tanje-village-museum-history-v2",
+      "descriptionAdvanced": "The Tanje Village Museum is a highly unique, immersive cultural institution located near the bustling Tanji fishing village. Unlike traditional static museums, it is designed as a living replica of a traditional Mandinka village. Visitors walk through authentically constructed thatch-roofed huts, each dedicated to showcasing specific aspects of pre-colonial Gambian life, such as traditional weaving, blacksmithing, and spiritual practices. The museum frequently hosts live demonstrations by local artisans and griots (traditional storytellers/musicians), providing an interactive educational experience that meticulously preserves the intangible cultural heritage of the region against the tide of rapid modern urbanization. (Arts & Culture K6 — living museums and intangible heritage)",
+      "factsAdvanced": [
+        "An immersive, 'living' museum designed as a replica of a traditional Mandinka village.",
+        "Located near the active Tanji fishing port on the Atlantic coast.",
+        "Features authentically constructed thatch-roofed huts exhibiting specific local crafts.",
+        "Hosts live, interactive demonstrations of weaving, blacksmithing, and music.",
+        "Serves to protect the intangible cultural heritage of traditional Gambian society.",
+        "A highly popular educational destination for local schools and tourists."
+      ]
+    },
+    {
+      "id": "st-joseph-church-banjul-history-v2",
+      "descriptionAdvanced": "St. Joseph's Church in Banjul is a striking historical and religious landmark, reflecting the deep, albeit minority, Christian heritage within the predominantly Islamic nation. Built during the British colonial era, the church features classic, robust masonry designed to withstand the harsh coastal climate. It serves as a central place of worship for the local Catholic community and stands as a testament to The Gambia's renowned religious tolerance, where churches and mosques often stand side-by-side. The building's interior boasts beautiful historic woodwork and stained glass, and it frequently hosts major national interfaith ceremonies. (Social Studies K6 — religious tolerance and colonial architecture)",
+      "factsAdvanced": [
+        "A prominent historic Catholic church located in the capital city, Banjul.",
+        "Constructed during the British colonial era featuring robust masonry.",
+        "A central place of worship for the minority Christian population in The Gambia.",
+        "Stands as a powerful symbol of the nation's highly praised religious tolerance.",
+        "Features well-preserved historic interior woodwork and stained glass windows.",
+        "Frequently utilized for significant national interfaith gatherings."
+      ]
+    },
+    {
+      "id": "vainqueur-ruins-history-v2",
+      "descriptionAdvanced": "The Vainqueur Ruins, located near the modern town of Kerewan on the north bank, are the remnants of an ambitious but ill-fated French agricultural and trading outpost established in the late 19th century. Intended to secure French dominance over the lucrative groundnut trade in the region, the settlement ultimately failed due to intense competition with the British, severe outbreaks of tropical diseases among the European staff, and resistance from local rulers. Today, the crumbling foundations are slowly being reclaimed by the encroaching bush, serving as a quiet historical footnote regarding the fierce European scramble for commercial control over the Gambia River basin. (History K7 — European commercial rivalry and failed colonial outposts)",
+      "factsAdvanced": [
+        "Remnants of a late 19th-century French agricultural and trading outpost.",
+        "Located on the north bank of the Gambia River near the town of Kerewan.",
+        "Established to secure French dominance in the highly lucrative groundnut trade.",
+        "The settlement ultimately failed due to disease, local resistance, and British rivalry.",
+        "Only the crumbling foundations remain, slowly being reclaimed by local vegetation.",
+        "Highlights the intense, often disastrous 'Scramble for Africa' at a local level."
+      ]
+    },
+    {
+      "id": "sankandi-battlefield-history-v2",
+      "descriptionAdvanced": "The Sankandi Battlefield, located in the Kiang West district, is the site of one of the most significant and bloody clashes during the Soninke-Marabout wars of the late 19th century. In 1900, a major confrontation occurred here between the traditionalist Soninke forces and the reformist Islamic Marabout warriors, which ultimately drew in British colonial forces. The British intervention at Sankandi, which involved heavy artillery and resulted in severe casualties, decisively shifted the balance of power in the region and cemented British administrative control over the lower river districts. The battlefield remains an open plain, deeply resonant in local historical memory. (History K8 — the Soninke-Marabout Wars and colonial intervention)",
+      "factsAdvanced": [
+        "Located in the rural Kiang West district in the Lower River Region.",
+        "Site of a massive, decisive battle in 1900 during the Soninke-Marabout wars.",
+        "The battle saw significant, heavy military intervention by British colonial forces.",
+        "British artillery fire resulted in severe casualties and shifted regional power.",
+        "The outcome directly cemented British administrative control over the lower river.",
+        "The site remains largely an open plain, holding deep significance in local oral history."
+      ]
+    },
+    {
+      "id": "basse-colonial-quarter-history-v2",
+      "descriptionAdvanced": "The Basse Colonial Quarter is a remarkably preserved historical district located within the bustling river port town of Basse Santa Su in the extreme east. As the primary inland trading hub during the colonial era, European mercantile companies built expansive, two-story trading houses and administrative buildings directly facing the river. These structures, characterized by thick laterite walls, sweeping wooden verandas, and rusted corrugated iron roofs, still dominate the waterfront today. While many are now repurposed for modern businesses or housing, the quarter provides a vivid, tangible snapshot of the intense riverine commerce that defined the region a century ago. (History K7 — colonial architecture and riverine commerce)",
+      "factsAdvanced": [
+        "A distinct historical district located within the eastern town of Basse Santa Su.",
+        "Features numerous expansive, two-story colonial-era trading houses.",
+        "Buildings are characterized by thick laterite stone walls and sweeping wooden verandas.",
+        "Constructed by European mercantile companies to dominate the inland river trade.",
+        "Many historic structures are still actively utilized for modern commerce or housing.",
+        "Provides a highly visible, tangible record of early 20th-century riverine economics."
+      ]
+    },
+    {
+      "id": "arch-22-landmarks-v2",
+      "descriptionAdvanced": "Arch 22 is an unmistakable architectural landmark towering over the entrance to Banjul, standing an impressive 35 meters high. Built in 1996, it was designed as a triumphal arch to commemorate the 1994 military coup, though its historical context has evolved significantly since the change of government in 2017. Structurally, it is one of the tallest buildings in The Gambia, supported by eight colossal columns and housing a small museum on its upper floors. For tourists and locals alike, its primary draw is the sweeping, panoramic view it offers from the top, encompassing the dense capital city, the sprawling river estuary, and the Atlantic Ocean. (Geography K6 — national monuments and urban topography)",
+      "factsAdvanced": [
+        "A monumental triumphal arch standing 35 meters (114 feet) tall in Banjul.",
+        "Constructed in 1996 to commemorate the July 22, 1994 military coup.",
+        "One of the tallest and most prominent architectural structures in The Gambia.",
+        "Supported by eight massive columns and features a textile museum inside.",
+        "Offers unparalleled panoramic views of the capital, river estuary, and ocean.",
+        "Its historical and political significance has evolved since the 2017 democratic transition."
+      ]
+    },
+    {
+      "id": "wassu-stone-circles-landmarks-v2",
+      "descriptionAdvanced": "The Wassu Stone Circles are the most famous and visually striking megalithic landmark in The Gambia, located in the Central River Region. Designated as a UNESCO World Heritage Site, this specific complex features 11 distinct circles of massive, reddish laterite pillars, some standing over two meters tall and weighing several tons. These mysterious stones, erected between 1,200 and 2,000 years ago, are believed to mark the burial sites of ancient kings and warriors. As a landmark, Wassu draws significant international tourism and archaeological interest, serving as a powerful, enduring symbol of the highly organized, ancient civilizations that thrived in the Senegambian region long before written history. (History K7 — ancient landmarks and UNESCO World Heritage Sites)",
+      "factsAdvanced": [
+        "The most famous megalithic site in The Gambia, located in the Central River Region.",
+        "Recognized globally as a core part of a UNESCO World Heritage Site.",
+        "Features 11 distinct circles comprised of massive, carved laterite pillars.",
+        "The stones are estimated to have been erected between 1,200 and 2,000 years ago.",
+        "Some individual pillars stand over two meters tall and weigh several tons.",
+        "Functions as a major draw for international tourism and archaeological research."
+      ]
+    },
+    {
+      "id": "fort-bullen-landmarks-v2",
+      "descriptionAdvanced": "Fort Bullen stands as a prominent historical landmark at Barra Point, strategically overlooking the wide mouth of the Gambia River. Built by the British in 1826, its distinctive, star-shaped bastions and thick laterite walls were designed specifically to mount heavy artillery capable of intercepting illegal slave ships entering the estuary. Today, the fort is remarkably well-preserved, complete with several original, rusting cannons still pointing out to sea. As a landmark, it offers a stark visual reminder of the transatlantic slave trade era and provides sweeping, strategic views across the water to the capital city of Banjul, essentially acting as the historical gatekeeper to the nation. (History K8 — military fortifications and maritime chokepoints)",
+      "factsAdvanced": [
+        "A prominent, star-shaped military fortification located at Barra Point.",
+        "Built by the British in 1826 specifically to combat the illegal transatlantic slave trade.",
+        "Features thick, highly durable laterite stone walls and bastions.",
+        "Several original, heavy iron cannons remain in their firing positions pointing seaward.",
+        "Provides strategic, sweeping views across the river estuary to Banjul.",
+        "Designated as a highly significant UNESCO World Heritage landmark."
+      ]
+    },
+    {
+      "id": "senegambia-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Senegambia Bridge is a colossal feat of modern engineering and arguably the most economically significant new landmark in the region. Spanning an impressive 1.9 kilometers across the Gambia River near Farafenni, it was inaugurated in 2019 to replace the notoriously slow and unreliable ferry crossing. The towering concrete structure not only physically unites the northern and southern halves of The Gambia but critically connects the northern and southern regions of neighboring Senegal. As a landmark, its massive, swooping spans dominate the flat riverine landscape, symbolizing a new era of rapid regional integration and modern West African infrastructural development. (Geography K8 — modern infrastructure and regional integration)",
+      "factsAdvanced": [
+        "A massive, modern concrete bridge spanning 1.9 kilometers across the Gambia River.",
+        "Inaugurated in 2019, located near the central commercial town of Farafenni.",
+        "Replaced a notoriously slow, historic ferry crossing that bottlenecked trade.",
+        "Critically connects the northern and southern regions of both The Gambia and Senegal.",
+        "One of the largest and most expensive engineering projects in Gambian history.",
+        "A highly visible symbol of modern West African infrastructural development."
+      ]
+    },
+    {
+      "id": "independence-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Independence Stadium, located in Bakau, is the premier sporting and cultural arena in The Gambia, acting as a massive concrete landmark in the urban coastal zone. With a capacity of approximately 30,000 spectators, it was constructed with Chinese assistance in the early 1980s. The stadium is the spiritual home of Gambian football, hosting intensely passionate national team matches (the Scorpions) and major domestic cup finals. Beyond sports, the venue serves as the primary location for massive national events, including political rallies, major music concerts, and the country's annual Independence Day celebrations, making it a focal point of national unity. (Social Studies K6 — national civic spaces and sports culture)",
+      "factsAdvanced": [
+        "The premier national sporting and cultural arena, located in the town of Bakau.",
+        "Features a maximum seating capacity of approximately 30,000 spectators.",
+        "Constructed in the early 1980s through an international development partnership with China.",
+        "The primary home venue for the Gambian national football team (the Scorpions).",
+        "Hosts the majority of the nation's massive political rallies and music concerts.",
+        "The traditional site for the country's official annual Independence Day celebrations."
+      ]
+    },
+    {
+      "id": "kachikally-pool-landmarks-v2",
+      "descriptionAdvanced": "The Kachikally Sacred Crocodile Pool is a prominent natural and cultural landmark nestled within the bustling coastal town of Bakau. Covered by a dense canopy of tropical trees, the pool provides a stark, tranquil contrast to the surrounding urban environment. It is famous nationwide for its population of heavily habituated Nile crocodiles, which visitors can approach and touch. As a landmark, Kachikally represents the enduring strength of traditional Mandinka spiritual beliefs—specifically regarding fertility and ancestral spirits—coexisting seamlessly alongside modern, international tourism, making it one of the most photographed and recognizable sites in the country. (Social Studies K6 — cultural landmarks and eco-tourism)",
+      "factsAdvanced": [
+        "A highly recognizable natural and cultural landmark located in Bakau.",
+        "Consists of a natural freshwater spring completely enveloped by dense tropical forest.",
+        "Famous for hosting a large population of highly habituated, approachable Nile crocodiles.",
+        "Deeply revered by locals as a sacred site holding powerful fertility blessings.",
+        "Managed continuously for generations by the traditional Bojang family.",
+        "One of the most heavily visited and photographed tourist attractions in The Gambia."
+      ]
+    },
+    {
+      "id": "king-fahad-mosque-landmarks-v2",
+      "descriptionAdvanced": "The King Fahad Mosque, located in the capital city of Banjul, is the largest and most architecturally magnificent religious building in The Gambia. Financed largely by the Saudi Arabian government and completed in 1988, its towering twin minarets and massive central dome dominate the city's skyline and serve as a navigational beacon for ships in the estuary. The mosque can accommodate roughly 6,000 worshippers and features intricate, modern Islamic architectural designs, sweeping marble floors, and expansive courtyards. It stands as the ultimate symbol of the nation's deeply rooted Islamic faith, hosting the most significant national Friday prayers and Eid celebrations. (Social Studies K6 — religious architecture and urban landmarks)",
+      "factsAdvanced": [
+        "The largest and most prominent religious building in The Gambia, located in Banjul.",
+        "Constructed with significant financial assistance from Saudi Arabia, completed in 1988.",
+        "Features a massive central dome and two towering minarets dominating the skyline.",
+        "Capable of accommodating approximately 6,000 worshippers simultaneously.",
+        "Utilized for the most significant national Friday prayers and major Eid ceremonies.",
+        "Showcases intricate modern Islamic architecture, featuring expansive marble courtyards."
+      ]
+    },
+    {
+      "id": "st-josephs-cathedral-landmarks-v2",
+      "descriptionAdvanced": "St. Joseph's Cathedral is a significant historic and architectural landmark situated in the heart of Banjul. Built in the 1930s during the colonial era, the building is characterized by its stark, robust masonry and prominent clock tower, contrasting with the more modern structures in the capital. As the seat of the Roman Catholic Diocese of Banjul, it serves as the spiritual center for the country's minority Christian population. The cathedral is widely recognized as a landmark of peace and religious harmony in a predominantly Islamic country, frequently hosting interfaith events attended by national leaders from diverse religious backgrounds. (History K7 — colonial architecture and religious institutions)",
+      "factsAdvanced": [
+        "A prominent historic and architectural landmark located centrally in Banjul.",
+        "Constructed in the 1930s, featuring robust colonial-era masonry and a clock tower.",
+        "Serves as the official seat of the Roman Catholic Diocese of Banjul.",
+        "The primary spiritual center for The Gambia's minority Christian population.",
+        "A highly visible symbol of the nation's celebrated culture of religious tolerance.",
+        "Frequently hosts significant national interfaith gatherings and state ceremonies."
+      ]
+    },
+    {
+      "id": "albert-market-landmarks-v2",
+      "descriptionAdvanced": "The Albert Market is the chaotic, colorful, and undisputed commercial heart of Banjul, functioning as both an economic engine and a major cultural landmark. Established in the mid-19th century and named after Queen Victoria's husband, the market is a sprawling labyrinth of narrow alleys, corrugated iron stalls, and intense human activity. It is divided into distinct sections selling everything from fresh produce and pungent dried fish to intricately dyed Senegambian fabrics, traditional woodcarvings, and modern electronics. The market is not just a place of commerce, but a vital sensory experience that encapsulates the vibrant daily life and historic trade culture of the capital. (Economics K6 — historical urban markets and local commerce)",
+      "factsAdvanced": [
+        "The massive, central commercial market located in the capital city, Banjul.",
+        "Established in the mid-19th century and named after Prince Albert.",
+        "A sprawling, chaotic labyrinth of specialized sections and informal stalls.",
+        "Sells a vast array of goods including fresh produce, textiles, and traditional crafts.",
+        "Functions as a major cultural landmark and sensory experience for visitors.",
+        "Remains the primary daily economic engine for the residents of the capital."
+      ]
+    },
+    {
+      "id": "state-house-gambia-landmarks-v2",
+      "descriptionAdvanced": "The State House, prominently located near the waterfront in Banjul, is the most politically significant landmark in The Gambia, serving as the official residence and workplace of the President. Originally constructed by the British in the late 19th century as the Governor's residence, the sprawling, heavily guarded compound blends historic colonial architecture with modern administrative expansions. Because of its intense security, the public only views the imposing exterior walls and the ceremonial front gates, which frequently host official state visits, military parades, and diplomatic convoys. It stands as the ultimate physical symbol of national sovereignty and executive power. (Social Studies K7 — executive power and national sovereignty)",
+      "factsAdvanced": [
+        "The official residence and administrative workplace of the President of The Gambia.",
+        "Located centrally in Banjul, positioned strategically near the river waterfront.",
+        "Originally built in the late 19th century to serve as the British Governor's residence.",
+        "A sprawling, heavily guarded compound blending colonial and modern architecture.",
+        "The site of high-level diplomatic meetings, state visits, and official ceremonies.",
+        "Considered the ultimate architectural symbol of Gambian national sovereignty."
+      ]
+    },
+    {
+      "id": "national-museum-gambia-landmarks-v2",
+      "descriptionAdvanced": "The National Museum of The Gambia is a crucial cultural landmark housed in the historic Bathurst Club building on Independence Drive in Banjul. As a physical structure, its classic, whitewashed colonial architecture stands out in the bustling city center. As an institution, it is the premier guardian of the nation's tangible history, housing thousands of artifacts ranging from ancient stone circle relics to the intricate regalia of secret societies like the Kankurang. For decades, it has served as the mandatory starting point for scholars and tourists seeking to understand the deep, complex tapestry of Gambian history before venturing into the rural interior. (Social Studies K6 — cultural preservation and historic buildings)",
+      "factsAdvanced": [
+        "A premier cultural and historical landmark located on Independence Drive in Banjul.",
+        "Housed in the restored, colonial-era Bathurst Club building.",
+        "Recognizable by its classic, whitewashed colonial architectural style.",
+        "The primary national repository for archaeological and ethnographic artifacts.",
+        "Houses extensive exhibits on ancient history, traditional cultures, and colonialism.",
+        "Serves as a vital educational hub for national students and international researchers."
+      ]
+    }
+  ]
+}

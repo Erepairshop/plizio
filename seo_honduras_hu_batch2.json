@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "talanga-cities-v2",
+      "descriptionAdvanced": "Talanga egy lüktető mezőgazdasági város Francisco Morazán megyében, amely a Tegucigalpából Olancho megyébe vezető főútvonal mentén fekszik. A település kiterjedt és termékeny völgyeiben hagyományosan kukoricát, babot és cukornádat termesztenek, emellett a szarvasmarha-tenyésztés és a tejtermelés is kiemelkedő jelentőségű a helyi gazdaságban. Talanga stratégiai elhelyezkedése révén fontos kereskedelmi és tranzitállomás a főváros és Honduras keleti mezőgazdasági régiói között, ami az utóbbi években gyors infrastrukturális fejlődést eredményezett. A város történelmi központja egyszerű, de barátságos, jellegzetes hondurasi vidéki atmoszférát áraszt. A település körül található hegyek és erdők számos rejtett túraútvonalat kínálnak a természetkedvelők számára. Földrajz K7 — mezőgazdaság.",
+      "factsAdvanced": [
+        "Francisco Morazán megyében, egy termékeny völgyben fekszik.",
+        "Fontos tranzitállomás Tegucigalpa és Olancho megye között.",
+        "Gazdaságának alappillére a mezőgazdaság és az állattenyésztés.",
+        "Kiemelkedő a kukorica, a bab és a cukornád termesztése.",
+        "A helyi tejipar jelentős beszállítója a hondurasi piacnak.",
+        "A város gyors népességnövekedést és urbanizációt él át.",
+        "Természeti környezete hegyvidéki fenyőerdőkkel borított."
+      ]
+    },
+    {
+      "id": "cofradia-cities-v2",
+      "descriptionAdvanced": "Cofradía egy gyorsan növekvő ipari és lakóövezeti város Honduras északnyugati részén, Cortés megyében, amely San Pedro Sula agglomerációjához tartozik. Eredetileg egy kis spanyol település volt, ahol egy vallási testvérület (cofradía) működött, de az elmúlt évtizedekben a maquiladora (exportra termelő) gyárak térnyerésével robbanásszerűen megnőtt a népessége. Cofradía ma elsősorban a ruházati és textilipari munkások otthona, sűrűn lakott negyedekkel és folyamatosan bővülő infrastruktúrával. A település a Cusuco Nemzeti Park hegyvonulatainak lábánál fekszik, amely buja trópusi erdőkkel és gazdag vadvilággal határolja nyugatról. Bár az ipar dominál, a peremkerületekben továbbra is jelen van a kistermelői földművelés. Földrajz K8 — urbanizáció és ipar.",
+      "factsAdvanced": [
+        "San Pedro Sula egyik legnépesebb agglomerációs települése.",
+        "Nevét egy spanyol gyarmati vallási testvérületről kapta.",
+        "Gazdasága szorosan kötődik a textil- és ruházati iparhoz.",
+        "Több ezer maquiladora munkás otthona.",
+        "A Cusuco Nemzeti Park trópusi hegyvonulatai határolják.",
+        "Rendkívül gyors urbanizációt és belső migrációt tapasztalt.",
+        "Fontos közlekedési folyosó a nyugati megyék felé."
+      ]
+    },
+    {
+      "id": "sonaguera-cities-v2",
+      "descriptionAdvanced": "Sonaguera egy lüktető gazdasági központ Colón megyében, a termékeny Aguán-völgy (Bajo Aguán) szívében. A város Honduras egyik legjelentősebb mezőgazdasági területe, amely történelmileg a banánültetvényekről volt híres, ma azonban elsősorban az afrikai pálma és a citrusfélék (különösen a narancs) termesztéséről ismert. Sonaguera kiterjedt citrusültetvényei miatt a régió narancsfővárosaként is emlegetik. A város kereskedelmi élete a mezőgazdasági termékek feldolgozására és elosztására épül, számos helyi gyár foglalkozik gyümölcslé- és pálmaolaj-készítéssel. A települést átszelő folyók és a környező síkságok gazdag ökológiai környezetet biztosítanak, de egyben árvízveszélyt is jelentenek az esős évszakban. Földrajz K7 — trópusi mezőgazdaság.",
+      "factsAdvanced": [
+        "A termékeny Bajo Aguán völgy központi települése.",
+        "Honduras egyik legjelentősebb citrus- és narancstermesztője.",
+        "Gazdaságát a narancs, az afrikai pálma és a banán határozza meg.",
+        "Kereskedelmi csomópont Tocoa és Sabá városok között.",
+        "Számos gyümölcsfeldolgozó és pálmaolaj-finomító működik itt.",
+        "Történelmileg az ország egyik fontos banánipari központja volt.",
+        "Sík fekvése miatt fokozottan kitett az Aguán-folyó áradásainak."
+      ]
+    },
+    {
+      "id": "cane-cities-v2",
+      "descriptionAdvanced": "Cane egy apró, de kulturálisan gazdag település La Paz megyében, Honduras középső részén. A várost eredetileg őslakos közösségek alapították, és a mai napig megőrizte nyugodt, hagyományos hondurasi vidéki karakterét. Cane gazdasága nagyrészt az önellátó és kistermelői mezőgazdaságra, különösen a kukorica, a bab, a szezám és a kávé termesztésére épül. Emellett a helyiek híresek a kézműves termékeikről, mint például a pálmalevélből font kosarakról és kalapokról. A városka szűk, macskaköves utcái és a régi gyarmati stílusú temploma visszarepítik a látogatókat az időben. Bár mérete kicsi, Cane aktív kulturális életet él, számos helyi vallási fesztivállal és felvonulással, amelyek a lenca és a spanyol hagyományokat ötvözik. Földrajz K8 — hagyományos falvak.",
+      "factsAdvanced": [
+        "Kisméretű, hagyományos falu La Paz megyében.",
+        "Lakossága a mezőgazdaságra és a kézművességre támaszkodik.",
+        "Híres a pálmalevélből készített kézműves termékeiről.",
+        "A városkában egy régi gyarmati stílusú katolikus templom áll.",
+        "Kulturális eseményei ötvözik a lenca és spanyol hagyományokat.",
+        "Közvetlen szomszédságában fekszik La Paz városa.",
+        "Fő terményei közé tartozik a kukorica, a kávé és a szezámmag."
+      ]
+    },
+    {
+      "id": "gualaco-cities-v2",
+      "descriptionAdvanced": "Gualaco egy hegyvidéki kisváros Olancho megye északi részén, amelyet sűrű fenyő- és felhőerdők vesznek körül. A város nevét az őslakos nyelvekből származtatják, és történelme a spanyol hódítás előtti időkre nyúlik vissza. Gualaco az ökoturizmus egyik feltörekvő központja, mivel innen indulnak a túrák a lenyűgöző Sierra de Agalta Nemzeti Parkba és a közeli botanikus rezervátumokba. A régió mezőgazdasága főként a kávétermesztésre, a fakitermelésre és a szarvasmarha-tenyésztésre épül. Gualaco békés utcái és hűvös, hegyvidéki éghajlata egyedülálló hangulatot kölcsönöznek a településnek, míg a közeli barlangok, vízesések és régészeti lelőhelyek kalandokat tartogatnak a természetkedvelők számára. Földrajz K8 — ökoturizmus.",
+      "factsAdvanced": [
+        "Hegyvidéki település Olancho megye északi részén.",
+        "Kaput jelent a Sierra de Agalta Nemzeti Park lenyűgöző erdeihez.",
+        "Gazdasága kávétermesztésre és fakitermelésre épül.",
+        "A régióban jelentős a hús- és tejtermelő állattenyésztés.",
+        "Hűvös éghajlattal és gazdag természeti környezettel rendelkezik.",
+        "A környék számos feltáratlan régészeti lelőhelyet rejt.",
+        "Az ökoturizmus egyre fontosabb szerepet játszik a fejlődésében."
+      ]
+    },
+    {
+      "id": "la-union-cities-v2",
+      "descriptionAdvanced": "La Unión egy elszigetelt, festői fekvésű település Olancho megyében, Honduras keleti hegyvidékein. A várost sűrű felhőerdők és érintetlen természeti rezervátumok övezik, köztük a híres La Muralla Nemzeti Park, amely rendkívül gazdag biodiverzitással és endemikus fajokkal, például ritka orchideákkal és quetzál madarakkal büszkélkedhet. La Unión gazdasága a hegyvidéki kávétermesztésre, az erdészetre és egyre inkább a fenntartható ökoturizmusra fókuszál. A város alapítása viszonylag új keletű, a 19. század végére tehető, és nevét a különböző régiókból érkező telepesek „egyesüléséről” kapta. A helyi közösség nagy hangsúlyt fektet az erdők megőrzésére, hogy megvédjék a tiszta vízforrásokat és a természeti környezetet. Földrajz K7 — természetvédelem.",
+      "factsAdvanced": [
+        "Olancho megye egyik legelszigeteltebb hegyvidéki települése.",
+        "Közvetlen kiindulópontja a La Muralla Nemzeti Parknak.",
+        "Környezete rendkívül gazdag flórában és faunában (pl. quetzál).",
+        "Gazdaságát a kávétermesztés és az erdészet dominálja.",
+        "A 19. század végén alapították különböző telepesek.",
+        "Az ökoturizmus és a fenntartható gazdálkodás központja.",
+        "A lakosság kiemelten védi a régió természetes vízforrásait."
+      ]
+    },
+    {
+      "id": "marcala-cities-v2",
+      "descriptionAdvanced": "Marcala La Paz megye lenyűgöző hegyvidéki városa, amelyet a világ egyik legjobb kávétermelő régiójaként tartanak számon. A település körül magasodó, hűvös és csapadékos dombok ideális mikroklímát biztosítanak az árnyékban termesztett, kiváló minőségű Arabica kávécserjék számára, olyannyira, hogy a \"Café de Marcala\" volt az első hondurasi kávé, amely nemzetközi eredetvédelmi jelölést (Denominación de Origen) kapott. Marcala ugyanakkor kulturálisan is jelentős: a város és környéke a lenca őslakosok ősi földje, és a közeli barlangokban, például a Cueva del Gigante-ban, Közép-Amerika legrégebbi emberi maradványait is megtalálták. A város utcáit áthatja a kávépörkölés illata, a turizmus pedig a farmok látogatására és a kóstolókra fókuszál. Földrajz K8 — agrárexport.",
+      "factsAdvanced": [
+        "Világhírű a magas minőségű, árnyékban termesztett kávéjáról.",
+        "A 'Café de Marcala' nemzetközi eredetvédelmi státusszal rendelkezik.",
+        "La Paz megye hegyvidéki területén fekszik, hűvös klímával.",
+        "A közelben található a Cueva del Gigante őskori régészeti helyszín.",
+        "A lakosság jelentős része lenca őslakos gyökerekkel bír.",
+        "Az agroturizmus (kávétúrák) húzóágazat a városban.",
+        "Több tucat szövetkezet foglalkozik itt a kávé feldolgozásával."
+      ]
+    },
+    {
+      "id": "ocotepeque-cities-v2",
+      "descriptionAdvanced": "Ocotepeque, hivatalos nevén Nueva Ocotepeque, egy vibráló határváros Honduras legnyugatibb csücskében, amely az azonos nevű megye székhelye. A város stratégiai fekvésű a Lempa-folyó völgyében, mindössze néhány kilométerre El Salvador és Guatemala határaitól, így az ország egyik legforgalmasabb nemzetközi kereskedelmi tranzitállomása. A települést 1935-ben alapították újra, miután az eredeti várost (Antigua Ocotepeque) egy pusztító áradás teljesen elpusztította. A régió hegyvidéki környezete kiválóan alkalmas a kávétermesztésre, a káposzta, hagyma és egyéb hűvös éghajlatot kedvelő zöldségek termesztésére. Az 1969-es, úgynevezett 'Futballháború' (Guerra del Fútbol) idején a város heves harcok színtere és átmeneti salvadori megszállás célpontja volt. Földrajz K7 — határvárosok.",
+      "factsAdvanced": [
+        "Honduras, Guatemala és El Salvador hármas határánál fekszik.",
+        "A Lempa-folyó völgyében, magas hegyek között épült.",
+        "Az eredeti várost 1934-ben egy hatalmas árvíz elpusztította.",
+        "Jelentős kereskedelmi tranzitállomás a szomszédos országok felé.",
+        "A régióban magas minőségű kávét és zöldségeket termesztenek.",
+        "Az 1969-es 'Futballháború' egyik fő harci helyszíne volt.",
+        "Kulturálisan erős guatemalai és salvadori hatások érik."
+      ]
+    },
+    {
+      "id": "la-libertad-cities-v2",
+      "descriptionAdvanced": "La Libertad egy festői, nyugodt hegyvidéki város Comayagua megyében, amely a hondurasi kávéöv egyik rejtett gyöngyszeme. A sűrű fenyőerdőkkel és kávéültetvényekkel borított hegyoldalakon elterülő település hűvös, felfrissítő klímával rendelkezik, ami kedvez a magaslati Arabica kávé termesztésének. A város gazdasága egyértelműen a mezőgazdaságra, az erdészetre és a szarvasmarha-tenyésztésre épül, a helyi gazdák hagyományos, fenntartható módszereket alkalmaznak. La Libertad történelmi központjában egy gyönyörű gyarmati stílusú templom és egy békés központi tér található, ahol a mindennapi élet zajlik. A környék vízesései és kristálytiszta folyói kiváló lehetőséget nyújtanak a természetjárók számára, bár a turizmus még gyerekcipőben jár. Földrajz K8 — hegyvidéki életmód.",
+      "factsAdvanced": [
+        "Comayagua megye egyik legmagasabban fekvő városa.",
+        "Hűvös, hegyvidéki klímája ideális a kávétermesztésre.",
+        "Gazdaságát a kávé, az erdőgazdálkodás és a tejtermelés adja.",
+        "Sűrű fenyőerdők és hegyi patakok veszik körül.",
+        "Történelmi központja megőrizte hagyományos falusi jellegét.",
+        "A környék számos rejtett vízesést és túraútvonalat rejt.",
+        "Lakossága nagyrészt mezőgazdasági kisbirtokokon dolgozik."
+      ]
+    },
+    {
+      "id": "san-marcos-de-colon-cities-v2",
+      "descriptionAdvanced": "San Marcos de Colón egy bájos koloniális város Choluteca megyében, amely magaslati fekvésének köszönhetően hűvös oázist jelent Honduras forró déli régiójában. A város a nicaraguai határ közvetlen közelében, a Pánamerikai főútvonal mentén fekszik, így fontos tranzit- és kereskedelmi állomás a két ország között. San Marcos de Colón tiszta, macskaköves utcáiról és gyönyörűen megőrzött 19. századi épületeiről ismert. Környezete rendkívül gazdag biológiai sokféleségben, a közelben található a La Botija Nemzeti Park (Bioszféra Rezervátum), amely egyedülálló fenyő-tölgy erdőkkel és kávéültetvényekkel büszkélkedhet. A helyiek büszkék a magas minőségű kávéjukra, a finom sajtokra és a bőrdíszműves termékeikre, melyek a város fő bevételi forrásait jelentik. Földrajz K7 — határmenti kereskedelem.",
+      "factsAdvanced": [
+        "Hűvös éghajlatú város a forró déli Choluteca megyében.",
+        "Néhány kilométerre fekszik a nicaraguai határátkelőtől.",
+        "Híres tiszta utcáiról és koloniális építészeti örökségéről.",
+        "A La Botija Bioszféra Rezervátum határolja.",
+        "Gazdasága a kávétermesztésre és a tejfeldolgozásra épül.",
+        "Kiemelkedő a helyi sajt- és bőrdíszműves ipar.",
+        "A Pánamerikai főútvonal fontos megállóhelye."
+      ]
+    },
+    {
+      "id": "sabanagrande-cities-v2",
+      "descriptionAdvanced": "Sabanagrande egy történelmi mezőgazdasági város Francisco Morazán megyében, amely a főváros, Tegucigalpa és a déli országrész közötti hegyes-völgyes útvonal mentén fekszik. A település történelme a spanyol hódítás előtti időkre nyúlik vissza, neve a környező nagy szavannás és fás-cserjés síkságokra ('sabana grande') utal. A város Honduras-szerte híres egy hagyományos péksüteményéről, a 'rosquilláról' (kemény, kukoricalisztből és sajtból készült karika), amelyet a tranzitáló utazók ezrei vásárolnak meg naponta. Sabanagrande gazdasága a szarvasmarha-tenyésztésre, a tejfeldolgozásra és a kisüzemi kukorica-, valamint babtermesztésre épül. Békés központi terén a spanyol gyarmati időszakból származó Nuestra Señora del Rosario templom áll. Földrajz K8 — gasztronómia és kultúra.",
+      "factsAdvanced": [
+        "Francisco Morazán megyében, Tegucigalpától délre fekszik.",
+        "Országszerte híres a hagyományos 'rosquilla' nevű süteményéről.",
+        "Stratégiai tranzitállomás a főváros és a déli megyék között.",
+        "Gazdaságának alapja a tejipar és a kukoricatermesztés.",
+        "Neve a környező nagy szavannás tájakra utal.",
+        "A központban található a gyarmati Nuestra Señora del Rosario templom.",
+        "Jelentős szerepet játszik a hondurasi kulináris hagyományokban."
+      ]
+    },
+    {
+      "id": "el-nispero-cities-v2",
+      "descriptionAdvanced": "El Níspero egy csendes, hegyek között megbúvó település Santa Bárbara megye déli részén. A városka gazdag vízforrásairól és lenyűgöző zöld tájairól ismert, a helyi gazdaság gerincét pedig a minőségi kávétermesztés, a kardamom, valamint az állattenyésztés biztosítja. El Níspero neve egy édes trópusi gyümölcsből, a naspolyából származik, amely egykor bőségesen termett a területen. A város a fenntartható energiatermelés térképére is felkerült, mivel a település mellett üzemel az El Níspero vízerőmű (Represa Hidroeléctrica El Níspero), amely a Rio Palaja vizét hasznosítva tiszta árammal látja el a régiót. A helyiek megőrizték a hagyományos, szoros közösségi kötelékeket és a vidék békés ritmusát. Földrajz K7 — energiatermelés és mezőgazdaság.",
+      "factsAdvanced": [
+        "Santa Bárbara megye déli, hegyvidéki részén található.",
+        "Nevét a níspero (naspolya) nevű trópusi gyümölcsről kapta.",
+        "Itt működik az El Níspero vízerőmű a Palaja-folyón.",
+        "Kiemelkedő a magas minőségű kávé és a kardamom termesztése.",
+        "Sűrű erdőkkel és gazdag vízforrásokkal rendelkezik.",
+        "Gazdaságát a kistermelői mezőgazdaság és az állattenyésztés dominálja.",
+        "A vízerőmű jelentős szerepet játszik a régió energiaellátásában."
+      ]
+    },
+    {
+      "id": "trinidad-cities-v2",
+      "descriptionAdvanced": "Trinidad egy pezsgő kulturális és mezőgazdasági város Santa Bárbara megyében, amelyet gyakran Honduras „kulturális ékszerdobozaként” is emlegetnek. A várost leginkább a \"Chimeneas Gigantes\" (Óriás Kémények) nevű éves fesztiváljáról ismerik, ahol a helyiek decemberben hatalmas, papírmaséból és fából készült szobrokat alkotnak, majd égetnek el az utcákon, ezrek részvételével. Ez az esemény az őslakos és spanyol hagyományok egyedi ötvözete. Gazdaságilag Trinidad a kávétermesztés egyik fontos központja, emellett híres a kézműves szivargyártásról és a bőrdíszműves termékekről is. A település macskaköves utcáival, színes falfestményeivel és élénk közösségi életével az egyik legattraktívabb hegyvidéki célpont Nyugat-Hondurasban. Földrajz K8 — hagyományok és kézművesség.",
+      "factsAdvanced": [
+        "Santa Bárbara megye hegyvidéki részén helyezkedik el.",
+        "Országszerte híres a 'Chimeneas Gigantes' (Óriás Kémények) fesztiválról.",
+        "A fesztivál során hatalmas papírmasé szobrokat építenek és égetnek el.",
+        "Kiváló minőségű Arabica kávét termesztenek a környező hegyekben.",
+        "Fontos központja a hondurasi kézműves szivargyártásnak.",
+        "Történelmi utcáit számos színes, helyi falfestmény (mural) díszíti.",
+        "Az őslakos és gyarmati kultúra egyedülálló ötvözetét képviseli."
+      ]
+    },
+    {
+      "id": "piraera-cities-v2",
+      "descriptionAdvanced": "Piraera egy apró, rendkívül elszigetelt település Lempira megyében, Honduras nyugati, hegyvidéki részén, közel az El Salvador-i határhoz. A terület mélyen gyökerezik a lenca őslakos kultúrában, a falu neve is lenca eredetű. A meredek hegyoldalak és a nehezen járható földutak miatt Piraera nagyrészt megőrizte ősi, hagyományos életmódját, elzárva a modern urbanizációtól. Lakói főként önellátó mezőgazdasággal, a milpa (kukorica, bab, tök együttes termesztése) művelésével és kistermelői kávégazdálkodással foglalkoznak. A falu központjában egy gyönyörű, fehérre meszelt gyarmati stílusú templom található, amely éles kontrasztot alkot a zöldellő hegycsúcsokkal. A település a hondurasi vidék legautentikusabb, érintetlen arcát mutatja meg. Földrajz K8 — izolált közösségek.",
+      "factsAdvanced": [
+        "Lempira megye egyik legnehezebben megközelíthető települése.",
+        "Közvetlen közelében húzódik az El Salvador-i határ.",
+        "Neve és kultúrája a lenca őslakos hagyományokhoz kötődik.",
+        "A lakosság elsősorban önellátó 'milpa' mezőgazdasággal foglalkozik.",
+        "Hegyvidéki, meredek terepen fekszik, gyenge infrastruktúrával.",
+        "Egy régi gyarmati stílusú templom uralja a főterét.",
+        "Megőrizte az ország egyik legautentikusabb vidéki életmódját."
+      ]
+    },
+    {
+      "id": "ojojona-cities-v2",
+      "descriptionAdvanced": "Ojojona egy festői, több mint 400 éves múltra visszatekintő bányász- és kézművesváros Francisco Morazán megyében, mindössze 30 kilométerre Tegucigalpától. A települést 1579-ben alapították a spanyolok az ezüst- és aranybányászat miatt, gazdag múltja ma is tükröződik a fehérre meszelt, vályogtéglás házakban és a város három történelmi templomában (San Juan Bautista, El Carmen és El Calvario). Ojojona ma a hondurasi kézművesség fellegvára, különösen híres az egyedi, fekete és sárga agyagból készült kerámiáiról és fafaragásairól, amelyeket a helyiek az utcai piacokon értékesítenek. A csendes, macskaköves utcákkal és hűvös fenyőerdőkkel övezett falu a fővárosiak és a turisták egyik legkedveltebb kulturális célpontja. Földrajz K7 — kulturális turizmus.",
+      "factsAdvanced": [
+        "A spanyol gyarmatosítók alapították 1579-ben ezüstbányászat céljából.",
+        "Tegucigalpától délre fekszik, népszerű turisztikai célpont.",
+        "Honduras egyik legfontosabb kézműves- és kerámiaközpontja.",
+        "Három történelmi, gyarmati stílusú templommal rendelkezik.",
+        "Építészete a fehér vályogházakon és macskaköves utcákon alapul.",
+        "A város környékét sűrű, hűvös fenyőerdők borítják.",
+        "Történelmi központját nemzeti műemlékké nyilvánították."
+      ]
+    },
+    {
+      "id": "guanaja-city-cities-v2",
+      "descriptionAdvanced": "Guanaja városa, a helyiek által gyakran csak 'Bonnacca' néven emlegetett település, a hondurasi Guanaja-sziget (Islas de la Bahía) apró, sűrűn beépített szomszédos korallszigetén (cay) fekszik. A település egyedülálló, ugyanis a szigetcsoport adminisztratív és kereskedelmi központja egy apró zátonyon épült fel, nincsenek utcái autók számára; a közlekedés kizárólag hajókkal és szűk sikátorokon gyalogosan történik, amiért a „Karib-tenger Velencéjének” is becézik. Guanaja gazdasága szinte teljes egészében a kereskedelmi halászatra, a homárgyűjtésre és a búvárturizmusra támaszkodik. A főszigetet hegyek, vízesések és érintetlen fenyőerdők borítják, ami éles kontrasztot alkot a sűrűn lakott korallszigeti várossal. Kolumbusz Kristóf 1502-ben ezen a szigeten szállt partra először közép-amerikai útján. Földrajz K8 — szigetvilág.",
+      "factsAdvanced": [
+        "A város egy apró, sűrűn beépített korallszátonyon (Bonnacca) fekszik.",
+        "Guanaja szigetének adminisztratív és kereskedelmi központja.",
+        "Gyakran a 'Karib-tenger Velencéjének' hívják csatornái miatt.",
+        "Nincsenek autós utak, a közlekedés hajókkal és gyalog történik.",
+        "Gazdasága a homárhalászatra és a búvárturizmusra épül.",
+        "Kolumbusz Kristóf 1502-ben itt ért először hondurasi földet.",
+        "Szigorú környezetvédelmi szabályok védik a környező zátonyokat."
+      ]
+    },
+    {
+      "id": "roatan-city-cities-v2",
+      "descriptionAdvanced": "Coxen Hole, gyakran egyszerűen Roatán Town néven ismert, az Islas de la Bahía (Öböl-szigetek) megye és Roatán szigetének közigazgatási és kereskedelmi fővárosa. A várost a 19. században alapították a Kajmán-szigetekről érkező brit és afro-karibi telepesek, és a mai napig erős angol kulturális és nyelvi hatás érezhető rajta. Bár a sziget más részei, mint West End vagy West Bay a turizmus fókuszai, Coxen Hole a sziget mindennapi életritmusa: itt találhatók a bankok, hivatalok, a nemzetközi repülőtér és a legnagyobb kikötő, ahol a gigantikus óceánjáró luxushajók is kikötnek. A város szűk, nyüzsgő utcáin az angol kreol dialektust és a spanyolt egyaránt beszélik, a gazdaságot pedig a nemzetközi turizmus, az ingatlanfejlesztés és a tengeri kereskedelem mozgatja. Földrajz K7 — szigeti turizmus.",
+      "factsAdvanced": [
+        "Coxen Hole néven az Öböl-szigetek megye közigazgatási székhelye.",
+        "A 19. században brit és afro-karibi (Kajmán-szigeteki) telepesek alapították.",
+        "A sziget fő pénzügyi, kereskedelmi és logisztikai központja.",
+        "Itt található Roatán nemzetközi repülőtere és a fő óceánjáró kikötő.",
+        "Lakossága nagyrészt angol kreol és spanyol kétnyelvű.",
+        "Építészete a hagyományos karibi faépületeket és modern betonelemeket ötvözi.",
+        "A sziget turisztikai boomja miatt folyamatosan terjeszkedik."
+      ]
+    },
+    {
+      "id": "lepaera-cities-v2",
+      "descriptionAdvanced": "Lepaera egy bájos, tradicionális kávétermelő város Lempira megyében, amely a Celaque Nemzeti Park, Honduras legmagasabb hegyvonulatának lábánál fekszik. A település hírnevét a magas hegyoldalakon termesztett, prémium kategóriás 'Cup of Excellence' (Kiválóság Kupája) díjas kávéja adja, amely a helyi gazdaság legfontosabb mozgatórugója. A város történelmi központja a spanyol gyarmati időket idézi, meredek, macskaköves utcákkal és egy ikonikus, kőből épült katolikus templommal. Lepaera a lenyűgöző hegyi kilátások és a hűvös, ködös reggelek miatt népszerű az alternatív, kávéra fókuszáló turizmus körében. A lakosok büszkén őrzik mind a lenca őslakos hagyományaikat, mind a kávétermelés több generációs tudását. Földrajz K8 — magaslati mezőgazdaság.",
+      "factsAdvanced": [
+        "Lempira megyében, a Celaque Nemzeti Park lábánál fekszik.",
+        "A hondurasi prémium 'Cup of Excellence' díjas kávék otthona.",
+        "A település rendkívül meredek, hegyvidéki terepen épült fel.",
+        "A városkép a spanyol gyarmati stílust tükrözi macskaköves utcáival.",
+        "A kávé mellett a banán és az eper termesztése is jelen van.",
+        "Lakossága szorosan kötődik a lenca őslakos kultúrához.",
+        "Hűvös mikroklímája miatt gyakori a reggeli köd és a bőséges csapadék."
+      ]
+    },
+    {
+      "id": "san-juan-de-opoa-cities-v2",
+      "descriptionAdvanced": "San Juan de Opoa egy festői történelmi település Copán megyében, amely mindössze néhány percre található Santa Rosa de Copántól. A várost eredetileg a 16. század elején alapították, ami Copán megye egyik legrégebbi településévé teszi, neve a tiquil nyelvből származik, ami „kukoricában bővelkedő helyet” jelent. A település a Pánamerikai főútvonal mentén, a Higuito-folyó völgyében fekszik, és kiváló minőségű dohánytermeléséről, kávéjáról, valamint zöldségtermesztéséről ismert. San Juan de Opoa békés, vidékies karaktere és régi, vályogból készült épületei hűen őrzik a gyarmati kor emlékét. A folyó menti forróbb klíma ideális az intenzív mezőgazdaság számára, és a helyi farmok gyakran látják el friss terményekkel a környező nagyobb városokat. Földrajz K7 — gyarmati múlt.",
+      "factsAdvanced": [
+        "Copán megye egyik legrégebbi települése, a 16. században alapították.",
+        "A Higuito-folyó termékeny völgyében helyezkedik el.",
+        "Neve az őslakos nyelven 'kukoricában bővelkedő helyet' jelent.",
+        "Jelentős dohány-, kávé- és zöldségtermelő központ.",
+        "Történelmi vályogházai a spanyol gyarmati időszakot idézik.",
+        "A Pánamerikai főútvonal mentén, Santa Rosa de Copán közelében fekszik.",
+        "A helyi gazdaságban fontos a szarvasmarha- és baromfitenyésztés is."
+      ]
+    },
+    {
+      "id": "gualcinse-cities-v2",
+      "descriptionAdvanced": "Gualcinse egy apró, csodálatos hegyvidéki falu Lempira megye déli részén, magas, fenyővel borított csúcsok közé ékelődve. A település egyike Honduras legjobban megőrzött lenca falvainak, amelynek ékessége a falu központjában magasodó, lenyűgöző gyarmati stílusú Inmaculada Concepción templom, a spanyol építészeti örökség ritka hegyvidéki példája. A lakosok főként a hagyományos 'milpa' gazdálkodásból (kukorica és bab) és kávétermesztésből élnek a meredek, teraszosított domboldalakon. Gualcinse elszigeteltsége miatt a modern technológia csak lassan érte el a falut, így a mindennapi élet ritmusa békés és a természeti ciklusokhoz igazodik. A hűvös, gyakran ködös időjárás és a páratlan panoráma egyedi atmoszférát teremt a látogatók számára. Földrajz K8 — építészeti örökség.",
+      "factsAdvanced": [
+        "Lempira megye déli, magas hegyvidéki területén található.",
+        "A falut egy monumentális spanyol gyarmati templom uralja.",
+        "Az egyik legjobban megőrzött hagyományos lenca település.",
+        "Gazdasága kistermelői kávé-, kukorica- és babtermesztésre épül.",
+        "Elszigeteltsége révén megőrizte ősi kulturális hagyományait.",
+        "Klíma hűvös, csapadékos, gyakran ködfelhőkbe burkolózik.",
+        "Építészete fehér vályogházakból és vörös cseréptetőkből áll."
+      ]
+    }
+  ]
+}

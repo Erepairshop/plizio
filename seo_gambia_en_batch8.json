@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "abuko-nature-reserve-nature-v2",
+      "descriptionAdvanced": "The Abuko Nature Reserve is the oldest protected wildlife area in The Gambia, officially established in 1968. Despite its relatively small size of just over 100 hectares, it is one of the most biodiverse locations in the country. The reserve encompasses a crucial water catchment area that supports a rare stretch of dense, evergreen gallery forest, a stark contrast to the surrounding dry savanna. Abuko is renowned for its primate populations, including Red Colobus and Callithrix monkeys, as well as an incredible array of birdlife and a small population of Nile crocodiles. It serves as an essential, accessible educational resource for local schools and a premier introductory wildlife experience for international tourists. (Science K6 — gallery forests and urban nature reserves)",
+      "factsAdvanced": [
+        "The first officially protected wildlife reserve in The Gambia, established in 1968.",
+        "Covers just over 100 hectares but features remarkably high biodiversity.",
+        "Protects a vital water catchment and rare evergreen gallery forest ecosystem.",
+        "Renowned for accessible sightings of Red Colobus and Callithrix monkeys.",
+        "Serves as a primary environmental education center for local Gambian schools.",
+        "A highly popular, easily accessible eco-tourism destination near the capital."
+      ]
+    },
+    {
+      "id": "janjanbureh-island-nature-v2",
+      "descriptionAdvanced": "Janjanbureh Island, historically known as MacCarthy Island, is a significant riverine landmass located deep within the Central River Region. Measuring roughly 10 kilometers in length, it splits the massive Gambia River into two distinct channels. The island is characterized by a mix of historic colonial settlements, small-scale peanut farms, and dense, tangled riverine forests hugging its banks. It serves as a crucial staging ground for eco-tourists heading further upstream to the Baboon Islands. The surrounding waters are rich with hippopotamuses and West African manatees, making the island an essential geographical and ecological hub for the middle stretches of the river. (Geography K6 — river islands and inland ecology)",
+      "factsAdvanced": [
+        "A large riverine island located in the middle of the Gambia River.",
+        "Historically referred to as MacCarthy Island during the colonial era.",
+        "Splits the main flow of the Gambia River into two distinct navigable channels.",
+        "Features a mix of historic urban settlements, agriculture, and riverine forest.",
+        "Serves as the primary staging point for eco-tourism into the deep interior.",
+        "The surrounding river channels are populated by hippos and West African manatees."
+      ]
+    },
+    {
+      "id": "kunta-kinteh-island-nature-v2",
+      "descriptionAdvanced": "Kunta Kinteh Island, formerly known as James Island, is a tiny but profoundly significant landmass located in the middle of the wide Gambia River estuary. Barely 3 kilometers from the northern bank, the island is slowly eroding due to harsh tidal currents and rising sea levels. Despite its small size, it is heavily fortified with the ruins of a colonial fort that changed hands between the British, French, and Dutch multiple times during the height of the transatlantic slave trade. Designated as a UNESCO World Heritage Site, its fragile, eroding ecology acts as a poignant metaphor for the fading, traumatic history it represents. (History K8 — colonial forts and the transatlantic slave trade)",
+      "factsAdvanced": [
+        "A tiny, historically profound island located in the Gambia River estuary.",
+        "Formerly known as James Island before being renamed to honor Kunta Kinte.",
+        "Features the heavily ruined remains of a contested colonial-era slave fort.",
+        "Currently suffering from severe coastal erosion and rising estuarine water levels.",
+        "A central component of a major Senegambian UNESCO World Heritage Site.",
+        "A powerful, albeit physically fragile, memorial to the transatlantic slave trade."
+      ]
+    },
+    {
+      "id": "baboon-islands-nature-v2",
+      "descriptionAdvanced": "The Baboon Islands form the impenetrable core of the River Gambia National Park. This dense archipelago of five heavily forested islands sits in the freshwater section of the central river. They are globally renowned as the site of the Chimpanzee Rehabilitation Project, a pioneering conservation effort that successfully introduced orphaned chimps to a wild, predator-free environment. Because chimpanzees cannot swim, the river acts as a natural enclosure. To ensure the protection of the primates and the pristine gallery forest, humans are strictly forbidden from setting foot on the islands; all observation must be done from boats navigating the surrounding channels. (Science K8 — primate conservation and strict reserves)",
+      "factsAdvanced": [
+        "An archipelago of five densely forested islands in the Central River Region.",
+        "Forms the strictly protected core of the River Gambia National Park.",
+        "Globally famous for the highly successful Chimpanzee Rehabilitation Project.",
+        "The surrounding deep river waters act as a natural enclosure for the primates.",
+        "Human foot traffic is strictly forbidden to protect the fragile ecosystem.",
+        "Visitors can only observe the wildlife from authorized boats in the channels."
+      ]
+    },
+    {
+      "id": "jinack-island-nature-v2",
+      "descriptionAdvanced": "Jinack Island is a stunning, low-lying barrier island located at the very northern edge of the Gambia River estuary, bordering Senegal. Forming a critical part of the Niumi National Park, it is separated from the mainland by a narrow, dense mangrove creek. The island features incredibly diverse micro-ecosystems, including pristine, deserted sandy beaches facing the Atlantic, sprawling salt flats, and coastal scrub. Jinack is a globally recognized haven for birdwatchers and serves as a vital nesting ground for endangered green turtles. Its extreme isolation, accessible only by small boats, preserves a uniquely wild and untouched coastal environment. (Geography K7 — barrier islands and coastal biodiversity)",
+      "factsAdvanced": [
+        "A low-lying barrier island located at the northern mouth of the river estuary.",
+        "Forms a vital, highly protected component of the Niumi National Park.",
+        "Separated from the Gambian mainland by dense, winding mangrove creeks.",
+        "Features pristine Atlantic beaches, sprawling salt flats, and coastal scrubland.",
+        "An internationally recognized haven for migratory birds and nesting marine turtles.",
+        "Accessible only by small boats, preserving a wild, untouched atmosphere."
+      ]
+    },
+    {
+      "id": "st-marys-island-nature-v2",
+      "descriptionAdvanced": "St. Mary's Island is the highly strategic landmass upon which the capital city, Banjul, is built. Located at the mouth of the Gambia River, it is essentially a large sandbank that has been extensively stabilized and urbanized over the last two centuries. The island is geographically defined by its precarious relationship with water; it faces the deep, turbulent currents of the Atlantic Ocean and the river estuary on one side, and the sprawling, flood-prone Tanbi Wetland Complex on the other. The island's low elevation makes it highly susceptible to sea-level rise and extreme seasonal flooding, creating constant infrastructural challenges for the capital. (Geography K7 — urban islands and sea-level vulnerabilities)",
+      "factsAdvanced": [
+        "The strategic island landmass upon which the capital city, Banjul, is located.",
+        "Situated exactly where the Gambia River estuary meets the Atlantic Ocean.",
+        "Originally a large sandbank that was extensively urbanized and stabilized.",
+        "Bordered on its inland side by the sprawling Tanbi Wetland Complex.",
+        "Characterized by extremely low elevation, making it highly vulnerable to flooding.",
+        "Presents significant, ongoing urban engineering and drainage challenges."
+      ]
+    },
+    {
+      "id": "kartong-beach-nature-v2",
+      "descriptionAdvanced": "Kartong Beach is the southernmost stretch of coastline in The Gambia, ending abruptly where the Allahein River estuary forms the border with Senegal. Unlike the heavily developed tourist beaches to the north, Kartong Beach is wild, wide, and largely deserted. It is characterized by its dynamic, shifting sandbars where the river meets the ocean, creating a nutrient-rich environment that attracts immense flocks of seabirds and waders. The beach is a focal point for eco-tourism and sustainable practices, free from large resorts, and is renowned for its spectacular sunsets and tranquil, untouched natural beauty. (Geography K6 — wild coastlines and estuarine borders)",
+      "factsAdvanced": [
+        "The absolute southernmost stretch of Atlantic coastline in The Gambia.",
+        "Terminates at the Allahein River estuary, forming the border with Senegal.",
+        "Characterized by a wild, undeveloped, and largely deserted landscape.",
+        "Features dynamic, shifting sandbars created by the meeting of river and ocean.",
+        "A premier location for low-impact eco-tourism and intense birdwatching.",
+        "Maintains a tranquil atmosphere, far removed from the northern resort hubs."
+      ]
+    },
+    {
+      "id": "sanyang-beach-nature-v2",
+      "descriptionAdvanced": "Sanyang Beach, widely known as Paradise Beach, is one of the most famous and visually stunning stretches of the Gambian coastline. Located in the Kombo South district, it features brilliant white sands backed by a dense fringe of swaying coconut palms. The beach is remarkably wide and relatively flat, making it ideal for the massive daily landings of traditional artisanal fishing pirogues. While the northern end is dominated by this intense, smoky fishing industry, the southern stretches host a growing number of eco-lodges and beach bars, offering a perfect, bustling cross-section of Gambian coastal life and natural beauty. (Geography K6 — coastal economies and tropical beaches)",
+      "factsAdvanced": [
+        "Widely known locally and internationally as 'Paradise Beach'.",
+        "Features expansive, brilliant white sands backed by dense coconut palm groves.",
+        "The northern section hosts an intense, massive traditional fishing industry.",
+        "The southern section is increasingly popular for eco-lodges and beach bars.",
+        "Offers a dynamic mix of raw marine industry and relaxing tropical tourism.",
+        "Considered one of the most visually spectacular stretches of the national coastline."
+      ]
+    },
+    {
+      "id": "kotu-beach-nature-v2",
+      "descriptionAdvanced": "Kotu Beach is a premier, highly developed stretch of coastline located in the heart of the national tourism zone. Unlike the wild beaches of the south, Kotu is meticulously maintained, featuring wide, golden sands that gently slope into the Atlantic surf. It is backed by a continuous line of large, luxury resort hotels and a popular coastal golf course. The natural highlight of the beach is the mouth of the Kotu Stream, which cuts through the sand to enter the ocean, creating a small but vibrant wetland habitat right next to the sun loungers, heavily frequented by birdwatchers. (Geography K6 — resort coastlines and coastal streams)",
+      "factsAdvanced": [
+        "A highly developed, premier tourist beach located in the Kombo region.",
+        "Characterized by meticulously maintained, wide golden sands.",
+        "Backed by a continuous strip of large luxury resorts and a prominent golf course.",
+        "Features the mouth of the Kotu Stream, creating a unique coastal wetland.",
+        "The stream area is a major, highly accessible hotspot for urban birdwatching.",
+        "Represents the core of The Gambia's traditional 'sun and sand' tourism package."
+      ]
+    },
+    {
+      "id": "kololi-beach-nature-v2",
+      "descriptionAdvanced": "Kololi Beach borders the famous Senegambia Strip, making it the most heavily utilized and commercially intense stretch of sand in The Gambia. The beach here is dynamic; it has historically suffered from severe coastal erosion, prompting massive, national engineering projects to pump sand back onto the shore to protect the multimillion-dollar hotel infrastructure sitting perilously close to the high-tide line. Despite the erosion issues, it remains the energetic heart of the tourism industry, packed with water sports, beach vendors, and tourists. It offers a stark lesson in the complex, expensive battle between coastal real estate development and natural oceanic forces. (Science K8 — coastal erosion and marine engineering)",
+      "factsAdvanced": [
+        "The most commercially intense and heavily utilized beach in The Gambia.",
+        "Located directly adjacent to the bustling Senegambia tourist strip.",
+        "Historically plagued by severe, threatening rates of coastal erosion.",
+        "Has been the subject of massive, expensive national sand-pumping engineering projects.",
+        "The beach serves as the primary playground for the adjacent luxury resorts.",
+        "Highlights the ongoing infrastructural battle against rising sea levels and tides."
+      ]
+    },
+    {
+      "id": "cape-point-nature-v2",
+      "descriptionAdvanced": "Cape Point, located at the extreme northern tip of the Bakau coastline, is a dramatic geographical feature where the Atlantic Ocean physically meets the mouth of the Gambia River estuary. The coastline here transitions sharply from sandy beaches to rugged, red laterite cliffs that drop steeply into the turbulent waters. These cliffs offer sweeping, elevated views across the wide estuary towards Barra on the north bank. The unique hydrodynamics of the point, where ocean swells clash with outgoing river currents, create a nutrient-rich marine environment heavily favored by local line fishermen and a diverse array of seabirds. (Geography K7 — coastal cliffs and estuarine hydrodynamics)",
+      "factsAdvanced": [
+        "Located at the extreme northern tip of the Bakau coastal district.",
+        "Marks the precise geographical point where the Atlantic meets the river estuary.",
+        "Characterized by rugged, striking red laterite cliffs dropping into the water.",
+        "Offers expansive, elevated views across the massive estuary toward Barra.",
+        "The clashing ocean and river currents create a turbulent, nutrient-rich marine zone.",
+        "A highly popular spot for local line fishermen and estuarine birdwatching."
+      ]
+    },
+    {
+      "id": "brufut-woods-nature-v2",
+      "descriptionAdvanced": "Brufut Woods is a relatively small but absolutely critical community-protected forest located slightly inland from the Brufut coast. Unlike the government-run national parks, this woodland is fiercely protected by local environmental groups and birdwatching associations. It serves as a vital refuge for avian species that rely on dense Guinea savanna and woodland habitats, which are rapidly disappearing due to surrounding urban sprawl. The woods are particularly famous among international birders as one of the most reliable locations in West Africa to spot elusive species like the Verreaux's Eagle-Owl and the Long-tailed Nightjar, offering tranquil, shaded walking trails. (Science K7 — community conservation and woodland birds)",
+      "factsAdvanced": [
+        "A highly significant community-protected woodland located slightly inland from Brufut.",
+        "Fiercely guarded against urban encroachment by local environmental groups.",
+        "Protects a vital, shrinking patch of authentic Guinea savanna and woodland habitat.",
+        "Internationally renowned as a premier destination for specialized birdwatching.",
+        "A highly reliable site for spotting rare species like the Verreaux's Eagle-Owl.",
+        "Features tranquil, well-maintained shaded walking trails for eco-tourists."
+      ]
+    },
+    {
+      "id": "pirang-forest-nature-v2",
+      "descriptionAdvanced": "Pirang Forest, located in the Kombo East district, is a small but incredibly dense patch of mature gallery forest, a rare ecosystem in a region dominated by dry savanna and agriculture. This forest is characterized by towering indigenous trees forming a thick, dark canopy that retains moisture year-round. It is highly valued by ecologists and ornithologists as an isolated 'island' of biodiversity, hosting primate troops and rare forest-dwelling bird species like the Green Turaco. Historically utilized for sustainable traditional medicine and foraging, it now stands as a protected eco-tourism site, demonstrating the lush, ancient environment that once covered much of the river basin. (Science K6 — gallery forests and canopy ecosystems)",
+      "factsAdvanced": [
+        "A small, incredibly dense patch of mature gallery forest in the Kombo East district.",
+        "Characterized by a towering, dark canopy that retains moisture year-round.",
+        "Represents a rare, surviving example of the region's ancient woodland ecosystem.",
+        "An isolated 'island' of biodiversity hosting primates and rare forest birds.",
+        "Historically utilized by locals for sustainable foraging and traditional medicine.",
+        "Now heavily protected as a specialized eco-tourism and ecological study site."
+      ]
+    },
+    {
+      "id": "niumi-national-park-nature-v2",
+      "descriptionAdvanced": "Niumi National Park occupies the extreme northwestern coastal corner of The Gambia, forming a contiguous cross-border ecological zone with Senegal's Delta du Saloum National Park. Covering roughly 5,000 hectares, the park is a complex mosaic of diverse ecosystems, including pristine Atlantic beaches, sprawling salt flats, dense mangrove creeks, and dry coastal scrubland. This immense environmental diversity makes it one of the most important Ramsar wetland sites in West Africa. It serves as a massive wintering ground for European migratory birds and a vital breeding sanctuary for endangered marine species like the Green Sea Turtle and the West African Manatee. (Science K8 — Ramsar wetlands and cross-border conservation)",
+      "factsAdvanced": [
+        "A massive 5,000-hectare national park in the extreme northwestern coastal region.",
+        "Forms a contiguous, cross-border ecological reserve with neighboring Senegal.",
+        "Features a diverse mosaic of Atlantic beaches, salt flats, and mangrove creeks.",
+        "Designated as a globally significant Ramsar wetland site for migratory birds.",
+        "A critical sanctuary for endangered Green Sea Turtles and West African Manatees.",
+        "Provides a sprawling, highly protected wilderness far from major urban centers."
+      ]
+    },
+    {
+      "id": "allahein-river-nature-v2",
+      "descriptionAdvanced": "The Allahein River, also known as the San Pedro River, is a relatively short but highly significant waterway that forms the definitive southern border between The Gambia and the Casamance region of Senegal. The river meanders through dense, pristine mangrove forests before emptying into the Atlantic Ocean near the village of Kartong. The estuary is a dynamic, nutrient-rich environment, famous for its shifting sandbanks and vast oyster beds. It supports a thriving traditional economy; local women harvest oysters from the mangrove roots, while men operate small fishing pirogues. The river is a model of cross-border ecological harmony and sustainable, low-impact eco-tourism. (Geography K6 — border rivers and estuarine foraging)",
+      "factsAdvanced": [
+        "Forms the definitive southern border between The Gambia and Senegal (Casamance).",
+        "A meandering waterway heavily lined with pristine, dense mangrove forests.",
+        "Empties into the Atlantic Ocean near the eco-tourism hub of Kartong.",
+        "The estuary features highly dynamic, shifting sandbars and nutrient-rich waters.",
+        "Supports a massive traditional economy based on women harvesting mangrove oysters.",
+        "A premier location for low-impact canoe safaris and cross-border birdwatching."
+      ]
+    },
+    {
+      "id": "bintang-bolong-nature-v2",
+      "descriptionAdvanced": "The Bintang Bolong is the largest and longest tributary (bolong) of the Gambia River, carving a massive, meandering path deep into the Foni districts on the south bank. Measuring over 130 kilometers, its lower reaches are heavily saline and flanked by towering, impenetrable mangrove forests, while its upper reaches stretch into freshwater agricultural plains. The bolong is an absolute lifeline for the rural interior, providing essential irrigation, a massive local fishery, and serving as a vital transport artery for remote villages. It is a stunning, sprawling ecosystem that remains largely untouched by mass tourism, fiercely protected by its sheer size and wild nature. (Geography K7 — river tributaries and mangrove ecology)",
+      "factsAdvanced": [
+        "The largest and longest tributary (bolong) feeding into the Gambia River.",
+        "Stretches over 130 kilometers deep into the rural Foni districts on the south bank.",
+        "The lower reaches are highly saline and flanked by massive mangrove forests.",
+        "Provides an essential transport artery and fishery for dozens of remote villages.",
+        "The upper reaches transition into critical freshwater agricultural irrigation zones.",
+        "Remains a massive, wild ecosystem largely untouched by commercial tourism."
+      ]
+    },
+    {
+      "id": "tanbi-wetland-nature-v2",
+      "descriptionAdvanced": "The Tanbi Wetland Complex is a sprawling, 6,000-hectare maze of mangrove creeks, mudflats, and salt marshes that completely envelopes the southern and western flanks of the capital city, Banjul. Officially designated as a Ramsar site, this immense wetland acts as the vital 'lungs and kidneys' of the Greater Banjul Area. It naturally filters urban runoff, absorbs massive seasonal floodwaters, and protects the low-lying capital from catastrophic coastal erosion. Beyond its infrastructural importance, the Tanbi is a labyrinthine sanctuary for hundreds of bird species, monkeys, and an immense traditional oyster-harvesting industry relied upon by thousands of urban women. (Science K8 — urban wetlands and ecological infrastructure)",
+      "factsAdvanced": [
+        "A massive 6,000-hectare mangrove and wetland complex surrounding the capital.",
+        "Officially designated as a wetland of international importance (Ramsar site).",
+        "Crucial for absorbing seasonal floodwaters and protecting Banjul from coastal erosion.",
+        "Acts as a massive natural filter for urban runoff from the Serekunda metropolis.",
+        "Supports a vast, traditional oyster-harvesting economy run predominantly by women.",
+        "A labyrinthine sanctuary for biodiversity located literally adjacent to urban sprawl."
+      ]
+    },
+    {
+      "id": "gunjur-beach-nature-v2",
+      "descriptionAdvanced": "Gunjur Beach is a striking, expansive stretch of the southern Atlantic coastline, known for its raw, powerful beauty and deep community connection. Unlike the manicured tourist beaches, Gunjur is heavily utilized by the local population. The northern end is anchored by a massive, chaotic traditional fishing port, while the southern stretches transition into quiet, pristine sands backed by coastal scrub and dunes. The beach is a focal point for intense local conservation efforts, particularly focused on protecting the nesting sites of marine turtles from both poachers and the creeping threat of unregulated sand mining. (Geography K6 — community beaches and coastal conservation)",
+      "factsAdvanced": [
+        "A raw, expansive stretch of the southern Atlantic coastline in the Kombo region.",
+        "Heavily utilized by the local community rather than international tourists.",
+        "Features a massive, chaotic traditional fishing port at its northern end.",
+        "The southern stretches transition into quiet, pristine dunes and coastal scrub.",
+        "A major focal point for grassroots marine turtle conservation and beach patrols.",
+        "Highlights the tension between local industries, conservation, and natural beauty."
+      ]
+    },
+    {
+      "id": "elephant-island-nature-v2",
+      "descriptionAdvanced": "Elephant Island is a massive, uninhabited, and intensely wild landmass located in the middle of the Gambia River, approximately 150 kilometers upstream from the Atlantic. The island marks a critical ecological transition zone where the river shifts from saline estuarine conditions to entirely freshwater. It is entirely covered in dense, impenetrable mangrove swamps and flooded gallery forests. Although elephants have been extinct in The Gambia for over a century, the island remains a formidable sanctuary for large crocodiles, hippopotamuses, and countless aquatic birds. Its sheer density and lack of dry land make it entirely inaccessible by foot, preserving its primeval state. (Geography K7 — riverine transition zones and uninhabited islands)",
+      "factsAdvanced": [
+        "A massive, completely uninhabited wild island located 150km up the Gambia River.",
+        "Marks the critical ecological transition zone from saline to freshwater.",
+        "Covered entirely by dense, impenetrable mangrove swamps and flooded forests.",
+        "Despite its name, elephants have been extinct in the region for over a century.",
+        "A formidable, highly protected sanctuary for hippos, crocodiles, and waterbirds.",
+        "Entirely inaccessible by foot, ensuring the preservation of its primeval ecosystem."
+      ]
+    },
+    {
+      "id": "red-rock-relief-v2",
+      "descriptionAdvanced": "Red Rock is widely recognized as the highest geographical point in The Gambia, located in the remote eastern reaches of the Upper River Region near the Senegalese border. The Gambia is a notoriously flat country, built almost entirely on the floodplains of its namesake river, making this subtle laterite elevation quite significant. Peaking at approximately 53 meters (174 feet) above sea level, Red Rock is not a towering mountain, but rather a prominent, rugged laterite escarpment. It offers sweeping, uninterrupted views across the vast, dry savanna plains of the interior, standing as a quiet geographical anomaly in a nation defined by low-lying wetlands. (Geography K6 — national topography and laterite escarpments)",
+      "factsAdvanced": [
+        "Recognized as the highest geographical elevation point in the entire country.",
+        "Located in the extreme eastern Upper River Region near the border with Senegal.",
+        "Peaks at an elevation of approximately 53 meters (174 feet) above sea level.",
+        "Composed primarily of a rugged, red laterite rock escarpment.",
+        "Offers expansive, uninterrupted views across the flat, dry eastern savanna plains.",
+        "A notable geographical anomaly in a nation famously dominated by flat floodplains."
+      ]
+    }
+  ]
+}

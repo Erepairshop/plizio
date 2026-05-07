@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-e-w-a-r-t-o-n-cities-v2",
+      "descriptionAdvanced": "Ewarton egy ipari város Saint Catherine megye hegyvidéki részén. A város a 20. század közepén nőtt nagyra a bauxitbányászat és -finomítás megjelenésével. Itt található a Windalco (korábban Alcan) egyik nagy timföldfinomítója, amely évtizedekig a régió legfontosabb gazdasági szereplője és munkáltatója volt. A város élete szorosan összefonódik a gyár működésével, a bauxitipar hullámvölgyei közvetlenül érintik a közösséget. Ewarton a Mount Rosser hágó közelében fekszik, amely egy fontos közlekedési útvonal a sziget északi és déli része között. A bányászat mély nyomokat hagyott a tájon, de egyben a modern ipari Jamaica egyik szimbólumává is tette a várost. Iparföldrajz K8 – Bányavárosok.",
+      "factsAdvanced": [
+        "Az ewartoni timföldfinomítót az 1950-es évek végén építették.",
+        "A bauxitot a közeli Schwallenburgh és Mount Rosser területekről bányásszák.",
+        "A finomítónak saját vasútvonala van, amely a Port Esquivel kikötőbe szállítja a timföldet.",
+        "A 'Ewarton' név egy skót birtokos, James Ewart nevéből származik.",
+        "A városban egy középiskola, a Charlemont High School működik.",
+        "A bauxitipar mellett a mezőgazdaság, különösen a citrus- és banántermesztés is jelen van.",
+        "A környezetvédelem és a tájrehabilitáció a bányászat miatt kulcsfontosságú kérdés.",
+        "A város a Rio Cobre folyó vízgyűjtő területén fekszik."
+      ]
+    },
+    {
+      "id": "jm-bog-walk-cities-v2",
+      "descriptionAdvanced": "Bog Walk egy kisváros Saint Catherine megyében, amely a Rio Cobre folyó által kivájt, festői, de hírhedt Bog Walk-szurdokról (Bog Walk Gorge) ismert. A város egykor a banánipar egyik központja volt, és a szurdokon áthaladó vasútvonal kulcsfontosságú volt a termények kikötőbe szállításában. A szurdok, meredek sziklafalaival és a kanyargó folyóval, Jamaica egyik leglátványosabb természeti képződménye, de a heves esőzések idején a hirtelen áradások miatt rendkívül veszélyessé válhat. Bog Walk ma egy átutazóváros a Kingston felé vezető úton, és a Jamaica Public Service (JPS) itt működtet egy vízerőművet. Természetföldrajz K7 – Szurdokvölgyek és közlekedés.",
+      "factsAdvanced": [
+        "A Bog Walk-szurdokon áthaladó utat és vasútvonalat a 19. század végén építették.",
+        "A 'Bog Walk' név valószínűleg a spanyol 'boca de agua' (víz szája) kifejezés eltorzult formája.",
+        "A szurdokban található egy 'Flat Bridge' nevű híd, amelyet gyakran elönt a víz áradások idején.",
+        "A JPS vízerőműve 1899 óta termel áramot a Rio Cobre vizének felhasználásával.",
+        "A város egykor a citrusfélék feldolgozásának és a gyümölcslégyártásnak is a központja volt.",
+        "A közeli 'River Mumma' legenda a folyó szelleméhez kapcsolódik.",
+        "A szurdok számos baleset és tragédia helyszíne volt az évek során.",
+        "A város a banánipar hanyatlása után veszített gazdasági jelentőségéből."
+      ]
+    },
+    {
+      "id": "jm-riversdale-cities-v2",
+      "descriptionAdvanced": "Riversdale egy vidéki falu Saint Catherine megye hegyvidéki részén, a Rio Cobre egyik mellékfolyójának völgyében. A neve a folyóparti elhelyezkedésére utal. A falu a Kingstonból Annotto Bay-be vezető, már nem működő vasútvonal egyik fontos állomása volt. A vasút a 19. század végén és a 20. század elején a banán és más mezőgazdasági termények szállításának gerincét adta, hozzájárulva a falu virágzásához. Ma Riversdale egy csendes mezőgazdasági közösség, amelynek lakói banánt, kakaót, kávét és gyökérzöldségeket termesztenek. A buja, zöld táj és a tiszta vizű folyó a természetkedvelők számára vonzó. Közlekedéstörténet K7 – A vasút szerepe a vidékfejlesztésben.",
+      "factsAdvanced": [
+        "A vasútállomás épülete, bár elhagyatott, de még mindig a falu központjában áll.",
+        "A 'Troja' és a 'Richmond' a vasútvonal további fontos állomásai voltak a közelben.",
+        "A terület a rabszolgaság eltörlése után a 'szabad falvak' mozgalmának egyik helyszíne volt.",
+        "A közösségi élet a helyi templomok és az iskola köré szerveződik.",
+        "A folyó fürdésre és mosásra szolgál a helyiek számára.",
+        "A mezőgazdaság a meredek hegyoldalakon, teraszos műveléssel folyik.",
+        "A lakosok közül sokan a közeli spanyol városba vagy Kingstonba ingáznak dolgozni.",
+        "A falu megőrizte a hagyományos jamaicai vidéki életforma számos elemét."
+      ]
+    },
+    {
+      "id": "jm-glengoffe-cities-v2",
+      "descriptionAdvanced": "Glengoffe egy hegyvidéki mezőgazdasági közösség Saint Catherine és Saint Andrew megyék határán. A település a sziget belsejében, magasan a hegyek között fekszik, ami hűvös, kellemes éghajlatot biztosít. A terület a kiváló minőségű kávé, a gyömbér és a banán termesztéséről ismert. Glengoffe a 19. században a rabszolgák felszabadítása után alapított 'szabad falvak' egyike volt, ahol a volt rabszolgák földet vásároltak és önálló közösségeket hoztak létre. A közösség erős baptista hagyományokkal rendelkezik; a helyi baptista templom és iskola a falu életének központja. A település a kitartás és a függetlenség szimbóluma. Történelem K8 – A 'szabad falvak' mozgalma.",
+      "factsAdvanced": [
+        "A 'Glengoffe' név valószínűleg skót eredetű.",
+        "A közösséget a baptista misszionáriusok, különösen James Phillippo tiszteletes segítette a megalapításban.",
+        "A talaj termékeny, de a meredek terep megnehezíti a gazdálkodást.",
+        "A Glengoffe High School a régió fontos oktatási intézménye.",
+        "A helyi gazdák termékeiket a kingstoni piacokon értékesítik.",
+        "Az utak a környéken kanyargósak és gyakran rossz állapotúak, ami nehezíti a szállítást.",
+        "A közösségi szellem erős, a lakosok gyakran kalákában segítik egymást a munkában.",
+        "A falu betekintést nyújt a jamaicai kisparaszti gazdálkodás világába."
+      ]
+    },
+    {
+      "id": "jm-point-hill-cities-v2",
+      "descriptionAdvanced": "Point Hill egy nagy, hegyvidéki közösség Saint Catherine megye északi részén. A neve a terület domborzatára utal. A település a környező mezőgazdasági területek fontos központja, ahol a lakosok főként jamgyökeret, kávét, kakaót és banánt termesztenek. A Point Hill-i baptista templom a 19. század óta a közösségi élet egyik legfontosabb intézménye. A terület a rabszolgaság eltörlése után a felszabadított rabszolgák által alapított 'szabad falvak' egyikeként jött létre. A közösség ma is őrzi a függetlenség és az önellátás hagyományait. A magaslati fekvés miatt a klíma hűvösebb és csapadékosabb, mint a síkságokon. Vidékföldrajz K7 – Hegyvidéki közösségek.",
+      "factsAdvanced": [
+        "A Point Hill-i körzet a sziget egyik legsűrűbben lakott vidéki területe.",
+        "A közösség több kisebb kerületből áll, mint például a 'Juan de Bolas', amely egy 17. századi lázadó rabszolgavezér nevét viseli.",
+        "A helyi gazdaság nagymértékben függ a mezőgazdaságtól és a kingstoni piacoktól.",
+        "A Point Hill-i középiskola a környék fiataljainak nyújt oktatást.",
+        "A területen számos forrás és patak található, amelyek a Rio Cobre vízgyűjtőjéhez tartoznak.",
+        "A hagyományos építészeti stílus, a 'wattle and daub' (vesszőfonat és sár) még fellelhető néhány régebbi házon.",
+        "A közösségi összetartás és a vallás fontos szerepet játszik a helyiek életében.",
+        "A kanyargós hegyi utak ellenére a közösség élénk és dinamikus."
+      ]
+    },
+    {
+      "id": "jm-kingston-harbour-economic-v2",
+      "descriptionAdvanced": "A Kingstoni kikötő a világ hetedik legnagyobb természetes kikötője, és a Karib-térség legfontosabb transzhipment (átrakodó) csomópontja. A kikötőt a Palisadoes-félsziget, egy hosszú homokturzás védi a nyílt tengertől, amelyen a Norman Manley Nemzetközi Repülőtér és a történelmi Port Royal is található. A Kingston Container Terminal (KCT) a legmodernebb konténerkezelő létesítményekkel rendelkezik, és a világ legnagyobb hajózási társaságait szolgálja ki. A kikötő Jamaica gazdaságának motorja, a sziget importjának és exportjának túlnyomó része itt halad át. A kikötő fejlesztése, különösen a Panama-csatorna kiszélesítése után, stratégiai fontosságú a jamaicai gazdaság számára. Gazdaságföldrajz K8 – Világkereskedelem és logisztikai központok.",
+      "factsAdvanced": [
+        "A kikötő területe több mint 25 négyzetkilométer.",
+        "A KCT-t a francia CMA CGM hajózási óriás üzemelteti.",
+        "A kikötő mélyvize (akár 15 méter) lehetővé teszi a legnagyobb, 'Post-Panamax' méretű konténerhajók fogadását is.",
+        "A Palisadoes-félsziget geológiailag instabil, és a tengerszint-emelkedés komolyan veszélyezteti.",
+        "A kikötőben jelentős a kőolaj- és gabonaterminál forgalma is.",
+        "A kikötő a múltban komoly szennyezési problémákkal küzdött, de az utóbbi években javult a helyzet.",
+        "A kikötő a 'Gallows Point'-nál (Akasztófa-fok) található, ahol a kalózokat végezték ki a 17-18. században.",
+        "A kikötő stratégiai elhelyezkedése összeköti az észak- és dél-amerikai, valamint az európai és ázsiai kereskedelmi útvonalakat."
+      ]
+    },
+    {
+      "id": "jm-port-esquivel-economic-v2",
+      "descriptionAdvanced": "A Port Esquivel egy speciális ipari kikötő Clarendon megye déli partján, amelyet elsősorban a bauxit- és timföldexportra építettek. A kikötő a Windalco (West Indies Alumina Company) Ewarton-i és a korábbi Kirkvine-i finomítóinak termékeit szolgálja ki. A timföldet vasúton szállítják a finomítókból a kikötőbe, ahol nagy teherhajókra rakodják. A kikötő a nevét Juan de Esquivelről, Jamaica első spanyol kormányzójáról kapta, aki 1510-ben alapította a közeli Old Harbour városát. A kikötő Jamaica nehéziparának és exportorientált gazdaságának fontos láncszeme, amely szorosan kötődik a bauxit világpiaci helyzetéhez. Iparföldrajz K8 – Nyersanyag-exportáló kikötők.",
+      "factsAdvanced": [
+        "A kikötőt az 1950-es években fejlesztették ki a bauxitipar igényeinek megfelelően.",
+        "A mélyvízi móló képes a nagy, 'Panamax' méretű ömlesztettáru-szállító hajók fogadására.",
+        "A kikötőben cukor és melasz exportja is folyik, a közeli Monymusk cukorgyárból.",
+        "A kikötői létesítmények a UC Rusal orosz alumíniumipari cég érdekeltségébe tartoznak.",
+        "A kikötő a Portland Bight Védett Terület határán fekszik, ami környezetvédelmi aggályokat vet fel.",
+        "A kikötő működése szigorú nemzetközi biztonsági és környezetvédelmi előírásokhoz kötött.",
+        "A spanyolok idején a terület 'Puerto de las Vacas' (Tehenek kikötője) néven volt ismert.",
+        "A kikötő Jamaica gazdaságának egyik legfontosabb exportbevétel-forrása."
+      ]
+    },
+    {
+      "id": "jm-port-rhodes-economic-v2",
+      "descriptionAdvanced": "A Port Rhodes egy mélyvízi kikötő Discovery Bay-ben, Saint Ann megyében, amelyet szinte kizárólag a Noranda Bauxite vállalat használ a bauxit exportjára. A kikötő a város gazdaságának központi eleme, és a nevét egy korábbi bányavállalati vezetőről kapta. A közeli bányákból kitermelt bauxitot egy több kilométer hosszú szállítószalag-rendszeren juttatják el a kikötői tárolókba, majd onnan a hajókra. A kikötő hatékonysága kulcsfontosságú a jamaicai bauxitipar versenyképessége szempontjából. A kikötő kontrasztot alkot a közeli történelmi emlékhelyekkel, mint például a Columbus Park, és jól példázza az ipar és a turizmus egymás mellett élését a sziget északi partján. Ipar és Gazdaság K8.",
+      "factsAdvanced": [
+        "A Noranda Bauxite (most New Day Aluminium) a sziget egyik legnagyobb bauxitkitermelője.",
+        "A kikötő a 'Puerto Seco' (Száraz Kikötő) néven ismert öbölben található, ahol Kolumbusz is partra szállt.",
+        "A bauxitport a szállítás során a szél elfújhatja, ami környezeti problémákat okoz a környéken ('piros por').",
+        "A kikötő dokkjai képesek a legnagyobb ömlesztettáru-szállító hajók fogadására is.",
+        "A bauxitot elsősorban az Egyesült Államokba, a cég Gramercy-i (Louisiana) finomítójába szállítják.",
+        "A kikötő működése szigorúan szabályozott a tengeri szennyezések elkerülése érdekében.",
+        "A kikötő a Discovery Bay Marine Laboratory kutatóállomás közelében működik.",
+        "A kikötő és a bánya a régió legnagyobb munkáltatói közé tartozik."
+      ]
+    },
+    {
+      "id": "jm-port-antonio-marina-economic-v2",
+      "descriptionAdvanced": "A Port Antonio-i kikötő, különösen az Errol Flynn Marina, Jamaica egyik legfestőibb és legexkluzívabb jachtkikötője. A város két természetes öböllel rendelkezik (West Harbour és East Harbour), amelyeket a Titchfield-félsziget választ el. A 20. század elején Port Antonio volt a banánkereskedelem világközpontja, és a kikötőben nyüzsögtek a gyümölcsszállító hajók. A banánipar hanyatlása után a város a turizmus felé fordult. Az Errol Flynn Marina, amelyet a híres színészről neveztek el, aki a városban élt, ma a luxusjachtok és a vitorlázók kedvelt célpontja. A kikötő a Karib-térség egyik legszebbjeként ismert, a háttérben a Blue Mountains hegység látványával. Turizmusföldrajz K8 – Jacht-turizmus.",
+      "factsAdvanced": [
+        "Az Errol Flynn Marina egy modern, teljes körű szolgáltatást nyújtó kikötő vám- és bevándorlási irodával.",
+        "A kikötő a Port Antonio Marlin Tournament, egy nemzetközi horgászverseny otthona.",
+        "A Navy Island, Errol Flynn egykori magánszigete, a kikötő bejáratánál található.",
+        "A banánexport virágkorában Port Antonio jobban összeköttetésben állt az USA-val, mint Kingstonnal.",
+        "A Titchfield-félszigeten található a történelmi Titchfield High School és a Fort George erőd romjai.",
+        "A kikötő a 'The Serpent and the Rainbow' és a 'Cocktail' című filmek forgatási helyszíne is volt.",
+        "A kikötő mély és védett, ideális menedékhely a hurrikánok idején.",
+        "A város ma a csendes, ökoturizmusra és a luxuspihenésre vágyók célpontja."
+      ]
+    },
+    {
+      "id": "jm-montego-bay-port-economic-v2",
+      "descriptionAdvanced": "Montego Bay kikötője Jamaica második legnagyobb kikötője és az ország turisztikai fővárosának gazdasági motorja. A kikötő két fő részből áll: a konténer- és ömlesztettáru-kikötőből (Montego Freeport) és a tengerjáró hajókat fogadó terminálból. A Freeport egy mesterséges félszigeten található, és a sziget nyugati részének import- és exportforgalmát bonyolítja le. A cruise terminál évente több százezer turistát fogad, akik a világ legnagyobb tengerjáró hajóival érkeznek. A kikötő szervesen kapcsolódik a város turisztikai infrastruktúrájához, a terminálból a látogatók könnyen elérhetik a strandokat, üzleteket és látványosságokat. A kikötő kulcsfontosságú Jamaica idegenforgalmi bevételei szempontjából. Gazdaságföldrajz K8 – Kikötők és turizmus.",
+      "factsAdvanced": [
+        "A Montego Freeportot az 1960-as években építették ki egy mocsaras terület feltöltésével.",
+        "A cruise terminál akár négy nagy tengerjáró hajót is képes egyszerre fogadni.",
+        "A kikötőben jelentős a cukor, a banán és más mezőgazdasági termékek exportja.",
+        "A kikötő a Sangster Nemzetközi Repülőtér közelében található, ami kiváló logisztikai kapcsolatot biztosít.",
+        "A Freeport területén vámmentes ipari zóna is működik.",
+        "A kikötő fejlesztése folyamatos, hogy lépést tudjon tartani a Karib-térségbeli verseny-társakkal.",
+        "A kikötőből lenyűgöző kilátás nyílik a Montego-öbölre és a környező hegyekre.",
+        "A kikötő a város gazdasági és társadalmi életének központja."
+      ]
+    },
+    {
+      "id": "jm-port-of-falmouth-economic-v2",
+      "descriptionAdvanced": "A Falmouth-i kikötő egy modern, kifejezetten a legnagyobb tengerjáró hajók fogadására épített terminál, amelyet 2011-ben nyitottak meg. A projekt a Royal Caribbean hajótársaság és a Port Authority of Jamaica közös beruházása volt, azzal a céllal, hogy a világ legnagyobb, 'Oasis-osztályú' hajóit is a szigetre vonzzák. A terminált a történelmi Falmouth városának György-korabeli építészeti stílusában tervezték meg, hogy illeszkedjen a környezetébe. A kikötőből a turisták könnyen elérhetik Jamaica északi partjának főbb látványosságait, mint például a Dunn's River vízesést és a Good Hope ültetvényt. A kikötő jelentősen fellendítette Falmouth gazdaságát, de egyben kihívásokat is teremtett a kisváros történelmi jellegének megőrzésében. Turizmusfejlesztés K8.",
+      "factsAdvanced": [
+        "A kikötő építése több mint 220 millió dollárba került.",
+        "A móló 360 méter hosszú, és egyszerre két Oasis-osztályú hajót tud fogadni.",
+        "A kikötői komplexumban üzletek, éttermek és szórakozóhelyek várják a turistákat.",
+        "A projekt célja volt, hogy Falmouth visszanyerje régi dicsőségét, mint Jamaica egyik legfontosabb kikötője.",
+        "A kikötő megnyitása vitákat váltott ki a helyi közösségben a környezeti és társadalmi hatások miatt.",
+        "A kikötő a 'Historic Falmouth Cruise Port' néven is ismert.",
+        "A hajók érkezésekor a kisváros lakossága ideiglenesen a többszörösére duzzad.",
+        "A kikötő a Karib-térség egyik legmodernebb és leglátványosabb cruise terminálja."
+      ]
+    },
+    {
+      "id": "jm-ocho-rios-cruise-port-economic-v2",
+      "descriptionAdvanced": "Az Ocho Rios-i kikötő Jamaica egyik legforgalmasabb tengerjáró hajó kikötője, amely évtizedek óta az északi parti turizmus központja. A város egy gyönyörű öbölben fekszik, és a kikötői mólók, a Turtle Bay Pier és a James Bond Pier, közvetlenül a város szívében helyezkednek el. Évente több száz hajó köt ki itt, turisták százezreit hozva a szigetre. A kikötő közelsége a főbb látványosságokhoz, mint például a Dunn's River vízesés, a Mystic Mountain és a Dolphin Cove, rendkívül vonzóvá teszi a hajótársaságok számára. A kikötő és a hozzá kapcsolódó turisztikai szolgáltatások (túraszervezők, taxisok, üzletek) a helyi gazdaság alapját képezik. Turizmusföldrajz K7 – A turizmus gazdasági hatásai.",
+      "factsAdvanced": [
+        "Ocho Rios volt az egyik első jamaicai város, amely a modern tengerjáró turizmusra épült az 1960-as években.",
+        "A 'James Bond Pier' a 'Dr. No' című első James Bond-film egyik forgatási helyszíne volt.",
+        "A kikötő mellett egy nagy kézműves piac (craft market) is található.",
+        "A Reynolds Pier, egy korábbi bauxitkikötő, ma szintén tengerjáró hajókat fogad.",
+        "A kikötő forgalma jelentősen hozzájárul Jamaica devizabevételeihez.",
+        "Ocho Rios spanyolul 'nyolc folyót' jelent, bár a városban nincs nyolc folyó.",
+        "A kikötő a Karib-térség egyik legnépszerűbb megállóhelye a nyugat-karibi hajóutakon.",
+        "A város folyamatosan fejleszti infrastruktúráját, hogy kiszolgálja a növekvő turistaforgalmat."
+      ]
+    },
+    {
+      "id": "jm-sangster-international-airport-economic-v2",
+      "descriptionAdvanced": "A Sangster Nemzetközi Repülőtér (MBJ) Montego Bay-ben található, és a Karib-térség egyik legforgalmasabb repülőtere. Ez Jamaica fő turisztikai kapuja, a szigetre érkező látogatók többsége itt lép be az országba. A repülőtér a nevét Sir Donald Sangsterről, Jamaica második miniszterelnökéről kapta. A modern és tágas terminál számos légitársaságot szolgál ki Észak-Amerikából, Európából és a Karib-térségből. A repülőtér elhelyezkedése ideális, mivel közel van az északi és nyugati part főbb üdülőhelyeihez. A repülőtér folyamatos fejlesztés alatt áll, hogy megfeleljen a növekvő utasforgalomnak és a modern biztonsági követelményeknek. A repülőtér kulcsfontosságú a jamaicai turizmus és gazdaság számára. Közlekedésföldrajz K8 – Nemzetközi repülőterek.",
+      "factsAdvanced": [
+        "A repülőtér évente több mint 4 millió utast szolgál ki.",
+        "A kifutópálya részben a tengerre épült.",
+        "A repülőtéren egy nagy vámmentes üzletközpont és számos étterem található, köztük a híres 'Margaritaville'.",
+        "A Club Mobay egy VIP váró, amely prémium szolgáltatásokat kínál az utasoknak.",
+        "A repülőtér a régió egyik legfontosabb légi teherszállítási központja is.",
+        "A repülőteret egy magánkonzorcium, az MBJ Airports Limited üzemelteti.",
+        "A repülőtér a Karib-térség legjobb repülőterének járó díjat többször is elnyerte.",
+        "A repülőtér jelentős munkáltató a Montego Bay-i régióban."
+      ]
+    },
+    {
+      "id": "jm-norman-manley-international-airport-economic-v2",
+      "descriptionAdvanced": "A Norman Manley Nemzetközi Repülőtér (KIN) Kingstonban található, a Palisadoes-félszigeten, a tengerszint közvetlen közelében. Ez Jamaica második legfontosabb nemzetközi repülőtere, amely elsősorban az üzleti utazókat és a fővárosba, valamint a sziget keleti és déli részeire irányuló forgalmat szolgálja ki. A repülőtér a nevét Norman Manley-ről, Jamaica egyik nemzeti hőséről és alapító atyjáról kapta. A repülőtér egyedülálló elhelyezkedése miatt, a tenger és a Kingstoni kikötő között, a le- és felszállás lenyűgöző látványt nyújt. A repülőtér sebezhető a hurrikánok és a tengerszint-emelkedés miatt, ezért folyamatos védelmi munkálatokra van szükség. Közlekedésföldrajz K8 – Repülőterek és természeti kockázatok.",
+      "factsAdvanced": [
+        "A repülőtér a Caribbean Airlines, a jamaicai nemzeti légitársaság bázisa.",
+        "A Palisadoes-félszigetre vezető utat többször is megerősítették a viharok okozta károk miatt.",
+        "A repülőtér a történelmi Port Royal közelében található.",
+        "A repülőtér fontos légi teherszállítási csomópont a Karib-térségben.",
+        "A repülőteret a PAC Kingston Airport Limited üzemelteti.",
+        "A repülőtérről rendszeres járatok indulnak a Karib-térség más szigeteire, például a Kajmán-szigetekre és Kubába.",
+        "A repülőtér modernizálása és bővítése folyamatban van.",
+        "A repülőtér elhelyezkedése miatt a repülési útvonalak gyakran a város felett vezetnek el."
+      ]
+    },
+    {
+      "id": "jm-new-kingston-economic-v2",
+      "descriptionAdvanced": "New Kingston Kingston modern üzleti és pénzügyi központja, amely a régi, történelmi belvárostól (Downtown) északra fejlődött ki. Az 1960-as évektől kezdve a terület a város 'uptown' központjává vált, tele irodaházakkal, bankokkal, nagykövetségekkel, luxusszállodákkal és éttermekkel. Itt található a legtöbb nagy jamaicai és nemzetközi vállalat székhelye. New Kingston éjszakai élete is pezsgő, számos bárral, klubbal és szórakozóhellyel. A városrész rácsos utcaszerkezete és modern építészete éles kontrasztban áll a történelmi belváros kaotikusabb jellegével. Az Emancipation Park egy fontos zöldterület a városrész szívében, amely a szabadság és a felszabadulás szimbóluma. Városföldrajz K8 – Modern üzleti negyedek (CBD).",
+      "factsAdvanced": [
+        "New Kingston egykor a Knutsford Park lóversenypálya területe volt.",
+        "A Jamaica Pegasus és a Courtleigh Hotel a városrész két legnevesebb szállodája.",
+        "A legtöbb jamaicai kereskedelmi bank központja itt található.",
+        "Az Emancipation Parkot 2002-ben nyitották meg, és a 'Redemption Song' című szobor uralja.",
+        "A városrészben található a brit, az amerikai, a kanadai és számos más ország nagykövetsége.",
+        "A Half-Way-Tree út a városrész fő közlekedési artériája.",
+        "A terület a magas ingatlanárakról és a modern életstílusról ismert.",
+        "New Kingston a modern, globális gazdasághoz kapcsolódó Jamaica szimbóluma."
+      ]
+    },
+    {
+      "id": "jm-downtown-kingston-economic-v2",
+      "descriptionAdvanced": "Downtown Kingston a jamaicai főváros történelmi, kulturális és kereskedelmi szíve. Bár az üzleti élet központja részben áttevődött New Kingstonba, a belváros továbbra is a kormányzati és a jogi élet központja. Itt található a Parlament (Gordon House), a Legfelsőbb Bíróság és számos minisztérium. A belváros a kiskereskedelem nyüzsgő központja is, tele piacokkal, üzletekkel és utcai árusokkal, mint például a Coronation Market, a sziget legnagyobb piaca. A terület gazdag történelmi épületekben, de sok közülük leromlott állapotban van. A belváros revitalizációja évtizedek óta a városfejlesztés egyik legfontosabb célkitűzése, amelynek célja a történelmi örökség megőrzése és a gazdasági élet fellendítése. Városmegújítás K8.",
+      "factsAdvanced": [
+        "A Coronation Market a helyi gazdálkodók és a kiskereskedők legfontosabb találkozóhelye.",
+        "Itt található a Jamaica Nemzeti Galéria, az ország legfontosabb művészeti múzeuma.",
+        "A Kingston Waterfront (tengerpart) a revitalizációs program egyik központi eleme, irodaházakkal és sétányokkal.",
+        "A Ward Theatre egy történelmi színház, amely a jamaicai pantomim otthona.",
+        "A belváros a reggae zene szülőhelye, a közeli Trench Town-ból indult Bob Marley és a The Wailers.",
+        "A terület a magas bűnözési ráta miatt rossz hírnévvel is küzd, bár a helyzet javulóban van.",
+        "Az 1907-es nagy földrengés és az azt követő tűzvész szinte teljesen elpusztította a történelmi épületállományt.",
+        "A belvárosban található a Bank of Jamaica és a Jamaica Stock Exchange is."
+      ]
+    },
+    {
+      "id": "jm-montego-bay-free-zone-economic-v2",
+      "descriptionAdvanced": "A Montego Bay Free Zone egy speciális gazdasági övezet a Montego Freeport kikötő területén. Az 1980-as években hozták létre azzal a céllal, hogy vonzza a külföldi befektetéseket és munkahelyeket teremtsen az exportorientált iparágakban. Az itt működő vállalatok adókedvezményeket és egyéb pénzügyi ösztönzőket élveznek, cserébe a termékeik túlnyomó részét exportálniuk kell. A zóna kezdetben a ruhaiparra összpontosított, de ma már a business process outsourcing (BPO), vagyis a kihelyezett üzleti folyamatok (pl. call centerek) dominálnak. A Free Zone jelentős munkáltató a Montego Bay-i régióban, és fontos szerepet játszik Jamaica exportbevételeinek növelésében. Világgazdaság K8 – Speciális gazdasági övezetek.",
+      "factsAdvanced": [
+        "A BPO szektor ma Jamaica egyik leggyorsabban növekvő iparága.",
+        "A zónában működő vállalatok főként az észak-amerikai piacot szolgálják ki.",
+        "A zóna biztonságos, elkerített területen található, szigorú beléptetési rendszerrel.",
+        "A ruhaipar a globális verseny miatt az elmúlt évtizedekben visszaszorult.",
+        "A call centerek a fiatal, képzett munkaerő számára kínálnak munkalehetőséget.",
+        "A Free Zone a kikötő és a repülőtér közelsége miatt logisztikailag ideális helyen van.",
+        "A zóna működése hozzájárul a technológiai transzferhez és a munkaerő képzéséhez.",
+        "Hasonló speciális gazdasági övezetek Kingstonban és más jamaicai városokban is működnek."
+      ]
+    },
+    {
+      "id": "jm-jamaica-stock-exchange-economic-v2",
+      "descriptionAdvanced": "A Jamaicai Tőzsde (Jamaica Stock Exchange - JSE) Kingston belvárosában található, és a jamaicai gazdaság pénzügyi központja. Az 1968-ban alapított tőzsde platformot biztosít a helyi vállalatok számára a tőkebevonáshoz és a befektetők számára a részvénykereskedelemhez. A JSE az elmúlt években a világ egyik legjobban teljesítő tőzsdéje volt, ami a jamaicai gazdaság stabilizálódását és a befektetői bizalom növekedését tükrözi. A tőzsdeindex, a JSE Composite Index, a jamaicai gazdaság állapotának fontos mutatója. A JSE aktívan támogatja a pénzügyi műveltséget és a kisbefektetők részvételét a tőkepiacon. A tőzsde a modern, piacgazdaságra épülő Jamaica egyik legfontosabb intézménye. Pénzügyi alapismeretek K8.",
+      "factsAdvanced": [
+        "A JSE 2018-ban és 2015-ben a Bloomberg szerint a világ legjobban teljesítő tőzsdéje volt.",
+        "A tőzsdén több mint 100 vállalat részvényeivel kereskednek.",
+        "A JSE Junior Market egy speciális platform a kisebb és közepes vállalkozások számára, kedvezményes feltételekkel.",
+        "A tőzsde teljesen elektronikus kereskedési rendszerrel működik.",
+        "A JSE szorosan együttműködik a Karib-térség más tőzsdéivel.",
+        "A legnagyobb tőzsdén jegyzett vállalatok a pénzügyi, a gyártó és a kiskereskedelmi szektorból kerülnek ki.",
+        "A tőzsde rendszeresen szervez oktatási programokat és versenyeket a pénzügyi ismeretek terjesztésére.",
+        "A tőzsde épülete a Kingston Waterfronton, a Bank of Jamaica mellett található."
+      ]
+    },
+    {
+      "id": "jm-bank-of-jamaica-economic-v2",
+      "descriptionAdvanced": "A Bank of Jamaica (BOJ) Jamaica központi bankja, amely Kingston belvárosában, a vízparton található. Az 1960-ban alapított intézmény felelős a jamaicai dollár (JMD) kibocsátásáért, az ország monetáris politikájának irányításáért, az árstabilitás fenntartásáért és a pénzügyi rendszer felügyeletéért. A BOJ döntései, például az alapkamat mértékének meghatározása, alapvetően befolyásolják a hitelek kamatait, az inflációt és a gazdasági növekedést. Az intézmény fontos szerepet játszik a kormány gazdaságpolitikájának megvalósításában és a nemzetközi pénzügyi szervezetekkel (pl. IMF) való kapcsolattartásban. A BOJ épülete egy modern, toronyház, amely a jamaicai pénzügyi stabilitás szimbóluma. Makroökonómia K8 – A központi bankok szerepe.",
+      "factsAdvanced": [
+        "A BOJ a brit központi bank, a Bank of England mintájára jött létre.",
+        "A bank épületében egy pénzmúzeum is működik, amely bemutatja Jamaica pénztörténetét.",
+        "A BOJ adja ki a jamaicai dollár bankjegyeit és érméit, amelyeken a nemzeti hősök portréi láthatók.",
+        "A monetáris politika fő célja az infláció alacsonyan tartása.",
+        "A BOJ felügyeli a kereskedelmi bankokat és más pénzügyi intézményeket.",
+        "Az intézmény rendszeresen publikál gazdasági elemzéseket és statisztikákat.",
+        "A BOJ devizatartalékokat kezel az árfolyam stabilitásának biztosítása érdekében.",
+        "A bank épülete a Nethersole Place-en található, Nornan Nethersole, Jamaica első pénzügyminisztere után elnevezve."
+      ]
+    },
+    {
+      "id": "jm-jamalco-refinery-economic-v2",
+      "descriptionAdvanced": "A Jamalco timföldfinomító egy hatalmas ipari komplexum Clarendon megye déli részén, Hayes közelében. Ez Jamaica egyik legnagyobb timföldfinomítója, amely a környező területekről kitermelt bauxitot dolgozza fel alumínium-oxiddá (timfölddé). A finomító a jamaicai kormány és a Noble Group (korábban az Alcoa) vegyesvállalata. A komplexum jelentős munkáltató a régióban, de működése komoly környezeti kihívásokat is jelent, különösen a vörösiszap tárolása és a levegőszennyezés miatt. A finomítóhoz saját erőmű és egy kiterjedt vasúthálózat is tartozik, amely a bányákat és a Rocky Point-i kikötőt köti össze. A Jamalco működése jól példázza a nehézipar gazdasági előnyeit és környezeti hátrányait. Iparföldrajz K8 – Nehézipar és környezetvédelem.",
+      "factsAdvanced": [
+        "A finomító éves kapacitása több mint 1,4 millió tonna timföld.",
+        "A vörösiszap, a folyamat mellékterméke, nagy tározókban kerül elhelyezésre, amelyeket 'vörös iszap tavaknak' is neveznek.",
+        "A finomító működése rendkívül energiaigényes.",
+        "A bauxitot a közeli Mocho-hegységből és más területekről szállítják a finomítóba.",
+        "A timföldet szinte teljes egészében exportálják, az alumíniumgyártás alapanyagaként szolgál.",
+        "A vállalat jelentős összegeket költ a környezetvédelmi előírásoknak való megfelelésre és a tájrehabilitációra.",
+        "A helyi közösségek és a vállalat között gyakoriak a viták a környezeti károk és a kompenzáció miatt.",
+        "A Jamalco Jamaica gazdaságának egyik legfontosabb exportbevétel-termelője."
+      ]
+    }
+  ]
+}

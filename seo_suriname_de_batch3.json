@@ -1,0 +1,295 @@
+{
+  "lang": "de",
+  "country": "suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLifeV2.ts",
+    "lib/visualLab/data/poiExtraSurinameNatureV2.ts",
+    "lib/visualLab/data/poiExtraSurinameReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-zeelandia-landmarks-v2",
+      "descriptionAdvanced": "Das Fort Zeelandia ist das markanteste architektonische Wahrzeichen am Ufer des Suriname-Flusses in Paramaribo. Die im 17. Jahrhundert errichtete Festung besticht durch ihr charakteristisches Mauerwerk aus rot-braunen Backsteinen, die einst als Ballast auf niederländischen Schiffen in die Kolonie kamen. Heute präsentiert sich die Anlage als ein gepflegtes kulturelles Ensemble, dessen Bastionen einen weiten Panoramablick über den Fluss und die Jules-Wijdenbosch-Brücke bieten. Im Inneren finden Besucher eine harmonische Abfolge von historischen Offiziershäusern und Kasematten, die das Stadtbild der Hauptstadt maßgeblich prägen und als zentraler Anziehungspunkt für Touristen und Geschichtsinteressierte dienen. Földrajz K7 — kulturális örökség és építészet.",
+      "factsAdvanced": [
+        "Die Festung zeigt eine einzigartige Mischung aus französischer und niederländischer Militärarchitektur.",
+        "Die roten Backsteine wurden als Schiffsballast aus den Niederlanden importiert.",
+        "Fünf Bastionen (Veere, Zierikzee, Middelburg, Flushing, Amsterdam) bilden die Verteidigungslinie.",
+        "Das Hauptgebäude beherbergt wechselnde Ausstellungen zur surinamischen Kulturgeschichte.",
+        "Der Innenhof ist für seine hervorragende Akustik bei kulturellen Veranstaltungen bekannt.",
+        "Die Anlage ist vollständig in das UNESCO-Weltkulturerbe der Innenstadt integriert.",
+        "Ein Denkmal erinnert auf dem Gelände an den Freiheitskämpfer Anton de Kom.",
+        "Die Festung ist abends eindrucksvoll beleuchtet und dominiert die nächtliche Waterkant."
+      ]
+    },
+    {
+      "id": "st-peter-paul-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die Sint-Petrus-en-Pauluskathedrale ist ein triumphales Meisterwerk der Holzarchitektur und thront als größte Holzkirche Amerikas im Zentrum von Paramaribo. Das vollständig aus einheimischen Hölzern wie Zedern- und Basralocus-Holz errichtete Bauwerk fasziniert durch seine neogotische Fassade und die warmen Holztöne im weitläufigen Innenraum. Ohne jegliche Bemalung zeigt das Interieur die natürliche Schönheit und handwerkliche Präzision der surinamischen Zimmerkunst. Die beiden markanten Türme und das riesige Kirchenschiff machen sie zu einem weithin sichtbaren Orientierungspunkt und einem Symbol für die tiefe religiöse Verwurzelung und den Stolz der Nation auf ihre natürlichen Ressourcen. Földrajz K7 — vallási építészet.",
+      "factsAdvanced": [
+        "Die Kathedrale gilt als das größte rein hölzerne Gebäude in der westlichen Hemisphäre.",
+        "Nach einer neunjährigen Restaurierung wurde sie 2010 wieder für die Öffentlichkeit geöffnet.",
+        "Das Innere ist komplett in unbehandeltem, dunklem surinamischem Holz gehalten.",
+        "Die Kirche besitzt zwei 44 Meter hohe Glockentürme, die das Stadtzentrum überragen.",
+        "Ihre Architektur folgt dem Stil der Neogotik, angepasst an tropische Klimabedingungen.",
+        "Papst Franziskus erhob das Gebäude 2014 in den Rang einer Basilica Minor.",
+        "Im Inneren finden bis zu 1.200 Menschen bei feierlichen Messen Platz.",
+        "Die Akustik in dem riesigen Holzschiff gilt als eine der besten in ganz Südamerika."
+      ]
+    },
+    {
+      "id": "centrale-markt-paramaribo-landmarks-v2",
+      "descriptionAdvanced": "Der Centrale Markt von Paramaribo ist weit mehr als ein Handelsplatz; er ist ein architektonisches Monument des täglichen Lebens am Ufer des Suriname-Flusses. Die weitläufige, zweistöckige Markthalle bietet eine faszinierende Kulisse für das geschäftige Treiben hunderter Händler, die hier die gesamte Vielfalt der surinamischen Landwirtschaft und Kultur präsentieren. Von der Architektur her ist der Komplex so gestaltet, dass er natürliche Belüftung nutzt, um das feuchtheiße Klima für Besucher und Waren angenehm zu halten. Als visuelles und akustisches Erlebnis ist der Markt der beste Ort, um die ethnische Vielfalt des Landes durch seine Produkte, Sprachen und kulinarischen Düfte unmittelbar zu erfahren. Földrajz K7 — városi terek és kereskedelem.",
+      "factsAdvanced": [
+        "Der Markt ist der größte überdachte Verkaufsraum in der gesamten Karibik-Region.",
+        "Er erstreckt sich über zwei Etagen mit einer Fläche von mehreren tausend Quadratmetern.",
+        "Der 'Maroon-Markt' ist ein integraler Teil und bekannt für exotische Heilpflanzen.",
+        "Frischer Fisch wird oft direkt von den Booten am hauseigenen Anleger angelandet.",
+        "Die Architektur kombiniert industrielle Stahlelemente mit funktionalem kolonialem Design.",
+        "Tausende Menschen besuchen täglich den Markt zur Grundversorgung mit Lebensmitteln.",
+        "Die umliegenden Gassen bilden eine Erweiterung des Marktes unter freiem Himmel.",
+        "Der Markt fungiert als wichtigster wirtschaftlicher Schmelztiegel für alle Ethnien des Landes."
+      ]
+    },
+    {
+      "id": "neveh-shalom-synagogue-landmarks-v2",
+      "descriptionAdvanced": "Die Neveh Shalom Synagoge ist ein architektonisches Juwel des Klassizismus und ein leuchtendes Symbol für die lange Geschichte der jüdischen Gemeinde in Suriname. Das strahlend weiße Holzgebäude mit seinem markanten Portikus fügt sich harmonisch in das historische Stadtbild von Paramaribo ein. Weltberühmt ist sie für ihren sandbedeckten Boden, der dem Innenraum eine einzigartige, meditative Atmosphäre verleiht und an die biblische Wüstenwanderung erinnert. Die unmittelbare Nachbarschaft zur Ahmadiyya-Moschee macht dieses Gebäude zu einem der meistfotografierten Beispiele für religiöse Koexistenz weltweit und unterstreicht die Rolle architektonischer Denkmäler als Friedenssymbole. Történelem K8 — vallási építészet és tolerancia.",
+      "factsAdvanced": [
+        "Das heutige Gebäude wurde 1835 nach Plänen des Architekten J.F. Halfhide errichtet.",
+        "Der sandbedeckte Boden ist eine Besonderheit sephardischer Synagogen in der Karibik.",
+        "Vier massive Säulen tragen das eindrucksvolle Tonnengewölbe im Innenraum.",
+        "Die Inneneinrichtung besteht aus edlem surinamischem Hartholz mit Mahagoni-Finish.",
+        "Historische Torarollen aus der Gründungszeit der Jodensavanne werden hier aufbewahrt.",
+        "Die Synagoge bildet zusammen mit der Moschee ein weltweit einzigartiges Ensemble.",
+        "Das Gebäude ist ein zentraler Bestandteil des UNESCO-geschützten Stadtkerns.",
+        "Abends wird die weiße Fassade kunstvoll beleuchtet und strahlt Ruhe aus."
+      ]
+    },
+    {
+      "id": "ahmadiyya-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Ahmadiyya-Moschee in Paramaribo ist ein beeindruckendes Beispiel für moderne islamische Architektur in der Karibik. Mit ihren vier eleganten Minaretten und der großen, zentralen Kuppel dominiert sie die Skyline der Keizerstraat und setzt einen markanten visuellen Akzent im Stadtbild. Die Moschee ist nicht nur ein Ort des Gebets, sondern auch ein Zeugnis für die stolze indostanische Identität in Suriname. Die architektonische Entscheidung, das Gebäude in direkter Nachbarschaft zur Neveh Shalom Synagoge zu errichten, hat sie zu einem internationalen Wahrzeichen für interreligiöse Harmonie gemacht. Ihre helle Fassade und die symmetrische Gestaltung strahlen eine zeitlose Eleganz aus. Földrajz K8 — vallási és kulturális sokszínűség.",
+      "factsAdvanced": [
+        "Die Moschee wurde im Jahr 1984 nach langjähriger Bauzeit offiziell eingeweiht.",
+        "Sie dient als Hauptsitz der Lahore Ahmadiyya Bewegung in Suriname.",
+        "Das Gebäude verfügt über vier weithin sichtbare Minarette an den Ecken.",
+        "In der Gebetshalle finden mehrere hundert Gläubige gleichzeitig Platz.",
+        "Die unmittelbare Nähe zur Synagoge (nur durch einen Zaun getrennt) ist weltweit legendär.",
+        "Die Architektur verbindet klassische islamische Elemente mit modernem Betonbau.",
+        "Die Moschee ist ein häufiges Ziel für Delegationen, die den religiösen Frieden studieren.",
+        "Bei Nacht leuchten die Minarette grün und bilden einen Orientierungspunkt in der Stadt."
+      ]
+    },
+    {
+      "id": "jules-wijdenboschbrug-landmarks-v2",
+      "descriptionAdvanced": "Die Jules-Wijdenbosch-Brücke, im Volksmund oft einfach 'Bosje-Brug' genannt, ist das imposanteste ingenieurtechnische Bauwerk Surinames. Mit einer beeindruckenden Höhe von 52 Metern überspannt sie den Suriname-Fluss und verbindet die Hauptstadt Paramaribo mit dem Distrikt Commewijne. Die elegante Bogenform der Brücke ermöglicht es auch großen Ozeanriesen, den Fluss ungehindert zu befahren. Als weithin sichtbare Landmarke prägt sie das Panorama der Region und symbolisiert den Aufbruch in die moderne Infrastrukturentwicklung. Für Besucher bietet die Überquerung einen spektakulären Blick über die weite Flusslandschaft und das grüne Blätterdach des Dschungels, der sich bis zum Horizont erstreckt. Földrajz K7 — infrastruktúra és közlekedés.",
+      "factsAdvanced": [
+        "Die Brücke wurde im Mai 2000 unter Präsident Jules Wijdenbosch offiziell eröffnet.",
+        "Sie hat eine Gesamtlänge von 1.504 Metern und eine maximale Höhe von 52 Metern.",
+        "Die Brücke ersetzte die langsame Fährverbindung zwischen Paramaribo und Meerzorg.",
+        "Bauausführendes Unternehmen war das niederländische Ingenieurbüro Ballast Nedam.",
+        "Sie verfügt über zwei Fahrspuren und ist eine mautpflichtige Verbindung.",
+        "Aufgrund ihrer Steigung ist die Überquerung für Radfahrer eine sportliche Herausforderung.",
+        "Die Brücke ist nachts hell erleuchtet und spiegelt sich malerisch im Flusswasser.",
+        "Sie ist die wichtigste Landverbindung für den Transport von Agrarprodukten aus dem Osten."
+      ]
+    },
+    {
+      "id": "onafhankelijkheidsplein-landmarks-v2",
+      "descriptionAdvanced": "Der Unabhängigkeitsplatz ist das repräsentative Herz von Paramaribo und ein Ort von enormer symbolischer Bedeutung. Umgeben von den wichtigsten Staatsgebäuden wie dem Präsidentenpalast und dem Parlament, bildet der weite, grüne Platz die Bühne für nationale Feiertage und feierliche Zeremonien. Seine Architektur spiegelt die koloniale Planung wider, die weite offene Räume als Zeichen von Macht und Ordnung vorsah. Heute ist der Platz ein Ort der Begegnung, an dem Geschichte und Gegenwart aufeinandertreffen. Die Denkmäler bedeutender Persönlichkeiten und die prachtvollen Kolonialbauten am Rand machen ihn zu einem architektonischen Freilichtmuseum, das die staatliche Identität Surinames widerspiegelt. Történelem K8 — államiság és nemzeti jelképek.",
+      "factsAdvanced": [
+        "Der Platz liegt direkt am Suriname-Fluss und ist das Zentrum des UNESCO-Weltkulturerbes.",
+        "Hier wurde am 25. November 1975 die Unabhängigkeit von den Niederlanden verkündet.",
+        "Der Platz beherbergt Denkmäler von Johan Adolf Pengel und Jagernath Lachmon.",
+        "Die umliegenden Gebäude zeigen die typische weiße surinamische Holzarchitektur.",
+        "Am Wochenende finden hier oft traditionelle Vogelgesangswettbewerbe statt.",
+        "Der Platz ist der Ausgangspunkt für alle offiziellen Paraden und Staatsakte.",
+        "Vom Platz aus hat man einen direkten Zugang zum berühmten Palmengarten.",
+        "Die weite Rasenfläche dient den Bürgern als beliebter Ort für Abendspaziergänge."
+      ]
+    },
+    {
+      "id": "palmentuin-landmarks-v2",
+      "descriptionAdvanced": "Der Palmengarten (Palmentuin) ist eine grüne Oase der Ruhe und eines der charmantesten Naturdenkmäler in der Innenstadt von Paramaribo. Hinter dem Präsidentenpalast gelegen, beherbergt der Garten Hunderte von majestätischen Königspalmen, die im 17. Jahrhundert gepflanzt wurden. Die hohen, schlanken Stämme und das dichte Blätterdach bieten einen willkommenen Schatten vor der tropischen Sonne und schaffen eine fast kathedrale Atmosphäre. Als ehemaliger Privatgarten des Gouverneurs ist der Park heute für die Öffentlichkeit zugänglich und dient als beliebter Rückzugsort für Stadtbewohner und Touristen. Die friedliche Stimmung unter den Palmen macht den Garten zu einem unverzichtbaren Teil des kulturellen und natürlichen Erbes der Hauptstadt. Földrajz K6 — városi ökoszisztémák.",
+      "factsAdvanced": [
+        "Der Garten beherbergt über 1.000 Königspalmen (Roystonea regia).",
+        "Die ersten Palmen wurden auf Anordnung von Gouverneur van Sommelsdijck gepflanzt.",
+        "Bis zum Jahr 1685 war der Garten ausschließlich dem Gouverneur vorbehalten.",
+        "Im Park befinden sich Denkmäler, darunter eine Statue zu Ehren von Hilly Arduin.",
+        "Die Palmen erreichen eine beeindruckende Höhe von bis zu 30 Metern.",
+        "Der Palmentuin ist ein wichtiger Lebensraum für Kapuzineraffen und Tropenvögel.",
+        "Bei großen Stadtfesten wird der Garten oft für Kunsthandwerksmärkte genutzt.",
+        "Der Park ist ein wesentlicher Bestandteil der UNESCO-Welterbestätte Paramaribo."
+      ]
+    },
+    {
+      "id": "presidential-palace-landmarks-v2",
+      "descriptionAdvanced": "Der Präsidentenpalast in Paramaribo ist das prachtvollste Beispiel für die Verbindung von europäischem Palladianismus und tropischer Holzbaukunst. Als Amtssitz des Staatsoberhauptes thront das weiße Gebäude majestätisch am Unabhängigkeitsplatz und beeindruckt durch seine symmetrische Fassade und die kunstvollen Schnitzereien. Ursprünglich im 18. Jahrhundert als Gouverneurshaus errichtet, strahlt es heute die Würde und Souveränität des unabhängigen Suriname aus. Die Architektur nutzt geschickt hohe Decken und weite Veranden, um für Kühlung zu sorgen, was es zu einem Musterbeispiel für adaptives koloniales Design macht. Der Palast ist nicht nur ein administratives Zentrum, sondern ein nationales Monument von Weltrang. Történelem K7 — koloniális építészet.",
+      "factsAdvanced": [
+        "Der Kern des Gebäudes stammt aus dem Jahr 1730 und wurde mehrfach erweitert.",
+        "Die oberen Etagen bestehen aus edlem Holz, während das Erdgeschoss aus Backstein gemauert ist.",
+        "Die Fassade wird von einem prächtigen Giebel mit dem surinamischen Wappen gekrönt.",
+        "In den prächtigen Gärten hinter dem Palast wachsen seltene tropische Pflanzen.",
+        "Der Palast beherbergt die offiziellen Repräsentationsräume für ausländische Staatsgäste.",
+        "Es gilt als eines der besterhaltenen Gouverneursgebäude in ganz Südamerika.",
+        "Das Gebäude ist bei nationalen Feiertagen wie dem Unabhängigkeitstag festlich geschmückt.",
+        "Als Teil des historischen Zentrums gehört der Palast seit 2002 zum UNESCO-Welterbe."
+      ]
+    },
+    {
+      "id": "arya-dewaker-temple-landmarks-v2",
+      "descriptionAdvanced": "Der Arya Dewaker Tempel ist ein architektonisches Monument der Moderne und das spirituelle Wahrzeichen der hinduistischen Gemeinschaft in Suriname. Seine außergewöhnliche oktogonale Form und die leuchtende Farbgebung machen ihn zu einem unverwechselbaren Teil der Stadtlandschaft von Paramaribo. Im Gegensatz zu traditionellen Hindu-Tempeln verzichtet das Design bewusst auf figürliche Darstellungen und setzt stattdessen auf symbolische Architektur und Sanskrit-Inschriften, die die Philosophie des Arya Samaj widerspiegeln. Die Kombination aus indischen Stilelementen und modernen Baumaterialien schafft eine Atmosphäre der Klarheit und Offenheit, die Besucher aller Glaubensrichtungen dazu einlädt, die kulturelle Tiefe Surinames zu erkunden. Földrajz K8 — kulturális integráció.",
+      "factsAdvanced": [
+        "Der Tempel wurde 2001 als größtes hinduistisches Gotteshaus Surinames eröffnet.",
+        "Die achtseitige Struktur symbolisiert die Vollkommenheit und die acht Himmelsrichtungen.",
+        "Anstelle von Götterstatuen bildet ein heiliges Feuer (Havan) das spirituelle Zentrum.",
+        "Der Name Arya Dewaker bedeutet übersetzt 'Die edle Sonne'.",
+        "Architektonisch verbindet der Bau hinduistische Motive mit karibischer Leichtigkeit.",
+        "Die Wände sind mit philosophischen Leitsätzen in Sanskrit und Niederländisch geschmückt.",
+        "Der Tempel bietet Platz für über 2.500 Besucher bei großen religiösen Festen.",
+        "Die prächtigen Kuppeln und Türme sind weithin im Stadtviertel sichtbar."
+      ]
+    },
+    {
+      "id": "paramaribo-life-v2",
+      "descriptionAdvanced": "Das Leben in Paramaribo ist ein faszinierendes Mosaik aus Tradition, multikultureller Vielfalt und tropischer Gelassenheit. In den Straßen der Hauptstadt verschmelzen die Rhythmen der Karibik mit den Einflüssen aus Indien, Java, China und Europa zu einem einzigartigen Lebensgefühl. Besonders spürbar ist dies an der Waterkant, wo Menschen am Abend zusammenkommen, um bei kühlen Getränken und javanischen Snacks den Sonnenuntergang über dem Suriname-Fluss zu genießen. Das tägliche Leben ist geprägt von religiöser Toleranz, lebhaften Märkten und einer kulinarischen Szene, die als eine der abwechslungsreichsten der Welt gilt. In Paramaribo findet man eine Herzlichkeit, die Besucher sofort in ihren Bann zieht und die Stadt zu einem lebendigen, atmenden Museum der Menschlichkeit macht. Földrajz K7 — kulturális antropológia és társadalom.",
+      "factsAdvanced": [
+        "Paramaribo beherbergt etwa die Hälfte der gesamten Bevölkerung von Suriname.",
+        "Die 'Waterkant' ist das gesellschaftliche Wohnzimmer der Stadt am Flussufer.",
+        "Kulinarisch ist die Stadt berühmt für Gerichte wie Roti, Pom und javanisches Bami.",
+        "Das jährliche 'Avondvierdaagse' (Abend-Viertage-Marsch) ist ein riesiges kulturelles Event.",
+        "Religiöse Feiertage wie Holi, Divali, Id-ul-Fitr und Weihnachten werden von allen gefeiert.",
+        "Das Fahrrad ist ein beliebtes Verkehrsmittel, ein Erbe der niederländischen Zeit.",
+        "Traditionelle Kleidung wie die kreolische 'Koto' wird zu festlichen Anlässen stolz getragen.",
+        "Die Stadt gilt als eine der sichersten und friedlichsten Hauptstädte Südamerikas."
+      ]
+    },
+    {
+      "id": "sr-central-suriname-nature-v2",
+      "descriptionAdvanced": "Das Zentral-Suriname-Naturschutzgebiet ist ein unberührtes Paradies und eines der größten geschützten Regenwaldgebiete der Erde. Als UNESCO-Weltnaturerbe umfasst es ein riesiges Areal, in dem die Natur noch in ihrem ursprünglichen Zustand existiert, weit weg von menschlicher Besiedlung. Die dichten Wälder beherbergen eine unglaubliche Artenvielfalt, von majestätischen Jaguaren bis hin zu seltenen Primaten und exotischen Vögeln wie dem Felsenhahn. Durchzogen von mächtigen Flüssen und gekrönt von beeindruckenden Granit-Inselbergen wie dem Voltzberg, bietet das Reservat eine Landschaft von archaischer Schönheit. Es ist ein lebendiges Labor für Wissenschaftler und ein Sehnsuchtsort für Abenteurer, die die wahre Wildnis Südamerikas erleben möchten. Földrajz K7 — trópusi esőerdők ökológiája.",
+      "factsAdvanced": [
+        "Das Reservat wurde 1998 gegründet und umfasst etwa 1,6 Millionen Hektar Land.",
+        "Es wurde bereits im Jahr 2000 in die Liste des UNESCO-Weltnaturerbes aufgenommen.",
+        "Das Gebiet besteht fast vollständig aus primärem, unberührtem tropischem Regenwald.",
+        "Hier leben über 400 Vogelarten, darunter der seltene Harpyie-Adler.",
+        "Das Reservat schützt die gesamten Einzugsgebiete des Coppename- und Lucie-Flusses.",
+        "Geologisch ist das Gebiet Teil des uralten Guayana-Schildes, eines der ältesten der Erde.",
+        "Es gibt keine dauerhaften menschlichen Siedlungen innerhalb der Grenzen des Reservats.",
+        "Der Zugang erfolgt meist über kleine Landepisten oder tagelange Kanuexpeditionen."
+      ]
+    },
+    {
+      "id": "sr-galibi-nature-v2",
+      "descriptionAdvanced": "Das Galibi Naturschutzgebiet im Nordosten Surinames ist einer der weltweit wichtigsten Nistplätze für bedrohte Meeresschildkröten. Gelegen an der Mündung des Marowijne-Flusses, bieten die einsamen Sandstrände ideale Bedingungen für die gigantischen Lederschildkröten und Suppenschildkröten, die jedes Jahr hierher zurückkehren, um ihre Eier abzulegen. Dieses Naturschauspiel ist von globaler ökologischer Bedeutung und wird streng geschützt. Neben der Fauna beherbergt Galibi auch indigene Gemeinschaften der Kariben, die im Einklang mit der Natur leben und ihre Traditionen bewahren. Die unberührte Küstenlandschaft, geprägt von Mangroven und Sandbänken, macht Galibi zu einem magischen Ort, an dem der Schutz der Artenvielfalt und indigene Kultur aufeinandertreffen. Földrajz K6 — tengerparti ökoszisztémák és fajvédelem.",
+      "factsAdvanced": [
+        "Galibi ist berühmt für die Ankunft der Lederschildkröten (Aitkanti) von Februar bis August.",
+        "Das Schutzgebiet umfasst die Dörfer Christiaankondre und Langamankondre.",
+        "Lederschildkröten können ein Gewicht von bis zu 700 Kilogramm erreichen.",
+        "Lokale indigene Guides führen Besucher verantwortungsbewusst zu den Nistplätzen.",
+        "Das Reservat liegt direkt an der Grenze zu Französisch-Guayana am Marowijne-Fluss.",
+        "Die Strände entstehen durch die Ablagerung von Schlick und Sand aus dem Amazonas.",
+        "Es ist strengstens verboten, die Schildkröten beim Eierlegen durch Licht zu stören.",
+        "Die Region ist auch ein wichtiges Gebiet für die Beobachtung von Küstenvögeln."
+      ]
+    },
+    {
+      "id": "sr-bigi-pan-nature-v2",
+      "descriptionAdvanced": "Das Bigi Pan Naturschutzgebiet im Nordwesten Surinames ist ein weites Labyrinth aus Lagunen, Mangrovenwäldern und Wasserwegen, das als wahres Vogelparadies gilt. Besonders bekannt ist es als wichtigster Lebensraum für den Roten Ibis, dessen leuchtendes Gefieder einen spektakulären Kontrast zum tiefen Grün der Mangroven bildet. Das Gebiet fungiert als entscheidender Rastplatz für Tausende von Zugvögeln auf ihrer Reise über den Kontinent. Die brackigen Gewässer sind zudem reich an Fischen und bieten Kaimanen und anderen Reptilien eine ideale Heimat. Für Besucher bietet eine Bootsfahrt durch Bigi Pan die seltene Gelegenheit, eine dynamische Küstenlandschaft zu erleben, die sich im Rhythmus der Gezeiten und Jahreszeiten ständig wandelt. Földrajz K7 — vizes élőhelyek.",
+      "factsAdvanced": [
+        "Bigi Pan umfasst eine Fläche von etwa 68.000 Hektar an der Atlantikküste.",
+        "Über 120 verschiedene Vogelarten wurden in dem Reservat bereits gezählt.",
+        "Der Rote Ibis (Eudocimus ruber) ist das inoffizielle Wahrzeichen des Gebiets.",
+        "Besucher übernachten oft in einfachen Häusern auf Stelzen mitten im Wasser.",
+        "Das Gebiet ist ein wichtiges Laichgebiet für Garnelen und viele Fischarten.",
+        "Die Mangroven schützen das Hinterland von Nickerie vor Küstenerosion.",
+        "Man erreicht das Reservat über einen schmalen Kanal vom Nickerie-Fluss aus.",
+        "Bigi Pan ist international als RAMSAR-Gebiet von besonderer Bedeutung gelistet."
+      ]
+    },
+    {
+      "id": "sr-brownsberg-nature-v2",
+      "descriptionAdvanced": "Das Brownsberg Naturschutzgebiet ist eines der am leichtesten zugänglichen und dennoch beeindruckendsten Regenwaldgebiete Surinames. Gelegen auf einem 500 Meter hohen Plateau, bietet es atemberaubende Ausblicke über den riesigen Brokopondo-Stausee und den umliegenden Primärwald. Wanderwege führen Besucher durch dichten Dschungel zu versteckten Wasserfällen wie dem Leo- und Irene-Fall, wo man sich im kühlen Bergwasser erfrischen kann. Das Reservat ist berühmt für seine reiche Tierwelt; oft hört man das markerschütternde Brüllen der Brüllaffen schon aus der Ferne. Brownsberg ist der ideale Ort, um die vertikale Struktur des Regenwaldes und seine komplexe Ökologie hautnah zu erleben, ohne tagelange Expeditionen auf sich nehmen zu müssen. Földrajz K7 — trópusi hegyvidéki esőerdő.",
+      "factsAdvanced": [
+        "Das Naturschutzgebiet liegt etwa 130 Kilometer südlich von Paramaribo.",
+        "Vom Mazaroni-Plateau hat man den besten Blick auf den Brokopondo-Stausee.",
+        "Das Gebiet beherbergt acht verschiedene Affenarten, darunter Klammeraffen.",
+        "Die Wasserfälle Irenefall und Leofall sind die Hauptziele für Wanderer.",
+        "Brownsberg ist nach einem Goldgräber namens John Brown benannt.",
+        "Das Reservat wird von der Stiftung für Naturschutz in Suriname (STINASU) verwaltet.",
+        "In den frühen Morgenstunden ist die Chance auf Tiersichtungen am höchsten.",
+        "Der Boden auf dem Plateau ist reich an Bauxit, was zu rötlicher Färbung führt."
+      ]
+    },
+    {
+      "id": "sr-voltzberg-nature-v2",
+      "descriptionAdvanced": "Der Voltzberg ist eine geologische Sensation im Herzen Surinames und eines der bekanntesten Ziele für Naturbegeisterte. Als massiver Granit-Inselberg erhebt er sich 240 Meter über das grüne Meer des Regenwaldes und bietet nach einem steilen Aufstieg einen unvergleichlichen 360-Grad-Blick über das Zentral-Suriname-Naturschutzgebiet. Die nackten Felswände des Berges sind ein krasser Gegensatz zur üppigen Vegetation seiner Umgebung und beherbergen spezialisierte Pflanzenarten, die an die extreme Hitze des Gesteins angepasst sind. Der Aufstieg zum Gipfel gilt als rituelles Erlebnis für jeden Suriname-Reisenden und ist ein Symbol für die archaische Kraft des Guayana-Schildes, auf dem der Berg thront. Földrajz K8 — geológia és szigethegyek.",
+      "factsAdvanced": [
+        "Der Voltzberg ist ein sogenannter Monolith oder Inselberg aus massivem Granit.",
+        "Sein Alter wird auf über 1,5 Milliarden Jahre geschätzt.",
+        "Der Aufstieg zum Gipfel dauert etwa 45 bis 60 Minuten und ist sehr steil.",
+        "Am Fuße des Berges liegt das Raleighvallen-Forschungszentrum.",
+        "In der Dämmerung kann man oft den seltenen Felsenhahn (Guianan Cock-of-the-rock) sehen.",
+        "Die Oberfläche des Felses kann sich in der Sonne auf über 50 Grad erhitzen.",
+        "Vom Gipfel aus kann man an klaren Tagen bis zum Wilhelminagebirge sehen.",
+        "Der Berg ist Teil des UNESCO-Weltnaturerbes Zentral-Suriname."
+      ]
+    },
+    {
+      "id": "sr-coppename-natur-v2",
+      "descriptionAdvanced": "Der Coppename-Fluss ist eine Lebensader Zentralsurinames und fließt durch einige der unberührtesten Gebiete des Landes. Als einer der wenigen großen Flüsse, die nicht durch Staudämme reguliert sind, bewahrt er seine natürliche Dynamik und ökologische Integrität. Der Fluss dient als wichtigster Transportweg für die indigenen Gemeinschaften und Forscher, die tief in das Zentral-Suriname-Naturschutzgebiet vordringen möchten. Seine Ufer sind gesäumt von riesigen Urwaldriesen und bieten Lebensraum für Riesenotter, Jaguare und unzählige Fischarten. Eine Reise auf dem Coppename ist eine Reise zurück in eine Zeit, in der Flüsse die einzigen Straßen waren und die Wildnis den Rhythmus des Lebens bestimmte. Földrajz K7 — folyóvízi ökoszisztémák.",
+      "factsAdvanced": [
+        "Der Coppename entspringt im Wilhelminagebirge und mündet in den Atlantik.",
+        "Er bildet die Grenze zwischen den Distrikten Saramacca und Coronie.",
+        "Der Fluss ist bekannt für seine tückischen Stromschnellen (Sulas) im Oberlauf.",
+        "Die berühmten Raleigh-Fälle sind eine der Hauptattraktionen am Flusslauf.",
+        "Riesenotter, eine weltweit bedrohte Tierart, werden hier oft gesichtet.",
+        "Der Fluss ist für die Goldwäsche im Oberlauf gesperrt, um das Wasser zu schützen.",
+        "Nahe der Mündung überspannt eine imposante Brücke den Fluss (Coppenamebrug).",
+        "Der Fluss ist ein zentraler Bestandteil des UNESCO-geschützten Reservats."
+      ]
+    },
+    {
+      "id": "sr-raleigh-faelle-nature-v2",
+      "descriptionAdvanced": "Die Raleigh-Fälle gehören zu den spektakulärsten Stromschnellen-Systemen am Coppename-Fluss und sind ein Juwel des surinamischen Hinterlandes. Hier stürzt das Wasser des mächtigen Flusses über riesige Granitstufen und bildet ein beeindruckendes Ensemble aus tosenden Kaskaden und ruhigen Seitenarmen. Die Umgebung der Fälle ist ein Hotspot der Biodiversität, bekannt für die Beobachtung seltener Vögel und Brüllaffen. Eine Übernachtung auf der nahegelegenen Insel Foengoe erlaubt es Besuchern, dem konstanten Rauschen des Wassers zu lauschen und die unberührte Natur in ihrer reinsten Form zu erleben. Die Raleigh-Fälle sind nicht nur ein Naturwunder, sondern auch ein spiritueller Ort, der die Kraft und Wildheit des surinamischen Regenwaldes verkörpert. Földrajz K7 — vízrajz és zuhatagok.",
+      "factsAdvanced": [
+        "Die Raleigh-Fälle sind streng genommen keine senkrechten Wasserfälle, sondern Sulas (Stromschnellen).",
+        "Sie befinden sich im Herzen des Zentral-Suriname-Naturschutzgebietes.",
+        "Die Insel Foengoe dient als Basis für Touristen und Nationalpark-Ranger.",
+        "Der Name ehrt den englischen Entdecker Sir Walter Raleigh.",
+        "In der Nähe befindet sich ein bekannter Balzplatz des Felsenhahns.",
+        "Das Gebiet ist nur mit kleinen Flugzeugen oder langen Bootsfahrten erreichbar.",
+        "Das Rauschen der Fälle ist kilometerweit im Dschungel zu hören.",
+        "Die Granitfelsen der Fälle gehören zu den ältesten Gesteinen Südamerikas."
+      ]
+    },
+    {
+      "id": "sr-wilhelminagebergte-relief-v2",
+      "descriptionAdvanced": "Das Wilhelminagebirge ist das mächtige Rückgrat Zentralsurinames und beherbergt die höchsten Erhebungen des Landes. Benannt nach der niederländischen Königin Wilhelmina, erstreckt sich diese Gebirgskette über hunderte Kilometer durch unbewohntes Dschungelgebiet. Die schroffen Gipfel, darunter der Julianatop, ragen weit über das Blätterdach des Regenwaldes hinaus und bilden eine Barriere, die das Klima und die Wasserwege der Region beeinflusst. Geologisch ist das Gebirge Teil des Guayana-Schildes und besteht hauptsächlich aus uraltem Granit und Gneis. Für die Wissenschaft bleibt es ein weitgehend unerschlossenes Refugium, da die extreme Unzugänglichkeit Expeditionen zu einer logistischen Meisterleistung macht. Földrajz K8 — geológia és domborzattan.",
+      "factsAdvanced": [
+        "Das Gebirge beherbergt den Julianatop, mit 1.280 Metern der höchste Berg Surinames.",
+        "Es erstreckt sich in Ost-West-Richtung durch den Distrikt Sipaliwini.",
+        "Die Kette ist etwa 113 Kilometer lang und fast vollständig von Primärwald bedeckt.",
+        "Zahlreiche große Flüsse wie der Coppename und der Saramacca entspringen hier.",
+        "Das Gebirge ist eine der einsamsten und am wenigsten erforschten Regionen der Erde.",
+        "Gold- und Diamantvorkommen werden in den Ausläufern des Gebirges vermutet.",
+        "Expeditionen zum Julianatop dauern oft mehrere Wochen durch dichten Dschungel.",
+        "Das Relief wurde erst im 20. Jahrhundert durch Luftaufnahmen genau kartiert."
+      ]
+    },
+    {
+      "id": "sr-bakhuysgebergte-relief-v2",
+      "descriptionAdvanced": "Das Bakhuys-Gebirge im Westen Surinames ist eine Region von enormer geologischer und strategischer Bedeutung. Bekannt vor allem für seine gewaltigen Bauxitvorkommen, steht es seit Jahrzehnten im Fokus industrieller Erschließungspläne. Die Landschaft ist geprägt durch ein zerklüftetes Relief mit tiefen Tälern und plateuartigen Erhebungen, die dicht mit tropischem Regenwald bewachsen sind. Trotz des industriellen Potenzials bleibt das Gebirge eine ökologisch wertvolle Wildnis, die eine wichtige Barriere für die Erschließung des tiefen Westens darstellt. Die geologische Geschichte des Bakhuys-Gebirges ist eng mit der Bildung des südamerikanischen Kontinents verknüpft und bietet wertvolle Einblicke in die mineralischen Schätze der Region. Földrajz K8 — bányászat és geológiai erőforrások.",
+      "factsAdvanced": [
+        "Das Gebirge ist nach dem niederländischen Major und Geodäten L.A. Bakhuys benannt.",
+        "Es ist weltbekannt für eines der größten unerschlossenen Bauxitvorkommen der Welt.",
+        "Die Gebirgskette liegt im Distrikt Sipaliwini, nahe der Grenze zu Guyana.",
+        "Pläne für eine Eisenbahnlinie zur Erschließung der Erze scheiterten in den 1970er Jahren.",
+        "Die höchste Erhebung im Bakhuys-Gebirge liegt bei etwa 460 Metern.",
+        "Das Gebiet ist ein wichtiger Wasserspeicher für die Flüsse Nickerie und Kabalebo.",
+        "Spezialisierte Flora wächst auf den aluminiumreichen Lateritböden der Plateaus.",
+        "Heute wird das Gebirge verstärkt mit modernen Satellitenmethoden geologisch kartiert."
+      ]
+    }
+  ]
+}

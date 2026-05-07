@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rebola-cities-v2",
+      "descriptionAdvanced": "Rebola Bioko északi részén helyezkedik el, és egyike a legrégebbi településeknek a környéken, amely megőrizte hagyományos kulturális értékeit. A város körüli területek alkalmasak a hagyományos növénytermesztésre, különösen a kakaó és a banán számára, amelyek alapvető megélhetési forrást biztosítanak a helyieknek. Rebola a sziget kulturális identitásának egyik pillére, ahol a közösségi élet és a tradicionális ünnepek nagy hangsúlyt kapnak. A település folyamatosan adaptálódik a modern kor igényeihez, miközben továbbra is a biokói örökség egyik őrzője. Tanterv: Szociális ismeretek K7, Földrajz K8.",
+      "factsAdvanced": [
+        "Bioko északi részének egyik legrégebbi városa.",
+        "A hagyományos kulturális értékek központja.",
+        "Kakaó és banántermesztés alapú mezőgazdaság.",
+        "A helyi közösségi élet meghatározó színtere.",
+        "A sziget kulturális örökségének egyik őrzője.",
+        "Folyamatos modernizáció a hagyományok mellett."
+      ]
+    },
+    {
+      "id": "niefang-cities-v2",
+      "descriptionAdvanced": "Niefang Egyenlítői-Guinea kontinentális részén, a Río Muni régióban helyezkedik el, és fontos szerepet játszik az ország belső úthálózatának összekötésében. A város környéke sűrű, buja trópusi esőerdőkkel borított, amelyek az ország biodiverzitásának szerves részét képezik. Niefang kereskedelmi központként is szolgál, ahol a környező erdőkből származó javak cserélnek gazdát, így hozzájárulva a helyi gazdasági stabilitáshoz. A város folyamatosan fejlődik, miközben környezete továbbra is a természet és az ember harmonikus együttélésének egyik példája. Tanterv: Földrajz K6, Ökológia K8.",
+      "factsAdvanced": [
+        "Río Muni régió egyik fontos városa.",
+        "Az ország belső úthálózatának összekötő pontja.",
+        "Trópusi esőerdők övezik.",
+        "Kereskedelmi központ a régióban.",
+        "Hozzájárul a gazdasági stabilitáshoz.",
+        "A természet és az emberi település harmóniája."
+      ]
+    }
+  ]
+}

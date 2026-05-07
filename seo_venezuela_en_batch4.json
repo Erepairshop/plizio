@@ -1,0 +1,33 @@
+{
+  "lang": "en",
+  "country": "venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "venezuela-panteon-nacional-history-v2",
+      "descriptionAdvanced": "The National Pantheon of Venezuela, located in Caracas, is the final resting place of national heroes, including Simón Bolívar. Housed in a former 18th-century church, the site is a solemn monument to the nation's struggle for independence. The architecture and the elaborate mausoleum within signify Venezuela's deep reverence for the figures who shaped its republican identity. History K8 — Independence Movement.",
+      "factsAdvanced": [
+        "Final resting place of Simón Bolívar.",
+        "Located in the historic center of Caracas.",
+        "Housed in a former 18th-century Holy Trinity church.",
+        "National monument dedicated to heroes of independence.",
+        "Contains the tombs of many prominent Venezuelan figures.",
+        "Essential site for national identity and republican history."
+      ]
+    },
+    {
+      "id": "venezuela-casa-natal-bolivar-history-v2",
+      "descriptionAdvanced": "The birthplace of Simón Bolívar in Caracas is a meticulously preserved colonial house that offers a glimpse into the upbringing of 'El Libertador'. As a national heritage site, it showcases the domestic life of the 18th-century Venezuelan aristocracy, providing context for the revolutionary ideas that would later emerge from Bolívar. The house serves as a critical educational landmark, linking the private history of a family with the monumental shift towards independence in South America. History K7 — Enlightenment and Revolution.",
+      "factsAdvanced": [
+        "Birthplace of Simón Bolívar.",
+        "Located in the historic center of Caracas.",
+        "Example of 18th-century colonial residential architecture.",
+        "National heritage site of Venezuela.",
+        "Features exhibits on Bolívar's early life and family.",
+        "Key landmark in understanding the origins of the independence struggle."
+      ]
+    }
+  ]
+}

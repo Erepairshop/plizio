@@ -1,0 +1,127 @@
+[
+  {
+    "id": "morondava-mosque-landmarks-v2",
+    "name": "Grand Mosque of Morondava",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+    "name": "St. Joseph Cathedral",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "pont-kamoro-landmarks-v2",
+    "name": "Kamoro Suspension Bridge",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "university-of-antananarivo-landmarks-v2",
+    "name": "University of Antananarivo Campus",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "chateau-d-eau-amparibe-landmarks-v2",
+    "name": "Amparibe Water Tower",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "port-of-toamasina-landmarks-v2",
+    "name": "Port of Toamasina Terminal",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "tour-zital-landmarks-v2",
+    "name": "Zital Tower",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "tulear-sea-museum-landmarks-v2",
+    "name": "Oceanographic Museum of Toliara",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "ambalonamana-market-hall-landmarks-v2",
+    "name": "Analakely Market Pavilions",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "nosy-be-lighthouse-landmarks-v2",
+    "name": "Ambatoloaka Lighthouse",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "fort-flacourt-ruins-landmarks-v2",
+    "name": "Ruins of Fort Flacourt",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "palais-justice-amboasary-landmarks-v2",
+    "name": "Palace of Justice Ambatondrafandrana",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "monument-aux-morts-diego-suarez-landmarks-v2",
+    "name": "War Memorial Diego Suarez",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "gare-antsirabe-landmarks-v2",
+    "name": "Antsirabe Railway Station",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "trano-gasy-architecture-landmarks-v2",
+    "name": "Trano Gasy Houses",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "ambatovy-plant-landmarks-v2",
+    "name": "Ambatovy Refinery",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "pont-betsiboka-landmarks-v2",
+    "name": "Betsiboka Bridge",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "hotel-de-ville-mahajanga-landmarks-v2",
+    "name": "Mahajanga City Hall",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "temple-ambatonakanga-landmarks-v2",
+    "name": "Ambatonakanga Memorial Church",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "tour-orange-antananarivo-landmarks-v2",
+    "name": "Orange Telecom Tower",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "independance-avenue-arc-landmarks-v2",
+    "name": "Avenue of Independence",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "katedraly-faravohitra-landmarks-v2",
+    "name": "Cathedral of Faravohitra",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "pirate-cemetery-sainte-marie-landmarks-v2",
+    "name": "Pirate Cemetery of Sainte-Marie",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "andasibe-mantadia-life-v2",
+    "name": "Andasibe-Mantadia National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "berenty-reservat-life-v2",
+    "name": "Berenty Reserve",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  }
+]

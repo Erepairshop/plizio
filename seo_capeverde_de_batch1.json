@@ -1,0 +1,48 @@
+{
+  "lang": "de",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "praia-cities-v2",
+      "descriptionAdvanced": "Praia, die dynamische Hauptstadt von Kap Verde, liegt auf einer Hochebene über dem Atlantik und ist das politische sowie kulturelle Herz der Insel Santiago. Die Stadt beeindruckt durch eine Mischung aus moderner Architektur, kolonialem Erbe und einer lebendigen, afro-karibisch geprägten Atmosphäre. Fächerübergreifend bietet die Stadt tiefe Einblicke in die Geschichte des transatlantischen Sklavenhandels und die moderne Unabhängigkeitsbewegung. Geografie K7 — Inselhauptstädte und maritime Handelswege.",
+      "factsAdvanced": [
+        "Gründung der Stadt im Jahr 1615",
+        "Einwohnerzahl von rund 150.000 Menschen",
+        "Wichtiger Knotenpunkt für den interkontinentalen Flugverkehr",
+        "Durchschnittstemperatur von 25 Grad Celsius ganzjährig",
+        "Sitz der Nationalversammlung und des Präsidentenpalastes",
+        "Heimat des Nelson Mandela International Airport",
+        "Ernennung zum UNESCO-Weltkulturerbe in Teilen"
+      ]
+    },
+    {
+      "id": "assomada-cities-v2",
+      "descriptionAdvanced": "Assomada liegt zentral im Hochland von Santiago und fungiert als wirtschaftliches Rückgrat des ländlichen Hinterlandes. Berühmt ist die Stadt für ihren traditionellen Markt, auf dem regionale Landwirtschaftserzeugnisse wie Mais, Bohnen und tropische Früchte gehandelt werden. Die Stadt dient als Bildungszentrum für die umliegenden Gemeinden und spiegelt das authentische kapverdische Leben weit abseits der touristischen Küstenpfade wider. Geschichte K8 — landwirtschaftliche Entwicklung auf Inseln.",
+      "factsAdvanced": [
+        "Gelegen auf 550 Metern über dem Meeresspiegel",
+        "Sitz des Rathauses von Santa Catarina",
+        "Zentraler Marktplatz für den gesamten Norden Santiagos",
+        "Ehemals bedeutendes Zentrum für Kaffeeanbau",
+        "Starke Tradition in der lokalen Musikszene",
+        "Wichtiger Verkehrsknotenpunkt für das Inselinnere",
+        "Zahlreiche Schulen decken den Bedarf der Region ab"
+      ]
+    },
+    {
+      "id": "tarrafal-cities-v2",
+      "descriptionAdvanced": "Tarrafal gilt als das Juwel des Nordens von Santiago und bietet einen der malerischsten Strände des gesamten Archipels, umrahmt von Kokospalmen und schroffen vulkanischen Felsen. Neben dem Tourismus ist die Stadt tief in der Geschichte Kap Verdes verwurzelt, vor allem durch das ehemalige politische Gefängnis, das heute als Museum dient. Die Region ist ein Paradies für Naturliebhaber und Wanderer, die die steilen Bergflanken erkunden möchten. Geschichte K8 — politische Geschichte und Widerstand.",
+      "factsAdvanced": [
+        "Bekannt für den 'Praia de Tarrafal'",
+        "Ehemaliger Standort eines Straflagers unter der Kolonialzeit",
+        "Die Bucht schützt vor starken Atlantikströmungen",
+        "Hauptwirtschaftszweig ist die handwerkliche Fischerei",
+        "Eingebettet in das Gebirgsmassiv Serra Malagueta",
+        "Wichtiger Ort für den Ökotourismus auf Santiago",
+        "Beliebt bei lokalen und internationalen Reisenden"
+      ]
+    }
+  ]
+}

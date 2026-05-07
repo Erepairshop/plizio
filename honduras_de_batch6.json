@@ -1,0 +1,279 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirche-san-jose-de-cedros-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San José de Cedros in der gleichnamigen Bergbaustadt im Departement Francisco Morazán ist ein Meisterwerk der kolonialen Architektur aus dem späten 18. Jahrhundert. Sie wurde auf dem höchsten Punkt des Dorfes erbaut und war das spirituelle Zentrum für die zahlreichen Silberminenbesitzer der Region. In ihren historischen Mauern fand 1849 die erste verfassungsgebende Versammlung von Honduras statt, was sie zu einem Ort von immenser nationaler Bedeutung macht. Noch heute beherbergt die Kirche die Figur des Cristo Negro (Schwarzer Christus), der jedes Jahr Tausende von Pilgern anzieht. Geschichte K8 — Erste Verfassung und religiöse Reliquien.",
+      "factsAdvanced": [
+        "Erbaut im späten 18. Jahrhundert in der historischen Bergbaustadt Cedros.",
+        "Ort der ersten verfassungsgebenden Nationalversammlung von Honduras (1849).",
+        "Beherbergt die stark verehrte Reliquie des El Cristo Negro (Schwarzer Christus).",
+        "Eines der wichtigsten nationalen Denkmäler im Departement Francisco Morazán.",
+        "Die Stadt und die Kirche sind Teil der touristischen Minenroute (Ruta Minera).",
+        "Die massive Fassade ist klassisch weiß getüncht mit einfachen Ornamenten."
+      ]
+    },
+    {
+      "id": "cerro-de-las-mesas-archaeology-history-v2",
+      "descriptionAdvanced": "Cerro de las Mesas ist eine rätselhafte archäologische Stätte in der Nähe von Jamastrán, in den weiten Ebenen des Departements El Paraíso. Im Gegensatz zu den bekannten Maya-Ruinen im Westen handelt es sich hierbei um eine Reihe von großen, flachen Erdplattformen und Steinhügeln, die den indigenen Kulturen (vermutlich Lenca oder Chorotega) zugeschrieben werden. Die Stätte zeugt von komplexen sozialen Strukturen und wurde wahrscheinlich für rituelle Versammlungen und astronomische Beobachtungen genutzt. Die Region wurde nur spärlich archäologisch erforscht, weshalb Cerro de las Mesas weiterhin viele Geheimnisse birgt. Geschichte K7 — Unbekannte indigene Kulturen im Osten.",
+      "factsAdvanced": [
+        "Präkolumbianische archäologische Stätte im Jamastrán-Tal (El Paraíso).",
+        "Besteht aus flachen Erdhügeln und zeremoniellen Steinstrukturen.",
+        "Wurde nicht von den Maya, sondern wahrscheinlich von Lenca/Chorotega erbaut.",
+        "Wurde vermutlich für religiöse Riten und astronomische Beobachtungen genutzt.",
+        "Bisher nur sehr wenig wissenschaftlich und archäologisch erforscht.",
+        "Ein Großteil der Stätte ist von landwirtschaftlichen Flächen umgeben."
+      ]
+    },
+    {
+      "id": "petroglyphen-talanguita-history-v2",
+      "descriptionAdvanced": "Die Petroglyphen von Talangüita im Departement Olancho sind eines der bemerkenswertesten Beispiele antiker Felskunst in Honduras. Auf großen Flusssteinen tief im Dschungel finden sich unzählige eingravierte Symbole, darunter komplexe geometrische Muster, Gesichter und Tierfiguren. Archäologen gehen davon aus, dass diese Kunstwerke von der Paya- oder Pech-Kultur stammen und möglicherweise rituelle Grenzen markierten oder Schamanen-Visionen darstellten. Die Abgelegenheit von Talangüita hat dazu beigetragen, diese antiken Kunstwerke vor modernem Vandalismus zu schützen. Kultur K6 — Präkolumbianische Felskunst und Schamanismus.",
+      "factsAdvanced": [
+        "Umfangreiche Ansammlung antiker Felsgravuren (Petroglyphen) in Olancho.",
+        "Die Kunst wird oft den indigenen Gruppen der Paya oder Pech zugeschrieben.",
+        "Zeigt geometrische Muster, menschenähnliche Gesichter und Tierdarstellungen.",
+        "Vermutlich wurden die Gravuren für rituelle oder schamanische Zwecke erstellt.",
+        "Die Stätte liegt sehr isoliert in einem dicht bewaldeten Flusstal.",
+        "Die Felsen wurden mit harten Steinwerkzeugen vor Ankunft der Spanier bearbeitet."
+      ]
+    },
+    {
+      "id": "kirche-san-sebastian-tegucigalpa-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San Sebastián in Tegucigalpa, auch als La Iglesia de los Mártires (Kirche der Märtyrer) bekannt, wurde im späten 19. Jahrhundert erbaut und ist eng mit den politischen Unruhen der Stadt verbunden. Sie diente zeitweise als Begräbnisstätte für prominente politische Führer und Militärs, die in den zahlreichen Bürgerkriegen der Epoche fielen. Architektonisch ist sie ein schönes Beispiel für den Übergang vom Kolonialstil zu moderneren neoklassizistischen Einflüssen. Der kleine, aber friedliche Platz vor der Kirche ist heute ein beliebter Treffpunkt im historischen Zentrum der Hauptstadt. Architektur K7 — Kirchen und politische Unruhen.",
+      "factsAdvanced": [
+        "Erbaut im späten 19. Jahrhundert im Zentrum von Tegucigalpa.",
+        "Wird aufgrund ihrer Geschichte oft als Kirche der Märtyrer bezeichnet.",
+        "Diente als Begräbnisort für gefallene militärische und politische Führer.",
+        "Kombiniert späte Kolonialarchitektur mit neoklassizistischen Elementen.",
+        "Der angrenzende Parque San Sebastián ist ein lokaler Erholungsort.",
+        "Überstand die zahlreichen Konflikte und Revolutionen im 20. Jahrhundert."
+      ]
+    },
+    {
+      "id": "ehemaliges-zentralgefaengnis-history-v2",
+      "descriptionAdvanced": "Die ehemalige Penitenciaría Central (PC) im Herzen von Tegucigalpa war mehr als ein Jahrhundert lang das gefürchtetste Gefängnis des Landes. Erbaut im späten 19. Jahrhundert aus massivem Stein, glich es einer Festung mitten im städtischen Wohngebiet. Während der Diktatur von Tiburcio Carías Andino in den 1930er und 40er Jahren wurden hier unzählige politische Gefangene, Intellektuelle und Dissidenten unter brutalen Bedingungen inhaftiert. Nach massiven Schäden durch den Hurrikan Mitch im Jahr 1998 wurde das Gefängnis endgültig geschlossen und die Insassen verlegt. Heute stehen die imposanten Ruinen als stumme Erinnerung an ein dunkles Kapitel der honduranischen Justizgeschichte. Geschichte K8 — Politische Gefangene und Diktaturen.",
+      "factsAdvanced": [
+        "Erbaut im späten 19. Jahrhundert mitten im Zentrum von Tegucigalpa.",
+        "Berüchtigt für die Inhaftierung politischer Gegner während der Carías-Diktatur.",
+        "Besaß massive Steinmauern, die das Gebäude wie eine Festung aussehen ließen.",
+        "Wurde 1998 durch die Überflutungen des Hurrikans Mitch irreparabel beschädigt.",
+        "Das Gefängnis wurde daraufhin dauerhaft geschlossen und evakuiert.",
+        "Die Ruinen werden oft als Denkmal für Menschenrechtsverletzungen betrachtet."
+      ]
+    },
+    {
+      "id": "kirche-san-juan-ojojona-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San Juan Bautista ist die größte und beeindruckendste der drei kolonialen Kirchen in der Töpferstadt Ojojona. Ihre Errichtung im 17. Jahrhundert wurde fast vollständig durch den lokalen Reichtum aus den umliegenden Silber- und Goldminen finanziert. Die strahlend weiße Fassade und der quadratische Glockenturm überragen den zentralen Platz der Stadt. In ihrem Inneren befinden sich unbezahlbare Gemälde aus der spanischen Kolonialzeit und ein Altarbild, das noch Spuren von echtem Blattgold trägt. Die Kirche ist nicht nur ein spirituelles Zentrum, sondern auch das historische Symbol der Blütezeit von Ojojona. Kunst K7 — Religiöse Kunst in Bergbaustädten.",
+      "factsAdvanced": [
+        "Die größte der drei historischen Kirchen in Ojojona (erbaut im 17. Jh.).",
+        "Finanziert durch die wohlhabenden Silberminenbesitzer der Region.",
+        "Verfügt über einen quadratischen Glockenturm und eine strahlend weiße Fassade.",
+        "Beherbergt antike Gemälde spanischer Meister aus der Kolonialzeit.",
+        "Ein Altarbild im Inneren weist noch Reste von kolonialem Blattgold auf.",
+        "Wurde zum nationalen historischen Denkmal von Honduras erklärt."
+      ]
+    },
+    {
+      "id": "playa-de-los-muertos-archaeology-history-v2",
+      "descriptionAdvanced": "Playa de los Muertos (Strand der Toten) im Sula-Tal ist eine der rätselhaftesten präkolumbianischen Fundstätten in Honduras. Entlang der Ufer des Río Ulúa entdeckten Archäologen eine massive Anzahl antiker Gräber, die zwischen 1000 v. Chr. und 200 n. Chr. datiert wurden. Was diese Stätte so besonders macht, ist die unglaubliche Vielfalt und Qualität der dort gefundenen feinen Keramik und der weiblichen Terrakotta-Figuren, die ein komplexes Fruchtbarkeitssystem andeuten. Diese Kulturen waren offensichtlich nicht mit den Maya identisch, unterhielten aber wahrscheinlich weitreichende Handelsbeziehungen. Archäologie K8 — Fruchtbarkeitskulte und das präkolumbianische Ulúa-Tal.",
+      "factsAdvanced": [
+        "Riesige antike Begräbnisstätte am Ufer des Flusses Ulúa im Sula-Tal.",
+        "Die Funde datieren von etwa 1000 v. Chr. bis 200 n. Chr.",
+        "Berühmt für die große Anzahl exquisiter, handgefertigter Terrakotta-Figuren.",
+        "Die gefundenen weiblichen Statuetten deuten auf Fruchtbarkeitskulte hin.",
+        "Die Kultur unterscheidet sich archäologisch deutlich von den Maya im Westen.",
+        "Zeigt Beweise für weitreichenden Handel in der präklassischen Periode."
+      ]
+    },
+    {
+      "id": "catedral-metropolitana-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "Die Catedral Metropolitana de San Miguel Arcángel ist das absolute Wahrzeichen der Hauptstadt Tegucigalpa und eines der schönsten Beispiele barocker Architektur in Zentralamerika. Erbaut zwischen 1765 und 1786, zeichnet sie sich durch eine beeindruckende, konkave Fassade und eine massive achteckige Kuppel aus. Das Innere ist atemberaubend, insbesondere das prächtige, mehrstöckige Altarbild, das vollständig mit Blattgold überzogen ist und von dem berühmten Künstler Vicente Gálvez geschaffen wurde. Vor der Kathedrale erstreckt sich der Parque Central, der traditionelle Treffpunkt für politische Reden und gesellschaftliche Ereignisse. Architektur K8 — Kathedralen und Kolonialbarock.",
+      "factsAdvanced": [
+        "Erbaut zwischen 1765 und 1786 im Herzen von Tegucigalpa.",
+        "Herausragendes Beispiel für den spanischen Kolonialbarock in Zentralamerika.",
+        "Das gigantische Altarbild von Vicente Gálvez ist mit echtem Blattgold bedeckt.",
+        "Die Kathedrale ist dem Erzengel Michael (San Miguel Arcángel) geweiht.",
+        "Besitzt das älteste noch funktionierende öffentliche Uhrwerk der Stadt.",
+        "Die Fassade überstand schwere Erdbeben und politische Revolutionen unbeschadet."
+      ]
+    },
+    {
+      "id": "estadio-olimpico-metropolitano-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Olímpico Metropolitano in San Pedro Sula ist die wichtigste Sportstätte in Honduras und oft der gefürchtete Austragungsort für die Spiele der honduranischen Fußballnationalmannschaft (La H). Erbaut für die Zentralamerikanischen Spiele 1997, ist es mit einer Kapazität von rund 37.000 Zuschauern das größte Stadion des Landes. Das heiße, extrem feuchte Klima von San Pedro Sula in Kombination mit den lautstarken Fans macht das Stadion zu einer Festung für die Heimmannschaft. Neben Fußball werden hier auch Leichtathletikwettbewerbe und gelegentlich internationale Großkonzerte veranstaltet. Sport K7 — Nationalstadien und Fußballkultur.",
+      "factsAdvanced": [
+        "Mit einer Kapazität von etwa 37.000 Plätzen das größte Stadion in Honduras.",
+        "Erbaut für die Ausrichtung der Zentralamerikanischen Spiele im Jahr 1997.",
+        "Offizielles Heimstadion für die Länderspiele der Fußballnationalmannschaft (La H).",
+        "Wegen der Hitze und der Fans als gefürchtete Festung bei Auswärtsteams bekannt.",
+        "Liegt im südlichen Teil der Industriestadt San Pedro Sula.",
+        "Verfügt über eine komplette Leichtathletik-Tartanbahn."
+      ]
+    },
+    {
+      "id": "teatro-nacional-manuel-bonilla-landmarks-v2",
+      "descriptionAdvanced": "Das Teatro Nacional Manuel Bonilla in Tegucigalpa ist das wichtigste Kultur- und Opernhaus des Landes. Eröffnet im Jahr 1915 und benannt nach dem Präsidenten, der den Bau initiierte, besticht das Theater durch seine atemberaubende Neorenaissance-Architektur. Das Innere ist dem Athener Theater nachempfunden und verfügt über prunkvolle Kronleuchter, rote Samtsitze und kunstvoll bemalte Decken. Über ein Jahrhundert lang war es der wichtigste Veranstaltungsort für honduranische Dramen, internationale Symphonieorchester und Ballettaufführungen. Es bleibt das unangefochtene Zentrum der gehobenen Künste in Honduras. Kunst und Kultur K8 — Nationale Theater und darstellende Künste.",
+      "factsAdvanced": [
+        "Eröffnet 1915 als das erste und wichtigste Nationaltheater von Honduras.",
+        "Die Architektur ist im eleganten Neorenaissance-Stil gehalten.",
+        "Benannt nach Präsident Manuel Bonilla, der den Bau förderte.",
+        "Das Interieur wurde durch europäische Opernhäuser der Zeit inspiriert.",
+        "Zentraler Veranstaltungsort für Orchester, Ballett und nationale Literaturpreise.",
+        "Wurde in den frühen 2000er Jahren aufwendig restauriert."
+      ]
+    },
+    {
+      "id": "iglesia-la-merced-gracias-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia de La Merced in der historischen Stadt Gracias wurde ursprünglich in den 1600er Jahren von spanischen Mercedariern (Mercedarier-Orden) gegründet. Während die Fassade recht schlicht und klassisch weiß ist, liegt der wahre historische Wert in der Tatsache, dass sie lange Zeit die Hauptkirche der spanischen Verwaltung der Audiencia de los Confines war. Die Kirche liegt ruhig an einem kleinen Platz und bewahrt bis heute wunderschöne religiöse Schnitzereien. Jedes Jahr ist La Merced ein wichtiger Ausgangspunkt für die feierlichen Prozessionen während der Karwoche (Semana Santa). Geschichte K6 — Klösterliche Orden und Karwoche.",
+      "factsAdvanced": [
+        "Gegründet im 17. Jahrhundert vom Orden der Mercedarier.",
+        "Befindet sich im Herzen der kolonialen historischen Stadt Gracias.",
+        "War eng verbunden mit der Regierung der Audiencia de los Confines.",
+        "Die Fassade ist im Vergleich zu anderen Kirchen in Honduras sehr schlicht.",
+        "Wichtiger Ausgangspunkt für die großen Prozessionen der Karwoche.",
+        "Das Dach der Kirche wurde mehrfach nach schweren Stürmen restauriert."
+      ]
+    },
+    {
+      "id": "estadio-nacional-chelato-ucles-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Nacional Chelato Uclés, früher einfach Estadio Nacional genannt, ist die traditionelle Sportarena im Zentrum von Tegucigalpa. Es wurde 1948 unter Diktator Tiburcio Carías Andino eröffnet und ist die Heimat der beiden legendärsten Fußballrivalen des Landes, Olimpia und Motagua. Mit einer Kapazität von etwa 35.000 Zuschauern war es jahrzehntelang das einzige Großstadion. Es ist nicht nur ein Ort für hitzige Fußballderbys (Superclásicos), sondern auch für historische politische Ereignisse, wie die feierlichen Amtseinführungen der honduranischen Präsidenten. Sport K7 — Fußballrivalitäten und Präsidentschaftswahlen.",
+      "factsAdvanced": [
+        "Eröffnet im Jahr 1948 unter der Regierung von Tiburcio Carías Andino.",
+        "Traditionelle Heimat der Rivalen-Fußballclubs Olimpia und Motagua.",
+        "Wurde kürzlich nach dem legendären honduranischen Trainer Chelato Uclés benannt.",
+        "Traditioneller Austragungsort für die Amtseinführung der Präsidenten (Toma de Posesión).",
+        "Verfügt über eine Kapazität von etwa 35.000 Zuschauern.",
+        "Liegt strategisch am Rande des historischen Zentrums von Tegucigalpa."
+      ]
+    },
+    {
+      "id": "iglesia-los-dolores-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia Los Dolores in Tegucigalpa ist wohl das bemerkenswerteste barocke Kirchengebäude der Stadt und hebt sich durch ihre außergewöhnliche, konvexe Fassade ab, die mit glasierten farbigen Keramikornamenten verziert ist. Erbaut zwischen 1732 und 1815, wurde die Kirche ironischerweise von der gemischten (Mestizen) und einheimischen Bevölkerung bezahlt und gebaut, um eine eigene spirituelle Zuflucht abseits der Elite-Kathedrale zu haben. Ein besonders auffälliges Element der Fassade sind die Symbole der Passion Christi, darunter Nägel, Dornenkrone und Leiter, die in den Stein geschnitzt wurden. Kunst K7 — Mestizenarchitektur und Passionssymbole.",
+      "factsAdvanced": [
+        "Erbaut von 1732 bis 1815, finanziert von der lokalen Mestizen-Bevölkerung.",
+        "Besitzt eine extrem seltene konvexe Barockfassade.",
+        "Verziert mit auffälligen Ornamenten, die die Leidenswerkzeuge Christi darstellen.",
+        "Gekrönt von glasierten, farbigen Keramikelementen (Majolika).",
+        "Steht an einem der ältesten Handelsplätze (Plaza Los Dolores) in Tegucigalpa.",
+        "Wurde als Kirche des Volkes (Iglesia del Pueblo) gegen die Elite-Kathedrale gebaut."
+      ]
+    },
+    {
+      "id": "antigua-casa-presidencial-landmarks-v2",
+      "descriptionAdvanced": "Die Antigua Casa Presidencial im Zentrum von Tegucigalpa ist ein palastartiges Gebäude, das an eine mittelalterliche Festung erinnert, komplett mit Zinnen, Türmchen und schweren Steinmauern. Es wurde in den frühen 1910er Jahren erbaut und diente von 1922 bis 1992 als offizielle Residenz und Amtsbüro der Präsidenten von Honduras. Das Innere war luxuriös ausgestattet, mit Gärten und riesigen Ballsälen, während das Äußere militärische Stärke ausstrahlte. Heute beherbergt das massive Steingebäude das Nationale Zentrum für Dokumenten- und Geschichtsforschung, und seine prunkvollen Säle sind ein beliebtes Museum. Geschichte K8 — Präsidentschaften und Festungsarchitektur.",
+      "factsAdvanced": [
+        "Diente von 1922 bis 1992 als offizieller Sitz der honduranischen Präsidenten.",
+        "Die Architektur erinnert stark an eine befestigte mittelalterliche europäische Burg.",
+        "Erbaut unter der Aufsicht des italienischen Architekten Augusto Bressani.",
+        "War Schauplatz zahlreicher politischer Umstürze und Militärputsche.",
+        "Das Gebäude beherbergt heute historische Archive und ein Museum.",
+        "Befindet sich am Ufer des Río Choluteca im Zentrum von Tegucigalpa."
+      ]
+    },
+    {
+      "id": "fuerte-santa-barbara-trujillo-landmarks-v2",
+      "descriptionAdvanced": "Das Fortaleza de Santa Bárbara, das majestätisch auf einem Hügel über der Bucht von Trujillo thront, war die wichtigste spanische Verteidigungsanlage im Norden von Honduras. Die Festung, erbaut im 16. Jahrhundert, sollte die Hafenstadt vor karibischen Piraten und Freibeutern (wie den berüchtigten William Walker) schützen. Die alten Kanonen, die heute noch auf die Karibik gerichtet sind, erinnern an zahllose Seeschlachten. Tragischerweise war die Festung 1860 der Ort, an dem der US-amerikanische Filibuster William Walker, der ganz Zentralamerika erobern wollte, schließlich gefangen genommen und hingerichtet wurde. Geschichte K8 — William Walker und Piraterie.",
+      "factsAdvanced": [
+        "Eine der ältesten spanischen Festungen in Honduras (16. Jahrhundert).",
+        "Erbaut auf einem Hügel mit strategischem Blick über die Bucht von Trujillo.",
+        "Diente zur Verteidigung gegen britische und französische Piraten.",
+        "Ort der Hinrichtung des US-Filibusters William Walker im Jahr 1860.",
+        "Viele der ursprünglichen Kanonen aus dem 18. Jahrhundert sind noch erhalten.",
+        "Heute ein Nationaldenkmal und beliebtes historisches Ausflugsziel."
+      ]
+    },
+    {
+      "id": "catedral-de-la-ceiba-landmarks-v2",
+      "descriptionAdvanced": "Die Catedral de San Isidro Labrador ist das wichtigste religiöse Gebäude in der Küstenstadt La Ceiba und ein Symbol der raschen Stadtentwicklung während des Bananenbooms. Im Gegensatz zu den uralten kolonialen Kirchen im Landesinneren wurde diese Kathedrale im 20. Jahrhundert in einem modernen, fast minimalistischen Stil erbaut, geprägt von klaren Linien und einem markanten freistehenden Glockenturm. Das Gebäude steht im Herzen des Parque Central und ist der absolute Mittelpunkt des berühmten Großen Karnevals (Gran Carnaval de La Ceiba), bei dem sich die Straßen im Mai in ein gigantisches karibisches Fest verwandeln. Kultur K6 — Bananenboom und städtischer Karneval.",
+      "factsAdvanced": [
+        "Religiöser Mittelpunkt der drittgrößten honduranischen Stadt La Ceiba.",
+        "Geweiht dem Schutzpatron San Isidro Labrador.",
+        "Erbaut im 20. Jahrhundert mit einem sehr klaren, modernen Architekturstil.",
+        "Besitzt einen auffälligen, freistehenden Glockenturm.",
+        "Zentrum der Feierlichkeiten während des berühmten Gran Carnaval (Mai).",
+        "Das Gebäude spiegelt das Wachstum der Stadt durch die Bananenunternehmen wider."
+      ]
+    },
+    {
+      "id": "parque-central-gracias-landmarks-v2",
+      "descriptionAdvanced": "Der Parque Central von Gracias, eingebettet im westlichen Departement Lempira, ist einer der malerischsten und historisch besterhaltenen Plätze in Zentralamerika. Umgeben von der historischen Iglesia de San Marcos und niedrigen Kolonialhäusern mit roten Ziegeldächern, strahlt der Park eine tiefgründige Ruhe aus. Im Zentrum steht eine Bronzestatue des indigenen Häuptlings Lempira, der als Nationalheld den Widerstand gegen die spanischen Konquistadoren anführte. Der Platz dient als Treffpunkt für die Einheimischen, die hier abends zusammenkommen, und spiegelt die koloniale Bedeutung wider, als Gracias 1544 kurzzeitig die Hauptstadt Zentralamerikas war. Kultur K6 — Lempira und historische Plätze.",
+      "factsAdvanced": [
+        "Einer der historisch am besten erhaltenen kolonialen Plätze in Honduras.",
+        "Wird von der Barockkirche San Marcos und kolonialen Lehmziegelhäusern flankiert.",
+        "Im Zentrum steht eine Statue des indigenen Nationalhelden Lempira.",
+        "War 1544 der administrative Mittelpunkt der Audiencia de los Confines.",
+        "Dient als ruhiger abendlicher Treffpunkt für die Einheimischen.",
+        "Von hier aus hat man einen Blick auf das historische Castillo San Cristóbal."
+      ]
+    },
+    {
+      "id": "museo-de-comayagua-landmarks-v2",
+      "descriptionAdvanced": "Das Museo Arqueológico de Comayagua ist das bedeutendste Zentrum für präkolumbianische und koloniale Artefakte in der Zentralregion von Honduras. Es befindet sich in einem wunderschönen Kolonialgebäude, das im 16. Jahrhundert als erster Sitz der Präsidentschaft der Republik diente. Die Ausstellungen des Museums sind faszinierend; sie umfassen exquisite Lenca-Keramiken, Jade-Ornamente und antike Mahlsteine, die aus dem Ulúa- und Comayagua-Tal geborgen wurden. Darüber hinaus bietet das Museum einen detaillierten Einblick in die koloniale Druckpresse und die erste Münzprägung des Landes, die in dieser alten Hauptstadt durchgeführt wurde. Geschichte K8 — Archäologische Artefakte und erste Regierungen.",
+      "factsAdvanced": [
+        "Befindet sich im Gebäude des ersten Präsidentenpalastes von Honduras.",
+        "Das Gebäude selbst stammt aus dem späten 16. Jahrhundert.",
+        "Beherbergt wertvolle präkolumbianische Artefakte aus dem Comayagua-Tal.",
+        "Zeigt eine große Sammlung indigener Lenca- und Jicaque-Keramik.",
+        "Dokumentiert die Geschichte der kolonialen Hauptstadt Comayagua.",
+        "Besitzt eine der ältesten kolonialen Druckmaschinen, die in Zentralamerika genutzt wurden."
+      ]
+    },
+    {
+      "id": "iglesia-santa-lucia-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia de Santa Lucía thront majestätisch auf einem Hügel in dem gleichnamigen Bergdorf, nur wenige Kilometer von Tegucigalpa entfernt. Die Kirche wurde in der Blütezeit der kolonialen Minenindustrie im späten 16. Jahrhundert erbaut und beherbergt einen wahren Schatz: einen lebensgroßen Christus am Kreuz, den der spanische König Philipp II. der Stadt im Jahr 1572 als Dank für die enormen Silberabgaben schenkte. Von der Kirche und ihrem malerischen Atrium aus hat man einen atemberaubenden Blick über die Kiefernwälder und Täler der Region, was den Ort zu einem der beliebtesten Fotomotive des Landes macht. Kultur K7 — Königliche Geschenke und Bergdörfer.",
+      "factsAdvanced": [
+        "Erbaut im späten 16. Jahrhundert in einem der ältesten Bergbaudörfer.",
+        "Beherbergt ein von König Philipp II. von Spanien gestiftetes Christus-Kruzifix.",
+        "Thront auf einem Hügel mit Panoramablick über das umliegende Bergland.",
+        "Die Fassade und das Atrium sind ikonische Motive der honduranischen Fotografie.",
+        "Der Schutzpatronin Santa Lucía wird hier jedes Jahr im Dezember gehuldigt.",
+        "Das gesamte Dorf wurde aufgrund seines Charmes zum Nationaldenkmal erklärt."
+      ]
+    },
+    {
+      "id": "museo-de-history-militar-honduras-landmarks-v2",
+      "descriptionAdvanced": "Das Museo de Historia Militar in Tegucigalpa, oft einfach als das alte Hauptquartier von San Francisco bekannt, dokumentiert die komplexe und oft turbulente militärische Vergangenheit von Honduras. In einem Gebäude untergebracht, das früher als Militärkaserne diente, beherbergt das Museum eine riesige Sammlung von Waffen, historischen Uniformen, Militärfahrzeugen aus dem Kalten Krieg und persönliche Besitztümer berühmter Diktatoren wie Tiburcio Carías Andino. Besonders bemerkenswert ist der Bereich, der dem \"Fußballkrieg\" von 1969 gegen El Salvador gewidmet ist. Das Museum dient der Bewahrung der militärischen Historie, während es in der Zivilgesellschaft oft gemischte Erinnerungen weckt. Geschichte K8 — Militärische Konflikte und der Fußballkrieg.",
+      "factsAdvanced": [
+        "Befindet sich im historischen Viertel San Francisco in Tegucigalpa.",
+        "Das Gebäude diente einst als wichtigste Infanteriekaserne der Hauptstadt.",
+        "Stellt Waffen, Helikopter und Kampfflugzeuge der honduranischen Armee aus.",
+        "Dokumentiert detailliert den Fußballkrieg (Guerra del Fútbol) von 1969.",
+        "Besitzt eine umfangreiche Sammlung persönlicher Gegenstände historischer Generäle.",
+        "Wird vom honduranischen Verteidigungsministerium betrieben und verwaltet."
+      ]
+    },
+    {
+      "id": "puente-mallol-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "Das Puente Mallol ist die älteste Steinbrücke der Hauptstadt und verbindet das alte koloniale Tegucigalpa mit der traditionellen Handwerkerstadt Comayagüela auf der anderen Seite des Río Choluteca. Die Konstruktion der massiven, siebenspännigen Brücke begann im Jahr 1818 unter der Aufsicht des letzten spanischen Bürgermeisters, Narciso Mallol, und wurde kurz nach der Unabhängigkeit fertiggestellt. Im Laufe der letzten zwei Jahrhunderte hat die Brücke zahlreichen extremen Hochwassern standgehalten, einschließlich der zerstörerischen Fluten des Hurrikans Mitch im Jahr 1998, was sie zu einem Symbol der architektonischen Unverwüstlichkeit in der Hauptstadt macht. Geschichte K7 — Koloniale Ingenieurskunst und Hochwasserresistenz.",
+      "factsAdvanced": [
+        "Die älteste Steinbrücke in Tegucigalpa, erbaut zwischen 1818 und 1821.",
+        "Benannt nach dem letzten spanischen Bürgermeister, Narciso Mallol.",
+        "Verbindet historisch die Zwillingsstädte Tegucigalpa und Comayagüela.",
+        "Gebaut aus massivem behauenem Stein mit sieben großen Bögen.",
+        "Trotzte 1998 den verheerenden Sturzfluten des Hurrikans Mitch.",
+        "Ein wichtiges Nationaldenkmal und Symbol der architektonischen Stärke."
+      ]
+    },
+    {
+      "id": "parque-central-san-pedro-sula-landmarks-v2",
+      "descriptionAdvanced": "Der Parque Central in San Pedro Sula ist das pulsierende Herz der honduranischen Industriemetropole. Der große, von großen Bäumen gesäumte Platz wird auf der einen Seite von der massiven San Pedro Apostol-Kathedrale und auf der anderen vom historischen Rathaus flankiert. Der Platz spiegelt das chaotische, aber energiegeladene Leben der Stadt wider; er ist fast immer voll von fliegenden Händlern, Mariachi-Musikern und Geschäftsleuten, die auf dem Weg zur Arbeit sind. In den heißen Nachmittagsstunden sammeln sich ältere Einwohner unter den Schatten der Bäume, um Brettspiele zu spielen, während Tuk-Tuks und Busse den Platz umkreisen. Gesellschaft K6 — Urbane Treffpunkte und Metropolen.",
+      "factsAdvanced": [
+        "Der wichtigste städtische Platz in der Industriemetropole San Pedro Sula.",
+        "Wird von der beeindruckenden Kathedrale San Pedro Apostol überblickt.",
+        "Ein extrem geschäftiger Knotenpunkt für Fußgänger, Straßenverkäufer und Musiker.",
+        "Diente historisch als Kern, von dem aus die moderne Stadt in Rastern (Calles/Avenidas) wuchs.",
+        "In der Nähe befindet sich das alte, im US-Stil erbaute Rathaus (Municipalidad).",
+        "Ein wichtiger Veranstaltungsort für städtische Festivals und politische Kundgebungen."
+      ]
+    }
+  ]
+}

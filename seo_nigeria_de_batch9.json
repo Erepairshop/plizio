@@ -1,0 +1,327 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "erin-ijesha-waterfall-nature-v2",
+      "descriptionAdvanced": "Die Erin-Ijesha-Wasserfälle (auch Olumirin genannt) im Bundesstaat Osun sind ein atemberaubendes Naturwunder mit sieben verschiedenen Kaskadenstufen. Der Legende nach wurden sie im Jahr 1140 von einer Enkelin des mythischen Yoruba-Urvaters Oduduwa entdeckt. Wer den dichten Wald hinaufsteigt, wird auf jeder Stufe mit einem neuen, spektakulären Wasserfall und natürlichen Schwimmbecken belohnt. Nur sehr wenige Touristen schaffen es bis zur siebten und höchsten Stufe, da der Aufstieg extrem steil und rutschig ist. Interessanterweise markiert die oberste Stufe gleichzeitig die geografische Grenze zum Nachbarstaat Ekiti. Geografie K6 — Kaskaden-Wasserfälle und Mythen.",
+      "factsAdvanced": [
+        "Verfügt über sieben deutliche, übereinanderliegende Wasserfall-Stufen (Kaskaden).",
+        "Wurde der Legende nach 1140 von der Prinzessin Akinla, Tochter von Oduduwa, entdeckt.",
+        "Der Name 'Olumirin' bedeutet in etwa 'eine andere Gottheit'.",
+        "Das Erreichen der 7. Stufe ist extrem anstrengend und gilt als Mutprobe.",
+        "Die höchste Stufe bildet die natürliche Grenze zwischen den Staaten Osun und Ekiti.",
+        "Das Wasser gilt bei den Einheimischen traditionell als heilend und reinigend."
+      ]
+    },
+    {
+      "id": "owu-waterfall-nature-v2",
+      "descriptionAdvanced": "Versteckt im rauen Kwara-Staat liegt der Owu-Wasserfall, der höchste und spektakulärste Wasserfall in ganz Westafrika. Das Wasser stürzt hier fast 120 Meter tief über eine senkrechte, pechschwarze Felswand hinab in einen eisigen, natürlichen Pool. Anders als viele andere Touristenattraktionen ist Owu extrem schwer zu erreichen; der Weg führt durch dichten, fast unberührten Dschungel und raue Bergpfade. Der Wasserfall ist das ganze Jahr über aktiv, aber während der Regenzeit erzeugt der Aufprall des Wassers ein ohrenbetäubendes Brüllen und einen dichten Nebel, der das gesamte Tal einhüllt. Biologie K7 — Tropische Steilabfälle und Wasserfälle.",
+      "factsAdvanced": [
+        "Mit ca. 120 Metern Fallhöhe der höchste Wasserfall in Westafrika.",
+        "Liegt extrem isoliert im Ifelodun-Distrikt des Bundesstaates Kwara.",
+        "Das eiskalte Wasser stürzt über eine massive, fast senkrechte Gesteinswand (Steilstufe).",
+        "Der Zugang ist wegen fehlender befestigter Straßen sehr abenteuerlich und anstrengend.",
+        "Fließt ganzjährig, ist aber in der Regenzeit (August/September) am spektakulärsten.",
+        "Umgeben von dichtem Primärwald, der viele seltene Vogelarten beheimatet."
+      ]
+    },
+    {
+      "id": "gurara-waterfall-nature-v2",
+      "descriptionAdvanced": "Die Gurara-Wasserfälle im Bundesstaat Niger sind ein absolut gewaltiges Naturschauspiel, das paradoxerweise nur eine Stunde von der Hauptstadt Abuja entfernt liegt. Der Fluss Gurara stürzt hier über eine Breite von unglaublichen 200 Metern eine 30 Meter tiefe Felskante hinab. Im April und Mai, auf dem Höhepunkt der Regenzeit, ist die braune Wassermasse so gewaltig, dass der Boden erbebt. In der Trockenzeit im Januar hingegen schrumpft der Fall auf wenige klare Rinnsale zusammen, und Besucher können in den natürlichen Becken am Fuß der Felsen sicher schwimmen. Der Fall wurde 1908 von europäischen Siedlern 'entdeckt', war aber schon immer eine heilige Stätte für die lokale Gwari-Bevölkerung. Geografie K7 — Saisonale Flussschwankungen und Wasserfälle.",
+      "factsAdvanced": [
+        "Liegt im Bundesstaat Niger, nur etwa 70 Kilometer von der Hauptstadt Abuja entfernt.",
+        "Erreicht während der Regenzeit eine unglaubliche Breite von fast 200 Metern.",
+        "Die Fallhöhe des Wassers beträgt etwa 30 Meter.",
+        "Wurde traditionell von der lokalen Gwari-Ethnie als heilige Stätte verehrt.",
+        "Im Sommer (Regenzeit) braun und reißend, im Winter (Trockenzeit) klar und ruhig.",
+        "Eines der beliebtesten Wochenend-Ausflugsziele für Diplomaten und Politiker aus Abuja."
+      ]
+    },
+    {
+      "id": "farin-ruwa-waterfall-nature-v2",
+      "descriptionAdvanced": "Farin Ruwa bedeutet auf Hausa wörtlich 'Weißes Wasser', und der Name ist perfekt gewählt. Dieser majestätische Wasserfall im Bundesstaat Nasarawa stürzt unglaubliche 150 Meter in die Tiefe. Weil die Felswand aus extrem hartem Granit besteht, zerstäubt das herabstürzende Wasser fast vollständig in der Luft und sieht von Weitem aus wie eine massive Säule aus weißem Rauch. Aufgrund seiner gewaltigen Höhe und der Abgeschiedenheit im Wamba-Distrikt gilt er unter Geologen und Naturliebhabern als einer der faszinierendsten geologischen Brüche im mittleren Gürtel Nigerias. Erdkunde K8 — Geologische Steilstufen und Wasserzerstäubung.",
+      "factsAdvanced": [
+        "Der Name 'Farin Ruwa' ist Hausa und bedeutet wörtlich 'Weißes Wasser'.",
+        "Einer der höchsten Wasserfälle Nigerias mit einer Gesamthöhe von fast 150 Metern.",
+        "Liegt im stark zerklüfteten Wamba-Distrikt des Bundesstaates Nasarawa.",
+        "Das Wasser zerstäubt durch die enorme Höhe in der Luft zu dichtem weißen Nebel.",
+        "Wurde von der Landesregierung für ein gescheitertes Staudammprojekt (Hydro Power) ins Auge gefasst.",
+        "Die umliegenden Wälder sind fast unberührt, da die Straßenanbindung extrem schlecht ist."
+      ]
+    },
+    {
+      "id": "matsirga-waterfall-nature-v2",
+      "descriptionAdvanced": "Die Matsirga-Wasserfälle im südlichen Kaduna-Staat sind ein Wunder der natürlichen Hydraulik. Der Fluss Kafanchan stürzt hier etwa 30 Meter tief in eine beeindruckende, felsige Schlucht. Das Besondere an diesem Wasserfall ist seine unglaubliche Lautstärke und der Regenbogen, der sich fast permanent im dichten Sprühnebel über dem tiefen Becken bildet. Die Einheimischen glauben, dass der Wasserfall eine mystische, heilende Aura besitzt. Da die Wasserfälle extrem nah an der strategischen Eisenbahnstadt Kafanchan liegen, waren sie jahrzehntelang ein beliebter Picknickort für britische Eisenbahningenieure und nigerianische Touristen. Gesellschaft K6 — Wasserfälle als historische Erholungsorte.",
+      "factsAdvanced": [
+        "Liegt in der Nähe der alten Eisenbahn-Metropole Kafanchan (Kaduna-Staat).",
+        "Der Fluss stürzt hier fast 30 Meter in eine schmale, felsige Schlucht (Gorge).",
+        "Ein fast permanenter Regenbogen bildet sich im Sprühnebel des Wasserfalls.",
+        "Die lokale Bevölkerung ('Kagoro') schreibt dem Ort mystische Kräfte zu.",
+        "Ein historischer Erholungsort für die britischen Ingenieure der Eisenbahngesellschaft.",
+        "Die steilen Felswände rund um den Fall sind Heimat vieler seltener Felsenschwalben."
+      ]
+    },
+    {
+      "id": "obudu-mountain-resort-nature-v2",
+      "descriptionAdvanced": "Das Obudu Mountain Resort ist das absolute Juwel des nigerianischen Bergtourismus. Einst 1951 als 'Obudu Cattle Ranch' von schottischen Farmern gegründet, liegt das Resort auf über 1.500 Metern Höhe im Cross River State. Das kühle, neblige Bergklima unterscheidet sich radikal von der tropischen Hitze des Rests des Landes. Um den extrem steilen Berg zu bezwingen, baute man 2005 eine der längsten Seilbahnen (Cable Cars) Afrikas, die Besucher vom dichten Dschungel direkt in die Wolken trägt. Oben finden sich sanfte grüne Wiesen, luxuriöse Chalets, eine historische Rinderfarm und atemberaubende Wasserfälle. Biologie K7 — Alpine Klimazonen in den Tropen.",
+      "factsAdvanced": [
+        "Liegt auf über 1.500 Metern Höhe auf dem Obudu-Plateau (Cross River State).",
+        "Wurde ursprünglich 1951 von schottischen Expatriates als Rinderfarm (Cattle Ranch) gegründet.",
+        "Verfügt über eine 4 Kilometer lange Seilbahn, die längste in ganz Afrika.",
+        "Bietet ein fast gemäßigtes Klima, in dem sogar Äpfel und kühle Gräser wachsen.",
+        "Der Gipfel ist oft stark nebelverhangen (sogenannte 'Holy Mountains').",
+        "Ein massives Prestigeprojekt der Regierung zur Förderung des Luxus-Ökotourismus."
+      ]
+    },
+    {
+      "id": "yankari-national-park-nature-v2",
+      "descriptionAdvanced": "Der Yankari-Nationalpark ist das Herzstück des Naturschutzes in Westafrika. Mitten in der Sudan-Savanne des Bundesstaates Bauchi gelegen, ist dieser riesige Park von fast 2.200 Quadratkilometern der wichtigste Zufluchtsort für große Säugetiere in Nigeria. Hier durchstreifen Hunderte von Elefanten die staubigen Pfade, während Nilpferde, Roan-Antilopen und seltene westafrikanische Löwen im dichten Buschwerk jagen. Die Hauptattraktion ist jedoch geologisch: Die Wikki Warm Springs, ein natürlicher Pool, in dem kristallklares, 31 Grad warmes Quellwasser aus sandigen Felsen sprudelt. Im Gegensatz zu ostafrikanischen Parks erfordert eine Safari hier Geduld und scharfe Augen, da der Busch extrem dicht ist. Geografie K7 — Savannen-Ökosysteme und afrikanische Elefanten.",
+      "factsAdvanced": [
+        "Nigerias ältester und berühmtester Nationalpark (als Wildreservat 1956 gegründet).",
+        "Beherbergt die größte verbliebene afrikanische Elefantenpopulation in Westafrika.",
+        "Berühmt für die Wikki Warm Springs, eine glasklare, natürliche geothermale Quelle.",
+        "Umfasst über 2.200 Quadratkilometer sudanesische Savannenlandschaft.",
+        "Besitzt ein ausgeprägtes Netzwerk von historischen, künstlichen Höhlen ('Marshall Caves').",
+        "Trotz schwerer Probleme mit Wilderei und Finanzierung der wichtigste Safaripark des Landes."
+      ]
+    },
+    {
+      "id": "kamuku-national-park-nature-v2",
+      "descriptionAdvanced": "Der Kamuku-Nationalpark im Bundesstaat Kaduna ist das klassische 'Guinea-Savannen'-Ökosystem. Diese typische Übergangszone zwischen dem feuchten Wald im Süden und der extrem trockenen Wüste im Norden beheimatet eine unglaublich widerstandsfähige Flora, wie Isoberlinia- und Mahagoni-Bäume. Die Tierwelt ist extrem vielfältig: Hier leben Husarenaffen, Warzenschweine und sogar seltene Leoparden. Leider liegt der Park in einer Region, die stark von illegalen Holzfällern und gewaltsamen Konflikten zwischen bewaffneten Viehdieben (Bandits) betroffen ist. Aus diesem Grund ist der Tourismus in Kamuku fast vollständig zum Erliegen gekommen, und der Park ist zu einem der am stärksten gefährdeten Schutzgebiete Afrikas geworden. Biologie K8 — Guinea-Savanne und Biodiversitätsverlust durch Konflikte.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1999 und erstreckt sich über ca. 1.120 Quadratkilometer im Kaduna-Staat.",
+        "Ein exzellentes Beispiel für das seltene Ökosystem der 'Guinea-Savanne'.",
+        "Heimat von Husarenaffen, Roan-Antilopen, Warzenschweinen und unzähligen Vogelarten.",
+        "Teilt eine direkte ökologische Grenze mit dem Kwiambana Forest Reserve.",
+        "Leidet extrem unter der aktuellen Sicherheitskrise (Banditentum und Wilderei) im Nordwesten.",
+        "Der Tourismus ist aus Sicherheitsgründen in den letzten Jahren fast vollständig kollabiert."
+      ]
+    },
+    {
+      "id": "okomu-national-park-nature-v2",
+      "descriptionAdvanced": "Der Okomu-Nationalpark im Edo-Staat ist ein winziges, aber unfassbar wertvolles Waldfragment, das sich wie eine Festung gegen die riesigen Kautschuk- und Palmölplantagen wehrt, die ihn umzingeln. Ursprünglich Teil des mächtigen westafrikanischen Regenwaldes, ist er der letzte große Zufluchtsort in ganz Nigeria für die vom Aussterben bedrohte Weißkehlmeerkatze (White-throated Guenon). Mit seinen riesigen, über 40 Meter hohen Mahagoni-Bäumen und dem feuchten Mikroklima fühlt man sich hier wie in einer anderen Epoche. Doch der Park ist winzig (nur knapp 200 km²) und der Druck durch illegale Holzfäller ist enorm hoch. Ein spektakulärer Baumkronenpfad (Canopy Walk) erlaubt es Besuchern, die Affen hoch in den Wipfeln zu beobachten. Biologie K7 — Regenwaldschutz und Endemismus.",
+      "factsAdvanced": [
+        "Einer der kleinsten Nationalparks Nigerias (ca. 200 km²), gegründet 1999.",
+        "Ein extrem wichtiges Fragment des historischen, fast zerstörten Okomu Forest Reserve.",
+        "Weltweit das einzige Schutzgebiet für die Weißkehlmeerkatze (Endemit).",
+        "Beherbergt seltene Waldelefanten, Schimpansen und Zwergkrokodile.",
+        "Wird von riesigen, multinationalen Kautschuk- und Palmölplantagen (z.B. Okomu Oil) eingekesselt.",
+        "Besitzt einen beeindruckenden Baumkronenpfad für Vogel- und Primatenbeobachtung."
+      ]
+    },
+    {
+      "id": "old-oyo-national-park-nature-v2",
+      "descriptionAdvanced": "Der Old Oyo Nationalpark ist eine faszinierende Mischung aus archäologischer Ausgrabungsstätte und Savannen-Wildnis. Der Park im Bundesstaat Oyo umschließt die historischen Ruinen von 'Oyo-Ile', der Hauptstadt des legendären Yoruba-Imperiums, das im 19. Jahrhundert von Fulani-Kriegern zerstört wurde. Noch heute findet man zwischen dem dichten Elefantengras und den schattigen Mahagonibäumen alte Stadtmauern, Lehmöfen zur Eisenverhüttung und antike Gräber. Die Tierwelt – darunter Paviane, Buschböcke und Kob-Antilopen – hat sich die zerstörte Stadt zurückerobert. Dieser Park beweist eindrucksvoll, wie schnell sich die afrikanische Natur selbst gigantische menschliche Zivilisationen wieder einverleibt. Geschichte K7 — Verlassene Metropolen und Renaturierung.",
+      "factsAdvanced": [
+        "Umfasst die historischen Ruinen von Oyo-Ile, der alten Hauptstadt des Oyo-Imperiums.",
+        "Liegt im Nordwesten Nigerias (Oyo-Staat) in einer bewaldeten Savannenzone.",
+        "Beherbergt archäologische Funde wie alte Stadtmauern, Wassertanks und Eisenschmelzen.",
+        "Beliebtes Habitat für Paviane, Buschböcke, Kob-Antilopen und unzählige Vögel.",
+        "Der Park demonstriert, wie die afrikanische Savanne verlassene Städte zurückerobert.",
+        "Ist ein stark umkämpftes Gebiet zwischen Rangern und illegal eindringenden Fulani-Hirten."
+      ]
+    },
+    {
+      "id": "zuma-rock-nature-v2",
+      "descriptionAdvanced": "Zuma Rock ist das berühmteste geografische Wahrzeichen Nigerias und ziert sogar den 100-Naira-Schein. Dieser gigantische, schwarze Monolith ragt wie ein wütender Gigant 725 Meter aus der flachen Savanne direkt an der Autobahn zwischen Abuja und Kaduna empor. Das markanteste Merkmal des Felsens ist eine natürliche Verwitterung an der Frontseite, die verblüffend genau wie ein grimmiges menschliches Gesicht (Zuma Rock Face) aussieht. Für die lokale Gwari-Bevölkerung war der Felsen jahrhundertelang ein heiliger Berg und ein Zufluchtsort vor Angreifern. Obwohl man ihn besteigen kann, meiden viele Einheimische den Berg aus tiefem Respekt vor den mächtigen Geistern, die angeblich in seinem Gestein wohnen. Geografie K6 — Monolithen und Mythen.",
+      "factsAdvanced": [
+        "Ein massiver vulkanischer Monolith ('Inselberg'), der 725 Meter hoch aufragt.",
+        "Befindet sich im Bundesstaat Niger, direkt vor den Toren der Hauptstadt Abuja.",
+        "Besitzt eine extrem markante natürliche Verwitterung, die wie ein menschliches Gesicht aussieht.",
+        "War historisch ein heiliger Schutzort für die lokale Ethnie der Gwari (Gbagyi).",
+        "Wird oft als das inoffizielle 'Tor nach Abuja' bezeichnet.",
+        "Ist das zentrale Motiv auf der Rückseite der nigerianischen 100-Naira-Banknote."
+      ]
+    },
+    {
+      "id": "olumo-rock-nature-v2",
+      "descriptionAdvanced": "Der Olumo-Felsen ist der historische Schutzengel der Stadt Abeokuta (was wörtlich 'Unter dem Felsen' bedeutet). Dieser markante Granitberg erhebt sich 137 Meter hoch mitten im Stadtzentrum. Im 19. Jahrhundert rettete dieses gewaltige Gesteinsmassiv die Egba-Ethnie vor der Auslöschung. Die Kriege des Dahomey-Reiches zwangen die Egba, sich in den tiefen, natürlichen Höhlen des Berges zu verstecken, wo sie Schreine für den Felsgeist errichteten. Heute ist der Olumo-Felsen ein gigantisches Museum: Moderne Aufzüge und Steintreppen führen zum Gipfel, von wo aus man über die unzähligen rostbraunen Blechdächer der Stadt blickt. Unter dem Felsen leben bis heute Priesterinnen, die den uralten Schutzgeist verehren. Geschichte K7 — Die Yoruba-Bürgerkriege und natürliche Festungen.",
+      "factsAdvanced": [
+        "Ein 137 Meter hoher Granitfels mitten in der Großstadt Abeokuta (Ogun-Staat).",
+        "Diente dem Volk der Egba im 19. Jahrhundert als uneinnehmbare Festung und Zuflucht.",
+        "Verfügt über tiefe, natürliche Höhlen, in denen Menschen jahrelang lebten.",
+        "Beherbergt aktive Yoruba-Schreine und Priesterinnen, die den Felsgeist anbeten.",
+        "Heute eine stark frequentierte Touristenattraktion mit modernen Aufzügen.",
+        "Der Name der Stadt Abeokuta bedeutet übersetzt 'Die Stadt unter dem Felsen'."
+      ]
+    },
+    {
+      "id": "aso-rock-nature-v2",
+      "descriptionAdvanced": "Aso Rock ist das wohl politischste Stück Fels in ganz Afrika. Dieser 400 Meter hohe, massiv geformte Granitmonolith dominiert das gesamte Stadtbild von Nigerias Hauptstadt Abuja. Er ist das geografische und spirituelle Herz der Stadt; das Wort 'Aso' bedeutet in der Sprache der lokalen Asokoro-Bewohner 'Sieg' oder 'siegreich'. Die nigerianische Regierung wählte die Lage dieses Felsens ganz bewusst aus: Direkt in seinem massiven, schützenden Schatten wurden die drei wichtigsten Gebäude der Nation errichtet – die 'Aso Villa' (Residenz des Präsidenten), das Parlament (National Assembly) und der Oberste Gerichtshof. Aso Rock ist heute das absolute Synonym für die präsidiale Macht Nigerias. Gesellschaft K8 — Politische Geografie und Hauptstadtplanung.",
+      "factsAdvanced": [
+        "Ein 400 Meter hoher, gigantischer Granitmonolith im Zentrum von Abuja.",
+        "Das Wort 'Aso' stammt von den indigenen Asokoro und bedeutet 'Sieg'.",
+        "Wurde beim Design der künstlichen Hauptstadt Abuja als zentraler Bezugspunkt gewählt.",
+        "Der Felsen überschattet das gesamte 'Three Arms Zone' Regierungsviertel.",
+        "Direkt an seinem Fuß liegt die schwer bewachte Presidential Villa (Aso Villa).",
+        "Ein absolutes Sicherheitsgebiet; das Besteigen des Felsens ist Zivilisten streng verboten."
+      ]
+    },
+    {
+      "id": "wese-rock-nature-v2",
+      "descriptionAdvanced": "Wase Rock im Plateau-Staat ist ein Geologen-Traum und ein Kletterer-Albtraum. Dieser massive, extrem glatte Inselberg in der Form eines riesigen Trachyt-Doms erhebt sich kerzengerade 250 Meter über die flache, umliegende Sudan-Savanne in der Nähe der Wase-Talsperre. Was Wase Rock biologisch so unglaublich wichtig macht: Er ist einer von nur fünf Orten auf dem gesamten afrikanischen Kontinent, an dem der Rosapelikan brütet. Um diese riesigen, gefährdeten Vögel zu schützen, ist der Felsen ein streng geschütztes Gebiet. Es gibt Berichte, dass während der Trockenzeit der Fels so heiß wird, dass Reptilien am Boden regelrecht verbrennen. Biologie K7 — Pelikan-Brutgebiete und Inselberge.",
+      "factsAdvanced": [
+        "Ein massiver, extrem steiler Vulkankern (Trachyt-Monolith) im Plateau-Staat.",
+        "Ragt etwa 250 Meter fast senkrecht aus der sehr flachen umliegenden Savanne auf.",
+        "Einer von nur fünf bekannten Nistplätzen des afrikanischen Rosapelikans in Afrika.",
+        "Wegen der Vögel ist das Klettern am Felsen oft streng reglementiert oder verboten.",
+        "Besitzt eine extrem glatte Oberfläche, die ihn für klassische Kletterer extrem gefährlich macht.",
+        "Wird aufgrund seiner markanten, fast zylindrischen Form oft mit dem Devils Tower in den USA verglichen."
+      ]
+    },
+    {
+      "id": "idanre-hills-nature-v2",
+      "descriptionAdvanced": "Die Idanre Hills (Oke Idanre) im Ondo-Staat sind eine geologische Schatztruhe, die tief im feuchten Yoruba-Wald versteckt ist. Dieser atemberaubende, steile Granitkomplex beherbergt nicht nur ein uraltes, heute verlassenes Dorf ('Old Idanre') hoch auf dem Gipfel, sondern ist auch reich an einzigartiger Flora und Fauna, die sich perfekt an den nackten, heißen Fels angepasst hat. Besucher müssen genau 682 anstrengende Steinstufen erklimmen, um die Spitze zu erreichen. Oben angekommen, findet man magische Orte wie den 'Agbake'-Felsen (in den riesige Fußabdrücke gebrannt zu sein scheinen) und den Arun-Fluss, dessen Wasser angeblich mystische Heilkräfte besitzt. Biologie K6 — Tropische Fels-Ökosysteme und Bergkulturen.",
+      "factsAdvanced": [
+        "Eine massive, extrem steile Granit-Hügelkette im Bundesstaat Ondo.",
+        "Der Aufstieg zum historischen Berggipfel ('Old Idanre') umfasst exakt 682 Stufen.",
+        "Die Berge waren historisch eine Zuflucht und Festung für die Yoruba-Bevölkerung.",
+        "Beherbergt den mythischen Owa's Palace (Königspalast) und archaische Eisenschmelzöfen.",
+        "Der Arun-Fluss auf dem Berg wird von der lokalen Bevölkerung als heilend verehrt.",
+        "Steht offiziell auf der Tentativliste für das UNESCO-Weltkulturerbe."
+      ]
+    },
+    {
+      "id": "udi-hills-nature-v2",
+      "descriptionAdvanced": "Die Udi Hills im Osten Nigerias sind eng mit dem industriellen Aufstieg des Landes verbunden. Diese langen, grünen Hügelketten durchschneiden den Bundesstaat Enugu und bestehen tief im Inneren aus reiner Steinkohle. Als britische Geologen diese Kohle 1909 entdeckten, entstand die heutige Millionenstadt Enugu ('Coal City') förmlich aus dem Nichts. Doch die Udi Hills bieten mehr als nur dunkle Stollen: Die Landschaft ist atemberaubend, mit tiefen Canyons und Schluchten. Heute werden die oft sehr steilen und kurvigen Passstraßen über die Hügel gefürchtet, sind aber gleichzeitig ein beliebtes Ziel für Filme der Nollywood-Industrie, die die dramatische Szenerie lieben. Erdkunde K8 — Kohleabbau, Canyons und Industrialisierung.",
+      "factsAdvanced": [
+        "Eine lange Hügelkette im Südosten Nigerias, nahe der Stadt Enugu.",
+        "Historisch der wichtigste Fundort für massive Steinkohlevorkommen (Entdeckung 1909).",
+        "Die Hügel gaben Enugu den Spitznamen 'The Coal City'.",
+        "Tief durchzogen von teilweise noch heute existierenden britischen Kohleminenstollen (z.B. Onyeama Mine).",
+        "Das extrem kurvige, hügelige Terrain (Milken Hill) ist berüchtigt für schwierige Autofahrten.",
+        "Bietet eine sehr hohe Dichte an tiefen Tälern und natürlicher Schluchtenerosion."
+      ]
+    },
+    {
+      "id": "kazaure-wetlands-nature-v2",
+      "descriptionAdvanced": "Mitten im extrem trockenen Jigawa-Staat, unweit der Ausläufer der Sahara, existiert ein überraschendes ökologisches Paradies: die Kazaure Wetlands. Entstanden durch das langsame Mäandern alter Flusssysteme in Richtung des Tschadbeckens, bilden diese Feuchtgebiete ein grünes Labyrinth aus Seerosen, Papyrus und sumpfigem Land. Sie sind eine absolute Überlebensader für Tausende von Zugvögeln, die im europäischen Winter die Sahara überqueren und hier den ersten sicheren Rastplatz finden. Für die lokale Hausa-Bevölkerung ist das Gebiet ein Segen für den Reisanbau und den Fischfang, steht jedoch unter brutalem Druck durch Desertifikation und Überfischung. Biologie K7 — Feuchtgebiete im Sahel und Zugvögel-Routen.",
+      "factsAdvanced": [
+        "Ein großes, überraschendes Feuchtgebiet im sonst trockenen Jigawa-Staat.",
+        "Ein international extrem wichtiges Rast- und Überwinterungsgebiet für Zugvögel (Paläarktis).",
+        "Beherbergt unzählige Arten von Pelikanen, Störchen und Eisvögeln.",
+        "Dient der lokalen Hausa-Bevölkerung als Hauptquelle für Fischerei und Reisanbau.",
+        "Gehört hydrologisch zum extrem anfälligen Komadugu-Yobe-Flusssystem.",
+        "Stark bedroht durch den Bau von Staudämmen flussaufwärts und die Wüstenbildung."
+      ]
+    },
+    {
+      "id": "baturiya-wetlands-nature-v2",
+      "descriptionAdvanced": "Das Baturiya Bird Sanctuary, gelegen im Herzen der gigantischen Hadejia-Nguru-Feuchtgebiete, ist das 'Vogel-Mekka' Westafrikas. Wenn in der Regenzeit die Flüsse Hadejia und Jama'are das flache Sahel-Land überfluten, verwandelt sich die Wüste in ein riesiges, flaches Meer, das Millionen von Vögeln anzieht. Es ist eines der ersten offiziellen Ramsar-Feuchtgebiete (von internationaler Bedeutung) in Nigeria. Hier sammeln sich seltene Kraniche, Kampfläufer und Zehntausende von Enten aus Europa und Asien. Der Besuch des britischen Prinzen Philip im Jahr 1989 machte das Reservat kurzzeitig weltberühmt, doch heute kämpfen die Ranger dort oft einen einsamen Kampf gegen Wilderer und die Austrocknung. Biologie K8 — Ramsar-Schutzgebiete und Ornithologie.",
+      "factsAdvanced": [
+        "Teil des gigantischen Hadejia-Nguru-Feuchtgebietssystems (Kano/Jigawa/Yobe).",
+        "Eines der wichtigsten offiziellen 'Ramsar-Schutzgebiete' (Feuchtgebiete) Afrikas.",
+        "Schätzungsweise eine halbe Million Zugvögel aus Asien und Europa überwintern hier.",
+        "Bekannt für den Besuch des britischen Prince Philip (WWF) im Jahr 1989.",
+        "Leidet massiv unter der Verknappung von Wasser durch Staudämme (Tiga Dam) im Oberlauf.",
+        "Ein Paradies für Ökotouristen und Ornithologen, aber schwer zugänglich."
+      ]
+    },
+    {
+      "id": "nguru-lake-nature-v2",
+      "descriptionAdvanced": "Der Nguru-See im Bundesstaat Yobe ist ein saisonales Mysterium. Gelegen am Rande der Wüste, füllt sich dieser flache, weitläufige See während der kurzen Regenzeit mit den Wassern des Hadejia-Flusses. Dann explodiert das Leben: Tausende Zugvögel landen hier, und Fischer in kleinen Einbäumen ernten den plötzlichen Überfluss. Doch sobald die Trockenzeit einsetzt, zieht sich der See rapide zurück und hinterlässt fruchtbaren, schwarzen Schlamm, in dem die Bauern der Umgebung sofort Bohnen, Melonen und Reis anpflanzen (Fadama-Landwirtschaft). Der Nguru-See ist ein perfektes, empfindliches Beispiel dafür, wie der afrikanische Sahel von den Rhythmen der extremen Regenzeiten diktiert wird. Erdkunde K7 — Saisonale Seen und Fadama-Wirtschaft.",
+      "factsAdvanced": [
+        "Ein großer, saisonal schwankender See am Rand der Sahara im Yobe-Staat.",
+        "Wird fast ausschließlich vom Hadejia-Fluss während der starken Sommermonsune gespeist.",
+        "Extrem wichtiges Habitat für unzählige Arten von Wasservögeln in der Sahelzone.",
+        "Sobald sich das Wasser zurückzieht, nutzen Bauern den feuchten Schlamm für Landwirtschaft.",
+        "Die Region steht unter starkem Stress durch Desertifikation und Klimawandel.",
+        "Wichtiger Hub für den lokalen Fischverkauf in Nordostnigeria."
+      ]
+    },
+    {
+      "id": "oguta-lake-nature-v2",
+      "descriptionAdvanced": "Der Oguta-See im Imo-Staat ist nicht nur der größte natürliche See in Südostnigeria, er ist auch Schauplatz der nigerianischen Geschichte und Mythologie. Was den See weltberühmt macht, ist der Zusammenfluss mit dem Fluss Urashi: Die beiden Gewässer (das eine grünlich, das andere tiefbraun) fließen Seite an Seite, ohne sich jemals zu vermischen. Die lokale Legende besagt, dass die beiden Geister der Flüsse Mann und Frau waren, die sich so schwer zerstritten haben, dass ihr Wasser nie wieder eins wird. Während des Biafra-Krieges war der See eine geheime, von dichtem Dschungel getarnte Landebahn und Basis der Biafra-Marine, wovon heute noch versenkte Patrouillenboote auf dem Seegrund zeugen. Geschichte K8 — Hydrologische Mythen und der Biafra-Krieg.",
+      "factsAdvanced": [
+        "Der größte natürliche Süßwassersee in Südostnigeria (Bundesstaat Imo).",
+        "Berühmt für das unvermischte Zusammenfließen der braunen (Urashi) und grünen (Oguta) Wasser.",
+        "Lokale Mythen behaupten, die Flüsse seien ein zerstrittenes Götter-Ehepaar.",
+        "Diente der Separatistenarmee von Biafra während des Bürgerkriegs als geheime Marinebasis.",
+        "Am Ufer steht noch immer ein versunkener Patrouillenboot-Bunker aus dem Krieg.",
+        "War historisch ein sehr wichtiges Erholungsgebiet und Touristenziel der Igbo-Elite."
+      ]
+    },
+    {
+      "id": "agbokim-waterfalls-nature-v2",
+      "descriptionAdvanced": "Die Agbokim-Wasserfälle im tiefen, unzugänglichen Wald des Cross River State, nahe der Grenze zu Kamerun, wirken wie eine Szene aus Jurassic Park. Siebeneinhalb separate Wasserströme ergießen sich hier Seite an Seite in einem Halbkreis über die steilen Felsklippen in den üppigen Regenwald. In der massiven Regenzeit verschmelzen diese Ströme zu einer einzigen, ohrenbetäubenden Wand aus Wasser. Agbokim verdankt seinen Reichtum an Vegetation der Tatsache, dass das Gebiet vom großen Holzeinschlag weitgehend verschont blieb. Wegen seiner perfekten, kreisförmigen Struktur und der unzähligen Regenbögen, die den Sprühnebel durchziehen, gilt Agbokim als einer der malerischsten Orte in ganz Westafrika. Biologie K7 — Tropische Kaskaden und Regenwald-Mikroklima.",
+      "factsAdvanced": [
+        "Ein spektakulärer Komplex aus sieben dicht beieinanderliegenden Wasserfällen.",
+        "Liegt im Bundesstaat Cross River, extrem nah an der Grenze zu Kamerun.",
+        "Die Fälle stürzen terrassenförmig in das dichte Blätterdach des tropischen Regenwalds.",
+        "Erreicht seine maximale und lauteste Stärke am Höhepunkt der Regenzeit.",
+        "Historisch ein wichtiges Ziel für britische Beamte und heute für lokale Ökotouristen.",
+        "Der umgebende Wald schützt den extrem wasserreichen Boden vor Erosion."
+      ]
+    },
+    {
+      "id": "chappal-waddi-relief-v2",
+      "descriptionAdvanced": "Chappal Waddi ist geologisch gesehen der König Nigerias. Mit 2.419 Metern ist er der absolute Höhepunkt des Landes, gelegen in einem massiven Reliefkomplex an der kamerunischen Grenze, der als Mambilla-Plateau bekannt ist. Anders als die vulkanischen Felsen im Zentrum des Landes ist dieser Gigant Teil des vulkanischen 'Kamerun-Riftes'. Die steilen, dicht bewaldeten Flanken des Berges dienen als gigantischer natürlicher Regenfänger: Wolken aus dem Atlantik prallen hier auf das Massiv und entleeren sich in heftigen Niederschlägen, die den riesigen Gashaka-Gumti-Nationalpark speisen. Wer den Gipfel ('Mountain of Death') besteigen will, muss tiefe, unerforschte Schluchten und extrem rutschiges, lateritisches Relief bezwingen. Geografie K8 — Faltengebirge, Niederschlagsfallen und Riftsysteme.",
+      "factsAdvanced": [
+        "Der absolute höchste Berg Nigerias mit exakt 2.419 Metern Höhe.",
+        "Teil des gebirgigen Reliefs an der Grenze zwischen Taraba-Staat und Kamerun.",
+        "Der Name 'Chappal Waddi' bedeutet in der lokalen Sprache wörtlich 'Berg des Todes'.",
+        "Gehört geologisch zum ausgedehnten System der Kamerun-Linie (vulkanischer Ursprung).",
+        "Das Relief ist geprägt von extrem steilen Schluchten und Bergregenwäldern.",
+        "Ist hydrologisch essenziell, da er Unmengen an Regenwolken abfängt."
+      ]
+    },
+    {
+      "id": "jos-plateau-relief-v2",
+      "descriptionAdvanced": "Das Jos-Plateau ist eine geologische Anomalie. Wie eine riesige, flache Granit-Torte ragt es steil und fast senkrecht aus den umgebenden Ebenen des Middle Belt empor. Dieses 8.600 Quadratkilometer große Relief hat eine durchschnittliche Höhe von 1.280 Metern. Die steilen Flanken (Steilstufen) des Plateaus schufen historische natürliche Festungen, die kleinere Ethnien vor den Reitern des Sokoto-Kalifats schützten. Das Relief ist zudem extrem reich an Zinn- und Kolumbit-Erzen, deren rücksichtsloser Abbau im 20. Jahrhundert tiefe, kraterähnliche Narben in der Landschaft ('Mining Ponds') hinterlassen hat. Heute sorgen die Höhe und die Felsen für ein erfrischend kühles Mikroklima. Erdkunde K7 — Hochplateaus, Inselberge und Bergbaufolgen.",
+      "factsAdvanced": [
+        "Ein massives, tischförmiges Granit-Plateau im geografischen Zentrum Nigerias.",
+        "Erhebt sich mit markanten Steilstufen oft senkrecht aus dem Umland.",
+        "Bedeckt eine gigantische Fläche von ca. 8.600 Quadratkilometern.",
+        "Das Plateau bildet die wichtigste Wasserscheide in Zentralnigeria (Quellgebiet).",
+        "Jahrzehntelanger Bergbau hat das Relief durch riesige, wassergefüllte Krater ('Mining Ponds') massiv verändert.",
+        "Verursacht durch seine Höhe ein eigenes, kühleres und feuchteres Mikroklima."
+      ]
+    },
+    {
+      "id": "obudu-plateau-relief-v2",
+      "descriptionAdvanced": "Das Obudu-Plateau im Bundesstaat Cross River ist ein Relieftraum aus sanften, grasbewachsenen Hügeln, die oft dick in Wolken gehüllt sind. Auf über 1.500 Metern Höhe gelegen, ist dieses Relief geologisch stark mit den Bergen Kameruns verwandt. Die steilen Auffahrten zum Plateau sind legendär, insbesondere eine Serie von extrem scharfen Haarnadelkurven, die als 'Devil's Elbow' bekannt sind. Dieses Relief schuf eine klimatische Insel, die so gemäßigt ist, dass britische Expatriates hier früher Äpfel pflanzten und schottische Rinder züchteten. Heute ist die hügelige, alpine Landschaft das Zentrum des wichtigsten Luxus-Ökotourismus in Nigeria. Geografie K7 — Gebirgszüge, Mikroklimata und alpine Weiden.",
+      "factsAdvanced": [
+        "Ein hochgelegenes Bergplateau im extremen Osten des Cross-River-Staates.",
+        "Liegt durchschnittlich auf über 1.500 Metern über dem Meeresspiegel.",
+        "Das Relief ist geprägt von sanften, baumlosen, hügeligen Graslandschaften.",
+        "Der Zugang führt über extrem steile Passstraßen (die berühmten Haarnadelkurven).",
+        "Wurde wegen seines kühlen, fliegenfreien Reliefs als historische Rinderfarm (Cattle Ranch) genutzt.",
+        "Beherbergt Afrikas längste Seilbahn, um das steile Terrain für Touristen zu überwinden."
+      ]
+    },
+    {
+      "id": "mambilla-plateau-relief-v2",
+      "descriptionAdvanced": "Das Mambilla-Plateau im Taraba-Staat ist die unangefochtene Hochebene der Savanne. Mit durchschnittlich fast 1.600 Metern ist es höher als Jos und Obudu. Dieses gigantische, hügelige Relief erstreckt sich weit und ist bedeckt mit kurzem, kräftigem Savannengras. Da das Relief völlig frei von der tödlichen Tsetse-Fliege ist, wanderten hier Zehntausende von Fulani-Hirten mit Millionen von Rindern ein. Geologisch ist das Plateau von tiefen V-Tälern durchzogen, die das ehrgeizige, lang verzögerte Mambilla-Wasserkraft-Projekt (ein geplantes Mega-Kraftwerk) möglich machen sollen. Die kühle Luft hier oben ist der einzige Ort in Nigeria, an dem Tee auf riesigen Plantagen kommerziell angebaut wird. Erdkunde K8 — Hochlandweiden, Teeanbau und Tsetse-Gürtel.",
+      "factsAdvanced": [
+        "Das höchstgelegene großflächige Plateau in ganz Nigeria (Durchschnitt 1.600 m).",
+        "Liegt im Bundesstaat Taraba und setzt sich geologisch bis nach Kamerun fort.",
+        "Das Relief ist baumlos und von endlosen Weidegräsern und tiefen Schluchten geprägt.",
+        "Der einzige Ort in Westafrika, an dem kommerziell Hochland-Tee (Mambilla Tea) angebaut wird.",
+        "Dient als massives Weidezentrum für Fulani-Hirten, da es keine Tsetse-Fliegen gibt.",
+        "Standort des massiv umstrittenen und verzögerten Mambilla-Wasserkraft-Großprojekts."
+      ]
+    },
+    {
+      "id": "udi-hills-relief-v2",
+      "descriptionAdvanced": "Die Udi-Hügel im Bundesstaat Enugu sind ein klassisches Beispiel für eine Cuesta (Schichtstufe). Dieses asymmetrische Relief, das sanft in eine Richtung ansteigt und auf der anderen Seite extrem steil abfällt, verbarg lange Zeit Nigerias größtes Geheimnis: massive Steinkohlevorkommen. Die Hügel durchschneiden die ansonsten flache Landschaft des Südostens und zwingen Straßen zu gefährlichen, kurvigen Routen wie dem berühmten 'Milken Hill'. Die extremen Regenfälle der Region haben tiefe Schluchten und rote lateritische Abgründe (Gully Erosion) in die Hügel gerissen. Das Relief der Udi-Hügel bot in den späten 1960er Jahren der Biafra-Armee perfekten Schutz für versteckte Waffenfabriken und unterirdische Bunker. Geografie K8 — Schichtstufen, Kohleflöze und Schluchtenerosion.",
+      "factsAdvanced": [
+        "Eine markante Schichtstufe (Cuesta-Relief) im Südosten Nigerias (Enugu State).",
+        "Geologisch berühmt als der absolut wichtigste Ort für afrikanische Steinkohlevorkommen.",
+        "Die Hügel zwingen Infrastruktur zu gefährlichen Passstraßen (z.B. den Milliken Hill).",
+        "Extrem stark von tiefer, zerstörerischer Schluchtenerosion ('Gully Erosion') betroffen.",
+        "Die vielen natürlichen Höhlen und Schluchten dienten Biafra im Krieg als Versteck.",
+        "Bieten einen perfekten, oft steilen Aussichtspunkt über die gesamte 'Coal City' Enugu."
+      ]
+    }
+  ]
+}

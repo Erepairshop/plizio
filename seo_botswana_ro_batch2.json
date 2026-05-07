@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "francistown-cities-v2",
+      "descriptionAdvanced": "Francistown este unul dintre cele mai vechi orașe din Botswana, fondat în 1897 și numit după prospectorul britanic Daniel Francis. Orașul a fost centrul primului 'goana după aur' din Africa de Sud, ceea ce a determinat dezvoltarea sa timpurie și importanța sa istorică în regiune. Astăzi, Francistown este un nod comercial și logistic major în nord-estul țării, deservind rutele de transport către Zimbabwe și alte țări vecine, păstrându-și totodată farmecul istoric prin clădirile sale coloniale și muzeul dedicat istoriei sale miniere. Istorie K6 — colonizarea în Africa.",
+      "factsAdvanced": [
+        "A fost fondat în 1897 în timpul goanei după aur.",
+        "Numit după prospectorul britanic Daniel Francis.",
+        "Este al doilea oraș ca mărime din Botswana.",
+        "Situat strategic în apropierea graniței cu Zimbabwe.",
+        "Muzeul Supa Ngwao documentează istoria locală a orașului.",
+        "Funcționează ca un centru logistic major pentru regiune."
+      ]
+    },
+    {
+      "id": "maun-cities-v2",
+      "descriptionAdvanced": "Maun este cunoscut ca 'poarta de intrare' către Delta Okavango, fiind centrul turistic și logistic pentru majoritatea expedițiilor în sălbăticia Botswanei. Inițial o mică așezare de creștere a vitelor, Maun s-a transformat într-un oraș vibrant care combină tradițiile pastorale cu industria modernă a turismului de safari. Atmosfera orașului reflectă acest amestec, fiind locul unde vizitatorii se pregătesc pentru aventuri în ecosistemele unice ale deltei și ale parcurilor naționale din apropiere. Földrajz K6 — turism și conservare.",
+      "factsAdvanced": [
+        "Este considerat capitala turistică a Botswanei.",
+        "Servește ca punct de plecare principal pentru safari în Delta Okavango.",
+        "A fost fondat în 1915 ca sediu administrativ.",
+        "Situat pe malul râului Thamalakane.",
+        "Are un aeroport internațional care facilitează accesul turiștilor.",
+        "Combina tradiția creșterii vitelor cu turismul modern."
+      ]
+    },
+    {
+      "id": "lobatse-cities-v2",
+      "descriptionAdvanced": "Lobatse este un oraș cu o importanță istorică și administrativă considerabilă, fiind locul unde a fost adoptată Constituția Botswanei în 1966. Situat într-o vale pitorească, orașul este cunoscut pentru abatoarele sale mari și industria prelucrării cărnii, care au contribuit semnificativ la economia națională timp de decenii. De asemenea, Lobatse joacă un rol vital în sistemul juridic al țării, fiind sediul Înaltei Curți din Botswana, ceea ce îi conferă o relevanță administrativă deosebită dincolo de activitățile sale industriale. Istorie K8 — independența Botswanei.",
+      "factsAdvanced": [
+        "A găzduit semnarea Constituției Botswanei în 1966.",
+        "Este sediul Înaltei Curți din Botswana.",
+        "Istoric, a fost un centru major pentru industria cărnii.",
+        "Situat într-o zonă geografică muntoasă și pitorească.",
+        "A fost una dintre primele așezări coloniale din țară.",
+        "Conectat prin cale ferată la sudul Africii."
+      ]
+    }
+  ]
+}

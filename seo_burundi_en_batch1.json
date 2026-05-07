@@ -1,0 +1,70 @@
+{
+  "lang": "en",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bujumbura-cities-v2",
+      "descriptionAdvanced": "Bujumbura, the largest city and former capital of Burundi, sits on the northeastern shores of Lake Tanganyika. It serves as the nation's primary port and economic hub. The city features a blend of colonial architecture and modern developments, reflecting its rich and complex history. Földrajz K7 — városok és gazdasági központok.",
+      "factsAdvanced": [
+        "Situated at an altitude of approximately 774 meters above sea level.",
+        "Primary port for Burundi, handling most of the country's imports and exports.",
+        "Nearby attractions include the Rusizi National Park and Livingstone-Stanley Monument.",
+        "Experiencing a tropical savanna climate with distinct wet and dry seasons.",
+        "The city's development began as a small military post during the German colonial period in 1897."
+      ]
+    },
+    {
+      "id": "gitega-cities-v2",
+      "descriptionAdvanced": "Gitega is the political capital of Burundi, located in the central part of the country. It serves as the seat of the Burundian government and is known for its cultural importance and historical significance, having been the royal residence in the past. Földrajz K7 — közigazgatási központok.",
+      "factsAdvanced": [
+        "Officially designated as the political capital of Burundi in 2019.",
+        "Located in the central highlands at an elevation of about 1,504 meters.",
+        "Home to the Gitega National Museum, which houses many cultural artifacts.",
+        "Historically, it served as the seat of the Kingdom of Burundi's monarchs.",
+        "Surrounded by hilly terrain, offering significant agricultural potential for coffee."
+      ]
+    },
+    {
+      "id": "muyinga-cities-v2",
+      "descriptionAdvanced": "Muyinga is the capital of the Muyinga Province, situated in the northeastern part of Burundi. It is known for its high altitude and cool climate compared to the low-lying lake regions, and serves as an important agricultural center. Földrajz K8 — éghajlat és domborzat.",
+      "factsAdvanced": [
+        "Located at an elevation of approximately 1,731 meters above sea level.",
+        "The surrounding region is renowned for the production of coffee and legumes.",
+        "Acts as a major market town for the northern part of Burundi.",
+        "Experience a temperate highland climate, distinct from the lakeside heat.",
+        "Serves as the administrative center for one of Burundi's most populous provinces."
+      ]
+    },
+    {
+      "id": "ngozi-cities-v2",
+      "descriptionAdvanced": "Ngozi is a key town in northern Burundi, serving as the capital of the Ngozi Province. It is a bustling commercial center situated in a region heavily focused on coffee production and agricultural development. Földrajz K7 — mezőgazdasági régiók.",
+      "factsAdvanced": [
+        "Situated in the northern highlands at roughly 1,820 meters altitude.",
+        "Known for its high-quality arabica coffee plantations.",
+        "Acts as a transport and commercial crossroads for northern provinces.",
+        "Home to several educational institutions and regional health facilities.",
+        "The surrounding landscape is characterized by rolling hills and intense land cultivation."
+      ]
+    },
+    {
+      "id": "rumonge-cities-v2",
+      "descriptionAdvanced": "Rumonge is a port town on the eastern shore of Lake Tanganyika, located in the Rumonge Province of Burundi. It is a vibrant hub for the fishing industry and trade, benefiting significantly from its lakeside location. Földrajz K8 — tavak és gazdasági jelentőségük.",
+      "factsAdvanced": [
+        "Major center for artisanal fishing on Lake Tanganyika.",
+        "Capital city of the newly established Rumonge Province since 2015.",
+        "Strategically located for transport links between Bujumbura and southern regions.",
+        "Famous for palm oil production and associated processing industries.",
+        "The lakefront provides both commercial opportunities and a tourism base."
+      ]
+    }
+  ]
+}

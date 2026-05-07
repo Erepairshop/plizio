@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "july-22-square-landmarks-v2",
+      "descriptionAdvanced": "July 22nd Square, originally known as MacCarthy Square, is a large, open public plaza located in the center of Banjul. Flanked by colonial-era administrative buildings and shaded by massive, historic silk cotton trees, it serves as the primary civic gathering space in the capital. The square was renamed to commemorate the 1994 military coup, and while the political context has shifted, the physical space remains the traditional venue for significant national ceremonies, military parades, and official speeches. As a landmark, its wide-open, grassy expanse provides a rare, tranquil breathing space amidst the dense urban layout of the capital. (Social Studies K6 — civic spaces and national ceremonies)",
+      "factsAdvanced": [
+        "A massive, open public plaza located centrally in the capital city of Banjul.",
+        "Originally named MacCarthy Square during the British colonial era.",
+        "Renamed to commemorate the political events of the July 22, 1994 coup.",
+        "The primary venue for national ceremonies, military parades, and official speeches.",
+        "Surrounded by historic administrative buildings and large silk cotton trees.",
+        "Provides a rare, significant open green space within the dense capital."
+      ]
+    },
+    {
+      "id": "denton-bridge-landmarks-v2",
+      "descriptionAdvanced": "Denton Bridge is an absolutely critical infrastructural landmark that physically connects St Mary's Island—and thereby the capital city of Banjul—to the Gambian mainland. Spanning the oyster-rich waters of Oyster Creek, the bridge was named after Sir George Chardin Denton, a former British Governor. Because it is the only road access into Banjul, it constitutes one of the most vital economic and transport chokepoints in the country. The bridge area is also highly recognizable for the dense cluster of fishing trawlers, ice plants, and boatyards moored directly beneath and around it, blending heavy transport with marine industry. (Geography K6 — transport bottlenecks and estuarine geography)",
+      "factsAdvanced": [
+        "The sole road bridge connecting the island capital of Banjul to the mainland.",
+        "Spans the tidal, mangrove-lined waters of Oyster Creek.",
+        "Named after Sir George Chardin Denton, a British colonial governor.",
+        "A critical national transport and economic chokepoint.",
+        "The surrounding waters host a dense cluster of commercial fishing fleets.",
+        "A highly recognizable infrastructural landmark for all entering the capital."
+      ]
+    },
+    {
+      "id": "tanji-village-museum-landmarks-v2",
+      "descriptionAdvanced": "The Tanje Village Museum is a highly unique, immersive cultural landmark located near the bustling Tanji fishing village. Unlike traditional static museums, it is designed as a living replica of a traditional Mandinka village. Visitors walk through authentically constructed thatch-roofed huts, each dedicated to showcasing specific aspects of pre-colonial Gambian life, such as traditional weaving, blacksmithing, and spiritual practices. The museum frequently hosts live demonstrations by local artisans and griots (traditional storytellers/musicians), providing an interactive educational experience that meticulously preserves the intangible cultural heritage of the region against the tide of rapid modern urbanization. (Arts & Culture K6 — living museums and intangible heritage)",
+      "factsAdvanced": [
+        "An immersive, 'living' museum designed as a replica of a traditional Mandinka village.",
+        "Located near the active Tanji fishing port on the Atlantic coast.",
+        "Features authentically constructed thatch-roofed huts exhibiting specific local crafts.",
+        "Hosts live, interactive demonstrations of weaving, blacksmithing, and music.",
+        "Serves to protect the intangible cultural heritage of traditional Gambian society.",
+        "A highly popular educational destination for local schools and tourists."
+      ]
+    },
+    {
+      "id": "kerbatch-stone-circles-landmarks-v2",
+      "descriptionAdvanced": "The Kerbatch Stone Circles are a crucial and distinct group of megalithic monuments located on the north bank of the Gambia River. While slightly less visited than Wassu, Kerbatch is famous as a landmark for its unique 'V-shaped' or 'lyre-shaped' stone, an architectural anomaly not found in other circle complexes in the region. The site contains nine stone circles and one double circle, meticulously carved from laterite rock. Archaeological excavations here have unearthed pottery fragments, copper ornaments, and human remains, painting a vivid picture of a sophisticated, ancient agrarian society that possessed advanced stonemasonry skills long before European contact. (History K7 — archaeological excavations and ancient stonemasonry)",
+      "factsAdvanced": [
+        "Located on the north bank of the Gambia River in a remote setting.",
+        "Features nine distinct stone circles and one rare double circle.",
+        "Famous for containing a unique, meticulously carved 'V-shaped' (lyre) stone.",
+        "Part of the broader Senegambian Stone Circles UNESCO World Heritage Site.",
+        "Excavations have revealed ancient pottery, copper ornaments, and burials.",
+        "Showcases advanced pre-colonial stonemasonry and societal organization."
+      ]
+    },
+    {
+      "id": "mungo-park-memorial-landmarks-v2",
+      "descriptionAdvanced": "The Mungo Park Memorial is a stark, lonely obelisk located near the village of Karantaba on the north bank of the Gambia River. It marks the approximate location where the famous Scottish explorer Mungo Park began his ambitious, ultimately fatal expedition in 1795 to trace the course of the Niger River. The monument stands as a testament to the era of intense European geographical exploration of the African interior. While modest in size, the memorial is a highly significant landmark for historians retracing the routes of early explorers and understanding the initial, dangerous encounters between Europeans and the inland West African kingdoms. (History K8 — European exploration and historical geography)",
+      "factsAdvanced": [
+        "A modest obelisk monument located near Karantaba on the north bank.",
+        "Commemorates the starting point of Scottish explorer Mungo Park's 1795 expedition.",
+        "Marks his ambitious and ultimately fatal journey to map the Niger River.",
+        "A key historical landmark representing the era of European inland exploration.",
+        "Highlights the historical importance of the Gambia River as an exploration route.",
+        "A popular, though remote, stop for historical and geographical researchers."
+      ]
+    },
+    {
+      "id": "freedom-tree-janjanbureh-landmarks-v2",
+      "descriptionAdvanced": "The Freedom Tree, located in the historic island town of Janjanbureh (formerly Georgetown), is a deeply evocative living landmark. According to deeply held local tradition, this specific tree marked a zone of emancipation during the colonial era; any runaway slave who managed to reach and touch its trunk was automatically granted their freedom by the British authorities. While the original historic tree eventually died, a younger tree stands in its exact place today, heavily revered by locals and diaspora tourists alike. It serves as a powerful, living symbol of resistance, liberation, and the harrowing legacy of the transatlantic slave trade. (History K8 — emancipation symbols and the abolition of slavery)",
+      "factsAdvanced": [
+        "A highly evocative living landmark located on MacCarthy Island in Janjanbureh.",
+        "Traditionally believed to be a site of automatic emancipation for runaway slaves.",
+        "Slaves who reached and touched the original tree were reportedly granted freedom.",
+        "The original tree died, but a replacement stands in its exact historical location.",
+        "Serves as a powerful, tangible symbol of liberation and human resilience.",
+        "A major focal point for heritage tourism and educational field trips."
+      ]
+    },
+    {
+      "id": "african-heritage-museum-landmarks-v2",
+      "descriptionAdvanced": "The African Heritage Museum, also known as the African Heritage Centre, is an independent cultural landmark located in Bakau. Established by renowned Gambian artist and collector Isha Fofana, the museum houses an extraordinary private collection of African art, textiles, and historical artifacts gathered from across the continent. Unlike state-run institutions, this landmark is celebrated for its highly curated, artistic presentation of heritage, blending contemporary Gambian art with ancient masks and statues. It serves as a vital hub for local artists and a prominent educational space that emphasizes the shared, pan-African artistic identity rather than just localized history. (Arts & Culture K7 — pan-African art and independent curation)",
+      "factsAdvanced": [
+        "An independent, artist-run museum and gallery located in Bakau.",
+        "Founded and curated by the renowned Gambian artist Isha Fofana.",
+        "Houses a vast, highly curated private collection of pan-African art and artifacts.",
+        "Blends contemporary Gambian artistic expression with ancient historical pieces.",
+        "Acts as a vital cultural hub and exhibition space for local modern artists.",
+        "Emphasizes a broader, shared African artistic identity and heritage."
+      ]
+    },
+    {
+      "id": "sir-dawda-conference-center-landmarks-v2",
+      "descriptionAdvanced": "The Sir Dawda Kairaba Jawara International Conference Center is the most modern and prestigious architectural landmark in The Gambia's coastal zone. Located in Bijilo, this massive, state-of-the-art facility was completed in 2020 to host the Organization of Islamic Cooperation (OIC) summit. Named after the country's founding father and first President, the center features sweeping, modern glass facades and massive plenary halls capable of holding thousands of international delegates. Its construction represents a massive leap in national infrastructure, designed specifically to position The Gambia as a premier destination for high-level international diplomacy and corporate conferences in West Africa. (Economics K8 — diplomatic infrastructure and modern architecture)",
+      "factsAdvanced": [
+        "A massive, state-of-the-art international conference facility located in Bijilo.",
+        "Completed in 2020 specifically to host high-level international summits.",
+        "Named in honor of Sir Dawda Kairaba Jawara, The Gambia's first President.",
+        "Features sweeping modern glass architecture and massive, advanced plenary halls.",
+        "Designed to position the country as a major hub for West African diplomacy.",
+        "One of the largest and most expensive modern civic buildings in the nation."
+      ]
+    },
+    {
+      "id": "fort-louvel-landmarks-v2",
+      "descriptionAdvanced": "Fort Louvel is a somewhat obscure but highly significant historical landmark situated on a slight elevation within the capital city of Banjul. Built rapidly in 1831 under the direction of the British Governor, it was constructed in response to the imminent threat of an attack by the forces of the King of Barra during the Barra War. Named after a French military officer who assisted the British, the fort was essentially a defensive redoubt rather than a massive stone castle. Today, only a small monument and the base of the structure remain among the city streets, serving as a reminder of the turbulent, early colonial conflicts in the estuary. (History K7 — early colonial conflicts and the Barra War)",
+      "factsAdvanced": [
+        "Located on a slight elevation within the densely built capital of Banjul.",
+        "Constructed rapidly in 1831 during the escalating Barra War.",
+        "Built to defend the early Bathurst settlement from the King of Barra's forces.",
+        "Named after a French officer, Louvel, who assisted the British defenses.",
+        "Consisted originally of a defensive earthwork redoubt and artillery battery.",
+        "Only a modest monument and the foundational base remain visible today."
+      ]
+    },
+    {
+      "id": "albarda-historic-site-landmarks-v2",
+      "descriptionAdvanced": "Albreda is a profoundly historic village located on the north bank of the Gambia River, known globally as a landmark for its harrowing connections to the transatlantic slave trade. Established originally as a French trading post in the late 17th century, it operated as a rival enclave to the nearby British-controlled Kunta Kinteh Island (formerly James Island). The village retains significant ruins, most notably the CFAO building, a remnant of a 19th-century French trading company. Today, Albreda forms a joint UNESCO World Heritage Site with its sister village, Juffureh, drawing thousands of diaspora visitors seeking to connect with their ancestral roots. (History K8 — transatlantic slave trade and colonial outposts)",
+      "factsAdvanced": [
+        "A historic village located on the north bank of the Gambia River.",
+        "Originally established as a French trading enclave in the late 1600s.",
+        "Deeply connected to the history of the transatlantic slave trade.",
+        "Home to the historic ruins of the CFAO trading company building.",
+        "Forms part of a UNESCO World Heritage Site alongside Kunta Kinteh Island.",
+        "A major pilgrimage site for the African diaspora tracing their ancestry."
+      ]
+    },
+    {
+      "id": "juffureh-village-landmarks-v2",
+      "descriptionAdvanced": "Juffureh is a traditional Mandinka village located adjacent to Albreda on the north bank of the Gambia River. As a landmark, it gained worldwide fame following the publication of Alex Haley's novel 'Roots,' which identified the village as the birthplace of his ancestor, Kunta Kinte. This literary connection transformed the quiet farming and fishing community into a focal point for global heritage tourism. Visitors to Juffureh can still meet members of the Kinte family clan and explore the local museum dedicated to the history of slavery. The village stands as a poignant living memorial to the millions affected by the transatlantic slave trade. (History K8 — 'Roots', genealogy, and heritage tourism)",
+      "factsAdvanced": [
+        "A traditional Mandinka village on the north bank of the Gambia River.",
+        "Gained global fame as the ancestral home of Kunta Kinte from the novel 'Roots'.",
+        "A premier destination for global heritage and genealogical tourism.",
+        "Visitors can interact with modern descendants of the Kinte family.",
+        "Features a local museum detailing the impact of the transatlantic slave trade.",
+        "Designated as a key component of a UNESCO World Heritage Site."
+      ]
+    },
+    {
+      "id": "berending-crocodile-pool-landmarks-v2",
+      "descriptionAdvanced": "The Berending Sacred Crocodile Pool is a prominent natural and spiritual landmark located in the rural Nuimi district. Encircled by a ring of ancient, massive baobab trees, the pool provides a deeply atmospheric setting that is much less commercialized than its coastal counterparts. It serves as a living landmark of traditional Mandinka animist beliefs, where the resident crocodiles are revered as the physical manifestations of protective ancestral spirits. The site is a focal point for local fertility rites and prayers for good harvests, standing as an enduring symbol of indigenous spirituality surviving independently of modern tourism. (Social Studies K6 — traditional spirituality and sacred wildlife)",
+      "factsAdvanced": [
+        "A highly revered natural and spiritual landmark in the rural Nuimi district.",
+        "Encircled by a striking, atmospheric grove of ancient baobab trees.",
+        "Considerably less commercialized and visited than the Kachikally pool.",
+        "The crocodiles are revered as the physical embodiment of ancestral spirits.",
+        "A central, active location for local fertility rites and agricultural prayers.",
+        "A profound example of enduring, pre-Islamic indigenous spiritual practices."
+      ]
+    },
+    {
+      "id": "folonko-crocodile-pool-landmarks-v2",
+      "descriptionAdvanced": "Situated near the southern coastal village of Kartong, the Folonko Sacred Crocodile Pool is a vital spiritual landmark deeply embedded in the local culture. Managed by the community elders, this sacred freshwater spring is enveloped by thick coastal gallery forest. Historically, Folonko has been the central site for major life-cycle rituals, particularly traditional initiation ceremonies for young men and women from surrounding villages. The resident crocodiles are entirely revered and never harmed. Visitors to the site often witness a remarkably peaceful coexistence between the local villagers, who draw water nearby, and the formidable reptiles basking on the muddy banks. (Geography K6 — sacred ecosystems and traditional rituals)",
+      "factsAdvanced": [
+        "A highly significant sacred crocodile pool located near the village of Kartong.",
+        "Managed exclusively by the traditional elders of the local community.",
+        "Historically the central location for regional youth initiation ceremonies.",
+        "Enveloped by a thick, protected patch of coastal gallery forest.",
+        "The crocodiles are completely protected by strict traditional taboos.",
+        "Demonstrates a peaceful, long-standing coexistence between humans and apex predators."
+      ]
+    },
+    {
+      "id": "sanneh-mentering-landmarks-v2",
+      "descriptionAdvanced": "Sanneh-Mentering is a highly revered natural and historical landmark situated on the coastal cliffs near the town of Brufut. This sacred grove and rocky outcrop holds immense spiritual significance for the local Mandinka population. According to oral tradition, it has been a place of spiritual gathering, prophecy, and prayer for centuries, long predating the arrival of Islam or Christianity in the region. The site offers dramatic views over the Atlantic Ocean and remains a protected cultural zone despite the rapid encroachment of modern coastal real estate development, serving as a vital anchor to indigenous heritage. (Social Studies K6 — sacred geography and cultural preservation)",
+      "factsAdvanced": [
+        "A highly revered sacred grove and rocky outcrop located on the Brufut coast.",
+        "Holds immense, ancient spiritual significance for the local Mandinka people.",
+        "Traditionally utilized as a site for spiritual gatherings, prayers, and prophecy.",
+        "Predates the widespread adoption of Islam and Christianity in the region.",
+        "Offers dramatic, sweeping views over the Atlantic Ocean from coastal cliffs.",
+        "Remains fiercely protected by locals against encroaching coastal real estate development."
+      ]
+    },
+    {
+      "id": "kachikally-crocodile-pool-life-v2",
+      "descriptionAdvanced": "The Kachikally Crocodile Pool is a deeply revered sacred site located in the heart of Bakau. For generations, the local Bojang family has managed this natural spring, which is home to over 80 surprisingly docile Nile crocodiles. According to Mandinka tradition, the water holds powerful spiritual properties, particularly for women seeking blessings for fertility. Visitors are famously allowed to gently touch the well-fed crocodiles under the strict supervision of the guides. The site also features a small, excellent ethnographic museum displaying traditional musical instruments, griot artifacts, and historical photographs, seamlessly blending wildlife with deep-rooted cultural history. (Social Studies K6 — traditional beliefs and sacred sites)",
+      "factsAdvanced": [
+        "A sacred, natural freshwater spring located in the coastal town of Bakau.",
+        "Home to a population of over 80 surprisingly docile Nile crocodiles.",
+        "Managed for generations by the traditional Bojang family lineage.",
+        "The water is historically believed to possess powerful fertility blessings.",
+        "Features a highly regarded ethnographic museum detailing local history.",
+        "A unique site blending traditional spiritual practices with wildlife tourism."
+      ]
+    },
+    {
+      "id": "folonko-sacred-crocodile-pool-life-v2",
+      "descriptionAdvanced": "Situated near the southern coastal village of Kartong, the Folonko Crocodile Pool is a vital spiritual site deeply embedded in the local culture. Managed by the community elders, this sacred freshwater spring is enveloped by thick coastal gallery forest. Historically, Folonko has been the central site for major life-cycle rituals, particularly traditional initiation ceremonies for young men and women from surrounding villages. The resident crocodiles are entirely revered and never harmed. Visitors to the site often witness a remarkably peaceful coexistence between the local villagers, who draw water nearby, and the formidable reptiles basking on the muddy banks. (Geography K6 — sacred ecosystems and traditional rituals)",
+      "factsAdvanced": [
+        "A highly significant sacred crocodile pool located near the village of Kartong.",
+        "Managed exclusively by the traditional elders of the local community.",
+        "Historically the central location for regional youth initiation ceremonies.",
+        "Enveloped by a thick, protected patch of coastal gallery forest.",
+        "The crocodiles are completely protected by strict traditional taboos.",
+        "Demonstrates a peaceful, long-standing coexistence between humans and apex predators."
+      ]
+    },
+    {
+      "id": "berending-crocodile-pool-life-v2",
+      "descriptionAdvanced": "The Berending Crocodile Pool is one of the three major sacred crocodile pools in The Gambia, located in the rural Nuimi district on the north bank of the river. While less commercially developed than Kachikally, it holds immense spiritual significance for the local Mandinka population. The site is surrounded by dense, ancient baobab trees that contribute to its mystical atmosphere. According to local lore, the pool is inhabited by powerful ancestral spirits, and the crocodiles are considered sacred guardians. Residents frequently visit the pool to seek blessings, offer prayers for agricultural prosperity, and participate in traditional rites untouched by mass tourism. (Social Studies K6 — traditional spirituality and sacred wildlife)",
+      "factsAdvanced": [
+        "One of the three highly revered sacred crocodile pools in The Gambia.",
+        "Located in the rural Nuimi district on the north bank of the river.",
+        "Significantly less affected by mass tourism compared to Kachikally in Bakau.",
+        "Surrounded by a dense, ancient grove of culturally significant baobab trees.",
+        "The crocodiles are considered manifestations or guardians of ancestral spirits.",
+        "Frequently used by locals for private traditional prayers and fertility rites."
+      ]
+    },
+    {
+      "id": "makasutu-cultural-forest-life-v2",
+      "descriptionAdvanced": "The Makasutu Cultural Forest is an internationally acclaimed eco-tourism destination located near Brikama. Spanning over 1,000 acres, this privately managed reserve brilliantly integrates wildlife conservation with local cultural education. The forest encompasses five distinct ecosystems, including dense mangroves, savanna, and palm forests, hosting a wide array of birdlife and a massive troop of baboons. What truly sets Makasutu apart is its deep integration of local life; visitors can interact with traditional palm wine tappers, local woodcarvers, and observe traditional dancing within the forest. It represents a highly successful model of sustainable tourism empowering local communities. (Science K7 — eco-tourism and ecosystem diversity)",
+      "factsAdvanced": [
+        "An internationally acclaimed, privately managed 1,000-acre eco-tourism reserve.",
+        "Located near the town of Brikama along a meandering river tributary.",
+        "Encompasses five distinct ecosystems including mangroves and savanna.",
+        "Integrates wildlife viewing with deep immersion into local traditional life.",
+        "Employs and supports traditional palm wine tappers, carvers, and guides.",
+        "Considered a premier, highly successful model of sustainable West African eco-tourism."
+      ]
+    },
+    {
+      "id": "bakau-botanical-garden-life-v2",
+      "descriptionAdvanced": "The Bakau Botanical Garden, established during the British colonial era in 1924, is a quiet, shaded oasis situated on the coastal cliffs overlooking the Atlantic Ocean. While somewhat diminished from its original grandeur, the garden remains a vital green space within the urbanized coast. It features a diverse collection of massive, mature indigenous trees, tropical palms, and imported ornamental plants. The garden serves not only as a scenic retreat but also functions as a quiet sanctuary for numerous bird species. It remains a popular, tranquil spot for local students, botanists, and tourists escaping the heat of the nearby markets. (Science K6 — botany and urban green spaces)",
+      "factsAdvanced": [
+        "Established by the British colonial administration in 1924.",
+        "Located on a prominent, breezy coastal cliff in the town of Bakau.",
+        "Features a dense collection of mature indigenous trees and imported tropical flora.",
+        "Provides a critical, shaded green oasis within the heavily urbanized coast.",
+        "Functions as a quiet sanctuary for various local bird species.",
+        "Frequently utilized as a tranquil study area for local students and nature lovers."
+      ]
+    },
+    {
+      "id": "kartong-reptile-farm-life-v2",
+      "descriptionAdvanced": "The Kartong Reptile Farm is a unique and vital educational facility located in the extreme south of The Gambia. Founded primarily to reduce human-wildlife conflict, the farm serves as a sanctuary and breeding center for dozens of species of indigenous snakes, lizards, and tortoises. In rural Gambia, snakes are routinely killed on sight due to fear. The farm works tirelessly to educate locals and tourists about the ecological importance of reptiles, particularly in controlling rodent populations that threaten crops. Visitors receive hands-on education, making it a critical grassroots conservation project shifting cultural attitudes towards misunderstood wildlife. (Science K6 — wildlife conservation and herpetology)",
+      "factsAdvanced": [
+        "A specialized wildlife sanctuary and educational facility located in Kartong.",
+        "Dedicated to the conservation and study of indigenous West African reptiles.",
+        "Founded specifically to mitigate intense human-wildlife conflict and fear.",
+        "Educates locals on the ecological value of snakes in controlling crop pests.",
+        "Houses dozens of species including pythons, cobras, lizards, and tortoises.",
+        "Provides highly interactive, hands-on environmental education for visitors."
+      ]
+    }
+  ]
+}

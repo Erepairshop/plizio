@@ -2661,7 +2661,7 @@ export const romaniaCities: POI[] = [
   },
   {
     id: "city-village-museum", type: "city", parent: "RO-B", coords: [26.0764, 44.4719],
-    name: { de: "Nationales Dorfmuseum", hu: "Nemzeti Falumúzeum", ro: "Muzeul Na?ional al Satului "Dimitrie Gusti"", en: "Dimitrie Gusti National Village Museum" },
+    name: { de: "Nationales Dorfmuseum", hu: "Nemzeti Falumúzeum", ro: "Muzeul Na?ional al Satului \"Dimitrie Gusti\"", en: "Dimitrie Gusti National Village Museum" },
     description: { de: "Freilichtmuseum mit traditionellen rumänischen Bauernhäusern.", hu: "Szabadtéri múzeum hagyományos román parasztházakkal.", ro: "Muzeu în aer liber care prezinta gospodarii tradi?ionale române?ti.", en: "Open-air museum showcasing traditional Romanian peasant households." },
     facts: { de: ["Gegründet 1936.", "Über 300 authentische Gebäude.", "Liegt im Herastrau-Park."], hu: ["1936-ban alapították.", "Több mint 300 eredeti épület.", "A Herastrau-parkban található."], ro: ["Fondat în 1936.", "Peste 300 de construc?ii autentice.", "Situat în Parcul Herastrau."], en: ["Founded in 1936.", "Over 300 authentic buildings.", "Located in Herastrau Park."] },
     image: "/geo-images/romania/city-village-museum.webp",

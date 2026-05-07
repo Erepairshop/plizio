@@ -1,0 +1,332 @@
+
+{
+  "lang": "en",
+  "country": "croatia",
+  "files": ["lib/visualLab/data/croatiaPoi.ts"],
+  "items": [
+    {
+      "id": "hr-country",
+      "descriptionAdvanced": {
+        "en": "Croatia, a jewel of the Adriatic, stands at the crossroads of Central and Southeast Europe. Its stunning coastline, dotted with over a thousand islands, offers a dramatic landscape of clear turquoise waters and historic port towns. The country's interior is just as diverse, featuring the fertile Pannonian plains, the dense forests of the Dinaric Alps, and the world-renowned Plitvice Lakes National Park with its cascading waterfalls. Croatia's rich history is a tapestry woven from Roman, Venetian, and Austro-Hungarian influences, evident in the magnificent Diocletian's Palace in Split and the medieval walls of Dubrovnik. As a modern nation and a member of the European Union, it masterfully blends its deep cultural heritage with a vibrant, contemporary lifestyle, making it one of Europe's most sought-after and visually spectacular travel destinations. Its culinary scene is a delightful mix of fresh Mediterranean seafood and hearty continental dishes."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The Roman amphitheater in Pula is one of the six largest and best-preserved in the world.",
+          "The cravat, the forerunner of the modern necktie, originated from 17th-century Croatian mercenaries.",
+          "Zlatni Rat beach on the island of Brač is famous for its distinctive shape, which changes with the wind and currents.",
+          "Croatia is home to Hum, officially the smallest town in the world, with a population of around 30.",
+          "The inventor of the mechanical pencil, Slavoljub Penkala, was from Zagreb.",
+          "Diocletian's Palace in Split is not a museum but a living part of the city's old town where people reside.",
+          "The Dalmatian dog breed is named after the historic region of Dalmatia.",
+          "Mljet National Park features two interconnected saltwater lakes that are a unique geological phenomenon."
+        ]
+      }
+    },
+    {
+      "id": "hr-zagreb",
+      "descriptionAdvanced": {
+        "en": "Zagreb, Croatia's vibrant capital, is a captivating city of contrasts, where the grandeur of Austro-Hungarian architecture meets a lively, Mediterranean-style outdoor culture. Divided into the historic Upper Town (Gornji Grad) and the bustling Lower Town (Donji Grad), it offers a wealth of museums, galleries, and historic sites. The Upper Town is home to the iconic St. Mark's Church with its colorful tiled roof and the medieval Lotrščak Tower. In the Lower Town, a series of grand parks known as the Lenuci Horseshoe provides green oases amidst 19th-century buildings and trendy cafes. Zagreb is famously known as the 'city of museums,' hosting unique institutions like the Museum of Broken Relationships alongside classical art galleries. Its street life is centered around the bustling Dolac Market and the countless terraces of Tkalčićeva Street, making it the true cultural heart of the country."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Zagreb's funicular is one of the shortest in the world, connecting the Lower and Upper Towns in just 64 seconds.",
+          "The city's cathedral, with its two 108-meter spires, is the tallest building in Croatia.",
+          "The Grič cannon, located in the Lotrščak Tower, has been fired every day at noon since 1877.",
+          "Zagreb is home to the world's first Museum of Broken Relationships, exhibiting personal objects and stories.",
+          "The city's Christmas market, Advent in Zagreb, has been voted the 'Best Christmas Market in Europe' for multiple consecutive years.",
+          "Maksimir Park, one of the oldest public parks in Europe, opened in 1794 and hosts the Zagreb Zoo.",
+          "The city's water supply system, designed in the 19th century, is still largely in use today.",
+          "The 'Licitar Heart', a colorfully decorated gingerbread cookie, is a traditional symbol of Zagreb."
+        ]
+      }
+    },
+    {
+      "id": "hr-split",
+      "descriptionAdvanced": {
+        "en": "Split, the second-largest city in Croatia, is a dynamic coastal hub that famously grew out of the massive retirement palace of the Roman Emperor Diocletian. This UNESCO World Heritage site is not a ruin but a living monument, where ancient stone walls and cellars house modern shops, bustling cafes, and residential homes. The palm-lined Riva promenade serves as the city's vibrant social lounge, offering stunning views of the Adriatic and ferries heading to nearby islands. Within the palace walls, a labyrinth of marble-paved streets leads to the central Peristyle square and the Cathedral of Saint Domnius, which was originally the emperor's mausoleum. Split is also a primary gateway for island-hopping adventures to Hvar, Brač, and Vis. The nearby Marjan Hill provides a lush forest park, perfect for hiking and enjoying panoramic vistas over the terracotta rooftops and azure sea."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Approximately 3,000 people still live within the ancient walls of Diocletian's Palace.",
+          "The Cathedral of Saint Domnius is built upon the mausoleum of an emperor who was a notorious persecutor of Christians.",
+          "The traditional ball game of Picigin, played in the shallow waters of Bačvice beach, originated in Split.",
+          "The ancient Egyptian sphinxes that guard the palace are over 3,500 years old, brought from Luxor by Diocletian.",
+          "Split served as the primary filming location for the city of Meereen in the acclaimed TV series 'Game of Thrones'.",
+          "The city's underground cellars (Podrumi) are one of the best-preserved ancient complexes of their kind in the world.",
+          "The statue of Gregory of Nin features a toe that has been polished to a shine by passersby rubbing it for good luck.",
+          "The fish market (Peškarija) is uniquely located indoors in a historic Secession-style building."
+        ]
+      }
+    },
+    {
+      "id": "hr-dubrovnik",
+      "descriptionAdvanced": {
+        "en": "Dubrovnik, the 'Pearl of the Adriatic,' is a breathtaking medieval walled city that stands as a powerful symbol of maritime power and historic resilience. Its massive stone walls, stretching for nearly two kilometers, completely encircle the Old Town and offer some of the most spectacular defensive architecture in Europe. The main thoroughfare, the Stradun, is paved with polished limestone that gleams under the sun, lined with elegant Baroque buildings and historic fountains. Visitors can explore landmarks like the Rector's Palace, the Onofrio Fountain, and a Franciscan Monastery that houses one of the world's oldest pharmacies. Dubrovnik's unique blend of Gothic, Renaissance, and Baroque styles has earned it a well-deserved spot on the UNESCO World Heritage list. Beyond the walls, the sparkling Adriatic Sea invites exploration of the nearby Elafiti Islands, while a cable car ride up Mount Srđ provides an unforgettable panoramic sunset view."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The Republic of Ragusa (Dubrovnik) was one of the first states in the world to officially recognize the independence of the United States in 1783.",
+          "The city's formidable walls have never been breached by a hostile army in their entire history.",
+          "The pharmacy inside the Franciscan Monastery has been in continuous operation since its founding in the year 1317.",
+          "Dubrovnik was the primary filming location for King's Landing, the capital city in the 'Game of Thrones' series.",
+          "The city officially abolished the slave trade in 1416, becoming one of the first European states to do so.",
+          "The old town has a specific regulation requiring all window shutters to be painted in a particular shade of green, known as 'Dubrovnik green'.",
+          "Fort Lovrijenac, known as 'Dubrovnik's Gibraltar', carries the inscription 'Freedom is not sold for all the gold in the world'.",
+          "The city's water supply system, including the Onofrio Fountain, was an advanced engineering feat for the 15th century."
+        ]
+      }
+    },
+    {
+      "id": "hr-plitvice",
+      "descriptionAdvanced": {
+        "en": "Plitvice Lakes National Park is a world-renowned natural wonder and Croatia's oldest national park, established in 1949 and granted UNESCO World Heritage status in 1979. This spectacular landscape consists of 16 interconnected lakes arranged in cascades, separated by natural travertine dams that are constantly being formed by biochemical processes. The lakes are famous for their vibrant, ever-shifting colors, which range from crystal-clear turquoise to deep emerald green, depending on the sunlight and mineral content of the water. An extensive network of wooden walkways and hiking trails allows visitors to walk directly over the rushing water and past dozens of thunderous waterfalls. The park is divided into the Upper Lakes, which are larger and nestled in a dense forest, and the Lower Lakes, situated in a dramatic limestone canyon. As a sanctuary for rare wildlife like brown bears and wolves, Plitvice offers an unforgettable experience of pristine nature."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The travertine barriers that separate the lakes are formed by a unique interaction of moss, algae, and bacteria, and grow at a rate of about 1 cm per year.",
+          "Veliki Slap, or the Great Waterfall, is the highest waterfall in Croatia, plunging 78 meters into the lower canyon.",
+          "To protect the delicate ecosystem and the ongoing formation of travertine, swimming is strictly forbidden in all of the lakes.",
+          "The park's appearance changes dramatically with the seasons, from a wonderland of frozen cascades in winter to a lush green paradise in summer.",
+          "Plitvice was a key filming location for several popular German Western films based on the Winnetou adventure novels of Karl May in the 1960s.",
+          "The park is home to over 1,400 species and subspecies of plants, including 55 different species of orchids.",
+          "The karst geology of the area has created numerous caves, though most are not open to the public.",
+          "An electric boat and a panoramic 'train' (bus) system are used to transport visitors, minimizing environmental impact."
+        ]
+      }
+    },
+    {
+      "id": "hr-hvar",
+      "descriptionAdvanced": {
+        "en": "Hvar is widely celebrated as Croatia's sunniest and most glamorous island, renowned for its upscale atmosphere, rich history, and vibrant nightlife. The main town of Hvar features a stunning Venetian-style harbor, grand palaces, and the imposing Fortica fortress, which offers panoramic views of the town and the nearby Pakleni Islands. Beyond the glitz, the island is a sanctuary of natural beauty, characterized by vast fields of fragrant lavender, ancient olive groves, and terraced vineyards. The Stari Grad Plain, a UNESCO World Heritage site, showcases an ancient Greek land division system that has remained remarkably intact for over 2,400 years. Visitors can discover hidden pebble coves with crystal-clear water or explore charming stone villages like Vrboska and Jelsa. Hvar masterfully balances luxury tourism with a deep-rooted cultural heritage and a relaxed Mediterranean lifestyle."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Hvar is the sunniest island in Croatia, receiving an average of over 2,700 hours of sunshine each year.",
+          "The Public Theater in Hvar town, established in 1612, is the oldest communal theater in all of Europe.",
+          "Local Benedictine nuns are famous for making intricate lace from the fibers of agave plants, a unique island tradition.",
+          "The Stari Grad Plain is the best-preserved example of ancient Greek agricultural landscape in the entire Mediterranean.",
+          "The island's Ivan Dolac and Sveta Nedjelja regions produce some of Croatia's most prestigious red wines from the Plavac Mali grape.",
+          "Before tourism, the island's economy was primarily based on the cultivation of lavender and the production of lavender oil.",
+          "The Pakleni Islands are not named after 'hell' (pakao), but after 'paklina', a type of pine resin once used for shipbuilding.",
+          "The island was an important naval base for the Venetian Empire for several centuries."
+        ]
+      }
+    },
+    {
+      "id": "hr-pula",
+      "descriptionAdvanced": {
+        "en": "Pula is a historic port city on the southern tip of the Istrian Peninsula, most famous for its remarkably well-preserved Roman ruins. The centerpiece is the Pula Arena, one of the six largest surviving Roman amphitheaters in the world and the only one to have all four side towers entirely preserved. Walking through the city feels like an open-air museum, with sites like the Temple of Augustus, the Arch of the Sergii, and the ancient Gate of Hercules integrated into modern streetscapes. Pula also served as the primary naval base for the Austro-Hungarian Empire, a legacy visible in its massive shipyard and coastal fortifications. The surrounding coastline offers beautiful beaches and the nearby Brijuni National Park, once the private retreat of President Tito. Today, Pula is a vibrant cultural hub that hosts international film festivals and concerts within its ancient stone walls."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The Pula Arena was originally built to host gladiatorial contests and could accommodate up to 23,000 spectators.",
+          "During its time as the main port for the Austro-Hungarian Navy, Pula had a massive network of underground tunnels for defense and storage.",
+          "The city's 'Lighting Giants' are a modern art installation where shipyard cranes are illuminated in a spectacular light show at night.",
+          "The Temple of Augustus on the ancient Roman Forum is one of the best-preserved Roman temples outside of Italy.",
+          "Pula is the site of the oldest film festival in Croatia, which has been held annually in the Arena since 1954.",
+          "The city's aquarium is uniquely housed in a 130-year-old Austro-Hungarian fortress on the Verudela peninsula.",
+          "The Arch of the Sergii was a private commission by Salvia Postuma Sergia to honor three male members of her family.",
+          "Pula's history dates back over 3,000 years, with legends linking its founding to the Colchians in pursuit of the Golden Fleece."
+        ]
+      }
+    },
+    {
+      "id": "hr-rovinj",
+      "descriptionAdvanced": {
+        "en": "Rovinj is often cited as the most romantic and picturesque town in Croatia, with its pastel-colored houses crowded onto a peninsula that was once an island. Narrow, winding cobblestone streets lead up to the hilltop Church of St. Euphemia, whose 60-meter-high bell tower is modeled after St. Mark's Campanile in Venice. The town's Venetian heritage is evident in its architecture, stone portals, and the bilingual signs in Croatian and Italian. Rovinj remains an active fishing port, and visitors can watch traditional 'batana' boats bobbing in the harbor as the day's catch is brought ashore. The surrounding archipelago of 14 islands and the lush Golden Cape (Zlatni Rt) forest park offer endless opportunities for swimming, cycling, and relaxation. With its vibrant art scene and high-end gastronomy, Rovinj is a premier destination for those seeking Mediterranean charm at its finest."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The historic old town of Rovinj was an island until 1763, when the narrow channel separating it from the mainland was filled in.",
+          "The copper statue of St. Euphemia on top of the bell tower acts as a weather vane, rotating to show the direction of the wind.",
+          "The town is officially bilingual, with both Croatian and Italian recognized, reflecting its deep historical ties to Venice.",
+          "Grisia Street is famous for its annual open-air art exhibition, where artists from all over display their works on the stone walls.",
+          "The Batana Eco-museum is dedicated to the traditional flat-bottomed fishing boat, a symbol of the town's maritime heritage.",
+          "The Golden Cape Forest Park was established by the Austro-Hungarian industrialist Georg von Hütterott in the late 19th century.",
+          "The archipelago in front of Rovinj consists of 22 islands and islets, with St. Andrew's and St. Catherine's being the largest.",
+          "The Balbi's Arch, the main entrance to the old town, features a carved Venetian lion."
+        ]
+      }
+    },
+    {
+      "id": "hr-krka",
+      "descriptionAdvanced": {
+        "en": "Krka National Park is a breathtaking natural sanctuary located along the Krka River in central Dalmatia, celebrated for its seven stunning travertine waterfalls. The most iconic of these is Skradinski Buk, a massive natural pool where water cascades over 17 steps of limestone barriers into a large, clear pool. A key distinction from Plitvice Lakes is the park's cultural and historical heritage, including the serene Visovac Island, home to a 15th-century Franciscan monastery nestled in the middle of a lake-like expansion of the river. Exploring the park involves walking along extensive wooden boardwalks that wind through lush vegetation and over emerald-green waters. Krka is not only a natural wonder but also a site of industrial history, housing the remains of one of the world's first hydroelectric power plants, which began operating in 1895."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The Jaruga Hydroelectric Power Plant at Krka was the first commercial AC power plant in Europe, becoming operational just two days after the one at Niagara Falls.",
+          "Visovac Island's monastery library contains a rare and valuable illustrated copy of Aesop's fables, printed in 1487 in Brescia.",
+          "The park's travertine barriers are living, dynamic structures that grow at a rate of about 1 to 3 centimeters per year.",
+          "Krka is home to the second-highest density of lavender per square kilometer in Europe, contributing to the area's unique, fragrant air.",
+          "The Roman military camp of Burnum, featuring the only Roman military amphitheater in Croatia, is located within the park's boundaries.",
+          "The park is a haven for ornithologists, with over 220 species of birds recorded, making it one of the most valuable bird habitats in Europe.",
+          "The ancient watermills at Skradinski Buk have been restored and demonstrate traditional methods of grinding grain.",
+          "The highest waterfall in the park is Manojlovac, with a total drop of nearly 60 meters."
+        ]
+      }
+    },
+    {
+      "id": "city-rijeka",
+      "descriptionAdvanced": {
+        "en": "Rijeka is Croatia's largest port, a city with a complex, multi-layered history shaped by its strategic position between various empires. Known for its industrial heritage and gritty urban charm, the city underwent a significant cultural renaissance as the European Capital of Culture in 2020. The central promenade, Korzo, is the heart of social life, lined with grand buildings that reflect the city's prosperous era under Austro-Hungarian rule. High above the city, the Trsat Castle offers a historic fortress and a major pilgrimage site with panoramic views of the Kvarner Gulf. Rijeka is also home to one of Europe's largest and most vibrant carnivals, a raucous event that draws thousands of participants in colorful masks each winter. As a gateway to the Kvarner islands, it uniquely combines a busy maritime atmosphere with a burgeoning alternative art scene."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Rijeka was the birthplace of the world's first torpedo, invented by Giovanni Luppis and developed by Robert Whitehead in the 1860s.",
+          "Due to its strategic importance, the city has been part of ten different countries or political entities over the last century.",
+          "Rijeka's Carnival is the largest in Croatia and is often ranked among the top carnivals in Europe for its size and unique traditions.",
+          "The Peek&Poke Museum in Rijeka houses one of the largest collections of vintage computers and gaming consoles in the region.",
+          "Trsat Castle, a 13th-century fortress, is built on the site of an ancient Roman lookout and features a church that has been a pilgrimage destination for over 700 years.",
+          "The city's main market is housed in two ornate Art Nouveau pavilions and a separate fish market hall, all architectural gems.",
+          "Rijeka was declared a 'corpus separatum', a special autonomous body under the direct rule of the Hungarian Crown from 1779.",
+          "The Croatian National Theatre Ivan pl. Zajc is a magnificent building designed by the famous Viennese architects Fellner & Helmer."
+        ]
+      }
+    },
+    {
+      "id": "cult-diocletian",
+      "descriptionAdvanced": {
+        "en": "Diocletian's Palace is one of the most significant and best-preserved monuments of Roman architecture in the world, built by Emperor Diocletian as his lavish retirement residence in AD 305. Located in the heart of modern Split, this UNESCO World Heritage site is unique because it is not a sterile museum but a living, breathing part of the city where people still reside and conduct business. The massive complex ingeniously combines the features of a luxurious imperial villa with those of a fortified Roman military camp (castrum). Its centerpiece is the Peristyle, a ceremonial court surrounded by granite columns, which leads to the Cathedral of St. Domnius, originally the emperor's mausoleum. The palace's vast underground cellars, or Podrumi, are incredibly well-preserved and offer a glimpse into the original layout of the imperial apartments above, representing a seamless blend of ancient history and contemporary urban life."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The palace was constructed using high-quality white limestone from the nearby island of Brač and marble imported from Italy and Greece.",
+          "Emperor Diocletian imported twelve ancient Egyptian sphinxes to decorate his palace, some of which are over 3,500 years old.",
+          "The Cathedral of St. Domnius is considered the oldest Catholic cathedral in the world that remains in use in its original structure.",
+          "The palace's extensive basement halls were used as a primary filming location for Daenerys Targaryen's dragon throne room in 'Game of Thrones'.",
+          "The four main gates of the palace—Golden, Silver, Iron, and Bronze—were named according to their original military and ceremonial functions.",
+          "The Vestibule, a grand circular hall, was the formal entrance to the imperial apartments and is known for its excellent acoustics, often used by Klapa singers.",
+          "After the fall of Salona in the 7th century, refugees adapted the palace into a fortified town, which evolved into modern Split.",
+          "The palace complex covers an area of about 31,000 square meters (around 7.6 acres)."
+        ]
+      }
+    },
+    {
+      "id": "cult-dubrovnik-walls",
+      "descriptionAdvanced": {
+        "en": "The city walls of Dubrovnik are a world-class example of medieval fortification, standing as the primary symbol of the city's historic independence and extraordinary resilience. Constructed and strengthened between the 12th and 17th centuries, these massive stone barriers stretch for an uninterrupted 1,940 meters, completely encircling the Old Town. The walls vary in thickness, reaching up to six meters on the landward side to withstand sieges, and are punctuated by a series of imposing forts, towers, and bastions. Walking the full circuit of the walls offers unparalleled views of the glistening Adriatic Sea on one side and the maze of red-tiled roofs and narrow alleys on the other. Key defensive points along the walk include the circular Minčeta Tower, the highest point of the walls, and the formidable Bokar Fortress. These walls have survived numerous earthquakes and conflicts, remaining one of the most popular and awe-inspiring historic sites in the Mediterranean."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The walls of Dubrovnik have famously never been breached by a hostile invading force since their completion in the 16th century.",
+          "In some places, the walls reach a height of 25 meters (82 feet), providing a formidable defense against both land and sea attacks.",
+          "The construction and maintenance of the walls were financed largely by the Republic of Ragusa's successful maritime trade and salt production.",
+          "Fort Lovrijenac, often called 'Dubrovnik's Gibraltar,' is a detached fortress built on a 37-meter high cliff, bearing the inscription 'Freedom is not sold for all the gold in the world'.",
+          "The walls featured prominently in the HBO series 'Game of Thrones' as the main setting for the defenses of King's Landing.",
+          "The system includes three circular and 14 quadrangular towers, five bastions, two angular fortifications and the large St. John's Fortress.",
+          "The landward side of the wall is protected by an additional sloping wall as a defense against cannon fire.",
+          "The architect Michelozzo, who also worked for the Medici family in Florence, contributed to the design of the Minčeta Tower."
+        ]
+      }
+    },
+    {
+      "id": "cult-trogir",
+      "descriptionAdvanced": {
+        "en": "The Old Town of Trogir is a remarkable UNESCO-protected gem, an entire 'city-museum' situated on a small island between the Croatian mainland and the island of Čiovo. This beautifully preserved town is celebrated for its high concentration of Romanesque, Gothic, Renaissance, and Baroque architecture, reflecting its long history under Greek, Roman, and Venetian rule. Its most significant monument is the Cathedral of St. Lawrence, which features the world-famous Radovan's Portal, a masterpiece of Romanesque stone carving from the 13th century. Exploring Trogir's labyrinthine stone streets reveals hidden courtyards, elegant palaces, and historic churches at every turn. The town is also defended by the imposing 15th-century Kamerlengo Fortress, which stands at the end of a beautiful palm-lined waterfront promenade. Trogir's intact medieval core and its relaxed Mediterranean atmosphere make it one of the most enchanting coastal destinations in Dalmatia."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Trogir was founded by Greek colonists from the island of Vis in the 3rd century BC, originally named Tragurion (Goat Island).",
+          "The portal of Trogir's cathedral, carved by Master Radovan, is considered the finest example of Romanesque-Gothic sculpture in Croatia.",
+          "The entire historic center of Trogir was designated as a UNESCO World Heritage site in 1997 for its exceptional Venetian-era architecture.",
+          "Trogir is home to one of Europe's oldest pharmacies, with a documented founding date of October 29th, 1271.",
+          "The Kamerlengo Fortress was built by the Republic of Venice and now serves as a venue for summer concerts and performances.",
+          "The town was a filming location for the popular TV shows 'Game of Thrones' (as the city of Qarth) and 'Doctor Who'.",
+          "The Cipiko Palace, opposite the cathedral, is a complex of buildings created by combining several Romanesque structures.",
+          "Trogir is connected to the mainland and the larger Čiovo island by bridges, making it easily accessible."
+        ]
+      }
+    },
+    {
+      "id": "nat-plitvice",
+      "descriptionAdvanced": {
+        "en": "Plitvice Lakes National Park is a world-renowned natural wonder and Croatia's oldest national park, established in 1949 and granted UNESCO World Heritage status in 1979. This spectacular landscape consists of 16 interconnected lakes arranged in cascades, separated by natural travertine dams that are constantly being formed by biochemical processes. The lakes are famous for their vibrant, ever-shifting colors, which range from crystal-clear turquoise to deep emerald green, depending on the sunlight and mineral content of the water. An extensive network of wooden walkways and hiking trails allows visitors to walk directly over the rushing water and past dozens of thunderous waterfalls. The park is divided into the Upper Lakes, which are larger and nestled in a dense forest, and the Lower Lakes, situated in a dramatic limestone canyon. As a sanctuary for rare wildlife like brown bears and wolves, Plitvice offers an unforgettable experience of pristine nature."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The travertine barriers that separate the lakes are formed by a unique interaction of moss, algae, and bacteria, and grow at a rate of about 1 cm per year.",
+          "Veliki Slap, or the Great Waterfall, is the highest waterfall in Croatia, plunging 78 meters into the lower canyon.",
+          "To protect the delicate ecosystem and the ongoing formation of travertine, swimming is strictly forbidden in all of the lakes.",
+          "The park's appearance changes dramatically with the seasons, from a wonderland of frozen cascades in winter to a lush green paradise in summer.",
+          "Plitvice was a key filming location for several popular German Western films based on the Winnetou adventure novels of Karl May in the 1960s.",
+          "The park is home to over 1,400 species and subspecies of plants, including 55 different species of orchids.",
+          "The karst geology of the area has created numerous caves, though most are not open to the public.",
+          "An electric boat and a panoramic 'train' (bus) system are used to transport visitors, minimizing environmental impact."
+        ]
+      }
+    },
+    {
+      "id": "nat-kornati",
+      "descriptionAdvanced": {
+        "en": "Kornati National Park is a breathtaking archipelago in the central part of the Croatian Adriatic, often described as a 'nautical paradise' for its 89 officially protected islands, islets, and reefs. The landscape is strikingly stark and rocky, with almost no permanent settlements and sparse vegetation, giving it a unique, moon-like appearance. The most famous features of the park are its 'crowns' (klobučar)—massive vertical cliffs that plunge directly from the islands into the deep blue sea, with some reaching heights of over 80 meters. Below the surface, the park protects a rich and diverse marine ecosystem that is a favorite among divers and snorkelers. Exploring the Kornati is best done by boat, navigating the labyrinth of channels and stopping at secluded bays where small seasonal restaurants serve fresh local seafood. This ruggedly beautiful park is a testament to the raw power of nature and the enduring spirit of the Mediterranean."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The Kornati archipelago is the densest group of islands in the Mediterranean Sea, with about 140 islands packed into a small area.",
+          "The islands have no permanent residents and no natural sources of fresh water, making them a true wilderness area.",
+          "George Bernard Shaw famously wrote: 'On the last day of Creation, God desired to crown His work, and thus created the Kornati Islands out of tears, stars and breath.'",
+          "The islands are covered in hundreds of kilometers of ancient dry-stone walls, painstakingly built by shepherds to mark pasture boundaries.",
+          "The name Kornati is derived from the Latin word 'corona,' meaning crown, referring to the dramatic vertical cliffs on the outer islands.",
+          "The Byzantine-era Tureta Fortress on the main island of Kornat is the most significant ancient structure in the park.",
+          "The park's marine life includes a high density of fish, corals, and sponges, making it a premier diving destination.",
+          "The area was declared a national park in 1980 to protect its unique landscape and marine ecosystem."
+        ]
+      }
+    },
+    {
+      "id": "nat-brijuni",
+      "descriptionAdvanced": {
+        "en": "Brijuni National Park is an extraordinary group of 14 islands off the coast of Istria, blending pristine natural beauty with a fascinating political and archaeological history. The largest island, Veliki Brijun, is a meticulously landscaped parkland where lush meadows meet ancient forests of oak and laurel. Brijuni is famous for its diverse attractions, including over 200 fossilized dinosaur footprints and remarkably well-preserved Roman villa ruins from the 1st century AD. The islands gained international fame in the 20th century as the official summer residence of Yugoslav President Josip Broz Tito, who hosted a multitude of world leaders and celebrities here. A unique Safari Park on the island is home to exotic animals like elephants, zebras, and llamas, many of which were gifts to Tito from foreign dignitaries. With its unique blend of Mediterranean flora, ancient history, and 20th-century diplomacy, Brijuni offers a multi-layered experience unlike any other in Croatia."
+      },
+      "factsAdvanced": {
+        "en": [
+          "The numerous dinosaur footprints found on Brijuni date back to the Cretaceous period, approximately 125 million years ago.",
+          "Veliki Brijun is home to one of the oldest olive trees in the Mediterranean, which is over 1,600 years old and still produces fruit for oil.",
+          "Tito's dark green 1953 Cadillac Eldorado, a gift from the people of Croatia, is still on the island and can be rented for tours.",
+          "The islands were an exclusive health resort for the European elite in the late 19th and early 20th centuries, developed by Austrian industrialist Paul Kupelwieser.",
+          "Brijuni was where the Brioni Agreement was signed in 1956 by Tito, Nasser, and Nehru, laying the foundations for the Non-Aligned Movement.",
+          "The park includes a golf course that was established in 1922, known for its natural setting.",
+          "There are no snakes on the islands, a fact attributed to the introduction of mongooses in the early 20th century.",
+          "A well-preserved Roman villa with ornamental mosaics and a private thermal bath can be explored in Verige Bay."
+        ]
+      }
+    },
+    {
+      "id": "nat-risnjak",
+      "descriptionAdvanced": {
+        "en": "Risnjak National Park is a mountainous wilderness in the Gorski Kotar region, known as the 'green heart of Croatia' for its dense forests and rich biodiversity. The park is a vital intersection for diverse climates and ecosystems, where the Alpine and Dinaric mountain ranges meet, creating a unique habitat for rare flora and fauna. It is named after the lynx (ris in Croatian), one of the three large European predators found here alongside brown bears and wolves. The park's highest peak, Veliki Risnjak, stands at 1,528 meters and on clear days offers breathtaking views that stretch from the Alps in the north to the Adriatic Sea in the south. Another highlight is the source of the Kupa River, a mesmerizing turquoise karst spring of incredible depth and beauty. Risnjak is a premier destination for hikers and nature enthusiasts seeking solitude and a true wilderness experience away from the crowded coastal resorts."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Risnjak National Park is one of the few places in Europe where the lynx, brown bear, and wolf still coexist in the wild.",
+          "The source of the Kupa River is a 'bottomless' turquoise spring that has been explored by divers to a depth of over 154 meters without reaching the bottom.",
+          "The park features over 1,100 different species and subspecies of plants within its relatively small area, including the protected edelweiss.",
+          "The Leska educational trail was the first of its kind in Croatia, designed to showcase the park's diverse natural features in an accessible way.",
+          "Risnjak has some of the highest precipitation levels in Croatia, contributing to its lush and verdant forest cover throughout the year.",
+          "The park was established in 1953, originally covering a smaller area, and was expanded in 1997 to include the source of the Kupa River.",
+          "The Schlosser's mountain hut, located just below the summit of Veliki Risnjak, provides basic accommodation for hikers.",
+          "The park's geology is dominated by limestone and dolomite, resulting in numerous karst features like sinkholes, caves, and abysses."
+        ]
+      }
+    },
+    {
+      "id": "hr-velebit",
+      "descriptionAdvanced": {
+        "en": "Velebit is Croatia's largest and most iconic mountain range, stretching for 145 kilometers along the Adriatic coast and serving as a natural barrier between the Mediterranean and continental climates. Designated as a UNESCO Biosphere Reserve, the entire range is a karst wonderland featuring deep canyons, vast caves, and dramatic limestone formations. It is home to two national parks, Paklenica in the south, known for its rock climbing, and North Velebit in the north, which protects the most rugged and wild sections. The Premužić Trail, a 57-kilometer masterpiece of mountain engineering, allows walkers to traverse the most difficult sections of the range with relatively little elevation change. From its peaks, visitors can enjoy surreal views of the sea and the stark white islands of the Kvarner and Dalmatian archipelagos. Velebit is deeply embedded in Croatian national identity and is a legendary destination for outdoor enthusiasts seeking raw, untamed nature."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Vaganski Vrh is the highest peak of the Velebit range, reaching an elevation of 1,757 meters above sea level.",
+          "The range contains some of the deepest cave systems in the world, including the Lukina Jama–Trojama pit, which is 1,431 meters deep.",
+          "The Velebit Degenia, a rare yellow flowering plant endemic to this mountain, is a national symbol and appears on the Croatian 50 lipa coin.",
+          "Velebit is famous for the 'Bura,' a powerful, cold, and dry katabatic wind that can descend from the mountains toward the sea at hurricane-force speeds.",
+          "The Premužić Trail was constructed in the early 1930s using dry-stone techniques that have allowed it to remain in excellent condition for nearly a century.",
+          "The Paklenica National Park was used as a filming location for several 'Winnetou' films in the 1960s, depicting the American West.",
+          "The Northern Velebit National Park is home to a unique botanical garden founded in 1967 to preserve the mountain's rich flora.",
+          "The mountain range is a critical habitat for large carnivores, including a stable population of brown bears."
+        ]
+      }
+    }
+  ]
+}

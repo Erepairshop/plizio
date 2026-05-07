@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tenere-wueste-nature-v2",
+      "descriptionAdvanced": "A Ténéré, vagyis a \"sivatagok sivataga\", a Szahara egyik legkietlenebb és leglátványosabb régiója, amely a világ legmagasabb homokdűnéivel (erg) büszkélkedhet. A több százezer négyzetkilométeres terület szinte teljesen lakatlan, vizet csak elvétve találni néhány elszigetelt oázisban. A zord környezet ellenére a Ténéré rendkívül fontos régészeti lelőhely, ahol ősi sziklarajzokat és dinoszaurusz-csontvázakat tártak fel a tudósok. A tuareg karavánok számára az átkelés a mai napig az egyik legnagyobb próbatétel. Földrajz K8 — extrém sivatagi formák.",
+      "factsAdvanced": [
+        "A világ egyik legszárazabb és legkietlenebb homoksivatagja.",
+        "Nevének jelentése a helyi tuareg nyelven szó szerint \"sivatag\".",
+        "Dűnéinek (erg) magassága helyenként a 300 métert is eléri.",
+        "Rengeteg őskori sziklarajzot és őslénytani leletet (dinoszaurusz) rejt.",
+        "Az évi csapadékmennyiség szinte mérhetetlenül alacsony.",
+        "Az átkelés rajta kizárólag tapasztalt karavánvezetőkkel lehetséges."
+      ]
+    },
+    {
+      "id": "dallol-bosso-nature-v2",
+      "descriptionAdvanced": "A Dallol Bosso egy hatalmas, ősi folyóvölgy maradványa, amely észak-dél irányban szeli át Niger nyugati részét. Bár felszíni víz ma már csak az esős évszak rövid időszakában található benne, a völgy mélyén húzódó gazdag talajvízkészletek oázisként éltetik a növényzetet és a helyi lakosságot. A völgy különleges mikroklímája miatt sűrű baobab- és pálmaligetek találhatók itt, éles kontrasztot képezve a környező száraz szavannával. Biológia K7 — felszín alatti vízkészletek és völgyek.",
+      "factsAdvanced": [
+        "Egy ősi, mára kiszáradt hatalmas folyó (dallol) völgye.",
+        "Rendkívül gazdag és könnyen elérhető felszín alatti vízkészletekkel bír.",
+        "Zöldellő, fás (baobab, pálma) folyosót alkot a félsivatagban.",
+        "Kulcsfontosságú mezőgazdasági és legeltetési zóna.",
+        "A talaj ásványi anyagokban (például natron) is gazdag.",
+        "Történelmileg az észak-déli vándorlások fő útvonala."
+      ]
+    },
+    {
+      "id": "gourma-nature-v2",
+      "descriptionAdvanced": "A Gourma régió, amely a Niger folyó jobb (nyugati) partján fekszik, a Száhel-övezet és a szavanna átmeneti zónája. A terület jellegzetessége a sziklás, laterites talaj és az elszórt cserjések, amelyek ideális élőhelyet biztosítanak az afrikai elefántok számára. A Gourma elefántjai a világ legészakabbra vándorló elefántpopulációját alkotják, amelyek hatalmas távolságokat tesznek meg a vízért. A klímaváltozás és az emberi terjeszkedés komoly nyomást gyakorol erre az érzékeny ökoszisztémára. Környezetismeret K8 — sivatagi elefántok.",
+      "factsAdvanced": [
+        "A Száhel és a déli szavanna közötti ökológiai átmeneti zóna.",
+        "Laterites (vasban gazdag, vöröses), sziklás talaj jellemzi.",
+        "A világ legészakabbra élő sivatagi elefántjainak otthona.",
+        "A vízkeresés miatt az állatok hatalmas területet vándorolnak be.",
+        "Rendkívül érzékeny a klímaváltozásra és az aszályokra.",
+        "Erős konfliktusok forrása az elefántok és a földművesek között."
+      ]
+    },
+    {
+      "id": "plateau-djado-nature-v2",
+      "descriptionAdvanced": "A Djado-fennsík egy elszigetelt, misztikus sziklavilág Niger északkeleti csücskében, a líbiai és csádi határnál. A fennsík mély szurdokaiban és kanyonjaiban apró, édesvízű guelták (sziklamedencék) bújnak meg, amelyeket a ritka esőzések töltenek fel. Ezek a vízforrások évszázadokon át éltették a mára elhagyatott erődített oázisvárosokat. A szél és a homok által formált látványos homokkő tornyok egyedülálló geológiai laboratóriummá teszik a területet. Földrajz K8 — szélerózió és sziklaformációk.",
+      "factsAdvanced": [
+        "Homokkőből felépülő, szél rágta kanyonokkal szabdalt fennsík.",
+        "Niger legelzártabb, északkeleti határvidékén található.",
+        "Apró édesvízű sziklamedencék (guelták) biztosítják az életet.",
+        "Extrém szélerózió formálta bizarr sziklatornyokkal (hoodoo) teli.",
+        "Az őskori sziklafestmények a terület egykori zöldellő múltját bizonyítják.",
+        "A zord körülmények miatt ma szinte teljesen lakatlan."
+      ]
+    },
+    {
+      "id": "gueltas-air-nature-v2",
+      "descriptionAdvanced": "Az Air-hegység rejtett völgyeiben megbúvó guelták (természetes sziklamedencék) a sivatagi túlélés igazi csodái. Ezek az árnyékos hasadékokban megrekedt víztestek – mint a híres Timia guelta – állandó vizet biztosítanak az egyébként csapadékmentes hónapokban is. A víz jelenléte apró, zöld mikro-ökoszisztémákat hoz létre, ahol a pálmák és a gyümölcsfák virágoznak a fekete vulkanikus sziklák között. A guelták egyben a nomád pásztorok találkozási pontjai is. Biológia K7 — oázis-ökoszisztémák.",
+      "factsAdvanced": [
+        "Természetes, sziklába vájt medencék (guelták), amelyek megtartják a vizet.",
+        "Az Air-hegység mély, árnyékos szurdokaiban bújnak meg.",
+        "A párolgás alacsony az árnyékos, hűvösebb mikroklíma miatt.",
+        "Tökéletes élőhelyet biztosítanak a sivatagi növény- és állatvilágnak.",
+        "Létfontosságú ivóvízforrás a tuareg nomádok és nyájaik számára.",
+        "A víz mellett gyakran citrus- és gránátalmafák virágoznak."
+      ]
+    },
+    {
+      "id": "kaouar-oasen-nature-v2",
+      "descriptionAdvanced": "A Kaouar-völgy egy több mint 150 kilométer hosszan elnyúló oázisláncolat a Ténéré sivatag peremén. A völgy geológiai különlegessége egy meredek sziklafal (escarpment), amelynek tövében a talajvíz a felszínre tör, zöldellő pálmaligeteket és sós vizű medencéket hozva létre. Ez az oázisrendszer (Dirkou, Bilma és Fachi falvakkal) megszakítatlan \"zöld szalagként\" biztosította a transzszaharai karavánok túlélését évezredeken át. Földrajz K8 — tektonikus törésvonalak és oázisok.",
+      "factsAdvanced": [
+        "Egy több mint 150 km hosszú, egybefüggő oázisláncolat a sivatagban.",
+        "Egy geológiai törésvonal (sziklafal) mentén fakadó források táplálják.",
+        "Hatalmas, sűrű datolyapálma-erdők nőnek a sziklafal tövében.",
+        "Sós vizű medencéi az afrikai sókitermelés központjai.",
+        "A Ténéré sivatagon átkelő karavánok életmentő zöld szigete.",
+        "A folyamatosan mozgó homokdűnék komoly fenyegetést jelentenek a ligetekre."
+      ]
+    },
+    {
+      "id": "erg-t\u00e9n\u00e9r\u00e9-nature-v2",
+      "descriptionAdvanced": "A Ténéré Grand Erg-je, vagyis hatalmas homoktengere, a bolygó egyik legaktívabb és legnagyobb dűnerendszere. A szél megállás nélkül formálja a sárga és narancssárga homokhegyeket, amelyek naponta változtatják alakjukat és helyzetüket. A növényzet szinte teljes hiánya és a szélsőséges hőmérséklet-ingadozás a Föld egyik legbarátságtalanabb helyévé teszi. Ennek ellenére a tuareg vezetők képesek pusztán a dűnék alakja (hullámzása) alapján tájékozódni a végtelen homoktengerben. Földrajz K7 — dűneképződés és sivatagok.",
+      "factsAdvanced": [
+        "Hatalmas kiterjedésű, folyamatosan mozgó homoktenger (erg).",
+        "A sárga és narancs árnyalatú homokdűnék dominálják a tájat.",
+        "A szél eróziója és építő munkája nap mint nap formálja a dűnéket.",
+        "Szinte teljesen mentes mindenféle növényzettől (hyper-arid).",
+        "Nappal és éjszaka között szélsőséges a hőmérséklet-ingadozás.",
+        "A tájékozódás pusztán vizuális memóriára és a szélirányra épül."
+      ]
+    },
+    {
+      "id": "goulbi-maradi-nature-v2",
+      "descriptionAdvanced": "A Goulbi Maradi egy szezonális vízfolyás, amely Nigériából ered, és észak felé tartva átszeli a maradi régiót. Az év nagy részében a folyómeder egy széles, homokos árok, ám az esős évszak (július-augusztus) alatt hatalmas, pusztító áradattá duzzad. Bár a felszíni víz gyorsan elpárolog, a folyómeder alatti magas talajvízszint egész évben lehetővé teszi az oázisszerű kertek fenntartását, ahol zöldségeket termesztenek. Földrajz K6 — szezonális vízfolyások.",
+      "factsAdvanced": [
+        "Délről északra (Nigériából Nigerbe) tartó szezonális folyó.",
+        "Az év nagy részében teljesen kiszáradt, homokos meder.",
+        "Az esős évszakban gyors és gyakran pusztító áradásokat (villámárvíz) hoz.",
+        "A meder alatti talajvíz biztosítja a helyi zöldségtermesztést egész évben.",
+        "Kritikus jelentőségű a Maradi régió vízellátása szempontjából.",
+        "A folyópartokon gyakori a kiterjedt mezőgazdasági tevékenység."
+      ]
+    },
+    {
+      "id": "komadougou-yobe-nature-v2",
+      "descriptionAdvanced": "A Komadougou Yobe folyó természetes határt képez Niger és Nigéria között, mielőtt a Csád-tóba ömlene. Ez a keskeny, kanyargós folyó létfontosságú életvonal a Diffa régióban, ahol a vízparti területeken a híres helyi paprikát (poivron) termesztik. A folyó vízhozama az utóbbi évtizedekben drasztikusan csökkent a feljebb lévő nigériai gátak és a klímaváltozás miatt, ami ökológiai feszültségeket és konfliktusokat okoz a vízhasználat körül. Biológia és Földrajz K8 — határokon átnyúló vízgazdálkodás.",
+      "factsAdvanced": [
+        "Természetes országhatárt képez Niger és Nigéria között.",
+        "Vize egyenesen a zsugorodó Csád-tó medencéjébe ömlik.",
+        "A Diffa régió legfontosabb mezőgazdasági öntözőforrása.",
+        "Kiemelt szerepe van a régió híres paprikatermesztésében.",
+        "Vízhozama drasztikusan csökkent az upstream (nigériai) gátak miatt.",
+        "Vízmegosztása folyamatos geopolitikai és ökológiai vitatéma."
+      ]
+    },
+    {
+      "id": "massif-termite-nature-v2",
+      "descriptionAdvanced": "A Termit-hegység (Massif de Termit) a Ténéré sivatag déli peremén fekvő, fekete vulkanikus kőzetekből és vörös homokból álló \"sziget\". Ez az elszigetelt hegytömb Afrika egyik legritkább vadvilágának ad otthont, köztük a kihalás szélén álló szaharai gepárdnak és a mendeszantilopnak (addax). Az itt létrehozott hatalmas Termit és Tin-Toumma Természetvédelmi Terület az egyik legnagyobb védett övezet a kontinensen, amely az elsivatagosodó élőhelyek megőrzéséért küzd. Környezetismeret K8 — sivatagi védett területek.",
+      "factsAdvanced": [
+        "Fekete vulkanikus kőzetből álló hegység a szaharai homoktengerben.",
+        "A Föld egyik legnagyobb sivatagi természetvédelmi területének része.",
+        "Itt él a kritikusan veszélyeztetett szaharai gepárd egyik utolsó populációja.",
+        "Természetes menedék az addax (mendeszantilop) számára.",
+        "Tökéletesen érintetlen, emberi településektől távoli ökoszisztéma.",
+        "A kutatók számára kiemelt terep a sivatagi fauna tanulmányozásában."
+      ]
+    },
+    {
+      "id": "fachi-oase-nature-v2",
+      "descriptionAdvanced": "A Fachi-oázis egy biológiai csoda a Ténéré sivatag könyörtelen homokdűnéi között. Az oázist a föld mélyéből feltörő édes- és sós vizű források táplálják, amelyek lehetővé teszik a datolyapálmák sűrű növekedését. A pálmafák gyökerei hálózatot alkotva stabilizálják a talajt, megvédve a települést a folyamatosan vándorló dűnék bekebelezésétől. A mikrokörnyezet olyan stabil, hogy a helyiek apró kertekben zöldségeket is tudnak termeszteni az árnyékban. Biológia K7 — oázisok mikrokörnyezete.",
+      "factsAdvanced": [
+        "Elszigetelt biológiai oázis a világ egyik legzordabb sivatagában.",
+        "A feltörő forrásvizek éltetik a sűrű datolyapálma-ligeteket.",
+        "A pálmák gyökerei és árnyéka fizikai gátat képez a homok ellen.",
+        "Az árnyékos mikroklímában korlátozott zöldségtermesztés is lehetséges.",
+        "Vándormadarak is használják ivó- és pihenőhelyként.",
+        "Tökéletes ökológiai egyensúly a szélsőséges klíma közepette."
+      ]
+    },
+    {
+      "id": "bilma-oase-nature-v2",
+      "descriptionAdvanced": "Bilma nemcsak egy sóbánya, hanem egy kiterjedt, zöldellő oázisrendszer, amelyet egy hatalmas geológiai törésvonal táplál. A sziklafal alól kiszivárgó talajvíz buja, őserdei sűrűségű datolyaligeteket hoz létre, amelyek menedéket nyújtanak a sivatagi szél és a homokviharok elől. Az oázis vízgazdálkodása évezredes mérnöki tudást tükröz: a források vizét apró csatornákon osztják el a kertek és a sólepárló medencék között. Földrajz K7 — vízgazdálkodás az oázisokban.",
+      "factsAdvanced": [
+        "A Kawar törésvonal mentén kialakult legnagyobb sivatagi oázis.",
+        "A talajvíz folyamatos szivárgása tartja életben a pálmaligeteket.",
+        "A sűrű pálmaerdő gátként funkcionál a homokviharokkal szemben.",
+        "Évezredes, kézzel épített csatornarendszerek biztosítják az öntözést.",
+        "A víz elosztása szigorú társadalmi szabályok szerint történik.",
+        "Az oázis a madarak és sivatagi emlősök mikro-menedéke is."
+      ]
+    },
+    {
+      "id": "plateau-damagaram-nature-v2",
+      "descriptionAdvanced": "A Damagaram-fennsík Zinder régiójában egy sziklás, laterites (vasban gazdag) magaslat, amely választóvonalat képez a Szahara és a déli, termékenyebb szavannák között. A fennsíkot ritkás akácia- és baobabfák borítják, amelyek gyökerei mélyen a sziklarepedésekbe hatolnak a vízért. Ez a geológiai képződmény felfogja a sivatag felől érkező forró szeleket, megvédve ezzel a délebbre fekvő mezőgazdasági területeket az azonnali kiszáradástól. Földrajz K6 — geológiai akadályok és klímavédelem.",
+      "factsAdvanced": [
+        "Sziklás, laterites magaslat Zinder régió északi részén.",
+        "Természetes geológiai és ökológiai határ a Szahara és a szavanna között.",
+        "A ritkás, tüskés szavannai növényzet (akácia, baobab) jellemzi.",
+        "Fizikai gátként védi a déli területeket a sivatagi homokviharoktól.",
+        "A vasban gazdag vörös talaj nehezen művelhető.",
+        "A fennsíkon gyakoriak az ősi, gömbölyű gránit sziklaképződmények."
+      ]
+    },
+    {
+      "id": "vall\u00e9e-dallol-maouri-nature-v2",
+      "descriptionAdvanced": "A Dallol Maouri egy lenyűgöző fosszilis folyóvölgy Dosso régió keleti részén, amely egykor egy hatalmas folyórendszer része volt. Ma felszíni víz csak foltokban található, azonban a völgy gazdag sekély talajvízben, ami élénkzöld pálma- és gyümölcsligeteket tart életben a kietlen homokos tájban. Ez az egyedi ökoszisztéma lehetővé teszi, hogy az itteni gazdák a Száhel-övezetben szokatlanul gazdag termést (például maniókát és zöldségeket) takarítsanak be. Földrajz K7 — fosszilis völgyek gazdasági jelentősége.",
+      "factsAdvanced": [
+        "Egy ősi, fosszilis folyómeder (dallol) Dosso régióban.",
+        "Rendkívül gazdag sekély talajvízben (napphreatikus víz).",
+        "A zöldellő pálma- és gyümölcsligetek éles kontrasztot adnak a tájnak.",
+        "Kiemelten fontos mezőgazdasági övezet a száraz környezetben.",
+        "A magas páratartalom miatt egyedi helyi mikroklímával rendelkezik.",
+        "Felszíni víz (pocsolyák, apró tavak) csak az esős évszakban jelenik meg."
+      ]
+    },
+    {
+      "id": "goulbi-n-kaba-nature-v2",
+      "descriptionAdvanced": "A Goulbi N'Kaba egy másik jelentős szezonális vízfolyás (goulbi) Maradi régióban, amely dél-észak irányban vezeti le a nigériai esőzések vizét. Áradáskor a folyó magával sodorja az iszapot és a szerves anyagokat, természetes módon trágyázva a part menti földeket. A száraz évszakban a meder homokos sávvá válik, de a mélyben meghúzódó nedvesség lehetővé teszi a kutak fúrását, amelyekből a híres maradi zöldségkerteket öntözik. Biológia K6 — szezonális öntözőrendszerek.",
+      "factsAdvanced": [
+        "Nigériából északra tartó, időszakos vízfolyás (goulbi).",
+        "Áradásai természetes iszappal és tápanyaggal látják el a földeket.",
+        "A száraz évszakban vizuálisan csak egy kiterjedt homokmeder.",
+        "A felszín alatti víz folyamatosan táplálja a helyi kútásást.",
+        "A völgye intenzív zöldségtermesztési zóna (hagyma, káposzta).",
+        "Az esős évszak alatti villámárvizek jelentős eróziót okozhatnak."
+      ]
+    },
+    {
+      "id": "massif-adrar-bous-nature-v2",
+      "descriptionAdvanced": "Az Adrar Bous egy elszigetelt, fekete vulkanikus hegység az Air-hegységtől északkeletre, amely szinte beleolvad a Ténéré homoktengerébe. Ez a vad, sötét kőzettömb geológiai és régészeti kincsesbánya. Az egykor itt található hatalmas ősi tavak nyomait és a kőkorszaki vadászok nyílhegyeit, eszközeit a szél és az idő nagyrészt megőrizte. A terület drámai példája annak, hogyan változott a Szahara egy zöld, tavas vidékről a ma ismert barátságtalan sivataggá. Földrajz K8 — a Szahara klímatörténete.",
+      "factsAdvanced": [
+        "Fekete vulkanikus szigethegy a Ténéré sivatag peremén.",
+        "A geológiai formációk ősi (több ezer éves) nagy tavak nyomait rejtik.",
+        "Az afrikai kőkorszak (neolitikum) egyik legfontosabb régészeti lelőhelye.",
+        "Rengeteg kőeszközt és egykori vízi állatok (víziló, krokodil) csontjait találták itt.",
+        "A sötét vulkáni kőzet élesen elüt a körülötte lévő világos homoktól.",
+        "Élő bizonyítéka a \"Zöld Szahara\" elméletének."
+      ]
+    },
+    {
+      "id": "plateau-tchigai-nature-v2",
+      "descriptionAdvanced": "A Tchigai-fennsík Niger keleti peremén, a Csád és Líbia határához közel terül el, a Föld egyik legkevésbé kutatott és legismeretlenebb területe. A homokkőből álló fennsíkot mély szurdokok szelik át, amelyek a jégkorszaki folyók munkájának eredményei. Ez a kietlen, holdbéli táj az extrém túlélés színtere a nomád tubu törzsek számára. A fennsík megközelíthetetlensége megóvta a modern beavatkozásoktól, így a geológusok és sivatagkutatók számára igazi érintetlen terület maradt. Földrajz K8 — extrém sivatagi fennsíkok.",
+      "factsAdvanced": [
+        "Rendkívül elszigetelt, homokkő fennsík a keleti határvidéken.",
+        "Földünk egyik legkevésbé feltérképezett és megközelíthetetlen régiója.",
+        "Mély, ősi jégkorszaki folyók által kivájt szurdokok tarkítják.",
+        "Holdbéli, kopár táj, szinte teljes vegetációhiánnyal.",
+        "Kizárólag a rendkívül szívós tubu nomádok ismerik az útvonalait.",
+        "Fontos szerepe van a geológiai és széleróziós kutatásokban."
+      ]
+    },
+    {
+      "id": "goulbi-kaba-nature-v2",
+      "descriptionAdvanced": "A Goulbi Kaba a maradi régió kiterjedt időszakos folyórendszereinek egyike, amely átszeli a félsivatagi tájat. Az évi néhány hetes aktív vízfolyás hihetetlenül fontos a helyi ökológia számára: az áradások feltöltik a föld alatti víztározó rétegeket (aquifereket), amelyekből a gazdák a hosszú száraz évszakban az öntözővizet nyerik. A Goulbi völgye a cserjés szavanna utolsó erős bástyája az északi sivatagok előtt. Biológia K6 — sivatagi aquiferek feltöltődése.",
+      "factsAdvanced": [
+        "Szezonális (időszakos) folyó, amely az esős évszakban (hivernage) aktív.",
+        "Az áradások elengedhetetlenek a mély talajvíz (aquifer) feltöltéséhez.",
+        "A száraz hónapokban felszíne egy hosszú, kanyargós homoksáv.",
+        "A völgy növényzete (cserjék, fák) sűrűbb a környező szavannánál.",
+        "Védvonalat képez a sivatag déli irányú terjeszkedése (elsivatagosodás) ellen.",
+        "A völgy az állattenyésztők fontos legeltetési zónája a szárazság idején."
+      ]
+    },
+    {
+      "id": "erg-mourzouk-rand-nature-v2",
+      "descriptionAdvanced": "Az Erg Mourzouk délnyugati pereme átnyúlik Niger területére, és a Djado-fennsík közelében drámai homoktengert alkot. A hatalmas, csillag alakú dűnék (star dunes) a változó irányú szelek munkájának eredményei, és akár 200 méter magasra is megnőhetnek. A területen nincs felszíni víz, az élet szinte lehetetlen. Ez a kiterjedt homoksivatag fizikai akadályt képez a keleti határvidéken, így a transzszaharai forgalom is kénytelen megkerülni. Földrajz K7 — csillagdűnék és szélrendszerek.",
+      "factsAdvanced": [
+        "Egy hatalmas, Líbiából átnyúló homoktenger (erg) peremvidéke.",
+        "Hatalmas, csillag alakú dűnék (star dunes) találhatók itt.",
+        "A dűnék formáját az évszakosan változó irányú, erős szelek alakítják.",
+        "Nincs felszíni víz, és a növényzet teljesen hiányzik.",
+        "Fizikai gátként működik, elvágva a régiót a keleti irányú közlekedéstől.",
+        "A Föld egyik legzordabb, hyper-arid (túlszáraz) éghajlati zónája."
+      ]
+    },
+    {
+      "id": "dallol-fogha-nature-v2",
+      "descriptionAdvanced": "A Dallol Fogha egy kevésbé ismert, de ökológiailag kiemelten fontos sekély völgy Tahoua és Dosso régiók határán. A többi fosszilis völgyhöz hasonlóan gazdag talajvízzel rendelkezik, de különlegessége a magas nátrium-karbonát (natron) tartalmú talaja. Az itteni földet nemcsak növénytermesztésre, hanem a felszínen kiváló sórétegek begyűjtésére is használják, amely az állattartás nélkülözhetetlen kiegészítője. A völgy fás ligetei menedéket adnak a vándorló madaraknak is. Kémia K6 — natronos talajok Afrikában.",
+      "factsAdvanced": [
+        "Ősi, kiszáradt folyóvölgy Tahoua és Dosso régiók találkozásánál.",
+        "A talaj és a víz nátrium-karbonátban (natronban) rendkívül gazdag.",
+        "A felszíni sókicsapódásokat a helyiek az állatok takarmányozására gyűjtik.",
+        "A sekély talajvíz sűrű, bokros-fás vegetációt tart életben.",
+        "Kiemelt pihenőhely a régión áthaladó madárrajok számára.",
+        "A helyi ökoszisztéma jól alkalmazkodott a lúgos (sós) környezethez."
+      ]
+    },
+    {
+      "id": "plateau-koutous-nature-v2",
+      "descriptionAdvanced": "A Koutous-hegység és fennsík Zinder régió északi részén magasodik ki a sík szavannából. Ez az erodált gránit- és homokkő-alakzatokból álló terület az esős évszakban zöldellő édenkertté válik, amely vonzza a nomád pásztorokat. A fennsík mély hasadékaiban a víz gyakran hetekig megmarad a száraz évszak beköszönte után is. A Koutous az afrikai sziklaformációk és a szélsőséges éghajlati viszonyok túlélési stratégiáinak látványos példája. Biológia K7 — szezonális hegyvidéki legelők.",
+      "factsAdvanced": [
+        "Zinder régió északi, dombos-sziklás területe (fennsíkja).",
+        "Gránitból és homokkőből álló, szél és víz által erodált formációk jellemzik.",
+        "Az esőzések után sűrű, rövid életű legelőkké alakul.",
+        "A sziklahasadékok természetes víztározóként (guelták) funkcionálnak.",
+        "Fontos vándorlási (transzhumáns) célpont a nomád állattartók számára.",
+        "Természetes határvonal a homokos sivatag és a fás szavanna között."
+      ]
+    },
+    {
+      "id": "goulbi-goulbi-nature-v2",
+      "descriptionAdvanced": "A Goulbi rendszerek – a szezonális völgyek hálózata – adják Maradi és Tahoua déli régióinak földrajzi arculatát. Ezek a völgyek az évezredek során hatalmas iszap- és hordalékrétegeket raktak le, amelyek ma az ország legtermékenyebb mezőgazdasági területeit (a \"zöld sávot\") alkotják. A vízfolyások körüli mikrokörnyezetben virágzik az agrárium, ám az egyre kiszámíthatatlanabb esőzések (özönvizek vagy aszályok) közvetlen veszélyt jelentenek a völgyek törékeny ökológiájára. Földrajz K8 — alluviális (hordalék) talajok.",
+      "factsAdvanced": [
+        "Kiterjedt szezonális folyó- és völgyrendszer a déli régiókban.",
+        "A lerakódott hordalék (alluvium) kiváló, termékeny mezőgazdasági talajt ad.",
+        "Alapja a sűrű népességű \"zöld sáv\" (bande verte) élelmezésének.",
+        "Felszíni vizet csak rövid, intenzív időszakokban (hivernage) hordoznak.",
+        "A klímaváltozás miatt a villámárvizek (crue) egyre pusztítóbbak.",
+        "A medrek alatti talajvíz fenntartja a hagyományos kútásásos öntözést."
+      ]
+    },
+    {
+      "id": "massif-if\u00e9rouane-nature-v2",
+      "descriptionAdvanced": "Az Iférouane-hegység az Air-masszívum északi, drámai vulkanikus kúpjaiból álló hegylánca. A fekete és vörös sziklák lábánál fekvő völgyekben (wadi) a lefutó esővíz élteti az oázisokat. A hegység nemcsak geológiai csoda, hanem a szaharai biodiverzitás egyik utolsó mentsvára is: a nehezen megközelíthető csúcsok és szurdokok között a sörényes juhok (Ammotragus lervia) és a szirtiborzok találnak biztonságos menedéket. A vulkáni kőzet hőtároló képessége egyedi mikroklímát teremt. Biológia K8 — hegyvidéki menedékek a sivatagban.",
+      "factsAdvanced": [
+        "Az Air-hegység északi részének drámai, vulkanikus sziklaformációi.",
+        "A lejtőkről lefutó víz tartja életben az Iférouane oázist.",
+        "Kiemelt élőhelye a ritka sörényes juhnak (aoudad).",
+        "A vulkáni kőzetek (bazalt) sötét színe erősíti a hőtárolást.",
+        "A nehezen járható szurdokok természetes védelmet nyújtanak a vadvilágnak.",
+        "Régészeti szempontból is gazdag (őskori kőfaragványok találhatók itt)."
+      ]
+    },
+    {
+      "id": "goulbi-kane-nature-v2",
+      "descriptionAdvanced": "A Goulbi Kané a Maradi régió kevésbé ismert, de annál fontosabb időszakos vízfolyása. Fő sajátossága, hogy vizét egy sűrű agyagréteg tartja a felszín közelében, megakadályozva, hogy gyorsan eltűnjön a mélyebb homokrétegekben. Ez a geológiai adottság lehetővé teszi, hogy a Goulbi Kané medrében az esős évszak után hónapokig sekély, állóvízű tavacskák maradjanak fenn, amelyek elengedhetetlen itatóhelyként szolgálnak a hatalmas, vonuló tevecsordák és az átutazó pásztorok számára. Földrajz K6 — vízzáró agyagrétegek.",
+      "factsAdvanced": [
+        "Szezonális vízfolyás (goulbi) Maradi régió északi-középső részén.",
+        "A meder alatti sűrű agyagréteg (vízzáró réteg) megtartja a nedvességet.",
+        "Az esős évszak után sokáig megmaradnak az apró, felszíni tavacskák.",
+        "A nomád pásztorok és csordáik legfontosabb elhúzódó itatóhelye.",
+        "A víz jelenléte megkönnyíti a helyi kisméretű öntözést (maraîchage).",
+        "Biológiailag aktív zóna a hosszú, száraz hónapok alatt is."
+      ]
+    },
+    {
+      "id": "plateau-damagaram-est-nature-v2",
+      "descriptionAdvanced": "A Damagaram-fennsík keleti kiterjedése (Damagaram Est) egy elhagyatott, szárazföldi szavanna, amely fokozatosan olvad bele a Csád-tó kiszáradt medencéjébe. A terület sík és végtelennek tűnő táját csak elszórtan törik meg az ősi, magányos baobabfák és a szél formálta homokbuckák. Mivel a felszíni víz rendkívül ritka, a növény- és állatvilág a végletekig alkalmazkodott az aszályhoz. Ez az átmeneti zóna tökéletesen szemlélteti a Száhel-övezet észrevétlen átcsapását a tiszta sivatagba. Földrajz K7 — szavannák elsivatagosodása.",
+      "factsAdvanced": [
+        "A Zinder régiótól keletre elterülő hatalmas, száraz szavannás fennsík.",
+        "A táj fokozatosan, szintkülönbség nélkül olvad bele a keleti sivatagba.",
+        "Rendkívül ritka a felszíni víz, az élet az artézi vizektől függ.",
+        "A magányos baobabfák és tüskés cserjék alkotják a vegetációt.",
+        "Az elsivatagosodás (dezertifikáció) folyamata itt közvetlenül megfigyelhető.",
+        "Kizárólag nomád (fulani és tubu) állattartásra alkalmas terület."
+      ]
+    }
+  ]
+}

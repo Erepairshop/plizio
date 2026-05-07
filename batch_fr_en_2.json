@@ -1,0 +1,281 @@
+{
+  "notre-dame": {
+    "desc": "Notre-Dame de Paris is a historic Catholic cathedral located on the Île de la Cité in the heart of Paris. Widely considered one of the finest examples of French Gothic architecture, its construction spanned over 200 years, beginning in 1163. The cathedral is famous for its massive rose windows, naturalism of its sculptures, and the intricate flying buttresses that support its towering walls. Despite suffering severe damage in a devastating fire in 2019, it remains a powerful symbol of Parisian resilience and French cultural heritage. History K8 - Gothic architecture and religious monuments.",
+    "facts": [
+      "The cathedral features three massive stained-glass rose windows, the oldest dating back to 1225.",
+      "The Point Zéro, located just outside the cathedral, is the reference point from which all distances from Paris are measured.",
+      "Victor Hugo's 1831 novel, 'The Hunchback of Notre-Dame', helped save the cathedral from demolition by sparking public interest in its restoration.",
+      "During the French Revolution, many of its religious statues were decapitated by anti-royalist mobs."
+    ]
+  },
+  "calais": {
+    "desc": "Calais is a major port city situated on the English Channel, representing the closest point in France to the coast of England. Historically, it was heavily contested, even remaining under English control for over two centuries until 1558. Today, it serves as a critical transportation hub, home to a massive ferry port and the French terminal of the Channel Tunnel, which facilitates rapid train travel to the UK. Its strategic significance has also made it a focal point in modern European migration and border security discussions. Geography K7 - cross-border transportation and European logistics.",
+    "facts": [
+      "The Channel Tunnel connects Calais to Folkestone in the UK in just 35 minutes.",
+      "Auguste Rodin's famous sculpture 'The Burghers of Calais' commemorates the city's siege during the Hundred Years' War.",
+      "On a clear day, the White Cliffs of Dover in England are easily visible from the Calais coastline.",
+      "The city is a major center for delicate lacemaking, an industry that flourished here in the 19th century."
+    ]
+  },
+  "reims": {
+    "desc": "Reims is a historically significant city in the Grand Est region, renowned worldwide as the unofficial capital of the Champagne wine-growing area. Its grand Gothic cathedral, Notre-Dame de Reims, holds profound importance in French history, having served as the traditional site for the coronation of the kings of France. The city played a pivotal role during both World Wars, notably serving as the location where the German army formally surrendered to the Allies on May 7, 1945. Underneath its streets lie miles of Gallo-Roman chalk quarries, now used to age millions of bottles of premium Champagne. History K8 - royal coronations and modern warfare.",
+    "facts": [
+      "More than 30 French monarchs were crowned at the Cathedral of Reims between 816 and 1825.",
+      "Joan of Arc famously led Charles VII to be crowned here in 1429 during the Hundred Years' War.",
+      "The subterranean chalk caves ('crayères') of Reims are recognized as a UNESCO World Heritage site.",
+      "The cathedral features spectacular modern stained-glass windows designed by the artist Marc Chagall."
+    ]
+  },
+  "fr-chateau-chenonceau": {
+    "desc": "The Château de Chenonceau is a breathtaking Renaissance masterpiece that elegantly spans the River Cher in the Loire Valley. Often referred to as the 'Château des Dames' (Castle of the Ladies), its design, expansion, and preservation were deeply influenced by powerful women, including Diane de Poitiers and Catherine de' Medici. The structure features an iconic two-story gallery crossing the river, which was used as a grand ballroom and later as a military hospital during World War I. Its stunning formal gardens and unique aquatic setting make it the most visited château in France after Versailles. History K8 - French Renaissance and royal courts.",
+    "facts": [
+      "During World War II, the river it spans marked the boundary between occupied and 'free' Vichy France, and the château was used as an escape route.",
+      "It was spared from destruction during the French Revolution because it was the only bridge across the river for miles.",
+      "Catherine de' Medici threw lavish night parties here, complete with the first-ever fireworks display seen in France.",
+      "The grand gallery was converted into a 120-bed hospital to treat wounded soldiers in 1914."
+    ]
+  },
+  "fr-chateau-chambord": {
+    "desc": "The Château de Chambord is the largest and most majestic of all the Loire Valley castles, built as a sprawling hunting lodge for King Francis I in the 16th century. It is a true architectural marvel that perfectly blends traditional French medieval forms with classical Italian Renaissance structures. The centerpiece of the château is its legendary double-helix staircase, widely believed to have been inspired by Leonardo da Vinci, allowing people to ascend and descend without ever crossing paths. Surrounded by a vast, walled forest reserve, the estate represents the pinnacle of royal extravagance. History K8 - Renaissance architecture and royal estates.",
+    "facts": [
+      "The estate's enclosing wall is 32 kilometers long, making it the largest enclosed park in Europe.",
+      "It features 440 rooms, 282 fireplaces, and 84 sweeping staircases.",
+      "During World War II, the château was used to safely store priceless artworks from the Louvre, including the Mona Lisa.",
+      "Despite its massive scale, Francis I only spent a total of 72 days there during his entire 32-year reign."
+    ]
+  },
+  "fr-chateau-fontainebleau": {
+    "desc": "The Château de Fontainebleau is a sprawling, historically dense royal palace located southeast of Paris, bordered by a vast ancient forest. It holds the unique distinction of having been continuously inhabited by French monarchs from the 12th century down to the fall of Napoleon III in the 19th century. Its architecture is a fascinating patchwork of different eras, showcasing incredible Renaissance frescoes alongside opulent imperial apartments. Napoleon Bonaparte famously called it the 'true home of kings' and it was here that he signed his first abdication in 1814 before being exiled to Elba. History K8 - the evolution of the French monarchy.",
+    "facts": [
+      "It is one of the largest French royal châteaux, boasting over 1,500 rooms.",
+      "The iconic horseshoe-shaped staircase in the main courtyard was built during the reign of Louis XIII.",
+      "The surrounding Forest of Fontainebleau was historically a royal hunting park and is now a premier destination for bouldering.",
+      "Pope Pius VII was held practically as a prisoner here by Napoleon between 1812 and 1814."
+    ]
+  },
+  "fr-pont-du-gard": {
+    "desc": "The Pont du Gard is an awe-inspiring ancient Roman aqueduct bridge built in the first century AD in southern France. Spanning the Gardon River, it was a crucial part of a 50-kilometer-long canal system designed to carry fresh spring water to the Roman colony of Nemausus (modern Nîmes). Standing nearly 50 meters high with three tiers of perfectly preserved arches, it is one of the most spectacular surviving examples of Roman engineering and hydraulic mastery. It was constructed without the use of mortar, relying solely on the precise cutting of its massive limestone blocks. Geography K7 - ancient engineering and water management.",
+    "facts": [
+      "The aqueduct delivered over 40 million liters of water every day to the city's baths, fountains, and homes.",
+      "The descent of the entire 50-kilometer aqueduct was incredibly slight, dropping only 17 meters from start to finish.",
+      "It was built using massive stone blocks, some weighing up to 6 tons, completely without mortar.",
+      "It transitioned into a toll bridge during the Middle Ages, which helped ensure its preservation."
+    ]
+  },
+  "fr-carnac": {
+    "desc": "The Carnac stones in Brittany constitute one of the most extensive and mysterious megalithic complexes in the world. Spread across the rugged coastal landscape are over 3,000 standing stones (menhirs), meticulously arranged in parallel alignments, ancient tombs, and large enclosures. Erected between 4500 and 3300 BC during the Neolithic period, these monuments predate the Egyptian pyramids and Stonehenge by centuries. While their exact purpose remains a topic of intense archaeological debate, they are believed to have served significant astronomical, religious, or territorial functions for ancient Celtic societies. History K6 - prehistoric cultures and megalithic structures.",
+    "facts": [
+      "The stones are arranged in three major groupings: Ménec, Kermario, and Kerlescan.",
+      "According to local folklore, the standing stones are a Roman legion turned to stone by the wizard Merlin.",
+      "The heaviest individual stone originally weighed an estimated 280 tons before breaking into pieces over time.",
+      "The alignments stretch for roughly 4 kilometers across the Breton countryside."
+    ]
+  },
+  "fr-arenas-nimes": {
+    "desc": "The Arena of Nîmes is one of the best-preserved Roman amphitheaters in the world, located in the heart of the Occitanie region. Built around 70 AD, shortly after the Colosseum in Rome, it was designed to hold over 24,000 spectators who gathered to watch brutal gladiatorial combat and public executions. Its remarkable state of preservation is due to its transformation into a fortified village during the Middle Ages, complete with churches and houses built directly within the arena walls. Today, it has been restored to its former glory and continues to host major concerts, festivals, and traditional bullfights. History K7 - Roman entertainment and classical architecture.",
+    "facts": [
+      "The elliptical arena measures 133 meters long and 101 meters wide, featuring a sophisticated crowd management system.",
+      "During the Middle Ages, the arena was sealed off and operated as an independent, fortified neighborhood.",
+      "The exterior features two levels with 60 arches each, standing 21 meters tall.",
+      "It currently serves as the main venue for the 'Feria de Nîmes', a major annual festival."
+    ]
+  },
+  "fr-abbey-cluny": {
+    "desc": "Cluny Abbey, located in the Burgundy region, was once the absolute center of Western monasticism and one of the most powerful religious institutions in medieval Europe. Founded in 910, the abbey answered directly to the Pope, granting it immense political and economic independence. For centuries, its sprawling church was the largest Christian building in the world, setting the architectural standard for Romanesque design. Though largely destroyed during the French Revolution, the surviving ruins, including the soaring south transept, still convey the breathtaking scale and ambition of its original builders. History K8 - medieval monasticism and Romanesque architecture.",
+    "facts": [
+      "At its peak, the Cluniac order controlled over 10,000 monks and 1,500 monasteries across Europe.",
+      "The abbey church remained the largest in the world until St. Peter's Basilica was rebuilt in Rome in the 16th century.",
+      "Only about 10% of the original abbey structure remains standing today following its demolition in 1790.",
+      "It housed one of the most important and extensive libraries in Europe during the Middle Ages."
+    ]
+  },
+  "fr-bayeux-tapestry": {
+    "desc": "The Bayeux Tapestry is a priceless masterpiece of 11th-century Romanesque art, housed in the Normandy town of Bayeux. Rather than a true tapestry, it is an embroidered linen cloth nearly 70 meters long that visually narrates the epic events leading up to the Norman conquest of England in 1066. The intricate needlework details everything from the construction of William the Conqueror's fleet to the chaotic climax of the Battle of Hastings. It serves not only as a spectacular work of art but as an invaluable historical document, offering a rare glimpse into medieval warfare, clothing, and society. History K7 - medieval warfare and historical documentation.",
+    "facts": [
+      "The tapestry features 58 distinct scenes with over 600 people, 200 horses, and numerous mythological creatures.",
+      "It survived several fires, the French Revolution, and attempts by the Nazis to steal it during World War II.",
+      "The embroidered narrative culminates with the death of King Harold of England, famously depicted with an arrow in his eye.",
+      "Halley's Comet is visibly depicted in one scene, as it passed over Europe in 1066."
+    ]
+  },
+  "fr-omaha-beach": {
+    "desc": "Omaha Beach, located on the coast of Normandy, is deeply etched in history as the most heavily defended and bloodiest of the five D-Day landing sectors on June 6, 1944. American forces assaulting this 8-kilometer stretch of sand faced sheer bluffs, fierce crossfire, and heavily fortified German bunkers, resulting in catastrophic casualties. Despite the overwhelming odds, the bravery and determination of the troops eventually secured a vital foothold for the liberation of Europe. Today, it remains a serene but haunting stretch of coastline, located directly beneath the solemn grounds of the Normandy American Cemetery. History K8 - World War II and amphibious operations.",
+    "facts": [
+      "The troops landing at Omaha faced the crack German 352nd Infantry Division, which had secretly reinforced the area.",
+      "American forces suffered an estimated 2,400 casualties on Omaha Beach on D-Day alone.",
+      "The iconic 'Pointe du Hoc' is located just west of Omaha, where US Rangers scaled 30-meter cliffs under heavy fire.",
+      "The beach remains largely undeveloped today as a mark of respect for the soldiers who perished there."
+    ]
+  },
+  "fr-chateau-vincennes": {
+    "desc": "The Château de Vincennes, located on the eastern edge of Paris, is a massive medieval fortress that served as a primary royal residence before the construction of Versailles. Dominated by an imposing 52-meter-tall keep, the highest in Europe, it was designed both as a luxurious palace and a formidable defensive stronghold. Throughout its history, the fortress has adapted to numerous roles, transitioning from a royal hunting lodge to an infamous state prison, housing notable figures like the Marquis de Sade and the philosopher Diderot. Its thick defensive walls and surrounding moat offer a stark contrast to the elegant Renaissance palaces built later. History K8 - medieval fortifications and state prisons.",
+    "facts": [
+      "The central keep (donjon) is the tallest fortified medieval tower in Europe.",
+      "The infamous spy Mata Hari was executed by firing squad in the fortress moat during World War I in 1917.",
+      "It housed the French royal treasury and was considered the safest stronghold in the kingdom.",
+      "During World War II, retreating German forces heavily damaged the château and executed prisoners here in 1944."
+    ]
+  },
+  "fr-mont-blanc": {
+    "desc": "Mont Blanc, rising to 4,807 meters on the French-Italian border, is the highest mountain in the Alps and the highest peak in Western Europe. Coated in perpetual snow and ancient glaciers, its massive, glaciated dome dominates the Chamonix valley. It is considered the birthplace of modern mountaineering, famously summited for the first time in 1786. Today, the Mont Blanc massif attracts millions of visitors annually, ranging from extreme alpinists tackling its dangerous ridges to tourists riding the spectacular Aiguille du Midi cable car for panoramic views of the high alpine environment. Geography K8 - alpine environments and glacial geology.",
+    "facts": [
+      "The first successful ascent was made in 1786 by Jacques Balmat and Michel Paccard, sparking the era of alpinism.",
+      "The Mont Blanc Tunnel, stretching 11.6 kilometers, connects Chamonix in France with Courmayeur in Italy.",
+      "The exact elevation of the mountain fluctuates slightly every year depending on the depth of the snowcap.",
+      "The massif contains over 40 distinct glaciers, covering an area of around 100 square kilometers."
+    ]
+  },
+  "fr-gorges-verdon": {
+    "desc": "The Gorges du Verdon, located in the Provence-Alpes-Côte d'Azur region, is widely regarded as Europe's most beautiful river canyon. Carved over millennia by the Verdon River, the gorge plunges down to 700 meters deep and stretches for roughly 25 kilometers through a rugged limestone plateau. Its striking, surreal turquoise-green waters contrast dramatically with the sheer white cliffs, making it a premier destination for rock climbing, kayaking, and hiking. The dramatic, winding roads along the rim offer breathtaking panoramic views, showcasing the incredible erosive power of nature over millions of years. Geography K7 - river erosion and limestone topography.",
+    "facts": [
+      "The striking turquoise color of the water is caused by microscopic glacial rock flour suspended in the river.",
+      "The gorge features over 1,500 established rock climbing routes on its sheer limestone walls.",
+      "It was largely unexplored and unmapped until the early 20th century due to its treacherous terrain.",
+      "At the end of the gorge, the river flows into the artificial Lake of Sainte-Croix, popular for swimming and boating."
+    ]
+  },
+  "fr-calanques": {
+    "desc": "The Calanques National Park protects a spectacular stretch of rugged Mediterranean coastline situated between Marseille and Cassis. A 'calanque' is a steep-walled, narrow inlet formed by the erosion of ancient limestone valleys that were partially submerged as sea levels rose following the last Ice Age. The resulting landscape is a dramatic contrast of stark white cliffs, deep ravines, and crystal-clear azure waters. Because of its fragile ecosystem and extreme summer temperatures, access is strictly regulated to preserve its unique biodiversity and raw, wild beauty. Geography K7 - coastal erosion and Mediterranean ecosystems.",
+    "facts": [
+      "The park includes both a land area of 85 square kilometers and a massive protected marine area.",
+      "Access to the Calanques is heavily restricted during the summer months due to the high risk of forest fires.",
+      "The underwater Cosquer Cave, located nearby, contains prehistoric rock art dating back 27,000 years.",
+      "The area is incredibly popular for 'coasteering' and deep-water soloing along the cliffs."
+    ]
+  },
+  "fr-camargue": {
+    "desc": "The Camargue is a vast, untamed river delta located where the Rhône River meets the Mediterranean Sea in southern France. It is the largest river delta in Western Europe, comprising a fragile landscape of brackish lagoons, salt flats, and expansive reed beds. This unique wetland ecosystem is famously home to free-roaming herds of ancient white Camargue horses, robust black bulls, and massive flocks of bright pink flamingos. Beyond its remarkable biodiversity, the region has a distinct cultural identity rooted in the traditions of the 'gardians'—the traditional French cowboys who herd the livestock. Geography K6 - river deltas and wetland biodiversity.",
+    "facts": [
+      "The Camargue is one of the few places in Europe where greater flamingos breed in large numbers.",
+      "The region is a major producer of salt, harvested from massive geometric evaporation ponds.",
+      "The traditional 'gardians' still ride the white Camargue horses to manage the herds of black bulls.",
+      "It is the only region in France where rice is cultivated on a large commercial scale."
+    ]
+  },
+  "fr-dune-pilat": {
+    "desc": "The Dune of Pilat, situated on the Atlantic coast near the Bay of Arcachon, is the tallest sand dune in Europe, towering over 100 meters above sea level. This massive, constantly shifting geographical anomaly is trapped between the crashing waves of the ocean and the expansive pine forests of the Landes region. Driven by strong prevailing winds and ocean tides, the dune is slowly moving inland, burying trees and roads at a rate of several meters per year. Scaling its steep, sandy slopes rewards visitors with a stunning, contrasting panorama of deep blue water and endless green forest. Geography K7 - wind erosion and coastal dune systems.",
+    "facts": [
+      "The dune contains roughly 60 million cubic meters of sand and is nearly 3 kilometers long.",
+      "It moves inland by roughly 1 to 5 meters every year due to the relentless coastal winds.",
+      "Paragliders frequently use the strong updrafts created by the dune for extended flights over the coast.",
+      "The exact height of the dune changes constantly depending on wind conditions, usually hovering around 105 meters."
+    ]
+  },
+  "fr-corsica-gr20": {
+    "desc": "The GR20 in Corsica is legendary among outdoor enthusiasts as one of the most grueling and spectacular long-distance hiking trails in Europe. Stretching roughly 180 kilometers diagonally across the island's mountainous interior, it connects Calenzana in the north to Conca in the south. The trail demands immense physical endurance as hikers navigate sheer granite faces, treacherous scree slopes, and sudden, severe alpine weather systems. Despite the danger, those who conquer it are rewarded with unparalleled views of pristine alpine lakes, jagged peaks, and distant glimpses of the Mediterranean Sea. Geography K8 - alpine trekking and mountain climates.",
+    "facts": [
+      "The entire trail takes roughly 15 days to complete, with hikers staying in basic mountain refuges.",
+      "The total elevation gain across the hike is over 10,000 meters, more than climbing Mount Everest from sea level.",
+      "The northern half of the trail is notoriously steeper, rockier, and more technical than the southern half.",
+      "Late snowpack can make the highest passes completely impassable well into June."
+    ]
+  },
+  "fr-pyrenees-np": {
+    "desc": "The Pyrenees National Park stretches along the mountainous border between France and Spain, offering a landscape of profound natural beauty and ecological significance. The park is characterized by deep glacial cirques, most notably the colossal Cirque de Gavarnie with its towering vertical rock walls and spectacular cascading waterfalls. The region serves as a crucial sanctuary for endangered European wildlife, including brown bears, lammergeier vultures, and the agile Pyrenean chamois. Its rugged terrain and traditional pastoral farming practices have helped preserve a way of life that has remained unchanged for centuries. Geography K7 - glacial formations and border mountain ranges.",
+    "facts": [
+      "The Cirque de Gavarnie features the highest waterfall in mainland France, dropping 422 meters.",
+      "The park spans over 100 kilometers along the French-Spanish border.",
+      "It is part of a larger transboundary UNESCO World Heritage site, shared with the Ordesa National Park in Spain.",
+      "The traditional Pyrenean mountain dog was specifically bred in this region to protect sheep from wolves and bears."
+    ]
+  },
+  "fr-vanoise": {
+    "desc": "Vanoise National Park, created in 1963 as France's very first national park, is an expansive protected alpine sanctuary located in the Savoy region. Bordering Italy's Gran Paradiso National Park, together they form one of the largest protected alpine habitats in Western Europe. The park was originally established specifically to save the Alpine ibex from extinction, a conservation effort that proved tremendously successful. Characterized by colossal glaciers, high-altitude meadows, and deep valleys, it provides a dramatic, pristine contrast to the heavily developed mega-ski resorts located just outside its boundaries. Geography K6 - wildlife conservation and alpine ecosystems.",
+    "facts": [
+      "The park was created in response to the near-extinction of the Alpine ibex, whose population has since rebounded.",
+      "It contains over 100 mountain peaks exceeding 3,000 meters in altitude.",
+      "Hunting is strictly prohibited within the core zone of the park to protect the fragile wildlife.",
+      "The park is a haven for the golden eagle, one of the largest birds of prey in Europe."
+    ]
+  },
+  "fr-lascaux": {
+    "desc": "The Lascaux Cave in southwestern France contains some of the most extraordinary and well-preserved examples of Paleolithic cave art ever discovered. Painted roughly 17,000 years ago, the cave walls are adorned with hundreds of intricate, dynamic figures of large animals, including horses, stags, and massive aurochs. The staggering level of detail and understanding of perspective shown in the 'Hall of the Bulls' fundamentally changed modern understanding of prehistoric human intelligence and creativity. The original cave was permanently closed to the public in 1963 to prevent damage from carbon dioxide and humidity, but exact replicas allow visitors to experience the magic safely. History K6 - prehistoric art and early human culture.",
+    "facts": [
+      "The cave was discovered by accident in 1940 by four teenagers and their dog.",
+      "The artists used natural mineral pigments, primarily iron oxides for reds and manganese for blacks.",
+      "The original cave was closed because the breath of 1,200 daily visitors caused damaging fungus to grow on the walls.",
+      "Lascaux IV is a flawless, full-scale digital and physical replica of the entire cave system, opened in 2016."
+    ]
+  },
+  "fr-mer-de-glace": {
+    "desc": "The Mer de Glace (Sea of Ice) is the largest glacier in France, a massive, winding river of ice stretching over 7 kilometers down the northern slopes of the Mont Blanc massif. For over a century, it has been a major tourist attraction, accessible via the historic Montenvers cogwheel railway departing from Chamonix. Visitors can descend into an artificial ice cave carved directly into the heart of the glacier, witnessing the brilliant blue hues of the ancient ice. However, it also serves as a stark, visual indicator of global climate change, as the glacier has retreated significantly and thinned dramatically over the past few decades. Geography K8 - glaciology and the impacts of climate change.",
+    "facts": [
+      "The glacier moves down the valley at a rate of roughly 90 meters per year.",
+      "Due to global warming, the glacier has lost over 80 meters in thickness since the 1990s.",
+      "A new ice cave has to be carved into the glacier every single year because the ice is constantly moving.",
+      "The Montenvers railway was inaugurated in 1908, making the high alpine environment accessible to tourists."
+    ]
+  },
+  "fr-reims-cathedral": {
+    "desc": "The Cathedral of Notre-Dame de Reims is an absolute triumph of High Gothic architecture and holds a peerless place in French history. For nearly a millennium, this soaring, magnificently decorated cathedral served as the traditional site for the coronation of the Kings of France, cementing the divine right of the monarchy. Its exterior is famous for an incredible density of sculptures, particularly the famous 'Smiling Angel' (L'Ange au Sourire). Despite suffering catastrophic damage from artillery fire during World War I, it was painstakingly restored, standing today as a monument to both royal grandeur and modern resilience. History K8 - Gothic architecture and French royal history.",
+    "facts": [
+      "The cathedral is adorned with over 2,300 statues, the highest number of any European cathedral.",
+      "It suffered a devastating fire in 1914 after being shelled, melting its lead roof completely.",
+      "The iconic 'Smiling Angel' statue was decapitated during a bombardment but was carefully reconstructed.",
+      "American philanthropist John D. Rockefeller Jr. heavily funded the cathedral's post-war restoration."
+    ]
+  },
+  "fr-avignon": {
+    "desc": "Avignon is an elegant, historically rich city in Provence, famously known as the 'City of Popes'. During the 14th century, the papacy fled the political chaos of Rome and relocated to Avignon, resulting in the construction of the Palais des Papes, the largest Gothic palace in the world. Enclosed by beautifully preserved medieval ramparts, the city's historic core is a labyrinth of cobbled streets and shaded squares. It is also world-renowned for the 'Festival d'Avignon', one of the most important contemporary performing arts festivals globally, held every summer in the palace courtyard. History K8 - the Avignon Papacy and medieval history.",
+    "facts": [
+      "Seven successive popes resided in Avignon between 1309 and 1377, a period known as the Avignon Papacy.",
+      "The Palais des Papes is so massive that it contains over 15,000 square meters of floor space.",
+      "The famous bridge 'Pont d'Avignon' only partially crosses the Rhône River, as half of it was washed away by floods.",
+      "The city's historic center, including the palace and the bridge, is a designated UNESCO World Heritage site."
+    ]
+  },
+  "fr-annecy": {
+    "desc": "Annecy is a breathtakingly picturesque alpine town in southeastern France, often affectionately called the 'Venice of the Alps'. It is built around the northern tip of Lake Annecy, celebrated as the purest and cleanest lake in Europe, and is crisscrossed by a network of charming, flower-lined canals. The town's historical centerpiece is the Palais de l'Isle, a distinctively shaped 12th-century castle built on a triangular island in the middle of the Thiou canal. Framed by snow-capped peaks, Annecy flawlessly combines medieval charm with world-class outdoor recreation, ranging from paragliding to pristine open-water swimming. Geography K7 - alpine lakes and sustainable tourism.",
+    "facts": [
+      "Lake Annecy is considered Europe's cleanest lake due to strict environmental regulations introduced in the 1960s.",
+      "The Palais de l'Isle, historically a prison and a mint, is one of the most photographed monuments in France.",
+      "The town hosts the prestigious Annecy International Animation Film Festival every June.",
+      "The surrounding mountains make it one of the premier paragliding destinations in the world."
+    ]
+  },
+  "fr-dijon": {
+    "desc": "Dijon is the historic and affluent capital of the Burgundy region, widely celebrated for its magnificent medieval architecture and world-class gastronomy. During the 14th and 15th centuries, it was the seat of the incredibly wealthy and powerful Dukes of Burgundy, who funded the construction of the opulent Palace of the Dukes. The city's skyline is defined by distinctive 'toits bourguignons', striking roofs made of colorful, geometrically arranged glazed tiles. Today, it is best known globally as the namesake of Dijon mustard and serves as the primary gateway to the legendary Burgundy wine route. History K7 - the Duchy of Burgundy and regional gastronomy.",
+    "facts": [
+      "The famous Dijon mustard was originally created here by substituting vinegar with 'verjuice' (unripe grape juice).",
+      "Touching the small stone owl carved into the side of the Church of Notre-Dame with your left hand is said to grant a wish.",
+      "The Palace of the Dukes of Burgundy now houses one of the finest fine arts museums in France.",
+      "The city is a major center for the production of 'Crème de cassis', a sweet blackcurrant liqueur."
+    ]
+  },
+  "fr-aix-en-provence": {
+    "desc": "Aix-en-Provence is a vibrant, elegant university city in southern France, celebrated for its sun-drenched squares, leafy boulevards, and hundreds of ornate fountains. The city's golden-stone architecture reflects a deep aristocratic history, particularly along the majestic Cours Mirabeau, lined with 17th-century mansions. It is profoundly associated with the Post-Impressionist painter Paul Cézanne, who was born here and obsessively painted the nearby Montagne Sainte-Victoire. Combining thermal spring heritage with youthful energy, Aix remains a quintessential hub of Provencal culture and high art. Geography K7 - Mediterranean climate and artistic heritage.",
+    "facts": [
+      "Aix-en-Provence is known as the 'City of a Thousand Fountains'.",
+      "The city was originally founded in 122 BC by the Romans primarily for its thermal hot springs.",
+      "Paul Cézanne's original studio, preserved exactly as he left it, is a major tourist attraction.",
+      "The city is famous for 'Calissons', a traditional sweet made from candied melon and ground almonds."
+    ]
+  },
+  "fr-bordeaux": {
+    "desc": "Bordeaux, set majestically on the banks of the Garonne River, is the undisputed wine capital of the world and a triumph of 18th-century urban planning. Its historical center, known as the 'Port of the Moon' due to the crescent shape of the river, features sweeping neoclassical facades and expansive squares like the Place de la Bourse. For centuries, the city's immense wealth was driven by maritime trade, particularly the export of its prestigious wines to the British Empire. Following extensive modern renovations, including the addition of a sleek tramway and the stunning 'Miroir d'eau' reflecting pool, it has become one of France's most dynamic and attractive cities. Economics K8 - global wine trade and urban revitalization.",
+    "facts": [
+      "The Bordeaux wine region generates over 14 billion euros annually for the local economy.",
+      "The 'Miroir d'eau' (Water Mirror) is the world's largest reflecting pool, alternating between a mirror effect and artificial mist.",
+      "Bordeaux has the highest number of preserved historical buildings of any city in France outside of Paris.",
+      "The innovative 'Cité du Vin' museum is an immersive, high-tech center dedicated to the global history of wine."
+    ]
+  },
+  "fr-rouen": {
+    "desc": "Rouen is the historical capital of Normandy, a city defined by its dramatic Gothic architecture, half-timbered houses, and tragic historical events. It sits on the heavily trafficked Seine River, having prospered immensely during the Middle Ages through textile and maritime trade. The city's skyline is dominated by the spectacular Rouen Cathedral, whose soaring, intricate facade was famously painted repeatedly by Claude Monet to capture the changing light. However, the city is perhaps best known as the place where the legendary French heroine Joan of Arc was tried for heresy and burned at the stake in 1431. History K7 - the Hundred Years' War and Gothic art.",
+    "facts": [
+      "The towering spire of Rouen Cathedral made it the tallest building in the world from 1876 to 1880.",
+      "The 'Gros-Horloge' is a beautifully ornate 14th-century astronomical clock set into an arch spanning a main street.",
+      "Joan of Arc's execution site in the Old Market Square is now marked by a striking modern church.",
+      "The city was heavily bombed during World War II, but its historic center was meticulously restored."
+    ]
+  },
+  "fr-saint-tropez": {
+    "desc": "Saint-Tropez is a small coastal town on the French Riviera that transformed from a quiet military stronghold and fishing village into the ultimate playground for the global jet set. Its rise to international fame began in the 1950s, catalyzed by the iconic actress Brigitte Bardot and the influx of the French New Wave cinema movement. Today, the town presents a striking duality: traditional Provencal markets and pétanque matches contrast sharply with the colossal superyachts moored in the harbor and exclusive beach clubs lining Pampelonne Beach. Despite the massive influx of summer wealth, the old town retains its narrow, pastel-colored charm. Economics K7 - luxury tourism and cultural influence.",
+    "facts": [
+      "The town's fame skyrocketed after the release of the 1956 film 'And God Created Woman' starring Brigitte Bardot.",
+      "Historically, it was the first town on the French coast to be liberated by Allied forces in August 1944.",
+      "Pampelonne Beach, located just south of the town, is the epicenter of its exclusive beach club scene.",
+      "The local Citadel was built in the 17th century to defend the coastline against attacks by the Ottoman Empire."
+    ]
+  }
+}

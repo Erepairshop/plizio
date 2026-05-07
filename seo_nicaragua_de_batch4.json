@@ -1,0 +1,375 @@
+{
+  "lang": "de",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-francisco-de-cuapa-chontales-cities-v2",
+      "descriptionAdvanced": "San Francisco de Cuapa ist eine kleine Gemeinde im Departement Chontales, die durch angebliche Marienerscheinungen in den 1980er Jahren nationale und internationale Bekanntheit erlangte. Der Seher Bernardo Martínez berichtete von Visionen der Jungfrau Maria, was Cuapa zum wichtigsten Marienwallfahrtsort Nicaraguas machte. Das daraus entstandene Heiligtum (Santuario de Cuapa) zieht jährlich Tausende von Pilgern an. Geografisch ist die Region durch weite Savannen und den markanten "Piedra de Cuapa", einen massiven Monolithen, der viele lokale Legenden inspiriert, geprägt. Die Wirtschaft der Gemeinde basiert, typisch für Chontales, fast vollständig auf extensiver Rinderzucht und der Produktion von Milch und Käse. Kultur K6 — Religiöse Wallfahrtsorte und lokale Legenden.",
+      "factsAdvanced": [
+        "National bekannt für die Marienerscheinungen der "Virgen de Cuapa" im Jahr 1980.",
+        "Das Santuario de Cuapa ist einer der wichtigsten katholischen Wallfahrtsorte des Landes.",
+        "Der Piedra de Cuapa ist ein gigantischer Felsmonolith, der fast 150 Meter hoch aufragt.",
+        "Die Gemeinde wurde am 30. Juli 1997 offiziell als eigenständig registriert.",
+        "Ein Großteil der Einwohner arbeitet in der Rinderzucht (Ganadería).",
+        "Es gibt zahlreiche lokale Mythen über Fabelwesen (Duendes), die am Monolithen leben sollen."
+      ]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "descriptionAdvanced": "Santo Domingo ist eine vom Goldfieber geprägte Bergstadt im Departement Chontales. Seit dem späten 19. Jahrhundert, als ausländische Firmen hier die ersten großen Adern entdeckten, wird das Leben in der Stadt durch den Bergbau diktiert. Heute operiert hier die Mine von B2Gold, aber hunderte Familien leben auch vom gefährlichen, informellen Schürfen (Güirisería). Diese Abhängigkeit vom Goldabbau hat der Stadt Phasen großen Reichtums, aber auch massive ökologische und soziale Probleme beschert, insbesondere bezüglich der Wasserqualität. Die isolierte Lage in den hochgelegenen Ausläufern des Amerrique-Gebirges sorgt für ein merklich kühleres und feuchteres Klima als im Rest von Chontales. Wirtschaft K8 — Industrieller und informeller Goldabbau.",
+      "factsAdvanced": [
+        "Die Geschichte und Wirtschaft der Stadt sind komplett vom Goldabbau dominiert.",
+        "Der industrielle Bergbau begann hier bereits im späten 19. Jahrhundert durch britische Firmen.",
+        "Ein großer Teil der Bevölkerung arbeitet als informelle Goldschürfer (Güiriseros).",
+        "Wurde im Jahr 1913 in den Status einer eigenständigen Gemeinde erhoben.",
+        "Das Klima in Santo Domingo ist feucht und aufgrund der Höhenlage recht kühl.",
+        "Wassermangel und Umweltverschmutzung durch Quecksilber/Zyanid sind ständige Herausforderungen."
+      ]
+    },
+    {
+      "id": "la-libertad-chontales-cities-v2",
+      "descriptionAdvanced": "La Libertad ist landesweit bekannt als die Geburtsstadt von Präsident Daniel Ortega und Kardinal Miguel Obando y Bravo, zwei der einflussreichsten Persönlichkeiten der jüngeren nicaraguanischen Geschichte. Historisch und wirtschaftlich ist die Gemeinde jedoch ein klassisches Zentrum des Goldabbaus. Die industrielle Mine "La Libertad" ist eine der produktivsten Tagebau-Goldminen des Landes. Gelegen in einer unebenen, hügeligen Landschaft im Departement Chontales, teilt sich die lokale Wirtschaft in zwei Lager: den großangelegten Bergbau und die traditionelle Rinderzucht, die weite Teile der ländlichen Umgebung dominiert. Geschichte K8 — Nationalfiguren und Extraktionsindustrien.",
+      "factsAdvanced": [
+        "Geburtsort von Präsident Daniel Ortega und dem ehemaligen Kardinal Miguel Obando y Bravo.",
+        "Beheimatet eine der größten und ertragreichsten Tagebau-Goldminen Nicaraguas.",
+        "Die Stadt wurde am 11. Februar 1855 offiziell unter dem Namen La Libertad gegründet.",
+        "Historisch ein Anziehungspunkt für ausländische Mineninvestoren seit dem 19. Jahrhundert.",
+        "Neben dem Goldabbau ist die Viehzucht der zweitwichtigste Wirtschaftszweig.",
+        "Die Landschaft ist von steilen Hügeln und tiefen Tälern geprägt."
+      ]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "descriptionAdvanced": "Teustepe ist eine ländliche Gemeinde im Departement Boaco, die sich entlang der Hauptverkehrsader von Managua ins Landesinnere entwickelt hat. Die Stadt ist berühmt für ihre Thermalquellen in Aguas Claras, die durch die vulkanischen Brüche in der Region gespeist werden und therapeutische Zwecke erfüllen. Ein wichtiges geographisches Merkmal ist der nahegelegene künstliche Stausee Las Canoas, der zur Bewässerung der westlichen Ebenen angelegt wurde, aber auch der lokalen Fischerei dient. Die Bewohner von Teustepe leben traditionell von der Viehzucht sowie dem Trockenfeldbau, vor allem Hirse und Bohnen, da die Region stark unter sommerlichen Dürreperioden leidet. Geografie K6 — Künstliche Stauseen und Thermalquellen.",
+      "factsAdvanced": [
+        "Bekannt für die Thermalquellen von Aguas Claras, die Touristen anziehen.",
+        "Der künstliche Stausee Las Canoas liegt teilweise auf dem Gemeindegebiet.",
+        "Wurde am 28. Februar 1970 offiziell vom Rang einer Villa zur Stadt erhoben.",
+        "Teustepe bedeutet in Nahuatl "Ort der Götter" oder "Ort der wilden Kakaobäume".",
+        "Gehört zum trockenen Korridor und leidet in den Sommermonaten unter Wasserknappheit.",
+        "Dient als wichtiger landwirtschaftlicher Umschlagplatz (Empalme de Boaco) an der Autobahn."
+      ]
+    },
+    {
+      "id": "santa-lucia-boaco-cities-v2",
+      "descriptionAdvanced": "Santa Lucía, ein verborgenes Juwel in den felsigen Hügeln des Departements Boaco, zeichnet sich durch seine spektakuläre Topografie aus. Die kleine Stadt ist umgeben von beeindruckenden Felsformationen und Basaltklippen, was sie zu einem wachsenden Zentrum für lokalen Ökotourismus und Klettern macht. Die Gegend ist auch berühmt für ihre Tropfsteinhöhlen (Cuevas de Cocinera). Kulturell bewahrt die sehr ruhige und isolierte Gemeinde eine koloniale Struktur mit gepflasterten Straßen. Die Wirtschaft basiert auf Subsistenzbauern, die auf den steilen Hängen vor allem Mais, Bohnen und in höheren Lagen etwas Kaffee anbauen. Naturkunde K5 — Karstlandschaften und Ökotourismus.",
+      "factsAdvanced": [
+        "Die Gemeinde ist für ihre außergewöhnlichen Felsformationen und Tropfsteinhöhlen berühmt.",
+        "Wurde am 16. August 1904 offiziell als Gemeinde (Municipio) registriert.",
+        "Die Wirtschaft stützt sich auf traditionelle Landwirtschaft an sehr steilen Hängen.",
+        "Aufgrund der Höhenlage herrscht ein kühleres Mikroklima als im benachbarten Teustepe.",
+        "Wird zunehmend von Abenteuertouristen (Wandern, Klettern) entdeckt.",
+        "Die Bevölkerung feiert jedes Jahr im Dezember ihre Schutzpatronin, die Heilige Lucia."
+      ]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "descriptionAdvanced": "Camoapa, die wirtschaftliche Hauptstadt des Departements Boaco, ist stolz auf ihre tiefe Verwurzelung in der Viehzucht und im Lederhandwerk. Die Stadt beherbergt einige der wichtigsten Viehmärkte und Schlachthöfe Nicaraguas und veranstaltet jährlich die Hatofer, die renommierteste landwirtschaftliche Messe der Region, die Züchter aus ganz Zentralamerika anzieht. Darüber hinaus ist Camoapa das nationale Zentrum für die Herstellung feiner Lederwaren, insbesondere von handgefertigten Stiefeln und Sätteln, sowie für die Kunst des Pita-Flechtens (Sombreros aus Pflanzenfasern). Kulturell hat sich Camoapa seinen rustikalen, ländlichen Charakter bewahrt. Wirtschaft K7 — Viehmärkte und Lederhandwerk.",
+      "factsAdvanced": [
+        "Jährlicher Gastgeber der "Hatofer", der wichtigsten Vieh-Messe im Zentrum Nicaraguas.",
+        "Berühmt für hochwertiges Lederhandwerk, einschließlich maßgefertigter Sättel und Stiefel.",
+        "Wurde am 2. März 1926 in den offiziellen Rang einer Stadt (Ciudad) erhoben.",
+        "National bekannt für das Flechten feiner Hüte aus Pita-Fasern (Sombreros de Pita).",
+        "Ein großes Produktionszentrum für Pitahaya (Drachenfrucht) und Kaffee.",
+        "Camoapa bedeutet in indigenen Dialekten "Ort der Macaw-Vögel"."
+      ]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "descriptionAdvanced": "San José de los Remates ist eine schwer zugängliche, bergige Gemeinde an der Grenze zwischen Boaco und Matagalpa. Diese Höhenlage verleiht der Region ein feuchtes, kühles Klima, das sie drastisch vom trockenen Rest des Departements Boaco unterscheidet. Die steilen, dicht bewaldeten Hänge der Cordillera de Dariense bieten ideale Bedingungen für den Anbau von hochwertigem Schattenkaffee, der das Rückgrat der lokalen Wirtschaft bildet. Der Berg Cerro Alegre überragt das kleine Tal, in dem die Siedlung liegt. Die Infrastruktur ist rudimentär, und das Leben der Bevölkerung ist eng mit dem Rhythmus der landwirtschaftlichen Ernten verbunden. Geografie K6 — Kaffeekulturen und Bergklima.",
+      "factsAdvanced": [
+        "Gelegen in der Cordillera de Dariense, was der Stadt ein frisches Bergklima verleiht.",
+        "Der höchste Berg der Region, Cerro Alegre, dominiert die Landschaft der Gemeinde.",
+        "Die Kaffeeproduktion ist der absolute Mittelpunkt der lokalen Landwirtschaft.",
+        "Wurde 1848 offiziell als städtische Siedlung (Villa) anerkannt.",
+        "Die Gemeinde ist für ihren ökologischen Reichtum an Nebelwäldern bekannt.",
+        "Der Name "Los Remates" stammt angeblich von den versteigerten Landparzellen der Kolonialzeit."
+      ]
+    },
+    {
+      "id": "puerto-corinto-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Corinto (Puerto de Corinto) im Departement Chinandega ist das unverzichtbare logistische Herz Nicaraguas am Pazifik. Etwa 70 bis 80 Prozent des gesamten Seeaußenhandels des Landes werden über diesen Tiefwasserhafen abgewickelt. Er verfügt über spezialisierte Terminals für Container, Schüttgut, flüssige Massengüter (inklusive Öl) und sogar eine Pier für internationale Kreuzfahrtschiffe. Der Hafen, der 1858 als Ersatz für El Realejo gegründet wurde, ist strategisch mit der Panamericana verbunden, was ihn zum primären Exporttor für nicaraguanischen Kaffee, Zucker und Rindfleisch nach Asien und an die US-Westküste macht. Die ständige Modernisierung durch die Hafenbehörde EPN ist für die nationale Wirtschaft lebenswichtig. Wirtschaft K8 — Seehandel und globale Logistikketten.",
+      "factsAdvanced": [
+        "Schlägt etwa 70 bis 80% des gesamten nicaraguanischen Seefrachtvolumens um.",
+        "Der Hafen wurde offiziell am 20. Dezember 1858 gegründet, um El Realejo abzulösen.",
+        "Verfügt über spezifische Terminals für Container, flüssiges Schüttgut und Kreuzfahrtschiffe.",
+        "Dient als Hauptexporttor für nicaraguanischen Zucker, Kaffee, Erdnüsse und Rindfleisch.",
+        "Wird von der staatlichen Hafenbehörde Empresa Portuaria Nacional (EPN) betrieben.",
+        "Liegt auf einer Insel, die durch Brücken mit dem Festland von Chinandega verbunden ist."
+      ]
+    },
+    {
+      "id": "puerto-sandino-economic-v2",
+      "descriptionAdvanced": "Puerto Sandino, ehemals Puerto Somoza, ist der zweitwichtigste Pazifikhafen Nicaraguas und liegt im Departement León. Seine primäre Funktion ist strategisch: Er dient als Hauptanlandepunkt für importiertes Rohöl. Die Infrastruktur ist einzigartig, da große Öltanker das Rohöl über Unterwasserpipelines (Monobuoys) direkt zur einzigen Ölraffinerie des Landes nach Managua pumpen. Neben dem Energiesektor wird der Hafen für den Import von Klinker für die nahegelegene Zementfabrik in San Rafael del Sur genutzt. Historisch wurde der Hafen 1983 während des Contra-Krieges von CIA-gestützten Kräften sabotiert und schwer beschädigt, was enorme nationale Verluste verursachte. Wirtschaft K8 — Nationale Energiesicherheit und Ölimporte.",
+      "factsAdvanced": [
+        "Hieß vor der Sandinistischen Revolution (1979) offiziell Puerto Somoza.",
+        "Der wichtigste nicaraguanische Hafen für den Import von Rohöl und Derivaten.",
+        "Nutzt Unterwasser-Pipelines (Monoboyas), um Schiffe vor der Küste zu entladen.",
+        "Pumpt das importierte Rohöl direkt zur einzigen nationalen Raffinerie in Managua.",
+        "War 1983 Ziel eines großangelegten Sabotageaktes auf seine Öllagerstätten.",
+        "Wird auch massiv für den Import von Rohstoffen für die Zementindustrie (Klinker) genutzt."
+      ]
+    },
+    {
+      "id": "puerto-el-bluff-economic-v2",
+      "descriptionAdvanced": "Der Hafen von El Bluff liegt strategisch günstig auf einer Halbinsel in der Bucht von Bluefields an der Karibikküste (RACCS). Er fungiert als der primäre Seehafen Nicaraguas am Atlantik, hat aber historisch mit unzureichendem Tiefgang und dem Fehlen einer direkten Straßenverbindung ins Landesinnere gekämpft. Waren, die hier ankommen, müssen oft auf Flusskähne umgeladen werden, um über den Río Escondido nach El Rama zu gelangen. Die Wirtschaft des Hafens ist zudem stark vom Umschlag und der Verarbeitung von Meeresfrüchten, insbesondere Fisch und Hummer, abhängig. Derzeit gibt es Bestrebungen und Studien, einen neuen, tiefen Hafen in Bluefields zu bauen, um El Bluff zu entlasten oder zu ersetzen. Geografie K7 — Karibische Hafenlogistik und Fischerei.",
+      "factsAdvanced": [
+        "El Bluff ist der primäre Handelshafen Nicaraguas an der karibischen Küste.",
+        "Liegt auf einer Halbinsel, die die Bucht von Bluefields vom offenen Meer trennt.",
+        "Hat keinen direkten Straßenanschluss; Güter müssen per Boot ins Landesinnere transportiert werden.",
+        "Ein wichtiger Umschlagplatz für die industrielle Fischerei und Hummerverarbeitung.",
+        "Leidet chronisch unter Sedimentation, was den Zugang für große Frachtschiffe erschwert.",
+        "Wurde im 19. Jahrhundert als Zoll- und Kontrollposten für die Mosquitoküste etabliert."
+      ]
+    },
+    {
+      "id": "puerto-arlen-siu-economic-v2",
+      "descriptionAdvanced": "Der Arlen Siu Hafen, gelegen in der Stadt El Rama (RACCS), ist ein außergewöhnlicher Binnenhafen und ein logistisches Nadelöhr für Nicaragua. Obwohl er knapp 100 Kilometer landeinwärts liegt, erreichen ihn internationale Frachtschiffe von der Karibik aus, indem sie den mächtigen Río Escondido hinauffahren. Benannt nach der sandinistischen Märtyrerin Arlen Siu, ist der Hafen das wichtigste Tor für den Handel zwischen Nicaragua und der US-Ostküste sowie der Karibik. Da er der einzige Karibikhafen mit direkter und durchgehender Straßenanbindung (Autobahn) nach Managua ist, laufen fast alle Güter für den atlantischen Markt über diese Docks. Wirtschaft K7 — Flussschifffahrt und intermodaler Transport.",
+      "factsAdvanced": [
+        "Ein internationaler Flusshafen (Binnenhafen), der fast 100 km vom Meer entfernt liegt.",
+        "Internationale Frachtschiffe erreichen ihn über den Río Escondido von der Karibik aus.",
+        "Der einzige Hafen der Karibikseite mit einer direkten Autobahnverbindung in den Pazifik.",
+        "Benannt nach der jungen sandinistischen Revolutionärin und Märtyrerin Arlen Siu.",
+        "Handelt hauptsächlich Exportgüter in die USA und in karibische Inselstaaten.",
+        "Schlägt eine beträchtliche Menge an Ro-Ro-Fracht (Roll-on/Roll-off) um."
+      ]
+    },
+    {
+      "id": "puerto-san-juan-del-sur-economic-v2",
+      "descriptionAdvanced": "Der Hafen von San Juan del Sur im Departement Rivas hat sich drastisch von seinen Ursprüngen gewandelt. Im 19. Jahrhundert diente er als belebter Pazifik-Terminal für den Vanderbilt-Transit von Goldgräbern nach Kalifornien. Im 20. Jahrhundert war er ein wichtiger Fischereihafen. Heute konzentriert sich der Hafen jedoch fast ausschließlich auf den internationalen Tourismus und empfängt während der Saison dutzende gigantische Kreuzfahrtschiffe. Da die malerische, halbmondförmige Bucht nicht tief genug für diese Ozeanriesen ist, ankern die Schiffe vor der Küste und bringen die Passagiere mit Tenderbooten an Land, was der lokalen Wirtschaft – von Reiseführern bis zu Kunsthandwerkern – massiven Auftrieb gibt. Wirtschaft K6 — Kreuzfahrttourismus und lokale Wirtschaft.",
+      "factsAdvanced": [
+        "Fungiert primär als Nicaraguas wichtigster Pazifikhafen für internationale Kreuzfahrtschiffe.",
+        "War während des kalifornischen Goldrauschs (1849) der pazifische Abfahrtshafen der Vanderbilt-Route.",
+        "Die Bucht hat keinen Tiefwasserpier; Kreuzfahrtschiffe müssen vor der Küste ankern.",
+        "Ein wichtiger Hub für den Export von lokal gefangenem pazifischen Fisch.",
+        "Der Tourismus hat die traditionelle Logistik- und Fischereiindustrie weitgehend verdrängt.",
+        "Wird wie alle Haupthäfen von der Empresa Portuaria Nacional (EPN) verwaltet."
+      ]
+    },
+    {
+      "id": "puerto-potosi-economic-v2",
+      "descriptionAdvanced": "Puerto Potosí ist ein kleiner, hochspezialisierter Hafen im Departement Chinandega, der strategisch im Golf von Fonseca nahe dem mächtigen Vulkan Cosigüina liegt. Anders als Corinto empfängt Potosí keine riesigen Frachtschiffe, sondern dient einem extrem spezifischen logistischen Zweck: Er fungiert als Fähr- und Frachtterminal für den Kurzstreckenhandel über den Golf von Fonseca, insbesondere für die direkte Fährverbindung nach La Unión in El Salvador. Diese Route erspart Lastwagen den langen und komplizierten Überlandweg durch Honduras. Der Hafen spielt eine wachsende Rolle in den trinationalen Bemühungen (Nicaragua, Honduras, El Salvador), den Golf von Fonseca zu einer gemeinsamen Freihandelszone zu entwickeln. Geografie K7 — Regionale Integration und Golf-Logistik.",
+      "factsAdvanced": [
+        "Gelegen am Golf von Fonseca im äußersten Nordwesten Nicaraguas.",
+        "Betreibt eine strategische kommerzielle Fährverbindung nach La Unión (El Salvador).",
+        "Ermöglicht Frachtunternehmen, den umständlichen Landweg durch Honduras zu vermeiden.",
+        "Wird von der nicaraguanischen Hafenbehörde (EPN) kontinuierlich für regionalen Handel ausgebaut.",
+        "Ein Schlüsselprojekt für die trilaterale Entwicklungszone am Golf von Fonseca.",
+        "Der Hafen liegt in einer abgelegenen, stark landwirtschaftlich geprägten Region am Cosigüina."
+      ]
+    },
+    {
+      "id": "zona-franca-las-mercedes-economic-v2",
+      "descriptionAdvanced": "Die Zona Franca Las Mercedes in Managua ist der Pionier und das Vorzeigemodell der nicaraguanischen Maquila-Industrie (Lohnveredelung). Direkt neben dem internationalen Flughafen gelegen, wurde dieser massive Industriepark in den 1990er Jahren gegründet, um ausländische Direktinvestitionen durch steuerliche Anreize anzulocken. Heute beherbergen die riesigen Hallen Zehntausende von Arbeitern – vorwiegend Frauen –, die Textilien, Bekleidung und Autoteile für globale Marken montieren. Obwohl diese Freihandelszone extrem wichtig für die Schaffung von Arbeitsplätzen und den Exportsektor Nicaraguas ist, gibt es beständig nationale Debatten über die Lohnniveaus und die harten Arbeitsbedingungen in den Fabriken. Wirtschaft K8 — Globalisierung, Freihandelszonen und Textilindustrie.",
+      "factsAdvanced": [
+        "Einer der ältesten und größten Freihandels-Industrieparks in Nicaragua.",
+        "Liegt strategisch günstig direkt neben dem internationalen Flughafen von Managua.",
+        "Beschäftigt Zehntausende von Arbeitern, die Mehrheit davon junge Frauen.",
+        "Die Fabriken (Maquilas) produzieren hauptsächlich Bekleidung und Kfz-Kabelbäume für den Export.",
+        "Unternehmen in der Zone profitieren von massiven staatlichen Steuerbefreiungen.",
+        "Ist das Rückgrat der nicaraguanischen Textilexport-Wirtschaft in die USA."
+      ]
+    },
+    {
+      "id": "ingenio-san-antonio-economic-v2",
+      "descriptionAdvanced": "Das Ingenio San Antonio (ISA) in Chichigalpa (Chinandega) ist nicht nur die größte Zuckerfabrik Nicaraguas, sondern eine der fortschrittlichsten agro-industriellen Anlagen in ganz Zentralamerika. Die Fabrik, gegründet 1890 von der Pellas-Familie, verarbeitet jährlich Millionen Tonnen Zuckerrohr. Über die reine Zuckerproduktion hinaus ist das ISA ein enormer Stromproduzent, der die Biomasse (Bagasse) des Zuckerrohrs verbrennt, um saubere Energie für das nationale Stromnetz zu erzeugen. Außerdem liefert das Ingenio die Melasse an die benachbarte Destillerie für den berühmten Rum Flor de Caña. Der massive Einsatz von Pestiziden und die Nierenkrankheit (CKDnT) unter den Feldarbeitern sind jedoch anhaltende, hochkontroverse Themen. Wirtschaft K8 — Agroindustrie, Bioenergie und Arbeitsgesundheit.",
+      "factsAdvanced": [
+        "Die größte und wichtigste Zuckerfabrik in Nicaragua, gegründet 1890.",
+        "Gehört der einflussreichen Grupo Pellas, einem der größten Konglomerate Zentralamerikas.",
+        "Nutzt Zuckerrohr-Bagasse zur massiven Stromerzeugung (Bioenergie) für das nationale Netz.",
+        "Liefert die Grundstoffe für die Produktion des nationalen Rums Flor de Caña.",
+        "Beschäftigt Tausende von Feldarbeitern während der Erntesaison (Zafra).",
+        "Steht im Fokus internationaler medizinischer Studien bezüglich der Nierenerkrankung CKDnT bei Arbeitern."
+      ]
+    },
+    {
+      "id": "ingenio-monte-rosa-economic-v2",
+      "descriptionAdvanced": "Das Ingenio Monte Rosa in der Gemeinde El Viejo (Chinandega) ist die zweitgrößte Zuckerfabrik Nicaraguas und ein industrielles Kraftpaket des Landes. Im Besitz des multinationalen Konzerns Pantaleon, setzt die Fabrik modernste Technologien ein, um Zucker, Melasse und Energie aus riesigen Zuckerrohrplantagen zu gewinnen, die fast die gesamte lokale Landschaft prägen. Wie sein Konkurrent San Antonio speist auch Monte Rosa in der Erntezeit (Zafra) massiv aus Bagasse generierten Strom in das nationale Netz ein. Das Unternehmen engagiert sich in starken sozialen Programmen in der Umgebung, muss sich jedoch den gleichen harten ökologischen und gesundheitlichen Herausforderungen der industriellen Monokulturen stellen. Landwirtschaft K7 — Multinationale Konzerne und Zucker-Monokulturen.",
+      "factsAdvanced": [
+        "Zweitgrößter Zuckerproduzent Nicaraguas, gelegen im Departement Chinandega.",
+        "Befindet sich im Besitz der Grupo Pantaleon, einem multinationalen Zucker-Konzern aus Guatemala.",
+        "Die Anlage erzeugt durch Verbrennung von Bagasse (Biomasse) Strom für das nationale Netz.",
+        "Verarbeitet das Zuckerrohr von Tausenden Hektar umliegender industrieller Monokulturen.",
+        "Die Zuckerernte (Zafra) von November bis Mai ist der wichtigste Wirtschaftsfaktor der Region.",
+        "Das Unternehmen unterhält eigene Krankenhäuser und Schulen für seine Arbeiter und deren Familien."
+      ]
+    },
+    {
+      "id": "mina-el-limon-economic-v2",
+      "descriptionAdvanced": "Die Mina El Limón im Departement León (Gemeinde Malpaisillo) ist eine der ältesten kontinuierlich betriebenen Goldminen in Nicaragua. Seit ihrer formalen Eröffnung in den 1940er Jahren hat die Mine Millionen Unzen Gold gefördert. Heute wird sie von der kanadischen Calibre Mining betrieben und ist ein komplexes System aus Untertage- und Tagebauanlagen. Die Wirtschaft des gesamten gleichnamigen Dorfes Mina El Limón hängt von den Arbeitsplätzen, der Energie und dem Wasser ab, das die Mine bereitstellt. Konflikte über Arbeitsrechte, Entlassungen und Umweltauswirkungen haben in der Vergangenheit wiederholt zu schweren, teilweise gewalttätigen Protesten geführt, die zeitweise den gesamten Betrieb lahmlegten. Wirtschaft K8 — Industrieller Bergbau und Arbeitskonflikte.",
+      "factsAdvanced": [
+        "Eine der langlebigsten und produktivsten industriellen Goldminen Nicaraguas (seit den 1940ern).",
+        "Wird derzeit von dem kanadischen Bergbauunternehmen Calibre Mining Corporation betrieben.",
+        "Das benachbarte Dorf Mina El Limón existiert primär wegen und für die Mine.",
+        "Betreibt sowohl tiefe Untertagebau-Schächte als auch moderne Tagebau-Gruben.",
+        "Im Jahr 2015 erlebte die Mine massive Arbeiterproteste, die in landesweite Schlagzeilen mündeten.",
+        "Ein Großteil des produzierten Goldes (Doré-Barren) wird für die Raffinierung ins Ausland exportiert."
+      ]
+    },
+    {
+      "id": "mina-la-libertad-economic-v2",
+      "descriptionAdvanced": "Die Mina La Libertad im Departement Chontales ist die größte Tagebau-Goldmine Nicaraguas und ein fundamentaler Pfeiler des nationalen Exportsektors. Betrieben von Calibre Mining, nutzt die Mine riesige offene Gruben, um geringgradiges Erz zu extrahieren, das dann in einer massiven Anlage chemisch aufbereitet wird. Das ständige Rauschen schwerer Muldenkipper prägt das Leben in der namensgebenden Kleinstadt. Die industrielle Minentätigkeit hat jedoch weitreichende Folgen: Die massive Umwälzung der Landschaft hat zur Verlegung ganzer Flüsse und Dörfer geführt, während lokale informelle Schürfer (Güiriseros) ständig mit dem Großkonzern um Zugang zu abbaufähigem Gestein verhandeln oder streiten. Geografie K7 — Tagebau-Technik und Landnutzungskonflikte.",
+      "factsAdvanced": [
+        "Nicaraguas größte Tagebau-Goldmine, gelegen im Departement Chontales.",
+        "Wird ebenfalls von dem kanadischen Konzern Calibre Mining verwaltet.",
+        "Produziert jährlich Zehntausende Unzen Gold und trägt maßgeblich zum BIP bei.",
+        "Die Erweiterung der riesigen Tagebau-Gruben zwingt oft zur Umsiedlung lokaler Bevölkerung.",
+        "Ein beträchtlicher Teil der lokalen Flusssysteme wurde für den Bergbau modifiziert.",
+        "Der Konflikt zwischen dem Konzern und Tausenden informellen Kleinschürfern ist omnipräsent."
+      ]
+    },
+    {
+      "id": "mina-bonanza-economic-v2",
+      "descriptionAdvanced": "Die Bonanza-Mine, das historische Kronjuwel des Bergbau-Dreiecks in der Karibikregion (RACCN), blickt auf über ein Jahrhundert Goldförderung zurück. Unter der Kontrolle von HEMCO (ebenfalls zu Calibre Mining gehörend) hat sich Bonanza durch ein relativ einzigartiges Koexistenz-Modell entwickelt: Das Unternehmen kauft systematisch das goldhaltige Erz von Tausenden handwerklichen Schürfern (Güiriseros) auf, die in kleinen Kooperativen organisiert sind, und verarbeitet es in seiner modernen industriellen Mühle (Plantel). Dieses Modell soll illegale Bergbaupraktiken reduzieren und die Sicherheit erhöhen. Dennoch bleibt der Bergbau in Bonanza gefährlich, und die ständige Belastung des umgebenden Bosawás-Reservats durch die Bergbau-Aktivitäten ist massiv. Wirtschaft K8 — Handwerklicher Bergbau und Aufkaufmodelle.",
+      "factsAdvanced": [
+        "Historischer Kern des sogenannten Bergbau-Dreiecks in der autonomen Karibikregion.",
+        "Wird von dem Bergbauunternehmen HEMCO (Tochter von Calibre Mining) betrieben.",
+        "Integriert Tausende handwerkliche Goldschürfer (Güiriseros), indem es deren Erz aufkauft.",
+        "Der großindustrielle Untertagebau wird parallel zur handwerklichen Förderung betrieben.",
+        "Die ökologischen Auswirkungen auf den angrenzenden Bosawás-Dschungel sind gravierend.",
+        "Die Mine erlebte in ihrer Geschichte mehrfach tragische Einstürze handwerklicher Schächte."
+      ]
+    },
+    {
+      "id": "zona-franca-saratoga-economic-v2",
+      "descriptionAdvanced": "Die Zona Franca Saratoga, strategisch an der neuen Autobahn an der Peripherie der Hauptstadt Managua gelegen (nahe Ciudad Sandino), ist einer der modernsten Freihandels-Industrieparks des Landes. Der Park wurde entwickelt, um die stark wachsende Export-Textilindustrie aufzunehmen, und ist Sitz großer multinationaler Unternehmen, die sich auf die Produktion von Denim, Strickwaren und aktiver Sportbekleidung für den nordamerikanischen Markt spezialisiert haben. Tausende Arbeiter pendeln täglich aus Managua und Ciudad Sandino dorthin. Die Zone gilt als wirtschaftlicher Motor, steht aber typischerweise unter ständiger Beobachtung von Gewerkschaften hinsichtlich der Arbeitsquoten und ergonomischen Bedingungen der Fließbandarbeit. Wirtschaft K7 — Industrieparks und Arbeitsmigration.",
+      "factsAdvanced": [
+        "Moderner Industriepark im Westen von Managua, der unter dem Freihandelszonen-Regime (Zona Franca) operiert.",
+        "Spezialisiert sich stark auf multinationale Bekleidungs- und Textilfabriken (Maquilas).",
+        "Stellt Tausende von formellen Arbeitsplätzen, überwiegend für Einwohner von Ciudad Sandino.",
+        "Die exportierte Ware profitiert vom CAFTA-DR-Freihandelsabkommen mit den USA.",
+        "Die Unternehmen innerhalb der Zone genießen umfassende Befreiungen von Import- und Ertragssteuern.",
+        "Die Fabrikhallen sind riesig und umfassen Tausende von hochgetakteten Nähmaschinen."
+      ]
+    },
+    {
+      "id": "zona-franca-astro-economic-v2",
+      "descriptionAdvanced": "Die Zona Franca Astro in Tipitapa hat sich als gewaltiges Industriezentrum nordöstlich von Managua etabliert. Dieses südkoreanische und taiwanesische Investment-Zentrum ist nicht nur auf Textilien beschränkt, sondern diversifiziert sich in die Herstellung von Autokabelbäumen (Arneses) für globale Autohersteller sowie Kartonagen und Plastikprodukte. Astro ist eine kleine Stadt für sich, mit eigenen Wasseraufbereitungsanlagen, Bankfilialen und medizinischen Zentren auf dem Gelände. Die schiere Masse an Arbeitern, die zu Schichtwechseln aus den Bussen strömen, prägt das Stadtbild von Tipitapa massiv und hat Tipitapa zu einer industriellen Schlafsiedlung für Zehntausende gemacht. Geografie K8 — Ausländische Direktinvestitionen und städtische Expansion.",
+      "factsAdvanced": [
+        "Einer der größten Industrieparks in Nicaragua, gelegen im Industriebezirk Tipitapa.",
+        "Errichtet mit massivem asiatischen (koreanischen und taiwanesischen) Direktinvestitionen.",
+        "Produziert nicht nur Textilien, sondern ist auch ein Hub für Automobilkabelbäume.",
+        "Agiert als autonome Mikrostadt mit interner Logistik, Wasseraufbereitung und Medizin.",
+        "Tipitapa dient aufgrund des Parks als Schlafstadt für Zehntausende Maquila-Arbeiter.",
+        "Die massive Konzentration von Industrie belastet die Infrastruktur und Wasserressourcen der Umgebung."
+      ]
+    },
+    {
+      "id": "parque-industrial-portezuelo-economic-v2",
+      "descriptionAdvanced": "Der Parque Industrial Portezuelo liegt zentral entlang der Carretera Norte in Managua und unterscheidet sich deutlich von reinen Freihandelszonen. Er ist ein massives logistisches und kommerzielles Zentrum, das Lagerhäuser, nationale Vertriebszentren und Leichtindustrie für inländische Konzerne und Supermarktketten beherbergt. Portezuelo ist die Drehscheibe, über die Importgüter aus aller Welt auf den nicaraguanischen Binnenmarkt verteilt werden. Die Architektur ist stark funktional: Hunderte riesiger Lagerhallen (Bodegas) und ständiger Lkw-Verkehr definieren die Anlage. Dies macht den Park zu einem Barometer der nicaraguanischen Inlandsnachfrage und der wirtschaftlichen Konsumkraft. Wirtschaft K6 — Nationale Logistik und Warenverteilung.",
+      "factsAdvanced": [
+        "Ein massiver Logistik- und Industriepark an der Carretera Norte in Managua.",
+        "Fokussiert auf nationale Distribution, Lagerung und Leichtindustrie, nicht nur Freihandels-Export.",
+        "Beherbergt die zentralen Verteillager großer nicaraguanischer Supermarkt- und Handelsketten.",
+        "Spielt eine entscheidende Rolle in der Versorgung der Hauptstadt mit Konsumgütern.",
+        "Besteht fast ausschließlich aus hunderten hochgesicherten Bodegas (Lagerhallen).",
+        "Aufgrund der zentralen Lage verursacht der Lkw-Verkehr starke Staus auf der Hauptautobahn."
+      ]
+    },
+    {
+      "id": "compania-cervecera-de-nicaragua-economic-v2",
+      "descriptionAdvanced": "Die Compañía Cervecera de Nicaragua (CCN), am Rande von Managua gelegen, ist das dominierende Getränkekonglomerat des Landes. Gegründet 1926, ist das Unternehmen heute eine hochmoderne, gewaltige Industrieanlage, die die beiden ikonischen nationalen Biermarken – Victoria und Toña – braut und abfüllt. Das Brauhaus kontrolliert fast den gesamten inländischen Biermarkt und hat Toña erfolgreich als Exportmarke in den USA und Zentralamerika etabliert. Darüber hinaus füllt das Unternehmen Mineralwasser und Softdrinks ab. CCN ist bekannt für seine starke Recycling-Infrastruktur und strikten Umweltschutzprotokolle innerhalb der Anlage, um den enormen Wasserverbrauch der Brauerei auszugleichen. Wirtschaft K7 — Nationale Monopole und Getränkeindustrie.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1926 und heute der größte Getränkehersteller Nicaraguas.",
+        "Produziert die ikonischen und national dominierenden Biermarken "Toña" und "Victoria".",
+        "Das Werk nahe Managua gehört zu den modernsten Brauereianlagen in Zentralamerika.",
+        "Exportiert das Toña-Bier erfolgreich in die Vereinigten Staaten, wo es Nostalgie-Käufer anspricht.",
+        "Die Anlage betreibt fortschrittliche Wasseraufbereitungs- und Flaschen-Recycling-Programme.",
+        "Das Unternehmen hat praktisch ein Monopol auf die heimische industrielle Bierproduktion."
+      ]
+    },
+    {
+      "id": "destileria-flor-de-cana-economic-v2",
+      "descriptionAdvanced": "Die Destilería Flor de Caña in Chichigalpa ist der Stolz der nicaraguanischen Exportindustrie und die Heimat eines der weltweit am meisten prämierten Rums. Die 1890 gegründete Destillerie, die sich am Fuße des Vulkans San Cristóbal befindet, profitiert von dem vulkanischen Wasser und dem heißen Mikroklima, das die Reifung des Rums in den tausenden Weißeichenfässern beschleunigt. Flor de Caña rühmt sich, seinen Rum zu 100% mit erneuerbarer Energie zu produzieren und natürlich, ohne Zuckerzusatz, reifen zu lassen (Slow-Aged-Prozess). Die Anlage ist heute auch ein Premium-Tourismuszentrum, in dem Besucher die massiven Lagerkeller und die Kunst der Rumherstellung besichtigen können. Kultur K5 — Nationale Marken und Premium-Export.",
+      "factsAdvanced": [
+        "Die einzige Destillerie, die den weltberühmten nicaraguanischen Rum Flor de Caña produziert.",
+        "Gegründet im Jahr 1890, wird das Unternehmen heute in der 5. Generation von der Pellas-Familie geführt.",
+        "Der Rum wird durch den vulkanischen Boden und das Wasser des San Cristóbal-Vulkans geprägt.",
+        "Die Anlage rühmt sich einer CO2-neutralen und zu 100 % mit Bioenergie betriebenen Destillation.",
+        "Besitzt riesige klimatisierte Keller, in denen Tausende Fässer für bis zu 30 Jahre reifen.",
+        "Bietet eine luxuriöse "Rum Tour" an, die stark auf internationalen Tourismus ausgerichtet ist."
+      ]
+    },
+    {
+      "id": "planta-geotermica-momotombo-economic-v2",
+      "descriptionAdvanced": "Die Geothermiekraftwerk Momotombo am Fuße des gleichnamigen Vulkans im Departement León war ein Pionierprojekt für erneuerbare Energien in Zentralamerika. Eröffnet in den 1980er Jahren, nutzt die Anlage den extremen vulkanischen Dampf, der aus tiefen Schächten an die Oberfläche gepresst wird, um gewaltige Turbinen zur Stromerzeugung anzutreiben. Obwohl das Kraftwerk einst einen Großteil des Landes mit Energie versorgte, kämpfte es jahrzehntelang mit einem Druckabfall in den Dampfreservoirs. Erst durch erhebliche ausländische Neuinvestitionen (Ormat Technologies) und neue Bohrungen konnte die Anlage stabilisiert werden. Die dichten weißen Dampfwolken über der Anlage sind ein ikonisches Bild für Nicaraguas geothermales Potenzial. Geografie K7 — Vulkanismus und erneuerbare Energiegewinnung.",
+      "factsAdvanced": [
+        "Nicaraguas ältestes und historisch wichtigstes Geothermiekraftwerk (eröffnet 1983).",
+        "Nutzt den Hochdruck-Wasserdampf aus dem extrem aktiven Vulkan Momotombo.",
+        "Das Kraftwerk musste durch neue Tiefenbohrungen gerettet werden, nachdem die Reservoire abkühlten.",
+        "Produziert saubere, erneuerbare Energie (ca. 20-30 Megawatt) für das nationale Netz.",
+        "Liegt direkt am Ufer des Managuasees in unmittelbarer Nähe zu den Ruinen von León Viejo.",
+        "Wird heute mehrheitlich von internationalen Geothermie-Konzernen betrieben."
+      ]
+    },
+    {
+      "id": "planta-geotermica-san-jacinto-tizate-economic-v2",
+      "descriptionAdvanced": "Das Geothermiekraftwerk San Jacinto-Tizate, gelegen in der vulkanischen Kette Maribios in der Gemeinde Telica, repräsentiert die moderne Ära der nicaraguanischen Energiepolitik. Betrieben von dem kanadischen Konzern Polaris Infrastructure, ist diese hochmoderne Anlage der leistungsstärkste geothermische Komplex des Landes und produziert fast ein Fünftel der gesamten benötigten Grundlast Nicaraguas. Das Kraftwerk pumpt Dampf aus extrem tiefen Schächten, der durch Vulkane wie den Telica und Santa Clara erhitzt wird. Dieser Erfolg hat Nicaragua zu einem der wenigen Länder weltweit gemacht, das einen so großen Anteil seines Energiebedarfs aus der Hitze der Erde deckt, wodurch die Abhängigkeit von fossilen Brennstoffen drastisch gesenkt wurde. Naturkunde K6 — Geothermie und Energiematrix.",
+      "factsAdvanced": [
+        "Das leistungsstärkste Geothermiekraftwerk Nicaraguas, betrieben von Polaris Infrastructure.",
+        "Liefert etwa 10 bis 20 Prozent der gesamten nationalen Stromversorgung (Grundlast).",
+        "Nutzt die gewaltige unterirdische Hitze der Maribios-Vulkankette nahe Telica.",
+        "Das Projekt erforderte Investitionen in Höhe von hunderten Millionen US-Dollar.",
+        "Die umgebenden Dörfer wie San Jacinto profitieren von Infrastrukturprojekten des Kraftwerks.",
+        "Die Ausdehnung der Bohrungen wird kontinuierlich fortgesetzt, um die Kapazität zu erhöhen."
+      ]
+    },
+    {
+      "id": "planta-hidroelectrica-centroamerica-economic-v2",
+      "descriptionAdvanced": "Das Wasserkraftwerk Centroamérica, auch bekannt als Planta Mancotal, ist ein Meisterwerk der nicaraguanischen Ingenieurskunst im Departement Jinotega. Es nutzt die massiven Wassermassen des künstlich angelegten Apanás-Sees, der in den 1960er Jahren durch die Stauung des Río Tuma entstand. Das Wasser wird durch gigantische Tunnel mit enormem Druck bergab zu den Turbinen des Kraftwerks geleitet. Diese Anlage ist entscheidend für das nationale Stromnetz, da sie große Mengen an Grundlastenergie liefert. Das gesamte Projekt hat nicht nur die Energieversorgung des Landes revolutioniert, sondern auch den Apanás-See zu einem ökologisch wertvollen Feuchtgebiet gemacht, das Tausende von Vögeln beheimatet und der lokalen Fischerei dient. Wirtschaft K8 — Wasserkraft und Stauseen.",
+      "factsAdvanced": [
+        "Wurde am 27. März 1964 vom damaligen Präsidenten René Schick offiziell eingeweiht.",
+        "Nutzt das Wasser des künstlichen Apanás-Sees im hochgelegenen Departement Jinotega.",
+        "Verfügt über zwei gewaltige 25-Megawatt-Turbinen zur massiven Stromerzeugung.",
+        "Das abfließende Wasser wird später vom Wasserkraftwerk Carlos Fonseca erneut genutzt.",
+        "Der Stausee Apanás ist als Ramsar-Feuchtgebiet von internationaler Bedeutung anerkannt.",
+        "Das Kraftwerk ist anfällig für Dürren (El Niño), die den Wasserstand des Sees drastisch senken."
+      ]
+    },
+    {
+      "id": "planta-hidroelectrica-carlos-fonseca-economic-v2",
+      "descriptionAdvanced": "Das Wasserkraftwerk Carlos Fonseca, früher unter dem Namen Planta Santa Bárbara bekannt, ist der zweite Schritt im kaskadierenden Wasserkraftsystem des nördlichen Nicaraguas. Gelegen im Departement Matagalpa, nutzt diese Anlage das Wasser des künstlichen Sees Virgen, der wiederum das abfließende Wasser des höher gelegenen Kraftwerks Centroamérica aufnimmt. Dieses geniale Kaskadensystem maximiert die energetische Ausbeute des Flusssystems Río Viejo. In den 1970er Jahren erbaut, wurde das Kraftwerk nach der Revolution nach dem sandinistischen Gründer Carlos Fonseca Amador benannt. Es liefert beständig saubere Energie, gerät jedoch in den immer härteren Trockenzeiten in Schwierigkeiten, wenn die Pegel der Talsperren kritisch sinken. Geografie K7 — Kaskadenkraftwerke und Flussmanagement.",
+      "factsAdvanced": [
+        "Historisch bekannt als Wasserkraftwerk Santa Bárbara, erbaut Anfang der 1970er Jahre.",
+        "Nutzt das Wasser, das bereits das höher gelegene Kraftwerk Centroamérica passiert hat (Kaskade).",
+        "Wird aus dem künstlichen Stausee Virgen (Lago de Las Canoas del Norte) gespeist.",
+        "Die Turbinen generieren etwa 50 Megawatt saubere Energie für Nicaragua.",
+        "Nach der Revolution 1979 zu Ehren des FSLN-Gründers Carlos Fonseca umbenannt.",
+        "Starke Regenfälle (Hurrikane) führten in der Vergangenheit zu kritischen Überflutungen der Dämme."
+      ]
+    },
+    {
+      "id": "parque-eolico-amayo-economic-v2",
+      "descriptionAdvanced": "Der Parque Eólico Amayo, gelegen an der Landenge von Rivas, ist der gigantische Pionier der nicaraguanischen Windenergie. Die strategische Lage zwischen dem Pazifischen Ozean und dem riesigen Nicaraguasee erzeugt einen natürlichen Windkanal für starke, konstante Passatwinde (Papagayo-Winde). Amayo war das erste kommerzielle Windkraftprojekt des Landes und half Nicaragua, sich massiv von importiertem Öl unabhängig zu machen. Heute dominieren die riesigen, drehenden Rotorblätter der Dutzenden Windturbinen die flache Landschaft rund um Rivas und bieten ein surreales Bild vor der Kulisse der Zwillingsvulkane der Insel Ometepe. Wirtschaft K8 — Erneuerbare Energien und Windkorridore.",
+      "factsAdvanced": [
+        "Nicaraguas erster kommerzieller Windpark im industriellen Maßstab (Amayo I und II).",
+        "Gelegen im Rivas-Windkorridor, der für seine extrem starken und beständigen Passatwinde bekannt ist.",
+        "Besteht aus über 50 massiven Windkraftanlagen (Turbinen) entlang der Panamericana.",
+        "Produziert jährlich über 60 Megawatt und transformierte die Energiematrix des Landes.",
+        "Erbaut von einem Konsortium aus nord- und zentralamerikanischen Investoren.",
+        "Die Turbinen erreichen Spitzenleistungen in der windigen Trockenzeit (Dezember bis April)."
+      ]
+    },
+    {
+      "id": "parque-eolico-camilo-ortega-economic-v2",
+      "descriptionAdvanced": "Der Parque Eólico Camilo Ortega (häufig auch Eolo-Projekt genannt) ist eine weitere massgebliche Erweiterung des Windenergie-Hubs im Departement Rivas. Dieser hochmoderne Windpark nutzt dieselben perfekten geographischen Bedingungen wie Amayo, um die kräftigen Passatwinde zu ernten. Er ergänzt das Cluster von Windparks, das Rivas zu einer der nachhaltigsten Regionen Zentralamerikas macht. Der Park wurde mit massiven ausländischen Investitionen gebaut und ist ein Beweis für Nicaraguas strategische Entscheidung, sich auf erneuerbare Energien zu konzentrieren. Die Anlage verringert den CO2-Fußabdruck des Landes drastisch und stellt sicher, dass in den trockenen, aber windigen Monaten genug Strom produziert wird, wenn die Wasserkraftwerke aufgrund von Dürren nachlassen. Sachkunde K6 — Nachhaltigkeit und Klimaanpassung.",
+      "factsAdvanced": [
+        "Teil des riesigen Komplexes an Windparks entlang der Panamericana im Departement Rivas.",
+        "Benannt nach dem sandinistischen Helden Camilo Ortega Saavedra.",
+        "Nutzt Turbinen der neuesten Generation, um den starken Papagayo-Wind in Energie zu wandeln.",
+        "Trägt dazu bei, dass Nicaragua während der Trockenzeit (wenn Wasserkraft schwächelt) Strom hat.",
+        "Verhindert jährlich den Ausstoß von Tausenden Tonnen Treibhausgasen (Ersatz von Schweröl).",
+        "Wurde als internationales Klimaschutzprojekt (Clean Development Mechanism) zertifiziert."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "olympic-mountains-relief-v2",
+      "descriptionAdvanced": "The Olympic Mountains on the Olympic Peninsula in Washington state form a massive, high-precipitation alpine massif that is ecologically isolated from the Cascade Range by the Puget Sound lowland. Formed by the tectonic accretion of oceanic crust against the North American continent, this range experiences some of the highest annual rainfall in the United States, which fuels dense temperate rain forests on its windward slopes and extensive alpine glacier systems at its core. As a unique laboratory for studying high-latitude alpine ecology and the massive hydrological influence of rain-shadow biomes, the Olympics are a critical site for monitoring climate-driven glacial retreat. Today, the mountains stand as a majestic, protected wilderness landmark, representing the intense natural forces of the Pacific maritime climate and the vital importance of high-rainfall mountain ecosystems in the American Northwest. Geografie K7 — Tectonic accretion and temperate rainforest hydrology.",
+      "factsAdvanced": [
+        "Rugged alpine massif on the Olympic Peninsula, isolated from the Cascade Range.",
+        "Formed by the complex tectonic accretion of oceanic crust.",
+        "Receives some of the highest annual precipitation in the United States.",
+        "Glacial systems support high-altitude temperate rain forest biomes.",
+        "Critical site for monitoring climate-induced glacial retreat and biodiversity shifts.",
+        "Dominant, majestic landmark defining the ecology of the American Pacific Northwest."
+      ]
+    },
+    {
+      "id": "uinta-mountains-relief-v2",
+      "descriptionAdvanced": "The Uinta Mountains in Utah are unique among North American ranges for their east-west orientation, making them one of the few significant mountain systems in the United States that do not follow the general north-south grain of the continent. Composed of ancient, Precambrian sedimentary rock, the Uintas are a high, expansive range, housing some of the most extensive and fragile alpine tundra biomes in the western United States. Their high-altitude topography, carved deep by Pleistocene glaciers into spectacular cirques and U-shaped valleys, makes them an essential catchment area for the Colorado River system. Today, the Uintas serve as a crucial refuge for high-alpine species and a vital laboratory for studying the impact of climate-driven snowpack loss on high-elevation watersheds in an increasingly arid American West. Geografie K8 — East-west range orientation and high-alpine hydrology.",
+      "factsAdvanced": [
+        "Unique east-west oriented mountain range in the United States.",
+        "Composed of ancient, massive Precambrian sedimentary rock formations.",
+        "Hosts some of the most expansive and fragile alpine tundra biomes in the West.",
+        "Spectacular high-altitude topography carved by extensive Pleistocene glacial action.",
+        "Essential high-elevation catchment area for the regional Colorado River system.",
+        "Key laboratory for studying alpine ecosystem health amid climate-driven snowpack loss."
+      ]
+    },
+    {
+      "id": "tetons-relief-v2",
+      "descriptionAdvanced": "The Teton Range in Wyoming is one of the youngest and most structurally dramatic mountain ranges in North America, defined by a massive, vertical displacement along the Teton Fault. Unlike the older, more gradual uplift of other ranges, the Tetons rise abruptly from the Jackson Hole basin, creating a stark, jagged profile that is a signature of mountain-building tectonic activity. Their relative youth and extreme verticality make the Tetons a world-class laboratory for studying fault-block geomorphology, the impact of rapid tectonic uplift on alpine environments, and the long-term ecological consequences of mountain-range formation in the American West. Today, the Tetons stand as an iconic wilderness landmark, serving as an irreplaceable sanctuary for mountain fauna and a cornerstone for understanding the ongoing, volatile geological transformation of the American interior. Geografie K8 — Fault-block geomorphology and active tectonic uplift.",
+      "factsAdvanced": [
+        "One of the youngest and most structurally dramatic ranges in North America.",
+        "Formed by massive, abrupt vertical displacement along the Teton Fault.",
+        "Rises spectacularly from the Jackson Hole basin into a jagged, vertical profile.",
+        "World-class natural laboratory for studying active fault-block geomorphology.",
+        "Provides a vital, high-elevation sanctuary for iconic Western mountain fauna.",
+        "Iconic wilderness landmark illustrating the ongoing tectonic transformation of the West."
+      ]
+    }
+  ]
+}

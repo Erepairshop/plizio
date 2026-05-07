@@ -1,0 +1,36 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraRwandaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "rwanda-kigali-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kigali, die pulsierende Hauptstadt Ruandas, wurde 1907 gegründet und erstreckt sich heute über ein komplexes Hügelland, das im Durchschnitt 1.567 Meter über dem Meeresspiegel liegt. Die Stadt gilt als eine der saubersten Hauptstädte Afrikas und fungiert als das primäre Wirtschaftszentrum des Landes, das 2023 massiv in die IT-Infrastruktur investierte. Besucher finden hier ein modernes Kongresszentrum, das an eine traditionelle Bienenkorb-Hütte erinnert, und zahlreiche Museen, die die komplexe Geschichte der Region seit der Unabhängigkeit 1962 dokumentieren. Kigali bildet das Herzstück des ruandischen Bildungs- und Handelslebens.",
+        "hu": "Kigali, Ruanda lüktető fővárosa 1907-ben alapíttatott, és ma már komplex dombságokon terül el, átlagosan 1567 méteres tengerszint feletti magasságban. A város Afrika egyik legtisztább fővárosaként ismert, és az ország elsődleges gazdasági központja, amely 2023-ban jelentős összegeket fektetett be az informatikai infrastruktúrába. A látogatók itt találhatják meg a modern konferencia-központot, amely egy hagyományos kaptár alakú kunyhóra emlékeztet, valamint számos múzeumot, amelyek dokumentálják a régió összetett történelmét az 1962-es függetlenség óta. Kigali a ruandai oktatási és kereskedelmi élet szíve.",
+        "ro": "Kigali, capitala vibrantă a Rwandei, a fost fondată în 1907 și se întinde astăzi pe un sistem complex de dealuri, la o altitudine medie de 1.567 de metri deasupra nivelului mării. Orașul este considerat una dintre cele mai curate capitale din Africa și funcționează ca principal centru economic al țării, care în 2023 a investit masiv în infrastructura IT. Vizitatorii găsesc aici un centru de conferințe modern, care amintește de o colibă tradițională în formă de stup, și numeroase muzee care documentează istoria complexă a regiunii de la independența din 1962. Kigali formează inima vieții educaționale și comerciale rwandeze.",
+        "en": "Kigali, the vibrant capital of Rwanda, was founded in 1907 and today stretches across a complex hilly landscape at an average altitude of 1,567 meters above sea level. The city is considered one of the cleanest capitals in Africa and serves as the country's primary economic hub, which invested massively in IT infrastructure in 2023. Visitors find a modern convention center here that resembles a traditional beehive hut, as well as numerous museums documenting the complex history of the region since independence in 1962. Kigali forms the heart of Rwandan education and commercial life."
+      },
+      "factsAdvanced": {
+        "de": ["Gründungsjahr der Stadt ist 1907.", "Durchschnittliche Höhe von 1.567 Metern.", "Erste IT-Sonderwirtschaftszone des Landes.", "Bevölkerung wächst jährlich um etwa 3,5%.", "Sitz des ruandischen Parlamentgebäudes.", "Heimat des Kigali Convention Centre."],
+        "hu": ["A város alapítási éve 1907.", "Átlagos tengerszint feletti magassága 1567 méter.", "Az ország első speciális informatikai gazdasági övezete.", "A népesség évente kb. 3,5%-kal nő.", "A ruandai parlament székhelye.", "A Kigali Kongresszusi Központ otthona."],
+        "ro": ["Anul fondării orașului este 1907.", "Altitudine medie de 1.567 de metri.", "Prima zonă economică specială IT a țării.", "Populația crește anual cu aproximativ 3,5%.", "Sediul clădirii parlamentului rwandez.", "Găzduiește Kigali Convention Centre."],
+        "en": ["Founded in 1907.", "Average altitude of 1,567 meters.", "Country's first special IT economic zone.", "Population grows by about 3.5% annually.", "Seat of the Rwandan parliament building.", "Home to the Kigali Convention Centre."]
+      }
+    },
+    {
+      "id": "rwanda-musanze-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Musanze, früher bekannt als Ruhengeri, liegt im Nordwesten Ruandas am Fuße der majestätischen Virunga-Vulkane auf etwa 1.850 Metern Höhe. Als zentraler Knotenpunkt für den Tourismus zieht die Stadt jährlich tausende Besucher an, die von hier aus zu den Trekkingtouren zu den berühmten Berggorillas im Vulkan-Nationalpark aufbrechen. Die Region ist extrem fruchtbar und wird landwirtschaftlich intensiv für den Anbau von Kartoffeln und Pyrethrum genutzt, einem natürlichen Insektizid. Die Stadt dient als Verwaltungszentrum und bildet das Tor zu den spektakulären Zwillingsseen Burera und Ruhondo.",
+        "hu": "Musanze, korábbi nevén Ruhengeri, Ruanda északnyugati részén fekszik, a fenséges Virunga-vulkánok lábánál, körülbelül 1850 méteres magasságban. A turizmus központi csomópontjaként a város évente több ezer látogatót vonz, akik innen indulnak a Vulkánok Nemzeti Park híres hegyi gorilláihoz vezető túrákra. A régió rendkívül termékeny, és intenzíven használják burgonya, valamint piretrum – egy természetes rovarirtó szer – termesztésére. A város közigazgatási központként szolgál, és kaput képez a látványos Burera és Ruhondo ikertavak felé.",
+        "ro": "Musanze, cunoscut anterior sub numele de Ruhengeri, este situat în nord-vestul Rwandei la poalele maiestuoșilor vulcani Virunga, la aproximativ 1.850 de metri altitudine. Ca nod central pentru turism, orașul atrage anual mii de vizitatori care pleacă de aici în drumeții către faimoasele gorile de munte din Parcul Național al Vulcanilor. Regiunea este extrem de fertilă și este utilizată intensiv pentru cultivarea cartofilor și a piretrului, un insecticid natural. Orașul servește drept centru administrativ și formează poarta către spectaculoasele lacuri gemene Burera și Ruhondo.",
+        "en": "Musanze, formerly known as Ruhengeri, is located in northwestern Rwanda at the foot of the majestic Virunga volcanoes at an altitude of approximately 1,850 meters. As a central hub for tourism, the city attracts thousands of visitors annually who depart from here on trekking tours to see the famous mountain gorillas in Volcanoes National Park. The region is extremely fertile and is intensively used for growing potatoes and pyrethrum, a natural insecticide. The city serves as an administrative center and forms the gateway to the spectacular twin lakes Burera and Ruhondo."
+      },
+      "factsAdvanced": {
+        "de": ["Höhe von ca. 1.850 Metern.", "Zentrum für Pyrethrum-Anbau.", "Tor zum Vulkan-Nationalpark.", "Nähe zu den Zwillingsseen Burera und Ruhondo.", "War früher als Ruhengeri bekannt.", "Wichtiger Ort für Gorilla-Tracking."],
+        "hu": ["Kb. 1850 méteres magasság.", "Piretrum-termesztési központ.", "Kapu a Vulkánok Nemzeti Parkhoz.", "Közelség a Burera és Ruhondo ikertavakhoz.", "Korábban Ruhengeri néven volt ismert.", "Gorilla-túrák kiindulópontja."],
+        "ro": ["Altitudine de aprox. 1.850 de metri.", "Centru pentru cultivarea piretrului.", "Poartă către Parcul Național al Vulcanilor.", "Proximitatea față de lacurile gemene Burera și Ruhondo.", "Cunoscut anterior ca Ruhengeri.", "Loc important pentru tracking-ul gorilelor."],
+        "en": ["Altitude of approx. 1,850 meters.", "Center for pyrethrum cultivation.", "Gateway to Volcanoes National Park.", "Proximity to twin lakes Burera and Ruhondo.", "Formerly known as Ruhengeri.", "Important site for gorilla trekking."]
+      }
+    }
+  ]
+}

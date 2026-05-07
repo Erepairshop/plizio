@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sultan-salahuddin-abdul-aziz-moschee-landmarks-v2",
+      "descriptionAdvanced": "A Sultan Salahuddin Abdul Aziz Shah Mecset, közismert nevén a Kék Mecset, Shah Alam városában, Selangor államban található. A lenyűgöző épület 1988-ban épült, és Malajzia legnagyobb mecsete, amely egyszerre több mint 24 000 hívő befogadására alkalmas. Az építmény legjellegzetesebb vonása a hatalmas, kék-ezüst alumínium kupola, amely 51 méteres átmérőjével a világ legnagyobb vallási kupolái közé tartozik. A négy karcsú minaret magassága eléri a 142 métert. A mecset belsőépítészete a tradicionális maláj és a modern közel-keleti iszlám stílusok ötvözete, az imatermet pedig gyönyörű iszlám kalligráfiával díszítették, melyeket egy egyiptomi művész faragott ki fából. A vallástörténet és művészettörténet oktatásában az iszlám reneszánsz modern ázsiai építészetének ragyogó mintája.",
+      "factsAdvanced": [
+        "1988-ban adták át, jelenleg Malajzia legnagyobb mecsete.",
+        "Kék színű kupolájának átmérője mintegy 51 méter.",
+        "A mecset négy minaretjének magassága eléri a 142 métert.",
+        "Kapacitása alapján egyszerre 24 000 ember tud benne imádkozni.",
+        "A belső faburkolatokat és kalligráfiákat egy egyiptomi mester készítette.",
+        "Nevét Salahuddin Abdul Aziz szultánról, Selangor akkori uralkodójáról kapta."
+      ]
+    },
+    {
+      "id": "christ-church-melaka-landmarks-v2",
+      "descriptionAdvanced": "A Christ Church Malakka belvárosában egy ikonikus, lazacvörös színű protestáns templom, amely a legrégebbi máig működő protestáns egyházi épület Malajziában. 1753-ban szentelték fel, miután a hollandok kiűzték a portugálokat, és elhatározták, hogy saját istentiszteleti helyet építenek, a holland református egyház szabályai szerint. A templom Hollandiából hozott rózsaszín téglákból épült, mennyezetét hatalmas, varratmentes fagerendák tartják. Amikor a britek az 1800-as évek elején átvették Malakkát, az épületet anglikán templommá szentelték át, és ekkor került fel rá az angol nyelvű 'Christ Church' felirat is, valamint a ma ismert jellegzetes vörös festés. A történelem oktatásában a gyarmati hatalomváltások és a vallási építészet újrahasznosításának példája.",
+      "factsAdvanced": [
+        "1753-ban építették a holland református gyülekezet számára.",
+        "Malajzia legrégebbi, ma is aktív protestáns temploma.",
+        "A falakat Hollandiából hajón szállított vörös téglákból emelték.",
+        "A mennyezetet 14 méter hosszú, egyetlen fából faragott gerendák tartják.",
+        "A 19. század elején a brit uralom alatt anglikán templommá szentelték át.",
+        "Jellegzetes lazacvörös színét a britektől kapta az 1910-es években."
+      ]
+    },
+    {
+      "id": "thean-hou-tempel-landmarks-v2",
+      "descriptionAdvanced": "A Thean Hou Templom Kuala Lumpur egyik legrégebbi és legimpozánsabb kínai temploma, mely egy dombtetőn áll (Robson Heights), ahonnan csodálatos kilátás nyílik a modern fővárosra. A hatemeletes épületet a hainani kínai közösség építtette, és 1989-ben adták át hivatalosan; szerkezetileg a buddhizmus, a taoizmus és a konfucianizmus hagyományait ötvözi. A szentélyt Mazu-nak, a tengeristennőnek szentelték (akit Thean Hou-nak is neveznek). A lenyűgöző épület piros pillérekkel, gazdagon díszített tetőszerkezettel és sárkányokat ábrázoló szobrokkal van tele. Az épület egyben fontos kulturális központ is, amely házasságkötések, fesztiválok (mint a Holdújév) és jövendőmondó rituálék népszerű helyszíne. A vallástörténeti tanulmányokhoz a délkelet-ázsiai kínai diaszpóra vallási szinkretizmusának kiváló példája.",
+      "factsAdvanced": [
+        "A hatemeletes templomot 1989 szeptemberében nyitották meg hivatalosan.",
+        "A szentély Mazu-nak (Thean Hou), a tenger és a tengerészek istennőjének van szentelve.",
+        "Építészetében a buddhizmus, a taoizmus és a konfucianizmus elemei is keverednek.",
+        "A Robson Heights dombon fekszik, panorámás kilátással Kuala Lumpurra.",
+        "A templomkomplexumban hivatalos házasságkötő terem is működik.",
+        "A hainani kínai közösség építtette a diaszpóra kulturális központjaként."
+      ]
+    },
+    {
+      "id": "kek-lok-si-tempel-landmarks-v2",
+      "descriptionAdvanced": "A Kek Lok Si, vagyis a Felsőbb Boldogság Temploma Penang szigetén, a Penang-hegy lábánál található, és egész Délkelet-Ázsia egyik legnagyobb buddhista komplexuma. Építése 1890-ben kezdődött, és a helyszín azóta is folyamatosan bővül. A templom fő látványossága a Tízezer Buddha Pagodája (Pagoda of Rama VI), amelyet 1930-ban fejeztek be. Ez a hétemeletes, 30 méter magas torony egyedülálló módon ötvözi a kínai oktogonális alapot, a thai stílusú középső szintet és a burmai koronát, jelképezve a mahájána és a théraváda buddhizmus harmóniáját. A dombtetőn áll továbbá Kuan Jin, az Irgalom Istennőjének hatalmas, 30,2 méteres bronzszobra, amelyet 2002-ben emeltek. Vallástörténeti szempontból a páneurázsiai buddhista építészet ritka fúzióját szemlélteti.",
+      "factsAdvanced": [
+        "Építése 1890-ben kezdődött egy helyi kínai szerzetes vezetésével.",
+        "Délkelet-Ázsia egyik legnagyobb és legkiterjedtebb buddhista komplexuma.",
+        "A Tízezer Buddha Pagodája 30 méter magas és 1930-ban készült el.",
+        "A pagoda építészete a kínai, a thai és a burmai stílusokat ötvözi.",
+        "Kuan Jin (az Irgalom Istennője) bronzszobra a dombtetőn 30,2 méter magas.",
+        "A kínai újév idején a komplexumot tízezernél is több lampionnal világítják ki."
+      ]
+    },
+    {
+      "id": "langkawi-adler-platz-landmarks-v2",
+      "descriptionAdvanced": "Az Adler Platz, vagyis a Sas tér (Dataran Lang) Langkawi szigetének fő kikötővárosában, Kuahban található ikonikus emlékmű. A tengerbe nyúló csillag alakú téren egy hatalmas, 12 méter magas vörösbarna sas szobra áll, amely szárnyait repülésre tárja. A szobor a sziget nevének etimológiáját testesíti meg: a klasszikus maláj nyelvben a 'helang' (vagy rövidítve lang) sast jelent, a 'kawi' pedig vörösbarna ásványt. Az 1996-ban épült tér szökőkutakkal, kis hidakkal és sétányokkal van körülvéve, és az éjszakai kivilágításban a komppal érkező turisták elsőként ezt pillantják meg. A földrajz és a kulturális ismeretek tanulmányozásában a helyi névadási legendák (toponímia) és a turisztikai térfejlesztés klasszikus példája.",
+      "factsAdvanced": [
+        "A téren álló sas szobor magassága eléri a 12 métert.",
+        "Az emlékművet 1996 októberében adták át hivatalosan a közönségnek.",
+        "Langkawi neve a maláj 'sas' (helang) és 'vörösesbarna' (kawi) szavakból ered.",
+        "A tér 19 hektáros területen fekszik Kuah város kikötőjében.",
+        "A szobor csillag alakú alapon áll, mely a tengerbe nyúlik.",
+        "Kifejezetten az érkező tengeri forgalom vizuális fogadására tervezték."
+      ]
+    },
+    {
+      "id": "taman-negara-landmarks-v2",
+      "descriptionAdvanced": "A Taman Negara (Nemzeti Park) a világ egyik legöregebb trópusi esőerdeje, amelynek kora becslések szerint meghaladja a 130 millió évet – jóval régebbi az Amazonas vagy a Kongó-medence esőerdeinél. A mintegy 4343 négyzetkilométeres területet 1938-ban nyilvánították védetté (eredetileg King George V Nemzeti Park néven), és három állam – Pahang, Kelantan és Terengganu – osztozik rajta. A park belsejében található a 2187 méter magas Gunung Tahan, a Maláj-félsziget legmagasabb csúcsa. A sűrű dzsungel otthont ad az olyan veszélyeztetett fajoknak, mint a maláj tigris, az ázsiai elefánt és a borneói orrszarvú. A biológia és földrajz oktatásában a biodiverzitás megőrzésének, a lombkorona-ökoszisztémáknak (itt található a világ leghosszabb lombkorona-sétánya) és az ökoturizmus hatásainak tökéletes helyszíne.",
+      "factsAdvanced": [
+        "A park területe 4343 négyzetkilométer, három maláj államon ível át.",
+        "Becsült kora 130 millió év, ezzel a világ egyik legősibb esőerdeje.",
+        "1938-ban alapították, eredetileg King George V Nemzeti Park néven.",
+        "Itt található a Maláj-félsziget legmagasabb csúcsa, a Gunung Tahan (2187 m).",
+        "A parkban található a világ egyik leghosszabb lombkorona-sétánya (530 méter).",
+        "Olyan veszélyeztetett állatok élőhelye, mint a maláj tigris és a tapír."
+      ]
+    },
+    {
+      "id": "putra-moschee-landmarks-v2",
+      "descriptionAdvanced": "A Putra Mecset Malajzia új közigazgatási fővárosának, Putrajayának a spirituális szíve, mely egy mesterséges tó partján, a miniszterelnöki hivatallal szemben épült. Az 1999-ben átadott lenyűgöző épület legkiemelkedőbb jellegzetessége a rózsaszín márványból készült, 50 méter magas központi kupola. Az építészeti stílus a hagyományos perzsa iszlám dizájnt (különösen a szafavida korszakot) és a helyi maláj elemeket ötvözi. A mecset 116 méter magas, egyedülálló, nyolcszögletű minaretjét a bagdadi Sheikh Omar mecset ihlette. Az építmény egy része cölöpökön áll a tó vizén, így úgy tűnik, mintha a vízen lebegne. A modern építészet és urbanisztika tantárgyakban a vallási szimbólumok mesterséges tájba illesztésének egyik legjobb példája.",
+      "factsAdvanced": [
+        "1999-ben készült el a Putrajaya-tó partján, részben a víz fölé építve.",
+        "Legjellegzetesebb eleme a rózsaszín gránitból készült hatalmas kupola.",
+        "A komplexum minaretje 116 méter magas, és nyolcszögletű alaprajzú.",
+        "Egyidejűleg mintegy 15 000 hívő befogadására alkalmas az imatermekben.",
+        "A perzsa iszlám építészet és a maláj kulturális motívumok ötvözete.",
+        "Közvetlenül a Perdana Putra (Miniszterelnöki Hivatal) mellett található."
+      ]
+    },
+    {
+      "id": "kapitan-keling-moschee-landmarks-v2",
+      "descriptionAdvanced": "A Kapitan Keling Mecset George Town (Penang) központjában található, a 'Harmónia Utcájának' nevezett történelmi tengelyen. A szentélyt 1801-ben alapította az indiai muszlim közösség vezetője, azaz a 'Kapitan Keling', Cauder Mohudeen, akinek a Brit Kelet-indiai Társaság adott földet erre a célra. Az épület kezdetben egyszerű szerkezetű volt, majd a 20. század elején indiai-mór (Mughal) stílusban teljesen újjáépítették, melynek során hatalmas, arany-sárga színű kupolákat és egy csodálatos, toronyszerű minaretet kapott. A belső teret bonyolult boltívek, festett üvegablakok és angol öntöttvas oszlopok díszítik. A társadalomismeret és művészettörténet tantárgyakban az indiai diaszpóra gyarmati korabeli integrációját és építészeti örökségét szemlélteti Délkelet-Ázsiában.",
+      "factsAdvanced": [
+        "1801-ben alapította Cauder Mohudeen, az indiai muszlimok akkori vezetője.",
+        "Nevében a 'Keling' a dél-indiai (tamil) muszlimokra használt történelmi kifejezés.",
+        "Az épületet a 20. század elején építették át indo-mór (Mughal) stílusban.",
+        "Jellegzetes, nagyméretű, sárgára festett Moghul-kupolákkal rendelkezik.",
+        "George Town UNESCO Világörökségi magterületén, a 'Harmónia Utcáján' áll.",
+        "Az udvar körül ívelt, fedett árkádsor fut végig a trópusi esők ellen."
+      ]
+    },
+    {
+      "id": "gurney-drive-landmarks-v2",
+      "descriptionAdvanced": "A Gurney Drive (Persiaran Gurney) Penang szigetének leghíresebb tengerparti sétánya és gasztronómiai központja, amely George Town északi partvidékén húzódik. A sétányt az 1930-as években kezdték kiépíteni (akkor North Beach néven), majd 1952-ben nevezték el Sir Henry Gurney-ről, a meggyilkolt brit főbiztosról. A terület eleinte a gazdagok tengerparti villáinak adott otthont, ma azonban a modern felhőkarcolók, luxusszállodák és hatalmas bevásárlóközpontok sora uralja. Legnagyobb vonzereje az éjszakai utcai ételpiac (hawker centre), ahol Penang legendás gasztronómiája (pl. Char Kway Teow, Asam Laksa) a legautentikusabb formában kóstolható meg. A városföldrajz oktatásban a part menti rekreációs terek és az utcai gasztronómia (street food) gazdaságélénkítő szerepét mutatja be.",
+      "factsAdvanced": [
+        "A sétányt 1952-ben nevezték el Sir Henry Gurney néhai brit főbiztosról.",
+        "Hossza mintegy 3 kilométer George Town északi tengerpartja mentén.",
+        "A város egyik legnépszerűbb és legrégebbi szabadtéri utcai ételpiaca (hawker centre) itt működik.",
+        "Eredetileg (1930-as évek) tengerparti villák és kúriák sorakoztak az út mentén.",
+        "A 2010-es években hatalmas partfeltöltési projekt (Gurney Wharf) indult előtte.",
+        "Az utca egyik végén található a Gurney Plaza, Penang egyik legnagyobb plázája."
+      ]
+    },
+    {
+      "id": "cameron-highlands-landmarks-v2",
+      "descriptionAdvanced": "A Cameron Highlands Pahang államban Malajzia legkiterjedtebb és leghíresebb hegyvidéki üdülőhelye ('hill station'), mely mintegy 1500 méteres tengerszint feletti magasságban terül el. A területet 1885-ben fedezte fel William Cameron brit felfedező és földmérő, de igazi fejlesztése csak az 1920-as években indult meg, amikor a britek menedékként kezdték használni a trópusi hőség elől. A hűvös, átlagosan 15-20 fokos mikroklíma ideális a tea, a szamóca, a rózsák és a zöldségek termesztésére. A tájat smaragdzölden hullámzó teacserjék, koloniális stílusú Tudor-favázas szállodák és sűrű köderdők uralják. Földrajz és mezőgazdaság tanulmányozásában a hegyvidéki klíma mezőgazdasági potenciálját és a gyarmati 'hill station' koncepcióját mutatja be ázsiai környezetben.",
+      "factsAdvanced": [
+        "1885-ben térképezte fel először William Cameron brit felfedező.",
+        "A régió átlagos tengerszint feletti magassága 1500 méter körül mozog.",
+        "Malajzia legjelentősebb teatermesztő vidéke, az ikonikus BOH ültetvények otthona.",
+        "A mikroklíma miatt az éves hőmérséklet ritkán lépi túl a 25 fokot.",
+        "Építészetében dominálnak a brit Tudor-stílusú favázas nyaralók.",
+        "Itt húzódik a híres 'Mossy Forest' (Köderdő), a Gunung Brinchang hegyen."
+      ]
+    },
+    {
+      "id": "penang-hill-landmarks-v2",
+      "descriptionAdvanced": "A Penang Hill, maláj nevén Bukit Bendera, egy 833 méter magas gránitcsúcs, amely George Town fölé magasodik. Ez volt a Brit Birodalom legelső hegyvidéki állomása ('hill station') a Maláj-félszigeten, amelyet a 18. század végén alapítottak a malária és a perzselő parti hőség elkerülésére. A hegycsúcs elérését 1923 óta egy svájci tervezésű siklóvasút (funicular railway) biztosítja, amely a legmeredekebb sziklás szakaszokon is felküzdi magát a dzsungelen keresztül, és ma Ázsia egyik leghosszabb ilyen jellegű vasútja. A tetőn hűvös, tiszta levegő és lélegzetelállító panoráma fogadja a látogatót, tiszta időben egészen Indonéziáig is el lehet látni. A környezetismeret és turizmus oktatásában az esőerdei mikroklímák és a korai trópusi turisztikai infrastruktúra fejlődésének példája.",
+      "factsAdvanced": [
+        "833 méteres magasságával Penang szigetének legmagasabb pontja.",
+        "Ez volt a brit gyarmati idők első hegyvidéki állomása (hill station) Ázsiában.",
+        "A csúcsra vivő történelmi siklóvasutat (funicular) 1923-ban nyitották meg.",
+        "A hegyen a hőmérséklet átlagosan 5 Celsius-fokkal alacsonyabb, mint a parton.",
+        "2021-ben a terület felkerült az UNESCO Bioszféra-rezervátumok listájára.",
+        "A csúcson történelmi hindu templom, mecset és brit kúriák találhatók egymás mellett."
+      ]
+    },
+    {
+      "id": "sipadan-island-landmarks-v2",
+      "descriptionAdvanced": "A Sipadan-sziget Sabah keleti partjainál, a Celebesz-tengerben fekszik, és Malajzia egyetlen igazi óceáni szigete. A mindössze 12 hektáros sziget egy kihunyt tenger alatti vulkán kúpján kialakult mészkőkorall-zátony. A sziget körüli tengerfenék drámai módon, 600 méteres mélységbe zuhan alá, ami páratlan feláramlásokat hoz létre. Sipadan a világ egyik legnagyszerűbb búvárparadicsoma, ahol óriási teknősök, hatalmas barrakuda-rajok, pörölycápák és színpompás korallkertek találhatók. Jacques Cousteau oceanográfus is a Föld legszebb, érintetlen tengeri ökoszisztémájaként írta le. A környezetvédelem érdekében 2004-ben minden szálláshelyet bezártak a szigeten. A biológia és környezetismeret tantárgyak számára a korallzátonyok és a tengeri védett területek törékeny egyensúlyának tökéletes esettanulmánya.",
+      "factsAdvanced": [
+        "Malajzia egyetlen mélytengeri, óceáni eredetű szigete (nem kontinentális talapzaton fekszik).",
+        "A sziget széle 600 méteres mélységbe zuhan alá a Celebesz-tengerben.",
+        "A világ egyik legjelentősebb fészkelőhelye a közönséges levesteknősök számára.",
+        "Jacques-Yves Cousteau 1989-es filmje tette világhírűvé a búvárok körében.",
+        "2004 óta szigorú környezetvédelmi okokból tilos az éjszakai tartózkodás a szigeten.",
+        "A napi búvárok számát egy kvótarendszer (120 fő/nap) korlátozza a zátony védelme érdekében."
+      ]
+    },
+    {
+      "id": "perhentian-islands-landmarks-v2",
+      "descriptionAdvanced": "A Perhentian-szigetek (Pulau Perhentian) Terengganu állam partjaitól mintegy 20 kilométerre találhatók a Dél-kínai-tengerben. A szigetcsoport két fő szigetből áll: a nagyobb, családbarát Perhentian Besar-ból és a kisebb, hátizsákos utazók által kedvelt Perhentian Kecil-ből. A név malájul 'megállóhelyet' jelent, ami a szigetek történelmi szerepére utal a Thaiföld és Malajzia közötti tengeri kereskedelmi útvonalon. A terület szigorúan védett tengeri park, amely kristálytiszta, sekély vizéről, finom fehér homokos partjairól és a felszínhez közel úszó tengeri teknősökről, valamint a színes papagájhalakról híres. Mivel nincsenek autóutak és motoros járművek, a közlekedés kizárólag csónakokkal (vízitaxikkal) vagy erdei ösvényeken történik. Földrajz oktatásban a fenntartható szigeti ökoturizmus és a trópusi atollok bemutatására kiváló.",
+      "factsAdvanced": [
+        "Két fő szigetből áll: Perhentian Besar (Nagy) és Perhentian Kecil (Kis).",
+        "Neve malájul 'megállóhelyet' jelent az ősi tengeri útvonalak miatt.",
+        "A terület a Pulau Redang Nemzeti Tengeri Park védett zónájába tartozik.",
+        "A szigeteken nincsenek aszfaltozott utak, a közlekedés csónakokkal (vízitaxi) történik.",
+        "A part menti sekély vizek fontos táplálkozóhelyei a cserepesteknősöknek.",
+        "A keleti parti monszun miatt november és február között a legtöbb szolgáltatás szünetel."
+      ]
+    },
+    {
+      "id": "genting-highlands-landmarks-v2",
+      "descriptionAdvanced": "A Genting Highlands a Titiwangsa-hegység 1800 méter magas csúcsán (Gunung Ulu Kali) fekszik Pahang államban, mindössze egyórányi útra Kuala Lumpurtól. Ez a 'Szórakoztató Város a Felhők Felett' (City of Entertainment) a hatvanas években egyetlen kínai üzletember, Lim Goh Tong ambiciózus álmaként indult, aki utat vágott a sűrű dzsungelbe, hogy létrehozzon egy hegyi kaszinóközpontot. Malajzia egyetlen legális, szárazföldi kaszinója itt működik, ami több tízmillió látogatót vonz évente. A komplexum gigantikus beltéri és kültéri vidámparkokat, bevásárlóközpontokat és a világ egyik legnagyobb szállodáját (First World Hotel) foglalja magába. A hegycsúcsot Ázsia leggyorsabb és leghosszabb kabinos felvonója (Awana Skyway) köti össze a völggyel. Földrajzból és gazdaságtanból a hegyvidéki szórakoztatóipar és az infrastruktúra-fejlesztés extrém példája.",
+      "factsAdvanced": [
+        "A komplexum 1800 méteres tengerszint feletti magasságban, a dzsungel felett épült.",
+        "Itt található Malajzia egyetlen engedélyezett, szárazföldi kaszinója (1971 óta).",
+        "Az 1960-as évek végén Lim Goh Tong üzletember hozta létre a semmiből.",
+        "A First World Hotel több mint 7300 szobájával a világ egyik legnagyobb szállodája.",
+        "Az Awana Skyway felvonó 2,8 kilométer hosszú, és 10 perc alatt ér fel a csúcsra.",
+        "A klíma hűvös, a hőmérséklet egész évben ritkán haladja meg a 25 fokot."
+      ]
+    },
+    {
+      "id": "istana-budaya-landmarks-v2",
+      "descriptionAdvanced": "Az Istana Budaya (Kultúra Palotája) Malajzia legfontosabb nemzeti színháza és előadóművészeti központja, amely Kuala Lumpurban, a festői Titiwangsa-tó mellett található. Az 1999-ben átadott épület a modern maláj építészet mesterműve; tetőszerkezete a hagyományos maláj virágdíszek ('sirih junjung') hajtogatott formáját, alaprajza pedig a tradicionális maláj sárkány ('Wau Bulan') formáját követi. Belső tere a luxus csúcsa, a padlót Langkawi-szigeti márvány borítja, a színházterem pedig a legmodernebb akusztikai és színpadtechnikai rendszerekkel van felszerelve, amely lehetővé teszi nemzetközi balett-, opera- és zenekari előadások megtartását. Az épület szimbolizálja az ország elkötelezettségét a nemzeti művészetek és a kortárs globális kultúra iránt. Művészet és társadalomismeret keretében a kulturális identitás építészeti kifejezésének esettanulmánya.",
+      "factsAdvanced": [
+        "1999-ben nyílt meg Malajzia legfőbb nemzeti előadóművészeti központjaként.",
+        "Az épület tetejének formáját a hagyományos 'sirih junjung' (bétellevél-kompozíció) ihlette.",
+        "A színházterem Ázsia első olyan színpada volt, amely modern mozgó pódiumokkal rendelkezett.",
+        "Nézőtere összesen 1412 fő befogadására alkalmas.",
+        "A bejárati aulát a Langkawi szigetéről származó fehér márvánnyal burkolták.",
+        "Gyakran ad otthont nemzetközi szintű balett-, opera- és szimfonikus előadásoknak."
+      ]
+    },
+    {
+      "id": "taman-negara-nationalpark-life-v2",
+      "descriptionAdvanced": "A Taman Negara a Maláj-félsziget szívében található hatalmas, érintetlen trópusi esőerdő, amely Pahang, Terengganu és Kelantan államokon ível át. Ez az egyik legöregebb szárazföldi ökoszisztéma a világon, kora meghaladja a 130 millió évet, és a jégkorszakok alatt sem fagyott be, így a biológiai sokféleség zavartalanul fejlődhetett. A sűrű dzsungel otthont ad az ország legritkább állatainak, többek között a maláj tigrisnek, az indiai elefántnak, a tapírnak és a szarvascsőrű madaraknak. A látogatók a folyókon, hosszú csónakokkal (perahu) közlekedve érhetik el az eldugott őserdei táborokat, vagy a fák lombkoronájában kifeszített Canopy Walkway-en (lombkorona-sétányon) csodálhatják meg a madárvilágot. A biológia és környezetismeret oktatásában az ősi trópusi ökoszisztémák és az ökoturizmus szabályozásának klasszikus példája.",
+      "factsAdvanced": [
+        "Több mint 130 millió éves, amivel a világ egyik legöregebb folyamatos esőerdeje.",
+        "Területe eléri a 4343 négyzetkilétert.",
+        "Itt található a világ egyik leghosszabb (530 méteres) lombkorona-sétánya (Canopy Walk).",
+        "Otthont ad a 'Batek' őslakos törzsnek (Orang Asli), akik nomád életmódot folytatnak.",
+        "Több mint 300 madárfaj és 150 emlősfaj azonosított élőhelye.",
+        "A park központja (Mutiara Taman Negara) csak a Tembeling-folyón hajózva közelíthető meg."
+      ]
+    },
+    {
+      "id": "bako-nationalpark-life-v2",
+      "descriptionAdvanced": "A Bako Nemzeti Park Sarawak állam legrégebbi nemzeti parkja, Borneó szigetén, mindössze 37 kilométerre Kuching városától. A Dél-kínai-tengerbe nyúló kis félsziget különlegessége a rendkívül változatos élőhelyek kis területen történő koncentrációja: mangrove mocsarak, sziklaszirtek, homokos öblök és sűrű dipterokarp erdők váltják egymást. A park leghíresebb lakói a borneói nagyorrú majmok (Proboscis monkeys), amelyek hatalmas orrukról és vízi életmódjukról ismertek; szinte kizárólag a mangrove partok közelében figyelhetők meg. Emellett ezüstös langurok, szakállas disznók és húsevő növények (kancsókák) sokasága él itt. A tengerparti erózió drámai sziklaformációkat, mint például az ikonikus 'Kobrafej' (Sea Stack) sziklát hozott létre. A környezetbiológia oktatásában az endemikus fajok és a part menti élőhelyek diverzitásának mintapéldája.",
+      "factsAdvanced": [
+        "Sarawak legrégebbi nemzeti parkja, melyet 1957-ben alapítottak.",
+        "Területe viszonylag kicsi, mindössze 27 négyzetkilométer a Muara Tebas félszigeten.",
+        "Otthona egy jelentős, vadon élő borneói nagyorrú majom (Proboscis) populációnak.",
+        "A partvonalat a tenger eróziója által faragott bizarr homokkő sziklaformációk tarkítják.",
+        "7 különböző trópusi ökoszisztéma található meg ezen a kis területen.",
+        "A parkba nem vezet közút, kizárólag hajóval közelíthető meg a Bako faluból."
+      ]
+    },
+    {
+      "id": "cameron-highlands-teeplantagen-life-v2",
+      "descriptionAdvanced": "A Cameron Highlands teaültetvényei Malajzia legfontosabb agrárturisztikai látványosságai közé tartoznak, Pahang állam hegyvidéki, hűvös mikroklímájában (1500 méter magasan). Az első kereskedelmi célú cserjéket a skót J.A. Russell ültette el itt 1929-ben, megalapítva a híres BOH (Best of Highlands) tea márkát. A zölden hullámzó, meredek domboldalakon sorakozó teabokrok lenyűgöző vizuális élményt nyújtanak, amely a helyi gazdaság motorja. A szedők hagyományos kosarakkal vagy gépi nyírókkal dolgoznak, a learatott leveleket pedig helyben, a történelmi brit gépekkel felszerelt gyárakban dolgozzák fel fekete teává. Földrajz és gazdaságtan tantárgyak keretében a gyarmati agrárgazdaság, a hegyvidéki klíma mezőgazdasági hasznosítása és az élelmiszer-feldolgozás ciklusának tanulmányozására alkalmas helyszín.",
+      "factsAdvanced": [
+        "A teacserjéket 1500 méteres magasságban termesztik az állandó hűvös időjárás miatt.",
+        "A leghíresebb maláj teamárkát, a BOH Teát J.A. Russell skót üzletember alapította 1929-ben.",
+        "Egy teabokorról átlagosan háromhetente lehet új leveleket ('két levél és egy rügy') szüretelni.",
+        "A BOH gyárak ma is használják az 1930-as évekből származó brit feldolgozógépeket.",
+        "A teacserje (Camellia sinensis) akár 100 évig is termőképes marad a hegyekben.",
+        "A Sungai Palas ültetvény modern látogatóközpontja kilátást nyújt a völgy felett."
+      ]
+    },
+    {
+      "id": "legoland-malaysia-life-v2",
+      "descriptionAdvanced": "A Legoland Malaysia Resort Johor állam Iskandar Puteri nevű új fejlesztési övezetében található, és ez volt az első Legoland Ázsiában, amelyet 2012-ben nyitottak meg. A 30 hektáros vidámpark több mint 40 interaktív hullámvasutat, show-műsort és attrakciót kínál, mindezt a híres dán műanyag építőkockák tematikájára építve. A park központja a 'Miniland', ahol Délkelet-Ázsia és a világ leghíresebb nevezetességeit (pl. a Petronas-ikertornyokat, az Angkor Wat-ot, a Taj Mahalt) építették fel több mint 30 millió Lego kockából méretarányos makettként. A vidámparkkomplexum egy víziparkkal és egy tengeri akváriummal (Sea Life) is bővült. Gazdaság és társadalomismeret szempontjából a globális franchise-márkák ázsiai expanziójának és a modern családi turizmus fejlesztésének iskolapéldája.",
+      "factsAdvanced": [
+        "2012 szeptemberében nyílt meg, mint az első ázsiai Legoland tematikus park.",
+        "A 'Miniland' megépítéséhez több mint 30 millió Lego kockát használtak fel.",
+        "A park területe megközelíti a 30 hektárt, és 7 tematikus zónára van osztva.",
+        "Egy komplexum részét képezi, amely Lego Hotelből, víziparkból és Sea Life akváriumból áll.",
+        "Johor állam Iskandar Malaysia nevű hatalmas gazdasági fejlesztési programjának a része.",
+        "A makettek többségét 1:20 méretarányban készítették el a tervezők."
+      ]
+    },
+    {
+      "id": "semenggoh-wildlife-centre-life-v2",
+      "descriptionAdvanced": "A Semenggoh Vadvédelmi Központ Sarawak államban, Kuchingtól délre található, és Borneó egyik legfontosabb orángután-rehabilitációs állomása. Az 1975-ben alapított központ eredetileg azért jött létre, hogy az illegális fogságból kimentett, árván maradt vagy sérült orángutánokat meggyógyítsa, majd megtanítsa őket a vadonban való túlélésre. Ma az erdő egy sikeres, félig vadon élő ('semi-wild') orángután-populációnak ad otthont, amelyek szabadon élnek az erdőrezervátumban, de a gondozók napi kétszer kiegészítő gyümölcsetetést (főleg banánt és kókuszdiót) biztosítanak számukra. Ezek az etetési idők lehetőséget adnak a látogatóknak az állatok megfigyelésére anélkül, hogy zavarnák természetes élőhelyüket. A biológia és etika oktatásában az endémikus fajok védelmének és az erdőirtás hatásainak fontos színtere.",
+      "factsAdvanced": [
+        "1975-ben alapították, eredetileg a sérült orángutánok megmentésére és rehabilitálására.",
+        "A központ egy mintegy 650 hektáros védett esőerdő-rezervátumban található.",
+        "A rehabilitált orángutánok szabadon élnek az erdőben, és maguknak keresnek élelmet.",
+        "Naponta kétszer kiegészítő etetést tartanak, amelyet a látogatók is megfigyelhetnek.",
+        "Borneón az orángután (Pongo pygmaeus) kritikusan veszélyeztetett státuszban van.",
+        "A sikeres tenyészprogram miatt ma már az itt élő egyedek többsége a vadonban született."
+      ]
+    },
+    {
+      "id": "perdana-botanical-gardens-life-v2",
+      "descriptionAdvanced": "A Perdana Botanikus Kert (korábban Lake Gardens) Kuala Lumpur zöld tüdeje, egy 91 hektáros történelmi park a városközpont szívében. 1888-ban A.R. Venning brit államkincstárnok hozta létre az egykori ónbányászati medencék és mocsaras területek helyén, egyfajta angol tájkert stílusban, trópusi növényekkel betelepítve. A park központja egy nagy, mesterséges tó, amelyet sétányok, pavilonok és dombos pázsitok öveznek. Itt található a hatalmas Hibiszkuszkert, az Orchideakert, a Kancsilpark (törpeszarvas-rezervátum) és a híres Madárpark. A botanikus kert történelmileg is fontos helyszín, környékén épültek fel a brit gyarmati tisztviselők elegáns villái. A környezetismeret és urbanisztika tanulmányozásában a trópusi városi zöldterületek mikroklíma-szabályozó szerepének és a várostervezés zöldítésének kitűnő példája.",
+      "factsAdvanced": [
+        "1888-ban alapították, ez Kuala Lumpur legrégebbi és legnagyobb rekreációs parkja.",
+        "Eredeti neve Lake Gardens (Taman Tasik Perdana) volt.",
+        "A 91 hektáros területet A.R. Venning brit gyarmati tisztviselő terveztette meg.",
+        "Külön szekciói vannak, köztük a Hibiszkusz- és Orchideakert, amelyek maláj endémikus fajokat mutatnak be.",
+        "A park központjában egy hatalmas mesterséges tó (Sydney-tó) helyezkedik el.",
+        "A közelben áll a Nemzeti Emlékmű (Tugu Negara) és a Maláj Parlament épülete is."
+      ]
+    },
+    {
+      "id": "kinabalu-park-life-v2",
+      "descriptionAdvanced": "A Kinabalu Park Sabah államban az UNESCO első malajziai természeti Világörökségi helyszíne, amely a 4095 méter magas Kinabalu-hegy körül terül el. A park botanikai jelentősége világszintű: területén a szikláktól a trópusi mélyföldekig négy különböző klimatikus övezet található, amelyek mindegyike egyedi ökoszisztémát tart el. Becslések szerint a 754 négyzetkilométeres parkban több mint 5000 növényfaj, 326 madárfaj és több mint 100 emlősfaj él. Itt található a híres rovaremésztő kancsóka (Nepenthes rajah), és a hegyvidéki dzsungelben néha megpillantható a gigantikus, rothadó hús szagú Rafflesia virág is. A park biológiai hotspotja azt jelenti, hogy több növényfaj él itt, mint egész Európában és Észak-Amerikában együttvéve. A biológia és földrajz oktatásában a biodiverzitás, a magassági övezetesség és az endemizmus fogalmának tankönyvi példája.",
+      "factsAdvanced": [
+        "2000-ben Malajzia legelső UNESCO Természeti Világörökségi helyszíne lett.",
+        "Területe 754 négyzetkilométer a 4095 méteres Kinabalu-hegy körül.",
+        "Több mint 5000 növényfajjal rendelkezik, köztük 1000 orchidea- és 78 fikuszfajjal.",
+        "A világ egyik leggazdagabb élőhelye a rovaremésztő kancsókáknak (Nepenthes).",
+        "A parkban 4 különböző klímazóna (alföldi, hegyvidéki, szubalpin, alpesi) található.",
+        "A biológusok a Föld egyik legfontosabb botanikai 'hotspotjának' (biodiverzitási központjának) tartják."
+      ]
+    },
+    {
+      "id": "sunway-lagoon-theme-park-life-v2",
+      "descriptionAdvanced": "A Sunway Lagoon egy többszörösen díjnyertes, gigantikus vidámpark és vízi élménypark Petaling Jayában, Selangor államban. A komplexum lenyűgöző története a városi táj rehabilitációjához kötődik: az egész 35 hektáros parkot egy mély, elhagyatott ónbánya kráterében építették fel az 1990-es évek elején. A komplexum hat tematikus zónából áll, köztük víziparkkal (ahol a világ legnagyobb mesterséges szörfstrandja működik), extrém parkkal, állatkerttel (Wildlife Park) és egy hatalmas kísértetkastéllyal (Scream Park). A park felett ível át Malajzia leghosszabb gyalogos függőhídja, amelyről lenyűgöző kilátás nyílik az egykori bánya katlanára. Földrajz és városfejlesztés tantárgyak keretében a tönkretett ipari táj turisztikai revitalizációjának és a kreatív urbanisztikának világméretű sikertörténete.",
+      "factsAdvanced": [
+        "Az 1992-ben megnyílt park egy egykori, hatalmas ónbánya 45 méter mély kráterébe épült.",
+        "A komplexum 35 hektáron terül el, és hat tematikus zónára oszlik.",
+        "A vízipark (Water Park) területén található a világ legnagyobb mesterséges szörfözhető strandja.",
+        "A park felett ível át Malajzia leghosszabb (428 méteres) gyalogos függőhídja.",
+        "A parkot integrálták a Sunway Pyramid bevásárlóközponttal és szállodákkal.",
+        "A projekt a környezeti rehabilitáció és a turizmusfejlesztés elismert globális modellje."
+      ]
+    },
+    {
+      "id": "paddy-felder-von-kedah-life-v2",
+      "descriptionAdvanced": "A Kedah államban elterülő végtelen rizsföldek (Paddy Fields) Malajzia legfontosabb agrártájképét alkotják. A régiót a nemzet 'Rizses Táljának' (Rice Bowl of Malaysia) hívják, mivel a hatalmas északnyugati síkságok adják az ország rizstermelésének közel a felét. A tájképet az évszakok dinamikusan alakítják: az ültetéskor a földeket sekély víz borítja, mely hatalmas tükörként veri vissza az eget; a növekedési fázisban élénk smaragdzölddé válik, míg a szüret idejére az egész horizont aranyba borul. Az öntözést részben a Muda Öntözési Projekt (MADA) bonyolult csatornarendszere biztosítja. Alor Setar városában a Rizs Múzeum (Muzium Padi) őrzi a hagyományos és modern maláj rizstermesztés emlékeit. A földrajz és a mezőgazdaság oktatásában a monszun-alapú kultúrák, az élelmiszer-biztonság és a síksági agrárium tökéletes példája.",
+      "factsAdvanced": [
+        "Kedah államot hivatalosan Malajzia 'Rizses Táljaként' (Rice Bowl) emlegetik.",
+        "A síkságok biztosítják az ország teljes rizstermelésének mintegy 40 százalékát.",
+        "Az agrárgazdaságot a hatalmas Muda öntözési hálózat (MADA) szabályozza.",
+        "Évente kétszer van aratás (a trópusi éghajlat és az öntözés miatt).",
+        "A tájkép radikálisan változik: víztükör (ültetés), zöld (növekedés) és sárga (aratás).",
+        "Alor Setar-ban található a 2004-ben épült Rizs Múzeum (Muzium Padi)."
+      ]
+    },
+    {
+      "id": "kuala-gandah-elefanten-waisenhaus-life-v2",
+      "descriptionAdvanced": "A Kuala Gandah Elefánt Menedékhely (National Elephant Conservation Centre) Pahang állam közepén található, és az ázsiai elefántok megmentésére és áthelyezésére specializálódott. Az 1989-ben létrehozott intézmény fő célja a mezőgazdasági terjeszkedés miatt konfliktusba került (ültetvényeket pusztító) vadon élő elefántok biztonságos befogása, és a mély, védett dzsungelekbe, például a Taman Negarába történő átszállítása. A központ a sérült és árva borjakat is befogadja és rehabilitálja. A látogatók a program keretében testközelből ismerhetik meg az állatokat, segíthetnek a gondozóknak (mahutok) a fürdetésükben és az etetésükben a folyóban, miközben megtanulják az erdőirtás következményeit. A biológia és etika oktatásában az ember-vadvilág konfliktus (human-wildlife conflict) és a természetvédelem felelősségének fontos helyszíne.",
+      "factsAdvanced": [
+        "1989-ben alapította a Malajziai Vadvédelmi Minisztérium (PERHILITAN).",
+        "A központ az 'ember-vadvilág konfliktusba' keveredett elefántok áttelepítésével foglalkozik.",
+        "Az itt képzett szakemberek már több száz vad elefántot helyeztek át biztonságos erdőkbe.",
+        "A menedékhely sérült és az anyjukat elvesztett elefántborjakat is gondoz.",
+        "Az ázsiai elefánt (Elephas maximus) Malajziában szigorúan védett és veszélyeztetett faj.",
+        "A látogatók számára interaktív oktatási programokat, folyami fürdetést és etetést is tartanak."
+      ]
+    }
+  ]
+}

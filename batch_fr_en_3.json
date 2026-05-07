@@ -1,0 +1,285 @@
+{
+  "fr-le-mans": {
+    "desc": "Le Mans is a historic city in the Pays de la Loire region, famously synonymous with the grueling '24 Hours of Le Mans' endurance sports car race. Beyond its modern automotive legacy, the city boasts an incredibly well-preserved ancient center, the Cité Plantagenêt. Surrounded by massive Roman walls featuring unique geometric brickwork patterns, the old town is a labyrinth of cobbled streets, timber-framed houses, and Renaissance mansions. At its heart stands the spectacular Cathédrale Saint-Julien, a magnificent architectural hybrid featuring both a Romanesque nave and a soaring Gothic choir. History K7 - Roman fortifications and modern endurance racing.",
+    "facts": [
+      "The '24 Hours of Le Mans' has been held annually since 1923, making it the world's oldest active sports car race in endurance racing.",
+      "The Roman walls enclosing the old city date back to the late 3rd century and are among the best-preserved in Europe.",
+      "The cathedral features an incredibly rare and spectacular set of flying buttresses uniquely splitting into a Y-shape.",
+      "King Henry II of England, the founder of the Plantagenet dynasty, was born in Le Mans in 1133."
+    ]
+  },
+  "fr-montpellier": {
+    "desc": "Montpellier is a vibrant, sun-drenched metropolis located near the Mediterranean coast in the Occitanie region. As one of the few large French cities without significant Roman heritage, its historical center, the Écusson, is characterized by narrow medieval streets leading into grand 18th-century private mansions and expansive squares. The city is home to one of the oldest and most prestigious medical universities in the world, fostering a massive, dynamic student population that infuses the city with youthful energy. Today, it seamlessly blends its elegant past with daring contemporary architecture, such as the neoclassical-inspired Antigone district. Geography K7 - university cities and urban expansion.",
+    "facts": [
+      "The Faculty of Medicine at the University of Montpellier is the oldest practicing medical school in the world, founded in 1220.",
+      "The iconic Place de la Comédie features the elegant 'Three Graces' fountain at its center.",
+      "The city experienced the fastest population growth in France over the past few decades.",
+      "The nearby Saint-Clément Aqueduct is an impressive 18th-century structure modeled directly on the ancient Roman Pont du Gard."
+    ]
+  },
+  "chateau-versailles": {
+    "desc": "The Château de Versailles is the absolute pinnacle of French royal extravagance and the former epicenter of political power in France. Expanded massively by King Louis XIV, the 'Sun King', it was transformed from a humble hunting pavilion into a sprawling, opulent palace designed to project absolute divine right. Its interior is famed for the breathtaking Hall of Mirrors, a sweeping gallery featuring 357 mirrors opposite massive arched windows overlooking the gardens. The palace functioned not just as a residence, but as an elaborate stage for complex court rituals until the French Revolution forced the royal family to flee to Paris. History K8 - absolute monarchy and the French Revolution.",
+    "facts": [
+      "The Hall of Mirrors was where the Treaty of Versailles was signed in 1919, formally ending World War I.",
+      "The palace complex contains over 2,300 rooms and a vast collection of French paintings and sculptures.",
+      "Louis XIV moved his entire court and government to Versailles in 1682 to maintain strict control over his nobles.",
+      "The construction of the palace required the labor of up to 30,000 workers at a time, often working in dangerous conditions."
+    ]
+  },
+  "carcassonne-citadel": {
+    "desc": "The Citadel of Carcassonne is a spectacularly preserved medieval fortress that dominates a hilltop in the Aude region. Enclosed by nearly 3 kilometers of double outer walls and studded with 52 towers, it is a textbook example of a fortified medieval city. It was a crucial stronghold during the intense Albigensian Crusade in the 13th century, serving as a haven for the Cathars before eventually falling to royal forces. Its current fairy-tale appearance is largely due to the extensive and sometimes controversial 19th-century restorations carried out by the architect Eugène Viollet-le-Duc. History K7 - medieval siege warfare and architectural restoration.",
+    "facts": [
+      "The fortress was added to the UNESCO World Heritage list in 1997.",
+      "Within the citadel walls lies the beautifully preserved Basilica of Saints Nazarius and Celsus, featuring stunning Gothic stained glass.",
+      "The city was in such a state of ruin in the 19th century that the French government initially ordered its total demolition.",
+      "It is fully inhabited today, with residents living and running businesses within the ancient walls."
+    ]
+  },
+  "lavender-fields-provence": {
+    "desc": "The lavender fields of Provence form one of the most iconic and visually stunning agricultural landscapes in the world. During the peak summer months, rolling hills across the Vaucluse and Alpes-de-Haute-Provence regions burst into vibrant, fragrant rows of deep purple. The cultivation of lavender, and the more robust hybrid 'lavandin', is deeply ingrained in the local economy and culture, historically centered around the perfume capital of Grasse. Beyond the sheer visual spectacle, the essential oils extracted from these vast fields are prized globally for their use in cosmetics, aromatherapy, and high-end culinary dishes. Geography K6 - agricultural tourism and aromatic crops.",
+    "facts": [
+      "The peak blooming season for lavender in Provence is relatively short, typically spanning from mid-June to early August.",
+      "The Valensole Plateau is widely considered the most famous and extensive area for lavender cultivation.",
+      "True lavender grows at higher altitudes and produces a finer oil, whereas 'lavandin' grows lower and yields significantly more oil.",
+      "The iconic image of the Sénanque Abbey framed by a blooming lavender field is one of the most photographed sights in France."
+    ]
+  },
+  "calanques-de-cassis": {
+    "desc": "The Calanques de Cassis form a breathtaking stretch of rugged coastal topography located between the bustling port of Marseille and the quaint town of Cassis. A calanque is a narrow, steep-walled inlet developed in limestone terrain, essentially functioning as a Mediterranean fjord. The blindingly white limestone cliffs plunge dramatically into deep, exceptionally clear, turquoise waters, creating a striking natural contrast. Access to this fragile marine and terrestrial ecosystem is tightly controlled to protect its unique biodiversity and to prevent devastating summer wildfires, making it a highly prized destination for hikers and boaters. Geography K7 - limestone erosion and coastal conservation.",
+    "facts": [
+      "The highest cliff in the Calanques, Cap Canaille, drops nearly 400 meters vertically into the Mediterranean Sea.",
+      "The Calanque d'En-Vau is widely considered the most spectacular, enclosed by towering, vertical rock faces.",
+      "The region is home to rare plant species that have specifically adapted to grow directly out of the cracks in the limestone cliffs.",
+      "It is a premier destination for 'deep-water soloing', a form of rock climbing directly over the sea without ropes."
+    ]
+  },
+  "lake-annecy": {
+    "desc": "Lake Annecy, nestled in the Haute-Savoie region of the French Alps, is globally celebrated for its breathtaking beauty and incredible water purity. Formed nearly 18,000 years ago by melting alpine glaciers, the lake is fed by numerous pristine mountain springs and underwater rivers. Surrounded by towering, forested peaks, the lake serves as a massive recreational hub for sailing, swimming, and wakeboarding during the summer months. Its pristine condition is the direct result of pioneering environmental regulations enacted in the 1960s, making it a model for sustainable lake management across Europe. Geography K7 - glacial lakes and environmental conservation.",
+    "facts": [
+      "Lake Annecy is widely recognized as the cleanest lake in Europe, thanks to strict wastewater diversion systems.",
+      "It is the second-largest natural lake situated entirely within France.",
+      "The lake features a dedicated cycling path nearly 40 kilometers long that traces almost its entire circumference.",
+      "The incredibly clear water can reach pleasant temperatures up to 24°C (75°F) during the peak of summer."
+    ]
+  },
+  "musee-dorsay": {
+    "desc": "The Musée d'Orsay in Paris is a premier art museum globally renowned for housing the largest collection of Impressionist and Post-Impressionist masterpieces in the world. The museum itself is an architectural marvel, housed within the spectacularly renovated Gare d'Orsay, a massive Beaux-Arts railway station constructed for the 1900 Universal Exhibition. The soaring glass barrel vault of the former train shed now provides extraordinary natural light for viewing works by legends such as Monet, Renoir, Van Gogh, and Cézanne. It serves as the vital chronological bridge connecting the classical antiquities of the Louvre to the modern art of the Centre Pompidou. History K8 - the Impressionist movement and architectural repurposing.",
+    "facts": [
+      "The museum was saved from demolition in the 1970s and officially opened its doors as a museum in 1986.",
+      "It features an enormous, original, functioning station clock that serves as a massive window overlooking the Seine.",
+      "The collection includes iconic works like Van Gogh's 'Starry Night Over the Rhône' and Renoir's 'Bal du moulin de la Galette'.",
+      "The building's original design included a luxurious hotel, parts of which are still used as ornate dining rooms today."
+    ]
+  },
+  "palace-versailles-gardens": {
+    "desc": "The Gardens of the Palace of Versailles represent the absolute zenith of the classical French formal garden style ('jardin à la française'). Designed by the brilliant landscape architect André Le Nôtre for King Louis XIV, the gardens were meticulously planned to impose order and symmetry upon nature, symbolizing the King's absolute power. Covering over 800 hectares, the estate features flawlessly manicured lawns, grand geometric parterres, and an extensive network of sweeping canals and ornamental lakes. The numerous sculptural fountains, powered by complex and historically innovative hydraulic systems, were specifically designed to entertain the royal court. History K7 - landscape architecture and royal courts.",
+    "facts": [
+      "The Grand Canal stretches for over 1.6 kilometers and was used by the King to host spectacular mock naval battles.",
+      "Le Nôtre's design relied heavily on 'forced perspective' to make the gardens appear endless when viewed from the palace.",
+      "The massive Orangery was built to house over a thousand exotic fruit trees, keeping them warm during the harsh winters.",
+      "The fountains originally consumed so much water that they could only be turned on when the King was specifically walking past them."
+    ]
+  },
+  "sainte-chapelle": {
+    "desc": "Sainte-Chapelle is an absolute jewel of the Rayonnant Gothic architectural style, located within the medieval Palais de la Cité in Paris. Commissioned in the 13th century by King Louis IX (Saint Louis), it was built specifically to house his collection of priceless Passion relics, including the Crown of Thorns. The chapel's most breathtaking feature is its upper level, which appears to be constructed almost entirely of stained glass rather than solid stone walls. The fifteen massive windows depict over a thousand distinct biblical scenes, bathing the interior in a mesmerizing kaleidoscope of radiant light and vibrant colors. History K8 - Gothic architecture and religious relics.",
+    "facts": [
+      "The stained glass windows soar to a height of 15 meters, completely dominating the visual space of the upper chapel.",
+      "Roughly two-thirds of the stained glass is completely authentic and original, dating back to the 13th century.",
+      "The chapel was severely damaged during the French Revolution, but was meticulously restored in the 19th century.",
+      "King Louis IX purchased the Crown of Thorns for a sum that was significantly more than the cost of building the entire chapel itself."
+    ]
+  },
+  "city-grenoble-extra": {
+    "desc": "Nestled at the foot of the French Alps, Grenoble is a dynamic city where breathtaking natural landscapes meet cutting-edge innovation. A world-renowned hub for science and technology, it hosts leading research facilities like the European Synchrotron Radiation Facility (ESRF). Beyond its academic and scientific prowess, the city offers a rich tapestry of cultural experiences. Visitors can explore the historic Old Town's charming streets, admire masterpieces at the Musée de Grenoble, or take the iconic 'Les Bulles' cable car up to the Bastille fortress for unparalleled panoramic views of the city and surrounding peaks. This unique blend of outdoor adventure, intellectual vibrancy, and historical depth makes Grenoble a truly captivating destination.",
+    "facts": [
+      "The city is the birthplace of the famed 19th-century novelist Stendhal, author of 'The Red and the Black'.",
+      "With over 50,000 students, the Université Grenoble Alpes is one of France's largest and most influential universities.",
+      "Grenoble was one of the first cities in France to introduce extensive pedestrian-only zones in its city center.",
+      "The region is renowned for its 'Noix de Grenoble' (walnuts), which have been protected by an Appellation d'Origine Contrôlée (AOC) since 1938.",
+      "The city is situated at the confluence of two major rivers, the Isère and the Drac.",
+      "The European Synchrotron Radiation Facility (ESRF) in Grenoble is the world's most intense synchrotron light source, attracting thousands of scientists annually.",
+      "The iconic 'Les Bulles' (The Bubbles) cable car, connecting the city to the Bastille fortress, was one of the world's first urban cable cars.",
+      "Grenoble was distinguished as the European Green Capital in 2022 for its commitment to sustainability."
+    ]
+  },
+  "industry-airbus-toulouse-extra": {
+    "desc": "Toulouse, widely known as the 'Pink City' for its distinct terracotta architecture, is the undisputed beating heart of the European aerospace industry. The massive Airbus facilities surrounding the Toulouse-Blagnac Airport are staggering in scale, acting as the primary final assembly lines for globally crucial commercial aircraft. The crown jewel of this industrial complex is the Jean-Luc Lagardère plant, an architectural behemoth originally constructed specifically to assemble the colossal A380 superjumbo. The site attracts massive technical talent and thousands of visitors annually, cementing France's position as a titan of modern aviation engineering. Economics K8 - global aerospace manufacturing and industrial scale.",
+    "facts": [
+      "The Jean-Luc Lagardère assembly hall is one of the largest single buildings in the world by usable interior volume.",
+      "Aircraft components are flown into Toulouse from across Europe aboard massive, specially modified cargo planes known as 'Belugas'.",
+      "The adjacent Aeroscopia museum houses legendary aircraft, including an original Concorde and a massive Super Guppy.",
+      "The Toulouse aerospace sector employs over 80,000 people, driving the entire regional economy."
+    ]
+  },
+  "port-le-havre-extra": {
+    "desc": "The Port of Le Havre is a sprawling, hyper-modern maritime gateway located exactly where the Seine River empties into the English Channel. It serves as France's primary port for international container traffic and is a vital logistical artery feeding goods directly up the river into Paris. Founded in 1517 by King Francis I explicitly as a strategic port, the city underwent a dramatic and pioneering concrete reconstruction by architect Auguste Perret after being nearly obliterated in World War II. Today, its colossal 'Port 2000' terminals operate around the clock, capable of docking the absolute largest mega-ships currently navigating the global oceans. Economics K7 - maritime logistics and global supply chains.",
+    "facts": [
+      "Le Havre is the second-largest commercial port in France by total tonnage, trailing only Marseille.",
+      "The post-war concrete city center designed by Auguste Perret was declared a UNESCO World Heritage site in 2005.",
+      "The port complex covers over 10,000 hectares, making it significantly larger than the city of Paris itself.",
+      "It is the primary entry point for France's crude oil imports, feeding massive local refineries."
+    ]
+  },
+  "agriculture-bordeaux-vineyards-extra": {
+    "desc": "The vineyards surrounding the city of Bordeaux represent the most prestigious and economically significant fine-wine producing region on the planet. Spanning over 100,000 hectares, the area benefits immensely from a unique maritime climate regulated by the Gironde estuary and the protective pine forests to the south. The region is strictly divided by the river into the 'Left Bank', famous for its robust Cabernet Sauvignon, and the 'Right Bank', known for its smooth Merlot blends. The historic châteaux that dot this landscape have perfected the art of viticulture over centuries, shaping the global standard for luxury wine. Economics K8 - luxury agricultural exports and terroir.",
+    "facts": [
+      "The region produces approximately 700 million bottles of wine every single year, ranging from everyday table wine to the world's most expensive vintages.",
+      "The famous 1855 Bordeaux Classification was commissioned by Emperor Napoleon III to rank the absolute best wines for the Paris Universal Exhibition.",
+      "The specific soil and climate conditions of a vineyard, known as 'terroir', are strictly legally protected.",
+      "A devastating aphid called Phylloxera nearly wiped out every single vine in Bordeaux during the late 19th century."
+    ]
+  },
+  "landmark-viaduc-de-millau-extra": {
+    "desc": "The Millau Viaduct is a breathtaking masterpiece of modern civil engineering, elegantly spanning the deep valley of the Tarn River in southern France. Designed by the acclaimed British architect Norman Foster and French structural engineer Michel Virlogeux, it is currently the tallest bridge in the world. The sleek, multi-span cable-stayed structure was constructed to alleviate massive summer traffic jams en route to the Mediterranean coast, dramatically reducing travel times. Emerging gracefully from the morning mist like a series of massive white sails, it seamlessly blends extreme technical achievement with profound aesthetic beauty. Geography K7 - modern infrastructure and transportation.",
+    "facts": [
+      "The tallest mast of the bridge reaches an incredible 343 meters, making it significantly taller than the Eiffel Tower.",
+      "It spans nearly 2.5 kilometers across the valley but touches the ground at only seven delicate points.",
+      "The bridge deck was constructed on land and slowly pushed out over the valley using massive hydraulic rams.",
+      "It is designed to withstand extreme seismic activity and wind speeds of up to 225 kilometers per hour."
+    ]
+  },
+  "kid-landmark-parc-asterix-extra": {
+    "desc": "Parc Astérix is a massively popular theme park located just north of Paris, deeply rooted in the beloved French comic book series 'Astérix the Gaul'. Unlike standard international theme parks, it offers a distinctly French cultural experience, blending historical parody with intense, modern roller coasters. The park is divided into thematic historical zones, taking visitors through hilarious, exaggerated versions of ancient Gaul, the Roman Empire, and Ancient Greece. It successfully balances thrilling attractions with a fierce, independent national spirit, much like the famous comic book heroes resisting the Roman legions. Culture K6 - European comic arts and national identity.",
+    "facts": [
+      "The park is the second most visited theme park in France, directly competing with nearby Disneyland Paris.",
+      "The massive wooden roller coaster 'Tonnerre de Zeus' is consistently ranked as one of the best in Europe.",
+      "The Astérix comic series has been translated into over 100 languages since its creation in 1959.",
+      "The park features a highly accurate, yet humorous, recreation of a traditional ancient Gaulish village."
+    ]
+  },
+  "mountain-aiguille-du-midi-extra": {
+    "desc": "The Aiguille du Midi is a staggering, needle-like rock peak jutting out of the Mont Blanc massif, reaching an altitude of 3,842 meters. It is world-famous for its incredible cable car system, built in 1955, which holds the record for the highest vertical ascent of any passenger tramway in the world. From the viewing terraces hammered directly into the summit's granite, visitors are treated to an unparalleled 360-degree panorama of the French, Swiss, and Italian Alps. It also serves as the treacherous starting point for extreme skiers and mountaineers attempting to navigate the heavily crevassed Vallée Blanche glacier below. Geography K8 - extreme alpine environments and high-altitude engineering.",
+    "facts": [
+      "The cable car ascends over 2,800 vertical meters in just 20 minutes, completely bypassing the grueling climbing routes.",
+      "Visitors at the summit can step into 'Step into the Void', a sheer glass box suspended over a 1,000-meter drop.",
+      "Temperatures at the summit routinely drop below -20°C (-4°F) even in the middle of summer.",
+      "It serves as the starting point for the legendary 20-kilometer off-piste ski route down the Vallée Blanche."
+    ]
+  },
+  "lake-lake-geneva-extra": {
+    "desc": "Lake Geneva, known in French as Lac Léman, is a massive, crescent-shaped alpine lake shared between France and Switzerland. The French southern shore is characterized by elegant spa towns like Évian-les-Bains and the beautifully preserved medieval village of Yvoire. Framed by the dramatic peaks of the Chablais Alps, the lake is vital to the region's climate, creating a surprisingly mild microclimate that supports lush terraced vineyards along its shores. It is a critical freshwater reservoir for Europe and a premier destination for luxury tourism, sailing, and thermal hydrotherapy. Geography K7 - transboundary lakes and alpine microclimates.",
+    "facts": [
+      "Lake Geneva is the largest body of freshwater entirely within Western Europe.",
+      "The town of Évian-les-Bains on the French shore is the source of the world-famous Évian mineral water.",
+      "The lake is deep enough that its waters rarely freeze over completely, despite the cold alpine winters.",
+      "Distinct historic sailing barges with lateen sails, known as 'barques du Léman', have navigated the lake for centuries."
+    ]
+  },
+  "forest-fontainebleau-forest-extra": {
+    "desc": "The Forest of Fontainebleau is an expansive, ancient woodland located just south of Paris, spanning over 250 square kilometers. Historically the exclusive hunting preserve of French kings, it is characterized by its towering oak and pine trees interspersed with massive, chaotic sandstone boulders. During the 19th century, its dramatic natural beauty deeply inspired the Barbizon school of painters, paving the way for the Impressionist movement. Today, it is globally recognized as the birthplace of modern bouldering, attracting rock climbers from around the world to tackle its unique, friction-heavy sandstone formations. Geography K7 - geological formations and recreational landscapes.",
+    "facts": [
+      "The forest is home to thousands of massive sandstone boulders, formed millions of years ago when the area was a shallow sea.",
+      "It is considered the absolute mecca of 'bouldering', a style of rock climbing performed without ropes over crash pads.",
+      "The forest was one of the first areas in the world to receive official environmental protection status, spearheaded by painters in 1861.",
+      "It features an incredibly diverse ecosystem, harboring over 1,200 species of vascular plants."
+    ]
+  },
+  "agriculture-champagne-region-extra": {
+    "desc": "The Champagne agricultural region in northeastern France is globally revered for producing the world's most prestigious sparkling wine. The area's defining characteristic is its unique terroir: a harsh, cool climate combined with deep, chalky soils that reflect sunlight and retain essential moisture for the vines. This combination forces the grapes to struggle, resulting in the high acidity essential for aging premium sparkling wine. Beneath the picturesque vineyards lie hundreds of kilometers of ancient Roman chalk quarries (crayères), which naturally maintain the exact temperature and humidity required for the crucial second fermentation process in the bottle. Economics K8 - strict agricultural appellations and global luxury goods.",
+    "facts": [
+      "Under international law, only sparkling wine produced strictly within this specific French region can be labeled 'Champagne'.",
+      "The three primary grape varieties used in Champagne are Pinot Noir, Pinot Meunier, and Chardonnay.",
+      "The traditional method ('Méthode Champenoise') requires a painstaking second fermentation directly inside the bottle to trap the carbon dioxide bubbles.",
+      "There are an estimated one billion bottles of Champagne currently aging in the underground cellars of the region."
+    ]
+  },
+  "castle-chateau-haut-koenigsbourg-extra": {
+    "desc": "Château de Haut-Kœnigsbourg is a massive, heavily fortified castle perched strategically on a high rocky spur overlooking the Rhine plain in Alsace. Built in the 12th century, it controlled the vital trade routes for wheat and wine running north to south. After being besieged, burned, and abandoned during the brutal Thirty Years' War in the 17th century, it was left in ruins for over two hundred years. In the early 20th century, German Emperor Wilhelm II ordered a complete, idealized reconstruction of the castle to symbolize the return of Alsace to the German Empire, creating the striking medieval fortress visible today. History K7 - border conflicts and fortress reconstruction.",
+    "facts": [
+      "The castle's imposing pink sandstone walls blend seamlessly into the mountain's natural bedrock.",
+      "The complete restoration was spearheaded by architect Bodo Ebhardt and was highly criticized for being overly romanticized.",
+      "From the castle's highest towers, one can see across the Rhine River directly into the Black Forest of Germany.",
+      "The castle was used as a filming location for Jean Renoir's classic 1937 film 'La Grande Illusion'."
+    ]
+  },
+  "city-clermont-ferrand-extra": {
+    "desc": "Clermont-Ferrand, the historic capital of the Auvergne region, is uniquely situated in a massive volcanic basin surrounded by the dormant peaks of the Chaîne des Puys. The city's architecture is visually striking due to the extensive use of Volvic stone, a dark, porous volcanic rock that gives its magnificent twin-spired Gothic cathedral a distinctive, imposing black facade. Historically, it is famous as the location where Pope Urban II preached the First Crusade in 1095. Today, the city is a major industrial powerhouse, serving as the historic global headquarters for the multinational tire manufacturer Michelin. Geography K7 - volcanic geology and industrial hubs.",
+    "facts": [
+      "The towering Puy de Dôme volcano looms directly over the city and is accessible via a cog railway.",
+      "The Michelin tire company was founded here in 1889 and practically built the modern industrial city around its factories.",
+      "The city was formed by the forced royal merging of two rival towns, Clermont and Montferrand, in 1630.",
+      "The dark volcanic stone used to build the cathedral is incredibly strong but light, allowing for soaring, slender pillars."
+    ]
+  },
+  "kid-landmark-futuroscope-extra": {
+    "desc": "Futuroscope is a massive, highly innovative theme park located near Poitiers that focuses heavily on multimedia, cinematic, and audio-visual techniques rather than traditional roller coasters. Opened in 1987, its architecture is wildly futuristic, featuring massive spheres, crystalline shards, and sharply angled pavilions constructed from glass and steel. The park offers immersive 3D, 4D, and flying theater experiences that blend educational science with thrilling entertainment, often predicting future technological advancements. It serves as a major technological showcase for France, consistently updating its attractions to feature the absolute cutting edge of visual projection and robotics. Culture K6 - technological innovation and modern entertainment.",
+    "facts": [
+      "The park relies heavily on massive IMAX dome screens and advanced motion-simulator technology.",
+      "The iconic 'Pavillon du Futuroscope' building is shaped like a giant crystal bursting from the earth, holding a massive white sphere.",
+      "Over 50 million visitors have passed through its gates since it first opened.",
+      "Many of the park's attractions have an underlying ecological or scientific educational message."
+    ]
+  },
+  "animal-habitat-zoo-de-beauval-extra": {
+    "desc": "The ZooParc de Beauval, located in the Loire-et-Cher department, is widely considered one of the top zoological parks in the world and is the most visited in France. Originally starting as a small ornithological park in 1980, it has expanded massively to house over 35,000 animals across vast, meticulously designed ecological zones. It is deeply committed to global conservation efforts and is uniquely renowned for successfully breeding incredibly rare species. The park features immense geodesic domes simulating equatorial jungles, providing immersive environments for species ranging from manatees to giant pandas. Science K6 - global biodiversity and wildlife conservation.",
+    "facts": [
+      "It is the only zoo in France that currently houses giant pandas, heavily involved in successful captive breeding programs.",
+      "The massive Equatorial Dome houses over 200 tropical species in a climate-controlled, immersive jungle environment.",
+      "The zoo operates its own dedicated conservation foundation, funding wildlife protection projects across the globe.",
+      "It features an expansive African savannah enclosure where rhinos, giraffes, and ostriches roam freely together."
+    ]
+  },
+  "industry-aero-valley-bordeaux-extra": {
+    "desc": "The Aerospace Valley cluster extending from Bordeaux to Toulouse represents one of the most concentrated and vital high-tech industrial corridors in Europe. While Toulouse is dominated by Airbus commercial assembly, the Bordeaux sector is heavily specialized in defense, space exploration, and advanced avionics. Facilities in this region are responsible for manufacturing crucial components of the Ariane rockets, the formidable Rafale fighter jets, and cutting-edge military drones. The area benefits from a massive ecosystem of engineering universities and specialized subcontractors, making it a critical asset for both French national security and the European Space Agency. Economics K8 - defense manufacturing and aerospace engineering.",
+    "facts": [
+      "Dassault Aviation operates a massive assembly plant in Mérignac, producing the advanced Rafale multirole fighter jet.",
+      "The region is a major testing and production center for the solid rocket boosters used on the Ariane space launch vehicles.",
+      "The cluster employs over 100,000 highly skilled engineers and technicians across the region.",
+      "Bordeaux is also heavily involved in the development of cutting-edge laser technologies for optical research and defense."
+    ]
+  },
+  "river-loire-extra": {
+    "desc": "The Loire is the longest river in France, stretching for over 1,000 kilometers from its origins in the rugged Massif Central to the Atlantic Ocean. Unlike many major European rivers, it remains largely untamed and wild, lacking the massive locks and dams that heavily regulate the Rhine or the Seine. This natural, unpredictable flow creates a dynamic landscape of shifting sandbanks, massive floodplains, and lush islands, supporting an incredibly rich biodiversity of migratory birds and fish. The central section of the river, famously lined with magnificent Renaissance châteaux and historic vineyards, is a designated UNESCO World Heritage site. Geography K6 - wild river ecosystems and watershed management.",
+    "facts": [
+      "The river flows freely without major navigation dams, earning it the nickname 'the last wild river in Europe'.",
+      "Its shifting sandbanks make navigation notoriously difficult, requiring specialized flat-bottomed boats called 'toues'.",
+      "The river basin covers over a fifth of France's total land area.",
+      "It provides vital cooling water for several large nuclear power plants located along its banks."
+    ]
+  },
+  "city-rennes-extra": {
+    "desc": "Rennes is the vibrant, historic capital of the Brittany region, famous for its beautifully preserved medieval half-timbered houses and grand neoclassical public squares. Despite a devastating fire in 1720 that destroyed much of the medieval center, the surviving cobbled streets around the Place des Lices retain an incredibly authentic historic atmosphere. Today, Rennes is highly regarded as a dynamic university city with a booming tech sector, heavily focused on telecommunications and digital innovation. It perfectly balances its strong, independent Breton cultural identity with its role as a modern, rapidly expanding European tech hub. Geography K7 - regional capitals and technology hubs.",
+    "facts": [
+      "The 1720 fire burned for a week, destroying over 900 historic timber-framed houses.",
+      "Rennes is home to one of the largest Saturday morning farmer's markets in France, the Marché des Lices.",
+      "The city boasts a fully automated, driverless metro system, making it one of the smallest cities in the world to have one.",
+      "The grand Parlement de Bretagne building is a masterpiece of 17th-century royal architecture."
+    ]
+  },
+  "sea-etretat-cliffs-extra": {
+    "desc": "The dramatic chalk cliffs of Étretat, located on the Alabaster Coast of Normandy, present one of the most spectacular coastal landscapes in Europe. Relentlessly battered by the harsh waves of the English Channel, the sheer, brilliant white cliffs have been sculpted into massive, iconic natural arches and towering needle-like rock formations. This stunning natural beauty deeply inspired the great Impressionist painters, including Claude Monet and Gustave Courbet, who braved the elements to capture the brilliant light reflecting off the chalk. The coastal paths running along the dizzying edges offer terrifying, yet awe-inspiring, panoramic views of the sea below. Geography K7 - coastal erosion and chalk geology.",
+    "facts": [
+      "The cliffs are composed entirely of pure white chalk interspersed with dark, hardened flint nodules.",
+      "The most famous formations are the 'Porte d'Aval' arch and the 70-meter-tall 'Aiguille' (Needle).",
+      "Author Maurice Leblanc used the hollow needle rock as the secret hideout for his fictional gentleman thief, Arsène Lupin.",
+      "The coastline is actively eroding, with massive chunks of the cliff occasionally collapsing into the sea."
+    ]
+  },
+  "industry-perfume-grasse-extra": {
+    "desc": "The picturesque hillside town of Grasse, situated in the hills north of Cannes, is universally recognized as the undisputed perfume capital of the world. Its microclimate—warm, sunny, and sheltered from sea winds—is uniquely perfect for cultivating delicate flowers like jasmine, May roses, and tuberose. Originating in the 16th century to scent locally manufactured leather gloves, the town's fragrance industry eventually evolved into a massive, highly secretive global empire. Today, Grasse remains the crucial training ground for the world's most elite 'Noses' (master perfumers) and produces the essential oils required for the absolute finest luxury fragrances. Economics K7 - specialized agriculture and the luxury goods industry.",
+    "facts": [
+      "The extremely rare 'May Rose' grown in Grasse is absolutely vital for producing the iconic Chanel No. 5 perfume.",
+      "The town's historic perfume-making techniques were recognized as UNESCO Intangible Cultural Heritage in 2018.",
+      "To produce just one liter of pure rose essential oil requires distilling roughly three tons of fresh petals.",
+      "Historically, the town was a filthy, foul-smelling center for leather tanning before transitioning entirely to perfume."
+    ]
+  },
+  "historical-lascaux-iv-extra": {
+    "desc": "Lascaux IV, formally known as the International Centre for Cave Art, is an astonishing technological achievement located at the foot of the original Lascaux cave hill. Because the incredibly fragile prehistoric paintings in the original cave were being destroyed by human breath, this massive, hyper-realistic replica was created to allow the public to experience the magic of the Paleolithic art. Utilizing cutting-edge 3D laser scanning, resin molding, and painstaking hand-painting by specialized artists, every single bump, contour, and pigment of the original cave was flawlessly duplicated. The sleek, semi-submerged modern architecture of the center provides a stark contrast to the ancient world recreated within. Science K7 - archaeological preservation and digital replication.",
+    "facts": [
+      "The project required the painstaking work of over 30 specialized artists working for three years to replicate the paintings.",
+      "The interior temperature is maintained at a chilling 13°C (55°F) to perfectly simulate the atmosphere of the original cave.",
+      "The massive building was designed by the Norwegian architectural firm Snøhetta, designed to look like a fissure in the landscape.",
+      "Unlike previous partial replicas, Lascaux IV duplicates the entire accessible cave system in its entirety."
+    ]
+  },
+  "kid-landmark-puy-du-fou-extra": {
+    "desc": "Puy du Fou is a wildly unique and massively successful historical theme park located in the Vendée region. It is entirely devoid of roller coasters or modern mechanical rides; instead, it offers colossal, breathtaking live-action historical shows. Utilizing massive casts of actors, highly trained animals, spectacular pyrotechnics, and immense moving stages, the park brings various eras of history to vivid life, from brutal Roman gladiator battles to intense Viking longship raids. Its crowning achievement is the 'Cinéscénie', an incredibly massive nighttime spectacular involving over 2,000 volunteer actors performing on a stage spanning 23 hectares. Culture K6 - historical reenactment and grand-scale entertainment.",
+    "facts": [
+      "The park has won the prestigious 'Applause Award' for the best theme park in the world on multiple occasions.",
+      "The 'Cinéscénie' is the largest night-time show in the world and relies almost entirely on local volunteers.",
+      "The spectacular 'Le Bal des Oiseaux Fantômes' show features over 300 birds of prey flying simultaneously over the audience.",
+      "A massive Roman coliseum replica inside the park can seat 6,000 spectators and features real chariot racing."
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "FR",
+    "name": "Frankreich",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-ARA",
+    "name": "Auvergne-Rhône-Alpes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-BFC",
+    "name": "Bourgogne-Franche-Comté",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-BRE",
+    "name": "Bretagne",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-CVL",
+    "name": "Centre-Val de Loire",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-COR",
+    "name": "Corse",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-GES",
+    "name": "Grand Est",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-HDF",
+    "name": "Hauts-de-France",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-IDF",
+    "name": "Île-de-France",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-NOR",
+    "name": "Normandie",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-NAQ",
+    "name": "Nouvelle-Aquitaine",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-OCC",
+    "name": "Occitanie",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-PDL",
+    "name": "Pays de la Loire",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-PAC",
+    "name": "Provence-Alpes-Côte d",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "marseille",
+    "name": "Marseille",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lyon",
+    "name": "Lyon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "toulouse",
+    "name": "Toulouse",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "nice",
+    "name": "Nizza",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "nantes",
+    "name": "Nantes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "strasbourg",
+    "name": "Straßburg",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lille",
+    "name": "Lille",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "versailles",
+    "name": "Versailles",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "mont-saint-michel",
+    "name": "Mont Saint-Michel",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "carcassonne",
+    "name": "Carcassonne",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "loire-chateaux",
+    "name": "Châteaux de la Loire",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "cannes",
+    "name": "Cannes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "french-alps",
+    "name": "Französische Alpen",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "normandy-dday",
+    "name": "D-Day Strände",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffelturm",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "louvre",
+    "name": "Louvre",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "notre-dame",
+    "name": "Notre-Dame",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "calais",
+    "name": "Calais",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "reims",
+    "name": "Reims",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-chenonceau",
+    "name": "Schloss Chenonceau",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-chambord",
+    "name": "Schloss Chambord",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-fontainebleau",
+    "name": "Schloss Fontainebleau",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-pont-du-gard",
+    "name": "Pont du Gard",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-carnac",
+    "name": "Menhire von Carnac",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-arenas-nimes",
+    "name": "Amphitheater von Nîmes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-abbey-cluny",
+    "name": "Abtei Cluny",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-bayeux-tapestry",
+    "name": "Teppich von Bayeux",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-omaha-beach",
+    "name": "Omaha Beach",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-vincennes",
+    "name": "Schloss Vincennes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-mont-blanc",
+    "name": "Mont Blanc",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-gorges-verdon",
+    "name": "Verdonschlucht",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-calanques",
+    "name": "Calanques Nationalpark",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-camargue",
+    "name": "Camargue",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-dune-pilat",
+    "name": "Dune du Pilat",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-corsica-gr20",
+    "name": "GR20 Korsika",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-pyrenees-np",
+    "name": "Nationalpark Pyrenäen",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-vanoise",
+    "name": "Vanoise Nationalpark",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-lascaux",
+    "name": "Höhle von Lascaux",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-mer-de-glace",
+    "name": "Mer de Glace",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-reims-cathedral",
+    "name": "Kathedrale von Reims",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-avignon",
+    "name": "Avignon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-annecy",
+    "name": "Annecy",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-dijon",
+    "name": "Dijon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-aix-en-provence",
+    "name": "Aix-en-Provence",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-bordeaux",
+    "name": "Bordeaux",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-rouen",
+    "name": "Rouen",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-saint-tropez",
+    "name": "Saint-Tropez",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-le-mans",
+    "name": "Le Mans",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-montpellier",
+    "name": "Montpellier",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "chateau-versailles",
+    "name": "Schloss Versailles",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "carcassonne-citadel",
+    "name": "Zitadelle von Carcassonne",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lavender-fields-provence",
+    "name": "Lavendelfelder der Provence",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "calanques-de-cassis",
+    "name": "Calanques von Cassis",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lake-annecy",
+    "name": "Annecy-See",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "musee-dorsay",
+    "name": "Musée d",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "palace-versailles-gardens",
+    "name": "Gärten von Versailles",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "sainte-chapelle",
+    "name": "Sainte-Chapelle",
+    "file": "lib/visualLab/data/francePoi.ts"
+  }
+]

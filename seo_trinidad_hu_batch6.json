@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-dutch-fort-tobago-history-v2",
+      "descriptionAdvanced": "Tobago holland erődje, vagy más néven Jabbie-erőd, a sziget viharos 17. századi történelmének egyik fontos emléke. A hollandok, akik Tobagót stratégiai kereskedelmi bázisként kezelték, többször is megpróbálták megerősíteni pozícióikat a szigeten a spanyol és brit flottákkal szemben. Az erőd maradványai ma a sziget északi részén találhatók, tanúskodva a holland mérnöki tudományról és a gyarmati küzdelmekről. A romok között sétálva felfedezhetők a korabeli kő- és téglafalak, amelyek dacoltak az ostromokkal és a trópusi időjárással. Történelem K7 — a holland gyarmatosítás Tobagón.",
+      "factsAdvanced": [
+        "A 17. század közepén épült a holland telepesek védelmére.",
+        "Stratégiai kilátópontként szolgált a Karib-tenger felé.",
+        "Nevét a holland 'Nieuw Walcheren' kolóniához kapcsolják.",
+        "Az erődítmény többször is gazdát cserélt a gyarmati háborúk alatt.",
+        "Ma népszerű régészeti lelőhely és történelmi emlékpark.",
+        "Falai helyi sziklákból és importált holland téglákból épültek.",
+        "Segített ellenőrizni a Tobago körüli fontos hajózási útvonalakat.",
+        "Fontos szerepet játszott a sziget korai gazdasági életében."
+      ]
+    },
+    {
+      "id": "tt-cocoa-drying-floor-history-v2",
+      "descriptionAdvanced": "A történelmi kakaószárító padlók (cocoa houses) a trinidadi 'kakaó-aranykor' emblematikus építményei. Ezek a különleges szerkezetek eltolható tetővel rendelkeztek, hogy a kakaóbabokat napsütésben száríthassák, de eső esetén gyorsan lefedhessék őket. A szárítás folyamata során a munkások a lábukkal 'táncoltak' a babokon, hogy azok egyenletesen száradjanak és fényt kapjanak. Számos ilyen épület maradt fenn a Central Range ültetvényein, emlékeztetve arra az időre, amikor Trinidad a világ egyik legjobb minőségű kakaóját adta. Történelem K8 — mezőgazdasági technológia és kakaóipar.",
+      "factsAdvanced": [
+        "A 19. és 20. századi kakaóbirtokok elengedhetetlen részei voltak.",
+        "Sajátos mechanizmussal rendelkeztek a tetők mozgatásához.",
+        "A 'kakaótánc' (cocoa dancing) egy hagyományos szárítási módszer volt.",
+        "Számos ilyen épület ma is látható az Északi- és Központi-hegységben.",
+        "A fából készült padlók kiválóan tartották a hőt a szárításhoz.",
+        "A tetők mozgatása gyakran az egész család vagy közösség feladata volt.",
+        "Mára sok kakaóházat múzeummá vagy kulturális központtá alakítottak.",
+        "Jelképezik Trinidad mezőgazdasági szaktudását és örökségét."
+      ]
+    },
+    {
+      "id": "tt-spanish-garrison-history-v2",
+      "descriptionAdvanced": "A spanyol helyőrség maradványai Trinidadon a 18. századi katonai élet és a spanyol korona védelmi stratégiájának tanúi. Ezek a bázisok biztosították a rendet és a védelmet a települések számára az ellenséges hódítókkal és a lázadásokkal szemben. A helyőrségek épületei robusztus stílusban készültek, vastag falakkal és tágas belső terekkel a katonák számára. Port of Spain és St. Joseph környékén ma is találhatók ilyen épületrészek, amelyek elmesélik a sziget brit hódítás előtti történetét. Történelem K7 — spanyol katonai adminisztráció.",
+      "factsAdvanced": [
+        "Trinidad spanyol korszakának (1498–1797) védelmi bázisai voltak.",
+        "A katonák feladata a partvonal és a főváros őrzése volt.",
+        "Az építészetük a mediterrán katonai stílust követte.",
+        "Gyakran a városok legmagasabb vagy legvédettebb pontján álltak.",
+        "Itt tárolták a fegyvereket és az élelmiszerkészleteket.",
+        "A helyőrségek fontos társadalmi csomópontok is voltak a telepeseknek.",
+        "A romok között spanyol típusú díszítőelemek is felfedezhetők.",
+        "Fontos szerepet játszottak az 1797-es végső brit támadás idején."
+      ]
+    },
+    {
+      "id": "tt-indigo-vat-history-v2",
+      "descriptionAdvanced": "A történelmi indigó-kágyúk (indigo vats) a sziget korai ültetvényes gazdálkodásának ritka emlékei. Az indigó volt Trinidad egyik első jelentős exportcikke a cukornád és a kakaó előtt. Ezekben a kőből és téglából épült medencékben áztatták és dolgozták fel az indigónövényt, hogy kinyerjék belőle az értékes kék festéket. Bár az indigótermelés a 19. századra nagyrészt megszűnt, néhány kágyú maradványa még ma is látható az elhagyott birtokokon. Ezek a romok bemutatják a gyarmati vegyipar és festékgyártás korai folyamatait. Történelem K8 — korai exportcikkek és gyártás.",
+      "factsAdvanced": [
+        "A 18. századi trinidadi gazdaság egyik fontos pillére volt az indigó.",
+        "A kágyúkban zajlott a növényi kivonat erjesztése és oxidációja.",
+        "Híresek voltak a tartósságukról és masszív felépítésükről.",
+        "A festékgyártás folyamata rendkívül munkaigényes és kellemetlen szagú volt.",
+        "A romok ma ritka technológiatörténeti emlékeknek számítanak.",
+        "Az indigótermelés után váltottak az ültetvények a jövedelmezőbb cukorra.",
+        "Gyakran patakok vagy folyók közelében épültek a vízellátás miatt.",
+        "A területük ma már nagyrészt erdővel benőtt."
+      ]
+    },
+    {
+      "id": "tt-tobago-sugar-works-history-v2",
+      "descriptionAdvanced": "A tobago-i cukormanufaktúrák (sugar works) maradványai a sziget 18. és 19. századi gazdasági motorját jelentették. Tobagón a cukoripar sokkal dominánsabb volt, mint Trinidadon, és szinte az egész szigetet cukornádültetvények borították. A gyárak romjai között ma is láthatók a hatalmas rézüstök (coppers), a gőzgépek alkatrészei és a vízikerekek nyomai. Ezek a helyszínek a rabszolgamunka és az iparosítás találkozási pontjai voltak. A romok megőrzése segít bemutatni Tobago gyarmati arculatát és a cukoripar globális jelentőségét. Történelem K8 — Tobago gyarmati gazdasága és ipara.",
+      "factsAdvanced": [
+        "Tobago gazdasága teljesen a cukortermelésre épült a 19. századig.",
+        "A sziget minden domboldalán működött egy-egy kisebb-nagyobb gyár.",
+        "Itt használták az első gőzhajtású gépeket a Karib-térségben.",
+        "A romok falai masszív kőből készültek, hogy bírják a hőt és a gőzt.",
+        "A 'coppers' (hatalmas főzőüstök) ma is sok helyen láthatók a terepen.",
+        "A gyárak mellé gyakran vízelvezető csatornákat is építettek.",
+        "Fontos szerepet játszottak a rabszolga-felszabadítás utáni gazdasági válságban.",
+        "Ma népszerű megállói a sziget történelmi körútjainak."
+      ]
+    },
+    {
+      "id": "tt-spanish-fort-tobago-history-v2",
+      "descriptionAdvanced": "Tobago spanyol erődje (Fort Bennet maradványai között is említve) a spanyolok rövid, de intenzív jelenlétére emlékeztet a szigeten. Bár Tobagót leginkább a britek, franciák és hollandok uralták, a spanyolok is megpróbálták kiterjeszteni rá a fennhatóságukat Trinidad felől. Az erődítmény egyszerűbb felépítésű volt, mint a későbbi brit várak, de stratégiai helyen feküdt az öblök védelmére. A romok és az ágyúk ma a sziget multikulturális katonai múltjának részei. Az erőd elhelyezkedése ma is kiváló kilátást biztosít a tengerparti forgalomra. Történelem K7 — spanyol hódítási kísérletek Tobagón.",
+      "factsAdvanced": [
+        "A 18. században épült spanyol katonai bázis a szigeten.",
+        "Segített fenntartani a spanyol korona igényét Tobagóra.",
+        "Falai helyi mészkőből és importált téglákból épültek.",
+        "Ágyúi a sziget nyugati partjait őrizték az ellenséges flottáktól.",
+        "A romok ma fontos részei a sziget történelmi örökségének.",
+        "Jól dokumentálja a korai spanyol erődépítési stílust.",
+        "Gyakran használták megfigyelőpontként a tengeri kalózok ellen.",
+        "A terület ma népszerű a túrázók és fotósok körében."
+      ]
+    },
+    {
+      "id": "tt-plantation-hospital-history-v2",
+      "descriptionAdvanced": "A történelmi ültetvényes kórházak Trinidad és Tobago birtokain a gyarmati egészségügy kettősségét tükrözik. Ezeket az épületeket azért emelték, hogy a rabszolgák és később a szerződéses munkások alapvető orvosi ellátást kaphassanak – elsősorban azért, hogy mielőbb visszatérhessenek a munkába. A romok között gyakran elkülönített kórtermek és gyógyszerkészítő helyiségek nyomai találhatók. Bár az ellátás kezdetleges volt, ezek a helyszínek a trópusi orvoslás fejlődésének korai állomásai. Ma a romok a gyarmati élet mindennapi küzdelmeire emlékeztetnek. Történelem K8 — egészségügy és társadalom az ültetvényeken.",
+      "factsAdvanced": [
+        "Minden nagyobb cukor- és kakaóbirtok rendelkezett saját kórházzal.",
+        "A 19. századi épületek maradványai ma is láthatók vidéken.",
+        "Elsősorban a járványok (kolera, sárgaláz) megfékezésére szolgáltak.",
+        "A kórházak szigorú fegyelem és felügyelet alatt működtek.",
+        "Itt alkalmaztak először helyi növényi gyógymódokat tudományos keretek között.",
+        "A romok építészete a hűvösebb, szellős terek kialakítására törekedett.",
+        "Fontos dokumentumai a munkások életkörülményeinek.",
+        "Mára a legtöbb ilyen épületet elnyelte az erdő vagy lebontották."
+      ]
+    },
+    {
+      "id": "tt-old-port-office-history-v2",
+      "descriptionAdvanced": "A régi kikötői hivatal épülete Port of Spainben a sziget kereskedelmi fénykorának egyik legszebb emléke. Ez az épület volt a tengeri forgalom, a vámügyintézés és a hajózási regisztráció központja a 19. és 20. században. Az elegáns, gyarmati stílusú építészet tükrözi a kikötő fontosságát a Brit Birodalom hálózatában. Az ódon falak között dőlt el az áruk sorsa, és itt pecsételték le a szigetre érkező utasok dokumentumait. Ma az épület gyakran kulturális vagy múzeumi funkciót tölt be, őrizve a tengeri kereskedelem emlékét. Földrajz K8 — tengeri kereskedelem és adminisztráció.",
+      "factsAdvanced": [
+        "A 19. század végén épült Port of Spain kikötőjének szívében.",
+        "A tengeri szállítás és a vámszabályozás központi helyszíne volt.",
+        "Jellemzője a díszes homlokzat és a magas belső terek.",
+        "Fontos szerepet játszott az ország export-import forgalmának irányításában.",
+        "Ma védett építészeti emlék a főváros üzleti negyedében.",
+        "A belső terekben gyakran megmaradtak az eredeti tölgyfa pultok.",
+        "Itt kezelték a sziget és a világ közötti postai forgalmat is.",
+        "A gyarmati bürokrácia és a gazdasági növekedés szimbóluma."
+      ]
+    },
+    {
+      "id": "tt-spanish-chapel-history-v2",
+      "descriptionAdvanced": "A spanyol kápolnák romjai Trinidad vidéki tájain a korai katolikus hit és a spanyol telepesek spirituális életének mementói. Ezek a kisméretű, gyakran vályogból és kőből épült templomok voltak a falu közösségi életének középpontjai a 16. és 17. században. A kápolnák építészeti stílusa egyszerűbb volt az európaiakénál, alkalmazkodva a helyi anyagokhoz és klímához. Számos ilyen rom található az Északi-hegység völgyeiben, emlékeztetve a sziget katolikus gyökereire és a spanyol nyelvű vallásosságra. Történelem K7 — vallástörténet és spanyol örökség.",
+      "factsAdvanced": [
+        "A spanyol korszak legkorábbi keresztény építményei Trinidadon.",
+        "Gyakran spanyol missziók (encomiendas) területén álltak.",
+        "A romok alapjai spanyol barokk és helyi népi elemeket ötvöznek.",
+        "Fontos szerepet játszottak az őslakosok vallási integrációjában.",
+        "A kápolnák körül alakultak ki az első állandó települések.",
+        "Sok romot ma szent helyként tisztelnek a helyiek.",
+        "A falak között gyakran találhatók régi spanyol sírfeliratok.",
+        "Védett történelmi emlékek, amelyek segítik a múlt megértését."
+      ]
+    },
+    {
+      "id": "tt-old-tobago-treasury-history-v2",
+      "descriptionAdvanced": "A régi tobago-i kincstár épülete Scarborough szívében a sziget gazdasági autonómiájának és brit adminisztrációjának fontos jelképe. Itt őrizték a sziget bevételeit, az adókat és a hivatalos dokumentumokat a 19. század folyamán. Az épület robusztus felépítése és biztonsági megoldásai a funkciójához igazodtak, vastag falakkal és vasrácsos ablakokkal. A kincstár története szorosan kapcsolódik Tobago pénzügyi válságaihoz és fejlődéséhez. Ma az épület gyakran közösségi vagy kulturális célokat szolgál, emlékeztetve a látogatókat a sziget múltbéli súlyára. Történelem K8 — gazdaság és adminisztráció.",
+      "factsAdvanced": [
+        "Tobago legfontosabb pénzügyi épülete volt a gyarmati időkben.",
+        "Scarborough központjában, a Fort King George közelében fekszik.",
+        "A 19. századi brit építészeti stílust képviseli.",
+        "Vastag falaival és páncélozott ajtóival a sziget 'széfje' volt.",
+        "Ma fontos történelmi és építészeti látványosság.",
+        "Segít bemutatni Tobago egykori független költségvetésének működését.",
+        "Az épületben ma gyakran kiállításokat és kulturális eseményeket tartanak.",
+        "Jelképezi a sziget gazdasági stabilitásért folytatott küzdelmét."
+      ]
+    },
+    {
+      "id": "tt-fort-james-history-v2",
+      "descriptionAdvanced": "Fort James Tobago egyik legfontosabb és legjobb állapotban fennmaradt erődje, amely a Great Courland-öböl felett őrködik Plymouth-ban. A britek építették a 18. században a sziget északi partjának védelmére a franciák ellen. Az erőd híres a masszív kőfalairól, a fekete ágyúiról és a lenyűgöző panorámájáról, amely a tengerre nyílik. Fort James kulcsszerepet játszott Tobago gyarmati történelmében, hiszen Plymouth volt a sziget első brit fővárosa. A romok között sétálva a látogatók képet kaphatnak a korabeli katonai életről és stratégiáról. Történelem K7 — erődök és brit hódítás.",
+      "factsAdvanced": [
+        "A 18. században épült brit erődítmény Plymouth-ban.",
+        "Tobago egyik legfontosabb történelmi védműve.",
+        "Még ma is láthatók az eredeti brit ágyúk az öböl felé fordítva.",
+        "Az erőd falai helyi mészkőből és importált téglából készültek.",
+        "Népszerű turisztikai célpont és kulturális emlékhely.",
+        "Lélegzetelállító kilátást nyújt a Great Courland-öbölre.",
+        "Az erőd története szorosan összefonódik a sziget gyarmati sorsával.",
+        "Gyakran használják helyszínként kulturális és ünnepi eseményekhez."
+      ]
+    },
+    {
+      "id": "tt-redhouse-landmarks-v2",
+      "descriptionAdvanced": "A Red House (Vörös Ház) Trinidad és Tobago parlamentjének ikonikus épülete Port of Spain szívében. Nevét jellegzetes élénkvörös színéről kapta, amely messziről felismerhetővé teszi a városképben. Az épület a görög ébredés stílusát követi, lenyűgöző oszlopcsarnokokkal és belső terekkel. A Red House a nemzeti szuverenitás és a demokrácia jelképe, amely számos történelmi eseménynek, köztük az 1990-es puccskísérletnek is tanúja volt. A közelmúltbeli felújítás során őslakos régészeti leleteket is találtak a területén, ami még mélyebb jelentőséget ad az épületnek. Történelem K8 — parlament és nemzeti identitás.",
+      "factsAdvanced": [
+        "Trinidad és Tobago parlamentjének hivatalos székhelye.",
+        "Nevét az 1897-es gyémántjubileum alkalmából kapott vörös festéséről kapta.",
+        "Az eredeti épület 1903-ban leégett a vízvezeték-lázadások során.",
+        "Híres a lenyűgöző belső faburkolatairól és mennyezeti díszeiről.",
+        "Az épület alatt őslakos arauaca település maradványait fedezték fel.",
+        "A nemzeti ünnepségek és politikai viták központi helyszíne.",
+        "Port of Spain egyik leglátványosabb építészeti remekműve.",
+        "Szimbolizálja az ország függetlenségét és demokratikus értékeit."
+      ]
+    },
+    {
+      "id": "tt-magnificent-seven-landmarks-v2",
+      "descriptionAdvanced": "A 'Magnificent Seven' (A fenséges hetek) egy sorozat lenyűgöző gyarmati kori kúria a Queens Park Savannah nyugati oldalán. Ezek az épületek a 20. század elején épültek, és különböző építészeti stílusokat ötvöznek a német várkastélytól a francia kreol villáig. A sor tagjai közé tartozik például a Stollmeyer's Castle, a Whitehall és az érseki palota. Ezek a házak Trinidad egykori elitjének gazdagságát és kulturális ambícióit tükrözik. Ma a 'Magnificent Seven' Port of Spain egyik legfontosabb építészeti látványossága, amely különleges hangulatot áraszt. Történelem K8 — gyarmati építészet és elit.",
+      "factsAdvanced": [
+        "Hét különleges, egymás mellett álló történelmi kúria gyűjteménye.",
+        "A Queens Park Savannah mentén helyezkednek el Port of Spainben.",
+        "A 20. század eleji trinidadi gazdagság szimbólumai.",
+        "Különböző stílusokat képviselnek, mint a neogótika, barokk és kreol.",
+        "A Whitehall egykor az ország miniszterelnöki hivatala is volt.",
+        "A Stollmeyer's Castle egy skót bárói stílusú kastély másolata.",
+        "Ezek az épületek ma már nagyrészt állami tulajdonban és védelem alatt állnak.",
+        "Népszerű helyszínek a turisták és az esküvői fotósok számára."
+      ]
+    },
+    {
+      "id": "tt-scotiabank-port-of-spain-landmarks-v2",
+      "descriptionAdvanced": "A Scotiabank épülete Port of Spain üzleti negyedében a modern és a klasszikus építészet találkozásának kiváló példája. Ez a monumentális építmény a város pénzügyi erejét és stabilitását jelképezi. A Scotiabank évtizedek óta jelen van Trinidadon, és ez a központi iroda az egyik legfontosabb banki hub a régióban. Az épület letisztult vonalai és elegáns homlokzata modern karaktert kölcsönöz a főváros szívének. Belül tágas, modern ügyfélterek és technológiai rendszerek segítik a napi pénzügyi folyamatokat. Sachkunde K8 — pénzügyek és városi infrastruktúra.",
+      "factsAdvanced": [
+        "Trinidad egyik legfontosabb kereskedelmi bankjának központja.",
+        "Port of Spain üzleti negyedének meghatározó épülete.",
+        "A Scotiabank a Karib-térség egyik legrégebbi pénzügyi intézménye.",
+        "Modern, mégis elegáns építészeti stílust képvisel.",
+        "Közelében találhatók a főváros legfontosabb kormányzati épületei.",
+        "A bank épülete a gazdasági növekedés és stabilitás szimbóluma.",
+        "Szigorú biztonsági és technológiai szabványok szerint üzemel.",
+        "Naponta több ezer ügyfelet és üzletembert szolgál ki."
+      ]
+    },
+    {
+      "id": "tt-national-academy-arts-landmarks-v2",
+      "descriptionAdvanced": "A Nemzeti Előadóművészeti Akadémia (NAPA) Port of Spain egyik leglátványosabb modern épülete, amely a Queens Park Savannah északi részén található. Az épület futurisztikus, íves formája a nemzeti virág, a Chaconia szirmait idézi. A NAPA a trinidadi kultúra és művészetek temploma, ahol világszínvonalú színházterem, oktatási stúdiók és kiállítóterek találhatók. Ez az intézmény az ország művészeti oktatásának központja, ahol a steelpan-től az operáig minden műfaj helyet kap. A NAPA a modern Trinidad kulturális ambícióinak és kreativitásának jelképe. Sachkunde K8 — művészetek és modern építészet.",
+      "factsAdvanced": [
+        "A Karib-térség egyik legmodernebb kulturális komplexuma.",
+        "Formája a trinidadi nemzeti virágot, a Chaconiát szimbolizálja.",
+        "Nagyterme több mint 1200 néző befogadására alkalmas.",
+        "Itt található az ország legfontosabb művészeti képző központja.",
+        "Az épület éjszakai kivilágítása a városkép egyik ékköve.",
+        "Számos nemzetközi koncertnek és színházi produkciónak ad otthont.",
+        "Közvetlen szomszédságában van a Memorial Park és a Savannah.",
+        "A modern technológia és a helyi kulturális identitás ötvözete."
+      ]
+    },
+    {
+      "id": "tt-parliament-building-landmarks-v2",
+      "descriptionAdvanced": "Trinidad és Tobago Parlamentje jelenleg a modern International Waterfront Centre toronyházaiban kapott helyet, amíg a történelmi Red House felújítás alatt állt. Ez a modern helyszín a főváros tengerparti sétányán (Waterfront) található, és a 21. századi államiság arculatát mutatja. A parlament üléstermeiből csodás kilátás nyílik a Paria-öbölre, emlékeztetve a döntéshozókat a szigetország tengeri jellegére. A Waterfront komplexum modern irodái és konferenciatermei biztosítják a zökkenőmentes kormányzati munkát. Ez a terület Port of Spain legdinamikusabban fejlődő üzleti negyede. Sachkunde K8 — kormányzat és modern városfejlesztés.",
+      "factsAdvanced": [
+        "A parlament jelenleg egy modern, tengerparti toronyházban működik.",
+        "Az International Waterfront Centre komplexum része.",
+        "Korszerű technológiával felszerelt üléstermekkel rendelkezik.",
+        "Port of Spain legmagasabb épületeinek szomszédságában található.",
+        "A tengerparti sétány népszerű helyszín a diplomaták és turisták körében.",
+        "Szimbolizálja a modern, hatékony és globálisan nyitott Trinidadot.",
+        "A közelben találhatók a legnagyobb nemzetközi szállodaláncok.",
+        "Könnyen elérhető a főváros üzleti és pénzügyi központjából."
+      ]
+    },
+    {
+      "id": "tt-holy-trinity-cathedral-landmarks-v2",
+      "descriptionAdvanced": "A Holy Trinity (Szentháromság) anglikán székesegyház Port of Spain egyik legimpozánsabb vallási és építészeti emléke. Az 1818-ban épült katedrális a gótikus ébredés stílusát képviseli, gyönyörű boltíveivel, faragott kőfalaival és színes ólomüveg ablakaival. A székesegyház a sziget anglikán közösségének szellemi központja, és gazdag történelmi emlékekben, beleértve a gyarmati kor tisztviselőinek emléktábláit. Az épület békés nyugalma éles ellentétben áll a környező belváros zajával. A Holy Trinity katedrális Trinidad vallási sokszínűségének egyik tartóoszlopa. Történelem K7 — gyarmati építészet és vallási élet.",
+      "factsAdvanced": [
+        "Trinidad legfontosabb anglikán temploma.",
+        "Építése 1818-ban kezdődött neogótikus stílusban.",
+        "Híres a belső térben látható mahagóni tetőszerkezetéről.",
+        "A katedrális kertje egy csendes oázis Port of Spain központjában.",
+        "Számos történelmi emlékmű és sírfelirat található a falain.",
+        "Itt tartják az ország legjelentősebb állami vallási szertartásait.",
+        "Az épületet helyi kőből és korallmészkőből emelték.",
+        "Az ólomüveg ablakok bibliai jeleneteket és helyi motívumokat ábrázolnak."
+      ]
+    },
+    {
+      "id": "tt-cathedral-immaculate-conception-landmarks-v2",
+      "descriptionAdvanced": "A Szeplőtelen Fogantatás katedrális (Cathedral of the Immaculate Conception) a katolikus hit bástyája Port of Spainben. Az 1851-ben befejezett épület a város egyik legrégebbi és legtekintélyesebb keresztény temploma. A katedrális tágas belső tere, gyönyörű oltára és a sziget védőszentjei előtt tisztelgő szobrai lenyűgöző látványt nyújtanak. Az épület története szorosan összefonódik a francia és spanyol katolikus telepesek örökségével. A katedrális nemcsak vallási helyszín, hanem kulturális találkozópont is, ahol a trinidadi társadalom minden rétege képviselteti magát. Történelem K7 — katolikus örökség és várostörténet.",
+      "factsAdvanced": [
+        "Trinidad legfőbb római katolikus székesegyháza.",
+        "Port of Spain déli részén, az Independence Square végén található.",
+        "Építése évtizedekig tartott, és 1851-re készült el teljesen.",
+        "A katedrális tornyai a főváros látképének meghatározó elemei.",
+        "Híres a különleges, európai stílusú vallási műtárgyairól.",
+        "Itt nyugszanak a sziget neves katolikus érsekei.",
+        "A katedrális a Karib-térség katolikus közösségének egyik oszlopa.",
+        "Rendszeresen otthont ad nagyszabású kóruskoncerteknek."
+      ]
+    },
+    {
+      "id": "tt-hasely-crawford-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Hasely Crawford Stadion Trinidad és Tobago nemzeti stadionja, amely az ország első olimpiai bajnokáról kapta a nevét. Ez a sportlétesítmény a trinidadi sport büszkesége, ahol a legfontosabb labdarúgó-mérkőzéseket és atlétikai versenyeket rendezik. Itt játszotta történelmi mérkőzéseit a nemzeti válogatott (Soca Warriors), és itt edzenek az ország jövőbeli bajnokai. A stadion Port of Spain nyugati részén található, és hatalmas lelátói felejthetetlen hangulatot biztosítanak a szurkolók számára. A Hasely Crawford Stadion a nemzeti egység és a sportszeretet szimbóluma. Sachkunde K5 — sportlétesítmények és nemzeti hősök.",
+      "factsAdvanced": [
+        "Nevét Hasely Crawfordról, az 1976-os 100 méteres síkfutás olimpiai bajnokáról kapta.",
+        "Az ország legnagyobb befogadóképességű sportstadionja.",
+        "A trinidadi labdarúgó-válogatott, a 'Soca Warriors' hazai pályája.",
+        "Itt rendezik a nemzeti atlétikai bajnokságokat is.",
+        "A stadion körül modern edzőpályák és sportcsarnokok találhatók.",
+        "Fontos helyszíne a nagyszabású kulturális eseményeknek és koncerteknek.",
+        "A pálya és a lelátók megfelelnek a nemzetközi FIFA szabványoknak.",
+        "Szimbolizálja Trinidad sikeres szereplését a világ sportéletében."
+      ]
+    },
+    {
+      "id": "tt-brian-lara-promenade-landmarks-v2",
+      "descriptionAdvanced": "A Brian Lara Sétány (Promenade) Port of Spain központi közösségi tere és ütőere, amely a híres krikettlegendáról kapta a nevét. Ez a parkosított sétány keresztülhalad a belvároson, árnyas padokkal, szobrokkal és szökőkutakkal várva a pihenni vágyókat. Itt található a városi élet sűrűje: üzletemberek, utcai árusok és sakkozók népesítik be a területet nap mint nap. A sétányon áll Brian Lara szobra is, aki a trinidadi sport egyik legnagyobb ikonja. A Brian Lara Promenade a főváros legélénkebb találkozóhelye, ahol mindig történik valami. Sachkunde K4 — városi terek és hírességek.",
+      "factsAdvanced": [
+        "A trinidadi krikettlegenda, Brian Lara nevét viseli.",
+        "Port of Spain belvárosának leghosszabb és legfontosabb sétánya.",
+        "Híres az árnyas fáiról és a közösségi életéről.",
+        "Itt található az ország számos fontos bankjának és cégének központja.",
+        "A sétányon rendszeresen tartanak szabadtéri kulturális rendezvényeket.",
+        "Népszerű helyszín a helyi sakkozók körében.",
+        "Itt áll Brian Lara monumentális bronzszobra.",
+        "A sétány köti össze a katedrálist és az üzleti negyedet."
+      ]
+    },
+    {
+      "id": "tt-fort-king-george-tobago-landmarks-v2",
+      "descriptionAdvanced": "Fort King George Tobago legjelentősebb és leglátványosabb történelmi erődítménye, amely Scarborough városa felett magasodik. A 18. században épített brit erőd ma egy gyönyörűen karbantartott történelmi park, ahol múzeum, művészeti galéria és régi katonai épületek találhatók. Az erőd ágyúi ma is a tenger felé néznek, a bástyákról pedig lélegzetelállító panoráma nyílik az Atlanti-óceánra. Fort King George Tobago gyarmati sorsának és brit örökségének legfontosabb tanúja. A terület nemcsak történelmi emlékhely, hanem a sziget egyik legnépszerűbb turisztikai látványossága is. Történelem K7 — erődítmények és Tobago múltja.",
+      "factsAdvanced": [
+        "Tobago legnagyobb és legjobb állapotban megmaradt gyarmati erődje.",
+        "A 18. században épült a sziget fővárosának védelmére.",
+        "Itt található a Tobago Múzeum, amely gazdag régészeti gyűjteménnyel bír.",
+        "Az erőd épületei között egykori laktanyák, börtönök és raktárak láthatók.",
+        "Híres a monumentális világítótornyáról és a hatalmas ágyúiról.",
+        "A parkosított kertben egzotikus trópusi növények és virágok élnek.",
+        "A bástyákról az egész Rockly-öböl belátható.",
+        "Védett nemzeti örökség és fontos oktatási központ."
+      ]
+    },
+    {
+      "id": "tt-nylon-pool-landmarks-v2",
+      "descriptionAdvanced": "A Nylon Pool egy varázslatos természeti képződmény Tobago partjaitól nem messze, a Buccoo-zátony közelében. Ez egy sekély, kristálytiszta vizű homokpad a tenger közepén, ahol a víz színe a türkiz minden árnyalatában játszik. Nevét Margaret hercegnőről kapta, aki az 1960-as években látogatott ide, és a vizet olyan tisztának találta, mint a nejlon harisnyát. A Nylon Pool híres a fiatalító erejéről szóló legendákról és a selymesen puha korallhomokjáról. A látogatók hajóval érkeznek ide, hogy a derékig érő, meleg vízben fürödjenek a nyílt óceán ölelésében. Sachkunde K5 — természeti csodák és legendák.",
+      "factsAdvanced": [
+        "Egy sekély, kristálytiszta vizű természetes medence az óceán közepén.",
+        "Nevét Margaret hercegnő látogatása után kapta 1962-ben.",
+        "A víz mélysége általában csak derékig ér a homokpadon.",
+        "Híres a különlegesen tiszta és meleg vizéről.",
+        "A helyi legenda szerint aki megfürdik benne, tíz évet fiatalodik.",
+        "A Buccoo-zátony (Marine Park) védett területéhez tartozik.",
+        "Csak üvegfenekű hajókkal vagy kisebb vízi járművekkel érhető el.",
+        "Tobago egyik legismertebb és legfotózottabb látványossága."
+      ]
+    },
+    {
+      "id": "tt-waterloo-temple-landmarks-v2",
+      "descriptionAdvanced": "A Waterloo-i templom a tengerben (Temple in the Sea) Trinidad egyik legmeghatóbb és legszebb vallási helyszíne. A templomot Siewdass Sadhu, egy egyszerű indiai munkás építette egyedül, puszta kézzel, miután a hatóságok megtiltották neki, hogy a szárazföldön emeljen szentélyt. Sadhu évtizedeken át hordta a köveket a tengerbe, hogy létrehozzon egy mesterséges szigetet a templom számára. Az épület ma a kitartás, a hit és az indo-trinidadi szellem szimbóluma. A tengerbe nyúló gáton megközelíthető fehér templom különösen naplementekor nyújt spirituális és esztétikai élményt. Történelem K8 — hit, kitartás és kulturális identitás.",
+      "factsAdvanced": [
+        "Egyetlen ember, Siewdass Sadhu építette puszta kézzel és kövekkel.",
+        "A templom egy mesterséges szigeten áll a Paria-öbölben.",
+        "Sadhu 25 éven át dolgozott az építményen.",
+        "Szimbolizálja az indiai szerződéses munkások hitét és küzdelmét.",
+        "Az eredeti sártemplomot a tenger és a hatóságok lerombolták, a mait 1995-ben újították fel.",
+        "Híres a békés hangulatáról és a tengeri panorámájáról.",
+        "Fontos zarándokhely a trinidadi hindu közösség számára.",
+        "A templom mellett található Siewdass Sadhu emlékműve is."
+      ]
+    },
+    {
+      "id": "tt-caroni-bird-sanctuary-landmarks-v2",
+      "descriptionAdvanced": "A Caroni Madárrezervátum Trinidad egyik legfontosabb ökológiai kincse, amely a sziget nyugati partján fekvő hatalmas mocsárvilág szívében található. Ez a terület a nemzeti madár, a skarlát íbisz (Scarlet Ibis) legfontosabb élőhelye. A látogatók kishajókon fedezhetik fel a kanyargós mangrové-alagutakat, megfigyelve a gazdag vadvilágot, köztük kaimanokat, kígyókat és számtalan vízimadarat. A rezervátum leglátványosabb eseménye a naplemente, amikor több ezer élénkvörös íbisz tér vissza éjszakázni a zöldellő fákra. A Caroni-mocsár a természetvédelem és a nemzeti büszkeség találkozóhelye. Sachkunde K5 — vizes élőhelyek és nemzeti jelképek.",
+      "factsAdvanced": [
+        "A skarlát íbisz (Scarlet Ibis) nemzeti madár legfőbb fészkelőhelye.",
+        "Trinidad legnagyobb összefüggő mangrovéerdőjét és mocsárvilágát rejti.",
+        "Itt található az ország legnagyobb gázlómadár-populációja.",
+        "A kishajós túrák szakértő vezetőkkel mutatják be az ökoszisztémát.",
+        "Fontos szerepet játszik a partvonal védelmében és a vízszűrésben.",
+        "A rezervátumot 1953-ban alapították a madarak védelmére.",
+        "A naplemente idején látható 'vörös invázió' felejthetetlen látvány.",
+        "Számos ritka növény- és állatfaj, például a négyszemű hal otthona."
+      ]
+    },
+    {
+      "id": "tt-asa-wright-nature-centre-landmarks-v2",
+      "descriptionAdvanced": "Az Asa Wright Természetvédelmi Központ világszerte ismert ökoturisztikai célpont az Északi-hegység buja esőerdőiben. Ez a korábbi kakaó- és kávéültetvény ma a madárlesők paradicsoma, ahol több mint 150 madárfaj, köztük ritka kolibrik és a különleges olajmadarak figyelhetők meg. A központ híres a gyarmati stílusú teraszáról, ahonnan karnyújtásnyira láthatók a színes trópusi madarak. Az Asa Wright fontos szerepet játszik a környezeti nevelésben és az esőerdők védelmében. Itt a látogatók közvetlen kapcsolatba kerülhetnek a trópusi természet varázslatos világával. Sachkunde K5 — esőerdők és biodiverzitás.",
+      "factsAdvanced": [
+        "A Karib-térség egyik legrégebbi és legnevesebb természetvédelmi központja.",
+        "Az Arima-völgyben, egy 80 hektáros érintetlen erdőterületen fekszik.",
+        "Híres az endemikus Pawi madárról és a kolibrik sokaságáról.",
+        "Itt található a világ egyik legkönnyebben hozzáférhető olajmadár-barlangja.",
+        "A központot 1967-ben alapították tudományos és oktatási céllal.",
+        "Számos túraösvény vezet a vízesésekhez és az őserdő mélyére.",
+        "A teraszon kínált helyi kávé és a madárdal különleges élményt nyújt.",
+        "Fontos kutatóbázis nemzetközi biológusok és ornitológusok számára."
+      ]
+    }
+  ]
+}

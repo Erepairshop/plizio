@@ -1,0 +1,665 @@
+{
+  "lang": "ro",
+  "country": "angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraAngolaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraAngolaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraAngolaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAngolaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAngolaNatureV2.ts",
+    "lib/visualLab/data/poiExtraAngolaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fortaleza-sao-miguel-history-v2",
+      "descriptionAdvanced": "Fortaleza de São Miguel este cel mai vechi și mai impunător monument istoric din Luanda, situat pe un deal strategic care domină intrarea în port și golful orașului. Construită în 1576 de către primii coloniști portughezi conduși de Paulo Dias de Novais, fortăreața a servit timp de secole ca centru administrativ și militar al coloniei. Structura sa stelată, tipică arhitecturii militare europene a epocii, adăpostește acum Muzeul Național de Istorie Militară. Pereții interiori sunt decorați cu panouri de azulejos (plăci ceramice pictate) superbe, care ilustrează flora, fauna și istoria Angolei. Fortăreața a fost martora tuturor evenimentelor majore ale țării, de la ocupația olandeză la lupta pentru independență. Astăzi, Fortaleza de São Miguel nu este doar un sit de patrimoniu protejat, ci și un loc de reflecție asupra trecutului complex și a rezilienței poporului angolez în fața istoriei.",
+      "factsAdvanced": [
+        "Prima structură defensivă construită în Luanda (1576).",
+        "Găzduiește Muzeul Național de Istorie Militară din 1975.",
+        "Panourile de azulejos prezintă scene istorice și animale africane.",
+        "A fost sediul guvernatorilor portughezi pentru aproape 350 de ani.",
+        "Situată pe Morro de São Miguel, oferind o vedere de 360 de grade.",
+        "Clasificată ca monument istoric național în 1938.",
+        "Include o colecție impresionantă de tunuri vechi de bronz."
+      ]
+    },
+    {
+      "id": "mbanza-kongo-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele din Mbanza-Kongo, situate pe un platou înalt din nordul Angolei, reprezintă vestigiile spirituale și politice ale fostei capitale a Regatului Kongo, unul dintre cele mai puternice imperii africane pre-coloniale. Situl este inclus în Patrimoniul Mondial UNESCO și adăpostește rămășițele primei biserici catolice din Africa Subsahariană, Catedrala São Salvador din Congo, construită în secolul al XV-lea. Dincolo de influențele religioase, Mbanza-Kongo este centrul autorității tradiționale a Manikongo (regii din Kongo). Aici se găsește 'Jalumbo', arborele sacru sub care se țineau judecățile regale, și muzeul care păstrează artefactele dinastice. Ruinele mărturisesc o perioadă de diplomație sofisticată între Africa și Europa și rămân un simbol al identității culturale și istorice a poporului Bakongo, fiind un loc de pelerinaj istoric și mândrie națională pentru toți angolezii.",
+      "factsAdvanced": [
+        "Inclus în lista Patrimoniului Mondial UNESCO în 2017.",
+        "Capitala Regatului Kongo între secolele XIV și XIX.",
+        "Catedrala São Salvador (Kulumbimbi) a fost sfințită în 1491.",
+        "Centrul puterii politice și spirituale a regilor Manikongo.",
+        "Situl include 'Sunguilo', locul ritual de spălare a regilor morți.",
+        "Arheologia locului confirmă o organizare urbană complexă.",
+        "Mbanza-Kongo a fost numit São Salvador în perioada colonială."
+      ]
+    },
+    {
+      "id": "massangano-fort-history-v2",
+      "descriptionAdvanced": "Fortăreața Massangano, situată pe malul râului Kwanza, în provincia Cuanza Norte, este un sit istoric de o importanță capitală, fiind locul unde portughezii s-au retras în timpul ocupației olandeze a Luandei în secolul al XVII-lea. Construit în 1583, fortul a servit ca bază militară pentru expansiunea către interior și ca punct central pentru comerțul cu sclavi. Massangano este renumit nu doar pentru zidurile sale masive de piatră și biserica Nossa Senhora da Vitória, ci și pentru faptul că aici s-au purtat bătălii legendare împotriva reginei Njinga Mbande. Orașul adiacent a fost pentru scurt timp capitala coloniei. Astăzi, ruinele sale silențioase oferă o perspectivă melancolică asupra epocii coloniale timpurii, fiind un monument protejat care atrage istorici și turiști dornici să înțeleagă rădăcinile profunde ale conflictelor și schimburilor culturale din valea râului Kwanza.",
+      "factsAdvanced": [
+        "Construit în 1583 de către căpitanul Paulo Dias de Novais.",
+        "A fost capitala provizorie a Angolei între 1641 și 1648.",
+        "Locul unde a fost înfrântă temporar rezistența reginei Njinga.",
+        "Include Biserica Nossa Senhora da Vitória, una dintre cele mai vechi.",
+        "Situat strategic la confluența râurilor Kwanza și Lucala.",
+        "A servit ca un mare târg și depozit pentru sclavi.",
+        "Recent restaurat parțial pentru a păstra integritatea structurii."
+      ]
+    },
+    {
+      "id": "palacio-de-ferro-history-v2",
+      "descriptionAdvanced": "Palatul de Fier (Palácio de Ferro) este o bijuterie arhitecturală situată în centrul Luandei, fiind renumit pentru structura sa unică realizată integral din fontă și pentru originile sale misterioase. Se crede că edificiul a fost proiectat în atelierele celebrului Gustave Eiffel din Paris și a fost transportat cu vaporul, ajungând în Angola la sfârșitul secolului al XIX-lea după ce nava care îl transporta spre o altă destinație a naufragiat sau a fost deviată. Palatul se distinge prin decorațiunile sale filigranate din metal și prin balcoanele elegante care înconjoară etajul superior. În perioada colonială, a găzduit instituții prestigioase, iar recent a fost meticulos restaurat pentru a servi ca centru cultural și muzeu. Palácio de Ferro este un simbol al modernismului industrial european importat în inima Africii și una dintre cele mai fotografiate și admirate clădiri istorice din capitala Angolei.",
+      "factsAdvanced": [
+        "Atribuit arhitectului Gustave Eiffel (designerul Turnului Eiffel).",
+        "Construit integral din piese de fontă prefabricate în Franța.",
+        "Adus în Luanda în jurul anului 1890.",
+        "A supraviețuit perioadei de război civil fără daune majore.",
+        "Restaurat complet de compania braziliană Odebrecht în 2009.",
+        "Găzduiește expoziții de artă și evenimente culturale naționale.",
+        "Este considerat monument de patrimoniu cultural al Angolei."
+      ]
+    },
+    {
+      "id": "pungo-andongo-history-v2",
+      "descriptionAdvanced": "Pungo Andongo este un sit natural și istoric extraordinar situat în provincia Malanje, renumit pentru 'Pedras Negras' (Pietrele Negre), formațiuni geologice gigantice care se ridică brusc din savană. Acest loc a fost capitala Regatului Ndongo și reședința legendarei regine Njinga Mbande în secolul al XVII-lea. Legendele locale spun că urmele pașilor reginei pot fi văzute și astăzi imprimate în piatră. Pungo Andongo a fost un centru de rezistență acerbă împotriva portughezilor, care au construit ulterior un fort pentru a controla regiunea. Pe lângă importanța sa istorică, situl oferă peisaje de o frumusețe mistică, stâncile având forme care seamănă cu animale sau fețe umane. Este un loc sacru pentru mulți angolezi, reprezentând spiritul de luptă pentru libertate și măreția pre-colonială a regatelor africane de pe platoul central.",
+      "factsAdvanced": [
+        "Fosta capitală a Regatului Ndongo sub regina Njinga.",
+        "Formațiunile geologice sunt conglomerate masive de rocă neagră.",
+        "Include ruinele unui fort portughez construit în 1671.",
+        "Legenda 'Pașilor Reginei Njinga' este o atracție culturală majoră.",
+        "Situat la aproximativ 115 km de orașul Malanje.",
+        "A fost locul unor bătălii sângeroase pentru controlul interiorului Angolei.",
+        "Zona este considerată monument istoric și turistic național."
+      ]
+    },
+    {
+      "id": "muxima-fort-history-v2",
+      "descriptionAdvanced": "Fortul Muxima, situat în provincia Luanda, pe malul râului Kwanza, este un monument istoric și religios de o importanță vitală, fiind strâns legat de Sanctuarul Nossa Senhora da Muxima. Construit în 1599, fortul a avut rolul de a proteja avanpostul religios și rutele de comerț fluvial împotriva triburilor locale ostile și a altor puteri coloniale. Zidurile sale de piatră oferă o panoramă spectaculoasă asupra râului Kwanza și a micului sat Muxima. Orașul Muxima a devenit în timp cel mai mare centru de pelerinaj catolic din Africa Subsahariană, mii de credincioși venind anual să se roage la 'Mama Muxima'. Fortul mărturisește eforturile timpurii de evanghelizare și control militar, fiind un loc unde istoria militară se împletește cu devotamentul spiritual profund al poporului angolez, într-un cadru natural tropical neschimbat de secole.",
+      "factsAdvanced": [
+        "Construit în 1599 pentru a asigura prezența portugheză pe râul Kwanza.",
+        "Adiacent Sanctuarului Nossa Senhora da Muxima (fondat în 1594).",
+        "Este cel mai important centru de pelerinaj din Angola.",
+        "Numele 'Muxima' înseamnă 'Inimă' în limba Kimbundu.",
+        "Fortul a servit ca bază pentru expedițiile de capturare a sclavilor.",
+        "Înscris pe lista tentativă a Patrimoniului Mondial UNESCO.",
+        "Zidurile fortului sunt realizate din calcar și mortar tradițional."
+      ]
+    },
+    {
+      "id": "cuito-cuanavale-battlefield-history-v2",
+      "descriptionAdvanced": "Câmpul de bătălie de la Cuito Cuanavale, situat în provincia Cuando Cubango, este locul celei mai mari bătălii convenționale desfășurate vreodată pe sol african după cel de-al Doilea Război Mondial. Desfășurată între 1987 și 1988, bătălia a opus forțele guvernamentale angoleze, susținute de trupe cubaneze, forțelor UNITA și armatei sud-africane (SADF). Conflictul a fost un punct de cotitură istoric, ducând la retragerea trupelor străine, independența Namibiei și declinul regimului de apartheid. Astăzi, situl este un loc de memorie națională, adăpostind resturi de blindate și avioane, precum și un monument memorial colosal. Cuito Cuanavale este considerat de mulți 'Stalingradul Africii', un simbol al luptei pentru demnitate și libertate a întregului continent african, fiind un loc de pelerinaj istoric pentru veterani și cercetători politici.",
+      "factsAdvanced": [
+        "Cea mai mare bătălie din Africa modernă (1987-1988).",
+        "A dus la semnarea Acordului Tripartit de la New York.",
+        "Situl include Monumentul Memorial al Victoriei, inaugurat în 2017.",
+        "A forțat retragerea forțelor Africii de Sud din Angola.",
+        "Poreclit 'Triunghiul Morții' din cauza intensității bombardamentelor.",
+        "23 Martie este Ziua Eliberării Africii de Sud, marcată de bătălie.",
+        "Include piese de artilerie și tancuri T-54/55 păstrate ca monumente."
+      ]
+    },
+    {
+      "id": "cambambe-fort-history-v2",
+      "descriptionAdvanced": "Fortul Cambambe, situat în apropierea orașului Dondo, provincia Cuanza Norte, este o fortificație istorică ridicată de portughezi în 1604, având misiunea strategică de a proteja căutarea legendară a minelor de argint din zonă. Deși minele de argint s-au dovedit a fi un mit, fortul a devenit un centru administrativ și militar esențial în valea râului Kwanza, fiind un nod central pentru traficul de sclavi și pentru expansiunea colonială către est. Ruinele fortului includ ziduri groase de piatră și rămășițe ale vechii biserici Nossa Senhora do Rosário. Situat pe un promontoriu care domină cursul rapid al râului, Cambambe oferă o priveliște impresionantă asupra regiunii. Situl amintește de lăcomia și speranțele exploratorilor timpurii, rămânând un monument istoric protejat care ilustrează primele etape ale interacțiunii dureroase dintre Europa și regatele locale din interiorul Angolei.",
+      "factsAdvanced": [
+        "Fondat în 1604 sub numele de Presídio de Cambambe.",
+        "Construit cu speranța de a găsi mine de argint (Sierra de la Plata).",
+        "Include ruinele Bisericii Nossa Senhora do Rosário.",
+        "Situat lângă faimoasele cataracte ale râului Kwanza.",
+        "A servit ca punct administrativ până la dezvoltarea orașului Dondo.",
+        "A fost un centru major de concentrare a sclavilor din interior.",
+        "Face parte din rețeaua istorică a forturilor de pe râul Kwanza."
+      ]
+    },
+    {
+      "id": "sao-salvador-church-history-v2",
+      "descriptionAdvanced": "Biserica São Salvador (cunoscută local sub numele de Kulumbimbi) este o structură istorică fascinantă situată în orașul Mbanza-Kongo, reprezentând ruinele primei catedrale creștine din Africa Subsahariană. Construită inițial în 1491 de către meșteri portughezi trimiși la cererea regelui Nzinga a Nkuwu, biserica a fost ulterior ridicată la rangul de catedrală în 1596. Edificiul a fost martorul convertirii elitelor Regatului Kongo la catolicism și a fuziunii culturale unice care a rezultat. De-a lungul secolelor, catedrala a fost distrusă și reconstruită de mai multe ori în timpul războaielor dinastice și coloniale. Ruinele sale actuale, realizate din piatră masivă legată cu mortar de calcar, emană o atmosferă sacră și de o profunzime istorică rară, fiind piesa centrală a sitului UNESCO din Mbanza-Kongo și un simbol al vechimii creștinismului pe pământ african.",
+      "factsAdvanced": [
+        "Cea mai veche biserică din Africa Subsahariană (fondată în 1491).",
+        "Ridicată la rang de catedrală de Papa Clement al VIII-lea în 1596.",
+        "Cunoscută în limba Kikongo sub numele de 'Kulumbimbi'.",
+        "Ruinele păstrează zidurile laterale și absida altarului.",
+        "Este un sit de pelerinaj pentru credincioșii din întreaga regiune Kongo.",
+        "Construită în stil arhitectural gotic portughez (Manuelin) timpuriu.",
+        "Inclusă în Patrimoniul Mondial UNESCO."
+      ]
+    },
+    {
+      "id": "simulambuco-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Simulambuco, situat în provincia Cabinda, marchează locul istoric unde a fost semnat Tratatul de la Simulambuco la 1 februarie 1885 între reprezentanții Coroanei Portugheze și principii locali ai regatului N'Goyo. Acest tratat a stabilit protectoratul portughez asupra Cabindei, garantând în același timp respectarea tradițiilor și a proprietăților locale. Monumentul este un simbol al identității politice și juridice distincte a enclavei Cabinda. Situat pe o esplanadă cu vedere la Oceanul Atlantic, locul este marcat de o piatră comemorativă și de drapele, fiind un punct de referință pentru discuțiile despre istoria colonială și autodeterminarea regională. Pentru locuitorii din Cabinda, Simulambuco reprezintă actul de naștere al relației lor speciale cu statul angolez și cu lumea internațională, fiind un loc de o mare încărcătură simbolică și patriotică.",
+      "factsAdvanced": [
+        "Marchează locul semnării Tratatului de Protectorat în 1885.",
+        "Situat pe coasta Oceanului Atlantic, lângă orașul Cabinda.",
+        "Tratatul a fost semnat cu regii din N'Goyo, Kakongo și Loango.",
+        "Include o coloană de piatră ridicată pentru a celebra evenimentul.",
+        "Este considerat 'actul constitutiv' al identității Cabindei.",
+        "Locul este folosit pentru ceremonii oficiale și politice locale.",
+        "Înscris ca monument istoric de importanță națională."
+      ]
+    },
+    {
+      "id": "caconda-fort-history-v2",
+      "descriptionAdvanced": "Fortul Caconda, situat în provincia Huíla, este o structură defensivă istorică ce marchează frontiera expansiunii coloniale portugheze către sudul platoului central al Angolei în secolul al XVIII-lea. Construit în 1769, fortul a fost un avanpost militar crucial pentru protejarea coloniștilor și a misionarilor în fața rezistenței triburilor locale. Caconda a fost un centru administrativ important unde se colectau taxe și se organizau expediții către interiorul necunoscut al Africii. Fortul este legat și de activitatea faimosului naturalist José Anchieta, care și-a stabilit baza aici pentru cercetările sale biologice. Ruinele sale, deși parțial degradate, păstrează dispunerea patrulateră și oferă o imagine clară a modului în care s-a consolidat controlul european pe înălțimile Angolei. Fortul Caconda rămâne un reper al istoriei regionale, amintind de ciocnirea culturilor și de începuturile urbanizării în sudul țării.",
+      "factsAdvanced": [
+        "Fondat oficial în 1769 pe locul unor fortificații mai vechi.",
+        "Unul dintre cele mai vechi avanposturi din interiorul provinciei Huíla.",
+        "Situat la o altitudine strategică de peste 1.600 metri.",
+        "Include ruinele vechii primării și ale cazărmii militare.",
+        "A fost punctul de plecare pentru explorările științifice ale lui José Anchieta.",
+        "A jucat un rol vital în securizarea drumului către Benguela.",
+        "Recent a fost inclus în programe de conservare a patrimoniului național."
+      ]
+    },
+    {
+      "id": "kikombo-fort-history-v2",
+      "descriptionAdvanced": "Fortul Kikombo (sau Fortim do Kikombo) este o mică fortificație situată pe coasta provinciei Cuanza Sul, într-un golf pitoresc care a servit drept punct de debarcare pentru forțele portugheze trimise să elibereze Luanda de sub ocupația olandeză în 1648. Construit pe o stâncă care domină plaja, fortul a fost un punct de observație strategic pentru monitorizarea traficului maritim și protejarea portului natural. Deși dimensiunile sale sunt reduse comparativ cu marile cetăți din capitală, importanța sa istorică este semnificativă, fiind locul de întâlnire al flotelor de recucerire. Golful Kikombo a fost, de asemenea, un punct de export pentru sclavii aduși din interiorul provinciei. Astăzi, zidurile sale de piatră, bătute de briza Atlanticului, oferă unul dintre cele mai romantice și evocatoare peisaje istorice din Angola, fiind un loc de vizită popular pentru iubitorii de istorie maritimă.",
+      "factsAdvanced": [
+        "Marchează punctul de debarcare a armatei lui Salvador Correia în 1648.",
+        "Construit pentru a sprijini recucerirea Angolei de la olandezi.",
+        "Situat pe un golf protejat în apropierea orașului Sumbe.",
+        "Este un fort de dimensiuni mici, cu rol principal de observație.",
+        "A servit ca punct de aprovizionare pentru navele care mergeau spre sud.",
+        "Clasificat ca monument istoric național pentru rolul său militar.",
+        "Oferă o vedere panoramică spectaculoasă asupra Oceanului Atlantic."
+      ]
+    },
+    {
+      "id": "sao-francisco-penedo-history-v2",
+      "descriptionAdvanced": "Fortăreața São Francisco do Penedo este un monument istoric impunător situat în zona portuară a Luandei, construit pe o stâncă (penedo) care inițial era înconjurată de apele oceanului. Ridicată în 1765 pentru a întări apărarea capitalei, fortăreața se distinge prin arhitectura sa robustă și prin adaptarea ingenioasă la relieful stâncos. De-a lungul istoriei, a avut roluri diverse: de la bastion defensiv și depozit militar, la o temută închisoare politică în timpul regimului colonial și al începuturilor independenței. Penedo este renumit pentru zidurile sale masive care au rezistat timpului și pentru curtea interioară vastă. Astăzi, deși situată într-o zonă industrială portuară, fortăreața rămâne un simbol al controlului militar asupra Luandei și un loc de memorie pentru mulți angolezi care au luptat pentru libertate, fiind un monument protejat de o mare valoare istorică și arhitecturală.",
+      "factsAdvanced": [
+        "Construită în 1765 pe o stâncă strategică lângă intrarea în port.",
+        "Inițial era o insulă, acum unită cu malul prin procese de umplere.",
+        "A servit ca închisoare politică celebră în secolul XX.",
+        "Designul urmează principiile fortificațiilor bastionare europene.",
+        "Păstrează celule și coridoare care mărturisesc perioada de represiune.",
+        "Este situată în districtul urban Sambizanga din Luanda.",
+        "Considerată un sit de memorie istorică pentru lupta de eliberare."
+      ]
+    },
+    {
+      "id": "baia-dos-tigres-ghost-town-history-v2",
+      "descriptionAdvanced": "Baía dos Tigres este cel mai mare și mai spectaculos oraș-fantomă din Angola, situat pe o insulă aridă din provincia Namibe, creată prin separarea unei peninsule de către ocean în 1962. Fondat inițial ca un centru prosper de pescuit datorită apelor incredibil de bogate, orașul a găzduit sute de locuitori, fabrici de gheață, un spital și o biserică. Odată cu ruperea limbii de pământ și întreruperea alimentării cu apă dulce de la râul Cunene, orașul a fost abandonat, fiind înghițit treptat de nisipurile deșertului. Astăzi, clădirile sale ruinate, printre care faimoasa biserică și vilele coloniale, creează un peisaj post-apocaliptic de o frumusețe stranie. Baía dos Tigres este accesibilă doar cu barca sau vehicule de teren speciale și reprezintă un monument al fragilității umane în fața forțelor neîmblânzite ale naturii și ale schimbărilor geografice dramatice.",
+      "factsAdvanced": [
+        "A fost cel mai mare centru de pescuit din sudul Angolei.",
+        "Devenit insulă în 1962, după ce oceanul a străpuns istmul de nisip.",
+        "Abandonat complet în 1974 din cauza lipsei apei dulci.",
+        "Ruinele includ o biserică, un cinema și numeroase vile.",
+        "Situat în deșertul Namibe, la sud de orașul Tômbua.",
+        "Este considerat unul dintre cele mai izolate locuri din lume.",
+        "Regiunea găzduiește colonii mari de păsări marine și foci."
+      ]
+    },
+    {
+      "id": "cassinga-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Cassinga, situat în provincia Huíla, comemorează unul dintre cele mai tragice și controversate evenimente din istoria recentă a Angolei: masacrul de la Cassinga din 4 mai 1978. În acel an, aviația sud-africană a atacat o tabără de refugiați și luptători SWAPO (mișcarea de eliberare a Namibiei), provocând moartea a sute de persoane, majoritatea femei și copii. Monumentul este un loc de pelerinaj național și internațional, simbolizând sacrificiul popoarelor angolez și namibian în lupta împotriva apartheidului. Situl include morminte comune și o structură memorială care îndeamnă la pace și reconciliere. Cassinga a devenit un simbol al solidarității pan-africane, amintind lumii întregi de prețul plătit pentru libertatea Africii Australe. În fiecare an, pe 4 mai, delegații din Angola și Namibia se reunesc aici pentru a onora memoria celor căzuți, transformând acest loc într-un bastion al memoriei colective.",
+      "factsAdvanced": [
+        "Comemorează atacul sud-african asupra taberei SWAPO din 4 mai 1978.",
+        "Situat în municipiul Jamba, provincia Huíla.",
+        "Peste 600 de persoane și-au pierdut viața în acest eveniment.",
+        "Include morminte comune și un memorial ridicat de guvernul angolez.",
+        "Este un loc sacru pentru istoria independenței Namibiei.",
+        "4 Mai este zi de sărbătoare națională în Namibia (Ziua Cassinga).",
+        "Situl este înconjurat de resturile vechii infrastructuri miniere."
+      ]
+    },
+    {
+      "id": "sao-pedro-barra-fort-history-v2",
+      "descriptionAdvanced": "Fortăreața São Pedro da Barra este o structură defensivă istorică situată în districtul urban Sambizanga din Luanda, ridicată pe locul unei fortificații mai vechi din secolul al XVI-lea. Forma actuală a fortului datează din 1703, fiind construită pentru a întări apărarea coastei împotriva piraților și a flotelor rivale europene. Fortăreața se remarcă prin zidurile sale masive de piatră și locația sa strategică pe o stâncă ce domină oceanul. De lungul timpului, a servit nu doar ca bastion militar, ci și ca depozit pentru sclavii care așteptau să fie trimiși peste Atlantic, fiind o mărturie dureroasă a comerțului transatlantic. În secolul XX, a funcționat ca închisoare pentru deținuții politici, devenind un simbol al represiunii coloniale și, ulterior, al luptei pentru eliberarea națională a Angolei.",
+      "factsAdvanced": [
+        "Construit inițial în secolul XVI, reconstruit masiv în 1703.",
+        "Situat pe Morro da Quicombo, dominând intrarea de nord în Luanda.",
+        "Include o capelă istorică și cazărmi bine conservate.",
+        "A fost un punct cheie în sistemul defensiv al Golfului Luanda.",
+        "Clasificat ca monument istoric național în anul 1932.",
+        "Situl păstrează inscripții și tunuri vechi de bronz.",
+        "A servit ca închisoare de tranzit pentru mii de sclavi."
+      ]
+    },
+    {
+      "id": "kwanza-sul-rock-art-history-v2",
+      "descriptionAdvanced": "Arta rupestră din provincia Cuanza Sul reprezintă unul dintre cele mai bogate și misterioase patrimonii arheologice ale Angolei, cuprinzând numeroase situri cu picturi și gravuri preistorice. Cele mai faimoase reprezentări se găsesc în zonele muntoase din jurul orașelor Ebo și Quibala, unde adăposturile sub stâncă sunt decorate cu motive geometrice, siluete umane și reprezentări de animale în culori de ocru, roșu și alb. Aceste opere de artă datează din perioade diferite, reflectând trecerea comunităților de vânători-culegători și a primilor pastori prin platoul central. Picturile oferă indicii prețioase despre cosmogonia, ritualurile și viața cotidiană a populațiilor ancestrale. Conservarea acestor situri este esențială pentru înțelegerea rădăcinilor umane în Africa de Sud-Vest, fiind considerate monumente de o valoare inestimabilă pentru istoria universală a artei.",
+      "factsAdvanced": [
+        "Include peste 50 de situri identificate în provincia Cuanza Sul.",
+        "Cele mai vechi picturi sunt estimate la peste 2.000 de ani.",
+        "Predomină culorile naturale obținute din oxizi de fier și argilă.",
+        "Situl 'Ndalo' din municipiul Ebo este unul dintre cele mai vizitate.",
+        "Reprezentările includ scene de vânătoare și simboluri solare.",
+        "Arta rupestră este adesea situată în zone de o frumusețe naturală rară.",
+        "Protejată prin legea patrimoniului cultural a Angolei din 2005."
+      ]
+    },
+    {
+      "id": "cathedral-of-luanda-history-v2",
+      "descriptionAdvanced": "Catedrala din Luanda (Igreja de Nossa Senhora dos Remédios) este principala biserică romano-catolică din capitală și un monument arhitectural de o eleganță sobră. Construită între 1655 și 1679, catedrala a fost ridicată pe locul unei capele mai vechi, după recucerirea orașului de sub ocupația olandeză. Fațada sa clasică, cu două turnuri gemene, domină cartierul istoric al orașului de jos (Baixa). Interiorul este renumit pentru altarul său aurit și pentru tavanul pictat, reflectând bogăția și influența ordinelor religioase în perioada colonială. Catedrala a fost centrul vieții spirituale și sociale a elitei din Luanda timp de secole, găzduind ceremonii regale și oficiale. Astăzi, ea rămâne un simbol viu al credinței și al istoriei religioase a Angolei, fiind un punct de referință urban și un loc de pelerinaj urban pentru locuitorii capitalei.",
+      "factsAdvanced": [
+        "Fondată în 1655 de către episcopul Francisco de Soveral.",
+        "Situată în districtul urban Ingombota, inima istorică a Luandei.",
+        "A fost declarată monument istoric în anul 1949.",
+        "Prezintă o arhitectură în stil baroc portughez simplificat.",
+        "Găzduiește mormintele unor figuri istorice importante ale coloniei.",
+        "A servit ca sediu al Arhidiecezei de Luanda încă de la înființare.",
+        "Restaurată recent pentru a-și recăpăta splendoarea originală."
+      ]
+    },
+    {
+      "id": "alto-das-cruzes-cemetery-history-v2",
+      "descriptionAdvanced": "Cimitirul Alto das Cruzes este cel mai vechi și mai prestigios loc de odihnă din Luanda, fiind adesea numit un 'muzeu în aer liber' datorită arhitecturii funerare deosebite. Situat pe un platou înalt cu vedere la ocean, cimitirul a fost înființat în secolul al XIX-lea pentru a găzdui elitele politice, militare și religioase ale Angolei coloniale. Aici pot fi admirate mausolee monumentale, sculpturi din marmură și fier forjat lucrate cu măiestrie în stiluri precum neoclasicul și art nouveau. Cimitirul păstrează memoria unor personalități care au modelat istoria țării, de la exploratori și guvernatori la scriitori și eroi naționali. Dincolo de valoarea sa funerară, Alto das Cruzes oferă o perspectivă unică asupra stratificării sociale și a evoluției estetice a capitalei, fiind un loc de liniște și reflexie istorică în inima agitatei Luanda.",
+      "factsAdvanced": [
+        "Înființat oficial în 1851, înlocuind vechile cimitire parohiale.",
+        "Găzduiește mormântul poetului național Agostinho Neto (inițial).",
+        "Include panteonul familiei regale din Kongo în secțiunea sa catolică.",
+        "Renumit pentru statuile de îngeri și busturile de bronz.",
+        "Situat pe Morro do Alto das Cruzes, oferind priveliști spre port.",
+        "Unul dintre cele mai bine întreținute cimitire istorice din Africa.",
+        "Reprezintă o cronică vizuală a secolelor XIX și XX în Angola."
+      ]
+    },
+    {
+      "id": "mocamedes-historic-center-history-v2",
+      "descriptionAdvanced": "Centrul istoric al orașului Moçâmedes (Namibe) este o fereastră către perioada de aur a colonizării sudului Angolei, păstrând o atmosferă distinctă și bine conservată. Fondat în 1840 pe malul mării, orașul se remarcă prin clădirile sale coloniale cu fațade pastelate, străzi largi și piațete umbrite de palmieri. Arhitectura îmbină stilul neoclasic portughez cu influențe tropicale și accente Art Deco din anii 1930. Printre reperele importante se numără vechea primărie, palatul guvernatorului și gara istorică a Căii Ferate Moçâmedes. Centrul istoric reflectă identitatea maritimă a orașului, fiind strâns legat de industria pescuitului și de exploatarea deșertului Namibe. O plimbare prin acest cartier oferă vizitatorului senzația că timpul a stat în loc, oferind un contrast relaxant față de modernizarea rapidă a altor regiuni angoleze.",
+      "factsAdvanced": [
+        "Orașul a fost fondat de coloniști veniți din Brazilia în 1840.",
+        "Moçâmedes a fost numele original, revenit oficial în 2016.",
+        "Include clădiri emblematice din perioada 1880-1940.",
+        "Găzduiește Liceul Diogo Cão, un monument al arhitecturii educaționale.",
+        "Zidurile orașului vechi prezintă tehnici de construcție rezistente la coroziunea marină.",
+        "Este considerat unul dintre cele mai pitorești orașe de coastă din Angola.",
+        "Centrul a beneficiat de un plan riguros de urbanism încă de la înființare."
+      ]
+    },
+    {
+      "id": "kalandula-battle-site-history-v2",
+      "descriptionAdvanced": "Situl bătăliei de la Kalandula, situat în provincia Malanje, marchează locul unor confruntări istorice decisive care au avut loc în timpul expansiunii coloniale și al conflictului civil din secolul XX. Regiunea, renumită pentru cascadele sale spectaculoase, a fost un punct strategic de trecere și control datorită reliefului accidentat și a proximității față de cursul râului Lucala. Istoric, zona a fost scena rezistenței poporului Ndongo sub conducerea reginei Njinga Mbande, care a utilizat geografia dificilă pentru a hărțui trupele portugheze. În epoca modernă, bătăliile purtate aici au vizat controlul asupra barajelor și a rutelor spre estul țării. Astăzi, situl amintește de prețul libertății și de importanța strategică a provinciei Malanje în formarea națiunii angoleze, oferind o perspectivă istorică profundă în paralel cu măreția peisajului natural înconjurător.",
+      "factsAdvanced": [
+        "Zona a fost un focar de rezistență anticolonială încă din secolul XVII.",
+        "Situl bătăliei moderne este marcat de resturi de infrastructură militară.",
+        "Localitatea Kalandula s-a numit Duque de Bragança până în 1975.",
+        "Bătăliile au influențat controlul asupra platoului central al Angolei.",
+        "Njinga Mbande a stabilit alianțe tactice în această regiune.",
+        "Este un loc de memorie pentru luptele armate de eliberare națională.",
+        "Situl integrează monumente naturale (cascadele) cu istoria militară."
+      ]
+    },
+    {
+      "id": "dondo-river-port-history-v2",
+      "descriptionAdvanced": "Portul fluvial Dondo, situat pe râul Kwanza în provincia Cuanza Norte, a fost timp de secole cel mai important nod comercial din interiorul Angolei. Până la apariția căii ferate, Dondo era punctul final al navigației pe râul Kwanza, servind ca poartă de intrare pentru produsele europene și punct de ieșire pentru resursele Africii centrale: cafea, ceară, bumbac și, în mod tragic, sclavi. Orașul Dondo a prosperat datorită activității frenetice din portul său, unde vapoarele cu aburi acostau pentru a descărca mărfuri destinate platoului central. Astăzi, ruinele vechilor antrepozite și a debarcaderelor monumentale amintesc de epoca de glorie comercială. Portul este un monument istoric care ilustrează importanța fluviului Kwanza ca arteră vitală a economiei coloniale și rolul Dondo ca punct de topire a culturilor fluviale și de interior.",
+      "factsAdvanced": [
+        "A fost inima comerțului pe râul Kwanza în secolele XVIII și XIX.",
+        "Punctul de transbordare între navele de râu și caravanele terestre.",
+        "Include ruinele vechii piețe comerciale și a clădirilor vamale.",
+        "Dondo era cunoscut drept 'Poarta de Aur' a interiorului Angolei.",
+        "Nivelul apei râului Kwanza în această zonă permitea navigația vapoarelor mari.",
+        "Aici s-au stabilit primele mari case comerciale din regiune.",
+        "Situl este parte a patrimoniului industrial și istoric al Angolei."
+      ]
+    },
+    {
+      "id": "quibaxe-resistance-history-v2",
+      "descriptionAdvanced": "Quibaxe, situat în provincia Bengo (municipiul Dembos), este un sit istoric legendar asociat cu rezistența dârză a poporului angolez împotriva opresiunii coloniale. Regiunea Dembos a fost renumită pentru că nu a fost niciodată complet cucerită de portughezi până în secolul XX, menținându-și propriile forme de organizare politică și militară în pădurile dense de cafea. Quibaxe a devenit un centru de coordonare a revoltelor din 1961, care au marcat începutul războiului de independență. Terenul accidentat și vegetația luxuriantă au oferit un adăpost ideal pentru gherilele care luptau pentru libertate. Astăzi, situl de la Quibaxe este un simbol al patriotismului și al spiritului indomabil al grupului etnic Ambundu, fiind onorat prin monumente locale și prin memoria colectivă a comunităților care păstrează vii poveștile bătăliilor purtate în munții verzi ai provinciei Bengo.",
+      "factsAdvanced": [
+        "Epicentrul rezistenței din regiunea istorică Dembos.",
+        "A fost un punct focal al evenimentelor revoluționare din 4 februarie 1961.",
+        "Regiunea a fost administrată prin sistemul autonom al 'Demboșilor'.",
+        "Situl include locuri de întâlnire clandestine ale liderilor naționaliști.",
+        "Quibaxe este înconjurat de plantații istorice de cafea folosite ca baze.",
+        "Monumentul Rezistenței din oraș onorează eroii locali.",
+        "Simbolizează trecerea de la rezistența tradițională la lupta modernă."
+      ]
+    },
+    {
+      "id": "dombe-grande-history-v2",
+      "descriptionAdvanced": "Dombe Grande, situat în provincia Benguela, este un sit istoric renumit pentru originile sale ca pol agricol și industrial major, fiind strâns legat de producția de zahăr în secolul al XIX-lea. Aici s-a stabilit una dintre primele și cele mai mari plantații mecanizate de trestie de zahăr din Angola, susținută de solurile fertile ale văii râului Coporolo. Moștenirea istorică a locului include ruinele vechii fabrici de zahăr, vile coloniale și o biserică istorică ce deservea comunitatea de muncitori. Dombe Grande a fost, de asemenea, un centru de interacțiune culturală între coloniști și grupurile etnice locale Mundombe, cunoscute pentru tradițiile lor pastorale. Astăzi, acest loc reprezintă un exemplu rar de patrimoniu agro-industrial care a modelat economia regiunii Benguela, amintind de transformarea peisajului prin tehnologie și muncă într-un cadru natural marcat de ariditatea coastei și fertilitatea oazei râului.",
+      "factsAdvanced": [
+        "Fostul centru al Companiei de Zahăr din Dombe Grande (fondată în 1864).",
+        "Situat într-o vale fertilă înconjurată de munți stâncoși.",
+        "A posedat prima cale ferată privată din regiune pentru transportul trestiei.",
+        "Include Biserica São João Baptista, un reper arhitectural local.",
+        "A jucat un rol vital în exporturile provinciei Benguela în secolul XIX.",
+        "Cunoscut pentru echilibrul istoric între marea agricultură și păstorit.",
+        "Situl este în curs de evaluare pentru restaurare istorică."
+      ]
+    },
+    {
+      "id": "ngola-kiluanje-tombs-history-v2",
+      "descriptionAdvanced": "Mormintele lui Ngola Kiluanje, situate în provincia Malanje, sunt locuri de o profunzime istorică și spirituală imensă, reprezentând rămășițele monarhilor Regatului Ndongo. Ngola Kiluanje a fost tatăl legendarei regine Njinga Mbande și un lider care a consolidat puterea regatului în fața primelor contacte cu europenii. Mormintele, situate în zone sacre protejate de tradiția locală, sunt locuri de venerație unde se practică ritualuri ancestrale de onorare a spiritelor strămoșilor. Aceste situri nu sunt doar monumente funerare, ci simboluri ale suveranității africane pre-coloniale și ale rezistenței politice. Ele marchează epoca în care regatele angoleze dețineau un control sofisticat asupra teritoriului și a comerțului interior. Conservate prin respectul comunităților Mbundu, mormintele reprezintă piesa centrală a identității istorice a provinciei Malanje și un punct de referință pentru genealogia regalității angoleze.",
+      "factsAdvanced": [
+        "Ngola Kiluanje a domnit la începutul secolului al XVII-lea.",
+        "Situl principal se află în localitatea Matamba, provincia Malanje.",
+        "Mormintele sunt păstrate conform tradițiilor ancestrale Kimbundu.",
+        "Locul este considerat sanctuar național de patrimoniu spiritual.",
+        "Regina Njinga Mbande a fost îngropată inițial în aceeași regiune sacră.",
+        "Accesul la morminte necesită adesea permisiunea autorităților tradiționale.",
+        "Simbolizează măreția dinastiei care a opus rezistență Portugaliei."
+      ]
+    },
+    {
+      "id": "cuangar-fort-history-v2",
+      "descriptionAdvanced": "Fortul Cuangar, situat pe malul râului Okavango (Cubango) în provincia Cuando Cubango, la granița cu Namibia, este un monument istoric ce mărturisește conflictele de frontieră din perioada colonială timpurie. Construit la sfârșitul secolului al XIX-lea ca un post militar pentru securizarea sud-estului Angolei, fortul a fost locul unui atac celebru în 1914, cunoscut sub numele de 'Masacrul de la Cuangar'. În acest eveniment, trupele coloniale germane din Africa de Sud-Vest (astăzi Namibia) au atacat garnizoana portugheză, marcând extinderea Primului Război Mondial pe sol african. Ruinele fortului, realizate din cărămidă și piatră locală, sunt astăzi un simbol al tensiunilor imperiale și al importanței strategice a cursurilor de apă în controlul teritoriului. Situl oferă o perspectivă unică asupra istoriei militare de frontieră într-unul dintre cele mai izolate colțuri ale Angolei.",
+      "factsAdvanced": [
+        "A fost atacat de forțele germane la 31 octombrie 1914.",
+        "Situat pe malul drept al fluviului Cubango.",
+        "Marchează punctul cel mai sud-estic al prezenței coloniale portugheze.",
+        "Situl include rămășițe ale turnurilor de pază și ale cazărmii.",
+        "Incidentul de la Cuangar a dus la declarația de război dintre Portugalia și Germania.",
+        "Clasificat ca monument istoric național în epoca colonială.",
+        "Reprezintă o verigă importantă în istoria Primului Război Mondial în Africa."
+      ]
+    },
+    {
+      "id": "fort-rocadas-xangongo-history-v2",
+      "descriptionAdvanced": "Fortul Roçadas, situat în localitatea Xangongo, provincia Cunene, este o fortificație istorică monumentală ridicată la începutul secolului al XX-lea pentru a asigura controlul asupra bazinului fluviului Cunene. Numit după generalul Alves Roçadas, fortul a fost piesa centrală a campaniilor militare împotriva rezistenței poporului Cuanhama, condus de regele Mandume ya Ndemufayo. Structura se distinge prin zidurile sale circulare și turnurile de observație, fiind un exemplu clasic de arhitectură militară de frontieră adaptată mediului de savană aridă. Fortul a servit ca bază logistică majoră în conflictele ulterioare ale secolului XX, datorită locației sale pe drumul spre Namibia. Astăzi, Fortul Roçadas este un muzeu istoric care păstrează artefacte din perioada războaielor de ocupație și eliberare, fiind un simbol al complexității istorice a sudului Angolei și al luptei pentru controlul resurselor vitale de apă din regiune.",
+      "factsAdvanced": [
+        "Construit între 1906 și 1915 în timpul campaniilor de la Cunene.",
+        "Sediul operativ împotriva rezistenței regelui Mandume.",
+        "Situat la un punct strategic de trecere peste fluviul Cunene.",
+        "Include un muzeu local cu echipament militar istoric.",
+        "Orașul Xangongo a fost cunoscut sub numele de Vila Roçadas până în 1975.",
+        "Arhitectura fortului permitea monitorizarea pe distanțe lungi în savană.",
+        "Înscris ca sit de patrimoniu de importanță națională."
+      ]
+    },
+    {
+      "id": "benguela-railway-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Căii Ferate Benguela (CFB), situat în orașul portuar Lobito, celebrează una dintre cele mai ambițioase realizări inginerești de pe continentul african. Calea ferată, concepută de Sir Robert Williams la începutul secolului al XX-lea, a fost construită pentru a lega portul Lobito de minele bogate din Katanga (RD Congo) și Zambia, pe o distanță de peste 1.300 km. Monumentul onorează miile de muncitori din întreaga lume care au lucrat la construcția acestui 'drum de fier' prin munți și savane. Simbolizând integrarea economică și efortul uman titanic, CFB a transformat Angola într-un coridor logistic vital pentru Africa Australă. Monumentul, adesea reprezentat prin locomotive cu aburi istorice și plăci comemorative, amintește de epoca în care calea ferată era motorul civilizației și al comerțului modern în regiune, rămânând o sursă de mândrie națională și speranță pentru viitorul feroviar al țării.",
+      "factsAdvanced": [
+        "Inaugurată oficial în întregime în anul 1929.",
+        "Singura cale ferată din Africa ce leagă Atlanticul de rețeaua feroviară a Africii Centrale.",
+        "Williams a primit concesiunea de la regele Carlos I al Portugaliei.",
+        "Gara Centrală din Lobito este un exemplu superb de arhitectură feroviară.",
+        "CFB traversează provinciile Benguela, Huambo, Bié și Moxico.",
+        "Locomotivele 'Garratt' au fost celebre pe această linie.",
+        "Monumentul simbolizează legătura de neîntrerupt dintre mare și interior."
+      ]
+    },
+    {
+      "id": "iron-palace-kuito-history-v2",
+      "descriptionAdvanced": "Palatul de Fier din Kuito, situat în provincia Bié, este o structură istorică fascinantă care, asemenea corespondentului său din Luanda, a fost fabricată în Europa la sfârșitul secolului al XIX-lea și asamblată în inima platoului central al Angolei. Această clădire din elemente prefabricate de fontă și oțel reflectă dorința de a proiecta modernismul industrial european în regiunile de interior. Palatul a servit ca sediu administrativ și reședință oficială în perioada în care Kuito (cunoscut atunci sub numele de Silva Porto) era un centru vital de expansiune către est. Deși a suferit daune în timpul asediilor prelungite ale orașului Kuito în anii 1990, structura sa a rămas un simbol al rezistenței urbane. Recentul proces de restaurare vizează transformarea sa într-un spațiu cultural, păstrând detaliile sale decorative unice care oferă un contrast spectaculos cu arhitectura locală tradițională.",
+      "factsAdvanced": [
+        "O structură rară de metal prefabricat situată în interiorul țării.",
+        "A fost sediul districtului Silva Porto în perioada colonială.",
+        "Structura seamănă cu designul atelierelor Eiffel.",
+        "A supraviețuit asediului de 9 luni din 1993, devenind simbolul orașului.",
+        "Elementele de metal au fost aduse prin Calea Ferată Benguela.",
+        "Clădirea prezintă o adaptare climatică prin balcoane largi umbrite.",
+        "Restaurarea sa este un proiect cheie pentru turismul cultural în Bié."
+      ]
+    },
+    {
+      "id": "cabinda-fort-history-v2",
+      "descriptionAdvanced": "Fortul Cabinda (sau Forte de Santa Maria) este un sit istoric situat în inima orașului portuar Cabinda, reprezentând un punct de referință pentru prezența militară și administrativă portugheză în regiunea enclavelor. Construit în secolul al XIX-lea pentru a proteja interesele comerciale și diplomatice în fața expansiunii altor puteri coloniale în bazinul Congo, fortul se remarcă prin zidurile sale joase de apărare și tunurile de epocă care păzeau golful. De-a lungul istoriei, a servit ca post de comandă pentru guvernatorii locali și ca punct de observație maritimă. Locația sa oferă o priveliște strategică asupra activității portuare, fiind un simbol al istoriei complexe a regiunii, de la comerțul cu sclavi și lemn la epoca petrolului. Astăzi, fortul este integrat în peisajul urban al orașului, servind ca monument istoric care invită la cunoașterea trecutului maritim și diplomatic al provinciei Cabinda.",
+      "factsAdvanced": [
+        "Cunoscut și sub numele de Forte de Santa Maria de Cabinda.",
+        "Construit pe un promontoriu natural cu vedere la Atlantic.",
+        "Păstrează tunuri de fier originale din secolul XIX.",
+        "A jucat un rol vital în timpul Congresului de la Berlin (1884-1885).",
+        "Situat lângă sediul actual al guvernului provincial.",
+        "Este un simbol al suveranității angoleze asupra enclavei.",
+        "Clasificat ca monument de patrimoniu istoric-militar."
+      ]
+    },
+    {
+      "id": "fortaleza-sao-miguel-landmarks-v2",
+      "descriptionAdvanced": "Fortaleza de São Miguel este cel mai iconic reper istoric al orașului Luanda, situat strategic pe dealul São Paulo. Construită în 1576, această fortăreață cu ziduri albe și contur stelat a fost inima apărării capitalei timp de secole. Vizitatorii sunt atrași aici nu doar de istoria militară fascinantă, ci și de vederea panoramică uluitoare asupra Golfului Luanda și a promenadei Marginal. Interiorul cetății găzduiește Muzeul Național de Istorie Militară, unde sunt expuse tunuri de bronz, avioane și vehicule blindate. O caracteristică remarcabilă sunt panourile de plăci ceramice azulejos care decorează curtea interioară, ilustrând momente cheie din istoria Angolei și diversitatea faunei sale. Fortaleza de São Miguel rămâne un simbol al rezilienței și un punct de referință esențial pentru oricine dorește să înțeleagă rădăcinile profunde ale capitalei angoleze.",
+      "factsAdvanced": [
+        "Primul edificiu construit de portughezi în Luanda (1575-1576).",
+        "Găzduiește Muzeul Național de Istorie Militară al Angolei.",
+        "Panourile de azulejos prezintă scene cu elefanți, rinoceri și exploratori.",
+        "A fost sediul guvernatorului general al Angolei până în secolul XX.",
+        "Situată pe Morro de São Miguel, oferind o panoramă de 360 de grade.",
+        "A servit ca închisoare de tranzit în timpul comerțului cu sclavi.",
+        "Înscrisă pe lista tentativă a Patrimoniului Mondial UNESCO."
+      ]
+    },
+    {
+      "id": "cristo-rei-lubango-landmarks-v2",
+      "descriptionAdvanced": "Statuia Cristo Rei din Lubango este unul dintre cele mai vizibile și iubite monumente din sudul Angolei, vegheind de pe vârful lanțului muntos Serra da Chela. Inaugurată în 1957, statuia de marmură albă are o înălțime de 30 de metri și îl reprezintă pe Iisus Hristos cu brațele deschise, îmbrățișând simbolic orașul Lubango situat la baza muntelui. Inspirația pentru acest monument provine de la faimoasa statuie Cristo Redentor din Rio de Janeiro, fiind construită de comunitatea de coloniști din Madeira. Punctul de observație de la baza statuii oferă o priveliște spectaculoasă asupra întregii văi a Huílei și a platoului Humpata. Cristo Rei nu este doar un simbol religios, ci un reper geografic și turistic fundamental, fiind locul preferat pentru fotografii și pelerinaje la apus, reprezentând pacea și identitatea culturală a regiunii.",
+      "factsAdvanced": [
+        "Inaugurată pe 1 decembrie 1957, după doi ani de construcție.",
+        "Situată la o altitudine de 2.100 metri deasupra nivelului mării.",
+        "Baza statuii este un postament masiv de beton de 14 metri.",
+        "Proiectată de inginerul portughez Jorge de Sena.",
+        "Vizibilă din aproape orice punct al orașului Lubango.",
+        "Este un sit clasificat ca patrimoniu cultural și religios.",
+        "Accesul se face printr-un drum pitoresc în serpentine prin munți."
+      ]
+    },
+    {
+      "id": "mausoleu-agostinho-neto-landmarks-v2",
+      "descriptionAdvanced": "Memorialul Dr. António Agostinho Neto, cunoscut local sub numele de 'Mausoleu', este cea mai înaltă și futuristă structură din Luanda, dedicată primului președinte al Angolei independente. Edificiul se distinge printr-un obelisc central din beton și sticlă, cu o formă care amintește de o rachetă pregătită de lansare, simbolizând progresul și aspirațiile națiunii. Complexul ocupă o suprafață vastă pe coasta Atlanticului și adăpostește sarcofagul liderului istoric, o bibliotecă, un muzeu și spații pentru expoziții culturale. Designul său brutalist, de inspirație sovietică, este îndulcit de grădini bine întreținute și de o esplanadă imensă folosită pentru ceremonii de stat. Mausoleul nu este doar un loc de odihnă veșnică, ci un centru vibrant al memoriei politice angoleze, fiind un punct de reper vizual dominant pe linia orizontului din Luanda.",
+      "factsAdvanced": [
+        "Înălțimea turnului central atinge 120 de metri.",
+        "Construcția a început în anii '80 și a fost finalizată în 2011.",
+        "Situat în districtul Praia de Bispo, lângă Palatul Prezidențial.",
+        "Agostinho Neto a fost un renumit medic și poet național.",
+        "Sarcofagul este plasat într-o cameră solemnă sub turn.",
+        "Include picturi murale care ilustrează lupta de eliberare națională.",
+        "Este unul dintre cele mai vizitate monumente oficiale din țară."
+      ]
+    },
+    {
+      "id": "palacio-de-ferro-landmarks-v2",
+      "descriptionAdvanced": "Palácio de Ferro (Palatul de Fier) din Luanda este o piesă rară de arhitectură industrială, renumită pentru structura sa integrală din fontă și pentru misterul originii sale. Localizat în centrul capitalei, se crede că acest edificiu a fost proiectat în atelierele pariziene ale lui Gustave Eiffel. Povestea spune că palatul a fost transportat pe mare și a ajuns accidental în Luanda la sfârșitul secolului al XIX-lea. Clădirea se remarcă prin ornamentele metalice delicate, balcoanele cu traforaje fine și acoperișul caracteristic. După o restaurare minuțioasă finalizată în 2009, palatul a devenit un centru cultural prestigios care găzduiește expoziții de artă și concerte de jazz sau muzică tradițională. Palácio de Ferro este un simbol al eleganței istorice a Luandei și o dovadă a modului în care ingineria europeană s-a integrat în mediul tropical angolez.",
+      "factsAdvanced": [
+        "Se presupune că a fost construit pentru o expoziție în Franța sau Filipine.",
+        "Fabricat în întregime din elemente de fier prefabricate.",
+        "Unicul edificiu de acest tip din Africa de Sud-Vest.",
+        "Posedă două niveluri cu galerii deschise și scări metalice elegante.",
+        "A fost folosit de autoritățile coloniale ca sediu pentru poștă și artă.",
+        "Restaurarea a fost realizată cu respectarea materialelor originale.",
+        "Localizat pe strada Major Kanhanyulo din centrul Luandei."
+      ]
+    },
+    {
+      "id": "estadio-11-de-novembro-landmarks-v2",
+      "descriptionAdvanced": "Stadiul 11 de Novembro este cel mai mare și mai modern complex sportiv din Angola, fiind un reper al mândriei naționale și al pasiunii pentru fotbal. Situat în municipiul Belas din Luanda, stadionul a fost construit special pentru a găzdui Cupa Africii pe Națiuni din 2010 (CAN). Arhitectura sa spectaculoasă, cu o capacitate de 50.000 de locuri, include un acoperiș ondulat care acoperă tribunele, oferind o acustică impresionantă în timpul meciurilor. Numele său comemorează data independenței Angolei, subliniind importanța sa simbolică. Stadionul este casa echipei naționale (Palancas Negras) și găzduiește cele mai importante derby-uri ale campionatului local (Girabola). 11 de Novembro reprezintă investiția majoră a țării în infrastructura sportivă modernă și este inima vibrantă a vieții atletice din Angola.",
+      "factsAdvanced": [
+        "Capacitate totală de 50.000 de spectatori pe scaune.",
+        "Inaugurat oficial în decembrie 2009 pentru CAN 2010.",
+        "Găzduiește birourile Federației Angoleze de Fotbal.",
+        "Posedă o pistă de atletism de standarde olimpice.",
+        "Iluminatul nocturn este asigurat de patru turnuri gigantice de reflecție.",
+        "Include zone VIP și facilități moderne pentru presă.",
+        "A fost construit de o companie chineză în cadrul cooperării bilaterale."
+      ]
+    },
+    {
+      "id": "igreja-populo-landmarks-v2",
+      "descriptionAdvanced": "Igreja de Nossa Senhora do Pópulo, situată în districtul istoric din Luanda, este prima biserică anglicană construită în capitală, datând din 1748. Acest monument religios este un exemplu superb de arhitectură barocă și neoclasică portugheză, fiind renumit pentru interiorul său bogat decorat cu azulejos albastre și albe și altare din lemn sculptat aurit. Fațada sa albă, simplă și armonioasă, este un punct de reper în peisajul urban al orașului vechi. Biserica a jucat un rol crucial în viața religioasă a Luandei coloniale și continuă să fie un loc activ de cult. Clasificată ca monument istoric național, Igreja do Pópulo este apreciată de istorici și turiști deopotrivă pentru starea sa excelentă de conservare și pentru atmosfera de liniște și devoțiune pe care o emană în mijlocul metropolei moderne.",
+      "factsAdvanced": [
+        "Construită între 1748 și 1759, sub guvernarea lui António de Almeida.",
+        "Considerată unul dintre cele mai importante monumente de artă barocă din Angola.",
+        "Panourile de azulejos din interior prezintă scene din viața Fecioarei Maria.",
+        "Declarată monument istoric național în anul 1944.",
+        "Situată pe strada Reina Ginga, în apropierea vechiului debarcader.",
+        "A supraviețuit mai multor procese de renovare urbană.",
+        "Interiorul păstrează o colecție valoroasă de artă sacră colonială."
+      ]
+    },
+    {
+      "id": "se-catedral-luanda-landmarks-v2",
+      "descriptionAdvanced": "Sé Catedral de Luanda, dedicată Sfintei Maria a Remediilor (Nossa Senhora dos Remédios), este centrul spiritual al catolicismului din Angola. Ridicată în secolul al XVII-lea, catedrala a fost martora transformării Luandei dintr-un avanpost colonial într-o mare capitală africană. Edificiul se distinge prin stilul său arhitectural sobru, cu linii clasice și o prezență impunătoare pe strada Marginal. Interiorul este marcat de o navă spațioasă și de un altar principal de o mare finețe artistică. Ca sediu al Arhidiecezei de Luanda, catedrala este locul unde se desfășoară cele mai importante celebrări religioase și de stat. Catedrala nu este doar un edificiu de cult, ci o cronică de piatră a rezistenței și credinței, fiind un monument protejat care atrage zilnic numeroși credincioși și vizitatori fascinați de patrimoniul istoric al orașului.",
+      "factsAdvanced": [
+        "Construcția a început în 1655 și s-a finalizat în 1679.",
+        "Ridicată la rangul de Catedrală în anul 1841.",
+        "A fost renovată masiv în anii 1950 pentru a-i întări structura.",
+        "Găzduiește celebra imagine a Nossa Senhora dos Remédios.",
+        "Turnurile sale sunt puncte de referință pentru navigația costieră veche.",
+        "Include o cristelniță istorică de o mare valoare artistică.",
+        "Este inima festivităților de Crăciun și Paște din Luanda."
+      ]
+    },
+    {
+      "id": "se-catedral-lubango-landmarks-v2",
+      "descriptionAdvanced": "Sé Catedral de São José din Lubango este o capodoperă a arhitecturii moderne din interiorul Angolei, fiind situată în inima capitalei provinciei Huíla. Spre deosebire de catedralele istorice de pe coastă, cea din Lubango se distinge prin designul său avangardist, cu forme geometrice îndrăznețe și un turn clopotniță subțire care se înalță spre cerul albastru al platoului. Fațada sa este decorată cu elemente care reflectă fuziunea dintre tradiția creștină și estetica africană. Interiorul generos este inundat de lumină prin vitralii moderne, creând o atmosferă propice rugăciunii și reflecției. Catedrala este piesa centrală a zonei administrative a orașului, fiind înconjurată de parcuri și grădini. Ea reprezintă spiritul tânăr și dinamic al regiunii Huíla, fiind un simbol al prosperității și dezvoltării sudului Angolei în secolul XX.",
+      "factsAdvanced": [
+        "Inaugurată în 1939 ca biserică parohială, ulterior devenind catedrală.",
+        "Arhitectură cu influențe moderniste și Art Deco.",
+        "Sediul Arhidiecezei de Lubango, creată în 1977.",
+        "Cunoscută pentru acustica sa excepțională pentru coruri.",
+        "Localizată pe bulevardul principal al orașului Lubango.",
+        "Găzduiește un centru cultural și educațional catolic activ.",
+        "Turnul catedralei este unul dintre cele mai înalte puncte din oraș."
+      ]
+    },
+    {
+      "id": "fortaleza-sao-pedro-barra-landmarks-v2",
+      "descriptionAdvanced": "Fortaleza de São Pedro da Barra este un reper istoric și militar impunător situat pe o stâncă la nord de portul Luanda. Această fortăreață, cu o formă neregulată adaptată reliefului, a fost construită în 1703 pentru a servi ca bastion defensiv împotriva atacurilor de pe mare. Zidurile sale de calcar, bătute de briza Atlanticului, păstrează urmele unei istorii complexe: de la depozit de tranzit pentru sclavii deportați spre Brazilia, la închisoare de maximă securitate pentru liderii revoluționari angolezi în timpul perioadei coloniale târzii. Astăzi, monumentul este un loc de reculegere și cercetare istorică, oferind vizitatorilor ocazia de a explora tunelurile, celulele și platformele de artilerie. Vederea spectaculoasă asupra întinderii oceanului și a zonei industriale portuare conferă sitului o atmosferă de o rară intensitate dramatică.",
+      "factsAdvanced": [
+        "Clasificată ca monument istoric național încă din 1932.",
+        "Situl a fost inițial ocupat de un fort mic din secolul XVI.",
+        "Designul fortificației a fost optimizat pentru apărarea coastei de nord.",
+        "Păstrează celule unde au fost închiși pionierii independenței.",
+        "Situată strategic pentru a monitoriza intrarea în portul Luanda.",
+        "Include o baterie de tunuri vechi de mari dimensiuni.",
+        "Situl este parte a istoriei rezistenței antifasciste angoleze."
+      ]
+    },
+    {
+      "id": "ponte-4-de-abril-landmarks-v2",
+      "descriptionAdvanced": "Podul 4 de Abril este o lucrare monumentală de inginerie situată în provincia Namibe, traversând valea râului Giraul. Acest pod metalic spectaculos, cu o lungime considerabilă și un design elegant, este esențial pentru conexiunea rutieră între orașul Namibe (Moçâmedes) și regiunile din interior, facilitând transportul mărfurilor și al pasagerilor. Numele podului celebrează Ziua Păcii și a Reconcilierii Naționale din Angola, marcată pe 4 aprilie, simbolizând unificarea țării prin infrastructură. Structura sa robustă a fost concepută să reziste inundațiilor periodice ale râului Giraul, fiind un punct critic pe coridorul de transport din sud. Podul este, de asemenea, un punct de atracție vizuală, silueta sa metalică conturându-se dramatic pe fundalul deșertic și muntos al provinciei Namibe.",
+      "factsAdvanced": [
+        "Inaugurat pentru a celebra decada de pace a Angolei.",
+        "Traversează albia vastă a râului Giraul, deseori sec.",
+        "Este o infrastructură cheie pentru drumul național EN100.",
+        "Posedă un design modern, cu grinzi de oțel de mare rezistență.",
+        "Lungimea totală depășește 160 de metri.",
+        "Înlocuiește vechile structuri care erau vulnerabile la viituri.",
+        "Oferă o perspectivă unică asupra reliefului arid al regiunii."
+      ]
+    },
+    {
+      "id": "banco-nacional-angola-landmarks-v2",
+      "descriptionAdvanced": "Clădirea Băncii Naționale a Angolei (BNA) este unul dintre cele mai frumoase și emblematice exemple de arhitectură colonială din Luanda, situată pe celebra promenadă Marginal. Construită în anii 1950, edificiul impresionează prin domul său roz pal și arcadele elegante, fiind inspirat de stilul neobaroc portughez. Interiorul este la fel de spectaculos, cu holuri monumentale decorate cu marmură și o cupolă centrală care permite intrarea luminii naturale. Clădirea nu este doar sediul autorității monetare a țării, ci și un simbol al stabilității și prestigiului economic al Angolei. Localizarea sa privilegiată pe frontul maritim o face să fie una dintre cele mai fotografiate clădiri din capitală, fiind un punct de reper inconfundabil pentru identitatea vizuală a Luandei moderne.",
+      "factsAdvanced": [
+        "Sediul central al băncii centrale a țării (BNA).",
+        "Arhitectură în stil 'Português Suave' sau neobaroc tarziu.",
+        "Cupola sa roz este o marcă vizuală faimoasă a promenadei Marginal.",
+        "Inaugurată oficial în 1956.",
+        "Găzduiește un muzeu al monedei extrem de informativ.",
+        "Declarată monument de patrimoniu arhitectural al orașului Luanda.",
+        "Interiorul păstrează elemente de decor originale de mare lux."
+      ]
+    },
+    {
+      "id": "monumento-kifangondo-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Kifangondo, situat la aproximativ 20 km nord de Luanda, este un reper istoric de o importanță fundamentală pentru suveranitatea Angolei. Acesta comemorează Bătălia de la Kifangondo, desfășurată pe 10 noiembrie 1975, cu doar o zi înainte de proclamarea independenței naționale. Monumentul prezintă o sculptură impunătoare reprezentând un soldat angolez, simbolizând victoria forțelor naționale și cubaneze împotriva trupelor străine de invazie. Situl oferă o vedere strategică asupra dealurilor unde s-au desfășurat luptele de artilerie. Kifangondo este considerat locul unde a fost asigurată nașterea statului angolez, fiind un loc de pelerinaj patriotic și de educație istorică pentru tinerile generații, amintind de determinarea poporului de a-și apăra libertatea în momentele critice ale istoriei sale.",
+      "factsAdvanced": [
+        "Comemorează bătălia decisivă pentru independență din 1975.",
+        "Situat pe un deal care domină valea râului Bengo.",
+        "Statuia centrală a fost ridicată în cinstea eroilor eliberării.",
+        "10 Noiembrie este o dată de mare importanță simbolică în Angola.",
+        "Include o esplanadă pentru ceremonii oficiale și un mic muzeu.",
+        "Vizibil de pe drumul național care leagă Luanda de Caxito.",
+        "Simbolizează sprijinul internaționalist pentru cauza angoleză."
+      ]
+    },
+    {
+      "id": "igreja-sagrada-familia-luanda-landmarks-v2",
+      "descriptionAdvanced": "Igreja da Sagrada Família (Biserica Sfânta Familie) este un punct de referință religios și arhitectural major în peisajul urban al Luandei moderne. Situată într-unul dintre cele mai aglomerate cartiere ale capitalei, biserica se distinge prin dimensiunile sale impunătoare și prin stilul său eclectic care îmbină elemente tradiționale cu nevoile unei mari congregații urbane. Interiorul spațios este renumit pentru spiritul comunitar vibrant, găzduind unele dintre cele mai populate slujbe și coruri de muzică gospel din oraș. Fațada bisericii, cu detaliile sale ornamentale discrete, oferă un sentiment de sacralitate într-un mediu dominat de zgârie-nori și trafic intens. Sagrada Família este un simbol al rolului central pe care biserica catolică îl joacă în coeziunea socială a Angolei, fiind un centru de asistență spirituală și socială pentru mii de familii din Luanda.",
+      "factsAdvanced": [
+        "Una dintre cele mai mari biserici parohiale din Angola.",
+        "Situată în districtul urban Luanda, pe bulevardul Deolinda Rodrigues.",
+        "Cunoscută pentru corul său polifonic deosebit.",
+        "Centru major pentru activități sociale și caritabile.",
+        "Arhitectura sa este o combinație de stil colonial târziu și modernism.",
+        "Găzduiește festivități religioase care atrag credincioși din toată țara.",
+        "Este un reper vizual important în zona de tranziție spre periferie."
+      ]
+    },
+    {
+      "id": "igreja-nossa-senhora-carmo-landmarks-v2",
+      "descriptionAdvanced": "Igreja de Nossa Senhora do Carmo, situată pe unul dintre dealurile istorice ale Luandei, este un monument religios de o frumusețe clasică, datând din secolul al XVII-lea. Biserica făcea parte inițial dintr-o mănăstire carmelită și se remarcă prin arhitectura sa barocă simplificată, tipică misiunilor portugheze din acea perioadă. Fațada sa albă cu detalii din piatră închisă la culoare oferă un contrast elegant, iar interiorul păstrează o atmosferă de liniște mistică, cu altare sculptate și panouri de azulejos care relatează viața sfinților. Biserica a supraviețuit numeroaselor transformări urbane ale capitalei, rămânând o oază de spiritualitate și istorie. Igreja do Carmo este prețuită nu doar pentru valoarea sa arhitecturală, ci și pentru legătura sa cu primele comunități religioase care s-au stabilit în Angola, fiind un loc de vizită obligatoriu pentru pasionații de patrimoniu colonial.",
+      "factsAdvanced": [
+        "Fondată în 1660 de călugării carmeliți desculți.",
+        "Situată pe Largo do Carmo, oferind o vedere spre centrul orașului.",
+        "Declarată monument istoric național în anul 1943.",
+        "Păstrează azulejos albastre originale din secolul XVIII.",
+        "A servit ca spital militar în perioade de criză istorică.",
+        "Arhitectura sa include o navă unică cu tavan de lemn boltit.",
+        "Este considerată una dintre cele mai autentice biserici baroce din Africa."
+      ]
+    },
+    {
+      "id": "forte-santa-maria-cabinda-landmarks-v2",
+      "descriptionAdvanced": "Forte de Santa Maria, cunoscut și sub numele de Fortul din Cabinda, este cel mai important reper istoric militar al enclavei nordice a Angolei. Situat pe un punct înalt de coastă cu o vedere strategică asupra Oceanului Atlantic și a portului Cabinda, fortul a fost ridicat în secolul al XIX-lea pentru a proteja interesele portugheze în regiune în timpul 'Scramble for Africa'. Structura sa robustă, construită din piatră locală și cărămidă, păstrează bastioane joase și tunuri vechi care priveau odinioară spre flotele rivale. Fortul a jucat un rol vital în menținerea suveranității coloniale și a fost martorul semnării unor tratate locale importante. Astăzi, Forte de Santa Maria servește ca monument național și spațiu de memorie, oferind vizitatorilor o perspectivă asupra istoriei diplomatice și militare unice a provinciei Cabinda.",
+      "factsAdvanced": [
+        "Situat în municipiul Cabinda, pe malul mării.",
+        "Construit pentru a întări prezența portugheză după 1885.",
+        "Păstrează un set de tunuri istorice orientate spre port.",
+        "Este un simbol al autorității statului angolez în regiunea enclavelor.",
+        "A servit ca punct de pază împotriva incursiunilor străine.",
+        "Include spații care sunt acum folosite pentru protocol oficial.",
+        "Clasificat ca monument istoric național de patrimoniu."
+      ]
+    },
+    {
+      "id": "universidade-agostinho-neto-campus-landmarks-v2",
+      "descriptionAdvanced": "Campusul Universității Agostinho Neto (UAN), situat în Camama, la periferia Luandei, este cel mai mare și mai modern complex educațional din Angola, reprezentând un reper al arhitecturii academice contemporane. Conceput ca un 'oraș universitar' integrat, campusul se întinde pe sute de hectare și include facultăți cu design futuristic, laboratoare dotate, biblioteci centrale și zone rezidențiale pentru studenți și profesori. Arhitectura sa se remarcă prin utilizarea inteligentă a spațiilor deschise și a luminii naturale, fiind proiectată pentru a promova un mediu de cercetare de elită. Campusul UAN este inima intelectuală a țării, purtând numele primului președinte, și simbolizează efortul națiunii de a forma forța de muncă calificată necesară dezvoltării viitoare. Este un punct de atracție pentru vizitatori datorită scării sale monumentale și a rolului său ca motor de progres social și științific.",
+      "factsAdvanced": [
+        "Cel mai mare campus universitar integrat din Africa Subsahariană.",
+        "Capacitate de a găzdui peste 20.000 de studenți simultan.",
+        "Proiectat pentru a reuni toate facultățile universității într-un singur loc.",
+        "Include o bibliotecă centrală cu o arhitectură premiată.",
+        "Situl dispune de propriul sistem de energie și alimentare cu apă.",
+        "Inaugurat parțial în 2011 ca parte a reconstrucției naționale.",
+        "Este centrul de excelență pentru cercetarea în științe și tehnologie în Angola."
+      ]
+    },
+    {
+      "id": "igreja-do-sequele-landmarks-v2",
+      "descriptionAdvanced": "Biserica din Sequele (Igreja do Sequele) este un reper arhitectural modern situat în noua cetate (centralidade) Sequele, în provincia Luanda. Acest lăcaș de cult reprezintă noua generație de arhitectură religioasă din Angola, fiind construit pentru a deservi comunitățile urbane în creștere din zonele rezidențiale planificate. Biserica se distinge prin liniile sale curate, utilizarea materialelor contemporane și un design spațios care facilitează incluziunea socială și spirituală a mii de rezidenți. Cu o prezență impunătoare în peisajul ordonat al cetății Sequele, biserica a devenit rapid un centru al vieții comunitare, găzduind nu doar slujbe, ci și activități educative și culturale. Reprezintă transformarea rapidă a suburbiilor Luandei și rolul continuu al credinței ca pilon al stabilității în noile dezvoltări urbane ale țării.",
+      "factsAdvanced": [
+        "Situată în Centralidade do Sequele, municipiul Cacuaco.",
+        "Construită ca parte a proiectului național de locuințe sociale.",
+        "Dispune de o capacitate mare de locuri pentru congregațiile locale.",
+        "Arhitectură modernă cu elemente de iluminat natural inovatoare.",
+        "Inima activităților sociale în una dintre cele mai noi zone urbane.",
+        "Simbolizează modernizarea instituțiilor religioase în secolul XXI.",
+        "Localizată central în planul urbanistic al cetății."
+      ]
+    },
+    {
+      "id": "estadio-nacional-ombaka-landmarks-v2",
+      "descriptionAdvanced": "Estádio Nacional Ombaka este un stadion de fotbal modern situat în orașul Benguela, fiind unul dintre cele patru stadioane construite pentru Cupa Africii pe Națiuni din 2010. Cu o capacitate de 35.000 de locuri, stadionul impresionează prin designul său exterior curbat și prin culorile vibrante (galben și negru) care reflectă identitatea locală. Ombaka a revitalizat viața sportivă din centrul Angolei, devenind casa echipei naționale pentru meciurile de pe coasta centrală și un punct de referință pentru Girabola. Stadionul este dotat cu tehnologie modernă de transmisiune, zone VIP și facilități de antrenament de nivel internațional. Mai mult decât o arenă sportivă, Estádio Ombaka este un simbol al regenerării urbane a provinciei Benguela și un magnet pentru tineret, demonstrând capacitatea regiunii de a găzdui evenimente de scară mondială.",
+      "factsAdvanced": [
+        "Capacitate de 35.000 de spectatori pe scaune.",
+        "Numele 'Ombaka' provine de la denumirea tradițională a regiunii Benguela.",
+        "A găzduit mai multe meciuri din CAN 2010, inclusiv sferturi de finală.",
+        "Designul este semnat de un consorțiu internațional de arhitectură.",
+        "Situat în zona de expansiune modernă a orașului Benguela.",
+        "Posedă unul dintre cele mai bune gazonuri naturale din țară.",
+        "Utilizat și pentru concerte și evenimente culturale de anvergură."
+      ]
+    },
+    {
+      "id": "estadio-nacional-tundavala-landmarks-v2",
+      "descriptionAdvanced": "Estádio Nacional da Tundavala, situat în Lubango, provincia Huíla, este o arenă sportivă de o frumusețe unică, construită într-un cadru natural spectaculos la o altitudine de peste 1.700 metri. Inaugurat în 2010 pentru Cupa Africii pe Națiuni, stadionul are o capacitate de 20.000 de locuri și se distinge prin arhitectura sa modernă cu tribune acoperite care se integrează armonios în relieful muntos al Huílei. Stadionul a fost numit după faimoasa prăpastie Fenda da Tundavala, subliniind legătura dintre sport și identitatea geografică a regiunii. Datorită aerului rarefiat și temperaturilor mai scăzute, meciurile desfășurate aici oferă o provocare unică sportivilor. Estádio da Tundavala este un pilon al infrastructurii sudice, servind ca centru de excelență pentru fotbal și un loc de mândrie pentru locuitorii din Lubango.",
+      "factsAdvanced": [
+        "Capacitate de 20.000 de locuri, complet modernizată.",
+        "Cel mai înalt stadion internațional din Angola (altitudine 1.760 m).",
+        "Găzduiește meciurile echipei locale Clube Desportivo da Huíla.",
+        "Arhitectura are forme care amintesc de crestele muntoase din jur.",
+        "A fost lăudat de CAF pentru facilitățile sale în timpul CAN 2010.",
+        "Punct de referință în polul de dezvoltare sportivă al provinciei.",
+        "Posedă sisteme de iluminat de ultimă generație pentru meciuri nocturne."
+      ]
+    },
+    {
+      "id": "santuario-muxima-landmarks-v2",
+      "descriptionAdvanced": "Sanctuarul Nossa Senhora da Muxima este cel mai important și venerat sit religios din Angola, situat pe malurile râului Kwanza, la aproximativ 130 km de Luanda. Fondat în 1594, sanctuarul adăpostește imaginea 'Mamei Muxima' (Mamã Muxima), considerată protectoarea țării și a poporului angolez. Locul este renumit pentru marile pelerinaje anuale de în septembrie, care atrag peste un milion de credincioși din întreaga Africă. Biserica veche, de o simplitate arhitecturală profundă, emană o energie spirituală copleșitoare. În prezent, un nou și grandios sanctuar este în construcție pentru a găzdui fluxul imens de pelerini. Muxima, care înseamnă 'Inimă' în limba Kimbundu, este centrul spiritual al națiunii, unde catolicismul se împletește cu tradițiile locale într-o manifestare unică de credință, speranță și identitate culturală angoleză.",
+      "factsAdvanced": [
+        "Cea mai veche biserică parohială din Angola (fondată în 1594).",
+        "A fost martora a peste 400 de ani de devoțiune continuă.",
+        "Situl este inclus în programul UNESCO pentru patrimoniu cultural.",
+        "Pelerinajul din septembrie este cel mai mare eveniment religios din țară.",
+        "Situat în municipiul Quiçama, într-un peisaj natural virgin.",
+        "Credincioșii consideră apa râului din apropiere ca fiind binecuvântată.",
+        "Noua bazilică în construcție va fi una dintre cele mai mari din Africa."
+      ]
+    }
+  ]
+}

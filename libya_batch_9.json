@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ubari-sand-sea-nature-v2",
+    "name": "Ubari Sand Sea",
+    "desc": "A large area with sand dunes."
+  },
+  {
+    "id": "gargaf-mountains-nature-v2",
+    "name": "Gargaf Mountains",
+    "desc": "A desert mountain range."
+  },
+  {
+    "id": "mizdah-plateau-nature-v2",
+    "name": "Mizdah Plateau",
+    "desc": "A flat plateau."
+  },
+  {
+    "id": "al-hamada-al-hamra-nature-v2",
+    "name": "Al-Hamada al-Hamra",
+    "desc": "An extensive stone desert."
+  },
+  {
+    "id": "tibesti-foothills-nature-v2",
+    "name": "Tibesti Foothills",
+    "desc": "The foothills of the Tibesti mountains in Libya."
+  },
+  {
+    "id": "sarir-tanezrouft-nature-v2",
+    "name": "Sarir Tanezrouft",
+    "desc": "A part of the stone desert."
+  },
+  {
+    "id": "wadi-kuf-nature-v2",
+    "name": "Wadi al-Kuf",
+    "desc": "A significant valley in the northeast."
+  },
+  {
+    "id": "sirte-basin-nature-v2",
+    "name": "Sirte Basin",
+    "desc": "A large depression along the coast."
+  },
+  {
+    "id": "gulf-of-sidra-nature-v2",
+    "name": "Gulf of Sidra",
+    "desc": "An arm of the Mediterranean Sea."
+  },
+  {
+    "id": "al-haruj-nature-v2",
+    "name": "Al-Haruj",
+    "desc": "A large volcanic field."
+  },
+  {
+    "id": "jebel-aswad-nature-v2",
+    "name": "Jebel Aswad",
+    "desc": "A smaller mountain range in the desert."
+  },
+  {
+    "id": "wadi-zamzam-nature-v2",
+    "name": "Wadi Zamzam",
+    "desc": "A temporary riverbed."
+  },
+  {
+    "id": "al-kufra-basin-nature-v2",
+    "name": "Al-Kufra Basin",
+    "desc": "A large underground water basin."
+  },
+  {
+    "id": "jebel-uwaynat-nature-v2",
+    "name": "Jebel Uwaynat",
+    "desc": "A mountain on the border with Egypt."
+  },
+  {
+    "id": "wadi-al-ajal-nature-v2",
+    "name": "Wadi al-Ajal",
+    "desc": "A long valley at the edge of the sand sea."
+  },
+  {
+    "id": "gargaf-desert-nature-v2",
+    "name": "Gargaf Desert",
+    "desc": "A part of the central Sahara."
+  },
+  {
+    "id": "sirtica-desert-nature-v2",
+    "name": "Sirtica Desert",
+    "desc": "A desert area between Tripolitania and Cyrenaica."
+  },
+  {
+    "id": "wadi-mathendous-nature-v2",
+    "name": "Wadi Mathendous",
+    "desc": "A wadi with rock engravings."
+  },
+  {
+    "id": "jebel-soda-nature-v2",
+    "name": "Jebel Soda",
+    "desc": "A volcanic mountain."
+  },
+  {
+    "id": "fezzan-desert-nature-v2",
+    "name": "Fezzan Desert",
+    "desc": "A large desert region in the southwest."
+  },
+  {
+    "id": "cyrenaica-coast-nature-v2",
+    "name": "Cyrenaica Coast",
+    "desc": "The northern Mediterranean coast."
+  },
+  {
+    "id": "wadi-farigh-nature-v2",
+    "name": "Wadi al-Farigh",
+    "desc": "A large valley in the desert."
+  },
+  {
+    "id": "jebel-tarhuna-nature-v2",
+    "name": "Jebel Tarhuna",
+    "desc": "A mountain range south of Tripoli."
+  }
+]

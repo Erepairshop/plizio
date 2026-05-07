@@ -14,10 +14,12 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       en: "Seville la Nueva Ruins",
     },
     descriptionAdvanced: {
-      hu: "Sevilla la Nueva, azaz Új-Sevilla, Jamaica első spanyol fővárosának régészeti lelőhelye. A települést 1509-ben alapította Juan de Esquivel, az első spanyol kormányzó, Kolumbusz Kristóf fia, Diego Kolumbusz megbízásából. A helyszín, ahol Kolumbusz 1503-ban egy évre hajótörést szenvedett, az európaiak első állandó jelenlétét jelöli a szigeten. A spanyolok egy várost kezdtek építeni templommal, erőddel és cukormalommal, de a mocsaras, egészségtelen környezet és a taino indiánokkal való konfliktusok miatt a település hanyatlásnak indult. 1534-re a fővárost áthelyezték a déli partra, a mai Spanish Town helyére. Ma a romok, köztük egy félkész templom alapjai és a kormányzói ház maradványai, a Jamaica National Heritage Trust gondozásában állnak, és a sziget legfontosabb történelmi emlékhelyei közé tartoznak. Történelem K6 – Gyarmatosítás kezdetei."
+      hu: "Sevilla la Nueva, azaz Új-Sevilla, Jamaica első spanyol fővárosának régészeti lelőhelye. A települést 1509-ben alapította Juan de Esquivel, az első spanyol kormányzó, Kolumbusz Kristóf fia, Diego Kolumbusz megbízásából. A helyszín, ahol Kolumbusz 1503-ban egy évre hajótörést szenvedett, az európaiak első állandó jelenlétét jelöli a szigeten. A spanyolok egy várost kezdtek építeni templommal, erőddel és cukormalommal, de a mocsaras, egészségtelen környezet és a taino indiánokkal való konfliktusok miatt a település hanyatlásnak indult. 1534-re a fővárost áthelyezték a déli partra, a mai Spanish Town helyére. Ma a romok, köztük egy félkész templom alapjai és a kormányzói ház maradványai, a Jamaica National Heritage Trust gondozásában állnak, és a sziget legfontosabb történelmi emlékhelyei közé tartoznak. Történelem K6 – Gyarmatosítás kezdetei.",
+      de: "Seville la Nueva in Saint Ann ist eine der bedeutendsten archäologischen Stätten Jamaikas und markiert den Ort der ersten spanischen Hauptstadt der Insel, die 1509 von Juan de Esquivel gegründet wurde. Die Ruinen umfassen die Überreste einer spanischen Festung, einer Kirche und eines Schlosses sowie Artefakte aus der Zeit der Taino-Indianer, die hier lange vor den Europäern lebten. Die Stätte bietet einen tiefen Einblick in die frühe Kolonialgeschichte und die tragische Begegnung zwischen der Alten und der Neuen Welt. Christoph Kolumbus verbrachte hier ein Jahr (1503-1504), als seine Schiffe strandeten. Später entwickelte sich Seville zu einer bedeutenden britischen Zuckerplantage, deren Herrenhaus (Seville Great House) heute als Museum dient. Die Ausgrabungen haben wertvolle Erkenntnisse über das tägliche Leben, die Architektur und den Sklavenhandel im 16. und 17. Jahrhundert geliefert."
     },
     factsAdvanced: {
-      hu: ["A település helyét maga Kolumbusz Kristóf jelölte ki.", "A régészeti feltárások során megtalálták az első kőből épült templom és egy erődített kormányzói ház alapjait.", "A Sevilla la Nueva-i cukormalom volt az első a maga nemében Jamaicában, amelyet állati erővel hajtottak.", "A spanyol telepesek és a taino őslakosok közötti kapcsolat kezdetben békés volt, de hamarosan konfliktusba torkollott.", "A betegségek, mint a malária és a sárgaláz, tizedelték a spanyol lakosságot.", "A lelőhelyen egy múzeum is működik, amely a taino és a spanyol korszak leleteit mutatja be.", "Sevilla la Nueva felkerült az UNESCO Világörökségi javaslati listájára.", "A helyszín egyben a taino kultúra egyik legfontosabb régészeti lelőhelye is a szigeten."]
+      hu: ["A település helyét maga Kolumbusz Kristóf jelölte ki.", "A régészeti feltárások során megtalálták az első kőből épült templom és egy erődített kormányzói ház alapjait.", "A Sevilla la Nueva-i cukormalom volt az első a maga nemében Jamaicában, amelyet állati erővel hajtottak.", "A spanyol telepesek és a taino őslakosok közötti kapcsolat kezdetben békés volt, de hamarosan konfliktusba torkollott.", "A betegségek, mint a malária és a sárgaláz, tizedelték a spanyol lakosságot.", "A lelőhelyen egy múzeum is működik, amely a taino és a spanyol korszak leleteit mutatja be.", "Sevilla la Nueva felkerült az UNESCO Világörökségi javaslati listájára.", "A helyszín egyben a taino kultúra egyik legfontosabb régészeti lelőhelye is a szigeten."],
+      de: ["Gegründet 1509 als erste spanische Hauptstadt Jamaikas.", "Ort, an dem Kolumbus 1503 ein Jahr lang festsaß.", "Umfasst archäologische Schichten der Taino, Spanier und Briten.", "Ruinen des ersten befestigten Schlosses (Castello) der Insel.", "Das Seville Great House stammt aus dem Jahr 1745.", "Befindet sich auf einem 300 Hektar großen geschützten Areal.", "Wichtige Fundstätte für frühe spanische Keramik.", "Teil des Welterbe-Kandidaten-Dossiers für die UNESCO."]
     }, image: "/poi-images/seville-la-nueva-ruins-history-v2.webp"},
   {
     id: "taino-middens-white-marl-history-v2",
@@ -41,7 +43,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A taíno kultúra megértésének fontos forrása.", "Ételmaradványokat és törött szerszámokat tartalmaz.", "Bemutatja a taínók tengeri erőforrásoktól való függőségét.", "Egy helyi múzeum mutatja be a leletek nagy részét."],
       ro: ["Sursă importantă pentru înțelegerea culturii Taíno.", "Conține resturi de mese și unelte sparte.", "Demonstrează dependența poporului Taíno de resursele marine.", "Un muzeu local expune multe dintre descoperiri."],
       en: ["Important source for understanding Taíno culture.", "Contains remains of meals and broken tools.", "Shows the Taíno's dependence on marine resources.", "A local museum displays many of the findings."],
-    }, image: "/poi-images/taino-middens-white-marl-history-v2.webp"},
+    }, image: "/poi-images/taino-middens-white-marl-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Taino-Abfallhaufen (Middens) in White Marl, Saint Catherine, stellen eine der größten und am besten erhaltenen präkolumbianischen Siedlungsstätten der Karibik dar. Diese archäologischen Formationen bestehen aus Schichten von Muscheln, Tonscherben, Werkzeugen und Nahrungsresten, die über Jahrhunderte von den Ureinwohnern Jamaikas, den Taino, angehäuft wurden. White Marl war einst ein blühendes Dorfzentrum auf einem Hügel, das strategisch günstig zwischen fruchtbarem Land und der Küste lag. Die Ausgrabungen haben Skelettreste, kunstvolle Keramiken und steinerne Idole zu Tage gefördert, die uns helfen, die soziale Struktur, den Glauben und die Ernährungsgewohnheiten dieses friedlichen Volkes zu verstehen. Trotz der Zerstörungen durch moderne Bauprojekte bleibt White Marl ein heiliger Ort und ein Symbol für das indigene Erbe Jamaikas. Ein kleines Museum vor Ort bewahrt viele der bedeutendsten Funde auf."
+    },
+    factsAdvanced: {
+      de: ["Größte bekannte Taino-Siedlung auf Jamaika.", "Datierung der Funde reicht bis ins Jahr 900 n. Chr. zurück.", "Befindet sich auf einem Kalksteinhügel nahe Spanish Town.", "Enthält wertvolle Keramikfunde des Typs 'White Marl'.", "Wichtige Quelle für Erkenntnisse über die Taino-Diät.", "Entdeckt während des Baus der Autobahn in den 1940er Jahren.", "Sitz des Taino Museums (derzeit in Renovierung).", "Ein Nationaldenkmal zum Schutz des indigenen Erbes."]
+    }
+  },
   {
     id: "nanny-town-ruins-history-v2",
     type: "historical",
@@ -64,7 +73,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A 18. században alapították.", "A britek többször megtámadták és elpusztították.", "Nanny a maroonok közül Jamaica nemzeti hőse.", "Pontos helye sokáig titok volt."],
       ro: ["Fondată în secolul al XVIII-lea.", "Atacată și distrusă de mai multe ori de britanici.", "Nanny a Maronilor este o eroină națională jamaicană.", "Locația exactă a fost un secret pentru mult timp."],
       en: ["Founded in the 18th century.", "Attacked and destroyed multiple times by the British.", "Nanny of the Maroons is a Jamaican National Heroine.", "The exact location was a secret for a long time."],
-    }, image: "/poi-images/nanny-town-ruins-history-v2.webp"},
+    }, image: "/poi-images/nanny-town-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Nanny Town, tief in den Blue Mountains gelegen, ist der legendäre Zufluchtsort der Windward Maroons und ein Symbol für den Widerstand gegen die Sklaverei. Benannt nach Queen Nanny, einer Nationalheldin Jamaikas, diente diese unzugängliche Bergsiedlung als militärische Basis während der Maroon-Kriege im 18. Jahrhundert. Die Ruinen und das Gelände sind von Mythen umwoben und zeugen von der strategischen Brillanz der Maroons, die die britischen Truppen jahrelang im Guerillakrieg besiegten. Das Dorf wurde schließlich 1734 von den Briten zerstört, doch der Geist der Freiheit blieb ungebrochen. Heute ist Nanny Town ein Ort der Verehrung und ein Ziel für anspruchsvolle Wanderungen, die nur mit Maroon-Führern unternommen werden können. Die Stätte bewahrt Überreste von Verteidigungsanlagen und Grabstätten und bietet einen atemberaubenden Blick auf die wilde Berglandschaft, die den Maroons einst Schutz bot."
+    },
+    factsAdvanced: {
+      de: ["Benannt nach Queen Nanny, der Anführerin der Maroons.", "Befindet sich auf über 600 Metern Höhe in den Blue Mountains.", "Zentrum des Widerstands während des Ersten Maroon-Krieges.", "Gilt als einer der am schwersten zugänglichen Orte der Insel.", "Nationaldenkmal und heiliger Ort für die Maroon-Gemeinschaft.", "Wurde 1734 nach einer langen Belagerung durch Briten eingenommen.", "Maroon-Kämpfer nutzten hier Tarnung und 'Abeng'-Signale.", "Teil der UNESCO-Welterbestätte Blue and John Crow Mountains."]
+    }
+  },
   {
     id: "morant-bay-courthouse-history-v2",
     type: "historical",
@@ -87,7 +103,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A felkelés vezetője Paul Bogle nemzeti hős volt.", "A lázadás a régi képviselőház eltörléséhez vezetett.", "Az eredeti épület leégett, de újjáépítették.", "Paul Bogle szobra áll az épület előtt."],
       ro: ["Liderul rebeliunii a fost eroul național Paul Bogle.", "Rebeliunea a dus la abolirea vechii Case a Adunării.", "Clădirea originală a fost distrusă de un incendiu și reconstruită.", "O statuie a lui Paul Bogle se află în fața clădirii."],
       en: ["The leader of the rebellion was National Hero Paul Bogle.", "The rebellion led to the abolition of the old House of Assembly.", "The original building was destroyed by fire and rebuilt.", "A statue of Paul Bogle stands in front of the building."],
-    }, image: "/poi-images/morant-bay-courthouse-history-v2.webp"},
+    }, image: "/poi-images/morant-bay-courthouse-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Gerichtsgebäude von Morant Bay in Saint Thomas ist untrennbar mit dem Morant-Bay-Aufstand von 1865 verbunden, einem Wendepunkt in der politischen Geschichte Jamaikas. Unter der Führung von Paul Bogle, einem baptistischen Diakon und heutigen Nationalhelden, protestierten Bauern gegen soziale Ungerechtigkeit und Armut. Die gewaltsame Niederschlagung des Aufstands durch Gouverneur Eyre führte zur Hinrichtung von Bogle und George William Gordon sowie zur Auflösung des jamaikanischen Parlaments und der Einführung der direkten britischen Kronkolonie-Verwaltung. Das ursprüngliche Gerichtsgebäude wurde während der Unruhen in Brand gesteckt und später wieder aufgebaut. Vor dem Gebäude steht heute eine Statue von Paul Bogle, die an seinen Mut erinnert. Die Stätte ist ein Ort nationaler Reflexion über den langen Weg zur Freiheit und Gleichberechtigung und zieht historisch interessierte Besucher aus der ganzen Welt an."
+    },
+    factsAdvanced: {
+      de: ["Schauplatz des Morant-Bay-Aufstands im Oktober 1865.", "Paul Bogle führte hier den Protest für Landrechte an.", "Die Statue von Paul Bogle wurde von Edna Manley geschaffen.", "Ort der Hinrichtung vieler Aufständischer nach dem Kriegsrecht.", "Wiederaufgebautes Gebäude im kolonialen Backsteinstil.", "Nationaldenkmal unter dem Jamaica National Heritage Trust.", "Symbol für den Kampf gegen soziale Unterdrückung.", "Das Ereignis führte zum Sturz von Gouverneur Edward Eyre."]
+    }
+  },
   {
     id: "halse-hall-great-house-history-v2",
     type: "historical",
@@ -110,7 +133,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Eredetileg cukornádültetvény volt.", "Az évszázadok során számos építészeti változáson ment keresztül.", "Ma egy bauxitcég tulajdonában van.", "A korai gyarmati építészet egyik példája."],
       ro: ["Inițial o plantație de zahăr.", "A suferit multe modificări arhitecturale de-a lungul secolurilor.", "Astăzi este deținut de o companie de bauxită.", "Un exemplu de arhitectură colonială timpurie."],
       en: ["Originally a sugar plantation.", "Has undergone many architectural changes over the centuries.", "Today it is owned by a bauxite company.", "An example of early colonial architecture."],
-    }, image: "/poi-images/halse-hall-great-house-history-v2.webp"},
+    }, image: "/poi-images/halse-hall-great-house-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Halse Hall Great House in Clarendon ist eines der ältesten und kontinuierlich bewohnten Plantagenhäuser Jamaikas. Es wurde im späten 17. Jahrhundert auf den Fundamenten einer früheren spanischen Siedlung erbaut und diente Thomas Halse als befestigte Residenz. Das Haus zeichnet sich durch seine massiven Mauern und Schießscharten aus, die zum Schutz gegen Angriffe von Maroons oder Piraten errichtet wurden. Im Laufe der Jahrhunderte wurde es im georgianischen Stil erweitert und verfeinert. Halse Hall ist ein herausragendes Beispiel für die Entwicklung der Plantagenarchitektur von einer rein defensiven Struktur zu einem eleganten Herrensitz. Heute befindet sich das Haus im Besitz von Jamalco und wird für offizielle Anlässe und als Gästehaus genutzt. Die umliegenden Gärten und das historische Flair machen es zu einem bedeutenden kulturellen Denkmal in Clarendon, das die koloniale Pracht und die harte Realität der Plantagenwirtschaft widerspiegelt."
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1680 von Major Thomas Halse.", "Ursprünglich als befestigtes 'Fort'-Haus konzipiert.", "Eines der am besten erhaltenen Great Houses der Insel.", "Besitzt massive Kalksteinmauern und historische Innenräume.", "Beherbergte bedeutende Persönlichkeiten der Kolonialgeschichte.", "Eigentum von Jamalco (Aluminiumoxid-Unternehmen).", "Steht auf einem Hügel mit Blick auf die Rio Minho Ebene.", "Enthält eine Sammlung von Antiquitäten und Karten."]
+    }
+  },
   {
     id: "st-peters-church-port-royal-history-v2",
     type: "historical",
@@ -133,7 +163,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Egy 18. századi orgonát tartalmaz.", "Az ezüst úrvacsorai kelyhet állítólag Henry Morgan adományozta.", "Galdy sírja elmeséli csodálatos túlélésének történetét.", "Port Royal kevés megmaradt történelmi épületének egyike."],
       ro: ["Conține o orgă din secolul al XVIII-lea.", "Vesela de împărtășanie din argint ar fi fost donată de Henry Morgan.", "Mormântul lui Galdy povestește supraviețuirea sa miraculoasă.", "Una dintre puținele clădiri istorice rămase în Port Royal."],
       en: ["Contains an 18th-century organ.", "The silver communion set was supposedly donated by Henry Morgan.", "Galdy's tomb tells his miraculous survival story.", "One of the few remaining historic buildings in Port Royal."],
-    }, image: "/poi-images/st-peters-church-port-royal-history-v2.webp"},
+    }, image: "/poi-images/st-peters-church-port-royal-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die St. Peter's Church in Port Royal ist ein stiller Zeuge der turbulenten Geschichte der einstigen Piratenhauptstadt. Die heutige Kirche wurde zwischen 1725 und 1726 erbaut, nachdem frühere Holzkirchen durch Brände und das verheerende Erdbeben von 1692 zerstört worden waren. Sie beherbergt zahlreiche historische Schätze, darunter eine Orgel aus dem 18. Jahrhundert und ein prächtiges silbernes Abendmahlgeschirr, das angeblich ein Geschenk des berüchtigten Piraten Henry Morgan war. Die Gedenktafeln an den Wänden erzählen Geschichten von Admirälen, Gouverneuren und gewöhnlichen Bürgern, die die bewegte Vergangenheit der Stadt prägten. Besonders eindrucksvoll ist das Grab von Lewis Galdy auf dem Kirchhof, der das Erdbeben von 1692 auf wunderbare Weise überlebte. Die Architektur der Kirche ist schlicht und robust, entworfen, um den Elementen und der Zeit zu trotzen, und bleibt ein zentraler Punkt für die Gemeinde von Port Royal."
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1725-1726 als Ersatz für zerstörte Vorgängerbauten.", "Beherbergt das Henry Morgan Silber-Abendmahlgeschirr.", "Berühmt für das Grab von Lewis Galdy (Erdbeben-Überlebender).", "Enthält Denkmäler für viele britische Seehelden.", "Architektur im klassischen englischen Kolonialstil.", "Wichtiges Zentrum des christlichen Glaubens in Port Royal.", "Überlebte mehrere Hurrikane und Brände fast unbeschadet.", "Teil des historischen Ensembles der Palisadoes-Halbinsel."]
+    }
+  },
   {
     id: "colbeck-castle-history-v2",
     type: "historical",
@@ -156,7 +193,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Korának egyik legnagyobb épülete volt Jamaicában.", "Téglából és kőből épült, szimmetrikus kialakítással.", "Valószínűleg soha nem fejezték be teljesen, és nem is lakták.", "A romok nemzeti műemlékek."],
       ro: ["Una dintre cele mai mari clădiri din Jamaica la vremea sa.", "Construită din cărămidă și piatră într-un design simetric.", "Probabil nu a fost niciodată complet finalizată sau locuită.", "Ruinele sunt un monument național."],
       en: ["One of the largest buildings of its time in Jamaica.", "Built with bricks and stones in a symmetrical design.", "It was likely never fully completed or inhabited.", "The ruins are a national monument."],
-    }, image: "/poi-images/colbeck-castle-history-v2.webp"},
+    }, image: "/poi-images/colbeck-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Colbeck Castle in Saint Catherine ist die imposante Ruine eines befestigten Herrenhauses aus dem späten 17. Jahrhundert. Es wird angenommen, dass es für Colonel John Colbeck erbaut wurde, einen Offizier der Armee, die Jamaika für die Briten eroberte. Das 'Schloss' ist eigentlich eine massive Plantagenstruktur, die wie eine Festung konzipiert wurde, mit vier Ecktürmen und Schießscharten zur Verteidigung. Es ist eines der größten historischen Gebäude seiner Art auf der Insel und zeugt von der ständigen Angst vor Angriffen während der frühen Kolonialzeit. Obwohl es heute eine Ruine ohne Dach ist, beeindrucken die massiven Backstein- und Steinmauern immer noch durch ihre Größe und Symmetrie. Colbeck Castle bietet eine einzigartige Kulisse für Geschichtsinteressierte und Fotografen und ist ein bedeutendes Denkmal für den Übergang von der militärischen Eroberung zur sesshaften Plantagenwirtschaft in Jamaika."
+    },
+    factsAdvanced: {
+      de: ["Größte Ruine eines befestigten Herrenhauses in Jamaika.", "Erbaut um 1680 für Colonel John Colbeck.", "Architektur ähnelt einer Festung mit vier quadratischen Türmen.", "Wurde als Verteidigungsanlage gegen Maroon-Angriffe genutzt.", "Befindet sich in der Nähe von Old Harbour, St. Catherine.", "Kein echtes Schloss, sondern ein massives Great House.", "Nationaldenkmal unter dem Schutz des Heritage Trust.", "Bietet Einblicke in die frühe britische Militärarchitektur."]
+    }
+  },
   {
     id: "stewart-castle-ruins-history-v2",
     type: "historical",
@@ -179,7 +223,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["James Stewart, egy helyi ültetvényes építtette.", "Lőrésekkel és masszív szerkezettel rendelkezett.", "Példa az ültetvények védekező építészetére.", "A romokat cukornádültetvények veszik körül."],
       ro: ["Construit de James Stewart, un plantator local.", "Avea ambrazuri și o construcție robustă.", "Un exemplu de arhitectură defensivă pe plantații.", "Ruinele sunt înconjurate de câmpuri de trestie de zahăr."],
       en: ["Built by James Stewart, a local planter.", "Had gun loops and a sturdy construction.", "An example of defensive architecture on plantations.", "The ruins are surrounded by sugarcane fields."],
-    }, image: "/poi-images/stewart-castle-ruins-history-v2.webp"},
+    }, image: "/poi-images/stewart-castle-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Stewart Castle in Trelawny sind die Überreste eines weiteren befestigten Herrenhauses, das im 18. Jahrhundert erbaut wurde. James Stewart, ein wohlhabender Pflanzer, errichtete dieses massive Steingebäude, um seine Familie und seinen Besitz während einer Zeit großer sozialer Unruhen zu schützen. Die Architektur ist typisch für die damalige Zeit: eine Mischung aus Wohnhaus und Festung mit dicken Mauern und strategisch platzierten Fenstern. Stewart Castle war das Zentrum einer großen Zuckerplantage und spiegelt den Reichtum und die Macht wider, die durch die Arbeit versklavter Menschen generiert wurden. Heute sind nur noch die Außenmauern erhalten, die von der Natur zurückerobert werden, was der Stätte eine melancholische und geheimnisvolle Atmosphäre verleiht. Die Ruinen sind ein wichtiges Zeugnis für die Siedlungsgeschichte von Trelawny und den harten Kontrast zwischen der Pracht der Herrenhäuser und der Realität der Sklaverei auf den umliegenden Feldern."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert von James Stewart.", "Befestigtes Plantagenhaus mit wehrhaftem Charakter.", "Gelegen an der Nordküste zwischen Falmouth und Rio Bueno.", "Ruinen zeigen massive Kalksteinmetzarbeiten.", "Zentrum einer einst blühenden Zuckerplantage.", "Nationales Kulturerbe, das die Kolonialzeit dokumentiert.", "Ort für archäologische Studien zur Plantagenwirtschaft.", "Typisches Beispiel für ein wehrhaftes 'Great House'."]
+    }
+  },
   {
     id: "good-hope-great-house-history-v2",
     type: "historical",
@@ -202,7 +253,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Az ültetvény egykor egy egész falut foglalt magában a munkások számára.", "Butikhotellé és kalandparkká alakították át.", "A birtok több mint 2000 hektáron terül el.", "Egykor John Tharp, Jamaica egyik leggazdagabb ültetvényesének tulajdonában volt."],
       ro: ["Plantația a inclus odată un întreg sat pentru muncitori.", "Transformat într-un hotel de tip boutique și parc de aventuri.", "Proprietatea se întinde pe 2000 de acri.", "A aparținut odată lui John Tharp, unul dintre cei mai bogați plantatori din Jamaica."],
       en: ["The plantation once included an entire village for workers.", "Converted into a boutique hotel and adventure park.", "The estate covers 2,000 acres.", "Once owned by John Tharp, one of Jamaica's wealthiest planters."],
-    }, image: "/poi-images/good-hope-great-house-history-v2.webp"},
+    }, image: "/poi-images/good-hope-great-house-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Good Hope Great House in Trelawny ist eines der elegantesten und am besten erhaltenen georgianischen Herrenhäuser Jamaikas. Es wurde 1755 erbaut und war das Herzstück der riesigen Ländereien von John Tharp, der einst einer der reichsten Männer der Insel war. Das Anwesen umfasste eine eigene Kirche, ein Krankenhaus und zahlreiche Industriegebäude für die Zuckerproduktion. Die Architektur des Great House besticht durch ihre Symmetrie, die feinen Holzarbeiten und die großzügigen Veranden, die einen Panoramablick auf das Tal des Martha Brae River bieten. Heute ist Good Hope ein erstklassiges Ziel für Kulturtourismus und bietet Aktivitäten wie Kutschfahrten, Plantagenführungen und Abenteuersportarten an. Das Haus ist ein lebendiges Museum, das die Opulenz des 18. Jahrhunderts zeigt, während die erhaltenen Sklavenquartiere und Fabrikruinen an die dunkle Seite dieses Wohlstands erinnern."
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1755 von Colonel Thomas Williams.", "Ehemaliger Sitz von John Tharp, dem größten Sklavenhalter.", "Herausragendes Beispiel für jamaikanisch-georgianische Architektur.", "Umfasst ein 2000 Hektar großes historisches Anwesen.", "Beherbergt das Grab von John Tharp auf dem Gelände.", "Wichtiges Zentrum für Reitsport und Ökotourismus heute.", "Blick auf das Cockpit Country und das Martha Brae Tal.", "Restaurierte Fabrikgebäude dienen heute als Veranstaltungsorte."]
+    }
+  },
   {
     id: "fort-haldane-history-v2",
     type: "historical",
@@ -225,7 +283,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["George Haldane tábornokról, Jamaica akkori kormányzójáról nevezték el.", "Két ágyú ma is látható a területen.", "Panorámás kilátást nyújt a Port Maria-öbölre.", "A közelben található a 'Firefly', Sir Noël Coward háza."],
       ro: ["Numit după generalul George Haldane, guvernatorul de atunci al Jamaicăi.", "Două tunuri sunt încă vizibile pe teren astăzi.", "Oferă o vedere panoramică a golfului Port Maria.", "În apropiere se află 'Firefly', casa lui Sir Noël Coward."],
       en: ["Named after General George Haldane, then Governor of Jamaica.", "Two cannons are still visible on the site today.", "Offers a panoramic view of Port Maria Bay.", "Nearby is 'Firefly', the home of Sir Noël Coward."],
-    }, image: "/poi-images/fort-haldane-history-v2.webp"},
+    }, image: "/poi-images/fort-haldane-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Haldane in Saint Mary wurde 1759 zum Schutz des Hafens von Port Maria gegen Seeangriffe und interne Aufstände errichtet. Benannt nach dem damaligen Gouverneur George Haldane, spielte die Festung eine zentrale Rolle während der Tacky-Rebellion von 1760, dem größten Sklavenaufstand in der Geschichte Jamaikas vor 1831. Die strategische Lage auf einem Hügel bot einen weiten Blick über die Küste und ermöglichte es den britischen Truppen, Bewegungen auf See und an Land zu überwachen. Heute sind noch mehrere Kanonen aus der Regierungszeit von König Georg II. auf ihren ursprünglichen Positionen erhalten. Die Überreste der Festungsmauern und das Pulvermagazin bieten einen Einblick in die militärische Verteidigungsstrategie der Kolonialmacht. Fort Haldane ist nicht nur ein militärhistorisches Denkmal, sondern auch ein Ort, der an den mutigen Kampf der versklavten Afrikaner für ihre Freiheit erinnert."
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1759 zum Schutz von Port Maria.", "Benannt nach Gouverneur George Haldane.", "Schauplatz strategischer Operationen während der Tacky-Rebellion.", "Original-Kanonen aus dem 18. Jahrhundert noch vor Ort.", "Bietet einen Panoramablick auf die Cabarita Island.", "Verwaltet vom Jamaica National Heritage Trust.", "Wichtiges Denkmal für die Militärgeschichte von St. Mary.", "Ort des Gedenkens an die Kämpfer des Aufstands von 1760."]
+    }
+  },
   {
     id: "edinburgh-castle-ruins-jamaica-history-v2",
     type: "historical",
@@ -249,6 +314,12 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       ro: ["Hutchinson a fost spânzurat în 1773.", "'Castelul' era o casă fortificată cu două etaje.", "Locul este izolat și greu de accesat.", "Considerat unul dintre cele mai bântuite locuri din Jamaica."],
       en: ["Hutchinson was hanged in 1773.", "The 'castle' was a two-story fortified house.", "The site is remote and difficult to access.", "Considered one of the most haunted places in Jamaica."],
     },
+    descriptionAdvanced: {
+      de: "Edinburgh Castle in den Hügeln von Saint Ann ist ein Ort mit einer schaurigen Geschichte. Es wurde von Lewis Hutchinson, bekannt als der 'Mad Master', im 18. Jahrhundert erbaut. Hutchinson war Jamaikas berüchtigtster Serienmörder, der Reisende in sein Haus lockte, sie ermordete und ihre Leichen in eine nahe gelegene Doline (sinkhole) warf. Das Gebäude selbst war ein zweistöckiges Steingebäude mit zwei diagonal gegenüberliegenden Türmen, was ihm das Aussehen eines Schlosses verlieh. Hutchinson wurde schließlich gefasst und 1773 in Spanish Town gehängt. Heute stehen nur noch die Ruinen der Mauern, die ein düsteres Denkmal für diese dunkle Episode der jamaikanischen Geschichte bilden. Die Stätte ist von Legenden und Geistergeschichten umwoben und zieht Besucher an, die sich für die makabren Aspekte der Kolonialzeit interessieren. Trotz seiner Geschichte ist das Areal landschaftlich reizvoll und bietet weite Ausblicke über die Weideflächen von Saint Ann."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert von Lewis Hutchinson.", "Schauplatz zahlreicher Morde durch den 'Mad Master'.", "Hutchinson war Jamaikas erster bekannter Serienmörder.", "Die Ruinen zeigen die charakteristische Architektur mit zwei Türmen.", "Die Leichen wurden im 'Hutchinson's Hole' entsorgt.", "Hutchinson wurde 1773 öffentlich hingerichtet.", "Nationaldenkmal aufgrund seiner einzigartigen historischen Bedeutung.", "Gelegen in der ländlichen Gegend von Pedro District."]
+    }
   },
   {
     id: "rockfort-mineral-bath-history-v2",
@@ -272,7 +343,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A vizet gyógyhatásúnak tartják.", "A Fort Rockot a 17. században építették Kingston védelmére.", "A komplexum privát fürdőket és egy úszómedencét foglal magában.", "A helyiek körében népszerű pihenőhely."],
       ro: ["Apa este considerată terapeutică.", "Fortul Rock a fost construit în secolul al XVII-lea pentru a apăra Kingstonul.", "Complexul include băi private și o piscină.", "Un loc popular pentru relaxare printre localnici."],
       en: ["The water is considered therapeutic.", "Fort Rock was built in the 17th century to defend Kingston.", "The complex includes private baths and a swimming pool.", "A popular spot for locals to relax."],
-    }, image: "/poi-images/rockfort-mineral-bath-history-v2.webp"},
+    }, image: "/poi-images/rockfort-mineral-bath-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mineralbad von Rockfort am östlichen Stadtrand von Kingston ist eine historische Heilstätte, deren Quellen nach dem verheerenden Erdbeben von 1907 zu sprudeln begannen. Das Bad befindet sich im Schatten des historischen Rockfort, einer Festungsanlage aus dem 17. Jahrhundert, die einst die östliche Einfahrt nach Kingston schützte. Das Wasser ist leicht radioaktiv und reich an Mineralien, was ihm heilende Eigenschaften bei Rheuma und anderen Gebrechen zuschreibt. Die Anlage wurde über die Jahrzehnte modernisiert und bietet heute private Wannenbäder und ein großes Gemeinschaftsbecken. Rockfort Mineral Bath ist ein beliebter Ort für Einheimische, die Entspannung und Gesundheit suchen, und verbindet natürliche Wellness mit historischem Ambiente. Die Nähe zum Hafen und zu den Kalksteinbrüchen verleiht dem Ort einen industriellen Charme, während die gepflegten Gärten eine Oase der Ruhe bieten."
+    },
+    factsAdvanced: {
+      de: ["Mineralquellen entstanden durch das Erdbeben von 1907.", "Wasser enthält Mineralien wie Kalzium und Magnesium.", "Leicht radioaktives Wasser gilt als therapeutisch wertvoll.", "Gelegen am Fuße der historischen Rockfort-Festung.", "Beliebtes Ausflugsziel für die Bewohner von Kingston.", "Verwaltet von der Caribbean Cement Company.", "Bietet sowohl öffentliche als auch private Bademöglichkeiten.", "Eines von mehreren bedeutenden Mineralbädern auf Jamaika."]
+    }
+  },
   {
     id: "old-naval-hospital-port-royal-history-v2",
     type: "historical",
@@ -295,7 +373,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Kb. 1819-ben épült.", "A Királyi Haditengerészet tengerészeinek ellátására szolgált.", "A szerkezet több hurrikánnak és földrengésnek is ellenállt.", "Ma nemzeti műemlék és kutatóközpont."],
       ro: ["Construit în jurul anului 1819.", "A servit la îngrijirea marinarilor din Marina Regală.", "Structura a rezistat mai multor uragane și cutremure.", "Astăzi este un monument național și un centru de cercetare."],
       en: ["Built around 1819.", "Served to care for Royal Navy sailors.", "The structure has withstood several hurricanes and earthquakes.", "Today it is a national monument and research center."],
-    }, image: "/poi-images/old-naval-hospital-port-royal-history-v2.webp"},
+    }, image: "/poi-images/old-naval-hospital-port-royal-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Old Naval Hospital in Port Royal ist ein architektonisches Juwel und eines der ältesten erhaltenen Fertighäuser der Welt. Es wurde 1817-1819 erbaut, wobei gusseiserne Bauteile aus England verschifft wurden, um eine feuerfeste und erdbebensichere Struktur zu schaffen. Das Gebäude diente der Versorgung von Seeleuten der britischen Royal Navy, die an Gelbfieber oder während der Seeschlachten verletzt worden waren. Die markante Eisenkonstruktion und die umlaufenden Veranden sind typisch für die koloniale Militärarchitektur des 19. Jahrhunderts. Nach dem Ende seiner Nutzung als Krankenhaus diente es verschiedenen Zwecken, unter anderem als Polizeistation. Heute beherbergt es archäologische Sammlungen und ist ein zentraler Bestandteil des Port Royal Kulturerbe-Projekts. Die Restaurierung des Gebäudes zeigt die innovative Ingenieurskunst der frühen industriellen Revolution und ist ein Muss für Besucher der historischen Halbinsel."
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1817-1819 für die Royal Navy.", "Frühes Beispiel für industrielle Fertigbauweise mit Gusseisen.", "Konzipiert als feuerfestes und Hurrikan-sicheres Gebäude.", "Wichtigstes Krankenhaus für die britische Flotte in der Karibik.", "Beherbergt heute das Port Royal Archaeological Museum.", "Einzigartige Architektur mit Skelettbauweise aus Eisen.", "Zeigt Funde aus der versunkenen Stadt von 1692.", "Nationaldenkmal unter dem Schutz des Jamaica National Heritage Trust."]
+    }
+  },
   {
     id: "rodney-memorial-spanish-town-history-v2",
     type: "historical",
@@ -318,7 +403,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A szobrot a híres szobrász, John Bacon készítette.", "Az emlékmű melletti ágyúk a csatából származnak.", "Az emlékmű ellentmondásos volt, mivel Rodney a rabszolgaság szószólója volt.", "A tér történelmi együttesének része."],
       ro: ["Statuia a fost creată de faimosul sculptor John Bacon.", "Tunurile de lângă memorial provin din bătălie.", "Memorialul a fost controversat, deoarece Rodney era un susținător al sclaviei.", "Parte a ansamblului istoric al pieței."],
       en: ["The statue was created by the famous sculptor John Bacon.", "The cannons beside the memorial are from the battle.", "The memorial was controversial as Rodney was a proponent of slavery.", "Part of the square's historic ensemble."],
-    }, image: "/poi-images/rodney-memorial-spanish-town-history-v2.webp"},
+    }, image: "/poi-images/rodney-memorial-spanish-town-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rodney-Denkmal in Spanish Town ist ein prächtiges Beispiel neoklassizistischer Bildhauerkunst und ehrt Admiral Lord Rodney für seinen Sieg in der Schlacht von Les Saintes im Jahr 1782. Dieser Sieg sicherte die britische Herrschaft über Jamaika gegen die französischen und spanischen Flotten. Die Statue, geschaffen vom berühmten englischen Bildhauer John Bacon, zeigt Rodney in einer römischen Toga und steht unter einer eleganten Kuppel auf dem Emancipation Square. Flankiert wird das Denkmal von zwei prächtigen Bronzekanonen, die von Rodney während der Schlacht auf dem französischen Flaggschiff 'Ville de Paris' erbeutet wurden. Die gesamte Anlage, zu der auch das ehemalige Parlamentsgebäude und das Gerichtsgebäude gehören, bildet das beeindruckendste Ensemble kolonialer Architektur in der Karibik. Das Denkmal ist nicht nur ein militärisches Ehrenmal, sondern auch ein Symbol für die koloniale Identität Jamaikas im 18. Jahrhundert."
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1792 zu Ehren von Admiral George Rodney.", "Geschaffen vom Bildhauer John Bacon.", "Zentrale Statue auf dem Emancipation Square, Spanish Town.", "Kanonen stammen vom besiegten französischen Schiff 'Ville de Paris'.", "Architektur im Stil eines römischen Tempels.", "Erinnert an die Schlacht von Les Saintes (1782).", "Wichtigster neoklassizistischer Bau in Jamaika.", "Teil des Ensembles des alten Verwaltungszentrums der Insel."]
+    }
+  },
   {
     id: "hibbert-house-kingston-history-v2",
     type: "historical",
@@ -341,7 +433,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Headquarters House néven is ismert.", "A jamaicai György-korabeli építészet kiemelkedő példája.", "Thomas Hibbert, az építtető, vezető rabszolga-kereskedő volt.", "A Duke Streeten található, Kingston egyik történelmi utcájában."],
       ro: ["Cunoscută și sub numele de Casa Cartierului General.", "Un exemplu remarcabil de arhitectură georgiană jamaicană.", "Thomas Hibbert, constructorul, a fost un important comerciant de sclavi.", "Situată pe strada Duke, o stradă istorică din Kingston."],
       en: ["Also known as Headquarters House.", "An outstanding example of Jamaican Georgian architecture.", "Thomas Hibbert, the builder, was a leading slave trader.", "Located on Duke Street, a historic street in Kingston."],
-    }, image: "/poi-images/hibbert-house-kingston-history-v2.webp"},
+    }, image: "/poi-images/hibbert-house-kingston-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Hibbert House, auch bekannt als Headquarters House, ist ein bedeutendes georgianisches Gebäude im Zentrum von Kingston. Es wurde 1755 von Thomas Hibbert, einem wohlhabenden englischen Kaufmann und Sklavenhändler, erbaut. Das Haus war das Ergebnis einer Wette zwischen Hibbert und drei anderen Kaufleuten, wer das prächtigste Wohnhaus in Kingston errichten könne. Hibbert House überzeugte durch seine Eleganz und Solidität und wurde später zum Sitz des jamaikanischen Parlaments und zum Hauptquartier der britischen Armee auf der Insel. Heute beherbergt es den Sitz des Jamaica National Heritage Trust. Die Architektur spiegelt den Reichtum der Handelsklasse des 18. Jahrhunderts wider und ist ein hervorragendes Beispiel für den jamaikanisch-georgianischen Stil mit seinen Backsteinmauern und feinen Holzarbeiten. Das Haus hat zahlreiche Erdbeben und Brände überstanden und bleibt ein stolzes Denkmal der Geschichte Kingstons."
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1755 von Thomas Hibbert.", "Gewinner einer Wette um das schönste Haus in Kingston.", "Diente von 1872 bis 1960 als Sitz des Parlaments.", "Heute Hauptsitz des Jamaica National Heritage Trust.", "Wichtiges Beispiel für urbane georgianische Architektur.", "Befindet sich in der Duke Street, Kingston.", "Ort bedeutender politischer Debatten vor der Unabhängigkeit.", "Besitzt einen prächtigen Ballsaal und historische Büros."]
+    }
+  },
   {
     id: "old-iron-bridge-spanish-town-history-v2",
     type: "historical",
@@ -364,7 +463,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A korai ipari építészet remekműve.", "Ma már csak gyalogosok számára használható.", "A World Monuments Fund figyelőlistáján szerepel.", "A 19. század eleji mérnöki tudomány szimbóluma."],
       ro: ["O capodoperă a arhitecturii industriale timpurii.", "Astăzi este deschis doar pentru pietoni.", "Se află pe lista de supraveghere a World Monuments Fund.", "Un simbol al ingineriei de la începutul secolului al XIX-lea."],
       en: ["A masterpiece of early industrial architecture.", "Today it is only open to pedestrians.", "It is on the World Monuments Fund watch list.", "A symbol of early 19th-century engineering."],
-    }, image: "/poi-images/old-iron-bridge-spanish-town-history-v2.webp"},
+    }, image: "/poi-images/old-iron-bridge-spanish-town-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die alte Eisenbrücke in Spanish Town, die den Rio Cobre überspannt, ist ein technisches Meisterwerk der industriellen Revolution und die älteste Gusseisenbrücke in der Karibik. Sie wurde 1801 in England gegossen und in Einzelteilen nach Jamaika verschifft, um dort montiert zu werden. Die Brücke ersetzte eine Reihe von Holzbrücken, die immer wieder von Fluten zerstört worden waren. Mit ihrer Spannweite von 25 Metern und der filigranen Bogenkonstruktion war sie zur Zeit ihrer Errichtung eine Weltsensation. Obwohl sie heute für den motorisierten Verkehr gesperrt ist, bleibt sie ein beeindruckendes Denkmal der Ingenieurskunst und ein Symbol für die Modernisierung der Infrastruktur im frühen 19. Jahrhundert. Die Brücke steht auf massiven Steinpfeilern und hat über 200 Jahre lang Hurrikane und Erdbeben überdauert. Sie ist als Nationaldenkmal geschützt und wird derzeit restauriert, um ihre historische Pracht für zukünftige Generationen zu bewahren."
+    },
+    factsAdvanced: {
+      de: ["Älteste Gusseisenbrücke in der Karibik.", "Erbaut 1801 mit Bauteilen aus England.", "Überspannt den Rio Cobre in Spanish Town.", "Konstruiert aus über 80 Tonnen Gusseisen.", "Ein Nationaldenkmal seit 1993.", "Wichtiges Beispiel für frühe industrielle Infrastruktur.", "Überstand das verheerende Erdbeben von 1907 unbeschadet.", "Wurde im Jahr 2020 umfassend für Fußgänger restauriert."]
+    }
+  },
   {
     id: "fort-augusta-history-v2",
     type: "historical",
@@ -387,7 +493,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Az építkezés az 1740-es években kezdődött.", "Később börtönként használták.", "Több mint 80 ágyúja volt.", "III. György király anyjáról nevezték el."],
       ro: ["Construcția a început în anii 1740.", "A fost folosit ulterior ca închisoare.", "Avea peste 80 de tunuri.", "Numit după mama regelui George al III-lea."],
       en: ["Construction began in the 1740s.", "Was later used as a prison.", "Had over 80 cannons.", "Named after the mother of King George III."],
-    }, image: "/poi-images/fort-augusta-history-v2.webp"},
+    }, image: "/poi-images/fort-augusta-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Augusta in Saint Catherine ist eine massive Küstenfestung, die im 18. Jahrhundert zur Verteidigung der westlichen Flanke des Hafens von Kingston erbaut wurde. Benannt nach Prinzessin Augusta, war es einst eine der stärksten Festungsanlagen der Insel mit Platz für hunderte Kanonen und eine große Garnison. Ein trauriger Höhepunkt seiner Geschichte war das Jahr 1763, als ein Blitzschlag in das Pulvermagazin einschlug und eine gewaltige Explosion verursachte, die weite Teile der Festung zerstörte und viele Menschen tötete. Später wurde das Fort wieder aufgebaut und diente im 20. Jahrhundert als Gefängnis, insbesondere als einzige Frauenhaftanstalt Jamaikas. Die Lage auf einer Landzunge bietet einen weiten Blick über den Hafen und die Palisadoes. Die massiven Kalksteinmauern und Bastionen sind auch heute noch beeindruckend und zeugen von der militärischen Bedeutung, die Kingston für das britische Empire hatte."
+    },
+    factsAdvanced: {
+      de: ["Erbaut ab 1740 zum Schutz des Hafens von Kingston.", "Gewaltige Explosion des Pulvermagazins im Jahr 1763.", "Benannt nach Prinzessin Augusta von Sachsen-Gotha.", "Diente lange Zeit als Frauengefängnis von Jamaika.", "Befindet sich an der westlichen Einfahrt zum Kingston Harbour.", "Umfasst massive Kasematten und Kanonenstellungen.", "Wichtiges Beispiel für britische koloniale Festungsbaukunst.", "Teil der strategischen Verteidigungslinie von Port Royal."]
+    }
+  },
   {
     id: "falmouth-historic-courthouse-history-v2",
     type: "historical",
@@ -410,7 +523,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Az 1926-os tűzvész elpusztította az eredetit, de hűen újjáépítették.", "A város egykori gazdagságáról tanúskodik.", "Ma is működő bírósági épület.", "A jamaicai György-korabeli középítészet kiváló példája."],
       ro: ["Un incendiu din 1926 a distrus originalul, dar a fost reconstruit cu fidelitate.", "Mărturie a bogăției de odinioară a orașului.", "Este încă o clădire de tribunal funcțională.", "Un exemplu superb de arhitectură publică georgiană jamaicană."],
       en: ["A fire in 1926 destroyed the original, but it was faithfully rebuilt.", "Testament to the former wealth of the town.", "It is still a functioning courthouse.", "A superb example of Jamaican Georgian public architecture."],
-    }, image: "/poi-images/falmouth-historic-courthouse-history-v2.webp"},
+    }, image: "/poi-images/falmouth-historic-courthouse-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das historische Gerichtsgebäude von Falmouth ist das architektonische Prunkstück dieser gut erhaltenen georgianischen Stadt. Erbaut im Jahr 1815, spiegelt es den Reichtum wider, den Falmouth während des Zuckerbooms im frühen 19. Jahrhundert genoss. Das Gebäude besticht durch seine elegante Fassade mit Säulenportikus und eine klassische Symmetrie, die typisch für den jamaikanisch-georgianischen Stil ist. Im Jahr 1926 wurde es durch einen Brand fast vollständig zerstört, aber originalgetreu wieder aufgebaut. Das Gerichtsgebäude diente nicht nur der Justiz, sondern war auch das soziale und politische Zentrum des Parish Trelawny. Es beherbergte Bälle, öffentliche Versammlungen und die Stadtverwaltung. Heute ist es ein wichtiger Anziehungspunkt für Touristen, die das historische Erbe Falmouths erkunden. Die sorgfältige Restaurierung des Gebäudes und des umliegenden Platzes hat dazu beigetragen, den Charme einer der bedeutendsten Hafenstädte der Kolonialzeit zu bewahren."
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1815 im Herzen von Falmouth, Trelawny.", "Herausragendes Beispiel für georgianische Architektur.", "Nach einem Brand im Jahr 1926 originalgetreu rekonstruiert.", "Zentrum des öffentlichen Lebens im 19. Jahrhundert.", "Verfügt über einen markanten Portikus und Uhrturm.", "Wichtiges Denkmal im historischen Distrikt von Falmouth.", "Dient heute noch teilweise administrativen Zwecken.", "Symbol für den einstigen Wohlstand durch die Zuckerindustrie."]
+    }
+  },
   {
     id: "liberty-hall-legacy-of-marcus-garvey-history-v2",
     type: "historical",
@@ -433,7 +553,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Garvey befolyásos pán-afrikai vezető volt.", "A csarnok politikai és kulturális tevékenységek központja volt.", "A múzeum oktatási programokat kínál.", "Garvey tanításai világszerte befolyásoltak mozgalmakat."],
       ro: ["Garvey a fost un lider panafrican influent.", "Sala a fost un centru pentru activități politice și culturale.", "Muzeul oferă programe educaționale.", "Învățăturile lui Garvey au influențat mișcări din întreaga lume."],
       en: ["Garvey was an influential Pan-African leader.", "The hall was a center for political and cultural activities.", "The museum offers educational programs.", "Garvey's teachings influenced movements worldwide."],
-    }, image: "/poi-images/liberty-hall-legacy-of-marcus-garvey-history-v2.webp"},
+    }, image: "/poi-images/liberty-hall-legacy-of-marcus-garvey-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Liberty Hall in der King Street, Kingston, war das pulsierende Zentrum der UNIA-ACL (Universal Negro Improvement Association), der von Marcus Garvey gegründeten Bewegung. In den 1920er Jahren diente das Gebäude als Treffpunkt für Zehntausende, die Garveys Botschaft von schwarzem Stolz, wirtschaftlicher Selbständigkeit und der Rückkehr nach Afrika hörten. Liberty Hall war mehr als nur ein Versammlungsort; es beherbergte eine Schule, eine Kantine und bot kulturelle Programme an, die das Selbstbewusstsein der afrikanischen Diaspora stärkten. Nach Jahrzehnten des Verfalls wurde das Gebäude restauriert und beherbergt heute das Marcus Mosiah Garvey Multimedia Museum. Es ist ein Ort der Bildung und Inspiration, der das Erbe von Jamaikas erstem Nationalhelden lebendig hält. Die Wandgemälde und Ausstellungen würdigen Garveys globalen Einfluss auf Bürgerrechtsbewegungen und die panafrikanische Philosophie."
+    },
+    factsAdvanced: {
+      de: ["Ehemaliges Hauptquartier der UNIA in Kingston.", "Zentrum der Bewegung von Marcus Garvey in den 1920ern.", "Beherbergt heute das weltweit erste Garvey-Multimedia-Museum.", "Ein Ort des Lernens und der Forschung über afrikanische Geschichte.", "Nationaldenkmal von großer politischer und sozialer Bedeutung.", "Symbol für schwarzen Nationalismus und Empowerment.", "Befindet sich im historischen Zentrum von Kingston.", "Restaurierung wurde 2003 abgeschlossen."]
+    }
+  },
   {
     id: "blenheim-birthplace-alexander-bustamante-history-v2",
     type: "historical",
@@ -456,7 +583,14 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Bustamante vezető munkásvezér volt.", "A Jamaica Labour Party (JLP) alapítója.", "1962-ben vezette Jamaicát a függetlenséghez.", "A helyszín nemzeti emlékmű."],
       ro: ["Bustamante a fost un lider muncitoresc de frunte.", "Fondator al Partidului Laburist din Jamaica (JLP).", "A condus Jamaica la independență în 1962.", "Situl este un monument național."],
       en: ["Bustamante was a leading labour leader.", "Founder of the Jamaica Labour Party (JLP).", "Led Jamaica to independence in 1962.", "The site is a national monument."],
-    }, image: "/poi-images/blenheim-birthplace-alexander-bustamante-history-v2.webp"},
+    }, image: "/poi-images/blenheim-birthplace-alexander-bustamante-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Blenheim im Parish Hanover ist der Geburtsort von Sir Alexander Bustamante, einem der einflussreichsten politischen Führer Jamaikas und Nationalhelden. Er wurde hier 1884 als William Alexander Clarke geboren. Das bescheidene Holzhaus in den ländlichen Hügeln von Hanover ist heute ein Nationaldenkmal und Museum, das Bustamantes Leben und seinen Kampf für die Rechte der Arbeiter und die Unabhängigkeit Jamaikas dokumentiert. Bustamante war der Gründer der Jamaica Labour Party und der erste Premierminister des unabhängigen Staates. Die Gedenkstätte in Blenheim bietet Besuchern einen Einblick in die einfachen Anfänge dieses Mannes, der später die Geschicke der Nation lenken sollte. Die ruhige, ländliche Atmosphäre des Ortes steht im Kontrast zu dem bewegten politischen Leben, das Bustamante führte. Es ist ein Ort des nationalen Stolzes und ein Zeugnis für die Kraft des Einzelnen, den Lauf der Geschichte zu verändern."
+    },
+    factsAdvanced: {
+      de: ["Geburtsort von Sir Alexander Bustamante (1884).", "Nationaldenkmal seit der Ernennung Bustamantes zum Helden.", "Restauriertes Holzhaus im typischen ländlichen Stil des 19. Jahrhunderts.", "Beherbergt ein Museum über die Gewerkschafts- und Politikgeschichte.", "Befindet sich in den Hügeln von Hanover, nahe Cascade.", "Erinnert an die Gründung der modernen jamaikanischen Politik.", "Ein wichtiger Ort für Schulbesuche und Patriotismus.", "Bustamante war der erste Premierminister des unabhängigen Jamaika."]
+    }
+  },
   {
     id: "lover-s-leap-history-v2",
     type: "historical",

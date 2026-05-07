@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tahoua-cities-v2",
+      "descriptionAdvanced": "Tahoua ist eine bedeutende Provinzhauptstadt im Herzen Nigers und dient als essenzielles Bindeglied zwischen den trockenen Gebieten der Sahara im Norden und den agrarisch geprägten, fruchtbaren Zonen im Süden. Die Stadt ist ein dynamischer Schmelztiegel der Tuareg- und Fulani-Kulturen, die hier ihre traditionellen Waren und Viehbestände austauschen. Besonders bekannt ist Tahoua für seine lebhaften Wochenmärkte, auf denen lokale Handwerkskunst, darunter aufwendig bearbeitetes Leder und traditioneller Schmuck, gehandelt wird. In den letzten Jahrzehnten hat sich die Infrastruktur der Stadt erheblich verbessert, was Tahoua zu einem wichtigen Verkehrsknotenpunkt für Reisende und Händler in der Sahelzone macht.",
+      "factsAdvanced": [
+        "Verbindet den Norden und Süden Nigers.",
+        "Wichtiger Handelsort für Tuareg und Fulani.",
+        "Bekannt für Lederwaren und Handwerk.",
+        "Bedeutender Verkehrsknotenpunkt in der Sahelzone.",
+        "Sitz der regionalen Verwaltung.",
+        "Ausgangspunkt für Reisen in die Sahara."
+      ]
+    },
+    {
+      "id": "agadez-cities-v2",
+      "descriptionAdvanced": "Agadez, das historische Tor zur weiten Sahara, ist eine der faszinierendsten Städte Westafrikas und war einst ein florierendes Zentrum des Transsaharahandels. Die Architektur der Stadt, dominiert von ockerfarbenen Lehmbauten, zeugt von einer reichen Vergangenheit, die bis ins 11. Jahrhundert zurückreicht. Das markanteste Wahrzeichen ist die beeindruckende Große Moschee mit ihrem pyramidenförmigen Minarett, das komplett aus getrocknetem Schlamm errichtet wurde. Neben seiner architektonischen Bedeutung ist Agadez das kulturelle Herz der Tuareg, die das alljährliche Cure Salée-Festival feiern. Seit 2013 gehört das historische Zentrum von Agadez zum UNESCO-Weltkulturerbe, was die globale Bedeutung dieser Wüstenmetropole unterstreicht.",
+      "factsAdvanced": [
+        "Historisches Tor zur Sahara.",
+        "Ehemaliges Zentrum des Transsaharahandels.",
+        "Große Moschee aus dem 16. Jahrhundert.",
+        "Seit 2013 UNESCO-Weltkulturerbe.",
+        "Kulturelles Zentrum der Tuareg.",
+        "Bekannt für die typische Lehmarchitektur."
+      ]
+    },
+    {
+      "id": "arlit-cities-v2",
+      "descriptionAdvanced": "Arlit liegt tief im rauen Norden Nigers und wurde erst in den späten 1960er Jahren nach der Entdeckung massiver Uranvorkommen in der Region gegründet. Die Stadt entwickelte sich rasant von einer kargen Wüstensiedlung zu einem industriellen Kraftzentrum, das stark von internationalen Bergbauunternehmen geprägt ist. Die Landschaft um Arlit ist von gewaltigen Tagebaugruben und industrieller Infrastruktur gezeichnet, die einen scharfen Kontrast zur unberührten Sahara bilden. Trotz der abgelegenen Lage zieht die Minenindustrie Tausende von Arbeitern aus ganz Westafrika an. Die Stadt steht jedoch vor ökologischen Herausforderungen, da der intensive Bergbau die ohnehin knappen Wasserressourcen der Wüste stark beansprucht.",
+      "factsAdvanced": [
+        "Gegründet in den späten 1960er Jahren.",
+        "Zentrum des nigrischen Uranbergbaus.",
+        "Zieht Arbeiter aus ganz Westafrika an.",
+        "Liegt im rauen Norden der Sahara.",
+        "Landschaft geprägt von Tagebaugruben.",
+        "Steht vor wasserökologischen Herausforderungen."
+      ]
+    },
+    {
+      "id": "dosso-cities-v2",
+      "descriptionAdvanced": "Dosso ist ein kulturell reiches Zentrum im Südwesten Nigers, das tief in den vorkolonialen Traditionen des Zarma-Volkes verwurzelt ist. Als historischer Sitz des Djermakoye, des traditionellen Herrschers der Zarma, bewahrt die Stadt eine starke Bindung zu ihrer royalen Vergangenheit. Der farbenfrohe Palast des Djermakoye ist ein architektonisches Highlight und spiegelt die Bedeutung der traditionellen Autoritäten im modernen Niger wider. Wirtschaftlich profitiert Dosso von seiner günstigen Lage an den Hauptverkehrsrouten, die Niamey mit Benin und Nigeria verbinden. Die umliegenden Gebiete sind landwirtschaftlich produktiv und tragen wesentlich zur Nahrungsmittelversorgung der Region bei.",
+      "factsAdvanced": [
+        "Historischer Sitz des Djermakoye.",
+        "Zentrum der Zarma-Kultur.",
+        "Wichtiger Verkehrsknotenpunkt im Südwesten.",
+        "Verbindet Niamey mit Benin und Nigeria.",
+        "Bekannt für den farbenfrohen Herrscherpalast.",
+        "Umgeben von produktiven Agrarflächen."
+      ]
+    },
+    {
+      "id": "diffa-cities-v2",
+      "descriptionAdvanced": "Diffa ist die östlichste Metropole Nigers und liegt in einer strategisch kritischen Position nahe der Grenze zu Nigeria und den schwindenden Ufern des Tschadsees. Die Stadt ist stark vom grenzüberschreitenden Handel geprägt und dient als wirtschaftlicher Motor für die gesamte Region. In den letzten Jahren hat Diffa aufgrund der geopolitischen Lage eine erhebliche demografische Veränderung durchgemacht, da viele Menschen aus den benachbarten Krisengebieten hier Zuflucht gesucht haben. Die lokale Wirtschaft stützt sich traditionell auf den Anbau von Paprika, Fischerei und Viehzucht, wobei die rote Paprika von Diffa landesweit für ihre außergewöhnliche Qualität geschätzt wird.",
+      "factsAdvanced": [
+        "Östlichste Metropole in Niger.",
+        "Nahe der Grenze zu Nigeria und dem Tschadsee.",
+        "Wichtiger Knotenpunkt für Grenzhandel.",
+        "Berühmt für den Anbau hochwertiger roter Paprika.",
+        "Traditionell geprägt von Fischerei und Viehzucht.",
+        "Zufluchtsort für Menschen aus Nachbarregionen."
+      ]
+    },
+    {
+      "id": "birni-nkonni-cities-v2",
+      "descriptionAdvanced": "Birni-Nkonni ist eine lebendige und stark frequentierte Grenzstadt im Süden Nigers, die massiv vom florierenden Austausch landwirtschaftlicher und kommerzieller Produkte profitiert. Dank der unmittelbaren Nähe zu Nigeria hat sich die Stadt zu einem pulsierenden Handelszentrum entwickelt, in dem täglich riesige Mengen an Waren den Besitzer wechseln. Die umliegenden Regionen sind bekannt für ihren intensiven Zwiebel- und Erdnussanbau, der die wirtschaftliche Basis der lokalen Bevölkerung bildet. Birni-Nkonni zeichnet sich durch seine dynamischen Freiluftmärkte aus, die Händler aus der gesamten Sahelzone anziehen und ein eindrucksvolles Bild des westafrikanischen Wirtschaftsaustauschs bieten.",
+      "factsAdvanced": [
+        "Pulsierende Grenzstadt im Süden Nigers.",
+        "Unmittelbare Nähe zur nigerianischen Grenze.",
+        "Zentrum für intensiven grenzüberschreitenden Handel.",
+        "Umgeben von großen Zwiebel- und Erdnussfeldern.",
+        "Verfügt über riesige, dynamische Freiluftmärkte.",
+        "Wichtiger wirtschaftlicher Motor der Region."
+      ]
+    },
+    {
+      "id": "tessaoua-cities-v2",
+      "descriptionAdvanced": "Tessaoua war einst ein mächtiges lokales Fürstentum, das während des 19. Jahrhunderts eine Schlüsselrolle in der regionalen Politik spielte, bevor es unter französische Kolonialherrschaft fiel. Heute ist der Ort ein friedliches und beschauliches Zentrum, das vorwiegend von Getreidebauern und Viehzüchtern bewohnt wird. Die historische Bedeutung der Stadt ist in den alten Vierteln noch spürbar, wo traditionelle Lehmarchitektur das Stadtbild prägt. Tessaoua dient als wichtiger lokaler Markt für Hirse und Sorghum, die in den trockenen, aber fruchtbaren Böden der Umgebung angebaut werden. Die Stadt verkörpert den ruhigen, agrarisch geprägten Lebensrhythmus im Herzen Nigers.",
+      "factsAdvanced": [
+        "Ehemaliges mächtiges lokales Fürstentum im 19. Jahrhundert.",
+        "Heute ein ruhiges Zentrum für Getreidebauern.",
+        "Traditionelle Lehmarchitektur im Stadtbild.",
+        "Wichtiger lokaler Markt für Hirse und Sorghum.",
+        "Geprägt von einem agrarischen Lebensrhythmus.",
+        "Liegt im historischen Herzen Nigers."
+      ]
+    },
+    {
+      "id": "dogondoutchi-cities-v2",
+      "descriptionAdvanced": "Dogondoutchi ist eine malerische Kleinstadt, die durch ihre einzigartige Geografie, bestehend aus trockenen Tälern und von alten Bäumen gesäumten Straßen, charakterisiert ist. Die Stadt ist ein spirituelles Zentrum für die Arewa-Kultur und hält stark an animistischen Traditionen fest, die hier parallel zum Islam praktiziert werden. Die umliegende Landschaft ist geprägt von markanten Hügeln und saisonalen Wasserläufen, die während der Regenzeit erblühen. Landwirtschaftlich konzentriert sich Dogondoutchi auf den Anbau von Hirse und die Aufzucht von Rindern. Kulturell ist die Stadt für ihre jährlichen Erntefeste und traditionellen Ringkämpfe überregional bekannt.",
+      "factsAdvanced": [
+        "Malerische Kleinstadt mit von Bäumen gesäumten Straßen.",
+        "Spirituelles Zentrum der Arewa-Kultur.",
+        "Geprägt von markanten Hügeln und trockenen Tälern.",
+        "Bekannt für traditionelle Ringkämpfe.",
+        "Wichtiger Produzent von Hirse.",
+        "Bewahrt alte animistische Traditionen."
+      ]
+    },
+    {
+      "id": "gaya-cities-v2",
+      "descriptionAdvanced": "Gaya liegt äußerst strategisch direkt am Ufer des Nigers und an der Grenze zu Benin, was die Stadt zu einem der wichtigsten südlichen Knotenpunkte des Landes macht. Der Grenzverkehr prägt das tägliche Leben, da Tausende von Lkws und Händlern täglich die Brücke über den Fluss passieren, um Waren zwischen dem Binnenland Niger und den Seehäfen Westafrikas zu transportieren. Dank der fruchtbaren Böden entlang des Flusses ist Gaya auch ein wichtiges landwirtschaftliches Zentrum, das sich auf den Anbau von Reis und Gemüse spezialisiert hat. Die üppige, grüne Landschaft bildet hier einen starken Kontrast zu den trockeneren Regionen im Norden.",
+      "factsAdvanced": [
+        "Direkt am Fluss Niger und der Grenze zu Benin gelegen.",
+        "Einer der wichtigsten südlichen Verkehrsknotenpunkte.",
+        "Zentraler Durchgangsort für den internationalen Handel.",
+        "Fruchtbare Böden ermöglichen Reisanbau.",
+        "Üppige Landschaft im Kontrast zum Wüsten-Norden.",
+        "Wichtige Brückenverbindung nach Westafrika."
+      ]
+    },
+    {
+      "id": "madaoua-cities-v2",
+      "descriptionAdvanced": "Inmitten einer der wichtigsten Agrarzonen des Landes gelegen, hat sich Madaoua einen hervorragenden Ruf für seinen extensiven Zwiebelanbau erarbeitet. Die "Violette de Galmi", eine weltberühmte Zwiebelsorte, stammt aus dieser Region und wird von Madaoua aus in ganz Westafrika exportiert. Die Stadt ist ein leuchtendes Beispiel für erfolgreiche Bewässerungswirtschaft in einer ansonsten niederschlagsarmen Region. Neben der Landwirtschaft ist die Stadt ein Knotenpunkt für den Viehhandel. Die florierende Agrarwirtschaft zieht während der Erntezeit zahlreiche Wanderarbeiter an und verleiht der Stadt eine spürbare wirtschaftliche Dynamik.",
+      "factsAdvanced": [
+        "Zentrum einer der wichtigsten Agrarzonen Nigers.",
+        "Berühmt für den Anbau der 'Violette de Galmi'-Zwiebel.",
+        "Exportiert Zwiebeln in weite Teile Westafrikas.",
+        "Erfolgreiches Beispiel für Bewässerungswirtschaft.",
+        "Wichtiger Knotenpunkt für den regionalen Viehhandel.",
+        "Erlebt während der Erntezeit hohe wirtschaftliche Dynamik."
+      ]
+    },
+    {
+      "id": "mayahi-cities-v2",
+      "descriptionAdvanced": "Mayahi ist eine wachsende und aufstrebende Gemeinde, in der traditionelle Landwirtschaft und lokale Viehzucht die tragenden Säulen der lokalen Ökonomie bilden. Trotz ihrer relativen Abgeschiedenheit hat die Stadt in den letzten Jahren durch verbesserte Straßennetze eine stärkere Anbindung an die großen Märkte von Maradi und Kano (Nigeria) erfahren. Die Bevölkerung von Mayahi ist bekannt für ihre Resilienz gegenüber den oft harten klimatischen Bedingungen der Sahelzone, indem sie dürreresistente Kulturen wie Hirse und Augenbohnen anbaut. Die lebhaften Wochenmärkte der Stadt sind ein sozialer und wirtschaftlicher Treffpunkt für die umliegenden ländlichen Gemeinschaften.",
+      "factsAdvanced": [
+        "Wachsende Gemeinde mit Fokus auf traditioneller Landwirtschaft.",
+        "Starke wirtschaftliche Anbindung an Maradi und Kano.",
+        "Bekannt für den Anbau von dürreresistenten Kulturen.",
+        "Wöchentliche Märkte als wichtigster sozialer Treffpunkt.",
+        "Tragende Säule ist die lokale Viehzucht.",
+        "Bevölkerung zeigt hohe Resilienz gegen das Sahelklima."
+      ]
+    },
+    {
+      "id": "tera-cities-v2",
+      "descriptionAdvanced": "Téra ist eine beschauliche Ortschaft im äußersten Westen Nigers, nur unweit der Grenze zu Burkina Faso gelegen. Die Stadt spielt eine wesentliche Rolle im regionalen Handel zwischen den beiden Nationen und zeichnet sich durch eine starke Präsenz von Goldgräbern aus, die in den handwerklichen Minen der Umgebung ihr Glück suchen. Die Landschaft um Téra ist geprägt von temporären Seen und flachen Senken, die nach der Regenzeit als wichtige Weidegründe für nomadische Viehhirten dienen. Kulturell ist die Stadt ein Treffpunkt der Songhai- und Fulani-Ethnien, was sich in einer reichen kulinarischen und handwerklichen Vielfalt widerspiegelt.",
+      "factsAdvanced": [
+        "Liegt im äußersten Westen nahe der Grenze zu Burkina Faso.",
+        "Wichtiger Ort für den regionalen grenzüberschreitenden Handel.",
+        "Bekannt für handwerklichen Goldbergbau in der Umgebung.",
+        "Landschaft geprägt von temporären Seen und flachen Senken.",
+        "Kultureller Treffpunkt der Songhai- und Fulani-Ethnien.",
+        "Wichtige Weidegründe für nomadische Hirten."
+      ]
+    },
+    {
+      "id": "mirriah-cities-v2",
+      "descriptionAdvanced": "Mirriah, ein historisch bedeutsames Dorf in der Nähe von Zinder, hat sich im Laufe der Jahrzehnte zu einer modernen Verwaltungseinheit mit starkem Fokus auf intensivierte Landwirtschaft entwickelt. Die Gegend ist berühmt für ihre Handwerkskunst, insbesondere für die Herstellung von hochqualitativen Lederwaren und traditioneller Töpferei. Das historische Erbe der Stadt ist eng mit dem alten Sultanat von Zinder verbunden, dessen Einflüsse in der Architektur der älteren Wohnviertel noch immer sichtbar sind. Heute treibt Mirriah seine Entwicklung durch Agrarprojekte voran, die auf die Kultivierung von Erdnüssen und verschiedenen Gemüsesorten spezialisiert sind.",
+      "factsAdvanced": [
+        "Historisch bedeutsames Zentrum nahe der Stadt Zinder.",
+        "Moderne Verwaltungseinheit mit Fokus auf Landwirtschaft.",
+        "Berühmt für hochqualitative Lederwaren und Töpferei.",
+        "Eng verbunden mit dem historischen Sultanat von Zinder.",
+        "Fördert Agrarprojekte für Erdnüsse und Gemüse.",
+        "Traditionelle Architektur prägt die alten Wohnviertel."
+      ]
+    },
+    {
+      "id": "tibiri-cities-v2",
+      "descriptionAdvanced": "Tibiri ist eine kompakte Ansiedlung im landwirtschaftlichen Herzen Nigers und funktionell eng mit der nahegelegenen Handelsmetropole Maradi verbunden. Historisch war Tibiri der Sitz eines bedeutenden Hausa-Königreichs, dessen Erbe bis heute in den königlichen Zeremonien und der starken lokalen Identität fortlebt. Die Wirtschaft der Stadt stützt sich fast vollständig auf den Ackerbau, wobei Sorghum, Hirse und Erdnüsse die Haupterzeugnisse darstellen. Die engen familiären und wirtschaftlichen Bindungen an Nigeria prägen das tägliche Leben, wodurch Tibiri ein reges und dynamisches Handelsumfeld für lokale landwirtschaftliche Güter bietet.",
+      "factsAdvanced": [
+        "Kompakte Ansiedlung nahe der Metropole Maradi.",
+        "Historischer Sitz eines bedeutenden Hausa-Königreichs.",
+        "Wirtschaft basiert stark auf Sorghum, Hirse und Erdnüssen.",
+        "Eng familiär und wirtschaftlich mit Nigeria verbunden.",
+        "Königliche Zeremonien bewahren das historische Erbe.",
+        "Dynamisches Handelsumfeld für Agrargüter."
+      ]
+    },
+    {
+      "id": "tillaberi-cities-v2",
+      "descriptionAdvanced": "Tillabéri fungiert als das westliche Tor zur Sahelzone und liegt malerisch am Ufer des majestätischen Flusses Niger. Die Stadt bietet einen faszinierenden Kontrast: Während die Umgebung aus trockenen, staubigen Gebieten besteht, gedeihen entlang des Flusses sattgrüne Reisfelder, die durch ausgeklügelte Bewässerungssysteme genährt werden. Diese Reisfelder machen Tillabéri zu einem der wichtigsten Zentren für die nationale Nahrungsmittelproduktion. Die Stadt ist zudem ein beliebter Ausgangspunkt für Flussexpeditionen und die Beobachtung von Nilpferden. Kulturell ist Tillabéri von den Traditionen der Songhai und Zarma geprägt, die eng mit dem Leben am Flussufer verwoben sind.",
+      "factsAdvanced": [
+        "Fungiert als westliches Tor zur Sahelzone.",
+        "Malerische Lage direkt am Ufer des Flusses Niger.",
+        "Bekannt für sattgrüne Reisfelder und Bewässerungssysteme.",
+        "Wichtiges Zentrum der nationalen Nahrungsmittelproduktion.",
+        "Beliebter Ausgangspunkt für die Beobachtung von Nilpferden.",
+        "Kultur stark von Songhai und Zarma geprägt."
+      ]
+    },
+    {
+      "id": "magaria-cities-v2",
+      "descriptionAdvanced": "Magaria, unmittelbar an der Grenze zu Nigeria gelegen, floriert dank eines konstanten und intensiven Austauschs von Handelswaren zwischen den beiden Nachbarstaaten. Die Stadt ist ein unverzichtbarer Umschlagplatz für Erdnüsse, die traditionell das wichtigste Exportgut der Region darstellen. Die Bevölkerungsdichte in und um Magaria ist aufgrund des fruchtbaren Bodens und der guten Handelsmöglichkeiten im Vergleich zum restlichen Niger außergewöhnlich hoch. Die dynamischen Märkte der Stadt sind ein Schmelztiegel der Kulturen, auf denen Händler aus dem ganzen Hausaland ihre Waren, von landwirtschaftlichen Erzeugnissen bis hin zu importierten Textilien, feilbieten.",
+      "factsAdvanced": [
+        "Unmittelbar an der Grenze zu Nigeria gelegen.",
+        "Unverzichtbarer Umschlagplatz für Erdnüsse.",
+        "Hohe Bevölkerungsdichte durch fruchtbare Böden.",
+        "Dynamische Märkte ziehen Händler aus dem Hausaland an.",
+        "Konstanter und intensiver grenzüberschreitender Handel.",
+        "Wichtiger Standort für den Textil- und Agrarhandel."
+      ]
+    },
+    {
+      "id": "dakoro-cities-v2",
+      "descriptionAdvanced": "Dakoro ist eine entlegene Kommune in Zentralniger, die von tief verwurzelten pastoralen Traditionen lebt und als Heimat für gewaltige Herden von Kamelen, Rindern und Ziegen bekannt ist. Die Stadt ist ein essenzieller Sammelpunkt für die nomadischen Tuareg und Fulani, besonders während der Regenzeit, wenn die umliegenden Steppen reichlich Weidefläche bieten. Dakoro dient auch als wichtiger Markt für Vieh, das von hier aus in die südlicheren, dichter besiedelten Regionen transportiert wird. Trotz der Herausforderungen durch wiederkehrende Dürreperioden bewahrt die Bevölkerung ihre Anpassungsfähigkeit und ihr reiches kulturelles Erbe in der Sahelzone.",
+      "factsAdvanced": [
+        "Entlegene Kommune in der zentralen Sahelzone Nigers.",
+        "Heimat für gewaltige Herden von Nutztieren.",
+        "Essenzieller Sammelpunkt für Tuareg- und Fulani-Nomaden.",
+        "Wichtiger Markt für den überregionalen Viehhandel.",
+        "Umgeben von Steppen, die als Weidefläche dienen.",
+        "Bewahrt pastorale Traditionen trotz wiederkehrender Dürren."
+      ]
+    },
+    {
+      "id": "nguigmi-cities-v2",
+      "descriptionAdvanced": "N'Guigmi war einst eine blühende Oasenstadt am Rande des Tschadsees, hat jedoch in den letzten Jahrzehnten durch den dramatischen Rückgang des Wasserspiegels massive ökologische Veränderungen erlebt. Heute grenzen die Ausläufer der Stadt direkt an die vorrückende Sahara. Trotz dieser widrigen Bedingungen ist N'Guigmi ein wichtiger Außenposten im Osten Nigers geblieben, der vom Karawanenhandel und der Gewinnung von Natron aus dem ausgetrockneten Seebett profitiert. Die Stadt dient zudem als wichtiger militärischer und humanitärer Stützpunkt, der die Stabilität in dieser grenzüberschreitend fragilen Region gewährleistet und Flüchtlingen Zuflucht bietet.",
+      "factsAdvanced": [
+        "Ehemalige Oasenstadt am Rande des schwindenden Tschadsees.",
+        "Grenzt heute direkt an die vorrückenden Sanddünen der Sahara.",
+        "Wichtiger Außenposten für Karawanenhandel und Natrongewinnung.",
+        "Dient als bedeutender militärischer und humanitärer Stützpunkt.",
+        "Bietet Zuflucht für Menschen in einer fragilen Region.",
+        "Stark betroffen von dramatischen ökologischen Veränderungen."
+      ]
+    },
+    {
+      "id": "matameye-cities-v2",
+      "descriptionAdvanced": "Matameye liegt eingebettet in die fruchtbaren Ebenen Süd-Nigers und gilt als ein zentraler Pfeiler der lokalen Lebensmittelversorgung. Die Landwirtschaft floriert hier dank relativ verlässlicher Niederschläge und guter Bodenqualität, wobei Hirse und Bohnen im großen Stil angebaut werden. Die Stadt hat in jüngster Zeit in Infrastrukturprojekte investiert, um die Lagerung und den Transport von Agrargütern zu optimieren. Das Stadtbild ist geprägt von geschäftigen Silos und Marktplätzen, auf denen Bauern aus den umliegenden Dörfern ihre Ernten bündeln, um sie an Großhändler aus den städtischen Zentren zu verkaufen.",
+      "factsAdvanced": [
+        "Eingebettet in fruchtbare Ebenen Süd-Nigers.",
+        "Zentraler Pfeiler der lokalen Lebensmittelversorgung.",
+        "Profitiert von verlässlichen Niederschlägen und gutem Boden.",
+        "Großflächiger Anbau von Hirse und Bohnen.",
+        "Fokus auf Optimierung der Agrar-Infrastruktur.",
+        "Geschäftige Marktplätze für Groß- und Einzelhandel."
+      ]
+    },
+    {
+      "id": "illela-cities-v2",
+      "descriptionAdvanced": "Illéla ist ein markantes Handelsdorf in der Region Tahoua, das sich durch seine enorm dynamischen Freiluftmärkte einen überregionalen Namen gemacht hat. Jeden Sonntag strömen Tausende von Menschen in die Stadt, um Vieh, handgewebte Textilien und landwirtschaftliche Produkte zu handeln. Die Architektur der Stadt spiegelt eine Mischung aus modernem Beton und traditionellem Lehm wider, was den Übergang von einer ländlichen Siedlung zu einem modernen Handelszentrum verdeutlicht. Illéla ist auch ein Zentrum des politischen und sozialen Lebens für die umliegenden ländlichen Gemeinden und beherbergt mehrere wichtige Bildungseinrichtungen der Region.",
+      "factsAdvanced": [
+        "Markantes Handelsdorf in der Region Tahoua.",
+        "Bekannt für enorm dynamische wöchentliche Freiluftmärkte.",
+        "Umschlagplatz für Vieh, Textilien und Agrarprodukte.",
+        "Architektur mischt modernen Beton mit traditionellem Lehm.",
+        "Zentrum des politischen und sozialen Lebens der Region.",
+        "Beherbergt wichtige lokale Bildungseinrichtungen."
+      ]
+    },
+    {
+      "id": "tanout-cities-v2",
+      "descriptionAdvanced": "Tanout, gelegen am äußersten Rande der Sahara, ist eine Siedlung, die den trockenen und heißen Winden der Wüste mit einer bemerkenswerten Resilienz trotzt. Die Stadt ist stark auf widerstandsfähige Landwirtschaft und ausgedehnte nomadische Viehzucht angewiesen. Historisch diente Tanout als wichtiger Knotenpunkt für Handelskarawanen, die sich auf den beschwerlichen Weg nach Norden in Richtung Agadez machten. Heute kämpft die Gemeinde intensiv gegen die Wüstenbildung, indem sie großangelegte Aufforstungsprojekte und nachhaltige Wassermanagement-Techniken implementiert, um die fragilen Lebensgrundlagen der lokalen Bevölkerung für zukünftige Generationen zu sichern.",
+      "factsAdvanced": [
+        "Gelegen am äußersten Rande der Sahara-Wüste.",
+        "Trotzt extremen klimatischen Bedingungen mit hoher Resilienz.",
+        "Historischer Knotenpunkt für Karawanen nach Agadez.",
+        "Fokus auf widerstandsfähige Landwirtschaft und Viehzucht.",
+        "Kämpft intensiv gegen die fortschreitende Wüstenbildung.",
+        "Implementiert Aufforstungs- und Wassermanagement-Projekte."
+      ]
+    },
+    {
+      "id": "goure-cities-v2",
+      "descriptionAdvanced": "Umgeben von sanften Sandhügeln und vereinzelten Oasen bietet das abgelegene Zentrum Gouré eine friedliche und nahezu zeitlose Atmosphäre fernab der hektischen Hauptstadt. Als Agrarwirtschaftszentrum konzentriert sich die Region um Gouré auf die Dattelproduktion und den Anbau von Wüstenmelonen, die an das aride Klima perfekt angepasst sind. Die Stadt ist bekannt für ihre einzigartige Landschaft, in der sich Dünen und grüne Mulden (Cuivettes) abwechseln. Kulturell ist Gouré stark durch das Tubu-Volk geprägt, das für seine außergewöhnlichen Überlebensfähigkeiten in den rauesten Wüstenregionen der Erde bekannt ist.",
+      "factsAdvanced": [
+        "Abgelegenes Zentrum umgeben von Sandhügeln und Oasen.",
+        "Spezialisiert auf Dattelproduktion und Wüstenmelonen.",
+        "Einzigartige Landschaft aus Dünen und grünen Mulden.",
+        "Bietet eine friedliche, zeitlose Atmosphäre.",
+        "Kulturell stark durch das Tubu-Volk geprägt.",
+        "Perfekt an das aride Klima der Sahelzone angepasst."
+      ]
+    },
+    {
+      "id": "abalak-cities-v2",
+      "descriptionAdvanced": "Abalak ist eine dynamische Gemeinde, die das nomadische Erbe Nigers zelebriert und als wichtiger Kreuzungspunkt für die Tuareg und Wodaabe-Fulani dient. Die Stadt ist alljährlich Gastgeber für farbenfrohe und aufsehenerregende kulturelle Zusammenkünfte, bei denen Heiratsmärkte, Kamelrennen und traditionelle Tänze im Mittelpunkt stehen. Trotz seiner tiefen Verwurzelung in der nomadischen Kultur hat sich Abalak in den letzten Jahren zunehmend sesshaft entwickelt, wobei moderne Schulen und Gesundheitszentren entstanden sind. Die lokale Wirtschaft profitiert stark vom Handel mit hochwertigem Vieh und kunstvoll gefertigten Silber- und Lederarbeiten.",
+      "factsAdvanced": [
+        "Wichtiger Kreuzungspunkt für Tuareg und Wodaabe-Fulani.",
+        "Gastgeber farbenfroher kultureller Zusammenkünfte.",
+        "Bekannt für Kamelrennen, traditionelle Tänze und Heiratsmärkte.",
+        "Entwickelt sich zunehmend zu einer sesshaften Gemeinde.",
+        "Wirtschaft basiert auf hochwertigem Viehhandel.",
+        "Zentrum für kunstvoll gefertigte Silber- und Lederarbeiten."
+      ]
+    },
+    {
+      "id": "aguie-cities-v2",
+      "descriptionAdvanced": "Aguié ist ein dicht bevölkerter und wirtschaftlich pulsierender Ort im tiefen Süden Nigers. Die Stadt fällt besonders durch ihre florierenden Bauernmärkte und eine Vielzahl an kleinen handwerklichen Betrieben auf, die Werkzeuge und Alltagsgegenstände für die umliegenden ländlichen Gemeinden herstellen. Durch die unmittelbare Nähe zur nigerianischen Grenze profitiert Aguié enorm vom grenzüberschreitenden Schmuggel und formellen Handel, was die Stadt zu einem der reichsten landwirtschaftlichen Zentren der Region macht. Die intensive Bewirtschaftung der Böden mit Erdnüssen und Hirse ist hier dank der relativ hohen jährlichen Niederschlagsmengen möglich.",
+      "factsAdvanced": [
+        "Dicht bevölkerter, wirtschaftlich pulsierender Ort im Süden.",
+        "Florierende Bauernmärkte und kleine handwerkliche Betriebe.",
+        "Profitiert stark vom Handel nahe der nigerianischen Grenze.",
+        "Gilt als eines der reichsten landwirtschaftlichen Zentren.",
+        "Intensive Bewirtschaftung mit Erdnüssen und Hirse.",
+        "Profitiert von relativ hohen jährlichen Niederschlagsmengen."
+      ]
+    },
+    {
+      "id": "ouallam-cities-v2",
+      "descriptionAdvanced": "Ouallam ist eine beschauliche Kleinstadt nördlich der Hauptstadt Niamey, die trotz ihrer Nähe zum urbanen Zentrum stark ländlich geprägt geblieben ist. Die Bevölkerung lebt vorwiegend vom traditionellen Hirtenwesen und einem extensiven Trockenfeldbau, bei dem Hirse das dominierende Getreide darstellt. Die Region um Ouallam kämpft häufig mit Dürren, was die Menschen zu einer hochgradig anpassungsfähigen Lebensweise gezwungen hat. In den letzten Jahren hat die Stadt internationale Unterstützung für landwirtschaftliche Entwicklungsprojekte erhalten, die darauf abzielen, die Bodendegradation aufzuhalten und die Ernährungssicherheit der lokalen Zarma-Bevölkerung zu verbessern.",
+      "factsAdvanced": [
+        "Beschauliche Kleinstadt nördlich der Hauptstadt Niamey.",
+        "Stark ländlich geprägt durch traditionelles Hirtenwesen.",
+        "Dominierender Anbau ist extensiver Trockenfeldbau von Hirse.",
+        "Häufig von Dürren betroffen, erfordert hohe Anpassungsfähigkeit.",
+        "Zentrum internationaler landwirtschaftlicher Entwicklungsprojekte.",
+        "Fokus auf Ernährungssicherheit der lokalen Zarma-Bevölkerung."
+      ]
+    }
+  ]
+}

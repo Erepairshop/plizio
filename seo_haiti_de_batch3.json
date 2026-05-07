@@ -1,0 +1,298 @@
+{
+  "lang": "de",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-la-crete-history-v2",
+      "descriptionAdvanced": "Fort La Crête ist eine historische Bastion und untrennbar mit der berühmten Schlacht von Crête-à-Pierrot verbunden. Hier leistete die haitianische Rebellenarmee 1802 unter unglaublichen Verlusten heldenhaften Widerstand gegen die überlegenen französischen Kolonialtruppen. Geschichte K8 — Die entscheidenden Schlachten.",
+      "factsAdvanced": [
+        "Schauplatz der Schlacht von Crête-à-Pierrot (1802).",
+        "Wurde von Jean-Jacques Dessalines verteidigt.",
+        "Die Franzosen erlitten hier extrem hohe Verluste.",
+        "Symbolisiert den ultimativen Opferwillen Haitis.",
+        "Liegt strategisch im Artibonite-Tal.",
+        "Die Festung wurde nach der Schlacht weitgehend zerstört."
+      ]
+    },
+    {
+      "id": "habitation-bellevue-history-v2",
+      "descriptionAdvanced": "Habitation Bellevue war eine weitläufige Zuckerplantage, die ihren Namen der malerischen Aussicht auf die weite Küstenebene verdankte. Die massiven Ruinen der Zuckermühlen verdeutlichen den immensen Reichtum, den diese Plantagen durch Sklavenarbeit für Frankreich generierten. Wirtschaft K7 — Der koloniale Reichtum.",
+      "factsAdvanced": [
+        "Besonders profitabel durch hochproduktive Zuckerrohrfelder.",
+        "Verfügte über zwei große, windbetriebene Mühlen.",
+        "Liegt an den Hängen mit Blick auf das Karibische Meer.",
+        "Wurde in den Aufständen von 1791 schwer beschädigt.",
+        "Das Bewässerungssystem ist noch teilweise sichtbar.",
+        "Ehemaliges Eigentum französischer Adliger."
+      ]
+    },
+    {
+      "id": "fort-moulin-history-v2",
+      "descriptionAdvanced": "Fort Moulin diente ursprünglich einer doppelten Funktion: dem Schutz einer gewaltigen, windbetriebenen Zuckermühle und als militärischer Vorposten. Diese Kombination aus agrarischer Industrie und militärischer Festung macht es zu einem architektonisch einmaligen Relikt. Geschichte K6 — Befestigte Industrie.",
+      "factsAdvanced": [
+        "Kombination aus Festung und industrieller Mühle.",
+        "Die Mühle wurde durch meterdicke Steinwände geschützt.",
+        "Sollte Plünderungen durch Freibeuter verhindern.",
+        "Liegt in einer besonders windigen Küstenzone.",
+        "Während der Revolution als Waffenlager genutzt.",
+        "Teile des Mühlsteins sind noch in den Ruinen zu finden."
+      ]
+    },
+    {
+      "id": "habitation-des-laurier-bas-history-v2",
+      "descriptionAdvanced": "Im Gegensatz zu den hochgelegenen Kaffeeplantagen war Habitation des Laurier-Bas auf den intensiven Anbau von Zuckerrohr im fruchtbaren Flachland spezialisiert. Die Bewässerungskanäle der Plantage, die das Wasser über weite Strecken leiteten, sind ein technisches Meisterwerk ihrer Zeit. Landwirtschaft K6 — Koloniale Wasserwirtschaft.",
+      "factsAdvanced": [
+        "Lokalisiert im tief gelegenen, heißen Flachland.",
+        "Spezialisiert ausschließlich auf die Zuckerproduktion.",
+        "Das Aquädukt-Netzwerk erstreckte sich über drei Kilometer.",
+        "Hunderte Sklaven arbeiteten in den Siede-Häusern.",
+        "Die Ruinen werden heute oft von Bauern zur Viehhaltung genutzt.",
+        "Erbaut im späten 18. Jahrhundert."
+      ]
+    },
+    {
+      "id": "fort-de-la-riviere-blanche-history-v2",
+      "descriptionAdvanced": "Dieses kleine, aber strategisch brillant positionierte Fort bewachte die Brücken und flachen Furten der Rivière Blanche. Es spielte eine Schlüsselrolle bei der Kontrolle von Truppen- und Warenbewegungen während der blutigen haitianischen Unabhängigkeitskriege. Geschichte K7 — Kontrolle von Handelswegen.",
+      "factsAdvanced": [
+        "Kontrollierte den wichtigsten Flussübergang der Region.",
+        "Diente der Eintreibung von Wegzöllen vor der Revolution.",
+        "War Schauplatz blutiger Guerillakämpfe.",
+        "Besteht fast vollständig aus rotem Backstein.",
+        "Die Kanonenöffnungen zeigen direkt auf den Fluss.",
+        "Wurde oft durch schwere Flusshochwasser beschädigt."
+      ]
+    },
+    {
+      "id": "habitation-saint-jean-history-v2",
+      "descriptionAdvanced": "Habitation Saint-Jean war eine berüchtigte Plantage, deren extrem brutale Arbeitsbedingungen zu einigen der frühesten und gewaltsamsten Sklavenaufstände führten. Die Ruinen des Herrenhauses sind heute ein stilles Mahnmal an den grausamen Preis des kolonialen Wohlstands. Geschichte K8 — Sklavenaufstände.",
+      "factsAdvanced": [
+        "Bekannt für besonders grausame Arbeitsbedingungen.",
+        "Einer der ersten Orte, an denen die Sklaven rebellierten.",
+        "Das Herrenhaus wurde 1791 komplett niedergebrannt.",
+        "Die Plantage besaß ein eigenes Sklaven-Krankenhaus.",
+        "Liegt abgelegen in einer dichten Waldregion.",
+        "Zentrum vieler lokaler Voodoo-Legenden."
+      ]
+    },
+    {
+      "id": "fort-bambou-history-v2",
+      "descriptionAdvanced": "Fort Bambou, benannt nach den dichten Bambushainen, die es einst umgaben, war ein verborgenes Rückzugslager der haitianischen Maroons. Die Festung nutzte die natürliche Umgebung meisterhaft zur Tarnung vor den schwerfälligen europäischen Militärpatrouillen. Geschichte K7 — Der Maroon-Widerstand.",
+      "factsAdvanced": [
+        "War ursprünglich ein geheimes Maroon-Lager.",
+        "Bambus diente als natürlicher Schutz und Baumaterial.",
+        "Schwer zu finden für koloniale Patrouillen.",
+        "Später von der haitianischen Armee befestigt.",
+        "Besitzt keine klassischen europäischen Steinmauern.",
+        "Symbol für die Anpassungsfähigkeit der Rebellen."
+      ]
+    },
+    {
+      "id": "habitation-du-nord-history-v2",
+      "descriptionAdvanced": "Die Habitation du Nord war das wirtschaftliche Zentrum einer ganzen Region und verfügte über eigene Schmieden, Schreinereien und Werkstätten. Sie veranschaulicht den fast autarken, industriellen Charakter der größten und reichsten kolonialen Ländereien. Wirtschaft K8 — Autarke Plantagensysteme.",
+      "factsAdvanced": [
+        "Funktionierte fast wie eine kleine, eigenständige Stadt.",
+        "Besaß eigene Schmieden zur Werkzeugherstellung.",
+        "Hatte über 500 Sklavenarbeiter auf dem Höhepunkt.",
+        "Der Eigentümer war ein einflussreicher politischer Führer.",
+        "Die Ruinen der Werkstätten sind heute gut erforscht.",
+        "Wurde von Rebellen methodisch demontiert."
+      ]
+    },
+    {
+      "id": "fort-des-trois-baies-history-v2",
+      "descriptionAdvanced": "Mit Blick auf drei verschiedene Buchten bot Fort des Trois Baies einen unvergleichlichen maritimen Beobachtungsposten. Es war die erste und wichtigste Verteidigungslinie gegen feindliche Flotten, die sich heimlich der Nordküste nähern wollten. Geographie K6 — Maritime Überwachung.",
+      "factsAdvanced": [
+        "Ermöglichte die Überwachung von drei Buchten gleichzeitig.",
+        "War mit extrem weitreichenden Kanonen ausgestattet.",
+        "Diente auch als Leuchtturm-Station.",
+        "Die Mauern sind direkt in den steilen Fels gehauen.",
+        "Schwer beschädigt durch Hurrikans im 19. Jahrhundert.",
+        "Beliebtes Ziel für moderne Küstenwanderungen."
+      ]
+    },
+    {
+      "id": "habitation-le-vieux-history-v2",
+      "descriptionAdvanced": "Habitation Le Vieux zählt zu den ältesten dokumentierten Kaffeeplantagen Haitis. Die steilen, terrassierten Hänge und die gigantischen steinernen Trocknungsflächen zeugen von einer jahrhundertelangen agrarischen Tradition, die die Landschaft prägte. Landwirtschaft K7 — Historischer Kaffeeanbau.",
+      "factsAdvanced": [
+        "Eine der allerersten Kaffeeplantagen der Insel.",
+        "Die Kaffeebohnen wurden auf großen Steinflächen getrocknet (Glacis).",
+        "Die Terrassenarchitektur verhinderte starke Bodenerosion.",
+        "Wurde von mehreren Generationen derselben Familie geführt.",
+        "Befindet sich in den kühlen Bergregionen des Nordens.",
+        "Einige alte Kaffeesträucher wachsen noch heute wild."
+      ]
+    },
+    {
+      "id": "fort-de-la-presquile-est-history-v2",
+      "descriptionAdvanced": "Als östliches Pendant zu den westlichen Küstenbefestigungen sicherte dieses Fort die gefährdeten Flanken der großen Hafenstädte. Es wurde von den Franzosen oft in Kombination mit anderen Küstenbatterien eingesetzt, um feindliche Schiffe in ein tödliches Kreuzfeuer zu nehmen. Geschichte K7 — Küstenartillerie.",
+      "factsAdvanced": [
+        "Sicherte die östliche Flanke der wichtigen Häfen.",
+        "Teil eines komplexen Kreuzfeuer-Verteidigungsnetzwerks.",
+        "Erbaut auf einer felsigen, schwer zugänglichen Klippe.",
+        "Konzentrierte sich auf die Abwehr von britischen Fregatten.",
+        "Besitzt noch gut erhaltene Kanonenrohre im Sand.",
+        "Wurde 1804 von der haitianischen Armee übernommen."
+      ]
+    },
+    {
+      "id": "habitation-du-sud-history-v2",
+      "descriptionAdvanced": "Habitation du Sud spezialisierte sich auf den Anbau von Vetiver, Indigo und seltenen Heilpflanzen. Die extrem isolierte Lage der Plantage im tiefen Süden ermöglichte es ihr, lange Zeit nach dem Beginn der Revolution unbehelligt weiter zu produzieren. Wirtschaft K6 — Spezialkulturen.",
+      "factsAdvanced": [
+        "Spezialisiert auf Vetiver, das für Parfums exportiert wurde.",
+        "Liegt im isolierten Département Sud-Est.",
+        "Entging den frühen Zerstörungen der Revolution 1791.",
+        "Verfügte über spezialisierte Destillationsanlagen.",
+        "Die lokalen Böden eigneten sich nicht für Zuckerrohr.",
+        "Heute von dichtem Dschungel überwuchert."
+      ]
+    },
+    {
+      "id": "haiti-cathedral-cap-haitien-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale Notre-Dame von Cap-Haïtien ist ein prächtiges architektonisches Wahrzeichen am historischen Hauptplatz der Stadt. Sie war Schauplatz zahlreicher Schlüsselmomente der Geschichte, einschließlich der Ausrufung der allgemeinen Sklavenbefreiung im Jahr 1793. Religion K8 — Historische Kirchen.",
+      "factsAdvanced": [
+        "Erbaut im Zentrum von Cap-Haïtien am Place d'Armes.",
+        "Hier wurde 1793 die Befreiung der Sklaven proklamiert.",
+        "Ursprünglich von den Franzosen errichtet.",
+        "Nach dem großen Erdbeben von 1842 neu aufgebaut.",
+        "Verfügt über zwei markante, symmetrische Glockentürme.",
+        "Beliebtes Touristenziel in Nordhaiti."
+      ]
+    },
+    {
+      "id": "haiti-fort-liberte-landmarks-v2",
+      "descriptionAdvanced": "Das historische Fort Dauphin in Fort-Liberté ist eine beeindruckende sternförmige Festungsanlage aus der Kolonialzeit. Es markiert den genauen Ort, an dem 1803 die haitianische Unabhängigkeitserklärung offiziell verkündet wurde, und ist ein Symbol des nationalen Stolzes. Geschichte K8 — Die Unabhängigkeitserklärung.",
+      "factsAdvanced": [
+        "Ursprünglich Fort Dauphin genannt.",
+        "Erbaut im Jahr 1731 zum Schutz gegen die Spanier.",
+        "Ort der offiziellen Verlesung der Unabhängigkeit (1803).",
+        "Die sternförmige Architektur ist sehr gut erhalten.",
+        "Liegt strategisch am Eingang einer tiefen Bucht.",
+        "Ein wichtiges Nationaldenkmal Haitis."
+      ]
+    },
+    {
+      "id": "haiti-palais-aux-365-portes-landmarks-v2",
+      "descriptionAdvanced": "Der Palast der 365 Türen in Petite-Rivière-de-l'Artibonite ist eine faszinierende und geheimnisvolle Palastruine. Er wurde unter König Henri Christophe als gigantische Residenz mit einem Zugang für jeden Tag des Jahres geplant, jedoch nach seinem Tod nie vollständig fertiggestellt. Architektur K7 — Königliche Residenzen.",
+      "factsAdvanced": [
+        "Auch bekannt als Palais de la Belle-Rivière.",
+        "Geplant mit exakt 365 Türen, eine für jeden Tag des Jahres.",
+        "Der Bau begann unter der Herrschaft von König Henri Christophe.",
+        "Der Palast wurde nie vollständig fertiggestellt.",
+        "Diente später als Verwaltungssitz und Kaserne.",
+        "Ein beeindruckendes Beispiel postkolonialer Ambitionen."
+      ]
+    },
+    {
+      "id": "haiti-fort-alexandre-landmarks-v2",
+      "descriptionAdvanced": "Fort Alexandre thront majestätisch hoch über Port-au-Prince. Es wurde vom haitianischen Kaiser Jean-Jacques Dessalines zur Verteidigung der Hauptstadt gegen eine mögliche französische Rückkehr erbaut und bietet heute einen spektakulären Panoramablick über den Golf von Gonâve. Geschichte K6 — Befestigung der Hauptstadt.",
+      "factsAdvanced": [
+        "Erbaut unter der direkten Anweisung von Jean-Jacques Dessalines.",
+        "Benannt nach dem Revolutionär Alexandre Pétion.",
+        "Sollte Port-au-Prince vor Seeangriffen schützen.",
+        "Liegt hoch oben auf dem Morne l'Hôpital.",
+        "Die Mauern sind stark von Erdbeben gezeichnet.",
+        "Bietet eine der besten Aussichten auf die Hauptstadt."
+      ]
+    },
+    {
+      "id": "haiti-monument-toussaint-louverture-landmarks-v2",
+      "descriptionAdvanced": "Das Toussaint Louverture Denkmal in Port-au-Prince ehrt den brillanten General, Strategen und Führer der haitianischen Revolution. Es ist ein zentraler Treffpunkt für nationale Feierlichkeiten und symbolisiert den unerbittlichen und intellektuellen Kampf um Freiheit und Gleichheit. Geschichte K8 — Helden der Revolution.",
+      "factsAdvanced": [
+        "Ehrt Toussaint Louverture, den Vorreiter der Unabhängigkeit.",
+        "Befindet sich auf dem großen Platz vor dem Nationalpalast.",
+        "Häufiger Versammlungsort für politische Reden.",
+        "Die Statue zeigt ihn in seiner französischen Generalsuniform.",
+        "Erinnert an seinen tragischen Tod in französischer Gefangenschaft.",
+        "Ein Ort starken nationalen Patriotismus."
+      ]
+    },
+    {
+      "id": "haiti-cathedrale-de-la-sainte-trinite-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale der Heiligen Dreifaltigkeit der Episkopalkirche in Port-au-Prince war weltberühmt für ihre großartigen Wandmalereien haitianischer Künstler. Trotz der katastrophalen Zerstörung durch das Erdbeben 2010 bleibt der Ort ein spirituelles und kulturelles Zentrum des Landes. Kunst K7 — Haitianische Malerei.",
+      "factsAdvanced": [
+        "Hauptkirche der Episkopaldiözese von Haiti.",
+        "Berühmt für die Wandgemälde im haitianischen Naiv-Stil.",
+        "Künstler wie Philomé Obin gestalteten den Innenraum.",
+        "Wurde beim Erdbeben 2010 fast vollständig zerstört.",
+        "Nur wenige Wandbilder überstanden die Katastrophe intakt.",
+        "Der Wiederaufbau ist ein laufendes internationales Projekt."
+      ]
+    },
+    {
+      "id": "haiti-fort-relais-landmarks-v2",
+      "descriptionAdvanced": "Fort Relais war Teil eines ausgeklügelten Kommunikationsnetzwerks, das von Henri Christophe errichtet wurde. Durch schnell entzündete Signalfeuer konnten militärische Nachrichten von der gewaltigen Zitadelle Laferrière in Minutenschnelle bis an die Nordküste übermittelt werden. Geschichte K6 — Historische Kommunikation.",
+      "factsAdvanced": [
+        "Teil eines optischen Telegraphen-Netzwerks.",
+        "Übermittelte Signale via Feuer und Spiegel.",
+        "Ermöglichte schnelle Warnungen vor Seeangriffen.",
+        "Verbindet die Zitadelle Laferrière mit Cap-Haïtien.",
+        "Kleine, aber äußerst effiziente Festungsanlage.",
+        "Zeigt das fortschrittliche logistische Denken Henri Christophes."
+      ]
+    },
+    {
+      "id": "haiti-monument-marron-inconnu-landmarks-v2",
+      "descriptionAdvanced": "Le Marron Inconnu (Der unbekannte entflohene Sklave) ist Haitis berühmteste Bronzestatue. Sie zeigt einen knienden Sklaven, der eine Lambi-Muschel bläst, um seine Brüder zur Rebellion aufzurufen, und steht als ewiges Symbol für die universelle Freiheit direkt im Herzen von Port-au-Prince. Geschichte K8 — Symbole der Freiheit.",
+      "factsAdvanced": [
+        "Erschaffen 1967 vom Architekten Albert Mangonès.",
+        "Zeigt einen Sklaven, der seine Ketten durchbricht.",
+        "Die Muschel (Lambi) diente als Kommunikationsmittel der Rebellen.",
+        "Überstand das Erdbeben von 2010 ohne große Schäden.",
+        "Wurde 1989 in das Emblem von Port-au-Prince aufgenommen.",
+        "Von den Vereinten Nationen als Symbol der Freiheit anerkannt."
+      ]
+    },
+    {
+      "id": "haiti-fort-toussaint-landmarks-v2",
+      "descriptionAdvanced": "Fort Toussaint, stolz benannt nach dem Helden der Revolution, ist eine robuste Festungsanlage tief im unzugänglichen Hochland. Sie wurde strategisch platziert, um wichtige Bergpässe zu sichern und diente als uneinnehmbares Bollwerk der noch jungen und verletzlichen Republik. Geschichte K7 — Bergfestungen.",
+      "factsAdvanced": [
+        "Benannt zu Ehren von Toussaint Louverture.",
+        "Sicherte die zentralen Gebirgspässe vor Invasionen.",
+        "Erbaut auf Befehl der ersten haitianischen Staatsoberhäupter.",
+        "War Teil der nationalen Verteidigungsstrategie.",
+        "Schwer zugänglich und von dichtem Dschungel umgeben.",
+        "Wurde nie in einer großen Schlacht erobert."
+      ]
+    },
+    {
+      "id": "haiti-cathedrale-jacmel-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale St. Jacques und St. Philippe in Jacmel ist ein Meisterwerk der kolonialen und viktorianischen Architektur. Nach einem verheerenden Brand im 19. Jahrhundert wurde sie mit pre-fabrizierten Gusseisenelementen aus Europa wieder aufgebaut und prägt das historische Zentrum. Architektur K7 — Gusseisenarchitektur.",
+      "factsAdvanced": [
+        "Hauptkathedrale der Küstenstadt Jacmel.",
+        "Berühmt für die Verwendung importierter Gusseisensäulen.",
+        "Nach einem Brand im Jahr 1896 neu konstruiert.",
+        "Überstand zahlreiche Erdbeben aufgrund der flexiblen Struktur.",
+        "Ein herausragendes Beispiel für den viktorianischen Stil in der Karibik.",
+        "Verfügt über beeindruckende europäische Buntglasfenster."
+      ]
+    },
+    {
+      "id": "haiti-place-saint-pierre-landmarks-v2",
+      "descriptionAdvanced": "Die Place Saint-Pierre in Pétion-Ville ist ein eleganter, baumbestandener Stadtplatz, der von Kunstgalerien und gehobenen Cafés gesäumt wird. Er ist das gesellschaftliche Herzstück des wohlhabenden Vororts und bietet eine ruhige, grüne Oase abseits der Hektik der Hauptstadt. Geographie K5 — Urbane Plätze.",
+      "factsAdvanced": [
+        "Das Zentrum von Pétion-Ville, nahe Port-au-Prince.",
+        "Ein beliebter Ort für Künstler und Galerien.",
+        "Gesäumt von großen, schattenspendenden Bäumen.",
+        "Namensgeber ist die angrenzende Saint-Pierre Kirche.",
+        "Nach dem Erdbeben 2010 diente er kurzzeitig als Zeltlager.",
+        "Heute wieder ein Symbol für das moderne, städtische Haiti."
+      ]
+    },
+    {
+      "id": "haiti-fort-ogé-landmarks-v2",
+      "descriptionAdvanced": "Fort Ogé im Département Sud-Est wurde nach dem frühen Revolutionär Vincent Ogé benannt, der für die Rechte der freien Farbigen kämpfte. Es ist ein Symbol des Widerstands und bietet durch seine spektakuläre Lage auf einem schmalen Gebirgskamm eine atemberaubende Aussicht auf das Karibische Meer. Geschichte K7 — Die frühen Revolutionäre.",
+      "factsAdvanced": [
+        "Benannt nach dem Märtyrer Vincent Ogé (gest. 1791).",
+        "Liegt auf einer strategischen Anhöhe in der Nähe von Jacmel.",
+        "Wurde zur Verteidigung des Südens errichtet.",
+        "Ein Großteil der Mauern ist der Witterung zum Opfer gefallen.",
+        "Bietet eine ungestörte Sicht auf den Ozean.",
+        "Ein wichtiger Stützpunkt während der südlichen Bürgerkriege."
+      ]
+    }
+  ]
+}

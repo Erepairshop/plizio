@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-of-oakland-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Oakland, gelegen an der östlichen Seite der Bucht von San Francisco in Nordkalifornien, ist einer der wichtigsten und geschäftigsten Containerhäfen der US-Westküste. Im Gegensatz zu den stark auf Importe spezialisierten Häfen in Südkalifornien, ist Oakland von entscheidender Bedeutung für den amerikanischen Export. Nahezu das gesamte landwirtschaftliche Exportvolumen Nord- und Zentralkaliforniens (insbesondere Reis, Nüsse, Wein und Fleisch aus dem Central Valley) wird hier in Kühlcontainern nach Asien verschifft. Der Hafen ist massiv mit zwei interkontinentalen Eisenbahnsystemen verbunden, was die Logistikkosten tief ins amerikanische Hinterland senkt. Zudem befindet sich der internationale Flughafen von Oakland in direkter Nachbarschaft, was die Frachteffizienz weiter steigert. Wirtschaft K8 — Agrarexporte und maritime Logistikzentren.",
+      "factsAdvanced": [
+        "Gehört zu den Top 10 der geschäftigsten Containerhäfen der USA",
+        "Pionier bei der Verschiffung von Kühlcontainern für kalifornische Landwirtschaft",
+        "Wichtigster Umschlaghafen für die extrem reiche Agrarproduktion des Central Valley",
+        "Verfügt über direkte Anschlüsse an die gigantischen Schienennetze von UP und BNSF",
+        "Teilt sich die Infrastruktur mit dem Oakland International Airport auf demselben Gelände",
+        "Die enormen Hafenkräne inspirierten angeblich das Design der AT-AT Walker aus 'Star Wars'"
+      ]
+    },
+    {
+      "id": "port-of-virginia-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Virginia, mit seinem Hauptsitz in der Metropolregion Hampton Roads, ist ein massives maritimes Netzwerk von Tiefwasserterminals rund um die Mündung der Chesapeake Bay. Was ihn einzigartig an der Ostküste macht, ist sein natürlicher Tiefwasserkanal, der ohne aufwendiges Ausbaggern selbst die größten Mega-Schiffe der Welt (Ultra Large Container Vessels) aufnehmen kann. Ein Großteil des Hafens ist fast vollständig automatisiert, wobei unbemannte Kräne und computergesteuerte Fahrzeuge die Container sortieren (z.B. am Virginia International Gateway). Neben asiatischen und europäischen Importgütern ist der Hafen historisch der weitaus größte Verladeort für amerikanische Kohleexporte in den Rest der Welt. Wirtschaft K8 — Automatisierte Hafenlogistik und Kohleexport.",
+      "factsAdvanced": [
+        "Verfügt über einen natürlichen, 15 Meter tiefen Fahrrinnenkanal ohne massives Ausbaggern",
+        "Eines der am stärksten automatisierten Containerterminals der gesamten Hemisphäre",
+        "Mit Abstand der führende US-Hafen für den Export von Kohle (insbesondere metallurgische Kohle)",
+        "Direkt verbunden mit dem größten Marineflottenstützpunkt der Welt (Naval Station Norfolk)",
+        "Wird von einer einzigen Hafenbehörde, der Virginia Port Authority, zentral gesteuert",
+        "Rund ein Drittel der gesamten Fracht wird über ein massives Eisenbahnnetz ins Landesinnere transportiert"
+      ]
+    },
+    {
+      "id": "port-of-tampa-bay-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Tampa Bay an der Westküste Floridas ist, gemessen an der Frachttonnage, der größte Hafen des Bundesstaates. Im Gegensatz zu den stark auf Container fokussierten Küstenhäfen dominiert in Tampa massiv die Massengutfracht (Bulk Cargo). Historisch und auch heute noch ist der Hafen der weltweite Hauptumschlagplatz für Phosphatdünger, der in Zentralflorida abgebaut wird und entscheidend für die globale Landwirtschaft ist. Zudem ist Tampa der wichtigste Umschlagplatz für Flugzeugtreibstoff, Benzin und Baumaterialien, die Zentralflorida versorgen. In den letzten Jahrzehnten hat sich der Hafen zusätzlich zu einem äußerst profitablen Drehkreuz für Kreuzfahrtschiffe mit Fahrtzielen in der Karibik und Mexiko entwickelt. Geographie K8 — Massengutlogistik und Phosphatabbau in Florida.",
+      "factsAdvanced": [
+        "Größter und tonnage-stärkster Seehafen im gesamten Bundesstaat Florida",
+        "Weltweites Epizentrum für den Export von Phosphatdünger (aus lokalen Minen)",
+        "Importiert die überwiegende Mehrheit der Erdölprodukte für Zentralflorida und die Flughäfen",
+        "Ein stark wachsendes Zentrum für die florierende Kreuzfahrtindustrie Richtung Karibik",
+        "Verfügt über umfangreiche Schiffsreparatur- und Trockendock-Einrichtungen",
+        "Wurde im 19. Jahrhundert massiv durch den Eisenbahnbau von Henry Plant ausgebaut"
+      ]
+    },
+    {
+      "id": "detroit-automotive-industry-economic-v2",
+      "descriptionAdvanced": "Die Automobilindustrie in Detroit, Michigan, oft als 'Motor City' bezeichnet, ist das unbestrittene historische Epizentrum der amerikanischen Massenproduktion. Im frühen 20. Jahrhundert revolutionierten hier Pioniere wie Henry Ford mit der Erfindung der Fließbandfertigung die gesamte Weltwirtschaft. Dies ermöglichte die kostengünstige Herstellung des Model T und schuf eine gigantische Mittelklasse an Industriearbeitern. Detroit wurde zur Heimat der 'Big Three': General Motors, Ford und Chrysler. Trotz dramatischer Rückschläge im späten 20. Jahrhundert durch ausländische Konkurrenz, Deindustrialisierung und die Insolvenz der Stadt 2013, bleibt die Region das Nervenzentrum für Forschung, Entwicklung und Design von Automobilen. Der Fokus verlagert sich heute rasant auf Elektrofahrzeuge (EVs) und autonomes Fahren. Wirtschaft K8 — Der Aufstieg und Wandel der Fließbandproduktion.",
+      "factsAdvanced": [
+        "Historische Heimat der 'Big Three' Autohersteller: Ford, General Motors, Chrysler",
+        "Henry Ford revolutionierte hier 1913 die Weltwirtschaft durch das bewegliche Fließband",
+        "Während des Zweiten Weltkriegs als 'Arsenal of Democracy' für Panzer und Flugzeuge bekannt",
+        "Die Industrie löste massive Migrationswellen ('Great Migration') aus dem Süden aus",
+        "Die starke Deindustrialisierung gipfelte 2013 im damals größten kommunalen Bankrott der USA",
+        "Heute konzentriert sich die Region massiv auf Elektromobilität und autonome Fahrzeugforschung"
+      ]
+    },
+    {
+      "id": "silicon-valley-tech-economic-v2",
+      "descriptionAdvanced": "Das Silicon Valley, gelegen im südlichen Teil der San Francisco Bay Area (mit dem Zentrum San José), ist der weltweit unangefochtene Inbegriff für Hochtechnologie, Innovation und Risikokapital (Venture Capital). Der Begriff 'Silicon' (Silizium) geht auf die in den 1970er Jahren massiv florierende Halbleiterproduktion zurück. Begünstigt durch exzellente akademische Netzwerke, allen voran die Stanford University, entwickelte sich das Tal zum Brutkasten für weltverändernde Entwicklungen in der Mikroelektronik, dem Personal Computer und dem Internet. Heute haben hier Giganten wie Apple, Google, Meta (Alphabet) und unzählige Start-ups ihre gigantischen Corporate-Campus-Zentralen. Dieser extreme Boom führte jedoch auch zu exorbitanten Immobilienpreisen und enormer sozialer Ungleichheit in der Region. Wirtschaft K8 — Technologiecluster und die Entwicklung des Internets.",
+      "factsAdvanced": [
+        "Zentrum der globalen Hightech-Industrie im Santa Clara Valley, Kalifornien",
+        "Der Name 'Silicon' stammt von den hier in den 70ern produzierten Silizium-Halbleiterchips",
+        "Die Stanford University war ein absolut entscheidender Inkubator für frühe Start-ups",
+        "Heimat der globalen Hauptsitze von Apple, Google, Meta, Intel und vielen mehr",
+        "Verzeichnet die weltweit größte Konzentration von Risikokapital (Venture Capital)",
+        "Die Immobilien- und Lebenshaltungskosten gehören durch den Tech-Boom zu den höchsten der Welt"
+      ]
+    },
+    {
+      "id": "texan-energy-industry-economic-v2",
+      "descriptionAdvanced": "Die Energieindustrie in Texas bildet das gewaltige Rückgrat der US-amerikanischen Energieversorgung. Angeheizt durch den legendären Spindletop-Gusher 1901 bei Beaumont, wandelte sich Texas über Nacht in eine petrochemische Supermacht. Insbesondere Houston gilt als die Energiehauptstadt der Welt, wo fast alle großen Ölkonzerne operieren. Das Permian Basin in Westtexas ist heute eines der ertragreichsten Öl- und Gasfelder des Planeten, dessen Produktion in den 2010er Jahren durch die Fracking-Technologie ('Hydraulic Fracturing') dramatisch gesteigert wurde, was die USA unabhängig von Energieimporten machte. Parallel dazu hat Texas massiv investiert und ist mittlerweile auch der unangefochtene amerikanische Marktführer in der Produktion von Windenergie, was die Diversifizierung des Energiesektors zeigt. Wirtschaft K8 — Fracking, Ölbooms und der Wandel zu erneuerbaren Energien.",
+      "factsAdvanced": [
+        "Der Spindletop-Ölfund 1901 löste das texanische Ölzeitalter abrupt aus",
+        "Houston wird weltweit als unangefochtene 'Energiehauptstadt' anerkannt",
+        "Das Permian Basin ist das produktivste und am stärksten erschlossene Ölfeld Nordamerikas",
+        "Die umstrittene Fracking-Methode revolutionierte die Ölförderung im 21. Jahrhundert massiv",
+        "Texas produziert mit Abstand das meiste Rohöl und Erdgas aller US-Bundesstaaten",
+        "Ist paradoxerweise auch der führende US-Staat bei der Generierung von Windenergie"
+      ]
+    },
+    {
+      "id": "wall-street-financial-industry-economic-v2",
+      "descriptionAdvanced": "Die Finanzindustrie der Wall Street in Lower Manhattan, New York City, ist das absolut dominierende Zentrum der globalen Kapitalmärkte. Sie erstreckt sich symbolisch entlang der namensgebenden Straße, in deren Verlauf sich die New York Stock Exchange (NYSE) – die nach Marktkapitalisierung weitaus größte Wertpapierbörse der Welt – befindet. Ursprünglich unterzeichneten Broker 1792 das 'Buttonwood Agreement' unter einem Baum, um Wertpapiere zu handeln, was den Grundstein legte. Heute ist die Wall Street das Zentrum gigantischer Investmentbanken (wie Goldman Sachs und JPMorgan Chase), Hedgefonds und Ratingagenturen. Die Entscheidungen und Krisen der Wall Street – vom Crash 1929 bis zur Finanzkrise 2008 – besitzen die unbestrittene Macht, die Weltwirtschaft tiefgreifend zu erschüttern oder anzutreiben. Wirtschaft K8 — Globale Finanzmärkte und Börsencrashs.",
+      "factsAdvanced": [
+        "Die New York Stock Exchange (NYSE) ist die größte Börse der Welt nach Marktkapitalisierung",
+        "Der Name 'Wall Street' leitet sich von einer echten Schutzmauer ab, die im 17. Jh. dort stand",
+        "Das Buttonwood Agreement von 1792 gilt als offizielles Gründungsdokument der Börse",
+        "Epizentrum globaler Investmentbanken, Hedgefonds und komplexer Finanzinstrumente",
+        "Der Black Tuesday (1929) an der Wall Street löste die weltweite Große Depression aus",
+        "Die Finanzkrise 2008 nahm ihren Anfang durch hypothekenbesicherte Papiere auf der Wall Street"
+      ]
+    },
+    {
+      "id": "napa-valley-wine-industry-economic-v2",
+      "descriptionAdvanced": "Das Napa Valley, gelegen im Norden von San Francisco in Kalifornien, ist die prestigeträchtigste Weinbauregion der Vereinigten Staaten und eines der Top-Weinbaugebiete der Welt. Obwohl die Weinproduktion hier im 19. Jahrhundert begann, erlangte die Region erst durch die 'Weinjury von Paris' im Jahr 1976 globale Anerkennung, als Napa-Weine völlig überraschend französische Spitzenweine in einer Blindverkostung besiegten. Das mediterrane Klima mit kühlen Nächten (durch Nebel vom Pazifik) und heißen Tagen bietet ideale Bedingungen für Cabernet Sauvignon und Chardonnay. Die Region ist von einer strikten landwirtschaftlichen Schutzzone (Agricultural Preserve) geprägt, die den massiven kommerziellen Immobilienausbau verhindert. Die Weinindustrie hier ist stark mit einem extrem lukrativen Luxus-Tourismus verwoben. Landwirtschaft K8 — Hochwertiger Weinbau und klimatischer Einfluss.",
+      "factsAdvanced": [
+        "Gilt weltweit als die führende und prestigeträchtigste Weinbauregion Nordamerikas",
+        "Die 'Weinjury von Paris' (1976) etablierte den Napa-Wein auf Augenhöhe mit Frankreich",
+        "Das Agricultural Preserve (1968) war die erste Schutzzone ihrer Art in den USA zur Rettung von Farmen",
+        "Obwohl winzig in der Produktion (nur 4 % Kaliforniens), enormer wirtschaftlicher Wert durch Qualität",
+        "Berühmt vor allem für massiven und komplexen Cabernet Sauvignon",
+        "Die Industrie ist extrem stark mit gehobenem Luxus-Tourismus und Kulinarik verflochten"
+      ]
+    },
+    {
+      "id": "hollywood-entertainment-industry-economic-v2",
+      "descriptionAdvanced": "Die Unterhaltungsindustrie in Hollywood, einem Stadtteil von Los Angeles, ist das unumstrittene historische Epizentrum der globalen Film- und Fernsehproduktion. In den 1910er Jahren flohen Filmemacher massiv von der Ostküste nach Südkalifornien, um den strikten Patentklagen von Thomas Edison zu entgehen und das konstant sonnige Wetter für Dreharbeiten zu nutzen. In den goldenen 1920er bis 1950er Jahren dominierten gigantische Filmstudios ('The Big Five') mit exklusiven Verträgen die Branche. Das berühmte Hollywood-Sign, 1923 als Immobilienwerbung errichtet, wurde zum universellen Symbol des amerikanischen Kinos. Heute hat sich die physische Produktion oft in andere Staaten (mit Steueranreizen) verlagert, doch Hollywood bleibt das absolute Nervenzentrum für Management, Postproduktion, Casting und die Vergabe der Oscars (Academy Awards). Geschichte K8 — Die Entstehung der Filmindustrie und das Studiosystem.",
+      "factsAdvanced": [
+        "Filmpioniere zogen nach Kalifornien, um Edisons Patent-Monopol an der Ostküste zu entkommen",
+        "Das Hollywood-Zeichen wurde 1923 eigentlich als Werbung für Immobilien ('Hollywoodland') errichtet",
+        "Zentrum des klassischen 'Studiosystems', das die Filmproduktion bis in die 1950er absolut dominierte",
+        "Veranstaltungsort der jährlichen Academy Awards (Oscars) im Dolby Theatre",
+        "Der Walk of Fame ehrt Tausende Stars mit in den Bürgersteig eingelassenen Sternen",
+        "Die eigentliche Filmproduktion hat sich oft wegen Steueranreizen nach Georgia oder Kanada verlagert"
+      ]
+    },
+    {
+      "id": "chicago-logistics-industry-economic-v2",
+      "descriptionAdvanced": "Die Logistikindustrie in Chicago, Illinois, ist historisch und gegenwärtig das massivste Transportdrehkreuz des nordamerikanischen Kontinents. Chicagos Aufstieg im 19. Jahrhundert wurde durch seine perfekte geografische Lage diktiert: Es verband das Wasserstraßennetz der Großen Seen über den Illinois-Michigan-Kanal mit dem Flusssystem des Mississippi. Kurz darauf wurde Chicago zum absoluten Epizentrum des amerikanischen Eisenbahnnetzes, wo fast alle wichtigen transkontinentalen Züge aufeinandertrafen. Heute ist die Metropole der größte Umschlagplatz für intermodalen Frachtverkehr (Wechsel zwischen Zug und Lkw) der Welt außerhalb Asiens. Zudem bildet der O'Hare International Airport eines der kritischsten globalen Drehkreuze für Fracht und Passagiere. Wirtschaft K8 — Eisenbahnknotenpunkte und intermodale Logistik.",
+      "factsAdvanced": [
+        "Historisch und aktuell der unbestrittene größte Eisenbahnknotenpunkt der Vereinigten Staaten",
+        "Größter Binnen-Frachtumschlagplatz der Welt für intermodalen Verkehr (Zug/Lkw)",
+        "Verbinder zwischen dem Schifffahrtsnetz der Großen Seen und dem Mississippi-System",
+        "Sechs der sieben großen US-Eisenbahngesellschaften (Class I) treffen sich in Chicago",
+        "Der O'Hare Airport gehört bezüglich Fracht und Flügen zu den stärksten Drehkreuzen weltweit",
+        "Wurde im 19. Jh. durch diesen Transportvorteil zur Zentrale des US-Versandhandels (Sears, Roebuck)"
+      ]
+    },
+    {
+      "id": "pittsburgh-steel-industry-economic-v2",
+      "descriptionAdvanced": "Die Pittsburgh-Stahlindustrie war über fast ein Jahrhundert hinweg das Rückgrat des amerikanischen industriellen Aufstiegs. Ende des 19. Jahrhunderts baute Andrew Carnegie hier das erste massive, integrierte Stahlwerkimperium auf, gestützt auf reiche Kohlevorkommen in der Nähe und den leichten Transport von Eisenerz über die Großen Seen und Flüsse. Stahl aus Pittsburgh lieferte das Material für gigantische Infrastrukturprojekte weltweit, von Wolkenkratzern in New York bis hin zum Panamakanal. In den 1970er und 1980er Jahren erlebte die Industrie jedoch einen katastrophalen Zusammenbruch durch billigere ausländische Konkurrenz und technologische Überalterung, was Zehntausende von Arbeitsplätzen vernichtete und Pittsburgh zang, sich radikal zu einer Hightech- und Medizinmetropole neu zu erfinden. Geschichte K8 — Schwerindustrie, Andrew Carnegie und der Fall des Rust Belts.",
+      "factsAdvanced": [
+        "Andrew Carnegie gründete hier in den 1870er Jahren ein monumentales Stahl-Imperium",
+        "Produzierte während des Zweiten Weltkriegs massiv Stahl für das 'Arsenal of Democracy'",
+        "Kohle aus dem Umland und Eisenerz aus Minnesota machten die Region perfekt für Stahl",
+        "Erlebte in den 1980er Jahren einen verheerenden wirtschaftlichen Kollaps (Deindustrialisierung)",
+        "Stahl aus Pittsburgh wurde für legendäre Bauwerke wie das Empire State Building genutzt",
+        "Die US Steel Tower prägt noch heute als Hauptquartier die Skyline von Pittsburgh"
+      ]
+    },
+    {
+      "id": "georgia-aerospace-industry-economic-v2",
+      "descriptionAdvanced": "Die Luft- und Raumfahrtindustrie in Georgia ist ein massiver, wenn auch weniger sichtbarer Wirtschaftsmotor des Südostens. Während Bundesstaaten wie Washington oder Texas oft die öffentliche Aufmerksamkeit dominieren, ist Georgia mit über 800 Luftfahrtunternehmen ein Kraftzentrum. Das absolute Epizentrum bildet das gigantische Produktionswerk von Lockheed Martin in Marietta, wo legendäre Militärflugzeuge wie das Transportflugzeug C-130 Hercules seit über 60 Jahren produziert werden. Zudem ist der Hartsfield-Jackson Flughafen in Atlanta nicht nur der verkehrsreichste der Welt, sondern auch Hauptquartier von Delta Air Lines und beherbergt massive Wartungs- und Reparaturanlagen (MRO). Das Georgia Institute of Technology (Georgia Tech) stützt die Industrie mit herausragender Spitzenforschung. Wirtschaft K7 — Militärische Flugzeugproduktion und zivile Luftfahrtzentren.",
+      "factsAdvanced": [
+        "Luftfahrt ist das absolut wichtigste Exportprodukt des Bundesstaates Georgia",
+        "Lockheed Martin betreibt in Marietta ein riesiges Werk zur Produktion von Militärflugzeugen (C-130)",
+        "Heimat des Hartsfield-Jackson Airports, des weltweit meistfrequentierten Flughafens",
+        "Delta Air Lines hat seinen globalen Hauptsitz und massive Wartungsanlagen in Atlanta",
+        "Verfügt über ein florierendes Netzwerk zur Produktion von Business-Jets (Gulfstream in Savannah)",
+        "Das Georgia Tech ist eine der landesweit führenden Hochschulen für Luft- und Raumfahrttechnik"
+      ]
+    },
+    {
+      "id": "north-carolina-biotech-industry-economic-v2",
+      "descriptionAdvanced": "Die Biotech-Industrie in North Carolina konzentriert sich massiv im 'Research Triangle Park' (RTP), dem größten Forschungspark der Vereinigten Staaten. Gegründet 1959, war das RTP eine bewusste, weitreichende Strategie der Regierung und Akademie, um den Bundesstaat von der wirtschaftlichen Abhängigkeit von Tabak, Textilien und Möbeln zu lösen. Eingebettet zwischen drei Spitzenuniversitäten (Duke, NC State, UNC Chapel Hill), zog die Region gewaltige multinationale Pharmakonzerne (wie GlaxoSmithKline), Vertragsforschungsinstitute (CROs) und landwirtschaftliche Biotech-Unternehmen an. Heute ist North Carolina ein absoluter Weltmarktführer in der biopharmazeutischen Produktion, der Genforschung und den klinischen Studien, was Zehntausende hochbezahlte Arbeitsplätze in den Südosten gebracht hat. Wirtschaft K8 — Der strategische Wandel zur Spitzenforschung im RTP.",
+      "factsAdvanced": [
+        "Der Research Triangle Park (RTP) ist der flächenmäßig größte Forschungspark der USA (gegr. 1959)",
+        "Wurde gezielt erschaffen, um die Abhängigkeit von Tabak- und Textilindustrie zu durchbrechen",
+        "Die Region wird von drei großen Forschungsuniversitäten (Duke, UNC, NC State) umrahmt",
+        "Eines der wichtigsten globalen Zentren für klinische Vertragsforschung (CRO-Industrie)",
+        "Ein globaler Marktführer in der Agrar-Biotechnologie (AgBiotech)",
+        "Über 700 Unternehmen sind direkt in den Biowissenschaften im Bundesstaat tätig"
+      ]
+    },
+    {
+      "id": "port-of-baltimore-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Baltimore im US-Bundesstaat Maryland ist, gelegen an der Chesapeake Bay, der am weitesten im Landesinneren gelegene Überseehafen der US-Ostküste. Diese tief eingeschnittene geografische Lage macht ihn logistisch extrem attraktiv, da Frachtgüter (insbesondere auf dem Landweg) viel näher an die großen Verbrauchermärkte des Mittleren Westens transportiert werden können. Der Hafen von Baltimore ist absoluter Spitzenreiter in den Vereinigten Staaten, wenn es um den Import und Export von Fahrzeugen und leichten Lkw geht (Roll-on/Roll-off-Fracht). Zudem schlägt er enorme Mengen an Kohle und schwerem landwirtschaftlichen Baugerät um. Der tragische Einsturz der Francis Scott Key Bridge im Jahr 2024 zeigte die enorme wirtschaftliche Bedeutung und Vulnerabilität dieses zentralen Verkehrsknotenpunkts. Logistik K7 — Roll-on/Roll-off-Häfen und die strategische Lage der Chesapeake Bay.",
+      "factsAdvanced": [
+        "Ist der am tiefsten im Landesinneren gelegene Seehafen der gesamten US-Ostküste",
+        "Nationaler Spitzenreiter im Umschlag von Automobilen und Roll-on/Roll-off-Fracht (RoRo)",
+        "Besitzt einen der zwei Tunnel der Ostküste für doppelstöckige Containerzüge (Howard Street Tunnel)",
+        "Extrem wichtiger Exporthafen für amerikanische Kohle und schweres Baugerät",
+        "Der Einsturz der Francis Scott Key Bridge (2024) blockierte vorübergehend den Schiffsverkehr massiv",
+        "Wurde im 18. und 19. Jahrhundert massiv für den Zucker- und Baumwollhandel ausgebaut"
+      ]
+    },
+    {
+      "id": "port-of-houston-deepwater-economic-v2",
+      "descriptionAdvanced": "Der Tiefwasserhafen von Houston in Texas erstreckt sich als industrieller Gigant entlang des 50 Meilen langen Houston Ship Channel. Obwohl er tief im Landesinneren liegt, schlägt dieser Hafen in Bezug auf die ausländische Frachttonnage mehr Güter um als jeder andere Hafen der Vereinigten Staaten. Er ist die unangefochtene Hauptschlagader der globalen Petrochemie- und Ölindustrie. Gewaltige Tanker importieren Rohöl und exportieren massiv raffinierte Chemie- und Erdgasprodukte sowie Plastikgranulat, die in den gigantischen Raffineriekomplexen am Ufer produziert werden. Neben der Flüssigfracht hat der Hafen massiv in seine Containerterminals (Barbours Cut und Bayport) investiert, um die stetig wachsende texanische Bevölkerung mit Konsumgütern zu versorgen. Wirtschaft K8 — Der größte Exporthafen für Petrochemie der USA.",
+      "factsAdvanced": [
+        "Gemessen an der fremden Frachttonnage meist der volumenstärkste Hafen der USA",
+        "Die unbestrittene Hauptschlagader der petrochemischen Produktion Nordamerikas",
+        "Wird durch den künstlich vertieften Houston Ship Channel mit dem Golf von Mexiko verbunden",
+        "Umschlägt massiv Flüssiggüter, ist aber auch stark wachsend im Containergeschäft (Bayport)",
+        "Sichert zehntausende direkte Arbeitsplätze in der lokalen Raffinerieindustrie",
+        "Wurde erst 1914 nach verheerenden Stürmen an der Küste tiefer ins sichere Binnenland ausgebaut"
+      ]
+    },
+    {
+      "id": "texas-wind-energy-economic-v2",
+      "descriptionAdvanced": "Die Windenergieindustrie in Texas stellt ein beeindruckendes Paradoxon dar: Der US-Bundesstaat, der weltweit am meisten mit Öl und Gas assoziiert wird, ist zugleich mit massivem Abstand der größte Produzent von Windkraft in den USA. Über weite Strecken der flachen und windigen Regionen in Westtexas und entlang der Küste wurden gigantische Windparks errichtet, allen voran das gigantische Roscoe Wind Farm. Ermöglicht wurde dieser absolute Boom durch eine aggressive staatliche Förderung des Stromnetzausbaus in den 2000er Jahren (die Competitive Renewable Energy Zones), welche die abgelegenen Windturbinen mit den wachsenden Städten im Osten verband. Heute liefert Windenergie regelmäßig einen sehr hohen zweistelligen Prozentsatz des texanischen Strombedarfs (ERCOT). Technologie K8 — Der Ausbau erneuerbarer Energien im traditionellen Ölstaat.",
+      "factsAdvanced": [
+        "Texas produziert mit weitem Abstand die meiste Windenergie aller US-Bundesstaaten",
+        "Wäre Texas ein eigenes Land, gehörte es zu den Top-Nationen der globalen Windkraft",
+        "Der massive Boom wurde durch staatlich finanzierte Hochspannungsleitungen (CREZ) erst möglich gemacht",
+        "Das Roscoe Wind Farm in Westtexas war bei seiner Fertigstellung der größte Windpark der Welt",
+        "Windenergie deckt an windigen Tagen oft mehr als ein Drittel des Strombedarfs im Texas-Netz",
+        "Wurde als pragmatische wirtschaftliche (nicht primär ökologische) Diversifizierung extrem gefördert"
+      ]
+    },
+    {
+      "id": "boston-biotech-economic-v2",
+      "descriptionAdvanced": "Das Biotech-Cluster in Boston, speziell im direkt benachbarten Kendall Square in Cambridge (Massachusetts), gilt weithin als das absolute Epizentrum der globalen biotechnologischen und pharmazeutischen Forschung. Diese gewaltige Konzentration von über tausend Biowissenschaftsunternehmen entstand nicht zufällig, sondern basiert auf der unmittelbaren geografischen Nähe zu akademischen Giganten wie der Harvard University, dem Massachusetts Institute of Technology (MIT) und zahlreichen weltbekannten Forschungskrankenhäusern. Diese Dichte ermöglicht einen beispiellosen Austausch zwischen akademischer Spitzenforschung und der schnellen Entwicklung marktreifer Medikamente, insbesondere in der Genetik, Onkologie und mRNA-Technologie (wie bei Moderna). Kein anderer Ort der Welt verzeichnet eine derart massive Konzentration an Risikokapitalinvestitionen in Life Sciences. Medizin K8 — Synergien von Eliteuniversitäten und Pharmaforschung.",
+      "factsAdvanced": [
+        "Der Kendall Square in Cambridge wird oft als 'der innovativste Quadratkilometer der Erde' bezeichnet",
+        "Das absolute Epizentrum der Welt für Biotech-Forschung und Life Sciences",
+        "Wird durch die direkte Nähe zu Elite-Unis (Harvard, MIT) und Top-Krankenhäusern gespeist",
+        "Zieht landesweit den höchsten Anteil an Forschungsförderung der National Institutes of Health (NIH) an",
+        "Heimat des Hauptsitzes von Moderna und der gigantischen Forschungslabors globaler Pharmakonzerne",
+        "Verursachte in der Region extrem stark steigende Immobilienpreise für Laborflächen"
+      ]
+    },
+    {
+      "id": "port-of-anchorage-economic-v2",
+      "descriptionAdvanced": "Der Port of Anchorage (offiziell Port of Alaska) ist die absolute Lebensader für den gesamten US-Bundesstaat Alaska. Gelegen am Cook Inlet, einem Meeresarm in Südalaska, schlägt dieser strategisch unverzichtbare Hafen schätzungsweise 90 Prozent aller Verbrauchsgüter um, die von den Bürgern Alaskas benötigt werden – von Lebensmitteln und Fahrzeugen bis hin zu Baumaterialien. Der Hafen hält extreme logistische Herausforderungen aus, wie etwa gewaltige Gezeitenunterschiede von fast 10 Metern, starke Strömungen und harte Winterbedingungen mit Eisgang. Da das Straßennetz von Nordamerika nach Alaska nur extrem eingeschränkt nutzbar ist, wäre ein längerer Ausfall dieses Seehafens eine sofortige humanitäre und wirtschaftliche Katastrophe für den gesamten Bundesstaat. Logistik K7 — Versorgung isolierter Regionen unter extremen Bedingungen.",
+      "factsAdvanced": [
+        "Verarbeitet etwa 90 % aller ankommenden Konsumgüter für die gesamte Bevölkerung Alaskas",
+        "Zwingend notwendige Versorgungsroute, da Alaskas Anbindung an das Festland-Straßennetz extrem begrenzt ist",
+        "Muss mit extremen Gezeitenunterschieden von fast 10 Metern (30 Fuß) operieren",
+        "Ein wichtiger Stützpunkt für die logistische Versorgung militärischer Basen in Alaska",
+        "Operiert das ganze Jahr über, trotz extrem starkem Wintereisgang im Cook Inlet",
+        "Der Hafen wurde beim historischen Erdbeben von 1964 schwer beschädigt, aber extrem schnell wiederhergestellt"
+      ]
+    },
+    {
+      "id": "las-vegas-tourism-industry-economic-v2",
+      "descriptionAdvanced": "Die Tourismusindustrie in Las Vegas, Nevada, ist ein gigantischer Wirtschaftsmotor, der die gesamte Wüstenstadt am Leben hält. Nach der Legalisierung des Glücksspiels 1931 und gefördert durch den massiven Zustrom von Arbeitern beim Bau des Hoover-Staudamms, explodierte Las Vegas nach dem Zweiten Weltkrieg als Hochburg der Mafia-gesteuerten Casinos. In den späten 1980er Jahren revolutionierte das 'Mirage'-Hotel das Konzept, woraufhin der Strip von gewaltigen, themenbezogenen Mega-Resorts dominiert wurde. Heute generiert Las Vegas hunderte Milliarden Dollar nicht mehr nur durch Spielcasinos, sondern extrem stark durch Shows, Weltklasse-Gastronomie, gigantische Kongresse (wie die CES) und Sportereignisse. Die Industrie ist stark konjunkturabhängig und verzeichnet bei globalen Wirtschaftskrisen oft herbe Einbrüche. Wirtschaft K8 — Der Wandel von Glücksspiel zu Familienunterhaltung und Kongressen.",
+      "factsAdvanced": [
+        "Tourismus und Glücksspiel sind die absolut dominanten Wirtschaftsfaktoren im Bundesstaat Nevada",
+        "Die Wirtschaft wandelte sich massiv vom reinen Casino-Fokus zur Erlebnis- und Gastronomiestadt",
+        "Der Las Vegas Strip beherbergt mehr als die Hälfte der weltweit größten Mega-Hotelkomplexe",
+        "Die Einnahmen aus gigantischen Kongressen und Messen machen einen massiven Anteil des Stadtumsatzes aus",
+        "In der Frühzeit (bis in die 1980er) war die Industrie massiv von der amerikanischen Mafia geprägt",
+        "Ist stark abhängig vom konstanten Zufluss von Flugtouristen und Besuchern aus Südkalifornien"
+      ]
+    },
+    {
+      "id": "port-of-new-orleans-economic-v2",
+      "descriptionAdvanced": "Der Hafen von New Orleans, nahe der Mündung des gewaltigen Mississippi Rivers in den Golf von Mexiko, ist ein entscheidender globaler Knotenpunkt für den Seehandel. Die historische Relevanz der Stadt basierte fast ausschließlich auf der Kontrolle dieser Mündung, was Präsident Thomas Jefferson 1803 zum Louisiana Purchase veranlasste, um den Hafen für amerikanische Güter zu sichern. Heute ist der Hafen ein massiver Umschlagplatz für Stahl, Naturkautschuk, Kaffee und insbesondere importierten Stahl. Er ist auch das unangefochtene Zentrum für Hochsee-Kreuzfahrten am Golf von Mexiko und der Startpunkt für die berühmten Schaufelraddampfer flussaufwärts. Nach massiven Schäden durch den Hurrikan Katrina 2005 wurde die Hafeninfrastruktur drastisch modernisiert, um widerstandsfähiger zu werden. Logistik K8 — Der Mississippi River als Transportweg für globale Güter.",
+      "factsAdvanced": [
+        "Die Kontrolle über diesen Hafen war der Hauptgrund für den amerikanischen Louisiana Purchase (1803)",
+        "Ist einer der absolut größten Importeure von Kaffee und Naturkautschuk in den Vereinigten Staaten",
+        "Dient als massiver Startpunkt für Karibik-Kreuzfahrten und historische Fluss-Dampfschiffe",
+        "Verbindet den Golf von Mexiko direkt mit dem gewaltigen Binnenschifffahrtsnetz des Mississippi",
+        "Verzeichnete durch Hurrikan Katrina (2005) katastrophale Schäden, ist heute aber extrem modernisiert",
+        "Das einzige US-Hafensystem mit direkter Anbindung an sechs große (Class I) Eisenbahnnetzwerke"
+      ]
+    },
+    {
+      "id": "seattle-aerospace-industry-economic-v2",
+      "descriptionAdvanced": "Die Luft- und Raumfahrtindustrie in Seattle, Washington, ist extrem eng mit der Geschichte der Boeing Company verknüpft, die hier 1916 von William Boeing gegründet wurde. Über Jahrzehnte hinweg machte Boeing die Region zum globalen Epizentrum der zivilen Luftfahrt. Das gigantische Boeing-Werk in Everett, in dem Großraumflugzeuge wie die 747 und 777 montiert wurden, ist nach Volumen das größte Gebäude der Welt. Obwohl Boeing seinen offiziellen Hauptsitz nach Chicago (und später Arlington) verlegte, bleibt die Region um Seattle (mit Werken in Everett und Renton) der massivste Produktionsstandort des Konzerns. Hunderte hochspezialisierte Zulieferbetriebe für Verbundwerkstoffe und Avionik stützen das Cluster, das zunehmend auch Vorreiter im Sektor der privaten Raumfahrt (Blue Origin) ist. Technik K8 — Flugzeugbau und das größte Fabrikgebäude der Welt.",
+      "factsAdvanced": [
+        "Die Boeing Company wurde 1916 in Seattle von dem Holzhändler William Boeing gegründet",
+        "Das Boeing-Werk in Everett ist nach Innenvolumen das größte Fabrikgebäude der Welt",
+        "Verantwortlich für die Entwicklung und den massiven Bau der legendären Boeing 737 und 747",
+        "Das Cluster wird durch Hunderte von spezialisierten Zulieferern im Staat Washington gestützt",
+        "Zieht zunehmend auch neue Player der kommerziellen Raumfahrt an (z.B. Blue Origin in Kent)",
+        "Trotz Verlagerung des Hauptsitzes bleibt die Produktion der Großraumjets in der Region massiv verankert"
+      ]
+    },
+    {
+      "id": "austin-tech-cluster-economic-v2",
+      "descriptionAdvanced": "Das Tech-Cluster in Austin, der Hauptstadt von Texas, wird aufgrund der vielen High-Tech-Unternehmen und Start-ups umgangssprachlich als 'Silicon Hills' bezeichnet. Dieses gigantische Wachstum begann in den 1980er Jahren mit der Ansiedlung von Forschungskonsortien wie Sematech und der Gründung von Dell, das in einem Studentenwohnheim der University of Texas at Austin seinen Anfang nahm. Die Universität ist der massive akademische Motor, der dieses Ökosystem stützt. Im 21. Jahrhundert zogen die im Vergleich zum echten Silicon Valley niedrigeren Lebenshaltungskosten, gepaart mit einer florierenden kulturellen Szene ('Live Music Capital of the World') und fehlender staatlicher Einkommenssteuer, Konzerne wie Tesla, Oracle und Apple massiv nach Austin, was die Stadt radikal transformierte. Wirtschaft K8 — Der Aufstieg von neuen Technologiezentren (Silicon Hills).",
+      "factsAdvanced": [
+        "Das Technologiezentrum der Region trägt den weit verbreiteten Spitznamen 'Silicon Hills'",
+        "Der Computer-Gigant Dell wurde in den 1980ern von Michael Dell an der University of Texas gegründet",
+        "Zog in jüngster Zeit globale Hauptsitze von Unternehmen wie Tesla und Oracle massiv an",
+        "Die University of Texas at Austin ist der absolute akademische Inkubator für das Cluster",
+        "Profitierte extrem von der Abwanderung von Unternehmen aus Kalifornien aufgrund von Steueranreizen",
+        "Die enorme Tech-Expansion führte jedoch zu einem massiven Anstieg der Immobilienpreise in Austin"
+      ]
+    },
+    {
+      "id": "mesa-verde-national-park-history-v2",
+      "descriptionAdvanced": "Der Mesa-Verde-Nationalpark, gelegen im zerklüfteten Südwesten von Colorado, schützt eine der besterhaltenen und spektakulärsten indigenen Siedlungsstätten Nordamerikas. Er wurde 1906 von Präsident Theodore Roosevelt explizit geschaffen, um die archäologischen Stätten der Ancestral Puebloans (früher Anasazi genannt) vor Plünderungen zu bewahren. Das absolut herausragendste Merkmal sind die fast 600 gigantischen Klippenbehausungen ('Cliff Dwellings'), darunter der berühmte 'Cliff Palace', die in den steilen Felswänden der Canyons aus Sandstein und Adobe-Lehm erbaut wurden. Diese hochkomplexen Dörfer wurden zwischen dem späten 12. und 13. Jahrhundert bewohnt, bevor das Gebiet aus noch immer nicht vollständig geklärten Gründen, vermutlich wegen einer katastrophalen anhaltenden Dürre, radikal verlassen wurde. Geschichte K7 — Die Architektur der Pueblo-Kulturen vor der europäischen Ankunft.",
+      "factsAdvanced": [
+        "Schützt einige der besterhaltenen archäologischen Stätten der amerikanischen Ureinwohner",
+        "Der Park umfasst fast 600 massive Klippenbehausungen (Cliff Dwellings)",
+        "Der 'Cliff Palace' ist die größte und bekannteste Felsensiedlung Nordamerikas",
+        "Die Ancestral Puebloans verließen die komplexe Region im 13. Jahrhundert massiv (vermutlich durch Dürre)",
+        "Wurde 1906 als erster Nationalpark explizit zum Schutz archäologischer Werke in den USA gegründet",
+        "Gilt seit 1978 als offizielles UNESCO-Weltkulturerbe"
+      ]
+    },
+    {
+      "id": "cahokia-mounds-history-v2",
+      "descriptionAdvanced": "Die Cahokia Mounds State Historic Site liegt im Süden des Bundesstaates Illinois, direkt gegenüber von St. Louis am Mississippi River. Sie bewahrt die Überreste der größten präkolumbianischen Siedlung nördlich von Mexiko, der absolut dominanten Metropole der historischen Mississippi-Kultur. Auf ihrem Höhepunkt um das Jahr 1200 besaß diese indigene Großstadt eine gigantische Ausdehnung und eine Bevölkerung (bis zu 20.000 Menschen), die London zu dieser Zeit in den Schatten stellte. Das Herzstück der Anlage ist der gewaltige Monks Mound, eine über 30 Meter hohe terrassierte Erhebung, die vollständig von Hand aus Erde aufgeschüttet wurde und als Sitz des Herrschers diente. Das Gelände beweist eindrucksvoll die enormen landwirtschaftlichen und architektonischen Fähigkeiten der Ureinwohner. Geschichte K7 — Indigene Großstädte der Mississippi-Kultur vor 1492.",
+      "factsAdvanced": [
+        "Die größte bekannte präkolumbianische indigene Stadt nördlich von Mexiko",
+        "Das Zentrum der Mississippi-Kultur mit einer Bevölkerung von schätzungsweise 20.000 Menschen im Jahr 1200",
+        "Monks Mound ist die gewaltigste prähistorische Erdpyramide in ganz Amerika",
+        "Cahokia verfügte über den 'Woodhenge', einen massiven Holzkreis zur astronomischen Kalenderbeobachtung",
+        "Die Stadt wurde um 1350 aus bis heute nicht vollständig geklärten Gründen völlig aufgegeben",
+        "Seit 1982 ein geschütztes und anerkanntes UNESCO-Weltkulturerbe"
+      ]
+    },
+    {
+      "id": "jamestown-settlement-history-v2",
+      "descriptionAdvanced": "Das Jamestown Settlement in Virginia war die erste dauerhaft erfolgreiche englische Kolonie auf dem nordamerikanischen Kontinent, gegründet im Jahr 1607 von der Virginia Company of London. Die frühen Jahre der auf einer sumpfigen Insel liegenden Siedlung waren geprägt von katastrophalen Misserfolgen, Krankheiten, Konflikten mit der indigenen Powhatan-Konföderation und einer schrecklichen Hungerperiode ('Starving Time'). Das Überleben der Kolonie wurde maßgeblich durch die strenge Führung von John Smith und die spätere Einführung des extrem lukrativen Tabakanbaus durch John Rolfe gesichert. 1619 traf hier zudem das erste Schiff mit versklavten Afrikanern in Nordamerika ein, was den düsteren Beginn der institutionellen Sklaverei in den englischen Kolonien markierte. Geschichte K8 — Das Überleben der ersten englischen Siedler und der Tabakanbau.",
+      "factsAdvanced": [
+        "Gegründet 1607, gilt es als erste dauerhafte englische Kolonie in Nordamerika",
+        "Beinahe gescheitert an Hunger, Krankheit und der desaströsen 'Starving Time' (1609-1610)",
+        "Das finanzielle Überleben wurde durch den lukrativen Tabakanbau unter John Rolfe gesichert",
+        "Ort der legendären Interaktion zwischen den Kolonisten und der indigenen Prinzessin Pocahontas",
+        "1619 landete hier historisch belegt das erste Schiff mit versklavten Menschen aus Afrika",
+        "Beherbergte mit dem House of Burgesses (1619) das erste repräsentative Parlament Nordamerikas"
+      ]
+    }
+  ]
+}

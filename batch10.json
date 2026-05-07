@@ -1,0 +1,135 @@
+{
+  "lang": "en",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "essequibo-rainforests-relief-v2",
+      "descriptionAdvanced": "The Essequibo Rainforests form the absolute, staggering core of Guyana's interior, encompassing millions of acres of pristine, unbroken primary tropical jungle. This massive ecological biome flanks the entire length of the mighty Essequibo River, stretching from the sandy hills of the near interior to the deeply remote, uncharted Acarai Mountains in the extreme south. Characterized by a terrifyingly dense, multi-layered canopy of towering Greenheart and Mora trees, the forest is an absolute fortress of biodiversity. The region is largely impenetrable, devoid of major roads, and completely dominates the nation's geography, harboring massive apex predators like the jaguar and providing the crucial, undisturbed habitat necessary to regulate regional weather patterns.",
+      "factsAdvanced": [
+        "Forms the absolute, staggering core of Guyana's massive interior jungle.",
+        "Encompasses millions of acres of pristine, completely unbroken primary rainforest.",
+        "Flanks the entire length of the mighty, 1000-kilometer-long Essequibo River.",
+        "Characterized by a terrifyingly dense, multi-layered canopy of towering ancient trees.",
+        "Largely impenetrable and completely devoid of major paved road infrastructure.",
+        "An absolute fortress of biodiversity, harboring dense populations of massive apex predators."
+      ]
+    },
+    {
+      "id": "rupununi-savanna-relief-v2",
+      "descriptionAdvanced": "The Rupununi Savanna is a massive, visually stunning expanse of open tropical grassland dominating southwestern Guyana. Covering over 5,000 square miles, this incredibly dramatic biome is violently bisected by the deeply forested Kanuku Mountains. The savannah experiences an extreme, almost violent bipolar climate; during the intense dry season, it is a parched, dusty expanse, but the torrential monsoons transform it into a massive, shallow inland sea. This staggering environmental shift forces the incredibly unique, highly resilient wildlife—such as the massive giant anteater—to adapt constantly. The region is the cultural stronghold of the Makushi and Wapishana indigenous peoples and hosts the deeply traditional Guyanese cattle ranching industry.",
+      "factsAdvanced": [
+        "A massive, visually stunning expanse of open tropical grassland in the southwest.",
+        "Covers an immense, sweeping area of over 5,000 square miles.",
+        "Violently and dramatically bisected by the deeply forested Kanuku Mountain range.",
+        "Experiences an extreme climate, transforming into a massive inland sea during monsoons.",
+        "The absolute premier habitat for highly resilient wildlife like the massive giant anteater.",
+        "The cultural stronghold of indigenous tribes and deeply traditional cattle ranching."
+      ]
+    },
+    {
+      "id": "white-sand-plateau-relief-v2",
+      "descriptionAdvanced": "The White Sand Plateau, geologically known as the Zanderij formation, is a massive, incredibly unique geological zone that acts as a vast buffer between the muddy coastal plains and the dense interior rainforests. Stretching across central Guyana, the terrain is characterized by rolling hills of incredibly pure, deeply infertile quartz white sand. Despite the harsh, nutrient-poor soil, the plateau supports specialized 'wallaba' forests—towering trees highly adapted to the extreme drainage of the sand. The plateau is the absolute economic heartland of Guyana's massive bauxite mining industry, as the incredibly high-grade ore lies just beneath the sandy surface. It is traversed by the vital, heavily heavily utilized Linden-Soesdyke Highway.",
+      "factsAdvanced": [
+        "A massive, highly unique geological zone acting as a buffer to the deep interior.",
+        "Characterized by rolling hills of incredibly pure, deeply infertile quartz white sand.",
+        "Supports highly specialized, deeply adapted 'wallaba' forests.",
+        "The absolute economic heartland of Guyana's massive, historic bauxite mining industry.",
+        "High-grade bauxite ore lies directly beneath the heavily drained, sandy surface.",
+        "Traversed centrally by the vital, heavily utilized Linden-Soesdyke Highway."
+      ]
+    },
+    {
+      "id": "demerara-coastal-plain-relief-v2",
+      "descriptionAdvanced": "The Demerara Coastal Plain is the incredibly narrow, deeply flat, and fiercely engineered strip of land bordering the Atlantic Ocean, where over 90% of Guyana's population resides. The region is a massive geographical anomaly, lying approximately two meters below sea level at high tide. Its existence and survival depend entirely on a staggering, highly complex network of massive concrete seawalls, Dutch-engineered drainage canals, and heavy sluice gates (kokers). Historically a massive swamp, the highly fertile marine clay was brutally transformed into the powerhouse of the colonial sugar economy. Today, it remains the absolute political, commercial, and agricultural center of the nation, constantly battling the massive, terrifying threat of Atlantic flooding.",
+      "factsAdvanced": [
+        "An incredibly narrow, deeply flat coastal strip bordering the violent Atlantic Ocean.",
+        "Lies approximately two meters absolutely below sea level at high tide.",
+        "Home to over 90% of Guyana's massive population and its capital city.",
+        "Survival depends entirely on a staggering, highly complex network of massive seawalls.",
+        "Historically transformed from a massive swamp into a fertile sugar and rice powerhouse.",
+        "Constantly battles the massive, terrifying, and existential threat of coastal flooding."
+      ]
+    },
+    {
+      "id": "mazaruni-rainforests-relief-v2",
+      "descriptionAdvanced": "The Mazaruni Rainforests form a staggeringly vast, deeply rugged, and heavily exploited jungle biome located in the west-central interior of Guyana. Flanking the massive, fast-flowing Mazaruni River, the terrain is characterized by incredibly steep ridges, deep, pitch-black valleys, and impenetrable primary jungle. This region is the absolute, undisputed epicenter of the nation's intense diamond and gold mining industries. Decades of aggressive, highly mechanized hydraulic dredging have violently scarred significant portions of the riverbanks. Despite the severe industrial intrusion, the incredibly dense forests extending away from the river remain terrifyingly wild, harboring uncatalogued biodiversity and serving as the fierce ancestral territory of the Akawaio indigenous people.",
+      "factsAdvanced": [
+        "A staggeringly vast, deeply rugged jungle biome in the west-central interior.",
+        "Flanks the massive, fast-flowing Mazaruni River and its highly treacherous valleys.",
+        "The absolute, undisputed epicenter of Guyana's intense gold and diamond mining.",
+        "Decades of aggressive, mechanized dredging have violently scarred the immediate riverbanks.",
+        "The dense forests away from the rivers remain terrifyingly wild and deeply unexplored.",
+        "Serves as the fierce, deeply isolated ancestral territory of the Akawaio people."
+      ]
+    },
+    {
+      "id": "berbice-savanna-relief-v2",
+      "descriptionAdvanced": "The Berbice Savanna, often referred to as the Intermediate Savannahs, is a massive, highly challenging, and deeply isolated ecological transition zone located inland between the coastal plains and the dense interior jungle. Unlike the vast Rupununi, the Berbice Savannah features undulating, rolling terrain characterized by deeply infertile, highly acidic brown and white sands. The vegetation consists of incredibly sparse, resilient scrub-brush and coarse grasses. For decades, the government has utilized this harsh, sweeping landscape as a massive testing ground for aggressive, large-scale agricultural and livestock research, notably at the Ebini and Kimbia stations, pushing the absolute limits of commercial farming in deeply hostile tropical soils.",
+      "factsAdvanced": [
+        "A massive, highly challenging ecological transition zone located inland in Berbice.",
+        "Features undulating terrain composed of deeply infertile, highly acidic sandy soils.",
+        "The vegetation is sparse, consisting of incredibly resilient scrub-brush and coarse grass.",
+        "A massive, historic testing ground for aggressive, large-scale agricultural research.",
+        "Hosts the historic Ebini and Kimbia experimental farming and livestock stations.",
+        "Pushes the absolute limits of commercial farming in deeply hostile tropical environments."
+      ]
+    },
+    {
+      "id": "upper-takutu-forest-relief-v2",
+      "descriptionAdvanced": "The Upper Takutu Forest constitutes a massive, profoundly remote section of extreme southern Guyana, deeply blanketing the foothills of the Kanuku and Acarai mountain ranges. This staggering expanse of primary tropical jungle borders the Brazilian Amazon and serves as the deeply pristine, virtually untouched watershed for the massive Takutu and Essequibo rivers. The incredible density of the forest makes it an absolute biological fortress, heavily shielding some of the highest concentrations of massive harpy eagles and jaguars on the continent. The region is largely inaccessible by any modern road, deeply protected by the surrounding indigenous Wapishana and Wai-Wai communities, maintaining an ancient, terrifyingly wild ecological purity.",
+      "factsAdvanced": [
+        "A massive, profoundly remote primary forest in the extreme south of Guyana.",
+        "Deeply blankets the highly rugged foothills of the Kanuku and Acarai mountain ranges.",
+        "Serves as the pristine, entirely untouched watershed for the massive Takutu River.",
+        "An absolute biological fortress shielding the highest concentrations of apex predators.",
+        "Largely inaccessible by any modern road infrastructure, remaining completely pristine.",
+        "Deeply protected by the surrounding indigenous Wapishana and Wai-Wai communities."
+      ]
+    },
+    {
+      "id": "barima-waini-mangrove-forests-relief-v2",
+      "descriptionAdvanced": "The Barima-Waini Mangrove Forests represent a massive, terrifyingly dense, and deeply crucial coastal ecosystem dominating the extreme northwestern coastline of Guyana. Spanning hundreds of square miles, this incredibly chaotic, deeply flooded labyrinth of massive, stilt-rooted mangrove trees forms an impenetrable green wall against the violent Atlantic Ocean. This staggering biome is not only the ultimate natural defense against coastal erosion but serves as a massive, highly productive aquatic nursery for commercial fish, crab, and shrimp species. The deep, dark, swampy environment is utterly hostile to human settlement, making it a pristine, deeply isolated sanctuary for specialized, mud-dwelling wildlife and massive coastal caimans.",
+      "factsAdvanced": [
+        "A massive, terrifyingly dense coastal ecosystem in the extreme northwestern region.",
+        "Forms an incredibly chaotic, deeply flooded labyrinth of massive stilt-rooted trees.",
+        "The ultimate, impenetrable natural defense against violent Atlantic coastal erosion.",
+        "Serves as a massive, highly productive aquatic nursery for commercial marine species.",
+        "An utterly hostile environment for human settlement, ensuring pristine isolation.",
+        "A critical sanctuary for specialized mud-dwelling wildlife and massive coastal caimans."
+      ]
+    },
+    {
+      "id": "cuyuni-mazaruni-highlands-relief-v2",
+      "descriptionAdvanced": "The Cuyuni-Mazaruni Highlands represent the most violently rugged, heavily elevated, and geologically terrifying terrain in all of Guyana. Forming the ancient, deeply eroded core of the Guiana Shield, the region is characterized by staggering, vertical sandstone tepuis (table-top mountains), sheer, pitch-black gorges, and deeply entrenched river valleys. This massive highland fortress generates the country's most intense, powerful waterfalls as torrential rains plummet off the sheer escarpments. The incredibly hostile terrain has fiercely repelled large-scale modern infrastructure, keeping the highlands deeply isolated. It is an absolute paradise for elite global geologists and a terrifying, untouched wilderness governed by the indigenous Akawaio and Arekuna peoples.",
+      "factsAdvanced": [
+        "The most violently rugged, heavily elevated, and geologically extreme terrain in Guyana.",
+        "Forms the deeply ancient, heavily eroded core of the massive Guiana Shield.",
+        "Characterized by staggering, vertical tepuis and sheer, pitch-black river gorges.",
+        "The sheer escarpments generate the country's most intense, powerful waterfalls.",
+        "The incredibly hostile terrain has fiercely repelled all large-scale modern infrastructure.",
+        "A terrifyingly wild, deeply isolated wilderness governed by indigenous nations."
+      ]
+    },
+    {
+      "id": "kaieteur-plateau-relief-v2",
+      "descriptionAdvanced": "The Kaieteur Plateau is a massive, heavily elevated sandstone plain situated high in the Pakaraima Mountains of the Potaro-Siparuni region. This staggering geological formation acts as a massive, high-altitude sponge, capturing immense volumes of tropical rainfall that eventually converge into the raging Potaro River. The plateau's absolute defining feature is its sheer, terrifying eastern edge, where the Potaro violently drops 226 meters into a deep, heavily forested gorge, creating the globally renowned Kaieteur Falls. The plateau itself is an isolated, highly specialized micro-ecology, featuring stunted scrub vegetation and bizarre, highly endemic carnivorous plants. It is a legally protected, awe-inspiring monument of raw, ancient geological power.",
+      "factsAdvanced": [
+        "A massive, heavily elevated sandstone plain high in the Pakaraima Mountains.",
+        "Acts as a massive, high-altitude sponge capturing immense volumes of tropical rainfall.",
+        "The sheer eastern edge creates the globally renowned, 226-meter Kaieteur Falls.",
+        "Features a highly specialized, deeply isolated micro-ecology of stunted vegetation.",
+        "Hosts a staggering array of bizarre, highly endemic carnivorous plant species.",
+        "A legally protected, awe-inspiring monument of raw, ancient Guiana Shield geology."
+      ]
+    }
+  ]
+}

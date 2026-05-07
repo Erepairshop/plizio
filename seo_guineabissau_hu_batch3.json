@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "eticoga-cities-v2",
+      "descriptionAdvanced": "Eticoga a Bijagós-szigetcsoport egyik legismertebb szigetén, Orango-n található, és a szigetvilág egyik legfontosabb kulturális és történelmi helyszíne. Itt élt és uralkodott a híres Pampa Kanjimpa királynő, a bijagó történelem utolsó szuverén uralkodója, aki a 20. század elején békeszerződést kötött a portugálokkal. Sírja ma is megtekinthető a faluban, és fontos zarándokhely a helyiek számára. A település az Orango Nemzeti Park része, ahol a látogatók egyedülálló, sós vízhez alkalmazkodott vízilovakat figyelhetnek meg. A közösség élete szorosan összefonódik a tenger ritmusával és a matriarchális hagyományokkal. Történelem K8 — afrikai női uralkodók.",
+      "factsAdvanced": [
+        "Orango szigetén, a Bijagós-szigetcsoportban található.",
+        "A híres Pampa Kanjimpa királynő egykori székhelye.",
+        "A királynő történelmi jelentőségű sírja a faluban látogatható.",
+        "Az Orango Nemzeti Park központi települése.",
+        "A környéken sós vízhez alkalmazkodott vízilovak (manátuszok) élnek.",
+        "A bijagó társadalom hagyományos matriarchális berendezkedése ma is él."
+      ]
+    },
+    {
+      "id": "abu-cities-v2",
+      "descriptionAdvanced": "Abu egy kisméretű, elszigetelt település a Bijagós-szigetcsoport egyik kevésbé látogatott szigetén. A lakosok főként önellátó mezőgazdaságból, pálmabor-készítésből és partmenti halászatból tartják fenn magukat. A modernizáció elől elzárt szigetvilágban Abu megőrizte a hagyományos afrikai szigeti életmód szinte minden elemét, az építkezéstől kezdve a vallási rítusokig. A közösség szigorú animista szabályok szerint él, amelyek szabályozzák az erdő használatát és a halászati szezonokat. A település körül fekvő mangrovék fontos szaporodóhelyet biztosítanak a tengeri halaknak. Környezetismeret K6 — szigeti ökoszisztémák.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport egyik kevésbé turisztikai települése.",
+        "A gazdaság a halászatra és az önellátó mezőgazdaságra épül.",
+        "Az építészet jórészt hagyományos sár- és pálmalevélházakból áll.",
+        "A közösséget szigorú animista hiedelmek és rítusok irányítják.",
+        "A part menti mangrove-erdők érintetlenek és biológiailag gazdagok.",
+        "Modern infrastruktúra, például vezetékes áram vagy víz, nem jellemző."
+      ]
+    },
+    {
+      "id": "prabis-cities-v2",
+      "descriptionAdvanced": "Prábis egy Bissau agglomerációjához tartozó település, amely a fővárostól nyugatra, a Biombo régió irányában fekszik. A város jelentős szerepet játszik Bissau élelmiszer-ellátásában, különösen a friss zöldségek, gyümölcsök (főleg mangó) és halászati termékek piacra juttatásában. Prábis tengerparti része mangrove-erdőkkel övezett, ahol a helyi asszonyok hagyományosan osztrigát gyűjtenek. A függetlenségi háború során a portugál légierő egyik bázisa volt a közelben, de ma már teljesen a mezőgazdaság és az ingázó életmód határozza meg a mindennapokat. Társadalomföldrajz K7 — fővárosi agglomerációk.",
+      "factsAdvanced": [
+        "Bissau főváros közvetlen nyugati szomszédságában található.",
+        "Fontos szerepet tölt be a főváros zöldség- és gyümölcsellátásában.",
+        "Partvidéke sűrű mangrove-erdőkkel borított.",
+        "Az osztrigagyűjtés a helyi nők egyik fő megélhetési forrása.",
+        "A papel és balanta etnikumok aránya a legmagasabb.",
+        "Közelsége miatt sokan ingáznak Bissau-ba dolgozni."
+      ]
+    },
+    {
+      "id": "biombo-cities-v2",
+      "descriptionAdvanced": "Biombo az azonos nevű part menti régió névadó városa, amely a fővárostól, Bissau-tól nyugatra, egy félszigeten helyezkedik el. A település és környéke a papel etnikai csoport történelmi magterülete. Gazdasága sokrétű: a hagyományos pálmaolaj- és pálmabor-készítés mellett a halászat, a sólepárlás és az ártéri rizstermesztés is meghatározó. Biombo klímája nedvesebb, mint az ország belső területeié, ami buja, trópusi növényzetet eredményez. A város megőrizte hagyományos afrikai arculatát, miközben folyamatos gazdasági kapcsolatban áll Bissau hatalmas felvevőpiacával. Földrajz K7 — trópusi partvidékek.",
+      "factsAdvanced": [
+        "A Biombo régió névadó települése.",
+        "A papel etnikum történelmi és kulturális központja.",
+        "Gazdasága a halászaton, sólepárláson és rizstermesztésen alapul.",
+        "A hagyományos pálmabor-készítés fontos helyi iparág.",
+        "A főváros, Bissau jelentős piaca a helyi termékeknek.",
+        "Trópusi, buja növényzetű partmenti síkság veszi körül."
+      ]
+    },
+    {
+      "id": "cumura-cities-v2",
+      "descriptionAdvanced": "Cumura a Biombo régió egyik legfontosabb városa, mindössze néhány kilométerre Bissau-tól. A település leginkább a katolikus misszió által fenntartott Cumura Kórházról és Leprakórházról (Hospital de Cumura) ismert, amely az ország egyik legfontosabb egészségügyi intézménye, különösen a fertőző betegségek kezelésében. Cumura társadalma a vallási tolerancia példája, ahol a katolikus misszió és a helyi animista, illetve iszlám közösségek békében élnek. A mezőgazdaságban a kesudió és a mangó termesztése dominál. A közlekedési infrastruktúra viszonylag jó Bissau közelsége miatt. Társadalomismeret K8 — egészségügy Afrikában.",
+      "factsAdvanced": [
+        "A Biombo régióban, Bissau közelében fekszik.",
+        "Itt működik az ország legfontosabb leprakórháza és missziós kórháza.",
+        "A katolikus egyház jelenléte és szociális munkája kiemelkedő.",
+        "A kesudió és a mangó a két legfontosabb bevételi forrás.",
+        "Kiváló közlekedési kapcsolatokkal rendelkezik Bissau irányába.",
+        "Példaértékű a vallási csoportok (katolikus, iszlám, animista) békés együttélése."
+      ]
+    },
+    {
+      "id": "sao-domingos-cities-v2",
+      "descriptionAdvanced": "São Domingos (Sao Domingos) az ország egyik legforgalmasabb és legfontosabb városa, amely a Cacheu régió északi határán fekszik, közvetlenül a fő határátkelőnél Szenegál (Casamance) felé. A település élénk tranzit- és kereskedelmi központ, ahol a szenegáli áruk belépnek az országba, a guineai mezőgazdasági termékek pedig elhagyják azt. Lakossága több etnikumból (diola, manzacu, balanta, mandinka) tevődik össze, ami egy nyüzsgő, multikulturális légkört teremt. A város gazdasága nagymértékben függ a határforgalomtól, a vámtól és az informális kereskedelemtől. A casamance-i konfliktus idején fontos menedék- és tranzitállomás volt. Földrajz K8 — nemzetközi kereskedelem.",
+      "factsAdvanced": [
+        "Bissau-Guinea legfontosabb északi határátkelőhelye Szenegál felé.",
+        "A Cacheu régió kiemelt tranzit- és kereskedelmi központja.",
+        "A lakosság sokszínű, többek között diola és manzacu etnikumokból áll.",
+        "A helyi gazdaságot a nemzetközi áruforgalom és a határkereskedelem hajtja.",
+        "A casamance-i konfliktus (Szenegál) jelentősen befolyásolta a történelmét.",
+        "Rendkívül forgalmas piaca (lumo) vonzza a határon túli kereskedőket is."
+      ]
+    },
+    {
+      "id": "varela-cities-v2",
+      "descriptionAdvanced": "Varela az ország legészaknyugatibb csücskében található kis partmenti város, közvetlenül a szenegáli határ közelében. A település országosan ismert fenyőfákkal (casuarina) szegélyezett gyönyörű, hosszú homokos strandjairól, amelyek teljesen elütnek a mangrove-dominálta guineai partvidéktől. Bár a turisztikai potenciálja hatalmas, a rossz minőségű földutak miatt az utazás nehézkes, különösen az esős évszakban. Varela közelében gazdag nehézásvány-homok (cirkon, ilmenit) lelőhelyek is találhatók, amelyek kiaknázása komoly környezetvédelmi aggályokat vet fel. A helyi közösség főként halászatból és mezőgazdaságból él. Földrajz K7 — tengerparti erózió és turizmus.",
+      "factsAdvanced": [
+        "Bissau-Guinea legészaknyugatibb partmenti települése.",
+        "Különleges, fenyőfákkal szegélyezett homokos strandokkal rendelkezik.",
+        "Nagy turisztikai potenciállal bír, de az infrastruktúra fejletlen.",
+        "A közelben jelentős nehézásvány-homok (cirkon, titán) lelőhelyek vannak.",
+        "A felata és diola etnikumok jelentős számban képviseltetik magukat.",
+        "Az utazás a szárazföld belsejéből az esős évszakban nagy kihívást jelent."
+      ]
+    },
+    {
+      "id": "bula-cities-v2",
+      "descriptionAdvanced": "Bula a Cacheu régió egy fontos, viszonylag nagy méretű és forgalmas tranzitvárosa. Stratégiai fekvése van a Bissau-t és São Domingos határállomást összekötő fő aszfaltozott úton, így az észak-déli irányú kereskedelem és személyszállítás központja. A város mezőgazdasági termelésében a kesudió kiemelkedő szerepet játszik; a szüret idején Bula az ország egyik legnagyobb kesudió-piacává válik. A lakosság zöme manzacu és balanta származású, akiknek animista rítusai és maszkos táncai a helyi kultúra elválaszthatatlan részei. Bula fejlődését az aszfaltozott úthálózat jelentősen felgyorsította az elmúlt évtizedben. Társadalomföldrajz K7 — közlekedési csomópontok.",
+      "factsAdvanced": [
+        "A Bissau-t és az északi határt összekötő főútvonal mentén fekszik.",
+        "Az ország egyik legforgalmasabb tranzit- és kereskedelmi városa.",
+        "A kesudió-termesztés és kereskedelem fő regionális központja.",
+        "A manzacu és balanta etnikumok adják a lakosság gerincét.",
+        "Kulturális élete gazdag hagyományos táncokban és maszkos rítusokban.",
+        "Az úthálózat javulásával gyors urbanizációs fejlődésnek indult."
+      ]
+    },
+    {
+      "id": "jolmete-cities-v2",
+      "descriptionAdvanced": "Jolmete egy kisebb, hagyományőrző település a Cacheu régióban, Canchungo várostól nem messze. A település a manzacu népcsoport szívében helyezkedik el, és szigorúan őrzi animista gyökereit. A falut sűrű pálmaerdők veszik körül, amelyekből a helyiek nemcsak pálmabort, hanem a mindennapi élethez szükséges pálmaolajat is előállítják. A függetlenségi háború éveiben Jolmete térsége is intenzív harcok helyszíne volt, de mára visszatért a békés mezőgazdasági életmódhoz. A helyi közösség társadalmi élete az ősök tisztelete és a természeti erőforrások közös használata köré szerveződik. Kulturális antropológia K6 — hagyományos közösségek.",
+      "factsAdvanced": [
+        "A Cacheu régió egy kisebb, hagyományőrző manzacu települése.",
+        "Canchungo város szomszédságában, sűrű pálmaerdőkben fekszik.",
+        "A pálmabor- és pálmaolaj-készítés a fő megélhetési forrás.",
+        "Az animista vallási rituálék és ősök tisztelete erősen jelen van.",
+        "A függetlenségi háború nyomait a helyiek történetei őrzik.",
+        "A társadalom alapja a természeti erőforrások közös, fenntartható használata."
+      ]
+    },
+    {
+      "id": "farim-phosphatmine-economic-v2",
+      "descriptionAdvanced": "A Farim közeli foszfátbánya projekt Bissau-Guinea egyik legnagyobb gazdasági reménysége. Az Oio régióban található lelőhely a világ egyik legmagasabb minőségű (P2O5 tartalmú) és legkönnyebben kitermelhető foszfátkészlete. A terület mintegy 110 millió tonna magas tisztaságú foszfátércet rejt, amely elengedhetetlen a globális műtrágyagyártáshoz. A kitermeléshez kapcsolódóan tervezik egy folyami mélyvízi kikötő építését a Cacheu-folyón, hogy az ércet nemzetközi piacokra exportálhassák. Bár a bánya hatalmas bevételeket ígér, komoly környezetvédelmi aggályokat is felvet a környező mangrove-erdők és a folyó vízminősége miatt. Kémia K8 — foszfátok és műtrágyaipar.",
+      "factsAdvanced": [
+        "A világ egyik legmagasabb tisztaságú foszfátlelőhelye.",
+        "Becsült készlete meghaladja a 110 millió tonnát.",
+        "A nyersanyag a globális műtrágyaipar számára kulcsfontosságú.",
+        "A projekt a Cacheu-folyó mentén új kikötői infrastruktúrát igényel.",
+        "Jelentős gazdasági bevételt jelenthet Bissau-Guinea számára.",
+        "Környezeti kockázatot jelent a helyi mangrove-ökoszisztémára."
+      ]
+    },
+    {
+      "id": "boe-bauxitmine-economic-v2",
+      "descriptionAdvanced": "A Boé-hegység (Colinas de Boé) bauxitbányája az ország délkeleti részén, a Gabú régióban található. A bauxit az alumíniumgyártás alapanyaga, és a térségben hatalmas, becslések szerint több mint 100 millió tonnás kiaknázatlan készlet rejtőzik. A bányászat beindítását évtizedek óta tervezik külföldi (főként kínai és orosz) befektetők bevonásával, ám az infrastruktúra — például az utak és egy Buba-ban építendő mélyvízi kikötő — hiánya folyamatosan késlelteti a projektet. A bányászat beindulása drasztikusan átalakítaná az ország gazdaságát, de egyben veszélyeztetné a Boé régió érintetlen, ritka csimpánzpopulációt rejtő erdeit. Földrajz K8 — alumíniumipar és környezetvédelem.",
+      "factsAdvanced": [
+        "A Boé-hegységben hatalmas bauxitkészletek (alumíniumérc) találhatók.",
+        "A becsült érckészlet meghaladja a 100 millió tonnát.",
+        "A kitermelést Buba város tervezett mélyvízi kikötőjéhez kapcsolnák.",
+        "A projektet évtizedek óta hátráltatja a rossz infrastruktúra.",
+        "Főként ázsiai (kínai, orosz) befektetők érdeklődnek a terület iránt.",
+        "A bányászat fenyegeti a régió sérülékeny trópusi esőerdeit."
+      ]
+    },
+    {
+      "id": "varela-schwermineralsand-economic-v2",
+      "descriptionAdvanced": "A Varela parti sávjában és sekély vizeiben található nehézásvány-homok (Heavy Mineral Sands) kiaknázása az ország egyik új bányászati projektje. A homok magas koncentrációban tartalmaz cirkont, rutilt és ilmenitet, amelyeket a globális ipar elsősorban titándioxid-pigmentek és kerámiák gyártására használ. A kitermelés külföldi bányatársaságok irányításával zajlik, de a tevékenység komoly konfliktusokat szült a helyi közösségekkel és a környezetvédőkkel. A parti sáv túlzott bányászata súlyosbíthatja a tengerparti eróziót, veszélyeztetve a halászatot és tönkretéve Varela híres homokos strandjait. Kémia K8 — nehézfémek és ásványi homok.",
+      "factsAdvanced": [
+        "Varela tengerpartján cirkon, rutil és ilmenit található a homokban.",
+        "Ezek az ásványok a globális kerámia- és titánipar számára fontosak.",
+        "A bányászati jogokat külföldi vállalatok gyakorolják.",
+        "A kitermelés súlyos partmenti eróziót és környezeti károkat okozhat.",
+        "A projekt komoly ellenállást váltott ki a helyi halászközösségekből.",
+        "Veszélyezteti Varela egyedülálló, fenyőkkel övezett turisztikai partvidékét."
+      ]
+    },
+    {
+      "id": "bissau-cicer-brauerei-economic-v2",
+      "descriptionAdvanced": "A CICER (Companhia Industrial de Cervejas e Refrigerantes) sörfőzde Bissau egyik legrégebbi és legikonikusabb ipari létesítménye. Az 1973-ban, még a gyarmati idők végén alapított üzem évtizedekig a Pito nevű helyi sör és különböző üdítőitalok gyártója volt. A 1998-as polgárháború és a gazdasági instabilitás miatt a termelés hosszú időre leállt, de a közelmúltban, külföldi befektetők bevonásával az üzem modernizációja és újraindítása megkezdődött. A CICER a nemzeti iparosodás szimbóluma, és a sörfőzés újraindulása nemcsak munkahelyeket teremt, hanem csökkenti az importfüggőséget is az italpiacon. Fizika K7 — ipari folyamatok és palackozás.",
+      "factsAdvanced": [
+        "1973-ban alapították a portugál gyarmati idők utolsó évében.",
+        "Bissau-Guinea legismertebb sör- és üdítőital-gyártó üzeme.",
+        "Leghíresebb helyi terméke történelmileg a 'Pito' sör volt.",
+        "A termelés a 90-es évek végén a polgárháború miatt leállt.",
+        "Külföldi befektetésekkel jelenleg a modernizációja zajlik.",
+        "Fontos szerepe van a helyi élelmiszeripar újjáélesztésében."
+      ]
+    },
+    {
+      "id": "bissau-kraftwerk-economic-v2",
+      "descriptionAdvanced": "A Bissaui Erőmű (Central Elétrica de Bissau) az ország fővárosának és legfontosabb gazdasági központjának áramellátásáért felelős létesítmény. Bissau-Guinea energiainfrastruktúrája hagyományosan gyenge, az áramkimaradások mindennaposak. Az erőmű elsősorban importált dízelolajjal és nehéz fűtőolajjal működő generátorokra támaszkodik, ami rendkívül drágává és környezetszennyezővé teszi a termelést. Az elmúlt években nemzetközi donorok (Világbank, BOAD) segítségével jelentős fejlesztések történtek, új kapacitások épültek be, hogy stabilizálják a főváros ellátását. Bár a megújuló energiák is terjednek, a hőerőmű marad az alapellátás gerince. Fizika K8 — hőerőművek és energiatermelés.",
+      "factsAdvanced": [
+        "Bissau főváros elsődleges áramszolgáltató létesítménye.",
+        "Dízel és nehéz fűtőolaj égetésével működő generátorokat használ.",
+        "Működése drága és erősen függ az importált fosszilis tüzelőanyagoktól.",
+        "A közelmúltban nemzetközi segítséggel modernizálták és bővítették.",
+        "A stabil áramellátás hiánya évtizedekig gátolta az ipari fejlődést.",
+        "Az ország az OMVG (Nyugat-afrikai) energiahálózatához is csatlakozik."
+      ]
+    },
+    {
+      "id": "industriezone-bra-economic-v2",
+      "descriptionAdvanced": "A Brá Ipari Zóna (Zona Industrial de Brá) Bissau város peremén található, és az ország legfontosabb könnyűipari, valamint logisztikai központja. A terület számos kisebb gyárnak, raktárnak és műhelynek ad otthont, amelyek többek között élelmiszer-feldolgozással, építőanyagok gyártásával (blokktéglák, fémszerkezetek) és gépjárműjavítással foglalkoznak. A zóna elhelyezkedése stratégiai, mivel közel van a főváros kikötőjéhez és az ország belseje felé vezető főutakhoz. Bár az infrastruktúra helyenként elavult, a Brá Ipari Zóna az ország ipari diverzifikációjának és a külföldi befektetések vonzásának elsődleges helyszíne. Gazdaságföldrajz K8 — ipari parkok.",
+      "factsAdvanced": [
+        "Bissau legjelentősebb könnyűipari és logisztikai bázisa.",
+        "Élelmiszer-feldolgozók, raktárak és építőanyaggyártók működnek itt.",
+        "Stratégiailag a kikötő és a fő közlekedési utak közelében fekszik.",
+        "A helyi ipari termelés és foglalkoztatás központja.",
+        "A külföldi (főként kínai és libanoni) befektetők kedvelt célpontja.",
+        "Az infrastruktúra, mint a stabil áram- és vízellátás, fejlesztés alatt áll."
+      ]
+    },
+    {
+      "id": "cumere-industriekomplex-economic-v2",
+      "descriptionAdvanced": "A Cumeré Ipari Komplexum (Complexo Agro-Industrial de Cumeré) a Biombo régióban, Bissau közelében található, és az ország történelmének egyik legnagyobb ipari ambícióját jelképezi. A 70-es évek végén, a függetlenség után kezdték építeni külföldi (szovjet) segítséggel, hogy az ország hatalmas mezőgazdasági termését – főként a földimogyorót és a rizst – helyben dolgozzák fel. A komplexum magában foglalt volna olajütőket, rizsmalmokat és áramfejlesztőket is. Azonban gazdasági és politikai okok miatt sosem fejezték be teljesen, a hatalmas gépsorok nagyrészt kihasználatlanul maradtak vagy tönkrementek. Ma a félig elhagyatott komplexum az iparosítás nehézségeinek mementója. Történelem K8 — hidegháborús afrikai fejlesztések.",
+      "factsAdvanced": [
+        "A 70-es évek végén, a függetlenség után épült szovjet segítséggel.",
+        "Eredeti célja a földimogyoró és rizs ipari szintű feldolgozása volt.",
+        "Magában foglalt olajpréselő üzemeket és hatalmas raktárakat.",
+        "Gazdasági problémák miatt soha nem működött teljes kapacitással.",
+        "Ma az épületek és gépek nagy része elhagyatottan áll.",
+        "A létesítmény a posztkoloniális iparosítási kudarcok szimbóluma."
+      ]
+    },
+    {
+      "id": "antula-steinbruch-economic-v2",
+      "descriptionAdvanced": "Az Antula kőfejtő Bissau északi peremén található, és a főváros építőiparának egyik legfontosabb nyersanyagforrása. Bissau folyamatos urbanizációs növekedése és az útépítési projektek hatalmas mennyiségű sódert, murvát és tört követ igényelnek. Az Antula bányában a kitermelés részben gépesített, de jelentős a kézi, informális bányászat is, ahol a munkások (gyakran nők) fizikai erővel törik a köveket kisebb darabokra. A kőfejtő működése bár elengedhetetlen a városfejlesztéshez, komoly por- és zajszennyezést okoz a környező lakónegyedek számára. Földrajz K6 — építőanyag-ipar és bányászat.",
+      "factsAdvanced": [
+        "Bissau északi részén található nyílt színi kőfejtő.",
+        "A főváros építkezéseihez és útépítésekhez biztosít sódert és zúzott követ.",
+        "A gépesített kitermelés mellett jelentős a kézi kőtörés aránya is.",
+        "Az informális szektorban gyakran nők és fiatalok végeznek fizikai munkát.",
+        "A bánya közelsége a lakóövezethez komoly porszennyezést okoz.",
+        "Az építőipar fellendülése miatt a kitermelés folyamatosan növekszik."
+      ]
+    },
+    {
+      "id": "bissau-zementwerk-economic-v2",
+      "descriptionAdvanced": "A Bissau Zementwerk (helyi nevén Cimentos da Guiné-Bissau) az ország első jelentős cementcsomagoló és -feldolgozó üzeme, amely az importfüggőség csökkentését célozza. Bár Bissau-Guinea nem rendelkezik jelentős saját mészkő-készletekkel a teljes gyártáshoz, az üzem importált klinkert őröl és kever helyi adalékanyagokkal a kész cement előállításához. A létesítmény hozzájárul a gyorsan növekvő építőipar ellátásához, csökkentve a zsákolt cement drága importjának szükségességét olyan szomszédos országokból, mint Szenegál. Az üzem működése fontos lépés a nehézipari diverzifikáció és a stabil építőanyag-ellátás felé. Kémia K8 — építőanyagok és cementgyártás.",
+      "factsAdvanced": [
+        "A fővárosban működő cementkeverő és csomagoló üzem.",
+        "Importált klinkert használ a kész cement előállításához.",
+        "Célja az építőipari alapanyagok importfüggőségének csökkentése.",
+        "Fontos szerepet játszik Bissau urbanizációs fejlődésének támogatásában.",
+        "Külföldi és helyi tőke vegyesvállalataként működik.",
+        "Stabilizálja a cementárakat a helyi piacon."
+      ]
+    },
+    {
+      "id": "bafata-ziegelei-economic-v2",
+      "descriptionAdvanced": "A Bafatá Téglagyár egy jelentős helyi ipari létesítmény Bissau-Guinea második legnagyobb városában. A Geba-folyó mentén fekvő térség agyagos talaja kiváló alapanyagot biztosít az égetett kerámiatéglák gyártásához. A gyár nemcsak a bafatai régió építkezéseit látja el, hanem a környező megyékbe is szállít építőanyagot. Az üzem ötvözi a hagyományos afrikai agyagművességet a modern, ipari égetőkemencékkel (bár technológiája sok tekintetben elavult). A téglagyár fontos munkaadó a térségben, és a cement alapú építkezés (blokktégla) mellett az égetett tégla környezetbarátabb, jobb hőszigetelő alternatíváját kínálja. Fizika K7 — hőkezelés és építészet.",
+      "factsAdvanced": [
+        "Bafatá városában működő hagyományos ipari létesítmény.",
+        "A Geba-folyó völgyének agyagos talaját használja alapanyagként.",
+        "Égetett kerámiatéglákat állít elő az építőipar számára.",
+        "Technológiája régebbi, de folyamatosan biztosít helyi munkahelyeket.",
+        "Termékei jobb hőszigetelést biztosítanak a trópusi klímában, mint a cement.",
+        "A régió egyik legfontosabb építőanyag-beszállítója."
+      ]
+    },
+    {
+      "id": "port-von-bolama-economic-v2",
+      "descriptionAdvanced": "Bolama történelmi kikötője egykor Nyugat-Afrika egyik legforgalmasabb csomópontja volt, amikor a város még a portugál gyarmat fővárosaként funkcionált. A kikötő infrastruktúrája ma már jórészt romos és elhagyatott, hatalmas, rozsdásodó darukkal és omladozó raktárakkal. Bár a nagy nemzetközi hajóforgalom Bissau-ba helyeződött át, Bolama kikötője továbbra is a Bijagós-szigetek közötti kereskedelem életfontosságú logisztikai bázisa. Naponta indulnak innen kompok és hagyományos 'pirogue'-ok (hosszú bárkák), amelyek a helyi földimogyorót, halat és utasokat szállítják a kontinens és a szigetvilág között. Történelem K8 — gyarmati infrastruktúra.",
+      "factsAdvanced": [
+        "1941-ig az ország legfontosabb nemzetközi kikötője volt.",
+        "A régi infrastruktúra (raktárak, daruk) ma már nagyrészt omladozik.",
+        "A Bijagós-szigetek közötti helyi kereskedelem központja.",
+        "Naponta indulnak innen kompok Bissau és a szigetcsoport irányába.",
+        "Gazdasági jelentősége ma a helyi halászatra és agrárkereskedelemre korlátozódik.",
+        "A gyarmati tengerészet egyik lenyűgöző mementója."
+      ]
+    }
+  ]
+}

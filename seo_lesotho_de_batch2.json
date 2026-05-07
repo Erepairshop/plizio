@@ -1,0 +1,135 @@
+{
+  "lang": "de",
+  "country": "lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLesothoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sehlabathebe-cities-v2",
+      "descriptionAdvanced": "Sehlabathebe ist ein charmantes Dorf und das Eingangstor zum gleichnamigen Nationalpark, der Teil des Maloti-Drakensberg-Transfrontier-Parks ist und seit 2013 zum UNESCO-Weltnaturerbe gehört. Das Dorf liegt auf rund 2400 Metern Höhe und bewahrt den traditionellen Lebensstil der Basotho. Die isolierte Lage im äußersten Südosten bedeutet, dass die Anreise oft über den rauen Ramatseliso-Pass führt. Die Region ist berühmt für ihre seltenen alpinen Pflanzen, darunter die kleine Wasserlilie *Aponogeton ranunculiflorus*, und markante Sandsteinformationen. Die Einheimischen leben hauptsächlich von der Subsistenzlandwirtschaft und dem aufkeimenden Ökotourismus. (Geografie K8 — Nationalparks und Ökologie)",
+      "factsAdvanced": ["Tor zum Sehlabathebe-Nationalpark", "Teil des UNESCO-Weltnaturerbes seit 2013", "Liegt auf ca. 2400 Metern Höhe", "Beherbergt die seltene Wasserlilie", "Erreichbar über den Ramatseliso-Pass", "Zentrum für Ökotourismus"]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "descriptionAdvanced": "Ha Lejone ist eine malerische Gemeinde am Nordende des riesigen Katse-Stausees im Berea-Distrikt. Der Ort hat sich seit dem Bau der Katse-Talsperre in den 1990er Jahren stark gewandelt, da das steigende Wasser des Flusses Malibamat'so die Landschaft völlig neu formte. Heute ist Ha Lejone landesweit für seine Forellenzuchtfarmen bekannt, die hochwertigen Fisch für den Export und die lokalen Märkte produzieren. Zudem ist die Region ein beliebter Anlaufpunkt für Sportfischer und Naturliebhaber. Die umliegenden Berge bieten hervorragende Bedingungen für die Viehzucht der Basotho-Hirten. (Wirtschaft K7 — Aquakultur und Stauseen)",
+      "factsAdvanced": ["Liegt am Nordende des Katse-Stausees", "Bekannt für kommerzielle Forellenzucht", "Veränderte Landschaft seit den 1990er Jahren", "Beliebt bei Sportfischern", "Gelegen am Fluss Malibamat'so", "Wichtig für die lokale Fischereiwirtschaft"]
+    },
+    {
+      "id": "katse-cities-v2",
+      "descriptionAdvanced": "Katse ist eine weltweit bekannte Ortschaft im Thaba-Tseka-Distrikt, deren Name untrennbar mit dem gigantischen Katse-Staudamm verbunden ist. Die 185 Meter hohe Doppelbogenstaumauer, fertiggestellt 1997, ist das Herzstück des ehrgeizigen Lesotho Highlands Water Project, das Wasser nach Südafrika exportiert und Wasserkraft erzeugt. Der Bau des Damms brachte Straßen, eine moderne Infrastruktur und einen einzigartigen botanischen Garten in die ehemals sehr isolierte Bergregion. Heute zieht Katse Ingenieure und Touristen aus aller Welt an, die das architektonische Meisterwerk und die tiefe, von Wasser gefüllte Talschlucht besichtigen möchten. (Geografie K8 — Wasserressourcen und Technik)",
+      "factsAdvanced": ["Standort der 185 Meter hohen Katse-Talsperre", "Fertigstellung des Damms im Jahr 1997", "Herzstück des Highlands Water Project", "Beherbergt den Katse Botanical Garden", "Exportiert Wasser nach Südafrika", "Verfügt über moderne Berginfrastruktur"]
+    },
+    {
+      "id": "thaba-bosiu-cities-v2",
+      "descriptionAdvanced": "Thaba-Bosiu ist das bedeutendste nationale Denkmal Lesothos und liegt etwa 24 Kilometer östlich von Maseru. Das markante, flache Sandsteinplateau diente König Moshoeshoe I. ab 1824 als unbezwingbare Festung. Der Legende nach wuchs der Berg in der Nacht, um feindliche Angriffe der Buren und Zulu abzuwehren, daher der Name "Berg bei Nacht". Thaba-Bosiu war das Zentrum, von dem aus Moshoeshoe die zerstreuten Stämme zur Basotho-Nation vereinte. Heute finden sich auf dem Plateau die Überreste seiner Festung sowie die königlichen Gräber. Das nahegelegene Kulturzentrum bewahrt die reiche Geschichte. (Geschichte K8 — Gründung der Nation)",
+      "factsAdvanced": ["Nationaldenkmal und Wiege der Basotho", "Ab 1824 Festung von König Moshoeshoe I.", "Name bedeutet Berg bei Nacht", "Beherbergt die königlichen Gräber", "24 Kilometer östlich von Maseru", "Niemals in der Geschichte eingenommen"]
+    },
+    {
+      "id": "saint-michaels-cities-v2",
+      "descriptionAdvanced": "Saint Michaels ist eine bedeutende römisch-katholische Missionsstation und Gemeinde in unmittelbarer Nähe zur Bildungsstadt Roma. Die 1899 gegründete Mission war ein wichtiger Knotenpunkt für die Ausbreitung des katholischen Glaubens im Maseru-Distrikt. Der Ort zeichnet sich durch seine historische, aus rotem Sandstein erbaute Kirche aus, die das landschaftliche Bild dominiert. Saint Michaels ist eng mit der landwirtschaftlichen und schulischen Entwicklung der Region verbunden, da die Missionare moderne Anbaumethoden einführten. Heute ist es eine friedliche Ortschaft, die von den umliegenden fruchtbaren Feldern und Obstgärten lebt. (Gesellschaft K7 — Missionen und Landwirtschaft)",
+      "factsAdvanced": ["Gegründet im Jahr 1899", "Bedeutende katholische Missionsstation", "Markante Sandsteinkirche", "Gelegen nahe der Universitätsstadt Roma", "Zentrum für lokale Bildung und Landwirtschaft", "Historischer Einfluss auf die Region Maseru"]
+    },
+    {
+      "id": "khabos-cities-v2",
+      "descriptionAdvanced": "Khabo's ist eine produktive landwirtschaftliche Gemeinde im Leribe-Distrikt, die sich durch ihre weitläufigen, fruchtbaren Böden auszeichnet. Das Dorf liegt in einem flachen Tal, das vom nahegelegenen Fluss Hlotse bewässert wird. Diese geografische Gunstlage macht Khabo's zu einer der wichtigsten Getreidekammern des Nordens, in der überwiegend Mais, Weizen und Sorghum angebaut werden. Die traditionelle Lebensweise ist stark in den Jahreszeiten und Erntezyklen verwurzelt. Historisch war Khabo's ein Knotenpunkt für lokale Stammesführer, um den Handel mit den benagbarten Regionen zu organisieren. (Wirtschaft K7 — Getreideanbau)",
+      "factsAdvanced": ["Wichtige landwirtschaftliche Gemeinde im Leribe-Distrikt", "Bewässert durch den nahen Hlotse-Fluss", "Zentrum für den Anbau von Mais und Weizen", "Traditionelle, vom Erntezyklus geprägte Kultur", "Historischer Knotenpunkt lokaler Führer", "Einer der fruchtbarsten Orte im Norden"]
+    },
+    {
+      "id": "maphutseng-cities-v2",
+      "descriptionAdvanced": "Maphutseng ist ein abgelegenes, traditionelles Bergdorf im Distrikt Mohale's Hoek im südlichen Teil Lesothos. Die Siedlung liegt in einer beeindruckenden Landschaft mit schroffen Felsen und tiefen Schluchten, die die Umgebung unzugänglich und zugleich wunderschön machen. Die Bevölkerung von Maphutseng lebt hauptsächlich von der Subsistenzlandwirtschaft und der extensiven Weidewirtschaft mit Schafen und Angoraziegen, deren Wolle eine der wenigen Einnahmequellen darstellt. Das raue Klima mit extrem kalten Wintern fordert den Bewohnern große Widerstandskraft ab. Lokale Initiativen zielen darauf ab, Bodenerosion durch bessere Weidetechniken zu verhindern. (Geografie K7 — Leben in extremen Landschaften)",
+      "factsAdvanced": ["Traditionelles Bergdorf im Süden", "Gelegen im Distrikt Mohale's Hoek", "Fokus auf Schaf- und Angoraziegenzucht", "Produktion von Wolle und Mohair", "Raue klimatische Bedingungen im Winter", "Initiativen gegen starke Bodenerosion"]
+    },
+    {
+      "id": "alwynskop-cities-v2",
+      "descriptionAdvanced": "Alwynskop ist ein winziger, hochgelegener Außenposten im Distrikt Quthing, der für seine atemberaubenden, ungestörten Panoramablicke über das Tal des Tele-Flusses bekannt ist. Der Name leitet sich von der afrikaansen Bezeichnung für Aloe ab, eine Pflanzengattung, die in der kargen, felsigen Umgebung des Dorfes heimisch ist. Die wenigen Einwohner pflegen eine enge Gemeinschaft und leben fast vollständig autark. Alwynskop ist ein typisches Beispiel für die vielen kleinen Siedlungen, die verstreut in den Bergregionen Lesothos liegen und durch kleine, oft schwer passierbare Pfade miteinander verbunden sind. (Geografie K7 — Lokale Flora und Siedlungen)",
+      "factsAdvanced": ["Hochgelegener Außenposten im Quthing-Distrikt", "Bietet Panoramablick über das Tele-Tal", "Name leitet sich von der Aloe-Pflanze ab", "Heimat endemischer Sukkulenten", "Stark autarke Subsistenzwirtschaft", "Verbund über schwer passierbare Gebirgspfade"]
+    },
+    {
+      "id": "letseng-la-terae-cities-v2",
+      "descriptionAdvanced": "Letseng-la-Terae im Mokhotlong-Distrikt beherbergt die höchstgelegene Diamantenmine der Welt, die auf schwindelerregenden 3100 Metern operiert. Die Mine ist international berühmt für die Förderung außergewöhnlich großer und hochwertiger Diamanten, darunter der 603-karätige \"Lesotho Promise\", der 2006 gefunden wurde. Aufgrund der extremen Höhe müssen die Minenarbeiter bei rauen Wetterbedingungen arbeiten, wobei Schneestürme und Gefriertemperaturen an der Tagesordnung sind. Trotz der geringen Gesamtfördermenge im Vergleich zu anderen Minen sorgt der immense Wert der einzelnen Steine dafür, dass Letseng ein Eckpfeiler der lesothischen Exportwirtschaft ist. (Wirtschaft K8 — Rohstoffabbau unter Extrembedingungen)",
+      "factsAdvanced": ["Höchstgelegene Diamantenmine der Welt (3100m)", "Gelegen im Mokhotlong-Distrikt", "Fundort des 603-karätigen Lesotho Promise (2006)", "Bekannt für außergewöhnlich große Diamanten", "Eckpfeiler der Exportwirtschaft Lesothos", "Extrem raue Wetter- und Arbeitsbedingungen"]
+    },
+    {
+      "id": "mantsonyane-cities-v2",
+      "descriptionAdvanced": "Mantsonyane ist ein lebendiges Versorgungszentrum im gebirgigen Thaba-Tseka-Distrikt. Ursprünglich ein isoliertes Hirtendorf, erlangte der Ort Bedeutung durch die Gründung des St. James Hospitals durch anglikanische Missionare im Jahr 1963. Dieses Krankenhaus ist bis heute eine lebensrettende Einrichtung für tausende Bergbewohner. Die Siedlung liegt an der landschaftlich reizvollen A3-Bergstraße, die Maseru mit Thaba-Tseka verbindet. Neben dem Gesundheitswesen ist Mantsonyane ein wichtiger Knotenpunkt für den Handel mit Vieh und Agrargütern. Die umgebenden Hügel sind oft in dichten Nebel gehüllt, was dem Ort eine mystische Atmosphäre verleiht. (Gesellschaft K7 — Gesundheitsversorgung im Hochland)",
+      "factsAdvanced": ["Lebendiges Zentrum im Thaba-Tseka-Distrikt", "Heimat des St. James Hospitals (gegründet 1963)", "Liegt an der wichtigen A3-Bergstraße", "Zentral für den Handel mit Vieh", "Etabliert durch anglikanische Missionare", "Umliegende Hügel oft in Nebel gehüllt"]
+    },
+    {
+      "id": "ha-ntsi-cities-v2",
+      "descriptionAdvanced": "Ha Ntsi ist ein idyllisches Dorf in den Ausläufern der Maloti-Berge innerhalb des Maseru-Distrikts. Die Gemeinde ist umgeben von sanften Hügeln, die im Sommer leuchtend grün und im Winter oft schneebedeckt sind. Ha Ntsi bewahrt den Charakter eines klassischen Basotho-Dorfes, in dem die Viehzucht und der Ackerbau in Gemeinschaftsarbeit auf terrassierten Feldern erfolgen. Die Region nahe des Dorfes zieht zunehmend Wanderer und Reiter an, die die unberührte Natur auf dem Weg tiefer in das Hochgebirge genießen möchten. Lokale Handwerker stellen hier traditionelle Grashüte (Mokorotlo) her. (Geografie K7 — Dorfleben in den Vorgebirgen)",
+      "factsAdvanced": ["Gelegen in den Ausläufern der Maloti-Berge", "Teil des Maseru-Distrikts", "Klassisches Basotho-Dorf mit terrassierten Feldern", "Ausgangspunkt für Wanderungen und Reittouren", "Bekannt für die Herstellung des Mokorotlo-Hutes", "Idyllischer Kontrast der Jahreszeiten"]
+    },
+    {
+      "id": "ha-baroana-cities-v2",
+      "descriptionAdvanced": "Ha Baroana, was "Ort der kleinen San (Buschmänner)" bedeutet, ist eine der wichtigsten archäologischen Stätten Lesothos. Die Gemeinde liegt etwa 39 Kilometer östlich von Maseru. Entlang einer beeindruckenden Felswand über dem Liphiring-Fluss befinden sich detailreiche prähistorische Felsmalereien, die das Leben der ursprünglichen Jäger und Sammler dokumentieren. Die Kunstwerke, die Antilopen, Leoparden und spirituelle Zeremonien zeigen, sind zum Teil über 2000 Jahre alt. Das Dorf selbst hat sich dem Schutz dieses unschätzbaren Erbes verschrieben und bietet geführte Touren an, die den Besuchern tiefe Einblicke in die vorkoloniale Geschichte des südlichen Afrikas. (Geschichte K7 — Vorkoloniale Kunst)",
+      "factsAdvanced": ["Name bedeutet Ort der kleinen San", "Liegt 39 Kilometer östlich von Maseru", "Prähistorische Felsmalereien am Liphiring-Fluss", "Malereien sind über 2000 Jahre alt", "Zeigen Leoparden, Antilopen und Rituale", "Wichtige archäologische Stätte in Lesotho"]
+    },
+    {
+      "id": "ha-moitsupeli-cities-v2",
+      "descriptionAdvanced": "Ha Moitsupeli ist eine ruhige ländliche Ortschaft tief im Maseru-Distrikt, fernab der städtischen Hektik. Die Gemeinde ist ein Paradebeispiel für die tiefe Verbundenheit der Basotho mit ihrem Land. Die Einwohner leben in familiären Verbänden und pflegen ein auf Kooperation basierendes Landwirtschaftssystem (Letsema). Typisch für den Ort sind die aus Stein und Lehm errichteten Rundhütten, die gut gegen die kalten Winde des Hochlands isolieren. Der Ort feiert traditionelle Feste im Einklang mit dem landwirtschaftlichen Kalender und ist ein lebendiges Museum der alltäglichen Basotho-Kultur ohne touristische Überprägung. (Gesellschaft K7 — Traditionelle Lebensweise)",
+      "factsAdvanced": ["Ruhige ländliche Ortschaft im Maseru-Distrikt", "Pflegt das traditionelle Letsema-Kooperationssystem", "Geprägt von traditionellen Rundhütten", "Feiert Feste des landwirtschaftlichen Kalenders", "Starker Fokus auf familiäre Verbände", "Beispiel authentischer Basotho-Kultur"]
+    },
+    {
+      "id": "molimo-nthuse-cities-v2",
+      "descriptionAdvanced": "Molimo Nthuse, dessen Name übersetzt \"Gott hilf mir\" bedeutet, ist ein berühmter Gebirgspass und Stopp auf der Hauptroute in die Maloti-Berge. Der markante Name erinnert an die immensen Anstrengungen, die Reisende in der Vergangenheit aufbringen mussten, um diese extrem steilen und gefährlichen Pfade mit Pferden oder zu Fuß zu bezwingen. Heute führt eine asphaltierte Straße über den Pass, der auf rund 2300 Metern liegt. Die Region bietet eine spektakuläre Aussicht auf die tiefen Schluchten des Makhaleng-Flusstals und ist ein beliebter Ausgangspunkt für Pony-Trekking-Touren in die unberührte Natur. (Geografie K8 — Pässe und Verkehrswege)",
+      "factsAdvanced": ["Name bedeutet Gott hilf mir", "Bekannter Gebirgspass auf rund 2300 Metern Höhe", "Bietet Aussicht auf das Makhaleng-Flusstal", "Historisch gefährliche Reiseroute in die Berge", "Heute über eine asphaltierte Bergstraße erreichbar", "Beliebter Ausgangspunkt für Pony-Trekking"]
+    },
+    {
+      "id": "marakabei-cities-v2",
+      "descriptionAdvanced": "Marakabei ist ein malerisch gelegenes Bergdorf am Ufer des majestätischen Flusses Senqunyane. Die Siedlung liegt tief im Distrikt Thaba-Tseka und ist von dicht bewaldeten Hügeln und massiven Felswänden umgeben. Für Generationen war Marakabei ein isolierter Ort, bis der Bau des Mohale-Damms und die damit verbundene Infrastruktur das Gebiet besser zugänglich machten. Der Fluss ist bekannt für seinen Reichtum an Regenbogenforellen, weshalb die kleine Gemeinde im Sommer Fliegenfischer anlockt. Das Dorf besitzt eine der traditionsreichsten Reitschulen für das robuste Basotho-Pony, welches für das Gebirge unerlässlich ist. (Wirtschaft K7 — Tourismus und Pferdezucht)",
+      "factsAdvanced": ["Gelegen am Ufer des Flusses Senqunyane", "Teil des Distrikts Thaba-Tseka", "Erschlossen durch den Bau des Mohale-Damms", "Beliebtes Revier für Fliegenfischer (Regenbogenforellen)", "Traditionsreiche Zuchtstätte für Basotho-Ponys", "Umgeben von massiven Felswänden"]
+    },
+    {
+      "id": "ha-kome-cities-v2",
+      "descriptionAdvanced": "Ha Kome im Distrikt Berea ist landesweit berühmt für seine einzigartigen Höhlenwohnungen (Kome Caves), die tief in eine überhängende Sandsteinklippe gebaut wurden. Diese historischen Wohnstätten wurden im frühen 19. Jahrhundert von Flüchtlingen der Basia- und Bataung-Clans errichtet, um sich vor den verheerenden Lifaqane-Kriegen und sogar vor Kannibalismus zu verstecken. Bis heute werden die gut erhaltenen, aus Lehm und Dung gemauerten Hütten von den direkten Nachkommen der ursprünglichen Erbauer bewohnt. Der Ort ist ein National Monument und bietet Besuchern einen unverfälschten Blick in die dramatische Überlebensgeschichte der Basotho. (Geschichte K8 — Die Lifaqane-Kriege)",
+      "factsAdvanced": ["National Monument im Berea-Distrikt", "Höhlenwohnungen unter Sandsteinklippen", "Erbaut im frühen 19. Jahrhundert", "Diente als Zuflucht während der Lifaqane-Kriege", "Noch heute von Nachkommen bewohnt", "Hütten aus Lehm und Dung konstruiert"]
+    },
+    {
+      "id": "ha-belo-cities-v2",
+      "descriptionAdvanced": "Ha Belo ist eine aufstrebende landwirtschaftliche Gemeinde im Distrikt Butha-Buthe. Der Ort hat sich in den letzten Jahren durch die Errichtung einer großen industriellen Entwicklungszone (Industrial Estate) gewandelt, die darauf abzielt, die wirtschaftliche Abhängigkeit von der reinen Subsistenzwirtschaft zu verringern. In Ha Belo werden Anlagen für Textil- und Lebensmittelverarbeitung gebaut, um Arbeitsplätze außerhalb der Hauptstadtregion zu schaffen. Trotz dieser modernen Entwicklungen bleibt das Umland tief im Rhythmus des Mais- und Bohnenanbaus verwurzelt. Die Gemeinde steht exemplarisch für den Strukturwandel im nördlichen Flachland Lesothos. (Wirtschaft K8 — Dezentrale Industrialisierung)",
+      "factsAdvanced": ["Aufstrebende Gemeinde im Butha-Buthe-Distrikt", "Standort einer neuen industriellen Entwicklungszone", "Fokus auf Textil- und Lebensmittelverarbeitung", "Ziel ist die Schaffung dezentraler Arbeitsplätze", "Umgebung stark durch Mais- und Bohnenanbau geprägt", "Beispiel für ländlichen Strukturwandel"]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "descriptionAdvanced": "Likalaneng ist eine markante Bergsiedlung im Maseru-Distrikt, die sich in den tiefen Schluchten entlang der kurvenreichen Bergstraße zum Katse-Staudamm befindet. Die Ortschaft diente lange Zeit als Basis und Rastplatz für die Ingenieure und Bauarbeiter des Lesotho Highlands Water Project. Heute profitiert das Dorf von dem Durchgangsverkehr, der durch den Tourismus zum Staudamm entsteht. Likalaneng liegt in einer Höhe von über 2100 Metern, weshalb die Landwirtschaft auf robuste Kulturen wie Bergweizen und Kartoffeln beschränkt ist. Im Winter verwandelt der Schnee die steilen Berghänge in eine unberührte, eisige Landschaft. (Geografie K7 — Hochlandinfrastruktur)",
+      "factsAdvanced": ["Liegt an der Bergstraße zum Katse-Staudamm", "Gelegen in über 2100 Metern Höhe im Maseru-Distrikt", "Ehemaliger Rastplatz für Staudamm-Arbeiter", "Profitiert vom touristischen Durchgangsverkehr", "Landwirtschaft beschränkt auf Bergweizen und Kartoffeln", "Im Winter oft von starkem Schneefall betroffen"]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "descriptionAdvanced": "Maphutsaneng ist eine winzige, sehr traditionell geprägte Bergsiedlung im Süden Lesothos, nahe Mohale's Hoek. Die isolierte Gemeinde hat kaum Zugang zu modernen Dienstleistungen, weshalb die Gemeinschaft auf Selbstversorgung und strenge kooperative Landnutzungsregeln angewiesen ist. Das Leben hier wird maßgeblich von den Herden aus Schafen und Ziegen bestimmt, die tagsüber auf die kargen Weideflächen der Berge getrieben werden. Maphutsaneng veranschaulicht die extremen Herausforderungen, denen sich die Landbevölkerung in den zerklüfteten Gebirgsregionen abseits der Hauptverkehrsstraßen gegenübersieht, darunter starke Winderosion und Frostperioden. (Geografie K7 — Abgelegene Berggemeinden)",
+      "factsAdvanced": ["Traditionelle Bergsiedlung im Mohale's Hoek Distrikt", "Stark auf Selbstversorgung angewiesen", "Wirtschaft dominiert von Schaf- und Ziegenzucht", "Gemeinschaftliche und kooperative Landnutzung", "Extrem isoliert von Hauptverkehrsstraßen", "Probleme mit Winderosion und Frost"]
+    },
+    {
+      "id": "tele-cities-v2",
+      "descriptionAdvanced": "Tele ist ein historischer Grenzort im Quthing-Distrikt, benannt nach dem gleichnamigen Fluss Tele, der hier die Grenze zwischen Lesotho und der südafrikanischen Provinz Ostkap bildet. Der Ort verfügt über den Tele-Bridge-Grenzübergang, einen kleinen, aber wichtigen Knotenpunkt für den regionalen und informellen Handel. Die Umgebung ist durch sanfte Hügel und Auen charakterisiert, die eine für den Süden Lesothos ungewöhnlich fruchtbare Landwirtschaft ermöglichen. Die Bevölkerung besteht aus einer Mischung von Basotho und anderen ethnischen Gruppen, was den Ort zu einem Schmelztiegel an der südlichen Peripherie macht. (Wirtschaft K7 — Grenzhandel)",
+      "factsAdvanced": ["Historischer Grenzort im Quthing-Distrikt", "Benannt nach dem Tele-Fluss", "Verfügt über den Tele-Bridge-Grenzübergang", "Grenzt an die südafrikanische Provinz Ostkap", "Knotenpunkt für informellen und regionalen Handel", "Ungewöhnlich fruchtbare Auen für die Landwirtschaft"]
+    },
+    {
+      "id": "ha-mpiti-cities-v2",
+      "descriptionAdvanced": "Ha Mpiti ist ein dicht gedrängtes Dorf im schwer zugänglichen Qacha's Nek Distrikt. Auf einer Höhe von etwa 2000 Metern an die Berghänge gebaut, bietet das Dorf spektakuläre Blicke auf das Flusstal des Tsoelike. Die Region um Ha Mpiti ist bekannt für ihre unberührte alpine Flora, einschließlich wilder Gladiolen und Heidekrautgewächse. Die Einwohner betreiben eine äußerst mühsame Form der Terrassenlandwirtschaft, um den steilen und felsigen Böden Erträge abzutrotzen. Aufgrund seiner Nähe zum Nationalpark ist der Ort ein potenzieller Kandidat für zukünftige Entwicklungen im Gemeindetourismus. (Geografie K8 — Terrassenlandwirtschaft)",
+      "factsAdvanced": ["Dorf im schwer zugänglichen Qacha's Nek Distrikt", "Auf etwa 2000 Metern an steile Berghänge gebaut", "Blick auf das Tal des Tsoelike-Flusses", "Bekannt für unberührte alpine Flora", "Nutzt intensive Terrassenlandwirtschaft", "Potenzial für zukünftigen Gemeindetourismus"]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "descriptionAdvanced": "Ha Sekake ist ein zentraler Kreuzungspunkt und eine bedeutende Siedlung im Hochland. Strategisch an der Verbindungsstraße gelegen, die tiefer in den Qacha's Nek Distrikt führt, dient der Ort als Handels- und Rastplatz für Reisende und Hirten. Die Gemeinde besitzt eine große Klinik und eine Oberschule, die Schüler aus den umliegenden abgelegenen Tälern anziehen. Um Ha Sekake erstrecken sich weite, offene Grasländer, die in den Sommermonaten Tausende von Rindern ernähren. Im Winter ist der Ort häufig durch starke Schneefälle von der Außenwelt abgeschnitten, was Vorratshaltung unerlässlich macht. (Geografie K7 — Hochlandversorgung)",
+      "factsAdvanced": ["Zentraler Kreuzungspunkt im Hochland", "Auf dem Weg in den Qacha's Nek Distrikt", "Wichtiger Standort für Klinik und Oberschule", "Umgeben von weiten, offenen Grasländern", "Handelszentrum für regionale Viehhirten", "Im Winter oft von Schneefällen eingeschlossen"]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "descriptionAdvanced": "Ha Rafanyane ist ein abgeschiedenes Dorf im Herzen des Thaba-Tseka-Distrikts, umrahmt von den schroffen Gipfeln der zentralen Gebirgskette. Der Ort ist ein bemerkenswertes Zeugnis für das harte Leben im lesothischen Hochland, wo Elektrizität und fließendes Wasser oft noch Luxus sind. Die Familien in Ha Rafanyane stützen sich stark auf die Produktion von Mohair, wobei die kostbare Angorawolle über steile Pfade zu den Sammelstellen im Tal transportiert wird. Die traditionelle Musik und Poesie der Bergbewohner (Famo) wird in diesem Ort bei nächtlichen Zusammenkünften am Feuer intensiv gepflegt. (Gesellschaft K7 — Lokale Traditionen und Mohair)",
+      "factsAdvanced": ["Abgeschiedenes Dorf im Thaba-Tseka-Distrikt", "Umrahmt von der zentralen Gebirgskette", "Stark abhängig von der Mohair-Produktion (Angorawolle)", "Eingeschränkter Zugang zu moderner Infrastruktur", "Zentrum der traditionellen Famo-Musik", "Transport von Gütern oft nur über steile Pfade möglich"]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "descriptionAdvanced": "Mashai ist eine bedeutende Bergsiedlung im Thaba-Tseka-Distrikt, benannt nach dem mächtigen Mashai-Plateau, das die Region überragt. Das Plateau ist eines der wichtigsten Weidegebiete im zentralen Lesotho, was Mashai zu einem Zentrum der transhumanten Weidewirtschaft macht. Hirten aus dem Flachland treiben ihre Tiere im Sommer hinauf zu den saftigen Bergwiesen (Cattle Posts) von Mashai. Der Ort verfügt über einen kleinen Flughafen für Leichtflugzeuge, der in medizinischen Notfällen und während der tiefen Wintermonate die einzige sichere Verbindung nach Maseru darstellt. (Wirtschaft K8 — Transhumanz und Logistik)",
+      "factsAdvanced": ["Bedeutende Siedlung im Thaba-Tseka-Distrikt", "Benannt nach dem darüberliegenden Mashai-Plateau", "Zentrum der sommerlichen Weidewirtschaft (Cattle Posts)", "Verfügt über einen Flughafen für Leichtflugzeuge", "Wichtiges Gebiet für transhumante Hirten", "Flugverbindung oft essenziell in Notfällen"]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "descriptionAdvanced": "Linakaneng ist eine extreme Hochgebirgssiedlung im rauen Mokhotlong-Distrikt. Auf einer Höhe von nahezu 2600 Metern gelegen, verzeichnet Linakaneng einige der kältesten Temperaturen in ganz Afrika. Die Siedlung liegt an den Quellflüssen des mächtigen Senqu und ist von baumlosen, windgepeitschten Berghängen umgeben. Die isolierte Gemeinschaft hält die widerstandsfähigen Basotho-Ponys und Schafe, die an die dünne Höhenluft angepasst sind. Architektur und Kleidung, insbesondere die traditionelle Wolldecke (Seanamarena), sind strikt auf den Schutz vor den eisigen Bergwinden ausgerichtet. (Geografie K7 — Klimatische Extreme)",
+      "factsAdvanced": ["Extreme Hochgebirgssiedlung im Mokhotlong-Distrikt", "Liegt auf einer Höhe von fast 2600 Metern", "Verzeichnet einige der kältesten Temperaturen Afrikas", "Gelegen an den Quellflüssen des Senqu-Systems", "Haltung höhenangepasster Basotho-Ponys und Schafe", "Baumlose und windgepeitschte Umgebung"]
+    }
+  ]
+}

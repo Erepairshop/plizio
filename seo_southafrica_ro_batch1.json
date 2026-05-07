@@ -1,0 +1,295 @@
+{
+  "lang": "ro",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-bloemfontein-cities-v2",
+      "descriptionAdvanced": "Bloemfontein, cunoscut și sub numele de 'Orașul Trandafirilor', servește drept capitală judiciară a Africii de Sud și este situat în inima provinciei Free State. Orașul are o semnificație istorică profundă, fiind locul unde a fost fondat Congresul Național African (ANC) în anul 1912. Arhitectura sa îmbină clădiri monumentale din gresie, precum Curtea Supremă de Apel, cu spații verzi vaste. Naval Hill, situat în centrul orașului, oferă o panoramă spectaculoasă și găzduiește o rezervație de animale sălbatice, fiind unul dintre puținele locuri din lume unde o astfel de rezervație se află în interiorul unui oraș. Orașul este un centru academic important, găzduind Universitatea din Free State. Geografie K7 — Capitale administrative și sisteme judiciare.",
+      "factsAdvanced": [
+        "Capitala judiciară a Africii de Sud din anul 1910.",
+        "Locul de fondare al Congresului Național African (ANC) în 1912.",
+        "Găzduiește anual un faimos festival al trandafirilor în octombrie.",
+        "Naval Hill este casa unei statui gigantice a lui Nelson Mandela.",
+        "Situat la o altitudine de aproximativ 1.395 de metri.",
+        "Sediul Curții Supreme de Apel a Africii de Sud.",
+        "Fondat oficial în 1846 de maiorul britanic Henry Douglas Warden.",
+        "Numele provine din olandeză și înseamnă 'Fântâna cu flori'."
+      ]
+    },
+    {
+      "id": "southafrica-johannesburg-cities-v2",
+      "descriptionAdvanced": "Johannesburg, supranumit 'Orașul Aurului' sau 'Egoli', este cea mai mare metropolă a Africii de Sud și motorul economic al întregului continent. Orașul a luat naștere în urma goanei după aur din 1886 pe creasta Witwatersrand. Astăzi, este un hub financiar global, sediul celor mai mari companii miniere și al bursei de valori JSE. Johannesburg este remarcabil pentru diversitatea sa culturală și pentru istoria luptei împotriva apartheidului, reflectată în Muzeul Apartheidului și în suburbia Soweto. Deși nu este situat lângă un corp mare de apă, orașul se mândrește cu una dintre cele mai mari păduri urbane plantate manual din lume, având peste 10 milioane de arbori. Geografie K7 — Urbanizare și centre economice globale.",
+      "factsAdvanced": [
+        "Fondat în 1886 după descoperirea aurului de către George Harrison.",
+        "Cea mai mare pădure artificială din lume cu peste 10 milioane de copaci.",
+        "Găzduiește JSE, cea mai mare bursă de valori din Africa.",
+        "Altitudinea orașului este de 1.753 de metri deasupra nivelului mării.",
+        "Turnul Hillbrow este cea mai înaltă structură din Africa (269 metri).",
+        "Soweto (South Western Townships) este locul unde au locuit doi laureați ai Premiului Nobel.",
+        "Aeroportul O.R. Tambo este cel mai aglomerat de pe continent.",
+        "Orașul generează aproximativ 16% din PIB-ul Africii de Sud."
+      ]
+    },
+    {
+      "id": "southafrica-durban-cities-v2",
+      "descriptionAdvanced": "Durban, situat pe coasta estică a Africii de Sud în provincia KwaZulu-Natal, este cel mai mare port de containere din Africa și o destinație turistică de top. Orașul este celebru pentru clima sa subtropicală, plajele aurii cunoscute sub numele de 'Golden Mile' și cultura sa vibrantă, fiind casa celei mai mari populații de origine indiană din afara Indiei. Această influență se resimte în gastronomia locală, celebrul 'Bunny Chow' fiind un preparat emblematic. Durban îmbină modernitatea zgârie-norilor de la malul mării cu parcuri tematice precum uShaka Marine World. Stadionul Moses Mabhida, cu arcul său spectaculos, domină orizontul orașului. Geografie K7 — Orașe portuare și comerț maritim.",
+      "factsAdvanced": [
+        "Cel mai mare port de marfă din Africa de Sud și al patrulea din emisfera sudică.",
+        "Cunoscut pentru Golden Mile, o fâșie de 6 km de plaje cu nisip.",
+        "Găzduiește uShaka Marine World, al cincilea cel mai mare acvariu din lume.",
+        "Bunny Chow, o jumătate de pâine umplută cu curry, a fost inventat aici.",
+        "Stadionul Moses Mabhida are un arc de 106 metri înălțime.",
+        "Populația indiană din Durban este cea mai mare din afara Indiei.",
+        "Orașul a fost numit inițial Port Natal de către Vasco da Gama în 1497.",
+        "Climatul este subtropical umed, cu peste 300 de zile însorite pe an."
+      ]
+    },
+    {
+      "id": "southafrica-gqeberha-cities-v2",
+      "descriptionAdvanced": "Gqeberha, cunoscut anterior sub numele de Port Elizabeth, este situat pe malul Golfului Algoa și este un centru vital al industriei auto din Africa de Sud. Supranumit 'Orașul Prietenos' sau 'Orașul Vântului', acesta găzduiește fabrici majore ale unor producători globali precum Volkswagen și Ford. Orașul este poarta de acces către Garden Route și oferă acces facil la Addo Elephant National Park. Gqeberha are un patrimoniu istoric bogat, cu clădiri victoriene și monumentul Donkin Reserve. Portul Ngqura, situat în apropiere, este unul dintre cele mai moderne porturi de adâncime din regiune, facilitând exporturile industriale masive. Geografie K7 — Industrii manufacturiere și logistică portuară.",
+      "factsAdvanced": [
+        "Centrul industriei de automobile din Africa de Sud, numit adesea 'Detroitul Africii'.",
+        "Redenumit oficial Gqeberha in 2021, nume derivat din limba Xhosa.",
+        "Golful Algoa este considerat capitala mondială a delfinilor.",
+        "Donkin Reserve găzduiește un far construit în 1861 și o piramidă de piatră.",
+        "Sediul Universității Nelson Mandela, singura universitate din lume numită după el.",
+        "Găzduiește portul de adâncime Ngqura, inaugurat în 2009.",
+        "Punct de plecare pentru explorarea regiunii Garden Route.",
+        "Temperatura medie anuală este de 18°C, fiind extrem de constantă."
+      ]
+    },
+    {
+      "id": "southafrica-east-london-cities-v2",
+      "descriptionAdvanced": "East London, situat în provincia Eastern Cape, este singurul oraș cu port fluvial din Africa de Sud, fiind amplasat la gura de vărsare a râului Buffalo. Orașul este un pilon important al economiei regionale, găzduind o unitate majoră de producție Mercedes-Benz. East London este renumit pentru plajele sale sălbatice și pentru istoria sa naturală fascinantă; aici a fost redescoperit celacantul în 1938, un pește preistoric considerat dispărut de milioane de ani. Muzeul din East London păstrează singurul ou de Dodo din lume și urme ale primilor oameni. Orașul păstrează un farmec relaxat, fiind un centru pentru sporturi nautice și surfing. Geografie K7 — Ecosisteme fluviale și conservarea patrimoniului.",
+      "factsAdvanced": [
+        "Singurul port fluvial comercial din Africa de Sud, situat pe râul Buffalo.",
+        "Locul unde a fost redescoperit celacantul (Coelacanth) în 1938.",
+        "Găzduiește o fabrică Mercedes-Benz de clasă mondială din 1958.",
+        "Nahoon Reef este o destinație de surfing faimoasă la nivel global.",
+        "Muzeul orașului deține singurul ou de Dodo rămas în lume.",
+        "Fondat în 1847 ca Fort Glamorgan pentru aprovizionarea trupelor britanice.",
+        "Cunoscut sub numele xhosa 'eMonti'.",
+        "Climatul este temperat maritim, cu veri calde și ierni blânde."
+      ]
+    },
+    {
+      "id": "southafrica-polokwane-cities-v2",
+      "descriptionAdvanced": "Polokwane, capitala provinciei Limpopo, este cel mai mare centru urban din nordul Africii de Sud și un nod logistic crucial către restul continentului. Numele său înseamnă 'Loc de siguranță' în limba Sotho de Nord. Orașul este poarta de acces către Parcul Național Kruger și Munții Wolkberg. Polokwane îmbină facilitățile moderne, precum stadionul Peter Mokaba, cu tradiții culturale bogate expuse la Muzeul în Aer Liber Bakone Malapa. Economia locală este susținută de minerit, agricultură și servicii administrative. Este un oraș în continuă expansiune, caracterizat prin bulevarde largi și un amestec de arhitectură colonială și modernă. Geografie K7 — Rețele de transport și centre administrative provinciale.",
+      "factsAdvanced": [
+        "Capitala provinciei Limpopo și cel mai mare oraș din nordul țării.",
+        "Cunoscut anterior sub numele de Pietersburg până în 2002.",
+        "Stadionul Peter Mokaba are un design inspirat de arborele Baobab.",
+        "Bakone Malapa este un muzeu viu care prezintă cultura tradițională Sotho.",
+        "Situat pe autostrada N1, principala rută către Zimbabwe.",
+        "Altitudinea de 1.312 metri asigură o climă mai blândă decât în restul regiunii.",
+        "Găzduiește o universitate tehnologică majoră.",
+        "Rezervația de vânătoare Polokwane se află la doar 5 km de centrul orașului."
+      ]
+    },
+    {
+      "id": "southafrica-mbombela-cities-v2",
+      "descriptionAdvanced": "Mbombela, capitala provinciei Mpumalanga, este situată în valea fertilă a râului Crocodile și servește drept principală poartă de acces către Parcul Național Kruger. Orașul, cunoscut anterior ca Nelspruit, este un centru major pentru producția de fructe tropicale, în special citrice, mango și nuci macadamia. Mbombela se bucură de un climat subtropical luxuriant, fiind înconjurat de munți și vegetație bogată. Grădina Botanică Națională Lowveld este o atracție de top, adăpostind specii rare de plante și o cascadă spectaculoasă. Stadionul Mbombela, cu designul său unic având piloni sub formă de girafe, este un punct de reper arhitectural modern. Geografie K7 — Agricultură subtropicală și turism ecologic.",
+      "factsAdvanced": [
+        "Capitala provinciei Mpumalanga și poarta de intrare în Parcul Kruger.",
+        "Redenumit oficial Mbombela în 2009, însemnând 'mulți oameni într-un spațiu mic'.",
+        "Stadionul Mbombela are 18 piloni în formă de girafe.",
+        "Cel mai mare producător de nuci macadamia din emisfera sudică.",
+        "Găzduiește Grădina Botanică Națională Lowveld, înființată în 1969.",
+        "Situat pe coridorul comercial Maputo care leagă Gauteng de Mozambic.",
+        "Peșterile Sudwala, cele mai vechi din lume, se află în apropiere.",
+        "Economia se bazează masiv pe procesarea produselor agricole și turism."
+      ]
+    },
+    {
+      "id": "southafrica-kimberley-cities-v2",
+      "descriptionAdvanced": "Kimberley, capitala provinciei Northern Cape, este imortalizată în istorie drept 'Orașul Diamantelor'. Acesta s-a dezvoltat rapid la sfârșitul secolului al XIX-lea după descoperirea diamantelor, ducând la crearea celebrei 'Big Hole', una dintre cele mai mari excavații făcute manual din lume. Orașul a fost un pionier tehnologic, fiind primul din emisfera sudică care a introdus iluminatul stradal electric. Astăzi, Kimberley păstrează o atmosferă istorică prin muzeele sale miniere și arhitectura victoriană bine conservată. Digul Kamfers, situat în apropiere, oferă un contrast natural spectaculos, fiind un loc de reproducere pentru mii de flamingo roz. Geografie K7 — Resurse minerale și evoluție tehnologică timpurie.",
+      "factsAdvanced": [
+        "Sediul 'Big Hole', o mină excavată manual de peste 200 de metri adâncime.",
+        "Primul oraș din emisfera sudică cu iluminat stradal electric în 1882.",
+        "Locul de naștere al gigantului diamantifer De Beers.",
+        "Muzeul minier din Kimberley include un întreg sat victorian reconstituit.",
+        "A fost asediat timp de 124 de zile în timpul Războiului Burilor.",
+        "Găzduiește Memorialul Onoratului Mort, proiectat de Sir Herbert Baker.",
+        "Digul Kamfers este casa unei colonii uriașe de flamingo mici.",
+        "Peste 14 milioane de carate de diamante au fost extrase din mina centrală."
+      ]
+    },
+    {
+      "id": "southafrica-pietermaritzburg-cities-v2",
+      "descriptionAdvanced": "Pietermaritzburg, capitala provinciei KwaZulu-Natal, este renumită pentru arhitectura sa victoriană din cărămidă roșie și pentru rolul său administrativ central. Fondat de Voortrekkers în 1838, orașul păstrează numeroase monumente istorice, inclusiv Primăria, considerată cea mai mare clădire de cărămidă din emisfera sudică. Orașul este strâns legat de viața lui Mahatma Gandhi, aici având loc incidentul din gară care i-a schimbat parcursul politic. Pietermaritzburg este un centru sportiv major, fiind punctul de plecare sau de sosire al celebrului Comrades Marathon. Grădina Botanică Națională și numeroasele parcuri îi conferă supranumele de 'Orașul din Grădină'. Geografie K7 — Centre administrative și moștenire colonială.",
+      "factsAdvanced": [
+        "Capitala administrativă a provinciei KwaZulu-Natal.",
+        "Primăria este cea mai mare clădire din cărămidă din emisfera sudică (1901).",
+        "Mahatma Gandhi a fost dat jos din tren în gara locală în 1893.",
+        "Găzduiește startul sau sosirea la Comrades Marathon, cel mai mare ultramaraton din lume.",
+        "Fondat în 1838 și numit după liderii buri Piet Retief și Gert Maritz.",
+        "Sediul Universității din KwaZulu-Natal (campusul Pietermaritzburg).",
+        "Cunoscut pentru 'Royal Agricultural Show', cel mai vechi eveniment de acest tip din țară.",
+        "Grădina Botanică locală deține o celebră alee de arbori de platină (plane trees)."
+      ]
+    },
+    {
+      "id": "southafrica-rustenburg-cities-v2",
+      "descriptionAdvanced": "Rustenburg, situat la poalele munților Magaliesberg în provincia North West, este centrul mondial al producției de platină. Orașul a cunoscut o creștere economică explozivă datorită rezervelor masive de metale din grupul platinei din Complexul Bushveld. Dincolo de minerit, Rustenburg are o importanță istorică majoră, fiind una dintre cele mai vechi așezări ale coloniștilor buri în nordul țării. Proximitatea față de complexul Sun City și Parcul Național Pilanesberg îl face un punct strategic pentru turism. Stadionul Royal Bafokeng, situat în apropiere, reflectă bogăția și tradiția comunității locale care deține drepturi miniere semnificative. Geografie K7 — Extracția metalelor prețioase și impactul economic regional.",
+      "factsAdvanced": [
+        "Peste 70% din platina lumii este extrasă din zona înconjurătoare.",
+        "Situat la poalele Munților Magaliesberg, unii dintre cei mai vechi din lume.",
+        "Numele înseamnă 'Loc de odihnă' în olandeză.",
+        "Oraș gazdă al Campionatului Mondial de Fotbal din 2010.",
+        "Baza Națiunii Royal Bafokeng, una dintre cele mai bogate comunități indigene din Africa.",
+        "Aproape de Sun City, celebrul resort de lux supranumit 'Las Vegas-ul Africii'.",
+        "Complexul Bushveld conține cele mai mari depozite de magmă stratificată de pe Pământ.",
+        "Unun dintre orașele cu cea mai rapidă creștere demografică din Africa de Sud."
+      ]
+    },
+    {
+      "id": "southafrica-mahikeng-cities-v2",
+      "descriptionAdvanced": "Mahikeng, capitala provinciei North West, este un oraș cu o istorie militară și politică densă, situat aproape de granița cu Botswana. Numele său înseamnă 'Locul pietrelor' în limba Tswana. Orașul este celebru pentru Asediul Mafeking din timpul Războiului Burilor, unde Robert Baden-Powell a pus bazele ideilor pentru mișcarea cercetașilor. Mahikeng este un centru administrativ și educațional cheie, fuzionând cu orașul vecin Mmabatho, fosta capitală a bantustanului Bophuthatswana. Cultura locală este puternic influențată de tradițiile poporului Tswana, fiind un loc unde istoria colonială și cea indigenă se întâlnesc în mod vizibil. Geografie K7 — Frontiere internaționale și centre administrative.",
+      "factsAdvanced": [
+        "Capitala provinciei North West, situată la 250 km vest de Johannesburg.",
+        "Asediul Mafeking (1899-1900) a durat 217 zile.",
+        "Robert Baden-Powell a fondat aici mișcarea Boy Scouts după asediu.",
+        "Fosta capitală a protectoratului Bechuanaland (actuala Botswana) până în 1965.",
+        "Găzduiește Muzeul Mahikeng, cu exponate detaliate despre războiul burilor.",
+        "Un campus major al Universității North-West se află aici.",
+        "Numele a fost schimbat din Mafikeng în Mahikeng în 2010.",
+        "Economia se bazează pe servicii guvernamentale, comerț și agricultură."
+      ]
+    },
+    {
+      "id": "southafrica-bhisho-cities-v2",
+      "descriptionAdvanced": "Bhisho, capitala administrativă a provinciei Eastern Cape, este un oraș proiectat special pentru funcții guvernamentale. Numele său înseamnă 'Bivol' în limba Xhosa, făcând referire la râul Buffalo care curge în apropiere. Orașul a servit drept capitală a bantustanului Ciskei în perioada apartheidului și a devenit un punct focal al tranziției democratice a Africii de Sud. Bhisho este dominat de complexe administrative moderne, sedii de ministere și clădirea legislativului provincial. Deși este un oraș mic, importanța sa politică este majoră, gestionând una dintre cele mai vaste și populate provincii ale țării. Un memorial dedicat victimelor masacrului din 1992 subliniază istoria sa recentă turbulentă. Geografie K7 — Politică teritorială și centre de guvernare.",
+      "factsAdvanced": [
+        "Capitala administrativă a provinciei Eastern Cape.",
+        "Fosta capitală a bantustanului Ciskei între 1981 și 1994.",
+        "Masacrul de la Bhisho din 1992 a fost un moment cheie în negocierile pentru democrație.",
+        "Situat în imediata apropiere a orașului istoric King William's Town.",
+        "Găzduiește clădirea legislativului provincial și sediul poliției provinciale.",
+        "Numele reflectă legătura cu râul Buffalo (iBhisho).",
+        "Orașul este construit pe o structură urbană modernă, centrată pe birouri publice.",
+        "Eastern Cape este provincia unde s-a născut Nelson Mandela."
+      ]
+    },
+    {
+      "id": "southafrica-upington-cities-v2",
+      "descriptionAdvanced": "Upington, situat pe malurile fluviului Orange în provincia Northern Cape, este o adevărată oază în peisajul arid al deșertului Kalahari. Orașul este centrul agricol al regiunii, datorită sistemelor de irigații care permit cultivarea strugurilor, fiind faimos pentru producția de stafide și vinuri de calitate. Upington servește ca un nod de transport vital către Namibia și Parcul Transfrontalier Kgalagadi. Aeroportul din Upington deține una dintre cele mai lungi piste din lume, fiind utilizat pentru testarea avioanelor mari și drept punct de aterizare de rezervă pentru navetele spațiale. Clima extrem de caldă și peisajul fluvial spectaculos definesc identitatea acestui oraș sfertuit de apele Orange-ului. Geografie K7 — Sisteme de irigații în regiuni aride și logistică.",
+      "factsAdvanced": [
+        "Centrul industriei de stafide din Africa de Sud, exportând în întreaga lume.",
+        "Aeroportul Upington are o pistă de 4.900 metri, una dintre cele mai lungi de pe glob.",
+        "Fluviul Orange traversează orașul, fiind sursa vitală de apă.",
+        "Orașul a fost numit după Sir Thomas Upington, procurorul general al Coloniei Capului.",
+        "Upington este poarta de intrare către Cascada Augrabies.",
+        "Înregistrează unele dintre cele mai ridicate temperaturi din țară, deseori peste 40°C vara.",
+        "Orange River Cellars din Upington este una dintre cele mai mari cooperative viticole din Africa.",
+        "Fondat în 1871 ca stație de misiune de către preotul Christiaan Schröder."
+      ]
+    },
+    {
+      "id": "southafrica-george-cities-v2",
+      "descriptionAdvanced": "George, situat la poalele spectaculoșilor munți Outeniqua in provincia Western Cape, este considerat centrul administrativ și economic al renumitei rute turistice Garden Route. Orașul beneficiază de un climat temperat și peisaje verzi luxuriante, fiind o destinație de top pentru pasionații de golf, cu terenuri de clasă mondială precum Fancourt. George are o istorie lungă legată de industria lemnului, exploatând pădurile native din jur. Orașul este un nod de transport major, având un aeroport regional care deservește întreaga coastă de sud. Cu o infrastructură modernă și o atmosferă sigură, George a devenit un loc preferat pentru retragere și pentru familii, oferind un echilibru între natură și facilități urbane. Geografie K7 — Regiuni turistice și gestionarea resurselor naturale.",
+      "factsAdvanced": [
+        "Al șaselea cel mai vechi oraș din Africa de Sud, fondat în 1811.",
+        "Numit după regele George al III-lea al Marii Britanii.",
+        "Capitala neoficială a faimosului traseu turistic Garden Route.",
+        "Găzduiește Fancourt, una dintre cele mai bune proprietăți de golf din lume.",
+        "Muzeul Transporturilor Outeniqua deține o colecție impresionantă de locomotive cu abur.",
+        "Singurul oraș de pe Garden Route cu un aeroport comercial major.",
+        "Situat la poalele pasului istoric Outeniqua.",
+        "Industria principală este procesarea lemnului, turismul și serviciile financiare."
+      ]
+    },
+    {
+      "id": "southafrica-stellenbosch-cities-v2",
+      "descriptionAdvanced": "Stellenbosch, situat la aproximativ 50 km de Cape Town, este inima regiunii viticole a Africii de Sud și un centru universitar de prestigiu mondial. Fondat în 1679, este al doilea cel mai vechi oraș de origine europeană din țară, fiind celebru pentru străzile sale mărginite de stejari și arhitectura Cape Dutch bine conservată. Universitatea Stellenbosch conferă orașului o energie tânără și intelectuală, fiind una dintre instituțiile academice de top ale continentului. Regiunea înconjurătoare este dominată de podgorii spectaculoase care produc vinuri premiate internațional, în special din soiul local Pinotage. Peisajul montan dramatic și cultura gastronomică rafinată fac din Stellenbosch o destinație turistică esențială. Geografie K7 — Viticultură și peisaje culturale.",
+      "factsAdvanced": [
+        "Al doilea cel mai vechi oraș din Africa de Sud, fondat de Simon van der Stel în 1679.",
+        "Cunoscut sub numele de 'Eikestad' (Orașul Stejarilor) datorită arborilor plantați de fondator.",
+        "Prima rută a vinului (Wine Route) din Africa de Sud a fost stabilită aici în 1971.",
+        "Găzduiește Universitatea Stellenbosch, renumită pentru cercetare și vinificație.",
+        "Arhitectura Cape Dutch este vizibilă în tot orașul istoric.",
+        "Munții Jonkershoek oferă trasee spectaculoase pentru drumeții și ciclism.",
+        "Dorp Street este una dintre cele mai vechi și bine conservate străzi din țară.",
+        "Climatul este mediteranean, ideal pentru soiurile de struguri Cabernet Sauvignon și Pinotage."
+      ]
+    },
+    {
+      "id": "southafrica-paarl-cities-v2",
+      "descriptionAdvanced": "Paarl, situat în valea râului Berg, este al treilea cel mai vechi oraș din Africa de Sud și un centru cultural major, în special pentru comunitatea vorbitoare de afrikaans. Orașul este dominat de trei uriașe domuri de granit, dintre care cel mai mare se numește Paarl Rock (Piatra Perlei), care strălucește spectaculos după ploaie. Paarl este locul unde a fost ridicat monumentul limbii afrikaans (Taalmonument), celebrând originile acestei limbi unice. Regiunea este una dintre cele mai productive zone viticole și pomicole din Cape Winelands. Orașul se mândrește cu o stradă principală istorică, lungă de 12 km, plină de clădiri de patrimoniu și biserici impresionante, reflectând o istorie religioasă și educațională bogată. Geografie K7 — Identitate culturală și peisaje geomorfologice.",
+      "factsAdvanced": [
+        "Al treilea cel mai vechi oraș din țară, fondat oficial în 1687.",
+        "Numele provine de la uriașele stânci de granit care seamănă cu perlele.",
+        "Taalmonument este singurul monument din lume dedicat unei limbi specifice.",
+        "Găzduiește sediul KWV, una dintre cele mai mari cooperative viticole din lume.",
+        "Strada principală (Main Street) are o lungime remarcabilă de peste 12 kilometri.",
+        "Nelson Mandela a fost eliberat din închisoarea Drakenstein (lângă Paarl) în 1990.",
+        "Munții Paarl sunt al doilea cel mai mare monolit de granit de pe glob.",
+        "Zonă majoră pentru producția de struguri de masă și fructe sâmburoase."
+      ]
+    },
+    {
+      "id": "southafrica-worcester-cities-v2",
+      "descriptionAdvanced": "Worcester, situat în valea râului Breede și înconjurat de munții spectaculoși Brandwacht și Langeberg, este motorul economic al regiunii interioare a Western Cape. Orașul este centrul celei mai mari regiuni viticole din Africa de Sud în ceea ce privește volumul de producție, fiind renumit pentru brandy și vinurile fortificate. Worcester găzduiește Grădina Botanică Națională de Deșert Karoo, care expune flora unică a regiunilor aride. Un aspect remarcabil al orașului este rolul său de centru pentru persoanele cu dizabilități, având școli și instituții de renume mondial pentru orbi și surzi. Arhitectura orașului reflectă perioadele victoriană și eduardiană, integrându-se armonios în peisajul montan dramatic al văii. Geografie K7 — Agricultura de irigații și servicii sociale specializate.",
+      "factsAdvanced": [
+        "Centrul celei mai mari regiuni producătoare de vin și brandy din Africa de Sud.",
+        "Grădina Botanică Karoo Desert este singura de acest tip din emisfera sudică.",
+        "Fondat în 1819 și numit după marchizul de Worcester.",
+        "Sediul Institutului pentru Orbi și Surzi, un pionier in educația specială.",
+        "Barajul Brandvlei de lângă oraș este o piesă crucială pentru irigațiile din vale.",
+        "Orașul a fost proiectat pe o grilă ortogonală perfectă în 1820.",
+        "Producție majoră de conserve de fructe și sucuri.",
+        "Înconjurat de vârfuri montane care sunt adesea acoperite de zăpadă iarna."
+      ]
+    },
+    {
+      "id": "southafrica-oudtshoorn-cities-v2",
+      "descriptionAdvanced": "Oudtshoorn, situat în regiunea semiaridă Klein Karoo, este cunoscut în întreaga lume drept 'Capitala Mondială a Struților'. Orașul a cunoscut o eră de aur la începutul secolului al XX-lea datorită cererii globale pentru pene de struț, perioadă reflectată în 'Palatele de Pene' – vilele luxoase construite de baronii struților. Pe lângă fermele de struți, Oudtshoorn este poarta de acces către spectaculoasele Peșteri Cango, un sistem de caverne de calcar cu stalactite și stalagmite uluitoare. Pasul Swartberg, un drum istoric de munte situat la nord de oraș, este considerat o capodoperă a ingineriei secolului al XIX-lea. Orașul este și centrul cultural al comunității vorbitoare de afrikaans, găzduind cel mai mare festival de artă din țară. Geografie K7 — Sisteme agricole specializate și fenomene carstice.",
+      "factsAdvanced": [
+        "Cea mai mare populație de struți din lume se află în această regiune.",
+        "Peșterile Cango sunt printre cele mai vizitate atracții subterane din Africa.",
+        "Orașul a fost centrul boom-ului penei de struț (1870-1914).",
+        "Palatele de Pene (Feather Palaces) sunt clădiri istorice unice construite din profitul struților.",
+        "Găzduiește festivalul KKNK, cel mai mare festival de limbă afrikaans.",
+        "Pasul Swartberg este inclus în patrimoniul UNESCO pentru biodiversitate.",
+        "Regiunea Klein Karoo este faimoasă pentru plantele sale suculente endemice.",
+        "Climatul este arid, cu peste 330 de zile de soare pe an."
+      ]
+    },
+    {
+      "id": "southafrica-beaufort-west-cities-v2",
+      "descriptionAdvanced": "Beaufort West este cel mai vechi și cel mai mare oraș din regiunea Great Karoo, servind drept un popas strategic pe autostrada N1 între Johannesburg și Cape Town. Fondat în 1818, orașul este plin de istorie și servește ca poartă de intrare către Parcul Național Karoo, unde vizitatorii pot vedea fosile preistorice și animale precum zebra de munte a Capului. Beaufort West este locul de naștere al profesorului Chris Barnard, medicul care a efectuat primul transplant de inimă din lume, casa sa natală fiind acum un muzeu popular. Orașul păstrează o arhitectură colonială distinctă și este centrul industriei de creștere a oilor din Karoo, faimoasă pentru carnea de miel cu aromă naturală de plante aromatice. Geografie K7 — Regiuni deșertice și rute de transport naționale.",
+      "factsAdvanced": [
+        "Primul oraș din Africa de Sud care a primit statut municipal în 1837.",
+        "Locul de naștere al chirurgului Chris Barnard (primul transplant de inimă, 1967).",
+        "Poarta către Parcul Național Karoo, faimos pentru ecosistemul său arid.",
+        "Situat pe autostrada N1, principala arteră rutieră a țării.",
+        "Orașul a fost numit după ducele de Beaufort, tatăl guvernatorului Lord Charles Somerset.",
+        "Zonă majoră pentru producția de lână și carne de miel Karoo.",
+        "Muzeul local deține o colecție impresionantă de obiecte legate de istoria medicinei.",
+        "Climatul este caracterizat prin veri fierbinți și ierni foarte reci, tipic deșertic."
+      ]
+    },
+    {
+      "id": "southafrica-knysna-cities-v2",
+      "descriptionAdvanced": "Knysna, o bijuterie pe traseul Garden Route, este situată pe malul unei lagune spectaculoase care se varsă în Oceanul Indian prin două stânci uriașe cunoscute sub numele de 'Knysna Heads'. Orașul este înconjurat de păduri native dense, care odinioară adăposteau turme mari de elefanți. Astăzi, Knysna este o destinație turistică cosmopolită, faimoasă pentru stridiile sale delicioase, festivalurile anuale și ambarcațiunile de agrement. Zona de mal (Waterfront) oferă numeroase galerii de artă și restaurante rafinate. Pădurile din jur, precum Diepwalle, sunt ideale pentru drumeții și observarea păsărilor, oferind un refugiu natural răcoros. Orașul îmbină armonios luxul modern cu conservarea unui ecosistem marin și forestier fragil și valoros. Geografie K7 — Ecosisteme lagunare și managementul turismului de coastă.",
+      "factsAdvanced": [
+        "Laguna Knysna este una dintre puținele din lume protejate de 'Capete' (Heads) de gresie.",
+        "Faimos pentru Festivalul Stridiilor (Knysna Oyster Festival) desfășurat in iulie.",
+        "Pădurea Knysna este cea mai mare pădure indigenă continuă din Africa de Sud.",
+        "Ultimii elefanți de pădure liberi din Africa de Sud trăiesc în această zonă.",
+        "Insula Thesen din lagună este un cartier rezidențial eco-sustenabil construit pe o fostă zonă industrială.",
+        "Cunoscut pentru industria artizanală a prelucrării lemnului de Yellowwood.",
+        "Heads este considerat unul dintre cele mai periculoase locuri pentru navigație din lume.",
+        "Găzduiește o specie endemică rară: căluțul de mare de Knysna (Hippocampus capensis)."
+      ]
+    }
+  ]
+}

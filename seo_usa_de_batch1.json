@@ -1,0 +1,51 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "new-york-city-cities-v2",
+      "descriptionAdvanced": "New York City, bekannt als 'The Big Apple', ist das pulsierende Herz der US-Wirtschaft und Kultur. Die Stadt beherbergt bedeutende Institutionen wie die Wall Street und die Vereinten Nationen, die ihren globalen Einfluss unterstreichen. Mit ihren ikonischen Wahrzeichen wie dem Empire State Building und dem Central Park bietet sie eine einzigartige Mischung aus historischer Architektur und modernem urbanem Leben. Das Stadtbild ist geprägt von einer unendlichen Vielfalt an Kulturen, die sich in der Gastronomie und den verschiedenen Stadtvierteln wie Chinatown und Little Italy widerspiegeln. Geographie K7 — urbane Zentren in den USA.",
+      "factsAdvanced": [
+        "Gründung 1624 als Nieuw Amsterdam",
+        "Besteht aus fünf Stadtbezirken: Manhattan, Brooklyn, Queens, Bronx, Staten Island",
+        "Der Times Square zählt täglich bis zu 300.000 Passanten",
+        "Über 800 Sprachen werden in der Stadt gesprochen",
+        "Die Freiheitsstatue wurde 1886 eingeweiht",
+        "Der Central Park ist mit 3,41 km² eine grüne Lunge mitten im Stadtzentrum"
+      ]
+    },
+    {
+      "id": "los-angeles-cities-v2",
+      "descriptionAdvanced": "Los Angeles ist das kulturelle und wirtschaftliche Zentrum Kaliforniens und weltweit als Heimat Hollywoods bekannt. Die Stadt erstreckt sich über ein riesiges Gebiet, das von den Stränden am Pazifik bis hin zu den Bergen reicht. Neben der Unterhaltungsindustrie ist die Stadt ein bedeutender Hafenstandort und ein Zentrum für Luft- und Raumfahrttechnologie. LA bietet ein mediterranes Klima, das einen ganzjährigen Aufenthalt im Freien ermöglicht, und ist ein Schmelztiegel für diverse Einflüsse aus Lateinamerika und Asien. Geschichte K8 — Entwicklung der Unterhaltungsindustrie im 20. Jahrhundert.",
+      "factsAdvanced": [
+        "Gegründet 1781 als El Pueblo de la Reina de los Ángeles",
+        "Zentrum der globalen Filmindustrie seit den 1910er Jahren",
+        "Beheimatet den Griffith Observatory mit Blick auf das Hollywood-Sign",
+        "Verfügt über eines der größten Autobahnnetze weltweit",
+        "Hatte bisher zweimal die Olympischen Sommerspiele ausgerichtet (1932, 1984)",
+        "Die Wirtschaft ist stark durch Tech-Startups und Unterhaltung geprägt"
+      ]
+    },
+    {
+      "id": "chicago-cities-v2",
+      "descriptionAdvanced": "Chicago, am Ufer des Lake Michigan gelegen, gilt als die Geburtsstätte des modernen Wolkenkratzers. Die Stadt ist ein entscheidendes logistisches Drehkreuz und historisch für ihre starke industrielle Basis sowie ihren Beitrag zum Jazz und Blues bekannt. Architektonisch bietet sie bedeutende Bauwerke, darunter der Willis Tower, der lange Zeit das höchste Gebäude der Welt war. Chicago kombiniert eine ausgeprägte urbane Atmosphäre mit weitläufigen Parks entlang des Seeufers, was sie zu einem wichtigen Knotenpunkt im Mittleren Westen macht. Geographie K6 — Binnengewässer und urbane Entwicklung.",
+      "factsAdvanced": [
+        "Gründung der Stadt im Jahr 1833",
+        "Wichtiger Standort für die Architektur des Prairie-Stils von Frank Lloyd Wright",
+        "Die Chicago Loop bildet das historische Geschäftsviertel",
+        "Der Willis Tower (früher Sears Tower) ist 442 Meter hoch",
+        "Bekannt für kulinarische Spezialitäten wie die Chicago-style Deep Dish Pizza",
+        "Hafen an der Verbindung zwischen den Großen Seen und dem Mississippi-System"
+      ]
+    }
+  ]
+}

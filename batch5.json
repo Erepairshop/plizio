@@ -1,0 +1,57 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "charlotte-cities-v2",
+      "descriptionAdvanced": "Charlotte, the largest city in North Carolina, is a major financial center, second only to New York City in terms of assets under management. Known as the 'Queen City', it has grown rapidly as a hub for banking and professional services. Charlotte is also deeply rooted in the history of American motorsports, as the home of the NASCAR Hall of Fame and proximity to many race team headquarters. The city's geography, situated in the Piedmont region, offers a favorable climate and proximity to both the Appalachian Mountains and the Atlantic coast. Charlotte’s focus on development, infrastructure, and corporate growth makes it a key engine of the Southeast U.S. economy. Geography K7 — financial hubs and industrial heritage.",
+      "factsAdvanced": [
+        "Charlotte is the second-largest banking center in the United States by assets.",
+        "The city was named after Queen Charlotte, wife of King George III of the United Kingdom.",
+        "Charlotte is the hub of American motorsports, home to the NASCAR Hall of Fame.",
+        "The city is located in the Piedmont region of North Carolina.",
+        "Charlotte became the first city in the U.S. to host the Republican and Democratic national conventions in separate years.",
+        "The U.S. National Whitewater Center is a major outdoor recreational facility located in Charlotte."
+      ]
+    },
+    {
+      "id": "indianapolis-cities-v2",
+      "descriptionAdvanced": "Indianapolis, the capital of Indiana, is known for its legendary sports culture, including hosting the 'Indy 500' at the Indianapolis Motor Speedway, the largest single-day sporting event in the world. As a major crossroads in the Midwest, Indianapolis has a long history of transportation, manufacturing, and commerce. The city is home to numerous museums, such as the Children's Museum of Indianapolis, the largest of its kind globally. Indianapolis has significantly invested in urban infrastructure and revitalisation, creating a walkable downtown area along the Central Canal. The city is a key economic driver for Indiana, with strengths in biotechnology and logistics. Geography K7 — major transport hubs and sporting traditions.",
+      "factsAdvanced": [
+        "The Indianapolis Motor Speedway hosts the Indianapolis 500, the world's largest single-day sporting event.",
+        "The Children's Museum of Indianapolis is the world's largest children's museum.",
+        "Indianapolis is the capital and the most populous city in Indiana.",
+        "The city is known as the 'Crossroads of America' due to its central location and extensive highways.",
+        "Central Canal, in the heart of downtown, provides a popular recreational corridor.",
+        "Indianapolis has a strong sector in biotechnology and life sciences research."
+      ]
+    },
+    {
+      "id": "seattle-cities-v2",
+      "descriptionAdvanced": "Seattle, the largest city in the Pacific Northwest, is known for its stunning natural setting, iconic Space Needle, and vibrant technology sector. Home to industry giants like Amazon and Starbucks, Seattle has become a global leader in innovation and coffee culture. The city is framed by the Olympic Mountains to the west and the Cascade Range to the east, offering unparalleled access to outdoor activities. Seattle's history is tied to the maritime industry and gold mining, which shaped its development into a modern urban powerhouse. The city is famous for its rainy but temperate climate and deep commitment to environmental sustainability. Geography K7 — technology innovation and maritime heritage.",
+      "factsAdvanced": [
+        "Seattle was founded in 1851 and named after Chief Si'ahl.",
+        "The Space Needle was built for the 1962 World's Fair.",
+        "Seattle is the home of industry titans including Amazon, Starbucks, and Microsoft.",
+        "The city is situated between the Puget Sound and Lake Washington.",
+        "Seattle is famous for the Pike Place Market, one of the oldest public farmers' markets in the U.S.",
+        "The city’s climate is tempered by the Pacific Ocean, leading to mild, moist conditions throughout the year."
+      ]
+    },
+    {
+      "id": "denver-cities-v2",
+      "descriptionAdvanced": "Denver, the capital of Colorado, is known as the 'Mile High City' due to its elevation of exactly one mile above sea level. Located at the foot of the Rocky Mountains, it serves as a major gateway to the outdoors and a hub for telecommunications, aerospace, and finance. The city's growth was historically driven by the mining boom, but it has evolved into a modern urban center. Denver offers unique access to skiing, hiking, and rock climbing, making it a dream destination for outdoor enthusiasts. The city's downtown is vibrant, featuring historical architecture, sports stadiums, and a thriving craft beer culture. Geography K8 — alpine climates and regional outdoor economies.",
+      "factsAdvanced": [
+        "Denver is the capital of Colorado and is exactly one mile (5,280 feet) above sea level.",
+        "The city was founded as a mining town during the 1858 Pikes Peak Gold Rush.",
+        "Denver is known as a major gateway to the Rocky Mountains for skiing and outdoor activities.",
+        "The city features one of the largest public park systems in the U.S.",
+        "Denver International Airport is one of the busiest in the world and is known for its iconic tent-like roof.",
+        "The city's climate is semi-arid, with over 300 days of sunshine per year."
+      ]
+    }
+  ]
+}

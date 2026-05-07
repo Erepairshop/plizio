@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gualala-cities-v2",
+      "descriptionAdvanced": "Gualala liegt malerisch am Flusslauf des Río Ulúa im Departement Santa Bárbara. Die kleine Gemeinde ist überregional bekannt für ihre aufwendig geschnitzten Holzmasken und religiösen Artefakte, die von lokalen Handwerkern für traditionelle Tänze und Kirchen hergestellt werden. Der Name stammt aus der indigenen Sprache und bedeutet \"Wasser des guten Geruchs\". Historisch war Gualala ein landwirtschaftliches Dorf, das Tabak und Zuckerrohr anbaute, heute jedoch zunehmend vom Anbau hochwertiger Kaffeebohnen lebt. Kultur K6 — Holzschnitzkunst und Lenca-Einflüsse.",
+      "factsAdvanced": [
+        "Berühmt für die kunstvolle Holzschnitzerei traditioneller Masken.",
+        "Der Name bedeutet in indigenen Sprachen Wasser des guten Geruchs.",
+        "Liegt in unmittelbarer Nähe des Río Ulúa in Santa Bárbara.",
+        "Wirtschaft wandelt sich von Zuckerrohr zu Premiumkaffee.",
+        "Gegründet vor der Unabhängigkeit, offizielle Registrierung im 19. Jahrhundert.",
+        "Bewahrt starke Einflüsse der Lenca-Mythologie in seinen Handwerken."
+      ]
+    },
+    {
+      "id": "nueva-arcadia-cities-v2",
+      "descriptionAdvanced": "Nueva Arcadia, in Honduras weithin als \"La Entrada\" bekannt, ist die pulsierende Handelsmetropole des Departements Copán. Die Stadt ist der unabdingbare Knotenpunkt für den gesamten Güter- und Personenverkehr, der von San Pedro Sula in den Westen des Landes und nach Guatemala fließt. Gegründet von Arbeitern der Hacienda San Encarnación, erlebte sie in den letzten Jahrzehnten ein explosives demografisches Wachstum. Durch die Lage an der Panamericana haben sich hier zahlreiche Banken, Großhändler und Kaffeegenossenschaften angesiedelt, die Nueva Arcadia zum wirtschaftlichen Motor der Region machen. Wirtschaft K8 — Handelsrouten und Urbanisierung.",
+      "factsAdvanced": [
+        "Weltweit und national meist unter dem Namen La Entrada bekannt.",
+        "Wichtigster Handelsknotenpunkt zwischen dem Norden und dem Westen von Honduras.",
+        "Zentrum für Kaffeegenossenschaften und landwirtschaftliche Großhändler.",
+        "Erlebte eines der schnellsten Bevölkerungswachstumsraten der Region.",
+        "Dient als logistisches Sprungbrett für Exporte nach Guatemala.",
+        "Entstand aus Siedlungen der kolonialen Hacienda San Encarnación."
+      ]
+    },
+    {
+      "id": "san-nicolas-cities-v2",
+      "descriptionAdvanced": "San Nicolás ist eine traditionelle Kaffee-Gemeinde im Herzen des Departements Santa Bárbara. Sie ist tief in der Geschichte des honduranischen Kaffees verwurzelt; einige der ältesten Kaffeeplantagen des Landes befinden sich auf den umliegenden Berghängen. Bemerkenswert ist die enorme Bedeutung der Bildung für die Gemeinde; historisch besaß San Nicolás einige der ersten weiterführenden Schulen der Region und brachte viele Lehrer hervor. Ein riesiger, uralter Ceiba-Baum im Zentrum der Stadt gilt als Symbol für die Widerstandsfähigkeit der Einheimischen. Gesellschaft K7 — Bildungstradition und Kaffeebauern.",
+      "factsAdvanced": [
+        "Besitzt eine der ältesten und stolzesten Bildungstraditionen in Santa Bárbara.",
+        "Eines der traditionellsten Kaffeeanbaugebiete des Landes.",
+        "Ein massiver, jahrhundertealter Ceiba-Baum steht im historischen Zentrum.",
+        "Die Gemeinde brachte historisch viele Lehrer für ganz Honduras hervor.",
+        "Gegründet in den frühen 1800er Jahren.",
+        "Liegt auf einer fruchtbaren Hochebene mit idealem Kaffeeklima."
+      ]
+    },
+    {
+      "id": "atima-cities-v2",
+      "descriptionAdvanced": "Atima liegt tief in den schroffen Bergen von Santa Bárbara und zeichnet sich durch seine extrem steilen Kaffeefarmen aus. Die fast ausschließliche Einkommensquelle der kleinen Gemeinde ist der Exportkaffee, der hier in großer Höhe langsam reift. Bekannt ist Atima auch für seine natürlichen Höhlen und den Río San José, der unterirdisch durch Karstgestein fließt (El Río Subterráneo). Aufgrund der topografischen Isolation hat sich in Atima eine sehr enge Gemeinschaftsstruktur gebildet, die stark von kooperativem Landbau geprägt ist. Geografie K8 — Karstlandschaften und isolierter Anbau.",
+      "factsAdvanced": [
+        "Bekannt für den El Río Subterráneo, einen unterirdisch fließenden Fluss.",
+        "Wirtschaft ist extrem abhängig vom Hochlandkaffee (Strictly High Grown).",
+        "Topografisch sehr isoliert durch die Bergkette von Santa Bárbara.",
+        "Geprägt von einem System enger lokaler Agrarkooperativen.",
+        "Verfügt über wenig erforschte Kalksteinhöhlen in der Nähe.",
+        "Die Infrastruktur für den Abtransport der Ernte ist eine ständige Herausforderung."
+      ]
+    },
+    {
+      "id": "el-triunfo-de-la-cruz-cities-v2",
+      "descriptionAdvanced": "Triunfo de la Cruz ist nicht nur eine malerische Küstengemeinde im Departement Atlántida, sondern auch einer der historisch bedeutendsten Orte in Zentralamerika. Hier landete 1524 der spanische Konquistador Cristóbal de Olid, um die erste offizielle spanische Siedlung in Honduras zu gründen. Heute ist es eine der größten und stolzesten Garífuna-Gemeinschaften des Landes. Die afro-karibischen Bewohner kämpfen leidenschaftlich um den Erhalt ihres indigenen Landes gegen die Expansion von Tourismusresorts, während sie ihre traditionelle Kultur durch Casabe (Maniokbrot) und Punta-Musik aufrechterhalten. Geschichte K8 — Erste Siedlungen und indigene Landrechte.",
+      "factsAdvanced": [
+        "Ort der Landung von Cristóbal de Olid im Jahr 1524 (erste spanische Siedlung).",
+        "Heute eine der größten afro-karibischen Garífuna-Gemeinden in Honduras.",
+        "Bekannt für die traditionelle Herstellung von Casabe (Maniok-Fladenbrot).",
+        "Führt internationale Rechtsstreitigkeiten zum Schutz der indigenen Ländereien.",
+        "Liegt an unberührten Karibikstränden in der Bucht von Tela.",
+        "Die lokale Kultur wird durch die rhythmische Punta-Musik dominiert."
+      ]
+    },
+    {
+      "id": "balfate-cities-v2",
+      "descriptionAdvanced": "Balfate ist eine abgelegene Gemeinde an der Karibikküste des Departements Colón, umgeben von unberührtem Dschungel und dem Meer. Die kleine Siedlung hat eine gemischte Bevölkerung aus Garífuna und Mestizen. Wegen der mangelnden Straßenanbindung lebte Balfate lange in der Isolation und die Wirtschaft stützte sich auf den Kleinfischfang. In den letzten Jahren haben die fruchtbaren Böden in den Hügeln über der Stadt jedoch Investoren für afrikanische Ölpalmen und Bananen angezogen, was die ökologische Balance der Region zunehmend unter Druck setzt. Biologie K7 — Küstenökosysteme und Plantagenexpansion.",
+      "factsAdvanced": [
+        "Abgelegene Küstengemeinde im Departement Colón.",
+        "Gemischte demografische Struktur aus Garífuna und Mestizen.",
+        "Historisch abhängig vom Fischfang und Subsistenzlandwirtschaft.",
+        "Infrastruktur ist stark unterentwickelt (oft nur über Schotterstraßen erreichbar).",
+        "Wachsende Präsenz von Palmöl- und Bananenplantagen im Hinterland.",
+        "Besitzt kilometerlange, unerschlossene Karibikstrände."
+      ]
+    },
+    {
+      "id": "santa-fe-cities-v2",
+      "descriptionAdvanced": "Santa Fe ist eine idyllische Garífuna-Küstengemeinde in der Nähe der Bucht von Trujillo. Bekannt für sein extrem ruhiges Leben und die wunderschönen Palmenstrände, ist das Dorf ein Rückzugsort, der stark auf den Erhalt der afro-honduranischen Kultur achtet. Die Menschen hier leben traditionell von der handwerklichen Fischerei, dem Kokosnussanbau und dem wachsenden, sanften Kulturtourismus. Santa Fe ist zudem ein wichtiger Ort, um den Einfluss der europäischen Piraten und Freibeuter zu studieren, die diese Gewässer im 17. Jahrhundert befuhren. Kultur K6 — Garífuna-Traditionen und karibisches Leben.",
+      "factsAdvanced": [
+        "Eine der bestgehüteten traditionellen Garífuna-Siedlungen in Honduras.",
+        "Liegt malerisch in der historischen Bucht von Trujillo.",
+        "Wirtschaft basiert auf traditionellem Fischfang und Kokosnussprodukten.",
+        "Bietet eine friedliche Alternative zum Massentourismus der Inseln.",
+        "Die Amtssprache ist Spanisch, aber Garífuna wird weithin gesprochen.",
+        "Zieht zunehmend internationale Expats und Ruheständler an."
+      ]
+    },
+    {
+      "id": "la-masica-cities-v2",
+      "descriptionAdvanced": "La Masica liegt im landwirtschaftlichen Herzen des Departements Atlántida und ist eine Gemeinde, die historisch von der Holz- und Bananenindustrie geprägt wurde. Heute hat sich die Landschaft in weiten Teilen der Viehzucht und Palmölplantagen zugewandt. Ein besonderes Naturmerkmal der Region ist die Nähe zum Nationalpark Pico Bonito und zum Refugio de Vida Silvestre Cuero y Salado, was La Masica zu einem strategischen, aber weniger bekannten Ausgangspunkt für Ökotourismus macht. Die Flüsse, die durch die Stadt fließen, sind entscheidend für die Bewässerung der küstennahen Landwirtschaft. Geografie K7 — Plantagenwirtschaft und Naturschutzgebiete.",
+      "factsAdvanced": [
+        "Liegt im Küstentiefland des Departements Atlántida.",
+        "Ein wichtiger Produzent von Palmöl, Rindfleisch und Milchprodukten.",
+        "Bietet Zugang zum Cuero y Salado Wildlife Refuge.",
+        "Wurde im späten 19. Jahrhundert entlang der Eisenbahnrouten gegründet.",
+        "Die Flüsse der Region dienen als Hauptwasserquelle für Plantagen.",
+        "Strategischer Knotenpunkt an der CA-13-Autobahn."
+      ]
+    },
+    {
+      "id": "arada-cities-v2",
+      "descriptionAdvanced": "Arada ist ein aufstrebendes Dorf im Departement Santa Bárbara, das in den letzten Jahren durch ein außergewöhnliches Projekt landesweite Bekanntheit erlangte. Um dem demografischen Rückgang entgegenzuwirken, luden die Gemeindevertreter Künstler aus Honduras und der ganzen Welt ein, um die Fassaden fast jedes Hauses im Dorf mit riesigen Wandgemälden (Murales) zu bemalen. Heute gilt Arada als die \"Murales-Hauptstadt\" von Honduras und zieht Tausende von Touristen an, die die Open-Air-Kunstgalerie besichtigen. Wirtschaftlich bleibt der Kaffeeanbau jedoch die wichtigste Säule. Kunst K7 — Urbane Kunst und ländliche Wiederbelebung.",
+      "factsAdvanced": [
+        "Landesweit bekannt als die Hauptstadt der Wandmalereien (Murales).",
+        "Besitzt über 200 großflächige Wandgemälde an privaten und öffentlichen Gebäuden.",
+        "Das Kunstprojekt half der Stadt, den Binnentourismus enorm zu steigern.",
+        "Die lokale Wirtschaft stützt sich auf den Kaffeeanbau.",
+        "Liegt im malerischen Hügelland von Santa Bárbara.",
+        "Gegründet in den späten 1800er Jahren."
+      ]
+    },
+    {
+      "id": "san-luis-cities-v2",
+      "descriptionAdvanced": "San Luis im Departement Santa Bárbara ist eine der wirtschaftlich stärksten Kaffeegemeinden der Region. Sie liegt auf einem Hochplateau und profitiert von idealen mikroklimatischen Bedingungen für den Anbau von Arabica-Kaffee. San Luis ist bemerkenswert gut organisiert, mit einer starken Präsenz von Genossenschaften, die den Bauern helfen, Kredite zu erhalten und ihren Kaffee direkt nach Europa und in die USA zu exportieren. Die gepflegten Straßen und die relativ gute Infrastruktur im Zentrum heben die Stadt von anderen ländlichen Gemeinden ab. Wirtschaft K8 — Agrargenossenschaften und Exportinfrastruktur.",
+      "factsAdvanced": [
+        "Eines der wohlhabendsten Kaffeeanbauzentren in Santa Bárbara.",
+        "Stark geprägt durch funktionierende landwirtschaftliche Genossenschaften.",
+        "Exportiert Premium-Kaffee direkt nach Europa und Nordamerika.",
+        "Verfügt über eine für ländliche Verhältnisse überdurchschnittliche Infrastruktur.",
+        "Liegt auf einer fruchtbaren Hochebene (Meseta).",
+        "Wurde Mitte des 19. Jahrhunderts als kleine Bergsiedlung gegründet."
+      ]
+    },
+    {
+      "id": "san-marcos-cities-v2",
+      "descriptionAdvanced": "San Marcos im Departement Ocotepeque ist eine strategische Handels- und Agrarstadt im äußersten Westen des Landes. Durch die Lage im Sensenti-Tal nahe der Grenze zu El Salvador florierte die Stadt durch den Schmuggel und legitimen bi-nationalen Handel in der Vergangenheit. Heute ist San Marcos weithin für seine extrem hochwertigen Kaffeeplantagen und die lokale Pferdezucht bekannt. Die jährliche Kaffeemesse zieht Käufer aus der ganzen Welt an. Die Kultur ist geprägt von einer starken Cowboy-Tradition und dem Stolz der lokalen Kaffeebauern. Wirtschaft K7 — Grenznahe Agrarmärkte und Pferdezucht.",
+      "factsAdvanced": [
+        "Liegt im fruchtbaren Sensenti-Tal im Westen von Honduras.",
+        "Bedeutendes Zentrum für den Anbau von preisgekröntem Hochlandkaffee.",
+        "Besitzt einen starken wirtschaftlichen Austausch mit El Salvador.",
+        "Bekannt für die Ausrichtung der jährlichen nationalen Kaffeemesse.",
+        "Die Pferdezucht und Viehwirtschaft spielen eine wichtige kulturelle Rolle.",
+        "Hat in der Vergangenheit stark vom grenzüberschreitenden Handel profitiert."
+      ]
+    },
+    {
+      "id": "guayape-cities-v2",
+      "descriptionAdvanced": "Guayape liegt am Ufer des Río Guayape im weiten Olancho-Tal und ist ein Dorf mit einer Geschichte, die vom Goldrausch geprägt ist. Während der spanischen Kolonialzeit und bis ins 20. Jahrhundert hinein war der Fluss Guayape berühmt für seine reichen Goldvorkommen, die von Hunderten von Wäschern per Hand abgebaut wurden. Obwohl das Gold heute größtenteils erschöpft ist, erinnert die Folklore der Stadt an diese glänzende Vergangenheit. Die moderne Wirtschaft von Guayape wird vollständig von der Rinderzucht, der Milchproduktion und weitläufigen Maisfeldern dominiert. Geschichte K7 — Flussgold und der koloniale Goldrausch.",
+      "factsAdvanced": [
+        "Liegt am historischen Río Guayape, einst berühmt für Flussgold.",
+        "War während der spanischen Kolonialzeit ein reiches Goldgräberzentrum.",
+        "Heute dominiert die Rinderzucht und Milchproduktion die Wirtschaft.",
+        "Die lokale Kultur bewahrt zahlreiche Legenden aus der Zeit des Goldrausches.",
+        "Befindet sich im Zentrum des riesigen und flachen Olancho-Tals.",
+        "Gegründet in den späten 1700er Jahren."
+      ]
+    },
+    {
+      "id": "puerto-cortes-economic-v2",
+      "descriptionAdvanced": "Puerto Cortés ist der wichtigste und größte Seehafen in Honduras und einer der tiefsten und modernsten Naturhäfen in Zentralamerika. Mehr als 80 % der Im- und Exporte des Landes passieren diesen Hafen, darunter Bananen, Kaffee, Palmöl und Textilien der Maquiladora-Industrie. Die massiven Kräne und Containerterminals arbeiten rund um die Uhr. Puerto Cortés war der erste Hafen in Lateinamerika, der in die Mega-Ports-Initiative der USA aufgenommen wurde, was höchste Sicherheitsstandards garantiert. Die Stadt selbst ist stark industrialisiert und ein Magnet für Arbeitsmigration. Wirtschaft K8 — Internationale Logistik und Seehäfen.",
+      "factsAdvanced": [
+        "Der wichtigste und größte Tiefseehafen in ganz Zentralamerika.",
+        "Schlägt über 80 % des gesamten honduranischen Außenhandels um.",
+        "Erster Hafen Lateinamerikas in der US-amerikanischen Mega-Ports-Initiative.",
+        "Liegt strategisch in der Nähe des industriellen Sula-Tals.",
+        "Wichtiger Umschlagplatz für Bananen, Kaffee und Textilgüter.",
+        "Gegründet 1524 von Spaniern als Puerto de Caballos."
+      ]
+    },
+    {
+      "id": "choloma-industry-economic-v2",
+      "descriptionAdvanced": "Der Industriepark von Choloma ist das unangefochtene Zentrum der honduranischen Maquiladora-Industrie. In diesen riesigen Freihandelszonen (Zonas Libres) produzieren Zehntausende von Arbeitern, überwiegend junge Frauen, Textilien, Bekleidung und Autoteile für den Export, hauptsächlich in die USA. Marken wie Nike, Hanes und Gildan haben hier große Produktionsstätten. Die Ansiedlung dieser Industrien in den 1990er Jahren veränderte die demografische Struktur der Region dramatisch und machte Choloma zu einer der am schnellsten wachsenden Städte des Kontinents, brachte aber auch extreme städtische Herausforderungen mit sich. Wirtschaft K8 — Globalisierung, Freihandelszonen und Textilindustrie.",
+      "factsAdvanced": [
+        "Das Epizentrum der honduranischen Exportproduktionszonen (Maquiladoras).",
+        "Beschäftigt Zehntausende von Arbeitern in der Textil- und Bekleidungsindustrie.",
+        "Produziert für globale Marken wie Nike, Hanes und Gildan.",
+        "Profitierte massiv von Freihandelsabkommen wie CAFTA-DR.",
+        "Verursachte ein extremes Bevölkerungswachstum im Valle de Sula.",
+        "Liegt strategisch günstig zwischen San Pedro Sula und Puerto Cortés."
+      ]
+    },
+    {
+      "id": "tela-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Tela, einst das schlagende Herz der globalen Bananenindustrie, hat eine dramatische Transformation durchgemacht. In der ersten Hälfte des 20. Jahrhunderts baute die Tela Railroad Company hier ein riesiges Dock, über das Millionen Tonnen Bananen in die USA verschifft wurden. Mit dem Niedergang der Company und Zerstörungen durch Hurrikane verlor der Hafen seine kommerzielle Bedeutung. Das alte hölzerne Dock brannte schließlich ab. Heute dient die Küste von Tela vor allem dem Tourismus und der handwerklichen Fischerei, während kleine Boote Touristen in den Jeannette Kawas Nationalpark bringen. Geschichte K7 — Der Aufstieg und Fall der Bananenhäfen.",
+      "factsAdvanced": [
+        "Einst der wichtigste Exportpunkt für Bananen der Tela Railroad Company.",
+        "Historisch kontrolliert durch US-amerikanische Fruchtgesellschaften.",
+        "Das legendäre hölzerne Verladedock wurde durch Brände und Stürme zerstört.",
+        "Heute hat der Hafen seine kommerzielle Bedeutung an Puerto Cortés verloren.",
+        "Wird vorwiegend von lokalen Fischern und für den Tourismus genutzt.",
+        "Die Architektur der Hafenanlagen spiegelt den US-Südstaatenstil wider."
+      ]
+    },
+    {
+      "id": "ceiba-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von La Ceiba, bekannt als das Muelle de Cabotaje, ist das wichtigste maritime Tor für den inländischen Passagier- und Frachtverkehr zu den honduranischen Karibikinseln. Jeden Tag legen hier die großen Fähren nach Roatán und Utila ab, wodurch der Hafen eine entscheidende Rolle für die Tourismusindustrie der Bay Islands spielt. Darüber hinaus ist der Hafen ein wichtiger Ankerpunkt für die nationale Fischerei- und Hummerflotte. Historisch war La Ceiba ein weiterer wichtiger Bananenhafen für die Standard Fruit Company, die hier noch heute landwirtschaftliche Exporte abfertigt. Wirtschaft K7 — Fährverkehr, Tourismuslogistik und Karibikinseln.",
+      "factsAdvanced": [
+        "Wichtigster Hafen für den Fährverkehr nach Roatán und Utila.",
+        "Dient als logistisches Zentrum für den honduranischen Inselfrachthandel.",
+        "Heimathafen für einen Großteil der honduranischen Hummerfangflotte.",
+        "Historisch erbaut und kontrolliert von der Standard Fruit Company.",
+        "Exportiert weiterhin Ananas, Bananen und Zitrusfrüchte.",
+        "Erlebt extremen Passagierverkehr während der Karwoche (Semana Santa)."
+      ]
+    },
+    {
+      "id": "santa-barbara-mine-economic-v2",
+      "descriptionAdvanced": "Die El Mochito Mine im Departement Santa Bárbara ist die am längsten ununterbrochen betriebene Untertage-Mine in Zentralamerika, die seit 1948 Blei, Zink und Silber fördert. Sie ist der wichtigste industrielle Arbeitgeber in der Gemeinde Las Vegas und hat erheblichen Einfluss auf die lokale Wirtschaft und Infrastruktur. Der Untertagebau reicht tief in den Berg hinein und nutzt komplexe Entwässerungssysteme, um den Grundwasserspiegel zu kontrollieren. Obwohl die Mine wirtschaftlichen Wohlstand bringt, steht sie oft im Zentrum von Debatten über Umweltschutz, Wasserqualität und die Verteilung von Bergbaulizenzen. Umwelt K8 — Untertagebau und Ressourcenmanagement.",
+      "factsAdvanced": [
+        "Die älteste durchgehend betriebene Untertage-Mine in Zentralamerika (seit 1948).",
+        "Hauptsächlich spezialisiert auf den Abbau von Zink, Blei und Silber.",
+        "Befindet sich in der Gemeinde Las Vegas im Departement Santa Bárbara.",
+        "Größter Arbeitgeber der Region mit enormem Einfluss auf die lokale Infrastruktur.",
+        "Operiert mit einem komplexen System zur Kontrolle des Grundwassers.",
+        "Die abgebauten Konzentrate werden über Puerto Cortés exportiert."
+      ]
+    },
+    {
+      "id": "el-progreso-industry-economic-v2",
+      "descriptionAdvanced": "Die Industriezone von El Progreso fungiert als Brücke zwischen der Landwirtschaft des Yoro-Departements und der industriellen Macht des Sula-Tals. Historisch bekannt als die \"Perle des Ulúa\", weil sie das Zentrum des Bananenanbaus der Region war, hat sich El Progreso stark diversifiziert. Heute finden sich hier ausgedehnte afrikanische Palmölverarbeitungsanlagen, Zuckerfabriken und eine wachsende Anzahl von Textil-Maquiladoras. Durch den starken Zuzug von Arbeitskräften ist die Stadt zur viertgrößten in Honduras herangewachsen und spielt eine Schlüsselrolle im kommerziellen Handel im Norden. Wirtschaft K7 — Agrarindustrie und urbane Diversifizierung.",
+      "factsAdvanced": [
+        "Viertgrößte Stadt in Honduras und wichtiges Industriezentrum.",
+        "Historisch bekannt als die Perle des Ulúa aufgrund des Bananenbooms.",
+        "Ein Hauptzentrum für die Verarbeitung von Palmöl und Zuckerrohr.",
+        "Wachsende Präsenz von internationalen Textil-Maquiladoras.",
+        "Wichtiger Verkehrsknotenpunkt, der Yoro, Atlántida und Cortés verbindet.",
+        "Erlebte ein rasantes kommerzielles und demografisches Wachstum."
+      ]
+    },
+    {
+      "id": "ocotepeque-trade-economic-v2",
+      "descriptionAdvanced": "Das Handelsdreieck von Ocotepeque, nahe dem \"Trifinio\", ist einer der aktivsten Grenzpunkte in Zentralamerika, an dem Honduras, Guatemala (Agua Caliente) und El Salvador (El Poy) aufeinandertreffen. Tausende Lastwagen passieren diese Knotenpunkte wöchentlich und transportieren Industriegüter, Lebensmittel und Kaffee. Die lokale Wirtschaft von Ocotepeque profitiert enorm von Zolldienstleistungen, Logistik, Lagereinrichtungen und dem Hotelgewerbe. Dieser ständige Fluss an Menschen und Waren macht die Region auch zu einem Brennpunkt für informellen Handel und Migration in Richtung Nordamerika. Wirtschaft K8 — Transnationaler Handel und Zoll-Logistik.",
+      "factsAdvanced": [
+        "Kontrolliert den Handel am Dreiländereck von Honduras, El Salvador und Guatemala.",
+        "Beherbergt die wichtigen Grenzübergänge El Poy und Agua Caliente.",
+        "Ein Großteil des zentralamerikanischen Binnenhandels passiert diese Region.",
+        "Lokale Wirtschaft profitiert stark von Zoll-, Logistik- und Lagerdiensten.",
+        "Wichtige Route für den Export von honduranischem Kaffee.",
+        "Zentraler Durchgangspunkt für die Migration in Richtung Norden."
+      ]
+    },
+    {
+      "id": "comayagua-agri-economic-v2",
+      "descriptionAdvanced": "Das Tal von Comayagua ist das Herzstück der modernen honduranischen Agrarexportindustrie. Dank umfangreicher Bewässerungssysteme und fortschrittlicher Gewächshaustechnologien hat sich das flache, trockene Tal in eine Oase für nicht-traditionelle Exportfrüchte verwandelt. Hier werden in großem Maßstab Jalapeño-Chilis, orientalische Gemüsesorten, Auberginen und Süßkartoffeln angebaut, die hauptsächlich für den asiatischen und US-amerikanischen Markt bestimmt sind. Die Ansiedlung des neuen internationalen Flughafens Palmerola (XPL) im Tal hat die Luftfrachtlogistik für diese verderblichen Güter revolutioniert. Wirtschaft K8 — Hightech-Landwirtschaft und Export-Logistik.",
+      "factsAdvanced": [
+        "Das wichtigste Zentrum für nicht-traditionelle landwirtschaftliche Exporte in Honduras.",
+        "Produziert im großen Stil Jalapeños, orientalische Gemüse und Süßkartoffeln.",
+        "Nutzt fortschrittliche Bewässerungs- und Gewächshaustechnologien.",
+        "Der Flughafen Palmerola (XPL) beschleunigt den Export verderblicher Waren.",
+        "Generiert Tausende von Arbeitsplätzen in der Verpackungs- und Sortierindustrie.",
+        "Beliefert intensiv den asiatisch-amerikanischen Lebensmittelmarkt in den USA."
+      ]
+    },
+    {
+      "id": "juticalpa-trade-economic-v2",
+      "descriptionAdvanced": "Der Handelsmarkt in Juticalpa dient als wichtigster Versorgungs- und Umschlagplatz für das riesige Departement Olancho. Die Stadt agiert als Filter für die landwirtschaftlichen Reichtümer der Region – insbesondere Rindfleisch, Milchprodukte, Mais und Edelhölzer –, die hier gesammelt und dann in die Hauptstadt Tegucigalpa oder an die Nordküste transportiert werden. Umgekehrt ist Juticalpa das Zentrum für den Vertrieb von Industriewaren und landwirtschaftlichen Maschinen in die abgelegenen Dörfer von Olancho. Zahlreiche Banken und Großhändler haben hier ihren Sitz, um die florierende Viehwirtschaft zu finanzieren. Wirtschaft K7 — Regionale Versorgungszentren und Agrarkredite.",
+      "factsAdvanced": [
+        "Wichtigster Umschlagplatz für landwirtschaftliche Güter im Departement Olancho.",
+        "Zentrum für den Vertrieb von Rindfleisch, Milch, Käse und Edelhölzern.",
+        "Dient als logistisches Sprungbrett für Waren in Richtung Hauptstadt.",
+        "Beherbergt ein starkes Netzwerk an Agrarbanken und Ausrüstern.",
+        "Der Großmarkt von Juticalpa versorgt hunderte von abgelegenen Dörfern.",
+        "Die Wirtschaft ist stark durch die Einnahmen großer Viehzüchter geprägt."
+      ]
+    },
+    {
+      "id": "la-esperanza-craft-economic-v2",
+      "descriptionAdvanced": "Das Handwerkszentrum von La Esperanza, eingebettet im ländlichen Intibucá, ist die wirtschaftliche Lebensader für hunderte von indigenen Lenca-Familien. Bekannt für ihre meisterhaften Textilarbeiten, nutzen die Frauen der Region traditionelle Handwebstühle (Telares), um Schals, Ponchos und Tischdecken mit leuchtenden, neonfarbenen Fäden herzustellen. Dieses Kunsthandwerk, das tief in präkolumbianischen Techniken verwurzelt ist, wird landesweit auf Märkten verkauft. Unterstützt von internationalen Nichtregierungsorganisationen haben die Weberinnen Genossenschaften gegründet, um faire Preise zu sichern und ihre Produkte als Kulturerbe zu vermarkten. Wirtschaft K6 — Indigene Kooperativen und Textilkunst.",
+      "factsAdvanced": [
+        "Nationales Zentrum für traditionelle Textilien des indigenen Lenca-Volkes.",
+        "Produziert werden handgewebte Schals, Ponchos und Stoffe in leuchtenden Farben.",
+        "Stark geprägt durch Frauenkooperativen, die faire Preise aushandeln.",
+        "Nutzt noch immer traditionelle hölzerne Handwebstühle (Telares).",
+        "Das Handwerk dient als Haupteinnahmequelle für Familien in extremen Höhenlagen.",
+        "Wird durch sanften Kulturtourismus in der Region unterstützt."
+      ]
+    },
+    {
+      "id": "lejamani-agri-economic-v2",
+      "descriptionAdvanced": "Lejamaní ist eine alte Kolonialgemeinde im Tal von Comayagua, die sich in eine hochspezialisierte Agrarzone verwandelt hat. Während die historischen Kirchen und Lehmziegelhäuser an die spanische Ära erinnern, sind die umliegenden Felder ein Paradebeispiel für moderne Bewässerung. Lejamaní ist landesweit bekannt als der \"Garten des Tals\" wegen seiner massiven Produktion von Zwiebeln, Tomaten und Karotten. Dank des ausgeklügelten Kanalsystems, das Wasser von den umliegenden Bergen ableitet, können die Bauern hier mehrere Ernten pro Jahr einbringen, was die Gemeinde zu einem wichtigen Lieferanten für nationale Supermärkte macht. Geografie K7 — Bewässerungssysteme und Gemüseanbau.",
+      "factsAdvanced": [
+        "Spezialisiert auf die intensive Produktion von Zwiebeln, Tomaten und Karotten.",
+        "Gilt als der landwirtschaftliche Garten des Comayagua-Tals.",
+        "Nutzt traditionelle und moderne Bewässerungskanäle für mehrfache Jahresernten.",
+        "Eines der ältesten Dörfer der Region, geprägt von Kolonialarchitektur.",
+        "Wichtiger Zulieferer für die großen Supermarktketten in Tegucigalpa.",
+        "Verbindet historischen Charme mit hochproduktiver Feldarbeit."
+      ]
+    },
+    {
+      "id": "valle-de-angeles-craft-economic-v2",
+      "descriptionAdvanced": "Der Kunsthandwerksmarkt in Valle de Ángeles ist das Epizentrum der traditionellen honduranischen Leder- und Holzarbeiten. In kleinen, familiengeführten Werkstätten entlang der gepflasterten Straßen werden kunstvolle Sättel, Gürtel, Geldbörsen und geschnitzte Mahagoni-Truhen hergestellt. Diese Industrie entwickelte sich in den 1970er Jahren, als ein Ausbildungszentrum der Regierung gegründet wurde, um jungen Menschen ein Handwerk zu lehren. Heute ist dieses Gewerbe der wirtschaftliche Motor des Ortes, der jedes Wochenende tausende Touristen aus Tegucigalpa anzieht, die die fein gearbeiteten Souvenirs kaufen. Wirtschaft K6 — Ausbildungsprogramme und Handwerkstourismus.",
+      "factsAdvanced": [
+        "Das wichtigste Zentrum für Lederverarbeitung und Holzschnitzerei in Honduras.",
+        "Wirtschaftlicher Motor der Stadt, der fast vollständig vom Tourismus abhängt.",
+        "Die Industrie entstand durch ein staatliches Ausbildungsprogramm in den 1970er Jahren.",
+        "Produziert hochwertige Sättel, Möbel aus Mahagoni und Geldbörsen.",
+        "Verfügt über Dutzende familiengeführte Werkstätten und Galerien.",
+        "Zieht wöchentlich Tausende von kaufkräftigen Touristen aus der Hauptstadt an."
+      ]
+    },
+    {
+      "id": "goascoran-trade-economic-v2",
+      "descriptionAdvanced": "Goascorán ist eine kleine Grenzgemeinde im Departement Valle, benannt nach dem Río Goascorán, der die natürliche Grenze zu El Salvador bildet. Wegen des Grenzübergangs \"El Amatillo\" ist die Gemeinde ein bedeutender Knotenpunkt für den internationalen Lkw-Verkehr entlang der Panamericana-Autobahn. Die lokale Wirtschaft stützt sich stark auf Dienstleistungen für Transportunternehmer, Zollabfertigung und informellen Grenzhandel. Darüber hinaus betreibt die ländliche Bevölkerung im trockenen Klima der Region Subsistenzlandwirtschaft, insbesondere Viehzucht und den Anbau hitzeresistenter Sorghum-Hirse. Geografie K7 — Grenzflüsse und bi-nationaler Transport.",
+      "factsAdvanced": [
+        "Liegt am Río Goascorán, der natürlichen Grenze zwischen Honduras und El Salvador.",
+        "Beherbergt den wichtigen Zoll- und Grenzübergang El Amatillo.",
+        "Wirtschaft ist stark abhängig vom bi-nationalen Lkw-Verkehr und Transportlogistik.",
+        "Liegt an der strategischen Panamericana-Autobahn.",
+        "Die lokale Landwirtschaft konzentriert sich auf Viehzucht und Hirse.",
+        "Leidet in den Sommermonaten unter extremen Dürren im Trockenkorridor."
+      ]
+    }
+  ]
+}

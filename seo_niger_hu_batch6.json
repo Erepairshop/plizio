@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "diffa-agri-life-v2",
+      "descriptionAdvanced": "A Diffa régió paprikatermesztése (\"poivron de Diffa\") egész Nyugat-Afrikában híres. A Komadougou Yobe folyó termékeny árterületein a helyi gazdák hatalmas területeken termesztik a tűzpiros, fűszeres paprikákat. A betakarítás után a paprikákat a napon szárítják és tömörítik, amit aztán Nigériába és az ország belső részeibe exportálnak. A paprikatermesztés az itteni szárazföldi mezőgazdaság legfontosabb pénzkereseti forrása és kulturális büszkesége. Földrajz K6 — készpénznövények Afrikában.",
+      "factsAdvanced": [
+        "A Diffa régió a híres nyugat-afrikai pirospaprika (\"poivron\") fő termelője.",
+        "A Komadougou Yobe folyó árterületét használják a termesztésre.",
+        "A paprikákat természetes napfényen szárítják betakarítás után.",
+        "Az export nagy része a szomszédos Nigériába irányul.",
+        "A paprikatermesztés a helyi gazdák legfőbb bevételi forrása.",
+        "A fűszeres termék alapvető eleme a helyi és regionális gasztronómiának."
+      ]
+    },
+    {
+      "id": "tahoua-zoo-life-v2",
+      "descriptionAdvanced": "A Tahoua városában és környékén tartott tuareg sivatagi versenyek és felvonulások során a gyerekek testközelből ismerhetik meg a tevék, a sivatagi rókák (fennecek) és az afrikai struccok életét. Bár klasszikus, zárt állatkert kevés van a régióban, a nomád kultúra \"nyitott vadasparkként\" működik, ahol a helyi pásztorok generációról generációra adják át a sivatagi állatok tiszteletét és túlélési stratégiáit a fiataloknak. Biológia K5 — sivatagi állatvilág.",
+      "factsAdvanced": [
+        "A sivatagi állatok (tevék, struccok, fennecek) bemutatásának természetes helyszíne.",
+        "A tuareg hagyományok révén a gyerekek megtanulják az állatok tiszteletét.",
+        "A nomád felvonulások egyfajta \"nyitott állatkertként\" funkcionálnak.",
+        "Kiemelt szerepet kap az alkalmazkodás a szélsőséges klímához.",
+        "A sivatagi róka (fennec) a helyi mesék gyakori szereplője.",
+        "A tevéket díszes nyergekkel és szőttesekkel öltöztetik fel."
+      ]
+    },
+    {
+      "id": "filingue-agri-life-v2",
+      "descriptionAdvanced": "A Filingué-völgy (Dallol Bosso) hagyományos köles- és ciroktermesztése a szárazságtűrő afrikai mezőgazdaság iskolapéldája. Mivel az esős évszak alig pár hónapig tart, a gazdák gyorsan növő fajtákat használnak, amelyeket a dűnék közötti mélyedésekben, a talajvízszinthez legközelebbi pontokon ültetnek el. Az aratás utáni gabonatárolás hagyományos, agyagból épült hombárokban történik, amelyek megvédik a termést a rágcsálóktól és a forró széltől. Földrajz K6 — szárazságtűrő gabonafélék.",
+      "factsAdvanced": [
+        "A köles és a cirok a völgy alapvető élelmiszernövényei.",
+        "A növényeket a homokdűnék közötti, nedvesebb mélyedésekbe ültetik.",
+        "A gazdálkodás teljesen az esős évszak (hivernage) ritmusához igazodik.",
+        "Különleges, agyagból épült magtárakat használnak a termés védelmére.",
+        "A mezőgazdasági munkákat gyakran közösségi, kaláka rendszerben végzik.",
+        "A köles a napi táplálkozás (pl. tuwo) elengedhetetlen része."
+      ]
+    },
+    {
+      "id": "maradi-kids-life-v2",
+      "descriptionAdvanced": "A maradi gyerekek élete szorosan összefonódik a helyi kézműves hagyományokkal, különösen a színes fonalakból készült karkötők és a hagyományos haúsza játékok készítésével. Az utcákon gyakran látni rongylabdával focizó vagy a homokban bonyolult afrikai társasjátékokat (mint a mancala) játszó fiatalokat. A város pezsgő élete és a hatalmas, színes piacok forgataga a legkisebbek számára is folyamatos szocializációs és kereskedelmi tanulópályát jelent. Társadalomtudomány K5 — afrikai gyermekjátékok.",
+      "factsAdvanced": [
+        "A gyerekek gyakran részt vesznek a haúsza kézműves hagyományok ápolásában.",
+        "A homokba rajzolt társasjátékok (pl. mancala) rendkívül népszerűek.",
+        "A rongylabdával játszott utcai foci mindennapos látvány.",
+        "A piacok forgatagában a gyerekek korán megtanulják a kereskedelem alapjait.",
+        "A színes fonalakból és gyöngyökből készült ékszerek készítése gyakori elfoglaltság.",
+        "A szájhagyomány útján terjedő mesék fontos nevelési eszközök."
+      ]
+    },
+    {
+      "id": "gaya-bird-life-v2",
+      "descriptionAdvanced": "A Gaya régió a Niger folyó alsó folyásánál valóságos madárparadicsom, ahol a csapadékosabb éghajlat és a dús vegetáció több száz madárfajt vonz. A folyó mocsaras árterein megtalálhatók a koronás darvak, a szent íbiszek és a színpompás jégmadarak. A terület nemcsak az állandóan itt élő fajoknak, hanem az Európából délre vándorló madaraknak is kritikus pihenőhelye és táplálékforrása az esős évszakot követő hónapokban. Biológia K7 — folyami madárvilág és vonulás.",
+      "factsAdvanced": [
+        "A Niger folyó mocsaras ártere gazdag madárvilágnak ad otthont.",
+        "Kiemelkedő fajok a koronás daru, a szent íbisz és a jégmadár.",
+        "Fontos pihenőhely az Európából vándorló madárfajok számára.",
+        "A helyi halászat és a madarak táplálkozása szoros ökológiai egyensúlyban van.",
+        "A sűrűbb, zöld vegetáció menedéket nyújt a ragadozók ellen.",
+        "Az ornitológiai kutatások számára kiemelten fontos ökoszisztéma."
+      ]
+    },
+    {
+      "id": "dosso-agri-life-v2",
+      "descriptionAdvanced": "Dosso régióban az esős évszak (hivernage) megérkezése egyet jelent az élet újjászületésével. A zarma földművesek ilyenkor teljes közösségi összefogással (kalákában) ültetik el a kölest, a babot és a kukoricát a vöröses földbe. Az agrárnaptárat hagyományos rituálék és esőváró fesztiválok kísérik. A jó termés nemcsak a túlélést, hanem a közösségi ünnepek (például esküvők) megtartásának alapját is biztosítja a betakarítást követő száraz hónapokban. Társadalomtudomány K7 — az esős évszak ritmusa.",
+      "factsAdvanced": [
+        "A mezőgazdaság gerincét az esős évszak (hivernage) rövid időszaka adja.",
+        "A földeket közösségi összefogással (kaláka) művelik meg a zarmák.",
+        "Fő termények a köles, a tehénborsó (niébé) és a kukorica.",
+        "A vetést és aratást ősi esőváró és hálaadó rituálék kísérik.",
+        "A betakarítás utáni időszak a közösségi események (esküvők) főszezonja.",
+        "A vörös, vasban gazdag talaj gyorsan kiszárad az esők elmúltával."
+      ]
+    },
+    {
+      "id": "tessaoua-agri-life-v2",
+      "descriptionAdvanced": "Tessaoua mezőgazdasága az innovatív fásítás (FMNR - Farmer Managed Natural Regeneration) révén vált nemzetközi hírűvé. A gazdák a földjeiken növekvő fák (például a Gao-fa) hajtásait nem vágják ki, hanem gondozzák, mert a fák árnyékot adnak, megkötik a nedvességet, és leveleikkel trágyázzák a talajt. Ez az egyszerű, de zseniális ősi módszer drasztikusan növelte a köles- és mogyorótermést, és megállította a talajeróziót az egykor elsivatagosodó régióban. Biológia K8 — agrár-erdészet és talajvédelem.",
+      "factsAdvanced": [
+        "A helyi gazdák sikeresen alkalmazzák az agrár-erdészet módszereit.",
+        "A földeken hagyott fák (pl. Gao-fa) javítják a talaj minőségét.",
+        "A fák gyökerei megtartják a nedvességet és csökkentik a széleróziót.",
+        "A módszer (FMNR) megtöbbszörözte a helyi köles- és ciroktermést.",
+        "Nemzetközi szervezetek is mintaként tanulmányozzák a tessaouai sikert.",
+        "A lehulló levelek természetes, ingyenes szerves trágyaként funkcionálnak."
+      ]
+    },
+    {
+      "id": "konni-kids-life-v2",
+      "descriptionAdvanced": "Birni N'Konni piacain a helyi gyerekek gyakran vesznek részt a hagyományos snackek és édességek, például a fűszeres mogyorógolyók (kuli-kuli) árusításában. A város élénk határmenti jellege miatt a fiatalok kétnyelvű (haúsza és francia) közegben nőnek fel, miközben a helyi mesék és az iszlám Korán-iskolák formálják a világképüket. A gyerekek élete szoros harmóniában zajlik a család mezőgazdasági és kereskedelmi tevékenységeivel. Társadalomtudomány K5 — gyermekek szerepe az afrikai családban.",
+      "factsAdvanced": [
+        "A gyerekek aktívan segédkeznek a helyi piacok forgatagában.",
+        "Gyakran árulnak hagyományos ropogtatnivalókat, például kuli-kulit.",
+        "Kétnyelvű közegben (haúsza és francia) szocializálódnak.",
+        "A Korán-iskolák (madrasszák) jelentik az alapfokú oktatás egyik formáját.",
+        "A határmenti fekvés miatt korán megtapasztalják a kereskedelem dinamikáját.",
+        "A család életképességének biztosítása közös feladat."
+      ]
+    },
+    {
+      "id": "madaoua-agri-life-v2",
+      "descriptionAdvanced": "Madaoua környékén a zöldségtermesztés dominál, különösen a híres \"Galmi\" lila hagyma, amely az itteni gazdák legfőbb büszkesége. A száraz évszakban a völgyekben (fadama) kialakított kis kerteket kézi erővel, gémeskutas (shaduf) módszerrel öntözik. A hagyma mellett paradicsomot és káposztát is termesztenek, amit aztán az egész országba, sőt a szomszédos Nigériába és Elefántcsontpartra is exportálnak. Földrajz K6 — öntözéses hagyma-termesztés.",
+      "factsAdvanced": [
+        "A régió leghíresebb terménye a lila \"Galmi\" hagyma.",
+        "A száraz évszakban a völgyekben (fadama) folytatnak öntözéses termelést.",
+        "Gyakran ősi, kézi gémeskutas (shaduf) vízemelési technikákat használnak.",
+        "A hagyma fontos exportcikk Nigéria és a parti országok felé.",
+        "Paradicsomot és káposztát is nagy mennyiségben termelnek.",
+        "A zöldségtermesztés kiemelt pénzkereseti forrás a haúsza gazdáknak."
+      ]
+    },
+    {
+      "id": "gouré-goat-life-v2",
+      "descriptionAdvanced": "Gouré sivatagi oázisában a \"Rousse de Maradi\" (vörös maradi) kecskefajta tartása a mindennapi élet gerince. Ez a rendkívül szívós, vörösesbarna kecske tökéletesen alkalmazkodott a vízhiányhoz és a zord sivatagi cserjékhez. A kecskék nemcsak tejet és húst adnak, de világhírűek a kiváló minőségű, finom bőrükről is, amelyet a marokkói bőrgyártás alapanyagaként keresnek nemzetközi szinten. Biológia K6 — szívós háziállatok a Szaharában.",
+      "factsAdvanced": [
+        "A \"Rousse de Maradi\" vörös kecske tenyésztésének központja.",
+        "Ezek a kecskék kiválóan bírják a forróságot és a vízhiányt.",
+        "Táplálékukat a tüskés sivatagi bokrok és cserjék is jelenthetik.",
+        "Bőrük nemzetközileg keresett a prémium bőrdíszműiparban (marokkói bőr).",
+        "A helyi családok legfontosabb vagyontárgyai és élelmiszerforrásai.",
+        "A kecskék szaporodása biztosítja az oázis gazdasági túlélését."
+      ]
+    },
+    {
+      "id": "tera-bird-life-v2",
+      "descriptionAdvanced": "A Téra melletti mesterséges tó egy valóságos oázis a madarak számára a poros Száhel-övezetben. A helyi gyerekek és pásztorok nap mint nap találkoznak itt a fehér gólyákkal, a vízen járó afrikai jacanákkal és a zajos szövőmadarakkal. A fészkeiket mesterien szövő madarak az akáciafákon alkotnak hatalmas, csüngő kolóniákat. A tó madárvilága egy élő biológiai tanterem a helyiek számára. Biológia K5 — szövőmadarak és vizes élőhelyek.",
+      "factsAdvanced": [
+        "A Téra melletti tó a vízimadarak fontos gyülekezőhelye.",
+        "Szövőmadarak (weaver birds) csüngő fészkei borítják az akáciafákat.",
+        "Afrikai jacanák és fehér gólyák gyakori vendégek a sekély vízben.",
+        "A tó vizét a pásztorok állatai és a madarak közösen használják.",
+        "A madarak jelenléte jelzi az esős évszak közeledtét és a vízszintet.",
+        "Helyi megfigyelőpont az európai vándormadarak számára is."
+      ]
+    },
+    {
+      "id": "kollo-mango-life-v2",
+      "descriptionAdvanced": "Kollo városa Niger \"gyümölcsöskertjeként\" is ismert, ahol a Niger folyó táplálja a hatalmas, zöldellő mangóligeteket. Amikor a forró évszakban (április-május) a mangók beérnek, az egész város illatozik. A helyi gyerekek gyakran másznak fel a fákra a legédesebb gyümölcsökért, a nők pedig kosarakban viszik a termést a niameyi piacokra. A mangófák hatalmas, dús lombkoronája emellett az egyetlen igazi menedéket (árnyékot) nyújtja a déli nap könyörtelen sugarai elől. Természetismeret K6 — trópusi gyümölcstermesztés.",
+      "factsAdvanced": [
+        "A Niger folyó partján fekvő Kollo az ország mangótermesztő központja.",
+        "A mangószüret a legforróbb hónapokra (április-május) esik.",
+        "A hatalmas fák árnyéka a közösségi élet és a falugyűlések helyszíne.",
+        "A friss termést elsősorban a közeli főváros, Niamey piacain adják el.",
+        "A fák egész éves öntözését a folyó közelsége teszi lehetővé.",
+        "A gyümölcs nemcsak kereskedelmi cikk, hanem alapvető helyi táplálék is."
+      ]
+    },
+    {
+      "id": "say-river-life-v2",
+      "descriptionAdvanced": "Say városában a Niger folyó jelenti magát az életet. A halászat hagyományos fa kenukból (pirogue) történik, a halászok általában hálóval vagy horoggal dolgoznak a hajnali órákban. A fogást – főleg kapitális harcsákat és pontylazacokat – a helyi asszonyok nyílt tűzön füstölik meg, hogy a forró éghajlaton hetekig elálljon. A füstölt halat aztán kosarakban szállítják a távolabbi belföldi piacokra, biztosítva a fehérjeellátást a sivatagos régiókban is. Földrajz K7 — afrikai folyami halászat és tartósítás.",
+      "factsAdvanced": [
+        "A Niger folyón a halászat hosszú, fa kenukból (pirogue) történik.",
+        "A fogást leggyakrabban a helyszínen, nyílt tűzön füstölik meg.",
+        "Fő halászott fajok az afrikai harcsák és a tilápiafélék.",
+        "A füstölés tartósítja a halat a forró, hűtő nélküli környezetben.",
+        "A füstölt hal (poisson fumé) fontos fehérjeforrás az egész országban.",
+        "A halászat és a halárusítás feladatai élesen elkülönülnek nemek szerint."
+      ]
+    },
+    {
+      "id": "nga-fishing-life-v2",
+      "descriptionAdvanced": "Nguigmi életét egykor a hatalmas Csád-tó határozta meg, de a tó vizének drasztikus visszahúzódása miatt az ősi halászati kultúra mára csak emlék. A falu határában, a kiszáradt tómeder dűnéin ma is megtalálhatók a régi halászcsónakok roncsai. Bár a helyiek ma már mezőgazdaságból és pásztorkodásból élnek a porrá vált tófenéken, a régi halászdalok és a nagy fogásokról szóló történetek még mindig a helyi identitás részei maradtak. Történelem K8 — elveszett halászati kultúrák.",
+      "factsAdvanced": [
+        "Nguigmi egykor a Csád-tó legfontosabb nigeri halászkikötője volt.",
+        "A tó kiszáradása miatt a halászat szinte teljesen megszűnt.",
+        "A kiszáradt tómederben fa halászcsónakok roncsai hevernek.",
+        "A korábbi halászok pásztorkodásra és növénytermesztésre kényszerültek.",
+        "A régi idők nagy fogásait a helyi énekek (griotok) őrzik.",
+        "Élő példája annak, hogyan pusztít el a klímaváltozás egy teljes életmódot."
+      ]
+    },
+    {
+      "id": "birni-kids-life-v2",
+      "descriptionAdvanced": "Birni N'Konni óvárosában a gyerekek mindennapjai a hagyományos afrikai közösségi élet varázslatos lenyomatai. Az agyagfalú, szűk utcákban a gyerekek saját készítésű játékokkal, drótból és konzervdobozból eszkábált kisautókkal versenyeznek. Az iskolai órák mellett a korai kereskedelmi ismeretek elsajátítása is fontos: sokan segítenek a szüleiknek a határmenti piac forgatagában árulni. Este pedig az iszlám Korán-iskola (madrassza) tűz körüli felolvasásai zárják a napot. Társadalomtudomány K5 — afrikai gyermekkor és kreativitás.",
+      "factsAdvanced": [
+        "A gyerekek saját készítésű (drót, pléh) játékokkal játszanak az utcákon.",
+        "A szűk, agyagfalú óvárosi utcák természetes és biztonságos játszóterek.",
+        "A határmenti piacon való segédkezés a felnőtté válás része.",
+        "Esténként gyakori a tűz körüli Korán-tanulás (madrassza) a fiúk számára.",
+        "Kiemelkedő a közösségi nevelés: az egész utca felügyeli a gyerekeket.",
+        "A kreativitás (játékok építése hulladékból) a mindennapok része."
+      ]
+    },
+    {
+      "id": "magaria-agri-life-v2",
+      "descriptionAdvanced": "Magaria a nigeri mogyorótermesztés egyik történelmi központja a zinderi régió déli határán. Az aratás idején az egész város földimogyoró-hegyekké változik. A nők hagyományos famozsarakban zúzzák össze a mogyorót, hogy kisajtolják a mogyoróolajat, a visszamaradt, fehérjében gazdag masszából pedig népszerű snackeket (kuli-kuli) és állati takarmányt (pogácsát) készítenek. Az aratást mindig nagy, dobolással kísért közösségi ünnepek zárják le. Kémia és biológia K7 — élelmiszer-feldolgozás Afrikában.",
+      "factsAdvanced": [
+        "A földimogyoró termesztésének és feldolgozásának fellegvára.",
+        "A mogyorót a helyi nők fa mozsarakban (pilon) zúzzák péppé.",
+        "A zúzás célja az értékes mogyoróolaj kisajtolása.",
+        "A visszamaradt masszából fűszeres golyókat (kuli-kuli) sütnek.",
+        "A mogyorópogácsa létfontosságú az állatok téli takarmányozásában.",
+        "Az aratási szezont közösségi dobolás és ünneplés kíséri."
+      ]
+    },
+    {
+      "id": "tanout-kamel-life-v2",
+      "descriptionAdvanced": "Tanout a Ténéré sivatag kapujaként a tuareg tevekaravánok legfontosabb utolsó állomása. Itt készítik fel a szívós dromedárokat az Agadez vagy Bilma felé tartó több hetes, víztelen sivatagi útra. A tevék az indulás előtt hetekig legelik az akáciabokrokat, hogy feltöltsék púpjaikat (amelyek zsírt, és nem vizet raktároznak). A karavánvezetők (madougou) tudása az éjszakai csillagokról és a homokdűnék formájáról legendás, és apáról fiúra száll. Biológia és Földrajz K8 — sivatagi túlélés és a teve.",
+      "factsAdvanced": [
+        "A szaharai tevekaravánok legfőbb felkészítő állomása.",
+        "A dromedárok (egypúpú tevék) púpjukban zsírt, nem vizet raktároznak.",
+        "A tevék hetekig legelnek a sivatagi átkelés előtt (felhizlalás).",
+        "A karavánvezetők (madougou) a csillagok és dűnék alapján navigálnak.",
+        "A tevék nélkülözhetetlenek a sót és datolyát szállító kereskedelemben.",
+        "Az indulás rituális esemény a tuareg közösség számára."
+      ]
+    },
+    {
+      "id": "mayahi-agri-life-v2",
+      "descriptionAdvanced": "Mayahi környékén a tájat hatalmas, ősi baobabfák uralják, amelyek többet jelentenek puszta árnyéknál. A helyi haúsza lakosság a fa minden részét hasznosítja: a C-vitaminban rendkívül gazdag gyümölcséből (majomkenyér) frissítő, fehér színű italt készítenek (bouye), leveleit pedig megszárítva és porítva fűszerként (kuka) adják a hagyományos mártásokhoz. A baobabfa az afrikai túlélés szimbóluma, amely a legrosszabb aszályokat is túléli. Biológia K6 — a baobabfa (majomkenyérfa) haszna.",
+      "factsAdvanced": [
+        "A tájat hatalmas, akár ezer éves baobabfák (majomkenyérfák) uralják.",
+        "A baobab gyümölcse rendkívül magas C-vitamin tartalommal bír.",
+        "A gyümölcsből egy \"bouye\" nevű, népszerű fehér italt készítenek.",
+        "A fa leveleit megszárítják és levesek ízesítésére (kuka) használják.",
+        "A vastag törzs képes hatalmas mennyiségű vizet raktározni.",
+        "A fák a helyi szellemi élet és falugyűlések szakrális helyszínei."
+      ]
+    },
+    {
+      "id": "gaya-agri-life-v2",
+      "descriptionAdvanced": "Gaya árterein a rizstermesztés a gazdálkodás alapja. A Niger folyó éves áradásakor a földek hetekig víz alatt állnak, ami természetes öntözést és tápanyag-utánpótlást biztosít. A rizspalántákat a nők és férfiak közösen, térdig érő vízben, kézzel ültetik el a sárban. Bár a munka fizikailag rendkívül megterhelő, a gaya-i rizs híres a kiváló minőségéről, és Niamey piacain prémium áron kel el. Környezetismeret K7 — árasztásos rizstermesztés.",
+      "factsAdvanced": [
+        "A Niger folyó áradása (crues) biztosítja az árasztásos rizstermesztést.",
+        "A földeket az áradás természetes módon öntözi és trágyázza iszapjával.",
+        "A rizspalántákat kézzel, térdig érő iszapos vízben ültetik el.",
+        "Ez a régió biztosítja Niger hazai rizstermelésének jelentős részét.",
+        "A betakarítás gyakran sarlóval és kézi csépléssel történik.",
+        "A gaya-i rizs kiváló minőségű és nagyon keresett a fővárosban."
+      ]
+    },
+    {
+      "id": "zinder-zoo-life-v2",
+      "descriptionAdvanced": "Zinder sziklás környéke (a Koutous-hegység pereme) otthont ad a fürge afrikai szikliborznak és számos hüllőfajnak. Bár állatkert nincs, a gyerekek számára a természet a legjobb tanterem: gyakran látni hatalmas varánuszokat és színes agámákat napozni a gránitsziklákon. A helyi hiedelmek szerint bizonyos gyíkok szerencsét hoznak, ezért a gyerekek tisztelettel figyelik, és nem bántják őket, ami egy ősi afrikai természetvédelmi hagyomány továbbélése. Biológia K5 — hüllők és sziklás élőhelyek.",
+      "factsAdvanced": [
+        "A Zindert körülvevő sziklás (gránit) táj gazdag hüllővilágnak ad otthont.",
+        "Gyakori látvány a sziklákon napozó varánusz és a színes agáma.",
+        "Az afrikai szirtiborz (hyrax) a sziklahasadékok jellegzetes lakója.",
+        "A helyi hiedelmek szerint a gyíkok gyakran jó szerencsét hoznak.",
+        "Az ősi tisztelet hozzájárul a fajok helyi szintű védelméhez.",
+        "A sziklák hőtároló képessége ideális a hidegvérű állatok számára."
+      ]
+    },
+    {
+      "id": "maradi-kids-park-life-v2",
+      "descriptionAdvanced": "Maradi gyerekei a szárazföldi afrikai élet minden leleményességét birtokolják. Mivel a klasszikus játszóterek ritkák, a fiatalok elnyűtt gumiabroncsokból (cerceau) csinálnak görgetős játékot, és az elszáradt cirokszárakból építenek maguknak kis \"házakat\" vagy repülőket. Az esős évszak beköszönte a legnagyobb ünnep: a hirtelen kialakuló hatalmas, sekély pocsolyák (mare) néhány hétre természetes strandokká és fürdőhelyekké válnak a város peremén. Társadalomtudomány K5 — gyermeki leleményesség Afrikában.",
+      "factsAdvanced": [
+        "A gyerekek gumiabroncsok (cerceau) görgetésével versenyeznek az utcán.",
+        "Az elszáradt cirokszárakból (tige de mil) játékokat és maketteket építenek.",
+        "Klasszikus játszóterek helyett a városi terek és a természet adja a helyszínt.",
+        "Az esős évszak hatalmas pocsolyái alkalmi fürdőhelyként szolgálnak.",
+        "A játékok készítése fejleszti a kreativitást és a kézügyességet.",
+        "Az eső megérkezése a legnagyobb közösségi ünnep a gyerekek körében."
+      ]
+    },
+    {
+      "id": "diffa-frucht-life-v2",
+      "descriptionAdvanced": "Diffa oázisainak peremén a datolyapálmák adják az élet édességét. Amikor a datolya beérik, a helyi nők nagy gonddal szüretelik le és szárítják meg a napon. Ezt követően a datolyát tevekitejjel keverve rendkívül energiadús pasztát készítenek belőle, amely a nomád pásztorok alapvető túlélő eledele a hosszú sivatagi utakon. A datolyapálma minden részét felhasználják: leveleiből kosarat fonnak, törzséből pedig tetőgerendát építenek. Környezetismeret K6 — a datolyapálma hasznosítása.",
+      "factsAdvanced": [
+        "A datolya szüretelése és szárítása fontos közösségi feladat a régióban.",
+        "A datolyát gyakran tevekitejjel keverik, ami energiadús ételt eredményez.",
+        "A datolyapaszta a nomád pásztorok (tubuk) elengedhetetlen úti eledele.",
+        "A pálmalevelekből árnyékolókat, gyékényeket és kosarakat fonnak.",
+        "A pálma törzsét az agyagházak lapos tetőszerkezetének alátámasztására használják.",
+        "Egyetlen pálmafa is hatalmas gazdasági értéket képvisel egy család számára."
+      ]
+    },
+    {
+      "id": "niger-fluss-nature-v2",
+      "descriptionAdvanced": "A Niger folyó Nyugat-Afrika harmadik leghosszabb folyója, egy hatalmas kék artéria, amely életet visz a száraz Száhel-övezetbe. A folyó vízhozama a guineai fennsíkon hulló esőktől függ, így Niger területén kettős áradást (egy fehéret és egy feketét) produkál. A folyó nemcsak a mezőgazdaságot és a halászatot élteti, de a nyugat-afrikai zsiráfok és a vízilovak utolsó békés menedéke is az országban. A klímaváltozás és a homoklerakódás (iszaposodás) azonban komolyan fenyegeti a folyó jövőjét. Földrajz K8 — afrikai folyamrendszerek.",
+      "factsAdvanced": [
+        "Nyugat-Afrika leghosszabb, és egész Afrika 3. leghosszabb folyója (4180 km).",
+        "A guineai hegyekben ered, átszeli a sivatagot, majd Nigériában ömlik az óceánba.",
+        "Két áradási ciklusa van (crue blanche és crue noire).",
+        "Életfontosságú a nigeri rizs- és zöldségtermesztés számára.",
+        "Jelentős víziló-populációnak és madárvilágnak ad otthont.",
+        "Folyását az elsivatagosodás és az iszaposodás (homoklerakódás) fenyegeti."
+      ]
+    },
+    {
+      "id": "tschadsee-nature-v2",
+      "descriptionAdvanced": "A Csád-tó egykor Afrika egyik legnagyobb édesvízi medencéje volt, de az 1960-as évek óta területének több mint 90%-át elvesztette a tartós aszályok és a túlzott öntözés miatt. Niger délkeleti csücskében ma a tó helyén többnyire mocsarak és apró tavacskák találhatók. Ez az ökológiai katasztrófa drasztikusan megváltoztatta a helyiek életét, a halászok pásztorokká váltak. A tó megmentése (például a Kongó-medencéből történő vízátvezetéssel) ma a kontinens legnagyobb környezetvédelmi álma. Földrajz K8 — klímaváltozás és tavak kiszáradása.",
+      "factsAdvanced": [
+        "Fénykorában Afrika egyik legnagyobb édesvízi sekély tava volt.",
+        "Az 1960-as évek óta felületének több mint 90%-át elveszítette.",
+        "A kiszáradást a globális felmelegedés és a túlzott vízhasználat okozta.",
+        "Niger területén ma nagyrészt mocsarak és apró szigetek láncolata maradt.",
+        "Az ökológiai összeomlás tönkretette a helyi halászati ipart.",
+        "Hatalmas, nemzetközi vízátvezetési projekteket terveznek a megmentésére."
+      ]
+    },
+    {
+      "id": "air-gebirge-nature-v2",
+      "descriptionAdvanced": "Az Air-hegység (Massif de l'Aïr) egy hatalmas vulkanikus hegyvonulat a Szahara szívében, amely sötét, csipkézett gránitcsúcsaival emelkedik ki a homoktengerből. A hegyvidék mikroklímája hűvösebb és csapadékosabb a sivatagnál, így zöldellő völgyeiben (guelta) és oázisaiban egyedi növény- és állatvilág maradt fenn, köztük a kihalás szélén álló sivatagi mendeszantilopok (addax). Az UNESCO Világörökség részét képező terület a tuareg kultúra legősibb fellegvára és a szaharai túlélés szimbóluma. Földrajz K8 — sivatagi hegyvidékek és oázisok.",
+      "factsAdvanced": [
+        "Vulkanikus eredetű, csipkézett hegyvonulat a Ténéré sivatag nyugati peremén.",
+        "Hűvösebb mikroklímája miatt zöld oázisok (wadi, guelta) alakultak ki benne.",
+        "Az UNESCO Világörökség része (a Ténéré Nemzeti Parkkal együtt).",
+        "Otthont ad a rendkívül ritka sivatagi mendeszantilopnak (addax) és a sörényes juhnak.",
+        "A tuareg nomádok történelmi, kulturális és védelmi központja.",
+        "Legmagasabb pontja, a Mont Idoukal-n-Taghès 2022 méter magas."
+      ]
+    }
+  ]
+}

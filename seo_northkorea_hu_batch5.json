@@ -1,0 +1,250 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "arch-of-reunification-landmarks-v2",
+      "descriptionAdvanced": "Az Újraegyesítés Boltíve (hivatalos nevén: Az Újraegyesítés Három Alapelve Emlékműve) 2001-től 2024-ig uralta a Phenjanból délre, a Keszong felé vezető autópálya bejáratát. Az ikonikus kőépítmény két hatalmas nőt ábrázolt (képviselve Északot és Délt) tradicionális hanbok ruhában, amint közösen tartják a Koreai-félsziget térképével díszített gömböt. Évtizedekig ez volt a békés újraegyesítés vágyának legfőbb vizuális szimbóluma Észak-Koreában. A politikai klíma drasztikus megváltozásával azonban Kim Dzsongun 2024 januárjában 'szemkápráztatónak' nevezte, a békés újraegyesítés politikáját feladta, és a műemléket titokban lerombolták. Helyén ma már csak az üres autópálya látható. Plizio tanterv: Társadalomismeret K8 — az állami szimbólumok és a politikai irányváltások.",
+      "factsAdvanced": [
+        "A 30 méter magas emlékművet 2001-ben adták át Phenjan déli kapujában.",
+        "Két hanbokot viselő nő (Észak és Dél) tartotta a félsziget egységes térképét.",
+        "Az emlékmű a Kim Ir Szen által felállított újraegyesítési elveket hirdette.",
+        "2024 januárjában Kim Dzsongun parancsára a gigantikus szobrot teljesen elbontották.",
+        "A bontás az Észak- és Dél-Korea közötti békés közeledés hivatalos végét jelezte.",
+        "A műholdképek a lerombolást a világ számára is megerősítették."
+      ]
+    },
+    {
+      "id": "victorious-war-museum-landmarks-v2",
+      "descriptionAdvanced": "A Győzelmes Honvédő Háború Múzeuma a koreai háború (1950–1953) észak-koreai nézőpontú bemutatásának legimpozánsabb központja Phenjanban. A 2013-ban átadott grandiózus új épületkomplexum lenyűgöző kőarchitektúrájával és hatalmas előterével a rendszer antiimperialista narratívájának megtestesítője. A bejáratot egy kolosszális, a 'Győzelmet' ábrázoló szoborcsoport őrzi. A múzeum területén kiterjedt szabadtéri park is található, ahol az amerikai és dél-koreai erőktől zsákmányolt repülőgépek, harckocsik és fegyverek sorakoznak gondosan elrendezve. A Taedong folyó melletti részen horgonyoz a USS Pueblo kémhajó is, ami a kiállítás egyik legfőbb attrakciója. Plizio tanterv: Történelem K8 — hidegháborús történelemfelfogás és katonai múzeumok.",
+      "factsAdvanced": [
+        "A múzeum modern épületegyüttesét Kim Dzsongun utasítására 2013-ban adták át.",
+        "A főépületben több mint 80 kiállítóterem mutatja be az északi győzelmi narratívát.",
+        "A szabadtéri parkban az Egyesült Államoktól zsákmányolt haditechnika látható.",
+        "Itt található az 1968-ban elfogott amerikai USS Pueblo kémhajó.",
+        "A múzeum központjában egy hatalmas 360 fokos körpanoráma ábrázol egy csatát.",
+        "Az épület neoklasszikus és szocialista realista építészeti stílusokat ötvöz."
+      ]
+    },
+    {
+      "id": "myohyang-mountains-landmarks-v2",
+      "descriptionAdvanced": "A Mjohjang (Myohyang) hegység, vagyis a 'Rejtelmes Illatok Hegye' Észak-Korea egyik legszebb és legtiszteltebb természeti kincse, Észak-Phjongan tartományban. A hegylánc sűrű, illatos erdőkkel, drámai sziklaalakzatokkal és vízesések sorozatával (mint a híres Manphok-dong völgy) varázsolja el a látogatókat. A terület nemcsak természeti, hanem történelmi és politikai központ is. Az ősi, 11. századi Pohjon buddhista templom a völgyben bújik meg, míg a hegyoldalba fúrt hatalmas barlangrendszerek rejtik a Nemzetközi Barátság Kiállítást (International Friendship Exhibition). A hegység 2009 óta az UNESCO bioszféra-rezervátuma, megőrizve számos ritka állat- és növényfajt. Plizio tanterv: Földrajz K6 — nemzeti parkok, hegyvidéki bioszféra-rezervátumok.",
+      "factsAdvanced": [
+        "A Mjohjang-hegység neve 'Rejtelmes Illatok Hegyét' jelent.",
+        "A terület 2009-ben megkapta az UNESCO Bioszféra Rezervátum minősítést.",
+        "Itt található a Manphok-dong, a 'Tízezer Vízesés Völgye'.",
+        "A hegy a 11. századi Pohjon templomnak, egy ősi buddhista központnak is otthont ad.",
+        "A hegy belsejében alakították ki a hatalmas Nemzetközi Barátság Kiállítást.",
+        "A hagyomány szerint a hegy a mitikus Dangun király egyik korai lakhelye volt."
+      ]
+    },
+    {
+      "id": "international-friendship-exhibition-landmarks-v2",
+      "descriptionAdvanced": "A Nemzetközi Barátság Kiállítása a Mjohjang-hegység szikláiba vájt, monumentális múzeumkomplexum, amely a világ vezetőitől és külföldi szervezetektől a Kim-dinasztia tagjainak küldött ajándékokat őrzi. A két hatalmas, hagyományos koreai stílusú, ablaktalan épület valójában a hegy gyomrába vezető páncélajtókat rejt. A kiállítás több mint 100 000 tárgyat sorakoztat fel a termek végtelen labirintusában, Joszif Sztálin páncélozott vonatkocsijától kezdve a sandinisták által küldött krokodilbőr táskákon át Dennis Rodman kosárlabdájáig. A múzeum célja azt a látszatot kelteni az észak-koreai nép számára, hogy vezetőiket az egész világ tiszteli és imádja. Plizio tanterv: Társadalomismeret K8 — diplomáciai ajándékok és az állami propaganda mechanizmusai.",
+      "factsAdvanced": [
+        "A múzeum több mint 100 000 ajándékot őriz a Kim-család számára a világ minden tájáról.",
+        "A komplexum nagy része mélyen a Mjohjang-hegység szikláiba van vájva.",
+        "A termek ablaktalanok, és masszív páncélajtók védik a kincseket.",
+        "Kiállították Joszif Sztálin golyóálló autóját és Mao Ce-tung vasúti kocsiját is.",
+        "A legbizarrabb tárgyak között preparált állatok és kosárlabdák is szerepelnek.",
+        "A belső hőmérsékletet és páratartalmat szigorúan szabályozzák a tárgyak védelmében."
+      ]
+    },
+    {
+      "id": "paektu-mountain-landmarks-v2",
+      "descriptionAdvanced": "A Paektu-hegy (Kínában Changbai-hegy) a Koreai-félsziget legmagasabb csúcsa (2744 méter) és az észak-koreai nemzeti identitás legszentebb természeti szimbóluma a kínai határon. A kialudt vulkán kráterében fekszik a lenyűgöző szépségű, jéghideg Mennyei-tó (Cshondzsi). A hegy a koreai eredetmítoszok szerint Dangun király szülőhelye, az észak-koreai propaganda szerint pedig Kim Dzsongil egy titkos itteni partizántáborban jött világra. Emiatt a Paektu zarándokhely: diákok, munkások és katonák tömegei 'forradalmi tanulmányi utakat' tesznek ide, gyakran fagyos körülmények között menetelve. A hegy aktív vulkán, utolsó nagy kitörése (a 'Millenniumi kitörés' az 1. évezred végén) a történelem egyik legnagyobbja volt. Plizio tanterv: Földrajz K8 — vulkánok, krátertavak és szent hegyek.",
+      "factsAdvanced": [
+        "A Paektu-hegy 2744 méteres magasságával a Koreai-félsziget legmagasabb pontja.",
+        "Egy aktív rétegvulkán, amelynek kalderáját a Mennyei-tó tölti ki.",
+        "A hegy mindkét Korea (Észak és Dél) számára a nemzet szakrális bölcsője.",
+        "Az észak-koreai történetírás szerint itt született Kim Dzsongil (bár szovjet források ezt cáfolják).",
+        "A hegy megközelítésére egy külön repülőteret (Szamdzsijon) tartanak fenn a közelben.",
+        "A terület időjárása rendkívül zord, a tó az év nagy részében be van fagyva."
+      ]
+    },
+    {
+      "id": "dmz-panmunjom-landmarks-v2",
+      "descriptionAdvanced": "Panmundzsom, vagyis a Közös Biztonsági Terület (JSA) az egyetlen pont a 250 kilométeres Demilitarizált Övezetben (DMZ), ahol Észak- és Dél-Korea katonái karnyújtásnyira állnak egymástól. Ez az a feszült diplomáciai falu, ahol 1953-ban aláírták a koreai fegyverszünetet. Észak-Koreából Phenjanon és Keszongon át vezet ide az út, amelyet tankcsapdák és ellenőrzőpontok kísérnek. A turisták az északi oldalról is meglátogathatják a kék ENSZ-barakkokat, ahol az asztal közepén futó mikrofonkábel jelenti a határt. Panmundzsom szürreális látványosság: egyszerre a hidegháború legveszélyesebb puskaporos hordója és gondosan koreografált turisztikai helyszín, ahol a látogatóknak szigorú szabályokat kell követniük. Plizio tanterv: Történelem K8 — a megosztott Korea, katonai határok és fegyverszünetek.",
+      "factsAdvanced": [
+        "Panmundzsom (JSA) az egyetlen hely, ahol a két Korea katonái farkasszemet néznek.",
+        "Itt találhatók a híres kék színű tárgyalóbarakkok a demarkációs vonalon.",
+        "A barakkokon belül a határátlépés – elméletben – szabadon megtehető a túloldalra.",
+        "A látogatóknak az északi oldalon bemutatják a fegyverszünet aláírásának termét is.",
+        "A terület biztonságát a Koreai Néphadsereg szigorúan ellenőrzött elit alakulatai védik.",
+        "1976-ban a zónában történt baltás incidens két amerikai tiszt halálához vezetett."
+      ]
+    },
+    {
+      "id": "kaesong-historic-city-landmarks-v2",
+      "descriptionAdvanced": "Keszong (Kaesong) a Koreai-félsziget egyik legjobb állapotban fennmaradt történelmi városa, a Goryeo (Koryo) dinasztia egykori fővárosa (918–1392). Mivel a koreai háború (1950–1953) elején a terület még Dél-Koreához tartozott, elkerülte a legintenzívebb amerikai szőnyegbombázásokat, így az óváros – a hagyományos, cseréptetős 'hanok' házakkal – nagyrészt érintetlen maradt. A város 2013 óta UNESCO Világörökség, amely tizenkét különböző történelmi helyszínt foglal magába, köztük Szonggjungvan ősi akadémiáját, Namdemun (Déli) kapuját és ősi királysírokat. Keszong hangulata éles kontrasztban áll Phenjan szocialista monumentalizmusával, itt a szűk utcák és az ezeréves koreai kultúra dominál. Plizio tanterv: Történelem K7 — a Goryeo-dinasztia, hanok építészet és kulturális örökség.",
+      "factsAdvanced": [
+        "Keszong közel ötszáz évig (918–1392) szolgált a Goryeo Királyság fővárosaként.",
+        "Ez azon kevés észak-koreai városok egyike, amely nem pusztult el a koreai háborúban.",
+        "A város történelmi központja 2013 óta az UNESCO Világörökség része.",
+        "A régi városrészt ma is sűrűn beépített, hagyományos 'hanok' házak alkotják.",
+        "Itt található a Koryo Múzeum, amely az ország legrégebbi egyetemén (Szonggjungvan) kapott helyet.",
+        "Keszong hagyományosan a kiváló minőségű koreai ginzeng termesztésének központja."
+      ]
+    },
+    {
+      "id": "masikryong-ski-resort-landmarks-v2",
+      "descriptionAdvanced": "A Masikryong (Masingnjong) Síközpont Észak-Korea egyetlen luxuskategóriás síterepe, amely Vonszan kikötővárosától nem messze, a Tehebek-hegységben található. A komplexumot Kim Dzsongun személyes utasítására és iránymutatásával építették 2013-ban, hihetetlenül rövid, tíz hónapos idő alatt – a hadsereg folyamatos rohammunkájával. A cél az volt, hogy felvegyék a versenyt a dél-koreai Phjongcshanggal, a 2018-as téli olimpia helyszínével. A síközpontban több sípálya, luxusszálloda, uszoda, jégpálya és külföldről (sokszor a szankciókat megkerülve) beszerzett felvonók, hóágyúk és motoros szánok találhatók. Bár kapacitása napi több ezer fő, leginkább csak az ország elitje és elvétve külföldi turisták használják. Plizio tanterv: Földrajz K7 — sportturizmus, turisztikai megaprojektek és gazdasági prioritások.",
+      "factsAdvanced": [
+        "A luxus síközpont Kim Dzsongun személyes 'pet projektjeként' épült 2013-ban.",
+        "Az építkezést a hadsereg alakulatai végezték el mindössze 10 hónap alatt.",
+        "A komplexum kilenc különböző nehézségű sípályával rendelkezik.",
+        "A felszereléseket (felvonók, hóágyúk) az ENSZ szankciókat megkerülve szerezték be.",
+        "A helyszínen egy 120 szobás, luxusszínvonalú szálloda és korcsolyapálya is üzemel.",
+        "Dél-koreai síelők is edzettek itt közösen az északiakkal a 2018-as olimpia előtt."
+      ]
+    },
+    {
+      "id": "wonsan-kalma-coastal-tourist-area-landmarks-v2",
+      "descriptionAdvanced": "A Vonszan-Kalma Tengerparti Turisztikai Terület Észak-Korea valaha volt legambiciózusabb turisztikai megaprojektje a Japán-tenger partján, a Kalma-félszigeten. A hatalmas, több kilométer hosszú, fehér homokos tengerpart mentén szállodák, aquaparkok, konferenciaközpontok és kaszinók tucatjai épültek fel rohamtempóban 2018-tól kezdve. A projekt célja, hogy külföldi – elsősorban kínai és orosz – turistákat vonzzon a devizabevételek növelése érdekében. Bár a komplexum épületeinek külseje szinte teljesen elkészült, a megnyitót a Covid-19 pandémia és a nemzetközi szankciók miatti forráshiány évekre késleltette. A gigantikus, üresen álló 'szellem-üdülőhely' jól példázza az állami gazdaságtervezés sebezhetőségeit. Plizio tanterv: Gazdaság K8 — turisztikai fejlesztések, állami beruházások és a pandémia hatásai.",
+      "factsAdvanced": [
+        "A Kalma-félszigeten épülő luxus üdülőövezet az ország legnagyobb turisztikai projektje.",
+        "A célközönséget a külföldi (főként orosz és kínai) tengerparti nyaralók jelentik.",
+        "Több mint 100 épület, köztük hotelek, aquaparkok és sportlétesítmények épültek fel.",
+        "A projekt átadását a Covid-19 járvány miatt 2020-ban határozatlan időre elhalasztották.",
+        "A homokos part korábban a hadsereg gyakori tüzérségi lőgyakorlatainak helyszíne volt.",
+        "A közelben található a Kalma nemzetközi repülőtér, amit a turisták fogadására bővítettek."
+      ]
+    },
+    {
+      "id": "sinchon-museum-of-american-war-atrocities-landmarks-v2",
+      "descriptionAdvanced": "A Sincshoni Amerikai Háborús Bűnök Múzeuma egy felkavaró történelmi emlékhely és a rezsim Amerika-ellenes oktatásának központja Dél-Hvanghe tartományban. A múzeum egy 1950 őszén történt vérengzésnek állít emléket Sincshon megyében, ahol a háború zűrzavarában mintegy 35 000 civil vesztette életét. Míg a nyugati kutatások szerint a mészárlást koreai jobboldali milíciák hajtották végre a kommunistákkal szemben, az észak-koreai állam az amerikai csapatokat vádolja. A múzeum udvarán és a termekben borzalmas jeleneteket ábrázoló festmények, véresnek mondott ruhadarabok és egy légópince található, ahol állítólag civileket égettek el. A komplexum az állami gyűlöletpropaganda egyik legfontosabb sarokköve. Plizio tanterv: Társadalomismeret K8 — politikai propaganda és a történelem mint eszköz.",
+      "factsAdvanced": [
+        "A múzeum az 1950-es Sincshon megyei mészárlás 35 000 áldozatának állít emléket.",
+        "Észak-Korea az amerikai katonákat teszi meg a brutális gyilkosságok kizárólagos elkövetőinek.",
+        "A komplexumban található a 'Pamnamu-völgyi robbanóanyag-raktár', a vérengzés egyik helyszíne.",
+        "A kiállítást a lakosság – különösen a fiatalok és katonák – számára kötelezően látogathatóvá teszik.",
+        "Kim Dzsongun 2015-ös látogatása után az épületet és a kiállítást jelentősen kibővítették.",
+        "A tárlaton nyíltan sokkoló, erőszakos diorámák és festmények dominálnak."
+      ]
+    },
+    {
+      "id": "pyongyang-central-zoo-life-v2",
+      "descriptionAdvanced": "A Phenjani Központi Állatkert, amely a Teszongsan (Taesong) hegy lábánál terül el, Észak-Korea legnagyobb állatparkja. Az eredetileg 1959-ben alapított, majd 2016-ban Kim Dzsongun utasítására teljesen felújított állatkert több mint 5000 állatnak ad otthont. A legfőbb látványosságok közé tartoznak az ajándékba kapott állatok: például a Ho Si Minh által küldött elefántok vagy a Vlagyimir Putyintól kapott medvék. A felújítás során egy hatalmas, teknősbékát formázó természettudományi múzeumot is építettek a területre. A nyugati állatkertektől eltérően itt gyakran kutyákat (köztük a nemzeti kincsnek számító Pungsan fajtát) is kiállítanak. Nemrég nemzetközi vihart kavart egy csimpánz, amelyet a gondozók rászoktattak a láncdohányzásra a közönség szórakoztatására. Plizio tanterv: Biológia K6 — állatkertek, állatvédelem és a fajok bemutatása.",
+      "factsAdvanced": [
+        "Az 1959-ben alapított állatkertet 2016-ban modernizálták és kibővítették.",
+        "A gyűjtemény nagyrészt külföldi vezetőktől származó diplomáciai ajándékokból áll.",
+        "Az állatkertben egy teknős alakú hatalmas természettudományi múzeum is található.",
+        "Saját 'kutyapavilonnal' rendelkezik, ahol az észak-koreai Pungsan vadászkutyát is bemutatják.",
+        "Az állatkert hírhedtté vált egy Azalea nevű csimpánzról, amely naponta egy doboz cigarettát szív el.",
+        "A park rendkívül népszerű hétvégi célpont a phenjani családok számára."
+      ]
+    },
+    {
+      "id": "taesongsan-amusement-park-life-v2",
+      "descriptionAdvanced": "A Teszongsan (Taesongsan) Vidámpark Phenjan egyik legrégebbi és legnagyobb rekreációs parkja, amely a város északkeleti részén, a festői Teszong-hegy oldalában épült. Az 1970-es években megnyitott park a szocialista rendszer szórakoztatóiparának korai példája. Több tucatnyi hullámvasúttal, óriáskerékkel és dodzsemmel rendelkezik, melyek némelyike elavultnak tűnhet, de a 2010-es években sok gépet modernizáltak olasz és kínai importból. Különlegessége, hogy nemcsak vidámpark, hanem sűrű erdők, tavak és történelmi erődromok (az ókori Kogurjo királyság idejéből) ölelik körbe. Május elsején és más nemzeti ünnepeken a park megtelik piknikező, táncoló phenjani családokkal. Plizio tanterv: Társadalomismeret K5 — városi rekreáció és a szocialista szabadidőkultúra.",
+      "factsAdvanced": [
+        "A park a Teszong-hegy tövében, az Állatkert és a Botanikus Kert szomszédságában fekszik.",
+        "Az 1970-es években alapították, hogy a fővárosi lakosság hétvégi pihenését szolgálja.",
+        "Hullámvasútjait és játékait a közelmúltban külföldi eszközökkel frissítették.",
+        "A park területén az 5. századi Kogurjo királyság ősi erődítményének falmaradványai is láthatók.",
+        "Az állami ünnepeken (pl. május 1.) hagyományos tömeges piknikek és táncmulatságok helyszíne.",
+        "A jegyárak rendkívül alacsonyak, hogy a munkásosztály számára is elérhető legyen."
+      ]
+    },
+    {
+      "id": "sukchon-agriculture-collective-life-v2",
+      "descriptionAdvanced": "A Szukcshon (Sukchon) Mezőgazdasági Szövetkezet Dél-Phjongan tartomány hatalmas, síkvidéki területein fekszik, és Észak-Korea rizstermelésének egyik legfontosabb bázisa. A szövetkezet az országos agrárpolitika ('csongszan-ri módszer') mintaüzemeként szolgál: a földeket nem egyének, hanem a közösség és az állam közösen birtokolja és műveli. Szukcshon térségében a földeket kiterjedt öntözőcsatorna-hálózat szeli át, melyet a közeli víztározók táplálnak. Az őszi betakarítás idején diákokat, katonákat és irodai dolgozókat (a 'rohammunkásokat') is kivezényelnek ide Phenjanból, hogy segítsék a rizstermés begyűjtését a gyakori géphiány miatt. A falvak tipikus, egységes elrendezésű, fehérre meszelt parasztházakból állnak. Plizio tanterv: Földrajz K7 — kollektivizált mezőgazdaság, rizstermesztés és élelmezésbiztonság.",
+      "factsAdvanced": [
+        "Szukcshon a termékeny nyugati partvidéken, a Joldusamcholli síkságon helyezkedik el.",
+        "Észak-Korea egyik legfőbb rizstermő szövetkezete, amely Phenjant is ellátja.",
+        "A mezőgazdaság nagymértékben függ az emberi kézi erőtől a traktor- és üzemanyaghiány miatt.",
+        "Betakarításkor ('rizscsata') városi lakosokat és diákokat vezényelnek ki a földekre.",
+        "A terület vízellátását egy összetett, évtizedekkel ezelőtt épült csatornarendszer biztosítja.",
+        "A szövetkezeti modell szerint a parasztok a termés egy kis, megállapított hányadát tarthatják meg."
+      ]
+    },
+    {
+      "id": "moranbong-park-life-v2",
+      "descriptionAdvanced": "A Moranbong (Bazsarózsa-hegy) Park Phenjan zöld szíve és történelmi központja a Taedong folyó mentén. A dombot gyakran hívják a főváros 'Központi Parkjának'. A sűrű fenyő- és tölgyerdők között ősi koreai pavilonok (mint a Rjongvang pavilon), történelmi városkapuk (Cshilszong-kapu) és modern emlékművek bújnak meg. A Moranbong egyszerre jelent politikai zarándokhelyet – itt áll a szovjet katonáknak emelt Felszabadulás Emlékműve – és a helyiek első számú kikapcsolódási területét. Tavasztól őszig hétvégente a domb megtelik családokkal, akik grilleznek, hagyományos dalokat énekelnek és táncolnak. A park egyedülálló bepillantást enged az észak-koreaiak hétköznapi, felszabadultabb pillanataiba. Plizio tanterv: Társadalomismeret K6 — városi parkok szerepe, közösségi élet és hagyományok.",
+      "factsAdvanced": [
+        "A Moranbong domb formája állítólag egy nyíló bazsarózsára emlékeztet.",
+        "Ez Phenjan legismertebb és leglátogatottabb városi parkja a Taedong folyó mentén.",
+        "A park területén ősi, 6. századi városfal-maradványok és pavilonok találhatók.",
+        "Itt magasodik a Felszabadulás Emlékműve, melyet a szovjet Vörös Hadsereg tiszteletére emeltek.",
+        "Hétvégente a helyiek kedvelt piknikező és szabadtéri karaokézó helyszíne.",
+        "A park alatt fut a phenjani metró két legmélyebb állomása."
+      ]
+    },
+    {
+      "id": "ryongmun-cave-park-life-v2",
+      "descriptionAdvanced": "A Rjongmun (Ryongmun) Nagy Barlang egy lenyűgöző karsztbarlang-rendszer Észak-Phjongan tartományban, a Kujang (Kudzshang) hegyvidéki bányászrégió közelében. A több mint 6 kilométer hosszan feltárt barlang Észak-Korea egyik legfőbb természeti turisztikai látványossága, amely hatalmas, kivilágított cseppkőalakzatairól, sztalaktitjairól és földalatti patakjairól híres. Az állami idegenvezetők költői és propagandisztikus neveket adtak a sziklaképződményeknek, mint például 'A forradalom fáklyája' vagy 'A sárkány palotája'. A barlang nemcsak természeti csoda, hanem menedékhelyként is funkcionált: a történelem során és a koreai háború alatt földalatti raktárként és búvóhelyként is szolgált. Plizio tanterv: Földrajz K7 — karsztjelenségek, cseppkőbarlangok és geoturizmus.",
+      "factsAdvanced": [
+        "A Rjongmun-barlang egy több mint 6 kilométer hosszú mészkőbarlang-rendszer.",
+        "A barlangot több tucat hatalmas, mesterségesen kivilágított terem alkotja.",
+        "Az észak-koreai iskolások számára kötelező természeti és tanulmányi kirándulóhely.",
+        "A cseppkőképződmények nevei gyakran a dzsucse-ideológiára és a forradalomra utalnak.",
+        "A barlang mélyén több földalatti vízesés és patak található.",
+        "A háború idején a lakosság és a hadsereg is óvóhelyként használta a labirintust."
+      ]
+    },
+    {
+      "id": "kwail-county-orchards-life-v2",
+      "descriptionAdvanced": "Kvajl (Kwail) megye, amelynek neve szó szerint 'gyümölcsöt' jelent koreaiul, Dél-Hvanghe tartományban, a Sárga-tenger partján fekszik. A megyét az 1960-as években Kim Ir Szen utasítására alakították át az ország legnagyobb összefüggő gyümölcstermő vidékévé. Több mint 100 négyzetkilométeren terülnek el az alma-, körte-, őszibarack- és szilvaültetvények. Kvajl nem csupán mezőgazdasági terület, hanem Észak-Korea egyik minta-agrárrégiója is, ahol modern(nek mondott) feldolgozóüzemek, gyümölcslé- és lekvárgyárak működnek. Az itteni termés nagy részét exportálják, vagy a hadsereg és a phenjani elit asztalaira kerül. A tengerparti, enyhébb éghajlat ideális a gyümölcstermesztéshez. Plizio tanterv: Földrajz K6 — gyümölcstermesztés, agrárrégiók és élelmiszer-feldolgozás.",
+      "factsAdvanced": [
+        "A megye neve, 'Kvajl', a koreai 'gyümölcs' szóból származik (1967-ben nevezték át).",
+        "A térség Észak-Korea legnagyobb gyümölcstermelő és feldolgozó központja.",
+        "Fő terményei az alma, a körte, az őszibarack és a datolyaszilva.",
+        "A gyümölcsösök kiterjedése meghaladja a 10 000 hektárt a tengerpart mentén.",
+        "A termést konzerváló- és gyümölcslégyárak dolgozzák fel helyben.",
+        "Tavasszal a végtelen, virágzó gyümölcsfák népszerű fotótémát nyújtanak a sajtónak."
+      ]
+    },
+    {
+      "id": "majon-beach-resort-life-v2",
+      "descriptionAdvanced": "A Majon (Majon-ri) tengerparti üdülőhely a keleti parton, Hamhung városa közelében található, és Észak-Korea egyik legnépszerűbb nyári rekreációs célpontja. A kilométereken át húzódó homokos strandot fenyőerdők szegélyezik, ami kellemes mikroklímát biztosít. Majon kettős funkciót lát el: egyrészt egy luxus szállodakomplexum a külföldi turisták és a hazai elit számára, másrészt egy nagy kapacitású, államilag támogatott szanatórium- és táborrendszer a kiválóan teljesítő munkások (sztahanovisták) jutalom-nyaralására. A tiszta víz és a finom homok miatt a helyiek körében is kedvelt fürdőzőhely, ahol nyaranta élénk strandélet zajlik, grillezéssel és tengeri fürdőzéssel. Plizio tanterv: Földrajz K6 — tengerparti turizmus, üdülőövezetek és rekreáció.",
+      "factsAdvanced": [
+        "A Majon strand Észak-Korea egyik legismertebb keleti parti üdülőövezete Hamhungnál.",
+        "A partvonal finom homokos, és a sűrű fenyőerdők egészen a vízig érnek.",
+        "2009-ben egy modern luxusszállodát, a Majon Hotelt adtak át a külföldiek számára.",
+        "Az állam 'jutalom-nyaralásokat' biztosít ide a kiemelkedő munkásoknak.",
+        "A Japán-tenger (Keleti-tenger) vize itt tiszta, de a nyári szezont leszámítva meglehetősen hideg.",
+        "A tengerparti sütögetés ('kagyló BBQ') az egyik legnépszerűbb helyi gasztronómiai élmény."
+      ]
+    },
+    {
+      "id": "mundok-migratory-bird-reserve-life-v2",
+      "descriptionAdvanced": "A Mundok Vándormadár Rezervátum Dél-Phjongan tartományban, a Sárga-tenger partján, a Cshongcshon folyó torkolatánál elterülő hatalmas árapálysíkság (mudflat). Ez a vizes élőhely globális jelentőségű: kulcsfontosságú pihenő- és táplálkozóhelye a Kelet-Ázsia – Ausztrálázsia vonulási útvonalon áthaladó több millió vándormadárnak. A területen ritka és veszélyeztetett fajok állomásoznak, például a globálisan fenyegetett feketeorrú kanalasgém és a hattyúlúd. Észak-Korea 2018-ban sikeresen csatlakozott a Ramsari Egyezményhez, és Mundokot az ország első nemzetközi jelentőségű vadvizes élőhelyeként ismerték el. A helyszín bizonyítja, hogy az ipari elmaradottság olykor kedvez a természetvédelemnek. Plizio tanterv: Biológia K7 — árapálysíkságok, madárvonulás és a Ramsari Egyezmény.",
+      "factsAdvanced": [
+        "Mundok Észak-Korea egyik legfontosabb vizes élőhelye és árapálysíksága.",
+        "2018-ban hivatalosan is felkerült a nemzetközi Ramsari Egyezmény listájára.",
+        "A Sárga-tengeri iszapmezők rákokban és puhatestűekben gazdagok a madarak számára.",
+        "Kritikus pihenőhely a Kelet-Ázsia és Ausztrália között vonuló madaraknak.",
+        "Több mint 20 globálisan veszélyeztetett madárfaj, köztük a kanalasgém fordul meg itt.",
+        "A torkolatvidék megóvása nemzetközi természetvédelmi siker Észak-Koreában."
+      ]
+    },
+    {
+      "id": "ryongaksan-pleasure-ground-life-v2",
+      "descriptionAdvanced": "A Rjongak (Ryongaksan), vagyis a 'Sárkány-hegy' egy festői szépségű, erdős hegycsúcs Phenjan nyugati határában, amely a fővárosiak egyik legkedveltebb kirándulóhelye (pleasure ground). A 292 méter magas hegy nevét onnan kapta, hogy formája egy felszállni készülő sárkányra emlékeztet. A hegyoldalban kiépített túraútvonalak, gondozott pavilonok és piknikező helyek várják a lakosságot. A tavaszi cseresznye- és azaleavirágzás, valamint az őszi lombhullás idején a hegy megtelik éneklő és táncoló családokkal. A hegy csúcsáról gyönyörű kilátás nyílik Phenjanra és a Mangjongde kerületre. A hegyen található az ősi Pophung buddhista templom egy kis kápolnája is. Plizio tanterv: Társadalomismeret K5 — városközeli természet, túrázás és szabadidős tevékenységek.",
+      "factsAdvanced": [
+        "A Rjongak-hegy magassága 292 méter, közvetlenül Phenjan nyugati peremén áll.",
+        "Nevét a hegy alakjáról kapta, amely állítólag egy repülő sárkányhoz hasonlít.",
+        "A terület a phenjani lakosok legkedveltebb tavaszi és őszi túraútvonala.",
+        "A hegyen több pavilon, sportpálya és kiépített piknikező hely található.",
+        "Innen kiváló panoráma nyílik Phenjanra, különösen a Mangjongde kerületre.",
+        "A cseresznyevirágzás (április) a park legforgalmasabb időszaka az évben."
+      ]
+    },
+    {
+      "id": "sinpyong-kumgang-tourist-area-life-v2",
+      "descriptionAdvanced": "A Sinphjong-Kumgang (Sinpyong Kumgang) Turisztikai Terület Észak-Hvanghe tartomány hegyvidékén, a Phenjant Vonszannal összekötő autópálya mentén helyezkedik el. A területet Észak-Korea 'kis Kumgang-hegységeként' is emlegetik, utalva a drámai sziklaszirtekre, a kristálytiszta hegyi folyókra és az érintetlen őszi lombozatra. A pihenőövezetet elsősorban a belföldi elit és az erre utazó turisták használják megállónak, ahol teaházak és éttermek kínálnak frissítőket a festői Mán-vízesés közelében. Sinphjong jelentősége abban is áll, hogy az elmúlt években az állam ökológiai turisztikai központtá kívánta fejleszteni, hangsúlyozva a hegyvidéki forrásvizek tisztaságát. Plizio tanterv: Földrajz K6 — hegyvidéki ökoturizmus és infrastruktúra a természetben.",
+      "factsAdvanced": [
+        "Sinphjong a Phenjant és a keleti partot (Vonszan) összekötő autópálya felénél található.",
+        "A drámai sziklák miatt a régiót 'Kis-Kumgang' néven is ismerik.",
+        "Az utazók és a turistabuszok első számú pihenőhelye a hosszú hegyi úton.",
+        "A terület híres a sűrű juhar- és tölgyerdők őszi vörös lombozatáról.",
+        "A közeli vízesések és kristálytiszta források a hely fő attrakciói.",
+        "A helyi éttermek vadon élő növényekből és hegyi gombákból készült ételeket kínálnak."
+      ]
+    }
+  ]
+}

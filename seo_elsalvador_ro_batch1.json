@@ -1,0 +1,129 @@
+{
+  "lang": "ro",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soyapango-cities-v2",
+      "descriptionAdvanced": "Soyapango este un hub industrial vital al zonei metropolitane San Salvador, fiind recunoscut pentru concentrarea sa mare de fabrici și unități de producție. Centrul comercial Plaza Mundo transformă orașul într-o destinație majoră pentru cumpărături și divertisment, atrăgând mii de vizitatori zilnic. Deși densitatea populației este foarte ridicată, zona continuă să evolueze printr-o infrastructură în dezvoltare. Educația K7 — Geografie: centre urbane și dezvoltarea economică regională.",
+      "factsAdvanced": [
+        "Soyapango găzduiește una dintre cele mai mari zone industriale din El Salvador.",
+        "Plaza Mundo este unul dintre cele mai vizitate centre comerciale din regiunea capitalei.",
+        "Orașul a cunoscut o transformare rapidă dintr-o zonă rurală într-un hub industrial modern.",
+        "Densitatea populației în Soyapango depășește media națională, subliniind caracterul său urban intens.",
+        "Economia locală depinde semnificativ de sectorul manufacturier și de comerțul cu amănuntul.",
+        "Administrația locală prioritizează investițiile în spații publice pentru a echilibra creșterea urbană."
+      ]
+    },
+    {
+      "id": "jucuapa-cities-v2",
+      "descriptionAdvanced": "Jucuapa este o localitate pitorească situată în departamentul Usulután, renumită pentru tradițiile sale și peisajele montane din împrejurimi. Orașul păstrează o atmosferă colonială autentică, oferind vizitatorilor o privire asupra stilului de viață tradițional salvadorian, departe de agitația capitalei. Agricultura locală, în special cultivarea cafelei, susține economia comunității și conservă moștenirea rurală. Educație K6 — Geografie: economia rurală și conservarea tradițiilor.",
+      "factsAdvanced": [
+        "Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.",
+        "Producția de cafea constituie principala activitate economică a regiunii.",
+        "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.",
+        "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.",
+        "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.",
+        "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."
+      ]
+    },
+    {
+      "id": "suchitoto-cities-v2",
+      "descriptionAdvanced": "Suchitoto este recunoscut drept capitala culturală a El Salvadorului, fiind celebru pentru străzile sale pietruite și arhitectura colonială impecabil conservată. Situat lângă lacul artificial Suchitlán, orașul oferă o combinație unică de istorie, artă și ecoturism, devenind o destinație esențială pentru vizitatori. Festivalul Internațional de Arte atrage anual artiști din toată lumea, consolidând reputația sa internațională. Educație K8 — Istorie și Geografie: conservarea patrimoniului și turism sustenabil.",
+      "factsAdvanced": [
+        "Suchitoto a fost centrul administrativ al regiunii în perioada colonială spaniolă.",
+        "Lacul Suchitlán este cel mai mare lac de acumulare din țară, creat în 1976.",
+        "Festivalul Internațional de Arte din Suchitoto are loc anual începând cu anul 1991.",
+        "Biserica Santa Lucia, construită în 1853, este un simbol arhitectural al orașului.",
+        "Orașul este un punct central pentru turismul ecologic datorită proximității de Lacul Suchitlán.",
+        "Suchitoto găzduiește numeroase ateliere de artizanat care promovează tradițiile salvadoriene."
+      ]
+    },
+    {
+      "id": "apaneca-cities-v2",
+      "descriptionAdvanced": "Apaneca, situat la o altitudine de 1.455 metri, este unul dintre cele mai înalte orașe din El Salvador, fiind parte din faimosul traseu turistic 'Ruta de las Flores'. Regiunea este faimoasă pentru cafeaua sa de înaltă calitate și pentru clima sa răcoroasă, care oferă o evadare revigorantă din climatul tropical de la altitudini joase. Peisajele sale rurale, pline de plantații de cafea și lacuri vulcanice, atrag numeroși pasionați de natură și drumeții. Educație K7 — Geografie: agricultura montană și climatul salvadorian.",
+      "factsAdvanced": [
+        "Apaneca este punctul cel mai înalt de pe Ruta de las Flores, atingând 1.455 metri.",
+        "Producția de cafea 'Apaneca-Ilamatepec' este recunoscută internațional pentru calitatea sa.",
+        "Orașul este înconjurat de lagune vulcanice, precum Laguna Verde.",
+        "Climatul răcoros al orașului contrastează cu căldura tropicală a coastelor.",
+        "Apaneca atrage turiști prin activități precum canopy tours și drumeții montane.",
+        "Istoria orașului este profund legată de dezvoltarea industriei cafelei din secolul al XIX-lea."
+      ]
+    },
+    {
+      "id": "ataco-cities-v2",
+      "descriptionAdvanced": "Concepción de Ataco, scurtat la Ataco, este o bijuterie a zonei montane din vestul țării, renumită pentru arta stradală vibrantă și atmosfera primitoare. Casele coloniale sunt decorate cu picturi murale care descriu viața locală și legende indigene, făcând din fiecare plimbare o experiență artistică unică. Ca parte a rutei 'Ruta de las Flores', orașul prosperă prin turism și producția de cafea, păstrându-și identitatea tradițională. Educație K6 — Sociologie și Artă: identitate culturală și arta stradală.",
+      "factsAdvanced": [
+        "Ataco este renumit pentru picturile sale murale care decorează aproape fiecare stradă.",
+        "Numele orașului derivă din limba nahuatl și înseamnă 'Locul izvoarelor înalte'.",
+        "Este o destinație cheie a Ruta de las Flores din vestul El Salvadorului.",
+        "Producția locală de cafea este una dintre principalele surse de venit ale comunității.",
+        "Atelierul de țesut tradițional 'Loom' păstrează metode străvechi de manufactură.",
+        "Ataco atrage turiști locali și internaționali prin festivalurile sale gastronomice."
+      ]
+    },
+    {
+      "id": "juayua-cities-v2",
+      "descriptionAdvanced": "Juayúa este un oraș montan emblematic, cunoscut în special pentru festivalul său gastronomic săptămânal care atrage gurmanzi din întreaga țară. Pe lângă experiențele culinare, vizitatorii sunt atrași de cascada Chorros de la Calera și de clima sa plăcută, tipică regiunii înalte. Orașul este o oprire obligatorie pe Ruta de las Flores, oferind un mix perfect de aventură și tradiție. Educație K5 — Economie: antreprenoriat local și festivaluri culturale.",
+      "factsAdvanced": [
+        "Juayúa este celebră pentru Festivalul Gastronomic care are loc în fiecare weekend.",
+        "Cascada Chorros de la Calera este principala atracție naturală a orașului.",
+        "Orașul este unul dintre punctele principale ale Ruta de las Flores.",
+        "Juayúa a fost fondată în perioada colonială spaniolă în secolul al XVI-lea.",
+        "Climatul montan permite cultivarea fructelor exotice și a cafelei.",
+        "Biserica din Juayúa găzduiește statuia 'Hristos Negru', un obiect de pelerinaj."
+      ]
+    },
+    {
+      "id": "najuizalco-cities-v2",
+      "descriptionAdvanced": "Izalco este un oraș cu o moștenire indigenă puternică, păstrând tradiții seculare ale poporului pipil. Situat la poalele vulcanului cu același nume, orașul oferă o perspectivă asupra istoriei precolumbiene și a rezilienței culturale din regiune. Arhitectura colonială se împletește cu ritualuri indigene, creând o atmosferă plină de semnificații istorice și spirituale. Educație K8 — Istorie: perioada precolumbiană și impactul colonial.",
+      "factsAdvanced": [
+        "Izalco este unul dintre orașele cu cea mai mare influență indigenă din El Salvador.",
+        "Vulcanul Izalco a fost supranumit 'Farul Pacificului' datorită activității sale intense în trecut.",
+        "Tradițiile poporului pipil sunt încă practicate și promovate în Izalco.",
+        "Biserica orașului datează din perioada colonială, fiind un punct central de referință.",
+        "Izalco a fost un centru important de rezistență indigenă de-a lungul istoriei.",
+        "Orașul păstrează tehnici tradiționale de prelucrare a fibrelor și a ceramicii."
+      ]
+    },
+    {
+      "id": "salcoatitan-cities-v2",
+      "descriptionAdvanced": "Salcoatitán este unul dintre cele mai vechi orașe din departamentul Sonsonate, renumit pentru atmosfera sa liniștită și pentru producția de cafea de înaltă calitate. Numele său în limba nahuatl înseamnă 'Orașul șarpelui Quetzal', reflectând moștenirea sa spirituală. Este o destinație preferată pentru cei care caută relaxare într-un decor montan pitoresc, fiind inclus în circuitul turistic al Rutei de las Flores. Educație K6 — Geografie: semnificația numelor indigene și dezvoltarea rurală.",
+      "factsAdvanced": [
+        "Salcoatitán înseamnă 'Orașul șarpelui Quetzal' în limba nahuatl.",
+        "Este considerat unul dintre cele mai vechi așezăminte din regiunea Sonsonate.",
+        "Orașul face parte integrantă din celebra Ruta de las Flores.",
+        "Economia se bazează în principal pe agricultura de subzistență și cultivarea cafelei.",
+        "Piața locală oferă produse artizanale realizate prin metode tradiționale.",
+        "Salcoatitán păstrează o arhitektură colonială simplă, dar foarte bine conservată."
+      ]
+    },
+    {
+      "id": "conchagua-cities-v2",
+      "descriptionAdvanced": "Conchagua este un oraș istoric situat în departamentul La Unión, faimos pentru biserica sa colonială și pentru panoramele spectaculoase asupra golfului Fonseca. Orașul este dominat de vulcanul Conchagua, care oferă trasee de drumeție memorabile pentru aventurieri. Conchagua păstrează vii tradițiile coloniale, fiind un punct de interes major pentru istorici și turiștii în căutarea autenticității. Educație K7 — Geografie: forme de relief și importanța istorică a porturilor.",
+      "factsAdvanced": [
+        "Conchagua oferă o panoramă unică asupra golfului Fonseca și a insulelor vecine.",
+        "Vulcanul Conchagua atinge altitudinea de 1.225 metri.",
+        "Biserica colonială din Conchagua este considerată una dintre cele mai vechi din regiune.",
+        "Orașul a fost fondat în 1543, fiind unul dintre primele așezăminte din estul țării.",
+        "Golful Fonseca este un punct strategic pentru comerțul maritim din America Centrală.",
+        "Conchagua combină istoria colonială cu resursele naturale vulcanice."
+      ]
+    },
+    {
+      "id": "perquin-cities-v2",
+      "descriptionAdvanced": "Perquín este un oraș montan în departamentul Morazán, renumit pentru rolul său istoric și pentru frumusețea peisajelor sale din munții Sierra Madre. Este un centru important pentru turismul de memorie istorică, găzduind Muzeul Revoluției, care oferă o perspectivă detaliată asupra conflictului civil din El Salvador. Peisajul său natural, cu cascade și păduri de pini, atrage turiști dornici de aventură și cunoaștere. Educație K8 — Istorie: conflictul civil și importanța muzeelor memoriale.",
+      "factsAdvanced": [
+        "Perquín găzduiește Muzeul Revoluției dedicat conflictului civil din anii '80.",
+        "Situat în departamentul Morazán, este punctul cel mai înalt din estul țării.",
+        "Cascada Llano del Muerto este o destinație turistică populară în zonă.",
+        "Regiunea este cunoscută pentru pădurile sale de pini și peisajele montane pitoresci.",
+        "Perquín a devenit un simbol al reconcilierii și al istoriei moderne salvadoriene.",
+        "Climatul montan oferă condiții excelente pentru turismul ecologic tot anul."
+      ]
+    }
+  ]
+}

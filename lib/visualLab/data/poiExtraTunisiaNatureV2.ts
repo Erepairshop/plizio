@@ -14,7 +14,14 @@ export const poiExtraTunisiaNatureV2: POI[] = [
       hu: ["Három országon húzódik keresztül.", "Legmagasabb csúcsa a Toubkal."],
       ro: ["Se întinde peste trei țări.", "Cel mai înalt vârf este Toubkal."],
       en: ["Spans across three countries.", "Highest peak is Toubkal."]
-    }, image: "/poi-images/atlas-mountains-nature-v2.webp"},
+    }, image: "/poi-images/atlas-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      hu: "Az Atlasz-hegység Észak-Afrika hatalmas hegyrendszere, amely Tunézia északnyugati részén húzódik végig, változatos tájakkal, erdőkkel és termékeny völgyekkel. Ez a terület az ország legfontosabb víznyerő helye, és páratlan biodiverzitással rendelkezik. Földrajz K7 — hegységek és folyók."
+    },
+    factsAdvanced: {
+      hu: ["Az Atlasz-hegység több országon keresztül húzódik.", "Tunézia legfontosabb vízkészletei innen származnak.", "Gazdag és változatos növény- és állatvilágnak ad otthont.", "A hegyvidék hűvösebb klímája elüt a partvidéktől.", "Az ország mezőgazdaságának alapvető feltételeit biztosítja.", "Túrázók és természetszeretők kedvelt célpontja."]
+    }
+  },
   {
     id: "ichkeul-lake-nature-v2",
     type: "lake",
@@ -27,7 +34,14 @@ export const poiExtraTunisiaNatureV2: POI[] = [
       hu: ["Fontos telelőhely a madarak számára.", "UNESCO Világörökség."],
       ro: ["Zonă importantă de iernat pentru păsări.", "Patrimoniul Mondial UNESCO."],
       en: ["Important wintering site for birds.", "UNESCO World Heritage site."]
-    }, image: "/poi-images/ichkeul-lake-nature-v2.webp"},
+    }, image: "/poi-images/ichkeul-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      hu: "Az Ichkeul-tó egyedülálló ökoszisztéma az északi Tunéziában, amely kritikus fontosságú vizes élőhely a vándormadarak számára, különösen télen. A területet az UNESCO világörökség részeként tartják számon, mint a biodiverzitás egyik legfontosabb központját. Biológia K8 — élőhelyek."
+    },
+    factsAdvanced: {
+      hu: ["A tó az UNESCO világörökség része.", "Fontos megállóhely a vándormadarak számára.", "A környék mocsaras élőhelyei különlegesek.", "A tó vize szezonálisan változó sós tartalmú.", "Egyedülálló növénytársulások jellemzik a partvidéket.", "A természetvédelmi terület szigorúan őrzött."]
+    }
+  },
   {
     id: "gulf-of-gabes-nature-v2",
     type: "sea",
@@ -40,7 +54,14 @@ export const poiExtraTunisiaNatureV2: POI[] = [
       hu: ["Ismert az árapály jelenségről.", "Gazdag halászterületek."],
       ro: ["Cunoscut pentru maree.", "Zone de pescuit bogate."],
       en: ["Known for its tides.", "Rich fishing grounds."]
-    }, image: "/poi-images/gulf-of-gabes-nature-v2.webp"},
+    }, image: "/poi-images/gulf-of-gabes-nature-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Gabès-i öböl Tunézia partvidékének legjelentősebb öblözete, amely gazdag tengeri élővilággal és híres lagúnákkal rendelkezik. A terület a halászat és a tengerbiológiai kutatások szempontjából is kiemelt jelentőségű, miközben természeti szépségei is elismertek. Földrajz K7 — tengerek és partvidékek."
+    },
+    factsAdvanced: {
+      hu: ["Ez Tunézia legnagyobb partmenti öble.", "Gazdag tengeri élővilág és korallzátonyok jellemzik.", "A halászat az öböl környékének legfontosabb tevékenysége.", "Az apály és dagály szintkülönbsége itt a legjelentősebb.", "Környezetvédelmi szempontból fokozottan figyelt terület.", "A térség egyedülálló tengeri mikroklímával rendelkezik."]
+    }
+  },
   {
     id: "djerba-island-nature-v2",
     type: "island",
@@ -53,7 +74,14 @@ export const poiExtraTunisiaNatureV2: POI[] = [
       hu: ["Észak-Afrika legnagyobb szigete.", "Híres fehér homokos strandjairól."],
       ro: ["Cea mai mare insulă din Africa de Nord.", "Celebră pentru plajele cu nisip alb."],
       en: ["Largest island in North Africa.", "Famous for white sand beaches."]
-    }, image: "/poi-images/djerba-island-nature-v2.webp"},
+    }, image: "/poi-images/djerba-island-nature-v2.webp",
+    descriptionAdvanced: {
+      hu: "Djerba szigete a Földközi-tenger egyik gyöngyszeme, amely a déli partok közelében fekszik, és ismert pálmafáiról, fehér homokos strandjairól és különleges, hagyományos építészetéről. A sziget a nyugodt, tengerparti pihenés és a gazdag természeti látnivalók ötvözete. Földrajz K7 — szigetek."
+    },
+    factsAdvanced: {
+      hu: ["Djerba a legnagyobb sziget Észak-Afrikában.", "Híres hagyományos építészetéről és mecseteiről.", "Fehér homokos strandjai világhírűek.", "A sziget pálmafákban és olajfaligetekben gazdag.", "Kulturálisan az ország egyik legsajátosabb régiója.", "A tengerparti élővilága kiváló minőségű."]
+    }
+  },
   {
     id: "medjerda-river-nature-v2",
     type: "river",
@@ -66,7 +94,14 @@ export const poiExtraTunisiaNatureV2: POI[] = [
       hu: ["Algériában ered.", "Fontos vízforrás a mezőgazdaságnak."],
       ro: ["Izvorăște în Algeria.", "Sursă importantă de apă pentru agricultură."],
       en: ["Originates in Algeria.", "Important water source for agriculture."]
-    }, image: "/poi-images/medjerda-river-nature-v2.webp"},
+    }, image: "/poi-images/medjerda-river-nature-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Medjerda Tunézia leghosszabb és legfontosabb folyója, amely az Atlasz-hegységből ered, és a Medjerda-völgyön keresztül éri el a tengert. A folyóvíz biztosítja az ország északi részének mezőgazdasági termelését, így az egész nemzet gazdasági jólétét szolgálja. Földrajz K7 — hegységek és folyók."
+    },
+    factsAdvanced: {
+      hu: ["A Medjerda az ország leghosszabb folyója.", "Az Atlasz-hegységből ered és a Földközi-tengerbe ömlik.", "A folyóvölgy Tunézia mezőgazdasági központja.", "Fontos szerepet tölt be a vízgazdálkodásban.", "Több gát is épült a folyón az öntözés érdekében.", "A folyó mentén gazdag történelmi városok találhatók."]
+    }
+  },
   {
     id: "kerkenna-islands-nature-v2",
     type: "island",

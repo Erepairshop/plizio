@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "january-20-monument-landmarks-v2",
+      "descriptionAdvanced": "A Január 20. Emlékmű (Monumento 20 de Janeiro) Bissau egyik legfontosabb történelmi emlékműve, amely Amílcar Cabral, az ország nemzetalapító hősének 1973. január 20-án történt meggyilkolásának állít emléket. A szoborkomplexum a nemzeti függetlenségért hozott áldozatokat szimbolizálja, és a helyi megemlékezések, valamint politikai koszorúzások hivatalos helyszíne. A monumentális szobor egy előretörő, elszánt harcost ábrázol, amely a PAIGC (Afrikai Párt Guinea és a Zöld-foki szigetek Függetlenségéért) küzdelmeit idézi. A parkosított tér, ahol az emlékmű áll, a városlakók számára találkozóhelyként is szolgál, bár az utóbbi években felújításra szorulna. Történelem K8 — politikai merényletek és dekolonizáció.",
+      "factsAdvanced": [
+        "Amílcar Cabral 1973. január 20-i meggyilkolásának állít emléket.",
+        "A főváros, Bissau egyik központi emlékműve.",
+        "Hivatalos állami koszorúzások és megemlékezések színhelye.",
+        "A PAIGC függetlenségi harcosainak áldozatvállalását szimbolizálja.",
+        "A szoborkomplexum egy harcost ábrázol mozgás közben.",
+        "A terület körül található park népszerű találkozóhely a helyiek körében."
+      ]
+    },
+    {
+      "id": "new-national-assembly-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Új Nemzeti Népgyűlés épülete egy lenyűgöző, modern komplexum, amelyet az ország demokratikus átmenetének és a törvényhozás stabilitásának szimbólumaként emeltek. Az épületet Kína építette a bissau-guineai állam számára, a két ország közötti szoros diplomáciai kapcsolatok eredményeként. A hatalmas, többemeletes épületben a plenáris ülésterem mellett irodák, konferenciatermek és egy modern sajtóközpont is található. Bár a külcsín modern és monumentális, a belső működést gyakran nehezítik az áramkimaradások és az ország politikai instabilitása. Az épület előtti tágas tér rendszeres helyszíne békés demonstrációknak. Állampolgári ismeretek K8 — nemzetközi diplomácia és intézmények.",
+      "factsAdvanced": [
+        "A törvényhozás (parlament) modern, új épülete Bissau-ban.",
+        "A komplexum teljes egészében kínai pénzügyi és technikai támogatással épült.",
+        "Hatalmas plenáris ülésteremmel és modern irodákkal rendelkezik.",
+        "A kétoldalú (Bissau-Guinea és Kína) diplomáciai kapcsolatok jelképe.",
+        "A téren gyakran tartanak politikai gyűléseket és tüntetéseket.",
+        "A modern afrikai intézményi építészet kiváló példája."
+      ]
+    },
+    {
+      "id": "supreme-court-bissau-landmarks-v2",
+      "descriptionAdvanced": "A Legfelsőbb Bíróság (Supremo Tribunal de Justiça) épülete Bissau központjában az ország igazságszolgáltatási rendszerének csúcsa. A tekintélyt parancsoló, klasszikus elemeket modern vonásokkal ötvöző épület az alkotmányosság és a jogállamiság szimbóluma, még akkor is, ha az ország gyakran küzd politikai válságokkal és a bírói függetlenség fenntartásával. Az intézmény dönt a legmagasabb szintű jogi vitákban, beleértve a választási eredmények hitelesítését, ami az elmúlt években többször is feszült politikai helyzeteket teremtett az épület körül. A bíróság környezete szigorúan őrzött, de a homlokzata a városkép fontos része. Állampolgári ismeretek K8 — igazságszolgáltatás és jogállamiság.",
+      "factsAdvanced": [
+        "A bissau-guineai igazságszolgáltatási rendszer legmagasabb fóruma.",
+        "Épülete a főváros központjában, az adminisztratív negyedben található.",
+        "Kulcsszerepe van a választási eredmények és alkotmányos viták eldöntésében.",
+        "Szigorúan őrzött intézmény, gyakori helyszíne a politikai feszültségeknek.",
+        "Az alkotmányosság és a jogállamiság hivatalos szimbóluma.",
+        "Klasszikus és modern építészeti elemeket ötvöző homlokzattal bír."
+      ]
+    },
+    {
+      "id": "bandim-fishing-port-landmarks-v2",
+      "descriptionAdvanced": "A Bandim Halászkikötő (Porto de Pesca de Bandim) Bissau egyik legélénkebb és legszínesebb pontja, közvetlenül a híres Bandim Piac közelében. Ez az a hely, ahol a helyi hagyományos halászok (főleg a papel és balanta etnikumból) mindennap kirakodják a fából faragott 'pirogue'-okból a friss zsákmányt. A kikötő nyers, ipari hangulatát az állandó hangzavar, a friss tengeri halak illata és a jégtömböket mozgató asszonyok látványa határozza meg. A kikötő alapvető fontosságú a főváros fehérjeellátásában, és bár az infrastruktúra — mólók, hűtőházak — fejlesztésre szorul, a hely a mindennapi afrikai túlélés és kemény munka tökéletes lenyomata. Gazdaságföldrajz K7 — kézműves halászat.",
+      "factsAdvanced": [
+        "Hagyományos, nagy forgalmú halászkikötő Bissau városában.",
+        "A szomszédos Bandim Piac (Mercado de Bandim) közvetlen beszállítója.",
+        "Helyi kézműves halászok fa pirogue-okból pakolják ki a napi fogást.",
+        "Alapvető szerepet játszik a főváros lakosságának élelmezésében.",
+        "Az infrastruktúra, különösen a hűtési kapacitás, rendkívül hiányos.",
+        "A halak eladását és feldolgozását hagyományosan a helyi nők végzik."
+      ]
+    },
+    {
+      "id": "ponta-varela-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Ponta Varela Világítótorony Bissau-Guinea legészaknyugatibb csücskében emelkedik, a szenegáli határ közelében. Ez a jelzőfény a navigáció kritikus eleme volt a veszélyes, nehézásványokkal teli parti vizeken, segítve a hajókat a Cacheu-folyó torkolata felé. A torony ma jórészt elhagyatott, és lassan pusztul a sós tengeri szélben, ami romantikus, melankolikus hangulatot kölcsönöz neki. Környéke különleges: a megszokott mangrovék helyett fenyőfák (casuarina) és fehér homokos strandok övezik. Bár a világítótorony fénye már nem vezeti a nagy hajókat, a helyszín egyre népszerűbb a kalandvágyó turisták és a helyi halászok körében. Földrajz K6 — tengerparti navigáció.",
+      "factsAdvanced": [
+        "Az ország legészaknyugatibb pontján, a szenegáli határnál található.",
+        "Évtizedeken át segítette a navigációt a Cacheu-folyó torkolata felé.",
+        "Jelenleg elhagyatott és erősen romló állapotban van.",
+        "Környezete egyedülálló: mangrove helyett fenyőfák és homokos partok övezik.",
+        "A sós tengeri erózió jelentős károkat okozott az építményben.",
+        "A környék a kalandturizmus egyik feltörekvő célpontja."
+      ]
+    },
+    {
+      "id": "cacheu-river-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Cacheu-folyón átívelő João Landim Híd (Ponte Vicente) az ország egyik legkritikusabb infrastrukturális létesítménye. Ez az 1980-as évek végén befejezett modern beton- és acélhíd köti össze Bissau-t és az ország déli részét az északi Cacheu és Oio régiókkal, valamint Szenegállal. A híd megépítése előtt a folyón való átkelés csak lassú és kiszámíthatatlan kompokkal volt lehetséges. Stratégiai fontossága miatt a híd többször is katonai ellenőrzőpont volt a helyi politikai válságok idején. A hídról lenyűgöző kilátás nyílik a folyót szegélyező kiterjedt mangrove-erdőkre és az árapály által alakított iszapmezőkre. Fizika K7 — modern hídépítés.",
+      "factsAdvanced": [
+        "A Cacheu-folyón ível át, összekötve az északi régiókat a fővárossal.",
+        "Kritikus jelentőségű a Szenegál felé tartó nemzetközi kereskedelemben.",
+        "Megépítése véget vetett a lassú és megbízhatatlan kompközlekedésnek.",
+        "A politikai krízisek idején gyakran funkcionál katonai ellenőrzőpontként.",
+        "Erős vasbeton és acél szerkezetű, az 1980-as években épült.",
+        "Gyönyörű kilátást nyújt a Cacheu-folyó mangrove-ökoszisztémájára."
+      ]
+    },
+    {
+      "id": "antula-sports-complex-landmarks-v2",
+      "descriptionAdvanced": "Az Antula Sportkomplexum Bissau északi kerületében, Antulában található, és az utánpótlás-nevelés legfontosabb központja a fővárosban. Bár nem olyan monumentális, mint a Nemzeti Stadion, a komplexum folyamatosan tele van fiatalokkal, akik a poros vagy félig füves pályákon játszanak. A létesítmény több kisebb futballpályát, kosárlabdapályát és egy fedett tornatermet is magában foglal. Számos helyi labdarúgó-akadémia (például a Benfica de Bissau utánpótlása) itt tartja az edzéseit, abban a reményben, hogy a tehetséges fiatalok egyszer európai klubokhoz szerződhetnek. A komplexum a helyi közösségi élet egyik legpozitívabb, legdinamikusabb színtere. Társadalomismeret K6 — ifjúsági sport és esélyegyenlőség.",
+      "factsAdvanced": [
+        "Bissau északi részén, Antula negyedben elhelyezkedő sportközpont.",
+        "A fővárosi labdarúgó-utánpótlás legfontosabb bázisa.",
+        "Több futball- és kosárlabdapályát, valamint egy tornatermet foglal magában.",
+        "Helyi futballakadémiák és tehetségkutatók állandó helyszíne.",
+        "Infrastruktúrája szerény, de a kihasználtsága maximális.",
+        "A sport a helyi fiatalok számára az egyik legfőbb kitörési lehetőség."
+      ]
+    },
+    {
+      "id": "portuguese-cultural-center-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Portugál Kulturális Központ (Centro Cultural Português em Bissau) a luso-afrikai (portugál-afrikai) kapcsolatok legfőbb letéteményese az országban. A modern, jól felszerelt épület a portugál követség komplexumának része. A központ hatalmas könyvtárral rendelkezik, amely hozzáférést biztosít a legújabb portugál nyelvű tudományos és irodalmi művekhez. Rendszeresen ad otthont képzőművészeti kiállításoknak, könyvbemutatóknak, fado- és afrikai zenei koncerteknek. Az intézmény emellett kiemelkedő szerepet játszik a portugál nyelv oktatásában és a helyi egyetemisták lisszaboni ösztöndíjainak koordinálásában, így a helyi értelmiség fontos találkozóhelye. Kultúrtörténet K8 — luso-afrikai kulturális kapcsolatok.",
+      "factsAdvanced": [
+        "A portugál nyelv és kultúra legfőbb promótere Bissau-Guineában.",
+        "A bissaui portugál nagykövetség épületkomplexumában található.",
+        "Az ország egyik legnagyobb és legjobban felszerelt könyvtárát működteti.",
+        "Képzőművészeti kiállítások, író-olvasó találkozók és koncertek helyszíne.",
+        "Portugál nyelvvizsgák és európai ösztöndíjak koordinációs központja.",
+        "Erősíti a CPLP (Portugál Nyelvű Országok Közössége) kulturális hálózatát."
+      ]
+    },
+    {
+      "id": "canchungo-church-landmarks-v2",
+      "descriptionAdvanced": "A Canchungo-i Katolikus Templom (Igreja de Canchungo) a Cacheu régió legszebb vallási épületeinek egyike. A 20. század első felében épült, amikor a város még Vila Teixeira Pinto néven a portugál gyarmati terjeszkedés egyik fontos központja volt. A templom homlokzatát a klasszikus portugál gyarmati stílus — a fehér falak, kék csempés díszítések (azulejo) és a kiemelkedő harangtorony — jellemzi. Bár a régió lakosságának többsége hagyományos animista vallást követ (manzacu etnikum), a templom a vallási béke szimbóluma, és a katolikus ünnepek idején a helyi közösség szélesebb köre is részt vesz a színes, afrikai zenével kísért miséken. Művészettörténet K7 — afrikai egyházi építészet.",
+      "factsAdvanced": [
+        "A Cacheu régió egyik legfontosabb és legszebb katolikus temploma.",
+        "A 20. század első felében épült klasszikus portugál gyarmati stílusban.",
+        "Építészetét fehér falak és portugál kék csempe (azulejo) díszítés jellemzi.",
+        "A túlnyomórészt animista manzacu közösség szívében helyezkedik el.",
+        "A katolikus ünnepeket gyakran tradicionális afrikai énekek kísérik.",
+        "A vallási tolerancia és békés együttélés fontos helyi szimbóluma."
+      ]
+    },
+    {
+      "id": "poilao-schildkroeten-life-v2",
+      "descriptionAdvanced": "A Poilão-sziget (Ilha do Poilão) a João Vieira és Poilão Tengeri Nemzeti Park része, és Nyugat-Afrika legfontosabb fészkelőhelye a közönséges levesteknősök (Chelonia mydas) számára. A lakatlan, mindössze 43 hektáros sziget partjain évente több tízezer teknős rakja le tojásait augusztus és november között. A sziget szent hely a bijagó etnikum számára, így a hagyományos törvények szigorúan tiltják az itteni vadászatot és vérontást, ami évszázadok óta biztosítja a teknősök védelmét. Nemzetközi kutatócsoportok és helyi őrök dolgoznak együtt, hogy megóvják ezt a globálisan is egyedülálló, sérülékeny ökoszisztémát az orvhalászoktól. Biológia K8 — tengeri teknősök szaporodásbiológiája.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport legdélibb, lakatlan szigete.",
+        "Nyugat-Afrika legnagyobb közönséges levesteknős (Chelonia mydas) fészkelőhelye.",
+        "Évente mintegy 30-40 ezer teknős rakja le itt a tojásait.",
+        "A bijagó animista vallás szent (tiltott) helyként tiszteli, ami védi az állatokat.",
+        "A João Vieira és Poilão Tengeri Nemzeti Park szigorúan védett zónája.",
+        "Nemzetközi és helyi kutatók (IBAP) állandó megfigyelőbázist tartanak fenn."
+      ]
+    },
+    {
+      "id": "joao-vieira-voegel-life-v2",
+      "descriptionAdvanced": "A João Vieira-sziget a Bijagós-szigetcsoport déli részén fekszik, és a róla elnevezett Tengeri Nemzeti Park központja. A sziget lenyűgöző madárvilágáról ismert: az európai tél elől menekülő vándormadarak milliói találnak itt menedéket és táplálékot az iszapos, árapályos partvidékeken és a mangrove-erdőkben. A legjellegzetesebb fajok közé tartoznak a különböző cankók, partfutók és a ritka afrikai szürke papagájok, amelyek a sziget idős pálmafáin fészkelnek. A terület madárvédelmi szempontból globális jelentőségű (IBA - Important Bird Area), és az ökoturizmus számára hatalmas kiaknázatlan potenciált jelent. Biológia K7 — madárvonulási útvonalak.",
+      "factsAdvanced": [
+        "A João Vieira és Poilão Tengeri Nemzeti Park névadó szigete.",
+        "Globálisan is kiemelt jelentőségű madárvédelmi terület (IBA).",
+        "Az eurázsiai vándormadarak egyik legfontosabb nyugat-afrikai telelőhelye.",
+        "A ritka afrikai szürke papagáj (Psittacus erithacus) fészkelőhelye.",
+        "A sűrű pálma- és mangrove-erdők gazdag táplálékforrást biztosítanak.",
+        "A helyi közösségek és nemzetközi szervezetek közösen őrzik a területet."
+      ]
+    },
+    {
+      "id": "cufada-voegel-life-v2",
+      "descriptionAdvanced": "A Cufada-tó (Lagoa de Cufada) Nemzeti Park Bissau-Guinea legnagyobb édesvízi tava, és az ország első Ramsar-egyezmény által védett vizes élőhelye. A Quinara régióban található tórendszer és a környező mocsarak madárparadicsomot alkotnak. A területen több mint 250 madárfajt regisztráltak, köztük a látványos afrikai halászsast, gémeket, jégmadarakat és hatalmas pelikánokat. Az esős évszakban a tó területe drasztikusan megnő, és a vízi növényzet (tündérrózsák) valóságos zöld szőnyeget alkot a felszínen. A madarak mellett a park az erdei elefántok és a csimpánzok utolsó menedékhelyeinek egyike a régióban. Biológia K7 — édesvízi ökoszisztémák és vizes élőhelyek.",
+      "factsAdvanced": [
+        "Bissau-Guinea legnagyobb kiterjedésű édesvízi tava.",
+        "Nemzetközi védettségű Ramsar vizes élőhely (wetland).",
+        "Több mint 250 rezidens és vonuló madárfaj otthona.",
+        "Gyakori látványosság az afrikai halászsas és a rózsásgödény.",
+        "Az esős évszakban a vízfelület duplájára duzzad.",
+        "Erdei elefántok és vízilovak is élnek a park területén."
+      ]
+    },
+    {
+      "id": "cacheu-seekuh-life-v2",
+      "descriptionAdvanced": "A Cacheu Folyó Mangrove Nemzeti Park (Parque Natural dos Tarrafes do Rio Cacheu) Nyugat-Afrika legnagyobb egybefüggő mangrove-erdejét védi. A park legkülönlegesebb és legveszélyeztetettebb lakója a nyugat-afrikai manátusz, más néven tengeri tehén (Trichechus senegalensis). Ezek a békés, növényevő tengeri emlősök a folyó sekély, nyugodt vizű, iszapos ágaiban élnek, ahol a mangrove-gyökerek között találnak táplálékot. Mivel a manátuszok húsa hagyományosan drága csemegének számít, az orvvadászat a kihalás szélére sodorta őket. Ma a parkőrök és a civil szervezetek intenzív edukációs kampányokkal próbálják megmenteni a 'folyó szellemének' is hívott állatokat. Biológia K8 — veszélyeztetett tengeri emlősök.",
+      "factsAdvanced": [
+        "A Cacheu Nemzeti Park Nyugat-Afrika legnagyobb mangrove-erdejét foglalja magában.",
+        "A park a rendkívül ritka nyugat-afrikai manátusz (tengeri tehén) menedéke.",
+        "A manátuszok kizárólag a sekély, melegebb vizek vízinövényeivel táplálkoznak.",
+        "Az orvvadászat és a halászhálókba gabalyodás a faj legnagyobb fenyegetése.",
+        "A helyi hiedelmek gyakran a 'folyó szellemeként' tisztelik a manátuszokat.",
+        "Fennmaradásuk a mangrove-ökoszisztéma épségétől függ."
+      ]
+    },
+    {
+      "id": "bijagos-delfine-life-v2",
+      "descriptionAdvanced": "A Bijagós-szigetcsoportot övező sekély, tápanyagban gazdag vizek és labirintusszerű csatornák ideális élőhelyet biztosítanak az atlanti púposdelfinek (Sousa teuszii) és a palackorrú delfinek számára. Ezek a tengeri emlősök gyakran megfigyelhetők, amint az árapály-áramlatokat kihasználva vadásznak a partok közelében. A púposdelfinek különösen ritkák és veszélyeztetettek, kizárólag Nyugat-Afrika partvidékén élnek. A helyi bijagó halászok hagyományosan tisztelik a delfineket, gyakran útmutatóként tekintenek rájuk a zátonyos vizeken. A delfinleső ökoturizmus óriási potenciált rejt a szigeteken, amely alternatív bevételi forrást biztosíthat a helyi közösségeknek a pusztító túlhalászattal szemben. Biológia K7 — delfinek viselkedésökológiája.",
+      "factsAdvanced": [
+        "A Bijagós-szigetek vizei az atlanti púposdelfinek egyik utolsó menedékhelyei.",
+        "A púposdelfin (Sousa teuszii) egy kritikusan veszélyeztetett tengeri emlős.",
+        "Gyakran megfigyelhetőek a palackorrú delfinek csoportjai is.",
+        "A delfinek a mangrove-partok és torkolatok sekély vizeiben vadásznak halakra.",
+        "A helyi bijagó halászok szerencsehozónak és segítőnek tartják őket.",
+        "A delfinleső turizmus a régió egyik fejlődő ökoturisztikai ágazata."
+      ]
+    },
+    {
+      "id": "bafata-cashew-life-v2",
+      "descriptionAdvanced": "Bafatá régiója Bissau-Guinea egyik legfontosabb kesudió-termesztő vidéke. A kesudió (Anacardium occidentale) az ország gazdaságának gerince, az exportbevételek több mint 90%-át adja. Bafatá dombos, szavannás klímája tökéletes a kesufák számára. Február és május között a táj átalakul: a fák virágba borulnak, majd megjelennek a színes kesualmák (amelyekből a híres pálmabort, a 'cana de cajeira'-t erjesztik) és a rajtuk lógó diók. A szüret idején az egész család, gyerekektől az idősekig a földeken dolgozik. A diót többnyire nyersen, zsákokban exportálják Indiába és Vietnámba, mivel a helyi feldolgozókapacitás rendkívül alacsony. Gazdaságföldrajz K7 — monokultúrás exportgazdaságok.",
+      "factsAdvanced": [
+        "Bissau-Guinea a világ egyik legnagyobb nyerskesudió-exportőre.",
+        "Bafatá régió a kesudió-termesztés egyik legfőbb nemzeti központja.",
+        "A kesudió az ország exportbevételének több mint 90%-át teszi ki.",
+        "A kesualmából helyi alkoholos italt (cana de cajeira) készítenek.",
+        "A termést szinte kizárólag nyersen, feldolgozás nélkül exportálják Ázsiába.",
+        "A szüretelés (március-május) az egész vidéki lakosságot mozgósítja."
+      ]
+    },
+    {
+      "id": "oio-erdnuss-life-v2",
+      "descriptionAdvanced": "Az Oio régió sík, homokos talajú területei Bissau-Guinea földimogyoró-termesztésének (manccara) központját jelentik. Mielőtt a kesudió egyeduralkodóvá vált volna, a gyarmati időszakban és a függetlenség első évtizedeiben a földimogyoró volt az ország legfőbb exportcikke. Ma a termelést elsősorban a belföldi piacra és Szenegál irányába történő exportra szánják. A földimogyoró a helyi gasztronómia alapja: szinte minden hagyományos szósz (mint a híres 'mafe') alapanyaga. Az Oio régióban a vetés az esős évszak kezdetén történik, a betakarítás pedig hatalmas közösségi munka, amely során a mandinka és balanta asszonyok kézzel válogatják a termést. Mezőgazdaság K6 — hagyományos haszonnövények.",
+      "factsAdvanced": [
+        "Az Oio régió homokos talaja ideális a földimogyoró (manccara) termesztésére.",
+        "A történelmi gyarmati időkben ez volt az ország fő exportcikke.",
+        "Jelenleg a belföldi fogyasztás és a szenegáli export a legjelentősebb.",
+        "A földimogyoró a nyugat-afrikai gasztronómia (pl. mogyorószósz) alapanyaga.",
+        "A betakarítás és a hüvelyezés hagyományosan a nők feladata.",
+        "A termesztés az esős évszak (június-október) ritmusához igazodik."
+      ]
+    },
+    {
+      "id": "tombali-reis-life-v2",
+      "descriptionAdvanced": "A Tombali régió déli, csapadékban rendkívül gazdag területe a guineai rizstermesztés szívcsakrája. A balanta etnikum, akiket az 'árapály-rizstermesztés mérnökeinek' is neveznek, tökélyre fejlesztette a sós víz kirekesztését szolgáló gátak és csatornák rendszerét a mangrove-mocsarakban (ez a 'bolanha' rendszer). Ez a nehéz, térdig érő iszapban végzett fizikai munka biztosítja az ország alapélelmiszerét. A rizs itt nemcsak táplálék, hanem a kultúra és a vallás alapja is: a betakarítási ünnepek, esküvők és beavatási rítusok mind a rizstermés köré szerveződnek. Annak ellenére, hogy a hozam magas, az ország még mindig rizsimportra szorul az elmaradott infrastruktúra miatt. Agrártörténet K8 — hagyományos afrikai vízgazdálkodás.",
+      "factsAdvanced": [
+        "A Tombali régió Bissau-Guinea legfontosabb rizstermelő vidéke.",
+        "A balanta etnikum hagyományos 'bolanha' (ártéri) módszerével termesztik.",
+        "Bonyolult gátrendszerekkel szabályozzák a sós tengervíz és az édesvíz keveredését.",
+        "A rizs (arroz) az ország elsőszámú és legfontosabb alapélelmiszere.",
+        "A vetés és aratás kimerítő, iszapban végzett kézi fizikai munka.",
+        "A rizs bősége határozza meg a társadalmi ünnepek és rítusok idejét."
+      ]
+    },
+    {
+      "id": "quinara-oelpalm-life-v2",
+      "descriptionAdvanced": "A Quinara régió trópusi erdeiben vadon és félvadon nőnek a guineai olajpálmák (Elaeis guineensis), amelyek a helyi gazdaság és kultúra elengedhetetlen részei. A pálma minden részét felhasználják: a levelekből tetőt fednek, a törzsből pálmabort (vinho de palma) csapolnak, a piros gyümölcsből pedig a mindennapi főzéshez használt, béta-karotinban gazdag, jellegzetes ízű vörös pálmaolajat (chabéu) sajtolják. Az olaj kinyerése hagyományosan a nők feladata, akik hatalmas üstökben főzik és kézzel passzírozzák a gyümölcsöt. A pálmabor csapolása viszont a fiatal férfiak (a 'tiradores') veszélyes, akrobatikus munkája, akik biztosítókötéllel másznak fel a 20 méteres fákra. Társadalomismeret K7 — a pálmafa sokoldalú hasznosítása.",
+      "factsAdvanced": [
+        "A Quinara régió az ország egyik fő olajpálma-termő területe.",
+        "A vörös pálmaolaj (chabéu) a helyi gasztronómia alapvető zsiradéka.",
+        "A pálmamagból préselt olajat a szappan- és kozmetikai ipar is használja.",
+        "Az olaj kinyerése hagyományos, rendkívül munkaigényes női feladat.",
+        "A pálmabor csapolását ('tiradores') ügyes, fiatal férfiak végzik a magas fák koronájában.",
+        "A pálma leveleit a hagyományos házak tetőfedésére is használják."
+      ]
+    },
+    {
+      "id": "biombo-mango-life-v2",
+      "descriptionAdvanced": "A Biombo régió, Bissau város közvetlen szomszédságában, a mangó termesztésének fellegvára. A termékeny, csapadékos partmenti klíma tökéletes feltételeket teremt e lédús trópusi gyümölcs számára. Május és június folyamán a fák roskadoznak a mangótól, az egész régiót átjárja a gyümölcs édeskés illata. Ilyenkor a főváros piacait elárasztják az innen származó friss mangók. A bőség paradoxonja, hogy a feldolgozóüzemek (lekvár, aszalvány, gyümölcslé) szinte teljes hiánya miatt a termés jelentős része – esetenként akár fele is – elrohad a fák alatt, mert nem tudják időben eladni vagy tartósítani. A mangó a helyi gyerekek legkedveltebb ingyenes csemegéje. Gazdaságföldrajz K6 — élelmiszerpazarlás a fejlődő világban.",
+      "factsAdvanced": [
+        "A Biombo régió Bissau-Guinea legjelentősebb mangótermő vidéke.",
+        "A betakarítás fő szezonja a május és a június.",
+        "A főváros gyümölcskínálatának túlnyomó részét innen biztosítják.",
+        "Feldolgozóipar hiányában a mangótermés jelentős része kárba vész.",
+        "Számtalan mangófajta (zöld, sárga, rostos, édes) terem a területen.",
+        "A mangófák hatalmas lombkoronája fontos árnyékot ad a falvakban."
+      ]
+    },
+    {
+      "id": "bolama-obst-life-v2",
+      "descriptionAdvanced": "Bolama szigete különleges mikroklímájának köszönhetően Bissau-Guinea 'gyümölcsöskertje'. A régi gyarmati ültetvények nyomain ma is dúsan teremnek az egzotikus gyümölcsök: papaya, guava, banán, citrusfélék és kenyérfa. A portugálok idején tudatosan telepítettek ide különböző mezőgazdasági kultúrákat. A szigetlakók ma e fák terméséből egészítik ki a halászaton alapuló étrendjüket. A friss gyümölcsöket a kikötőből hetente induló kompokkal szállítják át Bissau piacaira. A buja, elvadult kertekben a gyümölcsök szinte gondozás nélkül teremnek, a lehullott gyümölcsök pedig a sziget gazdag majom- és madárpopulációját táplálják. Biológia K6 — trópusi gyümölcsök.",
+      "factsAdvanced": [
+        "Bolama szigete a trópusi gyümölcsök (papaya, guava, banán) leggazdagabb lelőhelye.",
+        "A termékeny kertek egykori portugál ültetvények maradványai.",
+        "A sziget különleges, párás mikroklímája ideális a gyümölcstermesztéshez.",
+        "A termények jelentős részét komppal szállítják a bissaui piacokra.",
+        "A fák jórészt vadon, különösebb mezőgazdasági gondozás nélkül teremnek.",
+        "A bőséges gyümölcstermés fontos táplálékforrása a sziget vadvilágának is."
+      ]
+    }
+  ]
+}

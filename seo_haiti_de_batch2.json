@@ -1,0 +1,286 @@
+{
+  "lang": "de",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "belle-anse-cities-v2",
+      "descriptionAdvanced": "Belle-Anse ist eine historische Küstengemeinde im Département Sud-Est, die sich durch ihre malerischen Buchten und den traditionellen Kaffeeanbau auszeichnet. Trotz der schlechten Verkehrsanbindung bewahrt der Ort ein reiches kulturelles Erbe und eine intakte, traditionelle Fischerei. Sachkunde K5 — Traditionelle Küstendörfer.",
+      "factsAdvanced": [
+        "Früher unter dem Namen Saltrou bekannt.",
+        "Liegt an der rauen Karibikküste des Südens.",
+        "Schwer erreichbar über Bergstraßen.",
+        "Wichtiger Standort für lokale Meeresfischerei.",
+        "Kaffee wird in den höher gelegenen Gebieten angebaut.",
+        "Die Region hat ein großes Potenzial für Ökotourismus."
+      ]
+    },
+    {
+      "id": "thiotte-cities-v2",
+      "descriptionAdvanced": "Thiotte ist eine kühle, hochgelegene Gemeinde im Massif de la Selle, bekannt als einer der wichtigsten Produzenten von Premium-Bergkaffee in Haiti. Das feuchte Mikroklima und die fruchtbaren Böden machen die Region zum Zentrum der lokalen Agrarwirtschaft und des Exportmarktes. Landwirtschaft K7 — Kaffeeanbau im Hochland.",
+      "factsAdvanced": [
+        "Berühmt für seinen exzellenten Hochlandkaffee.",
+        "Liegt im Massif de la Selle.",
+        "Das Klima ist ganzjährig kühl und feucht.",
+        "Viele Kaffeebauern arbeiten in Kooperativen.",
+        "Die Region beherbergt eine reiche endemische Vogelwelt.",
+        "Grenzt fast an den Pic la Selle, den höchsten Berg Haitis."
+      ]
+    },
+    {
+      "id": "anse-a-pitres-cities-v2",
+      "descriptionAdvanced": "Anse-à-Pitres ist die südlichste Grenzstadt Haitis und spielt eine entscheidende Rolle im formellen sowie informellen Grenzhandel mit der Dominikanischen Republik. Durch den binationalen Markt am Fluss Pedernales herrscht hier ein ständiger wirtschaftlicher und kultureller Austausch. Wirtschaft K6 — Binationaler Handel.",
+      "factsAdvanced": [
+        "Die südlichste Stadt an der dominikanischen Grenze.",
+        "Der Fluss Pedernales trennt sie von der Nachbarstadt.",
+        "Zentrum eines lebhaften binationalen Marktes.",
+        "Fischerei und Handel sind die wirtschaftlichen Säulen.",
+        "Verfügt über einige der trockensten Klimabedingungen im Süden.",
+        "Historisch wichtig als Schmuggler- und Handelsroute."
+      ]
+    },
+    {
+      "id": "fond-des-negres-cities-v2",
+      "descriptionAdvanced": "Fond-des-Nègres ist ein historisch bedeutendes Handelszentrum im Département Nippes, das einst auf einer wichtigen kolonialen Route lag. Heute ist die Stadt landesweit für ihre riesigen, farbenfrohen Märkte bekannt, die Produzenten aus dem ganzen Land anziehen. Wirtschaft K6 — Nationale Märkte.",
+      "factsAdvanced": [
+        "Beherbergt einen der größten Märkte in Haiti.",
+        "Liegt strategisch an der Route Nationale 2.",
+        "Der Markt findet traditionell freitags und samstags statt.",
+        "Landwirtschaft, besonders Obst, dominiert die Region.",
+        "Historisch ein Rastplatz auf dem Weg nach Jérémie.",
+        "Das hügelige Gelände erschwert teilweise die Bebauung."
+      ]
+    },
+    {
+      "id": "paillant-cities-v2",
+      "descriptionAdvanced": "Paillant ist eine landwirtschaftlich geprägte Gemeinde auf den kühlen Hängen des Département Nippes. Neben dem erfolgreichen Anbau von Gemüse und Kaffee hat die Region auch durch den historischen Abbau von Bauxit wirtschaftliche Bedeutung erlangt. Geographie K7 — Rohstoffabbau und Landwirtschaft.",
+      "factsAdvanced": [
+        "Wurde 2003 offiziell zur Gemeinde erhoben.",
+        "Bekannt für den historischen Abbau von Bauxit (Aluminiumerz).",
+        "Das Klima ist kühler als in den umliegenden Ebenen.",
+        "Wichtiger Produzent von Karotten, Kohl und Kaffee.",
+        "Liegt in einer bergigen Landschaft in Nippes.",
+        "Die Renaturierung der alten Minen ist eine aktuelle Herausforderung."
+      ]
+    },
+    {
+      "id": "fort-delpesche-history-v2",
+      "descriptionAdvanced": "Fort Delpesche ist eine koloniale Festungsruine, die während der haitianischen Revolution als strategischer Verteidigungspunkt diente, um das Hinterland vor maritimen Invasionen zu schützen. Die verwitterten Steinwände zeugen noch heute von der massiven Bauweise des 18. Jahrhunderts. Geschichte K7 — Koloniale Verteidigungsanlagen.",
+      "factsAdvanced": [
+        "Erbaut während der französischen Kolonialzeit.",
+        "Diente der Abwehr von Piraten und britischen Schiffen.",
+        "Die Mauern bestanden aus solidem Kalkstein.",
+        "Wurde während der Revolution schwer beschädigt.",
+        "Heute von dichter tropischer Vegetation überwachsen.",
+        "Stellt ein wichtiges, unentdecktes archäologisches Erbe dar."
+      ]
+    },
+    {
+      "id": "habitation-du-caille-history-v2",
+      "descriptionAdvanced": "Habitation du Caille war eine prominente französische Kaffee- und Zuckerrohrplantage, deren Überreste ein wichtiges Zeugnis für die agrarische Sklavenwirtschaft sind. Die noch sichtbaren Fundamente der Herrenhäuser und Sklavenquartiere erzählen von einer dunklen kolonialen Vergangenheit. Geschichte K8 — Plantagenwirtschaft.",
+      "factsAdvanced": [
+        "War eine der größten Plantagen in der Region.",
+        "Kultivierte hauptsächlich Zuckerrohr und Kaffee.",
+        "Im 18. Jahrhundert von französischen Siedlern errichtet.",
+        "Zerstört während der ersten Sklavenaufstände.",
+        "Ruinen der Mühle sind teilweise noch erhalten.",
+        "Wurde auf fruchtbarem Boden in der Ebene errichtet."
+      ]
+    },
+    {
+      "id": "fort-brossard-history-v2",
+      "descriptionAdvanced": "Fort Brossard ist ein historisches Verteidigungsbauwerk aus der Kolonialzeit, das zur Sicherung der karibischen Handelsrouten und zum Schutz der Küste errichtet wurde. Es spielte eine Schlüsselrolle bei der Überwachung des Schiffsverkehrs in der Bucht. Geschichte K6 — Maritime Sicherung.",
+      "factsAdvanced": [
+        "Strategische Position an einer erhöhten Bucht.",
+        "Ausgestattet mit schweren Kanonenbatterien.",
+        "Errichtet zur Verteidigung gegen britische Freibeuter.",
+        "Wurde von den haitianischen Rebellen 1803 eingenommen.",
+        "Ein Großteil des Forts ist durch Erdbeben eingestürzt.",
+        "Die Fundamente bestehen aus Korallengestein."
+      ]
+    },
+    {
+      "id": "ruines-de-saint-michel-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Saint-Michel zeugen von einer der ältesten kolonialen Siedlungen in Haiti und bieten Archäologen wertvolle Einblicke in die frühe französische Architektur. Hier befanden sich eine Kirche und wichtige administrative Gebäude, die später aufgegeben wurden. Geschichte K7 — Koloniale Architektur.",
+      "factsAdvanced": [
+        "Ruinen einer frühen französischen Siedlung.",
+        "Umfasst die Überreste einer alten katholischen Kirche.",
+        "Teilweise während der Unabhängigkeitskriege zerstört.",
+        "Dichte Vegetation bedeckt heute weite Teile des Areals.",
+        "Gilt als historisches Denkmal von lokalem Interesse.",
+        "Funde alter Keramik und Münzen wurden hier gemacht."
+      ]
+    },
+    {
+      "id": "fort-de-la-riviere-froide-history-v2",
+      "descriptionAdvanced": "Dieses Fort kontrollierte einst die wichtige Wasserstraße der Rivière Froide und sicherte die Trinkwasserversorgung sowie den Transportweg für militärische Truppen in das bergige Hinterland. Es war entscheidend für die Logistik der Kolonialarmee. Geschichte K6 — Militärische Logistik.",
+      "factsAdvanced": [
+        "Errichtet am Ufer der Rivière Froide.",
+        "Sicherte den Zugang zu sauberem Trinkwasser.",
+        "Wichtiger Checkpoint für den Transport von Truppen.",
+        "Verfügte über Kasernen für eine kleine Garnison.",
+        "Im 19. Jahrhundert weitgehend aufgegeben.",
+        "Nur noch Grundmauern und Erdwälle sind sichtbar."
+      ]
+    },
+    {
+      "id": "habitation-le-clerc-history-v2",
+      "descriptionAdvanced": "Habitation Le Clerc war eine luxuriöse Residenz und Zuckerplantage der kolonialen Elite. Während der Revolution diente das beeindruckende Anwesen den französischen Offizieren kurzzeitig als strategischer Rückzugsort, bevor es in die Hände der Befreiungsarmee fiel. Geschichte K8 — Die Elite der Kolonialzeit.",
+      "factsAdvanced": [
+        "Benannt nach General Charles Leclerc.",
+        "War eine der prunkvollsten Residenzen der Insel.",
+        "Besaß weitläufige, terrassierte Gärten.",
+        "Diente als militärisches Hauptquartier.",
+        "Heute sind nur noch überwucherte Steinböden vorhanden.",
+        "Symbol für den Reichtum der Plantagenbesitzer."
+      ]
+    },
+    {
+      "id": "fort-de-la-presquile-sud-history-v2",
+      "descriptionAdvanced": "An der Spitze einer Halbinsel gelegen, bot das Fort de la Presqu'île eine uneingeschränkte Sicht auf den Ozean und diente als erste Verteidigungslinie gegen feindliche Flotten. Die isolierte Lage machte es zu einer gefürchteten Bastion. Geographie K5 — Strategische Küstenpunkte.",
+      "factsAdvanced": [
+        "Lag auf einer strategischen Halbinsel (Presqu'île).",
+        "Hatte einen 270-Grad-Blick über das Meer.",
+        "Erbaut im späten 17. Jahrhundert.",
+        "Bewaffnet mit weitreichenden Küstengeschützen.",
+        "Wurde oft von schweren Hurrikans beschädigt.",
+        "Heute ein beliebter Aussichtspunkt für Einheimische."
+      ]
+    },
+    {
+      "id": "habitation-des-lauriers-history-v2",
+      "descriptionAdvanced": "Diese Plantagenruine in den Bergen war einst berühmt für den Anbau seltener Gewürze und Edelhölzer, die ausschließlich für den Export nach Europa bestimmt waren. Die Habitation des Lauriers zeigt die Diversifizierung der kolonialen Landwirtschaft. Wirtschaft K7 — Kolonialer Gewürzhandel.",
+      "factsAdvanced": [
+        "Spezialisiert auf Vanille, Nelken und Kaffee.",
+        "Liegt in einer kühleren Bergregion.",
+        "Das Herrenhaus besaß importierte Marmorböden.",
+        "Während der Unabhängigkeitskämpfe niedergebrannt.",
+        "Alte Lorbeerbäume umgeben noch heute die Ruinen.",
+        "Die Terrassen für den Gewürzanbau sind noch erkennbar."
+      ]
+    },
+    {
+      "id": "fort-drouet-v2-history-v2",
+      "descriptionAdvanced": "Fort Drouet ist Teil eines komplexen Netzwerks von Befestigungsanlagen im Hochland. Es wurde besonders während der Guerillakämpfe der Revolution genutzt, um die überlegenen europäischen Truppen in schwierigem Terrain in einen Zermürbungskrieg zu zwingen. Geschichte K8 — Guerillataktiken.",
+      "factsAdvanced": [
+        "Teil eines inneren Verteidigungsrings.",
+        "Schwer erreichbar durch steile Hänge.",
+        "Wurde von haitianischen Rebellen intensiv genutzt.",
+        "Benannt nach einem französischen Offizier.",
+        "Ermöglichte die Kontrolle über wichtige Bergpässe.",
+        "Die Struktur ist weitgehend verfallen."
+      ]
+    },
+    {
+      "id": "habitation-val-fleury-history-v2",
+      "descriptionAdvanced": "Val Fleury war eine ausgedehnte Kaffeeplantage im Hochland, deren noch erhaltene Terrassen die aufwendigen landwirtschaftlichen Techniken der Kolonialzeit demonstrieren. Die Bewässerungssysteme der Plantage galten damals als technisches Meisterwerk. Landwirtschaft K6 — Historischer Terrassenbau.",
+      "factsAdvanced": [
+        "Ehemaliges Zentrum der Kaffeeproduktion.",
+        "Berühmt für das ausgeklügelte Bewässerungssystem.",
+        "Verfügte über riesige Sonnenterrassen zum Trocknen der Bohnen.",
+        "Wurde von Sklaven in mühsamer Handarbeit angelegt.",
+        "Die natürlichen Quellen der Region wurden umgeleitet.",
+        "Liegt in einem tiefen, fruchtbaren Tal."
+      ]
+    },
+    {
+      "id": "fort-de-la-poudriere-history-v2",
+      "descriptionAdvanced": "Als primäres Pulvermagazin der Region konzipiert, war Fort de la Poudrière ein streng bewachtes Arsenal, das entscheidend für die Munitionsversorgung der Armee war. Um katastrophale Explosionen zu vermeiden, wurde das Fort weitab von Siedlungen errichtet. Geschichte K6 — Militärische Infrastruktur.",
+      "factsAdvanced": [
+        "Diente ausschließlich als Pulvermagazin (Poudrière).",
+        "Hatte meterdicke Wände zur Explosionssicherung.",
+        "Liegt isoliert in einer Senke.",
+        "Wurde während der Revolution geplündert.",
+        "Besitzt keine Fenster, nur dicke Lüftungsschlitze.",
+        "Die Mauern sind extrem gut erhalten geblieben."
+      ]
+    },
+    {
+      "id": "ruines-de-l-aqueduc-history-v2",
+      "descriptionAdvanced": "Die massiven Aquäduktruinen sind ein beeindruckendes Meisterwerk der kolonialen Ingenieurskunst in Haiti. Sie wurden im 18. Jahrhundert errichtet, um das Wasser aus den Bergen zu den wasserintensiven Zuckerrohrfeldern in den trockenen Ebenen zu leiten. Sachkunde K5 — Historische Wasserversorgung.",
+      "factsAdvanced": [
+        "Ein Relikt der französischen Ingenieurskunst.",
+        "Transportierte Wasser über mehrere Kilometer.",
+        "Gebaut aus roten Ziegeln und lokalem Kalkstein.",
+        "Versorgte mehrere große Zuckerplantagen.",
+        "Teile der Bögen stehen noch heute in der Landschaft.",
+        "Wurde im 19. Jahrhundert nicht mehr gewartet."
+      ]
+    },
+    {
+      "id": "fort-du-grand-riviere-history-v2",
+      "descriptionAdvanced": "Dieses monumentale Fort überwachte die Ufer der Grand Rivière und war ein zentraler Schauplatz heftiger Gefechte zwischen Rebellen und Kolonialmächten. Seine Kontrolle bedeutete die Herrschaft über den wichtigsten Binnenwasserweg der Region. Geschichte K8 — Strategische Flussfestungen.",
+      "factsAdvanced": [
+        "Kontrollierte den Zugang zur Grand Rivière.",
+        "War Schauplatz schwerer Artilleriegefechte.",
+        "Verfügte über einen eigenen Pier für Versorgungsschiffe.",
+        "Die Strömung des Flusses bot natürlichen Schutz.",
+        "Ein Großteil der Festung fiel Überschwemmungen zum Opfer.",
+        "Historisch wichtig für den Holz- und Warentransport."
+      ]
+    },
+    {
+      "id": "habitation-sylvain-history-v2",
+      "descriptionAdvanced": "Die Überreste der Habitation Sylvain spiegeln den typischen Aufbau einer kolonialen Indigo-Plantage wider. Auf dem Gelände mussten hunderte Sklaven unter toxischen und härtesten Bedingungen den begehrten blauen Farbstoff für den europäischen Markt gewinnen. Geschichte K7 — Die Indigo-Produktion.",
+      "factsAdvanced": [
+        "Einer der wenigen Orte der Indigo-Herstellung.",
+        "Ruinen der Gärungsbecken sind noch vorhanden.",
+        "Die Arbeit mit Indigo war hochgradig gesundheitsschädlich.",
+        "Erreichte ihren Höhepunkt um 1750.",
+        "Liegt in einer heißen, sonnigen Ebene.",
+        "Die Plantage wurde 1791 während der Aufstände verlassen."
+      ]
+    },
+    {
+      "id": "fort-saint-michel-history-v2",
+      "descriptionAdvanced": "Fort Saint-Michel ist eine historische Festung, die zur Sicherung der städtischen Peripherie diente. Die massiven Steinwände und Bastionen beeindrucken noch heute und veranschaulichen die fortwährende militärische Bedrohung während der Kolonialära. Geschichte K6 — Städtische Verteidigung.",
+      "factsAdvanced": [
+        "Schützte die Zugangswege zu wichtigen Städten.",
+        "Verfügte über sternförmige Bastionen.",
+        "Unterhielt eine ständige Garnison von 50 Soldaten.",
+        "Wurde aus behauenen Natursteinen errichtet.",
+        "Diente auch als Kaserne und Waffenlager.",
+        "Heute ein wichtiger historischer Orientierungspunkt."
+      ]
+    },
+    {
+      "id": "habitation-mornay-history-v2",
+      "descriptionAdvanced": "Habitation Mornay war ein landwirtschaftliches Zentrum für den lukrativen Baumwollanbau in Haiti. Die Ruinen dieser riesigen Plantage sind heute eng mit der mündlich überlieferten Geschichte lokaler Sklavenaufstände und Widerstandskämpfer verknüpft. Geschichte K8 — Baumwollplantagen und Widerstand.",
+      "factsAdvanced": [
+        "Zentrum der kolonialen Baumwollproduktion.",
+        "Hatte eigene Entkörnungsanlagen vor Ort.",
+        "Der Eigentümer war für seine Grausamkeit berüchtigt.",
+        "Wurde in den ersten Tagen der Revolution niedergebrannt.",
+        "Die Felder sind heute von wildem Gestrüpp bedeckt.",
+        "Wichtiger Ort in der oralen Geschichte der Region."
+      ]
+    },
+    {
+      "id": "fort-des-anglais-history-v2",
+      "descriptionAdvanced": "Dieses Fort verdankt seinen Namen kurzzeitigen britischen Besatzungstruppen, die im späten 18. Jahrhundert versuchten, die französische Dominanz im Süden Haitis zu brechen. Das Bauwerk spiegelt die komplexen imperialen Kriege in der Karibik wider. Geschichte K7 — Imperiale Konflikte in der Karibik.",
+      "factsAdvanced": [
+        "Benannt nach der britischen Besatzung 1793-1798.",
+        "Sollte den Süden der Kolonie Saint-Domingue sichern.",
+        "Die Architektur zeigt englische Einflüsse.",
+        "Wurde schließlich an Toussaint Louverture übergeben.",
+        "Liegt in der Nähe der heutigen Stadt Les Anglais.",
+        "Die Struktur ist durch Hurrikans stark verfallen."
+      ]
+    },
+    {
+      "id": "habitation-la-ferriere-history-v2",
+      "descriptionAdvanced": "Nicht zu verwechseln mit der berühmten Zitadelle, war Habitation La Ferrière ein florierendes landwirtschaftliches Anwesen. Während der haitianischen Revolution wurde die Plantage als Symbol der Unterdrückung vollständig zerstört und nie wieder aufgebaut. Geschichte K6 — Das Ende der Kolonialära.",
+      "factsAdvanced": [
+        "Eine ehemals wohlhabende Kaffeeplantage.",
+        "1791 bis auf die Grundmauern niedergebrannt.",
+        "Die Sklaven der Plantage schlossen sich sofort den Rebellen an.",
+        "Die ehemaligen Plantagengrenzen sind in alten Karten verzeichnet.",
+        "Zeigt den abrupten wirtschaftlichen Wandel Haitis.",
+        "Das Gelände wird heute von lokalen Bauern landwirtschaftlich genutzt."
+      ]
+    }
+  ]
+}

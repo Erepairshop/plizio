@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-ndakhonga-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ndakhonga, in der Nähe von Foundiougne gelegen, ist ein moderner Flusshafen, der die logistische Anbindung des senegalesischen Hinterlandes erheblich verbessert hat. Er dient als strategischer Umschlagplatz am Saloum-Fluss und erleichtert den Transport von landwirtschaftlichen Produkten und Baumaterialien. Besonders wichtig ist seine Rolle bei der Entlastung der überlasteten Straßenverbindungen nach Dakar. Der Hafen wurde mit Blick auf die regionale wirtschaftliche Integration konzipiert und bietet moderne Kaianlagen sowie Lagerkapazitäten. Ndakhonga ist ein Beispiel für die Bemühungen des Staates, die maritime Infrastruktur über die Hauptstadt hinaus zu dezentralisieren und das Wirtschaftswachstum in den zentralen Regionen Senegals zu fördern. Geographie K7 — Binnenschifffahrt und Regionalentwicklung.",
+      "factsAdvanced": [
+        "Der Hafen wurde im Jahr 2015 offiziell eingeweiht.",
+        "Er befindet sich im Departement Fatick am Fluss Saloum.",
+        "Der Bau wurde durch südkoreanische Investitionen unterstützt.",
+        "Ndakhonga verfügt über ein modernes Passagierterminal.",
+        "Die Kaianlage ist für Küstenschiffe mit mittlerem Tiefgang ausgelegt.",
+        "Er verkürzt die Transportzeit zwischen Dakar und Casamance.",
+        "In der Nähe befindet sich die neue Brücke von Foundiougne.",
+        "Der Hafen ist ein wichtiger Knotenpunkt für den Salz- und Getreidehandel."
+      ]
+    },
+    {
+      "id": "sangomar-oil-field-base-economic-v2",
+      "descriptionAdvanced": "Die Versorgungsbasis für das Sangomar-Ölfeld im Hafen von Dakar ist das logistische Nervenzentrum der aufstrebenden senegalesischen Offshore-Ölindustrie. Das Sangomar-Feld, etwa 100 Kilometer südlich von Dakar gelegen, ist Senegals erstes produzierendes Offshore-Ölfeld. Die Basis in Dakar koordiniert den Einsatz von Versorgungsschiffen, den Transport von Ausrüstung und die Hubschrauberflüge zu den Bohrplattformen und der FPSO (Floating Production Storage and Offloading). Dieses Projekt markiert den Eintritt Senegals in den Kreis der Erdölproduzenten und wird voraussichtlich erhebliche Auswirkungen auf das nationale Budget und die Energieunabhängigkeit haben. Die Einhaltung höchster Sicherheits- und Umweltstandards ist aufgrund der marinen Biodiversität in der Region von größter Bedeutung. Wirtschaft K8 — Extraktive Industrien und Energiepolitik.",
+      "factsAdvanced": [
+        "Die Förderung im Sangomar-Feld begann im Juni 2024.",
+        "Betreiber des Feldes ist das australische Unternehmen Woodside Energy.",
+        "Die FPSO trägt den Namen 'Léopold Sédar Senghor'.",
+        "Die Ölreserven werden auf ca. 630 Millionen Barrel geschätzt.",
+        "Das Feld befindet sich in Wassertiefen von 700 bis 1.400 Metern.",
+        "Dakar dient als Hauptlogistikzentrum für die gesamte Offshore-Flotte.",
+        "Die Einnahmen fließen teilweise in einen Generationenfonds (FONSIS).",
+        "Das Projekt schafft hochqualifizierte Arbeitsplätze für senegalesische Ingenieure."
+      ]
+    },
+    {
+      "id": "santhiou-mekhe-solar-economic-v2",
+      "descriptionAdvanced": "Die Solaranlage Ten Merina in Santhiou Mékhé ist ein herausragendes Beispiel für die rasante Entwicklung der Solarenergie im Senegal. Mit einer Kapazität von 30 Megawatt trägt dieser Photovoltaikpark wesentlich zur Stabilisierung des nationalen Stromnetzes in der Region Thiès bei. Die Anlage wurde im Rahmen einer internationalen Kooperation errichtet und nutzt modernste Solartechnologie, um den hohen Sonneneinstrahlungswert der Region effizient auszuschöpfen. Das Projekt hat nicht nur die CO2-Bilanz des Landes verbessert, sondern auch die lokale Wirtschaft durch den Bau von Schulen und Gesundheitszentren in den umliegenden Dörfern unterstützt. Santhiou Mékhé steht symbolisch für die Strategie des Senegals, bis zu 30 % seiner Energie aus erneuerbaren Quellen zu beziehen. Physik K8 — Solartechnik und Nachhaltigkeit.",
+      "factsAdvanced": [
+        "Die Anlage Ten Merina wurde im Jahr 2017 eingeweiht.",
+        "Sie besteht aus über 92.000 Solarmodulen.",
+        "Die Gesamtleistung beträgt 30 Megawatt (MW).",
+        "Sie versorgt umgerechnet etwa 200.000 Menschen mit Strom.",
+        "Das Projekt wurde teilweise durch den französischen Meridiam-Fonds finanziert.",
+        "Jährlich werden etwa 34.000 Tonnen CO2-Emissionen vermieden.",
+        "Die Bauzeit der Anlage betrug weniger als ein Jahr.",
+        "Santhiou Mékhé liegt im Departement Tivaouane."
+      ]
+    },
+    {
+      "id": "tobene-power-plant-economic-v2",
+      "descriptionAdvanced": "Das Kraftwerk Tobène ist ein modernes thermisches Kraftwerk in der Region Thiès, das eine Schlüsselrolle bei der Deckung des wachsenden Energiebedarfs Senegals spielt. Als unabhängiges Stromerzeugungsprojekt (IPP) nutzt es hocheffiziente Dieselmotoren, die mit Schweröl betrieben werden, um eine stabile Grundlast für das nationale Stromnetz bereitzustellen. Tobène wurde konzipiert, um die Volatilität im Netz auszugleichen und die industriellen Aktivitäten in der Region, einschließlich der Phosphatminen, zu unterstützen. In Zukunft ist geplant, die Anlage auf den Betrieb mit Erdgas umzustellen, sobald die heimischen Gasfelder erschlossen sind. Die Anlage erfüllt internationale Standards für betriebliche Sicherheit und Umweltverträglichkeit und ist ein wichtiger Partner der Senelec. Technik K8 — Wärmekraftwerke und Netzstabilität.",
+      "factsAdvanced": [
+        "Tobène Power hat eine installierte Leistung von ca. 115 Megawatt.",
+        "Das Kraftwerk wurde im Jahr 2016 in Betrieb genommen.",
+        "Es befindet sich in der Nähe der Stadt Taïba Ndiaye.",
+        "Die Anlage nutzt MAN-Dieselmotoren zur Stromerzeugung.",
+        "Die Investitionskosten beliefen sich auf über 120 Millionen Euro.",
+        "Das Projekt wurde durch die Weltbank-Tochter IFC unterstützt.",
+        "Tobène liefert etwa 10 % der Grundlastkapazität Senegals.",
+        "Die Anlage verfügt über moderne Abgasreinigungssysteme."
+      ]
+    },
+    {
+      "id": "massawa-gold-project-economic-v2",
+      "descriptionAdvanced": "Das Massawa-Goldprojekt ist eine der bedeutendsten Goldlagerstätten Westafrikas und befindet sich im Osten Senegals. Es wurde strategisch in den Betrieb der benachbarten Sabodala-Mine integriert, um Synergien bei der Verarbeitung und Logistik zu nutzen. Massawa ist bekannt für sein hochwertiges Golderz, das teilweise komplexere metallurgische Verfahren erfordert. Die Erschließung dieses Feldes hat die Lebensdauer der Sabodala-Massawa-Minenoperation erheblich verlängert und festigt den Status des Senegals als wichtiger Akteur auf dem globalen Goldmarkt. Das Projekt bringt bedeutende Steuereinnahmen für den Staat und fördert die lokale Infrastruktur in der abgelegenen Region Kédougou. Ein verantwortungsvoller Umgang mit Chemikalien wie Zyanid ist dabei oberste Priorität. Sachkunde K8 — Metallurgie und Rohstoffabbau.",
+      "factsAdvanced": [
+        "Massawa wurde 2020 von Barrick Gold an Teranga Gold verkauft.",
+        "Es ist heute Teil des Sabodala-Massawa-Komplexes von Endeavour Mining.",
+        "Die Goldreserven von Massawa gelten als besonders hochgradig.",
+        "Die Mine trägt maßgeblich zu den Rekord-Goldexporten Senegals bei.",
+        "Ein Großteil der Erze wird in der modernisierten Sabodala-Anlage verarbeitet.",
+        "Das Projekt befindet sich im sogenannten Kenieba-Inlier-Gürtel.",
+        "Über 90 % der Minenarbeiter leben in der Region Kédougou.",
+        "Die Mine ist nach dem International Cyanide Management Code zertifiziert."
+      ]
+    },
+    {
+      "id": "sendou-mineral-port-economic-v2",
+      "descriptionAdvanced": "Der Mineralhafen von Sendou (Bargny-Sendou) ist ein strategisches Infrastrukturprojekt, das darauf abzielt, Senegal als logistisches Drehkreuz für den Massengutumschlag in Westafrika zu positionieren. Er wurde speziell entwickelt, um den Hafen von Dakar von staubintensiven Gütern wie Erzen, Kohle und anderen Mineralien zu entlasten. Mit seinen Tiefwasserkaianlagen kann Sendou große Massengutfrachter abfertigen, was die Transportkosten für den Import von Rohstoffen und den Export senegalesischer Bergbauprodukte senkt. Der Hafen ist eng mit dem angrenzenden Kraftwerk Sendou und den geplanten Industriezonen verknüpft. Trotz seiner wirtschaftlichen Bedeutung gab es Diskussionen mit lokalen Gemeinden über Umweltbelastungen und den Schutz der traditionellen Fischerei in der Bucht. Wirtschaft K8 — Logistik und maritime Infrastruktur.",
+      "factsAdvanced": [
+        "Der Hafen verfügt über einen Tiefgang von bis zu 18 Metern.",
+        "Er ist für den Umschlag von bis zu 15 Millionen Tonnen pro Jahr ausgelegt.",
+        "Sendou liegt etwa 30 Kilometer südlich von Dakar.",
+        "Der Hafen dient als Hauptankunftspunkt für Kohleimporte.",
+        "Er ist Teil der Dezentralisierungsstrategie der senegalesischen Häfen.",
+        "Der Bau wurde durch private Investoren aus dem Ausland finanziert.",
+        "Er verfügt über modernste Förderbandsysteme für den Schüttgutumschlag.",
+        "In der Nähe befindet sich ein bedeutendes Gebiet für die traditionelle Fischverarbeitung."
+      ]
+    },
+    {
+      "id": "sendou-power-plant-economic-v2",
+      "descriptionAdvanced": "Das Kraftwerk Sendou in Bargny ist das erste große Kohlekraftwerk Senegals und war von Beginn an ein kontrovers diskutiertes Projekt im nationalen Energiemix. Mit einer Leistung von 125 Megawatt wurde es gebaut, um die Stromgestehungskosten zu senken und die Abhängigkeit von teuren Dieselimporten zu verringern. Die Anlage nutzt importierte Kohle, um Dampf für die Turbinen zu erzeugen, und dient als Grundlastkraftwerk für das senegalesische Netz. Aufgrund von Umweltbedenken der Anwohner in Bargny und globalen Klimaschutzzielen steht das Kraftwerk unter Beobachtung und es gibt Pläne, es langfristig auf Erdgas umzustellen. Sendou verdeutlicht den schwierigen Balanceakt zwischen dem dringenden Bedarf an günstiger Energie für die Industrialisierung und dem Schutz von Umwelt und Gesundheit. Technik K8 — Energieerzeugung und Umweltschutz.",
+      "factsAdvanced": [
+        "Das Kraftwerk Sendou hat eine installierte Bruttoleistung von 125 MW.",
+        "Die Anlage ging nach mehreren Verzögerungen im Jahr 2018 ans Netz.",
+        "Sie befindet sich unmittelbar an der Küste südlich von Dakar.",
+        "Das Projekt wurde durch ein Konsortium internationaler Banken finanziert.",
+        "Die Kohle für das Kraftwerk wird über den angrenzenden Mineralhafen importiert.",
+        "Es nutzt Meerwasser zur Kühlung der Anlagen.",
+        "Der Staat plant die Umrüstung auf Erdgas ('Coal-to-Gas') bis 2030.",
+        "Lokale Bürgerinitiativen fordern striktere Emissionskontrollen."
+      ]
+    },
+    {
+      "id": "port-rufisque-economic-v2",
+      "descriptionAdvanced": "Der historische Hafen von Rufisque ist ein Relikt aus der Zeit, als Senegal das Zentrum des französischen Kolonialhandels in Westafrika war. Im 19. Jahrhundert war Rufisque der wichtigste Exporthafen für Erdnüsse, was der Stadt großen Wohlstand einbrachte und zum Bau der prächtigen Lagerhäuser ('Escales') führte. Die Schiffe ankerten damals in der Bucht, während die Ware mit kleineren Booten zum Kai gebracht wurde. Mit dem Ausbau des Hafens von Dakar verlor Rufisque ab den 1920er Jahren seine Bedeutung als Fernhandelshafen. Heute dient der Hafen vor allem der handwerklichen Fischerei und ist ein wichtiger Anlandepunkt für die Versorgung der lokalen Märkte. Die Überreste der kolonialen Hafenarchitektur sind ein schutzwürdiges kulturelles Erbe, das jedoch stark durch die Meereserosion gefährdet ist. Geschichte K7 — Die Ära des Erdnusshandels.",
+      "factsAdvanced": [
+        "Rufisque war im 19. Jahrhundert als 'Stadt des Goldes' (Erdnussgold) bekannt.",
+        "Der Bau der Eisenbahn Dakar-Saint-Louis (1885) stärkte den Hafen.",
+        "Die Molen und Kaimauern stammen teilweise noch aus der Kolonialzeit.",
+        "Rufisque war der erste moderne Industriestandort des Senegals.",
+        "Hier wurden die ersten Maschinen zur Erdnussschälung eingesetzt.",
+        "Die Bucht von Rufisque ist bekannt für ihren Fischreichtum.",
+        "Heute dominiert der handwerkliche Fischfang mit Pirogen das Bild.",
+        "Der Hafen ist ein zentraler Ort für die traditionelle Fischtrocknung."
+      ]
+    },
+    {
+      "id": "mboro-phosphate-mine-economic-v2",
+      "descriptionAdvanced": "Die Phosphatmine von Mboro, betrieben von den Industries Chimiques du Sénégal (ICS), ist einer der wichtigsten Bergbaustandorte des Landes. In der Nähe der Küste nordöstlich von Dakar gelegen, liefert sie hochwertiges Kalziumphosphat, das für die weltweite Düngemittelproduktion unverzichtbar ist. Der Abbau erfolgt im großflächigen Tagebau, wobei riesige Schaufelradbagger zum Einsatz kommen. Die geförderten Phosphate werden direkt vor Ort oder in den nahegelegenen Werken chemisch veredelt. Mboro ist ein bedeutender Wirtschaftsfaktor für die Region Thiès und sichert tausende Arbeitsplätze. Das Projekt erfordert jedoch eine sorgfältige Planung in Bezug auf die Landnutzung, da die Region auch für ihren Gartenbau bekannt ist. Sachkunde K8 — Rohstoffgewinnung und Weltmarkt.",
+      "factsAdvanced": [
+        "In Mboro wird seit den 1950er Jahren Phosphat abgebaut.",
+        "Die ICS sind der größte industrielle Arbeitgeber der Region.",
+        "Das Phosphatgestein wird per Eisenbahn zum Hafen von Dakar transportiert.",
+        "Senegal gehört zu den Top 10 der weltweiten Phosphat-Exporteure.",
+        "Die Mine nutzt moderne Verfahren zur Staubunterdrückung.",
+        "Mboro liegt in der landwirtschaftlich wichtigen Niayes-Zone.",
+        "Die Rekultivierung der ehemaligen Abbauflächen ist gesetzlich vorgeschrieben.",
+        "Ein Großteil der Produktion geht in den Export nach Indien."
+      ]
+    },
+    {
+      "id": "port-ndayane-economic-v2",
+      "descriptionAdvanced": "Der im Bau befindliche Tiefwasserhafen von Ndayane ist das größte Infrastrukturprojekt in der Geschichte Senegals. Mit einer Investition von über einer Milliarde US-Dollar durch den globalen Hafenbetreiber DP World soll Ndayane den überlasteten Hafen von Dakar ablösen und Senegal zum wichtigsten maritimen Gateway in Westafrika machen. Der Hafen wird über modernste Containerterminals und eine integrierte Freihandelszone verfügen. Ndayane liegt etwa 50 Kilometer südlich von Dakar und wird direkt an die neue Autobahn und die Eisenbahn angebunden. Dieses Megaprojekt ist ein zentraler Bestandteil des 'Plan Sénégal Emergent' und soll das Land als regionales Logistik- und Industriezentrum festigen. Es wird erwartet, dass der Hafen tausende neue Arbeitsplätze schafft und die Effizienz des Außenhandels massiv steigert. Wirtschaft K8 — Infrastruktur der Zukunft.",
+      "factsAdvanced": [
+        "Die Grundsteinlegung für den Hafen Ndayane erfolgte im Januar 2022.",
+        "Die erste Phase umfasst ein Containerterminal mit 840 Metern Kailänge.",
+        "Der Hafen wird über einen 18 Meter tiefen Zugangskanal verfügen.",
+        "DP World investiert in der ersten Phase über 800 Millionen Dollar.",
+        "Ndayane liegt in der Nähe des neuen internationalen Flughafens (AIBD).",
+        "Der Hafen wird eine Fläche von 600 Hektar umfassen.",
+        "Es ist die größte jemals getätigte private Einzelinvestition in Senegal.",
+        "Der Hafen soll die modernsten 'Smart Port'-Technologien nutzen."
+      ]
+    },
+    {
+      "id": "sn-dk-house-slaves-history-v2",
+      "descriptionAdvanced": "Die Maison des Esclaves (Haus der Sklaven) auf der Insel Gorée vor der Küste Dakars ist eines der weltweit bedeutendsten Denkmäler des transatlantischen Sklavenhandels. Das 1776 von den Niederländern erbaute Haus mit seiner berühmten 'Tür ohne Wiederkehr' dient heute als Museum und Gedenkstätte. Es erinnert an die Millionen von Afrikanern, die gewaltsam aus ihrer Heimat verschleppt und über den Ozean in die Amerikas geschickt wurden. Jährlich besuchen tausende Menschen, darunter Staatsmänner und Nachfahren der Versklavten, diesen Ort, um der Opfer zu gedenken. Gorée ist als Ganzes UNESCO-Weltkulturerbe und die Maison des Esclaves ist das emotionale Herzstück der Insel, das zur Reflexion über Menschenrechte und Versöhnung mahnt. Geschichte K7 — Der transatlantische Sklavenhandel.",
+      "factsAdvanced": [
+        "Die Maison des Esclaves wurde 1776 auf Gorée fertiggestellt.",
+        "Boubacar Joseph Ndiaye war über Jahrzehnte der bekannteste Kurator des Hauses.",
+        "Die 'Tür ohne Wiederkehr' (Porte du non-retour) blickt direkt auf den Atlantik.",
+        "Gorée war ein wichtiger Umschlagplatz für den Handel zwischen Europa und Amerika.",
+        "Das Haus wurde 1990 mit Unterstützung der UNESCO restauriert.",
+        "Berühmte Besucher waren unter anderem Nelson Mandela und Barack Obama.",
+        "Im Erdgeschoss befanden sich die engen Zellen für die Gefangenen.",
+        "Die Insel Gorée ist autofrei und bewahrt ihren kolonialen Charakter."
+      ]
+    },
+    {
+      "id": "sn-sl-historic-centre-history-v2",
+      "descriptionAdvanced": "Das historische Zentrum von Saint-Louis liegt auf einer schmalen Insel im Senegal-Fluss und ist berühmt für seine einzigartige Kolonialarchitektur und seinen kulturellen Reichtum. Als erste französische Siedlung in Westafrika (1659 gegründet) war Saint-Louis lange Zeit die Hauptstadt des Senegals und Französisch-Westafrikas. Die Stadt zeichnet sich durch ihre regelmäßige Straßenführung, Häuser mit bunten Fassaden und schmiedeeisernen Balkonen sowie die ikonische Faidherbe-Brücke aus. Saint-Louis war ein Schmelztiegel der Kulturen, in dem die 'Signares' – einflussreiche Frauen gemischter Herkunft – eine bedeutende Rolle im gesellschaftlichen und wirtschaftlichen Leben spielten. Heute ist die Altstadt UNESCO-Weltkulturerbe und ein wichtiges Zentrum für Tourismus und Kunst, wie das jährliche Jazz-Festival beweist. Geschichte K8 — Koloniale Stadtentwicklung und Kultur.",
+      "factsAdvanced": [
+        "Saint-Louis wurde 1659 als französischer Handelsposten gegründet.",
+        "Die Stadt war bis 1957 die Hauptstadt des Senegals.",
+        "Das historische Zentrum ist seit dem Jahr 2000 UNESCO-Weltkulturerbe.",
+        "Die Faidherbe-Brücke wurde von Gustave Eiffel entworfen.",
+        "Saint-Louis liegt an der Mündung des Senegal-Flusses in den Atlantik.",
+        "Die 'Signares' prägten die Mode und Kultur der Stadt im 18. Jahrhundert.",
+        "Die Insel ist nur etwa 2 Kilometer lang und 400 Meter breit.",
+        "Hier startete die Aeropostale-Fluglinie ihre Flüge über den Südatlantik."
+      ]
+    },
+    {
+      "id": "sn-ka-sine-ngayene-history-v2",
+      "descriptionAdvanced": "Die Steinkreise von Sine Ngayène im Zentrum Senegals sind Teil eines außergewöhnlichen megalithischen Komplexes, der sich über Senegal und Gambia erstreckt. Diese archäologische Stätte umfasst 52 Kreise aus massiven Lateritsteinen und über tausend behauene Monolithe. Die Kreise dienten zwischen dem 3. Jahrhundert v. Chr. und dem 16. Jahrhundert n. Chr. als Begräbnisstätten und Orte für religiöse Rituale einer hoch entwickelten prähistorischen Gesellschaft. Sine Ngayène ist die größte und am besten erhaltene dieser Stätten und bietet tiefe Einblicke in die Bestattungskultur und die sozialen Strukturen der frühen Bewohner Westafrikas. Als UNESCO-Weltkulturerbe zeugen die Steinkreise von einer langen Tradition der Monumentalarchitektur südlich der Sahara. Geschichte K6 — Megalithkulturen und Archäologie.",
+      "factsAdvanced": [
+        "Sine Ngayène beherbergt 52 Steinkreise und 1.102 bearbeitete Steine.",
+        "Die Steine bestehen aus rötlichem Laterit, der vor Ort gebrochen wurde.",
+        "Einige Monolithe wiegen mehrere Tonnen und sind über 2 Meter hoch.",
+        "Archäologische Grabungen fanden zahlreiche Grabbeigaben wie Eisenschmuck.",
+        "Die Stätte wurde 2006 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+        "Die Kreise haben einen Durchmesser von 4 bis 6 Metern.",
+        "In der Nähe befindet sich ein Steinbruch, der zeigt, wie die Steine gewonnen wurden.",
+        "Sine Ngayène liegt in der Region Kaolack."
+      ]
+    },
+    {
+      "id": "sn-ka-wanar-history-v2",
+      "descriptionAdvanced": "Die megalithische Stätte von Wanar ist eine weitere bedeutende Gruppe von Steinkreisen in der senegambischen Region und gehört ebenfalls zum UNESCO-Weltkulturerbe. Wanar zeichnet sich durch die besondere Form seiner Monolithe aus, von denen viele eine charakteristische Y- oder V-Form aufweisen. Diese präzise behauenen Steine markierten die Gräber von Würdenträgern und dienten als rituelle Zentren für die umliegenden Gemeinschaften. Die Stätte zeigt die hohe Handwerkskunst und die astronomischen Kenntnisse der Erbauer, da viele Kreise nach bestimmten Himmelsrichtungen ausgerichtet sind. Wanar bietet wertvolle archäologische Informationen über die Eisenzeit in Westafrika und die religiösen Vorstellungen der damaligen Zeit. Die Erhaltung dieser Stätten ist eine wichtige Aufgabe für das senegalesische Kulturerbe. Geschichte K6 — Religiöse Symbole der Frühgeschichte.",
+      "factsAdvanced": [
+        "Wanar besteht aus 21 Steinkreisen mit insgesamt über 200 Monolithen.",
+        "Die sogenannten 'Lyra-Steine' (Y-Form) sind einzigartig für diese Region.",
+        "Die Stätte wird auf den Zeitraum zwischen 700 und 1400 n. Chr. datiert.",
+        "Wanar liegt im Departement Kaffrine.",
+        "Die Kreise markieren oft Gemeinschaftsgräber mit zahlreichen Bestattungen.",
+        "Die Steine wurden mit einfachen Eisenwerkzeugen aus dem Laterit geschlagen.",
+        "Viele Steine weisen komplexe geometrische Schnitzereien auf.",
+        "Die Stätte ist Teil des länderübergreifenden UNESCO-Welterbes."
+      ]
+    },
+    {
+      "id": "sn-tc-fort-bakel-history-v2",
+      "descriptionAdvanced": "Das Fort von Bakel ist eine historische französische Festung am Ufer des Senegal-Flusses im Osten des Landes. Erbaut im frühen 19. Jahrhundert (ca. 1820), war es ein strategisch wichtiger Posten zur Kontrolle des Flusshandels und zur Grenzsicherung gegenüber dem Königreich Galam. Das Fort liegt auf einer Anhöhe und bietet einen weiten Blick über den Fluss bis hinüber nach Mauretanien. Bakel war ein bedeutender Stützpunkt für französische Entdecker wie René Caillié und spielte eine Rolle in den Kriegen gegen lokale Herrscher wie Mamadou Lamine Dramé. Heute beherbergt das Fort Überreste der kolonialen Verteidigungsanlagen und dient als wichtiges historisches Denkmal, das an die koloniale Expansion Frankreichs entlang des Senegal-Flusses erinnert. Geschichte K7 — Expansion am Senegal-Fluss.",
+      "factsAdvanced": [
+        "Das Fort wurde um 1820 vom Entdecker und Gouverneur gegründet.",
+        "Bakel liegt am Dreiländereck von Senegal, Mauretanien und Mali.",
+        "Das Fort wurde aus massivem Stein und lokalem Mörtel erbaut.",
+        "Es diente als Schutzraum für französische Händler und Truppen.",
+        "Der berühmte Kämpfer Mamadou Lamine Dramé belagerte das Fort im Jahr 1886.",
+        "In der Nähe befinden sich die 'Pavillons Faidherbe'.",
+        "Bakel ist eine der ältesten kolonialen Gründungen im Landesinneren.",
+        "Der Blick vom Fort umfasst die markanten Hügel von Bakel."
+      ]
+    },
+    {
+      "id": "sn-sl-fort-podor-history-v2",
+      "descriptionAdvanced": "Das Fort von Podor ist ein eindrucksvolles Beispiel kolonialer Festungsarchitektur im Norden Senegals. Ursprünglich im 18. Jahrhundert von den Franzosen errichtet, um den Handel mit Gummi arabicum zu sichern, wurde es 1854 unter der Leitung von Louis Faidherbe grundlegend rekonstruiert. Das Fort am Ufer des Senegal-Flusses war ein zentraler Knotenpunkt für den Austausch von Waren zwischen der Küste und den Karawanenrouten der Sahara. Die massiven Mauern aus gebrannten Ziegeln und die Wachtürme zeugen von der militärischen Bedeutung des Standortes. Heute ist das restaurierte Fort ein Kulturzentrum und Museum, das die Geschichte des Fouta-Toro-Reiches und der kolonialen Epoche dokumentiert. Es ist ein fester Bestandteil des kulturellen Erbes der Region Saint-Louis. Geschichte K8 — Handel und Militär an der Grenze.",
+      "factsAdvanced": [
+        "Das erste Fort in Podor wurde bereits 1744 erbaut.",
+        "Louis Faidherbe nutzte Podor als Basis für seinen Feldzug gegen El Hadj Umar Tall.",
+        "Das Fort besteht aus zwei großen Gebäuden innerhalb einer quadratischen Mauer.",
+        "Es liegt im Herzen des ehemaligen Reiches Fouta Toro.",
+        "In der Nähe des Forts befinden sich historische Kaufmannshäuser (Comptoirs).",
+        "Podor war einst die Endstation für große Flussdampfer aus Saint-Louis.",
+        "Das Fort wurde mit Unterstützung internationaler Partner restauriert.",
+        "Jährlich findet in Podor das Festival 'Les Blues du Fleuve' statt."
+      ]
+    },
+    {
+      "id": "sn-zg-carabane-history-v2",
+      "descriptionAdvanced": "Carabane (oder Karabane) ist eine paradiesische Insel an der Mündung des Casamance-Flusses, die eine bewegte koloniale Geschichte atmet. Im Jahr 1836 wurde sie zum ersten französischen Handelsposten und zur ersten Hauptstadt der Casamance-Region ernannt. Die Insel florierte im 19. Jahrhundert als Zentrum für den Handel mit Sklaven, Elfenbein und später Erdnüssen. Überreste dieser Zeit sind die Ruinen der bretonischen Kirche aus dem Jahr 1885, das ehemalige Gefängnis und die Gräber auf dem kolonialen Friedhof, darunter das des Kapitäns Protet, der stehend beerdigt wurde. Heute ist Carabane ein ruhiger Ort ohne Autos, der für seinen Tourismus und seine Fischerei bekannt ist. Die historische Bedeutung der Insel ist als Teil der senegalesischen Bewerbung für das UNESCO-Welterbe anerkannt. Geschichte K7 — Kolonialer Außenposten in der Casamance.",
+      "factsAdvanced": [
+        "Carabane wurde am 22. Januar 1836 offiziell französisch.",
+        "Die Insel war bis 1904 die Hauptstadt der Region Casamance.",
+        "Die historische Kirche wurde im bretonischen Stil erbaut.",
+        "Auf dem Friedhof findet man das berühmte aufrechte Grab des Kapitäns Protet.",
+        "Die Insel ist nur per Boot von Elinkine oder Ziguinchor erreichbar.",
+        "Carabane hat keine festen Straßen und eine sehr entspannte Atmosphäre.",
+        "Sie diente als Sammelpunkt für Truppen während der Kolonialkriege.",
+        "Die Vegetation ist geprägt von Kokospalmen und Mangroven."
+      ]
+    },
+    {
+      "id": "sn-db-touba-mosque-history-v2",
+      "descriptionAdvanced": "Die Große Moschee von Touba ist das spirituelle Wahrzeichen Senegals und das Zentrum der Mouriden-Bruderschaft. Ihr Bau wurde 1927 vom Gründer der Bruderschaft, Cheikh Ahmadou Bamba, initiiert, obwohl die Moschee erst 1963 fertiggestellt wurde. Das Gebäude ist eine der größten und prächtigsten Moscheen Afrikas und zeichnet sich durch seine fünf Minarette aus, von denen das zentrale, genannt 'Lamp Fall', eine Höhe von 87 Metern erreicht. Die Moschee beherbergt die Grabstätte von Ahmadou Bamba und ist das Ziel des jährlichen Grand Magal, einer der größten religiösen Pilgerfahrten weltweit. Architekturgeschichtlich vereint die Moschee verschiedene islamische Stile und wird ständig erweitert und verschönert. Sie ist ein Symbol für den Glauben, die Autonomie und den wirtschaftlichen Erfolg der Mouriden. Sachkunde K8 — Islamische Kultur und Bruderschaften.",
+      "factsAdvanced": [
+        "Der Grundstein für die Moschee wurde am 4. März 1932 gelegt.",
+        "Die Moschee wurde am 7. Juni 1963 vom Präsidenten Senghor eingeweiht.",
+        "Das höchste Minarett, Lamp Fall, ist 87 Meter hoch.",
+        "In der Moschee befinden sich die Gräber von Ahmadou Bamba und seinen Söhnen.",
+        "Die Bruderschaft finanziert alle Erweiterungen durch Spenden ihrer Mitglieder.",
+        "Das Gebäude ist mit Carrara-Marmor und kostbaren Hölzern ausgestattet.",
+        "Rund um die Moschee gilt eine heilige Zone mit strengen Verhaltensregeln.",
+        "Die Bibliothek von Touba bewahrt tausende Schriften des Gründers auf."
+      ]
+    },
+    {
+      "id": "sn-dk-african-renaissance-history-v2",
+      "descriptionAdvanced": "Das Monument der Afrikanischen Renaissance in Dakar ist die höchste Statue Afrikas und ein weithin sichtbares Wahrzeichen der senegalesischen Hauptstadt. Das 2010 zur 50-jährigen Unabhängigkeit Senegals eingeweihte Monument aus Bronze zeigt eine Familie – Mann, Frau und Kind –, die symbolisch aus einem Vulkan in Richtung Zukunft emporsteigt. Mit einer Höhe von 49 Metern überragt es sogar die Freiheitsstatue in New York (ohne Sockel). Das von Präsident Abdoulaye Wade initiierte Projekt war aufgrund seiner hohen Kosten und seines Stils umstritten, hat sich jedoch zu einer wichtigen Touristenattraktion entwickelt. Es steht auf einem der Zwillingshügel von Dakar, den 'Mamelles', und bietet einen spektakulären Panoramablick über die Halbinsel. Geschichte K8 — Postkoloniale Monumente und Identität.",
+      "factsAdvanced": [
+        "Das Monument wurde am 4. April 2010 offiziell eingeweiht.",
+        "Die Statue ist 49 Meter hoch und besteht aus 3 cm dicken Bronzeplatten.",
+        "Es wurde von nordkoreanischen Experten der Mansudae Overseas Projects erbaut.",
+        "Der Bau kostete schätzungsweise 27 Millionen Euro.",
+        "Das Monument befindet sich auf dem 100 Meter hohen Hügel 'Ouakam'.",
+        "Ein Aufzug im Inneren führt bis zur Krone des Mannes.",
+        "Es symbolisiert den Stolz und den Aufbruch des afrikanischen Kontinents.",
+        "Am Fuße des Monuments finden oft kulturelle Veranstaltungen statt."
+      ]
+    },
+    {
+      "id": "sn-dk-mamelles-lighthouse-history-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Mamelles ist der älteste und leistungsstärkste Leuchtturm Westafrikas und ein wichtiges nautisches Wahrzeichen am westlichsten Punkt des afrikanischen Festlands. Erbaut im Jahr 1864, thront er auf dem höheren der beiden Mamelles-Vulkanhügel in Dakar. Sein Lichtstrahl weist Schiffen im Atlantik den Weg und ist für die Navigation in den gefährlichen Gewässern rund um die Cap-Vert-Halbinsel unerlässlich. Der Turm selbst ist ein eleganter weißer Steinbau mit einer Höhe von 16 Metern, doch durch seine Lage auf dem Hügel befindet sich das Leuchtfeuer über 100 Meter über dem Meeresspiegel. Der Leuchtturm ist für Besucher zugänglich und bietet einen der besten Aussichtspunkte Dakars. Er ist bis heute voll funktionsfähig und wird von der senegalesischen Hafenbehörde betrieben. Technik K7 — Navigation und Küstenschutz.",
+      "factsAdvanced": [
+        "Der Leuchtturm wurde im Jahr 1864 in Betrieb genommen.",
+        "Die Tragweite des Lichts beträgt etwa 31 Seemeilen (ca. 57 km).",
+        "Die Mamelles-Hügel sind die Überreste erloschener Vulkane.",
+        "Der Turm ist weiß gestrichen und hat eine klassische zylindrische Form.",
+        "Es ist der westlichste Leuchtturm des afrikanischen Kontinents.",
+        "Im Inneren führt eine Wendeltreppe zur Glasgalerie.",
+        "Das Leuchtfeuer wurde früher mit Öl betrieben und später elektrifiziert.",
+        "Vom Hügel aus hat man einen perfekten Blick auf das Monument de la Renaissance."
+      ]
+    },
+    {
+      "id": "sn-dk-ifan-museum-history-v2",
+      "descriptionAdvanced": "Das IFAN-Museum für Afrikanische Kunst (Musée Théodore Monod) in Dakar ist eines der renommiertesten Museen Westafrikas. Es wurde 1938 während der Kolonialzeit als Teil des Instituts Fondamental d'Afrique Noire gegründet und widmet sich der Bewahrung und Erforschung des kulturellen Erbes der Region. Das Museum beherbergt eine außergewöhnliche Sammlung von Masken, Statuen, Textilien und rituellen Gegenständen aus ganz Westafrika, insbesondere aus Mali, der Elfenbeinküste und dem Senegal. Unter der Schirmherrschaft des ersten Präsidenten Léopold Sédar Senghor wurde es zu einem Zentrum der 'Négritude'-Bewegung. Das Gebäude selbst, ein schönes Beispiel kolonialer Architektur, liegt im Zentrum von Dakar und ist ein Muss für jeden Kulturliebhaber. Geschichte K8 — Kunstgeschichte und Museologie.",
+      "factsAdvanced": [
+        "Das Museum wurde nach dem französischen Naturforscher Théodore Monod benannt.",
+        "Es beherbergt über 9.000 kunsthistorische und ethnografische Objekte.",
+        "Das Gebäude wurde im Jahr 1931 im neosudanesischen Stil erbaut.",
+        "Es ist ein Hauptveranstaltungsort der Dak'Art Biennale.",
+        "Das Museum liegt direkt am Place Soweto, gegenüber der Nationalversammlung.",
+        "Die Sammlungen dokumentieren die religiösen Praktiken westafrikanischer Völker.",
+        "IFAN steht heute für Institut Fondamental d'Afrique Noire.",
+        "Das Museum bietet auch Einblicke in die traditionelle senegalesische Webkunst."
+      ]
+    },
+    {
+      "id": "sn-dk-dakar-railway-history-v2",
+      "descriptionAdvanced": "Der historische Bahnhof von Dakar ist ein architektonisches Juwel im Kolonialstil und war über ein Jahrhundert lang das Tor zur Welt für Reisende und Waren. Das 1914 fertiggestellte Gebäude mit seiner markanten weißen Fassade und den roten Ziegeln war die Endstation der berühmten Dakar-Niger-Eisenbahn, die Dakar mit Bamako verband. Er symbolisierte den französischen Traum von einer trans-westafrikanischen Schienenverbindung. Lange Zeit war der Bahnhof das Herz des senegalesischen Handels, insbesondere für den Export von Erdnüssen. Nach einer Zeit des Verfalls wurde der Bahnhof im Jahr 2018 prachtvoll restauriert und dient nun als Endstation für den modernen Regionalexpress (TER). Der Bahnhof ist ein lebendiges Denkmal für den technischen Fortschritt und die koloniale Geschichte Senegals. Geschichte K7 — Verkehrswesen und Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Der Bahnhof wurde am 22. Juni 1914 offiziell eröffnet.",
+        "Er wurde im klassischen französischen Kolonialstil mit maurischen Einflüssen erbaut.",
+        "Der Bahnhof liegt direkt am Hafen von Dakar.",
+        "Die Strecke nach Saint-Louis war die erste Eisenbahn Westafrikas (1885).",
+        "Im Jahr 1947 startete hier der große Streik der Eisenbahner.",
+        "Die Restaurierung für den TER dauerte von 2016 bis 2018.",
+        "Heute verkehren moderne elektrische Züge vom Bahnhof aus nach Diamniadio.",
+        "Die Bahnhofsuhr ist seit Jahrzehnten ein bekannter Treffpunkt in der Stadt."
+      ]
+    },
+    {
+      "id": "sn-lu-yang-yang-history-v2",
+      "descriptionAdvanced": "Yang-Yang, gelegen in der Region Louga, ist ein Ort von tiefer historischer Bedeutung als ehemalige Hauptstadt des Djolof-Reiches. Unter dem legendären Herrscher Alboury Ndiaye war Yang-Yang am Ende des 19. Jahrhunderts das Zentrum des Widerstands gegen die französische Kolonialmacht. Die Überreste der königlichen Residenz (Tata) und das kleine, vor Ort eingerichtete Museum dokumentieren den Glanz und die Organisation dieses stolzen Reiches, das einst weite Teile Zentral-Senegals dominierte. Yang-Yang ist zudem bekannt für seine strategische Lage in der Ferlo-Region, die für ihre Viehzucht und ihre kargen, aber faszinierenden Landschaften berühmt ist. Ein Besuch in Yang-Yang ist eine Reise zu den Wurzeln der senegalesischen Identität und Heldenverehrung. Geschichte K7 — Das Djolof-Reich und der Widerstand.",
+      "factsAdvanced": [
+        "Yang-Yang wurde im Jahr 1880 zur Hauptstadt des Djolof-Reiches.",
+        "König Alboury Ndiaye regierte von hier aus mit großer diplomatischer Geschicklichkeit.",
+        "Das Museum beherbergt Waffen, Kleidung und Dokumente aus der Djolof-Zeit.",
+        "Der Ort liegt in der halbtrockenen Ferlo-Zone.",
+        "Yang-Yang war ein bedeutender Knotenpunkt für den Karawanenhandel.",
+        "Die königliche Tata war eine befestigte Anlage aus Erde und Holz.",
+        "Alboury Ndiaye musste 1890 die Stadt vor den Franzosen verlassen.",
+        "Der Name Djolof ist heute noch die Bezeichnung für ein beliebtes Reisgericht (Jollof Rice)."
+      ]
+    },
+    {
+      "id": "sn-dk-vieux-rufisque-history-v2",
+      "descriptionAdvanced": "Vieux Rufisque (Alt-Rufisque) ist ein faszinierendes Viertel, das den Geist der kolonialen Handelsmetropole des 19. Jahrhunderts bewahrt hat. Als eine der vier historischen Kommunen Senegals genossen die Einwohner von Rufisque schon früh französische Bürgerrechte. Das Stadtbild ist geprägt von den massiven Steinlagern, den sogenannten 'Escales', in denen früher Erdnüsse für den Export gelagert wurden. Diese Gebäude mit ihren dicken Mauern und hölzernen Toren zeugen vom einstigen Reichtum der Stadt. Entlang der Küste finden sich zudem Wohnhäuser mit Veranden und Gärten, die den Charme der Jahrhundertwende versprühen. Trotz des modernen industriellen Wachstums bleibt Vieux Rufisque ein wichtiges Zentrum für traditionelles Handwerk und Fischerei und ein Zeugnis für die Anfänge der Urbanisierung im Senegal. Geschichte K8 — Urbanisierung und Bürgerrechte.",
+      "factsAdvanced": [
+        "Rufisque erhielt 1880 das Recht, einen Abgeordneten in die Nationalversammlung zu wählen.",
+        "Die Architektur der 'Escales' ist einzigartig für die senegalesische Küste.",
+        "Viele historische Gebäude leiden heute unter der hohen Luftfeuchtigkeit und Salpeter.",
+        "Die Stadt war im 19. Jahrhundert moderner als Dakar.",
+        "Hier gründete sich eine der ersten afrikanischen Gewerkschaften.",
+        "Der Canal de la Saussaye durchzieht das alte Viertel.",
+        "Die Markthalle im Zentrum ist ein wichtiger Ort für den täglichen Handel.",
+        "Historische Signare-Familien prägten die Oberschicht von Rufisque."
+      ]
+    },
+    {
+      "id": "sn-th-joal-fadiouth-history-v2",
+      "descriptionAdvanced": "Das Geburtshaus von Léopold Sédar Senghor in Joal ist eine nationale Pilgerstätte und ein Denkmal für einen der bedeutendsten Söhne Afrikas. Senghor, der erste Präsident des Senegals, weltbekannte Dichter und Mitbegründer der Négritude-Bewegung, wurde hier 1906 in einer einflussreichen Serer-Familie geboren. Das Haus, das heute ein Museum ist, bietet tiefe Einblicke in seine Kindheit, seine kulturellen Wurzeln in der Petite Côte und seinen Weg zum Staatsmann. Die Region rund um Joal-Fadiouth mit ihren Muschelinseln und Mangroven prägte Senghors Poesie nachhaltig. Das Museum bewahrt persönliche Gegenstände, Fotografien und Schriften auf und vermittelt das Bild eines Mannes, der die Brücke zwischen afrikanischer Tradition und europäischer Moderne schlug. Geschichte K8 — Senghor und die Unabhängigkeit.",
+      "factsAdvanced": [
+        "Léopold Sédar Senghor wurde am 9. Oktober 1906 in Joal geboren.",
+        "Das Museum trägt den Namen 'Mbind Diogoye' (Haus des Diogoye Senghor).",
+        "Senghor war der erste Afrikaner in der Académie Française.",
+        "Das Gebäude ist ein typisches bürgerliches Wohnhaus des frühen 20. Jahrhunderts.",
+        "Joal ist eine der ältesten katholischen Missionen Senegals.",
+        "In seinen Gedichten besang Senghor oft die 'Königin von Saba' und seine Heimat.",
+        "Das Museum wurde anlässlich seines 100. Geburtstags umfassend renoviert.",
+        "Hinter dem Haus befindet sich ein Garten mit traditionellen Heilpflanzen."
+      ]
+    }
+  ]
+}

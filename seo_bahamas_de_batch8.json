@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "earth-village-kids-camp-life-v2",
+      "descriptionAdvanced": "Earth Village auf New Providence ist ein wegweisendes Zentrum für ökologische Bildung und Jugendförderung auf den Bahamas. Hier werden spezielle Kids Camps angeboten, die Kindern die Bedeutung von Nachhaltigkeit, regenerativer Landwirtschaft und dem Schutz der Ozeane spielerisch vermitteln. Das Leben im Camp ist geprägt von direkter Interaktion mit der Natur – vom Pflanzen einheimischer Bäume bis hin zum Studium der marinen Ökosysteme. Das Ziel ist es, eine neue Generation von 'Earth Guardians' heranzuziehen, die ein tiefes Verständnis für die Zerbrechlichkeit des Insel-Ökosystems entwickeln. Das Earth Village symbolisiert die Hoffnung der Bahamas auf eine grüne Zukunft und zeigt, wie Bildung den Grundstein für einen verantwortungsvollen Umgang mit den natürlichen Ressourcen legen kann.",
+      "factsAdvanced": [
+        "Führendes Zentrum für Umweltbildung auf New Providence",
+        "Spezialisierte ökologische Sommercamps für Kinder",
+        "Fokus auf nachhaltige Landwirtschaft und Meeresschutz",
+        "Interaktives Lernen in einer natürlichen Umgebung",
+        "Ausbildung von Umweltbotschaftern (Earth Guardians)",
+        "Wichtiger Partner für nationale Nachhaltigkeitsprojekte"
+      ]
+    },
+    {
+      "id": "bonefish-pond-national-park-life-v2",
+      "descriptionAdvanced": "Der Bonefish Pond National Park im Süden von New Providence ist ein unverzichtbares Habitat für die marine Kinderstube der Insel. Dieses ausgedehnte Mangrovensystem schützt die Küste vor Erosion und bietet einen sicheren Lebensraum für junge Fische, Krebstiere und natürlich den namensgebenden Bonefish. Das Leben im Park ist ein ständiges Zusammenspiel der Gezeiten, das für die Regeneration der Fischbestände in den umliegenden Riffen von entscheidender Bedeutung ist. Für Besucher bietet der Park über hölzerne Stege und Kajakpfade die Möglichkeit, die faszinierende Welt der Mangroven zu erkunden, ohne das empfindliche Gleichgewicht zu stören. Er ist ein lebendiges Beispiel für erfolgreichen Küstenschutz und ein beliebtes Ziel für Naturbeobachter und Schulklassen.",
+      "factsAdvanced": [
+        "Wichtigstes Mangroven-Schutzgebiet auf New Providence",
+        "Zentrale Kinderstube für Fische und Meereslebewesen",
+        "Schützt die Südküste effektiv vor Sturmschäden",
+        "Exzellenter Standort für Kajaktouren und Vogelbeobachtung",
+        "Wichtiger Forschungsort für die Bonefish-Population",
+        "Beispiel für nachhaltiges Management von Küstenzonen"
+      ]
+    },
+    {
+      "id": "freeport-perfume-factory-life-v2",
+      "descriptionAdvanced": "Die Perfume Factory in Freeport ist ein duftendes Zeugnis bahamaischer Handwerkskunst und Kreativität. Untergebracht in einem charmanten Nachbau eines alten Herrenhauses, werden hier exklusive Düfte kreiert, die die Aromen der Inseln – von tropischen Blumen bis hin zu Meeresbrisen – einfangen. Besucher haben die einzigartige Gelegenheit, hinter die Kulissen der Parfümherstellung zu blicken und sogar ihren eigenen, individuellen Duft zu mischen. Diese Manufaktur symbolisiert die Verschmelzung von lokaler Flora und unternehmerischem Geist. Das Leben in der Factory ist geprägt von Präzision und der Leidenschaft für Ästhetik. Es ist einer der wenigen Orte auf den Bahamas, an dem man ein handgefertigtes Luxusprodukt direkt vom Erzeuger erwerben kann, das die Essenz des Archipels in einem Flakon bewahrt.",
+      "factsAdvanced": [
+        "Traditionelle Parfümmanufaktur auf Grand Bahama",
+        "Standort in einem architektonisch reizvollen Herrenhaus-Nachbau",
+        "Möglichkeit zur Kreation individueller Düfte",
+        "Verwendung einheimischer botanischer Essenzen",
+        "Kulturelles Highlight für Besucher in Freeport",
+        "Symbol für bahamaisches Unternehmertum im Luxussegment"
+      ]
+    },
+    {
+      "id": "cat-island-landwirtschaft-life-v2",
+      "descriptionAdvanced": "Die Landwirtschaft auf Cat Island ist tief in der Seele der Insel verwurzelt und gilt als eine der authentischsten der Bahamas. Hier pflegen die Bewohner noch die Tradition des 'Fields'-Anbaus, bei dem in kleinen Waldlichtungen eine Vielzahl von Pflanzen wie Tomaten, Melonen, Erbsen und Wurzelgemüse gedeihen. Das Leben der Bauern ist geprägt von einem tiefen Verständnis für die Mondphasen und die Regenzyklen. Cat Island ist bekannt für seine fruchtbare Erde und den Stolz seiner Bewohner auf ihre Unabhängigkeit durch Selbstversorgung. Die landwirtschaftlichen Erzeugnisse der Insel sind für ihre Qualität und ihren intensiven Geschmack im ganzen Archipel berühmt. Diese Form des nachhaltigen Kleinanbaus ist nicht nur eine wirtschaftliche Basis, sondern bewahrt auch ein jahrhundertealtes kulturelles Wissen über das Land.",
+      "factsAdvanced": [
+        "Zentrum des traditionellen bahamaischen Kleinanbaus",
+        "Bekannt für hochwertiges Wurzelgemüse und Erbsen",
+        "Starke Tradition der Mondphasen-Landwirtschaft",
+        "Basis für den sozialen Zusammenhalt der Insel",
+        "Lieferant für authentische Märkte in Nassau",
+        "Symbol für landwirtschaftliches Erbe und Selbstgenügsamkeit"
+      ]
+    },
+    {
+      "id": "seahorse-sailing-kids-life-v2",
+      "descriptionAdvanced": "Die Seahorse Sailing Programme für Kinder in Nassau sind ein wichtiger Teil der bahamaischen maritimen Erziehung. In einem Land, das vom Meer umgeben ist, lernen Kinder hier von klein auf den sicheren Umgang mit Booten, die Kunst des Segelns und den Respekt vor dem Ozean. Das Leben in der Segelschule fördert Disziplin, Teamgeist und die nautischen Fähigkeiten, die für das Inselleben essenziell sind. Viele der heutigen Profisegler der Bahamas haben ihre ersten Erfahrungen in diesen Programmen gesammelt. Es ist ein lebendiger Prozess der Wissensweitergabe, der die tiefe Verbindung des Volkes mit dem Wasser stärkt. Seahorse Sailing bietet jungen Menschen nicht nur eine sportliche Betätigung, sondern öffnet ihnen auch die Augen für die Schönheit und die ökologische Bedeutung ihrer Heimatgewässer.",
+      "factsAdvanced": [
+        "Führendes Segel-Ausbildungsprogramm für Jugendliche",
+        "Fördert maritime Traditionen der Bahamas",
+        "Zentrum für die Ausbildung zukünftiger Segel-Champions",
+        "Betonung von Wassersicherheit und Umweltschutz",
+        "Wichtiger sozialer Treffpunkt für junge Inseleinwohner",
+        "Stärkt den nationalen Stolz auf nautische Leistungen"
+      ]
+    },
+    {
+      "id": "exuma-cays-land-sea-park-fauna-life-v2",
+      "descriptionAdvanced": "Die Fauna im Exuma Cays Land and Sea Park ist ein triumphales Beispiel für den Erfolg strenger Schutzmaßnahmen. In diesem weltweit ersten 'No-Take'-Reservat hat sich die Artenvielfalt auf spektakuläre Weise regeneriert. Das Leben im Park reicht von gigantischen Zackenbarschen (Groupers), die keine Scheu vor Tauchern zeigen, bis hin zu den seltenen Hutias, kleinen endemischen Nagetieren. Über Wasser bevölkern seltene Meeresvögel die Klippen, während unter Wasser die Korallenriffe vor buntem Leben nur so strotzen. Der Park dient als genetische Bank, von der aus sich die Fischbestände in die umliegenden Gebiete ausbreiten. Für Forscher und Besucher bietet die ungestörte Fauna des Parks einen Einblick in den Urzustand der bahamaischen Meereswelt und mahnt zu einem respektvollen Umgang mit diesem empfindlichen Schatz.",
+      "factsAdvanced": [
+        "Weltweit erster Meeresnationalpark mit Fangverbot (seit 1958)",
+        "Refugium für den bedrohten Nassau-Zackenbarsch",
+        "Letztes natürliches Habitat der bahamaischen Hutia",
+        "Pionierprojekt für internationalen Meeresschutz",
+        "Herausragende Dichte an mariner Megafauna",
+        "Wichtiges Forschungszentrum für tropische Meeresbiologie"
+      ]
+    },
+    {
+      "id": "bahamas-honig-produktion-life-v2",
+      "descriptionAdvanced": "Die Honigproduktion auf den Bahamas ist ein wachsender ökologischer Sektor, der die reiche Blütenpracht der Inseln auf süße Weise nutzt. Bahamaische Imker gewinnen Honig von außergewöhnlicher Qualität, geprägt von tropischen Pflanzen wie Logwood, Mangroven und Wildblumen. Das Leben der Bienen im Archipel ist entscheidend für die Bestäubung der lokalen Flora und die Landwirtschaft. In den letzten Jahren hat sich eine lebendige Gemeinschaft von Imkern gebildet, die auf Nachhaltigkeit und Reinheit setzen. Der bahamaische Honig ist nicht nur ein exquisites Nahrungsmittel, sondern wird auch in der lokalen Kosmetik und Heilkunde geschätzt. Die Imkerei symbolisiert den Trend zu naturnahen Wirtschaftsformen, die die Biodiversität fördern und gleichzeitig hochwertige Nischenprodukte für den lokalen und internationalen Markt schaffen.",
+      "factsAdvanced": [
+        "Aufstrebender Sektor der nachhaltigen Landwirtschaft",
+        "Einzigartiges Aroma durch tropische Logwood-Blüten",
+        "Wichtiger Beitrag zur Bestäubung der Inselflora",
+        "Fokus auf handwerkliche, pestizidfreie Produktion",
+        "Beliebtes Nischenprodukt in der bahamaischen Gastronomie",
+        "Fördert das ökologische Gleichgewicht auf den Out Islands"
+      ]
+    },
+    {
+      "id": "blue-lagoon-island-sea-lions-life-v2",
+      "descriptionAdvanced": "Die Seelöwen von Blue Lagoon Island (Salt Cay) sind die Botschafter der marinen Säugetierwelt in der Nähe von Nassau. In einer idyllischen, natürlichen Umgebung leben diese intelligenten Tiere und ermöglichen Besuchern interaktive Begegnungen, die von Respekt und Bildung geprägt sind. Das Leben auf Blue Lagoon dreht sich um den Schutz und das Wohlbefinden dieser Tiere, von denen viele aus Rettungsprogrammen stammen. Die Programme hier sind darauf ausgelegt, das Bewusstsein für die Bedürfnisse mariner Lebewesen und den Schutz ihrer Lebensräume zu schärfen. Für viele Gäste ist die direkte Interaktion mit den Seelöwen ein emotionales Erlebnis, das ein lebenslanges Interesse am Meeresschutz wecken kann. Blue Lagoon Island verbindet so Tourismus mit einer klaren pädagogischen Mission zum Erhalt der Meeresfauna.",
+      "factsAdvanced": [
+        "Zentrum für interaktive Meerespädagogik auf Salt Cay",
+        "Beherbergt eine Kolonie geretteter kalifornischer Seelöwen",
+        "Fokus auf Verhaltensforschung und Umwelterziehung",
+        "Strenge Einhaltung internationaler Tierschutzstandards",
+        "Einzigartiges Naturerlebnis in einer geschützten Lagune",
+        "Wichtiger Partner für regionale Umweltschutzorganisationen"
+      ]
+    },
+    {
+      "id": "sea-grape-ernte-life-v2",
+      "descriptionAdvanced": "Die Ernte der Seetraube (Coccoloba uvifera) ist ein saisonales Highlight und eine geliebte Tradition an den Küsten der Bahamas. Wenn die Trauben im Spätsommer von Grün nach Dunkelviolett wechseln, versammeln sich Familien an den Stränden, um die süß-säuerlichen Früchte zu pflücken. Das Leben mit der Seetraube ist ein Symbol für die Nutzung einheimischer Wildfrüchte, die ohne menschliches Zutun in der salzigen Küstenumgebung gedeihen. Aus den Früchten werden köstliche Marmeladen, Gelees und sogar Wein hergestellt, die fest im kulinarischen Erbe der Inseln verankert sind. Die robusten Bäume schützen zudem die Dünen vor Erosion und spenden wertvollen Schatten. Die Seetrauben-Ernte erinnert die Bahama-Insulaner an ihre Verbundenheit mit dem Land und die einfachen Geschenke, die die Natur ihnen jedes Jahr aufs Neue bereitet.",
+      "factsAdvanced": [
+        "Traditionelle saisonale Ernte an bahamaischen Stränden",
+        "Wichtige Wildfrucht für lokale Spezialitäten (Gelees, Weine)",
+        "Naturheilmittel in der traditionellen Buschmedizin",
+        "Wesentlich für den Schutz der Küstendünen",
+        "Kulturgut und Symbol für bahamaisches Strandleben",
+        "Wächst bevorzugt in salzhaltigen, sandigen Küstengebieten"
+      ]
+    },
+    {
+      "id": "fort-charlotte-spielplatz-life-v2",
+      "descriptionAdvanced": "Der Spielplatz am Fort Charlotte in Nassau ist ein wichtiger sozialer Treffpunkt für Familien in der Hauptstadt. Gelegen im Schatten der imposanten historischen Festung, bietet er Kindern einen Ort, an dem sie in geschichtsträchtiger Umgebung spielen können. Das Leben auf diesem Platz spiegelt die moderne bahamaische Gesellschaft wider – ein Ort des Lachens, der Gemeinschaft und des Sports. Oft finden hier auch lokale Feste und Gemeindeveranstaltungen statt, die Jung und Alt zusammenbringen. Die Kombination aus historischer Kulisse und moderner Freizeitgestaltung macht diesen Ort besonders. Für die Bewohner von Nassau ist der Spielplatz ein Stück Lebensqualität und ein Symbol für die Integration von Geschichte in den Alltag. Er zeigt, dass die großen Monumente der Vergangenheit heute lebendige Orte der Begegnung für die nächste Generation sind.",
+      "factsAdvanced": [
+        "Zentraler Freizeitort für Familien in Nassau",
+        "Gelegen unmittelbar neben der größten Festung der Stadt",
+        "Wichtiger Standort für lokale Gemeinschaftsfeste",
+        "Verbindet historisches Erbe mit modernem Stadtleben",
+        "Beliebter Treffpunkt für Sport und Spiel",
+        "Bietet Raum für soziale Interaktion in grüner Umgebung"
+      ]
+    },
+    {
+      "id": "stromatolithen-exuma-life-v2",
+      "descriptionAdvanced": "Die Stromatolithen in den Exumas sind lebende Fossilien und eine der bedeutendsten biologischen Sensationen der Welt. Diese von Cyanobakterien geschaffenen Strukturen gehören zu den ältesten Lebensformen der Erde und existieren in den klaren, flachen Gewässern von Stocking Island in einer Weise, wie sie vor Milliarden von Jahren die Ozeane dominierten. Das Leben dieser Stromatolithen ist ein extrem langsamer Prozess der Kalkablagerung, der nur unter ganz spezifischen Bedingungen möglich ist. Für Wissenschaftler sind sie ein Schlüssel zum Verständnis des Ursprungs des Lebens und der Entstehung des Sauerstoffs in der Erdatmosphäre. Der Schutz dieser unscheinbaren, steinähnlichen Gebilde ist von globaler Bedeutung. Sie symbolisieren die Bahamas als einen Ort, an dem die tiefste Geschichte des Planeten noch immer lebendig und sichtbar ist.",
+      "factsAdvanced": [
+        "Älteste lebende Strukturen der Erde (über 3 Milliarden Jahre alt)",
+        "Extrem seltene Vorkommen in mariner Umgebung",
+        "Stellen die Ursprünge der Photosynthese auf dem Planeten dar",
+        "Gelegen in den Gewässern um Stocking Island, Exumas",
+        "Wichtiges Ziel für die internationale Astrobiologie-Forschung",
+        "Streng geschütztes biologisches Weltnaturerbe"
+      ]
+    },
+    {
+      "id": "great-abaco-island-nature-v2",
+      "descriptionAdvanced": "Great Abaco Island ist die Hauptinsel der Abacos und ein Naturparadies von außergewöhnlicher Vielfalt. Geprägt von weiten karibischen Kiefernwäldern (Pinus caribaea) im Inneren und spektakulären Korallenriffen entlang der Küste, bietet die Insel Lebensraum für zahlreiche endemische Arten, darunter den seltenen Abaco-Papagei. Die Natur hier ist wilder und unberührter als auf vielen anderen Inseln der Bahamas. Das verzweigte System von Buchten, Cays und Blue Holes macht Great Abaco zu einem Hotspot für Forscher und Abenteurer. Die Insel fungiert als Schutzschild gegen den Atlantik und beherbergt einige der produktivsten Fischgründe der Region. Great Abaco symbolisiert die perfekte Balance zwischen maritimem Reichtum und terrestrischer Wildnis und ist das Herzstück einer der ökologisch wertvollsten Regionen der Karibik.",
+      "factsAdvanced": [
+        "Zweitgrößte Landmasse der Bahamas",
+        "Wichtigstes Habitat des gefährdeten Abaco-Papageis",
+        "Zentrum ausgedehnter Kiefernwald-Ökosysteme",
+        "Tor zur Sea of Abaco und ihren Korallenriffen",
+        "Reich an spektakulären Blue Holes und Höhlensystemen",
+        "Hotspot für nachhaltigen Ökotourismus"
+      ]
+    },
+    {
+      "id": "andros-island-nature-v2",
+      "descriptionAdvanced": "Andros ist die größte und geheimnisvollste Insel der Bahamas, oft als die 'unbekannte Wildnis' bezeichnet. Sie beherbergt das drittgrößte Barriereriff der Welt auf der einen Seite und riesige Mangrovensümpfe sowie unberührte Urwälder auf der anderen. Die Natur von Andros ist geprägt von der weltweit höchsten Dichte an Blue Holes – tiefen, wassergefüllten Kalksteinhöhlen, die faszinierende Fenster in die Erdgeschichte öffnen. Die Insel ist die wichtigste Süßwasserquelle des Archipels und ein Paradies für Vögel, Leguane und den berühmten Bonefish. Das Leben auf Andros ist untrennbar mit diesen gewaltigen Naturressourcen verbunden. Als ökologisches Kraftzentrum der Bahamas bietet Andros eine Unberührtheit, die weltweit selten geworden ist, und ist ein Symbol für die rohe, ungezähmte Kraft der karibischen Natur.",
+      "factsAdvanced": [
+        "Größte Insel der Bahamas mit enormer Biodiversität",
+        "Standort des drittgrößten Barriereriffs weltweit",
+        "Höchste Konzentration an Blue Holes auf dem Planeten",
+        "Wichtigstes Süßwasser-Reservoir des Landes",
+        "Heimat seltener Orchideen und zahlreicher endemischer Vögel",
+        "Paradies für Tiefseetauchen und Bonefishing"
+      ]
+    },
+    {
+      "id": "eleuthera-island-nature-v2",
+      "descriptionAdvanced": "Eleuthera ist eine Insel der Kontraste, bekannt für ihre schmale, langgestreckte Form und ihre dramatische Geologie. An Stellen wie dem 'Glass Window Bridge' kann man die gewaltige Kraft der Natur bestaunen, wo der dunkelblaue, tosende Atlantik nur durch einen schmalen Felsgrat vom ruhigen, türkisfarbenen Wasser der Bahamas-Bank getrennt wird. Die Natur von Eleuthera ist geprägt von sanften Hügeln, fruchtbaren roten Böden und spektakulären Kalksteinhöhlen wie Preacher's Cave. Die Insel bietet kilometerlange, unberührte Sandstrände, die zu den schönsten der Welt zählen. Das ökologische Gleichgewicht zwischen Landwirtschaft und Küstenschutz ist hier besonders spürbar. Eleuthera verkörpert die Freiheit (griechisch: eleutheria) und die natürliche Eleganz der Bahamas in ihrer reinsten, landschaftlich vielfältigsten Form.",
+      "factsAdvanced": [
+        "Markante, schmale Inselform (über 180 km lang)",
+        "Standort der berühmten Glass Window Bridge",
+        "Reich an fruchtbaren, eisenhaltigen roten Böden",
+        "Beherbergt spektakuläre Naturhöhlen und Cenoten",
+        "Bekannt für den exklusiven Pink Sands Beach",
+        "Einzigartige Mischung aus Atlantikbrandung und Flachmeer"
+      ]
+    },
+    {
+      "id": "cat-island-nature-v2",
+      "descriptionAdvanced": "Cat Island ist die ungezähmte Schönheit der Bahamas und bietet eine Naturkulisse, die weitgehend von moderner Entwicklung verschont blieb. Die Insel beherbergt den Mount Alvernia, den mit 63 Metern höchsten Punkt des Landes, der einen weiten Blick über das üppige Grün der Insel bietet. Die Natur von Cat Island ist geprägt von dichten Wäldern, sanften Hügeln und weiten, menschenleeren Stränden. Besonders faszinierend sind die unberührten Seen im Inselinneren, die oft mit dem Meer verbunden sind und seltene Ökosysteme beherbergen. Die Insel ist ein Refugium für Ruhesuchende und Forscher, die die ursprüngliche Flora und Fauna der Bahamas studieren möchten. Cat Island steht für eine tiefe spirituelle Verbindung zur Erde und eine Natur, die den Rhythmus des Lebens noch selbst bestimmt.",
+      "factsAdvanced": [
+        "Standort der höchsten Erhebung der Bahamas (Mount Alvernia)",
+        "Eine der am wenigsten entwickelten und ursprünglichsten Inseln",
+        "Reich an unberührten Mangroven-Lagunen",
+        "Wichtiger Standort für den Schutz seltener Reptilienarten",
+        "Dramatische Kontraste zwischen Hügelland und Atlantikküste",
+        "Idealer Ort für ökologische Entdeckungsreisen"
+      ]
+    },
+    {
+      "id": "long-island-bahamas-nature-v2",
+      "descriptionAdvanced": "Long Island ist geologisch und landschaftlich eine der faszinierendsten Inseln der Bahamas. Sie wird durch den Wendekreis des Krebses geteilt und bietet zwei völlig unterschiedliche Küstenwelten: Die raue, klippenreiche Atlantikküste im Osten und die flachen, ruhigen Buchten im Westen. Ein absolutes Naturhighlight ist Dean's Blue Hole, das tiefste blaue Loch der Welt in einer Küstenlagune. Die Natur der Insel umfasst zudem ausgedehnte Höhlensysteme und fruchtbare Ebenen, die sie zum landwirtschaftlichen Zentrum des Südens machen. Long Island ist ein Ort der Extreme, wo tiefe Abgründe auf sanfte Hügel treffen und die Natur eine unglaubliche Vielfalt an Lebensräumen geschaffen hat. Sie verkörpert die wilde, ursprüngliche Kraft des bahamaischen Archipels in ihrer spektakulärsten Form.",
+      "factsAdvanced": [
+        "Heimat des tiefsten Blue Holes der Welt (Dean's Blue Hole)",
+        "Wird durch den Wendekreis des Krebses (Tropic of Cancer) geteilt",
+        "Einzigartige Geographie mit dramatischen Klippen und Flachwasser",
+        "Reich an prähistorischen Kalksteinhöhlen",
+        "Wichtiges landwirtschaftliches Ökosystem im Süden",
+        "Hotspot für Weltklasse-Freitauchen"
+      ]
+    },
+    {
+      "id": "great-inagua-island-nature-v2",
+      "descriptionAdvanced": "Great Inagua ist das ultimative Naturparadies für Vogelkundler und Abenteurer. Als südlichste Insel der Bahamas ist sie geprägt von einer kargen, aber faszinierenden Trockenvegetation und riesigen Salzpfannen. Die Insel beherbergt die weltweit größte Population des Westindischen Flamingos, des Nationalvogels der Bahamas, mit über 80.000 Exemplaren. Inagua ist ein Ort, an dem die Wildnis regiert; neben Flamingos finden sich hier seltene Papageien, Kolibris und zahlreiche andere Vogelarten. Die Natur von Great Inagua ist eng mit der Salzgewinnung verknüpft, da die Verdunstungsbecken ein reiches Nahrungsangebot für die Vögel bieten. Die Insel ist ein Symbol für die raue Schönheit des Südens und die erfolgreiche Erhaltung einer der spektakulärsten Wildtierpopulationen der gesamten Karibik.",
+      "factsAdvanced": [
+        "Vogelhauptstadt der Bahamas und wichtiger Nationalpark",
+        "Weltweit größte Kolonie Westindischer Flamingos",
+        "Südlichster Punkt des bahamaischen Archipels",
+        "Einzigartige Symbiose aus Salzindustrie und Naturschutz",
+        "Refugium für den endemischen Inagua-Papagei",
+        "Wichtiger Rastplatz für internationale Zugvögel"
+      ]
+    },
+    {
+      "id": "rum-cay-island-nature-v2",
+      "descriptionAdvanced": "Rum Cay ist ein verstecktes Juwel und ein Naturgeheimnis der Bahamas. Die Insel, die einst für ihre Salzproduktion berühmt war, hat sich heute fast vollständig in den Zustand unberührter Wildnis zurückentwickelt. Die Natur von Rum Cay ist geprägt von spektakulären Korallenriffen, wie dem HMS Conqueror Wrack, das heute ein lebendiges Unterwasser-Habitat ist. Die Insel bietet tiefe Höhlen mit historischen Inschriften und weite, unberührte Strände, an denen Schildkröten ihre Eier ablegen. Aufgrund der geringen Bevölkerung herrscht hier eine absolute Ruhe, die Rum Cay zu einem Refugium für seltene Seevögel und marine Arten macht. Die Insel verkörpert die Sehnsucht nach dem unentdeckten Paradies und zeigt, wie die Natur sich Landstriche mit beeindruckender Kraft und Schönheit zurückerobert.",
+      "factsAdvanced": [
+        "Unbewohntes Naturparadies mit reicher maritimer Geschichte",
+        "Standort spektakulärer Riffe und historischer Schiffswracks",
+        "Wichtiger Nistplatz für bedrohte Meeresschildkröten",
+        "Beherbergt tiefe Kalksteinhöhlen mit prähistorischen Spuren",
+        "Geheimtipp für anspruchsvolles Surfen und Tauchen",
+        "Inbegriff der unberührten südlichen Bahamas"
+      ]
+    },
+    {
+      "id": "lake-rosa-inagua-nature-v2",
+      "descriptionAdvanced": "Lake Rosa, auch bekannt als Lake Windsor, ist das ökologische Herz von Great Inagua und das wichtigste Binnengewässer der Insel. Dieser riesige Flachwassersee erstreckt sich über fast ein Viertel der Inselfläche und ist das primäre Futter- und Brutgebiet für die gewaltigen Flamingokolonien der Insel. Die Natur des Sees ist durch eine hohe Salinität geprägt, die perfekt an die Bedürfnisse der Flamingos und der dort lebenden Kleinstlebewesen angepasst ist. Lake Rosa ist ein international bedeutendes Feuchtgebiet unter der Ramsar-Konvention und ein unverzichtbarer Bestandteil des Inagua National Park. Die Weite des Sees, das schimmernde Wasser und die rosa Wolken aus tausenden aufsteigenden Vögeln machen ihn zu einer der beeindruckendsten Naturkulissen der Erde. Er symbolisiert die ungestörte Wildnis der südlichen Bahamas.",
+      "factsAdvanced": [
+        "Größter Binnensee der Bahamas auf Great Inagua",
+        "Zentrales Habitat für über 80.000 Flamingos",
+        "International geschütztes Feuchtgebiet (Ramsar-Stätte)",
+        "Kernstück des Inagua National Park",
+        "Lebensraum für seltene Wasservögel und Reptilien",
+        "Einzigartiges hypersalines Ökosystem"
+      ]
+    },
+    {
+      "id": "goose-river-andros-nature-v2",
+      "descriptionAdvanced": "Der Goose River auf Andros ist eines der bedeutendsten Flusssysteme der Bahamas und eine lebenswichtige Wasserstraße durch die Mangrovenwildnis der Insel. Da die Bahamas größtenteils keine oberirdischen Flüsse haben, ist der Goose River eine hydrologische Besonderheit, die tief in das unberührte Hinterland von Andros führt. Die Natur entlang des Flusses ist geprägt von dichten Mangrovenwäldern, die als Filter und Kinderstube für unzählige Meeresbewohner dienen. Das Leben am Goose River ist ein Paradies für Kajakfahrer und Forscher, die die Stille der Wildnis suchen. Das Wasser ist reich an Nährstoffen und lockt Vögel, Fische und sogar gelegentlich Rundschwanzseekühe an. Der Fluss symbolisiert den Reichtum an Süßwasser und die ökologische Komplexität, die Andros zur einzigartigsten Insel des Archipels machen.",
+      "factsAdvanced": [
+        "Eines der wenigen oberirdischen Flusssysteme der Bahamas",
+        "Kritische ökologische Ader durch das Herz von Andros",
+        "Wichtiger Standort für die Erforschung von Mangroven",
+        "Top-Destination für anspruchsvolle Kajak-Expeditionen",
+        "Lebensraum für zahlreiche seltene Vogel- und Fischarten",
+        "Sichert das hydrologische Gleichgewicht der Region"
+      ]
+    },
+    {
+      "id": "abaco-national-park-forest-nature-v2",
+      "descriptionAdvanced": "Der Abaco National Park im Süden von Great Abaco schützt über 8.000 Hektar wertvollen karibischen Kiefernwald. Dieses Gebiet ist das wichtigste Refugium für den Abaco-Papagei (Amazona leucocephala bahamensis), der ungewöhnlicherweise in Kalksteinlöchern im Boden nistet – ein weltweit einzigartiges Verhalten zum Schutz vor Waldbränden. Die Natur des Parks ist geprägt von einer robusten Flora, die perfekt an das kalkhaltige Terrain angepasst ist. Der dichte Wald dient als riesiger Kohlenstoffspeicher und reguliert das Klima der Insel. Für Naturliebhaber bietet der Park ein Netzwerk von Pfaden, auf denen man die Stille des Waldes und die Rufe der bunten Papageien erleben kann. Der Park symbolisiert den bahamaischen Erfolg im Artenschutz und die Bedeutung des Erhalts terrestrischer Ökosysteme für die biologische Vielfalt des Archipels.",
+      "factsAdvanced": [
+        "Hauptschutzgebiet für den endemischen Abaco-Papagei",
+        "Umfasst riesige Flächen ursprünglichen Kiefernwaldes",
+        "Weltweit einzigartige Boden-Nistplätze der Papageien",
+        "Bedeutendes Reservoir für die biologische Vielfalt",
+        "Zentrum für internationale Naturschutzforschung",
+        "Wichtiges Erholungsgebiet für ökologisch orientierte Wanderer"
+      ]
+    },
+    {
+      "id": "saddleback-cay-nature-v2",
+      "descriptionAdvanced": "Saddleback Cay in den nördlichen Exumas ist ein Paradebeispiel für die unberührte Schönheit eines privaten Naturreservats. Die Insel verdankt ihren Namen ihrer markanten Form, die an einen Sattel erinnert. Die Natur auf Saddleback Cay ist geprägt von unberührten Mangrovenkanälen, sieben einsamen Stränden und einer reichen marinen Fauna in den umliegenden Flachwasserzonen. Die Insel dient als Refugium für Vögel und Meereslebewesen, die in den geschützten Buchten Nahrung und Schutz finden. Das Leben hier folgt den Gezeiten, und die kristallklaren Gewässer bieten eine Sichtbarkeit, die weltweit ihresgleichen sucht. Saddleback Cay symbolisiert das exklusive Naturerlebnis der Exumas, bei dem Privatsphäre und ökologische Integrität Hand in Hand gehen. Es ist ein Ort der absoluten Ruhe, an dem die Zeit in der schimmernden Hitze der Karibik stillzustehen scheint.",
+      "factsAdvanced": [
+        "Privates Inselreservat mit sieben unberührten Stränden",
+        "Namensgebung durch die charakteristische geologische Form",
+        "Refugium für seltene Seevögel und marine Arten",
+        "Herausragende Schnorchelbedingungen in geschützten Buchten",
+        "Symbol für exklusiven und nachhaltigen Inselbesitz",
+        "Malerische Mangrovenlandschaft im Inselinneren"
+      ]
+    },
+    {
+      "id": "conception-island-nature-v2",
+      "descriptionAdvanced": "Conception Island ist eine unbewohnte Wildnis von atemberaubender natürlicher Schönheit und steht unter dem strengen Schutz des Bahamas National Trust. Diese abgelegene Insel ist ein bedeutendes Nistgebiet für Grüne Meeresschildkröten und ein wichtiges Habitat für zahlreiche Seevogelkolonien, darunter der Rotschnabel-Tropikvogel. Die Natur von Conception Island ist geprägt von einer zentralen Lagune, die als sichere Kinderstube für junge Haie und Rochen dient. Die umliegenden Korallenriffe gehören zu den am besten erhaltenen und artenreichsten der Bahamas. Aufgrund ihrer Isolation bietet die Insel einen Einblick in eine unberührte ökologische Welt, wie sie vor der Ankunft des Menschen existierte. Sie ist ein heiliger Ort für Naturschützer und ein unverzichtbares Juwel im Kronjuwel des bahamaischen Nationalparksystems.",
+      "factsAdvanced": [
+        "Vollständig unbewohntes Nationalpark-Juwel",
+        "Eines der wichtigsten Brutgebiete für Meeresschildkröten",
+        "Habitat für seltene und bedrohte Seevogelarten",
+        "Bedeutende marine Kinderstube in der Zentrallagune",
+        "Einige der gesündesten Korallenriffe der Karibik",
+        "Streng kontrolliertes Gebiet für wissenschaftliche Forschung"
+      ]
+    },
+    {
+      "id": "great-bahama-bank-sea-nature-v2",
+      "descriptionAdvanced": "Die Great Bahama Bank ist eine gewaltige Unterwasser-Kalksteinplattform und eines der prägendsten geologischen Merkmale der Bahamas. Diese riesige Fläche aus flachem, türkisblauem Wasser ist so groß, dass sie sogar aus dem Weltraum deutlich sichtbar ist. Die Natur der Great Bahama Bank ist ein hochproduktives marines Ökosystem, das als Lebensraum für unzählige Arten wie Muscheln, Fische und Delfine dient. Die geringe Tiefe führt zu einer unglaublichen Lichtdurchflutung, die das Wachstum von Seegraswiesen fördert – die Lungen des Ozeans. Das Leben auf der Bank ist geprägt von den Gezeitenströmen, die Nährstoffe verteilen und die berühmten Sandmuster am Meeresboden formen. Die Great Bahama Bank ist nicht nur ein Naturschatz, sondern auch die wirtschaftliche Basis der bahamaischen Fischerei und das größte 'Schwimmbecken' der Natur.",
+      "factsAdvanced": [
+        "Eine der größten Kalkstein-Plattformen der Welt",
+        "Prägt die charakteristische türkise Farbe der Bahamas",
+        "Riesige Seegraswiesen als wichtiger Kohlenstoffspeicher",
+        "Zentraler Lebensraum für die berühmten Queen Conch Muscheln",
+        "Geologisches Wunder, vom Weltraum aus sichtbar",
+        "Lebenswichtiges Jagdrevier für Delfine und Rochen"
+      ]
+    },
+    {
+      "id": "little-bahama-bank-sea-nature-v2",
+      "descriptionAdvanced": "Die Little Bahama Bank im Norden des Archipels umschließt die Inseln Grand Bahama und Abaco. Ähnlich wie ihre größere Schwester ist sie eine flache Unterwasser-Plattform von immenser ökologischer Bedeutung. Die Natur der Little Bahama Bank ist berühmt für ihre kristallklaren Gewässer und die Begegnungen mit wilden Fleckendelfinen, die hier in den flachen Sandbänken leben. Das Ökosystem ist geprägt von einem komplexen Netzwerk aus Korallenköpfen und Seegraswiesen, die als Schutzraum für junge Meerestiere fungieren. Die Bank wirkt wie ein natürlicher Filter und sorgt für die außergewöhnliche Wasserqualität in der nördlichen Region. Für Taucher und Segler ist die Little Bahama Bank ein Traumrevier, das die unendliche Weite und die schimmernde Schönheit der bahamaischen Flachmeere in ihrer reinsten Form verkörpert.",
+      "factsAdvanced": [
+        "Nördliche Flachwasser-Plattform des Archipels",
+        "Weltweit bekannt für Begegnungen mit Fleckendelfinen",
+        "Kritisches Ökosystem für die nördliche Fischerei",
+        "Herausragende Wasserqualität durch natürliche Filtration",
+        "Umrahmt die Inseln Grand Bahama und Abaco",
+        "Wichtiger Korridore für wandernde Meereslebewesen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "anisoc-cities-v2",
+      "descriptionAdvanced": "Anisoc is a vibrant city in the heart of Rio Muni, serving as a central trade hub where major mainland transportation routes converge. The city is defined by its lively market, which holds great significance not only for the local population but also for merchants from across the entire province. Due to its advantageous location on one of the region's main arteries, Anisoc is an essential player in local goods traffic and contributes significantly to the economic vitality of the interior. The urban environment offers an authentic picture of life away from the coast, where trade and social interaction shape daily routines. Economics K7, Geography K6.",
+      "factsAdvanced": [
+        "Strategically located in the center of Rio Muni.",
+        "Central marketplace for the surrounding region.",
+        "Known for bustling exchange at the municipal market.",
+        "Junction point for major regional road connections.",
+        "Important supply location for the mainland interior.",
+        "City experiencing steady growth in commercial activity."
+      ]
+    },
+    {
+      "id": "mbini-cities-v2",
+      "descriptionAdvanced": "Mbini, a coastal city in the Rio Muni region, sits at the mouth of the Benito River. In recent years, the town has experienced significant development, particularly following the construction of a bridge that connects the coastal zone to the mainland interior. The dense mangrove forests and riverine habitats surrounding the area provide a rich biodiversity, which is also crucial for local fishing. Mbini is increasingly becoming an important tourist and logistical center, bridging the gap between modern infrastructure and the traditional African environment. Geography K6, Environmental Studies K8.",
+      "factsAdvanced": [
+        "Situated at the mouth of the Benito River.",
+        "Features a modern bridge for regional connectivity.",
+        "Surrounded by a rich mangrove ecosystem.",
+        "Important local center for fishing.",
+        "Increasing logistical importance.",
+        "Promising location for coastal tourism development."
+      ]
+    },
+    {
+      "id": "aconibe-cities-v2",
+      "descriptionAdvanced": "Aconibe is a settlement located in the interior of Equatorial Guinea, specifically in the Wele-Nzas province, known as a commercial center for agricultural regions. The city's environment is hilly and covered in tropical forests, where local farmers primarily cultivate cassava and cocoa. Due to its strategic location, Aconibe acts as a key collection point for goods arriving from surrounding villages. The life of the town is defined by traditional trade routes and the bustling activity of local markets, which are essential for provincial supply chains. Geography K6, Economics K7.",
+      "factsAdvanced": [
+        "Located in the province of Wele-Nzas.",
+        "Commercial hub for agricultural trade.",
+        "Main crops cultivated are cassava and cocoa.",
+        "Plays an essential role in regional food supply.",
+        "Surrounding forest areas possess significant biodiversity.",
+        "Local markets serve as the social and economic meeting point of the region."
+      ]
+    },
+    {
+      "id": "micomeseng-cities-v2",
+      "descriptionAdvanced": "Micomeseng is an important stop for border-related trade in the province of Kie-Ntem. Because of its location, the city maintains vibrant connections with the surrounding areas, and trade from cross-border traffic forms a crucial part of the local economy. The topography and climate of the surrounding area favor tropical agriculture, particularly the cultivation of fruits and vegetables, which also appear in the local markets. Geography K7, Economics K8.",
+      "factsAdvanced": [
+        "Located in the province of Kie-Ntem.",
+        "Important commercial center near the border.",
+        "Local economy is based on border-zone trade.",
+        "Agricultural crop cultivation is characteristic of the area.",
+        "City features continuously improving infrastructure.",
+        "Central role in regional transit."
+      ]
+    },
+    {
+      "id": "nsok-cities-v2",
+      "descriptionAdvanced": "Nsok is a typical inland small town in the eastern part of Equatorial Guinea, playing a central role in the lives of local communities. The surrounding area is defined by tropical forest management and small-scale agriculture, providing the backbone for local sustenance. Nsok serves as an important junction in the inland transportation network, through which rural products reach larger city markets. The town's quieter pace offers an opportunity to observe traditional lifestyles. Geography K6, Social Studies K7.",
+      "factsAdvanced": [
+        "Inland town in the eastern region.",
+        "Hub for agriculture and forestry management.",
+        "Important connection point between rural and urban regions.",
+        "Central hub for the local community.",
+        "Quiet, traditional settlement.",
+        "Part of the regional food supply chain."
+      ]
+    }
+  ]
+}

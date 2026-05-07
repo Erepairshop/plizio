@@ -1,0 +1,335 @@
+{
+  "lang": "ro",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bandung-cities-v2",
+      "descriptionAdvanced": "Bandung, capitala provinciei Java de Vest, este cunoscut sub numele de „Parisul din Java” datorită arhitecturii sale Art Deco și atmosferei europene din perioada colonială. Situat la o altitudine de 768 de metri, orașul beneficiază de un climat răcoros, fiind înconjurat de munți vulcanici spectaculoși, precum Tangkuban Perahu. Un punct de referință istoric major este Conferința de la Bandung din 1955, care a pus bazele Mișcării de Nealiniere. Astăzi, orașul este un centru vibrant al educației, găzduind Institutul de Tehnologie din Bandung (ITB), și un pol al industriilor creative și al modei. Vizitatorii sunt atrași de plantațiile de ceai din împrejurimi și de gastronomia locală diversă. Geografie K9 — Urbanizare și diversitate culturală.",
+      "factsAdvanced": [
+        "A găzduit prima Conferință Afro-Asiatică în aprilie 1955.",
+        "Este situat într-un bazin muntos la 768 metri altitudine medie.",
+        "Găzduiește Institutul de Tehnologie din Bandung, fondat în 1920.",
+        "Cunoscut pentru clădirea Gedung Sate, terminată în anul 1920.",
+        "Este centrul principal al industriei textile și al modei din Indonezia.",
+        "Înconjurat de vulcani activi, inclusiv celebrul Tangkuban Perahu.",
+        "Populația zonei metropolitane depășește pragul de 8 milioane de locuitori."
+      ]
+    },
+    {
+      "id": "surabaya-cities-v2",
+      "descriptionAdvanced": "Surabaya, al doilea oraș ca mărime din Indonezia și capitala provinciei Java de Est, este cunoscut sub numele de „Orașul Eroilor” datorită rolului său crucial în lupta pentru independență. Orașul este un centru economic major, găzduind unul dintre cele mai aglomerate porturi din Asia de Sud-Est, Portul Tanjung Perak. Surabaya îmbină modernitatea zgârie-norilor cu moștenirea istorică vizibilă în cartierul vechi, unde se află clădiri coloniale olandeze și cartierul arab Ampel. Monumentul Jalesveva Jayamahe domină coasta, simbolizând puterea maritimă a națiunii. De asemenea, orașul este faimos pentru gastronomia sa stradală, în special preparatul Rujak Cingur. Surabaya servește ca poartă de acces către Muntele Bromo și alte minuni naturale din estul insulei Java. Geografie K7 — Așezări urbane și economie.",
+      "factsAdvanced": [
+        "Cunoscut ca „Orașul Eroilor” după Bătălia din noiembrie 1945.",
+        "Al doilea cel mai mare oraș din Indonezia după metropola Jakarta.",
+        "Găzduiește Portul Tanjung Perak, unul dintre cele mai mari din țară.",
+        "Podul Suramadu leagă Surabaya de insula Madura, fiind cel mai lung din țară.",
+        "Monumentul Jalesveva Jayamahe are o înălțime totală de 30,6 metri.",
+        "Fondat oficial pe 31 mai 1293, după victoria împotriva flotei mongole.",
+        "Centru major pentru industria construcțiilor navale și prelucrătoare."
+      ]
+    },
+    {
+      "id": "medan-cities-v2",
+      "descriptionAdvanced": "Medan, capitala provinciei Sumatra de Nord, este al patrulea oraș ca mărime din Indonezia și un amestec fascinant de culturi Batak, javaneză, chineză și indiană. Istoria sa modernă a fost modelată de industria tutunului în secolul al XIX-lea, transformându-l dintr-un sat mic într-un centru comercial prosper. Palatul Maimun și Marea Moschee din Medan sunt repere arhitecturale ce reflectă splendoarea sultanatului Deli. Orașul este renumit în întreaga țară pentru diversitatea sa culinară, fiind considerat o destinație gastronomică de top. Medan servește drept principală poartă de intrare pentru turiștii care vizitează Lacul Toba, cel mai mare lac vulcanic din lume. Infrastructura modernă, inclusiv aeroportul internațional Kualanamu, facilitează conexiunile regionale. Geografie K8 — Resurse naturale și dezvoltare regională.",
+      "factsAdvanced": [
+        "Capitala provinciei Sumatra de Nord și cel mai mare oraș din afara Javei.",
+        "Palatul Maimun a fost construit în 1888 de către Sultanul Deli.",
+        "Marea Moschee (Masjid Raya Al-Mashun) a fost inaugurată în 1909.",
+        "Turnul de Apă din Medan este un simbol iconic al perioadei coloniale.",
+        "Aeroportul Kualanamu a fost primul din Indonezia conectat direct prin tren.",
+        "Orașul este celebru pentru desertul Bika Ambon și fructul durian.",
+        "A fost centrul administrativ istoric al Coastei de Est a Sumatrei."
+      ]
+    },
+    {
+      "id": "makassar-cities-v2",
+      "descriptionAdvanced": "Makassar, capitala provinciei Sulawesi de Sud, este principalul centru urban și poarta de acces către estul arhipelagului indonezian. Orașul are o istorie maritimă bogată, fiind renumit pentru marinarii Bugis care au navigat pe mări îndepărtate cu ambarcațiunile lor tradiționale, Pinisi. Fortul Rotterdam, o fortăreață olandeză bine conservată construită pe locul unei foste cetăți Gowa, stă mărturie trecutului colonial. Plaja Losari este locul preferat de întâlnire pentru localnici și turiști, oferind apusuri spectaculoase și o varietate de delicii culinare, cum ar fi Coto Makassar. Orașul s-a dezvoltat rapid, devenind un nod vital pentru comerț, servicii și educație în regiune. Makassar combină armonios tradițiile regale vechi cu dinamismul unei metropole moderne în plină expansiune. Geografie K10 — Comerț internațional și rute maritime.",
+      "factsAdvanced": [
+        "Capitala provinciei Sulawesi de Sud și cel mai mare oraș din est.",
+        "Fortul Rotterdam a fost construit inițial în 1545 de Regatul Gowa.",
+        "Orașul a fost cunoscut sub numele de Ujung Pandang între 1971 și 1999.",
+        "Cunoscut pentru navele tradiționale Pinisi, incluse în patrimoniul UNESCO.",
+        "Plaja Losari este celebră pentru „platforma celor patru etnii”.",
+        "Găzduiește Universitatea Hasanuddin, una dintre cele mai mari din țară.",
+        "Este un centru major pentru exportul de nichel, cacao și pește."
+      ]
+    },
+    {
+      "id": "semarang-cities-v2",
+      "descriptionAdvanced": "Semarang, situat pe coasta de nord a insulei Java, este capitala provinciei Java Centrală și un oraș marcat de o diversitate culturală remarcabilă. Orașul este împărțit într-o zonă joasă de coastă și o zonă deluroasă pitorească, oferind peisaje variate. Moștenirea colonială olandeză este evidentă în „Orașul Vechi” (Kota Lama), unde clădirea Lawang Sewu, cunoscută pentru numeroasele sale uși, atrage mulți vizitatori. Semarang este de asemenea un simbol al armoniei religioase, găzduind templul chinezesc Sam Poo Kong, dedicat amiralului Zheng He, și Marea Moschee a Javei Centrale. Portul Tanjung Emas joacă un rol esențial în economia regională, facilitând exporturile industriale. Gastronomia locală, influențată de comunitatea chineză, este celebră pentru preparatul Lunpia Semarang. Geografie K9 — Structuri urbane și patrimoniu cultural.",
+      "factsAdvanced": [
+        "Capitala provinciei Java Centrală și un port strategic pe Marea Javei.",
+        "Lawang Sewu („Mii de Uși”) a fost sediul companiei feroviare olandeze.",
+        "Templul Sam Poo Kong comemoreará vizita amiralului Zheng He în 1405.",
+        "Marea Moschee (Masjid Agung) are umbrele gigantice ca în Medina.",
+        "Kota Lama este supranumit „Micul Amsterdam” datorită canalelor sale.",
+        "Orașul este renumit pentru Lunpia, o ruladă cu lăstari de bambus.",
+        "Găzduiește un sistem complex de poldere pentru a preveni inundațiile."
+      ]
+    },
+    {
+      "id": "palembang-cities-v2",
+      "descriptionAdvanced": "Palembang, capitala provinciei Sumatra de Sud, este unul dintre cele mai vechi orașe din Asia de Sud-Est, având o istorie ce datează din secolul al VII-lea. A fost inima puternicului Imperiu Srivijaya, un centru budist și comercial care domina rutele maritime dintre China și India. Orașul este străbătut de fluviul Musi, care împarte localitatea în două zone, Seberang Ulu și Seberang Ilir, conectate de emblematicul Pod Ampera. Palembang este faimos pentru moștenirea sa culturală, inclusiv arta țesutului Songket și bucătăria bazată pe pește, reprezentată de faimosul Pempek. Recent, orașul a găzduit evenimente sportive internaționale majore, precum Jocurile Asiatice, beneficiind de infrastructură modernă, inclusiv un sistem de metrou ușor. Geografie K8 — Istorie și geografie regională.",
+      "factsAdvanced": [
+        "Unul dintre cele mai vechi orașe din Indonezia, datând din anul 682 d.Hr.",
+        "A fost capitala Imperiului Srivijaya, o putere maritimă majoră.",
+        "Podul Ampera, construit în 1962, este simbolul central al orașului.",
+        "Râul Musi are o lungime de 750 km și este artera vitală a zonei.",
+        "Găzduiește Complexul Sportiv Jakabaring, de talie internațională.",
+        "Pempek este preparatul tradițional realizat din pește și tapioca.",
+        "A fost un centru important al comerțului cu mirodenii în perioada colonială."
+      ]
+    },
+    {
+      "id": "denpasar-cities-v2",
+      "descriptionAdvanced": "Denpasar, capitala vibrantă a insulei Bali, servește ca principal nod administrativ și comercial al celei mai populare destinații turistice din Indonezia. Deși mulți turiști se îndreaptă direct către plaje, orașul oferă o incursiune autentică în cultura balineză prin templele sale bogat ornamentate și piețele tradiționale pline de viață, cum ar fi Pasar Badung. Monumentul Bajra Sandhi, situat în centrul orașului, onorează luptele poporului balinez de-a lungul istoriei și oferă o panoramă superbă. Muzeul Bali păstrează artefacte prețioase care ilustrează tradițiile artistice și religioase ale insulei. Denpasar este un centru al educației și al artelor, găzduind numeroase universități și galerii. Orașul reflectă o combinație unică între ritmul modern al vieții urbane și respectul profund pentru tradițiile hinduse locale. Geografie K7 — Turism și dezvoltare durabilă.",
+      "factsAdvanced": [
+        "Capitala provinciei Bali și cel mai populat oraș de pe insulă.",
+        "Monumentul Bajra Sandhi a fost construit în 1987 și inaugurat în 2003.",
+        "Piața Badung este cea mai mare piață tradițională din Bali.",
+        "Orașul găzduiește anual celebrul Festival de Artă din Bali.",
+        "Numele „Denpasar” înseamnă literal „la nord de piață”.",
+        "Pura Jagatnatha este cel mai mare templu hindus din oraș.",
+        "Aeroportul Internațional Ngurah Rai este situat la 13 km sud de oraș."
+      ]
+    },
+    {
+      "id": "yogyakarta-cities-v2",
+      "descriptionAdvanced": "Yogyakarta, cunoscut afectuos sub numele de Jogja, este centrul cultural și spiritual al insulei Java, fiind singura provincie din Indonezia condusă încă de o monarhie precolonială. Orașul găzduiește Palatul Sultanului (Kraton), un complex arhitectural care servește drept reședință regală și centru al tradițiilor javaneze. Yogyakarta este renumit pentru arta sa, inclusiv teatrul de umbre Wayang Kulit, dansurile clasice și tehnica batik. Situat în apropierea maiestuoaselor temple Borobudur și Prambanan, orașul atrage milioane de vizitatori anual. Strada Malioboro este inima comercială a orașului, plină de artizani locali și mâncare stradală, precum celebrul Gudeg. Ca centru educațional de prestigiu, Jogja găzduiește Universitatea Gadjah Mada, cea mai veche și mai mare universitate din țară. Geografie K9 — Patrimoniu cultural și sisteme politice.",
+      "factsAdvanced": [
+        "Este capitala Regiunii Speciale Yogyakarta, condusă de un Sultan.",
+        "Kratonul (Palatul Sultanului) a fost fondat oficial în anul 1755.",
+        "Situat la poalele vulcanului activ Muntele Merapi.",
+        "Centru mondial al tehnicii batik, inclusă în patrimoniul UNESCO.",
+        "Găzduiește Universitatea Gadjah Mada, fondată în anul 1949.",
+        "Strada Malioboro este celebra arteră comercială și turistică.",
+        "Este poarta principală de acces către templul budist Borobudur.",
+        "Gudeg, un preparat din jackfruit, este simbolul culinar local."
+      ]
+    },
+    {
+      "id": "pontianak-cities-v2",
+      "descriptionAdvanced": "Pontianak, capitala provinciei Kalimantan de Vest, este cunoscut sub numele de „Orașul Ecuatorului” datorită locației sale geografice unice, fiind traversat direct de linia imaginară a Ecuatorului. Orașul este situat la confluența fluviilor Kapuas și Landak, fluviul Kapuas fiind cel mai lung curs de apă din Indonezia. Monumentul Ecuatorului este principala atracție, unde vizitatorii pot experimenta fenomenul de umbră zero de două ori pe an. Pontianak are o structură demografică diversă, cu influențe puternice din culturile Malay, chineză și Dayak. Palatul Kadriah și Marea Moschee Jami reflectă moștenirea istorică a sultanatului local. Orașul este un centru comercial important pentru resursele naturale ale insulei Borneo, precum cauciucul și uleiul de palmier. Geografie K7 — Elemente de geografie fizică și matematică.",
+      "factsAdvanced": [
+        "Singurul oraș din lume situat exact pe linia Ecuatorului.",
+        "Monumentul Ecuatorului a fost construit inițial în anul 1928.",
+        "Situat pe fluviul Kapuas, cel mai lung din Indonezia (1.143 km).",
+        "Fondat pe 23 octombrie 1771 de către Syarif Abdurrahman Alkadrie.",
+        "Găzduiește Podul Kapuas, o infrastructură vitală în Borneo.",
+        "Cunoscut pentru industria de prelucrare a lemnului și a cauciucului.",
+        "Festivalul Barcilor Dragon este un eveniment cultural chinezesc major."
+      ]
+    },
+    {
+      "id": "banjarmasin-cities-v2",
+      "descriptionAdvanced": "Banjarmasin, capitala provinciei Kalimantan de Sud, este supranumit „Orașul celor o mie de râuri” datorită rețelei complexe de căi navigabile care îi definesc peisajul urban. Viața orașului se desfășoară în mare parte pe apă, piețele plutitoare tradiționale, precum Muara Kuin, fiind simboluri iconice ale culturii locale. Aici, comercianții își vând produsele proaspete direct din bărci numite „jukung”, oferind un spectacol plin de culoare la primele ore ale dimineții. Orașul are o istorie bogată legată de comerțul cu diamante și pietre prețioase, centrul de prelucrare din apropiere, Martapura, fiind renumit în întreaga lume. Marea Moschee Sabilal Muhtadin domină orizontul cu arhitectura sa impresionantă. Banjarmasin rămâne un centru vital pentru industria minieră și agricolă din Borneo. Geografie K8 — Valorificarea resurselor naturale și transportul fluvial.",
+      "factsAdvanced": [
+        "Supranumit „Orașul celor o mie de râuri” datorită Deltei râului Barito.",
+        "Piața plutitoare Muara Kuin are o vechime de peste 400 de ani.",
+        "Este un centru mondial important pentru comerțul cu diamante.",
+        "Moscheea Sabilal Muhtadin poate găzdui până la 15.000 de persoane.",
+        "Orașul a fost capitala istorică a Sultanatului de Banjar.",
+        "Transportul tradițional se bazează pe bărci motorizate numite „klotok”.",
+        "Găzduiește anual festivalul cultural „Masihi Banjar”."
+      ]
+    },
+    {
+      "id": "balikpapan-cities-v2",
+      "descriptionAdvanced": "Balikpapan, situat pe coasta de est a insulei Borneo, în provincia Kalimantan de Est, este recunoscut drept principalul hub petrolier și energetic al Indoneziei. Orașul s-a dezvoltat spectaculos în jurul rafinăriilor gigantice gestionate de Pertamina, fiind astăzi unul dintre cele mai curate și mai bine administrate orașe din țară. Balikpapan oferă un contrast interesant între zonele industriale moderne și conservarea naturii, cum ar fi sanctuarul de urangutani de la Samboja Lestari din apropiere. Plajele Kemala și Manggar sunt destinații populare pentru relaxare, în timp ce parcul de aventură Bangkirai Hill oferă experiențe unice în coronamentul pădurii tropicale. Orașul servește ca principală poartă de acces către viitoarea capitală a Indoneziei, Nusantara, aflată în construcție. Geografie K10 — Resurse energetice și planificare urbană.",
+      "factsAdvanced": [
+        "Cunoscut sub numele de „Orașul Petrolului” (Kota Minyak).",
+        "Găzduiește una dintre cele mai mari rafinării de petrol din țară.",
+        "Aeroportul Sultan Aji Muhammad Sulaiman este unul dintre cele mai moderne.",
+        "Locul unei bătălii importante în al Doilea Război Mondial (1945).",
+        "Este poarta principală către noua capitală a Indoneziei, Nusantara.",
+        "Sanctuarul Sun Bear (ursul malaez) se află la marginea orașului.",
+        "A câștigat repetat premiul „Adipura” pentru curățenie urbană."
+      ]
+    },
+    {
+      "id": "pekanbaru-cities-v2",
+      "descriptionAdvanced": "Pekanbaru, capitala provinciei Riau din insula Sumatra, este un centru economic dinamic, motorizat de industriile petrolului și uleiului de palmier. Orașul este situat pe malul fluviului Siak, care a jucat istoric un rol crucial în transportul mărfurilor către strâmtoarea Malacca. Pekanbaru reflectă o puternică moștenire culturală Malay, vizibilă în arhitectura clădirilor guvernamentale și a centrului cultural Idrus Tintin. Marea Moschee An-Nur, cu un design care amintește de celebrul Taj Mahal, este un reper spiritual major. În apropiere se află Palatul Siak Sri Indrapura, o bijuterie arhitecturală a fostului sultanat. Orașul s-a transformat rapid dintr-un mic nod comercial într-o metropolă modernă, cu numeroase centre comerciale și universități, fiind un punct strategic pentru comerțul regional. Geografie K8 — Economia resurselor și dezvoltare industrială.",
+      "factsAdvanced": [
+        "Capitala provinciei Riau și al treilea oraș ca mărime din Sumatra.",
+        "Centrul administrativ al celei mai bogate regiuni petroliere.",
+        "Moscheea An-Nur este supranumită „Taj Mahal-ul din Riau”.",
+        "Râul Siak este cel mai adânc râu din întreaga indonezie.",
+        "Numele orașului se traduce prin „Piața Nouă” în limba română.",
+        "Găzduiește Universitatea Riau, o instituție de prestigiu în regiune.",
+        "Este un nod important pentru exportul global de ulei de palmier."
+      ]
+    },
+    {
+      "id": "manado-cities-v2",
+      "descriptionAdvanced": "Manado, capitala provinciei Sulawesi de Nord, este faimos în întreaga lume pentru biodiversitatea sa marină spectaculoasă și peisajele montane vulcanice. Orașul este poarta de acces către Parcul Național Marin Bunaken, una dintre cele mai apreciate destinații de scufundări de pe glob, renumită pentru pereții săi de corali și varietatea de pești tropicali. Manado are o identitate culturală distinctă, fiind un centru al creștinismului în Indonezia, simbolizat prin statuia impunătoare „Christ Blessing”. Gastronomia locală Minahasa este celebră pentru aromele sale extrem de picante și utilizarea ingredientelor exotice. Orașul este înconjurat de vulcani activi, precum Lokon și Mahawu, oferind oportunități excelente pentru drumeții. Ospitalitatea locuitorilor și atmosfera relaxată fac din Manado o destinație turistică de top. Geografie K9 — Biodiversitate și turism ecologic.",
+      "factsAdvanced": [
+        "Capitala provinciei Sulawesi de Nord, situată în Golful Manado.",
+        "Bunaken găzduiește peste 70% din speciile de pești din Pacificul de Vest.",
+        "Statuia „Christ Blessing” are o înălțime totală de 50 de metri.",
+        "Populația majoritară a orașului aparține etniei Minahasa.",
+        "A fost un centru important al comerțului cu mirodenii olandez.",
+        "Orașul este renumit pentru „Tinutuan”, un terci tradițional de legume.",
+        "În anul 2009 a găzduit Conferința Mondială a Oceanelor."
+      ]
+    },
+    {
+      "id": "kuta-cities-v2",
+      "descriptionAdvanced": "Kuta, situată în sudul insulei Bali, s-a transformat dintr-un sat liniștit de pescari în una dintre cele mai celebre și animate destinații turistice din lume. Cunoscută pentru plaja sa lungă cu nisip fin și valuri ideale pentru începătorii în surfing, Kuta este inima divertisentului și a vieții de noapte din Bali. Orașul găzduiește numeroase complexe comerciale moderne, restaurante internaționale și piețe de artizanat local. Monumentul Memorial al Bombardamentelor din 2002, situat pe strada Legian, aduce un omagiu victimelor evenimentului tragic, fiind un loc de reculegere important. Kuta rămâne un simbol al turismului de masă, oferind o varietate imensă de opțiuni de cazare, de la pensiuni pentru backpackeri la hoteluri de lux. Apusurile de soare pe plaja Kuta sunt legendare. Geografie K7 — Impactul turismului asupra mediului și societății.",
+      "factsAdvanced": [
+        "Prima zonă din Bali dezvoltată major pentru turismul internațional.",
+        "Plaja Kuta are o lungime de aproximativ 2,5 kilometri de nisip.",
+        "Monumentul Ground Zero comemorează victimele atacurilor din 2002.",
+        "Este considerată cel mai bun loc din lume pentru a învăța surfing.",
+        "Waterbom Bali din Kuta este un parc acvatic de top în Asia.",
+        "Districtul este faimos pentru centrul comercial Beachwalk.",
+        "Situată strategic lângă Aeroportul Internațional Ngurah Rai."
+      ]
+    },
+    {
+      "id": "bogor-cities-v2",
+      "descriptionAdvanced": "Bogor, situat la aproximativ 60 km sud de Jakarta, este cunoscut sub numele de „Orașul Ploii” datorită frecvenței ridicate a precipitațiilor, care mențin o vegetație luxuriantă. Principala atracție este Grădina Botanică din Bogor (Kebun Raya), una dintre cele mai vechi și mai mari din lume, fondată în 1817 de olandezi. Aici se află Palatul Prezidențial Bogor, o clădire istorică impunătoare unde de multe ori sunt primiți lideri mondiali. Orașul se bucură de un climat mai răcoros decât capitala, fiind o destinație preferată de weekend pentru locuitorii din Jakarta. Bogor este de asemenea un centru important al cercetării agricole, găzduind Institutul Agricol din Bogor (IPB). Peisajul este dominat de Muntele Salak și Muntele Gede. Geografie K8 — Zone climatice și conservarea biodiversității.",
+      "factsAdvanced": [
+        "Fondat în 1745 sub numele olandez Buitenzorg („fără griji”).",
+        "Grădina Botanică găzduiește peste 13.000 de specii de plante.",
+        "Palatul Prezidențial are sute de căprioare care trăiesc liber.",
+        "Are una dintre cele mai mari frecvențe de fulgere din lume.",
+        "Este sediul Centrului Internațional de Cercetări Forestiere (CIFOR).",
+        "Găzduiește Muzeul Zoologic din Bogor, înființat în anul 1894.",
+        "Situat la o altitudine medie de 265 de metri deasupra mării."
+      ]
+    },
+    {
+      "id": "jayapura-cities-v2",
+      "descriptionAdvanced": "Jayapura, capitala provinciei Papua din estul extrem al Indoneziei, este un oraș situat într-un cadru natural spectaculos, între dealuri împădurite și Golful Yos Sudarso. Orașul servește ca principal centru administrativ și economic al regiunii, fiind poarta de acces către bogățiile naturale și diversitatea culturală a insulei Noua Guinee. Lacul Sentani, situat în apropiere, este faimos pentru peisajele sale pitorești și comunitățile de pescari care trăiesc în case pe piloni. Jayapura are o istorie interesantă, fiind un punct strategic important în timpul celui de-al Doilea Război Mondial, servind drept bază pentru forțele aliate. Astăzi, orașul se dezvoltă rapid, reflectând eforturile de modernizare a provinciei Papua. Mixul cultural îi conferă un caracter cosmopolit unic. Geografie K10 — Disparități regionale și dezvoltarea zonelor periferice.",
+      "factsAdvanced": [
+        "Capitala celei mai estice provincii din Indonezia, Papua.",
+        "Fondat în 1910 sub numele de Hollandia de către olandezi.",
+        "Situat pe malul pitoresc al Golfului Yos Sudarso.",
+        "Lacul Sentani din apropiere găzduiește peste 20 de insule mici.",
+        "Monumentul Generalului MacArthur amintește de luptele din 1944.",
+        "Este cel mai mare oraș din partea indoneziană a Noii Guinee.",
+        "Găzduiește Universitatea Cenderawasih, fondată în anul 1962."
+      ]
+    },
+    {
+      "id": "padang-cities-v2",
+      "descriptionAdvanced": "Padang, capitala provinciei Sumatra de Vest, este inima culturii Minangkabau, renumită pentru sistemul său social matriliniar și arhitectura distinctivă cu acoperișuri în formă de coarne de bivol. Orașul este celebru în întreaga lume pentru „Nasi Padang”, un stil culinar bazat pe numeroase farfurii cu preparate picante servite simultan. Deși Padang a suferit daune majore în urma cutremurelor recente, spiritul rezilient al locuitorilor a permis reconstrucția rapidă. Muzeul Adityawarman păstrează artefacte culturale prețioase, ilustrând tradițiile și istoria locală. Plaja Air Manis este legată de legenda lui Malin Kundang, fiul neascultător transformat în piatră. Padang este de asemenea un nod de transport vital către insulele Mentawai. Geografie K9 — Riscuri naturale și adaptarea comunităților umane.",
+      "factsAdvanced": [
+        "Capitala provinciei Sumatra de Vest și centrul culturii Minangkabau.",
+        "Faimos pentru preparatul „Rendang”, votat cel mai bun din lume.",
+        "Podul Siti Nurbaya este un punct iconic pentru apusurile de soare.",
+        "Plaja Air Manis găzduiește faimoasa stâncă Malin Kundang.",
+        "Orașul este situat într-o zonă cu activitate seismică foarte ridicată.",
+        "Găzduiește Universitatea Andalas, cea mai veche din afara Javei.",
+        "Arhitectura tradițională „Rumah Gadang” este simbolul regiunii."
+      ]
+    },
+    {
+      "id": "solo-surakarta-cities-v2",
+      "descriptionAdvanced": "Solo, cunoscut oficial sub numele de Surakarta, este „orașul geamăn” al Yogyakarta, reprezentând un alt pilon fundamental al civilizației și culturii javaneze. Orașul găzduiește două palate regale importante, Kraton Kasunanan și Pura Mangkunegaran, care continuă să fie centre ale tradițiilor și artelor clasice. Solo este considerat centrul mondial al producției de batik, cartierul Laweyan fiind celebru pentru atelierele sale istorice de textile. Orașul este renumit pentru atmosfera sa mai liniștită și rafinată, dar și pentru o scenă culinară stradală extrem de diversă și accesibilă. Motto-ul orașului, „The Spirit of Java”, reflectă angajamentul său de a păstra valorile tradiționale într-o lume modernă. Solo s-a dezvoltat ca un hub cultural și turistic major. Geografie K10 — Continuitate culturală și structuri sociale tradiționale.",
+      "factsAdvanced": [
+        "Reședința a două monarhii javaneze: Kasunanan și Mangkunegaran.",
+        "Epicentrul industriei textile Batik de cea mai înaltă calitate.",
+        "Găzduiește piața de antichități Pasar Triwindu, unică în Indonezia.",
+        "Este orașul natal al președintelui Indoneziei, Joko Widodo.",
+        "Râul Solo (Bengawan Solo) este cel mai lung din Java (600 km).",
+        "Găzduiește anual festivalul spectaculos Solo Batik Carnival.",
+        "Nasi Liwet este preparatul culinar emblematic al orașului."
+      ]
+    },
+    {
+      "id": "batam-cities-v2",
+      "descriptionAdvanced": "Batam, situat în provincia Insulele Riau, este o insulă transformată dintr-o zonă sălbatică într-un gigant industrial și turistic, datorită proximității sale de Singapore. Fiind parte a unei Zone Economice Speciale, Batam a atras investiții masive în producția electronică și construcțiile navale. Orașul este conectat printr-un sistem impresionant de șase poduri, numit Podul Barelang, care leagă mai multe insule între ele. Pentru turiști, Batam oferă numeroase terenuri de golf de talie mondială, stațiuni de lux și oportunități de cumpărături scutite de taxe. Terminalele sale de feribot sunt printre cele mai aglomerate din țară, facilitând tranzitul zilnic către Singapore și Malaezia. Creșterea rapidă a populației face din Batam un model de urbanizare accelerată. Geografie K10 — Globalizare și zone economice libere.",
+      "factsAdvanced": [
+        "Situat la o distanță de doar 20 de kilometri de Singapore.",
+        "Face parte din triunghiul de creștere economică regional Sijori.",
+        "Podul Barelang este un simbol arhitectural compus din 6 poduri.",
+        "A treia poartă principală de intrare a turiștilor în țară.",
+        "Găzduiește sute de șantiere navale și fabrici de componente electronice.",
+        "Moscheea Mare din Batam are o formă piramidală distinctivă.",
+        "Statusul de port liber facilitează comerțul internațional intens."
+      ]
+    },
+    {
+      "id": "ambon-cities-v2",
+      "descriptionAdvanced": "Ambon, capitala provinciei Maluku, este un oraș cu o istorie fascinantă, strâns legată de comerțul mondial cu mirodenii, precum cușoarele și nucșoara. Cunoscut sub numele de „Ambon Manise” (Ambon cel Frumos), orașul este situat pe o insulă muntoasă, oferind priveliști superbe asupra golfului. Moștenirea colonială portugheză și olandeză este vizibilă în ruinele forturilor și în cultura locală. Ambon este recunoscut oficial de UNESCO drept „Oraș al Muzicii”, reflectând talentul excepțional al locuitorilor săi. Orașul a devenit un exemplu de reconciliere și conviețuire armonioasă între diferite comunități religioase. Plajele din jur, cum ar fi Natsepa și Liang, sunt renumite pentru apele lor cristaline și peisajul tropical intact. Geografie K8 — Istoria marilor descoperiri geografice și resursele biologice.",
+      "factsAdvanced": [
+        "Capitala istorică a faimoaselor „Insule ale Mirodeniilor” (Moluce).",
+        "Desemnat de UNESCO drept „City of Music” în anul 2019.",
+        "Fort Victoria a fost construit de portughezi în anul 1575.",
+        "Monumentul Martha Christina Tiahahu onorează o eroină națională locală.",
+        "Orașul este un centru global pentru producția de cușoare.",
+        "Podul Merah Putih este cel mai lung pod din estul țării.",
+        "Populația este un mix divers de comunități creștine și musulmane."
+      ]
+    },
+    {
+      "id": "cirebon-cities-v2",
+      "descriptionAdvanced": "Cirebon, situat pe coasta de nord a provinciei Java de Vest, este un oraș portuar cu o identitate culturală unică, rezultată din amestecul influențelor javaneze, sundaneze, chineze și arabe. Orașul a fost sediul unui puternic sultanat islamic, fondat de Sunan Gunung Jati, unul dintre cei nouă sfinți ai Islamului din Java. Palatele Kasepuhan și Kanoman păstrează arhitectura tradițională și artefacte regale impresionante. Cirebon este faimos pentru stilul său specific de batik, numit „Megamendung”, care prezintă modele de nori sub influență chineză. Economia orașului se bazează pe pescuit, comerț și industria manufacturieră. Gastronomia locală este distinctă, cu preparate precum „Empal Gentong”. Cirebon este un nod important de transport feroviar și rutier. Geografie K9 — Difuziunea culturii și istoria religiilor.",
+      "factsAdvanced": [
+        "Cunoscut sub numele popular de „Orașul Creveților” (Kota Udang).",
+        "Centru major al răspândirii Islamului în secolul al XV-lea.",
+        "Palatul Kasepuhan este cel mai vechi, datând din anul 1529.",
+        "Designul Batik Megamendung este simbolul cultural al orașului.",
+        "Grădina Sunyaragi este un complex de peșteri artificiale unicat.",
+        "Orașul are un amestec lingvistic de javaneză și sundaneză.",
+        "Portul Cirebon a fost un punct cheie pe ruta mirodeniilor."
+      ]
+    },
+    {
+      "id": "malang-cities-v2",
+      "descriptionAdvanced": "Malang, al doilea oraș ca mărime din Java de Est, este situat într-o zonă înaltă, oferind un climat răcoros care a atras coloniștii olandezi în trecut. Orașul este renumit pentru arhitectura sa colonială bine conservată, bulevardele largi și atmosfera relaxată. Malang este un centru educațional major, găzduind numeroase universități de prestigiu. Orașul servește ca principală bază de plecare pentru excursiile către Muntele Bromo și Parcul Național Bromo Tengger Semeru. În împrejurimi se află numeroase livezi de meri, Malang fiind considerat centrul producției de fructe din Java. Parcurile tematice moderne din zona Batu, aflată în apropiere, fac din această regiune o destinație turistică de familie ideală. Cultura locală este vibrantă și plină de tradiții. Geografie K9 — Amenajarea teritoriului și funcțiile urbane.",
+      "factsAdvanced": [
+        "Situat la o altitudine între 440 și 667 metri deasupra mării.",
+        "Găzduiește cartierul colorat Jodipan (Kampung Warna-Warni).",
+        "Este principalul producător de mere (soiul Manalagi) din Indonezia.",
+        "Găzduiește clubul de fotbal Arema FC și fanii săi „Aremania”.",
+        "Primăria (Balai Kota) este un exemplu de arhitectură colonială.",
+        "Templul Singosari din apropiere datează din secolul al XIII-lea.",
+        "Nod feroviar vital ce leagă Java de Est de capitala Jakarta."
+      ]
+    },
+    {
+      "id": "samarinda-cities-v2",
+      "descriptionAdvanced": "Samarinda, capitala provinciei Kalimantan de Est, este situat pe malurile maiestuosului fluviu Mahakam, la aproximativ 48 de kilometri de mare. Orașul este inima comercială a regiunii, fiind strâns legat de industriile forestieră și minieră, în special exploatarea cărbunelui. Un simbol al identității locale este țesătura tradițională „Sarung Samarinda”, renumită pentru calitatea sa manuală. Marea Moschee Islamic Center din Samarinda domină peisajul urban cu minaretele sale înalte, fiind una dintre cele mai mari din Asia de Sud-Est. Fluviul Mahakam este habitatul rarului delfin de apă dulce, Irrawaddy, și o arteră de transport esențială. Orașul se modernizează rapid, beneficiind de proximitatea față de viitoarea capitală națională, Nusantara. Geografie K8 — Exploatarea resurselor minerale și ecosisteme fluviale.",
+      "factsAdvanced": [
+        "Capitala provinciei Kalimantan de Est, pe fluviul Mahakam.",
+        "Sarung Samarinda este produs prin tehnici manuale de țesut.",
+        "Moscheea Islamic Center are minarete ce ating 99 de metri.",
+        "Râul Mahakam este a doua cea mai lungă cale navigabilă internă.",
+        "Este centrul logistic principal pentru exportul masiv de cărbune.",
+        "Podul Mahakam conectează cele două sectoare mari ale orașului.",
+        "Fondat în anul 1668 de un grup de migranți Bugis din Sulawesi."
+      ]
+    },
+    {
+      "id": "kupang-cities-v2",
+      "descriptionAdvanced": "Kupang, capitala provinciei Nusa Tenggara de Est, este cel mai important oraș și port din partea de vest a insulei Timor. Orașul are o istorie îndelungată ca punct de oprire pe ruta comercială a lemnului de santal, fiind disputat istoric de marile puteri coloniale. Kupang servește ca poartă de acces către minunile naturale ale arhipelagului estic, inclusiv insulele Rote și Alor. Cultura locală este bogată, instrumentul muzical tradițional „Sasando”, realizat din frunze de palmier, fiind un simbol al creativității timoreze. Peștera de Cristal este o atracție naturală spectaculoasă situată chiar la marginea orașului. Climatul semiarid și peisajele de savană diferențiază Kupang de restul Indoneziei tropicale. Geografie K7 — Diversitate peisagistică și resurse biogeografice.",
+      "factsAdvanced": [
+        "Cel mai mare oraș și port strategic de pe insula Timor.",
+        "A fost un centru administrativ pentru Compania Olandeză (VOC).",
+        "Sasando este un instrument muzical unic, originar din insula Rote.",
+        "Plaja Tablolong este renumită pentru apele sale turcoaz clare.",
+        "Găzduiește Muzeul Provincial NTT, celebru pentru textilele Ikat.",
+        "Este punctul final al raliului internațional de iahturi Sail Indonesia.",
+        "Peștera Kristal oferă o piscină naturală cu apă foarte limpede."
+      ]
+    },
+    {
+      "id": "tasikmalaya-cities-v2",
+      "descriptionAdvanced": "Tasikmalaya, situat în sud-estul provinciei Java de Vest, este cunoscut drept „Delhi de Java” datorită peisajului său deluros și importanței sale religioase. Orașul este un centru renumit pentru meșteșugurile tradiționale, inclusiv broderia fină și umbrelele de hârtie pictate manual, Payung Geulis. Tasikmalaya are o puternică identitate islamică, găzduind numeroase școli religioase (pesantren) care influențează viața socială. În apropiere se află vulcanul activ Galunggung, a cărui erupție din 1982 a transformat peisajul regional. Orașul s-a dezvoltat într-un hub industrial pentru industria textilă și prelucrarea bambusului. Atmosfera sa autentic sundaneză atrage vizitatori dornici să descopere inima culturală a Javei de Vest. Geografie K9 — Meșteșuguri tradiționale și geologie vulcanică.",
+      "factsAdvanced": [
+        "Supranumit „Delhi de Java” sau „Orașul Santri” (elevi religioși).",
+        "Vulcanul Galunggung (2.168 m) se află la doar 17 km de centru.",
+        "Centru major pentru producția de Payung Geulis (umbrele decorative).",
+        "Găzduiește Marea Moschee cu o arhitectură modernă impunătoare.",
+        "Faimos pentru broderiile realizate manual în districtul Kawalu.",
+        "Situat al o altitudine medie de 350 de metri deasupra mării.",
+        "Economia locală include peste 5.000 de micro-întreprinderi active."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kudu-gasfeld-economic-v2",
+      "descriptionAdvanced": "The Kudu Gas Field is a significant, yet historically underdeveloped, offshore natural gas deposit located approximately 130 kilometers off the southern coast of Namibia, near Oranjemund. Discovered in 1974 by Chevron, it contains estimated reserves of over 1.3 trillion cubic feet of natural gas. Despite multiple attempts over decades to commercialize the field—primarily through proposals to build a massive gas-fired power station onshore—the project has faced continuous financial and technical hurdles. If fully developed, it could transform Namibia from a net importer to an exporter of electricity. Earth Science K6 — offshore energy resources.",
+      "factsAdvanced": [
+        "Located 130 kilometers offshore in the Atlantic Ocean.",
+        "Discovered by Chevron prospectors in 1974.",
+        "Contains an estimated 1.3 trillion cubic feet of natural gas.",
+        "Aims to fuel a massive onshore gas-fired power plant.",
+        "Has faced decades of financial and developmental delays.",
+        "Could theoretically end Namibia's reliance on imported electricity."
+      ]
+    },
+    {
+      "id": "omburu-solarkraftwerk-economic-v2",
+      "descriptionAdvanced": "The Omburu Solar Power Plant is a pioneering 4.5-megawatt photovoltaic facility located near the town of Omaruru in the Erongo Region. Commissioned in 2015, it was Namibia's first utility-scale commercial solar power plant, constructed by the French company InnoSun. The facility utilizes a tracking system that allows the solar panels to follow the sun across the sky, maximizing energy capture in one of the sunniest regions on Earth. It serves as a benchmark for Namibia's ongoing transition toward sustainable, independent renewable energy. Earth Science K6 — solar energy.",
+      "factsAdvanced": [
+        "Located near the town of Omaruru in the Erongo Region.",
+        "Namibia's first utility-scale commercial solar power plant.",
+        "Officially commissioned into the national grid in 2015.",
+        "Features a 4.5-megawatt tracking photovoltaic system.",
+        "Constructed and operated by the French company InnoSun.",
+        "Takes advantage of Namibia's extremely high solar irradiance."
+      ]
+    },
+    {
+      "id": "erongo-entsalzungsanlage-economic-v2",
+      "descriptionAdvanced": "The Erongo Desalination Plant, located at Wlotzkasbaken north of Swakopmund, is the largest reverse-osmosis seawater desalination facility in Southern Africa. Originally constructed by Areva (now Orano) in 2010 to supply the massive water demands of the Trekkopje Uranium Mine, it was repurposed to supply the broader Erongo Region when the mine was mothballed. Today, it pumps millions of cubic meters of fresh water annually, sustaining coastal towns like Swakopmund and Walvis Bay, as well as multiple operating uranium mines, overcoming the extreme aridity of the Namib Desert. Geography K7 — water security and desalination.",
+      "factsAdvanced": [
+        "Located at Wlotzkasbaken, roughly 30 kilometers north of Swakopmund.",
+        "The largest reverse-osmosis desalination plant in Southern Africa.",
+        "Originally built in 2010 to supply the Trekkopje Uranium Mine.",
+        "Currently supplies water to multiple mines and coastal towns.",
+        "Capable of producing 20 million cubic meters of fresh water annually.",
+        "Crucial for water security in the hyper-arid Namib Desert."
+      ]
+    },
+    {
+      "id": "meatco-fleischfabrik-economic-v2",
+      "descriptionAdvanced": "The Meatco Abattoir and Processing Plant in Windhoek is the flagship facility of the Meat Corporation of Namibia, a state-owned enterprise representing the backbone of the national beef industry. The facility processes tens of thousands of cattle annually, strictly adhering to stringent international veterinary and hygiene standards. This allows Meatco to export premium, free-range, hormone-free Namibian beef to lucrative markets in the European Union, Norway, and China. The factory acts as a vital economic link between commercial and communal farmers and the global market. Geography K7 — agricultural exports.",
+      "factsAdvanced": [
+        "Flagship processing facility of the Meat Corporation of Namibia.",
+        "Located in the northern industrial area of Windhoek.",
+        "Processes tens of thousands of cattle annually.",
+        "Exports premium beef to the European Union and China.",
+        "Enforces strict international veterinary and hygiene standards.",
+        "Crucial economic link for Namibia's extensive cattle farming sector."
+      ]
+    },
+    {
+      "id": "namibia-brauereien-economic-v2",
+      "descriptionAdvanced": "Namibia Breweries Limited (NBL), headquartered in Windhoek, is one of the most iconic and economically significant manufacturing companies in the country. Founded in 1920 by Carl List and Hermann Ohlthaver, the brewery strictly adheres to the German Reinheitsgebot (Purity Law) of 1516, using only malted barley, hops, and water. NBL is most famous for its flagship brand, Windhoek Lager, which is exported extensively throughout Southern Africa and internationally. The brewery is a major industrial employer and a point of immense national pride. Geography K7 — industrial manufacturing.",
+      "factsAdvanced": [
+        "Headquartered in the capital city of Windhoek.",
+        "Originally founded in 1920 by Carl List and Hermann Ohlthaver.",
+        "Strictly brews beer according to the 1516 German Reinheitsgebot.",
+        "Most famous for producing the internationally exported Windhoek Lager.",
+        "One of the largest private manufacturing employers in Namibia.",
+        "Recently acquired by the massive Heineken brewing group."
+      ]
+    },
+    {
+      "id": "ebh-namibia-economic-v2",
+      "descriptionAdvanced": "Elgin Brown & Hamer (EBH) Namibia operates a massive ship repair and engineering facility located within the Port of Walvis Bay. The company maintains three floating dry docks, capable of lifting massive ocean-going vessels, including offshore oil rigs and large diamond mining ships, out of the water for comprehensive maintenance. EBH Namibia leverages Walvis Bay's strategic location along the Atlantic shipping routes, providing world-class maritime engineering services and employing hundreds of skilled local artisans, significantly boosting the coastal economy. Geography K7 — maritime engineering.",
+      "factsAdvanced": [
+        "Located strategically within the Port of Walvis Bay.",
+        "Operates three massive floating dry docks.",
+        "Services offshore oil rigs and specialized diamond mining vessels.",
+        "Capitalizes on Walvis Bay's location along Atlantic shipping routes.",
+        "Employs hundreds of skilled local maritime artisans.",
+        "A joint venture including the Namibian Ports Authority (Namport)."
+      ]
+    },
+    {
+      "id": "namdia-diamantenhandel-economic-v2",
+      "descriptionAdvanced": "The Namibian Desert Diamonds (NAMDIA) headquarters is located in Windhoek and serves as a state-owned diamond marketing and sales company. Established in 2016, NAMDIA was created to discover the true international market value of Namibia's exceptionally high-quality diamonds, independent of the traditional De Beers sales channels. The company purchases a mandated percentage of Namdeb's diamond production and auctions it to international buyers. NAMDIA represents a critical step in Namibia's strategy to maximize national revenue from its most valuable natural resource. Earth Science K6 — diamond economics.",
+      "factsAdvanced": [
+        "Headquartered in Windhoek, established by the government in 2016.",
+        "Functions as a state-owned diamond marketing and sales entity.",
+        "Created to discover the independent market value of Namibian diamonds.",
+        "Purchases a specific percentage of all Namdeb diamond production.",
+        "Sells highly sought-after gem-quality stones to international buyers.",
+        "Aims to maximize national revenue from the diamond sector."
+      ]
+    },
+    {
+      "id": "dundee-precious-metals-tsumeb-economic-v2",
+      "descriptionAdvanced": "The Dundee Precious Metals Smelter in Tsumeb is one of the most advanced complex-ore smelters in the world. Originally built in the early 1900s to process local copper, the facility was acquired by the Canadian firm Dundee Precious Metals in 2010. It specializes in processing highly complex copper concentrates, particularly those containing high levels of arsenic, imported from international mines in places like Bulgaria and South America. The facility recently underwent massive upgrades to capture toxic sulfur dioxide emissions and produce valuable sulfuric acid. Earth Science K6 — complex ore smelting.",
+      "factsAdvanced": [
+        "Located in the historic mining town of Tsumeb.",
+        "One of the few smelters globally that processes complex arsenic-heavy ores.",
+        "Acquired by Canadian company Dundee Precious Metals in 2010.",
+        "Imports complex copper concentrates from Europe and South America.",
+        "Recently upgraded to capture toxic sulfur dioxide emissions.",
+        "Produces industrial sulfuric acid as a valuable by-product."
+      ]
+    },
+    {
+      "id": "kolmanskuppe-history-v2",
+      "descriptionAdvanced": "Kolmanskop (Kolmanskuppe) is Namibia's most famous ghost town, situated in the Sperrgebiet just 10 kilometers inland from Lüderitz. Founded in 1908 following the discovery of a diamond by a railway worker, the town rapidly became a wealthy German mining settlement, featuring a hospital, ballroom, and the Southern Hemisphere's first x-ray station. Following the drop in diamond prices after World War I and the discovery of richer deposits further south, the town was gradually abandoned by 1956. Today, the majestic colonial buildings are slowly being consumed by the shifting dunes of the Namib Desert. Geschichte K8 — diamond rush and ghost towns.",
+      "factsAdvanced": [
+        "Located just 10 kilometers inland from the port of Lüderitz.",
+        "Founded in 1908 during a massive regional diamond rush.",
+        "Once featured the Southern Hemisphere's first x-ray station.",
+        "Gradually abandoned and completely deserted by 1956.",
+        "The historic German buildings are currently half-buried in sand.",
+        "Now serves as a highly popular tourist destination and museum."
+      ]
+    },
+    {
+      "id": "twyfelfontein-history-v2",
+      "descriptionAdvanced": "Twyfelfontein, known in the local Damara language as /Ui-//aes, is a massive open-air gallery of rock engravings located in the Kunene Region. The site contains over 2,000 petroglyphs created by San hunter-gatherers over a period of 2,000 to 6,000 years, making it one of the largest concentrations of rock art in Africa. The engravings depict a variety of wildlife, including rhinos, elephants, and ostriches, as well as human and animal footprints, reflecting the spiritual and shamanic practices of the ancient inhabitants. It was designated as Namibia's first UNESCO World Heritage Site in 2007. Geschichte K8 — ancient rock art.",
+      "factsAdvanced": [
+        "Located in the rugged Damaraland area of the Kunene Region.",
+        "Contains over 2,000 distinct ancient rock engravings (petroglyphs).",
+        "Created by San hunter-gatherers between 2,000 and 6,000 years ago.",
+        "Local Damara name '/Ui-//aes' means 'jumping waterhole'.",
+        "Designated as Namibia's first UNESCO World Heritage Site in 2007.",
+        "Depicts diverse wildlife and shamanic transformations."
+      ]
+    },
+    {
+      "id": "christuskirche-history-v2",
+      "descriptionAdvanced": "The Christuskirche (Christ Church) is a historic landmark and the most recognizable building in Windhoek. Consecrated in 1910 after three years of construction, it was built by the German colonial administration to commemorate peace following the brutal Herero-German War. Designed by architect Gottlieb Redecker in a mixture of neo-Gothic and Art Nouveau styles, it was constructed using local quartz sandstone. The original stained-glass windows were a gift from Emperor Wilhelm II, though they had to be restored after being installed backwards. Geschichte K8 — colonial architecture and monuments.",
+      "factsAdvanced": [
+        "Located on a prominent traffic island in central Windhoek.",
+        "Consecrated in 1910 to commemorate the end of the Herero War.",
+        "Designed by German architect Gottlieb Redecker.",
+        "Built using local quartz sandstone from the Avis area.",
+        "The original stained-glass windows were a gift from Emperor Wilhelm II.",
+        "Blends neo-Gothic and Art Nouveau architectural styles."
+      ]
+    },
+    {
+      "id": "alte-feste-history-v2",
+      "descriptionAdvanced": "The Alte Feste (Old Fortress) in Windhoek is the oldest surviving building in the capital city. Its construction began in 1890 under the command of Captain Curt von François to serve as the headquarters for the German Schutztruppe (colonial troops) during the early days of German South West Africa. Initially designed as a defensive stronghold amidst ongoing conflicts with local tribes, it never actually saw battle. The fortress was later converted into a hostel and eventually became the National Museum of Namibia, housing extensive historical collections. Geschichte K8 — early colonial military.",
+      "factsAdvanced": [
+        "The oldest surviving building in Windhoek, dating back to 1890.",
+        "Constructed under the command of Captain Curt von François.",
+        "Originally built as the headquarters for the German Schutztruppe.",
+        "Located prominently on a hill overlooking the city center.",
+        "Historically served as a military base and a school hostel.",
+        "Currently functions as a repository for the National Museum."
+      ]
+    },
+    {
+      "id": "heldenacker-history-v2",
+      "descriptionAdvanced": "Heroes' Acre is a monumental war memorial located just south of Windhoek, built to commemorate the patriots who lost their lives during the Namibian War of Independence. Inaugurated in 2002 by founding President Sam Nujoma, the expansive monument was constructed by the North Korean company Mansudae Overseas Projects, which is reflected in its imposing, socialist-realist architectural style. The site features an eternal flame, a towering obelisk, a massive bronze statue of the Unknown Soldier, and over 170 gravesites reserved for recognized national heroes. Geschichte K8 — independence and memorialization.",
+      "factsAdvanced": [
+        "Monumental war memorial located 10 kilometers south of Windhoek.",
+        "Inaugurated on August 26, 2002, by President Sam Nujoma.",
+        "Commemorates heroes of the Namibian War of Independence.",
+        "Constructed by the North Korean firm Mansudae Overseas Projects.",
+        "Features a towering obelisk and a bronze Unknown Soldier statue.",
+        "Contains over 170 gravesites reserved for national heroes."
+      ]
+    },
+    {
+      "id": "haifischinsel-history-v2",
+      "descriptionAdvanced": "Shark Island (Haifischinsel), located in the bay of Lüderitz, is a site of immense historical tragedy. Between 1905 and 1907, during the Herero and Namaqua genocide, the German colonial authorities used the island as an extermination camp. Thousands of Herero and Nama prisoners were held here in horrific, freezing conditions without adequate food, shelter, or medical care, leading to the deaths of up to 3,000 individuals. Today, the peninsula—now connected to the mainland—functions as a campsite, though a modest memorial commemorates the victims of this dark chapter. Geschichte K8 — colonial genocide.",
+      "factsAdvanced": [
+        "Located on a small peninsula in the bay of Lüderitz.",
+        "Used as a German extermination camp between 1905 and 1907.",
+        "Held thousands of Herero and Nama prisoners during the genocide.",
+        "An estimated 3,000 prisoners died here from exposure and starvation.",
+        "Currently connected to the mainland and used as a public campsite.",
+        "Features a memorial plaque commemorating the victims."
+      ]
+    },
+    {
+      "id": "felsenkirche-history-v2",
+      "descriptionAdvanced": "The Felsenkirche (Church on the Rock) is a striking Evangelical Lutheran church perched on Diamond Mountain overlooking the town of Lüderitz. Dedicated in 1912, it is a magnificent example of vertical Victorian Gothic architecture, constructed from local stone. The church's elevated position makes it visible from almost anywhere in the town. Its stunning stained-glass windows, including one depicting a unique African setting, were donated by Emperor Wilhelm II of Germany. It stands as a testament to the brief but intense period of German colonial wealth generated by the diamond boom. Geschichte K8 — colonial religious architecture.",
+      "factsAdvanced": [
+        "Evangelical Lutheran church located in Lüderitz.",
+        "Consecrated in 1912 during the height of the diamond boom.",
+        "Built in the vertical Victorian Gothic architectural style.",
+        "Constructed atop the solid rock of Diamond Mountain.",
+        "Features stained-glass windows donated by Emperor Wilhelm II.",
+        "Dominates the Lüderitz skyline overlooking the Atlantic Ocean."
+      ]
+    },
+    {
+      "id": "schloss-duwisib-history-v2",
+      "descriptionAdvanced": "Duwisib Castle is an extraordinary, surreal historical anomaly: a genuine German-style medieval fortress built in the middle of the semi-arid Hardap Region. Completed in 1909, it was commissioned by Captain Hans Heinrich von Wolf, a Saxon artillery officer, for his wealthy American wife, Jayta Humphreys. The castle features 22 rooms and was constructed using red sandstone, with most materials and lavish furnishings shipped from Germany to Lüderitz and hauled across the desert by ox-wagon. Von Wolf was killed in WWI, and the castle is now a national monument. Geschichte K8 — colonial eccentricity.",
+      "factsAdvanced": [
+        "A genuine German-style medieval castle in the Hardap Region.",
+        "Completed in 1909 by Captain Hans Heinrich von Wolf.",
+        "Financed by von Wolf's wealthy American wife, Jayta Humphreys.",
+        "Features 22 rooms constructed from locally quarried red sandstone.",
+        "Furnishings were shipped from Germany and transported by ox-wagon.",
+        "Now operated as a museum and national monument."
+      ]
+    },
+    {
+      "id": "weisse-dame-history-v2",
+      "descriptionAdvanced": "The 'White Lady' is a famous and heavily debated prehistoric rock painting located in the Maack Shelter within the Brandberg Mountain range. Discovered in 1918 by German explorer Reinhard Maack, the painting was initially, and incorrectly, popularized by French archaeologist Henri Breuil as depicting a white woman of Mediterranean descent. Modern consensus agrees the central figure is actually a San shaman—likely male—painted in white clay, performing a ritual dance. The painting is roughly 2,000 years old and remains a major draw for tourists venturing into the Erongo Region. Geschichte K8 — rock art interpretation.",
+      "factsAdvanced": [
+        "Located in the Maack Shelter on Brandberg Mountain.",
+        "Discovered in 1918 by German explorer Reinhard Maack.",
+        "Incorrectly popularized by Henri Breuil as a 'White Lady'.",
+        "Modern consensus identifies the figure as a male San shaman.",
+        "The rock painting is estimated to be around 2,000 years old.",
+        "Requires a rugged 45-minute hike through a gorge to access."
+      ]
+    },
+    {
+      "id": "hoba-meteorit-history-v2",
+      "descriptionAdvanced": "The Hoba Meteorite, located near Grootfontein in the Otjozondjupa Region, holds the title of the largest known intact meteorite on Earth. Discovered by a farmer plowing his field in 1920, this massive chunk of iron and nickel weighs roughly 60 tons. It is believed to have struck the Earth approximately 80,000 years ago, leaving remarkably little crater impact, likely due to a low-angle trajectory and deceleration in the atmosphere. Declared a national monument in 1955 to protect it from vandalism, it now sits in an amphitheater designed for public viewing. Earth Science K6 — meteorites.",
+      "factsAdvanced": [
+        "Located on the Hoba West farm near Grootfontein.",
+        "The largest known intact meteorite discovered on Earth.",
+        "Weighs an estimated 60 tons.",
+        "Composed primarily of 82% iron and 16% nickel.",
+        "Believed to have impacted Earth roughly 80,000 years ago.",
+        "Discovered in 1920 by a farmer named Jacobus Hermanus Brits."
+      ]
+    },
+    {
+      "id": "franketurm-history-v2",
+      "descriptionAdvanced": "The Franke Tower in Omaruru is a historical monument built in 1904 to commemorate the German forces under the command of Captain Victor Franke. During the Herero uprising, Franke's troops arrived to break the siege of Omaruru, lifting the blockade after a fierce battle. The tower was constructed by the local German community as a gesture of gratitude. It was declared a national monument in 1964. Today, it stands as a complex symbol of the colonial wars, surrounded by a town that honors its Herero heritage while preserving its architectural past. Geschichte K8 — colonial monuments.",
+      "factsAdvanced": [
+        "Located in the town of Omaruru in the Erongo Region.",
+        "Built in 1904 to honor German Captain Victor Franke.",
+        "Commemorates the lifting of the Herero siege of Omaruru.",
+        "Constructed by the local German civilian community.",
+        "Declared an official national monument in 1964.",
+        "Stands as a historical remnant of the Herero-German War."
+      ]
+    },
+    {
+      "id": "fort-namutoni-history-v2",
+      "descriptionAdvanced": "Fort Namutoni is a striking, stark-white German fort located at the eastern entrance of the Etosha National Park. Originally established in 1897 as a control post to stem the spread of the rinderpest cattle plague, it was rebuilt in 1902 and subsequently destroyed during a famous battle with Ndonga warriors in 1904. The fort was rebuilt once more in its current, expanded form to serve as a police outpost. Today, the historic structure forms the centerpiece of the Namutoni rest camp, housing a museum and offering elevated views of the adjacent King Nehale waterhole. Geschichte K8 — colonial outposts.",
+      "factsAdvanced": [
+        "Located at the eastern entrance to Etosha National Park.",
+        "Originally established in 1897 as a veterinary control post.",
+        "Destroyed in a famous battle with Ndonga warriors in 1904.",
+        "Rebuilt into its current stark-white fortress design shortly after.",
+        "Historically served as a German police and military outpost.",
+        "Currently functions as a major tourist rest camp and museum."
+      ]
+    }
+  ]
+}

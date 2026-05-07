@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "langue-cities-v2",
+      "descriptionAdvanced": "Langue ist eine kleine, aber lebhafte Gemeinde im Departement Valle, die oft mit extremer Hitze und Trockenheit assoziiert wird. Die Wirtschaft der Stadt ist stark von der Herstellung und dem Verkauf traditioneller handwerklicher Produkte geprägt, insbesondere Hängematten und Seilerwaren, die entlang der Hauptstraße verkauft werden. Die Bewohner sind für ihren Unternehmergeist bekannt und viele arbeiten im Kleinhandel, um den Mangel an landwirtschaftlich nutzbarem Land auszugleichen. Die lokale Schutzpatronin ist die Virgen de Candelaria, deren Fest jedes Jahr im Februar mit großer Hingabe gefeiert wird. Wirtschaft K6 — Handwerk und Kleinhandel.",
+      "factsAdvanced": [
+        "Berühmt in Honduras für die Herstellung farbenfroher Hängematten.",
+        "Liegt im heißen und trockenen Departement Valle.",
+        "Wirtschaft fokussiert auf Handwerk, Seilherstellung und Kleinhandel.",
+        "Feiert jährlich ein großes Fest zu Ehren der Virgen de Candelaria.",
+        "Gegründet in den frühen 1800er Jahren.",
+        "Die Landwirtschaft ist wegen der chronischen Wasserknappheit stark eingeschränkt."
+      ]
+    },
+    {
+      "id": "jesus-de-otoro-cities-v2",
+      "descriptionAdvanced": "Jesús de Otoro liegt in einem der malerischsten und fruchtbarsten Täler im Departement Intibucá. Anders als die höher gelegenen Nachbargemeinden, profitiert Otoro von einem wärmeren Klima, das ideal für den großflächigen Reisanbau ist; es gilt als eines der wichtigsten Zentren für die Reisproduktion in Honduras. Die Geschichte der Stadt ist eng mit dem indigenen Lenca-Volk verbunden, und noch heute finden sich in der Umgebung Spuren alter Siedlungen und Petroglyphen. Jedes Jahr lockt das Reisfestival zahlreiche Besucher an. Landwirtschaft K7 — Reisproduktion und indigene Täler.",
+      "factsAdvanced": [
+        "Eines der wichtigsten Zentren für die Reisproduktion in Honduras.",
+        "Liegt im fruchtbaren Otoro-Tal im Departement Intibucá.",
+        "Ausgeprägtes indigenes Erbe des Lenca-Volkes.",
+        "Das jährliche Reisfestival feiert die Bedeutung der Ernte.",
+        "Verfügt in der Nähe über präkolumbianische Petroglyphen.",
+        "Wurde 1817 offiziell als Gemeinde unter dem Namen San Juan de Otoro anerkannt."
+      ]
+    },
+    {
+      "id": "proteccion-cities-v2",
+      "descriptionAdvanced": "Protección ist eine schwer erreichbare, in den Bergen versteckte Gemeinde im Departement Santa Bárbara. Die fast ausschließliche Existenzgrundlage für die lokale Bevölkerung ist der Anbau von Premium-Kaffee. Das Dorf ist von dichtem Nebelwald umgeben und bietet ein extrem kühles und regnerisches Klima, was ideale Bedingungen für Kaffeepflanzen schafft. Trotz ihres Reichtums an natürlichen Ressourcen leidet die Stadt unter mangelnder Infrastruktur, und die unbefestigten Straßen machen den Abtransport der Ernte während der Regenzeit zu einer ständigen Herausforderung. Wirtschaft K6 — Kaffeeanbau und ländliche Infrastruktur.",
+      "factsAdvanced": [
+        "Liegt in großer Höhe im Departement Santa Bárbara.",
+        "Die Wirtschaft stützt sich fast ausschließlich auf den Kaffeeanbau.",
+        "Bekannt für exzellente Spezialitätenkaffees.",
+        "Umgeben von dichtem Nebelwald mit kühlem, feuchtem Klima.",
+        "Gegründet im frühen 20. Jahrhundert durch migrierende Bauern.",
+        "Die Infrastruktur, insbesondere Straßen, ist stark unterentwickelt."
+      ]
+    },
+    {
+      "id": "san-ignacio-cities-v2",
+      "descriptionAdvanced": "San Ignacio im Departement Francisco Morazán ist eine historische Gemeinde, die in einem langgezogenen, landwirtschaftlich geprägten Tal liegt. Die Stadt ist vor allem durch den nahe gelegenen Siria-Tal-Minenkomplex (Mina San Martín) bekannt geworden. Der Goldabbau, der jahrelang die Hauptwirtschaftsquelle war, hinterließ nach der Schließung der Mine sowohl wirtschaftliche als auch ökologische Herausforderungen. Heute konzentriert sich San Ignacio wieder auf die Landwirtschaft, insbesondere Viehzucht und den Anbau von Mais und Bohnen, um die lokale Wirtschaft zu stabilisieren. Umwelt K8 — Bergbau und ökologische Auswirkungen.",
+      "factsAdvanced": [
+        "Historisches Zentrum des Goldabbaus (Mina San Martín).",
+        "Liegt im langgezogenen Siria-Tal.",
+        "Die Schließung der Mine brachte erhebliche ökologische Herausforderungen mit sich.",
+        "Die aktuelle Wirtschaft basiert auf Viehzucht und Grundnahrungsmitteln.",
+        "Die Stadt wurde in den späten 1700er Jahren gegründet.",
+        "Die Bevölkerung ist eng mit dem benachbarten Cedros verbunden."
+      ]
+    },
+    {
+      "id": "aramecina-cities-v2",
+      "descriptionAdvanced": "Aramecina ist eine winzige, von Landflucht geprägte Gemeinde an der Grenze zu El Salvador im Departement Valle. Der Name stammt aus der indigenen Sprache und deutet auf einen Fluss mit kleinen Fischen hin. In der Kolonialzeit war Aramecina eine reiche Bergbausiedlung, doch nachdem das Gold und Silber erschöpft waren, verfiel die Stadt. Eine kleine Goldader wird in der nahe gelegenen Mine Santa Lucía immer noch abgebaut. Ein großer Teil der Bevölkerung hat die Gemeinde auf der Suche nach Arbeit im Ausland verlassen, was die lokale Demografie stark beeinflusst hat. Geschichte K7 — Kolonialer Bergbau und Migration.",
+      "factsAdvanced": [
+        "Historische Bergbausiedlung an der Grenze zu El Salvador.",
+        "Name bedeutet Fluss der kleinen Fische (Río de los pececitos).",
+        "Ein großer Teil der jüngeren Bevölkerung ist in die USA ausgewandert.",
+        "Die Mine Santa Lucía ist eine der letzten aktiven in der Gegend.",
+        "Liegt in einer sehr trockenen und heißen Klimazone.",
+        "Offiziell 1788 gegründet und später zum Municipio ernannt."
+      ]
+    },
+    {
+      "id": "san-agustin-cities-v2",
+      "descriptionAdvanced": "San Agustín ist ein charmantes Dorf im Departement Copán, umgeben von schroffen Bergen und Kaffeefeldern. Es zeichnet sich durch seine Nähe zur berühmten archäologischen Stätte der Maya in Copán Ruinas aus, bewahrt jedoch eine eigene, ruhige landwirtschaftliche Identität abseits des Massentourismus. Die Einwohner widmen sich traditionell der Pferdezucht, dem Kaffeeanbau und dem Kunsthandwerk aus Holz und Leder. In den letzten Jahren wurde San Agustín Teil von lokalen Initiativen, um den sanften Tourismus in den Kaffeeregionen (Ruta del Café) zu fördern. Wirtschaft K6 — Ländlicher Kaffeeanbau und sanfter Tourismus.",
+      "factsAdvanced": [
+        "Liegt in der Bergregion des Departements Copán.",
+        "Hauptwirtschaftszweig ist der familiäre Kaffeeanbau.",
+        "Bemüht sich um die Förderung des sanften Kaffeetourismus (Ruta del Café).",
+        "Die Gemeinde ist für traditionelle Pferdezucht bekannt.",
+        "Gegründet im Jahr 1930 als separates Municipio.",
+        "Bewahrt trotz der Nähe zu Copán Ruinas einen nicht-touristischen Charakter."
+      ]
+    },
+    {
+      "id": "guaimaca-cities-v2",
+      "descriptionAdvanced": "Guaimaca ist eine wohlhabende Gemeinde im Departement Francisco Morazán, umgeben von ausgedehnten Kiefern- und Eichenwäldern. Die Stadt verdankt ihren wirtschaftlichen Aufschwung hauptsächlich der Holzwirtschaft und der Rinderzucht; die Sägewerke in und um Guaimaca zählen zu den wichtigsten Produzenten von Bauholz im Land. Neben der Industrie hat Guaimaca eine gut erhaltene koloniale Altstadt mit gepflasterten Straßen und einer imposanten Kirche. Die Umgebung eignet sich hervorragend für Ökotourismus, da die dichten Wälder viele seltene Vogelarten beherbergen. Wirtschaft K7 — Forstwirtschaft und Ressourcenmanagement.",
+      "factsAdvanced": [
+        "Wichtiges Zentrum der Holzwirtschaft im Departement Francisco Morazán.",
+        "Umgeben von großen, dichten Kiefernwäldern.",
+        "Wirtschaft stützt sich auf Sägewerke, Rinderzucht und Kaffeeanbau.",
+        "Bewahrt einen kolonialen Stadtkern mit gepflasterten Straßen.",
+        "Besitzt eine bedeutende Kirche, die Santa Rosa de Lima gewidmet ist.",
+        "Gegründet in den frühen 1800er Jahren."
+      ]
+    },
+    {
+      "id": "campamento-cities-v2",
+      "descriptionAdvanced": "Campamento, eingebettet in die bewaldeten Berge des Departements Olancho, wird oft als \"Das Tor nach Olancho\" bezeichnet, da es an der Hauptstraße von Tegucigalpa nach Juticalpa liegt. Der Name erinnert an die Holzfäller-Camps, aus denen die Stadt ursprünglich entstand. Heute ist Campamento ein blühendes Zentrum für Kaffeeanbau und Forstwirtschaft. Das feuchte, kühle Klima und die malerische Bergkulisse haben die Stadt auch zu einem beliebten Ziel für Inlands-Touristen gemacht, die sich in den umliegenden Berghütten und ökologischen Parks entspannen. Geografie K6 — Kaffeeregionen und Binnentourismus.",
+      "factsAdvanced": [
+        "Bekannt als Tor nach Olancho, da es an der Hauptverkehrsstraße liegt.",
+        "Der Name geht auf die ersten Siedlungen der Holzfäller zurück.",
+        "Wichtiger Produzent von Premium-Kaffee und Bauholz.",
+        "Beliebtes Touristenziel wegen des kühlen Klimas und der Kiefernwälder.",
+        "Gegründet Mitte des 19. Jahrhunderts.",
+        "Bietet zahlreiche ökologische Parks und Berghütten (Cabañas)."
+      ]
+    },
+    {
+      "id": "santo-domingo-savio-cities-v2",
+      "descriptionAdvanced": "Santo Domingo Savio, oft nur Santo Domingo genannt, ist eine der jüngsten Gemeinden in Honduras und liegt im westlichen Departement Copán. Entstanden aus der Abspaltung von Santa Rosa de Copán, ist diese kleine, hoch gelegene Gemeinde fast vollständig von den Einkünften aus der Kaffeeernte abhängig. Die abgelegene Lage in den Nebelwäldern verleiht dem Dorf eine friedliche und stark traditionell geprägte Atmosphäre. Die Bildungsinfrastruktur wurde in den letzten Jahren verbessert, um der starken Abwanderung der Jugend entgegenzuwirken. Gesellschaft K6 — Gemeindebildung und ländliche Bildung.",
+      "factsAdvanced": [
+        "Eine der jüngsten offiziellen Gemeinden im Land.",
+        "Benannt nach dem katholischen Heiligen Domenico Savio.",
+        "Liegt in den gebirgigen Kaffeeregionen von Copán.",
+        "Wirtschaftlich fast ausschließlich vom Kaffeeexport abhängig.",
+        "Entstand aus der politischen Abspaltung von Santa Rosa de Copán.",
+        "Leidet unter Landflucht der jüngeren Generation."
+      ]
+    },
+    {
+      "id": "corquin-cities-v2",
+      "descriptionAdvanced": "Corquín ist eine isolierte, aber wohlhabende Kaffee-Stadt im südlichen Copán. Eingebettet am Fuße des mächtigen Celaque-Gebirges, verdankt die Stadt ihren Namen der indigenen Sprache, was so viel bedeutet wie \"Fluss zwischen zwei Bergketten\". Corquín hat durch die Produktion von Spezialitätenkaffee großen internationalen Erfolg erzielt. Lokale Kooperativen haben die Lebensbedingungen stark verbessert, indem sie direkte Handelsbeziehungen mit Käufern in Europa und Asien aufbauten. Das hügelige Terrain macht den Kaffeeanbau zwar beschwerlich, sorgt aber für herausragende Qualität. Wirtschaft K8 — Kaffee-Kooperativen und Direkthandel.",
+      "factsAdvanced": [
+        "Der Name bedeutet Fluss zwischen zwei Bergketten.",
+        "Weltweit anerkannt für hochwertigen Spezialitätenkaffee.",
+        "Lokale Kaffee-Kooperativen haben die Wirtschaft transformiert.",
+        "Liegt am Fuße des majestätischen Nationalparks Celaque.",
+        "Gegründet vor der spanischen Kolonialzeit als Siedlung.",
+        "Erhielt 1926 offiziell den Status einer Stadt (Ciudad)."
+      ]
+    },
+    {
+      "id": "el-paraiso-cities-v2",
+      "descriptionAdvanced": "El Paraíso (Das Paradies) ist eine dynamische Grenzstadt im gleichnamigen Departement und das Zentrum der honduranischen Kaffee- und Tabakproduktion im Osten. Die Stadt liegt nah an der nicaraguanischen Grenze und zieht starken grenzüberschreitenden Handel an. In den letzten Jahrzehnten erlebte El Paraíso einen enormen Wirtschaftsboom durch die Ansiedlung von Zigarrenmanufakturen und Kaffeeverarbeitungsanlagen. Das jährliche Kaffeefestival (Festival del Café) zieht tausende Besucher an, bei dem die besten Röstungen der Region verkostet werden. Wirtschaft K8 — Grenznaher Handel und Tabakindustrie.",
+      "factsAdvanced": [
+        "Wirtschaftliches Zentrum für Kaffee- und Tabakverarbeitung im Osten.",
+        "Liegt strategisch nahe der Grenze zu Nicaragua (Grenzübergang Las Manos).",
+        "Heimat des national berühmten Kaffeefestivals (Festival del Café).",
+        "Zahlreiche Premium-Zigarrenmanufakturen exportieren von hier.",
+        "Offiziell 1889 als Gemeinde gegründet.",
+        "Eine der wirtschaftlich am schnellsten wachsenden Grenzstädte in Honduras."
+      ]
+    },
+    {
+      "id": "santa-cruz-de-yojoa-cities-v2",
+      "descriptionAdvanced": "Santa Cruz de Yojoa liegt strategisch günstig im Departement Cortés, nicht weit vom beeindruckenden Yojoa-See (Lago de Yojoa) und dem Wasserkraftwerk Francisco Morazán (El Cajón) entfernt. Aufgrund dieser Nähe zu den wichtigsten Wasserressourcen des Landes ist die Stadt ein logistisches Zentrum für Energie, Binnentourismus und Aquakultur, insbesondere die Tilapia-Fischzucht. Die Restaurants entlang der Hauptstraße sind im ganzen Land für ihren gebratenen Yojoa-Fisch berühmt. Abseits des Sees dominieren große Kaffee- und Obstplantagen die hügelige Landschaft. Geografie K7 — Binnenseen, Energieinfrastruktur und Gastronomie.",
+      "factsAdvanced": [
+        "Liegt in unmittelbarer Nähe zum Yojoa-See (Lago de Yojoa).",
+        "Strategischer Standort für das riesige Wasserkraftwerk El Cajón.",
+        "Landesweit bekannt für die Gastronomie (gebratener Tilapia-Fisch).",
+        "Wichtiges Zentrum für Binnentourismus und Aquakultur.",
+        "Gegründet in den frühen 1800er Jahren.",
+        "Die Region ist auch ein wichtiger Produzent von Geflügel und Obst."
+      ]
+    },
+    {
+      "id": "azacualpa-cities-v2",
+      "descriptionAdvanced": "Azacualpa ist eine hoch gelegene, regnerische Stadt im Departement Santa Bárbara. Die Gemeinde ist stark landwirtschaftlich ausgerichtet und bildet das Zentrum für viele kleinere umliegende Bergdörfer. In letzter Zeit hat die Stadt Aufmerksamkeit auf sich gezogen wegen sozialer Konflikte um den groß angelegten Goldbergbau (Mina San Andrés), der die lokale Umwelt und den Friedhof der Gemeinde beeinträchtigte. Azacualpa steht somit symbolisch für den Kampf zwischen lukrativer Rohstoffgewinnung und dem Schutz indigener Rechte und lokaler Ökosysteme. Umwelt und Gesellschaft K8 — Bergbaukonflikte und Umweltrecht.",
+      "factsAdvanced": [
+        "Liegt in einer sehr hoch gelegenen, gebirgigen Zone in Santa Bárbara.",
+        "Bekannt durch Konflikte um die San Andrés Goldmine.",
+        "Der Name Azacualpa bedeutet in Nahuatl in der Pyramide/Zuflucht.",
+        "Wirtschaft stützt sich auf Subsistenzwirtschaft und Kaffeeanbau.",
+        "Erhielt 1958 den Status als eigenständiges Municipio.",
+        "Die Region erhält überdurchschnittlich viel Niederschlag."
+      ]
+    },
+    {
+      "id": "san-manuel-cities-v2",
+      "descriptionAdvanced": "San Manuel ist eine große Gemeinde im flachen, extrem fruchtbaren Sula-Tal, eingeklemmt zwischen San Pedro Sula und El Progreso. Sie ist fast vollständig von riesigen Bananen- und Zuckerrohrplantagen umgeben und historisch eng mit der Tela Railroad Company verknüpft. San Manuel leidet regelmäßig unter katastrophalen Überschwemmungen des Río Ulúa und Río Chamelecón, weshalb große Deichanlagen das Leben in der Stadt prägen. In den letzten Jahren hat sich die Stadt zu einem Logistikzentrum für die expandierende Maquiladora-Industrie des Tals entwickelt. Geografie K7 — Überschwemmungsgebiete und Plantagenwirtschaft.",
+      "factsAdvanced": [
+        "Gelegen im Herzen des extrem fruchtbaren Sula-Tals (Valle de Sula).",
+        "Dominiert von riesigen industriellen Bananen- und Zuckerrohrplantagen.",
+        "Sehr anfällig für verheerende Überschwemmungen (Hurrikan Mitch, Eta/Iota).",
+        "Erlebte ein starkes Bevölkerungswachstum durch die Textilindustrie.",
+        "Gegründet im späten 19. Jahrhundert in der Nähe der Flüsse Ulúa und Chamelecón.",
+        "Dient zunehmend als Wohn- und Logistikstandort für San Pedro Sula."
+      ]
+    },
+    {
+      "id": "florida-cities-v2",
+      "descriptionAdvanced": "Florida im Departement Copán ist eine der wohlhabendsten landwirtschaftlichen Gemeinden im Westen von Honduras. Eingebettet in das gleichnamige Tal (Valle de Florida), ist die Region berühmt für die Zucht von Brahman-Rindern und erstklassigen Pferden sowie für ausgedehnte Kaffeefarmen in den höheren Lagen. Durch ihre Nähe zur Grenze Guatemalas profitiert die Stadt zudem von einem florierenden bi-nationalen Handel. Historisch beherbergt die Gemeinde die kleine Maya-Stätte \"El Puente\", die eng mit der Metropole Copán Ruinas verbunden war. Archäologie und Landwirtschaft K7 — Pferdezucht und Maya-Außenposten.",
+      "factsAdvanced": [
+        "Liegt im fruchtbaren Valle de Florida im Departement Copán.",
+        "Wichtiges Zentrum für Elite-Pferde- und Brahman-Rinderzucht.",
+        "Beherbergt den archäologischen Maya-Park El Puente.",
+        "Verfügt über starken Grenzhandel mit dem benachbarten Guatemala.",
+        "Gegründet in der späten Kolonialzeit im Jahr 1836.",
+        "Ein Großteil der wohlhabenderen Familien investiert auch in den Kaffeeanbau."
+      ]
+    },
+    {
+      "id": "san-francisco-de-la-paz-cities-v2",
+      "descriptionAdvanced": "San Francisco de la Paz liegt am nördlichen Rand des Guayape-Tals im riesigen Departement Olancho. Die Stadt hat den Beinamen \"Die Kaffeekrone Olanchos\" erhalten, da sie das Hauptproduktionsgebiet für Kaffee in einer sonst von Rinderzucht dominierten Provinz ist. Die Stadtgemeinde blickt auf eine lange indigene Geschichte der Payas zurück und wurde später von spanischen Missionaren kolonisiert. In der nahen Vergangenheit geriet die Stadt gelegentlich wegen der Holz- und illegalen Bergbauausbeutung in den umliegenden Wäldern in die Schlagzeilen. Geografie K6 — Kaffee in Viehzuchtgebieten.",
+      "factsAdvanced": [
+        "Bekannt als Kaffeekrone von Olancho in einem rinderdominierten Departement.",
+        "Liegt am Rand des großen und flachen Guayape-Tals.",
+        "Historisch von der indigenen Gruppe der Payas bewohnt.",
+        "Wurde im 17. Jahrhundert von spanischen franziskanischen Missionaren gegründet.",
+        "Leidet teilweise unter illegaler Holzausbeutung in den nahen Wäldern.",
+        "Gilt als ruhige und friedliche ländliche Gemeinde."
+      ]
+    },
+    {
+      "id": "belen-gualcho-cities-v2",
+      "descriptionAdvanced": "Belén Gualcho ist ein hoch gelegenes Lenca-Dorf im Departement Ocotepeque, das sich durch seine malerische Kolonialkirche auszeichnet, die auf einem Hügel thront. Das Dorf ist nur über steile, unbefestigte Bergstraßen erreichbar, was zu einer starken Isolierung, aber auch zur Erhaltung seiner indigenen Traditionen geführt hat. Sonntags findet ein farbenfroher Markt statt, auf dem indigene Bauern aus den Bergen ihre Produkte, vor allem Mais, Bohnen und Obst, tauschen und verkaufen. Belén Gualcho ist ein beliebtes, authentisches Ziel für Ökotouristen auf der Ruta Lenca. Kultur K7 — Isolierte indigene Märkte und Traditionen.",
+      "factsAdvanced": [
+        "Ein isoliertes indigenes Lenca-Dorf im Departement Ocotepeque.",
+        "Die malerische Kolonialkirche mit Holzschnitzereien steht auf einem Hügel.",
+        "Bekannt für den farbenfrohen und traditionellen Sonntagsmarkt.",
+        "Liegt an den Hängen des Celaque-Nationalparks.",
+        "Sehr schwer zugänglich über unbefestigte Gebirgsstraßen.",
+        "Ein unverfälschtes Ziel auf der touristischen Lenca-Route (Ruta Lenca)."
+      ]
+    },
+    {
+      "id": "san-antonio-de-cortes-cities-v2",
+      "descriptionAdvanced": "San Antonio de Cortés ist eine höher gelegene Gemeinde, die den Übergang zwischen dem flachen Valle de Sula und den Bergen des Yojoa-Sees markiert. Das angenehme Mikroklima machte den Ort attraktiv für landwirtschaftliche Plantagen, insbesondere für Kaffee und Ananas. Wegen seiner hervorragenden Aussicht über das Sula-Tal und der Nähe zu großen Wasserfällen (wie den Pulhapanzak-Wasserfällen) hat sich der inländische Ökotourismus zu einer wichtigen neuen Einkommensquelle neben der Agrarindustrie entwickelt. Geografie K6 — Übergangszonen und Wasserfälle.",
+      "factsAdvanced": [
+        "Markiert die Bergbarriere zwischen dem Sula-Tal und dem Yojoa-See.",
+        "Wirtschaft basiert auf Kaffee, Ananas und Binnentourismus.",
+        "Bietet spektakuläre Aussichtspunkte über das Valle de Sula.",
+        "Gegründet im Jahr 1830.",
+        "Die berühmten Pulhapanzak-Wasserfälle befinden sich in der Nähe.",
+        "Profitiert von einem deutlich kühleren Mikroklima als San Pedro Sula."
+      ]
+    },
+    {
+      "id": "quimistan-cities-v2",
+      "descriptionAdvanced": "Quimistán ist flächenmäßig eine der größten Gemeinden in Honduras und bedeckt fast das gesamte Tal von Quimistán im Departement Santa Bárbara. Die weitläufige Ebene ist extrem fruchtbar und wird intensiv für die Rinderzucht sowie den Anbau von Tabak, Zuckerrohr und Kaffee genutzt. Historisch war die Region wegen ihrer natürlichen Thermalquellen und mineralreichen Flüsse ein beliebtes Siedlungsgebiet der indigenen Tolupanes und Lencas. Die Stadt hat sich in jüngerer Zeit durch Agrarexporte stark modernisiert, leidet aber in den abgelegenen Bergsiedlungen weiterhin unter Armut. Wirtschaft K8 — Großflächige Landwirtschaft und Täler.",
+      "factsAdvanced": [
+        "Flächenmäßig eines der größten Municipios im Departement Santa Bárbara.",
+        "Das Tal von Quimistán ist ein bedeutendes Zentrum für Vieh- und Agrarwirtschaft.",
+        "Verfügt über natürliche heiße Quellen (Aguas Termales).",
+        "Wichtig für die Produktion von Premium-Tabak und Kaffee.",
+        "Historisch bewohnt von den Stämmen der Lenca und Tolupanes.",
+        "Gegründet in den frühen 1800er Jahren, geprägt von starkem ländlichen Wachstum."
+      ]
+    },
+    {
+      "id": "iriona-cities-v2",
+      "descriptionAdvanced": "Iriona liegt isoliert an der unberührten Karibikküste des Departements Colón und grenzt an das abgelegene La Mosquitia. Die Gemeinde ist die Heimat vieler afro-karibischer Garífuna-Dörfer (wie Sangrelaya), die ihre einzigartige Sprache, Musik (Punta) und Traditionen bewahrt haben. Mangels Straßeninfrastruktur reist die Bevölkerung oft über das Meer oder Flüsse. Wirtschaftlich lebt Iriona fast ausschließlich vom handwerklichen Fischfang, der Landwirtschaft auf kleinem Niveau und leider auch in der Vergangenheit von illegalen Wirtschaftszweigen, die das isolierte Gebiet ausnutzten. Kultur K8 — Garífuna-Küste und isolierte Regionen.",
+      "factsAdvanced": [
+        "Liegt an der isolierten Karibikküste an der Grenze zu Gracias a Dios.",
+        "Heimat vieler traditioneller afro-karibischer Garífuna-Dörfer.",
+        "Stark unterentwickelte Straßeninfrastruktur; Zugang oft nur per Boot.",
+        "Wirtschaft basiert auf Fischerei und kleinteiliger Subsistenzlandwirtschaft.",
+        "Die indigene und Garífuna-Bevölkerung bewahrt alte Traditionen und Dialekte.",
+        "Eines der am dünnsten besiedelten Municipios in Honduras."
+      ]
+    },
+    {
+      "id": "san-esteban-cities-v2",
+      "descriptionAdvanced": "San Esteban liegt tief im Norden des riesigen Departements Olancho und gilt als \"Die Hauptstadt des Olanchano-Goldes\". Historisch wurde an den Ufern der Flüsse Gold gewaschen, aber heute ist es die gigantische Viehzucht, die die Wirtschaft dominiert. San Esteban liegt in einem idyllischen Tal umgeben von der Gebirgskette Agalta und der Biosphäre Río Plátano. Die Stadt hat ein gewisses Grenzland-Flair bewahrt; die Kultur ist stark von Vaqueros (Cowboys), riesigen Haziendas und traditioneller Pferdezucht geprägt. Geografie K7 — Viehzucht-Täler und Cowboy-Kultur.",
+      "factsAdvanced": [
+        "Liegt abgelegen im nördlichen Teil des Departements Olancho.",
+        "Tief geprägt von der honduranischen Vaquero- und Viehzucht-Kultur.",
+        "Tor zur unberührten Biosphäre Río Plátano.",
+        "Historisch ein Gebiet, in dem Gold an den Flussufern gewaschen wurde.",
+        "Die Wirtschaft basiert fast ausschließlich auf Rindern und Milchprodukten.",
+        "Verfügt über das größte landwirtschaftliche Einzugsgebiet der Region."
+      ]
+    },
+    {
+      "id": "la-campa-cities-v2",
+      "descriptionAdvanced": "La Campa ist eine abgelegene Gemeinde in den nebligen Bergen des Departements Lempira und eine der authentischsten indigenen Siedlungen des Landes. Das Dorf ist weltbekannt für die historische Kolonialkirche San Matías und vor allem für die Herstellung roter, handgeformter Lenca-Töpferei, die ohne Töpferscheibe gefertigt wird. La Campa hat durch Initiativen wie das Lenca-Canopy – eine extreme Seilrutsche, die eine tiefe Schlucht überquert – den Sprung in den nachhaltigen Tourismus geschafft, ohne seine tiefe kulturelle Identität zu verlieren. Kunst und Kultur K7 — Traditionelle Töpferei und Abenteuertourismus.",
+      "factsAdvanced": [
+        "Zentrum der unglasierten, handgeformten roten Lenca-Töpferei.",
+        "Die Kirche San Matías beherbergt eine bedeutende koloniale Kunstsammlung.",
+        "Besitzt eines der höchsten und längsten Canopys (Seilrutschen) in Zentralamerika.",
+        "Liegt im Nationalpark Celaque im Departement Lempira.",
+        "Sehr isolierte Gemeinde, tief verwurzelt in indigenen Traditionen.",
+        "Wirtschaft hat sich erfolgreich vom reinen Maisanbau auf Ökotourismus ausgeweitet."
+      ]
+    },
+    {
+      "id": "pespire-cities-v2",
+      "descriptionAdvanced": "Pespire ist eine glühend heiße, aber wunderschön erhaltene Kolonialstadt im Departement Choluteca am Ufer des Pespire-Flusses. Die Stadt sticht durch ihre komplett intakte koloniale Altstadt hervor, mit Kopfsteinpflaster, farbenfrohen Häusern und einer massiven Steinkirche mit drei markanten Kuppeln. Der Name bedeutet in der Lenca-Sprache \"Fluss der kleinen Steine\". Pespire ist ein Agrarzentrum im Süden, berühmt für die Mangoernte und die handwerkliche Herstellung von Käse (Quesillo) und Panela, einem unraffinierten Zucker. Architektur und Wirtschaft K6 — Koloniale Hitze und Mangoproduktion.",
+      "factsAdvanced": [
+        "Besitzt eines der am besten erhaltenen kolonialen Zentren im Süden.",
+        "Die Kirche aus dem 19. Jahrhundert ist für ihre drei Steinkuppeln bekannt.",
+        "Name bedeutet in indigenen Dialekten Fluss der kleinen Steine.",
+        "Extrem heißes und trockenes Klima fast das ganze Jahr über.",
+        "Berühmt für große Mangoernten und traditionelle Milchprodukte.",
+        "Gegründet in den späten 1700er Jahren, auf halbem Weg nach Choluteca."
+      ]
+    },
+    {
+      "id": "oros-cities-v2",
+      "descriptionAdvanced": "Oropolí ist ein winziges, abgelegenes Dorf im tiefen Süden des Departements El Paraíso, direkt an der heißen Grenze zu Nicaragua. Die Geschichte der Siedlung geht auf spanische Bergbauaktivitäten im 18. Jahrhundert zurück, jedoch sind die Minen längst verlassen. Heute ist Oropolí stark von der Armut gezeichnet; die Familien überleben durch Subsistenzlandwirtschaft (Mais, Bohnen) in einer der trockensten Regionen des Landes (Corredor Seco). Oropolí ist ein Symbol für die klimatischen und wirtschaftlichen Härten im grenznahen ländlichen Honduras. Geografie K7 — Trockenkorridor und Subsistenzwirtschaft.",
+      "factsAdvanced": [
+        "Liegt im sogenannten Trockenkorridor (Corredor Seco) an der Grenze zu Nicaragua.",
+        "Historisch ein Zentrum für Silberabbau während der Kolonialzeit.",
+        "Leidet unter extremen Dürren und eingeschränkter Wasserversorgung.",
+        "Wirtschaft basiert auf reiner Subsistenzlandwirtschaft.",
+        "Eines der ärmsten und am stärksten isolierten Dörfer in El Paraíso.",
+        "Ein Großteil der jungen Bevölkerung ist emigriert."
+      ]
+    },
+    {
+      "id": "san-jose-de-colinas-cities-v2",
+      "descriptionAdvanced": "San José de Colinas, oft einfach \"Colinas\" genannt, liegt idyllisch in den hügeligen Landschaften des Departements Santa Bárbara. Die Stadt ist umgeben von dichten Kaffeeplantagen und profitiert von ihrem fruchtbaren vulkanischen Boden. Historisch zeichnet sich Colinas durch farbenfrohe koloniale Häuser und gepflasterte Straßen aus. Die Region hat stark in die Diversifizierung investiert und sich neben Kaffee auch auf die Zucht von Export-Rindern und den Handel mit Kardamom spezialisiert. Jedes Jahr wird ein lebhaftes Patronatsfest gefeiert, das Traditionen der alten Kaffeebarone aufleben lässt. Landwirtschaft K6 — Kaffeekultur und vulkanische Böden.",
+      "factsAdvanced": [
+        "Bekannt für die Produktion von qualitativ hochwertigem Exportkaffee.",
+        "Liegt im hügeligen und fruchtbaren Departement Santa Bárbara.",
+        "Hat eine sehr gepflegte, traditionelle städtische Infrastruktur bewahrt.",
+        "Gegründet im frühen 19. Jahrhundert (1812).",
+        "Wirtschaft ist durch Kardamomanbau und Viehzucht diversifiziert.",
+        "Ein friedliches, von der Natur umgebenes Zentrum für den ländlichen Handel."
+      ]
+    }
+  ]
+}

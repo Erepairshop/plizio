@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "walvis-bay-cities-v2",
+      "descriptionAdvanced": "Walvis Bay este principalul port maritim de apă adâncă al Namibiei, situat într-un golf natural protejat de o peninsulă nisipoasă numită Pelican Point. Controlat inițial de britanici din 1878, și ulterior de Africa de Sud, portul a fost reintegrat în Namibia abia în anul 1994. Această enclavă strategică reprezintă o poartă vitală pentru comerțul sud-african, conectând regiunea SADC de restul lumii. Laguna din Walvis Bay este recunoscută internațional ca o zonă umedă Ramsar de o importanță crucială, oferind un refugiu sigur pentru zeci de mii de păsări flamingo și alte specii aviare migratoare, ceea ce contrastează uimitor cu ariditatea Deșertului Namib din imediata apropiere. Educație K7 Geografie — importanța economică a porturilor și a apelor adânci.",
+      "factsAdvanced": [
+        "Populație de aproximativ 85.000 de locuitori.",
+        "Reintegrat oficial în Namibia la data de 1 martie 1994.",
+        "Golful natural adăpostește peste 150.000 de păsări flamingo.",
+        "Pelican Point este un banc de nisip lung de circa 9 kilometri.",
+        "Prima anexare britanică a teritoriului a avut loc în anul 1878.",
+        "Este capătul vestic al coridorului trans-Kalahari care duce spre est."
+      ]
+    },
+    {
+      "id": "swakopmund-cities-v2",
+      "descriptionAdvanced": "Swakopmund este o stațiune de coastă vibrantă, fondată în 1892 de către coloniștii germani ca port principal pentru Africa de Sud-Vest Germană. Arhitectura orașului păstrează influențe puternice din perioada colonială, cu clădiri emblematice precum Woermannhaus, farul orașului și vechea gară, transformate astăzi în atracții majore. Deși inițial a fost un punct comercial, Swakopmund s-a dezvoltat într-o destinație turistică de top, oferind o combinație unică între dunele spectaculoase ale Deșertului Namib, unde se practică sandboarding-ul, și apele reci ale Oceanului Atlantic. Clima sa moderată atrage mulți vizitatori, mai ales în perioada verii australe. Istorie K8 — moștenirea arhitecturii coloniale germane în Africa.",
+      "factsAdvanced": [
+        "Orașul a fost fondat oficial în luna august a anului 1892 de căpitanul Curt von François.",
+        "Woermannhaus, o clădire iconică din 1905, are un turn vizibil din largul mării.",
+        "Populația rezidentă este de aproximativ 44.000 de persoane.",
+        "Găzduiește renumitul Acvariu Național Marin al Namibiei.",
+        "Se află la doar 30 de kilometri nord de principalul port Walvis Bay.",
+        "Temperatura medie de vară rareori depășește pragul de 25 de grade Celsius."
+      ]
+    },
+    {
+      "id": "oshakati-cities-v2",
+      "descriptionAdvanced": "Oshakati, situat în partea de nord a Namibiei, este capitala regiunii Oshana și servește drept principal centru comercial și economic al zonelor nordice, cunoscute istoric sub numele de Ovamboland. Fondat ca un mic post administrativ în anul 1966, orașul a cunoscut o expansiune rapidă, devenind a doua cea mai mare aglomerare urbană din Namibia după capitala Windhoek. Regiunea înconjurătoare se bazează puternic pe agricultura de subzistență și creșterea vitelor, iar Oshakati joacă un rol central în furnizarea de bunuri și servicii către comunitățile rurale, inclusiv facilități medicale de o importanță critică precum Spitalul de Stat Oshakati. Sociologie K6 — dezvoltarea urbană și importanța centrelor regionale.",
+      "factsAdvanced": [
+        "A fost înființat în mod oficial în iulie 1966.",
+        "Populația urbană estimată se ridică la aproximativ 39.000 de locuitori.",
+        "Spitalul de Stat Oshakati este al doilea ca mărime din Namibia.",
+        "Reprezintă inima administrativă a regiunii Oshana.",
+        "Aici funcționează numeroase piețe tradiționale de produse locale numite omatala.",
+        "Orașul este frecvent afectat de inundațiile sezoniere ale rețelei hidrografice efundja."
+      ]
+    },
+    {
+      "id": "rehoboth-cities-v2",
+      "descriptionAdvanced": "Rehoboth se află în regiunea Hardap, la sud de capitala Windhoek, și este cunoscut drept centrul istoric și cultural al comunității Baster (Basterii din Rehoboth). Această populație, descendentă din colonizatori olandezi și femei din triburile Khoikhoi, s-a stabilit în zonă în anul 1870 sub conducerea căpitanului Hermanus van Wyk. Orașul a fost marcat de dorința puternică de autonomie, Basterii menținându-și mult timp propriile legi, cunoscute sub denumirea de Vaderlike Wette. Astăzi, Rehoboth este un oraș dinamic ce susține regiunea înconjurătoare prin activități axate în principal pe zootehnie și mici industrii locale. Istorie K7 — migrația populațiilor mixte și formarea comunităților autonome.",
+      "factsAdvanced": [
+        "Populația orașului depășește ușor 28.000 de locuitori.",
+        "Așezarea Basterilor în Rehoboth a început oficial în anul 1870.",
+        "Până în 1990, comunitatea a operat după legi proprii datând din 1872.",
+        "Muzeul Rehoboth conservă artefacte prețioase ale culturii Baster.",
+        "Orașul dispune de izvoare termale naturale care sunt o atracție locală.",
+        "Se găsește la o distanță de 90 de kilometri sud față de Windhoek."
+      ]
+    },
+    {
+      "id": "katima-mulilo-cities-v2",
+      "descriptionAdvanced": "Katima Mulilo, capitala fâșiei Caprivi (în prezent regiunea Zambezi), se distinge radical de restul Namibiei printr-un climat tropical și peisaje riverane dense de-a lungul impresionantului fluviu Zambezi. Situat în extremitatea nord-estică a țării, la o intersecție strategică de granițe, orașul reprezintă un centru comercial vital și o poartă de acces către țările vecine, printre care Zambia și Botswana. Numele său evocă pericolele fluviului, provenind din limba locală unde semnifică \"a stinge focul\", o referire clară la apele tumultoase. Regiunea este esențială pentru ecoturism, servind ca punct de plecare pentru safariri terestre și fluviale în parcurile naționale bogate în faună. Geografie K8 — ecosisteme tropicale riverane și comerț transfrontalier.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în 1935 de autoritățile britanice.",
+        "Podul peste fluviul Zambezi a fost inaugurat în 2004.",
+        "Populația este estimată la peste 28.000 de locuitori.",
+        "Regiunea primește cele mai mari cantități de precipitații din toată Namibia.",
+        "Râul Zambezi definește granița nordică dintre oraș și Zambia.",
+        "Este poarta principală de intrare către Parcul Național Mudumu."
+      ]
+    },
+    {
+      "id": "ondangwa-cities-v2",
+      "descriptionAdvanced": "Ondangwa se situează în regiunea Oshana și funcționează ca un nod vital de transport și afaceri pentru partea de nord a Namibiei. Inițial înființat în 1924 ca o misiune creștină, așezarea a căpătat importanță administrativă și militară de-a lungul deceniilor. În prezent, orașul dispune de un aeroport semnificativ, care conectează eficient nordul populat de capitala țării. Activitatea economică predominantă din împrejurimi este strâns legată de comerț, antreprenoriat local și procesarea agricolă, o pondere importantă având-o piața imobiliară aflată într-o expansiune continuă. Sociologie K6 — evoluția stațiilor de misiune în centre economice moderne.",
+      "factsAdvanced": [
+        "Stația de misiune originară a fost fondată în anul 1924.",
+        "Populația actuală depășește pragul de 22.000 de rezidenți.",
+        "Aeroportul Andimba Toivo ya Toivo se află situat aici.",
+        "A fost un centru operațional cheie pe durata Războiului de Frontieră Sud-African.",
+        "Calea ferată ce conectează nordul de orașul Tsumeb are un terminal aici.",
+        "Localitatea este cunoscută pentru industria meșteșugărească, în special olăritul tradițional."
+      ]
+    },
+    {
+      "id": "okahandja-cities-v2",
+      "descriptionAdvanced": "Okahandja este cunoscut la nivel național drept \"orașul grădină\" al Namibiei și ocupă un loc central în istoria națiunii Herero. Acesta a fost punctul unde liderii istorici importanți precum Maharero și fiul său Samuel Maharero și-au stabilit cartierul general în secolul al XIX-lea, devenind astfel inima spirituală și politică a poporului lor. Anual, în luna august, comunitatea se reunește aici într-o procesiune colorată pentru comemorarea eroilor căzuți în luptele trecute. Din punct de vedere geografic, orașul marchează intersecția unor importante rute de tranzit ce fac legătura între est, vest și nordul îndepărtat. Istorie K7 — semnificația culturală și politică a centrelor tradiționale africane.",
+      "factsAdvanced": [
+        "Prima stație de misiune a fost deschisă în oraș în 1850.",
+        "Găzduiește mormintele unor lideri Herero istorici, printre care și Jonker Afrikaner.",
+        "Populația localității numără aproximativ 24.000 de persoane.",
+        "Festivalul Zilei Eroilor Herero (Ziua Roșie) atrage anual mii de participanți.",
+        "Este renumit pentru vasta piață de sculpturi în lemn și obiecte de artizanat.",
+        "Numele orașului înseamnă literal \"locul unde râul se lărgește\"."
+      ]
+    },
+    {
+      "id": "keetmanshoop-cities-v2",
+      "descriptionAdvanced": "Keetmanshoop, cel mai important oraș din sudul Namibiei și capitala regiunii //Karas, este situat într-o regiune predominant aridă a țării. Orașul a luat naștere în 1866 datorită înființării unei stații a Societății Misionare Rinene, sprijinită financiar de Johann Keetman, un industriaș și filantrop german de la care își trage și numele. Astăzi, localitatea reprezintă un nod de comunicare și aprovizionare pentru fermele masive axate pe creșterea oilor karakul. O atracție deosebită situată în apropierea sa este Pădurea de Arbori Tolbă, un ecosistem straniu și protejat unde pot fi admirați acești arbori aloici seculari unici în lume. Geografie K7 — așezările umane în zonele de deșert și semi-deșert.",
+      "factsAdvanced": [
+        "Orașul a fost fondat la data de 14 aprilie 1866.",
+        "Numele orașului omagiază eforturile financiare ale lui Johann Keetman.",
+        "Populația actuală se învârte în jurul a 21.000 de locuitori.",
+        "Pădurea de Arbori Tolbă se află la 14 kilometri distanță nord-est de oraș.",
+        "Este un important punct de convergență pentru calea ferată sudică a țării.",
+        "Zona este lider la nivel național în creșterea ovinelor din rasa karakul."
+      ]
+    },
+    {
+      "id": "tsumeb-cities-v2",
+      "descriptionAdvanced": "Tsumeb este cel mai extins centru urban situat în regiunea Oshikoto și este recunoscut la nivel mondial pentru depozitele sale de minerale, fiind considerat o adevărată minune geologică ce conține peste 200 de minerale diferite, printre care se numără plumbul, cuprul, zincul și argintul. Localitatea s-a format și a prosperat în jurul activităților extractive, încă de la deschiderea primelor mine la începutul secolului al XX-lea. Dincolo de faima sa minieră, Tsumeb se află pe ruta principală spre faimosul Parc Național Etosha și este de asemenea o zonă renumită pentru agricultura fertilă din triunghiul format cu Otavi și Grootfontein. Științele Pământului K8 — procese geologice și resursele minerale rare.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată oficial ca oraș minier în 1905.",
+        "Populația așezării urbane numără aproximativ 19.000 de locuitori.",
+        "Peste 200 de minerale diferite au fost identificate în cariera principală.",
+        "Mineralul Tsumcorit, o descoperire a anilor '70, poartă numele companiei care opera mina.",
+        "Minele de cupru au generat majoritatea bogăției economice inițiale a orașului.",
+        "Sistemul minier original atingea adâncimi de peste 1600 de metri."
+      ]
+    },
+    {
+      "id": "gobabis-cities-v2",
+      "descriptionAdvanced": "Gobabis este inima administrativă și de afaceri a regiunii Omaheke din estul Namibiei și poartă pe bună dreptate denumirea de \"Capitala vitelor\" a țării. Orașul este poziționat strategic pe traseul autostrăzii Trans-Kalahari, o rută fundamentală ce leagă portul namibian Walvis Bay de Pretoria și Johannesburg în Africa de Sud. În centrul localității, statuia impunătoare a unui taur uriaș reafirmă faptul că prelucrarea și creșterea bovinelor constituie coloana vertebrală a economiei regionale. Înființat în 1856, orașul are și o bogată istorie misionară și de conflicte locale timpurii. Economie K6 — agricultura intensivă și creșterea vitelor în regiuni semiaride.",
+      "factsAdvanced": [
+        "Misiunea locală a fost fondată în anul 1856 de către misionarul Heinrich Kleinschmidt.",
+        "Populația se cifrează în jurul valorii de 19.000 de locuitori.",
+        "Aici este situat punctul central al coridorului autostrăzii Trans-Kalahari.",
+        "Regiunea produce o pondere uriașă din carnea de vită exportată a țării.",
+        "La intrarea în oraș stă falnică o statuie a unui taur Brahman.",
+        "Numele provine dintr-o limbă Khoekhoe și s-ar traduce ca \"locul de discuție\" sau conflict."
+      ]
+    },
+    {
+      "id": "grootfontein-cities-v2",
+      "descriptionAdvanced": "Grootfontein, situat în nord-estul Namibiei, este cunoscut pentru pământurile sale verzi și fertile datorită precipitațiilor bogate pe care le primește pe durata verii, lucru neobișnuit pentru restul peisajului uscat al țării. Orașul a fost fondat la sfârșitul secolului al XIX-lea de emigranți din Republica Transvaal de origine bură. Acesta aparține faimosului \"Triunghi Otavi\", bogat în terenuri pretabile agriculturii unde sunt cultivate porumb, floarea soarelui și sorg. La câțiva kilometri de oraș se odihnește în pământ faimosul meteorit Hoba, care este considerat a fi cel mai mare corp intact de natură meteorică descoperit vreodată pe suprafața terestră. Științele Pământului K7 — agricultura de precipitații sezoniere și fenomene cosmice.",
+      "factsAdvanced": [
+        "Așezarea a fost întemeiată oficial în anul 1885.",
+        "Populația numără cu aproximație un număr de 23.000 de cetățeni.",
+        "Numele este un cuvânt din afrikaans, semnificând literal \"izvorul cel mare\".",
+        "Meteoritul Hoba se află situat la doar 24 de kilometri de centrul orașului.",
+        "Regiunea este renumită pentru solul roșu propice plantării porumbului.",
+        "Meteoritul din apropiere are o masă estimată care depășește 60 de tone."
+      ]
+    },
+    {
+      "id": "luderitz-cities-v2",
+      "descriptionAdvanced": "Lüderitz este un oraș-port cu totul inedit, captiv între valurile reci ale apelor Atlanticului de Sud și marginile uscate ale deșertului vast. Fondat în anul 1883 de un prosper comerciant german din Bremen pe nume Adolf Lüderitz, așezarea surprinde prin stilul arhitectonic colonial perfect păstrat, desprins dintr-o carte poștală germană de la început de secol, având fațade în stil Art Nouveau sau Art Deco. Odinioară un nod central febril grație goanei explozive după diamante, la începutul anilor 1900, economia sa actuală se sprijină preponderent pe un masiv sector de pescuit comercial. Orașul faimă și printr-un sentiment perpetuu de izolare extremă. Istorie K8 — influențele coloniale și arhitecturale timpurii din Africa.",
+      "factsAdvanced": [
+        "Fundația orașului a fost pusă prin achiziția teritoriului în mai 1883.",
+        "Biserica luterană istorică Felsenkirche se află poziționată pe o colină proeminentă.",
+        "Populația este una restrânsă, atingând circa 12.000 de locuitori.",
+        "Așezarea Kolmanskop, un renumit oraș-fantomă de diamantieri, este la doar 10 km distanță.",
+        "Portul este mărginit de pinguini care se regăsesc în colonii pe Halifax Island.",
+        "Clima este sever marcată de vânturi extrem de puternice, ce poartă adesea nisip fin."
+      ]
+    },
+    {
+      "id": "mariental-cities-v2",
+      "descriptionAdvanced": "Mariental, situat în centrul sudic al Namibiei și de-a lungul magistralei rutiere B1, este capitala județului Hardap, acționând ca inima administrativă și inima activității comerciale pentru teritoriul adiacent de crescători extensivi de oi. Imediat spre nord-vest, masivul baraj Hardap închide rețeaua hidrografică a fluviului secat Fish River, asigurând o rețea uriașă și extinsă de canale pentru o irigație pe suprafețe masive unde sunt produse cantități semnificative de citrice, cereale hibride și furaje de origine animală. Dincolo de scopurile agricole stringente, acumularea respectivă asigură un pol turistic important la nivel de macroregiune cu focus pe activități acvatice recreative. Geografie K7 — modificarea apelor de suprafață și influența sistemelor de irigații.",
+      "factsAdvanced": [
+        "Prima clădire feroviară a fost ridicată în respectiva locație în 1912.",
+        "Populația urbană actuală se învârte în preajma a 15.000 de locuitori.",
+        "Barajul imens Hardap se găsește situat la 24 de kilometri distanță, în nord-vest.",
+        "Lacul artificial furnizează resursa de apă potabilă necesară localității urbane.",
+        "Numele se datorează soției primului colonist, respectiva numindu-se Maria.",
+        "Climatul e caracterizat printr-o ariditate severă și un diferențial termic diurn masiv."
+      ]
+    },
+    {
+      "id": "outjo-cities-v2",
+      "descriptionAdvanced": "Outjo este un mic și plin de viață centru urban din provincia Kunene din nord-vestul namibian, adeseori descris sub genericul descriptiv de \"poartă deschisă spre Etosha\", întrucât este cel mai apropiat și însemnat punct premergător uriașului parc faunistic menționat. Construit strategic lângă masive roci carstice ascunzătoare de izvoare subterane prețioase, peisajul învecinat are puternice valențe agrare cu focusare pe bovine. Străzile sale au un aspect prăfuit dar sunt colorate de prezența jacarandelor africane și a copacilor tipici de bougainvillea alături de un set redus de edificii cu o rezonanță teutonă colonială. Sociologie K6 — turismul ca un pivot de stimulare a economiei din centrele rurale.",
+      "factsAdvanced": [
+        "Bazele fortificate de administrație germană au fost puse efectiv în anul 1897.",
+        "Populația atinge cu aproximație un număr redus de doar 8.000 de persoane.",
+        "Intrarea principală Anderssons în ecosistemul Etosha e situată la aproximativ 90 de kilometri.",
+        "O mașinărie istorică cu tracțiune numită Franke Haus atrage pasionați și curioși.",
+        "Este faimos prin produsele de panificație originare realizate de cofetăria istorică Outjo Bäckerei.",
+        "Termenul toponimic autohton se poate traduce ca și noțiunea naturală \"dealuri ascuțite\"."
+      ]
+    },
+    {
+      "id": "karasburg-cities-v2",
+      "descriptionAdvanced": "Karasburg, centrul urban esențial al județului de graniță //Karas în sudu-estul Namibiei, funcționează de peste o sută de ani ca placă turnantă în transporturile rutiere dar și nod feroviar sud-african masiv cu destinație teritoriile de frontieră naționale de sud. Cunoscut prin activitatea agricolă extremă desfășurată pe exploatări latifundiare dedicate rasei karakul, prețuită pentru pielicica sa mătăsoasă și moale de lux, Karasburg atrage un mediu de afaceri exclusiv orientat către nișa rurală izolată. Peisajul extrem de desicat și cald dictează în proporții uriașe profilul activităților diurne ale întregii populații urbane izolate de marea modernitate. Geografie K7 — adaptarea industriei pastorale tradiționale într-o geografie aridă aspră.",
+      "factsAdvanced": [
+        "Inițial, la momentul întemeierii sale istorice rutiere, se numea cu expresia Kalkfontein-Sud.",
+        "Găzduiește în jur de o populație de doar 4.500 de rezidenți permanenți.",
+        "Constituie prima localitate semnificativă majoră pentru toți cei intrați dinspre statul sud-african.",
+        "Economia pivotantă constă invariabil exclusiv din masiva producție ovină pentru sectorul pielăriei.",
+        "Termenul cu rezonanțe geografice //Karas provine dintr-un idiom local de sens \"boulder\".",
+        "Regiunea sudică extremă se distinge puternic prin arșițe implacabile și peisaje aspre."
+      ]
+    },
+    {
+      "id": "karibib-cities-v2",
+      "descriptionAdvanced": "Karibib este un orașel tipic rural situat exact pe principala axă modernă rutieră namibiană care taie teritoriul între litoralul sud-atlantic vast și capitala interioară metropolitană montană. Orașul prăfuit, odinioară celebru grație uriașei cantități calitative și considerabile de marmură extrem de faimoasă din carierele de marmură de nuanță unică, o mare parte purtată la mii de kilometri pe o axă a bogăției europene. Pe de altă parte, în epoca mai prezentă, deschiderea impresionantă a faimoasei exploatări aurifere colosale subterane Navachab a reactivat complet importanța fundamentală a întregului sistem urbanistic. Istorie K8 — reînvierea activității urbanistice determinată de zăcămintele proaspete geologice identificate.",
+      "factsAdvanced": [
+        "Creșterea accelerată și bruscă din temelii a pornit ca urmare a liniei de tren Windhoek-Swakopmund, anul 1900.",
+        "Are o structură populațională restrânsă de în jur de aproximativ 5.000 de oameni rezidenți.",
+        "Mina gigant de un zăcământ masiv de aur numită Navachab Mine e adiacentă localității urbane menționate.",
+        "Din punct de vedere geografic precis, faimoasa marmură poartă titlul recunoscut ca \"Karibib-Marmor\".",
+        "Regimentele administrației militare colonizatoare teutone dețineau cândva stații operaționale logistice strategice.",
+        "Deține structuri tip pub din piatră masivă perfect nealterate conservate prin zeci de decenii grele."
+      ]
+    },
+    {
+      "id": "omaruru-cities-v2",
+      "descriptionAdvanced": "Omaruru este o perlă culturală urbană de mărime medie ridicată exact pe valea secată cu ape trecătoare subterane ale masivului râu sezonier Omaruru, un magnet excepțional cu un peisaj unic cu mulți arbori maturi imenși tipici zonelor sud-vestice ale statului. Cunoscut printre turiști deosebiți datorită multitudinii fermecătoare cu afaceri viticole tip podgorie experimentale, plantații aride restrânse sau centre locale pentru producători prețuiți specializați cu meșteșuguri realizate dintr-un lemn natural exclusivist. Există un fond masiv cultural al puternicei răscoale istorice timpurii a populației herero a condus pe termen foarte îndelungat către un cult onorific, cu respectiva locație ca centru fundamental onorat prin impunătorul turn ridicat la origine ca un obiectiv militar defenziv, ce purta la bază denumirea istorică Turnul Franke. Istorie K7 — arhitectura coloniilor timpurii teutone din era imperiului cu rezistența civilizației istorice indigene locale.",
+      "factsAdvanced": [
+        "Fondarea propriu-zisă se consideră a fi marcată de stabilirea unei stații misionare europene, în anul 1870.",
+        "Are o structură de demografie compactă de mai mult de aproximativ 6.000 de cetățeni autohtoni.",
+        "A devenit renumit prin faimosul și experimentalul său unicat domeniu numit Podgoria Kristall Kellerei.",
+        "Locul prezintă evenimentul unic anual, un uriaș festival de tradiții ecvestre artistice denumit The Artist Trail.",
+        "Centrul a servit sub titulatura de capitală oficială timpurie pe durata masivului monarh istoric Wilhelm Zeraua.",
+        "Turnul defensiv de război, numit la început Franke-Turm, a fost complet terminat conform structurilor vechi, spre finele 1908."
+      ]
+    },
+    {
+      "id": "otjiwarongo-cities-v2",
+      "descriptionAdvanced": "Otjiwarongo poartă calitatea impresionantă reală cu renume de \"inima uriașă a felinelor cu tipar distinct denumite gheparzi\", fiind centrul mondial pentru cel mai uriaș fond de salvgardare al unei asociații caritabile dedicate ocrotirii masive a exemplarelor respective. Locația urbană mare, funcționează perfect cu caracter de lider economic agricol uriaș regional având zeci de platforme orientate masiv de latifundiari dedicați unui fenomen masiv în ramura crescătorilor autohtoni axată prin producția unică mondial cu carne bovină extrem de prețioasă. În nord-vest, un ecosistem straniu la scară enormă platoul imens de tip masiv stâncos și pietros, Waterberg reprezintă un ecosistem inedit pentru supraviețuirea altor felurite minunății naturale excepționale ca antilopa extrem rară denumită Roan. Zoologie K8 — centre de salvare naturală și management regional în ecologia de conservare naturală sud-vestică extremă.",
+      "factsAdvanced": [
+        "Bazele au fost fixate definitiv prin dezvoltarea feroviară timpurie istorică din secolul precedent în perioada timpurie a anului 1906.",
+        "Locația respectivă adună demografic conform unei structuri majore naționale mai bine de aproape aproximativ 28.000 de suflete.",
+        "Renumitul sanctuar uriaș al celei de-a doua inițiative mondiale (CCF) - Cheetah Conservation Fund are epicentrul acolo.",
+        "Se traduce din idiomul autohton nativ Herero de bază cu înțelesul \"locul cel splendid, înconjurat de vite corpolente grațioase\".",
+        "E locația din care pornește înspre regiuni o rută națională principală direcționată constant în masivul sanctuar, Parc Național Waterberg.",
+        "Rămâne indiscutabil și neechivoc un pivot economic rutier principal comercial imens."
+      ]
+    },
+    {
+      "id": "eenhana-cities-v2",
+      "descriptionAdvanced": "Eenhana se individualizează geografic printr-o postură modernă și a devenit reședința administrației fundamentale de profil național a nordicei subdiviziuni din regiunea aglomerată vastă a țării cu numele Ohangwena. Localitatea prăfuită cu drumuri late a cunoscut efectiv o traiectorie accelerată intens de ridicare socio-economică, mutându-se radical de la simplul statut a unui fost lagăr și cartier fortificat, într-un avanpost dinamic de antreprenoriate locale mici dar în esență complet neprețuite de marea majoritate a rurarului aferent extrem și greu încercat de secetă perenă sau inundații capricioase timpurii deosebite. Mai important este altarul extrem de sacru și venerat Sanctuarul Comemorării, cu rol de aducere la pioasă aducere aminte a martirilor ce luptaseră, din războiul uriaș denumit Frontiera Namibiană pentru eliberare și reîntregire de drept. Sociologie K6 — recuperarea unor teritorii traumatizate post-militar pe plan social masiv al nordului național izolat puternic extrem de la rute.",
+      "factsAdvanced": [
+        "Oficializarea la formă urbanizată primară de rang oraș modern cu fond statal s-a produs fundamental prin anul recunoscut curent 1999.",
+        "Localitatea adăpostește de jur împrejur în mediul intim, efectiv mult peste nivelul aproximativ raportat estimativ recent al 6.000 locuitori.",
+        "Relieful geografic și vegetal definitoriu circumscris la maxim limitează mediul în speță de la distanțe cu arbori lemnoși masivi și desisuri stufoase unice.",
+        "Păstrează Altarul Eenhana pentru Eroi cu scop precis fondat complet definit structural conform proiectul final de bază realizat direct final cu succes uriaș complet spre 2008.",
+        "Reprezintă baza principală fundamental majoră și nodală fundamental cheie a marii artere masive tip drum regional conectiv rapid strategic Eenhana spre est Okongo.",
+        "Are calitatea excepțională în cadrul țării fiind considerat drept centru politic guvernamental major din centrul masiv al zonelor terestre rurale masive din latitudinea indepărtată nordică la graniță."
+      ]
+    },
+    {
+      "id": "opuwo-cities-v2",
+      "descriptionAdvanced": "Opuwo reprezintă la figurat și efectiv prin natura lucrurilor cel mai impresionant popas uriaș și centru cultural, de o anvergură indiscutabilă supremă pentru etnia arhaică păstoară izolată puternic la nivel masiv, și profund autentică și de o însemnătate uriașă în cultura națională, etnia unică Himba din stat. Așezarea are de la prima privire direct, specificul cel mai inedit și impresionant complet datorită fuziunii fără compromis a populațiilor rurale seminomade perfect tradiționale străvechi nealterate de trecerea marelui timp de cultură clasică alături total de peisaj general de o viață la un mod extrem modern contemporan total inedit asimilat direct și inseparabil, reprezentând practic inima turistică către imensul și necercetata întindere a ținutului uriaș ancestral al numitei zone Kaokoland. Sociologie K7 — simbioza structurilor izolate tradiționale cu civilizațiile masiv urbane din cadrul statelor contemporane neatinse vizibil la un moment precis istoric masiv prin fenomene și mari globalizări de durată unică extrem.",
+      "factsAdvanced": [
+        "A fost transformat cu forța dintr-un punct inițial total necunoscut nefolosit inițial dar asigurat exclusiv ca simplu staționar pentru misiuni sud-africane complet fortificate din uriașul război de frontieră brutal.",
+        "Terminologia masivă originală a localității conform idiomul de grai străvechi nealterat se citește masiv conform unei variante de fond de un vocabular de sens cu mesaj strict și de refuz \"Suficient, am terminat\".",
+        "Totalul masiv locuitori, demografic central la marea majoritate a anului tinde să raporteze cu precizie pe hârtie și formal cam aproximativ de doar circa de fapt real în jur de aproape mai mari 8.000 cetățeni locali.",
+        "Femeile etniei rurale majore himba prezente, utilizează masiv în cotidian masiv în esență conform un preparat cosmetic local complet excepțional cu bază complet mineral natural complet pur, de tip ocru la bază absolută.",
+        "De aici se inițiază total imens marea majoritate uriașă a tuturor rutelor comerciale către un uriaș pol izolat montan unic spectaculos natural, masiva cataractă masivă denumită strict de origine drept cascadele colosale Epupa.",
+        "Populația este profund amestecată din 2 ramuri mari Herero complet alături prin integrare masivă la grupurile mari de Himba total tradiționali complet vizual perfect recognoscibili complet masiv oriunde."
+      ]
+    },
+    {
+      "id": "ongwediva-cities-v2",
+      "descriptionAdvanced": "Ongwediva s-a desprins complet total treptat de o poziție complet neobservabilă ca rol exclusiv strict inițial dar cu o esență principală pur un post uriaș cu destinații din învățământ timpuriu unicat din trecut, ajungând și progresând masiv radical într-un centru absolut un pol economic total important excepțional al nordicei suprafețe de interes național absolut și comercial major imens fundamental. Manifestarea de mândrie absolut majoră recurent din fond cu specific major a localității, constă din uriașul organizat eveniment periodic comercial anual exclusiv major al unei mari uriașe complet anuale manifestări expoziționale unice la scară a nivel de expoziție total dedicat economie absolut major cu bază absolut unică la expunerea expozițională a comercianților la nord Târgul Anual Ongwediva care unește sute sau mii afaceri extrem internaționale complet. Economie K6 — efectul catalizator produs direct neîntrerupt din zone economice de evenimente anuale la scară complet extins.",
+      "factsAdvanced": [
+        "S-a deschis conform administrativ fondativ primăria cu funcții formal de formă a unei localități absolut independente efectiv la an de fond în general aproximativ final extrem recunoscut direct către o separare major absolut total decizie final major 1992.",
+        "Târgul Național Nord-Afacerilor, cu fond masiv Târgul Ongwediva Trade Fair se lansează anual permanent începând exact de bază direct complet masiv chiar direct spre masiv an 2000.",
+        "Universitatea și sector de institut național de nivel educațional universitar a deschis extensia campusurilor major de interes facultăți profil extrem pedagogic cu formarea inginerilor aici perfect poziționate.",
+        "Se întrepătrunde perfect complet pe toată întinderea urban complet direct legat cu vecină Oshakati din nord fără linii complet separative urban.",
+        "Locuitorii zonei urbane, în creștere, ating la un recensământ și cu valori destul de apropie pe raport estimat mare la număr de total cert mare peste complet la nivel real precis cert depășește masiv clar un cert și ferm 27.000 în număr persoană.",
+        "Reprezintă epicentrul dezvoltărilor tip zonă mediu afaceri privat masiv sector serviciilor total orientate urban exclusiv privat pe aflux modern complet exclusiv tip comercial în inima Oshana."
+      ]
+    },
+    {
+      "id": "oranjemund-cities-v2",
+      "descriptionAdvanced": "Oranjemund este localitatea cu profil extrem rar cu siguranță, fiind prin natura lucrurilor cel mai bine apărat și mai închis oraș cu profil la limită militară de origine privată cu zonă în sistem corporativ pur diamantifer de renume total planetar izolat total creat integral pe baze la estuar cu ocean pe valea extremă pe nord și stânga a fluviu vast portocaliu numit fluviu extrem de masiv absolut uriaș total extrem limită de sud al teritoriului național cu Africa la nord de granița fluviu absolut. Accesul efectiv, la bazele sale originale zeci lungi absolut cu ani cu bază la nivel de control strict extrem pur pe baza de un document strict viză pe permisiune tip zonă privată cu pază diamant a generat prin efectul strict protejat, o formare la un areal natural absolut total extrem de sigur la un oază paradis absolut fără om masiv pe tip la fel un tip zonă paradis de refugiu de păsări a creat absolut excepțional arie de zonă umedă pe gură de vărsare. Geografie K7 — structuri de tip rezervație absolut neprevăzute generate cu izolare efect complet artificial de nivel la exploatarea severă mineral controlată total de statul exclusiv control.",
+      "factsAdvanced": [
+        "Orășel a creat pe decizii majore de interese pur la zona extracției private absolut exclusiv de mare corporație colosală unică națională, fix pe fond bază strict direct de o fondare pur masivă decizie absolut clar la fix datat pe fix 1936.",
+        "Până foarte, complet efectiv extrem spre perioada absolut recent la anul definitiv deschis spre de public turistic total de abia, fix din prag și limita total deschis liber cert complet clar la prag an masiv pe zonă civil general de 2017 a funcționat complet, doar la sistem de zonă cu pază.",
+        "Localitate, se găsește și are plasamentul geografic, cert fix doar strict lângă și imediat de marea gură enormă de apă a vărsare la enorm și imens masiv curs fluviu Orange.",
+        "Suprafața sa extinsă imediat cu râu la mare este pe statut oficial, înregistrat un sit zonă convenție recunoscut pe importanță natural pură absolut umed protejată tip sit internațional Ramsar.",
+        "Atinge și, posedă cert pe nivel date locale urbane masive un fond numeric la fel extrem stabil cert redus pe doar, undeva absolut mic dar garantat stabil aproximativ cert real la total precis asigurat la aproximativ de o populație exclusivă doar rezident clar, estimat masiv fix la cel mult nivel 4.000.",
+        "A început din prezent o perioadă cu modificări pe tranziție lent cert a economie totală, care merge pe turistic și verde agricultură mic."
+      ]
+    },
+    {
+      "id": "usakos-cities-v2",
+      "descriptionAdvanced": "Usakos stă liniștit ca o micuță și veche așezare adormită și ascunsă pe ruta foarte caldă ce ocolește pitoresc muntele abrupt formidabil, muntele izolat Erongo la traseul lung către oraș cu port mare al Atlantic sud vestic din inima capitalei naționale interioare la o depărtare considerabilă est. Punct originar masiv strategic absolut esențial din secol trecut la trasee pe linii înguste a masive transporturi extrem trenuri de gabarit cu ecartament german istoric feroviar extrem folosit de imperiul timpuriu absolut clar cert funcțional perfect istoric. Clădiri masiv foarte vechi și prăfuite alături exclusiv doar din stație centrală pe infrastructura veche cu o gară istoric foarte veche ruginite vagoane uitate din o istorie de aburi evocă perfect perioada glorioasă de mult apus din zona transport cu minerale rare absolut. Geografie K6 — degradare economică la nivel și restrângere a oraș la limită la declin de drumuri ferate tip izolate și vechi complet din transport pe traseu uscat arid.",
+      "factsAdvanced": [
+        "A luat un mic și slab complet start clar ca așezare pe punct inițial absolut cert în jurul și exclusiv a o locație tip oază de un izvor natural extrem valoros în 1900.",
+        "Locuiește pe structura sa administrativ pe rapoarte un complet număr pe total stabil cert în recensăminte de la puțin clar sub raport clar peste un număr precis stabil 3.500 locuitori.",
+        "Se cunoaște și are notorietate absolut din cauza de proximitate la nord geografic față a uluitorului punct natural de tip stâncă de la un uriaș munții de vârfuri granit numite și recunoscut Erongo masiv izolat spectaculos.",
+        "Pe vremuri și mult istoric timpuriu din deceniul trecut secol era pol, central unic punct principal reparație cu mare uzină service a marilor tren utilaje grele locomotiva cu abur uriaș complet.",
+        "În apropiere la sud și masiv lateral sud vest de zonă, stau așezate la fel pe peisaj absolut unic natural complet gol arid, și la o oră departe masiv faimoase rocile spectaculoase din vârf Spitzkoppe.",
+        "Stație veche prăfuit cu micuțe clădire pe o stație veche păstrează arhitectura la vechi complet coloniști teutoni stil clădire masiv complet original pe stare conservat."
+      ]
+    },
+    {
+      "id": "outapi-cities-v2",
+      "descriptionAdvanced": "Outapi, de altfel denumit la variante tradițional masiv istoric și local mai mereu denumit drept Ombalantu pe o largă măsură de băștinaș complet la mod masiv curent exclusiv, este efectiv complet nod administrativ mare de profil administrativ și de primar capital central absolut recunoscut cert al uriașului pol de centru nordic izolat regiune Omusati și zonă intens agricolă și creștere rural imens complet pastoral așezată est-vest a țării. Locul e absolut renumit faimos complet total pe prezență și a deține cu lauda imens un masiv uriaș și complet masiv total colosal enorm pom tradițional denumit local complet cu Ombalantu pe specie mare baobab colosal o formă tip baobab extrem uriaș golit natural pe un mare gol intern enorm complet ce din trecut s-a uzitat util ca un azil mare natural un refugiu sigur. Botanică K6 — semnificație complet practic utilă a mari flori și de uriași marele pe o faună uriaș cu pomi tip vegetație tip savană izolat mare arid uriaș.",
+      "factsAdvanced": [
+        "Copacul gigantic cu o deosebit circumferință uimitor arbore mare baobab Ombalantu atinge absolut sigur conform total mărime enorm la bază în număr 28 din diametru o rază contur metri cu grosime absolut uriaș excepțional natural clar real garantat și unic.",
+        "Este nucleul cel mai ridicat și cel important de conducere efectiv localitate la administrații cu guvern a regiunii recunoscute a zonei Omusati precis asigurat legal național complet.",
+        "Totalizează din calcul de persoane pe evidențe estimative la date masiv clare din evidențe, număr de aproximativ sigur cert masiv doar sub aproape limită absolut de în jur spre nivel stabil complet sigur pe raport realitate la maxim și complet sub un 7.000 adult locuitori activi.",
+        "Economia se focusează intens excepțional la scară regional comercial absolut total la mare bază din comerț produs de mic meșteșugar agricultor pe câmp tradițional exclusiv absolut cu mare intens masiv cultivarea tipică locală complet din zona nordic masiv.",
+        "Găzduiește complet funcțional din proiect bază an un anual uriaș complet masiv târg economic festival numit oficial la stat cu nume de zona un festival anual Târg Olufuko.",
+        "Găzduiește și este sediul efectiv pentru masiv complex sanitar tip spital raional de la o rază acoperire uriașă, un Spital Outapi cu o rază uriașă servind masiv pe sate zeci kilometru pe izolat rute exclusiv."
+      ]
+    },
+    {
+      "id": "helao-nafidi-cities-v2",
+      "descriptionAdvanced": "Helao Nafidi reprezintă urban un experiment cu totul extrem de masiv diferit neașteptat fiind absolut rezultatul la nivel teritorial direct obținut a unei integrări exclusiv unificate de absolut de contopire exclusiv unice de administrativă din anul a mai multe precis la fel ca localitate la o decizie guvernamentală la de contopire completă de mai mici pe un lanț a mai exact și efectiv de sate cinci la graniță cu stat angolez complet așezat din regiuni cu extrem limită a la nord teritorial, zona Ohangwena absolut total geografic nord direct limitrof graniță izolat de un trafic al masiv național. Acest oraș tip panglică de un nod comercial liniar foarte extrem de mare dezvoltare masivă total concentrează tot aflux la uriaș punct la punct și pe comerț izolat dar de un enorm val trafic intens cu bază de pe punct Oshikango trecere frontiere vame cu stat a Angola absolut colosal asigurat zilnic din plin masiv aglomerat exclusiv. Economie K7 — hub și poli de un pol comercial transfrontalier cu comerț în mediul tip graniță de frontieră extrem izolate național și influență asupra dezvoltării zonelor locale naționale urban masive.",
+      "factsAdvanced": [
+        "A luat naștere exclusiv strict legal masiv administrativ în anul destul un recunoscut clar cert total exact din și definitiv spre recunoscut pe act document din an decizie oficial fondator precis cu așezare cert de an pe an calendaristic de decizie exact pe anul stabilit 2004.",
+        "Poartă nume și este pur de botez complet o de dedicație respect pentru masiv nume ce o onoare pur adus un masiv fond de o erou absolut cert real cu recunoaștere a lupte din eliberare un mare conducător Helao Nafidi cert recunoscut.",
+        "Constă, la structura de formare fond administrativ absolut o fuziune a punct a sate Oshikango de pe rute un punct la Omafo exclusiv Ohangwena precis o zonă spre pe rută Ohangwena direct zonă Omafo cert Onhuno asigurat direct absolut unic Engela.",
+        "Este masiv dominat de zona Punct Frontiera la punct extrem trecere și punct oficial vama a rutei denumit local de control trafic vamal Oshikango cu zonă angolez colosal un flux activ tranzit permanent intens.",
+        "Posedă pe nivel demografic raport extrem, estimat absolut în jur un nivel uriaș a urcat enorm absolut brusc spre de un număr populație cam spre un cert absolut peste precis a locuitori activ 19.000 locuitori cu cetățeni activ absolut.",
+        "Prezintă extrem de uriaș o explozie extrem imobiliar masiv prin zeci platforme hale noi total de magazine parc o platforme mari stoc logistice și de depozite parcuri mari engros pentru a o asigura deservire piețele pe mari și extrem uriașe din stat."
+      ]
+    }
+  ]
+}

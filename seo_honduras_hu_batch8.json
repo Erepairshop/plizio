@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antigua-casa-presidencial-landmarks-v2",
+      "descriptionAdvanced": "A Régi Elnöki Palota (Antigua Casa Presidencial) Tegucigalpa történelmi központjában, a Choluteca-folyó partján fekvő ikonikus, kastélyszerű épület. Az 1916 és 1922 között, egy olasz építész vezetésével épült palota a neogótikus, reneszánsz és mór stílusjegyek lenyűgöző, eklektikus ötvözete, amelyet lőrésekkel ellátott kőfalak és bástyák díszítenek. Több mint hét évtizeden át (1922–1994) ez volt a hondurasi elnökök hivatalos rezidenciája és az ország politikai hatalmának központja, túlélt forradalmakat, katonai puccsokat és hurrikánokat. Ma már nem lát el kormányzati funkciót; az épület a Hondurasi Történeti Archívumnak (Archivo Nacional) és múzeumnak ad otthont, ahol a látogatók bejárhatják az egykori elnöki lakosztályokat és a díszes fogadótermeket. Látványosság K8 — politikai örökség.",
+      "factsAdvanced": [
+        "1916 és 1922 között épült Tegucigalpa történelmi központjában.",
+        "1922 és 1994 között a hondurasi elnökök hivatalos rezidenciája volt.",
+        "Kastélyszerű megjelenésű, neogótikus, mór és reneszánsz elemekkel.",
+        "Masszív kőfalai és lőrései erődítmény jelleget kölcsönöznek neki.",
+        "A Choluteca-folyó partján, a jelenlegi Nemzeti Kongresszus közelében áll.",
+        "Ma múzeumként és a Hondurasi Történeti Archívumként funkcionál.",
+        "Belső udvarait és dísztermeit a korabeli elegancia jellemzi."
+      ]
+    },
+    {
+      "id": "catedral-inmaculada-concepcion-choluteca-landmarks-v2",
+      "descriptionAdvanced": "A Szeplőtelen Fogantatás Katedrális (Catedral de la Inmaculada Concepción) Choluteca városának legfontosabb vallási és építészeti emléke, és egyben Dél-Honduras legnagyobb katolikus temploma. A 17. században (körülbelül az 1640-es években) alapított templom klasszikus spanyol gyarmati stílusban épült, puritán, fehérre meszelt homlokzatát két egyforma harangtorony és egy kupola egészíti ki. A katedrális a város gyönyörűen megőrzött, macskaköves központi terét uralja. A belső térben kiemelt figyelmet érdemel a mahagóniból faragott ősi oltár és a Szeplőtelen Szűz tiszteletére állított szentély. Decemberben a város védőszentjének ünnepén a katedrális és a tér a hatalmas, színes Feria Patronal (Védőszent Fesztivál) központjává válik, ahol hagyományos dél-hondurasi (chorotega) kultúra találkozik a spanyol tradíciókkal. Látványosság K7 — déli gyarmati építészet.",
+      "factsAdvanced": [
+        "Choluteca, Dél-Honduras legnagyobb városának központi katedrálisa.",
+        "A 17. század közepén (kb. 1640) épült spanyol gyarmati stílusban.",
+        "Fehérre meszelt, robusztus homlokzattal és két harangtoronnyal rendelkezik.",
+        "A Szeplőtelen Fogantatásnak (Inmaculada Concepción) van szentelve.",
+        "Belső terét egy gyönyörű, mahagóniból faragott oltár díszíti.",
+        "Decemberben a régió legnagyobb vallási fesztiváljának helyszíne.",
+        "A város történelmi, macskaköves óvárosának (Casco Histórico) szíve."
+      ]
+    },
+    {
+      "id": "fuerte-santa-barbara-trujillo-landmarks-v2",
+      "descriptionAdvanced": "A Santa Bárbara Erőd (Fuerte de Santa Bárbara) Trujillo karibi kikötővárosában található, és az egyik legrégebbi spanyol katonai létesítmény Közép-Amerikában. Az építkezést a 16. század közepén (1550 körül) kezdték meg a Trujillo-öböl fölé magasodó dombon, hogy megvédjék a spanyol gyarmatot a Karib-tengeren portyázó angol, francia és holland kalózok – köztük a hírhedt Henry Morgan – ismétlődő támadásaitól. Bár az évszázadok során többször megrongálódott és kalózok is elfoglalták, masszív kőfalai és egykori ágyúi ma is lenyűgöző látványt nyújtanak. Az erődhöz kötődik egy másik történelmi esemény is: 1860-ban itt végezték ki William Walkert, az amerikai 'filibustert' (kalandort), aki megpróbálta fegyverrel meghódítani Közép-Amerikát. Ma az erőd a hondurasi történelem egyik legnépszerűbb tengerparti műemléke. Látványosság K8 — kalózok és erődök.",
+      "factsAdvanced": [
+        "Közép-Amerika egyik legrégebbi spanyol erődítménye (kb. 1550-es alapítás).",
+        "Trujillo városában, a Karib-tenger és az öböl feletti dombon helyezkedik el.",
+        "Célja a város védelme volt a kalózok (pl. Henry Morgan) támadásai ellen.",
+        "Történelme során a kalózok többször sikeresen kifosztották és felégették.",
+        "Fennmaradt kőfalai között ma is láthatók az eredeti spanyol ágyúk.",
+        "1860-ban itt végezték ki William Walker amerikai kalandort.",
+        "1990-ben a hondurasi kormány hivatalosan Nemzeti Műemlékké nyilvánította."
+      ]
+    },
+    {
+      "id": "estadio-francisco-morazan-landmarks-v2",
+      "descriptionAdvanced": "Az Estadio Francisco Morazán San Pedro Sula egyik legfontosabb és legrégebbi sportlétesítménye. Az 1938-ban épült, és a hondurasi nemzeti hősről, Francisco Morazánról elnevezett stadion körülbelül 18 000 néző befogadására alkalmas. Bár méretében elmarad az újabb Estadio Olímpico Metropolitanótól, a Morazán a város futballtörténelmének szíve: otthont ad a Real España és alkalmanként a Marathón helyi rivális csapatoknak. Angol stílusú építészete (nincs futópálya, a lelátók közvetlenül a pálya mellett vannak) rendkívül intenzív, szoros atmoszférát teremt a mérkőzéseken, ami miatt a helyi szurkolók különösen kedvelik. A stadion a városközpontban fekszik, és a futball mellett gyakran ad otthont nagy koncerteknek (például Vicente Fernández vagy a Los Tigres del Norte) és társadalmi eseményeknek. Látványosság K7 — városi sport.",
+      "factsAdvanced": [
+        "San Pedro Sula történelmi, városközponti stadionja.",
+        "1938-ban alapították, befogadóképessége nagyjából 18 000 fő.",
+        "Angol stílusú elrendezése van, a lelátók rendkívül közel vannak a pályához.",
+        "A helyi Real España labdarúgócsapat hagyományos otthona.",
+        "Nevét a közép-amerikai nemzeti hősről, Francisco Morazánról kapta.",
+        "Intim és tüzes atmoszférája miatt a szurkolók egyik kedvence.",
+        "Számos nemzetközi zenei koncert és fesztivál helyszíneként is szolgál."
+      ]
+    },
+    {
+      "id": "catedral-de-la-ceiba-landmarks-v2",
+      "descriptionAdvanced": "A Szent Izidor Katedrális (Catedral de San Isidro Labrador) La Ceiba lüktető karibi városának legfontosabb katolikus központja. Az épület a város szívében, a Parque Central szomszédságában található. A jelenlegi, klasszikus spanyol elemekkel díszített, világos színekre festett templomépület a 20. század közepén nyerte el mai formáját, miután az eredeti, fából készült kápolna már nem tudta kiszolgálni a banánipar fellendülése miatt rohamosan növekvő lakosságot. A katedrális igazi kulturális jelentősége májusban, a város védőszentjének, San Isidro Labradornak (Földműves Szent Izidor) ünnepén mutatkozik meg: ekkor a templom körüli utcák adnak otthont a Gran Carnaval Internacional de La Ceiba-nak, Közép-Amerika legnagyobb és legszínesebb karneváljának, amely több százezer látogatót vonz a zenés, táncos felvonulásokra. Látványosság K7 — karibi vallás és karnevál.",
+      "factsAdvanced": [
+        "La Ceiba városának főtemploma, a Parque Central mellett áll.",
+        "Földműves Szent Izidornak (San Isidro Labrador), a város védőszentjének szentelték.",
+        "A jelenlegi kőépület a 20. században épült, felváltva egy korábbi fakápolnát.",
+        "Világos, egyszerű, mégis elegáns karibi-spanyol építészeti stílus jellemzi.",
+        "Májusban a templom ünnepe nyitja meg a híres La Ceiba-i Karnevált.",
+        "A karnevál idején a templom környéke a zenei és táncos események központja.",
+        "A helyi katolikus közösség és a garifuna hívők fontos találkozóhelye."
+      ]
+    },
+    {
+      "id": "muelle-de-tela-landmarks-v2",
+      "descriptionAdvanced": "A Telai Régi Móló (Muelle Viejo de Tela) Atlántida megye egyik leghíresebb fotópontja és történelmi mementója a Karib-tenger partján. Ezt az egykor gigantikus, masszív favázas kikötői dokkot a 20. század elején építette a Tela Railroad Company (később United Fruit Company), és évtizedekig a hondurasi banánexport legfőbb csomópontja volt. Itt rakták a vagonokból a hajókra a zöld aranyként emlegetett gyümölcsöt. Mára a móló tengerbe nyúló része nagyrészt elpusztult a hurrikánok (különösen a Mitch hurrikán) és az időjárás viszontagságai miatt, a megmaradt romos fa- és betonoszlopok azonban ikonikus, nosztalgikus látványt nyújtanak a fehér homokos parton. A helyszín ma a naplementét csodáló turisták, a helyi fiatalok és a kézműves halászok kedvelt gyülekezőhelye. Látványosság K8 — banánipari műemlékek.",
+      "factsAdvanced": [
+        "Tela városának tengerpartján található, történelmi jelentőségű móló.",
+        "A 20. század elején a Tela Railroad Company (United Fruit) építette.",
+        "Évtizedeken át a hondurasi banánexport legfontosabb tengeri kapuja volt.",
+        "Mára nagyrészt elpusztult az erózió és a karibi hurrikánok (pl. Mitch) miatt.",
+        "A tengerből kiálló régi fa- és betonoszlopok ikonikus fotótémát nyújtanak.",
+        "Nem lát el ipari funkciót, a turisták és helyi halászok kedvelt találkozóhelye.",
+        "A hondurasi 'Banánköztársaság' korszak romantikus és szomorú mementója."
+      ]
+    },
+    {
+      "id": "parque-central-gracias-landmarks-v2",
+      "descriptionAdvanced": "A Parque Central de Gracias (Központi Park) a gyönyörű hegyvidéki gyarmati város, Gracias szívében helyezkedik el, Lempira megyében. A négyzet alakú teret gondozott kertek, hatalmas, árnyékot adó fák (köztük évszázados ceibák) és egy elegáns központi pavilon díszíti. A parkot minden irányból a 16. és 17. században épült spanyol gyarmati építészet remekei szegélyezik, beleértve a San Marcos templomot és az egykori spanyol Királyi Törvényszék (Audiencia de los Confines) épületét. A téren található egy emlékmű, amelyet Lempira kacikának, a spanyolok ellen küzdő hősies őslakos vezérnek állítottak. A Parque Central nemcsak a turisták, hanem a helyiek számára is a mindennapi élet, a pihenés és a társadalmi események (például a Lempira-napi ünnepségek) legfőbb színtere. Látványosság K7 — gyarmati terek.",
+      "factsAdvanced": [
+        "Gracias történelmi városának földrajzi és kulturális középpontja.",
+        "Hatalmas ősfák és gondozott trópusi növényzet árnyékolja.",
+        "A teret épségben maradt 16-17. századi gyarmati kőépületek veszik körül.",
+        "Közvetlen szomszédságában áll a San Marcos templom és a városháza.",
+        "Egy szobor állít emléket Lempirának, a lenca őslakosok nemzeti hősének.",
+        "A 16. században (amikor Gracias főváros volt) Közép-Amerika politikai centruma volt.",
+        "A városi fesztiválok, kézműves vásárok és a mindennapi társasélet központja."
+      ]
+    },
+    {
+      "id": "iglesia-de-san-francisco-comayagua-landmarks-v2",
+      "descriptionAdvanced": "Az Iglesia de San Francisco Comayagua városában Közép-Amerika egyik legelsőként épült katolikus temploma, amelynek történelme 1560-ig nyúlik vissza. A ferences rend által alapított épület a korai gyarmati építészet klasszikus példája: vastag vályogfalakkal, egyszerű, puritán fa mennyezettel és egy aszimmetrikusan elhelyezett, zömök harangtoronnyal rendelkezik. A templom igazi nevezetessége az „Antonina” nevű harang, amelyet 1350-ben öntöttek az ibériai-félszigeten (Alcalá de Henares), és amelyet a spanyol hódítók hoztak magukkal; ez Amerika egyik legősibb, ma is létező harangja. A templom belső terében spanyol mesterek által készített, aranyfüsttel bevont gyönyörű barokk retablók (oltárképek) láthatók. A templom a comayaguai vallási turizmus kihagyhatatlan állomása. Látványosság K8 — korai templomok és harangok.",
+      "factsAdvanced": [
+        "1560-ban alapították, Közép-Amerika egyik legrégebbi katolikus temploma.",
+        "A ferences rend szerzetesei építették Comayagua óvárosában.",
+        "Vastag vályogfalai és puritán kialakítása a korai gyarmati időket idézik.",
+        "Itt található az 'Antonina' (1350), az amerikai kontinens egyik legrégebbi harangja.",
+        "Belső terét eredeti spanyol gyarmati barokk faoltárok díszítik.",
+        "Aszimmetrikus, robusztus harangtornya egyedi építészeti megoldás.",
+        "A comayaguai 'nagyhéten' (Semana Santa) tartott körmenetek fontos állomása."
+      ]
+    },
+    {
+      "id": "museo-de-comayagua-landmarks-v2",
+      "descriptionAdvanced": "A Comayaguai Régészeti és Történeti Múzeum (Museo Arqueológico de Comayagua) Honduras egyik legfontosabb kulturális intézménye, amely a város történelmi központjában, egy gyönyörűen felújított 16. századi spanyol gyarmati kúriában található. Az épület egykor a spanyol adminisztráció (Casa Presidencial) központjaként is szolgált, amikor Comayagua volt az ország fővárosa. A múzeum gyűjteménye átfogóan bemutatja a Comayagua-völgy történetét: a földszinten a prekolumbián (lenca) őslakos kultúrák páratlan kerámia- és kőfaragvány-leletei (polikróm edények) láthatók, míg az emeleti termek a spanyol hódítás, a gyarmati kor és a függetlenség relikviáit, köztük fegyvereket, vallási tárgyakat és történelmi dokumentumokat mutatnak be. A múzeum elengedhetetlen a hondurasi történelmi folytonosság megértéséhez. Látványosság K8 — régészet és történelem.",
+      "factsAdvanced": [
+        "Comayagua történelmi óvárosában, egy felújított 16. századi épületben található.",
+        "Az épület egykor elnöki palotaként (Casa Presidencial) funkcionált.",
+        "Honduras egyik leggazdagabb prekolumbián lenca kerámiagyűjteményét őrzi.",
+        "Bemutatja a Comayagua-völgy történelmét az őskortól a köztársaságig.",
+        "A gyarmati kori szekcióban spanyol fegyverek és egyházi relikviák is helyet kaptak.",
+        "Az épület belső udvara a hagyományos andalúz építészet stílusjegyeit viseli.",
+        "A város kulturális és oktatási turizmusának legfőbb központja."
+      ]
+    },
+    {
+      "id": "monumento-a-la-paz-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "A Monumento a la Paz (A Béke Emlékműve) Tegucigalpa egyik legikonikusabb és leglátványosabb szimbóluma, amely a Cerro Juana Laínez domb tetején magasodik, ahonnan 360 fokos, lélegzetelállító panoráma nyílik az egész fővárosra. A monumentális, hengeres formájú építményt 1948-ban emelték Tiburcio Carías Andino elnök uralma alatt, a második világháború befejezésének és a nemzetek közötti békének a tiszteletére. Az emlékmű építészete a maja kultúra motívumait ötvözi a modernista art deco stílussal. Különleges jellemzője, hogy a torony lábánál rendszeresen megkongatnak egy hatalmas japán békeharangot. A környező ökológiai park gondozott kertjeivel, sétányaival és biztonságos környezetével a tegucigalpai családok legnépszerűbb hétvégi kirándulóhelye. Látványosság K7 — panoráma és emlékművek.",
+      "factsAdvanced": [
+        "A Cerro Juana Laínez domb tetején magasodik Tegucigalpában.",
+        "1948-ban épült a második világháború utáni világbéke tiszteletére.",
+        "Tiburcio Carías Andino diktátor idején emelték.",
+        "Az art deco és a prehispán (maja) építészeti motívumokat ötvözi.",
+        "Tetejéről páratlan, 360 fokos panoráma nyílik a fővárosra.",
+        "Az emlékmű mellett található egy hatalmas japán békeharang.",
+        "A dombot körülölelő ökológiai park a helyiek kedvelt rekreációs zónája."
+      ]
+    },
+    {
+      "id": "iglesia-santa-lucia-landmarks-v2",
+      "descriptionAdvanced": "A Santa Lucía templom (Iglesia de Santa Lucía) a Tegucigalpa közelében fekvő azonos nevű, festői hegyvidéki bányászfalu ékköve Francisco Morazán megyében. A 17. században épült kisméretű, hófehér gyarmati kápolna a falu legmagasabb pontján áll, ahonnan varázslatos kilátás nyílik a fenyőerdőkre és a völgyben elterülő fővárosra. A templom legnagyobb kincse egy Krisztus-szobor (El Cristo de las Mercedes), amelyet a hagyomány szerint maga IV. Fülöp spanyol király adományozott a településnek 1572-ben, hálából a helyi ezüstbányák bőséges hozamáért. Az épület egyszerű, faragott fa tetőszerkezettel (artesonado) és macskaköves előtérrel rendelkezik. A hűvös, gyakran ködös klíma és az érintetlen gyarmati környezet miatt Santa Lucía és temploma az egyik legromantikusabb belföldi turisztikai célpont. Látványosság K7 — hegyi kápolnák.",
+      "factsAdvanced": [
+        "A festői Santa Lucía bányászfaluban, Tegucigalpától 15 km-re található.",
+        "A 17. században épült spanyol gyarmati stílusban, hegyvidéki környezetben.",
+        "A falu legmagasabb pontján áll, panorámát nyújtva a völgyre és a fenyvesekre.",
+        "Legnagyobb kincse az 1572-es 'El Cristo de las Mercedes' faszobor.",
+        "A szobrot a legenda szerint IV. Fülöp spanyol király adományozta az ezüstért cserébe.",
+        "Egyszerű fehér homlokzata és faragott fa tetőszerkezete (artesonado) van.",
+        "A falu a fővárosiak egyik legnépszerűbb és leghangulatosabb hétvégi menedéke."
+      ]
+    },
+    {
+      "id": "galeria-nacional-de-arte-landmarks-v2",
+      "descriptionAdvanced": "A Hondurasi Nemzeti Művészeti Galéria (Galería Nacional de Arte - GNA) az ország legfontosabb képzőművészeti múzeuma. Érdekesség, hogy az intézmény eredetileg Tegucigalpa egyik lenyűgöző gyarmati épületében, a Paraninfóban működött, de később székhelyét Comayagua városába helyezte át egy gyönyörűen felújított történelmi épületbe, majd egy másik része visszatért a fővárosba (két helyszínes működés). A galéria gyűjteménye páratlan utazást kínál Honduras vizuális művészetében: a prehispán sziklarajzoktól és polikróm majakerámiáktól kezdve, a spanyol gyarmati idők ezüstművességén és vallási festményein át a 20. századi és kortárs hondurasi festők (mint Pablo Zelaya Sierra vagy José Antonio Velásquez) remekműveiig. A GNA nemcsak kiállítótér, hanem az oktatás és a kulturális identitás megőrzésének egyik legfőbb bástyája az országban. Látványosság K8 — nemzeti képzőművészet.",
+      "factsAdvanced": [
+        "Honduras legfontosabb és legátfogóbb képzőművészeti intézménye.",
+        "Gyűjteménye a prekolumbián korszaktól a kortárs művészetekig terjed.",
+        "Eredetileg Tegucigalpában (Paraninfo) alapították, jelenleg Comayaguában is működik.",
+        "Kiemelt gyűjteménye van a spanyol gyarmati ezüstművességből és egyházi festményekből.",
+        "Bemutatja a 20. századi hondurasi modernista festők (pl. Zelaya Sierra) munkáit.",
+        "A múzeum otthonául szolgáló épületek maguk is kiemelt történelmi műemlékek.",
+        "Rendszeresen szervez kulturális edukációs programokat iskolásoknak."
+      ]
+    },
+    {
+      "id": "museo-de-history-militar-honduras-landmarks-v2",
+      "descriptionAdvanced": "A Hondurasi Hadtörténeti Múzeum (Museo de Historia Militar) Tegucigalpa történelmi negyedének (Parque Valle mellett) egyik egyedülálló látványossága, amely az egykori San Francisco kolostor és kaszárnya hatalmas kőépületében kapott helyet. A múzeum bemutatja Honduras hadtörténetét a spanyol gyarmati időktől és a függetlenségi háborúktól kezdve, a 20. századi belső konfliktusokon és az 1969-es, El Salvador elleni 'Futballháborún' át egészen a modern békefenntartó missziókig. A gyűjteményben egyenruhák, korabeli lőfegyverek, tüzérségi eszközök, Francisco Morazán tábornok személyes tárgyai, valamint lenyűgöző történelmi fotóarchívum található. Az épület udvarán kiállított régi vadászrepülőgépek és katonai járművek különösen népszerűek. A múzeum a hondurasi hadsereg és a fegyveres erők nemzetépítő szerepét hivatott megörökíteni. Látványosság K7 — katonai örökség.",
+      "factsAdvanced": [
+        "Tegucigalpában, a történelmi San Francisco egykori kaszárnyaépületében található.",
+        "Honduras hadtörténetét mutatja be a gyarmati kortól napjainkig.",
+        "Fontos relikviákat őriz Francisco Morazán tábornoktól, a nemzeti hőstől.",
+        "Külön részleget szentelnek az 1969-es 'Futballháborúnak' (Guerra del Fútbol).",
+        "A gyűjteményben antik fegyverek, egyenruhák és térképek szerepelnek.",
+        "A belső udvaron történelmi vadászrepülőgépek és katonai járművek láthatók.",
+        "Az épület maga is műemlék, masszív kőfalakkal és kolostori múlttal."
+      ]
+    },
+    {
+      "id": "parque-la-leona-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "A Parque La Leona Tegucigalpa egyik legromantikusabb, legrégebbi és legszebb kilátást nyújtó közparkja, amely a város történelmi magja felett, a La Leona nevű meredek domboldalon fekszik. A 19. század végén (a Marco Aurelio Soto-korszakban) kialakított parkot buja trópusi kertek, árnyékot adó fák, kanyargós kőösvények és klasszikus stílusú padok díszítik. A nevét ('A Nőstényoroszlán') a legendák szerint azokról a vadmacskákról kapta, amelyek egykor ezen a hegyoldalon kóboroltak. A park közepén egy szobor áll Francisco Morazán tiszteletére, de a legfőbb vonzerő a kőből épült kilátóterasz (mirador), ahonnan zavartalan, festői panoráma nyílik Tegucigalpa óvárosára, a katedrális kupoláira és a távoli hegyekre. Különösen népszerű találkozóhely a szerelmespárok és a fotósok körében naplemente idején. Látványosság K7 — városi panoráma.",
+      "factsAdvanced": [
+        "Tegucigalpa egyik legrégebbi, a 19. század végén alapított közparkja.",
+        "A La Leona nevű meredek domboldalon, a történelmi városközpont felett terül el.",
+        "Nevét a legenda szerint az egykor itt vadászó pumákról/vadmacskákról kapta.",
+        "Kilátóteraszáról lenyűgöző panoráma nyílik a főváros óvárosára.",
+        "Buja növényzet, kőösvények és klasszikus vaspadok biztosítják a romantikus atmoszférát.",
+        "A park közepén Francisco Morazán nemzeti hős szobra található.",
+        "A helyi fiatalok, művészek és fotósok egyik legkedveltebb találkozóhelye."
+      ]
+    },
+    {
+      "id": "puente-mallol-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "A Puente Mallol Tegucigalpa legrégebbi és legikonikusabb hídja, amely a Choluteca-folyót átívelve köti össze a történelmi fővárost, Tegucigalpát a szomszédos, egykori ikervárossal, Comayagüelával. Építését még a spanyol gyarmati időszak legvégén, 1817-ben kezdték meg Narciso Mallol utolsó spanyol polgármester megbízásából, és 1821-ben fejezték be, éppen a közép-amerikai függetlenség hajnalán. A hét masszív, tömör kőből rakott ívből álló építmény a korabeli spanyol mérnöki tudás remekműve. Több mint két évszázada dacol a természettel: túlélte az ország történetének összes nagy árvizét és hurrikánját, köztük a pusztító 1998-as Mitch hurrikánt is, miközben körülötte a modern betonhidak összeomlottak. Ma is aktív forgalmat bonyolít, a fővárosi ellenállóképesség szimbóluma. Látványosság K8 — történelmi hidak.",
+      "factsAdvanced": [
+        "Tegucigalpa legrégebbi hídja, 1817 és 1821 között épült.",
+        "A Choluteca-folyó felett köti össze Tegucigalpát és Comayagüelát.",
+        "Építését Narciso Mallol, a város utolsó spanyol polgármestere rendelte el.",
+        "Hét masszív, kőből rakott ívből álló gyarmati mérnöki mestermű.",
+        "Túlélte az elmúlt 200 év összes nagy áradását, beleértve a Mitch hurrikánt (1998).",
+        "A gyarmati és a modern független Honduras közötti fizikai kapocs.",
+        "Ma is aktívan használják mind gyalogos, mind járműforgalomra."
+      ]
+    },
+    {
+      "id": "universidad-nacional-autonoma-honduras-landmarks-v2",
+      "descriptionAdvanced": "A Hondurasi Nemzeti Autonóm Egyetem (Universidad Nacional Autónoma de Honduras - UNAH) a legnagyobb, legrégebbi és legjelentősebb felsőoktatási intézmény az országban. A Ciudad Universitaria (Egyetemi Város) nevű hatalmas, modern főcampusa Tegucigalpa keleti részén található. Az 1847-ben alapított egyetem központi szerepet játszott Honduras politikai, tudományos és kulturális fejlődésében. A kampuszon található épületek a 20. század második felének brutalista és modernista építészetét képviselik, kiegészítve hatalmas falfestményekkel, kertekkel és sportlétesítményekkel. Kiemelkedő látványossága a Palacio de los Deportes (Sportpalota) és a Csillagvizsgáló (Observatorio Astronómico). Az UNAH nemcsak a több tízezer hallgató miatt lüktető közösségi tér, hanem az intellektuális és politikai viták hagyományos hondurasi központja is. Látványosság K8 — felsőoktatás.",
+      "factsAdvanced": [
+        "Honduras legrégebbi és legnagyobb egyeteme, amelyet 1847-ben alapítottak.",
+        "Főcampusa, a Ciudad Universitaria Tegucigalpa keleti részén található.",
+        "A komplexum a brutalista és modernista betonépítészet példáit vonultatja fel.",
+        "Az ország tudományos, politikai és társadalmi életének legfőbb intellektuális központja.",
+        "Kiemelkedő létesítménye az egyetemi Csillagvizsgáló és a Palacio de los Deportes.",
+        "A campust jelentős kortárs falfestmények (murales) díszítik.",
+        "Több tízezer diákjával önálló, pezsgő városként működik a fővároson belül."
+      ]
+    },
+    {
+      "id": "parque-central-san-pedro-sula-landmarks-v2",
+      "descriptionAdvanced": "A San Pedro Sula-i Parque Central a város legnyüzsgőbb, legdinamikusabb társadalmi és földrajzi központja. A hatalmas, trópusi fákkal árnyékolt tér éles ellentétben áll Honduras ipari fővárosának zajával és forgalmával. A parkot kelet felől a tekintélyes Szent Péter Apostol Katedrális, más oldalairól pedig a Városháza (Municipalidad) és forgalmas kereskedelmi utcák határolják. A tér közepén egy elegáns pavilon (kiosko) található, ahol gyakran tartanak zenei előadásokat. A Parque Central igazi kulturális olvasztótégely: itt találkoznak a cipőtisztítók, a helyi politizáló nyugdíjasok, az utcai árusok és a turisták. A zöld oázis egyben az országos méretű tüntetések, ünneplések és a karácsonyi kivilágítás hagyományos központja is az északi régióban. Látványosság K7 — modern városi terek.",
+      "factsAdvanced": [
+        "San Pedro Sula, az ipari főváros lüktető társadalmi központja.",
+        "A parkot a Szent Péter Apostol Katedrális és a Városháza határolja.",
+        "Hatalmas trópusi fák és gondozott pázsit nyújt menedéket a városi hőség elől.",
+        "Központjában egy hagyományos pavilon (kiosko) áll zenei rendezvényekhez.",
+        "A helyi cipőtisztítók, utcai árusok és járókelők kedvelt találkozóhelye.",
+        "Az északi országrész legfontosabb színtere a politikai megmozdulásoknak.",
+        "Ünnepekkor (különösen karácsonykor) látványos díszkivilágítást kap."
+      ]
+    },
+    {
+      "id": "coca-cola-sign-sps-landmarks-v2",
+      "descriptionAdvanced": "A Coca-Cola-felirat (El Rótulo de la Coca-Cola) San Pedro Sula egyik legismertebb, leginkább ikonikus és egyben legszokatlanabb látványossága. A hatalmas, Hollywood-stílusú világító betűk a várostól nyugatra magasodó El Merendón hegység oldalában találhatók (a Cusuco Nemzeti Park határán), és az egész városból jól láthatók. Bár eredetileg egy egyszerű kereskedelmi óriásplakátnak készült, a helyiek az évtizedek során teljesen kisajátították, és a város nem hivatalos szimbólumává vált. A felirathoz vezető meredek, kanyargós hegyi ösvény San Pedro Sula legnépszerűbb szabadtéri fitnesz- és túraútvonala; kora reggel és késő délután százak másznak fel ide sportolni. A felirat alatti kilátópontról (Mirador) páratlan panoráma nyílik az egész Sula-völgyre. Látványosság K7 — városi kilátók.",
+      "factsAdvanced": [
+        "Hatalmas, Hollywood-stílusú világító felirat az El Merendón hegység oldalában.",
+        "San Pedro Sula egyik legismertebb, nem hivatalos vizuális szimbóluma.",
+        "Eredetileg kereskedelmi reklám volt, de a városkép szerves részévé vált.",
+        "A felirathoz vezető meredek ösvény a város legnépszerűbb fitneszútvonala.",
+        "A kilátópontról (Mirador) teljes panoráma nyílik San Pedro Sulára.",
+        "Kora reggel és naplemente után a leglátogatottabb a sportolók körében.",
+        "Az ösvény a Cusuco Nemzeti Park trópusi erdejének határán fut."
+      ]
+    },
+    {
+      "id": "la-tigra-national-park-life-v2",
+      "descriptionAdvanced": "A La Tigra Nemzeti Park (Parque Nacional La Tigra) volt Honduras első hivatalosan kijelölt nemzeti parkja 1980-ban, és a mai napig az ország egyik legfontosabb ökológiai kincse. Francisco Morazán megyében, mindössze 15 kilométerre Tegucigalpától helyezkedik el. A park egy 2200 méteres magasságot is elérő, buja trópusi felhőerdő (bosque nublado), amely létfontosságú szerepet játszik a főváros ivóvízellátásában (a vízigény közel 30%-át adja). A rendkívül gazdag biodiverzitás otthont ad ocelotoknak, pumáknak, tukánoknak, és a ritka, színpompás quetzál madárnak is. A park kiterjedt, jól karbantartott túraútvonal-hálózattal rendelkezik, amelyek a sűrű, epifitákkal és páfrányokkal borított erdei ösvényeken régi spanyol bányászati romokhoz és rejtett vízesésekhez vezetnek. Élővilág K8 — felhőerdők.",
+      "factsAdvanced": [
+        "Honduras elsőként (1980-ban) alapított hivatalos nemzeti parkja.",
+        "Tegucigalpától csupán 15 km-re fekvő magaslati trópusi felhőerdő.",
+        "A park biztosítja a főváros ivóvízellátásának közel 30%-át.",
+        "Gazdag élővilága van, többek között quetzál, puma és ocelot él itt.",
+        "Jól kiépített, történelmi bányászútvonalakat követő túraösvényei vannak.",
+        "A sűrű erdőt hatalmas páfrányok, mohák és orchideák (epifiták) borítják.",
+        "Népszerű ökoturisztikai célpont a fővárosiak és a külföldiek számára."
+      ]
+    },
+    {
+      "id": "uyuca-biological-reserve-life-v2",
+      "descriptionAdvanced": "Az Uyuca Biológiai Rezervátum (Reserva Biológica Uyuca) egy szigorúan védett trópusi hegyi felhőerdő Francisco Morazán megyében, a Zamorano Pánamerikai Mezőgazdasági Iskola (EAP Zamorano) felügyelete alatt. A több mint 2000 méteres magaslaton fekvő erdő szinte állandóan ködfelhőkbe burkolózik, ami egyedülálló, állandóan nedves mikroklímát teremt. A rezervátum elsősorban tudományos és oktatási kutatások célpontja: kivételes az endémikus növényfajok – különösen a broméliák és orchideák –, valamint a kétéltűek sokfélesége. Az Uyuca sűrű dzsungele menedéket nyújt a ritka szarvasoknak, lajhároknak és a színpompás trópusi madaraknak. Bár a turizmus szigorúan szabályozott a törékeny ökoszisztéma miatt, az egyetem által szervezett vezetett túrák páratlan betekintést engednek a közép-amerikai hegyvidéki dzsungelek intakt élővilágába. Élővilág K8 — tudományos rezervátumok.",
+      "factsAdvanced": [
+        "Szigorúan védett felhőerdő Francisco Morazán megyében (2000+ méter).",
+        "A neves Zamorano Mezőgazdasági Iskola kezeli és kutatja.",
+        "Az állandó köd miatt rendkívül gazdag orchideákban és broméliákban.",
+        "Elsődlegesen tudományos és ökológiai oktatási célokat szolgál.",
+        "Ritka kétéltűek, trópusi madarak és kisebb emlősök élőhelye.",
+        "A látogatás a törékeny ökoszisztéma védelmében szigorúan korlátozott.",
+        "Kulcsszerepet játszik a régió mikroklímájának és vízháztartásának fenntartásában."
+      ]
+    }
+  ]
+}

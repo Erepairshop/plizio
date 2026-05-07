@@ -1,0 +1,117 @@
+[
+  {
+    "id": "al-baida-grand-mosque-landmarks-v2",
+    "name": "Al-Baida Grand Mosque",
+    "desc": "A prominent religious structure in the high-altitude city of Al-Baida."
+  },
+  {
+    "id": "omar-mukhtar-mausoleum-landmarks-v2",
+    "name": "Omar Mukhtar Mausoleum",
+    "desc": "A memorial site in Benghazi for the famous Libyan resistance fighter against Italian colonization."
+  },
+  {
+    "id": "tripoli-central-post-office-landmarks-v2",
+    "name": "Tripoli Central Post Office",
+    "desc": "A historic and architecturally significant building in the city center of Tripoli."
+  },
+  {
+    "id": "ghadames-grand-mosque-landmarks-v2",
+    "name": "Ghadames Grand Mosque",
+    "desc": "A spiritual center in the oasis city of Ghadames, located south of the historic old town."
+  },
+  {
+    "id": "benghazi-university-campus-landmarks-v2",
+    "name": "Benghazi University Campus",
+    "desc": "A massive educational and research complex, originally named Garyounis University."
+  },
+  {
+    "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+    "name": "Al-Majidiya Mosque",
+    "desc": "An elegant historical mosque near the old city of Tripoli, known for its detailed ornamentation."
+  },
+  {
+    "id": "tobruk-grand-mosque-landmarks-v2",
+    "name": "Tobruk Grand Mosque",
+    "desc": "The most important Islamic center in the eastern coastal city of Tobruk."
+  },
+  {
+    "id": "misrata-airport-terminal-landmarks-v2",
+    "name": "Misrata Airport Terminal",
+    "desc": "The civilian passenger terminal at Misrata Airport, an important aviation center for trade."
+  },
+  {
+    "id": "al-kish-square-mosque-landmarks-v2",
+    "name": "Al-Kish Square Mosque",
+    "desc": "A highly visible mosque on the popular Al-Kish Square in Benghazi."
+  },
+  {
+    "id": "benghazi-great-mosque-landmarks-v2",
+    "name": "Benghazi Great Mosque",
+    "desc": "The central and oldest mosque of the city of Benghazi, a place of great spiritual importance."
+  },
+  {
+    "id": "tripoli-zoo-life-v2",
+    "name": "Tripoli Zoo",
+    "desc": "A significant park with a variety of animals."
+  },
+  {
+    "id": "benghazi-zoo-life-v2",
+    "name": "Benghazi Zoo",
+    "desc": "A zoo in the coastal city of Benghazi."
+  },
+  {
+    "id": "misrata-park-life-v2",
+    "name": "Misrata City Park",
+    "desc": "A large park for relaxation and play."
+  },
+  {
+    "id": "djebel-nafusa-agri-life-v2",
+    "name": "Jebel Nafusa Olive Groves",
+    "desc": "Traditional olive growing region in the mountains."
+  },
+  {
+    "id": "gadamis-oasis-life-v2",
+    "name": "Ghadames Oasis",
+    "desc": "A green oasis with traditional cultivation."
+  },
+  {
+    "id": "kufra-orchard-life-v2",
+    "name": "Kufra Orchards",
+    "desc": "Irrigated gardens in the middle of the desert."
+  },
+  {
+    "id": "zawia-farm-life-v2",
+    "name": "Zawia Agricultural Zone",
+    "desc": "A significant area for farming."
+  },
+  {
+    "id": "gharyan-nursery-life-v2",
+    "name": "Gharyan Nursery",
+    "desc": "A center for seedlings and plants."
+  },
+  {
+    "id": "sebha-park-life-v2",
+    "name": "Sebha Family Park",
+    "desc": "A recreation park for families in the desert."
+  },
+  {
+    "id": "tubruq-garden-life-v2",
+    "name": "Tobruk City Garden",
+    "desc": "A green resting point in Tobruk."
+  },
+  {
+    "id": "al-baida-zoo-life-v2",
+    "name": "Al-Baida Zoo",
+    "desc": "A small zoo in Cyrenaica."
+  },
+  {
+    "id": "djebel-akhdar-farm-life-v2",
+    "name": "Jebel Akhdar Fruit Farming",
+    "desc": "Fruit farming area in the green mountains."
+  },
+  {
+    "id": "slonta-nursery-life-v2",
+    "name": "Slonta Nursery",
+    "desc": "Important nursery for the region."
+  }
+]

@@ -110,7 +110,11 @@ import { norwayAllPoi } from "./norwayPoi";
 import { panamaAllPoi } from "./panamaPoi";
 import { poiExtraPakistanCitiesV2 } from "./poiExtraPakistanCitiesV2";
 import { poiExtraPakistanEconomicV2 } from "./poiExtraPakistanEconomicV2";
+import { poiExtraPakistanHistoryV2 } from "./poiExtraPakistanHistoryV2";
+import { poiExtraPakistanLandmarksV2 } from "./poiExtraPakistanLandmarksV2";
 import { poiExtraPakistanLifeV2 } from "./poiExtraPakistanLifeV2";
+import { poiExtraPakistanNatureV2 } from "./poiExtraPakistanNatureV2";
+import { poiExtraPakistanReliefV2 } from "./poiExtraPakistanReliefV2";
 import { poiExtraPhilippinesLifeV2 } from "./poiExtraPhilippinesLifeV2";
 import { polandAllPoi } from "./polandPoi";
 import { poiExtraPolandCities } from "./poiExtraPolandCities";
@@ -266,7 +270,12 @@ export const ALL_COUNTRY_POIS = ([
   ...norwayAllPoi,
   ...panamaAllPoi,
   ...poiExtraPakistanCitiesV2,
+  ...poiExtraPakistanEconomicV2,
+  ...poiExtraPakistanHistoryV2,
+  ...poiExtraPakistanLandmarksV2,
   ...poiExtraPakistanLifeV2,
+  ...poiExtraPakistanNatureV2,
+  ...poiExtraPakistanReliefV2,
   ...poiExtraPhilippinesLifeV2,
   ...polandAllPoi,
   ...poiExtraPolandCities,

@@ -1,0 +1,1575 @@
+{
+  "lang": "hu",
+  "country": "chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadLifeV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "doba-oil-field-economic-v2",
+      "descriptionAdvanced": "A(z) doba-oil-field-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "kome-oil-field-economic-v2",
+      "descriptionAdvanced": "A(z) kome-oil-field-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bol-river-port-economic-v2",
+      "descriptionAdvanced": "A(z) bol-river-port-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "moundou-brewery-economic-v2",
+      "descriptionAdvanced": "A(z) moundou-brewery-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "sarh-sugar-refinery-economic-v2",
+      "descriptionAdvanced": "A(z) sarh-sugar-refinery-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bongor-cotton-plant-economic-v2",
+      "descriptionAdvanced": "A(z) bongor-cotton-plant-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "pala-gold-mines-economic-v2",
+      "descriptionAdvanced": "A(z) pala-gold-mines-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mao-natron-mines-economic-v2",
+      "descriptionAdvanced": "A(z) mao-natron-mines-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "abeche-tannery-economic-v2",
+      "descriptionAdvanced": "A(z) abeche-tannery-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bebedjia-oil-center-economic-v2",
+      "descriptionAdvanced": "A(z) bebedjia-oil-center-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ndjamena-abattoir-economic-v2",
+      "descriptionAdvanced": "A(z) ndjamena-abattoir-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "melfi-iron-ore-economic-v2",
+      "descriptionAdvanced": "A(z) melfi-iron-ore-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "hadjer-lamis-limestone-economic-v2",
+      "descriptionAdvanced": "A(z) hadjer-lamis-limestone-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "guelendeng-port-economic-v2",
+      "descriptionAdvanced": "A(z) guelendeng-port-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "koumra-textile-factory-economic-v2",
+      "descriptionAdvanced": "A(z) koumra-textile-factory-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "rig-rig-natron-economic-v2",
+      "descriptionAdvanced": "A(z) rig-rig-natron-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bagasola-fishing-port-economic-v2",
+      "descriptionAdvanced": "A(z) bagasola-fishing-port-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lere-fishing-center-economic-v2",
+      "descriptionAdvanced": "A(z) lere-fishing-center-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "massakory-livestock-economic-v2",
+      "descriptionAdvanced": "A(z) massakory-livestock-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ati-meat-processing-economic-v2",
+      "descriptionAdvanced": "A(z) ati-meat-processing-economic-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ouara-history-v2",
+      "descriptionAdvanced": "A(z) ouara-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "njimi-history-v2",
+      "descriptionAdvanced": "A(z) njimi-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "gaoui-history-v2",
+      "descriptionAdvanced": "A(z) gaoui-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "yao-history-v2",
+      "descriptionAdvanced": "A(z) yao-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "koro-toro-history-v2",
+      "descriptionAdvanced": "A(z) koro-toro-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "toros-menalla-history-v2",
+      "descriptionAdvanced": "A(z) toros-menalla-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "goulfeil-history-v2",
+      "descriptionAdvanced": "A(z) goulfeil-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mdaga-history-v2",
+      "descriptionAdvanced": "A(z) mdaga-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "amsile-history-v2",
+      "descriptionAdvanced": "A(z) amsile-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tago-history-v2",
+      "descriptionAdvanced": "A(z) tago-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "niola-doa-history-v2",
+      "descriptionAdvanced": "A(z) niola-doa-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "gonoa-history-v2",
+      "descriptionAdvanced": "A(z) gonoa-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "soborom-history-v2",
+      "descriptionAdvanced": "A(z) soborom-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "terkezi-history-v2",
+      "descriptionAdvanced": "A(z) terkezi-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "fada-rock-art-history-v2",
+      "descriptionAdvanced": "A(z) fada-rock-art-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "massenya-ruins-history-v2",
+      "descriptionAdvanced": "A(z) massenya-ruins-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "abeche-palace-history-v2",
+      "descriptionAdvanced": "A(z) abeche-palace-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "njimi-tombs-history-v2",
+      "descriptionAdvanced": "A(z) njimi-tombs-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bahr-el-gazel-history-v2",
+      "descriptionAdvanced": "A(z) bahr-el-gazel-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mao-sultanate-history-v2",
+      "descriptionAdvanced": "A(z) mao-sultanate-history-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "grand-mosque-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) grand-mosque-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "cathedrale-nd-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) cathedrale-nd-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "monument-union-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) monument-union-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "palais-15-janvier-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) palais-15-janvier-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "stade-national-idriss-ouya-landmarks-v2",
+      "descriptionAdvanced": "A(z) stade-national-idriss-ouya-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "musee-national-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) musee-national-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "pont-amitie-bongor-landmarks-v2",
+      "descriptionAdvanced": "A(z) pont-amitie-bongor-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "beac-building-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) beac-building-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "grand-marche-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) grand-marche-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "palais-sultan-abeche-landmarks-v2",
+      "descriptionAdvanced": "A(z) palais-sultan-abeche-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mosquee-abeche-landmarks-v2",
+      "descriptionAdvanced": "A(z) mosquee-abeche-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "palais-gouverneur-faya-landmarks-v2",
+      "descriptionAdvanced": "A(z) palais-gouverneur-faya-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "cathedrale-moundou-landmarks-v2",
+      "descriptionAdvanced": "A(z) cathedrale-moundou-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "cathedrale-sarh-landmarks-v2",
+      "descriptionAdvanced": "A(z) cathedrale-sarh-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "centre-culturel-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) centre-culturel-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "place-independance-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) place-independance-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "hotel-ledger-plaza-landmarks-v2",
+      "descriptionAdvanced": "A(z) hotel-ledger-plaza-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "universite-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) universite-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "onama-building-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) onama-building-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "assemblee-nationale-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) assemblee-nationale-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "palais-rose-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) palais-rose-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "place-de-la-nation-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) place-de-la-nation-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "monument-aux-morts-ndjamena-landmarks-v2",
+      "descriptionAdvanced": "A(z) monument-aux-morts-ndjamena-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "grande-mosquee-moundou-landmarks-v2",
+      "descriptionAdvanced": "A(z) grande-mosquee-moundou-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "grande-mosquee-sarh-landmarks-v2",
+      "descriptionAdvanced": "A(z) grande-mosquee-sarh-landmarks-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "zakouma-elephants-life-v2",
+      "descriptionAdvanced": "A(z) zakouma-elephants-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "fitri-birds-life-v2",
+      "descriptionAdvanced": "A(z) fitri-birds-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "binder-lere-hippos-life-v2",
+      "descriptionAdvanced": "A(z) binder-lere-hippos-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "manda-wildlife-life-v2",
+      "descriptionAdvanced": "A(z) manda-wildlife-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ouadi-rime-oryx-life-v2",
+      "descriptionAdvanced": "A(z) ouadi-rime-oryx-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "sinne-djebele-fauna-life-v2",
+      "descriptionAdvanced": "A(z) sinne-djebele-fauna-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-chad-papyrus-life-v2",
+      "descriptionAdvanced": "A(z) lake-chad-papyrus-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "logone-rice-life-v2",
+      "descriptionAdvanced": "A(z) logone-rice-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "moyen-chari-cotton-life-v2",
+      "descriptionAdvanced": "A(z) moyen-chari-cotton-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ounianga-date-palms-life-v2",
+      "descriptionAdvanced": "A(z) ounianga-date-palms-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ndjamena-livestock-life-v2",
+      "descriptionAdvanced": "A(z) ndjamena-livestock-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mayo-kebbi-peanuts-life-v2",
+      "descriptionAdvanced": "A(z) mayo-kebbi-peanuts-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "abeche-camel-herds-life-v2",
+      "descriptionAdvanced": "A(z) abeche-camel-herds-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "chari-fishing-life-v2",
+      "descriptionAdvanced": "A(z) chari-fishing-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ndjamena-kids-park-life-v2",
+      "descriptionAdvanced": "A(z) ndjamena-kids-park-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "moundou-youth-park-life-v2",
+      "descriptionAdvanced": "A(z) moundou-youth-park-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "sarh-crafts-kids-life-v2",
+      "descriptionAdvanced": "A(z) sarh-crafts-kids-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bol-floating-gardens-life-v2",
+      "descriptionAdvanced": "A(z) bol-floating-gardens-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tibesti-nomad-camp-life-v2",
+      "descriptionAdvanced": "A(z) tibesti-nomad-camp-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "fada-oasis-kids-life-v2",
+      "descriptionAdvanced": "A(z) fada-oasis-kids-life-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-chad-nature-v2",
+      "descriptionAdvanced": "A(z) lake-chad-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "chari-river-nature-v2",
+      "descriptionAdvanced": "A(z) chari-river-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "logone-river-nature-v2",
+      "descriptionAdvanced": "A(z) logone-river-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "emi-koussi-nature-v2",
+      "descriptionAdvanced": "A(z) emi-koussi-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tibesti-mountains-nature-v2",
+      "descriptionAdvanced": "A(z) tibesti-mountains-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ennedi-plateau-nature-v2",
+      "descriptionAdvanced": "A(z) ennedi-plateau-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-fitri-nature-v2",
+      "descriptionAdvanced": "A(z) lake-fitri-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-iro-nature-v2",
+      "descriptionAdvanced": "A(z) lake-iro-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ounianga-lakes-nature-v2",
+      "descriptionAdvanced": "A(z) ounianga-lakes-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-katam-nature-v2",
+      "descriptionAdvanced": "A(z) lake-katam-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "guelta-archei-nature-v2",
+      "descriptionAdvanced": "A(z) guelta-archei-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bahr-salamat-nature-v2",
+      "descriptionAdvanced": "A(z) bahr-salamat-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bahr-aouk-nature-v2",
+      "descriptionAdvanced": "A(z) bahr-aouk-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bahr-keita-nature-v2",
+      "descriptionAdvanced": "A(z) bahr-keita-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mayo-kebbi-nature-v2",
+      "descriptionAdvanced": "A(z) mayo-kebbi-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-lere-nature-v2",
+      "descriptionAdvanced": "A(z) lake-lere-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lake-trene-nature-v2",
+      "descriptionAdvanced": "A(z) lake-trene-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "pic-tousside-nature-v2",
+      "descriptionAdvanced": "A(z) pic-tousside-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tarso-voon-nature-v2",
+      "descriptionAdvanced": "A(z) tarso-voon-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tarso-toh-nature-v2",
+      "descriptionAdvanced": "A(z) tarso-toh-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bikku-bitti-nature-v2",
+      "descriptionAdvanced": "A(z) bikku-bitti-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mandara-mountains-nature-v2",
+      "descriptionAdvanced": "A(z) mandara-mountains-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ouaddai-highlands-nature-v2",
+      "descriptionAdvanced": "A(z) ouaddai-highlands-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "manda-forest-nature-v2",
+      "descriptionAdvanced": "A(z) manda-forest-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "binder-lere-forest-nature-v2",
+      "descriptionAdvanced": "A(z) binder-lere-forest-nature-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bodele-depression-relief-v2",
+      "descriptionAdvanced": "A(z) bodele-depression-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "erdi-plateau-relief-v2",
+      "descriptionAdvanced": "A(z) erdi-plateau-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mourdi-depression-relief-v2",
+      "descriptionAdvanced": "A(z) mourdi-depression-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tarso-ahon-relief-v2",
+      "descriptionAdvanced": "A(z) tarso-ahon-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tarso-emissti-relief-v2",
+      "descriptionAdvanced": "A(z) tarso-emissti-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tarso-ourari-relief-v2",
+      "descriptionAdvanced": "A(z) tarso-ourari-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "borkou-dunes-relief-v2",
+      "descriptionAdvanced": "A(z) borkou-dunes-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "hadjer-el-hamis-relief-v2",
+      "descriptionAdvanced": "A(z) hadjer-el-hamis-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "era-kohor-crater-relief-v2",
+      "descriptionAdvanced": "A(z) era-kohor-crater-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "aozou-highlands-relief-v2",
+      "descriptionAdvanced": "A(z) aozou-highlands-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "abou-telfane-massif-relief-v2",
+      "descriptionAdvanced": "A(z) abou-telfane-massif-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bahr-el-ghazal-depression-relief-v2",
+      "descriptionAdvanced": "A(z) bahr-el-ghazal-depression-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "angamma-escarpment-relief-v2",
+      "descriptionAdvanced": "A(z) angamma-escarpment-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "djoli-hills-relief-v2",
+      "descriptionAdvanced": "A(z) djoli-hills-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "kapka-massif-relief-v2",
+      "descriptionAdvanced": "A(z) kapka-massif-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "biltine-plateau-relief-v2",
+      "descriptionAdvanced": "A(z) biltine-plateau-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "tchigai-plateau-relief-v2",
+      "descriptionAdvanced": "A(z) tchigai-plateau-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "gere-massif-relief-v2",
+      "descriptionAdvanced": "A(z) gere-massif-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "dougui-forest-relief-v2",
+      "descriptionAdvanced": "A(z) dougui-forest-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "kyabe-forest-relief-v2",
+      "descriptionAdvanced": "A(z) kyabe-forest-relief-v2 telep\u00fcl\u00e9s a r\u00e9gi\u00f3 egyik meghat\u00e1roz\u00f3 k\u00f6zpontja, amely a helyi gazdas\u00e1gi \u00e9s t\u00e1rsadalmi \u00e9letben j\u00e1tszik kulcsszerepet. A k\u00f6rny\u00e9k f\u00f6ldrajzi adotts\u00e1gai \u00e9s a k\u00f6z\u00f6ss\u00e9g hagyom\u00e1nyai egy\u00fcttesen form\u00e1lj\u00e1k a v\u00e1ros fejl\u0151d\u00e9s\u00e9t, amely n\u00e9lk\u00fcl\u00f6zhetetlen a r\u00e9gi\u00f3 k\u00f6zigazgat\u00e1sa \u00e9s az \u00e1ruforgalom szempontj\u00e1b\u00f3l. F\u00f6ldrajz K5 \u2014 R\u00e9gi\u00f3k \u00e9s telep\u00fcl\u00e9sek.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi csom\u00f3pont",
+        "K\u00f6zigazgat\u00e1si szerep",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa \u00e1ruforgalom",
+        "A r\u00e9gi\u00f3 meghat\u00e1roz\u00f3 telep\u00fcl\u00e9se"
+      ]
+    }
+  ]
+}

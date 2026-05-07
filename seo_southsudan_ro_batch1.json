@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "malakal-cities-v2",
+      "descriptionAdvanced": "Malakal este situat strategic în nord-estul Sudanului de Sud, pe malul Nilului Alb. Orașul servește ca punct central de comerț pentru statul Nilul Superior și este un centru cheie pentru industria petrolieră locală. Datorită poziției sale, a fost istoric un nod de transport vital între nordul și sudul regiunii. Istorie K8 – Locații strategice în regiune.",
+      "factsAdvanced": [
+        "Port major pe Nil",
+        "Hub mare de producție petrolieră",
+        "Centrul regiunii Shilluk",
+        "Peste 150.000 de locuitori",
+        "Nod de transport important",
+        "Centru educațional regional"
+      ]
+    },
+    {
+      "id": "wau-cities-v2",
+      "descriptionAdvanced": "Wau este al doilea oraș ca mărime din Sudanul de Sud și capitala statului Bahr el Ghazal de Vest. Este renumit pentru diversitatea sa etnică și culturală, fiind un punct de întâlnire pentru numeroase grupuri indigene. Orașul este conectat prin calea ferată de Sudan, ceea ce îl face un centru comercial esențial. Geografie K7 – Diversitatea culturală și urbanizarea.",
+      "factsAdvanced": [
+        "Capăt de linie feroviară",
+        "Situat pe râul Jur",
+        "Populație de aprox. 130.000",
+        "Catedrala Sf. Maria este celebră",
+        "Centru universitar important",
+        "Hub comercial pentru vest"
+      ]
+    },
+    {
+      "id": "yei-cities-v2",
+      "descriptionAdvanced": "Yei este un oraș comercial înfloritor situat în sud-vestul țării, aproape de granițele cu Uganda și Republica Democrată Congo. Cunoscut pentru solul său fertil și agricultura productivă, Yei este adesea numit 'Micul Londra' datorită dinamismului său economic. Orașul joacă un rol vital în schimburile comerciale transfrontaliere. Geografie K6 – Agricultura și comerțul de frontieră.",
+      "factsAdvanced": [
+        "Centru agricol major",
+        "Aproape de granița cu Uganda",
+        "Supranumit 'Micul Londra'",
+        "Hub pentru cafea și cereale",
+        "Punct strategic de transport",
+        "Populație în creștere rapidă"
+      ]
+    },
+    {
+      "id": "yambio-cities-v2",
+      "descriptionAdvanced": "Yambio este capitala statului Equatoria de Vest și se află într-una dintre cele mai fertile regiuni ale Sudanului de Sud. Orașul este centrul poporului Azande și este cunoscut pentru producția sa bogată de fructe tropicale, miere și culturi industriales. Climatul tropical umed favorizează o biodiversitate remarcabilă în împrejurimi. Sachkunde K3 – Plante și recolte tropicale.",
+      "factsAdvanced": [
+        "Capitala statului Equatoria de Vest",
+        "Centrul culturii Azande",
+        "Zona cu cele mai multe precipitații",
+        "Producător major de miere",
+        "Înconjurat de păduri tropicale",
+        "Punct agricol strategic"
+      ]
+    },
+    {
+      "id": "renk-cities-v2",
+      "descriptionAdvanced": "Renk este cel mai nordic oraș din Sudanul de Sud, situat în statul Nilul Superior, lângă granița cu Sudanul. Orașul este vital pentru economia națională datorită proiectelor sale mari de agricultură mecanizată și producției masive de sorg și gumă arabică. Fiind un port pe Nilul Alb, facilitează transportul mărfurilor către Juba. Geografie K8 – Agricultura industrială în zonele de stepă.",
+      "factsAdvanced": [
+        "Cel mai nordic oraș principal",
+        "Centru de agricultură mecanizată",
+        "Port fluvial pe Nilul Alb",
+        "Producător major de sorg",
+        "Poartă comercială spre Sudan",
+        "Zonă bogată în gumă arabică"
+      ]
+    },
+    {
+      "id": "bor-cities-v2",
+      "descriptionAdvanced": "Bor este capitala statului Jonglei și are o semnificație istorică imensă, fiind locul unde a început a doua mișcare de eliberare a Sudanului în 1983. Orașul este situat pe malul estic al Nilului Alb și este un centru important pentru comunitatea Dinka. Bor servește ca punct strategic pentru navigația pe Nil spre regiunea Sudd. Istorie K8 – Mișcări de independență în Africa.",
+      "factsAdvanced": [
+        "Capitala statului Jonglei",
+        "Locul revoltei din 1983",
+        "Centru cultural al Dinka Bor",
+        "Port fluvial strategic",
+        "Poarta către mlaștinile Sudd",
+        "Baza Universității John Garang"
+      ]
+    },
+    {
+      "id": "aweil-cities-v2",
+      "descriptionAdvanced": "Aweil este capitala statului Bahr el Ghazal de Nord și este cunoscut în principal pentru Proiectul de Orez Aweil, una dintre cele mai mari scheme agricole din țară. Orașul este situat la confluența râurilor Lol și Pongo, oferind terenuri inundabile fertile. Este un hub comercial esențial pentru cereale în regiunea de nord-vest. Geografie K7 – Managementul apei în agricultură.",
+      "factsAdvanced": [
+        "Capitala Bahr el Ghazal de Nord",
+        "Gazda Proiectului de Orez Aweil",
+        "Situat pe râul Lol",
+        "Nod feroviar spre nord",
+        "Piață mare de vite",
+        "Centru de producție a cerealelor"
+      ]
+    },
+    {
+      "id": "torit-cities-v2",
+      "descriptionAdvanced": "Torit, capitala statului Equatoria de Est, este renumit istoric ca locul unde a izbucnit prima revoltă militară sudaneză în 1955. Orașul este înconjurat de munți spectaculosi, inclusiv masivul Imatong, oferind un peisaj dramatic și o biodiversitate bogată. Este un centru administrativ cheie în sud-estul țării. Istorie K8 – Începutul conflictelor moderne.",
+      "factsAdvanced": [
+        "Capitala Equatoria de Est",
+        "Locul revoltei din 1955",
+        "Aproape de Munții Imatong",
+        "Centru pentru poporul Lotuko",
+        "Populație de aprox. 35.000",
+        "Punct strategic spre Kenya"
+      ]
+    },
+    {
+      "id": "bentiu-cities-v2",
+      "descriptionAdvanced": "Bentiu este capitala statului Unity și centrul bogatei industrii petroliere a Sudanului de Sud. Situat pe malul râului Bahr el Ghazal, orașul este înconjurat de câmpuri petroliere vaste care reprezintă coloana vertebrală a economiei naționale. Bentiu este, de asemenea, un centru tradițional important pentru crescătorii de vite Nuer. Geografie K8 – Resursele naturale și economia.",
+      "factsAdvanced": [
+        "Capitala statului Unity",
+        "Inima industriei petroliere",
+        "Situat pe Bahr el Ghazal",
+        "Centru major pentru poporul Nuer",
+        "Răfinărie de petrol în apropiere",
+        "Hub economic în nord"
+      ]
+    },
+    {
+      "id": "rumbek-cities-v2",
+      "descriptionAdvanced": "Rumbek este capitala statului Lakes și a servit ca sediu administrativ interimar pentru guvernul rebel în timpul războiului de eliberare. Orașul este un punct focal al culturii Dinka Agar și este cunoscut pentru spiritul său de rezistență. Situat într-o zonă de savană bogată, este un centru major pentru comerțul cu animale. Istorie K8 – Capitale în timpul conflictelor.",
+      "factsAdvanced": [
+        "Capitala statului Lakes",
+        "Fostă capitală interimară",
+        "Centru al culturii Dinka Agar",
+        "Punct comercial pentru vite",
+        "Bază pentru organizații umanitare",
+        "Situat în savana centrală"
+      ]
+    },
+    {
+      "id": "kuajok-cities-v2",
+      "descriptionAdvanced": "Kuajok este capitala statului Warrap și un centru administrativ crucial în vestul Sudanului de Sud. Orașul a crescut rapid după independență, devenind un hub pentru dezvoltarea regională și servicii guvernamentale. Este situat într-o regiune caracterizată prin creșterea extinsă a vitelor și agricultură de subzistență. Geografie K7 – Dezvoltarea centrelor administrative.",
+      "factsAdvanced": [
+        "Capitala statului Warrap",
+        "Centru administrativ modern",
+        "Situat în vestul țării",
+        "Hub for poporul Dinka Rek",
+        "Punct de dezvoltare rapidă",
+        "Piață regională de animale"
+      ]
+    },
+    {
+      "id": "nimule-cities-v2",
+      "descriptionAdvanced": "Nimule este cel mai important oraș de frontieră al Sudanului de Sud, situat la granița cu Uganda pe malul Nilului Alb. Este poarta principală de intrare pentru bunurile importate din Africa de Est, făcându-l vital pentru aprovizionarea capitalei Juba. Orașul găzduiește, de asemenea, un parc național faimos pentru elefanți și cascade. Geografie K6 – Importanța comerțului transfrontalier.",
+      "factsAdvanced": [
+        "Punct de frontieră cu Uganda",
+        "Port uscat principal al țării",
+        "Găzduiește Parcul Național Nimule",
+        "Situat pe malul Nilului Alb",
+        "Hub logistic pentru importuri",
+        "Cascadele Fula sunt în apropiere"
+      ]
+    },
+    {
+      "id": "kapoeta-cities-v2",
+      "descriptionAdvanced": "Kapoeta este un oraș strategic în statul Equatoria de Est, renumit pentru zăcămintele sale bogate de aur. Este centrul principal al comunității Toposa, păstrând tradiții pastorale puternice. Orașul servește ca punct de oprire crucial pe ruta comercială dintre Sudanul de Sud și Kenya prin granița de la Nadapal. Geografie K8 – Exploatarea resurselor minerale.",
+      "factsAdvanced": [
+        "Centru de minerit de aur",
+        "Oraș principal al poporului Toposa",
+        "Nod comercial spre Kenya",
+        "Climat semiarid specific",
+        "Punct de plecare pentru safari",
+        "Piață vibrantă de podoabe"
+      ]
+    },
+    {
+      "id": "maridi-cities-v2",
+      "descriptionAdvanced": "Maridi este un oraș pitoresc în Equatoria de Vest, înconjurat de păduri dense și terenuri agricole extrem de productive. Datorită precipitațiilor bogate, regiunea produce o varietate mare de fructe, cereale și este cunoscută pentru școlile sale de top. Orașul păstrează o atmosferă liniștită și verde, fiind un model de agricultură sustenabilă. Sachkunde K3 – Ecosistemul pădurii tropicale.",
+      "factsAdvanced": [
+        "Oraș agricol în Equatoria de Vest",
+        "Renumit pentru școlile de fete",
+        "Zonă bogată în mango și ananas",
+        "Înconjurat de păduri de tec",
+        "Altitudine mai ridicată, aer răcoros",
+        "Centru de formare profesională"
+      ]
+    },
+    {
+      "id": "kajokeji-cities-v2",
+      "descriptionAdvanced": "Kajo Keji este situat în extremitatea sudică a țării, aproape de granița cu Uganda, pe un platou fertil. Orașul este cunoscut pentru poporul Kuku și pentru dedicarea acestora față de educație și agricultură. Regiunea a fost istoric un centru de rezistență și un loc important pentru misiunile creștine. Geografie K7 – Relieful de platou și utilizarea terenului.",
+      "factsAdvanced": [
+        "Aproape de granița cu Uganda",
+        "Centru al poporului Kuku",
+        "Zona cu numeroase școli",
+        "Producător major de tutun și cereale",
+        "Situat pe un platou înalt",
+        "Punct istoric de misiune"
+      ]
+    },
+    {
+      "id": "tonj-cities-v2",
+      "descriptionAdvanced": "Tonj este un oraș istoric în statul Warrap, situat pe malul râului Tonj. Este o așezare centrală pentru comunitățile Dinka și a fost un punct administrativ important încă din epoca colonială. Orașul este înconjurat de pășuni vaste, fiind un nod esențial pentru mișcarea vitelor între sezoanele de ploaie și secetă. Földrajz K7 – Viața pastorală și ciclurile sezoniere.",
+      "factsAdvanced": [
+        "Situat pe râul Tonj",
+        "Centru major de creștere a vitelor",
+        "Oraș istoric în statul Warrap",
+        "Bază importantă în timpul războiului",
+        "Punct de legătură spre Wau",
+        "Cunoscut pentru tradițiile Dinka"
+      ]
+    },
+    {
+      "id": "yirol-cities-v2",
+      "descriptionAdvanced": "Yirol este amplasat spectaculos pe malul lacului Yirol în statul Lakes, oferind un peisaj unic în inima Sudanului de Sud. Orașul este un centru economic bazat pe pescuit și agricultură, fiind faimos pentru uleiul de susan produs local. Lacul oferă resurse vitale și este un punct de atracție pentru biodiversitatea locală. Sachkunde K4 – Viața în jurul lacurilor de apă dulce.",
+      "factsAdvanced": [
+        "Situat pe malul lacului Yirol",
+        "Centru de procesare a susanului",
+        "Pescuitul este activitatea principală",
+        "Oraș important în statul Lakes",
+        "Peisaj natural remarcabil",
+        "Hub pentru comerțul cu pește uscat"
+      ]
+    },
+    {
+      "id": "akobo-cities-v2",
+      "descriptionAdvanced": "Akobo este situat la granița de est cu Etiopia, pe malul râului Pibor. Datorită locației sale izolate și strategice, orașul este un punct de control important și un centru pentru poporul Nuer din est. Akobo servește ca hub pentru asistența umanitară și comerțul transfrontalier la scară mică cu regiunea Gambela. Geografie K8 – Zonele de frontieră izolate.",
+      "factsAdvanced": [
+        "Granița cu Etiopia",
+        "Situat pe râul Pibor",
+        "Centru pentru Nuer din est",
+        "Punct strategic de securitate",
+        "Izolat în timpul sezonului ploios",
+        "Hub umanitar regional"
+      ]
+    },
+    {
+      "id": "kodok-cities-v2",
+      "descriptionAdvanced": "Kodok, cunoscut istoric sub numele de Fashoda, este sediul spiritual și cultural al Regatului Shilluk. Aici se află reședința Regelui (Reth) Shilluk, fiind locul ceremoniilor de încoronare. Orașul a intrat în istoria mondială prin 'Incidentul Fashoda' din 1898, o dispută diplomatică între Franța și Marea Britanie. Istorie K8 – Diplomația colonială în Africa.",
+      "factsAdvanced": [
+        "Fostul nume: Fashoda",
+        "Sediul Regelui Shilluk",
+        "Locul incidentului din 1898",
+        "Centru spiritual major",
+        "Situat pe malul Nilului Alb",
+        "Păstrează arhitectura tradițională"
+      ]
+    },
+    {
+      "id": "nasir-cities-v2",
+      "descriptionAdvanced": "Nasir este un oraș strategic situat pe malul râului Sobat, în apropierea graniței cu Etiopia. Orașul are o istorie lungă ca post militar și de misiune, fiind un centru central pentru comunitatea Nuer Jikany. Poziția sa pe râul Sobat facilitează transportul fluvial și legăturile cu orașul Malakal. Geografie K8 – Rețelele de transport fluvial.",
+      "factsAdvanced": [
+        "Situat pe râul Sobat",
+        "Aproape de granița cu Etiopia",
+        "Centru pentru Nuer Jikany",
+        "Fost post militar anglo-egiptean",
+        "Nod de transport fluvial",
+        "Importanță strategică în est"
+      ]
+    },
+    {
+      "id": "leer-cities-v2",
+      "descriptionAdvanced": "Leer este un oraș important în statul Unity, situat în inima regiunii Nuer Dok. Orașul este cunoscut pentru solul său fertil și pentru rolul său istoric ca centru de învățământ și sănătate în regiunea Sudd. Leer a fost un punct focal al rezistenței și culturii locale în perioadele de conflict. Geografie K7 – Viața în zonele inundabile.",
+      "factsAdvanced": [
+        "Centru al regiunii Nuer Dok",
+        "Situat în statul Unity",
+        "Zonă agricolă fertilă",
+        "Oraș istoric de misiune",
+        "Aproape de mlaștinile Sudd",
+        "Populație majoritar Nuer"
+      ]
+    },
+    {
+      "id": "magwi-cities-v2",
+      "descriptionAdvanced": "Magwi este capitala comitatului Magwi din statul Equatoria de Est, situată într-o zonă montană și forestieră fertilă. Orașul este căminul poporului Acholi și este renumit pentru producția sa de cereale și rădăcinoase. Magwi a fost un loc central pentru găzduirea persoanelor repatriate, dezvoltându-se rapid ca centru agricol. Geografie K6 – Integrarea refugiaților și dezvoltarea rurală.",
+      "factsAdvanced": [
+        "Capitala comitatului Magwi",
+        "Centru al poporului Acholi",
+        "Soluri vulcanice foarte fertile",
+        "Producător major de cartofi dulci",
+        "Peisaj muntos spectaculos",
+        "Aproape de granița cu Uganda"
+      ]
+    },
+    {
+      "id": "mundri-cities-v2",
+      "descriptionAdvanced": "Mundri este un oraș strategic situat la intersecția unor drumuri comerciale importante în statul Equatoria de Vest. Este poarta de intrare dinspre Juba spre restul statului și este centrul comunității Moro. Orașul este cunoscut pentru peisajele sale verzi și pentru importanța sa istorică în educația religioasă din regiune. Geografie K7 – Orașele ca noduri rutiere.",
+      "factsAdvanced": [
+        "Oraș strategic în Equatoria de Vest",
+        "Centru al poporului Moro",
+        "Situat pe ruta spre Juba",
+        "Zonă agricolă productivă",
+        "Renumit pentru școlile bisericești",
+        "Peisaj de savană umedă"
+      ]
+    },
+    {
+      "id": "tambura-cities-v2",
+      "descriptionAdvanced": "Tambura este situat în extremitatea vestică a Sudanului de Sud, aproape de granița cu Republica Centrafricană. Orașul este numit după un faimos șef Azande și este centrul culturii regale a acestui popor în regiune. Izolarea sa geografică a permis păstrarea unor tradiții unice și a unui ecosistem forestier aproape intact. Istorie K8 – Regatele tradiționale în epoca modernă.",
+      "factsAdvanced": [
+        "Aproape de Rep. Centrafricană",
+        "Centru regal Azande",
+        "Numit după Șeful Tambura",
+        "Zonă de pădure tropicală densă",
+        "Izolat geografic și cultural",
+        "Producător de bumbac și cafea"
+      ]
+    },
+    {
+      "id": "gogrial-cities-v2",
+      "descriptionAdvanced": "Gogrial este un oraș istoric în statul Warrap, situat pe malul râului Jur. Este considerat inima simbolică a poporului Dinka, fiind locul de origine al multor lideri politici marcanți. Orașul este un centru pentru creșterea vitelor și păstrează legături strânse cu tradițiile ancestrale și structurile sociale tradiționale. Istorie K8 – Lideri și moștenire politică.",
+      "factsAdvanced": [
+        "Oraș istoric în statul Warrap",
+        "Situat pe râul Jur",
+        "Inima simbolică a Dinka",
+        "Piață regională de vite",
+        "Locul de origine al liderilor",
+        "Cunoscut pentru festivalurile de lupte"
+      ]
+    }
+  ]
+}

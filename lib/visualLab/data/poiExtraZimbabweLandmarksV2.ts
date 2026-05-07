@@ -176,7 +176,14 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
         "Uses passive cooling and relies almost entirely without conventional air conditioning.",
         "Was designed by architect Mick Pearce."
       ]
-    }, image: "/poi-images/eastgate-centre-landmarks-v2.webp"},
+    }, image: "/poi-images/eastgate-centre-landmarks-v2.webp",
+    descriptionAdvanced: {
+      en: "The Eastgate Centre in Harare is a pioneer in sustainable architecture, designed by architect Mick Pearce. It is world-renowned for its innovative passive cooling system, which mimics the design of termite mounds to regulate temperature without the need for conventional air conditioning. Completed in 1996, it remains a global case study for energy-efficient commercial buildings. Landmarks K8 — sustainable architecture and biomimicry."
+    },
+    factsAdvanced: {
+      en: ["Architect: Mick Pearce.", "Completion: 1996.", "Design concept: Biomimicry based on termite mounds.", "Sustainability: Uses passive cooling to avoid air conditioning.", "Significance: Globally recognized model for energy efficiency.", "Function: Office and retail complex in central Harare."]
+    }
+  },
   {
     id: "kariba-dam-landmarks-v2",
     type: "landmark",
@@ -211,7 +218,14 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
         "Was constructed between 1955 and 1959.",
         "Supplies a large proportion of the electricity for both Zimbabwe and Zambia."
       ]
-    }, image: "/poi-images/kariba-dam-landmarks-v2.webp"},
+    }, image: "/poi-images/kariba-dam-landmarks-v2.webp",
+    descriptionAdvanced: {
+      en: "The Kariba Dam is a monumental engineering project located on the Zambezi River between Zimbabwe and Zambia. Completed in 1959, it created Lake Kariba, one of the world's largest man-made reservoirs by volume. The dam provides hydroelectric power to both nations and remains a vital asset for regional energy security. The construction of the dam also led to the significant Operation Noah wildlife rescue, one of the most famous animal rescue missions in history. Geography K7 — water management and engineering."
+    },
+    factsAdvanced: {
+      en: ["Completion: 1959.", "Significance: One of the world's largest man-made reservoirs.", "Function: Major hydroelectric power plant.", "Engineering: Concrete double-arch dam construction.", "History: Site of the historic 'Operation Noah' wildlife rescue.", "Geography: Located on the border between Zimbabwe and Zambia."]
+    }
+  },
   {
     id: "joina-city-landmarks-v2",
     type: "landmark",
@@ -281,7 +295,14 @@ export const poiExtraZimbabweLandmarksV2: POI[] = [
         "Opened in 1935 and designed by Ralph Freeman, who also designed the Sydney Harbour Bridge.",
         "It was the third longest single-arch bridge in the world when built."
       ]
-    }, image: "/poi-images/birchenough-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/birchenough-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      en: "Birchenough Bridge is a stunning steel arch structure spanning the Save River in eastern Zimbabwe. Designed by Ralph Freeman—the same engineer behind the Sydney Harbour Bridge—and completed in 1935, it serves as a critical connection between Mutare and the lowveld. The bridge is named after Sir Henry Birchenough, who was instrumental in the region's development. It is widely regarded as a feat of civil engineering and a significant landmark of the pre-colonial architectural era. Landmarks K8 — civil engineering icons."
+    },
+    factsAdvanced: {
+      en: ["Completed: 1935.", "Engineering: Steel arch bridge design.", "Designer: Ralph Freeman (also designed Sydney Harbour Bridge).", "Significance: Named after Sir Henry Birchenough.", "Function: Connects Mutare with the lowveld regions.", "Landmark status: Iconic bridge of Eastern Zimbabwe."]
+    }
+  },
   {
     id: "harare-hicc-landmarks-v2",
     type: "landmark",

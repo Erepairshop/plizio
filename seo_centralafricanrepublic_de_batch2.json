@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "centralafricanrepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLifeV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicNatureV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haupthafen-bangui-economic-v2",
+      "descriptionAdvanced": "Der Haupthafen in Bangui ist die Lebensader für den Import und Export der Zentralafrikanischen Republik. Gelegen am Ubangi, ermöglicht er den Warenverkehr bis zum Kongobecken, was entscheidend für das Binnenland ist, das keinen Zugang zum Meer besitzt. Die Infrastruktur des Hafens ist zentral für die Versorgung der Hauptstadt und die Anbindung an internationale Märkte. Erdkunde K7 – Logistik in Binnenstaaten.",
+      "factsAdvanced": [
+        "Hauptumschlagplatz für Warenimport.",
+        "Anbindung an den Ubangi-Fluss.",
+        "Entscheidend für die Versorgung von Bangui.",
+        "Lage im Hafenviertel von Bangui.",
+        "Klima: tropische Flussumgebung.",
+        "Wichtiger Knotenpunkt für Binnenschifffahrt."
+      ]
+    },
+    {
+      "id": "ndassima-goldmine-economic-v2",
+      "descriptionAdvanced": "Die Ndassima-Goldmine im Zentrum der Zentralafrikanischen Republik ist eine der bedeutendsten Rohstoffstätten des Landes. Der Abbau von Gold spielt eine wichtige Rolle in der nationalen Wirtschaftsbilanz, wobei die Mine sowohl industrielle als auch informelle Bergbauaktivitäten umfasst. Ihre Präsenz beeinflusst die lokale Siedlungsstruktur und ist ein zentraler wirtschaftlicher Faktor für die Region Ouaka. Geografie K7 – Rohstoffabbau in Afrika.",
+      "factsAdvanced": [
+        "Eine der wichtigsten Goldlagerstätten des Landes.",
+        "Gelegen in der Region Ouaka.",
+        "Wichtiger Faktor für die lokale Wirtschaft.",
+        "Beinhaltet industrielle Bergbauaktivitäten.",
+        "Klima: tropisches Savannenklima.",
+        "Einfluss auf die regionale Beschäftigung."
+      ]
+    },
+    {
+      "id": "boali-ii-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "Das Boali-II-Wasserkraftwerk ist ein entscheidender Pfeiler für die Energieversorgung der Zentralafrikanischen Republik, insbesondere für die Hauptstadt Bangui. Es nutzt die Wasserfälle des M'Bali-Flusses zur Stromerzeugung, was eine saubere Energiequelle für den urbanen und wirtschaftlichen Bedarf darstellt. Die Anlage ist ein Beispiel für die Nutzung geografischer Gegebenheiten zur industriellen Entwicklung des Landes. Erdkunde K7 – Energiegewinnung aus Wasserkraft.",
+      "factsAdvanced": [
+        "Wichtige Energiequelle für Bangui.",
+        "Nutzung der M'Bali-Wasserfälle.",
+        "Wichtige Infrastruktur für die nationale Industrie.",
+        "Klima: tropische Flussumgebung.",
+        "Beitrag zur Stabilisierung des Stromnetzes.",
+        "Technische Anlage zur Stromerzeugung."
+      ]
+    },
+    {
+      "id": "hafen-salo-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Salo am Sangha-Fluss dient als wichtiger Handelsstützpunkt im Südwesten des Landes. Er spielt eine zentrale Rolle für den Transport von Tropenholz und anderen Produkten, die für den Export in benachbarte Länder und den Weltmarkt bestimmt sind. Als Teil der logistischen Kette im Südwesten ist der Hafen von Salo essenziell für die wirtschaftliche Dynamik in einer Region, die stark von der Forstwirtschaft geprägt ist. Erdkunde K7 – Forstwirtschaft und Transport.",
+      "factsAdvanced": [
+        "Wichtiger Flussort am Sangha-Fluss.",
+        "Zentrum für den Transport von Tropenholz.",
+        "Strategischer Hafen im Südwesten.",
+        "Knotenpunkt für den regionalen Handel.",
+        "Klima: feuchtes Kongobecken-Klima.",
+        "Logistische Bedeutung für die Holzindustrie."
+      ]
+    },
+    {
+      "id": "zuckerfabrik-ngakobo-economic-v2",
+      "descriptionAdvanced": "Die Zuckerfabrik in Ngakobo ist ein bedeutendes industrielles Zentrum der Agrarwirtschaft, spezialisiert auf den Anbau und die Verarbeitung von Zuckerrohr. Diese Anlage ist für die lokale Arbeitsplatzschaffung und die landwirtschaftliche Diversifizierung der Region Ouaka von großer Bedeutung. Durch die industrielle Verarbeitung von Agrarrohstoffen trägt die Fabrik zur wirtschaftlichen Stabilität und zur Produktion von Gütern für den nationalen Markt bei. Erdkunde K7 – Industrielle Agrarverarbeitung.",
+      "factsAdvanced": [
+        "Wichtige industrielle Zuckerproduktion.",
+        "Sitz in Ngakobo, Präfektur Ouaka.",
+        "Faktor für lokale Arbeitsplatzschaffung.",
+        "Verarbeitung von lokalem Zuckerrohr.",
+        "Klima: tropisch, förderlich für Zuckerrohr.",
+        "Beitrag zur nationalen Wirtschaft."
+      ]
+    },
+    {
+      "id": "diamantenmine-bria-economic-v2",
+      "descriptionAdvanced": "Die Diamantenminen von Bria im Osten des Landes sind für den Bergbau und die damit verbundene wirtschaftliche Aktivität von zentraler Bedeutung. Bria ist ein Zentrum für den Diamantentransport und die erste Bearbeitung des Gesteins, wobei diese Aktivitäten das soziale und wirtschaftliche Leben in der Region maßgeblich prägen. Trotz der schwierigen geografischen Lage ist der Diamantenabbau ein wesentlicher Bestandteil der nationalen Rohstoffstrategie. Erdkunde K7 – Bergbauwirtschaft.",
+      "factsAdvanced": [
+        "Zentraler Ort für Diamantenabbau im Osten.",
+        "Wirtschaftliches Herz der Region Bria.",
+        "Wichtiger Faktor im nationalen Bergbausektor.",
+        "Einfluss auf die regionale Beschäftigung.",
+        "Klima: tropische Savanne.",
+        "Infrastrukturell herausfordernde Region."
+      ]
+    },
+    {
+      "id": "baumwollentkoernung-bambari-economic-v2",
+      "descriptionAdvanced": "Die Anlage zur Baumwollentkörnung in Bambari ist ein wichtiger industrieller Betrieb in der Zentralregion des Landes. Als Zentrum für den Baumwollsektor spielt sie eine entscheidende Rolle bei der Verarbeitung des wichtigen Agrarexportguts Baumwolle. Sie bietet Arbeit für viele lokale Bauern und Arbeiter und ist eine unverzichtbare Säule für den agrarindustriellen Sektor in der Präfektur Ouaka. Erdkunde K7 – Agrarverarbeitung.",
+      "factsAdvanced": [
+        "Industrielle Anlage zur Baumwollverarbeitung.",
+        "Wichtig für den nationalen Baumwollsektor.",
+        "Zentrum in der Stadt Bambari.",
+        "Beitrag zur agrarwirtschaftlichen Entwicklung.",
+        "Klima: feuchttropisch, ideal für Baumwolle.",
+        "Faktor für den agrarischen Export."
+      ]
+    },
+    {
+      "id": "hafen-mongoumba-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Mongoumba liegt strategisch am Ubangi-Fluss an der Grenze zwischen der Zentralafrikanischen Republik und der Republik Kongo. Er dient als lokaler Handelsplatz und ist ein bedeutender Punkt für den Austausch von Waren über die Flussgrenze hinweg. Mongoumba ist zudem ein Zentrum für die lokale Fischerei und den Kleingewerbe-Handel, was zur Ernährungssicherheit und wirtschaftlichen Dynamik der Region beiträgt. Erdkunde K7 – Grenzorte und Flusswirtschaft.",
+      "factsAdvanced": [
+        "Wichtiger Grenzhafen am Ubangi.",
+        "Zentrum für den Flussgrenzhandel.",
+        "Standort für lokale Fischerei.",
+        "Wichtiger Punkt für den regionalen Handel.",
+        "Klima: feuchttropisch am Flusslauf.",
+        "Handelsposten für Anwohner der Grenze."
+      ]
+    },
+    {
+      "id": "brauerei-mocaf-bangui-economic-v2",
+      "descriptionAdvanced": "Die Brauerei MOCAF in Bangui ist einer der wichtigsten industriellen Arbeitgeber der Hauptstadt. Als Produzent von Getränken versorgt sie sowohl die städtische Bevölkerung als auch regionale Märkte und trägt damit maßgeblich zur industriellen Basis der Stadt bei. Die Brauerei ist ein Symbol für den urbanen industriellen Sektor und demonstriert die Kapazitäten des Landes zur eigenen Güterproduktion. Geschichte K5 – Industrialisierung in afrikanischen Hauptstädten.",
+      "factsAdvanced": [
+        "Bedeutender industrieller Betrieb in Bangui.",
+        "Produktion von nationalen Getränken.",
+        "Wichtiger Arbeitgeber im urbanen Raum.",
+        "Symbol für die industrielle Basis in Bangui.",
+        "Klima: tropisches Stadtklima.",
+        "Beitrag zum nationalen Markt."
+      ]
+    },
+    {
+      "id": "diamantenfeld-sam-ouandja-economic-v2",
+      "descriptionAdvanced": "Das Diamantenfeld bei Sam-Ouandja ist ein wichtiger Standort für den Bergbau im Nordosten des Landes. Die Region, in der dieser Abbau stattfindet, ist für ihre reichen Vorkommen bekannt, die eine wirtschaftliche Nische für die lokale Bevölkerung bieten. Obwohl Sam-Ouandja in einer geografisch isolierten Gegend liegt, beeinflusst der Diamantenhandel das Leben vor Ort und die Anbindung an die nationalen Handelswege für Rohstoffe. Erdkunde K7 – Rohstoffökonomie.",
+      "factsAdvanced": [
+        "Wichtiges Diamantengebiet im Nordosten.",
+        "Bergbau als wirtschaftliche Basis vor Ort.",
+        "Einfluss auf die regionale Dynamik.",
+        "Herausfordernde logistische Lage.",
+        "Klima: tropische Savanne.",
+        "Verbindung zum nationalen Rohstoffhandel."
+      ]
+    },
+    {
+      "id": "saegewerk-nola-economic-v2",
+      "descriptionAdvanced": "Das Sägewerk in Nola ist ein wesentlicher industrieller Betrieb in der waldreichen Präfektur Sangha-Mbaéré. Es spielt eine entscheidende Rolle in der lokalen Holzverarbeitung und ermöglicht die Nutzung der reichhaltigen Waldressourcen des Kongobeckens. Diese industriellen Aktivitäten sind ein zentraler Faktor für den wirtschaftlichen Fortschritt der Region Nola, da sie sowohl Arbeitsplätze schaffen als auch Produkte für den Export generieren. Erdkunde K7 – Nachhaltige Waldnutzung.",
+      "factsAdvanced": [
+        "Zentrum der industriellen Holzverarbeitung.",
+        "Wichtig für die Wirtschaft der Präfektur Sangha-Mbaéré.",
+        "Nutzung von Waldressourcen des Kongobeckens.",
+        "Beschäftigungsfaktor vor Ort.",
+        "Klima: tropisches Regenwaldklima.",
+        "Exportorientierter Betrieb."
+      ]
+    },
+    {
+      "id": "flusshafen-nola-economic-v2",
+      "descriptionAdvanced": "Der Flusshafen in Nola fungiert als logistischer Knotenpunkt für den Abtransport von verarbeitetem Holz und anderen Agrargütern aus der Waldregion Sangha-Mbaéré. Aufgrund der Lage an schiffbaren Wasserwegen ist der Hafen entscheidend für die wirtschaftliche Integration der Region in das überregionale Handelsnetz. Die Nutzung der Flussinfrastruktur ermöglicht den Transport schwerer Fracht, die auf dem Landweg nur schwer bewältigbar wäre. Erdkunde K7 – Transport und Infrastruktur.",
+      "factsAdvanced": [
+        "Logistischer Knotenpunkt der Region Nola.",
+        "Wichtig für den Transport von Holzprodukten.",
+        "Nutzung der schiffbaren Flusswege.",
+        "Bindeglied zur nationalen Handelslogistik.",
+        "Klima: feuchttropisch am Fluss.",
+        "Bedeutung für die regionale wirtschaftliche Anbindung."
+      ]
+    },
+    {
+      "id": "baumwollfabrik-bossangoa-economic-v2",
+      "descriptionAdvanced": "Die Baumwollfabrik in Bossangoa ist ein industrieller Stützpunkt für die Verarbeitung des bedeutenden Agrarexportprodukts Baumwolle. Sie ist eng mit der landwirtschaftlichen Geschichte der Region Ouham verknüpft und leistet einen zentralen Beitrag zur lokalen Wertschöpfung. Durch die Verarbeitung vor Ort werden Agrarprodukte veredelt und für den nationalen Markt sowie den Export vorbereitet, was die wirtschaftliche Bedeutung von Bossangoa als landwirtschaftliches Zentrum unterstreicht. Erdkunde K7 – Landwirtschaftliche industrielle Entwicklung.",
+      "factsAdvanced": [
+        "Industrielle Baumwollverarbeitung.",
+        "Historischer Faktor für Bossangoa.",
+        "Beitrag zur lokalen Wertschöpfung.",
+        "Wichtig für den Agrarsektor in Ouham.",
+        "Klima: tropisches Savannenklima.",
+        "Zentraler Arbeitgeber der Region."
+      ]
+    },
+    {
+      "id": "hafen-mobaye-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Mobaye, gelegen am Ubangi, ist ein bedeutender Standort für die regionale Logistik und den Handel im Südosten des Landes. Durch die Lage an einer wichtigen Wasserstraße dient er als Umschlagplatz für Waren, die den Flussweg zur Anbindung an andere Regionen nutzen. Mobaye bleibt ein lokaler Marktort, der besonders für Händler und Fischer an der Flussgrenze zur DR Kongo von großem Wert für die wirtschaftliche Interaktion ist. Erdkunde K7 – Regionaler Handel.",
+      "factsAdvanced": [
+        "Wichtiger Standort für regionale Logistik.",
+        "Umschlagplatz am Ubangi-Fluss.",
+        "Handelspunkt für die Präfektur Basse-Kotto.",
+        "Faktor für wirtschaftliche Interaktion an der Grenze.",
+        "Klima: tropisch-feucht.",
+        "Bedeutung für den lokalen Markt."
+      ]
+    },
+    {
+      "id": "palmoelraffinerie-bambari-economic-v2",
+      "descriptionAdvanced": "Die Palmölraffinerie in Bambari ist ein industrieller Betrieb, der sich der Veredelung von landwirtschaftlichen Produkten widmet. Palmöl ist ein vielseitiges Produkt für den heimischen Markt und die Industrie, weshalb diese Raffinerie eine zentrale Rolle für die landwirtschaftliche Diversifizierung in der Region Ouaka spielt. Die industrielle Verarbeitung vor Ort bietet lokale Arbeitsplätze und stärkt die industrielle Kapazität von Bambari als agrarwirtschaftliches Zentrum. Erdkunde K7 – Agrarverarbeitung.",
+      "factsAdvanced": [
+        "Industrielle Palmölveredelung.",
+        "Wichtig für die Diversifizierung der Landwirtschaft.",
+        "Sitz der Anlage in Bambari.",
+        "Faktor für industrielle Kapazitäten.",
+        "Klima: tropisch, günstig für Ölpalmen.",
+        "Beitrag zur lokalen Arbeitsplatzschaffung."
+      ]
+    },
+    {
+      "id": "hafen-bangassou-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Bangassou am Mbomou-Fluss dient als wichtiger Handelsstützpunkt für den Südosten des Landes. Seine Lage in einer Region, die stark von Waldlandschaften geprägt ist, macht ihn zu einem entscheidenden Ort für den Transport von Holz und anderen Gütern. Als administrativer Außenposten ist Bangassou durch seinen Hafen wirtschaftlich eng mit den Wasserwegen verbunden, die den Austausch zwischen entlegenen Gebieten und dem Rest der Zentralafrikanischen Republik ermöglichen. Erdkunde K7 – Infrastruktur in entlegenen Gebieten.",
+      "factsAdvanced": [
+        "Wichtiger Handelsstützpunkt am Mbomou.",
+        "Umschlagpunkt für Waren in den Südosten.",
+        "Transportknoten für die Holzregion.",
+        "Anbindung an die Wasserwege der Präfektur Mbomou.",
+        "Klima: feucht-tropisch.",
+        "Wichtige wirtschaftliche Infrastruktur vor Ort."
+      ]
+    },
+    {
+      "id": "holzverarbeitungszentrum-mbaiki-cities-v2",
+      "descriptionAdvanced": "Das Holzverarbeitungszentrum in Mbaiki ist ein bedeutender industrieller Betrieb in der Waldregion Lobaye. Es spielt eine Schlüsselrolle bei der effizienten Nutzung der Tropenholzressourcen und der Herstellung von Exportprodukten für den Weltmarkt. Als Arbeitgeber und wichtiger Akteur im Forstwirtschaftssektor trägt das Zentrum maßgeblich zur lokalen Wirtschaft bei und unterstreicht die Bedeutung von Mbaiki als Industrieort in der Regenwaldzone. Erdkunde K7 – Forstwirtschaftliche Industrie.",
+      "factsAdvanced": [
+        "Wichtiges industrielles Holzverarbeitungszentrum.",
+        "Sitz in der waldreichen Präfektur Lobaye.",
+        "Fokus auf die Nutzung von Tropenholz.",
+        "Wesentlicher Arbeitgeber für die Region.",
+        "Klima: tropisches Regenwaldklima.",
+        "Exportorientierter Betrieb."
+      ]
+    },
+    {
+      "id": "hafen-ouango-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ouango am Mbomou-Fluss ist ein lokaler Handelsort und dient als wichtiger Knotenpunkt für den Warenverkehr in der Präfektur Mbomou. Durch seine Funktion als Flussanlegestelle unterstützt er die wirtschaftliche Aktivität und Versorgung der Region, die aufgrund der geografischen Lage und der dichten Bewaldung auf die Wasserwege angewiesen ist. Ouango spielt eine unterstützende Rolle bei der logistischen Vernetzung der entlegenen Gemeinden im Südosten. Erdkunde K7 – Transportlogistik in Waldgebieten.",
+      "factsAdvanced": [
+        "Lokaler Handels- und Anlegehafen.",
+        "Gelegen am Mbomou-Fluss.",
+        "Unterstützung der regionalen Versorgung.",
+        "Logistischer Punkt in der Präfektur Mbomou.",
+        "Klima: feuchttropisch.",
+        "Wichtige Infrastruktur für die Anbindung."
+      ]
+    },
+    {
+      "id": "boali-i-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "Das Boali-I-Wasserkraftwerk ist eine der älteren und wichtigsten Anlagen zur Energiegewinnung in der Zentralafrikanischen Republik. Zusammen mit Boali-II bildet es das Rückgrat der Stromversorgung für die industrielle Produktion in Bangui. Diese Wasserkraftnutzung ist ein Schlüsselfaktor für den Betrieb der Fabriken in der Hauptstadt und für die gesamte wirtschaftliche Infrastruktur der städtischen Region, was ihre energetische Bedeutung unterstreicht. Erdkunde K7 – Wasser- und Energieinfrastruktur.",
+      "factsAdvanced": [
+        "Wichtige und traditionsreiche Energieanlage.",
+        "Zentraler Bestandteil des Stromnetzes von Bangui.",
+        "Nutzung des M'Bali-Flusses zur Energiegewinnung.",
+        "Wesentliche Basis für die industrielle Produktion.",
+        "Klima: tropische Flussumgebung.",
+        "Technischer Pfeiler der wirtschaftlichen Infrastruktur."
+      ]
+    },
+    {
+      "id": "seifenfabrik-bangui-economic-v2",
+      "descriptionAdvanced": "Die Seifenfabrik in Bangui ist ein industrieller Betrieb, der sich auf den lokalen Markt konzentriert und wesentliche Produkte des täglichen Bedarfs herstellt. Diese industrielle Aktivität zeigt die Kapazität Bangui zur Produktion von Konsumgütern und trägt zur lokalen Wertschöpfung sowie zur Versorgungssicherheit bei. Als Teil des industriellen Sektors von Bangui stellt sie Arbeitsplätze bereit und ist ein Beispiel für den Aufbau einer nationalen Konsumgüterindustrie. Erdkunde K7 – Konsumgüterproduktion in afrikanischen Hauptstädten.",
+      "factsAdvanced": [
+        "Lokale industrielle Produktion von Seife.",
+        "Faktor für die regionale Konsumgüterversorgung.",
+        "Bedeutender Betrieb in der Hauptstadt.",
+        "Beitrag zur nationalen industriellen Wertschöpfung.",
+        "Klima: tropisches Stadtklima.",
+        "Beschäftigungsfaktor in Bangui."
+      ]
+    }
+  ]
+}

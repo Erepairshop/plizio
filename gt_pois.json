@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "gt-mixco-cities-v2",
+    "name": "Mixco",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-puerto-barrios-cities-v2",
+    "name": "Puerto Barrios",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-huehuetenango-cities-v2",
+    "name": "Huehuetenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-santa-cruz-del-quiche-cities-v2",
+    "name": "Santa Cruz del Quiché",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-chimaltenango-cities-v2",
+    "name": "Chimaltenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-mazatenango-cities-v2",
+    "name": "Mazatenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-retalhuleu-cities-v2",
+    "name": "Retalhuleu",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-jalapa-cities-v2",
+    "name": "Jalapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-chiquimula-cities-v2",
+    "name": "Chiquimula",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-salamá-cities-v2",
+    "name": "Salamá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-zacapa-cities-v2",
+    "name": "Zacapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-jutiapa-cities-v2",
+    "name": "Jutiapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-santa-lucia-cotzumalguapa-cities-v2",
+    "name": "Santa Lucía Cotzumalguapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-puerto-san-jose-cities-v2",
+    "name": "Puerto San José",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-flores-cities-v2",
+    "name": "Flores",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-totonicapan-cities-v2",
+    "name": "Totonicapán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-coatepeque-cities-v2",
+    "name": "Coatepeque",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-pedro-carcha-cities-v2",
+    "name": "San Pedro Carchá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-marcos-cities-v2",
+    "name": "San Marcos",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-barberena-cities-v2",
+    "name": "Barberena",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-jacaltenango-cities-v2",
+    "name": "Jacaltenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-momostenango-cities-v2",
+    "name": "Momostenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-solola-cities-v2",
+    "name": "Sololá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-panajachel-cities-v2",
+    "name": "Panajachel",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-santiago-atitlan-cities-v2",
+    "name": "Santiago Atitlán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-pedro-la-laguna-cities-v2",
+    "name": "San Pedro La Laguna",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-cuilapa-cities-v2",
+    "name": "Cuilapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-cristobal-verapaz-cities-v2",
+    "name": "San Cristóbal Verapaz",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-esquipulas-cities-v2",
+    "name": "Esquipulas",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-benito-cities-v2",
+    "name": "San Benito",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-santo-tomas-de-castilla-cities-v2",
+    "name": "Santo Tomás de Castilla",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-la-gomera-cities-v2",
+    "name": "La Gomera",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-patzun-cities-v2",
+    "name": "Patzún",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-nahuala-cities-v2",
+    "name": "Nahualá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-joyabaj-cities-v2",
+    "name": "Joyabaj",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-poptun-cities-v2",
+    "name": "Poptún",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-asuncion-mita-cities-v2",
+    "name": "Asunción Mita",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-gualan-cities-v2",
+    "name": "Gualán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-la-democracia-cities-v2",
+    "name": "La Democracia",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-colomba-cities-v2",
+    "name": "Colomba",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-andres-itzel-cities-v2",
+    "name": "San Andrés",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-morales-cities-v2",
+    "name": "Morales",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-siquinala-cities-v2",
+    "name": "Siquinalá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-sayaxche-cities-v2",
+    "name": "Sayaxché",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-patulul-cities-v2",
+    "name": "Patulul",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-andres-xecul-cities-v2",
+    "name": "San Andrés Xecul",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-el-estor-cities-v2",
+    "name": "El Estor",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-tiquisate-cities-v2",
+    "name": "Tiquisate",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-cristobal-totonicapan-cities-v2",
+    "name": "San Cristóbal Totonicapán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-zapotitlan-cities-v2",
+    "name": "Zapotitlán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-santiago-sacatepequez-cities-v2",
+    "name": "Santiago Sacatepéquez",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-sumpango-cities-v2",
+    "name": "Sumpango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-el-progreso-cities-v2",
+    "name": "Guastatoya",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-agustin-ac-cities-v2",
+    "name": "San Agustín Acasaguastlán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-malacatan-cities-v2",
+    "name": "Malacatán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-pablo-cities-v2",
+    "name": "San Pablo",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-chicacao-cities-v2",
+    "name": "Chicacao",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-antonio-suchitepequez-cities-v2",
+    "name": "San Antonio Suchitepéquez",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-jose-pinula-cities-v2",
+    "name": "San José Pinula",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-santa-catarina-pinula-cities-v2",
+    "name": "Santa Catarina Pinula",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-raimundo-cities-v2",
+    "name": "San Raymundo",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-fraijanes-cities-v2",
+    "name": "Fraijanes",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-osti-calco-cities-v2",
+    "name": "Ostuncalco",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-la-esperanza-cities-v2",
+    "name": "La Esperanza",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-cantel-cities-v2",
+    "name": "Cantel",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-tactic-cities-v2",
+    "name": "Tactic",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-chisec-cities-v2",
+    "name": "Chisec",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-el-palmar-cities-v2",
+    "name": "El Palmar",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-gualzacapa-cities-v2",
+    "name": "Chiquimulilla",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-la-libertad-p-cities-v2",
+    "name": "La Libertad (Petén)",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-la-libertad-h-cities-v2",
+    "name": "La Libertad (Huehuetenango)",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-melchor-de-mencos-cities-v2",
+    "name": "Melchor de Mencos",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-san-mateo-ixtatan-cities-v2",
+    "name": "San Mateo Ixtatán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-nevaj-cities-v2",
+    "name": "Nebaj",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-chajul-cities-v2",
+    "name": "Chajul",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-cotzal-cities-v2",
+    "name": "San Juan Cotzal",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-uspantan-cities-v2",
+    "name": "Uspantán",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-rabinal-cities-v2",
+    "name": "Rabinal",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-cubulco-cities-v2",
+    "name": "Cubulco",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-concepcion-chiquirichapa-cities-v2",
+    "name": "Concepción Chiquirichapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts"
+  },
+  {
+    "id": "gt-puerto-quetzal-port-economic-v2",
+    "name": "Puerto Quetzal Port",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-central-sugar-mill-industry-economic-v2",
+    "name": "Escuintla Sugar Mill",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-cement-plant-industry-economic-v2",
+    "name": "Guatemala Cement Plant",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-textile-factory-industry-economic-v2",
+    "name": "Guatemala Textile Factory",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-champerico-port-economic-v2",
+    "name": "Champerico Port",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-banan-export-industry-economic-v2",
+    "name": "Izabal Banana Packing",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-coffee-processing-industry-economic-v2",
+    "name": "Sacatepequez Coffee Processing",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-oil-refinery-industry-economic-v2",
+    "name": "Peten Oil Refinery",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-hydro-plant-industry-economic-v2",
+    "name": "Alta Verapaz Hydroelectric Plant",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-mining-site-industry-economic-v2",
+    "name": "Izabal Mining Center",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-paper-mill-industry-economic-v2",
+    "name": "Guatemala Paper Mill",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-poultry-processing-industry-economic-v2",
+    "name": "Guatemala Poultry Processing",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-bottling-plant-industry-economic-v2",
+    "name": "Guatemala Bottling Plant",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-steel-fabrication-industry-economic-v2",
+    "name": "Guatemala Steel Fabrication",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-bakery-industry-economic-v2",
+    "name": "Guatemala Industrial Bakery",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-chemical-plant-industry-economic-v2",
+    "name": "Guatemala Chemical Plant",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-furniture-factory-industry-economic-v2",
+    "name": "Guatemala Furniture Factory",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-electronics-assembly-industry-economic-v2",
+    "name": "Guatemala Electronics Assembly",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-print-facility-industry-economic-v2",
+    "name": "Guatemala Printing Facility",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-paint-factory-industry-economic-v2",
+    "name": "Guatemala Paint Factory",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-plastic-factory-industry-economic-v2",
+    "name": "Guatemala Plastic Factory",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-dairy-processing-industry-economic-v2",
+    "name": "Guatemala Dairy Processing",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-auto-parts-industry-economic-v2",
+    "name": "Guatemala Auto Parts Mfg",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-concrete-batching-industry-economic-v2",
+    "name": "Guatemala Concrete Batching",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-tire-retreading-industry-economic-v2",
+    "name": "Guatemala Tire Retreading",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-glass-factory-industry-economic-v2",
+    "name": "Guatemala Glass Factory",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gt-warehouse-logistics-port-economic-v2",
+    "name": "Izabal Logistics Hub",
+    "file": "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts"
+  },
+  {
+    "id": "gumarcaaj-ruins-history-v2",
+    "name": "Gumarcaaj Ruins",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "batalla-de-quetzaltenango-history-v2",
+    "name": "Battle of Quetzaltenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "ceibal-ruins-history-v2",
+    "name": "Ceibal Ruins",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "dos-pilas-ruins-history-v2",
+    "name": "Dos Pilas Ruins",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "convento-de-santo-domingo-history-v2",
+    "name": "Santo Domingo Monastery",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "el-baul-stelae-history-v2",
+    "name": "El Baúl Stelae",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "sitio-arqueologico-la-blanca-history-v2",
+    "name": "La Blanca Archaeological Site",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "takalik-abaj-ruins-history-v2",
+    "name": "Takalik Abaj Ruins",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "palacio-del-ayuntamiento-antigua-history-v2",
+    "name": "Antigua City Hall Palace",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "batalla-de-la-arada-history-v2",
+    "name": "Battle of La Arada",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "fortin-de-san-carlos-history-v2",
+    "name": "San Carlos Fort",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "iglesia-vieja-chimaltenango-history-v2",
+    "name": "Old Church of Chimaltenango",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "conquista-de-tayasal-history-v2",
+    "name": "Conquest of Tayasal",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "ruinas-de-san-jeronimo-history-v2",
+    "name": "Ruins of San Jerónimo",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "nakum-ruins-history-v2",
+    "name": "Nakum Ruins",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "altar-de-sacrificios-history-v2",
+    "name": "Altar de Sacrificios",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "iglesia-de-san-nicolas-quetzaltenango-history-v2",
+    "name": "San Nicolás Church",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "casa-k-ojom-jocotenango-history-v2",
+    "name": "Casa K'ojom Music Museum",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "revolucion-de-1871-history-v2",
+    "name": "Liberal Revolution of 1871",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "terremoto-de-1773-history-v2",
+    "name": "Earthquake of 1773",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "casa-de-la-moneda-antigua-history-v2",
+    "name": "Antigua Mint",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "united-fruit-company-history-v2",
+    "name": "History of the United Fruit Company",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "petexbatun-kingdom-history-v2",
+    "name": "Petexbatún Kingdom",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "san-bartolo-murals-history-v2",
+    "name": "San Bartolo Murals",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "la-reforma-liberal-history-v2",
+    "name": "The Liberal Reform",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "batalla-de-puerto-caballos-history-v2",
+    "name": "Battle of Puerto Caballos",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "genocidio-maya-history-v2",
+    "name": "Maya Genocide",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "firma-de-la-paz-history-v2",
+    "name": "Signing of the Peace Accords",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "antigua-carmelite-convent-history-v2",
+    "name": "Antigua Carmelite Convent",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "quirigua-stela-e-history-v2",
+    "name": "Quiriguá Stela E",
+    "file": "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
+  },
+  {
+    "id": "arco-de-santa-catalina-landmarks-v2",
+    "name": "Santa Catalina Arch",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "palacio-de-los-capitanes-generales-landmarks-v2",
+    "name": "Palace of the Captains General",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "iglesia-de-la-merced-landmarks-v2",
+    "name": "La Merced Church",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "convento-de-las-capuchinas-landmarks-v2",
+    "name": "Convent of the Capuchins",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "iglesia-de-san-francisco-el-grande-landmarks-v2",
+    "name": "San Francisco El Grande Church",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "estadio-doroteo-guamuch-flores-landmarks-v2",
+    "name": "Doroteo Guamuch Flores Stadium",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "teatro-nacional-miguel-angel-asturias-landmarks-v2",
+    "name": "Miguel Ángel Asturias National Theater",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "catedral-metropolitana-landmarks-v2",
+    "name": "Metropolitan Cathedral",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "basilica-de-esquipulas-landmarks-v2",
+    "name": "Basilica of Esquipulas",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "iglesia-amarilla-san-andres-xecul-landmarks-v2",
+    "name": "Church of San Andrés Xecul",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "torre-del-reformador-landmarks-v2",
+    "name": "Torre del Reformador",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "monumento-a-la-paz-landmarks-v2",
+    "name": "Monument to Peace",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "puente-de-los-esclavos-landmarks-v2",
+    "name": "Bridge of the Slaves",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "museo-popol-vuh-landmarks-v2",
+    "name": "Popol Vuh Museum",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "pasacaballo-suspension-bridge-landmarks-v2",
+    "name": "Pasacaballo Suspension Bridge",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "la-aurora-zoo-landmarks-v2",
+    "name": "La Aurora Zoo",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "paseo-cayala-landmarks-v2",
+    "name": "Paseo Cayalá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "monumento-a-cristobal-colon-landmarks-v2",
+    "name": "Monument to Christopher Columbus",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "museo-nacional-de-arqueologia-y-etnologia-landmarks-v2",
+    "name": "National Museum of Archaeology and Ethnology",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "cementerio-general-guatemala-city-landmarks-v2",
+    "name": "General Cemetery of Guatemala City",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "iglesia-yurrita-landmarks-v2",
+    "name": "Yurrita Church (Our Lady of Sorrows)",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "museo-del-ferrocarril-guatemala-landmarks-v2",
+    "name": "Guatemala Railway Museum",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "mapa-en-relieve-de-guatemala-landmarks-v2",
+    "name": "Relief Map of Guatemala",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "cerro-el-baul-quetzaltenango-landmarks-v2",
+    "name": "El Baúl Hill",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "monumento-a-la-marimba-quetzaltenango-landmarks-v2",
+    "name": "Marimba Monument",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "centro-cultural-la-azotea-landmarks-v2",
+    "name": "La Azotea Cultural Center",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "finca-filadelfia-coffee-resort-landmarks-v2",
+    "name": "Finca Filadelfia Coffee Resort",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "obelisco-guatemala-city-landmarks-v2",
+    "name": "Obelisk of Guatemala City",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "parque-central-quetzaltenango-landmarks-v2",
+    "name": "Quetzaltenango Central Park",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "museo-ixchel-del-traje-indigena-landmarks-v2",
+    "name": "Ixchel Museum of Indigenous Textiles and Clothing",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts"
+  },
+  {
+    "id": "gt-la-aurora-zoo-life-v2",
+    "name": "La Aurora Zoo",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-jardin-botanico-usac-life-v2",
+    "name": "USAC Botanical Garden",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-mundo-petapa-life-v2",
+    "name": "Mundo Petapa",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-auto-safari-chapin-life-v2",
+    "name": "Auto Safari Chapin",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-sipacate-naranjo-mangroves-life-v2",
+    "name": "Sipacate-Naranjo Mangroves",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-monterrico-turtle-beach-life-v2",
+    "name": "Monterrico Turtle Beach",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-santa-rosa-cattle-ranches-life-v2",
+    "name": "Santa Rosa Cattle Ranches",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-semuc-champey-family-pools-life-v2",
+    "name": "Semuc Champey Family Pools",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-fuentes-georginas-hot-springs-life-v2",
+    "name": "Fuentes Georginas Hot Springs",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-coban-cardamom-hills-life-v2",
+    "name": "Coban Cardamom Hills",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-laguna-lachua-family-lagoon-life-v2",
+    "name": "Laguna LachuA Family Lagoon",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-biotopo-del-quetzal-life-v2",
+    "name": "Quetzal Biotope",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-las-guacamayas-bio-station-life-v2",
+    "name": "Las Guacamayas Biological Station",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-laguna-del-tigre-wildlife-life-v2",
+    "name": "Laguna del Tigre Wildlife Zone",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-peten-cattle-ranchlands-life-v2",
+    "name": "Peten Cattle Ranchlands",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-rio-dulce-manatee-sanctuary-life-v2",
+    "name": "Rio Dulce Manatee Sanctuary",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-chocon-machacas-manatee-coast-life-v2",
+    "name": "Chocon Machacas Manatee Coast",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-punta-de-manabique-turtle-coast-life-v2",
+    "name": "Punta de Manabique Turtle Coast",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-izabal-banana-plantations-life-v2",
+    "name": "Izabal Banana Plantations",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-antigua-coffee-plantations-life-v2",
+    "name": "Antigua Coffee Plantations",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-finca-filadelfia-coffee-life-v2",
+    "name": "Finca Filadelfia Coffee Estate",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-finca-la-azotea-coffee-life-v2",
+    "name": "Finca La Azotea Coffee",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-quetzaltenango-apple-orchards-life-v2",
+    "name": "Quetzaltenango Apple Orchards",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-xetulul-theme-park-life-v2",
+    "name": "Xetulul Theme Park",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-xocomil-water-park-life-v2",
+    "name": "Xocomil Water Park",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-jalapa-dairy-valley-life-v2",
+    "name": "Jalapa Dairy Valley",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-chimaltenango-vegetable-valleys-life-v2",
+    "name": "Chimaltenango Vegetable Valleys",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-jutiapa-sesame-fields-life-v2",
+    "name": "Jutiapa Sesame Fields",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-finca-el-pilar-life-v2",
+    "name": "Finca El Pilar",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "gt-chocomuseo-antigua-life-v2",
+    "name": "ChocoMuseo Antigua",
+    "file": "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts"
+  },
+  {
+    "id": "rio-usumacinta-guatemala-nature-v2",
+    "name": "Usumacinta River",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "lago-peten-itza-nature-v2",
+    "name": "Lake Petén Itzá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "rio-dulce-guatemala-nature-v2",
+    "name": "Río Dulce",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "volcan-de-agua-nature-v2",
+    "name": "Volcán de Agua",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "rio-cahabon-nature-v2",
+    "name": "Cahabón River",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "laguna-lachua-nature-v2",
+    "name": "Laguna Lachuá",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "montanas-mayas-nature-v2",
+    "name": "Maya Mountains",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "biotopo-del-quetzal-nature-v2",
+    "name": "Quetzal Biotope",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "rio-la-pasion-nature-v2",
+    "name": "Pasión River",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "sipacate-naranjo-national-park-nature-v2",
+    "name": "Sipacate-Naranjo National Park",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "laguna-brava-yolnabaj-nature-v2",
+    "name": "Laguna Brava (Yolnabaj)",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "volcan-chingo-nature-v2",
+    "name": "Chingo Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "caribbean-sea-coast-nature-v2",
+    "name": "Caribbean Coast",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "pacific-coast-guatemala-nature-v2",
+    "name": "Pacific Coast",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "ceibal-forest-reserve-nature-v2",
+    "name": "Ceibal Forest Reserve",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "laguna-de-ayarza-nature-v2",
+    "name": "Laguna de Ayarza",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "rio-polochic-delta-nature-v2",
+    "name": "Polochic River Delta",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "cerro-miramundo-nature-v2",
+    "name": "Cerro Miramundo",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "isla-de-flores-nature-v2",
+    "name": "Flores Island",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "rio-chixoy-negro-nature-v2",
+    "name": "Chixoy or Negro River",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "volcan-santa-maria-nature-v2",
+    "name": "Santa María Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "santiaguito-lava-dome-nature-v2",
+    "name": "Santiaguito Lava Dome",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "rio-sarstun-nature-v2",
+    "name": "Sarstoon River",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "laguna-del-tigre-national-park-nature-v2",
+    "name": "Laguna del Tigre National Park",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "cuevas-de-candelaria-nature-v2",
+    "name": "Candelaria Caves",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "parque-nacional-rio-dulce-nature-v2",
+    "name": "Río Dulce National Park",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "laguna-chichoj-nature-v2",
+    "name": "Laguna Chichoj",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "cerro-de-la-cruz-nature-v2",
+    "name": "Hill of the Cross",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "monterrico-nature-reserve-nature-v2",
+    "name": "Monterrico Nature Reserve",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "fuentes-georginas-nature-v2",
+    "name": "Fuentes Georginas",
+    "file": "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts"
+  },
+  {
+    "id": "sierra-de-las-minas-relief-v2",
+    "name": "Sierra de las Minas",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "cerro-cucurucho-relief-v2",
+    "name": "Cerro Cucurucho",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "sierra-madre-relief-v2",
+    "name": "Sierra Madre Mountains",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "cuchumatanes-relief-v2",
+    "name": "Sierra de los Cuchumatanes",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "valle-del-motagua-relief-v2",
+    "name": "Motagua Valley",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "reserva-biosfera-maya-relief-v2",
+    "name": "Maya Biosphere Reserve",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "altiplano-guatemalteco-relief-v2",
+    "name": "Guatemalan Highlands",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "volcan-tacana-relief-v2",
+    "name": "Tacaná Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "sierra-de-chuacus-relief-v2",
+    "name": "Sierra de Chuacús",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "valle-de-almolonga-relief-v2",
+    "name": "Almolonga Valley",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "cerro-cahabon-relief-v2",
+    "name": "Cerro Cahabón",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "sierra-de-santa-cruz-relief-v2",
+    "name": "Sierra de Santa Cruz",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "altiplano-occidental-relief-v2",
+    "name": "Western Highlands",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "volcan-san-pedro-relief-v2",
+    "name": "San Pedro Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "sierra-de-las-nubes-relief-v2",
+    "name": "Sierra de las Nubes",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "valle-de-guatemala-relief-v2",
+    "name": "Guatemala Valley",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "volcan-toliman-relief-v2",
+    "name": "Tolimán Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "altiplano-central-relief-v2",
+    "name": "Central Highlands",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "volcan-atitlan-relief-v2",
+    "name": "Atitlán Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "sierra-de-las-minas-norte-relief-v2",
+    "name": "Sierra de las Minas North",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "valle-del-polochic-relief-v2",
+    "name": "Polochic Valley",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "cerro-cahabon-sur-relief-v2",
+    "name": "Cerro Cahabón South",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "volcan-siete-orejas-relief-v2",
+    "name": "Siete Orejas Volcano",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "sierra-de-las-minas-este-relief-v2",
+    "name": "Sierra de las Minas East",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  },
+  {
+    "id": "valle-de-las-flores-relief-v2",
+    "name": "Valley of Flowers",
+    "file": "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  }
+]

@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jinnah-garden-lahore-life-v2",
+      "descriptionAdvanced": "Die Bagh-e-Jinnah (früher Lawrence Gardens) in Lahore sind einer der schönsten und historischsten öffentlichen Parks in Pakistan. Ursprünglich im 19. Jahrhundert als botanischer Garten nach dem Vorbild der Kew Gardens in London angelegt, beherbergt der Park heute Hunderte seltener Baum- und Pflanzenarten. Inmitten des geschäftigen Lahores dient der weitläufige Park als 'grüne Lunge' der Stadt. Neben den botanischen Wundern befinden sich hier auch die prächtige Quaid-e-Azam-Bibliothek in einem viktorianischen Gebäude sowie historische Cricket-Felder. Die Gärten verdeutlichen die Bedeutung von städtischen Grünflächen für die Lebensqualität und sind ein interessantes Thema für den Biologie- und Stadtplanungsunterricht der 7. Klasse.",
+      "factsAdvanced": [
+        "Bagh-e-Jinnah in Lahore wurde im 19. Jahrhundert als Lawrence Gardens gegründet.",
+        "Der Park wurde ursprünglich als botanischer Garten nach britischem Vorbild angelegt.",
+        "Er fungiert als die wichtigste 'grüne Lunge' inmitten der dicht besiedelten Metropole Lahore.",
+        "Im Park befindet sich die prächtige Quaid-e-Azam-Bibliothek in einem Kolonialgebäude.",
+        "Der historische Cricketplatz im Park war früher Austragungsort internationaler Spiele.",
+        "Der Garten beherbergt eine unglaubliche Vielfalt an seltenen und exotischen Baumarten."
+      ]
+    },
+    {
+      "id": "chunkey-monkey-islamabad-life-v2",
+      "descriptionAdvanced": "Chunkey Monkey in Islamabad ist ein moderner, äußerst beliebter Vergnügungspark, der sich besonders an Kinder und Familien richtet. Mit seiner bunten Mischung aus kleinen Achterbahnen, Riesenrädern, Arcade-Spielen und Fahrgeschäften im Freien bietet er eine sichere und fröhliche Unterhaltungsumgebung. Der Park spiegelt den wachsenden Trend zu kommerziellen Freizeitangeboten in Pakistans wachsender Mittelklasse wider. Er liegt landschaftlich reizvoll am Rande des Rawal-Sees und bietet Familien die Möglichkeit, Naturerlebnis mit moderner Unterhaltung zu verbinden. Solche Freizeiteinrichtungen sind ein interessanter Diskussionspunkt im Soziologieunterricht der 6. Klasse über den Wandel des Konsum- und Freizeitverhaltens in städtischen Gesellschaften.",
+      "factsAdvanced": [
+        "Chunkey Monkey ist ein beliebter familienfreundlicher Vergnügungspark in Islamabad.",
+        "Der Park liegt in malerischer Umgebung am Rande des bekannten Rawal-Sees.",
+        "Er bietet zahlreiche bunte Fahrgeschäfte, Karussells und moderne Arcade-Spiele.",
+        "Die Einrichtung spiegelt das Freizeitverhalten der wachsenden pakistanischen Mittelklasse wider.",
+        "Er ist besonders an Wochenenden ein extrem gut besuchter Ort für Familien.",
+        "Parks wie dieser ergänzen das zunehmende kommerzielle Unterhaltungsangebot der Hauptstadt."
+      ]
+    },
+    {
+      "id": "lal-suhanra-national-park-life-v2",
+      "descriptionAdvanced": "Der Lal-Suhanra-Nationalpark im südlichen Punjab in der Nähe von Bahawalpur ist eines der größten Biosphärenreservate in Südasien und bietet eine faszinierende Mischung aus Wüsten-, Wald- und Feuchtgebietsökosystemen. Der Park ist ein UNESCO-ausgewiesenes Biosphärenreservat. Er ist besonders berühmt für die erfolgreiche Zucht und den Schutz der Hirschziegenantilope (Blackbuck), die hier in großen Herden lebt. Im Winter verwandeln sich die Feuchtgebiete (Patisa-See) in einen Zufluchtsort für Tausende von Zugvögeln aus Sibirien. Dieser Park zeigt, wie unterschiedliche Ökosysteme auf engem Raum existieren können, was ihn zu einem idealen Studienobjekt für die Ökologie in der 8. Klasse macht.",
+      "factsAdvanced": [
+        "Der Lal-Suhanra-Nationalpark im Punjab ist ein UNESCO-ausgewiesenes Biosphärenreservat.",
+        "Der Park kombiniert auf einzigartige Weise Wüsten-, Wald- und Feuchtgebietsökosysteme.",
+        "Er ist landesweit bekannt für die sehr erfolgreiche Zucht der Hirschziegenantilope (Blackbuck).",
+        "Der Patisa-See im Park zieht jeden Winter Tausende von Zugvögeln aus Sibirien an.",
+        "Das Schutzgebiet erstreckt sich über eine beeindruckende Fläche von mehr als 620 Quadratkilometern.",
+        "Nashörner und seltene Rebhühner gehören ebenfalls zur geschützten Tierwelt des Parks."
+      ]
+    },
+    {
+      "id": "balochistan-apple-orchards-life-v2",
+      "descriptionAdvanced": "Die hochgelegenen Täler von Belutschistan, insbesondere um Städte wie Ziarat, Pishin und Quetta, sind berühmt für ihre weitreichenden und hochproduktiven Apfelplantagen. Das raue, kalte Winterklima und die trockenen, sonnigen Sommer in diesen Bergregionen bieten perfekte Bedingungen für den Anbau von knackigen und süßen Äpfeln, die in ganz Pakistan gefragt sind. Für viele ländliche Gemeinden in Belutschistan bilden diese Obstgärten die primäre und oft einzige wirtschaftliche Lebensgrundlage. Wassermangel und Dürren stellen jedoch ständige Bedrohungen für die Ernten dar. Ein spannendes Thema für die Wirtschaftsgeografie der 8. Klasse, um den Einfluss des Klimas auf die regionale Landwirtschaft zu untersuchen.",
+      "factsAdvanced": [
+        "Belutschistans Bergregionen sind die Hauptproduzenten für Äpfel in Pakistan.",
+        "Städte wie Ziarat und Quetta sind von riesigen, fruchtbaren Apfelplantagen umgeben.",
+        "Das kalte Winterklima in den Bergen ist essenziell für die Entwicklung der Apfelblüten.",
+        "Die Apfelernte ist die primäre wirtschaftliche Lebensgrundlage vieler lokaler Familien.",
+        "Wasserknappheit und anhaltende Dürren bedrohen häufig den Ertrag der Plantagen.",
+        "Die Äpfel aus Belutschistan werden in alle Provinzen des Landes exportiert."
+      ]
+    },
+    {
+      "id": "bagh-e-jinnah-karachi-life-v2",
+      "descriptionAdvanced": "Bagh-e-Jinnah, früher bekannt als Frere Hall Gardens, ist ein historischer und kulturell bedeutsamer öffentlicher Park im Herzen von Karatschi. Er umgibt die berühmte Frere Hall aus der Kolonialzeit. In einer Metropole, die stark unter Platzmangel und Umweltverschmutzung leidet, ist dieser Park ein lebenswichtiger Erholungsraum. Am Wochenende strömen Familien hierher, um spazieren zu gehen, während oft Buchmessen und kleine Kunstausstellungen auf dem Gelände stattfinden. Der Park beherbergt alte, majestätische Banyanbäume, die dichten Schatten spenden. Bagh-e-Jinnah illustriert hervorragend die Rolle städtischer Gärten für den sozialen Zusammenhalt im Sozialkundeunterricht der 7. Klasse.",
+      "factsAdvanced": [
+        "Bagh-e-Jinnah ist ein historischer, sehr beliebter Park im Stadtzentrum von Karatschi.",
+        "Der Park umgibt das wunderschöne, koloniale Wahrzeichen der Frere Hall.",
+        "Er dient als essenzielle grüne Oase in der extrem dicht bebauten Metropole.",
+        "Regelmäßige Sonntagsbuchmessen und Kunstevents finden in den Gärten statt.",
+        "Alte Banyanbäume spenden den Besuchern Schutz vor der intensiven Sonne Karatschis.",
+        "Der Ort hieß während der britischen Kolonialzeit ursprünglich Frere Hall Gardens."
+      ]
+    },
+    {
+      "id": "atlantis-water-park-karachi-life-v2",
+      "descriptionAdvanced": "Der Atlantis Water Park in Karatschi bietet eine dringend benötigte und beliebte Flucht vor der intensiven, drückenden Sommerhitze der Metropole. Als moderner Wasservergnügungspark verfügt er über zahlreiche Wasserrutschen, Wellenbäder und Kinderspielbereiche, die auf die Bedürfnisse von Familien zugeschnitten sind. Besonders in den langen Sommermonaten verzeichnet der Park einen massiven Andrang. Er ist nicht nur ein Ort der Unterhaltung, sondern zeigt auch den steigenden Bedarf an kommerziellen und sicheren Freizeitmöglichkeiten in Pakistans größter Stadt. Das Thema eignet sich exzellent, um im Wirtschafts- und Sozialkundeunterricht der 6. Klasse den Wandel der städtischen Freizeitindustrie zu behandeln.",
+      "factsAdvanced": [
+        "Der Atlantis Water Park ist ein beliebtes Ziel zur Erfrischung im heißen Karatschi.",
+        "Der Park bietet eine große Vielfalt an rasanten Wasserrutschen und großen Wellenbädern.",
+        "Während der langen pakistanischen Sommermonate zieht er Tausende von Besuchern an.",
+        "Der Wasserpark ist primär auf Familien und deren sichere Unterhaltung ausgerichtet.",
+        "Er symbolisiert das Wachstum moderner Freizeitindustrien in pakistanischen Städten.",
+        "Anlagen wie diese bieten einen sicheren, kontrollierten Raum für das Wochenende."
+      ]
+    },
+    {
+      "id": "chitral-gol-national-park-life-v2",
+      "descriptionAdvanced": "Der Chitral-Gol-Nationalpark, gelegen in der atemberaubenden Bergwelt von Khyber Pakhtunkhwa, ist ein enges, steiles Tal, das von schneebedeckten Gipfeln des Hindukusch umgeben ist. Der Park wurde primär gegründet, um die Nationaltier Pakistans, die Schraubenziege (Markhor), zu schützen. Die steilen, felsigen Hänge bieten diesen wilden Ziegen, die für ihre spektakulären, spiralförmigen Hörner bekannt sind, den idealen Lebensraum. Der Park beherbergt auch Schneeleoparden und seltene tibetische Wölfe. Im Winter, wenn starker Schneefall die Berge bedeckt, steigen die Markhore in tiefere Täler ab, wo sie besser beobachtet werden können. Ein herausragendes Thema für den Biologieunterricht der 8. Klasse über gefährdete Arten.",
+      "factsAdvanced": [
+        "Der Chitral-Gol-Nationalpark liegt inmitten der steilen Berge des majestätischen Hindukusch.",
+        "Das Hauptziel des Parks ist der Schutz des Markhor, dem Nationaltier Pakistans.",
+        "Die Region ist berühmt für die markanten Schraubenziegen mit ihren großen Spiralhörnern.",
+        "Seltene Raubtiere wie der Schneeleopard und der tibetische Wolf jagen in diesem Park.",
+        "Das schmale V-förmige Tal ist von massiven, schneebedeckten Gipfeln umgeben.",
+        "Im tiefen Winter zwingt der Schnee die Tiere, in die tieferen Regionen des Tals zu wandern."
+      ]
+    },
+    {
+      "id": "gilgit-baltistan-apricot-groves-life-v2",
+      "descriptionAdvanced": "Gilgit-Baltistan ist weltweit berühmt für seine scheinbar endlosen, malerischen Aprikosenhaine, die die tiefen Bergtäler durchziehen. Im Frühling verwandeln Millionen von blühenden Aprikosenbäumen die raue Berglandschaft in ein atemberaubendes Meer aus Weiß und Rosa. Die Aprikose ist seit Jahrhunderten die wichtigste Frucht der Region und ein zentraler Bestandteil der lokalen Kultur und Wirtschaft. Nach der Ernte im Sommer werden die Früchte auf den Dächern der Häuser in der intensiven Höhensonne getrocknet. Der Verkauf von frischen und getrockneten Aprikosen sowie das wertvolle Aprikosenkernöl sichern den Lebensunterhalt der Bauern. Ein großartiges Lehrbeispiel für landwirtschaftliche Anpassung an Bergregionen in der 7. Klasse.",
+      "factsAdvanced": [
+        "Die Täler in Gilgit-Baltistan sind berühmt für ihre riesigen, fruchtbaren Aprikosenhaine.",
+        "Die Blüte im Frühling taucht die gesamte Gebirgslandschaft in eine weiße und rosa Farbe.",
+        "Aprikosen sind wirtschaftlich und kulturell die absolut wichtigste Frucht der Bergregion.",
+        "Um sie haltbar zu machen, werden große Mengen auf den Hausdächern in der Sonne getrocknet.",
+        "Aus den harten Kernen der Aprikosen wird traditionell hochwertiges Öl gepresst.",
+        "Die Ernte sichert den Lebensunterhalt zahlreicher ländlicher Familien in großer Höhe."
+      ]
+    },
+    {
+      "id": "fatima-jinnah-park-islamabad-life-v2",
+      "descriptionAdvanced": "Der Fatima Jinnah Park in Islamabad, oft auch als F-9 Park bezeichnet, ist einer der flächenmäßig größten innerstädtischen Parks in ganz Asien. Er bedeckt einen gesamten städtischen Sektor und bietet der Hauptstadt eine gigantische, naturbelassene Freifläche. Im Gegensatz zu streng formalen Gärten ist ein Großteil des Parks bewusst wild und waldartig belassen. Er bietet kilometerlange Wander- und Radwege, Sportanlagen und ein großes Erholungszentrum. Der Park ist nach der Schwester des Staatsgründers, Fatima Jinnah, benannt. Er ist ein Meisterstück moderner Landschaftsplanung und demonstriert im Stadtplanungsunterricht der 9. Klasse, wie wichtig große Freiräume für das urbane Klima sind.",
+      "factsAdvanced": [
+        "Der Fatima Jinnah Park (F-9 Park) in Islamabad ist einer der größten Stadtparks in ganz Asien.",
+        "Er erstreckt sich über einen ganzen Sektor der streng geplanten Hauptstadt Pakistans.",
+        "Ein großer Teil des weitläufigen Parks ist absichtlich wild und naturbelassen gehalten.",
+        "Das Gelände bietet ein riesiges Netz an Wegen für Spaziergänger und Radfahrer.",
+        "Der Park ist ein wichtiges ökologisches Rückzugsgebiet inmitten der wachsenden Stadt.",
+        "Er wurde zu Ehren von Fatima Jinnah, der Schwester des Staatsgründers, benannt."
+      ]
+    },
+    {
+      "id": "sozo-water-park-lahore-life-v2",
+      "descriptionAdvanced": "Der Sozo Water Park ist ein weitläufiger und äußerst populärer Wasserpark am Stadtrand von Lahore. Angesichts der extremen Hitze, die im Punjab während der Sommermonate herrscht, bieten Orte wie der Sozo Park eine dringend benötigte und erfrischende Freizeitalternative für die städtische Bevölkerung. Mit gigantischen Rutschen, künstlichen Flüssen (Lazy River) und massiven Wellenbädern ist der Park auf massenhafte Familienunterhaltung ausgelegt. Er ist so konzipiert, dass er Tausende von Besuchern gleichzeitig aufnehmen kann, was ihn zu einem der größten seiner Art in Pakistan macht. Sozo zeigt die Entwicklung der Freizeitinfrastruktur in Schwellenländern und ist ein gutes Thema für die Wirtschaftsgeografie der 8. Klasse.",
+      "factsAdvanced": [
+        "Der Sozo Water Park am Rande von Lahore ist einer der größten Wasserparks in Pakistan.",
+        "Er bietet der städtischen Bevölkerung eine willkommene Abkühlung im heißen Punjab-Sommer.",
+        "Der riesige Park umfasst zahlreiche Riesenrutschen, große Wellenbäder und einen 'Lazy River'.",
+        "Die gesamte Anlage ist darauf ausgelegt, Tausende von Besuchern an einem Wochenende aufzunehmen.",
+        "Der Park ist eine der bevorzugten Freizeitdestinationen für große Familienausflüge.",
+        "Solche Parks sind ein Symbol für den wachsenden Freizeitsektor der pakistanischen Mittelklasse."
+      ]
+    },
+    {
+      "id": "saif-ul-maluk-lake-nature-v2",
+      "descriptionAdvanced": "Der Saif-ul-Maluk-See im wunderschönen Kaghan-Tal ist einer der höchstgelegenen alpinen Seen in Pakistan (über 3.200 Meter). Eingerahmt von majestätischen, schneebedeckten Gipfeln wie dem Malika Parbat, ist der See berühmt für sein kristallklares, tief smaragdgrünes Wasser, das im Sommer eine spiegelglatte Oberfläche bildet. Der See ist reich an Forellen und von alpinen Wiesen umgeben. Lokale Legenden ranken sich um Feen, die hier nachts baden sollen, was zur mystischen Atmosphäre des Ortes beiträgt. Als eines der beliebtesten Touristenziele des Landes ist der See ein perfektes Fallbeispiel für den Geografieunterricht der 7. Klasse über Gletscherseen und deren ökologische Bedeutung.",
+      "factsAdvanced": [
+        "Der See Saif-ul-Maluk liegt auf über 3.200 Metern im malerischen Kaghan-Tal.",
+        "Das eisige, kristallklare Wasser stammt aus den Gletschern der umliegenden Berge.",
+        "Der See spiegelt den majestätischen, schneebedeckten Gipfel des Malika Parbat wider.",
+        "Lokale Sufi-Legenden erzählen von Feen, die in mondhellen Nächten zum See hinabsteigen.",
+        "Er ist eines der berühmtesten und am meisten besuchten Naturwahrzeichen Pakistans.",
+        "Das kalte, sauerstoffreiche Wasser des Sees beherbergt eine reiche Forellenpopulation."
+      ]
+    },
+    {
+      "id": "k2-mountain-nature-v2",
+      "descriptionAdvanced": "Der K2, gelegen in der Karakorum-Gebirgskette an der Grenze zwischen Pakistan und China, ist mit 8.611 Metern der zweithöchste Berg der Erde. Unter Bergsteigern ist er als der 'Wilde Berg' (Savage Mountain) berüchtigt, da er aufgrund extrem steiler Wände, gnadenloser Stürme und Lawinen als weitaus schwieriger und gefährlicher zu besteigen gilt als der Mount Everest. Bis heute ist seine Besteigung im Winter eine der größten Herausforderungen des Alpinismus geblieben. Seine abgelegene, pyramidenförmige Silhouette macht ihn zu einem Wunder der Natur. Der K2 ist ein überragendes Thema für den Erdkundeunterricht der 9. Klasse über Plattentektonik, Gebirgsbildung und extremes Klima.",
+      "factsAdvanced": [
+        "Der K2 ist mit einer unglaublichen Höhe von 8.611 Metern der zweithöchste Berg der Erde.",
+        "Er liegt in der gewaltigen Karakorum-Gebirgskette an der Grenze zu China.",
+        "Aufgrund seiner extremen Schwierigkeit und Todesrate wird er oft der 'Wilde Berg' genannt.",
+        "Für Profi-Alpinisten gilt der K2 als wesentlich schwieriger zu besteigen als der Mount Everest.",
+        "Der Berg hat eine steile, beinahe perfekte Pyramidenform, die Eis und Schnee abweist.",
+        "Extreme Winterstürme und ständige Lawinengefahr prägen das raue Klima des K2."
+      ]
+    },
+    {
+      "id": "nanga-parbat-mountain-nature-v2",
+      "descriptionAdvanced": "Der Nanga Parbat, der 'Nackte Berg', ist mit 8.126 Metern der neunthöchste Berg der Welt und markiert das majestätische westliche Ende der gewaltigen Himalaya-Gebirgskette in Pakistan. Er wird oft als 'Schicksalsberg der Deutschen' bezeichnet, da viele frühe Expeditionen aus Deutschland hier scheiterten, bevor Hermann Buhl 1953 die Erstbesteigung gelang. Die Südwand des Berges, die Rupal-Flanke, ist mit 4.600 Metern die höchste Steilwand der Erde. Seine immense vertikale Höhe über dem tief eingeschnittenen Industal macht ihn zu einem der furchteinflößendsten Gipfel der Welt. Der Berg ist ein brillantes Thema für alpine Geografie und menschliche Grenzen im Unterricht der 10. Klasse.",
+      "factsAdvanced": [
+        "Der Nanga Parbat ist mit einer Höhe von 8.126 Metern der neunthöchste Berg der Welt.",
+        "Er markiert das äußerste westliche Ende der gigantischen Himalaya-Gebirgskette.",
+        "Die Rupal-Flanke des Berges ist mit 4.600 Metern die höchste vertikale Steilwand der Erde.",
+        "Aufgrund vieler Tragödien bei frühen Expeditionen wird er oft der 'Killerberg' genannt.",
+        "Der Name 'Nanga Parbat' bedeutet wörtlich 'Nackter Berg' in den lokalen Sprachen.",
+        "Er überragt das tief eingeschnittene Industal in einer unvergleichlichen vertikalen Distanz."
+      ]
+    },
+    {
+      "id": "hunza-valley-nature-v2",
+      "descriptionAdvanced": "Das Hunza-Tal in Gilgit-Baltistan wird weltweit oft als das mythische 'Shangri-La' beschrieben. Das Tal liegt isoliert auf einer Höhe von fast 2.500 Metern und ist umgeben von schneebedeckten Gipfeln des Karakorum, die teilweise über 7.000 Meter in den Himmel ragen, darunter der beeindruckende Rakaposhi. Hunza ist berühmt für seine terrassierten Felder, die im Frühling von Millionen blühender Aprikosen-, Kirsch- und Apfelbäume in leuchtende Farben getaucht werden. Die jahrhundertealten Forts wie Baltit und Altit dominieren die Landschaft. Das Flusstal ist ein Paradebeispiel für nachhaltiges Leben in extremem Terrain und eignet sich exzellent für den Geografieunterricht der 7. Klasse.",
+      "factsAdvanced": [
+        "Das Hunza-Tal liegt auf fast 2.500 Metern Höhe und wird oft als mythisches 'Shangri-La' bezeichnet.",
+        "Die Region wird von gewaltigen, über 7.000 Meter hohen Karakorum-Gipfeln eingerahmt.",
+        "Die Landwirtschaft basiert auf hochkomplexen, uralten Terrassenfeldern an steilen Hängen.",
+        "Im Frühjahr leuchtet das gesamte Tal in den Farben abertausender blühender Aprikosenbäume.",
+        "Die historische Kultur wird durch die majestätischen Forts Baltit und Altit symbolisiert.",
+        "Die Bevölkerung von Hunza ist für ihre hohe Lebenserwartung und Gastfreundschaft bekannt."
+      ]
+    },
+    {
+      "id": "deosai-national-park-nature-v2",
+      "descriptionAdvanced": "Das Deosai-Plateau, oft 'Land der Riesen' genannt, ist eine der höchstgelegenen und faszinierendsten Hochebenen der Welt. Mit einer durchschnittlichen Höhe von 4.100 Metern ist diese weite, baumlose Ebene im Norden Pakistans in extremem Maße den Elementen ausgesetzt. Acht Monate im Jahr liegt das Plateau unter einer massiven Schneedecke. Doch im kurzen Sommer verwandelt sich Deosai in einen spektakulären Teppich aus Millionen alpiner Wildblumen. Der Park wurde primär zum Schutz des seltenen Himalaya-Braunbären ausgewiesen, ist aber auch Heimat von Murmeltieren und tibetischen Wölfen. Deosai ist ein erstklassiges Studienobjekt für alpine Ökologie und Extreme im Biologieunterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Das Deosai-Plateau in Pakistan ist eine der höchstgelegenen Hochebenen der gesamten Welt.",
+        "Die riesige, baumlose Fläche liegt auf einer durchschnittlichen Höhe von 4.100 Metern.",
+        "Der Name Deosai bedeutet in der lokalen Sprache wörtlich 'Land der Riesen'.",
+        "Im kurzen, intensiven Sommer blühen hier unzählige seltene alpine Wildblumen.",
+        "Der Park ist ein essenzielles Schutzgebiet für den vom Aussterben bedrohten Himalaya-Braunbären.",
+        "Starke Winde, extremer Schnee und Kälte machen das Gebiet acht Monate im Jahr unzugänglich."
+      ]
+    },
+    {
+      "id": "indus-river-nature-v2",
+      "descriptionAdvanced": "Der Indus (lokal 'Abasin' oder 'Vater der Flüsse') ist die absolute Lebensader Pakistans. Er entspringt im tibetischen Hochland, fließt durch die tiefen Schluchten des Himalayas und Karakorums, durchschneidet die weiten Ebenen des Punjab und Sindhs und mündet schließlich in einem riesigen Delta ins Arabische Meer. Mit über 3.100 Kilometern Länge speist er das größte zusammenhängende Kanalbewässerungssystem der Welt, das die Landwirtschaft der gesamten Nation am Leben erhält. Historisch war der Indus die Wiege einer der frühesten menschlichen Zivilisationen (Mohenjo-Daro, Harappa). Er ist das wichtigste geografische und wirtschaftliche Merkmal Pakistans für den Unterricht in der 8. Klasse.",
+      "factsAdvanced": [
+        "Der Indus ist der mit Abstand längste und wichtigste Flusslauf in Pakistan.",
+        "Er entspringt tief im tibetischen Hochland und mündet im fernen Arabischen Meer.",
+        "Der Fluss speist das weltweit größte zusammenhängende Kanalbewässerungssystem für die Landwirtschaft.",
+        "In den alten lokalen Sprachen wird er ehrfürchtig 'Abasin', der 'Vater der Flüsse', genannt.",
+        "Der Fluss war historisch die Lebensgrundlage der antiken Industal-Zivilisation.",
+        "Er liefert nicht nur Wasser, sondern auch massiv Energie durch riesige Staudämme."
+      ]
+    },
+    {
+      "id": "satpara-lake-nature-v2",
+      "descriptionAdvanced": "Der Satpara-See in der Nähe der Bergstadt Skardu ist einer der malerischsten Süßwasserseen in Gilgit-Baltistan. Der See wird direkt durch die Schneeschmelze des umliegenden, kargen Deosai-Plateaus gespeist und bietet in der rauen Berglandschaft eine Oase mit leuchtend türkisem Wasser. Um den natürlichen See herum wurde kürzlich ein Staudamm errichtet (Satpara-Damm), der die Wasserfläche vergrößert hat und entscheidend für die lokale Stromerzeugung und die landwirtschaftliche Bewässerung in der Skardu-Region ist. Im See befindet sich zudem eine kleine, idyllische Insel. Der Satpara-See illustriert die Verbindung von natürlicher Schönheit und hydrologischer Nutzung im Geografieunterricht der 7. Klasse.",
+      "factsAdvanced": [
+        "Der Satpara-See liegt malerisch nahe der Bergsteigerstadt Skardu in Gilgit-Baltistan.",
+        "Das eiskalte Wasser stammt hauptsächlich aus der Schneeschmelze des nahen Deosai-Plateaus.",
+        "Ein neu errichteter Staudamm nutzt den See nun intensiv zur regionalen Stromerzeugung.",
+        "Der See liefert unverzichtbares Wasser für die lokale Landwirtschaft im Skardu-Tal.",
+        "Das Wasser des Sees hat oft eine markante, leuchtend türkise oder tiefblaue Farbe.",
+        "In der Mitte des Süßwassersees liegt eine kleine, sehr fotogene Insel."
+      ]
+    },
+    {
+      "id": "nangma-valley-nature-v2",
+      "descriptionAdvanced": "Das schwer zugängliche Nangma-Tal in Baltistan wird von Felskletterern aus aller Welt oft als das 'Yosemite Pakistans' bezeichnet. Im Gegensatz zu den extrem hoch gelegenen Eisgipfeln zeichnet sich Nangma durch gigantische, fast vertikale Granittürme aus, die steil aus saftig grünen, weidebedeckten Talböden aufragen. Der spektakulärste dieser Türme ist der Amin Brakk, dessen Nadelspitze eine extreme Herausforderung für Kletterer darstellt. Die Landschaft wirkt fast surreal durch den starken Kontrast zwischen sanften Wiesen, klaren Gletscherbächen und den harten, senkrechten Granitwänden. Das Tal ist ein fantastisches Beispiel für Gesteinsformationen und Erosion im Geografieunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Das Nangma-Tal wird von Kletterern weltweit als das 'Yosemite Pakistans' gefeiert.",
+        "Das Tal ist berühmt für seine gewaltigen, fast vertikalen, kahlen Granittürme.",
+        "Der auffällige Amin Brakk ist einer der bekanntesten und schwierigsten Klettergipfel dort.",
+        "Die massiven Granitwände bilden einen extremen Kontrast zu den grünen, sanften Talwiesen.",
+        "Gletscherbäche durchschneiden die alpinen Weiden am Fuße der riesigen Felswände.",
+        "Das Tal zieht Extremkletterer an, die komplexe vertikale Felswände suchen."
+      ]
+    },
+    {
+      "id": "hingol-national-park-nature-v2",
+      "descriptionAdvanced": "Der Hingol-Nationalpark entlang der Makran-Küste in Belutschistan ist der flächenmäßig größte Nationalpark Pakistans. Diese raue, fast außerirdische Landschaft bietet einen drastischen Kontrast aus trockenem Wüstenhochland, bizarren Felsformationen (wie der berühmten 'Princess of Hope') und spektakulären Schlammvulkanen, die an das blaue Arabische Meer grenzen. Durch den Park fließt der Hingol-Fluss, der seltene Sumpfkrokodile und grüne Meeresschildkröten beherbergt, bevor er ins Meer mündet. Die Stätte beherbergt zudem den Hindu-Tempel Hinglaj Mata in einer tiefen Schlucht. Hingol ist ein hervorragendes Beispiel für geologische Wunder und Wüstenküsten für den Unterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Der Hingol-Nationalpark in Belutschistan ist flächenmäßig der größte Nationalpark Pakistans.",
+        "Die Region besticht durch surreale, vom Wind erodierte Felsformationen wie die 'Princess of Hope'.",
+        "Der Park beheimatet die extrem seltenen, aktiven Schlammvulkane an der Makran-Küste.",
+        "Der Hingol-Fluss bietet Lebensraum für Krokodile, bevor er in das Arabische Meer fließt.",
+        "Trockene Wüstenlandschaften treffen hier direkt auf das tiefblaue Arabische Meer.",
+        "Im Park befindet sich der Hinglaj Mata, einer der wichtigsten Hindu-Pilgerorte der Region."
+      ]
+    },
+    {
+      "id": "attabad-lake-nature-v2",
+      "descriptionAdvanced": "Der Attabad-See im Hunza-Tal ist ein bemerkenswertes Naturphänomen, das infolge einer verheerenden Katastrophe entstand. Im Jahr 2010 blockierte ein massiver, durch ein Erdbeben ausgelöster Erdrutsch den Hunza-Fluss vollständig. In den folgenden Monaten staute sich das Wasser und überflutete Dörfer sowie Teile des Karakorum Highways, wodurch dieser 21 Kilometer lange See mit leuchtend türkisem Gletscherwasser entstand. Heute ist der See ironischerweise eine der größten Touristenattraktionen der Region, wo Besucher Bootsfahrten zwischen den tiefen, felsigen Schluchten unternehmen. Die Geschichte des Sees demonstriert anschaulich die zerstörerische, aber auch umgestaltende Kraft natürlicher Erdrutsche für den Geografieunterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Der Attabad-See entstand völlig neu im Jahr 2010 nach einem gewaltigen Bergsturz.",
+        "Ein massiver Erdrutsch blockierte damals den Flusslauf des tiefen Hunza-Tals.",
+        "Der See überschwemmte Dörfer und einen langen Abschnitt des Karakorum Highways.",
+        "Sein Wasser ist bekannt für eine unglaublich intensive, leuchtend türkise Farbe.",
+        "Heute ist der See, der aus einer Katastrophe entstand, eine der Hauptattraktionen für Touristen.",
+        "Bootsfahrten zwischen den hoch aufragenden Bergschluchten sind heute eine wichtige Einnahmequelle."
+      ]
+    },
+    {
+      "id": "chitral-gol-national-park-nature-v2",
+      "descriptionAdvanced": "Der Chitral-Gol-Nationalpark, gelegen in der atemberaubenden Bergwelt von Khyber Pakhtunkhwa, ist ein enges, steiles Tal, das von schneebedeckten Gipfeln des Hindukusch umgeben ist. Der Park wurde primär gegründet, um die Nationaltier Pakistans, die Schraubenziege (Markhor), zu schützen. Die steilen, felsigen Hänge bieten diesen wilden Ziegen, die für ihre spektakulären, spiralförmigen Hörner bekannt sind, den idealen Lebensraum. Der Park beherbergt auch Schneeleoparden und seltene tibetische Wölfe. Im Winter, wenn starker Schneefall die Berge bedeckt, steigen die Markhore in tiefere Täler ab, wo sie besser beobachtet werden können. Ein herausragendes Thema für den Biologieunterricht der 8. Klasse über gefährdete Arten.",
+      "factsAdvanced": [
+        "Der Chitral-Gol-Nationalpark liegt inmitten der steilen Berge des majestätischen Hindukusch.",
+        "Das Hauptziel des Parks ist der Schutz des Markhor, dem Nationaltier Pakistans.",
+        "Die Region ist berühmt für die markanten Schraubenziegen mit ihren großen Spiralhörnern.",
+        "Seltene Raubtiere wie der Schneeleopard und der tibetische Wolf jagen in diesem Park.",
+        "Das schmale V-förmige Tal ist von massiven, schneebedeckten Gipfeln umgeben.",
+        "Im tiefen Winter zwingt der Schnee die Tiere, in die tieferen Regionen des Tals zu wandern."
+      ]
+    },
+    {
+      "id": "rakaposhi-mountain-nature-v2",
+      "descriptionAdvanced": "Der Rakaposhi, was in der lokalen Sprache 'Schneebedeckt' bedeutet, ist mit 7.788 Metern der 27. höchste Berg der Welt, beeindruckt aber durch seine ungeheure Dominanz. Er erhebt sich als massiver, freistehender Eisriese direkt über dem Karakorum Highway und dem malerischen Hunza-Tal. Der Berg ist berühmt für den gigantischen Höhenunterschied von fast 6.000 Metern zwischen dem Talboden und dem Gipfel in einer Entfernung von nur wenigen Kilometern, eine fast beispiellose geografische Gegebenheit weltweit. Der makellos weiße Gipfel über den grünen Terrassen von Hunza bietet eines der ikonischsten Postkartenmotive Pakistans, ideal für die Landschaftsgeografie in der 7. Klasse.",
+      "factsAdvanced": [
+        "Der Rakaposhi ist ein dominanter Eisriese und erreicht eine Höhe von 7.788 Metern.",
+        "Der Name Rakaposhi bedeutet in der lokalen Sprache zutreffend 'Schneebedeckt'.",
+        "Der Berg überragt das grüne Hunza-Tal mit einer gewaltigen, ununterbrochenen vertikalen Wand.",
+        "Der direkte Höhenunterschied vom Tal zum Gipfel beträgt unglaubliche 6.000 Meter.",
+        "Der Berg dominiert die Aussicht direkt vom bekannten Karakorum Highway aus.",
+        "Seine breite, massige Eisflanke macht ihn zu einem der fotogensten Berge der Welt."
+      ]
+    },
+    {
+      "id": "jhelum-river-nature-v2",
+      "descriptionAdvanced": "Der Jhelum ist einer der fünf großen Flüsse des Punjab, dessen Name sich von den 'Fünf Gewässern' ableitet. Er entspringt einer Quelle im Himalaya in Kaschmir und fließt in einem tief eingeschnittenen Tal nach Süden, bevor er die weiten Ebenen Pakistans erreicht. Historisch erlangte der Jhelum (damals Hydaspes genannt) Berühmtheit als Schauplatz der großen Schlacht zwischen Alexander dem Großen und König Poros im Jahr 326 v. Chr. Heute ist der Fluss von immenser wirtschaftlicher Bedeutung, da er durch den gigantischen Mangla-Staudamm zur Energiegewinnung und für ausgedehnte Bewässerungsprojekte gestaut wird. Der Jhelum ist ein zentrales Thema für Hydrologie und Geschichte im Unterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Der Jhelum ist einer der fünf historischen Hauptflüsse der pakistanischen Provinz Punjab.",
+        "Er entspringt tief im Himalaya im umstrittenen Gebiet von Kaschmir.",
+        "Historisch fand an seinen Ufern die berühmte Schlacht von Alexander dem Großen statt.",
+        "Der Fluss wird in Pakistan durch den gewaltigen Mangla-Staudamm gestaut.",
+        "Das Wasser des Jhelum ist entscheidend für das komplexe Kanalbewässerungssystem der Landwirtschaft.",
+        "Er mündet schließlich zusammen mit anderen Flüssen in den mächtigen Indus."
+      ]
+    },
+    {
+      "id": "lulusar-lake-nature-v2",
+      "descriptionAdvanced": "Der Lulusar-See, eingebettet auf einer Höhe von fast 3.400 Metern, ist das größte natürliche Gewässer im malerischen Kaghan-Tal in Khyber Pakhtunkhwa. Das eisige, spiegelglatte Wasser des Sees dient als Hauptquelle für den schnell fließenden Kunhar-Fluss. Der See ist von Bergen umgeben, die im Winter mit tiefem Schnee bedeckt sind und im Sommer in sattem Grün und Tausenden von Wildblumen erstrahlen. Seine Abgeschiedenheit wurde in den letzten Jahren durch den Ausbau der Straßeninfrastruktur verringert, was ihn zu einem beliebten, leicht erreichbaren Ziel für Naturtouristen auf dem Weg zum Babusar-Pass gemacht hat. Ein faszinierendes Beispiel für alpine Hydrologie in der 7. Klasse.",
+      "factsAdvanced": [
+        "Der Lulusar-See ist der größte See im langgestreckten, grünen Kaghan-Tal.",
+        "Er liegt auf einer beachtlichen Höhe von fast 3.400 Metern über dem Meeresspiegel.",
+        "Der See ist die primäre Wasserquelle für den schnell fließenden Kunhar-Fluss.",
+        "Im tiefen Winter ist die gesamte Seeoberfläche regelmäßig mit dickem Eis zugefroren.",
+        "Im kurzen Sommer erstrahlen die umliegenden Hänge mit unzähligen alpinen Wildblumen.",
+        "Der See liegt direkt an der wichtigen Route hinauf zum hohen Babusar-Pass."
+      ]
+    },
+    {
+      "id": "khunjerab-national-park-nature-v2",
+      "descriptionAdvanced": "Der Khunjerab-Nationalpark liegt an der pakistanisch-chinesischen Grenze in Gilgit-Baltistan und ist einer der höchstgelegenen Nationalparks der Erde. Der Park ist ein rauer, alpiner Lebensraum, der fast 4.700 Meter über dem Meeresspiegel liegt. Er wurde speziell zum Schutz des extrem seltenen und majestätischen Marco-Polo-Schafs eingerichtet, dessen spiralförmige Hörner zu den größten in der Tierwelt gehören. Der Park schützt auch die fragilen Populationen von Schneeleoparden, Himalaya-Steinböcken und tibetischen Wildeseln. Die harten Überlebensbedingungen und der Kampf gegen die Wilderei machen den Khunjerab-Nationalpark zu einem exzellenten Lehrstück über Artenschutz in extremen Umgebungen für den Biologieunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Der Khunjerab-Nationalpark liegt direkt an der extrem hohen Grenze zu China.",
+        "Mit einer Höhe von rund 4.700 Metern ist es einer der höchstgelegenen Parks der Welt.",
+        "Der Park wurde primär gegründet, um das stark bedrohte Marco-Polo-Schaf zu schützen.",
+        "Auch seltene Raubtiere wie der Schneeleopard durchstreifen diese felsige Region.",
+        "Die Vegetation in diesen extremen Höhen besteht hauptsächlich aus spärlichen Alpenkräutern.",
+        "Der berühmte, asphaltierte Karakorum Highway führt direkt durch das Gebiet des Nationalparks."
+      ]
+    }
+  ]
+}

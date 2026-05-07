@@ -89,7 +89,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos vízi út az abidjani kikötő számára.", "Elválasztja a városrészeket.", "Nagy ökológiai jelentőség.", "Turisztikai központ."],
       ro: ["Importantă cale navigabilă pentru portul Abidjan.", "Separă cartierele orașului.", "Mare importanță ecologică.", "Centru turistic."],
       en: ["Important waterway for the port of Abidjan.", "Separates city districts.", "Great ecological importance.", "Tourist center."]
-    }, image: "/poi-images/lagune-ebrie-nature-v2.webp"},
+    }, image: "/poi-images/lagune-ebrie-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ébrié-Lagune ist das Herzstück der ivorischen Küstenlandschaft und erstreckt sich über 130 Kilometer parallel zum Golf von Guinea. Sie ist ein komplexes Ökosystem aus Brackwasser, das durch den Vridi-Kanal mit dem Atlantik verbunden ist. Die Lagune prägt das Leben in Abidjan massiv, da sie die Stadtviertel voneinander trennt und gleichzeitig als wichtige Wasserstraße für den Transport und die Fischerei dient. Trotz der ökologischen Herausforderungen durch die Urbanisierung bleibt sie ein lebenswichtiger Naturraum und ein Symbol für die 'Perle der Lagunen'. Erdkunde K7 — Lagunensysteme und Küstenökologie."
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 130 Kilometern.", "Größtes Lagunensystem Westafrikas.", "Verbunden mit dem Atlantik via Vridi-Kanal.", "Wichtiges Fischereigebiet für die lokale Bevölkerung.", "Trennt die Stadtteile von Abidjan.", "Ökologisch sensible Brackwasserzone.", "Wichtiger Transportweg für Boote und Fähren.", "Beherbergt Mangrovenwälder in ruhigeren Zonen."]
+    }
+  },
   {
     id: "bandama-river-nature-v2",
     type: "river",
@@ -102,7 +109,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Az ország leghosszabb folyója.", "Táplálja a Kossou-víztározót.", "Fontos az öntözésben.", "Természetes határ egyes régiók között."],
       ro: ["Cel mai lung râu din țară.", "Alimentează lacul de acumulare Kossou.", "Important pentru irigații.", "Graniță naturală pentru unele regiuni."],
       en: ["Longest river in the country.", "Feeds the Kossou reservoir.", "Important for irrigation.", "Natural border for some regions."]
-    }, image: "/poi-images/bandama-river-nature-v2.webp"},
+    }, image: "/poi-images/bandama-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bandama ist der längste und wasserreichste Fluss der Elfenbeinküste und durchzieht das Land fast vollständig von Norden nach Süden. Er entsteht aus dem Zusammenfluss des Weißen und Roten Bandama und speist auf seinem Weg den riesigen Kossou-Stausee. Der Fluss ist eine entscheidende Lebensader für die Landwirtschaft und die Energiegewinnung des Landes. Seine Uferlandschaften variieren von trockenen Savannen im Norden bis zu dichten Galeriewäldern im Zentrum, was ihn zu einem wichtigen Korridor für die Tierwelt macht. Erdkunde K7 — Flusssysteme und Wasserkraft."
+    },
+    factsAdvanced: {
+      de: ["Längster Fluss der Elfenbeinküste (ca. 800 km).", "Entsteht aus Weißem und Rotem Bandama.", "Speist den Kossou-Stausee (wichtig für Energie).", "Wichtige Wasserquelle für die zentrale Landwirtschaft.", "Mündet bei Grand-Lahou in den Atlantik.", "Beherbergt Flusspferde und Krokodile.", "Bildet natürliche Grenzen zwischen Regionen.", "Wichtiger Transportweg für Binnenschiffer."]
+    }
+  },
   {
     id: "lagune-grand-lahou-nature-v2",
     type: "lake",
@@ -115,7 +129,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Számos madár védett élőhelye.", "Egy kiterjedt vizes élőhely része.", "Fontos halászati terület.", "Az Azagny Nemzeti Park közelében található."],
       ro: ["Arie protejată pentru numeroase păsări.", "Parte a unei zone umede extinse.", "Zone importante de pescuit.", "Lângă Parcul Național Azagny."],
       en: ["Protected area for numerous birds.", "Part of an extensive wetland.", "Important fishing grounds.", "Near Azagny National Park."]
-    }, image: "/poi-images/lagune-grand-lahou-nature-v2.webp"},
+    }, image: "/poi-images/lagune-grand-lahou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lagune von Grand-Lahou im Südwesten der Elfenbeinküste ist ein beeindruckendes Feuchtgebiet von hoher biologischer Bedeutung. Sie liegt am Treffpunkt des Bandama-Flusses mit dem Atlantik und bildet ein Labyrinth aus Wasserwegen, Inseln und Mangroven. Die Region ist bekannt für ihre reiche Vogelwelt und dient als natürlicher Puffer gegen Küstenerosion. Die Bewohner der umliegenden Dörfer leben traditionell vom Fischfang und bewahren eine enge Verbundenheit mit diesem sensiblen Ökosystem, das direkt an den Azagny-Nationalpark grenzt. Erdkunde K7 — Küstenmorphologie und Feuchtgebiete."
+    },
+    factsAdvanced: {
+      de: ["Mündungsgebiet des Bandama-Flusses.", "Teil eines RAMSAR-geschützten Feuchtgebiets.", "Wichtiger Lebensraum für Zugvögel.", "Reich an Mangrovenwäldern.", "Zentrum der lokalen Lagunenfischerei.", "Nahegelegener Azagny-Nationalpark.", "Bedroht durch steigenden Meeresspiegel.", "Bietet Schutz für seltene Seekühe (Manatis)."]
+    }
+  },
   {
     id: "comoe-river-nature-v2",
     type: "river",
@@ -128,7 +149,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Átfolyik a Comoé Nemzeti Parkon.", "Élőhely számos vadállatnak.", "Fontos az ökoszisztéma számára.", "A keleti részen torkollik az Atlanti-óceánba."],
       ro: ["Traversează Parcul Național Comoé.", "Habitat pentru multe animale sălbatice.", "Important pentru ecosistem.", "Se varsă în Atlantic în est."],
       en: ["Flows through Comoé National Park.", "Habitat for many wild animals.", "Important for the ecosystem.", "Feeds into the Atlantic in the east."]
-    }, image: "/poi-images/comoe-river-nature-v2.webp"},
+    }, image: "/poi-images/comoe-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Comoé ist der Hauptfluss im Osten der Elfenbeinküste und Namensgeber des größten Nationalparks des Landes. Er entspringt in Burkina Faso und fließt durch ausgedehnte Savannen und Waldgebiete, bevor er bei Grand-Bassam in die Ébrié-Lagune mündet. Der Fluss ist ökologisch besonders wertvoll, da er während der Trockenzeit die einzige permanente Wasserquelle für die Tierwelt im Nordosten darstellt. Entlang seines Laufs finden sich beeindruckende Galeriewälder, die einen scharfen Kontrast zur umliegenden Trockensavanne bilden. Erdkunde K7 — Ökosysteme der Savannenflüsse."
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 759 Kilometern.", "Durchfließt den Comoé-Nationalpark (UNESCO).", "Wichtigste Wasserquelle im Nordosten.", "Mündet in die Ébrié-Lagune bei Grand-Bassam.", "Bildet ausgedehnte Galeriewälder.", "Heimat von Krokodilen und Flusspferden.", "Wichtiger Korridor für Elefantenwanderungen.", "Prägt die Landwirtschaft im Osten des Landes."]
+    }
+  },
   {
     id: "mount-poko-nature-v2",
     type: "mountain",
@@ -141,7 +169,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A nyugati hegyvidék része.", "Trópusi erdők veszik körül.", "Viszonylag érintetlen.", "Festői táj."],
       ro: ["Parte a zonelor montane din vest.", "Înconjurat de păduri tropicale.", "Relativ neexplorat.", "Peisaj pitoresc."],
       en: ["Part of the western mountain region.", "Surrounded by tropical forests.", "Relatively undeveloped.", "Picturesque landscape."]
-    }, image: "/poi-images/mount-poko-nature-v2.webp"},
+    }, image: "/poi-images/mount-poko-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mont Poko ist eine markante Erhebung im zerklüfteten Hochland des westlichen Elfenbeinküste. Umgeben von dichten tropischen Regenwäldern, ragt er als Teil der Gebirgskette hervor, die die Grenze zu Guinea und Liberia säumt. Die Region um den Berg ist bekannt für ihre hohe Niederschlagsmenge und die daraus resultierende üppige Vegetation. Der Mont Poko ist ein wichtiges Wassereinzugsgebiet für zahlreiche Bäche, die in die großen Flüsse des Westens fließen. Aufgrund seiner Unzugänglichkeit hat er sich eine fast unberührte Natur bewahrt. Erdkunde K7 — Gebirgsökosysteme und Regenwälder."
+    },
+    factsAdvanced: {
+      de: ["Teil des westlichen Hochlandes (Dan-Berge).", "Umgeben von primärem Regenwald.", "Wichtiges Wassereinzugsgebiet der Region.", "Bedeutend für den lokalen Klimaerhalt.", "Schwer zugänglich und naturbelassen.", "Heimat seltener Bergvogelarten.", "Prägt das Relief der Region Tonkpi.", "Teil der Biodiversitäts-Hotspots Westafrikas."]
+    }
+  },
   {
     id: "la-maho-lagoon-nature-v2",
     type: "lake",
@@ -154,6 +189,12 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Csendes vízpart.", "Ritka halfajok otthona.", "Fontos helyi ökoszisztéma.", "Kiváló ökoturizmusra."],
       ro: ["Zonă de apă liniștită.", "Habitat pentru specii de pești rari.", "Ecosistem local important.", "Bun pentru ecoturism."],
       en: ["Quiet water setting.", "Home to rare fish species.", "Important local ecosystem.", "Good for ecotourism."]
+    },
+    descriptionAdvanced: {
+      de: "Die La Maho Lagune ist ein ruhigeres, weniger bekanntes Gewässer im ausgedehnten Lagunensystem der ivorischen Küste. Sie bietet einen wertvollen Rückzugsort für die heimische Fauna, insbesondere für verschiedene Fischarten und Wasservögel. Umgeben von Mangroven und kleinen Fischerdörfern, zeigt sie die traditionelle Lebensweise der Küstenbevölkerung in Harmonie mit der Natur. Die Lagune ist ökologisch sensibel und spielt eine wichtige Rolle bei der Filterung von Sedimenten, bevor das Wasser den Ozean erreicht. Sachkunde K5 — Küstennahe Lebensräume."
+    },
+    factsAdvanced: {
+      de: ["Ruhiges Gewässer im Küstengürtel.", "Wichtiger Brutplatz für Wasservögel.", "Umgeben von schützenden Mangroven.", "Zentrum für kleinteilige, traditionelle Fischerei.", "Ökologisches Bindeglied im Lagunensystem.", "Geringer menschlicher Einfluss im Vergleich zu Abidjan.", "Reich an endemischen Fischarten.", "Wichtiger Puffer für den Küstenschutz."]
     }
   },
   {
@@ -168,7 +209,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["UNESCO világörökség.", "Hatalmas biodiverzitás.", "Csimpánzok otthona.", "Természetvédelmi terület."],
       ro: ["Patrimoniu Mondial UNESCO.", "Biodiversitate enormă.", "Habitat pentru cimpanzei.", "Arie protejată."],
       en: ["UNESCO World Heritage site.", "Enormous biodiversity.", "Home to chimpanzees.", "Protected area."]
-    }, image: "/poi-images/forest-ta-i-nature-v2.webp"},
+    }, image: "/poi-images/forest-ta-i-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Taï-Wald ist der größte verbliebene zusammenhängende Primärregenwald in Westafrika und ein UNESCO-Weltnaturerbe von unschätzbarem Wert. Er beherbergt eine unglaubliche Artenvielfalt, darunter die berühmten Schimpansen, die Werkzeuge benutzen, sowie das seltene Zwergflusspferd. Der Wald wirkt als gigantischer Klimaregulator für die gesamte Region und ist ein lebendiges Labor für die Erforschung tropischer Ökosysteme. Trotz Schutzstatus bleibt der Erhalt des Waldes eine tägliche Herausforderung gegen Wilderei und illegale Abholzung. Biologie K8 — Regenwälder und Artenschutz."
+    },
+    factsAdvanced: {
+      de: ["Größter Primärwald Westafrikas.", "UNESCO-Weltnaturerbe seit 1982.", "Heimat der werkzeugnutzenden Schimpansen.", "Wichtigstes Schutzgebiet für Zwergflusspferde.", "Beherbergt über 1.300 Pflanzenarten.", "Klimaregulator für die Elfenbeinküste.", "Umfasst ca. 3.300 Quadratkilometer.", "Zentrum für internationale Primatenforschung."]
+    }
+  },
   {
     id: "lagune-abidjan-est-nature-v2",
     type: "lake",
@@ -181,6 +229,12 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Mangrovevédelem.", "Az Ébrié-rendszer része.", "Fontos a helyi halászoknak.", "Magas fajgazdagság."],
       ro: ["Protecția mangrovelor.", "Parte a sistemului Ébrié.", "Important pentru pescarii locali.", "Biodiversitate ridicată."],
       en: ["Protection of mangroves.", "Part of the Ébrié system.", "Important for local fishermen.", "High species diversity."]
+    },
+    descriptionAdvanced: {
+      de: "Der östliche Teil der Lagune von Abidjan, nahe den Distrikten Bingerville und Cocody, ist geprägt von weitläufigen Wasserflächen und Resten ursprünglicher Mangrovenwälder. Dieser Bereich der Ébrié-Lagune dient als wichtiges Erholungsgebiet und ist gleichzeitig eine kritische Zone für den Schutz der marinen Biodiversität. Die Wasserqualität und das ökologische Gleichgewicht in diesem Bereich sind entscheidend für die Fischbestände der gesamten Region. Die fortschreitende Stadtentwicklung stellt jedoch eine zunehmende Belastung für dieses sensible Ökosystem dar. Erdkunde K7 — Urbane Ökologie und Wasserwirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Östlicher Sektor der Ébrié-Lagune.", "Grenzt an Bingerville und Cocody.", "Wichtiger Standort für Aquakulturen.", "Beherbergt letzte städtische Mangrovenbestände.", "Wichtig für das Mikroklima von Abidjan.", "Zentrum für Wassersport und Erholung.", "Filterstation für urbane Abwässer (natürlich).", "Lebensraum für zahlreiche Libellenarten."]
     }
   },
   {
@@ -195,7 +249,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A nyugati felföld része.", "Sűrűn erdős lejtők.", "Fontos vízgyűjtő terület.", "Gazdag állatvilág."],
       ro: ["Parte a zonelor înalte din vest.", "Versanți dens împăduriți.", "Zonă de captare importantă.", "Faună bogată."],
       en: ["Part of the western highlands.", "Densely forested slopes.", "Important catchment area.", "Rich animal life."]
-    }, image: "/poi-images/mount-biankouma-nature-v2.webp"},
+    }, image: "/poi-images/mount-biankouma-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mont Biankouma ragt im westlichen Bergland empor und ist Namensgeber für die umliegende Region, die für ihre traditionelle Dan-Architektur bekannt ist. Der Berg ist fast vollständig mit dichtem Sekundärwald bedeckt und beherbergt eine Vielzahl von Primaten und Vögeln. Für die lokale Bevölkerung hat der Berg oft spirituelle Bedeutung und ist Schauplatz traditioneller Zeremonien. Die Hänge bieten ideale Bedingungen für den Anbau von Bergkaffee, der in der Region eine lange Tradition hat. Sachkunde K5 — Berge und Mythen."
+    },
+    factsAdvanced: {
+      de: ["Wahrzeichen der Region Biankouma.", "Dicht bewaldete Bergflanken.", "Zentrum der Dan-Kultur im Westen.", "Standort für hochwertigen Bergkaffee.", "Spirituelle Bedeutung für die Anwohner.", "Reich an kleineren Wasserfällen.", "Teil der '18 Berge' von Man.", "Wichtiger Lebensraum für Hornvögel."]
+    }
+  },
   {
     id: "lagune-yocoboue-nature-v2",
     type: "lake",
@@ -208,7 +269,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Partmenti vizes élőhely.", "Jó körülmények a vízi madaraknak.", "Ökológiailag értékes.", "Viszonylag csendes."],
       ro: ["Zonă umedă de coastă.", "Condiții bune pentru păsările acvatice.", "Valoroasă ecologic.", "Relativ liniștită."],
       en: ["Coastal wetland.", "Good conditions for water birds.", "Ecologically valuable.", "Relatively quiet."]
-    }, image: "/poi-images/lagune-yocoboue-nature-v2.webp"},
+    }, image: "/poi-images/lagune-yocoboue-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Yocoboué-Lagune liegt westlich von Grand-Lahou und ist ein ruhiger Teil des ivorischen Küstengürtels. Sie ist durch schmale Landzungen vom Ozean getrennt und bietet eine fast spiegelglatte Wasseroberfläche, die von dichten Mangrovensäumen gesäumt wird. Die Lagune ist ein Paradies für Vogelbeobachter, da sie seltenen Reihern und Eisvögeln idealen Lebensraum bietet. Die Abgeschiedenheit der Region sorgt dafür, dass die ursprüngliche Natur hier weitgehend bewahrt wurde, was sie zu einem Geheimtipp für den Ökotourismus macht. Erdkunde K7 — Lagunenlandschaften."
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Region Lôh-Djiboua.", "Nahezu unberührte Mangrovenökosysteme.", "Wichtiges Rückzugsgebiet für Wasservögel.", "Traditioneller Fischfang mit Pirogen.", "Teil des ökologischen Küstenkorridors.", "Sandbänke schützen vor der Meeresbrandung.", "Reich an Krebstieren und Garnelen.", "Ideales Ziel für sanften Ökotourismus."]
+    }
+  },
   {
     id: "mount-tonkpi-nature-v2",
     type: "mountain",
@@ -221,7 +289,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A '18 hegy városa' része.", "Zöld dombvidék.", "Túraútvonalak.", "Hűvösebb éghajlat."],
       ro: ["Parte a 'orașului celor 18 munți'.", "Peisaj colinar verde.", "Regiune de drumeții.", "Climă mai răcoroasă."],
       en: ["Part of the 'city of 18 mountains'.", "Green hilly landscape.", "Hiking region.", "Cooler climate."]
-    }, image: "/poi-images/mount-tonkpi-nature-v2.webp"},
+    }, image: "/poi-images/mount-tonkpi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mont Tonkpi ist mit 1.189 Metern einer der höchsten und bekanntesten Berge der Elfenbeinküste. Er thront über der Stadt Man und ist berühmt für sein kühles Nebelklima und die dichten Bergwälder. Auf seinem Gipfel befinden sich wichtige Sendeanlagen, doch für Besucher ist er vor allem wegen der atemberaubenden Aussicht und der reichen Flora, darunter seltene Orchideen, ein Ziel. Der Name 'Tonkpi' bedeutet in der Sprache der Dan 'großer Berg' und unterstreicht seine dominante Präsenz in der westlichen Landschaft. Erdkunde K7 — Hochlandgebiete Westafrikas."
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.189 Meter über dem Meeresspiegel.", "Höchster Gipfel der Region Man.", "Bekannt für häufige Nebelbildung.", "Standort nationaler Telekommunikationsantennen.", "Wanderziel mit Panoramablick.", "Reich an endemischen Bergpflanzen.", "Wichtiger Einfluss auf das lokale Klima (Regen).", "Heimat seltener Berg-Affenarten."]
+    }
+  },
   {
     id: "sassandra-river-estuary-nature-v2",
     type: "sea",
@@ -234,7 +309,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos brakkvizes terület.", "Tápanyagban gazdag víz.", "Fontos halászhely.", "Különleges állatvilág."],
       ro: ["Zonă importantă de apă salmastră.", "Apă bogată în nutrienți.", "Loc important pentru pescari.", "Faună specială."],
       en: ["Important brackish water area.", "Nutrient-rich water.", "Important place for fishermen.", "Special wildlife."]
-    }, image: "/poi-images/sassandra-river-estuary-nature-v2.webp"},
+    }, image: "/poi-images/sassandra-river-estuary-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mündung des Sassandra-Flusses in den Atlantik ist ein spektakulärer Ort, an dem die gewaltigen Wassermassen des Landesinneren auf den Ozean treffen. Hier bildet sich ein dynamisches Estuar, das reich an Nährstoffen ist und eine Vielzahl von Meeres- und Flusslebewesen anzieht. Die Hafenstadt Sassandra nutzt diese strategische Lage seit Jahrhunderten. Die Mündung ist geprägt von starken Strömungen und Sandbänken, die das Landschaftsbild ständig verändern. Ökologisch ist dieser Übergangsbereich von Brackwasser entscheidend für die Vermehrung vieler Fischarten. Erdkunde K7 — Flussmündungen und Ozeanographie."
+    },
+    factsAdvanced: {
+      de: ["Zusammentreffen von Sassandra-Fluss und Atlantik.", "Nährstoffreiches Brackwasser-Ökosystem.", "Wichtiger Standort für die Hochseefischerei.", "Geformt durch massive Sedimentablagerungen.", "Prägt das Bild der historischen Stadt Sassandra.", "Lebensraum für Wanderfische.", "Starke Gezeitenströme im Mündungsbereich.", "Beliebter Ort für die Beobachtung von Delfinen."]
+    }
+  },
   {
     id: "lagune-fresco-nature-v2",
     type: "lake",
@@ -247,7 +329,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Mangroveerők.", "Kedvelt turisták körében.", "Fontos a helyi halászatnak.", "Szép természetes környezet."],
       ro: ["Păduri de mangrovi.", "Populară printre turiști.", "Importantă pentru pescuitul local.", "Mediu natural frumos."],
       en: ["Mangrove forests.", "Popular with tourists.", "Important for local fishing.", "Beautiful natural environment."]
-    }, image: "/poi-images/lagune-fresco-nature-v2.webp"},
+    }, image: "/poi-images/lagune-fresco-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lagune von Fresco liegt im Zentrum des ivorischen Küstengürtels und ist bekannt für ihre weiten Mangrovenflächen und die malerische Umgebung. Sie bildet ein natürliches Reservoir, das durch eine schmale Öffnung mit dem Ozean kommuniziert. Die Lagune ist die Lebensgrundlage für die Stadt Fresco und die umliegenden Dörfer, die hier Fischfang und Salzgewinnung betreiben. Die Ruhe des Wassers und die grüne Kulisse des Küstenwaldes machen sie zu einem Ort von großer natürlicher Schönheit und ökologischem Wert. Sachkunde K5 — Ökosysteme am Wasser."
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Region Gboklè.", "Zentrum für die traditionelle Salzgewinnung.", "Reich an Mangrovenwäldern (Rhizophora).", "Wichtiger Lebensraum für Pelikane.", "Fischreichstes Gewässer der Region.", "Schmale Verbindung zum offenen Meer.", "Pufferzone gegen tropische Stürme.", "Ort für traditionelle Bootsregatten."]
+    }
+  },
   {
     id: "forest-marahoue-nature-v2",
     type: "forest",
@@ -260,7 +349,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Számos állatfaj otthona.", "Természetvédelmi terület.", "Egy nemzeti park része.", "Magas biodiverzitás."],
       ro: ["Habitat pentru multe specii de animale.", "Arie protejată.", "Parte a unui parc național.", "Biodiversitate ridicată."],
       en: ["Home to many animal species.", "Protected area.", "Part of a national park.", "High biodiversity."]
-    }, image: "/poi-images/forest-marahoue-nature-v2.webp"},
+    }, image: "/poi-images/forest-marahoue-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Marahoué-Wald im Herzen der Elfenbeinküste ist Teil des gleichnamigen Nationalparks und stellt ein wichtiges Übergangsgebiet zwischen dem Regenwaldgürtel und der Savanne dar. Er beherbergt eine faszinierende Mischung aus Wald- und Savannentieren, darunter Elefanten, Büffel und zahlreiche Affenarten. Der Wald wird vom Marahoué-Fluss durchquert, der als lebenswichtige Tränke dient. Trotz der Bedrohung durch landwirtschaftliche Nutzung bleibt dieser Wald ein kritisches Refugium für die Biodiversität Zentral-Elfenbeinküste. Biologie K8 — Biodiversität und Waldschutz."
+    },
+    factsAdvanced: {
+      de: ["Teil des Marahoué-Nationalparks.", "Übergangszone (Mosaik) Wald-Savanne.", "Wichtiger Lebensraum für Waldelefanten.", "Durchflossen vom Marahoué-Fluss.", "Reich an Primaten (u.a. Schimpansen).", "Schutzgebiet für über 300 Vogelarten.", "Gefährdet durch illegale Kakaoplantagen.", "Wichtiger Trittstein für Tierwanderungen."]
+    }
+  },
   {
     id: "lagune-abidjan-ouest-nature-v2",
     type: "lake",
@@ -273,7 +369,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos vízi út.", "Ökológiailag érzékeny zóna.", "A lagúnarendszer része.", "Közel a városközponthoz."],
       ro: ["Importantă cale navigabilă.", "Zonă ecologic sensibilă.", "Parte a sistemului lagunar.", "Lângă centrul orașului."],
       en: ["Important waterway.", "Ecologically sensitive zone.", "Part of the lagoon system.", "Near the city center."]
-    }, image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp"},
+    }, image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der westliche Sektor der Ébrié-Lagune erstreckt sich von Abidjan bis in Richtung Dabou. Dieser Bereich ist weiter und offener als der Stadtteil und beherbergt zahlreiche kleine Inseln und Halbinseln. Er ist geprägt von einer Mischung aus industrieller Nutzung nahe dem Hafen und fast unberührten Naturräumen weiter westlich. Hier befinden sich wichtige Laichgründe für Fische und Krebstiere. Die Lagune dient zudem als natürlicher Transportweg für die Erzeugnisse der umliegenden Kautschuk- und Palmölplantagen. Erdkunde K7 — Wasserwege und regionale Wirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Westlicher Ausläufer der Ébrié-Lagune.", "Verbindungsweg zwischen Abidjan und Dabou.", "Wichtige Zone für den Kautschuktransport per Boot.", "Heimat zahlreicher Pfahldörfer (z.B. Tiagba).", "Reich an Fischbeständen (Tilapia).", "Umfasst die Bucht von Bingerville.", "Starke Strömungen durch Flusszuflüsse.", "Beliebtes Gebiet für die Sportfischerei."]
+    }
+  },
   {
     id: "mount-mambl-nature-v2",
     type: "mountain",
@@ -286,7 +389,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Szép túraútvonalak.", "Sűrű növényzet.", "A nyugati lánc része.", "Nagyon festői."],
       ro: ["Trasee de drumeție frumoase.", "Vegetație densă.", "Parte a lanțului vestic.", "Foarte pitoresc."],
       en: ["Beautiful hiking trails.", "Dense vegetation.", "Part of the western chain.", "Very picturesque."]
-    }, image: "/poi-images/mount-mambl-nature-v2.webp"},
+    }, image: "/poi-images/mount-mambl-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mont Mambl ist eine der markanten Graniterhebungen im westlichen Hochland der Elfenbeinküste. Er ist geprägt von steilen Felswänden und einer Krone aus dichtem Bergnebelwald. Der Berg bietet einen spektakulären Blick über die Täler des Westens und ist ein wichtiges Refugium für seltene Pflanzenarten, die an das kühle, feuchte Klima der Höhenlagen angepasst sind. In der lokalen Kultur der Dan gilt der Berg oft als heilig und ist mit zahlreichen Mythen und Legenden verbunden. Geografie K8 — Relief und Geologie."
+    },
+    factsAdvanced: {
+      de: ["Markanter Granitgipfel im Westen.", "Teil des Gebirgszuges von Man.", "Spirituell bedeutend für das Dan-Volk.", "Reich an endemischen Moosen und Farnen.", "Wichtiger Orientierungspunkt für Wanderer.", "Steile Felsformationen (Inselberg-Charakter).", "Kühlere Temperaturen als im Flachland.", "Bietet Panorama über die Kaffeeplantagen."]
+    }
+  },
   {
     id: "lagune-grand-bassam-nature-v2",
     type: "lake",
@@ -299,7 +409,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["UNESCO világörökség a közelben.", "Fontos ökoszisztéma-zóna.", "Madárvédelem.", "Nagyon ismert turisztikai célpont."],
       ro: ["Patrimoniu Mondial UNESCO în apropiere.", "Zonă de ecosistem importantă.", "Protecția păsărilor.", "Destinație turistică foarte cunoscută."],
       en: ["UNESCO World Heritage site nearby.", "Important ecosystem zone.", "Bird protection.", "Very well-known tourist destination."]
-    }, image: "/poi-images/lagune-grand-bassam-nature-v2.webp"},
+    }, image: "/poi-images/lagune-grand-bassam-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lagune von Grand-Bassam ist ein historisch und ökologisch bedeutsames Gewässer, das die alte Hauptstadt vom Festland trennt. Sie ist Teil des Ébrié-Systems und bekannt für ihre ruhigen Gewässer, die von Kolonialbauten und Kokospalmen gesäumt werden. Die Lagune spielt eine wichtige Rolle für das Mikroklima der Region und bietet Lebensraum für zahlreiche Wasservögel. Heute ist sie ein Zentrum für den Tourismus, wo Besucher Pirogenfahrten unternehmen können, um die historische Kulisse und die reiche Natur vom Wasser aus zu erleben. Geschichte K8 — Natur und Kolonialerbe."
+    },
+    factsAdvanced: {
+      de: ["Trennt das historische Quartier France vom Festland.", "Teil des UNESCO-Welterbe-Ensembles.", "Berühmt für Pirogen-Touren.", "Lebensraum für Reiher und Pelikane.", "Historischer Handelsweg für Palmöl.", "Gesäumt von traditionellen Fischerdörfern.", "Bietet Schutz vor den starken Meeresströmungen.", "Wichtig für das maritime Flair von Grand-Bassam."]
+    }
+  },
   {
     id: "cavally-forest-nature-v2",
     type: "forest",
@@ -312,7 +429,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos védett terület.", "Sűrű esőerdő.", "Magas biodiverzitás.", "Védelem a veszélyeztetett állatfajoknak."],
       ro: ["Arie protejată importantă.", "Pădure tropicală densă.", "Biodiversitate ridicată.", "Protecție pentru specii de animale pe cale de dispariție."],
       en: ["Important protected area.", "Dense rainforest.", "High biodiversity.", "Protection for endangered animal species."]
-    }, image: "/poi-images/cavally-forest-nature-v2.webp"},
+    }, image: "/poi-images/cavally-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Cavally-Wald ist ein bedeutendes Schutzgebiet im äußersten Westen der Elfenbeinküste, benannt nach dem Grenzfluss Cavally. Er stellt einen der letzten intakten Regenwaldblöcke dar, die eine Brücke zwischen den Ökosystemen Guineas und der Elfenbeinküste bilden. Der Wald ist bekannt für seine enorme Dichte an Baumriesen und beherbergt gefährdete Arten wie den Waldelefanten und verschiedene seltene Primaten. Als Teil des grenzüberschreitenden Naturschutzes ist er entscheidend für den Erhalt der biologischen Vielfalt in ganz Westafrika. Biologie K8 — Tropische Regenwaldökosysteme."
+    },
+    factsAdvanced: {
+      de: ["Schutzgebiet am Grenzfluss zu Liberia.", "Wichtiger Teil des guineischen Wald-Hotspots.", "Heimat für gefährdete Waldelefanten.", "Hohe Konzentration an Edelhölzern.", "Kritisches Refugium für Primaten.", "Teil von Korridoren für Tierwanderungen.", "Enorme Niederschlagsmengen fördern das Wachstum.", "Wichtiger Kohlenstoffspeicher der Region."]
+    }
+  },
   {
     id: "mount-ni-nature-v2",
     type: "mountain",
@@ -325,7 +449,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Jó túrázási lehetőségek.", "Zöld környezet.", "Hűvösebb hőmérséklet.", "A Tonkpi-hegyek része."],
       ro: ["Posibilități bune de drumeție.", "Mediu verde.", "Temperaturi mai scăzute.", "Parte a munților Tonkpi."],
       en: ["Good hiking possibilities.", "Green surroundings.", "Cooler temperatures.", "Part of the Tonkpi mountains."]
-    }, image: "/poi-images/mount-ni-nature-v2.webp"},
+    }, image: "/poi-images/mount-ni-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mont Ni ist eine markante Erhebung im Herzen des westlichen Berglandes und bietet einen beeindruckenden Blick auf die hügelige Landschaft der Tonkpi-Region. Der Berg ist bekannt für seine fruchtbaren Hänge, an denen hochwertiger Kaffee und Kakao angebaut werden. Er ist ein Teil des ökologischen Netzwerks der westlichen Berge, das kühle Rückzugsorte für viele Tier- und Pflanzenarten bietet. Wanderungen auf den Mont Ni führen durch abwechslungsreiche Vegetationszonen und bieten Einblicke in die ländliche Lebensweise der Region. Erdkunde K7 — Agrarlandschaften im Hochland."
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Region Tonkpi.", "Bietet Panoramablick über das Bergland.", "Wichtiger Standort für den Kaffeeanbau.", "Reich an kleineren Gebirgsbächen.", "Teil der touristischen Route von Man.", "Besonderes Mikroklima durch Höhenlage.", "Heimat zahlreicher Schmetterlingsarten.", "Zentrum für lokale Berglandwirtschaft."]
+    }
+  },
   {
     id: "lagune-abidjan-nord-nature-v2",
     type: "lake",
@@ -338,7 +469,14 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos vízi út.", "Fontos a helyi halászoknak.", "Jó ökológiai vízminőség.", "Turisztikailag hasznosított."],
       ro: ["Importantă cale navigabilă.", "Importantă pentru pescarii locali.", "Calitate bună a apei ecologice.", "Utilizată turistic."],
       en: ["Important waterway.", "Important for local fishermen.", "Good ecological water quality.", "Used for tourism."]
-    }, image: "/poi-images/lagune-abidjan-nord-nature-v2.webp"},
+    }, image: "/poi-images/lagune-abidjan-nord-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der nördliche Bereich der Ébrié-Lagune bei Abidjan grenzt an die wachsenden Stadtteile Abobo und Anyama. Dieser Teil der Lagune ist etwas flacher und beherbergt ausgedehnte Schilfgürtel und Feuchtwiesen. Er dient als wichtiges natürliches Reservoir für die Entwässerung der nördlichen Stadtgebiete bei starken Regenfällen. Trotz des anthropogenen Drucks finden hier immer noch zahlreiche Fischarten ihre Laichplätze. Die Lagune im Norden ist ein Beispiel für die Herausforderung, Naturschutz und städtische Expansion in einer Metropole in Einklang zu bringen. Erdkunde K7 — Hydrologie und Stadtplanung."
+    },
+    factsAdvanced: {
+      de: ["Nördlicher Ausläufer der Ébrié-Lagune.", "Wichtiges Rückhaltebecken für Regenwasser.", "Gesäumt von Schilf und Sumpfvegetation.", "Zentrum für kleinteilige Fischzucht.", "Kritisch für das lokale Ökosystem.", "Bedroht durch illegale Abfallentsorgung.", "Lebensraum für Amphibien und Wasservögel.", "Pufferzone zwischen Stadt und Waldland."]
+    }
+  },
   {
     id: "mount-gouane-nature-v2",
     type: "mountain",

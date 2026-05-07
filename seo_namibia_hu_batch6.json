@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "felsenkirche-luderitz-landmarks-v2",
+      "descriptionAdvanced": "A Sziklatemplom (Felsenkirche) Lüderitz egyik legikonikusabb épülete, amely a Gyémánt-hegy (Diamantberg) gránitsziklájára épült 1912-ben. Az épület angol gótikus (Perpendicular) stílusjegyekkel büszkélkedhet, amely eltér az akkori német gyarmati trendektől. A templomot javarészt a közeli kolmanskopi gyémántmezők bevételeiből finanszírozták az evangélikus lutheránus német telepesek. Meredek elhelyezkedése miatt lenyűgöző panorámát nyújt a városra és az Atlanti-óceánra. A templom különlegessége a gyönyörű ólomüveg ablak (amelyet szintén a német császár, II. Vilmos adományozott) és a kiváló akusztika. Történelem K7 — vallási építészet a gyarmatokon",
+      "factsAdvanced": [
+        "1912-ben épült a Diamantberg (Gyémánt-hegy) magaslatán, Lüderitzben",
+        "A német lutheránus gyülekezet támogatásával épült fel az angol gótika stílusában",
+        "Az oltár feletti, Jézust ábrázoló ólomüveg ablakot II. Vilmos császár küldte Németországból",
+        "Nevét (Sziklatemplom) arról kapta, hogy az alapokat a tömör gránitsziklába vájták",
+        "Albert Bause építész tervezte, aki számos más helyi épületet is megálmodott",
+        "1978-ban nemzeti műemlékké nyilvánították a történelmi épületet"
+      ]
+    },
+    {
+      "id": "goerke-haus-luderitz-landmarks-v2",
+      "descriptionAdvanced": "A Goerke-ház Lüderitz egyik legkiválóbb állapotban megőrzött történelmi villája, amely a Gyémánt-hegy (Diamantberg) sziklás oldalában áll, a Sziklatemplom közvetlen szomszédságában. Az épületet 1910-ben emelték a helyi gyémántbányászat egyik vezető alakja, Hans Goerke hadnagy és felügyelő (Inspector) számára. A fényűző villa stílusa ötvözi a bajor Art Nouveau (szecessziós) jegyeket a zord sivatagi környezethez igazodó praktikummal. A hatalmas ablakok a napfény maximalizálását és a pazar óceáni panorámát szolgálták. A Namdeb vállalat a 20. század végén az eredeti tervek alapján pompásan restaurálta, és a nagyközönség számára múzeumként megnyitotta. Történelem K7 — gyémántbárók villái és szecesszió",
+      "factsAdvanced": [
+        "1910-ben épült a Diamantberg lejtőjén Hans Goerke, a gyémántipar vezetője számára",
+        "Építészeti stílusa a németországi Jugendstil (szecesszió) afrikai adaptációja",
+        "Eredeti faborításai és színes ólomüveg ablakai szinte sértetlenül fennmaradtak",
+        "Az 1920-as években az épületet a délnyugat-afrikai gyémánttársaság (CDM) vásárolta meg",
+        "A 20. század végén átfogó restauráláson esett át a Namdeb jóvoltából",
+        "Jelenleg az egyik legnépszerűbb múzeumház és műemlék Lüderitzben"
+      ]
+    },
+    {
+      "id": "diaz-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Diaz Point világítótorony egy lenyűgöző és magányos építmény, amely Lüderitztől délre, a viharos Diaz-fokon áll. Az 1915-ben átadott, piros-fehér csíkos torony 28 méter magas, és a zord atlanti partvidék ('Skeleton Coast' déli meghosszabbítása) egyik legfontosabb navigációs pontja a mai napig. Építésének célja a gyakori köd és az alattomos sziklazátonyok okozta hajótörések megelőzése volt, amelyek a gyarmati időkben is sok emberéletet követeltek. A toronyhoz vezető keskeny fapallót egy vihar egykor részben elpusztította, de a helyszín még mindig a fókák, kormoránok és az ikonikus történelmi kereszt (padraõ) látványával varázsolja el a turistákat. Földrajz K8 — partmenti navigáció és erózió",
+      "factsAdvanced": [
+        "1915-ben állították szolgálatba a hajózás biztonsága érdekében",
+        "A torony magassága 28 méter, és klasszikus piros-fehér festést kapott",
+        "Pontosan ott épült, ahol 1488-ban Bartolomeu Dias portugál felfedező kikötött",
+        "Fénye több mint 30 tengeri mérföld (kb. 55 km) távolságból is látható",
+        "A környék a gyakori sűrű ködről (Benguela-áramlat hatása) és viharos szelekről hírhedt",
+        "Sziklás környezete állandó otthona fókakolóniáknak és tengeri madaraknak"
+      ]
+    },
+    {
+      "id": "turnhalle-windhoek-landmarks-v2",
+      "descriptionAdvanced": "A windhoeki Turnhalle egy meghatározó jelentőségű történelmi épület, amelyet 1909-ben a németországi tornamozgalmak (Turnvereine) helyi központjaként építettek, de politikai szerepe tette híressé. Az épület adott otthont a hírhedt 1975–1977-es Turnhalle Alkotmányozó Konferenciának, ahol Dél-Afrika és a namíbiai (akkor Délnyugat-Afrika) etnikai csoportok képviselői próbáltak egy függetlenségi tervet kidolgozni a SWAPO függetlenségi mozgalom kizárásával. Noha az itteni tervezet nem kapott nemzetközi elismerést, az épület a namíbiai politikai útkeresés szimbóluma maradt. 2003-tól egy évtizedig itt ülésezett a SADC (Dél-Afrikai Fejlesztési Közösség) Bírósága is. Történelem K8 — dél-afrikai apartheid és namíbiai függetlenség",
+      "factsAdvanced": [
+        "1909-ben épült, eredetileg a Windhoeker Turnverein (Tornászklub) sportcsarnokaként",
+        "Az 1975–1977 közötti Turnhalle Alkotmányozó Konferencia helyszíne",
+        "A dél-afrikai apartheid rezsim itt próbálta megszervezni az ország belső önkormányzatát",
+        "A nemzetközi közösség és a SWAPO elutasította a konferencia eredményeit",
+        "2003 és 2012 között a Dél-Afrikai Fejlesztési Közösség (SADC) Törvényszékének adott otthont",
+        "Stílusában az 1900-as évek eleji német funkcionalista középületeket idézi"
+      ]
+    },
+    {
+      "id": "alte-feste-windhoek-landmarks-v2",
+      "descriptionAdvanced": "Az Alte Feste (Öreg Erőd) Windhoek legrégebbi máig álló épülete, amely a város modernkori történelmének kezdetét jelzi. Curt von François őrnagy, a német gyarmati erők (Schutztruppe) parancsnoka építtette 1890-ben, mint a német hatalom központját és egy biztonságos bázist, amely éket vert a viszálykodó nama és herero törzsek közé. Katonai bástyája vastag falakkal és tágas belső udvarral rendelkezik. A 20. század során az épület funkciója többször változott: volt katonai bázis, dél-afrikai iskolai kollégium, végül az 1960-as évektől múzeummá (National Museum of Namibia) alakították át. Udvarán sokáig állt az ikonikus Lovas Emlékmű (Reiterdenkmal), amit a 2010-es években áthelyeztek. Történelem K8 — gyarmati erődítmények Afrikában",
+      "factsAdvanced": [
+        "Windhoek városának legrégebbi fennmaradt kőépülete",
+        "1890. október 18-án tette le az alapkövét Curt von François német őrnagy",
+        "Eredetileg a német gyarmati haderő (Schutztruppe) főhadiszállása volt",
+        "1962-ben nemzeti műemlékké nyilvánították és múzeumként nyitott meg",
+        "Belső udvarán helyezték el a híres (és sokat vitatott) Reiterdenkmal lovasszobrot",
+        "Az épület egy stratégiai magaslaton áll, ahonnan belátni az egész városközpontot"
+      ]
+    },
+    {
+      "id": "schwerinsburg-landmarks-v2",
+      "descriptionAdvanced": "A Schwerinsburg (Schwerin-vár) a három ikonikus windhoeki kastély (Sanderburg, Heinitzburg, Schwerinsburg) közül a legnagyobb, amely lenyűgöző kilátással uralja a várost egy hegytetőről. Eredetileg Curt von François német őrnagy építtette a tornyát 1890-ben katonai megfigyelőpontként (Sperlingslust néven). 1913-ban Wilhelm Sander, a korszak leghíresebb namíbiai építésze vásárolta meg, és ő alakította át a ma is látható romantikus, német lovagvárakat idéző kastéllyá Hans von Schwerin-Löwitz gróf számára. Különös története ellenére ma a kastély nem látogatható a nagyközönség számára, mivel jelenleg az Olasz Köztársaság namíbiai nagykövetének hivatalos rezidenciájaként működik. Történelem K7 — diplomáciai rezidenciák építészete",
+      "factsAdvanced": [
+        "A három híres windhoeki dombtető-kastély (Sanderburg, Heinitzburg) legnagyobbika",
+        "Az eredeti tornyát (Sperlingslust) Curt von François építette 1890-ben",
+        "1913-ban Wilhelm Sander építész építette át neogótikus lovagvárrá",
+        "A nevét a kastélyt megrendelő Hans von Schwerin-Löwitz grófról kapta",
+        "Falakhoz a környező hegyekből származó természetes terméskövet használtak",
+        "Jelenleg az Olaszország namíbiai nagykövetének privát rezidenciája"
+      ]
+    },
+    {
+      "id": "heinitzburg-landmarks-v2",
+      "descriptionAdvanced": "A Heinitzburg a windhoeki hegyvidék második kastélya, amelyet szintén a termékeny építész, Wilhelm Sander tervezett 1914-ben. Az épületet a Schwerinsburg tulajdonosa, von Schwerin gróf rendelte meg egy romantikus gesztusként: várandós feleségének, Margarethe von Heinitznek ajánlotta fel ajándékképpen (innen a név is). Bár az épület magán hordozza a német lovagvárak stílusjegyeit, kialakítása elegánsabb és polgáribb a szomszédos erődöknél. Az 1990-es évek végén egy namíbiai család vásárolta meg a történelmi műemléket, és az ország egyik legexkluzívabb luxusszállodájává (Hotel Heinitzburg) alakította át, ahonnan páratlan naplemente nézhető a Khomas-felföld felett. Történelem K8 — gyarmati örökség turisztikai hasznosítása",
+      "factsAdvanced": [
+        "1914-ben épült, tervezője a híres német építész, Wilhelm Sander volt",
+        "Hans von Schwerin gróf építtette feleségének, Margarethe von Heinitznek",
+        "Stílusát a romantikus 19. századi német várkastélyok ihlették",
+        "Hosszú ideig magánkézben lévő nemesi rezidenciaként funkcionált",
+        "1996-ban alakították át Windhoek egyik legfényűzőbb luxushoteljévé",
+        "A Relais & Châteaux nemzetközi luxusszálloda-szövetség tagja"
+      ]
+    },
+    {
+      "id": "sanderburg-landmarks-v2",
+      "descriptionAdvanced": "A Sanderburg a legkisebb a három windhoeki dombtető-kastély (Schwerinsburg, Heinitzburg) közül, amelyet 1917 és 1919 között épített fel Wilhelm Sander, az a neves német építész, aki a másik két erődítményt is tervezte. Különlegessége, hogy Sander ezt az épületet saját maga és felesége számára álmodta meg lakóházként. Bár kisebb méretű, a Sanderburg magán viseli az építészre jellemző romantikus, lovagvárakat idéző stílusjegyeket (kőfalak, lőrésszerű ablakok, oromzat). Az épület napjainkban magántulajdonban lévő lakóház, és sajnos nem látogatható, de Windhoek látképének máig szerves és elválaszthatatlan részét képezi. Történelem K7 — afrikai kastélyépítészet",
+      "factsAdvanced": [
+        "A három híres windhoeki kastély legkisebbike",
+        "1917 és 1919 között épült fel a híres német építész, Wilhelm Sander tervei alapján",
+        "Az építész saját magának és családjának tervezte magánrezidenciaként",
+        "Kombinálja a középkori német várak stílusjegyeit az afrikai terméskő-felhasználással",
+        "A Schwerinsburg és Heinitzburg közelében, ugyanazon a magaslaton (Luxury Hill) helyezkedik el",
+        "Napjainkban szigorúan magántulajdonban lévő lakóház, nem látogatható"
+      ]
+    },
+    {
+      "id": "martin-luther-steam-tractor-landmarks-v2",
+      "descriptionAdvanced": "A 'Martin Luther' egy hatalmas, rozsdásodó történelmi gőztraktor Swakopmund bejáratánál, a Namíb-sivatag peremén. A 14 tonnás szörnyeteget 1896-ban importálta Németországból Curt von François testvére azzal a céllal, hogy kiváltsa az ökrösszekereket a Swakopmund és a belföld (Windhoek) közötti teherszállításban, mivel az állatjárványok (rinderpest) megtizedelték a vonóállományt. A traktor azonban teljes kudarc volt: a hatalmas kerekek folyamatosan elakadtak a laza sivatagi homokban, a hatalmas vízigényét pedig lehetetlen volt fedezni a sivatagban. Végül alig néhány kilométer megtétele után magára hagyták, s a helyiek az elhagyott masinát Luther Márton hírhedt mondása ('Itt állok, másként nem tehetek') után nevezték el. Történelem K8 — technológiai kudarcok a gyarmatosítás során",
+      "factsAdvanced": [
+        "1896-ban importálták Németországból az ökrösszekerek kiváltására",
+        "Súlya 14 tonna, a sivatagi laza homokban azonnal elakadt",
+        "Vízfogyasztása hatalmas volt, amit a sivatagi környezetben lehetetlen volt biztosítani",
+        "Nevét Luther Márton idézetéről kapta: 'Itt állok, másként nem tehetek'",
+        "Gyakorlatilag sosem tudott érdemi teherszállítási feladatokat ellátni",
+        "Jelenleg egy védőtető alatt áll Swakopmund határában mint nemzeti műemlék"
+      ]
+    },
+    {
+      "id": "franke-tower-omaruru-landmarks-v2",
+      "descriptionAdvanced": "A Franke-torony (Franketurm) Omaruru városának legismertebb történelmi nevezetessége, amelyet 1908-ban emeltek a helyi német közösség finanszírozásában. A torony Victor Franke százados (későbbi parancsnok) dicsőségére épült, aki 1904 februárjában maroknyi csapata (a 2. Feldkompanie) élén felmentette az Omaruruban rekedt és herero harcosok által hetekig ostromlott német helyőrséget. Az erődítmény-jellegű, masszív kőtorony egykor fontos stratégiai megfigyelőpont volt az Omaruru folyó felett. Ma emlékműként és kilátóként funkcionál; a csúcsára vezető meredek falépcsők megmászása után kiváló kilátás nyílik az Erongo-hegység felé. Történelem K8 — a herero-német háborúk",
+      "factsAdvanced": [
+        "1908-ban emelték Omaruru városában a herero háborúk (1904) emlékére",
+        "Nevét Victor Franke századosról, a német gyarmati csapatok (Schutztruppe) tisztjéről kapta",
+        "Victor Franke csapatai 1904-ben törték át a várost védő herero ostromgyűrűt",
+        "A masszív kőtorony eredetileg katonai megfigyelő és védelmi funkciókat látott el",
+        "Az emlékművet a helyi német nyelvű lakosság adományaiból építették",
+        "1964 óta a namíbiai nemzeti örökség (National Monument) hivatalos része"
+      ]
+    },
+    {
+      "id": "fort-namutoni-landmarks-v2",
+      "descriptionAdvanced": "A Namutoni Erőd a hatalmas Etosha Nemzeti Park keleti oldalának legfőbb turisztikai központja, amely eredetileg egy korai német gyarmati katonai helyőrség volt. A hófehér, bástyás, 'Beau Geste' stílusú építményt a 19. század végén emelték, elsősorban a rinderpest (marhavész) terjedésének megakadályozására és az északi owambo királyságok fegyverkereskedelmének ellenőrzésére. Leghíresebb ütközete 1904-ben zajlott, amikor 500 owambo harcos (Nehale király vezetésével) megtámadta a mindössze 7 fős német helyőrséget, akik az éjszaka leple alatt kénytelenek voltak elmenekülni. Az újjáépített erőd ma a nemzeti park egyik elegáns szafari tábora, kilátótornyaival és hangulatos belső udvarával. Történelem K7 — katonai erődökből turisztikai központok",
+      "factsAdvanced": [
+        "Az Etosha Nemzeti Park keleti bejárata közelében fekvő fehér, afrikai 'sivatagi erőd'",
+        "1896-ban épült elsősorban az állatjárványok (rinderpest) északról délre terjedésének kontrollálására",
+        "1904-ben az Ndonga királyság (owambo) harcosai sikeresen megostromolták",
+        "Az ostrom után a németek újjáépítették, és később rendőrőrsként is szolgált",
+        "A második világháború során brit hadifogolytáborként is funkcionált",
+        "Az 1950-es években újították fel, ma az Etosha park egyik legnépszerűbb turistatábora"
+      ]
+    },
+    {
+      "id": "okaukuejo-waterhole-tower-landmarks-v2",
+      "descriptionAdvanced": "Az Okaukuejo Víztorony az Etosha Nemzeti Park legnyugatibb és legforgalmasabb pihenőtáborának, Okaukuejónak a szimbóluma. A vastag, kőből rakott kör alakú tornyot 1963-ban építették, és eredetileg víztoronyként, valamint megfigyelőpontként (kilátóként) szolgált a parkot vigyázó vadőrök és látogatók számára. A torony lábánál fekszik Namíbia talán leghíresebb mesterségesen megvilágított itatója (waterhole), amely a száraz évszakban szó szerint hemzseg a vadállatoktól. A kilátóból és az itató mellől a turisták éjszaka is megfigyelhetik a fekete orrszarvúkat, elefántokat és oroszlánokat, ahogy inni érkeznek. Biológia K7 — szafari megfigyelőpontok és vadvédelem",
+      "factsAdvanced": [
+        "Az Etosha Nemzeti Park legforgalmasabb turisztikai táborában, Okaukuejóban található",
+        "A masszív kőtornyot 1963-ban építették fel víztorony és kilátó (megfigyelő) céljára",
+        "Közvetlen szomszédságában található a világhírű, éjszaka is kivilágított vadas itató (waterhole)",
+        "Az itató a veszélyeztetett fekete orrszarvúk egyik legbiztosabb megfigyelési pontja a világon",
+        "A torony egykor a park vadőreinek (rangers) nyújtott kiváló panorámát az orvvadászok kiszűrésére",
+        "Ma az Etosha nyugati (Andersson-kapu felőli) bejáratának ikonikus építészeti szimbóluma"
+      ]
+    },
+    {
+      "id": "oorlog-memorial-okahandja-landmarks-v2",
+      "descriptionAdvanced": "A Herero Hősök Emlékműve (Oorlog Memorial / Herero Heroes' Memorial) Okahandja városában a namíbiai törzsi ellenállás egyik legszentebb emlékhelye. Minden év augusztusában az 'Okahandja Vörös Zászló Napján' a Herero népcsoport tagjai tradicionális (vörös) öltözékben zarándokolnak ide, hogy leróják tiszteletüket egykori vezetőik és a német gyarmatosítók elleni 1904-es háborúban elesett hőseik előtt. Az emlékmű közelében találhatók a legnagyobb Herero főnökök – köztük Maharero, Samuel Maharero, és a SWAPO alapító atyái között tisztelt Hosea Kutako – történelmi sírjai. A helyszín nem csupán a gyász, hanem a kulturális túlélés és a büszkeség szimbóluma is a modern Namíbiában. Történelem K8 — törzsi emlékezet és rituálék",
+      "factsAdvanced": [
+        "Okahandja városában, a Herero nép történelmi fővárosában található",
+        "A legnagyobb Herero főnökök (pl. Samuel Maharero, Hosea Kutako) végső nyughelye",
+        "A német gyarmati uralom (1904-es Herero-háború) elleni küzdelem szimbóluma",
+        "Minden év augusztusában ('Red Flag Day') hatalmas zarándoklat és megemlékezés helyszíne",
+        "Az emlékmű körül a résztvevők katonai jellegű (drill) felvonulásokat is tartanak",
+        "Namíbia függetlensége óta a nemzeti megbékélés egyik fontos kulturális helyszíne"
+      ]
+    },
+    {
+      "id": "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
+      "descriptionAdvanced": "A Régi Bányabiztosság (Alte Minenkommissariat), amely ma a Tsumeb Múzeumnak ad otthont, a város gyarmati és bányászati történelmének legimpozánsabb épülete. 1907-ben épült, a német gyarmati adminisztráció építészeként ismert Friedrich Höft tervei alapján, hogy a fellendülő réz- és ásványkitermelést felügyelő bányászati biztos (Minenkommissar) rezidenciája és hivatala legyen. Az épület elegáns verandája és kőfalai a kor német tisztviselőinek luxusát tükrözik. Ma a múzeum őrzi Tsumeb világhírű, ritka ásványgyűjteményét, valamint a Khorab-tónál a német csapatok által 1915-ben a vízbe süllyesztett (majd felhozott) fegyverek és ágyúk egyedi kollekcióját. Történelem K8 — bányászati közigazgatás a gyarmatokon",
+      "factsAdvanced": [
+        "1907-ben épült Friedrich Höft tervei alapján a német bányabiztos (Minenkommissar) számára",
+        "Jelenleg a gazdag helytörténeti és geológiai gyűjteménnyel rendelkező Tsumeb Múzeumnak ad otthont",
+        "A múzeum bemutatja a helyi bányákból származó több mint 200 féle ritka ásványt",
+        "Egyedi gyűjteményt őriz a Khorab-tóból felhozott I. világháborús német fegyverekből",
+        "Az épület a tsumebi 'rézháromszög' gazdasági fellendülésének szimbóluma",
+        "Kiváló állapotban fennmaradt gyarmati építészeti műemlék Namíbia északi részén"
+      ]
+    },
+    {
+      "id": "grootfontein-old-fort-landmarks-v2",
+      "descriptionAdvanced": "A Grootfontein Öreg Erőd (Alte Feste) egy történelmi mészkő erődítmény, amelyet 1896-ban épített a Délnyugat-afrikai Társaság (South West Africa Company) egy kisebb magánhadsereg számára, hogy megvédje a telepeseket az északi törzsek támadásaitól és a vadállatoktól. Az épület hamarosan a német Schutztruppe (gyarmati véderő) kezébe került, majd a dél-afrikai adminisztráció alatt különféle célokat szolgált, beleértve a börtönt is. A masszív toronnyal rendelkező épület ma múzeumként (Grootfontein Museum) funkcionál, amely bemutatja a helyi San (busman) közösségek történetét, az első telepesek életkörülményeit, valamint a térség ipari fejlődését, köztük a közeli Hoba-meteorit felfedezését. Történelem K7 — magánhadseregek és telepes erődök",
+      "factsAdvanced": [
+        "1896-ban építtette a South West Africa Company a telepesek védelmére",
+        "Később a német birodalmi csapatok (Schutztruppe) katonai helyőrsége lett",
+        "Helyben fejtett robusztus mészkőből (limestone) emelték a falait",
+        "Ma helytörténeti múzeumként működik (Grootfontein Museum)",
+        "Kiállításai a San (busman) kultúrára és a korai pionírok életére fókuszálnak",
+        "Az erőd udvarán a gyarmati idők ipari és mezőgazdasági gépei is megtekinthetők"
+      ]
+    },
+    {
+      "id": "sam-nujoma-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Sam Nujoma Stadion Namíbia egyik legfontosabb modern sportlétesítménye, amely Windhoek sűrűn lakott Katutura negyedének szívében található. A 2005-ben átadott, mintegy 10 300 néző befogadására alkalmas stadiont Namíbia első, alapító elnökéről, Sam Nujomáról nevezték el. Építése hatalmas jelentőséggel bírt az apartheid alatt létrehozott, szegényebb Katutura negyed számára, mivel nemcsak világszínvonalú futballmérkőzések (a namíbiai válogatott hazai meccsei), hanem hatalmas zenei koncertek és politikai gyűlések színterévé is vált. A stadion a modern független Namíbia közösségi összetartozásának és a sportba vetett nemzeti büszkeségének egyik fő bázisa. Földrajz K8 — sport és közösségépítés az urbanizációban",
+      "factsAdvanced": [
+        "Windhoek Katutura nevű történelmi negyedében épült fel",
+        "2005-ben nyitotta meg kapuit a nagyközönség előtt",
+        "Kapacitása mintegy 10 300 ülőhely, ezzel a második legnagyobb stadion az országban",
+        "Namíbia alapító atyjáról és első elnökéről, Sam Nujomáról kapta a nevét",
+        "A Namíbiai Labdarúgó Válogatott (Brave Warriors) gyakori hazai pályája",
+        "A labdarúgás mellett jelentős nemzeti és kulturális fesztiválok helyszíne is"
+      ]
+    },
+    {
+      "id": "owambo-campaign-memorial-landmarks-v2",
+      "descriptionAdvanced": "Az Owambo-hadjárat emlékműve (Owambo Campaign Memorial) Windhoekban található, a Tintenpalast (Kormányzati épület) közelében. Az 1919-ben emelt bronz és kő emlékmű a brit-dél-afrikai erők által az első világháború során indított, a korabeli Délnyugat-Afrika északi régióját célzó hadjáratban elesett katonáknak állít emléket. A hadjárat során a dél-afrikai csapatok megdöntötték a német gyarmati uralmat a térségben, miközben súlyos harcokat vívtak (és büntetőexpedíciókat indítottak) az északi Owambo királyságok, különösen Mandume ya Ndemufayo, az oukwanyama király ellen is. Az emlékmű – sok más windhoeki szoborhoz hasonlóan – a történelem imperialista olvasatát tükrözi, ezért jelentése a modern Namíbiában folyamatos viták tárgya. Történelem K8 — az I. világháború afrikai frontja",
+      "factsAdvanced": [
+        "Windhoek központjában, a vasútállomás közelében állították fel 1919-ben",
+        "A Dél-Afrika által vezetett (brit) Owambo-hadjárat katonáinak állít emléket",
+        "A hadjárat véget vetett a német gyarmati uralomnak, de letörte a helyi afrikai királyok ellenállását is",
+        "Megörökíti az 1915-1917 közötti észak-namíbiai (Owamboland) harcokat",
+        "Történelmi fókuszpontja a namíbiai dekolonizációs diskurzusoknak (műemlék-áthelyezési viták)",
+        "Az emlékművön szereplő nevek kizárólag a brit-dél-afrikai katonákat említik"
+      ]
+    },
+    {
+      "id": "kapps-hotel-luderitz-landmarks-v2",
+      "descriptionAdvanced": "A Kapps-hotel épülete Lüderitz belvárosának egyik legfeltűnőbb és legszebben felújított gyarmati építészeti emléke. 1907-ben, a nagy gyémántláz hajnalán építtette a Kapps testvérpár (Emil és Hermann), és az akkori Délnyugat-Afrika egyik legfényűzőbb és legnagyobb szállodájaként, éttermeként és báltermeként működött. Hatalmas üvegablakaival, faszerkezetes erkélyeivel és bőséges szecessziós (Art Nouveau) díszítőelemeivel a sivatagi gyémántvárosban hirtelen meggazdagodott telepesek találkozóhelye volt. Bár ma már nem klasszikus hotelként üzemel, az épület alsó szintjén üzletek és éttermek idézik fel a korabeli nyüzsgő 'Boomtown' (robbanásszerűen növekvő város) hangulatot. Történelem K7 — gyémántláz és afrikai Boomtown-ok",
+      "factsAdvanced": [
+        "1907-ben nyílt meg Lüderitz központjában, a Bismarck utcában",
+        "Nevét az alapító tulajdonosairól, Emil és Hermann Kappról kapta",
+        "Az 1908-as gyémántláz idején a város elitjének és az utazóknak a fő találkozóhelye volt",
+        "A klasszikus német Jugendstil (szecesszió) stílusjegyeit hordozza magán",
+        "Hatalmas, korhű fagerendás erkélye uralja az utcai homlokzatot",
+        "Ma az épületet védett műemlékként tartják számon, földszintje kereskedelmi funkciót lát el"
+      ]
+    },
+    {
+      "id": "walvis-bay-pelican-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Pelican Point világítótorony egy jellegzetes fekete-fehér csíkos, öntöttvas építmény, amely a Walvis Bay-t védő keskeny, homokos félsziget (Pelican Point) legvégén áll. A tornyot a dél-afrikai adminisztráció építtette 1932-ben, hogy biztonságos navigációt nyújtson a tengeri ködök és a Benguela-áramlat által okozott homokzátonyok között. Érdekesség, hogy a világítótornyot nem Namíbiában, hanem valószínűleg Európában (Dél-Afrikán keresztül) gyártották, és darabokban szállították a helyszínre. Mivel a homokzátony az évtizedek alatt folyamatosan épült az óceán felé, a torony ma már sokkal messzebb van a vízparttól, mint építésekor. Lábánál jelenleg egy luxus ökohotel (Pelican Point Lodge) működik. Földrajz K8 — partvidéki homokzátonyok mozgása",
+      "factsAdvanced": [
+        "1932-ben adta át a Walvis Bay-t akkoriban ellenőrző dél-afrikai kormány",
+        "Szerkezete teljes egészében öntöttvasból (cast iron) készült",
+        "Ikonikus fekete-fehér csíkos festése kiemeli a ködös, sivatagi háttérből",
+        "Az óceáni áramlatok építő munkája miatt ma jóval beljebb van a parton, mint építésekor",
+        "A félsziget a fókák, pelikánok és flamingók ezreinek otthona",
+        "Tövében alakították ki az exkluzív Pelican Point Lodge nevű szállodát"
+      ]
+    },
+    {
+      "id": "keetmanshoop-railway-station-landmarks-v2",
+      "descriptionAdvanced": "A Keetmanshoop vasútállomás a namíbiai vasúttörténelem egyik legszebb és legfontosabb műemléképülete. 1908-ban, a Lüderitzből induló déli vasútvonal ('Südbahn') kiépülésekor építették a német gyarmati mérnökök, hogy megkönnyítsék a katonaság mozgását és az áruszállítást a Nama-felkelés leverése után. A kőből épült, vörös tetős, árkádos épület stílusában a hagyományos német vidéki vasútállomásokat (Bahnhof) idézi, de a karoo-i forrósághoz igazodva hűvös várótermekkel tervezték. Mivel Keetmanshoop volt a hálózat csomópontja Windhoek és Dél-Afrika felé, a vasútállomás évtizedekig a város legfontosabb kereskedelmi és társadalmi központja maradt. Történelem K7 — gyarmati vasútépítés jelentősége",
+      "factsAdvanced": [
+        "1908-ban épült a Lüderitz és Keetmanshoop közötti 'Südbahn' (déli vasút) végállomásaként",
+        "Robusztus terméskőből és vörös hullámpala tetővel épült a klasszikus német 'Bahnhof' stílusban",
+        "Kulcsfontosságú csomópont volt a dél-afrikai vasúthálózat (Upington felé) összekapcsolásakor (1915)",
+        "Az épületet a szélsőségesen forró namíbiai klímához alkalmazkodó, árnyékos árkádokkal látták el",
+        "Műemlékként védett, és a mai napig a TransNamib vasúttársaság működteti",
+        "Történetesen ez volt a vidék hír- és postaszolgálatának fő artériája is"
+      ]
+    },
+    {
+      "id": "rhenish-mission-church-walvis-bay-landmarks-v2",
+      "descriptionAdvanced": "A Rajnai missziós templom (Rhenish Mission Church) Walvis Bay legrégebbi történelmi épülete, amely a hatalmas, zord kikötőváros szívében, a kikötői övezet közelében bújik meg. A fából épült templom szerkezetét 1880-ban egyenesen a németországi Hamburgban (mások szerint Norvégiában) gyártották előre, majd hajón, darabokban (flat-pack) szállították le Afrikába, ahol a misszionáriusok építették össze. A vaskos fagerendákból álló, apró ólomüveg ablakos épület több mint egy évszázada dacol a pusztító tengeri köddel és a homokviharokkal. Nemcsak a kereszténység korai terjedésének, hanem a 19. századi előregyártott faház-építészetnek is páratlan mementója. Történelem K7 — missziók és előregyártott építészet a 19. században",
+      "factsAdvanced": [
+        "Walvis Bay legidősebb, még eredeti helyén álló építészeti emléke",
+        "Előregyártott faszerkezet, melyet Európából hajóztak Namíbiába 1880-ban",
+        "A Rajnai Missziós Társaság (Rheinische Missionsgesellschaft) finanszírozta",
+        "Az egykor ellenséges sivatagi környezet és a tengeri só dacára is épségben maradt",
+        "Korai éveiben nemcsak templomként, hanem iskolaként is működött az őslakosok számára",
+        "1972-ben került fel a namíbiai nemzeti műemlékek listájára"
+      ]
+    },
+    {
+      "id": "katutura-state-hospital-landmarks-v2",
+      "descriptionAdvanced": "A Katutura Állami Kórház Windhoek és egyben egész Namíbia egyik legnagyobb, emblematikus közegészségügyi intézménye. A robusztus, modernista stílusú toronyházat az 1970-es évek elején építette a dél-afrikai adminisztráció, mint a Katutura (a feketék számára kijelölt, apartheid kori lakónegyed) kizárólagos kórházát, mialatt a fehér lakosságot a Windhoek Central Hospital szolgálta ki. A függetlenség kivívása (1990) után a kórház kapuit mindenki előtt megnyitották, és ma az ország egészségügyi ellátórendszerének legfőbb bázisa, amely naponta több ezer, az ország minden pontjáról érkező beteget kezel. Földrajz K8 — közegészségügy az urbanizálódó Afrikában",
+      "factsAdvanced": [
+        "Windhoek ikonikus toronykórháza, amely a Katutura negyed fölé magasodik",
+        "1973-ban adták át az apartheid rendszer szegregált egészségügyi intézményeként",
+        "A függetlenség óta Namíbia legforgalmasabb és legnagyobb állami (köz)kórháza",
+        "Több mint 800 fekvőbeteg-ággyal és kiterjedt járóbeteg-szakellátással rendelkezik",
+        "Kiképzőközpontként is szolgál a Namíbiai Egyetem (UNAM) orvostanhallgatói számára",
+        "A hatalmas betegforgalom miatt folyamatos felújításokra és modernizálásra szorul"
+      ]
+    },
+    {
+      "id": "trans-namib-transport-museum-landmarks-v2",
+      "descriptionAdvanced": "A Trans-Namib Közlekedési Múzeum (Trans-Namib Transport Museum) Windhoekban található, a gyönyörű, 1912-ben holland koloniál (Cape Dutch) stílusban épült vasútállomás emeletén. A múzeum az ország több mint egy évszázados közlekedéstörténetét meséli el, különös fókusszal a német gyarmati és a dél-afrikai korszak vasútépítésére, ami elengedhetetlen volt az ország bányászati és logisztikai fejlődéséhez. A kiállított tárgyak között régi mozdony-alkatrészek, távíró berendezések, eredeti menetrendek és vasúti étkészletek találhatók, míg az épület előtt a híres 'Zwillinge' (Iker) gőzmozdony egyik eredeti, keskenynyomtávú példánya fogadja a látogatókat. Történelem K8 — afrikai infrastruktúra-történet",
+      "factsAdvanced": [
+        "A Windhoeki Vasútállomás 1912-ben emelt történelmi épületében kapott helyet",
+        "A múzeum a namíbiai vasút, távközlés és a légi közlekedés történetét mutatja be",
+        "Bejáratánál egy eredeti, kora 20. századi (keskenynyomtávú) gőzmozdony áll",
+        "Látható itt az első délnyugat-afrikai távíró és telefonkészülékek gyűjteménye is",
+        "Bemutatja a kihívásokkal teli sivatagi vasútépítés (pl. Lüderitz vonal) nehézségeit",
+        "Maga az épület (a vasútállomás) is védett nemzeti műemlék"
+      ]
+    },
+    {
+      "id": "namibia-etosha-animal-habitat-life-v2",
+      "descriptionAdvanced": "Az Etosha Nemzeti Park Namíbia legfőbb vadrezervátuma, és Afrika egyik legkülönlegesebb ökológiai rendszere. Szívében a hatalmas, 4 800 négyzetkilométeres Etosha-medence (Etosha Pan) terül el, egy kiszáradt, vakítóan fehér sós tómeder, amely az űrből is látható. Ez a holdbéli táj az év nagy részében kietlen, ám a peremein sorakozó vízforrások (waterholes) a száraz évszakban (májustól októberig) hihetetlen vadbőséget vonzanak; oroszlánok, leopárdok, elefántok és a ritka fekete orrszarvúk is tucatjával gyülekeznek itt az ivóvízért. Esős években a medence sekély vizű tóvá változik, amely madarak millióit, köztük flamingók hatalmas kolóniáit csalogatja ide költésre. Biológia K7 — sivatagi oázisok és vándorlási útvonalak",
+      "factsAdvanced": [
+        "1907-ben alapították, eredetileg a világ legnagyobb vadvédelmi területeként (kb. 100 000 km²)",
+        "A park központja az Etosha Pan, egy gigantikus (4 800 km²) sós mélyedés",
+        "Az ország legnagyobb fekete orrszarvú (Diceros bicornis) populációjának ad otthont",
+        "Az 'Etosha' név az Oshindonga nyelvből származik, jelentése: 'Nagy Fehér Hely'",
+        "Több mint 114 emlősfaj és 340 madárfaj található a park területén",
+        "A sós talaj ellenére a peremvidéket gazdag mopane-erdők és szavanna borítja"
+      ]
+    },
+    {
+      "id": "namibia-namib-animal-habitat-life-v2",
+      "descriptionAdvanced": "A Namib-Naukluft Nemzeti Park Afrika legnagyobb és a világ negyedik legnagyobb nemzeti parkja, amely a Föld egyik legősibb sivatagát, a Namíb-sivatagot foglalja magában. A park több mint 49 000 négyzetkilométeres területe hihetetlenül változatos: az atlanti partvidék hűvös, ködös sávjától kezdve a híres sossusvlei-i, akár 300 méter magasra nyúló, oxidált vörös homokdűnéken át a vadregényes Naukluft-hegységig terjed. A kíméletlen, csapadékhiányos környezet dacára az élet utat tört magának: a tengeri köd nedvességét begyűjtő tok-tokkie bogarak, a túlélőművész oryx (bejza) antilopok, valamint az ezer évig is elélő Welwitschia mirabilis növény mind a sivatagi alkalmazkodás csodái. Földrajz K8 — extrém sivatagi ökoszisztémák és adaptáció",
+      "factsAdvanced": [
+        "Területe (49 768 km²) nagyobb, mint Svájc, ezzel Afrika legnagyobb nemzeti parkja",
+        "A Namíb-sivatagot gyakran a világ legősibb sivatagaként (kb. 55-80 millió éves) említik",
+        "Itt találhatók a világ legmagasabb (néhol 300 m) vörös homokdűnéi (Sossusvlei régió)",
+        "Egyedülálló növény- és állatvilága nagyrészt a hideg Benguela-áramlat által hozott ködre (nedvességre) utalt",
+        "Területén él a ritka, kizárólag Namíbiában őshonos Welwitschia mirabilis sivatagi növény",
+        "1907-ben hozták létre, eredetileg három különálló rezervátum egyesítésével"
+      ]
+    }
+  ]
+}

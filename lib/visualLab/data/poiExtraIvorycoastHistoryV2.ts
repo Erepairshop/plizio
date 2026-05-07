@@ -58,6 +58,12 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Tipikus szudáni építészeti stílus", "A Kong Birodalom központja", "Fontos kereskedelmi csomópont", "Samori Ture elpusztította, majd újjáépítették"],
       ro: ["Stil arhitectural tipic sudanez", "Centrul Imperiului Kong", "Nod important pentru comerț", "Distrus de Samori Ture și reconstruit"],
       en: ["Typical Sudanese architectural style", "Center of the Kong Empire", "Important hub for trade", "Destroyed by Samori Ture and rebuilt"]
+    },
+    descriptionAdvanced: {
+      en: "The Kong Empire was a powerful 18th-century state in northern Ivory Coast, famous for its strategic role in the trans-Saharan trade and its distinctive Sudanese architecture. The Great Mosque of Kong, built in the 17th century, is a masterpiece of mud-brick construction with wooden poles, reflecting the deep Islamic heritage of the region. Kong was a major center for Islamic learning and a vital commercial node for gold, kola nuts, and salt. Although largely destroyed by Samori Touré in 1897, the restored mosques stand as powerful symbols of the empire's former glory and architectural ingenuity. History K8 — Sudanic architecture and empires."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Kong Empire founded in the 1700s", "Masterpiece of Sudanese-style mud-brick architecture", "Major historical center for trans-Saharan trade", "Center for Islamic learning and scholarship", "Largely destroyed by Samori Touré's forces in 1897", "Restored mosques are protected national monuments", "Strategically located at the savanna-forest transition", "Symbol of Malinké and Senufo cultural synergy"]
     }
   },
   {
@@ -72,7 +78,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A 17. század végén alapították", "Első keresztény misszió", "Történelmi kereskedelmi központ", "Fontos partmenti bázis"],
       ro: ["Fondată la sfârșitul secolului al XVII-lea", "Prima misiune creștină", "Centru comercial istoric", "Bază de coastă importantă"],
       en: ["Founded in the late 17th century", "First Christian mission", "Historic trade center", "Important coastal base"]
-    }, image: "/poi-images/assinie-mafia-settlement-history-v2.webp"},
+    }, image: "/poi-images/assinie-mafia-settlement-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Assinie-Mafia is one of the oldest European settlements in Ivory Coast, established by French traders and missionaries in the late 17th century. Located on a narrow sandy strip between the sea and the lagoon, it served as the first French commercial post on the coast. The settlement played a critical role in early diplomatic relations between the local Sanwi Kingdom and the French Crown. Today, Assinie is a premier tourist destination, but its historic ruins and the story of the first French fort (Fort Saint-Louis) provide essential insight into the earliest phases of colonial contact. History K8 — early European contact."
+    },
+    factsAdvanced: {
+      en: ["Site of the first French fort in Ivory Coast (1687)", "Established by Dominican missionaries and traders", "First French administrative post on the Ivorian coast", "Located on the strategic Assinie Peninsula", "Major historical link with the Sanwi Kingdom", "Site of early 17th-century European-Akan trade", "Preserves ruins of the colonial-era settlement", "Birthplace of Franco-Ivorian diplomatic history"]
+    }
+  },
   {
     id: "bingerville-former-capital-history-v2",
     type: "historical",
@@ -85,7 +98,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Főváros 1900-1934", "A francia kormányzó palotája", "Louis Gustave Binger-ről nevezték el", "Történelmi közigazgatási központ"],
       ro: ["Capitală 1900-1934", "Palatul guvernatorului francez", "Numit după Louis Gustave Binger", "Centru administrativ istoric"],
       en: ["Capital 1900-1934", "French governor's palace", "Named after Louis Gustave Binger", "Historic administrative center"]
-    }, image: "/poi-images/bingerville-former-capital-history-v2.webp"},
+    }, image: "/poi-images/bingerville-former-capital-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Bingerville served as the second colonial capital of Ivory Coast from 1900 to 1934, succeeding Grand-Bassam after a devastating yellow fever epidemic. Named after the first governor, Louis-Gustave Binger, the city was meticulously planned as a quiet administrative retreat on a hill overlooking the Ébrié Lagoon. The Governor's Palace, an elegant example of French colonial architecture, remains the city's most prominent landmark. Bingerville was also developed as an educational and botanical center, housing the country's first agricultural research stations and prestigious schools, preserving a unique intellectual and colonial legacy. History K8 — colonial urban planning."
+    },
+    factsAdvanced: {
+      en: ["Colonial capital of Ivory Coast from 1900 to 1934", "Named after the explorer and Governor Louis-Gustave Binger", "Home to the historic 19th-century Governor's Palace", "Site of the first National Botanical Gardens", "Center for early colonial agricultural research", "Built on a hill for health and strategic reasons", "Transitioned from capital to educational hub in 1934", "Preserves several major colonial-era administrative buildings"]
+    }
+  },
   {
     id: "tiebissou-resistance-history-v2",
     type: "historical",
@@ -98,7 +118,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Baoulé ellenállás központja", "A francia csapatok elleni csata helyszíne", "Történelmi kereskedelmi útvonal", "Az akanok kulturális öröksége"],
       ro: ["Centrul rezistenței Baoulé", "Locul bătăliei împotriva trupelor franceze", "Rută comercială istorică", "Moștenirea culturală a poporului Akan"],
       en: ["Center of Baoulé resistance", "Battle site against French troops", "Historic trade route", "Cultural heritage of the Akan"]
-    }, image: "/poi-images/tiebissou-resistance-history-v2.webp"},
+    }, image: "/poi-images/tiebissou-resistance-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Tiébissou is historically significant as a center of resistance during the colonial and post-colonial eras. Located in the Baoulé heartland, the town played a strategic role in the 'Baoulé War' (1893-1911), where local leaders resisted French expansion into the interior. In more recent history, Tiébissou became a symbolic 'frontline' town during the 2002-2011 civil crisis, marking the division between the north and south. The resilience of its people and its strategic position at the crossroads of major national routes make it an essential site for understanding the complexities of Ivorian national unity and historical struggle. History K8 — anti-colonial resistance."
+    },
+    factsAdvanced: {
+      en: ["Significant center of the Baoulé resistance (1893-1911)", "Strategically located in the central Baoulé heartland", "Symbolic 'frontline' town during the 2002-2011 crisis", "Key junction between Abidjan and northern regions", "Historically defended by local 'resistance' leaders", "Known for the resilience of its agricultural community", "Major center for Baoulé cultural and political history", "Located in the strategic Belier Region"]
+    }
+  },
   {
     id: "bondoukou-mosques-history-v2",
     type: "historical",
@@ -111,7 +138,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Egykori transzszaharai kereskedelmi központ", "Hagyományos mecseteiről ismert", "Fontos iszlám oktatási helyszín", "A 11. században alapították"],
       ro: ["Fost centru de comerț trans-saharian", "Cunoscut pentru moscheile tradiționale", "Important site educațional islamic", "Fondată în secolul al XI-lea"],
       en: ["Former trans-Saharan trade center", "Known for traditional mosques", "Important Islamic educational site", "Founded in the 11th century"]
-    }, image: "/poi-images/bondoukou-mosques-history-v2.webp"},
+    }, image: "/poi-images/bondoukou-mosques-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Bondoukou, known as the 'City of a Thousand Mosques,' is one of the oldest and most important Islamic cities in Ivory Coast. Founded in the 15th century, it became a major center for the Dyula (Malinké) people and a vital node on the trade routes connecting the Sahelian empires with the gold-rich Akan forests. The city's numerous mosques, built in a variety of Sudanese and local styles, reflect centuries of religious and cultural fusion. Bondoukou has historically been a sanctuary for scholars and traders, maintaining a unique tradition of tolerance and intellectual exchange between diverse ethnic and religious groups. History K8 — Islamic trade cities."
+    },
+    factsAdvanced: {
+      en: ["Known as the 'City of a Thousand Mosques'", "Founded in the 15th century by Dyula traders", "Major historical node for the gold and salt trade", "Center for Islamic scholarship and literature", "Features a unique blend of Sudanese-style architecture", "Capital of the Gontougo Region near the Ghana border", "Historically a hub for the Dyula-Akan cultural exchange", "Famous for its diverse and tolerant urban history"]
+    }
+  },
   {
     id: "bouna-kingdom-history-v2",
     type: "historical",
@@ -124,7 +158,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Bounkani király alapította", "Ellenőrizte az aranykereskedelmet", "Történelmi királyi palota", "A Mande kultúra része"],
       ro: ["Fondat de regele Bounkani", "A controlat comerțul cu aur", "Palat regal istoric", "Parte a culturii Mande"],
       en: ["Founded by King Bounkani", "Controlled the gold trade", "Historic royal palace", "Part of the Mande culture"]
-    }, image: "/poi-images/bouna-kingdom-history-v2.webp"},
+    }, image: "/poi-images/bouna-kingdom-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Bouna Kingdom, founded in the 17th century, was a powerful and centralized state in northeastern Ivory Coast that controlled the lucrative gold and kola nut trade. Led by the Koulango people, the kingdom established a sophisticated administrative and military system that allowed it to survive regional conflicts for centuries. Bouna served as a major cultural and religious center, blending Lobi and Koulango traditions. The royal palace and the traditional fortified houses (sukalas) of the Lobi remain important architectural witnesses to the kingdom's history, highlighting the strategic importance of the Northeast in West African trade networks. History K8 — traditional centralized states."
+    },
+    factsAdvanced: {
+      en: ["Founded in the 17th century by the Koulango people", "Major historical center for the regional gold trade", "Powerful centralized kingdom in the Northeast", "Gateway to the ancient trade routes with the Sahel", "Seat of the King of Bouna (Bounkani)", "Known for traditional fortified 'sukala' architecture", "Historically resistant to Samori Touré's expansion", "Capital of the historic Bounkani region"]
+    }
+  },
   {
     id: "odienne-vakaba-toure-history-v2",
     type: "historical",
@@ -137,7 +178,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Kabadougou fővárosa", "Vakaba Touré sírja", "Fontos hely a malinkék történelmében", "Az arany- és sóútvonalak központja"],
       ro: ["Capitala Kabadougou", "Mormântul lui Vakaba Touré", "Loc important pentru istoria Malinke", "Centrul rutelor aurului și sării"],
       en: ["Capital of Kabadougou", "Tomb of Vakaba Touré", "Important site for Malinke history", "Center of gold and salt routes"]
-    }, image: "/poi-images/odienne-vakaba-toure-history-v2.webp"},
+    }, image: "/poi-images/odienne-vakaba-toure-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Odienné was the capital of the Kabadougou Empire, founded in the mid-19th century by the legendary Malinké conqueror Vakaba Touré. Vakaba established a powerful Islamic state that dominated the northwestern regions and successfully resisted the initial waves of colonial expansion. The city became a major center for Malinké culture, military organization, and trans-border trade with Guinea and Mali. The tomb of Vakaba Touré remains a revered site, symbolizing the region's proud history of sovereignty and its role as a bastion of northern Ivorian identity and political power. History K8 — 19th-century West African empires."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Kabadougou Empire (founded 1848)", "Founded by the Malinké leader Vakaba Touré", "Major historical center of Islamic military power", "Bastion of resistance against regional rivals", "Key trade node near the borders of Guinea and Mali", "Home to the tomb of Vakaba Touré", "Strategically located at the foot of Mount Denguélé", "Principal center for Malinké (Maninka) heritage"]
+    }
+  },
   {
     id: "man-colonial-history-v2",
     type: "historical",
@@ -150,7 +198,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Katonai állomás 1900-tól", "A Dan kultúra központja", "Fontos hely a kávékereskedelemben", "Egykori helyőrségi város"],
       ro: ["Post militar din 1900", "Centrul culturii Dan", "Loc important pentru comerțul cu cafea", "Fost oraș de garnizoană"],
       en: ["Military post since 1900", "Center of Dan culture", "Important site for coffee trade", "Former garrison town"]
-    }, image: "/poi-images/man-colonial-history-v2.webp"},
+    }, image: "/poi-images/man-colonial-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Man became a significant administrative and military post for the French during the late 19th century as they pushed into the western highlands. Its rugged terrain and the resistance of the Dan (Yacouba) people made it a challenging territory to control. The colonial administration developed Man as a key center for the coffee and cocoa trade, utilizing its unique mountain climate. Several colonial-era buildings and the layout of the old administrative quarter reflect this period. Man's history is characterized by the tension between colonial economic ambitions and the vibrant, persistent cultural traditions of the 'People of the Mountains.' History K8 — highland colonial outposts."
+    },
+    factsAdvanced: {
+      en: ["Major French military and administrative post in the West", "Significant center for early 20th-century coffee trade", "Developed as a hill station for colonial officials", "Site of intense resistance by the Dan people", "Known for its unique mountain colonial layout", "Key logistics hub for western highland expansion", "Preserves several colonial-era administrative ruins", "Capital of the historic 18 Mountains region"]
+    }
+  },
   {
     id: "korhogo-gbon-palace-history-v2",
     type: "historical",
@@ -163,7 +218,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Senufo vezető rezidenciája", "Politikailag fontos központ", "Gbon Coulibaly együttműködött Franciaországgal", "Megőrzi a hagyományos építészetet"],
       ro: ["Reședința liderului Senufo", "Centru politic important", "Gbon Coulibaly a cooperat cu Franța", "Păstrează arhitectura tradițională"],
       en: ["Residence of the Senufo leader", "Politically important center", "Gbon Coulibaly cooperated with France", "Preserves traditional architecture"]
-    }, image: "/poi-images/korhogo-gbon-palace-history-v2.webp"},
+    }, image: "/poi-images/korhogo-gbon-palace-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Gbon Coulibaly Palace in Korhogo is the historic residence of the Senufo royal family and the seat of the traditional chieftaincy. It is named after Péléforo Gbon Coulibaly, the legendary Senufo chief who ruled during the colonial era and played a critical role in mediating between the French and the local population. The palace is a significant cultural landmark, representing the continuity of Senufo power and the Poro traditional system. Its architecture and the sacred spaces within its walls remain central to the religious and social life of northern Ivory Coast, serving as the spiritual heart of the Senufo nation. History K8 — traditional chieftaincy and power."
+    },
+    factsAdvanced: {
+      en: ["Seat of the traditional Senufo chieftaincy", "Named after the legendary Chief Péléforo Gbon Coulibaly", "Spiritual center for the Senufo people and Poro rites", "Key location for northern political and cultural events", "Preserves traditional Senufo architectural elements", "Symbol of continuity between pre-colonial and modern power", "Located in the heart of historic Korhogo", "Major site for traditional royal ceremonies"]
+    }
+  },
   {
     id: "dabou-fort-faidherbe-history-v2",
     type: "historical",
@@ -176,7 +238,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Louis Faidherbe építtette", "Katonai előőrs", "Fontos volt a kereskedelemben", "Jól megőrzött gyarmati erőd"],
       ro: ["Construit de Louis Faidherbe", "Avanpost militar", "Important în comerț", "Fort colonial bine conservat"],
       en: ["Built by Louis Faidherbe", "Military outpost", "Important in trade", "Well-preserved colonial fort"]
-    }, image: "/poi-images/dabou-fort-faidherbe-history-v2.webp"},
+    }, image: "/poi-images/dabou-fort-faidherbe-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Fort Faidherbe in Dabou was constructed in 1853 under the orders of Louis Faidherbe to secure French interests on the Ébrié Lagoon. It was one of the earliest permanent French military structures in the interior of Ivory Coast, designed to control the palm oil trade and protect against rival colonial powers. The fort served as a strategic outpost for the French navy and a base for the exploration of the Bandama River. Its location on the northern shore of the lagoon highlights the early colonial focus on maritime and lagoon trade routes as the primary means of territorial penetration. History K8 — early colonial military architecture."
+    },
+    factsAdvanced: {
+      en: ["Constructed in 1853 by the French military", "Named after Governor Louis Faidherbe", "One of the oldest French forts in the Ivorian interior", "Built to secure control over the palm oil trade", "Strategic outpost overlooking the Ébrié Lagoon", "Served as a base for inland river exploration", "Significant landmark of the Adjoukrou resistance", "Located in the historic town of Dabou"]
+    }
+  },
   {
     id: "sassandra-governors-palace-history-v2",
     type: "historical",
@@ -189,7 +258,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Történelmi exportkikötő", "1951-es rakpart építés", "Regionális közigazgatás székhelye", "Fontos a faanyag-kereskedelemben"],
       ro: ["Port de export istoric", "Construcția debarcaderului din 1951", "Sediul administrației regionale", "Important pentru comerțul cu lemn"],
       en: ["Historic export port", "1951 wharf construction", "Seat of regional administration", "Important for the timber trade"]
-    }, image: "/poi-images/sassandra-governors-palace-history-v2.webp"},
+    }, image: "/poi-images/sassandra-governors-palace-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Governor's Palace in Sassandra is a striking relic of French colonial administration, perched on a hill overlooking the Atlantic Ocean and the mouth of the Sassandra River. Built in the late 19th century, it served as the headquarters for the regional governor when Sassandra was a major maritime port for timber and agricultural exports. The palace's architecture, with its wide verandas and panoramic views, reflects the lifestyle and administrative priorities of the colonial era. Today, the palace and the surrounding historic quarter evoke the town's former status as a vital link in the Atlantic trade network. History K8 — colonial maritime administration."
+    },
+    factsAdvanced: {
+      en: ["Late 19th-century French administrative headquarters", "Located on a strategic hill overlooking the ocean", "Former residence of the regional colonial governor", "Built during Sassandra's peak as a timber port", "Classic example of French colonial maritime architecture", "Symbol of colonial control over the Sassandra River trade", "Significant historical landmark in the Gboklè Region", "Part of the town's protected colonial-era heritage"]
+    }
+  },
   {
     id: "san-pedro-historic-origins-history-v2",
     type: "historical",
@@ -202,7 +278,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Port-Chocolat-nak hívták", "Az ország második legnagyobb kikötője", "A kakaóexport központja", "Egykori portugál jelenlét"],
       ro: ["Numit Port-Chocolat", "Al doilea cel mai mare port din țară", "Centrul exporturilor de cacao", "Fostă prezență portugheză"],
       en: ["Called Port-Chocolat", "Second largest port in the country", "Center for cocoa exports", "Former Portuguese presence"]
-    }, image: "/poi-images/san-pedro-historic-origins-history-v2.webp"},
+    }, image: "/poi-images/san-pedro-historic-origins-history-v2.webp",
+    descriptionAdvanced: {
+      en: "While San-Pédro is primarily known as a modern industrial port, its history dates back to the late 15th century when Portuguese explorers named the site. For centuries, it remained a small, remote fishing village and a minor trade post on the 'Tooth Coast' (Côte des Dents). The modern city was born in the late 1960s as a massive government-led developmental project designed to open up the West. The transformation of this ancient, quiet shore into the world's leading cocoa port is one of the most significant examples of planned urban and economic development in modern African history. Geography K7 — planned economic development."
+    },
+    factsAdvanced: {
+      en: ["Named by Portuguese explorers in the late 15th century", "Remained a small fishing village until the 1960s", "Developed as a massive planned port project in 1968", "Part of the 'Southwest Development Scheme' (ARSO)", "Designed to decentralize the economy from Abidjan", "Transformed into the world's leading cocoa export hub", "Strategic gateway for western timber and agriculture", "Significant example of post-independence modernism"]
+    }
+  },
   {
     id: "tiagba-stilt-village-history-v2",
     type: "historical",
@@ -215,7 +298,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Cölöpökön álló házak", "Az Ahizi kultúra", "Védelem az ellenséges támadások ellen", "Az egyik utolsó ilyen település"],
       ro: ["Case pe piloni", "Cultura poporului Ahizi", "Protecție împotriva atacurilor inamice", "Una dintre ultimele astfel de așezări"],
       en: ["Houses on stilts", "Culture of the Ahizi", "Protection from enemy attacks", "One of the last such settlements"]
-    }, image: "/poi-images/tiagba-stilt-village-history-v2.webp"},
+    }, image: "/poi-images/tiagba-stilt-village-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Tiagba is one of the most unique historic settlements in Ivory Coast, a traditional village built on stilts over the waters of the Ébrié Lagoon. Inhabited by the Ahizi people, the village's architecture was originally a defensive strategy against land-based enemies. Tiagba's history is a testament to the community's intimate relationship with the lagoon ecosystem, where fishing and water transport have defined every aspect of life for centuries. The traditional wooden houses on stilts and the intricate social structure of the Ahizi make it a significant site for understanding the diverse indigenous adaptations to the coastal landscape. History K8 — indigenous maritime adaptations."
+    },
+    factsAdvanced: {
+      en: ["Traditional village built on stilts over the lagoon", "Ancestral home of the Ahizi ethnic group", "Architecture originally designed for defensive purposes", "Significant example of indigenous lagoon adaptation", "Center for traditional maritime and fishing culture", "Located in the Grands-Ponts Region", "One of the last remaining stilt villages in the region", "Major cultural and tourist landmark of the lagoon"]
+    }
+  },
   {
     id: "tengrela-historic-mosque-history-v2",
     type: "historical",
@@ -228,7 +318,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Vályogtéglás építészet", "Iszlám örökség északon", "Állomás a só- és aranyúton", "Fontos hely a tudósok számára"],
       ro: ["Arhitectură din cărămidă de noroi", "Moștenire islamică în nord", "Stație pe ruta sării și aurului", "Loc important pentru cărturari"],
       en: ["Mud-brick architecture", "Islamic heritage in the north", "Station on the salt and gold route", "Important place for scholars"]
-    }, image: "/poi-images/tengrela-historic-mosque-history-v2.webp"},
+    }, image: "/poi-images/tengrela-historic-mosque-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The historic mosque of Tengréla is a stunning example of the Sudanese (Sahelian) mud-brick architecture that spread across northern Ivory Coast during the medieval period. Built with sun-dried earth and reinforced with wooden beams (torons), its tapering towers and geometric forms are designed to withstand the harsh savanna climate. The mosque serves as a powerful symbol of the city's long history as a center for Islamic trade and learning near the border of Mali. Its preservation reflects the community's commitment to their spiritual heritage and the ancient architectural traditions of the Western Sudan region. History K8 — Sudanese religious architecture."
+    },
+    factsAdvanced: {
+      en: ["Classic example of Sudanese mud-brick architecture", "Built with sun-dried earth and wooden 'torons'", "Historical center for Islamic worship in the North", "Significant landmark near the Mali border", "Part of the ancient trans-Saharan religious network", "Protected as an Ivorian national heritage site", "Designed for the specific climate of the northern savanna", "Symbol of the Malinké cultural and spiritual identity"]
+    }
+  },
   {
     id: "niofoin-senufo-village-history-v2",
     type: "historical",
@@ -241,7 +338,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Az animizmus központja", "Tipikus kerek kunyhók", "Poro szent liget", "Hagyományos kézművesség"],
       ro: ["Centrul animismului", "Colibe rotunde tipice", "Dumbrava sacră Poro", "Artizanat tradițional"],
       en: ["Center of animism", "Typical round huts", "Poro sacred grove", "Traditional craftsmanship"]
-    }, image: "/poi-images/niofoin-senufo-village-history-v2.webp"},
+    }, image: "/poi-images/niofoin-senufo-village-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Niofoin is a historic Senufo village that has meticulously preserved its traditional architecture and social organization. It is famous for its 'sukalas' (family compounds) and its twin sacred huts, which serve as the focus for Poro initiation rituals and ancestral worship. The village layout and its mud-and-thatch buildings reflect the ancient Senufo philosophy of living in harmony with the spirit world and nature. Niofoin serves as a living museum of Senufo culture, offering invaluable insight into the traditional beliefs, artisanal practices, and community structures that have defined northern Ivory Coast for centuries. History K8 — traditional village structures."
+    },
+    factsAdvanced: {
+      en: ["Significant center for traditional Senufo architecture", "Home to unique twin sacred initiation huts", "Preserves ancient mud-and-thatch 'sukala' compounds", "Central site for Poro society rituals", "Living museum of northern Ivorian indigenous culture", "Located in the Poro Region near Korhogo", "Symbol of Senufo ancestral and spiritual continuity", "Major landmark for West African ethnographic study"]
+    }
+  },
   {
     id: "anyama-railway-town-history-v2",
     type: "historical",
@@ -254,7 +358,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Az Abidjan-Niger vasút fontos állomása", "A helyi kereskedelem katalizátora", "Régi gyarmati vasútállomás-épületek", "Kóladió termelési központ"],
       ro: ["Stație importantă a căii ferate Abidjan-Niger", "Catalizator pentru comerțul local", "Vechi clădiri coloniale ale gării", "Centru de producție a nucilor de cola"],
       en: ["Important station of the Abidjan-Niger railway", "Catalyst for local trade", "Old colonial station buildings", "Kola nut production center"]
-    }, image: "/poi-images/anyama-railway-town-history-v2.webp"},
+    }, image: "/poi-images/anyama-railway-town-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Anyama's modern history is inextricably linked to the Abidjan-Niger railway, which reached the town in the early 20th century. This rail connection transformed Anyama from a small agricultural settlement into a major commercial hub for the kola nut trade, which was the 'green gold' of the era. The railway allowed traders to transport kola nuts from the southern forests to the northern Sahelian markets with unprecedented speed. Anyama became a vibrant, multi-ethnic town of merchants and railway workers, a legacy that continues today as it evolves into a major suburban economic engine for Greater Abidjan. Geography K7 — railway-driven urbanization."
+    },
+    factsAdvanced: {
+      en: ["Developed as a major hub for the colonial railway", "Historical center for the lucrative kola nut trade", "Key stop on the Abidjan-Niger railway (RAN)", "Link between the southern forests and northern Sahel", "Significant center for the Malinké merchant diaspora", "Early 20th-century economic boom town", "Now a major suburban district of Greater Abidjan", "Home to the historic colonial-era railway station"]
+    }
+  },
   {
     id: "bouake-military-post-history-v2",
     type: "historical",
@@ -267,7 +378,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["1899-ben alapították", "Elefántcsontpart második legnagyobb városa", "A Baoulé nép fontos csomópontja", "Egykori gyarmati közigazgatási központ"],
       ro: ["Fondat în 1899", "Al doilea oraș ca mărime din Coasta de Fildeș", "Centru important pentru Baoulé", "Fost centru administrativ colonial"],
       en: ["Founded in 1899", "Second largest city in Ivory Coast", "Important hub for Baoulé", "Former colonial administrative center"]
-    }, image: "/poi-images/bouake-military-post-history-v2.webp"},
+    }, image: "/poi-images/bouake-military-post-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Bouaké was established by the French in 1899 as a strategic military post to control the central interior and secure the northern expansion of the Abidjan-Niger railway. Its central location in the Baoulé heartland made it an ideal administrative and logistics center. Over the decades, it evolved from a military barracks into the country's second-largest city and a massive industrial hub for textiles and tobacco. Bouaké's history as a military town has shaped its urban layout and its political significance, particularly during the 2002 civil crisis when it served as the headquarters for northern-based forces. History K8 — strategic military urbanism."
+    },
+    factsAdvanced: {
+      en: ["Established as a French military post in 1899", "Strategically located at the center of Ivory Coast", "Developed to secure the Abidjan-Niger railway line", "Evolved into the nation's textile industrial capital", "Historically the administrative hub for the Gbêkê Region", "Headquarters of the northern rebellion (2002-2011)", "Home to the historic 1st Parachute Battalion (1er BCP)", "Major cultural melting pot in the central Bandama Valley"]
+    }
+  },
   {
     id: "touba-fadika-center-history-v2",
     type: "historical",
@@ -280,7 +398,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Mahou nép központja", "Évszázados iszlám hagyomány", "Befolyásos Fadika család", "Történelmi Korán-iskolák"],
       ro: ["Centrul Mahou", "Tradiție islamică de secole", "Familia influentă Fadika", "Școli coranice istorice"],
       en: ["Center of the Mahou", "Islamic tradition for centuries", "Influential Fadika family", "Historic Quranic schools"]
-    }, image: "/poi-images/touba-fadika-center-history-v2.webp"},
+    }, image: "/poi-images/touba-fadika-center-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Touba is the historic heartland of the Mahouka people and the seat of the influential Fadika family, which has played a major role in the political and spiritual history of northwestern Ivory Coast. The city developed as a center for Islamic learning and a major trade post for cattle and kola nuts between Guinea and the Ivorian interior. Touba is known for its proud tradition of independence and its unique cultural ceremonies. The 'Fadika' heritage represents the integration of traditional Malinké power structures with modern state administration, making Touba a key pillar of northern stability and identity. History K8 — regional political dynasties."
+    },
+    factsAdvanced: {
+      en: ["Ancestral capital of the Mahouka (Malinké) people", "Seat of the prominent Fadika political and spiritual family", "Historical center for Islamic scholarship in the Northwest", "Major node for trade with Guinea and Mali", "Capital of the Bafing Region", "Known for its unique northern traditional dances", "Significant center for regional cattle and cashew trade", "Symbol of northwestern Malinké sovereignty"]
+    }
+  },
   {
     id: "seguela-diamond-trade-history-v2",
     type: "historical",
@@ -293,7 +418,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Korai gyémántbányászat", "A Worodougou régió központja", "Történelmi jelentőség a gyarmatosításban", "Kereskedelmi pont nyugaton"],
       ro: ["Mineritul timpuriu de diamante", "Centrul regiunii Worodougou", "Importanță istorică în colonialism", "Punct de comerț în vest"],
       en: ["Early diamond mining", "Center of the Worodougou", "Historical significance in colonialism", "Trade point in the west"]
-    }, image: "/poi-images/seguela-diamond-trade-history-v2.webp"},
+    }, image: "/poi-images/seguela-diamond-trade-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Séguéla became a major economic hub in the mid-20th century following the discovery of significant diamond deposits in the Worodougou Region. The diamond rush transformed the city, attracting miners and traders from across West Africa and making Séguéla a legendary name in the global gemstone market. Historically a Malinké trade post, the city's identity shifted towards mining and logistics. Although industrial mining has fluctuated, the artisanal diamond trade remains a core part of the local economy and culture. Séguéla's history reflects the dramatic impact of natural resource discovery on the urban and social landscape of the Northwest. Geography K7 — resource-driven economic history."
+    },
+    factsAdvanced: {
+      en: ["Center of the Ivorian diamond rush in the mid-1900s", "Capital of the diamond-rich Worodougou Region", "Historically a Malinké center for kola nut trade", "Major destination for West African mining migrants", "Key node in the international artisanal diamond market", "Significant administrative hub for the Woroba District", "Home to major alluvial diamond deposits", "Symbol of northwestern mineral wealth and trade"]
+    }
+  },
   {
     id: "grand-lahou-old-town-history-v2",
     type: "historical",
@@ -306,7 +438,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Régi gyarmati épületek", "Az erózió által fenyegetett", "Egykori kereskedelmi állomás", "Az 'Elefántcsontpart Velencéjeként' ismert"],
       ro: ["Vechi clădiri coloniale", "Amenințat de eroziune", "Fost post comercial", "Cunoscut sub numele de 'Veneția Coastei de Fildeș'"],
       en: ["Old colonial buildings", "Threatened by erosion", "Former trading post", "Known as the 'Venice of Ivory Coast'"]
-    }, image: "/poi-images/grand-lahou-old-town-history-v2.webp"},
+    }, image: "/poi-images/grand-lahou-old-town-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Old Grand-Lahou (Lahou-Kpanda) is a hauntingly beautiful historic site that was once a thriving colonial trade port at the mouth of the Bandama River. Known as the 'Ivorian Venice' due to its lagoon-side location, it served as a major center for the palm oil, timber, and ivory trade in the 19th century. Today, the town is a powerful symbol of the climate crisis, as rising sea levels and coastal erosion have literally swallowed half of the historic buildings. The remaining colonial ruins, cemetery, and traditional houses tell a poignant story of a prosperous past now threatened by environmental change. Geography K7 — coastal history and climate change."
+    },
+    factsAdvanced: {
+      en: ["Historic 19th-century colonial trade port", "Known as 'Lahou-Kpanda' or 'Old Grand-Lahou'", "Major center for the palm oil and timber trade", "Significant example of early colonial lagoon urbanism", "Being gradually submerged by coastal erosion", "Located at the strategic confluence of river and sea", "Home to historic colonial-era ruins and cemetery", "Cultural heart of the Avikam ethnic group"]
+    }
+  },
   {
     id: "katiola-colonial-history-v2",
     type: "historical",
@@ -319,7 +458,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Mangoró fazekasművészet", "Történelmi vasúti kapcsolat", "Gyarmati piac", "A Tagwana kultúra központja"],
       ro: ["Arta ceramicii Mangoro", "Conexiune feroviară istorică", "Piață colonială", "Centrul culturii Tagwana"],
       en: ["Mangoro pottery", "Historic railway connection", "Colonial market town", "Center of Tagwana culture"]
-    }, image: "/poi-images/katiola-colonial-history-v2.webp"},
+    }, image: "/poi-images/katiola-colonial-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Katiola gained significant importance in the early 20th century as a major administrative post on the 'northern front' of French colonial expansion. Its position on the Abidjan-Niger railway made it an essential station for the export of northern agricultural products, particularly yams and cotton. The colonial administration established Katiola as a regional hub for the Tagwana Senufo people, often clashing with traditional power structures. The city's history is a blend of colonial infrastructure—such as the railway station and administrative buildings—and the enduring artisanal fame of its world-renowned Tagwana potters. History K8 — railway-era administrative hubs."
+    },
+    factsAdvanced: {
+      en: ["Significant station on the historic Abidjan-Niger railway", "Early 20th-century French regional administrative post", "Major collection point for northern agricultural exports", "Center for the Tagwana Senufo ethnic group", "Historically known for its strategic northern location", "Preserves colonial-era administrative infrastructure", "Capital of the Hambol Region", "Gateway between the central and northern territories"]
+    }
+  },
   {
     id: "daloa-trading-post-history-v2",
     type: "historical",
@@ -332,7 +478,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Bété nép központja", "Fontos mezőgazdasági piac", "Gyarmati terjeszkedés", "Haut-Sassandra fővárosa"],
       ro: ["Centrul poporului Bété", "Piață agricolă importantă", "Expansiunea colonială", "Capitala regiunii Haut-Sassandra"],
       en: ["Center of the Bété people", "Important agricultural market", "Colonial expansion", "Capital of Haut-Sassandra"]
-    }, image: "/poi-images/daloa-trading-post-history-v2.webp"},
+    }, image: "/poi-images/daloa-trading-post-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Daloa was established as a major inland trading post in the early 20th century as the French expanded into the western forest regions. It quickly became the premier collection center for the 'red gold' of the forest—cocoa and coffee. The city's growth was driven by its location at a crossroads of ancient forest paths, which the colonial administration transformed into major road networks. Daloa's history is characterized by its rapid transformation from a Bété forest settlement into a bustling, multi-ethnic commercial metropolis, reflecting the massive shift towards export-oriented agriculture that redefined Ivory Coast. Geography K7 — forest-zone commercial expansion."
+    },
+    factsAdvanced: {
+      en: ["Premier inland hub for the colonial cocoa trade", "Major French administrative post founded in 1903", "Strategically located at the heart of the Bété territory", "Key junction for western forest trade routes", "Early 20th-century economic boom town", "Center for the expansion of coffee and cocoa farming", "Capital of the historic Haut-Sassandra Region", "Significant site for western regional administration"]
+    }
+  },
   {
     id: "abengourou-indenie-kingdom-history-v2",
     type: "historical",
@@ -345,7 +498,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Agni népcsoport", "Akan hagyományok", "A királyi palota az 1880-as években épült", "Gazdag kulturális örökség"],
       ro: ["Tribul Agni", "Tradiții Akan", "Palatul regal construit în anii 1880", "Moștenire culturală bogată"],
       en: ["Agni tribe", "Akan traditions", "Royal palace built in the 1880s", "Rich cultural heritage"]
-    }, image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp"},
+    }, image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Abengourou is the historic capital of the Indénié (Anyi) Kingdom, founded in the 18th century by Akan refugees from what is now Ghana. The kingdom established a highly organized royal court and a centralized government that successfully managed trade and diplomacy for centuries. The Royal Palace of Abengourou remains the seat of the King (Nana) and a vibrant center for Agni traditions, including the sacred 'Fête des Ignames' (Yam Festival). The city represents the powerful continuity of Akan royalty in Ivory Coast, where traditional governance remains a respected and influential part of modern social and political life. History K8 — Akan royal traditions."
+    },
+    factsAdvanced: {
+      en: ["Seat of the King (Nana) of the Indénié Kingdom", "Founded in the 1700s by Akan migrants from Ghana", "Home to the historic Royal Palace of Abengourou", "Center for the sacred Agni Yam Festival (Fête des Ignames)", "Preserves the traditional Agni royal court and protocol", "Significant historical link to the Ashanti Empire", "Capital of the Indénié-Djuablin Region", "Symbol of the endurance of Ivorian traditional royalty"]
+    }
+  },
   {
     id: "ferkessedougou-historic-town-history-v2",
     type: "historical",
@@ -358,7 +518,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Fontos marhapiac", "Gyarmati vasútállomás", "Niarafolo kultúra", "A pamuttermesztés központja"],
       ro: ["Piață importantă de vite", "Gară din perioada colonială", "Cultura Niarafolo", "Centrul cultivării bumbacului"],
       en: ["Important cattle market", "Colonial era railway station", "Niarafolo culture", "Center of cotton cultivation"]
-    }, image: "/poi-images/ferkessedougou-historic-town-history-v2.webp"},
+    }, image: "/poi-images/ferkessedougou-historic-town-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Ferkessédougou, or Ferké, developed as a major northern outpost in the late 19th century, serving as a vital link between the Kong Empire and the northern savannas. Its history was transformed by the arrival of the Abidjan-Niger railway, which made it the primary hub for cattle and livestock trade with the Sahel. The city is the ancestral home of the Niarafolo Senufo and has a rich history of resisting Samori Touré's invasions. Ferké's legacy as a 'frontier town' of trade and transport is visible in its bustling markets and its strategic role in connecting Ivory Coast with Mali and Burkina Faso. History K8 — northern frontier trade."
+    },
+    factsAdvanced: {
+      en: ["Historical link between the Kong Empire and the North", "Ancestral home of the Niarafolo Senufo people", "Key stop on the Abidjan-Niger railway (1920s)", "Major center for the trans-border livestock trade", "Historically resilient against Samori Touré's forces", "Significant northern colonial administrative post", "Capital of the Tchologo Region", "Strategic gateway to the Sahelian landlocked states"]
+    }
+  },
   {
     id: "jacqueville-colonial-history-v2",
     type: "historical",
@@ -371,7 +538,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Egykori neve: Half Jack", "Pálmaolaj exportközpont", "A brit építészet maradványai", "Lagúnatelepülés"],
       ro: ["Fostul nume: Half Jack", "Centru de export al uleiului de palmier", "Rămășițe ale arhitecturii britanice", "Așezare pe lagună"],
       en: ["Former name: Half Jack", "Palm oil export center", "Remains of British architecture", "Lagoon settlement"]
-    }, image: "/poi-images/jacqueville-colonial-history-v2.webp"},
+    }, image: "/poi-images/jacqueville-colonial-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Jacqueville was a premier 19th-century coastal trade post, gaining fame during the 'Palma Christ' (palm oil) era. Named after the first British ship to trade there, the town became a wealthy center for the Alladian people, who acted as intermediaries between European merchants and the interior. The historic quarter is filled with grand, decaying 'style colonial' mansions built by wealthy local traders and European agents. Jacqueville's decline as a port began with the opening of the Vridi Canal in Abidjan, but it remains a significant site for understanding the era of 'informal empire' and maritime lagoon trade. History K8 — the 19th-century palm oil trade."
+    },
+    factsAdvanced: {
+      en: ["Named after a 19th-century British trading vessel", "Major hub for the Victorian-era palm oil trade", "Significant historical center for the Alladian people", "Features grand 'style colonial' merchant mansions", "Key 19th-century maritime gateway to the interior", "Located on a strategic peninsula between sea and lagoon", "Symbol of the pre-Abidjan maritime economy", "Historic center for the regional coconut industry"]
+    }
+  },
   {
     id: "agboville-abbey-revolt-history-v2",
     type: "historical",
@@ -384,7 +558,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Felkelés a kényszermunka ellen 1910-ben", "Az Abbey nép központja", "Korai vasúti kapcsolat", "Agnéby-Tiassa fővárosa"],
       ro: ["Revolta împotriva muncii forțate din 1910", "Centrul populației Abbey", "Conexiune feroviară timpurie", "Capitala regiunii Agnéby-Tiassa"],
       en: ["Revolt against forced labor in 1910", "Center of the Abbey people", "Early railway connection", "Capital of Agnéby-Tiassa"]
-    }, image: "/poi-images/agboville-abbey-revolt-history-v2.webp"},
+    }, image: "/poi-images/agboville-abbey-revolt-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Agboville is historically renowned for the 1910 Abbey Revolt, one of the most significant anti-colonial uprisings in Ivory Coast. The Abbey people rose up against the forced labor and harsh taxes imposed by the French colonial administration during the construction of the Abidjan-Niger railway. The rebellion was brutally suppressed but became a powerful symbol of Ivorian resistance and ethnic solidarity. Agboville's early growth as a railway town was built on this turbulent history, and it remains a heartland of the Abbey people, preserving the memory of their struggle for dignity and independence. History K8 — anti-colonial uprisings."
+    },
+    factsAdvanced: {
+      en: ["Site of the major 1910 Abbey Revolt", "Center of resistance against colonial forced labor", "Historically significant heartland of the Abbey people", "Major hub on the early Abidjan-Niger railway", "Symbol of Ivorian anti-colonial struggle", "Significant colonial administrative and military post", "Capital of the Agnéby-Tiassa Region", "Located in the strategic southeastern forest zone"]
+    }
+  },
   {
     id: "dimbokro-historic-viaduct-history-v2",
     type: "historical",
@@ -397,7 +578,14 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["1910-es viadukt", "Átível az N'Zi folyón", "Abidjan-Niger vasútvonal", "Egy gyarmatellenes tüntetés helyszíne 1950-ben"],
       ro: ["Viaduct din 1910", "Se întinde pe râul N'Zi", "Calea ferată Abidjan-Niger", "Locul unui protest anticolonial în 1950"],
       en: ["Viaduct from 1910", "Spans the N'Zi River", "Abidjan-Niger railway line", "Site of an anti-colonial protest in 1950"]
-    }, image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp"},
+    }, image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Dimbokro is home to one of the most impressive feats of colonial engineering in Ivory Coast: the N'Zi River Viaduct. Built in the early 20th century as part of the Abidjan-Niger railway, this massive steel and masonry bridge allowed the train to cross the deep river valley and open up the central regions. Dimbokro developed as a vital railway hub and a center for the cotton and cocoa trade. The viaduct remains an iconic landmark, symbolizing the technological ambitions of the colonial era and the town's enduring role as a key logistics node in the heart of the country. History K8 — colonial engineering and logistics."
+    },
+    factsAdvanced: {
+      en: ["Home to the iconic N'Zi River railway viaduct", "Major early 20th-century railway hub", "Key center for the central Ivorian cotton trade", "Significant administrative post in the Baoulé heartland", "Located at the strategic crossing of the N'Zi River", "Classic example of French colonial steel engineering", "Capital of the N'Zi Region", "Symbol of the technological opening of the interior"]
+    }
+  },
   {
     id: "gagnoa-bete-center-history-v2",
     type: "historical",
@@ -410,6 +598,12 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Bété nép központja", "Politikai válságok színtere (1970-es évek)", "Egykori gyarmati közigazgatási központ", "A Gôh régió fővárosa"],
       ro: ["Centrul poporului Bété", "Scena crizelor politice (anii 1970)", "Fost centru administrativ colonial", "Capitala regiunii Gôh"],
       en: ["Center of the Bété people", "Scene of political crises (1970s)", "Former colonial administrative center", "Capital of Gôh region"]
+    },
+    descriptionAdvanced: {
+      en: "Gagnoa is the historic heartland of the Bété people and a significant center for Ivorian political and cultural history. The city played a critical role in the 1970 Gagnoa Revolt (the 'Kragbé Gnagbé' affair), a major challenge to the early post-independence government. Historically, Gagnoa was an important colonial administrative center for the Gôh region, facilitating the expansion of cocoa farming into the western forests. The city remains a bastion of Bété culture, music, and political thought, representing a proud and often defiant regional identity within the fabric of the Ivorian nation. History K8 — post-independence political movements."
+    },
+    factsAdvanced: {
+      en: ["Ancestral center of the Bété ethnic group", "Site of the 1970 Kragbé Gnagbé political revolt", "Major colonial administrative post in the central-west", "Key hub for the expansion of the western cocoa belt", "Symbol of Bété cultural and political identity", "Hometown of many prominent Ivorian leaders", "Significant regional cultural capital", "Located in the heart of the fertile Gôh Region"]
     }
   }
 ];

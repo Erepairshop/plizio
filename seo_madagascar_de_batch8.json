@@ -1,0 +1,310 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "descriptionAdvanced": "Das Forstresservat Tampolo, nördlich von Fenoarivo Atsinanana (Fénérive Est), ist ein kostbares Fragment des madagassischen Küstenwaldes (Forêt littorale), der zu den am stärksten bedrohten Ökosystemen der Insel gehört. Es liegt auf sandigen Böden direkt hinter den Stränden des Indischen Ozeans. Der dichte, von endemischen Palmen und Orchideen dominierte Wald bietet Lebensraum für Lemuren, Fledermäuse und seltene Vogelarten. Das Reservat wird oft von der lokalen Universität als Freiluftlabor genutzt und dient als wichtiger Puffer gegen die Stürme, die vom Ozean her auf das Festland treffen. Biologie K6 — Bedrohte Küstenwälder.",
+      "factsAdvanced": [
+        "Seltenes intaktes Relikt des madagassischen Küstenwaldes (Forêt littorale)",
+        "Wächst auf extrem nährstoffarmen, sandigen Böden direkt an der Ostküste",
+        "Wird als Forschungs- und Freiluftlabor der Universität Antananarivo genutzt",
+        "Beherbergt hochgradig spezialisierte, endemische Palmen- und Orchideenarten",
+        "Dient als natürliche Schutzbarriere gegen tropische Wirbelstürme",
+        "Massiv bedroht durch illegalen Holzeinschlag und Sandabbau"
+      ]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "descriptionAdvanced": "Der Nebelwald von Ranomafana ist weltberühmt für seine unglaubliche Amphibien-Vielfalt, insbesondere die unzähligen Arten von Madagaskarfröschen (Mantellidae). Bei Nachtführungen entlang kleiner Bäche im dichten Unterholz offenbart sich die wahre Magie des Waldes: Bunte, giftige Baumfrösche und winzige Blättchenfrösche rufen in einem ohrenbetäubenden Chor. Madagaskar hat eine fast hundertprozentige Endemismusrate bei Amphibien. Der Schutz dieses nassen, bergigen Lebensraums ist essenziell, da Frösche extrem empfindlich auf Klimaveränderungen und Umweltverschmutzung reagieren. Biologie K7 — Amphibien und Nachtökologie.",
+      "factsAdvanced": [
+        "Nebelwald von Ranomafana bietet perfekte Bedingungen für Amphibien",
+        "Heimat von über 100 endemischen Froscharten (v.a. Mantellidae)",
+        "Nachtwanderungen sind die beste Möglichkeit, die Frösche zu beobachten",
+        "Beherbergt winzige, extrem farbenprächtige und teils giftige Baumfrösche",
+        "Amphibien hier weisen eine Endemismusrate von fast 100 % auf",
+        "Frösche dienen als wichtige Bioindikatoren für die Gesundheit des Regenwaldes"
+      ]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "descriptionAdvanced": "Der Complexe Mère et Enfant (früher oft als kleiner städtischer Zoo von Mahajanga bezeichnet) und das nahegelegene Reniala-Naturreservat bieten Besuchern, die nicht tief in den Busch reisen können, einen Einblick in die lokale Fauna. Hier finden sich oft beschlagnahmte Reptilien, Krokodile und Lemuren aus illegalem Handel. Die wahre Attraktion für Naturfreunde um Mahajanga sind jedoch nicht die Gehege, sondern die freilebenden Vögel und Sifakas in den umliegenden Wäldern wie dem Ankarafantsika-Park. Gehege in der Stadt dienen oft primär der Umweltbildung für Schulklassen. Biologie K5 — Umweltbildung und Tierschutz.",
+      "factsAdvanced": [
+        "Städtische Gehege dienen oft der Unterbringung beschlagnahmter Wildtiere",
+        "Fokus liegt auf Krokodilen, Strahlenschildkröten und kleinen Lemuren",
+        "Primärer Zweck ist die Umweltbildung für einheimische madagassische Kinder",
+        "Zeigt die Problematik des illegalen Wildtierhandels auf Madagaskar auf",
+        "Ergänzt durch das Reniala-Baobab-Reservat in der näheren Umgebung",
+        "Dient als erster Berührungspunkt der Stadtbevölkerung mit wilden Tieren"
+      ]
+    },
+    {
+      "id": "tsaratanana-nature-v2",
+      "descriptionAdvanced": "Das Tsaratanana-Massiv im Norden ist das höchste Gebirge Madagaskars, gekrönt vom Berg Maromokotro (2.876 m). Es ist ein isoliertes, vulkanisches Gebirge, das sich abrupt aus der umliegenden Ebene erhebt. Wegen seiner extrem steilen Hänge, tiefen Schluchten und des dichten Urwaldes an den Flanken ist es eines der am wenigsten erforschten Gebiete der Insel. Die dichte Bewaldung fängt die Monsunwolken ab, was das Massiv zum wichtigsten Wasserspeicher für den trockeneren Westen (wie den Sambirano-Fluss) macht. Geografie K7 — Hochgebirge und Wasserscheiden.",
+      "factsAdvanced": [
+        "Höchstes Gebirgsmassiv Madagaskars vulkanischen Ursprungs",
+        "Beherbergt den höchsten Gipfel der Insel, den Maromokotro (2.876 m)",
+        "Extrem isoliert, schwer zugänglich und wissenschaftlich wenig erforscht",
+        "Fängt die Passatwinde ab und bildet die wichtigste regionale Wasserscheide",
+        "Speist große Flüsse wie den Mahavavy und den Sambirano",
+        "Naturreservat Tsaratanana ist streng geschützt und oft für Touristen gesperrt"
+      ]
+    },
+    {
+      "id": "masoala-nature-v2",
+      "descriptionAdvanced": "Die Masoala-Halbinsel im äußersten Nordosten ist ein unberührtes Naturparadies und das letzte intakte, von den Bergen bis an den Ozean reichende Regenwaldgebiet Madagaskars. Es ist berühmt für das Aufeinandertreffen von extrem feuchtem Urwald und dem Meer, wo oft Lemuren in Bäumen direkt am Strand beobachtet werden können. Dieses UNESCO-Weltnaturerbe ist der Lebensraum des seltenen Rote-Vari-Lemuren, unzähliger fleischfressender Pflanzen und des Madagaskar-Taggeckos. Masoala verzeichnet die höchsten Niederschlagsmengen der ganzen Insel. Biologie K8 — Primärregenwald und marine Schutzgebiete.",
+      "factsAdvanced": [
+        "Größter Nationalpark Madagaskars, schützt den primären Tieflandregenwald",
+        "Einziger Ort der Insel, wo der Regenwald intakt bis an das Meer heranreicht",
+        "Teil des UNESCO-Weltnaturerbes der Atsinanana-Regenwälder",
+        "Einziger Lebensraum des leuchtend roten Vari-Lemuren",
+        "Verzeichnet die höchsten jährlichen Niederschlagsmengen (bis zu 4000 mm)",
+        "Marine Schutzgebiete vor der Küste schützen Korallenriffe und Buckelwale"
+      ]
+    },
+    {
+      "id": "tsingy-bemaraha-nature-v2",
+      "descriptionAdvanced": "Die geologische Formation der Tsingy de Bemaraha ist ein Labyrinth aus Kalkstein. Einst ein flaches Korallenriff am Grund des Urmeeres, wurde das Gestein durch tektonische Hebung an die Oberfläche gedrückt und von saurem Regenwasser über Millionen Jahre zu messerscharfen, tief gespaltenen Steinnadeln erodiert. Die bis zu 100 Meter tiefen Canyons am Grunde der Tsingy bewahren feuchte Mikroklimate, in denen sich isolierte Miniatur-Wälder gebildet haben. Die Landschaft ist eine der unwirtlichsten und gleichzeitig faszinierendsten Karstregionen der Erde. Geografie K8 — Karstgeologie und Erosion.",
+      "factsAdvanced": [
+        "Weltgrößter «Steinwald» aus scharfen Kalksteinnadeln (Karst)",
+        "Entstand durch tektonische Hebung eines alten Korallenriffs",
+        "Jahrtausendelange Erosion durch Monsunregen schuf die heutigen Klingen",
+        "Tiefe Canyons bilden feuchte Mikro-Ökosysteme inmitten der trockenen Region",
+        "Name «Tsingy» heißt: ein Ort, an dem man nicht barfuß gehen kann",
+        "Gilt geologisch als eines der außergewöhnlichsten Karstphänomene weltweit"
+      ]
+    },
+    {
+      "id": "lake-alaotra-nature-v2",
+      "descriptionAdvanced": "Der Alaotra-See (Farihy Alaotra) ist der größte See Madagaskars und liegt in einem weiten tektonischen Graben im zentralen Hochland (Region Alaotra-Mangoro). Der flache See ist von riesigen Schilf- und Papyrussümpfen umgeben, die das weltweit einzige Habitat für den extrem bedrohten Alaotra-Bambuslemuren (Hapalemur alaotrensis) bilden. Er ist auch die Reiskammer des Landes. Allerdings bedrohen massive Entwaldung in den umliegenden Hügeln und die daraus resultierende Bodenerosion den See: Er verschlammt zusehends und droht auf lange Sicht zu verlanden. Geografie K7 — Feuchtgebiete und Bodenerosion.",
+      "factsAdvanced": [
+        "Größter See Madagaskars, gelegen in einem tektonischen Grabenbruch",
+        "Extrem flaches Gewässer, umgeben von dichten Papyrus-Sümpfen",
+        "Einzigartiger Lebensraum des endemischen Alaotra-Bambuslemuren",
+        "Wichtigstes und produktivstes Reisanbaugebiet des Landes",
+        "Bedroht durch massive Verschlammung und Verlandung aufgrund von Erosion",
+        "Ernährt durch Fischfang und Landwirtschaft zehntausende Familien"
+      ]
+    },
+    {
+      "id": "lokobe-nature-v2",
+      "descriptionAdvanced": "Das Lokobe-Naturreservat (Lokobe Strict Nature Reserve) ist das letzte verbliebene zusammenhängende Stück Tiefland-Primärwald auf der Insel Nosy Be. Im Gegensatz zum Rest der stark entwaldeten Insel bietet Lokobe ein intaktes Tropenwald-Ökosystem, das direkt bis zur Küste reicht. Es ist die Heimat des berühmten schwarzen Lemuren (Macaco) und zahlreicher Reptilien, darunter der extrem seltene Blattschwanzgecko, der fast unsichtbar auf der Rinde von Bäumen ruht. Der Park kann oft nur mit traditionellen Pirogen über das Meer erreicht werden, was seine Isolation schützt. Biologie K6 — Inselepidemismus und Primärwald.",
+      "factsAdvanced": [
+        "Letztes geschütztes Gebiet mit ursprünglichem Primärwald auf Nosy Be",
+        "Wald reicht an der Südostküste der Insel direkt an den Ozean heran",
+        "Wichtiger Rückzugsort für den endemischen schwarzen Macaco-Lemuren",
+        "Heimat perfekt getarnter Reptilien wie dem Blattschwanzgecko",
+        "Wird aufgrund fehlender Straßen oft per Piroge (Einbaum) erreicht",
+        "Wichtiger Kontrast zu den stark durch Ylang-Ylang-Plantagen geprägten Zonen"
+      ]
+    },
+    {
+      "id": "nosy-be-nature-v2",
+      "descriptionAdvanced": "Nosy Be, die «Große Insel», liegt vor der Nordwestküste Madagaskars im Kanal von Mosambik. Die Insel ist vulkanischen Ursprungs und übersät mit kleinen Kraterseen (wie dem Lac Amparihibe), die in der Trockenzeit Wasser spenden. Einst komplett mit Dschungel bedeckt, ist die Natur heute stark durch riesige Ylang-Ylang- und Zuckerrohrplantagen geprägt, die der Insel den Namen «Parfüminsel» einbrachten. Trotz der intensiven Landwirtschaft und des Tourismus bewahrt sich Nosy Be eine reiche marine Natur, umgeben von geschützten Korallenriffen und kleinen, unbewohnten Nachbarinseln. Geografie K6 — Vulkaninseln und Agrarökologie.",
+      "factsAdvanced": [
+        "Größte Nebeninsel Madagaskars, vulkanischen Ursprungs",
+        "Im Inneren der Insel befinden sich mehrere alte vulkanische Kraterseen",
+        "Bekannt als «Parfüminsel» wegen der ausgedehnten Ylang-Ylang-Plantagen",
+        "Natur der Insel ist stark durch landwirtschaftliche Nutzung verändert worden",
+        "Besitzt keine endemischen madagassischen Großraubtiere",
+        "Marines Umfeld (Riffe und Nachbarinseln) ist ökologisch hochbedeutend"
+      ]
+    },
+    {
+      "id": "betsiboka-river-nature-v2",
+      "descriptionAdvanced": "Der Betsiboka ist der größte und wasserreichste Fluss im Nordwesten Madagaskars. Er entspringt im zentralen Hochland und mündet in der Bombetoka-Bucht bei Mahajanga. Der Fluss ist berühmt (und berüchtigt) für seine tiefrote Farbe. Diese Farbe stammt vom eisenhaltigen Lateritboden, der durch massive Entwaldung im Hochland in Form gigantischer Erosionsrinnen (Lavaka) abgewaschen wird. Astronauten bezeichnen die Flussmündung aus dem All oft so, als würde «Madagaskar ausbluten». Der Betsiboka veranschaulicht drastisch die dramatischen ökologischen Folgen der Brandrodung. Geografie K8 — Flusssysteme und Erosion.",
+      "factsAdvanced": [
+        "Größter Fluss im Nordwesten, mündet in die Bombetoka-Bucht",
+        "Bekannt für sein blutrotes Wasser durch extremen Laterit-Eintrag",
+        "Symbolisiert weltweit die massiven Bodenerosions-Probleme Madagaskars",
+        "Laterit (roter Lehmboden) wird durch Abholzung in den Fluss gespült",
+        "Mündung ist ein gigantisches Delta mit ständig wachsenden Mangrovenwäldern",
+        "Fluss führt gewaltige Wassermengen während der Sommer-Regenzeit"
+      ]
+    },
+    {
+      "id": "tsiribihina-river-nature-v2",
+      "descriptionAdvanced": "Der Tsiribihina ist ein mächtiger Fluss an der madagassischen Westküste. Sein Wasser gräbt sich aus dem Hochland durch die Kalksteinplateaus des Bemaraha-Massivs und bildet tiefe, dramatische Schluchten (Gorges de la Tsiribihina). Die Ufer sind von Baobab-Bäumen, dichten Laubwäldern und Galeriewäldern gesäumt, die Sifakas, Flughunden und unzähligen Krokodilen Lebensraum bieten. Der Fluss ist berühmt für mehrtägige Kanu- und Flusskreuzfahrten. Nahe der Küste fächert sich der Fluss in ein riesiges, flaches Delta voller Lagunen und Mangroven auf. Geografie K6 — Flusslandschaften und Fließgewässer.",
+      "factsAdvanced": [
+        "Mächtiger Fluss, der das zentrale Hochland mit der Westküste verbindet",
+        "Hat sich tief in das Kalksteinplateau geschnitten (Tsiribihina-Schlucht)",
+        "Bekannt für eine sehr große Population an Nilkrokodilen",
+        "Ufer werden von Galeriewäldern und riesigen Affenbrotbäumen gesäumt",
+        "Mündet in ein breites, fruchtbares Delta südlich von Belo sur Tsiribihina",
+        "Beliebteste Route für mehrtägige touristische Flussexpeditionen"
+      ]
+    },
+    {
+      "id": "mangoky-river-nature-v2",
+      "descriptionAdvanced": "Der Mangoky-Fluss ist mit fast 800 Kilometern der längste Fluss Madagaskars. Er entspringt im zentralen Hochland in der Nähe von Fianarantsoa und fließt westwärts in den Kanal von Mosambik nördlich von Toliara. Der Mangoky durchquert extrem trockene, oft halbwüstenartige Regionen. Sein Wasser ist die absolute Lebensader für den Reisanbau und Baumwollplantagen im Südwesten. An der Mündung hat der Fluss ein gigantisches, sich ständig veränderndes Delta voller Mangroven und Sandbänke gebildet, das reich an Krustentieren und Seevögeln ist. Geografie K7 — Wüstenflüsse und Deltas.",
+      "factsAdvanced": [
+        "Der längste Fluss Madagaskars (ca. 821 Kilometer lang)",
+        "Durchschneidet die heißen und trockenen Savannen des Südwestens",
+        "Lebensader für ausgedehnte Reisfelder und Baumwollplantagen im Westen",
+        "Führt gewaltige Mengen an erodiertem Sand in den Kanal von Mosambik",
+        "Delta ist eines der größten Mangroven-Ökosysteme der Insel",
+        "Flusslauf verändert sich in der Ebene häufig während der Regenzeit"
+      ]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "descriptionAdvanced": "Der Itasy-See ist der drittgrößte See Madagaskars und liegt in einer malerischen Hochebene westlich der Hauptstadt. Im Gegensatz zu vielen anderen Seen der Insel ist der Itasy vulkanischen Ursprungs: Er entstand, als ein Lavastrom ein Tal blockierte und das Wasser staute. Die dunklen, fruchtbaren Böden um den See machen die Itasy-Region zu einem der produktivsten Agrargebiete für Obst und Gemüse. Der See ist auch für die spektakulären Chutes de la Lily (Lilien-Wasserfälle) in der Nähe bekannt und bei Anglern berühmt für große Buntbarsche. Geografie K6 — Vulkanische Seen.",
+      "factsAdvanced": [
+        "Drittgrößter See des Landes, gelegen im vulkanischen Zentrum (Itasy)",
+        "Entstand durch einen Lavastrom, der einen natürlichen Staudamm bildete",
+        "Umgebung ist durch fruchtbare dunkle Vulkanerde geprägt",
+        "Sehr reich an Fischbeständen, insbesondere eingeführten Buntbarschen (Tilapia)",
+        "Landschaft um den See ist von zahlreichen erloschenen Vulkankratern umgeben",
+        "Wichtiges Naherholungs- und Agrargebiet für Antananarivo"
+      ]
+    },
+    {
+      "id": "ankarafantsika-nature-v2",
+      "descriptionAdvanced": "Die Natur von Ankarafantsika im Nordwesten ist eine faszinierende Mischung aus Trockenwald, weiten Canyons aus buntem Sandstein (wie der Lavaka von Ankarokaroka) und großen Seen. Dieser Kontrast macht das Gebiet ökologisch extrem wertvoll. Während der Wald im Sommer monatelang völlig austrocknet und die Bäume ihre Blätter abwerfen, konzentriert sich das Leben rund um den Ravelobe-See. Die Geologie mit ihren tiefen, durch Erosion geschaffenen roten und weißen Schluchten zeigt eindrucksvoll die zerstörerische und zugleich formende Kraft des madagassischen Klimas. Geografie K7 — Trockenwälder und Canyons.",
+      "factsAdvanced": [
+        "Trockenwald-Ökosystem in der trockenen und heißen Region Boeny",
+        "Bäume werfen in der langen Trockenzeit ihr gesamtes Laub ab",
+        "Besitzt spektakuläre, farbige Sandstein-Canyons (Ankarokaroka)",
+        "Canyons entstanden durch massive, lang anhaltende Bodenerosion",
+        "Landschaft wird durch große Binnenseen (wie Ravelobe) aufgelockert",
+        "Wichtiger Zufluchtsort für Reptilien und Lemuren im Nordwesten"
+      ]
+    },
+    {
+      "id": "andringitra-nature-v2",
+      "descriptionAdvanced": "Das Andringitra-Massiv im südlichen Hochland ist eines der dramatischsten Gebirge Madagaskars, mit dem zweithöchsten Gipfel, dem Pic Boby (Imarivolanitra, 2.658 m). Die Landschaft ist alpin und geprägt von massiven Granitwänden, tiefen Tälern und hochgelegenen Plateaus. Die klimatischen Bedingungen sind extrem; in den madagassischen Wintermonaten fallen die Temperaturen nachts regelmäßig unter den Gefrierpunkt, was auf Madagaskar sehr selten ist. Das raue Hochgebirgsökosystem beheimatet eine spezielle Flora (viele Sukkulenten und Aloe-Arten) sowie an Kälte angepasste Tiere. Geografie K8 — Hochgebirgsökologie und Granitmassive.",
+      "factsAdvanced": [
+        "Beherbergt mit dem Pic Boby den zweithöchsten Gipfel Madagaskars",
+        "Massive, steil aufragende Granitfelsen prägen die Landschaft",
+        "Einziger Ort auf Madagaskar, an dem regelmäßig Nachtfrost auftritt",
+        "Alpines Ökosystem mit extrem hoher Rate an lokalen Endemiten",
+        "Wichtige Wasserscheide, die Wasser in den trockenen Süden liefert",
+        "Gilt als das anspruchsvollste und beste Trekkinggebiet der Insel"
+      ]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "descriptionAdvanced": "Die Natur von Ranomafana zeichnet sich durch extrem dichten, bergigen Primärregenwald aus, der sich über die steilen Hänge der Ostküsten-Eschneise legt. Der Wald ist durchzogen von reißenden Bergbächen und Wasserfällen, die durch die ganzjährig hohen Niederschläge gespeist werden. Die Luftfeuchtigkeit liegt fast ständig nahe hundert Prozent. Dieser Nebelwald fängt die feuchten Passatwinde des Indischen Ozeans ein. Moos, Baumfarne, Riesenbambus und Epiphyten bedecken jeden Quadratzentimeter der Bäume und schaffen eine dichte, grüne Wand. Biologie K7 — Bergregenwälder.",
+      "factsAdvanced": [
+        "Bergnebelwald an der steilen Abbruchkante der Ostküste",
+        "Extrem hohe Luftfeuchtigkeit und ganzjährige, starke Niederschläge",
+        "Vegetation ist durchzogen von Farnbäumen, Moosen und Riesenbambus",
+        "Wird von zahlreichen reißenden Bergbächen und Wasserfällen durchquert",
+        "Fängt die Wolken der feuchten Passatwinde des Indischen Ozeans ab",
+        "Der Name Ranomafana bedeutet wörtlich «Heißes Wasser» (Thermalquellen)"
+      ]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "descriptionAdvanced": "Die Natur auf Nosy Komba (zwischen Nosy Be und Ankify) ist typisch für kleine tropische Vulkaninseln. Der höchste Punkt, der Antaninaomby (über 600 m), ist ein erloschener Vulkan. Die steilen Hänge sind dicht mit tropischem Wald und exotischen Obstbäumen bewachsen. Da die Insel keine Straßen oder Autos hat, ist die Natur hier trotz der Besiedlung bemerkenswert ruhig und intakt. Große, schwarze Basaltfelsen säumen die kleinen, weißen Sandstrände, was auf den vulkanischen Ursprung der Landmasse hinweist. Geografie K5 — Vulkanische Nebeninseln.",
+      "factsAdvanced": [
+        "Rundliche, steil aufragende Insel vulkanischen Ursprungs",
+        "Zentraler Berggipfel (Antaninaomby) erreicht 622 Meter Höhe",
+        "Hänge sind von extrem dichtem Tropenwald und Obstbäumen bedeckt",
+        "Küste wird oft von massiven, schwarzen Basaltblöcken gesäumt",
+        "Es gibt keine Autos auf der Insel, was die Luftqualität und Ruhe schützt",
+        "Besitzt keine tiefen natürlichen Süßwasserseen oder großen Flüsse"
+      ]
+    },
+    {
+      "id": "isalo-nature-v2",
+      "descriptionAdvanced": "Die Natur des Isalo-Massivs im Süden Madagaskars wirkt wie aus einer anderen Welt. Das Jura-Sandsteinmassiv wurde über Millionen von Jahren durch Wind und Wasser in tiefe Canyons, Spitzen und Tafelberge erodiert, die stark an den Wilden Westen erinnern. Das Klima ist knochentrocken, doch am Grund der tiefen, schattigen Canyons haben sich durch kleine Flüsse grüne, palmengesäumte Oasen und natürliche, kristallklare Schwimmbecken (Piscines Naturelles) gebildet. Auf den heißen Felsplateaus klammern sich sukkulente Pflanzen wie der kleine Elefantenfuß (Pachypodium) an den nackten Stein. Geografie K7 — Sandstein-Erosion und Canyons.",
+      "factsAdvanced": [
+        "Massiv aus jurassischem Sandstein im trockenen südlichen Madagaskar",
+        "Wind und Wasser schufen tiefe Schluchten, Canyons und Felstürme",
+        "Landschaft gleicht optisch oft einer Wüste im Wilden Westen",
+        "Tiefe, schattige Canyons verbergen kleine Flüsse und palmengesäumte Oasen",
+        "Heiße Felsplateaus sind Lebensraum für extrem trockenheitsresistente Sukkulenten",
+        "Natürliche, kühle Felspools («Piscine Naturelle») sammeln Grundwasser"
+      ]
+    },
+    {
+      "id": "masoala-peninsula-nature-v2",
+      "descriptionAdvanced": "Die Natur der Masoala-Halbinsel ist die wildeste und regenreichste ganz Madagaskars. Der Dschungel hier ist ein klassischer äquatorialer Primärregenwald. Bäume erreichen Höhen von über 35 Metern, ihre Kronen sind dicht geschlossen (Canopy). Masoala ist eines der wenigen Gebiete, wo der Regenwald unvermittelt an einsamen, goldenen Sandstränden endet. Das Meer vor der Halbinsel ist ein wichtiger Schutzraum: In der Bucht von Antongil kalben im Südwinter (Juli bis September) Hunderte von Buckelwalen, die aus der Antarktis hierherziehen. Biologie K8 — Marine Lebensräume und Primärwälder.",
+      "factsAdvanced": [
+        "Größtes zusammenhängendes intaktes Regenwaldgebiet Madagaskars",
+        "Klima ist extrem nass mit heftigen Regenfällen fast das ganze Jahr über",
+        "Baumriesen bilden ein dichtes Kronendach (Canopy) auf über 30 m Höhe",
+        "Wald trifft direkt auf die unberührten Strände des Indischen Ozeans",
+        "Meeresbuchten dienen Buckelwalen als geschütztes Winter-Kinderzimmer",
+        "Ein Drittel aller madagassischen Tierarten kommt allein auf Masoala vor"
+      ]
+    },
+    {
+      "id": "tsingy-namoroka-nature-v2",
+      "descriptionAdvanced": "Die Naturlandschaft von Namoroka im Nordwesten ist eine bizarre Mischung aus Kalkstein-Karst (Tsingy) und umliegenden Baobab-Trockenwäldern. Die Kalksteinnadeln sind hier nicht ganz so hoch wie in Bemaraha, aber das Gelände ist stark zerklüftet und von geheimnisvollen unterirdischen Flüssen durchzogen, die plötzlich in Höhlen verschwinden und andernorts als klare Quellen wieder zutage treten. Die extrem lange Trockenzeit von Mai bis Oktober lässt den Wald fast absterben, bevor er mit den ersten Monsunregen explosionsartig wieder in saftigem Grün erstrahlt. Geografie K7 — Unterirdische Flusssysteme.",
+      "factsAdvanced": [
+        "Karstlandschaft (Tsingy) im extrem trockenen und heißen Nordwesten",
+        "Weniger bekannt und touristisch kaum erschlossen im Vergleich zu Bemaraha",
+        "Durchzogen von großen, noch weitgehend unerforschten Höhlensystemen",
+        "Unterirdische Flüsse bilden die einzige beständige Wasserquelle",
+        "Trockenwald verliert im Südwinter sein Laub komplett",
+        "Umfeld ist gespickt mit alten, dicken Baobab-Bäumen (Affenbrotbäumen)"
+      ]
+    },
+    {
+      "id": "lake-tampolo-nature-v2",
+      "descriptionAdvanced": "Der Tampolo-See in der Nähe von Fenoarivo Atsinanana ist ein klassisches Beispiel für ein madagassisches Ostküsten-Feuchtgebiet (Lac Littoral). Der See liegt nur durch einen extrem schmalen, sandigen Landstreifen und dichten Küstenwald vom Indischen Ozean getrennt. Das Wasser des Sees ist oft braun gefärbt, was auf den hohen Anteil an pflanzlichen Gerbstoffen (Tanninen) aus dem umgebenden Sumpfland zurückzuführen ist. Tampolo ist ein essenzieller Rastplatz für unzählige Wasservögel und ein friedliches, fischreiches Süßwasser-Ökosystem, das dem ständigen Tosen des Meeres trotzt. Geografie K6 — Küstenseen und Feuchtgebiete.",
+      "factsAdvanced": [
+        "Natürlicher Süßwassersee (Lac Littoral) direkt an der Ostküste",
+        "Nur durch einen schmalen Wald- und Sandstreifen vom Ozean getrennt",
+        "Seewasser ist reich an Tanninen und oft rötlich-braun gefärbt",
+        "Ufer sind stark von dichten Wasserpflanzen und Pandanus gesäumt",
+        "Wichtiges Biotop für Enten, Reiher und andere Wasservögel",
+        "Gefährdet durch den steigenden Meeresspiegel und Küstenerosion"
+      ]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "descriptionAdvanced": "Die Küste rund um Mahajanga ist stark geprägt von der massiven Mündung (Delta) des Betsiboka-Flusses. Das warme, trübe, rötlich gefärbte Flusswasser mischt sich hier mit dem Salzwasser des Mosambik-Kanals. Dieser Nährstoffreichtum hat die Entstehung gewaltiger Mangrovenwälder ermöglicht, die wie ein grünes Labyrinth die Küstenlinie schützen. Die Mangroven dienen als Kinderstube für unzählige Fisch- und Garnelenarten, die den Reichtum der Region begründen. Die roten Strände und weiten Schlickbänke (Mudflats) bei Ebbe sind ein Paradies für watende Seevögel. Biologie K7 — Mangrovenökologie und Flussdeltas.",
+      "factsAdvanced": [
+        "Küste ist geprägt vom gewaltigen roten Mündungsdelta des Betsiboka",
+        "Verfügt über einige der größten zusammenhängenden Mangrovenwälder Madagaskars",
+        "Mangroven sind die wichtigste «Kinderstube» für kommerzielle Shrimps",
+        "Wasser ist an der Küste selten klar, sondern oft lateritrot getrübt",
+        "Ausgedehnte Schlickbänke (Mudflats) fallen bei Ebbe kilometerweit trocken",
+        "Rote Sandstrände (wie der Cirque Rouge) prägen die Küstenformation"
+      ]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "descriptionAdvanced": "Die Natur der schmalen, langgestreckten Insel Île Sainte-Marie (Nosy Boraha) an der Ostküste ist üppig, grün und extrem feucht. Die Insel besitzt im Gegensatz zu Nosy Be keine nennenswerten Berge, sondern kleine Hügel, die mit Kokospalmen, Gewürznelkenbäumen und Resten von Küstenwald bedeckt sind. Vor der Küste erstrecken sich ausgedehnte Korallenriffe, und das seichte Wasser zwischen der Insel und dem Festland ist warm und geschützt. Genau diese geschützte Lage macht die Meerenge zum perfekten Kalbungsort für riesige Gruppen antarktischer Buckelwale im Südwinter. Geografie K6 — Tropische Inseln und Wale.",
+      "factsAdvanced": [
+        "Schmale, über 50 km lange Insel an der stürmischen Ostküste",
+        "Landschaft ist relativ flach, dicht bewachsen und extrem niederschlagsreich",
+        "Insel ist umgeben von dichten Korallenriffen und Seegraswiesen",
+        "Geschützte Meerenge zum Festland ist ein globales Schutzgebiet für Buckelwale",
+        "Flora wird dominiert von Kokospalmen, Vanille- und Nelkenplantagen",
+        "Oft erstes Opfer von schweren tropischen Zyklonen aus dem Indischen Ozean"
+      ]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "descriptionAdvanced": "Das Delta des Tsiribihina-Flusses an der Westküste ist eine flache, endlose Weite aus Wasserarmen, Sümpfen und extrem dichten Mangrovenwäldern, die in den Kanal von Mosambik fließen. Das Delta ist ständig im Wandel, da sich die Sandbänke nach jeder Regenzeit verschieben. Diese flachen, nährstoffreichen Gewässer sind ein unschätzbares Habitat für Fische und den extrem bedrohten Dugong (Seekuh). Ohne Straßennetz bewegen sich die Einheimischen (Vezo) hier fast ausschließlich in winzigen Auslegerkanus durch das komplexe Labyrinth der Mangrovenwurzeln. Geografie K6 — Flussmündungen und Mangroven.",
+      "factsAdvanced": [
+        "Riesiges, sich ständig veränderndes Flussdelta an der Westküste",
+        "Landschaft besteht aus einem Labyrinth von Wasserarmen und Mangroven",
+        "Nährstoffreiches Wasser bildet die Grundlage für eine reiche Garnelenfauna",
+        "Lebensraum für die seltene, extrem gefährdete madagassische Seekuh (Dugong)",
+        "Delta verschiebt seine Sandbänke radikal mit jedem Sommer-Monsun",
+        "Fast unzugänglich über Land, Transport erfolgt nur über winzige Boote"
+      ]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "descriptionAdvanced": "Der Tsimanampetsotsa-See im tiefen Südwesten ist ein geologisches und ökologisches Kuriosum: Er ist ein flacher, stark salzhaltiger (alkalischer) Binnensee, der keinen Abfluss zum Meer hat. Wegen des hohen Sulfatgehalts und der milchig-weißen Farbe leben in ihm keine Fische, jedoch wimmelt das Wasser von winzigen Salinenkrebsen. Diese Krebse locken im madagassischen Winter riesige Schwärme von leuchtend rosa Flamingos an. Umgeben ist der See von massiven Kalksteinklippen und knochentrockenem Dornenwald, aus dem uralte, flaschenförmige Baobabs ragen. Geografie K8 — Alkalische Seen und Wüsten.",
+      "factsAdvanced": [
+        "Stark alkalischer, milchig-weißer Salzsee im tiefen trockenen Südwesten",
+        "Hat keinen natürlichen Abfluss und ist völlig fischfrei",
+        "Wasser wimmelt von Salinenkrebsen und Mikroorganismen",
+        "Zieht große Schwärme von Zwerg- und Rosaflamingos an",
+        "See wird von massiven, unterhöhlten Kalksteinklippen begrenzt",
+        "Umgeben von wüstenartigem Dornenwald mit massiven Baobab-Bäumen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bujumbura-cities-v2",
+      "descriptionAdvanced": "Bujumbura, fosta capitală a statului Burundi, reprezintă inima economică a țării, fiind situată strategic pe malul de est al lacului Tanganyika. Orașul este un centru vibrant unde arhitectura colonială se îmbină cu zonele comerciale moderne, servind drept principal nod pentru schimburile comerciale din regiune. Portul său este esențial pentru importurile și exporturile naționale, facilitând legătura între Burundi și vecinii săi. Geografie K7 — rolul porturilor în economie.",
+      "factsAdvanced": [
+        "Bujumbura este cel mai mare oraș din Burundi.",
+        "Situat la o altitudine de aproximativ 774 metri.",
+        "A fost capitala țării până în anul 2019.",
+        "Portul său pe lacul Tanganyika este vital pentru transportul de mărfuri.",
+        "Orașul găzduiește sediile majorității companiilor naționale.",
+        "Fondată inițial ca un mic sat pescăresc înainte de perioada colonială."
+      ]
+    },
+    {
+      "id": "gitega-cities-v2",
+      "descriptionAdvanced": "Gitega, actuala capitală politică a Burundi, este situată în zona centrală a țării, într-o regiune deluroasă caracterizată prin peisaje verzi și un climat temperat. Orașul joacă un rol central în administrația statului, fiind ales pentru a descentraliza puterea politică și a stimula dezvoltarea regiunilor interioare. Gitega este un punct important pentru istoria monarhică a Burundi, păstrând numeroase tradiții culturale. Istorie K8 — dezvoltarea capitalelor administrative.",
+      "factsAdvanced": [
+        "Gitega a devenit capitala politică oficială în 2019.",
+        "Situată în inima geografică a țării, la o altitudine mare.",
+        "Centru istoric pentru regii Burundiului, cunoscuți sub numele de Mwami.",
+        "Orașul este înconjurat de plantații de cafea, una dintre principalele resurse.",
+        "Păstrează o atmosferă mai liniștită comparativ cu Bujumbura.",
+        "Gazdă pentru numeroase instituții guvernamentale noi."
+      ]
+    },
+    {
+      "id": "muyinga-cities-v2",
+      "descriptionAdvanced": "Muyinga este un oraș strategic situat în nord-estul Burundi, funcționând ca un hub agricol pentru regiunea înconjurătoare. Datorită altitudinii sale ridicate, climatul este favorabil cultivării diverselor produse agricole, care susțin economia locală și comerțul transfrontalier cu țările vecine. Muyinga reprezintă un exemplu de dezvoltare urbană regională care pune accent pe securitatea alimentară și comerțul cu produse primare. Geografie K6 — economii regionale agricole.",
+      "factsAdvanced": [
+        "Situat în provincia Muyinga, una dintre cele mai nordice regiuni.",
+        "Regiunea este cunoscută pentru agricultura diversificată.",
+        "Funcționează ca punct de tranzit pentru comerțul cu Tanzania.",
+        "Altitudinea ridicată oferă un climat propice culturilor de cereale.",
+        "Orașul este un centru de colectare pentru produsele agricole locale.",
+        "Dezvoltarea orașului este strâns legată de infrastructura rutieră regională."
+      ]
+    },
+    {
+      "id": "ngozi-cities-v2",
+      "descriptionAdvanced": "Ngozi este un oraș important din nordul Burundi, cunoscut pentru rolul său educațional și agricol. Este centrul administrativ al provinciei Ngozi, una dintre cele mai dens populate și productive regiuni din punct de vedere agricol ale țării, unde cultivarea cafelei joacă un rol esențial în bunăstarea economică a populației. Infrastructura orașului s-a dezvoltat pentru a susține serviciile publice și comerțul local. Geografie K7 — densitatea populației și agricultură.",
+      "factsAdvanced": [
+        "Ngozi este capitala provinciei cu același nume.",
+        "Regiunea este un producător major de cafea de export.",
+        "Orașul găzduiește instituții de învățământ de prestigiu.",
+        "Densitate ridicată a populației în zona înconjurătoare.",
+        "Punct cheie pe harta comercială a nordului Burundi.",
+        "Altitudinea medie este propice pentru diverse culturi agricole."
+      ]
+    },
+    {
+      "id": "rumonge-cities-v2",
+      "descriptionAdvanced": "Rumonge, situat pe malul lacului Tanganyika, este un oraș portuar esențial în sud-vestul Burundi. Economia orașului este puternic legată de pescuitul pe lac și de comerțul cu produse agricole, profitând de poziția sa geografică de legătură între zonele rurale productive și piețele urbane mari. Rumonge este un exemplu de localitate portuară care evoluează rapid datorită activităților economice legate de resursele acvatice ale lacului. Geografie K7 — resursele lacurilor și pescuitul comercial.",
+      "factsAdvanced": [
+        "Situat pe coasta estică a lacului Tanganyika.",
+        "Oraș portuar cu activitate intensă de pescuit.",
+        "Centru pentru colectarea și procesarea peștelui din lac.",
+        "Conectat strategic prin drumuri cu zonele agricole din interior.",
+        "Climat tropical specific zonelor joase de pe malul lacului.",
+        "Unul dintre cele mai importante orașe din sudul Burundi."
+      ]
+    },
+    {
+      "id": "brarudi-brauerei-economic-v2",
+      "descriptionAdvanced": "Brarudi este cea mai importantă unitate industrială de producție a băuturilor din Burundi, jucând un rol crucial în economia națională prin contribuția la veniturile fiscale și crearea de locuri de muncă. Situată în principal în Bujumbura, fabrica procesează materii prime locale pentru a produce o gamă largă de băuturi, devenind un simbol al industrializării țării. Activitatea companiei susține întregul lanț de aprovizionare local, de la fermieri la distribuitori. Economie K8 — importanța industrializării.",
+      "factsAdvanced": [
+        "Compania a fost fondată în 1955.",
+        "Este principalul contribuabil la bugetul statului prin accize.",
+        "Producător de bere, băuturi răcoritoare și apă minerală.",
+        "Folosește materii prime agricole locale în procesul de producție.",
+        "O componentă esențială a sectorului industrial din Bujumbura.",
+        "Compania are un impact major asupra distribuției comerciale la nivel național."
+      ]
+    },
+    {
+      "id": "sosumo-zuckerfabrik-economic-v2",
+      "descriptionAdvanced": "Sosumo (Société Sucrière du Moso) este o companie de stat responsabilă cu producția de zahăr în regiunea Moso din Burundi. Aceasta joacă un rol strategic în asigurarea securității alimentare a țării și în dezvoltarea infrastructurii industriale rurale, procesând trestia de zahăr cultivată pe scară largă în zonă. Fabrica susține mii de locuri de muncă directe și indirecte, fiind pilonul economic al provinciei Ruyigi. Economie K7 — industrii de procesare a resurselor agricole.",
+      "factsAdvanced": [
+        "Situată în provincia Ruyigi, în regiunea fertilă Moso.",
+        "Principalul producător de zahăr din Burundi.",
+        "Joacă un rol cheie în economia rurală și dezvoltarea regiunii.",
+        "Procesează trestie de zahăr cultivată în zonele limitrofe.",
+        "Compania este esențială pentru reducerea dependenței de importurile de zahăr.",
+        "Sosumo a fost înființată pentru a valorifica potențialul agricol al văii Moso."
+      ]
+    },
+    {
+      "id": "gitega-national-museum-history-v2",
+      "descriptionAdvanced": "Muzeul Național din Gitega este cea mai importantă instituție culturală dedicată păstrării istoriei și tradițiilor poporului burundez. Acesta găzduiește o colecție vastă de artefacte care ilustrează perioada monarhică, viața cotidiană din trecut și meșteșugurile tradiționale, oferind vizitatorilor o privire detaliată asupra identității naționale. Muzeul joacă un rol educativ vital, fiind punctul central pentru cercetarea patrimoniului istoric al țării. Istorie K6 — patrimoniul cultural și muzee.",
+      "factsAdvanced": [
+        "Muzeul a fost fondat în 1955 în Gitega.",
+        "Deține artefacte unice din epoca monarhiei (Mwami).",
+        "Colecția include instrumente muzicale, unelte și obiecte de uz casnic.",
+        "Este centrul principal pentru conservarea istoriei Burundiului.",
+        "Joacă un rol activ în educația culturală a tinerilor.",
+        "Sălile muzeului prezintă tranziția istorică a societății burundeze."
+      ]
+    },
+    {
+      "id": "livingstone-stanley-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Livingstone-Stanley din Mugere, situat aproape de Bujumbura, comemorează întâlnirea istorică din 1871 dintre exploratorii David Livingstone și Henry Morton Stanley. Acest loc marchează un moment cheie în istoria explorării europene a Africii Centrale, fiind un punct de reper pentru istorici și turiști. Monumentul nu doar că amintește de acest eveniment, dar oferă și o perspectivă asupra interacțiunilor culturale și geografice din acea perioadă a secolului al XIX-lea. Istorie K7 — explorări geografice.",
+      "factsAdvanced": [
+        "Evenimentul a avut loc pe 25 noiembrie 1871.",
+        "Cei doi exploratori au cartografiat zona lacului Tanganyika.",
+        "Monumentul este situat la aproximativ 12 km de Bujumbura.",
+        "David Livingstone a fost un explorator și misionar britanic celebru.",
+        "Henry Morton Stanley este faimos pentru căutarea lui Livingstone.",
+        "Locul este o destinație turistică și istorică semnificativă."
+      ]
+    },
+    {
+      "id": "gitega-royal-palace-history-v2",
+      "descriptionAdvanced": "Palatul Regal din Gitega a fost centrul puterii monarhice a statului Burundi, simbolizând continuitatea și autoritatea regilor, cunoscuți sub numele de Mwami. De-a lungul istoriei, acest loc a găzduit evenimente politice și ceremonii tradiționale esențiale pentru structura socială a țării, fiind un reper arhitectural și istoric major. Deși monarhia s-a încheiat, situl rămâne o mărturie a epocii în care Burundi era condus de structuri de putere tradiționale. Istorie K8 — sisteme politice tradiționale.",
+      "factsAdvanced": [
+        "A servit drept reședință a regilor (Mwami) Burundiului.",
+        "Reprezintă simbolul puterii tradiționale pre-coloniale.",
+        "Arhitectura sa este specifică stilului palatelor regale burundeze.",
+        "Gitega a fost capitala regală a țării pentru mulți ani.",
+        "Situl este încărcat de semnificații culturale și politice.",
+        "Păstrează urmele tradițiilor de guvernare burundeză."
+      ]
+    }
+  ]
+}

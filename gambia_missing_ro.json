@@ -1,0 +1,802 @@
+[
+  {
+    "id": "brikama-cities-v2",
+    "name": "Brikama",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "bakau-cities-v2",
+    "name": "Bakau",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "farafenni-cities-v2",
+    "name": "Farafenni",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "soma-cities-v2",
+    "name": "Soma",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "basse-santa-su-cities-v2",
+    "name": "Basse Santa Su",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "janjanbureh-cities-v2",
+    "name": "Janjanbureh",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "bansang-cities-v2",
+    "name": "Bansang",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "barra-cities-v2",
+    "name": "Barra",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "gunjur-cities-v2",
+    "name": "Gunjur",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "sukuta-cities-v2",
+    "name": "Sukuta",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "brufut-cities-v2",
+    "name": "Brufut",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "tanji-cities-v2",
+    "name": "Tanji",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kerewan-cities-v2",
+    "name": "Kerewan",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "mansa-konko-cities-v2",
+    "name": "Mansa Konko",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kartong-cities-v2",
+    "name": "Kartong",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kaur-cities-v2",
+    "name": "Kaur",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kuntaur-cities-v2",
+    "name": "Kuntaur",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "bwiam-cities-v2",
+    "name": "Bwiam",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "sibanor-cities-v2",
+    "name": "Sibanor",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "busumbala-cities-v2",
+    "name": "Busumbala",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "bijilo-cities-v2",
+    "name": "Bijilo",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kololi-cities-v2",
+    "name": "Kololi",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kanifing-cities-v2",
+    "name": "Kanifing",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "bundung-cities-v2",
+    "name": "Bundung",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "tallinding-cities-v2",
+    "name": "Tallinding",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "fajikunda-cities-v2",
+    "name": "Fajikunda",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "dippa-kunda-cities-v2",
+    "name": "Dippa Kunda",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "abuko-cities-v2",
+    "name": "Abuko",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "batokunku-cities-v2",
+    "name": "Batokunku",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "tujereng-cities-v2",
+    "name": "Tujereng",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kalagi-cities-v2",
+    "name": "Kalagi",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "faraba-banta-cities-v2",
+    "name": "Faraba Banta",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "yundum-cities-v2",
+    "name": "Yundum",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "kotu-cities-v2",
+    "name": "Kotu",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "manjai-kunda-cities-v2",
+    "name": "Manjai Kunda",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "bakoteh-cities-v2",
+    "name": "Bakoteh",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "old-jeshwang-cities-v2",
+    "name": "Old Jeshwang",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "new-jeshwang-cities-v2",
+    "name": "New Jeshwang",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "ebo-town-cities-v2",
+    "name": "Ebo Town",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "latri-kunda-cities-v2",
+    "name": "Latri Kunda",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "albreda-cities-v2",
+    "name": "Albreda",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "juffureh-cities-v2",
+    "name": "Juffureh",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "garowol-cities-v2",
+    "name": "Garowol",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "koina-cities-v2",
+    "name": "Koina",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "sabi-cities-v2",
+    "name": "Sabi",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "gambissara-cities-v2",
+    "name": "Gambissara",
+    "file": "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  },
+  {
+    "id": "sarro-groundnut-plant-economic-v2",
+    "name": "Sarro Groundnut Processing Plant",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "banjul-breweries-economic-v2",
+    "name": "Banjul Breweries (JulBrew)",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "gambia-milling-corp-economic-v2",
+    "name": "Gambia Milling Corporation",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "brikama-power-station-economic-v2",
+    "name": "Brikama Power Station",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "gunjur-fish-meal-factory-economic-v2",
+    "name": "Gunjur Fish Meal Factory",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "denton-bridge-fish-cluster-economic-v2",
+    "name": "Denton Bridge Industrial Area",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "kaur-groundnut-depot-economic-v2",
+    "name": "Kaur Groundnut Depot",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "kuntaur-groundnut-depot-economic-v2",
+    "name": "Kuntaur Groundnut Depot",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "barra-ferry-terminal-economic-v2",
+    "name": "Barra Ferry Terminal",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "bakau-fish-landing-economic-v2",
+    "name": "Bakau Fish Landing Site",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "brufut-fish-landing-economic-v2",
+    "name": "Brufut Fish Landing Site",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "sanyang-fish-landing-economic-v2",
+    "name": "Sanyang Fish Landing Site",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "kartong-sand-mining-economic-v2",
+    "name": "Kartong Sand Mining Site",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "batokunku-wind-power-economic-v2",
+    "name": "Batokunku Wind Power Plant",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "fatoto-river-wharf-economic-v2",
+    "name": "Fatoto River Wharf",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "bansang-river-wharf-economic-v2",
+    "name": "Bansang River Wharf",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "kerewan-fish-landing-economic-v2",
+    "name": "Kerewan Fish Landing Site",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "brikama-ice-plant-economic-v2",
+    "name": "Brikama Ice Plant",
+    "file": "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  },
+  {
+    "id": "fort-bullen-history-v2",
+    "name": "Fort Bullen",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "arch-22-history-v2",
+    "name": "Arch 22",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "kachikally-crocodile-pool-history-v2",
+    "name": "Kachikally Crocodile Pool",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "fort-louvel-history-v2",
+    "name": "Fort Louvel",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "national-museum-gambia-history-v2",
+    "name": "National Museum of The Gambia",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "san-domingo-ruins-history-v2",
+    "name": "San Domingo Ruins",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "cfao-building-albreda-history-v2",
+    "name": "CFAO Building Albreda",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "mussa-molloh-tomb-history-v2",
+    "name": "Mussa Molloh's Tomb",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "kataba-fort-history-v2",
+    "name": "Kataba Fort",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "berending-crocodile-pool-history-v2",
+    "name": "Berending Crocodile Pool",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "folonko-crocodile-pool-history-v2",
+    "name": "Folonko Crocodile Pool",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "janjanbureh-slave-house-history-v2",
+    "name": "Janjanbureh Slave House",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "bwiam-stone-circle-history-v2",
+    "name": "Bwiam Stone Circle",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "tanje-village-museum-history-v2",
+    "name": "Tanje Village Museum",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "st-joseph-church-banjul-history-v2",
+    "name": "St. Joseph's Church Banjul",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "vainqueur-ruins-history-v2",
+    "name": "Vainqueur Ruins",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "sankandi-battlefield-history-v2",
+    "name": "Sankandi Battlefield",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "basse-colonial-quarter-history-v2",
+    "name": "Basse Colonial Quarter",
+    "file": "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  },
+  {
+    "id": "senegambia-bridge-landmarks-v2",
+    "name": "Senegambia Bridge",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "independence-stadium-landmarks-v2",
+    "name": "Independence Stadium",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "kachikally-pool-landmarks-v2",
+    "name": "Kachikally Sacred Crocodile Pool",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "king-fahad-mosque-landmarks-v2",
+    "name": "King Fahad Mosque",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "st-josephs-cathedral-landmarks-v2",
+    "name": "St. Joseph's Cathedral",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "albert-market-landmarks-v2",
+    "name": "Albert Market",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "state-house-gambia-landmarks-v2",
+    "name": "State House",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "national-museum-gambia-landmarks-v2",
+    "name": "National Museum of The Gambia",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "july-22-square-landmarks-v2",
+    "name": "July 22nd Square",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "denton-bridge-landmarks-v2",
+    "name": "Denton Bridge",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "tanji-village-museum-landmarks-v2",
+    "name": "Tanje Village Museum",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "kerbatch-stone-circles-landmarks-v2",
+    "name": "Kerbatch Stone Circles",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "mungo-park-memorial-landmarks-v2",
+    "name": "Mungo Park Memorial",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "freedom-tree-janjanbureh-landmarks-v2",
+    "name": "Freedom Tree of Janjanbureh",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "african-heritage-museum-landmarks-v2",
+    "name": "African Heritage Museum",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "sir-dawda-conference-center-landmarks-v2",
+    "name": "Sir Dawda Kairaba Jawara Conference Center",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-louvel-landmarks-v2",
+    "name": "Fort Louvel",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "albarda-historic-site-landmarks-v2",
+    "name": "Albreda Historical Site",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "juffureh-village-landmarks-v2",
+    "name": "Juffureh Village",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "berending-crocodile-pool-landmarks-v2",
+    "name": "Berending Sacred Crocodile Pool",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "folonko-crocodile-pool-landmarks-v2",
+    "name": "Folonko Sacred Crocodile Pool",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "sanneh-mentering-landmarks-v2",
+    "name": "Sanneh-Mentering Holy Site",
+    "file": "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  },
+  {
+    "id": "brikama-woodcarving-market-life-v2",
+    "name": "Brikama Woodcarving Market",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "tanji-fishing-village-life-v2",
+    "name": "Tanji Fishing Beach",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "serekunda-central-market-life-v2",
+    "name": "Serekunda Central Market",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "lamin-lodge-mangroves-life-v2",
+    "name": "Lamin Lodge & Mangroves",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "gunjur-turtle-conservation-life-v2",
+    "name": "Gunjur Turtle Conservation",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "njau-recycling-center-life-v2",
+    "name": "Njau Recycling & Learning Center",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "basse-peanut-fields-life-v2",
+    "name": "Basse Santa Su Peanut Fields",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "sapu-rice-station-life-v2",
+    "name": "Sapu Rice Research Station",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "kuntaur-rice-mill-life-v2",
+    "name": "Kuntaur Rice Mill",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "basse-groundnut-bay-life-v2",
+    "name": "Basse Groundnut Loading Bay",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "tanji-village-museum-life-v2",
+    "name": "Tanji Village Museum",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "marakissa-river-camp-life-v2",
+    "name": "Marakissa River Camp",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "pirang-shrimp-farm-life-v2",
+    "name": "Pirang Shrimp Farm",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "farafenni-livestock-market-life-v2",
+    "name": "Farafenni Livestock Market",
+    "file": "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  },
+  {
+    "id": "kiang-west-national-park-nature-v2",
+    "name": "Kiang West National Park",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "bao-bolong-wetland-nature-v2",
+    "name": "Bao Bolong Wetland Reserve",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "tanji-bird-reserve-nature-v2",
+    "name": "Tanji Bird Reserve",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "bijilo-forest-park-nature-v2",
+    "name": "Bijilo Forest Park",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "abuko-nature-reserve-nature-v2",
+    "name": "Abuko Nature Reserve",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "janjanbureh-island-nature-v2",
+    "name": "Janjanbureh Island",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "kunta-kinteh-island-nature-v2",
+    "name": "Kunta Kinteh Island",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "baboon-islands-nature-v2",
+    "name": "Baboon Islands",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "jinack-island-nature-v2",
+    "name": "Jinack Island",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "st-marys-island-nature-v2",
+    "name": "St. Mary's Island",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "kartong-beach-nature-v2",
+    "name": "Kartong Beach",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "sanyang-beach-nature-v2",
+    "name": "Sanyang Beach",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "kotu-beach-nature-v2",
+    "name": "Kotu Beach",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "kololi-beach-nature-v2",
+    "name": "Kololi Beach",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "cape-point-nature-v2",
+    "name": "Cape Point",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "brufut-woods-nature-v2",
+    "name": "Brufut Woods",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "pirang-forest-nature-v2",
+    "name": "Pirang Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "niumi-national-park-nature-v2",
+    "name": "Niumi National Park",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "allahein-river-nature-v2",
+    "name": "Allahein River",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "bintang-bolong-nature-v2",
+    "name": "Bintang Bolong",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "tanbi-wetland-nature-v2",
+    "name": "Tanbi Wetland Complex",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "gunjur-beach-nature-v2",
+    "name": "Gunjur Beach",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "elephant-island-nature-v2",
+    "name": "Elephant Island",
+    "file": "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  },
+  {
+    "id": "fajara-cliffs-relief-v2",
+    "name": "Fajara Cliffs",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "bama-kuno-forest-relief-v2",
+    "name": "Bama Kuno Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "salagi-forest-relief-v2",
+    "name": "Salagi Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "nyambai-forest-relief-v2",
+    "name": "Nyambai Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "furuyar-forest-relief-v2",
+    "name": "Furuyar Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "kuntaur-highlands-relief-v2",
+    "name": "Kuntaur Highlands",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "basse-plateau-relief-v2",
+    "name": "Basse Plateau",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "keneba-plateau-relief-v2",
+    "name": "Keneba Plateau",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "nianija-hills-relief-v2",
+    "name": "Nianija Hills",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "sami-plateau-relief-v2",
+    "name": "Sami Plateau",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "tumani-tenda-cliffs-relief-v2",
+    "name": "Tumani Tenda Cliffs",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "brikama-plateau-relief-v2",
+    "name": "Brikama Plateau",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "kiang-west-plateau-relief-v2",
+    "name": "Kiang West Plateau",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "niumi-dunes-relief-v2",
+    "name": "Niumi Dunes",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "kartong-cliffs-relief-v2",
+    "name": "Kartong Cliffs",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "jambanjali-forest-relief-v2",
+    "name": "Jambanjali Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "kabafita-forest-relief-v2",
+    "name": "Kabafita Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "berending-forest-relief-v2",
+    "name": "Berending Forest",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  },
+  {
+    "id": "kwinella-hills-relief-v2",
+    "name": "Kwinella Hills",
+    "file": "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  }
+]

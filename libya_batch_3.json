@@ -1,0 +1,117 @@
+[
+  {
+    "id": "martuba-cities-v2",
+    "name": "Martuba",
+    "desc": "Known for the former military airfield from World War II."
+  },
+  {
+    "id": "umm-al-rizam-cities-v2",
+    "name": "Umm al Rizam",
+    "desc": "A village in eastern Cyrenaica that traditionally relies on trade."
+  },
+  {
+    "id": "kambut-cities-v2",
+    "name": "Kambut",
+    "desc": "One of the easternmost settlements in Libya, near Tobruk."
+  },
+  {
+    "id": "jaghbub-cities-v2",
+    "name": "Jaghbub",
+    "desc": "An isolated oasis in the far east, close to the Egyptian Siwa Oasis."
+  },
+  {
+    "id": "qasr-bin-ghashir-cities-v2",
+    "name": "Qasr bin Ghashir",
+    "desc": "Southern suburb of Tripoli, dominated by the international airport."
+  },
+  {
+    "id": "tajoura-cities-v2",
+    "name": "Tajoura",
+    "desc": "Eastern suburb of the capital, known for its nuclear research center."
+  },
+  {
+    "id": "msallata-cities-v2",
+    "name": "Msallata",
+    "desc": "A hill town in Tripolitania, surrounded by countless ancient olive trees."
+  },
+  {
+    "id": "al-ajaylat-cities-v2",
+    "name": "Al Ajaylat",
+    "desc": "Agricultural center in the northwest supplying the surrounding area with goods."
+  },
+  {
+    "id": "al-qubbah-cities-v2",
+    "name": "Al Qubbah",
+    "desc": "The largest city between Derna and Al Bayda in Cyrenaica."
+  },
+  {
+    "id": "badr-cities-v2",
+    "name": "Badr",
+    "desc": "A quiet mountain village that relies on livestock farming and agriculture."
+  },
+  {
+    "id": "al-magrun-cities-v2",
+    "name": "Al Magrun",
+    "desc": "A small coastal town on the Gulf of Sidra, characterized by fishing."
+  },
+  {
+    "id": "qandulah-cities-v2",
+    "name": "Qandulah",
+    "desc": "Agriculturally characterized village in the highlands of the Green Mountains."
+  },
+  {
+    "id": "port-of-tripoli-economic-v2",
+    "name": "Port of Tripoli",
+    "desc": "The Port of Tripoli is Libya"
+  },
+  {
+    "id": "port-of-benghazi-economic-v2",
+    "name": "Port of Benghazi",
+    "desc": "The Port of Benghazi on the Mediterranean coast is a major economic center in the Cyrenaica region."
+  },
+  {
+    "id": "misrata-port-economic-v2",
+    "name": "Misrata Free Zone and Port",
+    "desc": "The Port of Misrata hosts Libya"
+  },
+  {
+    "id": "al-khums-port-economic-v2",
+    "name": "Al Khums Port",
+    "desc": "Al Khums Port is a strategically important seaport in northwest Libya, handling general cargo and containers."
+  },
+  {
+    "id": "tobruk-port-economic-v2",
+    "name": "Port of Tobruk",
+    "desc": "The Port of Tobruk benefits from its deep, natural anchorage and is a major commercial hub near the Egyptian border."
+  },
+  {
+    "id": "derna-port-economic-v2",
+    "name": "Port of Derna",
+    "desc": "The Port of Derna serves as a regional trade hub for Libya"
+  },
+  {
+    "id": "ras-lanuf-port-economic-v2",
+    "name": "Ras Lanuf Oil Port",
+    "desc": "Ras Lanuf Oil Port is one of Libya"
+  },
+  {
+    "id": "marsa-el-brega-port-economic-v2",
+    "name": "Marsa el Brega Port",
+    "desc": "The Port of Marsa el Brega is a hub for exporting natural gas and petrochemical products from the Libyan desert."
+  },
+  {
+    "id": "zueitina-oil-terminal-economic-v2",
+    "name": "Zueitina Oil Terminal",
+    "desc": "The Zueitina Oil Terminal is a major shipping point for Libyan crude oil brought via pipelines from southern fields."
+  },
+  {
+    "id": "zawiya-port-economic-v2",
+    "name": "Zawiya Port",
+    "desc": "Zawiya Port primarily serves the export of refined petroleum products produced at the nearby refinery."
+  },
+  {
+    "id": "mellitah-port-economic-v2",
+    "name": "Mellitah Oil and Gas Port",
+    "desc": "The Mellitah port complex is the starting point for the Greenstream pipeline transporting natural gas from Libya to Italy."
+  }
+]

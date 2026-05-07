@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "unabhaengigkeitsmonument-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Das Unabhängigkeitsdenkmal in Bujumbura ist ein zentrales nationales Symbol, das an das Ende der belgischen Kolonialherrschaft im Jahr 1962 erinnert. Das Monument ist architektonisch schlicht gestaltet und steht an einem prominenten Platz, um die Souveränität des jungen Staates zu ehren. Es dient heute als Treffpunkt für nationale Gedenkfeiern und ist ein wichtiger Ort für das nationale Geschichtsbewusstsein. Geschichte K8 — Dekolonisierung in Afrika.",
+      "factsAdvanced": [
+        "Ereignis: Unabhängigkeit Burundis von Belgien",
+        "Jahr: 1962",
+        "Lage: Zentrum von Bujumbura",
+        "Symbolik: Nationale Souveränität",
+        "Bedeutung: Wichtigster Gedenkort zur Unabhängigkeit",
+        "Architektur: Schlichtes, monumentales Design"
+      ]
+    },
+    {
+      "id": "denkmal-der-einheit-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Das Denkmal der Einheit in Bujumbura ist ein monumentales architektonisches Bauwerk, das die Bestrebungen zur nationalen Versöhnung und Einheit der burundischen Bevölkerung nach den Konflikten der Vergangenheit symbolisieren soll. Das imposante Design zieht Besucher an und ist ein Symbol für die Hoffnung auf einen dauerhaften Frieden in der Region. Geschichte K8 — Friedensprozesse nach Konflikten.",
+      "factsAdvanced": [
+        "Ziel: Förderung der nationalen Versöhnung",
+        "Symbolik: Frieden und Einheit",
+        "Lage: Bujumbura",
+        "Design: Monumentale Architektur",
+        "Bedeutung: Politische Symbolkraft",
+        "Kontext: Frieden nach den Bürgerkriegsjahren"
+      ]
+    },
+    {
+      "id": "prince-louis-rwagasore-stadion-landmarks-v2",
+      "descriptionAdvanced": "Das Stadion zu Ehren von Prinz Louis Rwagasore in Bujumbura ist eine wichtige sportliche und kulturelle Einrichtung. Rwagasore, eine Schlüsselfigur in der burundischen Unabhängigkeitsbewegung, ist bis heute ein nationaler Held. Das Stadion dient nicht nur für Sportveranstaltungen, sondern ist auch ein Ort für politische Großkundgebungen und nationale Feierlichkeiten. Geschichte K8 — Unabhängigkeitskämpfer.",
+      "factsAdvanced": [
+        "Namensgeber: Prinz Louis Rwagasore",
+        "Hauptfunktion: Sportstadion",
+        "Lage: Bujumbura",
+        "Bedeutung: Politischer Gedenkort",
+        "Kapazität: Wichtigster Veranstaltungsort des Landes",
+        "Status: Nationales Sportzentrum"
+      ]
+    },
+    {
+      "id": "palast-der-nation-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Der Palast der Nation in Bujumbura ist der Sitz der Regierung und ein Zentrum der politischen Macht Burundis. Das Gebäude ist architektonisch bedeutend und repräsentiert die administrative Stabilität des Staates. Aufgrund seiner Funktion ist es eine der bestgeschützten Anlagen im Land und spielt eine zentrale Rolle bei diplomatischen Empfängen und staatlichen Entscheidungen. Politik K9 — Regierungsgebäude.",
+      "factsAdvanced": [
+        "Funktion: Regierungssitz",
+        "Standort: Bujumbura",
+        "Bedeutung: Zentrum der Exekutive",
+        "Architektur: Repräsentatives Staatsgebäude",
+        "Sicherheitsstatus: Hoch, eingeschränkter Zugang",
+        "Diplomatie: Ort für Staatsbesuche"
+      ]
+    },
+    {
+      "id": "hafen-von-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Der Hafen von Bujumbura ist die wichtigste maritime Verbindung des Landes zum Tanganjika-See und damit ein entscheidendes Tor für den regionalen Handel. Über den See werden Waren in die angrenzenden Staaten wie die Demokratische Republik Kongo und Tansania transportiert. Der Hafen ist das pulsierende Zentrum der logistischen Infrastruktur Burundis und unverzichtbar für die Wirtschaft. Geographie K7 — Logistik und Handel.",
+      "factsAdvanced": [
+        "Verbindung: Tanganjika-See",
+        "Handel: Knotenpunkt für regionalen Warentransport",
+        "Logistik: Verbindung zu Tansania und DR Kongo",
+        "Bedeutung: Lebensader der Wirtschaft",
+        "Infrastruktur: Schiffsbau und Güterumschlag",
+        "Standort: Bujumbura"
+      ]
+    }
+  ]
+}

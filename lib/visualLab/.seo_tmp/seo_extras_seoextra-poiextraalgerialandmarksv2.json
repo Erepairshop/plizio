@@ -1,0 +1,36 @@
+{
+  "lang": "de",
+  "files": ["lib/visualLab/data/poiExtraAlgeriaLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "makam-echahid-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Makam Echahid in Algier ist ein architektonisches Symbol des algerischen Widerstands gegen die Kolonialherrschaft. Das 1982 eingeweihte Monument erinnert an die Opfer des Unabhängigkeitskrieges (1954–1962).",
+        "hu": "A Makam Echahid az algériai gyarmati uralom elleni ellenállás szimbóluma Algírban. Az 1982-ben átadott emlékmű az 1954–1962-es függetlenségi háború áldozatainak állít emléket.",
+        "ro": "Makam Echahid din Alger este un simbol arhitectural al rezistenței algeriene împotriva dominației coloniale. Inaugurat în 1982, monumentul comemorează victimele Războiului de Independență (1954–1962).",
+        "en": "The Makam Echahid in Algiers is an architectural symbol of the Algerian resistance against colonial rule. Inaugurated in 1982, the monument commemorates the victims of the War of Independence (1954–1962)."
+      },
+      "factsAdvanced": {
+        "de": ["1982 eröffnet", "92 Meter Gesamthöhe", "Entworfen von Bachir Yellès", "Befindet sich auf dem Plateau du Hamma", "Symbolisiert die drei Säulen der algerischen Wirtschaft", "Ewige Flamme unter dem Denkmal"],
+        "hu": ["1982-ben nyitották meg", "92 méter teljes magasság", "Bachir Yellès tervezte", "A Plateau du Hamma fennsíkon található", "A három gazdasági pillért szimbolizálja", "Örökláng az emlékmű alatt"],
+        "ro": ["Inaugurat în 1982", "92 metri înălțime totală", "Proiectat de Bachir Yellès", "Situat pe Plateau du Hamma", "Simbolizează cei trei piloni economici", "Flacără eternă sub monument"],
+        "en": ["Opened in 1982", "92 meters total height", "Designed by Bachir Yellès", "Located on the Plateau du Hamma", "Symbolizes the three economic pillars", "Eternal flame beneath the monument"]
+      }
+    },
+    {
+      "id": "djamaa-el-djazair-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Moschee von Algier, bekannt als Djamaa el Djazair, ist ein architektonischer Superlativ. Mit ihrem 265 Meter hohen Minarett hält sie den Weltrekord für das höchste Minarett.",
+        "hu": "Az algíri Nagy Mecset, más néven Djamaa el Djazair, az építészeti szuperlatívuszok közé tartozik. 265 méter magas minaretjével a világ legmagasabb minaretjének világrekordját tartja.",
+        "ro": "Marea Moschee din Alger, cunoscută sub numele de Djamaa el Djazair, este un superlativ arhitectural. Cu minaretul său de 265 de metri înălțime, deține recordul mondial pentru cel mai înalt minaret.",
+        "en": "The Great Mosque of Algiers, known as Djamaa el Djazair, is an architectural superlative. With its 265-meter tall minaret, it holds the world record for the tallest minaret."
+      },
+      "factsAdvanced": {
+        "de": ["Minarett ist das höchste der Welt", "Komplex umfasst 20 Hektar", "Entworfen von KSP Jürgen Engel Architekten", "Platz für 120.000 Gläubige", "Erdbebenresistente Konstruktion", "Zentrum für islamische Studien"],
+        "hu": ["A világ legmagasabb minaretje", "Az épületegyüttes 20 hektár területű", "KSP Jürgen Engel Architekten tervezte", "120 000 hívő befogadóképesség", "Földrengésbiztos szerkezet", "Iszlám tanulmányok központja"],
+        "ro": ["Minaretul este cel mai înalt din lume", "Complexul ocupă 20 de hectare", "Proiectat de KSP Jürgen Engel Architekten", "Capacitate pentru 120.000 de credincioși", "Construcție rezistentă la cutremure", "Centru de studii islamice"],
+        "en": ["Minaret is the tallest in the world", "Complex covers 20 hectares", "Designed by KSP Jürgen Engel Architekten", "Capacity for 120,000 worshippers", "Earthquake-resistant construction", "Center for Islamic studies"]
+      }
+    }
+  ]
+}

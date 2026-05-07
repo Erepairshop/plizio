@@ -16,16 +16,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Panama's highest mountain range.", "Forms the continental divide.", "Composed of volcanic rock.", "Extends across almost the entire country."]
     }, image: "/poi-images/cordillera-central-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Die Cordillera Central (Zentrale Kordillere), oft auch als Talamanca-Gebirge im westlichen Teil bezeichnet, ist das mächtige Gebirgsrückgrat Panamas. Diese kontinentale Wasserscheide teilt das Land physisch und klimatisch in die feuchte Karibikseite und die trockenere Pazifikseite. Das Massiv reicht von der Grenze zu Costa Rica im Westen (wo es seine höchsten vulkanischen Gipfel erreicht) bis in die zentralen Provinzen. Die Kordillere blockiert die Passatwinde aus der Karibik, was auf der nördlichen Seite zu extremen Niederschlägen und dichten Regenwäldern führt, während der Süden im Regenschatten liegt. Dieses Gebirge ist das wichtigste Wassereinzugsgebiet Panamas und seine kühlen Hochlagen sind das Zentrum der panamaischen Kaffeeproduktion. Geographie K8 — Kontinentale Wasserscheiden und Klimabarrieren.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Die Cordillera Central (Zentrale Kordillere), oft auch als Talamanca-Gebirge im westlichen Teil bezeichnet, ist das mächtige Gebirgsrückgrat Panamas. Diese kontinentale Wasserscheide teilt das Land physisch und klimatisch in die feuchte Karibikseite und die trockenere Pazifikseite. Das Massiv reicht von der Grenze zu Costa Rica im Westen (wo es seine höchsten vulkanischen Gipfel erreicht) bis in die zentralen Provinzen. Die Kordillere blockiert die Passatwinde aus der Karibik, was auf der nördlichen Seite zu extremen Niederschlägen und dichten Regenwäldern führt, während der Süden im Regenschatten liegt. Dieses Gebirge ist das wichtigste Wassereinzugsgebiet Panamas und seine kühlen Hochlagen sind das Zentrum der panamaischen Kaffeeproduktion. Geographie K8 — Kontinentale Wasserscheiden und Klimabarrieren."
     },
     factsAdvanced: {
-      de: ["Das zentrale Gebirgsmassiv, das Panama physisch und klimatisch in zwei Hälften teilt.", "Fungiert als wichtigste kontinentale Wasserscheide zwischen Karibik und Pazifik.", "Blockiert die karibischen Passatwinde und erzeugt einen Regenschatten im Süden.", "In den hochgelegenen Regionen wird der meiste und beste panamaische Kaffee angebaut.", "Seine Hänge beherbergen die größten verbliebenen Wolkenwälder des Landes."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Das zentrale Gebirgsmassiv, das Panama physisch und klimatisch in zwei Hälften teilt.", "Fungiert als wichtigste kontinentale Wasserscheide zwischen Karibik und Pazifik.", "Blockiert die karibischen Passatwinde und erzeugt einen Regenschatten im Süden.", "In den hochgelegenen Regionen wird der meiste und beste panamaische Kaffee angebaut.", "Seine Hänge beherbergen die größten verbliebenen Wolkenwälder des Landes."]
     }
   },
   {
@@ -42,16 +36,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Popular destination for hikers.", "Offers wide views.", "Composed of hard volcanic rock.", "Located near San Carlos."]
     }, image: "/poi-images/cerro-picacho-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Picacho ist eine der markantesten Erhebungen (1.085 Meter) am Rande des gewaltigen Kraters von El Valle de Antón in der Provinz Coclé. Sein Name ('picacho' bedeutet etwa 'spitzer Gipfel') beschreibt perfekt seine schroffe, fast nadelartige Form, die aus der ansonsten runden Kraterwand herausragt. Zusammen mit anderen Gipfeln wie dem Cerro India Dormida ('Die schlafende Indianerin') bildet er die spektakuläre Skyline des Tals. Aufgrund seiner steilen Flanken und des rutschigen vulkanischen Bodens gilt der Aufstieg als äußerst anspruchsvoll. Der Berg ist stark von feuchten Wolkenwäldern bedeckt und beheimatet eine Vielzahl seltener epiphytischer Pflanzen, die die Feuchtigkeit direkt aus den oft vorbeiziehenden Passatwolken aufnehmen. Geographie K8 — Vulkanische Geomorphologie.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Picacho ist eine der markantesten Erhebungen (1.085 Meter) am Rande des gewaltigen Kraters von El Valle de Antón in der Provinz Coclé. Sein Name ('picacho' bedeutet etwa 'spitzer Gipfel') beschreibt perfekt seine schroffe, fast nadelartige Form, die aus der ansonsten runden Kraterwand herausragt. Zusammen mit anderen Gipfeln wie dem Cerro India Dormida ('Die schlafende Indianerin') bildet er die spektakuläre Skyline des Tals. Aufgrund seiner steilen Flanken und des rutschigen vulkanischen Bodens gilt der Aufstieg als äußerst anspruchsvoll. Der Berg ist stark von feuchten Wolkenwäldern bedeckt und beheimatet eine Vielzahl seltener epiphytischer Pflanzen, die die Feuchtigkeit direkt aus den oft vorbeiziehenden Passatwolken aufnehmen. Geographie K8 — Vulkanische Geomorphologie."
     },
     factsAdvanced: {
-      de: ["Ein 1.085 Meter hoher, nadelartig geformter Gipfel über dem El Valle-Krater.", "Bildet einen markanten Teil des Rands des alten Stratovulkans.", "Der steile vulkanische Boden macht Wanderungen und Aufstiege sehr anspruchsvoll.", "Die Hänge sind dicht mit seltenen, Feuchtigkeit absorbierenden Epiphyten bewachsen.", "Zusammen mit dem Berg 'India Dormida' prägt er die Landschaft von El Valle de Antón."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein 1.085 Meter hoher, nadelartig geformter Gipfel über dem El Valle-Krater.", "Bildet einen markanten Teil des Rands des alten Stratovulkans.", "Der steile vulkanische Boden macht Wanderungen und Aufstiege sehr anspruchsvoll.", "Die Hänge sind dicht mit seltenen, Feuchtigkeit absorbierenden Epiphyten bewachsen.", "Zusammen mit dem Berg 'India Dormida' prägt er die Landschaft von El Valle de Antón."]
     }
   },
   {
@@ -68,16 +56,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Geologically identified as a crater.", "Cool climate inside.", "Surrounded by steep walls.", "Unique micro-ecosystem."]
     }, image: "/poi-images/valle-de-anton-krater-relief-v2.webp",
     descriptionAdvanced: {
-      de: "El Valle de Antón ist ein geologisches Wunderwerk: Es ist eine der größten bewohnten Vulkankratern der Welt. Vor etwa 300.000 Jahren sprengte ein gewaltiger Ausbruch die Spitze eines riesigen Stratovulkans in der heutigen Provinz Coclé weg, was zur Bildung einer fünf Kilometer breiten Caldera führte. Später füllte sich die Caldera mit Wasser und bildete einen Kratersee, der schließlich durch Erosion abfloss und den extrem fruchtbaren, flachen Talboden hinterließ. Heute beherbergt dieser Boden eine florierende Kleinstadt, die wegen ihres kühlen Klimas ein beliebter Rückzugsort für Touristen und Rentner ist. Die geothermalen Ursprünge sind an den heißen Quellen (Pozos Termales) und sprudelnden Schlammtümpeln noch heute spürbar. Geographie K8 — Caldera-Bildung und vulkanische Böden.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "El Valle de Antón ist ein geologisches Wunderwerk: Es ist eine der größten bewohnten Vulkankratern der Welt. Vor etwa 300.000 Jahren sprengte ein gewaltiger Ausbruch die Spitze eines riesigen Stratovulkans in der heutigen Provinz Coclé weg, was zur Bildung einer fünf Kilometer breiten Caldera führte. Später füllte sich die Caldera mit Wasser und bildete einen Kratersee, der schließlich durch Erosion abfloss und den extrem fruchtbaren, flachen Talboden hinterließ. Heute beherbergt dieser Boden eine florierende Kleinstadt, die wegen ihres kühlen Klimas ein beliebter Rückzugsort für Touristen und Rentner ist. Die geothermalen Ursprünge sind an den heißen Quellen (Pozos Termales) und sprudelnden Schlammtümpeln noch heute spürbar. Geographie K8 — Caldera-Bildung und vulkanische Böden."
     },
     factsAdvanced: {
-      de: ["Eine gigantische, fünf Kilometer breite Vulkancaldera in der Provinz Coclé.", "Gehört zu den wenigen Vulkankratern der Welt, in denen eine ganze Stadt gebaut wurde.", "Entstand vor ca. 300.000 Jahren nach der Explosion eines Stratovulkans.", "Der einst ausgetrocknete Kratersee hinterließ extrem fruchtbaren vulkanischen Boden.", "Geothermische Aktivitäten zeigen sich heute noch in heißen Quellen und Schlammtümpeln."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Eine gigantische, fünf Kilometer breite Vulkancaldera in der Provinz Coclé.", "Gehört zu den wenigen Vulkankratern der Welt, in denen eine ganze Stadt gebaut wurde.", "Entstand vor ca. 300.000 Jahren nach der Explosion eines Stratovulkans.", "Der einst ausgetrocknete Kratersee hinterließ extrem fruchtbaren vulkanischen Boden.", "Geothermische Aktivitäten zeigen sich heute noch in heißen Quellen und Schlammtümpeln."]
     }
   },
   {
@@ -94,16 +76,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Country's first national park.", "High biodiversity.", "Cloud forest ecosystem.", "Close to the capital."]
     }, image: "/poi-images/cerro-campana-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Campana ('Glockenberg') ist der prominente, 1.003 Meter hohe Hauptgipfel des gleichnamigen Nationalparks, der die Bergkette südwestlich von Panama-Stadt dominiert. Sein vulkanischer Ursprung zeigt sich in den schroffen Klippen und tiefen Schluchten, die den Berg umgeben. Die steilen Hänge blockieren die aus der Karibik kommenden feuchten Passatwinde, wodurch an der Spitze fast ganzjährig ein dichter Nebelwald entsteht, während die dem Pazifik zugewandten Hänge viel trockener sind. Dies macht den Cerro Campana zu einem klassischen Beispiel für den orografischen Niederschlagseffekt (Steigungsregen). Die markante, glockenähnliche Silhouette des Berges diente schon den spanischen Seefahrern im 16. Jahrhundert als Orientierungspunkt für die Navigation im Golf von Panama. Geographie K8 — Orografischer Niederschlag und Navigation.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Campana ('Glockenberg') ist der prominente, 1.003 Meter hohe Hauptgipfel des gleichnamigen Nationalparks, der die Bergkette südwestlich von Panama-Stadt dominiert. Sein vulkanischer Ursprung zeigt sich in den schroffen Klippen und tiefen Schluchten, die den Berg umgeben. Die steilen Hänge blockieren die aus der Karibik kommenden feuchten Passatwinde, wodurch an der Spitze fast ganzjährig ein dichter Nebelwald entsteht, während die dem Pazifik zugewandten Hänge viel trockener sind. Dies macht den Cerro Campana zu einem klassischen Beispiel für den orografischen Niederschlagseffekt (Steigungsregen). Die markante, glockenähnliche Silhouette des Berges diente schon den spanischen Seefahrern im 16. Jahrhundert als Orientierungspunkt für die Navigation im Golf von Panama. Geographie K8 — Orografischer Niederschlag und Navigation."
     },
     factsAdvanced: {
-      de: ["Ein 1.003 Meter hoher vulkanischer Gipfel im Nationalpark Altos de Campana.", "Zeigt extrem deutlich das Phänomen des Steigungsregens (orografischer Niederschlag).", "Während der Gipfel dicht bewölkt ist, sind die Pazifikhänge weitaus trockener.", "Seine glockenartige Form diente spanischen Schiffen früh als Navigationshilfe.", "Die schroffen Klippen bieten spektakuläre Aussichten auf den Kanalzugang."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein 1.003 Meter hoher vulkanischer Gipfel im Nationalpark Altos de Campana.", "Zeigt extrem deutlich das Phänomen des Steigungsregens (orografischer Niederschlag).", "Während der Gipfel dicht bewölkt ist, sind die Pazifikhänge weitaus trockener.", "Seine glockenartige Form diente spanischen Schiffen früh als Navigationshilfe.", "Die schroffen Klippen bieten spektakuläre Aussichten auf den Kanalzugang."]
     }
   },
   {
@@ -120,16 +96,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Highest point of the Azuero Peninsula.", "Important protection for flora.", "Jungle-covered slopes.", "Hard-to-reach terrain."]
     }, image: "/poi-images/cerro-hoya-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Hoya, mit 1.559 Metern die höchste Erhebung auf der Azuero-Halbinsel, ist ein geologisches und ökologisches Kuriosum. Die Azuero-Halbinsel gehört zu den ältesten Landmassen Panamas, entstanden aus tektonischer Hebung des Meeresbodens und vulkanischer Aktivität, lange bevor sich der Isthmus vollständig schloss. Der isolierte Gipfel des Cerro Hoya ragt wie eine grüne Festung aus dem stark abgeholzten und trockenen Tiefland ('Arco Seco') heraus. Die steilen Hänge erzeugen ein eigenes, feuchtes Mikroklima, das die Entwicklung eines seltenen, isolierten Wolkenwaldes ermöglichte. Dieser Berg ist das letzte intakte Wassereinzugsgebiet der Halbinsel; eine Zerstörung seiner Wälder hätte katastrophale Auswirkungen auf das Klima und die Landwirtschaft der gesamten Region. Geographie K8 — Tektonische Hebung und Mikroklimata.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Hoya, mit 1.559 Metern die höchste Erhebung auf der Azuero-Halbinsel, ist ein geologisches und ökologisches Kuriosum. Die Azuero-Halbinsel gehört zu den ältesten Landmassen Panamas, entstanden aus tektonischer Hebung des Meeresbodens und vulkanischer Aktivität, lange bevor sich der Isthmus vollständig schloss. Der isolierte Gipfel des Cerro Hoya ragt wie eine grüne Festung aus dem stark abgeholzten und trockenen Tiefland ('Arco Seco') heraus. Die steilen Hänge erzeugen ein eigenes, feuchtes Mikroklima, das die Entwicklung eines seltenen, isolierten Wolkenwaldes ermöglichte. Dieser Berg ist das letzte intakte Wassereinzugsgebiet der Halbinsel; eine Zerstörung seiner Wälder hätte katastrophale Auswirkungen auf das Klima und die Landwirtschaft der gesamten Region. Geographie K8 — Tektonische Hebung und Mikroklimata."
     },
     factsAdvanced: {
-      de: ["Mit 1.559 Metern der höchste Gipfel auf der trockenen Azuero-Halbinsel.", "Gehört zu den ältesten tektonischen Landmassen des gesamten Isthmus von Panama.", "Sein isoliertes Bergklima erhält den letzten Wolkenwald der gesamten Halbinsel.", "Der Berg ist das wichtigste Wassereinzugsgebiet für das stark abgeholzte Umland.", "Ein kritischer Zufluchtsort für viele endemische, andernorts ausgestorbene Arten."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Mit 1.559 Metern der höchste Gipfel auf der trockenen Azuero-Halbinsel.", "Gehört zu den ältesten tektonischen Landmassen des gesamten Isthmus von Panama.", "Sein isoliertes Bergklima erhält den letzten Wolkenwald der gesamten Halbinsel.", "Der Berg ist das wichtigste Wassereinzugsgebiet für das stark abgeholzte Umland.", "Ein kritischer Zufluchtsort für viele endemische, andernorts ausgestorbene Arten."]
     }
   },
   {
@@ -146,16 +116,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Prominent peak formation.", "Popular with ornithologists.", "Dense cloud forest.", "Part of the crater rim."]
     }, image: "/poi-images/cerro-gaital-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Gaital (1.185 m) in der Provinz Coclé ist nicht nur ein Berg, sondern ein zentraler Teil der geologischen Geschichte Zentralpanamas. Als höchste Erhebung des Kraterrandes von El Valle de Antón besteht das Massiv aus verwittertem, andesitischem Lavagestein, das vor hunderttausenden von Jahren eruptierte. Das extrem raue, fast unzugängliche Gelände des Gipfels hat eine außergewöhnliche Dichte an Endemiten bewahrt. Von besonderem geomorphologischem Interesse sind die tiefen, durch extreme Regenfälle in den weichen vulkanischen Boden gegrabenen Erosionsrinnen (Cárcavas), die den Berg durchziehen. Die Kombination aus instabilen vulkanischen Böden und häufigen Erdstößen macht die Topografie des Cerro Gaital zu einer ständigen geologischen Baustelle. Geographie K8 — Vulkanische Erosion und Andesit-Gestein.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Gaital (1.185 m) in der Provinz Coclé ist nicht nur ein Berg, sondern ein zentraler Teil der geologischen Geschichte Zentralpanamas. Als höchste Erhebung des Kraterrandes von El Valle de Antón besteht das Massiv aus verwittertem, andesitischem Lavagestein, das vor hunderttausenden von Jahren eruptierte. Das extrem raue, fast unzugängliche Gelände des Gipfels hat eine außergewöhnliche Dichte an Endemiten bewahrt. Von besonderem geomorphologischem Interesse sind die tiefen, durch extreme Regenfälle in den weichen vulkanischen Boden gegrabenen Erosionsrinnen (Cárcavas), die den Berg durchziehen. Die Kombination aus instabilen vulkanischen Böden und häufigen Erdstößen macht die Topografie des Cerro Gaital zu einer ständigen geologischen Baustelle. Geographie K8 — Vulkanische Erosion und Andesit-Gestein."
     },
     factsAdvanced: {
-      de: ["Höchster Punkt (1.185 m) des Kraterrandes des alten Vulkans von El Valle de Antón.", "Besteht hauptsächlich aus extrem verwittertem vulkanischem Andesit-Gestein.", "Weist tiefe, durch massive tropische Regenfälle entstandene Erosionsrinnen auf.", "Das raue Gelände hat die Region vor Abholzung und Landwirtschaft geschützt.", "Die instabile Geomorphologie ist anfällig für Erdrutsche in der Regenzeit."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Höchster Punkt (1.185 m) des Kraterrandes des alten Vulkans von El Valle de Antón.", "Besteht hauptsächlich aus extrem verwittertem vulkanischem Andesit-Gestein.", "Weist tiefe, durch massive tropische Regenfälle entstandene Erosionsrinnen auf.", "Das raue Gelände hat die Region vor Abholzung und Landwirtschaft geschützt.", "Die instabile Geomorphologie ist anfällig für Erdrutsche in der Regenzeit."]
     }
   },
   {
@@ -172,16 +136,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Steep rock walls.", "Excellent view.", "Hiking area.", "Typical for the region."]
     }, image: "/poi-images/cerro-tute-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Tute, ein markanter Bergkamm in der Provinz Veraguas nahe der Stadt Santa Fé, hat sowohl geografische als auch tiefe historische Bedeutung. Mit über 1.000 Metern Höhe bildet er einen wichtigen Vorposten der Cordillera Central. Für die panamaische Geschichte ist der Cerro Tute jedoch vor allem als Schauplatz der revolutionären Erhebung von 1959 bekannt. Eine Gruppe junger panamaischer Studenten und Zivilisten (die 'Bewegung des Cerro Tute') verschanzte sich in den dichten Wäldern des Berges, um einen bewaffneten Aufstand gegen die damalige oligarchische Regierung zu starten, inspiriert von der kubanischen Revolution. Obwohl der Aufstand militärisch schnell niedergeschlagen wurde, machte er den Berg zu einem dauerhaften nationalen Symbol für sozialen Widerstand und politische Ideale. Geschichte K8 — Soziale Bewegungen und Guerrilla-Taktik.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Tute, ein markanter Bergkamm in der Provinz Veraguas nahe der Stadt Santa Fé, hat sowohl geografische als auch tiefe historische Bedeutung. Mit über 1.000 Metern Höhe bildet er einen wichtigen Vorposten der Cordillera Central. Für die panamaische Geschichte ist der Cerro Tute jedoch vor allem als Schauplatz der revolutionären Erhebung von 1959 bekannt. Eine Gruppe junger panamaischer Studenten und Zivilisten (die 'Bewegung des Cerro Tute') verschanzte sich in den dichten Wäldern des Berges, um einen bewaffneten Aufstand gegen die damalige oligarchische Regierung zu starten, inspiriert von der kubanischen Revolution. Obwohl der Aufstand militärisch schnell niedergeschlagen wurde, machte er den Berg zu einem dauerhaften nationalen Symbol für sozialen Widerstand und politische Ideale. Geschichte K8 — Soziale Bewegungen und Guerrilla-Taktik."
     },
     factsAdvanced: {
-      de: ["Ein markanter Bergkamm (über 1.000 m) nahe Santa Fé in der Provinz Veraguas.", "Historischer Schauplatz des gescheiterten, aber berühmten Aufstands vom Cerro Tute (1959).", "Junge Studenten verschanzten sich hier, inspiriert von revolutionären Guerrilla-Taktiken.", "Ein starkes panamaisches Symbol für sozialen Widerstand gegen die Oligarchie.", "Das unwegsame Terrain des Berges wurde bewusst als militärisches Versteck gewählt."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein markanter Bergkamm (über 1.000 m) nahe Santa Fé in der Provinz Veraguas.", "Historischer Schauplatz des gescheiterten, aber berühmten Aufstands vom Cerro Tute (1959).", "Junge Studenten verschanzten sich hier, inspiriert von revolutionären Guerrilla-Taktiken.", "Ein starkes panamaisches Symbol für sozialen Widerstand gegen die Oligarchie.", "Das unwegsame Terrain des Berges wurde bewusst als militärisches Versteck gewählt."]
     }
   },
   {
@@ -198,16 +156,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Second highest point.", "Unique Páramo vegetation.", "Remote location.", "Near the Costa Rica border."]
     }, image: "/poi-images/cerro-fabrega-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Fábrega ist mit 3.335 Metern der zweithöchste Berg in Panama und liegt in der extrem abgelegenen Provinz Bocas del Toro an der Grenze zu Costa Rica, im internationalen Schutzgebiet La Amistad. Im Gegensatz zum höchsten Berg (Volcán Barú) ist der Cerro Fábrega kein Vulkan, sondern das Ergebnis massiver tektonischer Auffaltung im Talamanca-Gebirge. Wegen seiner Abgeschiedenheit und des Fehlens von Wegen ist der Berg nur von sehr erfahrenen Expeditionsteams zu erreichen. Auffällig an seiner Geomorphologie sind die hochalpinen Moorlandschaften (Páramos) nahe dem Gipfel, ein Ökosystem, das an feuchtkalte, baumlose Tundra erinnert und in Zentralamerika extrem selten ist. Geographie K8 — Tektonische Auffaltung und Páramo-Ökosysteme.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Fábrega ist mit 3.335 Metern der zweithöchste Berg in Panama und liegt in der extrem abgelegenen Provinz Bocas del Toro an der Grenze zu Costa Rica, im internationalen Schutzgebiet La Amistad. Im Gegensatz zum höchsten Berg (Volcán Barú) ist der Cerro Fábrega kein Vulkan, sondern das Ergebnis massiver tektonischer Auffaltung im Talamanca-Gebirge. Wegen seiner Abgeschiedenheit und des Fehlens von Wegen ist der Berg nur von sehr erfahrenen Expeditionsteams zu erreichen. Auffällig an seiner Geomorphologie sind die hochalpinen Moorlandschaften (Páramos) nahe dem Gipfel, ein Ökosystem, das an feuchtkalte, baumlose Tundra erinnert und in Zentralamerika extrem selten ist. Geographie K8 — Tektonische Auffaltung und Páramo-Ökosysteme."
     },
     factsAdvanced: {
-      de: ["Mit 3.335 Metern der zweithöchste Berg der Republik Panama.", "Entstanden durch massive tektonische Auffaltung, nicht durch Vulkanismus.", "Liegt im isolierten, länderübergreifenden Talamanca-Gebirge (La Amistad).", "Beherbergt seltene hochalpine Moorlandschaften, bekannt als 'Páramos'.", "Aufgrund des Fehlens jeglicher Infrastruktur nur extrem schwer zu erreichen."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Mit 3.335 Metern der zweithöchste Berg der Republik Panama.", "Entstanden durch massive tektonische Auffaltung, nicht durch Vulkanismus.", "Liegt im isolierten, länderübergreifenden Talamanca-Gebirge (La Amistad).", "Beherbergt seltene hochalpine Moorlandschaften, bekannt als 'Páramos'.", "Aufgrund des Fehlens jeglicher Infrastruktur nur extrem schwer zu erreichen."]
     }
   },
   {
@@ -224,16 +176,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Protects the watershed.", "Dense jungle.", "Important water supplier.", "Hard to access."]
     }, image: "/poi-images/cerro-bruja-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Bruja ('Hexenberg') ist eine majestätische, knapp 1.000 Meter hohe Erhebung in der Provinz Colón, die tief im Chagres-Nationalpark verborgen liegt. Sein Name leitet sich von den dichten, fast ständig vorhandenen Nebelbänken ab, die den Gipfel verhüllen und der lokalen Bevölkerung früher unheimlich erschienen. Geologisch ist der Berg das Zentrum eines kritischen Wasserscheidennetzwerks; die fast täglichen heftigen Regenfälle auf seinen Flanken fließen direkt in den Río Chagres. Dieser Fluss wiederum ist die Hauptwasserquelle für den Gatún-See und damit absolut überlebenswichtig für den Betrieb der Panamakanal-Schleusen. Ohne die dichten Bergregenwälder des Cerro Bruja, die wie ein Schwamm wirken, gäbe es nicht genug Wasser für den Kanalverkehr. Geographie K8 — Wasserscheiden und der Betrieb des Panamakanals.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Bruja ('Hexenberg') ist eine majestätische, knapp 1.000 Meter hohe Erhebung in der Provinz Colón, die tief im Chagres-Nationalpark verborgen liegt. Sein Name leitet sich von den dichten, fast ständig vorhandenen Nebelbänken ab, die den Gipfel verhüllen und der lokalen Bevölkerung früher unheimlich erschienen. Geologisch ist der Berg das Zentrum eines kritischen Wasserscheidennetzwerks; die fast täglichen heftigen Regenfälle auf seinen Flanken fließen direkt in den Río Chagres. Dieser Fluss wiederum ist die Hauptwasserquelle für den Gatún-See und damit absolut überlebenswichtig für den Betrieb der Panamakanal-Schleusen. Ohne die dichten Bergregenwälder des Cerro Bruja, die wie ein Schwamm wirken, gäbe es nicht genug Wasser für den Kanalverkehr. Geographie K8 — Wasserscheiden und der Betrieb des Panamakanals."
     },
     factsAdvanced: {
-      de: ["Fast 1.000 Meter hoher Berg, der im Herzen des Chagres-Nationalparks liegt.", "Der Name 'Hexenberg' stammt von dem dichten, bedrohlich wirkenden Dauernebel.", "Fungiert wie ein gewaltiger geologischer Schwamm für den Río Chagres.", "Liefert einen signifikanten Anteil des Wassers, das für den Kanalbetrieb nötig ist.", "Die unberührten Wälder verhindern die katastrophale Verschlammung der Flüsse."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Fast 1.000 Meter hoher Berg, der im Herzen des Chagres-Nationalparks liegt.", "Der Name 'Hexenberg' stammt von dem dichten, bedrohlich wirkenden Dauernebel.", "Fungiert wie ein gewaltiger geologischer Schwamm für den Río Chagres.", "Liefert einen signifikanten Anteil des Wassers, das für den Kanalbetrieb nötig ist.", "Die unberührten Wälder verhindern die katastrophale Verschlammung der Flüsse."]
     }
   },
   {
@@ -250,16 +196,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Alpine climate.", "Agricultural center.", "High rainfall.", "Fertile volcanic soil."]
     },
     descriptionAdvanced: {
-      de: "Das Hochland von Cerro Punta liegt im Westen der Provinz Chiriquí auf über 2.000 Metern Höhe und ist das landwirtschaftlich produktivste Tal Panamas. Geologisch gesehen handelt es sich um eine fruchtbare Senke am nordwestlichen Fuß des Volcán Barú. Über Jahrtausende lagerten hier gewaltige Vulkanausbrüche meterdicke Schichten von Bimsstein und Asche ab, die zu extrem nährstoffreichen und gut durchlässigen andosolen (vulkanischen) Böden verwitterten. Durch diese Geologie, gepaart mit einem fast schweizerischen, kühlen Mikroklima, ist Cerro Punta das absolute Zentrum für Panamas Gemüseanbau (Kartoffeln, Zwiebeln, Erdbeeren). Die intensiven landwirtschaftlichen Aktivitäten an den extrem steilen Vulkanhängen bergen jedoch die ständige Gefahr massiver Erdrutsche, besonders während der Regenzeit. Geographie K8 — Vulkanische Böden und Agrarlandschaften.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Das Hochland von Cerro Punta liegt im Westen der Provinz Chiriquí auf über 2.000 Metern Höhe und ist das landwirtschaftlich produktivste Tal Panamas. Geologisch gesehen handelt es sich um eine fruchtbare Senke am nordwestlichen Fuß des Volcán Barú. Über Jahrtausende lagerten hier gewaltige Vulkanausbrüche meterdicke Schichten von Bimsstein und Asche ab, die zu extrem nährstoffreichen und gut durchlässigen andosolen (vulkanischen) Böden verwitterten. Durch diese Geologie, gepaart mit einem fast schweizerischen, kühlen Mikroklima, ist Cerro Punta das absolute Zentrum für Panamas Gemüseanbau (Kartoffeln, Zwiebeln, Erdbeeren). Die intensiven landwirtschaftlichen Aktivitäten an den extrem steilen Vulkanhängen bergen jedoch die ständige Gefahr massiver Erdrutsche, besonders während der Regenzeit. Geographie K8 — Vulkanische Böden und Agrarlandschaften."
     },
     factsAdvanced: {
-      de: ["Liegt auf über 2.000 Metern Höhe am nordwestlichen Fuß des Volcán Barú.", "Das Tal besteht aus meterdicken, extrem nährstoffreichen Vulkanascheschichten.", "Ist das unbestrittene Zentrum des panamaischen Hochlandgemüseanbaus.", "Ein kühles, fast europäisches Mikroklima, in dem sogar Erdbeeren gedeihen.", "Der intensive Anbau an den steilen Hängen birgt ein immenses Erdrutschrisiko."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Liegt auf über 2.000 Metern Höhe am nordwestlichen Fuß des Volcán Barú.", "Das Tal besteht aus meterdicken, extrem nährstoffreichen Vulkanascheschichten.", "Ist das unbestrittene Zentrum des panamaischen Hochlandgemüseanbaus.", "Ein kühles, fast europäisches Mikroklima, in dem sogar Erdbeeren gedeihen.", "Der intensive Anbau an den steilen Hängen birgt ein immenses Erdrutschrisiko."]
     }
   },
   {
@@ -276,16 +216,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Steep slopes.", "Hiking area.", "Dense vegetation.", "Typical for the West Panama arc."]
     },
     descriptionAdvanced: {
-      de: "Der Cerro Trinidad in der Provinz Panama Oeste ist mit etwa 1.000 Metern eine der markantesten Formationen der Cordillera. Der Berg hat die Form einer gewaltigen Pyramide oder eines Haifischzahns, der abrupt aus der umgebenden hügeligen Landschaft emporragt. Geologisch handelt es sich um einen Vulkanschlot (Neck), den massiven Kern aus erhärteter Magma eines alten Vulkans, dessen äußere weichere Flanken im Laufe von Millionen Jahren komplett wegerodiert wurden. Diese extrem steile, felsige Struktur macht ihn zu einer beliebten Herausforderung für erfahrene Wanderer und Kletterer. Der Berg ist von Nebelwäldern bedeckt und beheimatet eine isolierte Flora und Fauna, die durch die schroffe Geomorphologie hervorragend vor menschlicher Erschließung geschützt ist. Geographie K8 — Vulkanische Pfropfen und Erosion.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Trinidad in der Provinz Panama Oeste ist mit etwa 1.000 Metern eine der markantesten Formationen der Cordillera. Der Berg hat die Form einer gewaltigen Pyramide oder eines Haifischzahns, der abrupt aus der umgebenden hügeligen Landschaft emporragt. Geologisch handelt es sich um einen Vulkanschlot (Neck), den massiven Kern aus erhärteter Magma eines alten Vulkans, dessen äußere weichere Flanken im Laufe von Millionen Jahren komplett wegerodiert wurden. Diese extrem steile, felsige Struktur macht ihn zu einer beliebten Herausforderung für erfahrene Wanderer und Kletterer. Der Berg ist von Nebelwäldern bedeckt und beheimatet eine isolierte Flora und Fauna, die durch die schroffe Geomorphologie hervorragend vor menschlicher Erschließung geschützt ist. Geographie K8 — Vulkanische Pfropfen und Erosion."
     },
     factsAdvanced: {
-      de: ["Ein pyramidenförmiger Gipfel (ca. 1.000 m) in der Provinz Panama Oeste.", "Ist ein geologischer Vulkanschlot (Neck) aus massiv erhärtetem Magma.", "Die weicheren Flanken des ursprünglichen Vulkans sind völlig wegerodiert.", "Die extrem schroffen Klippen machen ihn zu einem beliebten Kletterziel.", "Seine Topografie hat den Berg effektiv vor Abholzung und Landwirtschaft geschützt."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein pyramidenförmiger Gipfel (ca. 1.000 m) in der Provinz Panama Oeste.", "Ist ein geologischer Vulkanschlot (Neck) aus massiv erhärtetem Magma.", "Die weicheren Flanken des ursprünglichen Vulkans sind völlig wegerodiert.", "Die extrem schroffen Klippen machen ihn zu einem beliebten Kletterziel.", "Seine Topografie hat den Berg effektiv vor Abholzung und Landwirtschaft geschützt."]
     }
   },
   {
@@ -302,16 +236,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Important water source.", "High floral diversity.", "Near the capital.", "Cool microclimate."]
     }, image: "/poi-images/cerro-jefe-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Jefe (ca. 1.007 Meter) in der Provinz Panamá ist eine der wichtigsten und am leichtesten zugänglichen Erhebungen in der Nähe der Hauptstadt (Teil des Nationalparks Chagres). Die Geologie dieses Berges und des angrenzenden Cerro Azul ist faszinierend: Obwohl er in den feuchten Tropen liegt, ist ein Großteil des Berges von sehr nährstoffarmen, extrem sauren Böden bedeckt. Diese ungewöhnlichen Bodenbedingungen führten zur Evolution eines einzigartigen, zwergwüchsigen Nebelwald-Ökosystems, in dem Bäume oft nur wenige Meter hoch wachsen, aber dicht mit Epiphyten und seltenen fleischfressenden Pflanzen bedeckt sind. Oben auf dem Berg befinden sich wichtige Telekommunikationsantennen, die die Hauptstadt versorgen. Biologie K8 — Zwergwälder und saure Böden.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Jefe (ca. 1.007 Meter) in der Provinz Panamá ist eine der wichtigsten und am leichtesten zugänglichen Erhebungen in der Nähe der Hauptstadt (Teil des Nationalparks Chagres). Die Geologie dieses Berges und des angrenzenden Cerro Azul ist faszinierend: Obwohl er in den feuchten Tropen liegt, ist ein Großteil des Berges von sehr nährstoffarmen, extrem sauren Böden bedeckt. Diese ungewöhnlichen Bodenbedingungen führten zur Evolution eines einzigartigen, zwergwüchsigen Nebelwald-Ökosystems, in dem Bäume oft nur wenige Meter hoch wachsen, aber dicht mit Epiphyten und seltenen fleischfressenden Pflanzen bedeckt sind. Oben auf dem Berg befinden sich wichtige Telekommunikationsantennen, die die Hauptstadt versorgen. Biologie K8 — Zwergwälder und saure Böden."
     },
     factsAdvanced: {
-      de: ["Liegt auf ca. 1.007 Metern Höhe und ist Teil des Chagres-Nationalparks.", "Die Böden des Berges sind ungewöhnlich nährstoffarm und extrem sauer.", "Beherbergt ein seltenes Ökosystem aus zwergwüchsigen, knorrigen Nebelwäldern.", "Ein Paradies für Botaniker, die seltene endemische und fleischfressende Pflanzen studieren.", "Dient als kritischer Standort für die Telekommunikationsinfrastruktur der Hauptstadt."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Liegt auf ca. 1.007 Metern Höhe und ist Teil des Chagres-Nationalparks.", "Die Böden des Berges sind ungewöhnlich nährstoffarm und extrem sauer.", "Beherbergt ein seltenes Ökosystem aus zwergwüchsigen, knorrigen Nebelwäldern.", "Ein Paradies für Botaniker, die seltene endemische und fleischfressende Pflanzen studieren.", "Dient als kritischer Standort für die Telekommunikationsinfrastruktur der Hauptstadt."]
     }
   },
   {
@@ -328,16 +256,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Hiking area.", "Easily accessible.", "Jungle trails.", "Good viewpoint."]
     }, image: "/poi-images/cerro-ceniza-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Ceniza ist eine weniger bekannte, aber geologisch bemerkenswerte Erhebung im zentralen Panama, oft im Zusammenhang mit den alten vulkanischen Aktivitäten der Region (nahe El Valle oder Campana) erwähnt. Sein Name 'Ceniza' (Asche) weist direkt auf seine Ursprünge hin: Der Hügel besteht aus akkumulierten, komprimierten Schichten von Tephra und Vulkanasche aus prähistorischen Eruptionen. Im Laufe der Jahrtausende wurden diese Ascheschichten zu Tuffstein verdichtet. In Trockenzeiten kann der Boden extrem brüchig sein, während er sich in der Regenzeit schnell in tiefen, gefährlichen Schlamm verwandelt. Gebiete mit diesen geologischen Merkmalen sind für die Landwirtschaft interessant, weisen jedoch oft eine problematische Instabilität bei Hanglagen auf. Geographie K8 — Vulkanische Tephra und Tuffstein.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Ceniza ist eine weniger bekannte, aber geologisch bemerkenswerte Erhebung im zentralen Panama, oft im Zusammenhang mit den alten vulkanischen Aktivitäten der Region (nahe El Valle oder Campana) erwähnt. Sein Name 'Ceniza' (Asche) weist direkt auf seine Ursprünge hin: Der Hügel besteht aus akkumulierten, komprimierten Schichten von Tephra und Vulkanasche aus prähistorischen Eruptionen. Im Laufe der Jahrtausende wurden diese Ascheschichten zu Tuffstein verdichtet. In Trockenzeiten kann der Boden extrem brüchig sein, während er sich in der Regenzeit schnell in tiefen, gefährlichen Schlamm verwandelt. Gebiete mit diesen geologischen Merkmalen sind für die Landwirtschaft interessant, weisen jedoch oft eine problematische Instabilität bei Hanglagen auf. Geographie K8 — Vulkanische Tephra und Tuffstein."
     },
     factsAdvanced: {
-      de: ["Ein Hügel, der aus alten Auswürfen von Vulkanasche ('Ceniza') entstanden ist.", "Das Gestein besteht vorwiegend aus verdichtetem Tuffstein und Tephra.", "Veranschaulicht die explosive vulkanische Vergangenheit von Zentralpanama.", "Die Böden sind sehr fruchtbar, aber bei starken Regenfällen stark erosionsgefährdet.", "Oft geprägt durch rissige Texturen in der Trockenzeit und Schlamm in der Regenzeit."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein Hügel, der aus alten Auswürfen von Vulkanasche ('Ceniza') entstanden ist.", "Das Gestein besteht vorwiegend aus verdichtetem Tuffstein und Tephra.", "Veranschaulicht die explosive vulkanische Vergangenheit von Zentralpanama.", "Die Böden sind sehr fruchtbar, aber bei starken Regenfällen stark erosionsgefährdet.", "Oft geprägt durch rissige Texturen in der Trockenzeit und Schlamm in der Regenzeit."]
     }
   },
   {
@@ -354,16 +276,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Part of volcanic crater.", "Hiking area.", "Beautiful view.", "Natural monument."]
     }, image: "/poi-images/cerro-cara-de-iguana-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Cara de Iguana ('Leguangesicht-Berg') ist ein markanter Hügel, der direkt aus den flachen Kraterausläufern von El Valle de Antón aufsteigt. Der Name rührt von seinem Profil her, das bei bestimmtem Lichteinfall den charakteristischen, gezackten Kopfschuppen und der Schnauze eines riesigen grünen Leguans ähnelt – ein exzellentes Beispiel dafür, wie lokale Gemeinschaften geomorphologischen Formationen mythologische oder tierische Namen geben. Geologisch ist er ein Überrest von zähflüssigen Lavaströmen am Rande des Hauptkraters. Aufgrund seiner geringeren Höhe (unter 1.000 Meter) und der leichten Zugänglichkeit vom Stadtzentrum aus ist er ein sehr beliebtes Ausflugsziel, das einen perfekten Überblick über das Innenleben der gigantischen El Valle-Caldera bietet. Geographie K7 — Geomorphologie und lokale Namensgebung.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Cara de Iguana ('Leguangesicht-Berg') ist ein markanter Hügel, der direkt aus den flachen Kraterausläufern von El Valle de Antón aufsteigt. Der Name rührt von seinem Profil her, das bei bestimmtem Lichteinfall den charakteristischen, gezackten Kopfschuppen und der Schnauze eines riesigen grünen Leguans ähnelt – ein exzellentes Beispiel dafür, wie lokale Gemeinschaften geomorphologischen Formationen mythologische oder tierische Namen geben. Geologisch ist er ein Überrest von zähflüssigen Lavaströmen am Rande des Hauptkraters. Aufgrund seiner geringeren Höhe (unter 1.000 Meter) und der leichten Zugänglichkeit vom Stadtzentrum aus ist er ein sehr beliebtes Ausflugsziel, das einen perfekten Überblick über das Innenleben der gigantischen El Valle-Caldera bietet. Geographie K7 — Geomorphologie und lokale Namensgebung."
     },
     factsAdvanced: {
-      de: ["Ein markanter vulkanischer Hügel im Krater von El Valle de Antón.", "Sein Profil erinnert optisch an den Kopf eines gigantischen, gezackten Leguans.", "Geologisch ein Überrest aus zähflüssigen Lavaströmen (Dazit) des alten Vulkans.", "Bietet eine der besten Panoramaaussichten auf den gesamten Talboden.", "Ein klassisches Beispiel für die kulturelle Benennung geologischer Formationen."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein markanter vulkanischer Hügel im Krater von El Valle de Antón.", "Sein Profil erinnert optisch an den Kopf eines gigantischen, gezackten Leguans.", "Geologisch ein Überrest aus zähflüssigen Lavaströmen (Dazit) des alten Vulkans.", "Bietet eine der besten Panoramaaussichten auf den gesamten Talboden.", "Ein klassisches Beispiel für die kulturelle Benennung geologischer Formationen."]
     }
   },
   {
@@ -380,16 +296,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Part of mountain.", "Dense vegetation.", "Hiking region.", "Hilly."]
     }, image: "/poi-images/cerro-trinidad-norte-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Cerro Trinidad Norte bezieht sich auf die nördlichen Flanken und Ausläufer des massiven Cerro Trinidad in der Provinz Panama Oeste. Während der südliche Hauptgipfel durch extreme Steilheit gekennzeichnet ist, fällt das Relief nach Norden in ein komplexes System von Rinnen, Tälern und dichteren Wäldern ab, die Teil der Wasserscheide in das Gatún-Becken sind. Diese nördlichen Hänge fangen enorme Mengen an Feuchtigkeit von den karibischen Winden ab und wirken als hydrologischer Schwamm. Das Wasser, das durch diese vulkanischen Böden sickert, speist den Río Ciri Grande, einen der wichtigsten Zuflüsse des Gatún-Sees. Die geologische Stabilität dieser Hänge ist entscheidend, um zu verhindern, dass Erdrutsche die Flüsse mit Schlamm füllen, was den Kanalbetrieb stören würde. Geographie K8 — Hydrologie und Kanal-Zuläufe.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Cerro Trinidad Norte bezieht sich auf die nördlichen Flanken und Ausläufer des massiven Cerro Trinidad in der Provinz Panama Oeste. Während der südliche Hauptgipfel durch extreme Steilheit gekennzeichnet ist, fällt das Relief nach Norden in ein komplexes System von Rinnen, Tälern und dichteren Wäldern ab, die Teil der Wasserscheide in das Gatún-Becken sind. Diese nördlichen Hänge fangen enorme Mengen an Feuchtigkeit von den karibischen Winden ab und wirken als hydrologischer Schwamm. Das Wasser, das durch diese vulkanischen Böden sickert, speist den Río Ciri Grande, einen der wichtigsten Zuflüsse des Gatún-Sees. Die geologische Stabilität dieser Hänge ist entscheidend, um zu verhindern, dass Erdrutsche die Flüsse mit Schlamm füllen, was den Kanalbetrieb stören würde. Geographie K8 — Hydrologie und Kanal-Zuläufe."
     },
     factsAdvanced: {
-      de: ["Die nördlichen Ausläufer des massiven vulkanischen Pfropfens Cerro Trinidad.", "Die Hänge fangen massiv Feuchtigkeit der karibischen Passatwinde ab.", "Speisen den Río Ciri Grande, der wichtig für den Wasserhaushalt des Panamakanals ist.", "Dienen als hydrologischer Schwamm, der Wasser in den vulkanischen Böden speichert.", "Ein intakter Waldschutz hier ist kritisch, um Verschlammung der Kanalzuflüsse zu stoppen."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Die nördlichen Ausläufer des massiven vulkanischen Pfropfens Cerro Trinidad.", "Die Hänge fangen massiv Feuchtigkeit der karibischen Passatwinde ab.", "Speisen den Río Ciri Grande, der wichtig für den Wasserhaushalt des Panamakanals ist.", "Dienen als hydrologischer Schwamm, der Wasser in den vulkanischen Böden speichert.", "Ein intakter Waldschutz hier ist kritisch, um Verschlammung der Kanalzuflüsse zu stoppen."]
     }
   },
   {
@@ -405,23 +315,14 @@ export const poiExtraPanamaReliefV2: POI[] = [
       ro: ["3.474 m înălțime.", "Ambele oceane vizibile.", "Parc național.", "Climă alpină."],
       en: ["3,474 m high.", "Both oceans visible.", "National park.", "Alpine climate."]
     },
+ image: "/poi-images/volcan-baru-relief-v2.webp",
     descriptionAdvanced: {
+      de: "Der Volcán Barú in der Provinz Chiriquí ist mit 3.474 Metern der mit Abstand höchste Punkt Panamas und das dominierende geologische Merkmal des Landes. Es handelt sich um einen schlafenden (aber nicht erloschenen) Stratovulkan, dessen letzter dokumentierter Ausbruch um das Jahr 1550 stattfand. Die gewaltige Höhe des Berges sorgt für frostige Nächte in Äquatornähe und ermöglicht in seltenen, extrem klaren Morgensstunden eine ungestörte Sicht sowohl auf den Pazifischen Ozean als auch auf das Karibische Meer. Die Flanken des Vulkans sind von fruchtbaren Aschenschichten und dichten Nebelwäldern bedeckt, die seltene Tiere wie den Quetzal beherbergen. Die konstante (wenn auch schwache) seismische Aktivität erinnert die Bewohner stets daran, dass der tektonische Motor Zentralamerikas noch immer läuft. Geographie K8 — Stratovulkane und tektonische Platten.",
       ro: "Vulcanul Barú, punctul culminant al Republicii Panama, este o structură vulcanică impunătoare situată în Cordillera Central, în provincia Chiriquí. Cu o înălțime de 3.474 metri, acest vulcan adormit reprezintă elementul dominant al reliefului panamez, modelând climatul și agricultura întregii regiuni occidentale prin solurile sale fertile și altitudinea sa. Din punct de vedere geologic, Barú face parte din arcul vulcanic al Americii Centrale, iar ascensiunea sa oferă o călătorie prin diverse zone de viață, de la păduri tropicale umede la păduri de nori și zone subalpine. Vârful său este singurul loc geografic din Panama unde, în condiții atmosferice ideale, se pot vedea cele două oceane simultan, fiind un simbol al suveranității naturale a țării și o destinație de top pentru alpinism și ecoturism. Geografie K7 — Vulcanismul și formarea reliefului montan."
     },
     factsAdvanced: {
-      ro: ["Cel mai înalt vârf din Panama și al patrulea din America Centrală.", "Format prin procese tectonice complexe la sudul faliei de subducție.", "Pantele sale prezintă un relief neregulat cu numeroase curgeri de lavă vechi.", "Temperaturile la vârf pot scădea sub 0°C, producând uneori brumă.", "Este înconjurat de un parc național de peste 14.000 de hectare.", "Constituie o barieră orografică ce determină precipitații abundente în regiune.", "Situl este monitorizat constant pentru activitate seismică și geotermală."]
-    }, image: "/poi-images/volcan-baru-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Volcán Barú in der Provinz Chiriquí ist mit 3.474 Metern der mit Abstand höchste Punkt Panamas und das dominierende geologische Merkmal des Landes. Es handelt sich um einen schlafenden (aber nicht erloschenen) Stratovulkan, dessen letzter dokumentierter Ausbruch um das Jahr 1550 stattfand. Die gewaltige Höhe des Berges sorgt für frostige Nächte in Äquatornähe und ermöglicht in seltenen, extrem klaren Morgensstunden eine ungestörte Sicht sowohl auf den Pazifischen Ozean als auch auf das Karibische Meer. Die Flanken des Vulkans sind von fruchtbaren Aschenschichten und dichten Nebelwäldern bedeckt, die seltene Tiere wie den Quetzal beherbergen. Die konstante (wenn auch schwache) seismische Aktivität erinnert die Bewohner stets daran, dass der tektonische Motor Zentralamerikas noch immer läuft. Geographie K8 — Stratovulkane und tektonische Platten.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
       de: ["Der höchste Berg und einzige große Vulkan Panamas (3.474 Meter hoch).", "Ein schlafender Stratovulkan, dessen letzter Ausbruch um das Jahr 1550 stattfand.", "Von seinem Gipfel sind an klaren Tagen beide Ozeane (Karibik und Pazifik) sichtbar.", "Seine extrem fruchtbaren Vulkanascheschichten ermöglichen Panamas Hochland-Landwirtschaft.", "Das kühle, fast alpine Mikroklima am Gipfel ist völlig untypisch für den Äquator."],
-      hu: [],
-      ro: [],
-      en: []
+      ro: ["Cel mai înalt vârf din Panama și al patrulea din America Centrală.", "Format prin procese tectonice complexe la sudul faliei de subducție.", "Pantele sale prezintă un relief neregulat cu numeroase curgeri de lavă vechi.", "Temperaturile la vârf pot scădea sub 0°C, producând uneori brumă.", "Este înconjurat de un parc național de peste 14.000 de hectare.", "Constituie o barieră orografică ce determină precipitații abundente în regiune.", "Situl este monitorizat constant pentru activitate seismică și geotermală."]
     }
   },
   {
@@ -438,22 +339,12 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Gentle elevation.", "Hiking destination.", "Near the city.", "Green spaces."]
     },
     descriptionAdvanced: {
+      de: "Die Loma del Pan (Brot-Hügel) ist eine sanfte, aber landschaftlich prägende Hügelformation in der zentralen Region Panamas (oft der Gegend um den Lago Bayano oder Coclé zugeordnet). Im Gegensatz zu den schroffen vulkanischen Gipfeln der Kordillere sind Lomas alte, stark abgerundete Hügel, die durch Jahrtausende chemischer und physikalischer Erosion im tropischen Klima glattgeschliffen wurden. Ihr Name spiegelt oft die halbkugelige Form eines traditionellen Brotlaibs wider. Solche Hügel in Zentralpanama sind geologisch wichtig, da sie oft von alten Sedimentgesteinen zeugen, die gehoben wurden, als Nord- und Südamerika kollidierten. Während der Trockenzeit in Panamas 'Arco Seco' verdorrt die Vegetation auf diesen Hügeln fast vollständig, was zu großflächigen, oft menschengemachten Buschbränden (Roza) führt. Geographie K7 — Tropische Erosion und Sedimentgesteine.",
       ro: "Loma del Pan este o formațiune deluroasă distinctivă situată în provincia Panama, în zona Capira, reprezentând un punct de referință vizual și geografic important de-a lungul autostrăzii Panamericane. Acest relief se caracterizează prin formele sale rotunjite, acoperite de o vegetație densă, și joacă un rol în delimitarea zonelor agricole din centrul isthmului. Deși nu atinge altitudini impresionante, Loma del Pan oferă o perspectivă asupra tranziției dintre câmpiile de coastă și munții Cordillerei Centrale. Pentru localnici, dealul este încărcat de legende și este o destinație populară pentru drumeții scurte care oferă vederi panoramice asupra bazinului hidrografic al canalului și a zonelor rurale din jur. Conservarea vegetației sale este crucială pentru prevenirea eroziunii solului într-o zonă cu precipitații tropicale intense. Geografie K7 — Relieful de deal și dinamica peisajului rural."
     },
     factsAdvanced: {
-      ro: ["Situată strategic în districtul Capira, o zonă de mare importanță agricolă.", "Relieful său este tipic pentru regiunea de tranziție a isthmului.", "Un punct de referință pentru călătorii care se îndreaptă spre interiorul țării.", "Zonă cu soluri predispuse la eroziune, necesitând protecția pădurilor.", "Oferă habitat pentru specii de păsări mici și reptile locale.", "Include trasee utilizate pentru ecoturismul de proximitate.", "Numele provine de la forma sa care amintește de o pâine tradițională."]
-    },
-    descriptionAdvanced: {
-      de: "Die Loma del Pan (Brot-Hügel) ist eine sanfte, aber landschaftlich prägende Hügelformation in der zentralen Region Panamas (oft der Gegend um den Lago Bayano oder Coclé zugeordnet). Im Gegensatz zu den schroffen vulkanischen Gipfeln der Kordillere sind Lomas alte, stark abgerundete Hügel, die durch Jahrtausende chemischer und physikalischer Erosion im tropischen Klima glattgeschliffen wurden. Ihr Name spiegelt oft die halbkugelige Form eines traditionellen Brotlaibs wider. Solche Hügel in Zentralpanama sind geologisch wichtig, da sie oft von alten Sedimentgesteinen zeugen, die gehoben wurden, als Nord- und Südamerika kollidierten. Während der Trockenzeit in Panamas 'Arco Seco' verdorrt die Vegetation auf diesen Hügeln fast vollständig, was zu großflächigen, oft menschengemachten Buschbränden (Roza) führt. Geographie K7 — Tropische Erosion und Sedimentgesteine.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
       de: ["Ein Beispiel für sanft abgerundete Hügelformationen durch extreme tropische Erosion.", "Der Name 'Loma del Pan' bezieht sich auf die halbkugelige, brotlaibartige Form.", "Besteht oft aus alten Sedimentgesteinen, die durch tektonische Kräfte angehoben wurden.", "In der Trockenzeit ist die Vegetation auf diesen Hügeln extrem brandgefährdet.", "Steht in starkem landschaftlichen Kontrast zu den spitzen Vulkanformationen Panamas."],
-      hu: [],
-      ro: [],
-      en: []
+      ro: ["Situată strategic în districtul Capira, o zonă de mare importanță agricolă.", "Relieful său este tipic pentru regiunea de tranziție a isthmului.", "Un punct de referință pentru călătorii care se îndreaptă spre interiorul țării.", "Zonă cu soluri predispuse la eroziune, necesitând protecția pădurilor.", "Oferă habitat pentru specii de păsări mici și reptile locale.", "Include trasee utilizate pentru ecoturismul de proximitate.", "Numele provine de la forma sa care amintește de o pâine tradițională."]
     }
   },
   {
@@ -469,23 +360,14 @@ export const poiExtraPanamaReliefV2: POI[] = [
       ro: ["Transfrontalier.", "Vârfuri înalte.", "Pădure de nori densă.", "Coridor important."],
       en: ["Cross-border.", "High peaks.", "Dense cloud forest.", "Important corridor."]
     },
+ image: "/poi-images/cordillera-talamanca-relief-v2.webp",
     descriptionAdvanced: {
+      de: "Das Talamanca-Gebirge (Cordillera de Talamanca) ist das höchste, nicht-vulkanische Gebirgsmassiv Mittelamerikas, das sich vom südlichen Costa Rica bis in den Westen Panamas (Provinz Bocas del Toro und Chiriquí) erstreckt. Entstanden durch die tektonische Kollision der Kokosplatte mit der Karibischen Platte, zeichnet sich diese Bergkette durch extreme Zerklüftung und eine Höhe von über 3.000 Metern aus. Sie ist das Herzstück des internationalen Friedensparks La Amistad (UNESCO-Weltnaturerbe). Die extremen Höhen und die Isolation haben zur Entwicklung einzigartiger Ökosysteme wie den hochalpinen Páramos und dichten Eichen-Nebelwäldern geführt. Das Gebirge fungiert zudem als unüberwindbare Barriere für viele Tier- und Pflanzenarten, was den hohen Grad an Endemismus auf beiden Seiten des Massivs erklärt. Geographie K8 — Tektonische Faltung und internationale Schutzgebiete.",
       ro: "Cordillera de Talamanca este un lanț muntos maiestuos care se întinde din sudul Costa Ricăi până în vestul Panamei, în provincia Chiriquí. Acest relief reprezintă cea mai înaltă și mai accidentată unitate geografică a isthmului, fiind rezultatul unor procese tectonice intense de-a lungul milioanelor de ani. Munții Talamanca adăpostesc unele dintre cele mai virgine păduri de nori din lume și sunt declarați Patrimoniu Mondial UNESCO sub denumirea de Parcul Internațional La Amistad. Biodiversitatea de aici este incredibilă, incluzând mii de specii endemice care nu se găsesc nicăieri altundeva pe glob. Cordillera joacă un rol critic în reglarea climei naționale și este izvorul multor râuri care alimentează cele mai fertile văi agricole din Panama, fiind coloana vertebrală a biodiversității montane central-americane. Științe Naturale K8 — Orogeneza și endemismul montan tropical."
     },
     factsAdvanced: {
-      ro: ["Cea mai înaltă regiune nevulcanică din Panama și Costa Rica.", "Găzduiește cele mai vaste păduri de stejar de mare altitudine din regiune.", "Formează o barieră naturală între ecosistemele Pacificului și ale Atlanticului.", "Vârfurile sale depășesc frecvent 3.000 de metri deasupra nivelului mării.", "Unul dintre puținele locuri unde trăiesc toate cele cinci specii de feline mari din Panama.", "Include zone de gheață sezonieră în punctele cele mai înalte.", "Constituie un laborator natural pentru studiul glaciațiunilor tropicale trecute."]
-    }, image: "/poi-images/cordillera-talamanca-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Talamanca-Gebirge (Cordillera de Talamanca) ist das höchste, nicht-vulkanische Gebirgsmassiv Mittelamerikas, das sich vom südlichen Costa Rica bis in den Westen Panamas (Provinz Bocas del Toro und Chiriquí) erstreckt. Entstanden durch die tektonische Kollision der Kokosplatte mit der Karibischen Platte, zeichnet sich diese Bergkette durch extreme Zerklüftung und eine Höhe von über 3.000 Metern aus. Sie ist das Herzstück des internationalen Friedensparks La Amistad (UNESCO-Weltnaturerbe). Die extremen Höhen und die Isolation haben zur Entwicklung einzigartiger Ökosysteme wie den hochalpinen Páramos und dichten Eichen-Nebelwäldern geführt. Das Gebirge fungiert zudem als unüberwindbare Barriere für viele Tier- und Pflanzenarten, was den hohen Grad an Endemismus auf beiden Seiten des Massivs erklärt. Geographie K8 — Tektonische Faltung und internationale Schutzgebiete.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
       de: ["Das höchste, nicht-vulkanische Gebirgsmassiv in ganz Mittelamerika.", "Erstreckt sich über die Grenze zwischen Costa Rica und Westpanama.", "Entstanden durch die massive Kollision tektonischer Kontinentalplatten.", "Das Kernstück des grenzüberschreitenden UNESCO-Parks La Amistad.", "Beherbergt seltene Ökosysteme wie hochalpine Moorlandschaften (Páramos)."],
-      hu: [],
-      ro: [],
-      en: []
+      ro: ["Cea mai înaltă regiune nevulcanică din Panama și Costa Rica.", "Găzduiește cele mai vaste păduri de stejar de mare altitudine din regiune.", "Formează o barieră naturală între ecosistemele Pacificului și ale Atlanticului.", "Vârfurile sale depășesc frecvent 3.000 de metri deasupra nivelului mării.", "Unul dintre puținele locuri unde trăiesc toate cele cinci specii de feline mari din Panama.", "Include zone de gheață sezonieră în punctele cele mai înalte.", "Constituie un laborator natural pentru studiul glaciațiunilor tropicale trecute."]
     }
   },
   {
@@ -501,23 +383,14 @@ export const poiExtraPanamaReliefV2: POI[] = [
       ro: ["Repere cunoscut.", "Teren deluros.", "Aproape de oraș.", "Poteci de drumeție."],
       en: ["Known landmark.", "Hilly terrain.", "Near the city.", "Hiking trails."]
     },
+ image: "/poi-images/cerro-patacon-relief-v2.webp",
     descriptionAdvanced: {
+      de: "Der Cerro Patacón ist geografisch ein Hügel am Stadtrand von Panama-Stadt, aber landesweit berüchtigt als Standort der gigantischen, offenen Mülldeponie der Metropolregion. Ursprünglich ein bewaldeter Hügel, hat sich die Geomorphologie des Ortes durch die tägliche Ablagerung von Tausenden Tonnen Müll in den letzten Jahrzehnten drastisch und künstlich verändert. Diese massive, menschengemachte Landschaftsform stellt eine der größten ökologischen und gesundheitlichen Herausforderungen Panamas dar. Sickerwasser (Leachate) aus dem Müllberg bedroht lokale Flüsse, während häufige, giftige unterirdische Schwelbrände dichte Rauchwolken über die Hauptstadt treiben. Die Situation am Cerro Patacón ist ein extremes Beispiel für die Überforderung städtischer Infrastruktur durch explosives Bevölkerungswachstum und Konsum. Geographie K8 — Urbane Abfallwirtschaft und Umweltrisiken.",
       ro: "Cerro Patacón este o formațiune geografică situată în districtul Panama care a dobândit o semnificație complexă, fiind locul principalului depozit de deșeuri al capitalei. Deși din punct de vedere al reliefului este un deal integrat în zona metropolitană, impactul său uman și de mediu l-a transformat într-un punct de referință pentru provocările urbanizării moderne. Situat în apropierea Parcului Natural Metropolitan, Cerro Patacón reprezintă o zonă de tensiune ecologică unde gestionarea reziduurilor solide afectează calitatea aerului și a apelor din bazinul canalului. În prezent, se depun eforturi pentru transformarea acestui relief dintr-o problemă de mediu într-un proiect de management sustenabil al deșeurilor și recuperare a terenului, subliniind importanța planificării teritoriale într-o capitală în creștere rapidă. Geografie K7 — Impactul uman asupra reliefului și managementul mediului."
     },
     factsAdvanced: {
-      ro: ["Situat în zona de graniță între pădurea protejată și oraș.", "Afectează direct calitatea ecosistemelor din bazinul râului Cárdenas.", "Un punct central în politicile de sănătate publică și reciclare ale Panamei.", "Relieful a fost modificat semnificativ prin activitatea de depozitare.", "Include proiecte de captare a gazului metan pentru producerea de energie.", "Un exemplu de succes și provocări în gestionarea urbană la scară mare.", "Monitorizat constant pentru prevenirea incendiilor și poluarea pânzei freatice."]
-    }, image: "/poi-images/cerro-patacon-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Cerro Patacón ist geografisch ein Hügel am Stadtrand von Panama-Stadt, aber landesweit berüchtigt als Standort der gigantischen, offenen Mülldeponie der Metropolregion. Ursprünglich ein bewaldeter Hügel, hat sich die Geomorphologie des Ortes durch die tägliche Ablagerung von Tausenden Tonnen Müll in den letzten Jahrzehnten drastisch und künstlich verändert. Diese massive, menschengemachte Landschaftsform stellt eine der größten ökologischen und gesundheitlichen Herausforderungen Panamas dar. Sickerwasser (Leachate) aus dem Müllberg bedroht lokale Flüsse, während häufige, giftige unterirdische Schwelbrände dichte Rauchwolken über die Hauptstadt treiben. Die Situation am Cerro Patacón ist ein extremes Beispiel für die Überforderung städtischer Infrastruktur durch explosives Bevölkerungswachstum und Konsum. Geographie K8 — Urbane Abfallwirtschaft und Umweltrisiken.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
       de: ["Ein Hügel am Rande von Panama-Stadt, bekannt als größte Mülldeponie des Landes.", "Die ursprüngliche Landschaft wurde durch Millionen Tonnen Abfall komplett verändert.", "Das Sickerwasser aus der Deponie ist eine ständige Bedrohung für lokale Flüsse.", "Häufige unterirdische Müllbrände verursachen schwere Luftverschmutzung in der Stadt.", "Ein extremes Beispiel für die ökologischen Folgen explosiven urbanen Wachstums."],
-      hu: [],
-      ro: [],
-      en: []
+      ro: ["Situat în zona de graniță între pădurea protejată și oraș.", "Afectează direct calitatea ecosistemelor din bazinul râului Cárdenas.", "Un punct central în politicile de sănătate publică și reciclare ale Panamei.", "Relieful a fost modificat semnificativ prin activitatea de depozitare.", "Include proiecte de captare a gazului metan pentru producerea de energie.", "Un exemplu de succes și provocări în gestionarea urbană la scară mare.", "Monitorizat constant pentru prevenirea incendiilor și poluarea pânzei freatice."]
     }
   },
   {
@@ -534,16 +407,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Protected area.", "Dense jungle.", "High biodiversity.", "Island interior."]
     }, image: "/poi-images/coiba-inselhuegel-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Die hügelige Landschaft der Isla Coiba (Coiba-Inselhügel) zeugt von der dramatischen tektonischen Geschichte der größten Insel Mittelamerikas. Coiba ist nicht vulkanischen Ursprungs wie viele Küsteninseln, sondern brach vor Millionen von Jahren von der kontinentalen Landmasse Südamerikas oder der Azuero-Halbinsel ab und driftete durch Plattenverschiebungen in den Pazifik. Die höchsten Erhebungen, wie der Cerro La Torre (ca. 426 m), sind von primärem tropischem Feuchtwald bedeckt. Diese dichten, hügeligen Regenwälder fungierten während der 80-jährigen Nutzung der Insel als Strafkolonie als natürliche, undurchdringliche Gefängnismauer, in der entflohene Häftlinge oft spurlos verschwanden. Heute bewahrt dieses isolierte Relief eine der höchsten Endemismusraten der Region. Geographie K8 — Inselabdrift und evolutionäre Isolation.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Die hügelige Landschaft der Isla Coiba (Coiba-Inselhügel) zeugt von der dramatischen tektonischen Geschichte der größten Insel Mittelamerikas. Coiba ist nicht vulkanischen Ursprungs wie viele Küsteninseln, sondern brach vor Millionen von Jahren von der kontinentalen Landmasse Südamerikas oder der Azuero-Halbinsel ab und driftete durch Plattenverschiebungen in den Pazifik. Die höchsten Erhebungen, wie der Cerro La Torre (ca. 426 m), sind von primärem tropischem Feuchtwald bedeckt. Diese dichten, hügeligen Regenwälder fungierten während der 80-jährigen Nutzung der Insel als Strafkolonie als natürliche, undurchdringliche Gefängnismauer, in der entflohene Häftlinge oft spurlos verschwanden. Heute bewahrt dieses isolierte Relief eine der höchsten Endemismusraten der Region. Geographie K8 — Inselabdrift und evolutionäre Isolation."
     },
     factsAdvanced: {
-      de: ["Die hügelige Topografie von Mittelamerikas größter Pazifikinsel (Isla Coiba).", "Entstand durch tektonische Kontinentaldrift, nicht durch Vulkanismus.", "Der höchste Punkt ist der Cerro La Torre mit etwa 426 Metern.", "Die undurchdringlichen bewaldeten Hügel dienten historisch als natürliche Gefängnismauer.", "Die isolationistische Geomorphologie führte zu einer extrem hohen Endemismusrate."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Die hügelige Topografie von Mittelamerikas größter Pazifikinsel (Isla Coiba).", "Entstand durch tektonische Kontinentaldrift, nicht durch Vulkanismus.", "Der höchste Punkt ist der Cerro La Torre mit etwa 426 Metern.", "Die undurchdringlichen bewaldeten Hügel dienten historisch als natürliche Gefängnismauer.", "Die isolationistische Geomorphologie führte zu einer extrem hohen Endemismusrate."]
     }
   },
   {
@@ -560,16 +427,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Hilly landscape.", "Dry forests.", "Used for agriculture.", "Typical for the south."]
     }, image: "/poi-images/azuero-berge-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Die Azuero-Berge (Macizo de Azuero) bilden das zerklüftete, bewaldete Herzland der Azuero-Halbinsel, das sich scharf vom umliegenden trockenen und stark abgeholzten Tiefland ('Arco Seco') abhebt. Dieses isolierte Massiv, dessen höchster Gipfel der Cerro Hoya ist, besteht aus einigen der ältesten marinen Sedimentgesteine Panamas, die tektonisch angehoben wurden. Wegen der extremen Abholzung in den tieferen Lagen für die Rinderzucht fungieren diese Berge heute als letztes kritisches Wasserreservoir. Ohne den dichten Wald, der die Wolken der Pazifikwinde 'melkt' und das Wasser langsam in den Felsboden abgibt, würden die Flüsse, die das trockene Tiefland versorgen, vollständig versiegen, was katastrophale Folgen für die regionale Landwirtschaft hätte. Geographie K8 — Wasserrückhalt und Bodenerosion.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Die Azuero-Berge (Macizo de Azuero) bilden das zerklüftete, bewaldete Herzland der Azuero-Halbinsel, das sich scharf vom umliegenden trockenen und stark abgeholzten Tiefland ('Arco Seco') abhebt. Dieses isolierte Massiv, dessen höchster Gipfel der Cerro Hoya ist, besteht aus einigen der ältesten marinen Sedimentgesteine Panamas, die tektonisch angehoben wurden. Wegen der extremen Abholzung in den tieferen Lagen für die Rinderzucht fungieren diese Berge heute als letztes kritisches Wasserreservoir. Ohne den dichten Wald, der die Wolken der Pazifikwinde 'melkt' und das Wasser langsam in den Felsboden abgibt, würden die Flüsse, die das trockene Tiefland versorgen, vollständig versiegen, was katastrophale Folgen für die regionale Landwirtschaft hätte. Geographie K8 — Wasserrückhalt und Bodenerosion."
     },
     factsAdvanced: {
-      de: ["Das isolierte Gebirgsmassiv im Herzen der ansonsten trockenen Azuero-Halbinsel.", "Besteht aus einigen der ältesten, tektonisch gehobenen Gesteine Panamas.", "Steht in krassem Gegensatz zum stark entwaldeten Tiefland der Rinderzüchter.", "Fungiert als absolut kritischer Wasserspeicher ('Schwamm') für die Halbinsel.", "Der dichte Wolkenwald 'melkt' aktiv Feuchtigkeit aus den pazifischen Winden."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Das isolierte Gebirgsmassiv im Herzen der ansonsten trockenen Azuero-Halbinsel.", "Besteht aus einigen der ältesten, tektonisch gehobenen Gesteine Panamas.", "Steht in krassem Gegensatz zum stark entwaldeten Tiefland der Rinderzüchter.", "Fungiert als absolut kritischer Wasserspeicher ('Schwamm') für die Halbinsel.", "Der dichte Wolkenwald 'melkt' aktiv Feuchtigkeit aus den pazifischen Winden."]
     }
   },
   {
@@ -586,16 +447,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Hiking area.", "Easily accessible.", "Forest trails.", "View of the city."]
     }, image: "/poi-images/cerro-san-miguel-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro San Miguel ist eine auffällige Erhebung auf der Halbinsel Azuero, tief in der Region Macaracas (Provinz Herrera). Geomorphologisch repräsentiert er die alten, abgerundeten und stark erodierten Hügelketten, die den Übergang zwischen den flachen, trockenen Küstenebenen und dem zentralen Azuero-Massiv bilden. Da die Region den längsten Trockenzeiten Panamas ('Arco Seco') ausgesetzt ist, leidet die Topografie hier besonders stark unter Winderosion und der Austrocknung der Böden. Wälder sind weitgehend der traditionellen Brandrodung und Rinderzucht gewichen. Die spärliche Vegetation auf dem Cerro San Miguel und ähnlichen Hügeln zeigt drastisch die Verwundbarkeit dieser alten, trockenen Böden und den dringenden Bedarf an Wiederaufforstung auf der Halbinsel. Geographie K7 — Wind-Erosion in Trockengebieten.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro San Miguel ist eine auffällige Erhebung auf der Halbinsel Azuero, tief in der Region Macaracas (Provinz Herrera). Geomorphologisch repräsentiert er die alten, abgerundeten und stark erodierten Hügelketten, die den Übergang zwischen den flachen, trockenen Küstenebenen und dem zentralen Azuero-Massiv bilden. Da die Region den längsten Trockenzeiten Panamas ('Arco Seco') ausgesetzt ist, leidet die Topografie hier besonders stark unter Winderosion und der Austrocknung der Böden. Wälder sind weitgehend der traditionellen Brandrodung und Rinderzucht gewichen. Die spärliche Vegetation auf dem Cerro San Miguel und ähnlichen Hügeln zeigt drastisch die Verwundbarkeit dieser alten, trockenen Böden und den dringenden Bedarf an Wiederaufforstung auf der Halbinsel. Geographie K7 — Wind-Erosion in Trockengebieten."
     },
     factsAdvanced: {
-      de: ["Eine alte, abgerundete Hügellandschaft in der trockenen Provinz Herrera.", "Markiert den geologischen Übergang vom Küstenflachland zum Zentralmassiv.", "Leidet extrem unter Winderosion während der intensiven Trockenzeit (Arco Seco).", "Die Böden wurden durch jahrzehntelange Brandrodung und Rinderzucht degradiert.", "Ein exemplarisches Beispiel für die Notwendigkeit regionaler Wiederaufforstung."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Eine alte, abgerundete Hügellandschaft in der trockenen Provinz Herrera.", "Markiert den geologischen Übergang vom Küstenflachland zum Zentralmassiv.", "Leidet extrem unter Winderosion während der intensiven Trockenzeit (Arco Seco).", "Die Böden wurden durch jahrzehntelange Brandrodung und Rinderzucht degradiert.", "Ein exemplarisches Beispiel für die Notwendigkeit regionaler Wiederaufforstung."]
     }
   },
   {
@@ -612,16 +467,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Mountain region.", "Dense forests.", "Hiking area.", "Part of the foothills."]
     }, image: "/poi-images/cerro-cucurucha-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Cucurucha ist ein markanter Hügel, der als steile Wache über der Bucht und dem Mündungsgebiet von San Miguel in der Provinz Darién steht. Wegen seiner Position an der Schnittstelle zwischen den massiven Flusssystemen (Tuira) und dem Pazifik ist der Berg eine wichtige geologische Landmarke in einer ansonsten flachen, mangrovenreichen Region. Sein festes Felsfundament widerstand der extremen Flusserosion, die die umliegenden weichen Sedimente wegspülte. Für die indigenen Emberá-Gemeinschaften und frühe Entdecker wie Balboa diente er als essenzieller Navigations- und Aussichtspunkt über den weiten, unübersichtlichen Dschungel und die schlammigen Gezeitenebenen. Die dichten Wälder an seinen Flanken verhindern die katastrophale Erosion in das hochsensible Ästuar. Geographie K8 — Flusserosion und Landschaftsmarker.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Cucurucha ist ein markanter Hügel, der als steile Wache über der Bucht und dem Mündungsgebiet von San Miguel in der Provinz Darién steht. Wegen seiner Position an der Schnittstelle zwischen den massiven Flusssystemen (Tuira) und dem Pazifik ist der Berg eine wichtige geologische Landmarke in einer ansonsten flachen, mangrovenreichen Region. Sein festes Felsfundament widerstand der extremen Flusserosion, die die umliegenden weichen Sedimente wegspülte. Für die indigenen Emberá-Gemeinschaften und frühe Entdecker wie Balboa diente er als essenzieller Navigations- und Aussichtspunkt über den weiten, unübersichtlichen Dschungel und die schlammigen Gezeitenebenen. Die dichten Wälder an seinen Flanken verhindern die katastrophale Erosion in das hochsensible Ästuar. Geographie K8 — Flusserosion und Landschaftsmarker."
     },
     factsAdvanced: {
-      de: ["Ein markanter felsiger Hügel am Mündungsgebiet der Tuira-Flüsse im Darién.", "Widerstand durch sein festes Fundament der jahrtausendelangen Flusserosion.", "Diente schon früh als lebenswichtiger Navigationspunkt im flachen Dschungel.", "Die Bewaldung seiner Flanken verhindert Erosion und Verschlammung des Ästuars.", "Überblickt die weiten Mangrovenebenen der Bucht von San Miguel."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein markanter felsiger Hügel am Mündungsgebiet der Tuira-Flüsse im Darién.", "Widerstand durch sein festes Fundament der jahrtausendelangen Flusserosion.", "Diente schon früh als lebenswichtiger Navigationspunkt im flachen Dschungel.", "Die Bewaldung seiner Flanken verhindert Erosion und Verschlammung des Ästuars.", "Überblickt die weiten Mangrovenebenen der Bucht von San Miguel."]
     }
   },
   {
@@ -638,16 +487,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Highlands.", "Cloud forest.", "Important watershed.", "Biodiversity."]
     }, image: "/poi-images/altos-de-campana-hohe-relief-v2.webp",
     descriptionAdvanced: {
-      de: "Das Hochland Altos de Campana, das den gleichnamigen Nationalpark beherbergt, ist geologisch das Überbleibsel des Vulkans El Valle. Dieses Hochplateau ragt scharf aus der relativ flachen Pazifikküste empor und bildet den Beginn der Cordillera in Zentralpanama. Die stark verwitterten Lavaströme und vulkanischen Ascheablagerungen haben eine extrem unebene Landschaft aus tiefen Schluchten, senkrechten Klippen und isolierten Plateaus geschaffen. Diese starke Reliefenergie (große Höhenunterschiede auf kurzem Raum) führt zu intensiven Steigungsregen, wenn die feuchten Pazifikwinde auf die Klippen prallen. Das Resultat ist ein einzigartiger Übergangswald, in dem sich trockenheitsresistente Pazifik-Flora mit feuchtigkeitsliebenden karibischen Epiphyten auf engstem Raum vermischt. Geographie K8 — Reliefenergie und Steigungsregen.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Das Hochland Altos de Campana, das den gleichnamigen Nationalpark beherbergt, ist geologisch das Überbleibsel des Vulkans El Valle. Dieses Hochplateau ragt scharf aus der relativ flachen Pazifikküste empor und bildet den Beginn der Cordillera in Zentralpanama. Die stark verwitterten Lavaströme und vulkanischen Ascheablagerungen haben eine extrem unebene Landschaft aus tiefen Schluchten, senkrechten Klippen und isolierten Plateaus geschaffen. Diese starke Reliefenergie (große Höhenunterschiede auf kurzem Raum) führt zu intensiven Steigungsregen, wenn die feuchten Pazifikwinde auf die Klippen prallen. Das Resultat ist ein einzigartiger Übergangswald, in dem sich trockenheitsresistente Pazifik-Flora mit feuchtigkeitsliebenden karibischen Epiphyten auf engstem Raum vermischt. Geographie K8 — Reliefenergie und Steigungsregen."
     },
     factsAdvanced: {
-      de: ["Ein vulkanisches Hochplateau, das den Beginn der zentralen Bergkette markiert.", "Entstand aus Lavaströmen und Ascheablagerungen des alten El Valle-Vulkans.", "Die tiefe Zerklüftung erzeugt auf engstem Raum extreme klimatische Unterschiede.", "Die vertikalen Klippen zwingen Pazifikwinde zum Aufsteigen, was Steigungsregen erzeugt.", "Beherbergt einen einzigartigen Übergang von Trocken- zu feuchtem Nebelwald."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein vulkanisches Hochplateau, das den Beginn der zentralen Bergkette markiert.", "Entstand aus Lavaströmen und Ascheablagerungen des alten El Valle-Vulkans.", "Die tiefe Zerklüftung erzeugt auf engstem Raum extreme klimatische Unterschiede.", "Die vertikalen Klippen zwingen Pazifikwinde zum Aufsteigen, was Steigungsregen erzeugt.", "Beherbergt einen einzigartigen Übergang von Trocken- zu feuchtem Nebelwald."]
     }
   },
   {
@@ -664,16 +507,10 @@ export const poiExtraPanamaReliefV2: POI[] = [
       en: ["Hiking destination.", "Nature experience.", "Good view.", "Cool air."]
     },
     descriptionAdvanced: {
-      de: "Der Cerro Gaitancillo ist der 'kleine Bruder' des dominierenden Cerro Gaital am Rande des Kraters von El Valle de Antón. Geomorphologisch handelt es sich bei Gaitancillo um eine parasitäre Lavakuppe, die sich an der Flanke des Hauptvulkans bildete, als Magma durch eine Nebenrinne entwich. Obwohl niedriger als der Gaital, sind seine Hänge durch intensive chemische Verwitterung im tropischen Klima extrem rutschig und instabil. Diese Laterit-Böden (verwitterte, rote, eisenreiche Tropenböden) bieten wenig Halt, was den Berg sehr anfällig für gefährliche Hangrutschungen ('Deslizamientos') macht. Die dichte Vegetation des Regenwaldes ist der einzige mechanische Anker, der diese Hänge stabilisiert und das darunter liegende Tal vor katastrophalen Schlammlawinen bewahrt. Geographie K8 — Hangrutschungen und tropische Verwitterung.",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Der Cerro Gaitancillo ist der 'kleine Bruder' des dominierenden Cerro Gaital am Rande des Kraters von El Valle de Antón. Geomorphologisch handelt es sich bei Gaitancillo um eine parasitäre Lavakuppe, die sich an der Flanke des Hauptvulkans bildete, als Magma durch eine Nebenrinne entwich. Obwohl niedriger als der Gaital, sind seine Hänge durch intensive chemische Verwitterung im tropischen Klima extrem rutschig und instabil. Diese Laterit-Böden (verwitterte, rote, eisenreiche Tropenböden) bieten wenig Halt, was den Berg sehr anfällig für gefährliche Hangrutschungen ('Deslizamientos') macht. Die dichte Vegetation des Regenwaldes ist der einzige mechanische Anker, der diese Hänge stabilisiert und das darunter liegende Tal vor katastrophalen Schlammlawinen bewahrt. Geographie K8 — Hangrutschungen und tropische Verwitterung."
     },
     factsAdvanced: {
-      de: ["Ein kleinerer, parasitärer Vulkangipfel an den Flanken von El Valle de Antón.", "Entstand durch das Entweichen von Magma aus einer sekundären Vulkanspalte.", "Besteht aus tiefroten, eisenreichen Laterit-Böden durch intensive Tropenverwitterung.", "Die weichen Böden machen den Berg extrem anfällig für gefährliche Erdrutsche.", "Nur das dichte Wurzelwerk des Regenwaldes hält diese instabilen Hänge zusammen."],
-      hu: [],
-      ro: [],
-      en: []
+      de: ["Ein kleinerer, parasitärer Vulkangipfel an den Flanken von El Valle de Antón.", "Entstand durch das Entweichen von Magma aus einer sekundären Vulkanspalte.", "Besteht aus tiefroten, eisenreichen Laterit-Böden durch intensive Tropenverwitterung.", "Die weichen Böden machen den Berg extrem anfällig für gefährliche Erdrutsche.", "Nur das dichte Wurzelwerk des Regenwaldes hält diese instabilen Hänge zusammen."]
     }
   }
 ];

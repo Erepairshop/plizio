@@ -1,0 +1,340 @@
+{
+  "lang": "en",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ke-uhuru-park-landmarks-v2",
+      "descriptionAdvanced": "Uhuru Park is an incredibly massive, deeply iconic 32-acre recreational park situated absolutely squarely between Nairobi's central business district and the affluent Upper Hill area. Opened to the public in 1969, the park serves as the absolute primary green lung for the incredibly congested metropolis. It features a massive artificial lake where locals enjoy boat rides, sweeping lawns, and the deeply historic Nyayo Monument. Uhuru Park is historically highly profound; in the late 1980s, the late Nobel Laureate Wangari Maathai led a highly fierce, incredibly famous, and ultimately successful public protest to completely prevent the government from constructing a massive 60-story corporate skyscraper on the park grounds. Today, following a massive, military-led rehabilitation in 2021, the highly modernized park remains a deeply beloved, massively utilized sanctuary for the urban working class. History K8 — Urban conservation and public space.",
+      "factsAdvanced": [
+        "A massive 32-acre public recreational park located deeply within Nairobi's CBD.",
+        "Officially opened to the general public in 1969 by President Jomo Kenyatta.",
+        "The site of a highly famous, absolutely successful environmental protest led by Wangari Maathai.",
+        "Features a massive, highly popular artificial lake utilized heavily for recreational boat rides.",
+        "Hosts the highly historic, intensely iconic Nyayo Monument.",
+        "Underwent an incredibly massive, highly secretive military-led rehabilitation in 2021.",
+        "Functions as the absolute primary free recreational space for Nairobi's working-class citizens."
+      ]
+    },
+    {
+      "id": "ke-jeevanjee-gardens-landmarks-v2",
+      "descriptionAdvanced": "Jeevanjee Gardens is an incredibly lush, deeply historical 5-acre public park nestled tightly within the incredibly busy, highly congested northern edge of Nairobi's central business district. Established in 1906, it was generously donated to the deeply segregated colonial city by A.M. Jeevanjee, an incredibly wealthy, highly influential Indian-born entrepreneur and philanthropist who essentially built early Nairobi. The incredibly shaded park features massive, highly mature jacaranda and fig trees, providing incredibly vital respite from the intensely hot urban concrete. Historically, it served as an incredibly rare, highly crucial public meeting ground where early African and Indian civil rights leaders plotted against the deeply oppressive colonial administration. Today, the highly bustling park is an incredibly popular haven for local workers, street preachers, and intensely debated informal 'Bunge la Mwananchi' (people's parliament) discussions. History K7 — Early colonial philanthropy.",
+      "factsAdvanced": [
+        "An incredibly historic 5-acre public park located entirely within Nairobi's dense CBD.",
+        "Donated to the city in 1906 by A.M. Jeevanjee, an incredibly wealthy Indian entrepreneur.",
+        "One of the incredibly rare, highly accessible open public spaces within the city center.",
+        "Features massive, century-old jacaranda trees and highly prominent, classic colonial statues.",
+        "Historically served as a massively critical meeting ground for early anti-colonial activists.",
+        "Currently highly famous for hosting incredibly intense, informal public political debates.",
+        "Maintained tightly by the Nairobi City County as a deeply essential urban green space."
+      ]
+    },
+    {
+      "id": "ke-karura-forest-landmarks-v2",
+      "descriptionAdvanced": "The Karura Forest Reserve is an incredibly massive, deeply spectacular 1,000-hectare urban upland forest situated entirely within the northern city limits of Nairobi. It is globally recognized as one of the absolutely largest gazetted forests located deeply within a major metropolis. The deeply lush environment features incredibly dense indigenous trees, a massive 50-foot waterfall, and deeply complex, highly mysterious Mau Mau caves used historically by independence fighters. Karura is intensely famous globally due to the incredibly fierce, highly dangerous 1990s conservation battles led by Nobel Laureate Wangari Maathai, who absolutely successfully prevented the highly corrupt governmental sell-off of the forest to private developers. Today, completely secured with electric fencing and heavily patrolled, it is an incredibly pristine, massively popular sanctuary for runners, cyclists, and eco-tourists. Nature K8 — Urban forests and extreme conservation.",
+      "factsAdvanced": [
+        "An incredibly massive, 1,000-hectare gazetted forest located entirely within Nairobi city.",
+        "One of the absolute largest urban forests situated globally within a major metropolis.",
+        "Globally famous as the intense battleground for Wangari Maathai's highly successful conservation movement.",
+        "Features an incredibly scenic 50-foot natural waterfall deeply hidden within the forest.",
+        "Contains highly historic, deeply hidden caves utilized by Mau Mau fighters in the 1950s.",
+        "Currently highly secured, featuring over 50 kilometers of heavily manicured walking and cycling trails.",
+        "Home to incredibly diverse urban wildlife, including Sykes' monkeys and highly elusive civets."
+      ]
+    },
+    {
+      "id": "ke-nairobi-arboretum-landmarks-v2",
+      "descriptionAdvanced": "The Nairobi Arboretum is a profoundly serene, incredibly historic 30-hectare botanical reserve located just three kilometers from the intensely bustling city center. Established in 1907 by Mr. Batiscombe, the incredibly dense park was originally created specifically to aggressively test incredibly fast-growing exotic tree species for use as deeply necessary fuel for the massively expanding Uganda Railway network. Today, the highly manicured reserve contains an incredibly staggering collection of over 350 distinct species of indigenous and exotic trees, providing an incredibly vital, highly localized microclimate. The incredibly shaded grounds are massively popular with Nairobi residents for deeply quiet picnics, highly intensive morning runs, and large church choir rehearsals. The incredibly dense canopy also supports a highly vibrant population of incredibly vocal Sykes' and vervet monkeys. Nature K6 — Urban botanical conservation.",
+      "factsAdvanced": [
+        "A deeply historic, 30-hectare botanical reserve situated incredibly close to Nairobi's CBD.",
+        "Established initially in 1907 to fiercely test fast-growing exotic trees for railway fuel.",
+        "Contains an incredibly massive collection of over 350 distinct indigenous and exotic tree species.",
+        "Serves as an incredibly vital, deeply shaded urban microclimate for the massive city.",
+        "Massively popular for deeply quiet recreation, intense jogging, and religious gatherings.",
+        "Home to a highly dense, incredibly visible population of urban Sykes' and vervet monkeys.",
+        "Managed tightly by the Kenya Forest Service alongside deeply dedicated local community trusts."
+      ]
+    },
+    {
+      "id": "ke-haller-park-landmarks-v2",
+      "descriptionAdvanced": "Haller Park, situated heavily along the busy northern coastline of Mombasa, is an absolutely breathtaking, globally celebrated masterpiece of intense ecological reclamation. Originally a massive, deeply scarred, and highly toxic expanse of abandoned limestone quarries exploited by the massive Bamburi Cement factory, the utterly barren landscape was miraculously transformed beginning in 1971. Under the deeply visionary direction of Swiss agronomist Dr. René Haller, incredibly resilient Casuarina trees and highly specialized millipedes were fiercely introduced to rapidly break down the dead limestone into living soil. Today, the incredibly dense, massive forest ecosystem supports heavily thriving populations of massive hippos, incredibly tall giraffes, and highly giant Aldabra tortoises. It stands as an incredibly powerful, massively empirical proof that deeply destroyed industrial landscapes can be fully resurrected. Earth Sciences K8 — Extreme ecological reclamation.",
+      "factsAdvanced": [
+        "A massively successful ecological sanctuary located entirely within a former, highly toxic limestone quarry.",
+        "Pioneered aggressively in 1971 by the incredibly visionary Swiss agronomist Dr. René Haller.",
+        "Utilized an incredibly unique biological chain starting with Casuarina trees and highly specialized millipedes.",
+        "The deeply lush ecosystem now supports massive hippos, giraffes, and incredibly giant Aldabra tortoises.",
+        "Globally recognized by the highly prestigious UNEP Global 500 Roll of Honour award.",
+        "The highly dense forest operates concurrently alongside the incredibly massive, fully active Bamburi Cement factory.",
+        "Demonstrates absolutely empirical proof that completely devastated industrial lands can be fully resurrected."
+      ]
+    },
+    {
+      "id": "ke-uhuru-monument-landmarks-v2",
+      "descriptionAdvanced": "The Uhuru Monument is an incredibly prominent, deeply solemn historical landmark situated squarely within the intensely busy Uhuru Gardens park in Nairobi. Erected specifically in 1973, the incredibly massive, intensely striking 24-meter-tall concrete structure was built to deeply commemorate the exact ten-year anniversary of Kenyan independence from highly brutal British colonial rule. The deeply dramatic architecture features a massive pair of fiercely clasped hands holding aloft a highly symbolic heart, representing absolute national unity and peace. The monument stands directly on the exact, incredibly sacred spot where the Kenyan flag was historically hoisted for the very first time on midnight of December 12, 1963. It remains a highly focal, incredibly guarded site for deeply serious national reflection and heavily formal state ceremonies. History K7 — National independence symbols.",
+      "factsAdvanced": [
+        "A massive, 24-meter-tall concrete monument located squarely within Nairobi's Uhuru Gardens.",
+        "Erected specifically in 1973 to deeply commemorate exactly ten years of Kenyan independence.",
+        "The striking architecture features massive clasped hands lifting a highly symbolic heart.",
+        "Built on the absolute exact spot where the new Kenyan flag was first hoisted in 1963.",
+        "The incredibly solemn design fiercely symbolizes deep national unity and hard-won peace.",
+        "Serves as the absolute focal point for massive, heavily formalized national day ceremonies.",
+        "Recently underwent an incredibly massive, military-led structural rehabilitation and security upgrade."
+      ]
+    },
+    {
+      "id": "ke-jomo-kenyatta-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "The Jomo Kenyatta Mausoleum is an incredibly sacred, highly secure, and deeply austere national monument located strictly within the incredibly heavily guarded grounds of the Parliament Buildings in Nairobi. The massive, deeply striking stone structure is the final, highly revered resting place of Mzee Jomo Kenyatta, the incredibly charismatic, highly complex founding father and absolute first President of the Republic of Kenya. Constructed immediately following his death in 1978, the deeply striking, intensely angular architecture is heavily guarded 24/7 by the highly elite Kenya Defence Forces. Access to the incredibly solemn interior is massively restricted, typically open only during highly formalized, deeply serious state anniversaries. The deeply imposing structure serves as the absolute physical anchor of post-independence Kenyan political reverence. History K8 — Founding fathers and state memory.",
+      "factsAdvanced": [
+        "The deeply revered, incredibly sacred final resting place of Kenya's founding President, Jomo Kenyatta.",
+        "Located strictly within the highly secure, incredibly restricted grounds of the Parliament Buildings.",
+        "The deeply striking, highly angular stone mausoleum was hastily constructed following his death in 1978.",
+        "Heavily guarded 24/7 by a deeply elite, highly ceremonial unit of the Kenya Defence Forces.",
+        "Public access to the incredibly solemn interior is massively restricted and incredibly rare.",
+        "Serves as the absolute focal point for deeply serious, highly formalized annual state memorial services.",
+        "The massive structure deeply projects absolute post-independence political continuity and immense authority."
+      ]
+    },
+    {
+      "id": "ke-bomas-of-kenya-landmarks-v2",
+      "descriptionAdvanced": "The Bomas of Kenya is an incredibly expansive, highly dynamic cultural complex located in the lush Lang'ata suburb of Nairobi, established in 1971 by the government specifically to heavily promote and deeply preserve Kenya's massive ethnic diversity. The highly sprawling site features incredibly accurate, heavily detailed, full-scale replicas of traditional homesteads ('bomas') representing practically all of Kenya's 42 distinct tribal groups. Beyond the deeply immersive architectural exhibits, the complex is globally famous for its incredibly massive, deeply circular auditorium—one of the largest in Africa—where highly energetic, incredibly skilled traditional dance and acrobatic troupes perform daily. The incredibly unique venue also frequently serves as a highly intense, massively critical national tallying center during highly contested Kenyan general elections. Social Studies K7 — National ethnic heritage.",
+      "factsAdvanced": [
+        "An incredibly massive cultural preservation complex established by the Kenyan government in 1971.",
+        "Features incredibly accurate, full-scale replicas of traditional homesteads for over 40 distinct tribes.",
+        "Located in the deeply lush Lang'ata suburb, highly proximate to the Nairobi National Park.",
+        "The site contains an incredibly massive, deeply circular auditorium seating over 3,000 spectators.",
+        "Globally famous for hosting incredibly vibrant, highly athletic daily traditional dance performances.",
+        "Serves frequently as the incredibly tense, highly secure national tallying center during general elections.",
+        "Deeply dedicated to heavily preserving and intensely showcasing Kenya's massive indigenous diversity."
+      ]
+    },
+    {
+      "id": "ke-fort-jesus-landmarks-v2",
+      "descriptionAdvanced": "Fort Jesus is an incredibly massive, deeply imposing military fortress absolutely dominating the entrance to Mombasa's Old Port. Built by the Portuguese in 1593 based on the incredibly innovative architectural designs of Giovanni Battista Cairati, the fort is shaped deeply like a massive man when viewed from above. It is globally recognized as one of the most incredibly brilliant, highly preserved examples of 16th-century Portuguese military fortification. The massive, deeply scarred coral walls bear incredibly violent witness to centuries of brutal conflict, changing hands an incredible nine distinct times between the Portuguese, fiercely independent Omani Arabs, and the British. Officially inscribed as an incredibly prestigious UNESCO World Heritage site in 2001, the fort currently houses a massive museum containing incredibly rare shipwreck artifacts. History K8 — Global maritime conflict.",
+      "factsAdvanced": [
+        "A massive, deeply imposing military fortress built by the Portuguese Empire in 1593.",
+        "The deeply innovative architectural design uniquely resembles the shape of a massive human body.",
+        "The heavily scarred coral walls changed hands an incredible nine times in brutal sieges.",
+        "Officially inscribed as a highly prestigious UNESCO World Heritage site in 2001.",
+        "Stands as an incredibly brilliant, highly preserved example of 16th-century military engineering.",
+        "Currently houses a massive, deeply fascinating museum featuring rare Indian Ocean shipwreck artifacts.",
+        "Absolutely dominates the incredibly historic entrance to the deep-water Mombasa Old Port."
+      ]
+    },
+    {
+      "id": "ke-mombasa-old-town-landmarks-v2",
+      "descriptionAdvanced": "Mombasa Old Town is an incredibly dense, highly intoxicating labyrinth of deeply ancient, highly preserved Swahili and Arab architecture located on the incredibly busy eastern side of Mombasa Island. Covering roughly 72 hectares, the deeply historic neighborhood is characterized by incredibly narrow, highly shaded winding alleyways completely impassable by modern cars. The intensely historic buildings feature massive, deeply carved wooden balconies and incredibly ornate, heavily studded Omani brass doors. The area is a deeply lived-in, highly chaotic, yet incredibly spiritual space, dominated by the deeply rhythmic calls to prayer from incredibly ancient, highly functioning coral stone mosques. The incredibly vibrant, highly authentic neighborhood profoundly reflects centuries of incredibly intense Indian Ocean trade, blending indigenous Swahili, Omani, and early Portuguese influences into a deeply unique urban fabric. History K7 — Swahili urban centers.",
+      "factsAdvanced": [
+        "An incredibly dense, highly preserved historic neighborhood spanning 72 hectares on Mombasa Island.",
+        "Characterized by incredibly narrow, deeply shaded alleyways totally impassable by modern vehicles.",
+        "The massive coral stone buildings feature incredibly ornate, deeply carved Omani wooden doors.",
+        "A deeply lived-in, highly vibrant neighborhood, heavily dominated by ancient Islamic mosques.",
+        "Profoundly reflects centuries of incredibly intense, highly lucrative Indian Ocean maritime trade.",
+        "Located incredibly prominently adjacent to the massive, highly historic Fort Jesus.",
+        "The incredibly unique architecture heavily blends indigenous Swahili, Arab, and early European influences."
+      ]
+    },
+    {
+      "id": "ke-lamu-old-town-landmarks-v2",
+      "descriptionAdvanced": "Lamu Old Town, situated highly remotely on an island off Kenya's northern coast, is globally revered as the absolutely oldest and incredibly best-preserved living Swahili settlement in East Africa. Officially designated as a highly prestigious UNESCO World Heritage site, the incredibly ancient town has been continuously inhabited for over 700 years. The incredibly narrow, deeply labyrinthine streets are utterly devoid of motorized vehicles; transportation relies entirely on an incredibly massive population of heavily burdened donkeys and traditional wooden dhows. The incredibly stark, highly unadorned coral stone houses feature incredibly thick walls and deeply intricate inner courtyards designed for extreme privacy and natural cooling. The town remains an incredibly devout, highly conservative, and profoundly magical center of ancient Islamic scholarship. History K8 — Preserved medieval civilizations.",
+      "factsAdvanced": [
+        "Globally recognized as the absolutely oldest continuously inhabited Swahili town in East Africa.",
+        "Officially inscribed as a highly prestigious UNESCO World Heritage site in 2001.",
+        "The incredibly narrow, highly labyrinthine streets are strictly devoid of any motorized vehicles.",
+        "The primary modes of highly traditional transport are deeply burdened donkeys and sailing dhows.",
+        "The massive coral stone houses feature incredibly thick walls and deeply intricate inner courtyards.",
+        "Remains an incredibly devout, highly conservative epicenter for ancient Islamic religious scholarship.",
+        "Has been continuously, deeply inhabited by the local Swahili population for over 700 years."
+      ]
+    },
+    {
+      "id": "ke-gedi-ruins-landmarks-v2",
+      "descriptionAdvanced": "The Gedi Ruins represent an incredibly profound, deeply mysterious, and highly advanced abandoned Swahili city located deeply within the lush, heavily overgrown Arabuko-Sokoke Forest near Malindi. Founded in the incredibly early 13th century, the massive, highly prosperous coral stone city featured an incredibly advanced, highly complex urban layout, including a massive central palace, numerous deep freshwater wells, and incredibly sophisticated indoor flushing toilets. The highly intense, deeply layered excavations revealed massive quantities of Ming Dynasty porcelain and highly prized Venetian beads, proving Gedi was an incredibly wealthy, highly integrated node in global Indian Ocean trade. The incredibly thriving city was completely, suddenly, and mysteriously abandoned in the early 17th century, leaving its massive walls to be deeply consumed by the sprawling coastal jungle. History K8 — Advanced medieval urbanism.",
+      "factsAdvanced": [
+        "A deeply mysterious, incredibly advanced ruined Swahili city hidden deeply within a coastal forest.",
+        "Founded in the early 13th century and completely, mysteriously abandoned in the 17th century.",
+        "The incredibly sophisticated coral stone ruins feature a massive palace and numerous elaborate mosques.",
+        "The deeply advanced urban planning included highly complex deep wells and indoor flushing toilets.",
+        "Excavations revealed incredibly massive quantities of imported Ming porcelain and Venetian glass.",
+        "Provides massive, undeniable empirical proof of incredible medieval Swahili wealth and global trade.",
+        "The massive, deeply overgrown ruins are managed tightly as a highly protected national monument."
+      ]
+    },
+    {
+      "id": "ke-vasco-da-gama-pillar-landmarks-v2",
+      "descriptionAdvanced": "The Vasco da Gama Pillar is an incredibly iconic, highly stark, and deeply weather-beaten monument perched incredibly prominently on a sharp coral cliff overlooking the vast Indian Ocean in Malindi. Erected in 1498 by the incredibly famous, highly pioneering Portuguese explorer Vasco da Gama, it stands as one of the absolutely oldest surviving European monuments on the entire African continent. The incredibly solid pillar was constructed specifically from massive blocks of local coral rag, topped deeply with a cross carved from imported Lisbon limestone. The monument served initially as an incredibly vital navigational beacon for Portuguese armadas, but it deeply symbolizes the incredibly violent, highly disruptive arrival of European naval hegemony into the ancient, highly established Swahili and Arab maritime trading networks. History K7 — Early global exploration.",
+      "factsAdvanced": [
+        "An incredibly historic, highly stark monument erected on a prominent coral cliff in Malindi.",
+        "Built in 1498 by the highly famous, incredibly pioneering Portuguese explorer Vasco da Gama.",
+        "Recognized as one of the absolutely oldest surviving European monuments in all of Africa.",
+        "Constructed from massive local coral rag, topped with a deeply historic Lisbon limestone cross.",
+        "Originally functioned as an incredibly crucial navigational beacon for early Portuguese naval fleets.",
+        "Deeply symbolizes the incredibly disruptive, highly violent arrival of European maritime power.",
+        "Currently highly reinforced and fiercely protected against intense coastal erosion by national authorities."
+      ]
+    },
+    {
+      "id": "maasai-village-boma-life-v2",
+      "descriptionAdvanced": "A traditional Maasai Village, or 'Boma', is an incredibly structured, deeply highly functional indigenous settlement profoundly adapted to the incredibly harsh, highly unpredictable semi-arid environments of the Rift Valley. The incredibly distinct, deeply circular homesteads are enclosed by massive, highly impenetrable fences built entirely from dense, incredibly sharp acacia thorn bushes, explicitly designed to fiercely protect highly prized cattle from massive nocturnal predators like lions. The intensely practical houses (manyattas) are constructed entirely by the highly skilled women of the tribe, utilizing a highly durable, incredibly insulating mixture of mud, sticks, and cow dung. The deeply communal lifestyle heavily revolves entirely around massive livestock herds, which dictate the incredibly structured, deeply traditional age-set warrior systems of this highly resilient, globally recognized pastoralist culture. Social Studies K7 — Indigenous pastoralist architecture.",
+      "factsAdvanced": [
+        "An incredibly structured, deeply circular indigenous homestead deeply adapted to harsh environments.",
+        "Surrounded by massive, incredibly impenetrable fences made entirely of sharp acacia thorn branches.",
+        "The deeply traditional houses are constructed entirely by highly skilled Maasai women.",
+        "The highly durable, incredibly insulating building materials consist solely of mud, sticks, and cow dung.",
+        "The entire incredibly communal settlement is designed specifically to fiercely protect massive cattle herds.",
+        "The deeply traditional lifestyle is incredibly reliant on the highly structured warrior (Moran) age-sets.",
+        "Remains an incredibly resilient, globally iconic example of deeply sustained African pastoralism."
+      ]
+    },
+    {
+      "id": "samburu-manyatta-life-v2",
+      "descriptionAdvanced": "A Samburu Manyatta is an incredibly temporary, deeply highly mobile settlement expertly designed by the incredibly resilient Samburu people to survive the incredibly brutal, hyper-arid extremes of northern Kenya. Unlike the deeply permanent structures of agricultural tribes, the incredibly low, highly rounded huts are constructed incredibly quickly using a highly flexible framework of interwoven sticks, completely covered with deeply insulating woven sisal mats, animal hides, and sometimes modern plastic tarps. The incredibly entire settlement can be completely dismantled, heavily packed onto donkeys, and intensely relocated in incredibly short notice to deeply chase highly sporadic, incredibly vital seasonal rains and fresh grazing pastures. The deeply communal center of the incredibly temporary Manyatta is always strictly reserved for fiercely protecting the highly sacred, massively critical herds of cattle and goats. Geography K6 — Nomadic desert adaptation.",
+      "factsAdvanced": [
+        "An incredibly highly mobile, deeply temporary settlement utilized by the nomadic Samburu people.",
+        "The incredibly low, deeply rounded huts are expertly designed for incredibly rapid assembly and dismantling.",
+        "Constructed using highly flexible woven sticks heavily covered with sisal mats and animal hides.",
+        "The incredibly entire village is frequently relocated to fiercely chase deeply sporadic seasonal rainfall.",
+        "The intensely communal lifestyle revolves entirely around the deeply sacred, highly prized livestock herds.",
+        "Transportation of the heavily dismantled huts relies entirely on incredibly burdened pack donkeys.",
+        "An incredibly profound, highly resilient example of human adaptation to hyper-arid desert extremes."
+      ]
+    },
+    {
+      "id": "turkana-settlement-life-v2",
+      "descriptionAdvanced": "A traditional Turkana settlement is an incredibly stark, deeply highly resilient manifestation of human survival in one of the absolute harshest, incredibly most hyper-arid desert environments on the planet. The intensely isolated homesteads (awi) consist of deeply simple, highly ventilated dome-shaped huts expertly constructed from fiercely interwoven, incredibly thorny doum palm fronds and acacia branches. The incredibly highly porous architecture provides incredibly crucial, deeply necessary shade while explicitly allowing massive desert breezes to fiercely cool the incredibly blistering, deeply oppressive heat. The intensely fierce Turkana people are deeply highly nomadic, incredibly heavily reliant on incredibly hardy herds of camels, goats, and deeply resilient zebu cattle. The incredibly incredibly harsh environment demands deeply highly structured, intensely fierce community cooperation to defend deeply scarce, incredibly vital deep-water wells. Social Studies K8 — Extreme desert survival.",
+      "factsAdvanced": [
+        "An incredibly highly adapted, deeply resilient settlement located in the hyper-arid Turkana desert.",
+        "The deeply simple, highly ventilated dome huts are built entirely from incredibly thorny doum palm fronds.",
+        "The highly porous architecture is expertly designed to maximize incredibly crucial, deeply cooling desert breezes.",
+        "The intensely fierce Turkana people are heavily reliant on incredibly hardy camels and goats.",
+        "The incredibly nomadic lifestyle is deeply dictated by the massive search for deeply scarce water.",
+        "The incredibly harsh environment demands deeply intense, highly organized communal defense of resources.",
+        "Represents an absolute pinnacle of deeply highly specialized human survival in extreme heat."
+      ]
+    },
+    {
+      "id": "kibera-slum-life-v2",
+      "descriptionAdvanced": "Kibera is an incredibly massive, deeply incredibly dense informal settlement located incredibly centrally just a few kilometers from Nairobi's incredibly affluent modern CBD. Widely recognized as one of the absolute largest incredibly informal slums on the entire African continent, the deeply heavily congested area is an incredible, highly overwhelming labyrinth of intensely tightly packed corrugated iron shacks, incredibly deep open sewers, and deeply highly chaotic dirt pathways. Despite the deeply incredibly harsh, highly oppressive lack of deeply basic governmental infrastructure like running water or sanitation, Kibera is an incredibly deeply vibrant, highly fiercely resilient economic engine. The deeply incredibly dense community boasts incredibly massive, highly innovative informal micro-economies, deeply intense artistic talent, and incredibly deeply organized community self-help groups that fiercely survive against incredible, deeply massive urban odds. Social Studies K8 — Urban informal settlements.",
+      "factsAdvanced": [
+        "Globally recognized as one of the absolute largest, incredibly dense informal slums in Africa.",
+        "Located incredibly centrally, just a few kilometers southwest of Nairobi's highly affluent CBD.",
+        "Characterized by incredibly intensely packed, highly fragile corrugated iron and mud shacks.",
+        "Suffers from a deeply massive, incredibly harsh lack of formal government sanitation and water infrastructure.",
+        "Operates an incredibly deeply vibrant, highly fiercely resilient massive informal micro-economy.",
+        "The incredibly dense population is estimated by various NGOs to be incredibly massive, though heavily disputed.",
+        "Features incredibly deeply organized, highly innovative community self-help and incredible artistic initiatives."
+      ]
+    },
+    {
+      "id": "mathare-valley-life-v2",
+      "descriptionAdvanced": "The Mathare Valley is an incredibly deep, heavily highly dense, and incredibly historically intense informal settlement located deeply along the deeply steep, highly highly polluted banks of the Mathare and Nairobi rivers. Historically, the incredibly dense, highly chaotic slum originated in the incredibly early colonial era as an incredibly unauthorized, deeply fierce squatter settlement for deeply marginalized African workers. The incredibly steep, deeply highly precarious topography makes the incredible, highly fragile corrugated iron shacks deeply incredibly vulnerable to massive, deeply highly devastating seasonal floods and incredibly massive landslides. The incredibly deeply impoverished area is highly infamous for the deeply highly organized, incredibly massive illicit brewing of 'chang'aa' (moonshine), deeply deeply driven by incredible, highly severe economic desperation. Yet, incredibly deeply resilient, highly fierce local activism continuously drives incredibly massive informal schooling and youth empowerment. Economics K8 — Topography of poverty.",
+      "factsAdvanced": [
+        "An incredibly deep, highly densely populated informal settlement built intensely along heavily polluted rivers.",
+        "The incredibly steep, deeply precarious valley topography makes the highly fragile shacks deeply vulnerable to floods.",
+        "Historically originated as an incredibly early, deeply fiercely independent colonial squatter settlement.",
+        "Highly infamous for incredibly massive, deeply heavily organized illicit local alcohol (chang'aa) brewing.",
+        "Suffers from incredibly severe, deeply massive deficits in highly basic sanitation and formal infrastructure.",
+        "Features incredibly deeply resilient, highly fierce grassroots activism and massive informal schooling efforts.",
+        "The incredibly dense population intensely survives against deeply massive, incredibly severe urban poverty odds."
+      ]
+    },
+    {
+      "id": "mukuru-kwa-njenga-life-v2",
+      "descriptionAdvanced": "Mukuru kwa Njenga is an incredibly massive, deeply highly sprawling informal settlement situated incredibly deeply within Nairobi's intensely highly polluted, heavily heavily congested Industrial Area. The incredibly incredibly dense slum is deeply deeply unique due to its incredibly massive, highly incredibly precarious proximity to deeply heavy, highly toxic manufacturing plants and deeply incredibly massive, highly active railway lines that literally slice deeply incredibly closely through incredibly tight clusters of deeply fragile iron shanties. The incredibly incredibly dense population largely provides the incredibly massive, deeply incredibly cheap, highly highly informal labor pool that fiercely powers the adjacent incredibly massive factories. The incredibly deeply precarious settlement is incredibly frequently devastated by incredibly massive, highly intense industrial fires and incredibly deeply fierce, highly incredibly violent eviction battles against deeply massive, incredibly wealthy private land developers. Geography K7 — Industrial urban poverty.",
+      "factsAdvanced": [
+        "An incredibly massive, deeply sprawling informal slum located fiercely within Nairobi's heavy Industrial Area.",
+        "The incredibly incredibly dense, highly fragile shanties are built deeply precariously near massive toxic factories.",
+        "Deeply active, incredibly massive railway lines slice fiercely directly through the incredibly tightly packed settlement.",
+        "Provides the incredibly massive, deeply crucial, highly cheap labor pool for the adjacent industrial zone.",
+        "Incredibly frequently devastated by highly massive, incredibly intense, deeply destructive industrial shack fires.",
+        "The deeply deeply precarious land tenure results in incredibly fierce, highly violent eviction battles.",
+        "A highly incredibly stark, deeply massive example of incredibly intense industrial urban poverty and inequality."
+      ]
+    },
+    {
+      "id": "toi-market-life-v2",
+      "descriptionAdvanced": "Toi Market is an incredibly massive, deeply intensely bustling, and highly incredibly highly organized informal open-air market situated deeply on the incredibly crowded outskirts of the massive Kibera slum in Nairobi. The incredibly sprawling, deeply highly chaotic labyrinth of incredibly tight dirt alleys is an incredibly absolutely massive, highly highly famous epicenter for 'mitumba'—the deeply incredibly massive, highly highly lucrative trade in deeply second-hand imported clothing and shoes. The incredibly incredibly dense market features thousands of highly fiercely competitive, incredibly deeply vocal vendors selling incredibly massive quantities of highly affordable global fashion. The deeply incredibly dynamic market is incredibly highly susceptible to deeply incredibly massive, highly highly devastating overnight fires, yet it is invariably rebuilt incredibly quickly with deeply incredibly fierce, highly incredibly resilient communal determination. Economics K7 — Informal massive retail.",
+      "factsAdvanced": [
+        "An incredibly massive, highly densely packed informal open-air market located near the massive Kibera slum.",
+        "The absolute premier, incredibly famous national epicenter for massive 'mitumba' (second-hand clothing) retail.",
+        "Features thousands of highly fiercely competitive, incredibly deeply vocal, highly informal vendors.",
+        "The incredibly sprawling, deeply chaotic labyrinth provides incredibly massive, highly affordable global fashion access.",
+        "The highly fragile, deeply temporary wooden stalls are incredibly susceptible to massive, deeply devastating fires.",
+        "The deeply incredibly resilient vendors consistently rebuild the massive market incredibly rapidly after disasters.",
+        "Forms an incredibly massive, deeply crucial, highly highly lucrative pillar of the local informal economy."
+      ]
+    },
+    {
+      "id": "gikomba-market-life-v2",
+      "descriptionAdvanced": "Gikomba Market is the absolute largest, incredibly deeply chaotic, and highly highly intensely frantic informal open-air market in East Africa, located incredibly deeply near Nairobi's intensely crowded central business district. The incredibly incredibly massive, deeply highly labyrinthine market is the absolute undisputed, incredibly highly lucrative national headquarters for the deeply incredibly massive, highly highly intensive wholesale trade in 'mitumba' (imported second-hand clothes). Beyond clothing, incredibly massive sections of the deeply highly congested market are intensely intensely dedicated to massive, highly aromatic dried fish trading and incredibly deeply massive, highly skilled informal furniture carpentry. The incredibly deeply dynamic, highly highly congested market is a deeply incredibly massive, highly highly resilient multi-million-shilling economic engine, despite incredibly frequently suffering from deeply incredibly massive, highly highly suspicious devastating infernos. Economics K8 — Wholesale informal economies.",
+      "factsAdvanced": [
+        "The absolute largest, highly incredibly chaotic, deeply intensely busy informal market in East Africa.",
+        "Located incredibly prominently near Nairobi's incredibly dense, highly highly congested central business district.",
+        "The absolute premier, deeply incredibly massive national wholesale hub for massive 'mitumba' clothing imports.",
+        "Features incredibly massive, deeply highly active sections dedicated strictly to dried fish and skilled carpentry.",
+        "Operates as an incredibly incredibly massive, highly highly lucrative multi-million-shilling informal economic engine.",
+        "The deeply fragile, incredibly tightly packed stalls incredibly frequently suffer from deeply massive, devastating fires.",
+        "Displays incredibly deep, highly highly fierce entrepreneurial resilience, incredibly rapidly rebuilding after every disaster."
+      ]
+    },
+    {
+      "id": "kongowea-market-life-v2",
+      "descriptionAdvanced": "Kongowea Market is an incredibly massive, deeply deeply intense, and highly incredibly highly frantic wholesale agricultural market located incredibly prominently on the incredibly busy northern mainland of Mombasa. Operating deeply incredibly intensively around the clock, the incredibly massive, highly highly chaotic hub is the absolute primary, deeply incredibly massive food distribution center for the entire incredibly populous coastal region. Incredibly massive, deeply highly overloaded trucks arrive continuously from the incredibly distant, deeply highly fertile Kenyan highlands and deeply incredibly neighboring Tanzania, intensely intensely offloading incredibly massive quantities of highly fresh tomatoes, massive cabbages, and incredibly sweet tropical fruits. The deeply incredibly dense, highly highly vocal, and incredibly intensely competitive trading environment makes Kongowea an incredibly absolute, deeply highly vital lifeline for the coastal food supply chain. Economics K7 — Regional agricultural distribution.",
+      "factsAdvanced": [
+        "An incredibly massive, deeply intensely bustling wholesale agricultural market located in Mombasa.",
+        "The absolute primary, incredibly deeply vital fresh food distribution hub for the entire coastal region.",
+        "Operates incredibly incredibly intensively almost 24 hours a day, highly highly chaotic and deeply deeply vibrant.",
+        "Receives incredibly massive, deeply highly overloaded transport trucks from the incredibly distant, highly fertile highlands.",
+        "Distributes incredibly massive quantities of highly fresh vegetables, massive fruits, and deeply diverse agricultural produce.",
+        "The highly incredibly intense, deeply deeply competitive informal trading absolutely dominates the local micro-economy.",
+        "An incredibly critical, deeply absolute, highly highly resilient pillar of the entire coastal food security chain."
+      ]
+    },
+    {
+      "id": "maasai-market-nairobi-life-v2",
+      "descriptionAdvanced": "The Maasai Market in Nairobi is an incredibly massive, deeply deeply vibrant, and highly incredibly highly mobile open-air artisan market that intensely intensely rotates across incredibly prominent, highly highly strategic locations within the deeply congested capital city throughout the week. The deeply incredibly dense, highly highly colorful market is an absolute premier, incredibly deeply massive hub for highly skilled, deeply deeply indigenous Kenyan handicrafts. Thousands of incredibly highly vocal, deeply fiercely competitive artisans display incredibly massive quantities of deeply highly intricate beadwork, incredibly deeply carved wooden sculptures, incredibly highly vibrant patterned kikoy fabrics, and incredibly deeply unique soapstone art. It is an incredibly incredibly massive, deeply deeply crucial, highly highly lucrative economic lifeline for thousands of incredibly skilled informal craftsmen, attracting incredibly massive throngs of deeply highly eager international tourists. Economics K6 — Artisan and tourist economies.",
+      "factsAdvanced": [
+        "An incredibly massive, highly incredibly vibrant open-air artisan market located deeply within Nairobi.",
+        "Operates on a highly unique, deeply incredibly mobile schedule, rotating across incredibly prominent city locations.",
+        "The absolute premier, deeply incredibly massive retail hub for highly authentic, deeply indigenous Kenyan handicrafts.",
+        "Features incredibly massive quantities of deeply intricate beadwork, incredibly massive wood carvings, and deeply vibrant fabrics.",
+        "Powered by thousands of incredibly highly skilled, deeply deeply competitive independent local artisans and vendors.",
+        "Attracts incredibly massive, deeply deeply eager throngs of international tourists and highly supportive local shoppers.",
+        "An incredibly absolute, deeply highly vital, incredibly massive economic lifeline for the informal creative sector."
+      ]
+    },
+    {
+      "id": "marikiti-market-mombasa-life-v2",
+      "descriptionAdvanced": "Marikiti Market, located incredibly deeply within the highly incredibly historic, deeply deeply congested heart of Mombasa Island, is an incredibly incredibly ancient, deeply deeply intense, and highly incredibly highly aromatic colonial-era market. The incredibly massive, deeply deeply striking architecture features incredibly imposing, highly highly historic colonial columns and deeply deeply massive, incredibly highly vaulted ceilings designed specifically for deeply incredible natural cooling. The incredibly incredibly bustling, highly highly chaotic market specializes intensely intensely in the deep, incredibly massive, highly highly historic coastal spice trade, deeply deeply reflecting centuries of incredibly intense Indian Ocean maritime commerce. The incredibly deep, highly highly intoxicating air is incredibly massive heavily saturated with deeply intense, incredibly exotic aromas of highly fresh cardamom, incredibly massive cinnamon, and deeply deeply pungent dried fish, creating an incredibly profound sensory experience. History K7 — Colonial spice markets.",
+      "factsAdvanced": [
+        "An incredibly deeply historic, highly incredibly bustling colonial-era market located intensely within Mombasa Island.",
+        "The incredibly massive, deeply deeply striking architecture features incredibly prominent, highly historic classical columns.",
+        "Specializes incredibly intensely in the deeply deeply massive, highly incredibly lucrative coastal spice and herbal trade.",
+        "Deeply deeply reflects centuries of incredibly intense, highly highly diverse Indian Ocean maritime cultural fusion.",
+        "The incredibly dense, deeply deeply chaotic atmosphere is heavily saturated with incredibly intense, highly aromatic spices.",
+        "Features deeply massive, incredibly highly historic vaulted ceilings designed specifically for incredibly maximum natural ventilation.",
+        "Remains an incredibly incredibly vital, deeply deeply vibrant center of highly traditional coastal urban commerce."
+      ]
+    },
+    {
+      "id": "luanda-magere-rock-life-v2",
+      "descriptionAdvanced": "The Luanda Magere Rock is a deeply incredibly sacred, highly incredibly massive, and deeply deeply legendary geological formation located intensely deeply within the rolling landscape of Muhoroni, Kisumu County. The incredibly massive, deeply deeply isolated rock is intensely intensely revered as the incredibly literal, deeply deeply petrified remains of the absolute legendary, highly incredibly fearless Luo warrior, Luanda Magere. According to deeply deeply entrenched, incredibly massive local oral tradition, his incredibly incredibly invincible, deeply deeply impenetrable body was made entirely of solid stone, save for his deeply incredibly vulnerable shadow, which led to his incredibly incredibly tragic downfall in an incredibly massive, deeply fierce battle against the Nandi tribe. Today, the deeply incredibly massive rock is a highly highly active, intensely intensely respected cultural shrine where deeply deeply traditional rituals are fiercely fiercely performed. History K6 — Oral traditions and sacred sites.",
+      "factsAdvanced": [
+        "A deeply incredibly massive, highly highly sacred geological rock formation located intensely deeply within Muhoroni.",
+        "Deeply deeply revered in local oral tradition as the incredibly literal petrified remains of the warrior Luanda Magere.",
+        "Luanda Magere is incredibly incredibly celebrated as an absolute legendary, highly highly invincible Luo military hero.",
+        "Oral history incredibly deeply claims his incredibly massive body was pure stone, vulnerable only at his deep shadow.",
+        "He incredibly incredibly tragically fell in a deeply deeply massive, highly highly fierce historical battle against the Nandi.",
+        "The incredibly massive rock currently functions as an incredibly deeply active, highly highly revered traditional cultural shrine.",
+        "Incredibly deeply respected locals fiercely fiercely perform deeply traditional rituals and seek blessings at the site."
+      ]
+    }
+  ]
+}

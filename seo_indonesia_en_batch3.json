@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "borobudur-temple-history-v2",
+      "descriptionAdvanced": "Borobudur, located in Central Java, is the world's largest Buddhist temple and a UNESCO World Heritage site. Built in the 9th century during the Sailendra Dynasty, this massive stone structure is designed as a three-dimensional mandala, representing the Buddhist vision of the cosmos. The temple features nine stacked platforms—six square and three circular—topped by a central dome, and is decorated with 2,672 relief panels and 504 Buddha statues. It lay abandoned for centuries, hidden under volcanic ash and jungle growth, until its 'rediscovery' in 1814. Today, Borobudur is not only a global archaeological treasure but also a sacred place of pilgrimage for Buddhists, especially during the annual Vesak festival. Geography K8 — Buddhist Heritage and Ancient Architecture.",
+      "factsAdvanced": [
+        "Built between 750 and 850 AD using approximately 2 million stone blocks.",
+        "Contains 72 openwork stupas on the upper circular platforms.",
+        "The relief panels stretch for over 6 kilometers if laid end-to-end.",
+        "Abandoned in the 14th century following the decline of Hindu kingdoms on Java.",
+        "Rediscovered in 1814 by Sir Thomas Stamford Raffles.",
+        "Restored in a massive UNESCO-led project between 1973 and 1983.",
+        "Designed to guide pilgrims through levels of spiritual enlightenment.",
+        "The central stupa stands 35 meters above the ground level."
+      ]
+    },
+    {
+      "id": "prambanan-temple-history-v2",
+      "descriptionAdvanced": "Prambanan is the largest Hindu temple complex in Indonesia and a magnificent example of 9th-century Javanese architecture. Located near Yogyakarta, it was built by the Sanjaya Dynasty to honor the Trimurti—the three primary Hindu deities: Brahma, Vishnu, and Shiva. The complex is characterized by its tall and slender architecture, with the central Shiva temple reaching a soaring height of 47 meters. The inner walls are adorned with intricate stone carvings depicting the epic Ramayana. Prambanan stands as a testament to the flowering of Hindu civilization on Java and its peaceful coexistence with the nearby Buddhist Sailendra Dynasty. Like Borobudur, it is a UNESCO World Heritage site and a symbol of Indonesia's rich cultural syncretism. Geography K8 — Hindu Influence and Monumental Architecture.",
+      "factsAdvanced": [
+        "Originally consisted of 240 individual temple structures in the complex.",
+        "The Shiva Temple is the largest, standing 47 meters tall.",
+        "Features detailed stone reliefs of the Ramayana and Bhagavata Purana.",
+        "Severely damaged by a major earthquake in the 16th century.",
+        "Systematic restoration began in 1918 and continues to this day.",
+        "The Prambanan Ramayana Ballet is performed nightly at an outdoor theater nearby.",
+        "Recognized as a UNESCO World Heritage site in 1991.",
+        "Located only 18 kilometers away from the Buddhist temple of Borobudur."
+      ]
+    },
+    {
+      "id": "ratu-boko-palace-history-v2",
+      "descriptionAdvanced": "Ratu Boko, situated on a high plateau overlooking the Prambanan plain, is a unique archaeological site that served as a fortified palace complex in the 8th and 9th centuries. Unlike the purely religious temples nearby, Ratu Boko features remains of grand gateways, stone platforms, audience halls, and even a crematorium and pools, suggesting it was a royal residence or military stronghold. The site offers one of the most spectacular sunset views in Java, with the smoking Mount Merapi and the Prambanan temples visible in the distance. Its history is shrouded in mystery, with inscriptions suggesting it was used by both Hindu and Buddhist rulers. Ratu Boko represents the sophisticated urban and courtly life of ancient Java. Geography K8 — Ancient Urban Centers and Royal Settlements.",
+      "factsAdvanced": [
+        "Located at an elevation of 196 meters on a limestone plateau.",
+        "The main gateway features three massive stone doors in 'Paduraksa' style.",
+        "Abhayagiri Vihara, an earlier name, suggests it was a Buddhist monastery.",
+        "Features an elaborate 'Amrta' pool system for ritual purification.",
+        "Historically associated with the legendary King Boko of the Ramayana.",
+        "The site covers an extensive area of approximately 25 hectares.",
+        "Offers a panoramic view of the 'Plains of Sorrows' and Mount Merapi.",
+        "Unique for being a non-temple structure among the Java archaeological sites."
+      ]
+    },
+    {
+      "id": "sangiran-early-man-site-history-v2",
+      "descriptionAdvanced": "Sangiran, located in Central Java, is one of the most important sites in the world for the study of human evolution. This UNESCO World Heritage site has yielded over 100 fossils of Homo erectus, representing half of all known world hominid fossils. The area is a geological treasure trove where ancient lake and river sediments have been uplifted and eroded, revealing a sequence of human, animal, and environmental history spanning the last 2 million years. Fossils of extinct elephants, rhinoceroses, and giant pigs have been found alongside ancient stone tools. Sangiran provides critical evidence of the 'Out of Africa' migration and how early humans adapted to the tropical environments of Southeast Asia. Geography K7 — Human Evolution and Geological Time.",
+      "factsAdvanced": [
+        "Designated as a UNESCO World Heritage site in 1996.",
+        "Home to 'Java Man' (Homo erectus), first discovered in the region in the 1890s.",
+        "The site covers 5,600 hectares of hilly landscape in the Solo River valley.",
+        "Fossils found here date back from 1.5 million to 400,000 years ago.",
+        "Includes the remains of 'Mastodon' and 'Stegodon' (ancient elephants).",
+        "The Sangiran Museum displays a vast collection of hominid and faunal remains.",
+        "Reveals the transformation of Java from a sea into a landmass.",
+        "A key site for understanding the development of early stone tool technology."
+      ]
+    },
+    {
+      "id": "goa-gajah-history-v2",
+      "descriptionAdvanced": "Goa Gajah, or the 'Elephant Cave,' is a fascinating archaeological site near Ubud, Bali, that dates back to the 11th century. The cave is famous for its elaborately carved entrance, which depicts a menacing demonic face intended to ward off evil spirits. Inside the T-shaped cave, visitors find small niches used for meditation and ancient statues of the Hindu god Ganesha and lingam-yoni symbols. The site also features a magnificent bathing pool with six female figures acting as waterspouts, which was only unearthed in the 1950s. Goa Gajah is a significant example of the historical spiritual connection between Buddhism and Hinduism in Bali, as evidenced by the nearby remains of a Buddhist stupa. Geography K7 — Balinese Spirituality and Syncretism.",
+      "factsAdvanced": [
+        "The cave was likely built in the 11th century as a spiritual sanctuary.",
+        "The name 'Elephant Cave' probably refers to the Petanu River, once called Elephant River.",
+        "The bathing pools were rediscovered and excavated by archaeologists in 1954.",
+        "The carvings represent 'Bhoma,' a guardian spirit in Balinese mythology.",
+        "Includes a statue of Ganesha, the elephant-headed god of wisdom.",
+        "Located at the confluence of two small rivers, a site considered sacred.",
+        "Mentions of the site appear in the 14th-century Javanese poem 'Nagarakretagama'.",
+        "The site contains both Hindu and Buddhist archaeological remains."
+      ]
+    },
+    {
+      "id": "gunung-kawi-temple-history-v2",
+      "descriptionAdvanced": "Gunung Kawi is one of Bali's most impressive and unique archaeological complexes, featuring ten massive shrines carved directly into the sheer face of a river cliff. Dating back to the 11th century, these 'Candi' are believed to be funerary monuments dedicated to King Anak Wungsu and his royal queens of the Udayana Dynasty. The site is reached by descending over 300 stone steps through lush rice terraces and a deep river gorge. Each 7-meter high shrine is housed within a protective niche carved into the rock. Gunung Kawi offers a powerful sense of ancient majesty, blending monumental stone architecture with the serene natural beauty of the Pakerisan River valley. Geography K7 — Royal Funerary Rites and Rock-Cut Architecture.",
+      "factsAdvanced": [
+        "Consists of 10 'Candi' (shrines) carved into the soft volcanic tuff.",
+        "Located in the valley of the sacred Pakerisan River near Tampaksiring.",
+        "Built during the reign of King Anak Wungsu (1050–1080 AD).",
+        "The shrines are not tombs, but symbolic memorials for the royal spirits.",
+        "Includes numerous monastic cells (vihara) carved into the surrounding cliffs.",
+        "The site is accessible only by descending approximately 315 stone steps.",
+        "Features inscriptions in an ancient Javanese script called 'Kawi'.",
+        "Surrounded by some of the most beautiful traditional rice terraces in Bali."
+      ]
+    },
+    {
+      "id": "trowulan-archaeological-site-history-v2",
+      "descriptionAdvanced": "Trowulan is the legendary site of the capital of the Majapahit Empire, which ruled much of Southeast Asia between the 13th and 15th centuries. Unlike the mountain-top temples of the era, Trowulan was a vast urban center located on a fertile plain in East Java. The site is scattered with red-brick monuments, including grand gateways like Bajang Ratu and Wringin Lawang, ancient water tanks like Segaran Pool, and the ruins of royal residences. Trowulan offers a rare glimpse into the urban planning, sophisticated water management, and domestic life of Indonesia's most powerful pre-colonial maritime empire. It is a site of immense national pride, symbolizing the historical unity of the Indonesian archipelago. Geography K8 — The Majapahit Empire and Medieval Urbanism.",
+      "factsAdvanced": [
+        "The Majapahit Empire reached its peak under King Hayam Wuruk and Gajah Mada.",
+        "Trowulan was an urban complex covering approximately 100 square kilometers.",
+        "The Segaran Pool is a massive ancient reservoir measuring 800 x 500 meters.",
+        "Bajang Ratu is an elegant 16.5-meter tall brick gateway from the 14th century.",
+        "Archaeologists have found evidence of sophisticated underground brick sewers.",
+        "The site was described in detail in the 1365 poem 'Desawarnana'.",
+        "Thousands of terracotta figurines have been unearthed, showing daily life.",
+        "Trowulan is currently on the UNESCO World Heritage Tentative List."
+      ]
+    },
+    {
+      "id": "fort-rotterdam-makassar-history-v2",
+      "descriptionAdvanced": "Fort Rotterdam, located in the heart of Makassar, is one of the best-preserved examples of Dutch colonial military architecture in Indonesia. Originally a 16th-century fortress of the Gowa Kingdom called 'Ujung Pandang,' it was surrendered to the Dutch East India Company (VOC) in 1667 following the Treaty of Bongaya. The Dutch rebuilt it in their characteristic style, with thick stone walls and five bastions, renaming it after the birthplace of Admiral Speelman. The fort served as a military headquarters and a center for the spice trade monopoly in eastern Indonesia. Today, its yellow-walled buildings house the La Galigo Museum, which showcases the rich maritime history and culture of the Bugis and Makassarese people. Geography K7 — Colonial Fortifications and the Gowa Sultanate.",
+      "factsAdvanced": [
+        "The original Gowa fort was built in 1545 using earth and later stone.",
+        "Renamed Fort Rotterdam by the Dutch in 1667.",
+        "Features a distinctive 'turtle' shape if viewed from above.",
+        "Prince Diponegoro was imprisoned here by the Dutch from 1833 until 1855.",
+        "The La Galigo Museum houses artifacts from the world's longest epic poem.",
+        "One of the few colonial forts in Indonesia with all its buildings intact.",
+        "Historically controlled the strategic shipping lanes of the Makassar Strait.",
+        "Located just steps away from the modern Makassar waterfront (Losari Beach)."
+      ]
+    },
+    {
+      "id": "muara-takus-temples-history-v2",
+      "descriptionAdvanced": "Muara Takus is a unique Buddhist temple complex located in the remote jungles of Riau province, Sumatra. It is the only significant brick temple site found in the region, believed to be linked to the Srivijaya Empire between the 7th and 12th centuries. The complex is dominated by Candi Mahligai, a tall, slender stupa that resembles an elongated bell, a style quite different from the temples of Java. The use of red brick and river stone suggests a distinct local architectural tradition. Muara Takus remains a symbol of the historical reach of Buddhist influence into Sumatra and its role as a center of learning and trade along the Kampar River. Geography K8 — The Srivijaya Empire and Buddhist Sumatran Art.",
+      "factsAdvanced": [
+        "The complex is surrounded by a 74 x 74 meter stone wall.",
+        "Candi Mahligai, the tallest structure, stands approximately 14 meters high.",
+        "Unlike Javanese temples made of andesite, these are built of red clay bricks.",
+        "Located near the Kampar Kanan River, a vital ancient trade artery.",
+        "Likely served as a religious center for the maritime Srivijaya Empire.",
+        "The stupa's shape is unique in Indonesia, showing some Thai or Indian influence.",
+        "First described by European explorers in the mid-19th century.",
+        "A major site for the celebration of Vesak by Sumatran Buddhists today."
+      ]
+    },
+    {
+      "id": "lawang-sewu-history-v2",
+      "descriptionAdvanced": "Lawang Sewu, which means 'Thousand Doors' in Javanese, is an iconic Dutch colonial building in Semarang, Central Java. Completed in 1919, it served as the headquarters of the Nederlandsch-Indische Spoorweg Maatschappij (the Dutch East Indies Railway Company). The building is a masterpiece of 'New Indies' architecture, featuring grand corridors, stained-glass windows, and hundreds of doors and windows designed for natural ventilation. During World War II, it was the site of a fierce battle between Indonesian youth and Japanese forces, and it gained a reputation for being haunted. Today, it has been beautifully restored and serves as a museum dedicated to Indonesia's railway history and a popular architectural landmark. Geography K9 — Colonial Infrastructure and Urban Legends.",
+      "factsAdvanced": [
+        "The name 'Lawang Sewu' is a local nickname; it has about 600-700 doors.",
+        "Designed by Dutch architects Cosman Citroen and B.J. Ouëndag.",
+        "Features magnificent stained-glass windows from the city of Delft, Netherlands.",
+        "Served as the headquarters of the national railway company (PT KAI).",
+        "The site of the 'Five-Day Battle in Semarang' against the Japanese in 1945.",
+        "Restored by PT KAI in 2009 to its original colonial-era glory.",
+        "Known for its underground tunnel system used for cooling and storage.",
+        "Consistently ranked as one of Indonesia's most haunted locations by ghost hunters."
+      ]
+    },
+    {
+      "id": "kraton-yogyakarta-history-v2",
+      "descriptionAdvanced": "The Kraton of Yogyakarta is the grand palace complex of the Sultan of Yogyakarta and the living heart of Javanese culture. Founded in 1755, the palace is a masterpiece of Javanese court architecture, designed with deep symbolic meanings that reflect the Javanese conception of the universe. It is not just a residence for the royal family but a center for classical arts, including Gamelan music, Batik, and traditional dance. The palace remains a semi-autonomous political entity within the Republic of Indonesia. Visitors can explore grand audience halls (Pendopo), museums of royal regalia, and witness the daily rituals of the 'Abdi Dalem' (loyal court servants) who maintain the traditions of the centuries-old monarchy. Geography K8 — Javanese Monarchy and Cultural Continuity.",
+      "factsAdvanced": [
+        "Founded by Sultan Hamengkubuwono I in 1755 after the Giyanti Treaty.",
+        "The palace is aligned on a straight line between Mount Merapi and the South Sea.",
+        "Home to the 'Kyai Guntur Madu' and 'Kyai Nagawilaga' sacred Gamelan sets.",
+        "The main audience hall, Bangsal Kencana, features gold-leafed teak pillars.",
+        "The 'Abdi Dalem' servants wear traditional Javanese dress as their uniform.",
+        "Contains a museum dedicated to the 9th Sultan, a national hero of Indonesia.",
+        "The Kraton acts as the official office of the Governor of Yogyakarta.",
+        "Hosts daily performances of Javanese wayang, dance, and music for the public."
+      ]
+    },
+    {
+      "id": "banda-neira-forts-history-v2",
+      "descriptionAdvanced": "Banda Neira, a tiny island in the remote Maluku archipelago, was once the most contested piece of real estate on Earth. As the world's only source of nutmeg, it was the site of brutal colonial wars and the infamous 1621 massacre by the Dutch East India Company (VOC). The island is dominated by the massive Fort Belgica, a pentagonal fortress that still guards the bay, and the older Fort Nassau. Banda Neira is where the Dutch traded the island of Manhattan to the British in 1667 in exchange for the tiny nutmeg island of Run. Today, the forts stand as silent witnesses to the incredible wealth and violence of the spice trade, surrounded by some of the most pristine coral reefs in the world. Geography K7 — The Global Spice Monopoly and Colonial Empires.",
+      "factsAdvanced": [
+        "Fort Belgica was built in 1611 and is known as the 'Pentagon of the East'.",
+        "The 1667 Treaty of Breda traded Manhattan for the Banda island of Run.",
+        "Banda was the only place in the world where Nutmeg grew until the 19th century.",
+        "Jan Pieterszoon Coen of the VOC led a brutal conquest of the islands in 1621.",
+        "The island served as a place of exile for Indonesian leaders Hatta and Sjahrir.",
+        "Nutmeg and Mace are both produced from the same fruit of the Myristica tree.",
+        "The volcano Gunung Api towers over the island and the forts.",
+        "Fort Belgica is a UNESCO World Heritage Tentative List site."
+      ]
+    },
+    {
+      "id": "surabaya-heroes-monument-history-v2",
+      "descriptionAdvanced": "The Tugu Pahlawan, or Heroes Monument, is the towering symbol of Surabaya, commemorating the bravery of Indonesian fighters during the Battle of Surabaya in 1945. This 41-meter-tall obelisk is shaped like an upside-down nail and features ten arches and eleven sections, symbolizing the date of the battle: November 10th. The battle was a pivotal moment in the Indonesian National Revolution, where poorly armed local militias resisted a much larger British and Allied force. Although the Indonesians suffered heavy losses, their fierce resistance galvanized national support and eventually led to international recognition of Indonesia's independence. The site includes an underground museum that houses artifacts, recordings, and dioramas of the struggle. Geography K9 — National Identity and the Struggle for Independence.",
+      "factsAdvanced": [
+        "The monument stands 41.15 meters tall in the center of Surabaya.",
+        "Commemorates the 'Battle of Surabaya' which began on November 10, 1945.",
+        "November 10th is celebrated annually as 'Hari Pahlawan' (Heroes Day) in Indonesia.",
+        "The first stone was laid by President Sukarno on November 10, 1951.",
+        "The underground museum displays the original radio used by revolutionary leader Bung Tomo.",
+        "The monument is located on the former site of the Dutch Raad van Justitie.",
+        "Surabaya is known as the 'Kota Pahlawan' (City of Heroes) because of this event.",
+        "The obelisk has a 10-sided body representing the 10th month (October)."
+      ]
+    },
+    {
+      "id": "gedong-songo-temples-history-v2",
+      "descriptionAdvanced": "Gedong Songo is a spectacular group of nine Hindu temples scattered across the slopes of Mount Ungaran in Central Java. Built in the 8th and 9th centuries during the Mataram Kingdom, these small stone temples are located at an altitude of over 1,200 meters, offering breathtaking views of the surrounding volcanoes. The name means 'Nine Buildings,' though only five main temple groups remain well-preserved today. The site's high-altitude location, combined with the presence of natural sulfurous hot springs and vents, suggests it was a sacred place for meditation and purification. Gedong Songo represents the early Javanese tradition of building temples in harmony with dramatic mountain landscapes. Geography K8 — Mountain Sanctuaries and Early Javanese Hinduism.",
+      "factsAdvanced": [
+        "Built between 730 and 780 AD during the early Mataram period.",
+        "Located at an elevation of 1,200 to 1,300 meters above sea level.",
+        "The temples are spread over several hills, connected by a scenic hiking trail.",
+        "Includes a natural hot spring area between Temple III and Temple IV.",
+        "The architecture is similar to the Arjuna complex on the Dieng Plateau.",
+        "Dedicated to the Hindu god Shiva, with statues of Durga and Ganesha.",
+        "Rediscovered by Sir Stamford Raffles in 1804.",
+        "Offers views of five major volcanoes: Merapi, Merbabu, Telomoyo, Andong, and Sumbing."
+      ]
+    },
+    {
+      "id": "dieng-plateau-temples-history-v2",
+      "descriptionAdvanced": "The temples of the Dieng Plateau, located at an elevation of 2,000 meters in the highlands of Central Java, are the oldest stone structures in Indonesia. Built between the 7th and 8th centuries, these small, elegant Hindu temples were part of a vast sacred city once inhabited by priests and monks. The plateau's name is derived from 'Di-Hyang,' meaning 'Abode of the Gods.' The site is characterized by its dramatic volcanic landscape, including bubbling mud pools, sulfurous lakes, and colorful craters. The surviving temples, named after characters from the Mahabharata like Arjuna and Bima, show a simplicity and refined style that influenced later Javanese architecture. Dieng remains one of Java's most mystical and geographically unique historical sites. Geography K7 — Highland Civilizations and Volcanic Landscapes.",
+      "factsAdvanced": [
+        "The oldest Hindu temples on Java, dating back to the 7th century.",
+        "The 'Arjuna' cluster is the most well-preserved group of temples.",
+        "Candi Bima features unique architecture with Indian-style 'shikhara' roofs.",
+        "The plateau is a massive volcanic caldera with active vents and craters.",
+        "Experiences some of the coldest temperatures on Java, including frost in winter.",
+        "Once home to over 400 temples, most of which were destroyed by natural disasters.",
+        "Telaga Warna (Colorful Lake) is located nearby, known for its sulfur-rich waters.",
+        "The temples were designed with drainage systems to handle the heavy mountain rain."
+      ]
+    },
+    {
+      "id": "bali-bombing-memorial-history-v2",
+      "descriptionAdvanced": "The Bali Bombing Memorial, also known as the Ground Zero Monument, stands in the heart of Kuta at the site of the 2002 terrorist attacks. This carved stone memorial commemorates the 202 people of 22 different nationalities who lost their lives in the tragedy. The design features a large intricate relief and a marble plaque listing the names of all the victims. Every year on October 12th, families, survivors, and officials gather here for a somber ceremony of remembrance. The monument is a powerful symbol of Bali's resilience and the global stand against terrorism, having transformed a place of immense pain into a space for peaceful reflection and international solidarity. Geography K9 — Modern History and Global Security Impacts.",
+      "factsAdvanced": [
+        "Inaugurated on October 12, 2004, exactly two years after the attack.",
+        "Lists the names of 202 victims from 22 different nations.",
+        "The largest number of victims were from Australia (88) and Indonesia (38).",
+        "Located on Jalan Legian, where the Paddy's Pub and Sari Club once stood.",
+        "The intricate stone carving represents the 'Kayon' (Tree of Life).",
+        "A site of international pilgrimage for families of the victims.",
+        "Symbolizes Bali's recovery and its 'Tri Hita Karana' philosophy of harmony.",
+        "Surrounded by the bustling tourist district of Kuta."
+      ]
+    },
+    {
+      "id": "sumba-megalithic-tombs-history-v2",
+      "descriptionAdvanced": "The island of Sumba is home to one of the world's last surviving megalithic cultures, where the tradition of building massive stone tombs continues to this day. These heavy dolmens and carved sarcophagi are found in the center of traditional 'Marapu' villages, symbolizing the eternal connection between the living and their ancestors. The process of moving these stones, some weighing dozens of tons, requires the collective effort of hundreds of people and the sacrifice of many water buffalo. These tombs are not just historical artifacts but active parts of village life, serving as social and spiritual anchors. Sumba's megalithic landscape offers a rare window into a prehistoric way of life that has survived into the 21st century. Geography K7 — Megalithic Cultures and Ancestor Worship.",
+      "factsAdvanced": [
+        "Sumba is one of the few places where megalithic burials are still practiced.",
+        "Some stone tomb slabs weigh more than 30 tons.",
+        "The stones are often moved over long distances using wooden rollers and manpower.",
+        "Tombs are intricately carved with symbols of buffalo, horses, and crocodiles.",
+        "The 'Marapu' religion is the traditional belief system centered on ancestors.",
+        "Traditional Sumba houses (Uma Mbatangu) feature extremely high peaked roofs.",
+        "The Pasola festival, a ritual horseback spear fight, is held nearby.",
+        "Anakalang is home to some of the largest and most ornate tombs on the island."
+      ]
+    },
+    {
+      "id": "gunungan-historical-park-history-v2",
+      "descriptionAdvanced": "Gunongan, located in Banda Aceh, is a unique 17th-century stone monument built by Sultan Iskandar Muda for his beloved wife, a princess from Pahang (Malaysia). Legend says the Sultan built this 'artificial mountain' to cure the princess's homesickness for the hills of her homeland. The monument is a series of white, tiered stone terraces designed in the shape of a blooming flower or a mountain. It was part of a larger royal pleasure garden called 'Taman Ghairah,' which once featured a river and palace buildings. Gunongan is a rare example of pre-colonial secular architecture in Aceh and a symbol of the romantic and artistic heights of the Acehnese Sultanate during its golden age. Geography K7 — The Aceh Sultanate and Royal Architecture.",
+      "factsAdvanced": [
+        "Built in the early 17th century by Sultan Iskandar Muda (ruled 1607–1636).",
+        "Designed to resemble the hills of Pahang to soothe the Sultan's wife.",
+        "Stands 9.5 meters tall and is made of white-washed stone.",
+        "The structure features a narrow staircase leading to its summit.",
+        "Located within the 'Pinto Khop' (The Gate) area of the former royal palace.",
+        "A rare surviving example of Acehnese royal garden architecture.",
+        "Aceh was once a powerful empire that controlled the spice trade on Sumatra.",
+        "Part of the wider 'Banda Aceh Cultural Heritage' preservation zone."
+      ]
+    },
+    {
+      "id": "jakarta-old-town-history-v2",
+      "descriptionAdvanced": "Kota Tua, or Jakarta's Old Town, is the historical heart of the Indonesian capital, formerly known as Batavia. This district contains the highest concentration of Dutch colonial architecture in the country, centered around Fatahillah Square. The old City Hall, now the Jakarta History Museum, stands as the centerpiece of what was once the 'Queen of the East.' Visitors can explore 17th-century canals, the iconic red-brick Wayang Museum, and the historic Cafe Batavia. Kota Tua represents the centuries-long colonial encounter between the Dutch East India Company (VOC) and the indigenous people of the archipelago. Recent revitalization efforts have transformed the square into a vibrant public space while working to preserve its status as an international heritage site. Geography K8 — Colonial Urbanism and Maritime History.",
+      "factsAdvanced": [
+        "Batavia was founded by Jan Pieterszoon Coen of the VOC in 1619.",
+        "Fatahillah Square (Stadhuisplein) was the administrative center of the VOC.",
+        "The Jakarta History Museum was built in 1710 as the Batavia City Hall.",
+        "The area was designed with Dutch-style canals, which later led to health issues.",
+        "Home to the Wayang Museum, which houses a world-class shadow puppet collection.",
+        "The Great Canal (Kali Besar) was once the main artery for colonial trade.",
+        "Features the 'Sunda Kelapa' port, where traditional schooners still operate.",
+        "A UNESCO World Heritage Tentative List site since 2014."
+      ]
+    },
+    {
+      "id": "monas-national-monument-history-v2",
+      "descriptionAdvanced": "The National Monument, or Monas, is the defining landmark of Jakarta and the supreme symbol of Indonesia's struggle for independence. Standing 132 meters tall in the center of Merdeka Square, the monument is topped by a 14.5-meter 'Flame of Independence' coated with 50 kilograms of gold leaf. Its design incorporates the Hindu-Buddhist symbols of Lingam (stability) and Yoni (fertility), reflecting the nation's deep historical roots. The base of the monument houses the National History Museum, which features 51 dioramas depicting Indonesia's journey from prehistory through the colonial era to the proclamation of independence in 1945. Monas is a site of immense national pride and the focal point for major national celebrations and public gatherings. Geography K9 — National Symbols and Post-Colonial Identity.",
+      "factsAdvanced": [
+        "Construction began in 1961 under President Sukarno and finished in 1975.",
+        "The 132-meter tall obelisk is topped by a flame covered in 50 kg of gold leaf.",
+        "Merdeka Square, where it stands, is one of the largest city squares in the world.",
+        "The cupola at the base houses the original text of the Proclamation of Independence.",
+        "An elevator takes visitors to an observation deck 115 meters above the ground.",
+        "The diorama museum at the base covers 2,500 years of Indonesian history.",
+        "The monument's shape symbolizes the unity of the Indonesian people.",
+        "The surrounding park is home to a herd of spotted deer and the 'Musical Fountain'."
+      ]
+    },
+    {
+      "id": "jakarta-cathedral-landmarks-v2",
+      "descriptionAdvanced": "The Jakarta Cathedral, officially named 'The Church of Our Lady of the Assumption,' is a stunning example of Neo-Gothic architecture in the heart of the capital. Completed in 1901, its three soaring twin spires are made of steel instead of stone, a unique adaptation to Java's earthquake-prone environment. The interior features beautiful teak-wood ceilings and classic stained-glass windows. Most significantly, the Cathedral stands directly across from the Istiqlal Mosque, Indonesia's national mosque. This physical proximity is a powerful and intentional symbol of the nation's motto, 'Bhinneka Tunggal Ika' (Unity in Diversity), highlighting the peaceful coexistence and mutual respect between the country's religious communities. Geography K7 — Religious Pluralism and Urban Symbols.",
+      "factsAdvanced": [
+        "Built in the Neo-Gothic style, common in Europe during the late 19th century.",
+        "The three main spires reach heights of 60 and 45 meters.",
+        "The current building was completed in 1901, replacing an earlier 1829 church.",
+        "Located directly opposite the Istiqlal Mosque, symbolizing interfaith harmony.",
+        "The spires are made of iron frames to survive frequent Indonesian earthquakes.",
+        "The Cathedral's museum houses artifacts from the history of Catholicism in Indonesia.",
+        "Known as 'Gereja Katedral' in the Indonesian language.",
+        "A national heritage site and the seat of the Roman Catholic Archbishop of Jakarta."
+      ]
+    },
+    {
+      "id": "suramadu-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Suramadu Bridge is an engineering marvel that connects the island of Java to the island of Madura across the Madura Strait. Stretching 5.4 kilometers, it is the longest bridge in Indonesia and a vital piece of infrastructure for the economic development of Madura. Opened in 2009, this cable-stayed bridge features a high central span that allows for the passage of large cargo ships heading to the Port of Surabaya. The bridge has drastically reduced travel time and logistics costs between the two islands, which previously relied solely on ferry services. At night, the bridge is beautifully illuminated, serving as a modern landmark for the city of Surabaya and a symbol of Indonesia's growing infrastructure capabilities. Geography K11 — Transportation Networks and Regional Integration.",
+      "factsAdvanced": [
+        "The longest bridge in Indonesia, spanning a total of 5,438 meters.",
+        "Connects the city of Surabaya (Java) with the town of Bangkalan (Madura).",
+        "A cable-stayed bridge with three main spans to allow maritime traffic.",
+        "Opened to the public on June 10, 2009, by President Susilo Bambang Yudhoyono.",
+        "Construction required approximately 650,000 tons of cement and 50,000 tons of steel.",
+        "Has four lanes for cars and two dedicated lanes for motorcycles.",
+        "The bridge tolls were completely abolished in 2018 to boost Madura's economy.",
+        "Located over the Madura Strait, one of Indonesia's busiest shipping lanes."
+      ]
+    },
+    {
+      "id": "bajra-sandhi-monument-landmarks-v2",
+      "descriptionAdvanced": "The Bajra Sandhi Monument is a massive stone structure in Denpasar that commemorates the heroic struggles of the Balinese people throughout history. The monument's name and shape are derived from the 'Bajra,' a ritual bell used by Balinese Hindu priests. Its architecture is rich with symbolic meaning, incorporating the numbers of the Proclamation of Independence (17-8-45) into its height and dimensions. Inside, a series of 33 dioramas depicts the island's journey from prehistory and the era of the Balinese kingdoms through the colonial resistance and the modern era. Situated in the center of the vast Renon Square, the monument is a source of regional pride and a stunning example of modern Balinese architectural design. Geography K9 — Regional Identity and Historical Memory.",
+      "factsAdvanced": [
+        "Inaugurated in 2003 after 16 years of construction.",
+        "The design features 17 gates, 8 pillars, and a total height of 45 meters.",
+        "The central spire is shaped like a 'Bajra' (ceremonial Hindu priest's bell).",
+        "Includes a museum with 33 dioramas depicting Balinese history.",
+        "Surrounded by the Niti Mandala park, the primary public square of Denpasar.",
+        "Built using traditional Balinese volcanic stone (Batu Tabas).",
+        "The top of the monument offers a 360-degree view of Denpasar city.",
+        "Serves as a symbol of the 'Puputan' spirit of resistance against colonial rule."
+      ]
+    },
+    {
+      "id": "maimun-palace-landmarks-v2",
+      "descriptionAdvanced": "Maimun Palace (Istana Maimun) is the most iconic landmark of Medan and the historical seat of the Sultanate of Deli. Built in 1888, the palace is a masterpiece of architectural fusion, blending Malay, Islamic, Spanish, Indian, and Italian styles. Its vibrant yellow exterior—the color of Malay royalty—and its distinctive Mogul-style domes make it a stunning sight. The interior features Dutch-style stained glass, Italian marble floors, and a grand throne room where the current Sultan still conducts traditional ceremonies. The palace is a reminder of the immense wealth generated by the tobacco plantations of North Sumatra in the late 19th century and remains a vital center for Malay cultural identity in the region. Geography K7 — The Deli Sultanate and Multicultural Architecture.",
+      "factsAdvanced": [
+        "Built in 1888 by Sultan Ma'mun Al Rashid Perkasa Alamyansyah.",
+        "The architecture was designed by a Dutch captain named T.H. van Erp.",
+        "Covers a total area of 2,772 square meters with 30 individual rooms.",
+        "The dominant yellow color symbolizes the majesty of the Malay Sultans.",
+        "Features a legendary 'Canointed Cannon' (Meriam Puntung) in the grounds.",
+        "Medan's tobacco boom in the 1800s provided the funding for this grand palace.",
+        "The palace roof is shaped like a boat, a common Malay architectural motif.",
+        "Located in the heart of Medan, near the Great Mosque of Medan."
+      ]
+    },
+    {
+      "id": "equator-monument-pontianak-landmarks-v2",
+      "descriptionAdvanced": "The Equator Monument (Tugu Khatulistiwa) in Pontianak marks the exact location of the 0-degree latitude line on the island of Borneo. This unique landmark is one of the few places in the world where a major city sits directly on the Equator. Twice a year, during the spring and autumn equinoxes, the sun is positioned directly overhead, causing shadows to disappear for a few moments—a phenomenon that attracts thousands of visitors. The current monument is a massive protective structure that houses the original, smaller wooden monument built by a Dutch geographer in 1928. It is a symbol of Pontianak's global geographic identity and a center for scientific curiosity and local pride. Geography K7 — Earth's Grid System and the Equator.",
+      "factsAdvanced": [
+        "The first monument was built in 1928 by a Dutch geographer using simple wood.",
+        "The shadowless phenomenon occurs every March 21st and September 23rd.",
+        "Pontianak is the only city in the world located exactly on the Equator.",
+        "The current monument consists of 4 ironwood pillars, each 15-20 meters high.",
+        "A large globe sits atop the monument with the inscription 'EVENAAR'.",
+        "Visitors can receive a certificate for crossing the Equator at this site.",
+        "Located on the banks of the Kapuas River, about 3 km from the city center.",
+        "The monument also serves as an educational center for solar and Earth sciences."
+      ]
+    }
+  ]
+}

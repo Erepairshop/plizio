@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gt-mixco-cities-v2",
+      "descriptionAdvanced": "Mixco, located in the Guatemala Department, is the second most populous city in the nation and essentially forms part of the sprawling Guatemala City metropolitan area. The area was historically a major Poqomam Maya settlement before the Spanish conquest in 1525, which saw Captain Pedro de Alvarado siege the fortified capital of Mixco Viejo. Today, it stands as a bustling industrial and residential hub, characterized by deep ravines and steep hills that dictate its urban planning. Mixco is particularly famous for its 'chicharrones' (fried pork rinds), drawing visitors from across the capital region every weekend. Its economy heavily relies on commerce, service sectors, and manufacturing, contrasting sharply with its ancient indigenous roots. This urban geography topic provides a perfect case study for Geography K8 students analyzing metropolitan expansion and terrain constraints.",
+      "factsAdvanced": [
+        "Mixco is Guatemala's second-largest city with over 460,000 residents.",
+        "The ancient Poqomam capital, Mixco Viejo, fell to Pedro de Alvarado in 1525.",
+        "It was officially founded as a colonial settlement in 1526.",
+        "The city sits at an elevation of roughly 1,495 meters above sea level.",
+        "Mixco is famously known as the 'Land of the Chicharrón'.",
+        "It covers an administrative area of about 132 square kilometers."
+      ]
+    },
+    {
+      "id": "gt-puerto-barrios-cities-v2",
+      "descriptionAdvanced": "Situated on the Gulf of Honduras, Puerto Barrios serves as Guatemala's principal Caribbean port and the capital of the Izabal Department. Founded in 1895 by President José María Reina Barrios, the city was established to connect the capital to the Atlantic via the Northern Railway. The local culture is deeply influenced by the Garifuna people, descendants of Afro-Caribbean populations who settled along the coast in the late 18th century. Puerto Barrios remains a crucial center for the exportation of bananas, coffee, and tropical fruits, largely historically managed by the United Fruit Company. The city’s tropical climate and proximity to the Amatique Bay make it a unique cultural and economic maritime gateway. Analyzing the impact of railway and port development makes this a great subject for History K7.",
+      "factsAdvanced": [
+        "Puerto Barrios was officially founded on July 19, 1895.",
+        "The city was named after Guatemalan President José María Reina Barrios.",
+        "It is located on the coastline of Amatique Bay in the Caribbean Sea.",
+        "The Northern Railway reached Puerto Barrios in 1908.",
+        "The municipality covers an area of approximately 1,292 square kilometers.",
+        "It serves as a primary export point for Del Monte and Chiquita bananas."
+      ]
+    },
+    {
+      "id": "gt-huehuetenango-cities-v2",
+      "descriptionAdvanced": "Nestled in the highlands of western Guatemala at the foot of the Cuchumatanes mountain range, Huehuetenango is renowned for its vibrant indigenous markets and rich coffee-growing heritage. The city, whose name translates to 'Place of the Ancients' in Nahuatl, serves as the capital of the Huehuetenango Department. Just outside the city lie the pre-Columbian ruins of Zaculeu, the former capital of the Mam Maya kingdom, which famously resisted Gonzalo de Alvarado's siege in 1525. Today, the local economy thrives on agriculture, cross-border trade with nearby Mexico, and remittances from abroad. The high altitude provides a perfect microclimate for producing some of Guatemala's most highly rated specialty coffees. This blend of ancient Maya history and modern agricultural economy is ideal for Geography K7 studies.",
+      "factsAdvanced": [
+        "Huehuetenango is situated at an elevation of 1,901 meters.",
+        "The nearby Zaculeu ruins were the capital of the Mam Maya kingdom.",
+        "Gonzalo de Alvarado conquered the area for Spain in 1525.",
+        "The city is a major hub for Guatemala's specialty coffee industry.",
+        "It is located just 266 kilometers northwest of Guatemala City.",
+        "The local population predominantly speaks Spanish and the Mam language."
+      ]
+    },
+    {
+      "id": "gt-santa-cruz-del-quiche-cities-v2",
+      "descriptionAdvanced": "Santa Cruz del Quiché acts as the capital of the Quiché Department and is deeply ingrained in the heartland of the K'iche' Maya people. Founded by the Spanish in 1539, the city was built close to the ruins of Q'umarkaj (Utatlán), the fierce ancient capital of the K'iche' kingdom that Pedro de Alvarado burned to the ground in 1524. The city's central plaza is dominated by a colonial-era cathedral built using stones taken directly from the Q'umarkaj ruins. Santa Cruz del Quiché serves as a major commercial and transport hub for the surrounding mountainous villages, bustling with agricultural trade and traditional textile weaving. The city's history is inextricably linked to the Popol Vuh, the sacred text of the Maya. This profound historical context is excellently suited for History K8.",
+      "factsAdvanced": [
+        "Santa Cruz del Quiché was founded by Spanish colonizers in 1539.",
+        "It sits at an altitude of approximately 2,021 meters above sea level.",
+        "The nearby ruins of Q'umarkaj were destroyed by Pedro de Alvarado in 1524.",
+        "The city cathedral was constructed using stones from ancient Maya temples.",
+        "It serves as the administrative center for the Quiché Department.",
+        "The city is closely associated with the origins of the Popol Vuh manuscript."
+      ]
+    },
+    {
+      "id": "gt-chimaltenango-cities-v2",
+      "descriptionAdvanced": "Located strategically along the Pan-American Highway, Chimaltenango serves as the capital of its namesake department and a major transit point connecting Guatemala City to the western highlands. Founded in 1526 by Pedro de Portocarrero, the city was historically known as 'B'oko'' before the Spanish arrived. Because it sits directly on the continental divide, water falling on the northern side of the city's central plaza flows towards the Atlantic, while water on the southern side flows to the Pacific. The local economy is driven by agriculture, particularly the large-scale production of vegetables, strawberries, and flowers for export, facilitated by the fertile volcanic soils. The city's unique position on the continental divide offers an excellent practical example for Geography K6 studies on watersheds.",
+      "factsAdvanced": [
+        "Chimaltenango was founded in 1526 by Spanish conquistador Pedro de Portocarrero.",
+        "The city sits exactly on the Americas' Continental Divide.",
+        "It is positioned at an altitude of 1,800 meters above sea level.",
+        "Before the Spanish conquest, the area was known by the Kaqchikel name 'B'oko'.",
+        "The city's central fountain famously splits water towards two different oceans.",
+        "It is a massive center for agricultural exports, including berries and textiles."
+      ]
+    },
+    {
+      "id": "gt-mazatenango-cities-v2",
+      "descriptionAdvanced": "Mazatenango, the vibrant capital of the Suchitepéquez Department, is the premier commercial hub of Guatemala's southern Pacific coastal plain. Positioned at a lower altitude than the highland cities, Mazatenango experiences a hot and humid tropical climate, making it historically ideal for the cultivation of cacao, sugarcane, and rubber. During the colonial era, the region was an incredibly wealthy center of cacao production, heavily taxed by the Spanish crown. Today, the city is famous throughout the country for its extravagant Carnaval celebration held every February, which features parades, music, and dances. Mazatenango's transition from a cacao powerhouse to a modern agricultural and commercial center presents a rich topic for Social Studies K7.",
+      "factsAdvanced": [
+        "Mazatenango is situated at an elevation of just 370 meters above sea level.",
+        "The city serves as the capital of the Suchitepéquez Department.",
+        "It was a major center for cacao production during the 16th and 17th centuries.",
+        "Mazatenango hosts Guatemala's most famous Carnaval every February.",
+        "The local economy relies heavily on sugarcane, rubber, and palm oil.",
+        "The city is a vital stop on the CA-2 highway along the Pacific plain."
+      ]
+    },
+    {
+      "id": "gt-retalhuleu-cities-v2",
+      "descriptionAdvanced": "Affectionately known as 'Reu' by locals, Retalhuleu is a major city in southwestern Guatemala and the capital of the Retalhuleu Department. Surrounded by vast tropical plains, the city is characterized by its sweltering climate and neoclassical architecture, with a central plaza lined with prominent palm trees and historical government buildings. Historically, the area was a borderland between the K'iche' and Mam kingdoms before Spanish colonization. Today, Retalhuleu is an agribusiness powerhouse, dominated by vast sugarcane plantations and cattle ranching. Recently, it has also become a major tourism center due to the presence of large theme parks like Xetulul and Xocomil. This combination of agriculture and modern leisure industry makes it a great subject for Economy K7.",
+      "factsAdvanced": [
+        "Retalhuleu is located at an altitude of approximately 239 meters.",
+        "Locals and Guatemalans nationwide commonly refer to the city as 'Reu'.",
+        "The region is dominated by large-scale sugarcane and cattle ranching operations.",
+        "The city serves as the gateway to major theme parks Xetulul and Xocomil.",
+        "It features distinctive neoclassical architecture around its central plaza.",
+        "The surrounding department borders the Pacific Ocean to the south."
+      ]
+    },
+    {
+      "id": "gt-jalapa-cities-v2",
+      "descriptionAdvanced": "Jalapa, set in a high valley in southeastern Guatemala, is the capital of the Jalapa Department and is often referred to as the 'Climatological City of the East' due to its surprisingly temperate weather in a normally hot region. The city was officially elevated to the status of a department capital in 1873. Jalapa's geography is uniquely shaped by the nearby Jumay volcano and rolling mountains, creating fertile grounds for dairy farming and agriculture. The city is culturally significant for its historical resistance movements and agricultural fairs. Its economy is largely agrarian, centered around cattle, cheese production, and maize. The unique microclimate of Jalapa provides a fascinating study point for Geography K6 students learning about regional weather patterns.",
+      "factsAdvanced": [
+        "Jalapa was designated as a department capital on November 24, 1873.",
+        "The city is situated at an elevation of 1,362 meters above sea level.",
+        "It is often called 'La Morena Climatológica de Oriente'.",
+        "The towering Jumay Volcano stands prominently near the city.",
+        "Jalapa's economy is heavily based on dairy farming and cheese production.",
+        "The region is known for a drier, yet temperate climate compared to the lowlands."
+      ]
+    },
+    {
+      "id": "gt-chiquimula-cities-v2",
+      "descriptionAdvanced": "Known as the 'Pearl of the Orient', Chiquimula is the most important commercial city in eastern Guatemala and the capital of the Chiquimula Department. Founded during the early colonial period, the city suffered a devastating earthquake in 1765 which completely destroyed the original settlement, forcing the inhabitants to rebuild slightly to the north. Chiquimula serves as a crucial transit hub for people and goods moving between Guatemala, Honduras, and El Salvador. The climate is notoriously hot and dry, characteristic of the 'Corredor Seco' (Dry Corridor). The city's lively atmosphere, heavy commercial trade, and historical resilience make it a vital economic engine in the east. Studying Chiquimula's role in cross-border trade is highly relevant for Geography K8.",
+      "factsAdvanced": [
+        "Chiquimula is widely known as the 'Perla de Oriente' (Pearl of the Orient).",
+        "The original colonial city was destroyed by a massive earthquake in 1765.",
+        "It sits at an altitude of 424 meters in Guatemala's Dry Corridor.",
+        "The city is a major transit node connecting Guatemala with Honduras.",
+        "Chiquimula experiences very high temperatures, often exceeding 35°C (95°F).",
+        "It serves as the administrative capital of the Chiquimula Department."
+      ]
+    },
+    {
+      "id": "gt-salamá-cities-v2",
+      "descriptionAdvanced": "Salamá serves as the tranquil capital of the Baja Verapaz Department, nestled in a valley surrounded by the Chuacús mountain range. The city's history is deeply tied to the Dominican friars, led by Bartolomé de las Casas, who peacefully integrated the region into the Spanish empire in the 16th century without military conquest, earning the area the name 'Verapaz' (True Peace). Salamá's colonial heritage is highlighted by the impressive San Mateo church located on the main plaza. The city is famous for its intricate traditional pottery and serves as a gateway to the Biotopo del Quetzal, a crucial nature reserve. This history of peaceful colonization and environmental preservation provides excellent material for History K7.",
+      "factsAdvanced": [
+        "Salamá is the capital city of the Baja Verapaz Department.",
+        "The region was integrated peacefully by Dominican friar Bartolomé de las Casas.",
+        "The city sits in a valley at an elevation of 940 meters.",
+        "The colonial San Mateo church dominates the city's central park.",
+        "Salamá is known for producing high-quality traditional glazed pottery.",
+        "The name 'Verapaz' historically means 'True Peace' in Spanish."
+      ]
+    },
+    {
+      "id": "gt-zacapa-cities-v2",
+      "descriptionAdvanced": "Zacapa is a blistering, sun-drenched city in eastern Guatemala, acting as the capital of the Zacapa Department. It was historically a crucial railroad junction on the route connecting Guatemala City to the Caribbean port of Puerto Barrios, leading to a unique cultural blend and a strong sense of local pride among 'Zacapanecos'. The city is perhaps most globally famous for its namesake rum, Ron Zacapa Centenario, though the rum is actually aged in the cooler highlands. The local climate is semi-arid, placing it squarely within Guatemala's Dry Corridor, which heavily influences its agriculture toward drought-resistant crops and cattle ranching. The city's railway history and agricultural adaptation make it an interesting case study for Economy K8.",
+      "factsAdvanced": [
+        "Zacapa sits at an elevation of just 220 meters in the Dry Corridor.",
+        "It was a major hub for the Northern Railway during the 20th century.",
+        "The city gave its name to the world-renowned Ron Zacapa Centenario.",
+        "Zacapa was officially recognized as a municipality in 1871.",
+        "The region's economy relies heavily on cattle ranching and melon cultivation.",
+        "It experiences some of the hottest maximum temperatures in Guatemala."
+      ]
+    },
+    {
+      "id": "gt-jutiapa-cities-v2",
+      "descriptionAdvanced": "Jutiapa, known as the 'City of the Sun', is the capital of the Jutiapa Department in southeastern Guatemala, near the border with El Salvador. The city is deeply rooted in the culture of the Xinca people, an indigenous group distinct from the Maya, although today the population is predominantly mestizo. Jutiapa's landscape is highly volcanic, surrounded by prominent peaks like the Culma volcano. The regional economy is fiercely agricultural, known as the 'granary' of the south, producing massive quantities of maize, beans, and sorghum, alongside robust cattle and horse ranching traditions. The strong cowboy (vaquero) culture and Xinca heritage offer a compelling narrative for Social Studies K7.",
+      "factsAdvanced": [
+        "Jutiapa is nicknamed the 'Ciudad del Sol' (City of the Sun).",
+        "It sits at an altitude of 906 meters near the El Salvador border.",
+        "The region is historically the homeland of the non-Mayan Xinca people.",
+        "The nearby Culma volcano is clearly visible from the city center.",
+        "Jutiapa is a major producer of maize, beans, and sorghum in Guatemala.",
+        "The city officially became a department capital on May 8, 1852."
+      ]
+    },
+    {
+      "id": "gt-santa-lucia-cotzumalguapa-cities-v2",
+      "descriptionAdvanced": "Santa Lucía Cotzumalguapa is a bustling commercial center located on the Pacific coastal plain in the Escuintla Department. The city is world-renowned among archaeologists for its extraordinary concentration of pre-Columbian stone monuments and stelae, representing the unique 'Cotzumalguapa culture' which flourished during the Late Classic period (650-950 AD). Today, the city is a powerhouse of the Guatemalan sugar industry, surrounded by massive sugar mills (ingenios) and endless cane fields. The contrast between heavy industrial agriculture and the ancient stone carvings found hidden among the plantations makes Santa Lucía Cotzumalguapa a fascinating intersection of the past and present, highly relevant for History K8 students studying Mesoamerican civilizations.",
+      "factsAdvanced": [
+        "Santa Lucía Cotzumalguapa sits at an elevation of 356 meters.",
+        "The area is famous for the Late Classic period 'Cotzumalguapa culture'.",
+        "Massive stone stelae from ancient civilizations are found across local farms.",
+        "It is a primary hub for Guatemala's massive sugar refining industry.",
+        "The monumental sites of Bilbao and El Baúl are located just outside the city.",
+        "The local climate is hot and tropical, ideal for sugarcane cultivation."
+      ]
+    },
+    {
+      "id": "gt-puerto-san-jose-cities-v2",
+      "descriptionAdvanced": "Puerto San José is a coastal city in the Escuintla Department and historically served as Guatemala's main Pacific port until the construction of the modern Puerto Quetzal nearby. Established in the mid-19th century, it was the Pacific terminus for the country's railway network. Today, while heavy commercial shipping has moved to Puerto Quetzal, Puerto San José remains a hugely popular weekend beach destination for residents of Guatemala City. Its black volcanic sand beaches, deep-sea sport fishing, and bustling seafood markets define the local economy. The transition of Puerto San José from an industrial port to a tourism and fishing hub is an excellent topic for Geography K7 students examining urban economic shifts.",
+      "factsAdvanced": [
+        "Puerto San José was Guatemala's primary Pacific port during the 19th century.",
+        "The city features distinctive black sand beaches due to volcanic activity.",
+        "It is located approximately 110 kilometers south of Guatemala City.",
+        "The commercial port operations largely shifted to nearby Puerto Quetzal in the 1980s.",
+        "It remains a premier destination for global sailfish sport fishing.",
+        "The local economy is heavily dependent on domestic coastal tourism."
+      ]
+    },
+    {
+      "id": "gt-flores-cities-v2",
+      "descriptionAdvanced": "Flores is the picturesque capital of the Petén Department, uniquely situated on an island in Lake Petén Itzá and connected to the mainland via a short causeway. The island was originally known as Nojpetén, the capital of the Itza Maya kingdom, which famously held out against Spanish conquest until 1697—making it the last independent Maya state to fall. Today, Flores features narrow cobblestone streets, colorful colonial-style houses, and serves as the primary logistical base for tourists visiting the monumental ruins of Tikal and other ancient cities deep in the jungle. The city's island geography and profound historical significance make it an essential subject for History K8 studies of the Spanish conquest.",
+      "factsAdvanced": [
+        "Flores is built on an island in the southern part of Lake Petén Itzá.",
+        "It was originally Nojpetén, the capital of the Itza Maya kingdom.",
+        "The city was the last Maya stronghold, falling to the Spanish in 1697.",
+        "A man-made causeway connects the island to the twin towns of Santa Elena and San Benito.",
+        "Flores serves as the gateway to the massive Tikal National Park.",
+        "It was renamed in honor of Cirilo Flores, a prominent Guatemalan independence figure."
+      ]
+    },
+    {
+      "id": "gt-totonicapan-cities-v2",
+      "descriptionAdvanced": "Totonicapán, set high in the cool western highlands, is the capital of the Totonicapán Department and a major center of K'iche' Maya culture. The city is steeped in a history of indigenous resistance, most notably the 1820 rebellion led by Atanasio Tzul against excessive Spanish tribute taxes. Totonicapán is fiercely proud of its traditional governance structures, heavily utilizing communal councils (alcaldías indígenas) to manage local resources like water and forests. Economically, the city is a massive hub for artisanal crafts, including intricately woven textiles, ceramics, and carved wooden furniture. This strong preservation of indigenous self-governance and artisan industry offers a deep cultural lesson for Social Studies K8.",
+      "factsAdvanced": [
+        "Totonicapán is situated at a very high elevation of 2,495 meters.",
+        "The city was the site of the famous 1820 indigenous uprising led by Atanasio Tzul.",
+        "It is renowned for its traditional K'iche' Maya governance structures.",
+        "The local economy is heavily driven by artisan weaving and pottery.",
+        "The city is surrounded by ancient, communally managed pine forests.",
+        "Almost 98% of the department's population identifies as indigenous K'iche'."
+      ]
+    },
+    {
+      "id": "gt-coatepeque-cities-v2",
+      "descriptionAdvanced": "Coatepeque is an incredibly active commercial city located in the Quetzaltenango Department, near the border with Mexico. Acting as a crucial trading bridge between the cool highlands and the hot Pacific coastal plain, the city experiences a massive daily influx of merchants and agricultural goods. Its name derives from Nahuatl, meaning 'Snake Mountain'. The local economy is fueled by the surrounding coffee estates (fincas) and the bustling informal trade crossing the nearby Tecún Umán border post. Coatepeque's rapid urbanization and role as an agricultural marketplace make it an important case study for Geography K7 students looking at trade networks.",
+      "factsAdvanced": [
+        "Coatepeque is located at an altitude of 498 meters above sea level.",
+        "The city's name comes from Nahuatl and translates to 'Snake Mountain'.",
+        "It serves as a critical commercial link between the highlands and the coast.",
+        "The city is located very close to the Tecún Umán border with Mexico.",
+        "Coatepeque's economy is strongly tied to coffee and cattle trade.",
+        "It is one of the fastest-growing commercial hubs in western Guatemala."
+      ]
+    },
+    {
+      "id": "gt-san-pedro-carcha-cities-v2",
+      "descriptionAdvanced": "San Pedro Carchá is a large, rapidly growing city in the Alta Verapaz Department, forming a dense metropolitan area alongside the neighboring city of Cobán. Deeply rooted in Q'eqchi' Maya culture, the city is famous for its lively traditional markets and silver craftwork. The surrounding landscape is characterized by dense cloud forests, caves, and rivers, with the local economy heavily centered on the cultivation of cardamom, coffee, and timber. Carchá is an economic powerhouse in the region, serving as the commercial gateway for indigenous communities spread across the vast northern mountains. The dominance of cardamom farming and Q'eqchi' culture is an excellent topic for Economy K6.",
+      "factsAdvanced": [
+        "San Pedro Carchá sits at an elevation of 1,282 meters in Alta Verapaz.",
+        "It forms a continuous urban area with the department capital, Cobán.",
+        "The city is a major global center for the production of cardamom.",
+        "The population is overwhelmingly indigenous Q'eqchi' Maya.",
+        "The nearby Las Islas recreational park features the Cahabón River.",
+        "The city was officially established by Dominican friars in the 16th century."
+      ]
+    },
+    {
+      "id": "gt-san-marcos-cities-v2",
+      "descriptionAdvanced": "San Marcos is the highest department capital in Guatemala, located in a dramatic mountainous region near the slopes of the Tajumulco volcano, the highest peak in Central America. Together with the adjacent city of San Pedro Sacatepéquez, it forms a bustling twin-city metropolitan area. Founded by the Spanish in 1533, San Marcos has historically been an agricultural center, but today its economy is heavily influenced by cross-border trade with Mexico and significant remittances from migrants. The extreme altitude ensures a cool, crisp climate year-round. Exploring how extreme mountain elevations affect urban development and agriculture makes San Marcos a perfect focus for Geography K8.",
+      "factsAdvanced": [
+        "San Marcos is situated at a towering elevation of 2,398 meters.",
+        "It forms a twin-city urban area with San Pedro Sacatepéquez.",
+        "The city sits near Tajumulco, the tallest volcano in Central America.",
+        "It was founded by the Spanish military captain Juan de León y Cardona in 1533.",
+        "The local climate is consistently cool, often dropping to freezing in winter.",
+        "Agriculture and cross-border trade with Mexico dominate the local economy."
+      ]
+    },
+    {
+      "id": "gt-barberena-cities-v2",
+      "descriptionAdvanced": "Barberena is a prominent commercial municipality in the Santa Rosa Department, located along the vital Pan-American Highway. Historically known as 'Corral de Piedra', the city evolved rapidly due to its strategic position on the trade route linking Guatemala City to El Salvador. Barberena is the epicenter of Santa Rosa's coffee industry, surrounded by extensive coffee plantations that benefit from the rich volcanic soil provided by the nearby Tecuamburro volcano. In addition to coffee, the city's economy is sustained by leather goods, dairy, and a bustling transport sector. Analyzing Barberena's highway-driven growth offers a strong lesson for Economy K7 on transportation infrastructure.",
+      "factsAdvanced": [
+        "Barberena is located at an altitude of 1,288 meters above sea level.",
+        "The city was originally known by the Spanish name 'Corral de Piedra'.",
+        "It sits directly on the CA-1 Pan-American Highway trade route.",
+        "Barberena is the primary hub for coffee production in the Santa Rosa Department.",
+        "The city was officially renamed in honor of General Francisco Barberena in 1879.",
+        "The local soils are highly enriched by the nearby Tecuamburro volcanic complex."
+      ]
+    }
+  ]
+}

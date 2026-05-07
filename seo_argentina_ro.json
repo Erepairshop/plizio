@@ -1,0 +1,570 @@
+{
+  "lang": "ro",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-n-posadas-cities-v2",
+      "descriptionAdvanced": "Posadas, capitala provinciei Misiones, este un oraș de frontieră exuberant situat pe malul stâng al fluviului Paraná, chiar vizavi de orașul paraguayan Encarnación. Orașul este centrul administrativ și cultural al regiunii, servind drept poartă de intrare către universul mistic al misiunilor iezuite și al pământului roșu. Posadas se mândrește cu o faleză spectaculoasă (Costanera), care este inima vieții sociale, unde locuitorii se bucură de briza râului și de apusuri de neuitat. Orașul îmbină armonios modernitatea podului internațional San Roque González de Santa Cruz cu farmecul cartierelor istorice și al vegetației subtropicale luxuriante. Fiind un centru universitar și comercial major, Posadas oferă o atmosferă dinamică și cosmopolită, reflectând spiritul primitor al locuitorilor săi de la litoral.",
+      "factsAdvanced": [
+        "Fondat oficial la 25 martie 1615 de către iezuitul Roque González de Santa Cruz.",
+        "Numele orașului a fost dat în onoarea lui Gervasio Antonio de Posadas, Director Suprem al Provinciilor Unite.",
+        "Podul internațional care leagă Posadas de Encarnación este unul dintre cele mai tranzitate din regiune.",
+        "Costanera are o lungime de peste 8 kilometri, fiind una dintre cele mai extinse din țară.",
+        "Găzduiește Centrul de Cunoaștere (Centro del Conocimiento), un complex cultural de ultimă generație.",
+        "Regiunea este un centru major pentru prelucrarea ceaiului și a plantei yerba mate.",
+        "Biserica San José, catedrala orașului, are o arhitectură impunătoare care domină piața centrală.",
+        "Climatul este subtropical umed, cu vegetație abundentă de lapacho și palmieri."
+      ]
+    },
+    {
+      "id": "ar-n-obera-cities-v2",
+      "descriptionAdvanced": "Oberá, situat în inima provinciei Misiones, este cunoscut drept "Capitala Națională a Imigranților" din Argentina. Orașul este un model fascinant de conviețuire multiculturală, fiind fondat și dezvoltat de coloniști proveniți din peste 15 națiuni diferite, în special din Europa Centrală și de Nord. Această diversitate este celebrată anual prin marea Sărbătoare Națională a Imigranților, desfășurată în Parcul Națiunilor, unde fiecare comunitate își expune casele tipice, gastronomia și dansurile tradiționale. Oberá este înconjurat de un peisaj spectaculos de pământ roșu, plantații de ceai și yerba mate, presărat cu numeroase cascade și pârâuri. Orașul emană o energie unică, unde tradițiile străvechi ale coloniștilor se împletesc cu natura luxuriantă a junglei paranaense, oferind vizitatorilor o experiență culturală și senzorială fără egal în Argentina.",
+      "factsAdvanced": [
+        "A fost fondat oficial la 9 iulie 1928, deși colonizarea începuse cu decenii înainte.",
+        "Sărbătoarea Națională a Imigranților atrage anual peste 100.000 de vizitatori în septembrie.",
+        "Oberá este sediul Episcopiei Greco-Catolice Ucrainene, reflectând moștenirea imigranților est-europeni.",
+        "Numele provine din limba guarani și înseamnă "Cel care strălucește".",
+        "Regiunea este principalul producător de ceai din Argentina, exportând pe piețele internaționale.",
+        "Grădina Păsărilor (Jardín de los Pájaros) din Oberá adăpostește peste 70 de specii native.",
+        "Cascadele (saltos) din apropiere, precum Salto Berrondo, sunt locuri populare de recreere.",
+        "Orașul are un design urban ratic, adaptat reliefului vălurit al Sierras de Misiones."
+      ]
+    },
+    {
+      "id": "ar-n-eldorado-cities-v2",
+      "descriptionAdvanced": "Eldorado, situat în nordul provinciei Misiones pe malul fluviului Paraná, este un oraș cu o istorie de colonizare eroică și un spirit antreprenorial puternic. Fondat în 1919 de imigrantul german Adolfo Schwelm, orașul s-a dezvoltat sub forma unei colonii agricole experimentale care a atras imigranți din toată Europa, dornici să transforme jungla într-un paradis productiv. Astăzi, Eldorado este un centru industrial și comercial major, fiind recunoscut pentru industria sa forestieră și prelucrarea lemnului, precum și pentru vastele plantații de citrice și yerba mate. Orașul își păstrează identitatea de "Oraș al Parcurilor", cu o abundență de spații verzi și o legătură strânsă cu natura înconjurătoare. Eldorado oferă o perspectivă fascinantă asupra succesului colonizării planificate, unde diversitatea culturală și munca asiduă au creat un nucleu economic vital în inima pădurii tropicale.",
+      "factsAdvanced": [
+        "Data fondării este 29 septembrie 1919, celebrată cu fast în fiecare an.",
+        "Orașul are o dispunere rară, întinzându-se pe kilometri de-a lungul Bulevardului San Martín, care duce la port.",
+        "Eldorado este cunoscut drept "Capitala Muncii" datorită originilor sale de colonie agricolă.",
+        "Găzduiește Muzeul Municipal al Preistoriei, care documentează viața primelor popoare indigene.",
+        "Parcul Municipal Schwelm este o zonă de agrement superbă situată chiar pe malul fluviului Paraná.",
+        "Regiunea este un furnizor cheie de material lemnos pentru industria construcțiilor și a mobilei.",
+        "Anual se desfășoară Expo-Eldorado, cea mai mare expoziție industrială și comercială din nordul provinciei.",
+        "Comunitatea păstrează tradiții germane, elvețiene și poloneze, vizibile în gastronomia locală."
+      ]
+    },
+    {
+      "id": "ar-n-puerto-iguazu-cities-v2",
+      "descriptionAdvanced": "Puerto Iguazú este poarta mondială de acces către legendarele Cascade Iguazú, una dintre cele șapte minuni naturale ale lumii. Situat în punctul unde se întâlnesc frontierele Argentinei, Braziliei și Paraguayului, orașul este un centru turistic internațional vibrant, situat în inima pădurii tropicale misionare. Dincolo de cascadele spectaculoase, Puerto Iguazú oferă vizitatorilor o experiență unică la "Hito Tres Fronteras", locul unde râul Iguazú se varsă în Paraná și se pot vedea simultan cele trei țări. Orașul s-a transformat dintr-un mic punct de frontieră într-o destinație sofisticată, cu hoteluri de lux, restaurante de clasă mondială și o viață de noapte animată. Conservarea naturii și respectul pentru moștenirea guarani sunt teme centrale aici, Puerto Iguazú fiind punctul de plecare pentru explorarea biodiversității uluitoare a junglei și a culturii fascinante a litoralului argentinian.",
+      "factsAdvanced": [
+        "Orașul se află la doar 18 kilometri de intrarea în Parcul Național Iguazú.",
+        "Hito Tres Fronteras dispune de un spectacol de fântâni dansatoare care proiectează steagurile celor trei țări.",
+        "La Aripuca este o atracție construită din trunchiuri de copaci giganți, dedicată conservării pădurii.",
+        "Găzduiește "La Feirinha", o piață faimoasă unde se pot degusta măsline umplute și brânzeturi locale.",
+        "Güirá Oga este un centru de recuperare pentru animale sălbatice rănite în junglă.",
+        "Cazinoul din Puerto Iguazú este unul dintre cele mai luxoase din America de Sud.",
+        "Orașul este conectat de Foz do Iguaçu (Brazilia) prin Podul Internațional Tancredo Neves.",
+        "Climatul este tropical cu umiditate ridicată, favorizând o floră spectaculoasă în grădinile orașului."
+      ]
+    },
+    {
+      "id": "ar-q-neuquen-cities-v2",
+      "descriptionAdvanced": "Neuquén, situat la confluența râurilor Limay și Neuquén, este cel mai mare și mai dinamic oraș din Patagonia, fiind supranumit "Poarta Patagoniei". Orașul a cunoscut o transformare spectaculoasă în ultimele decenii, evoluând de la un nod feroviar administrativ la o metropolă modernă și hub-ul energetic al Argentinei, datorită apropierii de giganticele rezerve de gaze și petrol din Vaca Muerta. Neuquén se remarcă prin faleza sa (Paseo de la Costa) de-a lungul râului Limay, un spațiu public de ultimă generație unde locuitorii se bucură de sporturi nautice și recreere. Orașul este, de asemenea, un centru cultural și educațional major, găzduind Universitatea Națională a Comahue și singura sucursală din lume a Muzeului Național de Arte Frumoase din afara Buenos Aires. Amestecul de prosperitate economică, viață urbană intensă și peisaje naturale de stepă și râu face din Neuquén motorul progresului în sudul Argentinei.",
+      "factsAdvanced": [
+        "Fondat oficial la 12 septembrie 1904, când capitala teritoriului a fost mutată aici.",
+        "Paseo de la Costa este inima socială a orașului, oferind kilometri de parcuri pe malul râului Limay.",
+        "Găzduiește sediul MNBA Neuquén, singura extensie a Muzeului Național de Arte Frumoase din provincie.",
+        "Vaca Muerta, aflată în apropiere, este una dintre cele mai mari rezerve de hidrocarburi neconvenționale din lume.",
+        "Podurile peste râul Neuquén conectează orașul cu Cipolletti și provincia Río Negro.",
+        "Orașul are o viață gastronomică de elită, renumită pentru carnea de miel patagonian și vinurile de înălțime.",
+        "Neuquén este un centru logistic crucial pentru transportul rutier și aerian către stațiunile andine.",
+        "Observatorul Astronomic din Neuquén oferă vederi clare ale cerului patagonian pentru pasionații de stele."
+      ]
+    },
+    {
+      "id": "ar-q-san-martin-de-los-andes-cities-v2",
+      "descriptionAdvanced": "San Martín de los Andes este perla Andină a provinciei Neuquén, un oraș montan de o frumusețe copleșitoare situat pe malul lacului Lácar, în inima Parcului Național Lanín. Construit în stil arhitectural tradițional, folosind din abundență piatra și lemnul, orașul emană o atmosferă de basm, cu străzi pline de flori și o ordine urbană exemplară. San Martín este poarta de acces către legendarul "Drum al celor Șapte Lacuri", una dintre cele mai spectaculoase rute panoramice din lume. În timpul iernii, orașul devine o destinație de top pentru schiori datorită stațiunii Cerro Chapelco, recunoscută pentru calitatea serviciilor și peisajele sale uimitoare. Vara, activitățile de rafting, trekking și pescuit sportiv atrag iubitorii de natură din întreaga lume. Este un loc unde luxul discret se întâlnește cu puritatea naturii, oferind o calitate a vieții și o experiență turistică la cele mai înalte standarde internaționale.",
+      "factsAdvanced": [
+        "Fondat la 4 februarie 1898 ca avanpost militar pentru a asigura suveranitatea în Anzi.",
+        "Orașul este punctul de pornire al Drumului celor Șapte Lacuri (Ruta de los Siete Lagos).",
+        "Stațiunea Chapelco a primit de mai multe ori premiul pentru cea mai bună stațiune de schi din Argentina.",
+        "Lacul Lácar este singurul lac din parc care se varsă în Oceanul Pacific prin sistemul de râuri chiliene.",
+        "Regiunea este celebră pentru producția de ciocolată artizanală și obiecte de artizanat din lemn de raulí.",
+        "Parcul Național Lanín adăpostește maiestuosul vulcan Lanín, vizibil din întregul oraș.",
+        "San Martín de los Andes are un control strict asupra construcțiilor pentru a menține stilul arhitectural armonios.",
+        "Muzeul Che Guevara (La Pastera) amintește de trecerea faimosului revoluționar prin acest oraș în tinerețe."
+      ]
+    },
+    {
+      "id": "ar-q-zapala-cities-v2",
+      "descriptionAdvanced": "Zapala este un punct strategic vital situat în centrul geografic al provinciei Neuquén, funcționând ca o poartă logistică între stepă și munții înalți ai Anzilor. Dezvoltarea orașului a fost marcată de sosirea căii ferate în 1913, Zapala devenind punctul terminus al liniei ferate de sud, ceea ce i-a conferit un rol crucial în transportul de mărfuri și minerale. Orașul este recunoscut la nivel național pentru bogăția sa mineralogică, găzduind Muzeul de Științe Naturale "Prof. Dr. Juan A. Olsacher", care deține una dintre cele mai importante colecții de minerale și fosile din Argentina. Zapala are un caracter puternic, adaptat vânturilor patagonice și climatului semiarid, fiind inima unei regiuni producătoare de ciment și materiale de construcție. Cu o infrastructură modernă și o locație privilegiată la intersecția unor rute naționale majore, orașul este baza ideală pentru explorarea zonelor miniere și a peisajelor vulcanice din centrul provinciei.",
+      "factsAdvanced": [
+        "A fost fondat oficial la 12 iulie 1913 odată cu inaugurarea stației de cale ferată.",
+        "Muzeul Olsacher este renumit mondial pentru varietatea și raritatea pieselor sale geologice.",
+        "Zapala este un nod rutier major, situat la intersecția rutelor naționale 22 și 40.",
+        "Orașul este principalul furnizor de gips și baritină pentru industria petrolieră din regiune.",
+        "Parcul Industrial Zapala găzduiește una dintre cele mai mari fabrici de ciment din Argentina (Loma Negra).",
+        "Regiunea este cunoscută pentru festivalul anual de dance tradiționale și cultură gaucho.",
+        "Climatul este arid și vântos, tipic stepei înalte patagonice.",
+        "Apropierea de Parcul Național Laguna Blanca oferă oportunități pentru observarea păsărilor migratoare."
+      ]
+    },
+    {
+      "id": "ar-q-cutral-co-cities-v2",
+      "descriptionAdvanced": "Cutral Có, împreună cu orașul vecin Plaza Huincul, formează una dintre cele mai importante aglomerări urbane din Patagonia, fiind pilonul istoric al industriei petroliere argentiniene. Orașul s-a născut din febra descoperirii "aurului negru" în 1918, un eveniment care a schimbat destinul acestei regiuni aride. Cutral Có este un simbol al rezilienței și al muncii asidue, unde economia gravitează aproape în totalitate în jurul exploatării hidrocarburilor. Orașul se mândrește cu parcul său tehnologic și cu statuia colosală a lui "Hristos al Frăției", un monument care veghează asupra stepei și oferă o vedere panoramică asupra zonei industriale. Cu o identitate muncitorească puternică și o viață socială legată de cluburile de fotbal și activitățile comunitare, Cutral Có reprezintă inima energetică a provinciei Neuquén, fiind un loc unde inovația industrială și tradiția petrolieră se împletesc de peste un secol.",
+      "factsAdvanced": [
+        "Numele orașului provine din limba mapuche și înseamnă "Focul Apei" sau "Râul de Foc".",
+        "Aici a fost descoperit primul puț de petrol din provincia Neuquén la 29 octombrie 1918.",
+        "Monumentul Hristos al Frăției are o înălțime de 15 metri și a fost inaugurat în 2013.",
+        "Orașul este pionier în Argentina pentru producția de energie eoliană la scară locală.",
+        "Găzduiește Muzeul Carmen Funes, faimos pentru descoperirea fosilelor gigantului Argentinosaurus.",
+        "Economia este strâns legată de compania națională de petrol YPF.",
+        "Cutral Có este renumit pentru spiritul său de luptă socială, fiind locul unor proteste istorice în anii '90.",
+        "Campionatul local de raliuri este unul dintre cele mai populare evenimente sportive din regiune."
+      ]
+    },
+    {
+      "id": "ar-r-viedma-cities-v2",
+      "descriptionAdvanced": "Viedma, capitala provinciei Río Negro, este un oraș de o eleganță discretă situat pe malul drept al fluviului Río Negro, aproape de vărsarea acestuia în Oceanul Atlantic. Este unul dintre cele mai vechi orașe din Patagonia, păstrând o bogată moștenire istorică ce datează din perioada colonizării spaniole. Viedma se remarcă prin superba sa faleză (Costanera), o zonă verde întinsă de-a lungul râului, unde locuitorii practică canotajul și se bucură de aerul curat. Orașul formează o unitate urbană unică cu Carmen de Patagones, aflat pe malul opus, cele două fiind legate prin poduri pitorești. Viedma este poarta către "Ruta de los Acantilados" (Drumul Faleză), care duce la plaja El Cóndor și la cea mai mare colonie de papagali din lume. Atmosfera sa administrativă, liniștea rătăcirii pe malul apei și importanța sa ca centru politic fac din Viedma o destinație esențială pentru înțelegerea istoriei și dezvoltării regiunii patagonice.",
+      "factsAdvanced": [
+        "A fost fondat la 22 aprilie 1779 de Francisco de Viedma y Narváez.",
+        "În anii '80, a existat un proiect național de a muta capitala Argentinei de la Buenos Aires la Viedma.",
+        "Fluviul Río Negro este cel mai mare râu situat integral pe teritoriul Argentinei.",
+        "Găzduiește sediul guvernului provincial și al numeroaselor instituții publice din Río Negro.",
+        "Orașul este un centru național pentru canotaj, fiind punctul de sosire al celei mai lungi regate din lume.",
+        "Catedrala Nuestra Señora de la Merced este cel mai vechi lăcaș de cult din Patagonia argentiniană.",
+        "În apropiere se află plaja El Cóndor, celebră pentru colonia de peste 35.000 de papagali patagonieni.",
+        "Economia locală beneficiază de zona agricolă fertilă a văii inferioare a râului (IDEVI)."
+      ]
+    },
+    {
+      "id": "ar-r-san-carlos-de-bariloche-cities-v2",
+      "descriptionAdvanced": "San Carlos de Bariloche, situat pe malul maiestuosului lac Nahuel Huapi, este cea mai faimoasă destinație turistică din Patagonia și "Capitala Națională a Turismului de Aventură". Orașul se remarcă prin arhitectura sa alpină de inspirație elvețiană și germană, cu clădiri din piatră și bușteni, oferind un farmec european în inima Anzilor. Bariloche este renumit mondial pentru stațiunile sale de schi de elită, precum Cerro Catedral, și pentru industria sa artizanală de ciocolată, fiind un adevărat paradis gastronomic. Orașul este, de asemenea, un centru științific și tehnologic de prim rang, găzduind Institutul Balseiro și compania spațială INVAP. Peisajele sale de munți înzăpeziți, păduri milenare de coihue și lacuri de un albastru profund oferă un cadru spectaculos pentru drumeții, navigație și contemplare, făcând din Bariloche o destinație dorită pe tot parcursul anului.",
+      "factsAdvanced": [
+        "A fost fondat oficial la 3 mai 1902, având o puternică influență a coloniștilor germani.",
+        "Centro Cívico, inaugurat în 1940, este monument istoric național și centrul simbolic al orașului.",
+        "Cerro Catedral este cel mai mare centru de schi din emisfera sudică.",
+        "Bariloche este singurul oraș din Argentina care produce sateliți de înaltă tehnologie prin INVAP.",
+        "Ruta "Circuito Chico" oferă unele dintre cele mai fotografiate vederi panoramice din Patagonia.",
+        "Găzduiește în fiecare an Festivalul Național al Ciocolatei în timpul Paștelui.",
+        "Hotelul Llao Llao este o emblemă a luxului și arhitecturii patagonice clasice.",
+        "Numele provine din limba mapuche "Vuriloche", care înseamnă "oameni de dincolo de munte"."
+      ]
+    },
+    {
+      "id": "ar-r-general-roca-cities-v2",
+      "descriptionAdvanced": "General Roca, situat în inima fertilă a văii superioare a fluviului Río Negro (Alto Valle), este motorul agriculturii și industriei de prelucrare a fructelor din Argentina. Orașul este cunoscut la nivel național drept sediul Festivalului Național al Mărului, celebrând producția masivă de mere și pere care sunt exportate în întreaga lume. General Roca este un oraș prosper, cu o planificare urbană modernă, bulevarde largi și o viață culturală activă, susținută de prezența Universității Naționale din Río Negro. Regiunea înconjurătoare oferă un contrast fascinant între zona fertilă irigată, plină de livezi verzi, și "bardas" (falezele) aride de gresie roșie care marchează începutul stepei. Orașul este, de asemenea, un punct de referință pentru sporturile cu motor, având un autodrom faimos, și reprezintă spiritul de progres și inovație al clasei de mijloc productive din Patagonia de nord.",
+      "factsAdvanced": [
+        "A fost fondat la 1 septembrie 1879 de către colonelul Lorenzo Vintter în timpul Campaniei Deșertului.",
+        "Festivalul Național al Mărului, desfășurat în februarie, este unul dintre cele mai mari evenimente populare din țară.",
+        "Orașul este un centru major pentru exportul de fructe de climă temperată către Brazilia, Europa și SUA.",
+        "Găzduiește IUPA, una dintre cele mai importante universități de artă din Patagonia.",
+        "Autodromul Parque Ciudad de General Roca este o etapă clasică în campionatul de Super TC2000.",
+        "Numele orașului îi onorează pe generalul Julio Argentino Roca, fost președinte al țării.",
+        "Economia se bazează pe un sistem complex de irigații care transformă deșertul în pământ fertil.",
+        "Zona "Paso Córdoba" de pe malul râului oferă formațiuni geologice spectaculoase și activități în aer liber."
+      ]
+    },
+    {
+      "id": "ar-r-cipolletti-cities-v2",
+      "descriptionAdvanced": "Cipolletti este un oraș dinamic și în plină ascensiune situat în provincia Río Negro, chiar la granița cu Neuquén, cu care formează o zonă metropolitană strâns integrată. Orașul și-a câștigat renumele ca un centru agricol de elită în regiunea Alto Valle, specializat în producția de fructe și, mai recent, ca un pol important de servicii pentru industria energetică. Cipolletti se distinge prin parcurile sale bine întreținute, viața sportivă intensă și o comunitate activă. Un punct de interes major este Podul Feroviar istoric care traversează râul Neuquén, un simbol al ingineriei de început de secol XX. Orașul oferă o calitate a vieții ridicată, combinând liniștea unui oraș de provincie prosper cu accesul rapid la facilitățile marii metropole vecine. Cipolletti reprezintă o piesă esențială în rețeaua productivă și socială a Patagoniei de nord, fiind un exemplu de dezvoltare echilibrată între agricultură și modernitate urbană.",
+      "factsAdvanced": [
+        "A fost fondat la 3 octombrie 1903 de către colonelul Fernández Oro.",
+        "Poartă numele inginerului italian César Cipolletti, cel care a proiectat sistemul de irigații al văii.",
+        "Orașul este cunoscut la nivel național pentru echipa sa de fotbal, Club Cipolletti, cu o lungă istorie în turneele naționale.",
+        "Complexul cultural local este unul dintre cele mai moderne din provincie, găzduind evenimente de prestigiu.",
+        "Cipolletti este poarta de intrare către regiunea pomicolă, fiind înconjurat de livezi de mere și pere.",
+        "Fluviul Neuquén oferă zone de plajă și recreere foarte populare în timpul verii.",
+        "Regiunea este un centru major pentru cercetarea agricolă prin INTA (Institutul Național de Tehnologie Agricolă).",
+        "Orașul a cunoscut o creștere demografică semnificativă datorită boom-ului petrolier din regiunea vecină."
+      ]
+    },
+    {
+      "id": "ar-a-salta-cities-v2",
+      "descriptionAdvanced": "Salta, supranumit "La Linda" (Cea Frumoasă), este unul dintre cele mai spectaculoase și bine conservate orașe coloniale din Argentina. Situat în superba Vale Lerma, la poalele Anzilor, orașul se mândrește cu o arhitectură magnifică în stil spaniol, piețe pline de arbori și biserici vopsite în culori vii, precum celebra Catedrală și Biserica San Francisco. Salta este inima culturii folclorice din nord-vestul Argentinei, fiind renumită pentru "peñas"-urile sale (taverne tradiționale) unde muzica și dansul creează o atmosferă vibrantă. Orașul este punctul de plecare pentru legendarul "Tren a las Nubes" și pentru explorarea peisajelor aride și colorate ale regiunii Puna. Cu o gastronomie unică, bazată pe empanadas și vinuri Torrontés, și un mix fascinant de misticism indigen și tradiție colonială, Salta oferă o experiență culturală profundă sub cerul întotdeauna senin al munților.",
+      "factsAdvanced": [
+        "Fondat la 16 aprilie 1582 de către Hernando de Lerma.",
+        "Muzeul de Arheologie de Înaltă Altitudine (MAAM) adăpostește celebrele mumii incașe descoperite pe vulcanul Llullaillaco.",
+        "Telefericul San Bernardo urcă din centrul orașului oferind o vedere panoramică uluitoare asupra întregii văi.",
+        "Salta este renumită pentru empanadas-urile sale, considerate cele mai bune din întreaga țară.",
+        "Piața 9 de Julio este inima istorică, fiind înconjurată de arcade coloniale și clădiri monumentale.",
+        "Orașul păstrează cu mândrie tradițiile gaucho, în special cultul generalului Martín Miguel de Güemes.",
+        "Catedrala Basilica din Salta este monument istoric național și un centru de pelerinaj major.",
+        "Regiunea Cafayate, situată în apropiere, este faimoasă pentru podgoriile de vin alb Torrontés."
+      ]
+    },
+    {
+      "id": "ar-a-san-ramon-de-la-nueva-oran-cities-v2",
+      "descriptionAdvanced": "San Ramón de la Nueva Orán, cunoscut simplu sub numele de Orán, este un oraș tropical exuberant situat în nordul extrem al provinciei Salta, aproape de frontiera cu Bolivia. Orașul este inima regiunii Yungas, fiind înconjurat de o junglă montană densă și biodiversă. Orán este un centru agricol și industrial de prim rang, dominat de plantații gigantice de zahăr, citrice și tutun. Economia locală gravitează în jurul Ingenio El Tabacal, una dintre cele mai mari fabrici de zahăr din țară. Orașul reflectă o identitate culturală vibrantă, unde tradițiile locale se amestecă cu influențele boliviene de frontieră. Orán este, de asemenea, poarta de acces către Parcul Național Baritú, unul dintre cele mai sălbatice și neatinse parcuri din Argentina. Cu o atmosferă caldă, vegetație luxuriantă și un ritm de viață tipic tropical, Orán oferă o perspectivă fascinantă asupra nordului fertil și verde al țării.",
+      "factsAdvanced": [
+        "A fost fondat la 31 august 1794 de către Ramón García de León y Pizarro.",
+        "Este ultimul oraș din Argentina care a fost fondat sub dominație spaniolă respectând legile Indiei.",
+        "Regiunea este principalul producător de lămâi și portocale din nord-vestul Argentinei.",
+        "Găzduiește în fiecare an "Sărbătoarea Patronală" pe 31 august, un eveniment religios și popular masiv.",
+        "Ingenio El Tabacal este un pilon economic major, procesând mii de tone de trestie de zahăr zilnic.",
+        "Orașul are un climat tropical cu temperaturi care pot depăși frecvent 40 de grade Celsius în timpul verii.",
+        "Proximitatea față de râul Bermejo face din zonă un loc popular pentru pescuit sportiv.",
+        "Orán este sediul uneia dintre facultățile regionale ale Universității Naționale din Salta."
+      ]
+    },
+    {
+      "id": "ar-a-tartagal-cities-v2",
+      "descriptionAdvanced": "Tartagal este un oraș vibrant și multicultural situat în nordul provinciei Salta, fiind un punct strategic pentru industria energetică și forestieră a Argentinei. Dezvoltarea orașului a fost impulsionată de descoperirea zăcămintelor de petrol și gaze naturale la începutul secolului XX, transformându-l într-un pol industrial vital pentru regiune. Tartagal se remarcă prin incredibila sa diversitate etnică, fiind locul unde coexistă numeroase comunități indigene (Wichi, Toba, Guarani) cu descendenții imigranților europeni și libanezi. Această bogăție culturală se reflectă în artizanatul local, gastronomie și sărbători populare. Orașul este situat într-o zonă de tranziție între jungla Yungas și pădurea uscată Chaco, oferind peisaje naturale variate. Deși s-a confruntat cu provocări climatice și sociale, Tartagal rămâne un oraș cu un spirit rezistent și o importanță economică de necontestat în nordul fertil al țării.",
+      "factsAdvanced": [
+        "Fondat oficial în 1924, deși așezarea s-a format în jurul căii ferate câțiva ani mai devreme.",
+        "Numele provine de la planta "tártago" (ricin), care abunda în zonă în momentul fondării.",
+        "Este sediul uneia dintre cele mai importante episcopii din regiune, cu o catedrală modernă.",
+        "Găzduiește anual Festivalul Național al Culturii Indigene, celebrând rădăcinile ancestrale ale zonei.",
+        "Economia se bazează pe extracția hidrocarburilor și pe industria lemnului de esență tare.",
+        "Tartagal este situat pe legendara Rută Națională 34, care leagă nordul Argentinei de restul țării.",
+        "Regiunea este faimoasă pentru mierea sa artizanală de pădure, de o calitate excepțională.",
+        "Comunitățile indigene locale păstrează tehnici ancestrale de țesut din fibre de chaguar."
+      ]
+    },
+    {
+      "id": "ar-j-san-juan-cities-v2",
+      "descriptionAdvanced": "San Juan este un oraș modern și vibrant situat într-o vale aridă la poalele munților Andzi, fiind inima unei importante regiuni viticole și miniere din vestul Argentinei. Orașul a fost aproape complet reconstruit după un cutremur devastator în 1944, ceea ce i-a conferit o înfățișare urbană unică: bulevarde extrem de largi, planificare seismică riguroasă și o abundență de copaci care formează tuneluri verzi deasupra străzilor. San Juan este locul de naștere al marelui intelectual Domingo Faustino Sarmiento, a cărui casă natală este un muzeu național venerat. Orașul este celebru pentru cerul său excepțional de senin, fiind un centru mondial de astronomie cu mai multe observatoare renumite în apropiere. Cu crame de clasă mondială specializate în Syrah și un acces facil către parcuri geologice uluitoare precum Ischigualasto, San Juan oferă o experiență autentică a vestului solar și montan.",
+      "factsAdvanced": [
+        "A fost fondat la 13 iunie 1562 de Juan Jufré sub numele de San Juan de la Frontera.",
+        "Este sediul Universității Naționale din San Juan, un pilon educațional major în regiune.",
+        "Catedrala din San Juan este un monument modernist impresionant, reconstruit după 1944.",
+        "Provincia San Juan este principalul producător de struguri de masă și stafide din Argentina.",
+        "Casa Natal de Sarmiento este primul monument istoric național declarat în Argentina.",
+        "Auditoriul Juan Victoria este recunoscut internațional pentru acustica sa excepțională.",
+        "Orașul găzduiește anual "Fiesta Nacional del Sol", una dintre cele mai mari sărbători din țară.",
+        "În apropiere se află parcul Ischigualasto (Valea Lunii), sit al Patrimoniului Mondial UNESCO."
+      ]
+    },
+    {
+      "id": "ar-d-san-luis-cities-v2",
+      "descriptionAdvanced": "San Luis, capitala provinciei cu același nume, este un oraș primitor situat la poalele Sierras de San Luis, în centrul-vestul Argentinei. Orașul îmbină armonios o istorie colonială lungă cu o dezvoltare modernă accelerată, fiind recunoscut pentru calitatea vieții și infrastructura sa digitală avansată. San Luis păstrează colțuri istorice fermecătoare, cum ar fi Biserica Santo Domingo, dar se mândrește și cu proiecte contemporane ambițioase, precum orașul tehnologic La Punta situat în apropiere. Peisajele montane din jurul orașului, cu râuri cristaline și baraje superbe ca Potrero de los Funes, fac din San Luis o destinație ideală pentru relaxare și turism de aventură. Orașul este un centru administrativ și industrial important, oferind o atmosferă liniștită, specifică orașelor de munte, dar cu toate facilitățile unei capitale moderne conectate la viitor.",
+      "factsAdvanced": [
+        "A fost fondat oficial la 25 august 1594 de Luis Jufré de Loaysa y Meneses.",
+        "Orașul este pionier în Argentina pentru accesul gratuit la internet Wi-Fi în tot spațiul public.",
+        "Sediul Casei de Guvern, numită Terrazas del Portezuelo, este un complex arhitectural ecologic inovator.",
+        "În apropiere se află "Pueblo de la Independencia", o replică a orașului istoric Tucumán.",
+        "San Luis este poarta de acces către Sierras de las Quijadas, un parc național cu canioane roșiatice uluitoare.",
+        "Orașul găzduiește un festival internațional de film în noul oraș satelit La Punta.",
+        "Barajul Potrero de los Funes, aflat la câțiva kilometri, are un circuit de viteză faimos în jurul lacului.",
+        "Catedrala din San Luis se remarcă prin stilul său neoclasic cu coloane corintice impunătoare."
+      ]
+    },
+    {
+      "id": "ar-d-villa-mercedes-cities-v2",
+      "descriptionAdvanced": "Villa Mercedes este cel mai important centru industrial și comercial din provincia San Luis, situat pe malul râului Quinto. Orașul este inseparabil legat de celebra "Calle Angosta" (Strada Îngustă), un simbol cultural imortalizat în muzica folclorică argentiniană prin celebrul gen cueca și tonada. Villa Mercedes este un model de dezvoltare economică, găzduind numeroase fabrici de talie internațională și un nod feroviar istoric crucial. Orașul se remarcă prin spațiile sale verzi moderne, în special Parcul La Pedrera, un proiect gigantic care include un stadion de fotbal de ultimă generație și un circuit de raliuri. Cu o identitate locală puternică, străzi animate și o viață culturală bogată care culminează cu Festivalul Calle Angosta, Villa Mercedes reprezintă spiritul dinamic și progresist al centrului Argentinei, unde industria grea și tradiția folclorică coexistă armonios.",
+      "factsAdvanced": [
+        "A fost fondat la 1 decembrie 1856 ca fort militar sub numele de Fuerte Constitucional.",
+        "Festivalul Național Calle Angosta este unul dintre cele mai importante evenimente folclorice din regiune.",
+        "Parcul La Pedrera a fost construit pe locul unei foste gropi de gunoi, fiind un exemplu de recuperare urbană.",
+        "Orașul găzduiește sediul Universității Naționale din Villa Mercedes (UNViMe).",
+        "Villa Mercedes este un punct cheie pe ruta feroviară și rutieră care leagă Buenos Aires de Mendoza.",
+        "Economia se bazează pe sectoarele alimentar, metalurgic și logistic.",
+        "Biserica Nuestra Señora de la Merced este inima spirituală a orașului, cu o arhitectură neogotică.",
+        "Zona "El Lago" este principalul punct de recreere naturală pentru locuitori, oferind spații verzi pe malul râului Quinto."
+      ]
+    },
+    {
+      "id": "ar-z-rio-gallegos-cities-v2",
+      "descriptionAdvanced": "Río Gallegos, capitala provinciei Santa Cruz, este cel mai important centru urban și administrativ din sudul extrem al Argentinei continentale. Situat pe malul estuarului râului Gallegos, orașul are un caracter autentic patagonian, marcat de vânturile puternice și cerul vast al stepei. Istoria sa este strâns legată de epoca de aur a industriei lânii și de rolul său strategic de avanpost sudic, fiind baza logistică principală pentru explorarea insulelor Malvine și a Antarcticii. Río Gallegos se remarcă prin muzeele sale istorice, clădirile din lemn și tablă specifice coloniștilor pionieri și o faleză modernizată unde se pot observa nenumărate specii de păsări marine. Orașul oferă o atmosferă caldă și rezistentă, fiind casa unei comunități mândre de originile sale, servind drept punct de plecare esențial pentru expedițiile către ghețarii din vestul provinciei.",
+      "factsAdvanced": [
+        "Fondat oficial la 19 decembrie 1885 ca subprefectură maritimă.",
+        "A fost orașul natal și baza politică a fostului președinte argentinian Néstor Kirchner.",
+        "Muzeul Pionierilor păstrează o locuință originală a coloniștilor englezi de la sfârșitul secolului XIX.",
+        "Estuarul râului Gallegos este o zonă de importanță internațională pentru conservarea păsărilor migratoare.",
+        "Orașul are unul dintre cele mai mari niveluri de consum de carne de miel pe cap de locuitor din țară.",
+        "Aeroportul Internațional Piloto Civil Norberto Fernández este o escală tehnică crucială pentru zborurile către Antarctica.",
+        "În apropiere se află Laguna Azul, un ochi de apă turcoaz situat în craterul unui vulcan stins.",
+        "Río Gallegos este sediul Universității Naționale a Patagoniei Australe (UNPA)."
+      ]
+    },
+    {
+      "id": "ar-s-santa-fe-cities-v2",
+      "descriptionAdvanced": "Santa Fe de la Vera Cruz, capitala provinciei cu același nume, este un oraș de o importanță istorică fundamentală, fiind locul unde s-a semnat Constituția Argentinei în 1853. Situat pe malul fluviului Paraná și al lagunei Setúbal, orașul este o bijuterie a litoralului, oferind un amestec bogat de arhitectură colonială, muzee de artă religioasă și o viață universitară vibrantă. Santa Fe este renumit pentru faleza sa modernă (Costanera), podul suspendat emblematic și pasiunea sa gastronomică pentru peștele de râu și celebra bere artizanală locală. Orașul păstrează o identitate culturală profundă, fiind sediul unora dintre cele mai vechi biserici din țară. Cu parcurile sale întinse, barurile pitorești și atmosfera liniștită a râului, Santa Fe oferă vizitatorilor o călătorie în timp către originile națiunii argentiniene, combinată cu dinamismul unui centru educațional și politic modern.",
+      "factsAdvanced": [
+        "A fost fondat inițial în 1573 de Juan de Garay, fiind mutat pe locația actuală în 1653.",
+        "Podul Suspendat Marcial Candioti este simbolul cel mai recunoscut al orașului, reconstruit după inundații.",
+        "Santa Fe este sediul Universității Naționale a Litoralului (UNL), una dintre cele mai vechi din țară.",
+        "Orașul este renumit pentru "alfajor santafesino", un desert tradițional cu mai multe straturi.",
+        "Biserica și Conventul San Francisco datează din secolul al XVII-lea și adăpostesc artefacte istorice prețioase.",
+        "Este un nod fluvial major, având un port activ conectat la ocean prin fluviul Paraná.",
+        "Tunelul Subfluvial îl leagă de orașul Paraná sub albia fluviului.",
+        "Climatul este umed și cald, caracteristic regiunii litoralului argentinian."
+      ]
+    },
+    {
+      "id": "ar-s-rosario-cities-v2",
+      "descriptionAdvanced": "Rosario, al treilea oraș ca mărime din Argentina, este un centru cultural, economic și educațional de prim rang situat pe malul maiestuosului fluviu Paraná. Orașul este inseparabil legat de drapelul național, fiind locul unde acesta a fost arborat pentru prima dată de Manuel Belgrano in 1812, eveniment comemorat prin Monumentul Național al Drapelului, o structură colosală care domină faleza. Rosario este un oraș vibrant, modern și boem, cunoscut ca locul de naștere al legendarului Che Guevara și al fotbalistului Lionel Messi. Faleza sa lungă (Costanera) oferă kilometri de spații verzi, plaje fluviale și baruri animate, fiind inima vieții sociale. Cu o arhitectură elegantă de la începutul secolului XX, o industrie agro-exportatoare masivă și o viață artistică intensă, Rosario reprezintă spiritul progresist al provinciei Santa Fe, oferind o experiență urbană cosmopolită pe malul marelui râu.",
+      "factsAdvanced": [
+        "Este singurul oraș mare din Argentina care nu are un fondator oficial, dezvoltându-se spontan.",
+        "Monumentul Național al Drapelului adăpostește sub turnul său mormântul eroului necunoscut al independenței.",
+        "Portul Rosario este unul dintre cele mai mari hub-uri de export de cereale din lume.",
+        "Aici s-au născut personalități mondiale precum Lionel Messi și revoluționarul Ernesto "Che" Guevara.",
+        "Avenida Pellegrini este faimoasă pentru sutele sale de baruri și viața de noapte intensă.",
+        "Teatrul El Círculo este recunoscut pentru acustica sa excepțională la nivel internațional.",
+        "Podul Rosario-Victoria, lung de 600 de metri, conectează orașul de provincia Entre Ríos.",
+        "Rosario are unul dintre cele mai ridicate niveluri de spații verzi pe cap de locuitor din Argentina."
+      ]
+    },
+    {
+      "id": "ar-g-santiago-del-estero-cities-v2",
+      "descriptionAdvanced": "Santiago del Estero, supranumit "Madre de Ciudades" (Mama Orașelor), este cea mai veche așezare din Argentina locuită neîntrerupt de la fondare. Orașul emană o energie istorică și mistică unică, fiind leagănul folclorului argentinian și al muzicii "chacarera". Situat pe malul râului Dulce, într-o regiune caldă și aridă, Santiago del Estero păstrează tradiții coloniale și indigene profunde, reflectate în ritmul său de viață liniștit și în ospitalitatea legendară a locuitorilor săi. Orașul s-a modernizat recent prin proiecte arhitecturale îndrăznețe, precum noul Centru Cultural al Provinciei și Turnurile Gemene administrative, dar inima sa rămâne legată de simplitatea piețelor umbroase și de sunetul tobei "bombo legüero". Cu o gastronomie bogată și o identitate culturală de neclintit, Santiago del Estero oferă vizitatorilor o incursiune fascinantă în originile și sufletul popular al națiunii argentiniene.",
+      "factsAdvanced": [
+        "Fondat oficial la 25 iulie 1553 de către Francisco de Aguirre.",
+        "Este centrul mondial al muzicii Chacarera, celebrată anual prin numeroase festivaluri.",
+        "Găzduiește Muzeul de Artă Sacră, care adăpostește o relicvă a Sfântului Giulgiu, unică în America Latină.",
+        "Turnul "Torre de las Américas" este un simbol al modernizării recente a orașului.",
+        "În apropiere se află Termas de Río Hondo, cea mai importantă stațiune termală din Argentina.",
+        "Numele orașului se referă la poziția sa între zonele inundabile (esteros) ale râurilor Dulce și Salado.",
+        "Este sediul Universității Naționale din Santiago del Estero (UNSE).",
+        "Climatul local este renumit pentru temperaturile extrem de ridicate din timpul verii."
+      ]
+    },
+    {
+      "id": "ar-v-ushuaia-cities-v2",
+      "descriptionAdvanced": "Ushuaia, supranumit "El Fin del Mundo" (Capătul Lumii), este cel mai sudic oraș de pe planetă, situat într-un cadru natural dramatic între munții Andzi și Canalul Beagle. Orașul este o destinație mitică, unde marea, pădurile subantarctice și ghețarii se întâlnesc într-un spectacol de o frumusețe sălbatică. Ushuaia a evoluat dintr-un avanpost de pionieri și o faimoasă închisoare de maximă securitate într-un centru turistic internațional de elită și poarta principală de plecare către Antarctica. Vizitatorii pot explora Parcul Național Tierra del Fuego, pot naviga pe Canalul Beagle pentru a vedea foci și pinguini, sau pot urca la ghețarul Martial pentru vederi panoramice uimitoare. Cu arhitectura sa colorată, gastronomia bazată pe crab uriaș (centolla) și atmosfera de aventură extremă, Ushuaia oferă o experiență spirituală și fizică unică la marginile locuite ale lumii.",
+      "factsAdvanced": [
+        "Orașul a fost fondat oficial la 12 octombrie 1884 de către comandantul Augusto Lasserre.",
+        "Muzeul Maritim și al Închisorii din Ushuaia este găzduit în vechea închisoare celebră pentru regimul său dur.",
+        "Canalul Beagle este numit după nava la bordul căreia se afla Charles Darwin în secolul XIX.",
+        "Trenul Capătului Lumii (Tren del Fin del Mundo) este cea mai sudică cale ferată activă din lume.",
+        "Ushuaia este portul de plecare pentru peste 90% din croazierele care merg către Antarctica.",
+        "Ghețarul Martial oferă un punct de observație superb asupra orașului și canalului Beagle.",
+        "Climatul este subpolar, cu veri scurte și răcoroase și ierni lungi cu zăpadă abundentă.",
+        "Numele provine din limba indigenă yámana și înseamnă "golf care pătrunde spre vest"."
+      ]
+    },
+    {
+      "id": "buenos-aires-port-economic-v2",
+      "descriptionAdvanced": "Portul Buenos Aires este cel mai important nod logistic maritim al Argentinei și unul dintre cele mai mari terminale portuare din America Latină. Situat pe malul fluviului Rio de la Plata, acesta funcționează ca inima comercială a țării, procesând cea mai mare parte a importurilor și o porțiune semnificativă a exporturilor industriale. Portul este divizat în mai multe zone, inclusiv Puerto Nuevo, unde sunt gestionate containerele, și zonele de docuri istorice care au fost transformate în cartierul elegant Puerto Madero. Fiind singurul port național administrat direct de stat, acesta are un rol strategic în economia Argentinei, conectând marile centre de producție din Pampa cu piețele globale. Modernizarea constantă a terminalelor sale și adâncimea canalelor de acces sunt esențiale pentru competitivitatea comerțului exterior argentinian, fiind un simbol al puterii comerciale a capitalei.",
+      "factsAdvanced": [
+        "Procesează peste 1 milion de TEU (containere) anual, fiind lider național.",
+        "Este principalul punct de intrare pentru bunurile de consum și utilajele industriale în Argentina.",
+        "Zona Puerto Nuevo cuprinde șase terminale moderne operate de companii internaționale.",
+        "Portul a fost punctul de sosire pentru milioanele de imigranți europeni în secolul XIX și XX.",
+        "Este un port fluvial cu ieșire la ocean, necesitând dragaj constant pentru accesul navelor mari.",
+        "Găzduiește unul dintre cele mai mari terminale de croaziere din emisfera sudică, terminalul Quinquela Martín.",
+        "Este situat în imediata apropiere a centrului politic și financiar al orașului Buenos Aires.",
+        "Administrația Portuară Națională (AGP) coordonează operațiunile portuare din 1949."
+      ]
+    },
+    {
+      "id": "rosario-port-economic-v2",
+      "descriptionAdvanced": "Complexul Portuar Rosario este cel mai mare hub de export de cereale și semințe oleaginoase din lume, situat strategic pe malul fluviului Paraná. Cunoscut sub numele de "Marea Poartă a Pampu-lui", acest sistem de terminale portuare este motorul economiei agro-industriale a Argentinei, procesând recoltele masive de soia, porumb și grâu din centrul țării. Portul Rosario beneficiază de calea navigabilă Paraná-Paraguay, care permite navelor de mare tonaj (Panamax) să ajungă direct în inima agricolă a țării. Pe lângă exporturile agricole, portul gestionează minerale, uleiuri vegetale și produse industriale. Importanța sa strategică este dublată de prezența unor zone de liber schimb și a unor terminale specializate de ultimă generație. Prosperitatea orașului Rosario este direct legată de activitatea frenetică a portului său, care conectează fertilitatea pământului argentinian cu cererea alimentară globală.",
+      "factsAdvanced": [
+        "Rosario exportă aproximativ 80% din producția de cereale și oleaginoase a Argentinei.",
+        "Terminalele sale sunt operate de giganți mondiali precum Cargill, Bunge și Dreyfus.",
+        "Canalul de navigare permite o adâncime de 34 de picioare, esențială pentru navele oceanice.",
+        "Portul a fost pionier în dezvoltarea tehnologiei de încărcare rapidă a vaselor cu cereale.",
+        "Dispune de terminale specializate pentru uleiuri vegetale, fiind un lider mondial în exportul de biodisel.",
+        "Regiunea metropolitană a marelui Rosario găzduiește peste 20 de terminale portuare private și publice.",
+        "Portul este un nod vital pentru calea ferată Belgrano Cargas, care aduce marfa din nordul țării.",
+        "Istoria sa modernă a început la sfârșitul secolului XIX, impulsionată de capitalul francez."
+      ]
+    },
+    {
+      "id": "bahia-blanca-port-economic-v2",
+      "descriptionAdvanced": "Portul Bahía Blanca este cel mai important port natural de apă adâncă din Argentina, situat în sudul provinciei Buenos Aires. Acest complex portuar este vital pentru exportul de grâne și, mai ales, pentru industria petrochimică și energetică a țării. Datorită adâncimii sale naturale mari, portul poate primi nave de dimensiuni colosale care nu pot accesa alte porturi fluviale argentiniene. Bahía Blanca funcționează ca un centru multimodal complex, integrând transportul feroviar, rutier și maritim. Zona portuară de la Ingeniero White găzduiește cel mai mare pol petrochimic din Argentina, transformând gazul și petrolul din Patagonia în produse cu valoare adăugată ridicată. Portul este, de asemenea, un nod strategic pentru exportul de fructe și produse din carne, consolidându-și poziția de poartă logistică fundamentală pentru legătura dintre regiunea Pampa și piețele internaționale de peste ocean.",
+      "factsAdvanced": [
+        "Adâncimea sa naturală permite operarea navelor cu pescaj de până la 45 de picioare.",
+        "Găzduiește primul terminal de export de gaz lichefiat (GNL) din Argentina.",
+        "Este principalul port de export pentru recoltele din sudul provinciei Buenos Aires și La Pampa.",
+        "Polul petrochimic local produce majoritatea polietilenei și îngrășămintelor chimice din țară.",
+        "Terminalele portuare sunt dotate cu silozuri de cereale de capacitate uriașă, printre cele mai mari din America de Sud.",
+        "Portul Galván este specializat în manipularea produselor lichide și a combustibililor.",
+        "Bahía Blanca este un punct de intrare major pentru componentele parcurilor eoliene patagonice.",
+        "Portul funcționează sub un regim de administrare autonomă, fiind un model de eficiență în țară."
+      ]
+    },
+    {
+      "id": "quequen-port-economic-v2",
+      "descriptionAdvanced": "Portul Quequén, situat în orașul Necochea, este unul dintre cele mai rapide și eficiente porturi de cereale din Argentina. Poziția sa directă la Oceanul Atlantic îi conferă un avantaj strategic major, evitând timpii lungi de navigație pe fluvii și oferind un pescaj natural generos. Portul este inima economică a sud-estului provinciei Buenos Aires, o regiune agricolă extrem de productivă specializată în grâu, orz și floarea-soarelui. Quequén se remarcă prin viteza de încărcare a navelor și prin adâncirea constantă a canalului de acces, ceea ce permite operarea vaselor de mare tonaj. Dincolo de activitatea comercială, portul are o valoare peisagistică deosebită, cu faleza sa înaltă și digul lung care este un loc popular pentru pescuit și plimbări. Eficiența sa logistică și conectivitatea cu vastele zone rurale fac din Quequén un pilon esențial pentru exporturile agro-industriale ale națiunii.",
+      "factsAdvanced": [
+        "Este considerat portul cu cea mai mare viteză de operare pe navă din Argentina.",
+        "Pescajul său de 45 de picioare îl plasează printre cele mai adânci porturi de la Atlantic.",
+        "Quequén este principalul port de export pentru orzul malțific din Argentina.",
+        "Digul de sud al portului are o lungime de peste 1.200 de metri, protejând zona de valurile oceanice.",
+        "Găzduiește terminale moderne de cereale operate de companii precum ACA și Terminal Quequén.",
+        "Portul a suferit recent o lucrare istorică de dragaj care i-a crescut competitivitatea globală.",
+        "Este un nod vital pentru economia orașului Necochea, generând mii de locuri de muncă.",
+        "Regiunea deservită de port este celebră pentru calitatea excepțională a grâului panificabil."
+      ]
+    },
+    {
+      "id": "storni-port-economic-v2",
+      "descriptionAdvanced": "Muelle Almirante Storni, situat în Puerto Madryn, este cel mai important port comercial și industrial din nordul Patagoniei. Acest debarcader masiv se întinde adânc în apele Golfului Nuevo, permițând navelor oceanice să acosteze întrun mediu protejat și natural adânc. Portul a fost construit inițial pentru a deservi gigantica uzină de aluminiu Aluar, dar a evoluat rapid într-un terminal multimodal care gestionează exporturile de lână, fructe de mare procesate și fructe din văile patagonice. Datorită locației sale strategice, este punctul principal de ieșire pentru produsele industriale ale regiunii și un hub logistic esențial pentru proiectele energetice eoliene. Arhitectura sa impunătoare și activitatea neîncetată a macaralelor contrastează cu frumusețea naturală a golfului, unde balenele pot fi văzute adesea în apropierea structurilor portuare, simbolizând coexistența industriei cu mediul protejat.",
+      "factsAdvanced": [
+        "Structura debarcaderului are o lungime de peste 2 kilometri, intrând direct în mare.",
+        "Este portul principal pentru exportul întregii producții de aluminiu a Argentinei.",
+        "Pescajul natural depășește 10 metri, eliminând necesitatea dragajului costisitor.",
+        "Portul gestionează o mare parte din flota de pescuit la mare înălțime (creveți și calamar).",
+        "Este un punct cheie pentru logistica parcurilor eoliene din provincia Chubut.",
+        "Terminalul dispune de zone frigorifice mari pentru stocarea peștelui exportat.",
+        "Storni este unul dintre cele mai sigure porturi din Argentina datorită protecției naturale a golfului.",
+        "A fost inaugurat în 1975, impulsionând creșterea explozivă a orașului Puerto Madryn."
+      ]
+    },
+    {
+      "id": "ushuaia-port-economic-v2",
+      "descriptionAdvanced": "Portul Ushuaia este cel mai sudic port comercial și de croazieră din lume, funcționând ca o poartă logistică vitală în Canalul Beagle. Din punct de vedere economic, portul are o dublă importanță strategică: este centrul nervos al turismului către Antarctica și hub-ul principal pentru industria electronică și pomicolă din Tierra del Fuego. În fiecare an, mii de turiști internaționali tranzitează acest port către continentul alb, generând venituri esențiale pentru regiune. În paralel, portul gestionează exportul de produse electronice asamblate în insulă sub regimul de scutire de taxe și ieșirea peștelui de apă rece, în special merluciu negru și centolla. Portul Ushuaia se confruntă cu provocări climatice extreme, dar eficiența sa operațională este crucială pentru menținerea suveranității și activității economice în sudul extrem al planetei, fiind un simbol al rezilienței argentiniene la "capătul lumii".",
+      "factsAdvanced": [
+        "Este portul de plecare pentru peste 90% din traficul maritim turistic către Antarctica.",
+        "Gestionază întreaga producție de electronice a regiunii Tierra del Fuego (televizoare, telefoane).",
+        "Pescajul său de 10 metri permite acostarea navelor de croazieră de mari dimensiuni.",
+        "Este principalul port de aprovizionare pentru bazele științifice antarctice argentiniene.",
+        "Portul dispune de terminale specializate pentru containere și pentru flota de pescuit artizanal.",
+        "Recent a fost extins pentru a mări capacitatea de acostare simultană a vaselor mari.",
+        "Ushuaia este un port liber de taxe sub regimul Legii 19.640.",
+        "Este situat în cel mai protejat punct al Canalului Beagle, ferit de furtunile violente ale Atlanticului de Sud."
+      ]
+    },
+    {
+      "id": "san-martin-port-economic-v2",
+      "descriptionAdvanced": "Portul San Lorenzo - Puerto General San Martín este cel mai mare complex portuar agro-exportator din Argentina, situat pe malul fluviului Paraná, la nord de Rosario. Acest gigant logistic este inima "Cordonului Industrial", procesând recoltele masive ale țării și transformându-le în uleiuri, făinuri și biodisel. Majoritatea cerealelor produse în regiunea centrală a Argentinei părăsesc țara prin acest punct, fiind unul dintre cele mai eficiente și moderne terminale de acest tip la nivel mondial. Portul beneficiază de prezența unor imense fabrici de strivire a semințelor (crushing), unde materiile prime sunt prelucrate înainte de a fi încărcate pe nave oceanice. Importanța sa economică este colosală, fiind principala sursă de valută pentru statul argentinian. San Martín reprezintă forța brută a industriei alimentare argentiniene, conectând tehnologia de vârf a procesării agricole cu rutele comerciale globale.",
+      "factsAdvanced": [
+        "Formează împreună cu Rosario cel mai mare nod de export de soia de pe planetă.",
+        "Dispune de cele mai moderne uzine de procesare a semințelor oleaginoase din lume.",
+        "Portul este accesibil navelor cu un pescaj de până la 34-36 de picioare.",
+        "Gestionează exporturile marilor companii multinaționale și cooperative naționale.",
+        "Este un centru major pentru producția și exportul de biodisel, Argentina fiind lider mondial.",
+        "Zona portuară are o infrastructură feroviară extinsă care conectează direct silozurile cu vagoanele de marfă.",
+        "Eficiența încărcării este uluitoare, putând umple o navă oceanică în mai puțin de 24 de ore.",
+        "Portul a transformat vechiul sat San Lorenzo întrun gigant industrial cosmopolit."
+      ]
+    },
+    {
+      "id": "campana-port-economic-v2",
+      "descriptionAdvanced": "Portul Campana, situat pe malul fluviului Paraná de las Palmas, este unul dintre principalii piloni ai industriei siderurgice și energetice a Argentinei. Orașul Campana s-a dezvoltat în jurul portului său, devenind sediul gigantului siderurgic TenarisSiderca, cel mai mare producător de tuburi de oțel fără sudură din lume. Portul funcționează ca un terminal industrial de înaltă specializare, gestionând materii prime pentru producția de oțel și exportând tuburi utilizate în industria petrolieră globală. De asemenea, zona portuară găzduiește una dintre cele mai mari rafinării de petrol din țară, aparținând companiei Axion Energy. Campana este un model de port industrial integrat, unde transportul fluvial este coloana vertebrală a unui complex care include rafinării, uzine metalurgice și terminale de containere. Poziția sa strategică, aproape de Buenos Aires și în inima axei industriale Paraná, îi conferă un rol central în economia productivă a națiunii.",
+      "factsAdvanced": [
+        "TenarisSiderca, situată lângă port, exportă tuburi de oțel în peste 100 de țări.",
+        "Rafinăria Axion Energy din Campana este una dintre cele mai moderne din America Latină.",
+        "Portul gestionează transportul masiv de automobile și piese auto pentru zona de nord.",
+        "Dispune de terminale specializate pentru GNL (gaz natural lichefiat) de importanță strategică.",
+        "Canalul de navigare permite accesul navelor mari care vin dinspre ocean prin Rio de la Plata.",
+        "Campana este sediul Universității Tehnologice Naționale (UTN), formând specialiști pentru port.",
+        "Portul a fost pionier în Argentina prin construirea primului frigorific de carne în secolul XIX.",
+        "Este un nod logistic crucial care conectează rutele rutiere Panamericane cu fluviul."
+      ]
+    },
+    {
+      "id": "zarate-port-economic-v2",
+      "descriptionAdvanced": "Portul Zárate este principala poartă de intrare și ieșire pentru industria auto a Argentinei, fiind situat strategic pe malul fluviului Paraná de las Palmas. Cunoscut sub numele de "Zarate Port", acest complex s-a specializat ca un terminal multimodal de ultimă generație, fiind lider în regiune pentru manipularea vehiculelor (Ro-Ro). Majoritatea mașinilor produse în Argentina pentru export și a celor importate tranzitează acest port extrem de eficient. Zárate se remarcă prin infrastructura sa modernă, incluzând parcuri logistice vaste și terminale de containere de mare capacitate. Proximitatea față de complexul feroviar și rutier Zárate-Brazo Largo transformă acest port întrun punct de legătură vital între centrul Argentinei și regiunea Mesopotamia, Uruguay și Brazilia. Portul Zárate este un exemplu de specializare logistică reușită, fiind un motor de creștere economică și inovație în sectorul transporturilor din America de Sud.",
+      "factsAdvanced": [
+        "Zarate Port este primul terminal privat din Argentina construit special pentru vehicule.",
+        "Gestionază peste 80% din comerțul auto al Argentinei prin porturi.",
+        "Terminalul de containere are o capacitate de peste 250.000 de TEU pe an.",
+        "Portul găzduiește uzina Toyota Argentina în imediata sa vecinătate.",
+        "Dispune de o suprafață de peste 200 de hectare dedicate logisticii și depozitării vehiculelor.",
+        "Este conectat direct de autostrada Panamericană, facilitând distribuția rapidă a mărfurilor.",
+        "Podul Zárate-Brazo Largo oferă o conectivitate feroviară unică portului.",
+        "Operațiunile sale sunt recunoscute internațional pentru standardele de securitate și viteză."
+      ]
+    },
+    {
+      "id": "san-nicolas-port-economic-v2",
+      "descriptionAdvanced": "Portul San Nicolás este unul dintre centrele industriale și logistice cele mai importante de pe fluviul Paraná, fiind strâns legat de producția siderurgică masivă a Argentinei. Orașul San Nicolás găzduiește uzina Siderar (Ternium), cel mai mare producător de oțel plat din țară, iar portul este terminalul esențial pentru recepția minereului de fier și exportul produselor metalurgice finite. Portul este împărțit în mai multe zone, inclusiv Portul Nou, capabil să primească nave oceanice de mare tonaj datorită dragajului profund al canalului de acces. Dincolo de oțel, portul este un punct cheie pentru exportul de cereale și îngrășăminte, deservind o vastă zonă agricolă din nordul provinciei Buenos Aires. Eficiența sa operațională și integrarea cu industria grea locală fac din San Nicolás un pilon fundamental al economiei argentiniene, simbolizând forța productivă a culoarului industrial al fluviului Paraná.",
+      "factsAdvanced": [
+        "Este terminalul principal pentru uzina Siderar, vitală pentru industria auto și a construcțiilor.",
+        "Portul are o adâncime operativă de peste 34 de picioare pe tot parcursul anului.",
+        "Gestionază descărcarea masivă de cărbune și minereu de fier importat din Brazilia.",
+        "Terminalul de cereale este operat de Elevadores San Nicolás, având o capacitate de încărcare rapidă.",
+        "Este unul dintre puținele porturi argentiniene cu acces feroviar direct până la chei.",
+        "Zona portuară include terminale petroliere care aprovizionează rafinăriile din regiune.",
+        "Portul San Nicolás este un nod logistic strategic pe ruta navigabilă Paraná-Paraguay.",
+        "Administrația este una dintre cele mai vechi și stabile din rețeaua portuară națională."
+      ]
+    },
+    {
+      "id": "vaca-muerta-economic-v2",
+      "descriptionAdvanced": "Vaca Muerta este una dintre cele mai importante rezerve de hidrocarburi neconvenționale din lume, situată în bazinul Neuquén din Patagonia. Această formațiune geologică gigantică, de dimensiunea Belgiei, deține a doua cea mai mare rezervă de gaze de șist (shale gas) și a patra cea mai mare rezervă de petrol de șist (shale oil) de pe planetă. Exploatarea sa a transformat Argentina întrun jucător energetic global, promițând auto-suficiența energetică și un potențial masiv de export. Tehnologia utilizată aici, precum fracturarea hidraulică (fracking), a adus investiții de miliarde de dolari de la companii naționale precum YPF și giganți internaționali. Vaca Muerta nu este doar o resursă minerală, ci un motor economic care impulsionează dezvoltarea infrastructurii, a orașelor precum Añelo și a întregii economii argentiniene, fiind considerată speranța energetică a națiunii pentru secolul XXI.",
+      "factsAdvanced": [
+        "Acoperă o suprafață de aproximativ 30.000 de kilometri pătrați.",
+        "Cercetările arată că Vaca Muerta poate asigura gazul Argentinei pentru următorii 150 de ani.",
+        "Añelo, "capitala Vaca Muerta", a crescut de la un mic sat la un centru urban vibrant în 10 ani.",
+        "Grosimea formațiunii de șist variază între 60 și 520 de metri, fiind una dintre cele mai bogate din lume.",
+        "Exploatarea sa a dus la construcția gazoductului Néstor Kirchner, vital pentru transportul energiei spre capitală.",
+        "Peste 30 de companii petroliere internaționale au concesiuni în această regiune.",
+        "Vaca Muerta a fost identificată pentru prima dată în 1931 de geologul american Charles Weaver.",
+        "Tehnologia de foraj orizontal utilizată aici atinge recorduri de eficiență la nivel mondial."
+      ]
+    },
+    {
+      "id": "veladero-mine-economic-v2",
+      "descriptionAdvanced": "Mina Veladero este una dintre cele mai mari și mai înalte mine de aur și argint din lume, situată în provincia San Juan, la peste 4.000 de metri altitudine în munții Andzi. Operată de gigantul Barrick Gold, mina este un pilon fundamental al economiei provinciale și naționale, generând mii de locuri de muncă și contribuind semnificativ la exporturile miniere ale Argentinei. Veladero utilizează tehnici avansate de lixiviere pe stivă pentru a extrage metalele prețioase din rocile dure ale Anzilor, întrun mediu cu provocări climatice și logistice extreme. Mina a implementat standarde stricte de monitorizare a mediului și a apei în această regiune aridă, fiind subiectul unor dezbateri importante despre dezvoltarea sustenabilă. Veladero reprezintă forța mineritului modern la scară mare în Argentina, demonstrând capacitatea de a opera în condiții geografice dificile pentru a accesa bogățiile ascunse în măruntaiele munților.",
+      "factsAdvanced": [
+        "Se află în departamentul Iglesia, la o altitudine cuprinsă între 4.000 și 4.850 de metri.",
+        "Este principala producătoare de aur din Argentina, cu o producție anuală masivă.",
+        "Mina a fost inaugurată oficial în anul 2005 și are o viață utilă extinsă prin noi explorări.",
+        "Alimentarea cu energie se face parțial prin cel mai înalt parc eolian din lume, situat în incintă.",
+        "Veladero a fost un motor de dezvoltare pentru infrastructura rutieră și electrică din nordul San Juan-ului.",
+        "Procesul de extracție implică mișcarea a mii de tone de pământ și rocă în fiecare zi.",
+        "Comunitățile locale din Jáchal și Iglesia sunt direct implicate în lanțul de furnizori ai minei.",
+        "Mina operează 24 de ore pe zi, 365 de zile pe an, în ciuda temperaturilor de îngheț și a lipsei de oxigen."
+      ]
+    },
+    {
+      "id": "cerro-vanguardia-mine-economic-v2",
+      "descriptionAdvanced": "Cerro Vanguardia este cea mai importantă exploatare minieră de aur și argint din provincia Santa Cruz, în inima stepei patagonice. Situată la nord-vest de Puerto San Julián, mina este un exemplu de succes al mineritului polimetalic, unde aurul și argintul sunt extrase din vene epitermale întrun sistem care combină minele deschise (open pit) cu cele subterane. Operată de AngloGold Ashanti și compania provincială FOMICRUZ, mina este un motor economic vital pentru sudul Argentinei, contribuind la dezvoltarea regională și la finanțarea proiectelor sociale. Cerro Vanguardia se distinge prin longevitatea sa și prin capacitatea de a procesa minereul la fața locului pentru a obține lingouri de aliaj doré. Mina a transformat radical economia orașelor din apropiere, stabilind standarde de management de mediu în ecosistemul fragil al Patagoniei și rămânând un simbol al bogăției minerale a extremului sud.",
+      "factsAdvanced": [
+        "A fost inaugurată în 1998, fiind prima investiție minieră majoră din Santa Cruz.",
+        "Procesează aproximativ 3.000 de tone de minereu pe zi în uzina sa de tratament.",
+        "Lingourile produse aici conțin un amestec de aur și argint, trimise ulterior la rafinare.",
+        "Aproape 1.000 de oameni lucrează direct în mină, majoritatea fiind rezidenți din provincie.",
+        "Sistemul de extracție include peste 40 de gropi deschise și kilometri de galerii subterane.",
+        "Mina deține propria sa centrală electrică pe bază de gaze naturale pentru a opera în izolare.",
+        "FOMICRUZ S.E., compania de stat a provinciei, deține o participație de 7,5% în proiect.",
+        "Longevitatea minei a fost extinsă prin tehnologii avansate de explorare satelitară."
+      ]
+    },
+    {
+      "id": "aluar-plant-economic-v2",
+      "descriptionAdvanced": "Uzina Aluar din Puerto Madryn este singurul producător de aluminiu primar din Argentina și una dintre cele mai mari fabrici de acest tip din emisfera sudică. De la inaugurarea sa în anii '70, Aluar a fost motorul industrial al Patagoniei de nord, transformând orașul dintr-o mică așezare întrun centru tehnologic și portuar major. Procesul de producție al aluminiului este extrem de intens din punct de vedere energetic, motiv pentru care uzina este alimentată de propria sa hidrocentrală (Futaleufú) și de parcuri eoliene masive, demonstrând un angajament către sustenabilitate. Aluar exportă peste 80% din producția sa către piețele exigente din SUA, Europa și Asia, fiind un furnizor cheie pentru industria auto, aerospațială și a construcțiilor. Uzina reprezintă chintesența suveranității industriale argentiniene, combinând prelucrarea materiilor prime cu tehnologia de ultimă oră pentru a genera produse cu valoare adăugată ridicată.",
+      "factsAdvanced": [
+        "Inaugurată în 1974 ca parte a Planului de Dezvoltare Națională pentru Patagonia.",
+        "Capacitatea de producție depășește 460.000 de tone de aluminiu primar pe an.",
+        "Peste 2.000 de angajați înalt calificați lucrează direct în complexul industrial.",
+        "Energia este adusă de la 500 km distanță prin linii de înaltă tensiune din Anzi.",
+        "Uzina dispune de propriul terminal portuar pe Muelle Storni pentru importul de bauxită.",
+        "Aluar a construit unul dintre cele mai mari parcuri eoliene din Argentina pentru a-și reduce amprenta de carbon.",
+        "Puritatea aluminiului produs aici atinge 99,9%, fiind printre cele mai bune din lume.",
+        "Fabrica include turnătorii, săli de electroliză și uzine de producție a anozilor de carbon."
+      ]
+    },
+    {
+      "id": "siderar-plant-economic-v2",
+      "descriptionAdvanced": "Uzina Siderar, parte a grupului Ternium, este cel mai mare producător de oțel din Argentina și unul dintre cele mai mari complexe siderurgice integrate din America de Sud. Situată în San Nicolás de los Arroyos, pe malul fluviului Paraná, uzina procesează minereul de fier și cărbunele importate pentru a produce milioane de tone de oțel plat, esențiale pentru industria auto, a electrocasnicelor și a construcțiilor din țară. Siderar este inima "Cordonului Industrial" argentinian, generând mii de locuri de muncă și impulsionând o rețea vastă de furnizori și IMM-uri. Uzina dispune de propriul port, furnale uriașe și linii de laminare la cald și la rece de ultimă generație. Modernizarea constantă a proceselor sale a permis Argentinei să mențină o industrie metalurgică competitivă la nivel regional, Siderar fiind un simbol al puterii industriale și al dezvoltării tehnologice a națiunii.",
+      "factsAdvanced": [
+        "Producția anuală de oțel brut depășește 2,5 milioane de tone.",
+        "Uzina de la San Nicolás acoperă o suprafață de peste 600 de hectare.",
+        "Siderar furnizează oțel pentru aproape toate fabricile de mașini stabilite în Argentina.",
+        "Complexul industrial include un port privat de apă adâncă pe fluviul Paraná.",
+        "Deține două furnale gigantice (Alto Horno) care funcționează neîncetat.",
+        "A fost privatizată în anii '90, trecând de la statul argentinian la grupul Techint.",
+        "Este un pionier în implementarea sistemelor de reciclare a apei și reducerea emisiilor industriale.",
+        "Uzina are propria sa rețea feroviară internă pentru transportul produselor laminate."
+      ]
+    },
+    {
+      "id": "toyota-zarate-economic-v2",
+      "descriptionAdvanced": "Uzina Toyota din Zárate este modelul de excelență industrială al Argentinei și cel mai mare exportator auto din țară. Inaugurată în anii '90, fabrica s-a specializat în producția modelelor Hilux și SW4, transformând Argentina întrun centru global de producție pentru vehicule comerciale ușoare. Uzina funcționează sub legendarul sistem de producție Toyota (TPS), atingând niveluri de eficiență și calitate care rivalizează cu fabricile din Japonia. Zárate este o "uzină-oraș" care a creat un ecosistem industrial vast, atrăgând zeci de furnizori de componente în apropiere. Succesul Toyota în Argentina este un pilon al balanței comerciale naționale, peste 70% din producția locală fiind exportată în toată America Latină. Fabrica este recunoscută pentru inovațiile sale în materie de mediu și pentru rolul său de lider în tranziția către vehicule mai sustenabile în regiune.",
+      "factsAdvanced": [
+        "A produs peste 1,5 milioane de vehicule de la deschiderea sa în 1997.",
+        "Hilux produsă în Zárate este lider de piață în Argentina de peste 15 ani consecutiv.",
+        "Fabrica funcționează 24 de ore pe zi, cu un ritm de producție de un vehicul la fiecare 90 de secunde.",
+        "Exportă în 23 de țări din America Latină și Caraibe.",
+        "Este prima uzină auto din Argentina care utilizează 100% energie electrică din surse regenerabile.",
+        "Peste 6.000 de angajați lucrează direct în complexul din Zárate.",
+        "Investițiile constante au permis fabricii să devină un hub regional de inginerie și design.",
+        "Toyota Zárate are un centru de vizitatori modern care prezintă procesul de producție publicului."
+      ]
+    },
+    {
+      "id": "ford-pacheco-economic-v2",
+      "descriptionAdvanced": "Uzina Ford din General Pacheco este un sit istoric și industrial de referință, reprezentând prezența seculară a companiei americane în Argentina. Inaugurată în 1961, fabrica a fost martora evoluției industriei auto naționale, producând modele iconice care au definit cultura rutieră a țării, precum faimosul Ford Falcon și, în prezent, moderna camionetă Ranger. Uzina Pacheco este un complex industrial masiv, integrat vertical, care include uzine de motoare, caroserii și montaj final. Ford a investit recent sute de milioane de dolari pentru a transforma această locație întruna dintre cele mai avansate fabrici Ford din lume, implementând tehnologii de robotică și digitalizare 4.0. Fabrica este un motor de export crucial pentru Argentina și un simbol al calității inginerești, menținând o legătură emoțională puternică cu generații de muncitori și utilizatori argentinieni.",
+      "factsAdvanced": [
+        "Ford a fost prima companie auto care a construit o fabrică în Argentina, în 1913.",
+        "Uzina actuală de la Pacheco a fost inaugurată oficial la 21 septembrie 1961.",
+        "În prezent, este centrul de producție exclusiv pentru noua generație Ford Ranger în regiune.",
+        "Exportă peste 70% din producția sa către piețele din Brazilia, Chile și restul Americii Latine.",
+        "Complexul industrial acoperă o suprafață de peste 100 de hectare în nordul Buenos Aires-ului.",
+        "Găzduiește o uzină de motoare de ultimă generație care echipează vehiculele exportate.",
+        "Ford Pacheco a produs legendarul model Falcon timp de aproape 30 de ani (1962-1991).",
+        "Fabrica utilizează sisteme avansate de vopsire ecologică și reciclare a deșeurilor industriale."
+      ]
+    }
+  ]
+}

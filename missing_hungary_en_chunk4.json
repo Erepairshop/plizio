@@ -1,0 +1,227 @@
+[
+  {
+    "id": "aquaworld-budapest",
+    "nameEn": "Aquaworld Budapest",
+    "descEn": "Aquaworld Budapest is one of the largest indoor water theme parks in all of Europe."
+  },
+  {
+    "id": "fovarosi-allatkert",
+    "nameEn": "Budapest Zoo",
+    "descEn": "The zoo in the heart of Budapest is one of the oldest and most diverse zoos in the world."
+  },
+  {
+    "id": "vajdahunyad-vara-poi",
+    "nameEn": "Vajdahunyad Castle",
+    "descEn": "The Vajdahunyad Castle in the City Park combines the most significant architectural styles of Hungary."
+  },
+  {
+    "id": "matyas-templom-poi",
+    "nameEn": "Matthias Church",
+    "descEn": "The Matthias Church in the Castle District is one of the most magnificent and historic churches in the country."
+  },
+  {
+    "id": "baradla-barlang",
+    "nameEn": "Baradla Cave",
+    "descEn": "A huge stalactite cave system in the Aggtelek National Park."
+  },
+  {
+    "id": "hortobagyi-nemzeti-park",
+    "nameEn": "Hortobágy National Park",
+    "descEn": "Hungary's largest nature reserve and a symbol of the puszta."
+  },
+  {
+    "id": "bukki-nemzeti-park",
+    "nameEn": "Bükk National Park",
+    "descEn": "A heavily forested mountainous area with caves and picturesque valleys."
+  },
+  {
+    "id": "ferto-to",
+    "nameEn": "Lake Neusiedl",
+    "descEn": "The westernmost steppe lake in Europe, on the border with Austria."
+  },
+  {
+    "id": "velencei-to",
+    "nameEn": "Lake Velence",
+    "descEn": "One of the warmest lakes in Europe, ideal for recreation."
+  },
+  {
+    "id": "borzsony",
+    "nameEn": "Börzsöny",
+    "descEn": "A volcanic mountain range north of Budapest with dense forests."
+  },
+  {
+    "id": "villanyi-borvidek",
+    "nameEn": "Villány Wine Region",
+    "descEn": "One of the most famous red wine regions in Hungary in the south."
+  },
+  {
+    "id": "egri-var",
+    "nameEn": "Castle of Eger",
+    "descEn": "A historical castle that withstood the Turkish siege in 1552."
+  },
+  {
+    "id": "visegradi-fellegvar",
+    "nameEn": "Visegrád Citadel",
+    "descEn": "A medieval fortress with a breathtaking view of the Danube Bend."
+  },
+  {
+    "id": "szigetvari-var",
+    "nameEn": "Castle of Szigetvár",
+    "descEn": "Known for the heroic defense by Miklós Zrínyi in 1566."
+  },
+  {
+    "id": "sarvari-var",
+    "nameEn": "Castle of Sárvár",
+    "descEn": "Nádasdy Castle is a masterpiece of Renaissance architecture."
+  },
+  {
+    "id": "diosgyori-var",
+    "nameEn": "Castle of Diósgyőr",
+    "descEn": "A medieval castle, often referred to as the Queens' Castle."
+  },
+  {
+    "id": "esztergomi-bazilika",
+    "nameEn": "Esztergom Basilica",
+    "descEn": "Hungary's largest and tallest church with monumental architecture."
+  },
+  {
+    "id": "szentendrei-skanzen",
+    "nameEn": "Szentendre Skanzen",
+    "descEn": "The largest Hungarian open-air museum, showcasing rural architecture."
+  },
+  {
+    "id": "tihanyi-apatsag",
+    "nameEn": "Tihany Abbey",
+    "descEn": "A Benedictine abbey on the Tihany Peninsula with a thousand-year history."
+  },
+  {
+    "id": "pannonhalmi-foapatsag",
+    "nameEn": "Pannonhalma Archabbey",
+    "descEn": "A UNESCO World Heritage site and spiritual center on St. Martin's Hill."
+  },
+  {
+    "id": "holloko-ofalu",
+    "nameEn": "Hollókő Old Village",
+    "descEn": "An intact Palóc village and UNESCO World Heritage site."
+  },
+  {
+    "id": "szepmuveszeti-muzeum",
+    "nameEn": "Museum of Fine Arts",
+    "descEn": "One of the most important museums in Budapest with international art."
+  },
+  {
+    "id": "gellert-hegy",
+    "nameEn": "Gellért Hill",
+    "descEn": "A prominent hill in Budapest offering panoramic views of the city."
+  },
+  {
+    "id": "normafa",
+    "nameEn": "Normafa",
+    "descEn": "A popular excursion destination in the Buda Hills, ideal for hiking."
+  },
+  {
+    "id": "magyar-allami-operahaz",
+    "nameEn": "State Opera",
+    "descEn": "A magnificent Neo-Renaissance building on Andrássy Avenue."
+  },
+  {
+    "id": "csodak-palotaja",
+    "nameEn": "Center of Scientific Wonders",
+    "descEn": "An interactive science center that imparts knowledge playfully."
+  },
+  {
+    "id": "boldogko-var-b2",
+    "nameEn": "Boldogkő Castle",
+    "descEn": "Medieval castle perched on a steep rock in the Zemplén Mountains."
+  },
+  {
+    "id": "fuzer-var-b2",
+    "nameEn": "Füzér Castle",
+    "descEn": "Spectacularly restored hilltop castle on a volcanic cone."
+  },
+  {
+    "id": "sirok-var",
+    "nameEn": "Sirok Castle",
+    "descEn": "Hungary's best-preserved cave and rock castle in the Mátra."
+  },
+  {
+    "id": "sumeg-var-b2",
+    "nameEn": "Sümeg Castle",
+    "descEn": "Imposing fortress towering over the town of Sümeg on a hill."
+  },
+  {
+    "id": "somlo-var",
+    "nameEn": "Somló Castle",
+    "descEn": "Picturesque castle ruins on the volcanic Somló mountain."
+  },
+  {
+    "id": "nagyvazsony-kinizsi-var",
+    "nameEn": "Kinizsi Castle",
+    "descEn": "Historic castle once owned by the legendary Paul Kinizsi."
+  },
+  {
+    "id": "szerencs-var",
+    "nameEn": "Szerencs Castle",
+    "descEn": "Renaissance castle in the heart of the chocolate town, Szerencs."
+  },
+  {
+    "id": "koszeg-jurisics-var",
+    "nameEn": "Jurisics Castle",
+    "descEn": "Historic castle that stopped the Ottoman advance in 1532."
+  },
+  {
+    "id": "simontornya-var",
+    "nameEn": "Simontornya Castle",
+    "descEn": "Splendid Renaissance castle with a rich history."
+  },
+  {
+    "id": "varpalota-thury-var",
+    "nameEn": "Thury Castle",
+    "descEn": "Medieval fortress in the center of Várpalota."
+  },
+  {
+    "id": "szelce-volgy",
+    "nameEn": "Szelce Valley",
+    "descEn": "Pristine valley in North Hungary with dense forest landscape."
+  },
+  {
+    "id": "palvolgyi-barlang",
+    "nameEn": "Pálvölgyi Cave",
+    "descEn": "The longest cave in the Buda Hills with amazing formations."
+  },
+  {
+    "id": "mecsek-hegyseg",
+    "nameEn": "Mecsek Mountains",
+    "descEn": "Middle mountains in the south with Mediterranean flair and caves."
+  },
+  {
+    "id": "balatonfelvideki-np",
+    "nameEn": "Balaton Uplands NP",
+    "descEn": "Diverse landscape with volcanic hills and lavender fields."
+  },
+  {
+    "id": "koros-maros-np",
+    "nameEn": "Körös-Maros NP",
+    "descEn": "Protected area in the southern plains with rich birdlife."
+  },
+  {
+    "id": "oreg-bakony",
+    "nameEn": "Old Bakony",
+    "descEn": "The core of the Bakony forest with dense beech woods."
+  },
+  {
+    "id": "zempleni-hegyseg-b2",
+    "nameEn": "Zemplén Mountains",
+    "descEn": "Remote volcanic mountains with many castles in the northeast."
+  },
+  {
+    "id": "pilis-hegyseg",
+    "nameEn": "Pilis Mountains",
+    "descEn": "Hiking paradise near Budapest with lookout towers and caves."
+  },
+  {
+    "id": "vertes-hegyseg",
+    "nameEn": "Vértes Mountains",
+    "descEn": "Karst mountains in Transdanubia with ruins and forests."
+  }
+]

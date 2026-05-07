@@ -1,0 +1,33 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "new-york-city-cities-v2",
+      "descriptionAdvanced": "New York City, affectionately known as the Big Apple, is the most populous city in the United States, serving as a global hub for finance, culture, and media. Situated at the mouth of the Hudson River, it is divided into five distinct boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island. The city's skyline is defined by iconic skyscrapers such as the Empire State Building and One World Trade Center, reflecting its historical prominence in architectural innovation. With over 800 languages spoken, it is considered the most linguistically diverse city in the world. Its dense transit system, anchored by the New York City Subway, operates 24/7, keeping the metropolis constantly in motion. Geography K7 — urban development and population density.",
+      "factsAdvanced": [
+        "New York City was originally named New Amsterdam by Dutch settlers in 1624.",
+        "The New York City Subway system has 472 stations, making it the largest in the world by number of stations.",
+        "Central Park spans 843 acres, making it larger than the principality of Monaco.",
+        "Over 800 languages are estimated to be spoken in the city, the highest linguistic diversity globally.",
+        "The Empire State Building stands at 1,454 feet tall, including its antenna.",
+        "The Federal Reserve Bank of New York holds the largest known gold reserve in the world."
+      ]
+    },
+    {
+      "id": "los-angeles-cities-v2",
+      "descriptionAdvanced": "Los Angeles, often referred to as L.A., is the largest city in California and the second-most populous city in the United States. It is globally recognized as the center of the American film and entertainment industry, with Hollywood as its historic heart. Situated in a sprawling basin, the city is surrounded by mountains and the Pacific Ocean, contributing to its diverse Mediterranean climate. Los Angeles is a cultural powerhouse, home to numerous museums, such as the Getty Center, and vibrant neighborhoods like Koreatown and Little Tokyo. The city's influence extends far beyond entertainment into technology, aerospace, and global trade, supported by the massive Port of Los Angeles. Geography K7 — regional development and cultural hubs.",
+      "factsAdvanced": [
+        "Los Angeles was founded in 1781 by a group of 44 settlers known as 'Los Pobladores'.",
+        "The Hollywood Sign, originally built in 1923, was meant to be an advertisement for a real estate development.",
+        "The city is home to over 100 museums, including the famous Getty Center and LACMA.",
+        "The Port of Los Angeles is the busiest container port in the United States.",
+        "Los Angeles has hosted the Summer Olympic Games twice, in 1932 and 1984.",
+        "The city spans more than 500 square miles, with an exceptionally diverse urban landscape."
+      ]
+    }
+  ]
+}

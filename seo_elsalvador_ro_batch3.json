@@ -1,0 +1,129 @@
+{
+  "lang": "ro",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soyapango-cities-v2",
+      "descriptionAdvanced": "Soyapango este un hub industrial vital al zonei metropolitane San Salvador, fiind recunoscut pentru concentrarea sa mare de fabrici și unități de producție. Centrul comercial Plaza Mundo transformă orașul într-o destinație majoră pentru cumpărături și divertisment, atrăgând mii de vizitatori zilnic. Deși densitatea populației este foarte ridicată, zona continuă să evolueze printr-o infrastructură în dezvoltare. Educația K7 — Geografie: centre urbane și dezvoltarea economică regională.",
+      "factsAdvanced": [
+        "Soyapango găzduiește una dintre cele mai mari zone industriale din El Salvador.",
+        "Plaza Mundo este unul dintre cele mai vizitate centre comerciale din regiunea capitalei.",
+        "Orașul a cunoscut o transformare rapidă dintr-o zonă rurală într-un hub industrial modern.",
+        "Densitatea populației în Soyapango depășește media națională, subliniind caracterul său urban intens.",
+        "Economia locală depinde semnificativ de sectorul manufacturier și de comerțul cu amănuntul.",
+        "Administrația locală prioritizează investițiile în spații publice pentru a echilibra creșterea urbană."
+      ]
+    },
+    {
+      "id": "jucuapa-cities-v2",
+      "descriptionAdvanced": "Jucuapa este o localitate pitorească situată în departamentul Usulután, renumită pentru tradițiile sale și peisajele montane din împrejurimi. Orașul păstrează o atmosferă colonială autentică, oferind vizitatorilor o privire asupra stilului de viață tradițional salvadorian, departe de agitația capitalei. Agricultura locală, în special cultivarea cafelei, susține economia comunității și conservă moștenirea rurală. Educație K6 — Geografie: economia rurală și conservarea tradițiilor.",
+      "factsAdvanced": [
+        "Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.",
+        "Producția de cafea constituie principala activitate economică a regiunii.",
+        "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.",
+        "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.",
+        "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.",
+        "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."
+      ]
+    },
+    {
+      "id": "metapan-cities-v2",
+      "descriptionAdvanced": "Metapán este cunoscut pentru importanța sa în industria cimentului și pentru proximitatea față de Parcul Național Montecristo, o rezervație naturală de o biodiversitate uimitoare. Situat în nord-vestul țării, orașul oferă un peisaj diversificat, combinând dezvoltarea industrială cu conservarea mediului înconjurător. Climatul și geografia sa unică atrag pasionații de ecoturism din toată regiunea. Educație K7 — Geografie: industrii extractive și conservarea ecosistemelor montane.",
+      "factsAdvanced": [
+        "Metapán este centrul principal al industriei de ciment din El Salvador.",
+        "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.",
+        "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.",
+        "Orașul are o istorie lungă legată de exploatarea resurselor minerale.",
+        "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.",
+        "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."
+      ]
+    },
+    {
+      "id": "concepcion-de-oriente-cities-v2",
+      "descriptionAdvanced": "Concepción de Oriente este o localitate din departamentul La Unión, cunoscută pentru contextul său rural și pentru legăturile strânse cu tradițiile estului țării. Orașul oferă o atmosferă calmă, fiind reprezentativ pentru comunitățile care își bazează subzistența pe agricultură și creșterea animalelor. Peisajele sale rurale oferă o privire autentică asupra stilului de viață tradițional, departe de centrele urbane mari. Educație K5 — Geografie: viața rurală și importanța agriculturii în estul salvadorian.",
+      "factsAdvanced": [
+        "Concepción de Oriente este situată în departamentul La Unión, într-o regiune predominat rurală.",
+        "Agricultura și creșterea animalelor sunt principalele activități economice ale comunității.",
+        "Orașul păstrează un stil de viață tradițional, axat pe valorile comunitare locale.",
+        "Peisajele rurale din jur reflectă estetica specifică estului salvadorian.",
+        "Comunitatea pune un accent puternic pe conservarea obiceiurilor moștenite.",
+        "Concepción de Oriente reprezintă esența vieții rurale din departamentul La Unión."
+      ]
+    },
+    {
+      "id": "santo-domingo-guzman-cities-v2",
+      "descriptionAdvanced": "Santo Domingo de Guzmán este renumit pentru moștenirea sa indigenă, în special pentru păstrarea tradițiilor de olărit și prelucrarea fibrelor naturale, transmise din generație în generație de poporul pipil. Acest oraș din departamentul Sonsonate oferă vizitatorilor o experiență culturală profundă, unde arta manuală definește identitatea comunității. Atmosfera locală este una de conservare a valorilor străvechi, oferind o perspectivă rară asupra vieții indigene salvadoriene. Educație K8 — Istorie: tradiții indigene și meșteșuguri precolumbiene.",
+      "factsAdvanced": [
+        "Santo Domingo de Guzmán păstrează tradiții seculare ale poporului pipil.",
+        "Olăritul și prelucrarea fibrelor naturale sunt meșteșuguri definitorii ale comunității.",
+        "Orașul este un centru important pentru păstrarea identității indigene din Sonsonate.",
+        "Artizanii locali utilizează tehnici precolumbiene pentru a crea produse unice.",
+        "Moștenirea culturală a orașului atrage vizitatori interesați de istoria vie a El Salvadorului.",
+        "Comunitatea pune un preț deosebit pe transmiterea meșteșugurilor către generațiile tinere."
+      ]
+    },
+    {
+      "id": "panchimalco-cities-v2",
+      "descriptionAdvanced": "Panchimalco, situat la sud de capitala San Salvador, este unul dintre cele mai vibrante orașe din punct de vedere cultural, cunoscut pentru arhitectura sa colonială și tradițiile indigene puternic ancorate în viața cotidiană. Orașul este celebru pentru 'Festivalul Florilor și Palmierilor', care atrage vizitatori prin costumele și ritualurile sale colorate. Poziția sa geografică într-o vale montană îi conferă un farmec aparte, făcându-l o destinație culturală esențială. Educație K7 — Sociologie și Artă: festivaluri tradiționale și arhitectură colonială.",
+      "factsAdvanced": [
+        "Panchimalco este unul dintre cele mai vechi așezăminte indigene din apropierea capitalei.",
+        "Festivalul Florilor și Palmierilor este un eveniment cultural de mare amploare.",
+        "Arhitectura bisericii coloniale din oraș este un punct de atracție major pentru turiști.",
+        "Orașul este renumit pentru păstrarea tradițiilor poporului pipil în viața de zi cu zi.",
+        "Valoarea artistică a orașului este recunoscută prin numeroasele picturi și sculpturi locale.",
+        "Panchimalco oferă o combinație unică de istorie colonială și vitalitate culturală indigenă."
+      ]
+    },
+    {
+      "id": "san-pedro-perulapan-cities-v2",
+      "descriptionAdvanced": "San Pedro Perulapán este un oraș istoric din departamentul Cuscatlán, cu o importanță deosebită în istoria luptei pentru independență și în consolidarea identității naționale. Situat într-o zonă strategică, orașul păstrează numeroase urme ale trecutului său, fiind un punct de interes pentru istorici și cei care doresc să descopere originile statului salvadorian. Viața sa curentă se desfășoară într-un ritm tradițional, unde agricultura și comerțul local susțin comunitatea. Educație K8 — Istorie: luptele pentru independență și identitate națională.",
+      "factsAdvanced": [
+        "San Pedro Perulapán a fost un punct strategic important în perioada luptelor pentru independență.",
+        "Orașul găzduiește situri istorice ce atestă importanța sa în dezvoltarea națiunii.",
+        "Economia locală se bazează pe agricultură și activități comerciale tradiționale.",
+        "Identitatea orașului este strâns legată de istoria luptei pentru autodeterminare.",
+        "Tradițiile culturale sunt un punct central al vieții comunitare locale.",
+        "San Pedro Perulapán oferă o perspectivă asupra istoriei profunde a statului El Salvador."
+      ]
+    },
+    {
+      "id": "chinameca-cities-v2",
+      "descriptionAdvanced": "Chinameca este un oraș din departamentul San Miguel, cunoscut pentru peisajele sale montane și pentru contribuția sa la industria cafelei din regiunea estică a țării. Orașul oferă o experiență autentică a vieții rurale din estul El Salvadorului, unde tradițiile agricole se împletesc cu spiritul antreprenorial local. Vizitatorii pot admira frumusețea naturală a zonei, care este caracterizată prin soluri fertile și un climat ideal pentru agricultură. Educație K6 — Geografie: industria cafelei și resursele agricole din estul salvadorian.",
+      "factsAdvanced": [
+        "Chinameca este recunoscută pentru producția de cafea de înaltă calitate din regiunea San Miguel.",
+        "Solurile fertile din zonă susțin o diversitate bogată de culturi agricole.",
+        "Orașul oferă o perspectivă asupra vieții rurale din estul El Salvadorului.",
+        "Contribuția la economia regională prin exportul de cafea este semnificativă.",
+        "Peisajele montane din împrejurimile orașului sunt ideale pentru ecoturism și drumeții.",
+        "Tradițiile agricole sunt păstrate cu mândrie de către comunitatea locală."
+      ]
+    },
+    {
+      "id": "ciudad-barrios-cities-v2",
+      "descriptionAdvanced": "Ciudad Barrios, situat în departamentul San Miguel, este un oraș cu o semnificație istorică și culturală importantă, fiind punctul de origine al unor figuri istorice influente din El Salvador. Orașul îmbină dezvoltarea sa modernă cu respectul pentru tradițiile locale, oferind un mediu primitor pentru cei care doresc să exploreze cultura din regiunea estică. Poziția sa geografică într-o zonă muntoasă îi oferă un climat plăcut și o vedere panoramică asupra împrejurimilor. Educație K8 — Istorie și Cultură: figuri istorice și dezvoltare regională.",
+      "factsAdvanced": [
+        "Ciudad Barrios este locul de origine al unor personalități istorice importante ale țării.",
+        "Orașul se remarcă prin amestecul de dezvoltare modernă și respect pentru tradițiile locale.",
+        "Poziția sa în regiunea muntoasă oferă un climat ideal și peisaje spectaculoase.",
+        "Comunitatea pune un accent pe promovarea istoriei sale culturale unice.",
+        "Orașul atrage vizitatori prin ofertele sale culturale și ospitalitatea localnicilor.",
+        "Ciudad Barrios reprezintă un centru de dezvoltare important pentru estul El Salvadorului."
+      ]
+    },
+    {
+      "id": "lolotique-cities-v2",
+      "descriptionAdvanced": "Lolotique, în departamentul San Miguel, este un oraș cu o atmosferă liniștită, renumit pentru tradițiile sale rurale și pentru peisajele montane care oferă un cadru natural superb pentru activități în aer liber. Viața orașului reflectă valorile comunităților salvadoriene tradiționale, unde solidaritatea și respectul pentru natură sunt fundamentale. Vizitatorii pot explora zona montană, descoperind diversitatea ecologică a regiunii estice. Educație K5 — Geografie: biodiversitate și viața în comunități rurale montane.",
+      "factsAdvanced": [
+        "Lolotique se remarcă prin atmosfera sa liniștită și valorile comunitare tradiționale.",
+        "Peisajele montane oferă oportunități excelente pentru ecoturism și drumeții.",
+        "Solidaritatea locală este un element central al vieții din oraș.",
+        "Regiunea este bogată în diversitate ecologică tipică estului salvadorian.",
+        "Lolotique atrage vizitatori prin cadrul natural autentic și ospitalitatea sa.",
+        "Tradițiile agricole și legătura cu natura definesc identitatea locuitorilor."
+      ]
+    }
+  ]
+}

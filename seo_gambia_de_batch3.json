@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brufut-cities-v2",
+      "descriptionAdvanced": "Brufut ist ein malerischer Küstenort, der für seine unberührten Strände und die Brufut Woods bekannt ist. Die Wälder stellen ein Paradies für Vogelbeobachter aus aller Welt dar, da sie eine erstaunliche Vielfalt an Arten beheimaten. Während sich der Ort zunehmend zu einer bevorzugten Adresse für luxuriöse Hotelentwicklungen entwickelt, bewahrt er sich den Charme einer entspannten Küstenatmosphäre. Die strategische Lage zwischen der städtischen Entwicklung von Serekunda und der Ruhe des Meeres macht Brufut zu einer einzigartigen Destination in Gambia. Biologie K6 — Habitate und Zugvögel.",
+      "factsAdvanced": ["Bekannt für die Brufut Woods.", "Paradiese für Vogelbeobachter.", "Steigende Anzahl von Luxushotels.", "Unberührte Strände entlang des Atlantiks.", "Wichtiger Ort für nachhaltigen Tourismus.", "Nähe zur Metropolregion Serekunda.", "Ruhige, entspannte Atmosphäre."]
+    },
+    {
+      "id": "tanji-cities-v2",
+      "descriptionAdvanced": "Tanji ist ein authentisches Fischerdorf, das für seine bunten, traditionellen Holzboote und den täglichen Trubel am Strand bekannt ist. Das Tanji Village Museum gewährt Einblicke in das traditionelle Leben der verschiedenen Stämme Gambias und ist ein zentraler Anlaufpunkt für Kulturtouristen. Die Fischräuchereien, die den Strand in eine neblige Kulisse hüllen, sind ein wichtiger Teil der lokalen Wirtschaft und ein faszinierendes Fotomotiv. Tanji ist ein Ort, an dem sich die maritime Lebensweise Gambias in ihrer reinsten Form erleben lässt. Geschichte K7 — Traditionelle maritime Wirtschaft.",
+      "factsAdvanced": ["Bekanntes Fischerdorf.", "Sitz des Tanji Village Museum.", "Berühmte Fischräuchereien am Strand.", "Traditionelle, farbenfrohe Fischerboote.", "Wichtiger Ort für Kulturtourismus.", "Nähe zum Tanji Bird Reserve.", "Authentische Einblicke in den Alltag der Fischer."]
+    },
+    {
+      "id": "kerewan-cities-v2",
+      "descriptionAdvanced": "Kerewan ist die administrative Hauptstadt der North Bank Region und spielt eine zentrale Rolle für die umliegende Bevölkerung. Die Stadt liegt strategisch an einem der zahlreichen 'Bolongs' – den typischen schmalen Seitenarmen des Gambia-Flusses. Ihre Umgebung ist von dichten Mangrovensümpfen geprägt, die ein komplexes und schützenswertes Ökosystem bilden. Die Stadtverwaltung koordiniert von hier aus wichtige lokale Infrastrukturprojekte, die für die Entwicklung der Region entscheidend sind. Geographie K6 — Mangrovensysteme und Flusstalsiedlungen.",
+      "factsAdvanced": ["Hauptstadt der North Bank Region.", "Strategische Lage an einem Bolong des Gambia-Flusses.", "Umgeben von weitläufigen Mangrovensümpfen.", "Wichtiges Verwaltungszentrum.", "Knotenpunkt für lokale Dienstleistungen.", "Zentrum für regionale Infrastrukturprojekte.", "Typische Flusslandschaft in der Umgebung."]
+    },
+    {
+      "id": "mansa-konko-cities-v2",
+      "descriptionAdvanced": "Mansa Konko, was übersetzt 'Hügel des Königs' bedeutet, ist der Verwaltungssitz der Lower River Region. Die Stadt liegt auf einem exponierten Hügel, der einen beeindruckenden Blick auf den Gambia-Fluss bietet. Historisch gesehen war der Ort eine wichtige britische Kolonialstation, was sich heute noch in einigen der älteren Bauten widerspiegelt. Die Stadt fungiert als lokales Zentrum für politische und soziale Angelegenheiten in der Mitte Gambias und hat eine strategische Bedeutung für die Verwaltung der Region. Geschichte K8 — Britische Kolonialverwaltung in Westafrika.",
+      "factsAdvanced": ["Name bedeutet 'Hügel des Königs'.", "Administrativer Sitz der Lower River Region.", "Ehemalige britische Kolonialstation.", "Exponierte Lage mit Flussblick.", "Zentrum für regionale Politik.", "Wichtiger Ort für soziale Angelegenheiten.", "Historische Bedeutung in der Region."]
+    },
+    {
+      "id": "kartong-cities-v2",
+      "descriptionAdvanced": "Kartong ist das südlichste Dorf Gambias, direkt an der Grenze zum Senegal gelegen, und zeichnet sich durch einen starken Fokus auf Ökotourismus aus. Der Ort ist bekannt für das heilige Krokodilbecken von Folonko, ein Ort von großer spiritueller Bedeutung für die lokale Gemeinschaft. Durch die naturnahe Umgebung und den bewussten Umgang mit der Umwelt bietet Kartong Besuchern eine andere Erfahrung als die stark touristisch geprägten Küstenabschnitte im Norden. Die Dorfgemeinschaft legt großen Wert auf die Bewahrung ihrer Traditionen und ihrer ökologischen Einzigartigkeit. Biologie K6 — Spirituelle Orte und Umweltschutz.",
+      "factsAdvanced": ["Südlichster Grenzort Gambias.", "Standort des heiligen Folonko-Krokodilbeckens.", "Vorreiter im gambischen Ökotourismus.", "Spirituelle Bedeutung für die Gemeinschaft.", "Bewahrung traditioneller Bräuche.", "Ruhige Lage direkt am Senegal-Grenzfluss.", "Naturbelassene Küstenabschnitte."]
+    }
+  ]
+}

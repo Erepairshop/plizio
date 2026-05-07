@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "an hak-palace-ruins-history-v2",
+      "descriptionAdvanced": "Az Anhak Palota romjai Phenjan külvárosában, a Teszong (Taesong) hegy lábánál fekszenek. Az i.sz. 427-ben épült óriási komplexum a hatalmas Goguryeo (Kogurjo) Királyság királyi palotája volt, miután a fővárost északabbról Phenjanba költöztették. A palota fénykorában egy négyzet alakú, magas falakkal körülvett, 52 épületből álló monumentális struktúra volt, amelynek méretei a kínai császári palotákkal vetekedtek. Az épület a 7. században pusztult el, amikor a Silla és Tang szövetséges erők legyőzték a Goguryeo birodalmat. Ma a helyszínen csak az alapkövek és a rekonstruált elrendezési tervek láthatók, de régészeti szempontból felbecsülhetetlen értékű a korabeli építészet tanulmányozásában. Plizio tanterv: Történelem K6 — királyi udvarok és ókori palotaépítészet.",
+      "factsAdvanced": [
+        "Az Anhak Palota i.sz. 427-től a Goguryeo Királyság központja volt.",
+        "A palotaegyüttes területe meghaladta a 380 000 négyzetmétert.",
+        "A komplexum 52 különálló pavilont és épületet foglalt magába.",
+        "A 7. századi háborúk (Silla-Tang invázió) során földig rombolták.",
+        "Az észak-koreai régészek az 1950-es években tárták fel a romokat.",
+        "A palota elrendezése erős kínai építészeti hatást (feng shui) mutat."
+      ]
+    }
+  ]
+}

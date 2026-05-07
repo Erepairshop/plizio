@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bs-grand-bahama-shipyard-economic-v2",
+      "descriptionAdvanced": "Die Grand Bahama Shipyard in Freeport ist eine der weltweit führenden Einrichtungen für die Reparatur und Modernisierung von Kreuzfahrtschiffen. Ihre strategische Lage nahe der wichtigsten Schifffahrtsrouten der Karibik macht sie zu einem unverzichtbaren Partner für die internationale maritime Industrie. Die Werft verfügt über riesige Trockendocks, die selbst die größten Schiffe der Welt aufnehmen können. Wirtschaftlich gesehen ist sie einer der größten Arbeitgeber auf Grand Bahama und ein bedeutender Devisenbringer. Die hochspezialisierten technischen Dienstleistungen, die hier angeboten werden, reichen von komplexen Maschinenreparaturen bis hin zu luxuriösen Innenausbauten. Die Werft ist ein Musterbeispiel für industrielle Exzellenz und technisches Know-how in der Region.",
+      "factsAdvanced": [
+        "Weltmarktführer bei Kreuzfahrtschiff-Reparaturen",
+        "Größte Werftanlage in der Karibikregion",
+        "Besitzt zwei der weltgrößten Schwimm-Trockendocks",
+        "Zentraler Wirtschaftsmotor für Grand Bahama",
+        "Spezialisiert auf High-Tech-Modernisierungen",
+        "Beschäftigt Tausende von Fachkräften und Ingenieuren"
+      ]
+    },
+    {
+      "id": "bs-freeport-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Freeport Industrial Park ist das Herzstück der industriellen Diversifizierung auf Grand Bahama und profitiert maßgeblich vom Status der Insel als Freihandelszone unter dem Hawksbill Creek Agreement. Das Areal beherbergt eine Vielzahl internationaler Unternehmen aus den Bereichen Pharmazeutik, Logistik und Fertigung. Durch die Steuerbefreiungen und die Nähe zum Containerhafen bietet der Park ideale Bedingungen für exportorientierte Unternehmen. Er spielt eine entscheidende Rolle bei der Schaffung von qualifizierten Arbeitsplätzen außerhalb des Tourismussektors. Der Industrial Park symbolisiert den modernen, industriellen Geist von Freeport und ist ein wesentlicher Faktor für die wirtschaftliche Resilienz der nördlichen Bahamas gegenüber globalen Marktschwankungen.",
+      "factsAdvanced": [
+        "Teil der Freihandelszone von Freeport",
+        "Zentrum für pharmazeutische Produktion und Logistik",
+        "Profitiert vom Hawksbill Creek Agreement (Steuervorteile)",
+        "Motor für die industrielle Diversifizierung",
+        "Strategische Lage nahe dem internationalen Flughafen",
+        "Sitz zahlreicher multinationaler Konzerne"
+      ]
+    },
+    {
+      "id": "bs-west-end-ferry-port-economic-v2",
+      "descriptionAdvanced": "Der West End Ferry Port ist ein historisch gewachsener und ökonomisch wichtiger Grenz- und Handelspunkt an der westlichen Spitze von Grand Bahama. Aufgrund seiner unmittelbaren Nähe zu Florida (nur ca. 90 km entfernt) dient er als primäres Tor für private Yachten und kommerzielle Schnellfähren aus den USA. Der Hafen ist ein bedeutender Umschlagplatz für den Kleintourismus und den privaten Warenverkehr. Wirtschaftlich profitiert die lokale Gemeinschaft durch Dienstleistungen im Bereich Zollabfertigung, Yachthandel und Gastronomie. West End hat eine lange Tradition als strategischer Außenposten, die bis in die Zeit der Prohibition zurückreicht. Heute sichert der Hafen die schnelle Anbindung der nördlichen Bahamas an das amerikanische Festland und fördert den grenzüberschreitenden Handel.",
+      "factsAdvanced": [
+        "Nächster Punkt der Bahamas zum US-Festland",
+        "Wichtiges Tor für den internationalen Yachttourismus",
+        "Offizieller Einreisehafen mit Zoll- und Einwanderungsdienst",
+        "Historischer Standort für transatlantischen Handel",
+        "Knotenpunkt für private Warenimporte",
+        "Wirtschaftliches Zentrum der West-End-Region"
+      ]
+    },
+    {
+      "id": "bs-marsh-harbour-boat-yard-economic-v2",
+      "descriptionAdvanced": "Die Marsh Harbour Boat Yard ist das nautische Servicezentrum der Abaco-Inseln, die als das Segelmekka der Bahamas gelten. Angesichts der enormen Dichte an Freizeitbooten und Charterflotten in der Region erfüllt die Werft eine kritische wirtschaftliche Funktion. Sie bietet umfassende Reparatur-, Lager- und Wartungsdienste für Schiffe jeder Größe an. Nach dem Hurrikan Dorian spielte die Boat Yard eine zentrale Rolle beim Wiederaufbau der maritimen Infrastruktur. Die Werft sichert zahlreiche Facharbeitsplätze in den Bereichen Mechanik, Glasfasertechnik und Elektrik. Als ökonomischer Knotenpunkt unterstützt sie direkt den Chartertourismus, der die Haupteinnahmequelle der Abacos darstellt, und garantiert die Einsatzbereitschaft der lokalen Fischereiflotte.",
+      "factsAdvanced": [
+        "Größtes nautisches Servicezentrum der Abaco-Inseln",
+        "Zentrale Basis für die Wartung von Charterflotten",
+        "Kritische Infrastruktur für den maritimen Wiederaufbau",
+        "Spezialisierte Dienstleistungen für Segel- und Motoryachten",
+        "Wichtiger Arbeitgeber für technische Fachkräfte",
+        "Sichert den reibungslosen Ablauf des Bootstourismus"
+      ]
+    },
+    {
+      "id": "bs-man-o-war-cay-boatbuilders-economic-v2",
+      "descriptionAdvanced": "Die Bootsbauer von Man-O-War Cay repräsentieren ein jahrhundertealtes wirtschaftliches und kulturelles Erbe der Bahamas. Die Insel ist weltberühmt für ihre handwerklich gefertigten Holzboote, die ohne formale Pläne, aber mit höchster Präzision gebaut werden. Diese Tradition ist nicht nur ein Museumsstück, sondern ein lebendiger Wirtschaftszweig, der maßgeschneiderte Schiffe für Sammler und Fischer produziert. Die Werften auf Man-O-War Cay haben den Ruf, die robustesten und seetüchtigsten Boote der Karibik zu bauen. Die wirtschaftliche Bedeutung liegt in der Kombination aus hochwertigem Nischenhandwerk und maritimem Tourismus. Der Ort bewahrt eine Arbeitsmoral und Techniken, die in der modernen Welt selten geworden sind, und zieht damit Kunden aus aller Welt an.",
+      "factsAdvanced": [
+        "Weltweites Zentrum für traditionellen Holzschiffbau",
+        "Bekannt für handgefertigte Boote ohne Baupläne",
+        "Sitz renommierter Bootsbau-Dynastien (z.B. Albury)",
+        "Wirtschaftsfaktor durch exklusives Nischenhandwerk",
+        "Bewahrung loyalistischer Handwerkstraditionen",
+        "Magnet für Liebhaber klassischer Schiffsbaukunst"
+      ]
+    },
+    {
+      "id": "bs-treasure-cay-marina-economic-v2",
+      "descriptionAdvanced": "Die Treasure Cay Marina ist ein zentraler wirtschaftlicher Pfeiler für den Norden von Great Abaco. Sie fungiert als integrativer Bestandteil eines der größten Resort-Komplexe der Inselgruppe. Die Marina bietet geschützte Liegeplätze und eine umfassende Versorgungsinfrastruktur, die Segler von den US-Ostküsten anzieht. Die ökonomische Bedeutung liegt in der Synergie zwischen maritimem Tourismus und Immobilienwirtschaft. Die Marina ist der Ausgangspunkt für zahlreiche kommerzielle Aktivitäten, von Charterfischen bis hin zu Tauchexpeditionen. Als wichtiger Arbeitgeber in der Region sichert sie den Lebensunterhalt vieler Familien in den Bereichen Gastgewerbe und nautische Dienstleistungen. Trotz natürlicher Herausforderungen bleibt sie ein Symbol für die touristische Vitalität der Abacos.",
+      "factsAdvanced": [
+        "Zentraler Segelknotenpunkt im Norden der Abacos",
+        "Teil eines bedeutenden integrierten Resort-Projekts",
+        "Wichtiger Standort für Immobilieninvestitionen",
+        "Zentrum für Sportfischen und Charteraktivitäten",
+        "Sichert die Versorgung der nördlichen Cays",
+        "Motor für lokale Dienstleistungsjobs"
+      ]
+    },
+    {
+      "id": "bs-green-turtle-cay-dock-economic-v2",
+      "descriptionAdvanced": "Das Dock von Green Turtle Cay ist die unverzichtbare ökonomische Nabelschnur dieser isolierten Inselgemeinschaft. Da alle Waren – von Lebensmitteln bis Baumaterialien – über den Seeweg kommen müssen, ist die Effizienz dieses Hafens entscheidend für die Stabilität der lokalen Wirtschaft. Er dient als Anlegestelle für das Postboot, Versorgungsschiffe und Wassertaxis. Darüber hinaus ist das Dock das Tor für den Tourismus, der die Haupteinnahmequelle der Insel darstellt. Die wirtschaftliche Aktivität rund um das Dock umfasst Logistik, Transport und Handel. In einer Umgebung, in der Golfkarren das Hauptverkehrsmittel sind, stellt das Dock den entscheidenden Übergangspunkt zur globalen Außenwelt dar und sichert den Fortbestand der historischen Siedlung New Plymouth.",
+      "factsAdvanced": [
+        "Kritischer Versorgungsknotenpunkt für Green Turtle Cay",
+        "Hauptanlegestelle für Postboote und Fracht",
+        "Logistisches Zentrum für den regionalen Handel",
+        "Tor für den Inseltourismus und Chartergäste",
+        "Basis der lokalen Warenverteilung",
+        "Lebenswichtig für die Gemeinde New Plymouth"
+      ]
+    },
+    {
+      "id": "bs-spanish-wells-lobster-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Spanish Wells ist das ökonomische Kraftzentrum der bahamaischen Fischereiindustrie. Die Bewohner von Spanish Wells betreiben die modernste und erfolgreichste Fischereiflotte des Landes, die auf den Export von karibischen Langusten (Spiny Lobster) spezialisiert ist. Dieser Hafen generiert jährlich Millionenumsätze und trägt maßgeblich zum Bruttoinlandsprodukt der Bahamas bei. Die wirtschaftliche Struktur ist durch hochgradig organisierte Kooperativen und modernste Kühlkettenlogistik geprägt. Im Gegensatz zu vielen anderen Inseln, die vom Tourismus abhängig sind, basiert der Wohlstand von Spanish Wells auf produktivem Handwerk und internationalem Handel. Der Hafen ist das pulsierende Herz einer Gemeinschaft, die für ihre Arbeitsmoral und nautische Expertise weltbekannt ist.",
+      "factsAdvanced": [
+        "Reichster Fischereihafen der Bahamas",
+        "Zentrum des karibischen Langusten-Exports",
+        "Heimat der modernsten Fischereiflotte des Landes",
+        "Wirtschaftlich unabhängig vom Massentourismus",
+        "Sitz führender Fischereikooperativen",
+        "Bedeutender Devisenbringer durch Exporthandel"
+      ]
+    },
+    {
+      "id": "bs-north-eleuthera-fish-plant-economic-v2",
+      "descriptionAdvanced": "Die Fish Plant in North Eleuthera ist eine zentrale Einrichtung für die Verarbeitung und den Vertrieb von Meeresfrüchten in der nördlichen Region. Sie dient als Sammelstelle für die zahlreichen Kleinfischer aus den umliegenden Gemeinden und Cays. Durch die Bereitstellung von Eis, Kühlung und Logistik ermöglicht sie es den lokalen Fischern, ihre Produkte sicher zu lagern und zu marktüblichen Preisen zu verkaufen. Ökonomisch gesehen stabilisiert die Anlage die Einkommen in den ländlichen Gebieten von Eleuthera und sichert die Einhaltung von Qualitätsstandards für den lokalen und internationalen Markt. Die Fabrik ist ein wichtiges Glied in der Nahrungsmittelkette der Insel und fördert eine nachhaltige Nutzung der Meeresressourcen durch strukturierte Vermarktung.",
+      "factsAdvanced": [
+        "Zentrales Verarbeitungszentrum für Meeresfrüchte",
+        "Wichtiger Abnehmer für lokale Kleinfischer",
+        "Garant für Kühlketten und Qualitätsstandards",
+        "Wirtschaftsmotor für ländliche Gemeinden",
+        "Standort für nachhaltige Fischereiwirtschaft",
+        "Sichert die regionale Versorgung mit Fischprodukten"
+      ]
+    },
+    {
+      "id": "bs-governors-harbour-pineapple-economic-v2",
+      "descriptionAdvanced": "Die Ananas-Industrie in Governor's Harbour hat eine tiefe historische und ökonomische Bedeutung für Eleuthera. Einst war die Region der weltweit größte Exporteur von Ananas, eine Tradition, die heute im kleineren, aber feinen Rahmen fortgeführt wird. Die wirtschaftliche Aktivität umfasst nicht nur den Anbau der berühmten 'Eleuthera Pineapple', sondern auch deren Veredelung zu lokalen Produkten und den damit verbundenen Agrotourismus. Jährliche Erntefeste kurbeln die lokale Wirtschaft an und bewahren ein wertvolles kulturelles Erbe. Der Ananas-Sektor ist ein Symbol für die landwirtschaftliche Resilienz der Insel und bietet eine wichtige Alternative zur Abhängigkeit vom reinen Strandtourismus. Die süßen Früchte sind heute ein begehrtes Nischenprodukt mit hohem Markenwert.",
+      "factsAdvanced": [
+        "Einstiges Welthauptquartier des Ananas-Exports",
+        "Zentrum für hochwertigen Agrotourismus",
+        "Wichtigster Standort für die 'Eleuthera Pineapple'",
+        "Motor für lokale Handwerksproduktion (Marmeladen, etc.)",
+        "Symbol der landwirtschaftlichen Identität der Insel",
+        "Fördert nachhaltige kleinbäuerliche Strukturen"
+      ]
+    },
+    {
+      "id": "bs-rock-sound-salt-works-economic-v2",
+      "descriptionAdvanced": "Die Salzwerke von Rock Sound auf Eleuthera sind ein Zeugnis einer der ältesten Industriezweige der Bahamas. Obwohl die großflächige industrielle Gewinnung heute nicht mehr die Dimensionen vergangener Jahrhunderte erreicht, bleibt die Salzpfanne ein wichtiger Teil der lokalen Ressourcenökonomie. Salz war über Jahrhunderte das 'weiße Gold' der Bahamas, und Rock Sound war ein zentraler Umschlagplatz. Heute hat das Gebiet neben der verbliebenen handwerklichen Gewinnung eine große Bedeutung für den Ökotourismus und die Umweltbildung. Die ökonomische Relevanz liegt in der Bewahrung der Flächen für zukünftige nachhaltige Nutzungen und als Magnet für Naturinteressierte, die die einzigartigen Ökosysteme der Salzseen erkunden wollen. Es ist ein Ort, an dem Wirtschaftsgeschichte und Naturschutz aufeinandertreffen.",
+      "factsAdvanced": [
+        "Historisch bedeutendes Zentrum der Salzgewinnung",
+        "Teil der Industriegeschichte von Eleuthera",
+        "Standort einzigartiger hypersaliner Ökosysteme",
+        "Wichtiger Punkt für den ökologischen Tourismus",
+        "Einstiges Hauptexportgut der Region",
+        "Zeugnis der loyalistischen Wirtschaftsstruktur"
+      ]
+    },
+    {
+      "id": "bs-tarpum-bay-farming-depot-economic-v2",
+      "descriptionAdvanced": "Das Farming Depot in Tarpum Bay ist das landwirtschaftliche Herz von Süd-Eleuthera. Es fungiert als zentrale Drehscheibe für den Vertrieb von Saatgut, Düngemitteln und Ausrüstung an die lokalen Bauern. In einer Zeit, in der die Bahamas verstärkt auf Ernährungssicherheit setzen, spielt dieses Depot eine strategische Rolle bei der Förderung der Binnenproduktion. Es dient auch als Sammelstelle für Ernteerzeugnisse, die von hier aus auf die Märkte in Nassau transportiert werden. Die wirtschaftliche Bedeutung liegt in der Unterstützung kleinbäuerlicher Betriebe, die das Rückgrat der ländlichen Gemeinschaft bilden. Tarpum Bay verbindet so traditionelle Landwirtschaft mit moderner Logistik und trägt zur wirtschaftlichen Vielfalt der Insel bei, abseits der touristischen Hotspots.",
+      "factsAdvanced": [
+        "Logistikzentrum für die Landwirtschaft in Süd-Eleuthera",
+        "Knotenpunkt für die regionale Nahrungsmittelversorgung",
+        "Fördert die nationale Strategie zur Ernährungssicherheit",
+        "Zentrale Sammelstelle für lokale Ernteprodukte",
+        "Sichert die Existenzgrundlage kleiner Farmbetriebe",
+        "Wichtiger Arbeitgeber im Agrarsektor"
+      ]
+    },
+    {
+      "id": "bs-george-town-marina-economic-v2",
+      "descriptionAdvanced": "Die Marina von George Town auf Great Exuma ist das wirtschaftliche Epizentrum des Segelsports in den südlichen Bahamas. Während der Wintermonate beherbergt sie und der angrenzende Elizabeth Harbour hunderte von Yachten, was einen massiven Zufluss an Kaufkraft für die lokale Wirtschaft bedeutet. Die ökonomische Wirkung reicht von Liegeplatzgebühren bis hin zu massiven Umsätzen in lokalen Supermärkten, Restaurants und technischen Werkstätten. Die Marina ist der wichtigste Dienstleister für Langfahrtsegler und Charterflotten. Sie organisiert auch soziale und sportliche Events wie die Family Island Regatta, die ein nationales Highlight darstellt. George Town Marina ist somit nicht nur ein Hafen, sondern ein multifunktionaler Wirtschaftsmotor, der die gesamte Region Exuma antreibt und international vernetzt.",
+      "factsAdvanced": [
+        "Wichtigster Yacht-Hub der südlichen Bahamas",
+        "Zentrum der winterlichen Segel-Saison",
+        "Motor für den Einzelhandel und Gastronomie in George Town",
+        "Basis für die berühmte Family Island Regatta",
+        "Knotenpunkt für maritime Dienstleistungen",
+        "Signifikanter Beitrag zum lokalen BIP von Exuma"
+      ]
+    },
+    {
+      "id": "bs-rolleville-fisheries-coop-economic-v2",
+      "descriptionAdvanced": "Die Fisheries Cooperative in Rolleville ist ein herausragendes Beispiel für gemeinschaftsbasiertes Wirtschaften auf Great Exuma. Durch den Zusammenschluss lokaler Fischer in einer Kooperative wird die Verhandlungsmacht gestärkt und der Zugang zu moderner Verarbeitungsausrüstung ermöglicht. Wirtschaftlich gesehen sichert die Kooperative faire Preise für den Fang und minimiert Verluste durch professionelle Kühlung und Lagerung. Sie ist ein entscheidender Faktor für die soziale Stabilität im Norden der Insel, indem sie nachhaltige Arbeitsplätze schafft und die traditionelle Fischerei in ein modernes Geschäftsmodell überführt. Die Kooperative dient auch als Ausbildungsstätte für junge Fischer und fördert verantwortungsvolle Fangpraktiken, was die langfristige Sicherung der Meeresressourcen und damit der lokalen Wirtschaft garantiert.",
+      "factsAdvanced": [
+        "Modellhaftes genossenschaftliches Unternehmen",
+        "Sichert faire Einkommen für lokale Fischer",
+        "Zentrum für Fischverarbeitung im Norden Exumas",
+        "Fördert nachhaltige Fangmethoden",
+        "Wichtiger Faktor für die regionale Ernährungssicherheit",
+        "Stärkt den sozialen Zusammenhalt in Rolleville"
+      ]
+    },
+    {
+      "id": "bs-black-point-dock-economic-v2",
+      "descriptionAdvanced": "Das Dock von Black Point ist ein zentraler wirtschaftlicher Knotenpunkt in den mittleren Exuma Cays und bekannt als einer der seglerfreundlichsten Häfen der Bahamas. Seine ökonomische Bedeutung resultiert aus der strategischen Lage zwischen Staniel Cay und George Town. Das Dock ermöglicht die Anlandung von Versorgungsgütern für die größte Gemeinschaft in den Cays und ist ein Magnet für hunderte von Yachten jährlich. Die lokale Wirtschaft hat sich perfekt auf die Bedürfnisse der Segler eingestellt, mit Dienstleistungen wie Wäschereien, Bäckereien und technischem Support. Black Point Dock ist ein Symbol für eine erfolgreiche, autarke Inselökonomie, die den Tourismus nutzt, um traditionelle Lebensweisen zu finanzieren und moderne Infrastruktur in einer abgelegenen Region aufrechtzuerhalten.",
+      "factsAdvanced": [
+        "Strategischer Versorgungshafen in den mittleren Exumas",
+        "Beliebtester Stopp für Langfahrtsegler (Cruiser)",
+        "Motor für lokale Kleingewerbe (Wäschereien, Gastronomie)",
+        "Logistisches Zentrum für Great Guana Cay",
+        "Fördert den direkten Handel mit lokalen Produzenten",
+        "Wichtiger Anlegepunkt für das regionale Postboot"
+      ]
+    },
+    {
+      "id": "bs-long-island-salt-works-economic-v2",
+      "descriptionAdvanced": "Die Salzwerke von Long Island blicken auf eine glanzvolle industrielle Vergangenheit zurück und sind heute ein wichtiger Standort für ökologische Ressourcenwirtschaft. In der Blütezeit war Long Island einer der größten Salzproduzenten für den US-Markt. Heute wird die Anlage für nachhaltige Gewinnung und als bedeutendes Umweltreservat genutzt. Die wirtschaftliche Relevanz hat sich gewandelt: Neben der verbliebenen Produktion ist das Gebiet ein Hotspot für spezialisierten Naturtourismus. Die riesigen Verdunstungsbecken bieten einen einzigartigen Lebensraum für Zugvögel und Flamingos, was Besucher aus aller Welt anzieht. Long Island profitiert so von der Umwandlung alter Industrieanlagen in wertvolle Öko-Assets, die das Image der Insel als naturbelassenes Reiseziel stärken und lokale Guides und Dienstleister beschäftigen.",
+      "factsAdvanced": [
+        "Einstiger Gigant der karibischen Salzproduktion",
+        "Monument der bahamaischen Industriegeschichte",
+        "Wichtiger Standort für spezialisierten Ökotourismus",
+        "Lebensraum für große Flamingokolonien",
+        "Beispiel für den Strukturwandel von Industrie zu Natur",
+        "Prägt die Landschaft und Wirtschaft des Südens"
+      ]
+    },
+    {
+      "id": "bs-deadmans-cay-agri-depot-economic-v2",
+      "descriptionAdvanced": "Das Agri-Depot in Deadman's Cay ist das pulsierende Zentrum der Landwirtschaft auf Long Island, einer Insel, die traditionell als 'Garten der Bahamas' bekannt ist. Dieses Depot erfüllt eine Doppelfunktion: Es versorgt die lokalen Bauern mit notwendigen Betriebsmitteln und dient gleichzeitig als Qualitätskontroll- und Versandzentrum für die berühmten Long Island-Produkte wie Bananen, Melonen und Zwiebeln. Wirtschaftlich ist es der Schlüssel zur Erschließung der Märkte in Nassau für die Produzenten der Insel. Durch koordinierte Logistik wird die Verschwendung von Lebensmitteln reduziert und die Wertschöpfung vor Ort erhöht. Das Depot ist ein wesentlicher Bestandteil der Bemühungen, Long Island als führenden Agrarproduzenten des Landes zu revitalisieren und jungen Menschen Perspektiven im Agrarsektor zu bieten.",
+      "factsAdvanced": [
+        "Landwirtschaftliches Drehkreuz von Long Island",
+        "Zentraler Marktplatz für regionale Erzeugnisse",
+        "Sichert den Warenfluss zur Hauptstadt Nassau",
+        "Standort für Agrarberatung und Qualitätsmanagement",
+        "Fördert den Export von Premium-Inselfrüchten",
+        "Kernstück der lokalen Ernährungswirtschaft"
+      ]
+    },
+    {
+      "id": "bs-andros-crab-plant-economic-v2",
+      "descriptionAdvanced": "Die Andros Crab Plant in Central Andros ist eine spezialisierte wirtschaftliche Einrichtung, die die reiche Krabbenpopulation der Insel nutzt. Andros ist berühmt für seine Landkrabben, und die Fabrik ermöglicht die professionelle Verarbeitung und Verpackung für den nationalen Konsum und den Export. Diese Anlage bietet eine wichtige Einkommensquelle für 'Crabber', die während der Saison Tausende von Tieren in den Wäldern sammeln. Die ökonomische Bedeutung liegt in der Industrialisierung einer traditionellen Sammeltätigkeit, wodurch höhere Hygienestandards und eine bessere Marktgängigkeit erreicht werden. Die Fabrik ist ein Symbol für die Nutzung lokaler, natürlicher Ressourcen zur Stärkung der ländlichen Ökonomie auf der größten Insel der Bahamas und trägt zur kulinarischen Marke 'Andros' bei.",
+      "factsAdvanced": [
+        "Einzige spezialisierte Krabbenverarbeitungsanlage",
+        "Wirtschaftliches Zentrum der Krabbensaison auf Andros",
+        "Schafft saisonale und dauerhafte Arbeitsplätze",
+        "Professionalisiert den traditionellen Krabbenfang",
+        "Wichtiger Lieferant für die Gastronomie in Nassau",
+        "Fördert den Schutz der Krabbenhabitate durch Management"
+      ]
+    },
+    {
+      "id": "bs-congo-town-dock-economic-v2",
+      "descriptionAdvanced": "Das Dock von Congo Town ist das logistische Rückgrat für South Andros. Da dieser Teil der Insel geographisch isoliert ist, hängt fast die gesamte ökonomische Aktivität von der Effizienz dieses Hafens ab. Er ist die primäre Anlaufstelle für das Postboot und Frachtschiffe, die Treibstoff, Lebensmittel und Fahrzeuge liefern. Darüber hinaus ist das Dock entscheidend für die Fischereiindustrie der Region, da es als Basis für größere Boote dient, die das Barriereriff befischen. Die wirtschaftliche Struktur von Congo Town ist um das Dock herum aufgebaut, wobei Transport- und Logistikdienstleistungen die Haupteinnahmequellen darstellen. In einer Region, die für Ökotourismus und Bonefishing bekannt ist, stellt das Dock die notwendige Infrastruktur bereit, um Gäste und Ausrüstung sicher auf die Insel zu bringen.",
+      "factsAdvanced": [
+        "Zentrales Versorgungsdock für South Andros",
+        "Lebenswichtige Anbindung an das nationale Postboot-Netz",
+        "Knotenpunkt für den Import von Treibstoff und Gütern",
+        "Unterstützt die regionale Fischereiwirtschaft",
+        "Logistische Basis für den lokalen Ökotourismus",
+        "Sichert die Grundversorgung der südlichen Gemeinden"
+      ]
+    },
+    {
+      "id": "bs-kemps-bay-marina-economic-v2",
+      "descriptionAdvanced": "Die Marina von Kemp's Bay ist ein aufstrebendes ökonomisches Projekt im Süden von Andros, das darauf abzielt, den High-End-Angeltourismus in dieser unberührten Region zu fördern. Sie bietet spezialisierte Dienstleistungen für Bonefishing-Guides und private Fischerboote. Die wirtschaftliche Bedeutung dieser Marina liegt in der Erschließung neuer Einkommensquellen für eine Region, die traditionell von einfacher Fischerei lebte. Durch die Bereitstellung von Liegeplätzen, Treibstoff und Wartung zieht sie kaufkräftige Sportfischer an, die in lokalen Lodges übernachten und lokale Guides buchen. Die Marina fungiert somit als Katalysator für einen nachhaltigen, qualitätsorientierten Tourismus, der die empfindlichen Ökosysteme der Andros-Flats respektiert und gleichzeitig moderne Arbeitsplätze im Servicebereich schafft.",
+      "factsAdvanced": [
+        "Spezialisierte Marina für Sportfischer und Guides",
+        "Katalysator für nachhaltigen Tourismus in South Andros",
+        "Wichtiger Lieferant für Schiffstreibstoff in der Region",
+        "Zentrum der lokalen Bonefishing-Infrastruktur",
+        "Fördert die Entwicklung von Öko-Lodges",
+        "Sichert Arbeitsplätze im maritimen Dienstleistungssektor"
+      ]
+    },
+    {
+      "id": "bs-matthew-town-salt-pans-economic-v2",
+      "descriptionAdvanced": "Die Salzpfannen von Matthew Town auf Great Inagua beherbergen eines der größten Solarsalzwerke der Welt, betrieben von Morton Salt. Diese gigantische Industrieanlage ist der alleinige wirtschaftliche Motor der Insel und einer der wichtigsten Devisenbringer der Bahamas. Die Verdunstung von Meerwasser in riesigen Pfannen produziert jährlich über eine Million Tonnen Salz, das weltweit exportiert wird. Die ökonomische Bedeutung ist immens: Morton Salt ist der Hauptarbeitgeber für fast die gesamte Bevölkerung von Matthew Town. Darüber hinaus hat die Salzproduktion eine einzigartige ökologische Synergie geschaffen, da die Pfannen den Lebensraum für die größte Flamingokolonie der Karibik bieten, was wiederum den Ökotourismus antreibt. Matthew Town ist ein weltweit seltenes Beispiel für das perfekte Zusammenspiel von Großindustrie und Naturschutz.",
+      "factsAdvanced": [
+        "Sitz eines der weltweit größten Solarsalzwerke (Morton Salt)",
+        "Alleiniger wirtschaftlicher Motor von Great Inagua",
+        "Produktion von über 1 Million Tonnen Salz jährlich",
+        "Hauptarbeitgeber der gesamten Inselbevölkerung",
+        "Einzigartige Symbiose zwischen Industrie und Flamingoschutz",
+        "Strategisch bedeutender Exporthafen für Rohsalz"
+      ]
+    },
+    {
+      "id": "bs-abrahams-bay-trading-post-economic-v2",
+      "descriptionAdvanced": "Der Trading Post in Abraham's Bay ist das wirtschaftliche Zentrum der abgelegenen Insel Mayaguana. In einer Region, die nur selten von Schiffen angelaufen wird, erfüllt dieser Handelsposten eine kritische Funktion als Versorger, Bankersatz und Kommunikationsknotenpunkt. Hier werden die wenigen Exportgüter der Insel, wie handgefertigtes Kunsthandwerk und getrockneter Fisch, gesammelt und für den Versand nach Nassau vorbereitet. Die ökonomische Bedeutung liegt in der Aufrechterhaltung eines funktionierenden Tausch- und Warenhandels in einer der isoliertesten Gemeinschaften des Landes. Der Trading Post ist der Ort, an dem die lokale Kaufkraft konzentriert wird und wo die Versorgungssicherheit der Inselbewohner gewährleistet wird. Er ist das Herz einer widerstandsfähigen Lokalökonomie, die auf gegenseitigem Vertrauen und traditionellen Handelswegen basiert.",
+      "factsAdvanced": [
+        "Zentraler Handelspunkt der isolierten Insel Mayaguana",
+        "Kritische Einrichtung für die Grundversorgung",
+        "Sammelstelle für lokale Exportprodukte",
+        "Wichtigster sozialer und wirtschaftlicher Treffpunkt",
+        "Sichert den Warenfluss in einer Randregion",
+        "Symbol für die wirtschaftliche Resilienz der Out Islands"
+      ]
+    },
+    {
+      "id": "wades-green-plantation-history-v2",
+      "descriptionAdvanced": "Wade's Green Plantation auf North Caicos (geografisch und historisch eng mit den Bahamas verknüpft) ist eine der am besten erhaltenen loyalistischen Plantagenruinen in der Region. Gegründet von Wade Stubbs im späten 18. Jahrhundert, war sie einst ein Zentrum des Baumwollanbaus. Die Ruinen umfassen das Herrenhaus, Sklavenquartiere und Lagerschuppen, die einen erschütternden und zugleich faszinierenden Einblick in die koloniale Vergangenheit bieten. Die Plantage steht für die Ära der Loyalisten, die nach der amerikanischen Unabhängigkeit auf die Inseln flohen und die Plantagenwirtschaft etablierten. Heute ist sie eine bedeutende historische Stätte, die Besuchern hilft, die komplexe soziale Struktur und die wirtschaftlichen Grundlagen der bahamaischen Geschichte im 18. Jahrhundert zu verstehen.",
+      "factsAdvanced": [
+        "Herausragend erhaltene loyalistische Plantagenanlage",
+        "Gegründet 1789 durch den Loyalisten Wade Stubbs",
+        "Einstiges Zentrum für den Anbau von Sea Island Baumwolle",
+        "Umfasst Ruinen von Herrenhaus und Sklavenunterkünften",
+        "Wichtiger Ort für die Erforschung der Kolonialgeschichte",
+        "Verwaltet vom National Trust als historisches Denkmal"
+      ]
+    },
+    {
+      "id": "lucayan-indian-burial-ground-history-v2",
+      "descriptionAdvanced": "Die Lucayan Indian Burial Grounds, oft in Höhlensystemen wie dem im Lucayan National Park gefunden, sind heilige Stätten der Ureinwohner der Bahamas. Diese archäologischen Fundorte enthalten Überreste der Lucayaner, der ersten Bewohner des Archipels, die vor der Ankunft Kolumbus' hier lebten. Die Bestattungspraktiken in wassergefüllten Höhlen (Blue Holes) oder trockenen Kalksteinhöhlen zeugen von einer tiefen spirituellen Verbindung zum Wasser und zur Unterwelt. Viele dieser Stätten wurden erst spät entdeckt und bieten heute unschätzbare wissenschaftliche Erkenntnisse über die Ernährung, Gesundheit und Kultur dieses untergegangenen Volkes. Sie sind stille Denkmäler einer Zivilisation, die innerhalb weniger Jahrzehnte nach dem europäischen Kontakt ausgelöscht wurde, und mahnen zum Schutz des indigenen Erbes.",
+      "factsAdvanced": [
+        "Prähistorische Grabstätten der Lucayaner-Ureinwohner",
+        "Oft in spektakulären Blue Holes oder Höhlen gelegen",
+        "Wichtige Quelle für die präkolumbianische Forschung",
+        "Spiegeln die komplexe Spiritualität der Ureinwohner wider",
+        "Fundorte von Artefakten wie Kanus und Keramik",
+        "Streng geschützte nationale Kulturerbestätten"
+      ]
+    },
+    {
+      "id": "grannies-pool-history-v2",
+      "descriptionAdvanced": "Grannies Pool auf Eleuthera ist eine natürliche Felsformation an der Küste, die seit Generationen eine tiefe soziale und historische Bedeutung für die lokale Gemeinschaft hat. Dieser natürliche 'Pool', geschützt vor der starken Brandung des Atlantiks durch massive Kalksteinfelsen, diente früher als sicherer Ort zum Baden, Wäschewaschen und für das Zusammenkommen der Dorfgemeinschaft. In der mündlichen Überlieferung der Insel ist Grannies Pool mit unzähligen Geschichten über das Familienleben und die Traditionen der Vorfahren verknüpft. Er ist ein Symbol für die enge Verbindung der Bahama-Insulaner mit ihrem maritimen Umfeld und die Nutzung natürlicher Ressourcen für den täglichen Bedarf. Heute ist er ein Ort der Erinnerung und ein beliebtes Ziel für Besucher, die die authentische Inselkultur und die raue Schönheit der Küste erleben wollen.",
+      "factsAdvanced": [
+        "Natürlicher Felsenpool mit historischer Nutzungsgeschichte",
+        "Traditioneller Treffpunkt für Generationen von Frauen",
+        "Symbol für die gemeinschaftliche Nutzung natürlicher Ressourcen",
+        "Wichtiger Ort in der mündlichen Überlieferung Eleutheras",
+        "Geschützt vor der gefährlichen Atlantikbrandung",
+        "Authentisches Zeugnis des ländlichen Inselalltags"
+      ]
+    }
+  ]
+}

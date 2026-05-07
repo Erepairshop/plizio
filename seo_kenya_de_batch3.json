@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "webuye-cities-v2",
+      "descriptionAdvanced": "Webuye, in der Kolonialzeit als Broderick Falls bekannt, ist eine Industriestadt im Bungoma County im Westen Kenias. Die Stadt verdankt ihre Existenz weitgehend dem gewaltigen Nzoia-Fluss, der hier über die beeindruckenden Nabuyole-Wasserfälle stürzt. Jahrzehntelang war Webuye das Zentrum der kenianischen Papierindustrie durch die gigantische Pan African Paper Mills Fabrik. Als die Fabrik 2009 kollabierte, geriet die Stadt in eine schwere wirtschaftliche Depression, aus der sie sich durch landwirtschaftliche Diversifizierung (Zuckerrohr und Mais) langsam wieder erholt. Kulturell ist Webuye eng mit dem Volk der Bukusu (Luhya) verbunden und dient als wichtiges Transitdreieck auf dem Weg zur ugandischen Grenze bei Malaba (Wirtschaft & Geografie K8).",
+      "factsAdvanced": [
+        "Während der britischen Kolonialzeit hieß die Stadt Broderick Falls.",
+        "Die berühmten Nabuyole-Wasserfälle am Nzoia-Fluss liegen direkt bei der Stadt.",
+        "Die Pan African Paper Mills war einst der größte Arbeitgeber in Westkenia.",
+        "Die Stadt erlebte durch den Konkurs der Papierfabrik 2009 einen massiven wirtschaftlichen Einbruch.",
+        "Webuye liegt strategisch wichtig an der Hauptverkehrsstraße nach Uganda.",
+        "Zuckerrohranbau ist heute der dominierende landwirtschaftliche Sektor in der Umgebung."
+      ]
+    },
+    {
+      "id": "kimilili-cities-v2",
+      "descriptionAdvanced": "Kimilili ist ein lebhaftes Agrar- und Handelszentrum im Bungoma County, eingebettet an den südlichen Ausläufern des mächtigen Mount Elgon. Die Stadt profitiert massiv von den extrem fruchtbaren vulkanischen Böden des Berges und den sehr zuverlässigen, hohen Niederschlägen. Kimilili ist das landwirtschaftliche Herzstück der Region und produziert riesige Mengen an Mais, Bohnen, Zwiebeln und zunehmend auch Kaffee. Historisch war die Region stark vom traditionellen Handel der lokalen Bukusu-Bevölkerung geprägt. Der nahegelegene Mount Elgon bietet eine dramatische Kulisse und versorgt die zahllosen Flüsse und Bäche, die durch das Gebiet fließen, ganzjährig mit frischem Wasser (Geografie K7).",
+      "factsAdvanced": [
+        "Kimilili liegt an den fruchtbaren südlichen Ausläufern des Mount Elgon.",
+        "Die Wirtschaft basiert fast ausschließlich auf intensiver Landwirtschaft (Mais, Bohnen).",
+        "Die Stadt ist das dominierende Handelszentrum für das nördliche Bungoma County.",
+        "Durch die vulkanischen Böden gehört die Region zu den ertragreichsten in Kenia.",
+        "Der Kibisi River und andere Bäche vom Mount Elgon bewässern das Gebiet.",
+        "Die Mehrheitsbevölkerung sind die Bukusu, eine ethnische Gruppe der Luhya."
+      ]
+    },
+    {
+      "id": "makuyu-cities-v2",
+      "descriptionAdvanced": "Makuyu ist eine landwirtschaftlich geprägte Stadt im Murang'a County in der Zentralregion Kenias. Die Region liegt an der wichtigen Thika-Nyeri Autobahn und zeichnet sich durch ein etwas trockeneres Klima aus als die höher gelegenen Teezonen von Murang'a. Historisch und bis in die Gegenwart ist Makuyu weltberühmt für seine endlosen Sisalplantagen und massiven Ananasfarmen, von denen viele zum multinationalen Konzern Del Monte gehören. Neben diesen Cash-Crops wird auf den Großfarmen auch Macadamia und Kaffee angebaut. Makuyu hat sich als logistisches Bindeglied zwischen Nairobi und dem zentralen kenianischen Hochland entwickelt und profitiert stark vom stetigen Ausbau der Straßeninfrastruktur (Wirtschaft K7).",
+      "factsAdvanced": [
+        "Makuyu ist bekannt für riesige, von Unternehmen geführte Ananas- und Sisalplantagen.",
+        "Die Stadt liegt an der strategischen Autobahn, die Nairobi mit Nyeri verbindet.",
+        "Im Vergleich zum Rest des Murang'a Countys ist das Klima hier spürbar trockener.",
+        "Ein großer Teil der Ländereien um Makuyu wird von Del Monte Kenya bewirtschaftet.",
+        "Neben Ananas sind Kaffee und Macadamia-Nüsse wichtige Exportgüter.",
+        "Die Stadt erlebte in jüngster Zeit ein starkes Wachstum im Immobilien- und Grundstückssektor."
+      ]
+    },
+    {
+      "id": "runyenjes-cities-v2",
+      "descriptionAdvanced": "Runyenjes ist eine malerische und historisch gewachsene Stadt im Embu County, die an den üppigen östlichen Hängen des Mount Kenya liegt. Die Stadt wurde nach einem berühmten vorkolonialen Chief der Embu, Chief Runyenje, benannt. Dank der vulkanischen Böden und der hohen, verlässlichen Niederschlagsmengen ist die Region extrem fruchtbar. Die lokalen Kleinbauern konzentrieren sich stark auf den Anbau von hochwertigem Arabica-Kaffee, Tee und Macadamia-Nüssen, die direkt für den Exportmarkt bestimmt sind. Die hügelige Topografie, die von tiefen Tälern und eiskalten Flüssen durchzogen ist, verleiht der Stadt einen ruhigen, ländlichen Charakter, der im starken Kontrast zu den Ebenen im Osten steht (Landwirtschaft & Geschichte K7).",
+      "factsAdvanced": [
+        "Die Stadt ist nach Chief Runyenje benannt, einem historischen Führer der Embu-Bevölkerung.",
+        "Runyenjes liegt an den kühlen, niederschlagsreichen Osthängen des Mount Kenya.",
+        "Arabica-Kaffee und Macadamia-Nüsse sind die wichtigsten landwirtschaftlichen Exportprodukte.",
+        "Die Stadt ist von tiefen Flusstälern geprägt, die Schmelzwasser vom Berg führen.",
+        "Die Region verfügt über eine der höchsten Dichten an Kleinbauern-Genossenschaften im County.",
+        "In der Nähe verläuft die wichtige Meru-Nairobi Landstraße."
+      ]
+    },
+    {
+      "id": "mariakani-cities-v2",
+      "descriptionAdvanced": "Mariakani ist ein boomendes Transit- und Industriezentrum, das an der Grenze zwischen dem Kilifi und dem Kwale County im Hinterland der kenianischen Küste liegt. Die Stadt ist landesweit bekannt für die Mariakani Weighbridge, eine der wichtigsten und geschäftigsten LKW-Waagen auf der Mombasa-Nairobi Autobahn. Aufgrund dieser Waage halten täglich tausende von Lastwagen in Mariakani, was eine florierende Dienstleistungs- und Handelswirtschaft (Restaurants, Werkstätten, Unterkünfte) entstehen ließ. Neben dem Logistiksektor entwickelt sich Mariakani zunehmend zu einem industriellen Vorort von Mombasa; Unternehmen der Stahl- und Zementindustrie haben sich hier angesiedelt, da das Land günstiger ist als im Hafengebiet. Die traditionelle Bevölkerung besteht vorwiegend aus der Giriama-Ethnie (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Mariakani ist berühmt für seine riesige LKW-Waage an der Mombasa-Nairobi Autobahn.",
+        "Die Stadt ist ein entscheidendes logistisches Nadelöhr im kenianischen Straßengüterverkehr.",
+        "In jüngster Zeit haben sich große Stahl- und Metallverarbeitungsfabriken hier angesiedelt.",
+        "Mariakani liegt an der historischen Route der Uganda-Eisenbahn.",
+        "Die Bevölkerung im Umland besteht hauptsächlich aus der Giriama-Untergruppe der Mijikenda.",
+        "Die Stadt liegt administrativ genau auf der Grenze zwischen Kwale und Kilifi County."
+      ]
+    },
+    {
+      "id": "awendo-cities-v2",
+      "descriptionAdvanced": "Awendo, oft als "Green Town" bezeichnet, liegt im Migori County im Südwesten Kenias und ist untrennbar mit der kenianischen Zuckerindustrie verbunden. Die gesamte Stadtentwicklung basiert auf der South Nyanza Sugar Company (SONY Sugar), deren massive Fabrik und endlose Zuckerrohrfelder das Landschaftsbild und die Wirtschaft dominieren. SONY Sugar wurde in den späten 1970er Jahren gegründet und bietet Tausenden von Einheimischen direkte und indirekte Beschäftigung. Awendo ist kulturell divers, obwohl es primär im Gebiet der Luo liegt, arbeiten hier Menschen aus allen Teilen des Landes. Die grünen Zuckerrohrplantagen erstrecken sich über weite Hügel und machen die Stadt zum landwirtschaftlichen Rückgrat des Countys (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Awendo ist weithin bekannt als das Zentrum der SONY Sugar Company.",
+        "Das 1979 gegründete Unternehmen ist der absolute wirtschaftliche Motor der Stadt.",
+        "Die Landschaft um Awendo ist fast vollständig von dichten Zuckerrohrplantagen geprägt.",
+        "Die Stadt liegt an der Hauptverkehrsstraße von Kisii zur tansanischen Grenze bei Isebania.",
+        "Die dominierende lokale Sprache und Kultur ist die der Luo.",
+        "Aufgrund der großen Plantagenflächen leidet die Region oft unter Landkonflikten."
+      ]
+    },
+    {
+      "id": "litein-cities-v2",
+      "descriptionAdvanced": "Litein ist eine florierende Agrarstadt im Kericho County, die tief in den üppigen Teegebieten des westlichen Rift Valleys liegt. Umgeben von atemberaubenden, sattgrünen Hügeln, profitiert Litein von einem kühlen Hochlandklima, das perfekte Bedingungen für den Anbau von schwarzem Tee bietet. Die Stadt wuchs in den letzten Jahrzehnten von einem kleinen Handelsposten zu einem wichtigen regionalen Zentrum heran, das von zahlreichen Tee-Fabriken der Kenya Tea Development Agency (KTDA) flankiert wird. Die Bevölkerung besteht primär aus den Kipsigis, die eine starke Tradition im genossenschaftlichen Kleinbauern-Modell pflegen. Litein ist nicht nur wirtschaftlich vital, sondern auch ein Zentrum für erstklassige Schulen und medizinische Einrichtungen in der Region (Wirtschaft K7).",
+      "factsAdvanced": [
+        "Litein liegt auf über 2.000 Metern im Herzen der kenianischen Tee-Highlands.",
+        "Die Wirtschaft basiert massiv auf Teeproduktion, insbesondere im Kleinbauern-Modell (KTDA).",
+        "Die Stadt ist das wichtigste kommerzielle Zentrum des südlichen Kericho Countys.",
+        "Das Litein Mission Hospital gehört zu den wichtigsten medizinischen Zentren der Region.",
+        "Die Bevölkerung gehört mehrheitlich zur Ethnie der Kipsigis (Kalenjin).",
+        "Kühle Temperaturen und ganzjährige Niederschläge prägen das Klima der Stadt."
+      ]
+    },
+    {
+      "id": "oyugis-cities-v2",
+      "descriptionAdvanced": "Oyugis ist die zweitgrößte Stadt im Homa Bay County und liegt an einer wichtigen Kreuzung in der dicht besiedelten Nyanza-Region nahe dem Viktoriasee. Anders als die direkt am See gelegenen Städte ist Oyugis ein landwirtschaftlicher Knotenpunkt. Die fruchtbaren Böden in der hügeligen Umgebung eignen sich hervorragend für den Anbau von Mais, Bohnen, Süßkartoffeln und Ziegelherstellung aus lokalem Ton. Historisch ist die Stadt bekannt für den riesigen Freiluftmarkt, der Händler aus Kisii, Kisumu und Homa Bay anzieht. Nahe der Stadt liegt der mystische "Simbi Nyaima", ein vulkanischer Kratersee, der in der Luo-Mythologie als Überrest eines versunkenen Dorfes gilt und heute seltene Vogelarten wie Flamingos anzieht (Geografie & Kultur K7).",
+      "factsAdvanced": [
+        "Oyugis liegt strategisch an der Hauptstraße, die Kisii mit Kisumu verbindet.",
+        "Die Stadt ist für ihren großen, traditionellen Open-Air-Markt bekannt.",
+        "In der Region um Oyugis wird intensiv Landwirtschaft und Ziegelbrennerei betrieben.",
+        "Der Simbi Nyaima See, nur wenige Kilometer entfernt, ist ein vulkanischer Kratersee.",
+        "Nach der lokalen Luo-Legende entstand der See, als ein Dorf in einem Sturm versank.",
+        "Die Kasipul-Kabondo Region um Oyugis hat eine sehr hohe Bevölkerungsdichte."
+      ]
+    },
+    {
+      "id": "mombasa-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Mombasa (Kilindini Harbour) ist das absolute logistische Herzstück Ostafrikas und Kenias mit Abstand wichtigstes wirtschaftliches Asset. Er ist der größte und geschäftigste Tiefseehafen an der ostafrikanischen Küste und dient nicht nur als primäres Tor für kenianische Im- und Exporte (wie Tee und Kaffee), sondern auch als unersetzlicher Transitpunkt für Binnenstaaten wie Uganda, Ruanda, Burundi und den Ostkongo. Der Hafen wird von der staatlichen Kenya Ports Authority (KPA) betrieben und wurde in den letzten Jahren durch massive Investitionen in neue Containerterminals und die Anbindung an die Standard Gauge Railway (SGR) drastisch modernisiert. Er ist der Motor der regionalen Lieferketten und ein Garant für tausende Arbeitsplätze (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Der Hafen von Mombasa ist der größte und wichtigste Hafen in ganz Ostafrika.",
+        "Er dient als Haupthafen für Binnenländer wie Uganda, Ruanda und den Südsudan.",
+        "Der Hafen liegt am natürlich geschützten Kilindini Harbour ("Ort des tiefen Wassers").",
+        "Die Kenya Ports Authority (KPA) betreibt die weitläufigen Container- und Frachtterminals.",
+        "Das Projekt wurde durch die neue Standard Gauge Railway (SGR) direkt mit dem Hinterland verbunden.",
+        "Kenias Hauptexportgüter, insbesondere Tee und Kaffee, werden hier verschifft."
+      ]
+    },
+    {
+      "id": "kisumu-port-economic-v2",
+      "descriptionAdvanced": "Der Binnenhafen von Kisumu am Viktoriasee ist von enormer strategischer Bedeutung für die East African Community (EAC). Er wurde 1901 als Endpunkt der Uganda-Eisenbahn (Port Florence) gegründet, um den Handel zwischen dem Binnenland und der Küste zu erleichtern. Nach Jahrzehnten des Verfalls wurde der Hafen kürzlich umfassend renoviert und wiedereröffnet, um den Seehandel mit Mwanza (Tansania) und Port Bell (Uganda) wiederzubeleben. Der Hafen schlägt hauptsächlich Treibstoffe, landwirtschaftliche Güter und Stückgut um. Durch den Ausbau von Fährverbindungen und den Bau einer neuen Öl-Verladeanlage soll der Kisumu Port die Transportkosten innerhalb der Region drastisch senken und die Abhängigkeit vom reinen Straßenverkehr verringern (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Der Hafen von Kisumu ist der wichtigste kenianische Binnenhafen am Viktoriasee.",
+        "Er wurde 1901 unter dem Namen Port Florence als Endpunkt der Eisenbahnlinie eröffnet.",
+        "Der Hafen verbindet Kenia auf dem Wasserweg direkt mit Tansania und Uganda.",
+        "Ein kürzlich modernisiertes Ölterminal soll den Treibstofftransport nach Uganda revolutionieren.",
+        "Nach Jahren des Verfalls erlebte der Hafen ab 2019 eine massive staatliche Sanierung.",
+        "Die MV Uhuru, ein legendäres kenianisches Fährschiff, operiert von diesem Hafen aus."
+      ]
+    },
+    {
+      "id": "lamu-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Lamu ist das Kernstück des gigantischen LAPSSET-Projekts (Lamu Port-South Sudan-Ethiopia Transport Corridor), des ehrgeizigsten Infrastrukturvorhabens in der Geschichte Kenias. Gelegen an der Manda-Bucht im Norden des Landes, wurde der Hafen als extrem tiefer Seehafen konzipiert, der in der Lage ist, Post-Panamax-Schiffe abzufertigen, die für den alten Hafen von Mombasa zu groß sind. Die ersten Liegeplätze wurden 2021 offiziell in Betrieb genommen. Ziel des Hafens ist es, einen völlig neuen Transportkorridor zu schaffen, der die wirtschaftliche Isolation Nordkenias beendet und als primärer Umschlagplatz für Exporte aus Äthiopien und dem Südsudan (insbesondere Erdöl) fungiert. Dieses Mega-Projekt soll die ostafrikanische Logistikkarte völlig neu zeichnen (Wirtschaft & Geografie K8).",
+      "factsAdvanced": [
+        "Der Lamu Port ist das Herzstück des massiven 24-Milliarden-Dollar LAPSSET-Korridors.",
+        "Die ersten drei der geplanten 32 Tiefsee-Liegeplätze wurden 2021 eröffnet.",
+        "Der Hafen liegt in der natürlichen, tiefen Manda-Bucht an der kenianischen Nordküste.",
+        "Er ist speziell für gigantische Post-Panamax-Schiffe ausgelegt, die Mombasa nicht anlaufen können.",
+        "Hauptziel ist die Anbindung an die Märkte von Äthiopien und dem Südsudan.",
+        "Das Projekt stößt auch auf Kritik wegen möglicher Auswirkungen auf das historische Lamu-Erbe."
+      ]
+    },
+    {
+      "id": "athi-river-epz-economic-v2",
+      "descriptionAdvanced": "Die Export Processing Zone (EPZ) in Athi River, Machakos County, ist Kenias größtes Zentrum für die exportorientierte Fertigungsindustrie. Die 1990 gegründete Sonderwirtschaftszone bietet internationalen und lokalen Investoren massive steuerliche Anreize, wie jahrelange Steuerbefreiungen und zollfreien Import von Rohstoffen. Tausende von Arbeitern, überwiegend Frauen, sind hier in riesigen Textil- und Bekleidungsfabriken beschäftigt. Die produzierten Kleidungsstücke (darunter Markenkleidung für den US- und europäischen Markt) werden größtenteils im Rahmen des AGOA-Abkommens (African Growth and Opportunity Act) zollfrei in die USA exportiert. Die EPZ Athi River ist das Paradebeispiel für Kenias Bemühungen, sich von einem Agrarstaat zu einem Industrieland zu entwickeln (Wirtschaft & Politik K8).",
+      "factsAdvanced": [
+        "Die Athi River EPZ ist die größte Export Processing Zone in Ostafrika.",
+        "Sie wurde 1990 etabliert, um ausländische Direktinvestitionen anzuziehen.",
+        "Ein Großteil der Produktion ist Bekleidung, die über das AGOA-Abkommen in die USA exportiert wird.",
+        "Die EPZ ist einer der größten Arbeitgeber Kenias und beschäftigt Zehntausende von Menschen.",
+        "Unternehmen in der EPZ profitieren von weitreichenden Steuerbefreiungen (Tax Holidays).",
+        "Die Zone liegt strategisch extrem günstig an der Mombasa-Nairobi-Autobahn."
+      ]
+    },
+    {
+      "id": "magadi-soda-ash-economic-v2",
+      "descriptionAdvanced": "Am Ufer des extrem heißen und salzigen Lake Magadi im südlichen Rift Valley befindet sich Kenias größtes Bergbauunternehmen, die Tata Chemicals Magadi (früher Magadi Soda Company). Seit 1911 wird hier im industriellen Maßstab Trona (Natriumsesquicarbonat) abgebaut, aus dem Soda-Asche (Natriumcarbonat) gewonnen wird. Diese Soda-Asche ist ein entscheidender Rohstoff für die globale Glas-, Papier- und Waschmittelindustrie. Lake Magadi ist einzigartig, da sich das Trona durch geothermische Quellen und extreme Verdunstung ständig auf natürliche Weise regeneriert. Das Unternehmen ist der größte Produzent von natürlicher Soda-Asche in Afrika und transportiert das Mineral über eine eigene, 1915 gebaute Eisenbahnstrecke zum Hafen von Mombasa für den weltweiten Export (Wirtschaft & Chemie K8).",
+      "factsAdvanced": [
+        "Die Anlage am Lake Magadi baut Trona ab, das zu natürlicher Soda-Asche verarbeitet wird.",
+        "Der Bergbau an diesem Standort begann bereits 1911 und ist einer der ältesten in Afrika.",
+        "Tata Chemicals Magadi ist Afrikas größter Produzent von natürlicher Soda-Asche.",
+        "Eine eigens 1915 gebaute Bahnstrecke transportiert das Material direkt nach Mombasa.",
+        "Das Mineralvorkommen regeneriert sich durch heiße Quellen und Verdunstung ständig selbst.",
+        "Soda-Asche ist ein unverzichtbarer Rohstoff für die Herstellung von Glas und Waschmitteln."
+      ]
+    },
+    {
+      "id": "ol-karia-geothermal-economic-v2",
+      "descriptionAdvanced": "Das Olkaria-Geothermiekraftwerk südlich des Naivasha-Sees ist der Stolz des kenianischen Energiesektors und macht das Land zu einem globalen Vorreiter in erneuerbaren Energien. Gelegen im vulkanisch hochaktiven Hell's-Gate-Nationalpark, nutzt die von der KenGen (Kenya Electricity Generating Company) betriebene Anlage den heißen Dampf aus der Erdkruste, um riesige Turbinen anzutreiben. Kenia ist das erste Land in Afrika, das Geothermie kommerziell nutzt, beginnend mit Olkaria I im Jahr 1981. Heute liefert der stetig wachsende Olkaria-Komplex fast die Hälfte des gesamten kenianischen Strombedarfs. Diese grundlastfähige, saubere Energie ist extrem zuverlässig und schützt Kenia vor Stromausfällen, die durch Dürren in Wasserkraftwerken verursacht werden (Technik & Physik K8).",
+      "factsAdvanced": [
+        "Olkaria ist der größte Geothermie-Komplex in Afrika und liegt im Hell's-Gate-Nationalpark.",
+        "Kenia ist dank Olkaria der achtgrößte Geothermie-Produzent der Welt.",
+        "Die kommerzielle Stromerzeugung aus Erdwärme begann hier im Jahr 1981.",
+        "Geothermie aus Olkaria deckt heute fast 50 Prozent des kenianischen Strombedarfs.",
+        "Die Anlagen bohren teilweise über 3.000 Meter tief in die vulkanisch aktive Erdkruste.",
+        "Im Gegensatz zur Wasserkraft liefert Olkaria auch während extremer Dürren zuverlässig Strom."
+      ]
+    },
+    {
+      "id": "thika-pineapple-cannery-economic-v2",
+      "descriptionAdvanced": "Die riesige Ananas-Konservenfabrik in Thika, betrieben von Del Monte Kenya, ist das unübersehbare Wahrzeichen der landwirtschaftlichen Verarbeitung in dieser Region. Die Fabrik liegt inmitten einer gigantischen Plantage von über 4.000 Hektar, die die Hügel um Thika in ein endloses Meer aus Stachelpflanzen verwandelt. Del Monte Kenya ist der größte Exporteur von kenianischen Ananasprodukten; das Unternehmen verarbeitet täglich Tausende Tonnen frischer Früchte zu Konservenringen, Säften und Konzentraten, die primär nach Europa und in den Nahen Osten exportiert werden. Die Fabrik ist ein massiver Arbeitgeber und ein perfektes Beispiel für vertikale Integration, bei der Anbau, Ernte, Verarbeitung und Verpackung hochgradig effizient an einem einzigen Standort erfolgen (Wirtschaft & Biologie K7).",
+      "factsAdvanced": [
+        "Die Fabrik von Del Monte in Thika ist eine der größten Ananasverarbeitungsanlagen Afrikas.",
+        "Die umliegenden eigenen Plantagen umfassen eine gigantische Fläche von über 4.000 Hektar.",
+        "Ein Großteil der produzierten Ananasprodukte geht in den direkten Export nach Europa.",
+        "Die Fabrik verarbeitet täglich Tausende Tonnen Früchte zu Säften und Konserven.",
+        "Das Unternehmen ist der größte private Arbeitgeber in der Region Thika und Murang'a.",
+        "Die Anlage ist ein Musterbeispiel für industrielle Landwirtschaft und vertikale Integration."
+      ]
+    },
+    {
+      "id": "bamburi-cement-factory-economic-v2",
+      "descriptionAdvanced": "Die Bamburi Cement Fabrik in Mombasa, ein Tochterunternehmen des globalen Baustoffgiganten Holcim, ist das größte Zementwerk in der gesamten ostafrikanischen Region. Gegründet 1951 vom visionären Felix Mandl, nutzt die Anlage die massiven, prähistorischen Korallenkalkstein-Vorkommen an der kenianischen Küste, um hochwertigen Zement herzustellen. Die Fabrik hat das Wachstum unzähliger Infrastrukturprojekte in Kenia und den Nachbarländern buchstäblich zementiert. Ein weltweit einzigartiges Merkmal dieses Unternehmens ist der angrenzende Haller Park: Bamburi Cement renaturierte hier eine komplett zerstörte, stillgelegte Kalksteinmine und verwandelte sie in einen üppigen ökologischen Park mit Wald, Seen und Wildtieren – ein Meisterwerk der ökologischen Rehabilitation (Wirtschaft & Ökologie K8).",
+      "factsAdvanced": [
+        "Bamburi Cement in Mombasa ist der größte Zementhersteller in der East African Community.",
+        "Das Unternehmen wurde 1951 gegründet und gehört heute zur internationalen Holcim-Gruppe.",
+        "Als Rohstoff wird massiv prähistorischer Korallenkalkstein (Coral Rag) an der Küste abgebaut.",
+        "Der Bamburi Cement hat gigantische kenianische Infrastrukturprojekte (wie die SGR) beliefert.",
+        "Das Unternehmen verwandelte einen alten Steinbruch in den berühmten Naturpark "Haller Park".",
+        "Die Renaturierung durch Dr. René Haller begann 1971 und ist weltweit preisgekrönt."
+      ]
+    },
+    {
+      "id": "webuye-panpaper-economic-v2",
+      "descriptionAdvanced": "Die Pan African Paper Mills (Panpaper) in Webuye, Westkenia, war einst das größte industrielle Vorzeigeprojekt des Landes. Gegründet 1974, verwandelte die Fabrik Webuye in eine florierende Stadt, indem sie Tausende Arbeiter beschäftigte und den gesamten Papierbedarf Kenias sowie vieler ostafrikanischer Nachbarn deckte. Die Anlage wurde durch eine internationale Kooperation, unter anderem mit der Weltbank und indischen Investoren, errichtet. Sie bezog ihr Rohholz aus den riesigen staatlichen Waldgebieten. Nach jahrzehntelangem Erfolg zwangen jedoch Missmanagement, massive Stromkosten und veraltete Technologie die Fabrik 2009 zur Schließung, was Webuye in eine schwere Krise stürzte. Trotz mehrfacher Wiederbelebungsversuche bleibt Panpaper ein Symbol für Aufstieg und Fall afrikanischer Großindustrie (Geschichte & Wirtschaft K8).",
+      "factsAdvanced": [
+        "Die Pan African Paper Mills wurde 1974 als größtes Papierwerk Ostafrikas eröffnet.",
+        "Die Fabrik deckte in ihrer Blütezeit den gesamten nationalen Papierbedarf Kenias.",
+        "Die Anlage bezog Nadelholz aus den staatlichen Wäldern, was teilweise zu Entwaldung führte.",
+        "Aufgrund massiver Schulden und Missmanagement musste die Fabrik 2009 geschlossen werden.",
+        "Der Zusammenbruch führte zum wirtschaftlichen Kollaps der Stadt Webuye.",
+        "Aktuelle Privatisierungsversuche versuchen, die gewaltige Industrieanlage wiederzubeleben."
+      ]
+    },
+    {
+      "id": "muhoroni-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Die Muhoroni Sugar Company, gelegen im Kisumu County am Rande des Nyando-Tals, ist eine der ältesten Zuckerfabriken Kenias. Sie wurde 1966 als staatliches Unternehmen gegründet, um die sozioökonomische Entwicklung der Luo- und Kalenjin-Gemeinschaften in Westkenia durch Vertragslandwirtschaft (Outgrower-Modelle) zu fördern. Über Jahrzehnte hinweg war die Fabrik der Lebensnerv für Zehntausende von Kleinbauern, die ihr Zuckerrohr an die Mühle lieferten. Wie viele staatliche Zuckerfabriken in Kenia litt jedoch auch Muhoroni in den letzten Jahrzehnten unter veralteten Maschinen, finanziellen Krisen und Importen von billigem Zucker, was zu häufiger Zwangsverwaltung (Receivership) führte. Die Rettung und Privatisierung der Anlage ist ein ständiges politisches Thema in Kenia (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Muhoroni Sugar wurde 1966 als eines der ersten großen staatlichen Zuckerunternehmen gegründet.",
+        "Die Fabrik operiert hauptsächlich durch ein Outgrower-Modell mit Tausenden Kleinbauern.",
+        "Die Anlage liegt im Nyando-Zucker-Gürtel im Kisumu County.",
+        "Seit den 2000er Jahren steht das Unternehmen fast durchgehend unter Zwangsverwaltung.",
+        "Veraltete Technologie und hohe Produktionskosten sind die größten Herausforderungen der Mühle.",
+        "Zuckerimporte aus dem COMESA-Block stellen eine massive Konkurrenz für die Fabrik dar."
+      ]
+    },
+    {
+      "id": "kenyatta-international-convention-centre-economic-v2",
+      "descriptionAdvanced": "Das Kenyatta International Convention Centre (KICC) ist nicht nur ein architektonisches Wahrzeichen von Nairobi, sondern das wichtigste Zentrum für Geschäftstourismus, Konferenzen und Diplomatie in Ostafrika. Der von dem norwegischen Architekten Karl Henrik Nøstvik entworfene und 1973 fertiggestellte zylindrische Turm mit seinem markanten Amphitheater war das erste afrikanische Gebäude, das mit einem Hubschrauberlandeplatz auf dem Dach ausgestattet war. Als Symbol für das moderne, unabhängige Kenia beherbergt das KICC hochrangige UN-Gipfel, internationale Handelsmessen und afrikanische Regierungstreffen. Die Konferenzwirtschaft bringt jährlich Millionen von Dollar an Devisen ein und füllt die Hotels und Dienstleistungssektoren der Hauptstadt. Das KICC repräsentiert die wirtschaftliche und diplomatische Macht Kenias in Afrika (Wirtschaft & Geschichte K7).",
+      "factsAdvanced": [
+        "Das KICC wurde 1973 eröffnet und war bis 1980 das höchste Gebäude in Nairobi.",
+        "Der unverwechselbare, zylindrische Turm besteht aus 28 Stockwerken (105 Meter).",
+        "Das KICC ist das Herzstück des kenianischen MICE-Tourismus (Meetings, Incentives, Conferences).",
+        "Das Gebäude wurde vom Architekten Karl Henrik Nøstvik entworfen.",
+        "Das Dach bietet einen Hubschrauberlandeplatz und eine der besten Aussichtsplattformen Nairobis.",
+        "Internationale Gipfel, darunter von der UNO und der Afrikanischen Union, finden hier statt."
+      ]
+    },
+    {
+      "id": "eldoret-textile-mills-economic-v2",
+      "descriptionAdvanced": "Rivatex (Rift Valley Textiles) in Eldoret ist ein Symbol für das industrielle Erbe und die Revitalisierung Kenias. Gegründet 1975, wuchs die Fabrik schnell zur größten vollintegrierten Textilfabrik Ostafrikas heran, die kenianische Baumwolle in hochwertige Stoffe für den nationalen und internationalen Markt verarbeitete. In den 1990er Jahren brach die Industrie durch die Überschwemmung des Marktes mit billiger Second-Hand-Kleidung (Mitumba) zusammen, was zur Schließung von Rivatex führte. Im Jahr 2007 wurde das Werk von der Moi University übernommen. Dank massiver indischer Kreditfinanzierungen wurde die Fabrik hochmodernisiert neu eröffnet. Heute produziert Rivatex hochmoderne Textilien, stattet die kenianische Armee und Polizei aus und belebt den lokalen Baumwollanbau (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Rivatex wurde 1975 als Kenias größte vertikal integrierte Textilfabrik in Eldoret gegründet.",
+        "Die Fabrik ging Ende der 1990er Jahre durch die Konkurrenz von Second-Hand-Kleidung bankrott.",
+        "Die Moi University kaufte die Ruine 2007 auf und verwandelte sie in eine Lehr- und Produktionsstätte.",
+        "Durch indische Kredite im Wert von Millionen Dollar wurde die Anlage 2019 hochmodernisiert.",
+        "Rivatex stellt unter anderem die offiziellen Uniformen für Kenias Polizei und Militär her.",
+        "Die Wiederbelebung der Anlage zielt darauf ab, Tausende von Baumwollbauern zu unterstützen."
+      ]
+    },
+    {
+      "id": "turkana-oil-fields-economic-v2",
+      "descriptionAdvanced": "Die Lokichar-Ölfelder im Turkana County haben das Potenzial, Kenias wirtschaftliche Zukunft dramatisch zu verändern. Im Jahr 2012 machte das britische Unternehmen Tullow Oil im South Lokichar Becken (Ngamia-1) den allerersten kommerziellen Erdölfund in der Geschichte Kenias. Es wird geschätzt, dass die Region über Hunderte Millionen Barrel an förderbaren Ölreserven verfügt. Der Fund löste eine massive Welle an Infrastrukturplanungen aus, darunter das LAPSSET-Projekt und eine geplante beheizte Pipeline von Turkana zum Hafen in Lamu. Obwohl der Transport des extrem wachsartigen Öls (das bei Raumtemperatur fest wird) technische Herausforderungen birgt und die globalen Ölpreise das Projekt verzögert haben, bleibt es Kenias größte Hoffnung auf den Status eines Ölexporteurs (Wirtschaft & Geografie K8).",
+      "factsAdvanced": [
+        "Der erste historische Ölfund in Kenia erfolgte 2012 durch Tullow Oil im Turkana County.",
+        "Das South Lokichar Becken birgt geschätzte Reserven von über 500 Millionen Barrel.",
+        "Das kenianische Öl ist extrem wachsartig und erfordert eine beheizte Pipeline für den Transport.",
+        "Im Jahr 2019 startete Kenia das "Early Oil Pilot Scheme" und exportierte erstmals Rohöl.",
+        "Die geplante Ölpipeline soll über 800 Kilometer vom Turkana-Becken bis zum Hafen Lamu verlaufen.",
+        "Die Entwicklung der Ölfelder ist stark von schwankenden globalen Ölpreisen abhängig."
+      ]
+    },
+    {
+      "id": "kwale-titanium-mine-economic-v2",
+      "descriptionAdvanced": "Die Base Titanium Mine im Kwale County ist Kenias größtes Bergbauprojekt und hat den nationalen Bergbausektor auf die globale Landkarte gesetzt. Betrieben von der australischen Base Resources, fördert die Anlage seit 2013 massiv mineralhaltige Sande (Mineralsande) ab. Zu den gewonnenen Produkten gehören Ilmenit, Rutil (verwendet für weiße Pigmente) und Zirkon, die zu 100 % in Märkte wie China, Europa und Nordamerika exportiert werden. Das Projekt trägt erheblich zum kenianischen Exportvolumen und den Steuereinnahmen bei. Die Anlage verfügt über eine eigene, speziell errichtete Schiffsverladeanlage in Likoni. Trotz enormer wirtschaftlicher Gewinne muss das Unternehmen strengen Umweltauflagen zur Renaturierung der abgebauten Gebiete folgen, da der Abbau die Küstenvegetation stark beeinflusst (Wirtschaft & Biologie K8).",
+      "factsAdvanced": [
+        "Die Kwale-Mine ist Kenias größtes und lukrativstes Bergbauprojekt (gestartet 2013).",
+        "Die Anlage fördert Mineralsande, primär Ilmenit, Rutil und Zirkon.",
+        "Die abgebauten Mineralien werden weltweit zur Herstellung von weißen Pigmenten und Keramik genutzt.",
+        "Das Projekt trägt über 60 Prozent zum gesamten Exportwert des kenianischen Bergbausektors bei.",
+        "Die Mine verfügt über eine eigene Schiffsverladeanlage südlich von Mombasa in Likoni.",
+        "Base Titanium betreibt umfangreiche Baumschulen, um das Land nach dem Abbau zu renaturieren."
+      ]
+    },
+    {
+      "id": "machakos-epz-economic-v2",
+      "descriptionAdvanced": "Die Export Processing Zone (EPZ) in Machakos ist eng mit dem Boom von Athi River verknüpft, erstreckt sich aber weiter in das administrative Gebiet des Machakos Countys. Diese Industriezone ist gezielt darauf ausgelegt, Leichtindustrie, Lederverarbeitung und Agrarverarbeitung für den weltweiten Exportmarkt anzuziehen. Durch die Bereitstellung von schlüsselfertigen Werkshallen, zuverlässiger Strom- und Wasserversorgung sowie steuerfreien Anreizen hat das County ausländische Direktinvestitionen in Millionenhöhe gesichert. Die Machakos EPZ ist ein Katalysator für Beschäftigung in der halbtrockenen Region und integriert zunehmend lokale Landwirte in die globalen Lieferketten, indem sie Produkte wie Fruchtpürees und Nüsse direkt in der Zone verarbeitet, bevor sie verschifft werden (Wirtschaft K7).",
+      "factsAdvanced": [
+        "Die Machakos EPZ ist auf Leichtindustrie und Agrarverarbeitung für den Export spezialisiert.",
+        "Sie profitiert massiv von der Nähe zum Jomo Kenyatta International Airport (JKIA).",
+        "Die Zone bietet Investoren eine bis zu 10-jährige Steuerbefreiung (Corporate Tax Holiday).",
+        "Die Textilproduktion dominiert auch hier die Exporte in den US-amerikanischen Markt (AGOA).",
+        "Die EPZ hat maßgeblich zur rasanten Urbanisierung des westlichen Machakos Countys beigetragen.",
+        "Infrastrukturell wird die Zone direkt von der Export Processing Zones Authority verwaltet."
+      ]
+    },
+    {
+      "id": "kericho-tea-factories-economic-v2",
+      "descriptionAdvanced": "Die Teefabriken von Kericho bilden den hochindustrialisierten Kern des weltberühmten kenianischen Teesektors. In und um Kericho operieren gigantische Verarbeitungsanlagen, die multinationalen Konzernen (wie James Finlay und Unilever/Ekaterra) sowie lokalen Kleinbauern-Genossenschaften (KTDA) gehören. Direkt nach dem Pflücken müssen die frischen, grünen Teeblätter innerhalb weniger Stunden in diesen Fabriken ankommen, um den Oxidationsprozess (Cut, Tear, Curl – CTC-Methode) zu durchlaufen. Die Fabriken laufen rund um die Uhr und trocknen, zerkleinern und verpacken den starken schwarzen Tee, der anschließend zur weltgrößten Teeauktion nach Mombasa transportiert wird. Diese hochoptimierten Industrieanlagen sind der Grund, warum Kenia der größte Exporteur von Schwarztee weltweit ist (Wirtschaft & Chemie K8).",
+      "factsAdvanced": [
+        "Kerichos Teefabriken produzieren einen signifikanten Teil von Kenias wichtigstem Exportgut.",
+        "Die kenianische Teeproduktion nutzt fast ausschließlich die hochgradig industrielle CTC-Methode.",
+        "Unternehmen wie Unilever (Ekaterra) und Finlays betreiben hier riesige Verarbeitungsanlagen.",
+        "Die Fabriken arbeiten eng mit der Kenya Tea Development Agency (KTDA) zusammen.",
+        "Frische Teeblätter müssen innerhalb von maximal 24 Stunden verarbeitet und getrocknet werden.",
+        "Ein Großteil des hier produzierten Tees wird auf der berühmten Teeauktion in Mombasa verkauft."
+      ]
+    },
+    {
+      "id": "lake-turkana-wind-power-economic-v2",
+      "descriptionAdvanced": "Das Lake Turkana Wind Power Project (LTWP) ist der mit Abstand größte Windpark in ganz Afrika und ein Meisterwerk der Ingenieurskunst. Gelegen im extrem abgelegenen Loiyangalani-Distrikt am südöstlichen Ufer des Turkana-Sees, nutzt die Anlage den "Turkana Corridor Wind" – einen beständigen und extrem starken Windstrom, der zwischen Mount Kulal und Mount Nyiru entsteht. Das 2019 offiziell eröffnete Megaprojekt besteht aus 365 riesigen Windkraftanlagen, die bis zu 310 Megawatt sauberen Strom erzeugen (etwa 15 % der kenianischen Netzkapazität). Das Projekt erforderte den Bau einer über 400 Kilometer langen Übertragungsleitung bis in das nationale Stromnetz und symbolisiert Kenias global führende Rolle im Bereich der erneuerbaren Energien (Physik & Geografie K8).",
+      "factsAdvanced": [
+        "Das Lake Turkana Wind Power Project ist der größte Windpark auf dem afrikanischen Kontinent.",
+        "Die Anlage besteht aus 365 Windkraftanlagen mit einer Gesamtkapazität von 310 Megawatt.",
+        "Der Standort wurde aufgrund der extrem konstanten, tunnelartigen Winde (Low-Level Jet) gewählt.",
+        "Eine 428 Kilometer lange Hochspannungsleitung verbindet das Kraftwerk mit dem nationalen Netz.",
+        "Das Projekt liefert etwa 15 Prozent des gesamten kenianischen Strombedarfs.",
+        "Die Bauteile mussten in riesigen Konvois über 1.200 km vom Hafen Mombasa transportiert werden."
+      ]
+    }
+  ]
+}

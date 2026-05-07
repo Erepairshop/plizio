@@ -1,0 +1,115 @@
+{
+  "lang": "ro",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khewra-salt-mine-landmarks-v2",
+      "descriptionAdvanced": "Situată la poalele Munților Salt Range, Mina de Sare Khewra nu este doar a doua cea mai mare mină de sare din lume, ci și un loc magic care atrage mii de turiști. Vizitatorii coboară adânc în tunelurile iluminate cu nuanțe roșiatice și portocalii pentru a descoperi structuri spectaculoase sculptate în întregime din sare de Himalaya. Printre acestea se numără minunate reproduceri ale Moscheii Badshahi, Marelui Zid Chinezesc și o clinică pentru terapia astmului. Geografie K7 — geologie, minerit și atracții subterane.",
+      "factsAdvanced": ["A doua cea mai mare și veche mină de sare la nivel global", "Cunoscută ca sursa originală a sării roz de Himalaya", "Rețeaua de tuneluri subterane se întinde pe zeci de kilometri", "Găzduiește o moschee iluminată sculptată complet din roci de sare", "Incorporează un spital subteran specializat în tratarea astmului", "Este una dintre cele mai vizitate atracții turistice din Punjab"]
+    },
+    {
+      "id": "wazir-khan-mosque-landmarks-v2",
+      "descriptionAdvanced": "Când vizitezi orașul fortificat Lahore, Moscheea Wazir Khan te copleșește prin culorile ei vii. Construită în 1634 de un guvernator local din timpul lui Shah Jahan, este celebră pentru lucrările extinse în mozaic de faianță smălțuită (kashi-kari), care acoperă fațadele, minaretele și curtea interioară cu motive florale turcoaz, galbene și verzi. Deși necesită eforturi constante de restaurare, această capodoperă este frecvent vizitată de artiști și fotografi din întreaga lume. Geografie K7 — arta islamică și monumente urbane.",
+      "factsAdvanced": ["Cunoscută pentru cel mai fin mozaic de faianță (kashi-kari) din țară", "Situată în interiorul zidurilor istorice ale orașului antic Lahore", "Construită în anul 1634 pe vremea domniei împăratului Shah Jahan", "Toate cele patru minarete sunt decorate complex cu motive florale", "Considerată o capodoperă absolută a decorațiunilor erei Mughal", "Atrage constant fotografi și istorici de artă internaționali"]
+    },
+    {
+      "id": "hiran-minar-landmarks-v2",
+      "descriptionAdvanced": "Hiran Minar (Turnul Antilopei) este una dintre cele mai neobișnuite atracții turistice din Pakistan. Construit la începutul anilor 1600 de împăratul Mughal Jahangir lângă Sheikhupura, monumentul celebrează dragostea sa pentru o antilopă domestică pe nume Mansraj. Vizitatorii pot admira un imens bazin dreptunghiular cu un pavilion elegant în centru, conectat printr-un pod îngust de mal. Minaretul uriaș de unde se supraveghea fauna oferă, de asemenea, vederi spectaculoase asupra parcului natural înconjurător. Geografie K7 — monumente neconvenționale și arhitectura peisagistică.",
+      "factsAdvanced": ["Ridicat de împăratul Jahangir în memoria antilopei sale, Mansraj", "Dispune de un pavilion central așezat pe un bazin artificial masiv", "Turnul înalt era folosit de regi pentru a observa viața sălbatică", "Un monument unic dedicat exclusiv iubirii pentru un animal", "Localizat într-un cadru natural liniștit lângă orașul Sheikhupura", "Arhitectura reflectă pasiunea mogulilor pentru designul peisagistic acvatic"]
+    },
+    {
+      "id": "mausoleum-of-quaid-e-azam-landmarks-v2",
+      "descriptionAdvanced": "Dominând orizontul orașului Karachi, Mazar-e-Quaid este monumentul național principal al Pakistanului și mormântul lui Muhammad Ali Jinnah. Această structură minimalistă din marmură albă imaculată, așezată pe o bază supraînălțată cu arcuri cu zăbrele, a fost inaugurată în 1970 și proiectată de arhitectul Yahya Merchant. Parcul său extins funcționează ca un plămân verde vital pentru metropola sufocantă de pe coastă. Pe timp de noapte, iluminatul său spectaculos poate fi văzut de la kilometri distanță. Geografie K7 — arhitectură monumentală modernă și parcuri urbane.",
+      "factsAdvanced": ["Mormântul fondatorului Pakistanului, respectatul Muhammad Ali Jinnah", "O capodoperă din marmură albă finalizată în anul 1970", "Proiectată cu arcuri ascuțite distinctive de arhitectul Yahya Merchant", "Înconjurat de unul dintre cele mai mari parcuri urbane din Karachi", "Candelabrul central masiv a fost un cadou din partea poporului chinez", "Găzduiește anual mii de cetățeni cu ocazia sărbătorilor naționale"]
+    },
+    {
+      "id": "ranikot-fort-landmarks-v2",
+      "descriptionAdvanced": "Fortul Ranikot din Jamshoro este o atracție uluitoare, cu ziduri defensive masive care urcă și coboară pe dealurile uscate din regiunea Kirthar. Având un perimetru estimat la peste 30 km, este numit cel mai mare fort din lume. Turiștii curajoși vin aici pentru a explora bastioanele și porțile antice (cum ar fi Sann Gate), o drumeție solicitantă în climatul arid din Sindh. Deși originile primelor sale ziduri sunt învăluite în mister, scara sa grandioasă îl face o minune arhitecturală subestimată. Geografie K7 — atracții izolate și mega-fortificații.",
+      "factsAdvanced": ["Recunoscut adesea drept cea mai mare fortăreață din lume", "Perimetrul zidurilor variază între 30 și 32 de kilometri lungime", "Multe porțiuni masive ale zidului amintesc de Marele Zid Chinezesc", "Situat în lanțul muntos uscat Kirthar din provincia Sindh", "Restaurat și consolidat în mare măsură de dinastia Talpur (sec. 19)", "Accesul se face prin porți masive precum impunătoarea Sann Gate"]
+    },
+    {
+      "id": "shalimar-gardens-lahore-landmarks-v2",
+      "descriptionAdvanced": "Grădinile Shalimar din Lahore sunt culmea designului peisagistic Mughal și un sit al Patrimoniului Mondial UNESCO. Amenajate în 1641 sub atenta supraveghere a lui Shah Jahan, aceste grădini paradisiace sunt organizate pe trei terase descendente. Atracția principală o constituie cele peste 400 de fântâni arteziene care răcoresc pavilioanele de marmură și plantațiile geometrice de chiparoși. Grădinile au fost concepute pentru a crea o iluzie de splendoare cerească pe Pământ, o evadare relaxantă din agitația orașului. Geografie K7 — patrimoniul UNESCO și grădini istorice.",
+      "factsAdvanced": ["Create în anul 1641 din ordinul direct al împăratului Shah Jahan", "Sunt structurate pe trei terase descendente distincte", "Dispune de un sistem hidraulic ingenios cu peste 400 de fântâni", "Inclus oficial pe lista Patrimoniului Mondial UNESCO în anul 1981", "Concepute să reprezinte paradisul islamic (Jannah) pe Pământ", "Pavilioanele din marmură sunt decorate fin cu motive florale"]
+    },
+    {
+      "id": "katas-raj-temples-landmarks-v2",
+      "descriptionAdvanced": "Templele Katas Raj din Salt Range reprezintă un popas fascinant pentru pasionații de mitologie și istorie arhitecturală. Pe lângă faimosul iaz considerat sfânt de către hinduși, situl reunește sanctuare dedicate lui Shiva, o stupă budistă antică, un haveli (conac) și fortificații. Culoarea uimitoare de verde-smarald a iazului central creează un contrast spectaculos cu piatra degradată a clădirilor de peste o mie de ani. Complexul simbolizează moștenirea spirituală profund diversă a Punjabului antic. Geografie K7 — turism religios și situri de pelerinaj.",
+      "factsAdvanced": ["Un complex arhitectural format din multiple temple hinduse antice", "Iazul sacru are o apă de o culoare turcoaz-smarald intensă", "Incorporează și vestigiile unei vechi stupe budiste", "Multe dintre structurile actuale datează de acum 1000 de ani", "Este un sit protejat pentru a celebra toleranța religioasă istorică", "Localizat convenabil în Munții Salt Range din apropiere de Chakwal"]
+    },
+    {
+      "id": "takht-i-bahi-landmarks-v2",
+      "descriptionAdvanced": "Când urci treptele de piatră spre ruinele Takht-i-Bahi din Mardan, descoperi unul dintre cele mai impresionante și atmosferice așezăminte budiste din lume. Fondată pe culmile unui munte în secolul 1 d.Hr., această mănăstire antică include o curte uimitoare a stupelor și celule de meditație din piatră pentru călugări. Vederile din vârful ruinelor asupra câmpiilor agricole din Khyber Pakhtunkhwa sunt magnifice. Acest sit UNESCO demonstrează abilitățile excepționale ale masonilor din perioada civilizației Gandhara. Geografie K7 — monumente arheologice și budism.",
+      "factsAdvanced": ["Cel mai bine păstrat complex monahal budist antic din Pakistan", "Construit inteligent pe un deal înalt pentru siguranță și meditație", "Inclus în Patrimoniul Mondial UNESCO datorită conservării sale", "Datează din perioada glorioasă a regatului indo-part (sec. 1 d.Hr.)", "Curtea sa conține numeroase stupe sculptate în piatră brută", "Oferă vederi panoramice excepționale asupra regiunii Mardan"]
+    },
+    {
+      "id": "frere-hall-landmarks-v2",
+      "descriptionAdvanced": "Frere Hall, finalizat în 1865, rămâne una dintre cele mai rafinate structuri arhitecturale din perioada colonială britanică din Karachi. Construit în stil gotic venețian cu detalii din piatră calcaroasă de culoare gălbuie extrase local, a servit inițial ca primărie a orașului. Astăzi, înconjurat de grădinile populare Bagh-e-Jinnah, adăpostește o imensă bibliotecă publică și o galerie de artă superbă care prezintă fresce ale celebrului artist Sadequain pe tavanul principal. Geografie K7 — arhitectură colonială și atracții urbane.",
+      "factsAdvanced": ["Clădire iconică din perioada colonială finalizată în 1865", "Construită într-un stil arhitectural grațios gotic venețian", "Inițial folosită ca primărie centrală a orașului Karachi", "Plafonul interior este pictat de legendarul artist național Sadequain", "Găzduiește Biblioteca Liaquat, una dintre cele mai mari din oraș", "Înconjurată de grădini vaste unde se organizează târguri de cărți"]
+    },
+    {
+      "id": "noor-mahal-landmarks-v2",
+      "descriptionAdvanced": "Noor Mahal (Palatul Luminii) din Bahawalpur este un conac uluitor construit în anul 1872 ca un cadou de către Nawab-ul de Bahawalpur pentru soția sa. Palatul este renumit pentru fațada sa în stil neoclasic italian amestecat cu motive arhitecturale islamice. În mod ironic, soția a refuzat să locuiască acolo deoarece era situat prea aproape de cimitirul Basti Maluk. Astăzi, palatul de un galben strălucitor, cu interioarele sale opulente și armurile antice, este o atracție publică protejată de armata pakistaneză. Geografie K7 — palate princiare și turism istoric.",
+      "factsAdvanced": ["Construit în anul 1872 de guvernatorul (Nawab) din Bahawalpur", "Arhitectura este un mix unic de stiluri neoclasice italiene și islamice", "A fost intenționat ca un palat rezidențial de lux pentru soția sa", "Soția a refuzat mutarea din cauza proximității față de un cimitir", "Cunoscut pe plan local sub denumirea de "Palatul Luminii"", "În prezent este protejat și folosit ocazional de forțele armate"]
+    },
+    {
+      "id": "himalayan-ibex-habitat-life-v2",
+      "descriptionAdvanced": "Habitatele stâncoase abrupte din Munții Karakoram și Himalaya din regiunea Gilgit-Baltistan sunt casa impresionantului Ibex Himalayan. Aceste capre sălbatice impunătoare, renumite pentru coarnele lor imense curbate pe spate, sunt capabile să escaladeze stânci aproape verticale cu o agilitate uimitoare. În sezonul de iarnă aspru, ele coboară la altitudini mai joase în căutarea hranei, devenind atracții majore pentru fotografii de faună și turiștii ecologici pasionați. Conservarea lor este vitală pentru echilibrul ecosistemului montan. Biologie K7 — faună alpină și adaptări.",
+      "factsAdvanced": ["Găsit în principal în lanțurile muntoase Karakoram și Himalaya", "Cunoscut pentru coarnele sale gigantice, puternic curbate spre spate", "Extrem de agil pe terenuri stâncoase cu înclinații aproape verticale", "Migrează la altitudini mai mici pe parcursul iernilor severe", "O specie cheie pentru turismul și fotografia de viață sălbatică", "Protejarea sa ajută la menținerea populațiilor de leoparzi de zăpadă"]
+    },
+    {
+      "id": "punjab-mango-farms-life-v2",
+      "descriptionAdvanced": "Câmpiile fertile ale provinciei Punjab, în special în districtele Multan și Rahim Yar Khan, susțin unele dintre cele mai mari și mai celebre ferme de mango din lume. Supranumit "Regele Fructelor", mangoul pakistanez este faimos pentru dulceața sa explozivă (cu soiuri premium precum Chaunsa, Sindhri și Anwar Ratol). Pe timpul verii dogoritoare, mii de muncitori agricoli sunt implicați în recoltarea manuală și ambalarea acestor fructe, care generează o parte uriașă din veniturile obținute din exporturile naționale. Geografie K7 — culturi tropicale și agricultura de export.",
+      "factsAdvanced": ["Regiuni precum Multan sunt celebre global pentru livezile masive", "Mangoul este supranumit oficial "Regele Fructelor" în Pakistan", "Soiurile majore de top includ Chaunsa, Sindhri și Anwar Ratol", "Recoltarea necesită un efort manual intensiv pe perioada verii", "Aceste fructe premium sunt exportate masiv în Europa și Orientul Mijlociu", "Climatul extrem de cald al Punjabului oferă dulceața caracteristică"]
+    },
+    {
+      "id": "lake-view-park-islamabad-life-v2",
+      "descriptionAdvanced": "Lake View Park, situat pe malurile pitorescului lac Rawal din Islamabad, este destinația supremă de relaxare și distracție pentru familiile din capitală. Pe lângă plimbările cu barca și sporturile nautice, parcul atrage vizitatorii prin una dintre cele mai mari voliere din Pakistan, facilități moderne pentru picnic și trasee verzi extinse. La apus, parcul se umple de vânzători de gustări locale și tineri care se bucură de briza răcoroasă, ilustrând perfect viața urbană modernă și relaxată din capitală. Geografie K7 — parcuri urbane și recreere.",
+      "factsAdvanced": ["Situat pe malurile frumosului lac de acumulare Rawal din capitală", "Atracție principală pentru familiile din regiunea Islamabad-Rawalpindi", "Găzduiește una dintre cele mai mari colivii (voliere) de păsări din țară", "Oferă plimbări extinse cu barca și numeroase sporturi nautice", "Parcul dispune de spații largi și sigure special amenajate pentru picnic", "Oferă cele mai bune priveliști la apus asupra dealurilor Margalla"]
+    },
+    {
+      "id": "joyland-rawalpindi-life-v2",
+      "descriptionAdvanced": "Joyland din Rawalpindi, situat strategic în incinta marelui parc Ayub, este unul dintre cele mai populare parcuri de distracții tematice din provincia Punjab. Înființat pentru a oferi entuziasm la prețuri accesibile, parcul include roller-coastere pline de adrenalină, o roată panoramică uriașă și o multitudine de atracții pentru copii. În fiecare seară de weekend, sute de tineri și familii se adună aici pentru a savura fast-food local și a experimenta senzații tari. Este un reper al culturii populare urbane și al petrecerii timpului liber. Geografie K7 — atracții de divertisment și spații publice.",
+      "factsAdvanced": ["Un parc de distracții extrem de popular situat în Parcul Ayub", "Include atracții mecanice majore, precum o roată panoramică înaltă", "Zilnic, dar mai ales în weekend-uri, este vizitat de mii de tineri", "Constituie un pol de divertisment accesibil pentru clasa de mijloc", "Găzduiește numeroase standuri cu mâncare tradițională stradală", "Un exemplu excelent al spațiilor recreative moderne din Rawalpindi"]
+    },
+    {
+      "id": "deosai-national-park-wildlife-life-v2",
+      "descriptionAdvanced": "Parcul Național Deosai din Gilgit-Baltistan este al doilea cel mai înalt platou alpin din lume, situat la peste 4.100 de metri altitudine. Dincolo de peisajul uluitor, presărat vara cu milioane de flori sălbatice, Deosai este o zonă de conservare critică pentru Ursul Brun Himalayan, aflat pe cale de dispariție. Iarna, platoul este îngropat sub zăpadă adâncă și devine inaccesibil, însă vara explodează de viață, adăpostind marmote aurii, lupi tibetani și vulturi aurii maiestuoși. Biologie K7 — ecosisteme de mare altitudine și faună pe cale de dispariție.",
+      "factsAdvanced": ["Al doilea cel mai înalt platou din lume, la peste 4.100 de metri", "Cunoscut pe plan local ca "Tărâmul Uriașilor"", "Înființat pentru a proteja Ursul Brun Himalayan, grav amenințat", "Complet inaccesibil în timpul iernilor aspre din cauza ninsorilor", "Peisajul se acoperă spectaculos cu milioane de flori pe timpul verii", "Găzduiește alte specii rare precum marmota aurie și lupul tibetan"]
+    },
+    {
+      "id": "sindh-sugarcane-fields-life-v2",
+      "descriptionAdvanced": "Câmpiile întinse din provincia Sindh, mărginite de cursul fluviului Indus, sunt pline de kilometri întregi de culturi dese de trestie de zahăr. Agricultura bazată pe această plantă suculentă asigură mijloacele de trai pentru mii de comunități rurale. Recoltarea este o muncă asiduă, unde camioanele și căruțele masive trase de tractoare blochează adesea drumurile în drum spre marile fabrici de zahăr din zonă. Pentru economia pakistaneză, acest zahăr reprezintă un element cheie atât pentru export, cât și pentru piața alimentară națională. Geografie K7 — culturi de câmp și industria zahărului.",
+      "factsAdvanced": ["Provincia Sindh este un producător național major de trestie de zahăr", "Culturile depind direct de rețeaua istorică de irigații a râului Indus", "Susține financiar mii de fermieri și lucrători zilieri din sate", "Zahărul este o componentă critică pentru economia agroalimentară", "Recoltarea aduce un trafic intens de camioane către fabricile de extracție", "Climatul de câmpie este ideal pentru un conținut ridicat de zaharoză"]
+    },
+    {
+      "id": "shalimar-gardens-lahore-life-v2",
+      "descriptionAdvanced": "Pentru locuitorii aglomerați din Lahore, Grădinile Shalimar sunt mai mult decât un monument UNESCO; ele reprezintă o oază vitală de liniște peisagistică. În ciuda urbanizării masive a orașului modern din jur, plimbarea pe aleile vechi de secole oferă o legătură directă cu eleganța trecutului Mughal. În timpul sărbătorilor de primăvară (cum ar fi festivalul Basant), grădinile sunt frecventate de familii și poeți care admiră jocurile de apă și simetria perfectă, reflectând pasiunea locală pentru poezie și artă în natură. Geografie K7 — viață comunitară și parcuri de patrimoniu.",
+      "factsAdvanced": ["Funcționează ca un spațiu verde vital pentru metropola Lahore", "Oferă o evadare liniștită din poluarea și traficul orașului modern", "Loc de întâlnire frecvent pentru familii în zilele de sărbătoare", "Designul său a promovat tradiția poeziei și reflecției în aer liber", "Aleile sale mărginite de copaci sunt preferatele localnicilor pentru plimbări", "Îmbină istoria imperială grandioasă cu viața de zi cu zi a publicului"]
+    },
+    {
+      "id": "sindbad-wonderland-karachi-life-v2",
+      "descriptionAdvanced": "Timp de zeci de ani, Sindbad Wonderland a fost nucleul copilăriei și al distracției de familie pentru locuitorii din metropola aglomerată Karachi. Situat în diverse locații ale orașului de-a lungului timpului (inclusiv celebrul complex Gulshan), parcul oferă jocuri arcade luminoase, mașini de tamponat, plimbări acvatice și carusele uriașe. Acest paradis al divertismentului plin de neon și zgomote vesele atrage familii din toate clasele sociale, fiind adesea locul preferat pentru petrecerile școlare și excursiile de weekend în aer liber. Geografie K7 — centre de divertisment și urbanism.",
+      "factsAdvanced": ["Unul dintre cele mai vechi și iubite branduri de distracție din Karachi", "Atrage zilnic mii de copii și familii pentru recreere indoor și outdoor", "Oferă jocuri arcade clasice, mașini de tamponat și atracții în aer liber", "Este o componentă esențială a amintirilor din copilărie ale localnicilor", "Facilitează excursii masive pentru școlile din toate zonele orașului", "Un loc vibrant, colorat și mereu aglomerat pe timpul serii"]
+    },
+    {
+      "id": "khunjerab-national-park-life-v2",
+      "descriptionAdvanced": "Parcul Național Khunjerab, situat la frontiera spectaculoasă dintre Pakistan și China, se află la una dintre cele mai mari altitudini pentru un parc național din lume. Această zonă extrem de rece și stâncoasă a fost înființată la insistențele biologilor pentru a proteja populația fragilă a oii Marco Polo (cu coarnele lor gigantice spiralate) și a misteriosului leopard de zăpadă. Deși viața aici este dură, ecosistemul alpin fragil este o minune a evoluției, iar puținii păstori nomazi din zonă s-au adaptat perfect la aceste altitudini extreme. Biologie K7 — conservarea speciilor și viața la mare altitudine.",
+      "factsAdvanced": ["Situat la peste 4.000 de metri altitudine, lângă granița chineză", "Înființat primordial pentru protecția rarisimei oi Marco Polo", "Un habitat natural esențial pentru prădătorii de top, precum leopardul de zăpadă", "Include faimosul Pas Khunjerab de pe Autostrada Karakoram", "Condițiile de viață aspre impun adaptări evolutive masive", "Turismul ecologic de iarnă este strict reglementat pentru protecție"]
+    },
+    {
+      "id": "kp-tobacco-farms-life-v2",
+      "descriptionAdvanced": "În districtele Mardan și Swabi din provincia Khyber Pakhtunkhwa, solul fertil și clima blândă au creat condiții perfecte pentru cultivarea masivă a tutunului Virginia de înaltă calitate. Această cultură comercială definește viața rurală locală, unde generații de fermieri se dedică însămânțării, recoltării și uscării frunzelor de tutun în cuptoare tradiționale înalte din cărămidă. Deși controversele legate de sănătate sunt dezbătute, aceste ferme asigură un venit vital și stabilitate economică pentru sute de sate din regiune. Geografie K7 — culturi comerciale (cash crops) și modul de viață rural.",
+      "factsAdvanced": ["Districtele Swabi și Mardan sunt lideri naționali în această cultură", "Zona produce tutun Virginia de înaltă calitate pentru export", "Mii de familii rurale se bazează exclusiv pe acest venit comercial", "Frunzele recoltate sunt uscate în cuptoare masive din cărămidă", "Constituie una dintre cele mai profitabile culturi din provincie", "Solul bine irigat de râuri ajută la calitatea superioară a plantelor"]
+    }
+  ]
+}

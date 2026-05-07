@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-mount-irvine-cities-v2",
+      "descriptionAdvanced": "Mount Irvine Tobago egyik legszebb tengerparti övezete, amely híres a világszínvonalú golfpályájáról és a szörfözésre kiválóan alkalmas hullámairól. A terület egy korábbi cukornád- és kókuszültetvényen fekszik, és ma a sziget egyik legelegánsabb turisztikai célpontja. Mount Irvine strandja két részre oszlik: egy nyugodtabb, sznorkelezésre ideális öbölre és egy nyíltabb szakaszra, ahol a tapasztalt szörfösök hódolhatnak szenvedélyüknek. A part mentén található kőalakzatok és a gazdag tengeri élővilág miatt a terület a természetfotósok kedvence is. Sachkunde K5 — turizmus és sport.",
+      "factsAdvanced": [
+        "Híres a Mount Irvine Bay Golf Course-ról, amely egy korábbi ültetvényen fekszik.",
+        "Tobago egyik legjobb szörfhelyszíne a téli hónapokban.",
+        "A tengerparti zátonyok mentén kiváló sznorkelezési lehetőségek vannak.",
+        "A terület gazdag gyarmati kori történelmi emlékekben.",
+        "Népszerű helyszín tengerparti esküvők és elegáns rendezvények számára.",
+        "A strandról gyönyörű kilátás nyílik a Buccoo-zátony felé.",
+        "Számos luxusvilla és butikhotel található a környéken.",
+        "Híres a part mentén növő hatalmas tengeri szőlőfákról."
+      ]
+    },
+    {
+      "id": "tt-canaan-cities-v2",
+      "descriptionAdvanced": "Canaan egy forgalmas lakó- és kereskedelmi központ Tobago délnyugati részén, közvetlenül Crown Point és Bon Accord szomszédságában. A város stratégiai helyen fekszik a repülőtérhez vezető úton, így fontos szolgáltatási hub a turisták és a helyiek számára egyaránt. Canaan neve bibliai eredetű, ami tükrözi a sziget erős vallási hagyományait. A településen számos üzlet, bank és helyi étterem található, ahol a híres tobago-i 'crab and dumpling' (rák gombóccal) is megkóstolható. Canaan a mindennapi élet lüktető szíve ezen a turisztikai régión belül. Sachkunde K4 — modern települések és szolgáltatások.",
+      "factsAdvanced": [
+        "Tobago délnyugati részének egyik legfontosabb kereskedelmi városa.",
+        "Közvetlenül a repülőtér és a legnépszerűbb strandok közelében fekszik.",
+        "A neve bibliai eredetű, 'Kánaán' után.",
+        "Itt található a sziget számos fontos üzleti és adminisztratív központja.",
+        "Híres a helyi pékségeiről és tradicionális tobago-i ételeiről.",
+        "Dinamikusan növekvő népesség és sűrű beépítettség jellemzi.",
+        "Központi elhelyezkedése miatt fontos közlekedési csomópont.",
+        "Számos sportpálya és közösségi ház található a területén."
+      ]
+    },
+    {
+      "id": "tt-palo-seco-cities-v2",
+      "descriptionAdvanced": "Palo Seco Trinidad déli partján fekvő település, amely szorosan kötődik az ország kőolajiparához. A város évtizedek óta az egyik nagy olajtársaság bázisául szolgál, ami meghatározza a település arculatát és gazdaságát. Palo Seco híres a tiszta, rendezett utcáiról és a jól felszerelt sportlétesítményeiről, különösen a velodromról, ahol nemzetközi kerékpáros versenyeket is rendeznek. A tengerparti részen található a Los Iros strand, amely népszerű a helyi családok körében. A falu neve spanyolul 'száraz fát' jelent, utalva a terület eredeti vegetációjára. Földrajz K8 — energiaipar és sportinfrastruktúra.",
+      "factsAdvanced": [
+        "Dél-Trinidad egyik legfontosabb olajipari települése.",
+        "Itt található egy neves velodrom (kerékpáros versenypálya).",
+        "A név spanyol eredetű, jelentése: 'száraz fa'.",
+        "A közelben van a népszerű Los Iros strand és üdülőhely.",
+        "Híres a jól karbantartott lakóövezeteiről és parkjairól.",
+        "Jelentős szerepet játszik az ország energiaellátásában.",
+        "A falu közössége híres a sport iránti elkötelezettségéről.",
+        "A környéken több kisebb sárvulkán is található."
+      ]
+    },
+    {
+      "id": "tt-point-lisas-cities-v2",
+      "descriptionAdvanced": "Point Lisas nem egy hagyományos város, hanem a Karib-térség legnagyobb és legfontosabb ipari komplexuma és kikötője. A terület Trinidad nyugati partján, Couva közelében fekszik, és az ország nehéziparának (petrokémia, acélgyártás, műtrágya) a központja. Point Lisas tette Trinidadot a világ egyik legnagyobb ammónia- és metanolexportőrévé. A hatalmas ipari park mellett egy modern mélyvízi kikötő is üzemel, amely globális kereskedelmi útvonalakat szolgál ki. Point Lisas a modern trinidadi gazdaság motorja és a technológiai fejlődés szimbóluma. Földrajz K8 — ipari parkok és globális kereskedelem.",
+      "factsAdvanced": [
+        "A Karib-térség legnagyobb ipari parkja és mélyvízi kikötője.",
+        "Több mint 100 nemzetközi és helyi cég bázisa.",
+        "A világ egyik vezető metanol- és ammóniagyártó központja.",
+        "Saját hatalmas erőművel rendelkezik az ipari igények kiszolgálására.",
+        "Stratégiai szerepe van az ország GDP-jének előállításában.",
+        "A területet az 1970-es években kezdték el tudatosan fejleszteni.",
+        "Modern logisztikai és szállítmányozási infrastruktúrával bír.",
+        "Itt található az ország legnagyobb sótalanító üzeme is."
+      ]
+    },
+    {
+      "id": "tt-tacariqua-cities-v2",
+      "descriptionAdvanced": "Tacarigua egy forgalmas és történelmi település a Kelet-Nyugat folyosó mentén, Port of Spain és Arima között. A város neve az őslakos amerikai nyelvből származik, ami jelzi a terület ősi lakottságát. Tacarigua híres a széles utcáiról és a zöldterületeiről, mint például az Orange Grove Savannah, amely népszerű helyszín a krikett- és labdarúgó-mérkőzések számára. A településen található az ország egyik legfontosabb gyermekvédelmi intézménye, a St. Mary's Home. A város ma a modern kereskedelem és a hagyományos lakóövezet keveréke. Sachkunde K5 — településtörténet és közösségi terek.",
+      "factsAdvanced": [
+        "Nevét az őslakos tacarigua indián törzsről kapta.",
+        "Itt található az Orange Grove Savannah, egy nagy sport- és szabadidőpark.",
+        "Fontos szerepet játszott a 19. századi cukornád-termesztésben.",
+        "A Kelet-Nyugat folyosó egyik központi települése.",
+        "Híres a történelmi Szent Mária anglikán templomáról.",
+        "Itt működik az ország egyik legrégebbi árvaháza.",
+        "A közlekedési hálózat egyik kulcsfontosságú csomópontja.",
+        "Számos modern bevásárlóközpont és iskola található itt."
+      ]
+    },
+    {
+      "id": "tt-dabadie-cities-v2",
+      "descriptionAdvanced": "D'Abadie egy dinamikusan fejlődő város Arima nyugati határában, a Churchill-Roosevelt autópálya és a Kelet-Nyugat folyosó találkozásánál. A település eredetileg egy francia birtok volt, amire a neve is utal. Ma D'Abadie elsősorban népszerű lakóövezet, ahol számos új lakópark és kertvárosi negyed épült fel az elmúlt években. A város híres a pezsgő kereskedelmi életéről, különösen az autószalonokról és a modern üzletekről. D'Abadie központi fekvése miatt ideális választás a fővárosba vagy Arimába ingázók számára. Sachkunde K4 — kertvárosok és ingázás.",
+      "factsAdvanced": [
+        "Arima közvetlen szomszédságában fekvő forgalmas előváros.",
+        "A név francia eredetű, egy korábbi ültetvényes családról kapta.",
+        "Számos modern lakópark (housing developments) épült itt.",
+        "Fontos kereskedelmi zóna az autópálya mentén.",
+        "Híres a nagy számú autókereskedéséről és szervizéről.",
+        "Kiváló közlekedési összeköttetésekkel rendelkezik.",
+        "A lakosság nagy része az ország északi részén dolgozik.",
+        "Gyorsan urbanizálódó terület, modern infrastruktúrával."
+      ]
+    },
+    {
+      "id": "tt-california-cities-v2",
+      "descriptionAdvanced": "California egy ipari jellegű település Trinidad nyugati partján, Couva és Point Lisas közvetlen közelében. Bár neve az amerikai államot idézi, ez a város a trinidadi nehézipar egyik kiszolgáló központja. Lakóinak többsége a közeli Point Lisas-i ipari parkban vagy az olajiparban dolgozik. California híres a vasúti múltjáról, hiszen egykor fontos megálló volt az észak-déli vonalon. A város ma egy forgalmas csomópont, ahol az ipari és a mindennapi lakóélet szorosan összefonódik. Sachkunde K5 — ipari övezetek és települések.",
+      "factsAdvanced": [
+        "Point Lisas ipari parkjának közvetlen szomszédságában fekszik.",
+        "Lakossága nagy részben az energiaiparban és a gyártásban dolgozik.",
+        "Fontos vasúti csomópont volt a cukornád-korszakban.",
+        "A település neve a gyarmati idők birtokelnevezéseiből ered.",
+        "Szoros gazdasági kapcsolatban áll Couva városával.",
+        "Élénk kereskedelmi élet és számos kisbolt jellemzi.",
+        "Itt található a régió egyik fontos rendőrállomása és egészségügyi központja.",
+        "Modern lakóövezetek és ipari létesítmények keverednek a városban."
+      ]
+    },
+    {
+      "id": "tt-erin-cities-v2",
+      "descriptionAdvanced": "Erin egy távoli, festői halászfalu Trinidad déli partján, amely híres a 'Sárvulkánjáról' és a gyönyörű, vadregényes tengerpartjáról. A település neve Írország költői nevére (Erin) utal, de a falu kultúrája ízig-vérig karibi. Erin fontos mezőgazdasági és halászati központ, ahol az élet lassabb és a természethez kötődik. A falu híres a vallási ünnepeiről és a közeli Erin Savannah-ról, amely egy különleges vizes élőhely. A part menti sziklák és a tengeri kilátás Venezuela felé egyedülálló hangulatot áraszt. Földrajz K5 — partvonalak és természetes élőhelyek.",
+      "factsAdvanced": [
+        "A sziget déli partjának egyik legfontosabb halászfaluja.",
+        "Itt található a híres Erin sárvulkán.",
+        "A név Írország nevéből (Erin) származik.",
+        "Közelében fekszik az Erin Savannah védett területe.",
+        "Híres a friss tengeri halakról és a tradicionális halászéletről.",
+        "Fontos szerepet játszott Trinidad korai spanyol kolonizációjában.",
+        "A falu piaca a környező mezőgazdasági területeket szolgálja ki.",
+        "Tiszta időben jól látható Venezuela szárazföldje."
+      ]
+    },
+    {
+      "id": "tt-biche-cities-v2",
+      "descriptionAdvanced": "Biche egy kis, elszigetelt település Trinidad keleti részén, sűrű erdők és dombok között. A falu neve az őslakos amerikai nyelvből származik, és egykor fontos kakaótermelő központ volt. Ma Biche egy csendes mezőgazdasági közösség, ahol a lakók főként zöldség- és gyümölcstermesztésből, valamint fakitermelésből élnek. A falu híres a barátságos vendégszeretetéről és a természetközeli életmódjáról. Biche környéke népszerű a vadászok és a természetjárók körében, hiszen a környező erdők gazdagok vadvilágban. Sachkunde K3 — erdei közösségek és mezőgazdaság.",
+      "factsAdvanced": [
+        "Trinidad egyik legelszigeteltebb vidéki települése.",
+        "A neve őslakos eredetű, valószínűleg egy állatra vagy növényre utal.",
+        "Fontos szerepet tölt be a keleti régió mezőgazdasági termelésében.",
+        "Híres a környező sűrű trópusi erdőiről.",
+        "A település központjában élénk kistermelői piac működik.",
+        "A fakitermelés és a kakaótermesztés történelmi alapjai a gazdaságnak.",
+        "Csendes, nyugodt életmód jellemzi a közösséget.",
+        "Kedvelt célpontja a bakancsos turistáknak és madárlesőknek."
+      ]
+    },
+    {
+      "id": "tt-tableland-cities-v2",
+      "descriptionAdvanced": "Tableland Trinidad déli részén található, a Princes Town és Rio Claro közötti dombos vidéken. Nevét a fennsíkszerű domborzatáról kapta, amely ideális volt a mezőgazdaság számára. Tableland híres az ananásztermesztéséről, az itt termelt gyümölcsök az egész országban keresettek édességük miatt. A falu egykor fontos megállója volt a déli vasútvonalnak, ma pedig a vidéki közlekedés egyik fontos pontja. A település híres a vallási sokszínűségéről és a színes hindutemplomairól. Földrajz K5 — fennsíkok és gyümölcstermesztés.",
+      "factsAdvanced": [
+        "Trinidad 'Ananászfővárosaként' is ismert.",
+        "Nevét a lapos, fennsíkszerű dombtetőiről kapta.",
+        "Fontos mezőgazdasági központ a Naparima-Mayaro út mentén.",
+        "Egykor jelentős vasútállomással rendelkezett.",
+        "A lakosság nagy része ananász- és zöldségtermesztésből él.",
+        "Számos színes mandir (hindu templom) díszíti a települést.",
+        "Híres a vendégszerető közösségéről és a falusi ünnepekről.",
+        "A tájképét a végtelen ananászmezők határozzák meg."
+      ]
+    },
+    {
+      "id": "tt-new-grant-cities-v2",
+      "descriptionAdvanced": "New Grant egy történelmi falu Princes Town közelében, amelynek neve az 1812-es háború után ide települt amerikai fekete katonák ('Merikins') földadományaira utal. A katonák szabadságukért és a brit korona iránti hűségükért kapták meg itt az új földeket (new grants). Ma a falu egy békés mezőgazdasági közösség, amely büszkén őrzi a 'Merikin' örökséget és a különleges kulturális hagyományokat. New Grant híres a kakaóültetvényeiről és a hagyományos vallási gyülekezeteiről. Történelem K7 — telepesek és szabadság.",
+      "factsAdvanced": [
+        "Nevét az amerikai fekete telepeseknek adott földadományokról kapta.",
+        "A 'Merikin' közösség egyik fontos történelmi központja.",
+        "Az 1812-es háború veteránjai alapították a települést.",
+        "Princes Town közelében, dombos mezőgazdasági területen fekszik.",
+        "Híres a tradicionális vallási énekeiről és szertartásairól.",
+        "A falu gazdasága ma is a mezőgazdaságra épül.",
+        "Büszke és összetartó közösség lakja.",
+        "Fontos emlékehelye a felszabadított rabszolgák történelmének."
+      ]
+    },
+    {
+      "id": "tt-bon-accord-cities-v2",
+      "descriptionAdvanced": "Bon Accord Tobago délnyugati részének népszerű turisztikai és lakóövezete, közvetlenül Crown Point szomszédságában. A terület neve francia eredetű, jelentése 'jó egyezség', ami a gyarmati idők birtokvásárlásaira utal. Bon Accord híres a számos vendégházáról, luxusvillájáról és a közeli Bon Accord-lagúnáról, amely egy fontos természetvédelmi terület és mangrovéerdő. A település ideális bázis a sziget felfedezéséhez, hiszen a repülőtér és a legjobb strandok percek alatt elérhetők. Itt a modern turisztikai igények és a természetvédelem békésen megférnek egymás mellett. Sachkunde K5 — turizmus és természetvédelem.",
+      "factsAdvanced": [
+        "Nevének jelentése francia nyelven: 'Jó Egyezség'.",
+        "Közvetlenül szomszédos a repülőtérrel és Crown Point-tal.",
+        "Itt található a Bon Accord-lagúna védett mangrovéerdeje.",
+        "Népszerű helyszín nyaralók és apartmanok bérlésére.",
+        "Fontos megállóhely a vándormadarak és teknősök számára.",
+        "A településen számos kiváló helyi étterem működik.",
+        "Síksági fekvése miatt ideális kerékpározáshoz és sétákhoz.",
+        "A közeli Nylon Pool hajótúrák egyik indulási pontja."
+      ]
+    },
+    {
+      "id": "tt-plymouth-cities-v2",
+      "descriptionAdvanced": "Plymouth Tobago egyik legfontosabb történelmi városa, a sziget északnyugati partján. A város volt Tobago legelső brit fővárosa, és ma is számos emléket őriz a gyarmati múltból. Itt található a James-erőd (Fort James), ahonnan lenyűgöző kilátás nyílik a Great Courland-öbölre. Plymouth világhírű a titokzatos 'Betty Stivell sírfeliratáról', amely egy 1783-as rejtélyes szöveget tartalmaz. A város csendes, méltóságteljes hangulata és a tengerparti sétányai vonzzák a történelem szerelmeseit. Történelem K7 — gyarmati központok és rejtélyek.",
+      "factsAdvanced": [
+        "Tobago első brit fővárosa volt a 18. században.",
+        "Itt található a Fort James, a sziget egyik legrégebbi erődje.",
+        "Híres a rejtélyes 'Mystery Tombstone' (Titokzatos Sírkő) felirata miatt.",
+        "A Great Courland-öböl partján fekszik.",
+        "Jelentős szerepet játszott a britek és franciák közötti harcokban.",
+        "Minden évben itt rendezik meg a Jazz Fesztivál egyes eseményeit.",
+        "A város építészete tükrözi a 19. századi gyarmati stílust.",
+        "Népszerű helyszín a teknősök fészkelésének megfigyelésére."
+      ]
+    },
+    {
+      "id": "tt-pembroke-cities-v2",
+      "descriptionAdvanced": "Pembroke egy kicsi, de kulturálisan rendkívül gazdag falu Tobago délkeleti partján. A település 'Tobago Kulturális Faluja' (Cultural Village) néven is ismert, mivel itt őrzik legaktívabban az afrikai eredetű néphagyományokat, mint például a 'Salaka Feast'-et. Pembroke híres a gyönyörű tengerparti fekvéséről és a domboldalakra épült színes házairól. A helyi közösség rendkívül összetartó, és minden évben központi szerepet játszik a Tobago Heritage Festival rendezvényein. A látogatók itt megtapasztalhatják a valódi tobago-i vendégszeretetet és a mélyen gyökerező hagyományokat. Történelem K6 — kulturális örökség és hagyományok.",
+      "factsAdvanced": [
+        "Hivatalosan Tobago 'Kulturális Falujaként' ismert.",
+        "Az afrikai eredetű hagyományok és rítusok (pl. Salaka) központja.",
+        "Fontos helyszíne a Tobago Heritage Festival (Örökség Fesztivál) eseményeinek.",
+        "A sziget délkeleti partján, Scarborough közelében fekszik.",
+        "Híres a tradicionális néptáncairól és dobzenéjéről.",
+        "A falu közössége híres a hagyományos gyógyítási módok ismeretéről.",
+        "Tengerpartja sziklás és vadregényes.",
+        "A lakók büszkék az őseiktől örökölt tudásra és szokásokra."
+      ]
+    },
+    {
+      "id": "tt-morne-quinton-cities-v2",
+      "descriptionAdvanced": "Morne Quinton egy kicsiny és csendes település Tobago hegyvidéki részén, Scarborough felett. A név francia eredetű, és a terület magasan fekvő jellegére utal. A falu híres a hűvösebb klímájáról és a fantasztikus panorámáról, amely az Atlanti-óceánra és a fővárosra nyílik. Morne Quinton lakói főként mezőgazdasággal és kertészkedéssel foglalkoznak, kihasználva a termékeny hegyi talajt. A település békés menedéket nyújt a város zajától, miközben csak néhány percnyire van a központtól. Földrajz K5 — hegyi települések és panoráma.",
+      "factsAdvanced": [
+        "Scarborough felett elhelyezkedő hegyvidéki település.",
+        "Nevének jelentése a francia 'morne' (hegy/domb) szóból ered.",
+        "Lélegzetelállító kilátást kínál a Rockly-öbölre.",
+        "A terület hűvösebb és csapadékosabb, mint a tengerpart.",
+        "Kiválóan alkalmas trópusi gyümölcsök és virágok termesztésére.",
+        "A falu megőrizte csendes, vidéki karakterét.",
+        "Népszerű lakóhely azok körében, akik szeretik a természet közelségét.",
+        "A közeli Fort King George-hoz vezető utak érintik a területet."
+      ]
+    },
+    {
+      "id": "tt-goldsborough-cities-v2",
+      "descriptionAdvanced": "Goldsborough Tobago délkeleti partján található, és egykor a sziget egyik legnagyobb és legmodernebb cukornádültetvényének adott otthont. Ma a település elsősorban mezőgazdasági kísérleti területként és lakóövezetként ismert. Goldsborough híres a termékeny földjéről és a tengerparti öbléről, amely kedvelt halászhely. A területen még láthatók a régi malmok és gyárak maradványai, amelyek a 19. századi gazdasági virágzásra emlékeztetnek. A közösség ma a fenntartható gazdálkodásra és a helyi termelésre összpontosít. Történelem K8 — ültetvényes gazdálkodás és modernizáció.",
+      "factsAdvanced": [
+        "Egykor itt működött Tobago egyik legmodernebb cukorgyára.",
+        "Ma fontos kormányzati mezőgazdasági kísérleti állomás.",
+        "A Goldsborough-öböl partján fekszik.",
+        "A terület gazdag gyarmati kori romokban és történelmi emlékekben.",
+        "Híres a termékeny síkságáról, amely ideális a zöldségtermesztéshez.",
+        "Fontos szerepet játszik a sziget élelmiszerbiztonsági programjában.",
+        "A falu csendes és a természetes környezet veszi körül.",
+        "A közeli folyó torkolata fontos élőhely a vadvilág számára."
+      ]
+    },
+    {
+      "id": "tt-belle-garden-cities-v2",
+      "descriptionAdvanced": "Belle Garden egy festői tengerparti település Kelet-Tobagón, amely híres a 'Richmond Great House' nevű történelmi kúriájáról. A falu domboldalakra épült, ahonnan csodás kilátás nyílik az óceánra. Belle Garden neve a terület szépségére és termékenységére utal. A településen a hagyományos mezőgazdaság és a halászat még ma is fontos szerepet játszik. A közeli Richmond-öböl vadregényes partja és a buja növényzet igazi karibi édenkertté teszi a helyet. Belle Garden híres a barátságos közösségéről és a nyugodt életritmusáról. Sachkunde K3 — falusi élet és tájak.",
+      "factsAdvanced": [
+        "Kelet-Tobago egyik legszebb fekvésű faluja.",
+        "Itt található a Richmond Great House, egy 18. századi ültetvényes ház.",
+        "A település neve 'szép kertet' jelent.",
+        "Híres a dombos terepéről és a tengeri panorámájáról.",
+        "A falu gazdasága a kakaó- és kókusztermesztésre épült.",
+        "Népszerű megálló a sziget keleti körútján.",
+        "A közelben található a látványos Richmond-vízesés.",
+        "Békés, csendes közösség lakja."
+      ]
+    },
+    {
+      "id": "tt-goodwood-cities-v2",
+      "descriptionAdvanced": "Goodwood egy barátságos település Tobago délkeleti partján, a Windward Road mentén. A falu dombos vidéken fekszik, és híres a tiszta utcáiról és a gondozott kertjeiről. Goodwood fontos oktatási és közösségi központ a régióban, saját középiskolával és sportpályákkal. A település neve a jó minőségű fára utal, amit egykor a környékbeli erdőkben termeltek ki. Goodwood tengerpartja sziklás, de a kilátás az Atlanti-óceánra mindenkit kárpótol. A falu ideális példája a fejlődő, mégis hagyományait őrző tobago-i közösségnek. Sachkunde K4 — közösségi létesítmények és falvak.",
+      "factsAdvanced": [
+        "A Windward Road (Szélfelőli út) egyik fontos települése.",
+        "Saját középiskolával és modern közösségi létáesítményekkel rendelkezik.",
+        "Híres a rendezett, virágos utcaképéről.",
+        "Dombvidéki fekvése miatt hűvösebb klímával bír.",
+        "A halászat és a mezőgazdaság továbbra is jelen van a helyiek életében.",
+        "Fontos megállóhely a Scarborough és Roxborough közötti úton.",
+        "A lakók büszkék a falu tisztaságára és biztonságára.",
+        "Erős helyi sportklubokkal és ifjúsági szervezetekkel rendelkezik."
+      ]
+    },
+    {
+      "id": "tt-mason-hall-cities-v2",
+      "descriptionAdvanced": "Mason Hall Tobago szívében, a hegyek között fekvő nagy és történelmi falu. Ez a település híres a különleges domborzati viszonyairól, ahol a hegyek és völgyek találkoznak, valamint a gazdag mezőgazdasági hagyományairól. Mason Hall volt egykor a sziget egyik legfontosabb kakaótermelő vidéke. A falu híres a hűvös és friss levegőjéről, valamint a közeli vízesésekről. Mason Hall központi elhelyezkedése miatt fontos összekötő kapocs Scarborough és az északi part között. A település mérete és fontossága miatt saját adminisztratív funkciókkal is bír. Földrajz K5 — hegyi völgyek és mezőgazdasági múlt.",
+      "factsAdvanced": [
+        "Tobago egyik legnagyobb hegyvidéki települése.",
+        "Fontos kakaótermelő központ volt a 19. és 20. században.",
+        "A Courland-folyó felső szakaszánál fekszik.",
+        "Híres a hűvös mikroklímájáról és dús vegetációjáról.",
+        "Itt található a sziget néhány legszebb hegyi túraútvonala.",
+        "Központi csomópont a belső szigeti utakon.",
+        "Gazdag szóbeli történelemmel és népi hagyományokkal rendelkezik.",
+        "Számos neves tobago-i személyiség származik innen."
+      ]
+    },
+    {
+      "id": "tt-castara-cities-v2",
+      "descriptionAdvanced": "Castara Tobago északnyugati partjának egyik legnépszerűbb és legbájosabb halászfaluja. A falu két gyönyörű öböl (Big Bay és Little Bay) mentén fekszik, és híres az aranyszínű homokjáról és a kristálytiszta vizéről. Castara a fenntartható turizmus mintapéldája, ahol a helyi közösség aktívan részt vesz a látogatók fogadásában, miközben megőrzik halászati hagyományaikat. A falu híres a mólóján zajló esti halhúzásról (hauling the seine), ahol a turisták is segíthetnek a hálók behúzásában. Castara nyugalma és szépsége mindenkit rabul ejt. Sachkunde K3 — halászat és közösségi turizmus.",
+      "factsAdvanced": [
+        "Híres a 'hauling the seine' (közösségi halászat) hagyományáról.",
+        "Tobago északi partjának turisztikai gyöngyszeme.",
+        "Két festői öböl mentén terül el, sűrű esőerdőkkel övezve.",
+        "Itt található a Castara-vízesés, egy rövid erdei séta után.",
+        "A falu híres a tradicionális agyagkemencében sült kenyérről.",
+        "Nincs tömegturizmus, a szálláshelyek nagy része helyi tulajdonban van.",
+        "Az öböl vize kiválóan alkalmas sznorkelezésre és úszásra.",
+        "A helyiek híresek vendégszeretetükről és vidám természetükről."
+      ]
+    },
+    {
+      "id": "tt-englishmans-bay-cities-v2",
+      "descriptionAdvanced": "Englishman's Bay Tobago egyik legeldugottabb és legszebb strandja, amelyet gyakran a világ legjobb strandjai közé is beválasztanak. A sűrű esőerdővel körülvett, tökéletes félkör alakú öböl az igazi 'Robinson Crusoe' életérzést nyújtja. Itt nincsenek nagy szállodák, csak a természet és az óceán moraja. A tengerpart aranyszínű homokja és a mélybordó korallzátonyok a búvárok és sznorkelezők paradicsomává teszik. A legenda szerint az öböl egy angol tengerészről kapta a nevét, aki itt talált menedéket. Englishman's Bay a sziget egyik legjobban őrzött titka. Földrajz K5 — trópusi öblök és érintetlen természet.",
+      "factsAdvanced": [
+        "Gyakran szerepel a világ legszebb strandjainak listáján.",
+        "Tökéletesen félkör alakú öböl, amelyet dús esőerdő ölel körbe.",
+        "Kiváló sznorkelezési helyszín közvetlenül a partnál.",
+        "Érintetlen jellegét annak köszönheti, hogy távol esik a főbb utaktól.",
+        "A tengerparti kis étterem híres a tradicionális helyi fogásairól.",
+        "A bőrhátú teknősök kedvelt fészkelőhelye az éjszakai órákban.",
+        "Nevét a 17. századi brit-francia tengeri csaták emlékére kapta.",
+        "A part mentén számos egzotikus madárfaj megfigyelhető."
+      ]
+    },
+    {
+      "id": "tt-richmond-cities-v2",
+      "descriptionAdvanced": "Richmond Tobago keleti részén található történelmi falu, amely a Richmond-öböl partján és a környező dombokon fekszik. A település a gyarmati időkben fontos cukor- és kakaóbirtok volt, aminek legszebb emléke a Richmond Great House. Ez a kúria ma szállodaként és múzeumként üzemel, bemutatva a rabszolgatartó korszak és a későbbi ültetvényes élet relikviáit. Richmond híres a vad és sziklás tengerpartjáról, ahol az Atlanti-óceán hullámai hatalmas erővel csapnak ki. A falu csendje és történelmi levegője egyedülálló élményt nyújt. Történelem K8 — gyarmati építészet és ültetvények.",
+      "factsAdvanced": [
+        "Itt található a Richmond Great House, egy gondosan felújított 18. századi kúria.",
+        "A település az Atlanti-óceán partján, dombos terepen fekszik.",
+        "Híres a vadregényes, sziklás partvonaláról.",
+        "Egykor Tobago egyik leggazdagabb ültetvénye volt.",
+        "A kúriában antik bútorok és afrikai művészeti alkotások gyűjteménye látható.",
+        "Népszerű helyszín a csendre és történelemre vágyó utazók számára.",
+        "A környéken több kisebb vízesés és folyó is található.",
+        "A falu megőrizte a 19. századi vidéki Tobago hangulatát."
+      ]
+    },
+    {
+      "id": "tt-glamis-cities-v2",
+      "descriptionAdvanced": "Glamis egy apró és eldugott település Tobago belső hegyvidékén, a Main Ridge Forest Reserve szélén. A falu neve skót eredetű, és a terület hűvös, ködös reggeleire utal, amelyek emlékeztették a telepeseket hazájukra. Glamis lakói főként önellátó gazdálkodással és kakaótermesztéssel foglalkoznak. A falu környezete rendkívül gazdag biodiverzitásban, hiszen közvetlenül szomszédos a világ legrégebbi védett esőerdőjével. Glamis tökéletes kiindulópont a Main Ridge mélyebb felfedezéséhez és a ritka trópusi madarak megfigyeléséhez. Földrajz K6 — hegyi élőhelyek és skót örökség.",
+      "factsAdvanced": [
+        "A Main Ridge Forest Reserve közvetlen közelében fekvő hegyi falu.",
+        "Nevét a skóciai Glamis-kastély után kapta a gyarmati időkben.",
+        "Trinidad és Tobago egyik legmagasabb és leghűvösebb települése.",
+        "Híres az érintetlen, dús esőerdei környezetéről.",
+        "Kiváló helyszín a madárleséshez, különösen a kolibrik megfigyelésére.",
+        "A lakosság kis számú, de rendkívül barátságos közösséget alkot.",
+        "A falu életét a természet és az évszakok ritmusa határozza meg.",
+        "Népszerű állomás az ökoturisták és kutatók számára."
+      ]
+    },
+    {
+      "id": "tt-cumaca-cities-v2",
+      "descriptionAdvanced": "Cumaca egy rejtett falu Trinidad Északi-hegységének mélyén, amely leginkább a közelében található titokzatos barlangokról híres. A barlangok az ország egyik legnagyobb olajmadár (oilbird) kolóniájának adnak otthont, ami biológiai szempontból világritkaság. Cumaca elérése komoly túrát igényel, de a látvány kárpótol: buja esőerdők, kristálytiszta patakok és a hegyek nyugalma várja az érkezőket. A falu neve őslakos eredetű, és a település ma is az egyik legizoláltabb közösség a szigeten, ahol a lakók mély összhangban élnek a természettel. Sachkunde K5 — barlangok és különleges állatfajok.",
+      "factsAdvanced": [
+        "Híres a Cumaca-barlangokról, ahol ritka olajmadarak élnek.",
+        "Az Északi-hegység egyik legnehezebben megközelíthető települése.",
+        "Gazdag őslakos (amerindian) régészeti leleteket találtak a környéken.",
+        "Híres a kakaó- és kávétermeléséről a meredek hegyoldalakon.",
+        "A területen található Trinidad néhány legtisztább hegyi folyója.",
+        "Népszerű célpont a kalandvágyó túrázók és barlangászok körében.",
+        "A falu megőrizte a 19. századi vidéki életmód elemeit.",
+        "Elektromos hálózat és infrastruktúra csak korlátozottan áll rendelkezésre."
+      ]
+    },
+    {
+      "id": "tt-brasso-cities-v2",
+      "descriptionAdvanced": "Brasso egy történelmi település Trinidad központi részén, a Central Range dombjai között. A falu neve spanyol eredetű, és a gyarmati korszakban fontos vasúti és mezőgazdasági csomópont volt. Brasso híres a termékeny völgyeiről, ahol az ország legjobb minőségű kakaóját termesztik. A település hangulata békés, a tájat a kakaóültetvények sötétzöldje és a színes faépületek dominálják. Brasso környéke geológiai szempontból is érdekes, hiszen számos kövületet és különleges kőzetformációt rejt. Földrajz K5 — dombvidéki mezőgazdaság és vasúttörténet.",
+      "factsAdvanced": [
+        "A Central Range (Központi-hegység) egyik legrégebbi faluja.",
+        "Fontos vasútállomással rendelkezett a múlt század közepéig.",
+        "Trinidad 'kakaó-övezetének' egyik központi települése.",
+        "Nevének spanyol gyökerei az ország korai történelmére utalnak.",
+        "Híres a közeli Brasso Venado barlangokról és sziklákról.",
+        "A falu piaca a környező kisbirtokos gazdák gyűjtőpontja.",
+        "Gazdag biodiverzitás jellemzi az őt körülvevő erdőket.",
+        "Csendes, hagyománytisztelő vidéki közösség lakja."
+      ]
+    }
+  ]
+}

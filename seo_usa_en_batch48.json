@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bering-sea-nature-v2",
+      "descriptionAdvanced": "The Bering Sea, separating Alaska from Russia, is one of the world's most productive and biologically complex marine ecosystems. Driven by the confluence of nutrient-rich Arctic and Pacific currents, the sea supports a massive abundance of marine life, including millions of seabirds, large populations of marine mammals like walruses and whales, and the world’s most significant commercial pollock and crab fisheries. This harsh, high-latitude environment is a critical indicator of climate-driven change in the Arctic, as rapidly warming water temperatures are fundamentally altering ice-cover patterns and marine species distribution. Today, the Bering Sea stands as a vital site for studying subarctic marine ecology and the sustainable management of global fisheries under extreme environmental volatility. Biologie K8 — Subarctic marine ecology and climate-driven distribution shifts.",
+      "factsAdvanced": [
+        "Separates Alaska from Russia, functioning as a vital maritime boundary.",
+        "One of the most productive and biologically complex ecosystems on Earth.",
+        "Supports the world's largest commercial pollock and crab fisheries.",
+        "Crucial habitat for massive populations of marine mammals and seabirds.",
+        "Highly monitored site for climate-driven changes in Arctic ice and species movement.",
+        "Essential laboratory for sustainable fishery management in volatile high-latitude zones."
+      ]
+    },
+    {
+      "id": "marthas-vineyard-nature-v2",
+      "descriptionAdvanced": "Martha's Vineyard, an island off the coast of Massachusetts, is a storied landscape shaped by the terminal moraine of the last great ice age, which deposited a distinct, sandy topography. The island provides a rare refuge for unique, fire-dependent pine barrens ecosystems and threatened species, such as the heath hen (historically extinct here) and current endangered pollinators. As a primary destination for summer recreation, the island faces a persistent, modern conflict between intensive tourism development and the necessity of preserving its rare, fragile coastal habitats. Today, Martha's Vineyard serves as an essential site for studying coastal barrier island resilience, the management of rare maritime biomes, and the preservation of historic, semi-isolated Atlantic ecosystems. Biologie K7 — Maritime island ecology and coastal barrier management.",
+      "factsAdvanced": [
+        "Island topography was shaped by the terminal moraine of the last ice age.",
+        "Provides a vital refuge for rare, fire-dependent pine barrens ecosystems.",
+        "Historical home to the extinct heath hen and current endangered pollinators.",
+        "Faces a persistent conflict between intensive seasonal tourism and ecosystem preservation.",
+        "Essential site for studying coastal barrier island resilience and biome management.",
+        "Represents a unique, semi-isolated maritime ecosystem in the Atlantic region."
+      ]
+    },
+    {
+      "id": "lake-pontchartrain-nature-v2",
+      "descriptionAdvanced": "Lake Pontchartrain, a massive, shallow tidal estuary in Louisiana, is essentially an inlet of the Gulf of Mexico, fundamentally connected to the regional hydrological balance of the Mississippi River delta. Historically a source of rich maritime resources, the lake has been severely impacted by massive urban development, industrial pollution, and the aftereffects of large-scale levee systems that have fundamentally altered its natural sediment and flow patterns. Since the tragic disaster of Hurricane Katrina, Lake Pontchartrain has become a critical site for studying the role of storm surge protection, wetland restoration, and the complex engineering required to balance urban safety with natural ecosystem function. Today, it stands as a model for restoring urban-impacted estuarine systems and maintaining coastal resilience in a warming world. Biologie K7 — Estuarine restoration and storm-surge hydrological engineering.",
+      "factsAdvanced": [
+        "Massive, shallow tidal estuary connected to the Gulf of Mexico.",
+        "Fundamentally tied to the hydrological balance of the Mississippi River delta.",
+        "Severely impacted by urban industrial pollution and levee-based sediment disruption.",
+        "Critical study site for storm-surge protection and urban wetland restoration.",
+        "Essential laboratory for balancing urban safety with coastal ecosystem function.",
+        "Serves as a global model for restoring highly impacted urban-coastal estuaries."
+      ]
+    }
+  ]
+}

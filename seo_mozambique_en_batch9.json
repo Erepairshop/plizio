@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "moamba-mountain-nature-v2",
+      "descriptionAdvanced": "Mount Moamba is a prominent, isolated geological feature rising above the flat agricultural plains of Maputo Province. Composed primarily of ancient rhyolite rock, the mountain stands in sharp contrast to the surrounding Incomati River valley. Its rocky, rugged slopes support a highly specialized xerophytic (drought-resistant) flora that differs significantly from the vegetation of the cultivated plains below. Historically, the elevated vantage point of Mount Moamba provided a strategic advantage for early settlements and, more recently, has served as a crucial site for modern telecommunications infrastructure serving the busy EN4 corridor. Geography K8 — Inselbergs, arid flora, and strategic topography.",
+      "factsAdvanced": [
+        "Located in Maputo Province, near the town of Moamba.",
+        "A prominent inselberg rising above the Incomati River plains.",
+        "Composed primarily of ancient, hard rhyolite volcanic rock.",
+        "Supports specialized, highly drought-resistant vegetation.",
+        "Historically used as a strategic lookout point.",
+        "Currently hosts vital telecommunications towers for the region."
+      ]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "descriptionAdvanced": "Savane Lake is a beautiful, expansive coastal lagoon located just north of Beira in Sofala Province. This shallow, brackish water body is separated from the Indian Ocean by only a thin strip of pristine, heavily forested sand dunes. The lake acts as a vital, nutrient-rich nursery for numerous species of marine fish and prawns, forming the backbone of the local artisanal fishing economy. Surrounded by dense mangroves and waving palm trees, Savane Lake is also becoming an increasingly popular, tranquil eco-tourism destination for residents seeking an escape from the bustling port city of Beira. Geography K8 — Coastal lagoons, brackish ecosystems, and estuarine nurseries.",
+      "factsAdvanced": [
+        "A large coastal lagoon located north of Beira in Sofala Province.",
+        "Separated from the ocean by a narrow, forested dune cordon.",
+        "Features a brackish environment critical for marine nurseries.",
+        "Supports a thriving local artisanal prawn and fish industry.",
+        "Surrounded by dense mangrove forests and coconut palms.",
+        "A developing site for low-impact, local eco-tourism."
+      ]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "descriptionAdvanced": "The Chinde River is one of the most historically and ecologically significant distributaries of the massive Zambezi River Delta. Flowing through Zambezia Province before emptying into the Indian Ocean, the Chinde was, during the late 19th and early 20th centuries, the only navigable channel for large steamships entering the Zambezi from the sea. Because of this, it became a bustling, vital transit port for the British and Portuguese colonial empires. Today, the river has silted heavily and is dominated by dense, impenetrable mangrove swamps, supporting immense populations of waterfowl and massive Nile crocodiles. Geography K8 — River deltas, historical navigation, and mangrove swamps.",
+      "factsAdvanced": [
+        "A major distributary channel of the Zambezi River Delta.",
+        "Located in the coastal region of Zambezia Province.",
+        "Historically the only deep-water navigable entrance to the Zambezi.",
+        "Once a bustling colonial port, now heavily silted.",
+        "The banks are lined with incredibly dense, highly intact mangrove forests.",
+        "A critical habitat for large populations of Nile crocodiles."
+      ]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "descriptionAdvanced": "The Lupata Forest is a rugged, uniquely adapted woodland clinging to the steep, rocky slopes of the Lupata Gorge along the Zambezi River. Because the gorge forces the river through a narrow, basalt canyon, the surrounding microclimate is significantly hotter and drier than the wider river valleys. The forest here consists of incredibly hardy, drought-resistant tree species, including ancient baobabs and thorny acacia, whose deep roots anchor into the volcanic rock. This dense, hostile woodland provides a vital, undisturbed refuge for leopards, baboons, and numerous raptor species. Geography K8 — Riparian woodlands, drought adaptations, and volcanic soils.",
+      "factsAdvanced": [
+        "Located on the steep slopes of the Lupata Gorge in Tete Province.",
+        "Adapted to the extremely hot and dry microclimate of the canyon.",
+        "Dominated by hardy, deep-rooted species like baobabs and acacias.",
+        "Grows directly out of dark, ancient basalt volcanic rock.",
+        "Provides a highly inaccessible refuge for local wildlife.",
+        "Acts as a buffer against severe soil erosion during river floods."
+      ]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "descriptionAdvanced": "Magoe Lake (often associated with the broader Cahora Bassa system) refers to the expansive, shallow, and highly productive wetlands found in the Magoe District of Tete Province, bordering Zimbabwe. This area acts as a critical transitional zone between the fast-flowing Zambezi River and the massive Cahora Bassa reservoir. The wetlands are characterized by extensive reed beds and flooded grasslands, making them an absolute haven for millions of migratory waterfowl and a crucial breeding ground for freshwater fish. The local economy is entirely dependent on this rich aquatic environment for both fishing and seasonal grazing. Geography K8 — Wetland transitions, waterfowl habitats, and reservoir ecology.",
+      "factsAdvanced": [
+        "Located in the Magoe District of Tete Province, near Zimbabwe.",
+        "Forms a massive wetland transition zone leading into Lake Cahora Bassa.",
+        "Characterized by extensive reed beds and seasonally flooded grasslands.",
+        "An internationally important stopover for migratory waterfowl.",
+        "A critical breeding and nursery ground for numerous freshwater fish.",
+        "The local population relies heavily on the lake for artisanal fishing."
+      ]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "descriptionAdvanced": "The Gilé National Reserve protects one of the most magnificent and pristine expanses of miombo woodland left in the world, located in the interior of Zambezia Province. Covering over 2,800 square kilometers, the reserve is characterized by vast, unbroken forests, towering granite inselbergs, and clear, sandy rivers. Despite suffering heavily from poaching during the civil war, dedicated conservation efforts have stabilized the ecosystem, leading to the successful reintroduction of buffalo and wild dogs. The Gilé Forest is a critical, highly isolated biodiversity hotspot in central Mozambique. Geography K8 — Miombo woodlands, forest conservation, and biological isolation.",
+      "factsAdvanced": [
+        "Located in the remote interior of Zambezia Province.",
+        "Protects over 2,800 square kilometers of pristine miombo woodland.",
+        "Features dramatic granite rock formations (inselbergs) piercing the canopy.",
+        "Currently undergoing significant wildlife reintroduction programs.",
+        "Home to diverse birdlife and rebounding populations of large mammals.",
+        "Crucial for protecting the headwaters of several regional river systems."
+      ]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "descriptionAdvanced": "The 'Gorgon' Marine Area refers to the incredibly rich, deep-water pelagic zones situated off the coastal drop-offs of northern Mozambique, particularly near the Quirimbas Archipelago. Unlike the shallow, warm coral reefs closer to shore, this area is defined by the Mozambique Current, a powerful, warm ocean current flowing south through the Mozambique Channel. The meeting of this current with steep underwater canyons creates massive nutrient upwellings. These upwellings attract spectacular numbers of apex marine predators, including marlin, sailfish, tiger sharks, and migrating pods of humpback whales. Geography K8 — Ocean currents, pelagic zones, and marine upwelling.",
+      "factsAdvanced": [
+        "Located in the deep waters of the Mozambique Channel, offshore from Cabo Delgado.",
+        "Heavily influenced by the fast-flowing, warm Mozambique Current.",
+        "Characterized by steep underwater canyons causing massive nutrient upwellings.",
+        "A globally renowned hotspot for massive pelagic game fish like marlin.",
+        "Forms a critical migration corridor for humpback whales.",
+        "The extreme depths and strong currents make it challenging to navigate."
+      ]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "descriptionAdvanced": "Mount Chiu is an imposing, heavily forested peak rising sharply in the remote interior of Niassa Province. As part of the broader Niassa highlands, the mountain acts as a vital watershed, capturing moisture from seasonal weather systems to feed the rivers flowing into the massive Niassa Special Reserve. Because of its extreme isolation and rugged terrain, the high-altitude forests on Mount Chiu remain largely unexplored by scientists and completely untouched by commercial logging. It is widely believed to harbor numerous undiscovered, endemic species of reptiles and amphibians. Geography K8 — Unexplored highlands, watersheds, and biological frontiers.",
+      "factsAdvanced": [
+        "Located in the remote, rugged interior of Niassa Province.",
+        "A highly isolated, heavily forested highland peak.",
+        "Acts as a critical watershed feeding rivers in the Niassa Special Reserve.",
+        "The upper slopes remain largely unexplored by modern science.",
+        "Provides a pristine, untouched refuge for high-altitude wildlife.",
+        "Extremely difficult to access due to the lack of surrounding infrastructure."
+      ]
+    },
+    {
+      "id": "serra-gorongosa-relief-v2",
+      "descriptionAdvanced": "The Gorongosa Mountains (Serra da Gorongosa) form a spectacular, isolated massif in central Mozambique, rising sharply to an elevation of 1,862 meters at Mount Gogogo. Geologically distinct from the surrounding rift valley, this massive granite formation creates its own dramatic microclimate, capturing moisture from the Indian Ocean to produce extremely high rainfall. This moisture sustains rare, endemic Afromontane rainforests on the upper slopes, which cascade down in hundreds of waterfalls to feed the floodplains of the adjacent Gorongosa National Park. The mountains are considered deeply sacred by the local communities. Geography K8 — Massifs, Afromontane ecosystems, and orographic rainfall.",
+      "factsAdvanced": [
+        "An isolated granite massif located in Sofala Province.",
+        "The highest peak, Mount Gogogo, reaches 1,862 meters.",
+        "Creates intense orographic rainfall, capturing moisture from the ocean.",
+        "Supports highly endangered, endemic Afromontane rainforests.",
+        "Provides the critical, year-round water supply for Gorongosa National Park.",
+        "The upper slopes are considered highly sacred by the local population."
+      ]
+    },
+    {
+      "id": "lebombo-berge-relief-v2",
+      "descriptionAdvanced": "The Lebombo Mountains form a long, narrow, and incredibly rugged volcanic ridge stretching along the southern border of Mozambique, separating it from South Africa and Eswatini. Composed of ancient, hard rhyolite rock, the mountains were formed roughly 180 million years ago during the violent breakup of the supercontinent Gondwana. Averaging about 600 meters in elevation, they act as a massive physical and climatic barrier, dividing the arid South African interior from the humid Mozambican coastal plains. Several major rivers, including the Incomati and Maputo, cut dramatic, deep gorges directly through this imposing volcanic wall. Geography K8 — Volcanic ridges, continental drift, and geographic barriers.",
+      "factsAdvanced": [
+        "A narrow mountain range spanning roughly 800 kilometers in length.",
+        "Forms the physical border between Mozambique, Eswatini, and South Africa.",
+        "Composed primarily of incredibly hard, 180-million-year-old rhyolite rock.",
+        "Averages around 600 meters in elevation.",
+        "Acts as a major climatic barrier separating humid coasts from dry interiors.",
+        "Cut through by major rivers forming spectacular, steep-sided gorges."
+      ]
+    },
+    {
+      "id": "zungu-plateau-relief-v2",
+      "descriptionAdvanced": "The Zungu Plateau is a vast, elevated, and highly remote tableland located in the northernmost reaches of Tete Province, near the border with Zambia. Characterized by its relatively flat, high-altitude terrain and cooler, temperate climate, the plateau stands in stark contrast to the blistering heat of the Zambezi River valley below. The area is dominated by dense, unbroken miombo woodlands and is incredibly sparsely populated. Geologically ancient and stable, the plateau is primarily utilized for small-scale subsistence agriculture and forms part of the rugged, largely inaccessible frontier of northwestern Mozambique. Geography K8 — High-altitude plateaus, frontier geography, and stable cratons.",
+      "factsAdvanced": [
+        "Located in the far northwest of Tete Province, bordering Zambia.",
+        "A massive, elevated tableland featuring a cooler, temperate climate.",
+        "Dominated by vast, unbroken expanses of miombo woodland.",
+        "Stands in stark climatic contrast to the hot Zambezi valley below.",
+        "Incredibly sparsely populated and highly remote.",
+        "Geologically stable, forming part of the ancient African craton."
+      ]
+    },
+    {
+      "id": "manica-hochland-relief-v2",
+      "descriptionAdvanced": "The Manica Highlands (Eastern Highlands) are a spectacular, rugged mountain range running along the central border between Mozambique and Zimbabwe. This dramatic topographical barrier features deep, verdant valleys, towering granite peaks, and cascading waterfalls, culminating in Mount Binga, Mozambique's highest point. The high elevation creates a distinctly cool, misty microclimate that supports lush Afromontane forests and highly productive agricultural zones famous for tea, coffee, and apples. The highlands are a visually stunning, ecologically distinct zone that sharply separates the Mozambican coastal plains from the high Zimbabwean plateau. Geography K8 — Border mountains, Afromontane flora, and high-altitude agriculture.",
+      "factsAdvanced": [
+        "Forms the mountainous border between central Mozambique and Zimbabwe.",
+        "Hosts Mount Binga, the highest point in Mozambique at 2,436 meters.",
+        "Features a cool, misty, high-rainfall microclimate.",
+        "Supports unique, high-altitude Afromontane forest ecosystems.",
+        "A highly productive region for growing tea, coffee, and temperate fruits.",
+        "Characterized by deep valleys, granite peaks, and numerous waterfalls."
+      ]
+    },
+    {
+      "id": "zambesi-delta-relief-v2",
+      "descriptionAdvanced": "The Zambezi Delta is a colossal, triangular wetland system where the massive Zambezi River fragments into numerous complex distributaries before emptying into the Indian Ocean. Covering thousands of square kilometers in central Mozambique, it is one of the most ecologically diverse and productive floodplains on Earth. The delta's relief is entirely flat, dominated by vast papyrus swamps, flooded grasslands, and the largest continuous mangrove forests in East Africa. Despite massive ecological changes caused by upstream damming, it remains a critical global stronghold for huge herds of Cape buffalo and thousands of waterbirds. Geography K8 — River deltas, wetland topography, and mangrove ecosystems.",
+      "factsAdvanced": [
+        "Located on the central coast of Mozambique in Zambezia and Sofala provinces.",
+        "Forms a massive, flat, triangular network of river distributaries.",
+        "Contains the largest continuous block of mangrove forest in East Africa.",
+        "An internationally recognized Ramsar Wetland of Importance.",
+        "Supports massive herds of Cape buffalo and waterbuck.",
+        "Its historical flood cycles were heavily altered by the Cahora Bassa Dam."
+      ]
+    },
+    {
+      "id": "cabo-delgado-kuesten-relief-v2",
+      "descriptionAdvanced": "The Cabo Delgado Coast presents a highly dramatic and unique maritime topography in northern Mozambique. Unlike the vast, flat, sandy beaches of the south, this northern coastline is characterized by sharp, jagged coral-rag cliffs that drop abruptly into deep, incredibly clear oceanic trenches. The coastline is deeply indented by numerous sheltered bays and massive estuaries, most notably the colossal Pemba Bay. This jagged, coral-dominated relief extends offshore to form the spectacular, drop-off reefs of the Quirimbas Archipelago, creating an incredibly rich but navigationally treacherous marine environment. Geography K8 — Coral-rag cliffs, coastal trenches, and jagged shorelines.",
+      "factsAdvanced": [
+        "The northernmost coastline of Mozambique, bordering Tanzania.",
+        "Characterized by sharp, raised fossilized coral-rag cliffs.",
+        "Lacks the wide, flat coastal plains found in southern Mozambique.",
+        "Features extremely deep underwater drop-offs very close to the shore.",
+        "Deeply indented by massive natural harbors like Pemba Bay.",
+        "The rugged coastline makes coastal road infrastructure highly difficult to build."
+      ]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "descriptionAdvanced": "The Tete Lowland is a massive, incredibly hot, and arid depression forming the broad valley of the Zambezi River as it flows through Tete Province. Geologically, this lowland is a graben—a block of the Earth's crust that has dropped down between parallel faults. Surrounded by high plateaus and mountains, the lowland traps heat, resulting in some of the highest recorded temperatures in the country. Beneath its baked, scrubby surface lies the Moatize Basin, one of the largest and most valuable coal seams on the planet, profoundly shaping the region's modern industrial geography. Geography K8 — Graben geology, arid depressions, and coal basins.",
+      "factsAdvanced": [
+        "A massive, low-lying geological depression in Tete Province.",
+        "Forms the wide, flat valley floor of the Zambezi River.",
+        "Geologically classified as a 'graben' formed by tectonic faulting.",
+        "Experiences incredibly high, punishing summer temperatures.",
+        "Contains the massive Moatize coal basin beneath the surface.",
+        "Surrounded by steep escarpments and high-altitude plateaus."
+      ]
+    },
+    {
+      "id": "gaza-ebene-relief-v2",
+      "descriptionAdvanced": "The Gaza Plain is an immense, incredibly flat, and low-lying coastal savannah that dominates the southern half of Mozambique. Stretching hundreds of kilometers inland from the Indian Ocean, the plain's topography varies barely a few meters in elevation, making it highly susceptible to massive, catastrophic flooding during cyclonic rains. The region is crossed by the sluggish, meandering Limpopo and Changane rivers, which deposit rich alluvial soils ideal for agriculture. During the dry season, the plain transforms into a harsh, arid, sun-baked landscape dominated by scrubby mopane trees and baobabs. Geography K8 — Coastal plains, flood vulnerability, and alluvial soils.",
+      "factsAdvanced": [
+        "A massive, flat coastal plain dominating southern Mozambique.",
+        "Features almost no significant topographical elevation changes.",
+        "Highly vulnerable to massive, devastating river floods during cyclones.",
+        "Crossed by the wide, meandering Limpopo River system.",
+        "Covered largely by arid, drought-resistant mopane woodland and scrub.",
+        "The flat terrain makes it ideal for massive, mechanized agricultural irrigation."
+      ]
+    },
+    {
+      "id": "niassa-waldgebiet-relief-v2",
+      "descriptionAdvanced": "The Niassa Forest Region (Niassa Special Reserve) features a unique, mesmerizing topography defined by an endless, flat ocean of dense miombo woodland violently pierced by massive, sheer granite rock formations known as inselbergs. Located in the extreme north, these gigantic, dome-shaped rock mountains look like stone islands rising from a green sea. The inselbergs act as critical ecological features, trapping moisture, providing refuge for leopards, and historically serving as highly defensible strongholds for local populations. This rugged, ancient landscape makes Niassa one of the most visually stunning and wild terrains in all of Africa. Geography K8 — Inselbergs, miombo woodlands, and ancient geology.",
+      "factsAdvanced": [
+        "Located in the vast, remote Niassa Province in the north.",
+        "Characterized by a flat woodland plain pierced by giant granite inselbergs.",
+        "The inselbergs, like Mount Mecula, can rise hundreds of meters sheer.",
+        "The geology is composed of incredibly old, hard Precambrian rock.",
+        "The rock formations create unique microclimates and trap crucial rainwater.",
+        "Considered one of the wildest and most visually dramatic landscapes in Africa."
+      ]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "descriptionAdvanced": "The Nampula Plateau is a vast, gently undulating upland region that forms the agricultural heartland of northern Mozambique. Sitting at a moderate elevation, the plateau enjoys a cooler, more favorable climate than the humid coastal plains to the east. The landscape is characterized by rich, highly fertile red soils and is dramatically punctuated by numerous smooth, dome-like granite inselbergs. This elevated, stable topography has allowed for the development of massive commercial agricultural estates and the vital Nacala Railway corridor, making it the economic engine of the northern provinces. Geography K8 — Uplands, red soils, and agricultural topography.",
+      "factsAdvanced": [
+        "A vast, undulating upland region dominating Nampula Province.",
+        "Sits at a moderate elevation, providing a favorable agricultural climate.",
+        "Characterized by highly fertile, iron-rich red soils.",
+        "Punctuated by smooth, dome-shaped granite rock formations.",
+        "The flat, stable topography facilitated the construction of the Nacala Railway.",
+        "Supports the highest rural population density in Mozambique."
+      ]
+    },
+    {
+      "id": "mount-namuli-relief-v2",
+      "descriptionAdvanced": "Mount Namuli is a majestic, towering granite peak located in Zambezia Province, holding the title of Mozambique's second-highest mountain at an elevation of 2,419 meters. Part of a larger, rugged massif, the mountain creates a massive rain shadow and a cool, misty microclimate that supports the famous sprawling tea estates of Gurúè on its lower slopes. Above the tea fields, the mountain is crowned with incredibly rare, isolated Afromontane forests and high-altitude grasslands that host numerous endemic species of birds and plants found absolutely nowhere else on the planet. Geography K8 — High-altitude massifs, endemic ecology, and tea-growing climates.",
+      "factsAdvanced": [
+        "The second-highest mountain in Mozambique, reaching 2,419 meters.",
+        "Located in the Gurúè District of Zambezia Province.",
+        "The lower slopes are heavily utilized for massive commercial tea plantations.",
+        "The upper reaches host incredibly rare, isolated Afromontane forests.",
+        "Home to the critically endangered Namuli Apalis, an endemic bird.",
+        "The mountain is considered deeply sacred by the local Makua people."
+      ]
+    },
+    {
+      "id": "mount-binga-relief-v2",
+      "descriptionAdvanced": "Mount Binga, rising to a formidable 2,436 meters, is the absolute highest point in Mozambique. Located in the remote, rugged Chimanimani Mountains on the border with Zimbabwe, the peak is composed of incredibly hard, ancient quartzite rock. The climb to the summit is notoriously challenging, featuring steep, treacherous rock faces and unpredictable, freezing misty weather. The mountain's extreme altitude creates an alpine-like environment, supporting unique, stunted flora and acting as the source for numerous pristine, fast-flowing mountain streams that cascade down into the Mozambican plains. Geography K8 — Highest national peaks, quartzite geology, and alpine biomes.",
+      "factsAdvanced": [
+        "The highest geographical point in Mozambique, at 2,436 meters.",
+        "Located in the Chimanimani Mountains on the Zimbabwean border.",
+        "Geologically composed of ancient, highly weather-resistant quartzite.",
+        "Features an incredibly harsh, cold, and wet high-altitude climate.",
+        "A highly challenging, multi-day hike requiring serious mountaineering skills.",
+        "The peak officially marks the international border between the two countries."
+      ]
+    },
+    {
+      "id": "zambezia-kuesten-relief-v2",
+      "descriptionAdvanced": "The Zambezia Coast is a highly complex, dynamic stretch of shoreline characterized by massive, shifting river estuaries, endless, impenetrable mangrove swamps, and long, deserted sandy beaches. Because the province is drained by dozens of wide, powerful rivers carrying massive amounts of sediment, the coastline is constantly changing shape. This incredibly flat, low-lying coastal topography makes the region exceptionally vulnerable to the catastrophic storm surges driven by the powerful Indian Ocean cyclones that regularly batter central Mozambique, leading to frequent, massive flooding of coastal communities. Geography K8 — Shifting coastlines, estuarine topography, and cyclonic vulnerability.",
+      "factsAdvanced": [
+        "A highly complex coastline in central Mozambique.",
+        "Dominated by massive river estuaries and vast mangrove forests.",
+        "Constantly reshaped by heavy sediment deposits from interior rivers.",
+        "Exceptionally flat and low-lying, offering no natural windbreaks.",
+        "Highly vulnerable to catastrophic storm surges from Indian Ocean cyclones.",
+        "Historically utilized for massive, coastal copra (coconut) plantations."
+      ]
+    },
+    {
+      "id": "chimoio-plateau-relief-v2",
+      "descriptionAdvanced": "The Chimoio Plateau is a broad, elevated, and highly fertile region in Manica Province, acting as the geographical transition zone between the flat coastal plains of Sofala and the towering Eastern Highlands bordering Zimbabwe. Sitting at an average elevation of 700 meters, the plateau enjoys a distinctly mild, comfortable climate with highly reliable rainfall. This favorable topography has made the Chimoio region the absolute agricultural powerhouse of central Mozambique, supporting massive commercial farms producing maize, tobacco, and citrus, while also providing an ideal, flat route for the critical Beira-Zimbabwe transport corridor. Geography K8 — Agricultural plateaus, transition zones, and transport corridors.",
+      "factsAdvanced": [
+        "An elevated, flat region located in Manica Province.",
+        "Averages around 700 meters in elevation.",
+        "Acts as a transition zone between coastal plains and the Eastern Highlands.",
+        "Features a highly favorable, mild climate with reliable rainfall.",
+        "The premier commercial agricultural zone in central Mozambique.",
+        "Provides the flat, stable terrain necessary for the Beira-Zimbabwe highway and railway."
+      ]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "descriptionAdvanced": "Pemba Bay is an absolute geological marvel, ranked as the third-largest natural bay in the world. Located on the jagged, coral-dominated coastline of Cabo Delgado, the bay is a massive, deep-water inlet that is almost entirely enclosed by two narrow peninsulas. This unique, incredibly sheltered topography creates a vast, calm body of water perfectly suited for safe, deep-draft shipping, protecting vessels from the rough Indian Ocean currents. The bay's deep, clear waters and surrounding pristine beaches have driven Pemba's rapid development as both a luxury tourist destination and a massive logistics hub for offshore gas. Geography K8 — Mega-bays, sheltered harbors, and coastal geology.",
+      "factsAdvanced": [
+        "Recognized as the third-largest natural bay in the world.",
+        "Located in Cabo Delgado Province, northern Mozambique.",
+        "Almost entirely enclosed, providing incredible shelter from ocean storms.",
+        "Features incredibly deep, clear water capable of handling massive ships.",
+        "The city of Pemba is built on the peninsula forming the southern arm of the bay.",
+        "A highly strategic topographical feature for the offshore LNG industry."
+      ]
+    },
+    {
+      "id": "lupata-massiv-relief-v2",
+      "descriptionAdvanced": "The Lupata Massif is a highly dramatic, dark, and imposing range of volcanic hills and cliffs located along the Zambezi River in Tete Province. Formed by ancient, massive basalt lava flows, the incredibly hard rock of the massif has aggressively resisted the erosive power of the Zambezi, forcing the massive river to cut a deep, narrow, and treacherous gorge directly through it. The rugged, broken relief of the Lupata Massif creates a stark, harsh landscape that acts as a major physical and climatic barrier within the otherwise broad, flat Zambezi valley. Geography K8 — Volcanic massifs, river gorges, and basalt geology.",
+      "factsAdvanced": [
+        "A dark, rugged volcanic rock formation in Tete Province.",
+        "Composed primarily of incredibly hard, ancient basalt lava flows.",
+        "Forces the Zambezi River into a deep, narrow, fast-flowing gorge.",
+        "Creates a stark, harsh, and incredibly hot microclimate.",
+        "Historically formed a massive physical barrier to riverboat exploration.",
+        "Highly resistant to erosion compared to the surrounding sedimentary plains."
+      ]
+    },
+    {
+      "id": "morrumbala-berg-relief-v2",
+      "descriptionAdvanced": "Mount Morrumbala is a massive, standalone mountain dominating the flat, low-lying plains of the Shire River valley in Zambezia Province. Rising sharply to an elevation of over 1,100 meters, this imposing granite inselberg acts as a colossal visual and climatic anchor for the entire district. Because it forces humid air to rise and cool, the mountain generates its own localized, highly reliable rainfall, supporting lush forests on its upper slopes and fertile, highly productive agricultural lands at its base. Morrumbala stands as a textbook example of how isolated topography can profoundly shape local climates and human settlement. Geography K8 — Inselbergs, localized climates, and orographic lifting.",
+      "factsAdvanced": [
+        "A massive, isolated granite mountain in Zambezia Province.",
+        "Rises sharply to an elevation exceeding 1,100 meters.",
+        "Dominates the flat, surrounding Shire River valley plains.",
+        "Generates its own highly localized, reliable orographic rainfall.",
+        "The fertile lower slopes support dense, productive agricultural settlements.",
+        "Historically utilized as a highly strategic, defensible high-ground."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "accra-cities-v2",
+      "descriptionAdvanced": "Accra ist die pulsierende Hauptstadt und größte Metropole Ghanas, direkt am Golf von Guinea gelegen. Ursprünglich eine Ansammlung von Ga-Dörfern, wuchs die Stadt rund um britische, dänische und niederländische Forts aus dem 17. Jahrhundert heran. Heute dominiert die moderne Architektur neben historischen Vierteln wie Jamestown, das für seinen 1928 erbauten rot-weißen Leuchtturm berühmt ist. Der riesige Makola-Markt bildet das wirtschaftliche Herz der Stadt, wo Tausende von Händlern alles von Textilien bis zu Elektronik anbieten. Geografie K7 — afrikanische Hauptstädte.",
+      "factsAdvanced": ["Hauptstadt Ghanas", "Liegt am Golf von Guinea", "Bekannt für den Makola-Markt", "Historische Forts aus dem 17. Jh.", "Jamestown Leuchtturm (1928 erbaut)", "Ursprung als Ga-Dorf"]
+    },
+    {
+      "id": "kumasi-cities-v2",
+      "descriptionAdvanced": "Kumasi, die historische Hauptstadt des mächtigen Ashanti-Reiches, liegt in der waldreichen Region im Zentrum Ghanas. Bekannt als Gartenstadt wegen ihrer vielen Pflanzenarten, beherbergt sie den beeindruckenden Manhyia-Palast, den Sitz des Asantehene. Der Kejetia-Markt ist mit über 11.000 Ständen der größte Freiluftmarkt Westafrikas und ein faszinierendes Labyrinth aus Farben und Gerüchen. Die Stadt war 1900 Schauplatz des Yaa-Asantewaa-Krieges gegen die britischen Kolonialtruppen. Geschichte K8 — koloniale Konflikte in Afrika.",
+      "factsAdvanced": ["Historische Hauptstadt des Ashanti-Reiches", "Sitz des Manhyia-Palastes", "Kejetia-Markt hat über 11.000 Stände", "Bekannt als Gartenstadt", "Schauplatz des Yaa-Asantewaa-Krieges (1900)", "Liegt in der waldreichen Zentralregion"]
+    },
+    {
+      "id": "tamale-cities-v2",
+      "descriptionAdvanced": "Tamale ist die am schnellsten wachsende Stadt in Ghana und das administrative Zentrum der flachen Savannenregion im Norden. Im Gegensatz zum christlich geprägten Süden ist die Architektur hier stark vom Islam beeinflusst, mit zahlreichen traditionellen Rundhütten, die neben modernen Moscheen stehen. Die Stadt ist der Hauptknotenpunkt für den Handel mit landwirtschaftlichen Gütern wie Sheabutter und Yams, die in der trockenen Umgebung gedeihen. Geografie K6 — Savannenlandschaften.",
+      "factsAdvanced": ["Schnellstwachsende Stadt Ghanas", "Zentrum der nördlichen Savannenregion", "Starker islamischer Einfluss in Architektur", "Hauptknotenpunkt für Sheabutter", "Handel mit Yams", "Traditionelle Rundhütten neben Moscheen"]
+    },
+    {
+      "id": "takoradi-cities-v2",
+      "descriptionAdvanced": "Zusammen mit Sekondi bildet Takoradi die drittgrößte Metropolregion des Landes, oft als Ölstadt bezeichnet, seit 2007 vor der Küste große Erdölvorkommen entdeckt wurden. Der 1928 eröffnete Tiefseehafen war der erste seiner Art in Ghana und ist bis heute ein zentraler Umschlagplatz für Kakao, Holz und Bauxit. Während des Zweiten Weltkriegs diente die Stadt als wichtige Basis für britische Luftwaffeneinsätze in Nordafrika. Geschichte K8 — Afrika im Zweiten Weltkrieg.",
+      "factsAdvanced": ["Metropolregion mit Sekondi", "Oft als Ölstadt bezeichnet (Entdeckung 2007)", "Tiefseehafen eröffnet 1928", "Umschlagplatz für Bauxit und Kakao", "Basis für britische Luftwaffe im 2. WK", "Drittgrößte Metropole des Landes"]
+    },
+    {
+      "id": "ashaiman-cities-v2",
+      "descriptionAdvanced": "Ursprünglich als kleines Bauerndorf im 17. Jahrhundert gegründet, explodierte die Bevölkerung von Ashaiman durch den Bau der benachbarten Hafenstadt Tema in den 1960er Jahren. Es ist heute eine der am dichtesten besiedelten urbanen Zonen Ghanas, geprägt von einem unermüdlichen Unternehmergeist und lebendiger Straßenkultur. Trotz anfänglicher infrastruktureller Herausforderungen hat sich die Stadt zu einem wichtigen Handelszentrum mit einem enormen Lebensmittel- und Textilmarkt entwickelt. Sozialkunde K7 — Urbanisierung.",
+      "factsAdvanced": ["Gegründet im 17. Jahrhundert", "Wuchs durch den Bau von Tema in den 1960ern", "Eine der dichtesten urbanen Zonen", "Großer Lebensmittel- und Textilmarkt", "Starke Straßenkultur", "Ursprünglich ein kleines Bauerndorf"]
+    },
+    {
+      "id": "tema-cities-v2",
+      "descriptionAdvanced": "Tema, auf dem Nullmeridian gelegen, ist Ghanas wichtigster Seehafen und ein Paradebeispiel für eine planmäßig angelegte Industriestadt. Sie wurde 1960 von Präsident Kwame Nkrumah auf dem Gelände eines kleinen Fischerdorfes errichtet, um die wirtschaftliche Unabhängigkeit des Landes zu fördern. Die Stadt ist in nummerierte Gemeinschaften unterteilt und beherbergt die Volta Aluminium Company sowie Ölraffinerien, die Rohstoffe aus dem ganzen Land verarbeiten. Geografie K8 — Industrie und Häfen.",
+      "factsAdvanced": ["Wichtigster Seehafen Ghanas", "Liegt genau auf dem Nullmeridian", "Erbaut 1960 unter Präsident Nkrumah", "Heimat der Volta Aluminium Company", "Besitzt eine große Ölraffinerie", "Planmäßig angelegte Industriestadt"]
+    },
+    {
+      "id": "teshie-cities-v2",
+      "descriptionAdvanced": "Teshie, östlich von Accra gelegen, ist berühmt für seine außergewöhnliche Tradition der Fantasy-Särge, bei der verstorbene Tischler in Särgen in Form von Autos, Fischen oder Flugzeugen beigesetzt werden. Die Siedlung wurde 1710 von Ga-Fischern gegründet, und noch heute spielt der Fischfang im Golf von Guinea eine zentrale Rolle im Alltag der Bewohner. Jedes Jahr im August wird das farbenfrohe Homowo-Festival gefeiert, um an eine historische Hungersnot zu erinnern und die Ernte zu preisen. Kultur K6 — afrikanische Traditionen.",
+      "factsAdvanced": ["Berühmt für Fantasy-Särge", "Gegründet 1710 von Ga-Fischern", "Liegt östlich von Accra", "Fischfang im Golf von Guinea", "Jährliches Homowo-Festival im August", "Särge in Form von Autos oder Fischen"]
+    },
+    {
+      "id": "cape-coast-cities-v2",
+      "descriptionAdvanced": "Cape Coast, lokal als Oguaa bekannt, war bis 1877 die Hauptstadt der britischen Goldküste und ist eine Stadt voller dramatischer Geschichte. Das dominierende Cape Coast Castle, erbaut im 17. Jahrhundert, steht als stummes Zeugnis des transatlantischen Sklavenhandels und zieht heute Besucher aus der ganzen Welt an. Die Stadt gilt als Wiege der westlichen Bildung in Ghana, da hier die erste anglikanische Schule gegründet wurde und viele der renommiertesten Gymnasien des Landes ansässig sind. Geschichte K7 — der transatlantische Handel.",
+      "factsAdvanced": ["Oguaa (lokaler Name)", "Hauptstadt der britischen Goldküste bis 1877", "Cape Coast Castle erbaut im 17. Jh.", "Zentrum des transatlantischen Sklavenhandels", "Ort der ersten anglikanischen Schule", "Wiege der westlichen Bildung in Ghana"]
+    },
+    {
+      "id": "sekondi-cities-v2",
+      "descriptionAdvanced": "Sekondi bildet den älteren und administrativen Teil der Zwillingsstadt Sekondi-Takoradi an der südwestlichen Küste. Die Siedlung wuchs um das 1642 von den Niederländern erbaute Fort Oranje und wurde früh durch den Bau der Eisenbahnlinie im Jahr 1903 an die Goldminen im Hinterland angebunden. Heute ist sie ein wichtiges Zentrum für den Bau von Fischerbooten und die Verwaltung der umliegenden rohstoffreichen Gebiete. Wirtschaft K6 — Transport und Handel.",
+      "factsAdvanced": ["Teil der Sekondi-Takoradi Metropole", "Wuchs um Fort Oranje (1642 erbaut)", "Eisenbahnlinie 1903 gebaut", "Zentrum für Fischerbootbau", "Anbindung an Goldminen im Hinterland", "Administrativer Teil der Zwillingsstadt"]
+    },
+    {
+      "id": "obuasi-cities-v2",
+      "descriptionAdvanced": "Obuasi ist das glänzende Goldgräberzentrum Ghanas, gelegen in einem fruchtbaren Tal, das von steilen Hügeln umgeben ist. Die Ashanti Gold Mine, die hier seit 1897 industriell betrieben wird, zählt zu den zehn größten Goldminen der Welt und hat Milliarden Tonnen Erz gefördert. Die Abhängigkeit der Stadt von diesem einzigen Rohstoff prägt sowohl den enormen Reichtum als auch die ökologischen und sozialen Herausforderungen der Region. Geografie K8 — Ressourcenabbau.",
+      "factsAdvanced": ["Zentrum des ghanaischen Goldbergbaus", "Ashanti Gold Mine (seit 1897 betrieben)", "Gehört zu den zehn größten Goldminen weltweit", "Milliarden Tonnen Erz gefördert", "Umgeben von steilen Hügeln", "Starke ökologische Herausforderungen"]
+    },
+    {
+      "id": "madina-cities-v2",
+      "descriptionAdvanced": "Madina ist ein rasant wachsender Vorort im Norden von Accra, der in den 1950er Jahren von muslimischen Zuwanderern aus Nordghana, Togo und Burkina Faso gegründet wurde. Es zeichnet sich durch eine enorme ethnische Vielfalt aus, wobei über fünfzig verschiedene Sprachen in den belebten Straßen gesprochen werden. Der Madina-Markt ist einer der geschäftigsten der Hauptstadtregion, auf dem landwirtschaftliche Produkte aus dem hügeligen Hinterland direkt verkauft werden. Sozialkunde K7 — Migration und Integration.",
+      "factsAdvanced": ["Gegründet in den 1950er Jahren", "Über fünfzig Sprachen gesprochen", "Zuwanderer aus Togo und Burkina Faso", "Nordöstlicher Vorort von Accra", "Belebter Madina-Markt", "Agrarprodukte aus dem Hinterland"]
+    },
+    {
+      "id": "koforidua-cities-v2",
+      "descriptionAdvanced": "Eingebettet in die bewaldeten Hügel der Eastern Region, ist Koforidua ein ruhigeres Handelszentrum, das für seinen wöchentlichen Perlenmarkt bekannt ist. Der Markt zieht Händler aus ganz Westafrika an, die handgemachte Glas- und Keramikperlen tauschen. Gegründet 1875 von Akan-Flüchtlingen, wuchs die Stadt im frühen 20. Jahrhundert durch den Bau der Eisenbahn, die den lukrativen Kakaoexport an die Küste ermöglichte. Wirtschaft K6 — traditionelles Handwerk.",
+      "factsAdvanced": ["Eingebettet in die bewaldeten Hügel", "Gegründet 1875 von Akan-Flüchtlingen", "Berühmt für wöchentlichen Perlenmarkt", "Glas- und Keramikperlen-Handel", "Eisenbahnbau im frühen 20. Jahrhundert", "Zentrum der Eastern Region"]
+    },
+    {
+      "id": "wa-cities-v2",
+      "descriptionAdvanced": "Wa ist die Hauptstadt der Upper West Region und das historische Herz des Wala-Königreichs, dessen Einfluss bis ins 17. Jahrhundert zurückreicht. Der Wa-Naa-Palast, erbaut aus traditionellem Lehmbauweise, ist ein herausragendes Beispiel der sudanesisch-sahelischen Architektur und Residenz des örtlichen Königs. Die mehrheitlich muslimische Bevölkerung betreibt hauptsächlich Landwirtschaft in der trockenen Savanne, wobei Hirse, Mais und Erdnüsse die Grundnahrungsmittel bilden. Geografie K7 — Sahelzone.",
+      "factsAdvanced": ["Hauptstadt der Upper West Region", "Wa-Naa-Palast (17. Jahrhundert)", "Lehmbauweise (Sudano-Sahel-Architektur)", "Mehrheitlich muslimische Bevölkerung", "Anbau von Hirse und Erdnüssen", "Historisches Zentrum des Wala-Königreichs"]
+    },
+    {
+      "id": "techiman-cities-v2",
+      "descriptionAdvanced": "Techiman gilt historisch als der mythische Ursprungsort des Akan-Volkes und ist heute ein kritischer Knotenpunkt im Zentrum Ghanas. Der Techiman-Markt ist der größte Umschlagplatz für landwirtschaftliche Produkte im ganzen Land; jeden Mittwoch wechseln hier Hunderte Tonnen Yams, Mais und Tomaten den Besitzer. Die Stadt profitiert von ihrer strategischen Lage an den Hauptstraßen, die den bewaldeten Süden mit der trockenen nördlichen Savanne verbinden. Geografie K6 — Inlandsverkehr.",
+      "factsAdvanced": ["Mythischer Ursprungsort des Akan-Volkes", "Größter Agrarmarkt Ghanas", "Umschlagplatz für Yams und Tomaten", "Strategische Lage im Zentrum Ghanas", "Verbindet Süd- und Nordsavanne", "Mittwochs Hunderte Tonnen gehandelt"]
+    },
+    {
+      "id": "nungua-cities-v2",
+      "descriptionAdvanced": "Als eine der ältesten Ga-Siedlungen an der Küste bewahrt Nungua seine traditionelle Clan-Struktur, obwohl es längst mit der Metropole Accra verschmolzen ist. Die lokale Wirtschaft basiert nach wie vor stark auf der handwerklichen Fischerei, bei der bunt bemalte Holzkanus jeden Morgen auf den Atlantik hinausfahren. Die Stadt ist auch Heimat der Regional Maritime University, der wichtigsten Ausbildungsstätte für Seeleute in Westafrika. Wirtschaft K7 — maritime Berufe.",
+      "factsAdvanced": ["Eine der ältesten Ga-Siedlungen", "Heimat der Regional Maritime University", "Wirtschaft basiert auf Handwerksfischerei", "Bunt bemalte Holzkanus", "Bewahrt traditionelle Clan-Struktur", "Wichtigste Seefahrtschule Westafrikas"]
+    },
+    {
+      "id": "tema-new-town-cities-v2",
+      "descriptionAdvanced": "Dieser dicht besiedelte Bezirk entstand, als die ursprünglichen Bewohner des Fischerdorfes Torman 1959 umgesiedelt wurden, um Platz für den neuen Tiefseehafen Tema zu machen. Trotz der industriellen Nachbarschaft haben die Einwohner ihre jahrhundertealten Fischereitraditionen und Ga-Rituale, insbesondere das Kplejoo-Fest, beibehalten. Der lokale Fischereihafen ist ein pulsierender Ort, an dem der tägliche Fang geräuchert und für den Transport ins Landesinnere vorbereitet wird. Sozialkunde K6 — Tradition und Moderne.",
+      "factsAdvanced": ["Entstanden durch Umsiedlung 1959", "Ehemaliges Fischerdorf Torman", "Jährliches Kplejoo-Fest der Ga", "Pulsierender lokaler Fischereihafen", "Täglicher Fang wird geräuchert", "Dicht besiedelter industrieller Bezirk"]
+    },
+    {
+      "id": "sunyani-cities-v2",
+      "descriptionAdvanced": "Sunyani, die Hauptstadt der Bono-Region, ist von dichten Regenwäldern umgeben und ein Zentrum der ghanaischen Kakaoproduktion. Ursprünglich ein kleiner Außenposten für Elefantenjäger, wuchs die Siedlung in den 1920er Jahren rasant, als die britische Kolonialverwaltung sie zu einen Straßenknotenpunkt ausbaute. Heute ist die Stadt für ihre Sauberkeit und die Sunyani Technical University bekannt, die landwirtschaftliche Fachkräfte für die Region ausbildet. Geografie K7 — Regenwaldökonomie.",
+      "factsAdvanced": ["Hauptstadt der Bono-Region", "Zentrum der Kakaoproduktion", "Ursprünglich Außenposten für Elefantenjäger", "Wuchs rasant in den 1920er Jahren", "Heimat der Sunyani Technical University", "Umgeben von dichten Regenwäldern"]
+    },
+    {
+      "id": "ho-cities-v2",
+      "descriptionAdvanced": "Ho liegt am Fuße der bewaldeten Akwapim-Togo-Bergkette und ist das administrative Herz der Volta-Region nahe der Grenze zu Togo. Zwischen 1890 und dem Ersten Weltkrieg war es Teil der deutschen Kolonie Togoland, wovon heute noch historische Missionskirchen, Steinhäuser und ein altes Gefängnis zeugen. Das ruhige Klima und die hügelige Umgebung machen die Stadt zu einem idealen Anbaugebiet für Kaffee, Kakao und verschiedene Obstsorten. Geschichte K8 — deutsche Kolonien in Afrika.",
+      "factsAdvanced": ["Administratives Herz der Volta-Region", "Teil der deutschen Kolonie Togoland (1890-1914)", "Am Fuße der Akwapim-Togo-Bergkette", "Historische Missionskirchen erhalten", "Ideales Anbaugebiet für Kaffee", "Nahe der Grenze zu Togo"]
+    },
+    {
+      "id": "bawku-cities-v2",
+      "descriptionAdvanced": "Ganz im Nordosten Ghanas, nahe der Grenze zu Burkina Faso und Togo, liegt Bawku, eine geschäftige Handelsstadt in der flachen Sahelzone. Aufgrund der geografischen Lage passieren hier unzählige Händler mit Rindern, Zwiebeln und traditionellen Baumwollstoffen (Smock) die Grenzen. Die Stadt hat oft unter ethnischen Spannungen zwischen den Kusasi- und Mamprusi-Gruppen gelitten, die um die politische Vorherrschaft und Landrechte in der Region konkurrieren. Sozialkunde K8 — ethnische Konflikte.",
+      "factsAdvanced": ["Nordöstlichste große Handelsstadt", "Grenzt an Burkina Faso und Togo", "Handel mit Rindern und Zwiebeln", "Traditionelle Baumwollstoffe (Smock)", "Spannungen zwischen Kusasi und Mamprusi", "Flache Sahelzone"]
+    },
+    {
+      "id": "dome-cities-v2",
+      "descriptionAdvanced": "Dome, im Ga-East-Distrikt von Greater Accra, hat sich in den letzten Jahrzehnten von einem kleinen Dorf zu einer der bevölkerungsreichsten Vorstädte der Hauptstadt entwickelt. Das Wachstum wurde durch die Ansiedlung von Pendlern angetrieben, die in Accra arbeiten, aber bezahlbaren Wohnraum suchten. Der Dome-Markt, der sich entlang der Eisenbahnlinie erstreckt, ist das wirtschaftliche Zentrum, das die umliegenden Wohngebiete mit frischen Lebensmitteln und Haushaltswaren versorgt. Geografie K6 — städtische Expansion.",
+      "factsAdvanced": ["Im Ga-East-Distrikt von Accra", "Rasant von Dorf zur Vorstadt gewachsen", "Großer Markt entlang der Eisenbahn", "Zentrum für pendelnde Arbeiter", "Frische Lebensmittel für Wohngebiete", "Beispiel städtischer Expansion"]
+    },
+    {
+      "id": "bolgatanga-cities-v2",
+      "descriptionAdvanced": "Bolgatanga, oft kurz Bolga genannt, ist das Zentrum der Upper East Region und das Tor zum Sahel. Die Stadt ist weltberühmt für ihr Kunsthandwerk, insbesondere für die robusten, bunt gewebten Bolga-Körbe aus Elefantengras, die weltweit exportiert werden. Umgeben von einer kargen, von Affenbrotbäumen (Baobabs) geprägten Landschaft, kämpfen die Bauern hier mit einer kurzen Regenzeit, was den Handel mit Kunsthandwerk überlebenswichtig macht. Wirtschaft K7 — lokales Handwerk.",
+      "factsAdvanced": ["Zentrum der Upper East Region", "Berühmt für Bolga-Körbe", "Material: robustes Elefantengras", "Tor zum afrikanischen Sahel", "Von Baobab-Bäumen (Affenbrotbäumen) geprägt", "Exportiert Kunsthandwerk weltweit"]
+    },
+    {
+      "id": "lashibi-cities-v2",
+      "descriptionAdvanced": "Lashibi liegt zwischen Nungua und Tema und ist ein typisches Beispiel für eine geplante Wohnsiedlung, die durch die 80er Jahren für den Bau von staatlichen Wohnprojekten für Arbeiter gerodet wurde. Heute mischen sich hier wohlhabende Gated Communities mit dynamischen, informellen Märkten entlang der Hauptverkehrsadern. Sozialkunde K7 — Stadtplanung.",
+      "factsAdvanced": ["Liegt zwischen Nungua und Tema", "Geplante Wohnsiedlung (1980er Jahre)", "Gebaut als staatliches Wohnprojekt", "Mix aus Gated Communities und Märkten", "Ursprünglich unbesiedeltes Buschland", "Beispiel für rasante Urbanisierung"]
+    },
+    {
+      "id": "taifa-cities-v2",
+      "descriptionAdvanced": "Taifa ist eine weitere rasant gewachsene Vorstadt im Nordwesten Accras, die durch ihre dichte Bebauung und lebendige informelle Wirtschaft charakterisiert ist. Gegründet von Ga-Migranten, zog der Ort bald Menschen aus allen Teilen Ghanas an, die im Schatten der Hauptstadt ein neues Leben suchten. Die steilen Hügel der Umgebung sorgen in der Regenzeit oft für logistische Herausforderungen, doch die enge Gemeinschaft der Bewohner prägt den städtischen Alltag. Geografie K6 — Urbanisierung.",
+      "factsAdvanced": ["Vorstadt im Nordwesten Accras", "Gegründet von Ga-Migranten", "Dichte Bebauung an steilen Hügeln", "Starke informelle Wirtschaft", "Logistische Probleme in der Regenzeit", "Enge Gemeinschaftsstruktur"]
+    },
+    {
+      "id": "gbawe-cities-v2",
+      "descriptionAdvanced": "Gbawe liegt in den Hügeln westlich von Accra und bietet aufgrund seiner erhöhten Lage eine spektakuläre Aussicht auf die Küstenebene. In den letzten dreißig Jahren verwandelte sich das ehemalige Bauerndorf in eine begehrte Wohngegend, in der traditionelle Landbesitzer Parzellen an die aufstrebende Mittelschicht verkauften. Die fehlende zentrale Wasserversorgung in der Vergangenheit führte dazu, dass fast jedes Haus mit großen Wassertanks zur Regenwassernutzung ausgestattet ist. Umwelt K7 — Wasserversorgung.",
+      "factsAdvanced": ["Westlich von Accra in Hügeln gelegen", "Spektakuläre Aussicht auf die Küstenebene", "Viele Wassertanks wegen mangelnder Leitungen", "Ehemaliges Bauerndorf", "Parzellenverkauf an Mittelschicht", "Regenwassernutzung im Alltag"]
+    },
+    {
+      "id": "agona-swedru-cities-v2",
+      "descriptionAdvanced": "Agona Swedru, am Fluss Akora in der Central Region gelegen, ist ein wichtiges kommerzielles Zentrum im Hinterland der Küste. Die Stadt hat historische Bedeutung als Knotenpunkt für den Handel mit Palmöl und Kakao, die von den umliegenden Bauernhöfen an die Küste transportiert wurden. Jeden August feiert die lokale Bevölkerung das Akwambo-Festival, bei dem traditionell die Fußwege zu den heiligen Flüssen und Ahnenschreinen gereinigt werden. Kultur K6 — ghanaische Feste.",
+      "factsAdvanced": ["Am Fluss Akora gelegen", "Wichtiger Knotenpunkt für Palmöl", "Zentrum in der Central Region", "Jährliches Akwambo-Festival im August", "Reinigung der Fußwege zu Ahnenschreinen", "Historischer Umschlagplatz für Kakao"]
+    },
+    {
+      "id": "ejura-cities-v2",
+      "descriptionAdvanced": "Ejura liegt im Herzen der Ashanti-Region und fungiert als primärer landwirtschaftlicher Umschlagplatz zwischen den feuchten Wäldern und der trockenen nördlichen Savanne. Der Ort ist besonders bekannt für seinen massiven Freitagsmarkt, auf dem Bauern vor allem Yams und Mais tonnenweise an Händler aus der Hauptstadt verkaufen. Aufgrund des extrem fruchtbaren Bodens ziehen immer wieder landwirtschaftliche Wanderarbeiter in die Region. Geografie K6 — Agrarwirtschaft.",
+      "factsAdvanced": ["Im Herzen der Ashanti-Region", "Grenzt an feuchte Wälder und trockene Savanne", "Massiver Freitagsmarkt", "Zentrum für Yams und Mais", "Zieht landwirtschaftliche Wanderarbeiter an", "Hauptumschlagplatz zwischen Nord und Süd"]
+    },
+    {
+      "id": "berekum-cities-v2",
+      "descriptionAdvanced": "Berekum, in der Bono-Region gelegen, wird wegen seiner florierenden Wirtschaft und gut ausgebauten Straßen oft als die Goldene Stadt bezeichnet. Sie verdankt ihren historischen Reichtum hauptsächlich dem Kakaoanbau, der seit dem frühen 20. Jahrhundert die umliegenden Wälder prägt. Heute ist die Stadt auch als Heimat der Berekum Chelsea bekannt, einem der erfolgreichsten Fußballvereine Ghanas, der das lokale Leben stark beeinflusst. Wirtschaft K7 — Landwirtschaft und Sport.",
+      "factsAdvanced": ["Befindet sich in der Bono-Region", "Oft Goldene Stadt genannt", "Historischer Reichtum durch Kakao", "Heimat des Fußballclubs Berekum Chelsea", "Florierende Wirtschaft im 20. Jahrhundert", "Umgeben von Kakaowäldern"]
+    },
+    {
+      "id": "tafo-cities-v2",
+      "descriptionAdvanced": "Tafo, ein Vorort von Kumasi, beherbergt das renommierte Cocoa Research Institute of Ghana (CRIG), das 1938 von der britischen Kolonialregierung gegründet wurde. Die Forschung hier war entscheidend im Kampf gegen die CSSVD-Krankheit, die einst Ghanas Kakaoplantagen zu vernichten drohte. Die Bevölkerung profitiert von den Forschungsstationen, die moderne landwirtschaftliche Techniken direkt an die lokalen Bauern weitergeben. Biologie K8 — Pflanzenkrankheiten und Forschung.",
+      "factsAdvanced": ["Vorort von Kumasi", "Heimat des Cocoa Research Institute", "Gegründet 1938 von Kolonialregierung", "Kampf gegen CSSVD-Krankheit bei Kakao", "Forschungsstationen für Bauern", "Zentrum der ghanaischen Agrarforschung"]
+    },
+    {
+      "id": "suhum-cities-v2",
+      "descriptionAdvanced": "Suhum ist ein zentraler Handelsknotenpunkt an der Hauptstraße, die Accra mit Kumasi verbindet. Ursprünglich wuchs die Stadt in den 1920er Jahren als Zentrum für Kakaokäufer, verlor jedoch später an Bedeutung, als Krankheiten die Ernten im Osten dezimierten. Die lokale Wirtschaft verlagerte sich danach zunehmend auf die Produktion von Zitrusfrüchten und Kassava, was den Markt heute zu einem farbenfrohen Mosaik aus regionalen Erzeugnissen macht. Geschichte K7 — Wandel in der Landwirtschaft.",
+      "factsAdvanced": ["An der Hauptstraße Accra-Kumasi", "Wuchs in den 1920er Jahren", "Früheres Zentrum für Kakaokäufer", "Heute Anbau von Zitrusfrüchten und Kassava", "Kakaokrankheiten dezimierten Ernten", "Zentraler Handelsknotenpunkt"]
+    },
+    {
+      "id": "tarkwa-cities-v2",
+      "descriptionAdvanced": "Tarkwa, in der waldreichen Western Region, ist das Herz des ghanaischen Mangan- und Goldabbaus. Die Stadt entwickelte sich nach der Entdeckung von Goldadern im späten 19. Jahrhundert rasant und beherbergt heute die renommierte University of Mines and Technology. Der intensive Tagebau hat tiefe Narben in der Landschaft hinterlassen und die lokalen Gewässer stark beansprucht, was Tarkwa zu einem Lehrbuchbeispiel für den Konflikt zwischen Wirtschaftswachstum und Umweltschutz macht. Umwelt K8 — Bergbau und Ökologie.",
+      "factsAdvanced": ["Herz des Mangan- und Goldabbaus", "Goldadern im 19. Jahrhundert entdeckt", "Sitz der University of Mines and Technology", "Liegt in der Western Region", "Intensiver Tagebau prägt Landschaft", "Konflikt zwischen Bergbau und Umweltschutz"]
+    }
+  ]
+}

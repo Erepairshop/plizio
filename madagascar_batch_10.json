@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tsaratanana-foothills-relief-v2",
+    "name": "Tsaratanana Foothills",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "ankarana-karst-relief-v2",
+    "name": "Ankarana Karst",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "vohimana-relief-v2",
+    "name": "Vohimana",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "ranomafana-hills-relief-v2",
+    "name": "Ranomafana Hills",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "andohahela-massif-relief-v2",
+    "name": "Andohahela Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "tsitondroina-relief-v2",
+    "name": "Tsitondroina",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "itasy-volcanic-field-relief-v2",
+    "name": "Itasy Volcanic Field",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "heha-mountain-nature-v2",
+      "descriptionAdvanced": "Muntele Heha, cel mai înalt vârf din Burundi, situat în masivul muntos Mitumba, oferă peisaje montane spectaculoase și un climat distinct, fiind un punct de reper geografic esențial pentru țară. Ascensiunea pe Heha dezvăluie o diversitate de habitate, de la păduri montane luxuriante la pajiști alpine, fiind o destinație captivantă pentru ecoturiști și cercetători. Importanța sa nu este doar geografică, ci și ecologică, Muntele Heha fiind un element cheie în conservarea biodiversității montane a Burundiului. Geografie K6 — relief montan și biodiversitate.",
+      "factsAdvanced": [
+        "Cu o altitudine de 2684 m, este cel mai înalt vârf din Burundi.",
+        "Face parte din lanțul muntos Mitumba, o ramură a Riftului African.",
+        "Muntele oferă vederi panoramice asupra peisajului burundez.",
+        "Climatul de pe vârf este considerabil mai răcoros decât în zonele joase.",
+        "Regiunea este bogată în specii de plante endemice.",
+        "Este o provocare populară pentru pasionații de drumeții montane."
+      ]
+    },
+    {
+      "id": "gikizi-relief-v2",
+      "descriptionAdvanced": "Masivul Gikizi este o zonă muntoasă semnificativă care contribuie la complexitatea reliefului Burundiului, jucând un rol important în modelarea rețelei hidrografice și a climatului regional. Datorită altitudinii sale, zona este un punct cheie pentru conservarea resurselor de apă, hrănind numeroase pâraie care alimentează râurile importante ale țării. Relieful accidentat din Gikizi a influențat dezvoltarea așezărilor umane, care s-au adaptat terenului dificil pentru a practica agricultura în terase, demonstrând ingeniozitatea localnicilor în fața provocărilor geografice. Geografie K7 — impactul reliefului asupra agriculturii.",
+      "factsAdvanced": [
+        "Regiunea este definită printr-un relief muntos accidentat.",
+        "Gikizi este un important bazin de recepție pentru apele de suprafață.",
+        "Agricultura în terase este practicată pe versanții masivului.",
+        "Zona joacă un rol vital în reglarea ciclului hidrologic local.",
+        "Climatul montan influențează direct tipurile de culturi agricole.",
+        "Relieful a impus moduri specifice de dezvoltare a infrastructurii rurale."
+      ]
+    },
+    {
+      "id": "musongati-relief-v2",
+      "descriptionAdvanced": "Zona muntoasă Musongati este recunoscută nu doar pentru peisajul său variat și frumusețea naturală, ci și pentru potențialul său geologic semnificativ, fiind o regiune de interes pentru explorarea resurselor minerale. Relieful zonei, caracterizat prin culmi abrupte și văi adânci, oferă o perspectivă asupra formării geologice a Burundiului în cadrul sistemului Riftului African. Această regiune montană servește, de asemenea, ca habitat pentru diverse specii sălbatice, fiind un teritoriu care echilibrează valorile geologice, ecologice și economice. Geografie K8 — geologie și resurse naturale.",
+      "factsAdvanced": [
+        "Regiunea este cunoscută pentru prezența unor zăcăminte minerale.",
+        "Relieful este marcat prin formațiuni geologice complexe.",
+        "Zona face parte din masivele muntoase din estul Burundiului.",
+        "Musongati este un punct strategic pentru geologii care studiază Riftul.",
+        "Peisajul oferă condiții variate pentru dezvoltarea florei montane.",
+        "Este un teritoriu cu un potențial economic încă în explorare."
+      ]
+    },
+    {
+      "id": "gishora-relief-v2",
+      "descriptionAdvanced": "Zona Gishora este caracterizată printr-un relief colinar care definește caracterul estetic și geografic al provinciei Gitega, oferind un fundal pitoresc pentru așezările umane și siturile culturale de importanță națională. Terenul ușor accidentat a favorizat practici agricole tradiționale, contribuind la crearea unui peisaj cultural armonios, unde viața comunităților se desfășoară în strânsă legătură cu ritmurile naturii. Importanța reliefului din Gishora este indisolubil legată de identitatea culturală, fiind scena unor evenimente istorice care au marcat evoluția regatului Burundi. Geografie K6 — peisajul cultural și relieful.",
+      "factsAdvanced": [
+        "Regiunea este dominată de dealuri line și văi fertile.",
+        "Relieful a permis dezvoltarea unei agriculturi comunitare prospere.",
+        "Este un peisaj emblematic pentru inima geografică a Burundiului.",
+        "Zona a găzduit ceremonii regale datorită accesibilității și frumuseții.",
+        "Gishora reflectă interacțiunea dintre geografie și cultură.",
+        "Dealurile oferă panorame extinse asupra regiunilor învecinate."
+      ]
+    },
+    {
+      "id": "teza-relief-v2",
+      "descriptionAdvanced": "Teza este o regiune montană renumită pentru plantațiile sale de ceai, relieful său fiind esențial pentru crearea microclimatului necesar acestor culturi valoroase. Altitudinea ridicată și umiditatea constantă, specifice acestei zone montane, contribuie la calitatea excepțională a ceaiului produs aici, făcând din Teza un punct crucial pe harta economică a Burundiului. Peisajul montan, cu versanții săi acoperiți de verdeața nesfârșită a plantațiilor, demonstrează cum relieful poate fi valorificat pentru a susține industrii agricole de succes la nivel mondial. Geografie K7 — adaptarea agriculturii la relief.",
+      "factsAdvanced": [
+        "Regiunea este una dintre cele mai importante zone pentru ceai.",
+        "Relieful montan asigură condițiile climatice unice pentru cultură.",
+        "Plantațiile de ceai creează un peisaj spectaculos pe versanți.",
+        "Teza atrage atenția prin productivitatea sa ridicată.",
+        "Este un centru major de prelucrare a ceaiului în Burundi.",
+        "Infrastructura rutieră traversează zone montane dificile pentru a accesa fabrica."
+      ]
+    }
+  ]
+}

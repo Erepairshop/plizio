@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-yola-cities-v2",
+      "descriptionAdvanced": "Yola ist das feuchte, tropische Herz des Bundesstaates Adamawa im Osten Nigerias, direkt am Ufer des Benue-Flusses gelegen. Die Stadt wurde 1841 vom Fulani-Gelehrten Modibbo Adama gegründet, weshalb der Bundesstaat noch heute seinen Namen trägt. Es ist eine Stadt mit einer doppelten Persönlichkeit: Das alte Yola beherbergt den ehrwürdigen Palast des Lamido (des traditionellen Herrschers) und enge, alte Gassen, während die Zwillingsstadt Jimeta die moderne Verwaltung, den Hafen und geschäftige Märkte stellt. Yola ist auch die Heimat der American University of Nigeria, einer der führenden privaten Universitäten des Landes. Erdkunde K8 — Flusssysteme und Doppelstädte.",
+      "factsAdvanced": [
+        "Gegründet 1841 vom Fulani-Herrscher Modibbo Adama.",
+        "Hauptstadt des Bundesstaates Adamawa nahe der kamerunischen Grenze.",
+        "Besteht faktisch aus zwei Städten: Alt-Yola und Jimeta.",
+        "Wichtiger Binnenhafen am schiffbaren Benue-Fluss.",
+        "Sitz des Lamido von Adamawa, eines hochrangigen islamischen Herrschers.",
+        "Heimat der renommierten American University of Nigeria (AUN)."
+      ]
+    },
+    {
+      "id": "ng-umuahia-cities-v2",
+      "descriptionAdvanced": "Umuahia ist tief in der Geschichte des nigerianischen Bürgerkriegs verwurzelt. Gegen Ende des Biafra-Krieges (1967-1970) war Umuahia die letzte Zufluchtsstätte und Hauptstadt der Separatisten, nachdem Enugu und Owerri gefallen waren. Heute beherbergt die Stadt das National War Museum, das in einem ehemaligen unterirdischen Bunker (Ojukwu Bunker) untergebracht ist und eine unglaubliche Sammlung von selbstgebauten Panzern und Waffen der Biafra-Armee zeigt. Abseits dieser düsteren Geschichte ist Umuahia das landwirtschaftliche Verwaltungszentrum des Bundesstaates Abia und ein gigantischer Umschlagplatz für Palmöl und Maniok. Geschichte K8 — Der nigerianische Bürgerkrieg (Biafra).",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Abia im Südosten.",
+        "Diente in der Schlussphase des Bürgerkriegs als Hauptstadt von Biafra.",
+        "Heimat des National War Museum und des Ojukwu-Bunkers.",
+        "Großer regionaler Produzent von Palmöl, Maniok und Zitrusfrüchten.",
+        "Ehemaliger wichtiger Bahnhof an der östlichen Eisenbahnlinie.",
+        "Sitz des Michael Okpara University of Agriculture (MOUAU)."
+      ]
+    },
+    {
+      "id": "ng-awka-cities-v2",
+      "descriptionAdvanced": "Awka ist in ganz Westafrika legendär für seine Schmiedekunst. Schon lange vor der Ankunft der Europäer fertigten die Schmiede von Awka (die sogenannten 'Ndi-uzu') meisterhafte Waffen, Werkzeuge und rituelle Gegenstände, die entlang des Nigers gehandelt wurden. Dieses eiserne Erbe hat die Mentalität der Stadt stark geprägt. Als moderne Hauptstadt des Bundesstaates Anambra wächst Awka rasant und zieht Tausende Studenten durch die Nnamdi Azikiwe University an. Die Stadt liegt strategisch günstig genau in der Mitte zwischen Onitsha und Enugu, was sie zu einem natürlichen logistischen Knotenpunkt macht. Wirtschaft K6 — Traditionelles Handwerk und moderner Handel.",
+      "factsAdvanced": [
+        "Hauptstadt des dicht besiedelten Bundesstaates Anambra.",
+        "Historisch in ganz Westafrika berühmt für seine Schmiedekunst.",
+        "Heimat der riesigen Nnamdi Azikiwe University (UNIZIK).",
+        "Wichtiges historisches Zentrum der Igbo-Kultur (Nri-Einfluss).",
+        "Zentraler Verkehrsknotenpunkt zwischen Enugu und Onitsha.",
+        "Trotz des rasanten Wachstums stark von landwirtschaftlichen Dörfern umgeben."
+      ]
+    },
+    {
+      "id": "ng-yenagoa-cities-v2",
+      "descriptionAdvanced": "Yenagoa ist die wasserreiche Hauptstadt des Bundesstaates Bayelsa, tief eingebettet in die Mangrovenwälder und Bäche des Nigerdeltas. Diese Region ist die historische Heimat der Ijaw, die stark vom Fischfang und der traditionellen Bootsschifffahrt leben. Ironischerweise wurde im nahegelegenen Oloibiri 1956 das erste kommerzielle Erdöl Nigerias gefunden, was Yenagoa in ein Zentrum der internationalen Ölförderung verwandelte. Das schnelle Wachstum durch das Öl brachte moderne Infrastruktur, wie die mächtigen Brücken, die die Stadt überhaupt erst mit dem Festland verbanden, da Yenagoa früher nur per Boot erreichbar war. Geografie K8 — Das Nigerdelta und die Erdölindustrie.",
+      "factsAdvanced": [
+        "Hauptstadt des erdölreichen Bundesstaates Bayelsa.",
+        "Historisches Zentrum des Ijaw-Volkes im tiefen Nigerdelta.",
+        "Nahe dem Ort Oloibiri gelegen, wo 1956 Nigerias erstes Öl gefunden wurde.",
+        "Früher eine stark isolierte, nur über Flüsse erreichbare Stadt.",
+        "Sehr feuchtes Äquatorialklima mit langen Regenzeiten.",
+        "Großer Produzent von Ölpalmen, Kautschuk und Fischprodukten."
+      ]
+    },
+    {
+      "id": "ng-makurdi-cities-v2",
+      "descriptionAdvanced": "Makurdi teilt den Bundesstaat Benue förmlich in zwei Hälften, da es direkt an den Ufern des mächtigen Benue-Flusses liegt. Die Stadt rühmt sich, das 'Lebensmittellager der Nation' zu sein, da das umliegende Land unglaublich fruchtbar ist und gigantische Mengen an Yams, Sojabohnen und Maniok für ganz Nigeria produziert. Ursprünglich wuchs Makurdi in den 1920er Jahren rasant, als die Eisenbahnstrecke von Port Harcourt nach Jos hier den Fluss überquerte. Heute ist die massive Benue-Brücke das absolute Wahrzeichen der Stadt und ein essenzielles Nadelöhr für den Straßenverkehr zwischen Nord- und Südnigeria. Wirtschaft K7 — Landwirtschaft und Flusstransport.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Benue, dem 'Food Basket of the Nation'.",
+        "Liegt beiderseits des gewaltigen Benue-Flusses.",
+        "Gegründet um 1927 als wichtiger Eisenbahn- und Flusshafen.",
+        "Riesiges Zentrum für den Anbau von Yams, Sesam und Sojabohnen.",
+        "Die imposante Benue-Brücke wurde 1932 (Bahn) und 1978 (Straße) erbaut.",
+        "Heimat der Federal University of Agriculture Makurdi."
+      ]
+    },
+    {
+      "id": "ng-asaba-cities-v2",
+      "descriptionAdvanced": "Asaba liegt majestätisch am westlichen Ufer des Flusses Niger, genau gegenüber dem Handelsgiganten Onitsha. Während der britischen Kolonialzeit spielte Asaba eine entscheidende Rolle, da die einflussreiche Royal Niger Company hier ab 1886 ihr Hauptquartier hatte. Der Stadt blieb ein dunkles Kapitel der Geschichte jedoch nicht erspart: 1967 ereignete sich hier das tragische Asaba-Massaker während des Bürgerkriegs. Heute hat sich Asaba enorm gewandelt und profitiert als Hauptstadt des Bundesstaates Delta von reichen Öleinnahmen. Die Stadt ist zudem eine der Lieblingskulissen für die nigerianische Filmindustrie (Nollywood) geworden. Geschichte K8 — Die Royal Niger Company und Nollywood.",
+      "factsAdvanced": [
+        "Hauptstadt des ölreichen Bundesstaates Delta.",
+        "Ehemaliges administratives Hauptquartier der Royal Niger Company (ab 1886).",
+        "Wichtiger Schauplatz des nigerianischen Bürgerkriegs (Asaba-Massaker 1967).",
+        "Durch die berühmte Niger-Brücke mit Onitsha verbunden.",
+        "Heute ein riesiges Produktionszentrum für Nollywood-Filme.",
+        "Liegt strategisch perfekt direkt am majestätischen Fluss Niger."
+      ]
+    },
+    {
+      "id": "ng-abakaliki-cities-v2",
+      "descriptionAdvanced": "Abakaliki war jahrzehntelang als abgelegenes landwirtschaftliches Zentrum bekannt, hat sich aber in den letzten Jahren rasant zu einer der am schnellsten modernisierenden Städte im Südosten Nigerias entwickelt. Der Name der Stadt weckt in ganz Westafrika eine sofortige Assoziation: Reis. Die enorm fruchtbaren Ebenen rund um die Stadt produzieren den berühmten Abakaliki-Reis, der landesweit als Delikatesse gilt. Historisch war die Region auch für den Blei- und Zinkabbau in der Kolonialzeit wichtig. Heute prägen gigantische, mehrspurige Straßen und gläserne Regierungsgebäude das unerwartet moderne Stadtbild. Erdkunde K7 — Reisproduktion und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Ebonyi im Osten Nigerias.",
+        "National berühmt für die Produktion von hochwertigem Abakaliki-Reis.",
+        "In der Kolonialzeit ein wichtiges Zentrum für Blei- und Zinkabbau.",
+        "Gilt heute als eine der am modernsten ausgebauten Städte im Osten.",
+        "Das Umland besteht größtenteils aus fruchtbarem Savannenland.",
+        "Wichtiger Handelsknotenpunkt für Yams, Maniok und Palmöl."
+      ]
+    },
+    {
+      "id": "ng-gombe-city-cities-v2",
+      "descriptionAdvanced": "Gombe, das Herz des gleichnamigen nordöstlichen Bundesstaates, wird von den Einheimischen oft stolz das 'Juwel in der Savanne' genannt. Die Stadt war historisch ein wichtiges landwirtschaftliches Zentrum des mächtigen Sokoto-Kalifats. Heute ist sie ein seltener Ort der relativen Stabilität in einer Region, die oft von Krisen geprägt ist. Die Landschaft rund um Gombe ist spektakulär und reicht von weiten, trockenen Hochebenen bis zu fruchtbaren Tälern, in denen massenhaft Tomaten und Baumwolle angebaut werden. Der Emir von Gombe residiert hier in einem prächtigen Palast, der islamische Architekturtraditionen am Leben erhält. Geografie K7 — Savannenlandschaften und islamische Emirate.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Gombe (das 'Juwel der Savanne').",
+        "Wichtiges historisches Emirat, das 1804 während des Dschihad gegründet wurde.",
+        "Großer Produzent von Baumwolle, Tomaten und Erdnüssen.",
+        "Das moderne Gombe International Hotel dominiert die Skyline.",
+        "Wichtige Zufluchtsstadt in der krisengeplagten Nordostregion.",
+        "Heimat der rasch wachsenden Gombe State University."
+      ]
+    },
+    {
+      "id": "ng-dutse-cities-v2",
+      "descriptionAdvanced": "Dutse trägt seinen Charakter bereits im Namen: Auf Hausa bedeutet das Wort schlicht 'Fels'. Die Stadt im Norden Nigerias ist tatsächlich von massiven, imposanten Granitfelsen umgeben, die der ansonsten flachen Savanne ein raues Profil verleihen. Die Felsen dienten früher Jägern und Kriegern als perfekte Verstecke und Beobachtungsposten. Obwohl Jigawa ein überwiegend landwirtschaftlicher Bundesstaat ist, der sich auf Datteln und Hirse spezialisiert hat, fällt Dutse durch seine extrem sauberen Straßen, breiten Boulevards und das kühle, grüne Mikroklima auf, das durch die Hügel entsteht. Gesellschaft K6 — Geologische Formationen und Hausa-Namen.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Jigawa, gegrünet 1991.",
+        "Der Name 'Dutse' bedeutet 'Fels' in der Hausa-Sprache.",
+        "Die Stadt wird von massiven Granitblöcken und Hügeln dominiert.",
+        "Regionales Zentrum für den Anbau von Dattelpalmen und Hirse.",
+        "Bekannt für ein gut geplantes, weites und sauberes Stadtbild.",
+        "Besitzt eine Federal University, die Studenten aus dem Norden anzieht."
+      ]
+    },
+    {
+      "id": "ng-katsina-city-cities-v2",
+      "descriptionAdvanced": "Katsina gehört zum stolzen Zirkel der sieben ursprünglichen Hausa-Stadtstaaten und blickt auf eine über tausendjährige Geschichte zurück. Im 16. Jahrhundert war diese Stadt das wohl wichtigste Bildungs- und Handelszentrum des Transsaharahandels in der gesamten Sahelzone. Das 15 Meter hohe Gobarau-Minarett, das aus sonnengetrocknetem Lehm erbaut wurde, steht noch heute und soll im Mittelalter genutzt worden sein, um Pilger nach Mekka zu spähen. Katsina hat Nigeria viele bedeutende politische Führer, darunter zwei Präsidenten, hervorgebracht und pflegt eifersüchtig seine konservativen, islamischen Traditionen. Geschichte K8 — Transsaharahandel und historische Minarette.",
+      "factsAdvanced": [
+        "Einer der sieben historischen Hausa-Stadtstaaten (Hausa Bakwai).",
+        "Das lehmgebaute Gobarau-Minarett stammt aus dem 14. Jahrhundert.",
+        "Wichtiger historischer Knotenpunkt für den Handel mit Timbuktu.",
+        "Hat eine tiefe Tradition islamischer Gelehrsamkeit und Universitäten.",
+        "Die Stadtmauer (Kofar) aus Lehm hat noch erhaltene Stadttore.",
+        "Heimatort des ehemaligen nigerianischen Präsidenten Muhammadu Buhari."
+      ]
+    },
+    {
+      "id": "ng-birnin-kebbi-cities-v2",
+      "descriptionAdvanced": "Birnin Kebbi liegt in der äußersten Nordwestecke Nigerias, am Ufer des gemächlich fließenden Sokoto-Flusses. Historisch war die Stadt die unbezwingbare Hauptstadt des Königreichs Kebbi, das sich erbittert und erfolgreich gegen die Eroberung durch das mächtige Sokoto-Kalifat wehrte. Diese Unabhängigkeit erfüllt die lokale Hausa-Bevölkerung bis heute mit enormem Stolz. Wirtschaftlich dreht sich in Birnin Kebbi fast alles um den riesigen Argungu-Fluss; die Region ist landesweit berühmt für Reisanbau und das gewaltige Argungu-Fischerfest, bei dem Tausende Fischer mit Handnetzen in den Fluss springen, um den größten Fang des Jahres zu machen. Wirtschaft K7 — Fischerei, Reisanbau und Flusstäler.",
+      "factsAdvanced": [
+        "Hauptstadt des landwirtschaftlich geprägten Bundesstaates Kebbi.",
+        "Historische Hauptstadt des widerstandsfähigen Königreichs Kebbi.",
+        "Liegt strategisch günstig im fruchtbaren Tal des Sokoto-Flusses.",
+        "Zentrum des massiven nigerianischen Reisanbau-Programms.",
+        "Bekannt für die Nähe zum weltberühmten Argungu-Fischerfestival.",
+        "Traditionell ein extrem heißes und trockenes Savannenklima."
+      ]
+    },
+    {
+      "id": "ng-lokoja-cities-v2",
+      "descriptionAdvanced": "Lokoja ist das geografische Herz Nigerias, der exakte Ort, an dem der trübe Niger und der bläuliche Benue aufeinandertreffen und sich zu einem gewaltigen Strom vereinen, der in Richtung Atlantik fließt. Diese strategische Lage machte Lokoja im 19. Jahrhundert zum Hauptquartier der britischen Royal Niger Company und später zur allerersten Hauptstadt des britischen Protektorats Nordnigeria. Man sagt sogar, dass der Name 'Nigeria' hier von der britischen Journalistin Flora Shaw erfunden wurde. Heute überblickt der Mount Patti die Stadt und bietet eine atemberaubende Aussicht auf den Zusammenfluss dieser beiden afrikanischen Lebensadern. Geografie K8 — Flusszusammenflüsse und koloniale Gründungen.",
+      "factsAdvanced": [
+        "Liegt exakt am Zusammenfluss der riesigen Flüsse Niger und Benue.",
+        "Erste Verwaltungshauptstadt des britischen Protektorats Nordnigeria.",
+        "Lord Lugard nutzte Lokoja als Hauptquartier der Royal Niger Company.",
+        "Der Mount Patti (458 Meter hoch) überragt die gesamte Stadt.",
+        "Hier soll der Name 'Nigeria' durch Flora Shaw erfunden worden sein.",
+        "Heute die Hauptstadt des zentrumnigerianischen Bundesstaates Kogi."
+      ]
+    },
+    {
+      "id": "ng-lafia-cities-v2",
+      "descriptionAdvanced": "Lafia, die geschäftige Hauptstadt des Bundesstaates Nasarawa, ist eine Stadt, in der zahlreiche ethnische Gruppen des nigerianischen 'Middle Belt' friedlich zusammenleben. Die Stadt rühmt sich des Titels 'Heimat der festen Mineralien', da die umliegende Erde voll von wertvollen Ressourcen wie Baryt, Kohle, Edelsteinen und Salz ist. Traditionell wird Lafia von einem Emir regiert, und der riesige Palast im Zentrum ist ein beeindruckendes Beispiel moderner islamischer Architektur. Landwirtschaftlich ist die Region ein massiver Produzent von Yams und Sesam, die auf den lebhaften Märkten im Stadtzentrum gehandelt werden. Wirtschaft K7 — Mineralabbau und ethnische Vielfalt.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Nasarawa ('Home of Solid Minerals').",
+        "Wichtiger Knotenpunkt der Eisenbahnstrecke von Port Harcourt nach Maiduguri.",
+        "Die Region ist extrem reich an Baryt, Salz, Kohle und Edelsteinen.",
+        "Traditionell von einem mächtigen islamischen Emir regiert.",
+        "Ein ethnischer Schmelztiegel der Alago, Eggon, Tiv und Hausa.",
+        "Riesiger agrarischer Umschlagplatz für Yams, Sesam und Reis."
+      ]
+    },
+    {
+      "id": "ng-minna-cities-v2",
+      "descriptionAdvanced": "Minna ist eine Stadt, die ihre Existenz größtenteils der Eisenbahn verdankt. Bevor britische Ingenieure Anfang des 20. Jahrhunderts die Gleiskreuzung zwischen der Hauptlinie nach Kano und der Nebenstrecke nach Baro hier bauten, war Minna nur ein verschlafenes Dorf der Gwari-Ethnie. Danach explodierte das Wachstum. Heute ist Minna die Hauptstadt des flächenmäßig riesigen Bundesstaates Niger und bekannt dafür, die Heimat von gleich zwei ehemaligen nigerianischen Militärpräsidenten (Ibrahim Babangida und Abdulsalami Abubakar) zu sein. Die Stadt ist das Tor zu den gigantischen Staudämmen von Kainji und Shiroro, die ganz Nigeria mit Strom versorgen. Wirtschaft K8 — Eisenbahngeschichte und Wasserkraft.",
+      "factsAdvanced": [
+        "Hauptstadt des riesigen Bundesstaates Niger im Westen des Landes.",
+        "Wuchs rasant als wichtiges Eisenbahnkreuz (Lagos-Kano-Baro).",
+        "Heimat zweier ehemaliger nigerianischer Präsidenten.",
+        "Hauptsächlich bewohnt von den Völkern der Gwari (Gbagyi) und Nupe.",
+        "Wichtiger logistischer Ausgangspunkt zu den großen Kainji- und Shiroro-Dämmen.",
+        "Traditionell bekannt für aufwendige Leder- und Messingarbeiten."
+      ]
+    },
+    {
+      "id": "ng-jalingo-cities-v2",
+      "descriptionAdvanced": "Jalingo liegt malerisch am Fuße der geheimnisvollen Shebshi-Berge und dient als Hauptstadt des oft übersehenen Bundesstaates Taraba, der als 'Geschenk der Natur an die Nation' bekannt ist. Die Stadt ist der logistische Knotenpunkt für einige der wildesten und unberührtesten Landschaften Westafrikas, einschließlich des massiven Gashaka-Gumti-Nationalparks und des kühlen, hoch gelegenen Mambilla-Plateaus, auf dem Nigerias einzige Teeplantagen gedeihen. Die Kultur von Jalingo ist tief von den Völkern der Jukun, Mumuye und Fulani geprägt, und die Stadt wächst langsam durch den zunehmenden Handel mit landwirtschaftlichen Gütern und Rindern. Geografie K7 — Nationalparks und Bergmassive.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Taraba, dem 'Nature's Gift to the Nation'.",
+        "Eingebettet in die Ausläufer der massiven Shebshi-Berge.",
+        "Ausgangspunkt für Reisen auf das kühle Mambilla-Plateau.",
+        "Sehr starke ethnische Prägung durch die Fulani, Mumuye und Jukun.",
+        "Die Region produziert den Großteil des nigerianischen Tees (Mambilla).",
+        "Traditionell von einem mächtigen lokalen Emir regiert."
+      ]
+    },
+    {
+      "id": "ng-damaturu-cities-v2",
+      "descriptionAdvanced": "Damaturu ist eine widerstandsfähige Stadt tief in der trockenen Sahelzone im Nordosten Nigerias. Einst ein friedliches agrarisches Zentrum, hat die Stadt im letzten Jahrzehnt massiv unter dem Boko-Haram-Konflikt gelitten, sich jedoch bemerkenswert schnell wieder erholt. Der weite, offene Himmel von Damaturu überblickt gigantische Flächen, auf denen Hirse und Erdnüsse angebaut werden. Als historische Durchgangsstation für Kamelkarawanen auf dem Weg nach Kano oder Borno bewahrt die Stadt den Geist der nomadischen Fulani, deren riesige Viehherden das wirtschaftliche Rückgrat der Region bilden. Geschichte K8 — Resilienz im Sahel und Viehzucht.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Yobe im trockenen Nordosten.",
+        "Liegt in einer klassischen, extrem heißen Sahel-Landschaft.",
+        "Wichtige Verbindungsstadt auf dem Weg nach Maiduguri (Borno).",
+        "Das Emirat Damaturu ist ein traditionelles politisches Zentrum.",
+        "Wurde im letzten Jahrzehnt schwer vom Boko-Haram-Konflikt getroffen.",
+        "Hauptumschlagplatz für Hirse, Gummiarabikum und Vieh."
+      ]
+    },
+    {
+      "id": "ng-gusau-cities-v2",
+      "descriptionAdvanced": "Gusau wurde 1928 tief im Herzen des Nordwestens durch einen einzigen Grund auf die Landkarte gesetzt: Erdnüsse. Die Ankunft der Eisenbahn machte die Stadt zum wichtigsten Umschlagplatz für die riesigen Erdnusspyramiden, die damals das wirtschaftliche Symbol Nordnigerias waren. Heute ist Gusau die Hauptstadt des Zamfara-Staates und stark von der Landwirtschaft und der Baumwollproduktion geprägt. Die Region ist zudem bekannt für ihre reichen Goldvorkommen, was in den letzten Jahren immer wieder Zehntausende von informellen Bergarbeitern (und oft auch Sicherheitsprobleme) in die abgelegenen Dörfer rund um die Stadt gelockt hat. Wirtschaft K8 — Agrarhandel und informeller Bergbau.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Zamfara (Motto: 'Farming is our Pride').",
+        "Wuchs in den 1920er Jahren als Zentrum des Erdnussexports heran.",
+        "Besitzt gigantische, oft informell abgebaute Goldvorkommen im Umland.",
+        "Wichtiger Produzent von Baumwolle, Tabak und Hirse.",
+        "Die Bevölkerung besteht fast ausschließlich aus Hausa und Fulani.",
+        "Zamfara war 1999 der erste Bundesstaat, der die Scharia einführte."
+      ]
+    },
+    {
+      "id": "ng-sapele-cities-v2",
+      "descriptionAdvanced": "Sapele riecht nach frisch geschnittenem Holz und Salzwasser. Diese Hafenstadt tief im Nigerdelta wuchs während der britischen Kolonialzeit rasant an, da von hier gigantische Mengen von wertvollem afrikanischem Mahagoni-Holz und Naturkautschuk nach Europa verschifft wurden. Die 'Sapele Mahogany' war einst weltweit für den Schiffsbau berühmt. Später gesellte sich das Erdöl dazu. Heute mischt sich in Sapele industrieller Verfall mit der rohen Energie des Deltas; die afrikanische Timber & Plywood Company (AT&P) war hier einst der größte Holzverarbeiter Westafrikas. Die Stadt ist zudem eine Hochburg der Pidgin-Sprache und der Urhobo-Kultur. Erdkunde K8 — Holzindustrie und Seehäfen im Delta.",
+      "factsAdvanced": [
+        "Berühmter See- und Binnenhafen im Bundesstaat Delta.",
+        "Historisch weltweit bekannt für sein Mahagoniholz ('Sapele Wood').",
+        "War Heimat der ehemals massiven African Timber and Plywood (AT&P).",
+        "Wichtiger Produzent von Kautschuk und Palmöl in der Kolonialzeit.",
+        "Gilt als ein kulturelles Zentrum für das Urhobo-Volk.",
+        "Beherbergt heutzutage auch Anlagen zur Erdölförderung und Gasverarbeitung."
+      ]
+    },
+    {
+      "id": "ng-ughelli-cities-v2",
+      "descriptionAdvanced": "Ughelli ist eine Stadt, die scheinbar nie schläft, angetrieben vom ewigen Brennen der Gasfackeln, die den Nachthimmel des Nigerdeltas rot färben. Als Zentrum des Urhobo-Volkes ist die Stadt einer der wichtigsten Standorte für die Öl- und Gasindustrie Nigerias, insbesondere das massive Trans-Delta-Pipelinenetzwerk beginnt hier. Die Entdeckung von Öl veränderte Ughelli von einem ruhigen Agrarzentrum zu einem lauten, industriellen Knotenpunkt. Trotz der Ölrohre, die sich wie Adern durch die Landschaft ziehen, verteidigen die Einheimischen stolz ihre Traditionen, wie die farbenprächtigen jährlichen Festivals, die den Geist des Deltas feiern. Wirtschaft K8 — Gasfackeln, Ölpipelines und Delta-Kultur.",
+      "factsAdvanced": [
+        "Kernstadt der einflussreichen Urhobo-Ethnie im Bundesstaat Delta.",
+        "Ein gigantisches Zentrum der nigerianischen Öl- und Erdgasförderung.",
+        "Heimat des Ughelli Power Station, eines riesigen Gaskraftwerks.",
+        "Das Hauptquartier des traditionellen Ovie (Königs) von Ughelli.",
+        "Historisches landwirtschaftliches Zentrum für Kautschuk und Palmöl.",
+        "Stark betroffen von den ökologischen Herausforderungen der Gasabfackelung."
+      ]
+    },
+    {
+      "id": "ng-gboko-cities-v2",
+      "descriptionAdvanced": "Gboko ist nicht einfach nur eine Stadt, es ist das spirituelle und kulturelle Gravitationszentrum der Millionen Tiv, einer der größten ethnischen Gruppen im 'Middle Belt' Nigerias. Jedes Wochenende verdoppelt sich scheinbar die Bevölkerung, wenn Bauern aus allen Himmelsrichtungen Yams, Orangen und Sojabohnen auf die gigantischen Märkte der Stadt bringen. Der Palast des Tor Tiv, des obersten Herrschers, thront im Zentrum und wacht über alte Traditionen wie die energetischen Kwagh-Hir-Puppentänze. Gboko beherbergt auch eine der größten Zementfabriken Nigerias, die den reichlich vorhandenen lokalen Kalkstein verarbeitet. Gesellschaft K7 — Die Tiv-Kultur und Kalksteinabbau.",
+      "factsAdvanced": [
+        "Die unangefochtene traditionelle Hauptstadt des Tiv-Volkes.",
+        "Sitz des 'Tor Tiv', dem obersten Monarchen der Tiv-Ethnie.",
+        "Riesiger landwirtschaftlicher Markt (besonders Yams und Orangen).",
+        "Heimat des BCC (Benue Cement Company), einer großen Zementfabrik.",
+        "Zentrum des einzigartigen, maskenreichen Kwagh-Hir-Festivals.",
+        "Wichtiger Verkehrsknotenpunkt im Bundesstaat Benue."
+      ]
+    },
+    {
+      "id": "ng-okene-cities-v2",
+      "descriptionAdvanced": "Okene ist eine Stadt, die sich mutig an die rauen, felsigen Hügel Zentrölnigerias klammert. Sie ist das historische und administrative Zentrum des Ebira-Volkes, das für seine außergewöhnliche Handwerkskunst berühmt ist – insbesondere das Weben von exquisiten Stoffen, die so robust sind, dass sie früher als Währung genutzt wurden. In der Nähe der Stadt liegt das gewaltige Ajaokuta-Stahlwerk, ein gigantisches, jahrzehntelang brachliegendes Industrieprojekt sowjetischer Bauart, das einst ganz Afrika mit Stahl versorgen sollte. Der Palast des Ohinoyi von Ebiraland dominiert die Architektur der Stadt und wacht über ein reiches kulturelles Erbe. Geschichte K7 — Das Ebira-Volk und industrielle Großprojekte.",
+      "factsAdvanced": [
+        "Traditionelles und kulturelles Zentrum des Ebira-Volkes.",
+        "Erbaut in extrem hügeligem und felsigem Terrain (Kogi-Staat).",
+        "Sitz des traditionellen Herrschers, dem Ohinoyi von Ebiraland.",
+        "Liegt in der Nähe von Nigerias massiven, unvollendeten Stahlwerken in Ajaokuta.",
+        "Berühmt für das Weber-Handwerk, insbesondere robuste Ebira-Stoffe.",
+        "Historischer Markt für den Handel mit Eisen, Yams und Maniok."
+      ]
+    },
+    {
+      "id": "ng-ijebu-ode-cities-v2",
+      "descriptionAdvanced": "Ijebu-Ode ist eine Stadt, die Stolz und Reichtum atmet. Als Hauptstadt des historischen Ijebu-Königreichs – eines der ältesten und mächtigsten Yoruba-Reiche – kontrollierte die Stadt jahrhundertelang die lukrativen Handelsrouten zwischen der Küste von Lagos und dem Landesinneren. Diese tiefe kaufmännische Tradition lebt bis heute fort; Ijebu-Unternehmer gelten in ganz Nigeria als geschickt und erfolgreich. Das jährliche 'Ojude Oba'-Festival ist ein atemberaubendes Spektakel aus purer Pracht, bei dem Tausende Menschen in teuersten Gewändern auf Pferden durch die Stadt reiten, um ihrem König, dem Awujale, Respekt zu zollen. Gesellschaft K7 — Yoruba-Königreiche und Handelsnetzwerke.",
+      "factsAdvanced": [
+        "Historische Hauptstadt des antiken und mächtigen Ijebu-Königreichs.",
+        "Sitz des Awujale (Königs), einer der mächtigsten Yoruba-Monarchen.",
+        "Austragungsort des weltberühmten, farbenprächtigen Ojude Oba Festivals.",
+        "Wichtiger Knotenpunkt für den Handel mit Kakao und Holz.",
+        "Umgeben von dem mysteriösen, riesigen Erdwall Sungbo's Eredo.",
+        "Die Einwohner (Ijebu) sind national berühmt für ihren Geschäftssinn."
+      ]
+    },
+    {
+      "id": "ng-sagamu-cities-v2",
+      "descriptionAdvanced": "Sagamu ist das Epizentrum von Zement und Kolanüssen. Gegründet Mitte des 19. Jahrhunderts von Remo-Flüchtlingen, die vor den Kriegen im Yoruba-Land flohen, liegt die Stadt heute an Nigerias vielleicht wichtigster Verkehrsader – der Schnellstraße zwischen Lagos und Ibadan. Sagamu wuchs dramatisch, als riesige Kalksteinvorkommen entdeckt wurden, was zum Bau des gigantischen WAPCO-Zementwerks führte. Wenn man nicht gerade den Staub der Fabriken riecht, dominiert der bittere Duft von Kolanüssen die Stadt, denn Sagamu beheimatet den wohl größten Kolanuss-Umschlagplatz Westafrikas, der Käufer aus dem gesamten islamischen Norden anzieht. Wirtschaft K8 — Kalksteinabbau und traditionelle Agrarmärkte.",
+      "factsAdvanced": [
+        "Gegründet Mitte des 19. Jahrhunderts von der Yoruba-Untergruppe der Remo.",
+        "Liegt strategisch perfekt am Lagos-Ibadan Expressway.",
+        "Heimat einer der größten Zementfabriken Westafrikas (Lafarge WAPCO).",
+        "Der Sagamu Kola Nut Market ist einer der größten Afrikas.",
+        "Traditionell regiert vom Akarigbo von Remo.",
+        "Besitzt riesige natürliche Vorkommen an Kalkstein in der Region."
+      ]
+    },
+    {
+      "id": "ng-ogbomosho-cities-v2",
+      "descriptionAdvanced": "Ogbomosho war im 19. Jahrhundert eine der wenigen großen Yoruba-Städte, die wie eine Festung niemals von den kriegerischen Fulani aus dem Norden eingenommen wurden. Ihr Name bedeutet in etwa 'Stadt der Tapferen'. Diese militärische Vergangenheit zeigt sich in dem noch heute sehr konservativen und wehrhaften Charakter der Stadt. Ogbomosho ist umgeben von endlosen Feldern voller wilder Mangobäume und Cashewnüsse. Eine weitere Besonderheit der Stadt ist das legendäre heilige Krokodil (Alagba), das angeblich über 300 Jahre alt wurde und im Palast des traditionellen Königs (Soun) lebte. Geschichte K6 — Widerstand gegen das Sokoto-Kalifat und heilige Tiere.",
+      "factsAdvanced": [
+        "Wichtige historische Bastion der Yoruba gegen die Fulani-Invasionen.",
+        "Der Soun (König) residiert in einem massiven historischen Palast.",
+        "Bekannt für Alagba, ein heiliges Krokodil, das über 300 Jahre alt geworden sein soll.",
+        "Riesiges landwirtschaftliches Zentrum für Yams, Maniok und Cashewnüsse.",
+        "Eine der einwohnerstärksten, traditionellen Städte im Oyo-Staat.",
+        "Beherbergt die renommierte Ladoke Akintola University of Technology (LAUTECH)."
+      ]
+    },
+    {
+      "id": "ng-oyo-city-cities-v2",
+      "descriptionAdvanced": "Oyo-Stadt (Oyo Town) ist der lebende Erbe des wohl legendärsten Imperiums Westafrikas. Als das alte Oyo-Reich ('Oyo-Ile') im 19. Jahrhundert durch innere Kriege zerstört wurde, zogen die Überlebenden nach Süden und gründeten das heutige Oyo (oft als 'New Oyo' bezeichnet). Noch immer residiert hier der Alaafin von Oyo, dessen Palast tiefen Respekt und mystische Ehrfurcht bei Millionen von Yoruba weltweit auslöst. Die Stadt ist ein Ort der feinen Künste, berühmt für gigantische, handgeschnitzte Holztüren und hochpräzise Lederarbeiten, die noch immer auf den traditionellen Märkten vor dem Palast verkauft werden. Geschichte K8 — Das Oyo-Imperium und Yoruba-Monarchien.",
+      "factsAdvanced": [
+        "In den 1830er Jahren als 'Neues Oyo' gegründet, nachdem das alte Reich zerfiel.",
+        "Sitz des Alaafin von Oyo, einem der ranghöchsten Yoruba-Könige.",
+        "Gilt als das spirituelle und historische Machtzentrum des Yoruba-Volkes.",
+        "National berühmt für filigrane Holzschnitzereien und Lederhandwerk.",
+        "Die Architektur rund um den Palast spiegelt alte vorkoloniale Bauweisen wider.",
+        "Die Wirtschaft basiert stark auf traditioneller Landwirtschaft und Handwerk."
+      ]
+    }
+  ]
+}

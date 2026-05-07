@@ -1,0 +1,115 @@
+{
+  "lang": "ro",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "quaids-tomb-mausoleum-monument-history-v2",
+      "descriptionAdvanced": "Mazar-e-Quaid, situat în inima orașului Karachi, este locul de odihnă final al fondatorului Pakistanului, Muhammad Ali Jinnah. Finalizat în 1970, acest mausoleu modern este o capodoperă din marmură albă pură, având arcuri de inspirație maură și un dom masiv. Înconjurat de un parc uriaș de peste 50 de hectare cu fântâni linistitoare, atrage mii de vizitatori zilnic, servind ca punct central pentru ceremoniile naționale și ca sursă majoră de mândrie patriotică. Istorie K8 — fondatorii națiunii și arhitectură modernă.",
+      "factsAdvanced": ["Locul de înmormântare al fondatorului statului, Muhammad Ali Jinnah", "Mausoleul a fost finalizat și deschis oficial în anul 1970", "Este construit integral din blocuri masive de marmură albă", "Situat în centrul unui parc imens de peste 50 de hectare", "Designul său include arcuri proeminente de inspirație nord-africană", "Găzduiește parade militare oficiale în zilele naționale"]
+    },
+    {
+      "id": "katas-raj-temples-historical-site-v2",
+      "descriptionAdvanced": "Templele Katas Raj, așezate în Munții Salt Range din Punjab, reprezintă unul dintre cele mai sfinte și mai vechi situri de pelerinaj hindus din Pakistan. Conform epopeii antice Mahabharata, iazul de un albastru smarald din centrul complexului a fost creat din lacrimile zeului Shiva. Situl conține mai multe temple mici, conectate prin pasarele de piatră, ale căror origini datează de peste o mie de ani. Restaurat recent, complexul ilustrează patrimoniul religios divers al subcontinentului. Istorie K8 — hinduismul antic și epopei mitologice.",
+      "factsAdvanced": ["Un complex antic de temple hinduse situat în regiunea Punjab", "Iazul central ar fi fost format din lacrimile zeului Shiva", "Menționat direct în epopeea clasică indiană Mahabharata", "Atrage anual mii de pelerini hinduși din regiune", "Arhitectura templelor prezintă influențe kashmireze străvechi", "A fost restaurat pentru a păstra diversitatea culturală a țării"]
+    },
+    {
+      "id": "baltit-fort-historical-site-v2",
+      "descriptionAdvanced": "Fortul Baltit este o cetate tibetană spectaculoasă, cocoțată pe un platou înalt deasupra Văii Hunza din regiunea Gilgit-Baltistan. Datând de peste 700 de ani, structura a fost influențată arhitectural de palatul Potala din Tibet, când o prințesă baltă s-a căsătorit cu domnitorul local Mir din Hunza. Fortul de lemn și piatră a servit ca reședință regală până în 1945 și funcționează acum ca muzeu. Oferă o priveliște uimitoare asupra lanțului Karakoram, fiind un magnet pentru turiști. Istorie K8 — arhitectură himalayană și rutele mătăsii.",
+      "factsAdvanced": ["Are o vechime atestată de peste 700 de ani", "Situat pe o stâncă înaltă deasupra Văii Hunza (Gilgit-Baltistan)", "Arhitectura sa este inspirată puternic de influențele tibetane", "A servit drept reședință pentru regii locali Mir până în 1945", "A fost transformat cu succes într-un muzeu istoric de elită", "Oferă vederi panoramice către faimosul Munte Rakaposhi"]
+    },
+    {
+      "id": "ranikot-fort-historical-site-v2",
+      "descriptionAdvanced": "Cunoscut sub numele de "Marele Zid din Sindh", Fortul Ranikot este adesea considerat cel mai mare fort din lume, având un perimetru al zidurilor ce depășește uluitoarea lungime de 30 de kilometri. Situat în districtul Jamshoro, zidurile sale groase de piatră șerpuiesc peste dealuri sterpe și chei abrupte. Deși originile sale exacte rămân un mister arheologic, o mare parte din structura actuală a fost construită în secolul 19 de dinastia Talpur. A fost inclus pe lista tentativă a UNESCO. Istorie K8 — fortificații colosale și mistere arheologice.",
+      "factsAdvanced": ["Considerat a fi cel mai mare fort din întreaga lume", "Circumferința zidurilor sale de apărare depășește 30 de kilometri", "Supranumit frecvent "Marele Zid din Sindh"", "Reconstruit substanțial în secolul 19 de conducătorii Talpur", "Originile primilor săi constructori rămân necunoscute", "Zidurile sale masive unesc munți izolați din regiunea Jamshoro"]
+    },
+    {
+      "id": "chaukhandi-tombs-historical-site-v2",
+      "descriptionAdvanced": "Mormintele Chaukhandi se află la est de Karachi și reprezintă o necropolă islamică antică, unică prin arhitectura sa. Mormintele, care datează din secolele 15-18, aparțin în principal triburilor Jokhio și Baloch. Ele sunt remarcabile prin piramidele de piatră gresie sculptate meticulos cu motive geometrice, arme (pentru mormintele bărbaților) și bijuterii (pentru femei). Această tehnică distinctă de prelucrare a pietrei oferă o perspectivă fascinantă asupra artei funerare și culturii tribale timpurii din sudul Pakistanului. Istorie K8 — artă tribală și ritualuri funerare antice.",
+      "factsAdvanced": ["Necropolă impresionantă situată în apropierea orașului Karachi", "Mormintele datează din perioada secolelor 15 până în 18", "Construite în principal pentru membrii triburilor Jokhio și Baloch", "Prezintă sculpturi incredibil de detaliate direct în gresie moale", "Mormintele bărbaților sunt decorate cu arme, iar cele ale femeilor cu bijuterii", "Un exemplu perfect al arhitecturii funerare rurale specifice Sindh-ului"]
+    },
+    {
+      "id": "mehrgarh-ruins-history-v2",
+      "descriptionAdvanced": "Mehrgarh, localizat pe câmpiile Kachi din provincia Balochistan, este unul dintre cele mai vechi situri arheologice din Asia de Sud, datând din anul 7000 î.Hr. Descoperit în anii 1970, acest sit a revoluționat înțelegerea neoliticului în regiune, prezentând unele dintre cele mai timpurii dovezi mondiale ale agriculturii (grâu, orz) și păstoritului (vite, oi). Locuitorii antici din Mehrgarh au fost pionieri în medicina dentară primitivă și modelarea argilei, fiind precursorii Civilizației Indusului. Istorie K8 — revoluția neolitică și originile agriculturii.",
+      "factsAdvanced": ["Un sit neolitic primordial, atestat din anul 7000 î.Hr.", "Situat pe câmpiile Kachi din provincia Balochistan", "Arată cele mai vechi dovezi de agricultură din sudul Asiei", "Descoperit de o echipă arheologică franceză abia în anii 1970", "Locuitorii practicau primele forme de stomatologie primitivă", "Considerat baza dezvoltării ulterioare a Civilizației Văii Indusului"]
+    },
+    {
+      "id": "pakistan-monument-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Pakistanului din Islamabad, inaugurat în anul 2007, este un tribut vizual impresionant adus istoriei, culturii și provinciilor națiunii. Situat pe colinele Shakarparian, monumentul are forma unor petale de lotus gigantice care se deschid; cele patru petale mari reprezintă culturile provinciilor majore, iar cele trei mai mici reprezintă teritoriile. Realizat din granit sculptat și decorat cu artă murală fină, acesta include un muzeu de istorie masiv la bază și este vizitat de milioane de turiști anual. Istorie K8 — simbolism național și monumente contemporane.",
+      "factsAdvanced": ["Finalizat și deschis publicului larg în anul 2007", "Amplasat pe înălțimile pitorești Shakarparian din Islamabad", "Forma sa centrală imită niște petale mari de lotus deschise", "Fiecare petală mare reprezintă una dintre cele 4 provincii ale Pakistanului", "Monumentul este sculptat din blocuri de granit solid", "Conține un muzeu detaliat despre independența țării la nivelul inferior"]
+    },
+    {
+      "id": "faisal-mosque-monument-history-v2",
+      "descriptionAdvanced": "Moscheea Faisal din Islamabad este un triumf al arhitecturii islamice moderne și un simbol internațional al Pakistanului. Finalizată în 1986 și finanțată de Regele Faisal al Arabiei Saudite (după care este numită), designul său nu include domuri tradiționale; în schimb, seamănă cu un cort de beduin uriaș așezat la poalele dealurilor Margalla. Este cea mai mare moschee din Asia de Sud, capabilă să găzduiască peste 300.000 de credincioși în sala principală și în vasta sa curte. Istorie K8 — arhitectură modernă și diplomație internațională.",
+      "factsAdvanced": ["A fost finalizată în anul 1986 cu sprijinul Arabiei Saudite", "Designul său unic imită forma unui cort tradițional de beduin", "Nu are un dom clasic, ci un acoperiș unghiular modern", "Cea mai mare moschee de pe întregul continent sud-asiatic", "Capacitatea totală de rugăciune depășește 300.000 de persoane", "Cele patru minarete ale sale au fiecare 90 de metri înălțime"]
+    },
+    {
+      "id": "wazir-khan-mosque-monument-history-v2",
+      "descriptionAdvanced": "Moscheea Wazir Khan, o bijuterie ascunsă în interiorul zidurilor orașului vechi din Lahore, este faimoasă pentru că are cea mai complexă și mai rafinată decorațiune din epoca Mughal. Comandată în 1634 de medicul curții transformat în guvernator, Shaikh Ilm-ud-din, aproape fiecare suprafață interioară este acoperită cu fresce uluitoare de tip kashi-kari (mozaic de faianță). Arhitectura combină caligrafia grațioasă cu motivele florale și atrage pasionați de artă din întreaga lume. Istorie K8 — arta decorațiunilor Mughal și inovații tehnice.",
+      "factsAdvanced": ["A fost construită în anul 1634 pe timpul Imperiului Mughal", "Fondată de guvernatorul provincial, numit popular Wazir Khan", "Cunoscută drept cea mai ornată moschee din perioada Mughal", "Faimoasă pentru arta uimitoare din gresie kashi-kari", "Pereții interiori sunt acoperiți cu fresce florale și caligrafie", "Situată pe ruta regală istorică din interiorul orașului fortificat Lahore"]
+    },
+    {
+      "id": "derawar-fort-historical-site-v2",
+      "descriptionAdvanced": "Fortul Derawar este o fortăreață vizual copleșitoare situată direct în mijlocul Deșertului Cholistan din Punjab. Având origini antice sub regii hindusi Rajputi, a fost capturat și refăcut extensiv de dinastia Nawab de Bahawalpur în secolul 18. Cei patruzeci de bastioane masive de formă circulară se ridică la 30 de metri din nisip, formând un perimetru uriaș de 1.5 kilometri vizibil de la mile distanță. Pe lângă importanța militară, situl atrage turiști în timpul faimosului raliu pe nisip din Cholistan. Istorie K8 — fortărețe în deșert și dinastiile din Bahawalpur.",
+      "factsAdvanced": ["Construit și reconstruit în inima Marelui Deșert Cholistan", "Prezintă o arhitectură impresionantă cu 40 de bastioane masive circulare", "Zidurile de apărare ajung până la 30 de metri înălțime", "Formează un perimetru exterior de aproximativ 1.5 kilometri", "A fost principala fortăreață pentru familia Nawab din Bahawalpur", "Atrage numeroși turiști în timpul raliului anual de jeep-uri din Cholistan"]
+    },
+    {
+      "id": "faisal-mosque-landmarks-v2",
+      "descriptionAdvanced": "Moscheea Faisal din capitala Islamabad domină vizual peisajul urban cu arhitectura sa revoluționară. Fără a apela la domurile rotunde tradiționale, moscheea a fost proiectată de arhitectul turc Vedat Dalokay sub forma unui cort de beduin cu linii ascuțite, sprijinit de patru minarete gigantice de 90 de metri. Inaugurată în anul 1986, structura uriașă poate primi sute de mii de musulmani simultan, fiind finanțată integral printr-un grant oferit de regele Faisal al Arabiei Saudite. Geografie K7 — monumente arhitecturale contemporane și planificare urbană.",
+      "factsAdvanced": ["Proiectată de renumitul arhitect turc Vedat Dalokay", "Inaugurată oficial ca moschee națională în 1986", "Designul neconvențional imită un cort al beduinilor nomazi", "Cele 4 minarete ascuțite ajung fiecare la 90 de metri înălțime", "A fost finanțată printr-un grant masiv din Arabia Saudită", "Sala principală și curtea pot cuprinde 300.000 de credincioși"]
+    },
+    {
+      "id": "minar-e-pakistan-landmarks-v2",
+      "descriptionAdvanced": "Minar-e-Pakistan, situat în vastul Iqbal Park din Lahore, este cel mai important monument istoric al țării. Acest turn zvelt de 62 de metri, construit între 1960 și 1968, a fost ridicat pe locația exactă unde liderii musulmani au semnat "Rezoluția de la Lahore" în 1940. Baza turnului are formă de floare de lotus care se deschide, iar panourile de marmură din interior au gravate citate din Coran, precum și discursurile lui Muhammad Ali Jinnah. Geografie K7 — simboluri naționale și identitate culturală.",
+      "factsAdvanced": ["Inaugurat cu succes în 1968 după un efort de 8 ani", "Turnul principal are o înălțime de 62 de metri de la sol", "Construit exact pe situl unde s-a semnat Rezoluția din 1940", "Baza arhitecturală este modelată ca o uriașă floare de lotus", "Panourile din interior conțin texte gravate în marmură fină", "Este epicentrul festivităților de Ziua Independenței (23 martie)"]
+    },
+    {
+      "id": "lahore-fort-landmarks-v2",
+      "descriptionAdvanced": "Fortul Lahore este o fortăreață enormă protejată de UNESCO, amplasată în partea veche a orașului Lahore. Reședință regală timp de secole, complexul masiv a fost restilizat constant de împărați succesivi (începând masiv din secolul 16 sub Akbar). Complexul este renumit pentru atracții precum Zidul de Imagine (Picture Wall), decorat cu un mozaic complex, și structurile fastuoase din marmură adăugate de Shah Jahan. Grădinile și pavilioanele sale reflectă viața luxoasă din interiorul curții imperiale Mughal. Geografie K7 — cetăți regale și atracții turistice majore.",
+      "factsAdvanced": ["Un sit masiv al Patrimoniului Mondial UNESCO din Lahore", "Reconstrucția sa principală a început cu împăratul Akbar în sec. 16", "Conține magnificul Sheesh Mahal (Palatul Oglinzilor) creat de Shah Jahan", "Exteriorul prezintă spectaculosul mozaic gigantic "Picture Wall"", "A servit drept palat pentru numeroase dinastii pakistaneze", "Incorporează stiluri arhitecturale hinduse și islamice antice"]
+    },
+    {
+      "id": "badshahi-mosque-landmarks-v2",
+      "descriptionAdvanced": "Moscheea Badshahi (Moscheea Împăratului) a fost ridicată în anul 1673 chiar vizavi de Fortul Lahore. Construcția colosală, din blocuri gigantice de gresie roșie și marmură albă, a reprezentat vârful autorității regelui Aurangzeb. Curtea sa interioară, una dintre cele mai mari din lume, măsoară peste 25.000 de metri pătrați. Mai târziu, în secolul 19, armatele sikh i-au folosit curtea drept depozit pentru cai, însă astăzi este impecabil restaurată și constituie atracția de top a Punjabului. Geografie K7 — arhitectură religioasă și conservare istorică.",
+      "factsAdvanced": ["Ridicat de marele împărat Aurangzeb și finalizat în 1673", "Este o clădire masivă cu fațade extinse de gresie roșie", "Curtea este imensă, măsurând peste 25.000 de metri pătrați", "Trei domuri masive de marmură albă încoronează sala de rugăciune", "A fost folosită ca garnizoană militară în perioada Imperiului Sikh", "A suferit lucrări ample de restaurare în anii 1940 și 1960"]
+    },
+    {
+      "id": "mohenjo-daro-landmarks-v2",
+      "descriptionAdvanced": "Aflat în câmpiile prăfuite din Sindh, Mohenjo-Daro (Movila Morților) este inima turismului arheologic din Pakistan. Dezgropat în anii 1920, acest mega-oraș al Civilizației Indusului din anii 2500 î.Hr. uimește turiștii prin complexitatea sa: fântâni din cărămidă, faimoasa "Mare Baie" publică pentru ritualuri și absența templelor opulente în favoarea utilităților civice avansate. Deși amenințat de eroziune și salinitate, rămâne un loc de vizitat absolut fascinant pentru a înțelege nașterea societăților urbane complexe din Asia. Geografie K7 — situri UNESCO și arheologie antică.",
+      "factsAdvanced": ["Unul dintre primele mega-orașe ale umanității (2500 î.Hr.)", "Atracția principală este "Marea Baie", un bazin antic impermeabilizat", "Excavările au fost inițiate în mod oficial în anul 1922", "Nu s-au descoperit palate mari sau temple regale masive", "Sistemul său de străzi se intersectează precis la unghiuri de 90 de grade", "A fost recunoscut oficial ca monument UNESCO încă din 1980"]
+    },
+    {
+      "id": "taxila-ruins-landmarks-v2",
+      "descriptionAdvanced": "Taxila, la mică distanță de capitală, atrage iubitorii de istorie care doresc să viziteze un amestec incredibil de cultură antică indiană, elenistică și persană. Datând din secolul 6 î.Hr., situl este presărat cu rămășițele orașului antic Sirkap, un fost centru urban fortificat influențat de coloniștii greci, și Dharmarajika Stupa, o relicvă budistă circulară impresionantă. Considerată una dintre destinațiile culturale esențiale din Pakistan, zona oferă vizitatorilor muzeul local care adăpostește relicve grecești și budiste unice. Geografie K7 — atracții istorice și influențe interculturale.",
+      "factsAdvanced": ["Situl reunește puternice influențe culturale persane și grecești", "Orașul antic Sirkap arată un plan urbanistic elenistic", "Dharmarajika Stupa este o structură budistă centrală imensă", "Are origini cunoscute începând cel puțin cu secolul 6 î.Hr.", "A fost un pol major pentru budism înainte de declinul său", "Situat extrem de aproape de orașele moderne Islamabad și Rawalpindi"]
+    },
+    {
+      "id": "pakistan-monument-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Pakistanului, ridicat pe dealurile Shakarparian, funcționează ca un magnet turistic major în capitala Islamabad. Construit în forma unei flori înflorite uimitoare realizate din granit masiv, a fost dedicat poporului pakistanez care a luptat pentru independență. Finalizat în 2007, monumentul oferă vederi panoramice excepționale asupra întregului oraș. În interior, relieful de o complexitate uluitoare reprezintă clădiri iconice, cum ar fi Pasul Khyber și Fortul Lahore, celebrând diversitatea regiunilor sale. Geografie K7 — atracții moderne și puncte de belvedere.",
+      "factsAdvanced": ["Reprezintă un reper iconic modern inaugurat în 2007", "Amplasat pe o înălțime pitorească (Shakarparian) din Islamabad", "Forma sa unică reprezintă o uriașă floare cu petale curbate", "Relieful interior conține artă detaliată a patrimoniului național", "Cele patru petale mari semnifică cele 4 provincii mari", "Oferă una dintre cele mai bune priveliști panoramice asupra capitalei"]
+    },
+    {
+      "id": "shah-jahans-mosque-landmarks-v2",
+      "descriptionAdvanced": "Moscheea lui Shah Jahan din orașul antic Thatta este una dintre atracțiile de neratat ale provinciei Sindh, faimoasă pentru munca sa extrem de rafinată în mozaic turcoaz. Ridicată în anul 1647 la comanda directă a împăratului Mughal, este specială deoarece structura sa principală a evitat minaretele tradiționale înalte. În schimb, este celebră pentru cele 93 de domuri care acoperă clădirea masivă, generând o rezonanță acustică naturală care este încă studiată de arhitecții moderni din întreaga lume. Geografie K7 — patrimoniul Mughal și artizanat ceramic.",
+      "factsAdvanced": ["Ridicată în anul 1647 de celebrul împărat Mughal Shah Jahan", "Are fix 93 de cupole care creează acustica uimitoare", "Nu dispune de niciun minaret, spre deosebire de alte moschei", "Cel mai extins exemplu de faianță kashi-kari (mozaic turcoaz) din țară", "Situată în orașul antic Thatta, la est de Karachi", "Este o atracție turistică de importanță majoră în provincia Sindh"]
+    },
+    {
+      "id": "derawar-fort-landmarks-v2",
+      "descriptionAdvanced": "Peisajul plat al deșertului Cholistan este rupt brusc de prezența dominantă a Fortului Derawar, o priveliște monumentală pentru orice călător. Cele 40 de turnuri circulare formidabile au fost esențiale pentru a proteja puțurile de apă și rutele deșertice în secolul 18. Construit pe locul unei structuri mai vechi de către emirii locali din Bahawalpur, fortul este adesea asociat vizual cu misterul dunelor imense și servește drept ancoră turistică, fiind vizitat cel mai frecvent iarna și primăvara. Geografie K7 — turism în zone deșertice și bastioane istorice.",
+      "factsAdvanced": ["Bastioanele circulare masive ating aproape 30 de metri înălțime", "Construit în inima Marelui Deșert Cholistan", "A servit istoric ca loc sigur pentru controlul surselor de apă", "Construit pe fundațiile unui fort hindus Rajput mai vechi", "A devenit un pol turistic masiv pentru off-road și expediții", "Rezidit de către guvernatorii Nawab din regiunea Bahawalpur"]
+    },
+    {
+      "id": "baltit-fort-landmarks-v2",
+      "descriptionAdvanced": "Datorită vederilor sale spectaculoase din Valea Hunza și a istoriei sale profunde, Fortul Baltit este o atracție emblematică din nordul Pakistanului. Lemnul închis, piatra expusă și arhitectura în trepte amintesc de stilul tibetan tradițional, datând de peste șapte secole. Transformarea cu succes a fortului dintr-un castel dărăpănat într-un muzeu vibrant a fost recunoscută printr-un premiu internațional pentru excelență în conservare din partea UNESCO, aducând un aflux constant de turiști internaționali. Geografie K7 — ecoturism și conservarea patrimoniului.",
+      "factsAdvanced": ["Construit inițial în urmă cu mai bine de șapte secole", "Stilul arhitectural seamănă izbitor cu cel din regiunea Tibet", "Reședința ancestrală a regilor independenți ai Văii Hunza", "A obținut premii globale UNESCO pentru un proces de restaurare model", "Structura folosește rame de lemn capabile să reziste la cutremure", "Reprezintă unul dintre cele mai vizitate situri turistice din regiunea de nord"]
+    }
+  ]
+}

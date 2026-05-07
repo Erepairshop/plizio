@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mz-maragra-sugar-economic-v2",
+      "descriptionAdvanced": "The Maragra Sugar Factory is a historic and highly productive agro-industrial complex situated in the fertile Incomati River valley in Maputo Province. Acquired and rehabilitated by the South African firm Illovo Sugar, the estate boasts thousands of hectares of irrigated sugarcane. The factory serves as a vital economic engine for the Manhiça District, providing substantial employment and driving local infrastructure development. Maragra's production is heavily export-oriented, satisfying both domestic demand and international quotas, primarily to the European Union. Geography K7 — Irrigated agriculture, agro-processing, and corporate farming.",
+      "factsAdvanced": [
+        "Located in Manhiça District, Maputo Province.",
+        "Majority-owned and operated by Illovo Sugar Africa.",
+        "Produces over 80,000 tons of refined sugar annually.",
+        "Relies on water drawn from the adjacent Incomati River.",
+        "Severely impacted by the catastrophic floods of 2000 and subsequent cyclones.",
+        "A major contributor to Mozambique's agricultural export earnings."
+      ]
+    },
+    {
+      "id": "mz-mafambisse-sugar-economic-v2",
+      "descriptionAdvanced": "The Mafambisse Sugar Mill is the premier agro-industrial asset of central Mozambique, located in Sofala Province just inland from Beira. Operated by Tongaat Hulett, the estate leverages the rich alluvial soils of the Pungwe River floodplains to cultivate vast expanses of sugarcane. The mill produces hundreds of thousands of tons of raw and refined sugar, playing a critical role in the regional economy of the Beira corridor. Despite recurrent challenges from devastating cyclones and seasonal flooding, Mafambisse remains a resilient pillar of Mozambique's agricultural sector. Geography K7 — River floodplains, plantation agriculture, and climate resilience.",
+      "factsAdvanced": [
+        "Situated in the Dondo District of Sofala Province.",
+        "Managed by the agricultural conglomerate Tongaat Hulett.",
+        "Cultivates sugarcane on the fertile Pungwe River floodplains.",
+        "Historically suffered immense infrastructural damage during Cyclone Idai.",
+        "A vital source of formal employment in the central region.",
+        "Exports processed sugar primarily via the nearby Port of Beira."
+      ]
+    },
+    {
+      "id": "mz-nampula-textile-economic-v2",
+      "descriptionAdvanced": "The Nampula Textile Factory represents the historical legacy of northern Mozambique's industrial ambitions. Originally established during the colonial era and expanded after independence, the factory was designed to process the massive amounts of raw cotton cultivated by local farmers across Nampula and Cabo Delgado provinces. Although it has faced prolonged periods of inactivity due to economic shifts and civil conflict, recent government and foreign investment initiatives aim to revitalize the facility. Its revival is seen as crucial for shifting the economy from raw cotton export to value-added garment manufacturing. Geography K7 — Light industry, cotton production, and value-added manufacturing.",
+      "factsAdvanced": [
+        "Located in Nampula, the commercial hub of northern Mozambique.",
+        "Designed to process locally grown raw cotton into finished textiles.",
+        "Historically one of the largest manufacturing employers in the region.",
+        "Suffered significant operational decline during the 1980s and 90s.",
+        "Currently targeted by state initiatives to revitalize domestic manufacturing.",
+        "Links the agricultural hinterland to industrial production."
+      ]
+    },
+    {
+      "id": "mz-cimentos-mocambique-economic-v2",
+      "descriptionAdvanced": "The Matola Cement Factory, operated by Cimentos de Moçambique, is the industrial backbone of the nation's booming construction sector. Located in the industrial zone of Matola near the capital, the massive plant produces the cement required for Mozambique's expansive infrastructure projects, including dams, bridges, and the rapid urbanization of Maputo. The facility sources raw limestone from domestic quarries, particularly in the south and central provinces, processing it in energy-intensive kilns. The continuous modernization of this plant reflects the rapid, concrete-heavy development sweeping the country's urban centers. Geography K8 — Heavy manufacturing, construction materials, and urbanization.",
+      "factsAdvanced": [
+        "Located in the Matola industrial zone, adjacent to Maputo.",
+        "Operated by Cimentos de Moçambique, a subsidiary of Intercement.",
+        "Produces millions of tons of Portland cement annually.",
+        "Supplies the raw materials for major national infrastructure projects.",
+        "A highly energy-intensive manufacturing process.",
+        "Relies on regional limestone quarries for raw material supply."
+      ]
+    },
+    {
+      "id": "mz-montepuez-ruby-economic-v2",
+      "descriptionAdvanced": "The Montepuez Ruby Mine is a globally significant gemstone operation located in Cabo Delgado Province. Discovered only in 2009, the deposit quickly proved to be one of the largest and highest-quality ruby reserves ever found. Operated primarily by Gemfields (Montepuez Ruby Mining), the vast open-pit concessions have transformed the global ruby market, bringing unprecedented revenue to the region. However, the immense wealth generated has also sparked complex socio-economic challenges, including intense conflicts with thousands of informal, artisanal miners (garimpeiros) drawn to the area. Geography K8 — Gemstone extraction, global commodity markets, and informal mining.",
+      "factsAdvanced": [
+        "Located in the Montepuez District of Cabo Delgado Province.",
+        "Considered the largest continuous ruby deposit in the world.",
+        "Majority-owned and operated by the UK-based firm Gemfields.",
+        "Accounts for a massive percentage of the global supply of rough rubies.",
+        "The discovery in 2009 triggered a massive influx of informal artisanal miners.",
+        "High-value stones are auctioned internationally, often in Singapore or Singapore."
+      ]
+    },
+    {
+      "id": "mz-moamba-major-dam-economic-v2",
+      "descriptionAdvanced": "The Moamba Major Dam Project is a critical infrastructure initiative located on the Incomati River in Maputo Province. Designed to secure the water supply for the rapidly expanding Maputo metropolitan area and the surrounding agricultural districts, the dam is seen as a vital adaptation to increasingly erratic rainfall patterns and regional droughts. Once completed, the massive reservoir will control flooding downstream and provide reliable irrigation for vast tracts of commercial farming, particularly sugarcane. The project underscores the intense pressure on water resources driven by southern Mozambique's urbanization. Geography K8 — Water security, dam engineering, and drought resilience.",
+      "factsAdvanced": [
+        "Situated on the Incomati River in the Moamba District.",
+        "Designed primarily to secure drinking water for the Greater Maputo area.",
+        "Financing and construction involved significant bilateral agreements with Brazil.",
+        "Will provide critical irrigation for surrounding agricultural zones.",
+        "Aims to mitigate the severe seasonal flooding in the lower Incomati valley.",
+        "Considered a vital climate change adaptation infrastructure project."
+      ]
+    },
+    {
+      "id": "mz-ressano-gas-power-economic-v2",
+      "descriptionAdvanced": "The Ressano Garcia Gas Plant (CTRG) is a highly strategic power generation facility located at the Mozambican-South African border. The plant utilizes natural gas piped from the Pande and Temane fields in Inhambane to generate electricity. Because of its prime location on the border, it not only feeds power into the Mozambican national grid (EDM) but also exports substantial surplus electricity directly to South Africa's Eskom. This facility highlights Mozambique's successful strategy of leveraging its domestic hydrocarbon wealth to become a pivotal energy exporter in the Southern African power pool. Geography K8 — Thermal power generation, cross-border energy trade, and natural gas.",
+      "factsAdvanced": [
+        "Located in Ressano Garcia, adjacent to the South African border.",
+        "Generates electricity using natural gas from the Temane/Pande fields.",
+        "A joint venture between Mozambique's EDM and South Africa's Sasol.",
+        "Has an installed generation capacity exceeding 175 Megawatts.",
+        "Exports significant electrical power directly to South Africa.",
+        "Crucial for stabilizing the power supply in the Maputo industrial corridor."
+      ]
+    },
+    {
+      "id": "mz-gigawatt-power-economic-v2",
+      "descriptionAdvanced": "The Gigawatt Power Station is an independent thermal power plant located near the South African border in Ressano Garcia. Operating in tandem with other gas-fired facilities in the area, it is powered exclusively by natural gas extracted from Mozambique's interior fields. This massive private investment was designed specifically to address the severe electricity deficits in the region, supplying power to the national grid under long-term purchasing agreements. The modern, highly efficient turbines demonstrate Mozambique's transition toward utilizing its own fossil fuel resources to drive domestic industrialization. Geography K8 — Independent power producers, natural gas utilization, and energy infrastructure.",
+      "factsAdvanced": [
+        "Located in the strategic border town of Ressano Garcia.",
+        "An independent power producer (IPP) facility using natural gas.",
+        "Boasts an installed capacity of approximately 120 Megawatts.",
+        "Utilizes state-of-the-art, high-efficiency gas reciprocating engines.",
+        "Supplies electricity directly to Electricidade de Moçambique (EDM).",
+        "Represents a massive $200 million private sector investment."
+      ]
+    },
+    {
+      "id": "mz-mocuba-solar-economic-v2",
+      "descriptionAdvanced": "The Mocuba Solar Plant, located in Zambezia Province, is a pioneering renewable energy project and the first utility-scale solar facility constructed in Mozambique. Spanning vast tracts of land with hundreds of thousands of photovoltaic panels, the plant injects clean, sustainable energy directly into the northern national grid. It represents a critical shift in the country's energy strategy, aiming to diversify a power sector traditionally dominated by massive hydroelectric dams like Cahora Bassa. The plant provides vital grid stability to the central and northern provinces during the dry season. Geography K8 — Renewable energy, solar power, and grid diversification.",
+      "factsAdvanced": [
+        "Located in the Mocuba District of Zambezia Province.",
+        "The first utility-scale solar power plant in Mozambique.",
+        "Features an installed capacity of 40 Megawatts.",
+        "Consists of over 120,000 photovoltaic solar panels.",
+        "Developed through a public-private partnership involving Scatec Solar.",
+        "Provides critical daytime power stability to the northern electrical grid."
+      ]
+    },
+    {
+      "id": "mz-metoro-solar-economic-v2",
+      "descriptionAdvanced": "The Metoro Solar Park is a massive renewable energy installation located in Cabo Delgado Province, representing a major leap forward for green infrastructure in northern Mozambique. Built to harness the intense year-round solar irradiation of the region, the facility utilizes tracking photovoltaic technology to maximize energy generation. The power produced is fed into the national grid, providing a reliable and clean energy source for the rapidly developing city of Pemba and surrounding districts. It stands as a beacon of sustainable development amidst a region primarily known for fossil fuel extraction. Geography K8 — Solar parks, green infrastructure, and tracking photovoltaics.",
+      "factsAdvanced": [
+        "Situated in the Ancuabe District of Cabo Delgado Province.",
+        "Generates approximately 41 Megawatts of clean electricity.",
+        "Utilizes over 125,000 solar panels with single-axis tracking systems.",
+        "Developed by the French renewable energy firm Neoen.",
+        "Crucial for stabilizing the electricity supply in the northernmost province.",
+        "Offsets tens of thousands of tons of CO2 emissions annually."
+      ]
+    },
+    {
+      "id": "mz-port-angoche-economic-v2",
+      "descriptionAdvanced": "The Port of Angoche is a historic maritime facility located in Nampula Province, deeply intertwined with the region's ancient Swahili trading networks. During the 20th century, it operated as a bustling commercial hub exporting massive quantities of locally grown cashew nuts, copra, and sisal. Although its deep-water capabilities are limited compared to nearby Nacala, Angoche remains a crucial center for the artisanal fishing industry and coastal maritime traffic. Efforts to rehabilitate the port focus on reviving its role as an export gateway for the rich agricultural hinterland. Geography K7 — Coastal shipping, historical ports, and artisanal fisheries.",
+      "factsAdvanced": [
+        "Located on a complex coastal estuary in Nampula Province.",
+        "Historically a major export node for cashew nuts and copra.",
+        "Features colonial-era warehouses and administrative port buildings.",
+        "Currently dominated by coastal cabotage and artisanal fishing fleets.",
+        "Lacks the deep-water draft necessary for modern massive bulk carriers.",
+        "Targeted by provincial plans for regional economic revitalization."
+      ]
+    },
+    {
+      "id": "mz-macuse-port-project-economic-v2",
+      "descriptionAdvanced": "The Macuse Port Project is a massive, proposed deep-water port and railway infrastructure initiative located in Zambezia Province. Designed specifically as an alternative logistical corridor to export the immense coal reserves of the Moatize basin, the project aims to bypass the congested Beira and Nacala routes. The plan involves constructing a brand-new railway line from Tete directly to the pristine coastline at Macuse, where a modern bulk-handling port would be built. If realized, it would fundamentally transform the geography of central Mozambique, creating a brand new industrial export corridor. Geography K8 — Planned mega-projects, transport corridors, and coal logistics.",
+      "factsAdvanced": [
+        "A proposed deep-water port located in the Zambezia Province.",
+        "Designed to serve as a new export hub for Moatize coal.",
+        "The project includes a proposed 500 km heavy-haul railway from Tete.",
+        "Intended to handle up to 30 million tons of bulk cargo annually.",
+        "Has faced numerous delays due to fluctuating global coal prices.",
+        "Represents a multi-billion dollar prospective foreign investment."
+      ]
+    },
+    {
+      "id": "mz-cuamba-rail-hub-economic-v2",
+      "descriptionAdvanced": "The Cuamba Logistics Yard is a critical operational junction on the Nacala Railway corridor in Niassa Province. It serves as the vital intersection where the branch line from the provincial capital, Lichinga, merges with the main heavy-haul line connecting Malawi to the deep-water port of Nacala. The massive rail yard acts as an aggregation point for agricultural goods from the northern highlands and a logistical staging area for the seemingly endless coal trains passing through. Its strategic location makes Cuamba an indispensable node in the massive multinational transport network. Geography K7 — Rail junctions, transport logistics, and corridor management.",
+      "factsAdvanced": [
+        "Located in Cuamba, Niassa Province.",
+        "The primary junction where the Lichinga branch meets the Nacala corridor.",
+        "Manages the transit of massive mile-long coal trains from Moatize.",
+        "Acts as a major aggregation center for agricultural freight.",
+        "Operated by the Nacala Logistics consortium.",
+        "Essential for regulating railway traffic entering from neighboring Malawi."
+      ]
+    },
+    {
+      "id": "mz-maputo-fortress-history-v2",
+      "descriptionAdvanced": "The Maputo Fortress (Fortaleza de Nossa Senhora da Conceição) is one of the capital's most significant historical landmarks. Originally constructed by the Portuguese in the late 18th century to protect their trading interests on Delagoa Bay, the imposing quadrangular stone fort now serves as a military history museum. It houses intricate colonial-era artillery, striking statues of prominent Portuguese figures like Mouzinho de Albuquerque, and the intricate wooden coffin of Ngungunhane, the last emperor of the Gaza Empire. The fortress stands as a stark monument to the complex and violent colonial history of southern Mozambique. History K8 — Colonial fortifications, military history, and the Gaza Empire.",
+      "factsAdvanced": [
+        "Located near the waterfront in central Maputo.",
+        "Built in its current stone form by the Portuguese in the late 18th century.",
+        "Features a classic quadrangular defensive design with corner bastions.",
+        "Houses the remains of Ngungunhane, the famous Gaza Emperor.",
+        "Displays numerous colonial-era cannons and military artifacts.",
+        "Now operates as a public museum managed by Eduardo Mondlane University."
+      ]
+    },
+    {
+      "id": "mz-casa-de-ferro-history-v2",
+      "descriptionAdvanced": "The Iron House (Casa de Ferro) is a bizarre and iconic architectural landmark situated in the heart of Maputo. Designed in 1892 by an associate of Gustave Eiffel, the entire structure is composed of prefabricated iron panels imported from Belgium. Originally intended as the residence for the Portuguese Governor-General, it proved completely uninhabitable due to the blistering tropical heat trapped by the iron walls. Today, it serves as an administrative building for the Ministry of Culture and stands as a fascinating, if misguided, example of European industrial architecture transplanted into the African tropics. History K8 — Prefabricated architecture, colonial planning, and tropical climates.",
+      "factsAdvanced": [
+        "Designed in 1892 by the school of Gustave Eiffel.",
+        "Constructed entirely from prefabricated iron plates imported from Europe.",
+        "Originally intended to house the Portuguese Governor-General.",
+        "Rendered nearly uninhabitable by the intense tropical heat.",
+        "Has been relocated several times within the city of Maputo.",
+        "Currently houses the National Directorate of Cultural Heritage."
+      ]
+    },
+    {
+      "id": "mz-maputo-railway-station-history-v2",
+      "descriptionAdvanced": "The Maputo Railway Station (Estação dos Caminhos de Ferro) is widely regarded as one of the most beautiful train stations in the world. Completed in 1916, this magnificent Beaux-Arts building features a striking mint-green and white facade, elegant wrought-iron latticework, and a massive central copper dome. It was built to serve as the grand terminus of the railway connecting the port of Lourenço Marques (Maputo) to the gold mines of South Africa. Today, it functions not only as a working commuter transit hub but also houses a fascinating railway museum displaying vintage steam locomotives. History K8 — Beaux-Arts architecture, railway history, and colonial grandeur.",
+      "factsAdvanced": [
+        "Completed in 1916 during the Portuguese colonial administration.",
+        "Frequently ranked globally as one of the most beautiful train stations.",
+        "Features an iconic massive copper dome designed by an associate of Eiffel.",
+        "Built to anchor the vital railway line connecting to Pretoria, South Africa.",
+        "Houses a dedicated museum featuring historic steam locomotives.",
+        "Serves as the operational terminus for Maputo's commuter rail network."
+      ]
+    },
+    {
+      "id": "mz-fort-sao-sebastiao-history-v2",
+      "descriptionAdvanced": "The Fort of São Sebastião, located on the northern tip of the Island of Mozambique, is the oldest complete fort still standing in sub-Saharan Africa. Construction began in 1558 and took fifty years to complete, utilizing massive stone blocks transported from Portugal as ship ballast. Built to protect the vital Portuguese spice and gold trade routes from rival Dutch and Arab fleets, its sheer scale and impregnable walls never fell in battle. The fort's vast interior houses an ingenious rainwater harvesting cistern system, allowing defenders to withstand prolonged sieges in the Indian Ocean heat. History K8 — Coastal fortifications, maritime empires, and siege warfare.",
+      "factsAdvanced": [
+        "Construction began in 1558 and concluded in 1608.",
+        "The oldest complete European fort in sub-Saharan Africa.",
+        "Located on the UNESCO World Heritage Island of Mozambique.",
+        "Built using massive stone blocks brought as ballast in Portuguese galleons.",
+        "Features an enormous, highly engineered central rainwater cistern.",
+        "Successfully repelled major sieges by the Dutch in the 17th century."
+      ]
+    },
+    {
+      "id": "mz-chapel-nossa-senhora-de-baluarte-history-v2",
+      "descriptionAdvanced": "The Chapel of Nossa Senhora de Baluarte is a small, hauntingly beautiful structure perched on the outermost edge of the Fort of São Sebastião on the Island of Mozambique. Built in 1522, it holds the profound historical distinction of being the oldest European building in the southern hemisphere. Featuring intricate Manueline architectural details, it was constructed by the crew of a Portuguese fleet wintering on the island. Overlooking the vast expanse of the Indian Ocean, the chapel serves as a quiet, enduring monument to the earliest days of European maritime exploration in Africa. History K8 — Manueline architecture, early exploration, and historical monuments.",
+      "factsAdvanced": [
+        "Built in 1522 by Portuguese sailors.",
+        "Considered the oldest existing European building in the southern hemisphere.",
+        "Features distinct Manueline (Portuguese late Gothic) architectural styling.",
+        "Located on the very tip of the Fort of São Sebastião.",
+        "Constructed before the massive fort itself was built around it.",
+        "Restored in the 1990s as part of UNESCO heritage preservation efforts."
+      ]
+    },
+    {
+      "id": "mz-palacio-de-sao-paulo-history-v2",
+      "descriptionAdvanced": "The Palace of São Paulo (Palácio de São Paulo) is a striking crimson-red colonial building located on the Island of Mozambique. Originally constructed in 1610 as a Jesuit college, it was later repurposed as the luxurious residence for the Portuguese Governors-General of East Africa. Today, it serves as a spectacular museum, its interior perfectly preserved with opulent Indo-Portuguese furniture, intricate tapestries, and stunning imported Ming dynasty porcelain. The palace's grand halls and courtyards provide a vivid glimpse into the wealth and administrative power of the Portuguese maritime empire during its peak. History K8 — Colonial administration, Jesuit history, and global trade wealth.",
+      "factsAdvanced": [
+        "Constructed in 1610 originally as a Jesuit college.",
+        "Served as the official residence of the Portuguese Governor-General until 1898.",
+        "Located on the UNESCO World Heritage Island of Mozambique.",
+        "Now operates as a museum of decorative arts and colonial history.",
+        "Features extensive collections of original Indo-Portuguese furniture.",
+        "The striking red facade is an iconic symbol of the island's 'Stone Town'."
+      ]
+    },
+    {
+      "id": "mz-manyikeni-ruins-history-v2",
+      "descriptionAdvanced": "The Manyikeni Ruins are a highly significant archaeological site located in Inhambane Province, representing a rare coastal extension of the Great Zimbabwe cultural tradition. Dating from the 12th to the 17th centuries, the site features the characteristic dry-stone wall enclosures synonymous with the Zimbabwe plateau cultures. Manyikeni served as a crucial regional trading center, linking the powerful interior gold-mining kingdoms with the Swahili merchant networks on the Indian Ocean coast. Excavations here have unearthed glass beads, foreign porcelain, and evidence of cattle herding, highlighting complex pre-colonial African trade dynamics. History K8 — Pre-colonial kingdoms, Great Zimbabwe culture, and Indian Ocean trade.",
+      "factsAdvanced": [
+        "Located in the Vilankulo District of Inhambane Province.",
+        "Dates to between the 12th and 17th centuries.",
+        "Features dry-stone wall architecture characteristic of Great Zimbabwe.",
+        "Served as a vital trade link between the interior kingdoms and the coast.",
+        "Archaeologists have found imported Chinese porcelain and glass trade beads.",
+        "Located uniquely close to the coast compared to other Zimbabwe-tradition sites."
+      ]
+    },
+    {
+      "id": "mz-chibuene-history-v2",
+      "descriptionAdvanced": "Chibuene is an incredibly important archaeological site situated on the coast of Inhambane Province, just south of Vilankulo. Dating back to the late first millennium AD, it provides some of the earliest concrete evidence of extensive Indian Ocean maritime trade in southern Africa. Excavations at the site have revealed vast quantities of imported Islamic ceramics, glass beads from the Middle East, and evidence of local metallurgy. Chibuene demonstrates that complex, long-distance international trade networks were established on the Mozambican coast centuries before the arrival of European explorers. History K8 — Early maritime trade, Islamic ceramics, and coastal archaeology.",
+      "factsAdvanced": [
+        "An early Iron Age archaeological site on the coast of Inhambane.",
+        "Occupied as early as the late first millennium AD (circa 700 AD).",
+        "A critical node in the early Indian Ocean Swahili trade networks.",
+        "Excavations yielded massive amounts of imported Islamic and Chinese ceramics.",
+        "Served as a coastal trading partner to interior sites like Manyikeni.",
+        "Proves deep historical connections between southern Africa and the Middle East."
+      ]
+    },
+    {
+      "id": "mz-vumba-rock-paintings-history-v2",
+      "descriptionAdvanced": "The Vumba Rock Paintings are a spectacular collection of ancient San (Bushman) rock art hidden within the rugged Vumba Mountains of Manica Province. Estimated to be thousands of years old, these intricate ochre and red-pigment paintings depict vivid scenes of hunting, local wildlife such as eland and elephants, and complex shamanic trance rituals. The sheer density and preservation of the art provide a profound, silent narrative of the hunter-gatherer societies that inhabited the cool, mountainous highlands long before the arrival of Bantu-speaking agriculturalists or European colonizers. History K8 — San rock art, hunter-gatherer societies, and spiritual archaeology.",
+      "factsAdvanced": [
+        "Located in the Vumba Mountains near the Zimbabwean border.",
+        "Created by the indigenous San (Bushman) hunter-gatherer communities.",
+        "Features intricate depictions of humans, wildlife, and trance states.",
+        "Painted using natural red ochre and iron oxide pigments.",
+        "Estimated to range from hundreds to several thousands of years old.",
+        "Provides crucial insights into the pre-Bantu history of southern Africa."
+      ]
+    },
+    {
+      "id": "mz-chinhamapere-rock-art-history-v2",
+      "descriptionAdvanced": "The Chinhamapere Rock Art site is a revered archaeological and spiritual location situated on the granite slopes of the Vumba Mountains near Manica town. This ancient gallery of San rock paintings is exceptionally well-preserved, featuring distinct, vibrant red figures of hunters, wild animals, and abstract symbols. Beyond its archaeological value, the site remains highly sacred to the local Shona-speaking communities, who continue to perform traditional ceremonies and offerings at the base of the painted rocks. It is a stunning example of ancient art continuing to hold spiritual relevance in the modern era. History K8 — Sacred sites, rock art preservation, and living heritage.",
+      "factsAdvanced": [
+        "Located near the town of Manica on the slopes of the Vumba Mountains.",
+        "Features exceptionally well-preserved ancient San rock paintings.",
+        "Depicts complex hunting scenes and geometric spiritual symbols.",
+        "The site is considered highly sacred by modern local communities.",
+        "Traditional rainmaking and ancestral ceremonies are still held here.",
+        "Protected as a site of national historical and cultural importance."
+      ]
+    },
+    {
+      "id": "mz-sena-historic-town-history-v2",
+      "descriptionAdvanced": "The Historic Town of Sena, located on the southern banks of the Zambezi River in Sofala Province, is one of the oldest and most significant European settlements in the African interior. Established by the Portuguese in 1531 on the site of an earlier Swahili trading post, it served as a major fortified hub for the incredibly lucrative gold, ivory, and slave trade penetrating the Zambezi valley. Today, while mostly a quiet railway town known for the massive Dona Ana Bridge, Sena's scattered ruins and deep historical footprint serve as a testament to centuries of violent, complex colonial expansion into the heart of Africa. History K8 — Zambezi valley trade, colonial expansion, and early settlements.",
+      "factsAdvanced": [
+        "Established by the Portuguese in 1531 on the Zambezi River.",
+        "One of the oldest European settlements in the interior of southern Africa.",
+        "Historically a massive center for the gold, ivory, and slave trades.",
+        "Served as a strategic military outpost to control river traffic.",
+        "Located adjacent to the iconic 3.6 km Dona Ana railway bridge.",
+        "Features the ruins of colonial-era forts and trading warehouses."
+      ]
+    },
+    {
+      "id": "mz-zumbo-trading-post-history-v2",
+      "descriptionAdvanced": "Zumbo is an incredibly remote historic trading post located at the absolute westernmost tip of Mozambique, where the Zambezi River meets the borders of Zimbabwe and Zambia. Founded in the early 18th century by Portuguese merchants and Goan traders, it was established to tap directly into the wealth of the Mutapa and Rozwi empires. For centuries, Zumbo was a lawless, bustling frontier town dealing in vast quantities of gold and ivory. Today, its isolated ruins, accessible only by rough dirt roads or riverboats, stand as silent ghosts of the furthest reaches of the Portuguese maritime empire. History K8 — Frontier trading posts, interior exploration, and the ivory trade.",
+      "factsAdvanced": [
+        "Located at the westernmost point of Mozambique in Tete Province.",
+        "Sits at the strategic confluence of the Zambezi and Luangwa rivers.",
+        "Founded in the 1720s as a major Portuguese and Goan trading post (feira).",
+        "Was the furthest inland point of the Portuguese colonial empire in East Africa.",
+        "Historically dominated by the trade in gold dust and elephant ivory.",
+        "Features the isolated ruins of colonial forts and merchant houses."
+      ]
+    }
+  ]
+}

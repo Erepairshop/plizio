@@ -1,0 +1,848 @@
+{
+  "MD-001-briceni-city": {
+    "desc": "Briceni este un oraș așezat în nordul pitoresc al Republicii Moldova, cunoscut ca un important centru agricol al regiunii. Orașul este adesea denumit 'capitala merelor', datorită livezilor vaste care domină peisajul înconjurător și susțin economia locală. Multiculturalitatea sa istorică este vizibilă în arhitectura caselor vechi și a lăcașurilor de cult, cu influențe evreiești, ucrainene și moldovenești. Deși liniștit, Briceni joacă un rol esențial ca punct de tranzit aproape de frontiera cu Ucraina. Geografie clasa a 7-a — agricultura și așezările umane.",
+    "facts": [
+      "A fost atestat documentar pentru prima dată la mijlocul secolului al XVI-lea.",
+      "Până în cel de-Al Doilea Război Mondial, a avut o comunitate evreiască majoritară înfloritoare.",
+      "Regiunea produce o mare parte din fructele destinate exportului național.",
+      "Aici se desfășoară anual un festival tradițional dedicat mărului."
+    ]
+  },
+  "MD-001-criva-cave": {
+    "desc": "Peștera Emil Racoviță, situată lângă localitatea Criva, este una dintre cele mai spectaculoase comori speologice din Europa. Această peșteră în ipsos este un labirint subteran vast, plin de săli uriașe și galerii sinuoase care se întind pe zeci de kilometri. Formațiunile sale cristaline unice, bazinele subterane cu apă limpede și structurile argiloase o fac o destinație fascinantă pentru cercetători. Mediul său fragil și lipsit de lumină este un laborator natural excelent pentru studierea geologiei carstice. Geografie clasa a 6-a — forme de relief carstic.",
+    "facts": [
+      "Este a treia cea mai lungă peșteră de gips (ipsos) din întreaga lume.",
+      "A fost descoperită accidental în 1959, în timpul unor lucrări de exploatare minieră.",
+      "Cele mai mari cavități interioare se numesc 'Sala celor o sută de metri' și 'Sala Daciei'.",
+      "Accesul turiștilor este restricționat pentru a proteja microclimatul sensibil."
+    ]
+  },
+  "MD-002-edinet-city": {
+    "desc": "Edineț este un oraș dinamic și verde situat în nordul țării, recunoscut pentru activitatea sa industrială și peisajele sale îngrijite. De-a lungul istoriei, localitatea a evoluat dintr-un mic târg de meșteșugari într-un important nod de transport și comerț. Parcul central din Edineț, unul dintre cele mai frumoase din țară, oferă un refugiu liniștit cu lacuri, alei pitorești și sculpturi tradiționale. Orașul reflectă un echilibru armonios între dezvoltarea modernă și conservarea patrimoniului cultural. Geografie clasa a 7-a — dezvoltarea urbană.",
+    "facts": [
+      "Orașul a fost menționat pentru prima dată în documente în anul 1431.",
+      "Muzeul de istorie locală deține o colecție bogată de artă populară și meșteșuguri.",
+      "Populația este o combinație diversă de moldoveni, ucraineni și romi.",
+      "Parcul 'Vasile Alecsandri' din Edineț include și o mică grădină zoologică."
+    ]
+  },
+  "MD-002-fetesti-nature": {
+    "desc": "Rezervația peisajistică Fetești, deseori numită și 'Mica Elveție' a Moldovei, este un loc de o frumusețe rară din nordul țării. Relieful stâncos, brăzdat de chei adânci și râul Draghiște, formează un peisaj dramatic și neașteptat pentru această regiune plată. Pădurile dense și stâncile abrupte ascund peșteri și izvoare minerale, făcând din acest loc un sanctuar perfect pentru drumeții. Bogăția florei și faunei locale face din Fetești o zonă de un interes ecologic major. Geografie clasa a 6-a — relieful carstic și rezervațiile.",
+    "facts": [
+      "Formațiunile stâncoase au fost sculptate de râu de-a lungul a sute de mii de ani.",
+      "Pădurile de aici adăpostesc specii rare de plante, incluzând ferigi și orhidee de pădure.",
+      "Atrage pasionați de alpinism datorită pereților calcaroși abrupți.",
+      "Legendele locale vorbesc despre haiduci care se ascundeau în peșterile de aici."
+    ]
+  },
+  "MD-003-riscani-city": {
+    "desc": "Rîșcani este un oraș primitor, așezat de-a lungul râului Copăceanca, ce funcționează ca inima administrativă a raionului omonim. Cu rădăcini care se întind până în perioada medievală, orașul a crescut pe baza comerțului și a agriculturii bogate din împrejurimi. Astăzi, este un centru educațional local și un punct de întâlnire pentru fermierii din regiune. Atmosfera sa calmă, marcată de bisericuțe vechi și piețe agricole pline de viață, reflectă farmecul tradițional al nordului moldovenesc. Geografie clasa a 6-a — așezări riverane.",
+    "facts": [
+      "Orașul poartă numele boierului Egor Rîșcanu, care a deținut moșii în această zonă.",
+      "Biserica Adormirii Maicii Domnului din localitate este un monument arhitectural notabil.",
+      "În timpul perioadei sovietice, a avut o fabrică importantă de uleiuri esențiale.",
+      "Lacurile din apropierea orașului sunt populare pentru pescuitul de agrement."
+    ]
+  },
+  "MD-003-costesti-dam": {
+    "desc": "Barajul Costești-Stînca este o megastructură impresionantă situată pe râul Prut, operată în comun de Republica Moldova și România. Acest proiect ingineresc masiv a transformat complet peisajul hidrografic al regiunii, formând cel mai mare lac de acumulare din țară. Dincolo de producerea energiei hidroelectrice, barajul este crucial pentru irigații și pentru prevenirea inundațiilor devastatoare care afectau anterior valea Prutului. Malurile lacului creat au devenit destinații populare pentru odihnă și sporturi nautice. Fizică clasa a 8-a — producerea energiei electrice.",
+    "facts": [
+      "Construcția barajului a fost finalizată în anul 1978, după cinci ani de lucrări.",
+      "Este a doua cea mai mare centrală hidroelectrică de pe teritoriul Republicii Moldova.",
+      "Suprafața lacului de acumulare se întinde pe aproximativ 59 de kilometri pătrați.",
+      "Centrala asigură energie electrică și ajută la reglarea debitului ecologic al râului Prut."
+    ]
+  },
+  "md-bender": {
+    "desc": "Bender, cunoscut și sub numele de Tighina, este un oraș de o importanță istorică majoră situat pe malul drept al fluviului Nistru. A fost timp de secole un punct strategic vital de comerț și control militar la granița dintre Imperiul Otoman și statele europene. Arhitectura orașului este un amestec captivant de influențe otomane vechi și planificare urbană din perioada sovietică. Astăzi, Bender reprezintă un nod cultural și istoric esențial, ilustrând trecutul geopolitic tumultuos al regiunii.",
+    "facts": [
+      "Orașul a fost puternic fortificat de otomani în secolul al XVI-lea.",
+      "Regele Carol al XII-lea al Suediei s-a refugiat aici după înfrângerea de la Poltava.",
+      "A fost teatrul a numeroase bătălii ruso-turce de-a lungul secolelor.",
+      "Administrativ, se află sub controlul de facto al regiunii transnistrene."
+    ]
+  },
+  "md-orheiul-vechi": {
+    "desc": "Orheiul Vechi este un rezervație arheologică și culturală spectaculoasă, săpată în stâncile abrupte de calcar deasupra râului Răut. De-a lungul mileniilor, acest loc a găzduit diverse civilizații, de la triburi dacice antice la călugări ortodocși medievali. Peisajul uluitor, completat de mănăstirile rupestre care sunt și astăzi locuite de câțiva călugări, oferă un profund sentiment de liniște spirituală. Reprezintă o fuziune perfectă între frumusețea naturală și bogata moștenire istorică a Republicii Moldova.",
+    "facts": [
+      "Cele mai vechi urme arheologice din zonă datează din paleolitic.",
+      "Ruinele unei cetăți tătărești din perioada Hoardei de Aur se află pe promontoriu.",
+      "Complexul monahal rupestru principal a fost fondat în secolul al XIV-lea.",
+      "Este considerat cel mai important muzeu în aer liber din Moldova."
+    ]
+  },
+  "md-soroca-fortress": {
+    "desc": "Cetatea Soroca reprezintă o capodoperă a arhitecturii militare medievale și un simbol al rezistenței moldovenești. Construită din piatră la ordinul domnitorului Ștefan cel Mare în secolul al XV-lea, cetatea avea rolul de a proteja granița de est împotriva invaziilor tătare. Forma sa circulară perfectă, cu cinci turnuri defensive, demonstrează o tehnică de apărare extrem de avansată pentru acea epocă. Situată pitoresc pe malul Nistrului, ea a rezistat multor asedii și își păstrează până astăzi structura impunătoare.",
+    "facts": [
+      "Cetatea are o formă perfect rotundă, fiind unică în această privință în regiune.",
+      "Inițial a fost o fortăreață din lemn, reconstruită ulterior din piatră în timpul lui Petru Rareș.",
+      "Turnurile sale sunt dispuse la distanțe egale, oferind o apărare optimă din toate unghiurile.",
+      "Imaginea cetății este reprezentată pe bancnota de 20 de lei moldovenești."
+    ]
+  },
+  "md-cricova": {
+    "desc": "Crama Cricova este o adevărată minune subterană și o piatră de temelie a industriei vitivinicole a Moldovei. Acest oraș vinicol uriaș se întinde pe aproximativ 120 de kilometri de tuneluri de calcar, adăpostind milioane de sticle de vin. Străzile acestui labirint subteran poartă numele unor soiuri celebre de struguri, precum Cabernet sau Sauvignon. Cricova găzduiește colecții istorice de vinuri de o valoare inestimabilă, beneficiind de un microclimat perfect pentru maturare.",
+    "facts": [
+      "Tunelurile au fost formate prin extragerea calcarului folosit la construcția orașului Chișinău.",
+      "Găzduiește celebra colecție privată de vinuri a liderului nazist Hermann Göring.",
+      "Cosmonautul Iuri Gagarin s-a rătăcit aici și a petrecut două zile în labirintul subteran.",
+      "Temperatura constantă de 12-14 grade Celsius este ideală pentru conservarea vinului."
+    ]
+  },
+  "md-milestii-mici": {
+    "desc": "Mileștii Mici este inima culturii vinului din Moldova, faimoasă la nivel mondial pentru galeriile sale subterane colosale. Cu o lungime totală de peste 200 de kilometri, este cea mai mare cramă subterană din lume, adăpostind o colecție impresionantă de aproximativ două milioane de sticle. Vizitatorii pot explora pe bicicletă, cu mașina sau pe jos kilometri întregi de tuneluri pline cu butoaie uriașe din lemn de stejar. Acest loc este un monument viu al tradiției viticole a Europei de Est.",
+    "facts": [
+      "A intrat în Cartea Recordurilor Guinness în 2005 pentru cea mai mare colecție de vinuri.",
+      "Primele sticle din colecția de aur ('Colecția de Aur') au fost depozitate în anul 1968.",
+      "Aproximativ 55 de kilometri din galeriile sale sunt utilizați în mod activ astăzi.",
+      "Arhitectura subterană include și o cascadă și săli de degustare opulente."
+    ]
+  },
+  "md-tighina-fortress": {
+    "desc": "Cetatea Tighina, situată în orașul Bender pe malul râului Nistru, este una dintre cele mai formidabile fortificații din Europa de Est. Construită inițial în secolul al XV-lea de domnitorii moldoveni, a fost extinsă considerabil de otomani sub conducerea arhitectului Sinan. Șanțurile sale adânci și zidurile masive de piatră spun poveștile numeroaselor conflicte militare dintre puterile imperiale. Astăzi, cetatea este un muzeu fascinant care oferă vizitatorilor o privire detaliată asupra tehnicilor militare otomane.",
+    "facts": [
+      "A fost cucerită de Imperiul Otoman în anul 1538 în timpul domniei lui Suleiman Magnificul.",
+      "Celebrul arhitect otoman Mimar Sinan a contribuit la fortificarea complexului.",
+      "Cetatea a fost asediată, dar niciodată cucerită prin forță, capitulând doar prin tratate.",
+      "În incintă există o moschee medievală parțial restaurată."
+    ]
+  },
+  "md-manuc-bei": {
+    "desc": "Conacul Manuc Bei din Hîncești este o bijuterie arhitecturală care reflectă eleganța stilului renascentist francez în inima Moldovei. A fost construit în secolul al XIX-lea de către familia lui Manuc Bei, un influent diplomat și negustor de origine armeană. Complexul monumental include Palatul Princiar, Casa Iamandi, un castel de vânătoare și o rețea de galerii subterane. Recent restaurat, acest conac atrage turiști și pasionați de istorie dornici să descopere opulența elitelor de odinioară.",
+    "facts": [
+      "Manuc Bei a jucat un rol cheie în negocierile de pace ruso-turce de la București (1812).",
+      "Arhitectul principal al palatului a fost celebrul Alexandru Bernardazzi.",
+      "Conacul a fost folosit ca școală și spital în perioada sovietică, suferind degradări.",
+      "Tunelele subterane ar fi conectat palatul de alte proprietăți importante din zonă."
+    ]
+  },
+  "md-padurea-domneasca": {
+    "desc": "Rezervația Pădurea Domnească, situată pe valea râului Prut, este cel mai mare și mai vechi areal protejat din Republica Moldova. Această zonă forestieră sălbatică este renumită pentru diversitatea sa biologică impresionantă și peisajele sale neatinse. Atracția sa principală este programul de succes pentru conservarea și reproducerea zimbrului european, cel mai mare mamifer terestru de pe continent. Pădurea oferă un sanctuar vital pentru sute de specii de păsări și plante rare.",
+    "facts": [
+      "A fost fondată în anul 1993 pentru a proteja ecosistemul de luncă al râului Prut.",
+      "Este singurul loc din Republica Moldova unde zimbrii trăiesc în semilibertate.",
+      "Aici se află o zonă de cuibărit unică pentru stârci, denumită popular 'Țara Bâtlanilor'.",
+      "Pădurea include stejari multiseculari cunoscuți drept 'Stejarii lui Ștefan cel Mare'."
+    ]
+  },
+  "md-codru": {
+    "desc": "Rezervația Codru este inima verde și sălbatică a Moldovei, un vestigiu valoros al vechilor păduri care acopereau odată mare parte din continentul european. Acest spațiu colinar spectaculos este dominat de păduri seculare de stejar, fag și carpen, oferind un refugiu sigur pentru flora și fauna autohtonă. Biodiversitatea excepțională a zonei atrage atât cercetători, cât și ecoturiști pasionați de peisajele neatinse de urbanizare. Rezervația joacă un rol crucial în reglarea climatică și protecția solului din regiunea centrală a țării.",
+    "facts": [
+      "Este cea mai veche rezervație științifică din țară, fondată în anul 1971.",
+      "Găzduiește peste o mie de specii de plante, aproape o treime din flora Moldovei.",
+      "Printre mamiferele rare protejate aici se numără pisica sălbatică și jderul de copac.",
+      "Relieful este accidentat, cu râpe adânci formate prin alunecări de teren."
+    ]
+  },
+  "md-prutul-de-jos": {
+    "desc": "Rezervația Prutul de Jos este o perlă ecologică situată în sudul extrem al Republicii Moldova, recunoscută oficial ca rezervație a biosferei. În centrul acestui sanctuar se află Lacul Beleu, un rest fascinant al vechii mări sarmatice și al deltei Dunării. Zonele sale vaste de stufăriș și pajiști inundabile reprezintă un paradis pentru mii de păsări migratoare, inclusiv pelicani și egrete. Peisajul se transformă dramatic o dată cu anotimpurile, oferind un habitat dinamic și esențial.",
+    "facts": [
+      "A fost inclusă în Rețeaua Mondială a Rezervațiilor Biosferei UNESCO în anul 2018.",
+      "Lacul Beleu, nucleul rezervației, ocupă aproape o treime din suprafața protejată.",
+      "Este un punct de escală major pe rutele de migrație ale păsărilor între Europa și Africa.",
+      "Aici cresc specii rare de plante acvatice, cum ar fi nufărul alb și nufărul galben."
+    ]
+  },
+  "md-dniester-river": {
+    "desc": "Fluviul Nistru este cea mai importantă arteră hidrografică a Republicii Moldova, modelând relieful, istoria și economia națiunii. Izvorând din Munții Carpați ai Ucrainei, Nistrul străbate Moldova formând canioane pitorești și meandre spectaculoase. De-a lungul istoriei, a servit ca rută comercială vitală și a fost martorul dezvoltării multor civilizații antice și cetăți de apărare. Astăzi, pe lângă importanța sa ecologică și agricolă, cursul râului reprezintă o frontieră geopolitică complexă.",
+    "facts": [
+      "Fluviul are o lungime totală de 1.362 de kilometri până la vărsarea în Marea Neagră.",
+      "Valea Nistrului adăpostește numeroase mănăstiri rupestre săpate în malurile abrupte.",
+      "Numele antic al râului în perioada greacă și romană era Tyras.",
+      "Este sursa principală de apă potabilă pentru capitala Chișinău și alte orașe."
+    ]
+  },
+  "md-prut-river": {
+    "desc": "Râul Prut este un curs de apă cu o semnificație geografică și istorică deosebită, constituind granița naturală de vest a Republicii Moldova cu România. Începându-și călătoria în Carpații Păduroși, Prutul traversează zone colinare pitorești și câmpii fertile, alimentând agricultura și ecosistemele locale de-a lungul drumului său. De-a lungul istoriei recente, râul a fost un simbol al separării, dar și al legăturilor culturale profunde dintre malurile sale. Bazinul său găzduiește lunci bogate și rezervații naturale esențiale pentru biodiversitatea regională.",
+    "facts": [
+      "Prutul este al doilea cel mai lung râu din Moldova, măsurând 953 km.",
+      "A format mult timp 'Cortina de Fier' între URSS și restul Europei.",
+      "Pacea de la Prut din 1711 a marcat sfârșitul campaniei lui Petru cel Mare împotriva otomanilor.",
+      "Se varsă în fluviul Dunărea chiar înainte ca acesta să formeze faimoasa deltă."
+    ]
+  },
+  "md-gagauzia": {
+    "desc": "Găgăuzia este o regiune autonomă distinctă din sudul Republicii Moldova, recunoscută pentru identitatea sa culturală și lingvistică unică. Poporul găgăuz, de origine turcică, dar de confesiune creștin-ortodoxă, și-a păstrat cu sfințenie tradițiile ancestrale, graiul și folclorul. Regiunea este caracterizată de un peisaj stepic arid, fiind renumită pentru viticultură și producția artizanală a covoarelor tradiționale. Autonomia Găgăuziei reprezintă un model pașnic de soluționare a conflictelor etnice.",
+    "facts": [
+      "Găgăuzii sunt singurul popor de origine turcică majoritar creștin-ortodox din regiune.",
+      "Capitala administrativă a regiunii autonome este orașul Comrat.",
+      "Regiunea și-a obținut statutul de autonomie printr-o lege specială adoptată în 1994.",
+      "Limba găgăuză este inclusă de UNESCO în lista limbilor pe cale de dispariție."
+    ]
+  },
+  "md-castel-mimi": {
+    "desc": "Castelul Mimi, situat în localitatea Bulboaca, este o bijuterie arhitecturală și unul dintre cele mai rafinate castele vinicole din Europa. A fost fondat la sfârșitul secolului al XIX-lea de Constantin Mimi, ultimul guvernator al Basarabiei țariste, un vizionar care a revoluționat producția de vin din regiune. Edificiul îmbină elemente arhitecturale clasice franceze cu tehnicile avansate de vinificație ale epocii. În urma unei restaurări ample, castelul a fost transformat într-un complex turistic de lux.",
+    "facts": [
+      "Constantin Mimi a studiat viticultura în Franța înainte de a înființa castelul.",
+      "Este prima clădire din Basarabia construită integral din beton armat.",
+      "Castelul a găzduit Summitul Comunității Politice Europene în anul 2023.",
+      "Pivnițele istorice pot adăposti aproximativ 300.000 de litri de vin."
+    ]
+  },
+  "MD-004-glodeni-city": {
+    "desc": "Glodeni este un oraș așezat în nord-vestul Republicii Moldova, recunoscut pentru peisajele sale rurale pitorești și importanța sa agricolă. De-a lungul istoriei, localitatea a evoluat constant, menținându-și un caracter predominant agrar și o comunitate strâns unită. Centrul orașului reflectă un amestec de arhitectură din perioada sovietică și influențe tradiționale moldovenești. Este un punct de plecare excelent pentru explorarea rezervațiilor naturale din apropiere, oferind o privire autentică asupra vieții de provincie. Geografie clasa a 6-a — așezări rurale și urbane.",
+    "facts": [
+      "A fost atestat documentar pentru prima dată în a doua jumătate a secolului al XVII-lea.",
+      "Economia locală se bazează puternic pe prelucrarea produselor agricole.",
+      "Populația este diversă, incluzând o comunitate semnificativă de ucraineni.",
+      "Găzduiește un muzeu etnografic ce ilustrează tradițiile zonei."
+    ]
+  },
+  "MD-004-suta-de-movile": {
+    "desc": "Suta de Movile este un monument natural unic și misterios, o arie protejată situată în valea Prutului. Peisajul este marcat de mii de coline (movile) de diferite dimensiuni, acoperite cu ierburi de stepă, a căror origine exactă rămâne un subiect de dezbatere științifică. Unii experți susțin că sunt formațiuni geologice naturale rezultate din alunecări de teren subacvatice, în timp ce legendele locale le atribuie unor bătălii antice. Zona oferă un habitat excelent pentru diverse specii de plante și insecte. Geografie clasa a 6-a — forme de relief.",
+    "facts": [
+      "În ciuda numelui, rezervația conține peste 3.500 de movile.",
+      "Cea mai înaltă colină este supranumită 'Movila Țiganului' și are peste 30 de metri înălțime.",
+      "Dimitrie Cantemir a fost primul care a descris acest fenomen în lucrarea sa 'Descriptio Moldaviae'.",
+      "Zona face parte din Rezervația Pădurea Domnească."
+    ]
+  },
+  "MD-005-falesti-city": {
+    "desc": "Fălești este un oraș vibrant cu o moștenire istorică bogată, așezat pe colinele domoale din vestul Moldovei. Orașul se mândrește cu un amestec interesant de arhitectură veche și clădiri moderne, fiind un centru administrativ și cultural activ pentru regiune. Aleea pietonală centrală, mărginită de arbori seculari și monumente, reprezintă inima vieții sociale locale. Fălești este recunoscut pentru inițiativele sale de conservare a meșteșugurilor tradiționale și a folclorului autentic moldovenesc. Istorie clasa a 7-a — dezvoltarea așezărilor.",
+    "facts": [
+      "Atestarea documentară a localității datează de la începutul secolului al XV-lea.",
+      "A fost o importantă intersecție a rutelor comerciale ce legau Iașiul de Bălți.",
+      "Găzduiește un prestigios muzeu de istorie și etnografie locală.",
+      "Strada principală din Fălești păstrează o porțiune pavată cu piatră cubică veche."
+    ]
+  },
+  "MD-005-gura-cainarului": {
+    "desc": "Izvoarele de la Gura Căinarului sunt faimoase pe întreg teritoriul Republicii Moldova pentru calitatea excepțională a apei lor minerale. Aflate într-o zonă pitorească și ecologic pură, aceste izvoare adânci sunt captate și îmbuteliate, fiind un simbol al purității naturale moldovenești. Peisajul din jur este calm și nepoluat, oferind un mediu perfect pentru filtrarea naturală a apei prin straturi geologice străvechi. Compoziția bogată în minerale esențiale face ca apa de aici să aibă proprietăți curative recunoscute. Geografie clasa a 8-a — resurse naturale subterane.",
+    "facts": [
+      "Apa minerală de aici este una dintre cele mai populare și consumate mărci din țară.",
+      "Izvoarele sunt extrase de la o adâncime de peste 100 de metri.",
+      "Fabrica de îmbuteliere locală folosește tehnologii avansate pentru a păstra compoziția chimică.",
+      "Zona de captare este strict protejată sanitar pentru a preveni contaminarea."
+    ]
+  },
+  "MD-006-ungheni-city": {
+    "desc": "Ungheni este un oraș de importanță strategică majoră, situat exact pe granița de vest a Republicii Moldova, pe malul stâng al râului Prut. Funcționând ca un hub vamal și feroviar crucial, orașul a prosperat datorită comerțului internațional și industriei. Ungheni este unul dintre cele mai dinamice și dezvoltate centre economice ale țării, având o Zonă Economică Liberă de succes. Parcul central și arhitectura îngrijită a centrului orașului oferă o atmosferă modernă și primitoare. Economie clasa a 8-a — centre industriale.",
+    "facts": [
+      "Este al treilea oraș ca mărime a producției industriale din Republica Moldova.",
+      "Podul feroviar care leagă orașul de România a fost proiectat de Gustave Eiffel.",
+      "Orașul este renumit pentru producția de covoare tradiționale de o calitate superioară.",
+      "Deține una dintre cele mai atractive zone economice libere pentru investitorii străini."
+    ]
+  },
+  "MD-006-eiffel-bridge": {
+    "desc": "Podul Eiffel din Ungheni este o remarcabilă capodoperă a ingineriei secolului al XIX-lea, servind drept legătură feroviară vitală peste râul Prut. Această structură elegantă din oțel a fost proiectată de legendarul arhitect francez Gustave Eiffel, chiar înainte ca acesta să construiască faimosul turn parizian. Construcția sa a reprezentat un salt tehnologic major pentru infrastructura de transport din regiune. Podul este nu doar un monument de inginerie, ci și un simbol istoric al conexiunii dintre Europa de Est și Occident. Fizică clasa a 7-a — structuri și rezistență.",
+    "facts": [
+      "Podul a fost finalizat și inaugurat oficial în anul 1877.",
+      "A fost construit la comanda Căilor Ferate Ruse pentru a lega Basarabia de România.",
+      "În timpul ambelor Războaie Mondiale a suferit daune, dar a fost de fiecare dată restaurat.",
+      "Inaugurarea a fost făcută cu doar 12 ani înainte de construcția Turnului Eiffel."
+    ]
+  },
+  "MD-007-nisporeni-city": {
+    "desc": "Nisporeni este un oraș pitoresc din regiunea central-vestică a Moldovei, cuibărit într-o zonă de coline împădurite și podgorii renumite. Relieful accidentat și altitudinea relativ ridicată îi conferă un microclimat deosebit, ideal pentru cultivarea unor soiuri speciale de struguri și pruni. Orașul este inima unei comunități tradiționale puternice, fiind faimos pentru meșteșugurile sale, în special pentru ceramica locală și prelucrarea lemnului. Nisporeni reprezintă o poartă de acces către inima verde a rezervațiilor naturale înconjurătoare. Geografie clasa a 7-a — așezări de coline.",
+    "facts": [
+      "Regiunea este renumită pentru producția de prune uscate de o calitate excepțională.",
+      "Mănăstirea Vărzărești, un important lăcaș de cult, se află în apropierea orașului.",
+      "În centrul orașului a fost ridicată o mare cruce de pe care se poate admira întreaga vale.",
+      "O mare parte a populației este implicată în agricultură și artizanat tradițional."
+    ]
+  },
+  "MD-007-balanesti-hill": {
+    "desc": "Dealul Bălănești este cel mai înalt punct geografic de pe întregul teritoriu al Republicii Moldova, situat în lanțul deluros al Codrilor. Vârful său oferă panorame vaste și spectaculoase asupra pădurilor dense de stejar și fag care acoperă colinele din jur. Deși altitudinea sa nu îl califică drept munte, dealul este o destinație populară pentru drumeții și pasionații de natură. Zona înconjurătoare este liniștită, ferită de rutele aglomerate, păstrând o atmosferă sălbatică și curată. Geografie clasa a 6-a — forme majore de relief.",
+    "facts": [
+      "Are o altitudine maximă de 429 de metri deasupra nivelului mării.",
+      "Numele său provine de la satul Bălănești, situat la poalele colinei.",
+      "În vârful dealului sunt instalate antene de telecomunicații de importanță națională.",
+      "Relieful este format din depozite de argilă, nisip și calcar sarmatic."
+    ]
+  },
+  "MD-008-hincesti-city": {
+    "desc": "Hîncești este un oraș cu o identitate arhitecturală deosebită, situat la intersecția unor rute comerciale istorice din centrul țării. Centrul orașului este dominat de moștenirea familiei armenești Manuc Bei, care a transformat localitatea într-un prosper centru agricol și viticol în secolul al XIX-lea. Astăzi, Hîncești este un oraș în plină dezvoltare, renumit pentru fabricile sale de confecții și cramele elegante. Restaurarea recentă a palatelor istorice a transformat orașul într-o destinație turistică de prim rang. Istorie clasa a 8-a — moștenirea arhitecturală.",
+    "facts": [
+      "Palatul Manuc Bei, principala atracție, atrage anual mii de turiști naționali și internaționali.",
+      "Industria încălțămintei din oraș exportă produse pentru branduri europene renumite.",
+      "În perioada sovietică, orașul a purtat numele liderului comunist Kotovski.",
+      "Regiunea este renumită pentru condițiile excelente de creștere a viței-de-vie."
+    ]
+  },
+  "MD-008-hincesti-forest": {
+    "desc": "Rezervația peisajistică Hîncești este o arie protejată ce cuprinde o porțiune pitorească și valoroasă din vechii Codri ai Moldovei. Această pădure bogată este formată din stejari impunători, tei și fagi seculari, reprezentând un habitat critic pentru fauna locală, inclusiv cerbi și mistreți. Rezervația nu are doar importanță ecologică, ci și un imens potențial pentru ecoturism datorită potecilor sale liniștite și aerului curat. Este un loc perfect pentru evadarea din agitația urbană și studierea ecosistemelor de foioase. Biologie clasa a 7-a — protecția ecosistemelor.",
+    "facts": [
+      "Este una dintre zonele cu cel mai înalt grad de împădurire din partea centrală a țării.",
+      "Vegetația reține umiditatea, creând un microclimat specific, răcoros pe timpul verii.",
+      "Găzduiește mai multe specii de plante medicinale rare și protejate prin lege.",
+      "Vânătoarea este strict reglementată pentru a proteja echilibrul ecosistemului forestier."
+    ]
+  },
+  "MD-009-leova-city": {
+    "desc": "Leova este un mic și liniștit oraș de pe malul râului Prut, având un aer autentic de localitate de frontieră sudică. Istoria sa a fost strâns legată de activitățile comerciale pe apă și de schimbul cultural cu regiunile învecinate din România. Deși este o comunitate orientată preponderent spre agricultură, Leova deține câteva muzee locale captivante care îi păstrează memoria istorică. Promenadele lungi pe malul râului și ospitalitatea localnicilor îi conferă un farmec aparte. Geografie clasa a 6-a — așezări la frontieră.",
+    "facts": [
+      "A fost recunoscut oficial ca târg comercial important la începutul secolului al XIX-lea.",
+      "Aici s-a născut celebrul compozitor de muzică corală și religioasă Ion Aldea-Teodorovici.",
+      "Economia zonei este susținută în mare parte de podgorii și ferme pomicole.",
+      "Există planuri pentru reconstrucția unui pod rutier peste Prut în această zonă."
+    ]
+  },
+  "MD-009-tigheci-forest": {
+    "desc": "Codrii Tigheciului formează o zonă împădurită legendară situată în partea de sud a Moldovei, reprezentând un contrast uimitor cu stepele aride din jur. Acest masiv forestier izolat are o rezonanță istorică profundă, fiind faimos ca adăpost sigur pentru haiduci și partizani în timpul ocupațiilor străine. Pădurea de stejar și carpen menține un echilibru ecologic vital în sudul țării, protejând solurile împotriva eroziunii și aridizării. Relieful fragmentat și văile umbrite conferă locului o frumusețe sălbatică. Istorie clasa a 6-a — locuri de refugiu istoric.",
+    "facts": [
+      "A fost considerată din vechime un scut natural de apărare împotriva invaziilor tătare.",
+      "Numele provine, cel mai probabil, de la termenul turcic pentru 'deal' sau 'înălțime'.",
+      "Găzduiește o populație semnificativă de căprioare și păsări de pradă rare.",
+      "În prezent este o rezervație peisajistică ocrotită de stat pentru valoarea sa ecologică."
+    ]
+  },
+  "MD-010-cantemir-city": {
+    "desc": "Cantemir este unul dintre cele mai tinere orașe din sudul Republicii Moldova, fondat special în a doua jumătate a secolului XX pentru a susține o mare fabrică de conserve. Orașul a fost proiectat cu un plan urbanistic rațional, cu blocuri geometrice și străzi largi, fiind o mărturie a industrializării sovietice. După închiderea parțială a fabricii, orașul s-a reorientat spre comerț și agricultură, fiind centrul administrativ al unei zone viticole extrem de productive. Geografie clasa a 8-a — planificarea urbană.",
+    "facts": [
+      "A fost înființat oficial în anul 1973, fiind unul dintre cele mai noi orașe din țară.",
+      "Poartă numele ilustrului cărturar și domnitor moldovean, Dimitrie Cantemir.",
+      "Economia locală actuală depinde masiv de procesarea și exportul de fructe și legume.",
+      "Orașul beneficiază de un port mic pe râul Prut, folosit în trecut pentru transport de mărfuri."
+    ]
+  },
+  "MD-010-stoianovca-nature": {
+    "desc": "Rezervația naturală Stoianovca este un ecosistem luncă situat pitoresc de-a lungul malurilor râului Prut, renumit pentru frumusețea sa neatinsă. Pajiștile inundabile, zonele umede și micile insule de sălcii oferă un refugiu excelent pentru sute de specii de păsări migratoare. Primăvara, odată cu creșterea nivelului apei, rezervația devine un adevărat spectacol al vieții sălbatice și o bază crucială de reproducere pentru pești. Este un sit de importanță ecologică critică pentru menținerea biodiversității acvatice a bazinului Prutului. Biologie clasa a 6-a — biodiversitatea zonelor umede.",
+    "facts": [
+      "Este recunoscută ca o arie de protecție specială pentru avifaună.",
+      "Specii rare, cum ar fi stârcul roșu și barza albă, cuibăresc frecvent aici.",
+      "Ecosistemul său funcționează ca un burete natural, reglând inundațiile râului Prut.",
+      "Pășunatul este limitat în această zonă pentru a proteja cuiburile păsărilor de sol."
+    ]
+  },
+  "MD-011-cahul-city": {
+    "desc": "Cahul este adesea denumit 'capitala de sud' a Republicii Moldova, fiind cel mai important centru cultural și balnear din regiune. Orașul este celebru în întreaga țară pentru sanatoriile sale cu ape minerale termale, care atrag mii de turiști și pacienți anual. Cahul găzduiește teatre, muzee și o universitate de stat, conferindu-i o viață socială vibrantă. Festivalurile sale anuale de muzică folclorică și dansuri tradiționale celebrează moștenirea unică a regiunii de interferență culturală. Geografie clasa a 7-a — turismul balnear.",
+    "facts": [
+      "Sanatoriul 'Nufărul Alb' din Cahul este renumit pentru apele sale sulfuroase cu efect terapeutic.",
+      "Aici a avut loc bătălia de la Stănilești din 1711, între forțele ruso-moldovene și cele otomane.",
+      "Găzduiește festivalul internațional de folclor 'Nufărul Alb', de mare tradiție.",
+      "Lacul Frumoasa din sudul orașului oferă o zonă excelentă de recreere pentru locuitori."
+    ]
+  },
+  "MD-011-valeni-village": {
+    "desc": "Văleni este un sat fermecător și autentic din lunca Prutului, faimos la nivel internațional după ce trupa locală a participat la Eurovision alături de Zdob și Zdub. Situat în inima Rezervației Prutul de Jos, satul și-a păstrat cu mândrie folclorul, artizanatul tradițional și modul de viață legat de ciclul apei. Dealurile de lut galben cunoscute ca 'Colinele de Aur' oferă un peisaj unic, asemănător unui decor de film. Comunitatea locală promovează activ ecoturismul, invitând oaspeții să descopere o parte pură și neschimbată a Moldovei. Istorie clasa a 6-a — tradiții rurale.",
+    "facts": [
+      "A devenit faimos prin intermediul 'Bunicii de la Văleni' care a bătut toba la Eurovision în 2005.",
+      "Satul este punctul principal de acces turistic către spectaculosul Lac Beleu.",
+      "Dealurile argiloase de aici conțin numeroase fosile marine din perioada mării Sarmatice.",
+      "Sătenii practică încă meșteșuguri arhaice precum împletitul papurei și a nuielelor."
+    ]
+  },
+  "MD-012-ocnita-city": {
+    "desc": "Ocnița este un oraș nordic important, poziționat pe un podiș stâncos foarte aproape de granița cu Ucraina. Apărut inițial ca o așezare în jurul unei gări vitale de cale ferată la sfârșitul secolului al XIX-lea, orașul a menținut până astăzi profilul de nod de transport cheie. Atmosfera sa reflectă istoria industrializării feroviare, cu străzi paralele ordonate și clădiri cu arhitectură de influență ruso-ucraineană. Este înconjurat de cariere de piatră și rezervații naturale nordice. Geografie clasa a 7-a — dezvoltarea infrastructurii.",
+    "facts": [
+      "Gara din Ocnița a fost construită în 1897 și rămâne una dintre cele mai frumoase din țară.",
+      "Economia locală se sprijină pe logistică feroviară și extragerea pietrei de construcție.",
+      "Orașul găzduiește o importantă comunitate de vorbitori de limbă rusă și ucraineană.",
+      "În apropiere se află cel mai nordic punct geografic al Republicii Moldova."
+    ]
+  },
+  "MD-012-naslavcea-view": {
+    "desc": "Naslavcea este un sat excepțional, oferind unele dintre cele mai dramatice și spectaculoase peisaje stâncoase din întreaga Republică Moldova. Așezat pe malurile abrupte ale Nistrului, relieful de aici este caracterizat de defileuri adânci și insule mici formate de cursul rapid al apei. Straturile geologice expuse, bogate în cremene și calcar, prezintă o istorie vizibilă a formării continentului și a mărilor preistorice. Locul este un magnet pentru fotografi și geologi fascinați de rocile sale vechi de milioane de ani. Geografie clasa a 6-a — procese geologice.",
+    "facts": [
+      "Este recunoscut drept cel mai nordic sat al Republicii Moldova.",
+      "Zona este faimoasă pentru 'Insula Inimii', o bucată de pământ pe Nistru în formă de inimă.",
+      "Aici se găsesc aflorimente geologice cu amprente perfect conservate ale florei preistorice.",
+      "Relieful stâncos are o diferență de altitudine față de nivelul apei de peste 100 de metri."
+    ]
+  },
+  "MD-013-donduseni-city": {
+    "desc": "Dondușeni este un oraș așezat confortabil într-o regiune agricolă fertilă din nordul Moldovei, înconjurat de parcuri și păduri. Dezvoltarea sa a fost catalizată de construcția căii ferate în perioada țaristă, orașul păstrând un ritm de viață liniștit, tipic pentru centrele agrare moldovenești. Peisajul arhitectural este dominat de o frumoasă biserică ortodoxă și monumente de comemorare din timpul războiului. Aici, moștenirea agricolă continuă să joace un rol principal în economia și ritmul vieții comunității. Geografie clasa a 7-a — centre agro-industriale.",
+    "facts": [
+      "În centrul orașului există un impresionant parc dendrologic cu specii rare de copaci.",
+      "Raionul Dondușeni este unul dintre cei mai mari producători de sfeclă de zahăr din țară.",
+      "Aici au activat fabrici importante de procesare a laptelui și a cărnii.",
+      "Istoric, a fost cunoscut pentru târgurile sale mari de animale și cereale."
+    ]
+  },
+  "MD-013-taul-park": {
+    "desc": "Parcul Țaul este cel mai mare și mai frumos parc dendrologic din Republica Moldova, o capodoperă a arhitecturii peisagistice de la începutul secolului XX. Fondat în jurul grandiosului Conac al boierului Pommer, parcul este faimos pentru designul său meticulos care integrează armonios zone de pădure deasă, lacuri artificiale și poieni largi. Sute de specii exotice de arbori și arbuști, aduse din diverse colțuri ale lumii, prosperă aici, oferind un spectacol coloristic magnific indiferent de anotimp. Biologie clasa a 6-a — specii exotice și parcuri dendrologice.",
+    "facts": [
+      "Parcul acoperă o suprafață impresionantă de aproximativ 46 de hectare.",
+      "A fost proiectat de celebrul arhitect peisagist Ipolit Vladislavski-Padalco.",
+      "Conține peste 150 de specii de arbori, multe dintre ele nefiind native din Moldova.",
+      "Clădirea centrală, Conacul Pommer, este un monument istoric de importanță națională."
+    ]
+  },
+  "MD-014-soroca-city": {
+    "desc": "Soroca este un oraș strălucitor și bogat în istorie, situat strategic pe malul vestic al râului Nistru. Dominat de impresionanta sa cetate medievală, orașul a fost de secole un centru efervescent al comerțului și schimbului cultural. Orașul este caracterizat de un mix arhitectural unic, cu vile ornamentate cu cupole impresionante pe faimosul 'Deal al Țiganilor', contrastând cu clădirile istorice din piatră din centrul vechi. Soroca este inima recunoscută a comunității rome din Republica Moldova, având un peisaj social viu și colorat. Geografie clasa a 8-a — așezări urbane și diversitate.",
+    "facts": [
+      "Supranumită și 'Capitala Neoficială a Romilor' din Republica Moldova.",
+      "Deține una dintre cele mai bine conservate cetăți din Europa de Est construite din piatră.",
+      "Podul de ambarcațiuni peste Nistru asigură legătura frontalieră directă cu Ucraina.",
+      "Are un institut pedagogic și mai multe școli profesionale prestigioase."
+    ]
+  },
+  "MD-014-candle-gratitude": {
+    "desc": "Monumentul 'Lumânarea Recunoștinței' este o structură arhitecturală emoționantă ridicată pe o stâncă abruptă deasupra râului Nistru, la sud de orașul Soroca. Acest turn înalt, în formă de lumânare de piatră, aduce un omagiu eroilor anonimi ai culturii și literaturii naționale moldovenești. Pentru a ajunge la capelă și la platforma de observație, vizitatorii trebuie să urce peste șase sute de trepte de piatră. Efortul este răsplătit de o priveliște copleșitoare și o liniște absolută. Educație civică clasa a 7-a — memoria istorică.",
+    "facts": [
+      "Monumentul are o înălțime de 29,5 metri și noaptea este iluminat ca o flacără reală.",
+      "A fost inaugurat în 2004, din inițiativa scriitorului și dramaturgului moldovean Ion Druță.",
+      "Baza monumentului găzduiește o mică capelă ortodoxă sculptată ingenios.",
+      "Vizitatorii trebuie să urce exact 643 de trepte abrupte pentru a ajunge în vârf."
+    ]
+  },
+  "MD-015-camenca-city": {
+    "desc": "Camenca este cel mai nordic oraș al regiunii transnistrene, fiind situat pitoresc în valea protejată a Nistrului, înconjurat de terase calcaroase acoperite cu vii. Beneficiind de o climă neobișnuit de blândă și de izvoare vindecătoare, orașul a fost dezvoltat ca o stațiune balneară de lux în secolul al XIX-lea, la inițiativa aristocrației ruse. Astăzi, stațiunile sale continuă să atragă vizitatori pentru tratamente terapeutice. Arhitectura de aici combină eleganța sanatoriilor clasice cu strictețea clădirilor funcționale sovietice. Geografie clasa a 7-a — turismul terapeutic.",
+    "facts": [
+      "Orașul este faimos pentru microclimatul său, comparat adesea cu cel mediteranean.",
+      "Parcul Wittgenstein din oraș este o capodoperă a designului peisagistic din secolul XIX.",
+      "Sanatoriul 'Dnestr' este principalul complex de tratament cu băi de struguri și raze UV.",
+      "Prințul rus Pyotr Wittgenstein a transformat locul într-un centru important de vinificație."
+    ]
+  },
+  "MD-015-rascov-cliffs": {
+    "desc": "Stâncile de la Rașcov reprezintă o rezervație geologică și peisagistică grandioasă, formată prin fracturarea masivă a calcarelor sarmatice pe malul stâng al Nistrului. Pereții verticali imenși și formațiunile stâncoase bizare oferă o frumusețe sălbatică și inaccesibilă, fiind un rai pentru alpiniști și fotografi. În afara valorii lor naturale, stâncile au o bogată încărcătură legendară și istorică, ascunzând vechi schituri rupestre și ruine ale așezărilor din perioada polono-lituaniană. Geografie clasa a 6-a — forme de relief.",
+    "facts": [
+      "Aici poate fi găsit faimosul izvor cunoscut sub numele de 'Izvorul Mariei'.",
+      "Pereții stâncoși ating în unele locuri înălțimi de peste 50 de metri.",
+      "Localitatea Rașcov de la baza stâncilor adăpostește ruinele unei sinagogi și ale unei biserici catolice.",
+      "Rezervația protejează numeroase specii de plante de stâncă, adaptate mediului calcaros."
+    ]
+  },
+  "MD-016-rezina-city": {
+    "desc": "Rezina este o localitate industrială importantă, așezată pe malul drept al Nistrului, privind direct spre orașul Rîbnița aflat pe malul opus, controlat de transnistreni. Orașul este dominat de uriașa sa fabrică de ciment, una dintre cele mai mari și moderne din sud-estul Europei, care susține economia întregii regiuni. Deși peisajul este puternic marcat de infrastructura industrială, vecinătatea fluviului oferă locuri de promenadă plăcute. În pofida profilului său greu, Rezina se bucură de apropieri față de mănăstiri rupestre excepționale. Economie clasa a 8-a — industria materialelor de construcție.",
+    "facts": [
+      "Fabrica de ciment din Rezina ('Lafarge') exportă produse în numeroase țări europene.",
+      "Este conectată cu orașul Rîbnița printr-un important pod rutier peste Nistru.",
+      "Istoria orașului este atestată încă din secolul al XV-lea ca așezare vamală.",
+      "Găzduiește un centru de tineret și numeroase inițiative comunitare culturale."
+    ]
+  },
+  "MD-016-saharna-monastery": {
+    "desc": "Mănăstirea Saharna este unul dintre cele mai vizitate și spectaculoase complexe religioase din Republica Moldova, renumit pentru frumusețea defileului care o înconjoară. Ascunsă adânc în stâncile împădurite străbătute de râul Saharna, mănăstirea include o biserică principală impunătoare și un schit rupestru antic tăiat în peretele de calcar. Zona atrage zeci de mii de pelerini datorită atmosferei sale misterioase și a seriei de 22 de cascade pitorești formate pe râu. Apa cristalină din zonă este considerată de mulți vizitatori ca având puteri purificatoare. Geografie clasa a 6-a — forme carstice și turism.",
+    "facts": [
+      "Pe una dintre stânci se crede că a rămas imprimată talpa Maicii Domnului.",
+      "Schitul rupestru este funcțional și a fost creat probabil în perioada medievală timpurie.",
+      "Cea mai mare cascadă din defileu este cunoscută sub numele de 'Groapa Țiganului' (10 metri înălțime).",
+      "În apropiere se află ruinele unei vechi cetăți geto-dacice din epoca fierului."
+    ]
+  },
+  "MD-017-dubasari-city": {
+    "desc": "Dubăsari este un oraș aflat sub controlul regiunii transnistrene, dominat geografic și economic de construcția barajului de pe fluviul Nistru. Istoric, a fost un important nod de transport maritim datorită poziționării sale. Arhitectura orașului este tipic sovietică, având străzi largi mărginite de copaci și o piață centrală impozantă. Viața locuitorilor se desfășoară în jurul activităților generate de centrala hidroelectrică și de agricultură. Este un oraș care reflectă cu fidelitate nostalgia și pragmatismul perioadei industriale comuniste. Istorie clasa a 8-a — planificare urbană sovietică.",
+    "facts": [
+      "Numele 'Dubăsari' provine din termenul slavon pentru bărci făcute din trunchiuri de copac scobite ('dubas').",
+      "A suferit distrugeri mari în timpul conflictului armat din regiunea transnistreană din 1992.",
+      "Orașul găzduiește importante facilități de producție agricolă și piscicolă.",
+      "În jurul orașului au fost descoperite kurgane (tumuli) scitice vechi."
+    ]
+  },
+  "MD-017-dubasari-dam": {
+    "desc": "Barajul și centrala hidroelectrică de la Dubăsari reprezintă o realizare majoră a ingineriei sovietice din anii 1950, schimbând definitiv geografia regiunii. Barajul enorm a creat Lacul de acumulare Dubăsari, cel mai mare corp de apă dulce intern al Republicii Moldova, vital pentru irigații și reglarea debitului fluviului. Deși a produs un impact ecologic semnificativ, inclusiv inundarea unor sate vechi, energia electrică generată este crucială pentru regiune. Barajul funcționează și ca un punct de legătură strategic între cele două maluri ale Nistrului. Fizică clasa a 8-a — producerea energiei electrice.",
+    "facts": [
+      "Construcția barajului a fost finalizată și dată în exploatare în anul 1954.",
+      "Lungimea lacului de acumulare rezultat este de aproximativ 128 de kilometri.",
+      "Producția anuală a hidrocentralei este esențială pentru rețeaua energetică a Transnistriei.",
+      "Odinioară, zona oferea un mediu de reproducere perfect pentru sturionii de mare."
+    ]
+  },
+  "MD-018-grigoriopol-city": {
+    "desc": "Grigoriopol este o așezare liniștită aflată pe malul stâng al Nistrului, faimoasă pentru fondarea sa istorică ca oraș dedicat refugiaților armeni la ordinul Împărătesei Ecaterina cea Mare a Rusiei. De-a lungul timpului, caracterul demografic al orașului s-a schimbat profund, fiind locuit astăzi de o majoritate moldovenească, alături de ruși și ucraineni. Aspectul arhitectural actual este de sorginte sovietică rurală, marcat de parcuri întinse și livezi bogate. În ciuda dezvoltării industriale lente, atmosfera pașnică face din oraș un loc cu un farmec aparte. Istorie clasa a 7-a — colonizarea imperiului rus.",
+    "facts": [
+      "Orașul a fost fondat în 1792 și numit în onoarea prințului rus Grigori Potiomkin.",
+      "La origini, a fost un centru important de prelucrare a pielăriei și mătăsurilor artizanale armenești.",
+      "Găzduiește un sit de cercetare a peșterilor și formațiunilor calcaroase în apropiere.",
+      "Regiunea din jurul orașului deține terenuri agricole extrem de productive."
+    ]
+  },
+  "MD-018-doibani-winery": {
+    "desc": "Vinăria Doibani este o mândrie a regiunii estice, făcând parte din renumitul grup KVINT, și se bucură de unele dintre cele mai optime podgorii din bazinul Nistrului. Cu sute de hectare de viță de vie perfect aliniată pe colinele însorite, Doibani produce materia primă esențială pentru faimoasele brandy-uri și vinuri ale regiunii. Facilitățile moderne de prelucrare se îmbină perfect cu peisajul clasic, verde al viilor, creând o industrie durabilă și respectată internațional. Este o mărturie a tradiției viticole adânc înrădăcinate în acest terroir generos. Economie clasa a 8-a — agricultura și viticultura.",
+    "facts": [
+      "Doibani prelucrează anual mii de tone de struguri de o calitate superioară.",
+      "Podgoriile de aici beneficiază de tehnologii moderne de irigație prin picurare.",
+      "Cultivă soiuri clasice franțuzești, precum și soiuri autohtone moldovenești.",
+      "Vinăria asigură un procent semnificativ din strugurii folosiți pentru Divin-urile premiate de KVINT."
+    ]
+  },
+  "MD-019-bender-city": {
+    "desc": "Bender (Tighina) este un oraș strategic situat pe malul drept al fluviului Nistru, deși este sub administrația de facto a regiunii transnistrene. Orașul are un trecut tumultuos, fiind un câmp de luptă frecvent între imperiile otoman, rus și puterile europene. Arhitectura orașului prezintă un amestec de clădiri sovietice, vile istorice și ruine medievale. Astăzi, pe lângă cetatea sa faimoasă, Bender este un centru industrial important pentru zona estică a Republicii Moldova. Geografie clasa a 7-a — orașe de frontieră istorică.",
+    "facts": [
+      "Numele otoman 'Bender' înseamnă 'port' sau 'oraș de coastă'.",
+      "În timpul războiului din 1992, orașul a suferit daune extinse în timpul luptelor urbane.",
+      "Găzduiește un muzeu memorial dedicat victimelor conflictului transnistrean.",
+      "Este unul dintre cele mai importante noduri feroviare din partea de est a țării."
+    ]
+  },
+  "MD-019-bender-fortress": {
+    "desc": "Cetatea Bender este una dintre cele mai spectaculoase și impunătoare fortificații medievale din regiune, dominând malul Nistrului cu arhitectura sa masivă de piatră. Construită inițial în secolul al XV-lea de domnitorii moldoveni și extinsă de otomani, fortăreața a fost martora unor asedii epice și a servit ca avanpost militar cheie. În prezent, zidurile sale groase, turnurile de observație și șanțurile adânci au fost parțial restaurate și atrag turiști fascinați de istoria militară. În incinta sa se găsesc muzee care expun armuri și artefacte otomane. Istorie clasa a 7-a — arhitectura militară.",
+    "facts": [
+      "A fost vizitată de faimosul baron de Münchhausen în secolul al XVIII-lea.",
+      "Regele Carol al XII-lea al Suediei și-a stabilit tabăra lângă cetate timp de câțiva ani.",
+      "Pe parcursul istoriei, cetatea a schimbat de mai multe ori tabăra între ruși și otomani.",
+      "Restaurarea recentă a adus la lumină vechi pasaje subterane neexplorate."
+    ]
+  },
+  "MD-020-stefan-voda-city": {
+    "desc": "Ștefan Vodă este un oraș din sud-estul extrem al Republicii Moldova, recunoscut ca o regiune agricolă și viticolă de top. În ciuda faptului că este un centru administrativ relativ nou, înființat în perioada sovietică, raionul pe care îl conduce are tradiții adânci în cultivarea viței-de-vie. Orașul în sine este liniștit, bine organizat și înconjurat de câmpii fertile și dealuri domoale care coboară spre limanul Nistrului. Este poarta principală către faimoasa microzonă Purcari. Geografie clasa a 8-a — centre administrative noi.",
+    "facts": [
+      "Până în anul 1990, localitatea a purtat numele de 'Suvorov', în onoarea generalului rus.",
+      "Este capitala unui raion cu unele dintre cele mai fertile soluri de cernoziom din țară.",
+      "Se află pe ruta rutieră principală ce leagă Chișinăul de portul ucrainean Odesa.",
+      "În apropiere se pot observa ruinele faimosului Val al lui Traian (o fortificație antică)."
+    ]
+  },
+  "MD-020-purcari-winery": {
+    "desc": "Vinăria Purcari este o emblemă a excelenței vinicole moldovenești, recunoscută pe plan internațional încă din secolul al XIX-lea. Așezată într-o microzonă cu un terroir unic, influențat de apropierea Mării Negre și a fluviului Nistru, domeniul produce vinuri roșii legendare, precum Roșu de Purcari sau Negru de Purcari. Castelul în stil chateau franțuzesc, înconjurat de hectare de viță de vie impecabil îngrijită, este o destinație turistică de lux de neegalat. Vinurile de aici au ajuns pe mesele familiilor regale din întreaga Europă. Istoria artei clasa a 8-a — moștenirea viticolă europeană.",
+    "facts": [
+      "Vinăria a fost fondată oficial în anul 1827 printr-un decret special.",
+      "În anul 1878, vinul Negru de Purcari a câștigat medalia de aur la Expoziția Mondială de la Paris.",
+      "A fost furnizorul oficial de vinuri pentru Casa Regală a Marii Britanii (Regina Victoria).",
+      "Pivnițele sale în formă de cruce mențin o temperatură perfectă pentru maturarea vinului."
+    ]
+  },
+  "MD-021-causeni-city": {
+    "desc": "Căușeni este un oraș sudic vibrant cu o moștenire culturală rară și surprinzătoare, așezat pe râul Botna. În perioada medievală a fost o importantă reședință a hanilor tătari, ceea ce îi conferă un trecut istoric unic în peisajul moldovenesc. Astăzi, Căușeni este un centru comercial aglomerat și un nod rutier care conectează regiunile viticole de sud cu centrul țării. Principala mândrie a orașului este Biserica Adormirea Maicii Domnului, o bijuterie unică a arhitecturii bisericești de tip semi-îngropat. Geografie clasa a 7-a — dezvoltarea așezărilor medievale.",
+    "facts": [
+      "A servit drept reședință temporară pentru domnitorii moldoveni în perioade de restriște.",
+      "Numele său ar putea proveni de la un termen tătăresc care înseamnă 'fântână' sau 'izvor'.",
+      "În centrul orașului există monumente dedicate eroilor din Al Doilea Război Mondial.",
+      "Zona este recunoscută pentru artizanatul de prelucrare a lemnului și a ceramicii."
+    ]
+  },
+  "MD-021-assumption-church": {
+    "desc": "Biserica 'Adormirea Maicii Domnului' din Căușeni este unul dintre cele mai extraordinare monumente arhitecturale și religioase din Republica Moldova. Această biserică unică a fost construită semi-îngropată în pământ (sub cota zero) pentru a respecta interdicțiile stricte otomane care stipulau ca lăcașurile creștine să nu depășească înălțimea unui om călare. Interiorul său este complet acoperit de fresce vibrante de o valoare inestimabilă, create de pictori zugravi valahi. Recent restaurată, biserica este un simbol al rezilienței credinței în fața opresiunii. Istorie clasa a 7-a — arhitectura religioasă defensivă.",
+    "facts": [
+      "Biserica datează cel mai probabil din secolele XVII-XVIII.",
+      "Frescele interioare reprezintă cel mai mare și mai bine conservat ansamblu de acest fel din țară.",
+      "Jumătate din structura sa este îngropată în sol pentru a evita distrugerea de către tătari.",
+      "Este propusă pentru includerea în lista Patrimoniului Mondial UNESCO."
+    ]
+  },
+  "MD-022-cimislia-city": {
+    "desc": "Cimișlia este un oraș așezat strategic în zona de trecere de la Codrii centrali la stepele sudice, funcționând ca o legătură vitală de transport și comerț. Deși este un oraș predominant administrativ și agricol, se bucură de un aer calm și primitor, tipic sudului Moldovei. Orașul este recunoscut pentru inițiativele sale ecologice și implicarea comunității în conservarea tradițiilor rurale. Valoarea sa economică se bazează puternic pe prelucrarea strugurilor și a florii-soarelui cultivate în regiune. Geografie clasa a 6-a — zone de tranziție naturală.",
+    "facts": [
+      "A fost fondat în prima jumătate a secolului al XVII-lea ca o stație pe rutele comerciale.",
+      "Cimișlia găzduiește anual festivalul de promovare a tradițiilor de vinificație din regiunea sudică.",
+      "Dispune de un muzeu raional cu colecții extinse de numismatică și obiecte folclorice.",
+      "Regiunea este renumită pentru apicultură și calitatea superioară a mierii produse aici."
+    ]
+  },
+  "MD-022-gradistea-nature": {
+    "desc": "Rezervația peisajistică Grădiștea este o veritabilă oază verde situată în raionul Cimișlia, oferind un peisaj de relief colinar cu păduri seculare de foioase. Acest spațiu natural valoros protejează o diversitate remarcabilă de plante rare și specii de animale specifice zonei de tranziție stepă-pădure. Relieful accidentat este străbătut de pâraie mici care mențin un microclimat proaspăt, foarte apreciat în verile toride ale sudului. Pasionații de drumeții găsesc aici poteci neumblate și liniște deplină, departe de orice centru urban aglomerat. Biologie clasa a 6-a — microclimate și ecosisteme de tranziție.",
+    "facts": [
+      "Este unul dintre puținele masive forestiere compacte rămase în partea de sud a țării.",
+      "Pădurea include exemplare rare de stejar pufos și arbuști de păducel.",
+      "Zona servește ca un important culoar ecologic pentru fauna migratoare mică.",
+      "Locul prezintă interes și pentru arheologi, datorită descoperirii unor artefacte geto-dacice."
+    ]
+  },
+  "MD-023-basarabeasca-city": {
+    "desc": "Basarabeasca este un oraș de frontieră fermecător, situat în sud-est, fix la granița cu Ucraina. Apariția și dezvoltarea sa au fost strâns legate de construcția infrastructurii feroviare în secolul al XIX-lea, devenind rapid un important nod logistic și vamal. Orașul are un profil arhitectural industrial-rural, cu o populație multietnică prietenoasă ce include moldoveni, ruși, ucraineni și bulgari. Râul Cogâlnic traversează zona, adăugând un element pitoresc acestui oraș esențial pentru comerțul transfrontalier. Geografie clasa a 8-a — localități de frontieră și noduri feroviare.",
+    "facts": [
+      "Inițial, așezarea a fost o colonie evreiască numită Romanovka, fondată la mijlocul secolului XIX.",
+      "Gara din Basarabeasca este unul dintre cele mai importante complexe feroviare sudice.",
+      "Economia locală se axează pe agricultură și întreținerea infrastructurii feroviare.",
+      "Comunitatea se mândrește cu o toleranță interetnică exemplară și tradiții culinare mixte."
+    ]
+  },
+  "MD-023-abaclia-village": {
+    "desc": "Abaclia este un sat vast și prosper din sudul Republicii Moldova, recunoscut pentru peisajele sale rurale ordonate și terenurile agricole fertile. Aflat de-a lungul râului Cogâlnic, satul a avut o importanță semnificativă în istoria comunităților bulgare și găgăuze stabilite în regiune. Casele tradiționale mari, cu curți îngrijite, reflectă prosperitatea și spiritul gospodar al localnicilor. Tradițiile viticole și oieritul se transmit din generație în generație, făcând din Abaclia un pilon al conservării patrimoniului agricol sudic. Istorie clasa a 6-a — comunități rurale și etnogeografie.",
+    "facts": [
+      "Este considerat unul dintre cele mai mari sate din sudul Republicii Moldova ca suprafață și populație.",
+      "Numele localității are, cel mai probabil, o origine tătărească sau turcică.",
+      "Biserica Sfinții Arhangheli Mihail și Gavriil din sat este un monument arhitectural central.",
+      "Comunitatea organizează anual o sărbătoare extinsă a recoltei și a vinului de casă."
+    ]
+  },
+  "MD-024-taraclia-city": {
+    "desc": "Taraclia este centrul cultural și administrativ necontestat al comunității bulgare din Republica Moldova. Așezat în stepa sudică (Bugeac), orașul emană o atmosferă unică, unde tradițiile, limba și bucătăria bulgară se împletesc cu specificul moldovenesc. Arhitectura include monumente dedicate eliberatorilor bulgari și biserici ortodoxe impozante. Orașul găzduiește și singura universitate de stat cu predare în limba bulgară din afara granițelor Bulgariei, transformându-l într-un centru educațional de importanță internațională. Geografie clasa a 8-a — minorități etnice.",
+    "facts": [
+      "A fost fondat de coloniștii bulgari la începutul secolului al XIX-lea, după războaiele ruso-turce.",
+      "Universitatea de Stat 'Grigore Țamblac' din Taraclia este susținută de guvernul de la Sofia.",
+      "Se organizează anual festivaluri vibrante de cântece și dansuri tradiționale bulgărești.",
+      "Economia locală se bazează pe podgorii extinse și producția de vinuri calitative."
+    ]
+  },
+  "MD-024-taraclia-reservoir": {
+    "desc": "Lacul de acumulare Taraclia este cel mai mare corp de apă din sudul extrem al Republicii Moldova, fiind vital pentru irigațiile și echilibrul ecologic al regiunii aride Bugeac. Peisajul din jurul lacului este dominat de stepe extinse și dealuri domoale, oferind o priveliște vastă și relaxantă. Datorită suprafeței sale mari, lacul a devenit un popas crucial pentru mii de păsări migratoare de apă, atrăgând observatori de păsări și iubitori ai naturii. Este de asemenea un loc preferat de localnici pentru pescuit și activități recreative estivale. Biologie clasa a 6-a — ecosisteme acvatice antropice.",
+    "facts": [
+      "Barajul a fost construit pentru a asigura apa necesară irigațiilor în regiunea secetoasă a Bugeacului.",
+      "Apele sale susțin populații semnificative de pești de apă dulce, inclusiv crap și șalău.",
+      "Pelicanii și lebedele pot fi observați adesea în zonele cu stufăriș de la capătul lacului.",
+      "Zona joacă un rol important în menținerea nivelului apelor freatice din sudul țării."
+    ]
+  },
+  "MD-025-comrat-city": {
+    "desc": "Comrat este capitala politică, administrativă și culturală a Unității Teritoriale Autonome Găgăuzia. Acest oraș dinamic este inima mândriei naționale a poporului găgăuz, unde limba și tradițiile lor turcice unice sunt păstrate și promovate activ. Orașul prezintă o arhitectură funcțională, dar găzduiește o universitate prestigioasă, muzee bogate și piețe centrale pline de viață. Centrul cultural al orașului este Catedrada Sfântul Ioan Botezătorul, un monument impunător de culoare galbenă care veghează asupra întregii comunități. Geografie clasa a 8-a — regiuni autonome.",
+    "facts": [
+      "Universitatea de Stat din Comrat este instituția de top pentru studierea limbii și culturii găgăuze.",
+      "Populația este formată într-o proporție covârșitoare (peste 70%) din etnici găgăuzi.",
+      "Orașul este cunoscut pentru festivalurile sale de vin și sărbătorile recoltei de toamnă (Kasîm).",
+      "În centrul orașului se află o Alee a Slavei dedicată figurilor importante ale poporului găgăuz."
+    ]
+  },
+  "MD-025-besalma-museum": {
+    "desc": "Muzeul Național de Istorie și Etnografie Găgăuză din satul Beșalma este sanctuarul suprem al culturii materiale și spirituale găgăuze. Fondat de scriitorul și etnograful local Cara Ciobanu, muzeul expune colecții vaste de costume tradiționale, unelte agricole, arme și covoare unicat țesute manual. Expozițiile reconstituie cu fidelitate istoria și ritmurile de viață ale acestui popor de origine turcică, dar de credință ortodoxă. Instituția servește ca un pod de legătură esențial între generațiile noi și tradițiile lor ancestrale. Educație civică clasa a 7-a — patrimoniul etnocultural.",
+    "facts": [
+      "A fost fondat în 1966 și este primul muzeu dedicat exclusiv culturii găgăuze din lume.",
+      "Deține o colecție rară de proiecții cinematografice vechi despre viața rurală găgăuză.",
+      "Muzeul organizează demonstrații live de țesut covoare și obiceiuri de nuntă tradiționale.",
+      "Numele satului Beșalma se traduce din limba găgăuză ca 'Cinci Mere'."
+    ]
+  },
+  "MD-026-criuleni-city": {
+    "desc": "Criuleni este un oraș pitoresc și emergent, așezat liniștit pe malul drept al râului Nistru, la o distanță scurtă la nord de capitala Chișinău. Datorită poziționării sale pe malul apei și a peisajelor naturale înconjurătoare atractive, orașul a devenit un loc popular pentru odihnă și pescuit sportiv de weekend. Străzile sale au un aspect îngrijit, iar zonele de promenadă nou amenajate aduc un suflu de modernitate. Economia este dominată de o agricultură intensivă și fabrici de prelucrare a resurselor locale. Geografie clasa a 6-a — așezări riverane și recreere.",
+    "facts": [
+      "Istoria atestată a localității începe în secolul al XVII-lea ca o așezare de pescari.",
+      "Deține o mică centrală hidroelectrică și o rețea importantă de irigații.",
+      "Orașul privește direct spre orașul transnistrean Dubăsari, situat pe malul opus.",
+      "Festivalul 'Toamna de Aur' din oraș celebrează bogăția agriculturii locale."
+    ]
+  },
+  "MD-026-surprise-cave": {
+    "desc": "Peștera Surprizelor (Peștera Surprizelor) este un sistem de caverne carstice fascinant și parțial neexplorat, ascuns adânc în stâncile abrupte care străjuiesc valea Nistrului, în apropiere de Criuleni. Numele său provine din natura imprevizibilă a galeriilor sale, care includ pasaje extrem de înguste urmate brusc de săli spațioase. Deoarece nu este amenajată cu infrastructură turistică de masă (fără lumini sau scări), peștera oferă o experiență autentică și plină de adrenalină, destinată în special speologilor și turiștilor de aventură experimentați. Geografie clasa a 7-a — speologie și ecoturism.",
+    "facts": [
+      "Este a doua cea mai lungă peșteră din Republica Moldova, cu o rețea de galerii de peste 1.700 m.",
+      "Peștera a fost descoperită abia în anii '70 de un grup de speologi amatori.",
+      "Găzduiește colonii importante de lilieci pe perioada hibernării hibernale.",
+      "Navigarea prin peșteră necesită echipament special, deoarece unele pasaje impun târârea pe coate."
+    ]
+  },
+  "MD-027-straseni-city": {
+    "desc": "Așezat strategic în depresiunea centrală și înconjurat de pădurile falnice ale Codrilor, Strășeni este un nod industrial și viticol cheie, situat la câțiva kilometri vest de capitală. Strășeniul a fost mereu recunoscut pentru industria sa de prelucrare a lemnului și a mobilei, valorificând resursele imense ale pădurilor din vecinătate. În plus, pe colinele sale însorite se cultivă unele dintre cele mai renumite soiuri de struguri albi din Moldova. Peisajul urban reprezintă o fuziune între blocurile funcționale sovietice și casele tradiționale înconjurate de vii. Economie clasa a 8-a — industria lemnului și alimentară.",
+    "facts": [
+      "În a doua jumătate a secolului XX, orașul găzduia una dintre cele mai mari fabrici de mobilă din URSS.",
+      "Numele orașului ar deriva de la expresia 'strașnic' (înfricoșător), referindu-se la pădurile dese din trecut.",
+      "Cel mai înalt turn de telecomunicații din țară este situat în apropriere de Strășeni.",
+      "Gara sa feroviară a fost crucială pentru exportul masiv de vinuri în perioada sovietică."
+    ]
+  },
+  "MD-027-capriana-monastery": {
+    "desc": "Mănăstirea Căpriana reprezintă nucleul spiritualității ortodoxe moldovenești și este, probabil, cel mai vechi și cel mai venerat așezământ monahal din țară. Ascunsă în inima unei văi luxuriante din pădurile Codrilor, a servit secole la rând drept reședință pentru mitropoliții Moldovei și cronicari renumiți. Complexul arhitectural este uluitor, constând în trei biserici de piatră distincte, construite în epoci diferite, care documentează evoluția stilului religios moldovenesc. Liniștea copleșitoare și importanța sa istorică atrag permanent zeci de mii de pelerini. Istorie clasa a 7-a — cultura și spiritualitatea medievală.",
+    "facts": [
+      "Prima mențiune documentară a mănăstirii datează din timpul domniei lui Alexandru cel Bun (1420).",
+      "În biserica veche a mănăstirii se află mormântul mitropolitului și cronicarului Gavriil Bănulescu-Bodoni.",
+      "A fost supusă unui proces masiv de restaurare națională la începutul anilor 2000.",
+      "A fost considerată un bastion al culturii, adăpostind cea mai mare bibliotecă mănăstirească veche din țară."
+    ]
+  },
+  "MD-028-anenii-noi-city": {
+    "desc": "Anenii Noi este un oraș vibrant, așezat strategic în apropierea văii râului Bîc, la sud-est de Chișinău. Datorită poziției sale de nod de transport care conectează capitala de sudul țării și de regiunea transnistreană, orașul a cunoscut o dezvoltare comercială accelerată. Localitatea se mândrește cu o diversitate etnică bogată, ceea ce a generat o atmosferă culturală tolerantă și variată. Sectorul agricol este dominant aici, susținut de prezența unor fabrici moderne de prelucrare a cărnii și a laptelui. Geografie clasa a 8-a — centre agro-industriale și rute de transport.",
+    "facts": [
+      "Numele orașului semnifică 'Satul Nou al Anei' (Haneni), provenind de la vechii proprietari de hanuri.",
+      "În timpul epocii sovietice, orașul a primit un influx mare de populație rusă și ucraineană.",
+      "Industria extractivă locală profită de zăcămintele mari de nisip și pietriș din apropiere.",
+      "Parcul central al orașului este renumit pentru statuile sale impunătoare în stil realist-socialist."
+    ]
+  },
+  "MD-028-serpeni-bridgehead": {
+    "desc": "Complexul Memorial Capul de Pod Șerpeni este unul dintre cele mai emoționante și grandioase monumente militare din Europa de Est, ridicat deasupra malurilor abrupte ale Nistrului. Monumentul imortalizează bătăliile sângeroase din vara anului 1944, când mii de soldați și-au pierdut viața într-o operațiune strategică de traversare a fluviului. Ansamblul impresionează printr-un altar central, o flacără eternă și o clopotniță masivă a cărei bătaie răsună peste valea Nistrului. Este un loc solemn de reflecție asupra costului devastator al războaielor mondiale. Istorie clasa a 8-a — Al Doilea Război Mondial.",
+    "facts": [
+      "În luptele pentru capul de pod de la Șerpeni și-au pierdut viața peste 11.000 de ostași sovietici.",
+      "Complexul a fost inaugurat oficial pe 22 august 2004, la a 60-a aniversare a bătăliei.",
+      "Priveliștea panoramică de pe platforma memorialului se extinde pe zeci de kilometri peste Nistru.",
+      "Echipele de căutare continuă să descopere și să îngroape aici rămășițe ale soldaților necunoscuți."
+    ]
+  },
+  "MD-029-orhei-city": {
+    "desc": "Orhei este unul dintre cele mai dinamice și atractive orașe istorice din centrul Moldovei, așezat în pitoreasca vale a râului Răut. Orașul a beneficiat recent de proiecte masive de reamenajare urbană, având străzi impecabile, parcuri luxuriante și clădiri de patrimoniu atent restaurate. Orheiul este faimos pentru Catedrala Sfântul Dumitru, fondată de domnitorul Vasile Lupu, un simbol arhitectural național. De asemenea, atrage un număr mare de vizitatori datorită celui mai mare parc de distracții familial din țară, îmbinând istoria profundă cu divertismentul modern. Geografie clasa a 7-a — modernizare urbană.",
+    "facts": [
+      "Biserica Sfântul Dumitru din centrul orașului este reprezentată pe bancnota de 5 lei moldovenești.",
+      "Este unul dintre puținele orașe din țară care se mândrește cu transport public complet gratuit pentru localnici.",
+      "În apropierea orașului se află uriașul parc de distracții „OrheiLand”, vizitat anual de mii de copii.",
+      "Istoria orașului medieval Orheiul Vechi (situat la câțiva kilometri distanță) este legată intrinsec de orașul modern."
+    ]
+  },
+  "MD-029-curchi-monastery": {
+    "desc": "Mănăstirea Curchi este o capodoperă absolută a arhitecturii religioase și un centru de spiritualitate renumit la nivel european. Situată într-un cadru natural de poveste, printre păduri dese și pe malul unui lac idilic, ansamblul monahal se distinge prin stilul său baroc târziu, mai degrabă asemănător unui palat occidental decât unei mănăstiri ortodoxe clasice. Biserica principală, vopsită într-un roșu intens cu ornamente albe, are cel mai înalt dom dintre toate bisericile din țară. După restaurarea sa recentă, Curchi a devenit un magnet pentru pelerini și iubitorii de arhitectură estetică. Istoria artei clasa a 8-a — arhitectura barocului.",
+    "facts": [
+      "Biserica centrală (Nașterea Maicii Domnului) a fost proiectată de celebrul arhitect italian Bartolomeo Rastrelli.",
+      "În timpul regimului sovietic brutal, complexul mănăstiresc a fost transformat într-un spital psihiatric.",
+      "Ansamblul a fost complet restaurat la standarde internaționale cu ajutorul fondurilor și donațiilor publice.",
+      "Legenda spune că a fost fondată în secolul XVIII de către un haiduc (Iordache Curchi) care s-a pocăit."
+    ]
+  },
+  "MD-030-tiraspol-city": {
+    "desc": "Tiraspol este cel mai mare oraș din stânga Nistrului și capitala autoproclamată a regiunii separatiste transnistrene. Orașul este celebru în lume pentru faptul că a conservat o imagine și o atmosferă ce amintesc fidel de fosta Uniune Sovietică. Monumentele falnice ale lui Lenin, bulevardele largi, panourile cu mesaje patriotice și arhitectura brutalistă atrag numeroși turiști occidentali curioși. Totuși, dincolo de estetica sa unică, Tiraspol este un oraș curat, liniștit și funcțional, fiind motorul industrial principal al economiei de pe malul stâng. Geografie clasa a 8-a — spațiul post-sovietic.",
+    "facts": [
+      "A fost fondat în 1792 din ordinul generalului rus Alexandr Suvorov ca cetate de frontieră.",
+      "Este casa complexului sportiv ultra-modern Sheriff, o structură contrastantă cu restul orașului sovietic.",
+      "Bulevardul principal poartă încă numele aniversării '25 Octombrie' (Revoluția Bolșevică).",
+      "Orașul are propria sa monedă, rubla transnistreană, care este fabricată din polimeri și nu este recunoscută internațional."
+    ]
+  },
+  "MD-030-kvint-distillery": {
+    "desc": "Distileria KVINT din Tiraspol este, fără îndoială, cea mai faimoasă întreprindere și o adevărată emblemă de export a regiunii transnistrene. Fondată în secolul al XIX-lea, compania este renumită la nivel mondial pentru producția de divinuri (brandy-uri de tip coniac) excepționale, maturate în butoaie masive de stejar. Numele companiei este un acronim pentru 'Coniacuri, Vinuri și Băuturi din Tiraspol'. O vizită în pivnițele sale cu un parfum dulceag amețitor dezvăluie secretele unui proces de învechire care se întinde pe decenii, transformând distileria într-un pilon al patrimoniului băuturilor fine. Economie clasa a 8-a — branduri de export.",
+    "facts": [
+      "Distileria a fost fondată în anul 1897 și este una dintre cele mai vechi din Europa de Est.",
+      "KVINT produce anual zeci de milioane de sticle, exportate în peste 30 de țări de pe glob.",
+      "Deține o colecție privată uriașă cu divinuri care au vârste de maturare de până la 60 de ani.",
+      "Pe etichetele sticlelor se utilizează grafia chirilică combinată elegant cu caractere latine."
+    ]
+  },
+  "MD-031-chisinau-city": {
+    "desc": "Chișinău, capitala vibrantă a Republicii Moldova, este inima politică, economică și culturală a națiunii. Deseori supranumit 'Orașul din piatră albă' datorită folosirii extinse a calcarului local în arhitectură, Chișinăul se remarcă drept una dintre cele mai verzi capitale din Europa, fiind împânzit de parcuri întinse și lacuri. Centrul orașului este un amestec de bulevarde largi mărginite de copaci, clădiri clasice din secolul al XIX-lea și repere brutale de tip sovietic. Viața sa de noapte activă, muzeele de artă și cafenelele moderne fac din Chișinău un oraș surprinzător și primitor. Geografie clasa a 8-a — metropole naționale.",
+    "facts": [
+      "Parcul central găzduiește 'Aleea Clasicilor', un șir de busturi din bronz ale marilor scriitori români.",
+      "Bulevardul Ștefan cel Mare este principala arteră a orașului și locul tuturor evenimentelor naționale majore.",
+      "Chișinăul a fost aproape complet distrus în timpul celui de-Al Doilea Război Mondial, fiind reconstruit ulterior din temelii.",
+      "Capitala concentrează peste jumătate din întreaga activitate economică a Republicii Moldova."
+    ]
+  },
+  "MD-031-triumphal-arch": {
+    "desc": "Arcul de Triumf din Chișinău este probabil cel mai fotografiat și emblematic monument arhitectural din inima capitalei. Așezat pe bulevardul central, vis-a-vis de clădirea Guvernului și alături de Catedrala Mitropolitană, acest arc elegant din piatră albă amintește de victoriile armatei ruse asupra Imperiului Otoman. Proporțiile sale armonioase și ceasul mare montat pe fronton îl fac un punct central de întâlnire pentru localnici. Noaptea, monumentul iluminat spectaculos reprezintă o priveliște grandioasă care subliniază istoria complexă a orașului. Istoria artei clasa a 8-a — monumente simbolice.",
+    "facts": [
+      "Arcul a fost construit în anul 1840 sub îndrumarea arhitectului Luca Zaușkevici.",
+      "În interiorul structurii se află un clopot masiv din bronz topit din vechile tunuri turcești capturate.",
+      "Are o înălțime de 13 metri și este susținut de patru piloni solizi de stil corintic.",
+      "Mai este cunoscut și sub numele popular de 'Porțile Sfinte'."
+    ]
+  },
+  "MD-032-telenesti-city": {
+    "desc": "Aflat în inima colinară a Moldovei, Telenești este un oraș liniștit, bogat în istorie comercială și tradiții agricole. În secolul al XIX-lea, orașul a fost un important târg comercial, locuit de o numeroasă comunitate evreiască care a lăsat o amprentă durabilă asupra arhitecturii și economiei locale. Astăzi, Telenești și-a menținut caracterul pașnic de provincie, fiind un centru raional orientat către sprijinirea agriculturii din împrejurimi. Pădurile din apropiere și peisajele văii râului Ciulucul Mic oferă refugii naturale nepoluate și plăcute. Istorie clasa a 7-a — dezvoltarea târgurilor de provincie.",
+    "facts": [
+      "Numele orașului se crede că provine din limba cumană antică.",
+      "Înainte de Al Doilea Război Mondial, sinagogile și prăvăliile evreiești dominau centrul orașului.",
+      "Există un monument central dedicat deportaților regimului stalinist.",
+      "Regiunea este renumită pe plan național pentru calitatea excelentă a nucilor și fructelor cultivate."
+    ]
+  },
+  "MD-032-inesti-nature": {
+    "desc": "Rezervația peisajistică Inești este o zonă naturală de o frumusețe virgină ascunsă în centrul Republicii Moldova, lângă Telenești. Defileele sale stâncoase, acoperite cu o pădure mixtă de stejar, carpen și frasin, contrastează vizual cu terenurile agricole netede din restul raionului. Această arie protejată funcționează ca un refugiu esențial pentru fauna sălbatică autohtonă, protejând căprioare, vulpi și specii rare de păsări cântătoare. Pădurea Inești este o destinație ideală pentru excursiile ecologice școlare și drumețiile recreative. Biologie clasa a 6-a — conservarea habitatelor.",
+    "facts": [
+      "Este unul dintre puținele masive forestiere neafectate de exploatare industrială din centrul țării.",
+      "Solul rezervației este extrem de bogat, adăpostind specii rare de ciuperci sălbatice.",
+      "Mai multe izvoare cu apă cristalină se formează în aceste văi și alimentează rețeaua hidrografică locală.",
+      "Aria protejată acoperă un teritoriu de aproximativ o mie de hectare de teren colinar."
+    ]
+  },
+  "MD-033-soldanesti-city": {
+    "desc": "Orașul Șoldănești, așezat grațios în valea fertilă a bazinului hidrografic al Nistrului, este un nod agro-industrial esențial în nord-estul țării. Crescut în jurul unei importante gări de cale ferată, orașul a integrat armonios dezvoltarea infrastructurii cu protejarea frumuseților sale naturale. Înconjurat de podgorii extinse și păduri de foioase, Șoldănești respiră un aer curat și tradițional. Este punctul de plecare perfect pentru explorarea numeroaselor peșteri carstice, cascade și așezări monahale izolate din raion, fiind considerat o zonă cu uriaș potențial ecoturistic. Geografie clasa a 7-a — dezvoltarea prin infrastructură feroviară.",
+    "facts": [
+      "Gara din Șoldănești este una dintre clădirile istorice reprezentative, construită în stil imperial rus.",
+      "Populația orașului are o tradiție îndelungată în pomicultură, în special în cultivarea mărului și prunului.",
+      "Pe parcursul istoriei a fost un punct de legătură crucial între Bălți și regiunile estice.",
+      "În raionul Șoldănești se află cel mai spectaculos complex de mănăstiri rupestre (Saharna și Țipova)."
+    ]
+  },
+  "MD-033-poiana-curtii": {
+    "desc": "Pădurea Poiana Curții este un sanctuar verde majestuos și o comoară națională a Republicii Moldova. Această arie forestieră protejată este celebră pentru stejarii săi seculari enormi, unii cu o vechime impresionantă de sute de ani. Frunzișul dens al arborilor creează o atmosferă umbroasă și liniștită, servind drept casă sigură pentru o multitudine de mamifere și păsări protejate de lege. Ecosistemul de aici este păstrat cu strictețe, fiind considerat un fond genetic natural de importanță națională pentru cercetarea silvică. Biologie clasa a 7-a — ecosisteme forestiere valoroase.",
+    "facts": [
+      "Mulți stejari de aici au diametre ale trunchiului ce depășesc un metru și jumătate.",
+      "Este strict interzisă tăierea arborilor, zona fiind dedicată exclusiv cercetării științifice și conservării.",
+      "Aici au fost identificate specii rare de lilieci forestieri și insecte endemice protejate.",
+      "Pădurea acționează ca un filtru uriaș care protejează puritatea apelor freatice din zonă."
+    ]
+  },
+  "MD-034-floresti-city": {
+    "desc": "Florești este un oraș nordic dinamic și o veritabilă forță industrială, desfășurat de-a lungul malurilor pitorești ale râului Răut. De la originea sa ca așezare agrară, s-a transformat fulminant într-un gigant industrial în epoca sovietică, având cele mai mari fabrici de prelucrare a sticlei și a tutunului din regiune. Deși industria grea a scăzut în intensitate, Florești a reușit să-și reinventeze economia, păstrându-se ca un centru de distribuție și comerț efervescent. Parcurile sale publice verzi și diversitatea culturală a locuitorilor îl fac un oraș vibrant. Economie clasa a 8-a — reconversie industrială.",
+    "facts": [
+      "Fabrica de sticlărie de la Florești a fost odată principalul furnizor al Europei de Sud-Est.",
+      "Legendele spun că numele orașului este legat de florile abundente (flori) cultivate în vechile curți boierești.",
+      "Arhitectura orașului este predominant marcată de influența constructivistă sovietică a anilor '60-'70.",
+      "Gara din Florești este un important hub logistic pentru exportul de cereale către Ucraina și UE."
+    ]
+  },
+  "MD-034-japca-monastery": {
+    "desc": "Mănăstirea Japca este un simbol legendar al rezistenței credinței, așezată dramatic pe un versant stâncos, privind spre cursul meandrat al Nistrului. Deosebită prin faptul că este o mănăstire de maici, este singurul așezământ monahal din Moldova care a sfidat deceniile de ateism de stat, rămânând deschis și activ pe parcursul întregii perioade sovietice. Pe lângă bisericile terestre frumos pictate, mănăstirea include chilii vechi tăiate direct în stânca abruptă. Pelerinii vizitează frecvent și izvoarele vindecătoare din preajmă. Istorie clasa a 7-a — rezistența culturală și spirituală.",
+    "facts": [
+      "Nu a fost închisă niciodată pe parcursul secolului XX, o realizare considerată de credincioși o minune.",
+      "Biserica principală este construită într-un stil care îmbină elemente rusești (turle sub formă de ceapă) și moldovenești.",
+      "În incintă trăiesc maici care practică și azi meșteșuguri monahale străvechi (țesut, pictură de icoane).",
+      "Așezământul rupestru anexat a servit inițial ca ascunzătoare împotriva invaziilor tătare."
+    ]
+  },
+  "MD-035-tipova-monastery": {
+    "desc": "Mănăstirea rupestră Țipova este o minune geologică și religioasă sculptată în pereții vertiginoși de calcar deasupra Nistrului. Este recunoscută ca una dintre cele mai mari mănăstiri în stâncă din Europa de Est, fiind formată dintr-un complex vast de chilii, galerii și altare pe mai multe niveluri. Dincolo de istoria sa creștină bogată, peisajul este completat de un traseu turistic sălbatic care duce către cascade naturale impresionante. Misterul, natura sălbatică și spiritualitatea străveche atrag vizitatori din toată lumea. Geografie clasa a 6-a — forme carstice și peșteri.",
+    "facts": [
+      "Legendele locale asociază complexul rupestru cu poetul antic grec Orfeu.",
+      "Se spune că domnitorul Ștefan cel Mare s-a cununat în secret într-una din capelele sale de stâncă.",
+      "Cele mai vechi chilii datează probabil din secolul al XI-lea.",
+      "Formațiunile carstice creează un ecou perfect, ideal pentru cântările corale bisericești."
+    ]
+  },
+  "MD-035-horodiste-village": {
+    "desc": "Așezat în inima unui peisaj stâncos uluitor lângă defileele de la Țipova, Horodiște este un sat tradițional transformat într-un pol al ecoturismului. Acest loc a respins atracția orașelor, păstrând casele din piatră ridicate manual și tehnicile agricole vechi de sute de ani. Satul este celebru pentru cașcavalurile sale artizanale excelente, inițiate prin parteneriate internaționale ecologice, și pentru vinurile locale. Atmosfera sa suspendată în timp oferă cel mai bun antidot împotriva stresului vieții moderne. Economie clasa a 8-a — turism rural durabil.",
+    "facts": [
+      "Aici funcționează un renumit atelier comunitar unde se produce cașcaval după metode tradiționale franceze.",
+      "Este punctul ideal de plecare pentru drumețiile montane spre faimoasele cascade Țipova.",
+      "Zidurile multor case tradiționale sunt construite cu pietre prelevate din albia veche a râului.",
+      "Cultura oieritului și a păstoritului reprezintă încă ocupația de bază pentru multe familii."
+    ]
+  },
+  "MD-036-ialoveni-city": {
+    "desc": "Considerat adesea o extindere verde a capitalei Chișinău, Ialoveni este un oraș modern și extrem de atractiv pentru locuit. Dezvoltarea sa explozivă ca zonă rezidențială s-a datorat apropierii de capitală și parcurilor sale generoase. Faima națională a orașului este însă indisolubil legată de industria vinului, găzduind singura fabrică din republică specializată în producerea vinurilor fortificate de tip 'Sherry' (Heres). Lacurile din jurul orașului și casele noi elegante reflectă un standard de viață ridicat. Economie clasa a 8-a — centre rezidențiale periurbane.",
+    "facts": [
+      "Fabrica 'Vinuri Ialoveni' a câștigat sute de medalii internaționale pentru vinul său tip Heres.",
+      "Orașul a cunoscut o explozie a construcțiilor rezidențiale de lux în ultimele două decenii.",
+      "Lacul central este un centru de agrement foarte popular în timpul lunilor toride de vară.",
+      "Organizează frecvent târguri meșteșugărești și festivaluri culturale care reunesc locuitorii din suburbii."
+    ]
+  },
+  "MD-036-suruceni-monastery": {
+    "desc": "Mănăstirea de maici Suruceni este o insulă de pace desăvârșită și frumusețe arhitecturală elegantă, aflată foarte aproape de aglomerația capitalei. Atracția sa principală este spectaculoasa biserică de culoarea piersicii, construită în stil neoclasic rafinat, care strălucește în contrast cu copacii bătrâni care o înconjoară. Așezământul este renumit pentru aleile sale flancate de trandafiri și munca excepțională a maicilor în domeniul artei broderiei și iconografiei. Reprezintă un colț de renaștere culturală și liniște. Istoria artei clasa a 8-a — neoclasicismul în arhitectura religioasă.",
+    "facts": [
+      "Biserica principală a fost finalizată și sfințită la sfârșitul secolului al XIX-lea.",
+      "Mănăstirea deține unele dintre cele mai respectate ateliere de confecționare a veșmintelor preoțești din țară.",
+      "Păstrează fragmente din sfintele moaște ale Sfântului Antipa de la Calapodești.",
+      "Este printre cele mai vizitate mănăstiri în perioada weekend-urilor datorită apropierii de Chișinău."
+    ]
+  },
+  "MD-037-calarasi-city": {
+    "desc": "Călărași este un oraș istoric încântător, adânc așezat în inima pădurilor seculare ale Codrilor moldovenești. Orașul este inima producției de 'Divin' (brandy-ul național), fabrica locală având tradiții care se întind peste un secol și oferind distilate de înaltă calitate recunoscute mondial. Poziționarea sa geografică în valea fertilă a Bîcului, flancată de coline împădurite, îi conferă o atmosferă curată și pitorească. Pe lângă importanța industrială, orașul servește drept punct de pornire pentru tururile renumitelor mănăstiri din regiune. Economie clasa a 8-a — industria distilatelor.",
+    "facts": [
+      "Numele orașului, 'Călărași', provine de la detașamentele de cavalerie ușoară care patrulau granițele Moldovei medievale.",
+      "Fabrica 'Călărași Divin' este una dintre cele mai vechi patru întreprinderi de acest tip din Moldova.",
+      "Gara din oraș a jucat un rol vital în dezvoltarea exporturilor pe vremea Imperiului Rus.",
+      "Regiunea este renumită și pentru izvoarele sale de apă cu un conținut bogat de minerale."
+    ]
+  },
+  "MD-037-frumoasa-monastery": {
+    "desc": "Mănăstirea Frumoasa poartă un nume care descrie perfect așezarea sa idilică, fiind cuibărită în desișul fermecător al colinelor din Codri. Acest așezământ monahal se distinge prin austeritatea sa elegantă și spiritul său conservator ortodox. Departe de turismul de masă, oferă vizitatorilor o retragere spirituală liniștită. Arhitectura bisericilor sale, vopsite în alb curat, respectă un stil tradițional moldovenesc, integrându-se perfect în peisajul forestier. Este cunoscută și pentru impresionanta colecție de literatură sacră păstrată de călugări. Istorie clasa a 6-a — viața monastică și educația veche.",
+    "facts": [
+      "Mănăstirea a fost înființată oficial în anul 1804 de un grup de călugări pustnici.",
+      "Colecția sa de manuscrise slavone și românești a fost renumită în perioada interbelică.",
+      "În perioada sovietică clădirile sale au fost grav avariate după ce au fost transformate în școală internat.",
+      "Complexul a fost reînființat în anii '90, iar clădirile au fost pictate și refăcute meticulos."
+    ]
+  },
+  "MD-038-drochia-city": {
+    "desc": "Drochia este inima agricolă nordică a țării, un oraș prosper ale cărui realizări au fost clădite pe baza industriei sfeclei de zahăr. Cunoscut pentru străzile sale drepte, aliniate geometric, și blocurile din perioada sovietică târzie, orașul prezintă o organizare vizuală clară. Economia sa industrială puternică din trecut a lăsat în urmă structuri grandioase și fabrici uriașe, majoritatea implicate în procesarea agricolă a recoltelor din câmpiile nordice. Astăzi, comunitatea se mândrește cu catedrale noi monumentale și bulevarde îngrijite. Economie clasa a 8-a — industria de prelucrare agroalimentară.",
+    "facts": [
+      "Fabrica de zahăr din Drochia a fost odinioară una dintre cele mai mari și performante din sud-estul Europei.",
+      "Drochia a obținut statutul oficial de oraș de abia în anul 1973.",
+      "Parcul central dispune de fântâni arteziene luminoase recondiționate recent.",
+      "Este unul dintre cele mai importante noduri de transport pentru produsele agricole nordice."
+    ]
+  },
+  "MD-038-drochia-cathedral": {
+    "desc": "Catedrala 'Adormirea Maicii Domnului' din Drochia este un edificiu arhitectural vizual copleșitor, o adevărată capodoperă a artei sacre contemporane din Republica Moldova. Această structură magnifică domină peisajul cu fațadele sale roz pastelate și cele cinci domuri aurite impunătoare, puternic influențate de stilurile arhitecturale slave și bizantine. Interiorul său este la fel de uluitor, complet acoperit cu fresce vii, care au fost pictate cu măiestrie timp de mai mulți ani de artiști de renume internațional. Reprezintă un epicentru spiritual pentru întreaga zonă nordică. Istoria artei clasa a 8-a — arhitectura ecleziastică modernă.",
+    "facts": [
+      "Este singura catedrală din Moldova ale cărei picturi interioare au fost realizate de faimosul pictor român Petre Achițenie.",
+      "A fost sfințită recent, după decenii de muncă asiduă pentru finalizarea construcției și picturilor.",
+      "Sunetul masivelor sale clopote de bronz poate fi auzit pe o rază de mulți kilometri.",
+      "Construcția sa uriașă o face vizibilă din aproape orice punct al peisajului plat din împrejurimi."
+    ]
+  },
+  "MD-039-singerei-city": {
+    "desc": "Sîngerei este o localitate dinamică și primitoare din inima de nord a Moldovei, așezată strategic pe artera principală care conectează capitala Chișinău cu Bălțiul. Funcționând ca un punct natural de oprire și comerț, orașul a prosperat din afaceri de tranzit și agricultură intensivă. Sîngerei se remarcă prin amestecul său vibrant de cultură urbană și tradiții agricole rurale, comunitatea fiind foarte implicată în organizarea festivalurilor populare, unde sunt prezentate dansuri și obiecte artizanale specifice regiunii. Geografie clasa a 7-a — centre de tranzit și comerț.",
+    "facts": [
+      "Din anul 1944 și până în 1991, localitatea s-a numit 'Lazovsk', în onoarea comandantului militar Serghei Lazo.",
+      "Zona din jurul orașului este excelentă pentru producerea uleiului de floarea-soarelui de înaltă calitate.",
+      "Deține o casă de cultură impresionantă care sprijină activ zeci de ansambluri folclorice.",
+      "Regiunea conține multiple lacuri artificiale utilizate de localnici pentru creșterea peștelui."
+    ]
+  },
+  "MD-039-bilicenii-vechi": {
+    "desc": "Satul Bilicenii Vechi este o fereastră către trecutul autentic și pitoresc al Republicii Moldova, situat confortabil într-un peisaj deluros blând din apropiere de Sîngerei. Această comunitate a pus un accent imens pe păstrarea arhitecturii rurale tradiționale moldovenești, multe case dispunând de porți masive din lemn sculptat cu o îndemânare excepțională. Locuitorii s-au dedicat perpetuării meșteșugurilor vechi, precum olăritul și țesutul covoarelor complexe din lână naturală. Prezența siturilor arheologice antice din apropiere sporește faima locului. Istorie clasa a 6-a — arhitectura tradițională și patrimoniul arheologic.",
+    "facts": [
+      "Pe teritoriul satului și în imediata apropiere s-au descoperit importante artefacte din faimoasa cultură antică Cucuteni-Tripolie.",
+      "Lemnarii locali sunt renumiți în întreaga țară pentru sculptarea porților cu motive florale și solare.",
+      "Biserica satului funcționează ca un nucleu comunitar unde se respectă cu sfințenie tradițiile vechi.",
+      "Sătenii organizează o piață de duminică cunoscută pentru vânzarea produselor organice și de artizanat."
+    ]
+  },
+  "MD-040-balti-city": {
+    "desc": "Bălți este o metropolă plină de viață și inima incontestabilă a regiunii de nord, denumit adesea, cu mândrie, „Capitala de Nord” a Republicii Moldova. Fiind al doilea oraș ca mărime și importanță economică din țară, este un centru industrial enorm și un creuzet cultural și academic vibrant. Bulevardele sale extrem de late, clădirile sovietice colosale și prezența numeroaselor teatre și universități îi conferă un puls urban autentic. Această diversitate multilingvistică se manifestă prin prezența unei importante comunități ruso- și ucrainofone, făcându-l cel mai cosmopolit oraș din afara Chișinăului. Geografie clasa a 8-a — polii urbani și demografie.",
+    "facts": [
+      "Universitatea de Stat „Alecu Russo” din Bălți atrage studenți din toată zona de nord și est a țării.",
+      "Industria alimentară și producătoare de utilaje grele au reprezentat fundația dezvoltării orașului.",
+      "Marea Piață Vasile Alecsandri este una dintre cele mai vaste piețe pietonale din Europa.",
+      "Arhitectura orașului este dominată de impresionanta Catedrală Sfântul Nicolae, o lucrare remarcabilă."
+    ]
+  },
+  "MD-040-balti-theatre": {
+    "desc": "Teatrul Național „Vasile Alecsandri” din Bălți este sanctuarul cultural suprem al orașului și un exemplu definitoriu al modernismului brutalist din fosta URSS. Fondat pentru a promova dramaturgia națională, acest lăcaș a format generații întregi de actori străluciți și rămâne o forță majoră în scena teatrală din Republica Moldova. Designul inovator al clădirii, asemănat de unii vizitatori cu o navă spațială din cauza geometriei sale unghiulare îndrăznețe, este o capodoperă a designului estetic al anilor '90. Scena este faimoasă pentru repertoriul curajos care îmbină teatrul clasic românesc cu producții avangardiste internaționale. Istoria artei clasa a 8-a — brutalismul și arta dramatică.",
+    "facts": [
+      "A fost prima instituție teatrală profesionistă cu predare în limba română înființată în perioada RSS Moldovenești (1957).",
+      "Clădirea actuală are o fațadă spectaculoasă, placată integral cu piatră albă adusă din Crimeea.",
+      "Piața din fața teatrului a devenit principalul spațiu de adunare pentru manifestații și evenimente în oraș.",
+      "Sala sa uriașă și echipamentul tehnic performant sunt printre cele mai complexe din țară."
+    ]
+  }
+}

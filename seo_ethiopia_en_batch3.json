@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "addis-ababa-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Addis Ababa Stadium, inaugurated in 1940, is a historically significant multi-purpose venue situated in the heart of Ethiopia's capital. As the city's primary stadium, it has served as a center for national football matches and athletic championships for decades. With a capacity of approximately 35,000 spectators, it is the centerpiece of the local sporting culture and has been the site of numerous national cup finals. Its central location makes it a symbol of the city's sporting development and athletic history. Sports K6 — sporting venues and stadium culture.",
+      "factsAdvanced": ["Inaugurated in 1940.", "Approximate capacity of 35,000 spectators.", "Central hub for Ethiopian athletics.", "Primary venue for the Ethiopian Cup final.", "Located in the center of Addis Ababa.", "Iconic landmark of Ethiopian sport history."]
+    }
+  ]
+}

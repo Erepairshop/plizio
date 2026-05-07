@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bitica-cities-v2",
+      "descriptionAdvanced": "Bitica a szárazföldi rész déli részén elhelyezkedő település, amely szorosan kapcsolódik a Río Muni folyó által meghatározott életmódhoz. A helyi lakosok számára az erdő és a víz közelsége egyaránt fontos, mivel a halászat és a gyűjtögetés kiegészíti a kiskerti gazdálkodást. Bitica fontos csomópont a környéken, ahol a különböző településekről érkező áruk cserélnek gazdát. A város folyamatos fejlődésen megy át, miközben a helyi közösség megőrzi tradícióit és a természettel való szoros kapcsolatát. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      "factsAdvanced": [
+        "A szárazföldi rész déli települése.",
+        "A víz és erdő alapú életmód központja.",
+        "Kiegészítő gazdálkodás: halászat és gyűjtögetés.",
+        "Regionális kereskedelmi csomópont.",
+        "Szoros természeti kapcsolatok.",
+        "Hagyományőrző helyi közösség."
+      ]
+    },
+    {
+      "id": "corisco-cities-v2",
+      "descriptionAdvanced": "Corisco a hasonló nevű szigeten található, amely történelmileg és turisztikailag is meghatározó pont Egyenlítői-Guinea életében. A sziget lenyűgöző homokos strandjaival és tiszta vizeivel az ökoturizmus és a pihenés egyedülálló helyszíne az országban. Corisco történelmi jelentősége a gyarmati időkig nyúlik vissza, és a mai napig megőrizte a szigetvilágra jellemző egyedi kultúráját és nyugalmát. A sziget modernizációja, miközben fenntartja természeti kincseit, komoly vonzerővel bír a látogatók számára. Tanterv: Földrajz K6, Turizmus K8.",
+      "factsAdvanced": [
+        "Corisco szigetén található.",
+        "Lenyűgöző strandok és vizek.",
+        "Ökoturizmus központja.",
+        "Történelmi jelentőségű sziget.",
+        "Egyedi szigeti kultúra.",
+        "Fenntartható turisztikai potenciál."
+      ]
+    }
+  ]
+}

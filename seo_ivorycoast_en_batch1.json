@@ -1,0 +1,140 @@
+{
+  "lang": "en",
+  "country": "ivorycoast",
+  "files": [
+    "lib/visualLab/data/poiExtraIvorycoastCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLifeV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastNatureV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bouak-cities-v2",
+      "descriptionAdvanced": "Bouaké is the second-largest city in Ivory Coast and serves as the capital of the Gbêkê Region. Located in the central part of the country, it was historically a major trade center for the Baoulé people and a key junction on the Abidjan-Niger railway. The city is renowned for its vibrant textile industry, particularly the production of traditional loincloths, and its bustling markets. Bouaké has played a significant role in the country's political history and remains a resilient urban hub with a diverse population and a rich cultural heritage. Geography K7 — central urban centers.",
+      "factsAdvanced": ["Second-largest city in Ivory Coast", "Capital of the Gbêkê Region", "Founded as a military post in 1899", "Major hub for the textile industry", "Key station on the Abidjan-Niger railway", "Famous for its traditional Baoulé markets", "Center for education and commerce", "Located in the central Bandama Valley"]
+    },
+    {
+      "id": "daloa-cities-v2",
+      "descriptionAdvanced": "Daloa is a major city in western Ivory Coast and the capital of the Haut-Sassandra Region. Known as a vital hub for the country's cocoa and coffee trade, it sits at the heart of the agricultural belt. The city is primarily inhabited by the Bété people and is famous for its lively atmosphere and traditional dances. Daloa's strategic location makes it an important center for transport and commerce, connecting the coastal regions with the northern interior. It is also home to several educational institutions and serves as a regional administrative powerhouse. Geography K7 — agricultural trade centers.",
+      "factsAdvanced": ["Capital of the Haut-Sassandra Region", "Third-largest city in the country", "Major hub for cocoa and coffee trade", "Center of the Bété ethnic group", "Strategically located in the western forest zone", "Key transport link between north and south", "Home to the Jean Lorougnon Guédé University", "Known for vibrant traditional cultural festivals"]
+    },
+    {
+      "id": "san-p-dro-cities-v2",
+      "descriptionAdvanced": "San-Pédro is the second-most important port city in Ivory Coast, located in the southwestern part of the country. Developed as a major government project in the 1960s, it has grown into the world's leading port for cocoa exports. The city is surrounded by lush tropical forests and beautiful beaches, making it both an industrial powerhouse and a growing tourist destination. San-Pédro's economy is driven by maritime trade, timber, and agriculture. Its modern infrastructure, including the Laurent Pokou Stadium, reflects its rising status as a key economic pillar of the nation. Geography K7 — port infrastructure and trade.",
+      "factsAdvanced": ["World's leading port for cocoa exports", "Founded as a modern port city in 1968", "Capital of the Bas-Sassandra District", "Second-largest port in Ivory Coast", "Major center for the timber and rubber industries", "Home to the Laurent Pokou Stadium", "Famous for beautiful Atlantic beaches", "Gateway to the Taï National Park"]
+    },
+    {
+      "id": "korhogo-cities-v2",
+      "descriptionAdvanced": "Korhogo is the main city in northern Ivory Coast and the ancestral home of the Senufo people. It is a major center for traditional crafts, including weaving, pottery, and the famous wood carvings. The city is dominated by Mount Korhogo and is known for its deep-rooted cultural traditions, such as the Poro initiation rites. Korhogo serves as an essential administrative and commercial hub for the Savanes District, facilitating trade with neighboring Mali and Burkina Faso. Its unique blend of modern development and ancient customs makes it a fascinating cultural capital. Geography K7 — northern cultural landscapes.",
+      "factsAdvanced": ["Ancestral capital of the Senufo people", "Largest city in northern Ivory Coast", "Famous for Poro initiation ceremonies", "Major center for traditional wood carving and weaving", "Home to the Péléforo Gbon Coulibaly Palace", "Located at the foot of Mount Korhogo", "Key trade link with Mali and Burkina Faso", "Famous for hand-painted 'toiles de Korhogo' fabrics"]
+    },
+    {
+      "id": "man-cities-v2",
+      "descriptionAdvanced": "Man, often called the 'City of 18 Mountains,' is a picturesque city nestled in the lush highlands of western Ivory Coast. It is the capital of the Tonkpi Region and is surrounded by stunning peaks, waterfalls, and tropical forests. The city is a major center for the Dan people and is famous for its unique stilt dances and traditional masks. Man's high altitude provides a cooler climate, ideal for the cultivation of high-quality coffee and cocoa. It is a popular destination for hikers and nature lovers seeking to explore the dramatic landscapes of the West. Geography K7 — highland urban centers.",
+      "factsAdvanced": ["Known as the 'City of 18 Mountains'", "Capital of the Tonkpi Region", "Surrounded by Mount Tonkpi and Mount Toura", "Center of the Dan (Yacouba) ethnic group", "Major producer of high-quality Robusta coffee", "Famous for the 'La Cascade' waterfall", "Known for traditional stilt dances and masks", "High-altitude city with a tropical mountain climate"]
+    },
+    {
+      "id": "divo-cities-v2",
+      "descriptionAdvanced": "Divo is an important agricultural city in southern Ivory Coast, serving as the capital of the Lôh-Djiboua Region. It is a key production center for cocoa, coffee, and palm oil, contributing significantly to the national economy. The city is primarily inhabited by the Dida people, who have a rich history of resistance and cultural pride. Divo's location on the main road between Abidjan and Gagnoa makes it a busy commercial hub. The surrounding landscape is characterized by fertile soils and dense vegetation, supporting a large rural population engaged in farming. Geography K7 — southern agricultural hubs.",
+      "factsAdvanced": ["Capital of the Lôh-Djiboua Region", "Major production center for cocoa and palm oil", "Center of the Dida ethnic group", "Strategically located between Abidjan and Gagnoa", "Historically significant for Dida cultural resistance", "Key market town for agricultural products", "Surrounded by fertile forest-savanna mosaic", "Important regional administrative center"]
+    },
+    {
+      "id": "gagnoa-cities-v2",
+      "descriptionAdvanced": "Gagnoa is a prominent city in the central-western part of Ivory Coast and the capital of the Gôh Region. It is a historic heartland for the Bété people and has played a pivotal role in the country's political landscape. The city is a major hub for the cocoa and coffee industry, with a large portion of its population involved in agricultural trade. Gagnoa is also known for its vibrant cultural life, particularly its traditional music and festivals. Its location in a fertile forest region makes it one of the most productive agricultural areas in the country. Geography K7 — central-western trade hubs.",
+      "factsAdvanced": ["Capital of the Gôh Region", "Major center for the Bété ethnic group", "Significant hub for cocoa and coffee production", "Historically important in Ivorian political history", "Located in a highly fertile forest zone", "Home to several prominent Ivorian politicians", "Center for traditional Bété music and dance", "Key commercial junction in the central-west"]
+    },
+    {
+      "id": "abengourou-cities-v2",
+      "descriptionAdvanced": "Abengourou is a historic city in eastern Ivory Coast and the seat of the Indénié Kingdom. The city is a major center for the Agni people and is home to the Royal Palace of the King of Indénié, which showcases the rich heritage of the Akan group. Abengourou is also a significant agricultural hub, particularly for cocoa and coffee cultivation. Its name translates to 'I do not like long speeches' in the local language, reflecting a traditional philosophy of directness. The city combines royal tradition with modern administrative functions as the capital of the Indénié-Djuablin Region. History K8 — traditional kingdoms.",
+      "factsAdvanced": ["Seat of the Indénié Kingdom (Agni people)", "Capital of the Indénié-Djuablin Region", "Home to the historic Royal Palace", "Significant center for cocoa and coffee trade", "Founded by Akan refugees from modern-day Ghana", "Name means 'I do not like long speeches'", "Major cultural center for Agni traditions", "Located near the border with Ghana"]
+    },
+    {
+      "id": "agboville-cities-v2",
+      "descriptionAdvanced": "Agboville is a key administrative city in southeastern Ivory Coast and the capital of the Agnéby-Tiassa Region. Located relatively close to Abidjan, it was one of the first towns to be connected by the Abidjan-Niger railway, which spurred its early growth as a colonial trade center. The city is the heart of the Abbey people's territory and is historically known for the 1910 Abbey Revolt against colonial labor practices. Today, Agboville remains a major agricultural hub, producing significant quantities of cocoa, coffee, and timber for export. Geography K7 — southeastern trade centers.",
+      "factsAdvanced": ["Capital of the Agnéby-Tiassa Region", "Center of the Abbey ethnic group", "Early station on the Abidjan-Niger railway", "Site of the 1910 Abbey Revolt", "Major producer of cocoa and timber", "Close proximity to the metropolis of Abidjan", "Important regional commercial market", "Surrounded by dense forest vegetation"]
+    },
+    {
+      "id": "grand-bassam-cities-v2",
+      "descriptionAdvanced": "Grand-Bassam is a historic coastal town and the first colonial capital of Ivory Coast. Located east of Abidjan, it is famous for its 'Quartier France,' a UNESCO World Heritage site featuring elegant colonial architecture from the late 19th and early 20th centuries. The town is split between the historic colonial quarter on the seaside and the modern residential area on the mainland. Grand-Bassam is a popular tourist destination, known for its beaches, artisan workshops, and the annual Abissa festival. It remains a powerful symbol of the country's colonial history and cultural resilience. History K8 — colonial architecture.",
+      "factsAdvanced": ["First colonial capital of Ivory Coast (1893-1896)", "UNESCO World Heritage site since 2012", "Famous for its 'Quartier France' colonial buildings", "Located on the Atlantic coast east of Abidjan", "Hosts the annual Abissa cultural festival", "Split between a lagoon and the ocean", "Major center for artisan crafts and souvenirs", "Abandoned as capital due to a yellow fever epidemic"]
+    },
+    {
+      "id": "anyama-cities-v2",
+      "descriptionAdvanced": "Anyama is a growing city located just north of Abidjan, forming part of its greater metropolitan area. Historically, it developed as a significant stop on the Abidjan-Niger railway and became a major center for the kola nut trade. The city is known for its diverse population and its role as a key supplier of agricultural products to the nearby metropolis. Anyama is also home to the Alassane Ouattara Olympic Stadium in Ebimpé, making it a focal point for national sports. Its rapid urbanization reflects the continuing expansion of the country's economic heart. Geography K7 — suburban development.",
+      "factsAdvanced": ["Part of the Abidjan Autonomous District", "Major historical center for the kola nut trade", "Key station on the Abidjan-Niger railway", "Home to the Alassane Ouattara Olympic Stadium", "Rapidly growing suburban hub for Abidjan", "Center for agricultural supply to the capital", "Known for its diverse ethnic communities", "Located in the Agnéby-Tiassa transition zone"]
+    },
+    {
+      "id": "dabou-cities-v2",
+      "descriptionAdvanced": "Dabou is a historic city located on the shores of the Ébrié Lagoon, west of Abidjan. It is the capital of the Grands-Ponts Region and a major center for the Adjoukrou people. The city gained importance during the colonial era with the construction of Fort Faidherbe in 1853 to secure French control over the lagoon trade. Dabou is a significant hub for the palm oil and rubber industries, with large plantations surrounding the urban area. Its proximity to Abidjan and its lagoon-side location make it a strategic point for both transport and regional commerce. History K8 — colonial outposts.",
+      "factsAdvanced": ["Capital of the Grands-Ponts Region", "Center of the Adjoukrou ethnic group", "Site of the historic Fort Faidherbe (1853)", "Located on the northern shore of the Ébrié Lagoon", "Major center for palm oil and rubber production", "Key transport link west of Abidjan", "Famous for the Low festival of the Adjoukrou", "Strategic colonial-era military and trade post"]
+    },
+    {
+      "id": "soubr-cities-v2",
+      "descriptionAdvanced": "Soubré is a dynamic city in southwestern Ivory Coast and the capital of the Nawa Region. It is famously located at the heart of the country's most productive cocoa-growing area, often referred to as the 'cocoa loop.' The city is also known for its proximity to the Sassandra River, where the massive Soubré hydroelectric dam was built to boost national energy production. Soubré serves as a vital economic engine, driving agricultural exports and providing power to the rest of the country. The surrounding lush forest landscape is essential for the region's biodiversity. Geography K7 — energy and agriculture.",
+      "factsAdvanced": ["Capital of the Nawa Region", "Heart of the 'cocoa loop' production area", "Site of the Soubré Hydroelectric Dam", "Located on the banks of the Sassandra River", "Key economic hub in the southwestern forest zone", "Major collection point for cocoa and coffee", "Surrounded by vast agricultural plantations", "Important for national electricity generation"]
+    },
+    {
+      "id": "ferkess-dougou-cities-v2",
+      "descriptionAdvanced": "Ferkessédougou, often shortened to Ferké, is a major northern city and a critical transport hub near the borders of Mali and Burkina Faso. It is the capital of the Tchologo Region and is primarily inhabited by the Niarafolo Senufo people. The city is a vital center for the cattle trade and the sugarcane industry, housing one of the country's largest sugar refineries. Ferké's location on the Abidjan-Niger railway makes it an essential link in regional trade, connecting the southern ports with the landlocked Sahelian nations to the north. Geography K7 — northern trade and industry.",
+      "factsAdvanced": ["Capital of the Tchologo Region", "Major hub for the cattle and livestock trade", "Home to a significant sugar production industry", "Key station on the Abidjan-Niger railway", "Located near the borders of Mali and Burkina Faso", "Principal center for the Niarafolo Senufo group", "Strategically important for trans-Saharan trade", "Center for cotton and grain cultivation"]
+    },
+    {
+      "id": "tiassal-cities-v2",
+      "descriptionAdvanced": "Tiassalé is a historic and strategic city located at the confluence of the Bandama and N'Zi rivers. It serves as a major crossroads connecting Abidjan with the central and western parts of the country. During the colonial era, it was an important administrative post and a center for the ivory and rubber trade. The city is famous for its historic bridge and its role as a gateway to the Baoulé heartland. Tiassalé remains a vital agricultural hub, particularly for cocoa, coffee, and banana production, benefiting from its fertile riverine soils. History K8 — river trade routes.",
+      "factsAdvanced": ["Located at the confluence of the Bandama and N'Zi rivers", "Major crossroads connecting Abidjan to the interior", "Key producer of cocoa, coffee, and bananas", "Historic colonial-era administrative and trade post", "Known for the historic Tiassalé Bridge", "Center for regional agricultural commerce", "Gateway to the central Baoulé region", "Surrounded by diverse riverine ecosystems"]
+    },
+    {
+      "id": "issia-cities-v2",
+      "descriptionAdvanced": "Issia is a bustling city in the forest region of western Ivory Coast, known as a major hub for the 'red gold'—cocoa. It is the capital of the Issia Department and is strategically located on the main road between Daloa and Gagnoa. The city is famous for its 'Rock of Issia,' a massive granite monolith that towers over the landscape and holds cultural significance for the local population. Issia's economy is almost entirely driven by the cocoa and coffee trade, making it a vibrant center for agricultural workers and merchants from across the region. Geography K7 — western agricultural landscapes.",
+      "factsAdvanced": ["Major center for cocoa and coffee trade", "Famous for the massive 'Rock of Issia' (monolith)", "Located in the Haut-Sassandra Region", "Strategic junction between Daloa and Gagnoa", "Historically significant for the Bété people", "Vibrant market town for forest products", "Surrounded by dense tropical vegetation", "Key administrative center in the western interior"]
+    },
+    {
+      "id": "s-gu-la-cities-v2",
+      "descriptionAdvanced": "Séguéla is a historic city in northwestern Ivory Coast and the capital of the Worodougou Region. It has long been a major center for the Malinké people and a key node in the trans-Saharan trade routes. The city gained modern significance as one of the first centers for diamond mining in the country. Séguéla serves as an essential administrative and commercial hub for the Northwest, facilitating trade in cattle, kola nuts, and agricultural products. Its rich history and strategic location make it a vital cultural and economic pillar of the Woroba District. History K8 — trade and mining.",
+      "factsAdvanced": ["Capital of the Worodougou Region", "Historically important for diamond mining", "Major cultural center for the Malinké people", "Key node in ancient trans-Saharan trade routes", "Center for cattle and kola nut commerce", "Located in the northwestern savanna-forest mosaic", "Principal city of the Woroba District", "Administrative hub for regional development"]
+    },
+    {
+      "id": "guiglo-cities-v2",
+      "descriptionAdvanced": "Guiglo is an important city in the far west of Ivory Coast and the capital of the Cavally Region. Situated near the border with Liberia, it has served as a critical administrative and humanitarian center during regional conflicts. The city is a major hub for the timber and cocoa industries, surrounded by vast forests and agricultural land. Guiglo is primarily inhabited by the Wê people and is known for its traditional masks and unique cultural heritage. Its location on the N'zo River makes it a strategic point for transport and trade in the western borderlands. Geography K7 — western border regions.",
+      "factsAdvanced": ["Capital of the Cavally Region", "Located near the border with Liberia", "Major hub for the timber and cocoa industries", "Principal center for the Wê ethnic group", "Situated on the banks of the N'zo River", "Key administrative post in the far West", "Famous for traditional Wê masks and culture", "Important center for regional trade and transport"]
+    },
+    {
+      "id": "odienn-cities-v2",
+      "descriptionAdvanced": "Odienné is a major city in the far northwestern corner of Ivory Coast and the capital of the Kabadougou Region. It was historically the center of the Kabadougou Empire founded by Vakaba Touré in the 19th century and remains a heartland for the Malinké people. The city is situated in a dramatic landscape dominated by Mount Denguélé and serves as a vital trade link with neighboring Guinea and Mali. Odienné is an important center for cattle ranching, grain production, and more recently, cashew nut cultivation, reflecting its transition from a historic empire to a modern agricultural hub. History K8 — northern empires.",
+      "factsAdvanced": ["Former capital of the Kabadougou Empire", "Capital of the Kabadougou Region", "Ancestral home of the Malinké (Maninka) people", "Located near the borders of Guinea and Mali", "Dominated by the landmark Mount Denguélé", "Major center for cattle and cashew nut trade", "Home to the tomb of Vakaba Touré", "Key cultural and administrative hub in the Northwest"]
+    },
+    {
+      "id": "katiola-cities-v2",
+      "descriptionAdvanced": "Katiola is a historic city in central Ivory Coast, famous worldwide for its traditional pottery. It is the capital of the Hambol Region and is primarily inhabited by the Tagwana Senufo people. The city gained early importance as a key stop on the Abidjan-Niger railway, facilitating the export of agricultural products. Katiola is particularly renowned for the exquisite ceramic work of the Mangoro women, whose techniques have been passed down for generations. Today, it remains a vital commercial and administrative center, blending industrial development with ancient artisanal traditions. Geography K7 — traditional artisanal centers.",
+      "factsAdvanced": ["World-famous for traditional Tagwana pottery", "Capital of the Hambol Region", "Center of the Tagwana Senufo people", "Home to the Mangoro women potters", "Key station on the Abidjan-Niger railway", "Major producer of cashews and yams", "Located in the central savanna-forest transition zone", "Significant regional administrative hub"]
+    },
+    {
+      "id": "boundiali-cities-v2",
+      "descriptionAdvanced": "Boundiali is a major city in northern Ivory Coast and the capital of the Bagoué Region. It is a significant center for the Senufo people and is known for its rich cultural traditions and traditional architecture. The city is a primary hub for the cotton industry, often called the 'white gold' of the North, with several ginning factories located in the area. Boundiali also serves as a vital market for livestock and agricultural products, connecting the remote northern savannas with the rest of the country. Its scenic location near the Bagoué River adds to its regional importance. Geography K7 — northern industrial agriculture.",
+      "factsAdvanced": ["Capital of the Bagoué Region", "Major center for the Senufo ethnic group", "Hub for the cotton industry ('white gold')", "Significant market for livestock and grains", "Known for traditional Senufo architecture and crafts", "Located in the northern savanna region", "Key administrative center for the Bagoué district", "Vital trade link in northern Ivory Coast"]
+    },
+    {
+      "id": "toumodi-cities-v2",
+      "descriptionAdvanced": "Toumodi is a strategic city in central Ivory Coast and the capital of the Belier Region. It is located at a major crossroads on the highway between Abidjan and Yamoussoukro, making it an essential transit hub for passengers and goods. The city is a heartland for the Baoulé people and is surrounded by fertile agricultural land producing cocoa, coffee, and yams. Toumodi's economy is driven by its role as a commercial junction and its strong agricultural base. Its proximity to the political capital, Yamoussoukro, has spurred its development as a modern administrative center. Geography K7 — central transit hubs.",
+      "factsAdvanced": ["Capital of the Belier Region", "Major crossroads on the Abidjan-Yamoussoukro highway", "Center of the Baoulé ethnic group", "Significant producer of cocoa, coffee, and yams", "Strategically located near the political capital", "Key transit point for regional transport", "Important commercial market for central Ivory Coast", "Administrative hub for the Belier district"]
+    },
+    {
+      "id": "bingerville-cities-v2",
+      "descriptionAdvanced": "Bingerville is a historic city located just east of Abidjan, along the Ébrié Lagoon. It served as the second colonial capital of Ivory Coast from 1900 to 1934, succeeding Grand-Bassam. The city is named after the first French governor, Louis-Gustave Binger, and still houses the grand Governor's Palace, which now serves as an orphanage. Bingerville is known for its lush botanical gardens and its role as an educational center, hosting several prestigious schools and research institutions. Today, it is rapidly integrating into the Abidjan metropolitan area while preserving its quiet, colonial charm. History K8 — colonial administrative centers.",
+      "factsAdvanced": ["Second colonial capital of Ivory Coast (1900-1934)", "Named after Governor Louis-Gustave Binger", "Home to the historic Governor's Palace", "Famous for its extensive Botanical Gardens", "Major educational and research hub", "Located on the northern shore of the Ébrié Lagoon", "Part of the Abidjan Autonomous District", "Preserves significant colonial-era architecture"]
+    },
+    {
+      "id": "danan-cities-v2",
+      "descriptionAdvanced": "Danané is a major city in the far west of Ivory Coast, located near the borders of both Guinea and Liberia. It is the capital of the Danané Department and a primary center for the Dan (Yacouba) people. The city is famous for its proximity to the Cavally River and its unique 'liana bridges' (living vine bridges) that are found in nearby villages. Danané is a vital trade hub for agricultural products, especially cocoa and coffee, and has historically been a safe haven for refugees from neighboring conflicts. Its remote location in the tropical highlands gives it a unique cultural and environmental character. Geography K7 — western border trade.",
+      "factsAdvanced": ["Located near the borders of Guinea and Liberia", "Major center for the Dan (Yacouba) people", "Famous for the traditional 'liana bridges' (vine bridges)", "Significant hub for cocoa and coffee trade", "Capital of the Danané Department", "Situated in the lush western highlands", "Key humanitarian and trade center in the far West", "Known for traditional Dan masks and dances"]
+    },
+    {
+      "id": "bouna-cities-v2",
+      "descriptionAdvanced": "Bouna is a historic city in northeastern Ivory Coast and the capital of the Bounkani Region. It was the seat of the powerful Bouna Kingdom, founded in the 17th century, which controlled the gold trade between the Sahel and the coast. The city is a major center for the Lobi and Koulango peoples and is known for its traditional fortified houses. Bouna serves as the gateway to the Comoé National Park, the largest protected area in the country. Its economy is based on livestock, agriculture, and its role as a strategic administrative post near the border with Ghana. History K8 — northeastern kingdoms.",
+      "factsAdvanced": ["Seat of the historic Bouna Kingdom", "Capital of the Bounkani Region", "Gateway to the Comoé National Park (UNESCO)", "Center for the Lobi and Koulango ethnic groups", "Founded in the 17th century by King Bounkani", "Located near the border with Ghana", "Historically important for the regional gold trade", "Known for traditional Lobi architecture"]
+    }
+  ]
+}

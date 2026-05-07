@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "guyana-leguan-island-nature-v2",
+      "descriptionAdvanced": "Leguan Island is a massive, intensely cultivated landmass positioned squarely in the treacherous, roaring mouth of the Essequibo River. Covering roughly 18 square miles, the island boasts incredibly rich, dark marine alluvial soil that forms the absolute backbone of its massive agrarian economy. Dominated by expansive, beautifully geometric rice fields and dense cattle pastures, Leguan is heavily defined by its grueling, deeply traditional farming lifestyle. The island is crisscrossed by a historic, Dutch-engineered grid of massive drainage canals, absolutely essential for protecting the low-lying crops from the violent Atlantic tidal surges. Accessible exclusively by river speedboats and ferries from the Parika Stelling, Leguan fiercely guards its slow-paced, tightly knit community identity.",
+      "factsAdvanced": [
+        "A massive, incredibly fertile agrarian island anchored in the Essequibo River estuary.",
+        "Covers roughly 18 square miles of highly productive marine alluvial soil.",
+        "Dominated heavily by massive, geometric rice fields and dense cattle pastures.",
+        "Relies on a historic, highly complex Dutch-engineered drainage canal grid.",
+        "Farmers must aggressively battle extreme, violent Atlantic tidal surges.",
+        "Accessible exclusively via river speedboats and ferries from the Parika Stelling."
+      ]
+    },
+    {
+      "id": "guyana-shell-beach-nature-v2",
+      "descriptionAdvanced": "Shell Beach is an astonishing, globally significant ecological phenomenon stretching for nearly 140 kilometers along Guyana's remote northwestern Atlantic coast. Unlike typical tropical beaches, it is completely devoid of sand; instead, the entire vast coastline is formed from trillions of crushed sea shells deposited over millennia by powerful ocean currents. This utterly isolated, pristine shoreline is recognized worldwide as an absolute premier nesting ground for four massive, endangered species of marine turtles, including the colossal Leatherback. During the nesting season, the beach is fiercely protected by local indigenous wardens. Completely lacking road access or permanent settlements, Shell Beach remains one of the rawest, most incredibly wild coastal frontiers on Earth.",
+      "factsAdvanced": [
+        "An astonishing, 140-kilometer stretch of highly remote northwestern Atlantic coastline.",
+        "Completely devoid of sand, formed entirely from trillions of crushed sea shells.",
+        "Recognized globally as a premier, critical nesting ground for endangered marine turtles.",
+        "Serves as an absolute sanctuary for the colossal Leatherback and Green turtles.",
+        "Fiercely protected by local indigenous conservation wardens during nesting seasons.",
+        "Accessible only by river, representing an incredibly raw, untouched coastal frontier."
+      ]
+    },
+    {
+      "id": "guyana-mount-ayanganna-nature-v2",
+      "descriptionAdvanced": "Mount Ayanganna is a towering, terrifyingly sheer sandstone massif standing as the absolute highest fully contained mountain within the borders of Guyana. Reaching an immense elevation of 2,042 meters (6,699 feet) in the remote Pakaraima Mountains, its sheer vertical cliffs make it incredibly hostile and difficult to summit. The upper reaches of the mountain feature a highly distinct, deeply isolated cloud-forest ecosystem, teeming with bizarre endemic orchids and stunted, moss-draped trees found nowhere else on the planet. Ayanganna is deeply sacred to the indigenous Patamona people who inhabit the surrounding highlands. It represents the absolute pinnacle of unexplored, extreme biological isolation in the Guiana Shield.",
+      "factsAdvanced": [
+        "The absolute highest mountain entirely contained within the borders of Guyana.",
+        "A towering, terrifyingly sheer sandstone massif reaching 2,042 meters (6,699 feet).",
+        "Located deep within the incredibly rugged, remote Pakaraima Mountain range.",
+        "Features a deeply isolated, highly unique high-altitude cloud-forest ecosystem.",
+        "Deeply sacred and culturally significant to the indigenous Patamona nation.",
+        "Represents the absolute pinnacle of unexplored, extreme Guiana Shield ecology."
+      ]
+    },
+    {
+      "id": "guyana-mount-wokomung-nature-v2",
+      "descriptionAdvanced": "Mount Wokomung is a massive, profoundly rugged tepui (table-top mountain) dominating the remote west-central highlands of the Pakaraima range. Reaching heights of approximately 1,700 meters, this imposing sandstone fortress features sheer, vertical escarpments that effectively isolate its summit from the surrounding jungle floor. The plateau is a biological island, hosting a highly unique, deeply specialized ecosystem characterized by carnivorous pitcher plants, stunted scrub-brush, and endemic amphibian species completely cut off from evolution below. Wokomung is incredibly difficult to access, requiring grueling, multi-week jungle expeditions simply to reach its base. It stands as a terrifyingly beautiful, completely untamed monument of ancient geology.",
+      "factsAdvanced": [
+        "A massive, profoundly rugged tepui (table-top mountain) in the Pakaraima range.",
+        "Reaches an immense elevation of approximately 1,700 meters above the jungle floor.",
+        "Features utterly sheer, vertical sandstone escarpments that isolate its summit.",
+        "The summit acts as a biological island, hosting highly unique, endemic ecosystems.",
+        "Incredibly difficult to access, requiring grueling, extreme jungle expeditions.",
+        "A terrifyingly beautiful, completely untamed monument of ancient Guiana Shield geology."
+      ]
+    },
+    {
+      "id": "guyana-rewa-river-nature-v2",
+      "descriptionAdvanced": "The Rewa River is an incredibly pristine, darkly winding tributary of the massive Rupununi River, cutting through some of the most completely untouched primary rainforest left on the South American continent. Entirely devoid of heavy logging, mining, or major commercial settlement, the Rewa is globally celebrated as an absolute paradise for extreme wildlife conservation and sport fishing. The dark, tannin-rich waters are notoriously infested with massive, terrifyingly large Arapaima fish, heavily armored black caimans, and aggressive shoals of piranha. Protected fiercely by the indigenous Makushi community of Rewa village, the river represents the absolute gold standard for sustainable, community-enforced ecological preservation in the Guiana Shield.",
+      "factsAdvanced": [
+        "An incredibly pristine, dark-water tributary of the massive Rupununi River.",
+        "Flows through completely untouched, primary South American rainforest.",
+        "Entirely devoid of heavy logging, mining, or major commercial settlements.",
+        "Globally celebrated as the ultimate sanctuary for the massive, prehistoric Arapaima.",
+        "The incredibly wild waters are densely infested with terrifyingly large black caimans.",
+        "Fiercely protected and managed exclusively by the indigenous Makushi community."
+      ]
+    },
+    {
+      "id": "guyana-takutu-river-nature-v2",
+      "descriptionAdvanced": "The Takutu River is a massive, highly strategic geographical boundary, forming the vast majority of the southern international border between Guyana and the Republic of Brazil. Flowing northward through the expansive, dusty Rupununi Savannah before aggressively turning west to join the Rio Branco, the river is notoriously unpredictable. During the brutal dry season, it recedes into a series of shallow, isolated pools, but during the torrential rains, it violently overflows, flooding the entire surrounding savannah. The Takutu is the absolute economic and logistical lifeline of the deep south, spanned by the critical Takutu River Bridge at Lethem, facilitating massive cross-border trade and cultural exchange.",
+      "factsAdvanced": [
+        "Forms the massive, highly strategic southern international border with Brazil.",
+        "Flows northward through the sprawling, dusty expanse of the Rupununi Savannah.",
+        "Notoriously unpredictable, shrinking to isolated pools during the brutal dry season.",
+        "Violently overflows during monsoons, flooding the surrounding savannah ecosystem.",
+        "The absolute economic and logistical lifeline for the deep southern border region.",
+        "Spanned by the critical Takutu River Bridge, linking Lethem (Guyana) to Bonfim (Brazil)."
+      ]
+    },
+    {
+      "id": "guyana-ireng-river-nature-v2",
+      "descriptionAdvanced": "The Ireng River is a spectacularly scenic, crystal-clear waterway that acts as the northern boundary between Guyana's Potaro-Siparuni region and the Brazilian state of Roraima. Unlike the dark, heavily tannin-stained rivers typical of the deep jungle, the Ireng flows fiercely over ancient, solid beds of red jasper rock, giving it an incredibly striking visual clarity. The river is globally famous for creating the stunning Orinduik Falls, where the water dramatically cascades over vast, terraced jasper steps. Flowing southward, it is one of the very few Guyanese rivers that ultimately feeds into the massive Amazon River basin, rather than the Atlantic Ocean. It is a terrifyingly beautiful, pristine borderland.",
+      "factsAdvanced": [
+        "Forms the spectacularly scenic northern international border with Brazil.",
+        "Characterized by highly unusual, crystal-clear waters flowing over solid red jasper.",
+        "Globally famous for creating the stunning, highly terraced Orinduik Falls.",
+        "Flows uniquely southward, ultimately feeding into the massive Amazon River basin.",
+        "Contrasts sharply with the dark, tannin-stained rivers typical of the Guyanese interior.",
+        "A terrifyingly beautiful, pristine, and highly isolated geopolitical frontier."
+      ]
+    },
+    {
+      "id": "guyana-mahaica-river-nature-v2",
+      "descriptionAdvanced": "The Mahaica River is a deeply significant, intensely agricultural waterway flowing through the coastal plains east of Georgetown. Unlike the massive, turbulent interior rivers, the Mahaica is a sluggish, heavily managed artery that forms the absolute backbone of the region's massive rice and cash crop farming industries. The river's fresh water is aggressively siphoned off through a staggering network of deeply dug irrigation canals to flood the sprawling coastal polders. Its muddy estuary is heavily choked with dense, critical mangrove forests that protect the low-lying coast from violent Atlantic erosion. The Mahaica represents the extreme, highly engineered manipulation of nature required for coastal survival and agricultural dominance.",
+      "factsAdvanced": [
+        "A deeply significant, heavily managed agricultural river east of Georgetown.",
+        "The absolute hydrological backbone of the massive coastal rice farming industry.",
+        "Fresh water is aggressively diverted into a staggering network of irrigation canals.",
+        "The muddy estuary is densely choked with critical, protective mangrove forests.",
+        "Serves as a highly vital natural sea defense against violent Atlantic erosion.",
+        "Represents the extreme, highly engineered manipulation of Guyanese coastal waterways."
+      ]
+    },
+    {
+      "id": "guyana-waini-river-nature-v2",
+      "descriptionAdvanced": "The Waini River is a massive, dark, deeply winding artery dominating the extreme northwestern Barima-Waini region. Flowing through incredibly dense, pristine tropical rainforest and massive swamp systems, the river eventually empties into the Atlantic Ocean near the globally renowned Shell Beach. The Waini is an absolute lifeline for the deeply isolated indigenous communities scattered along its dark banks, providing the sole means of transportation, communication, and sustenance in a region completely devoid of road infrastructure. The incredibly rich, dark waters are heavily populated by massive river stingrays, tarpon, and stealthy coastal caimans. The river embodies the raw, impenetrable, and deeply mysterious nature of the Guyanese northwest.",
+      "factsAdvanced": [
+        "A massive, dark, deeply winding river in the extreme northwestern Barima-Waini region.",
+        "Flows through incredibly dense, pristine tropical rainforest and massive swamp systems.",
+        "Empties into the Atlantic Ocean near the globally renowned Shell Beach turtle sanctuary.",
+        "The absolute sole logistical lifeline for deeply isolated indigenous communities.",
+        "A region completely devoid of paved roads, relying entirely on heavy river transport.",
+        "The incredibly rich, dark waters are densely populated by massive river stingrays."
+      ]
+    },
+    {
+      "id": "guyana-kamarang-river-nature-v2",
+      "descriptionAdvanced": "The Kamarang River is a fierce, terrifyingly rapid waterway cutting deep through the rugged, highly elevated Pakaraima Mountains in the Cuyuni-Mazaruni region. The river is incredibly famous for plunging dramatically off the sheer sandstone escarpments to create the staggering Kamarang Great Falls, one of the most powerful and highly inaccessible waterfalls in the country. The river basin is fiercely dominated by intense, highly mechanized gold and diamond mining operations, with the water often running thick with sediment from heavy dredging. Despite the industrial scarring, the upper reaches of the Kamarang remain deeply sacred and fiercely protected by the indigenous Akawaio people who have navigated its treacherous rapids for millennia.",
+      "factsAdvanced": [
+        "A fierce, violently rapid river cutting deep through the rugged Pakaraima Mountains.",
+        "Globally famous for the staggering, highly inaccessible Kamarang Great Falls.",
+        "The river basin is intensely dominated by massive, mechanized gold and diamond dredging.",
+        "The water is heavily utilized as the primary transport route for interior mining camps.",
+        "The deeply isolated upper reaches are the ancestral homeland of the Akawaio people.",
+        "A terrifyingly powerful waterway characterized by deadly rapids and sheer escarpments."
+      ]
+    },
+    {
+      "id": "guyana-amakura-river-nature-v2",
+      "descriptionAdvanced": "The Amakura River is a highly strategic, deeply remote waterway forming the absolute extreme northwestern international border between Guyana and Venezuela. Flowing through incredibly dense, heavy mangrove swamps and pristine lowland rainforest, the river eventually feeds directly into the massive, chaotic Orinoco River delta system. The region is highly volatile and intensely sensitive due to ongoing, massive territorial disputes. The Amakura is absolutely critical for the survival of the deeply isolated indigenous Warrau people, serving as their sole highway for hunting and trade. The river is a dark, silent, and intensely wild frontier, heavily guarded and completely disconnected from the modernized coastal plains.",
+      "factsAdvanced": [
+        "Forms the absolute extreme northwestern international border with Venezuela.",
+        "Flows through incredibly dense, heavy mangrove swamps and pristine lowland rainforest.",
+        "Feeds directly into the massive, chaotic, and highly strategic Orinoco River delta.",
+        "A highly volatile, intensely sensitive region due to massive geopolitical border disputes.",
+        "The absolute sole logistical highway for the deeply isolated indigenous Warrau people.",
+        "A dark, silent, and fiercely wild frontier completely devoid of modern infrastructure."
+      ]
+    },
+    {
+      "id": "mount-wating-relief-v2",
+      "descriptionAdvanced": "Mount Wating is a deeply remote, imposing geological formation situated in the deeply forested, rugged highlands of the southern Pakaraima Mountains. Rising sharply from the surrounding dense jungle canopy, the mountain's steep, heavily vegetated slopes make it an incredibly formidable challenge for even the most experienced jungle explorers. The peak is frequently shrouded in dense, swirling cloud cover, creating a highly specialized, isolated microclimate that supports bizarre, endemic epiphytes and rare amphibians. Mount Wating holds deep spiritual significance for the local Patamona indigenous communities, who view the massive, silent peak as a sacred ancestral guardian of the upper highland valleys.",
+      "factsAdvanced": [
+        "A deeply remote, imposing mountain situated in the southern Pakaraima range.",
+        "Rises sharply and dramatically from the dense, unbroken jungle canopy.",
+        "Features incredibly steep, heavily vegetated slopes that are notoriously difficult to scale.",
+        "The summit is frequently shrouded in dense clouds, creating a highly isolated microclimate.",
+        "Supports highly specialized, endemic flora, including bizarre high-altitude epiphytes.",
+        "Holds profound, deeply sacred spiritual significance for the indigenous Patamona people."
+      ]
+    },
+    {
+      "id": "mount-makarapan-relief-v2",
+      "descriptionAdvanced": "Mount Makarapan is a stunning, highly distinct solitary massif rising abruptly and dramatically from the vast, flat expanse of the North Rupununi Savannah. Reaching an elevation of approximately 1,200 meters, this massive, sheer-sided geological anomaly is entirely detached from the larger Kanuku and Pakaraima ranges. The mountain's stark, towering profile makes it the absolute dominant navigational landmark for the entire northern savannah region. Its deeply isolated, heavily forested upper slopes harbor a highly concentrated, pristine ecosystem, teeming with rare primate species and massive harpy eagles. Makarapan is fiercely revered by the local Makushi people, who consider it a powerful, deeply spiritual center of the savannah.",
+      "factsAdvanced": [
+        "A stunning, massive solitary massif rising abruptly from the North Rupununi Savannah.",
+        "Reaches an impressive elevation of approximately 1,200 meters above the flat plains.",
+        "Entirely detached from the larger, continuous Kanuku and Pakaraima mountain ranges.",
+        "The absolute dominant visual and navigational landmark for the northern savannah.",
+        "Harbors a highly concentrated, pristine, and deeply isolated forested ecosystem.",
+        "Fiercely revered as a deeply sacred, spiritual center by the indigenous Makushi people."
+      ]
+    },
+    {
+      "id": "mount-holitipu-relief-v2",
+      "descriptionAdvanced": "Mount Holitipu is a terrifyingly massive, deeply isolated tepui (table-top mountain) located in the extreme, rugged western reaches of the Pakaraima Mountains. Characterized by utterly sheer, towering vertical cliffs of ancient sandstone, the mountain's summit is a heavily fortified biological fortress, completely cut off from the jungle floor for millions of years. This extreme geographical isolation has resulted in a staggering concentration of bizarre, endemic species, including carnivorous flora and highly specialized amphibians that exist nowhere else on Earth. Accessing the base of Holitipu requires grueling, highly dangerous multi-week expeditions through uncharted rainforest, making it one of the absolute ultimate frontiers of global geographical exploration.",
+      "factsAdvanced": [
+        "A terrifyingly massive, deeply isolated tepui in the extreme western Pakaraima Mountains.",
+        "Characterized by utterly sheer, towering vertical cliffs of incredibly ancient sandstone.",
+        "The plateau summit is a heavily fortified, completely isolated biological fortress.",
+        "Hosts a staggering concentration of bizarre, totally endemic carnivorous flora.",
+        "Access requires grueling, highly dangerous multi-week expeditions through uncharted jungle.",
+        "Considered one of the absolute ultimate, untouched frontiers of global exploration."
+      ]
+    },
+    {
+      "id": "mount-kamakusa-relief-v2",
+      "descriptionAdvanced": "Mount Kamakusa is a sprawling, deeply rugged mountain complex dominating the heavily mined, chaotic Mazaruni River basin. The mountain is heavily scarred and profoundly influenced by decades of aggressive, mechanized gold and diamond extraction occurring violently at its base. Despite the heavy industrial activity below, the upper, incredibly steep slopes of Kamakusa remain densely forested and terrifyingly wild. The mountain acts as a massive geological funnel, directing torrential rains down sheer escarpments to feed the heavily dredged Mazaruni River. Kamakusa stands as a stark, towering monument to the brutal intersection of ancient, immovable Guiana Shield geology and intense, destructive human resource extraction.",
+      "factsAdvanced": [
+        "A sprawling, deeply rugged mountain complex in the Mazaruni River basin.",
+        "Located in an area heavily dominated by aggressive, mechanized gold and diamond mining.",
+        "The deeply steep, upper slopes remain densely forested and terrifyingly wild.",
+        "Acts as a massive geological funnel, directing torrential rains into the mining districts.",
+        "Stands as a stark monument to the brutal intersection of ancient geology and modern mining.",
+        "The surrounding terrain is heavily scarred by decades of intense, violent river dredging."
+      ]
+    },
+    {
+      "id": "merume-mountains-relief-v2",
+      "descriptionAdvanced": "The Merume Mountains form an incredibly dense, terrifyingly steep sub-range within the broader Pakaraima massif, intensely famous among global geologists. The range is the absolute exclusive global source of 'merumite', an incredibly rare, bizarre chromium-rich mineral found nowhere else on the planet. The mountains themselves are staggeringly rugged, featuring deep, pitch-black gorges and towering, sheer sandstone cliffs draped in heavy, permanent cloud cover. The incredibly hostile, fractured terrain makes the Merume range virtually impenetrable, deeply frustrating large-scale mining operations and ensuring the preservation of its raw, primordial ecosystem. It remains one of the most highly mysterious, geologically profound anomalies in South America.",
+      "factsAdvanced": [
+        "An incredibly dense, terrifyingly steep sub-range within the Pakaraima massif.",
+        "The absolute exclusive global source of 'merumite', an incredibly rare chromium mineral.",
+        "Features deeply rugged terrain, pitch-black gorges, and sheer sandstone cliffs.",
+        "The exceptionally hostile, fractured geography renders the range virtually impenetrable.",
+        "The extreme terrain has successfully frustrated and prevented massive commercial mining.",
+        "Considered one of the most highly mysterious, geologically profound anomalies on Earth."
+      ]
+    },
+    {
+      "id": "imataka-mountains-relief-v2",
+      "descriptionAdvanced": "The Imataka Mountains form a deeply strategic, massively resource-rich highland range located in the extreme northwestern corner of Guyana, spilling heavily across the highly contested border into Venezuela. This ancient, sprawling geological formation is globally renowned for containing absolutely staggering, world-class deposits of high-grade iron ore and manganese. The incredibly dense, unbroken primary rainforest blanketing the range makes extraction intensely difficult, requiring massive logistical engineering to navigate the steep, muddy terrain. The Imataka range serves as the absolute geographical backbone of the Barima-Waini region, heavily dictating the flow of the major northwestern rivers and acting as a terrifyingly rugged, deeply wild geopolitical frontier.",
+      "factsAdvanced": [
+        "A deeply strategic, massively resource-rich highland range in the extreme northwest.",
+        "Spills heavily across the highly contested international border into Venezuela.",
+        "Globally renowned for containing staggering, world-class deposits of iron ore and manganese.",
+        "Blanketed entirely by incredibly dense, unbroken, and challenging primary rainforest.",
+        "Serves as the absolute geographical and hydrological backbone of the Barima-Waini region.",
+        "A terrifyingly rugged, deeply wild, and highly sensitive geopolitical frontier."
+      ]
+    },
+    {
+      "id": "mount-appokail-relief-v2",
+      "descriptionAdvanced": "Mount Appokail is an incredibly prominent, fiercely isolated peak rising dramatically from the deeply folded, incredibly rugged highlands of the upper Cuyuni-Mazaruni region. The mountain is incredibly difficult to access, entirely surrounded by some of the most violently rapid-filled rivers and dense, impenetrable jungle on the continent. Its towering, sheer rock faces are heavily scoured by intense, continuous tropical rainfall, creating a massive network of spectacular, uncharted ephemeral waterfalls. Appokail is deeply revered by the highly isolated Akawaio indigenous communities, who view the massive, cloud-piercing summit as the absolute domain of ancient, powerful mountain spirits. It is a stunning, completely untamed monument of the Guiana Shield.",
+      "factsAdvanced": [
+        "An incredibly prominent, fiercely isolated peak in the upper Cuyuni-Mazaruni highlands.",
+        "Entirely surrounded by violently rapid-filled rivers and impenetrable primary jungle.",
+        "Features towering, sheer rock faces heavily scoured by intense tropical rainfall.",
+        "Hosts a massive network of spectacular, entirely uncharted ephemeral waterfalls.",
+        "Deeply revered as a highly sacred spiritual domain by the Akawaio indigenous people.",
+        "An absolutely stunning, completely untamed geological monument of the Guiana Shield."
+      ]
+    },
+    {
+      "id": "mount-weitipu-relief-v2",
+      "descriptionAdvanced": "Mount Weitipu is a staggering, intensely dramatic tepui (table-top mountain) located in the extreme, highly rugged western Pakaraima Mountains, standing as a massive geological sentinel near the Brazilian border. The mountain is characterized by absolutely sheer, vertical sandstone walls that plunge hundreds of meters straight down into the dark, incredibly dense rainforest canopy. The isolated, deeply weathered summit plateau is a terrifyingly alien environment, featuring bizarre rock labyrinths, deep sinkholes, and a staggering array of highly endemic, carnivorous plant species. Weitipu represents the absolute extreme of geographical isolation, successfully repelling all but the most highly equipped, elite global mountaineering expeditions.",
+      "factsAdvanced": [
+        "A staggering, intensely dramatic tepui located in the extreme western Pakaraima Mountains.",
+        "Characterized by absolutely sheer, vertical sandstone walls plunging hundreds of meters.",
+        "The summit plateau features terrifyingly alien rock labyrinths and deep sinkholes.",
+        "Hosts a staggering array of highly endemic, uniquely specialized carnivorous plants.",
+        "Represents the absolute extreme of complete geographical and biological isolation.",
+        "Successfully repels all but the most highly equipped, elite global mountaineering teams."
+      ]
+    },
+    {
+      "id": "mount-tulameng-relief-v2",
+      "descriptionAdvanced": "Mount Tulameng is a highly massive, deeply remote highland massif located squarely in the densely forested, intensely rugged interior of the Cuyuni-Mazaruni region. The mountain is deeply significant to geologists as it forms a critical part of the ancient, immovable core of the Guiana Shield. Its incredibly steep, heavily forested slopes are completely devoid of any human trails or infrastructure, making it a fierce, impenetrable biological fortress. Tulameng acts as a massive hydrological generator, capturing intense atmospheric moisture and violently channeling it down into the heavily mined river basins below. The mountain stands as a silent, terrifyingly wild giant completely untouched by the modern world.",
+      "factsAdvanced": [
+        "A highly massive, deeply remote massif in the intensely rugged Cuyuni-Mazaruni region.",
+        "Forms a critical, incredibly ancient part of the immovable core of the Guiana Shield.",
+        "Features incredibly steep, heavily forested slopes completely devoid of human infrastructure.",
+        "Acts as a massive biological fortress and a highly critical hydrological generator.",
+        "Violently channels intense atmospheric moisture down into the surrounding river basins.",
+        "Stands as a silent, terrifyingly wild geological giant untouched by modern exploration."
+      ]
+    },
+    {
+      "id": "mount-maringma-relief-v2",
+      "descriptionAdvanced": "Mount Maringma is a highly spectacular, towering tepui located exactly on the incredibly remote, deeply contested triple-border juncture of Guyana, Venezuela, and Brazil. Rising dramatically to an elevation of over 2,100 meters, its utterly vertical, pitch-black cliffs are highly reminiscent of the legendary Mount Roraima. The summit is a brutally harsh, highly isolated ecological zone, constantly battered by extreme winds and torrential rains, yet supporting a massive array of bizarre, highly endemic flora. Maringma is incredibly significant geopolitically, serving as the absolute, immovable stone pillar defining the extreme limits of Guyanese sovereign territory in the deeply untamed, uncharted western highlands.",
+      "factsAdvanced": [
+        "A highly spectacular, towering tepui reaching an elevation of over 2,100 meters.",
+        "Located exactly on the deeply remote triple-border of Guyana, Venezuela, and Brazil.",
+        "Features utterly vertical, pitch-black cliffs that are terrifyingly difficult to scale.",
+        "The harsh, highly isolated summit supports a massive array of bizarre, endemic flora.",
+        "Serves as the absolute, immovable stone pillar defining the extreme western border.",
+        "A deeply untamed, incredibly rugged geopolitical and ecological frontier."
+      ]
+    },
+    {
+      "id": "kamoa-mountains-relief-v2",
+      "descriptionAdvanced": "The Kamoa Mountains constitute a massive, deeply mysterious, and entirely unexplored highland range in the extreme deep south of Guyana, near the Brazilian border. The range is incredibly low and rolling compared to the towering Pakaraimas, but it is completely blanketed by arguably the most dense, pristine, and terrifyingly impenetrable primary rainforest on the planet. Situated squarely within the Wai-Wai Community Owned Conservation Area, the Kamoa range has seen virtually zero modern scientific exploration. It is the absolute heart of darkness in the Guyanese jungle, harboring massive, uncatalogued biodiversity and serving as the deeply sacred, fiercely protected hunting grounds for the isolated Wai-Wai nation.",
+      "factsAdvanced": [
+        "A massive, entirely unexplored highland range located in the extreme deep south of Guyana.",
+        "Blanketed by arguably the most dense, terrifyingly impenetrable rainforest on Earth.",
+        "Situated squarely within the highly protected Wai-Wai Community Conservation Area.",
+        "Has experienced virtually zero modern scientific exploration or geological mapping.",
+        "Harbors massive, completely uncatalogued biodiversity within its deep, dark valleys.",
+        "Serves as the deeply sacred, fiercely protected ancestral hunting grounds of the Wai-Wai."
+      ]
+    },
+    {
+      "id": "ebini-mountain-relief-v2",
+      "descriptionAdvanced": "Ebini Mountain is a highly distinct, rugged geological prominence located in the deeply challenging, sandy terrain of the intermediate savannahs near the Berbice River. Unlike the towering sandstone tepuis of the west, Ebini is characterized by heavily eroded, iron-rich laterite soils and dense scrub-brush vegetation. The mountain provides a massive, sweeping vantage point over the otherwise flat, dusty savannah ecosystem. Historically, the harsh, highly acidic terrain surrounding the mountain was heavily utilized for aggressive agricultural research, pushing the absolute limits of commercial cattle ranching in the interior. Ebini Mountain stands as a stark, lonely sentinel overlooking the fierce, unyielding landscape of the intermediate plains.",
+      "factsAdvanced": [
+        "A highly distinct, rugged geological prominence located in the intermediate savannahs.",
+        "Situated in deeply challenging, highly acidic sandy terrain near the Berbice River.",
+        "Characterized by heavily eroded, iron-rich laterite soils and dense scrub vegetation.",
+        "Provides a massive, sweeping panoramic vantage point over the flat, dusty plains.",
+        "Overlooks the fiercely historic Ebini agricultural and cattle ranching research stations.",
+        "Stands as a stark, lonely sentinel in one of the most physically challenging regions of Guyana."
+      ]
+    },
+    {
+      "id": "mabura-hill-relief-v2",
+      "descriptionAdvanced": "Mabura Hill is a deeply significant, heavily industrialized highland area located in the Upper Demerara-Berbice region, fundamentally synonymous with Guyana's massive commercial timber industry. For decades, the area surrounding Mabura Hill was the absolute epicenter of the nation's logging operations, featuring a massive, sprawling complex of sawmills, heavy equipment depots, and extensive logging roads violently carved into the primary rainforest. While the scale of logging has fluctuated, the incredibly durable, ancient laterite roads built around the hill remain the absolute critical logistical spine connecting the coastal capital to the deep interior town of Lethem. Mabura is a stark, rugged monument to heavy industrial forestry.",
+      "factsAdvanced": [
+        "A deeply significant, heavily industrialized highland in Upper Demerara-Berbice.",
+        "Fundamentally synonymous with Guyana's massive, historic commercial timber operations.",
+        "Historically the absolute epicenter of the nation's most intense logging complexes.",
+        "Surrounded by an extensive, brutal network of logging roads carved into the jungle.",
+        "The laterite roads here form the absolute critical logistical spine to the deep interior.",
+        "A stark, incredibly rugged monument to the era of massive industrial forestry."
+      ]
+    },
+    {
+      "id": "konawaruk-forest-relief-v2",
+      "descriptionAdvanced": "The Konawaruk Forest is a massive, heavily exploited, and ecologically devastated zone located in the Potaro-Siparuni region, serving as the absolute epicenter of Guyana's intense gold mining operations. Geographically, the area is deeply rugged, cut by the once-pristine Konawaruk River. However, decades of aggressive, highly mechanized gold dredging and massive hydraulic mining have violently scarred the landscape, transforming vast tracts of primary rainforest into heavily cratered, barren moonscapes. The region is a chaotic, intense frontier of diesel engines, deep mud pits, and transient mining camps. Konawaruk represents the absolute, terrifying extreme of environmental destruction driven by the relentless, brutal pursuit of the Guiana Shield's mineral wealth.",
+      "factsAdvanced": [
+        "A massive, highly rugged zone located in the deeply interior Potaro-Siparuni region.",
+        "The absolute epicenter of Guyana's most intense, aggressive gold mining operations.",
+        "Decades of massive mechanized dredging have violently scarred and devastated the landscape.",
+        "Vast tracts of ancient primary rainforest have been reduced to barren, cratered moonscapes.",
+        "A chaotic, intense frontier heavily dominated by diesel engines and transient mining camps.",
+        "Represents the terrifying extreme of environmental destruction caused by gold extraction."
+      ]
+    }
+  ]
+}

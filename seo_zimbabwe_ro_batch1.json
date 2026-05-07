@@ -1,0 +1,27 @@
+{
+  "lang": "ro",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts",
+    "lib/visualLab/data/poiExtraZimbabweEconomicV2.ts",
+    "lib/visualLab/data/poiExtraZimbabweHistoryV2.ts",
+    "lib/visualLab/data/poiExtraZimbabweLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraZimbabweLifeV2.ts",
+    "lib/visualLab/data/poiExtraZimbabweNatureV2.ts",
+    "lib/visualLab/data/poiExtraZimbabweReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "harare-cities-v2",
+      "descriptionAdvanced": "Harare este capitala și cel mai mare oraș din Zimbabwe, servind drept centru politic, financiar și cultural al națiunii. Fondat în 1890 sub numele de Fort Salisbury, orașul s-a dezvoltat rapid datorită locației sale pe platoul înalt, care oferă un climat moderat. Astăzi, Harare este cunoscut pentru bulevardele sale largi, arborii de jacaranda și amestecul de arhitectură colonială și zgârie-nori moderni. Educația este un pilon principal, găzduind Universitatea din Zimbabwe. Geografie K7 – dezvoltare urbană și zone climatice.",
+      "factsAdvanced": [
+        "Fondat: 1890 ca Fort Salisbury.",
+        "Altitudine: Aproximativ 1.483 metri.",
+        "Populație: Peste 2 milioane de locuitori în zona metropolitană.",
+        "Punct de reper: Monumentul National Heroes Acre.",
+        "Climat: Climat subtropical de podiș.",
+        "Guvernanță: Sediul Parlamentului din Zimbabwe."
+      ]
+    }
+  ]
+}

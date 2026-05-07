@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMaliHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts",
+    "lib/visualLab/data/poiExtraMaliReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mopti-cities-v2",
+      "descriptionAdvanced": "Mopti, often called the 'Venice of Mali,' is a vibrant port city situated at the confluence of the Niger and Bani Rivers. As a critical commercial hub, it bridges the gap between the northern desert regions and the fertile south. The city is famous for its bustling harbor, where traditional pinasses (large wooden boats) transport goods and people across the vast Inner Niger Delta. Mopti's architecture is a striking blend of Sudano-Sahelian styles, most notably seen in its Great Mosque. The city's multi-ethnic population, including Bozo, Fulani, and Bambara peoples, contributes to a rich cultural tapestry centered around fishing and trade. Geography K7 — River ports and trade hubs.",
+      "factsAdvanced": [
+        "Known as the 'Venice of Mali' due to its river location",
+        "Located at the confluence of the Niger and Bani Rivers",
+        "Major center for the Bozo fishing community",
+        "Home to a magnificent Sudano-Sahelian Great Mosque",
+        "The city's port is the busiest in the Inner Niger Delta",
+        "Acts as a strategic gateway to the Dogon Country",
+        "Renowned for its vibrant daily markets and spice trade",
+        "Founded on three islands connected by dykes"
+      ]
+    },
+    {
+      "id": "koutiala-cities-v2",
+      "descriptionAdvanced": "Koutiala is the industrial heart of southern Mali, widely recognized as the 'Capital of White Gold' due to its central role in the cotton industry. Located in the fertile Sikasso Region, the city hosts several large-scale cotton ginning plants operated by the CMDT, making it a cornerstone of Mali's national economy. Beyond industry, Koutiala is a vital agricultural center for grain production, particularly millet and sorghum. The city's growth has been fueled by its position as a major transport junction between Bamako and the southern borders. Its urban landscape is characterized by industrial facilities and vibrant marketplaces that reflect its economic dynamism. Economy K6 — Industrial centers and agriculture.",
+      "factsAdvanced": [
+        "Known as the 'Capital of White Gold' for its cotton production",
+        "Host to one of the largest cotton ginning plants in West Africa",
+        "Third largest city in Mali by population and economic output",
+        "Center for the CMDT (Compagnie Malienne pour le Développement des Textiles)",
+        "Crucial hub for the production of millet, sorghum, and maize",
+        "Located in the fertile and high-rainfall Sikasso Region",
+        "Strategic crossroads for trade between Mali and Burkina Faso",
+        "A major center for agricultural research and development"
+      ]
+    },
+    {
+      "id": "kayes-cities-v2",
+      "descriptionAdvanced": "Kayes, situated in western Mali on the banks of the Senegal River, is famously known as the 'Pressure Cooker of Africa' due to its extreme heat. Historically, the city rose to prominence as a vital link in the colonial railway connecting Dakar to the Niger River, serving as the first capital of French Sudan. Today, Kayes remains a strategic gateway for trade with Senegal and Mauritania. Its architecture reflects its colonial heritage, with well-preserved brick buildings from the late 19th century. The region surrounding the city is also a major center for gold mining, contributing significantly to the national treasury. Geography K7 — Extreme climates and transport history.",
+      "factsAdvanced": [
+        "Known as the 'Pressure Cooker of Africa' for its high temperatures",
+        "Served as the first capital of French Sudan (1892–1899)",
+        "Key station on the Dakar-Niger Railway line",
+        "Strategically located on the banks of the Senegal River",
+        "Major logistics hub for trade between Mali and Senegal",
+        "Surrounded by some of West Africa's largest gold mines",
+        "Features unique red-brick colonial-style architecture",
+        "Home to the regional airport connecting western Mali"
+      ]
+    },
+    {
+      "id": "segou-cities-v2",
+      "descriptionAdvanced": "Ségou, the former capital of the powerful Bambara Empire, is a city steeped in history and colonial elegance. Located on the Niger River, it is characterized by its wide, tree-lined boulevards and distinctive red-clay colonial architecture. The city is a major administrative and educational center, also serving as the headquarters for the Office du Niger irrigation project. Ségou is renowned for its vibrant arts scene, particularly its traditional pottery and the 'bogolan' (mud-cloth) textiles. The nearby Ségou-Koro village offers a glimpse into the city's imperial past, preserving the tomb of King Biton Coulibaly. Culture K7 — Historical capitals and traditional crafts.",
+      "factsAdvanced": [
+        "Former capital of the Bambara Empire in the 18th century",
+        "Often called the 'City of Balanzans' after its sacred acacia trees",
+        "Headquarters of the massive Office du Niger irrigation scheme",
+        "Famous for the annual Festival sur le Niger music event",
+        "Renowned center for traditional mud-cloth (bogolan) production",
+        "Features unique Sudano-Sahelian and colonial architecture",
+        "Strategically located 235 km downstream from Bamako",
+        "Home to the tomb of Biton Coulibaly in Ségou-Koro"
+      ]
+    },
+    {
+      "id": "nioro-du-sahel-cities-v2",
+      "descriptionAdvanced": "Nioro du Sahel is a historic religious and commercial center located in northwestern Mali, near the Mauritanian border. Founded in the 16th century, the city became a major stronghold of the Toucouleur Empire under El Hadj Umar Tall in the 19th century. It remains one of West Africa's most important pilgrimage sites for the Tijaniyya Sufi order, housing several monumental mosques. The city's economy is deeply rooted in trans-Saharan trade, particularly in livestock and traditional goods. Its position on the edge of the Sahel makes it a vital cultural bridge between the nomadic desert peoples and the sedentary populations of the south. History K8 — Religious centers and the Toucouleur Empire.",
+      "factsAdvanced": [
+        "Major pilgrimage center for the Tijaniyya Sufi brotherhood",
+        "Former capital of the Toucouleur Empire in the 19th century",
+        "Strategically located near the border with Mauritania",
+        "Founded in the 16th century by a Diawando merchant",
+        "Features the historic Great Mosque built by El Hadj Umar Tall",
+        "Important hub for the livestock trade in the Sahel region",
+        "Known for its traditional Islamic scholarship and schools",
+        "Served as a key point on the trans-Saharan trade routes"
+      ]
+    },
+    {
+      "id": "niono-cities-v2",
+      "descriptionAdvanced": "Niono is a bustling agricultural town in the Ségou Region, serving as a primary processing center for the Office du Niger irrigation project. Known for its lush surroundings amidst the arid Sahel, the town is a testament to human engineering and water management. Niono is the 'rice capital' of Mali, surrounded by vast, emerald-green paddy fields that produce a significant portion of the nation's food supply. The town is also architecturally famous for its Great Mosque, a masterpiece of modern Sudano-Sahelian mud architecture that won the Aga Khan Award. It is a vibrant community where modern agricultural techniques meet traditional Sahelian life. Economy K6 — Irrigation and rice production.",
+      "factsAdvanced": [
+        "Major agricultural hub for the Office du Niger project",
+        "Known as the center of Mali's intensive rice production",
+        "Home to a world-renowned Aga Khan Award-winning Great Mosque",
+        "Strategically located in the heart of the Delta dead zone",
+        "Features a vast network of irrigation canals and water gates",
+        "Primary market for agricultural equipment and fertilizers",
+        "Vital for Mali's national food security strategy",
+        "Host to numerous rice processing and packaging facilities"
+      ]
+    },
+    {
+      "id": "markala-cities-v2",
+      "descriptionAdvanced": "Markala is a strategic town on the Niger River, best known for its massive diversion dam, the largest of its kind in West Africa. Built during the colonial era to facilitate the Office du Niger irrigation scheme, the dam is a marvel of early 20th-century engineering that transformed the region's landscape. The town serves as a vital transport node, where the road to Mopti crosses the river. Markala is also a cultural center, famous for its traditional puppet festivals and masks, which draw visitors from across the country. Its economy is a mix of river-based trade, sugar production, and agricultural services. Geography K7 — Large-scale infrastructure and irrigation.",
+      "factsAdvanced": [
+        "Site of the largest diversion dam in West Africa (816m long)",
+        "Crucial for the irrigation of over 100,000 hectares of land",
+        "Major center for sugar cane production and processing",
+        "Located 35 km downstream from the city of Ségou",
+        "Known for its spectacular traditional puppet and mask festivals",
+        "Strategically connects the southern and central regions of Mali",
+        "Built between 1934 and 1947 by the colonial administration",
+        "Provides a vital bridge for road traffic over the Niger River"
+      ]
+    },
+    {
+      "id": "kolondieba-cities-v2",
+      "descriptionAdvanced": "Kolondiéba is a prominent town in southern Mali, located in the Sikasso Region near the border with Ivory Coast. This area is characterized by a humid Sudano-Guinean climate, making it one of the most productive agricultural zones in the country. The town serves as an important administrative center for a district known for its diverse crops, including cotton, maize, and yams. Kolondiéba is also a cultural crossroads where the Bambara and Senufo traditions blend, reflected in local music and art. Its proximity to the border makes it a significant point for regional trade and migration between Mali and its southern neighbors. Geography K7 — Agricultural diversity in the south.",
+      "factsAdvanced": [
+        "Located in the high-rainfall Sudano-Guinean climatic zone",
+        "Strategic administrative center in the Sikasso Region",
+        "Major producer of cotton, maize, yams, and peanuts",
+        "Situated near the international border with Ivory Coast",
+        "Cultural hub for the Bambara and Senufo ethnic groups",
+        "Known for its vibrant weekly markets and agricultural trade",
+        "Surrounded by lush forests and fertile savannah landscapes",
+        "Key point for cross-border migration and regional commerce"
+      ]
+    },
+    {
+      "id": "kati-cities-v2",
+      "descriptionAdvanced": "Kati is a major garrison town and transport hub located just 15 kilometers northwest of Bamako. Situated on the plateau overlooking the capital, its higher elevation provides a slightly cooler climate. Kati is famously known for hosting Mali's largest military base, the Soundiata Keïta Camp, which has played a central role in the country's political history. The town is also a critical junction on the Dakar-Niger Railway and the main road leading to western Mali and Senegal. Its proximity to Bamako has led to rapid urban growth, making it a vital residential and commercial satellite of the capital. History K8 — Military influence and urban growth.",
+      "factsAdvanced": [
+        "Host to Mali's largest and most influential military base",
+        "Located on a plateau 15 km from the capital, Bamako",
+        "Strategic junction on the Dakar-Niger Railway line",
+        "Main gateway for road traffic arriving from Senegal",
+        "Known for its slightly cooler climate due to its elevation",
+        "Rapidly growing satellite city with a large commuter population",
+        "Named after the Soundiata Keïta Camp, a key military site",
+        "Significant center for cattle trade and regional markets"
+      ]
+    },
+    {
+      "id": "gao-cities-v2",
+      "descriptionAdvanced": "Gao is a legendary city in eastern Mali, once the glorious capital of the Songhai Empire at its peak in the 15th and 16th centuries. Situated on the left bank of the Niger River at the edge of the Sahara, it has served for centuries as a vital terminal for trans-Saharan trade. The city is home to the Tomb of Askia, a UNESCO World Heritage site and a masterpiece of Sudano-Sahelian mud architecture. Gao remains a crucial strategic and cultural center for northern Mali, inhabited by a diverse population of Songhai, Tuareg, and Peul peoples. Its history is visible in its ancient ruins and vibrant river port. History K8 — The Songhai Empire and desert trade.",
+      "factsAdvanced": [
+        "Former capital of the powerful Songhai Empire",
+        "Home to the UNESCO-listed Tomb of Askia (built in 1495)",
+        "Strategic river port on the eastern bend of the Niger",
+        "Historical terminal for trans-Saharan salt and gold trade",
+        "Located at the edge of the Sahara and the Sahel regions",
+        "Known for its spectacular 'Red Dune' (Dune Rose)",
+        "Center for Songhai culture and Islamic scholarship",
+        "Strategically connects northern Mali with Niger and Algeria"
+      ]
+    },
+    {
+      "id": "bougouni-cities-v2",
+      "descriptionAdvanced": "Bougouni is a thriving town in southern Mali, serving as a vital link between Bamako and the southern borders with Guinea and Ivory Coast. Located in the Sikasso Region, it is the center of a rich agricultural area known for its cotton and livestock production. The town is architecturally diverse, featuring colonial-era buildings alongside modern developments. Bougouni is also becoming an industrial hub with the discovery of significant lithium deposits nearby, promising to transform the local economy. Its vibrant culture is marked by traditional music and its position as a gateway to the diverse landscapes of southern Mali. Economy K6 — Mineral resources and transport.",
+      "factsAdvanced": [
+        "Key transport hub between Bamako and the Ivory Coast border",
+        "Center for a major emerging lithium mining project",
+        "Important administrative capital of the Bougouni Cercle",
+        "Major producer of cotton and regional livestock",
+        "Features well-preserved colonial-era administrative buildings",
+        "Located in the relatively humid and fertile southern zone",
+        "Strategic point for the regional trade of agricultural goods",
+        "Gateway to the scenic Wassoulou region of southern Mali"
+      ]
+    },
+    {
+      "id": "tombouctou-cities-v2",
+      "descriptionAdvanced": "Timbuktu, often referred to as the 'City of 333 Saints,' is one of the world's most legendary historical centers. Located on the edge of the Sahara, it rose to fame in the 14th century as a wealthy hub of the gold and salt trade and a world-renowned center of Islamic learning. The city is home to three iconic mosques—Djingareyber, Sankore, and Sidi Yahya—which form part of its UNESCO World Heritage listing. Timbuktu's ancient libraries house thousands of medieval manuscripts covering science, law, and history, proving Africa's long-standing intellectual tradition. Today, it remains a symbol of mystery and resilience in the desert. History K8 — Islamic scholarship and trans-Saharan trade.",
+      "factsAdvanced": [
+        "Renowned as the 'City of 333 Saints' and a center of learning",
+        "Home to the world-famous Sankore Madrasah (University)",
+        "UNESCO World Heritage site with three 14th-century mosques",
+        "Historical center of the trans-Saharan gold and salt trade",
+        "Houses thousands of priceless medieval African manuscripts",
+        "Reached its peak under the Mali Empire and Mansa Musa",
+        "Strategically located near the northernmost bend of the Niger",
+        "Symbolizes the 'Golden Age' of West African civilization"
+      ]
+    },
+    {
+      "id": "banamba-cities-v2",
+      "descriptionAdvanced": "Banamba is a historic and culturally significant town located in the Koulikoro Region, north of Bamako. It is widely known in Mali as a major center for Islamic education and traditional scholarship, with numerous madrassas (Quranic schools) that attract students from across the region. The town is also an important agricultural hub, specializing in the production of millet, sorghum, and peanuts. Historically, Banamba was a key point on the trade routes connecting the Sahel to the Niger valley. Its community is known for its strong traditional values and its historic resistance during the colonial period. Culture K7 — Traditional education and Sahelian agriculture.",
+      "factsAdvanced": [
+        "Major center for Islamic scholarship and Quranic schools",
+        "Located in the semi-arid transition zone of the Sahel",
+        "Key producer of millet, sorghum, and groundnuts (peanuts)",
+        "Known for its historic 1905 anti-slavery movement",
+        "Strategic market town on the northern plains of Koulikoro",
+        "Center for traditional Malinké and Bambara cultural values",
+        "Host to a large and vibrant weekly livestock market",
+        "Significantly influenced by its proximity to the Sahara edge"
+      ]
+    },
+    {
+      "id": "san-cities-v2",
+      "descriptionAdvanced": "San is a key commercial and agricultural town located in the Ségou Region, strategically positioned on the main road between Bamako and Mopti. It is the heart of a productive agricultural basin, particularly famous for its high-quality cotton and grain production. The town's architecture is dominated by its magnificent Great Mosque, built in the Sudano-Sahelian style, which is one of the most beautiful examples of mud-brick construction in Mali. San is also famous for the annual 'Sanké mon' fishing festival, an UNESCO-listed event held at the nearby Sanké pond. It is a vibrant hub where traditional Sahelian culture and modern commerce meet. Culture K7 — Festivals and religious architecture.",
+      "factsAdvanced": [
+        "Center of the annual 'Sanké mon' ritual fishing festival",
+        "Home to a spectacular Sudano-Sahelian Great Mosque",
+        "Key logistics hub on the highway connecting Bamako to the north",
+        "Major industrial center for cotton ginning and grain trade",
+        "Located in the fertile Bani River floodplains",
+        "Known for its unique traditional mud-cloth (bogolan) patterns",
+        "The 'Sanké mon' festival is inscribed on the UNESCO Intangible List",
+        "Strategic market for agricultural products from central Mali"
+      ]
+    },
+    {
+      "id": "koulikoro-cities-v2",
+      "descriptionAdvanced": "Koulikoro is a historic river port and administrative capital located on the Niger River, about 60 kilometers downstream from Bamako. As the terminus of the Dakar-Niger Railway, the city served as a vital transshipment point for goods moving between the Atlantic coast and the interior of West Africa. Today, it remains an important industrial center, hosting one of Mali's largest cottonseed oil refineries (HUICOMA) and a major shipyard. Koulikoro is also famous for the 'Nianan Koulou' (Nianan Hill), a sacred site in Manding mythology. Its beautiful riverfront and strategic importance make it a key city in Mali's transport network. Geography K7 — River transport and industrial heritage.",
+      "factsAdvanced": [
+        "Terminus of the strategic Dakar-Niger Railway line",
+        "Major river port connecting Bamako to the Inner Niger Delta",
+        "Home to the Nianan Hill, a sacred site of local legends",
+        "Site of one of Mali's largest industrial oil refineries",
+        "Administrative capital of the Koulikoro Region",
+        "Key center for riverboat construction and maintenance",
+        "Located at the foot of the scenic Manding Mountains",
+        "Strategically important for the transport of heavy goods"
+      ]
+    },
+    {
+      "id": "djenne-cities-v2",
+      "descriptionAdvanced": "Djenné is one of the most iconic and architecturally unique cities in the world, often described as a living museum of West African history. Located on an island in the Bani River floodplain, it has been a center of commerce and Islamic scholarship since the 9th century. The city is entirely built of 'banco' (sun-dried mud brick) and is dominated by the Great Mosque of Djenné, the largest mud structure on Earth and a UNESCO World Heritage site. Every year, the entire community participates in the ritual replastering of the mosque, a testament to the city's collective spirit. Djenné's narrow, winding streets reflect its medieval origins and its enduring cultural importance. History K8 — Mud architecture and medieval trade.",
+      "factsAdvanced": [
+        "Home to the largest mud-brick building in the world",
+        "Entire city is a UNESCO World Heritage site since 1988",
+        "Founded in the 9th century near the site of Djenné-Djenno",
+        "Renowned center of Islamic learning and ancient manuscripts",
+        "Located on an island formed by the Bani and Niger rivers",
+        "Famous for the annual community replastering of the mosque",
+        "Host to one of West Africa's most vibrant weekly markets",
+        "Exemplifies the Sudano-Sahelian architectural style"
+      ]
+    },
+    {
+      "id": "kidal-cities-v2",
+      "descriptionAdvanced": "Kidal is a remote and strategic city in northeastern Mali, located in the heart of the Adrar des Ifoghas mountains. As a primary center for the Tuareg people, it is a city of immense cultural and political significance in the Sahara. Kidal's landscape is rugged and dramatic, characterized by granite massifs and desert plains. Historically, it served as a key administrative post and a node for nomadic trade routes. The city's identity is deeply tied to the Tuareg struggle for autonomy and its unique desert traditions, including its world-famous 'Desert Blues' music. Kidal remains a vital but isolated outpost in Mali's vast northern territory. Geography K7 — Desert highlands and nomadic culture.",
+      "factsAdvanced": [
+        "Major cultural and political center for the Tuareg people",
+        "Located in the rugged Adrar des Ifoghas mountain range",
+        "Strategic desert outpost on the route to Algeria",
+        "Renowned for its unique 'Ishumar' (Desert Blues) music",
+        "Center for nomadic livestock trade, especially camels",
+        "Known for its harsh, arid climate and extreme temperatures",
+        "Features dramatic landscapes of granite boulders and dunes",
+        "Key location in the history of northern Malian autonomy movements"
+      ]
+    },
+    {
+      "id": "macina-cities-v2",
+      "descriptionAdvanced": "Macina is a historic town located on the north bank of the Niger River, in the heart of the fertile Ségou Region. It is famously known as the historical center of the Massina Empire (Diina), an 19th-century Islamic state founded by Seku Amadu. Today, Macina is a vital agricultural hub, particularly for rice and livestock, benefiting from the irrigation waters of the Niger. The town serves as a key gateway to the Inner Niger Delta, where the Bozo and Fulani peoples maintain their traditional lifestyles. Its architecture is characterized by mud-brick structures that reflect the region's deep historical and religious roots. History K8 — The Massina Empire and Islamic states.",
+      "factsAdvanced": [
+        "Historical center of the 19th-century Massina Empire",
+        "Strategically located on the northern banks of the Niger River",
+        "Major producer of irrigated rice and regional livestock",
+        "Gateway to the vast and fertile Inner Niger Delta",
+        "Founded by Seku Amadu as an Islamic theocratic state",
+        "Known for its traditional Sudano-Sahelian mud architecture",
+        "Key market for the Bozo fishing and Fulani herding communities",
+        "Central hub for agricultural development in the Macina Cercle"
+      ]
+    },
+    {
+      "id": "dire-cities-v2",
+      "descriptionAdvanced": "Diré is an important river town in northern Mali, situated on the Niger River between Mopti and Timbuktu. It serves as a vital commercial junction for the surrounding lake region, where the river's floodwaters sustain productive agriculture in an otherwise arid landscape. Diré is particularly known for its production of wheat and tobacco, which are rare in other parts of Mali. The town's river port is a busy terminal for pinasses and ferries transporting passengers and goods across the north. Inhabited by a mix of Songhai, Tuareg, and Peul peoples, Diré represents the cultural diversity and economic resilience of the northern Niger valley. Economy K6 — Northern agriculture and river trade.",
+      "factsAdvanced": [
+        "Key river port between the cities of Mopti and Timbuktu",
+        "Unique center for wheat and tobacco production in Mali",
+        "Strategically located in the Niger River's lake region",
+        "Major trade hub for the Songhai and Tuareg communities",
+        "Vital stop for commercial riverboats (pinasses) and ferries",
+        "Surrounded by fertile floodplains amidst the desert",
+        "Important administrative center for the Diré Cercle",
+        "Known for its traditional handicrafts and leatherwork"
+      ]
+    },
+    {
+      "id": "bandiagara-cities-v2",
+      "descriptionAdvanced": "Bandiagara is a legendary town in central Mali, serving as the cultural and administrative gateway to the world-famous Dogon Country. Located on the Bandiagara Plateau, it is the capital of a region listed as a UNESCO World Heritage site for its unique cultural and natural landscape. The town itself is a mix of traditional Dogon architecture and colonial influences, characterized by its use of local sandstone. Bandiagara is the starting point for exploring the dramatic cliffside villages and ancient traditions of the Dogon people, known for their complex mythology and astronomical knowledge. It is a vital center for preserving Mali's ancient heritage. Culture K7 — Dogon mythology and cliff architecture.",
+      "factsAdvanced": [
+        "Gateway to the UNESCO-listed Dogon Country (Pays Dogon)",
+        "Capital of the Bandiagara Cercle on the sandstone plateau",
+        "Famous for the nearby 150 km-long Bandiagara Escarpment",
+        "Center for the preservation of Dogon culture and traditions",
+        "Unique architecture featuring local pink sandstone and mud",
+        "Historical seat of the Toucouleur Empire in the late 19th century",
+        "Renowned for its intricate wood carvings and ritual masks",
+        "Home to the legendary Hogon (Dogon spiritual leader) traditions"
+      ]
+    }
+  ]
+}

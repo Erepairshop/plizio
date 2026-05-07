@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wisconsin-dairy-farms-life-v2",
+      "descriptionAdvanced": "Die Milchfarmen in Wisconsin sind das Herzstück der Agrarwirtschaft des Bundesstaates und der Grund, warum Wisconsin landesweit stolz als 'America's Dairyland' (Amerikas Molkereiland) bezeichnet wird. Obwohl Kalifornien heute eine höhere absolute Milchproduktion aufweist, ist Wisconsin der unbestrittene König der handwerklichen und industriellen Käseproduktion in den USA. Über ein Viertel des gesamten amerikanischen Käses wird hier hergestellt, unterstützt durch ein extrem strenges Zertifizierungssystem ('Master Cheesemaker'). Die Landschaft ist geprägt von zehntausenden, oft familiengeführten Farmen mit den klassischen rot-weißen Scheunen und runden Silos, auch wenn der Trend in den letzten Jahren rasant hin zu gigantischen, industriellen Großmolkereien (CAFOs) geht, was das Überleben der traditionellen Familienfarmen massiv bedroht. Landwirtschaft K8 — Milchwirtschaft und Strukturwandel im ländlichen Raum.",
+      "factsAdvanced": [
+        "Wisconsin ist der absolut größte Käseproduzent in den Vereinigten Staaten",
+        "Der Bundesstaat trägt offiziell den Slogan 'America's Dairyland' auf seinen Nummernschildern",
+        "Besitzt das einzige zertifizierte 'Master Cheesemaker'-Programm außerhalb von Europa",
+        "Die klassische rote Scheune (Barn) ist ein tief verwurzeltes architektonisches Symbol der Region",
+        "Die Anzahl der kleinen Familienfarmen sinkt massiv zugunsten industrieller Großbetriebe",
+        "Erfand den beliebten Snack der 'Cheese Curds' (frische Käsestücke, die beim Kauen quietschen)"
+      ]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "descriptionAdvanced": "Legoland Kalifornien in Carlsbad (nördlich von San Diego) ist ein massiver, auf Familien mit jüngeren Kindern (bis 12 Jahre) ausgerichteter Freizeitpark. Als dritter Legoland-Park der Welt (und der erste außerhalb Europas) eröffnete er 1999. Das absolute Herzstück des Parks ist das 'Miniland USA', in dem extrem ikonische amerikanische Städte und Wahrzeichen – von Washington D.C. über New York bis nach Las Vegas und San Francisco – aus über 32 Millionen handelsüblichen Lego-Steinen im Maßstab 1:20 detailgetreu nachgebaut wurden. Der Park kombiniert interaktive Fahrgeschäfte mit gigantischen, begehbaren Konstruktionen und fördert aktiv die mechanische und kreative Frühbildung von Kindern ('Edutainment'). Inzwischen wurde das Resort massiv durch einen Wasserpark und das Sea Life Aquarium erweitert. Architektur K7 — Modellbau und themenbasierte Freizeitparks.",
+      "factsAdvanced": [
+        "Der absolut erste Legoland-Freizeitpark, der außerhalb von Europa (1999) eröffnet wurde",
+        "Das 'Miniland USA' wurde aus mehr als 32 Millionen originalen Lego-Steinen konstruiert",
+        "Fokussiert sich im krassen Gegensatz zu anderen Parks primär auf Kinder zwischen 2 und 12 Jahren",
+        "Beinhaltet detailgetreue Miniaturnachbauten ganzer amerikanischer Städte (wie Las Vegas oder NYC)",
+        "Die Fahrgeschäfte erfordern oft die aktive, physische Mitarbeit der Besucher (z.B. Pumpen von Feuerwehrautos)",
+        "Wurde extrem erfolgreich zu einem Mega-Resort mit Wasserpark und Aquarien ausgebaut"
+      ]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "descriptionAdvanced": "Der Grand-Teton-Nationalpark im Nordwesten von Wyoming grenzt fast unmittelbar südlich an den Yellowstone-Nationalpark, bietet jedoch ein radikal anderes geologisches Bild. Das absolut dominierende Merkmal des Parks ist die Teton Range, eine gewaltige, extrem steile Gebirgskette ohne jegliche Vorberge ('Foothills'), die sich wie eine massive Felswand über 2.000 Meter direkt aus der flachen Senke von Jackson Hole erhebt. Diese dramatische, extrem junge Geologie entstand durch gewaltige Erdbeben entlang einer Verwerfungslinie, bei der sich das Tal senkte und die Berge emporgehoben wurden. Der Park schützt zudem den idyllischen Snake River und zahlreiche von massiven Gletschern geschaffene Moränenseen (wie den Jenny Lake). Er ist ein absolutes Refugium für Elche, Schwarzbären und riesige Wapiti-Herden. Geographie K8 — Tektonische Verwerfungen und alpine Erosion.",
+      "factsAdvanced": [
+        "Die Teton Range erhebt sich extrem abrupt und ohne Vorberge direkt aus der Jackson Hole-Ebene",
+        "Entstand durch massive tektonische Verschiebungen an der Teton-Verwerfung",
+        "Der Grand Teton ist mit 4.199 Metern der absolut höchste und ikonischste Gipfel der Kette",
+        "Die Seen am Fuß der Berge (z.B. Jenny Lake) wurden von massiven eiszeitlichen Gletschern ausgehöhlt",
+        "Ist über den John D. Rockefeller Jr. Memorial Parkway direkt mit dem Yellowstone-Nationalpark verbunden",
+        "Der National Elk Refuge grenzt an, wo im Winter Tausende von Wapitis (Elk) massiv überwintern"
+      ]
+    },
+    {
+      "id": "georgia-peach-orchards-life-v2",
+      "descriptionAdvanced": "Die Pfirsichplantagen (Peach Orchards) in Georgia sind ein so massiver, identitätsstiftender Teil der lokalen Agrarwirtschaft, dass Georgia offiziell als der 'Peach State' (Pfirsich-Staat) bekannt ist. Eingeführt von Franziskanermönchen im 16. Jahrhundert, erlebte der kommerzielle Pfirsichanbau im späten 19. Jahrhundert einen massiven Boom, als Samuel Rumph die extrem widerstandsfähige und transportfähige Sorte 'Elberta' züchtete. Gepaart mit neu erfundenen Kühllastwagen konnten frische Pfirsiche erstmals an die wohlhabende US-Ostküste exportiert werden. Obwohl Bundesstaaten wie Kalifornien heute in der absoluten Tonnage deutlich mehr Pfirsiche produzieren, bleibt der Georgia-Pfirsich wegen seiner außergewöhnlichen Süße und Saftigkeit das unangefochtene amerikanische Qualitätssymbol. Die Obstgärten sind jedoch extrem anfällig für unvorhersehbare späte Fröste. Landwirtschaft K8 — Historische Obstzucht und landwirtschaftliche Markenbildung.",
+      "factsAdvanced": [
+        "Georgia trägt hochoffiziell den Spitznamen 'The Peach State' (Der Pfirsich-Staat)",
+        "Die Erfindung der Sorte 'Elberta' im 19. Jahrhundert revolutionierte die Haltbarkeit der Frucht",
+        "Kalifornien produziert heute mehr Pfirsiche, aber Georgias Früchte gelten als die aromatischsten",
+        "Das Fort Valley Plateau in Zentral-Georgia ist das absolute Herzstück der Produktion",
+        "Später Frühlingsfrost kann oft einen massiven, katastrophalen Ausfall der gesamten Ernte bedeuten",
+        "Über 50 Straßen in der Hauptstadt Atlanta beinhalten das Wort 'Peachtree' in ihrem Namen"
+      ]
+    },
+    {
+      "id": "seaworld-orlando-life-v2",
+      "descriptionAdvanced": "SeaWorld Orlando in Florida ist ein massiver Meeres-Themenpark und zoologischer Park, der Entertainment extrem stark mit mariner Biologie kombiniert. Eröffnet 1973, erlangte der Park weltweite Bekanntheit durch seine spektakulären, oft umstrittenen Shows mit Orcas (Schwertwalen), insbesondere der ikonischen Figur 'Shamu'. Nach der Veröffentlichung des kritischen Dokumentarfilms 'Blackfish' (2013), der die Haltung der riesigen Meeressäuger massiv anprangerte, geriet SeaWorld unter enormen öffentlichen Druck. Daraufhin beendete der Park sein Orca-Zuchtprogramm vollständig und änderte den Fokus radikal von Zirkus-Shows hin zu natürlicherem Verhalten und massiven Umweltschutz- und Tierrettungsprogrammen (SeaWorld Rescue). Gleichzeitig investierte der Park massiv in Adrenalin-Achterbahnen ('Mako', 'Manta'), um sich als Thrill-Park neu zu positionieren. Biologie K8 — Tierschutzethik und der Wandel von Meeres-Themenparks.",
+      "factsAdvanced": [
+        "Wurde in den 1970er Jahren primär für Shows mit Schwertwalen (Orcas) weltweit berühmt",
+        "Der kritische Dokumentarfilm 'Blackfish' (2013) veränderte das Geschäftsmodell des Parks radikal",
+        "Hat das Zuchtprogramm für Orcas absolut beendet; die aktuelle Generation wird die letzte in Gefangenschaft sein",
+        "SeaWorld Orlando betreibt eines der massivsten Rettungsnetzwerke für verletzte Seekühe (Manatees) und Schildkröten",
+        "Der Park investierte zuletzt massiv in den Bau von extremen Hochgeschwindigkeits-Achterbahnen",
+        "Beherbergt auch gigantische Pinguin- und Hai-Habitate zu Bildungszwecken"
+      ]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "descriptionAdvanced": "Der Zion-Nationalpark, gelegen im rauen Südwesten von Utah, ist eine spektakuläre, farbgewaltige Landschaft, geprägt von massiven Sandsteinklippen. Das absolute Herzstück des Parks ist der Zion Canyon, eine tiefe, enge Schlucht, die der Virgin River über Jahrmillionen durch den leuchtend roten und weißen Navajo-Sandstein gefräst hat. Im Gegensatz zum Grand Canyon blicken Besucher hier nicht von oben in die Schlucht, sondern fahren massiv auf dem Grund des Tals und blicken fast 600 Meter steil nach oben auf gigantische Monolithen (wie 'Angels Landing' oder 'The Great White Throne'). Einer der extremsten und populärsten Wanderwege der USA ist 'The Narrows', wo Wanderer knie- bis brusttief direkt im eisigen Wasser des Flusses zwischen nur wenige Meter breiten, extrem hohen Felswänden waten. Geographie K8 — Flusserosion und massive Sandsteinmonolithen.",
+      "factsAdvanced": [
+        "Die massiven roten und weißen Klippen bestehen aus Millionen Jahre altem Navajo-Sandstein",
+        "Der Park wurde von mormonischen Siedlern entdeckt, die die Monolithen nach biblischen Begriffen benannten",
+        "Die berühmte Wanderung 'The Narrows' führt extrem tief durch das eiskalte Wasser des Virgin River",
+        "Wegen massiver Überfüllung ist der Zion Canyon im Sommer nur noch mit speziellen Shuttlebussen befahrbar",
+        "Der Pfad zu 'Angels Landing' ist extrem schmal, beidseitig fast 450 Meter tief abfallend und nur mit Ketten gesichert",
+        "Die Flora an den Sickerquellen ('Weeping Rock') wächst oft scheinbar direkt aus dem massiven Gestein"
+      ]
+    },
+    {
+      "id": "iowa-corn-fields-life-v2",
+      "descriptionAdvanced": "Die Maisfelder in Iowa sind das gigantische, smaragdgrüne Herz der US-amerikanischen Landwirtschaft. Iowa ist seit über einem Vierteljahrundert der unangefochtene, absolute Spitzenreiter in der nationalen Maisproduktion (Corn Belt). Die extrem fruchtbaren Böden (Mollisole), die nach dem Rückzug eiszeitlicher Gletscher zurückblieben, in Kombination mit den extrem warmen und feuchten Sommern, bieten ideale Bedingungen für den Anbau. Über 90 Prozent der extrem weiten Landfläche von Iowa werden landwirtschaftlich genutzt. Ironischerweise ist der meiste in Iowa angebaute Mais kein Zuckermais für den direkten menschlichen Verzehr, sondern hochgezüchteter Feldmais (Dent Corn). Dieser wird massiv als energiereiches Viehfutter, zur Gewinnung von Maissirup (High Fructose Corn Syrup) und insbesondere zur industriellen Produktion von Ethanol (Biokraftstoff) verwendet. Wirtschaft K8 — Industrielle Monokulturen und die Ethanol-Industrie.",
+      "factsAdvanced": [
+        "Iowa ist mit weitem Abstand der absolut größte Produzent von Mais in den gesamten Vereinigten Staaten",
+        "Fast der gesamte Mais ist Feldmais (Dent Corn), der nicht direkt als Gemüse gegessen wird",
+        "Ein gigantischer Teil der Ernte wird massiv zur Herstellung von Ethanol-Biokraftstoff destilliert",
+        "Die Felder in Iowa bedecken fast 90 Prozent der gesamten extrem fruchtbaren Fläche des Bundesstaates",
+        "Schweine- und Rinderzucht hängen massiv von den enormen Mengen an verfügbarem Futtermais ab",
+        "Die massiven industriellen Monokulturen sind stark auf künstliche Stickstoffdünger angewiesen"
+      ]
+    },
+    {
+      "id": "busch-gardens-tampa-bay-life-v2",
+      "descriptionAdvanced": "Busch Gardens Tampa Bay ist ein massiver, über 130 Hektar großer Tier- und Themenpark in Florida, der ursprünglich 1959 von der Anheuser-Busch Brauerei als reiner Botanischer Garten mit einer Vogelauffangstation eröffnet wurde. Im Laufe der Jahrzehnte wandelte sich das Konzept radikal. Heute ist der Park auf das Thema 'Afrika' ausgerichtet und kombiniert eine der absolut höchsten Ansammlungen von Achterbahnen in Florida (wie 'Iron Gwazi' oder 'Montu') mit einem der größten zoologischen Gärten Nordamerikas. Das Herzstück ist die Serengeti Plain, ein gigantisches, 26 Hektar großes offenes Freigehege, in dem Giraffen, Zebras und Nashörner frei umherstreifen. Besucher können diese Landschaft nur extrem naturnah per historischer Schmalspureisenbahn oder Seilbahn überqueren. Biologie K7 — Die Verschmelzung von Extrem-Achterbahnen und Safariparks.",
+      "factsAdvanced": [
+        "Ursprünglich 1959 als kostenloser Werbegarten der Anheuser-Busch-Brauerei eröffnet",
+        "Kombiniert extrem erfolgreich massive Hochgeschwindigkeits-Achterbahnen mit einem echten Zoo",
+        "Die riesige 'Serengeti Plain' ist ein 26 Hektar großes, offenes Freigehege für afrikanische Wildtiere",
+        "Beherbergt weit über 2.000 Tiere aus mehr als 200 verschiedenen exotischen Arten",
+        "Besitzt keine Gehegezäune im Safaribereich; Tiere werden durch verdeckte Gräben kontrolliert",
+        "Bietet eine historische Schmalspurbahn, die direkt mitten durch die gigantischen Tierherden fährt"
+      ]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "descriptionAdvanced": "Der Great-Smoky-Mountains-Nationalpark, der sich massiv über die Grenze zwischen Tennessee und North Carolina in den Appalachen erstreckt, ist mit weitem Abstand der absolut meistbesuchte Nationalpark der Vereinigten Staaten (weit über 12 Millionen Besucher jährlich). Sein Name stammt von dem ständigen, natürlichen, bläulichen Nebel (Smoky), der die massiven, extrem dicht bewaldeten Bergrücken einhüllt – ein Phänomen, das durch Wasserdampf und flüchtige organische Verbindungen entsteht, die von den Millionen Bäumen ausgedünstet werden. Der Park schützt einen der ältesten Gebirgszüge der Erde und besitzt eine unfassbare, weltweite Biodiversität, darunter über 1.500 Schwarzbären. Im Gegensatz zu den westlichen Parks wurde dieses Land nicht einfach vom Staat abgetrennt, sondern extrem aufwendig Farm für Farm von privaten Besitzern gekauft, um den massiven Holzeinschlag zu stoppen. Biologie K8 — Appalachen-Biodiversität und natürliche Aerosole.",
+      "factsAdvanced": [
+        "Mit weitem Abstand der absolut meistbesuchte Nationalpark in den gesamten USA",
+        "Der charakteristische 'Rauch' (Smoke) entsteht durch natürliche organische Gase der dichten Vegetation",
+        "Gehört zu den ältesten Gebirgszügen der Erde, extrem stark durch Jahrmillionen der Erosion abgeschliffen",
+        "Beherbergt eine extrem dichte Population von über 1.500 wildlebenden Schwarzbären",
+        "Das Land wurde in den 1930er Jahren extrem aufwendig und massiv von Holzfirmen und Farmern freigekauft",
+        "Besitzt eine so immense Artenvielfalt an Bäumen, dass es oft als das 'Salamander-Hauptstadt der Welt' gilt"
+      ]
+    },
+    {
+      "id": "washington-apple-orchards-life-v2",
+      "descriptionAdvanced": "Die Apfelplantagen im US-Bundesstaat Washington sind ein agrikultureller Gigant; sie produzieren weit über die Hälfte aller Äpfel, die in den gesamten Vereinigten Staaten frisch verzehrt werden. Diese absolute Dominanz ist das direkte Resultat extremer geografischer Vorteile. Im Schatten der Kaskadenkette (Regenschatten) im zentralen und östlichen Washington (wie dem Yakima- und Wenatchee-Tal) ist das Klima extrem trocken, was Pilzkrankheiten und Insektenbefall massiv reduziert. Die Pflanzen erhalten stattdessen durch ein massives, komplexes künstliches Bewässerungssystem das reine, eiskalte Schmelzwasser direkt aus den Gletschern der Rocky Mountains. Zudem sorgen heiße Sommertage für die Süße der Äpfel, während die kühlen Nächte die knackige Textur und die brillante Farbe der weltberühmten Sorten wie Red Delicious, Gala oder Honeycrisp garantieren. Landwirtschaft K8 — Regenschatteneffekte und Obstkulturen im Pazifischen Nordwesten.",
+      "factsAdvanced": [
+        "Der Bundesstaat Washington produziert massiv fast 60 Prozent aller Tafeläpfel in den USA",
+        "Die Anbaugebiete liegen extrem strategisch im trockenen 'Regenschatten' der Kaskadengebirge",
+        "Der trockene Sommer reduziert Schädlinge massiv; Bewässerung erfolgt durch eiskaltes Gletscherschmelzwasser",
+        "Die Ernte erfolgt im Herbst fast ausschließlich extrem arbeitsintensiv von Hand, um Druckstellen zu vermeiden",
+        "Äpfel (insbesondere die Sorten Red Delicious und Honeycrisp) sind das mit Abstand wertvollste Agrarprodukt des Staates",
+        "Hightech-Kühllager (Controlled Atmosphere) halten die Äpfel monatelang extrem frisch und knackig"
+      ]
+    },
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "descriptionAdvanced": "Knott's Berry Farm in Buena Park, Kalifornien, ist ein historisches Kuriosum und wird oft als der absolut erste Themenpark Amerikas bezeichnet – er existierte sogar lange vor Disneyland. In den 1920er Jahren begann Walter Knott mit einer einfachen Beerenfarm an der Straße, wo er die Boysenbeere (eine komplexe Kreuzung aus Himbeere, Brombeere und Loganbeere) massiv erfolgreich kultivierte. Um die wartenden Gäste des extrem beliebten Hühnchen-Restaurants seiner Frau zu unterhalten, baute Knott in den 1940er Jahren eine echte Geisterstadt (Ghost Town) aus echten verlassenen Holzhäusern der Wüste auf. Aus diesem kostenlosen Wartebereich entwickelte sich über Jahrzehnte ein massiver, hochmoderner Freizeitpark, der heute gewaltige Stahlachterbahnen mit dem tief verwurzelten Charme der Goldgräberzeit und seiner landwirtschaftlichen Ursprünge kombiniert. Geschichte K7 — Der Übergang vom Straßenverkauf zum modernen Themenpark.",
+      "factsAdvanced": [
+        "Wird oft von Historikern als der absolut älteste Themenpark der Vereinigten Staaten anerkannt",
+        "Der Park entstand wörtlich aus einer Warteschlange für ein extrem populäres Hühnchen-Restaurant",
+        "Walter Knott rettete die 'Boysenbeere' vor dem Aussterben und machte sie hier massiv populär",
+        "Die historische 'Ghost Town' besteht aus echten, extrem alten Gebäuden, die Knott aus Geisterstädten importierte",
+        "Gilt als der direkte Erfinder des Konzepts von Halloween-Themenpark-Events ('Knott's Scary Farm')",
+        "Obwohl er heute extrem moderne Achterbahnen besitzt, ist der Park stark seiner ländlichen Identität treu geblieben"
+      ]
+    },
+    {
+      "id": "mississippi-river-source-nature-v2",
+      "descriptionAdvanced": "Die Quelle des mächtigen Mississippi Rivers, einer der längsten und einflussreichsten Ströme der Welt, liegt nicht hoch in dramatischen Bergen, sondern extrem unscheinbar im Lake Itasca im nördlichen Minnesota. Hier, im Itasca State Park, fließt das Wasser als winziger, flacher, oft nur knietiefer Bach aus dem ruhigen, von eiszeitlichen Gletschern geformten See. Die exakte Identifikation der Quelle war jahrhundertelang ein massives Streitthema unter Entdeckern, bis Henry Rowe Schoolcraft den See 1832 offiziell verifizierte (er formte den Namen 'Itasca' aus den lateinischen Wörtern 'verITAS CAput', was 'wahrer Kopf' bedeutet). Heute können Besucher völlig gefahrlos über Trittsteine gehen und den Fluss, der den gesamten amerikanischen Kontinent prägt und 3.766 Kilometer später massiv in den Golf von Mexiko mündet, mit einem einzigen Schritt überqueren. Geographie K7 — Die Gletscherseen Minnesotas und fluviale Ursprünge.",
+      "factsAdvanced": [
+        "Die extrem unscheinbare Quelle des mächtigen Mississippi ist der ruhige Lake Itasca in Minnesota",
+        "Der Fluss beginnt hier als so winziger Bach, dass Besucher ihn massiv einfach zu Fuß durchwaten können",
+        "Entdeckt 1832 von Henry Schoolcraft, der den Namen aus dem lateinischen 'veritas caput' (wahrer Kopf) bildete",
+        "Eine massive, berühmte Holzsäule markiert den exakten Ursprung für Touristen",
+        "Ein Wassertropfen benötigt ab hier extrem lang, etwa 90 Tage, um den Golf von Mexiko zu erreichen",
+        "Die Region ist extrem geprägt von Tausenden winzigen Seen, die von den Gletschern der Eiszeit hinterlassen wurden"
+      ]
+    },
+    {
+      "id": "mount-rainier-nature-v2",
+      "descriptionAdvanced": "Mount Rainier im Bundesstaat Washington ist ein gewaltiger, ruhender Schichtvulkan und mit 4.392 Metern der höchste Gipfel der extrem vulkanisch aktiven Kaskadenkette. Er thront als absolut dominierendes, schneebedecktes Wahrzeichen über der gesamten Metropolregion Seattle-Tacoma. Der Berg ist geologisch extrem extrem: Er besitzt mehr Gletschereis auf seinen Flanken als alle anderen Berge der Kaskadenkette zusammen (über 25 massive, aktive Gletscher). Genau diese unfassbare Menge an Eis macht Mount Rainier zu einem der gefährlichsten Vulkane der Erde; selbst bei einem kleineren Ausbruch würde die extreme Hitze das Eis sofort schmelzen und katastrophale, rasende Schlammlawinen (Lahare) auslösen, die die dicht besiedelten Flusstäler unterhalb des Berges in wenigen Minuten völlig vernichten könnten. Geologie K8 — Schichtvulkane, Vergletscherung und die Gefahr von Laharen.",
+      "factsAdvanced": [
+        "Ein massiver Schichtvulkan und der höchste Gipfel im gesamten US-Bundesstaat Washington (4.392 m)",
+        "Beherbergt mehr aktives Gletschereis als alle anderen Berge der Kaskadenkette zusammen",
+        "Wird vom US Geological Survey als einer der absolut gefährlichsten Vulkane der Welt eingestuft",
+        "Die größte Gefahr bei einem Ausbruch sind extrem schnelle, katastrophale Schlammlawinen (Lahare)",
+        "Das Mikroklima am Berg erzeugt oft extreme Rekordschneefälle (im 'Paradise'-Sektor)",
+        "Wurde von den indigenen Völkern historisch 'Tahoma' oder 'Tacoma' (Mutter der Gewässer) genannt"
+      ]
+    },
+    {
+      "id": "lake-tahoe-nature-v2",
+      "descriptionAdvanced": "Der Lake Tahoe ist ein gigantischer, atemberaubend klarer Süßwassersee in der Sierra Nevada, der direkt auf der Grenze zwischen Kalifornien und Nevada liegt. Auf einer extremen Höhe von fast 1.900 Metern gelegen, ist er der größte alpine See Nordamerikas und der zweittiefste See der Vereinigten Staaten (nach dem Crater Lake). Die tiefe, tiefblaue Farbe und die unglaubliche Sichttiefe (oft über 20 Meter) verdankt der See der Tatsache, dass das umgebende Einzugsgebiet extrem klein ist und kaum Sedimente einspült. Entstanden vor etwa zwei Millionen Jahren durch massive tektonische Grabenbrüche, gefriert der See im Winter aufgrund seines immensen Volumens niemals zu. Heute steht das extrem empfindliche Ökosystem unter massiver Überwachung, um zu verhindern, dass Düngemittel und Urbanisierung das kristallklare Wasser trüben. Geographie K8 — Tektonische Grabenbrüche und alpine Oligotrophie.",
+      "factsAdvanced": [
+        "Der absolut größte alpine See in Nordamerika und der zweittiefste der USA (über 500 Meter tief)",
+        "Liegt massiv eingebettet in die Gipfel der Sierra Nevada auf einer Höhe von fast 1.900 Metern",
+        "Weltberühmt für seine extrem hohe Wasserreinheit und die tiefblaue, kobaltartige Färbung",
+        "Der See friert im Winter aufgrund seines gigantischen, thermisch trägen Wasservolumens absolut nie zu",
+        "Das Wasser ist so kalt, dass ertrunkene Objekte (oder Menschen) oft jahrzehntelang im Tiefenwasser konserviert werden",
+        "Trotz starkem Tourismus (Skiresorts, Casinos am Nevada-Ufer) wird die Wasserqualität extrem streng überwacht"
+      ]
+    },
+    {
+      "id": "tongass-national-forest-nature-v2",
+      "descriptionAdvanced": "Der Tongass National Forest erstreckt sich massiv entlang des gesamten Alaska Panhandle und ist mit unfassbaren fast 68.000 Quadratkilometern der mit Abstand größte Nationalforst der Vereinigten Staaten. Dieses gigantische Gebiet schützt das absolut größte intakte Ökosystem eines gemäßigten Regenwaldes auf der gesamten Erde. Das Klima hier ist kühl und extrem niederschlagsreich, was das immense Wachstum von uralten Sitka-Fichten und Westamerikanischen Hemlocktannen fördert, von denen viele hunderte Jahre alt und dutzende Meter hoch sind. Der Tongass ist ein extrem komplexes Labyrinth aus Inseln, tief eingeschnittenen Fjorden und Gletschern. Er ist die absolut wichtigste globale Brutstätte für Weißkopfseeadler, massiver Lebensraum für Braunbären und die unersetzliche Kinderstube für Milliarden von pazifischen Lachsen. Ökologie K8 — Die globale Bedeutung gemäßigter Regenwälder und Lachszüge.",
+      "factsAdvanced": [
+        "Mit Abstand der größte US-Nationalforst, größer als der gesamte Bundesstaat West Virginia",
+        "Schützt den gigantischsten, noch völlig intakten gemäßigten Regenwald auf dem Planeten Erde",
+        "Die extrem dichten Wälder binden massiv gigantische Mengen an atmosphärischem Kohlenstoff (Klimaschutz)",
+        "Ist ein absolut unersetzlicher Lebensraum und Laichgrund für alle fünf Arten des pazifischen Lachses",
+        "Beherbergt die weltweit dichteste und absolut größte Population an wildlebenden Weißkopfseeadlern",
+        "Stand jahrzehntelang im extremen politischen Konflikt zwischen der Holzindustrie und Naturschutzorganisationen"
+      ]
+    },
+    {
+      "id": "gulf-of-mexico-nature-v2",
+      "descriptionAdvanced": "Der Golf von Mexiko ist ein gigantisches, extrem warmes Nebenmeer des Atlantischen Ozeans, das fast vollständig von den Küsten Nordamerikas (USA, Mexiko, Kuba) umschlossen wird. Ökologisch ist der Golf extrem produktiv und komplex, angetrieben durch den massiven Süßwasser- und Nährstoffeintrag des Mississippi Rivers. Diese Nährstoffe befeuern eine riesige Garnelen- und Fischereiindustrie, erzeugen aber durch Überdüngung (Stickstoff aus dem Corn Belt) auch jedes Jahr eine katastrophal große, sauerstoffarme 'Todeszone' (Dead Zone) im Golf. Geografisch ist der warme Golf die absolute Geburts- und Verstärkerkammer für verheerende tropische Wirbelstürme (Hurrikane) wie Katrina oder Harvey. Zudem ist das seichte Wasser der Kontinentalschelfe ein massives globales Epizentrum für die Offshore-Erdöl- und Gasförderung, was 2010 zur extrem verheerenden Deepwater Horizon-Katastrophe führte. Geographie K8 — Marine Überdüngung, Offshore-Ölbohrungen und Hurrikan-Genese.",
+      "factsAdvanced": [
+        "Ein massives, extrem warmes Nebenmeer, das als Motor für das globale Wetter (Golfstrom) dient",
+        "Der Mississippi spült jährlich Millionen Tonnen Agrardünger hinein, was eine massive 'Todeszone' erzeugt",
+        "Das extrem warme Oberflächenwasser liefert den perfekten, katastrophalen Treibstoff für riesige Hurrikane",
+        "Beherbergt die intensivste und dichteste Offshore-Öl- und Gasindustrie der Vereinigten Staaten",
+        "Schauplatz der Explosion der Bohrinsel Deepwater Horizon (2010), der massivsten Ölpest der US-Geschichte",
+        "Die flachen Küstengewässer sind extrem reiche Brutgebiete für Garnelen und kommerzielle Fischerei"
+      ]
+    },
+    {
+      "id": "mount-desert-island-nature-v2",
+      "descriptionAdvanced": "Mount Desert Island (MDI) an der rauen Küste von Maine ist die mit Abstand größte Insel vor der Küste Neuenglands. Fast die gesamte östliche Hälfte der Insel wird vom spektakulären Acadia-Nationalpark eingenommen. Die Geologie der Insel ist einzigartig an der US-Ostküste: Massive, von eiszeitlichen Gletschern glatt geschliffene Granitkuppen (wie der Cadillac Mountain) erheben sich extrem steil direkt aus dem Atlantischen Ozean. Der Cadillac Mountain ist landesweit berühmt, da er in den Wintermonaten aufgrund seiner Höhe und östlichen Lage der absolut erste Ort in den Vereinigten Staaten ist, an dem die aufgehende Sonne sichtbar wird. Die Insel besitzt zudem den tief eingeschnittenen Somes Sound, einen natürlichen Fjord, der eine der extrem wenigen Fjordlandschaften an der nordamerikanischen Ostküste bildet. Geographie K8 — Eiszeitliche Gletschererosion und atlantische Küstenmorphologie.",
+      "factsAdvanced": [
+        "Die flächenmäßig größte Insel Neuenglands und die zweitgrößte an der gesamten US-Ostküste",
+        "Beherbergt den absoluten Großteil des spektakulären Acadia-Nationalparks",
+        "Der Cadillac Mountain (466 m) ist der höchste Berg direkt an der nordamerikanischen Atlantikküste",
+        "Vom Gipfel des Berges sieht man im Winter und Frühling massiv den allerersten Sonnenaufgang der USA",
+        "Die tief eingeschnittenen, runden Täler und Seen (wie Jordan Pond) wurden durch massive eiszeitliche Gletscher gefräst",
+        "Besitzt mit dem Somes Sound einen der extrem wenigen echten natürlichen Fjorde an der US-Ostküste"
+      ]
+    },
+    {
+      "id": "colorado-river-nature-v2",
+      "descriptionAdvanced": "Der Colorado River ist die absolute Lebensader des trockenen amerikanischen Südwestens. Er entspringt im Rocky-Mountain-Nationalpark in Colorado und schneidet sich auf seinem 2.330 Kilometer langen Weg tief in das Colorado-Plateau, wobei er massiv eines der größten Naturwunder der Erde formte: den Grand Canyon. Der Fluss durchfließt extrem raue Wüstenlandschaften, bevor er (theoretisch) in den Golf von Kalifornien in Mexiko mündet. In der Realität ist der Colorado River heute jedoch einer der am stärksten durch Dämme kontrollierten, regulierten und umgeleiteten Flüsse der gesamten Erde (Hoover-Staudamm, Glen-Canyon-Staudamm). Fast das gesamte Wasser wird massiv abgepumpt, um riesige Städte (Los Angeles, Las Vegas, Phoenix) und das Imperial Valley in Kalifornien zu versorgen, was dazu führt, dass der Fluss in den letzten Jahrzehnten sein Delta im Ozean oft überhaupt nicht mehr erreicht hat. Geographie K8 — Flusserosion, Wüstenbewässerung und Wasserrechtskonflikte.",
+      "factsAdvanced": [
+        "Der Hauptarchitekt der massiven Schluchten des Südwestens, insbesondere des Grand Canyons",
+        "Liefert absolut lebensnotwendiges Trink- und Bewässerungswasser für über 40 Millionen Menschen",
+        "Ist massiv durch gigantische Staudämme (Lake Powell, Lake Mead) unterbrochen und komplett kontrolliert",
+        "Aufgrund der extremen landwirtschaftlichen und städtischen Nutzung erreicht er fast nie mehr das Meer",
+        "Das Wasser des Flusses wird politisch extrem hart durch den 'Colorado River Compact' zwischen sieben US-Staaten aufgeteilt",
+        "Historisch bekannt für rötliches, schlammiges Wasser, das ihm seinen Namen ('Colorado' - der Rote) gab"
+      ]
+    },
+    {
+      "id": "crater-lake-nature-v2",
+      "descriptionAdvanced": "Der Crater Lake (Kratersee) im Süden Oregons ist ein geologisches Extremphänomen. Mit einer Tiefe von 594 Metern ist er der absolut tiefste See der Vereinigten Staaten und der neunt-tiefste der Erde. Der See ruht exakt in der gigantischen Caldera (dem eingestürzten Krater) des ehemaligen Schichtvulkans Mount Mazama, der vor etwa 7.700 Jahren in einer katastrophalen, gewaltigen Eruption buchstäblich seinen eigenen Gipfel in die Luft sprengte und in sich zusammenfiel. Da der Kratersee keinen einzigen sichtbaren Zu- oder Abfluss besitzt, wird er fast ausschließlich von Regen und massiver Schneeschmelze gefüllt. Das Wasser ist aufgrund des Fehlens von Sedimenten, Algen oder Verschmutzung von einer solch extremen, fast surrealen tiefblauen Reinheit und Klarheit, dass es Besucher regelmäßig sprachlos macht. Geologie K8 — Kataklysmische Vulkaneruptionen und die Bildung von Caldera-Seen.",
+      "factsAdvanced": [
+        "Mit 594 Metern der absolut tiefste See in den gesamten USA und einer der reinsten der Welt",
+        "Ruht in der Caldera des Mount Mazama, der vor 7.700 Jahren bei einem massiven Ausbruch kollabierte",
+        "Verfügt über absolut keine Flüsse als Zu- oder Abfluss; der Wasserstand wird nur durch Schnee und Verdunstung reguliert",
+        "Die berühmte Insel 'Wizard Island' im See ist eigentlich ein kleiner vulkanischer Schlackenkegel",
+        "Ein massiver, uralter Baumstumpf ('The Old Man of the Lake') schwimmt hier seit über 100 Jahren aufrecht im Wasser",
+        "Bekannt für einige der extremsten und schwersten winterlichen Schneefälle in den gesamten USA"
+      ]
+    },
+    {
+      "id": "sequoia-national-forest-nature-v2",
+      "descriptionAdvanced": "Der Sequoia National Forest (zusammen mit dem Sequoia-Nationalpark) in den extrem steilen und rauen Höhenlagen der südlichen Sierra Nevada in Kalifornien schützt die größten noch verbliebenen Haine der Riesenmammutbäume (Sequoiadendron giganteum). Diese extrem massiven Bäume gehören zu den volumengrößten Lebewesen der Erde. Der berühmteste unter ihnen, der 'General Sherman Tree', gilt als der massivste Baum des Planeten; sein Stamm hat an der Basis einen unglaublichen Durchmesser von über elf Metern und wiegt schätzungsweise 1.200 Tonnen. Die Biologie dieser Baumriesen ist faszinierend: Ihre extrem dicke, asbestartige Rinde macht sie fast immun gegen Waldbrände. Ironischerweise sind sie sogar existenziell auf regelmäßige, natürliche Feuer angewiesen, um die Konkurrenz am Boden abzutrennen und ihre winzigen Zapfen durch Hitze zum Öffnen zu zwingen. Biologie K8 — Extrem-Flora, Riesenmammutbäume und die ökologische Rolle von Waldbränden.",
+      "factsAdvanced": [
+        "Schützt die verbliebenen, extrem seltenen Haine der Riesenmammutbäume (Giant Sequoias)",
+        "Beherbergt den 'General Sherman Tree', das nach Volumen absolut größte Lebewesen der Erde",
+        "Die Bäume wachsen nur hier, auf einem schmalen Höhenstreifen an den Westhängen der Sierra Nevada",
+        "Die extrem schwammige, rote Rinde (bis zu 90 cm dick) schützt sie massiv vor starken Waldbränden",
+        "Die Zapfen der Bäume öffnen sich oft erst nach der massiven Hitze eines Waldbrandes",
+        "Diese Riesen wachsen eher in die Breite (Volumen) als in die Höhe (Redwoods an der Küste sind höher)"
+      ]
+    },
+    {
+      "id": "pikes-peak-nature-v2",
+      "descriptionAdvanced": "Pikes Peak in der Front Range der Rocky Mountains, Colorado, ist einer der absolut berühmtesten und meistbesuchten Berge Nordamerikas. Mit einer Höhe von 4.302 Metern (über 14.000 Fuß) erhebt sich dieser markante Gipfel derart massiv und prominent direkt über den flachen Great Plains, dass er für frühe Pioniere auf dem Weg nach Westen ein unverzichtbarer, weithin sichtbarer geografischer Leuchtturm war ('Pikes Peak or Bust'). Ironischerweise scheiterte der Namensgeber Zebulon Pike 1806 kläglich beim Versuch der Erstbesteigung in hüfthohem Schnee. Heute ist der Gipfel extrem touristisch erschlossen; er kann per Auto über den kurvenreichen Pikes Peak Highway, zu Fuß oder mit der massiv aufgerüsteten Pikes Peak Cog Railway erreicht werden. Die atemberaubende Aussicht inspirierte 1893 Katharine Lee Bates zum patriotischen Lied 'America the Beautiful'. Geographie K7 — Prominente Berge, Pionierrouten und alpine Erschließung.",
+      "factsAdvanced": [
+        "Einer der massivsten und ikonischsten 'Fourteeners' (Berge über 14.000 Fuß) in ganz Colorado",
+        "Erhebt sich mit enormer Prominenz (fast 2.400 Meter Höhenunterschied) extrem steil aus den flachen Ebenen",
+        "Die spektakuläre Aussicht vom Gipfel inspirierte 1893 das legendäre Lied 'America the Beautiful'",
+        "Austragungsort des Pikes Peak International Hill Climb, eines der ältesten und extremsten Bergrennen für Autos",
+        "Der Gipfel ist touristisch massiv erschlossen und kann problemlos per Auto oder Zahnradbahn erreicht werden",
+        "Namensgeber Zebulon Pike gelang es paradoxerweise nie, den extrem vereisten Gipfel selbst zu besteigen"
+      ]
+    },
+    {
+      "id": "great-salt-lake-nature-v2",
+      "descriptionAdvanced": "Der Große Salzsee (Great Salt Lake) im Norden von Utah ist der absolute Überrest des prähistorischen, gigantischen Lake Bonneville, der während der letzten Eiszeit fast den gesamten Bundesstaat bedeckte. Da der extrem flache See in einem geschlossenen, abflusslosen Becken liegt, können Wasserverluste nur durch Verdunstung geschehen. Dies hinterlässt alle eingespülten Mineralien, was dem See einen massiven, extrem hohen Salzgehalt (Salinität) verleiht, der oft weitaus höher ist als der der Ozeane (weshalb Menschen im Wasser mühelos wie Korken schwimmen). Der See ist eine kritische, biologische Oase; Millionen von Zugvögeln ernähren sich massiv von den extrem salzresistenten Salinenkrebsen und Salinenfliegen, die die einzigen Bewohner des Wassers sind. In den letzten Jahrzehnten schrumpft der See durch starke landwirtschaftliche Wasserentnahme seiner Zuflüsse bedrohlich. Geographie K8 — Endorheische (abflusslose) Becken und hypersaline Ökosysteme.",
+      "factsAdvanced": [
+        "Der absolut größte Salzwassersee in der gesamten westlichen Hemisphäre",
+        "Ist das letzte geschrumpfte Relikt des gigantischen, prähistorischen Eiszeit-Sees Lake Bonneville",
+        "Der See hat keinen Abfluss zum Ozean; das Wasser verlässt das System extrem nur durch Verdunstung",
+        "Der Salzgehalt (Salinität) ist oft massiv höher als der der Ozeane, was Badende wie Korken auf der Oberfläche schwimmen lässt",
+        "Beherbergt extrem hohe Populationen von winzigen Salinenkrebsen, aber absolut keine Fische",
+        "Das Schrumpfen des Sees bedroht die Stadt Salt Lake City extrem durch potenziell giftige, wehende Staubstürme vom Seebett"
+      ]
+    },
+    {
+      "id": "key-west-nature-v2",
+      "descriptionAdvanced": "Key West ist die absolut südlichste und am stärksten isolierte Stadt der zusammenhängenden Vereinigten Staaten, gelegen auf der letzten bewohnten Insel der korallinen Inselkette der Florida Keys im Golf von Mexiko. Geografisch liegt die Insel extrem nah an Kuba (nur etwa 145 Kilometer oder 90 Meilen entfernt). Die Natur hier wird massiv von einem tropischen Klima, Mangrovenwäldern und dem drittgrößten Barriereriffsystem der Welt (dem Florida Reef) geprägt, welches die Küste vor extremer Brandung schützt. Historisch profitierte Key West im 19. Jahrhundert massiv vom lukrativen, oft gefährlichen Geschäft der Bergung von Schiffswracks ('Wrecking'), die am tödlichen Riff zerschellten. Heute ist die isolierte, kulturell extrem entspannte Enklave (mit ihren berühmten sechzehigen Hemingway-Katzen und freilaufenden Hühnern) extrem stark von massivem Tourismus und der Kreuzfahrtindustrie abhängig. Geographie K7 — Korallenriffe, tropisches Klima und extreme geografische Randlagen.",
+      "factsAdvanced": [
+        "Der südlichste bewohnte geografische Punkt der kontinentalen (zusammenhängenden) USA",
+        "Ist extrem isoliert und geografisch näher an Havanna, Kuba, als an Miami, Florida",
+        "Wird vom amerikanischen Festland nur durch die gigantische Brückenstraße 'Overseas Highway' (US-1) erreicht",
+        "War im 19. Jahrhundert durch das Bergungsgeschäft von gesunkenen Schiffswracks extrem wohlhabend",
+        "Berühmt für das Haus des Schriftstellers Ernest Hemingway und seine mutierten, sechzehigen Katzen",
+        "Das vorgelagerte Riff ist das absolut einzige lebende Korallenbarriere-Riff der kontinentalen USA"
+      ]
+    },
+    {
+      "id": "hudson-river-nature-v2",
+      "descriptionAdvanced": "Der Hudson River im Bundesstaat New York ist geografisch und historisch eine der absolut entscheidendsten Wasserstraßen Nordamerikas. Er entspringt in den Adirondack Mountains und fließt fast schnurgerade nach Süden in den Atlantik bei New York City. Ab der Hauptstadt Albany verhält sich der Fluss jedoch nicht wie ein normaler Süßwasserstrom, sondern ist faktisch ein gigantisches, 240 Kilometer langes Ästuar (ein schiffbarer Gezeitenarm des Meeres); das Wasser steigt und fällt extrem spürbar im Rhythmus der atlantischen Ebbe und Flut. Dies machte den Hudson River zur perfekten massiven Super-Autobahn für die frühe Kolonisation. Durch den Anschluss des Eriekanals 1825 an den Hudson wurde er zur logistischen Nabelschnur, die massiv den rasanten wirtschaftlichen Aufstieg New Yorks zur dominanten Metropole der Vereinigten Staaten antrieb. Geographie K8 — Ästuare (Gezeitenflüsse) und frühe Binnenschifffahrt.",
+      "factsAdvanced": [
+        "Der südliche Teil (von Albany bis New York City) ist ein extremes Gezeitenästuar des Atlantischen Ozeans",
+        "Das Wasser fließt im Rhythmus von Ebbe und Flut massiv in zwei Richtungen (flussauf- und flussabwärts)",
+        "Wurde 1609 von dem englischen Seefahrer Henry Hudson (im Auftrag der Niederländer) massiv kartiert",
+        "In Verbindung mit dem Eriekanal (1825) die absolut wichtigste wirtschaftliche Wasserstraße ins US-Inland",
+        "Fließt in seinem Unterlauf dramatisch an den extrem steilen Klippen der 'New Jersey Palisades' vorbei",
+        "Schauplatz der legendären, extrem erfolgreichen Notlandung des US-Airways-Fluges 1549 ('Wunder auf dem Hudson')"
+      ]
+    },
+    {
+      "id": "coconino-national-forest-nature-v2",
+      "descriptionAdvanced": "Der Coconino National Forest im Norden von Arizona ist eine der biologisch absolut vielfältigsten Waldregionen in den Vereinigten Staaten und widerlegt das gängige Klischee, Arizona bestünde nur aus heißer Wüste. Der Wald erstreckt sich massiv um die Stadt Flagstaff herum und reicht von tiefen, extrem heißen Wüstencanyons bis hinauf auf über 3.800 Meter zu den schneebedeckten Gipfeln der San Francisco Peaks, einem erloschenen vulkanischen Gebirgsmassiv (dem höchsten Punkt Arizonas). Das absolut markanteste landschaftliche Merkmal ist der gigantische Ponderosa-Kiefernwald (die Gelbkiefer) – das flächenmäßig größte zusammenhängende Ponderosa-Kiefernwaldgebiet auf dem gesamten Planeten. Die Rinde dieser Bäume verströmt bei Sonnenschein einen markanten Geruch nach Vanille oder Karamell. Die Geologie ist extrem divers, mit tiefroten Sandsteinfelsen (wie in Sedona) und weiten Lavafeldern. Ökologie K8 — Mikroklimata, Höhenzonen und der Ponderosa-Kiefernwald.",
+      "factsAdvanced": [
+        "Beherbergt den absolut größten zusammenhängenden Ponderosa-Kiefernwald (Gelbkiefern) der gesamten Erde",
+        "Die Flora ändert sich extrem drastisch durch die Höhenlagen, von roter Wüste zu hochalpiner Tundra",
+        "Schließt die San Francisco Peaks ein, die extrem massiven Überreste eines alten Stratovulkans",
+        "Humphreys Peak im Wald ist mit 3.851 Metern der mit Abstand höchste Punkt in Arizona",
+        "Die Rinde der reifen Ponderosa-Kiefern duftet in der Hitze oft extrem markant nach Vanille oder Buttertoffee",
+        "Beinhaltet die berühmten, massiven roten Felsformationen (Red Rocks) rund um die Region Sedona"
+      ]
+    }
+  ]
+}

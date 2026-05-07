@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBeninEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBeninHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBeninLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBeninLifeV2.ts",
+    "lib/visualLab/data/poiExtraBeninNatureV2.ts",
+    "lib/visualLab/data/poiExtraBeninReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cotonou-cities-v2",
+      "descriptionAdvanced": "Cotonou este inima economică a Beninului, situată strategic pe coasta Atlanticului. Orașul găzduiește piața Dantokpa, una dintre cele mai mari și animate piețe în aer liber din Africa de Vest, unde cultura tradițională se întâlnește cu comerțul modern. Portul Cotonou este esențial pentru economia întregii regiuni, facilitând legăturile comerciale internaționale. Geografia K7 — zone urbane și noduri comerciale.",
+      "factsAdvanced": [
+        "Cotonou este cel mai mare oraș din Benin.",
+        "Piața Dantokpa se întinde pe mai mult de 20 de hectare.",
+        "Portul Cotonou deservește și țările din regiune fără ieșire la mare.",
+        "Orașul a cunoscut o dezvoltare rapidă după anii 1960.",
+        "Climatul este tropical cu două sezoane umede principale.",
+        "Găzduiește sediul central al mai multor bănci regionale."
+      ]
+    },
+    {
+      "id": "porto-novo-cities-v2",
+      "descriptionAdvanced": "Porto-Novo, capitala oficială a Beninului, păstrează o arhitectură colonială unică și o istorie bogată legată de regatul cu același nume. Situat în apropierea lagunei și a râului Ouémé, orașul oferă o perspectivă asupra influențelor afro-braziliene care au modelat cultura locală de-a lungul secolelor. Muzeul Etnografic din centrul orașului este un punct de reper pentru înțelegerea diversității etnice locale. Istorie K8 — moștenirea colonială și diversitatea culturală.",
+      "factsAdvanced": [
+        "Porto-Novo a fost fondat ca un regat în secolul al XVI-lea.",
+        "Arhitectura orașului prezintă un amestec de stiluri portugheze și africane.",
+        "Este centrul administrativ oficial al țării.",
+        "Orașul este situat aproape de granița cu Nigeria.",
+        "Clima este tropicală, similară cu cea din restul sudului Beninului.",
+        "Deține un muzeu etnografic renumit pentru colecțiile sale de măști."
+      ]
+    },
+    {
+      "id": "abomey-cities-v2",
+      "descriptionAdvanced": "Abomey a fost capitala legendarului Regat Dahomey, o putere dominantă în regiune între secolele XVII și XIX. Orașul este celebru pentru Palatele Regale, incluse în patrimoniul mondial UNESCO, care ilustrează istoria și tradițiile regilor Dahomey. Astăzi, Abomey rămâne un centru cultural vital, unde tradițiile Voodoo sunt încă profund integrate în viața de zi cu zi a populației Fon. Istorie K8 — imperii africane și monumente UNESCO.",
+      "factsAdvanced": [
+        "Palatele regale din Abomey au fost construite între 1625 și 1900.",
+        "Regatul Dahomey era recunoscut pentru armata sa de 'Amazoane'.",
+        "Orașul a servit drept capitală pentru 12 regi succesivi.",
+        "Zidurile palatelor sunt decorate cu basoreliefuri simbolice.",
+        "Abomey este centrul istoric al etniei Fon.",
+        "Muzeul Istoric din Abomey găzduiește artefacte regale inestimabile."
+      ]
+    },
+    {
+      "id": "ouidah-cities-v2",
+      "descriptionAdvanced": "Ouidah este un oraș istoric cu o semnificație profundă, fiind un punct central al comerțului transoceanic cu sclavi și totodată locul de naștere al religiei Voodoo în Benin. Templul Pythonilor și Drumul Sclavilor (Route des Esclaves) marchează momentele tragice și spirituale din istoria orașului. Astăzi, Ouidah atrage vizitatori interesați de cultura spirituală și de istoria complexă a traficului de oameni din Africa. Istorie K8 — sclavie și tradiții spirituale.",
+      "factsAdvanced": [
+        "Templul Pythonilor din Ouidah este un loc sacru pentru adepții Voodoo.",
+        "Poarta Fără Întoarcere este un monument ridicat în amintirea sclavilor.",
+        "Orașul a fost un important punct de schimb comercial european în secolul al XVII-lea.",
+        "Ouidah găzduiește festivaluri culturale anuale de renume internațional.",
+        "Fortăreața portugheză datează din 1721.",
+        "Drumul Sclavilor se întinde pe 4 kilometri până la țărmul oceanului."
+      ]
+    },
+    {
+      "id": "parakou-cities-v2",
+      "descriptionAdvanced": "Parakou este cel mai mare oraș din nordul Beninului și un nod comercial strategic între coasta Atlanticului și statele din Sahel. Orașul se dezvoltă ca un centru educațional și cultural, fiind punctul de oprire principal pentru călătorii care traversează țara de la sud la nord. Piața sa vibrantă oferă produse locale variate, reflectând diversitatea comunităților din nordul Beninului. Geografia K7 — rețele comerciale interregionale.",
+      "factsAdvanced": [
+        "Parakou este capitala departamentului Borgou.",
+        "Orașul este un punct central pe calea ferată ce leagă Cotonou de nord.",
+        "Este un centru major pentru comerțul cu bumbac și arahide.",
+        "Universitatea din Parakou este un pilon educațional regional.",
+        "Comunitatea Bariba reprezintă grupul etnic majoritar în oraș.",
+        "Orașul este cunoscut pentru festivalul tradițional Gani."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "lang": "de",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tortugas-marinas-isla-juan-venado-life-v2",
+      "descriptionAdvanced": "Das Naturreservat Isla Juan Venado ist eine langgestreckte Barriereinsel an der Küste von León, bestehend fast ausschließlich aus unberührten Mangroven und dunklem Vulkansand. Zwischen August und Dezember verwandeln sich diese Strände in ein lebenswichtiges Nistgebiet für stark gefährdete Meeresschildkröten, insbesondere die Oliv-Bastardschildkröte (Paslama). Da die Insel nicht dauerhaft bewohnt ist, bietet sie eine weitgehend störungsfreie Umgebung. Lokale Schutzinitiativen und Naturschutzorganisationen patrouillieren in der Nacht, sammeln die frisch gelegten Eier ein und bringen sie in gesicherte Brutstationen (Viveros), um sie vor Wilderern und natürlichen Fressfeinden zu retten. Touristen können beim Freilassen der winzigen Schlüpflinge ins Meer helfen, ein zutiefst bewegendes ökologisches Erlebnis. Naturkunde K5 — Meeresschildkröten und Artenschutz.",
+      "factsAdvanced": [
+        "Die Insel Juan Venado ist eine 22 Kilometer lange, unbewohnte Sandbank an der Pazifikküste.",
+        "Wichtiger Nistplatz für die vom Aussterben bedrohte Oliv-Bastardschildkröte (Lepidochelys olivacea).",
+        "Lokale NGOs betreiben Brutstationen (Viveros), um die Eier vor Wilderern und Hunden zu schützen.",
+        "Die geschlüpften Baby-Schildkröten werden normalerweise in den späten Nachmittagsstunden freigelassen.",
+        "Das Mangroven-Ökosystem hinter dem Strand beheimatet zudem Kaimane und Dutzende von Vogelarten.",
+        "Besucher erreichen die Insel nur per Boot, meist von der benachbarten Gemeinde Las Peñitas aus."
+      ]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "descriptionAdvanced": "Der Parque Central in Granada ist nicht nur das koloniale Postkartenmotiv für Erwachsene, sondern auch der pulsierende Lebensmittelpunkt für die Kinder der Stadt. Zwischen massiven, jahrhundertealten Bäumen, die kühlen Schatten spenden, reihen sich kleine Kioske aneinander, die Vigorón und Raspados (Sirup-Eis) verkaufen. Für Kinder ist der Park ein riesiger, sicherer Freiluft-Spielplatz: Kutschfahrten (Coches) starten hier zu Stadtrundfahrten, während an Wochenenden Clowns, Straßenkünstler und Luftballonverkäufer das Bild prägen. Dieser Platz demonstriert die lateinamerikanische Kultur des öffentlichen Raumes, in der das Familienleben und die kindliche Freizeitgestaltung sich nahtlos mit der historischen Architektur der ältesten Stadt des Landes vermischen. Kultur K5 — Urbane Familienräume und traditionelle Straßenverkäufer.",
+      "factsAdvanced": [
+        "Der zentrale Park der Stadt Granada (Plaza de la Independencia), umgeben von kolonialen Bauten.",
+        "Ein sozialer Hotspot, an dem Familien an Wochenenden flanieren und traditionelles Streetfood essen.",
+        "Berühmt für die traditionellen Pferdekutschen (Coches), die Kinder auf Stadtrundfahrten mitnehmen.",
+        "Der Platz wird oft für spontane Spiele, Musikaufführungen und Volksfeste genutzt.",
+        "Im Zentrum des Parks steht ein Pavillon, umgeben von schattigen, majestätischen Bäumen.",
+        "Fliegende Händler bieten lokale Süßigkeiten, Luftballons und handgemachtes Spielzeug an."
+      ]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "descriptionAdvanced": "Die Finca El Platanal ist ein exzellentes Beispiel für den wachsenden Trend des Agro-Ökotourismus in Nicaragua, der sich auf Edelkakaoproduktion konzentriert. Mitten im fruchtbaren pazifischen Becken gelegen, nutzt die Farm ein dichtes Baldachin-System, bei dem Kakaobäume im Schatten von Bananen- (Platanos) und riesigen Tropenbäumen wachsen. Diese Methode bewahrt die Bodenfeuchtigkeit und schützt die sensiblen Kakaopflanzen. Besucher können auf der Finca den gesamten magischen Transformationsprozess des Cacao – vom Aufbrechen der Fruchtkapseln über die Fermentation der Bohnen in Holzkisten bis hin zur Röstung – hautnah erleben. Es ist ein sensorisches Erlebnis, das Nicaraguas historische Wurzeln in der Maya-Kultur, wo Kakao als Währung diente, wieder aufleben lässt. Wirtschaft K6 — Agroforstwirtschaft und Schokoladenproduktion.",
+      "factsAdvanced": [
+        "Spezialisiert auf den Anbau von hochwertigem Edelkakao im "Shade-Grown"-Verfahren.",
+        "Kakao wird in Symbiose mit Schattenpflanzen wie Kochbananen (Plátanos) und Edelhölzern angebaut.",
+        "Die Finca bietet detaillierte "Vom Baum zur Bohne"-Touren für Touristen an.",
+        "Demonstriert traditionelle Fermentations- und Sonnentrocknungsprozesse der Kakaobohnen.",
+        "Fördert biologische Landwirtschaft, um die reiche Insekten- und Vogelwelt zu erhalten.",
+        "Kakao aus solchen nicaraguanischen Fincas wird oft von europäischen Premium-Chocolatiers gekauft."
+      ]
+    },
+    {
+      "id": "hertylandia-amusement-park-life-v2",
+      "descriptionAdvanced": "Hertylandia, gelegen im Departement Carazo nahe der Stadt Jinotepe, ist der älteste und nostalgischste Vergnügungspark Nicaraguas. In den 1990er Jahren vom Unternehmer Herty Lewites gegründet, war der Park für eine ganze Generation von Nicaraguanern das ultimative Wochenendziel und eine Miniatur-Antwort auf amerikanische Themenparks. Obwohl der Zahn der Zeit und wirtschaftliche Krisen an den Fahrgeschäften – von Achterbahnen bis zum Geisterhaus – genagt haben, ist Hertylandia durch seinen angeschlossenen Wasserpark und die Schwimmbecken an heißen Tagen immer noch ein Magnet für Familien. Der Park ist tief in der Popkultur des Landes verankert und zeugt vom Bedürfnis nach familiärer Freizeitgestaltung in der Post-Kriegs-Ära. Kultur K5 — Populärkultur und historische Themenparks.",
+      "factsAdvanced": [
+        "Nicaraguas ältester großer Vergnügungspark, gegründet von Herty Lewites (ehemaliger Bürgermeister Managuas).",
+        "Gelegen in der angenehm kühlen Hochebene von Carazo, in der Nähe von Jinotepe.",
+        "Bietet eine Mischung aus klassischen mechanischen Fahrgeschäften und mehreren Schwimmbecken.",
+        "Ein stark von Nostalgie geprägter Ort für die Millennials des Landes.",
+        "Verfügt über ein künstliches Spukhaus (Casa del Terror), das landesweit legendär ist.",
+        "Der Wasserpark-Sektor ist heute der am stärksten besuchte Teil der Anlage."
+      ]
+    },
+    {
+      "id": "el-chocoyero-el-brujo-reserve-life-v2",
+      "descriptionAdvanced": "Das Naturreservat El Chocoyero - El Brujo, weniger als 30 Kilometer von der Hauptstadt Managua entfernt, ist ein spektakuläres geologisches Refugium. Es liegt in einem tief eingeschnittenen Canyon, der das Mikroklima feucht hält und dichten Tropenwald ermöglicht. Das Reservat ist landesweit berühmt für zwei Dinge: Zwei wunderschöne Wasserfälle, die aus den Klippen stürzen, und eine Kolonie von Tausenden wilden grünen Papageien (Chocoyos), die in die weichen, senkrechten Tuffsteinwände neben den Wasserfällen nisten. Jeden Morgen bei Sonnenaufgang und jeden Nachmittag bei Sonnenuntergang erfüllt ein ohrenbetäubendes Kreischen die Luft, wenn Schwärme dieser Vögel ausfliegen oder zurückkehren – ein atemberaubendes Naturschauspiel direkt vor den Toren der Stadt. Naturkunde K6 — Schluchtenökosysteme und Ornithologie.",
+      "factsAdvanced": [
+        "Das Naturreservat ist berühmt für Tausende von nistenden pazifischen Sittichen (Chocoyos).",
+        "Die Vögel nisten in den weichen, vertikalen Felswänden direkt neben einem Wasserfall.",
+        "Beherbergt zwei Wasserfälle (El Chocoyero und El Brujo), die die städtische Wasserversorgung speisen.",
+        "Trotz der Nähe zur Millionenstadt Managua (ca. 30 km) ein unberührtes Feuchtwald-Ökosystem.",
+        "Der Park liefert rund 20 % des Trinkwassers für die Hauptstadt Managua.",
+        "Besucher können neben Vögeln auch Pumas, Brüllaffen und Agutis beobachten."
+      ]
+    },
+    {
+      "id": "aventura-las-nubes-zipline-life-v2",
+      "descriptionAdvanced": "Das Aventura Las Nubes Zipline (Canopy Tour) bietet einen spektakulären Adrenalinrausch in den Wäldern nahe der Küstenstadt San Juan del Sur. Auf einem Bergrücken gelegen, ermöglicht diese Anlage Besuchern, an Stahlseilen hoch über den Wipfeln des Dschungels zu schweben. Von den Plattformen aus hat man einen atemberaubenden Blick über die halbmondförmige Bucht, die Christusstatue und den weiten Pazifik. Gleichzeitig ist das Projekt stark ökologisch ausgerichtet; die Konstruktion wurde schonend in den Baumbestand integriert, um den Lebensraum von Brüllaffen und Faultieren nicht zu stören. Solche Zipline-Parks haben maßgeblich dazu beigetragen, den nicaraguanischen Tourismus von einem reinen Backpacker-Ziel zu einem Hub für Öko-Abenteuer zu machen. Geografie K6 — Abenteuertourismus und Waldökologie.",
+      "factsAdvanced": [
+        "Eine spektakuläre Seilrutschen-Anlage (Canopy Tour) in den Bergen über San Juan del Sur.",
+        "Verfügt über kilometerlange Stahlseile und Plattformen hoch oben im dichten Blätterdach.",
+        "Bietet Teilnehmern einen unvergleichlichen Blick auf die Bucht von San Juan del Sur und den Pazifik.",
+        "Die Anlage wurde so konstruiert, dass sie die Baumkronen nicht schädigt.",
+        "Faultiere, Leguane und laute Brüllaffen sind regelmäßige Beobachter der Touristen.",
+        "Repräsentiert den Boom des Abenteuer-Ökotourismus in Süd-Nicaragua."
+      ]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "descriptionAdvanced": "Die Finca Ecológica La Bomba in den Bergen repräsentiert die stille Revolution der nicaraguanischen Kaffeeproduktion hin zu extremer Nachhaltigkeit. Anders als traditionelle Großplantagen hat sich diese Finca komplett von synthetischen Düngern und Pestiziden abgewandt. Die Kaffeesträucher wachsen in völliger Symbiose mit Bananenstauden, Zitrusfrüchten und alten Mahagonibäumen, was den Boden vor Erosion schützt und Feuchtigkeit speichert. Das Wasser für die Kaffeewäsche wird recycelt und gefiltert, um die nahegelegenen Bäche sauber zu halten. Touristen und Schulklassen besuchen La Bomba oft als praktisches Studienobjekt, um zu lernen, wie Permakultur nicht nur die Umwelt rettet, sondern auch Bohnen mit feineren, komplexeren Geschmacksprofilen erzeugt. Ökologie K7 — Permakultur und nachhaltige Kaffeeproduktion.",
+      "factsAdvanced": [
+        "Eine Bio-Kaffeefinca, die vollständig auf die Prinzipien der Permakultur setzt.",
+        "Verwendet ausschließlich natürlichen Kompost und organische Schädlingsbekämpfung (keine Chemikalien).",
+        "Der Kaffee (Shade-grown) wächst im Schatten seltener Edelhölzer, was Bodenerosion verhindert.",
+        "Die Finca recycelt das sogenannte "Honigwasser" (Aguas Mieles), das beim Waschen des Kaffees entsteht.",
+        "Ein wichtiger Unterschlupf für wandernde Vogelarten, die auf insektenreiche Wälder angewiesen sind.",
+        "Bietet Workshops für lokale Bauern an, um biologische Anbaumethoden in der Region zu verbreiten."
+      ]
+    },
+    {
+      "id": "rio-coco-nature-v2",
+      "descriptionAdvanced": "Der Río Coco (auch Río Segovia oder Wangki genannt) ist der längste und wohl geschichtsträchtigste Fluss Zentralamerikas. Mit einer Länge von rund 750 Kilometern entspringt er im nicaraguanischen Hochland und bildet auf seinem gewundenen Weg in die Karibik fast die gesamte natürliche Grenze zu Honduras. Er ist die unersetzliche Lebensader der indigenen Miskito-Kultur, die seine Ufer seit Jahrtausenden besiedelt. Historisch war der Fluss die wichtigste Invasionsroute für Piraten und später ein stark umkämpfter Grenzkorridor während des Contra-Krieges in den 1980er Jahren. In seinem Mittellauf schneidet sich der Río Coco durch spektakuläre Canyons (wie in Somoto), bevor er sich in der flachen Mosquitoküste verliert. Geografie K8 — Transnationale Flusssysteme und indigene Territorien.",
+      "factsAdvanced": [
+        "Der längste Fluss Zentralamerikas mit einer Gesamtlänge von schätzungsweise 750 Kilometern.",
+        "Bildet über weite Strecken die natürliche und völkerrechtliche Grenze zwischen Nicaragua und Honduras.",
+        "Entspringt im Departement Choluteca in Honduras und mündet am Kap Gracias a Dios in die Karibik.",
+        "Von der indigenen Miskito-Bevölkerung wird er ehrfürchtig "Wangki" genannt.",
+        "Der Fluss durchfließt den berühmten Somoto-Canyon (Cañón de Somoto) im Departement Madriz.",
+        "Dient Dutzenden extrem isolierter indigener Gemeinden als einzige Transportroute."
+      ]
+    },
+    {
+      "id": "lago-de-nicaragua-nature-v2",
+      "descriptionAdvanced": "Der Nicaraguasee, von den Einheimischen stolz Lago Cocibolca ("Süßes Meer") genannt, ist der größte See Mittelamerikas und das bestimmende geografische Element des Landes. Der Süßwasserriese ist so gewaltig, dass er sichtbare Gezeiten und Stürme mit gefährlichem Wellengang aufweist. Er ist weltweit einmalig für seine Fauna: Als einziger Süßwassersee der Welt beheimatet er Bullenhaie, die durch den Río San Juan aus der Karibik aufsteigen, sowie den prähistorischen Gaspar-Fisch. Im See erheben sich Hunderte von Inseln, darunter das atemberaubende Vulkan-Archipel Ometepe. Aufgrund seiner immensen Größe war der See historisch das Kernstück aller Pläne für einen transozeanischen Kanal. Geografie K8 — Große Seen, Tektonik und einzigartige Ichthyofauna.",
+      "factsAdvanced": [
+        "Mit einer Fläche von über 8.200 Quadratkilometern der größte See in Zentralamerika.",
+        "Die Spanier nannten ihn "La Mar Dulce" (Das süße Meer) wegen seiner enormen Größe und Wellen.",
+        "Der einzige Süßwassersee der Erde, in dem eine Population von Bullenhaien (Carcharhinus leucas) lebt.",
+        "Über den Río San Juan ist der See direkt mit dem Karibischen Meer verbunden.",
+        "Beherbergt das riesige Vulkan-Archipel Ometepe sowie das Zapatera-Archipel und die Isletas de Granada.",
+        "Nicaragua nutzt den See als wichtiges Trinkwasserreservoir, Fischerquelle und Transportweg."
+      ]
+    },
+    {
+      "id": "lago-de-managua-nature-v2",
+      "descriptionAdvanced": "Der Managuasee, offiziell Lago Xolotlán, dominiert die nördliche Skyline der nicaraguanischen Hauptstadt. Im Gegensatz zum gewaltigen Nicaraguasee, mit dem er durch den (meist trockenen) Fluss Tipitapa verbunden ist, hat der Xolotlán eine tragische Umweltgeschichte. Jahrzehntelang leiteten Fabriken (darunter eine berüchtigte Chlor-Alkali-Anlage) und die Millionenstadt Managua ihre Abwässer ungefiltert in den See, was ihn extrem kontaminierte. Erst in den letzten zwei Jahrzehnten haben staatliche Kläranlagen und massiv geförderte Sanierungsprojekte (wie der Puerto Salvador Allende) begonnen, den See zu rehabilitieren. Trotz der Verschmutzung fischen arme Bevölkerungsschichten in seinen Gewässern, und der See bietet atemberaubende Sonnenuntergänge vor der Vulkanhalbinsel Chiltepe. Geografie K7 — Urbane Umweltverschmutzung und See-Sanierung.",
+      "factsAdvanced": [
+        "Der zweitgrößte See Nicaraguas, direkt an dessen Südufer die Hauptstadt Managua liegt.",
+        "Erreicht eine maximale Tiefe von etwa 20 Metern, ist jedoch extrem flach in Ufernähe.",
+        "Wurde im 20. Jahrhundert durch Quecksilber einer Chemieanlage und Abwässer der Hauptstadt stark verseucht.",
+        "Verbunden mit dem Nicaraguasee durch den Río Tipitapa, der nur in sehr nassen Jahren Wasser führt.",
+        "Die Halbinsel Chiltepe mit dem Vulkan Apoyeque ragt markant in den See hinein.",
+        "Ein massives Wasseraufbereitungsprojekt (gefördert durch Deutschland) versucht derzeit, das Wasser zu retten."
+      ]
+    },
+    {
+      "id": "solentiname-archipelago-nature-v2",
+      "descriptionAdvanced": "Das Solentiname-Archipel besteht aus 36 tiefgrünen Inseln im entlegenen südöstlichen Teil des Nicaraguasees. Das Archipel ist weltberühmt für seinen Beitrag zur lateinamerikanischen Kunst und Theologie. In den 1960er Jahren gründete der Priester und Dichter Ernesto Cardenal hier eine christliche Kommune. Er lehrte die lokalen Bauernfamilien die primitive, naive Malerei und die Schnitzkunst, was den farbenfrohen "Solentiname-Stil" hervorbrachte, der heute weltweit gesammelt wird. Gleichzeitig wurde die Inselgruppe zu einem philosophischen Zentrum der Befreiungstheologie. Die unberührten Inseln, dicht bewachsen mit tropischem Dschungel und umgeben von fischreichen Gewässern, sind ein friedliches Refugium, das ohne Autos oder Straßen existiert und nur per Boot aus San Carlos erreichbar ist. Kunstgeschichte K8 — Naive Kunst, Befreiungstheologie und Inselgemeinschaften.",
+      "factsAdvanced": [
+        "Eine Gruppe von 36 kleinen, vulkanischen Inseln im südöstlichen Nicaraguasee.",
+        "Die größte und wichtigste Insel des Archipels ist Mancarrón.",
+        "Der Dichter und Priester Ernesto Cardenal gründete hier 1966 eine berühmte Künstlerkolonie.",
+        "Der extrem farbenfrohe, primitive "Solentiname-Malerstil" stammt von den hiesigen Bauernfamilien.",
+        "Wurde während der Revolution 1977 von der Somoza-Nationalgarde als Vergeltung zerstört.",
+        "Es gibt keine Autos oder Straßen auf den Inseln; Solarstrom ist erst seit kurzem verbreitet."
+      ]
+    },
+    {
+      "id": "pearl-cays-nature-v2",
+      "descriptionAdvanced": "Die Pearl Cays (Cayos Perlas) sind ein atemberaubendes, extrem abgelegenes Archipel von 18 winzigen Koralleninseln vor der Karibikküste Nicaraguas (RACCS). Mit blendend weißen Sandstränden, wankenden Palmen und türkisblauem Wasser sehen sie aus wie der Inbegriff eines karibischen Paradieses. Geologisch und ökologisch sind sie von unschätzbarem Wert: Die Riffe um die Inseln sind Lebensraum für Delfine, Mantarochen und unzählige Fischarten. Vor allem aber sind die Cayos eines der wichtigsten Nistgebiete für die gefährdete Echte Karettschildkröte (Hawksbill). Die Inseln standen im Zentrum hitziger Rechtsstreitigkeiten, da ausländische Investoren versuchten, sie privat aufzukaufen, während sie historisch den indigenen Gemeinschaften der Perlenlagune gehören. Geografie K7 — Korallenriffe und territoriale Rechte an Küsten.",
+      "factsAdvanced": [
+        "Ein isoliertes Archipel von 18 kleinen Inseln in der Karibischen See, ca. 30 km vor der Küste.",
+        "Ein global kritischer Nistplatz für die vom Aussterben bedrohte Echte Karettschildkröte (Carey).",
+        "Die Inseln sind fast ausschließlich von Palmen, Mangroven und feinem, weißen Korallensand bedeckt.",
+        "Zentrum jahrelanger rechtlicher Konflikte zwischen indigenen Kreolen und ausländischen Immobilienmaklern.",
+        "Das Tauchen (Snorkeling) in den umgebenden unberührten Riffen ist weltklasse.",
+        "Die Erreichbarkeit ist oft wetterabhängig und erfordert eine raue Bootsfahrt aus der Laguna de Perlas."
+      ]
+    },
+    {
+      "id": "rio-escondido-nature-v2",
+      "descriptionAdvanced": "Der Río Escondido ist der logistische Blutkreislauf Ostnicaraguas. Entstanden aus dem Zusammenfluss der Flüsse Mico, Siquia und Rama in der Hafenstadt El Rama, fließt er als breiter, schlammiger Strom durch dichten Dschungel direkt in die Bucht von Bluefields an der Karibik. Sein Name "Der versteckte Fluss" rührt daher, dass seine Mündung in der weiten Bucht von Bluefields vom Ozean aus schwer zu erkennen ist. Historisch nutzten britische Piraten den Fluss, um sich vor den Spaniern zu verstecken. Heute ist er die am stärksten befahrene Wasserstraße des Landes, auf der riesige Lastkähne (Barges) und kleine Schnellboote (Pangas) die gesamte Fracht und alle Passagiere transportieren, da Bluefields jahrzehntelang keine Straßenverbindung ins Landesinnere hatte. Geografie K7 — Binnenschifffahrt und Karibik-Flüsse.",
+      "factsAdvanced": [
+        "Der Fluss bildet sich bei der Hafenstadt El Rama durch den Zusammenfluss von drei kleineren Strömen.",
+        "Fließt nach etwa 90 Kilometern in die Bucht von Bluefields an der Karibikküste.",
+        "Historisch ein wichtiges Versteck für britische und niederländische Piraten (daher "Escondido").",
+        "Die tiefste und navigierbarste Binnenwasserstraße für Frachtschiffe in Nicaragua.",
+        "Dichte Mangroven und unberührter Dschungel säumen die steilen Ufer des Flusses.",
+        "Schnellboote (Pangas) bewältigen die Strecke El Rama - Bluefields in knapp zwei Stunden."
+      ]
+    },
+    {
+      "id": "indio-maiz-reserve-nature-v2",
+      "descriptionAdvanced": "Das Biologische Reservat Indio Maíz ist Nicaraguas ungezähmte grüne Lunge und das am besten erhaltene primäre Regenwaldgebiet Mittelamerikas. Im tiefen Südosten an der Grenze zu Costa Rica gelegen, ist dieser extrem dichte, regenreiche Dschungel so isoliert, dass er ein Refugium für Nicaraguas letzte verbliebene Harpyien-Adler, Jaguare und Baird-Tapire bietet. Die Artenvielfalt ist erdrückend, mit mehr Baum- und Insektenarten als in ganz Europa zusammen. Dennoch ist das Reservat unter massiver Bedrohung: In den letzten Jahren sind illegale Siedler (Colonos) tief in das Schutzgebiet eingedrungen, um Wald für Viehweiden abzuholzen, was 2018 zu einem verheerenden Waldbrand und landesweiten Protesten führte. Ökologie K8 — Primärwälder und illegale Landnahme.",
+      "factsAdvanced": [
+        "Mit über 3.000 Quadratkilometern das am besten geschützte Regenwaldgebiet Mittelamerikas.",
+        "Heimat von Großkatzen wie dem Jaguar und dem Puma, sowie dem extrem seltenen Tapir.",
+        "Nur der äußere Rand des Reservats darf von Touristen (in Begleitung von indigenen Rama-Guides) betreten werden.",
+        "Wird von den tiefen, schwarzen Flüssen Indio und Maíz durchschnitten.",
+        "Ein massiver Waldbrand im Jahr 2018 zerstörte weite Flächen und löste politische Proteste in Managua aus.",
+        "Die indigene Rama-Bevölkerung kämpft politisch und physisch gegen das illegale Eindringen von Viehzüchtern."
+      ]
+    },
+    {
+      "id": "peninsula-de-chiltepe-nature-v2",
+      "descriptionAdvanced": "Die Halbinsel Chiltepe ist ein wuchtiges vulkanisches Relikt, das dominant in den Managuasee (Xolotlán) ragt und das Panorama der Hauptstadt Managua beherrscht. Sie entstand durch eine Serie gewaltiger Eruptionen, die zwei perfekte Vulkankrater hinterließen, die heute tiefe Kraterseen bilden: die Lagune Apoyeque und die Lagune Xiloá. Während Xiloá ein beliebtes Freizeitziel ist, ist der Krater des Apoyeque schwer zugänglich und von dichtem Wald umgeben. Geologisch betrachtet ist die Chiltepe-Halbinsel eine schlafende Bedrohung; Seismologen warnen regelmäßig vor der seismischen Aktivität in der Region, da die Vulkane hier zu den explosivsten der Welt gehören könnten. Geografie K7 — Vulkanische Halbinseln und Kraterseen.",
+      "factsAdvanced": [
+        "Eine massiv sichtbare vulkanische Halbinsel, die in das südliche Becken des Managuasees ragt.",
+        "Beherbergt den Vulkankomplex Apoyeque mit seinen zwei tiefen Kraterseen (Apoyeque und Xiloá).",
+        "Der Apoyeque-Vulkan gilt laut Vulkanologen als einer der potenziell gefährlichsten weltweit.",
+        "Wurde im Jahr 2001 als offizielles Naturschutzgebiet (Reserva Natural) ausgewiesen.",
+        "Die Vegetation auf der Halbinsel besteht vorwiegend aus extrem trockenem Buschwald.",
+        "Ein starkes Erdbebenepizentrum im Jahr 2014 lag exakt unterhalb der Halbinsel Chiltepe."
+      ]
+    },
+    {
+      "id": "la-flor-wildlife-refuge-nature-v2",
+      "descriptionAdvanced": "Das Refugio de Vida Silvestre La Flor, gelegen an der Pazifikküste südlich von San Juan del Sur, ist einer der wichtigsten Schutzorte der Erde für die Reproduktion von Meeresschildkröten. Dieses kleine, halbmondförmige Stück Sandstrand ist berühmt für die "Arribadas", wenn zwischen August und Januar zehntausende Oliv-Bastardschildkröten gleichzeitig an Land stürmen, um ihre Eier in mondlosen Nächten abzulegen. Wenige Wochen später schlüpfen Millionen winziger Schildkröten und kriechen hektisch zum Ozean – ein Festmahl für Raubvögel und Krebse. Nicaraguanische Soldaten und Parkranger schützen das Gebiet strengstens vor Eier-Wilderern, die den Fortbestand der Art gefährden. Naturkunde K7 — Schildkrötenmassenankünfte und Ranger-Schutz.",
+      "factsAdvanced": [
+        "Ein kleines, aber global bedeutendes Wildtierschutzgebiet nahe der Grenze zu Costa Rica.",
+        "Zählt zu den weltweit nur acht Stränden, die extrem große "Arribadas" (Massenankünfte) erleben.",
+        "In der Hochsaison legen hier in einer einzigen Nacht oft über 10.000 Schildkröten ihre Eier ab.",
+        "Bewaffnete Soldaten der nicaraguanischen Armee schützen den Strand vor Wilderern (Hueveros).",
+        "Das Hinterland des Strandes besteht aus geschütztem, unberührtem tropischen Trockenwald.",
+        "Auch Lederschildkröten und Echte Karettschildkröten nutzen La Flor als seltenen Nistplatz."
+      ]
+    },
+    {
+      "id": "gulf-of-fonseca-nicaragua-nature-v2",
+      "descriptionAdvanced": "Der Golf von Fonseca ist eine atemberaubende und geopolitisch komplexe Meeresbucht am Pazifik, deren Gewässer sich Nicaragua, Honduras und El Salvador teilen. Auf der nicaraguanischen Seite wird der Golf von dem mächtigen Vulkan Cosigüina und weiten Mangrovensümpfen (Estero Real) dominiert. Historisch gab es starke militärische und diplomatische Spannungen zwischen den drei Ländern über die Fischereirechte und die Kontrolle der Inseln im Golf. Heute ist die Bucht ein wichtiges Ökosystem für marine Biodiversität und die lokale handwerkliche Fischerei, während die Regierungen versuchen, das Gebiet in eine gemeinsame "Zone für Frieden und nachhaltige Entwicklung" zu transformieren. Geografie K8 — Trinationale Meeresbuchten und Grenzstreitigkeiten.",
+      "factsAdvanced": [
+        "Eine riesige pazifische Bucht, deren Wasser und Inseln sich El Salvador, Honduras und Nicaragua teilen.",
+        "Der Golf war Gegenstand jahrzehntelanger Territorialstreitigkeiten, die bis vor den Internationalen Gerichtshof gingen.",
+        "Der nicaraguanische Uferabschnitt wird dominiert vom Vulkan Cosigüina und dem Estero Real.",
+        "Das warme und flache Wasser ist ein Brutgebiet für Meeresfrüchte, was es essentiell für Fischer macht.",
+        "Die drei Länder haben Abkommen unterzeichnet, um den Golf gemeinsam wirtschaftlich zu entwickeln.",
+        "Historisch ein wichtiges Versteck für Piraten, darunter Sir Francis Drake, im 16. Jahrhundert."
+      ]
+    },
+    {
+      "id": "rio-tuma-nature-v2",
+      "descriptionAdvanced": "Der Río Tuma ist das Rückgrat des Wasserkraftnetzes und der Landwirtschaft im nördlichen Zentral-Nicaragua. Entspringend im hochgelegenen Departement Jinotega, wurde sein massiver Wasserfluss in den 1960er Jahren durch den Bau eines Staudamms dramatisch verändert, wodurch der künstliche Apanás-See entstand. Nach dem Passieren der Turbinen fließt der Tuma als mächtiger Strom ostwärts, wo er sich schließlich mit dem Río Grande de Matagalpa vereinigt und in die Karibik strömt. Der wilde Lauf des Flusses durch tiefe Dschungeltäler bietet einen Lebensraum für reiche Fauna, aber die unkontrollierte Abholzung der Uferwälder durch Viehzüchter führt zu schwerer Erosion und Sedimentation. Geografie K7 — Wasserkraft und Flusserosion.",
+      "factsAdvanced": [
+        "Einer der wichtigsten Flüsse Nicaraguas für die Erzeugung von erneuerbarer Energie.",
+        "Seine Stauung in Jinotega erschuf den Apanás-See, das Zentrum der nationalen Wasserkraft.",
+        "Der Fluss fließt durch dichten Dschungel und raue Berglandschaften Richtung Karibikküste.",
+        "Der Tuma mündet später in Bocana de Paiwas in den mächtigen Río Grande de Matagalpa.",
+        "Die Wasserqualität des Flusses ist zunehmend durch Pestizide der Kaffeewirtschaft bedroht.",
+        "Zahlreiche isolierte Dorfgemeinschaften (Comunidades) sind auf den Fluss als Wasserquelle angewiesen."
+      ]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "descriptionAdvanced": "Das Naturreservat Tisey-Estanzuela ist ein faszinierender geologischer und biologischer Schatz direkt vor den Toren der Stadt Estelí. Die Landschaft hier bricht schroff ab und formt tiefe Täler und hohe Klippen. Das Reservat ist landesweit bekannt für den Salto de la Estanzuela, einen idyllischen Wasserfall, der in einen kühlen Pool stürzt. Darüber hinaus zieht der "Cerro Apagüiz", ein Felsen mit indigenen Petroglyphen, sowie die kuriose Farm von Alberto Gutiérrez – einem Eremiten, der Hunderte von Figuren in die Klippenwände gemeißelt hat – Touristen an. Das kühle Kiefern- und Eichenwaldklima macht Tisey zu einem Rückzugsort für vom Aussterben bedrohte Bergtierarten. Ökologie K6 — Kiefernwälder und Felsritzungen.",
+      "factsAdvanced": [
+        "Das Reservat (Reserva Natural) schützt Bergwälder und Quellen im Departement Estelí.",
+        "Berühmt für den Salto de la Estanzuela, einen 35 Meter tiefen, natürlichen Wasserfall.",
+        "Heimat des Steinkünstlers Alberto Gutiérrez (Der Einsiedler von Tisey), der Felsen behauen hat.",
+        "Der Berg Apagüiz im Reservat gilt als alter zeremonieller Ort mit prähispanischen Steinschnitzereien.",
+        "Die Vegetation zeichnet sich durch einen abrupten Wechsel von Kiefernwäldern zu tropischem Laubwald aus.",
+        "Zahlreiche kleine Öko-Lodges und Kaffeefincas innerhalb des Reservats fördern den Tourismus."
+      ]
+    },
+    {
+      "id": "rio-prinza-nature-v2",
+      "descriptionAdvanced": "Der Río Prinzapolka ist ein gewaltiger, wilder Fluss in der nördlichen Karibikregion (RACCN), der sich in weiten, braunen Schleifen durch den dichten Dschungel windet. Im 20. Jahrhundert diente dieser Fluss als kritische Logistikroute für den Transport von schweren Maschinen und abgebautem Gold aus dem Bergbau-Dreieck um Siuna an die karibische Küste. Heute ist der Prinzapolka die unverzichtbare Lebensgrundlage für Dutzende indigener Mayangna- und Miskito-Dörfer, die an seinen Ufern siedeln. Die Region ist extrem isoliert und leidet regelmäßig unter katastrophalen Überschwemmungen während der Hurrikan-Saison, wenn der Fluss weit über seine Ufer tritt und die hölzernen Pfahlbauten der Indigenen bedroht. Geografie K7 — Karibische Flusssysteme und indigene Siedlungen.",
+      "factsAdvanced": [
+        "Der Prinzapolka gehört zu den längsten und wasserreichsten Flüssen der nicaraguanischen Karibikseite.",
+        "Historisch die wichtigste Wasserstraße für den Transport von Material in die Goldminen von Siuna.",
+        "Zahlreiche indigene Miskito- und Mayangna-Gemeinschaften siedeln in traditionellen Pfahlbauten an den Ufern.",
+        "In der Regenzeit (insbesondere bei Hurrikanen) überschwemmt der Fluss massive Flächen des Regenwaldes.",
+        "Der Fluss mündet am gleichnamigen Küstendorf Prinzapolka direkt in das Karibische Meer.",
+        "Der Transport im Mittellauf des Flusses erfolgt fast ausschließlich über lange, ausgehöhlte Einbäume (Pipantes)."
+      ]
+    },
+    {
+      "id": "miskito-cays-nature-v2",
+      "descriptionAdvanced": "Die Miskito Cays (Cayos Miskitos) sind eines der unberührtesten und wildesten Meeresökosysteme Zentralamerikas. Weit vor der nordkaribischen Küste gelegen, besteht dieses Labyrinth aus winzigen Mangroveninseln, Seegraswiesen und Korallenriffen. Dieses Gebiet ist nicht nur ein Biosphärenreservat von globaler Bedeutung, sondern auch das historische Jagdrevier des indigenen Miskito-Volkes, das auf Pfahlbauten direkt über dem flachen Meeresspiegel (Tambo) lebt. Die Inseln sind das wichtigste Refugium für den massiven Grünen Leguan, Meeresschildkröten und die schwer fassbaren Seekühe (Manatis). Die extrem schwere Erreichbarkeit schützt das Archipel vor Massentourismus, nicht jedoch vor der ständigen Bedrohung durch verheerende Hurrikane. Naturkunde K8 — Marine Biosphären und indigene Meereskultur.",
+      "factsAdvanced": [
+        "Ein großes, komplexes Korallen- und Mangrovenarchipel über 50 km vor der nicaraguanischen Nordküste.",
+        "Ausgerufenes Biosphärenreservat (Reserva Biológica Cayos Miskitos), um einzigartige Riffe zu schützen.",
+        "Viele indigene Miskito-Fischer leben monatelang in auf Holzpfählen gebauten Hütten direkt über dem Meer.",
+        "Eines der wichtigsten Rückzugsgebiete für karibische Seekühe (Manatis) und Meeresschildkröten.",
+        "Das flache Wasser und die Seegraswiesen (Pastos Marinos) sind extrem wichtig für das Ökosystem.",
+        "Wurde durch Hurrikane (wie Felix 2007) oftmals schwer verwüstet, woraufhin die Riffe Jahre zur Erholung brauchten."
+      ]
+    },
+    {
+      "id": "rio-grande-de-matagalpa-nature-v2",
+      "descriptionAdvanced": "Der Río Grande de Matagalpa ist nach dem Río Coco der zweitlängste Fluss Nicaraguas. Er entspringt hoch in den pazifischen Bergen nahe der Stadt Matagalpa, bahnt sich seinen Weg quer durch den gesamten zentralen Teil des Landes und mündet schließlich an der wilden, karibischen Küste bei Karawala in den Ozean. Dieser Fluss ist die ultimative Brücke zwischen den zwei völlig verschiedenen kulturellen Welten Nicaraguas: den spanischsprachigen, landwirtschaftlichen Hochländern des Pazifiks und dem dschungelbewachsenen, von Indigenen und Kreolen bewohnten Karibikbecken. Staudämme im Oberlauf nutzen seine Energie, während der Unterlauf eine gewaltige, oft von Überflutungen geplagte Wildnis darstellt, die nur mit Booten bezwungen werden kann. Geografie K8 — Transversale Flüsse und Wasserstraßen.",
+      "factsAdvanced": [
+        "Der zweitlängste Fluss des Landes (465 km), der Nicaragua von Westen nach Osten durchschneidet.",
+        "Entspringt in der vulkanischen pazifischen Kordillere und mündet in das Karibische Meer.",
+        "Der Flussname (Grande) verweist auf sein enormes Wassereinzugsgebiet, das 20 % des Landes abdeckt.",
+        "Historisch eine Barriere für die Expansion der Landwirtschaft, heute Zentrum massiver Abholzung an den Ufern.",
+        "Wichtige Wasserstraße für die extrem isolierte, indigene Gemeinde La Cruz de Río Grande.",
+        "Diente im späten 19. und frühen 20. Jahrhundert auch als Handelsweg für den Export ins Ausland."
+      ]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "descriptionAdvanced": "Die Insel Zapatera ist der erloschene, wilde Zwilling des Vulkans Mombacho, der sich aus den Fluten des großen Nicaraguasees erhebt. Ein Großteil der bergigen Insel ist als offizieller Nationalpark ausgewiesen, der dichten Trockenwald und Kraterreste schützt. Im krassen Gegensatz zur touristisch erschlossenen Insel Ometepe ist Zapatera wild, kaum besiedelt und touristisch kaum entwickelt. Das macht die Insel zu einem ungestörten Paradies für Brüllaffen, Hirsche und unzählige Vogelarten. Historisch war die Vulkaninsel der heiligste Kultplatz der Chorotega-Indigenen, die hier hunderte massive Basaltstatuen meißelten. Heute verbinden sich auf Zapatera wilde Natur und unentdeckte Archäologie in extremer Isolation. Geografie K7 — Vulkaninseln und Nationalparks.",
+      "factsAdvanced": [
+        "Die zweitgrößte Insel im Nicaraguasee, bestehend aus einem erloschenen Schildvulkan.",
+        "Das gesamte Gebiet wurde 1983 zum Nationalpark (Parque Nacional Archipiélago de Zapatera) erklärt.",
+        "Ist weltweit berühmt als Fundort monumentaler präkolumbianischer Basaltstatuen (Götzen).",
+        "Die Insel ist fast vollständig von dichten, schwer zugänglichen Wäldern bedeckt.",
+        "Verfügt über keinerlei asphaltierte Straßen und ist nur über eine raue Bootsfahrt aus Granada erreichbar.",
+        "Wenige arme Bauernfamilien siedeln an den Küsten, während das bergige Innere völlig menschenleer ist."
+      ]
+    },
+    {
+      "id": "laguna-de-perlas-nature-v2",
+      "descriptionAdvanced": "Die Perlenlagune (Laguna de Perlas) ist das ausgedehnteste und wichtigste Küstenlagunensystem der nicaraguanischen Karibik. Das brackige, ruhige Gewässer wird von zahlreichen Flüssen gespeist und durch eine schmale Sandbank vom tosenden Ozean getrennt. Diese geografische Besonderheit schafft ein Labyrinth aus tiefen Mangrovenwäldern, das als Kinderstube für Garnelen, Fische und Schildkröten fungiert. An den Ufern der Lagune haben sich afro-karibische (kreolische) und indigene (Miskito und Garifuna) Gemeinschaften angesiedelt, deren Kultur sich völlig um den Fischfang auf der Lagune dreht. Die Lagune bleibt ein fragiles Paradies, das zunehmend durch illegale Abholzung im Hinterland bedroht wird. Geografie K7 — Brackwasserlagunen und Küstenökologie.",
+      "factsAdvanced": [
+        "Die flächenmäßig größte Küstenlagune an der nicaraguanischen Karibikküste (über 500 km²).",
+        "Ein gigantisches Brackwasser-Ökosystem, in dem sich Süßwasserflüsse mit Meerwasser mischen.",
+        "Die umliegenden Wälder und Mangroven sind die Heimat seltener Seekühe (Trichechus manatus).",
+        "An ihren Ufern existieren isolierte Siedlungen der bedrohten indigenen Garifuna-Kultur (z. B. Orinoco).",
+        "Die Lagune ist das wirtschaftliche Zentrum für den hochprofitablen Fang von Krabben und Fischen.",
+        "Der Name "Perlenlagune" stammt von Austern, die hier früher gefunden wurden."
+      ]
+    },
+    {
+      "id": "telica-volcano-nature-v2",
+      "descriptionAdvanced": "Der Vulkan Telica in der Vulkankette Maribios (Departement León) ist eines der aktivsten und bedrohlichsten Naturphänomene Zentralamerikas. Was den 1.061 Meter hohen Vulkan so besonders macht, ist sein tiefer, runder Krater, in dem man fast durchgehend einen See aus flüssiger, orangeroter Magma blubbern sehen und hören kann. Der steile Aufstieg durch karges Vulkangestein belohnt mutige Wanderer mit einem surrealen, nächtlichen Blick in den "Schlund der Erde". Der Telica ist berüchtigt für plötzliche Ascheeruptionen, die oft die umliegenden Erdnussfelder und Dörfer in grauen Staub hüllen. Aus diesem extremen geothermischen Potenzial zieht Nicaragua zudem saubere Energie durch naheliegende Kraftwerke. Naturkunde K8 — Aktiver Vulkanismus und Lavaseen.",
+      "factsAdvanced": [
+        "Einer der aktivsten Schichtvulkane (Stratovulkan) im pazifischen Becken Nicaraguas (1.061 m).",
+        "Sein Krater ist 700 Meter breit und fast 120 Meter tief, mit oft sichtbarer, glühender Lava am Grund.",
+        "Eruptionen mit feinem Ascheregen (Ceniza) bedrohen regelmäßig die benachbarte Stadt León.",
+        "Trotz der Gefahr ist er eines der beliebtesten Ziele für Abenteuertouristen, besonders für Nachtwanderungen.",
+        "Die Hitze des Vulkans treibt das größte Geothermiekraftwerk des Landes (San Jacinto-Tizate) an.",
+        "Am Fuße des Vulkans befinden sich die "Hervideros de San Jacinto", sprudelnde, kochende Schlammlöcher."
+      ]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "descriptionAdvanced": "Die nebligen Berggipfel und Nebelwälder um San Lorenzo (insbesondere der Cerro Alegre und angrenzende Gebiete) im Departement Boaco sind eine ökologische Oase inmitten einer Region, die ansonsten stark durch Rinderweiden abgeholzt wurde. Auf den höchsten Erhebungen stauen sich die feuchten Winde aus der Karibik und hüllen die dichten, mit Bromelien und Moosen bewachsenen Bäume in ständigen Nebel. Diese winzigen, fragmentierten Nebelwald-Patches sind lebenswichtig: Sie fungieren als natürliche Schwämme, die das Wasser sammeln und in der harten Trockenzeit langsam an die Täler abgeben, womit sie das Überleben der Landwirtschaft in Boaco sichern. Leider wird dieser Wald beständig durch vordringende Kaffeefincas und illegale Holzwirtschaft bedroht. Ökologie K7 — Nebelwald-Ökosysteme und Wasserscheiden.",
+      "factsAdvanced": [
+        "Ein isoliertes Fleckchen Nebelwald (Bosque Nuboso) auf den höchsten Berggipfeln des Departements Boaco.",
+        "Das Gebiet ist fast ständig in Wolken gehüllt, was die Luftfeuchtigkeit bei fast 100% hält.",
+        "Die Bäume sind dicht bewachsen mit Epiphyten (Aufsitzerpflanzen) wie Orchideen und Bromelien.",
+        "Das Waldgebiet ist die wichtigste hydrologische Reserve (Wasserscheide) für die umliegende Landwirtschaft.",
+        "Wird aufgrund seiner Höhe (oft über 1.000 Meter) als Zufluchtsort für vom Klimawandel bedrohte Tierarten angesehen.",
+        "Die Ausbreitung illegaler Viehweiden (Ganadería extensiva) schrumpft das Waldgebiet massiv."
+      ]
+    },
+    {
+      "id": "little-corn-island-nature-v2",
+      "descriptionAdvanced": "Little Corn Island (Isla Pequeña del Maíz) ist das ultimative Karibik-Klischee, gelegen rund 70 Kilometer vor der östlichen Küste Nicaraguas. Mit nicht einmal drei Quadratkilometern Fläche hat sich diese kleine Koralleninsel rigoros gegen die Modernisierung entschieden: Es gibt hier keine Autos, keine Straßen und keinen ständigen Strom. Die Bewegung auf der Insel erfolgt ausschließlich zu Fuß über enge Dschungelpfade, die palmengesäumte weiße Traumstrände miteinander verbinden. Diese Abgeschiedenheit hat das umliegende Riff geschützt, was Little Corn Island zum perfekten Hub für Taucher auf der Suche nach Hammerhaien und Rochen macht. Die Kultur der Inselbewohner (Kreolen) ist englischsprachig, laid-back und stark karibisch geprägt. Geografie K6 — Autolose Karibikinseln und Riffschutz.",
+      "factsAdvanced": [
+        "Die kleinere Schwesterinsel von Great Corn Island, erreichbar nur durch eine oft raue Überfahrt im Schnellboot (Panga).",
+        "Auf der gesamten Insel gibt es weder Autos noch befestigte Straßen, sondern nur Sand- und Waldwege.",
+        "Stromversorgung auf der Insel war historisch sehr begrenzt, oft nur durch Generatoren am Abend.",
+        "Umgeben von intakten Korallenriffen, die als eines der besten Tauchgebiete in Zentralamerika gelten.",
+        "Ein beliebtes Ziel für Backpacker und Touristen auf der Suche nach extrem abgeschiedenen Traumstränden.",
+        "Die lokale kreolische Kultur spricht vorwiegend Englisch und lebt fast ausschließlich von Fischfang und Tourismus."
+      ]
+    },
+    {
+      "id": "cosiguina-lagoon-nature-v2",
+      "descriptionAdvanced": "Die Kraterlagune des Vulkans Cosigüina ist ein atemberaubendes Naturwunder, versteckt im äußersten, abgelegenen Nordwesten Nicaraguas. Der heute fast flache Vulkan explodierte 1835 in der massivsten Eruption der Geschichte beider Amerikas und hinterließ eine tiefe Caldera. Am Grund dieses gigantischen Loches stauten sich im Laufe der Jahrhunderte Regenwasser und unterirdische Quellen, die heute eine tiefe, türkisgrüne Lagune bilden. Da der Krater schwer erreichbar und von dichtem Wald umgeben ist, wirkt der See fast mystisch unberührt. Vom steilen Kraterrand aus können mutige Wanderer über den smaragdgrünen See blicken und gleichzeitig die Küsten von Nicaragua, Honduras und El Salvador bewundern. Naturkunde K8 — Eingestürzte Calderen und Kraterseen.",
+      "factsAdvanced": [
+        "Die Lagune füllt den Krater des Vulkans Cosigüina, der 1835 bei einer monströsen Explosion sein Dach verlor.",
+        "Das Wasser liegt hunderte Meter steil unterhalb des Kraterrands und ist türkisblau gefärbt.",
+        "Aufgrund der steilen Felswände gibt es keinen direkten Pfad hinab zum Wasserufer.",
+        "Die Kraterwände sind ein Nistplatz für Hunderte wilder Roter Aras und Falken.",
+        "Die umgebende Halbinsel ist eine der trockensten Regionen des Landes.",
+        "Ein massives Erdbeben könnte laut Geologen zum katastrophalen Auslaufen der Lagune führen."
+      ]
+    },
+    {
+      "id": "estero-real-nature-v2",
+      "descriptionAdvanced": "Das Estero Real im Departement Chinandega ist eines der komplexesten und ökologisch wichtigsten Feuchtgebiete Mittelamerikas. Diese riesige Mündung gabelt sich in ein verzweigtes System aus Mangroven, Schlammbänken und Gezeitenflüssen, das schließlich in den Golf von Fonseca fließt. Für Zugvögel ist das Estero Real ein lebensrettender Stopp, und für zahlreiche Meeresbewohner eine unverzichtbare Kinderstube. Doch die Region ist Schauplatz eines erbitterten Kampfes: Einerseits schützen NGOs den Mangrovenwald, andererseits fressen sich industrielle Garnelenfarmen (Camaroneras) rücksichtslos in das Ökosystem, um Meeresfrüchte für den globalen Export zu produzieren. Das Gebiet verdeutlicht die harte Balance zwischen Exportwirtschaft und Naturschutz. Ökologie K8 — Mangroven-Deltas und Aquakulturkonflikte.",
+      "factsAdvanced": [
+        "Eine gewaltige Gezeitenmündung (Estero), anerkannt als internationales Ramsar-Schutzgebiet.",
+        "Das dichte Netzwerk aus Mangrovenbäumen schützt die pazifische Küste vor massiver Erosion.",
+        "Ist das wichtigste Winterquartier für hunderttausende nordamerikanische Zugvögel.",
+        "Stark bedroht durch das Abholzen von Mangroven zugunsten riesiger Shrimp-Farmen (Camaroneras).",
+        "Im schlammigen, flachen Wasser lebt eine sehr dichte Population amerikanischer Krokodile.",
+        "Der Wasserspiegel steigt und fällt hier dramatisch zweimal am Tag durch die pazifischen Gezeiten."
+      ]
+    },
+    {
+      "id": "rio-bocay-nature-v2",
+      "descriptionAdvanced": "Der Río Bocay ist ein wilder, ungebändigter Fluss, der das extrem isolierte Departement Jinotega durchschneidet. Entspringend im hochgelegenen Nebelwald, fließt er majestätisch durch das fast undurchdringliche Bosawás-Biosphärenreservat, dem größten Regenwaldgebiet nördlich des Amazonas. Für die indigenen Mayangna-Gemeinden, die an seinen steilen Ufern leben, ist der Río Bocay das einzige Transportmittel und die wichtigste Nahrungsquelle. Der Fluss ist berüchtigt für seine tückischen, wilden Stromschnellen, die in langen Einbäumen (Pipantes) nur von erfahrenen indigenen Navigatoren bezwungen werden können. Sein klares Wasser mündet schließlich in den mächtigen Grenzfluss Río Coco. Geografie K8 — Biosphären-Flusssysteme und indigene Navigation.",
+      "factsAdvanced": [
+        "Ein wichtiger, reißender Flusslauf tief im Inneren des riesigen Bosawás-Biosphärenreservats.",
+        "Erlaubt indigenen Mayangna (Sumus), tief in den Urwald zu isolierten Dörfern vorzudringen.",
+        "Berüchtigt für extreme Stromschnellen, die eine Navigation in Einbäumen lebensgefährlich machen.",
+        "Mündet in der Gemeinde San José de Bocay schließlich in den längsten Fluss, den Río Coco.",
+        "Weite Teile seines Verlaufs führen durch völlig unberührten, dichten Primärwald.",
+        "Die Uferwälder entlang des Bocay sind massiv durch illegales Goldwaschen und Holzfäller bedroht."
+      ]
+    }
+  ]
+}

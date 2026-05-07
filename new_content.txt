@@ -1,0 +1,21 @@
+    descriptionAdvanced: {
+      de: "Venetien ist eine Region von großer historischer und kultureller Bedeutung, die einst das Herz der mächtigen Republik Venedig war. Ihre Landschaft reicht von den Kanälen Venedigs über die Ebenen des Po bis zu den Gipfeln der Dolomiten. Die Region ist ein führender Weinproduzent Italiens und Heimat von Städten wie Verona, bekannt für seine römische Arena und als Schauplatz von 'Romeo und Julia', und Padua mit seiner alten Universität.",
+      hu: "Veneto Olaszország egyik kulturálisan leggazdagabb régiója, amely egykor a hatalmas Velencei Köztársaság központja volt. A táj a velencei lagúnáktól a Pó-síkságon át a Dolomitok csúcsaiig terjed. A régió Olaszország egyik vezető bortermelője, olyan városok otthona, mint Verona, a római arénájáról és Rómeó és Júlia történetéről ismert, valamint Padova az ősi egyetemével."},
+      ro: "",
+      en: "",
+    },
+    factsAdvanced: {
+      de: [
+        "Die Republik Venedig existierte über 1.000 Jahre lang.",
+        "Die Arena von Verona ist eines der am besten erhaltenen römischen Amphitheater.",
+        "Die Universität Padua, gegründet 1222, ist eine der ältesten der Welt.",
+        "Karneval in Venedig ist weltberühmt für seine kunstvollen Masken.",
+      ],
+      hu: ["A Lombardia név a germán longobárd törzsből ered.", "A régió vezető szerepet tölt be a selyemtermelésben Európában.", "A milánói dóm Olaszország legnagyobb temploma.", "Itt található a híres monzai versenypálya."],
+      ro: [],
+      en: [],
+    },
+      hu: ["A Velencei Köztársaság több mint 1000 évig létezett.", "A veronai Aréna az egyik legjobban megőrzött római amfiteátrum.", "A Padovai Egyetem 1222-ben alapult, a világ egyik legrégebbi egyeteme.", "A velencei karnevál világhírű a bonyolult maszkjairól."],
+      ro: [],
+      en: [],
+    },

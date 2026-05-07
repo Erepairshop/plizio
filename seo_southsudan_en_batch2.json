@@ -1,0 +1,334 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gogrial-cities-v2",
+      "descriptionAdvanced": "Gogrial is a historical town in Warrap State, situated on the banks of the Jur River. It is often considered the symbolic heart of the Dinka people, serving as the ancestral home of many prominent political and military leaders. The town is a major center for cattle herding and traditional wrestling, preserving strong links to ancestral social structures. Its location along the Jur River allows for seasonal navigation and provides essential water resources for both people and livestock. History K8 – Political leadership and heritage.",
+      "factsAdvanced": [
+        "Historical town in Warrap State",
+        "Situated on the banks of the Jur River",
+        "Symbolic heartland of the Dinka people",
+        "Major regional market for livestock",
+        "Home of many national leaders",
+        "Known for traditional wrestling festivals",
+        "Key link between Wau and the northern states"
+      ]
+    },
+    {
+      "id": "turalei-cities-v2",
+      "descriptionAdvanced": "Turalei is a significant regional center in the northern part of Warrap State, serving as the capital of Twic County. The town gained international recognition as the birthplace of world-famous basketball players, most notably the NBA legend Manute Bol. Turalei is a vibrant trading hub that benefits from its location at the intersection of Dinka regions and northern trade routes. Livestock farming dominates daily life, with the annual cattle drive to the Nile wetlands being a defining event for the local community. Social Studies K5 – Role models and international identity.",
+      "factsAdvanced": [
+        "Capital of Twic County in Warrap State",
+        "Birthplace of basketball star Manute Bol",
+        "Significant center for the cattle trade",
+        "Strategic junction on the route to Abyei",
+        "Heart of the Twic Dinka community",
+        "Known for its expansive grazing lands",
+        "Hub for regional health and education projects"
+      ]
+    },
+    {
+      "id": "rubkona-cities-v2",
+      "descriptionAdvanced": "Rubkona is the strategically important twin city of Bentiu in Unity State, serving as the primary logistical gateway to the north. The town hosts a major airport and a busy river port on the Bahr el Ghazal, making it a central hub for commercial goods and humanitarian supplies. Rubkona is closely linked to the oil industry, serving as a residential and logistics base for many workers in the sector. Its market is one of the most active in northern South Sudan, featuring goods from across the region and beyond. Geography K8 – Logistics and infrastructure in resource-rich regions.",
+      "factsAdvanced": [
+        "Logistics hub with airport and river port",
+        "Twin city to the state capital, Bentiu",
+        "Major marketplace for cross-border trade",
+        "Strategic base for the petroleum industry",
+        "Bridge connection over the Bahr el Ghazal",
+        "Critical center for humanitarian logistics",
+        "Junction for road and river transport"
+      ]
+    },
+    {
+      "id": "mayom-cities-v2",
+      "descriptionAdvanced": "Mayom is a strategically located town in the western part of Unity State, serving as the administrative center for Mayom County. It is a historical stronghold of the Bul Nuer community and plays a vital role due to its position on the border between Unity and Warrap states. The town is characterized by vast savanna landscapes ideal for large-scale cattle herding. Mayom serves as an important marketplace for livestock traders moving their herds between the northern regions. Its proximity to oil fields and transit routes makes it a place of high economic and security relevance. Geography K7 – Pastoralism and territorial boundaries.",
+      "factsAdvanced": [
+        "Capital of Mayom County in Unity State",
+        "Strategic center for the Bul Nuer community",
+        "Major trading post for cattle and hides",
+        "Junction at the border of Unity and Warrap",
+        "Hub for traditional pastoralist lifestyles",
+        "Near major oil production facilities",
+        "Key administrative outpost in the northwest"
+      ]
+    },
+    {
+      "id": "pariang-cities-v2",
+      "descriptionAdvanced": "Pariang is the administrative center of the Ruweng Administrative Area and is located in the heart of one of South Sudan's most productive oil-producing regions. The town is home to the Panaruu Dinka and has undergone significant transformation due to the development of surrounding oil fields. Pariang today serves as a vital base for the energy industry's infrastructure while supporting a population that remains deeply connected to traditional agriculture and cattle herding. It sits in an ecologically sensitive zone on the edge of the Sudd swamps, highlighting the balance between industrial growth and environmental preservation. Economy K8 – Impact of the oil industry on local communities.",
+      "factsAdvanced": [
+        "Capital of the Ruweng Administrative Area",
+        "Center of northern petroleum extraction",
+        "Home to the Panaruu Dinka community",
+        "Strategic site for energy infrastructure",
+        "Located near the ecologically vital Sudd edge",
+        "Key administrative hub for the oil region",
+        "Junction for supply flights to drilling fields"
+      ]
+    },
+    {
+      "id": "pibor-cities-v2",
+      "descriptionAdvanced": "Pibor is the administrative center of the Greater Pibor Administrative Area (GPAA) in the remote east of South Sudan. The town, situated on the Pibor River, is the cultural and political heart of the Murle community, whose way of life is almost entirely based on mobile cattle herding. Due to its geographical isolation, especially during the rainy season, Pibor has preserved a very distinct social structure and culture. The town is often accessible only by air or difficult seasonal tracks, making it one of the most remote outposts in the country. Geography K8 – Living in isolated steppe regions.",
+      "factsAdvanced": [
+        "Capital of the Greater Pibor Administrative Area",
+        "Cultural heart of the Murle community",
+        "Strategic location on the Pibor River",
+        "Major center for regional cattle trading",
+        "High degree of geographical isolation",
+        "Key site for peace mediation in the east",
+        "Hub for mobile education and health projects"
+      ]
+    },
+    {
+      "id": "pochalla-cities-v2",
+      "descriptionAdvanced": "Pochalla is located in the far east of South Sudan, directly on the Ethiopian border, and is the center of the Anyuak community in the country. The town is almost entirely surrounded by dense forest and the foothills of the Ethiopian Highlands, giving it a unique but isolated position. Pochalla is known for its fertile soils along the Gelo River, where the Anyuak practice traditional farming and fishing. Due to a lack of road connections to the rest of South Sudan, the town is economically oriented toward Ethiopia. Geography K8 – Agricultural cultures in isolated border regions.",
+      "factsAdvanced": [
+        "Center of the Anyuak community in South Sudan",
+        "Located on the Gelo River at the Ethiopian border",
+        "Economically linked to Ethiopia's Gambela region",
+        "Traditional seat of Anyuak noble families",
+        "No permanent road connection to Juba",
+        "Major center for fishing and local farming",
+        "Strategic border outpost in the far east"
+      ]
+    },
+    {
+      "id": "raja-cities-v2",
+      "descriptionAdvanced": "Raja is the westernmost major town in South Sudan, located in Western Bahr el Ghazal State near the borders with Sudan and the Central African Republic. The city is distinguished by exceptional ethnic diversity, including groups such as the Feroghe, Kresh, and Binga, making it a cultural melting pot. The region around Raja is known for its fertile agricultural land and rich mineral deposits, though it often faces logistical challenges due to its distance from Juba. Historically, Raja was a major trading post on routes between the Chad Basin and the Nile Valley. Geography K8 – Multiculturalism in peripheral borderlands.",
+      "factsAdvanced": [
+        "Westernmost major town in South Sudan",
+        "Multicultural hub with high ethnic diversity",
+        "Strategic location near Sudan and CAR",
+        "Center for agricultural and mineral trade",
+        "Largest administrative district by area",
+        "Historical junction of old trade routes",
+        "Key post for border security forces"
+      ]
+    },
+    {
+      "id": "deim-zubeir-cities-v2",
+      "descriptionAdvanced": "Deim Zubeir is a place of deep historical significance in western South Sudan, named after Zubeir Pasha, a powerful 19th-century trader and slave hunter who established a fortified camp (Deim) here. The ruins of his fort remain a silent witness to the dark history of the slave trade in Central Africa. Today, Deim Zubeir is a quiet administrative center living off agriculture and local trade, situated on a strategic track connecting Raja and Wau. For historians and archaeologists, the site offers valuable insights into the era of Turko-Egyptian rule and the Mahdist Revolt. History K8 – The slave trade and its impact on Central Africa.",
+      "factsAdvanced": [
+        "Historical site of Zubeir Pasha's fortified camp",
+        "Former center of the 19th-century slave trade",
+        "Archaeological site with remains of the old fort",
+        "Located on the route between Wau and Raja",
+        "Historical theater of colonial power struggles",
+        "Center for local agricultural subsistence",
+        "Significant monument of pre-independence history"
+      ]
+    },
+    {
+      "id": "terekeka-cities-v2",
+      "descriptionAdvanced": "Terekeka, located north of the capital Juba on the banks of the White Nile, is the cultural center of the Mundari people. The town is world-famous for its unique cattle culture; Mundari herders are known for their close bond with their Ankole-Watusi cattle, whose massive horns are a hallmark of the region. Terekeka serves as a major hub for fish caught in the Nile and processed for the Juba market. The cattle camps around Terekeka attract international photographers and anthropologists interested in documenting traditional pastoralist lifestyles. Geography K7 – Nilotic cultures and the Nile economy.",
+      "factsAdvanced": [
+        "Capital of the Mundari people in Central Equatoria",
+        "Major river port for fish trade to Juba",
+        "Famous for traditional Mundari cattle camps",
+        "Home to the iconic Ankole-Watusi cattle",
+        "Strategic stop on the Juba-Bor-Rumbek road",
+        "Center for traditional ceremonies and competitions",
+        "Key administrative and educational site"
+      ]
+    },
+    {
+      "id": "lainya-cities-v2",
+      "descriptionAdvanced": "Lainya is a strategically located town in Central Equatoria State, situated halfway between Juba and Yei. The town serves as a vital agricultural center for the Pojulu people, who practice intensive farming in this fertile region. Lainya is known for the production of grains, cassava, and fruits transported to the capital via the main highway. Historically, the town was an important location for educational institutions and mission stations that shaped the development of Central Equatoria. Its position on a major trade route makes it a lively market hub for goods from Uganda and South Sudan. Geography K6 – Agricultural trade and infrastructure nodes.",
+      "factsAdvanced": [
+        "Agricultural center for the Pojulu community",
+        "Key trading post on the Juba-Yei highway",
+        "Major supplier of food staples to Juba",
+        "Historical site of prominent secondary schools",
+        "Strategic post during regional conflicts",
+        "Center for sustainable agricultural projects",
+        "Gateway to the fertile Yei region"
+      ]
+    },
+    {
+      "id": "morobo-cities-v2",
+      "descriptionAdvanced": "Morobo is located at the strategic tri-border of South Sudan, Uganda, and the DR Congo in Central Equatoria State. Due to this unique position, Morobo has developed into one of the country's most significant cross-border trade hubs. Daily flows of goods from three nations pass through the town, making it a melting pot of languages and cultures. The region is also highly productive agriculturally, focusing on export crops like coffee and grains. Morobo serves as a key administrative center for the district and a critical site for customs and border security. Geography K8 – Trade and politics at the tri-border.",
+      "factsAdvanced": [
+        "Strategically located at the SS-Uganda-DRC tri-border",
+        "Major cross-border trading marketplace",
+        "Hub for goods from East and Central Africa",
+        "Significant market for agricultural export crops",
+        "Key site for customs and border administration",
+        "Multicultural melting pot due to trade migration",
+        "Strategic outpost in Central Equatoria"
+      ]
+    },
+    {
+      "id": "ezo-cities-v2",
+      "descriptionAdvanced": "Ezo is located in the deep southwest of South Sudan in Western Equatoria State, directly on the border with the Central African Republic and the DR Congo. Embedded in a dense tropical rainforest belt, Ezo is a center for the Azande people and preserves many traditional agricultural practices. The fertile soil allows for the abundant cultivation of cassava, coffee, and pineapples. Ezo is a vital outpost for cross-border exchange and has historically served as a refuge and transit point for people from neighboring countries. Geography K8 – Border ecosystems and migration.",
+      "factsAdvanced": [
+        "Southwesternmost border post to CAR and DRC",
+        "Cultural center for the Azande at the border",
+        "Agricultural region for coffee and tropical fruits",
+        "Isolated location in dense tropical rainforest",
+        "Important point for regional humanitarian logistics",
+        "Strategic center for cross-border security",
+        "Historical site of interaction between three nations"
+      ]
+    },
+    {
+      "id": "nagero-cities-v2",
+      "descriptionAdvanced": "Nagero is a small but strategically located town in Western Equatoria State that functions as a bridge between the Tambura and Ezo districts. The town is situated in one of South Sudan's most forested areas, making it a potential hub for sustainable forestry. Nagero is mainly inhabited by the Azande population, whose lives are shaped by subsistence farming and the gathering of forest products like wild honey and medicinal plants. Its remote nature has helped preserve traditional social structures and customs. Biology K6 – The value of the rainforest for local communities.",
+      "factsAdvanced": [
+        "Strategic link between Tambura and Ezo",
+        "Center for local timber and honey production",
+        "Region with pristine tropical forest areas",
+        "Important administrative post in Western Equatoria",
+        "Home to traditional Azande communities",
+        "Hub for local trade in forest products",
+        "Focus of regional agricultural development"
+      ]
+    },
+    {
+      "id": "nzara-cities-v2",
+      "descriptionAdvanced": "Nzara, located in Western Equatoria State, has a unique industrial history closely linked to the 'Zande Project' of the 1940s. Once a model for the industrial processing of cotton, the town still houses the remains of large ginneries and textile factories. This colonial industrial heritage makes Nzara a significant site for South Sudan's economic history. Today, the town is a major agricultural hub where coffee, tobacco, and fruits are produced in large quantities due to fertile soils and abundant rainfall. Economy K8 – Industrial heritage and rural development.",
+      "factsAdvanced": [
+        "Historical center of the industrial Zande Project",
+        "Site of the largest historical cotton ginneries",
+        "Center for commercial coffee and tobacco farming",
+        "Significant industrial site in Western Equatoria",
+        "Major market for Green Belt agricultural products",
+        "Logistical hub for the southwestern region",
+        "Historically important vocational training site"
+      ]
+    },
+    {
+      "id": "ibba-cities-v2",
+      "descriptionAdvanced": "Ibba is a significant town in Western Equatoria State that has gained international attention for its initiatives in girls' education. Set in a picturesque savanna landscape, the town serves as a vital center for the Zande community's agricultural production. Ibba is known for growing grains and legumes that meet a major part of the regional food supply. Strategically located on the road to Maridi and Yambio, it facilitates trade and mobility. Ibba has established itself as a model for peaceful development and social integration through numerous community projects. Social Studies K6 – Education as a driver of development.",
+      "factsAdvanced": [
+        "Key educational center in Western Equatoria",
+        "Known for innovative girls' education projects",
+        "Agricultural hub for grains and legumes",
+        "Strategic stop on the Maridi-Yambio route",
+        "Center of the Zande community in Ibba region",
+        "Model for community development and peace",
+        "Significant market for local agricultural products"
+      ]
+    },
+    {
+      "id": "mvolo-cities-v2",
+      "descriptionAdvanced": "Mvolo is the administrative center of Mvolo County in Western Equatoria State, located at a strategic crossing point between the Equatoria and Bahr el Ghazal regions. The town is home to the Jur-Bel community, known for their craftsmanship and agricultural diligence. Mvolo serves as a major marketplace for grains, honey, and livestock products. The region features a mix of savanna and dense forests, allowing for versatile resource use. Historically, Mvolo has been a site for inter-ethnic dialogue between pastoralist and sedentary communities. Social Studies K7 – Inter-ethnic cooperation and regional trade.",
+      "factsAdvanced": [
+        "Capital of Mvolo County in Western Equatoria",
+        "Center of Jur-Bel culture and tradition",
+        "Strategic link between Equatoria and Bahr el Ghazal",
+        "Major market for honey and agricultural goods",
+        "Region with rich wildlife in the vicinity",
+        "Center for local handicraft trade",
+        "Historical site for regional peace mediation"
+      ]
+    },
+    {
+      "id": "lui-cities-v2",
+      "descriptionAdvanced": "Lui is a historically significant town in Western Equatoria State, best known as a center for medical excellence and Christian education. The town hosts one of the country's oldest and most renowned hospitals, which has been a vital sanctuary for thousands of patients during regional crises. Lui is deeply rooted in the Moru community, valued for their focus on education and social cohesion. Surrounded by fertile savannas, the area thrives on agriculture and honey production, serving as a model for community-based development. History K7 – Social services and community development.",
+      "factsAdvanced": [
+        "Site of the historically significant Lui Hospital",
+        "Cultural center for the Moru people",
+        "Major site for Christian secondary schools",
+        "Region with high honey and grain production",
+        "Historical mission station since the early 20th century",
+        "Strategic peaceful hub in Western Equatoria",
+        "Center for inter-ethnic cooperation"
+      ]
+    },
+    {
+      "id": "amadi-cities-v2",
+      "descriptionAdvanced": "Amadi, located in Western Equatoria State, serves as a vital link between the trade routes of the south. The town is known for its rich agricultural tradition, with the cultivation of grains and legumes forming the basis of the local economy. Amadi hosts important administrative facilities and is a center for the regional exchange of agricultural products. The surrounding area features a diverse landscape of grasslands and dense gallery forests along riverbanks. As a meeting place, it plays a central role in strengthening social ties between communities in Mundri and Maridi. Geography K6 – Agricultural trade in the moist savanna.",
+      "factsAdvanced": [
+        "Strategic link between Mundri and Maridi",
+        "Center for sorghum and maize production",
+        "Important administrative outpost in Western Equatoria",
+        "Region with rich aquatic flora along riverbanks",
+        "Hub for local small-scale trade",
+        "Historically significant assembly point",
+        "Site of regional educational projects"
+      ]
+    },
+    {
+      "id": "kotobi-cities-v2",
+      "descriptionAdvanced": "Kotobi is a thriving rural settlement in Western Equatoria State, characterized by high productivity in farming. The community is known for its diligence in cultivating fertile soils, focusing on cassava and groundnuts. The town serves as a major collection point for agricultural products transported to the markets of Juba and Yambio. Kotobi is shaped by traditional architecture and a lifestyle closely linked to nature's seasonal cycles. Recently, the town has gained economic importance through improvements in local road infrastructure. Biology K6 – Cycles of peasant agriculture in the tropics.",
+      "factsAdvanced": [
+        "Agricultural center focused on cassava and peanuts",
+        "Major supplier for Central Equatoria markets",
+        "Traditional settlement of the Moru community",
+        "Region with high potential for sustainable beekeeping",
+        "Strategic stop on the western supply route",
+        "Center for local seed exchange",
+        "Known for its fertile red earth soils"
+      ]
+    },
+    {
+      "id": "ganyliel-cities-v2",
+      "descriptionAdvanced": "Ganyliel is one of the most fascinating and isolated settlements in South Sudan, located deep within the Sudd swamps of Unity State. The town is accessible almost exclusively via waterways or small airstrips, giving it the character of an island fortress amidst nature. Ganyliel serves as a vital center for the Nuer communities of the swamp region and is a major trading post for fish and livestock. Residents have developed a unique culture perfectly adapted to the challenges of a permanent wetland. Geography K8 – Habitats in large-scale wetland ecosystems.",
+      "factsAdvanced": [
+        "Isolated island town deep in the Sudd swamps",
+        "Accessible only by boat (canoe) or air",
+        "Major center for inland fishing",
+        "Important sanctuary for Nuer communities",
+        "Unique architectural adaptation to marshland",
+        "Hub for regional trade in dried fish",
+        "Area of high biodiversity for water birds"
+      ]
+    },
+    {
+      "id": "panyijar-cities-v2",
+      "descriptionAdvanced": "Panyijar is located in the southern part of Unity State and is the gateway to the vast Sudd region. The town is a strategically important point for the administration and supply of the surrounding swamp areas. In Panyijar, the pastoralist lifestyle of the Nuer merges with the aquatic economy of the Nile. The region is known for its wide grasslands that attract thousands of cattle in the dry season while becoming a fisherman's paradise in the rainy season. It plays a central role in regional logistics, serving as a collection point for goods transported deeper into the Sudd. Economy K7 – Importance of seasonal resources in wetlands.",
+      "factsAdvanced": [
+        "Capital of Panyijar County in Unity State",
+        "Strategic access point to the Sudd region",
+        "Center of Nuer culture in southern Unity",
+        "Major market for livestock and fishing products",
+        "Important site for humanitarian logistics",
+        "Region with extreme seasonal water level fluctuations",
+        "Junction for regional trade on the Nile"
+      ]
+    },
+    {
+      "id": "fangak-cities-v2",
+      "descriptionAdvanced": "Fangak is located in the heart of the massive Sudd swamps in Jonglei State and is one of South Sudan's most isolated towns. Due to the water-rich environment, the town is often only accessible by boat or air. This isolation has made Fangak a natural refuge and a center of resilience. The town is deeply rooted in Nuer culture and plays a key role as a spiritual center. The economy is based almost entirely on fishing and seasonal agriculture on higher island ground. Geography K8 – Adaptation to extreme wetland ecosystems.",
+      "factsAdvanced": [
+        "One of the most isolated towns in the Sudd swamps",
+        "Primarily accessible via riverways and airstrips",
+        "Major cultural and spiritual center for the Nuer",
+        "Base for large-scale inland fishing in the Sudd",
+        "Unique infrastructure adaptation to flooding",
+        "Historical sanctuary during regional conflicts",
+        "Hub for humanitarian supply in wetlands"
+      ]
+    },
+    {
+      "id": "ayod-cities-v2",
+      "descriptionAdvanced": "Ayod is the administrative center of Ayod County in Jonglei State, located in a region strongly shaped by cattle herding and shifting cultivation. The town is a heartland for the Gawaar Nuer and serves as a major marketplace for cattle and local agricultural products. Due to its position on a slight elevation amidst flat plains, Ayod offers a strategic overview of the surroundings and is less prone to seasonal floods than other towns in Jonglei. It has a vibrant history as a site for political assemblies and military strategies. Social Studies K7 – Tribal identity and regional administration.",
+      "factsAdvanced": [
+        "Capital of Ayod County in Jonglei State",
+        "Cultural center for the Gawaar Nuer community",
+        "Strategic location on a natural elevation",
+        "Major trading post for cattle and hides",
+        "Important site for regional education and health",
+        "Junction on the route between Bor and Malakal",
+        "Historical site for inter-ethnic negotiations"
+      ]
+    },
+    {
+      "id": "uror-cities-v2",
+      "descriptionAdvanced": "Uror is the administrative center of Uror County in Jonglei State, located in the vast savanna plains of eastern South Sudan. The town is a central place for the Lou Nuer community and plays a vital role in the region's pastoralist economy. In Uror, daily life revolves around cattle herding, with seasonal migrations to Nile watering holes (Toic) determining the social fabric. The town serves as a major marketplace for livestock and a venue for traditional assemblies and peace talks. Geography K7 – Pastoralism and social dynamics in the savanna.",
+      "factsAdvanced": [
+        "Capital of Uror County in Jonglei",
+        "Core land of the Lou Nuer community",
+        "Major trading post for regional cattle trade",
+        "Strategic site for inter-ethnic negotiations",
+        "Region with vast, pristine savanna areas",
+        "Important administrative post in eastern Jonglei",
+        "Center for mobile education projects for herders"
+      ]
+    }
+  ]
+}

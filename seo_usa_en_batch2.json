@@ -1,0 +1,327 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ohio-river-nature-v2",
+      "descriptionAdvanced": "The Ohio River is a massive, highly significant waterway flowing 981 miles from its origin at the confluence of the Allegheny and Monongahela rivers in Pittsburgh, Pennsylvania, to its terminus at the Mississippi River in Cairo, Illinois. Historically, it served as a primary massive artery for westward expansion and deeply fueled the Industrial Revolution, transporting immense quantities of Appalachian coal and manufactured steel. Today, the heavily managed river is completely controlled by a massive system of 20 locks and dams, making it a critical navigable corridor for commercial barge traffic. The deeply entrenched river valley forms natural boundaries for six states and continues to support massive agricultural and industrial economies along its densely populated banks. Geography K8 — river navigation and industrial corridors.",
+      "factsAdvanced": [
+        "Flows for a total massive length of 981 miles through the Midwest.",
+        "Forms the absolute borders of six different U.S. states.",
+        "A deeply critical massive artery for the 19th-century Industrial Revolution.",
+        "Heavily managed by a massive, complex system of 20 locks and dams.",
+        "Historically considered the massive southern boundary of the Northwest Territory.",
+        "Transports massive, crucial tonnages of regional coal and steel."
+      ]
+    },
+    {
+      "id": "sawtooth-national-forest-nature-v2",
+      "descriptionAdvanced": "Sawtooth National Forest, located in the deeply rugged, highly elevated central portion of Idaho, covers an incredible 2.1 million acres of pristine massive wilderness. The forest is visually dominated by the spectacular Sawtooth Range, a deeply jagged, massive collection of heavily glaciated granite peaks that reach elevations over 10,000 feet. It features hundreds of pristine, high-alpine lakes, dense massive coniferous forests, and the massive headwaters of the Salmon River. The intensely remote environment is a highly critical massive sanctuary for diverse wildlife, including gray wolves, wolverines, and massive spawning runs of Pacific salmon. The region is internationally famous for offering some of the most challenging, remote massive wilderness recreation in the contiguous United States. Geography K7 — alpine ranges and wilderness conservation.",
+      "factsAdvanced": [
+        "Encompasses over 2.1 million acres in highly remote central Idaho.",
+        "Features the deeply jagged, massive granite peaks of the Sawtooth Range.",
+        "Contains the highly critical, massive headwaters of the Salmon River.",
+        "Protects over 300 massive, pristine high-elevation alpine lakes.",
+        "A deeply crucial habitat for returning anadromous sockeye salmon.",
+        "Established by an absolute massive proclamation by President Theodore Roosevelt."
+      ]
+    },
+    {
+      "id": "rocky-mountains-relief-v2",
+      "descriptionAdvanced": "The Rocky Mountains form a massive, continuous continental cordillera stretching over 3,000 miles from northern British Columbia in Canada down to New Mexico in the United States. This profoundly dramatic, highly elevated mountain system was powerfully uplifted during the massive Laramide orogeny millions of years ago. The Rockies serve as the absolute Great Continental Divide of North America, strictly determining the directional flow of massive river systems either eastward towards the Atlantic or westward towards the Pacific. The immensely diverse, massive topography features heavily glaciated high peaks, deep massive river canyons, and extensive high-altitude alpine tundra, supporting a profoundly rich array of massive wildlife, including grizzly bears, bighorn sheep, and enormous herds of elk. Geography K8 — continental divides and tectonic uplift.",
+      "factsAdvanced": [
+        "Stretches an incredibly massive 3,000 miles across North America.",
+        "Serves as the absolute, definitive Great Continental Divide.",
+        "Powerfully uplifted during the massive Laramide orogeny geological event.",
+        "Mount Elbert is the absolute highest peak at 14,440 feet.",
+        "Home to incredibly massive, deeply preserved national parks like Yellowstone.",
+        "Contains the massive headwaters of the Colorado and Missouri rivers."
+      ]
+    },
+    {
+      "id": "appalachian-mountains-relief-v2",
+      "descriptionAdvanced": "The Appalachian Mountains are a deeply ancient, massively extensive mountain system running roughly 1,500 miles parallel to the eastern coast of North America, from Newfoundland to central Alabama. Unlike the younger, massive jagged peaks of the Rockies, the Appalachians are heavily rounded and deeply eroded, reflecting their immense geological age of nearly 500 million years. The incredibly dense, lush temperate deciduous forests blanketing these massive ridges harbor some of the highest biodiversity in the temperate world. Historically, they served as a formidable, massive physical barrier to early European colonial expansion. Today, the entire massive system is deeply interconnected by the Appalachian Trail, the absolute longest continuously marked footpath globally, deeply shaping the cultural identity of the region. Geography K7 — ancient orogeny and eastern topographies.",
+      "factsAdvanced": [
+        "Stretches a massive 1,500 miles along the eastern edge of North America.",
+        "Incredibly ancient, originally formed nearly 500 million years ago.",
+        "Mount Mitchell is the absolute highest peak at exactly 6,684 feet.",
+        "Traversed entirely by the massive 2,190-mile Appalachian Trail.",
+        "Historically formed a massive, formidable barrier to westward colonial expansion.",
+        "Features incredibly dense, deeply biodiverse temperate deciduous forests."
+      ]
+    },
+    {
+      "id": "sierra-nevada-usa-relief-v2",
+      "descriptionAdvanced": "The Sierra Nevada is a massively prominent, largely continuous mountain range stretching 400 miles along the eastern edge of California. This incredibly dramatic geological feature is essentially a single, massive block of deeply uplifted granitic rock, presenting a relatively gentle western slope and a highly precipitous, violently steep eastern escarpment. The massive range exerts a profound influence on the climate and hydrology of the entire region; its massive winter snowpack acts as a critical natural reservoir, providing the absolute vast majority of freshwater required for California's massive agricultural and municipal demands. The range is globally famous for its deeply breathtaking, massive glaciated landscapes, notably the staggering Yosemite Valley and Lake Tahoe. Geography K8 — fault-block mountains and snowpack hydrology.",
+      "factsAdvanced": [
+        "A highly massive, contiguous mountain range stretching 400 miles.",
+        "Mount Whitney is the absolute highest peak in the contiguous US (14,505 ft).",
+        "Geologically composed of a massive, single tilted granitic fault block.",
+        "Its massive snowpack provides crucial water for all of California.",
+        "Features deeply spectacular, globally renowned locations like Yosemite Valley.",
+        "Contains the massive, incredibly pristine alpine waters of Lake Tahoe."
+      ]
+    },
+    {
+      "id": "cascade-range-relief-v2",
+      "descriptionAdvanced": "The Cascade Range is a massive, heavily topographically complex mountain system extending from southern British Columbia through Washington and Oregon, terminating in Northern California. Geologically, it is incredibly dynamic, primarily composed of a massive line of highly prominent, potentially dangerous stratovolcanoes collectively known as the High Cascades, resting upon older, deeply folded non-volcanic mountains. This massive volcanic arc is a direct, active result of the Juan de Fuca tectonic plate deeply subducting beneath the North American plate. The massive, deeply glaciated peaks, including Mount Rainier and Mount Hood, profoundly dominate the regional skyline and intercept massive amounts of Pacific moisture, resulting in incredibly dense, lush temperate rainforests on their western slopes. Geography K8 — volcanic arcs and tectonic subduction.",
+      "factsAdvanced": [
+        "Extends from massive southern British Columbia down to northern California.",
+        "Part of the massive, highly active Pacific Ring of Fire.",
+        "Features completely massive, visually dominating glaciated stratovolcanoes.",
+        "Created by the massive, deep tectonic subduction of the Juan de Fuca plate.",
+        "Mount Rainier is the absolute highest peak at 14,411 feet.",
+        "Experiences a massive, profound rain shadow effect on its eastern slopes."
+      ]
+    },
+    {
+      "id": "basin-and-range-relief-v2",
+      "descriptionAdvanced": "The Basin and Range Province is an incredibly vast, deeply complex physiographic region covering most of Nevada and massive portions of surrounding states. It is globally characterized by a highly repetitive, visually striking pattern of massive, abruptly steep, parallel mountain ranges completely separated by broad, highly flat, deeply arid desert valleys (basins). This highly unique massive topography is the direct geological result of intense tectonic extension; the massive Earth's crust here has been violently pulled apart and thinned over millions of years, causing massive fault blocks to fracture and drop, forming the basins, while others tilted upward to form the ranges. The entire massive region is incredibly arid and predominantly endorheic, meaning its sparse waters never reach the ocean. Geography K8 — crustal extension and endorheic topography.",
+      "factsAdvanced": [
+        "Covers a massive, incredibly vast portion of the western United States.",
+        "Defined entirely by alternating massive parallel mountains and flat basins.",
+        "Geologically formed by intense, massive crustal stretching and thinning.",
+        "Death Valley is the absolute lowest, hottest point in the massive province.",
+        "Predominantly endorheic, meaning rivers completely fail to reach the ocean.",
+        "Features a highly arid, massive high-desert climate ecosystem."
+      ]
+    },
+    {
+      "id": "ozark-plateau-relief-v2",
+      "descriptionAdvanced": "The Ozark Plateau, often simply referred to as the Ozarks, is a heavily forested, deeply eroded massive high plateau region spanning northern Arkansas, southern Missouri, and extending into Oklahoma. While visually resembling heavily rugged mountains, the geology is technically a massive, highly uplifted plateau that has been deeply, relentlessly carved by streams over millions of years, creating incredibly steep, massive valleys and narrow ridges. The region is globally famous for its highly complex karst topography, featuring an incredibly massive concentration of deep caves, large sinkholes, and incredibly powerful, massive natural freshwater springs. The deeply isolated nature of the Ozarks historically fostered a highly unique, distinct regional culture deeply tied to the rugged terrain. Geography K7 — uplifted plateaus and karst geomorphology.",
+      "factsAdvanced": [
+        "A massive, deeply eroded plateau spanning multiple Midwestern states.",
+        "Not technically mountains, but a massive, highly uplifted geological dome.",
+        "Globally renowned for its incredibly extensive massive karst topography.",
+        "Features thousands of deep, massive caves and powerful natural springs.",
+        "Covered predominantly by massive, dense oak-hickory deciduous forests.",
+        "Historically supported a deeply isolated, highly unique regional mountain culture."
+      ]
+    },
+    {
+      "id": "cascades-volcanic-relief-v2",
+      "descriptionAdvanced": "The Cascade Volcanic Arc is a deeply massive, highly active linear band of towering stratovolcanoes extending over 700 miles from southwestern British Columbia down to Northern California. This incredibly massive geological feature is the direct, volatile result of the Juan de Fuca plate relentlessly subducting deeply beneath the North American tectonic plate. The arc contains highly famous, massive peaks including Mount St. Helens, Mount Rainier, and Mount Shasta, many of which are heavily armored by massive, permanent glacial ice. The region is profoundly significant for its highly dangerous potential for catastrophic eruptions, graphically demonstrated by the massive, highly explosive 1980 eruption of Mount St. Helens, which radically altered the surrounding geography. Geography K8 — stratovolcanoes and subduction zones.",
+      "factsAdvanced": [
+        "A massive, highly active volcanic arc stretching over 700 miles.",
+        "Created entirely by the massive tectonic subduction of the Juan de Fuca plate.",
+        "Features the massive, globally famous stratovolcano Mount St. Helens.",
+        "Many massive peaks are deeply encased in highly unstable glacial ice.",
+        "Contains the absolute highest risk volcanoes within the contiguous United States.",
+        "A profoundly critical massive segment of the Pacific Ring of Fire."
+      ]
+    },
+    {
+      "id": "blueridge-mountains-relief-v2",
+      "descriptionAdvanced": "The Blue Ridge Mountains form a massive, deeply striking eastern escarpment of the vast Appalachian Mountains system, stretching from Pennsylvania to Georgia. The massive range is globally famous for the deeply characteristic, distinct bluish hue that constantly envelops its peaks, a massive optical phenomenon caused entirely by the heavy release of volatile organic compounds (isoprene) from its incredibly dense, ancient deciduous forests. The deeply rugged topography features some of the highest, most massive elevations in the eastern United States, culminating in Mount Mitchell. The entire massive region is deeply culturally significant and highly accessible, spectacularly traversed by the massive, heavily engineered Blue Ridge Parkway, providing unparalleled scenic views of the deeply ancient terrain. Geography K7 — ancient escarpments and forest ecology.",
+      "factsAdvanced": [
+        "Forms the massive eastern edge of the expansive Appalachian mountain system.",
+        "The distinct blue haze is caused by massive organic emissions from trees.",
+        "Mount Mitchell is the absolute highest peak at exactly 6,684 feet.",
+        "Traversed continuously by the massive, 469-mile scenic Blue Ridge Parkway.",
+        "Features incredibly ancient, deeply eroded geological bedrock structures.",
+        "Renowned globally for incredibly massive, diverse deciduous forest ecosystems."
+      ]
+    },
+    {
+      "id": "white-mountains-usa-relief-v2",
+      "descriptionAdvanced": "The White Mountains, encompassing a massive, deeply rugged quarter of New Hampshire, represent the most spectacularly elevated, intensely extreme section of the northern Appalachian Mountains. The deeply glaciated, massive topography is totally dominated by the towering Presidential Range, heavily characterized by massive, jagged granite peaks completely extending above the treeline into fragile alpine tundra. Mount Washington, the absolute highest peak at 6,288 feet, is globally notorious for generating some of the most fiercely extreme, highly unpredictable, and violently destructive weather ever recorded on Earth. The deeply striking landscape features massive U-shaped valleys, known locally as notches, which act as highly critical massive transportation corridors through the impenetrable terrain. Geography K8 — extreme alpine climates and glaciated ranges.",
+      "factsAdvanced": [
+        "The most massive, heavily elevated section of the northern Appalachians.",
+        "Mount Washington is the absolute highest peak at 6,288 feet.",
+        "Globally infamous for experiencing incredibly violent, extreme meteorological events.",
+        "Features massive, deeply glaciated U-shaped valleys known as 'notches'.",
+        "Contains massive, highly protected regions of rare alpine tundra.",
+        "Heavily draws massive numbers of intensely dedicated outdoor recreationists."
+      ]
+    },
+    {
+      "id": "adirondack-mountains-relief-v2",
+      "descriptionAdvanced": "The Adirondack Mountains form a massive, highly unique circular geological dome located in northeastern New York. Unlike the elongated ridges of the massive Appalachian Mountains, the Adirondacks are essentially a massive, localized upward thrust of incredibly ancient, billion-year-old Precambrian rock belonging entirely to the Canadian Shield. This deeply isolated, massive mountain system continues to aggressively uplift at an incredibly fast geological rate of approximately 2 millimeters per year. The massive topography is wildly rugged, completely featuring deep, heavily glaciated valleys, thousands of pristine massive lakes, and 46 prominent high peaks. The massive region is entirely encompassed by the Adirondack Park, the absolute largest publicly protected area in the contiguous United States. Geography K8 — geological domes and the Canadian Shield.",
+      "factsAdvanced": [
+        "A highly unique, massive circular geological dome in upstate New York.",
+        "Geologically distinct from the Appalachians, part of the ancient Canadian Shield.",
+        "Composed of incredibly ancient, billion-year-old massive Precambrian rock.",
+        "Actively, aggressively uplifting at a rapid rate of 2 millimeters annually.",
+        "Mount Marcy is the absolute highest peak at exactly 5,344 feet.",
+        "Protected entirely within the massive, 6-million-acre Adirondack Park."
+      ]
+    },
+    {
+      "id": "big-bend-relief-v2",
+      "descriptionAdvanced": "The Big Bend region of West Texas is a deeply remote, incredibly vast expanse defined entirely by the massive, sweeping curve of the Rio Grande along the Mexican border. This incredibly harsh, massive environment is a highly stark showcase of extreme Chihuahuan Desert ecology, featuring visually staggering, deeply rugged topography. The region is totally dominated by the massive Chisos Mountains, an entirely isolated, incredibly sheer volcanic range rising abruptly from the deeply arid desert floor. The massive, relentlessly eroding power of the Rio Grande has sliced through massive limestone mesas to form incredibly deep, visually breathtaking vertical canyons, including Santa Elena Canyon. The massive area remains one of the most incredibly isolated, pristine dark-sky locations globally. Geography K7 — arid geomorphology and desert mountain islands.",
+      "factsAdvanced": [
+        "Defined by a massive, sweeping southward curve of the Rio Grande.",
+        "Encompasses the absolute largest protected area of the Chihuahuan Desert.",
+        "Features the massive, deeply isolated volcanic Chisos Mountains.",
+        "Contains incredibly deep, visually staggering massive limestone river canyons.",
+        "Renowned as one of the most massive, pristine dark-sky locations globally.",
+        "An incredibly remote, deeply harsh environment with extreme temperature fluctuations."
+      ]
+    },
+    {
+      "id": "black-hills-relief-v2",
+      "descriptionAdvanced": "The Black Hills are a highly isolated, deeply heavily forested massive mountain range rising abruptly and spectacularly from the vast, completely flat expanse of the Great Plains in South Dakota and Wyoming. Geologically, they represent a massive, highly ancient structural dome, where the surrounding sedimentary rock layers have been completely eroded away to deeply expose an incredibly hard core of ancient Precambrian granite and pegmatite. This incredibly tough central rock features massive, highly famous monumental carvings, most notably the colossal presidential faces of Mount Rushmore and the massive, ongoing Crazy Horse Memorial. For the indigenous Lakota and Cheyenne peoples, the deeply dark, heavily pine-covered massive hills remain an incredibly profound, absolute sacred spiritual center. Geography K7 — geological domes and cultural geography.",
+      "factsAdvanced": [
+        "A highly isolated, massive mountain range rising directly from the Great Plains.",
+        "Geologically formed as a massive, deeply eroded structural rock dome.",
+        "Exposes an incredibly hard, massive core of ancient Precambrian granite.",
+        "Hosts the globally famous, massive monumental carving of Mount Rushmore.",
+        "Considered an absolutely profound, massive sacred site by the Lakota people.",
+        "Black Elk Peak is the absolute highest point at exactly 7,244 feet."
+      ]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "descriptionAdvanced": "The Colorado Plateau is an incredibly vast, deeply massive physiographic region spanning the Four Corners area of the American Southwest. Remarkably, while the deeply surrounding regions experienced massive, violent tectonic folding and intense faulting, this massive 130,000-square-mile block of ancient continental crust remained almost entirely perfectly flat as it was massively, continuously uplifted thousands of feet over millions of years. This incredible geological stability, combined with the relentless, massive erosive power of the Colorado River system, has resulted in a visually staggering, unparalleled landscape of deep massive canyons, towering rock mesas, and delicate massive sandstone arches. It contains the absolute highest concentration of massive National Parks in the United States, including the awe-inspiring Grand Canyon. Geography K8 — tectonic uplift and massive river erosion.",
+      "factsAdvanced": [
+        "A massive, highly stable 130,000-square-mile uplifted geological block.",
+        "Remained remarkably flat despite massive tectonic forces surrounding it.",
+        "Deeply, relentlessly carved by the massive Colorado River system.",
+        "Features visually staggering, massive canyons, towering mesas, and arches.",
+        "Contains the awe-inspiring, massively deep Grand Canyon.",
+        "Boasts the absolute highest concentration of National Parks in the US."
+      ]
+    },
+    {
+      "id": "great-basin-relief-v2",
+      "descriptionAdvanced": "The Great Basin is an incredibly vast, profoundly arid region encompassing nearly all of Nevada and massive portions of surrounding states. It is entirely defined by its massive endorheic hydrology; absolutely no water that falls within this deeply massive 200,000-square-mile area ever reaches an ocean, instead draining internally into massive, shallow saline lakes or completely evaporating in highly expansive, blindingly white salt flats. The deeply rugged topography features the classic massive 'basin and range' structure, with hundreds of deeply steep, parallel mountain ranges completely isolating massive, flat desert valleys. This incredibly harsh, deeply isolated massive environment features highly extreme temperature fluctuations and protects deeply ancient, resilient flora like the massive bristlecone pine trees. Geography K8 — endorheic watersheds and arid basin-and-range.",
+      "factsAdvanced": [
+        "A massive, fully endorheic watershed covering over 200,000 square miles.",
+        "Absolutely no internal river systems drain outwardly to any ocean.",
+        "Features a highly repetitive, massive 'basin and range' topography.",
+        "Contains expansive, blindingly white massive salt flats and saline lakes.",
+        "Experiences incredibly extreme, punishing daily temperature fluctuations.",
+        "Home to incredibly ancient, deeply resilient massive bristlecone pine trees."
+      ]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "descriptionAdvanced": "The Sierra Madre Occidental is a colossal, incredibly massive mountain system running parallel to the western coast of Mexico, deeply extending its geological influence into the extreme southern portions of Arizona and New Mexico. This visually staggering, highly elevated range is primarily composed of an incredibly massive, deeply thick accumulation of highly ancient volcanic ignimbrites and thick ash-flow tuffs, resulting from massive, catastrophic supervolcanic eruptions millions of years ago. The deeply rugged topography is completely fractured by a series of massive, profoundly deep canyons collectively known as Copper Canyon, which are entirely deeper and physically larger than the Grand Canyon. The massive range acts as a highly critical climatic barrier and a massive, profoundly vital biodiversity hotspot. Geography K8 — massive volcanic plateaus and deep canyon erosion.",
+      "factsAdvanced": [
+        "A colossal, massive mountain range paralleling the western Mexican coast.",
+        "Composed entirely of incredibly massive, deep layers of ancient volcanic ash.",
+        "Features the massive, deeply fractured Copper Canyon (Barrancas del Cobre).",
+        "The massive canyons are completely deeper and larger than the Grand Canyon.",
+        "Acts as an incredibly massive, highly critical climatic weather barrier.",
+        "Serves as a profoundly important, massive corridor for extreme biodiversity."
+      ]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "descriptionAdvanced": "The Chisos Mountains, located entirely within the massive boundaries of Big Bend National Park in West Texas, represent the absolute southernmost mountain range in the contiguous United States. They are incredibly unique geographically, forming a massive, completely isolated 'sky island' rising abruptly and spectacularly out of the deeply arid, massive Chihuahuan Desert. Geologically, the deeply rugged, massive peaks are the highly eroded remnants of massive, ancient volcanic intrusions and massive ash deposits. Because of their massive, towering elevation, the Chisos possess a highly distinct, deeply cooler microclimate that supports an entirely different, incredibly lush forest ecosystem completely surrounded by an extremely harsh, massive desert, creating a profound sanctuary for highly isolated wildlife. Geography K7 — volcanic intrusions and desert sky islands.",
+      "factsAdvanced": [
+        "The absolute southernmost mountain range completely within the contiguous US.",
+        "Functions as a massive, completely isolated high-elevation 'sky island'.",
+        "Geologically composed of heavily eroded, massive ancient volcanic rock.",
+        "Emory Peak is the absolute highest point at exactly 7,825 feet.",
+        "Features a deeply unique, highly lush microclimate completely surrounded by desert.",
+        "Located entirely within the massive expanse of Big Bend National Park."
+      ]
+    },
+    {
+      "id": "wasatch-range-relief-v2",
+      "descriptionAdvanced": "The Wasatch Range is a visually staggering, incredibly massive mountain range stretching approximately 160 miles through central Utah, fundamentally forming the absolute western edge of the massive Rocky Mountains. The deeply rugged range acts as a profound, massive geographic and cultural wall, completely separating the highly populated, deeply fertile Wasatch Front to the west from the incredibly arid, massive expanse of the Great Basin to the east. The mountains rise incredibly abruptly from the valley floor along the massive, highly active Wasatch Fault, creating incredibly steep, deeply glaciated massive canyons. The massive range is globally famous for receiving incredibly massive amounts of uniquely dry, powdery 'lake-effect' snow, driving a massive, multi-billion-dollar international ski industry. Geography K8 — active fault lines and orographic precipitation.",
+      "factsAdvanced": [
+        "Stretches a massive 160 miles, forming the western edge of the Rockies.",
+        "Rises incredibly abruptly along the highly active, massive Wasatch Fault.",
+        "Acts as a massive, profound barrier separating the Great Basin from the Rockies.",
+        "Receives incredible, massive amounts of highly dry, powdery winter snow.",
+        "Home to a globally renowned, massive international alpine skiing industry.",
+        "Nearly 80% of Utah's massive population lives directly at its western base."
+      ]
+    },
+    {
+      "id": "bighorn-mountains-relief-v2",
+      "descriptionAdvanced": "The Bighorn Mountains are a massive, deeply isolated range forming the sweeping easternmost flank of the Rocky Mountains in northern Wyoming and southern Montana. Unlike the continuously connected ranges to the west, the Bighorns are a completely isolated, massive structural uplift, bulging dramatically upwards from the deep, massive sedimentary plains of the expansive Powder River Basin. The deeply rugged, highly elevated topography features massive, sheer limestone canyons, expansive high-altitude alpine meadows, and heavily glaciated massive granite peaks. The deeply pristine region is relatively uncrowded compared to other Rocky Mountain ranges and is profoundly sacred to numerous Plains Indian tribes, notably featuring the incredibly ancient, highly enigmatic massive Medicine Wheel stone structure. Geography K7 — structural uplifts and isolated mountain ranges.",
+      "factsAdvanced": [
+        "A highly isolated, massive range forming the easternmost Rocky Mountains.",
+        "Created by a massive, deep structural uplift from the surrounding plains.",
+        "Cloud Peak is the absolute highest elevation at exactly 13,175 feet.",
+        "Features massive, visually stunning deep limestone and granite canyons.",
+        "Contains the highly enigmatic, massive ancient Medicine Wheel stone structure.",
+        "Considered profoundly sacred by numerous massive indigenous Plains tribes."
+      ]
+    },
+    {
+      "id": "olympic-mountains-relief-v2",
+      "descriptionAdvanced": "The Olympic Mountains represent a visually staggering, profoundly massive and heavily rugged mountain range dominating the massive Olympic Peninsula in northwestern Washington state. Geologically, they are incredibly unique, consisting not of volcanic rock, but entirely of massive, deeply scraped oceanic crust and marine sedimentary rock that was violently, heavily pushed up into a massive chaotic jumble by the relentless tectonic subduction of the Juan de Fuca plate. Their immediate, massive proximity to the Pacific Ocean causes them to intercept incredible, massive amounts of moisture, creating profoundly dense, incredibly lush temperate rainforests on their western slopes, while maintaining heavily glaciated, massive jagged alpine peaks at their center, all protected within a massive National Park. Geography K8 — accretionary wedges and orographic rain shadows.",
+      "factsAdvanced": [
+        "A highly massive, profoundly rugged range dominating the Olympic Peninsula.",
+        "Geologically composed entirely of massive, uplifted marine sedimentary rock.",
+        "Intercepts massive Pacific moisture, creating incredibly lush temperate rainforests.",
+        "Features Mount Olympus as the absolute highest peak at exactly 7,980 feet.",
+        "Heavily covered by massive, numerous active alpine glaciers.",
+        "The deeply rugged interior remains incredibly massive, remote, and roadless."
+      ]
+    },
+    {
+      "id": "uinta-mountains-relief-v2",
+      "descriptionAdvanced": "The Uinta Mountains are a deeply massive, highly prominent range in northeastern Utah, uniquely distinguished as the absolutely highest mountain range in the contiguous United States that runs in a completely east-west direction. This incredibly massive geological anomaly features a deeply broad, highly elevated central crest heavily composed of profoundly ancient, extremely hard Precambrian quartzite. During the Pleistocene epoch, the massive range was heavily encased in ice, resulting in deeply scoured, massive U-shaped valleys and hundreds of pristine, high-elevation alpine lakes. The intensely rugged, heavily isolated massive wilderness contains Kings Peak, the absolute highest point in Utah at 13,528 feet, and offers some of the most profoundly remote, massive alpine environments in the country. Geography K7 — east-west ranges and Pleistocene glaciation.",
+      "factsAdvanced": [
+        "The absolute highest continuous east-west mountain range in the contiguous US.",
+        "Composed primarily of incredibly hard, massive ancient Precambrian quartzite.",
+        "Kings Peak is the absolute highest elevation in Utah at exactly 13,528 feet.",
+        "Heavily, deeply carved by massive Pleistocene glaciers into U-shaped valleys.",
+        "Contains hundreds of pristine, incredibly isolated massive alpine lakes.",
+        "A deeply remote, massive wilderness area with highly restricted road access."
+      ]
+    },
+    {
+      "id": "tetons-relief-v2",
+      "descriptionAdvanced": "The Teton Range is a visually staggering, incredibly massive and deeply jagged segment of the Rocky Mountains located in northwestern Wyoming. Unlike most massive mountain ranges, the Tetons almost entirely lack lower foothills on their eastern side; instead, they rise absolutely abruptly and violently from the entirely flat, massive valley floor of Jackson Hole along a highly active, massive 40-mile-long fault line. This incredibly dramatic, massive tectonic displacement creates one of the most incredibly spectacular, visually iconic mountain profiles globally, dominated by the massive, deeply glaciated Grand Teton peak. The highly pristine, completely rugged massive alpine environment is heavily protected within Grand Teton National Park and remains a globally premier massive destination for extreme mountaineering. Geography K8 — active fault-block mountains and alpine glaciation.",
+      "factsAdvanced": [
+        "Rises absolutely abruptly and violently along a massive active fault line.",
+        "Completely lacks lower eastern foothills, creating a visually staggering profile.",
+        "The Grand Teton is the absolute highest peak at exactly 13,775 feet.",
+        "Heavily, deeply carved by massive, relentless alpine glaciers.",
+        "A globally renowned, massive destination for highly extreme mountaineering.",
+        "Deeply protected entirely within the massive Grand Teton National Park."
+      ]
+    },
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "descriptionAdvanced": "The Sawtooth Mountains are an incredibly deeply jagged, massive mountain range situated within the heavily rugged, vast expanse of central Idaho. The range is highly renowned for its visually staggering, incredibly sharp, completely massive granite peaks, heavily resembling the aggressive, massive teeth of a giant saw blade. This highly dramatic, intensely sharp massive topography is the direct result of deep, relentless Pleistocene alpine glaciation completely carving away an incredibly massive, deeply solid batholith of pink granite. The deeply isolated, profoundly massive wilderness encompasses hundreds of incredibly pristine high-alpine lakes and deeply sheer massive granite walls, offering some of the most intensely rugged, highly challenging massive backcountry recreation and rock climbing in the United States. Geography K7 — alpine glaciation and granite batholiths.",
+      "factsAdvanced": [
+        "Renowned for visually staggering, incredibly jagged massive granite peaks.",
+        "Geologically carved from a deeply massive, solid pink granite batholith.",
+        "Thompson Peak is the absolute highest elevation at exactly 10,751 feet.",
+        "Deeply, relentlessly shaped by massive Pleistocene alpine glaciation.",
+        "Contains hundreds of pristine, incredibly isolated massive high-altitude lakes.",
+        "A deeply remote, highly rugged massive destination for extreme rock climbing."
+      ]
+    },
+    {
+      "id": "cascades-volcanic-north-relief-v2",
+      "descriptionAdvanced": "The North Cascades represent an incredibly massive, profoundly rugged, and visually staggering section of the Cascade Range located in northern Washington state near the Canadian border. Unlike the heavily isolated, massive stratovolcanoes that completely dominate the southern Cascades, the North Cascades are characterized by an incredibly dense, massive sea of deeply sharp, highly jagged, non-volcanic alpine peaks intermixed with deeply prominent volcanoes like Mount Baker. The deeply steep, completely impenetrable massive topography intercepts incredible amounts of moisture, making it the absolute most heavily glaciated mountain range in the contiguous United States, featuring over 300 massive active glaciers. The deeply profound, completely rugged isolation is rigorously protected within a massive National Park complex. Geography K8 — intense alpine glaciation and deeply complex orogeny.",
+      "factsAdvanced": [
+        "A visually staggering, incredibly massive and deeply jagged non-volcanic range.",
+        "The absolute most heavily glaciated range in the entire contiguous US.",
+        "Features over 300 massive, intensely monitored active alpine glaciers.",
+        "Intercepts incredibly massive amounts of moisture, creating deeply lush forests.",
+        "Mount Baker is a massive, highly prominent active stratovolcano nearby.",
+        "Deeply protected by an incredibly massive, completely remote National Park."
+      ]
+    },
+    {
+      "id": "death-valley-relief-v2",
+      "descriptionAdvanced": "Death Valley is a profoundly massive, visually staggering, and incredibly extreme desert valley located in eastern California within the vast Mojave Desert. It represents the absolute lowest, driest, and unequivocally the hottest geographical location in all of North America. Functioning as a massive, completely enclosed graben—a highly depressed block of the Earth's crust completely bordered by incredibly steep, massive parallel fault-block mountain ranges—the valley floor famously plunges to an astonishing absolute depth of 282 feet completely below sea level at Badwater Basin. This incredibly unique, deeply massive topography aggressively traps heat, resulting in globally record-breaking massive surface temperatures. Despite the punishingly brutal, absolutely extreme massive conditions, it features a deeply striking, highly unique massive geology and resilient biology. Geography K8 — extreme grabens and hyper-arid climates.",
+      "factsAdvanced": [
+        "The absolute lowest, driest, and highly hottest location in North America.",
+        "Badwater Basin plunges to an absolute depth of 282 feet completely below sea level.",
+        "Holds the deeply contested record for the highest massive ambient air temperature.",
+        "Geologically functions as a massive, completely enclosed tectonic graben.",
+        "Receives an incredibly minimal, absolutely massive average of under 2 inches of rain.",
+        "Features visually staggering, completely massive salt flats and badlands."
+      ]
+    }
+  ]
+}

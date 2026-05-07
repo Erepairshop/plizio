@@ -1,0 +1,21 @@
+{
+  "lang": "ro",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bulawayo-cities-v2",
+      "descriptionAdvanced": "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      "factsAdvanced": [
+        "Cunoscut ca: Orașul Regilor.",
+        "Patrimoniu: Fosta capitală a Regatului Ndebele.",
+        "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.",
+        "Economie: Nod feroviar și centru de producție.",
+        "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.",
+        "Locație: Sud-vestul Zimbabwe."
+      ]
+    }
+  ]
+}

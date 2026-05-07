@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mekelle-cities-v2",
+      "descriptionAdvanced": "Mek'ele is the capital of the Tigray region and is located on a high plateau at about 2,080 meters altitude. The city has gained immense importance in recent decades through infrastructure expansion and the establishment of major educational institutions, such as Mekelle University. The cityscape is dominated by the massive white Martyrs' Memorial, which commemorates the fight against the Derg regime. The region is also rich in mineral resources and has a thriving salt and cement industry. Geography K7 — regional centers and economic resources.",
+      "factsAdvanced": ["Elevation of approx. 2,080 meters.", "Most important educational center of Tigray.", "Rich in potash and salt deposits.", "Known Martyrs' Memorial.", "Home to around 300,000 people.", "Regional economic center."]
+    },
+    {
+      "id": "gondar-cities-v2",
+      "descriptionAdvanced": "Gondar, often called the Camelot of Africa, served as the imperial capital of Ethiopia from the 17th to the 19th century. It is world-renowned for the Fasil Ghebbi fortress complex, a UNESCO World Heritage site, which features unique royal castles blending Aksumite, Portuguese, and Indian architectural styles. Situated at the foothills of the Simien Mountains, Gondar remains a vital cultural and religious center, famous for hosting the colorful Timkat epiphany celebrations. History K8 — Imperial dynasties and architectural heritage.",
+      "factsAdvanced": ["Imperial capital from 1636 to 1864.", "Fasil Ghebbi complex is a UNESCO World Heritage site.", "Located at the foothills of the Simien Mountains.", "Famous for the annual Timkat religious festival.", "Architectural style blends diverse influences.", "Former seat of the Solomonic dynasty.", "Elevation of approximately 2,100 meters."]
+    }
+  ]
+}

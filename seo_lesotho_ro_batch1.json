@@ -1,0 +1,335 @@
+{
+  "lang": "ro",
+  "country": "lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLesothoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maseru-cities-v2",
+      "descriptionAdvanced": "Maseru, capitala plină de viață a regatului Lesotho, este situată la o altitudine de 1.600 de metri, pe malurile râului Caledon, chiar la granița cu Africa de Sud. Orașul a fost fondat în 1869 ca tabără de poliție de către britanici, iar de atunci s-a dezvoltat într-un centru administrativ și comercial esențial pentru națiune. Vizitatorii sunt adesea fascinați de clădirea Parlamentului și de arhitectura modernă a centrului comercial, care contrastează puternic cu peisajele montane din jur. O atracție deosebită este complexul de meșteșuguri din apropiere, unde artizanii locali realizează renumitele pălării tradiționale Basotho din paie. Geografia regiunii influențează direct clima, aducând ierni reci și veri temperate. Acest oraș conectează istoria colonială cu ritmul alert al unei capitale africane moderne. Geografie K7 — așezări și dezvoltare urbană.",
+      "factsAdvanced": [
+        "Fondat în anul 1869 de britanici.",
+        "Situat la o altitudine de 1.600 metri.",
+        "Se află pe malul râului Caledon.",
+        "Populația depășește 330.000 de locuitori.",
+        "Găzduiește Palatul Regal al monarhului Lesotho.",
+        "A devenit capitală oficială în 1966 la independență.",
+        "Pălăria tradițională Mokotjeli este simbolul național."
+      ]
+    },
+    {
+      "id": "teyateyaneng-cities-v2",
+      "descriptionAdvanced": "Teyateyaneng, adesea numit simplu 'T.Y.', a fost fondat în anul 1886 și se remarcă prin meșteșugurile tradiționale de înaltă calitate, în special tapiseriile și ceramica. Orașul, aflat la aproximativ 40 de kilometri nord de Maseru, servește ca centru agricol și de artizanat vital pentru districtul Berea. Galeriile de artă locale și centrele de țesut atrag vizitatori dornici să vadă cum meșterii prelucrează lână de oaie și mohair pentru a crea modele complexe. Peisajul din jurul orașului este dominat de coline stâncoase și văi abrupte, reflectând topografia aspră a regatului. Numele său înseamnă 'locul nisipurilor mișcătoare', făcând referire la patul râului local. Comunitatea se bazează puternic pe agricultura de subzistență. Geografie K7 — economie locală și meșteșuguri.",
+      "factsAdvanced": [
+        "Orașul a fost înființat oficial în 1886.",
+        "Este capitala administrativă a districtului Berea.",
+        "Se află la circa 40 km distanță de capitala Maseru.",
+        "Renumit pentru producția de tapiserii din mohair.",
+        "Numele se traduce prin 'locul nisipurilor mișcătoare'.",
+        "Regiunea depinde de culturile de porumb și sorg.",
+        "Altitudinea medie a zonei este de 1.650 metri."
+      ]
+    },
+    {
+      "id": "mafeteng-cities-v2",
+      "descriptionAdvanced": "Situat în regiunea de sud-vest a țării, Mafeteng este un oraș cu o bogată istorie militară și agricolă, fondat în anii 1880. În timpul conflictelor armate numite Gun War din 1880-1881, orașul a fost un punct strategic esențial și a suferit daune majore, dar și-a revenit impresionant de-a lungul deceniilor. Astăzi, Mafeteng se bazează pe comerțul transfrontalier și pe producția textilă, găzduind unele dintre fabricile importante de confecții din Lesotho. Numele său înseamnă 'locul celor necăsătoriți', o referire la trecătorii și soldații care s-au oprit aici în secolul al XIX-lea. Peisajul urban este înconjurat de câmpii întinse care sprijină pășunatul extensiv al oilor și bovinelor. Este un nod vital pentru transportul către zonele montane. Istorie K8 — conflicte coloniale africane.",
+      "factsAdvanced": [
+        "A fost un teatru de luptă important în Gun War (1880-1881).",
+        "Numele orașului se traduce prin 'locul celor necăsătoriți'.",
+        "Fondat în jurul anului 1880 ca punct comercial.",
+        "Găzduiește fabrici importante din industria textilă.",
+        "Altitudinea este de aproximativ 1.620 de metri.",
+        "Este reședința administrativă a districtului Mafeteng.",
+        "Conectează sudul țării cu capitala Maseru."
+      ]
+    },
+    {
+      "id": "hlotse-cities-v2",
+      "descriptionAdvanced": "Hlotse, cunoscut și sub numele de Leribe, este o așezare vibrantă situată pe malul râului Hlotse, la granița vestică cu Africa de Sud. Orașul a fost stabilit în anul 1876 de un misionar britanic și și-a păstrat un amestec interesant de arhitectură colonială, precum vechiul fort britanic, și elemente moderne de comerț. Vizitatorii pot explora clădiri istorice și o piață animată unde se comercializează produse agricole locale și artizanat. În apropiere de Hlotse se pot găsi amprente pietrificate de dinozauri, care atrag entuziaști de paleontologie din toată lumea. Regiunea din jur se remarcă prin câmpii fertile și vegetație de stepă, susținând agricultura intensivă a comunității Basotho. Istorie K6 — așezări coloniale europene.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în anul 1876 de britanici.",
+        "Adesea numit Leribe, după numele districtului său.",
+        "Situat pe malul râului Hlotse, aproape de graniță.",
+        "Găzduiește amprente de dinozauri vechi de milioane de ani.",
+        "Un vechi turn de fortificație colonială este încă vizibil.",
+        "Este un important centru pentru comerțul agricol.",
+        "Afluența de râuri susține fertilitatea regiunii."
+      ]
+    },
+    {
+      "id": "mohales-hoek-cities-v2",
+      "descriptionAdvanced": "Mohale's Hoek este un oraș montan sudic, stabilit în anul 1884, care poartă numele șefului tradițional Mohale, fratele mai mic al legendarului rege Moshoeshoe I. Situat la o altitudine impresionantă de 1.600 de metri, orașul este înconjurat de stânci roșiatice și formațiuni de gresie spectaculoase. Din cauza terenului accidentat, economia se bazează în principal pe creșterea animalelor și cultivarea unor mici suprafețe terasate. De asemenea, zona atrage exploratori datorită picturilor rupestre străvechi lăsate de populația indigenă San, ascunse în peșterile din apropiere. Comunitatea menține cu mândrie tradițiile ecvestre, caii fiind esențiali pentru deplasarea în zonele greu accesibile. Istorie K7 — cultura San și expansiunea Basotho.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată oficial în anul 1884.",
+        "Numit după Mohale, fratele regelui Moshoeshoe I.",
+        "Altitudinea orașului este de 1.600 metri.",
+        "Regiunea este faimoasă pentru arta rupestră a poporului San.",
+        "Agricultura este puternic dependentă de terasarea pantelor.",
+        "Caii Basotho sunt folosiți frecvent pentru transport local.",
+        "Găzduiește un important centru educațional regional."
+      ]
+    },
+    {
+      "id": "maputsoe-cities-v2",
+      "descriptionAdvanced": "Maputsoe este unul dintre cele mai industrializate orașe din Lesotho, situat chiar la granița cu orașul sud-african Ficksburg. Deși este o așezare relativ tânără în comparație cu alte orașe istorice, s-a dezvoltat rapid datorită industriilor textile și manufacturiere orientate către export. Poziția sa strategică facilitează comerțul zilnic masiv, mii de muncitori trecând frontiera regulat. Orașul este esențial pentru economia națională, generând o parte semnificativă a veniturilor din exporturile de îmbrăcăminte. În ciuda caracterului său puternic industrial, Maputsoe se află într-o regiune pitorească, cu vedere spre lanțurile muntoase îndepărtate. Populația în continuă creștere subliniază importanța sa economică. Geografie K8 — industrie și comerț internațional.",
+      "factsAdvanced": [
+        "Unul dintre cele mai industrializate orașe din Lesotho.",
+        "Se află vizavi de orașul sud-african Ficksburg.",
+        "Centru major pentru industria de confecții și textile.",
+        "Mii de persoane traversează zilnic granița din acest punct.",
+        "Atrage forță de muncă din toate districtele țării.",
+        "Contribuie major la exporturile naționale.",
+        "Altitudinea este de aproximativ 1.550 de metri."
+      ]
+    },
+    {
+      "id": "quthing-cities-v2",
+      "descriptionAdvanced": "Quthing, cunoscut și sub denumirea de Moyeni, este cel mai sudic oraș major al statului Lesotho, fiind stabilit la o altitudine de 1.500 de metri. Numele său 'Moyeni' se traduce prin 'locul vântului', reflectând brizele constante care străbat valea râului Senqu. Orașul este celebru pentru unicul sit paleontologic din apropiere, care conține sute de amprente de dinozauri bine conservate în gresie. Arhitectura din Quthing prezintă case tradiționale din piatră alături de clădiri moderne, iar defileul din apropiere oferă peisaje uluitoare. Această zonă montană accidentată este locuită de comunități de păstori care mențin un stil de viață legat de natură și turmele de oi și capre. Geografie K7 — relief montan și fosile.",
+      "factsAdvanced": [
+        "Cunoscut și sub numele tradițional de Moyeni.",
+        "Moyeni înseamnă 'locul vântului' în limba locală.",
+        "Este reședința districtului sudic Quthing.",
+        "Aici se găsesc sute de amprente de dinozauri fosilizate.",
+        "Se află aproape de defileul format de râul Senqu.",
+        "Fondat în secolul al XIX-lea de autoritățile coloniale.",
+        "Păstoritul transhumant este o practică de bază aici."
+      ]
+    },
+    {
+      "id": "qachas-nek-cities-v2",
+      "descriptionAdvanced": "Qacha's Nek este un mic oraș montan izolat, situat la o altitudine de 1.980 de metri, în apropierea graniței estice cu Africa de Sud. Numele său îl onorează pe Qacha, un lider local faimos din secolul al XIX-lea, iar 'nek' înseamnă trecătoare montană. Orașul este cunoscut pentru climatul său rece, cu ninsori frecvente în timpul iernii și păduri rare de eucalipt care rezistă la aceste condiții. Având acces limitat prin drumuri dificile, comunitatea se bazează pe rute comerciale esențiale cu provincia sud-africană Eastern Cape. Agricultura de munte și silvicultura joacă roluri cheie în economia de subzistență a regiunii. Geografie K6 — așezări montane și climat extrem.",
+      "factsAdvanced": [
+        "Orașul este situat la 1.980 metri altitudine.",
+        "Numit după Qacha, un lider din secolul al XIX-lea.",
+        "A fost înființat oficial în anul 1888.",
+        "Se află aproape de parcul național Sehlabathebe.",
+        "Este renumit pentru iernile sale aspre cu zăpadă.",
+        "Singurul spital major din regiune se află aici.",
+        "Economia se bazează pe schimburi comerciale cu Eastern Cape."
+      ]
+    },
+    {
+      "id": "mokhotlong-cities-v2",
+      "descriptionAdvanced": "Mokhotlong este cunoscut ca unul dintre cele mai izolate și aspre orașe din Africa, situându-se la o altitudine extremă de 2.200 de metri în munții Maloti. Fondat în anul 1905 ca post de poliție, numele său înseamnă 'locul ibisului pleșuv', o pasăre rară care frecventa râurile glaciare din zonă. Timp de decenii, orașul a fost accesibil doar cu ponei sau pe jos, drumurile moderne fiind o adăugire recentă. Datorită pajiștilor de înaltă altitudine, Mokhotlong produce lână de oaie și mohair de cea mai înaltă calitate din lume, atrăgând cumpărători internaționali. Iernile sunt severe, temperaturile scăzând des sub pragul de îngheț, transformând peisajul într-un deșert alb. Geografie K7 — economii de mare altitudine.",
+      "factsAdvanced": [
+        "Altitudinea sa este de peste 2.200 de metri.",
+        "Numele se traduce prin 'locul ibisului pleșuv'.",
+        "A fost fondat în 1905 ca un post de poliție britanic.",
+        "Centru major pentru producția de lână și mohair premium.",
+        "Cea mai uscată și rece regiune din statul Lesotho.",
+        "Este punctul de plecare spre Vârful Thabana Ntlenyana.",
+        "Temperaturile pot scădea la -15°C în timpul iernii."
+      ]
+    },
+    {
+      "id": "butha-buthe-cities-v2",
+      "descriptionAdvanced": "Butha-Buthe, situat în nordul regatului, a fost o fortăreață montană crucială stabilită de regele Moshoeshoe I în anul 1820. Numele său înseamnă 'locul de odihnă' sau 'așezarea liniștită', servind inițial ca sanctuar în timpul războaielor Lifaqane înainte de mutarea la Thaba Bosiu. Orașul modern și-a păstrat un aer istoric profund, fiind înconjurat de munți spectaculoși cu vârfuri plate și peșteri vaste. Astăzi, Butha-Buthe este un hub agricol și poarta principală de acces pentru schiorii care vizitează faimoasa stațiune Afriski. Comunitățile locale practică un mix de tradiții rurale și comerț de frontieră, fiind la mică distanță de orașul sud-african Fouriesburg. Istorie K8 — formarea regatului Basotho.",
+      "factsAdvanced": [
+        "A fost prima fortăreață a regelui Moshoeshoe I în 1820.",
+        "Numele orașului înseamnă 'locul de odihnă'.",
+        "Este reședința districtului Butha-Buthe.",
+        "Baza de acces principală către stațiunea Afriski.",
+        "Altitudinea orașului este de 1.700 de metri.",
+        "A fost esențial în apărarea în timpul războaielor Lifaqane.",
+        "Râul Caledon izvorăște din munții din apropiere."
+      ]
+    },
+    {
+      "id": "thaba-tseka-cities-v2",
+      "descriptionAdvanced": "Thaba-Tseka este cel mai nou oraș districtual din Lesotho, înființată oficial abia în anul 1980 pentru a dezvolta infrastructura regiunii montane centrale. Numele său se traduce prin 'muntele cu fața albă', o descriere perfectă a rocilor de cuarțit vizibile pe vârfurile înconjurătoare. Orașul funcționează ca un centru vital pentru fermierii și păstorii din munții Maloti, fiind locația unei herghelii naționale renumite pentru creșterea cailor Basotho. Accesul se face prin trecători muntoase sinuoase, iar clima este caracterizată de veri scurte și ierni prelungite. Așezarea a stimulat turismul eco, devenind un punct de oprire pentru traseele rutiere off-road și expedițiile călare. Geografie K6 — dezvoltarea urbană recentă.",
+      "factsAdvanced": [
+        "Fondat oficial în anul 1980 ca un nou centru districtual.",
+        "Numele înseamnă 'muntele cu fața albă'.",
+        "Altitudinea orașului este de 2.200 metri.",
+        "Găzduiește un centru național de creștere a cailor Basotho.",
+        "Conectează vestul cu structurile gigantice ale Barajului Katse.",
+        "Baza sa economică este agricultura de subzistență montană.",
+        "Are veri scurte și ierni cu zăpezi abundente."
+      ]
+    },
+    {
+      "id": "roma-cities-v2",
+      "descriptionAdvanced": "Roma, situată într-o vale spectaculoasă protejată de munți vulcanici abrupți, este inima academică a țării, fondată în 1862 de misionarii romano-catolici. Așezarea se remarcă prin clădirile sale din gresie roșie și găzduiește Universitatea Națională din Lesotho, atrăgând studenți din întreaga națiune. Peisajul luxuriant al văii, contrastând cu munții arizi, face ca Roma să fie unul dintre cele mai verzi orașe din regiune. Misionarii au lăsat moștenire o rețea excelentă de școli și spitale, transformând zona într-un far al educației. În apropiere, vizitatorii pasionați de drumeții explorează situri cu amprente de dinozauri fosilizate vechi de 200 de milioane de ani. Geografie K7 — așezări educaționale și misionarism.",
+      "factsAdvanced": [
+        "Fondată în anul 1862 de un grup de misionari catolici.",
+        "Aici se află Universitatea Națională din Lesotho.",
+        "Populația este formată majoritar din studenți și profesori.",
+        "Situată la o altitudine de aproximativ 1.630 de metri.",
+        "Regiunea este bogată în urme fosilizate de dinozauri.",
+        "Valea este renumită pentru verdeața sa neobișnuită.",
+        "Orașul este considerat centrul intelectual al țării."
+      ]
+    },
+    {
+      "id": "morija-cities-v2",
+      "descriptionAdvanced": "Morija este cunoscută pe scară largă ca centrul cultural și istoric al națiunii Basotho, fiind înființată în 1833 de misionari francezi din Societatea Evanghelică. Aici a fost tipărită prima carte în limba Sesotho și se află cel mai vechi muzeu din țară, care adăpostește artefacte prețioase ale istoriei locale. În fiecare toamnă, orașul prinde viață găzduind Festivalul de Artă și Cultură Morija, un eveniment vibrant care celebrează muzica, dansul și tradițiile locale. Orașul se cuibărește la poalele Muntelui Makhoarane, oferind numeroase trasee prin păduri de pini umbroase, o raritate în peisajul deschis al Lesotho-ului. Este un sanctuar al intelectualității și conservării tradițiilor. Istorie K8 — conservarea patrimoniului cultural african.",
+      "factsAdvanced": [
+        "Fondată în 1833 de misionari protestanți francezi.",
+        "Găzduiește cel mai vechi muzeu din Lesotho (Morija Museum).",
+        "Aici funcționează prima tiparniță din istoria regatului.",
+        "Este locația Festivalului de Artă și Cultură Morija.",
+        "Altitudinea este de aproximativ 1.600 de metri.",
+        "Aici se află biserica evanghelică istorică construită în 1847.",
+        "Orașul este mărginit de păduri de pini dense."
+      ]
+    },
+    {
+      "id": "semonkong-cities-v2",
+      "descriptionAdvanced": "Semonkong, al cărui nume impresionant se traduce prin 'locul fumului', a fost fondat la sfârșitul anilor 1880 de refugiați în căutarea unor pășuni sigure. Orașul este celebru pe plan mondial datorită spectaculoasei Cascade Maletsunyane, care are o cădere neîntreruptă de 192 de metri în defileu, generând o ceață densă care dă numele localității. Izolarea sa în inima munților Maloti l-a transformat într-un paradis pentru eco-turism, comunitatea locală operând excursii călare pentru vizitatori. Datorită altitudinii de 2.275 de metri, verile sunt răcoroase, iar iernile aduc înghețuri aspre care pot îngheța chiar și marginile cascadei. Acest oraș menține un stil de viață tradițional, departe de urbanizarea modernă. Geografie K7 — atracții naturale și turism durabil.",
+      "factsAdvanced": [
+        "Numele orașului înseamnă literal 'locul fumului'.",
+        "Situat la o altitudine impresionantă de 2.275 de metri.",
+        "Cascada Maletsunyane din apropiere are o cădere de 192 de metri.",
+        "A fost fondat de refugiați în anii 1880.",
+        "Este un centru renumit pentru excursiile pe ponei Basotho.",
+        "Aici se află cel mai lung rapel comercial din lume (Guinness World Records).",
+        "Nu are conexiune directă pe drum asfaltat majoritar."
+      ]
+    },
+    {
+      "id": "mazenod-cities-v2",
+      "descriptionAdvanced": "Mazenod este o localitate strategică aflată la doar câțiva kilometri sud-est de Maseru, dezvoltându-se considerabil în jurul singurului aeroport internațional din țară, Aeroportul Moshoeshoe I. Orașul poartă numele episcopului catolic fondator, Eugène de Mazenod, reflectând moștenirea misionară profundă a zonei. În ciuda aspectului său de nod de transport modern, Mazenod rămâne o comunitate înrădăcinată în agricultură, cu ferme terasate răspândite pe dealurile din împrejurimi. De asemenea, aici se află o importantă tiparniță catolică și un centru educațional ce deservește satele vecine. Din punct de vedere topografic, localitatea face tranziția de la câmpiile joase vestice la primele contraforturi ale munților Maloti. Geografie K6 — infrastructură de transport și comunitate.",
+      "factsAdvanced": [
+        "Aici este situat Aeroportul Internațional Moshoeshoe I.",
+        "Numit după un influent episcop misionar catolic.",
+        "Găzduiește o mare tiparniță catolică activă din 1933.",
+        "Se află la o altitudine de aproximativ 1.600 de metri.",
+        "Acționează ca un nod de transport major pentru capitală.",
+        "Dezvoltarea urbană se împletește cu agricultura rurală.",
+        "Populația este implicată activ în comerțul cu navetiști."
+      ]
+    },
+    {
+      "id": "matsieng-cities-v2",
+      "descriptionAdvanced": "Matsieng deține o importanță istorică și regală inestimabilă, servind de mult timp ca reședință tradițională a monarhilor din Lesotho, inclusiv a actualului Rege Letsie III. Înființată în anul 1858 de către regele Letsie I, numele localității se traduce prin 'locul oamenilor lui Letsie'. Situat într-o vale liniștită, ferită de agitația capitalei Maseru, orașul păstrează un aer de noblețe conservatoare, cu structuri regale din piatră. Această așezare nu este un centru comercial zgomotos, ci un loc de întâlniri tradiționale și ceremonii, unde liderii tribali se adună pentru a discuta probleme naționale. În împrejurimi pot fi observate fosile uimitoare de dinozauri, care amintesc de o istorie mult mai străveche a regiunii. Istorie K7 — monarhii africane moderne.",
+      "factsAdvanced": [
+        "Fondată în 1858 de către regele Letsie I.",
+        "Este reședința tradițională a familiei regale din Lesotho.",
+        "Numele se traduce prin 'locul oamenilor lui Letsie'.",
+        "Sunt organizate frecvent ceremonii tradiționale de stat (pitso).",
+        "Altitudinea este de aproximativ 1.650 de metri.",
+        "Aici pot fi văzute urme clare de dinozauri pietrificate.",
+        "Orașul are un ritm de viață liniștit, fără industrie grea."
+      ]
+    },
+    {
+      "id": "mapoteng-cities-v2",
+      "descriptionAdvanced": "Mapoteng este o așezare rurală vibrantă, așezată pe câmpiile roditoare de la poalele lanțului muntos Maloti, la nord-est de capitală. Orașul a devenit un pol regional de sănătate și educație după înființarea Spitalului Maluti Adventist în anul 1951, care atrage pacienți dintr-un teritoriu vast. Economia sa este dictată de ciclurile agricole, locuitorii cultivând intens porumb și sorg pe terenurile deluroase, utilizând tehnici tradiționale de conservare a apei. Mapoteng este, de asemenea, cunoscut ca o comunitate cu legături strânse, unde artizanatul domestic, precum împletirea coșurilor, este transmis din generație în generație. Peisajul senin este dominat de platouri stâncoase care străjuiesc valea ca niște cetăți naturale. Geografie K6 — servicii rurale de sănătate.",
+      "factsAdvanced": [
+        "Găzduiește Spitalul Maluti Adventist, fondat în 1951.",
+        "Este o comunitate esențială pentru districtul Berea.",
+        "Se află la o altitudine medie de 1.700 de metri.",
+        "Economia se bazează pe cultura porumbului și a sorgului.",
+        "Așezarea este renumită pentru împletiturile tradiționale din ierburi.",
+        "Spitalul servește o populație extinsă din munți.",
+        "Clima asigură veri ploioase vitale pentru recolte."
+      ]
+    },
+    {
+      "id": "peka-cities-v2",
+      "descriptionAdvanced": "Peka este o comunitate de graniță dinamică, situată în câmpiile joase ale vestului țării, aproape de un punct de trecere a frontierei peste râul Caledon. Originea numelui său este legată de arbuștii denși de specii native care odată acopereau malurile râului. Peka servește ca o arteră comercială crucială pentru agricultorii care doresc să-și exporte produsele în Africa de Sud și ca punct de acces pentru importuri vitale. Pământul din jur este relativ plat, permițând mecanizarea parțială a agriculturii, o raritate într-o națiune atât de muntoasă. Dinamica orașului se schimbă zilnic odată cu traficul de graniță, ilustrând legăturile economice indispensabile dintre Lesotho și vecinul său mult mai mare. Geografie K7 — granițe naturale și rute comerciale.",
+      "factsAdvanced": [
+        "Oraș de graniță cu un punct de frontieră important (Peka Bridge).",
+        "Așezat pe malurile fertilului râu Caledon.",
+        "Terenul plat înconjurător favorizează agricultura.",
+        "Altitudinea este relativ scăzută pentru Lesotho (aprox. 1.500m).",
+        "Facilitează un comerț intens cu provincia Free State (Africa de Sud).",
+        "Este situat între marile orașe Leribe (Hlotse) și Teyateyaneng.",
+        "Un important punct vamal pentru bunuri de consum."
+      ]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "descriptionAdvanced": "Tsakholo este un oraș istoric de importanță strategică în districtul vestic Mafeteng, remarcându-se prin prezența lacului Tsakholo, unul dintre puținele corpuri de apă naturale semnificative din zonă. Această rezervație de apă susține o bogată faună aviară și asigură irigarea terenurilor adiacente, chiar și în lunile uscate de iarnă. Așezarea a fost inițial un avanpost în timpul războaielor de teritoriu din secolul al XIX-lea, dar astăzi este un centru pașnic, orientat spre agricultură și pescuit la scară mică. Comunitatea se remarcă prin arhitectura caselor tradiționale, rotunde cu acoperiș de stuf, numite 'rondavels', care punctează dealurile din jur. Peisajele acvatice fac din acest loc un mic oază într-un peisaj altfel uscat și stâncos. Geografie K6 — surse de apă și așezări rurale.",
+      "factsAdvanced": [
+        "Orașul este situat lângă lacul Tsakholo.",
+        "A reprezentat un punct strategic în războaiele din anii 1880.",
+        "Unul dintre puținele locuri cu potențial de pescuit de apă dulce.",
+        "Situat în districtul Mafeteng la aproximativ 1.550 metri.",
+        "Populația folosește apa lacului pentru irigații minore.",
+        "Atrage specii migratoare de păsări de apă.",
+        "Locuitorii încă construiesc 'rondavels' tradiționale din piatră."
+      ]
+    },
+    {
+      "id": "makhonoane-cities-v2",
+      "descriptionAdvanced": "Makhonoane este un sat amplasat în districtul nordic Butha-Buthe, care poartă încă un aer de mister și izolare, fiind înconjurat de văi adânci și platouri abrupte. Așezarea s-a format ca un refugiu temporar pentru triburi în secolul al XIX-lea, dezvoltându-se lent într-o comunitate pastorală rezilientă. Relieful stâncos limitează agricultura la terase mici săpate manual, locuitorii preferând creșterea ovinelor și caprinelor adaptate la frig. Trecătoarea montană care leagă Makhonoane de restul țării devine adesea impracticabilă iarna din cauza zăpezii dense. Locul este perfect pentru a înțelege spiritul neîmblânzit al poporului Basotho și relația lor intimă cu munții formidabili care îi înconjoară. Geografie K7 — adaptarea umană la un relief ostil.",
+      "factsAdvanced": [
+        "Situat în districtul montan nordic Butha-Buthe.",
+        "Altitudinea zonei depășește adesea 1.800 de metri.",
+        "Se bazează aproape exclusiv pe economia pastorală.",
+        "Așezarea este înconjurată de ravene adânci (dongas).",
+        "Vremea extremă de iarnă poate izola satul săptămâni întregi.",
+        "Terenul agricol este terasat manual de locuitori.",
+        "Numele localității este legat de triburile timpurii stabilite aici."
+      ]
+    },
+    {
+      "id": "motiti-cities-v2",
+      "descriptionAdvanced": "Motiti este o așezare liniștită, situată în zonele deluroase ale interiorului Lesotho-ului, departe de arterele majore de transport. Comunitatea este caracterizată de un spirit profund agricol, unde ritmurile naturii, precum plantarea și recoltarea, dictează activitățile zilnice. Spre deosebire de orașele de graniță, Motiti păstrează un nivel ridicat de autosuficiență, bazându-se pe cunoștințe indigene pentru managementul solurilor sărace și stâncoase. Tinerii din sat migrează adesea pentru a lucra în minele sud-africane, trimițând bani familiilor, o realitate economică comună multor așezări rurale din Lesotho. Peisajul virgin de aici, cu canioane ascunse și râuri limpezi, oferă o imagine autentică a ruralității de înaltă altitudine. Geografie K6 — modele de migrație și agricultură de subzistență.",
+      "factsAdvanced": [
+        "Este o comunitate profund dependentă de agricultura de subzistență.",
+        "Economia locală este susținută de remitențele diasporei.",
+        "Se află într-o zonă izolată, fără infrastructură rutieră majoră.",
+        "Tinerii tind să lucreze în industria minieră externă.",
+        "Culturile de bază includ porumbul alb și fasolea.",
+        "Altitudinea creează un sezon de vegetație scurt și răcoros.",
+        "Transportul pe animale de povară este esențial."
+      ]
+    },
+    {
+      "id": "phamong-cities-v2",
+      "descriptionAdvanced": "Phamong, situat în zona sud-estică, este recunoscut ca sediul unuia dintre cei mai influenți șefi tradiționali ai regatului. Localitatea emană o aură de autoritate istorică, casele de adunare din sat fiind centre vitale pentru justiția tribală și soluționarea disputelor, conform dreptului cutumiar Basotho. Valea râului Senqu care ocolește Phamong oferă locuitorilor surse neprețuite de apă pentru animale în timpul iernilor secetoase. Arhitectura din zonă prezintă un mix interesant de cabane din piatră cu acoperiș plat și construcții rotunde tradiționale. Vizitatorii care se aventurează aici o fac pentru a explora meandrele spectaculoase ale râului și arta rupestră rară lăsată de locuitorii antici ai pământului. Istorie K8 — guvernare tradițională și drept cutumiar.",
+      "factsAdvanced": [
+        "Este reședința unui important șef principal (Principal Chief).",
+        "Aici se aplică activ dreptul cutumiar Basotho.",
+        "Situat în apropierea albiei masive a râului Senqu.",
+        "Se află în districtul sud-estic Mohale's Hoek.",
+        "Arhitectura combină piatra cioplită cu acoperișurile plate moderne.",
+        "Populația este formată preponderent din păstori de mohair.",
+        "Regiunea găzduiește exemple excelente de artă rupestră San."
+      ]
+    },
+    {
+      "id": "mount-moorosi-cities-v2",
+      "descriptionAdvanced": "Mount Moorosi este un oraș istoric uluitor, adăpostit la poalele unui munte stâncos impozant în sudul îndepărtat. Așezarea are o rezonanță legendară: a fost ultima fortăreață a șefului Moorosi din tribul Baphuthi, care a purtat o rezistență îndârjită împotriva armatei coloniale din regiunea Cape în anul 1879. Astăzi, ruinele fortificațiilor sunt locuri de pelerinaj istoric, amintind de determinarea poporului african împotriva dominației externe. Viața contemporană se desfășoară lent de-a lungul defileului râului Orange (Senqu), unde pescuitul și agricultura rudimentară asigură hrana. Terenul fragmentat și peisajele vulcanice înconjurătoare fac din oraș o destinație populară pentru turiștii în căutare de trasee dificile, dar extrem de pitorești. Istorie K8 — rezistența indigenă împotriva colonialismului.",
+      "factsAdvanced": [
+        "Orașul este numit după faimosul șef rebel Moorosi.",
+        "Locul asediului și bătăliei istorice din anul 1879.",
+        "Muntele are pante aproape verticale pe trei laturi.",
+        "Așezat în apropierea defileului râului Senqu (Orange).",
+        "Situat în districtul sudic Quthing.",
+        "Se află la o altitudine de aproximativ 1.500 de metri.",
+        "Economia se bazează puternic pe turismul istoric."
+      ]
+    },
+    {
+      "id": "mphaki-cities-v2",
+      "descriptionAdvanced": "Mphaki este o mică localitate comercială montană, esențială pentru comunitățile izolate din districtul Quthing, deoarece funcționează ca un nod de schimb și reaprovizionare. Călătorii care străbat peisajele vaste de la Quthing la Qacha's Nek opresc frecvent aici, bucurându-se de piețele unde se vând pături tradiționale Basotho, lână și animale. Clima în Mphaki poate fi de neiertat, cu vânturi puternice care mătură platoul și zăpezi abundente care blochează adesea singurul drum asfaltat în timpul lunilor de iarnă. Orașul susține o clinică regională și școli care deservesc zeci de sate mai mici din împrejurimi, fiind un bastion al vieții moderne în mijlocul pustietății montane. Geografie K7 — noduri comerciale și așezări izolate.",
+      "factsAdvanced": [
+        "Funcționează ca un punct de oprire cheie între sud și est.",
+        "Aici se organizează târguri importante pentru vânzarea lânii.",
+        "Altitudinea depășește frecvent pragul de 2.000 de metri.",
+        "Este expus unor condiții meteorologice extreme și vânturilor puternice.",
+        "Dispune de infrastructură medicală vitală pentru regiune.",
+        "Tranziția între câmpiile sudice și munții Maloti înalți.",
+        "Drumul ce traversează orașul a fost asfaltat abia recent."
+      ]
+    },
+    {
+      "id": "sekake-cities-v2",
+      "descriptionAdvanced": "Sekake este un sat liniștit așezat pe pantele ondulate care coboară spre marea vale a râului Senqu, dominat de orizonturi muntoase neîntrerupte. Viața în Sekake este o fereastră către istoria neschimbată a Lesotho-ului, unde păstorii încă poartă păturile din lână cu modele geometrice complexe și utilizează bastoanele tradiționale de vânătoare și păstorit (lebetlela). Datorită solurilor bogate în minerale transportate de râuri, regiunea are mici enclave de teren foarte fertil, cultivate intensiv în scurta perioadă de vară. Această așezare se bucură de un ritm de viață comunitar profund, unde povestitul în jurul focului și respectarea vârstnicilor sunt la fel de importante precum munca fizică zilnică. Geografie K6 — ecologie riverană și tradiții agrare.",
+      "factsAdvanced": [
+        "Este situat în apropierea marelui defileu al râului Senqu.",
+        "Populația locală este fidelă tradițiilor rurale și codului vestimentar.",
+        "Altitudinea este de circa 1.700 de metri, fiind predispusă la secetă.",
+        "Agricultura se face în parcele mici de-a lungul albiilor fluviale.",
+        "Un important punct pentru creșterea cailor de rasă Basotho.",
+        "Satul are acces dificil la infrastructura modernă de electricitate.",
+        "Tinerii păstori trec prin tabere tradiționale de inițiere în munți."
+      ]
+    }
+  ]
+}

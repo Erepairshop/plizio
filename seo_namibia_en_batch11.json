@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "descriptionAdvanced": "Lake Guinas is the slightly larger, yet lesser-known sister sinkhole to Lake Otjikoto, located in the Oshikoto Region. Like Otjikoto, it was formed by the collapse of a massive underground dolomite cavern, exposing a very deep, permanent subterranean water table. Guinas is incredibly deep—surpassing 130 meters—and its sheer, vertical rock walls make access to the water difficult. The lake is highly notable for being the original, endemic habitat of the incredibly rare, critically endangered Otjikoto tilapia fish, which has thrived in isolation within this deep, dark sinkhole for millennia. Earth Science K6 — endemic species and karst lakes.",
+      "factsAdvanced": [
+        "A massive, deep sinkhole located in the Oshikoto Region.",
+        "Formed by the structural collapse of a subterranean dolomite cave.",
+        "Measured depths exceed 130 meters, with no definitive bottom found.",
+        "Original, endemic home to the critically endangered Otjikoto tilapia.",
+        "Features completely sheer, vertical rock walls dropping to the water.",
+        "Slightly larger in surface area than its famous sister, Lake Otjikoto."
+      ]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "descriptionAdvanced": "Nylon Pool is a remarkable, deeply hidden geothermal spring situated within the harsh, arid environment of the remote Skeleton Coast. It gained notoriety because it consists of naturally heated water that surfaces amidst the cold, foggy coastal desert, creating a bizarre micro-oasis. Due to its extreme isolation within a highly restricted conservation zone, very few people have ever visited the pool. It serves as a stark reminder of the intense, active geothermal and tectonic forces operating deep beneath the ancient Namibian desert floor. Earth Science K6 — geothermal activity.",
+      "factsAdvanced": [
+        "A highly remote geothermal spring located on the Skeleton Coast.",
+        "Features naturally heated water surfacing in a cold desert environment.",
+        "Creates an incredibly small, localized micro-oasis in the sand.",
+        "Situated within a strictly protected and restricted conservation zone.",
+        "Highlights the active geothermal forces beneath the Namib Desert.",
+        "Very rarely visited due to extreme isolation and restricted access."
+      ]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "descriptionAdvanced": "The Caprivi floodplains form a massive, dynamic wetland ecosystem in the Zambezi Region, functioning much like a mini Okavango Delta. Driven by the seasonal overflow of the Zambezi, Kwando, and Linyanti rivers, these flat plains transform dramatically from dry grasslands in the winter to vast, shallow aquatic habitats during the late summer floods. This extreme seasonal variation forces local communities to adapt constantly, often moving their cattle to higher ground. The floodplains are a critical breeding ground for numerous fish species and support immense herds of water-dependent wildlife. Sachkunde K3 — seasonal wetlands.",
+      "factsAdvanced": [
+        "A massive, dynamic wetland ecosystem located in the Zambezi Region.",
+        "Driven by seasonal floods from the Zambezi, Kwando, and Linyanti rivers.",
+        "Transforms annually from dry grasslands to shallow aquatic habitats.",
+        "Requires local communities to seasonally migrate with their cattle.",
+        "A critical breeding ground for numerous freshwater fish species.",
+        "Supports immense herds of elephants, hippos, and red lechwe."
+      ]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "descriptionAdvanced": "The Chobe River forms the eastern border between Namibia's Zambezi Region and Botswana. The river is globally famous for its incredibly rich biodiversity, supported by its permanent, deep waters and extensive associated floodplains. During the dry season, the Chobe acts as a massive magnet for wildlife, hosting some of the largest concentrations of African elephants on the continent, which cross freely between the two countries. The river is also home to a very high density of hippopotamuses, large Nile crocodiles, and highly sought-after tiger fish. Sachkunde K3 — river borders and megafauna.",
+      "factsAdvanced": [
+        "Forms the eastern natural border between Namibia and Botswana.",
+        "Renowned globally for its extremely rich, concentrated biodiversity.",
+        "Acts as a massive magnet for wildlife during the severe dry season.",
+        "Hosts some of the largest herds of African elephants on the continent.",
+        "Home to high densities of hippos and large Nile crocodiles.",
+        "A premier destination for specialized river-based wildlife safaris."
+      ]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "descriptionAdvanced": "The Kwando River is a vital permanent river flowing from Angola, through the Caprivi Strip (Zambezi Region), and eventually transforming into the Linyanti swamp system. Unlike the wide, open Zambezi, the Kwando is characterized by a complex, braided channel system cutting through dense papyrus reeds and thick riverine forests. The river forms the backbone of three major national parks—Bwabwata, Mudumu, and Nkasa Rupara. Because it is unfenced, the Kwando corridor is essential for the transnational migration of massive elephant herds and predators between Angola, Namibia, and Botswana. Geography K7 — transnational wildlife corridors.",
+      "factsAdvanced": [
+        "Flows from Angola directly through Namibia's Zambezi Region.",
+        "Characterized by complex braided channels and dense papyrus swamps.",
+        "Eventually transforms into the sprawling Linyanti swamp system.",
+        "Forms the ecological backbone of Bwabwata and Mudumu National Parks.",
+        "A critical, unfenced transnational migration corridor for elephants.",
+        "Home to highly specialized aquatic antelopes like the sitatunga."
+      ]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "descriptionAdvanced": "The Zambezi River is the fourth-longest river in Africa and forms the northeastern border of Namibia near the town of Katima Mulilo. This massive, powerful river flows year-round, originating in Zambia and eventually flowing over the Victoria Falls toward the Indian Ocean. In Namibia, the Zambezi supports a dense, tropical riverine ecosystem that stands in absolute contrast to the country's arid interior. The river is the lifeblood of the local Masubia people, providing transport, fertile floodplain soils for agriculture, and a robust inland fishing industry. Geography K7 — major African rivers.",
+      "factsAdvanced": [
+        "The fourth-longest river in Africa, forming Namibia's northeast border.",
+        "A massive, permanently flowing river supporting a lush tropical ecosystem.",
+        "Passes near the regional capital of Katima Mulilo.",
+        "The absolute lifeblood for the local Masubia people's agriculture.",
+        "Supports a robust, highly critical inland freshwater fishing industry.",
+        "Eventually flows towards the famous Victoria Falls to the east."
+      ]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "descriptionAdvanced": "The Erongo Mountains are a spectacular, roughly circular massif located in the Erongo Region near Omaruru. Geologically, they are the eroded remnants of a massive, ancient volcano that collapsed in on itself over 130 million years ago. Today, the mountains feature towering granite boulders, deep ravines, and hidden caves. The area is highly significant for both its endemic wildlife, including the black mongoose and Hartlaub's spurfowl, and its incredibly rich concentration of ancient San rock art, preserving the history of early hunter-gatherers in this rocky sanctuary. Earth Science K6 — ancient calderas.",
+      "factsAdvanced": [
+        "A spectacular, circular rocky massif located in the Erongo Region.",
+        "Formed from the eroded remnants of a 130-million-year-old volcano.",
+        "Features towering granite boulders and deep, hidden ravines.",
+        "Home to highly endemic wildlife, including the rare black mongoose.",
+        "Contains an incredibly rich concentration of ancient San rock art.",
+        "A major center for the mining of semi-precious tourmaline and aquamarine."
+      ]
+    },
+    {
+      "id": "namib-desert-relief-v2",
+      "descriptionAdvanced": "The Namib Desert relief is characterized by an immense, seemingly endless sea of shifting sand dunes that run parallel to the harsh Atlantic coastline. This hyper-arid coastal desert stretches for over 2,000 kilometers and is defined by extreme geographical extremes, from the towering 300-meter-high red dunes of Sossusvlei in the south to the flat, barren gravel plains of the Skeleton Coast in the north. The entire relief is heavily shaped by the persistent, powerful south-westerly winds that constantly reshape the dunes, creating a highly dynamic, ever-changing landscape. Earth Science K6 — aeolian landforms.",
+      "factsAdvanced": [
+        "A hyper-arid coastal desert stretching over 2,000 kilometers.",
+        "Features a massive 'sand sea' of towering, shifting red dunes.",
+        "Dunes in the Sossusvlei area can exceed 300 meters in height.",
+        "The northern section is dominated by flat, desolate gravel plains.",
+        "The entire relief is constantly reshaped by powerful south-westerly winds.",
+        "Considered the oldest continuously arid desert relief on Earth."
+      ]
+    },
+    {
+      "id": "kalahari-desert-relief-v2",
+      "descriptionAdvanced": "The relief of the Kalahari Desert in eastern Namibia is defined by vast, flat expanses of deep red sand, structured by ancient, parallel, stabilized sand dunes. Unlike the sharp, shifting dunes of the Namib, the Kalahari dunes are generally rounded and covered in sparse vegetation, including tough grasses and deep-rooted acacia trees. The landscape is also punctuated by numerous shallow, hard-baked salt and clay pans that hold temporary water after localized thunderstorms. This semi-arid savanna relief stretches massively into neighboring Botswana and South Africa. Earth Science K6 — stabilized dunes.",
+      "factsAdvanced": [
+        "Defined by vast expanses of deep red sand in eastern Namibia.",
+        "Features ancient, parallel sand dunes stabilized by vegetation.",
+        "Dunes are generally rounded rather than sharp and shifting.",
+        "The flat relief is punctuated by numerous shallow clay and salt pans.",
+        "Technically a semi-arid sandy savanna, not a true desert.",
+        "Stretches massively eastward into neighboring Botswana."
+      ]
+    },
+    {
+      "id": "brandberg-mountain-relief-v2",
+      "descriptionAdvanced": "The Brandberg Mountain relief is the most imposing geographical feature in Namibia, a massive, roughly circular granite intrusion dominating the flat Erongo plains. With a diameter of roughly 25 kilometers, it rises abruptly to its highest point, Königstein, at 2,573 meters above sea level. The relief is extremely rugged, deeply incised by steep, treacherous ravines and gorges created by millions of years of water erosion. This sheer verticality creates a unique, isolated high-altitude microclimate that supports specialized plant and animal life completely separated from the desert below. Earth Science K6 — granitic intrusions.",
+      "factsAdvanced": [
+        "A massive, roughly circular granite intrusion in the Erongo plains.",
+        "Rises abruptly to Namibia's highest point at 2,573 meters (Königstein).",
+        "The massif has an approximate diameter of 25 kilometers.",
+        "Deeply incised by steep, highly treacherous rocky ravines.",
+        "The sheer relief creates a unique, isolated high-altitude microclimate.",
+        "Formed roughly 130 million years ago during continental break-up."
+      ]
+    },
+    {
+      "id": "spitzkoppe-relief-v2",
+      "descriptionAdvanced": "The Spitzkoppe relief consists of a dramatic group of bald granite peaks (inselbergs) that rise sharply out of the flat, dusty Namib plains. The main peak, known as the 'Matterhorn of Namibia', reaches an altitude of roughly 1,728 meters above sea level, standing 700 meters above the desert floor. The relief is famous for its smooth, sheer rock faces and bizarrely eroded formations, including giant natural arches and precarious balancing rocks, resulting from millions of years of extreme temperature fluctuations and wind erosion. Earth Science K6 — inselbergs.",
+      "factsAdvanced": [
+        "A dramatic cluster of bald granite inselbergs rising from flat plains.",
+        "The main peak stands roughly 700 meters above the desert floor.",
+        "Often referred to visually as the 'Matterhorn of Namibia'.",
+        "Characterized by smooth, sheer rock faces and deep, eroded caves.",
+        "Features famous, highly photographed natural stone arches.",
+        "Shaped entirely by millions of years of wind and thermal erosion."
+      ]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "descriptionAdvanced": "The relief of the Erongo Mountains is highly distinct, forming a massive, roughly circular horseshoe shape that is clearly visible from satellite imagery. This structure is the heavily eroded remnant of an ancient caldera, a massive volcano that collapsed inward approximately 130 million years ago. Today, the relief is characterized by a ring of towering, jumbled granite boulders and steep, rocky peaks surrounding a flat, elevated inner basin. This natural fortress-like topography provides an isolated haven for diverse wildlife and ancient San rock art. Earth Science K6 — ancient calderas.",
+      "factsAdvanced": [
+        "Forms a distinct, massive circular horseshoe shape visible from space.",
+        "The eroded remnant of a massive 130-million-year-old collapsed volcano.",
+        "Characterized by a ring of towering granite boulders and steep peaks.",
+        "Surrounds a relatively flat, highly elevated internal basin.",
+        "The fortress-like relief provides a secluded haven for endemic wildlife.",
+        "Extensively features deep ravines and ancient caves with rock art."
+      ]
+    },
+    {
+      "id": "auas-mountains-relief-v2",
+      "descriptionAdvanced": "The Auas Mountains form a prominent, rugged ridge situated immediately south and east of the capital city, Windhoek. The relief is characterized by steep, folded quartzite and schist peaks, with the highest point, the Moltkeblick, reaching 2,479 meters above sea level—making it the second-highest peak in Namibia. This mountainous relief forms a critical watershed, forcing rain-bearing clouds to rise and deposit moisture, which then feeds the primary dams supplying water to the heavily populated central Khomas region. Geography K7 — watersheds and topography.",
+      "factsAdvanced": [
+        "A prominent, rugged mountain ridge located south of Windhoek.",
+        "Features the Moltkeblick, Namibia's second-highest peak at 2,479 meters.",
+        "Composed primarily of steep, heavily folded quartzite and schist.",
+        "Forms a critical geographical watershed for the central plateau.",
+        "Forces rain clouds to rise, increasing local precipitation.",
+        "Feeds the primary dams supplying the capital city with fresh water."
+      ]
+    },
+    {
+      "id": "khomas-hochland-relief-v2",
+      "descriptionAdvanced": "The Khomas Hochland is a vast, rolling highland plateau that dominates central Namibia, acting as the geographical foundation for the capital city, Windhoek. The relief consists of deeply undulating hills, heavily dissected by numerous steep, winding river valleys carved by ephemeral rivers over millions of years. With an average elevation ranging between 1,700 and 2,000 meters above sea level, the highland creates a temperate, highly habitable microclimate that contrasts sharply with the sweltering heat of the coastal Namib Desert and the eastern Kalahari. Geography K7 — highland plateaus.",
+      "factsAdvanced": [
+        "A vast, rolling highland plateau dominating central Namibia.",
+        "Provides the elevated geographical foundation for Windhoek.",
+        "Characterized by deeply undulating hills and steep river valleys.",
+        "Average elevation ranges between 1,700 and 2,000 meters.",
+        "Creates a temperate microclimate avoiding extreme national heat.",
+        "Acts as a major watershed separating western and eastern river systems."
+      ]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "descriptionAdvanced": "The Waterberg Plateau is a spectacular geological relief feature in the Otjozondjupa Region, forming a massive, flat-topped table mountain. Rising dramatically with sheer, vertical red sandstone cliffs, the plateau stands roughly 200 meters above the surrounding flat savanna. The top of the plateau is remarkably flat and expansive, spanning 50 kilometers in length. Because the sheer vertical drop-offs make the top incredibly difficult to access from the plains below, the relief naturally functions as an isolated, highly secure fortress for endangered wildlife conservation. Earth Science K6 — table mountains.",
+      "factsAdvanced": [
+        "A massive, flat-topped table mountain in the Otjozondjupa Region.",
+        "Defined by sheer, vertical red sandstone cliffs rising 200 meters.",
+        "The remarkably flat summit spans roughly 50 kilometers in length.",
+        "The sheer cliffs make the summit incredibly difficult to access.",
+        "Functions as a naturally secure fortress for endangered species.",
+        "Porous sandstone relief creates permanent springs at its base."
+      ]
+    },
+    {
+      "id": "fish-river-canyon-relief-v2",
+      "descriptionAdvanced": "The relief of the Fish River Canyon is one of the most awe-inspiring geological features on the African continent. Located in the //Kharas Region, the canyon is a massive, meandering scar cut deep into the flat, arid plateau. The relief is characterized by incredibly steep, jagged rock walls that drop vertically up to 550 meters to the riverbed below. The complex topography features an 'upper canyon' formed by tectonic plate movement, and a deeper, narrower 'lower canyon' subsequently carved out by millions of years of intense water erosion. Earth Science K6 — canyon topography.",
+      "factsAdvanced": [
+        "A massive, meandering scar cut deeply into the southern plateau.",
+        "Features jagged rock walls dropping vertically up to 550 meters.",
+        "The upper canyon was initially formed by tectonic plate collapse.",
+        "The narrower lower canyon was carved by severe water erosion.",
+        "Creates an extreme, trapped microclimate at the canyon base.",
+        "Considered the second-largest canyon relief structure globally."
+      ]
+    },
+    {
+      "id": "aus-mountains-relief-v2",
+      "descriptionAdvanced": "The Aus Mountains form a harsh, incredibly rugged relief structure in the //Kharas Region, acting as a stark geographical transition zone between the elevated interior plateau and the low-lying coastal Namib Desert. The relief is highly fractured, consisting of steep, barren rocky ridges and deep, twisting ravines that make the terrain extremely difficult to navigate. This dramatic drop in elevation strongly influences local weather patterns, regularly funneling freezing, high-velocity winds through the mountain passes and down into the desert plains towards Lüderitz. Geography K7 — escarpments and wind tunnels.",
+      "factsAdvanced": [
+        "A harsh, highly rugged mountain range in the //Kharas Region.",
+        "Acts as a transition zone between the interior plateau and the Namib.",
+        "Characterized by highly fractured, barren rocky ridges and ravines.",
+        "The steep relief regularly funnels high-velocity, freezing winds.",
+        "Creates a highly challenging environment for regional transportation.",
+        "Provides the rugged backdrop for the famous feral Namib horses."
+      ]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "descriptionAdvanced": "The Tsau //Khaeb National Park (formerly the Sperrgebiet) features a highly diverse and extreme coastal relief. The topography transitions rapidly from the churning, violent Atlantic surf zone to a massive expanse of shifting barchan sand dunes. Inland, the sandy relief is violently interrupted by sudden, towering inselbergs (isolated rocky mountains) such as the spectacular Dikwillem and the massive Aurus Mountain. This extremely rugged, isolated relief has remained almost entirely untouched by human development due to over a century of strict diamond mining restrictions. Earth Science K6 — coastal topography.",
+      "factsAdvanced": [
+        "Features a highly diverse, extreme coastal and desert topography.",
+        "Transitions from violent Atlantic surf to massive shifting sand dunes.",
+        "Punctuated inland by sudden, towering rocky inselbergs.",
+        "Contains prominent, isolated peaks like Dikwillem and Aurus Mountain.",
+        "The relief remains largely pristine due to a century of mining restrictions.",
+        "Subjected to extreme, relentless coastal wind erosion."
+      ]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "descriptionAdvanced": "The Huns Mountains form an incredibly desolate, deeply incised mountain range in the deep south of Namibia, bordering the massive Fish River Canyon. The relief is defined by sharp, shattered quartzite and dolomite ridges that have been brutally weathered by extreme heat and lack of water over millions of years. Deep, dry ravines cut through the mountains, making the terrain almost entirely impassable to vehicles. This extreme, inaccessible relief forms the core of the Ai-Ais/Richtersveld Transfrontier Park, providing a pristine, highly protected wilderness area. Geography K7 — arid mountain ranges.",
+      "factsAdvanced": [
+        "A deeply desolate, incised mountain range in the deep south.",
+        "Located directly adjacent to the massive Fish River Canyon.",
+        "Defined by sharp, heavily weathered quartzite and dolomite ridges.",
+        "Deep, dry ravines make the terrain largely impassable to vehicles.",
+        "Forms the rugged core of the Ai-Ais/Richtersveld Transfrontier Park.",
+        "Experiences extreme summer heat and highly erratic rainfall."
+      ]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "descriptionAdvanced": "The Naukluft Mountains present a massive, deeply folded and faulted dolomite and limestone massif rising sharply above the Namib Desert plains. The relief is incredibly complex, characterized by steep, sheer cliffs, deep, hidden gorges, and high plateau surfaces. Because the limestone is highly porous, the mountains absorb rare rainfall, which then surfaces in the deep gorges as crystal-clear permanent streams and cascading tufa waterfalls. This rugged, life-sustaining topography is the primary reason the mountains were incorporated into the massive Namib-Naukluft National Park. Earth Science K6 — folded massifs and hydrology.",
+      "factsAdvanced": [
+        "A massive, deeply folded dolomite and limestone mountain massif.",
+        "Rises sharply and dramatically above the flat Namib Desert plains.",
+        "Characterized by sheer cliffs, deep gorges, and high plateaus.",
+        "Porous limestone relief captures water, creating permanent streams.",
+        "Features stunning, hidden tufa waterfalls in deep, shaded ravines.",
+        "Crucial stronghold for the endemic Hartmann's mountain zebra."
+      ]
+    }
+  ]
+}

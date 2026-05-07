@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cascades-volcanic-relief-v2",
+      "descriptionAdvanced": "The Cascade Volcanic Arc is a dramatic chain of stratovolcanoes stretching through the Pacific Northwest, formed by the subduction of the Juan de Fuca Plate. These mountains are defined by their episodic, explosive volcanic history, characterized by monumental eruptions like that of Mount St. Helens in 1980, which fundamentally altered the regional topography and ecological landscape. As a key site for volcanic hazard research, the Cascades allow scientists to study the long-term impact of stratovolcano eruptions on alpine ecosystems, glacial systems, and regional water supply management. Today, the chain remains a central laboratory for volcano monitoring, serving as a powerful reminder of the active, volatile geological forces that continue to shape the Pacific Northwest skyline. Geografie K8 — Subduction zone stratovolcanoes and volcanic hazard dynamics.",
+      "factsAdvanced": [
+        "A dramatic chain of active stratovolcanoes formed by oceanic plate subduction.",
+        "Episodic volcanic eruptions have fundamentally reshaped regional topography.",
+        "Key site for monitoring volcanic hazard risks to regional populations.",
+        "Studies on the impact of explosive eruptions on alpine and glacial ecosystems.",
+        "Glacial systems serve as a primary high-altitude water tower for the region.",
+        "Represents the enduring geological volatility of the Pacific Ring of Fire."
+      ]
+    },
+    {
+      "id": "blueridge-mountains-relief-v2",
+      "descriptionAdvanced": "The Blue Ridge Mountains, a major physiographic province of the Appalachian chain, are known for their distinctively bluish color when seen from a distance—an optical effect caused by the high density of volatile organic compounds (VOCs) released by the dense, temperate forest cover. Stretching from Georgia to Pennsylvania, the Blue Ridge contains some of the highest peaks in the eastern United States and serves as a major ecological corridor for eastern temperate biodiversity. The range has been heavily weathered over hundreds of millions of years, leaving behind a stable, lush, and ancient mountain landscape that acts as a primary center for studying temperate forest ecosystem stability and long-term climate adaptation. Today, the Blue Ridge stands as an iconic landmark of American Appalachian heritage, bridging critical ecological biomes. Geografie K7 — Temperate deciduous forest ecology and atmospheric optical effects.",
+      "factsAdvanced": [
+        "Major physiographic province of the Appalachian chain stretching from GA to PA.",
+        "Distinctive blue color is caused by atmospheric VOCs released by dense forests.",
+        "Contains many of the highest mountain peaks in the eastern United States.",
+        "Acts as a critical, stable ecological corridor for eastern temperate biodiversity.",
+        "Provides a world-class site for studying long-term climate adaptation in forests.",
+        "Represents an iconic, ancient landscape anchor for Appalachian heritage."
+      ]
+    },
+    {
+      "id": "white-mountains-usa-relief-v2",
+      "descriptionAdvanced": "The White Mountains in New Hampshire are the most rugged, high-elevation mountain range in New England, defined by their granite summits and dramatic, post-glacial landscape. The range is a prominent feature of the Appalachian chain, uniquely characterized by its high-altitude alpine zones—some of the few true alpine environments in the northeastern United States—which support highly specialized, climate-sensitive plant and animal species. Due to the area’s extreme weather, including some of the highest recorded wind speeds on the planet at Mount Washington, the White Mountains serve as a critical, exposed laboratory for studying alpine survival strategies, high-elevation climate change, and the fragility of isolated, high-latitude-like ecosystems within a temperate region. Geografie K7 — Alpine zone ecology and high-elevation climate monitoring.",
+      "factsAdvanced": [
+        "Most rugged and high-elevation mountain range in the northeastern United States.",
+        "Characterized by dramatic, post-glacial landscapes and expansive granite summits.",
+        "Supports rare, fragile alpine tundra ecosystems found nowhere else in the Northeast.",
+        "Mount Washington experiences some of the highest recorded wind speeds on Earth.",
+        "Critical laboratory for monitoring climate-driven shifts in high-altitude biodiversity.",
+        "Essential high-elevation research site for alpine species survival strategies."
+      ]
+    }
+  ]
+}

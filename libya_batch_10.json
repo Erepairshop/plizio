@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ghat-mountains-nature-v2",
+    "name": "Ghat Mountains",
+    "desc": "Mountains on the Algerian border."
+  },
+  {
+    "id": "jebel-akdar-highlands-relief-v2",
+    "name": "Jebel Akhdar Highlands",
+    "desc": "A mountain massif in northeastern Libya."
+  },
+  {
+    "id": "gargaf-range-relief-v2",
+    "name": "Gargaf Range",
+    "desc": "A remote mountain range in the desert."
+  },
+  {
+    "id": "jebel-soda-relief-v2",
+    "name": "Jebel Soda Mountains",
+    "desc": "A volcanic mountain massif."
+  },
+  {
+    "id": "tibesti-foothills-relief-v2",
+    "name": "Tibesti Foothills",
+    "desc": "Northern foothills of the Tibesti Mountains."
+  },
+  {
+    "id": "jebel-uwaynat-relief-v2",
+    "name": "Jebel Uwaynat",
+    "desc": "An isolated mountain massif at the border."
+  },
+  {
+    "id": "jebel-tarhuna-relief-v2",
+    "name": "Jebel Tarhuna",
+    "desc": "A mountain range south of Tripoli."
+  },
+  {
+    "id": "sirte-basin-relief-v2",
+    "name": "Sirte Basin",
+    "desc": "A large geological sedimentary basin."
+  },
+  {
+    "id": "al-haruj-relief-v2",
+    "name": "Al-Haruj",
+    "desc": "A vast volcanic plateau."
+  },
+  {
+    "id": "al-hamada-al-hamra-relief-v2",
+    "name": "Al-Hamada al-Hamra",
+    "desc": "A stone desert (Hamada) in western Libya."
+  },
+  {
+    "id": "jebel-nafusa-relief-v2",
+    "name": "Jebel Nafusa",
+    "desc": "A rugged mountain plateau in Tripolitania."
+  },
+  {
+    "id": "jebel-aswad-relief-v2",
+    "name": "Jebel Aswad",
+    "desc": "The "
+  },
+  {
+    "id": "wadi-al-kuf-relief-v2",
+    "name": "Wadi al-Kuf",
+    "desc": "A significant wadi (valley) in Cyrenaica."
+  },
+  {
+    "id": "wadi-al-ajal-relief-v2",
+    "name": "Wadi al-Ajal",
+    "desc": "A long valley in Fezzan."
+  },
+  {
+    "id": "wadi-zamzam-relief-v2",
+    "name": "Wadi Zamzam",
+    "desc": "A large dry valley."
+  },
+  {
+    "id": "wadi-mathendous-relief-v2",
+    "name": "Wadi Mathendous",
+    "desc": "Famous for its rock engravings."
+  },
+  {
+    "id": "wadi-al-farigh-relief-v2",
+    "name": "Wadi al-Farigh",
+    "desc": "A dry valley basin."
+  },
+  {
+    "id": "sarir-tanezrouft-relief-v2",
+    "name": "Sarir Tanezrouft",
+    "desc": "An extensive gravel desert area."
+  },
+  {
+    "id": "gaberoun-lake-relief-v2",
+    "name": "Gaberoun Lake",
+    "desc": "A salt lake in a sand desert."
+  },
+  {
+    "id": "mandara-lakes-relief-v2",
+    "name": "Mandara Lakes",
+    "desc": "Several salt lakes in the Ubari Desert."
+  },
+  {
+    "id": "ubari-sand-sea-relief-v2",
+    "name": "Ubari Sand Sea",
+    "desc": "A huge Erg desert."
+  },
+  {
+    "id": "kufra-basin-relief-v2",
+    "name": "Al-Kufra Basin",
+    "desc": "Large basin in the southeast."
+  },
+  {
+    "id": "gar-al-marah-relief-v2",
+    "name": "Gar al-Marah",
+    "desc": "A distinctive elevation."
+  }
+]

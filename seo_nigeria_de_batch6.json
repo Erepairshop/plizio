@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lekki-ikoyi-link-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Lekki-Ikoyi Link Bridge ist das unangefochtene Statussymbol des modernen Lagos. Eröffnet im Jahr 2013, war sie die allererste Schrägseilbrücke Nigerias und verbindet die beiden exklusivsten und teuersten Stadtteile von Lagos: Lekki und Ikoyi. Mit ihrem eleganten, fast 90 Meter hohen Pylon, der an die Saiten einer riesigen Harfe erinnert, ist sie nicht nur ein technisches Meisterwerk, sondern auch die beliebteste Jogging-Strecke für die High Society, Politiker und Prominente der Stadt. Wer in Lagos etwas auf sich hält, lässt sich bei Sonnenaufgang auf dieser mautpflichtigen Brücke fotografieren. Wirtschaft K7 — Moderne städtische Infrastruktur und Mautsysteme.",
+      "factsAdvanced": [
+        "Die erste Schrägseilbrücke (Cable-stayed bridge) in ganz Nigeria.",
+        "Verbindet die extrem wohlhabenden Bezirke Lekki Phase 1 und Ikoyi in Lagos.",
+        "Wurde 2013 offiziell vom damaligen Gouverneur Babatunde Fashola eröffnet.",
+        "Die Brücke ist mautpflichtig (Lekki Concession Company).",
+        "Erbaut vom internationalen Baukonzern Julius Berger.",
+        "Gilt als der exklusivste und sicherste Ort für morgendliches Jogging in Lagos."
+      ]
+    },
+    {
+      "id": "necom-house-lagos-landmarks-v2",
+      "descriptionAdvanced": "Das NECOM House, früher als NITEL Tower bekannt, durchsticht die Skyline von Lagos wie ein eckiger Betonpfeil. Mit einer Höhe von 160 Metern war dieser Wolkenkratzer jahrzehntelang das höchste Gebäude Westafrikas, bis er 2016 von neuen Türmen überholt wurde. Der Turm dient als Kommunikationszentrale und verfügt über einen markanten, massiven Fernmeldeturm auf dem Dach, der früher wie ein Leuchtturm den Schiffen im Hafen von Lagos den Weg wies. Das Gebäude hat eine tragische Geschichte, da es in den 1980er und 1990er Jahren gleich zweimal schwere, verheerende Brände erlebte, die es monatelang lahmlegten. Geografie K8 — Hochhausarchitektur und Telekommunikation.",
+      "factsAdvanced": [
+        "Mit 160 Metern Höhe lange Zeit das höchste Gebäude in Westafrika (eröffnet 1979).",
+        "Ehemals das Hauptquartier der staatlichen Telefongesellschaft NITEL.",
+        "Das Dach verfügt über einen Leuchtturm, der Seeleuten den Hafen von Lagos anzeigt.",
+        "Das Gebäude erlitt in seiner Geschichte zwei sehr schwere Brände (1983 und 1993).",
+        "Wurde nach den Bränden massiv saniert und wiedereröffnet.",
+        "Befindet sich im historischen Geschäftsviertel Marina auf Lagos Island."
+      ]
+    },
+    {
+      "id": "godswill-akpabio-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Godswill Akpabio International Stadium in Uyo ist ein architektonischer Triumph, der oft ehrfürchtig das 'Nest der Champions' genannt wird. Sein atemberaubendes, leuchtend weißes Design ist vom Münchener Allianz-Arena inspiriert und verfügt über eine hochmoderne Außenfassade aus Acrylglas, die nachts in verschiedenen Farben leuchtet. Das 2014 eröffnete Stadion war ein Prestigeprojekt des Bundesstaates Akwa Ibom, um eine Sportanlage auf absolutem Weltklasse-Niveau nach Nigeria zu bringen. Heute ist es die bevorzugte Heimspielstätte der nigerianischen Fußballnationalmannschaft, der Super Eagles, die hier auf fehlerfreiem Hybridrasen antreten. Sport K6 — Moderne Sportstätten in Afrika.",
+      "factsAdvanced": [
+        "Wird aufgrund seiner Architektur oft 'The Nest of Champions' genannt.",
+        "Entworfen nach dem Vorbild der Allianz Arena in München.",
+        "Die Außenhülle besteht aus hochmodernen, beleuchtbaren Acrylglas-Paneelen.",
+        "Offiziell 2014 im ölreichen Bundesstaat Akwa Ibom (Uyo) eröffnet.",
+        "Bietet Sitzplätze für 30.000 Zuschauer und eine kugelsichere VIP-Lounge.",
+        "Hauptspielstätte der nigerianischen Nationalmannschaft (Super Eagles)."
+      ]
+    },
+    {
+      "id": "moshood-abiola-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Moshood Abiola Nationalstadion in der Hauptstadt Abuja ist ein gigantischer Beton-Koloss, der gebaut wurde, um Afrikas sportliche Macht zu demonstrieren. Errichtet für die prestigeträchtigen All-Africa Games 2003, kostete diese massive Anlage über 360 Millionen Dollar und fasst über 60.000 Zuschauer. Das Stadiondach besteht aus einem riesigen, teflonbeschichteten Glasfasergewebe, das vor der sengenden Sonne schützt. Zwar wurde das Stadion jahrelang vernachlässigt, sodass sogar Rinder auf den Nebenplätzen grasten, doch jüngste massive private Investitionen haben den Hauptplatz wieder in eine der besten Sportarenen Afrikas verwandelt. Sport K7 — Großereignisse und afrikanische Sport-Infrastruktur.",
+      "factsAdvanced": [
+        "Erbaut speziell für die Ausrichtung der All-Africa Games im Jahr 2003.",
+        "Das Stadion kostete umgerechnet etwa 360 Millionen US-Dollar.",
+        "Bietet Platz für 60.491 Zuschauer auf vollständig überdachten Plätzen.",
+        "Das Dach besteht aus einer komplexen teflonbeschichteten Membrankonstruktion.",
+        "Im Jahr 2019 umbenannt nach dem pro-demokratischen Politiker Moshood Abiola.",
+        "Litt jahrelang unter schwerem Verfall, wurde aber kürzlich durch Dangote rehabilitiert."
+      ]
+    },
+    {
+      "id": "central-bank-of-nigeria-hq-landmarks-v2",
+      "descriptionAdvanced": "Der Hauptsitz der Central Bank of Nigeria (CBN) in Abuja ist das unerschütterliche finanzielle Herz der größten Volkswirtschaft Afrikas. Das 2002 fertiggestellte Gebäude überragt den Central Business District mit einer massiven, blockartigen und stark verspiegelten Architektur, die absolute Stabilität und Sicherheit ausstrahlen soll. In diesen Büros werden nicht nur die Zinsen für fast 200 Millionen Menschen festgelegt, sondern auch die komplexe Steuerung der Naira-Währung überwacht. Das Gebäude ist eines der bestbewachten zivilen Strukturen des Landes, umgeben von schweren Sicherheitssperren und einem extrem streng kontrollierten Einlasssystem. Wirtschaft K8 — Zentralbanken und Geldpolitik.",
+      "factsAdvanced": [
+        "Das Hauptquartier der wichtigsten Finanzinstitution in ganz Westafrika.",
+        "Das Gebäude ragt 100 Meter hoch im Central Business District von Abuja auf.",
+        "Die CBN steuert die offizielle Landeswährung, den Naira (NGN).",
+        "Eröffnet im Jahr 2002 unter der Regierung von Präsident Olusegun Obasanjo.",
+        "Bekannt für eines der strengsten architektonischen Sicherheitssysteme Nigerias.",
+        "Von hier aus werden die enormen Erdöl-Devisenreserven des Landes verwaltet."
+      ]
+    },
+    {
+      "id": "cathedral-church-of-christ-landmarks-v2",
+      "descriptionAdvanced": "Die Cathedral Church of Christ an der Marina in Lagos ist das majestätische, architektonische Meisterwerk der Anglikanischen Kirche in Nigeria. Obwohl der Grundstein bereits 1925 vom Prince of Wales gelegt wurde, dauerte es aufgrund von Kriegen und Finanzierungsengpässen mehr als 20 Jahre, bis die Kirche vollendet war. Die Kathedrale ist berühmt für ihre spektakuläre normannische Architektur und die massive Pfeifenorgel, eine der größten in ganz Afrika. Jeden Sonntag mischt sich der Lärm des chaotischen Marina-Viertels mit dem makellosen, vierstimmigen Gesang des legendären Kathedralen-Chores, der eine der ältesten musikalischen Institutionen Nigerias ist. Gesellschaft K7 — Kolonialkirchen und Chormusik.",
+      "factsAdvanced": [
+        "Die Hauptkathedrale der Church of Nigeria (Anglikanische Gemeinschaft).",
+        "Der Grundstein wurde 1925 vom britischen Prince of Wales (später Edward VIII) gelegt.",
+        "Die beeindruckende Pfeifenorgel ist eine der größten auf dem afrikanischen Kontinent.",
+        "Der weltberühmte Kathedralen-Chor wurde bereits im Jahr 1895 gegründet.",
+        "Die Reliquien von Bischof Samuel Ajayi Crowther wurden später hierher umgebettet.",
+        "Trotz ihrer Lage im verkehrsreichsten Teil von Lagos (Marina) ein Ort der extremen Stille."
+      ]
+    },
+    {
+      "id": "ship-house-abuja-landmarks-v2",
+      "descriptionAdvanced": "Das 'Ship House' in Abuja ist das architektonische Kuriosum der nigerianischen Regierung. Wie der Name unschwer erahnen lässt, hat dieses massive Betongebäude die unverkennbare, absichtliche Form eines gigantischen Ozeandampfers, der mitten im trockenen Landesinneren gestrandet zu sein scheint. Ursprünglich wurde es von einer Regierungsbehörde in Auftrag gegeben, wird heute aber vom Verteidigungsministerium genutzt. Seine bulligen, schiffsähnlichen 'Decks' und aufgesetzten 'Kamine' sollen Stärke und Unsinkbarkeit demonstrieren, machen es aber gleichzeitig zu einem der am meisten fotografierten und diskutierten Regierungsgebäude der Hauptstadt. Kunst K6 — Symbolische Architektur und Regierungsgebäude.",
+      "factsAdvanced": [
+        "Das Hauptquartier des nigerianischen Verteidigungsministeriums in Abuja.",
+        "Die Architektur ahmt detailliert die Struktur eines gigantischen Ozeandampfers nach.",
+        "Das Gebäude besitzt symbolische Schiffsdecks, Masten und Bullaugen-Fenster.",
+        "Gilt als eines der markantesten Beispiele symbolischer Architektur in Westafrika.",
+        "Ursprünglich für eine andere Regierungsbehörde geplant, dann vom Militär übernommen.",
+        "Ist aus Sicherheitsgründen für Zivilisten absolut unzugänglich und streng bewacht."
+      ]
+    },
+    {
+      "id": "independence-house-lagos-landmarks-v2",
+      "descriptionAdvanced": "Das Independence House in Lagos war das ultimative Bauprojekt der Briten, um den Nigerianern zu beweisen, dass sie ein modernes, hoch entwickeltes Land in die Unabhängigkeit entlassen. Pünktlich zur Feier 1960 übergeben, war dieser 25-stöckige Büroturm jahrelang der höchste Wolkenkratzer des Landes. Das Gebäude dominierte den Tafawa Balewa Square und diente lange als Sitz des Verteidigungsministeriums. Wie viele staatliche Immobilien in Lagos litt es schwer unter einem Brand in den 1990er Jahren und jahrzehntelanger Vernachlässigung, bevor weitreichende Restaurierungsbemühungen gestartet wurden, um dieses historische Denkmal der Staatsgründung zu retten. Geschichte K8 — Wolkenkratzer der Unabhängigkeit.",
+      "factsAdvanced": [
+        "Ein 25-stöckiger Wolkenkratzer, der 1960 als Geschenk der Briten übergeben wurde.",
+        "War zur Zeit der Unabhängigkeit das höchste Gebäude in ganz Nigeria.",
+        "Überblickt historisch den Tafawa Balewa Square (den Ort der Unabhängigkeitserklärung).",
+        "Wurde jahrzehntelang vom nigerianischen Verteidigungsministerium (MoD) genutzt.",
+        "Wurde 1993 durch ein mysteriöses, verheerendes Feuer schwer beschädigt.",
+        "Wird in aktuellen Regierungsplänen für eine kommerzielle Umnutzung (National Trade Centre) saniert."
+      ]
+    },
+    {
+      "id": "cocoa-house-ibadan-landmarks-v2",
+      "descriptionAdvanced": "Das Cocoa House in Ibadan ist nicht aus Beton, sondern sprichwörtlich aus Kakao gebaut. Als dieser 26-stöckige Wolkenkratzer 1965 eingeweiht wurde, war er das erste Hochhaus im tropischen Afrika. Das Erstaunliche daran: Das gesamte Projekt wurde zu 100 % aus den Profiten der lokalen Bauern finanziert, die Kakaobohnen in die ganze Welt exportierten. Kein einziger Penny ausländischer Kredite oder staatlicher Öl-Gelder floss in den Bau. Heute ist das 105 Meter hohe Gebäude mit seiner markanten, dunkelbraunen Aluminiumfassade ein ewiges, trotziges Denkmal für den massiven agrarischen Reichtum der Yoruba-Region lange vor dem Beginn des Erdöl-Booms. Wirtschaft K7 — Agrarökonomie und Architektur.",
+      "factsAdvanced": [
+        "Das erste Hochhaus (Wolkenkratzer) im tropischen Afrika, eingeweiht 1965.",
+        "Wurde komplett aus den Exporterlösen lokaler Kakao-Bauern finanziert ('Odua Investment').",
+        "Das Gebäude ist 105 Meter hoch und umfasst 26 Stockwerke.",
+        "Die markante braune Außenfassade soll farblich an geröstete Kakaobohnen erinnern.",
+        "Wurde 1985 durch ein tragisches Feuer fast völlig zerstört und 1992 neu eröffnet.",
+        "Überragt bis heute fast das gesamte Stadtbild von Ibadan."
+      ]
+    },
+    {
+      "id": "great-mosque-of-kano-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Kano ist das religiöse Gravitationszentrum Nordnigerias und eng mit dem Palast des Emirs verbunden. Ursprünglich wurde an diesem Ort im 15. Jahrhundert eine flache Moschee aus Lehmziegeln errichtet, die im typischen sudano-sahelischen Baustil gehalten war. Als diese nach 500 Jahren wegen Baufälligkeit abgerissen werden musste, bauten britische Ingenieure in den 1950er Jahren mit Hilfe lokaler Spenden die heutige gigantische Moschee. Sie zeichnet sich durch zwei markante, grün gekachelte Minarette aus, die die Skyline der Altstadt dominieren. Freitags beten hier bis zu 50.000 Menschen, wobei sich die Massen bis weit auf die staubigen Straßen vor dem Palast drängen. Gesellschaft K8 — Islamische Zentren und Neubauten.",
+      "factsAdvanced": [
+        "Das ursprüngliche Lehmgebäude stammte aus dem 15. Jahrhundert (unter Muhammad Rumfa).",
+        "Die heutige Struktur wurde in den 1950er Jahren mit Hilfe britischer Ingenieure errichtet.",
+        "Verfügt über zwei sehr markante, grün geflieste Minarette, die die Altstadt überragen.",
+        "Ist direkt mit dem Gidan Rumfa (dem Palast des Emirs von Kano) verbunden.",
+        "Dient als Freitagsmoschee für bis zu 50.000 Gläubige gleichzeitig.",
+        "War 2014 tragischerweise Schauplatz eines verheerenden Bombenanschlags durch Boko Haram."
+      ]
+    },
+    {
+      "id": "mapo-hall-ibadan-landmarks-v2",
+      "descriptionAdvanced": "Die Mapo Hall ist das alte, stolze Rathaus von Ibadan. Hoch oben auf dem Mapo-Hügel errichtet, überblickt dieses massive Gebäude im neo-klassizistischen Stil ein unglaubliches, endloses Meer aus rostbraunen Wellblechdächern. Das 1929 von den Briten erbaute Rathaus sollte ein architektonischer Kompromiss sein: Es demonstrierte die Macht der britischen Krone, wurde aber zum absoluten politischen Epizentrum für die traditionellen Herrscher (die Olubadan) und die streitbaren Lokalpolitiker der Yoruba. Wenn man die großen Stufen zur Mapo Hall hinaufsteigt, spürt man die Geschichte hitziger politischer Debatten und Proteste, die den ganzen Westen Nigerias geprägt haben. Geschichte K7 — Koloniale Rathäuser und die Yoruba-Politik.",
+      "factsAdvanced": [
+        "Erbaut 1929 unter der britischen Kolonialverwaltung auf dem Mapo-Hügel in Ibadan.",
+        "Imposante neo-klassizistische Architektur mit massiven griechischen Säulen am Eingang.",
+        "Bietet den berühmtesten Ausblick auf die rostbraunen Dächer von Ibadan.",
+        "Diente jahrzehntelang als wichtiges administratives und politisches Rathaus.",
+        "War der Schauplatz massiver politischer Versammlungen der 'Action Group' in den 50ern.",
+        "Wurde 2006 aufwendig restauriert, nachdem es lange vom Zerfall bedroht war."
+      ]
+    },
+    {
+      "id": "mary-slessor-house-landmarks-v2",
+      "descriptionAdvanced": "Als Wahrzeichen der Stadt Calabar steht das Haus der Mary Slessor nicht nur für ihre persönliche Mission, sondern auch für die bauliche Kolonialgeschichte. Dieses zweistöckige Gebäude wurde im späten 19. Jahrhundert komplett zerlegt aus schottischen Holzfertigteilen und Wellblech importiert – lange bevor Ikea-Häuser existierten. Es wurde meisterhaft ohne Eisennägel zusammengefügt, um der verheerenden Feuchtigkeit und den Termiten des afrikanischen Dschungels zu trotzen. Heute ist es eine ehrwürdige Touristenattraktion in Okoyong, die Besucher aus Europa und ganz Nigeria anzieht, die ehrfürchtig die kleinen Zimmer betrachten, in denen die Missionarin Hunderte gerettete Zwillinge aufzog. Kunst K6 — Vorgefertigte Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Ein herausragendes Beispiel für koloniale Präfabrikations-Architektur (Prefab).",
+        "Wurde im 19. Jahrhundert in Schottland gefertigt und in Einzelteilen verschifft.",
+        "Die Struktur verwendet Holzstifte anstelle von Eisennägeln, um Rost zu vermeiden.",
+        "Gelegen in Okoyong, etwas außerhalb des heutigen Stadtzentrums von Calabar.",
+        "Beherbergt noch heute originale Möbelstücke und Werkzeuge der Missionarin.",
+        "Das Denkmal wird vom National Commission for Museums and Monuments gepflegt."
+      ]
+    },
+    {
+      "id": "tinapa-resort-calabar-landmarks-v2",
+      "descriptionAdvanced": "Das Tinapa Free Zone & Resort war der absolute Milliarden-Traum des Bundesstaates Cross River. Erbaut in den frühen 2000er Jahren, sollte dieser gigantische Komplex das 'Dubai von Westafrika' werden. Das Resort bestach durch ein absolut atemberaubendes, futuristisches Design mit riesigen Einkaufsmalls, einem der modernsten Filmstudios Afrikas (Nollywood-Hub) und einem riesigen Wasserpark mitten im dichten tropischen Dschungel. Doch das architektonische Meisterwerk fiel massiven bürokratischen Hürden und Streitigkeiten um Zollgesetze zum Opfer. Heute stehen viele der gigantischen Glashallen leer – ein faszinierender, fast geisterhafter Ort, der zeigt, wie schwer afrikanische Megaprojekte ohne perfekte Logistikketten zu betreiben sind. Wirtschaft K8 — Freihandelszonen und Investitionsruinen.",
+      "factsAdvanced": [
+        "Sollte ursprünglich das wichtigste Handels- und Tourismus-Hub ('Dubai') Westafrikas werden.",
+        "Das Projekt kostete schätzungsweise weit über 450 Millionen US-Dollar.",
+        "Verfügt über 80.000 Quadratmeter Einkaufs- und Großhandelsflächen.",
+        "Beherbergt ein riesiges, hochmodernes Filmstudio (Tinapa Studios) für Nollywood.",
+        "Scheiterte wirtschaftlich massiv an unklaren Zollgesetzen und fehlender Flussschiff-Anbindung.",
+        "Ein großer Teil der gigantischen Anlage steht heute weitgehend leer und ungenutzt."
+      ]
+    },
+    {
+      "id": "first-storey-building-badagry-landmarks-v2",
+      "descriptionAdvanced": "Dieses schlichte Gebäude in Badagry ist als Landmarke von entscheidender Bedeutung, denn es leitete das Ende der traditionellen Lehm- und Stroharchitektur in Westnigeria ein. Erbaut 1845 von christlichen Missionaren, brachte es Backsteine, Schrägdächer, importiertes Wellblech und Treppenhäuser in eine Region, die bis dahin nur einstöckig baute. Das Haus markiert buchstäblich den ersten Fußabdruck der europäischen Bauweise auf nigerianischem Boden. In seinem Schatten pflanzte Rev. Gollmer den angeblich allerersten Baum einer damals völlig unbekannten Frucht auf nigerianischem Boden: die Agia, ein früher Vorgänger lokaler Anpflanzungen, sowie den ersten modernen Grundwasserbrunnen des Landes. Gesellschaft K6 — Britische Baustile und Missionierung.",
+      "factsAdvanced": [
+        "Das älteste noch stehende, zweistöckige Gebäude Nigerias nach westlichem Muster.",
+        "Erbaut 1845 von Rev. Henry Townsend (Church Missionary Society).",
+        "Wurde nicht aus lokalem Lehm, sondern mit importierten Ziegel-Techniken gebaut.",
+        "Auf dem Grundstück befindet sich der historisch dokumentierte erste Wasserbrunnen Nigerias (1842).",
+        "Enthält noch heute die originalen massiven Eisensafes, in denen Kaurischnecken gelagert wurden.",
+        "Zieht als nationale Architektur-Pilgerstätte jährlich Tausende von Touristen und Studenten an."
+      ]
+    },
+    {
+      "id": "badagry-heritage-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Gebäude, das heute das Badagry Heritage Museum beherbergt, ist an sich schon ein dunkles historisches Dokument. Erbaut im Jahr 1863 als Bezirksgericht der britischen Kolonialverwaltung, blickt dieses massive Kolonialhaus im Plantagen-Stil direkt auf den Yachthafen und die Lagune. Bevor hier britische Richter saßen, war das Gelände ein offener Markt für menschliche Fracht. Die schweren Holztüren und weiten Veranden des Museums verbergen eine schockierende Ausstellung: Hier werden die brutalen Ketten, eisernen Maulkörbe und Lippenklammern aufbewahrt, die den afrikanischen Sklaven angelegt wurden, um zu verhindern, dass sie sich aus Verzweiflung selbst die Zunge abbeißen. Geschichte K8 — Britische Kolonialgerichte und das Erbe der Sklaverei.",
+      "factsAdvanced": [
+        "Erbaut 1863 als das erste offizielle britische Bezirksgericht (District Officer's Office) in Badagry.",
+        "Das Gebäude ist ein klassisches Beispiel für die britische Kolonialarchitektur (Plantagenstil).",
+        "Beherbergt heute hunderte originale Artefakte aus der Ära des Sklavenhandels.",
+        "Dokumentiert die brutalen Instrumente der Sklaventreiber (Halsfesseln, eiserne Maulkörbe).",
+        "Liegt strategisch mit direktem Blick auf das Wasser, wo die Schiffe beladen wurden.",
+        "Teilt die Geschichte in acht verschiedene Galerien, von der Gefangennahme bis zur Befreiung."
+      ]
+    },
+    {
+      "id": "oba-of-benin-palace-landmarks-v2",
+      "descriptionAdvanced": "Der Palast des Oba in Benin City ist kein Relikt, sondern ein hochaktives, spirituelles Machtzentrum. Der ursprüngliche Palast war im 15. Jahrhundert einer der prächtigsten der Welt, voll von schimmernden Bronzetafeln und Elfenbeinschnitzereien, wurde aber 1897 von den Briten rücksichtslos niedergebrannt und geplündert. Der heutige Palast wurde 1914 von Oba Eweka II. auf einem Bruchteil des alten Geländes wieder aufgebaut. Er besteht aus tiefroten Lehmwänden, die ein Labyrinth aus geheimen Höfen bilden. Einige Türen und Räume dürfen unter Todesandrohung (im traditionellen Glauben) nicht von Frauen oder Außenstehenden betreten werden. Hier lebt der stolze Geist des Benin-Königreichs unberührt fort. Geschichte K7 — Königliche Paläste und Wiederaufbau nach Plünderung.",
+      "factsAdvanced": [
+        "Sitz des Oba (Königs) von Benin, einem der am höchsten verehrten Monarchen Afrikas.",
+        "Der ursprüngliche gigantische Palast wurde 1897 während der britischen Strafexpedition zerstört.",
+        "Wurde ab 1914 von Oba Eweka II. auf einem Teil des alten Geländes neu errichtet.",
+        "Gilt als UNESCO-Weltkulturerbe (seit 1999 als Teil der Benin-Mauern nominiert).",
+        "Viele der internen Schreine dürfen strengstens nicht von Touristen betreten werden.",
+        "Einige Wände sind noch heute mit den berühmten, ikonischen Rillenmustern des Edo-Volkes verziert."
+      ]
+    },
+    {
+      "id": "aso-villa-landmarks-v2",
+      "descriptionAdvanced": "Die Aso Villa, auch bekannt als The Presidential Villa, ist die bestbewachte Festung Nigerias. Dieses weitläufige, elegante Komplex liegt eingebettet am Fuße des gigantischen, monolithischen Aso Rock in Abuja. Seit der offizielle Regierungssitz 1991 von Lagos hierher verlegt wurde, ist es das Zuhause des nigerianischen Präsidenten. Im Gegensatz zu europäischen Palästen ist Aso Rock Villa von der Straße aus fast unsichtbar, tief versteckt in bewaldeten Hügeln. Das Innere ist bekannt für verschwenderische Pracht mit riesigen Bankettsälen, die von den größten politischen Dramen, geheimen Verhandlungen und unerwarteten Machtwechseln in der jüngeren Geschichte Nigerias zeugen. Gesellschaft K8 — Regierungszentren und präsidentielle Architektur.",
+      "factsAdvanced": [
+        "Der offizielle Wohn- und Amtssitz des Präsidenten der Bundesrepublik Nigeria.",
+        "Wurde 1991 fertiggestellt, als die Hauptstadt offiziell von Lagos nach Abuja verlegt wurde.",
+        "Befindet sich direkt im massiven, schützenden Schatten des 400 Meter hohen Aso Rock.",
+        "Das Gelände umfasst hochsichere Wohnbereiche, Gästevillen für Staatsbesucher und Regierungsbüros.",
+        "Der Name 'Aso' bedeutet in der Sprache der lokalen Asokoro-Ureinwohner 'siegreich'.",
+        "Ist für die normale Öffentlichkeit vollkommen abgeriegelt und strengstens bewacht."
+      ]
+    },
+    {
+      "id": "abuja-city-gate-landmarks-v2",
+      "descriptionAdvanced": "Das Abuja City Gate ist das massive, modernistische Willkommensschild der nigerianischen Hauptstadt. Jeder, der vom Nnamdi Azikiwe International Airport in das Stadtzentrum fährt, muss unter dieser riesigen, stilisierten Bogenstruktur hindurch. Errichtet in den 1990er Jahren, wurde es als Symbol für die neue, künstlich geschaffene Hauptstadt entworfen, die die unzähligen ethnischen Konflikte Nigerias durch einen neutralen, zentralen Ort befrieden sollte. Oft ist das Tor nachts in den Nationalfarben Grün und Weiß beleuchtet, und an seiner Spitze hängt in der Regel das nigerianische Staatswappen. Es ist weniger eine Verteidigungsanlage als ein triumphales Portal in das moderne Zentrum der Macht. Kunst K6 — Städtische Monumente und Willkommenstore.",
+      "factsAdvanced": [
+        "Ein riesiges, architektonisches Monument an der Hauptflughafenstraße (Umaru Musa Yar'Adua Road).",
+        "Dient als offizielles und symbolisches Eintrittstor in die Hauptstadt Abuja.",
+        "Wurde in den frühen 1990er Jahren zusammen mit der Verlegung der Hauptstadt erbaut.",
+        "Oft bei Staatsbesuchen mit unzähligen Flaggen und Bannern festlich geschmückt.",
+        "Das Design soll Einheit und den Eintritt in eine moderne, neutrale Hauptstadt symbolisieren.",
+        "Steht im extremen, breiten Kontrast zu den historischen alten Stadttoren (Kofar) im Norden."
+      ]
+    },
+    {
+      "id": "gidan-rumfa-landmarks-v2",
+      "descriptionAdvanced": "Als Wahrzeichen ist der Gidan Rumfa nicht einfach nur alt, er ist eine architektonische Demonstration islamischer Herrschaft in der Sahelzone. Die Außenfassade des Palastes mit dem beeindruckenden 'Kofar Kudu' (Südtor) wurde in den letzten Jahrzehnten immer wieder neu mit Lehm und modernen Materialien verstärkt, was dem Gebäude ein wuchtiges, fast uneinnehmbares Aussehen verleiht. Die auffälligen geometrischen Muster an der Front, bekannt als 'Arewa-Knoten', sind zum inoffiziellen Logo ganz Nordnigerias geworden. Dieses Tor ist das klassische Postkartenmotiv von Kano und der Ort, an dem sich während des Sallah-Festivals Tausende Reiter für den prunkvollen Durbar versammeln, um dem Emir zu huldigen. Gesellschaft K7 — Sahel-Architektur und traditionelle Symbole.",
+      "factsAdvanced": [
+        "Das Kofar Kudu (Südtor) des Palastes ist das bekannteste architektonische Wahrzeichen von Kano.",
+        "Die Fassade zeigt stolz den berühmten Arewa-Knoten, das Symbol für Nordnigeria.",
+        "Die Architektur kombiniert extrem dicke Lehmwände mit verzierten Zinnen ('Zankwaye').",
+        "Der Vorplatz ist der traditionelle Schauplatz für den massiven Durbar (Reiterfest) zu Eid.",
+        "Niemand darf das Haupttor auf einem Pferd durchqueren, außer der Emir selbst.",
+        "Trotz seines Alters von über 500 Jahren wurde das Tor vielfach restauriert und leuchtend weiß/grün gestrichen."
+      ]
+    },
+    {
+      "id": "gidan-makama-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Gidan Makama Museum in Kano ist ein Meisterstück der originalen Hausa-Zivilarchitektur. Bevor es ein Museum wurde, diente dieser 500 Jahre alte Bau als temporärer Palast für den König von Kano. Das Gebäude zeichnet sich durch extrem dicke Wände, gewölbte Decken aus Palmholz ('Azara') und eine Kühltechnik aus, die selbst bei 40 Grad Außentemperatur ein angenehmes Klima im Inneren schafft. Heute ist es in elf Galerien unterteilt, die die reiche Geschichte Kanos – vom Transsaharahandel über die Dschihad-Kriege bis zur britischen Kolonialzeit – anhand von Rüstungen, Töpferwaren und alten Fotografien dokumentieren. Es ist eine der besterhaltenen traditionellen Strukturen im Norden. Geschichte K6 — Traditionelle Lehmbauweise und Kühltechniken.",
+      "factsAdvanced": [
+        "Erbaut im späten 15. Jahrhundert (zur gleichen Zeit wie der Hauptpalast Gidan Rumfa).",
+        "Das Gebäude diente einst als Residenz für den 'Makama', einen hohen Adeligen in Kano.",
+        "Die Architektur ist ein perfektes Beispiel für die traditionelle Hausa-Lehmgewölbetechnik.",
+        "Das Museum besitzt elf Galerien, die die tausendjährige Geschichte Kanos erzählen.",
+        "Wurde 1959 offiziell von den Briten als Monument deklariert.",
+        "Beherbergt Artefakte von der Steinzeit über die Kolonialkriege bis zum modernen Emirat."
+      ]
+    },
+    {
+      "id": "freedom-park-lagos-landmarks-v2",
+      "descriptionAdvanced": "Der Freedom Park auf Lagos Island ist eine atemberaubende Transformation von Horror zu Hoffnung. Dieses wunderschön angelegte Gelände war früher das berüchtigte 'Broad Street Prison', ein koloniales Gefängnis der Briten, in dem politische Gefangene, Anti-Kolonial-Kämpfer und auch einfache Diebe unter unmenschlichen Bedingungen inhaftiert oder gehängt wurden. Um das Jahr 2010 wurde das verfallene Gelände vom Architekten Theo Lawson radikal umgestaltet: Die Grundrisse der winzigen Gefängniszellen sind nun gemütliche Sitzecken für Cafés, der alte Galgen ist ein Kunstdenkmal, und die großen Innenhöfe dienen als Amphitheater für Konzerte und Poesie-Lesungen. Es ist der friedlichste und kulturreichste Zufluchtsort im hektischen Lagos. Kunst K8 — Stadterneuerung und koloniale Gefängnisse.",
+      "factsAdvanced": [
+        "Erbaut auf den Ruinen des historischen, berüchtigten Broad Street Gefängnisses (1882).",
+        "Im Jahr 2010 anlässlich des 50. Jubiläums der Unabhängigkeit in einen Park umgewandelt.",
+        "Die Architektur nutzt die originalen Gefängnismauern und Zellen-Grundrisse als Design-Elemente.",
+        "Beherbergte einst berühmte politische Gefangene wie Herbert Macaulay und Obafemi Awolowo.",
+        "Besitzt Freiluft-Amphitheater, Kunstgalerien, kleine Teiche und zahlreiche Restaurants.",
+        "Entworfen von dem visionären nigerianischen Architekten Theo Lawson."
+      ]
+    },
+    {
+      "id": "civic-centre-lagos-landmarks-v2",
+      "descriptionAdvanced": "Das Civic Centre in Lagos ist das schimmernde Raumschiff der nigerianischen Geschäftswelt. Direkt am Wasser von Victoria Island (Ozumba Mbadiwe) gelegen, besticht das Gebäude durch seine hochmoderne Architektur: Es ruht auf dicken, freiliegenden V-förmigen Betonsäulen und ragt buchstäblich über die Lagune hinaus. Eröffnet in den frühen 2000er Jahren, wurde es sofort zum exklusivsten Ort für Tech-Konferenzen, Luxushochzeiten und Banker-Gipfel. Nachts verwandelt sich das Gebäude durch seine aufwendige Beleuchtung in ein leuchtendes Juwel am Wasser, während Millionäre ihre Yachten direkt am privaten Steg des Gebäudes anlegen. Wirtschaft K7 — Moderne Konferenzzentren und Victoria Island.",
+      "factsAdvanced": [
+        "Eines der modernsten und teuersten Event- und Konferenzzentren in Westafrika.",
+        "Liegt direkt am Ufer (Waterfront) der sehr exklusiven Victoria Island in Lagos.",
+        "Auffällige Architektur mit massiven, angewinkelten V-Säulen und riesigen Glasfassaden.",
+        "Gilt als der absolute Hotspot für Luxushochzeiten ('Owambe') der nigerianischen Elite.",
+        "Verfügt über einen privaten Yachthafen für wohlhabende Gäste.",
+        "Wurde unter anderem für große Technologie-Messen und Finanzgipfel errichtet."
+      ]
+    },
+    {
+      "id": "jaekel-house-lagos-landmarks-v2",
+      "descriptionAdvanced": "Das Jaekel House ist eine kleine, grüne Oase der kolonialen Ruhe mitten im chaotischen Ebute Metta-Viertel von Lagos. Erbaut 1898, ist dieses charmante Gebäude mit seinen weiten Veranden und Holzböden ein perfektes Beispiel für die britische Architektur der Jahrhundertwende. Es war einst die Residenz von Francis Jaekel, dem damaligen Generalmanager der nigerianischen Eisenbahngesellschaft (Nigeria Railway Corporation). Nachdem es jahrzehntelang verrottete, wurde das Haus 2010 meisterhaft restauriert. Heute beherbergt es ein faszinierendes Mini-Museum, das mit alten Zügen, Uniformen und Werkzeugen die glorreichen, längst vergangenen Tage der nigerianischen Eisenbahn dokumentiert. Geschichte K7 — Die goldene Ära der Eisenbahn und Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Eines der ältesten kolonialen Wohngebäude in Lagos (erbaut 1898).",
+        "Ursprünglich die Residenz des Generalmanagers der Nigeria Railway Corporation (NRC).",
+        "Wurde 2010 von der NGO 'Legacy 1995' aufwendig vor dem sicheren Verfall gerettet.",
+        "Klassische Kolonialbauweise mit tiefen Veranden und extrem hohen Decken zur Kühlung.",
+        "Beherbergt heute ein Eisenbahnmuseum mit Fotografien und Artefakten der britischen Ära.",
+        "Liegt auf dem riesigen, weitgehend stillgelegten historischen Eisenbahngelände in Ebute Metta."
+      ]
+    },
+    {
+      "id": "teslim-balogun-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Teslim Balogun Stadion im Arbeiterviertel Surulere in Lagos ist eine Arena, die echten Straßenfußball atmet. Direkt gegenüber dem größeren, älteren Nationalstadion gelegen, hat Teslim Balogun eine viel intimere, hitzigere Atmosphäre. Es wurde nach dem legendären nigerianischen Stürmer Teslim 'Thunder' Balogun benannt, der in den 1950er Jahren in England spielte und für seinen gewaltigen Schuss bekannt war. Eröffnet im Jahr 2007 nach jahrzehntelanger Bauverzögerung, ist das komplett aus weißem Beton gebaute Stadion heute Austragungsort für den nationalen Pokal, politische Kundgebungen und erbitterte Spiele der lokalen Liga. Es ist der Inbegriff der sportlichen Seele von Lagos. Sport K6 — Fußballkultur in Lagos und Bauverzögerungen.",
+      "factsAdvanced": [
+        "Benannt nach Teslim 'Thunder' Balogun, Nigerias erstem professionellen Fußball-Export.",
+        "Befindet sich im Stadtteil Surulere, direkt neben dem riesigen alten Nationalstadion.",
+        "Der Bau dauerte unglaubliche 23 Jahre, bevor es 2007 endlich eröffnet wurde.",
+        "Fasst etwa 24.000 Zuschauer und wird extrem intensiv von der lokalen Bevölkerung genutzt.",
+        "Besitzt eine Kunstrasenfläche, die dem harten tropischen Klima von Lagos standhält.",
+        "Wird häufig für den traditionsreichen nigerianischen FA-Cup ('Federation Cup') genutzt."
+      ]
+    },
+    {
+      "id": "gobarau-minaret-katsina-landmarks-v2",
+      "descriptionAdvanced": "Das Gobarau-Minarett ragt wie ein spitzer, brauner Finger aus Lehm über die Dächer von Katsina. Mit fast 15 Metern Höhe war dieses im späten Mittelalter (etwa um 1348) erbaute Türmchen das absolute Zentrum für islamische Theologie und Wissenschaft im Transsahara-Netzwerk. Katsina rivalisierte damals stark mit Timbuktu um die besten Gelehrten aus Nordafrika und Arabien. Das Minarett diente nicht nur dem Muezzin, sondern angeblich auch als Wachturm, um Feinde kilometerweit in der flachen Savanne zu erspähen – lokale Mythen behaupten gar, Priester konnten von der Spitze aus in der spirituellen Ferne die Kaaba in Mekka sehen. Geschichte K8 — Islamische Gelehrsamkeit und Lehmarchitektur.",
+      "factsAdvanced": [
+        "Erbaut im 14. Jahrhundert (ca. 1348) unter König Muhammadu Korau.",
+        "Besteht vollständig aus sonnengetrocknetem Lehm und Palmholz.",
+        "Ist 15 Meter hoch und das höchste historische Gebäude in Katsina.",
+        "War ein extrem wichtiges Zentrum für islamische Gelehrte ('Die Universität von Katsina').",
+        "Wurde angeblich genutzt, um feindliche Armeen frühzeitig in der Savanne zu erkennen.",
+        "Legenden besagen, große Heilige konnten von der Spitze bis nach Mekka blicken."
+      ]
+    }
+  ]
+}

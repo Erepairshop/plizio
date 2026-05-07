@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "djibouti",
+  "files": [
+    "lib/visualLab/data/poiExtraDjiboutiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiLifeV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiNatureV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "arta-cities-v2",
+      "descriptionAdvanced": "Arta ist eine charmante Bergstadt in der gleichnamigen Region Dschibutis, die für ihr im Vergleich zur glühenden Hitze der Küste deutlich milderes und angenehmeres Klima bekannt ist. Auf einer höheren Erhebung gelegen, hat sich die Stadt zu einem beliebten Rückzugsort für die Bewohner von Dschibuti-Stadt entwickelt, die hier Erleichterung von der sommerlichen Luftfeuchtigkeit suchen. Die umliegende Landschaft ist geprägt von vulkanischen Bergen und Plateaus, die eine wichtige Rolle für die einzigartige Artenvielfalt der Region spielen. Ihre strategische Lage auf halbem Weg zwischen der Hauptstadt und dem Landesinneren macht Arta zudem zu einem wichtigen logistischen Knotenpunkt für den nationalen Transport. Geografie K6 — Hochlandklima und regionale Topografie.",
+      "factsAdvanced": [
+        "Liegt auf einer höheren Ebene mit kühlerem Klima.",
+        "Beliebtes Ziel zur Flucht vor der Küstenhitze.",
+        "Regionales Zentrum der Region Arta.",
+        "Umgeben von vulkanischen Bergen und Plateaus.",
+        "Logistischer Knotenpunkt zwischen Küste und Hinterland.",
+        "Beheimatet eine für Hochlandgebiete typische Flora und Fauna."
+      ]
+    },
+    {
+      "id": "holhol-cities-v2",
+      "descriptionAdvanced": "Holhol ist eine Stadt in der Region Ali Sabieh, die vor allem durch ihre historische Verbindung zur ehemaligen Eisenbahnstrecke Dschibuti-Äthiopien bekannt wurde. Die Stadt liegt in einer ariden, felsigen Umgebung, in der die Landschaft von trockenen Flussbetten und spärlicher Vegetation geprägt ist. Historisch gesehen fungierte Holhol als lebenswichtiger Wasserstopp und Wartungsstation für die Dampflokomotiven, die einst dieses herausfordernde Gelände durchquerten. Heute dienen die Überreste dieser Infrastruktur als Mahnmal für die industrielle Vergangenheit der Region und ihre Rolle bei der Verbindung der ostafrikanischen Märkte. Geografie K7 — Industriegeschichte und regionaler Transport.",
+      "factsAdvanced": [
+        "Historisch bedeutender Halt an der Bahnstrecke nach Äthiopien.",
+        "Wichtige Wasserstation für Dampflokomotiven in der Kolonialzeit.",
+        "Inmitten der ariden, felsigen Landschaft von Ali Sabieh gelegen.",
+        "Die Umgebung wird von saisonalen Wasserläufen (Wadis) dominiert.",
+        "Infrastrukturreste zeugen von der regionalen Industriegeschichte.",
+        "Dient heute als kleines regionales Zentrum für lokale Hirten."
+      ]
+    },
+    {
+      "id": "yoboki-cities-v2",
+      "descriptionAdvanced": "Yoboki ist eine abgelegene Stadt in der Region Dikhil in Dschibuti, die nahe der Grenze zu Äthiopien liegt. Sie befindet sich in einem Gebiet, das durch zerklüftetes, vulkanisches Gelände und aride Ebenen definiert wird. Die Stadt ist in erster Linie ein Zentrum für die lokale pastorale Landwirtschaft, wobei die Wirtschaft auf der Aufzucht von Nutztieren wie Ziegen und Kamelen basiert. Ihre Lage an der Route zur äthiopischen Grenze verleiht ihr trotz ihrer relativ geringen Größe und isolierten geografischen Lage im Westen des Landes einen strategischen Charakter. Geografie K7 — aride Landnutzung und pastorale Ökonomien.",
+      "factsAdvanced": [
+        "Liegt in der abgelegenen Region Dikhil nahe der Grenze zu Äthiopien.",
+        "Die Wirtschaft basiert stark auf traditioneller Viehzucht.",
+        "Das Gelände besteht aus vulkanischen Formationen und Trockenebenen.",
+        "Strategische Lage für die lokale grenzüberschreitende Mobilität.",
+        "Der Lebensstil der Gemeinschaft ist an extrem trockene Bedingungen angepasst.",
+        "Abhängigkeit von traditionellen Brunnen für Mensch und Vieh."
+      ]
+    },
+    {
+      "id": "loyada-cities-v2",
+      "descriptionAdvanced": "Loyada ist eine Küstenstadt an der Grenze zwischen Dschibuti und Somalia. Sie ist primär als strategischer Grenzübergangspunkt entlang der Küstenlinie bekannt. Das Gebiet zeichnet sich durch Sanddünen und die unmittelbare Nähe zum Roten Meer aus, dient jedoch eher funktionalen Zwecken im Zusammenhang mit Handel und regionaler Mobilität als dem Tourismus. Die Umweltlandschaft ist geprägt von Küstenprozessen und den saisonalen Winden, die am Golf von Aden üblich sind. Ihre Rolle bleibt zentral für die Sicherheit und den kontrollierten Warenverkehr entlang dieses Küstenkorridors. Geografie K7 — regionale Grenzdynamik und Küstentransit.",
+      "factsAdvanced": [
+        "Küstenstadt direkt an der Grenze zu Somalia gelegen.",
+        "Fungiert als ein zentraler regionaler Grenzübergangspunkt.",
+        "Geografie geprägt von Küstendünen und Sandstränden.",
+        "Umweltbedingungen werden stark vom Golf von Aden beeinflusst.",
+        "Strategische Bedeutung für Sicherheit und regionalen Handel.",
+        "Wirtschaftliche Aktivitäten konzentrieren sich auf den Grenzbetrieb."
+      ]
+    },
+    {
+      "id": "dorra-cities-v2",
+      "descriptionAdvanced": "Dorra ist eine Stadt im Landesinneren der Region Tadjourah, eingebettet in die dramatischen vulkanischen Gebirgsketten im Norden Dschibutis. Das Gebiet ist bekannt für seine raue Schönheit und extremen Umweltbedingungen, die durch aride Ebenen, vulkanische Plateaus und spärliche saisonale Vegetation gekennzeichnet sind. Die Gemeinschaft in Dorra pflegt einen traditionellen Lebensstil, der an diese herausfordernde Landschaft angepasst ist, wobei der Schwerpunkt auf der Viehzucht und kleinbäuerlicher Landwirtschaft liegt, sofern Wasser verfügbar ist. Ihre Lage tief im Landesinneren, weit entfernt von den maritimen Handelswegen der Küste, unterstreicht ihre Isolation und Selbstgenügsamkeit. Geografie K7 — menschliche Anpassung in ariden Hochgebirgsumgebungen.",
+      "factsAdvanced": [
+        "Stadt im Landesinneren der nördlichen Region Tadjourah.",
+        "Umgeben von komplexem vulkanischem und gebirgigem Gelände.",
+        "Bevölkerung praktiziert traditionelle Pastoralwirtschaft.",
+        "Bekannt für extrem herausfordernde und trockene Bedingungen.",
+        "Geografisch weitgehend isoliert von den Küstenzentren.",
+        "Lebensstil hängt stark von saisonalen Regenfällen und Brunnen ab."
+      ]
+    },
+    {
+      "id": "galafi-cities-v2",
+      "descriptionAdvanced": "Galafi ist ein bedeutender Grenzposten an der strategischen Straße, die Dschibuti im fernen Westen mit Äthiopien verbindet. Inmitten einer extrem heißen und lebensfeindlichen Wüstenlandschaft gelegen, dient der Ort als entscheidendes Nadelöhr für den grenzüberschreitenden LKW-Verkehr. Die hiesige Zollstation ist von nationaler Bedeutung für die wirtschaftliche Sicherheit und den Warenfluss zwischen den beiden Ländern. Trotz der kargen Umgebung ist Galafi ein pulsierender Transitpunkt, der die logistische Anbindung des Binnenstaates Äthiopien an die Häfen Dschibutis sichert. Geografie K7 — Grenzhandel und Logistikkorridore.",
+      "factsAdvanced": [
+        "Haupteintrittstor für den Warenverkehr aus Äthiopien.",
+        "Befindet sich in einer der heißesten Wüstenregionen der Welt.",
+        "Beheimatet eine wichtige Zoll- und Grenzschutzstation.",
+        "Strategischer Punkt an der Westroute nach Addis Abeba.",
+        "Lebensgrundlage basiert fast ausschließlich auf dem Transitverkehr.",
+        "Extreme klimatische Bedingungen prägen den Alltag vor Ort."
+      ]
+    },
+    {
+      "id": "alaili-dadda-cities-v2",
+      "descriptionAdvanced": "Alaili Dadda ist ein malerischer Gebirgsort im Norden der Region Obock, der von den imposanten und schroffen Gipfeln des Mabla-Gebirges umgeben ist. Aufgrund seiner Höhenlage genießt der Ort ein kühleres Mikroklima, was ihn zu einem wichtigen Zentrum für die regionale Viehzucht macht. Die tiefen Täler und die zerklüftete Topografie bieten eine dramatische Kulisse für die traditionellen Siedlungen der Afar-Gemeinschaft. Trotz seiner relativen Abgeschiedenheit spielt Alaili Dadda eine wichtige Rolle für die soziale Struktur des nördlichen Dschibutis. Geschichte K8 — Regionale Kulturen und Siedlungsformen.",
+      "factsAdvanced": [
+        "Eingebettet in die Gebirgsketten des Mabla-Massivs.",
+        "Bekannt für sein im Vergleich zur Küste kühleres Klima.",
+        "Zentrum für die traditionelle Viehwirtschaft im Norden.",
+        "Die Umgebung ist geprägt von steilen Gipfeln und tiefen Wadis.",
+        "Wichtiger Bezugspunkt für die lokale Afar-Bevölkerung.",
+        "Nur über anspruchsvolle Bergstraßen und Pfade erreichbar."
+      ]
+    },
+    {
+      "id": "balho-cities-v2",
+      "descriptionAdvanced": "Balho ist ein geschichtsträchtiges Dorf im Nordwesten Dschibutis, das in einer zerklüfteten Vulkanlandschaft nahe der äthiopischen Grenze liegt. Der Ort erlangte während des Bürgerkriegs traurige Bekanntheit als strategischer Schauplatz, ist heute jedoch vor allem für seine bedeutenden archäologischen Schätze bekannt. In der Nähe von Balho finden sich prähistorische Felsmalereien, die von einer jahrtausendealten Besiedlung der Region zeugen. Das Dorf dient zudem als wichtiger Knotenpunkt für lokale Bergpfade, die von nomadischen Hirten genutzt werden. Geschichte K8 — Prähistorische Kunst und Zeitgeschichte.",
+      "factsAdvanced": [
+        "Historisch bedeutender Ort während des dschibutischen Bürgerkriegs.",
+        "Berühmt für die nahegelegenen prähistorischen Felsmalereien.",
+        "Liegt in einer geologisch faszinierenden Vulkanlandschaft.",
+        "Strategische Nähe zur Grenze von Äthiopien.",
+        "Zentraler Punkt für nomadische Bergrouten im Nordwesten.",
+        "Zeugnis für die frühe menschliche Besiedlung am Horn von Afrika."
+      ]
+    },
+    {
+      "id": "khor-angar-cities-v2",
+      "descriptionAdvanced": "Khor Angar ist ein malerisches Fischerdorf an der Küste des Roten Meeres, das für seine ökologische Bedeutung und seine weitläufigen Mangrovenwälder bekannt ist. Gelegen in der Nähe der strategischen Straße von Bab al-Mandab, bietet der Ort einen faszinierenden Einblick in die maritimen Ökosysteme Dschibutis. Die Kombination aus klarem Meerwasser, Mangroven und Korallenriffen macht Khor Angar zu einem Paradies für Vogelbeobachter und Naturliebhaber. In der Region wird noch immer traditioneller Fischfang betrieben, was dem Dorf eine authentische Atmosphäre verleiht. Biologie K7 — Mangroven-Ökosysteme und marine Biodiversität.",
+      "factsAdvanced": [
+        "Bekannt für seine ökologisch wertvollen Mangrovenwälder.",
+        "Liegt an der strategisch wichtigen Straße von Bab al-Mandab.",
+        "Wichtiges Brutgebiet für zahlreiche Seevogelarten.",
+        "Zentrum für den traditionellen Fischfang an der Nordküste.",
+        "Beliebtes Ziel für Sportfischer und Naturtouristen.",
+        "Bietet Zugang zu unberührten Korallenriffen des Roten Meeres."
+      ]
+    },
+    {
+      "id": "randa-cities-v2",
+      "descriptionAdvanced": "Randa ist ein idyllisches Bergdorf im Goda-Gebirge, das für sein außergewöhnlich grünes Erscheinungsbild und seine fruchtbaren Böden bekannt ist. Inmitten einer ansonsten ariden Nation wirkt Randa wie eine Oase, in der auf terrassierten Feldern Obst und Gemüse angebaut werden. Die kühleren Temperaturen aufgrund der Höhenlage machen das Dorf zu einem begehrten Ziel für Wanderer und Naturfreunde. Randa dient zudem als wichtiges Tor zum Day Forest Nationalpark, einem der letzten Primärwälder der Region, und spielt eine zentrale Rolle für den Ökotourismus in Dschibuti. Geografie K7 — Gebirgsökologie und Terrassenfeldbau.",
+      "factsAdvanced": [
+        "Gelegen in den grünen Ausläufern des Goda-Gebirges.",
+        "Wichtiger Standort für den Anbau von Obst und Gemüse.",
+        "Dient als Zugangstor zum Day Forest Nationalpark.",
+        "Genießt ein deutlich milderes Klima als die Küstenebene.",
+        "Bekannt für seine traditionellen terrassierten Gartenanlagen.",
+        "Beliebtes Ziel für Wanderer und Naturbegeisterte."
+      ]
+    },
+    {
+      "id": "assamo-cities-v2",
+      "descriptionAdvanced": "Assamo ist ein Dorf im äußersten Süden Dschibutis, direkt an der Grenze zu Äthiopien, gelegen in einer weiten und beeindruckenden Savannenlandschaft. Die Region ist bekannt für ihre reiche Tierwelt, insbesondere als Heimat zahlreicher Gazellen- und Antilopenarten. Assamo dient als wichtiger Kontrollpunkt für den regionalen Grenzverkehr und als Zentrum für den lokalen Handel zwischen den Gemeinschaften beiderseits der Grenze. Die traditionellen Siedlungsstrukturen der nomadischen Hirten prägen das Bild der Stadt und spiegeln die kulturelle Identität der Region wider. Biologie K6 — Savannen-Ökosysteme und Wildtiere.",
+      "factsAdvanced": [
+        "Liegt im äußersten Süden Dschibutis an der Grenze zu Äthiopien.",
+        "Umgeben von einer weitläufigen, ariden Savannenlandschaft.",
+        "Wichtiges Schutzgebiet für Gazellen und Antilopen.",
+        "Zentraler Punkt für den lokalen grenzüberschreitenden Handel.",
+        "Traditionelle Lebensweise der Hirtennomaden ist hier sehr präsent.",
+        "Strategischer Standort für die Grenzsicherung im Süden."
+      ]
+    },
+    {
+      "id": "goubetto-cities-v2",
+      "descriptionAdvanced": "Goubetto ist eine aufstrebende Kleinstadt in der Region Ali Sabieh, unweit der Hauptstadt Dschibuti gelegen. Ihre Bedeutung verdankt die Stadt vor allem ihrer strategischen Lage an der Haupteisenbahnstrecke nach Addis Abeba und dem Vorhandensein bedeutender Steinbrüche in der Umgebung. Goubetto ist ein wichtiger Lieferant von Baumaterialien für die massiven Infrastrukturprojekte in Dschibuti-Stadt. Die karge, aber beeindruckende Wüstenlandschaft, die den Ort umgibt, bietet weite Ausblicke und unterstreicht den industriellen Charakter der Region. Geografie K7 — Rohstoffgewinnung und Infrastruktur.",
+      "factsAdvanced": [
+        "Wichtiger Standort für Steinbrüche und Bergbau.",
+        "Hauptlieferant von Gestein und Baumaterial für die Hauptstadt.",
+        "An der zentralen Eisenbahnstrecke nach Äthiopien gelegen.",
+        "Geografisch positioniert zwischen Dschibuti-Stadt und Ali Sabieh.",
+        "Das Gelände ist von weiten, flachen Wüstenebenen geprägt.",
+        "Spielte historisch eine Rolle bei der Eisenbahnwartung."
+      ]
+    },
+    {
+      "id": "chebelle-cities-v2",
+      "descriptionAdvanced": "Chebelle ist ein ländliches Dorf in der Region Arta, das für seine Bemühungen in der Landwirtschaft unter extrem trockenen Bedingungen bekannt ist. Trotz der ariden Umgebung haben sich hier Betriebe etabliert, die sich auf die Geflügelzucht und den kleinflächigen Anbau spezialisiert haben. Das Dorf liegt strategisch günstig an der Hauptverkehrsstraße, die die Hauptstadt mit dem Süden des Landes verbindet, nahe dem Grand Bara-Becken. Chebelle ist ein Beispiel für die menschliche Widerstandsfähigkeit und Anpassung an die Herausforderungen der dschibutischen Wüste. Sachkunde K4 — Leben in trockenen Gebieten.",
+      "factsAdvanced": [
+        "Ländliches Dorf in der Region Arta, südlich der Hauptstadt.",
+        "Bekannt für spezialisierte Geflügelzuchtbetriebe.",
+        "Liegt an der wichtigen Transitstrecke in den Süden Dschibutis.",
+        "Befindet sich in unmittelbarer Nähe zum Grand Bara-Becken.",
+        "Wirtschaft basiert auf einer Mischung aus Handel und Landwirtschaft.",
+        "Wichtiger Versorgungspunkt für Reisende auf der Südroute."
+      ]
+    },
+    {
+      "id": "sankal-cities-v2",
+      "descriptionAdvanced": "Sankal ist ein kleiner, aber wichtiger Ort im Dikhil-Bezirk, der als zentraler Treffpunkt für nomadische Hirten in der südlichen Wüste Dschibutis dient. Inmitten einer flachen und weiten Savannenlandschaft gelegen, bietet Sankal lebenswichtige Wasserbrunnen, die für das Überleben der Viehherden in dieser trockenen Region unerlässlich sind. Die Siedlung grenzt an weitgehend unberührte Naturgebiete und markiert einen wichtigen Punkt in den Wanderrouten der lokalen Gemeinschaften. Die Stille und die Weite der Landschaft prägen den Charakter dieses abgelegenen Außenpostens. Geografie K5 — Wasserressourcen in der Wüste.",
+      "factsAdvanced": [
+        "Zentraler Treffpunkt für Nomaden im Dikhil-Bezirk.",
+        "Verfügt über lebenswichtige Wasserbrunnen für das Vieh.",
+        "Umgeben von einer weitläufigen, flachen Savanne.",
+        "Liegt in einer strategisch wichtigen Zone für Wanderhirten.",
+        "Grenzt an ökologisch sensible und unberührte Naturräume.",
+        "Traditionelle nomadische Kultur ist hier tief verwurzelt."
+      ]
+    },
+    {
+      "id": "bondara-cities-v2",
+      "descriptionAdvanced": "Bondara ist eine ländliche Gemeinde im Westen Dschibutis, die tief in der traditionellen Lebensweise der Afar-Bevölkerung verwurzelt ist. Abgelegen von den Hauptverkehrswegen, zeichnet sich Bondara durch weite, unberührte Landschaften aus, die ideal für die großflächige Kamelzucht geeignet sind. Die sozialen Strukturen werden hier noch stark von traditionellen Stammesrechten und Bräuchen bestimmt. Bondara bietet einen authentischen Einblick in das Leben abseits der modernen urbanen Zentren und zeigt die tiefe Verbundenheit der Menschen mit ihrem Land. Sozialkunde K7 — Traditionelle Kulturen und Lebensweisen.",
+      "factsAdvanced": [
+        "Traditionelle Siedlung der Afar im Westen Dschibutis.",
+        "Zentrum für die großflächige Kamelzucht der Region.",
+        "Starke Prägung durch traditionelle Stammesstrukturen.",
+        "Geografisch isoliert von den Haupttransitwegen.",
+        "Bietet weite, unberührte Wüsten- und Steppenlandschaften.",
+        "Wirtschaft basiert fast vollständig auf der Pastoralwirtschaft."
+      ]
+    },
+    {
+      "id": "adailou-cities-v2",
+      "descriptionAdvanced": "Adailou ist ein geschichtsträchtiger Ort im Herzen des Goda-Gebirges, eingebettet in eine für dschibutische Verhältnisse dichte Vegetation und angenehm kühle Berghöhen. Das Dorf gilt als bedeutendes kulturelles Zentrum für die Afar-Gemeinschaft und ist bekannt für den Erhalt traditioneller Handwerkskunst und lokaler Bräuche. In der Nähe von Adailou befinden sich mehrere Stätten, die den Bewohnern heilig sind, was dem Ort eine besondere spirituelle Bedeutung verleiht. Die Kombination aus natürlicher Schönheit und kulturellem Erbe macht Adailou zu einem einzigartigen Punkt auf der Landkarte Dschibutis. Geschichte K8 — Kulturelles Erbe und Tradition.",
+      "factsAdvanced": [
+        "Kulturelles Zentrum der Afar im Goda-Gebirge.",
+        "Bekannt für die Bewahrung traditioneller Handwerkstechniken.",
+        "Liegt in einer der vegetationsreichsten Zonen des Landes.",
+        "Die Höhenlage sorgt für ein ganzjährig mildes Klima.",
+        "Heimat bedeutender spiritueller und heiliger Stätten.",
+        "Wichtiger Ort für die mündliche Überlieferung der Geschichte."
+      ]
+    },
+    {
+      "id": "daoudaouya-cities-v2",
+      "descriptionAdvanced": "Daoudaouya ist ein rasant wachsender Vorort von Dschibuti-Stadt, der die dynamische Expansion der Hauptstadt in den letzten Jahren widerspiegelt. Ursprünglich eine kleine Siedlung, hat sich der Ort zu einem wichtigen Wohngebiet für Pendler entwickelt, die in den Häfen oder in der Verwaltung der Hauptstadt arbeiten. Die Entwicklung von Daoudaouya geht einher mit modernen Infrastrukturprojekten und neuen Wohnsiedlungen, die den steigenden Bedarf an Wohnraum decken. Trotz der Modernisierung bewahrt der Ort noch immer Verbindungen zu seinen ländlichen Wurzeln. Geografie K7 — Urbanisierung und Vorstadtentwicklung.",
+      "factsAdvanced": [
+        "Schnell wachsendes Wohngebiet am Rande der Hauptstadt.",
+        "Spiegelt den Bauboom und die Urbanisierung Dschibutis wider.",
+        "Hervorragende Anbindung an das Stadtzentrum von Dschibuti.",
+        "Zentrum moderner staatlicher Wohnungsbauprogramme.",
+        "Wichtiger Standort für die wachsende Mittelschicht.",
+        "Infrastruktur wurde in den letzten Jahren massiv ausgebaut."
+      ]
+    },
+    {
+      "id": "doumera-cities-v2",
+      "descriptionAdvanced": "Doumera ist ein strategisch hochsensibler Grenzort am nördlichsten Punkt Dschibutis, direkt an der Küste des Roten Meeres gelegen. Der Ort markiert den Grenzpunkt zu Eritrea und bietet einen weiten Blick auf die Doumera-Insel, die in der Vergangenheit Gegenstand von Gebietsstreitigkeiten war. Aufgrund seiner Lage an der Straße von Bab al-Mandab ist Doumera von großer militärischer und geopolitischer Bedeutung für die Sicherheit des maritimen Verkehrs. Die Landschaft ist karg und von vulkanischem Gestein geprägt, was die strategische Isolation dieses Außenpostens unterstreicht. Geschichte K8 — Grenzkonflikte und Geopolitik.",
+      "factsAdvanced": [
+        "Nördlichster bewohnter Punkt der Republik Dschibuti.",
+        "Direkter Grenzposten zum Nachbarstaat Eritrea.",
+        "Strategisch wichtige Lage am Roten Meer.",
+        "Blick auf die politisch umstrittene Doumera-Insel.",
+        "Hohe militärische Präsenz zur Sicherung der Grenze.",
+        "Karges, vulkanisches Gelände prägt die Umgebung."
+      ]
+    },
+    {
+      "id": "godoria-cities-v2",
+      "descriptionAdvanced": "Godoria ist ein idyllisches Küstendorf nördlich von Obock, das vor allem für seine unberührte Natur und seine außergewöhnlichen Mangrovenwälder bekannt ist. Die umliegenden Gewässer beherbergen einige der am besten erhaltenen Korallenriffe Dschibutis, was Godoria zu einem Geheimtipp für Taucher und Schnorchler macht. Die lokale Bevölkerung lebt weitgehend vom traditionellen Fischfang und bewahrt eine enge Verbindung zum Meer. Das Dorf bietet eine ruhige Atmosphäre und ist ein wichtiger Forschungsort für marine Ökosysteme am Horn von Afrika. Biologie K8 — Marine Schutzgebiete und Korallenriffe.",
+      "factsAdvanced": [
+        "Bekannt für gut erhaltene Mangroven-Ökosysteme.",
+        "Heimat prachtvoller und unberührter Korallenriffe.",
+        "Wichtiger Ort für traditionelle Fischereimethoden.",
+        "Geheimtipp für den ökologischen Tauchtourismus.",
+        "Beheimatet eine reiche Vielfalt an mariner Flora und Fauna.",
+        "Liegt abgeschieden an der nördlichen Küste der Region Obock."
+      ]
+    },
+    {
+      "id": "kouta-bouyya-cities-v2",
+      "descriptionAdvanced": "Kouta Bouyya ist ein Gebirgsort im Zentrum der Region Tadjourah, der von spektakulären und schroffen vulkanischen Bergketten umgeben ist. Die Stadt dient als wichtiger regionaler Handelsplatz, insbesondere für den Austausch von Vieh zwischen den Berggemeinschaften und den Händlern aus der Küstenebene. Von den Höhenlagen aus bietet sich ein beeindruckender Panoramablick auf die umliegenden Ebenen und Täler. Kouta Bouyya liegt an alten Karawanenwegen, die historisch das Landesinnere mit dem Golf von Tadjoura verbanden, und bewahrt so seine Rolle als wichtiges Bindeglied im Norden. Geografie K7 — Gebirgshandel und Karawanenrouten.",
+      "factsAdvanced": [
+        "Hochgelegene Siedlung inmitten vulkanischer Bergketten.",
+        "Zentraler Handelsplatz für Vieh in der Region Tadjourah.",
+        "Bietet weite Panoramablicke über die dschibutische Landschaft.",
+        "Liegt an historisch bedeutsamen Karawanenpfaden.",
+        "Wichtiger Treffpunkt für nomadische Afar-Gemeinschaften.",
+        "Strategischer Standort für die Überwachung der Bergrouten."
+      ]
+    }
+  ]
+}

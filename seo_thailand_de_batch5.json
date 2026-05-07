@@ -1,0 +1,295 @@
+{
+  "lang": "de",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "king-narai-palace-lopburi-landmarks-v2",
+      "descriptionAdvanced": "Der Phra Narai Ratchaniwet in Lopburi ist ein prachtvoller Palastkomplex, der im 17. Jahrhundert von König Narai dem Grossen als zweite Residenz neben Ayutthaya erbaut wurde. Das Besondere an dieser Anlage ist die einzigartige Architektur, die thailändische Bauweise mit europäischen Einflüssen verbindet, was auf die engen diplomatischen Beziehungen Narais zum französischen Hof von Ludwig XIV. zurückzuführen ist. Die weitläufigen Mauern beherbergen Thronsäle, königliche Wohngebäude, Elefantenställe und riesige Wasserspeicher, die durch ein fortschrittliches röhrenbasiertes System gespeist wurden. Heute dient der Palast als Nationalmuseum und beherbergt eine wertvolle Sammlung von Kunstgegenständen und archäologischen Funden aus der Region. Besucher können durch die imposanten Tore schreiten und die Atmosphäre eines der fortschrittlichsten königlichen Zentren des alten Siam nachempfinden. Besonders während des jährlichen King Narai Festivals verwandelt sich der Palast in eine lebendige Bühne, auf der die Geschichte Lopburis in prächtigen Kostümen gefeiert wird.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1666 durch König Narai den Grossen.",
+        "Verbindet thailändische, persische und europäische Architekturstile.",
+        "Diente als Ausweichhauptstadt, falls Ayutthaya bedroht war.",
+        "Beherbergt das Somdet Phra Narai National Museum.",
+        "Bekannt für die hohen Mauern mit hunderten von Lampennischen.",
+        "Verfügte über eines der ersten komplexen Wasserleitungssysteme Siams.",
+        "Ort wichtiger diplomatischer Empfänge europäischer Gesandter.",
+        "Liegt im Zentrum von Lopburi, umgeben von Khmer-Ruinen."
+      ]
+    },
+    {
+      "id": "golden-buddha-wat-traimit-landmarks-v2",
+      "descriptionAdvanced": "Der Goldene Buddha im Wat Traimit, offiziell bekannt als Phra Phuttha Maha Suwanna Patimakon, ist die grösste Statue aus reinem Gold weltweit und ein spektakuläres Zeugnis thailändischer Religionskunst. Die Statue ist etwa drei Meter hoch und wiegt beeindruckende 5,5 Tonnen, wobei der Goldgehalt auf über 18 Karat geschätzt wird. Die Geschichte ihrer Entdeckung ist legendär: Jahrhundertelang war das Gold unter einer dicken Schicht aus Gips verborgen, vermutlich um es vor birmanischen Invasoren zu schützen. Erst bei einem Transportunfall im Jahr 1955 platzte der Gips auf und gab den Blick auf das strahlende Gold frei. Heute thront der Buddha in einem prächtigen neuen Marmorgebäude im Herzen von Bangkoks Chinatown. Das angeschlossene Museum dokumentiert die faszinierende Geschichte der Statue und die Entwicklung des chinesischen Viertels. Der Goldene Buddha ist ein Ort von immenser spiritueller Kraft und ein absolutes Highlight für jeden Besucher der thailändischen Hauptstadt.",
+      "factsAdvanced": [
+        "Grösste Statue aus massivem Gold weltweit (Gewicht: 5,5 Tonnen).",
+        "Goldwert wird auf weit über 200 Millionen US-Dollar geschätzt.",
+        "Stammt vermutlich aus der Sukhothai-Periode (13.-14. Jahrhundert).",
+        "Wurde 1955 zufällig unter einer Gipsschicht entdeckt.",
+        "Befindet sich im Wat Traimit am Rande von Chinatown, Bangkok.",
+        "Besteht aus neun Teilen, die kunstvoll zusammengefügt sind.",
+        "Der Buddha wird in der Mara-Vichaya-Pose (Sieg über Mara) dargestellt.",
+        "Beherbergt ein modernes interaktives Museum zur Geschichte des Tempels."
+      ]
+    },
+    {
+      "id": "wat-saket-golden-mount-landmarks-v2",
+      "descriptionAdvanced": "Der Wat Saket, bekannt für seinen 'Golden Mount' (Phu Khao Thong), ist einer der markantesten Tempel Bangkoks und bietet einen der schönsten Ausblicke über die Altstadt. Der Tempel thront auf einem künstlich aufgeschütteten Hügel, der unter den Königen Rama III., IV. und V. errichtet wurde, nachdem ein ursprünglicher Versuch zum Bau einer riesigen Pagode gescheitert war. Um den Gipfel mit seiner goldenen Chedi zu erreichen, müssen Besucher einen spiralförmigen Pfad mit 344 Stufen erklimmen, der von Glocken, Gongs und üppigem Grün gesäumt ist. Die Chedi beherbergt heilige Reliquien Buddhas, die aus Indien stammen und dem Ort eine grosse spirituelle Bedeutung verleihen. Besonders während des jährlichen Tempelfestes im November verwandelt sich der Wat Saket in einen bunten Jahrmarkt, und der Goldene Berg wird mit roten Tüchern und tausenden Lichtern geschmückt. Oben angekommen, wird man mit einer kühlen Brise und einem spektakulären Panorama belohnt, das vom Chao Phraya Fluss bis zu den Wolkenkratzern der modernen Stadt reicht.",
+      "factsAdvanced": [
+        "Künstlicher Hügel mit einer Höhe von etwa 80 Metern.",
+        "Der spiralförmige Aufstieg umfasst 344 Stufen.",
+        "Die goldene Chedi beherbergt Reliquien Buddhas aus Indien.",
+        "Gegründet in der Ayutthaya-Periode, massgeblich erweitert unter Rama I.",
+        "Das jährliche Tempelfest im November dauert neun Tage.",
+        "Ein wichtiger Orientierungspunkt in der historischen Altstadt von Bangkok.",
+        "Wurde im 19. Jahrhundert als Begräbnisstätte für Seuchenopfer genutzt.",
+        "Bietet einen 360-Grad-Blick über die Rattanakosin-Insel."
+      ]
+    },
+    {
+      "id": "khao-chi-chan-buddha-mountain-landmarks-v2",
+      "descriptionAdvanced": "Khao Chi Chan, oft als 'Buddha Mountain' bezeichnet, ist ein monumentales Wahrzeichen in der Nähe von Pattaya, das eine riesige, in einen Kalksteinfelsen lasergravierte Buddha-Figur zeigt. Das Bildnis ist 130 Meter hoch und 70 Meter breit und wurde 1996 anlässlich des 50. Thronjubiläums von König Rama IX. geschaffen. Die Linien der Gravur wurden mit Blattgold ausgefüllt, was dem Buddha besonders im hellen Sonnenlicht ein strahlendes und majestätisches Aussehen verleiht. Ursprünglich wurde der Berg für den Bergbau genutzt, bevor er in dieses religiöse Denkmal verwandelt wurde, das heute als Ort der Besinnung und des Gebets dient. Das Areal um den Berg ist als wunderschöner Park mit Teichen, Blumenbeeten und Meditationsbereichen gestaltet. Khao Chi Chan ist ein beeindruckendes Beispiel für moderne thailändische Hingabe und technologische Präzision, die Natur und Religion in einem gigantischen Ausmass vereinen. Besucher schätzen die friedliche Atmosphäre und die erhabene Präsenz des grössten lasergravierten Buddhas der Welt.",
+      "factsAdvanced": [
+        "Grösste lasergravierte Buddha-Figur der Welt (130 m hoch).",
+        "Die Gravur ist mit 24-karätigem Blattgold ausgelegt.",
+        "Erstellt im Jahr 1996 zu Ehren von König Bhumibol Adulyadej.",
+        "Dargestellt ist der Buddha in der Pose 'Sukhothai Lanchakore'.",
+        "Liegt etwa 15 Kilometer südlich von Pattaya in der Provinz Chonburi.",
+        "Der ursprüngliche Berg war eine Mine für das thailändische Militär.",
+        "Umgeben von malerischen Gärten und Meditationspavillons.",
+        "Ein wichtiges spirituelles Zentrum für die lokale Gemeinschaft."
+      ]
+    },
+    {
+      "id": "wat-tham-pha-dan-landmarks-v2",
+      "descriptionAdvanced": "Der Wat Tham Pha Dan ist ein spektakulärer Bergtempel in der Provinz Sakon Nakhon, der für seine kunstvollen Felsritzungen und seine atemberaubende Lage bekannt ist. Der Tempel liegt auf einem hohen Kalksteinplateau im Phu Phan Gebirge und bietet einen weiten Blick über die Ebenen des Isan. Einzigartig sind die riesigen Felsblöcke, die mit filigranen Reliefs verziert sind, die Szenen aus dem Leben Buddhas und der hinduistischen Mythologie darstellen. Ein besonderes Highlight ist die goldene Pagode, die auf einem balancierenden Felsen thront, ähnlich dem berühmten Goldenen Fels in Myanmar. Die Anlage ist wunderschön in den natürlichen Wald integriert und verfügt über gepflegte Gärten mit exotischen Pflanzen und Wasserfällen. Der Wat Tham Pha Dan hat sich zu einem bedeutenden Zentrum für den Tourismus in Nordostthailand entwickelt und zieht Besucher an, die sowohl die künstlerische Meisterschaft der Steinschnitzer als auch die spirituelle Ruhe in den Bergen suchen. Die Kombination aus Natur, Kunst und Religion macht diesen Ort zu einem Juwel der Isan-Region.",
+      "factsAdvanced": [
+        "Liegt auf dem Gipfel des Phu Phan Gebirges in Sakon Nakhon.",
+        "Berühmt für monumentale Reliefs, die direkt in den Fels gehauen wurden.",
+        "Beherbergt eine goldene Pagode auf einem massiven, freistehenden Felsblock.",
+        "Die Anlage ist bekannt für ihre prächtige Gartenarchitektur.",
+        "Bietet einen Panoramablick über die Provinz und den Nong Han See.",
+        "Wichtiger Standort für religiöse Praktiken der Waldtradition-Mönche.",
+        "Die Schnitzereien zeigen unter anderem den liegenden Buddha und Indra.",
+        "Ein beliebtes Ziel für Fotografie und spirituelle Ausflüge."
+      ]
+    },
+    {
+      "id": "sea-life-bangkok-ocean-world-life-v2",
+      "descriptionAdvanced": "Sea Life Bangkok Ocean World ist das grösste Aquarium Südostasiens und bietet ein faszinierendes Unterwasserabenteuer mitten im Herzen von Bangkok. Es befindet sich in den Untergeschossen des Siam Paragon Einkaufszentrums und beherbergt über 30.000 Meeresbewohner aus hunderten von Arten. Besucher können durch einen spektakulären 270-Grad-Glastunnel spazieren, während Haie, Rochen und Schwärme bunter Fische über ihren Köpfen dahingleiten. Das Aquarium ist in verschiedene Themenbereiche unterteilt, von den geheimnisvollen Tiefseezonen bis hin zu lebhaften Korallenriffen und einem Pinguin-Gehege. Neben der reinen Beobachtung bietet Sea Life interaktive Erlebnisse wie Fahrten mit dem Glasbodenboot, Fütterungen und für Mutige sogar das Tauchen mit Haien. Als Zentrum für Bildung und Artenschutz spielt Sea Life eine wichtige Rolle bei der Sensibilisierung der Öffentlichkeit für die Bedrohungen der Ozeane. Es ist ein ideales Ziel für Familien und alle, die die Wunder der Meere hautnah erleben möchten, ohne die Grossstadt zu verlassen.",
+      "factsAdvanced": [
+        "Grösstes Aquarium in Südostasien auf einer Fläche von 10.000 m².",
+        "Beherbergt über 400 verschiedene Arten von Meereslebewesen.",
+        "Verfügt über einen 270-Grad-Glastunnel durch das Hauptbecken.",
+        "Liegt im Untergeschoss der Siam Paragon Shopping Mall.",
+        "Bietet Erlebnisse wie 'Diving with Sharks' und 'Ocean Walker'.",
+        "Enthält eine spezielle Pinguin-Eiswelt für Eselspinguine.",
+        "Wichtiger Partner für internationale Korallenschutz-Projekte.",
+        "Interaktive Ausstellungen zum Thema Meeresökologie für Kinder."
+      ]
+    },
+    {
+      "id": "samphran-elephant-ground-zoo-life-v2",
+      "descriptionAdvanced": "Samphran Elephant Ground & Zoo, westlich von Bangkok gelegen, ist eine bekannte Attraktion, die für ihre spektakulären Shows und die enge Verbindung zur thailändischen Elefantenkultur berühmt ist. Die Hauptattraktion ist das 'Elephant Theme Show', bei dem Elefanten ihre Geschicklichkeit, Kraft und Intelligenz unter Beweis stellen, einschliesslich historischer Kriegsszenen mit Elefantenkavallerie. Ein weiteres Highlight ist der Krokodil-Zoo mit atemberaubenden Shows, bei denen Trainer Kopf und Arme in die Mäuler der Reptilien stecken. Der Park beherbergt zudem eine Vielzahl anderer Tiere und ist in einen weitläufigen Garten mit Wasserfällen und Orchideen eingebettet. Samphran spielt eine wichtige Rolle in der lokalen Tourismuswirtschaft und dient als Ort, an dem Besucher die historische Bedeutung des Elefanten für Thailand kennenlernen können. Trotz der Kritik an Tiervorführungen bemüht sich der Park um hohe Standards bei der Tierpflege und bietet Einblicke in die Zuchtprogramme. Es ist ein beliebtes Ziel für Familienausflüge, das Unterhaltung mit kulturellen Traditionen verknüpft.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1986 in der Provinz Nakhon Pathom.",
+        "Weltberühmt für die Elefanten-Schlacht-Aufführungen.",
+        "Beherbergt einen der grössten Krokodilbestände Thailands.",
+        "Die Shows zeigen traditionelle thailändische Zeremonien und Tänze.",
+        "Umfasst eine Fläche von etwa 60 Rai (ca. 10 Hektar).",
+        "Zentrum für die Zucht von Süsswasserkrokodilen.",
+        "Bietet Elefantenreiten durch tropische Gartenanlagen an.",
+        "Ein wichtiger Bildungsort für thailändische Schulklassen."
+      ]
+    },
+    {
+      "id": "pattaya-sheep-farm-life-v2",
+      "descriptionAdvanced": "Die Pattaya Sheep Farm ist die grösste Schafsfarm Thailands und ein äusserst beliebtes Ausflugsziel für Familien in der Nähe des bekannten Küstenortes. Im Gegensatz zum hektischen Strandleben bietet die Farm eine idyllische, ländlich geprägte Atmosphäre, in der Besucher zahme Schafe, Alpakas und andere Bauernhoftiere füttern und streicheln können. Der Park ist im charmanten europäischen Landhausstil gestaltet, mit Windmühlen, bunten Scheunen und zahlreichen liebevoll gestalteten Fotomotiven, die ihn zu einem Paradies für Instagram-Liebhaber machen. Neben dem Streichelzoo gibt es einen Bereich mit Märchenfiguren, Reitmöglichkeiten für Kinder und ein Restaurant, das lokale Spezialitäten serviert. Die Farm bietet ein sicheres und unterhaltsames Umfeld für Kinder, um Tieren nahe zu kommen und Zeit im Freien zu verbringen. Die Pattaya Sheep Farm ist ein Beispiel für den Trend zum Agrotourismus in Thailand, der Entspannung auf dem Land mit modernen Freizeitangeboten kombiniert.",
+      "factsAdvanced": [
+        "Grösste Schafsfarm in Thailand, eröffnet im Jahr 2013.",
+        "Bietet Interaktionen mit Schafen, Alpakas, Ponys und Schweinen.",
+        "Architekturstil erinnert an einen europäischen Bauernhof.",
+        "Enthält den 'Fairytale Town' Bereich mit Märchenkulissen.",
+        "Beliebtes Ziel für Familien und Hobbyfotografen.",
+        "Liegt etwa 15 Kilometer ausserhalb des Stadtzentrums von Pattaya.",
+        "Verfügt über ein grosses Steakhaus und Cafés auf dem Gelände.",
+        "Regelmässige Tiershows und Aktivitäten für Kinder."
+      ]
+    },
+    {
+      "id": "chatuchak-park-life-v2",
+      "descriptionAdvanced": "Der Chatuchak Park ist eine der ältesten und beliebtesten grünen Oasen Bangkoks und bietet einen wichtigen Erholungsraum für die Bewohner der Metropole. Er liegt im Norden der Stadt, direkt neben dem berühmten Wochenendmarkt, und ist Teil eines grösseren Parkkomplexes, zu dem auch der Queen Sirikit Park und der Wachirabenchathat Park gehören. Der Park zeichnet sich durch seine weiten Rasenflächen, schattigen Alleen und einen grossen künstlichen See aus, auf dem man Tretboot fahren kann. Ein besonderes Merkmal sind die zahlreichen Brücken, die den See überqueren, und die markante Sonnenuhr, die als Treffpunkt dient. Chatuchak Park ist ein Zentrum für körperliche Ertüchtigung, wo Menschen joggen, Tai Chi praktizieren oder einfach im Schatten der Bäume picknicken. Die gute Erreichbarkeit durch MRT und BTS macht ihn zu einem der am stärksten frequentierten Parks der Stadt. Für viele Pendler und Marktbesucher ist er ein friedlicher Rückzugsort, um der Hitze und dem Lärm des Stadtlebens für einen Moment zu entfliehen.",
+      "factsAdvanced": [
+        "Einer der ältesten öffentlichen Parks Bangkoks, eröffnet 1980.",
+        "Umfasst eine Fläche von etwa 30 Hektar (190 Rai).",
+        "Wichtiger Knotenpunkt zwischen BTS Skytrain (Mo Chit) und MRT Subway.",
+        "Beherbergt ein Eisenbahnmuseum am Rande des Parks.",
+        "Teil des grössten zusammenhängenden Parksystems der Hauptstadt.",
+        "Bekannt für den grossen See mit Bootsverleih.",
+        "Ein beliebter Ort für kostenlose Open-Air-Aerobic-Kurse am Abend.",
+        "Geprägt von zahlreichen tropischen Pflanzen und Blumenbeeten."
+      ]
+    },
+    {
+      "id": "the-blooms-orchid-park-life-v2",
+      "descriptionAdvanced": "The Blooms Orchid Park in der Provinz Ratchaburi ist ein Paradies für Blumenliebhaber und eines der bedeutendsten Zentren für Orchideenzucht in Thailand. Auf einem weitläufigen Areal werden tausende von Orchideenarten in einer natürlichen Dschungelatmosphäre präsentiert, von den klassischen Dendrobien bis hin zu seltenen Hybridformen. Der Park ist so gestaltet, dass Besucher durch schattige Pfade unter riesigen Bäumen wandern können, während die bunten Blüten von den Ästen hängen oder in kunstvollen Beeten arrangiert sind. Neben der prachtvollen Flora beherbergt der Park auch eine kleine Schafsfarm und bietet Einblicke in die landwirtschaftliche Produktion von Orchideen, die ein wichtiger Exportartikel für Thailand sind. Die friedliche Atmosphäre mit Wasserfällen und Teichen lädt zum Entspannen und Fotografieren ein. The Blooms Orchid Park ist ein hervorragendes Ziel für einen Tagesausflug von Bangkok aus und zeigt die Schönheit und Vielfalt der thailändischen Gartenkunst auf höchstem Niveau.",
+      "factsAdvanced": [
+        "Liegt in der Provinz Ratchaburi, ca. 1,5 Stunden von Bangkok entfernt.",
+        "Spezialisiert auf die Zucht und Präsentation von Orchideen (v.a. Dendrobium).",
+        "Der Park ist ganzjährig in voller Blüte zu besichtigen.",
+        "Umfasst eine Fläche von über 30 Rai (ca. 5 Hektar).",
+        "Verfügt über einen Bereich für den Verkauf von Jungpflanzen.",
+        "Inklusive kleiner Tierfarm und Spielbereichen für Kinder.",
+        "Wichtiger Standort für die thailändische Orchideenexport-Industrie.",
+        "Beliebtes Ziel für Makrofotografen und Naturfreunde."
+      ]
+    },
+    {
+      "id": "krabi-elephant-sanctuary-life-v2",
+      "descriptionAdvanced": "Das Krabi Elephant Sanctuary ist eine ethische Zufluchtsstätte für pensionierte Arbeitselefanten und ein Vorreiter für nachhaltigen Tiertourismus im Süden Thailands. Hier haben Elefanten, die früher in der Holzindustrie oder für touristische Ritte eingesetzt wurden, die Möglichkeit, ihren Lebensabend in einer natürlichen Umgebung zu verbringen. Im Gegensatz zu traditionellen Elefantencamps gibt es hier keine Shows oder Ritte; stattdessen können Besucher die sanften Riesen bei ihren täglichen Aktivitäten beobachten, sie füttern und ihnen beim Schlammbad im Fluss zusehen. Das Ziel des Sanctuarys ist es, Bewusstsein für den Schutz der asiatischen Elefanten zu schaffen und ein Leben ohne Ketten und Zwang zu ermöglichen. Die Begegnungen sind respektvoll und lehrreich, wobei fachkundige Guides Informationen über die Geschichte und das Verhalten der Tiere geben. Ein Besuch im Krabi Elephant Sanctuary ist eine herzerwärmende Erfahrung, die zeigt, wie Mensch und Tier in Harmonie leben können, während gleichzeitig die lokale Gemeinschaft unterstützt wird.",
+      "factsAdvanced": [
+        "Erstes ethisches Elefanten-Schutzprojekt in der Provinz Krabi.",
+        "Bietet Zuflucht für Elefanten aus der Forstwirtschaft und dem Tourismus.",
+        "Keine Ketten, kein Reiten und keine Elefanten-Shows.",
+        "Besucher nehmen an Aktivitäten wie Futterzubereitung und Schlammbädern teil.",
+        "Fokus auf Bildung und Aufklärung über das Wohlbefinden von Elefanten.",
+        "Wird von Experten für Tierethik und Tierschutz unterstützt.",
+        "Liegt in einem üppigen tropischen Dschungelgelände.",
+        "Unterstützt lokale Farmer durch den Kauf von Ananas und Bananen als Futter."
+      ]
+    },
+    {
+      "id": "pororo-aquapark-bangkok-life-v2",
+      "descriptionAdvanced": "Der Pororo Aquapark in Bangkok ist ein einzigartiger Wasserpark, der sich spektakulär auf dem Dach des Central Plaza Bangna Einkaufszentrums befindet. Er ist dem beliebten koreanischen Zeichentrickcharakter 'Pororo der kleine Pinguin' gewidmet und bietet auf über 10.000 Quadratmetern eine bunte Welt voller Wasserspass für Familien. Der Park verfügt über zahlreiche Rutschen, einen Lazy River und verschiedene Spielbecken, die alle thematisch auf die Abenteuer von Pororo und seinen Freunden abgestimmt sind. Die Lage in grosser Höhe bietet zudem einen ungewöhnlichen Blick auf die Skyline von Bangna. Besonders für Familien mit jüngeren Kindern ist der Park ein ideales Ziel, da die Attraktionen sicher und altersgerecht gestaltet sind. Der Pororo Aquapark ist ein Paradebeispiel für die kreative Nutzung von Raum in der thailändischen Metropole und verbindet Einkaufsvergnügen mit aktivem Freizeitspaß. Die moderne Infrastruktur und die Einhaltung internationaler Sicherheitsstandards machen ihn zu einem der beliebtesten Dachterrassen-Wasserparks der Stadt.",
+      "factsAdvanced": [
+        "Weltweit erster Pororo-Themen-Wasserpark auf einem Hoteldach.",
+        "Befindet sich im 6. Stock des Central Plaza Bangna Einkaufszentrums.",
+        "Umfasst eine Fläche von mehr als 10.000 Quadratmetern.",
+        "Verfügt über 4 preisgekrönte Wasserrutschen und einen 400 m langen Lazy River.",
+        "Spezialisiert auf Familien mit Kindern im Alter von 3 bis 12 Jahren.",
+        "Thematisiert die Charaktere der beliebten Kinderserie 'Pororo the Little Penguin'.",
+        "Bietet professionelle Rettungsschwimmer und moderne Wasserfilteranlagen.",
+        "Einzigartige Kombination aus Shopping-Mall und Wasserfreizeitpark."
+      ]
+    },
+    {
+      "id": "chom-rom-bua-sakon-nakhon-life-v2",
+      "descriptionAdvanced": "Chom Rom Bua in Sakon Nakhon ist der grösste Lotus-Park Thailands und ein bedeutendes Zentrum für die Erhaltung und Erforschung der vielfältigen Lotus- und Seerosenarten des Landes. Der Park liegt am Ufer des Nong Han Sees und bietet eine malerische Kulisse mit hunderte von Teichen, in denen Lotusblüten in den unterschiedlichsten Farben und Formen blühen. Besucher können über Holzstege wandern, die über die Teiche führen, und die friedliche Schönheit der Blumen bewundern, die im Buddhismus eine tiefe symbolische Bedeutung für Reinheit und Erleuchtung haben. Ein Highlight ist der 'Red Lotus' Bereich, der besonders am frühen Morgen in voller Pracht erstrahlt. Der Park dient nicht nur als touristisches Highlight, sondern auch als Bildungszentrum der Kasetsart Universität, wo Techniken zur Lotus-Zucht und -Verarbeitung gelehrt werden. Chom Rom Bua ist ein Ort der Stille und Ästhetik, der die tiefe Verbundenheit der thailändischen Kultur mit der Natur widerspiegelt und besonders für Naturfotografen ein wahres Paradies ist.",
+      "factsAdvanced": [
+        "Grösster Lotus-Forschungspark in Thailand.",
+        "Gehört zur Kasetsart University, Chalermphrakiat Sakon Nakhon Province Campus.",
+        "Beherbergt über 100 verschiedene Lotus- und Seerosenarten.",
+        "Liegt unweit des Nong Han Sees, Thailands grösstem natürlichen See.",
+        "Die beste Besuchszeit ist der frühe Morgen (6:00 - 9:00 Uhr).",
+        "Verfügt über kilometerlange Holzstege durch die Lotusbecken.",
+        "Wichtiger Ort für wissenschaftliche Studien zur Wasserreinigung durch Pflanzen.",
+        "Bekannt für die seltenen riesigen Victoria-Seerosen (Riesen-Wasserlilien)."
+      ]
+    },
+    {
+      "id": "benchasiri-park-life-v2",
+      "descriptionAdvanced": "Der Benchasiri Park ist eine grüne Lunge im Herzen des modernen Bangkoks, direkt an der Sukhumvit Road neben dem Emporium Einkaufszentrum gelegen. Der Park wurde 1992 anlässlich des 60. Geburtstages von Königin Sirikit angelegt und wird oft als 'Park der Skulpturen' bezeichnet, da er zahlreiche zeitgenössische Kunstwerke thailändischer Künstler beherbergt. Im Zentrum des Parks befindet sich ein grosser künstlicher See mit einem spektakulären Springbrunnen, der abends zu Musik tanzt. Benchasiri ist ein lebendiger Treffpunkt für Einheimische und Expats gleichermaßen, die hier joggen, Skateboard fahren, Basketball spielen oder in den frühen Morgenstunden Tai Chi praktizieren. Der Park bietet zudem ausgezeichnete Spielplätze für Kinder und schattige Bänke unter alten Bäumen zum Entspannen. Trotz der umliegenden Hochhäuser und des hektischen Verkehrs strahlt der Park eine angenehme Ruhe aus und ist ein perfektes Beispiel für moderne urbane Lebensqualität in Thailand. Die direkte Anbindung an die BTS-Station Phrom Phong macht ihn zu einem der am einfachsten zu erreichenden Parks der Stadt.",
+      "factsAdvanced": [
+        "Eröffnet im Jahr 1992 zu Ehren von Königin Sirikit.",
+        "Wird wegen seiner zahlreichen Statuen als 'Sculpture Park' bezeichnet.",
+        "Liegt direkt an der Sukhumvit Road, neben der BTS Phrom Phong.",
+        "Bietet Sportanlagen für Basketball, Volleyball und Skaten.",
+        "Beherbergt einen grossen Springbrunnen mit Musik- und Lichtshows.",
+        "Umfasst eine Fläche von etwa 11,6 Rai (ca. 4,5 Hektar).",
+        "Ein beliebter Ort für Festivals und Kunstausstellungen im Freien.",
+        "Oase für Vögel und kleine Wildtiere inmitten der Wolkenkratzer."
+      ]
+    },
+    {
+      "id": "phu-phra-bat-historical-park-wildlife-v2",
+      "descriptionAdvanced": "Der Geschichtspark Phu Phra Bat in der Provinz Udon Thani ist ein Ort von mystischer Schönheit, an dem Naturgeschichte und prähistorische Kultur auf faszinierende Weise verschmelzen. Der Park liegt in den Phu Phan Bergen und ist berühmt für seine bizarren Sandsteinformationen, die über Millionen von Jahren durch Erosion entstanden sind und an riesige Pilze oder Schirme erinnern. Diese natürlichen Strukturen wurden von Menschen über Jahrtausende hinweg als Heiligtümer und Wohnstätten genutzt, was durch prähistorische Felsmalereien und in den Stein gehauene Buddha-Statuen belegt wird. Der Park erzählt Legenden der lokalen Folklore, wie die Geschichte von 'Nang Usa', einer Prinzessin, die in einem der Felsentürme gefangen gehalten wurde. Neben den archäologischen Schätzen bietet Phu Phra Bat eine unberührte Natur mit dichten Wäldern, die Heimat für verschiedene Vogelarten und Kleintiere sind. Als Teil der Tentativliste für das UNESCO-Weltkulturerbe ist der Park ein bedeutendes Zeugnis für die frühe Besiedlung und die spirituellen Traditionen im Nordosten Thailands.",
+      "factsAdvanced": [
+        "Bekannt für bizarre Sandsteinformationen aus der prähistorischen Zeit.",
+        "Beherbergt Felsmalereien, die auf ein Alter von 2.000 bis 3.000 Jahren geschätzt werden.",
+        "Liegt im Distrikt Ban Phue, Provinz Udon Thani.",
+        "Die Formation 'Hor Nang Usa' ist das bekannteste Wahrzeichen des Parks.",
+        "Zeigt Einflüsse der Dvaravati-, Khmer- und Lan-Xang-Kulturen.",
+        "Umfasst eine Fläche von etwa 4.800 Rai (ca. 7,7 km²).",
+        "Wichtiger Ort für die Erforschung prähistorischer Kunst in Südostasien.",
+        "Auf der vorläufigen Liste zum UNESCO-Weltkulturerbe."
+      ]
+    },
+    {
+      "id": "siam-amazing-park-life-v2",
+      "descriptionAdvanced": "Siam Amazing Park, früher bekannt als Siam Park City, ist der älteste und grösste Wasser- und Freizeitpark Thailands, gelegen am östlichen Stadtrand von Bangkok. Er ist berühmt für seinen riesigen Wasserpark, der laut Guinness-Buch der Rekorde das grösste Wellenbecken der Welt beherbergt. Neben den zahlreichen Rutschen und Wasserattraktionen bietet der Park eine weitläufige 'Amusement Park' Sektion mit aufregenden Achterbahnen, Familienkarussells und Themenbereichen wie dem 'Jurassic Adventure'. Ein markantes Wahrzeichen ist der bunte Aussichtsturm, von dem man einen weiten Blick über das Gelände und den Osten Bangkoks hat. Der Park wurde in den 1980er Jahren gegründet und ist seit Generationen ein fester Bestandteil der Freizeitgestaltung für thailändische Familien. In den letzten Jahren wurde der Park modernisiert und um den Bereich 'Bangkok World' erweitert, der ikonische Gebäude der Hauptstadt im Miniaturformat zeigt. Siam Amazing Park bietet einen ganzen Tag voller Unterhaltung und ist ein wichtiger Wirtschaftsfaktor für die lokale Tourismus- und Dienstleistungsbranche.",
+      "factsAdvanced": [
+        "Grösster Wasser- und Vergnügungspark Thailands.",
+        "Hält den Guinness-Weltrekord für das grösste Wellenbad der Welt.",
+        "Eröffnet im Jahr 1980 im Bezirk Khan Na Yao, Bangkok.",
+        "Umfasst fünf Hauptbereiche: Water Park, X-Zone, Family World, Fantasy World und Small World.",
+        "Achterbahnen wie 'Vortex' gehören zu den grössten der Region.",
+        "Verfügt über einen 100 Meter hohen Aussichtsturm (Si-Am Tower).",
+        "Bietet Bildungsprogramme wie die 'Adventure Land' Tour für Schulen.",
+        "Austragungsort für grosse Konzerte und kulturelle Veranstaltungen."
+      ]
+    },
+    {
+      "id": "singha-park-chiang-rai-agriculture-v2",
+      "descriptionAdvanced": "Der Singha Park in Chiang Rai ist eine beeindruckende Kombination aus landwirtschaftlichem Betrieb, Ökotourismus-Ziel und Erholungspark. Auf über 12 Quadratkilometern erstrecken sich sorgfältig gepflegte Teeplantagen, Obstgärten und weite Wiesen, die eine malerische Kulisse vor den Bergen Nordthailands bieten. Der Park wird von der Boon Rawd Brewery (Hersteller von Singha Bier) betrieben und zeigt moderne thailändische Landwirtschaft auf höchstem Niveau. Besucher können den Park mit Fahrrädern oder dem Park-Shuttle erkunden, seltene Tiere wie Giraffen und Zebras füttern oder sich an sportlichen Aktivitäten wie Ziplining über die Teeplantagen versuchen. Besonders bekannt ist die riesige goldene Löwenstatue am Eingang, die ein beliebtes Fotomotiv ist. Kulinarisch bietet der Park exzellente Restaurants, die frische Produkte direkt von der Farm verarbeiten, einschliesslich des berühmten Oolong-Tees der Region. Der Singha Park hat sich zu einem der wichtigsten Motoren für den Tourismus in Chiang Rai entwickelt und verbindet produktive Landwirtschaft mit nachhaltigem Freizeitvergnügen.",
+      "factsAdvanced": [
+        "Grösster Agrotourismus-Park in Nordthailand (ca. 1.200 Hektar).",
+        "Hauptstandort für den Anbau von hochwertigem Oolong-Tee.",
+        "Wird von der Boon Rawd Brewery Group verwaltet.",
+        "Die ikonische goldene Löwenstatue ist das Wahrzeichen des Parks.",
+        "Beherbergt ein Wildgehege mit Giraffen, Zebras und Watusi-Rindern.",
+        "Verfügt über ausgedehnte Radwege und eine Zipline-Anlage.",
+        "Austragungsort des jährlichen 'Singha Park Chiang Rai International Balloon Fiesta'.",
+        "Produziert auch Früchte wie Erdbeeren, Passionsfrüchte und Himbeeren."
+      ]
+    },
+    {
+      "id": "suan-luang-rama-ix-park-life-v2",
+      "descriptionAdvanced": "Suan Luang Rama IX ist der grösste und vielfältigste öffentliche Park Bangkoks und wurde 1987 zum 60. Geburtstag von König Rama IX. eröffnet. Das Herzstück des Parks ist der majestätische Ratchamangkhala Pavillon, der am Ufer eines riesigen Sees liegt und ein Museum über das Leben des geliebten Königs beherbergt. Der Park ist weltberühmt für seine botanische Vielfalt und umfasst verschiedene internationale Gärten, wie den chinesischen Garten mit seinen Pavillons, den formellen französischen Garten und den Wüstengarten mit Kakteen. Jedes Jahr im Dezember findet hier die prachtvolle Blumenschau statt, bei der der gesamte Park in einem Meer aus Millionen von Blüten erstrahlt. Suan Luang Rama IX ist ein Zentrum für Bildung, Sport und Erholung und bietet weite Flächen zum Joggen, Aerobic-Bereiche und ruhige Ecken für die Vogelbeobachtung. Er repräsentiert die tiefe Verbundenheit des thailändischen Volkes mit der Natur und ihrem Monarchen und ist ein unverzichtbarer Rückzugsort für alle, die Ruhe und botanische Schönheit suchen.",
+      "factsAdvanced": [
+        "Grösster öffentlicher Park Bangkoks (ca. 80 Hektar / 500 Rai).",
+        "Eröffnet im Jahr 1987 zum 60. Geburtstag von König Bhumibol Adulyadej.",
+        "Das Hauptgebäude, der Ratchamangkhala Pavillon, beherbergt eine königliche Ausstellung.",
+        "Enthält Gärten aus England, Frankreich, China, Japan, Italien und den USA.",
+        "Wichtigstes botanisches Forschungszentrum der thailändischen Hauptstadt.",
+        "Berühmt für das alljährliche Blumenfestival im Dezember.",
+        "Verfügt über einen grossen See für Bootstouren.",
+        "Wichtiger Lebensraum für zahlreiche Schmetterlings- und Vogelarten."
+      ]
+    },
+    {
+      "id": "phu-chong-na-yoi-np-wildlife-v2",
+      "descriptionAdvanced": "Der Nationalpark Phu Chong Na Yoi liegt im Dreiländereck von Thailand, Laos und Kambodscha in der Provinz Ubon Ratchathani und ist ein unberührtes Naturjuwel im Osten des Landes. Der Park ist geprägt von den steilen Klippen des Phanom Dong Rak Gebirges und weiten Plateaus mit dichten Dipterocarp-Wäldern. Das spektakulärste Highlight ist der Bak Teo Yai Wasserfall, dessen Wasser aus einer Höhe von 40 Metern über eine hufeisenförmige Felskante in ein klares Becken stürzt, umgeben von dichten Dschungelpflanzen. Der Park beherbergt eine beeindruckende Artenvielfalt, darunter seltene Säugetiere wie Sonnenbären, Hirsche und gelegentlich sogar wilde Elefanten, sowie eine Vielzahl exotischer Vögel. Für Wanderer bietet Phu Chong Na Yoi faszinierende Pfade, die zu Aussichtspunkten wie dem 'Pha Luang' führen, von wo aus man weit über die Grenzen in die Nachbarländer blicken kann. Die abgeschiedene Lage und die wilde Schönheit machen den Park zu einem idealen Ziel für Abenteurer und Naturliebhaber, die das ursprüngliche Thailand abseits der Zivilisation entdecken möchten.",
+      "factsAdvanced": [
+        "Liegt im Bezirk Na Chaluay an der Grenze zu Laos und Kambodscha.",
+        "Hauptattraktion ist der Bak Teo Yai Wasserfall (40 Meter Fallhöhe).",
+        "Teil des grenzüberschreitenden Naturschutzgebiets 'Emerald Triangle'.",
+        "Beherbergt seltene Tierarten wie den Malaienbären und den Nebelparder.",
+        "Umfasst eine Fläche von etwa 686 Quadratkilometern.",
+        "Bekannt für seine markanten Sandsteinformationen und Klippen.",
+        "Bietet spektakuläre Aussichten vom 'Pha Pheung' Felsvorsprung.",
+        "Ein wichtiger Standort für die Forschung zur tropischen Biodiversität."
+      ]
+    },
+    {
+      "id": "art-in-paradise-bangkok-life-v2",
+      "descriptionAdvanced": "Art in Paradise Bangkok ist ein faszinierendes interaktives 3D-Kunstmuseum, das die traditionelle Museumsbesichtigung in ein spielerisches Erlebnis verwandelt. Das Museum, das sich im Esplanade Einkaufszentrum an der Ratchadapisek Road befindet, zeigt hunderte von grossformatigen Gemälden, die mit speziellen optischen Täuschungen (Trompe-l'œil) gemalt wurden. Besucher werden Teil der Kunstwerke, indem sie sich in vordefinierten Positionen fotografieren lassen – so scheint es, als würde man vor einem Hai fliehen, über eine tiefe Schlucht balancieren oder in eine surreale Fantasiewelt eintauchen. Das Museum ist in verschiedene Themenbereiche unterteilt, wie Unterwasserwelt, Safari, Klassische Kunst und Ägypten. Es ist ein äusserst beliebtes Ziel für Familien, Jugendliche und Touristen, die auf der Suche nach originellen Fotos für soziale Medien sind. Art in Paradise demonstriert auf unterhaltsame Weise, wie Kunst und Technologie zusammenwirken können, um interaktive Unterhaltung zu schaffen, die Menschen jeden Alters begeistert.",
+      "factsAdvanced": [
+        "Erstes und grösstes 3D-Kunstmuseum in Bangkok.",
+        "Befindet sich im 4. Stock der Esplanade Mall (MRT Thailand Cultural Centre).",
+        "Umfasst zwei Stockwerke mit über 150 interaktiven Gemälden.",
+        "Alle Werke wurden von professionellen Künstlern mit 3D-Effekten gemalt.",
+        "Unterteilt in Themenzonen wie 'Ocean', 'Safari' und 'Classical Art'.",
+        "Ein Vorreiter für den Trend der 'Instagrammable' Museen in Thailand.",
+        "Bietet spezielle Markierungen am Boden für den besten Kamerawinkel.",
+        "Ein ideales Indoor-Ziel für heisse oder regnerische Tage in Bangkok."
+      ]
+    }
+  ]
+}

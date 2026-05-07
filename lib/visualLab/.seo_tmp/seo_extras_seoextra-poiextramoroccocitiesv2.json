@@ -1,0 +1,36 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraMoroccoCitiesV2.ts"],
+  "items": [
+    {
+      "id": "ma-casablanca-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Casablanca, Marokkos Wirtschaftshauptstadt, ist eine pulsierende Metropole mit über 3,3 Millionen Einwohnern. Die Stadt ist weltberühmt für die Hassan-II.-Moschee, deren Minarett mit 210 Metern eines der höchsten der Welt ist. Seit der französischen Protektoratszeit (1912–1956) hat sich die Stadt durch Art-déco-Architektur und modernes Design weltweit einen Namen gemacht. Sie ist ein Zentrum für Handel, Finanzen und Industrie. Geografie K10 — Küstenstädte und Wirtschaftsräume.",
+        "hu": "Casablanca, Marokkó gazdasági fővárosa, egy nyüzsgő metropolisz több mint 3,3 millió lakossal. A város világhírű a II. Hasszán mecsetről, amelynek 210 méteres minaretje a világ egyik legmagasabbja. A francia protektorátus (1912–1956) óta a város az art déco építészet és a modern formatervezés révén vált nemzetközileg ismertté. A kereskedelem, a pénzügy és az ipar központja. Földrajz K10 — tengerparti városok és gazdasági terek.",
+        "ro": "Casablanca, capitala economică a Marocului, este o metropolă vibrantă cu peste 3,3 milioane de locuitori. Orașul este celebru în întreaga lume pentru Moscheea Hassan II, al cărei minaret, cu 210 metri, este unul dintre cele mai înalte din lume. Încă din perioada protectoratului francez (1912–1956), orașul a devenit cunoscut la nivel mondial pentru arhitectura sa art déco și designul modern. Este un centru pentru comerț, finanțe și industrie. Geografie K10 — orașe de coastă și spații economice.",
+        "en": "Casablanca, Morocco's economic capital, is a vibrant metropolis with over 3.3 million inhabitants. The city is world-famous for the Hassan II Mosque, whose 210-meter minaret is one of the tallest in the world. Since the French protectorate era (1912–1956), the city has made a name for itself worldwide through Art Deco architecture and modern design. It is a hub for trade, finance, and industry. Geography K10 — coastal cities and economic spaces."
+      },
+      "factsAdvanced": {
+        "de": ["Gründungsdatum als moderner Hafen 1912.", "Hassan-II.-Moschee fertiggestellt 1993.", "Hafen gehört zu den größten Afrikas.", "Über 3,3 Millionen Einwohner im Großraum.", "Einfluss der Art-déco-Architektur ist groß.", "Wichtigster Finanzplatz des Maghreb."],
+        "hu": ["A modern kikötő alapítása 1912.", "A II. Hasszán mecset 1993-ban készült el.", "Kikötője Afrika egyik legnagyobbja.", "Több mint 3,3 millió lakos a fővárosi régióban.", "Az art déco építészet hatása jelentős.", "A Magreb legfontosabb pénzügyi központja."],
+        "ro": ["Data fondării ca port modern în 1912.", "Moscheea Hassan II finalizată în 1993.", "Portul este unul dintre cele mai mari din Africa.", "Peste 3,3 milioane de locuitori în zona metropolitană.", "Influența arhitecturii art déco este mare.", "Cel mai important centru financiar din Magreb."],
+        "en": ["Founded as a modern port in 1912.", "Hassan II Mosque completed in 1993.", "Port is among the largest in Africa.", "Over 3.3 million inhabitants in the metro area.", "Influence of Art Deco architecture is significant.", "Most important financial center in the Maghreb."]
+      }
+    },
+    {
+      "id": "ma-rabat-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rabat, die Hauptstadt Marokkos, ist ein kulturelles Zentrum mit einer Geschichte, die bis in die Römerzeit zurückreicht. Die Stadt ist bekannt für den Hassan-Turm, ein unvollendetes Minarett aus dem 12. Jahrhundert. Rabat gehört zum UNESCO-Welterbe, da die Stadt eine einzigartige Verbindung zwischen der Medina und dem modernen Viertel des 20. Jahrhunderts darstellt. Sie liegt an der Mündung des Bou Regreg, der sie von Salé trennt. Sachkunde K7 — Hauptstädte und Weltkulturerbe.",
+        "hu": "Rabat, Marokkó fővárosa, egy kulturális központ, amelynek történelme a római korig nyúlik vissza. A város a 12. századi befejezetlen Hasszán-toronyról ismert. Rabat az UNESCO Világörökség része, mivel egyedi kapcsolatot teremt a medina és a 20. századi modern negyed között. A Bou Regreg folyó torkolatánál fekszik, amely elválasztja Salétól. Sachkunde K7 — fővárosok és világörökség.",
+        "ro": "Rabat, capitala Marocului, este un centru cultural cu o istorie ce datează din epoca romană. Orașul este cunoscut pentru Turnul Hassan, un minaret neterminat din secolul al XII-lea. Rabat face parte din Patrimoniul Mondial UNESCO, deoarece orașul reprezintă o legătură unică între medină și cartierul modern al secolului XX. Este situat la vărsarea râului Bou Regreg, care îl separă de Salé. Sachkunde K7 — capitale și patrimoniu mondial.",
+        "en": "Rabat, the capital of Morocco, is a cultural hub with history dating back to Roman times. The city is known for the Hassan Tower, an unfinished 12th-century minaret. Rabat is a UNESCO World Heritage site, as it uniquely bridges the medina and the modern 20th-century district. It is located at the mouth of the Bou Regreg, which separates it from Salé. Sachkunde K7 — capitals and world heritage."
+      },
+      "factsAdvanced": {
+        "de": ["Hassan-Turm geplant durch Almohaden-Sultan al-Mansur 1195.", "Hauptstadt seit der Unabhängigkeit 1956.", "UNESCO-Welterbe-Status seit 2012.", "Rabat und Salé bilden eine Zwillingsstadt.", "Zahlreiche Botschaften im Diplomatenviertel.", "Sitz der marokkanischen Regierung."],
+        "hu": ["A Hasszán-tornyot al-Manszur almohád szultán tervezte 1195-ben.", "Főváros 1956-os függetlenség óta.", "UNESCO Világörökség státusz 2012 óta.", "Rabat és Salé ikervárosok.", "Számos nagykövetség a diplomata negyedben.", "A marokkói kormány székhelye."],
+        "ro": ["Turnul Hassan planificat de sultanul almohad al-Mansur în 1195.", "Capitală din 1956, anul independenței.", "Statutul de Patrimoniu Mondial UNESCO din 2012.", "Rabat și Salé formează un oraș geamăn.", "Numeroase ambasade în districtul diplomatic.", "Sediul guvernului marocan."],
+        "en": ["Hassan Tower planned by Almohad Sultan al-Mansur in 1195.", "Capital since independence in 1956.", "UNESCO World Heritage status since 2012.", "Rabat and Salé form a twin city.", "Numerous embassies in the diplomatic quarter.", "Seat of the Moroccan government."]
+      }
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+import json
+
+data = {
+  "cult-trinity": {
+    "descriptionAdvanced_ro": "Fondat în 1592 de regina Elisabeta I, Trinity College este cea mai veche și mai prestigioasă universitate din Irlanda. Instituția a fost inițial creată pentru a consolida dominația engleză, dar a devenit un centru de excelență academică de renume mondial. Arhitectura campusului, cu clădirile sale neoclasice și curțile pietruite, reflectă importanța sa istorică și culturală. Pe parcursul studiilor gimnaziale, elevii pot asocia acest loc cu dezvoltarea educației și a științei în Europa post-renascentistă. Aici au studiat personalități marcante precum Oscar Wilde și Samuel Beckett, aducând o contribuție imensă literaturii universale.",
+    "factsAdvanced_ro": [
+      "Universitatea a fost fondată pe locul unei foste mănăstiri augustiniene desființate în timpul Reformei.",
+      "Femeile au fost admise pentru prima dată ca studente la Trinity College în anul 1904.",
+      "Campusul universitar se întinde pe o suprafață de 19 hectare chiar în centrul capitalei irlandeze.",
+      "Colegiul deține faimoasa Bibliotecă veche, unde este păstrată Cartea din Kells, o capodoperă a manuscriselor medievale."
+    ]
+  },
+  "cult-kilkenny": {
+    "descriptionAdvanced_ro": "Castelul Kilkenny a fost construit în anul 1195 de către William Marshal, fiind un punct strategic major de apărare la o cotitură a râului Nore. Timp de peste 600 de ani, fortăreața a fost reședința puternicei familii Butler, care a jucat un rol central în istoria politică a Irlandei. Deși structura inițială era o fortificație anglo-normandă clasică din piatră, castelul a suferit numeroase transformări arhitecturale de-a lungul secolelor. Pentru elevii pasionați de istorie, castelul oferă un exemplu excelent al modului în care o structură militară medievală a evoluat într-o reședință nobiliară elegantă. Astăzi, domeniul impresionează prin grădinile sale terasate și o extinsă galerie de artă.",
+    "factsAdvanced_ro": [
+      "Trei dintre cele patru turnuri originale ale castelului s-au păstrat intacte până în prezent.",
+      "Familia Butler a achiziționat castelul în 1391 și l-a vândut statului irlandez în 1967 pentru suma simbolică de 50 de lire.",
+      "Galeria Long Gallery din interiorul castelului are un tavan de sticlă pictat, susținut de grinzi de lemn bogat decorate.",
+      "Parcul aferent castelului se întinde pe o suprafață de peste 20 de hectare și include un lac ornamental."
+    ]
+  },
+  "hist-trim-castle": {
+    "descriptionAdvanced_ro": "Situat pe malurile râului Boyne, Castelul Trim este cel mai mare castel anglo-normand din Irlanda, reflectând puterea și autoritatea cuceritorilor normanzi din secolul al XII-lea. Construcția sa a fost începută în 1176 de către Hugh de Lacy, durând peste 30 de ani până la finalizare. Arhitectura unică a donjonului său masiv, de formă cruciformă cu 20 de laturi, îl distinge de alte fortificații contemporane. Din perspectiva curriculumului de istorie, acesta ilustrează perfect arhitectura militară defensivă și organizarea feudală timpurie. Dimensiunile sale colosale au fost menite să intimideze populația locală și să asigure controlul asupra regatului Meath.",
+    "factsAdvanced_ro": [
+      "Structura centrală, donjonul, are ziduri de piatră cu o grosime de aproximativ 3 metri pentru a rezista asediilor.",
+      "Incinta castelului acoperă o suprafață impresionantă de peste 3 hectare, fiind protejată de un șanț defensiv și un zid cu turnuri.",
+      "A fost folosit ca locație de filmare principală pentru fortăreața engleză din faimosul film istoric Braveheart.",
+      "Castelul dispunea de o cale de acces maritim direct de la Marea Irlandei prin intermediul râului Boyne."
+    ]
+  },
+  "hist-newgrange": {
+    "descriptionAdvanced_ro": "Newgrange este un monument funerar preistoric remarcabil, situat în valea râului Boyne, care precedă ca vechime atât Stonehenge, cât și Marile Piramide din Giza. Construit în jurul anului 3200 î.Hr. în perioada neolitică, acest tumul masiv demonstrează cunoștințe avansate de astronomie, inginerie și arhitectură ale constructorilor săi antici. Trăsătura sa cea mai spectaculoasă este iluminarea camerei funerare interioare în diminețile solstițiului de iarnă, când o rază de soare pătrunde printr-o deschizătură specială. Pentru educația gimnazială, monumentul reprezintă un studiu de caz fascinant despre credințele și capacitățile tehnologice ale comunităților preistorice agricole. Complexul a fost desemnat sit al Patrimoniului Mondial UNESCO, atrăgând cercetători din întreaga lume.",
+    "factsAdvanced_ro": [
+      "Movila principală are un diametru de aproximativ 85 de metri și este înconjurată de un cerc de 97 de pietre mari.",
+      "Construcția a necesitat mutarea și asamblarea a peste 200.000 de tone de piatră și pământ.",
+      "Pasajul interior măsoară 19 metri lungime și duce către o cameră cruciformă cu acoperiș boltit susținut fără mortar.",
+      "Fenomenul de iluminare a camerei la solstițiul de iarnă durează aproximativ 17 minute."
+    ]
+  },
+  "hist-kilmainham-gaol": {
+    "descriptionAdvanced_ro": "Kilmainham Gaol este una dintre cele mai mari și mai cunoscute foste închisori din Europa, deschisă în 1796 sub denumirea de 'Noua Închisoare'. Locul poartă o încărcătură emoțională și istorică profundă, fiind direct legat de lupta Irlandei pentru independență și de numeroasele rebeliuni împotriva stăpânirii britanice. Condițiile de detenție de aici au fost deseori brutale, mai ales în timpul Marii Foamete, când mii de oameni au fost închiși pentru infracțiuni minore provocate de disperare. Studierea acestei locații oferă elevilor o perspectivă tulburătoare asupra sistemelor penale din secolele trecute și a sacrificiului pentru formarea statului modern irlandez. În anul 1924, închisoarea a fost oficial închisă, devenind ulterior un muzeu dedicat memoriei naționale.",
+    "factsAdvanced_ro": [
+      "Liderii Revoltei de Paști din 1916 au fost executați în curtea principală a acestei închisori.",
+      "Designul aripii de est se bazează pe conceptul panoptic, permițând supravegherea constantă a deținuților din celule.",
+      "Cea mai tânără persoană documentată ca fiind închisă aici a fost un copil de doar 7 ani, reținut pentru furt.",
+      "La momentul deschiderii sale, închisoarea nu avea geamuri la ferestre, deținuții fiind expuși direct la frig și intemperii."
+    ]
+  },
+  "hist-rock-of-cashel": {
+    "descriptionAdvanced_ro": "Cunoscut și sub numele de Stânca Sfântului Patrick, Rock of Cashel este un complex arhitectural medieval spectaculos situat pe un afloriment de calcar din provincia Munster. Acesta a servit drept reședință tradițională pentru regii din Munster timp de sute de ani înainte de a fi donat Bisericii în anul 1101. Ruinele includ un turn rotund complet conservat, o catedrală gotică, un castel din secolul al XV-lea și Capela lui Cormac, una dintre cele mai rafinate structuri romanice din Irlanda. Pentru cursurile de istorie și geografie, complexul exemplifică tranziția puterii de la structurile regale seculare la autoritatea ecleziastică medievală. Situl a supraviețuit mai multor asedii distructive, inclusiv celui condus de trupele lui Cromwell în 1647.",
+    "factsAdvanced_ro": [
+      "Turnul rotund, cel mai vechi edificiu de pe stâncă, are o înălțime impresionantă de 28 de metri.",
+      "Capela lui Cormac găzduiește singurele fresce romanice supraviețuitoare din întreaga Irlandă.",
+      "În 1647, trupele engleze au masacrat aproximativ 3000 de oameni care se refugiaseră în incinta complexului.",
+      "Aflorimentul stâncos pe care este construit complexul se înalță la 60 de metri deasupra câmpiei înconjurătoare."
+    ]
+  },
+  "hist-clonmacnoise": {
+    "descriptionAdvanced_ro": "Fondată în anul 544 de Sfântul Ciarán, mănăstirea Clonmacnoise a devenit rapid unul dintre cele mai importante centre de religie și învățământ din Europa Occidentală timpurie. Poziționată strategic pe malul râului Shannon, într-o zonă de intersecție a rutelor comerciale majore, a atras cărturari din întregul continent. De-a lungul secolelor, mănăstirea a produs manuscrise valoroase, obiecte de artă din metal și a servit drept loc de înmormântare pentru regii înalți din Tara. Elevii de gimnaziu pot descoperi aici rolul crucial pe care l-au jucat mănăstirile irlandeze în conservarea cunoștințelor clasice în timpul Evului Mediu Întunecat. Complexul include astăzi ruinele unei catedrale, mai multe biserici, două turnuri rotunde și trei cruci înalte celtice remarcabile.",
+    "factsAdvanced_ro": [
+      "Clonmacnoise a fost vizată de peste 40 de raiduri vikinge, anglo-normande și ale triburilor irlandeze rivale de-a lungul istoriei sale.",
+      "Cea mai celebră lucrare păstrată de la Clonmacnoise este Cartea Văcii Brune, un manuscris din secolul al XII-lea.",
+      "Crucea Scripturilor din incinta sitului are o înălțime de 4 metri și este decorată cu panouri sculptate complex.",
+      "Situl mănăstirii a fost lăsat în ruină după ce a fost prădat și distrus definitiv de trupele engleze în 1552."
+    ]
+  },
+  "hist-cahir-castle": {
+    "descriptionAdvanced_ro": "Așezat strategic pe o insulă stâncoasă de pe râul Suir, Castelul Cahir este unul dintre cele mai mari și mai bine conservate castele medievale din Irlanda. A fost construit în 1142 de către Conchobar Ua Briain și ulterior extins și fortificat de puternica familie Butler. Arhitectura sa defensivă inovatoare a inclus structuri concepute special pentru a rezista artileriei grele, o noutate la momentul respectiv. Situl este excelent pentru a explica elevilor evoluția tacticii militare și a arhitecturii de apărare în fața apariției prafului de pușcă. Designul său formidabil a făcut ca, adesea, asediatorii să prefere negocierile în locul unui atac direct, deși a fost capturat de trupele lui Cromwell în 1650.",
+    "factsAdvanced_ro": [
+      "În zidurile castelului pot fi observate și astăzi proiectile de tun încastrate din timpul unui scurt asediu din 1599.",
+      "Castelul a fost restaurat masiv în anul 1840, păstrând în mare parte designul său original defensiv.",
+      "Poarta principală era protejată de un pod mobil și de un sistem complex de apărare de tip capcană.",
+      "Fortăreața a rămas în posesia familiei Butler până în 1961, când ultimul descendent a murit fără urmași."
+    ]
+  },
+  "hist-battle-of-the-boyne": {
+    "descriptionAdvanced_ro": "Bătălia de la Boyne, purtată în iulie 1690 de-a lungul râului omonim, este unul dintre cele mai definitorii evenimente din istoria irlandeză și europeană. Conflictul i-a opus pe regele catolic iacobit Iacob al II-lea și pe ginerele său, regele protestant Wilhelm al III-lea de Orania, pentru controlul asupra tronurilor englez, scoțian și irlandez. Rezultatul bătăliei a asigurat dominația protestantă în Irlanda timp de secole și a avut un impact profund asupra structurii politice a insulei. În contextul istoriei gimnaziale, bătălia exemplifică impactul deciziilor monarhice și al războaielor religioase asupra populației civile. Astăzi, situl istoric dispune de un centru de vizitare modern care detaliază complexitatea acestui conflict european la scară largă.",
+    "factsAdvanced_ro": [
+      "Aproximativ 60.000 de soldați au participat la bătălie, aceasta fiind cea mai mare desfășurare de trupe de pe teritoriul irlandez.",
+      "Wilhelm al III-lea de Orania a fost rănit ușor de un glonț de muschetă chiar înainte de începerea confruntării.",
+      "Trupele implicate includeau mercenari olandezi, francezi, danezi, precum și soldați din Anglia, Scoția și Irlanda.",
+      "În ciuda importanței sale politice majore, numărul victimelor a fost relativ scăzut, estimându-se în jur de 2000 de morți."
+    ]
+  },
+  "hist-charles-fort": {
+    "descriptionAdvanced_ro": "Situat în portul Kinsale din sudul Irlandei, Fortul Charles este un exemplu clasic de fortificație militară în formă de stea, construit în secolul al XVII-lea. Structura a fost concepută pentru a proteja portul împotriva atacurilor navale, având ziduri masive așezate în unghiuri menite să devieze tirul artileriei inamice. Proiectarea fortului atribuie fiecărui bastion un rol specific în focul încrucișat defensiv, făcându-l aproape inexpugnabil dinspre mare. Din perspectivă istorică, fortul ilustrează tranziția spre războiul bazat pe artilerie și importanța controlului rutelor maritime. Fortul a rămas în uz militar până în anul 1922, când a fost parțial distrus în timpul Războiului Civil Irlandez.",
+    "factsAdvanced_ro": [
+      "Construcția fortului a durat din 1677 până în 1682 și a fost condusă de inginerul militar Sir William Robinson.",
+      "Zidurile fortificației ajung în anumite puncte la o grosime de 6 metri și o înălțime de 18 metri.",
+      "Designul în formă de stea a fortului asigura că niciun punct al zidurilor nu avea 'unghiuri moarte' nesupravegheate.",
+      "A fost asediat cu succes doar o singură dată, în 1690, când forțele au atacat dinspre partea terestră mai puțin fortificată."
+    ]
+  },
+  "landmark-guinness-storehouse": {
+    "descriptionAdvanced_ro": "Situat la St. James's Gate în Dublin, Guinness Storehouse este un simbol industrial și cultural major, spunând povestea celei mai faimoase beri din Irlanda. Construită inițial în 1904 ca uzină de fermentare, clădirea uimește prin arhitectura sa bazată pe o structură masivă de oțel inspirată din stilul Școlii de la Chicago. Pentru cursurile de geografie economică, facilitatea servește drept studiu de caz privind revoluția industrială, crearea de branduri globale și impactul unei companii asupra dezvoltării unui oraș. În prezent, este cea mai vizitată atracție turistică din Irlanda, atrăgând milioane de oaspeți anual. Designul interior este modelat sub forma unui pahar imens de bere care se ridică pe șapte etaje.",
+    "factsAdvanced_ro": [
+      "Contractul de închiriere original semnat de Arthur Guinness în 1759 a fost valabil pentru 9000 de ani la un cost de 45 de lire pe an.",
+      "Clădirea Guinness Storehouse a fost prima structură cu mai multe etaje cu schelet de oțel construită în Irlanda.",
+      "Paharul de sticlă central ar putea conține teoretic 14,3 milioane de halbe de bere dacă ar fi umplut.",
+      "Berăria consumă zilnic aproximativ 100.000 de tone de orz irlandez pentru procesul de fabricație."
+    ]
+  },
+  "landmark-trinity-long-room": {
+    "descriptionAdvanced_ro": "Long Room este sala principală a Vechii Biblioteci de la Trinity College și una dintre cele mai uluitoare biblioteci istorice din lume. Măsurând aproape 65 de metri în lungime, sala a fost construită între 1712 și 1732 pentru a găzdui o colecție impresionantă de manuscrise și cărți rare. Arhitectura sa dominată de lemn masiv de stejar, arcade înalte și busturi de marmură ale filosofilor și scriitorilor iluștri îi conferă o atmosferă de monumentalitate intelectuală. Pentru educația tinerilor, reprezintă o mărturie palpabilă a modului în care cunoașterea umană a fost păstrată și organizată înainte de era digitală. În prezent, sala adăpostește peste 200.000 de volume dintre cele mai vechi ale bibliotecii.",
+    "factsAdvanced_ro": [
+      "Acoperișul plat original a fost înlocuit cu o boltă curbată din lemn de stejar în anul 1860, pentru a permite adăugarea de noi rafturi superioare.",
+      "Sala găzduiește și cea mai veche harpă irlandeză supraviețuitoare, datând din secolul al XV-lea, model care este stema națională a Irlandei.",
+      "Biblioteca are dreptul legal de a primi o copie gratuită a fiecărei cărți publicate în Marea Britanie și Irlanda.",
+      "Printre artefactele expuse se află o copie rară a Proclamației Republicii Irlandeze de la 1916."
+    ]
+  },
+  "landmark-dublin-castle": {
+    "descriptionAdvanced_ro": "Castelul Dublin a fost centrul puterii guvernamentale britanice în Irlanda pentru mai bine de șapte secole, de la fondarea sa în 1204 de către regele Ioan al Angliei până la obținerea independenței în 1922. Construit inițial ca un bastion defensiv medieval, castelul a evoluat într-un palat regal opulent în secolul al XVIII-lea, reflectând schimbările politice și administrative ale epocii. Apartamentele de Stat au găzduit monarhi, viceregi și numeroase evenimente de maximă importanță diplomatică. Din punct de vedere educațional, complexul ilustrează tranziția de la arhitectura militară la cea civilă și reprezentativă, marcând transformarea Dublinului într-o metropolă modernă. Astăzi, complexul este utilizat de guvernul irlandez pentru evenimente și ceremonii de stat oficiale.",
+    "factsAdvanced_ro": [
+      "Record Tower, datând din anul 1228, este singurul element arhitectural intact rămas din castelul medieval normand inițial.",
+      "Sala Sfântului Patrick din Apartamentele de Stat are un tavan magnific pictat și este locul unde sunt învestiți președinții irlandezi.",
+      "O mare parte din castelul medieval a fost distrusă de un incendiu devastator în anul 1684.",
+      "A fost construit pe locul unei așezări fortificate anterioare înființate de vikingi."
+    ]
+  },
+  "landmark-st-patricks-cathedral": {
+    "descriptionAdvanced_ro": "Catedrala Sf. Patrick este cea mai mare biserică din Irlanda și a fost fondată în anul 1191 în onoarea sfântului patron al insulei. Legenda spune că a fost construită pe locul unde Sfântul Patrick obișnuia să boteze convertiții la creștinism folosind un izvor local. Clădirea se remarcă prin impresionanta sa arhitectură gotică timpurie englezească, având vitralii uluitoare și un cor somptuos sculptat. În contextul istoriei, catedrala oferă elevilor ocazia de a studia arhitectura gotică, rolul bisericilor în viața urbană medievală și mecenatul cultural al instituțiilor religioase. Scriitorul Jonathan Swift a fost decan al acestei catedrale în secolul al XVIII-lea și este înmormântat aici.",
+    "factsAdvanced_ro": [
+      "Turnul catedralei a fost adăugat abia în anul 1370, iar fleșa superioară a fost construită mult mai târziu, în 1749.",
+      "Catedrala a suferit lucrări de restaurare masive în 1860, finanțate integral de moștenitorul imperiului berii Guinness, Sir Benjamin Lee Guinness.",
+      "Naosul catedralei are o lungime de aproximativ 91 de metri, susținut de bolți arhitecturale elaborate.",
+      "Catedrala funcționează ca biserică națională a Bisericii Irlandei, fără a aparține de o anumită eparhie."
+    ]
+  },
+  "landmark-the-spire": {
+    "descriptionAdvanced_ro": "The Spire, cunoscut și sub numele de Monumentul Luminii, este o structură arhitecturală monumentală în formă de ac situată pe strada O'Connell, în inima Dublinului. Finalizat în anul 2003 ca parte a unui proiect de modernizare urbană, acest con alungit din oțel inoxidabil a redefinit linia orizontului capitalei irlandeze. În timpul zilei, suprafața sa metalică reflectă cerul și dinamismul orașului, iar noaptea, vârful este iluminat subtil. Pentru educația geografică și de urbanism, monumentul reprezintă o abordare inovatoare de regenerare a spațiului public și de marcare a unei identități moderne a orașului. Baza monumentului este gravată cu modele artistice subtile inspirate din geologia irlandeză.",
+    "factsAdvanced_ro": [
+      "Monumentul are o înălțime de 120 de metri, fiind una dintre cele mai înalte sculpturi urbane din lume.",
+      "Diametrul său la bază măsoară 3 metri, îngustându-se treptat până la doar 15 centimetri în punctul superior.",
+      "A fost construit pe fostul amplasament al monumentului dedicat Amiralului Nelson, care a fost distrus în urma unui atentat cu bombă în 1966.",
+      "Structura este proiectată să se balanseze flexibil până la un metru și jumătate în timpul furtunilor puternice."
+    ]
+  },
+  "landmark-belfast-city-hall": {
+    "descriptionAdvanced_ro": "Belfast City Hall, clădirea Primăriei din Belfast, este o capodoperă a stilului arhitectural Renașterea Clasică și centrul simbolic al orașului. Finalizată în 1906, clădirea marchează perioada în care Belfastul a primit statutul de oraș datorită expansiunii sale industriale explozive, mai ales în construcția de nave și prelucrarea inului. Structura este construită din piatră de Portland albă, cu un dom de cupru dominant și interioare fastuoase decorate cu marmură italiană. Pentru elevi, acest edificiu subliniază legătura dintre prosperitatea economică din timpul Revoluției Industriale și grandiozitatea arhitecturii publice civice. Grădinile din jurul primăriei includ numeroase statui și un monument dedicat victimelor de pe Titanic.",
+    "factsAdvanced_ro": [
+      "Domul central al clădirii are o înălțime de 53 de metri și domină întregul bulevard Donegall Square.",
+      "Construcția clădirii a costat la acea vreme suma enormă de 369.000 de lire sterline.",
+      "Primăria găzduiește scaune de consiliu fabricate din lemn de stejar importat exclusiv din Rusia.",
+      "Vitrailele din interior spun povestea istoriei industriale, culturale și a mitologiei Irlandei de Nord."
+    ]
+  },
+  "landmark-port-of-cork": {
+    "descriptionAdvanced_ro": "Portul Cork, recunoscut drept al doilea cel mai mare port natural din lume după cel din Sydney, a fost o componentă vitală a economiei maritime irlandeze timp de secole. Situat pe coasta de sud a Irlandei, acesta oferă un ancoraj adânc și protejat de capriciile Oceanului Atlantic. A fost un punct de plecare crucial pentru milioane de emigranți irlandezi în secolul al XIX-lea, în special din zona orașului portuar Cobh, aflat în inima estuarului. În cadrul cursurilor de geografie economică, portul exemplifică importanța așezărilor strategice costiere și influența comerțului maritim asupra dezvoltării urbane. Astăzi, continuă să fie un important centru industrial, logistic și terminal pentru nave de croazieră.",
+    "factsAdvanced_ro": [
+      "Baza navală Haulbowline, sediul principal al Serviciului Naval Irlandez, este situată pe o insulă în interiorul portului.",
+      "Aproximativ 2,5 milioane de irlandezi au emigrat prin acest port între anii 1848 și 1950.",
+      "Portul Cork gestionează anual peste 10 milioane de tone de mărfuri cargo diversificate.",
+      "Ultimul punct de ancorare al faimosului vas RMS Titanic, înainte de traversarea oceanului, a fost în zona Cobh din Portul Cork."
+    ]
+  },
+  "landmark-dublin-port": {
+    "descriptionAdvanced_ro": "Portul Dublin, situat în gura de vărsare a râului Liffey, reprezintă inima comercială maritimă a Irlandei, gestionând cea mai mare parte a traficului de pasageri și mărfuri al țării. Originile sale datează din perioada așezărilor vikinge, însă infrastructura modernă de dane, terminale de feriboturi și macarale s-a dezvoltat masiv odată cu revoluția industrială. Astăzi, acesta constituie poarta principală de conectare a Irlandei la rețelele logistice europene și globale. Analiza acestui port ajută elevii să înțeleagă conceptele de globalizare, comerț internațional și logistică multimodală. Datorită unei expansiuni atente, facilitățile portuare coexistă cu un biosistem estuarian protejat, reprezentând un echilibru între industrie și ecologie.",
+    "factsAdvanced_ro": [
+      "Portul Dublin procesează aproape 50% din totalul comerțului maritim internațional al Irlandei.",
+      "Complexul portuar acoperă o suprafață de peste 260 de hectare chiar la marginea estică a orașului Dublin.",
+      "Terminalul portuar gestionează anual trecerea a aproximativ 2 milioane de pasageri cu feribotul.",
+      "Zidul Marii Sudice, un dig masiv construit în secolul al XVIII-lea pentru a proteja portul, măsoară peste 6 kilometri lungime."
+    ]
+  },
+  "landmark-national-museum-archaeology": {
+    "descriptionAdvanced_ro": "Muzeul Național al Irlandei, filiala dedicată arheologiei, este depozitarul principal al comorilor istorice și preistorice ale națiunii. Găzduit într-o clădire impresionantă de pe strada Kildare, muzeul adăpostește o colecție neprețuită de artefacte, de la arme vikinge și podoabe din Epoca Bronzului până la capodoperele artei celtice și medievale creștine. Expozițiile detaliază evoluția tehnologică și culturală a locuitorilor insulei, oferind o perspectivă cronologică unică. Pentru curriculumul școlar de istorie, vizitarea virtuală sau reală a acestor colecții ajută la demistificarea vieții strămoșilor europeni, transformând concepte abstracte în obiecte tangibile. Printre cele mai renumite exponate se numără relicvele de aur bogat ornamentate, recunoscute pe plan mondial.",
+    "factsAdvanced_ro": [
+      "Printre cele mai faimoase exponate se află faimosul Caliciu de la Ardagh, datând din secolul al VIII-lea.",
+      "Muzeul găzduiește „Oamenii din mlaștină”, corpuri umane din Epoca Fierului mumificate natural în turbării.",
+      "Colecția de artefacte din aur preistoric a muzeului este una dintre cele mai extinse din Europa.",
+      "Clădirea muzeului se remarcă prin holul central impresionant în stil renascentist paladian cu un dom spaniol, inaugurată în anul 1890."
+    ]
+  },
+  "landmark-the-custom-house": {
+    "descriptionAdvanced_ro": "The Custom House din Dublin este una dintre cele mai rafinate capodopere arhitecturale ale stilului neoclasic de pe întreg continentul european. Proiectată de arhitectul James Gandon și finalizată în anul 1791, clădirea a funcționat inițial drept centru pentru colectarea taxelor vamale portuare ale orașului. Fațada sa monumentală de-a lungul râului Liffey, marcată de coloane dorice, sculpturi alegorice și un dom elegant, simboliza prosperitatea comercială crescândă a Dublinului. Elevii studiază adesea această clădire ca un prim exemplu al arhitecturii instituționale care reflectă puterea politică și comercială din secolul al XVIII-lea. Clădirea a fost grav avariată în timpul Războiului de Independență în 1921, dar a fost ulterior meticulos restaurată.",
+    "factsAdvanced_ro": [
+      "Domul central al clădirii este încununat cu o statuie mare din cupru, o reprezentare alegorică a Comerțului.",
+      "Fiecare arcadă din fațada clădirii este împodobită cu un cap sculptat din piatră reprezentând câte un mare râu al Irlandei.",
+      "Construcția clădirii a provocat inițial controverse majore, necesitând mutarea vechiului port și generând proteste.",
+      "În incendiul din 1921, focul a ars timp de cinci zile, distrugând registre vamale și istorice neprețuite."
+    ]
+  },
+  "landmark-belfast-harbour": {
+    "descriptionAdvanced_ro": "Portul Belfast are o istorie industrială impresionantă, fiind faimos în special pentru rolul său global în construcția de nave în secolele al XIX-lea și al XX-lea. Situat pe râul Lagan, portul s-a transformat dintr-un simplu golf noroios într-un complex masiv de șantiere navale unde a operat faimoasa companie Harland and Wolff, locul de naștere al vasului RMS Titanic. Astăzi, pe lângă gestionarea unui volum masiv de mărfuri și pasageri, vechile docuri au fost rejuvenate în cartierul modern Titanic Quarter. Analizarea acestui port permite elevilor să înțeleagă ciclurile economice, de la apogeul industrial la declinul maritim și succesul unei renașteri urbane moderne. Macaralele galbene uriașe ale portului au devenit un simbol iconic al orizontului Belfastului.",
+    "factsAdvanced_ro": [
+      "Domeniul portuar gestionează în prezent aproximativ 20% din comerțul portuar maritim al întregii insule a Irlandei.",
+      "Cele două macarale uriașe, cunoscute local ca 'Samson și Goliat', au o înălțime de peste 90 de metri.",
+      "Șantierul naval a angajat, la apogeul său, peste 30.000 de muncitori din comunitatea locală.",
+      "Belfast Lough, canalul navigabil al portului, a trebuit să fie dragat intensiv de-a lungul timpului pentru a permite trecerea vaselor transatlantice mari."
+    ]
+  },
+  "landmark-shannon-free-zone": {
+    "descriptionAdvanced_ro": "Shannon Free Zone, creată în 1959 lângă aeroportul Shannon din vestul Irlandei, reprezintă prima zonă economică liberă din lume și un succes major al politicilor industriale irlandeze. Ideea a fost dezvoltată pentru a stimula economia locală după ce avioanele cu reacție au început să traverseze oceanul fără a mai avea nevoie de escale de realimentare la Shannon. Zona a atras rapid multinaționale oferind stimulente fiscale considerabile, un mediu fără taxe vamale și proceduri administrative simplificate. Pentru cursurile de geografie și educație antreprenorială, ilustrează perfect cum inovația administrativă și crearea de medii favorabile afacerilor pot aduce investiții străine directe majore. Succesul modelului Shannon a fost studiat și replicat ulterior de numeroase alte țări, inclusiv în dezvoltarea zonelor economice speciale din Asia.",
+    "factsAdvanced_ro": [
+      "În prezent, Shannon Free Zone găzduiește peste 170 de companii internaționale cu profil tehnologic și de aviație.",
+      "Zona economică a generat locuri de muncă pentru peste 8000 de profesioniști înalt calificați.",
+      "Modelul creat aici a fost luat ca inspirație directă pentru înființarea Zonelor Economice Speciale din China.",
+      "Este recunoscută global ca un centru de excelență pentru sectorul de leasing, mentenanță și inginerie aeronautică."
+    ]
+  },
+  "landmark-waterford-crystal": {
+    "descriptionAdvanced_ro": "Waterford Crystal este o marcă mondială sinonimă cu sticlăria de cristal de cea mai înaltă calitate, ale cărei origini datează din 1783 în orașul Waterford din sud-estul Irlandei. Meșteșugul se bazează pe procesul tradițional de topire, suflare și gravare manuală a cristalului, proces rafinat de generații întregi de artizani locali. Fabrica și centrul de vizitatori oferă o demonstrație remarcabilă a îmbinării dintre chimia industrială a fabricării sticlei și talentul artistic uman. Studiul acestei industrii ajută elevii să aprecieze meșteșugurile tradiționale și modul în care materialele brute sunt transformate în bunuri de lux cu valoare adăugată uriașă. Cristalele Waterford au fost folosite pentru a crea trofee sportive faimoase și candelabre instalate în palate și catedrale din întreaga lume.",
+    "factsAdvanced_ro": [
+      "Un cristal Waterford autentic conține un procent ridicat de oxid de plumb (în jur de 33%), care îi conferă strălucirea și greutatea specifică.",
+      "Compania a creat celebra sferă uriașă de cristal care este coborâtă în Times Square din New York de Revelion.",
+      "Procesul de tăiere a cristalului implică utilizarea de discuri speciale cu diamant, necesitând ani de pregătire pentru un maestru tăietor.",
+      "Fiecare piesă autentică produsă la fabrică poartă o ștampilă subtilă de autenticitate Waterford pe baza sa."
+    ]
+  },
+  "landmark-golden-vale": {
+    "descriptionAdvanced_ro": "Golden Vale, sau Valea de Aur, este o zonă de o frumusețe rurală remarcabilă și o vastă întindere de terenuri agricole deosebit de fertile situate în sud-vestul Irlandei. Acoperind regiuni din comitatele Tipperary, Limerick și Cork, această vale verde ondulată este susținută de soluri calcaroase extrem de nutritive. Agricultura este inima economică a regiunii, axată în principal pe creșterea bovinelor și producția produselor lactate superioare. Elevii pot învăța din acest peisaj despre corelația directă dintre geologie, fertilitatea solului și formarea unei industrii agroalimentare durabile. Datorită pajiștilor sale abundente, regiunea a fost centrul unei dispute istorice continue privind proprietatea terenurilor agricole.",
+    "factsAdvanced_ro": [
+      "Termenul 'Golden' (Aur) se referă la productivitatea și valoarea enormă a solului agricol din zonă.",
+      "Regiunea este renumită la nivel european pentru calitatea untului, brânzeturilor și a laptelui produs aici.",
+      "Valea este străbătută de fluviul Suir și este protejată pe laturi de lanțuri muntoase de altitudine mică precum munții Galtee.",
+      "Orașele din această regiune au prosperat istoric funcționând ca piețe mari de tranzacționare a animalelor și produselor lactate."
+    ]
+  },
+  "city-naas": {
+    "descriptionAdvanced_ro": "Naas, orașul de reședință al comitatului Kildare, este un important centru urban în plină dezvoltare, având o puternică conexiune istorică cu regalitatea irlandeză timpurie. Situat strategic de-a lungul axelor principale de transport rutier și feroviar spre Dublin, orașul și-a câștigat reputația de pol comercial și rezidențial vital în zona periurbană a capitalei. De secole, Naas este recunoscut și pentru tradiția sa legată de creșterea și cursele de cai de rasă, având o economie profund legată de industria ecvestră. Geografic și economic, dezvoltarea sa oferă un exemplu ideal despre fenomenul de navetism și extindere a metropolelor moderne, subiect important în geografia urbană pentru gimnaziu. Dincolo de modernizarea sa, orașul păstrează elemente arhitecturale clasice, reflectând istoria sa anglo-normandă.",
+    "factsAdvanced_ro": [
+      "Numele orașului provine din irlandeza veche 'Nás na Ríogh', care înseamnă 'Locul de întâlnire al regilor'.",
+      "Canalul Grand Canal trece prin oraș, fiind utilizat istoric pentru transportul de mărfuri către capitală.",
+      "Populația orașului aproape s-a dublat în ultimii 25 de ani din cauza migrației rezidențiale dinspre Dublin.",
+      "Naas găzduiește unul dintre cele mai populare hipodromuri din Irlanda, organizând numeroase curse importante."
+    ]
+  },
+  "city-portlaoise": {
+    "descriptionAdvanced_ro": "Portlaoise este cel mai mare oraș din comitatul Laois și servește drept punct de legătură crucial în rețeaua rutieră și feroviară a Irlandei, aflându-se chiar în centrul insulei. Inițial un fort militar înființat în secolul al XVI-lea de britanici sub numele de Fortul Maryborough, localitatea s-a dezvoltat treptat într-un hub comercial aglomerat. Datorită poziționării sale centrale excelente, economia orașului se bazează puternic pe logistică, comerț și servicii rutiere. Din perspectiva studiului geografiei umane, Portlaoise este un studiu de caz excelent despre modul în care infrastructura de transport influențează direct expansiunea și profilul economic al așezărilor urbane din zonele de interior. În deceniile recente, orașul a cunoscut o modernizare rapidă, atrăgând o populație tânără și diversificată.",
+    "factsAdvanced_ro": [
+      "A fost înființat în 1556 sub domnia reginei Maria I a Angliei pentru a consolida controlul englez asupra regiunii centrale.",
+      "Găzduiește singura închisoare de înaltă securitate a statului irlandez.",
+      "Aproape toate rutele majore care leagă Dublinul de orașele din sud-vestul țării trec prin Portlaoise sau pe lângă acesta.",
+      "Piața veche de legume și vite, deși acum închisă, a fost inima economică tradițională a orașului timp de 300 de ani."
+    ]
+  },
+  "city-mullingar": {
+    "descriptionAdvanced_ro": "Mullingar, centrul administrativ al comitatului Westmeath, este o localitate pitorească situată în inima peisajului lacustru central al Irlandei (Lakelands). Având rădăcini care coboară până în perioada invaziilor normande din secolul al XII-lea, economia tradițională a zonei a fost dominată de creșterea intensivă a vitelor de carne. Mai mult, prezența canalului Royal și a marilor lacuri din zonă a adus orașului oportunități timpurii pentru comerțul pe apă și ulterior pentru turismul recreativ. Pentru elevi, așezarea demonstrează legătura armonioasă dintre ecosistemul corpurilor de apă dulce (lacurile Ennell, Owel și Derravaragh) și dezvoltarea unei comunități rurale active. Astăzi, Mullingar este, de asemenea, renumit pentru o scenă muzicală vibrantă și pentru catedralele sale impunătoare.",
+    "factsAdvanced_ro": [
+      "Mullingar este considerat centrul național pentru producția tradițională a cărnii de vită premium irlandeză.",
+      "Catedrala 'Christ the King' din oraș deține o colecție impresionantă de mozaicuri cu detalii uimitoare realizate de artistul Boris Anrep.",
+      "Canalul Royal care leagă Dublinul de râul Shannon străbate nordul orașului, facilitând istoric comerțul barjelor.",
+      "Zona din jurul orașului Mullingar inspiră frecvent mitologia irlandeză, inclusiv legendele legate de lacul Derravaragh."
+    ]
+  },
+  "city-tullamore": {
+    "descriptionAdvanced_ro": "Tullamore este centrul administrativ și comercial al comitatului Offaly, renumit la nivel internațional pentru producția tradițională de whiskey irlandez, cu un brand de top care îi poartă numele. Situat strategic pe Canalul Grand Canal, orașul a înflorit în perioada Revoluției Industriale, transformându-se dintr-un mic sat agricol într-un nod activ de comerț și distilerii. Expansiunea istorică a orașului este exemplul perfect pentru a arăta elevilor modul în care rețelele de canale au acționat drept 'autostrăzi' ale secolului al XIX-lea, încurajând exportul rapid de mărfuri manufacturate. Pe lângă moștenirea sa industrială, regiunea găzduiește și mlaștinile întinse din centrul Irlandei (Bog of Allen), un habitat natural unic. Turismul patrimonial bazat pe facilitățile industriale și frumusețea canalelor reprezintă o parte importantă a veniturilor orașului.",
+    "factsAdvanced_ro": [
+      "În 1785, un accident cu balonul cu aer cald a provocat un incendiu masiv care a distrus peste 100 de case în Tullamore.",
+      "Distileria Tullamore D.E.W. originală a fost fondată în oraș în anul 1829.",
+      "Canalul Grand Canal a ajuns la Tullamore în anul 1798, dublând populația și comerțul orașului în următorul deceniu.",
+      "Orașul este dominat la sud de Munții Slieve Bloom, care sunt cunoscuți drept unii dintre cei mai vechi munți din Europa."
+    ]
+  },
+  "city-carrick-on-shannon": {
+    "descriptionAdvanced_ro": "Carrick-on-Shannon, pitorescul centru administrativ al comitatului Leitrim, deține un rol dominant ca principala capitală națională de navigație și turism de agrement pe apele interioare. Așezat pe malurile faimosului râu Shannon, cel mai lung râu din Irlanda, orașul se bucură de porturi naturale și peisaje riverane deosebite, facilitând accesul către lacurile extinse din jur. Din punct de vedere geografic și economic, este esențial pentru înțelegerea valorificării resurselor de apă curgătoare ca o rețea majoră de agrement, transport și susținere a turismului ecologic regional. Infrastructura turistică modernă include porturi de agrement aglomerate cu zeci de ambarcațiuni de croazieră care aduc viață și dinamism comercial pe tot parcursul verii. Orașul se remarcă printr-o atmosferă primitoare, conservând arhitectura tradițională a vechilor străduțe cu prăvălii irlandeze.",
+    "factsAdvanced_ro": [
+      "Carrick-on-Shannon a primit statutul de oraș de la regele Iacob I în anul 1613, devenind o fortăreață importantă.",
+      "Este cel mai mic oraș-reședință de comitat din întreaga țară ca număr de locuitori.",
+      "Orașul are un port de agrement uriaș capabil să găzduiască sute de bărci cu motor și croaziere fluviale de vacanță.",
+      "Podul antic din piatră al orașului a fost mult timp unul dintre puținele puncte de trecere sigure peste secțiunea superioară a râului Shannon."
+    ]
+  },
+  "city-cavan": {
+    "descriptionAdvanced_ro": "Orașul Cavan, situat în zona de nord-centru a Irlandei, servește ca centru comercial esențial pentru un peisaj definit de drumlinuri (dealuri glaciare) și un mozaic complex de sute de lacuri mici. Istoria așezării este strâns legată de clanul O'Reilly din Evul Mediu, care a dominat și a conturat organizarea locală. Pentru elevii de gimnaziu, regiunea din jurul orașului Cavan este o veritabilă lecție practică de geologie glaciară, reliefând felul în care ultima eră glaciară a sculptat și segmentat relieful, creând habitate unice. Astăzi, orașul îmbină liniștea tradițională a unei așezări rurale izolate cu o economie bazată pe meșteșuguri locale și o infrastructură turistică în creștere, atrăgând pasionații de natură și pescuit din toată Europa. De asemenea, orașul găzduiește structuri frumoase, printre care și catedrala în stil neoclasic inaugurată în secolul trecut.",
+    "factsAdvanced_ro": [
+      "Topografia unică a comitatului este adesea descrisă ca având 'un lac pentru fiecare zi a anului' (peste 365 de lacuri).",
+      "Catedrala St. Patrick și St. Felim a fost terminată în 1942 și are un turn grandios cu o înălțime de peste 68 de metri.",
+      "Teritoriul muntos, denivelat și împădurit din jurul orașului a protejat comunitățile locale de invaziile anglo-normande mult mai mult decât în restul insulei.",
+      "Cavan are o tradiție unică de prelucrare manuală a dantelei, meșteșug păstrat și promovat de-a lungul generațiilor."
+    ]
+  }
+}
+
+with open('/mnt/c/Users/User/plizio-repo/ireland_out_2.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+

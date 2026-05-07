@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "batu-caves-history-v2",
+      "descriptionAdvanced": "A Batu Caves egy gigantikus mészkőbarlang-rendszer Kuala Lumpur közelében, amely a világ egyik legfontosabb Indián kívüli hindu szentélye. A barlangokat a 19. század végén fedezte fel K. Thamboosamy Pillai indiai kereskedő, aki az isteni lándzsa alakjához hasonlította a barlang bejáratát, és ezért Murugan istennek ajánlotta a helyet. A komplexumhoz vezető, 272 fokból álló meredek lépcsősort 1920-ban építették, és a közelmúltban élénk színekre festették. A barlang bejáratánál áll a lenyűgöző, 42,7 méter magas, arannyal bevont Murugan istenszobor, amelyet 2006-ban lepleztek le. A helyszín a hatalmas, évente megtartott Thaipusam fesztivál központja, ahol a zarándokok rituális önkínzással mutatják be odaadásukat. A vallástörténet oktatásában az indiai diaszpóra spirituális hagyományainak kiemelkedő példája.",
+      "factsAdvanced": [
+        "A barlangrendszert a 19. század végén szentelték hindu istentiszteleti hellyé.",
+        "A Temple Cave-hez 272 darab meredek, színes lépcsőfok vezet fel.",
+        "A 42,7 méter magas Murugan-szobor építéséhez 300 liter aranyfestéket használtak.",
+        "Az évente megrendezett Thaipusam fesztivál több mint egymillió zarándokot vonz.",
+        "A mészkőhegy, amelyben a barlangok találhatók, mintegy 400 millió éves.",
+        "A barlangrendszer K. Thamboosamy Pillai indiai kereskedő nevén vált ismertté."
+      ]
+    },
+    {
+      "id": "a-famosa-fort-history-v2",
+      "descriptionAdvanced": "Az A Famosa erőd Malakka történelmi szívében található, és a délkelet-ázsiai régió egyik legrégebbi fennmaradt európai építészeti emléke. Az erődöt 1511-ben építette a portugál Alfonso de Albuquerque flottája, miután sikeresen megdöntötték a Malakkai Szultanátust. A masszív komplexum célja a Malakka-szoros kereskedelmi útvonalának ellenőrzése volt, hogy biztosítsák a Portugál Birodalom fűszer-monopóliumát. Az erőd később holland (1641), majd brit kézre (1795) került. A britek az 1800-as évek elején parancsot adtak az erőd lerombolására, de Sir Stamford Raffles (Szingapúr alapítója) beavatkozásának köszönhetően a Porta de Santiago kapuház megmenekült. Történelemoktatásban az európai gyarmati hatalmak ázsiai dominanciájának kezdeteit szimbolizálja.",
+      "factsAdvanced": [
+        "1511-ben építtette Alfonso de Albuquerque portugál tengernagy.",
+        "Délkelet-Ázsia egyik legrégebbi európai építészeti maradványa.",
+        "Eredetileg egy hatalmas, ötszögletű komplexum volt, falain belül egy egész várossal.",
+        "A britek 1807-ben elkezdték lebontani, hogy ne kerülhessen a franciák kezére.",
+        "Sir Stamford Raffles 1810-es beavatkozása mentette meg a Porta de Santiago kaput.",
+        "A falakon ma is látható a Holland Kelet-indiai Társaság (VOC) domborműves címere."
+      ]
+    },
+    {
+      "id": "lembah-bujang-history-v2",
+      "descriptionAdvanced": "A Bujang-völgy (Lembah Bujang) Kedah államban Malajzia leggazdagabb régészeti lelőhelye, amely a Jerai-hegy lábánál fekszik. A terület egykor egy virágzó hindu-buddhista királyság és nemzetközi kereskedelmi csomópont volt az i.sz. 2. és 14. század között, évszázadokkal a Malakkai Szultanátus előtt. A régészek több mint 50 hindu és buddhista szentély (ún. chandi) romjait tárták fel, amelyek az indiai kulturális expanzió, a 'Nagyobb India' hatását bizonyítják a térségben. Az ásatások során indiai kerámiák, kínai porcelánok és közel-keleti üvegtárgyak is előkerültek, ami igazolja a völgy szerepét az ősi Tengeri Selyemút mentén. Történelem tantárgy keretében az iszlám előtti délkelet-ázsiai civilizációk gazdagságát és az ősi globális kereskedelmet mutatja be.",
+      "factsAdvanced": [
+        "Az ország legrégebbi ismert civilizációjának központja, amely az i.sz. 2. századból ered.",
+        "A régészek több mint 50 hindu és buddhista szentélyt (chandi) fedeztek fel.",
+        "Délkelet-Ázsia egyik legfontosabb iszlám előtti régészeti lelőhelye.",
+        "Az ősi Tengeri Selyemút kulcsfontosságú kikötőjeként szolgált a Jerai-hegy tövében.",
+        "A leletek között 6. századi szanszkrit kőfeliratokat is találtak.",
+        "A birodalom hanyatlása a 11. századi dél-indiai Chola-dinasztia támadásaihoz köthető."
+      ]
+    },
+    {
+      "id": "tugu-negara-history-v2",
+      "descriptionAdvanced": "A Tugu Negara, vagyis a Nemzeti Emlékmű, a kuala lumpur-i Perdana Botanikus Kert közelében található hatalmas bronzszobor, amely a malajziai szabadságért és békéért hősi halált halt katonák tiszteletére készült. Különösen azoknak állít emléket, akik a második világháború (1941-1945) és a Maláj Vészhelyzet (1948-1960) alatti kommunista felkelés során vesztették életüket. A lenyűgöző alkotást az osztrák-amerikai szobrász, Felix de Weldon tervezte, és 1966-ban avatták fel; magassága eléri a 15 métert, amivel a világ egyik legmagasabb szabadon álló bronzszobra. A szoborcsoport hét katonát ábrázol, akik a vezetés, szenvedés, egység, éberség, erő, bátorság és áldozatkészség erényeit szimbolizálják. A huszadik századi történelem oktatásában a nemzetépítés és a hidegháborús ázsiai konfliktusok szimbóluma.",
+      "factsAdvanced": [
+        "A világ egyik legmagasabb szabadon álló bronzszobra, 15 méter magas.",
+        "1966. február 8-án avatták fel a hősök emlékére.",
+        "Felix de Weldon tervezte, aki az ikonikus Iwo Jima emlékművet is készítette.",
+        "A szobrot alkotó hét katona a maláj fegyveres erők egy-egy erényét szimbolizálja.",
+        "Főként a Maláj Vészhelyzet (1948-1960) áldozatainak állít mementót.",
+        "Az emlékmű mellett fekszik az ország eredeti, első világháborús emlékműve (Kenotáf) is."
+      ]
+    },
+    {
+      "id": "kellies-castle-history-v2",
+      "descriptionAdvanced": "A Kellie's Castle egy befejezetlen, titokzatos skót kastély Perak államban, Batu Gajah közelében. A grandiózus épületet 1915-ben kezdte építtetni William Kellie-Smith, egy gazdag skót gumiültetvényes, hogy a feleségének ajándékozza és az otthoni skót luxust idézze meg a trópusokon. Az épület tervei között szerepelt Malajzia első beltéri liftje, egy beltéri teniszpálya és egy hatalmas borospince is. A skót, mór és indiai stílusjegyeket ötvöző kastély építése azonban tragikus véget ért, amikor Kellie-Smith 1926-ban egy lisszaboni utazás során váratlanul meghalt tüdőgyulladásban. Halála után a munkások elhagyták az építkezést, és a kastély sosem készült el, romjait azóta visszafoglalta a természet. Történelemből a gyarmati kor elitjének különc életmódját és az egzotikus építészetet szemlélteti.",
+      "factsAdvanced": [
+        "Az építkezést 1915-ben kezdte el William Kellie-Smith skót ültetvényes.",
+        "Az épület mór, indiai és nyugati építészeti stílusok egyedi ötvözete.",
+        "Ez lett volna az első épület Malajziában, amelyben beépített lift működik.",
+        "A munkálatok 1926-ban végleg leálltak a tulajdonos váratlan halála miatt.",
+        "A kastély felépítéséhez speciális dél-indiai építőmunkásokat hozattak.",
+        "Az elhagyatott romok azóta népszerű turisztikai célponttá és szellemhistóriák helyszínévé váltak."
+      ]
+    },
+    {
+      "id": "fort-cornwallis-history-v2",
+      "descriptionAdvanced": "A Fort Cornwallis egy csillag alakú brit erődítmény Penang szigetén, George Town városában, amely a Brit Kelet-indiai Társaság hatalmát szimbolizálta a régióban. Az erődöt 1786-ban Francis Light kapitány alapította, közvetlenül miután partra szállt a szigeten, és kezdetben csak egy egyszerű pálmafából (nibong) készült paliszád volt. Jelenlegi kő- és téglafalait indiai fegyencek segítségével építették újjá az 1810-es évek elején. Noha Malajzia legnagyobb fennmaradt erődje, soha egyetlen harci cselekményt sem látott, és elsősorban adminisztratív központként működött. Az erőd falai között ma is megtekinthető a híres 'Seri Rambai', a 17. századi holland ágyú. A brit gyarmati terjeszkedés történetének és a tengeri kereskedelmi állomások védelmének klasszikus esettanulmánya.",
+      "factsAdvanced": [
+        "1786-ban Francis Light kapitány alapította Penang szigetén.",
+        "Malajzia legnagyobb méretű fennmaradt európai erődítménye.",
+        "Eredetileg pálmafa-rönkökből (nibong) épült, később építették át téglából.",
+        "A falakon található Sri Rambai ágyú 1603-ból származik.",
+        "A csillag alakú erőd soha nem volt kitéve közvetlen katonai támadásnak.",
+        "A komplexum Charles Cornwallis főkormányzóról kapta a nevét."
+      ]
+    },
+    {
+      "id": "sandakan-memorial-park-history-v2",
+      "descriptionAdvanced": "A Sandakan Emlékpark a második világháború egyik legtragikusabb délkelet-ázsiai eseményének, a hírhedt sandakani halálmenetnek állít emléket Sabah államban. A park pontosan a korábbi japán hadifogolytábor helyszínén épült, ahol több mint 2400 ausztrál és brit katonát tartottak fogva kegyetlen körülmények között 1942 és 1945 között. Ahogy a szövetséges erők közeledtek a háború végén, a japán parancsnokok elrendelték a foglyok áthelyezését a 260 kilométerre lévő Ranau-ba a sűrű dzsungelen keresztül; a menetelést mindössze hat ausztrál katona élte túl, akiknek sikerült megszökniük a helyi lakosok segítségével. A parkban megmaradtak a tábor egykori generátorának és kazánjának rozsdásodó maradványai. Történelem órán a csendes-óceáni hadszíntér brutalitásának és az emberi kitartásnak a tragikus mementója.",
+      "factsAdvanced": [
+        "A korábbi japán hadifogolytábor (Taman Peringatan Sandakan) helyén jött létre.",
+        "Több mint 2400 brit és ausztrál hadifogoly emléke előtt tiszteleg.",
+        "A 260 km-es halálmenetet a dzsungelen át csak 6 katona élte túl.",
+        "A park területén megőrizték a tábor egykori kazánjának roncsait.",
+        "Minden év augusztus 15-én (Anzac napon) hivatalos megemlékezést tartanak itt.",
+        "A helyszínt Ausztrália és Sabah állam kormánya közösen fejlesztette emlékművé."
+      ]
+    },
+    {
+      "id": "stadthuys-history-v2",
+      "descriptionAdvanced": "A Stadthuys (hollandul: városháza) Malakka történelmi belvárosában található ikonikus, lazacvörös színű épületkomplexum, amely a keleti félteke legrégebbi fennmaradt holland gyarmati épülete. Az 1650-ben elkészült masszív épület egykori funkciója a holland kormányzó (Governeur) és helyetteseinek adminisztratív központja és rezidenciája volt. Jellegzetes holland építészeti elemekkel rendelkezik, vastag téglafalakkal, zsalus ablakokkal és robusztus faajtókkal, melyek ellenálltak a trópusi klímának. Eredetileg fehér színű volt, csak a brit fennhatóság alatt, a 20. század elején kapta meg jellegzetes vörös színét, ami a környező Christ Church templomhoz is igazodik. Ma történelmi és néprajzi múzeumként működik, így a történelemoktatásban a VOC (Holland Kelet-indiai Társaság) ázsiai közigazgatásának kiváló vizuális példája.",
+      "factsAdvanced": [
+        "1650-ben fejezték be az építését a holland megszállás idején.",
+        "A legrégebbi ma is álló holland gyarmati épület Ázsiában.",
+        "Eredetileg fehér színű volt, a ma ismert vörös festést 1911-ben kapta a britektől.",
+        "Több mint 150 éven keresztül a holland főkormányzó adminisztratív központja volt.",
+        "A masszív falak vastagsága helyenként eléri a fél métert is.",
+        "Jelenleg a Malakkai Történeti és Néprajzi Múzeum otthona."
+      ]
+    },
+    {
+      "id": "istana-negara-lama-history-v2",
+      "descriptionAdvanced": "Az Istana Negara Lama (Régi Nemzeti Palota) Kuala Lumpur központjában található, és 1957-től 2011-ig szolgált a Yang di-Pertuan Agong, vagyis a maláj uralkodó hivatalos rezidenciájaként. Az 1928-ban eredetileg egy gazdag kínai ónbányász és üzletember, Chan Wing által építtetett, mintegy 11 hektáros területen fekvő villát a japánok a háború alatt tiszti klubként használták, majd a britek adminisztratív épületként. A függetlenség kikiáltása után a maláj állam vásárolta meg és alakította át nemzeti palotává, ahol az elegáns palladiánus és helyi stílusjegyek keverednek. 2011-ben az uralkodói székhelyet egy új komplexumba helyezték át, az épületet pedig megnyitották a nagyközönség előtt mint Királyi Múzeum (Muzium Diraja). A társadalomtörténet és politikaoktatás keretében Malajzia egyedi, rotációs monarchia rendszerének szimbóluma.",
+      "factsAdvanced": [
+        "Eredetileg 1928-ban épült egy gazdag kínai ónmilliárdos (Chan Wing) számára.",
+        "1957 és 2011 között volt a maláj király (Yang di-Pertuan Agong) hivatalos rezidenciája.",
+        "A japán megszállás alatt a japán tisztek klubjaként funkcionált.",
+        "Az épület mintegy 11 hektáros kiterjedt, parkosított területen fekszik.",
+        "2013-tól Királyi Múzeumként (Muzium Diraja) látogatható.",
+        "A bejáratot korábban mindig a híres lovas királyi testőrség védte."
+      ]
+    },
+    {
+      "id": "sun-yat-sen-museum-penang-history-v2",
+      "descriptionAdvanced": "A Szun Jat-szen Múzeum Penang (George Town) városában egy szerény, hagyományos peranakán üzletházban kapott helyet, amely egykor sorsdöntő szerepet játszott Kína modern történelmében. 1910-ben a kínai forradalom atyja, Dr. Szun Jat-szen itt rendezte be a Tongmenghui nevű forradalmi titkos társaságának délkelet-ázsiai főhadiszállását. Ebben a házban tartotta azt a híres, 1910. novemberi konferenciát, ahol kidolgozták a második kantoni felkelés terveit, és komoly pénzügyi támogatást gyűjtöttek a tengerentúli kínai (Nanyang) közösségtől. Ezen az adománygyűjtésen alapult végül a Csing-dinasztiát megdöntő, 1911-es Vucsangi felkelés sikere. A történelem oktatásában az épület kiváló példája annak, hogyan formálta az ázsiai diaszpóra egy globális birodalom sorsát.",
+      "factsAdvanced": [
+        "1910-ben Szun Jat-szen e házban alapította meg forradalmi bázisát Délkelet-Ázsiában.",
+        "Itt tartották az 1910. novemberi történelmi konferenciát a kantoni felkelésről.",
+        "A kínai forradalom (1911) jelentős pénzügyi fedezetét itt gyűjtötték össze.",
+        "Az épület a tradicionális hosszúkás kínai üzletházak (shophouse) klasszikus példája.",
+        "2001-ben, hosszas felújítás után nyitották meg hivatalos múzeumként.",
+        "Dr. Szun és a 'Nanyang' (tengerentúli) kínaiak szoros politikai kapcsolatát jelképezi."
+      ]
+    },
+    {
+      "id": "fort-margherita-history-v2",
+      "descriptionAdvanced": "A Fort Margherita egy angol stílusú, fehérre meszelt kőerőd Borneó szigetén, Kuching városában, amely a Sarawak-folyó északi partjáról őrzi a települést. Az erődöt 1879-ben építtette Charles Brooke, a második 'Fehér Radzsa', és a nevét feleségéről, Margaret Réné de Windtről kapta. A masszív, háromemeletes toronnyal rendelkező épület fő feladata az volt, hogy védelmet nyújtson a kalóztámadások és a dayak őslakosok felkelései ellen, bár komoly ostromot sosem élt át. Később rendőrőrsnek és börtönnek is használták. Jelenleg a Brooke Galériának ad otthont, amely a Brooke család 100 éves sarawaki uralkodásának történetét meséli el. A történelem és a politikai földrajz tantárgyak szempontjából egy ritka, 'független' európai dinasztia ázsiai hatalomgyakorlásának egyedülálló emléke.",
+      "factsAdvanced": [
+        "1879-ben építtette Charles Brooke, Sarawak második 'Fehér Radzsája'.",
+        "A nevét Brooke feleségéről, Margaret Réné de Windtről kapta.",
+        "Az építés elsődleges célja Kuching városának védelme volt a kalózoktól.",
+        "Az erőd kialakítása a késő középkori angol kastélyok stílusát idézi.",
+        "Az épületkomplexumban halálraítéltek kivégzésére szolgáló udvar is volt.",
+        "Napjainkban a Brooke Galériának, a család történelmi múzeumának ad otthont."
+      ]
+    },
+    {
+      "id": "bukit-kepong-incident-monument-history-v2",
+      "descriptionAdvanced": "A Bukit Kepong-incidens Emlékműve Johor állam egy elzárt, folyóparti falujában található, és a maláj történelem egyik leghősiesebb, ám legtragikusabb fegyveres konfliktusának állít emléket. 1950. február 23-án, a Maláj Vészhelyzet idején, a Maláj Kommunista Párt mintegy 180 fegyverese meglepetésszerűen megtámadta a kis helyi rendőrőrsöt. Az őrsöt mindössze 25 rendőr és a falu néhány őre védte Jamil Mohd Shah őrmester vezetésével. A kilátástalan küzdelemben, amely órákig tartott, a védők szinte mind egy szálig elestek, köztük nők és gyerekek is meghaltak, de nem adták meg magukat a támadóknak. Ez a helyszín a nemzeti kitartás és a hősiesség szimbólumává vált, amelyet a huszadik századi történelem és állampolgári ismeretek tantárgyak a hidegháborús ázsiai konfliktusok személyes áldozatainak bemutatására használnak.",
+      "factsAdvanced": [
+        "Az incidens 1950. február 23-án történt a Maláj Vészhelyzet (Emergency) alatt.",
+        "A rendőrőrsöt mintegy 180 kommunista gerilla támadta meg hajnalban.",
+        "A támadásban 25 rendőr és családtagjaik haltak hősi halált.",
+        "Jamil Mohd Shah őrmester vezette a védelmet az utolsó töltényig.",
+        "Az eseményről később híres malajziai történelmi filmet is forgattak.",
+        "A rendőrőrsöt porig égették, az emlékművet a romok helyén állították fel."
+      ]
+    },
+    {
+      "id": "cheng-hoon-teng-temple-history-v2",
+      "descriptionAdvanced": "A Cheng Hoon Teng, vagyis a 'Zöld Felhők Temploma', Malakka történelmi negyedében található, és Malajzia legősibb működő kínai temploma. A szentélyt 1645-ben alapította Kapitan Tay Kie Ki, a helyi kínai közösség vezetője, a holland gyarmati uralom alatt. A templom különlegessége, hogy a hagyományos kínai hitrendszerek szinkretikus központja, amely a taoizmus, a konfucianizmus és a mahájána buddhizmus elemeit is magába foglalja, fő istensége pedig Kuan Jin, az Irgalom Istennője. Az épületet teljesen szegek nélkül, tradicionális kínai ácstechnikával építették, és az építőanyagokat, valamint a mesterembereket is Kína déli tartományaiból hozták. A vallástörténet oktatásában az épület az első hullámú kínai migráció és a vallási tolerancia tökéletes mementója Délkelet-Ázsiában.",
+      "factsAdvanced": [
+        "1645-ben alapították, ez Malajzia legrégebbi működő kínai temploma.",
+        "Kapitan Tay Kie Ki vezetésével épült a holland fennhatóság alatt.",
+        "Szegek felhasználása nélkül, tradicionális kínai fakötésekkel épült.",
+        "A templom egyidejűleg taoista, konfuciánus és buddhista szentély is.",
+        "Főoltárán Kuan Jin, az Irgalom Istennője áll.",
+        "2003-ban UNESCO örökségvédelmi díjat kapott a sikeres restaurálásért."
+      ]
+    },
+    {
+      "id": "dataran-merdeka-history-v2",
+      "descriptionAdvanced": "A Dataran Merdeka, más néven a Függetlenség Tere, Kuala Lumpur történelmi szíve és Malajzia nemzeti identitásának legfontosabb szimbóluma. Eredetileg a Selangor Club padangja (tücsökpályája) volt a brit gyarmati időkben, ám 1957. augusztus 31-én éjfélkor történelmi fordulat színhelye lett: itt vonták be végleg a brit Union Jack-et, és itt vonták fel először a független Malajzia zászlóját. A tér egyik végében áll a világ egyik legmagasabb (95 méteres) szabadon álló zászlórúdja. A teret a lenyűgöző mór stílusú Sultan Abdul Samad épület öleli körül, amely a brit adminisztráció központja volt. Történelem és politika tantárgyak keretében a tér a békés dekolonizáció és a független nemzetállamok születésének ikonikus helyszíne.",
+      "factsAdvanced": [
+        "Itt kiáltották ki Malajzia függetlenségét 1957. augusztus 31-én éjfélkor.",
+        "A brit gyarmati időszakban a területet krikettpályának (Padang) használták.",
+        "A téren álló nemzeti zászlórúd 95 méter magas, a világ egyik legmagasabbja.",
+        "Közvetlenül a mór stílusú Sultan Abdul Samad történelmi épület előtt terül el.",
+        "A teret az 1990-es évek elején építették át a mai, ünnepi formájára.",
+        "Minden év augusztusában hatalmas katonai és civil parádét tartanak a téren."
+      ]
+    },
+    {
+      "id": "niah-caves-archaeological-site-history-v2",
+      "descriptionAdvanced": "A Niah-barlangrendszer Sarawak államban Délkelet-Ázsia egyik legfontosabb őskori régészeti lelőhelye, amely alapjaiban írta át a térség emberi betelepüléséről szóló történelemtudományt. Az 1958-as ásatások során, melyeket Tom Harrisson brit antropológus vezetett, egy mintegy 40 000 éves modern emberi koponyát (a 'Mély Koponyát') találtak, amely a Homo sapiens legkorábbi bizonyítéka a régióban. A barlangokban felfedeztek továbbá kőkorszaki temetkezési helyeket, csónak alakú fakoporsókat ('halálhajókat') és gyönyörű őskori sziklafestményeket is. Ezen felül a barlangok évezredek óta a fecskefészek-gyűjtés helyszínei, amely a kínai gasztronómia drága alapanyaga. A történelem és antropológia oktatásában az őskori emberi migráció egyik kulcsfontosságú állomását jelenti.",
+      "factsAdvanced": [
+        "1958-ban Tom Harrisson csapata itt találta meg Délkelet-Ázsia legidősebb Homo Sapiens koponyáját.",
+        "Az emberi jelenlét legkorábbi nyomai mintegy 40 000 évvel ezelőttre tehetők.",
+        "A barlangfalakon vörös hematittal készült őskori sziklafestmények (Painted Cave) találhatók.",
+        "A feltárt temetkezési formák között fa csónakkoporsók (halálhajók) is vannak.",
+        "A barlangrendszer évezredek óta a madárfészek-leves alapanyagának gyűjtőhelye.",
+        "A lelőhelyet hivatalosan 1974-ben nyilvánították nemzeti parkká."
+      ]
+    },
+    {
+      "id": "kampung-kling-mosque-history-v2",
+      "descriptionAdvanced": "A Kampung Kling Mecset Malakka belvárosában, a 'Harmónia Utcájában' található, és az egyik legrégebbi iszlám istentiszteleti hely Malajziában. 1748-ban épült a helyi indiai muszlim közösség által, és a hagyományos közel-keleti kupolás dzsámiktól eltérően az épülete a délkelet-ázsiai szumátrai és jávai építészeti stílusokat követi, háromszintes piramis alakú tetővel. A minaret különlegessége, hogy formája inkább emlékeztet egy kínai pagodára, mint hagyományos iszlám toronyra, tükrözve a tengeri selyemút menti kultúrák mély összefonódását. Az épületbelsőben angol csempéket, kínai faragványokat és portugál stílusú oszlopokat láthatunk. A történelem és kulturális antropológia oktatásában a vallási szinkretizmus és az interkulturális építészet ritka példájaként szolgál.",
+      "factsAdvanced": [
+        "1748-ban fából épült, majd 1872-ben téglából és kőből építették újjá.",
+        "Kupolák helyett szumátrai-jávai stílusú, háromszintes piramis tetővel rendelkezik.",
+        "A pagoda formájú minaret építészetileg egyedülálló az iszlám világban.",
+        "A mecset belső udvarán a mosakodómedence európai viktoriánus csempékkel van kirakva.",
+        "A név ('Kling') a Dél-Indiából származó muszlim kereskedőkre utal történelmileg.",
+        "A mecset a Malakkai UNESCO Világörökségi zóna központjában található."
+      ]
+    },
+    {
+      "id": "merdeka-stadium-history-v2",
+      "descriptionAdvanced": "A Merdeka Stadion, vagyis a Függetlenség Stadionja Kuala Lumpurban, kifejezetten a maláj függetlenség ünnepélyes kikiáltására épült 1957-ben. A mintegy 20 000 férőhelyes arénát hatalmas mérnöki bravúrral, kevesebb mint egy év alatt fejezték be, és 1957. augusztus 31-én reggel itt olvasta fel Tunku Abdul Rahman, az ország első miniszterelnöke a függetlenségi nyilatkozatot, majd hétszer kiáltotta a tömeggel együtt: 'Merdeka!' (Függetlenség). A stadion a következő évtizedekben nemcsak politikai eseményeknek, hanem jelentős sporteseményeknek (például a Pestabola Merdeka labdarúgó tornának) és nemzetközi koncerteknek is otthont adott. Történelem tantárgy keretében az épület az antikolonializmus és a modern maláj nemzet születésének fizikai manifesztációja.",
+      "factsAdvanced": [
+        "1957 augusztus 31-én a függetlenségi nyilatkozat történelmi helyszíne volt.",
+        "Kifejezetten az 1957-es nemzetalapítási ünnepségekre építették rekordidő alatt.",
+        "Eredeti befogadóképessége mintegy 20 000 néző volt.",
+        "1966-ban itt rendezték meg a híres Muhammad Ali – Joe Bugner bokszmérkőzést.",
+        "A stadiont 2007-ben védett nemzeti örökséggé nyilvánították.",
+        "A Pestabola Merdeka, Ázsia egyik legrégebbi futballtornájának otthona."
+      ]
+    },
+    {
+      "id": "battle-of-penang-site-history-v2",
+      "descriptionAdvanced": "A Penangi Csata emlékszínhelye az első világháború egyik ritka és drámai távol-keleti tengeri ütközetére hívja fel a figyelmet, amely 1914. október 28-án zajlott le a Penang-sziget északi partjainál. Az akció során a rettegett német SMS Emden könnyűcirkáló álcázva belopózott az antant erők által felügyelt kikötőbe, és meglepetésszerű támadást hajtott végre. A mindössze néhány percig tartó összecsapásban elsüllyesztett egy orosz cirkálót (Zsemcsug) és egy francia rombolót (Mousquet), miközben a helyi lakosság megdöbbenve figyelte a partról a robbanásokat. Az esemény sokkolta a Brit Birodalmat, mivel bizonyította, hogy a háború még a csendes-óceáni védett kikötőket is elérheti. A huszadik századi történelem oktatásában bemutatja az első világháború valóban globális, gyarmatokat is érintő kiterjedését.",
+      "factsAdvanced": [
+        "A tengeri csata 1914. október 28-án, az első világháború kezdetén történt.",
+        "A német SMS Emden cirkáló álcázott, hamis kéménnyel lopózott a kikötőbe.",
+        "Az akció során az orosz Zsemcsug cirkáló és a francia Mousquet romboló süllyedt el.",
+        "A német hajó mindössze fél óra alatt hajtotta végre a támadást és menekült el.",
+        "Az elesett francia és orosz tengerészek emlékműve ma is látható Penangban.",
+        "Ez volt az első világháború egyik legsikeresebb német tengeri portyázása a Távol-Keleten."
+      ]
+    },
+    {
+      "id": "agnes-keith-house-history-v2",
+      "descriptionAdvanced": "Az Agnes Keith Ház egy dombtetőn álló brit gyarmati stílusú villa a sabah-i Sandakan városában, amely az amerikai írónő, Agnes Newton Keith otthonaként vált világhírűvé. Agnes a '30-as és '40-es években férjével, a brit erdészeti tisztviselő Harry Keith-szel élt itt, és e falak között írta meg a 'Land Below the Wind' (A szél alatti föld) című bestsellerét, amely Borneót és annak őslakosait mutatta be a nyugati világnak. Az eredeti házat a második világháború alatt a japánok lerombolták, miközben az írónőt és családját internálótáborba zárták. A háború után a házat eredeti tervek alapján újjáépítették, ma pedig múzeumként működik. Történelem és irodalom tantárgyak keretében a gyarmati életmód és a háborús szenvedések dokumentálására szolgál.",
+      "factsAdvanced": [
+        "Az 1930-as évektől a világhírű írónő, Agnes Newton Keith otthona volt.",
+        "Az eredeti brit gyarmati villát a japán hadsereg a háború alatt lerombolta.",
+        "Az épületet 1946 és 1947 között építették újjá a háború utáni kormányzat számára.",
+        "Itt született a 'Land Below the Wind' (A szél alatti föld) című irodalmi klasszikus.",
+        "2004 óta az épület a Sabah Múzeumi Rendszer részeként múzeumként funkcionál.",
+        "A ház eredeti bútorzattal mutatja be a 20. század eleji brit tisztviselők életét."
+      ]
+    },
+    {
+      "id": "sultan-abdul-samad-building-history-v2",
+      "descriptionAdvanced": "A Sultan Abdul Samad Épület Kuala Lumpur legikonikusabb történelmi épülete, amely a Dataran Merdeka (Függetlenség Tere) keleti oldalát uralja. Az 1897-ben átadott épület a brit gyarmati adminisztráció, az úgynevezett Szövetségi Maláj Államok (FMS) titkárságának székhelye volt. Tervezője, A.C. Norman a gyarmati adminisztráció kérésére egy lenyűgöző indo-szaracén (mór) stílust alkalmazott, vörös téglákkal, rézkupolákkal és iszlám boltívekkel, hogy vizuálisan tisztelegjen az iszlám környezet előtt. A 41,2 méter magas központi óratorony, amelyet gyakran Malajzia 'Big Benjének' is neveznek, ma is uralja a teret. A történelem és a művészettörténet oktatásában a gyarmati hatalom reprezentációjának és a kulturális adaptáció építészeti kifejeződésének kiváló mintája.",
+      "factsAdvanced": [
+        "1897-ben adták át a brit gyarmati adminisztráció hivatalos központjaként.",
+        "Tervezője a brit A.C. Norman, aki a 'Maha-Mór' (indo-szaracén) stílust választotta.",
+        "A központi óratorony (a maláj Big Ben) 41,2 méter magasra emelkedik.",
+        "Az épület nevét Selangor akkori uralkodójáról, Sultan Abdul Samadról kapta.",
+        "Az 1957-es függetlenség kikiáltásának legfontosabb háttérépülete volt.",
+        "Korábban az ország Legfelsőbb Bíróságának (Federal Court) is otthont adott."
+      ]
+    },
+    {
+      "id": "petronas-twin-towers-landmarks-v2",
+      "descriptionAdvanced": "A Petronas-ikertornyok Kuala Lumpur központjában állnak, és Malajzia technológiai fejlődésének, valamint gazdasági felemelkedésének globális szimbólumai. A 88 emeletes, 451,9 méter magas felhőkarcolók 1998-tól 2004-ig a világ legmagasabb épületei voltak, és a mai napig a legmagasabb ikertornyokként tartják számon őket. A César Pelli argentin-amerikai építész által tervezett struktúra formája a tradicionális iszlám művészetből ismert nyolcágú csillagot (Rub el Hizb) formázza, amely a harmóniát és a rendet jelképezi. A két tornyot a 41. és 42. emeleten, 170 méter magasban egy 58 méter hosszú acél-üveg híd (Skybridge) köti össze, amely stabilizálja az épületeket a szélben. Földrajz és mérnöki ismeretek keretében a modern urbanizáció és az extrém szerkezetépítés bemutatásának legnagyszerűbb példája.",
+      "factsAdvanced": [
+        "Magasságuk az antennákkal együtt 451,9 méter, 88 emelettel rendelkeznek.",
+        "1998 és 2004 között hivatalosan a világ legmagasabb épületei voltak.",
+        "César Pelli építész az iszlám nyolcágú csillag motívumát használta alaprajzként.",
+        "A két tornyot összekötő Skybridge (Éghíd) 170 méteres magasságban található.",
+        "A hatalmas alapozáshoz 104 betonoszlopot süllyesztettek a földbe 60 méter mélyen.",
+        "Az egyik tornyot egy japán, a másikat egy dél-koreai konzorcium építette fel."
+      ]
+    },
+    {
+      "id": "menara-kuala-lumpur-landmarks-v2",
+      "descriptionAdvanced": "A Menara Kuala Lumpur (KL Torony) egy 421 méter magas telekommunikációs és kilátótorony, amely a Bukit Nanas erdőrezervátum dombján emelkedik a maláj főváros fölé. Az 1996-ban elkészült építmény Délkelet-Ázsia legmagasabb, és a világ egyik legmagasabb szabadon álló tornya. Különlegessége, hogy a tervezők gondosan ügyeltek az iszlám kulturális örökségre: a torony kupolája a perzsa iszlám építészet ('Muqarnas') klasszikus cseppkő-boltozatait idézi, melyeket iráni kézművesek készítettek. Mivel egy dombon (Bukit Nanas) áll, a torony legfelső kilátószintje (276 méter) valójában magasabban van a tengerszint felett, mint a Petronas-ikertornyok Skybridge-e. Fizika és földrajz tantárgyak keretében a telekommunikációs hullámok terjedésének és a modern városfejlesztésnek látványos példája.",
+      "factsAdvanced": [
+        "A torony teljes magassága az antennával együtt eléri a 421 métert.",
+        "1996. október 1-jén nyitotta meg hivatalosan Mahathir Mohamad miniszterelnök.",
+        "Délkelet-Ázsia legmagasabb telekommunikációs tornya.",
+        "A kilátószint és a forgó étterem 276 méteres magasságban helyezkedik el.",
+        "A Bukit Nanas trópusi erdőrezervátum közepén, egy 94 méter magas dombon áll.",
+        "Belső díszítésében hagyományos perzsa iszlám építészeti elemek (Muqarnas) találhatók."
+      ]
+    },
+    {
+      "id": "langkawi-sky-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Langkawi Sky Bridge egy mérnöki csoda, egy 125 méter hosszú, ívelt gyalogos függőhíd, amely a Machinchang-hegy csúcsa között ível át, 660 méterrel a tengerszint felett. A 2005-ben átadott építményt úgy tervezték, hogy a lehető legkisebb beavatkozást okozza az 500 millió éves geológiai környezetben; a hidat egyetlen, 82 méter magas dőlt acélpilon tartja, nyolc teherhordó kábellel egyensúlyozva. Az ívelt kialakítás nemcsak vizuálisan lenyűgöző, hanem lehetővé teszi a látogatók számára, hogy különböző szögekből csodálják meg a mély völgyeket és a távoli Andamán-tengert. A hidat csak meredek kötélpályán (Langkawi Cable Car) lehet megközelíteni. Fizika és mérnöki tudományok oktatásában a kábelhidas szerkezetek feszültségelosztásának és az extrém építészetnek a példája.",
+      "factsAdvanced": [
+        "A gyalogos függőhíd hossza 125 méter, magassága a tengerszint felett 660 méter.",
+        "A szerkezetet egyetlen 82 méter magas dőlt acélpilon és tartókábelek tartják.",
+        "Az építés során a híd elemeit orosz teherszállító helikopterekkel emelték a helyükre.",
+        "A híd íves kialakítású, hogy maximális panorámát biztosítson a dzsungelre.",
+        "Maximálisan 250 fő tartózkodhat a hídon egyidejűleg biztonsági okokból.",
+        "2005-ben nyitották meg, és a Langkawi Cable Car segítségével közelíthető meg."
+      ]
+    },
+    {
+      "id": "gunung-kinabalu-landmarks-v2",
+      "descriptionAdvanced": "A Gunung Kinabalu (Kinabalu-hegy) Sabah államban, Borneó szigetén emelkedik 4095 méteres magasságba, ezzel Malajzia és a Maláj-szigetvilág legmagasabb csúcsa (nem számítva Új-Guineát). A gránitmasszívum geológiai szempontjából rendkívül fiatal, mindössze néhány millió éves, és évente néhány millimétert ma is emelkedik. A hegy biológiai sokfélesége globálisan is egyedülálló; lejtőin több mint 5000 növényfaj, köztük a világ legnagyobb virága (a Rafflesia) és a híres húsevő kancsókák (Nepenthes) számos faja él. A helyi Kadazan-Dusun őslakosok számára szent hegy, a halottak lelkeinek végső nyughelye. Földrajz és biológia tanulmányozásában a magassági övezetesség és az endemikus evolúció bemutatásának legkiemelkedőbb ázsiai példája.",
+      "factsAdvanced": [
+        "Magassága 4095 méter (a Low's Peak nevű csúcson), ezzel Malajzia legmagasabb hegye.",
+        "A hegy egy gigantikus gránit pluton, amely még ma is évi 5 millimétert emelkedik.",
+        "Több mint 5000 növényfaj él a lejtőin, több mint Európában és Észak-Amerikában együttvéve.",
+        "2000-ben a Kinabalu Nemzeti Parkot az UNESCO Világörökség részévé nyilvánították.",
+        "A helyi Kadazan-Dusun törzs szent hegyként, őseik szellemének lakhelyeként tiszteli.",
+        "A hegycsúcsot először a brit Sir Hugh Low mászta meg 1851-ben."
+      ]
+    },
+    {
+      "id": "gunung-mulu-nationalpark-landmarks-v2",
+      "descriptionAdvanced": "A Gunung Mulu Nemzeti Park Sarawak államban egy lenyűgöző karsztgeológiai csoda, amelyet 2000-ben az UNESCO a Világörökség részévé választott. A park világhírű az 50 méter magas, borotvaéles mészkőtűkből álló 'Pinnacles' (Tűk) formációiról, valamint a Föld egyik legkiterjedtebb barlangrendszeréről. Itt található a Sarawak-kamra, amely a világ legnagyobb egybefüggő barlangterme – akkora, hogy 40 Boeing 747-es repülőgép is elférne benne. A Deer Cave (Szarvas-barlang) pedig az otthona mintegy hárommillió szabadon élő denevérnek, amelyek minden naplemente idején sötét felhőként áradnak ki az égre táplálékot keresni. A biológia és földrajz tantárgyakban a trópusi karsztosodás, a barlangi ökoszisztémák és az esőerdei biodiverzitás legbámulatosabb oktatási helyszíne.",
+      "factsAdvanced": [
+        "A park területén található a Sarawak-kamra, a világ egyik legnagyobb barlangterme.",
+        "Híres az esőerdőből kiemelkedő, 50 méter magas mészkőtűkről (Pinnacles).",
+        "A Clearwater-barlang (Gua Air Jernih) Ázsia leghosszabb ismert barlangrendszere (227 km).",
+        "A Deer-barlangból minden este több mint 3 millió denevér repül ki vadászni.",
+        "2000-ben az UNESCO Természeti Világörökség részévé nyilvánította.",
+        "Az őserdőben 17 különböző növényzeti zónát és 3500 növényfajt azonosítottak."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "godswill-akpabio-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Godswill Akpabio International Stadium, commonly referred to as the 'Nest of Champions', is a spectacular, ultra-modern sports facility located in Uyo, Akwa Ibom State. Commissioned in 2014, the stadium is widely considered the most beautiful and technologically advanced sporting arena in Nigeria, modeled closely after the iconic Allianz Arena in Germany. Its exterior features a striking, illuminated net-like acrylic glass casing. The 30,000-seat stadium serves as the primary home ground for the Nigerian national football team, the Super Eagles, offering world-class training facilities, a bulletproof VIP section, and highly advanced security systems. Geography K7 — modern sports infrastructure and regional development.",
+      "factsAdvanced": [
+        "Located in Uyo, Akwa Ibom State, officially commissioned in 2014.",
+        "Widely known as the 'Nest of Champions' due to its striking architectural design.",
+        "Features a highly distinctive outer shell of white acrylic glass modeled after the Allianz Arena.",
+        "Boasts a seating capacity of 30,000 with world-class, FIFA-approved facilities.",
+        "Serves as the primary home stadium for the Nigerian Super Eagles national football team.",
+        "Includes advanced security features, including a bulletproof VIP lounge."
+      ]
+    },
+    {
+      "id": "moshood-abiola-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Moshood Abiola National Stadium is a colossal, multi-purpose sporting complex situated in the capital city of Abuja. Constructed primarily to host the 8th All Africa Games in 2003, it is one of the largest stadiums on the African continent, boasting a seating capacity of over 60,000. The massive structure features a striking PTFE fiberglass roof supported by a complex network of cables. Beyond the main bowl, the complex includes an Olympic-sized swimming pool, an indoor sports hall, and extensive training fields. The stadium stands as a monumental symbol of Nigeria's dominance in African sports. Geography K8 — mega-stadiums and national capital infrastructure.",
+      "factsAdvanced": [
+        "Located in Abuja, originally built to host the 2003 All Africa Games.",
+        "One of the largest stadiums in Africa, with a seating capacity of 60,491.",
+        "Officially renamed in 2019 to honor the late politician Chief Moshood Abiola.",
+        "Features a distinctive, lightweight PTFE fiberglass tensile roof.",
+        "Includes a massive sports complex with a velodrome, swimming pool, and indoor arenas.",
+        "Regularly hosts major international football matches and athletic competitions."
+      ]
+    },
+    {
+      "id": "central-bank-of-nigeria-hq-landmarks-v2",
+      "descriptionAdvanced": "The Central Bank of Nigeria (CBN) Headquarters in Abuja is a soaring, highly imposing modernist skyscraper that dominates the city's central business district. Soaring over 100 meters high, it is currently the tallest building in the nation's capital. The massive glass and steel structure was completed in 2002 to serve as the absolute nerve center of the Nigerian economy, formulating monetary policy and regulating the entire banking sector. The building's sweeping, curved glass facade is designed to reflect the modernization of the Nigerian financial system and serves as a powerful visual anchor for the government district. Geography K7 — financial capitals and modernist skyscrapers.",
+      "factsAdvanced": [
+        "Located in the Central Business District of Abuja.",
+        "Standing at 100 meters, it is the tallest building in the Nigerian capital.",
+        "Completed in 2002, functioning as the headquarters of the nation's apex bank.",
+        "Formulates the monetary policy and regulates the entire Nigerian banking industry.",
+        "Features a highly distinctive, sweeping curved glass and steel facade.",
+        "A monumental symbol of the nation's massive financial and economic power."
+      ]
+    },
+    {
+      "id": "cathedral-church-of-christ-landmarks-v2",
+      "descriptionAdvanced": "The Cathedral Church of Christ, prominently situated on the Marina in Lagos Island, is an absolutely stunning masterpiece of Norman Gothic architecture and one of the most historically significant religious buildings in West Africa. The foundation stone was laid in 1925 by the Prince of Wales, and the massive stone structure took over two decades to complete. Its imposing clock tower, intricate stained glass windows, and soaring arches starkly contrast with the modern glass skyscrapers surrounding it. As the oldest Anglican cathedral in the country, it remains a bustling center of worship and a profound monument to early colonial-era architecture. History K7 — colonial church architecture and urban landmarks.",
+      "factsAdvanced": [
+        "Located on the bustling Marina in Lagos Island, Lagos State.",
+        "Considered the oldest Anglican cathedral in Nigeria.",
+        "The foundation stone was laid in 1925, with completion taking over twenty years.",
+        "Features stunning Norman Gothic architecture, including a massive clock tower.",
+        "The interior boasts a highly prestigious pipe organ, one of the largest in Africa.",
+        "Contains the cenotaph of Bishop Samuel Ajayi Crowther, the first African Anglican bishop."
+      ]
+    },
+    {
+      "id": "ship-house-abuja-landmarks-v2",
+      "descriptionAdvanced": "The Ministry of Defence Headquarters in Abuja, universally known as the 'Ship House', is one of the most unique and instantly recognizable pieces of architectural design in Nigeria. The massive, concrete complex is intentionally designed to resemble an immense, heavily armored naval battleship docked in the center of the capital. Originally intended to be the headquarters of the Nigerian Ports Authority, it was later repurposed to house the entire Ministry of Defence. The striking, brutalist design features sweeping 'hulls' and towering 'bridge' structures, perfectly symbolizing the military strength and defensive posture of the Nigerian armed forces. Geography K8 — brutalist architecture and symbolic government buildings.",
+      "factsAdvanced": [
+        "Located in the Central Business District of Abuja.",
+        "Serves as the official headquarters of the Nigerian Ministry of Defence.",
+        "Uniquely designed to physically resemble a massive naval battleship.",
+        "Originally intended to be the headquarters of the Nigerian Ports Authority.",
+        "Features a highly distinctive brutalist architectural style using massive concrete forms.",
+        "One of the most recognizable and photographed government buildings in the capital."
+      ]
+    },
+    {
+      "id": "independence-house-lagos-landmarks-v2",
+      "descriptionAdvanced": "Independence House, located at Tafawa Balewa Square on Lagos Island, is a deeply historical 25-story skyscraper that holds immense symbolic value for the nation. Commissioned directly by the British government as a parting gift to mark Nigeria's independence in 1960, it was the first true high-rise building constructed in the country. For decades, it dominated the Lagos skyline and housed the Federal Ministry of Defense. Tragically, the building suffered a catastrophic fire in 1993 and was largely abandoned for years. Despite its troubled recent history, the towering structure remains a powerful monument to the dawn of Nigerian sovereignty. History K8 — independence monuments and early skyscrapers.",
+      "factsAdvanced": [
+        "Located on Lagos Island, directly adjacent to Tafawa Balewa Square.",
+        "A 25-story high-rise commissioned as a gift from Britain to mark Nigerian independence.",
+        "Completed in 1960, becoming the first major skyscraper in the country.",
+        "Historically served as the headquarters of the Federal Ministry of Defense.",
+        "Suffered a devastating fire in 1993, leading to years of abandonment.",
+        "Remains a powerful, towering symbol of the birth of the modern Nigerian nation."
+      ]
+    },
+    {
+      "id": "cocoa-house-ibadan-landmarks-v2",
+      "descriptionAdvanced": "Cocoa House is a monumental, 26-story skyscraper located in the commercial heart of Ibadan, Oyo State. Completed in 1965, it holds the prestigious title of being the very first skyscraper built in tropical Africa. The building's construction was entirely financed by the immense profits generated from the massive cocoa exports of the Western Region, serving as a soaring testament to the region's agricultural wealth. Originally known as 'Ile Awon Agbe' (House of Farmers), the structure suffered a severe fire in 1985 but was magnificently rehabilitated in 1992. Today, it remains a bustling commercial hub and a proud symbol of Yoruba economic history. History K7 — agricultural wealth and mid-century modernism.",
+      "factsAdvanced": [
+        "Located in Ibadan, Oyo State, completed in 1965.",
+        "Recognized as the very first skyscraper constructed in tropical Africa.",
+        "Stands 26 stories high, dominating the Ibadan city skyline.",
+        "Entirely financed by the massive profits generated from regional cocoa exports.",
+        "Originally named 'Ile Awon Agbe', meaning the 'House of Farmers' in Yoruba.",
+        "Completely rehabilitated and reopened in 1992 after a devastating fire in 1985."
+      ]
+    },
+    {
+      "id": "great-mosque-of-kano-landmarks-v2",
+      "descriptionAdvanced": "The Great Mosque of Kano is the supreme spiritual center of the Kano Emirate and one of the most historically significant Islamic sites in West Africa. While the original mud-brick mosque was established in the 15th century by Emir Muhammad Rumfa, the current magnificent structure was built in the 1950s after the old mosque deteriorated. Financed largely by the British colonial administration and local contributions, the modern mosque is a spectacular piece of architecture featuring two towering minarets and a massive green dome. It can accommodate over 50,000 worshippers, drawing massive crowds during Friday prayers and Eid celebrations. History K8 — Hausa emirates and Islamic architectural history.",
+      "factsAdvanced": [
+        "Located adjacent to the Emir's Palace (Gidan Rumfa) in Kano.",
+        "The original mosque on this site was built in the 15th century.",
+        "The current magnificent structure was completed in the early 1950s.",
+        "Features a highly distinctive massive green dome and two soaring minarets.",
+        "Can accommodate upwards of 50,000 worshippers at a single time.",
+        "The spiritual center of the highly influential Kano Emirate."
+      ]
+    },
+    {
+      "id": "mapo-hall-ibadan-landmarks-v2",
+      "descriptionAdvanced": "Mapo Hall is a majestic, colonial-era city hall situated atop Mapo Hill, serving as the civic and political heart of Ibadan, Oyo State. Commissioned in 1929 by the British colonial administration, the massive building was designed by engineer Robert Jones in a striking neoclassical style, heavily featuring monumental Doric columns. Because of its elevated location, the hall offers sweeping, panoramic views of the city's famous 'brown rusted roofs'. Throughout history, Mapo Hall has been the primary venue for major political rallies, coronation ceremonies for the Olubadan, and pivotal civic meetings. It remains a powerful symbol of Ibadan's municipal pride. History K7 — neoclassical architecture and colonial administration.",
+      "factsAdvanced": [
+        "Located on the prominent Mapo Hill in the center of Ibadan, Oyo State.",
+        "Commissioned in 1929 by the British colonial administration.",
+        "Designed in a grand neoclassical style, featuring massive, imposing stone columns.",
+        "Serves as the historic civic and political city hall of Ibadan.",
+        "Provides sweeping, panoramic views of the city's iconic rusted iron roofs.",
+        "Regularly utilized for the coronation ceremonies of the Olubadan of Ibadan."
+      ]
+    },
+    {
+      "id": "mary-slessor-house-landmarks-v2",
+      "descriptionAdvanced": "The Mary Slessor House in Okoyong, near Calabar, is a deeply revered historical landmark dedicated to the life and work of the famous Scottish Presbyterian missionary. Arriving in the late 19th century, Mary Slessor became legendary for her fierce, successful campaign to eradicate the local practice of killing twin babies, whom the community believed were cursed. Unlike other missionaries, she lived entirely among the people, mastering the Efik language. The preserved two-story house, built with imported iron sheets and Scottish pine, stands as a powerful monument to her profound humanitarian legacy and the complex intersection of colonialism and social reform. History K7 — missionary legacy and social reform.",
+      "factsAdvanced": [
+        "Located in Okoyong, a village near the historic port city of Calabar.",
+        "The preserved residence of Mary Slessor, a legendary 19th-century Scottish missionary.",
+        "Slessor is universally celebrated for stopping the cultural practice of killing twins.",
+        "The two-story structure was constructed using imported iron and Scottish timber.",
+        "Slessor famously integrated deeply into the local society, mastering the Efik language.",
+        "The site serves as a major tourist and historical pilgrimage destination."
+      ]
+    },
+    {
+      "id": "tinapa-resort-calabar-landmarks-v2",
+      "descriptionAdvanced": "Tinapa Free Zone and Resort, located just outside Calabar in Cross River State, was conceived as a multi-billion-dollar, world-class business and leisure mega-project. Commissioned in 2007, it was designed to be the 'Dubai of Africa', seamlessly blending massive wholesale retail emporiums, a state-of-the-art film studio (Tinapa Studios), a water park, and luxury hotels. The ambitious project aimed to revolutionize regional tourism and cross-border trade. However, despite its stunning modern architecture and facilities, the resort has historically struggled with severe bureaucratic hurdles regarding customs regulations, leaving it vastly underutilized. It remains a striking monument to ambitious, yet challenging, mega-development. Geography K8 — free trade zones and tourism mega-projects.",
+      "factsAdvanced": [
+        "Located just north of the city of Calabar, Cross River State.",
+        "Commissioned in 2007 as a multi-billion-dollar business and leisure resort.",
+        "Designed as a massive Free Trade Zone to attract international wholesale commerce.",
+        "Features world-class facilities including a water park, film studios, and luxury hotels.",
+        "Has suffered from severe bureaucratic and customs-related operational challenges.",
+        "Represents one of the most ambitious tourism mega-projects in West African history."
+      ]
+    },
+    {
+      "id": "first-storey-building-badagry-landmarks-v2",
+      "descriptionAdvanced": "The First Storey Building in Badagry is a profoundly significant national monument, widely recognized as the oldest surviving multi-level structure in Nigeria. Completed in 1845 by the Reverend Henry Townsend of the Christian Missionary Society (CMS), the sturdy wooden and brick building served as the operational vanguard for early Christianity in West Africa. It is most historically famous as the precise location where Bishop Samuel Ajayi Crowther undertook the monumental task of translating the English Bible into the Yoruba language. Today, the building serves as a heavily visited museum, housing original missionary artifacts and early translated texts. History K7 — missionary history and linguistic translation.",
+      "factsAdvanced": [
+        "Located in the historic coastal town of Badagry, Lagos State.",
+        "Officially recognized as the oldest surviving two-story building in Nigeria.",
+        "Completed in 1845 by British missionaries of the Christian Missionary Society (CMS).",
+        "The site where Bishop Ajayi Crowther famously translated the Bible into Yoruba.",
+        "Constructed using specialized, durable wood and materials imported from Britain.",
+        "Currently operates as a heavily visited museum displaying early Christian artifacts."
+      ]
+    },
+    {
+      "id": "badagry-heritage-museum-landmarks-v2",
+      "descriptionAdvanced": "The Badagry Heritage Museum is a deeply somber, meticulously curated institution dedicated to documenting the horrors of the transatlantic slave trade. Housed in a beautifully preserved 1863 colonial building that formerly served as the British District Officer's office, the museum overlooks the exact lagoon where millions of captives began their forced journey. The museum features nine distinct galleries that brutally detail the phases of the trade: capture, the barracoons (holding cells), the agonizing Middle Passage, and eventual abolition. It houses an extensive, chilling collection of authentic chains, shackles, and trading artifacts, serving as an essential center for historical memory. History K8 — the transatlantic slave trade and historical preservation.",
+      "factsAdvanced": [
+        "Located in Badagry, Lagos State, overlooking the historic slave export lagoon.",
+        "Housed in an incredibly well-preserved colonial building constructed in 1863.",
+        "Dedicated entirely to documenting the brutal history of the transatlantic slave trade.",
+        "Features nine distinct galleries covering the capture, transport, and abolition eras.",
+        "Displays a massive collection of authentic artifacts including iron shackles and chains.",
+        "Serves as a deeply moving site for historical education and diaspora pilgrimage."
+      ]
+    },
+    {
+      "id": "oba-of-benin-palace-landmarks-v2",
+      "descriptionAdvanced": "The Palace of the Oba of Benin is the sacred, cultural, and political epicenter of the Edo people, located in the heart of Benin City. The original, massively sprawling palace was tragically destroyed and looted by British forces during the devastating Punitive Expedition of 1897. The current palace, rebuilt by Oba Eweka II in 1914, is a highly fortified, labyrinthine complex featuring stunning traditional Edo architecture, intricate brass casting workshops, and deeply revered ancestral shrines. The Oba is considered a semi-divine figure, and his palace is governed by extremely strict traditional protocols and taboos, preserving an unbroken royal lineage stretching back centuries. History K8 — the Benin Empire and royal architecture.",
+      "factsAdvanced": [
+        "Located in the exact center of Benin City, Edo State.",
+        "The official, highly sacred residence of the Oba (King) of the Benin Kingdom.",
+        "The original ancient palace was destroyed by the British in the 1897 Punitive Expedition.",
+        "The current palace was rebuilt starting in 1914 by Oba Eweka II.",
+        "Features highly restrictive traditional protocols, with certain areas forbidden to outsiders.",
+        "A living monument to Edo culture, containing ancestral shrines and brass-casting guilds."
+      ]
+    },
+    {
+      "id": "aso-villa-abuja-landmarks-v2",
+      "descriptionAdvanced": "Aso Villa, officially known as the State House, is the supreme seat of power in Nigeria, serving as the official residence and primary workplace of the President. Relocated from Dodan Barracks in Lagos to the new capital of Abuja in 1991, the massive, highly fortified complex is strategically nestled within the protective shadow of the towering Aso Rock monolith. The sprawling estate is a masterpiece of modern, secure architectural design, comprising the President's residence, the offices of the Vice President, meeting halls, and extensive administrative annexes. It is the absolute, unyielding center of Nigerian federal politics and executive authority. Geography K8 — seats of government and planned capitals.",
+      "factsAdvanced": [
+        "Located in Abuja, strategically positioned near the massive Aso Rock monolith.",
+        "Serves as the official residence and workplace of the President of Nigeria.",
+        "Officially became the seat of power in 1991, replacing Dodan Barracks in Lagos.",
+        "A highly secure, massively sprawling complex known officially as the State House.",
+        "Houses the offices of the President, Vice President, and top executive staff.",
+        "The complex is heavily fortified and highly restricted to the general public."
+      ]
+    },
+    {
+      "id": "abuja-city-gate-landmarks-v2",
+      "descriptionAdvanced": "The Abuja City Gate is a monumental, highly symbolic architectural archway located on the Airport Road, acting as the grand ceremonial entrance into the Federal Capital Territory. The massive concrete structure, characterized by its towering columns and sweeping roof, is designed to welcome dignitaries, diplomats, and citizens arriving from the Nnamdi Azikiwe International Airport. The gate symbolizes the transition into the meticulously planned, modern administrative heart of the nation. Surrounded by meticulously manicured lawns and frequently draped in national colors during major holidays, it is one of the most recognizable and photographed landmarks representing the Nigerian capital. Geography K7 — monumental archways and capital cities.",
+      "factsAdvanced": [
+        "A massive, monumental archway located on the Airport Road in Abuja.",
+        "Serves as the grand, ceremonial entrance into the Federal Capital Territory.",
+        "Designed to symbolically welcome visitors arriving from the international airport.",
+        "Features striking, towering concrete columns and a sweeping modern roofline.",
+        "Heavily decorated with flags and national colors during major state holidays.",
+        "One of the most frequently photographed landmarks representing the city of Abuja."
+      ]
+    },
+    {
+      "id": "gidan-rumfa-landmarks-v2",
+      "descriptionAdvanced": "Gidan Rumfa, the magnificent Emir's Palace in Kano, is a colossal masterpiece of Sahelian architecture and the beating heart of traditional Hausa authority. Established in the late 15th century by Emir Muhammad Rumfa, the complex is staggering in its scale, covering over 33 acres within the old city walls. It is surrounded by high, impenetrable mud-brick walls and contains a labyrinth of courtyards, audience halls, and the grand central mosque. The palace is the primary staging ground for the world-famous Durbar festival, a spectacular equestrian display of loyalty to the Emir, blending deep Islamic tradition with ancient martial heritage. History K8 — traditional Hausa architecture and the Durbar festival.",
+      "factsAdvanced": [
+        "The official, highly revered palace of the Emir of Kano.",
+        "Constructed in the late 15th century, fundamentally shaping Hausa palace architecture.",
+        "A massive complex covering over 33 acres, enclosed by high mud-brick walls.",
+        "Serves as the central stage for the spectacular, world-famous Durbar equestrian festival.",
+        "Contains highly restricted inner courtyards, audience halls, and residential quarters.",
+        "A living, fully functional institution of traditional governance and Islamic culture."
+      ]
+    },
+    {
+      "id": "gidan-makama-museum-landmarks-v2",
+      "descriptionAdvanced": "The Gidan Makama Museum in Kano is a spectacular architectural treasure and a profound repository of Northern Nigerian history. Housed in a meticulously preserved, 500-year-old mud-brick building, it originally served as the temporary palace for the Emirs of Kano before the construction of Gidan Rumfa. Recognized as a National Monument in 1959, the building's intricate facade features classic Hausa relief patterns. The museum is divided into 11 stunning galleries that trace the entire history of Kano, from the pre-Islamic era and the legendary Bagauda dynasty, through the devastating 19th-century Jihad, up to the British colonial period. History K7 — ancient Hausa history and national museums.",
+      "factsAdvanced": [
+        "Located in the ancient city of Kano, directly opposite the central mosque.",
+        "Housed in a meticulously preserved, 500-year-old traditional mud-brick structure.",
+        "Originally served as a temporary palace for the Emir of Kano.",
+        "Designated as an official National Monument by the federal government in 1959.",
+        "Features 11 distinct galleries documenting the entire history of the Kano Emirate.",
+        "The exterior is deeply adorned with beautiful, traditional Hausa relief patterns."
+      ]
+    },
+    {
+      "id": "freedom-park-lagos-landmarks-v2",
+      "descriptionAdvanced": "Freedom Park on Lagos Island is a profoundly moving testament to urban regeneration and historical reclamation. The site was originally the infamous Broad Street Prison, built by the British colonial administration in the 1880s to incarcerate and torture political dissidents and early nationalists. In 2010, the sprawling, abandoned ruins were masterfully transformed into a serene memorial and leisure park by architect Theo Lawson to mark Nigeria's 50th independence anniversary. Today, the park preserves sections of the original prison walls and cells, blending them seamlessly with open-air amphitheaters, art galleries, and lush gardens, serving as a vibrant center for the Lagos arts scene. History K8 — colonial prisons and urban regeneration.",
+      "factsAdvanced": [
+        "Located on Broad Street in the heart of Lagos Island.",
+        "Built on the exact site of the infamous colonial-era Broad Street Prison.",
+        "Transformed into a memorial and leisure park in 2010 to celebrate Nigeria's 50th independence anniversary.",
+        "Preserves harrowing remnants of the original prison walls and solitary confinement cells.",
+        "A masterclass in urban regeneration, designed by Nigerian architect Theo Lawson.",
+        "Currently serves as a massive, vibrant hub for music, theater, and art festivals."
+      ]
+    },
+    {
+      "id": "civic-centre-lagos-landmarks-v2",
+      "descriptionAdvanced": "The Civic Centre, located on the prestigious Ozumba Mbadiwe Avenue in Victoria Island, Lagos, is a crowning jewel of modern Nigerian waterfront architecture. Commissioned in the 2000s, the structure features a striking, multi-level glass and steel design that appears to float elegantly above the waters of the Five Cowries Creek. It is the premier, ultra-luxury venue in Lagos for high-end corporate events, elite weddings, and international conferences. The center boasts world-class banquet halls, highly advanced technological facilities, and sweeping panoramic views of the lagoon, perfectly encapsulating the immense wealth and vibrant social life of the Lagos elite. Geography K7 — luxury waterfront architecture and event venues.",
+      "factsAdvanced": [
+        "Located on the waterfront of Victoria Island, the affluent heart of Lagos.",
+        "A highly striking, modernist architectural masterpiece made of glass and steel.",
+        "Considered the absolute premier venue for luxury events and high-end weddings in Lagos.",
+        "Features state-of-the-art banquet halls and advanced conference facilities.",
+        "Provides sweeping, panoramic views across the bustling Five Cowries Creek.",
+        "A massive symbol of the wealth, modernization, and vibrant social culture of the Lagos elite."
+      ]
+    },
+    {
+      "id": "jaekel-house-lagos-landmarks-v2",
+      "descriptionAdvanced": "Jaekel House is a stunning, beautifully restored piece of colonial architecture located within the Nigerian Railway Corporation compound in Ebute Metta, Lagos. Built in 1898, the classic, two-story wooden mansion is characterized by its wide, wrap-around verandas and deep eaves, designed perfectly for the tropical climate. Originally serving as the residence for the General Manager of the railway, it has been meticulously restored by the Legacy1995 historical society. Today, it functions as a fascinating mini-museum, housing a treasure trove of early photographic archives, antique railway equipment, and colonial artifacts, providing a deeply nostalgic window into the birth of Nigeria's transportation network. History K7 — colonial railway history and architectural preservation.",
+      "factsAdvanced": [
+        "Located in the historic Railway Compound in Ebute Metta, Lagos.",
+        "A classic, beautifully restored colonial-era wooden mansion built in 1898.",
+        "Originally the official residence of the General Manager of the Nigerian Railway Corporation.",
+        "Features distinctive tropical architectural elements like deep wrap-around verandas.",
+        "Meticulously restored and managed by the historical preservation group Legacy1995.",
+        "Currently operates as a museum detailing the rich history of the Nigerian railway system."
+      ]
+    },
+    {
+      "id": "teslim-balogun-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Teslim Balogun Stadium is a massive, highly active multi-purpose sporting arena located in Surulere, Lagos. Situated directly adjacent to the older National Stadium, it was completed in 2007 and named in honor of Teslim 'Thunder' Balogun, a legendary Nigerian footballer. With a seating capacity of over 24,000, the stadium is the beating heart of local Lagos sports, serving as the home ground for prominent football clubs like First Bank FC. Beyond football, the complex is heavily utilized for athletics, boxing, and massive political and religious gatherings, making it an indispensable part of the intense, daily social fabric of Lagos. Geography K7 — urban sports infrastructure and local football.",
+      "factsAdvanced": [
+        "Located in the bustling Surulere district of Lagos State.",
+        "Named after the legendary Nigerian professional footballer Teslim 'Thunder' Balogun.",
+        "Completed in 2007, directly adjacent to the older Lagos National Stadium.",
+        "Boasts a seating capacity of 24,325 with a highly modern artificial turf pitch.",
+        "Serves as the primary home ground for several prominent Lagos-based football clubs.",
+        "Heavily utilized for major athletic competitions, cultural events, and political rallies."
+      ]
+    },
+    {
+      "id": "gobarau-minaret-katsina-landmarks-v2",
+      "descriptionAdvanced": "The Gobarau Minaret is an awe-inspiring, 50-foot-tall mud-brick tower situated in the ancient city of Katsina. Constructed over 600 years ago during the reign of King Sarkin Katsina, it originally served as the central minaret for the city's grand mosque. Over the centuries, it evolved into a highly prestigious center of Islamic scholarship, closely linked to the legendary university networks of Timbuktu, drawing scholars from across the vast Sahara. Despite its age and the fragile nature of mud-brick construction, the tapering tower has survived due to meticulous, traditional maintenance, standing as one of the most iconic pieces of pre-colonial architecture in West Africa. History K8 — ancient Islamic scholarship and mud-brick engineering.",
+      "factsAdvanced": [
+        "An ancient, 50-foot-tall minaret located in the center of Katsina.",
+        "Constructed entirely from traditional mud-brick over 600 years ago.",
+        "Originally served as the central minaret for the Katsina grand mosque.",
+        "Functioned as a massive, internationally renowned center for Islamic higher learning.",
+        "A prime example of highly resilient, indigenous Hausa-Islamic architectural engineering.",
+        "Requires continuous, specialized traditional maintenance to survive the rainy seasons."
+      ]
+    },
+    {
+      "id": "ng-yankari-safari-life-v2",
+      "descriptionAdvanced": "Yankari National Park is Nigeria's most famous and spectacular wildlife reserve, located in the savanna woodlands of Bauchi State. Originally established as a game reserve in 1956 and later upgraded to a national park, it covers an immense area of over 2,200 square kilometers. Yankari is the absolute premier destination for eco-tourism in West Africa, uniquely renowned for hosting the largest surviving elephant population in the country. The park's most magical feature is the Wikki Warm Springs, a crystal-clear, naturally heated pool where visitors can swim year-round. It remains a critical stronghold for biodiversity, including lions, buffalo, and hundreds of bird species. Geography K8 — savanna wildlife reserves and eco-tourism.",
+      "factsAdvanced": [
+        "Located in the savanna woodlands of Bauchi State, covering over 2,200 square kilometers.",
+        "Nigeria's most famous and frequently visited wildlife national park.",
+        "Hosts the largest surviving population of wild elephants in Nigeria.",
+        "World-renowned for the Wikki Warm Springs, a massive, crystal-clear natural hot spring.",
+        "Established as a game reserve in 1956 and upgraded to a national park in 1991.",
+        "Provides critical habitat for roan antelope, buffalo, and occasional lions."
+      ]
+    },
+    {
+      "id": "ng-gashaka-gumti-life-v2",
+      "descriptionAdvanced": "Gashaka Gumti National Park is an absolute ecological masterpiece and the largest national park in Nigeria, covering an astonishing 6,400 square kilometers across Taraba and Adamawa states. Established in 1991 from two separate game reserves, the park boasts unparalleled geographical diversity, ranging from sweeping dry savannas in the north to dense, mountainous rainforests in the south. This vast wilderness encompasses Chappal Waddi, Nigeria's highest peak. Due to its sheer size and extreme isolation, Gashaka Gumti serves as an ultra-critical sanctuary for highly endangered species, including the rare Nigeria-Cameroon chimpanzee, leopards, and forest elephants. Geography K8 — mountainous rainforests and endangered biodiversity.",
+      "factsAdvanced": [
+        "Nigeria's largest national park, covering an immense 6,400 square kilometers.",
+        "Straddles the border of Taraba and Adamawa states in eastern Nigeria.",
+        "Features extreme geographical diversity, from dry savannas to dense montane rainforests.",
+        "Encompasses Chappal Waddi (Mountain of Death), the highest peak in Nigeria.",
+        "A highly critical sanctuary for the endangered Nigeria-Cameroon chimpanzee.",
+        "Extremely remote and difficult to access, ensuring deep ecological preservation."
+      ]
+    }
+  ]
+}

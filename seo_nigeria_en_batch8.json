@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-nasarawa-farm-life-v2",
+      "descriptionAdvanced": "The Nasarawa Agricultural Park represents a highly modernized, heavily invested attempt to fundamentally industrialize farming in the Middle Belt. Situated strategically close to the Federal Capital Territory, the park serves as a massive incubation center for agro-allied businesses, aiming to connect rural farmers directly with high-volume urban markets. The park heavily promotes the cultivation of sesame seeds, yams, and high-yield cassava varieties, utilizing advanced greenhouse technology and localized processing plants. It acts as a brilliant, accessible model of integrated farming, designed to reduce post-harvest losses and create massive employment for the rapidly growing youth population of the state. Geography K7 — agro-allied parks and urban market supply.",
+      "factsAdvanced": [
+        "A highly modernized agricultural incubation center located in Nasarawa State.",
+        "Strategically positioned to directly supply the massive, high-demand market of Abuja.",
+        "Focuses heavily on the industrial processing of yams, cassava, and sesame seeds.",
+        "Features advanced agro-technology, including commercial-scale greenhouses.",
+        "Designed to drastically reduce post-harvest losses through localized processing plants.",
+        "A major engine for youth employment and economic diversification in the Middle Belt."
+      ]
+    },
+    {
+      "id": "ng-taraba-nature-life-v2",
+      "descriptionAdvanced": "The Taraba Wildlife Sanctuary, heavily associated with the sprawling Gashaka-Gumti National Park, is a spectacularly rugged and deeply isolated haven for biodiversity in eastern Nigeria. Characterized by incredibly diverse topography ranging from sweeping guinea savannas to dense, mist-shrouded montane forests, it is widely considered one of the least explored and most ecologically intact regions in West Africa. The sanctuary provides absolutely vital, heavily protected habitat for critically endangered species, including the incredibly rare Nigeria-Cameroon chimpanzee, giant forest hogs, and elusive leopards. It is a highly challenging, remarkably pristine frontier for professional ecological research and hardcore eco-tourism. Geography K8 — montane ecosystems and endangered species conservation.",
+      "factsAdvanced": [
+        "A spectacularly rugged, highly isolated ecological sanctuary in Taraba State.",
+        "Features extreme topographical diversity, from dry savannas to mist-shrouded mountain forests.",
+        "Provides a highly protected habitat for the critically endangered Nigeria-Cameroon chimpanzee.",
+        "Considered one of the most ecologically intact, least explored regions in West Africa.",
+        "Supports a staggering diversity of avian life, including numerous endemic bird species.",
+        "Requires significant effort to access, ensuring deep, natural ecological preservation."
+      ]
+    },
+    {
+      "id": "niger-river-nature-v2",
+      "descriptionAdvanced": "The Niger River is the absolute geographical and historical lifeblood of West Africa, entering Nigeria from the northwest and sweeping in a massive arc down to the Gulf of Guinea. As the third-longest river in Africa, spanning over 4,100 kilometers, its incredible journey culminates in the massive, oil-rich Niger Delta. Historically, the river served as the primary superhighway for massive inland empires and, later, the transatlantic and colonial palm oil trades. Today, it sustains the livelihoods of millions of Nigerians through extensive inland fishing, massive hydroelectric dams like Kainji, and crucial agricultural irrigation along its sprawling, highly fertile floodplains. Geography K7 — major African river systems and inland navigation.",
+      "factsAdvanced": [
+        "The third-longest river in Africa, stretching approximately 4,180 kilometers.",
+        "Enters northwestern Nigeria from the Republic of Niger, flowing south to the Atlantic.",
+        "Historically functioned as the primary trade superhighway for the Royal Niger Company.",
+        "Generates massive amounts of electricity via the Kainji and Jebba hydroelectric dams.",
+        "Culminates in the Niger Delta, one of the largest and most complex river deltas on Earth.",
+        "Crucial for sustaining millions of livelihoods through fishing and floodplain agriculture."
+      ]
+    },
+    {
+      "id": "benue-river-nature-v2",
+      "descriptionAdvanced": "The Benue River is the principal and most massive tributary of the mighty Niger River, originating in the rugged Adamawa Plateau of northern Cameroon before flowing majestically across central Nigeria. The massive, incredibly fertile floodplains of the Benue are universally recognized as the 'Food Basket of Nigeria', supporting the aggressive, large-scale cultivation of yams, rice, and soybeans. Historically, the river was a vital, heavily utilized route for colonial steamers reaching deep into the interior, though heavy siltation has reduced its modern navigability during the dry season. The stunning confluence of the Benue and Niger rivers at Lokoja is one of Nigeria's most iconic geographical landmarks. Geography K7 — major tributaries and agricultural floodplains.",
+      "factsAdvanced": [
+        "The largest and most important tributary of the Niger River in West Africa.",
+        "Originates in the Adamawa Plateau of Cameroon, flowing westward across central Nigeria.",
+        "Creates massive, highly fertile floodplains universally known as Nigeria's 'Food Basket'.",
+        "Famously converges with the Niger River at the historic city of Lokoja.",
+        "Historically navigable by massive colonial steamboats during the wet season.",
+        "Currently suffers from severe siltation issues, significantly restricting dry-season navigation."
+      ]
+    },
+    {
+      "id": "chad-lake-nature-v2",
+      "descriptionAdvanced": "Lake Chad, located in the extreme northeastern corner of Nigeria, is a historically massive, incredibly vital shallow freshwater lake shared with Niger, Chad, and Cameroon. For centuries, it functioned as the absolute ecological and economic beating heart of the Sahel, supporting massive fishing industries and serving as a crucial terminal for ancient trans-Saharan trade routes. Tragically, due to severe, prolonged droughts and heavy agricultural over-extraction, the lake has shrunk by a staggering 90% since the 1960s, triggering an absolutely massive environmental and humanitarian crisis. The shrinking shoreline is currently the focal point of intense geopolitical and ecological stabilization efforts. Geography K8 — shrinking inland lakes and environmental crises.",
+      "factsAdvanced": [
+        "A historically massive, shallow freshwater lake located in the Sahel region.",
+        "The shoreline and waters are shared between Nigeria, Chad, Niger, and Cameroon.",
+        "Has tragically lost approximately 90% of its surface area since the 1960s.",
+        "The drastic shrinking has caused massive, severe ecological and humanitarian crises.",
+        "Historically the economic and ecological center of the powerful Kanem-Borno Empire.",
+        "Currently the focus of massive, international geopolitical stabilization efforts."
+      ]
+    },
+    {
+      "id": "jos-plateau-mountain-nature-v2",
+      "descriptionAdvanced": "The Jos Plateau is a spectacular, massive elevated landmass located in the very center of Nigeria, radically defining the geography and climate of the Middle Belt. Standing at an average elevation of over 1,200 meters, it features a uniquely cool, highly temperate climate that drastically starkly contrasts with the sweltering heat of the surrounding savanna plains. This unique climate allows for the massive cultivation of temperate crops like strawberries and Irish potatoes. Geologically, the plateau is famous for its stunning, rugged granite outcroppings, deep crater lakes left behind by a massive colonial tin mining boom, and stunning cascading waterfalls. Geography K7 — high plateaus and temperate micro-climates.",
+      "factsAdvanced": [
+        "A massive, roughly 8,600-square-kilometer elevated plateau in central Nigeria.",
+        "Averages over 1,200 meters above sea level, reaching up to 1,829 meters at its highest point.",
+        "Features a uniquely cool, highly temperate climate supporting non-tropical agriculture.",
+        "The landscape is heavily scarred by massive, abandoned colonial-era tin mines.",
+        "Characterized by highly spectacular, rugged granite outcroppings and deep crater lakes.",
+        "Serves as the vital source for several major regional rivers, including the Kaduna River."
+      ]
+    },
+    {
+      "id": "chappal-waddi-mountain-nature-v2",
+      "descriptionAdvanced": "Chappal Waddi, ominously and evocatively translated as the 'Mountain of Death', holds the prestigious title of being the highest absolute geographical point in Nigeria. Located deep within the rugged, heavily isolated Gashaka-Gumti National Park on the Cameroon border, the massive peak reaches a staggering elevation of 2,419 meters (7,936 feet). The mountain is characterized by deeply plunging, heavily forested ravines and mist-shrouded montane grasslands, making it incredibly difficult to access. It is considered the ultimate, highly prized destination for hardcore mountaineers and professional ecologists seeking pristine, entirely untouched high-altitude African wilderness. Geography K8 — highest national peaks and montane ecosystems.",
+      "factsAdvanced": [
+        "The highest geographical point in Nigeria, reaching exactly 2,419 meters (7,936 feet).",
+        "Located deep within the Gashaka-Gumti National Park in Taraba State.",
+        "The name translates locally to the 'Mountain of Death' due to its forbidding terrain.",
+        "Features incredibly dense, mist-shrouded montane forests and steep, plunging ravines.",
+        "Extremely isolated and incredibly difficult to access, requiring multi-day trekking.",
+        "A highly prized, pristine destination for professional ecologists and hardcore mountaineers."
+      ]
+    },
+    {
+      "id": "cross-river-nature-v2",
+      "descriptionAdvanced": "The Cross River is an immensely significant, highly biodiverse waterway flowing through the incredibly dense, primary rainforests of southeastern Nigeria into the Atlantic Ocean. Originating in the rugged mountains of Cameroon, the river famously gives its name to Cross River State. Historically, its wide estuary at Calabar served as a massive, deeply tragic hub during the transatlantic slave trade and later the immensely lucrative palm oil boom. Today, the heavily forested upper reaches of the river are globally recognized as a massive biodiversity hotspot, providing the absolute critical lifeblood for the spectacular Cross River National Park and its highly endangered primate species. Geography K7 — rainforest rivers and historical estuaries.",
+      "factsAdvanced": [
+        "Originates in the rugged mountains of Cameroon, flowing through southeastern Nigeria.",
+        "Gives its name to Cross River State and the massive Cross River National Park.",
+        "The wide estuary at Calabar was historically a massive hub for the transatlantic slave trade.",
+        "The dense, heavily forested upper basin is a globally recognized biodiversity hotspot.",
+        "Provides critical, life-sustaining water for highly endangered species like the Cross River gorilla.",
+        "Heavily utilized by local communities for extensive inland fishing and navigation."
+      ]
+    },
+    {
+      "id": "ogun-river-nature-v2",
+      "descriptionAdvanced": "The Ogun River is a highly vital, deeply historic waterway in southwestern Nigeria, flowing from the rugged hills of Oyo State straight into the massive, sprawling Lagos Lagoon. For centuries, it served as a highly strategic, heavily guarded commercial and military highway for the ancient Yoruba empires, notably the Oyo and Egba kingdoms. The river is spiritually immense, serving as the central focus of devotion for the Yoruba river deity Yemoja. Today, it provides the absolute critical water supply for millions of residents in Lagos and Ogun states and is heavily utilized for extensive sand dredging and local fishing industries. Geography K7 — coastal rivers and urban water supply.",
+      "factsAdvanced": [
+        "Originates in Oyo State and flows southward, emptying directly into the Lagos Lagoon.",
+        "Historically a highly strategic, heavily utilized commercial highway for the Yoruba empires.",
+        "Deeply, spiritually revered in traditional Yoruba religion, associated with the deity Yemoja.",
+        "Provides the absolutely critical primary water supply for the megacity of Lagos.",
+        "Heavily impacted by massive, often unregulated industrial sand dredging operations.",
+        "Features the massive Oyan River Dam, built for urban water supply and flood control."
+      ]
+    },
+    {
+      "id": "kainji-lake-nature-v2",
+      "descriptionAdvanced": "Kainji Lake is a massive, visually stunning artificial reservoir located in western Nigeria, created in 1968 by the highly ambitious damming of the mighty Niger River. Stretching over 130 kilometers in length, it is one of the largest man-made lakes in Africa. The colossal Kainji Dam was an absolute cornerstone of post-independence industrialization, designed to generate massive hydroelectric power for the rapidly developing nation. The creation of the lake required the highly controversial, massive relocation of tens of thousands of local residents. Today, the lake supports a massive, thriving inland fishing industry and forms the scenic, vital heart of the Kainji Lake National Park. Geography K8 — massive artificial reservoirs and hydroelectric dams.",
+      "factsAdvanced": [
+        "A massive, artificial reservoir created in 1968 by damming the Niger River.",
+        "Stretches over 130 kilometers long, ranking among the largest man-made lakes in Africa.",
+        "Formed by the colossal Kainji Dam, a massive early-independence hydroelectric project.",
+        "The creation required the massive, complex relocation of over 50,000 local inhabitants.",
+        "Supports a highly lucrative, massive local inland fishing industry.",
+        "Forms the incredibly scenic, life-sustaining core of the Kainji Lake National Park."
+      ]
+    },
+    {
+      "id": "lekki-lagoon-nature-v2",
+      "descriptionAdvanced": "The Lekki Lagoon is a vast, heavily utilized expanse of shallow, brackish water located immediately to the east of the massive Lagos megacity. Spanning over 240 square kilometers, it is a highly critical, interconnected component of the complex coastal lagoon system that completely defines the geography of Lagos State. The lagoon provides absolutely vital, life-sustaining support to numerous traditional fishing communities that live along its mangrove-fringed shores. However, it is currently facing immense, unprecedented ecological pressure from aggressive, massive real estate reclamation projects and heavy sand dredging driven by the relentless, explosive urban expansion of the Lekki Peninsula. Geography K7 — coastal lagoons and urban encroachment.",
+      "factsAdvanced": [
+        "A massive, 240-square-kilometer shallow, brackish lagoon located east of Lagos.",
+        "A critical, deeply interconnected part of the massive Lagos coastal lagoon network.",
+        "Sustains numerous, highly traditional riverine fishing communities along its shores.",
+        "Fringed by highly fragile, ecologically important coastal mangrove swamps.",
+        "Facing incredibly severe ecological pressure from massive, aggressive urban land reclamation.",
+        "Heavily utilized for local water transport, bypassing the severely congested mainland roads."
+      ]
+    },
+    {
+      "id": "niger-delta-nature-v2",
+      "descriptionAdvanced": "The Niger Delta is a staggering, highly complex geographical phenomenon, standing as one of the largest and most densely populated river deltas on the entire planet. Covering over 70,000 square kilometers, this massive, labyrinthine network of twisting creeks, deep mangrove swamps, and barrier islands empties the mighty Niger River into the Gulf of Guinea. It is incredibly, overwhelmingly rich in biodiversity and is the absolute beating heart of Nigeria's massive petroleum industry. However, decades of highly intense, often unregulated crude oil extraction have resulted in severe, devastating environmental degradation, turning the Delta into a highly volatile, deeply contested ecological flashpoint. Geography K8 — mega-deltas and fossil fuel ecology.",
+      "factsAdvanced": [
+        "One of the largest, most highly complex river deltas on Earth, covering 70,000 sq km.",
+        "A massive, labyrinthine network of deep creeks, barrier islands, and dense mangrove swamps.",
+        "The absolute, undisputed center of Nigeria's massive, highly lucrative petroleum industry.",
+        "Incredibly rich in biodiversity, though highly threatened by massive industrial pollution.",
+        "Has suffered decades of severe, devastating environmental degradation from massive oil spills.",
+        "A deeply volatile, highly contested region balancing immense wealth with ecological collapse."
+      ]
+    },
+    {
+      "id": "shere-hills-mountain-nature-v2",
+      "descriptionAdvanced": "The Shere Hills represent a highly spectacular, massively rugged mountain range located on the high-altitude Jos Plateau. Characterized by deeply dramatic, undulating rock formations and towering granite peaks, the highest point reaches a commanding 1,829 meters above sea level, making it the third-highest peak in Nigeria. The unique, deeply weathered rock formations create a highly dramatic, almost alien landscape that is incredibly popular among hardcore rock climbers and professional hikers. The hills also serve as the challenging, highly physically demanding training ground for the prestigious Nigerian Citizenship and Leadership Training Centre, utilizing the harsh, striking terrain for extreme physical conditioning. Geography K7 — rugged rock formations and high-altitude hiking.",
+      "factsAdvanced": [
+        "A highly dramatic, massively rugged mountain range located on the Jos Plateau.",
+        "The highest peak reaches an incredibly commanding 1,829 meters above sea level.",
+        "Characterized by highly weathered, towering granite outcroppings and deep valleys.",
+        "A highly popular, premier destination for professional rock climbing and extreme hiking.",
+        "Serves as the intense, physically demanding training ground for national leadership courses.",
+        "Provides massive, sweeping panoramic views of the entire high-altitude plateau."
+      ]
+    },
+    {
+      "id": "obudu-plateau-mountain-nature-v2",
+      "descriptionAdvanced": "The Obudu Plateau is a spectacular, breathtakingly beautiful highland region located deep in the dense tropical forests of Cross River State, incredibly close to the Cameroon border. Rising sharply to an elevation of over 1,500 meters, it features a uniquely cool, highly refreshing temperate climate that starkly defies its tropical location. The plateau is world-famous for its incredibly steep, dramatically winding access road featuring 20 distinct hairpin turns, though it is now also accessible via a massive, modern cable car system. Covered in lush, rolling green hills and dense forest canopies, it hosts the premier, highly luxurious Obudu Mountain Resort. Geography K7 — temperate plateaus and mountain resorts.",
+      "factsAdvanced": [
+        "A breathtaking, highly elevated plateau located in Cross River State.",
+        "Rises to over 1,500 meters, featuring a uniquely cool, highly refreshing temperate climate.",
+        "Famous for a highly dramatic, steep access road containing exactly 20 intense hairpin turns.",
+        "Accessible via a massive, highly modern, 4-kilometer-long cable car system.",
+        "Home to the premier, highly luxurious Obudu Mountain Resort.",
+        "Characterized by incredibly lush, rolling green hills and dense montane forests."
+      ]
+    },
+    {
+      "id": "osun-river-nature-v2",
+      "descriptionAdvanced": "The Osun River is a highly sacred, deeply revered waterway that flows through the heart of southwestern Nigeria, ultimately emptying into the expansive Lagos Lagoon. In traditional Yoruba cosmology, the river is the literal, physical manifestation of Osun, the highly venerated goddess of fertility, purity, and water. The river's most famous and ecologically pristine section flows directly through the dense, deeply sacred Osun-Osogbo Grove, a heavily protected UNESCO World Heritage Site. During the massive, highly colorful annual Osun-Osogbo festival, thousands of global devotees flock to the river's edge to offer prayers, sacrifices, and bathe in its spiritually cleansing, sacred waters. History K8 — sacred rivers and traditional Yoruba religion.",
+      "factsAdvanced": [
+        "Flows entirely through southwestern Nigeria, emptying into the massive Lagos Lagoon.",
+        "Deeply, profoundly revered in Yoruba religion as the physical manifestation of the goddess Osun.",
+        "The most pristine section flows through the highly sacred Osun-Osogbo Grove (UNESCO Site).",
+        "The absolute focal point of the massive, highly colorful annual Osun-Osogbo festival.",
+        "Thousands of global devotees utilize the water for highly sacred, spiritual cleansing rituals.",
+        "The surrounding forests are strictly protected by highly restrictive traditional religious taboos."
+      ]
+    },
+    {
+      "id": "chad-basin-nature-v2",
+      "descriptionAdvanced": "The Chad Basin is an absolutely colossal, incredibly flat endorheic drainage basin that dominates the harsh, semi-arid extreme northeast of Nigeria. Covering roughly 20% of the entire country's landmass, it is characterized by sweeping, dry Sahelian savannas that slope incredibly gently toward the receding waters of Lake Chad. The basin is incredibly vital for the massive, highly specialized regional agriculture, relying heavily on complex, deep-well irrigation systems to overcome the incredibly long, brutal dry seasons. The region sits atop massive, largely untapped deep aquifers and potential hydrocarbon reserves, making it a highly strategic, intensely studied geological frontier. Geography K8 — massive endorheic basins and Sahelian geology.",
+      "factsAdvanced": [
+        "An absolutely colossal, incredibly flat drainage basin dominating northeastern Nigeria.",
+        "An endorheic basin, meaning its waters flow inland rather than into the ocean.",
+        "Characterized by highly harsh, sweeping dry Sahelian savannas.",
+        "Sits atop massive, deep-well aquifers essential for regional survival and agriculture.",
+        "Covers approximately 20% of the entire geographical landmass of Nigeria.",
+        "The focus of intense, massive geological exploration for potential hydrocarbon reserves."
+      ]
+    },
+    {
+      "id": "gashaka-gumti-forest-nature-v2",
+      "descriptionAdvanced": "The Gashaka-Gumti forest represents the incredibly dense, highly impenetrable southern montane section of Nigeria's largest national park. Straddling the rugged, highly mountainous border with Cameroon, this massive, pristine wilderness is a deeply critical stronghold for global biodiversity. The forest is characterized by incredibly steep, mist-shrouded valleys, towering ancient hardwood trees, and a remarkably complex, multi-layered canopy. Due to its extreme, incredibly difficult isolation and highly rugged terrain, it remains one of the absolute least disturbed primary forests in West Africa. It serves as an ultra-vital sanctuary for critically endangered primates and incredibly rare, endemic forest bird species. Geography K8 — highly isolated primary forests and montane biodiversity.",
+      "factsAdvanced": [
+        "The incredibly dense, montane forest section of Nigeria's largest national park.",
+        "Located in the highly rugged, incredibly steep border region with Cameroon.",
+        "Considered one of the absolute least disturbed, pristine primary forests in West Africa.",
+        "Features a remarkably complex, dense, mist-shrouded multi-layered canopy.",
+        "An ultra-vital, highly protected sanctuary for incredibly rare, endangered primates.",
+        "Extremely isolated, requiring incredibly difficult, highly challenging physical trekking to access."
+      ]
+    },
+    {
+      "id": "kano-river-nature-v2",
+      "descriptionAdvanced": "The Kano River is a highly crucial, life-sustaining waterway in the incredibly densely populated, semi-arid region of northern Nigeria. Originating from the elevated Jos Plateau, it flows northward to form a massive, deeply complex agricultural lifeline before joining the Hadejia River. The river is the absolute backbone of the massive Kano River Irrigation Project (KRIP), which utilizes the colossal Tiga Dam to intensely irrigate tens of thousands of hectares of farmland. This massive engineering feat allows for highly productive, year-round cultivation of massive quantities of tomatoes, wheat, and rice, utterly transforming the regional economy and defying the harsh Sahelian climate. Geography K7 — massive irrigation projects and Sahelian rivers.",
+      "factsAdvanced": [
+        "Originates on the high-altitude Jos Plateau, flowing northward into Kano State.",
+        "The absolute critical, life-sustaining water source for the densely populated Kano region.",
+        "Heavily dammed by the colossal Tiga Dam, completed in 1974.",
+        "Powers the massive Kano River Irrigation Project (KRIP), one of the largest in West Africa.",
+        "Enables highly productive, year-round cultivation of massive tomato and wheat harvests.",
+        "Utterly transforms the harsh, dry Sahelian landscape into a highly fertile agricultural hub."
+      ]
+    },
+    {
+      "id": "kaduna-river-nature-v2",
+      "descriptionAdvanced": "The Kaduna River is a massive, incredibly powerful tributary of the Niger River, slicing directly through the geographical center of Nigeria. Originating high on the rugged Jos Plateau, the river cascades westward, passing directly through the major industrial city of Kaduna before merging with the Niger. Historically, the river derived its name from the Hausa word for 'crocodiles', which once heavily populated its massive banks. Today, the river is absolutely critical for regional infrastructure, heavily utilized for massive urban water supply, highly intensive dry-season agriculture, and the monumental Shiroro hydroelectric power station, which generates massive electricity for the national grid. Geography K7 — major tributaries and hydroelectric power.",
+      "factsAdvanced": [
+        "A massive, highly powerful tributary of the mighty Niger River.",
+        "Originates high on the Jos Plateau, flowing westward across central Nigeria.",
+        "The name 'Kaduna' literally translates to 'crocodiles' in the traditional Hausa language.",
+        "Passes directly through and sustains the massive industrial city of Kaduna.",
+        "Heavily dammed by the monumental Shiroro Hydroelectric Power Station.",
+        "Crucial for massive urban water supply and highly intensive dry-season floodplain farming."
+      ]
+    },
+    {
+      "id": "sokoto-river-nature-v2",
+      "descriptionAdvanced": "The Sokoto River is an incredibly vital, life-giving river system flowing through the harsh, extreme northwestern corner of Nigeria. Originating near Funtua, it courses northwest in a massive arc before turning south to join the Niger River. In this incredibly arid, Sahelian climate, the river's wide, shallow floodplains (fadamas) are absolutely essential for survival, supporting incredibly intensive, large-scale cultivation of rice, onions, and garlic during the brutal dry season. The river is heavily managed by the colossal Bakolori Dam, which creates a massive reservoir utilized for extensive irrigation, drastically stabilizing the agricultural output of the historic Sokoto region. Geography K7 — Sahelian floodplains and vital irrigation dams.",
+      "factsAdvanced": [
+        "A massive, highly vital tributary of the Niger River in extreme northwestern Nigeria.",
+        "Originates near Funtua, flowing through a harsh, deeply semi-arid Sahelian environment.",
+        "Creates incredibly fertile, shallow floodplains known locally as 'fadamas'.",
+        "Absolutely essential for the massive, intensive cultivation of dry-season rice and onions.",
+        "Heavily managed by the colossal Bakolori Dam, creating a massive agricultural reservoir.",
+        "Sustains the incredibly dense, historically significant agrarian population of Sokoto State."
+      ]
+    },
+    {
+      "id": "hadejia-river-nature-v2",
+      "descriptionAdvanced": "The Hadejia River is a highly crucial, deeply fascinating waterway in northern Nigeria that flows eastwards, ultimately forming the massive, ecologically astounding Hadejia-Nguru wetlands before reaching Lake Chad. The river is incredibly unusual because it does not reach the sea, but rather spreads out into a massive, highly complex inland delta of seasonal lakes and incredibly dense swamps. This massive wetland system is an absolute ecological treasure, serving as a critical, highly protected wintering ground for millions of Palearctic migratory birds. The river is deeply contested, heavily dammed upstream for aggressive agricultural irrigation, severely threatening the fragile, incredible downstream wetland ecosystem. Geography K8 — inland deltas and migratory bird wetlands.",
+      "factsAdvanced": [
+        "A highly crucial river flowing eastwards across the dry savannas of northern Nigeria.",
+        "Forms the massive, ecologically astounding Hadejia-Nguru inland wetland system.",
+        "An endorheic river system that traditionally flowed directly into the shrinking Lake Chad.",
+        "A critical, globally recognized wintering sanctuary for millions of migratory birds.",
+        "Heavily dammed upstream (Tiga and Challawa Gorge dams) for massive agricultural projects.",
+        "Subject to intense, highly contested ecological debate over downstream water flow preservation."
+      ]
+    },
+    {
+      "id": "gongola-river-nature-v2",
+      "descriptionAdvanced": "The Gongola River is the longest and most incredibly significant tributary of the Benue River, flowing in a massive, sweeping curve through northeastern Nigeria. Originating on the eastern slopes of the Jos Plateau, it initially flows northwards before making a highly dramatic, sweeping U-turn to head south into the Benue. The river basin is characterized by highly rugged, incredibly scenic terrain and incredibly fertile, seasonal floodplains. The river is heavily harnessed by the massive Dadin Kowa and Kiri dams, incredibly critical infrastructure that provides massive hydroelectric power and sustains tens of thousands of hectares of highly intensive, large-scale irrigation farming. Geography K7 — sweeping river basins and multipurpose dams.",
+      "factsAdvanced": [
+        "The longest and most incredibly significant northern tributary of the Benue River.",
+        "Features a highly dramatic, massive sweeping U-turn in its geographical flow path.",
+        "Originates on the highly elevated, rocky eastern slopes of the Jos Plateau.",
+        "Heavily managed by the massive Dadin Kowa and Kiri multi-purpose dams.",
+        "Provides incredibly critical hydroelectric power to the northeastern geopolitical zone.",
+        "Creates massive, highly fertile seasonal floodplains utilized for intensive agriculture."
+      ]
+    },
+    {
+      "id": "yobe-river-nature-v2",
+      "descriptionAdvanced": "The Yobe River, historically known as the Komadugu Yobe, is a highly vital, deeply historic seasonal river flowing through the incredibly harsh, extreme northeast of Nigeria. It forms the natural, highly porous international border between Nigeria and the Republic of Niger for over 150 kilometers before emptying into Lake Chad. The river is incredibly seasonal, completely drying up into isolated pools during the brutal Sahelian dry season, yet it provides the absolute critical lifeblood for massive, extensive vegetable and rice farming along its banks. Historically, the river valley was the incredibly fertile, heavily populated heartland of the powerful ancient Kanem-Borno Empire. Geography K8 — seasonal desert rivers and international borders.",
+      "factsAdvanced": [
+        "A highly vital, incredibly seasonal river located in extreme northeastern Nigeria.",
+        "Forms a natural, 150-kilometer-long international border between Nigeria and Niger.",
+        "A primary, deeply historic water source emptying into the shrinking Lake Chad.",
+        "Completely dries into highly isolated, scattered pools during the brutal dry season.",
+        "Historically formed the incredibly fertile, heavily populated core of the Kanem-Borno Empire.",
+        "Absolutely essential for massive, intensive dry-season vegetable and rice cultivation."
+      ]
+    },
+    {
+      "id": "ogun-forest-nature-v2",
+      "descriptionAdvanced": "The Ogun Forest Area is a highly contested, incredibly dense tract of secondary tropical rainforest located in southwestern Nigeria. Historically part of a massive, unbroken forest belt, it has been severely fragmented by massive, relentless agricultural expansion and illegal logging. Despite this intense pressure, the remaining heavily protected reserves, such as the Omo Forest Reserve within the area, are absolutely crucial for maintaining regional rainfall patterns and preventing massive soil erosion. The forest is a highly complex, multi-canopied ecosystem that supports incredible biodiversity, including rare chimpanzees, incredibly diverse birdlife, and highly prized, massive indigenous African mahogany trees. Geography K8 — forest fragmentation and tropical biodiversity.",
+      "factsAdvanced": [
+        "A highly dense, ecologically critical tract of secondary rainforest in Ogun State.",
+        "Severely fragmented due to massive, relentless urban and agricultural encroachment.",
+        "Contains highly protected, absolutely crucial ecological zones like the Omo Forest Reserve.",
+        "Absolutely vital for maintaining the highly complex, delicate regional rainfall patterns.",
+        "Provides incredibly important sanctuary for rare primates and massive, diverse birdlife.",
+        "Under intense, constant threat from massive illegal logging of highly prized African mahogany."
+      ]
+    },
+    {
+      "id": "osun-forest-nature-v2",
+      "descriptionAdvanced": "The Osun Forest is a highly sacred, incredibly pristine patch of primary high forest located entirely within the urban boundaries of Osogbo in Osun State. Unlike the massive, sprawling timber reserves, this remarkably intact forest has been fiercely, completely protected for centuries by incredibly strict, unyielding traditional Yoruba religious taboos, as it is considered the literal, highly sacred home of the river goddess Osun. This incredibly strict indigenous conservation model has resulted in an amazingly rich, deeply undisturbed ecosystem, featuring towering ancient trees, rare medicinal plants, and heavily protected monkey populations. It is a stunning, globally recognized triumph of religion-based ecological preservation. History K8 — indigenous conservation and sacred forests.",
+      "factsAdvanced": [
+        "A remarkably intact, highly pristine patch of primary high forest in Osogbo, Osun State.",
+        "Fiercely and completely protected for centuries by incredibly strict traditional Yoruba religious taboos.",
+        "Considered the highly sacred, literal home of the deeply revered river goddess Osun.",
+        "An incredibly successful, globally recognized model of indigenous, religion-based ecological conservation.",
+        "Features incredibly towering ancient trees, rare medicinal plants, and protected monkey troops.",
+        "Represents the incredibly dense, historic forest cover that once defined all of southwestern Nigeria."
+      ]
+    }
+  ]
+}

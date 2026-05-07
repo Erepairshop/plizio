@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "port-buenaventura-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Buenaventura ist der bedeutendste Seehafen Kolumbiens am Pazifischen Ozean und das wichtigste Tor für den Handel mit Asien. Gelegen in einer strategisch günstigen Bucht, schlägt er einen Großteil der kolumbianischen Exporte und Importe um, insbesondere Kaffee, Zucker und Konsumgüter. Die moderne Infrastruktur umfasst spezialisierte Terminals für Container, Schüttgut und Flüssigkeiten. Aufgrund seiner Lage im Departement Valle del Cauca spielt er eine entscheidende Rolle für die wirtschaftliche Entwicklung des Landes. Trotz klimatischer Herausforderungen wie hoher Niederschlagsmengen bleibt er ein unverzichtbarer Knotenpunkt. Wirtschaft K8 — Globale Handelswege und maritime Infrastruktur in Südamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Buenaventura bewegt über 60 Prozent der gesamten Seefracht Kolumbiens.",
+        "Der Hafen verfügt über den einzigen Tiefwasserzugang an der kolumbianischen Pazifikküste.",
+        "Er ist durch eine wichtige Autobahnverbindung direkt mit dem Industriezentrum Cali verbunden.",
+        "Die Terminals werden von verschiedenen privaten Betreibern wie Sociedad Portuaria verwaltet."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "port-cartagena-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Cartagena ist einer der leistungsstärksten Containerhäfen in der Karibik und ein zentraler Knotenpunkt für den Welthandel. Seine strategische Lage an der Nordküste Kolumbiens macht ihn zu einem idealen Umschlagplatz für Schiffe, die den Panamakanal passieren. Der Hafen zeichnet sich durch modernste Technologie und hohe Effizienz bei der Abwicklung von Containerschiffen der neuesten Generation aus. Neben dem Containerumschlag ist Cartagena auch ein bedeutender Standort für den Export von Erdölprodukten und landwirtschaftlichen Gütern. Die Hafenregion Mamonal beherbergt zudem zahlreiche Industriebetriebe, die direkt von der maritimen Anbindung profitieren. Wirtschaft K8 — Logistikketten und die Bedeutung von Hub-Häfen im Welthandel.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hafen wurde mehrfach als bester Hafen der Karibik ausgezeichnet.",
+        "Cartagena dient als wichtigstes Drehkreuz für den Transshipment-Verkehr in der Region.",
+        "Der Hafenkomplex umfasst spezialisierte Terminals für Chemieprodukte und Kohle.",
+        "Mehr als 25 Schifffahrtslinien verbinden Cartagena mit über 600 Häfen weltweit."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "port-barranquilla-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Barranquilla ist ein einzigartiger Fluss- und Seehafen an der Mündung des Rio Magdalena in das Karibische Meer. Diese besondere Lage ermöglicht den direkten Umschlag von Waren zwischen Seeschiffen und der Binnenschifffahrt auf Kolumbiens wichtigster Wasserstraße. Der Hafen ist ein bedeutendes Zentrum für den Export von Kohle, Klinker und Stahlprodukten sowie für den Import von Getreide. Ständige Ausbaggerungen in der Bocas de Ceniza sind notwendig, um die Schiffbarkeit für große Ozeanriesen zu gewährleisten. Die Stadt Barranquilla hat sich um den Hafen herum zu einer dynamischen Industriemetropole entwickelt. Wirtschaft K8 — Binnenschifffahrt und die wirtschaftliche Erschließung des Hinterlandes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Barranquilla ist der wichtigste Flusshafen Kolumbiens mit Zugang zum Atlantik.",
+        "Der Hafen liegt etwa 22 Kilometer flussaufwärts von der Mündung des Magdalena-Flusses.",
+        "Er verfügt über umfangreiche Lagerkapazitäten für Getreide und Massengüter.",
+        "Die Mündung Bocas de Ceniza ist eine technische Meisterleistung des frühen 20. Jahrhunderts."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "port-santa-marta-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Santa Marta gilt als der einzige natürliche Tiefwasserhafen Kolumbiens, was ihn besonders für große Schiffe attraktiv macht. Dank der natürlichen Tiefe sind keine ständigen Baggerarbeiten erforderlich, was den Hafen ökologisch und ökonomisch vorteilhaft macht. Er ist spezialisiert auf den Export von Kohle, Bananen und Palmöl, die in der fruchtbaren Umgebung des Departements Magdalena produziert werden. Zudem ist Santa Marta der einzige Hafen des Landes mit einem direkten Eisenbahnanschluss, was den Transport schwerer Lasten erleichtert. Die Nähe zum Tayrona-Nationalpark erfordert dabei strenge Umweltauflagen für den Hafenbetrieb. Wirtschaft K8 — Ressourceneffizienz und spezialisierte Exportinfrastruktur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hafen bietet eine natürliche Wassertiefe von bis zu 18 Metern.",
+        "Er ist der wichtigste Exportpunkt für kolumbianische Bananen nach Europa und Nordamerika.",
+        "Die Eisenbahnverbindung wird hauptsächlich für den Transport von Kohle aus dem Landesinneren genutzt.",
+        "Santa Marta ist einer der sichersten Häfen der Region aufgrund seiner geschützten Bucht."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "reficar-cartagena-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Raffinerie Cartagena, bekannt als Reficar, ist eine der modernsten Industrieanlagen Lateinamerikas und ein Eckpfeiler der kolumbianischen Energieversorgung. Nach einer umfassenden Erweiterung und Modernisierung kann sie eine Vielzahl von Rohölsorten verarbeiten und hochwertige Kraftstoffe produzieren. Die Anlage trägt maßgeblich dazu bei, dass Kolumbien weniger Benzin und Diesel importieren muss und stattdessen Treibstoffe in Exportqualität herstellt. Reficar ist direkt in das industrielle Ökosystem von Mamonal integriert und profitiert von der unmittelbaren Nähe zum Hafen. Die Raffinerie setzt modernste Technologien ein, um strenge Umweltstandards bei der Produktion zu erfüllen. Wirtschaft K8 — Industrielle Veredelung und Energiesicherheit in Schwellenländern.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Reficar hat eine Verarbeitungskapazität von etwa 165.000 Barrel Rohöl pro Tag.",
+        "Die Anlage produziert schwefelarmen Diesel, der für moderne Motoren geeignet ist.",
+        "Das Projekt war eine der größten industriellen Investitionen in der Geschichte Kolumbiens.",
+        "Die Raffinerie versorgt sowohl den Inlandsmarkt als auch internationale Abnehmer."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "refinery-barrancabermeja-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Raffinerie in Barrancabermeja ist das größte und älteste Erdölverarbeitungszentrum Kolumbiens und liegt strategisch günstig am Ufer des Magdalena-Flusses. Sie verarbeitet den Großteil des im Inland geförderten Rohöls und stellt die Grundversorgung des Landes mit Benzin, Diesel und Petrochemikalien sicher. Über Jahrzehnte hinweg wurde die Anlage kontinuierlich erweitert, um den steigenden Energiebedarf der wachsenden Bevölkerung zu decken. Barrancabermeja gilt aufgrund dieser Industrie als die Erdölhauptstadt Kolumbiens und ist eng mit der Geschichte der Arbeiterbewegung verbunden. Die Raffinerie ist ein komplexes Geflecht aus Destillationsanlagen, Krackeinheiten und Lagertanks. Wirtschaft K8 — Die Bedeutung der fossilen Energieträger für die nationale Entwicklung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Raffinerie nahm ihren Betrieb bereits im Jahr 1922 auf.",
+        "Sie produziert über 250.000 Barrel Erdölprodukte pro Tag.",
+        "Mehr als 40 verschiedene Anlagentypen arbeiten auf dem weitläufigen Gelände zusammen.",
+        "Die Anlage ist ein wichtiger Arbeitgeber in der Region Santander."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cerrejon-coal-mine-economic-v2",
+    "descriptionAdvanced": {
+      "de": "El Cerrejón ist eine der weltweit größten offenen Steinkohleminen und liegt in der trockenen Region La Guajira im Nordosten Kolumbiens. Das Bergwerk erstreckt sich über eine riesige Fläche und nutzt gigantische Muldenkipper und Bagger zur Gewinnung der Kohleflöze. Die hier geförderte hochwertige Kohle wird fast ausschließlich exportiert und trägt wesentlich zu den Deviseneinnahmen des Landes bei. Cerrejón betreibt eine eigene Eisenbahnlinie, die das Bergwerk mit dem spezialisierten Exporthafen Puerto Bolívar verbindet. Der Betrieb steht jedoch häufig in der Kritik bezüglich seiner Auswirkungen auf die Umwelt und die lokalen indigenen Gemeinschaften der Wayuu. Wirtschaft K8 — Extraktive Industrien und ihre Auswirkungen auf Umwelt und Gesellschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Mine produziert jährlich etwa 30 Millionen Tonnen Kohle.",
+        "Einige der eingesetzten Muldenkipper können bis zu 320 Tonnen Material laden.",
+        "Das Unternehmen beschäftigt direkt und indirekt Tausende von Menschen in der Region.",
+        "Cerrejón führt umfangreiche Wiederaufforstungsprojekte auf ehemaligen Abbauflächen durch."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "la-loma-drummond-mine-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Mine La Loma, betrieben von Drummond, ist ein bedeutender Pfeiler der kolumbianischen Kohleindustrie im Departement Cesar. Durch den Tagebau werden hier gewaltige Mengen an thermischer Kohle gefördert, die für ihre hohe Qualität und den geringen Schwefelgehalt bekannt ist. Die Logistikkette umfasst den Transport per Bahn über Hunderte von Kilometern bis zur Karibikküste. Dieses Bergwerk hat maßgeblich dazu beigetragen, dass Kolumbien zu einem der führenden Kohleexporteure weltweit aufsteigen konnte. Die wirtschaftliche Bedeutung für die Region ist enorm, bringt aber auch Herausforderungen für die Infrastruktur und die lokale Bevölkerung mit sich. Ständige Investitionen in Technik sollen die Effizienz und Sicherheit der Förderung erhöhen. Wirtschaft K8 — Bergbau als Motor regionaler Wirtschaftsentwicklung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Drummond ist einer der größten privaten Kohleproduzenten in Kolumbien.",
+        "Die Kohle aus La Loma wird vor allem für die Stromerzeugung in Kraftwerken weltweit genutzt.",
+        "Die Mine verfügt über modernste Kontrollsysteme zur Überwachung der Luftqualität.",
+        "Der Export erfolgt über den unternehmenseigenen Hafen Puerto Drummond bei Santa Marta."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "port-tumaco-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Der Hafen von Tumaco ist der zweitwichtigste kolumbianische Hafen am Pazifik und ein zentrales Wirtschaftszentrum für den Südwesten des Landes. Er liegt im Departement Nariño und dient vor allem als Umschlagplatz für Erdöl, das über eine Pipeline aus dem Amazonasbecken hierher gepumpt wird. Neben dem Ölgeschäft ist der Hafen wichtig für den Export von Palmöl und Kakao, die in der umliegenden Regenwaldregion produziert werden. Aufgrund der geringeren Wassertiefe im Vergleich zu Buenaventura ist Tumaco eher für kleinere und mittlere Schiffe geeignet. Die Hafenaktivitäten sind für die lokale Wirtschaft von existenzieller Bedeutung, da alternative Erwerbsquellen in der Region begrenzt sind. Wirtschaft K8 — Regionale Disparitäten und die Bedeutung kleinerer Hafenstandorte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Tumaco ist der Endpunkt der Transandinen Pipeline (OTA) aus dem Putumayo.",
+        "Der Hafen liegt auf einer Insel, die durch Brücken mit dem Festland verbunden ist.",
+        "Fischerei und Meeresfrüchteverarbeitung sind wichtige Begleitindustrien des Hafens.",
+        "Tumaco hat aufgrund seiner Nähe zu den Fanggebieten eine große Bedeutung für die Garnelenindustrie."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "free-zone-bogota-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Freihandelszone Bogotá ist der wichtigste Industriepark der kolumbianischen Hauptstadt und ein Zentrum für Handel, Logistik und Dienstleistungen. Unternehmen profitieren hier von steuerlichen Vorteilen und Zollvergünstigungen, was den Standort für internationale Investoren hochattraktiv macht. Gelegen im Westen der Stadt, bietet sie eine hervorragende Anbindung an den internationalen Flughafen El Dorado. Die Freihandelszone beherbergt eine Vielzahl von Branchen, von der Hochtechnologie über die Pharmaindustrie bis hin zu großen Callcentern. Sie fungiert als Katalysator für Beschäftigung und technologische Innovation in der Metropolregion. Durch moderne Rechenzentren ist sie zudem ein wichtiger Knotenpunkt für den digitalen Handel. Wirtschaft K8 — Sonderwirtschaftszonen als Instrument der Exportförderung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Freihandelszone Bogotá wurde mehrfach als eine der besten in Amerika ausgezeichnet.",
+        "Sie bietet Unternehmen eine 100%ige Befreiung von Zöllen für importierte Rohstoffe.",
+        "Mehr als 400 Unternehmen haben ihren Sitz in diesem abgesperrten Industrieareal.",
+        "Die Zone verfügt über ein eigenes Zollamt zur beschleunigten Abwicklung von Waren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "free-zone-pacifico-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Freihandelszone Pacífico liegt strategisch günstig in der Nähe von Cali und ist ein bedeutendes Zentrum für Industrie und Logistik im Südwesten Kolumbiens. Durch ihre Nähe zum Hafen von Buenaventura und dem internationalen Flughafen Alfonso Bonilla Aragón bietet sie Unternehmen ideale Bedingungen für den globalen Handel. Die Zone ist besonders auf die verarbeitende Industrie, Pharmazeutik und Agroindustrie spezialisiert. Unternehmen profitieren hier von attraktiven Steuervergünstigungen und einer modernen Infrastruktur, die auf Effizienz ausgelegt ist. Als Motor für die regionale Entwicklung schafft sie Tausende von Arbeitsplätzen und fördert den Technologietransfer. Die Freihandelszone spielt eine Schlüsselrolle bei der Stärkung der kolumbianischen Wettbewerbsfähigkeit auf dem Weltmarkt. Wirtschaft K8 — Regionale Wirtschaftskreisläufe und industrielle Ansiedlungspolitik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Zone befindet sich in der Gemeinde Palmira, direkt vor den Toren Calis.",
+        "Sie bietet spezialisierte Dienstleistungen für den Import und Export von Waren.",
+        "In der Freihandelszone Pacífico sind zahlreiche multinationale Unternehmen ansässig.",
+        "Die Infrastruktur umfasst moderne Lagerhallen und spezialisierte Verladezonen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "free-zone-tayrona-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Freihandelszone Tayrona liegt an der Karibikküste bei Santa Marta und nutzt die Vorteile eines der tiefsten natürlichen Häfen des Landes. Sie fungiert als wichtiger Umschlagplatz für Waren, die in die Karibik, nach Nordamerika und Europa exportiert werden. Die Zone ist besonders für Logistikunternehmen und Industriebetriebe attraktiv, die sperrige Güter oder Massengüter umschlagen. Dank ihrer strategischen Lage bietet sie eine nahtlose Integration in die maritimen Transportketten. Unternehmen profitieren von den zollrechtlichen Sonderregelungen, die die Produktionskosten für Exportgüter erheblich senken. Die Freihandelszone trägt maßgeblich zur wirtschaftlichen Diversifizierung der Region Magdalena bei. Wirtschaft K8 — Maritime Logistik und die Förderung des Außenhandels.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Freihandelszone Tayrona hat direkten Zugang zu den wichtigsten Schifffahrtswegen der Karibik.",
+        "Sie ist auf den Umschlag von industriellen Rohstoffen und Fertigprodukten spezialisiert.",
+        "Die Zone bietet Unternehmen umfassende logistische Unterstützung bei der Zollabwicklung.",
+        "Santa Marta ist aufgrund der hier ansässigen Freihandelszone ein wichtiger Investitionsstandort."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "free-zone-santander-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Freihandelszone Santander befindet sich in der Nähe von Bucaramanga und ist ein modernes Zentrum für Dienstleistungen, Technologie und Leichtindustrie. Sie ist darauf ausgerichtet, die Wirtschaft der Region Santander durch Innovation und Internationalisierung zu stärken. Besonders stark vertreten sind Unternehmen aus den Bereichen IT-Dienstleistungen, Gesundheitswesen und moderne Fertigungstechnik. Die Freihandelszone bietet eine erstklassige Infrastruktur mit Rechenzentren und Büroflächen, die höchsten internationalen Standards entsprechen. Durch die Ansiedlung von Unternehmen mit hoher Wertschöpfung fördert sie die Entstehung qualifizierter Arbeitsplätze. Sie dient als Bindeglied zwischen der regionalen Wirtschaft und den globalen Märkten. Wirtschaft K8 — Dienstleistungsexport und technologische Innovation in Südamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Zone liegt in Floridablanca, einem Teil der Metropolregion Bucaramanga.",
+        "Sie ist eine der ersten Freihandelszonen Kolumbiens, die auf Dienstleistungen spezialisiert ist.",
+        "In Santander ansässige Unternehmen nutzen die Zone oft für Softwareentwicklung und BPO.",
+        "Die Freihandelszone Santander ist ein Vorbild für nachhaltige Industrieentwicklung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "puerto-bolivar-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Puerto Bolívar ist der spezialisierte Kohlehafen der Cerrejón-Mine und liegt an der Nordspitze Kolumbiens auf der Halbinsel La Guajira. Er ist einer der größten Kohleexport-Terminals der Welt und kann riesige Schüttgutfrachter der Capesize-Klasse abfertigen. Die Kohle gelangt über eine unternehmenseigene Eisenbahn direkt vom Bergwerk zum Hafen, wo sie effizient verladen wird. Die gesamte Infrastruktur ist auf einen hohen Durchsatz und minimale Verladezeiten ausgelegt, um die Wettbewerbsfähigkeit der kolumbianischen Kohle zu sichern. Aufgrund der trockenen und windigen Umgebung sind umfangreiche Maßnahmen zur Staubunterdrückung installiert. Puerto Bolívar ist ein entscheidender Faktor für die Deviseneinnahmen des Landes. Wirtschaft K8 — Spezialisierte Terminals und die Logistik des Rohstoffexports.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hafen kann Schiffe mit einer Kapazität von bis zu 175.000 Tonnen beladen.",
+        "Die Verladeanlagen erreichen Geschwindigkeiten von mehreren Tausend Tonnen pro Stunde.",
+        "Puerto Bolívar liegt in einer der trockensten Regionen Kolumbiens.",
+        "Der Hafen ist durch eine 150 Kilometer lange Eisenbahnlinie mit der Cerrejón-Mine verbunden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "puerto-nuevo-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Puerto Nuevo ist ein moderner Kohlehafen in der Nähe von Santa Marta, der für seine hohen Umweltstandards und effiziente Verladetechnik bekannt ist. Er dient als wichtiges Exportterminal für die Kohleminen im Norden Kolumbiens, insbesondere für die Produktion von Prodeco. Ein besonderes Merkmal ist das geschlossene Beladesystem mit Förderbändern, das die Staubbelastung für die Umwelt minimiert. Der Hafen wurde entworfen, um die strengen kolumbianischen Umweltvorschriften zu erfüllen und den Schutz der umliegenden Küstengewässer zu gewährleisten. Puerto Nuevo trägt dazu bei, die Kapazitäten für den Rohstoffexport des Landes nachhaltiger zu gestalten. Die Anlage ist ein Beispiel für moderne industrielle Infrastruktur in einer ökologisch sensiblen Region. Wirtschaft K8 — Nachhaltigkeit in der Logistik und Umweltschutz im Bergbausektor.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Puerto Nuevo nutzt ein direktes Verladesystem ohne Zwischenlagerung auf offenen Halden.",
+        "Der Hafen ist so konzipiert, dass er die Beeinträchtigung des Tourismus in Santa Marta minimiert.",
+        "Er verfügt über tiefe Liegeplätze, die auch große Frachter ohne Baggerarbeiten aufnehmen.",
+        "Die gesamte Anlage wird elektronisch überwacht, um die Effizienz zu maximieren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "hidroituango-dam-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Wasserkraftwerk Ituango, bekannt als Hidroituango, ist das größte Energieprojekt in der Geschichte Kolumbiens und liegt am Fluss Cauca im Departement Antioquia. Nach seiner vollständigen Fertigstellung soll es einen erheblichen Teil des nationalen Strombedarfs decken und die Energiesicherheit des Landes stärken. Das Projekt umfasst eine gewaltige Staumauer und ein unterirdisches Kraftwerk mit mehreren Turbinen. Während der Bauphase gab es erhebliche technische Herausforderungen und Umweltbedenken, die das Projekt weltweit in die Schlagzeilen brachten. Dennoch gilt Hidroituango als strategisch unverzichtbar für die wirtschaftliche Entwicklung und die Reduzierung von Treibhausgasemissionen durch erneuerbare Energien. Wirtschaft K8 — Großprojekte zur Energiegewinnung und ihre gesellschaftlichen Auswirkungen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Hidroituango soll nach Fertigstellung etwa 17 Prozent des kolumbianischen Stroms liefern.",
+        "Die Staumauer ist eine der höchsten ihrer Art in Südamerika.",
+        "Das Kraftwerk nutzt die gewaltige Wasserkraft des Rio Cauca, dem zweitwichtigsten Fluss des Landes.",
+        "Das Projekt befindet sich in einer tiefen Schlucht zwischen den Zentralkordilleren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "chivor-hydro-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Wasserkraftwerk Chivor, auch bekannt als La Esmeralda, ist eine der wichtigsten Anlagen zur Stromerzeugung im Herzen Kolumbiens. Es nutzt das Wasser des Flusses Batá und befindet sich in einer beeindruckenden Gebirgslandschaft im Departement Boyacá. Seit seiner Inbetriebnahme in den 1970er Jahren spielt Chivor eine zentrale Rolle bei der Stabilisierung des nationalen Stromnetzes. Das Wasser wird durch lange Tunnel geleitet, um ein enormes Gefälle zu nutzen und die Turbinen anzutreiben. Die Anlage ist ein technisches Meisterwerk der Ingenieurskunst und zeigt die Bedeutung der Wasserkraft für die kolumbianische Wirtschaft. Chivor trägt zur Unabhängigkeit von fossilen Brennstoffen bei und nutzt die topographischen Vorteile der Anden. Wirtschaft K8 — Nutzung natürlicher Potenziale für die Energieversorgung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Chivor war zum Zeitpunkt seiner Fertigstellung eines der größten Wasserkraftwerke Südamerikas.",
+        "Der Stausee La Esmeralda ist auch ein wichtiges Ziel für den lokalen Tourismus.",
+        "Die Anlage verfügt über eine installierte Leistung von etwa 1.000 Megawatt.",
+        "Das Kraftwerk liegt tief im zerklüfteten Gelände der Ostkordillere."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "guavio-hydro-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Wasserkraftwerk Guavio ist eine der leistungsstärksten Anlagen Kolumbiens und befindet sich im Departement Cundinamarca, östlich von Bogotá. Durch die Aufstauung des Flusses Guavio entstand ein riesiges Reservoir, das als gewaltiger Energiespeicher für das Land dient. Das Kraftwerk ist größtenteils unterirdisch in massiven Felskavernen untergebracht, um die Umweltbelastung an der Oberfläche zu minimieren. Guavio ist ein entscheidender Pfeiler für die Versorgung der Metropolregion Bogotá und der umliegenden Industriegebiete. Die Anlage nutzt den natürlichen Höhenunterschied der Andenausläufer zur effizienten Stromerzeugung. Trotz der Komplexität des Betriebs gilt Guavio als eine der zuverlässigsten Energiequellen Kolumbiens. Wirtschaft K8 — Infrastruktur der Grundversorgung in Gebirgsregionen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Guavio ist nach installierter Leistung eines der größten Wasserkraftwerke Kolumbiens.",
+        "Die Staumauer gehört zu den höchsten Erddämmen der Welt.",
+        "Das unterirdische Maschinenhaus liegt Hunderte von Metern unter der Erde.",
+        "Die Anlage trägt maßgeblich zur CO2-freien Stromerzeugung in Kolumbien bei."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "cerro-matoso-mine-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Cerro Matoso ist eine der weltweit bedeutendsten Ferronickel-Minen und liegt im Departement Córdoba im Norden Kolumbiens. Das Bergwerk kombiniert den Abbau von Nickelerzen im Tagebau mit einer direkt angeschlossenen Schmelzanlage zur Produktion von Ferronickel. Dieses Produkt ist ein unverzichtbarer Rohstoff für die weltweite Edelstahlindustrie und macht Kolumbien zu einem wichtigen Akteur auf dem globalen Nickelmarkt. Der Betrieb ist ein bedeutender Wirtschaftsfaktor für die Region und schafft Tausende von direkten und indirekten Arbeitsplätzen. Cerro Matoso hat über Jahrzehnte hinweg zur technologischen Entwicklung des kolumbianischen Bergbausektors beigetragen. Gleichzeitig steht das Unternehmen vor der Aufgabe, die ökologischen Folgen des Abbaus zu minimieren. Wirtschaft K8 — Metallurgie und die Integration in globale Industrieketten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Cerro Matoso ist einer der größten Ferronickel-Produzenten in Lateinamerika.",
+        "Das Bergwerk ist seit den frühen 1980er Jahren in Betrieb.",
+        "Nickel ist ein strategisch wichtiger Rohstoff für moderne Technologien und Batterien.",
+        "Die Schmelzanlage nutzt modernste Elektroöfen zur Metallgewinnung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "ingenio-manuelita-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Ingenio Manuelita ist eines der traditionsreichsten und bedeutendsten Unternehmen der kolumbianischen Zuckerindustrie im fruchtbaren Valle del Cauca. Gegründet im 19. Jahrhundert, hat es sich von einer kleinen Mühle zu einem modernen Agrarindustrie-Komplex entwickelt. Manuelita produziert nicht nur hochwertigen Zucker für den Inlandsmarkt und Export, sondern ist auch führend in der Herstellung von Bioethanol. Das Unternehmen nutzt modernste Anbau- und Erntetechniken, um die Effizienz auf den riesigen Zuckerrohrplantagen zu maximieren. Neben Zucker und Energie produziert Manuelita auch Papier aus den Überresten der Zuckerrohrverarbeitung (Bagasse). Die Firma gilt als Vorbild für soziale Verantwortung und wirtschaftliche Beständigkeit in Kolumbien. Wirtschaft K8 — Agroindustrie und die vertikale Integration der Wertschöpfungskette.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Manuelita wurde bereits im Jahr 1864 gegründet.",
+        "Das Unternehmen ist ein Pionier in der Produktion von Biokraftstoffen in Kolumbien.",
+        "Die Plantagen befinden sich in einer der weltweit besten Regionen für den Zuckerrohranbau.",
+        "Manuelita exportiert seine Produkte in zahlreiche Länder weltweit."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "ingenio-providencia-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Ingenio Providencia ist ein führender Akteur in der kolumbianischen Zucker- und Energiebranche mit Sitz im Valle del Cauca. Der Betrieb zeichnet sich durch seine hochmoderne industrielle Infrastruktur aus, die auf die großflächige Verarbeitung von Zuckerrohr spezialisiert ist. Neben der Herstellung von weißem und braunem Zucker hat sich Providencia auf die Erzeugung von grüner Energie durch Kraft-Wärme-Kopplung konzentriert. Das Unternehmen investiert massiv in Forschung und Entwicklung, um nachhaltige landwirtschaftliche Praktiken zu fördern. Durch die Produktion von Bioethanol trägt es zur Reduzierung der Abhängigkeit von fossilen Brennstoffen in Kolumbien bei. Providencia ist ein wichtiger Arbeitgeber und fördert zahlreiche soziale Projekte in der Region. Wirtschaft K8 — Nachhaltigkeit in der Agrarindustrie und energetische Verwertung von Biomasse.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Providencia produziert jährlich Hunderttausende Tonnen Zucker für den Weltmarkt.",
+        "Die Fabrik deckt ihren eigenen Energiebedarf fast vollständig aus den Reststoffen des Zuckerrohrs.",
+        "Das Unternehmen betreibt eigene Ausbildungsprogramme für Fachkräfte in der Agroindustrie.",
+        "Die Region Valle del Cauca bietet aufgrund des Klimas ganzjährige Erntemöglichkeiten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "bavaria-brewery-tocancipa-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Brauerei Bavaria in Tocancipá ist eine der größten und modernsten Produktionsstätten für Bier in Lateinamerika. Gelegen nördlich von Bogotá, nutzt sie modernste Abfüllanlagen und Brautechnologien, um den hohen Bedarf des kolumbianischen Marktes zu decken. Die Anlage ist ein wichtiger Bestandteil des globalen AB InBev-Netzwerks und erfüllt strengste Qualitäts- und Umweltstandards. Bavaria hat in Tocancipá ein hochgradig automatisiertes Logistikzentrum integriert, das die effiziente Verteilung der Produkte im ganzen Land sicherstellt. Das Unternehmen legt großen Wert auf Wassereffizienz und den Einsatz erneuerbarer Energien in der Produktion. Die Brauerei ist ein Symbol für die Stärke der kolumbianischen Konsumgüterindustrie. Wirtschaft K8 — Industrielle Massenproduktion und Markenführung im globalen Kontext.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bavaria ist die führende Brauerei Kolumbiens mit einer über 130-jährigen Geschichte.",
+        "Die Anlage in Tocancipá wurde konzipiert, um minimale Umweltauswirkungen auf die Hochebene von Bogotá zu haben.",
+        "Hier werden bekannte Marken wie Club Colombia und Águila in riesigen Mengen produziert.",
+        "Die Brauerei verfügt über eine eigene Kläranlage zur Wiederaufbereitung des Brauwassers."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "renault-sofasa-envigado-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Automobilwerk Renault-Sofasa in Envigado bei Medellín ist das Herz der kolumbianischen Fahrzeugindustrie. Seit Jahrzehnten werden hier Modelle für den heimischen Markt und den Export in andere lateinamerikanische Länder montiert. Das Werk ist bekannt für seine hohe Produktivität und die Qualität der gefertigten Fahrzeuge, was es zu einem Vorzeigestandort innerhalb der Renault-Gruppe macht. Sofasa hat maßgeblich zur Entstehung eines dichten Netzwerks von Zulieferbetrieben in der Region Antioquia beigetragen. Die Fabrik setzt zunehmend auf die Montage von Elektrofahrzeugen, um den Trend zur nachhaltigen Mobilität zu unterstützen. Durch kontinuierliche Schulungen der Mitarbeiter sichert das Werk seine technologische Spitzenposition. Wirtschaft K8 — Automobilindustrie und die Entstehung industrieller Cluster.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Renault-Sofasa wurde 1969 gegründet und begann mit der Montage des legendären Renault 4.",
+        "Das Werk exportiert einen signifikanten Teil seiner Produktion nach Mexiko und Südamerika.",
+        "Es ist einer der wichtigsten industriellen Arbeitgeber im Aburrá-Tal.",
+        "Sofasa hat mehrfach Auszeichnungen für seine effiziente Logistik und Fertigung erhalten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "puerto-antioquia-turbo-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Puerto Antioquia ist ein ambitioniertes Hafenprojekt am Golf von Urabá, das die logistische Landkarte Kolumbiens grundlegend verändern soll. Durch seine Lage ist er der dem Landesinneren am nächsten gelegene Hafen an der Karibikküste, was die Transportkosten für Exporte aus Medellín und Bogotá erheblich senkt. Der Hafen ist speziell auf den Umschlag von Bananen, Fleisch und industriellen Gütern ausgelegt. Die moderne Infrastruktur umfasst Terminals für Container und Schüttgut mit modernster Verladetechnik. Puerto Antioquia gilt als Motor für die wirtschaftliche Transformation der Region Urabá, die traditionell von der Landwirtschaft geprägt ist. Das Projekt stärkt die Anbindung Kolumbiens an die globalen Handelsrouten im Atlantik. Wirtschaft K8 — Infrastrukturentwicklung und die Optimierung nationaler Logistikwege.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hafen verkürzt die Distanz zwischen den Industriezentren und der Küste um bis zu 300 Kilometer.",
+        "Puerto Antioquia liegt im Herzen der wichtigsten Bananenanbauregion Kolumbiens.",
+        "Das Projekt ist eine Kooperation zwischen kolumbianischen Investoren und internationalen Partnern.",
+        "Der Hafen verfügt über spezialisierte Kühlhäuser für den Export leicht verderblicher Waren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "buritica-gold-mine-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Goldmine Buriticá im Nordwesten von Antioquia ist eines der modernsten und bedeutendsten Untertagebau-Projekte Kolumbiens. Das Bergwerk nutzt fortschrittliche Technologien zur Gewinnung von Gold und Silber aus hochgradigen Erzgängen. Durch den Einsatz von mechanisierten Abbaumethoden und einer effizienten Verarbeitungsanlage setzt Buriticá neue Maßstäbe für den industriellen Bergbau im Land. Das Projekt hat die Region wirtschaftlich transformiert und zahlreiche formelle Arbeitsplätze geschaffen. Besonderes Augenmerk liegt auf der Einhaltung strenger Umweltauflagen und der Zusammenarbeit mit den lokalen Gemeinden. Buriticá ist ein Schlüsselprojekt für den kolumbianischen Bergbausektor und trägt signifikant zur legalen Goldproduktion bei. Wirtschaft K8 — Moderner Bergbau und die Bedeutung von Edelmetallen für den Export.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Buriticá gilt als eine der hochgradigsten Goldminen weltweit.",
+        "Das Bergwerk erstreckt sich über mehrere Kilometer unterirdischer Tunnel.",
+        "Die Mine wird von internationalen Unternehmen nach höchsten Sicherheitsstandards betrieben.",
+        "Das Projekt umfasst umfangreiche Programme zur Förderung lokaler Kleinunternehmer."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "cementos-argos-yumbo-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Zementwerk von Cementos Argos in Yumbo ist eine der wichtigsten Produktionsstätten für Baustoffe im Südwesten Kolumbiens. Die Anlage nutzt modernste Trockenverfahren zur Herstellung von Zement und Klinker, was den Energieverbrauch und die Emissionen deutlich reduziert. Gelegen im Industriegebiet von Yumbo bei Cali, versorgt das Werk die Bauwirtschaft in der gesamten Region und darüber hinaus. Argos hat massiv in die Mitverbrennung von Abfällen investiert, um den Einsatz fossiler Brennstoffe zu verringern und die Nachhaltigkeit zu erhöhen. Die Fabrik ist ein unverzichtbarer Partner für große Infrastrukturprojekte in Kolumbien. Durch kontinuierliche Innovation sichert Argos seine Position als Marktführer in der Branche. Wirtschaft K8 — Grundstoffindustrie und die ökologische Modernisierung der Produktion.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Argos ist eines der größten Zementunternehmen in Lateinamerika und den USA.",
+        "Das Werk in Yumbo verfügt über eine eigene Logistikflotte zur Belieferung von Großkunden.",
+        "Die Anlage nutzt computergestützte Kontrollsysteme zur Überwachung der Produktqualität.",
+        "Argos fördert in Yumbo Bildungsprojekte für die Kinder der Fabrikarbeiter."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "mamonal-industrial-complex-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Der Industriekomplex Mamonal in Cartagena ist das bedeutendste Industriecluster Kolumbiens und eines der wichtigsten an der Karibikküste. Auf dem weitläufigen Areal sind Hunderte von Unternehmen aus der Petrochemie, Logistik und Fertigungsindustrie angesiedelt. Mamonal profitiert von der direkten Anbindung an mehrere spezialisierte Hafenterminals, was den Export von Gütern extrem effizient macht. Hier befinden sich unter anderem die Reficar-Raffinerie sowie große Anlagen zur Herstellung von Kunststoffen und Düngemitteln. Der Komplex fungiert als Motor für die wirtschaftliche Entwicklung der gesamten Region Bolívar. Durch Synergieeffekte zwischen den ansässigen Firmen entstehen hochspezialisierte Dienstleistungsketten. Wirtschaft K8 — Industriecluster und ihre Bedeutung für die nationale Wettbewerbsfähigkeit.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mamonal erwirtschaftet einen signifikanten Teil des industriellen BIP von Kolumbien.",
+        "Die Zone verfügt über eine eigene private Sicherheits- und Feuerwehrinfrastruktur.",
+        "Viele der hier ansässigen Unternehmen sind in Freihandelszonen organisiert.",
+        "Mamonal ist ein Zentrum für die chemische Industrie in der Karibikregion."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "postobon-bello-plant-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Getränkewerk von Postobón in Bello ist eine der modernsten und größten Abfüllanlagen für alkoholfreie Getränke in Südamerika. Die Fabrik nutzt hochgeschwindigkeits-Produktionslinien, um ein breites Portfolio an Erfrischungsgetränken, Säften und Wasser herzustellen. Als kolumbianisches Traditionsunternehmen setzt Postobón in diesem Werk auf modernste Technologien zur Ressourceneffizienz, insbesondere beim Wasser- und Energieverbrauch. Die Anlage in Bello dient als wichtiges Logistikzentrum für die Verteilung der Produkte in der Metropolregion Medellín und in ganz Nordkolumbien. Das Werk ist ein Beispiel für die hohe Leistungsfähigkeit der kolumbianischen Lebensmittelindustrie. Postobón engagiert sich zudem stark in Recyclingprogrammen für die verwendeten Verpackungsmaterialien. Wirtschaft K8 — Konsumgüterindustrie und nachhaltiges Ressourcenmanagement.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Postobón ist seit über 100 Jahren ein führendes Unternehmen auf dem kolumbianischen Getränkemarkt.",
+        "Das Werk in Bello kann Millionen von Flaschen pro Tag abfüllen.",
+        "Die Logistikflotte des Unternehmens gehört zu den größten des Landes.",
+        "Postobón ist bekannt für seine Unterstützung des kolumbianischen Sports, insbesondere des Radsports."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "arroyohondo-industrial-zone-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Die Industriezone Arroyohondo liegt in der Gemeinde Yumbo und ist ein zentraler Pfeiler der Wirtschaft im Departement Valle del Cauca. Hier haben sich zahlreiche Unternehmen aus den Bereichen Papierherstellung, Lebensmittelverarbeitung und Chemie angesiedelt. Die Zone profitiert von der flachen Topographie des Cauca-Tals und der hervorragenden Anbindung an die Panamericana sowie zum Hafen von Buenaventura. Arroyohondo gilt als einer der dynamischsten Industriestandorte Kolumbiens und zieht kontinuierlich neue Investitionen an. Die räumliche Nähe zu Cali ermöglicht einen schnellen Zugang zu qualifizierten Arbeitskräften und Dienstleistungen. Viele Unternehmen in Arroyohondo haben in den letzten Jahren in umweltfreundliche Produktionstechnologien investiert. Wirtschaft K8 — Standortfaktoren und die Entwicklung regionaler Industriegebiete.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Yumbo, wo Arroyohondo liegt, wird oft als die Industriehauptstadt Kolumbiens bezeichnet.",
+        "In der Zone befinden sich Werke von bekannten multinationalen Konzernen.",
+        "Die Region ist besonders stark in der Herstellung von Verpackungsmaterialien aus Zuckerrohrbagasse.",
+        "Arroyohondo verfügt über eine gut ausgebaute Infrastruktur für Schwerlasttransporte."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "tcbuen-terminal-economic-v2",
+    "descriptionAdvanced": {
+      "de": "Das Containerterminal TCBUEN (Terminal de Contenedores de Buenaventura) ist eine der modernsten Hafenanlagen an der kolumbianischen Pazifikküste. Es wurde speziell entworfen, um die Effizienz beim Umschlag von Containern zu maximieren und die Abfertigungszeiten für Schiffe zu verkürzen. TCBUEN nutzt modernste Portalkräne und ein computergestütztes Logistiksystem, das eine präzise Verfolgung jedes Containers ermöglicht. Das Terminal spielt eine entscheidende Rolle für den Außenhandel mit Asien und den USA und stärkt die Position Buenaventuras als wichtigster Pazifikhafen. Ein besonderer Fokus liegt auf der Sicherheit und der Bekämpfung des illegalen Handels durch modernste Scantechnologien. TCBUEN ist ein Beispiel für erfolgreiche private Investitionen in die nationale Infrastruktur. Wirtschaft K8 — Hafentechnologie und die Beschleunigung globaler Warenströme.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "TCBUEN verfügt über eine der modernsten Röntgenprüfanlagen für Container in Lateinamerika.",
+        "Das Terminal ist direkt an die Hauptverkehrsstraßen ins Landesinnere angebunden.",
+        "Die Portalkräne können auch größte Containerschiffe effizient beladen.",
+        "TCBUEN legt großen Wert auf die Zusammenarbeit mit der lokalen Bevölkerung in Buenaventura."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "ciudad-perdida-history-v2",
+    "descriptionAdvanced": {
+      "de": "Ciudad Perdida, die Verlorene Stadt, ist eine der bedeutendsten archäologischen Stätten Südamerikas und liegt tief im Dschungel der Sierra Nevada de Santa Marta. Sie wurde um 800 n. Chr. vom Volk der Tayrona erbaut, lange vor der Ankunft der Europäer, und besteht aus einem beeindruckenden Netz von Terrassen und Steintreppen. Die Stadt diente einst als politisches und religiöses Zentrum der Region, bevor sie im 16. Jahrhundert verlassen wurde. Erst in den 1970er Jahren wurde sie von Grabräubern wiederentdeckt und später wissenschaftlich erschlossen. Wanderer erreichen die Ruinen nur durch einen mehrtägigen Marsch durch dichten Regenwald und über Hunderte von Steinstufen. Geschichte K7 — Präkolumbianische Hochkulturen und ihre architektonischen Hinterlassenschaften.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Ciudad Perdida ist etwa 650 Jahre älter als das berühmte Machu Picchu in Peru.",
+        "Die Anlage umfasst etwa 169 in den Berghang gehauene Terrassen.",
+        "Die indigenen Völker der Region nennen den Ort Teyuna.",
+        "Bis heute sind nur etwa 10 Prozent der ursprünglichen Stadt freigelegt worden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "castillo-san-felipe-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Castillo San Felipe de Barajas in Cartagena ist die gewaltigste Festungsanlage, die die Spanier jemals in ihren amerikanischen Kolonien errichteten. Strategisch auf dem Hügel von San Lázaro gelegen, schützte sie die Stadt und ihren Hafen vor Angriffen von Piraten und rivalisierenden europäischen Mächten. Das ausgeklügelte System aus Tunneln, Wällen und Batterien machte es fast unmöglich, die Festung einzunehmen. Besonders berühmt ist der Sieg über die britische Flotte unter Admiral Vernon im Jahr 1741, der den spanischen Einfluss in der Karibik sicherte. Heute gehört das Castillo zum UNESCO-Weltkulturerbe und bietet einen atemberaubenden Blick über die historische Altstadt und das Meer. Geschichte K7 — Koloniale Verteidigungsstrategien und die Rivalität der Seemächte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Bau der Festung begann im Jahr 1536 und dauerte über 150 Jahre.",
+        "Das Tunnelsystem ist so konstruiert, dass selbst leiseste Schritte weithin zu hören sind.",
+        "Die Festung wurde aus Ziegeln und Kalksteinmörtel unter extremen Bedingungen erbaut.",
+        "Cartagena galt aufgrund dieser Festung als uneinnehmbar."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "san-agustin-park-history-v2",
+    "descriptionAdvanced": {
+      "de": "Der Archäologische Park San Agustín beherbergt die weltweit größte Sammlung religiöser Monumente und megalithischer Skulpturen aus der präkolumbianischen Zeit. Inmitten einer grünen Hügellandschaft finden Besucher beeindruckende Statuen aus Vulkangestein, die Götter, Tiere und Krieger darstellen. Diese rätselhaften Figuren wurden von einer unbekannten Kultur zwischen dem 1. und 8. Jahrhundert n. Chr. geschaffen, die ihre Toten in aufwendigen Grabanlagen beisetzte. Der Park ist ein bedeutendes Zeugnis der spirituellen Weltanschauung und der handwerklichen Fähigkeiten dieser frühen Gesellschaft. Die UNESCO hat San Agustín aufgrund seiner Einzigartigkeit zum Weltkulturerbe erklärt. Geschichte K7 — Mystische Monumentalkunst und Bestattungsriten im antiken Amerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Statuen variieren in ihrer Größe von wenigen Zentimetern bis zu sieben Metern Höhe.",
+        "Viele der Figuren zeigen eine Mischung aus menschlichen und tierischen Merkmalen (Anthropozoomorphismus).",
+        "Die Fuente de Lavapatas ist ein kunstvoll in das Flussbett gehauener ritueller Badeplatz.",
+        "Die Schöpfer dieser Kunst verschwanden spurlos, lange bevor die Spanier eintrafen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "tierradentro-park-history-v2",
+    "descriptionAdvanced": {
+      "de": "Der Archäologische Park Tierradentro ist weltberühmt für seine einzigartigen unterirdischen Grabanlagen, die sogenannten Hypogäen. Diese Gräber wurden von einer prähispanischen Kultur tief in den weichen Fels getrieben und kunstvoll mit geometrischen Mustern in Rot, Schwarz und Weiß bemalt. Die Kammern sind über Wendeltreppen erreichbar und dienten wahrscheinlich als Zweitbestattungsplätze für die Elite der Gesellschaft. Tierradentro liegt in einer abgeschiedenen Bergregion im Departement Cauca und bietet einen faszinierenden Einblick in die Bestattungskultur des 6. bis 10. Jahrhunderts. Neben den Gräbern finden sich im Park auch zahlreiche steinerne Statuen, die Ähnlichkeiten mit denen von San Agustín aufweisen. Geschichte K7 — Unterirdische Welten und der Totenkult präkolumbianischer Gesellschaften.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Tierradentro bedeutet im Spanischen 'Land im Inneren' oder 'Inneres Land'.",
+        "Einige der Grabkammern haben einen Durchmesser von bis zu sieben Metern.",
+        "Die Malereien zeigen oft spirituelle Motive und Alltagsszenen der damaligen Bewohner.",
+        "Die UNESCO erklärte den Park 1995 zum Weltkulturerbe."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "las-lajas-sanctuary-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Santuario de Las Lajas ist eine beeindruckende neugotische Basilika, die spektakulär in einer tiefen Schlucht des Flusses Guáitara im Süden Kolumbiens erbaut wurde. Sie gilt als eines der schönsten religiösen Bauwerke der Welt und ist ein wichtiger Wallfahrtsort für Gläubige aus ganz Südamerika. Die Kirche wurde direkt über dem Ort errichtet, an dem laut Überlieferung die Jungfrau Maria auf einem Stein (einer 'Laja') erschienen ist. Das heutige Gebäude wurde zwischen 1916 und 1949 errichtet und verbindet zwei Seiten der Schlucht mit einer kühnen Brückenkonstruktion. Die nächtliche Beleuchtung der Fassade verleiht dem Ort eine fast märchenhafte Atmosphäre. Geschichte K8 — Sakrale Architektur und die Marienverehrung in der kolumbianischen Geschichte.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Basilika steht etwa 100 Meter über dem Boden der Schlucht.",
+        "Das Altarbild ist kein Gemälde, sondern eine natürliche Darstellung auf dem Felsen der Schlucht.",
+        "Rund um die Kirche finden sich Tausende von Votivtafeln dankbarer Pilger.",
+        "Das Heiligtum liegt nur wenige Kilometer von der Grenze zu Ecuador entfernt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "salt-cathedral-zipaquira-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Salzkathedrale von Zipaquirá ist ein einzigartiges architektonisches Meisterwerk, das tief im Inneren eines Salzbergwerkes etwa 50 Kilometer nördlich von Bogotá errichtet wurde. In den riesigen Abbauhallen wurden religiöse Skulpturen und Kreuze direkt aus dem massiven Steinsalz gehauen. Die Kathedrale gilt als eines der bedeutendsten religiösen Denkmäler Kolumbiens und ist eine Hommage an die Arbeit der Bergleute. Besucher wandern durch einen Kreuzweg aus 14 Stationen, bevor sie das monumentale Hauptschiff mit seinem gewaltigen, beleuchteten Kreuz erreichen. Die außergewöhnliche Akustik und das spirituelle Ambiente machen den Ort zu einem unvergesslichen Erlebnis. Geschichte K8 — Bergbautradition und moderner Sakralbau in Kolumbien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die heutige Kathedrale liegt etwa 180 Meter unter der Erdoberfläche.",
+        "Sie wurde 2007 zum ersten Weltwunder Kolumbiens gewählt.",
+        "In der Anlage wird noch heute Salz für industrielle Zwecke gefördert.",
+        "Das große Kreuz im Hauptschiff ist 16 Meter hoch und komplett aus Salzstein gefertigt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "villa-de-leyva-plaza-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Plaza Mayor von Villa de Leyva ist der größte kopfsteingepflasterte Hauptplatz Kolumbiens und einer der beeindruckendsten in ganz Lateinamerika. Umgeben von gut erhaltenen Kolonialgebäuden mit weißen Fassaden und dunklen Holzbalkonen, scheint hier die Zeit im 16. Jahrhundert stehen geblieben zu sein. Der weitläufige Platz diente einst als Versammlungsort und Markt für die Region und ist heute das Herzstück des unter Denkmalschutz stehenden Dorfes. In der Mitte befindet sich ein kleiner Brunnen, der seit Jahrhunderten die Wasserversorgung sicherstellte. Die karge Berglandschaft im Hintergrund bildet einen dramatischen Kontrast zur Architektur der Kolonialzeit. Villa de Leyva ist ein Symbol für das aristokratische Erbe des Vizekönigreichs Neugranada. Geschichte K7 — Städtebau und das gesellschaftliche Leben im kolonialen Südamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Platz umfasst eine Fläche von mehr als 14.000 Quadratmetern.",
+        "Villa de Leyva wurde 1572 offiziell von den Spaniern gegründet.",
+        "Auf dem Platz findet jährlich das berühmte Drachenfestival (Festival del Viento y las Cometas) statt.",
+        "Die Kopfsteinpflastersteine stammen aus den umliegenden Steinbrüchen der Region."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "mompox-historic-centre-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das historische Zentrum von Mompox, gelegen am Ufer des Magdalena-Flusses, ist ein außergewöhnliches Beispiel für koloniale Architektur und Städteplanung. Während der spanischen Herrschaft war Mompox ein strategischer Hafen für den Handel zwischen der Karibikküste und dem Landesinneren. Die Stadt ist berühmt für ihre prächtigen Kirchen und Herrenhäuser, die ihren Reichtum aus dem Goldhandel widerspiegeln. Da der Hauptarm des Flusses im 19. Jahrhundert seinen Lauf änderte, blieb Mompox von der modernen Entwicklung weitgehend isoliert, was zur Erhaltung seines authentischen Charakters beitrug. Das UNESCO-Weltkulturerbe ist zudem weltweit für seine feinen Filigranarbeiten aus Gold und Silber bekannt. Geschichte K7 — Flusswirtschaft und die Blütezeit des vizeköniglichen Neugranada.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mompox war die erste Stadt Kolumbiens, die 1810 ihre vollständige Unabhängigkeit erklärte.",
+        "Der vollständige Name der Stadt lautet Santa Cruz de Mompox.",
+        "Simón Bolívar sagte einst: 'Wenn ich Caracas mein Leben verdanke, so verdanke ich Mompox meinen Ruhm'.",
+        "Die Osterprozessionen in Mompox gehören zu den traditionsreichsten des Landes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "puente-de-boyaca-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Puente de Boyacá ist ein historisches Denkmal von überragender Bedeutung für die kolumbianische Unabhängigkeit. An dieser Stelle besiegte das Heer von Simón Bolívar am 7. August 1819 die spanischen Truppen in einer entscheidenden Schlacht. Dieser Sieg ebnete den Weg zur Gründung der Republik Großkolumbien und beendete die spanische Vorherrschaft im Norden Südamerikas. Das heutige Denkmal umfasst die rekonstruierte kleine Steinbrücke sowie imposante Monumente zu Ehren der Helden der Befreiung. Jedes Jahr ist der Ort Schauplatz wichtiger nationaler Gedenkfeiern und ein Symbol für Freiheit und nationale Identität. Die umliegende Parklandschaft lädt Besucher ein, mehr über die Gründungsgeschichte des modernen Kolumbiens zu erfahren. Geschichte K8 — Der Unabhängigkeitskampf und die Entstehung der südamerikanischen Republiken.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Schlacht dauerte nur zwei Stunden, veränderte aber den Lauf der Geschichte für den gesamten Kontinent.",
+        "Die Brücke überquert den kleinen Fluss Teatinos.",
+        "Das Gelände beherbergt eine ewige Flamme zum Gedenken an die gefallenen Soldaten.",
+        "Die Puente de Boyacá liegt etwa 110 Kilometer nordöstlich von Bogotá."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "quinta-san-pedro-alejandrino-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Quinta de San Pedro Alejandrino in Santa Marta ist der Ort, an dem der südamerikanische Befreier Simón Bolívar im Jahr 1830 verstarb. Ursprünglich eine Zuckerrohr-Hacienda aus dem 17. Jahrhundert, dient sie heute als Nationaldenkmal und Museum für die Geschichte Kolumbiens. Das Anwesen umfasst das historische Wohnhaus, in dem Bolívar seine letzten Tage verbrachte, sowie den imposanten Altar des Vaterlandes. Die weitläufigen Gärten mit jahrhundertealten Bäumen bieten eine Atmosphäre der Ruhe und Besinnung. Für viele Kolumbianer ist dieser Ort eine heilige Stätte des Patriotismus und der Erinnerung an den 'Libertador'. Neben der historischen Bedeutung beherbergt die Quinta auch ein Museum für zeitgenössische Kunst. Geschichte K8 — Das Vermächtnis Simón Bolívars und das Ende der großkolumbianischen Ära.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Simón Bolívar starb hier am 17. Dezember 1830 an Tuberkulose.",
+        "Die Quinta war damals im Besitz des spanischen Edelmannes Joaquín de Mier.",
+        "Die Gärten beherbergen Leguane und exotische Vögel, die in den alten Bäumen leben.",
+        "Das Anwesen ist eines der meistbesuchten historischen Ziele an der kolumbianischen Karibikküste."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "la-candelaria-bogota-history-v2",
+    "descriptionAdvanced": {
+      "de": "La Candelaria ist das historische und kulturelle Herz von Bogotá und eines der am besten erhaltenen Kolonialviertel Südamerikas. Mit seinen steilen Kopfsteinpflastergassen, bunten Fassaden und kunstvollen Holzbalkonen erzählt es die Geschichte der Stadt seit ihrer Gründung im Jahr 1538. Hier befinden sich die wichtigsten staatlichen Institutionen, Museen und Bibliotheken des Landes, eingebettet in eine Atmosphäre von Bohème und Tradition. Viele der alten Herrenhäuser beherbergen heute Universitäten, Kulturzentren oder gemütliche Cafés. Die Plaza de Bolívar bildet das monumentale Zentrum des Viertels und ist Schauplatz der wichtigsten politischen Ereignisse Kolumbiens. La Candelaria ist ein lebendiges Museum, das koloniales Erbe mit moderner Urbanität verbindet. Geschichte K8 — Urbanisierung und koloniales Erbe in den Andenmetropolen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Viele der Gebäude im Viertel sind über 400 Jahre alt.",
+        "In La Candelaria befindet sich das weltberühmte Goldmuseum (Museo del Oro).",
+        "Das Viertel ist ein Zentrum für Street Art und Wandmalereien in Bogotá.",
+        "Hier steht auch das älteste Theater Kolumbiens, das Teatro Colón."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "morro-del-tulcan-history-v2",
+    "descriptionAdvanced": {
+      "de": "Der Morro del Tulcán ist die wichtigste archäologische Stätte in Popayán und besteht aus einer pyramidenförmigen Erhebung, die in prähispanischer Zeit als Zeremonialzentrum diente. Archäologen vermuten, dass dieser Hügel künstlich von indigenen Kulturen vor der Ankunft der Spanier angelegt oder modifiziert wurde. Bei Ausgrabungen wurden Grabanlagen und Keramiken gefunden, die auf eine bedeutende Besiedlung zwischen 500 und 1600 n. Chr. hinweisen. Heute ist der Hügel vor allem als Aussichtspunkt bekannt, von dem aus man einen spektakulären Blick über die 'Weiße Stadt' und die umliegenden Berge hat. Auf der Spitze thront eine Reiterstatue des Stadtgründers Sebastián de Belalcázar, was den Ort zu einem Symbol für die Verschmelzung indigener und spanischer Geschichte macht. Geschichte K7 — Indigene Sakralbauten und die koloniale Überformung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hügel diente wahrscheinlich als Grabhügel für hochrangige indigene Anführer.",
+        "Archäologische Funde belegen Handelsbeziehungen bis weit in das Amazonasbecken.",
+        "Der Morro del Tulcán ist ein wichtiger Ort für rituelle Feiern lokaler indigener Gruppen.",
+        "Die Statue auf dem Hügel ist ein markanter Orientierungspunkt in Popayán."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "pueblito-chairama-history-v2",
+    "descriptionAdvanced": {
+      "de": "Pueblito Chairama, oft einfach nur Pueblito genannt, ist eine faszinierende archäologische Stätte innerhalb des Tayrona-Nationalparks. Ähnlich wie Ciudad Perdida besteht es aus Steinterrassen, Treppen und kreisförmigen Fundamenten, die einst die Behausungen des Tayrona-Volkes trugen. Die Stadt war ein strategisches Zentrum für den Austausch von Küstenprodukten und landwirtschaftlichen Gütern aus den höheren Lagen der Sierra Nevada. Der Zugang erfolgt über eine anspruchsvolle Wanderung durch dichten tropischen Regenwald, vorbei an riesigen Felsbrocken und exotischer Fauna. Heute wird der Ort von den indigenen Nachfahren der Tayrona, den Kogi, immer noch für rituelle Zwecke genutzt. Die harmonische Integration der Architektur in die wilde Natur ist bis heute beeindruckend. Geschichte K7 — Die Tayrona-Kultur und ihre Anpassung an maritime und dschungelartige Lebensräume.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Pueblito war einst eine der größten Siedlungen der Tayrona an der Küste.",
+        "Besucher müssen strenge Regeln beachten, da der Ort den indigenen Gruppen heilig ist.",
+        "Die Wasserversorgung der Stadt wurde durch ein ausgeklügeltes System aus Steinkanälen gesichert.",
+        "In der Umgebung können oft Brüllaffen und bunte Tukane beobachtet werden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "fort-san-fernando-bocachica-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Fuerte de San Fernando de Bocachica ist eine imposante Festungsanlage auf der Insel Tierra Bomba, die den strategischen Zugang zum Hafen von Cartagena bewachte. Zusammen mit dem gegenüberliegenden Fort San José bildete es eine tödliche Barriere für feindliche Schiffe, die versuchten, durch die enge Bocachica-Passage in die Bucht einzudringen. Die Festung zeichnet sich durch ihre hufeisenförmige Bauweise und ihre massiven Korallensteinmauern aus. Im Inneren befinden sich Kasematten, Munitionslager und ein tiefer Graben, der einst vor Landangriffen schützte. Bocachica spielte eine entscheidende Rolle bei der Abwehr großer Belagerungen im 18. Jahrhundert. Heute ist die Festung per Boot erreichbar und ein beeindruckendes Beispiel für spanische Militärarchitektur. Geschichte K7 — Festungsbau und maritime Verteidigung im Vizekönigreich Neugranada.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Festung wurde nach der Zerstörung früherer Verteidigungsanlagen im Jahr 1741 neu errichtet.",
+        "Bocachica bedeutet übersetzt 'Kleiner Mund', was sich auf die schmale Einfahrt bezieht.",
+        "Zwischen den Festungen wurden schwere Eisenketten gespannt, um Schiffen die Durchfahrt zu verwehren.",
+        "Die Anlage diente zeitweise auch als Gefängnis für politische Gefangene."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "monasterio-la-popa-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Convento de La Popa thront auf dem höchsten Hügel von Cartagena und bietet einen unvergleichlichen Panoramablick über die Stadt, den Hafen und die Karibik. Das im frühen 17. Jahrhundert gegründete Augustinerkloster ist bekannt für seinen wunderschönen, blumengeschmückten Innenhof und seine religiöse Bedeutung. Der Name 'La Popa' rührt von der Form des Hügels her, der an das Heck eines Schiffes erinnert. In der Kapelle wird das Bild der Jungfrau von Candelaria verehrt, der Schutzpatronin der Stadt. Historisch diente das Kloster aufgrund seiner Lage auch als wichtiger Beobachtungspunkt während Piratenangriffen. Die Architektur verbindet spanische Klostertradition mit lokalen Baumaterialien. Geschichte K8 — Die Rolle der Orden bei der Besiedlung und Evangelisierung in Amerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Hügel ist etwa 150 Meter hoch und die höchste Erhebung in der Umgebung von Cartagena.",
+        "Das Kloster wurde 1607 von Augustinermönchen auf einer ehemaligen indigenen Kultstätte errichtet.",
+        "Der Innenhof gilt als einer der schönsten im kolonialen Kolumbien.",
+        "Ein steiler Zickzack-Weg führt von der Stadt hinauf zum Kloster."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "casa-de-narino-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Casa de Nariño ist der offizielle Amtssitz und die Residenz des Präsidenten von Kolumbien im Zentrum von Bogotá. Das imposante Gebäude im neoklassizistischen Stil wurde an der Stelle errichtet, an der Antonio Nariño, ein Vorkämpfer der Unabhängigkeit, geboren wurde. Die Palastanlage beherbergt prächtige Säle, wertvolle Kunstwerke und historische Relikte aus der Gründungszeit der Republik. Besonders sehenswert ist die tägliche Wachablösung des Präsidentengarde-Bataillons vor dem Haupteingang. Die Casa de Nariño ist nicht nur ein Machtzentrum, sondern auch ein Symbol für die demokratische Kontinuität des Landes. Rund um den Palast befinden sich weitere bedeutende Regierungsgebäude und historische Plätze. Geschichte K8 — Repräsentative Architektur und die Institutionen der kolumbianischen Republik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Gebäude wurde 1908 eingeweiht und später unter Beibehaltung des Stils erweitert.",
+        "In den Gärten befindet sich eine Sternwarte, die älteste in Amerika.",
+        "Die Casa de Nariño ist durch unterirdische Gänge mit anderen Regierungsgebäuden verbunden.",
+        "Besucher können nach vorheriger Anmeldung geführte Touren durch die öffentlichen Räume machen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "santuario-san-pedro-claver-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Santuario de San Pedro Claver in Cartagena ist ein Ort von tiefer historischer und spiritueller Bedeutung, gewidmet dem 'Apostel der Sklaven'. Die Anlage umfasst die Kirche, das Kloster und ein Museum an der Stelle, an der der heilige Jesuitenpater im 17. Jahrhundert lebte und wirkte. Pedro Claver widmete sein Leben der Pflege und dem Schutz der afrikanischen Sklaven, die unter grausamen Bedingungen im Hafen eintrafen. Die Architektur des Komplexes ist ein herausragendes Beispiel für den jesuitischen Barock mit seiner strengen Steinfassade und dem kühlen Kreuzgang. In der Kirche ruhen die sterblichen Überreste des Heiligen unter dem Hauptaltar. Das Heiligtum ist ein Mahnmal für die Menschenrechte und die dunkle Ära des Sklavenhandels in der Karibik. Geschichte K7 — Sklavenhandel, Missionierung und der Kampf für Menschenrechte in der Kolonialzeit.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "San Pedro Claver war der erste in Amerika lebende Mensch, der heiliggesprochen wurde.",
+        "Das Kloster beherbergt eine bedeutende Sammlung afro-karibischer religiöser Kunst.",
+        "Von den oberen Etagen des Klosters hat man einen direkten Blick auf die Stadtmauer und das Meer.",
+        "Die Kirche wurde ursprünglich im 17. Jahrhundert als San Ignacio de Loyola gegründet."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "barichara-historic-centre-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das historische Zentrum von Barichara gilt als das schönste Dorf Kolumbiens und ist berühmt für seine einzigartige Steinmetzkunst. Jedes Haus, jede Kirche und sogar die Straßen wurden aus dem gelblichen Sandstein der Region erbaut, was dem Ort ein harmonisches und zeitloses Aussehen verleiht. Barichara liegt auf einem Hochplateau im Departement Santander und hat sich seinen kolonialen Charme über Jahrhunderte fast unberührt bewahrt. Die Kathedrale der Unbefleckten Empfängnis mit ihrer prächtigen Kuppel ist das architektonische Wahrzeichen des Dorfes. Die ruhige Atmosphäre und die kunstvoll gestalteten Gärten ziehen Künstler und Handwerker aus aller Welt an. Barichara ist ein herausragendes Beispiel für die traditionelle Bauweise und den Erhalt des ländlichen Erbes. Geschichte K8 — Ländliche Architektur und traditionelles Handwerk in den kolumbianischen Anden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Barichara bedeutet in der indigenen Guane-Sprache 'Ort der Ruhe'.",
+        "Der 'Camino Real', ein alter Steinweg, verbindet Barichara mit dem nahegelegenen Dorf Guane.",
+        "Der Ort diente als Kulisse für zahlreiche nationale und internationale Filmproduktionen.",
+        "Die lokale Gastronomie ist bekannt für die Hormigas Culonas (geröstete Ameisen)."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "honda-historic-port-history-v2",
+    "descriptionAdvanced": {
+      "de": "Honda, bekannt als die Stadt der Brücken, war über Jahrhunderte der wichtigste Binnenhafen Kolumbiens am Magdalena-Fluss. Aufgrund seiner Lage an den Stromschnellen mussten hier alle Waren entladen werden, die zwischen der Karibikküste und Bogotá transportiert wurden. Die historische Altstadt spiegelt diesen einstigen Reichtum mit prächtigen Lagerhäusern, Kirchen und schmalen Gassen wider. Besonders beeindruckend ist die Architektur der zahlreichen Brücken, die die verschiedenen Stadtteile über die Nebenflüsse hinweg verbinden. Honda war ein Schmelztiegel der Kulturen und ein Zentrum des Handels im Vizekönigreich Neugranada. Trotz des Niedergangs der Flussschifffahrt hat sich die Stadt ihren authentischen Charakter und ihre koloniale Pracht bewahrt. Geschichte K7 — Der Magdalena-Fluss als Lebensader des Handels und der Kommunikation.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Honda wird oft als das 'Cartagena des Landesinneren' bezeichnet.",
+        "Die Stadt hat über 40 Brücken, die aus verschiedenen Epochen stammen.",
+        "Während der Kolonialzeit war Honda der obligatorische Haltepunkt für alle Reisenden nach Bogotá.",
+        "Das Klima in Honda ist aufgrund der tiefen Lage im Tal extrem heiß und tropisch."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "catedral-primada-colombia-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Catedral Primada de Colombia ist das religiöse Wahrzeichen von Bogotá und steht imposant an der Plaza de Bolívar. Sie wurde an der Stelle errichtet, an der 1538 die erste Heilige Messe nach der Gründung der Stadt gefeiert wurde. Das heutige Gebäude im neoklassizistischen Stil ist bereits die vierte Kirche an diesem Ort, nachdem ihre Vorgänger durch Erdbeben oder Brände zerstört wurden. Als Sitz des Erzbischofs von Bogotá spielt sie eine zentrale Rolle im religiösen Leben des Landes. Im Inneren beherbergt sie kostbare Kapellen, historische Reliquien und das Grab des Stadtgründers Gonzalo Jiménez de Quesada. Die schlichte Eleganz ihrer Fassade und die gewaltigen Dimensionen machen sie zu einem der bedeutendsten Bauwerke Kolumbiens. Geschichte K8 — Die katholische Kirche als Machtfaktor im kolonialen und republikanischen Kolumbien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Kathedrale wurde zwischen 1807 und 1823 nach Entwürfen des Kapuzinermönchs Domingo de Petrés erbaut.",
+        "Sie ist die größte Kathedrale Kolumbiens und eine der größten Südamerikas.",
+        "Hier befinden sich die sterblichen Überreste bedeutender Persönlichkeiten der kolumbianischen Geschichte.",
+        "Die Orgel der Kathedrale gehört zu den klangvollsten Instrumenten des Landes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "pantano-de-vargas-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Pantano de Vargas Denkmal erinnert an eine der blutigsten und entscheidendsten Schlachten im kolumbianischen Unabhängigkeitskampf. Am 25. Juli 1819 standen sich hier die Truppen von Simón Bolívar und das spanische Heer gegenüber, wobei der Sieg der Patrioten fast unmöglich schien. Das monumentale Denkmal, geschaffen von Rodrigo Arenas Betancourt, zeigt 14 Lanceros (Lanzenreiter) im Moment ihres heldenhaften Angriffs, der das Blatt wendete. Gelegen in einer weiten Ebene bei Paipa, ist dieser Ort ein Symbol für Tapferkeit und den unbedingten Willen zur Freiheit. Die kühne, dynamische Skulptur gilt als eines der größten und beeindruckendsten Denkmäler Kolumbiens. Geschichte K8 — Heldenverehrung und die Mythenbildung der Unabhängigkeitskriege.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Denkmal ist 33 Meter hoch und wurde zum 150. Jahrestag der Schlacht eingeweiht.",
+        "Die Skulptur besteht aus Bronze und Stahl und wiegt Hunderte von Tonnen.",
+        "Die Schlacht am Pantano de Vargas gilt als taktisches Meisterstück Bolívars.",
+        "Die Lanceros wurden von dem venezolanischen Oberst Juan José Rondón angeführt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "parque-arqueologico-facatativa-history-v2",
+    "descriptionAdvanced": {
+      "de": "Der Archäologische Park Facatativá, auch bekannt als Piedras del Tunjo, beherbergt eine faszinierende Ansammlung gewaltiger Felsformationen mit prähistorischen Malereien. Diese Piktogramme wurden von indigenen Kulturen, vermutlich den Muisca, mit mineralischen Farben auf die geschützten Felswände aufgebracht. Der Park diente einst als heiliger Ort für Zeremonien und Versammlungen in der Region der Sabana de Bogotá. Die riesigen Steine, die aus einer geologischen Verwerfung stammen, bilden natürliche Unterstände und Höhlen, die über Jahrtausende genutzt wurden. Facatativá bietet eine einzigartige Verbindung von Naturerbe und früher menschlicher Kunst. Trotz der Erosion sind viele der roten Symbole und Figuren noch heute deutlich erkennbar. Geschichte K7 — Felskunst und die spirituelle Geographie der Muisca-Kultur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Felsmalereien in Facatativá sind zum Teil mehrere tausend Jahre alt.",
+        "Der Park war ursprünglich ein Privatbesitz, bevor er unter staatlichen Schutz gestellt wurde.",
+        "Die rote Farbe wurde oft aus Eisenoxiden und Pflanzenextrakten hergestellt.",
+        "Einige der Felsformationen erinnern an riesige Tiere oder menschliche Gesichter."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "convento-santo-ecce-homo-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Convento del Santo Ecce Homo ist ein beeindruckendes Beispiel klösterlicher Architektur aus dem 17. Jahrhundert, gelegen in einer kargen Wüstenlandschaft bei Villa de Leyva. Es wurde von Dominikanermönchen gegründet und diente als Zentrum für die Evangelisierung der Region sowie als Rückzugsort für das Gebet. Die Architektur zeichnet sich durch einen großzügigen Kreuzgang mit schweren Steinsäulen und einem Boden aus fossilem Kalkstein aus, der für die Gegend typisch ist. In der Kirche des Klosters werden bedeutende religiöse Gemälde und Skulpturen aus der Kolonialzeit aufbewahrt. Die schlichte, aber würdevolle Ausstrahlung des Komplexes fügt sich harmonisch in die Stille der umliegenden Berge ein. Das Kloster ist ein Zeugnis der tiefen religiösen Verwurzelung in der Geschichte Boyacás. Geschichte K8 — Die klösterliche Ordnung und die Sakralkunst im kolonialen Kolumbien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Kloster wurde im Jahr 1620 offiziell gegründet.",
+        "Der Boden des Kreuzgangs enthält zahlreiche sichtbare Ammoniten und andere Fossilien.",
+        "Der Name 'Ecce Homo' bezieht sich auf eine berühmte Darstellung Christi während seines Prozesses.",
+        "Ein kleiner Friedhof im Inneren erinnert an die hier verstorbenen Mönche."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "casa-del-florero-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Casa del Florero in Bogotá ist eines der historischsten Gebäude Kolumbiens, da hier am 20. Juli 1810 der Funke für den Unabhängigkeitskampf übersprang. Ein Streit um eine geliehene Blumenvase ('Florero') zwischen Einheimischen und einem spanischen Ladenbesitzer diente als Vorwand für den Aufstand gegen die Kolonialmacht. Heute beherbergt das wunderschöne Eckhaus an der Plaza de Bolívar das Museum der Unabhängigkeit, das Dokumente, Waffen und persönliche Gegenstände der Befreier zeigt. Die Architektur des Hauses ist ein klassisches Beispiel für den kolonialen Stil mit seinen weißen Wänden und grünen Balkonen. Besucher können hier die spannende Geschichte der Entstehung der kolumbianischen Nation hautnah miterleben. Die Casa del Florero ist ein Symbol für den zivilen Widerstand und den Wunsch nach Selbstbestimmung. Geschichte K8 — Die Initialzündung der Unabhängigkeit: Der 20. Juli 1810.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das ursprüngliche Bruchstück der Blumenvase ist noch heute im Museum ausgestellt.",
+        "Das Gebäude stammt aus dem späten 16. Jahrhundert.",
+        "Hier wurde das Protokoll der Unabhängigkeitserklärung von 1810 unterzeichnet.",
+        "Die Casa del Florero liegt direkt gegenüber der Catedral Primada."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "capitolio-nacional-colombia-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Capitolio Nacional ist der Sitz des kolumbianischen Kongresses und eines der bedeutendsten neoklassizistischen Bauwerke Südamerikas. Gelegen an der Südseite der Plaza de Bolívar in Bogotá, beeindruckt es durch seine monumentale Säulenfront aus hellem Kalkstein. Der Bau dauerte aufgrund politischer Instabilität und Geldmangel fast 80 Jahre, was sich in einer interessanten Mischung verschiedener klassischer Stile widerspiegelt. Im Inneren beherbergt das Kapitol prächtige Säle, darunter den Salón Elíptico, in dem wichtige Debatten und Vereidigungen stattfinden. Das Gebäude symbolisiert die Stabilität und Würde der republikanischen Ordnung in Kolumbien. Seine Architektur ist eine bewusste Abkehr vom spanischen Kolonialstil hin zu europäischen demokratischen Vorbildern. Geschichte K8 — Politische Institutionen und monumentaler Staatsbau im 19. und 20. Jahrhundert.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Grundstein wurde 1848 gelegt, aber die Fertigstellung erfolgte erst 1926.",
+        "Das Gebäude hat keine Kuppel, was für Kapitolbauten eher ungewöhnlich ist.",
+        "Im Inneren befindet sich ein riesiges Wandgemälde von Santiago Martínez Delgado zur Geschichte des Landes.",
+        "Die Fassade besteht aus Sandstein, der in der Nähe von Bogotá abgebaut wurde."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "palacio-de-la-inquisicion-history-v2",
+    "descriptionAdvanced": {
+      "de": "Der Palacio de la Inquisición in Cartagena ist eines der schönsten Beispiele für zivile Barockarchitektur in Kolumbien, birgt jedoch eine dunkle Geschichte. Er diente als Sitz des Heiligen Offiziums der Inquisition, das im 17. und 18. Jahrhundert religiöse Vergehen und Hexerei untersuchte und bestrafte. Das Gebäude mit seinem prächtigen Portal aus Stein und den feinen Holzbalkonen beherbergt heute das Historische Museum von Cartagena. Im Inneren können Besucher Folterinstrumente und Dokumente besichtigen, die von der unerbittlichen Justiz jener Zeit zeugen. Der Palast liegt an der Plaza de Bolívar und ist ein fester Bestandteil des UNESCO-Weltkulturerbes. Trotz seiner düsteren Vergangenheit ist die architektonische Schönheit des Gebäudes unbestritten. Geschichte K7 — Die Inquisition in Amerika und die religiöse Kontrolle der Kolonialgesellschaft.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das heutige Gebäude wurde im Jahr 1770 fertiggestellt.",
+        "Es verfügt über ein kleines Fenster in der Mauer, durch das anonyme Anzeigen eingeworfen werden konnten.",
+        "Der Palast gilt als das am besten erhaltene Inquisitionsgebäude in Südamerika.",
+        "Das Museum zeigt auch Ausstellungen zur Stadtgeschichte und Unabhängigkeit Cartagenas."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "estacion-de-la-sabana-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Estación de la Sabana in Bogotá war einst der wichtigste Eisenbahnknotenpunkt Kolumbiens und ein Symbol für den industriellen Aufschwung des frühen 20. Jahrhunderts. Das prächtige neoklassizistische Bahnhofsgebäude wurde als Tor zur Hauptstadt konzipiert und verband Bogotá mit dem Magdalena-Fluss und den Häfen an der Küste. Die Architektur mit ihren hohen Hallen und dekorativen Details spiegelt den Optimismus einer Ära wider, in der die Eisenbahn das Land modernisierte. Heute dient der Bahnhof teilweise als Museum und ist Ausgangspunkt für den touristischen Zug, der die Hochebene von Bogotá durchquert. Die Anlage ist ein bedeutendes Industriedenkmal, das an die goldene Zeit des Schienenverkehrs in Kolumbien erinnert. Geschichte K8 — Industrialisierung, Transportwesen und der Ausbau des kolumbianischen Schienennetzes.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Bahnhof wurde im Jahr 1917 eingeweiht.",
+        "Er wurde nach Entwürfen des englischen Architekten William Lidstone erbaut.",
+        "Hier befindet sich heute auch die Werkstatt für die historischen Dampflokomotiven.",
+        "Das Gebäude steht aufgrund seiner architektonischen Bedeutung unter nationalem Denkmalschutz."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "monumento-a-los-lanceros-history-v2",
+    "descriptionAdvanced": {
+      "de": "Das Monumento a los Lanceros ist eine gewaltige Skulpturengruppe in der Nähe von Paipa, die an den heldenhaften Einsatz der Lanzenreiter in der Schlacht am Pantano de Vargas erinnert. Geschaffen vom Künstler Rodrigo Arenas Betancourt, stellt es 14 Reiter dar, die sich kühn und dynamisch in einen scheinbar aussichtslosen Kampf stürzen. Die Skulptur ist aus Bronze und Beton gefertigt und vermittelt ein starkes Gefühl von Bewegung und Entschlossenheit. Sie gilt als eines der wichtigsten Denkmäler der kolumbianischen Freiheit und als ein Meisterwerk der modernen lateinamerikanischen Kunst. Das Monument ist strategisch auf einem Hügel platziert, um weithin sichtbar zu sein und die Besucher an die Opfer des Unabhängigkeitskampfes zu erinnern. Geschichte K8 — Monumentalkunst als Werkzeug der nationalen Erinnerungskultur.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Das Denkmal ist das größte seiner Art in Kolumbien.",
+        "Es wurde 1970 eingeweiht, um den 150. Jahrestag der Unabhängigkeit zu feiern.",
+        "Jeder der 14 Reiter repräsentiert einen der Anführer des entscheidenden Kavallerieangriffs.",
+        "Die Dynamik der Skulptur soll die Wende in der Schlacht symbolisieren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "iglesia-de-san-francisco-bogota-history-v2",
+    "descriptionAdvanced": {
+      "de": "Die Iglesia de San Francisco ist die älteste erhaltene Kirche in Bogotá und ein herausragendes Beispiel für die Kunst des Mudéjar-Stils in Südamerika. Im späten 16. Jahrhundert erbaut, hat sie zahlreiche Erdbeben überstanden und ihren ursprünglichen Charakter weitgehend bewahrt. Das prunkvolle Innere ist berühmt für seinen gewaltigen, goldüberzogenen Altaraufsatz, der als einer der schönsten des Kontinents gilt. Die geschnitzten Holzdecken und die religiösen Gemälde zeugen vom künstlerischen Reichtum der Kolonialzeit. Die Kirche ist bis heute ein wichtiger Ort der Andacht und ein Ruhepol inmitten des geschäftigen Stadtzentrums. San Francisco ist ein unverzichtbarer Bestandteil des historischen Erbes von Bogotá und der kolumbianischen Franziskanertradition. Geschichte K7 — Sakrale Kunst und die Architektur der Mendikantenorden in Neugranada.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Kirche wurde zwischen 1557 und 1566 erbaut.",
+        "Der Hauptaltar stammt aus dem 17. Jahrhundert und ist ein Meisterwerk des Barocks.",
+        "Sie befindet sich an der Avenida Jiménez, einer der wichtigsten Straßen Bogotás.",
+        "Die Kirche war ursprünglich Teil eines großen Klosterkomplexes der Franziskaner."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    },
+    {
+    "id": "parque-arqueologico-monquira-history-v2",
+    "descriptionAdvanced": {
+      "de": "Der Archäologische Park Monquirá, volkstümlich als 'El Infiernito' bekannt, ist eine bedeutende präkolumbianische Stätte der Muisca-Kultur in der Nähe von Villa de Leyva. Die Anlage besteht aus einer Reihe aufrecht stehender Steinsäulen (Menhire), die vermutlich als astronomisches Observatorium dienten. Durch die Beobachtung der Schattenwürfe konnten die indigenen Bewohner den optimalen Zeitpunkt für Saat und Ernte bestimmen. Der Ort hat zudem eine starke phallische Symbolik, was auf Fruchtbarkeitsriten hindeutet, die hier praktiziert wurden. In der Nähe befinden sich zudem Grabanlagen und Siedlungsspuren, die eine kontinuierliche Nutzung über Jahrhunderte belegen. El Infiernito ist ein faszinierendes Beispiel für das astronomische Wissen und die religiöse Praxis der frühen Andenvölker. Geschichte K7 — Astronomie und Fruchtbarkeitskulte in den präkolumbianischen Kulturen Kolumbiens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Name 'El Infiernito' (kleine Hölle) wurde dem Ort von spanischen Mönchen gegeben, die ihn für teuflisch hielten.",
+        "Die Steinsäulen sind exakt nach den Himmelsrichtungen ausgerichtet.",
+        "Es gibt etwa 30 große monolithische Säulen auf dem Gelände.",
+        "Die Muisca nutzten den Ort bereits lange vor der Ankunft der Europäer für ihre Kalenderberechnungen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+    }
+    ]
+

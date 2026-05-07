@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ne-say-islamic-history-v2",
+      "descriptionAdvanced": "Say a 19. században a Száhel-övezet egyik legkiemelkedőbb iszlám tudományos és oktatási fellegvára volt. A várost Alfa Mahaman Diobo fulani tudós alapította, és hamarosan a \"hit világítótornyává\" vált a Niger folyó partján. A korabeli Korán-iskolák, könyvtárak és tudósok vonzották a diákokat egész Nyugat-Afrikából. Say vallási befolyása olyannyira erős volt, hogy a környező animista királyságok is tiszteletben tartották autonómiáját. Történelem K8 — az iszlám terjedése Afrikában.",
+      "factsAdvanced": [
+        "Alfa Mahaman Diobo, egy fulani vallási vezető alapította a 19. században.",
+        "Nyugat-Afrika egyik legfontosabb iszlám tudományos központja volt.",
+        "A Niger folyó partján épült fel, megkönnyítve a zarándoklatokat.",
+        "Hatalmas Korán-iskolák és könyvtárak működtek itt.",
+        "Még az animista szomszédos államok is tiszteletben tartották.",
+        "A vallási örökség a mai napig meghatározza a város arculatát."
+      ]
+    },
+    {
+      "id": "ne-tahoua-crossroads-history-v2",
+      "descriptionAdvanced": "Tahoua a történelem során a nomád tuareg és a letelepedett haúsza világ határvidékének legfontosabb találkozási pontja volt. A 19. század végéig ezen a \"kereszteződésen\" cseréltek gazdát a sivatagi luxuscikkek (só, datolya) és a déli agrártermékek (köles, mogyoró). A város jelentősége a francia gyarmatosítás idején is megmaradt, amikor a franciák katonai és adminisztratív központtá tették, hogy ellenőrizzék a lázongó északi nomád törzseket. Történelem K7 — gyarmati adminisztráció és karavánutak.",
+      "factsAdvanced": [
+        "A tuareg és haúsza kulturális és gazdasági világ ütközőzónája.",
+        "A szaharai só és a déli gabona legfontosabb cserélőhelye volt.",
+        "A francia gyarmatosítók jelentős adminisztratív bázist építettek itt.",
+        "Célja a lázongó északi nomád törzsek megfigyelése volt.",
+        "Építészete ötvözi a vaskos agyagfalakat és a francia stílust.",
+        "Ma a Tahoua régió politikai központja."
+      ]
+    },
+    {
+      "id": "ne-tillaberi-crossing-history-v2",
+      "descriptionAdvanced": "A Tillabéri környéki gázlók (átkelőhelyek) történelmileg a Niger folyó legstratégiaibb pontjai közé tartoztak. Ezeken a sekély vizű átkelőkön haladtak át a hatalmas Mali és Songhai birodalmak hadseregei, valamint a kereskedő karavánok. Mivel a folyón hidak nem léteztek, a gázlók birtoklása egyet jelentett a regionális kereskedelem és a vámok feletti ellenőrzéssel. A terület ezért számtalan csata helyszíne volt az évszázadok során. Történelem K8 — folyami átkelők és afrikai birodalmak.",
+      "factsAdvanced": [
+        "A Niger folyó történelmileg legfontosabb sekély vízi átkelőhelyei.",
+        "A Mali és Songhai birodalmak hadseregei is használták ezeket.",
+        "A gázlók ellenőrzése katonai és gazdasági (vám) hatalmat jelentett.",
+        "Számos prekoloniális háború és konfliktus fókuszpontja volt.",
+        "A só-, arany- és rabszolgakereskedelem elengedhetetlen állomása.",
+        "A helyi zarma és songhai lakosság biztosította a révészeket."
+      ]
+    },
+    {
+      "id": "ne-birni-nkonni-history-v2",
+      "descriptionAdvanced": "Birni N'Konni, vagyis a \"bekerített város\", egy masszív agyagfalakkal védett haúsza erődítmény volt, amelyet a 19. század elején a fulani dzsihád és a tuareg fosztogatók elleni védekezésül építettek. Az erődváros a sokotói kalifátus és a független haúsza államok közötti konfliktusos határvidéken feküdt. 1899-ben a hírhedt francia Voulet-Chanoine expedíció brutálisan megostromolta és elpusztította a várost, amely az afrikai gyarmatosítás egyik legvéresebb epizódja volt. Történelem K8 — gyarmati háborúk és a Voulet-Chanoine expedíció.",
+      "factsAdvanced": [
+        "Neve haúsza nyelven bekerített, erődített várost jelent.",
+        "Vastag agyagfalak védték a fulani és tuareg támadások ellen.",
+        "A független haúsza államok és a Sokotó Kalifátus határán feküdt.",
+        "1899-ben a kegyetlen francia Voulet-Chanoine expedíció lerombolta.",
+        "Az ostrom a gyarmatosítás történetének egyik sötét fejezete.",
+        "Később kulcsfontosságú francia határőrállomásként épült újjá."
+      ]
+    },
+    {
+      "id": "ne-gaya-history-v2",
+      "descriptionAdvanced": "Gaya történelmi jelentőségét egyedülálló földrajzi fekvése adta a Niger folyó alsó folyásánál, ahol a Dendi királyság és a hatalmas Borgou birodalom határai találkoztak. A terület sűrű erdőségei és folyami mocsaraiban a helyi lakosság évezredeken át menedéket talált az északi lovas seregek elől. Később a franciák felismerték a hely logisztikai fontosságát, és a tengerpart (Dahomey, ma Benin) felé vezető legfontosabb szárazföldi és folyami kapuvá tették Nigert. Történelem K7 — a Dendi királyság.",
+      "factsAdvanced": [
+        "A Dendi királyság és a Borgou birodalom történelmi találkozási pontja.",
+        "Sűrű erdők és folyami mocsarak biztosítottak védelmet a lovas seregek ellen.",
+        "A tengerpart felé tartó legfontosabb dél-nigeri kapuváros.",
+        "A francia gyarmatosítók logisztikai és vámközponttá fejlesztették.",
+        "Az animista hiedelmek sokáig fennmaradtak a terület elzártsága miatt.",
+        "A folyami hajózás ellenőrzése mindig is stratégiai cél volt itt."
+      ]
+    },
+    {
+      "id": "ne-niamey-grand-market-history-v2",
+      "descriptionAdvanced": "A niameyi Grand Marché (Nagy Piac) nem csupán egy bevásárlóközpont, hanem a modern Niger történelmi lüktetésének központja. A 20. század elején, amikor Niamey fővárossá vált, a piac egy poros cserehelyből Nyugat-Afrika egyik legforgalmasabb csomópontjává fejlődött. A piac többször leégett – legutóbb 1982-ben –, de mindig újjáépítették, és építészete a hagyományos nyugat-afrikai piacok és a modern városfejlesztés egyedülálló keverékét mutatja. Társadalomtudomány K6 — afrikai piacok fejlődése.",
+      "factsAdvanced": [
+        "Niger fővárosának kereskedelmi és történelmi központja.",
+        "A 20. század elején indult gyors fejlődésnek a fővárossá válással.",
+        "Tuareg, haúsza, zarma és fulani árusok olvasztótégelye.",
+        "Többször is pusztító tűzvész áldozata lett, utoljára 1982-ben.",
+        "Az újjáépítések során modern és tradicionális elemeket ötvöztek.",
+        "Az informális gazdaság legfőbb motorja az egész országban."
+      ]
+    },
+    {
+      "id": "ne-boubon-pottery-history-v2",
+      "descriptionAdvanced": "Boubon egy apró szigetfalu a Niger folyón, amely évszázadok óta a hagyományos afrikai fazekasság egyik leghíresebb központja. A tudás anyáról leányra száll: a nők kézzel, korong nélkül formázzák a folyóparti agyagot, majd nyílt tüzeken, szalma és tehéntrágya keverékével égetik ki az edényeket. Ezek a víz- és gabonatároló edények (canari) elengedhetetlenek voltak a régió túléléséhez a műanyagok megjelenése előtt, és művészi értékük miatt ma is keresettek. Történelem K6 — afrikai kézművesség.",
+      "factsAdvanced": [
+        "A Niger folyó egy festői szigetén található fazekasfalu.",
+        "A mesterséget évezredek óta kizárólag a nők űzik és örökítik tovább.",
+        "Az edényeket fazekaskorong nélkül, kézi felrakással formázzák.",
+        "A kiégetés szabad téren, hatalmas máglyákon történik.",
+        "A \"canari\" edények kulcsfontosságúak voltak a víztárolásban.",
+        "A hagyomány ma kulturális és turisztikai értékkel is bír."
+      ]
+    },
+    {
+      "id": "ne-gobirawa-ruins-history-v2",
+      "descriptionAdvanced": "A Tibiri környéki Gobirawa romok a valaha volt egyik legerősebb haúsza állam, a Gobir Királyság utolsó fizikai mementói. Gobir a 18. században uralta a térséget, mielőtt Usman dan Fodio fulani dzsihádja elsöpörte volna a hatalmát. A királyság lakói, a gobirawák északra menekültek, és új erődített falvakat hoztak létre a mai Niger területén. A romok a prekoloniális afrikai birodalmak bukásának és a népességvándorlásoknak a néma tanúi. Történelem K8 — a Gobir Királyság bukása.",
+      "factsAdvanced": [
+        "A 18. századi erős haúsza állam, a Gobir Királyság maradványai.",
+        "Usman dan Fodio fulani dzsihádja (szent háború) pusztította el az államot.",
+        "A menekülő gobirawák új erődítéseket építettek ezen a területen.",
+        "A terület a haúsza ellenállás szimbólumává vált a fulaniakkal szemben.",
+        "A romok egykori védművekből és agyagfalakból állnak.",
+        "Fontos régészeti emlék az afrikai migrációk kutatásában."
+      ]
+    },
+    {
+      "id": "ne-tessaoua-history-v2",
+      "descriptionAdvanced": "Tessaoua a 19. század végén rövid ideig egy virágzó, független haúsza hercegség központja volt. A város gazdagságát az észak-dél irányú transzszaharai kereskedelem és az itt állomásozó erős zsoldoshadseregek biztosították. A település hírhedt volt a francia gyarmatosítókkal kötött bonyolult politikai paktumokról is, amelyek révén a helyi vezető megpróbálta elkerülni a teljes behódolást. Tessaoua történelme kiváló példája az afrikai diplomáciának a gyarmati invázió idején. Történelem K8 — afrikai diplomácia és gyarmatosítás.",
+      "factsAdvanced": [
+        "A 19. század végén egy független és gazdag haúsza hercegség központja.",
+        "Az észak-dél irányú szaharai kereskedelem fő haszonélvezője volt.",
+        "A város védelmét profi zsoldoshadseregek (főleg lovasok) látták el.",
+        "A helyi uralkodók mesterien manővereztek a francia hódítók érkezésekor.",
+        "Több diplomáciai paktum született a teljes pusztulás elkerülésére.",
+        "Erődített palotájának falai részben még ma is állnak."
+      ]
+    },
+    {
+      "id": "ne-arlit-uranium-history-v2",
+      "descriptionAdvanced": "Arlit \"uránvárosának\" alapítása 1969-ben a modern nigeri történelem egyik legmeghatározóbb fordulópontja volt. A kietlen Ténéré sivatag szélén francia geológusok fedezték fel a hatalmas uránkészleteket. Pár év alatt a semmiből egy modern ipari város nőtt ki a homokból, repülőtérrel és bányászati infrastruktúrával. Arlit történelme a hidegháborús fegyverkezés és a francia nukleáris függetlenség törekvéseinek afrikai lenyomata. Történelem K8 — a hidegháború és az afrikai nyersanyagok.",
+      "factsAdvanced": [
+        "A várost 1969-ben a semmiből alapították az urán felfedezése után.",
+        "Francia (CEA) geológusok tárták fel a sivatagi ásványkincset.",
+        "Pár év alatt a modern ipar (repülőtér, kórház, bányák) jelent meg a sivatagban.",
+        "A hidegháborús francia nukleáris fegyverkezés fő nyersanyagforrása volt.",
+        "Több tízezer munkást vonzott az ország minden részéből.",
+        "A város története az erőforrás-átok (resource curse) egyik esettanulmánya."
+      ]
+    },
+    {
+      "id": "ne-madaoua-fort-history-v2",
+      "descriptionAdvanced": "A történelmi Madaoua Erőd (Fort de Madaoua) a francia gyarmati katonai építészet egyik mementója a Tahoua régióban. A 20. század elején épült vastag agyag- és kőfalak célja az volt, hogy pacifikálják a helyi haúsza lakosságot és védelmet nyújtsanak a fosztogató nomád törzsekkel szemben. Az erőd köré szerveződött adminisztráció később a mai város alapját képezte. Ma az épület a nigeri hadsereg tulajdonában van, és a gyarmati kor katonai logikáját szimbolizálja. Történelem K7 — francia gyarmati erődök.",
+      "factsAdvanced": [
+        "A 20. század elején épült francia katonai és adminisztratív erőd.",
+        "Vastag agyag- és kőfalakkal védték a helyőrséget.",
+        "Célja a haúsza területek pacifikálása és a nomádok távoltartása volt.",
+        "Az erőd körül alakult ki a modern Madaoua település.",
+        "Ma is állami, katonai funkciókat lát el az épületegyüttes.",
+        "A gyarmati kori területi ellenőrzés klasszikus példája."
+      ]
+    },
+    {
+      "id": "ne-goudoumaria-history-v2",
+      "descriptionAdvanced": "Goudoumaria történelme szorosan egybefonódik a Kanem-Bornu birodalom nagyságával és bukásával. A Diffa régió ezen oázisa évszázadokon keresztül a hatalmas Csád-tavi birodalom nyugati határőrállomásaként és sókereskedelmi központjaként működött. Amikor a 19. században Rabih az-Zubayr szudáni hadúr lerohanta a Bornu birodalmot, Goudoumaria is pusztító háborúk színtere lett, mielőtt a franciák végleg kiterjesztették volna rá a hatalmukat. Történelem K8 — a Kanem-Bornu birodalom.",
+      "factsAdvanced": [
+        "A történelmi Kanem-Bornu birodalom nyugati határőrállomása volt.",
+        "Évszázadokig fontos szerepet játszott a só- és datolyakereskedelemben.",
+        "A 19. század végén Rabih az-Zubayr szudáni hadúr hadseregei pusztították.",
+        "Lakossága főként a történelmi kanuri népcsoportból áll.",
+        "A francia gyarmatosítás (1900-as évek) hozott békét a vérzivataros régióba.",
+        "Gazdag szájhagyomány őrzi az ősi birodalom dicsőségét."
+      ]
+    },
+    {
+      "id": "ne-ngourti-well-history-v2",
+      "descriptionAdvanced": "A Ngourti környéki ősi kutak (puits) évszázadokon át a Szahara legféltettebb kincsei voltak, amelyek birtoklásáért a tubu és arab nomád törzsek vérre menő háborúkat vívtak. Ezek a kutak több tíz méter mélyek voltak, és generációk kemény munkájával ásták ki őket a sivatagi sziklákba. Aki a kutakat ellenőrizte, az ellenőrizte a kereskedelmi karavánokat és a hatalmas tevecsordákat. A kutak körüli ősi csaták legendái ma is élnek a nomádok között. Történelem K6 — vízháborúk a Szaharában.",
+      "factsAdvanced": [
+        "Az ősi sivatagi kutak a túlélés és a hatalom szimbólumai voltak.",
+        "A tubu és arab törzsek folyamatosan harcoltak az ellenőrzésükért.",
+        "A kutak kézi erővel, mélyen a sivatagi kőzetbe lettek vésve.",
+        "Birtoklásuk jelentette a kereskedelmi karavánok vámolásának jogát.",
+        "A vízháborúk miatt gyakran temették be ellenséges törzsek a kutakat.",
+        "Ma a modern technológiák (fúrások) megváltoztatták ezt a dinamikát."
+      ]
+    },
+    {
+      "id": "ne-diffa-outpost-history-v2",
+      "descriptionAdvanced": "Diffa városa a 20. század elején a francia gyarmati terjeszkedés legkeletibb előretolt helyőrsége (outpost) volt Nigerben. A \"Secteur du Tchad\" (Csád-szektor) adminisztratív központjaként a franciák innen szervezték meg a harcokat a függetlenségükért küzdő szenuszi testvériség ellen. A katonai bázis jelenléte vonzotta a kereskedőket, és a helyőrség fokozatosan egy nyüzsgő, többnemzetiségű várossá alakult a Komadougou folyó mentén. Történelem K8 — a gyarmati határok kialakulása.",
+      "factsAdvanced": [
+        "A 20. század elején a franciák legkeletibb nigeri helyőrsége volt.",
+        "Innen irányították a harcokat a líbiai szenuszi ellenállók ellen.",
+        "Kezdetben csak egy katonai erőd (Secteur du Tchad) volt a folyóparton.",
+        "A katonák ellátása köré épült ki a modern Diffa városának gazdasága.",
+        "Soknemzetiségű: kanuri, fulani és haúsza közösségek telepedtek le.",
+        "Meghatározta a mai Niger és Csád/Nigéria közötti országhatárokat."
+      ]
+    },
+    {
+      "id": "ne-nguigmi-chad-history-v2",
+      "descriptionAdvanced": "Nguigmi történelme drámai és tragikus: az egykor virágzó tóparti város a hatalmas Csád-tó partján feküdt, és a tóvidék legfontosabb halászati és hajózási központja volt. A 20. század közepén hatalmas kenuflották indultak innen Csád és Kamerun felé. A klímaváltozás és az aszályok miatt azonban az 1970-es évektől a tó drasztikusan visszahúzódott, és Nguigmi mára egy szárazföldi, sivatagi várossá vált. A város dicsőséges tengerészeti múltjára ma már csak a kiszáradt tómederben fekvő csónakroncsok emlékeztetnek. Földrajz K8 — a Csád-tó kiszáradása.",
+      "factsAdvanced": [
+        "A történelmi város egykor közvetlenül a hatalmas Csád-tó partján épült.",
+        "Nyugat-Afrika egyik legjelentősebb édesvízi halászati központja volt.",
+        "Több száz fa kenu indult innen napi szinten a tó vizére.",
+        "Az 1970-es évektől a klímaváltozás miatt a tó drasztikusan eltűnt mellőle.",
+        "A város egykori kikötője ma kilométerekre van a legközelebbi víztől.",
+        "A lakosság kénytelen volt a halászatról a nomád állattartásra váltani."
+      ]
+    },
+    {
+      "id": "ne-madarounfa-lake-history-v2",
+      "descriptionAdvanced": "A Madarounfa-tó évszázadokon át szakrális és történelmi menedékhelyként szolgált a Maradi régió lakói számára. A helyi animista haúsza hiedelmek szerint a tavat erős szellemek lakják, akik védelmet nyújtanak. A 19. századi fulani dzsihád (szent háború) idején a tó körüli sűrű erdő és a lápvidék tökéletes búvóhelyet jelentett az iszlamizáció elől menekülő animista törzseknek. A terület máig őrzi misztikus történelmi auráját és egyedi vallási hagyományait. Történelem K8 — vallási menedékhelyek és hitvilág.",
+      "factsAdvanced": [
+        "Történelmileg szent tóként és védett menedékhelyként tisztelték.",
+        "A 19. századi fulani dzsihád elől menekülő haúszák búvóhelye volt.",
+        "Az ősi animista hiedelmek szerint erős helyi szellemek lakják.",
+        "A sűrű növényzet megnehezítette a lovas hadseregek behatolását.",
+        "A vallási rituálék miatt a tó környékét nem vonták mezőgazdasági művelés alá.",
+        "Ma is fontos zarándokhely mind a muszlimok, mind az animisták számára."
+      ]
+    },
+    {
+      "id": "ne-filingue-valley-history-v2",
+      "descriptionAdvanced": "A Filingué-völgy (Dallol Bosso) történelmileg egy zöld, termékeny folyosó volt, amely átszelte a száraz régiót, és kulcsfontosságú vándorlási útvonalként szolgált a nomád pásztorok számára. A völgy a prekoloniális időkben a djerma (zarma) és a tuareg törzsek közötti folyamatos háborúskodás helyszíne volt a víz- és legelőjogok felett. A franciák érkezésekor több véres csatát vívtak itt a helyi ellenállók. Ma a völgy a klímaváltozás és az elsivatagosodás élő történelemkönyve. Történelem K7 — harcok az erőforrásokért a Száhelben.",
+      "factsAdvanced": [
+        "A Dallol Bosso egy történelmi, kiterjedt száraz folyóvölgy.",
+        "Évszázadokig az egyik legfontosabb zöld migrációs útvonal volt.",
+        "A zarma és tuareg törzsek folyamatosan harcoltak az itteni legelőkért.",
+        "A prekoloniális korban a völgy falvait gyakran erődítették meg.",
+        "A francia invázió idején heves ellenállás bontakozott ki a területen.",
+        "A vízkészletek csökkenése miatt a völgy történelmi jelentősége is átalakult."
+      ]
+    },
+    {
+      "id": "tapoa-animal-habitat-life-v2",
+      "descriptionAdvanced": "A Tapoa régió, amely a Niger folyó és a W Nemzeti Park (W du Niger) találkozásánál fekszik, Nyugat-Afrika egyik legfontosabb vadvédelmi területe. A W alakú folyókanyarulat környéke hatalmas elefántcsordáknak, kafferbivalyoknak és ritka gepárdoknak ad otthont. A határokon átnyúló (Niger, Benin, Burkina Faso) ökológiai folyosó létfontosságú az afrikai szavanna biodiverzitásának megőrzésében a növekvő mezőgazdasági és emberi nyomás közepette. Biológia K7 — szavannai ökoszisztémák és nemzeti parkok.",
+      "factsAdvanced": [
+        "A híres W Nemzeti Park (UNESCO Világörökség) nigeri kapuja.",
+        "Hatalmas afrikai elefántcsordák és kafferbivalyok menedékhelye.",
+        "Három ország (Niger, Benin, Burkina Faso) közös ökológiai folyosója.",
+        "A folyó W alakú kanyarulatáról kapta a nevét a védett zóna.",
+        "A gepárdok és nyugat-afrikai oroszlánok egyik utolsó élőhelye.",
+        "Erős konfliktusok jellemzik a vadvédelem és az orvvadászat/állattartás között."
+      ]
+    },
+    {
+      "id": "goudel-kid-landmark-life-v2",
+      "descriptionAdvanced": "A Goudel városrész Niameyben különleges, gyerekbarát látványosság: itt testközelből figyelhető meg, ahogy a helyiek hatalmas, színes pirogue (hagyományos afrikai) csónakokat építenek a folyó partján. A gyerekek láthatják, hogyan faragják ki a hatalmas fatörzseket a mesteremberek. Emellett a környéken délutánonként vízilovak is felbukkannak a vízben, ami lenyűgöző és egyben óvatosságra intő természeti élményt nyújt a családoknak. Környezetismeret K5 — folyami élet és kézművesség.",
+      "factsAdvanced": [
+        "A hagyományos fakéreg-csónakok (pirogue) építésének központja.",
+        "A gyerekek testközelből figyelhetik a hajóépítő mestereket.",
+        "Közvetlenül a Niger folyó partján található, Niamey belterületén.",
+        "Délutánonként gyakran látni vízilovakat a sekély vízben.",
+        "A helyi folyami kultúra interaktív megismerésének színtere.",
+        "Kedvelt hétvégi séta- és megfigyelőhely a helyi családok számára."
+      ]
+    },
+    {
+      "id": "mara-agriculture-life-v2",
+      "descriptionAdvanced": "A Mara-völgy a Száhel-övezet ritka csodája: egy egész évben művelhető, zöldellő mezőgazdasági folyosó. A helyi gazdák (főleg a haúsza népcsoport) zseniális, kis léptékű öntözőrendszereket építettek ki a völgy talajvizének hasznosítására. A területen hatalmas mennyiségű hagymát, paradicsomot és paprikát termesztenek. A Mara-völgy sikere bizonyítja, hogy a sivatagosodás ellenére is fenntartható a magas hozamú mezőgazdaság a helyi tudás és az innovatív vízgazdálkodás ötvözésével. Földrajz K8 — oázis-mezőgazdaság.",
+      "factsAdvanced": [
+        "Egész évben termő, zöldellő oázis a száraz Száhel-övezetben.",
+        "A helyi gazdák innovatív, fenntartható öntözőrendszereket használnak.",
+        "Fő terményei közé tartozik a hagyma, paradicsom és fokhagyma.",
+        "A termények biztosítják a környező nagyvárosok friss ellátását.",
+        "A hagyományos haúsza földművelési tudás modern alkalmazása.",
+        "Sikeres modell az elsivatagosodás elleni küzdelemben."
+      ]
+    },
+    {
+      "id": "ter-animal-habitat-life-v2",
+      "descriptionAdvanced": "A Téra környéki víztározó és madárrezervátum egy létfontosságú ökológiai \"kék folt\" a szárazföldi Nyugat-Nigerben. Az esős évszakban megduzzadó tó több ezer vándormadárnak ad otthont, amelyek Európából vonulnak délre. A sekély vizekben gémek, pelikánok és afrikai jacanák vadásznak. A terület bemutatja az ember által alkotott mesterséges tavak fontosságát a vadvilág fennmaradásában egy egyre szárazabbá váló kontinensen. Biológia K7 — madárvonulások és mesterséges élőhelyek.",
+      "factsAdvanced": [
+        "Mesterséges víztározó, amely kulcsfontosságú madárrezervátummá vált.",
+        "Az európai vándormadarak egyik legfontosabb nyugat-afrikai pihenőhelye.",
+        "Nagy számban fordulnak elő itt gémek, pelikánok és jacanák.",
+        "Bebizonyítja az emberi infrastruktúra pozitív ökológiai hatásait.",
+        "A tó vizét az állatvilág mellett a helyi pásztorok is használják.",
+        "A madármegfigyelők (ornitológusok) kedvelt helyi célpontja."
+      ]
+    },
+    {
+      "id": "gaya-agriculture-life-v2",
+      "descriptionAdvanced": "Gaya régiója Niger legcsapadékosabb és ezáltal legzöldebb területe, ahol az ország mezőgazdasági szabályai teljesen mások. Az itteni magas páratartalom és a folyó közelsége lehetővé teszi a nagyüzemi rizstermesztést és a trópusi gyümölcsök, például mangó és guava ültetvényeinek fenntartását. Gaya igazi \"zöld szigetként\" emelkedik ki az országból, és kulcsszerepet játszik abban, hogy Niger csökkentse az import élelmiszerek iránti függőségét. Földrajz K6 — trópusi mezőgazdaság Afrikában.",
+      "factsAdvanced": [
+        "Niger legcsapadékosabb, szinte trópusi mikroklímájú régiója.",
+        "Lehetővé teszi az árasztásos, nagyüzemi rizstermesztést.",
+        "Hatalmas mangó-, guava- és banánültetvények találhatók itt.",
+        "A terület zöldellő növényzete éles kontrasztban áll északkal.",
+        "Kiemelt szerepet játszik a hazai élelmiszer-önellátásban.",
+        "A Niger folyó állandó vízhozama garantálja a termésbiztonságot."
+      ]
+    },
+    {
+      "id": "doso-kid-landmark-life-v2",
+      "descriptionAdvanced": "A dossoi Zsiráf Rezervátum kapuja, Kouré városa az egyetlen hely a világon, ahol a veszélyeztetett nyugat-afrikai zsiráfok (Giraffa camelopardalis peralta) szabadon és békésen élnek az emberek, a földművesek és a falvak közvetlen közelében. A gyerekek és látogatók számára életre szóló élmény, ahogy ezek a hatalmas állatok a kölesföldek szélén sétálnak. A projekt a közösségi alapú természetvédelem globális sikertörténete, amely megvédte a fajt a teljes kihalástól. Környezetismeret K5 — állatvédelem és a zsiráfok.",
+      "factsAdvanced": [
+        "Az utolsó szabadon élő nyugat-afrikai zsiráfok (peralta alfaj) otthona.",
+        "A zsiráfok békésen élnek együtt a helyi földművesekkel és falvakkal.",
+        "A világ egyik legsikeresebb közösségi alapú természetvédelmi projektje.",
+        "Az 1990-es évek 50 egyedéről mára több százra nőtt a populáció.",
+        "A turisták és gyerekek biztonságosan, természetes közegükben láthatják őket.",
+        "A helyiek \"turisztikai adót\" kapnak az állatok védelméért cserébe."
+      ]
+    },
+    {
+      "id": "agadez-kamel-habitat-life-v2",
+      "descriptionAdvanced": "Az Agadez környéki kietlen, sziklás sivatag a dromedárok (egypúpú tevék) tökéletes természetes élőhelye. A tuareg nomádok számára a teve nemcsak háziállat, hanem a túlélés záloga, státuszszimbólum és családtag. Az itteni tevék kivételesen alkalmazkodtak a szélsőséges hőséghez: képesek hetekig víz nélkül, csupán a szúrós akáciabokrok nedvességéből megélni. A régióban található híres tevepiacok a szaharai élet legősibb formáját mutatják be. Biológia K6 — sivatagi adaptáció és a tevék.",
+      "factsAdvanced": [
+        "A régió a szívós egypúpú tevék (dromedárok) fő tenyésztési központja.",
+        "A tevék hetekig képesek túlélni vízivás nélkül a sivatagban.",
+        "A tuareg nomádok számára az állat a vagyon és túlélés szimbóluma.",
+        "Képesek elfogyasztani a sivatagi, rendkívül szúrós akácia ágakat.",
+        "Az Agadez-i tevepiacok a transzszaharai kultúra központjai.",
+        "A dromedárok teje és húsa alapvető táplálék a nomádoknak."
+      ]
+    },
+    {
+      "id": "zinder-land-kid-life-v2",
+      "descriptionAdvanced": "A Zinder régióban található hagyományos haúsza mesefalvak lenyűgöző világot nyújtanak a gyerekek számára. A falvak házait a helyiek színes, geometrikus mintákkal és állatfigurákkal (gekkók, lovak) festik és domborművezik ki. Ez a vizuális kultúra a mesemondás (griotok) helyszíne, ahol a tábortűz körül esténként afrikai legendák elevenednek meg. A művészet és az építészet ezen egyedi ötvözete a kulturális identitás játékos átörökítését szolgálja. Művészet és társadalom K5 — afrikai mesék és falfestészet.",
+      "factsAdvanced": [
+        "A házakat egyedi, kézzel készített geometrikus domborművek díszítik.",
+        "A falakon gyakran állatfigurák (lovak, hüllők) jelennek meg.",
+        "A falfestészet és díszítés hagyományosan a nők és kőművesek közös munkája.",
+        "Esténként a griotok (mesemondók) hagyományos legendákat mesélnek a gyerekeknek.",
+        "A vizuális kultúra segít a haúsza identitás játékos megőrzésében.",
+        "A vastag agyagfalak napközben hűvösen tartják a belső tereket."
+      ]
+    }
+  ]
+}

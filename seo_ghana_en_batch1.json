@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "accra-cities-v2",
+      "descriptionAdvanced": "Accra, the bustling capital city of Ghana, is situated on the Atlantic coast and serves as the economic and administrative hub of the nation. Originally founded in the 17th century by the Ga people, it expanded significantly under British colonial rule, officially becoming the capital of the British Gold Coast in 1877. Today, the metropolis is characterized by a rapid urbanization rate and a thriving port that facilitates international trade. It is home to iconic landmarks such as the Kwame Nkrumah Mausoleum and the vibrant Makola Market, which anchors the local informal economy. The city covers an area of roughly 225 square kilometers and has evolved into a global center for West African commerce and diplomacy. Geography K7 — coastal urban development.",
+      "factsAdvanced": [
+        "Designated as the capital of the British Gold Coast in 1877.",
+        "Covers a total land area of approximately 225 square kilometers.",
+        "Makola Market, established in 1924, is the primary trading hub.",
+        "The Kwame Nkrumah Mausoleum was completed and opened in 1992.",
+        "Kotoka International Airport handled over 2.8 million passengers in 2018.",
+        "The city experiences a tropical savanna climate with two rainy seasons."
+      ]
+    },
+    {
+      "id": "kumasi-cities-v2",
+      "descriptionAdvanced": "Kumasi is the historic capital of the Ashanti Region and the second-largest city in Ghana, famously known as the 'Garden City' due to its lush greenery and numerous plant species. Established in the late 17th century by King Osei Tutu, it remains the spiritual and cultural heart of the Ashanti Kingdom. The city is strategically positioned within a rain forest region, heavily influencing its agricultural dominance in cocoa and timber production. The Kejetia Market in Kumasi is recognized as the largest single open-air market in West Africa, featuring over 11,000 stalls. Its unique blend of deep-rooted traditions, symbolized by the Manhyia Palace, and modern commercial enterprise makes it a vital national asset. History K8 — pre-colonial African empires.",
+      "factsAdvanced": [
+        "Founded in the late 17th century by the first Asantehene, Osei Tutu.",
+        "Often referred to as the 'Garden City' of West Africa.",
+        "Kejetia Market houses over 11,000 distinct trading stalls.",
+        "Located roughly 250 kilometers northwest of Accra.",
+        "The Manhyia Palace serves as the seat of the Asantehene.",
+        "Surrounded by the dense equatorial forest zone of the Ashanti Region."
+      ]
+    },
+    {
+      "id": "tamale-cities-v2",
+      "descriptionAdvanced": "Tamale serves as the capital of the Northern Region and is recognized as the fastest-growing city in West Africa. Unlike the coastal and forest cities of the south, Tamale is situated in the Guinea Savannah belt, characterized by flat landscapes and scattered drought-resistant trees. This geography makes it a central hub for agriculture, particularly in the cultivation of shea nuts, maize, and yams. The city is predominantly inhabited by the Dagomba people and is notable for its Islamic architectural influence, visible in numerous local mosques. The presence of the Tamale Teaching Hospital and the University for Development Studies solidifies its role as the administrative and educational center of northern Ghana. Geography K7 — savanna agricultural zones.",
+      "factsAdvanced": [
+        "Functions as the capital of the Northern Region of Ghana.",
+        "Located within the semi-arid Guinea Savannah ecological belt.",
+        "Renowned as a major processing center for the global shea butter industry.",
+        "The University for Development Studies was established here in 1992.",
+        "Tamale Stadium, built for the 2008 Africa Cup of Nations, seats 20,000.",
+        "The city's central mosque is a key architectural and religious landmark."
+      ]
+    },
+    {
+      "id": "takoradi-cities-v2",
+      "descriptionAdvanced": "Takoradi, forming a twin-city metropolis with Sekondi, is the capital of the Western Region and a critical driver of Ghana's industrial sector. It boasts the country's first deep-water seaport, which was officially completed in 1928, primarily to export timber, bauxite, and manganese. The city gained immense geopolitical importance during World War II as a major transit point for Allied aircraft. In 2007, the discovery of commercial quantities of offshore oil in the Jubilee Field transformed Takoradi into Ghana's 'Oil City', triggering a massive influx of international investment and infrastructural expansion. It remains a crucial nexus connecting resource-rich inland areas to global shipping routes. History K8 — industrialization and resource extraction.",
+      "factsAdvanced": [
+        "Forms the Sekondi-Takoradi twin city, the capital of the Western Region.",
+        "Takoradi Harbour, Ghana's first deep-water port, opened in 1928.",
+        "Served as a vital Royal Air Force base during World War II.",
+        "Branded as the 'Oil City' after the 2007 Jubilee Field oil discovery.",
+        "A major export terminal for national timber, cocoa, and manganese.",
+        "Located roughly 225 kilometers west of the national capital, Accra."
+      ]
+    },
+    {
+      "id": "ashaiman-cities-v2",
+      "descriptionAdvanced": "Ashaiman is a densely populated urban center located in the Greater Accra Region, functioning primarily as a major residential and commercial extension of the nearby industrial city of Tema. Initially a small farming village established by Nii Ashai, it experienced explosive demographic growth in the 1960s as migrants flocked to work in the newly constructed Tema harbor and factories. Today, Ashaiman is characterized by intense entrepreneurial activity, a highly diverse migrant population, and busy informal markets. Despite challenges related to rapid urbanization, the municipality is a dynamic engine of localized trade and transport, deeply interconnected with the economic output of the Greater Accra metropolitan area. Geography K7 — urban migration patterns.",
+      "factsAdvanced": [
+        "Originated as a small agricultural settlement founded by Nii Ashai.",
+        "Grew exponentially during the construction of nearby Tema in the 1960s.",
+        "Separated from the Tema Metropolitan Assembly to become a distinct municipality in 2008.",
+        "Known for its highly diverse population drawn from all regions of Ghana.",
+        "Characterized by a massive informal economy and bustling local markets.",
+        "Geographically borders Tema to the south and east."
+      ]
+    },
+    {
+      "id": "tema-cities-v2",
+      "descriptionAdvanced": "Tema is the premier industrial city of Ghana, meticulously planned and built from scratch in the 1950s under the leadership of President Kwame Nkrumah. Situated about 25 kilometers east of Accra, it replaced a small fishing village to become the site of the nation's largest deep-water seaport, which opened in 1962. Tema is structured into distinct, numbered residential 'Communities' that separate living areas from heavy industrial zones. The city hosts the Tema Oil Refinery, massive aluminum smelting facilities (VALCO), and numerous manufacturing plants producing everything from cement to textiles. It remains the most crucial logistical gateway for Ghana's import and export economy. Geography K7 — planned industrial cities.",
+      "factsAdvanced": [
+        "Planned and developed in the 1950s under President Kwame Nkrumah.",
+        "Tema Port, the largest in Ghana, was officially opened in 1962.",
+        "Home to the Tema Oil Refinery (TOR), the only petroleum refinery in the nation.",
+        "Urban layout is uniquely divided into distinct, numbered 'Communities'.",
+        "Hosts the Volta Aluminium Company (VALCO) smelting facility.",
+        "Located precisely on the Prime Meridian (0 degrees longitude)."
+      ]
+    },
+    {
+      "id": "teshie-cities-v2",
+      "descriptionAdvanced": "Teshie is a vibrant coastal town situated in the Greater Accra Region, known for its deep-rooted Ga cultural heritage and historical significance. Founded in 1710, it is famously the site of Fort Augustaborg, a fortification built by the Danes in 1787. In modern times, Teshie is internationally renowned for its unique tradition of crafting elaborate, custom-made fantasy coffins, an art form pioneered in the 1950s that reflects the profession or personality of the deceased. The town also hosts the Kofi Annan International Peacekeeping Training Centre, bridging its local traditions with a significant role in modern West African diplomacy and security. History K8 — colonial coastal forts.",
+      "factsAdvanced": [
+        "Established by the Ga people around the year 1710.",
+        "Site of Fort Augustaborg, constructed by Danish colonists in 1787.",
+        "Globally famous for the creation of intricate 'fantasy coffins'.",
+        "Home to the Kofi Annan International Peacekeeping Training Centre (KAIPTC).",
+        "Located directly on the Atlantic coastline, east of central Accra.",
+        "The traditional Homowo festival is a major annual cultural event."
+      ]
+    },
+    {
+      "id": "cape-coast-cities-v2",
+      "descriptionAdvanced": "Cape Coast, historically known as Cabo Corso, is the capital of the Central Region and one of the most historically significant settlements in West Africa. It served as the capital of the British Gold Coast until 1877, when the administration was moved to Accra. The city is dominated by the imposing Cape Coast Castle, a UNESCO World Heritage site built originally by the Swedes in 1653, which later became a devastatingly prominent center of the transatlantic slave trade. Today, Cape Coast is celebrated as the educational capital of Ghana, hosting prestigious institutions such as the University of Cape Coast and Mfantsipim School, blending its somber past with a future focused on academic excellence. History K8 — the transatlantic slave trade.",
+      "factsAdvanced": [
+        "Served as the capital of the British Gold Coast until 1877.",
+        "Cape Coast Castle was originally established by Swedish traders in 1653.",
+        "Recognized globally as a UNESCO World Heritage Site.",
+        "Home to the University of Cape Coast, founded in 1962.",
+        "Mfantsipim School, established here in 1876, is Ghana's oldest secondary school.",
+        "A major destination for international heritage and diaspora tourism."
+      ]
+    },
+    {
+      "id": "sekondi-cities-v2",
+      "descriptionAdvanced": "Sekondi is the older, administrative half of the Sekondi-Takoradi twin metropolis in the Western Region of Ghana. It flourished significantly in the early 20th century following the completion of the railway line to the gold-mining town of Tarkwa in 1903, which made it a critical transport hub before the deep-water port was built in nearby Takoradi. Sekondi retains a strong colonial architectural presence and houses the regional administrative offices, courts, and the historic Fort Orange, originally constructed by the Dutch in 1642. The town is also noted for its vibrant fishing industry and the historic European cemetery, serving as a quieter, bureaucratic counterpart to the industrial bustle of Takoradi. History K8 — colonial railway expansion.",
+      "factsAdvanced": [
+        "Forms the administrative center of the Western Region.",
+        "Connected to the inland Tarkwa gold mines by railway in 1903.",
+        "Site of Fort Orange, originally built as a Dutch lodge in 1642.",
+        "Houses major regional bureaucratic and judicial headquarters.",
+        "Maintains a significant traditional coastal fishing industry.",
+        "Merged with Takoradi in 1946 to form a single municipal area."
+      ]
+    },
+    {
+      "id": "obuasi-cities-v2",
+      "descriptionAdvanced": "Obuasi is a prominent mining town situated in the Ashanti Region, globally recognized for its massive gold deposits that have been exploited for over a century. The local economy is almost entirely anchored by the Obuasi Gold Mine, which is one of the ten largest gold mines in the world and has been operational since 1897. The landscape around the town is characterized by deep underground shafts, processing plants, and the surrounding undulating hills of the Ashanti forest. While gold extraction has driven significant infrastructural development and internal migration, it has also presented environmental and urban planning challenges typical of heavy resource extraction centers. Geography K7 — mineral extraction and environment.",
+      "factsAdvanced": [
+        "Located in the Ashanti Region, south of the capital Kumasi.",
+        "The Obuasi Gold Mine has been in active commercial operation since 1897.",
+        "Recognized historically as one of the top ten largest gold mines globally.",
+        "Operated primarily by AngloGold Ashanti, a major international corporation.",
+        "The local topography is defined by rolling hills and dense tropical vegetation.",
+        "Mining activities have significantly shaped the town's demographic growth."
+      ]
+    },
+    {
+      "id": "madina-cities-v2",
+      "descriptionAdvanced": "Madina is a rapidly expanding urban settlement within the La Nkwantanang Madina Municipal District of the Greater Accra Region. Established primarily in the 1950s by Muslim migrants from northern Ghana and neighboring West African countries, it has grown into one of the most diverse and densely populated suburbs of Accra. The town is famous for the sprawling Madina Market, which is a major retail and wholesale center for food commodities, textiles, and electronics. Strategically located along the main highway leading to the Aburi Mountains, Madina acts as a crucial transit and commercial corridor, blending a strong Islamic cultural identity with intense metropolitan commerce. Geography K7 — urban sprawl and market economies.",
+      "factsAdvanced": [
+        "Founded in the 1950s primarily by Muslim migrants from the north.",
+        "Serves as the capital of the La Nkwantanang Madina Municipal District.",
+        "Madina Market is one of the largest commercial hubs in Greater Accra.",
+        "Characterized by a highly multi-ethnic and diverse residential population.",
+        "Located along the critical Accra-Aburi highway transit route.",
+        "The Institute of Local Government Studies is located in the vicinity."
+      ]
+    },
+    {
+      "id": "koforidua-cities-v2",
+      "descriptionAdvanced": "Koforidua, often affectionately referred to as 'K-Ftown', is the peaceful and picturesque capital of the Eastern Region of Ghana. Founded in 1875 by Akan migrants from the Ashanti Region, it was built in the shadow of the impressive Obuotabiri Mountain. Historically, the city prospered in the early 20th century due to the construction of the railway and its pivotal role in the booming cocoa trade. Today, Koforidua is a commercial hub known for its weekly bead market, which draws traders and tourists seeking traditional glass and ceramic beads. Its relatively cool climate and proximity to waterfalls make it an attractive administrative center. Geography K7 — regional trade and local climates.",
+      "factsAdvanced": [
+        "Serves as the administrative capital of the Eastern Region of Ghana.",
+        "Founded in 1875 by refugees migrating from the Ashanti Empire.",
+        "Nestled at the base of the prominent Obuotabiri Mountain.",
+        "Famous for the Koforidua Bead Market held every Thursday.",
+        "Historically functioned as a major collection point for the cocoa industry.",
+        "Features a slightly cooler climate compared to the coastal plains."
+      ]
+    },
+    {
+      "id": "wa-cities-v2",
+      "descriptionAdvanced": "Wa is the capital of the Upper West Region and serves as the primary administrative and cultural center for the Wala people. Situated in the semi-arid Sahelian belt, the city's architecture is notably distinct, characterized by traditional Sudanese-style mud-brick structures, most prominently the 16th-century Wa Naa's Palace. The city has a deep-rooted Islamic heritage, acting as a historical center of Islamic scholarship and trade connecting the forest regions of the south with trans-Saharan trade routes. Today, Wa is experiencing modern growth with the establishment of the Simon Diedong Dombo University of Business and Integrated Development Studies, elevating its educational profile. History K8 — trans-Saharan trade networks.",
+      "factsAdvanced": [
+        "Capital of the Upper West Region in northwestern Ghana.",
+        "Home to the Wala people and the seat of the Wa Naa (paramount chief).",
+        "The historic Wa Naa's Palace features traditional Sudanese mud-brick architecture.",
+        "Historically a major node on the West African trans-Saharan trade routes.",
+        "Hosts the Simon Diedong Dombo University of Business and Integrated Development Studies.",
+        "The local climate is strictly semi-arid with a single prolonged dry season."
+      ]
+    },
+    {
+      "id": "techiman-cities-v2",
+      "descriptionAdvanced": "Techiman is the capital of the Bono East Region and stands as one of the most critical agricultural trading hubs in West Africa. Historically, it is considered the traditional birthplace of the Akan people, with roots stretching back to the ancient Bono State. In modern times, Techiman's strategic geographic location at the crossroads between the forested south and the savanna north has fueled its massive open-air market. The Techiman Market operates on a massive scale, distributing staple crops like yams, maize, and cassava not only across Ghana but also to neighboring countries like Burkina Faso and Mali. Geography K7 — regional food distribution networks.",
+      "factsAdvanced": [
+        "Designated as the capital of the newly created Bono East Region in 2019.",
+        "Considered the historical cradle of the Akan civilization.",
+        "Techiman Market is renowned as the largest foodstuff market in Ghana.",
+        "Serves as a critical transit point connecting southern and northern Ghana.",
+        "Major trade goods include vast quantities of yams, cassava, and maize.",
+        "Located near the historical Tano River, which holds significant spiritual importance."
+      ]
+    },
+    {
+      "id": "nungua-cities-v2",
+      "descriptionAdvanced": "Nungua is a major coastal town in the Greater Accra Region and constitutes one of the original core settlements of the Ga people. Located exactly midway between Accra and Tema, it serves as a vital residential and commercial bridge linking the administrative capital to the industrial port. Nungua is deeply steeped in traditional Ga culture and is the seat of the Nungua Traditional Council. The town is famous for the annual Kplejoo festival, a vibrant celebration of harvest and purification. While modern real estate development and the bustling Junction Mall have transformed its landscape, the historic fishing community along the shore remains active. History K8 — indigenous coastal settlements.",
+      "factsAdvanced": [
+        "One of the traditional core coastal settlements of the Ga state.",
+        "Geographically situated on the coast between central Accra and Tema.",
+        "Hosts the prominent Junction Mall, a major modern retail center.",
+        "The annual Kplejoo festival is the most significant traditional event.",
+        "Maintains a historic and active artisanal fishing community along the beach.",
+        "Functions as a high-density residential suburb for Greater Accra commuters."
+      ]
+    },
+    {
+      "id": "tema-new-town-cities-v2",
+      "descriptionAdvanced": "Tema New Town is a distinct residential area located adjacent to the massive Tema Harbour in the Greater Accra Region. It was specifically established in the late 1950s to resettle the original inhabitants of the old Tema fishing village, which was demolished to make way for the construction of Ghana's largest deep-water seaport. Consequently, Tema New Town retains a very strong traditional Ga-Dangme cultural identity, sharply contrasting with the planned, industrial grid of the rest of modern Tema. The community remains heavily reliant on the artisanal fishing industry, centered around the bustling local canoe basin, and hosts the annual Homowo festival with deep historical reverence. Geography K7 — urban displacement and resettlement.",
+      "factsAdvanced": [
+        "Created in the 1950s to resettle the original villagers of old Tema.",
+        "Located immediately adjacent to the eastern edge of the Tema Harbour.",
+        "The local economy is heavily dominated by artisanal marine fishing.",
+        "Maintains a strong, traditional Ga-Dangme community structure.",
+        "The local canoe beach is one of the busiest artisanal landing sites in Ghana.",
+        "Contrasts sharply with the planned, numbered communities of industrial Tema."
+      ]
+    },
+    {
+      "id": "sunyani-cities-v2",
+      "descriptionAdvanced": "Sunyani is the administrative capital of the Bono Region, known for its clean environment, organized urban planning, and surrounding lush topography. Originally established as a small camp for elephant hunters in the 19th century, it expanded significantly during the British colonial era as a forward base and later as a major collection point for cocoa and timber. Today, Sunyani is a major educational and agricultural center, hosting the University of Energy and Natural Resources and the Sunyani Technical University. The city acts as the commercial nerve center for the fertile Brong-Ahafo agricultural belt, processing and distributing local cash crops. Geography K7 — agricultural commercial centers.",
+      "factsAdvanced": [
+        "Serves as the administrative capital of the Bono Region.",
+        "Originated in the 19th century as a settlement for elephant hunters.",
+        "Home to the University of Energy and Natural Resources (UENR).",
+        "Historically a major transit point for the Ashanti timber and cocoa trades.",
+        "Renowned for being one of the cleanest and best-planned cities in Ghana.",
+        "Features the Sunyani Airport, facilitating domestic travel to the middle belt."
+      ]
+    },
+    {
+      "id": "ho-cities-v2",
+      "descriptionAdvanced": "Ho is the capital of the Volta Region, nestled at the foot of the scenic Galenku Hill in a landscape defined by the Akwapim-Togo mountain range. Historically, Ho was part of German Togoland prior to World War I, and this colonial legacy is still visible in the remnants of German architecture and old prison buildings. Today, the city is a quiet but growing administrative and educational hub, hosting the Ho Technical University and the University of Health and Allied Sciences. It serves as the gateway to the region's prominent tourist attractions, including Mount Afadja and the Wli Waterfalls, fostering a localized eco-tourism economy. History K8 — colonial partition of Africa.",
+      "factsAdvanced": [
+        "Functions as the capital of the Volta Region of Ghana.",
+        "Historically part of the German colony of Togoland until World War I.",
+        "Situated near the scenic Galenku Hill and the Togo-Atakora mountain range.",
+        "Hosts the University of Health and Allied Sciences (UHAS).",
+        "The Hohoe road connects it directly to major regional eco-tourism sites.",
+        "Features a prominent regional museum detailing Ewe culture and history."
+      ]
+    },
+    {
+      "id": "bawku-cities-v2",
+      "descriptionAdvanced": "Bawku is a major commercial town located in the Upper East Region, strategically positioned at the extreme northeastern corner of Ghana, near the borders with Burkina Faso and Togo. Because of this tri-border location, it has historically functioned as a highly active cross-border trading hub, facilitating the movement of livestock, textiles, and agricultural produce. The town's population is extremely diverse, predominantly featuring Kusasi and Mamprusi communities. Despite facing periods of complex chieftaincy and ethnic disputes, Bawku remains an indispensable economic gateway linking Ghana's economy to the broader Sahelian markets of francophone West Africa. Geography K7 — cross-border trade networks.",
+      "factsAdvanced": [
+        "Located in the Upper East Region, close to the borders of Burkina Faso and Togo.",
+        "Serves as a critical node for cross-border livestock and agricultural trade.",
+        "Characterized by a semi-arid climate with a short, intense rainy season.",
+        "The population is highly multi-ethnic, with major Kusasi and Mamprusi communities.",
+        "Historically situated along ancient trade routes connecting the forest and Sahel.",
+        "The town is known for its vibrant and massive central market."
+      ]
+    },
+    {
+      "id": "dome-cities-v2",
+      "descriptionAdvanced": "Dome is a rapidly expanding suburban settlement located in the Ga East Municipal District of the Greater Accra Region. Once a quiet peripheral village, it has experienced explosive population growth over the past two decades due to the relentless outward expansion of Accra's metropolitan footprint. Today, Dome is characterized by dense residential neighborhoods, a highly active informal retail sector, and the sprawling Dome Market, which is a major local source for fresh produce and household goods. The area exemplifies the rapid, often organic urbanization occurring on the fringes of African megacities, serving as a primary dormitory town for commuters working in central Accra. Geography K7 — suburbanization and urban sprawl.",
+      "factsAdvanced": [
+        "Located within the Ga East Municipal District of Greater Accra.",
+        "Functions primarily as a high-density commuter suburb for central Accra.",
+        "The Dome Market is one of the largest retail centers in the municipality.",
+        "Experienced massive demographic growth beginning in the late 1990s.",
+        "Situated along the main Accra-Kumasi railway line corridor.",
+        "Reflects the rapid outward expansion of the Greater Accra metropolitan area."
+      ]
+    },
+    {
+      "id": "bolgatanga-cities-v2",
+      "descriptionAdvanced": "Bolgatanga, locally known as Bolga, is the capital of the Upper East Region and a vital cultural and economic hub in northern Ghana. Situated in the Red Volta River valley, the city is famous worldwide for its vibrant crafts industry, particularly the weaving of distinct, colorful 'Bolga baskets' made from local elephant grass, as well as high-quality leather goods. The landscape is characterized by striking granite rock outcrops and baobab trees. Bolgatanga also serves as the central converging point for the regional agricultural trade, processing massive quantities of millet, guinea corn, and livestock destined for southern markets. Geography K7 — indigenous craft economies.",
+      "factsAdvanced": [
+        "Serves as the administrative capital of the Upper East Region.",
+        "Globally famous for the production of hand-woven 'Bolga baskets'.",
+        "Located within the Red Volta River valley in the Guinea savannah belt.",
+        "A major center for traditional leather processing and craftsmanship.",
+        "The local topography features prominent, dramatic granite rock formations.",
+        "Acts as a major regional market for livestock, millet, and sorghum."
+      ]
+    },
+    {
+      "id": "lashibi-cities-v2",
+      "descriptionAdvanced": "Lashibi is a fast-growing, predominantly middle-class residential suburb located in the Greater Accra Region, strategically positioned between the industrial city of Tema and the commercial hub of Teshie-Nungua. Over the past few decades, Lashibi has transformed from a sparse coastal plain into a densely built-up area featuring numerous planned housing estates and modern commercial plazas. The town benefits heavily from its proximity to both the Sakumono wetland reserve and the Tema port infrastructure, making it a highly desirable location for port workers and business professionals. It represents the modern real estate boom reshaping the Accra-Tema urban corridor. Geography K7 — middle-class urban development.",
+      "factsAdvanced": [
+        "Located in the Greater Accra Region, bridging Tema and Nungua.",
+        "Characterized by extensive modern real estate and housing estate developments.",
+        "Situated close to the ecologically significant Sakumono Ramsar site.",
+        "Developed rapidly from the 1990s as a commuter suburb.",
+        "Features a high concentration of private schools and retail plazas.",
+        "Geographically part of the continuous Accra-Tema metropolitan sprawl."
+      ]
+    },
+    {
+      "id": "taifa-cities-v2",
+      "descriptionAdvanced": "Taifa is a bustling residential suburb located within the Ga East Municipal District, situated on the northern outskirts of Accra. Originally a small farming community at the base of the Akwapim mountain range, it was quickly absorbed by the urban sprawl of the capital during the late 20th century. Today, Taifa is characterized by a high population density, a vibrant street economy, and its role as a key transit node connecting inner-city Accra to the northern peri-urban areas. The suburb is known for its strong community networks and localized markets, providing affordable housing for thousands of daily commuters. Geography K7 — peri-urban expansion.",
+      "factsAdvanced": [
+        "Located in the Ga East Municipal District of the Greater Accra Region.",
+        "Sits near the southern foothills of the Akwapim mountain range.",
+        "Functions as a densely populated commuter suburb for central Accra.",
+        "Evolved rapidly from a farming village into an urban center in the 1990s.",
+        "Features a highly active informal economy and local street markets.",
+        "Connected to the main Achimota-Ofankor highway corridor."
+      ]
+    },
+    {
+      "id": "gbawe-cities-v2",
+      "descriptionAdvanced": "Gbawe is an expansive, hilly residential suburb located in the western part of the Greater Accra Region, falling under the Weija-Gbawe Municipal District. The area is notable for its rocky, undulating terrain, which offers panoramic views of the distant Atlantic coastline and the Densu River delta. Gbawe has experienced immense residential development, largely driven by individuals seeking land outside the congested city center. While the rapid construction has occasionally outpaced municipal infrastructure like paved roads and drainage, Gbawe remains a prime example of rapid, self-built suburbanization characteristic of contemporary West African urban growth. Geography K7 — topography and urban planning.",
+      "factsAdvanced": [
+        "Located in the Weija-Gbawe Municipal District in western Greater Accra.",
+        "Characterized by a rocky, elevated, and undulating local topography.",
+        "Has seen explosive residential development driven by the middle class.",
+        "Situated relatively close to the Densu River basin and Weija Dam.",
+        "Primarily functions as a large-scale dormitory town for the capital.",
+        "Offers elevated, panoramic views of the coastal plains to the south."
+      ]
+    },
+    {
+      "id": "agona-swedru-cities-v2",
+      "descriptionAdvanced": "Agona Swedru is a highly commercialized town located in the Central Region of Ghana, serving as the capital of the Agona West Municipal District. Strategically situated at a major road junction linking the coastal towns of Winneba and Cape Coast to the resource-rich forest interior, it functions as a critical logistical and trading hub. The town's economy is heavily reliant on the aggressive trade of agricultural produce, textiles, and imported goods. Despite being inland, its massive daily market draws traders from across the region, making Agona Swedru one of the most economically dynamic and congested transit towns in central Ghana. Geography K7 — regional transit and trade junctions.",
+      "factsAdvanced": [
+        "Serves as the capital of the Agona West Municipal District in the Central Region.",
+        "Located at a critical road intersection connecting the coast to the interior.",
+        "Functions as a massive regional hub for agricultural and retail trade.",
+        "Situated approximately 40 kilometers north of the coastal town of Winneba.",
+        "The Akora River flows directly through the center of the town.",
+        "Renowned for its extremely busy and congested daily central market."
+      ]
+    }
+  ]
+}

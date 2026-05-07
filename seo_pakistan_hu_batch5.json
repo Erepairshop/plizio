@@ -1,0 +1,375 @@
+{
+  "lang": "hu",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chitral-gol-national-park-nature-v2",
+      "descriptionAdvanced": "A Chitral Gol Nemzeti Park ökológiai szempontból a Hindukus-hegység egyik legváltozatosabb szurdokvölgye. A terület mikroklímája és drámai szintkülönbségei (1400 métertől egészen 4900 méterig) lehetővé teszik a száraz himalájai cédruserdők és a magashegyi alpesi rétek együttélését. A zord téli hónapokban, amikor a hó elborítja a csúcsokat, az állatvilág a védett, sűrű tölgyesekkel borított alsóbb régiókba húzódik. A park egy kiterjedt vízgyűjtő medence, amelynek jéghideg patakjai (gol) végül a Chitral-folyóba torkollanak, táplálva a völgy gazdag flóráját. Biologie K8 — a hegyvidéki ökoszisztémák vertikális tagozódása és a vízgyűjtő területek.",
+      "factsAdvanced": [
+        "A park flóráját a szárazföldi himalájai cédrus és a magyaltölgy dominálja.",
+        "A magassági különbségek extrémek, 1400 és 4900 méter között mozognak.",
+        "A terület mikroklímáját a környező 5000 méteres csúcsok védő hatása alakítja.",
+        "Az alacsonyabb területeken ősszel a vadrózsa- és pisztáciabokrok lángvörösre színeződnek.",
+        "Télen az állatok – köztük a kőszáli kecskék – a mélyebb völgyekbe (szurdokokba) húzódnak.",
+        "A park területét éles, omladékos sziklafalak és mély 'V' alakú völgyek szabdalják."
+      ]
+    },
+    {
+      "id": "rakaposhi-mountain-nature-v2",
+      "descriptionAdvanced": "A Rakaposhi, amelynek neve burusaszki nyelven 'Hóval Borítottat' jelent, a Karakorum-hegység egyik legfestőibb hegycsúcsa, amely drámai módon magasodik a Hunza-völgy fölé. 7788 méteres magasságával a Föld 27. legmagasabb hegye, de hírnevét nemcsak a magasságának, hanem elképesztő relatív kiemelkedésének (prominencia) is köszönheti. A hegycsúcs kevesebb mint egy tucat kilométeres vízszintes távolságon belül majdnem 6000 métert emelkedik ki a völgy aljából, ami a világ egyik legmeredekebb folyamatos hegyoldalává teszi. A csúcsot örök hó és hatalmas, leomló függőgleccserek borítják, amelyek látványát a Hunza-völgy teraszos, zöld gyümölcsösei teszik tökéletessé. Földrajz K8 — a relatív hegyképződés (prominence) és a glaciális domborzat.",
+      "factsAdvanced": [
+        "A Rakaposhi 7788 méter (25 551 láb) magas, a Karakorum hegység része.",
+        "Relatív kiemelkedése a völgytől a csúcsig közel 6000 méter, ami kivételesen meredek.",
+        "Burusaszki nyelven a neve szó szerint 'Hóval Borítottat' vagy 'Ragyogó Falat' jelent.",
+        "Első sikeres megmászását 1958-ban hajtotta végre egy brit-pakisztáni expedíció.",
+        "A hegyről több kisebb gleccser is leereszkedik, mint például a Pisan és a Minapin gleccser.",
+        "A Karakorum Highway egyik legnépszerűbb pihenőhelye közvetlenül a hegy lábánál található (Rakaposhi View Point)."
+      ]
+    },
+    {
+      "id": "jhelum-river-nature-v2",
+      "descriptionAdvanced": "A Jhelum-folyó Pandzsáb öt híres folyójának (Panch Nad) egyike, az Indus egyik legfontosabb nyugati mellékfolyója. Forrása a Pir Panjal hegységben, Kasmír indiai oldalán található, ahonnan festői szurdokokon és a Wular-tavon keresztül jut el Pakisztánba. A Jhelum vize évezredek óta kulcsfontosságú a régió mezőgazdasága számára; ezen a folyón épült fel a Mangla-gát, Pakisztán egyik legnagyobb vízerőműve. Történelmi szempontból a folyó partján zajlott le a Kr. e. 326-os hüdaszpészi csata, ahol Nagy Sándor legendás lovassága megütközött Pórosz király harci elefántjaival. A folyó Pakisztán síkságain szélesre tárul, és hatalmas mezőgazdasági övezetet öntöz. Földrajz K8 — az öt folyó völgye (Pandzsáb), az öntözéses gazdálkodás és az ártéri síkságok.",
+      "factsAdvanced": [
+        "A folyó a Kasmír-völgyből, a Pir Panjal hegység gleccsereiből ered.",
+        "Hossza megközelítőleg 725 kilométer, mielőtt a Chenab-folyóba torkollana.",
+        "Nagy Sándor korában a görögök Hydaspes (Hüdaszpész) néven ismerték.",
+        "Pakisztánban ezen a folyón építették a gigantikus Mangla-duzzasztógátat.",
+        "Vize kulcsfontosságú az országos Trimmu-Sidhnai összekötő csatornahálózat számára.",
+        "A tavaszi hóolvadáskor vize gyakran drasztikusan megárad, elárasztva a part menti síkságokat."
+      ]
+    },
+    {
+      "id": "lulusar-lake-nature-v2",
+      "descriptionAdvanced": "A Lulusar-tó a Kaghan-völgy legmagasabban fekvő és legnagyobb természetes tava, amely mintegy 3410 méteres tengerszint feletti magasságban terül el a Khyber Pakhtunkhwa tartományban. A tó valójában egy kiterjedt alpesi gleccsertó-rendszer fő medencéje, amelynek mélykék vizében visszatükröződnek a hófödte Lulusar-hegyek. Különlegessége, hogy ez a Kunhar-folyó elsődleges forrása, amely lezúdulva táplálja a Naran-völgy zuhatagait. A tó partja nyáron élénkzöld, oroszlánszájjal és kék pipaccsal borított legelővé változik, amit évszázadok óta nomád pásztorok használnak. Földrajz K8 — a magashegyi gleccsertavak, folyóforrások és az alpesi vegetáció.",
+      "factsAdvanced": [
+        "A Lulusar a híres Kunhar-folyó (amely Naranon is keresztülfolyik) elsődleges forrása.",
+        "Tengerszint feletti magassága 3410 méter a Kaghan-völgy legfelső részén.",
+        "A történelmi Babusar-hágó (Naran és Chilas között) felé vezető úton helyezkedik el.",
+        "A tó vizének színe a napszaktól és a felhőzettől függően sötétkék és smaragdzöld között változik.",
+        "Történelmileg az 1857-es szipojlázadás néhány menekültjének utolsó menedéke volt.",
+        "A jég borítása miatt a tó partja általában csak júniustól szeptemberig megközelíthető."
+      ]
+    },
+    {
+      "id": "khunjerab-national-park-nature-v2",
+      "descriptionAdvanced": "A Khunjerab Nemzeti Park ökológiai szempontból a magashegyi sivatagok, a sziklába fagyott gleccserek és az alpesi tundra lenyűgöző találkozási pontja a kínai-pakisztáni határon. Mivel a tengerszint feletti magasság itt nagyrészt 4000 méter felett van, az oxigénhiányos levegő, az extrém UV-sugárzás és az állandó fagyos szelek egyedülálló, szívós növényvilágot (például törpe fűzfákat és havasi zuzmókat) hoztak létre. A park geomorfológiája a kőomlások, a mély fagyhasadékok és a morénák által uralt. A zord körülmények ellenére a park kulcsfontosságú vízgyűjtő terület, amelynek olvadékvizei a Hunza-folyón keresztül végül az Indusba ömlenek. Földrajz K8 — a permafroszt, az alpesi tundra éghajlata és a vízválasztó hegyláncok.",
+      "factsAdvanced": [
+        "A park területét a permafroszt és az állandó fagy okozta sziklahasadások uralják.",
+        "Ez Pakisztán egyik legmagasabban fekvő (4000 m+) és leghidegebb természetvédelmi területe.",
+        "A növényzet apró, szélálló tundracserjékre és szívós fűfélékre korlátozódik.",
+        "A jégkorszakokból hátramaradt gleccsermorénák borítják a hegyoldalakat.",
+        "A levegő ritkasága és a magas UV-sugárzás gyors kőzetaprózódáshoz vezet.",
+        "A park területén lévő hó- és jégmezők az Indus vízrendszerének fontos forrásai."
+      ]
+    },
+    {
+      "id": "sheosar-lake-nature-v2",
+      "descriptionAdvanced": "A Sheosar-tó (amelynek neve sina nyelven 'Vak Tavat' jelent) a világ második legmagasabb fennsíkjának, a Deosainak az egyik legszebb természeti kincse. 4142 méteres tengerszint feletti magasságban, a fátlan, zöldellő puszta közepén fekszik, és tökéletes szív alakjáról ismert. A tó vize annyira tiszta, hogy szélcsendes időben tökéletes tükörképként veri vissza a távoli, 8126 méteres Nanga Parbat hófödte csúcsát. A tó érdekessége, hogy nincs látható lefolyása, vizét elsősorban a párolgás és a környező hegyek hirtelen hóolvadása tartja egyensúlyban. A rövid nyári hónapokban a partját több ezer apró alpesi vadvirág borítja. Földrajz K8 — a lefolyástalan tavak, a magaslati mikroklíma és az endorheikus medencék.",
+      "factsAdvanced": [
+        "A tó a Deosai-fennsík nyugati szélén, 4142 méter magasságban található.",
+        "Sina nyelven a 'Sheosar' név 'Vak Tavat' jelent.",
+        "A tó hossza 2,3 kilométer, szélessége közel 1,8 kilométer, maximális mélysége 40 méter.",
+        "Tiszta napokon a Nanga Parbat hatalmas tömbje tükröződik a vizében.",
+        "Az állatvilág – beleértve a barna medvéket is – gyakran látogat a tóhoz inni a nyár folyamán.",
+        "Késő ősztől kora nyárig (november-június) a tavat vastag jég és hó borítja."
+      ]
+    },
+    {
+      "id": "chenab-river-nature-v2",
+      "descriptionAdvanced": "A Chenab-folyó a pandzsábi térség vízrajzi hálózatának és mezőgazdaságának központi éltetője, egyike a történelmi 'Öt Folyónak' (Panch Nad). Az indiai Himalájában (Himácsal Pradesben) ered két patak, a Chandra és a Bhaga összefolyásából, ahonnan áttöri magát Kasmír hegyein, mielőtt belépne a pakisztáni síkságra Marala közelében. A Chenab a régió talán legromantikusabb folyója; a pandzsábi népi szerelmes történetek (mint a Sohni Mahiwal vagy a Heer Ranjha) legendái mind ehhez a csendesen hömpölygő vízhez kötődnek. Geográfiai szempontból a folyó hatalmas doabokat (folyóközöket) hoz létre, melyeket a világ legnagyobb összefüggő gát- és csatornarendszere öntöz. Földrajz K8 — a folyamhálózatok, a csatorna-infrastruktúra és az ártéri gazdálkodás.",
+      "factsAdvanced": [
+        "A folyó teljes hossza az indiai forrástól az Indusig körülbelül 960 kilométer.",
+        "Nevének jelentése a védikus időkben 'A Hold Folyója' (Chandrabhaga) volt.",
+        "A Jhelum és a Ravi folyók mindketten a Chenabba torkollanak Pakisztán területén.",
+        "Számos híres pandzsábi romantikus eposz, mint a Sohni Mahiwal, a partjain játszódik.",
+        "A folyó vizét a Marala, a Khanki és a Trimmu duzzasztógátak (barrage) szabályozzák.",
+        "A vize rendkívül gazdag ásványi anyagokban (hordalékban), ami kiváló termőtalajt biztosít."
+      ]
+    },
+    {
+      "id": "manchar-lake-nature-v2",
+      "descriptionAdvanced": "A Manchar-tó Pakisztán (és Dél-Ázsia) legnagyobb természetes édesvizű tava, amely Szindh tartományban, a Kirthar-hegység lábánál, az Industól nyugatra terül el. A tó területe a nyári monszunesők idején drasztikusan, akár 250 négyzetkilométerre is megnő, ősztől azonban sekély, mocsaras állóvízzé zsugorodik. Az itt élő mohana népcsoport évezredek óta a tóra épült, hagyományos lakóhajókon (kashti) töltik egész életüket, és ősi halászati technikákat alkalmaznak lótuszgyökérből készült eszközökkel. Az utóbbi évtizedekben a tavat súlyos ökológiai katasztrófa sújtja: a mezőgazdasági és ipari szennyvizek (a Main Nara Valley Drain csatornán keresztül) felborították a vízi ökoszisztémát, veszélyeztetve a flamingók és pelikánok vonulását. Biologie K8 — a tóvidékek ökológiája, a vízminőség romlása és a környezetvédelem.",
+      "factsAdvanced": [
+        "A Manchar Dél-Ázsia legnagyobb édesvízi tava, területe monszunkor 250 km²-re is megnőhet.",
+        "A tavat részben az Indus-folyó, részben pedig a Kirthar-hegység hegyi patakjai (nai) táplálják.",
+        "A mohana (vagy mirbahar) nép évezredek óta egyedi építésű lakóhajókon él a tó vizén.",
+        "A tó az ázsiai vonuló madarak (pelikánok, flamingók, récék) fontos téli állomása.",
+        "Sajnos az ipari és mezőgazdasági szennyezés miatt a halállomány jelentősen csökkent.",
+        "A nyári forróság és aszály idején a tó vize gyakran kritikusan leapad és elmocsarasodik."
+      ]
+    },
+    {
+      "id": "fairy-meadows-nature-v2",
+      "descriptionAdvanced": "A Tündérrétek (Fairy Meadows) egy mesébe illő, buja zöld alpesi legelő 3300 méteres magasságban, közvetlenül a félelmetes Nanga Parbat (8126 m) északi jégfalának lábánál. Ezt az idilli füves platót sűrű himalájai fenyő- és nyírfaerdők ölelik körül. A német hegymászók (köztük Willy Merkl csapata) nevezték el 'Märchenwiese'-nek az 1930-as években, lenyűgözve a dús pázsit és a jégóriás kontrasztjától. Ma a hely a túrázók és hegymászók alaptáboraként funkcionál a Raikot-gleccser felé vezető úton. A Tündérrétek megközelítése is legendás: a látogatóknak a világ egyik legveszélyesebb, sziklafalba vájt dzsipútján kell végighajtaniuk a Raikot-hídtól. Földrajz K8 — az alpesi legelők kialakulása és a magashegyi turizmus ökológiai lábnyoma.",
+      "factsAdvanced": [
+        "A legelő nevét (Märchenwiese - Tündérrétek) német hegymászók adták az 1930-as években.",
+        "A terület 3300 méter (10 800 láb) magasan, a Nanga Parbat északi lejtőjén fekszik.",
+        "Tökéletes, zavartalan rálátást biztosít a világ 9. legmagasabb hegycsúcsára és a Raikot-gleccserre.",
+        "1995-ben a pakisztáni kormány nemzeti parkká (National Park) nyilvánította.",
+        "A rétre csak egy rendkívül veszélyes földúton, majd egy meredek, több órás gyalogtúrával lehet eljutni.",
+        "A helyi közösség megélhetésének legfőbb forrása a turizmus és a faházak (camping) kiadása."
+      ]
+    },
+    {
+      "id": "tirich-mir-mountain-nature-v2",
+      "descriptionAdvanced": "A Tirich Mir (7708 méter) a hatalmas, zord Hindukus-hegység legmagasabb csúcsa, amely a pakisztáni Chitral-völgy és Afganisztán határán emelkedik. Bár alacsonyabb, mint a Karakorum nyolcezresei, topográfiai elszigeteltsége és hirtelen emelkedése (prominenciája) hihetetlenül impozánssá teszi. A hegycsúcs oldalait hatalmas, omladékos gleccserek – mint a Felső és Alsó Tirich-gleccser – borítják. A helyi Khowar és Kalash népi hitvilágban a Tirich Mir a dzsinnek, tündérek (peri) és láthatatlan szellemek lakhelye, akiket az itt történt rejtélyes halálesetekért hibáztatnak. A norvég expedíciók 1950-es első sikeres megmászása óta a hegy vonzza az extrém alpinistákat, bár kegyetlen, száraz hideg időjárása rendkívüli kihívást jelent. Földrajz K8 — a Hindukus-hegység geológiája, az izolált hegycsúcsok és a száraz hegyi éghajlat.",
+      "factsAdvanced": [
+        "7708 méteres magasságával a Hindukus-hegység (Hindu Kush) legmagasabb csúcsa a világon.",
+        "A hegy Chitral városából (Pakisztán) szinte minden irányból jól látható, uralva a tájat.",
+        "Elsőként egy norvég expedíció hódította meg 1950-ben, köztük Arne Næss filozófussal.",
+        "A hegy neve valószínűleg a chitrali 'Tirich' faluból és a 'Mir' (Király) szóból ered.",
+        "A helyi mitológia szerint a csúcson a hegyi szellemek és jégarcok ('Pari' tündérek) élnek.",
+        "A hegy meredeksége miatt a hólavinák és a jégomlások szinte mindennaposak a környékén."
+      ]
+    },
+    {
+      "id": "k2-mountain-relief-v2",
+      "descriptionAdvanced": "A K2, geológiai és topográfiai szempontból a Föld egyik legszélsőségesebb formációja. Az Indiai- és az Eurázsiai-kőzetlemez összeütközése hozta létre ezt a gigantikus, gneisszből és gránitból álló piramist a Karakorum szívében. Szemben az Everest viszonylag lankásabb, fenségesebb lejtőivel, a K2 mind a négy fő oldala csaknem függőleges, több mint 3000 méter mélyen szakad a környező gleccserekbe. A legveszélyesebb része, a 'Palacknyak' (Bottleneck), egy 8200 méter magasan fekvő szűk jégkuloár (couloir), ami fölött egy gigantikus, instabil függőgleccser (serac) tornyosul. Ez a brutális, meredek topográfia lehetetlenné teszi a hó megmaradását, így a K2 állandó kőhullás és fekete jég birodalma. Földrajz K8 — a lemeztektonika, a kőzetszerkezet és a meredekség (grádiens) topográfiai elemzése.",
+      "factsAdvanced": [
+        "A hegy szerkezete nagyrészt kemény metamorf kőzetekből, gneisszből és gránitból áll.",
+        "A K2 északi, kínai oldala (Qogir-fal) egy csaknem függőleges, 3200 méteres szikla- és jégszakadék.",
+        "A leghíresebb és leghalálosabb topográfiai szűkület a 8200 méteren lévő 'Palacknyak' (Bottleneck).",
+        "A lemeztektonikai nyomás miatt a K2 évente körülbelül 2-3 millimétert emelkedik.",
+        "A Karakorum hegység gleccserei (köztük a Godwin-Austen és a Baltoro) közvetlenül a K2-ből erednek.",
+        "A hegy geometriai formája egy tökéletes, éles gerincekkel rendelkező tetraéder (piramis)."
+      ]
+    },
+    {
+      "id": "nanga-parbat-mountain-relief-v2",
+      "descriptionAdvanced": "A Nanga Parbat domborzati jellemzői világviszonylatban is páratlanok, ami miatt a Himalája leghatalmasabb önálló masszívumaként tartják számon. A hegy drámai kiemelkedését (topográfiai prominenciáját) az északi oldalán aláfutó Indus-folyó völgye adja; a csúcs mindössze 25 kilométeres távolságon belül majdnem 7000 métert emelkedik az alapjától, ami a legnagyobb ilyen szintkülönbség a Földön. A hegy déli arculatát a Rupal-fal (Rupal Face) határozza meg, amely a világ legmagasabb, egybefüggő, szinte függőleges szikla- és jégfala, eléri a 4600 méteres magasságot. A tektonikus aktivitás itt ma is rendkívül erős, a hegy egy aktív vetődésen (Raikot Fault) ül. Földrajz K8 — a topográfiai prominencia, a sziklafalak (faces) és az eróziós völgyképződés.",
+      "factsAdvanced": [
+        "A Nanga Parbat a Himalája hegyláncának legnyugatibb tektonikus bástyája.",
+        "A hegy déli oldala, a Rupal Face a világ legmagasabb (kb. 4600 méteres) függőleges sziklafala.",
+        "Északon a Rakhiot-fal egy 7000 méteres szintkülönbségű, meredek gleccseres lejtő.",
+        "A hegy a Main Mantle Thrust (MMT) geológiai törésvonal felett emelkedik, folyamatosan gyűrődve.",
+        "Rendkívüli meredeksége miatt a kőzetomlások és a hóomlások napi szintűek a hegyen.",
+        "Az alatta kanyargó Indus-folyó vájta ki azt a kanyont, ami optikailag még magasabbá teszi a csúcsot."
+      ]
+    },
+    {
+      "id": "thar-desert-relief-v2",
+      "descriptionAdvanced": "A Thár-sivatag (Nagy Indiai-sivatag) Pakisztán területén Szindh tartomány délkeleti részét foglalja el, és egyedülálló, szubtrópusi arid domborzatot mutat. Geomorfológiailag a terület nemcsak sík homoktengerből áll; jellegzetességei a hosszan elnyúló, sarló alakú homokdűnék (barkánok), amelyeket az erős, folyamatos délnyugati monszunszelek formálnak évszázadok óta. A dűnék között sekély sós mélyedések (playák) bújnak meg, amelyek a ritka nyári esőzések idején apró, kérészéletű sós tavakká változnak. A Thár-sivatag Pakisztánban átmenetet képez a tengerparti sós mocsarak (Rann of Kutch) és a Pandzsábi-síkság termékeny allúviuma között. Földrajz K8 — a szélerózió (eolian), a homokdűnék dinamikája és a sivatagi tájképek.",
+      "factsAdvanced": [
+        "A pakisztáni oldalon a Thár-sivatag nagyrészt Szindh tartomány Tharparkar körzetében található.",
+        "A domborzatot az állandó szél alakította hosszirányú és sarló alakú (barkán) homokdűnékké.",
+        "A dűnék magassága helyenként elérheti az 50-100 métert is.",
+        "A mélyedésekben (dhands) a nyári esők után apró sós mocsarak és tavak alakulnak ki.",
+        "A sivatag geológiai alapja alatt rejtőzik Pakisztán legnagyobb barnaszén-készlete (Thar Coalfield).",
+        "A sziklás alapkőzet csak néhány helyen (például a Karunjhar hegynél) töri át a homokot."
+      ]
+    },
+    {
+      "id": "balochistan-plateau-relief-v2",
+      "descriptionAdvanced": "A Beludzsisztáni-fennsík Pakisztán területének csaknem felét (kb. 44%-át) alkotja, egy kiterjedt, 600–3000 méter magasan fekvő száraz, sziklás sivatagi plató az Iráni-fennsík keleti folytatásaként. A domborzatot drámai, redőzött mészkő- és homokkő-hegyláncok (mint a Sulaiman, a Kirthar és a Makran hegységek) szelik keresztbe-kasul, amelyek tektonikai nyomás alatt keletkeztek az eurázsiai és arab kőzetlemezek ütközésével. A platót számtalan endorheikus (lefolyástalan) medence (hamun) tagolja, ahová a rövid életű hegyi patakok vize gyűlik, hátrahagyva hatalmas sós síkságokat. A vízhiány és a felszíni aprózódás egy kopár, 'holdbéli' kősivatagot hozott létre, amely mély réz-, arany- és földgázkészleteket rejt. Földrajz K8 — az arid fennsíkok, a belső lefolyású medencék és a kőzetrepedés.",
+      "factsAdvanced": [
+        "A Beludzsisztáni-fennsík Pakisztán legszárazabb és leggyérebben lakott geológiai nagytája.",
+        "A fennsíkot keleten a Kirthar és Sulaiman, északon a Toba Kakar hegyvonulatok határolják.",
+        "A domborzatot hatalmas sómedencék, úgynevezett 'Hamunok' (pl. Hamun-i-Mashkel) tagolják.",
+        "Gyakoriak az extrém hőmérséklet-ingadozások miatti kőzetaprózódások (inszolációs mállás).",
+        "A plató vulkanikus és tektonikus eredetű geológiai kincsekben (réz, arany, gáz) rendkívül gazdag.",
+        "Számos mély, sziklás kanyon (darra) található a fennsíkon, amelyeket az időszakos áradások vájtak ki."
+      ]
+    },
+    {
+      "id": "indus-river-valley-relief-v2",
+      "descriptionAdvanced": "Az Indus-völgy (vagy Indus-síkság) Pakisztán földrajzi és demográfiai gerince, egy hatalmas, lapos alluviális síkság (feltöltött alföld), amelyet a Himalája és a Karakorum folyói töltöttek fel az évmilliók során. A síkság Pandzsábtól egészen az Arab-tenger partjáig, Szindhig nyúlik. Geomorfológiailag két részre osztják: a Felső-Indus síkságára (ahol az öt pandzsábi folyó a hatalmas, enyhén lejtő 'doabokat' vagyis folyóközöket alkotja) és az Alsó-Indus síkságára (Szindh), ami egy lassan kanyargó (meanderező), oxbow tavakkal teli, extrém sík ártér. A talaj mély, tápanyagban gazdag folyami hordalék (lösz, agyag, iszap), amely Pakisztán teljes mezőgazdaságának alapját adja, ám emiatt a terület rendkívül sebezhető a monszun áradásokkal szemben. Földrajz K8 — az alluviális síkságok, a meanderezés és a hordalékkúpok.",
+      "factsAdvanced": [
+        "Az Indus-síkság Pakisztán lakosságának és mezőgazdaságának több mint 80%-át tartja el.",
+        "A Felső-Indus (Pandzsáb) területe az öt nagy folyó által határolt 'doabokra' (folyóközökre) oszlik.",
+        "A talaj helyenként több ezer méter vastag, finom folyami hordalékból (allúvium) áll.",
+        "A rendkívül lapos domborzat miatt a folyó délen gyakran változtatja medrét (meanderezés).",
+        "A síkság déli végén egy hatalmas, fokozatosan süllyedő deltatorkolat terül el az Arab-tengerbe érve.",
+        "A domborzat esése annyira csekély, hogy Szindhben a folyó csak néhány tíz métert süllyed több száz kilométeren."
+      ]
+    },
+    {
+      "id": "hunza-valley-relief-v2",
+      "descriptionAdvanced": "A Hunza-völgy egy klasszikus 'U' alakú, mély, jégkorszaki gleccserek által kivájt (glaciális) szurdokvölgy a Karakorum hegység belsejében. Reliefjének leglenyűgözőbb jellemzője a hihetetlen magasságkülönbség: a folyómeder (kb. 2000 m) fölött szinte azonnal, függőleges gránitfalként magasodnak a 7000 méteres csúcsok, mint a Rakaposhi vagy a Diran. A völgy oldalait a helyiek évszázadok aprólékos munkájával keskeny, lépcsőzetes teraszokká alakították, hogy megkössék a termőtalajt és a gleccserolvadékot (kuhls). A domborzat geológiai szempontból is érdekes: a Hunza-völgy az ázsiai lemeztörés egyik központja felett fekszik, amit a gyakori földcsuszamlások, iszapömlések és meleg hőforrások is bizonyítanak. Földrajz K8 — a glaciális völgyképződés, a teraszos földművelés domborzati hatásai.",
+      "factsAdvanced": [
+        "A völgy geomorfológiáját az ősi, masszív gleccserek vájták klasszikus 'U' alakúra.",
+        "A hegyoldalakon kőből rakott mesterséges teraszok tartják meg a mezőgazdasági talajt.",
+        "A völgy alján a rendkívül gyors sodrású Hunza-folyó (többnyire hordalékos, kőzetlisztes vizű) vájja a medrét.",
+        "A Karakorum-tektonikai zóna miatt a területen gyakoriak a hatalmas sziklaomlások és földcsuszamlások.",
+        "A 'Passu Cones' hegycsúcsok a gleccser jéggyaluló munkája (eróziója) révén kapták hegyes, kúp alakjukat.",
+        "A völgy oldalait sűrűn átszövik a gleccserolvadék vizét elvezető mesterséges csatornák (Kuhls)."
+      ]
+    },
+    {
+      "id": "makran-coast-relief-v2",
+      "descriptionAdvanced": "A Makrán-partvidék egy több mint 1000 kilométer hosszan elnyúló sivatagi-tengerparti sáv az Arab-tenger mentén, Irán és Pakisztán között. Geomorfológiai szempontból a Makrán egy szubdukciós zóna, ahol az Arab-lemez az Eurázsiai-lemez alá bukik, folyamatosan megemelve a partvidék tektonikus teraszait. Ennek a folyamatos geológiai emelkedésnek és a száraz, sós szélnek a hatására a puhább agyag- és homokkőzetek elképesztő formájú, erodált sziklákká, kanyonokká és tengeri szirtekké koptak (mint a Buji Koh vagy a Hingol Nemzeti Park alakzatai). A domborzat érdekessége a kiterjedt 'sárvulkánok' láncolata is, amelyek hideg, sós iszapot és metángázt lőnek a felszínre a törésvonalak mentén. Földrajz K8 — a partvonal-erózió, a szubdukciós lemezmozgások és a sárvulkánok.",
+      "factsAdvanced": [
+        "A partvonal egy aktív tektonikai alábukási (szubdukciós) zóna felett helyezkedik el.",
+        "A folyamatos tengeri szél- és sóerózió különleges, faragott sziklaalakzatokat hozott létre.",
+        "A terület leghíresebb geológiai érdekessége a világ legnagyobb aktív sárvulkán-hálózata.",
+        "A partszakaszt elszigetelt, félhold alakú homokos öblök és magas, függőleges mészkő szirtek tagolják.",
+        "Az emelkedő szárazföld miatt a partvidéken ősi, megkövesedett tengeri teraszok figyelhetők meg.",
+        "A domborzat nagy része növényzet nélküli, száraz, 'holdbéli' kősivatag."
+      ]
+    },
+    {
+      "id": "cholistan-desert-relief-v2",
+      "descriptionAdvanced": "A Cholistan-sivatag (helyi nevén Rohi) Pandzsáb tartomány délkeleti részén, a Thár-sivatag északi folytatásaként terül el. A Cholistan geomorfológiáját az ókori (mára kiszáradt) Hakra-folyó széles, lapos, agyagos medre (amely egykor az Indus-völgyi civilizáció éltetője volt) és a körülötte felhalmozódó, hullámzó homokdűnék határozzák meg. A sivatag domborzata két részre osztható: a Kisebb Cholistanra, ahol a dűnék alacsonyabbak és ritkás cserjékkel, füvekkel pettyezettek, valamint a Nagyobb Cholistanra, amely magas (akár 100 méteres), folyamatosan vándorló, tiszta homokgerincekből (barkánokból) áll. Nyáron a szél dűnéről dűnére hajtja a homokot, megváltoztatva az egész táj topográfiáját. Földrajz K8 — az ősi folyómedrek (paleochannels), a homokvándorlás és az arid tájak.",
+      "factsAdvanced": [
+        "A Cholistan geomorfológiájának magja az ősi, mára teljesen kiszáradt Hakra-folyó medre.",
+        "A sivatag domborzata lassan vándorló, mozgó homokdűnékből (shifting dunes) áll.",
+        "A dűnék között sós serpenyők és lapos, agyagos síkságok (dahars) találhatók, amelyek megtartják az esővizet.",
+        "A szél formálta homokgerincek (longitudinális dűnék) iránya a délnyugati széljárást követi.",
+        "A terület vízellátását a nyári monszun és a mélyre ásott hagyományos sivatagi kutak (tobas) biztosítják.",
+        "A sivatag geológiája őrzi a több ezer éves Indus-völgyi civilizáció több száz betemetett települését."
+      ]
+    },
+    {
+      "id": "tirich-mir-mountain-relief-v2",
+      "descriptionAdvanced": "A Tirich Mir (7708 méter) és a környező Hindukus-hegység domborzata jelentősen különbözik a Karakorum hegyláncaitól. A Hindukus itt egy hatalmas, szikár, csipkézett gránit- és gneiszpajzsként emelkedik a Chitral-folyó völgye fölé, amelyet számtalan ék alakú, rendkívül omladékos hegygerinc és keskeny szurdok tagol. A Tirich Mir nem egyetlen piramis, hanem egy összetett masszívum, melynek több, 7000 méter feletti alcsúcsa (mint a Tirich Mir East) egy hatalmas, nyeregszerű képződményt alkot. A hegyoldalakat borító felső- és alsó Tirich gleccserek lassan, mély U-alakú völgyeket vájnak, míg a szél és a szélsőséges fagy hatalmas, omlós kőtörmelék (törmelékkúpok) halmokat hoz létre a hegy lábánál. Földrajz K8 — a hegységrendszerek tömbjei, a fagyaprózódás és a törmelékkúpok.",
+      "factsAdvanced": [
+        "A Tirich Mir egy kiterjedt masszívum, több 7000 méter feletti csúccsal, nem csak egyetlen izolált hegy.",
+        "A domborzatot a hegy meredeksége miatt lezúduló hatalmas törmeléklavinák formálják.",
+        "A hegy a Hindukus hegység fő vonulatának, a gravitációs lemezütközésnek az eredménye.",
+        "A Tirich-gleccser mély, klasszikus U-alakú kanyont vágott a masszívum északi oldalába.",
+        "A sziklák rendkívül repedezettek és omladékosak, ami a hegymászást technikailag veszélyessé teszi.",
+        "A hegy nyugati oldalán a domborzat élesen lejt az afgán Wakhan-folyosó irányába."
+      ]
+    },
+    {
+      "id": "potohar-plateau-relief-v2",
+      "descriptionAdvanced": "A Potohar-fennsík (Potohar Plateau) Észak-Pandzsáb egyedülálló, hullámzó domborzatú, sziklás régiója, amely Iszlámábád és Rawalpindi számára is az alapzatot adja. Az Indus és a Jhelum folyók közé ékelődött fennsík az ősi Himalája-képződés során megemelkedett és intenzíven erodálódott. A tájképet a mély, meredek falú vízmosások (ravines), homokkő és mészkő gerincek, valamint a Só-hegység (Salt Range) vöröses hegyvonulatai uralják. A sekély, tápanyagszegény talaj és a heves nyári esők folyamatosan pusztítják a felszínt (badland erózió), létrehozva a régió jellegzetesen barázdált, holdbéli arculatát. Geológiailag ez a világ egyik leggazdagabb őslénytani (fosszília) területe. Földrajz K8 — a badland erózió, a fennsíkok geológiája és a fosszilis kőzetek.",
+      "factsAdvanced": [
+        "A Potohar egy 300-600 méter magasra emelkedett, tagolt kőzetfennsík.",
+        "A területen a víz- és szélerózió kiterjedt, meredek szurdokokat és 'badland' (kopár) tájat alakított ki.",
+        "Déli határát a geológiailag híres, kősóban és ásványokban gazdag Só-hegység (Salt Range) alkotja.",
+        "A fennsíkon található Swaan folyó völgyében 1,9 millió éves Homo erectus kőeszközöket találtak.",
+        "A terület kőzetei ősi, sekély tengerek üledékéből származó homokkőből és palából állnak.",
+        "A gyenge talajréteg miatt a mezőgazdaság nehézkes, csak a teraszos földművelés működik."
+      ]
+    },
+    {
+      "id": "swat-valley-relief-v2",
+      "descriptionAdvanced": "A Szvát-völgy (Swat Valley) a Hindukus-hegység alsó vonulatainak geológiai ékköve, melyet gyakran a 'Kelet Svájcaként' is emlegetnek. Geomorfológiailag a völgy a Swat-folyó által kivájt, lankás V-alakú völgymedencéből indul, majd ahogy észak felé haladunk Kalam felé, a hegyek egyre meredekebbé, a völgy pedig U-alakú, gleccserek által formált szurdokká válik. A domborzat varázsát a folyót kísérő széles, lapos, dús füvű ártéri teraszok és a felettük hirtelen feltornyosuló, sűrű himalájai cédruserdőkkel borított hegyoldalak adják. A völgy tektonikus törésvonal mentén fekszik, így területét számos, magashegyi tengerszem (mint a Mahodand-tó) és sebes hegyi patak színesíti. Földrajz K8 — a V és U alakú völgyek, az ártéri teraszok és az alpesi tájak.",
+      "factsAdvanced": [
+        "A völgy formáját részben folyami (Swat-folyó), részben ősi glaciális (jégkorszaki) erózió alakította.",
+        "A völgy alsó része széles, lapos, teraszos földművelésre (alma, őszibarack) kiválóan alkalmas.",
+        "Felső részein (Kalam, Ushu) a hegyoldalak drámaian meredekek és alpesi fenyvesek borítják.",
+        "A domborzatot az eurázsiai és indiai lemezek találkozásának tektonikai feszültségei formálták.",
+        "A völgy oldalában megbúvó mélyedésekben gyönyörű magashegyi gleccsertavak (pl. Kundol) alakultak ki.",
+        "A meredek lejtők és az erdőirtások miatt a völgy különösen sebezhető a tavaszi sárlavinákkal szemben."
+      ]
+    },
+    {
+      "id": "karakoram-range-relief-v2",
+      "descriptionAdvanced": "A Karakorum-hegység a Föld felszínének legerősebben gyűrődött, legmeredekebb és legjéghidegebb domborzati formációja, a Himalája északnyugati testvére. Pakisztánban ez a hegylánc egy hihetetlenül sűrű és magas, áthatolhatatlan sziklafalat alkot, amely 60 kilométeres körzeten belül négy darab nyolcezres csúcsot (K2, Broad Peak, Gasherbrum I-II) és tucatnyi 7000 méter feletti hegyet tömörít. A Karakorum nemcsak magas, hanem rendkívül csipkézett, éles gránittornyokkal (pl. Trango Towers) és borotvaéles gerincekkel (arêtes) rendelkezik. A hegycsúcsok közötti mély, hideg völgyeket a Föld leghosszabb sarkvidéken kívüli jégfolyamai, a Baltoro, a Biafo és a Hispar gleccserek töltik ki, amelyek folyamatosan marják és alakítják a sziklafalakat. Földrajz K8 — a glaciális erózió, a hegyláncok és a sziklatornyok kialakulása.",
+      "factsAdvanced": [
+        "A Karakorum tartalmazza a világ legmagasabb hegycsúcsainak és gleccsereinek legsűrűbb koncentrációját.",
+        "Geológiailag fiatal, folyamatosan emelkedő hegység az indiai lemez északi tolódása miatt.",
+        "A hegység neve türk eredetű, jelentése 'Fekete Kavics', ami az omladékos gleccsermorénákra utal.",
+        "Itt találhatók a bolygó leghosszabb, jégsapkán kívüli gleccserei (Siachen, Baltoro, Batura).",
+        "A hegyek uralkodó kőzete a kristályos gránit és gneisz, ami hihetetlenül meredek sziklafalakat eredményez.",
+        "A hegységben található a világ legnagyobb függőleges gránit sziklatornya, a Great Trango Tower."
+      ]
+    },
+    {
+      "id": "deosai-plateau-relief-v2",
+      "descriptionAdvanced": "A Deosai-fennsík geológiai szempontból egy anomália a Karakorum és a Nyugat-Himalája éles, hegyes csúcsai között. Ez egy 3000 négyzetkilométeres, nagyrészt lapos, lankásan hullámzó alpesi füves pusztaság (tundra), amely átlagosan 4114 méter magasan 'lebeg' a hegyek fölött. A fennsíkot tektonikai felemelkedés hozta létre; a jégkorszakok során hatalmas jégsapka csiszolta egyenletesre, letompítva az éles sziklákat. Ma a fennsík domborzatát apró dombok, kanyargós hóolvadék-patakok (mint a Bara Pani) és lassan mélyülő endorheikus tavak jellemzik. A plató peremeiről hirtelen, meredek szakadékok (drop-offs) vezetnek le Skardu és Astore mély völgyeibe. Földrajz K8 — az alpesi platók, a jégkorszaki csiszolódás és a magaslati síkságok.",
+      "factsAdvanced": [
+        "A Deosai a világ második legmagasabb és legnagyobb kiterjedésű egybefüggő magasföldje a Tibeti-fennsík után.",
+        "Domborzatát a korábbi jégkorszakok vastag jégtakarója gyalulta lankásra (glaciális csiszolás).",
+        "A fennsíkot kelet-nyugati irányban lassan folyó, kanyargós (meanderező) alpesi patakok szelik át.",
+        "A platót körbevevő hegycsúcsok nem sokkal emelkednek a fennsík szintje fölé (kb. 5000 méterig).",
+        "A terület peremein drámai, szinte függőleges sziklafalak szakadnak be a környező völgyekbe.",
+        "Geológiailag a fennsík alapja vastag, ősi vulkáni és üledékes kőzetek keverékéből áll."
+      ]
+    },
+    {
+      "id": "kharan-desert-relief-v2",
+      "descriptionAdvanced": "A Kharán-sivatag (Kharan Desert) Beludzsisztán tartomány kietlen, sivatagi-félsivatagi tájegysége, amely Pakisztán egyik legelszigeteltebb és legzordabb domborzati régiója. A tájat éles, szélfútta homokkő gerincek, végtelen, durva kavicssíkságok (reg) és vándorló homokdűnék uralják. A domborzatot erős, forró délnyugati szelek (a híres '120 napos szél') formálják, amelyek hatalmas mozgó homoktengereket (erg) építenek az iráni határ közelében. A sivatag belsejében lévő lapos serpenyőkben (hamunok) időszakosan sós mocsarak keletkeznek. A terület történelmi jelentőséget 1998-ban kapott, amikor a Chagai hegyek alatti, mély gránitbarlangokban a pakisztáni hadsereg végrehajtotta nukleáris tesztjeit (Chagai-I). Földrajz K8 — a kősivatagok (reg), a szélformálta dűnék és a sivatagi medencék.",
+      "factsAdvanced": [
+        "A sivatagot éles, száraz, kavicsos síkságok és vándorló homokdűnék keveréke alkotja.",
+        "A régiót a Ras Koh hegység és a Chagai-dombság sziklás vonulatai szegélyezik.",
+        "A Kharán területén található a kiterjedt Hamun-i-Mashkel, Pakisztán legnagyobb lefolyástalan sós tava.",
+        "A felszín erózióját nagyrészt az extrém forró, sebesen fújó sivatagi szelek végzik.",
+        "A domborzat nagy része növényzet nélküli, klasszikus 'holdbéli' kősivatag.",
+        "A sivatag geológiai adottságait használták ki 1998-ban az első pakisztáni nukleáris tesztek során."
+      ]
+    },
+    {
+      "id": "himalaya-range-pakistan-relief-v2",
+      "descriptionAdvanced": "A Himalája-hegység pakisztáni (nyugati) szakasza egy kaotikus, drámai tektonikai zóna, ahol a hegylánc hatalmas erővel északi és nyugati irányba hajlik (a híres Nanga Parbat szintaxisa). Ellentétben Nepál himalájai domborzatával, itt a hegyek hirtelen, rendkívüli meredekséggel emelkednek ki az indus-völgyi síkságból. A pakisztáni Himalája láncait sűrű, mély V-alakú szurdokvölgyek (mint a Kaghan vagy a Neelum völgy) szabdalják, amelyeket gyors sodrású hegyi folyók vájtak be a kőzetbe évmilliók alatt. A régiót sűrű erdők borítják a hóhatárig, és geológiailag a lemezütközés legaktívabb pontjai közé tartozik, amit az állandó, apró földrengések is jeleznek. Földrajz K8 — a hegységképződés (orogenezis), a tektonikai törésvonalak és a szurdokvölgyek.",
+      "factsAdvanced": [
+        "A pakisztáni Himalája legmagasabb pontja és egyben a vonulat nyugati bástyája a Nanga Parbat (8126 m).",
+        "A régió domborzatát extrém függőleges szintkülönbségek és szűk, gyors folyású szurdokok jellemzik.",
+        "A terület a Main Boundary Thrust (MBT) törésvonal felett fekszik, a lemeztektonika legaktívabb zónája.",
+        "A hegyoldalak alsóbb, lankásabb részeit vastag himalájai kékfenyő (blue pine) erdők védik a sárlavináktól.",
+        "Itt található a gyönyörű Kaghan-völgy és a Kasmírba nyúló Neelum-völgy is.",
+        "A hegyek meredeksége miatt a kőomlások (landslides) a monszun idején folyamatosan átalakítják a tájat."
+      ]
+    },
+    {
+      "id": "sonmiani-bay-coast-relief-v2",
+      "descriptionAdvanced": "A Sonmiani-öböl partvidéke (Karacsitól északnyugatra) Pakisztán egyik legváltozatosabb tengerparti domborzata, amely a Miani Hor nevű hatalmas, sekély lagúnarendszert foglalja magába. Az Arab-tenger erős árapálya egy kiterjedt, finom homokból álló gátrendszert (homokturzást) és dűnesort épített a part mentén, amely elzárja a sekély, sós mocsaras lagúnát a nyílt tengertől. A lagúna belső, védett területein hatalmas, sárba gyökerező mangroveerdők alakultak ki, míg a belső domborzat száraz, sivatagos síkságokba megy át. A Sonmiani domborzata tankönyvbe illő példája a tengeráramlatok és a folyami hordalék (a Porali-folyó) építő munkájának (akkumuláció). Földrajz K8 — a tengerparti akkumuláció, a lagúnák és a mangrovemocsarak.",
+      "factsAdvanced": [
+        "Az öböl domborzatát a nyílt tengertől elzárt sekély vizű Miani Hor lagúna uralja.",
+        "A partvonalat folyamatosan vándorló, tengeri szél építette homokdűnék (turzások) védik.",
+        "A lagúnába ömlő Porali-folyó hordaléka táplálja a sűrű iszapos tengerfeneket.",
+        "Ez Pakisztán egyetlen olyan régiója, ahol három különböző mangrovefafaj (pl. Avicennia marina) is megél.",
+        "A finom homokos strand (Somiani Beach) domborzata lassan mélyül, így ideális a tengeri teknősök fészkeléséhez.",
+        "A területhez közel található a Pakisztáni Űrügynökség (SUPARCO) rakétakilövő bázisa is."
+      ]
+    },
+    {
+      "id": "hindu-kush-range-pakistan-relief-v2",
+      "descriptionAdvanced": "A Hindukus-hegység (amelynek neve perzsául 'Hindu-gyilkost' jelent) Pakisztán északnyugati határrégióját uralja, és földrajzilag egy zord, meredek gerincekkel és mély, sötét szurdokvölgyekkel szabdalt kőtenger. Ellentétben a Himalájával, a Hindukus sokkal kevesebb növényzettel rendelkezik (száraz, arid domborzat), a kőzetek pedig (gránit, pala, mészkő) a szélsőséges hőingadozás miatt hatalmas törmelékmezőkké töredeznek a hegyek lábánál. A hegység legmagasabb pontjai a pakisztáni Chitral régióban találhatók, ahol a 7000 méteres csúcsok, mint a Tirich Mir és a Noshaq, gigantikus jégsapkákat hordanak, míg alattuk az éles gerinceken a fagyaprózódás a legfőbb felszínformáló erő. Földrajz K8 — a fagyaprózódás, az arid hegységek és a törmelékkúpok.",
+      "factsAdvanced": [
+        "A hegység a Pamír-csomóból ered, és délnyugat felé terül el Pakisztán és Afganisztán határán.",
+        "A pakisztáni szakasz legmagasabb csúcsa az 7708 méter magas Tirich Mir masszívum.",
+        "A domborzatát mély, árnyékos szurdokok ('gol'-ok) és omladékos, éles hegygerincek uralják.",
+        "A Karakorumhoz képest kevesebb a gleccser, de a sziklaomlás és a fagyaprózódás sokkal intenzívebb.",
+        "A száraz, csapadékhiányos környezet miatt a völgyek gyakran holdbéli kősivatagokhoz hasonlítanak.",
+        "A hegyvonulatok között megbúvó elzárt völgyekben élnek az ősi kalash népcsoport tagjai (Kalash-völgyek)."
+      ]
+    },
+    {
+      "id": "neelum-valley-relief-v2",
+      "descriptionAdvanced": "A Neelum-völgy egy több mint 200 kilométer hosszú, kanyargós és rendkívül mély szurdokvölgy Azad Kasmír területén. A V-alakú völgyet a zöld, jéghideg vizű Neelum-folyó vájta ki a Himalája sűrű erdővel borított szikláiból. A domborzat itt festői: a folyó két oldalán lévő hegyoldalak szinte függőlegesek, és vastag kékfenyő- és cédruserdők (tűlevelű erdők) kapaszkodnak rajtuk, megelőzve az eróziót. Ahogy a völgy északkelet felé, Taobat irányába emelkedik, a völgytalp kiszélesedik, és lankásabb, fűvel borított alpesi rétekkel tarkított tájjá (Taobat és Kel környéke) változik. A folyó képezi a természetes kontrollvonalat (Line of Control) Pakisztán és India között ezen a szakaszon. Földrajz K8 — a fluviális (folyóvízi) erózió, a V-alakú völgyek és az alpesi erdőségek.",
+      "factsAdvanced": [
+        "A Neelum-völgy Azad Kasmír legnagyobb és legfestőibb folyóvölgye, formáját a sebes folyó eróziója alakította.",
+        "A völgy mély V-alakú szurdok, melynek oldalait sűrű himalájai tűlevelű erdők borítják.",
+        "Télen a meredek lejtők és a bőséges hóesés miatt gyakoriak a völgyet elzáró hólavinák.",
+        "Az északi, magasabb szakaszainál (Taobat) az erdők ritkulnak, és a táj glaciális, U-alakú formákat ölt.",
+        "A Neelum-folyó kristálytiszta kékesszürke vize éles kontrasztot alkot a sötétzöld erdőkkel.",
+        "A területen számos lépcsőzetesen épült hegyi falu található (pl. Arang Kel), amelyek drótkötélpályákon közelíthetők meg."
+      ]
+    },
+    {
+      "id": "broad-peak-mountain-relief-v2",
+      "descriptionAdvanced": "A Broad Peak (8051 méter) a világ 12. legmagasabb hegye, a Baltoro-gleccser mentén, a Karakorum-hegység szívében emelkedik, mindössze 8 kilométerre a K2-től. Neve ('Széles Csúcs') tökéletesen leírja domborzati formáját: szemben a K2 piramisával, a Broad Peak egy masszív, közel 1,5 kilométer hosszú, vízszintes csúcsgerinccel rendelkezik. Ez az óriási, falként elnyúló hegytömeg drámai lejtőkkel szakad le az alatta lévő Godwin-Austen gleccserre. A csúcsgerinc annyira egyenletesen széles, hogy a hegymászók gyakran nehezen tudják megkülönböztetni a valódi (legmagasabb) főcsúcsot az alig méterekkel alacsonyabb előcsúcsoktól. A jégsapkák és jégtornyok (seracok) súlya alatt a hegy északi és nyugati falai állandóan omlanak. Földrajz K8 — a hegygerincek kiterjedése, a tömegvonzás hatásai és a jégomlások.",
+      "factsAdvanced": [
+        "A Broad Peak a Föld 12. legmagasabb hegye, a Karakorum négy nyolcezresének egyike.",
+        "Nevét W.M. Conway brit hegymászótól kapta a több mint egy mérföld hosszú csúcsgerince miatt.",
+        "Geológiája hasonló a szomszédos K2-höz: metamorf kristályos kőzetek (gránit, gneisz) alkotják.",
+        "A hosszú csúcsgerinc miatt a valódi (fő) csúcs megtalálása gyakran optikai illúziókba ütközik.",
+        "A hegy nyugati sziklafala a Concordia nevű glaciális találkozási pontra (Baltoro-gleccser) néz.",
+        "1957-ben egy osztrák csapat mászta meg először, oxigénpalackok használata nélkül."
+      ]
+    },
+    {
+      "id": "kaghan-valley-relief-v2",
+      "descriptionAdvanced": "A Kaghan-völgy a pakisztáni Himalája egyik klasszikus, lépcsőzetesen emelkedő alpesi völgye, amelyet a Kunhar-folyó vájt ki évmilliók alatt. A völgy domborzata Balakot városánál, alig ezer méteres magasságban lankás, zöldellő hegyoldalakkal indul. Észak felé, Naran és a Babusar-hágó (4173 méter) irányába haladva a völgy drámaian beszűkül, a hegyoldalak függőleges sziklafalakká válnak, és feltűnnek a jégkorszak által hagyott glaciális formák: a tengerszemek (mint a Saif-ul-Maluk) és a morénák. A völgy éghajlata a magassággal párhuzamosan változik, a szubtrópusi fenyvesektől a magashegyi, fátlan alpesi tundráig, tökéletes keresztmetszetet adva a himalájai tájalkotásnak. Földrajz K8 — a magassági övezetek (vertikális zonalitás), a folyóvölgyek és a hágók kialakulása.",
+      "factsAdvanced": [
+        "A völgy mintegy 160 kilométer hosszú, és a Mansehra körzetből egészen a Babusar-hágóig tart.",
+        "Geomorfológiáját a Kunhar-folyó (gyakran 'Könnyek Folyójának' is hívják) eróziója alakította.",
+        "A domborzat magassági profilja rendkívül gyorsan növekszik: a trópusi klímából (Balakot) a fagyos magashegyibe (Lulusar).",
+        "A völgy oldalában lévő katlanokban glaciális tavak bújnak meg (Saif-ul-Maluk, Dudipatsar, Lulusar).",
+        "A Babusar-hágó egy klasszikus hegyi nyereg, amely összeköti Kaghant a Gilgitbe vezető úttal.",
+        "A meredek hegyoldalak és a sok eső miatt a völgy gyakran szenved a monszun okozta földcsuszamlásoktól."
+      ]
+    }
+  ]
+}

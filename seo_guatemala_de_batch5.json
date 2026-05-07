@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gt-dairy-processing-industry-economic-v2",
+      "descriptionAdvanced": "Die Milchverarbeitung ist ein wachsender, stark modernisierter Industriezweig in Guatemala. Während in der Vergangenheit kleine, lokale Höfe ('Fincas') den Großteil der frischen Milch in Aluminiumkannen lieferten, beherrschen heute hochtechnologisierte Konzerne (wie Trebolac oder die costa-ricanische Dos Pinos) den Markt. Die Rohmilch wird in riesigen Kühlwagen aus den Rinderzuchtgebieten des Petén, Jutiapa und der Südküste in die modernen Verarbeitungsanlagen rund um Guatemala-Stadt transportiert. Dort wird die Milch pasteurisiert, ultrahocherhitzt (UHT) und in Tetra Paks abgefüllt, um ohne Kühlung im tropischen Klima haltbar zu sein. Neben Trinkmilch ist die Produktion von saurer Sahne ('Crema') und frischem Weißkäse ('Queso Fresco') ein gigantisches Geschäft, da diese in keinem guatemaltekischen Frühstück fehlen dürfen. Landwirtschaft K6 — Moderne Milchwirtschaft.",
+      "factsAdvanced": [
+        "Die UHT-Technologie (Tetra Pak) ist entscheidend für den Milchvertrieb im heißen Klima.",
+        "Trebolac und Dos Pinos gehören zu den größten Molkereien Zentralamerikas.",
+        "Saure Sahne (Crema) ist eines der am meisten konsumierten Milchprodukte im Land.",
+        "Die industrielle Milchproduktion bezieht Rohmilch aus bis zu 400 Kilometern Entfernung.",
+        "Viele Anlagen produzieren auch Säfte und Joghurts für den Export.",
+        "Lokale Kleinbauern organisieren sich zunehmend in Genossenschaften, um die Industrie zu beliefern."
+      ]
+    },
+    {
+      "id": "gt-auto-parts-industry-economic-v2",
+      "descriptionAdvanced": "Die Autoteile-Industrie in Guatemala ist eine hochspezialisierte Nischenbranche, die jedoch eine wichtige Rolle im zentralamerikanischen Markt spielt. Obwohl in Guatemala keine kompletten Fahrzeuge montiert werden, haben sich im Industrie-Gürtel südlich der Hauptstadt Unternehmen auf die Produktion von Ersatzteilen und Komponenten spezialisiert. Einer der stärksten Zweige ist die Herstellung von Autobatterien (wie Acumuladores Iberia oder Victor), die extrem aufwendig recycelt und neu produziert werden. Daneben gibt es in den Freihandelszonen kleine Montageanlagen für Kabelbäume ('Arneses Eléctricos'), die als Zulieferer für die mexikanische und amerikanische Autoindustrie fungieren. Dieser Sektor profitiert von den logistischen Verbindungen zu den USA und dem großen inländischen Bedarf an Ersatzteilen für die unzähligen Gebrauchtwagen im Land. Wirtschaft K8 — Regionale Lieferketten.",
+      "factsAdvanced": [
+        "Guatemala exportiert große Mengen an recycelten und neu produzierten Autobatterien.",
+        "Es gibt keine Produktionsanlagen für vollständige Personenkraftwagen im Land.",
+        "Einige Freihandelszonen montieren Kabelbäume für den Export nach Mexiko.",
+        "Das Recycling von Blei aus alten Batterien ist ein wichtiger Teil dieser Industrie.",
+        "Die hohe Anzahl an US-Gebrauchtwagen im Land treibt den internen Markt für Ersatzteile an.",
+        "Spezialisierte Metallwerkstätten stellen auch Karosserieaufbauten für lokale Busse (Chicken Buses) her."
+      ]
+    },
+    {
+      "id": "gt-concrete-batching-industry-economic-v2",
+      "descriptionAdvanced": "Die extrem hohe Erdbebengefahr in Guatemala macht massiven Stahlbeton zum unverzichtbaren Baustoff für jedes neue Gebäude, von der einfachen Mauer bis zum Hochhaus. Diese Nachfrage wird durch riesige Betonmischwerke (wie Mixto Listo) bedient, die sich strategisch an den Rändern der wachsenden Metropolen (Guatemala-Stadt, Quetzaltenango, Escuintla) positioniert haben. Flotten von Hunderten schwerer Betonmischer-Lkw prägen das tägliche Straßenbild, wenn sie den frischen, noch flüssigen Beton auf die endlosen Baustellen der Stadt transportieren. Diese Industrie erfordert eine logistische Meisterleistung, da der Beton im Stau der Hauptstadt oft zu binden droht und Verzögerer-Chemikalien beigemischt werden müssen. Der verwendete Zement und der Vulkansand stammen dabei fast ausschließlich aus lokaler, nationaler Produktion. Bauwesen K7 — Baustoffe in Erdbebenzonen.",
+      "factsAdvanced": [
+        "Mischbeton ist aufgrund der strengen guatemaltekischen Erdbebennormen allgegenwärtig.",
+        "Das Unternehmen Mixto Listo betreibt eine der größten Betonmischer-Flotten Zentralamerikas.",
+        "Die Mischwerke nutzen großen Mengen an lokal abgebautem Vulkansand (Arena Blanca).",
+        "Der Verkehr in Guatemala-Stadt erfordert den ständigen Einsatz chemischer Verzögerer im Beton.",
+        "Die städtische vertikale Expansion (Hochhäuser) ist der größte Treiber dieser Industrie.",
+        "Der Markt wird von Tochterunternehmen des Cementos Progreso-Konzerns stark beeinflusst."
+      ]
+    },
+    {
+      "id": "gt-tire-retreading-industry-economic-v2",
+      "descriptionAdvanced": "Aufgrund des rauen Geländes, der vielen unbefestigten Straßen ('Terrecería') und der hohen Kosten für importierte Neureifen hat sich in Guatemala eine gewaltige Industrie für die Runderneuerung von Reifen (Reencauche) etabliert. Großunternehmen wie Vifrio dominieren diesen Sektor. In industriellen Anlagen in Guatemala-Stadt und Escuintla werden die abgefahrenen Profile von riesigen Lkw- und Bus-Reifen mechanisch abgetragen. Anschließend wird unter Hitze und enormem Druck eine völlig neue Gummilauffläche auf die alte Karkasse vulkanisiert. Dies rettet nicht nur Millionen von Quetzales an Transportkosten für die landesweiten Flotten von Fracht-Lkw und 'Chicken Bussen', sondern verhindert auch, dass jährlich hunderttausende Reifen auf Mülldeponien landen oder verbrannt werden. Wirtschaft K7 — Recycling und Transportökonomie.",
+      "factsAdvanced": [
+        "Die Runderneuerung von Lkw-Reifen spart Transportunternehmen bis zu 50 % der Kosten.",
+        "Vulkanisieranlagen nutzen moderne Heiß- und Kaltverfahren für die neue Profilierung.",
+        "Die berüchtigten 'Chicken Buses' fahren fast ausschließlich mit runderneuerten Reifen.",
+        "Die Industrie reduziert massiv die Umweltbelastung durch weggeworfene Altreifen.",
+        "Das Gummi-Material für die neuen Laufflächen wird größtenteils importiert.",
+        "Schlechte Straßenverhältnisse in ländlichen Gebieten machen dicke, erneuerte Profile überlebenswichtig."
+      ]
+    },
+    {
+      "id": "gt-glass-factory-industry-economic-v2",
+      "descriptionAdvanced": "Die guatemaltekische Glasindustrie ist ein technologisches Glanzstück und wird fast monopolartig von der Grupo VICAL (Vidriera Guatemalteca) kontrolliert. Die riesigen Schmelzöfen, die sich nahe Guatemala-Stadt befinden, laufen 24 Stunden am Tag bei über 1.500 Grad Celsius. Die Fabriken produzieren fast alle Glasflaschen für die dominierenden Getränkemarken Zentralamerikas, von der berühmten Gallo-Bierflasche über Rumflaschen (Zacapa) bis hin zu Coca-Cola. Bemerkenswert ist der extrem hohe Anteil an recyceltem Altglas (Scherben), das im ganzen Land gesammelt, eingeschmolzen und der Produktion wieder zugeführt wird. Diese Anlage ist der größte Glasproduzent in Mittelamerika und ein Musterbeispiel für eine funktionierende Kreislaufwirtschaft in einer Region, die oft mit Müllproblemen kämpft. Chemie K8 — Industrielle Glasschmelze und Recycling.",
+      "factsAdvanced": [
+        "VICAL betreibt die größten und modernsten Glasschmelzöfen ganz Zentralamerikas.",
+        "Die Öfen laufen ununterbrochen und nutzen recyceltes Altglas als Hauptrohstoff.",
+        "Die Anlage produziert Glasflaschen für fast alle großen Brauereien der Region.",
+        "Glasrecycling ist in Guatemala aufgrund der Nachfrage dieser Fabrik hochgradig organisiert.",
+        "Der Sand (Quarz), der für die Herstellung von Neuglas benötigt wird, stammt meist aus Importen.",
+        "Die Fabrik exportiert leere Glasbehälter bis in die Karibik und nach Südamerika."
+      ]
+    },
+    {
+      "id": "gt-warehouse-logistics-port-economic-v2",
+      "descriptionAdvanced": "Die Autobahn CA-9 Süd (Ruta al Pacífico) zwischen Villa Nueva, Amatitlán und Palín ist das unbestrittene logistische Rückgrat Guatemalas. Auf diesem kurzen Abschnitt haben sich in den letzten Jahrzehnten gigantische Lager- und Logistikzentren (Centros de Distribución) angesiedelt. Supermarktketten wie Walmart, La Torre und unzählige Importeure betreiben hier Lagerhallen von der Größe dutzender Fußballfelder. Von hier aus werden täglich Hunderte von Lkw beladen, um Konsumgüter in jeden Winkel des Landes zu verteilen. Die strategische Lage ist perfekt gewählt: Sie liegt auf halbem Weg zwischen dem Haupthafen (Puerto Quetzal) am Pazifik und dem größten Konsumentenmarkt, der Hauptstadt. Dieser Logistik-Boom hat Palín und Amatitlán drastisch urbanisiert und wertvolles Ackerland in Betonlandschaften verwandelt. Wirtschaft K8 — Logistiknetzwerke und Versorgung.",
+      "factsAdvanced": [
+        "Der Korridor Amatitlán-Palín beherbergt die größten Logistikzentren Zentralamerikas.",
+        "Von hier aus verteilen Supermarkt-Giganten wie Walmart ihre Waren landesweit.",
+        "Die Lagerhallen profitieren von der direkten Anbindung an den Hafen Puerto Quetzal.",
+        "Tausende Menschen arbeiten in der Kommissionierung und dem Lkw-Transport.",
+        "Strenge Sicherheitsmaßnahmen (Zäune und bewaffnete Wachen) prägen diese Logistik-Parks.",
+        "Die Ansiedlung der Hallen führt zu massivem Verlust von landwirtschaftlicher Fläche."
+      ]
+    },
+    {
+      "id": "gumarcaaj-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Q'umarkaj (oft auch Utatlán genannt) liegen nur wenige Kilometer von Santa Cruz del Quiché entfernt. Vor der Ankunft der Spanier war diese Festungsstadt das absolute politische und militärische Zentrum des mächtigen K'iche'-Reiches, das große Teile des heutigen Guatemalas kontrollierte. Im Jahr 1524 eroberte der spanische Konquistador Pedro de Alvarado die Stadt. Um einen Aufstand zu verhindern, ließ er die K'iche'-Könige Oxib' Keh und Beleheb' Tzy bei lebendigem Leibe verbrennen und brannte die gesamte Stadt nieder. Heute bestehen die Ruinen hauptsächlich aus grasbewachsenen Hügeln und steinernen Fundamenten, die den zentralen Platz und die Tempel markieren. Der Ort ist bis heute heilig; tief im Untergrund befindet sich eine Höhle, in der K'iche'-Priester unaufhörlich Zeremonien abhalten und Feuer brennen lassen. Geschichte K8 — Der Untergang des K'iche'-Reiches.",
+      "factsAdvanced": [
+        "Q'umarkaj war die Hauptstadt des expansiven K'iche'-Reiches in der postklassischen Maya-Periode.",
+        "Pedro de Alvarado zerstörte die Stadt im Jahr 1524 durch Brandstiftung vollständig.",
+        "Die Festung war strategisch auf einem von tiefen Schluchten (Barrancos) umgebenen Plateau erbaut.",
+        "Unter dem Hauptplatz befindet sich ein Tunnel, der intensiv für Rituale genutzt wird.",
+        "Die Ruinen werden heute noch für spirituelle Zeremonien nach dem Tzolk'in-Kalender genutzt.",
+        "Viele Steine der Ruinen wurden später genutzt, um das nahe Santa Cruz del Quiché zu bauen."
+      ]
+    },
+    {
+      "id": "batalla-de-quetzaltenango-history-v2",
+      "descriptionAdvanced": "Die legendäre Schlacht auf den Ebenen von Olintepeque bei Quetzaltenango im Februar 1524 ist der defining moment der guatemaltekischen Kolonialgeschichte. Hier stieß die hochgerüstete spanische Kavallerie unter Pedro de Alvarado, unterstützt von Tlaxcalteken-Söldnern aus Mexiko, auf die massive Verteidigungsarmee des K'iche'-Kriegsherrn Tecún Umán. Laut den indigenen Chroniken und Legenden kam es zum direkten Zweikampf, in dem Tecún Umán Alvarados Pferd enthauptete, bevor Alvarado ihn mit einem Speer durchbohrte. Der Legende nach tränkte das Blut Tecún Umáns die Brust eines fliegenden Quetzal-Vogels rot. Sein Tod markierte den militärischen Zusammenbruch des K'iche'-Widerstands. Heute wird Tecún Umán als offizieller Nationalheld Guatemalas verehrt, und die blutige Schlacht bleibt ein zentrales Thema in der nationalen Identität. Geschichte K8 — Die Eroberung Mesoamerikas.",
+      "factsAdvanced": [
+        "Die Schlacht fand im Jahr 1524 auf den weiten Ebenen nahe Xelajú (Quetzaltenango) statt.",
+        "Pedro de Alvarado besiegte hier die K'iche'-Armee unter Führung von Tecún Umán.",
+        "Tecún Umán wurde nach seinem Tod zum offiziellen Nationalhelden (Héroe Nacional) erklärt.",
+        "Die Übermacht der spanischen Pferde und Schusswaffen entschied das ungleiche Gefecht.",
+        "Die Legende besagt, dass der Xequijel-Fluss nach der Schlacht rot vom Blut war.",
+        "Alvarados einheimische Söldner aus Tlaxcala spielten eine entscheidende Rolle beim Sieg."
+      ]
+    },
+    {
+      "id": "ceibal-ruins-history-v2",
+      "descriptionAdvanced": "Tief im Dschungel des Departamentos Petén, verborgen an den Ufern des Río La Pasión, liegt die archäologische Stätte Ceibal (oder Seibal). Ceibal war eine der größten Städte der Maya in der klassischen Periode und erlebte eine ungewöhnliche Blütezeit im späten 9. Jahrhundert, als viele andere Maya-Städte bereits im mysteriösen Zusammenbruch (dem sogenannten 'Kollaps') begriffen waren. Die Stadt ist vor allem berühmt für ihre exquisiten und außerordentlich detaillierten Stelen (Steinsäulen). Diese Monumente zeigen fremdartige Herrscher mit untypischen Gesichtszügen, die offenbar starke Einflüsse aus Zentralmexiko oder der Golfküste mitbrachten. Eine weitere Besonderheit der Stätte ist ein einzigartiges rundes Observatorium. Heute umgibt Ceibal ein geschützter Nationalpark, in dem Brüllaffen und Tukane die Ruinen bevölkern. Geschichte K8 — Die späte klassische Maya-Zeit.",
+      "factsAdvanced": [
+        "Ceibal erlebte seinen größten Aufschwung um das Jahr 850 n. Chr., während andere Städte fielen.",
+        "Die Stätte ist berühmt für über 40 sehr detailliert erhaltene Steinstelen.",
+        "Die Monumente zeigen oft Krieger und Herrscher mit deutlichen, fremdartigen (mexikanischen) Einflüssen.",
+        "Die Stadt liegt strategisch an den Ufern des als Handelsroute wichtigen Flusses La Pasión.",
+        "Ein seltenes architektonisches Highlight ist ein kreisrunder Tempel (Struktur 79).",
+        "Das Ausgrabungsgelände ist heute als Kultur- und Naturerbe streng geschützt."
+      ]
+    },
+    {
+      "id": "dos-pilas-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Dos Pilas, verborgen in der Region Petexbatún im Süden des Petén, erzählen eine der dunkelsten und gewalttätigsten Episoden der Maya-Geschichte. Die Stadt wurde um 629 n. Chr. von Herrschern aus der mächtigen Stadt Tikal als militärischer Außenposten gegründet. Kurze Zeit später wandte sich der König von Dos Pilas jedoch gegen seine eigene Heimatstadt, verbündete sich mit Tikals Erzfeind Calakmul und stürzte die Region in verheerende, jahrzehntelange Kriege. Zahlreiche Hieroglyphen-Treppen berichten von glorreichen Siegen und den grausamen Hinrichtungen gefangener Könige. Der ständige Kriegszustand führte schließlich zum völligen ökologischen und sozialen Kollaps der Region um 760 n. Chr., weshalb hastig errichtete, defensive Steinmauern mitten über die prachtvollen Paläste der Stadt gezogen wurden. Geschichte K8 — Kriege im Maya-Reich.",
+      "factsAdvanced": [
+        "Dos Pilas wurde im 7. Jahrhundert von Auswanderern der Großmacht Tikal gegründet.",
+        "Die Stadt führte jahrzehntelange blutige Kriege gegen ihre eigene Gründerstadt Tikal.",
+        "Die berühmte 'Hieroglyphen-Treppe 2' beschreibt detailliert die Eroberungszüge der Könige.",
+        "Dos Pilas war das Zentrum des kurzlebigen, aber mächtigen Petexbatún-Königreichs.",
+        "Das Königreich brach um das Jahr 760 n. Chr. durch endlose Kriege katastrophal zusammen.",
+        "Hastig erbaute Schutzmauern auf den Plätzen der Stadt zeugen von der finalen Belagerung."
+      ]
+    },
+    {
+      "id": "convento-de-santo-domingo-history-v2",
+      "descriptionAdvanced": "Das Convento de Santo Domingo in Antigua Guatemala war während der spanischen Kolonialzeit das größte und wohlhabendste Kloster Zentralamerikas. Die Dominikanermönche, die es im 16. Jahrhundert errichteten, kontrollierten von hier aus riesige Ländereien, Krankenhäuser und die erste theologische Universität der Region. Das verheerende Erdbeben von Santa Marta im Jahr 1773 verwandelte die gigantische Anlage jedoch in eine ausgedehnte Ruinenlandschaft, die jahrhundertelang verlassen blieb. In den 1990er Jahren wurde ein ehrgeiziges Restaurierungsprojekt gestartet: Heute sind die spektakulären Ruinen, tiefen Krypten und dicken Steinmauern nahtlos in ein luxuriöses Fünf-Sterne-Hotel und mehrere Museen (für präkolumbische Kunst, Kolonialkunst und Glas) integriert. Dieser Ort symbolisiert wie kaum ein anderer den Übergang von kolonialer Zerstörung zu moderner Erhaltung. Architektur K7 — Koloniale Ruinen und Wiederaufbau.",
+      "factsAdvanced": [
+        "Das Dominikanerkloster war einst das größte religiöse Zentrum in ganz Mittelamerika.",
+        "Das Erdbeben von 1773 zerstörte das gigantische Bauwerk bis auf die Grundmauern.",
+        "Die Mönche von Santo Domingo gründeten die erste theologische Universität in der Kolonie.",
+        "Heute sind die Ruinen teilweise in das luxuriöse Hotel 'Casa Santo Domingo' integriert.",
+        "Das Gelände beherbergt eine wertvolle Sammlung von Maya-Keramik und kolonialem Silber.",
+        "In den freigelegten Krypten (Katakomben) unter den Ruinen wurden menschliche Gebeine gefunden."
+      ]
+    },
+    {
+      "id": "el-baul-stelae-history-v2",
+      "descriptionAdvanced": "Versteckt inmitten endloser Zuckerrohrfelder in Santa Lucía Cotzumalguapa (Escuintla) liegen die Ruinen und Steinskulpturen von El Baúl. Die Stätte war in der späten klassischen Periode das Zentrum der Cotzumalhuapa-Kultur, einer rätselhaften Gesellschaft, die starke Verbindungen nach Zentralmexiko (Pipil oder Nahuatl) aufwies, sich aber mitten im Maya-Gebiet befand. Die massiven Steingesichter und Stelen, die in El Baúl gefunden wurden, zeigen Krieger, Menschenopfer und Gottheiten, die stark von der klassischen Maya-Kunst abweichen und oft eckigere, raue Gesichtszüge haben. Die Stätte ist keine tote archäologische Zone: Jeden Tag kommen Hunderte von Maya-Gläubigen, um an den rauchenden und von Kerzen geschwärzten antiken Steinmonumenten rituelle Opferungen und Gebete durchzuführen. Geschichte K8 — Die Cotzumalhuapa-Kultur.",
+      "factsAdvanced": [
+        "El Baúl war das Hauptzentrum der rätselhaften Cotzumalhuapa-Kultur in der Pazifikebene.",
+        "Die Steinskulpturen weisen massive Einflüsse aus Zentralmexiko und der Golfküste auf.",
+        "Die archäologische Zone liegt direkt auf dem Privatgelände großer Zuckerrohrplantagen.",
+        "Zahlreiche Stelen zeigen detaillierte Darstellungen von Ballspielen und rituellen Opferungen.",
+        "Das Hauptmonument ('El Dios Mundo') wird bis heute intensiv für Feuer-Rituale genutzt.",
+        "Die Blütezeit der Stadt lag zwischen dem 7. und 10. Jahrhundert n. Chr."
+      ]
+    },
+    {
+      "id": "sitio-arqueologico-la-blanca-history-v2",
+      "descriptionAdvanced": "La Blanca, im unteren Tal des Río Mopán im Departamento Petén gelegen, ist eine archäologische Stätte aus der klassischen Maya-Periode, die durch ihre beeindruckenden architektonischen Dimensionen besticht. Die Stadt diente wahrscheinlich als wichtiges Verwaltungs- und Handelszentrum an den Handelsrouten nach Belize. Besonders bemerkenswert ist die Struktur 3, ein gewaltiger, rechteckiger Palastkomplex (Akropolis), der mit massiven, perfekt behauenen Kalksteinblöcken errichtet wurde, deren Qualität selbst die Bauten im nahen Tikal übertrifft. Die Innenwände der Paläste sind mit Graffiti aus der Maya-Zeit übersät, in denen Besucher und Bewohner vor über tausend Jahren Tiere, Gebäude und Tempel in den weichen Putz ritzten. Die Stätte wird seit Jahren intensiv von spanischen Archäologen restauriert. Architektur K8 — Maya-Paläste und Baukunst.",
+      "factsAdvanced": [
+        "La Blanca erlebte seine architektonische Blütezeit am Ende der klassischen Maya-Periode.",
+        "Die Akropolis der Stadt wurde aus ungewöhnlich großen, exakt behauenen Steinblöcken errichtet.",
+        "Die Innenwände der alten Räume sind voller historischer Graffiti aus der Maya-Zeit.",
+        "Die Stadt diente als strategischer Kontrollpunkt an der Flussroute in Richtung Karibik.",
+        "Die Ausgrabungen werden von einem spanisch-guatemaltekischen Archäologen-Team geleitet.",
+        "Nach dem Kollaps im 9. Jahrhundert wurde die Anlage nie wieder dauerhaft besiedelt."
+      ]
+    },
+    {
+      "id": "takalik-abaj-ruins-history-v2",
+      "descriptionAdvanced": "Der Nationalpark Tak'alik Ab'aj, gelegen inmitten feuchter Kaffeeplantagen in Retalhuleu, ist eine der wichtigsten archäologischen Stätten Mesoamerikas. Seine Bedeutung liegt in seiner Rolle als chronologische und kulturelle Brücke: Die Stätte zeigt den perfekten, schrittweisen Übergang von der älteren, mexikanischen Olmeken-Kultur zur frühen Maya-Zivilisation. Die massiven, runden 'Fettwanst'-Statuen (Barrigones) und detailliert geschnitzten Stelen dokumentieren diesen kulturellen Wandel. Tak'alik Ab'aj war ein boomendes Wirtschaftszentrum, das den lukrativen Handel mit Kakao und Obsidian entlang der Pazifikküste dominierte. Neben den Steindenkmälern wurden hier auch Gräber von Herrschern gefunden, die mit tausenden von grünen Jadeperlen geschmückt waren. Im Jahr 2023 wurde die Stätte stolz in die Liste des UNESCO-Weltkulturerbes aufgenommen. Geschichte K8 — Der Übergang von Olmeken zu Maya.",
+      "factsAdvanced": [
+        "Die Stätte belegt den direkten Übergang von der Olmeken- zur Maya-Kultur (Präklassik).",
+        "Tak'alik Ab'aj wurde im September 2023 zum UNESCO-Weltkulturerbe erklärt.",
+        "Die Stadt dominierte den lukrativen Handel entlang der pazifischen Küstenroute.",
+        "Zahlreiche dicke, olmekenartige Steinköpfe (Barrigones) wurden hier ausgegraben.",
+        "In einem ungestörten Königsgrab fand man eine gewaltige Anzahl von unbezahlbarem Jadeschmuck.",
+        "Die Stätte ist bis heute ein aktiver Pilgerort für spirituelle Maya-Zeremonien."
+      ]
+    },
+    {
+      "id": "palacio-del-ayuntamiento-antigua-history-v2",
+      "descriptionAdvanced": "Der 'Palacio del Ayuntamiento', das Rathaus von Antigua Guatemala, ist eines der ikonischsten Gebäude der alten Kolonialhauptstadt. Es liegt direkt am zentralen Park (Parque Central) und beeindruckt durch seine dicken, zweistöckigen, massiven Steinbögen (Arquerías), die entworfen wurden, um den ständigen Erdbeben der Region standzuhalten. Das im 18. Jahrhundert errichtete Gebäude diente nicht nur als Sitz der kolonialen Stadtverwaltung (Cabildo), sondern beherbergte auch das städtische Gefängnis. Historisch von enormer Bedeutung: Im Jahr 1660 wurde in den Mauern dieses Gebäudes die erste Druckerpresse Zentralamerikas installiert, was Antigua zur vierten Stadt auf dem amerikanischen Kontinent machte, in der Bücher gedruckt wurden. Heute beherbergt das Rathaus die Gemeindeverwaltung sowie das 'Museo del Libro Antiguo' und das Waffenmuseum. Architektur K7 — Koloniale Regierungsgebäude.",
+      "factsAdvanced": [
+        "Das Gebäude wurde im Jahr 1743 fertiggestellt und ist erdbebensicher mit extrem dicken Wänden gebaut.",
+        "Die Fassade wird durch charakteristische, zweistöckige steinerne Bogengänge (Arquerías) dominiert.",
+        "Es beherbergte einst die erste funktionierende Druckerpresse in ganz Zentralamerika (1660).",
+        "Heute befindet sich im Gebäude das Museum für alte Bücher (Museo del Libro Antiguo).",
+        "Das alte koloniale Gefängnis der Stadt war in den dicken Kellermauern des Rathauses untergebracht.",
+        "Trotz des massiven Erdbebens von 1773 blieb das Gebäude in seiner Grundstruktur erhalten."
+      ]
+    },
+    {
+      "id": "batalla-de-la-arada-history-v2",
+      "descriptionAdvanced": "Die Schlacht von La Arada, die am 2. Februar 1851 in den trockenen Ebenen des Departamentos Chiquimula stattfand, gilt als der wichtigste militärische Sieg in der Geschichte der Republik Guatemala. Eine riesige, übermächtige Allianz aus Armeen aus El Salvador und Honduras fiel in Guatemala ein, um die konservative Regierung von Präsident Rafael Carrera zu stürzen. Durch brillantes taktisches Geschick, die Nutzung des rauen Geländes und das gezielte Anzünden von trockenem Zuckerrohr, das die feindlichen Truppen einkesselte, besiegte Carrera die Invasoren vernichtend. Dieser Triumph sicherte nicht nur die guatemaltekische Souveränität und die Vormachtstellung des Landes in Zentralamerika, sondern zementierte auch Carreras Macht als unumstrittener Führer auf Lebenszeit. Geschichte K8 — Republikanische Konflikte in Zentralamerika.",
+      "factsAdvanced": [
+        "Die Schlacht fand am 2. Februar 1851 nahe der Stadt Chiquimula statt.",
+        "Präsident Rafael Carrera besiegte mit 2.000 Mann eine feindliche Armee von über 4.500 Soldaten.",
+        "Die Angreifer bestanden aus einer Koalition von Truppen aus El Salvador und Honduras.",
+        "Carrera nutzte angezündetes, brennendes Zuckerrohr, um die Feinde in Panik zu versetzen.",
+        "Dieser Sieg gilt als der wichtigste Moment zur Sicherung der guatemaltekischen Unabhängigkeit.",
+        "Das Datum der Schlacht wird im Land noch heute militärisch geehrt."
+      ]
+    },
+    {
+      "id": "fortin-de-san-carlos-history-v2",
+      "descriptionAdvanced": "Das Castillo de San Felipe de Lara (oft als Fortín de San Carlos bezeichnet) ist eine malerische koloniale Festung an der strategisch wichtigen Flussenge, wo der Izabal-See in den Río Dulce mündet. Im 17. Jahrhundert befahl der spanische König den Bau der Anlage, um die ständigen Überfälle von britischen und holländischen Piraten abzuwehren, die den See hinauffuhren, um Handelsstädte zu plündern. Die kleine Festung war mit Dutzenden von Bronzekanonen bewaffnet und durch eine schwere Eisenkette, die nachts über den Fluss gespannt wurde, gesichert. Später, als die Piraterie abnahm, wurde das feuchte und abgelegene Schloss als brutales politisches Gefängnis genutzt. Heute ist es eine wunderschön restaurierte Anlage und eine der meistbesuchten historischen Touristenattraktionen in der Karibikregion Guatemalas. Geschichte K8 — Koloniale Verteidigung und Piraterie.",
+      "factsAdvanced": [
+        "Die Festung wurde im 17. Jahrhundert zur Verteidigung gegen britische und holländische Piraten gebaut.",
+        "Sie befindet sich genau am schmalen Übergang zwischen dem Río Dulce und dem Izabal-See.",
+        "Eine massiv geschmiedete Eisenkette wurde damals quer über den Fluss gespannt, um Schiffe zu stoppen.",
+        "Nach dem Ende der Piraterie diente das Fort als gefürchtetes koloniales Gefängnis.",
+        "Die Festung war mehrmals von Piraten (u.a. von den Piraten Diego el Mulato) überrannt und verbrannt worden.",
+        "Das Bauwerk wurde in den 1950er Jahren vom guatemaltekischen Militär komplett restauriert."
+      ]
+    },
+    {
+      "id": "iglesia-vieja-chimaltenango-history-v2",
+      "descriptionAdvanced": "Die 'Iglesia Vieja' (Alte Kirche) in Chimaltenango ist weniger ein funktionales Gebäude als vielmehr ein stummes Denkmal der massiven zerstörerischen Kraft der Natur, die Guatemala prägt. Die massive barocke Kirche wurde im 17. Jahrhundert während der Kolonialzeit errichtet. Beim verheerenden Erdbeben von Santa Marta 1773 und besonders während der massiven seismischen Serie von 1976 (Terremoto) wurde sie stark zerstört. Heute stehen nur noch die stabilisierte, imposante Fassade und die seitlichen Steinmauern. Im Inneren, wo einst das Dach war, erstreckt sich heute oft eine Art offener Hof, während direkt daneben ein neues Kirchengebäude errichtet wurde. Die Ruine bleibt das markanteste Wahrzeichen der Stadt und erinnert die Bewohner der Panamericana-Metropole ständig an ihre verletzliche Geschichte. Architektur K7 — Erdbeben und koloniale Ruinen.",
+      "factsAdvanced": [
+        "Die Ruinen der Kirche stammen aus der frühen spanischen Kolonialzeit (17. Jahrhundert).",
+        "Das schwere Erdbeben vom 4. Februar 1976 zerstörte die Struktur fast endgültig.",
+        "Nur die massiv aus Stein gehauene barocke Frontfassade steht noch aufrecht.",
+        "Neben den Ruinen wurde nach dem Erdbeben eine neue, moderne Pfarrkirche errichtet.",
+        "Die Ruine gilt als das historische Wahrzeichen der Stadt Chimaltenango.",
+        "Im Kolonialstil gefertigte Heiligenstatuen konnten vor dem Einsturz gerettet werden."
+      ]
+    },
+    {
+      "id": "conquista-de-tayasal-history-v2",
+      "descriptionAdvanced": "Die Eroberung der Inselstadt Tayasal (heute Flores) im Jahr 1697 markiert das endgültige und blutige Ende der unabhängigen Maya-Zivilisation. Tayasal lag isoliert im Petén-Itzá-See und war die Hauptstadt der Itzá-Maya, die sich über 150 Jahre lang hartnäckig jedem Versuch der Spanier widersetzten, sie zu unterwerfen oder zu christianisieren. Unter der Führung des Generals Martín de Ursúa zimmerten die Spanier am Ufer des Sees kleine Kriegsgaleeren, ruderten über den See und bombardierten die Inselfestung. Nach einem erbitterten, aber kurzen Kampf fiel die Insel; die Spanier zerstörten Tausende von alten Maya-Büchern (Codices) und Götterstatuen und löschten so das letzte Bollwerk der Maya-Macht in Mesoamerika aus. Dieser Tag besiegelte die vollständige Kolonialisierung Guatemalas. Geschichte K8 — Das Ende der Maya-Zivilisation.",
+      "factsAdvanced": [
+        "Tayasal fiel am 13. März 1697 als letzte unabhängige Maya-Stadt an die Spanier.",
+        "Die Eroberung fand über 150 Jahre nach der Unterwerfung des Rests von Guatemala statt.",
+        "Der spanische General Martín de Ursúa nutzte im Dschungel gebaute Galeeren für den Angriff.",
+        "Nach dem Sieg wurden systematisch alle heidnischen Tempel und Maya-Bücher auf der Insel zerstört.",
+        "Die Itzá-Könige wurden nach der verlorenen Schlacht hingerichtet oder ins Exil getrieben.",
+        "Die eroberte Insel heißt heute Flores und ist die malerische Hauptstadt des Departamentos Petén."
+      ]
+    },
+    {
+      "id": "ruinas-de-san-jeronimo-history-v2",
+      "descriptionAdvanced": "Die Ruinen der alten Haciendo von San Jerónimo in der Baja Verapaz zeugen vom enormen Reichtum und der industriellen Kraft des Dominikanerordens während der Kolonialzeit. Im 16. Jahrhundert errichteten die Mönche hier das größte und profitabelste landwirtschaftliche Gut in Zentralamerika. Die Hacienda war berühmt für ihre massiven Zuckerrohrmühlen und die Produktion des hochgeschätzten 'Aguardiente' (Zuckerrohrschnaps), aber auch für den Anbau von Wein. Um diese massive Industrie in dem extrem trockenen Tal anzutreiben, erbauten die Mönche ein meisterhaftes Stein-Aquädukt, von dem die massiven Bögen noch heute die Landschaft prägen. Nach der Unabhängigkeit Guatemalas wurde der Kirche dieser immense Reichtum weggenommen, die Ländereien wurden verteilt und die Mühlen verfielen langsam zu Ruinen. Architektur K7 — Koloniale Ingenieurskunst und Agrarindustrie.",
+      "factsAdvanced": [
+        "Die Hacienda der Dominikaner produzierte den besten Zucker und Rum in Zentralamerika.",
+        "Ein massives steinernes Aquädukt mit römischen Bögen brachte Wasser zu den Zuckermühlen.",
+        "Das Gut war im 17. und 18. Jahrhundert der größte Wirtschaftsmotor der gesamten Verapaz-Region.",
+        "Nach den liberalen Reformen im 19. Jahrhundert wurde der Kirche das Gut entschädigungslos enteignet.",
+        "Heute sind die riesigen Schornsteine der Öfen und Mühlen als koloniale Ruinen erhalten.",
+        "Sklaven afrikanischer Abstammung wurden auf dieser Hacienda für die harte Feldarbeit eingesetzt."
+      ]
+    },
+    {
+      "id": "nakum-ruins-history-v2",
+      "descriptionAdvanced": "Nakum ist eine spektakuläre, in dichtem Dschungel versunkene Maya-Stadt im Nordosten des Departamentos Petén. Zusammen mit Yaxhá und Naranjo bildet sie das sogenannte 'Kulturelle Dreieck' (Triángulo Cultural Yaxhá-Nakum-Naranjo). Die Stadt war während der späten klassischen Periode extrem dicht besiedelt und zeichnet sich durch die massive Anzahl an Palästen mit steinernen Maya-Gewölben (Bóvedas) aus, die sich um zahlreiche Innenhöfe reihen. Anders als in Tikal stehen in Nakum weniger die gigantischen Pyramiden, sondern vielmehr die enorm komplexe, elitäre Palastarchitektur im Vordergrund. Die Stätte wurde erst in den letzten Jahrzehnten intensiv erforscht und restauriert. Aufgrund ihrer isolierten Lage nahe dem Holmul-Fluss und der schwierigen Anreise über schlammige Dschungelpfade vermittelt Nakum bis heute das magische Gefühl absoluter Abgeschiedenheit. Architektur K8 — Komplexe Maya-Palastanlagen.",
+      "factsAdvanced": [
+        "Nakum weist eine der höchsten Dichten an restaurierter Maya-Palastarchitektur im ganzen Land auf.",
+        "Die Stätte ist Teil des geschützten 'Triángulo Cultural' (Kulturelles Dreieck) im Petén.",
+        "Ein massiver Dachkamm auf dem Haupttempel ragt weit über den Dschungel hinaus.",
+        "Nakum florierte vor allem in der sehr späten klassischen Zeit, als andere Städte schon schrumpften.",
+        "Die Stadt erstreckt sich entlang des Río Holmul, der während der Regenzeit oft schwer passierbar ist.",
+        "Die Restaurierungsarbeiten begannen ernsthaft erst im 21. Jahrhundert."
+      ]
+    },
+    {
+      "id": "altar-de-sacrificios-history-v2",
+      "descriptionAdvanced": "Altar de Sacrificios, gelegen am Zusammenfluss der beiden mächtigen Flüsse La Pasión und Salinas (welche hier den Usumacinta bilden), war eine der strategisch wichtigsten Handelsposten der klassischen Maya-Welt im Petén. Dank dieser perfekten geografischen Lage kontrollierte die Stadt den Warentransport (insbesondere Obsidian, Jade und Muscheln) zwischen dem guatemaltekischen Hochland und dem Golf von Mexiko. Archäologisch ist die Stätte berühmt für eine extreme Vielzahl an feinen Keramikfunden, die Archäologen bei der Datierung der gesamten Maya-Zivilisation halfen. Der Name ('Altar der Opfer') stammt von den massiven runden Steinmonumenten, auf denen in der Blütezeit rituelle Handlungen vollzogen wurden. Nach dem Zusammenbruch des Handelsnetzwerks im 9. Jahrhundert wurde die Stadt rasch vom Dschungel verschluckt. Geschichte K8 — Prähispanische Fluss-Handelsrouten.",
+      "factsAdvanced": [
+        "Die Stadt liegt an der strategisch wichtigsten Flusseinmündung der alten Maya-Welt.",
+        "Sie kontrollierte den gesamten Frachtverkehr in Richtung des Flusses Usumacinta (Mexiko).",
+        "Keramikfunde aus Altar de Sacrificios gelten als der Referenzmaßstab für die gesamte Maya-Datierung.",
+        "Trotz ihres Namens wurden hier weniger Menschenopfer, sondern eher komplexe Rituale praktiziert.",
+        "Die Stätte erlebte massive architektonische Umbrüche und Zerstörungen durch ständige Invasionen.",
+        "Der Ort ist heute extrem isoliert und meist nur nach langen Bootsfahrten erreichbar."
+      ]
+    },
+    {
+      "id": "iglesia-de-san-nicolas-quetzaltenango-history-v2",
+      "descriptionAdvanced": "Die Kirche San Nicolás in Quetzaltenango (Xela) ist eine architektonische absolute Ausnahmeerscheinung in Guatemala. Anders als die traditionell barocken oder neoklassizistischen Kolonialkirchen des Landes, ist San Nicolás ein makelloses Beispiel der neugotischen (Gótico) Architektur, die stark an europäische Kathedralen erinnert. Erbaut am Ende des 19. Jahrhunderts, spiegelt die Kirche den immensen Reichtum der Stadt während des Kaffee-Booms wider, als europäische Einflüsse und Architekten nach Xela strömten. Die scharfen, emporragenden Spitzen, die gewaltigen steinernen Wasserspeier (Gargolas) und die spitzbogigen Fenster (Vitrales) bilden einen dramatischen Kontrast zur restlichen Bebauung der Stadt. Die Kirche steht am ruhigen Parque El Calvario und ist ein Zeugnis der europäischen Ambitionen der guatemaltekischen Elite jener Zeit. Architektur K8 — Neugotik in Mittelamerika.",
+      "factsAdvanced": [
+        "San Nicolás ist eine der wenigen rein neugotischen Kirchen in ganz Zentralamerika.",
+        "Der Bau wurde durch den enormen Kaffeereichtum der lokalen Elite im 19. Jahrhundert finanziert.",
+        "Die Fassade aus dunkelgrauem Vulkangestein verleiht der Kirche ein düsteres, dramatisches Aussehen.",
+        "Zahlreiche Wasserspeier (Gargolas) säumen das Dach und die spitzen Türme.",
+        "Die Buntglasfenster (Vitrales) wurden per Schiff aus Europa importiert.",
+        "Die Kirche überstand die zahlreichen Erdbeben erstaunlich gut, was für diesen Baustil selten ist."
+      ]
+    },
+    {
+      "id": "casa-k-ojom-jocotenango-history-v2",
+      "descriptionAdvanced": "Die Casa K'ojom ist ein einzigartiges und zutiefst faszinierendes Musikmuseum im Kulturzentrum La Azotea in Jocotenango (nahe Antigua). Das Museum widmet sich ausschließlich der Rettung, Dokumentation und Präsentation der traditionellen indigenen Maya-Musik. Neben einer gewaltigen Sammlung von historischen Instrumenten, wie riesigen Marimbas aus rohem Holz, Knochenflöten, Okarinas und Schildkrötenpanzer-Trommeln, zeigt das Museum auch historische Film- und Tonaufnahmen von schamanischen Zeremonien und Cofradía-Tänzen aus dem Hochland. Gegründet von einem leidenschaftlichen Ethnomusikologen, dient die Casa K'ojom als wichtiges Archiv, das verhindert, dass diese uralten, auditiven Traditionen durch die moderne Globalisierung für immer verloren gehen. Kunst K7 — Die Instrumente der Maya.",
+      "factsAdvanced": [
+        "Die Casa K'ojom ist das einzige spezialisierte Museum für Maya-Musik in Guatemala.",
+        "Es befindet sich in den Räumlichkeiten der Finca La Azotea in Jocotenango.",
+        "Das Museum beherbergt seltene präkolumbische Blasinstrumente und Trommeln.",
+        "Viele der ausgestellten Marimbas stammen aus dem 19. Jahrhundert (Marimba de Tecomates).",
+        "Eine audiovisuelles Archiv bewahrt die Klänge hunderter indigener Tänze und Rituale.",
+        "K'ojom bedeutet in der Kaqchikel-Sprache 'Musik' oder 'Maske'."
+      ]
+    },
+    {
+      "id": "revolucion-de-1871-history-v2",
+      "descriptionAdvanced": "Die Liberale Revolution ('Revolución Liberal') vom 30. Juni 1871 markiert den radikalsten Bruch in der modernen Geschichte Guatemalas. Angeführt von Justo Rufino Barrios und Miguel García Granados marschierten liberale Truppen in Guatemala-Stadt ein, setzten die jahrzehntelange konservative Regierung ab und entmachteten die katholische Kirche drastisch. Barrios enteignete kirchliche Ländereien, vertrieb die Mönchsorden aus dem Land und drängte Tausende indigene Bauern durch Zwangsarbeitsgesetze zur Arbeit auf neuen, massiven Plantagen. Diese Revolution leitete das goldene 'Kaffeezeitalter' ein, das eine kleine Elite immens reich machte, den Ausbau der Eisenbahn vorantrieb, aber auch eine systematische Repression der indigenen Bevölkerung verursachte, deren Auswirkungen das Land bis heute prägen. Geschichte K8 — Die Liberale Revolution und die Kaffee-Oligarchie.",
+      "factsAdvanced": [
+        "Die Liberale Revolution siegte am 30. Juni 1871 mit dem Einmarsch in die Hauptstadt.",
+        "Justo Rufino Barrios, der 'Reformador', führte radikale wirtschaftliche und soziale Reformen ein.",
+        "Die katholische Kirche verlor all ihre massiven Ländereien, und Orden wurden ausgewiesen.",
+        "Die Revolution forcierte den Anbau von Kaffee als wichtigstes nationales Exportprodukt.",
+        "Ein neues Zwangsarbeitssystem (Reglamento de Jornaleros) beutete die indigene Bevölkerung aus.",
+        "Zum Gedenken an diesen Tag wurde die guatemaltekische Flagge und die Nationalhymne neu geschaffen."
+      ]
+    }
+  ]
+}

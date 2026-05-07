@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "choluteca-cities-v2",
+      "descriptionAdvanced": "Choluteca, auch bekannt als die \"Sultana del Sur\", ist eine der ältesten und bedeutendsten Städte im Süden von Honduras. Die Stadt wurde 1522 gegründet und ist berühmt für ihr gut erhaltenes koloniales Zentrum, das spanische Architektur aus dem 16. und 17. Jahrhundert zeigt. Dank ihrer Lage in der Nähe des Golfs von Fonseca spielt sie eine zentrale Rolle in der Landwirtschaft, insbesondere beim Anbau von Melonen, Zuckerrohr und der Garnelenzucht. Die extremen Temperaturen machen die Region zu einer der wärmsten des Landes. Historisch war Choluteca der Geburtsort von José Cecilio del Valle, einem der Verfasser der Unabhängigkeitserklärung Zentralamerikas. Geografie K7 — Wirtschaftszentren und Klima.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1522 von spanischen Konquistadoren.",
+        "Geburtsort von José Cecilio del Valle, geboren 1780.",
+        "Wichtiges Zentrum für den Export von Garnelen und Melonen.",
+        "Die Durchschnittstemperatur liegt oft über 35 Grad Celsius.",
+        "Die Brücke Puente Choluteca überlebte den Hurrikan Mitch 1998 unbeschadet.",
+        "Bevölkerung von über 160.000 Einwohnern in der Metropolregion."
+      ]
+    },
+    {
+      "id": "juticalpa-cities-v2",
+      "descriptionAdvanced": "Juticalpa ist die Hauptstadt des Departements Olancho, des flächenmäßig größten Departements in Honduras. Die Stadt liegt in einem ausgedehnten Tal, das von der Sierra de Agalta umgeben ist, und bildet das landwirtschaftliche Herzstück der Region. Hier dominiert die Viehzucht sowie der Anbau von Mais und Bohnen. Juticalpa hat eine reiche kulturelle Tradition, die sich in lokalen Festen und der typischen Gastronomie widerspiegelt, wie dem Tapado Olanchano, einem herzhaften Fleischeintopf. Die Stadt entwickelte sich im 19. Jahrhundert zu einem wichtigen Handelszentrum und ist heute ein Knotenpunkt für den Verkehr in Richtung Osten. Landwirtschaft K6 — Viehzucht und regionale Kulturen.",
+      "factsAdvanced": [
+        "Hauptstadt des größten Departements Olancho (24.051 Quadratkilometer).",
+        "Wichtiges Zentrum für die honduranische Rinderzucht.",
+        "Bekannt für das traditionelle Gericht Tapado Olanchano.",
+        "Die Kathedrale der Unbefleckten Empfängnis wurde im 18. Jahrhundert erbaut.",
+        "Befindet sich auf einer Höhe von etwa 410 Metern über dem Meeresspiegel.",
+        "Lokaler Knotenpunkt für den Transport nach Catacamas."
+      ]
+    },
+    {
+      "id": "danli-cities-v2",
+      "descriptionAdvanced": "Danlí ist liebevoll als die \"Stadt der Hügel\" bekannt und liegt eingebettet in eine malerische Berglandschaft im Departement El Paraíso. Die Stadt ist das Zentrum der honduranischen Zigarrenproduktion und beherbergt zahlreiche Tabakmanufakturen, die weltweit exportieren. Jedes Jahr im August feiert Danlí das berühmte Maisfestival (Festival del Maíz), das Tausende von Besuchern anzieht und die landwirtschaftliche Bedeutung der Region unterstreicht. Die Architektur im Stadtzentrum erinnert mit ihren engen Gassen und pastellfarbenen Häusern an die spanische Kolonialzeit. Wirtschaft K8 — Tabakindustrie und Export.",
+      "factsAdvanced": [
+        "Bekannt als die Stadt der Hügel (Ciudad de las Colinas).",
+        "Zentrum der Zigarrenproduktion mit Export in die ganze Welt.",
+        "Das nationale Maisfestival (Festival del Maíz) findet hier jährlich statt.",
+        "Gegründet in der Mitte des 17. Jahrhunderts.",
+        "Liegt etwa 92 Kilometer von der Hauptstadt Tegucigalpa entfernt.",
+        "Höhe von rund 814 Metern sorgt für ein mildes Klima."
+      ]
+    },
+    {
+      "id": "santa-rosa-de-copan-cities-v2",
+      "descriptionAdvanced": "Santa Rosa de Copán ist die kommerzielle und politische Hauptstadt der westlichen Region von Honduras. Die Stadt ist berühmt für ihr historisches Zentrum, das zum Nationaldenkmal erklärt wurde und von Kopfsteinpflasterstraßen sowie kolonialen Gebäuden geprägt ist. Santa Rosa hat eine lange Tradition im Kaffeeanbau und der Tabakverarbeitung; die 1795 gegründete Zigarrenfabrik La Flor de Copán ist ein Beweis für dieses Erbe. Die kühleren Bergtemperaturen und die Nähe zu den antiken Maya-Ruinen von Copán machen die Stadt zu einem strategischen Punkt für den Tourismus. Geschichte K8 — Koloniales Erbe und Kaffeeproduktion.",
+      "factsAdvanced": [
+        "Die Altstadt wurde 1991 zum nationalen historischen Denkmal erklärt.",
+        "Zentrum für exzellenten Hochlandkaffee und Tabakanbau.",
+        "Die Tabakfabrik La Flor de Copán existiert seit dem späten 18. Jahrhundert.",
+        "Liegt auf einer Höhe von 1.150 Metern über dem Meeresspiegel.",
+        "Wichtiger Knotenpunkt für Touristen auf dem Weg zu den Maya-Ruinen.",
+        "Besitzt eine der ältesten Kathedralen im Westen von Honduras."
+      ]
+    },
+    {
+      "id": "la-esperanza-cities-v2",
+      "descriptionAdvanced": "La Esperanza ist die höchstgelegene Stadt in Honduras und bekannt für ihr kühles Bergklima sowie ihre reiche indigene Kultur. Als Hauptstadt des Departements Intibucá ist sie eng mit dem Lenca-Volk verbunden, dessen Traditionen in der Kleidung, dem Kunsthandwerk und den lokalen Festen lebendig bleiben. Die Region ist berühmt für die Produktion von Kartoffeln, Erdbeeren und anderen Früchten, die in kälteren Klimazonen gedeihen. Ein markantes Wahrzeichen ist die kleine Höhle La Gruta, von der aus man einen spektakulären Blick über die Zwillingsstädte La Esperanza und Intibucá hat. Geografie K7 — Hochlandklima und indigene Kulturen.",
+      "factsAdvanced": [
+        "Mit rund 1.700 Metern die höchstgelegene Stadt in Honduras.",
+        "Kulturelles Zentrum des indigenen Volkes der Lenca.",
+        "Bekannt für den Anbau von Bergkulturen wie Kartoffeln und Erdbeeren.",
+        "Bildet eine Doppelstadt zusammen mit Intibucá.",
+        "Die Höhlenkapelle La Gruta ist ein bedeutendes lokales Wahrzeichen.",
+        "Das Nationalfest der Kartoffel (Festival de la Papa) findet hier statt."
+      ]
+    },
+    {
+      "id": "gracias-cities-v2",
+      "descriptionAdvanced": "Gracias ist eine der historisch bedeutendsten Städte in Honduras, eingebettet am Fuße des mächtigen Celaque-Gebirges. Im Jahr 1536 gegründet, diente die Stadt kurzzeitig als Hauptstadt der spanischen Audiencia de los Confines, was sie zu einem administrativen Zentrum für ganz Zentralamerika machte. Das koloniale Erbe ist in den zahlreichen historischen Kirchen und dem Fort San Cristóbal sichtbar. Die Umgebung von Gracias ist bekannt für den Nationalpark Celaque, der den höchsten Gipfel des Landes beherbergt, und die natürlichen Thermalquellen, die Besucher aus der ganzen Welt anziehen. Geschichte K8 — Spanische Kolonialverwaltung in Zentralamerika.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1536 von Gonzalo de Alvarado.",
+        "War 1544 Sitz der Audiencia de los Confines.",
+        "Das Fort San Cristóbal wacht über die Stadt seit dem 19. Jahrhundert.",
+        "Liegt am Fuße des Nationalparks Celaque.",
+        "Der höchste Berg von Honduras (2.849 m) befindet sich in der Nähe.",
+        "Berühmt für die natürlichen heißen Quellen (Aguas Termales)."
+      ]
+    },
+    {
+      "id": "nacaome-cities-v2",
+      "descriptionAdvanced": "Nacaome liegt in den heißen, trockenen Ebenen des südlichen Honduras und ist die Hauptstadt des Departements Valle. Der Name stammt aus der indigenen Cholula-Sprache und bedeutet \"Zwei Fleischsorten\", was auf die historische Verschmelzung zweier rivalisierender indigener Gruppen hinweist. Die Wirtschaft von Nacaome stützt sich stark auf die Landwirtschaft, insbesondere die Salzgewinnung, Garnelenzucht und den Anbau von Wassermelonen in der Nähe des Golfs von Fonseca. Die Stadt ist ein wichtiger Verkehrsknotenpunkt an der Panamericana. Geografie K7 — Küstennahe Landwirtschaft und Handelsrouten.",
+      "factsAdvanced": [
+        "Hauptstadt des südlichen Departements Valle.",
+        "Befindet sich an der wichtigen Panamericana-Autobahn.",
+        "Bedeutendes Zentrum für Salzgewinnung und Garnelenzucht.",
+        "Historisch ein Treffpunkt der indigenen Stämme Cholulas und Chaparrastiques.",
+        "Das Klima ist eines der heißesten und trockensten in Honduras.",
+        "Liegt strategisch nahe der Grenze zu El Salvador."
+      ]
+    },
+    {
+      "id": "santa-barbara-cities-v2",
+      "descriptionAdvanced": "Santa Bárbara ist eine malerische Stadt im Nordwesten von Honduras und dient als Hauptstadt des gleichnamigen Departements. Sie ist weithin bekannt für ihre handwerklichen Traditionen, insbesondere das Flechten von Juncus-Fasern (Junco), aus denen Hüte, Körbe und Matten hergestellt werden. Die hügelige Landschaft rund um die Stadt bietet ideale Bedingungen für den Anbau von hochwertigem Exportkaffee. Darüber hinaus hat Santa Bárbara ein reiches architektonisches Erbe, zu dem die Festung Castillo Bográn gehört, und eine lebendige kulturelle Identität, die durch lokale Feste geprägt ist. Kunst und Wirtschaft K7 — Handwerk und Kaffeeproduktion.",
+      "factsAdvanced": [
+        "Zentrum der handwerklichen Junco-Flechtkunst in Honduras.",
+        "Einer der wichtigsten Kaffeeanbaugebiete des Landes.",
+        "Das Castillo Bográn ist eine lokale historische Festung.",
+        "Gegründet in der Mitte des 18. Jahrhunderts.",
+        "Umgaben von dichten Wäldern und Bergen.",
+        "Hauptstadt des Departements Santa Bárbara."
+      ]
+    },
+    {
+      "id": "yoro-cities-v2",
+      "descriptionAdvanced": "Yoro ist eine mystische Stadt im nördlichen Zentrum von Honduras und berühmt für ein unerklärliches meteorologisches Phänomen: den Lluvia de Peces (Fischregen). Laut lokaler Überlieferung und Zeugenberichten fallen bei starken Stürmen kleine Fische vom Himmel, ein Ereignis, das die Stadt weltbekannt gemacht hat. Yoro ist zudem von tiefen Tälern und Bergen umgeben, in denen Landwirtschaft betrieben wird, vor allem Kaffee-, Mais- und Bohnenanbau. Die indigene Bevölkerung der Tolupanes hat in der Region um Yoro eines ihrer letzten Rückzugsgebiete. Naturwissenschaften K8 — Meteorologische Phänomene und Kulturmythen.",
+      "factsAdvanced": [
+        "Berühmt für das jährliche Phänomen des Lluvia de Peces (Fischregen).",
+        "Wichtiges landwirtschaftliches Zentrum für Mais und Kaffee.",
+        "Traditionelle Heimat der indigenen Gruppe der Tolupanes.",
+        "Gegründet im Jahr 1852 als städtische Siedlung.",
+        "Gelegen in einem Tal umgeben von der Gebirgskette Nombre de Dios.",
+        "Feiert jährlich ein Festival zu Ehren des Schutzpatrons Santiago."
+      ]
+    },
+    {
+      "id": "yuscaran-cities-v2",
+      "descriptionAdvanced": "Yuscarán ist eine historische Bergbaustadt im Departement El Paraíso, die im 18. und 19. Jahrhundert ihren Höhepunkt während des Gold- und Silberbooms erlebte. Die steilen, verwinkelten Gassen und die koloniale Architektur spiegeln den einstigen Reichtum wider, als europäische Bergbauunternehmen in der Region tätig waren. Im Jahr 1979 wurde die gesamte Stadt zum nationalen historischen Monument erklärt. Heute ist Yuscarán vor allem für die Destillerie bekannt, in der Aguardiente hergestellt wird, ein traditioneller Zuckerrohrschnaps. Geschichte K8 — Bergbaugeschichte in Zentralamerika.",
+      "factsAdvanced": [
+        "Wichtiges historisches Bergbauzentrum im 18. Jahrhundert.",
+        "1979 zum nationalen historischen Denkmal von Honduras erklärt.",
+        "Bekannt für die Produktion des nationalen Getränks Aguardiente Yuscarán.",
+        "Liegt an den Hängen des Berges Monserrat auf fast 1.000 Metern Höhe.",
+        "Zahlreiche gut erhaltene Kolonialgebäude prägen das Stadtbild.",
+        "Das Casa Fortín ist ein bedeutendes Museum zur Geschichte der Stadt."
+      ]
+    },
+    {
+      "id": "choloma-cities-v2",
+      "descriptionAdvanced": "Choloma ist die drittgrößte Stadt in Honduras und das unbestrittene industrielle Rückgrat des Landes. Sie liegt strategisch günstig im Sula-Tal, nur wenige Kilometer von San Pedro Sula und dem Haupthafen Puerto Cortés entfernt. In den letzten Jahrzehnten hat sich Choloma rasant entwickelt, hauptsächlich aufgrund der Ansiedlung zahlreicher Maquiladoras (Exportproduktionszonen), die Textilien und Bekleidung für den Weltmarkt herstellen. Diese rasche Industrialisierung hat zu einem enormen Bevölkerungswachstum geführt, stellt die Stadt aber auch vor infrastrukturelle Herausforderungen. Wirtschaft K8 — Industrialisierung und globale Lieferketten.",
+      "factsAdvanced": [
+        "Drittbevölkerungsreichste Stadt in Honduras (über 250.000 Einwohner).",
+        "Zentrum der Maquiladora-Industrie und Textilproduktion.",
+        "Strategische Lage zwischen San Pedro Sula und Puerto Cortés.",
+        "In der präkolumbianischen Zeit als Tholomac bekannt.",
+        "Massives Bevölkerungswachstum seit den 1990er Jahren.",
+        "Gehört zum wirtschaftlich stärksten Gebiet des Landes, dem Valle de Sula."
+      ]
+    },
+    {
+      "id": "villanueva-cities-v2",
+      "descriptionAdvanced": "Villanueva, gelegen im fruchtbaren Valle de Sula, ist eine weitere Schlüsselstadt für die honduranische Industrie und Landwirtschaft. Die Stadt hat den Beinamen \"Die Stadt, die Zucker produziert\" (La Ciudad que Endulza a Honduras), da sie von riesigen Zuckerrohrplantagen umgeben ist und wichtige Zuckerfabriken beherbergt. Neben der Agrarindustrie hat Villanueva durch die Ansiedlung von Freihandelszonen für die Textilherstellung einen starken wirtschaftlichen Aufschwung erlebt. Die Nähe zur Autobahn nach San Pedro Sula macht sie zu einem zentralen Logistikpunkt. Wirtschaft K7 — Agrarindustrie und Zuckerproduktion.",
+      "factsAdvanced": [
+        "Bekannt für ausgedehnte Zuckerrohrplantagen und Zuckerfabriken.",
+        "Wichtiger Standort für die Textilindustrie (Maquiladoras).",
+        "Liegt im wirtschaftlich bedeutenden Valle de Sula.",
+        "Starkes Bevölkerungswachstum aufgrund industrieller Arbeitsplätze.",
+        "Befindet sich nur wenige Kilometer südlich von San Pedro Sula.",
+        "Gegründet in den späten 1800er Jahren als landwirtschaftliche Gemeinde."
+      ]
+    },
+    {
+      "id": "tela-cities-v2",
+      "descriptionAdvanced": "Tela ist eine malerische Küstenstadt an der Karibikküste von Honduras und ein aufstrebendes Zentrum für den Tourismus. In der ersten Hälfte des 20. Jahrhunderts war Tela der Hauptsitz der mächtigen United Fruit Company, was die Stadt zu einem der wichtigsten Bananenexporthäfen der Welt machte. Das Erbe dieser Ära zeigt sich in den historischen Gebäuden im Arbeiterviertel Tela Nueva. Heute besticht die Stadt durch ihre weißen Sandstrände, den botanischen Garten Lancetilla und die Nähe zu geschützten Naturreservaten wie dem Punta Sal Nationalpark (Jeannette Kawas). Geschichte K8 — Die Ära der Bananenrepubliken.",
+      "factsAdvanced": [
+        "Einstiger Hauptsitz der mächtigen United Fruit Company.",
+        "Historisch einer der größten Bananenexporthäfen weltweit.",
+        "Heimat des berühmten Botanischen Gartens Lancetilla.",
+        "Bietet Zugang zum Jeannette Kawas (Punta Sal) Nationalpark.",
+        "Beliebtes Touristenziel wegen der unberührten Karibikstrände.",
+        "Gegründet im Jahr 1524 von dem spanischen Eroberer Cristóbal de Olid."
+      ]
+    },
+    {
+      "id": "siguatepeque-cities-v2",
+      "descriptionAdvanced": "Siguatepeque liegt genau auf halber Strecke zwischen den beiden größten Städten von Honduras, Tegucigalpa und San Pedro Sula, auf einer bewaldeten Hochebene. Das gemäßigte, kühle Klima und die umgebenden Kiefernwälder machen die Stadt zu einem idealen Erholungsort. Siguatepeque ist das landwirtschaftliche Zentrum für den Anbau von Gemüse und Zierpflanzen, die im Rest des Landes verkauft werden. Jedes Jahr ist die Stadt Gastgeber des Blumenfestivals (Festival de las Flores), bei dem die farbenfrohen Ernten der Region präsentiert werden. Geografie K6 — Hochlandklima und regionale Landwirtschaft.",
+      "factsAdvanced": [
+        "Liegt exakt in der Mitte der Autobahn zwischen Tegucigalpa und San Pedro Sula.",
+        "Befindet sich auf einer Höhe von rund 1.100 Metern.",
+        "Bekannt für die Produktion von Kiefernholz und Zierpflanzen.",
+        "Gastgeber des jährlichen Blumenfestivals (Festival de las Flores).",
+        "Wichtiger Zwischenstopp und Rastplatz für Reisende im ganzen Land.",
+        "Umgaben von dichten, gemäßigten Nadelwäldern."
+      ]
+    },
+    {
+      "id": "catacamas-cities-v2",
+      "descriptionAdvanced": "Catacamas liegt im Osten des Landes im riesigen Departement Olancho und ist eine der am schnellsten wachsenden Städte der Region. Sie dient als Tor zur Sierra de Agalta und zur Biosphäre Río Plátano, dem größten geschützten Regenwaldgebiet in Zentralamerika. Die Stadt ist stark agrarisch geprägt, wobei die Rinderzucht sowie die Milch- und Käseproduktion die wirtschaftlichen Grundpfeiler bilden. In der Nähe von Catacamas befinden sich zudem die Talgua-Höhlen, ein faszinierendes archäologisches Höhlensystem, in dem Überreste antiker Zivilisationen gefunden wurden. Biologie K7 — Tropische Biosphären und Höhlensysteme.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt im riesigen Departement Olancho.",
+        "Bedeutendes Zentrum für Milchprodukte und Rinderzucht.",
+        "Tor zur unberührten Biosphäre Río Plátano.",
+        "Die archäologischen Talgua-Höhlen (Höhle der leuchtenden Schädel) liegen nahebei.",
+        "Verfügt über die Nationale Universität für Landwirtschaft (UNAG).",
+        "Erlebte ein starkes infrastrukturelles Wachstum im 21. Jahrhundert."
+      ]
+    },
+    {
+      "id": "tocoa-cities-v2",
+      "descriptionAdvanced": "Tocoa liegt im Tal des Río Aguán im Departement Colón und ist das wirtschaftliche Zentrum dieser fruchtbaren Region. Die Stadt erlebte in den 1970er Jahren einen massiven Aufschwung durch tiefgreifende Agrarreformen und die Entwicklung riesiger afrikanischer Palmölplantagen. Heute ist das Aguán-Tal der Hauptproduzent von Palmöl in Honduras, was Tocoa zu einer Schlüsselstadt für den Agrarexport macht. Trotz ihres wirtschaftlichen Reichtums war die Region historisch auch Schauplatz sozialer Konflikte um Landbesitzrechte. Geografie K8 — Agrarwirtschaft, Palmöl und Landrechte.",
+      "factsAdvanced": [
+        "Das wirtschaftliche Herzstück des fruchtbaren Aguán-Tals.",
+        "Zentrum der honduranischen Palmölproduktion.",
+        "Gegründet im späten 19. Jahrhundert durch Einwanderer.",
+        "Stark gewachsen durch die Agrarreformen der 1970er Jahre.",
+        "Wichtiger Transportknotenpunkt für Güter zur Karibikküste.",
+        "Umgeben von Bergen der Cordillera Nombre de Dios."
+      ]
+    },
+    {
+      "id": "la-lima-cities-v2",
+      "descriptionAdvanced": "La Lima ist als \"Die Hauptstadt des grünen Goldes\" bekannt, eine direkte Anspielung auf ihre historische Rolle als globales Epizentrum der Bananenindustrie. Jahrzehntelang befand sich hier der Hauptsitz der Tela Railroad Company (Chiquita Brands), die riesige Bananenplantagen im Sula-Tal kontrollierte. Die Stadtstruktur weist noch heute den architektonischen Einfluss amerikanischer Manager auf, mit Häusern im US-Südstaatenstil. Heute ist La Lima weiterhin agrarisch geprägt, musste sich jedoch nach wiederholten verheerenden Überschwemmungen durch Hurrikane neu erfinden. Geschichte K8 — Ausländische Investitionen in der Bananenindustrie.",
+      "factsAdvanced": [
+        "Historisch bekannt als Hauptstadt des grünen Goldes (Bananen).",
+        "Ehemaliger Hauptsitz der Tela Railroad Company (Chiquita).",
+        "Liegt in der Nähe des internationalen Flughafens Ramón Villeda Morales.",
+        "Die Architektur zeigt starke nordamerikanische Einflüsse aus der Firmenzeit.",
+        "Umgeben von fruchtbarem Land am Fluss Chamelecón.",
+        "Stark betroffen von schweren Überschwemmungen, wie Hurrikan Mitch und Eta."
+      ]
+    },
+    {
+      "id": "olanchito-cities-v2",
+      "descriptionAdvanced": "Olanchito, auch als die \"Bürgerliche Stadt\" (Ciudad Cívica) bekannt, ist eine der wichtigsten Kulturstädte im Departement Yoro. Die Stadt hat eine bemerkenswerte Anzahl honduranischer Intellektueller, Schriftsteller und Dichter hervorgebracht, weshalb sie landesweit für ihre literarische Tradition geschätzt wird. Olanchito liegt in einem weiten landwirtschaftlichen Tal, in dem Rinderzucht, Bananen und andere tropische Früchte angebaut werden. Jedes Jahr im September feiert die Stadt die Semana Cívica, eine Woche voller kultureller und patriotischer Veranstaltungen. Literatur K7 — Honduras' intellektuelle Zentren.",
+      "factsAdvanced": [
+        "Bekannt als die Ciudad Cívica (Bürgerliche Stadt) wegen ihrer Kulturszene.",
+        "Geburtsort vieler bedeutender honduranischer Schriftsteller.",
+        "Zentrum für Viehzucht und tropische Landwirtschaft im Yoro-Tal.",
+        "Feiert jährlich die Semana Cívica zu Ehren honduranischer Kultur.",
+        "Liegt am Flussbett des mächtigen Río Aguán.",
+        "Gegründet im Jahr 1530 und damit eine der älteren Städte der Region."
+      ]
+    },
+    {
+      "id": "saba-cities-v2",
+      "descriptionAdvanced": "Sabá ist eine strategische Handelsstadt im Departement Colón, die als zentrales Tor zum fruchtbaren Aguán-Tal dient. Durch ihre Lage an den Hauptverkehrsrouten verbindet sie die Hafenstädte der Atlantikküste mit dem Hinterland und Olanchito. Die lokale Wirtschaft stützt sich auf Handel, Viehzucht und in jüngster Zeit stark auf die Verarbeitung von Palmöl. Sabá hat sich von einem kleinen Dorf zu einer dynamischen Stadt entwickelt, die stark von Migranten aus anderen Landesteilen profitiert hat, die im Agrarsektor Arbeit suchten. Wirtschaft K7 — Verkehrsknotenpunkte und Agrarexport.",
+      "factsAdvanced": [
+        "Wichtiger Verkehrsknotenpunkt zwischen Olanchito, Tocoa und La Ceiba.",
+        "Wirtschaft basiert auf Palmölproduktion, Viehzucht und Handel.",
+        "Eine der am schnellsten wachsenden Gemeinden im Departement Colón.",
+        "Liegt in der Nähe des Flusses Aguán.",
+        "Bedeutender Durchgangsort für den landwirtschaftlichen Gütertransport.",
+        "Entwickelte sich im 20. Jahrhundert rasch durch den Bananen- und Ölpalmenboom."
+      ]
+    },
+    {
+      "id": "el-triunfo-cities-v2",
+      "descriptionAdvanced": "El Triunfo ist eine bedeutende Grenzstadt im Departement Choluteca, die nur wenige Kilometer von der Grenze zu Nicaragua entfernt liegt. Diese strategische Lage macht die Stadt zu einem lebhaften Zentrum für grenzüberschreitenden Handel und Transport. Die Wirtschaft von El Triunfo ist geprägt von der kleinbäuerlichen Landwirtschaft, darunter der Anbau von Melonen, Mais und Bohnen, sowie der Viehzucht, die den trockenen und heißen Bedingungen des südlichen Honduras angepasst ist. Die lokale Kultur wird stark durch den ständigen Austausch mit dem benachbarten Nicaragua beeinflusst. Geografie K7 — Grenzstädte und bilateraler Handel.",
+      "factsAdvanced": [
+        "Liegt strategisch nahe der Grenze zu Nicaragua am Grenzübergang Guasaule.",
+        "Wirtschaftszentrum für lokalen und internationalen Handel.",
+        "Das Klima ist extrem trocken und heiß.",
+        "Schwerpunkt auf der Produktion von Melonen und Grundnahrungsmitteln.",
+        "Gegründet im späten 19. Jahrhundert als formelle Gemeinde.",
+        "Ein großer Teil der Bevölkerung arbeitet in der Logistik und Landwirtschaft."
+      ]
+    },
+    {
+      "id": "marcovia-cities-v2",
+      "descriptionAdvanced": "Marcovia ist eine weitläufige Gemeinde im Departement Choluteca, die entlang des pazifischen Golfs von Fonseca liegt. Die Stadt ist landesweit bekannt als das Herzstück der honduranischen Garnelenzucht, einer Milliarden-Industrie, die Meeresfrüchte nach Nordamerika und Asien exportiert. Neben den Garnelenfarmen prägen riesige Zuckerrohrplantagen und Mangrovenwälder die Landschaft. Marcovia beheimatet auch wunderschöne schwarze Vulkanstrände wie Cedeño, die in der Karstwoche und an Feiertagen tausende einheimische Touristen anziehen. Biologie K8 — Aquakultur und Mangrovenökosysteme.",
+      "factsAdvanced": [
+        "Das Hauptzentrum der lukrativen honduranischen Garnelenzucht.",
+        "Liegt direkt am Golf von Fonseca mit Zugang zum Pazifik.",
+        "Heimat ausgedehnter und ökologisch wichtiger Mangrovenwälder.",
+        "Große Produzentin von Zuckerrohr und Melonen für den Export.",
+        "Die Pazifikstrände wie Cedeño bestehen aus schwarzem Vulkansand.",
+        "Bietet Arbeitsplätze für Tausende im Aquakultur-Sektor."
+      ]
+    },
+    {
+      "id": "la-paz-cities-v2",
+      "descriptionAdvanced": "La Paz, die Hauptstadt des gleichnamigen Departements, liegt in einem fruchtbaren Tal, das von majestätischen Bergen umgeben ist. Die Stadt hat eine tiefe koloniale Geschichte und eine Architektur, die von historischen Steinbauten und der imposanten Kathedrale La Virgen de los Dolores dominiert wird. Ein einzigartiges kulturelles Erbe ist das Baile del Gigante (Tanz des Riesen), das während lokaler Feste aufgeführt wird. Wirtschaftlich ist La Paz ein wichtiges Zentrum für den Anbau von hochwertigem Exportkaffee in den umliegenden Berghängen sowie für traditionelle Handwerkskunst. Kultur K6 — Kaffeeproduktion und folkloristische Tänze.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements La Paz, in der Nähe von Comayagua.",
+        "Berühmt für die folkloristische Tradition des Baile del Gigante.",
+        "Zentrum für den Anbau von exzellentem Hochlandkaffee.",
+        "Die Kirche La Virgen de los Dolores stammt aus dem 19. Jahrhundert.",
+        "Gegründet in den späten 1700er Jahren, offiziell als Stadt 1869 anerkannt.",
+        "Besitzt das Kulturhaus Casa de la Cultura, das lokale Geschichte bewahrt."
+      ]
+    },
+    {
+      "id": "amapala-cities-v2",
+      "descriptionAdvanced": "Amapala ist eine historische Hafenstadt auf der Vulkaninsel Isla del Tigre im Golf von Fonseca. Im späten 19. und frühen 20. Jahrhundert war Amapala der wichtigste Pazifikhafen von Honduras, an dem internationale Frachtschiffe anlegten. Prominente Persönlichkeiten wie Albert Einstein und Präsident Herbert Hoover betraten hier honduranischen Boden. Obwohl der Tiefwasserhafen durch den Bau von San Lorenzo an Bedeutung verlor, hat die Insel ihre koloniale Holzarchitektur bewahrt und entwickelt sich heute zu einem ruhigen Ziel für Ökotourismus, umgeben von dunklen Sandstränden. Geschichte K8 — Historische Pazifikhäfen und internationale Diplomatie.",
+      "factsAdvanced": [
+        "Liegt auf der Isla del Tigre, einem erloschenen Vulkan im Golf von Fonseca.",
+        "Einst der wichtigste honduranische Hafen am Pazifischen Ozean.",
+        "Albert Einstein besuchte die Insel kurz im Jahr 1931.",
+        "Die Architektur besteht aus traditionellen Holzgebäuden aus dem 19. Jahrhundert.",
+        "War 1895 kurzzeitig die Hauptstadt der Zentralamerikanischen Republik.",
+        "Heute ein beliebtes Ziel für Bootstouren und Ökotourismus."
+      ]
+    },
+    {
+      "id": "intibuca-cities-v2",
+      "descriptionAdvanced": "Intibucá bildet zusammen mit La Esperanza eine einzigartige Zwillingsstadt im westlichen Hochland von Honduras, wobei eine unsichtbare Straße die beiden Gemeinden trennt. Intibucá ist das Herz der indigenen Lenca-Kultur. Die traditionellen Webstühle (Telares) werden hier von Frauen genutzt, um die farbenfrohen, landestypischen Stoffe herzustellen. Das extrem kühle Mikroklima auf fast 1.700 Metern Höhe ermöglicht landwirtschaftliche Kulturen, die sonst im Land kaum gedeihen, wie Pfirsiche, Äpfel und Blumen. Kultur K6 — Lenca-Traditionen und Webkunst.",
+      "factsAdvanced": [
+        "Bildet eine untrennbare Zwillingsstadt mit La Esperanza.",
+        "Hauptzentrum für die farbenfrohe Textilweberei der Lenca-Frauen.",
+        "Liegt auf einer Höhe von 1.700 Metern, mit den kühlsten Temperaturen im Land.",
+        "Produziert Bergfrüchte wie Pfirsiche, Äpfel und Erdbeeren.",
+        "Gegründet vor der spanischen Eroberung als reine indigene Siedlung.",
+        "Bewahrt bis heute starke koloniale und indigene Synkretismen in seinen Festen."
+      ]
+    },
+    {
+      "id": "puerto-lempira-cities-v2",
+      "descriptionAdvanced": "Puerto Lempira ist die abgelegene Hauptstadt des Departements Gracias a Dios, einer riesigen, dünn besiedelten Region, die als La Mosquitia bekannt ist. Die Stadt ist nicht über das nationale Straßennetz erreichbar und kann nur per Flugzeug oder Boot über die Caratasca-Lagune erreicht werden. Sie ist das logistische und kulturelle Zentrum für das indigene Miskito-Volk. Die Region ist von dichten Dschungeln, weiten Feuchtgebieten und unberührten Lagunen geprägt. Puerto Lempira ist das Tor zu einem der gefährdetsten, aber artenreichsten Regenwälder Zentralamerikas. Geografie K8 — Isoliertes Tiefland und Miskito-Kultur.",
+      "factsAdvanced": [
+        "Hauptstadt des isolierten Departements Gracias a Dios (La Mosquitia).",
+        "Keine Straßenanbindung an den Rest von Honduras; Zugang nur per Luft oder Wasser.",
+        "Zentrum der Miskito-Kultur und der lokalen indigenen Verwaltung.",
+        "Liegt direkt am Ufer der riesigen Caratasca-Lagune.",
+        "Wichtiger Stützpunkt für Exkursionen in das Río Plátano Biosphärenreservat.",
+        "Die lokale Wirtschaft basiert auf Fischerei, Hummerfang und Subsistenzwirtschaft."
+      ]
+    }
+  ]
+}

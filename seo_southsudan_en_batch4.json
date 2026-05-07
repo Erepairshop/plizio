@@ -1,0 +1,282 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "juba-old-town-history-v2",
+      "descriptionAdvanced": "Juba Old Town represents the historical core of South Sudan's capital, where the city first began to expand along the banks of the White Nile. This area features remnants of colonial-era architecture, traditional markets, and the original administrative buildings from the Anglo-Egyptian Condominium period. Walking through the narrow streets of the Old Town, one can see the evolution of Juba from a small trading post into a bustling national capital. It is a place where history meets modern commerce, reflecting the city's role as a long-standing gateway to the Nile. History K8 – Urban history and colonial administrative centers.",
+      "factsAdvanced": [
+        "Historical core of the capital city",
+        "Contains Anglo-Egyptian colonial architecture",
+        "Original site of the Juba central market",
+        "Strategically located on the Nile's west bank",
+        "Heart of the city's early administrative life",
+        "Home to long-standing cultural landmarks",
+        "Reflects the transition from colony to capital"
+      ]
+    },
+    {
+      "id": "fashoda-historical-site-history-v2",
+      "descriptionAdvanced": "Fashoda, now known as Kodok, is one of the most significant historical sites in the Nile Valley. It is the spiritual and cultural heart of the Shilluk Kingdom and the residence of its King (Reth). Internationally, it became famous for the 'Fashoda Incident' of 1898, when a French expedition and British forces reached a diplomatic standoff over the control of the Upper Nile. This event almost triggered a war between the two European powers and ultimately defined the colonial borders of Northeast Africa. Today, it remains a vital site for the preservation of Shilluk royal traditions. History K8 – The Scramble for Africa and colonial diplomacy.",
+      "factsAdvanced": [
+        "Spiritual seat of the Shilluk King (Reth)",
+        "Site of the 1898 Fashoda Incident",
+        "Crucial point in the Anglo-French colonial rivalry",
+        "Historical residence of the Reth since ancient times",
+        "Venue for royal Shilluk coronation ceremonies",
+        "Located on the west bank of the White Nile",
+        "Focal point of Nilotic royal tradition"
+      ]
+    },
+    {
+      "id": "deim-zubeir-fort-history-v2",
+      "descriptionAdvanced": "The Deim Zubeir Fort is a somber reminder of the 19th-century slave trade in Central Africa. Named after Zubeir Pasha, a powerful merchant prince who established this fortified base (Deim), the site served as a major center for the capture and transport of people from the Bahr el Ghazal region. The ruins of the mud-brick fortifications and the surrounding archaeological site provide critical insights into the brutal history of human trafficking during the Turko-Egyptian and Mahdist eras. It is a site of national importance for education and remembrance. History K8 – The slave trade in the 19th-century Nile Basin.",
+      "factsAdvanced": [
+        "Fortified base of the merchant Zubeir Pasha",
+        "Historical center for the regional slave trade",
+        "Archaeological site with remains of 19th-century walls",
+        "Located in the western Bahr el Ghazal region",
+        "Significant landmark of pre-colonial power dynamics",
+        "Site for historical research and education",
+        "Reminder of Central Africa's dark history"
+      ]
+    },
+    {
+      "id": "loka-mission-school-history-v2",
+      "descriptionAdvanced": "Loka Mission School, located in Central Equatoria, is one of South Sudan's oldest and most prestigious educational institutions. Founded by the Church Missionary Society (CMS) in the early 20th century, it played a pivotal role in educating the country's early intellectual and political elite. Many of the leaders who spearheaded the independence movement and the first generation of professionals were alumni of Loka. The school represents the profound impact of Christian missions on the social and political development of Southern Sudan during the colonial period. History K8 – Education and the rise of nationalism.",
+      "factsAdvanced": [
+        "One of the country's oldest secondary schools",
+        "Established by the Church Missionary Society",
+        "Educated many prominent national leaders",
+        "Cultural center for education in Central Equatoria",
+        "Pioneer institution for southern Sudanese intellectuals",
+        "Historical mission site since the 1920s",
+        "Symbol of academic excellence and heritage"
+      ]
+    },
+    {
+      "id": "torit-mutiny-site-history-v2",
+      "descriptionAdvanced": "The Torit Mutiny Site marks the location of the 1955 uprising of the Equatoria Corps, an event widely regarded as the start of the first Sudanese civil war. This military revolt occurred just months before Sudan's official independence from Anglo-Egyptian rule, signaling the deep-seated tensions between the northern and southern regions. The mutiny in Torit sparked a movement for autonomy and self-determination that would last for decades. Today, the site is a significant national landmark that commemorates the first steps in the long struggle for South Sudanese independence. History K8 – The birth of the South Sudanese liberation struggle.",
+      "factsAdvanced": [
+        "Site of the 1955 Equatoria Corps mutiny",
+        "Historical starting point of the Anyanya movement",
+        "Located in the capital of Eastern Equatoria State",
+        "Pivotal event in the pre-independence era",
+        "Symbol of resistance and national identity",
+        "National landmark of the liberation history",
+        "Major site for commemorative events"
+      ]
+    },
+    {
+      "id": "bor-1983-uprising-history-v2",
+      "descriptionAdvanced": "The site of the 1983 Bor Uprising is where Colonel John Garang and the 105 Battalion of the Sudanese Army mutinied, officially launching the Second Sudanese Civil War. This event led to the formation of the Sudan People's Liberation Movement/Army (SPLM/A) and changed the course of African history. The uprising was a response to the abrogation of the Addis Ababa Agreement and the imposition of Sharia law. Bor remains a place of immense political pride and a primary site of memory for the long journey toward the independence of South Sudan in 2011. History K8 – The formation of the SPLM/A.",
+      "factsAdvanced": [
+        "Starting point of the Second Sudanese Civil War",
+        "Site of the 1983 mutiny by the 105 Battalion",
+        "Birthplace of the SPLM/A movement",
+        "Associated with the leadership of John Garang",
+        "Located on the banks of the White Nile in Bor",
+        "Primary national site of modern political history",
+        "Symbol of the long struggle for independence"
+      ]
+    },
+    {
+      "id": "gogrial-ancestral-home-history-v2",
+      "descriptionAdvanced": "Gogrial is historically revered as the ancestral home of many of South Sudan's founding fathers and prominent leaders. This region in Warrap State is deeply rooted in Dinka heritage and has been a central theater for both traditional governance and modern political mobilization. During the colonial era, Gogrial served as a key administrative post where traditional chiefs collaborated and occasionally resisted foreign rule. Its history is characterized by a strong sense of community identity and its role as a strategic base during the various stages of the liberation struggle. History K8 – Tribal heritage and national leadership.",
+      "factsAdvanced": [
+        "Ancestral home of prominent national leaders",
+        "Strategic historical hub in Warrap State",
+        "Center of traditional Dinka Rek governance",
+        "Key administrative post during the colonial era",
+        "Important base for the liberation movement",
+        "Site of historical inter-ethnic assemblies",
+        "Landmark of regional political heritage"
+      ]
+    },
+    {
+      "id": "rajaf-historical-mission-history-v2",
+      "descriptionAdvanced": "The Rajaf Historical Mission, located just south of Juba, is one of the earliest Christian mission stations established in the southern part of the Nile Valley. Founded in the late 19th century, it served as a gateway for education and healthcare in the region. The mission's architecture reflects the blend of European and local styles of the time. Rajaf was also a strategic military and trading post due to its position near the Nile rapids, making it a focal point for early European explorers and administrators. Today, the mission remains an active center for the local community. History K8 – The impact of early missions on the Nile.",
+      "factsAdvanced": [
+        "One of the earliest Christian missions in the south",
+        "Founded in the late 19th-century colonial era",
+        "Located near the strategic Rajaf Nile rapids",
+        "Former center for early healthcare and schooling",
+        "Site of historical interaction with European explorers",
+        "Contains architecture from the early 1900s",
+        "Cultural and religious landmark near Juba"
+      ]
+    },
+    {
+      "id": "re-jaf-old-fort-history-v2",
+      "descriptionAdvanced": "The Rajaf Old Fort is a strategic historical fortification located on a hilltop overlooking the White Nile. It was used by various forces, including Turko-Egyptian, Belgian, and British troops, to control the movement of goods and people along the river. The fort's location was critical because the Nile rapids at Rajaf acted as a natural barrier to large-scale navigation. From this vantage point, soldiers could monitor the southern approaches to the Sudd. The remains of the fort offer a glimpse into the military strategies employed during the 'Scramble for Africa.' History K8 – Military fortifications and river control.",
+      "factsAdvanced": [
+        "Strategic hilltop fort overlooking the White Nile",
+        "Used by multiple colonial powers for river control",
+        "Located at the natural navigation barrier of Rajaf",
+        "Vantage point for monitoring Nilotic trade routes",
+        "Ruins of historical military installations",
+        "Site of late 19th-century colonial presence",
+        "Significant for regional military history"
+      ]
+    },
+    {
+      "id": "gondokoro-trading-post-history-v2",
+      "descriptionAdvanced": "Gondokoro was a world-famous trading post and the southernmost navigable point on the White Nile for 19th-century explorers. It served as a base for famous figures like Samuel Baker and Charles Gordon as they sought the source of the Nile and attempted to suppress the slave trade. For decades, Gondokoro was the primary interface between the outside world and the interior of East Africa. Although little remains of the original buildings today, the site is of immense importance for understanding the era of African exploration and the early colonial administration of the Equatoria region. History K8 – Exploration and the quest for the Nile's source.",
+      "factsAdvanced": [
+        "Southernmost navigable point on the White Nile",
+        "Key base for 19th-century Nile explorers",
+        "Historical center of the ivory and slave trade",
+        "Former capital of the Equatoria Province",
+        "Associated with explorers like Baker and Gordon",
+        "Primary gateway to the interior of East Africa",
+        "Located on the east bank near modern Juba"
+      ]
+    },
+    {
+      "id": "shilluk-kingdom-palace-history-v2",
+      "descriptionAdvanced": "The Shilluk Kingdom Palace in Kodok is the traditional residence of the Reth (King), the spiritual and political head of the Shilluk people. The kingdom, which dates back centuries, is one of the most organized and enduring traditional polities in Africa. The palace area is a sacred site where royal ceremonies, including the complex coronation of a new King, take place. The architecture and layout of the palace reflect the deep cosmological beliefs of the Shilluk. It stands as a powerful symbol of indigenous sovereignty and cultural resilience in the face of centuries of change. History K8 – Traditional African monarchies.",
+      "factsAdvanced": [
+        "Official residence of the Shilluk King (Reth)",
+        "Spiritual and political heart of the Shilluk Kingdom",
+        "Site of centuries-old royal ceremonies",
+        "Traditional architecture reflecting Nilotic culture",
+        "Sacred landmark of indigenous sovereignty",
+        "Located in the historical town of Kodok",
+        "Key site for preserving oral history and traditions"
+      ]
+    },
+    {
+      "id": "zande-kingdom-court-history-v2",
+      "descriptionAdvanced": "The Zande Kingdom Court represents the historical seat of power for the Azande monarchs in the southwestern region of South Sudan. The Azande were known for their sophisticated military organization and expansive kingdom that spanned parts of modern-day CAR and DRC. The court was the center of justice, where the King (Avungara) would preside over disputes and manage the affairs of his subjects. This site is significant for its association with King Gbudwe, a legendary figure who resisted both Arab and European incursions. It remains a focal point for Azande pride and cultural identity. History K8 – Resistance and royal power in the southwest.",
+      "factsAdvanced": [
+        "Historical seat of the Azande Avungara dynasty",
+        "Center of the powerful pre-colonial Zande Kingdom",
+        "Associated with the legendary King Gbudwe",
+        "Symbol of resistance against colonial rule",
+        "Heart of Azande justice and administration",
+        "Located in the fertile Western Equatoria region",
+        "Landmark of southwestern monarchical history"
+      ]
+    },
+    {
+      "id": "nimule-old-customs-history-v2",
+      "descriptionAdvanced": "Nimule Old Customs is a historical site that marks the long-standing importance of this border town as a gateway between Sudan and East Africa. During the colonial period, it was a vital station for the 'Uganda Railway' and Nile steamer services that connected the British territories. The old customs buildings and the nearby Fula Rapids were points of intense activity for traders, soldiers, and colonial officials. Today, while modern facilities have taken over, the old customs site stands as a reminder of Nimule's role in the regional logistics network for over a century. History K8 – Colonial infrastructure and border trade.",
+      "factsAdvanced": [
+        "Historical gateway between Sudan and Uganda",
+        "Site of early colonial customs and border control",
+        "Key link in the Nile-Uganda transport network",
+        "Former station for Nile steamer and rail services",
+        "Located near the strategic Fula Rapids",
+        "Symbol of long-standing regional trade links",
+        "Reflects the history of East African logistics"
+      ]
+    },
+    {
+      "id": "wau-colonial-quarter-history-v2",
+      "descriptionAdvanced": "The Wau Colonial Quarter is an area within the city of Wau that preserves the architecture and layout from the early 20th-century Anglo-Egyptian administration. Characterized by red-brick buildings, wide avenues, and large government residences, it was the administrative heart of the Bahr el Ghazal region. The quarter also includes some of the oldest churches and mission buildings in western South Sudan. This district offers a window into the colonial past, showing how foreign administrative structures were superimposed on local Nilotic landscapes. History K8 – Colonial urban planning in the Bahr el Ghazal.",
+      "factsAdvanced": [
+        "Preserves Anglo-Egyptian colonial architecture",
+        "Former administrative heart of Bahr el Ghazal",
+        "Contains red-brick buildings and wide avenues",
+        "Home to historical Catholic mission structures",
+        "Reflects 20th-century colonial urban design",
+        "Central district of the historical city of Wau",
+        "Symbol of regional administrative history"
+      ]
+    },
+    {
+      "id": "malakal-strategic-junction-history-v2",
+      "descriptionAdvanced": "Malakal has historically been one of the most strategic junctions in the Nile Valley due to its location at the confluence of the White Nile and the Sobat River. This position made it a vital military and trading hub for anyone seeking to control the northern approaches to the Sudd. During the various conflicts in Sudan's history, Malakal was a heavily contested city, serving as a base for both government and rebel forces. Its history is a testament to the enduring importance of river geography in determining the political and military fate of the region. History K8 – River confluences and military strategy.",
+      "factsAdvanced": [
+        "Strategic junction of the White Nile and Sobat River",
+        "Historically contested military and trade hub",
+        "Key base for controlling the northern Sudd gateway",
+        "Vital center for Nilotic and regional commerce",
+        "Site of significant 20th-century political events",
+        "Multicultural city with a complex history",
+        "Focal point for Nile navigation and logistics"
+      ]
+    },
+    {
+      "id": "rumbek-liberation-hq-history-v2",
+      "descriptionAdvanced": "The Rumbek Liberation Headquarters refers to the city's role as a major administrative and political base for the SPLM/A during the latter years of the liberation struggle. After being liberated in the late 1990s, Rumbek served as an interim capital and a hub for humanitarian and civil governance operations. It was here that many of the structures for the future South Sudanese state were first established and tested. The city's history is deeply intertwined with the quest for self-determination, earning it a reputation as a 'cradle of the revolution.' History K8 – Provisional capitals and wartime governance.",
+      "factsAdvanced": [
+        "Interim administrative capital during the war",
+        "Major political base for the SPLM/A leadership",
+        "Cradle of early civil governance structures",
+        "Hub for humanitarian coordination in the south",
+        "Site of historical political assemblies",
+        "Symbol of liberated South Sudanese territory",
+        "Strategic center for national liberation history"
+      ]
+    },
+    {
+      "id": "aweil-railway-station-history-v2",
+      "descriptionAdvanced": "The Aweil Railway Station is a significant landmark representing the extension of the Sudanese rail network to the Bahr el Ghazal region in the 1960s. This railway connected Wau and Aweil to Khartoum, facilitating the transport of goods, livestock, and people between the north and the south. Historically, the railway was a double-edged sword: while it brought trade and mobility, it was also used by the northern government for military troop movements during the civil wars. Today, the station stands as a quiet reminder of an era when rail was a primary driver of regional connectivity. History K8 – The role of railways in African conflict and trade.",
+      "factsAdvanced": [
+        "Strategic link on the Bahr el Ghazal railway line",
+        "Connected Wau and Aweil to the northern network",
+        "Completed in the early 1960s to facilitate trade",
+        "Historical site for troop and resource movement",
+        "Landmark of mid-20th-century transport infrastructure",
+        "Symbol of the complex links between north and south",
+        "Located in the capital of Northern Bahr el Ghazal"
+      ]
+    },
+    {
+      "id": "tonj-colonial-outpost-history-v2",
+      "descriptionAdvanced": "Tonj served as an important colonial outpost during the Anglo-Egyptian period, acting as a central hub for the administration of the Dinka herding communities in the western Bahr el Ghazal. The town was chosen for its strategic location along the Tonj River and its proximity to major cattle grazing lands. The colonial administration established offices, schools, and medical facilities here to project power into the interior. Tonj's history as an administrative center has shaped its development as a regional town that bridges traditional pastoralist life with modern governance structures. History K8 – Indirect rule and colonial outposts.",
+      "factsAdvanced": [
+        "Former Anglo-Egyptian administrative outpost",
+        "Strategic hub for managing the Dinka heartland",
+        "Site of early colonial schools and clinics",
+        "Located on the banks of the Tonj River",
+        "Historical bridge between traditional and modern rule",
+        "Key stop on the colonial-era road to the west",
+        "Symbol of regional administrative heritage"
+      ]
+    },
+    {
+      "id": "kapoeta-gold-trading-history-v2",
+      "descriptionAdvanced": "Kapoeta has a unique history as a center for the trade of gold and ivory in the remote southeastern corner of South Sudan. For over a century, the town has been a meeting place for Toposa herders, Arab traders, and European explorers. Its history is tied to the alluvial gold found in the riverbeds of the Eastern Equatoria hills, which has attracted seekers of wealth for generations. During the civil wars, Kapoeta was a highly strategic military prize due to its proximity to the Kenyan border. Its history reflects the enduring lure of mineral wealth and the strategic importance of borderlands. History K8 – Trade and conflict in mineral-rich borderlands.",
+      "factsAdvanced": [
+        "Historical center for gold and ivory trading",
+        "Meeting point for diverse ethnic and trade groups",
+        "Strategic military site near the Kenyan border",
+        "Known for its artisanal gold rush history",
+        "Primary town of the Toposa since pre-colonial times",
+        "Landmark of southeastern regional history",
+        "Associated with 19th-century trade routes"
+      ]
+    },
+    {
+      "id": "pibor-frontier-post-history-v2",
+      "descriptionAdvanced": "Pibor has long served as a remote frontier post in the far east of South Sudan, where the Nile Basin meets the Ethiopian foothills. Historically, it was established to manage the Murle community and secure the eastern borders of the Anglo-Egyptian Sudan. Its isolation made it a challenging posting for colonial officials and soldiers alike. Pibor's history is one of rugged independence and the struggle to integrate remote pastoralist regions into a centralized state. Today, it remains a symbol of the 'frontier' character of eastern South Sudan and its distinct cultural identity. History K8 – Governing remote frontier regions.",
+      "factsAdvanced": [
+        "Established as a remote colonial frontier post",
+        "Strategic center for managing the eastern border",
+        "Historical hub for the Murle community",
+        "Symbol of geographical and political isolation",
+        "Site of numerous 20th-century peace negotiations",
+        "Located on the banks of the Pibor River",
+        "Landmark of eastern regional administrative history"
+      ]
+    },
+    {
+      "id": "akobo-border-post-history-v2",
+      "descriptionAdvanced": "Akobo is a historic border post on the eastern frontier with Ethiopia, situated at the confluence of the Pibor and Akobo rivers. Since the colonial era, it has been a vital point for monitoring the border and managing cross-border relations between the Nuer and Anyuak communities on both sides. Akobo was often the site of diplomatic and military missions aimed at settling border disputes and regulating the ivory trade. Its isolation during the rainy season has always been a defining feature of its history, making it a true outpost of the state in the far east. History K8 – Border monitoring and cross-border communities.",
+      "factsAdvanced": [
+        "Strategic border post since the colonial era",
+        "Located at the confluence of Pibor and Akobo rivers",
+        "Key point for cross-border relations with Ethiopia",
+        "Historical center for monitoring the ivory trade",
+        "Symbol of the state's presence in the far east",
+        "Site of historical diplomatic border missions",
+        "Landmark of eastern Nilotic frontier history"
+      ]
+    }
+  ]
+}

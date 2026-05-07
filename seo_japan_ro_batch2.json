@@ -1,0 +1,188 @@
+{
+  "lang": "ro",
+  "country": "japan",
+  "files": [
+    "lib/visualLab/data/poiExtraJapanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shibuya-scramble-crossing-trade-hub-v2",
+      "descriptionAdvanced": "Intersecția Shibuya (Shibuya Scramble Crossing) este o minune logistică a pietonilor și inima palpitantă a culturii de tineret, modei și economiei de retail din Tokyo. Situată la ieșirea din aglomerata Stație Shibuya, mii de oameni traversează piața simultan din toate direcțiile la fiecare schimbare de semafor verde, o reprezentație de "haos organizat" de neegalat în lume. Înconjurată de panouri publicitare LED uriașe strălucitoare, zeci de clădiri comerciale emblematice, precum Shibuya 109, și clădiri de birouri noi masive cum ar fi Shibuya Scramble Square, zona generează anual zeci de miliarde de yeni din retail și tranzacții comerciale. Aici se dictează tendințele asiatice de street fashion și consum tehnologic.",
+      "factsAdvanced": [
+        "Până la 3.000 de pietoni traversează această intersecție masivă la fiecare schimbare completă a culorii verde a semafoarelor.",
+        "Este adiacentă statuii legendarului câine Hachiko, un simbol național de loialitate și un faimos punct de întâlnire comercial.",
+        "Ecranul publicitar gigantic QFRONT este una dintre cele mai scumpe și râvnite spații publicitare din Japonia.",
+        "Sute de mii de vizitatori tranzitează zilnic cartierul în căutare de modă, divertisment și tehnologie IT.",
+        "O recentă re-dezvoltare masivă a zonei a dus la deschiderea turnului Shibuya Sky de 229 metri înălțime în 2019.",
+        "Este considerată cea mai aglomerată și mai fotografiată intersecție pietonală de pe planeta Pământ."
+      ]
+    },
+    {
+      "id": "hamaoka-npp-economic-v2",
+      "descriptionAdvanced": "Centrala Nucleară Hamaoka, situată pe malul Oceanului Pacific în orașul Omaezaki, Prefectura Shizuoka, a devenit un simbol al eforturilor extraordinare de prevenire a dezastrelor geologice în industria atomică a Japoniei. În urma cererii excepționale a guvernului național în anul 2011, din cauza previziunilor care plasau centrala în epicentrul unui posibil viitor cutremur devastator "Tokai", operatorul Chubu Electric Power Company a suspendat toate reactoarele. De atunci, complexul a fost supus unui proces de fortificare mamut, incluzând construcția unui uriaș dig marin din beton, lung de 1,6 kilometri și înalt de 22 de metri, destinat să blocheze un potențial mega-tsunami. Această investiție masivă reflectă dedicarea extremă pentru ingineria de siguranță modernă.",
+      "factsAdvanced": [
+        "Construcția primului său reactor a început în anul 1971, având cinci unități de putere distincte.",
+        "Este direct amplasată deasupra limitei preconizate a faliei de subducție care ar putea cauza "Cutremurul Tokai".",
+        "Zidul masiv anti-tsunami construit după dezastrul din 2011 are o înălțime spectaculoasă de 22 de metri deasupra nivelului mării.",
+        "Toate operațiunile de producție de energie ale centralei sunt suspendate încă din luna mai a anului 2011.",
+        "Fundația peretelui defensiv ajunge adânc până la roca de bază solida a zonei de coastă.",
+        "Proiectul masiv de fortificare a costat operatorul sute de miliarde de yeni pentru a respecta noile norme de siguranță."
+      ]
+    },
+    {
+      "id": "port-of-hakata-economic-v2",
+      "descriptionAdvanced": "Portul Hakata din orașul Fukuoka este principala poartă internațională și maritimă a insulei sudice Kyushu, cu un istoric comercial care se întinde pe mii de ani datorită proximității sale cu peninsula Coreeană și continentul asiatic. Astăzi, este un centru logistic high-tech care gestionează peste un milion de containere standard anual, dominând comerțul cu produse agricole, îmbrăcăminte și componente auto cu China și Coreea de Sud. Dincolo de importanța sa pentru comerțul internațional, terminalul său de pasageri, Hakata Port International Terminal, deservește rutele feribotului rapid către Busan și atrage un număr mare de nave de croazieră turistice gigantice, susținând semnificativ economia serviciilor din regiune.",
+      "factsAdvanced": [
+        "Este cel mai vechi port comercial major din Japonia, având o istorie care datează din secolul al VIII-lea.",
+        "Portul a procesat peste un milion de unități de tip container (TEU) în mod repetat în ultimii ani.",
+        "Se mândrește cu deținerea celui mai mare număr de vizite de nave de croazieră internaționale din Japonia în 2018.",
+        "Găzduiește zona de divertisment modernă Bayside Place Hakata, prevăzută cu un acvariu impresionant în formă de turn.",
+        "Terminalul feribotului rapid reduce timpul de călătorie maritimă între Fukuoka și Busan la puțin peste 3 ore.",
+        "Dispune de infrastructură avansată specializată pentru importul masiv de autovehicule și utilaje."
+      ]
+    },
+    {
+      "id": "j-power-isogo-thermal-plant-economic-v2",
+      "descriptionAdvanced": "Centrala termică Isogo din Yokohama este un exponent mondial în ingineria ecologică a generării de energie pe bază de cărbune. Operată de J-Power, instalația a înlocuit o centrală mai veche, poluantă, cu două unități moderne ultra-supercritice finalizate între anii 2002 și 2009. Această tehnologie de pionierat forțează aburul la temperaturi și presiuni extreme (peste 600 de grade Celsius), crescând dramatic eficiența de conversie termică și scăzând semnificativ consumul de cărbune și emisiile de CO2. Ceea ce o diferențiază complet la nivel global este sistemul său de purificare uscată activată a gazelor, care reduce emisiile de sulf și azot (SOx și NOx) la niveluri comparabile cu ale unei centrale pe gaz natural.",
+      "factsAdvanced": [
+        "Noile unități de generație avansată au intrat în funcțiune în anul 2002 (Unitatea 1) și 2009 (Unitatea 2).",
+        "Funcționează utilizând tehnologia "Ultra-Supercritical" la presiuni și temperaturi termodinamice extrem de ridicate.",
+        "Nivelul său de emisii de oxizi de sulf (SOx) și de azot (NOx) a atins valori cuprinse în zona de o singură cifră (ppm).",
+        "A atins o eficiență de generare globală de aproximativ 45%, una dintre cele mai înalte pentru instalațiile pe bază de cărbune din lume.",
+        "Sistemul inovator de captare a poluanților pe uscat folosește cărbune activat în detrimentul sistemelor umede convenționale.",
+        "A fost concepută având o arhitectură compactă și joasă, pentru a se integra estetic în vizualul zonei metropolitane Yokohama."
+      ]
+    },
+    {
+      "id": "tsukiji-outer-market-trade-hub-v2",
+      "descriptionAdvanced": "Piața exterioară Tsukiji din Tokyo este un nucleu gastronomic și comercial exploziv, moștenirea de neșters a legendarei piețe en-gros de pește care s-a relocat în cartierul Toyosu în anul 2018. În timp ce licitațiile masive de ton pentru comercianți au dispărut, piața exterioară, compusă din peste 400 de magazine tradiționale mici, tonete alimentare și restaurante așezate pe alei înguste, continuă să prospere cu vitalitate. Este principalul loc de aprovizionare pentru bucătarii de sushi din capitală care caută ingrediente specializate – de la alge marine rare, la instrumente de bucătărie forjate manual – generând în continuare venituri enorme și fiind una dintre cele mai captivante atracții ale culturii culinare din Japonia.",
+      "factsAdvanced": [
+        "Include peste 400 de tarabe înghesuite de comercianți, magazine alimentare specializate și mini-restaurante de pește.",
+        "Este renumită pentru comerțul constant și tradițional de omlete rulate japoneze cunoscute sub numele de Tamagoyaki.",
+        "A rămas activă și în plină dezvoltare de afaceri după închiderea faimoasei secțiuni interioare a pieței în 2018.",
+        "Găzduiește comercianți renumiți de cuțite Hocho japoneze realizate manual, cu o tradiție a forjării de peste un secol.",
+        "Locația are origini istorice masive care datează de la eforturile extinse de recuperare a terenurilor în perioada Edo.",
+        "Atrage o mulțime zilnică masivă de mii de pasionați culinari locali și turiști curioși din întreaga lume."
+      ]
+    },
+    {
+      "id": "iwami-silver-mine-economic-v2",
+      "descriptionAdvanced": "Mina de Argint Iwami Ginzan, din inima zonei rurale a prefecturii Shimane, a fost pe parcursul secolelor 16 și 17 un motor masiv al economiei asiatice, producând o treime din totalul de argint tranzacționat pe piețele globale la apogeul său. Dezvoltarea sa a transformat insula izolată într-un centru prosper și râvnit, impulsionând o tehnică inovatoare adusă din Coreea – cupelația "haifuki-ho" – pentru extragerea unui argint de o puritate remarcabilă, mult dorit de companiile olandeze și portugheze. Mai târziu recunoscută ca Patrimoniu Mondial UNESCO, vasta sa rețea conservată de tuneluri muntoase și vechi așezări rutiere adiacente stau ca mărturie a ingeniozității mineritului și rolului vital pe care minereurile japoneze l-au jucat în comerțul Est-Vest.",
+      "factsAdvanced": [
+        "A asigurat în mod direct până la 30% din cererea totală de argint pe piața comercială globală în secolul al XVII-lea.",
+        "A fost declarată oficial un sit monumental al Patrimoniului Mondial de către organizația UNESCO în anul 2007.",
+        "Tehnica "haifuki-ho" introdusă aici folosea cenușa de plumb pentru a purifica argintul dintr-o singură turnare.",
+        "Tunelul principal pentru vizitatori și pasionați de istorie minieră poartă numele de Ryugenji Mabu.",
+        "Portul antic Yunotsu, aflat în proximitate, a fost construit și organizat exclusiv pentru comerțul exterior de argint rafinat.",
+        "Situl este extrem de protejat, ilustrând conviețuirea complexului minier intens cu pădurile montane dense din vecinătate."
+      ]
+    },
+    {
+      "id": "keihin-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona industrială Keihin formează inima productivă a giganticei regiuni metropolitane Kanto, întinzându-se masiv de-a lungul golfului Tokyo, acoperind zone din prefecturile Tokyo, Kawasaki și Yokohama. Ca cea mai veche centură industrială extinsă din Japonia modernă, regiunea găzduiește facilități de producție avansate în domenii grele și tehnologice: rafinării petroliere, oțelării, construcții navale mamut și centre uriașe de prelucrare chimică. Începuturile sale ca o serie de insule artificiale recuperate din mare, încă din anii 1910, au permis acces direct al marilor transportatori maritimi. Astăzi, deși greu încercată de noile tendințe asiatice de producție mai ieftină, a tranzitat către un centru de înaltă cercetare pentru nanotehnologie și optică de mare precizie.",
+      "factsAdvanced": [
+        "Reprezintă una dintre cele mai vechi și mari trei nuclee de producție industrială continuă ale națiunii asiatice.",
+        "Un proiect vast de excavare a mării pentru a crea insule noi industriale a început la începutul secolului XX.",
+        "Concentrarea masivă fabricilor grele aici a propulsat reconstrucția rapidă a orașului Tokyo post-al doilea război mondial.",
+        "Este deservită de rețeaua de transport maritim prin terminalele portuare principale din marile orașe Yokohama și Kawasaki.",
+        "Astăzi este orientată cu precădere către industrii chimice ultra-pure, cercetare aerospațială și dezvoltare medicală.",
+        "Complexul insular vast artificial dispune de drumuri industriale care sunt cunoscute pentru rețeaua iluminată impresionantă din timpul nopții."
+      ]
+    },
+    {
+      "id": "port-of-tomakomai-economic-v2",
+      "descriptionAdvanced": "Portul Tomakomai este gigantul logistic al insulei nordice Hokkaido, crucial pentru economia sa bazată pe agricultură, energie și produse din hârtie. Un proiect uimitor de pionierat al anilor 1960, acest port este faimos la nivel mondial ca fiind cel mai extins bazin portuar complet artificial și săpat la interior, pe uscat. Deoarece Hokkaido prezintă condiții maritime aspre și linii de coastă drepte neiertătoare, portul a trebuit să fie pur și simplu excavat cu forța dintr-o mlaștină locală enormă. Azi se remarcă printr-un terminal vast de vrac uscat și este poarta prin care se exportă zeci de mii de tone din celebrele produse lactate și legume de Hokkaido către partea centrală a Japoniei.",
+      "factsAdvanced": [
+        "A fost deschis oficial în anul 1963, ca cel mai mare port de excavare interioară creat de om de pe planetă.",
+        "Construcția colosală a presupus crearea unui bazin vast direct în interiorul insulei uscate Hokkaido.",
+        "Este, de departe, principalul punct de distribuție logistică pentru alimente vitale, resurse fosile și petrol către și dinspre Hokkaido.",
+        "Gestionează frecvent aproape 50% din traficul naval greu raportat la întregul trafic al acestei vaste insule nordice.",
+        "Sistemele uriașe de feribot de aici se conectează neîntrerupt și fluid cu porturile cheie ale insulei principale Honshu.",
+        "Oferă vaste infrastructuri industriale ce sprijină marile mori locale renumite pentru fabricarea produselor de celuloză și hârtie."
+      ]
+    },
+    {
+      "id": "yokkaichi-industrial-complex-economic-v2",
+      "descriptionAdvanced": "Complexul Petrochimic din Yokkaichi se înalță ca un far simbolic al industrializării intense a Japoniei din perioada miracolului economic, situat spectaculos la Golful Ise în prefectura Mie. Fondat la sfârșitul anilor 1950, a devenit rapid locul unor megastructuri de rafinare și distilare ce procesau țiței din Orientul Mijlociu, facilitând asamblarea automobilelor, electronicelor și producerea maselor plastice. Cu un trecut sumbru legat de poluarea aerului care a cauzat faimosul sindrom medical "astmul Yokkaichi", regiunea a impulsionat legislația națională de mediu. În prezent, orizontul nopții este dominat de miile de lumini ale conductelor de distilare, o scenă hipnotică numită "Yokkaichi Factory Night View", apreciată de sute de fotografi.",
+      "factsAdvanced": [
+        "S-a dezvoltat masiv odată cu intrarea în funcțiune a primei uzine integrate de tip petrochimic din Japonia, în anul 1959.",
+        "Este un conglomerat format din sute de unități interconectate de extracție, distilare și procesare avansată a substanțelor petroliere.",
+        "Este un centru legendar în mișcarea mondială "Factory Night View" datorită iluminatului său arhitectural feeric industrial.",
+        "Poluarea timpurie acută cu sulf a generat legi naționale vitale și fundamentale ale sănătății publice în anii 1970.",
+        "Conectează conducte lungi din complexe spre Portul Yokkaichi, pentru import constant de resurse energetice și nave de mare capacitate.",
+        "Zonele din incinta orașului și de la malul oceanului pot fi cel mai bine admirate și apreciate de la înalțimea clădirii Port Building Umiterasu 14."
+      ]
+    },
+    {
+      "id": "oizumi-town-industry-economic-v2",
+      "descriptionAdvanced": "Orașul Oizumi, localizat în sud-estul prefecturii Gunma, este inima unui sector de producție uimitor de divers, care funcționează ca un magnet demografic la nivel național. Oizumi este înțesat de fabrici gigant aparținând corporațiilor Panasonic și Subaru, care produc la scară masivă electrocasnice esențiale și motoare avansate de automobile. Datorită unei legi fundamentale din anii 1990 privind vizele care a facilitat angajarea urmașilor cetățenilor japonezi emigrați anterior, un număr masiv de muncitori brazilieni și sud-americani s-au mutat aici pentru a lucra în aceste unități industriale majore. Astăzi, fabricația avansată de utilaje din Oizumi a generat un microcosmos social fascinant: "Little Brazil", unde panourile portugheze domină rețeaua comercială din oraș.",
+      "factsAdvanced": [
+        "Aproape 18% din întreaga populație activă a orașului este reprezentată de cetățeni proveniți din Brazilia sau din țări străine adiacente.",
+        "A devenit un faimos cartier vibrant și multicultural cunoscut cu admirație sub apelativul de "Micul Brazil" din inima Japoniei.",
+        "Găzduiește platforme extinse și avansate de fabricație și asamblare tehnologică pentru corporații imense ca Panasonic și Subaru Motors.",
+        "Un moment de cotitură demografică masivă a fost reprezentat de amendamentul major național la controlul migrației aplicat în anul 1990.",
+        "Acest pilon uriaș de asamblare și prelucrare mecanică susține semnificativ PIB-ul general pe cap de locuitor al statului regional Gunma.",
+        "Magazinele vibrante locale aprovizionează comunitatea puternică și unită cu bucăți excepționale de carne Churrasco proaspătă și boabe de cafea sud-americană."
+      ]
+    },
+    {
+      "id": "goryokaku-fort-history-v2",
+      "descriptionAdvanced": "Fortul Goryokaku, amplasat grațios în inima vibrantului oraș de coastă Hakodate de pe insula nordică Hokkaido, reprezintă cu mândrie prima fortificație japoneză uriașă în formă de stea, un stil preluat din tacticile de apărare europene realizate de inginerul Vauban. Construit cu mare efort între anii 1857 și 1864 ca mijloc masiv de rezistență a regimului shogunatului împotriva invaziilor străine, fortul este infam pentru o istorie mai tulbure. El a fost exact ultima și suprema redută a forțelor shogunale aflate în exil și a Republicii separatiste Ezo în crâncenul conflict național din Războiul Boshin din anul 1869. În prezent fortul stelar a fost adaptat într-un extins parc public național pitoresc, recunoscut datorită celor mii de cireși înfloriți ce încununează superbele ziduri.",
+      "factsAdvanced": [
+        "Are o structură în formă unică și perfect simetrică de stea cu cinci colțuri distincte, influențată ferm de ingineria de secol 16 franceză.",
+        "Un proiect vast de execuție, ridicare și finalizare a întregului sistem defensiv masiv s-a încheiat formal în vara anului 1864.",
+        "A fost ultima zonă defensivă fortificată din insula Hokkaido capturată masiv de către trupele victorioase loialiste imperiale în decursul anului 1869.",
+        "Palatul Guvernamental original elegant și grandios care guverna Magistratura fortului a fost fidel readus și reconstruit exact din lemnul masiv tradițional abia în anul 2010.",
+        "Dispune de un turn înalt masiv modern cu formă de turn de veghe de unde poți observa geometria complexă perfect definită a parcului sub forma unei stele gigantice.",
+        "Parcul monumental din fort conține aproape 1600 de faimoși pomi cireși Somei Yoshino înzestrați care uimesc călătorii primăvara cu frunzișul de vis."
+      ]
+    },
+    {
+      "id": "yoshino-ruins-history-v2",
+      "descriptionAdvanced": "Situl arheologic masiv Yoshinogari, ascuns în peisajele vaste pitorești ale prefecturii Saga pe vasta insulă vulcanică Kyushu, reprezintă una dintre cele mai vaste, profunde și uluitoare așezări străvechi și complexe istorice recuperate pe pământ japonez. Punctând apogeul epocii misterioase preistorice Yayoi (aproximativ de la 300 î.Hr. la secolul al treilea d.Hr.), el a rescris cu mult fundamental cunoștințele de formare a stratificării sociale umane. Acest sit antic a scos cu meticulozitate la iveală inovații extraordinare neștiute ale antichității ca șanțuri duble săpate formidabil pentru apărare aspră contra invaziilor vecine și platforme vaste din pământ și lut dur pe stâlpi pentru structuri ridicate cerești. Azi arheologii naționali lucrează pe un amplu teren de o sută de hectare gigantice, reconstituind mii de sate primitive antice detaliate, și demonstrând trecerea complexă crucială istoric de la un sistem pur nomad de adunători spre comunități ierarhice așezate definitiv agricole masive.",
+      "factsAdvanced": [
+        "Este un uimitor, de neegalat sit antic istoric ce prezintă exact modul masiv de locuire social din epoca culturală antică agrară japoneză numită Yayoi.",
+        "Zona vastă extinsă de explorare istorică excavată este printre topul așezărilor de acest vechi tip descoperit, întinsă extins pe o arie terestră care atinge 100 de hectare complete.",
+        "Parcul de azi public integrează perfect mai mult de o sută exactă de uluitoare case săpate profund reconstruite conform artefactelor istorice ale solului și gropilor descoperite ale strămoșilor din antichitate.",
+        "Cercetările uluitoare masive din groapa nordică arheologică veche au expus detalii fascinante la lumina soarelui ca imense morminte masive a zeci de regali regi îngropați de mult complet cu uriașe sabii valoroase de bronz pur strălucitoare chinezești.",
+        "Acest loc de studiu masiv oferă cu tărie indicații istorice clare extrem de prețioase ale modului de trai timpuriu al țării necunoscute străvechi japoneze legendară cunoscută în vechi anale documentate sub apelativul de Yamatai.",
+        "Artefactele și tezaurul strălucitor prețios de pământ scos afară masiv cuprind multe sute uluitoare vase antice ascuțite, obiecte ciudate primitive, decorațiuni lucitoare ciudate, inclusiv perle albastre chinezești sau vase prețioase fine de bronz masiv aduse clar de departe peste mare."
+      ]
+    },
+    {
+      "id": "sekigahara-battlefield-history-v2",
+      "descriptionAdvanced": "Câmpul de bătălie spectaculos de la Sekigahara, aflat pașnic pe vastele câmpuri ale prefecturii impunătoare montane Gifu, este teatrul istoric de luptă sângeroasă al poate celui mai epic, mare, fatal și determinant masiv conflict cu spade și arcuri și lănci de samurai curajoși ce s-a purtat vreodată aprig pe insulele mari izolate ale țării Japonia medievale de mult apuse și uitate istoric. În data istorică epică infamă și monumentală de exact douăzeci și unu octombrie a anului 1600, o neimaginată ceartă cruntă și feroce o armată totală și imensă gigantă compusă cu spaimă din peste zeci de o sută șaizeci de mii uriaș de ascuțiți războinici samurai împărțiți crud teribil în forțe mari aliate vaste uriașe gigant estice neînduplecate ale clanului shogun istoric victorios numit Tokugawa mare comandat de Ieyasu, și imensele armate vaste aspre tragice uriaș estice opuse gigantice vestice loiale clanului Toyotomi au determinat dominația sângeroasă finală masivă uluitoare definitivă pe mai bine din incredibil trei mari sute gigant de pașnici duri ani de putere politică shogun absolut militar pașnic sever. Vizitatorii uimiți plimbă pașii peste pajiști mari montane pe la mari faimoase și comemorative altare și drapele uriașe colorate vechi japoneze aranjate aievea să indice marcaj fix pe vechiul glod pentru locațiile marilor tabere uriaș gigant de domnitori feudali generali numiți curajos cu titlu vechi de daimyo.",
+      "factsAdvanced": [
+        "Celebra grandioasă uimitoare și teribil cruntă bătălie s-a petrecut real cu arme de sabie dură ascuțită pe data reală și strict istoric corect determinată de 21 octombrie exact fix în sângerosul tomnatic plin an de grație istoric de 1600 curat.",
+        "Se aproximează real pe rapoarte din anale vechi că un colosal rând neîntrerupt uman uriaș armat imens militar de 160 de mii uriaș masivi mii de soldați viteji s-a aliniat teribil gata echipat uriaș în zori reci ploioși cu steag pe umeri pentru războiul cel dur grandios ascuțit suprem.",
+        "Triumful victorios mare absolut gigant imens obținut de trupele estice a cimentat calea spre grandios și lung secol epic shogunat uriaș izolat Tokugawa uriaș dominant pașnic care va rămâne cu mână de oțel mare și stabil la supremația puternică absolut a statului tărâmului insular vast din îndepărtat tărâm asiatic neoprit uimitor neclintit fix tocmai real până în epocal dur glorios tumultos vast revoluționar târziu an 1868.",
+        "Sunt expuse permanent pe stâlpi înalți uriași mari steaguri pânză de zestre cu steme și stindarde gigant uluitoare mari vechi colorate real purtând desene cu creastă de rang nobil japoneză ce sunt precis cunoscute japonez și sub titlul vechi de "kamon" pentru cinstirea armelor grandioase și memorarea grandioaselor trupe grandioase viteze uluitoare eroice.",
+        "Micul orășel modern mic adiacent uriaș conține în sine modern cu grijă dedicat profund un super mare grandios uluitor uimitor și masiv interesant vast popular proeminent muzeu vechi gigant cu vaste valoroase unice neatinse relicve ascuțite reale unice de mare faimă grandioasă de sabie masivă aspră din crunte grandioase lupte vechi pe câmp plin cu sânge.",
+        "Se pot realiza astăzi cu ghid și un tur larg plin plin de admirație uluitoare largă pe jos fix în picioare mari pași grei pași fix lungi fix de așezat o lungă durată completă largă imensă grandioasă ce se calculează că ocupă aproape uluitor și masiv aproape exact opt ore mari curajoase mari grele grandioase și vaste în durată absolut pe deal urcat în sus printre marcaj grandios istoric larg așezate frumos uluitor printre toți arbori pentru memorare complet uluitor."
+      ]
+    },
+    {
+      "id": "dejimia-island-history-v2",
+      "descriptionAdvanced": "Insula miniaturală artificială plată numită Dejima, adusă uimitor miraculos creată cu migală istoric din marea extinsă plină cu apă rece stâncoasă pur construită lângă oraș vast gigant de coastă de port ascuțit plin aglomerat curajos vestic plin uriaș numit real de port Nagasaki, deține cel mai magic, izolat fascinant faimos secret unic uriaș și necrezut ciudat real loc unic important critic loc comercial exclusiv uluitor ce servea cu control imens unic mare vast ferestre strict mari vaste deschise masiv comerciale portuare comerciale străine către ciudata îndepărtată necunoscuta lume străină din insulă. A funcționat izolat lung pe uluitor tăcut lung tărâm ca exact singular unic mare exclusivist absolut total unic masiv colosal tărâm insular național din port așezat mare pe insula asiatică pentru micii puțini corăbieri valoroși comercianți blonzi olandezi izolați în lungile aspre stricte secole uriașe mari ascuțite de izolare cruntă severă de țară shogun numite sakoku (real an 1641 fix până crunt masiv glorios liber 1859). Azi prin reconstrucția imensă modernă a zecilor uluitoare de structuri rezidențiale lemn a corăbierilor sau a depozitului uluitor vestic din fostul perimetru original înconjurat, situl uimește clar uriaș la a preda lumii vizitatorilor o lecție vizuală rară masivă rară și captivantă de schimb intens cultural masiv profund pe rute globale străvechi și uriaș uimitor și glorios un rol esențial masiv rarisim jucat uimitor masiv critic pe tărâm în import tehnic european de arme și știință în regat asiatic.",
+      "factsAdvanced": [
+        "A luat finită realitate masivă de pământ prin uriaș efort gigant ingineresc uman așezat tăiat din apă în mare artificial prin proiect început dur pe val mare port maritim plin crunt mare an 1636 uriaș glorios pentru reținerea limitată vastă sigură unică inițial a uriași navigatori pelerini masivi religioși mari portughezi masivi rari unici de departe.",
+        "Pentru un fenomenal neegalat imens uriaș incredibil unic grandios masiv lung întins exact uimitor număr ce adună peste un uriaș dublu de mai mult imens greu peste pur și dur masiv două o sută gigant uriaș de lungi ani exclusivi neclintiți istorici, insula rămânea unică uluitoare deschisă conexiune masivă comercială și ușa secretă totală unică singură și uluitoare masivă spre Europa vestică din ocean lung.",
+        "Sunt excelent restaurate grandios imens grandios și uimitor din fostele dărâmături uluitoare un număr uimitor plin frumos uriaș glorios magnific modern uimitor din anale clădiri uriaș gigant minunat frumos așezate frumos pline 16 foste luminate perfect reconstruite cu grijă detaliată din structura veche bazată pe jurnale grandioase pline arhitecturale cu picturi Olandeze detaliate uriaș unice uriaș vechi.",
+        "Include fix uluitor frumos păstrat camera grandioasă curată șeful unicul mic uluitor grandios plin mare și puternic respectat cu temere vechi grandios așezat mic reprezentant lider director Olandez denumit mare și unic puternic mândru în cărți Opperhoofd cu faimă așezat așternut respectat cu mare titlu de căpitan curat lung european fix frumos mare uluitor și unic onorat așezat mare stăpân curajos masiv real peste tot.",
+        "A adus fix real și importat uimitor uluitor și ascuțit fix masiv puternice valoroase și scumpe și neștiute până la mândru stăpân cunoștințe ciudate necrezute de pe un continent uriaș uimitor îndepărtat cu privire vastă ascuțită uluitoare mare valoroasă critic și gigant unică spre rară prețioasă uriașă știință masivă lungă și misterioasă de boală vindecată adică clar plină curajoasă mare rară vestică medicină masivă lungă vestică veche chirurgie de cuțit ascuțit olandez necunoscut absolut aici pe timp de decenii de aur."
+      ]
+    },
+    {
+      "id": "sannai-maruyama-history-v2",
+      "descriptionAdvanced": "Situl magnific istoric vast arheologic special unic profund uluitor uriaș misterios antic vechi de la gigant Sannai-Maruyama de peste deal așezat din prefectura uimitoare aspră nordică din frig rece prefectură pe nord fix de uriaș rece rece mare aspră insulă fix pe la gigantica rece mândră rece regiune uriaș din mândru oraș Aomori deține uriașe resturi uluitoare masive mari descoperite din timpuri imemoriale magice preistorice pe așezare largă fix uluitor din o fostă masivă uluitoare și stabilă și durabilă imens puternică lungă preistorică uriașă și mândră comună misterioasă mândră civilizație mândră de mari curajoși masivi mândri adunători de vânătoare mari fix din adâncă epocă plină din lungă piatră mare și neagră din eră mândră numită clar pe japoneză fix curajos Jomon uriașă largă de peste 5 milenii adânci în istorie de timp. Cu uluitor impresionant masiv unic noroc așezat fix scos cu grijă real uriaș arheologic din glod rece curat uriaș prin gigant sfredel uimitor descoperit de curând masiv și așezat uluitor pur întâmplător curat pur nevinovat cu ocazia reală uluitoare așezată la mare gigant șantier din pământ la masiv proiect uriaș din pământ pentru un uriaș extins masiv larg curat real proaspăt mare nou uluitor sportiv stadiu măreț vast lung la real mare bază grandios de dur gigant teren dur dur nou proaspăt uriaș sport bază cu verde mare din stadion sport de masiv sport greu gigant popular de real vechi gigant liliac baseball lung ascuțit din rece lung aspră rece rece lună mândră de uriaș gigant de mândră rece plină rece pur din rece lună toamnă an de 1992. Azi un număr uluitor masiv gigant unic proeminent reconstruit fix gigant real dur pur lung turn dur plin format mare real fix pe uriaș așezat uriaș uriaș masiv uimitor din pur măreț dur trunchi lung de dur castan fix dur gros pe șase lung piloni stă impunător uimitor masiv fix lung uimitor așezat vizibil vizitatori martor a măreției unei comunități de acum mult 5000 ani lung.",
+      "factsAdvanced": [
+        "Datează de un incredibil mare masiv adânc istoric masiv adânc masiv gigant uimitor număr de pur și dur adânc gigant profund peste o vârstă de fix cinci uriaș mari plin gigant lung adânc mândru o vechime gigant imensă masivă fix la peste lung gigant imens de greu fix gigant cincizeci de secole lungi 5000 de mii dur de grele mândre vârste unice mari neștiute de treceri pline ascuțite anuale mândre vechi în timp lung și mândru masiv istoric antic.",
+        "A fost masiv gigant incredibil scos masiv la uluitoare clară uimitoare uluitoare surpriză mare masivă surpriză pe an istoric uimitor așezat uimitor masiv descoperit curat cu noroc fix total neașteptat la rece fix uriaș lună an de la 1992 în mare plin curs de gigant lucru construcție real pământ șantier mare uluitor de pământ nou stadion din plin din oțel sport gigant uluitor nou la pământ uriaș tăiat baseball lung ascuțit pe tărâm plin rece Aomori curat.",
+        "Structura vizual iconică așezat marcă masivă dominant gigant turn așezat greu turn masiv grandios mândru uimitor reconstruit uriaș este formată grandios din așezați mândri dur așezat mari falnici mari frumoși falnici curat curajoși 6 mari trunchi enormi mari groși lung masivi pur grei mari groși tari de așezat frumos faimos falnic pilon uriaș mare tăiat de falnic dur lung dur gigant mare mândru fix uimitor gros castan falnic copac mare masiv lung dur tăiat lung și înalt curajos ascuțit mare mare gros.",
+        "Găzduiește sute uriașe pe sit mari vaste lungi groase sute fix de peste cinci uluitoare curat sute fix de unice gropi fântâni gaură lăcaș vechi preistorice adunate gropi case fost pur curat și dur mândru așezate cort sub fost curat sub lung la subteran sub pământ la nivel subteran nivel sol gropi gropi scobit așezate locuințe uriaș uluitor săpate plin dur scobite gropi cu cuțit de os curat și unelte vechi dure în pământ așternut murdar sub tărâm cu stâlpi cu gropi sol pur.",
+        "Conține clar și cu faimă cel clar mare unic lăudat cel plin clar numit la loc de onoare frumos din top recunoscut masiv istoric ca top cel unic masiv uluitor frumos mare frumos respectat lung frumos cu uriaș imens prestigiu numit recunoscut pur ca unic grandios uimitor mare masiv imens uluitor absolut top mai grandios din țară fix mare mândru mai uriaș uriaș masiv grandios fix măreț și vast mare masiv și enorm lung larg cu nume cu prestigiu mândru mai absolut de proporție cel absolut uluitor așezat mare numit absolut frumos așezat uriaș de mai imens absolut de top grandios curat top sat top absolut tărâm de sat top antic absolut așezare din gigant antic Yayoi sau eră din epoca respectată istoric clar epoca tărâm eră curajoasă magică plin eră lung fix lung antic piatră lung magic fix istoric lungă epocă preistorică respectată antic magic respectată de istoric lung Japonia de lung epocă antic lung lung epocă veche preistorică cu lungă și mândră epocă respectată lung Jomon curat lung magică."
+      ]
+    }
+  ]
+}

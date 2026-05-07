@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cape-coast-castle-history-v2",
+      "descriptionAdvanced": "Das Cape Coast Castle, erbaut 1653 ursprünglich von schwedischen Händlern aus Holz, wurde später von den Briten zu einer gewaltigen Steinfestung ausgebaut. Es ist eines der tiefgreifendsten Mahnmale des transatlantischen Sklavenhandels, dessen feuchte und dunkle Verliese Tausende von Afrikanern gefangen hielten, bevor sie durch die berüchtigte Tür ohne Wiederkehr auf die Schiffe getrieben wurden. Heute steht die Festung als UNESCO-Weltkulturerbe und dient als eindringliches Museum, das die brutale Realität dieser Epoche dokumentiert. Geschichte K8 — der Sklavenhandel.",
+      "factsAdvanced": ["1653 von schwedischen Händlern erbaut", "Später britische Steinfestung", "Mahnmal des Sklavenhandels", "Berüchtigte Tür ohne Wiederkehr", "Ist heute ein UNESCO-Weltkulturerbe", "Grausame Verliese in dunklen Gewölben"]
+    },
+    {
+      "id": "elmina-castle-history-v2",
+      "descriptionAdvanced": "Errichtet im Jahr 1482 von den Portugiesen, ist das Elmina Castle (São Jorge da Mina) das älteste europäische Gebäude südlich der Sahara. Ursprünglich erbaut, um den lukrativen Goldhandel an der Goldküste zu schützen, wandelte sich sein Zweck bald auf fatale Weise zum Hauptumschlagplatz für versklavte Menschen, nachdem die Niederländer es 1637 eroberten. Die grausame Ironie der Architektur, bei der sich die luxuriösen Offiziersquartiere direkt über den elenden Sklavenverliesen befanden, erschüttert Besucher noch heute. Geschichte K7 — europäische Kolonisation.",
+      "factsAdvanced": ["Erbaut 1482 von Portugiesen", "Ältestes europäisches Gebäude südlich der Sahara", "Ursprünglich für den Goldhandel", "Ab 1637 niederländischer Sklavenumschlagplatz", "Offiziersquartiere über den Sklavenverliesen", "Liegt in der Küstenstadt Elmina"]
+    },
+    {
+      "id": "osu-castle-history-v2",
+      "descriptionAdvanced": "Das Osu Castle, auch bekannt als Fort Christiansborg, wurde 1659 von dänischen Händlern an der Küste von Accra errichtet. Es wechselte im Laufe der Jahrhunderte mehrfach den Besitzer zwischen Dänen, Portugiesen, Akwamu und schließlich den Briten, die es 1850 kauften und zum Sitz der Kolonialregierung machten. Nach der Unabhängigkeit diente das weiße Gebäude jahrzehntelang als Amtssitz des ghanaischen Präsidenten, bevor die Regierung in das neuere Jubilee House umzog. Geschichte K8 — Unabhängigkeit und Regierung.",
+      "factsAdvanced": ["Auch bekannt als Fort Christiansborg", "1659 von dänischen Händlern errichtet", "Sitz der britischen Kolonialregierung ab 1850", "Ehemaliger Amtssitz ghanaischer Präsidenten", "Liegt an der Küste von Accra", "Wechselte mehrfach den Besitzer"]
+    },
+    {
+      "id": "larabanga-mosque-history-v2",
+      "descriptionAdvanced": "Die Larabanga-Moschee, oft als das Mekka Westafrikas bezeichnet, ist das älteste islamische Gebäude in Ghana und stammt mutmaßlich aus dem Jahr 1421. Das architektonische Meisterwerk ist im sudanesisch-sahelischen Stil aus reinem Schlamm und Schilf errichtet und erfordert aufgrund der heftigen Regenzeiten eine jährliche Erneuerung der Lehmfassade durch die lokale Gemeinde. Im Inneren wird ein antiker Koran aufbewahrt, der der Legende nach vom Himmel auf den örtlichen Imam herabfiel. Kultur K6 — islamische Architektur.",
+      "factsAdvanced": ["Ältestes islamisches Gebäude in Ghana", "Gilt als Mekka Westafrikas", "Erbaut um 1421 aus Schlamm und Schilf", "Jährliche Erneuerung der Lehmfassade", "Bewahrt einen legendären antiken Koran", "Sudanesisch-sahelischer Architekturstil"]
+    },
+    {
+      "id": "kumasi-fort-history-v2",
+      "descriptionAdvanced": "Das Kumasi Fort, erbaut 1896 von den Briten im Herzen der Ashanti-Region, ist eine der wenigen europäischen Festungen im Landesinneren von Ghana. Es wurde aus den Trümmern von Gebäuden errichtet, die während der brutalen Anglo-Ashanti-Kriege zerstört wurden, und diente hauptsächlich dazu, die Kontrolle über die rebellischen Ashanti-Krieger zu festigen. Heute beherbergt die Anlage das Armed Forces Museum, in dem Waffen, Medaillen und Dokumente aus beiden Weltkriegen und lokalen Konflikten ausgestellt sind. Geschichte K8 — koloniale Konflikte.",
+      "factsAdvanced": ["1896 von Briten erbaut", "Seltener Festungsbau im Landesinneren", "Erbaut aus Trümmern alter Ashanti-Gebäude", "Sollte rebellische Ashanti kontrollieren", "Beherbergt heute das Armed Forces Museum", "Dokumentiert Welt- und Kolonialkriege"]
+    },
+    {
+      "id": "manhyia-palace-history-v2",
+      "descriptionAdvanced": "Der Manhyia-Palast in Kumasi ist der Sitz des Asantehene, des absoluten Monarchen des Ashanti-Reiches, und das pulsierende Herz der Ashanti-Kultur. Das ursprüngliche Gebäude wurde 1925 von der britischen Kolonialregierung als Wiedergutmachung für die Zerstörung des alten Palastes erbaut, doch Prempeh I. kaufte es selbst, um nicht in der Schuld der Briten zu stehen. Das heutige Gelände umfasst nicht nur die königlichen Residenzen, sondern auch ein faszinierendes Museum, das Goldschmuck, königliche Sänften und historische Artefakte präsentiert. Geschichte K7 — afrikanische Königreiche.",
+      "factsAdvanced": ["Sitz des Asantehene", "1925 von Briten als Wiedergutmachung erbaut", "Zentrum der Ashanti-Kultur in Kumasi", "Von Prempeh I. selbst bezahlt", "Beherbergt königliche Artefakte", "Zentrum der lokalen Monarchie"]
+    },
+    {
+      "id": "assin-manso-slave-river-history-v2",
+      "descriptionAdvanced": "Der Assin Manso Slave River Park war während der Ära des transatlantischen Sklavenhandels einer der größten Sklavenmärkte im Landesinneren Ghanas. Hier, am Ufer des Flusses Ndonkosuo (Sklavenfluss), wurden die aus dem Norden hergebrachten Gefangenen ein letztes Mal gebadet und rasiert, bevor sie auf die zermürbende Reise an die Küste geschickt wurden. Heute ist der Ort ein heiliger Gedenkplatz, an dem 1998 die Überreste zweier versklavter Afrikaner aus Jamaika und den USA feierlich beigesetzt wurden. Geschichte K8 — Gedenkkultur.",
+      "factsAdvanced": ["Sklavenmarkt im Landesinneren", "Liegt am Fluss Ndonkosuo (Sklavenfluss)", "Letzter Bade- und Rasierort für Sklaven", "Heiliger Gedenkplatz für die Diaspora", "1998 Beisetzung von Rückkehrern", "Liegt in der Region Assin Manso"]
+    },
+    {
+      "id": "fort-prinzenstein-history-v2",
+      "descriptionAdvanced": "Erbaut im Jahr 1784 von den Dänen in der Küstenstadt Keta, diente Fort Prinzenstein lange als Verteidigungsanlage gegen rivalisierende europäische Mächte und das mächtige Anlo-Ewe-Königreich. Während die Festung anfangs dem Gewürz- und Goldhandel diente, wurde sie später massiv für den Sklavenhandel ausgebaut. Heute steht nur noch ein Bruchteil der ursprünglichen Anlage, da die unerbittliche Küstenerosion der Keta-Lagune und der ansteigende Meeresspiegel einen Großteil der Mauern verschlungen haben. Umwelt K6 — Küstenerosion und Historie.",
+      "factsAdvanced": ["1784 von Dänen in Keta erbaut", "Verteidigung gegen Anlo-Ewe-Königreich", "Massiv für Sklavenhandel genutzt", "Großteil durch Küstenerosion zerstört", "Zeugnis der Naturgewalt", "Einziges großes Dänen-Fort östlich des Volta"]
+    },
+    {
+      "id": "fort-san-sebastian-history-v2",
+      "descriptionAdvanced": "Fort San Sebastian in Shama ist das drittälteste Fort in Ghana, das ursprünglich 1526 von den Portugiesen aus Holz und Lehm erbaut und später von den Niederländern in eine mächtige Steinbastion umgewandelt wurde. Es diente primär dazu, britische Schiffe vom lukrativen Goldhandel abzuhalten, der den portugiesischen Einfluss bedrohte. Bekanntheit erlangte das Fort auch als Grabstätte von Anton Wilhelm Amo, einem ghanaischen Philosophen, der im 18. Jahrhundert an deutschen Universitäten lehrte. Geschichte K8 — afrikanische Intellektuelle.",
+      "factsAdvanced": ["Drittältestes Fort in Ghana", "1526 von Portugiesen erbaut", "Steht in Shama", "Grabstätte des Philosophen Anton Wilhelm Amo", "Diente der Abwehr britischer Schiffe", "Später massive niederländische Bastion"]
+    },
+    {
+      "id": "fort-apollonia-history-v2",
+      "descriptionAdvanced": "Fort Apollonia in Beyin, an der westlichsten Küste Ghanas, wurde 1768 von britischen Händlern errichtet, um den Gold- und Sklavenhandel zu dominieren. Der Name leitet sich vom Fest der Heiligen Apollonia ab, an dem der Entdecker den Landstrich erstmals sichtete. Nach dem Verbot des Sklavenhandels im 19. Jahrhundert verfiel das Gebäude zusehends, bis es vom italienischen Botschafter restauriert wurde und heute das Museum für die Nzema-Kultur beherbergt. Kultur K7 — Museumswesen in Ghana.",
+      "factsAdvanced": ["1768 von britischen Händlern errichtet", "Liegt an der westlichsten Küste (Beyin)", "Name stammt vom Fest der Heiligen Apollonia", "Dominierte Gold- und Sklavenhandel", "Vom italienischen Botschafter restauriert", "Beherbergt Museum für Nzema-Kultur"]
+    },
+    {
+      "id": "fort-metal-cross-history-v2",
+      "descriptionAdvanced": "Das Fort Metal Cross liegt malerisch auf einem Felsvorsprung im Fischerdorf Dixcove und wurde 1683 von den Briten fertiggestellt. Ironischerweise wurde es weniger genutzt, um Angriffe anderer europäischer Nationen abzuwehren, sondern vielmehr, um sich vor ständigen Überfällen der ehemals verbündeten Ahanta-Krieger zu schützen. Obwohl der Name eine religiöse Verbindung vermuten lässt, stammt er eigentlich vom britischen Metal Cross, das als Navigationspunkt für Schiffe diente. Geschichte K6 — maritime Navigation.",
+      "factsAdvanced": ["Liegt im Fischerdorf Dixcove", "1683 von Briten fertiggestellt", "Schutz vor ehemals verbündeten Ahanta", "Name leitet sich von Schiffs-Navigationspunkt ab", "Malerisch auf Felsvorsprung gelegen", "Keine religiöse Ursprungsbedeutung"]
+    },
+    {
+      "id": "fort-amsterdam-history-v2",
+      "descriptionAdvanced": "Erbaut auf einem Hügel in Abandze, war Fort Cormantin das erste britische Fort an der Goldküste, das 1638 errichtet wurde. Nach einer brutalen Belagerung durch den niederländischen Admiral Engel de Ruyter im Jahr 1665 fiel es in die Hände der Niederländer, die es triumphierend in Fort Amsterdam umbenannten. Dieses Fort war maßgeblich an der Inhaftierung von Ashanti-Kriegern beteiligt und ist architektonisch einzigartig, da es eines der wenigen Forts ist, die komplett aus rotem Lateritstein gebaut wurden. Geschichte K7 — europäische Rivalitäten.",
+      "factsAdvanced": ["1638 als Fort Cormantin von Briten erbaut", "1665 von Niederländern erobert", "Erstes britisches Fort an der Goldküste", "Komplett aus rotem Lateritstein gebaut", "Maßgeblich an Inhaftierung von Ashanti beteiligt", "Liegt auf einem Hügel in Abandze"]
+    },
+    {
+      "id": "fort-william-anomabu-history-v2",
+      "descriptionAdvanced": "Fort William in Anomabu, erbaut 1753 von den Briten, entwickelte sich zu einem der größten Sklavengefängnisse an der gesamten westafrikanischen Küste. Die massive Struktur wurde aus Ziegeln erbaut, die per Schiff aus England importiert wurden, und besaß riesige Kerker, die Tausende Menschen gleichzeitig aufnehmen konnten. Im Jahr 1806 überstand das Fort wundersamerweise eine massive Belagerung durch Zehntausende Ashanti-Krieger, was es zu einem Symbol der britischen militärischen Standhaftigkeit machte. Geschichte K8 — koloniale Festungen.",
+      "factsAdvanced": ["1753 in Anomabu von Briten erbaut", "Größtes Sklavengefängnis der Küste", "Aus englischen Ziegeln importiert", "Überstand 1806 Belagerung durch Ashanti", "Massive Kerker für Tausende Menschen", "Symbol britischer Standhaftigkeit"]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-history-v2",
+      "descriptionAdvanced": "Dieses monumentale Mausoleum im Herzen von Accra ist die letzte Ruhestätte von Dr. Kwame Nkrumah, Ghanas erstem Präsidenten und einem der größten Panafrikanisten des 20. Jahrhunderts. Der Park befindet sich genau auf jenem historischen Gelände (ehemals Old Polo Grounds), wo Nkrumah am 6. März 1957 triumphierend Ghanas Unabhängigkeit verkündete. Das markante Bauwerk in Form eines umgedrehten Schwertes, umgeben von Wasserfontänen, symbolisiert ein nach oben weisendes Schwert als Zeichen des Friedens. Geschichte K7 — afrikanische Unabhängigkeit.",
+      "factsAdvanced": ["Ruhestätte von Präsident Kwame Nkrumah", "Befindet sich auf den Old Polo Grounds", "Ort der Unabhängigkeitserklärung (1957)", "Architektur wie ein umgedrehtes Schwert", "Symbolisiert afrikanischen Frieden", "Monument im Zentrum von Accra"]
+    },
+    {
+      "id": "w-e-b-du-bois-centre-history-v2",
+      "descriptionAdvanced": "Das W.E.B. Du Bois Centre in Cantonments, Accra, war das letzte Zuhause des legendären afroamerikanischen Bürgerrechtlers und Soziologen William Edward Burghardt Du Bois. Auf Einladung von Kwame Nkrumah zog Du Bois im Alter von 93 Jahren nach Ghana, um die monumentale Encyclopedia Africana zu redigieren. Heute dient sein ehemaliges Wohnhaus, in dem auch sein Grab zu finden ist, als wichtiges Forschungszentrum für panafrikanische Studien und Diaspora-Geschichte. Geschichte K8 — Bürgerrechte und Diaspora.",
+      "factsAdvanced": ["Letztes Zuhause von W.E.B. Du Bois", "Liegt in Cantonments, Accra", "Zentrum für panafrikanische Studien", "Grabstätte des afroamerikanischen Bürgerrechtlers", "Arbeitsort für die Encyclopedia Africana", "Du Bois zog auf Einladung Nkrumahs her"]
+    },
+    {
+      "id": "independence-square-accra-history-v2",
+      "descriptionAdvanced": "Der Independence Square (oder Black Star Square) ist der zweitgrößte Stadtplatz der Welt, nur übertroffen vom Platz des Himmlischen Friedens in Peking. Er wurde 1961 zu Ehren des Besuchs der britischen Königin Elizabeth II. in Auftrag gegeben und wird dominiert vom riesigen Black Star Gate, das den Schwarzen Stern Afrikas krönt. Der Platz fasst über 30.000 Menschen und ist der traditionelle Ort für Militärparaden am Unabhängigkeitstag und feierliche Präsidentenvereidigungen. Sozialkunde K6 — nationale Symbole.",
+      "factsAdvanced": ["Zweitgrößter Stadtplatz der Welt", "Auch Black Star Square genannt", "1961 für Königin Elizabeth II. erbaut", "Dominiert vom Black Star Gate", "Fasst über 30.000 Menschen", "Ort für Militärparaden und Vereidigungen"]
+    },
+    {
+      "id": "yaa-asantewaa-museum-history-v2",
+      "descriptionAdvanced": "Gewidmet der furchtlosen Königinmutter von Ejisu, erzählt dieses Museum die inspirierende Geschichte von Nana Yaa Asantewaa, die im Jahr 1900 die Ashanti-Armee in den Krieg gegen die britischen Kolonisatoren führte. Als der Asantehene ins Exil gezwungen wurde und die männlichen Häuptlinge zögerten, übernahm sie mutig das Kommando, um den Goldenen Stuhl der Ashanti zu beschützen. Das Museum in Ejisu beherbergt Repliken ihrer Rüstung, Kriegstrommeln und persönliche Gegenstände, die ihre Rolle als afrikanische Feministin unterstreichen. Geschichte K8 — afrikanischer Widerstand.",
+      "factsAdvanced": ["Gewidmet der Königinmutter von Ejisu", "Führte 1900 die Armee gegen Briten", "Beschützte den Goldenen Stuhl", "Symbol des afrikanischen Feminismus", "Beherbergt Repliken ihrer Rüstung", "Zeigt mutigen Widerstand der Ashanti"]
+    },
+    {
+      "id": "salaga-slave-market-history-v2",
+      "descriptionAdvanced": "Der Salaga-Sklavenmarkt im Norden Ghanas war während des 18. und 19. Jahrhunderts das unangefochtene kommerzielle Zentrum des Transsahara-Sklavenhandels in der Region. Unter großen Baobab-Bäumen, die teilweise noch heute stehen, wurden gefangene Menschen aus dem tiefen Sahel an Händler der Ashanti und europäischen Küstenagenten verkauft. Noch immer kann man in der Stadt alte, massive Eisenketten, die Sklavenbrunnen und die sogenannten Pikworo-Badelöcher besichtigen, die an diese düstere Ära erinnern. Geschichte K7 — Sklavenrouten im Landesinneren.",
+      "factsAdvanced": ["Kommerzielles Zentrum im Norden (18. Jh.)", "Verkauf unter riesigen Baobab-Bäumen", "Zentrum des Transsahara-Sklavenhandels", "Massive Eisenketten heute noch sichtbar", "Sogenannte Pikworo-Badelöcher erhalten", "Handel zwischen Sahel und Aschanti"]
+    },
+    {
+      "id": "gwollu-defence-wall-history-v2",
+      "descriptionAdvanced": "Die massive Verteidigungsmauer von Gwollu im hohen Norden der Upper West Region ist ein außergewöhnliches Relikt lokaler ghanaischer Festungsbaukunst. Sie wurde im 19. Jahrhundert unter der Führung von Kuoro Kanto erbaut, um die Dorfbewohner vor den ständigen und brutalen Razzien des berüchtigten Sklavenjägers Samori Ture zu schützen. Die ursprünglich doppelwandige Lehmmauer war eine architektonische Meisterleistung, deren verwitterte Reste noch heute die Entschlossenheit der lokalen Gemeinschaften bezeugen. Geschichte K6 — afrikanische Verteidigungsanlagen.",
+      "factsAdvanced": ["Massive Verteidigungsmauer in der Upper West Region", "Erbaut unter Kuoro Kanto im 19. Jh.", "Schutz vor Sklavenjäger Samori Ture", "Ursprünglich doppelwandige Lehmmauer", "Außergewöhnliche Festungsbaukunst", "Verwitterte Reste als lokales Symbol"]
+    },
+    {
+      "id": "nalerigu-defence-wall-history-v2",
+      "descriptionAdvanced": "Ähnlich wie in Gwollu wurde die Nalerigu-Mauer (Naa Jaringa Wall) in der North East Region im 16. Jahrhundert errichtet, um das Zentrum des Mamprusi-Königreichs vor feindlichen Sklavenjägern zu bewahren. Bemerkenswert ist die Legende ihrer Entstehung: Der König soll angeordnet haben, dass beim Bau der Mauer Honig und Milch statt Wasser verwendet wurde, um den Schlamm zu binden. Obwohl diese Geschichte eher symbolisch für den Reichtum des Reiches steht, zeigen die massiven Lehmtruinen den enormen Aufwand, der in den Bau floss. Kultur K7 — historische Mythen und Architektur.",
+      "factsAdvanced": ["Im 16. Jahrhundert errichtet", "Schutz für das Mamprusi-Königreich", "Legende: Bau mit Honig und Milch gebunden", "Sogenannte Naa Jaringa Wall", "Massive Lehmtruinen sichtbar", "Liegt in der North East Region"]
+    },
+    {
+      "id": "pikworo-slave-camp-history-v2",
+      "descriptionAdvanced": "Das Pikworo-Sklavenlager in der Nähe von Paga war kein Markt, sondern ein grausames Durchgangslager, in dem Menschen wie Vieh zusammengepfercht wurden, bevor man sie nach Salaga marschieren ließ. Gefangene aus Burkina Faso und Mali wurden hier gezwungen, Vertiefungen in die massiven Felsen zu schlagen, die ihnen als Ess- und Trinknäpfe dienten. Die Stille des Ortes wird nur vom Strafbaum durchbrochen, an dem rebellische Gefangene stundenlang in der glühenden Sonne gefesselt ausharren mussten. Geschichte K8 — Grausamkeit des Menschenhandels.",
+      "factsAdvanced": ["Grausames Durchgangslager in Paga", "Gefangene in Felsenpferchen gehalten", "Vertiefungen im Fels als Essnäpfe genutzt", "Standort des berüchtigten Strafbaums", "Sklaven kamen aus Burkina Faso", "Sammelpunkt für den Marsch nach Salaga"]
+    },
+    {
+      "id": "bono-manso-history-v2",
+      "descriptionAdvanced": "Bono Manso war das florierende Zentrum des Bono-Staates, eines der ältesten Akan-Reiche, das lange vor dem mächtigen Ashanti-Königreich (im 11. Jahrhundert) existierte. Die Stadt, reich durch den Handel mit Gold und Kola-Nüssen entlang der Transsahara-Routen, fiel im Jahr 1723 einer verheerenden Invasion der Ashanti zum Opfer und wurde komplett niedergebrannt. Heute sind nur noch spärliche archäologische Überreste übrig, doch die Stadt bleibt ein wichtiger Pilgerort für Akan, die ihre familiären und kulturellen Wurzeln suchen. Geschichte K7 — Aufstieg und Fall von Imperien.",
+      "factsAdvanced": ["Zentrum des historischen Bono-Staates", "Älter als das Ashanti-Königreich (11. Jh.)", "Reich durch Gold und Kola-Nüsse", "1723 von Ashanti komplett niedergebrannt", "Heute spärliche archäologische Überreste", "Wichtiger Pilgerort für die Akan"]
+    },
+    {
+      "id": "begho-ancient-city-history-v2",
+      "descriptionAdvanced": "Begho (oder Bighu) in der Bono Region war vom 11. bis zum 18. Jahrhundert eine der bedeutendsten internationalen Handelsmetropolen Westafrikas. Gegründet von muslimischen Wangara-Händlern, verband die Stadt den waldreichen Süden Ghanas mit den großen Reichen in Mali und Songhai im Norden. Archäologische Ausgrabungen enthüllten, dass die Stadt in spezialisierte Viertel für Händler, Schmiede und lokale Akan-Herrscher unterteilt war und über beeindruckende Keramikwerkstätten verfügte. Geschichte K8 — prähistorische Handelsnetzwerke.",
+      "factsAdvanced": ["Bedeutende Handelsmetropole (11.-18. Jh.)", "Von muslimischen Wangara gegründet", "Verband Küste mit Mali und Songhai", "Spezialisierte Viertel für Schmiede und Händler", "Beeindruckende Keramikwerkstätten entdeckt", "Liegt in der Bono Region"]
+    },
+    {
+      "id": "kintampo-complex-history-v2",
+      "descriptionAdvanced": "Der Kintampo Complex bezieht sich auf eine Reihe faszinierender archäologischer Ausgrabungsstätten in der Savanne der Bono East Region, die eine Kultur datieren, welche zwischen 2500 und 1400 v. Chr. florierte. Diese Menschen gehörten zu den ersten in Westafrika, die den Übergang von der Jagd und dem Sammeln zur Sesshaftigkeit und Landwirtschaft (wie Yamsanbau) schafften. Die bekanntesten Artefakte dieser Kultur sind seltsame zigarrenförmige Raspeln aus Sandstein, deren genauer Zweck den Archäologen bis heute Rätsel aufgibt. Geschichte K6 — die Jungsteinzeit.",
+      "factsAdvanced": ["Kultur florierte 2500–1400 v. Chr.", "Archäologische Ausgrabungsstätte in der Savanne", "Übergang zur Sesshaftigkeit in Westafrika", "Beginn des landwirtschaftlichen Yamsanbaus", "Zigarrenförmige Sandsteinraspeln entdeckt", "Genauer Zweck der Raspeln bis heute rätselhaft"]
+    },
+    {
+      "id": "prempeh-ii-museum-history-v2",
+      "descriptionAdvanced": "Das Prempeh II Jubilee Museum in Kumasi, benannt nach dem Asantehene Sir Osei Agyeman Prempeh II, befindet sich innerhalb des Kulturzentrums (National Cultural Centre). Das faszinierendste Ausstellungsstück des Museums ist der mystifizierte gefälschte Goldene Stuhl, der geschickt den Briten übergeben wurde, um das echte, heilige Original vor der Kolonialmacht zu verstecken. Neben königlichen Sänften zeigt das Museum auch persönliche Gegenstände des Königs, einschließlich seiner Medaillen, die er während des Zweiten Weltkriegs von den Briten erhielt. Kultur K8 — Diplomatie und Täuschung.",
+      "factsAdvanced": ["Befindet sich im Kulturzentrum Kumasi", "Benannt nach Asantehene Sir Osei Agyeman Prempeh II", "Beherbergt den falschen Goldenen Stuhl", "Täuschung der britischen Kolonialmacht", "Zeigt Medaillen aus dem 2. Weltkrieg", "Königliche Sänften ausgestellt"]
+    },
+    {
+      "id": "fort-st-jago-history-v2",
+      "descriptionAdvanced": "Fort St. Jago (Fort Coenraadsburg) thront majestätisch auf einem Hügel direkt gegenüber dem riesigen Elmina Castle. Errichtet in den 1660er Jahren von den Niederländern, war sein einziger, drastischer Zweck, Kanonen zu positionieren, um das größere Elmina Castle vor Landangriffen zu schützen. Das Fort verlor später seine militärische Bedeutung und wurde stattdessen im 19. Jahrhundert in ein disziplinarisches Gefängnis und später in ein Krankenhaus für Kolonialbeamte umgewandelt. Geschichte K7 — militärische Taktik.",
+      "factsAdvanced": ["Thront gegenüber dem Elmina Castle", "1660er von Niederländern erbaut", "Ziel: Schutz Elminas vor Landangriffen", "Kanonen auf Hügel positioniert", "Später disziplinarisches Gefängnis", "Diente als Krankenhaus für Kolonialbeamte"]
+    },
+    {
+      "id": "fort-victoria-cape-coast-history-v2",
+      "descriptionAdvanced": "Fort Victoria in Cape Coast ist ein klassisches Beispiel für ein britisches Vorposten-Fort, das 1832 auf den Ruinen des älteren Fort Phipps erbaut wurde. Es besaß eine strategisch günstige Position auf einem Hügel, um die Stadt und das Hauptfort (Cape Coast Castle) vor plötzlichen Angriffen aus dem Landesinneren durch Ashanti-Truppen zu warnen. Im Gegensatz zu den massiven Handelsforts war dieses Gebäude winzig und beherbergte kaum mehr als einen Offizier, eine Handvoll Soldaten und einige Kanonen. Geschichte K6 — Spähposten.",
+      "factsAdvanced": ["1832 auf Ruinen von Fort Phipps erbaut", "Frühwarn-Spähposten in Cape Coast", "Sollte vor Ashanti-Angriffen warnen", "Winziges Gebäude für wenige Soldaten", "Liegt auf einer Anhöhe", "Gilt als klassisches Vorposten-Fort"]
+    },
+    {
+      "id": "fort-mccarthy-history-v2",
+      "descriptionAdvanced": "Fort McCarthy wurde 1822 von Sir Charles MacCarthy, dem britischen Gouverneur der Goldküste, auf einem Hügel nahe Cape Coast hastig errichtet. Gouverneur MacCarthy fiel kurze Zeit später 1824 in der desaströsen Schlacht von Nsamankow, wo er von Ashanti-Kriegern getötet und angeblich sein Schädel als königliche Trophäe verwendet wurde. Das Fort selbst verfiel nach seinem Tod schnell und ist heute nur noch eine schwer zugängliche Ruine, die als Symbol der britischen militärischen Überschätzung in Westafrika gilt. Geschichte K8 — der Fall von MacCarthy.",
+      "factsAdvanced": ["1822 hastig nahe Cape Coast errichtet", "Erbaut von Sir Charles MacCarthy", "MacCarthy 1824 von Ashanti getötet", "Schädel angeblich als Trophäe genutzt", "Heute eine schwer zugängliche Ruine", "Symbol militärischer Überschätzung"]
+    },
+    {
+      "id": "fort-good-hope-history-v2",
+      "descriptionAdvanced": "Das Fort Good Hope in Senya Beraku wurde 1667 von den Niederländern errichtet und zählt zu den kleinsten, aber architektonisch intaktesten Sklavenforts in Ghana. Aufgrund der starken Brandung und der gefährlichen Felsenküste war der Ort für große Sklavenschiffe extrem gefährlich, weshalb der Transport oft in kleinen Kanus abgewickelt werden musste. Heute bietet die gut erhaltene Festung einen unheimlichen Kontrast zu den friedlich fischenden Einheimischen am Strand unterhalb der Mauern. Geografie K7 — Küstengefahren.",
+      "factsAdvanced": ["1667 in Senya Beraku von Niederländern erbaut", "Eines der kleinsten Sklavenforts", "Architektonisch extrem intakt", "Gefährliche Felsenküste für große Schiffe", "Transport oft in kleinen Kanus", "Bietet unheimlichen Kontrast zu Fischerbooten"]
+    },
+    {
+      "id": "fort-patience-history-v2",
+      "descriptionAdvanced": "Fort Patience in Apam trägt seinen Namen (Geduld) aus einem bizarren historischen Grund: Es dauerte aufgrund massiven Widerstands der einheimischen Bevölkerung geschlagene fünf Jahre (1697 bis 1702), bis die Niederländer die Erlaubnis bekamen, den Bau abzuschließen. Die Festung sicherte den lukrativen Handel, wurde aber später berüchtigt als Polizeistation während der kolonialen Ära, in der politische Gefangene weggesperrt wurden. Heute wird es liebevoll gepflegt und dient teilweise als malerisches, aber spartanisches Gästehaus. Kultur K8 — historische Ironie.",
+      "factsAdvanced": ["Erbaut zwischen 1697 und 1702 in Apam", "Name stammt von langwierigen Bauverhandlungen", "Massiver lokaler Widerstand verzögerte Bau", "Diente als Polizeistation in kolonialer Ära", "Politische Gefangene wurden eingesperrt", "Dient heute teilweise als Gästehaus"]
+    }
+  ]
+}

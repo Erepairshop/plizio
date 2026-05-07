@@ -1,0 +1,36 @@
+{
+  "lang": "en",
+  "country": "venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraVenezuelaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraVenezuelaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraVenezuelaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "caracas-cities-v2",
+      "descriptionAdvanced": "Caracas, nestled in a picturesque valley between the Coastal Range and the Caribbean Sea, serves as the vibrant capital of Venezuela. The city harmoniously blends colonial history with modern architecture, acting as the nation's political and economic heart. Visitors encounter a dynamic cultural scene, significant museums like the Museo de Bellas Artes, and lively markets. Serving as the primary hub for exploration, it offers a deep look into the country's diverse landscape. Geography K5 — Cities and Metropolises.",
+      "factsAdvanced": [
+        "Founded on July 25, 1567, as Santiago de León de Caracas.",
+        "Situated at an altitude of approximately 900 meters above sea level.",
+        "Home to the Central University of Venezuela, one of the continent's oldest institutions.",
+        "Serves as the political center, housing the historic Capitolio Federal.",
+        "Northern boundary formed by the mountain ranges of El Ávila National Park.",
+        "Primary administrative and economic hub of the nation."
+      ]
+    },
+    {
+      "id": "maracaibo-cities-v2",
+      "descriptionAdvanced": "Maracaibo, located directly on the shores of Lake Maracaibo, stands as Venezuela's industrial powerhouse. Characterized by its distinct colonial architecture, vibrant culture, and the iconic General Rafael Urdaneta Bridge, it is one of South America's most dynamic cities. Its warm climate and entrepreneurial spirit highlight its importance in the nation's trade. The city provides a unique perspective on the oil extraction history that significantly shaped the prosperity of the entire region. Geography K6 — Industry and Economy.",
+      "factsAdvanced": [
+        "Second largest city in Venezuela.",
+        "Famous for the General Rafael Urdaneta Bridge crossing the lake.",
+        "Strategic location as a major port and oil hub.",
+        "Historically significant due to vast oil deposits discovered in the early 20th century.",
+        "Known for its distinct local traditions and warm climate.",
+        "The lake is the largest in South America by surface area."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "leticia-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Leticia ist die südlichste Stadt Kolumbiens und liegt am mächtigen Amazonas im Dreiländereck zu Brasilien und Peru. Die Stadt dient als wichtigstes Tor zum kolumbianischen Regenwald und ist nur per Flugzeug oder Boot erreichbar, was ihren isolierten Charme unterstreicht. Besucher können hier die beeindruckende Artenvielfalt des Dschungels erleben oder die nahegelegene Insel der Affen besuchen. Ein besonderes Schauspiel bietet sich jeden Abend im Santander-Park, wenn tausende Papageien unter lautem Gezwitscher zur Ruhe kommen. Die lokale Kultur ist stark von indigenen Traditionen und der Grenzlage geprägt, was sich auch in der vielfältigen Gastronomie widerspiegelt. Geographie K7 — Regenwaldgebiete und Flussökosysteme Südamerikas.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Leticia wurde 1867 gegründet und war ursprünglich ein peruanischer Posten.",
+        "Die Stadt liegt am Ufer des Amazonas, des wasserreichsten Flusses der Erde.",
+        "Es gibt keine Straßenverbindung zum restlichen kolumbianischen Inland.",
+        "Leticia bildet mit dem brasilianischen Tabatinga eine faktisch grenzenlose Stadtregion."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "medellin-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Medellín, bekannt als die Stadt des ewigen Frühlings, liegt im malerischen Aburrá-Tal und ist die zweitgrößte Stadt Kolumbiens. Einst berüchtigt, hat sie sich zu einem globalen Vorbild für soziale Innovation und moderne Stadtplanung entwickelt. Besonders beeindruckend ist das Seilbahnsystem Metrocable, das die ärmeren Stadtteile an den Hängen mit dem Stadtzentrum verbindet. Die Stadt ist berühmt für die voluminösen Skulpturen des Künstlers Fernando Botero, die auf der Plaza Botero bewundert werden können. Während der jährlichen Feria de las Flores verwandelt sich die gesamte Region in ein buntes Blumenmeer. Geographie K8 — Stadtentwicklung und urbane Transformation in Lateinamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Medellín wurde 2013 vom Urban Land Institute zur innovativsten Stadt der Welt gekürt.",
+        "Die Stadt ist das Zentrum der kolumbianischen Textil- und Modeindustrie.",
+        "Das Klima ist aufgrund der Höhenlage von etwa 1.500 Metern ganzjährig mild.",
+        "Die Metro von Medellín ist das einzige S-Bahn-System in ganz Kolumbien."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "arauca-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Arauca ist die Hauptstadt des gleichnamigen Departamentos und liegt direkt an der Grenze zu Venezuela in den weiten Ebenen der Llanos Orientales. Die Stadt ist durch eine Brücke über den Arauca-Fluss mit dem Nachbarland verbunden und dient als wichtiges Handelszentrum der Region. Geprägt ist das Leben hier von der Viehzucht und der Erdölförderung, die die wirtschaftliche Grundlage bilden. Die weite Savannenlandschaft beherbergt eine einzigartige Fauna, darunter zahlreiche Vogelarten und Wasserschweine. Kulturell steht die Stadt ganz im Zeichen der Llanero-Kultur mit ihrer traditionellen Harfenmusik und dem Joropo-Tanz. Geographie K9 — Wirtschaftsstrukturen und Grenzregionen in Südamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Arauca liegt am gleichnamigen Fluss, der die natürliche Grenze zu Venezuela bildet.",
+        "Die Region ist eines der wichtigsten Zentren für die Erdölförderung in Kolumbien.",
+        "Die Llanero-Kultur mit ihren Reit- und Musiktraditionen ist hier tief verwurzelt.",
+        "Der Arauca-Fluss ist schiffbar und verbindet die Stadt mit dem Orinoco-System."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "barranquilla-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Barranquilla liegt an der Mündung des Rio Magdalena in das Karibische Meer und ist als die Goldene Pforte Kolumbiens bekannt. Die Stadt ist ein bedeutendes Industrie- und Hafenzentrum und gilt als Geburtsort vieler berühmter kolumbianischer Persönlichkeiten wie Shakira. Weltweite Berühmtheit erlangte sie vor allem durch ihren Karneval, der von der UNESCO als Meisterwerk des mündlichen und immateriellen Erbes der Menschheit anerkannt wurde. Die Architektur der Stadt spiegelt den wirtschaftlichen Aufschwung des frühen 20. Jahrhunderts wider, insbesondere im Viertel El Prado. Barranquilla ist zudem ein Schmelztiegel der Kulturen, geprägt durch Einwanderer aus Europa und dem Nahen Osten. Geographie K7 — Küstenmorphologie und maritime Wirtschaftszentren.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Barranquilla ist der größte Hafenkomplex an der kolumbianischen Karibikküste.",
+        "Der Karneval von Barranquilla ist nach dem von Rio de Janeiro der zweitgrößte der Welt.",
+        "Die Stadt war die erste in Kolumbien, die einen zivilen Flughafen besaß.",
+        "Bocas de Ceniza ist der Ort, an dem der Magdalena-Fluss spektakulär ins Meer mündet."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cartagena-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Cartagena de Indias ist eine der schönsten Kolonialstädte Südamerikas und gehört zum UNESCO-Weltkulturerbe. Die historische Altstadt ist von einer massiven Stadtmauer umgeben, die einst vor Piratenangriffen schützen sollte. Innerhalb der Mauern finden Besucher bunte Kolonialhäuser mit blumengeschmückten Balkonen und prächtige Plätze. Über der Stadt thront das imposante Castillo San Felipe de Barajas, die größte Festungsanlage, die die Spanier je in ihren Kolonien errichteten. Neben ihrer Geschichte bietet die Stadt wunderschöne Karibikstrände und ein pulsierendes Nachtleben. Geschichte K7 — Die Ära der spanischen Eroberung und Festungsbau in der Karibik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Cartagena wurde 1533 gegründet und war ein Haupthafen für das spanische Gold.",
+        "Die Stadtmauer ist etwa 11 Kilometer lang und weitestgehend im Original erhalten.",
+        "Cartagena war die erste Stadt im heutigen Kolumbien, die ihre Unabhängigkeit erklärte.",
+        "Die Stadt ist Schauplatz vieler Romane des Nobelpreisträgers Gabriel García Márquez."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "tunja-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Tunja liegt auf über 2.800 Metern Höhe in den Oskordilleren und ist eine der ältesten von Europäern gegründeten Städte Kolumbiens. Die Stadt ist bekannt für ihr außergewöhnlich gut erhaltenes koloniales Erbe mit zahlreichen Kirchen und Herrenhäusern aus dem 16. Jahrhundert. Besonders sehenswert ist die Plaza de Bolívar, einer der größten Hauptplätze des Landes, umgeben von bedeutenden historischen Gebäuden. Tunja spielte eine entscheidende Rolle im kolumbianischen Unabhängigkeitskampf, insbesondere bei der nahegelegenen Schlacht von Boyacá. Aufgrund ihrer Höhenlage herrscht hier ein kühles Gebirgsklima, das einen starken Kontrast zu den tropischen Tiefebenen bildet. Geschichte K8 — Koloniale Architektur und der Weg zur Unabhängigkeit Lateinamerikas.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Tunja wurde 1539 auf den Ruinen einer wichtigen Muisca-Siedlung gegründet.",
+        "Die Stadt gilt als die höchstgelegene Provinzhauptstadt Kolumbiens.",
+        "In Tunja befindet sich die älteste funktionierende Druckerei des Landes.",
+        "Das Casa del Fundador ist eines der besterhaltenen Beispiele für Renaissance-Architektur in Amerika."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "manizales-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Manizales ist eine Stadt der Kontraste, erbaut auf steilen Bergkämmen im Herzen der kolumbianischen Kaffeezone. Die steilen Straßen bieten atemberaubende Ausblicke auf die umliegenden Anden und den majestätischen Vulkan Nevado del Ruiz. Die Stadt ist ein bedeutendes Bildungszentrum mit zahlreichen Universitäten und einer lebendigen studentischen Atmosphäre. Wahrzeichen der Stadt ist die beeindruckende Kathedrale Basilika Unserer Lieben Frau vom Rosenkranz, die eine der höchsten Kirchtürme Amerikas besitzt. Alljährlich im Januar lockt die Feria de Manizales Besucher mit Stierkämpfen, Paraden und Schönheitswettbewerben an. Geographie K8 — Höhenstufen der Anden und die Kaffeewirtschaft Kolumbiens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Manizales wurde 1849 von Siedlern während der sogenannten Antioquianischen Kolonisation gegründet.",
+        "Die Stadt ist Teil der Kulturlandschaft des kolumbianischen Kaffees (UNESCO-Welterbe).",
+        "Aufgrund der steilen Topographie ist das Stadtbild von vielen Treppen und Brücken geprägt.",
+        "Manizales wird oft als das Tor zum Nationalpark Los Nevados bezeichnet."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "florencia-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Florencia ist die Hauptstadt des Departamentos Caquetá und wird oft als das goldene Tor zum Amazonas bezeichnet. Die Stadt liegt am Übergang zwischen den Ausläufern der Anden und dem weiten Regenwaldbecken, was ihr eine strategische Bedeutung verleiht. Florencia ist ein wichtiger Knotenpunkt für den Handel mit landwirtschaftlichen Produkten der Region, insbesondere Vieh und tropische Früchte. In der Umgebung locken zahlreiche Wasserfälle und Höhlen Naturbegeisterte in die noch weitgehend unberührte Wildnis. Die Stadt selbst hat sich in den letzten Jahren rasant entwickelt und dient heute als Ausgangspunkt für ökotouristische Expeditionen in den Dschungel. Geographie K7 — Ökosysteme am Übergang vom Hochgebirge zum tropischen Regenwald.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Florencia wurde 1902 offiziell von Kapuzinermönchen gegründet.",
+        "Die Stadt liegt am Ufer des Rio Hacha, der später in den Rio Caquetá mündet.",
+        "Florencia ist das wichtigste wirtschaftliche und kulturelle Zentrum im Südwesten Kolumbiens.",
+        "Das Klima ist feucht-tropisch mit sehr hohen jährlichen Niederschlagsmengen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "yopal-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Yopal ist die Hauptstadt des Departamentos Casanare und hat in den letzten Jahrzehnten durch die Erdölförderung ein enormes Wachstum erlebt. Ursprünglich eine kleine Siedlung von Viehzüchtern, hat sich die Stadt zu einem modernen Dienstleistungszentrum in den Llanos Orientales entwickelt. Trotz des industriellen Aufschwungs bleibt die Tradition der Llaneros, der kolumbianischen Cowboys, tief im Alltag verwurzelt. Yopal liegt am Fuße der Anden, wo die Berge in die schier endlosen Savannen übergehen. Die Region bietet hervorragende Möglichkeiten zur Beobachtung von Wildtieren wie Kaimanen, Anakondas und Hunderten von Vogelarten. Geographie K9 — Ressourcenfluch oder Entwicklungschance? Erdölförderung in Südamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Yopal wurde erst 1942 offiziell zur Gemeinde erhoben und ist eine der jüngsten Hauptstädte Kolumbiens.",
+        "Der Name leitet sich von dem Wort Yopo ab, einem Baum, dessen Samen halluzinogen wirken.",
+        "Die Stadt verfügt über einen der modernsten Flughäfen in den kolumbianischen Ebenen.",
+        "Viehzucht ist neben der Ölindustrie nach wie vor ein wichtiger Wirtschaftszweig."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "popayan-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Popayán ist als die Weiße Stadt Kolumbiens bekannt, da fast alle historischen Gebäude im Zentrum in strahlendem Weiß gehalten sind. Sie gilt als eine der bedeutendsten Kolonialstädte des Landes und ist berühmt für ihre religiösen Traditionen, insbesondere die Osterprozessionen. Diese wurden von der UNESCO zum immateriellen Kulturerbe der Menschheit erklärt und ziehen Besucher aus aller Welt an. Popayán ist zudem die erste Stadt, die von der UNESCO den Titel Stadt der Gastronomie erhielt, was ihre reiche kulinarische Tradition würdigt. Die Stadt liegt in einem fruchtbaren Tal zwischen der West- und Zentralkordillere und bietet Ausblicke auf den Vulkan Puracé. Geschichte K7 — Das koloniale Erbe und religiöse Traditionen in Neugranada.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Popayán wurde 1537 von Sebastián de Belalcázar gegründet.",
+        "Die Stadt war im 17. und 18. Jahrhundert ein wichtiges politisches und religiöses Zentrum.",
+        "Popayán hat mehr kolumbianische Präsidenten hervorgebracht als jede andere Stadt außer Bogotá.",
+        "Ein schweres Erdbeben im Jahr 1983 zerstörte Teile der Altstadt, die jedoch originalgetreu wiederaufgebaut wurden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "valledupar-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Valledupar liegt im Nordosten Kolumbiens in einem weiten Tal zwischen der Sierra Nevada de Santa Marta und der Serranía del Perijá. Die Stadt ist die unbestrittene Hauptstadt des Vallenato, einer der populärsten Musikrichtungen Kolumbiens, die hier ihren Ursprung hat. Jedes Jahr im April findet das Festival der Vallenato-Legende statt, bei dem die besten Akkordeonspieler des Landes gegeneinander antreten. Valledupar ist eine grüne Stadt, die von den kühlen Wassern des Guatapurí-Flusses durchzogen wird, der direkt aus den Gletschern der Sierra Nevada kommt. Die Region ist zudem ein wichtiges Zentrum für Viehzucht und Landwirtschaft, insbesondere für Baumwolle und Kaffee. Geographie K7 — Kulturelle Vielfalt und regionale Musiktraditionen Kolumbiens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Valledupar wurde 1550 gegründet und nach dem indigenen Kaziken Upar benannt.",
+        "Der Vallenato wurde 2015 von der UNESCO in die Liste des dringend erhaltungsbedürftigen immateriellen Kulturerbes aufgenommen.",
+        "Der Guatapurí-Fluss ist ein beliebtes Ausflugsziel mit natürlichen Badebecken direkt am Stadtrand.",
+        "Valledupar gilt als eine der heißesten Städte Kolumbiens mit Durchschnittstemperaturen über 30 Grad."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "quibdo-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Quibdó ist die Hauptstadt des Departamentos Chocó und liegt direkt am Ufer des mächtigen Atrato-Flusses im pazifischen Tiefland. Die Stadt ist das kulturelle Zentrum der afro-kolumbianischen Bevölkerung und bekannt für ihre lebendigen Traditionen und Feste wie das San Pacho. Quibdó befindet sich in einer der regenreichsten Regionen der Erde, was zu einer üppigen, dichten Vegetation und einer enormen Artenvielfalt führt. Der Fluss ist die Lebensader der Stadt und dient als wichtigster Transportweg für Waren und Menschen in den umliegenden Regenwald. Trotz der wirtschaftlichen Herausforderungen strahlt die Stadt eine ansteckende Lebensfreude und Gastfreundschaft aus. Geographie K7 — Leben im tropischen Regenwald: Anpassung an extreme Niederschläge.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Quibdó gehört zu den Städten mit der weltweit höchsten jährlichen Niederschlagsmenge.",
+        "Die Stadt ist fast ausschließlich auf dem Wasserweg oder per Flugzeug erreichbar.",
+        "Der Atrato-Fluss bei Quibdó ist einer der wasserreichsten Flüsse der Welt im Verhältnis zu seinem Einzugsgebiet.",
+        "Die Bevölkerung besteht zu über 90 Prozent aus Menschen afrikanischer Abstammung."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "monteria-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Montería ist die Hauptstadt des Departamentos Córdoba und liegt im Norden Kolumbiens am fruchtbaren Ufer des Sinú-Flusses. Die Stadt gilt als die Viehzuchthauptstadt Kolumbiens, was sich in den weitläufigen Haciendas der Umgebung und den großen Viehmärkten widerspiegelt. Ein besonderes Merkmal Monterías ist der Parque Lineal Ronda del Sinú, ein langer Park entlang des Flusses, in dem Faultiere und Leguane direkt in der Stadt beobachtet werden können. Die Stadt hat sich in den letzten Jahren zu einer der nachhaltigsten Städte des Landes entwickelt, mit einem Fokus auf grüner Stadtplanung und Fahrradwegen. Montería ist zudem das Tor zu den weiten Ebenen der Karibikregion und den nahegelegenen Stränden des Golfs von Morrosquillo. Geographie K8 — Agrarwirtschaft und nachhaltige Stadtentwicklung im karibischen Tiefland.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Montería wurde 1777 gegründet und hieß ursprünglich San Jerónimo de Montería.",
+        "Der Sinú-Fluss ist einer der wenigen Flüsse Kolumbiens, die von Süden nach Norden fließen.",
+        "Die Stadt ist bekannt für die Sombrero Vueltiao-Produktion in der umliegenden Region.",
+        "Montería ist ein wichtiger Standort für die Forschung in der tropischen Landwirtschaft."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bogota-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Bogotá ist die pulsierende Hauptstadt Kolumbiens und liegt auf einem weiten Hochplateau in den Anden auf etwa 2.600 Metern Höhe. Als politisches, wirtschaftliches und kulturelles Zentrum des Landes beherbergt die Stadt über acht Millionen Einwohner und bietet eine faszinierende Mischung aus Geschichte und Moderne. Das historische Viertel La Candelaria mit seinen Kopfsteinpflastergassen und Kolonialhäusern steht im starken Kontrast zu den modernen Geschäftsvierteln im Norden. Zu den wichtigsten Sehenswürdigkeiten gehören das weltberühmte Goldmuseum und der Berg Monserrate, der einen spektakulären Blick über das Häusermeer bietet. Bogotá ist zudem eine Stadt der Bildung mit zahlreichen Universitäten und einer der größten öffentlichen Bibliotheken Lateinamerikas. Geographie K8 — Die Metropolregion Bogotá: Infrastruktur und Herausforderungen einer Megastadt.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bogotá ist die dritthöchste Hauptstadt Südamerikas nach La Paz und Quito.",
+        "Die Stadt wurde 1538 von Gonzalo Jiménez de Quesada offiziell gegründet.",
+        "Das Goldmuseum von Bogotá beherbergt die weltweit größte Sammlung präkolumbianischer Goldobjekte.",
+        "Bogotá verfügt über eines der weltweit umfangreichsten Netze an Radwegen, die sogenannten Ciclorrutas."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "inirida-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Inírida ist die Hauptstadt des Departamentos Guainía und liegt tief im Osten Kolumbiens an der Mündung des Inírida-Flusses in den Guaviare. Die Stadt ist nur auf dem Luft- oder Wasserweg erreichbar und dient als Tor zu einer der abgelegensten und spektakulärsten Naturregionen des Landes. Wahrzeichen der Region sind die Cerros de Mavecure, drei gewaltige Granitmonolithen, die majestätisch aus dem Dschungel ragen. Die Bevölkerung von Inírida besteht zu einem großen Teil aus indigenen Gemeinschaften, deren Wissen über den Regenwald die lokale Kultur prägt. Die Stadt ist zudem für die Blume von Inírida bekannt, eine endemische Pflanze, die nur in dieser Region vorkommt. Geographie K7 — Flusslandschaften und geologische Formationen des Orinoco-Beckens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Inírida wurde erst 1963 gegründet und war ursprünglich unter dem Namen Puerto Inírida bekannt.",
+        "Die Stadt liegt im Übergangsgebiet zwischen dem Amazonas-Regenwald und den Llanos-Savannen.",
+        "Inírida ist ein wichtiges Zentrum für den Handel mit Zierfischen aus den umliegenden Flüssen.",
+        "Die Region gehört zum Guayana-Schild, einer der ältesten geologischen Formationen der Erde."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "san-jose-del-guaviare-cities-v2",
+    "descriptionAdvanced": {
+      "de": "San José del Guaviare ist eine aufstrebende Stadt am Übergang von den Ebenen des Orinoco zum dichten Amazonas-Regenwald. Sie hat sich in den letzten Jahren von einer konfliktgeprägten Grenzstadt zu einem faszinierenden Ziel für den Ökotourismus gewandelt. Die Umgebung beherbergt beeindruckende Naturwunder wie die Felsmalereien der Serranía de la Lindosa, die Jahrtausende alt sind und die Geschichte früherer Kulturen erzählen. Auch die Puentes de Piedra, natürliche Steinbrücken, und farbenfrohe Wasserflüsse wie der Caño Sabana locken Abenteurer an. Die Stadt selbst liegt am Ufer des Rio Guaviare und ist ein wichtiger Umschlagplatz für landwirtschaftliche Produkte der Region. Geographie K9 — Archäologische Stätten und indigene Geschichte im tropischen Kolumbien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "San José del Guaviare wurde erst Mitte des 20. Jahrhunderts während des Kautschukbooms besiedelt.",
+        "Die Felsmalereien in der Umgebung gehören zu den größten Konzentrationen prähistorischer Kunst weltweit.",
+        "Die Stadt liegt in einem Gebiet mit hoher Biodiversität, das sowohl Amazonas- als auch Orinoco-Arten beherbergt.",
+        "Der Rio Guaviare ist ein wichtiger Transportweg für den Handel mit dem Landesinneren."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "neiva-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Neiva liegt im Herzen des Huila-Departamentos am Ufer des Magdalena-Flusses und ist eine der heißesten Städte Kolumbiens. Die Stadt ist berühmt für das Festival von San Pedro, bei dem die traditionelle Musik und der Tanz Bambuco gefeiert werden. Neiva dient als strategischer Ausgangspunkt für Besuche in der nahegelegenen Tatacoa-Wüste, einer faszinierenden trockenen Tropenlandschaft. Die Gastronomie der Stadt ist bekannt für Spezialitäten wie das Asado Huilense und die köstlichen Bizcochos de Achira. Trotz der modernen Entwicklung hat Neiva seinen Charakter als gastfreundliche Stadt im oberen Magdalena-Tal bewahrt. Geographie K8 — Klimatische Besonderheiten und Tourismus in den trockenen Tropen Kolumbiens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Neiva wurde insgesamt dreimal gegründet, bevor sie an ihrem heutigen Standort Bestand hatte.",
+        "Die Stadt ist ein bedeutendes Zentrum für die Förderung von Erdöl und Erdgas in Zentralkolumbien.",
+        "Die Tatacoa-Wüste, nur 45 Kilometer entfernt, ist einer der besten Orte des Landes zur Sternbeobachtung.",
+        "Das San-Pedro-Festival findet jährlich Ende Juni statt und gehört zu den wichtigsten Folklorefesten Kolumbiens."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "riohacha-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Riohacha ist die Hauptstadt des Departamentos La Guajira und liegt an der nordöstlichen Karibikküste Kolumbiens. Die Stadt ist eng mit der Kultur des indigenen Volkes der Wayuu verbunden, deren bunte Taschen und Textilien das Stadtbild prägen. Besucher können entlang der Meerespromenade schlendern und den Blick auf das türkisblaue Wasser der Karibik genießen. Riohacha dient als Tor zur Halbinsel La Guajira, die durch ihre karge Wüstenlandschaft und spektakulären Buchten wie Cabo de la Vela besticht. In der Nähe befinden sich zudem die Salzminen von Manaure und das Flamingo-Schutzgebiet. Geschichte K7 — Koloniale Perlenfischerei und die Widerstandsfähigkeit indigener Kulturen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Riohacha wurde 1535 gegründet und war berühmt für seine reichen Perlenvorkommen.",
+        "Die Stadt ist eine der ältesten kontinuierlich bewohnten Städte in Amerika.",
+        "Die Wayuu sind die größte indigene Gruppe Kolumbiens und leben seit Jahrhunderten in der Region.",
+        "Riohacha liegt an der Mündung des Rio Ranchería in das Karibische Meer."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "santa-marta-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Santa Marta ist die älteste von Spaniern gegründete Stadt in Kolumbien und liegt malerisch zwischen der Karibikküste und der schneebedeckten Sierra Nevada. Die Stadt verbindet historische Bedeutung mit modernem Tourismus und ist der ideale Ausgangspunkt für Wanderungen in den Tayrona-Nationalpark. In der Quinta de San Pedro Alejandrino verbrachte der südamerikanische Befreier Simón Bolívar seine letzten Tage, was den Ort zu einem bedeutenden historischen Denkmal macht. Santa Marta besitzt einen der tiefsten natürlichen Häfen der Welt, der für den Export von Kohle und Bananen genutzt wird. Die Strände von El Rodadero locken zudem Sonnenanbeter aus dem In- und Ausland an. Geschichte K7 — Frühe Kolonisation und das Erbe Simón Bolívars in Südamerika.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Santa Marta wurde am 29. Juli 1525 vom spanischen Eroberer Rodrigo de Bastidas gegründet.",
+        "Die Sierra Nevada de Santa Marta hinter der Stadt ist das höchste Küstengebirge der Welt.",
+        "In der Nähe liegt die Verlorene Stadt (Ciudad Perdida), eine bedeutende archäologische Stätte der Tayrona-Kultur.",
+        "Der Hafen von Santa Marta ist der einzige Seehafen Kolumbiens mit Eisenbahnanschluss."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "villavicencio-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Villavicencio ist als das Tor zu den Llanos bekannt und bildet die wichtigste Verbindung zwischen dem Hochland von Bogotá und den östlichen Tiefebenen. Die Stadt hat sich in den letzten Jahrzehnten rasant entwickelt und ist heute ein Zentrum für Handel, Viehzucht und die Ölindustrie. Die Kultur von Villavicencio ist tief geprägt vom Llanero-Lifestyle, was sich in der Musik der Harfen und dem rasanten Joropo-Tanz zeigt. Jedes Jahr findet hier das Welttreffen des Coleo statt, eine traditionelle Reitsportart der Region. Die Umgebung bietet atemberaubende Landschaften mit weiten Savannen und artenreichen Flüssen. Geographie K8 — Die Bedeutung von Durchgangsstädten für die Erschließung von Randregionen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Villavicencio liegt am Fuße der Ostkordillere der kolumbianischen Anden.",
+        "Die Stadt ist berühmt für ihre Fleischgerichte, insbesondere die Mamona (gegrilltes Kalbfleisch).",
+        "Der Bioparque Los Ocarros in der Nähe zeigt die vielfältige Flora und Fauna der Orinoco-Region.",
+        "Villavicencio ist durch eine spektakuläre, durch Tunnel und Viadukte geprägte Autobahn mit Bogotá verbunden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "pasto-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Pasto, offiziell San Juan de Pasto, liegt in einem Hochtal im Südwesten Kolumbiens am Fuße des aktiven Vulkans Galeras. Die Stadt ist berühmt für ihren Karneval der Schwarzen und Weißen, der zum UNESCO-Welterbe gehört und die kulturelle Vielfalt der Region feiert. Pasto ist ein Zentrum des Handwerks, insbesondere für die filigranen Holzarbeiten mit dem Saft des Mopa-Mopa-Baumes, bekannt als Barniz de Pasto. Das Klima ist aufgrund der Höhenlage von über 2.500 Metern angenehm kühl. In der näheren Umgebung befindet sich die atemberaubende Laguna de la Cocha, einer der größten Bergseen des Landes. Geschichte K9 — Regionale Identitäten und kulturelle Verschmelzung im südlichen Kolumbien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Pasto wurde 1537 gegründet und war während der Unabhängigkeitskriege eine Hochburg der Royalisten.",
+        "Der Vulkan Galeras über der Stadt ist einer der aktivsten Vulkane Kolumbiens.",
+        "Die Gastronomie von Pasto ist für das Cuy (Meerschweinchen) bekannt, ein traditionelles Gericht der Andenregion.",
+        "Das Heiligtum von Las Lajas, eine beeindruckende neugotische Basilika, liegt nur etwa zwei Stunden entfernt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cucuta-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Cúcuta liegt im Nordosten Kolumbiens direkt an der Grenze zu Venezuela und ist eine der wichtigsten Handelsstädte des Landes. Die Stadt ist durch mehrere Brücken mit dem Nachbarland verbunden und dient als Drehkreuz für den grenzüberschreitenden Verkehr. Cúcuta ist bekannt als die Stadt ohne Grenzen und rühmt sich ihrer vielen Alleen mit schattenspendenden Bäumen, die die tropische Hitze mildern. Historisch ist die Stadt von großer Bedeutung, da hier 1821 der erste Kongress stattfand, der die Verfassung der Republik Großkolumbien verabschiedete. Trotz der Herausforderungen einer Grenzstadt bleibt Cúcuta ein dynamischer Ort mit einem starken Unternehmergeist. Geschichte K8 — Staatsgründung und die Verfassung von Cúcuta in der Geschichte Südamerikas.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Cúcuta wurde 1733 gegründet und 1875 durch ein schweres Erdbeben fast vollständig zerstört.",
+        "Die Stadt wird aufgrund ihrer vielen Gummibäume auch als Stadt der Bäume bezeichnet.",
+        "In der nahen Kleinstadt Villa del Rosario wurde der südamerikanische Staatsmann Francisco de Paula Santander geboren.",
+        "Cúcuta verfügt über eine der modernsten Einkaufsmeilen im Osten des Landes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "mocoa-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Mocoa ist die Hauptstadt des Departamentos Putumayo und liegt malerisch am Fuße der Anden, wo die Berge in den Amazonas-Regenwald übergehen. Die Stadt ist ein wichtiger Knotenpunkt zwischen dem Hochland von Pasto und den tiefgelegenen Dschungelgebieten im Südosten. Die Umgebung von Mocoa ist ein Paradies für Naturliebhaber, mit spektakulären Wasserfällen wie dem Fin del Mundo, der sich über eine hohe Klippe stürzt. Die indigene Kultur ist in der Region noch stark präsent und beeinflusst das lokale Wissen über Heilpflanzen und Ökologie. Trotz ihrer abgelegenen Lage entwickelt sich Mocoa zunehmend zu einem Zentrum für nachhaltigen Tourismus und Abenteuersport. Geographie K7 — Die ökologische Bedeutung des Anden-Amazonas-Übergangsgebiets.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mocoa wurde 1563 gegründet und ist eine der ältesten Siedlungen am Rande des Amazonasbeckens.",
+        "Die Stadt liegt am Zusammenfluss der Flüsse Mocoa, Mulato und Sangoyaco.",
+        "Mocoa wurde 2017 von einer verheerenden Schlammlawine getroffen, befindet sich aber seither im Wiederaufbau.",
+        "Die Region Putumayo ist bekannt für ihre reiche Biodiversität und zahlreiche endemische Tierarten."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "armenia-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Armenia ist die Hauptstadt des Departamentos Quindío und bildet einen der Eckpfeiler der berühmten kolumbianischen Kaffeezone. Die Stadt wurde 1999 von einem schweren Erdbeben fast vollständig zerstört, zeigt sich heute jedoch als moderne, dynamische und neu aufgebaute Stadt. Armenia ist der ideale Ausgangspunkt, um die Kaffeekulturlandschaft zu erkunden, die zum UNESCO-Welterbe gehört. In der Nähe befinden sich der Nationalpark des Kaffees und das malerische Dorf Salento mit dem berühmten Cocora-Tal. Die Stadt wird aufgrund ihres milden Klimas und der umgebenden grünen Hügel oft als die Wunderstadt bezeichnet. Geographie K8 — Naturgefahren und Wiederaufbau: Das Beispiel des Erdbebens von 1999.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Armenia wurde 1889 gegründet und nach dem Volk der Armenier benannt.",
+        "Die Stadt liegt im Herzen des Eje Cafetero, der wichtigsten Kaffeeanbauregion Kolumbiens.",
+        "Das Goldmuseum Quimbaya in Armenia beherbergt wertvolle Fundstücke der indigenen Quimbaya-Kultur.",
+        "Die Stadt liegt auf einer durchschnittlichen Höhe von etwa 1.480 Metern über dem Meeresspiegel."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "pereira-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Pereira liegt im Herzen der Kaffeezone und ist die größte Stadt des Departamentos Risaralda. Sie gilt als die Stadt ohne Türen, was die Offenheit und Gastfreundschaft ihrer Bewohner gegenüber Besuchern symbolisiert. Pereira ist ein wichtiger Handelsknotenpunkt und Sitz zahlreicher Unternehmen, was ihr eine moderne Atmosphäre verleiht. Das markanteste Wahrzeichen ist das Viaducto César Gaviria Trujillo, eine beeindruckende Schrägseilbrücke, die Pereira mit der Nachbarstadt Dosquebradas verbindet. Von hier aus lassen sich die umliegenden Kaffeeplantagen und der Nationalpark Los Nevados hervorragend erkunden. Geographie K8 — Die Kaffeezone als Wirtschaftsraum und touristische Destination.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Pereira wurde 1863 an derselben Stelle gegründet, an der sich zuvor die Siedlung Cartago befand.",
+        "Die Stadt ist bekannt für ihre lebhafte Kneipen- und Café-Kultur im Viertel Circunvalar.",
+        "Pereira besitzt mit dem Ukumarí Biopark einen der modernsten Zoos Lateinamerikas.",
+        "Aufgrund ihrer zentralen Lage wird Pereira oft als die Perle des Otún bezeichnet."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "san-andres-cities-v2",
+    "descriptionAdvanced": {
+      "de": "San Andrés ist die größte Insel des gleichnamigen Archipels und liegt im Karibischen Meer, weit nördlich des kolumbianischen Festlandes. Sie ist berühmt für ihr Meer der sieben Farben, das in spektakulären Blau- und Türkistönen leuchtet. Die Kultur der Insel ist durch die Raizal-Bevölkerung geprägt, die eine auf Englisch basierende Kreolsprache spricht und protestantische Wurzeln hat. San Andrés ist ein Paradies für Taucher und Schnorchler, da es von einem der größten Korallenriffe Amerikas umgeben ist. Die Insel bietet zudem steuerfreies Einkaufen, was sie zu einem beliebten Ziel für kolumbianische Touristen macht. Geographie K7 — Insulare Ökosysteme und der Schutz von Korallenriffen in der Karibik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Insel liegt geografisch näher an Nicaragua als an Kolumbien.",
+        "Das Archipel von San Andrés und Providencia wurde 2000 zum UNESCO-Biosphärenreservat erklärt.",
+        "Die Insel war im 17. Jahrhundert ein bekannter Unterschlupf für Piraten wie Henry Morgan.",
+        "Ein Großteil der Inselbewohner spricht sowohl Spanisch als auch das lokale Kreolisch."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bucaramanga-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Bucaramanga liegt im Nordosten Kolumbiens auf einem Plateau in den Anden und wird aufgrund seiner zahlreichen Parks als die Stadt der Parks bezeichnet. Sie ist das wirtschaftliche Zentrum der Santander-Region und bekannt für ihre starke Leder- und Schuhindustrie. Die Stadt zeichnet sich durch eine hohe Lebensqualität und eine gut ausgebaute Infrastruktur aus, was sie zu einem attraktiven Wohnort macht. In der Nähe befindet sich der spektakuläre Chicamocha-Canyon, einer der größten Canyons der Welt, der zahlreiche Möglichkeiten für Abenteuersport bietet. Bucaramanga ist zudem ein bedeutendes Bildungszentrum mit mehreren renommierten Universitäten. Geographie K8 — Industrielle Clusterbildung und Lebensqualität in lateinamerikanischen Mittelstädten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bucaramanga wurde 1622 als indigenes Dorf gegründet und entwickelte sich erst im 19. Jahrhundert zur Großstadt.",
+        "Die Stadt gilt als eine der sichersten und saubersten Metropolen Kolumbiens.",
+        "In Bucaramanga befindet sich die längste Seilbahn Südamerikas, die den Chicamocha-Canyon überquert.",
+        "Die Gastronomie in Bucaramanga ist berühmt für die Hormigas Culonas (geröstete Blattschneiderameisen)."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sincelejo-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Sincelejo ist die Hauptstadt des Departamentos Sucre und liegt im Norden Kolumbiens in den weiten Ebenen der Savannen. Die Stadt ist vor allem für ihre Feste der Corralejas bekannt, eine volkstümliche Form des Stierkampfes, die tief in der regionalen Kultur verwurzelt ist. Sincelejo dient als wichtiges Handelszentrum für die Viehwirtschaft, die das wirtschaftliche Rückgrat der gesamten Region bildet. Das Stadtbild ist geprägt von einer Mischung aus moderner Architektur und traditionellen karibischen Einflüssen. Trotz der tropischen Hitze strahlt die Stadt eine ruhige und geschäftige Atmosphäre aus. Geographie K9 — Viehwirtschaft und regionale Identität im karibischen Hinterland.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Sincelejo wurde 1776 im Zuge der spanischen Kolonisation der Savannen von Bolivar gegründet.",
+        "Die Stadt ist berühmt für den Veinte de Enero (20. Januar), das wichtigste Volksfest der Region.",
+        "Sincelejo liegt in einem Gebiet, das für die handwerkliche Fertigung des Sombrero Vueltiao bekannt ist.",
+        "Die Stadt bildet das Tor zu den Stränden von Tolú und Coveñas am Golf von Morrosquillo."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "ibague-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Ibagué liegt am Fuße der Zentralkordillere und ist als die musikalische Hauptstadt Kolumbiens bekannt. Dieser Titel rührt von der tiefen Verwurzelung der Musik im täglichen Leben und den zahlreichen Konservatorien und Musikschulen der Stadt her. Jedes Jahr findet hier das kolumbianische Folkloristische Festival statt, das Musiker und Tänzer aus dem ganzen Land anzieht. Ibagué ist zudem ein wichtiges landwirtschaftliches Zentrum, insbesondere für den Anbau von Reis und Kaffee in den fruchtbaren Tälern des Tolima-Departamentos. Über der Stadt thront der majestätische Vulkan Nevado del Tolima, der zu anspruchsvollen Bergtouren einlädt. Geographie K8 — Agrarregionen und kulturelle Zentren in den interandinen Tälern.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Ibagué wurde 1550 gegründet und war im 19. Jahrhundert kurzzeitig die Hauptstadt Kolumbiens.",
+        "In der Stadt befindet sich das Konservatorium von Tolima, eines der ältesten und renommiertesten des Landes.",
+        "Der Canyon von Combeima direkt am Stadtrand ist ein beliebtes Ziel für Wanderer und Naturliebhaber.",
+        "Die Stadt ist bekannt für ihre traditionellen Gerichte wie die Tamal Tolimense und die Lechona."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cali-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Cali, offiziell Santiago de Cali, ist die drittgrößte Stadt Kolumbiens und gilt als die Welthauptstadt der Salsa. Das Leben in Cali ist von Rhythmus und Musik geprägt, was sich in den unzähligen Salsotecas und Tanzschulen der Stadt widerspiegelt. Gelegen im fruchtbaren Cauca-Tal, ist Cali das Zentrum der kolumbianischen Zuckerindustrie. Die Stadt bietet eine lebendige Gastronomie und ein pulsierendes Nachtleben, insbesondere im Viertel Menga oder im historischen Viertel San Antonio. Wahrzeichen der Stadt ist das Denkmal Cristo Rey, das majestätisch auf einem Hügel über der Metropole thront. Geographie K8 — Industrielle Landwirtschaft und urbane Dynamik im Cauca-Tal.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Cali wurde am 25. Juli 1536 gegründet und ist eine der ältesten Städte in Amerika.",
+        "Die Stadt war 1971 Gastgeber der Panamerikanischen Spiele, was ihre Entwicklung stark vorantrieb.",
+        "Cali liegt auf etwa 1.000 Metern Höhe und genießt ein tropisches Savannenklima.",
+        "Die Feria de Cali im Dezember ist eines der größten Musik- und Tanzereignisse Lateinamerikas."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "mitu-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Mitú ist die Hauptstadt des Departamentos Vaupés und liegt isoliert inmitten des dichten Amazonas-Regenwaldes im Osten Kolumbiens. Die Stadt ist nur auf dem Luftweg erreichbar und dient als Lebensader für die zahlreichen indigenen Gemeinschaften der Region. Mitú liegt am Ufer des Rio Vaupés, der mit seinen Stromschnellen und unberührten Landschaften die Umgebung prägt. Die Stadt ist ein Schmelztiegel indigener Kulturen, in dem traditionelles Wissen und modernes Leben aufeinandertreffen. Besucher können die enorme Biodiversität des Dschungels erleben und mehr über die spirituellen Traditionen der Tukano-Völker erfahren. Geographie K7 — Leben in Abgeschiedenheit: Herausforderungen und Potenziale entlegener Regenwaldregionen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Mitú wurde 1935 gegründet und diente ursprünglich als Außenposten für den Kautschukhandel.",
+        "Es gibt keine einzige Straße, die Mitú mit dem Rest des Landes verbindet.",
+        "Die Region Vaupés ist bekannt für ihre extrem hohe Vielfalt an Schmetterlingen und Vögeln.",
+        "Der Großteil der Bevölkerung von Mitú gehört verschiedenen indigenen Ethnien an."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "puerto-carreno-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Puerto Carreño liegt im äußersten Osten Kolumbiens an der Stelle, wo der Rio Meta in den mächtigen Orinoco mündet. Die Stadt bildet die Grenze zu Venezuela und ist ein wichtiger Knotenpunkt für den Handel auf den großen Flüssen der Region. Das Umland ist geprägt von den weiten Savannen der Llanos und spektakulären Granitformationen des Guayana-Schildes. Puerto Carreño ist ein Paradies für Sportfischer, die hier Jagd auf den berühmten Pfauenbarsch machen. Trotz ihrer Abgeschiedenheit bietet die Stadt eine einzigartige Atmosphäre, die vom Rhythmus der Flüsse und der rauen Schönheit der Savanne bestimmt wird. Geographie K7 — Grenzflüsse und Ökosysteme des Orinoco-Beckens.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Puerto Carreño wurde 1922 gegründet und nach einem kolumbianischen Politiker benannt.",
+        "Die Stadt ist der wichtigste kolumbianische Hafen am Orinoco-Fluss.",
+        "In den Flüssen der Region können oft rosafarbene Flussdelfine beobachtet werden.",
+        "Das Klima ist extrem heiß mit einer ausgeprägten Trocken- und Regenzeit."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "soledad-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Soledad ist eine rasant wachsende Stadt in der Metropolregion Barranquilla und hat sich zu einem bedeutenden industriellen Zentrum an der kolumbianischen Nordküste entwickelt. Obwohl sie oft im Schatten ihrer großen Nachbarin steht, besitzt Soledad eine eigene kulturelle Identität und Geschichte. Bekannt ist die Stadt vor allem für ihre Butifarras, eine traditionelle Wurstspezialität, die im ganzen Land geschätzt wird. Die Kirche San Antonio de Padua ist ein wichtiges architektonisches Erbe aus der Kolonialzeit im Zentrum der Stadt. Soledad beherbergt zudem den internationalen Flughafen Ernesto Cortissoz, der die Region mit der Welt verbindet. Geographie K8 — Suburbanisierung und industrielles Wachstum in kolumbianischen Metropolregionen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Soledad wurde bereits 1598 gegründet und ist eine der ältesten Gemeinden der Region.",
+        "Die Stadt ist der Geburtsort des berühmten Sängers Alci Acosta.",
+        "In Soledad hielt sich Simón Bolívar kurz vor seinem Tod in Santa Marta auf.",
+        "Soledad ist heute eine der bevölkerungsreichsten Städte Kolumbiens ohne eigenen Hauptstadtstatus."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "soacha-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Soacha liegt unmittelbar südlich von Bogotá und ist die wichtigste Satellitenstadt der kolumbianischen Hauptstadt. Sie hat in den letzten Jahrzehnten ein explosives Bevölkerungswachstum erlebt, bedingt durch Binnenwanderung und die industrielle Expansion des Ballungsraums. Soacha beherbergt bedeutende archäologische Schätze, darunter prähistorische Felsmalereien in den Felsen von Soacha, die Zeugnis von frühen Siedlern ablegen. Die Stadt ist zudem für ihre traditionellen Süßspeisen wie Garullas und Almojábanas bekannt, die Reisende auf dem Weg nach Süden schätzen. Trotz der sozialen Herausforderungen ist Soacha ein dynamischer Ort mit einer jungen Bevölkerung und einer wachsenden Wirtschaft. Geographie K8 — Segregation und Wachstumsschübe in lateinamerikanischen Peripherien.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Soacha wurde bereits 1600 als indigenes Dorf gegründet.",
+        "Der Name Soacha stammt aus der Muisca-Sprache und bedeutet Stadt des Sonnengottes.",
+        "In der Nähe liegt der spektakuläre Tequendama-Wasserfall, ein wichtiges Symbol der kolumbianischen Geographie.",
+        "Soacha ist durch das TransMilenio-Bussystem eng mit dem Verkehrsnetz von Bogotá verbunden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "bello-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Bello ist eine bedeutende Industriestadt im Norden des Aburrá-Tals und gehört zur Metropolregion von Medellín. Die Stadt hat eine lange Geschichte in der Textilindustrie, die maßgeblich zu ihrer Entwicklung im 20. Jahrhundert beigetragen hat. Über der Stadt thront der Cerro Quitasol, ein markanter Berg, der sowohl als Wanderziel als auch für seine archäologischen Funde aus der indigenen Zeit bekannt ist. Bello ist ein wichtiges Wohngebiet für Pendler nach Medellín und besitzt eine gute Anbindung an das Metro-System. Die Stadt ist zudem der Geburtsort von Marco Fidel Suárez, einem ehemaligen Präsidenten Kolumbiens, dessen bescheidenes Geburtshaus heute ein Museum ist. Geographie K8 — Industrieller Strukturwandel und städtische Verdichtung im Hochland.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Bello wurde 1676 unter dem Namen Hato Viejo gegründet.",
+        "Die Stadt beherbergt die Fabrikato-Werke, einen der traditionsreichsten Textilhersteller Kolumbiens.",
+        "Bello gilt als eine der Städte mit der höchsten Bevölkerungsdichte in der Region Antioquia.",
+        "Die Kirche Unserer Lieben Frau vom Rosenkranz ist ein bedeutendes religiöses Wahrzeichen im Stadtzentrum."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  }
+]

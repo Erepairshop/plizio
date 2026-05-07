@@ -1,0 +1,135 @@
+{
+  "lang": "ro",
+  "country": "chile",
+  "files": [
+    "lib/visualLab/data/poiExtraChileCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChileEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChileHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChileLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChileLifeV2.ts",
+    "lib/visualLab/data/poiExtraChileNatureV2.ts",
+    "lib/visualLab/data/poiExtraChileReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santiago-cities-v2",
+      "descriptionAdvanced": "Santiago, capitala Chile, este situată la poalele Anzilor, la o altitudine medie de 520 de metri. Fondată în 1541 de Pedro de Valdivia, metropola găzduiește peste 6 milioane de locuitori, reprezentând inima economică și culturală a țării. În centrul său istoric se află Palatul La Moneda, sediul guvernului, iar cartiere precum Providencia oferă un mix de arhitectură modernă și tradițională. Geografia sa unică, înconjurată de munți, influențează climatul mediteranean local, făcând-o o destinație fascinantă pentru studiul urbanismului sud-american. Geografie K7 — așezări umane și climă.",
+      "factsAdvanced": [
+        "Altitudine medie: 520 metri",
+        "Fondat în 1541",
+        "Populație: peste 6 milioane",
+        "Sediu: Palatul La Moneda",
+        "Climat: Mediteranean",
+        "Locație: Valea râului Mapocho"
+      ]
+    },
+    {
+      "id": "puente-alto-cities-v2",
+      "descriptionAdvanced": "Puente Alto este una dintre cele mai populate comune din zona metropolitană Santiago, fiind cunoscută pentru expansiunea sa urbană rapidă în ultimele decenii. Situată la marginea capitalei, aceasta servește ca un centru rezidențial major pentru mii de navetiști care lucrează în centrul metropolei. Deși istoria sa este strâns legată de dezvoltarea agricolă a Văii Maipo, astăzi Puente Alto găzduiește centre comerciale vaste și infrastructură publică modernă. Zona este poarta de intrare către pitoreasca zonă a Anzilor din regiune, oferind o perspectivă interesantă asupra demografiei Chile. Geografie K6 — populație și urbanizare.",
+      "factsAdvanced": [
+        "Statut: Comuna majoră",
+        "Localizare: Zona metropolitană Santiago",
+        "Istoric: Origini agricole",
+        "Rol: Centru rezidențial",
+        "Vecinătate: Valea Maipo",
+        "Dezvoltare: Expansiune rapidă în secolul XX"
+      ]
+    },
+    {
+      "id": "maipu-cities-v2",
+      "descriptionAdvanced": "Maipú este un sit de o importanță istorică majoră în Chile, fiind locul bătăliei decisive din 1818 care a consolidat independența țării față de coroana spaniolă. Astăzi, Maipú este o comună dens populată în vestul Santiago, combinând patrimoniul istoric, marcat de Templo Votivo de Maipú, cu un mediu urban modern. Dezvoltarea sa a transformat regiunea într-un motor economic vibrant, beneficiind de proximitatea față de aeroportul internațional și rute comerciale strategice. Este un exemplu perfect de integrare a memoriei istorice în dezvoltarea urbană modernă. Istorie K8 — independența Chile.",
+      "factsAdvanced": [
+        "Bătălia de la Maipú: 1818",
+        "Importanță: Consolidarea independenței",
+        "Obiectiv: Templo Votivo de Maipú",
+        "Localizare: Vestul Santiago",
+        "Populație: Peste 500.000",
+        "Rol: Rezidențial și istoric"
+      ]
+    },
+    {
+      "id": "la-florida-cities-v2",
+      "descriptionAdvanced": "La Florida este una dintre cele mai dinamice și dezvoltate comune din zona metropolitană a Santiago, caracterizată printr-o infrastructură modernă și o calitate a vieții ridicată. Această zonă a experimentat o transformare spectaculoasă, trecând de la o zonă periferică agricolă la un hub urban bine conectat prin rețeaua de metrou a capitalei. Aici se află una dintre cele mai mari și vizitate mall-uri din America de Sud, Mall Plaza Vespucio, care atrage vizitatori din întreaga regiune. La Florida reprezintă un model de creștere urbană echilibrată, oferind spații verzi ample și facilități moderne. Geografie K7 — infrastructură urbană.",
+      "factsAdvanced": [
+        "Tip zonă: Comuna metropolitană",
+        "Conectivitate: Rețea de metrou",
+        "Hub comercial: Mall Plaza Vespucio",
+        "Evoluție: Din zonă agricolă în urbană",
+        "Caraceristică: Spații verzi",
+        "Dezvoltare: Modernă și dinamică"
+      ]
+    },
+    {
+      "id": "antofagasta-cities-v2",
+      "descriptionAdvanced": "Antofagasta, supranumită 'Perla Nordului', este unul dintre cele mai importante orașe portuare și miniere din Chile, situat în inima Deșertului Atacama. Fondat în 1868, orașul a prosperat datorită exporturilor de minereuri, în special cupru și salpetru, fiind vital pentru economia națională. În ciuda climatului arid, Antofagasta s-a dezvoltat într-un hub industrial modern cu o arhitectură distinctivă, marcată de Monumentul Natural La Portada în apropiere. Poziția sa strategică pe malul Oceanului Pacific o transformă într-un centru logistic indispensabil pentru regiune. Industrie K8 — minerit și economie.",
+      "factsAdvanced": [
+        "Fondat: 1868",
+        "Poreclă: Perla Nordului",
+        "Economie: Minerit (cupru)",
+        "Localizare: Deșertul Atacama",
+        "Infrastructură: Port major",
+        "Repere: La Portada"
+      ]
+    },
+    {
+      "id": "puerto-de-iquique-economic-v2",
+      "descriptionAdvanced": "Puerto de Iquique, situat în nordul extrem al Chile, funcționează ca o zonă liberă de importanță internațională și un port crucial pentru comerțul maritim din Pacific. Orașul Iquique a fost istoric dependent de industria salpetrului, dar astăzi economia sa este diversificată prin turism și logistica portuară avansată. Zona liberă (Zofri) a orașului facilitează comerțul cu țările vecine, devenind un motor economic esențial pentru regiunea Tarapacá. Infrastructura portuară permite exportul eficient al resurselor miniere extrase din regiunile deșertice din proximitate. Industrie K9 — economie globală.",
+      "factsAdvanced": [
+        "Locație: Regiunea Tarapacá",
+        "Statut: Zonă Liberă (Zofri)",
+        "Economie: Logistică portuară",
+        "Istoric: Industrie salpetru",
+        "Rol: Export minier",
+        "Importanță: Comerț internațional"
+      ]
+    },
+    {
+      "id": "puerto-coronel-economic-v2",
+      "descriptionAdvanced": "Puerto Coronel este un terminal portuar strategic situat în regiunea Biobío, esențial pentru gestionarea volumelor mari de mărfuri din centrul-sudul Chile. Portul joacă un rol vital în exportul produselor forestiere, agricole și miniere, fiind unul dintre cei mai eficienți operatori din țară. Situat lângă orașul Coronel, portul a fost un motor de dezvoltare pentru comunitățile locale, facilitând legătura dintre resursele naturale ale regiunii și piețele globale. Tehnologia utilizată în operarea portuară permite manipularea unei game variate de mărfuri, inclusiv cherestea și celuloză. Economie K9 — comerț maritim.",
+      "factsAdvanced": [
+        "Localizare: Regiunea Biobío",
+        "Rol principal: Export forestier",
+        "Operare: Terminal maritim eficient",
+        "Tip mărfuri: Cherestea, celuloză",
+        "Importanță: Dezvoltare regională",
+        "Conexiune: Piețe globale"
+      ]
+    },
+    {
+      "id": "puerto-lirquen-economic-v2",
+      "descriptionAdvanced": "Puerto Lirquén este un port cu istorie îndelungată în golful Concepción, specializat în manipularea produselor forestiere și mărfuri generale. Situat strategic în regiunea Biobío, portul este un pilon pentru economia locală și națională, oferind servicii logistice integrate pentru exportatori. Lirquén a evoluat constant, investind în echipamente moderne de încărcare pentru a răspunde cererii crescute de pe piețele internaționale. Poziția sa geografică protejată în golf oferă un avantaj operațional major pentru navele cargo care vizitează coasta chiliană. Economie K9 — logistică portuară.",
+      "factsAdvanced": [
+        "Localizare: Golful Concepción",
+        "Specializare: Produse forestiere",
+        "Regiune: Biobío",
+        "Rol: Servicii logistice",
+        "Avantaj: Poziție geografică protejată",
+        "Evoluție: Modernizare continuă"
+      ]
+    },
+    {
+      "id": "puerto-san-vicente-economic-v2",
+      "descriptionAdvanced": "Puerto San Vicente, situat în apropierea orașului Talcahuano, este un terminal portuar cheie în centrul Chile, jucând un rol crucial în importurile și exporturile țării. Portul este cunoscut pentru capacitatea sa de a manipula containere și produse de pescuit, fiind o infrastructură vitală pentru regiunea industrială din jurul orașului Concepción. După reconstrucții necesare în urma evenimentelor seismice, San Vicente s-a repoziționat ca un port modern, cu tehnologie de vârf pentru gestionarea fluxurilor comerciale complexe. Este un nod logistic strategic care leagă industria prelucrătoare chiliană de restul lumii. Economie K9 — logistică industrială.",
+      "factsAdvanced": [
+        "Localizare: Lângă Talcahuano",
+        "Tip terminal: Containere și pescuit",
+        "Regiune: Concepción",
+        "Rol: Nod logistic strategic",
+        "Infrastructură: Modernă",
+        "Importanță: Comerț industrial"
+      ]
+    },
+    {
+      "id": "puerto-ventanas-economic-v2",
+      "descriptionAdvanced": "Puerto Ventanas este un terminal privat situat în golful Quintero, fiind specializat în manipularea mărfurilor vrac, în special a cărbunelui și a concentratelor minerale. Acest port joacă un rol critic în furnizarea energiei și a materiilor prime pentru industria chiliană, fiind conectat prin rute feroviare și drumuri la marile centre de producție. Ventanas se remarcă prin eficiența sa operațională și prin standardele riguroase de mediu aplicate într-o zonă industrială sensibilă. Importanța sa strategică este dată de capacitatea de a deservi industriile energetice care susțin rețeaua electrică a țării. Industrie K9 — energie și minerit.",
+      "factsAdvanced": [
+        "Localizare: Golful Quintero",
+        "Specializare: Mărfuri vrac (cărbune)",
+        "Rol: Furnizor energie/materii prime",
+        "Conectivitate: Feroviară și rutieră",
+        "Standarde: Ecologice riguroase",
+        "Importanță: Strategică"
+      ]
+    }
+  ]
+}

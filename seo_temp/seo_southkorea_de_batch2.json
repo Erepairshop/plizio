@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uiwang-city-cities-v2",
+      "descriptionAdvanced": "Uiwang ist eine Stadt in der Provinz Gyeonggi, die besonders für ihre Verbindung zum Eisenbahnwesen bekannt ist. Hier befindet sich das Korea Railroad Museum, das eine beeindruckende Sammlung historischer Lokomotiven und Waggons zeigt. Die Stadt liegt am wunderschönen Wangsong-See, der nicht nur ein wichtiger Rastplatz für Zugvögel ist, sondern auch eine Schienenradstrecke (Rail Bike) bietet, die den See umrundet und bei Familien sehr beliebt ist. Uiwang profitiert von seiner Lage in der Nähe von Seoul und Suwon und hat sich zu einem attraktiven Wohnort entwickelt, der Naturerlebnisse wie den Berg Cheonggyesan mit moderner Infrastruktur verbindet. Ein Fokus der Stadt liegt auf ökologischer Erhaltung und der Förderung von Wissenschaft und Technologie durch verschiedene Forschungszentren.",
+      "factsAdvanced": [
+        "Beherbergt das Nationale Eisenbahnmuseum Koreas.",
+        "Der Wangsong-See ist ein Hotspot für Vogelbeobachtung.",
+        "Bekannt für seine Schienenradstrecke am Seeufer.",
+        "Wichtiger Standort für Eisenbahntechnologie und Logistik.",
+        "Liegt strategisch günstig an der Gyeongsu-Autobahn.",
+        "Der Berg Moraksan bietet historische Festungsüberreste.",
+        "Fokus auf die Entwicklung zur 'Natural High-Tech' Stadt.",
+        "Beherbergt das Uiwang Global Talent Center."
+      ]
+    },
+    {
+      "id": "pocheon-city-cities-v2",
+      "descriptionAdvanced": "Pocheon, im Norden der Provinz Gyeonggi gelegen, ist ein beliebtes Ziel für Wochenendausflüge aus Seoul, bekannt für seine beeindruckende Natur und seine Spezialitäten. Das spektakulärste Ziel ist Pocheon Art Valley, ein ehemaliger Steinbruch, der in einen wunderschönen Park mit einem smaragdgrünen See inmitten steiler Granitfelsen umgewandelt wurde. Eine weitere Attraktion ist das National Arboretum of Korea, das riesige Waldflächen und seltene Pflanzenarten schützt. Kulinarisch ist Pocheon landesweit für 'Pocheon Idong Galbi' (mariniertes Rindfleisch) und seinen traditionellen Reiswein Makgeolli berühmt. Die Stadt beherbergt zudem die Sanjeong-See-Region, die im Winter für ihre Eisfestivals und im Rest des Jahres für ihre malerische Bergkulisse bekannt ist. Pocheon verbindet raue Berglandschaften mit feiner lokaler Gastronomie.",
+      "factsAdvanced": [
+        "Pocheon Art Valley ist ein revitalisierter Granitsteinbruch.",
+        "Beherbergt das Koreanische National-Arboretum (Gwangneung Forest).",
+        "Berühmt für Idong Galbi und Pocheon Makgeolli.",
+        "Der Sanjeong-See ist ein Top-Touristenziel der Region.",
+        "Bekannt für die Herstellung von traditioneller koreanischer Seide.",
+        "Pocheon Herb Island ist ein riesiger Kräuter-Themenpark.",
+        "Wichtiger Militärstandort im Norden der Halbinsel.",
+        "Die Stadt hat über 150.000 Einwohner."
+      ]
+    },
+    {
+      "id": "yeoju-city-cities-v2",
+      "descriptionAdvanced": "Yeoju ist eine geschichtsträchtige Stadt am Ufer des Namhan-Flusses, die besonders als letzte Ruhestätte von König Sejong dem Großen, dem Erfinder des koreanischen Alphabets Hangul, bekannt ist. Sein Grab, Yeongneung, ist ein UNESCO-Weltkulturerbe und ein Ort von großer nationaler Bedeutung. Yeoju hat zudem eine jahrhundertelange Tradition in der Herstellung von Keramik und Porzellan, was heute im Yeoju World Ceramics Livingware Gallery und beim jährlichen Keramikfestival gefeiert wird. Die Stadt ist auch berühmt für ihren hochwertigen Reis und ihre süßen Kartoffeln, die von den fruchtbaren Flussböden profitieren. In der Moderne hat sich Yeoju als Ziel für Shopping-Touristen etabliert, da es das erste und größte Premium-Outlet-Center Koreas beherbergt. Die Kombination aus tiefer historischer Verehrung und modernem Freizeitvergnügen macht Yeoju zu einem vielseitigen Reiseziel.",
+      "factsAdvanced": [
+        "Ruhestätte von König Sejong dem Großen (Yeongneung).",
+        "Zentrum für traditionelle Keramik und Porzellan.",
+        "Standort des Yeoju Premium Outlets (Simon Property Group).",
+        "Berühmt für hochwertigen Yeoju-Reis und Süßkartoffeln.",
+        "Beherbergt den historischen Tempel Silleuksa am Fluss.",
+        "Der Namhan-Fluss prägt das Stadtbild und die Landwirtschaft.",
+        "Wichtiger Standort für das nationale Bogenschießen.",
+        "Yeoju Ipo-Gewehrbereich ist ein moderner Camping-Spot."
+      ]
+    },
+    {
+      "id": "dongducheon-city-cities-v2",
+      "descriptionAdvanced": "Dongducheon liegt nördlich von Seoul und ist seit Jahrzehnten eng mit der Anwesenheit des US-Militärs verbunden, insbesondere durch das Camp Casey. Diese Präsenz hat das kulturelle und wirtschaftliche Leben der Stadt maßgeblich geprägt, was sich in einer Vielzahl von westlich orientierten Geschäften und Restaurants widerspiegelt. In den letzten Jahren unternimmt Dongducheon jedoch große Anstrengungen, sich als Zentrum für Bergsport und Outdoor-Aktivitäten neu zu definieren. Der Berg Soyosan, oft als 'Kleiner Geumgangsan der Region Gyeonggi' bezeichnet, ist berühmt für seine spektakulären Felsformationen und das wunderschöne Herbstlaub. Die Stadt bietet zudem ein Berg-MTB-Zentrum und fördert den Tourismus durch ökologische Themenparks. Dongducheon wandelt sich so von einer reinen Militärstadt zu einem attraktiven Ziel für Naturbegeisterte und Wanderer aus der gesamten Metropolregion.",
+      "factsAdvanced": [
+        "Langjähriger wichtiger Standort der US-Armee (Camp Casey).",
+        "Der Berg Soyosan ist ein Top-Wanderziel für das Herbstlaub.",
+        "Austragungsort eines großen internationalen Mountainbike-Rennens.",
+        "Das Freedom Protection Peace Museum erinnert an UN-Truppen.",
+        "Bekannt für seine vielfältige internationale Gastronomie.",
+        "Endstation der Seouler Metro-Linie 1 im Norden.",
+        "Fokus auf die Entwicklung von Wald-Therapie-Zentren.",
+        "Die Stadt ist von markanten Berggipfeln umgeben."
+      ]
+    },
+    {
+      "id": "miryang-city-cities-v2",
+      "descriptionAdvanced": "Miryang, im Herzen der Provinz Gyeongsangnam-do gelegen, ist eine Stadt, die für ihre reiche Kultur und ihre malerische Natur bekannt ist. Ein Wahrzeichen ist der Yeongnamnu-Pavillon, einer der schönsten Pavillons Koreas, der majestätisch über dem Miryang-Fluss thront. Die Stadt ist auch der Geburtsort des 'Miryang Arirang', einer der bekanntesten Versionen des koreanischen Volksliedes, das hier jährlich mit einem großen Festival gefeiert wird. Ein mysteriöses Naturphänomen ist das Eoreumgol-Tal (Eistal), wo Wasser im Hochsommer zu Eis gefriert und im Winter warm bleibt. Miryang ist zudem ein wichtiger Verkehrsknotenpunkt für den KTX und beherbergt bedeutende buddhistische Tempel wie den Pyochungsa. Die Stadt bewahrt eine traditionelle Atmosphäre und ist stolz auf ihr Erbe, das sowohl in der Architektur als auch in den lebendigen Volksbräuchen zum Ausdruck kommt.",
+      "factsAdvanced": [
+        "Der Yeongnamnu-Pavillon ist ein Meisterwerk der Architektur.",
+        "Heimat des Miryang Arirang (UNESCO-Weltkulturerbe-Lied).",
+        "Das Eoreumgol-Tal weist ein einzigartiges Mikroklima auf.",
+        "Beherbergt den geschichtsträchtigen Pyochungsa-Tempel.",
+        "Wichtiger Halt für den Hochgeschwindigkeitszug KTX.",
+        "Drehort für den preisgekrönten Film 'Secret Sunshine'.",
+        "Berühmt für Miryang-Dwaeji-Gukbap (Schweinefleischsuppe).",
+        "Umgeben von den malerischen Gipfeln der 'Alpen Koreas'."
+      ]
+    },
+    {
+      "id": "ulsan-hyundai-heavy-industries-economic-v2",
+      "descriptionAdvanced": "Die Werft von Hyundai Heavy Industries in Ulsan ist die größte Schiffswerft der Welt und ein Symbol für Südkoreas Status als führende Nation im Schiffbau. Auf einem riesigen Gelände werden hier gigantische Containerschiffe, Öltanker, LNG-Frachter und sogar Marineschiffe produziert. Die Werft nutzt modernste Technologien wie digitale Zwillinge und KI-gesteuerte Fertigungsprozesse, um die Effizienz zu steigern. Sie ist das Herzstück der Wirtschaft von Ulsan und bietet Zehntausende von Arbeitsplätzen. Besucher können von Aussichtspunkten aus die gewaltigen Kräne und die im Bau befindlichen Giganten der Meere bestaunen. Hyundai Heavy Industries treibt zudem die Entwicklung von umweltfreundlichen Schiffen voran, die mit Ammoniak oder Wasserstoff betrieben werden, um den globalen Wandel zur grünen Schifffahrt anzuführen.",
+      "factsAdvanced": [
+        "Größte Schiffswerft der Welt nach Produktionsvolumen.",
+        "Spezialisiert auf LNG-Frachter und hochmoderne Tanker.",
+        "Verfügt über neun riesige Trockendocks.",
+        "Wichtiger Lieferant für die südkoreanische Marine.",
+        "Führend in der Entwicklung wasserstoffbetriebener Schiffe.",
+        "Beschäftigt indirekt über 100.000 Menschen in der Region.",
+        "Kernstandort des Ulsan Industrial Complex.",
+        "Pionier bei der Implementierung von 'Smart Shipyard' Technologien."
+      ]
+    },
+    {
+      "id": "pohang-posco-steelworks-economic-v2",
+      "descriptionAdvanced": "Das POSCO-Stahlwerk in Pohang ist eines der produktivsten und technologisch fortschrittlichsten Stahlwerke weltweit. Seit seiner Gründung in den 1960er Jahren war es der Motor für Südkoreas schnellen wirtschaftlichen Aufstieg, bekannt als 'Wunder am Han-Fluss'. Das Werk produziert hochwertigen Stahl für die Automobil-, Schiffbau- und Bauindustrie globaler Kunden. POSCO Pohang ist nicht nur ein Industriegigant, sondern auch ein Vorreiter in Sachen Umweltschutz innerhalb der Schwerindustrie, mit massiven Investitionen in CO2-reduzierende Produktionstechnologien wie die FINEX-Methode. Die Stadt Pohang ist eng mit dem Werk verwachsen, was sich auch in kulturellen Projekten wie dem 'Space Walk', einer riesigen begehbaren Skulptur aus POSCO-Stahl, widerspiegelt. Das Werk bietet geführte Touren für Besucher an, die die beeindruckenden Dimensionen der Stahlproduktion hautnah erleben möchten.",
+      "factsAdvanced": [
+        "Gründungsstandort von POSCO im Jahr 1968.",
+        "Erstes modernes integriertes Stahlwerk Südkoreas.",
+        "Entwickler der umweltfreundlicheren FINEX-Technologie.",
+        "Produziert jährlich Millionen Tonnen Rohstahl.",
+        "Zentraler Lieferant für Hyundai, Samsung und LG.",
+        "Prägt das nächtliche Stadtbild von Pohang durch Beleuchtung.",
+        "Beherbergt ein großes Museum zur Stahlgeschichte.",
+        "Investiert massiv in wasserstoffbasierte Stahlproduktion."
+      ]
+    },
+    {
+      "id": "suwon-samsung-electronics-economic-v2",
+      "descriptionAdvanced": "Samsung Digital City in Suwon ist der globale Hauptsitz von Samsung Electronics und ein High-Tech-Campus der Superlative. Auf einer Fläche, die so groß wie hunderte Fußballfelder ist, arbeiten zehntausende Forscher, Ingenieure und Designer an der Zukunft der Elektronik – von Smartphones und Halbleitern bis hin zu künstlicher Intelligenz. Der Campus ist wie eine eigene Stadt konzipiert, mit Sportanlagen, medizinischen Zentren und Forschungseinrichtungen. Suwon ist untrennbar mit dem Erfolg von Samsung verbunden, was die Stadt zu einem der wichtigsten Technologie-Hubs weltweit macht. In der Nähe befindet sich auch das Samsung Innovation Museum, das die Geschichte der Elektronikindustrie und die bahnbrechenden Erfindungen des Unternehmens zeigt. Hier wird nicht nur produziert, sondern die digitale Transformation der Welt maßgeblich vorangetrieben.",
+      "factsAdvanced": [
+        "Globaler Hauptsitz von Samsung Electronics.",
+        "Beherbergt das Samsung Innovation Museum (SIM).",
+        "Wichtigstes F&E-Zentrum für Mobiltelefone weltweit.",
+        "Beschäftigt über 35.000 Mitarbeiter am Standort Suwon.",
+        "Verfügt über eigene autonome Shuttle-Busse auf dem Campus.",
+        "Zentrum für die Entwicklung von 6G- und KI-Technologien.",
+        "Wirtschaftliches Kraftzentrum der Provinz Gyeonggi.",
+        "Fördert zahlreiche Start-ups durch eigene Inkubatoren."
+      ]
+    },
+    {
+      "id": "pyeongtaek-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Pyeongtaek ist einer der am schnellsten wachsenden Logistikknotenpunkte Südkoreas und das wichtigste Tor für den Handel mit China. Durch seine strategische Lage an der Westküste, südlich von Seoul, hat er sich zum führenden Hafen für den Import und Export von Automobilen entwickelt. Jährlich werden hier über eine Million Fahrzeuge umgeschlagen, was ihn zum Autohafen Nummer eins des Landes macht. Neben der Automobillogistik spielt Pyeongtaek eine zentrale Rolle beim Import von Erdgas (LNG) und Kohle für die Energieversorgung der Hauptstadtregion. Der Hafen wird kontinuierlich erweitert, um auch größere Containerschiffe abfertigen zu können. Die Entwicklung des Hafens ist eng mit dem rasanten Wachstum der Stadt Pyeongtaek verknüpft, die sich zu einem bedeutenden Industriestandort für Halbleiter und Elektronik entwickelt hat.",
+      "factsAdvanced": [
+        "Nummer 1 Hafen in Korea für Automobilumschlag.",
+        "Wichtigster Logistikknotenpunkt für den China-Handel.",
+        "Beherbergt ein großes LNG-Importterminal.",
+        "Liegt strategisch günstig in der Nähe von Samsung und LG Werken.",
+        "Verfügt über spezialisierte Terminals für Ro-Ro-Schiffe.",
+        "Teil der Free Economic Zone der Gelben Meerküste.",
+        "Kontinuierliches Wachstum bei Containervolumen.",
+        "Wichtiger Stützpunkt für die maritime Sicherheit an der Westküste."
+      ]
+    },
+    {
+      "id": "incheon-international-airport-economic-v2",
+      "descriptionAdvanced": "Der Incheon International Airport ist nicht nur Südkoreas wichtigstes internationales Drehkreuz, sondern wird regelmäßig als einer der besten und effizientesten Flughäfen weltweit ausgezeichnet. Auf einer künstlich vergrößerten Landfläche zwischen den Inseln Yeongjong und Yongyu errichtet, dient er als zentraler Hub für den asiatischen Flugverkehr. Neben seiner Funktion als Passagierflughafen ist Incheon einer der größten Luftfrachtumschlagsplätze der Erde, was ihn zu einer Lebensader für den Export von High-Tech-Gütern macht. Der Flughafen ist bekannt für seine kurzen Abfertigungszeiten, exzellenten Shopping-Möglichkeiten und kulturellen Erlebnisse wie traditionelle Paraden in den Terminals. Die angeschlossene Airport Town umfasst Hotels, Golfplätze und Logistikzentren, was den Flughafen zu einem eigenständigen Wirtschaftsfaktor und Motor für das Wachstum der Metropolregion Seoul macht.",
+      "factsAdvanced": [
+        "Regelmäßig unter den Top 3 Flughäfen weltweit (Skytrax).",
+        "Einer der weltweit führenden Flughäfen für Luftfracht.",
+        "Verfügt über zwei riesige Terminals und vier Startbahnen.",
+        "Zentraler Hub für Korean Air und Asiana Airlines.",
+        "Bietet eine Magnetschwebebahn (Maglev) zur Anbindung.",
+        "Beherbergt Eislaufbahnen, Kinos und Gärten im Inneren.",
+        "Wichtigstes Tor für über 70 Millionen Passagiere jährlich.",
+        "Fokus auf 'Smart Airport' mit Biometrie und Robotik."
+      ]
+    },
+    {
+      "id": "gwangyang-steel-works-economic-v2",
+      "descriptionAdvanced": "Das POSCO-Stahlwerk in Gwangyang ist das größte integrierte Stahlwerk der Welt und ein technisches Wunderwerk der modernen Industrie. Es wurde auf neugewonnenem Land im Meer errichtet und ist speziell auf die hocheffiziente Produktion von spezialisierten Stählen für die Automobilindustrie ausgelegt. Das Werk nutzt hochautomatisierte Prozesse und intelligente Steuerungssysteme, um die Produktivität zu maximieren und gleichzeitig den Energieverbrauch zu senken. Gwangyang ist bekannt für die Herstellung von hochfestem Automobil-Stahl (Giga Steel), der Fahrzeuge leichter und sicherer macht. Das Werk ist eng mit dem benachbarten Hafen von Gwangyang verbunden, was einen nahtlosen Export der Produkte in alle Welt ermöglicht. POSCO investiert hier massiv in die Forschung für wasserstoffbasierte Stahlherstellung, um die Vision einer klimaneutralen Schwerindustrie zu verwirklichen.",
+      "factsAdvanced": [
+        "Weltgrößtes integriertes Stahlwerk an einem Standort.",
+        "Globaler Marktführer bei hochfestem Automobil-Stahl.",
+        "Erbaut auf einer riesigen künstlichen Insel.",
+        "Verfügt über fünf Hochöfen mit enormer Kapazität.",
+        "Pionier bei Smart-Factory-Anwendungen in der Stahlindustrie.",
+        "Zentraler Bestandteil der Industrieregion Süd-Jeolla.",
+        "Wichtiger Standort für die Produktion von Batteriematerialien.",
+        "Produziert jährlich über 20 Millionen Tonnen Rohstahl."
+      ]
+    },
+    {
+      "id": "ulsan-hyundai-motors-plant-economic-v2",
+      "descriptionAdvanced": "Das Hyundai Motors Werk in Ulsan ist die größte Automobilfabrik der Welt an einem Standort. Auf einer Fläche von fünf Millionen Quadratmetern befinden sich fünf eigenständige Fabriken, die täglich tausende von Fahrzeugen produzieren – vom kompakten Elektroauto bis zum luxuriösen SUV. Das Besondere an diesem Standort ist seine totale Integration: Das Werk verfügt über ein eigenes Hafen-Terminal, von dem aus die fertigen Autos direkt auf Transportschiffe verladen werden. Zudem besitzt der Campus ein eigenes Testgelände und Forschungseinrichtungen. Das Werk ist der Ursprung des Erfolgs von Hyundai auf dem Weltmarkt und ein entscheidender Faktor für die südkoreanische Wirtschaft. Heute transformiert sich das Werk rasant, um die Führungsposition bei Elektrofahrzeugen (EVs) und wasserstoffbetriebenen Autos auszubauen.",
+      "factsAdvanced": [
+        "Weltweit größte Automobilfabrik an einem Standort.",
+        "Verfügt über ein eigenes Exporthafen-Terminal für 50.000t Schiffe.",
+        "Produziert im Durchschnitt alle 10 Sekunden ein Auto.",
+        "Beschäftigt über 30.000 Mitarbeiter direkt vor Ort.",
+        "Eigener Windkanal und Hochgeschwindigkeits-Teststrecke.",
+        "Fokus auf die E-GMP Plattform für Elektrofahrzeuge.",
+        "Verfügt über ein eigenes Kraftwerk und Kläranlage.",
+        "Besucher können das Werk auf organisierten Touren besichtigen."
+      ]
+    },
+    {
+      "id": "daesan-petrochemical-complex-economic-v2",
+      "descriptionAdvanced": "Der Petrochemie-Komplex in Daesan ist einer der drei größten Standorte der chemischen Industrie in Südkorea und ein zentraler Pfeiler für die Versorgung des Landes mit Grundstoffen. Große Unternehmen wie Hanwha Total, LG Chem und Lotte Chemical betreiben hier riesige Naphtha-Cracker und Verarbeitungsanlagen. Der Komplex produziert eine enorme Vielfalt an Produkten, darunter Ethylen, Propylen sowie verschiedene Kunststoffe und Harze, die als Ausgangsstoffe für fast alle Bereiche des modernen Lebens dienen. Daesan profitiert von seinem eigenen Hafen, über den Rohöl importiert und chemische Produkte weltweit exportiert werden. In den letzten Jahren hat sich der Standort zunehmend auf die Entwicklung von umweltfreundlichen Kunststoffen und das chemische Recycling konzentriert, um den Anforderungen einer nachhaltigen Kreislaufwirtschaft gerecht zu werden.",
+      "factsAdvanced": [
+        "Einer der drei führenden Petrochemie-Hubs in Korea.",
+        "Sitz von Hanwha TotalEnergies und LG Chem Großanlagen.",
+        "Verfügt über spezialisierte Terminals für Chemietanker.",
+        "Wichtiger Produzent von Polymeren für die Elektronikindustrie.",
+        "Fokus auf die Entwicklung von biobasierten Kunststoffen.",
+        "Zentraler Arbeitgeber für die Region Seosan.",
+        "Kontinuierliche Investitionen in hocheffiziente Cracking-Technologie.",
+        "Spielt eine Schlüsselrolle in der Wertschöpfungskette für Batterien."
+      ]
+    },
+    {
+      "id": "geoje-samsung-heavy-industries-economic-v2",
+      "descriptionAdvanced": "Die Werft von Samsung Heavy Industries (SHI) auf der Insel Geoje gehört zur Weltspitze im Bau von technologisch hochkomplexen Schiffen und Offshore-Anlagen. SHI ist besonders bekannt für seine Expertise im Bau von LNG-Frachtern (Flüssigerdgas), Bohrschiffen und schwimmenden Produktionsanlagen (FLNG), die zu den größten von Menschenhand geschaffenen beweglichen Strukturen zählen. Die Werft setzt massiv auf Automatisierung und Robotik in der Fertigung, um höchste Präzision und Sicherheit zu gewährleisten. Als einer der 'Big Three' Schiffbauer Südkoreas trägt SHI maßgeblich zum Exporterfolg der Region bei. Auf Geoje ist die Werft ein dominierender Wirtschaftsfaktor, der eine ganze Kette von Zulieferern und Dienstleistern anzieht. Samsung Heavy Industries ist zudem führend in der Forschung zu autonomen Schiffen und kohlenstoffarmen Antriebssystemen.",
+      "factsAdvanced": [
+        "Weltmarktführer bei hochmodernen LNG-Frachtern.",
+        "Baute die 'Prelude FLNG', das größte schwimmende Objekt der Welt.",
+        "Spezialisiert auf anspruchsvolle Offshore-Bohrplattformen.",
+        "Pionier bei der Entwicklung von autonomen Navigationssystemen.",
+        "Verfügt über riesige Schwimmkräne mit bis zu 8.000 Tonnen Hubkraft.",
+        "Wichtiger Innovationstreiber für die Provinz Gyeongsangnam-do.",
+        "Fokus auf die Digitalisierung der gesamten Schiffswerft.",
+        "Entwickelt Antriebssysteme auf Basis von Brenstfoffzellen."
+      ]
+    },
+    {
+      "id": "cheongju-sk-hynix-plant-economic-v2",
+      "descriptionAdvanced": "Das SK Hynix Werk in Cheongju ist ein weltweit führender Standort für die Produktion von NAND-Flash-Speichern, die in fast jedem modernen Smartphone, Laptop und Rechenzentrum zu finden sind. Der Campus beherbergt einige der fortschrittlichsten Reinräume der Welt, in denen winzige Halbleiterstrukturen mit höchster Präzision gefertigt werden. SK Hynix hat in Cheongju massiv in neue Fabriken (wie die M15) investiert, um die steigende weltweite Nachfrage nach Datenspeichern zu bedienen. Die Präsenz dieses Halbleiterriesen hat Cheongju zu einem wichtigen Technologiezentrum in Zentralkorea gemacht und zahlreiche spezialisierte Zulieferfirmen in die Region gelockt. Das Werk ist ein Paradebeispiel für die 'Smart Factory', in der autonome Roboter und KI-gesteuerte Systeme den komplexen Fertigungsprozess rund um die Uhr überwachen und optimieren.",
+      "factsAdvanced": [
+        "Globales Zentrum für die Produktion von NAND-Flash-Speichern.",
+        "Standort der hochmodernen M15-Halbleiterfabrik.",
+        "Wichtigster Wirtschaftsfaktor für die Stadt Cheongju.",
+        "Nutzt extrem ultraviolette Lithografie (EUV) Prozesse.",
+        "Führend in der Entwicklung von mehrschichtigen 3D-V-NAND Speichern.",
+        "Zentraler Lieferant für globale Tech-Giganten.",
+        "Starker Fokus auf Wasserrecycling und Energieeffizienz in der Produktion.",
+        "Beitrag zur Entwicklung von Hochleistungsspeichern für KI."
+      ]
+    },
+    {
+      "id": "gimhae-international-airport-economic-v2",
+      "descriptionAdvanced": "Der Gimhae International Airport ist das wichtigste Luftverkehrsdrehkreuz im Südosten Südkoreas und dient als Haupttor zur Metropolregion Busan-Ulsan-Gyeongnam. Er verbindet die zweitgrößte Stadt Koreas mit zahlreichen Zielen in ganz Asien sowie mit dem nationalen Drehkreuz Incheon. Aufgrund des stetig steigenden Passagier- und Frachtaufkommens wurde der Flughafen in den letzten Jahren kontinuierlich modernisiert und erweitert. Neben seiner Rolle im zivilen Luftverkehr beherbergt das Gelände auch wichtige militärische Einrichtungen. Die wirtschaftliche Bedeutung von Gimhae liegt vor allem in der schnellen Anbindung der exportstarken Industrie der Region an internationale Märkte. Aktuell gibt es weitreichende Pläne für den Ausbau oder Neubau eines Flughafens in der Region (Gadeokdo-Projekt), um die Kapazitäten langfristig an die Rolle Busans als globales Logistikzentrum anzupassen.",
+      "factsAdvanced": [
+        "Hauptflughafen für die Millionenmetropole Busan.",
+        "Wichtigstes Drehkreuz für die Fluggesellschaft Air Busan.",
+        "Verfügt über spezialisierte Frachtterminals für regionale Exporte.",
+        "Bietet direkte KTX- und Stadtbahnverbindungen nach Busan.",
+        "Wird sowohl zivil als auch militärisch (ROK Air Force) genutzt.",
+        "Zentraler Punkt für den Tourismus in der Gyeongsang-Region.",
+        "Kontinuierliches Wachstum bei internationalen Verbindungen nach Japan/China.",
+        "Teil der Diskussion um den neuen Gadeokdo International Airport."
+      ]
+    },
+    {
+      "id": "busan-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Busan ist das wirtschaftliche Herz Südkoreas und einer der größten und geschäftigsten Containerhäfen der Welt. Als Tor zum Pazifik verbindet er Korea mit über 500 Häfen in mehr als 100 Ländern. Der Hafen besteht aus dem historischen Nordhafen, der derzeit in ein maritimes Kultur- und Freizeitzentrum umgewandelt wird, und dem riesigen, hochmodernen 'Busan New Port' im Westen. Der neue Hafen ist weitgehend automatisiert und kann die größten Containerschiffe der Welt abfertigen. Busan fungiert als entscheidender Hub für den Transshipment-Handel in Nordostasien. Die Effizienz und Kapazität dieses Hafens sind die Grundpfeiler für den Erfolg der exportorientierten koreanischen Wirtschaft. Für Besucher bietet der Hafen eine beeindruckende Kulisse, besonders von Aussichtspunkten wie dem Busan Tower oder den Brücken, die die verschiedenen Hafenteile verbinden.",
+      "factsAdvanced": [
+        "Größter Hafen Südkoreas und Top 10 weltweit.",
+        "Globaler Hub für den Container-Umschlag (Transshipment).",
+        "Busan New Port ist einer der am stärksten automatisierten Häfen.",
+        "Wichtigster Umschlagplatz für koreanische Autos und Elektronik.",
+        "Der Nordhafen ist Schauplatz eines riesigen Stadterneuerungsprojekts.",
+        "Bietet spezialisierte Terminals für Fischerei und Kreuzfahrtschiffe.",
+        "Zentraler Punkt der 'Eisenbahn-Seidenstraße' Anbindung.",
+        "Verfügt über modernste Logistik- und Lagerzentren."
+      ]
+    },
+    {
+      "id": "changwon-industrial-complex-economic-v2",
+      "descriptionAdvanced": "Der Industriekomplex von Changwon ist das Zentrum der südkoreanischen Maschinenbau- und Verteidigungsindustrie. Seit seiner Gründung in den 1970er Jahren hat er sich zu einem Cluster von Weltrang entwickelt, in dem Unternehmen wie Hanwha Aerospace, Hyundai Rotem und Doosan Enerbility ihren Sitz haben. Hier werden hochkomplexe Produkte wie Gasturbinen, Lokomotiven, Panzer, Artilleriesysteme und Komponenten für die Luft- und Raumfahrt gefertigt. Der Komplex zeichnet sich durch eine tiefe Integration von Forschung, Entwicklung und Produktion aus. Changwon spielt eine Schlüsselrolle bei der Modernisierung des südkoreanischen Militärs und ist ein bedeutender Exporteur von Wehrtechnik weltweit. In den letzten Jahren hat sich der Standort zudem zu einem Vorreiter für 'Smart Manufacturing' und grüne Energietechnologien, wie z.B. Windkraftkomponenten und Wasserstoffinfrastruktur, entwickelt.",
+      "factsAdvanced": [
+        "Zentrum der koreanischen Schwer- und Verteidigungsindustrie.",
+        "Sitz von Hanwha Aerospace (Triebwerke und K9-Panzerhaubitzen).",
+        "Hyundai Rotem produziert hier K2-Panzer und Hochgeschwindigkeitszüge.",
+        "Doosan Enerbility ist führend im Bau von Kraftwerkskomponenten.",
+        "Pionier bei der Entwicklung von Smart-Manufacturing-Clustern.",
+        "Wirtschaftliches Rückgrat der Provinz Gyeongsangnam-do.",
+        "Wichtiger Standort für die Forschung an Gasturbinen-Technologie.",
+        "Fokus auf die Ausbau der Wasserstoff-Industrie-Infrastruktur."
+      ]
+    },
+    {
+      "id": "gumi-industrial-complex-economic-v2",
+      "descriptionAdvanced": "Der Industriekomplex in Gumi ist einer der ältesten und bedeutendsten Standorte für die Elektronikindustrie in Südkorea. Er beherbergt riesige Produktionsstätten von globalen Marktführern wie Samsung Electronics und LG Display. Hier wurden über Jahrzehnte hinweg Meilensteine der koreanischen Elektronik gefertigt – von den ersten Fernsehern bis zu den neuesten Smartphone-Modellen. Gumi ist bekannt als die 'Stadt der Elektronik' und bildet ein dichtes Netzwerk aus Tausenden von Zulieferbetrieben. Der Komplex ist in mehrere Zonen unterteilt, die sich heute zunehmend auf High-Tech-Bereiche wie OLED-Displays, Halbleitermaterialien und Verteidigungselektronik spezialisieren. Trotz des globalen Wettbewerbs bleibt Gumi ein entscheidender Innovationstreiber für Südkorea, indem es massiv in neue Technologien wie 5G-Komponenten und Sekundärbatterien investiert.",
+      "factsAdvanced": [
+        "Größter Binnen-Industriekomplex in Südkorea.",
+        "Traditioneller Standort für Samsung Smartphones und LG Fernseher.",
+        "Zentrum für die Produktion von LCD- und OLED-Displays.",
+        "Beherbergt über 3.000 Unternehmen im gesamten Komplex.",
+        "Wichtigster Export-Hub der Provinz Gyeongsangbuk-do.",
+        "Fokus auf die Entwicklung von Halbleitermaterialien (Wafer).",
+        "Sitz von Forschungsinstituten für mobile Kommunikation.",
+        "Transformiert sich zum Zentrum für Verteidigungs- und Raumfahrtindustrie."
+      ]
+    },
+    {
+      "id": "kunsan-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Kunsan (Gunsan) an der Westküste ist ein historisch gewachsener und heute moderner Handelsplatz, der eine zentrale Rolle in der Logistik des Gelben Meeres spielt. Ursprünglich während der Kolonialzeit für den Reisexport ausgebaut, hat sich Gunsan heute zu einem vielseitigen Industriehafen entwickelt. Er dient als wichtiges Tor für den Import von Rohstoffen und den Export von Fahrzeugen und Baumaschinen. Der Hafen ist das Herzstück des 'Saemangeum'-Projekts, einer der weltweit größten Landgewinnungsmaßnahmen, die Gunsan in ein neues globales Wirtschaftszentrum verwandeln soll. In der Nähe haben sich Unternehmen der erneuerbaren Energien und der Elektrofahrzeug-Industrie angesiedelt. Gunsan verbindet so seinen Charme als Hafenstadt mit kolonialem Erbe mit der ambitionierten Zukunft eines modernen Industrie- und Logistikstandorts für den Handel mit China.",
+      "factsAdvanced": [
+        "Wichtiger Hafen für den Handel mit China und Südostasien.",
+        "Zentraler Logistik-Hub für das Saemangeum-Entwicklungsprojekt.",
+        "Spezialisiert auf den Export von Baumaschinen und Autos.",
+        "Wichtiger Standort für Getreideimport und Futtermittelherstellung.",
+        "Historischer Hafen mit erhaltenen Gebäuden der Kolonialzeit.",
+        "Beherbergt ein modernes internationales Terminal für Kreuzfahrtschiffe.",
+        "Fokus auf den Ausbau als Cluster für erneuerbare Energien (Offshore-Wind).",
+        "Wichtigster Seehafen der Provinz Jeollabuk-do."
+      ]
+    },
+    {
+      "id": "mokpo-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Mokpo ist einer der traditionsreichsten Häfen Koreas und das wichtigste maritime Tor zum Südwesten der Halbinsel. Durch seine geschützte Lage im Archipel der Provinz Jeollanam-do dient er als zentraler Knotenpunkt für den Inlands- und Inselverkehr. Mokpo ist der wichtigste Fährhafen für Verbindungen zur Insel Jeju und den hunderten umliegenden Inseln des Dadohaehaesang Nationalparks. Wirtschaftlich hat sich der Hafen zudem als bedeutender Standort für den Export von Automobilen etabliert. In der Nähe befindet sich der Yeongam-Industriekomplex mit großen Schiffswerften, was die maritime Synergie der Region stärkt. Der Hafen von Mokpo verbindet seine historische Bedeutung als Handelsplatz mit moderner Logistikinfrastruktur und einer lebendigen Fischereiindustrie, die die berühmten Meeresfrüchte-Märkte der Stadt versorgt.",
+      "factsAdvanced": [
+        "Nummer 1 Fährhafen für die Verbindung Mokpo-Jeju.",
+        "Zentraler Hub für die Versorgung der Südwest-Inseln.",
+        "Wichtiger Exporthafen für fertig montierte Automobile.",
+        "Sitz des Nationalen Instituts für maritimes Kulturerbe.",
+        "Nähe zur Samho-Werft (Hyundai Samho Heavy Industries).",
+        "Historisch bedeutend als Reisexport-Hafen im frühen 20. Jh.",
+        "Verfügt über moderne Passagierterminals und Containerterminals.",
+        "Zentrum der regionalen Fischereiwirtschaft."
+      ]
+    },
+    {
+      "id": "donghae-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Donghae ist der wichtigste Industrie- und Rohstoffhafen an der südkoreanischen Ostküste. Aufgrund der reichen Vorkommen an Kalkstein und anderen Mineralien in der umliegenden Gangwon-Region hat sich der Hafen auf den Umschlag von Zement, Kohle und Eisenerz spezialisiert. Große Zementhersteller wie Ssangyong C&E betreiben hier ihre Verladeanlagen. Neben der Schüttgut-Logistik gewinnt Donghae zunehmend an Bedeutung als Tor für den Handel mit Russland und Japan durch regelmäßige Fährverbindungen für Passagiere und Fracht. Der Hafen wird kontinuierlich erweitert, um auch Containerschiffe abfertigen zu können und so die wirtschaftliche Entwicklung der Ostküste zu fördern. Donghae ist zudem ein strategisch wichtiger Standort für die Energieversorgung, mit großen Kraftwerken und Flüssigerdgasterminals (LNG) in der unmittelbaren Umgebung.",
+      "factsAdvanced": [
+        "Größter Industriehafen an der Ostküste Koreas.",
+        "Spezialisiert auf den Export von Zement und den Import von Erzen.",
+        "Wichtiger Knotenpunkt für Fährlinien nach Russland (Wladiwostok) und Japan.",
+        "Zentraler Logistikstandort für die Bergbauindustrie in Gangwon.",
+        "Beherbergt bedeutende LNG-Importterminals.",
+        "Strategisch wichtiger Stützpunkt für die Marine (1. Flotte).",
+        "Verfügt über hochspezialisierte Förderbandsysteme für Rohstoffe.",
+        "Teil der East Coast Free Economic Zone (EFEZ)."
+      ]
+    },
+    {
+      "id": "asan-samsung-display-economic-v2",
+      "descriptionAdvanced": "Der Samsung Display Komplex in Asan (Tangjeong) ist das weltweite Epizentrum für die Produktion von hochmodernen OLED-Bildschirmen. In gigantischen Reinraumfabriken werden hier Displays für die bekanntesten Smartphones, Tablets und Laptops der Welt sowie für die Automobilindustrie gefertigt. Asan ist ein Herzstück der globalen Elektronik-Lieferkette und ein Paradebeispiel für eine 'Display City', in der Wohngebiete, Bildungseinrichtungen und Zulieferbetriebe rund um die Fabriken entstanden sind. Samsung investiert hier Milliarden in die Entwicklung von faltbaren (Foldable) und rollbaren (Rollable) Displays sowie in die nächste Generation von großformatigen QD-OLED-Fernsehern. Die technologische Führungsposition dieses Standorts sichert Südkorea einen entscheidenden Vorteil im Wettbewerb um die Zukunft der digitalen Darstellung.",
+      "factsAdvanced": [
+        "Weltgrößter Produktionsstandort für OLED-Displays.",
+        "Heimat der 'Samsung Display City' in Tangjeong.",
+        "Zentrum für die Entwicklung von Foldable- und QD-OLED-Technologie.",
+        "Wichtigster Wirtschaftsmotor der Stadt Asan und der Provinz Chungnam.",
+        "Liefert Displays für Apple iPhone und Samsung Galaxy Serien.",
+        "Fokus auf hocheffiziente, energiearme Bildschirmtechnologien.",
+        "Nutzt modernste Roboter- und Laserschneidetechnik.",
+        "Beschäftigt zehntausende hochqualifizierte Ingenieure."
+      ]
+    },
+    {
+      "id": "paju-lg-display-cluster-economic-v2",
+      "descriptionAdvanced": "Der LG Display Cluster in Paju, nahe der Grenze zu Nordkorea, ist einer der weltweit größten Standorte für die Herstellung von LCD- und OLED-Panels. Der riesige Industriepark wurde konzipiert, um die gesamte Wertschöpfungskette der Display-Produktion an einem Ort zu vereinen, von den Glasherstellern bis hin zu den Endmontagewerken. LG Display hat Paju zum globalen Zentrum für großformatige OLED-Fernseher gemacht, die von hier aus in alle Welt exportiert werden. Die Fabrik P10 gilt als eine der weltweit modernsten Anlagen für Displays der nächsten Generation. Die Ansiedlung dieses High-Tech-Clusters hat Paju von einer ländlichen Region in eine dynamische Industriestadt verwandelt. Trotz der Nähe zur DMZ symbolisiert der Standort den wirtschaftlichen Erfolg und die technologische Innovationskraft Südkoreas in einem strategisch sensiblen Bereich.",
+      "factsAdvanced": [
+        "Weltweit führender Cluster für großformatige OLED-TV-Panels.",
+        "Beherbergt die gigantische P10-Displayfabrik.",
+        "Integrales Netzwerk aus LG-Tochterunternehmen und Zulieferern.",
+        "Prägt die Wirtschaft der Region Paju maßgeblich.",
+        "Wichtiger Innovationstreiber für transparente und flexible Displays.",
+        "Einer der weltweit größten Arbeitgeber in der Display-Industrie.",
+        "Fokus auf umweltfreundliche Produktion und OLED-Materialforschung.",
+        "Strategisch bedeutender Industriestandort im Norden von Gyeonggi."
+      ]
+    },
+    {
+      "id": "gwangju-kia-motors-plant-economic-v2",
+      "descriptionAdvanced": "Das Kia Motors Werk in Gwangju ist eine tragende Säule der Wirtschaft im Südwesten Südkoreas und ein bedeutender Standort für die Produktion von SUVs und Nutzfahrzeugen. Bekannte Modelle wie der Kia Sportage und der Soul werden hier für den Weltmarkt gefertigt. Das Werk zeichnet sich durch seine hohe Flexibilität und moderne Fertigungslinien aus, die es ermöglichen, verschiedene Modelle effizient auf demselben Band zu produzieren. Gwangju hat sich um dieses Werk herum zu einem bedeutenden Automobil-Cluster entwickelt, das zahlreiche Zulieferer und Forschungseinrichtungen angezogen hat. In den letzten Jahren steht das Werk im Fokus der Transformation hin zur Elektromobilität, wobei Gwangju als 'Automobile City' ambitionierte Pläne zur Förderung von umweltfreundlichen Fahrzeugen und autonomen Fahrtechnologien verfolgt.",
+      "factsAdvanced": [
+        "Produktionszentrum für globale Bestseller wie Kia Sportage und Soul.",
+        "Größter Industriestandort in der Metropolregion Gwangju.",
+        "Produziert jährlich über 600.000 Fahrzeuge für den Export.",
+        "Wichtiger Standort für den Bau von Militärfahrzeugen und Lastwagen.",
+        "Kern des 'Gwangju-type Job'-Modells für soziale Partnerschaft.",
+        "Transformiert sich zum Hub für Elektro-Nutzfahrzeuge.",
+        "Nutzt modernste Schweißroboter und automatisierte Lackiersysteme.",
+        "Bietet Bildungs- und Trainingseinrichtungen für Automobiltechnik."
+      ]
+    }
+  ]
+}

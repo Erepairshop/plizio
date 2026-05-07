@@ -1,0 +1,127 @@
+[
+  {
+    "id": "jinotega-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Jinotega"
+  },
+  {
+    "id": "rivas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Rivas"
+  },
+  {
+    "id": "juigalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Juigalpa"
+  },
+  {
+    "id": "boaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Boaco"
+  },
+  {
+    "id": "somoto-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Somoto"
+  },
+  {
+    "id": "ocotal-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Ocotal"
+  },
+  {
+    "id": "san-carlos-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Carlos"
+  },
+  {
+    "id": "tipitapa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Tipitapa"
+  },
+  {
+    "id": "el-viejo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Viejo"
+  },
+  {
+    "id": "chichigalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Chichigalpa"
+  },
+  {
+    "id": "diriamba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Diriamba"
+  },
+  {
+    "id": "jinotepe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Jinotepe"
+  },
+  {
+    "id": "el-rama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Rama"
+  },
+  {
+    "id": "nueva-guinea-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Nueva Guinea"
+  },
+  {
+    "id": "somotillo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Somotillo"
+  },
+  {
+    "id": "la-paz-centro-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "La Paz Centro"
+  },
+  {
+    "id": "nagarote-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Nagarote"
+  },
+  {
+    "id": "san-marcos-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Marcos"
+  },
+  {
+    "id": "ciudad-sandinocities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Ciudad Sandino"
+  },
+  {
+    "id": "condega-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Condega"
+  },
+  {
+    "id": "sebaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "S\u00e9baco"
+  },
+  {
+    "id": "nandaime-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Nandaime"
+  },
+  {
+    "id": "jalapa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Jalapa"
+  },
+  {
+    "id": "el-sauce-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Sauce"
+  },
+  {
+    "id": "larreynaga-malpaisillo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Larreynaga (Malpaisillo)"
+  }
+]

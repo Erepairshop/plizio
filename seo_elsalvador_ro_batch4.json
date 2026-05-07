@@ -1,0 +1,129 @@
+{
+  "lang": "ro",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pasaquina-cities-v2",
+      "descriptionAdvanced": "Pasaquina este un oraș situat în departamentul La Unión, având o locație strategică în apropierea graniței cu Honduras. Economia sa este influențată de comerțul transfrontalier și de activitățile agricole, fiind un nod important pentru schimburile regionale. Comunitatea se remarcă prin vitalitatea sa și prin rolul pe care îl joacă în dezvoltarea economică a zonei de est. Educație K6 — Geografie: comerț transfrontalier și dezvoltare regională.",
+      "factsAdvanced": [
+        "Pasaquina este un punct strategic pentru comerțul dintre El Salvador și Honduras.",
+        "Economia orașului depinde semnificativ de fluxurile comerciale transfrontaliere.",
+        "Orașul are o istorie îndelungată legată de schimburile regionale din estul țării.",
+        "Poziția sa geografică îi conferă un rol esențial în dezvoltarea economică a departamentului La Unión.",
+        "Tradițiile locale reflectă interacțiunea culturală constantă din zona de frontieră.",
+        "Agricultura rămâne o sursă de bază pentru susținerea familiilor din mediul rural."
+      ]
+    },
+    {
+      "id": "la-palma-cities-v2",
+      "descriptionAdvanced": "La Palma, situat în departamentul Chalatenango, este renumit pentru stilul său artistic unic numit 'Estil de La Palma', inspirat din picturile lui Fernando Llort. Orașul este o destinație turistică de top, oferind o experiență vizuală inedită prin arta colorată care decorează aproape fiecare clădire și obiect artizanal. Situat într-un peisaj montan, La Palma oferă o atmosferă creativă care atrage artiști și turiști din toată lumea. Educație K7 — Artă și Cultură: artă populară și identitate regională.",
+      "factsAdvanced": [
+        "La Palma este faimoasă pentru stilul artistic unic creat de Fernando Llort.",
+        "Arta orașului este inspirată din tradițiile și simbolurile culturii salvadoriene.",
+        "La Palma atrage numeroși turiști prin atmosfera sa artistică și creativă.",
+        "Orașul este un centru important pentru producția de artizanat și suveniruri unice.",
+        "Peisajul montan din Chalatenango oferă un cadru natural inspirațional.",
+        "Stilul de La Palma a devenit un simbol al identității culturale salvadoriene."
+      ]
+    },
+    {
+      "id": "nueva-concepcion-cities-v2",
+      "descriptionAdvanced": "Nueva Concepción, în departamentul Chalatenango, este un oraș cu o economie bazată pe agricultură și creșterea animalelor, fiind un centru vital pentru regiunea de nord. Orașul se remarcă prin dezvoltarea sa graduală și prin spiritul antreprenorial al locuitorilor săi. Peisajele sale verzi și clima plăcută fac din Nueva Concepción o destinație interesantă pentru cei care doresc să descopere partea rurală a statului El Salvador. Educație K6 — Geografie: dezvoltare agricolă și viața rurală în nordul țării.",
+      "factsAdvanced": [
+        "Nueva Concepción este un centru agricol esențial pentru departamentul Chalatenango.",
+        "Creșterea animalelor contribuie semnificativ la economia locală.",
+        "Orașul a cunoscut o dezvoltare constantă în ultimele decenii.",
+        "Peisajele montane din împrejurimi oferă oportunități de drumeție și explorare.",
+        "Comunitatea se bazează pe spiritul antreprenorial pentru progresul economic.",
+        "Climatul plăcut și zonele verzi fac din oraș un loc primitor pentru vizitatori."
+      ]
+    },
+    {
+      "id": "osicala-cities-v2",
+      "descriptionAdvanced": "Osicala este o localitate montană în departamentul Morazán, cunoscută pentru bogăția sa culturală și pentru tradițiile indigene care au supraviețuit timpului. Orașul oferă o perspectivă asupra istoriei profunde a regiunii Morazán, unde cultura pipil s-a împletit cu influențele coloniale. Peisajele sale spectaculoase și atmosfera tradițională atrag turiști dornici să descopere o latură autentică și mai puțin cunoscută a El Salvadorului. Educație K8 — Istorie: tradiții indigene și reziliența culturală.",
+      "factsAdvanced": [
+        "Osicala păstrează elemente ale culturii indigene pipil în tradițiile sale.",
+        "Orașul reflectă o istorie bogată și complexă a departamentului Morazán.",
+        "Peisajele montane oferă panorame impresionante și trasee pentru ecoturism.",
+        "Osicala este un loc ideal pentru a învăța despre reziliența culturală a comunităților indigene.",
+        "Tradițiile locale sunt parte din viața zilnică a locuitorilor de aici.",
+        "Atmosfera tradițională atrage vizitatorii în căutarea unor experiențe culturale unice."
+      ]
+    },
+    {
+      "id": "guatajiagua-cities-v2",
+      "descriptionAdvanced": "Guatajiagua, situat în departamentul Morazán, este faimos pentru olăritul său tradițional cu argilă neagră, o tehnică transmisă din generație în generație. Orașul reprezintă un centru de artizanat de o valoare inestimabilă, păstrând metodele străvechi care îi conferă ceramicii sale un caracter unic și distinctiv. Vizitatorii pot observa procesul de fabricație și pot achiziționa piese de artizanat direct de la sursă. Educație K7 — Artă și Știință: tehnici de olărit și proprietățile argilei.",
+      "factsAdvanced": [
+        "Guatajiagua este renumit pentru olăritul său tradițional cu argilă neagră.",
+        "Tehnicile folosite sunt străvechi și specifice acestui oraș.",
+        "Ceramica neagră din Guatajiagua este apreciată pentru designul și durabilitatea sa.",
+        "Vizitatorii pot vedea direct procesul de producție artizanală.",
+        "Orașul joacă un rol vital în menținerea tradițiilor de artizanat salvadorian.",
+        "Artizanatul local este o sursă importantă de venit pentru familiile din zonă."
+      ]
+    },
+    {
+      "id": "san-ignacio-cities-v2",
+      "descriptionAdvanced": "San Ignacio, în departamentul Chalatenango, este cunoscut pentru clima sa rece și pentru peisajele sale montane superbe, fiind o destinație populară pentru turismul de relaxare și natură. Orașul se află în apropierea muntelui El Pital, cel mai înalt punct din țară, oferind aventurierilor acces la experiențe montane unice. Atmosfera liniștită și cadrul natural fac din San Ignacio locul ideal pentru a scăpa de căldura tropicală. Educație K7 — Geografie: climă montană și ecosisteme de mare altitudine.",
+      "factsAdvanced": [
+        "San Ignacio are o climă răcoroasă, fiind o evadare din căldura tropicală.",
+        "Orașul este poarta de acces către muntele El Pital, cel mai înalt punct din El Salvador.",
+        "Peisajele montane oferă condiții perfecte pentru ecoturism.",
+        "Zona este recunoscută pentru producția de fructe temperate precum căpșunile.",
+        "San Ignacio atrage turiști în căutarea unui climat relaxant și a naturii.",
+        "Biodiversitatea la mare altitudine este o atracție cheie a regiunii."
+      ]
+    },
+    {
+      "id": "soyapango-cities-v2",
+      "descriptionAdvanced": "Soyapango este un hub industrial vital al zonei metropolitane San Salvador, fiind recunoscut pentru concentrarea sa mare de fabrici și unități de producție. Centrul comercial Plaza Mundo transformă orașul într-o destinație majoră pentru cumpărături și divertisment, atrăgând mii de vizitatori zilnic. Deși densitatea populației este foarte ridicată, zona continuă să evolueze printr-o infrastructură în dezvoltare. Educația K7 — Geografie: centre urbane și dezvoltarea economică regională.",
+      "factsAdvanced": [
+        "Soyapango găzduiește una dintre cele mai mari zone industriale din El Salvador.",
+        "Plaza Mundo este unul dintre cele mai vizitate centre comerciale din regiunea capitalei.",
+        "Orașul a cunoscut o transformare rapidă dintr-o zonă rurală într-un hub industrial modern.",
+        "Densitatea populației în Soyapango depășește media națională, subliniind caracterul său urban intens.",
+        "Economia locală depinde semnificativ de sectorul manufacturier și de comerțul cu amănuntul.",
+        "Administrația locală prioritizează investițiile în spații publice pentru a echilibra creșterea urbană."
+      ]
+    },
+    {
+      "id": "jucuapa-cities-v2",
+      "descriptionAdvanced": "Jucuapa este o localitate pitorească situată în departamentul Usulután, renumită pentru tradițiile sale și peisajele montane din împrejurimi. Orașul păstrează o atmosferă colonială autentică, oferind vizitatorilor o privire asupra stilului de viață tradițional salvadorian, departe de agitația capitalei. Agricultura locală, în special cultivarea cafelei, susține economia comunității și conservă moștenirea rurală. Educație K6 — Geografie: economia rurală și conservarea tradițiilor.",
+      "factsAdvanced": [
+        "Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.",
+        "Producția de cafea constituie principala activitate economică a regiunii.",
+        "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.",
+        "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.",
+        "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.",
+        "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."
+      ]
+    },
+    {
+      "id": "metapan-cities-v2",
+      "descriptionAdvanced": "Metapán este cunoscut pentru importanța sa în industria cimentului și pentru proximitatea față de Parcul Național Montecristo, o rezervație naturală de o biodiversitate uimitoare. Situat în nord-vestul țării, orașul oferă un peisaj diversificat, combinând dezvoltarea industrială cu conservarea mediului înconjurător. Climatul și geografia sa unică atrag pasionații de ecoturism din toată regiunea. Educație K7 — Geografie: industrii extractive și conservarea ecosistemelor montane.",
+      "factsAdvanced": [
+        "Metapán este centrul principal al industriei de ciment din El Salvador.",
+        "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.",
+        "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.",
+        "Orașul are o istorie lungă legată de exploatarea resurselor minerale.",
+        "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.",
+        "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."
+      ]
+    },
+    {
+      "id": "concepcion-de-oriente-cities-v2",
+      "descriptionAdvanced": "Concepción de Oriente este o localitate din departamentul La Unión, cunoscută pentru contextul său rural și pentru legăturile strânse cu tradițiile estului țării. Orașul oferă o atmosferă calmă, fiind reprezentativ pentru comunitățile care își bazează subzistența pe agricultură și creșterea animalelor. Peisajele sale rurale oferă o privire autentică asupra stilului de viață tradițional, departe de centrele urbane mari. Educație K5 — Geografie: viața rurală și importanța agriculturii în estul salvadorian.",
+      "factsAdvanced": [
+        "Concepción de Oriente este situată în departamentul La Unión, într-o regiune predominat rurală.",
+        "Agricultura și creșterea animalelor sunt principalele activități economice ale comunității.",
+        "Orașul păstrează un stil de viață tradițional, axat pe valorile comunitare locale.",
+        "Peisajele rurale din jur reflectă estetica specifică estului salvadorian.",
+        "Comunitatea pune un accent puternic pe conservarea obiceiurilor moștenite.",
+        "Concepción de Oriente reprezintă esența vieții rurale din departamentul La Unión."
+      ]
+    }
+  ]
+}

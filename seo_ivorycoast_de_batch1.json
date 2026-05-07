@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "ivorycoast",
+  "files": [
+    "lib/visualLab/data/poiExtraIvorycoastCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLifeV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastNatureV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bouake-cities-v2",
+      "descriptionAdvanced": "Bouaké ist die zweitgrößte Stadt der Elfenbeinküste und ein zentraler Verkehrsknotenpunkt im Herzen des Landes. Gegründet als französischer Militärposten im Jahr 1899, entwickelte sich die Stadt schnell zu einem bedeutenden Zentrum für den Handel mit Baumwolle und Textilien. Bouaké ist bekannt für seine multikulturelle Bevölkerung, insbesondere für das Volk der Baoulé, und spielt eine entscheidende Rolle in der politischen und wirtschaftlichen Stabilität der zentralen Region. Die Stadt beherbergt wichtige Bildungseinrichtungen und Märkte, die Käufer aus dem ganzen Land anziehen. Erdkunde K7 — urbane Zentren in Westafrika.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt des Landes.",
+        "Gegründet 1899 als Militärposten.",
+        "Zentrum des Baoulé-Volkes.",
+        "Wichtiger Knotenpunkt der Abidjan-Niger-Bahn.",
+        "Berühmt für Textilproduktion und Baumwollhandel.",
+        "Beherbergt das Friedensstadion (Stade de la Paix).",
+        "Zentraler Marktplatz für die Savannenregion.",
+        "Bedeutendes Bildungszentrum mit mehreren Universitäten."
+      ]
+    },
+    {
+      "id": "daloa-cities-v2",
+      "descriptionAdvanced": "Daloa liegt im Westen der Elfenbeinküste und gilt als das Herz der weltweiten Kakaoproduktion. Die Stadt ist die Hauptstadt der Region Haut-Sassandra und ein entscheidender Umschlagplatz für landwirtschaftliche Erzeugnisse, insbesondere Kakao und Kaffee. Daloa ist ein Schmelztiegel verschiedener ethnischer Gruppen, wobei das Volk der Bété historisch stark vertreten ist. Die Stadt hat in den letzten Jahrzehnten ein massives Bevölkerungswachstum erlebt und dient als Tor zu den fruchtbaren Waldregionen des Westens. Erdkunde K7 — Agrarwirtschaft und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Haut-Sassandra.",
+        "Zentrum des weltweiten Kakao- und Kaffeehandels.",
+        "Drittgrößte Stadt der Elfenbeinküste.",
+        "Wichtiger Markt für Agrarprodukte im Westen.",
+        "Bevölkerungsschwerpunkt des Bété-Volkes.",
+        "Strategischer Knotenpunkt an der Nationalstraße A6.",
+        "Sitz der Universität Jean Lorougnon Guédé.",
+        "Bekannt für lebendige traditionelle Märkte."
+      ]
+    },
+    {
+      "id": "korhogo-cities-v2",
+      "descriptionAdvanced": "Korhogo ist die bedeutendste Stadt im Norden der Elfenbeinküste und das kulturelle Zentrum des Senufo-Volkes. Die Stadt blickt auf eine lange Geschichte als Zentrum des Transsahara-Handels zurück und ist heute weltberühmt für ihr traditionelles Kunsthandwerk, insbesondere die handbemalten Stoffe und Schnitzereien. Korhogo liegt in einer trockenen Savannenlandschaft und ist geprägt von einer Architektur, die traditionelle Senufo-Elemente mit modernen Einflüssen verbindet. Die Stadt ist auch ein politisches Schwergewicht in der nördlichen Region. Sachkunde K5 — Kultur und Tradition der Senufo.",
+      "factsAdvanced": [
+        "Kulturelle Hauptstadt des Senufo-Volkes.",
+        "Berühmt für Poro-Initiationsriten.",
+        "Zentrum für traditionelles Kunsthandwerk (Webereien).",
+        "Wichtiger Handelsplatz für Rinder und Getreide.",
+        "Historischer Knotenpunkt der Karawanenrouten.",
+        "Sitz des Palastes von Péléforo Gbon Coulibaly.",
+        "Wichtigste Stadt in der nördlichen Savanne.",
+        "Bekannt für den Berg 'Mont Korhogo' am Stadtrand."
+      ]
+    },
+    {
+      "id": "san-pedro-cities-v2",
+      "descriptionAdvanced": "San Pédro ist die zweitwichtigste Hafenstadt der Elfenbeinküste und der weltweit bedeutendste Hafen für den Export von Kakao. Die Stadt wurde in den 1960er Jahren als geplantes Regierungsprojekt massiv ausgebaut, um den Südwesten des Landes wirtschaftlich zu erschließen. Neben seiner industriellen Bedeutung bietet San Pédro wunderschöne Strände und ist ein aufstrebendes Ziel für den Tourismus. Die Stadt ist durch eine Mischung aus moderner Hafeninfrastruktur und entspanntem Küstenflair geprägt. Erdkunde K7 — Hafenwirtschaft und globale Exportwege.",
+      "factsAdvanced": [
+        "Größter Kakaohafen der Welt.",
+        "Hafenbetrieb seit den 1970er Jahren.",
+        "Wichtigster Wirtschaftsmotor im Südwesten.",
+        "Zweitgrößter Seehafen der Elfenbeinküste.",
+        "Tor zum Taï-Nationalpark.",
+        "Bekannt für die Strände von Monogaga und Taki.",
+        "Geplante Industriestadt mit moderner Struktur.",
+        "Zentrum der Holz- und Kakaoindustrie."
+      ]
+    },
+    {
+      "id": "man-cities-v2",
+      "descriptionAdvanced": "Man, bekannt als die 'Stadt der 18 Berge', liegt im malerischen Westen der Elfenbeinküste. Die Stadt ist umgeben von üppig bewaldeten Gipfeln und Wasserfällen, was sie zu einem der landschaftlich reizvollsten Orte des Landes macht. Man ist das Zentrum des Volkes der Dan (oder Yacouba) und berühmt für seine traditionellen Maskentänze auf Stelzen. Wirtschaftlich ist die Region ein wichtiger Produzent von Kaffee und Kakao, begünstigt durch das kühlere Gebirgsklima. Erdkunde K7 — Gebirgslandschaften und traditionelle Kulturen.",
+      "factsAdvanced": [
+        "Beiname: Stadt der 18 Berge.",
+        "Zentrum des Dan-Volkes (Yacouba).",
+        "Berühmt für Maskentänze und Stelzenläufer.",
+        "Wichtiges Kaffeanbaugebiet des Westens.",
+        "Bekannt für den Wasserfall 'La Cascade de Man'.",
+        "Höchster Punkt der Umgebung ist der Mont Tonkpi.",
+        "Berühmt für die Brücke aus lebenden Lianen in der Nähe.",
+        "Kühleres Klima als im Rest des Landes."
+      ]
+    },
+    {
+      "id": "divo-cities-v2",
+      "descriptionAdvanced": "Divo ist eine dynamische Stadt im Süden der Elfenbeinküste und die Hauptstadt der Region Lôh-Djiboua. Die Stadt ist ein bedeutendes landwirtschaftliches Zentrum, das vor allem für den Anbau von Kakao, Kautschuk und Ölpalmen bekannt ist. Divo wird hauptsächlich vom Volk der Dida bewohnt, dessen Kultur und Traditionen das soziale Leben der Stadt prägen. Dank seiner strategischen Lage an den Handelswegen zwischen Abidjan und dem Westen hat sich Divo zu einem wichtigen regionalen Markt entwickelt. Erdkunde K7 — Landwirtschaftliche Gürtel der Elfenbeinküste.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Lôh-Djiboua.",
+        "Wichtiges Zentrum für das Volk der Dida.",
+        "Großer Produzent von Kakao und Naturkautschuk.",
+        "Strategische Lage an der Straße Abidjan-Gagnoa.",
+        "Zentrum für die Verarbeitung von Palmöl.",
+        "Lebendiger lokaler Markt für Agrarprodukte.",
+        "Regelmäßige kulturelle Festivals der Dida.",
+        "Wachsendes Handelszentrum im südlichen Waldgürtel."
+      ]
+    },
+    {
+      "id": "anyama-cities-v2",
+      "descriptionAdvanced": "Anyama liegt nördlich von Abidjan und fungiert als wichtige Satellitenstadt der Metropole. Die Stadt ist historisch eng mit dem Bau der Abidjan-Niger-Bahn verbunden, die hier einen ihrer ersten großen Stopps hat. Anyama ist bekannt für seine bedeutende Produktion von Kolanüssen, die von hier aus in die gesamte Sahelzone exportiert werden. Durch das starke Stadtwachstum von Abidjan ist Anyama heute ein wichtiger Wohn- und Gewerbestandort für Pendler. Erdkunde K7 — Vorstadtentwicklung und Infrastruktur.",
+      "factsAdvanced": [
+        "Wichtige Satellitenstadt von Abidjan.",
+        "Zentrum des Handels mit Kolanüssen.",
+        "Bedeutender Bahnhof der Abidjan-Niger-Bahn.",
+        "Austragungsort im Nationalstadion Ebimpé.",
+        "Multikulturelle Bevölkerung durch Migration.",
+        "Wichtiges Zentrum für den Nahverkehr in die Hauptstadt.",
+        "Historisch gewachsenes Handelszentrum.",
+        "Tor zur nördlichen Region von Abidjan."
+      ]
+    },
+    {
+      "id": "gagnoa-cities-v2",
+      "descriptionAdvanced": "Gagnoa ist eine bedeutende Stadt im Zentrum-Westen der Elfenbeinküste und das Herz der Region Gôh. Die Stadt ist ein historisches Zentrum des Bété-Volkes und spielt eine gewichtige Rolle in der politischen Geschichte des Landes. Gagnoa ist von fruchtbaren Böden umgeben, die ideal für den Anbau von Kakao, Kaffee und Kautschuk sind. Die Stadt ist auch bekannt für ihre lebhafte Kulturszene und hat viele prominente ivorische Musiker und Politiker hervorgebracht. Erdkunde K7 — Regionale Hauptstädte und politisches Erbe.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Gôh.",
+        "Historisches Zentrum des Bété-Volkes.",
+        "Wichtiger Standort für Kakao- und Kaffeeanbau.",
+        "Geburtsort prominenter Politiker und Musiker.",
+        "Bedeutendes Handelszentrum für Kautschuk.",
+        "Sitz regionaler Verwaltungsbehörden.",
+        "Bekannt für traditionelle Bété-Zeremonien.",
+        "Wichtiger Verkehrsknotenpunkt im Südwesten."
+      ]
+    },
+    {
+      "id": "abengourou-cities-v2",
+      "descriptionAdvanced": "Abengourou ist die Hauptstadt der Region Indénié-Djuablin im Osten der Elfenbeinküste. Die Stadt ist der Sitz des Königreichs Indénié, eines der traditionsreichsten Akan-Königreiche des Landes. Berühmt ist Abengourou für den prächtigen königlichen Palast, der ein Zentrum für kulturelle Zeremonien und traditionelle Macht darstellt. Die Region ist zudem ein wichtiger Produzent von Kakao und Kaffee und unterhält enge grenzüberschreitende Beziehungen zum benachbarten Ghana. Sachkunde K5 — Traditionelle Monarchien in der Moderne.",
+      "factsAdvanced": [
+        "Sitz des Königs von Indénié (Akan-Kultur).",
+        "Hauptstadt der Region Indénié-Djuablin.",
+        "Berühmt für den königlichen Palast der Agni.",
+        "Wichtiger Grenzübergang nach Ghana.",
+        "Zentrum für die Produktion von Edelholz.",
+        "Bedeutender Produzent von Kakao und Kaffee.",
+        "Beherbergt das Museum für königliche Artefakte.",
+        "Zentrum traditioneller Akan-Feste."
+      ]
+    },
+    {
+      "id": "grand-bassam-cities-v2",
+      "descriptionAdvanced": "Grand-Bassam, die ehemalige Hauptstadt der Elfenbeinküste, ist heute ein bedeutendes historisches und touristisches Zentrum direkt am Atlantik. Die Stadt ist zweigeteilt in das moderne Viertel und das historische 'Quartier France', das aufgrund seiner kolonialen Architektur zum UNESCO-Weltkulturerbe gehört. Grand-Bassam war das erste Tor zur Welt während der französischen Kolonialzeit und bewahrt dieses Erbe in seinen alten Villen und Verwaltungsgebäuden. Heute ist die Stadt ein beliebtes Ausflugsziel für Bewohner von Abidjan. Geschichte K8 — koloniale Architektur und Erbe.",
+      "factsAdvanced": [
+        "Erste Hauptstadt der Elfenbeinküste (1893-1896).",
+        "UNESCO-Weltkulturerbe seit 2012.",
+        "Berühmt für das historische Viertel 'Quartier France'.",
+        "Wichtiges Zentrum für Kunsthandwerk und Souvenirs.",
+        "Beliebtes Seebad mit langen Sandstränden.",
+        "Ort des ersten Generalgouvernements.",
+        "Bekannt für das jährliche Abissa-Festival.",
+        "Strategisch gelegen zwischen Lagune und Ozean."
+      ]
+    },
+    {
+      "id": "agboville-cities-v2",
+      "descriptionAdvanced": "Agboville liegt etwa 80 Kilometer nördlich von Abidjan und ist das Zentrum der Region Agnéby-Tiassa. Die Stadt hat eine starke historische Bedeutung, da sie einer der ersten Stützpunkte der kolonialen Eisenbahnlinie war und Schauplatz des Abbey-Aufstands von 1910 gegen die Kolonialherrschaft. Heute ist Agboville eine blühende Agrarstadt, die vor allem Kakao, Kaffee und Kautschuk produziert. Die Stadt ist die kulturelle Heimat des Abbey-Volkes, dessen Einflüsse im täglichen Leben überall spürbar sind. Geschichte K8 — Widerstand und Schienenverkehr.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Agnéby-Tiassa.",
+        "Historisches Zentrum des Abbey-Volkes.",
+        "Wichtiger früher Stopp der Abidjan-Niger-Bahn.",
+        "Ort des Abbey-Aufstands von 1910.",
+        "Großer Produzent von Kakao und Naturkautschuk.",
+        "Zentrum für die Verarbeitung von Agrarprodukten.",
+        "Wichtige Handelsstadt im Einzugsbereich von Abidjan.",
+        "Bekannt für seine fruchtbaren Böden."
+      ]
+    },
+    {
+      "id": "dabou-cities-v2",
+      "descriptionAdvanced": "Dabou ist eine geschichtsträchtige Stadt westlich von Abidjan, gelegen an der malerischen Ébrié-Lagune. Die Stadt ist das Zentrum des Adjoukrou-Volkes and war ein früher französischer Militärposten, woran das Fort Faidherbe aus dem Jahr 1853 noch heute erinnert. Dabou ist bekannt für seine strategische Lage am Wasser und seine bedeutende Produktion von Palmöl und Kautschuk. Die traditionellen Initiationsriten des Adjoukrou-Volkes, bekannt als 'Low', sind ein wesentlicher Bestandteil der kulturellen Identität der Stadt. Sachkunde K5 — Lagunenkulturen und koloniale Forts.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Grands Ponts.",
+        "Historischer Sitz des Fort Faidherbe (1853).",
+        "Kulturelles Zentrum des Adjoukrou-Volkes.",
+        "Wichtiger Standort für die Palmölindustrie.",
+        "Gelegen an der Ébrié-Lagune.",
+        "Berühmt für die 'Low'-Initiationsriten.",
+        "Wichtiger Markt für Fisch und Agrarprodukte.",
+        "Tor zu den westlichen Lagunenregionen."
+      ]
+    },
+    {
+      "id": "dimbokro-cities-v2",
+      "descriptionAdvanced": "Dimbokro liegt im Zentrum der Elfenbeinküste am Ufer des N'Zi-Flusses und ist die Hauptstadt der Region N'Zi. Die Stadt ist vor allem für ihr beeindruckendes Eisenbahnviadukt aus der Kolonialzeit bekannt, das ein Wahrzeichen der Stadt darstellt. Dimbokro spielte eine wichtige Rolle im Kampf um die Unabhängigkeit und war ein Zentrum des politischen Protests in den 1950er Jahren. Heute ist die Stadt ein ruhigeres Verwaltungs- und Handelszentrum, geprägt von der Landwirtschaft und dem Eisenbahnerbe. Geschichte K8 — Infrastruktur und Unabhängigkeitsbewegung.",
+      "factsAdvanced": [
+        "Hauptstadt der Region N'Zi.",
+        "Berühmt für das 1910 erbaute Eisenbahnviadukt.",
+        "Gelegen am Ufer des Flusses N'Zi.",
+        "Historischer Ort politischer Proteste (1950).",
+        "Wichtiger Knotenpunkt der Abidjan-Niger-Bahn.",
+        "Zentrum für den Handel mit Yamswurzeln und Kakao.",
+        "Heimat des ersten Präsidenten Félix Houphouët-Boigny.",
+        "Traditionell geprägt durch das Baoulé-Volk."
+      ]
+    },
+    {
+      "id": "fere-cities-v2",
+      "descriptionAdvanced": "Ferkessédougou, oft einfach Ferké genannt, ist die nördlichste Großstadt der Elfenbeinküste und das Tor zur Sahelzone. Die Stadt ist ein entscheidender Handelsknotenpunkt für Vieh aus Mali und Burkina Faso sowie ein Zentrum des Baumwollanbaus. Ferké ist tief in der Kultur des Niarafolo-Volkes verwurzelt und beherbergt eine wichtige Station der Eisenbahnstrecke nach Ouagadougou. Die Landschaft ist geprägt von weiter Trockensavanne und großen Zuckerrohrplantagen, die die lokale Industrie stützen. Erdkunde K7 — Grenzhandel und Savannenwirtschaft.",
+      "factsAdvanced": [
+        "Nördlichstes Handelszentrum der Elfenbeinküste.",
+        "Wichtigster Viehmarkt des Landes.",
+        "Zentrum des Baumwoll- und Zuckerrohranbaus.",
+        "Kulturelle Hauptstadt des Niarafolo-Volkes.",
+        "Wichtiger Bahnhof an der Strecke nach Burkina Faso.",
+        "Große Zuckerfabrik (SUCAF) vor Ort.",
+        "Tor für Transitwaren in die Sahel-Staaten.",
+        "Bekannt für sein trockenes, heißes Klima."
+      ]
+    },
+    {
+      "id": "bouafle-cities-v2",
+      "descriptionAdvanced": "Bouaflé liegt im Zentrum de Elfenbeinküste am Ufer des Flusses Bandama und ist die Hauptstadt der Region Marahoué. Die Stadt ist ein wichtiger Verkehrsknotenpunkt zwischen der politischen Hauptstadt Yamoussoukro und dem Westen des Landes. Bouaflé ist bekannt für seine reiche Tradition der Guro-Kultur, insbesondere für den berühmten Zaouli-Tanz, der zum immateriellen Kulturerbe der UNESCO gehört. Die Region ist landwirtschaftlich geprägt und ein bedeutender Produzent von Kakao und Kaffee. Sachkunde K5 — Traditionelle Tänze und Kulturerbe.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Marahoué.",
+        "Gelegen am Ufer des Bandama-Flusses.",
+        "Zentrum der Guro-Kultur.",
+        "Heimat des UNESCO-geschützten Zaouli-Tanzes.",
+        "Wichtiger Standort für Goldminen in der Umgebung.",
+        "Bedeutender Markt für Kakao und Kaffee.",
+        "Nahe dem Marahoué-Nationalpark gelegen.",
+        "Strategischer Verbindungspunkt nach Yamoussoukro."
+      ]
+    },
+    {
+      "id": "bondoukou-cities-v2",
+      "descriptionAdvanced": "Bondoukou, bekannt als die 'Stadt der tausend Moscheen', liegt im Nordosten der Elfenbeinküste nahe der Grenze zu Ghana. Die Stadt ist eines der ältesten islamischen Zentren Westafrikas und war ein bedeutender Knotenpunkt des Karawanenhandels für Gold und Kolanüssen. Bondoukou bewahrt eine reiche Architektur im sudanesischen Stil und ist ein Schmelztiegel verschiedener Völker wie der Koulango, Abron und Dyula. Die Stadt ist auch heute noch ein Zentrum religiöser Gelehrsamkeit und ein wichtiger Handelsplatz. Geschichte K8 — Karawanenwege und islamisches Erbe.",
+      "factsAdvanced": [
+        "Beiname: Stadt der tausend Moscheen.",
+        "Eines der ältesten Handelszentren Westafrikas.",
+        "Historischer Knotenpunkt für Gold und Kolanüsse.",
+        "Bedeutendes Zentrum islamischer Bildung.",
+        "Hauptstadt der Region Gontougo.",
+        "Berühmt für Architektur im sudanesischen Stil.",
+        "Wichtiger Marktplatz für Ananas und Kakao.",
+        "Kultureller Schmelztiegel der Abron und Koulango."
+      ]
+    },
+    {
+      "id": "katiola-cities-v2",
+      "descriptionAdvanced": "Katiola liegt im Zentrum-Nord des Landes und ist weltweit berühmt für die Töpferkunst der Mangoro-Frauen. Die Stadt ist die Hauptstadt der Region Hambol und ein wichtiger Halt an der Bahnstrecke Abidjan-Niger. Neben der Keramikproduktion ist Katiola ein bedeutendes Agrarzentrum für Cashewnüsse und Getreide. Die Kultur des Tagwana-Volkes prägt das soziale Gefüge der Stadt, die als Tor zur nördlichen Senufo-Region gilt. Sachkunde K5 — Traditionelles Kunsthandwerk und Keramik.",
+      "factsAdvanced": [
+        "Weltbekannt für die Töpferwaren der Mangoro.",
+        "Hauptstadt der Region Hambol.",
+        "Wichtiges Zentrum des Tagwana-Volkes.",
+        "Bedeutender Standort für Cashew-Verarbeitung.",
+        "Halt der kolonialen Abidjan-Niger-Bahn.",
+        "Marktzentrum für die Savannenprodukte.",
+        "Bekannt für das jährliche Töpfer-Festival.",
+        "Strategische Lage an der Nord-Süd-Magistrale."
+      ]
+    },
+    {
+      "id": "seguela-cities-v2",
+      "descriptionAdvanced": "Séguéla liegt im Nordwesten der Elfenbeinküste und ist historisch als Zentrum für den Handel und Abbau von Diamanten bekannt. Die Stadt ist die Hauptstadt der Region Worodougou und das kulturelle Zentrum des Worodougou-Volkes. In der Umgebung von Séguéla befinden sich einige der fruchtbarsten Gebiete für den Anbau von Cashewnüssen, die heute das wichtigste Exportgut der Region darstellen. Die Stadt hat eine ruhige, aber geschäftige Atmosphäre und bewahrt viele traditionelle Bräuche der nördlichen Mande-Kultur. Erdkunde K7 — Bergbau und Cashew-Wirtschaft.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Worodougou.",
+        "Historisches Zentrum des Diamantenabbaus.",
+        "Wichtigstes Anbaugebiet für Cashewnüsse.",
+        "Kulturelles Zentrum der Worodougou-Mande.",
+        "Markanter Markt für Agrarprodukte aus dem Norden.",
+        "Bedeutender Standort für die Baumwollverarbeitung.",
+        "Wichtiger Stopp auf der Route nach Mali.",
+        "Zentrum traditioneller Koranschulen."
+      ]
+    },
+    {
+      "id": "guiglo-cities-v2",
+      "descriptionAdvanced": "Guiglo liegt im fernen Westen der Elfenbeinküste am Ufer des Flusses N'Zo und ist ein wichtiges Zentrum für die Region Cavally. Die Stadt ist historisch eng mit der Forstwirtschaft und dem Export von Edelholz verbunden, dient heute aber primär als Drehscheibe für den Handel mit Kakao und Kautschuk. Guiglo ist die Heimat des Wê-Volkes und war aufgrund seiner Grenznähe zu Liberia oft ein strategischer Punkt in regionalen Konflikten. Die Stadt ist zudem ein wichtiges Tor zu den westlichen Regenwaldgebieten. Erdkunde K7 — Forstwirtschaft und Regenwaldnutzung.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Cavally.",
+        "Bedeutendes Zentrum der Holzindustrie.",
+        "Historische Heimat des Wê-Volkes.",
+        "Wichtiger Umschlagplatz für Kakao und Kautschuk.",
+        "Gelegen am Ufer des Flusses N'Zo.",
+        "Strategischer Knotenpunkt nahe der Grenze zu Liberia.",
+        "Zentrum für Flüchtlingshilfe in Krisenzeiten.",
+        "Bekannt für traditionelle Maskenkulturen des Westens."
+      ]
+    },
+    {
+      "id": "touba-cities-v2",
+      "descriptionAdvanced": "Touba ist die Hauptstadt der Region Bafing im Nordwesten des Landes und das Herz des Mahou-Volkes. Die Stadt liegt in einer malerischen Hügellandschaft, die den Übergang vom Regenwald zur Savanne markiert. Touba ist bekannt für seine starke islamische Tradition und seine fruchtbaren Böden, auf denen vor allem Soja und Reis angebaut werden. Die Stadt bewahrt eine ruhige, ländliche Atmosphäre und ist ein wichtiges Zentrum für die Bewahrung der Mande-Sprache und -Kultur in diesem Teil des Landes. Sachkunde K5 — Geografie der Übergangszonen.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Bafing.",
+        "Zentrum des Mahou-Volkes (Mande-Kultur).",
+        "Wichtiger Produzent von Soja und Reis.",
+        "Bedeutendes Zentrum für islamische Studien.",
+        "Gelegen in einer markanten Hügel-Savanne.",
+        "Tor zu den Bergen von Guinea.",
+        "Bekannt für traditionelle Webarbeiten.",
+        "Wichtiger lokaler Viehmarkt."
+      ]
+    },
+    {
+      "id": "bouna-cities-v2",
+      "descriptionAdvanced": "Bouna liegt im Nordosten der Elfenbeinküste und ist die Hauptstadt der Region Bounkani. Die Stadt blickt auf eine ruhmreiche Geschichte als Sitz des Bouna-Königreichs zurück, das im 17. Jahrhundert gegründet wurde und den Goldhandel kontrollierte. Bouna ist heute vor allem als Tor zum Comoé-Nationalpark bekannt, dem größten Schutzgebiet Westafrikas. Die Stadt ist geprägt von der Kultur der Koulango und Lobi und dient als wichtiger administrativer und touristischer Stützpunkt in dieser abgelegenen Region. Geschichte K8 — Vorkoloniale Königreiche und Naturschutz.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Bounkani.",
+        "Historischer Sitz des Bouna-Königreichs (17. Jh.).",
+        "Wichtigstes Tor zum Comoé-Nationalpark.",
+        "Zentrum der Koulango- und Lobi-Kultur.",
+        "Ehemaliger Knotenpunkt des Goldhandels.",
+        "Bekannt für traditionelle Lehmarchitektur.",
+        "Bedeutender Standort für die Viehzucht.",
+        "Grenznähe zu Burkina Faso und Ghana."
+      ]
+    },
+    {
+      "id": "minignan-cities-v2",
+      "descriptionAdvanced": "Minignan ist eine kleine, aber strategisch wichtige Stadt im äußersten Nordwesten der Elfenbeinküste und die Hauptstadt der Region Folon. Die Stadt liegt im Dreiländereck mit Guinea und Mali und ist ein traditionelles Zentrum der Malinké-Kultur. Aufgrund der Trockenheit der Region ist die Landwirtschaft hier auf Hirse, Mais und die Viehzucht spezialisiert. Minignan bewahrt einen sehr traditionellen Charakter mit einer starken sozialen Struktur, die auf den Bräuchen der Mande basiert. Erdkunde K7 — Leben in der Trockensavanne.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Folon.",
+        "Gelegen im Dreiländereck (CI, GN, ML).",
+        "Zentrum der Malinké-Kultur.",
+        "Wichtiger Ort für den grenzüberschreitenden Viehhandel.",
+        "Spezialisiert auf Getreideanbau (Hirse, Mais).",
+        "Eine der abgelegensten Provinzhauptstädte.",
+        "Starke traditionelle soziale Strukturen.",
+        "Heißes und trockenes Sudanklima."
+      ]
+    },
+    {
+      "id": "odienne-cities-v2",
+      "descriptionAdvanced": "Odienné ist das historische und administrative Zentrum des Nordwestens und die Hauptstadt der Region Kabadougou. Die Stadt wurde im 19. Jahrhundert von Vakaba Touré als Hauptstadt seines Reiches gegründet und war ein bedeutendes Bollwerk gegen koloniale Einflüsse. Heute ist Odienné ein blühendes Agrarzentrum, das vor allem für seine Cashewnüsse und Baumwolle bekannt ist. Die Stadt ist von den markanten Bergen des Massif du Denguélé umgeben und bewahrt stolz das Erbe der Malinké-Krieger und Gelehrten. Geschichte K8 — Widerstand und Schienenverkehr.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Kabadougou.",
+        "Gegründet von Vakaba Touré im 19. Jahrhundert.",
+        "Historische Hauptstadt des Kabadougou-Reiches.",
+        "Zentrum für Cashew- und Baumwollexport.",
+        "Umgeben von den Denguélé-Bergen.",
+        "Wichtiges Zentrum der Malinké-Gelehrsamkeit.",
+        "Strategischer Ort an der Grenze zu Guinea.",
+        "Bekannt für das Grab von Vakaba Touré."
+      ]
+    },
+    {
+      "id": "mankono-cities-v2",
+      "descriptionAdvanced": "Mankono ist die Hauptstadt der Region Béré im Zentrum-Nord der Elfenbeinküste. Die Stadt ist ein bedeutendes landwirtschaftliches Zentrum in einer Übergangszone zwischen Wald und Savanne, was sie zu einem idealen Ort für den Anbau von Cashewnüssen und Baumwolle macht. Mankono wird überwiegend von den Koyaka, einer Untergruppe der Malinké, bewohnt, die für ihre Handelsfähigkeiten und ihre reiche Folklore bekannt sind. Die Stadt hat in den letzten Jahren durch den Ausbau der Infrastruktur an wirtschaftlicher Bedeutung gewonnen. Erdkunde K7 — Agrarische Übergangszonen.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Béré.",
+        "Zentrum des Koyaka-Volkes (Malinké).",
+        "Wichtiger Produzent von Cashewnüssen.",
+        "Bedeutender Markt für Getreide und Rinder.",
+        "Gelegen in einer markanten Hügel-Savanne.",
+        "Wachsendes Handelszentrum im Norden.",
+        "Bekannt für traditionelle Koyaka-Festivals.",
+        "Strategischer Punkt auf der Route nach Korhogo."
+      ]
+    },
+    {
+      "id": "boundiali-cities-v2",
+      "descriptionAdvanced": "Boundiali liegt im Norden der Elfenbeinküste und ist die Hauptstadt der Region Bagoué. Die Stadt ist ein wesentlicher Bestandteil der 'Baumwollstraße' und beherbergt einige der größten Entkörnungsbetriebe des Landes. Boundiali ist tief in der Senufo-Kultur verwurzelt und bekannt für seine traditionellen Webereien und die Herstellung von Sheabutter. Die Landschaft um die Stadt ist durch weite Savannen und markante Granitberge geprägt, was Boundiali zu einem wichtigen regionalen Handels- und Verwaltungszentrum macht. Erdkunde K7 — Die Baumwollindustrie im Norden.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Bagoué.",
+        "Zentrum der ivorischen Baumwollverarbeitung.",
+        "Bedeutender Produzent von Sheabutter (Karité).",
+        "Wichtiger Standort der Senufo-Kultur.",
+        "Strategischer Halt auf der Achse Korhogo-Odienné.",
+        "Umgeben von markanten Inselbergen.",
+        "Zentrum für traditionelle Webkunst.",
+        "Wichtiger Markt für Agrar-Eingangsstoffe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Dorob National Park spans a critical section of the central Namibian coastline, linking the Skeleton Coast Park in the north to the Namib-Naukluft Park in the south. Despite its stark, desert appearance, the coastal dune belt and gravel plains are teeming with highly adapted micro-fauna. The park is particularly famous for its incredible birdlife, serving as a sanctuary for the endemic Damara tern and massive flocks of Palearctic waders migrating along the coast. The park balances intense recreational use, such as dune driving and angling, with strict conservation zones to protect nesting sites. Sachkunde K3 — coastal ecology.",
+      "factsAdvanced": [
+        "Spans the central Namibian coastline around Swakopmund and Walvis Bay.",
+        "Links the Skeleton Coast Park to the Namib-Naukluft Park.",
+        "Home to highly adapted desert micro-fauna and unique lichens.",
+        "A critical sanctuary for the endemic and vulnerable Damara tern.",
+        "Balances heavy recreational use with strict ecological conservation zones.",
+        "The name 'Dorob' means 'dry land' in the local Topnaar language."
+      ]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "descriptionAdvanced": "The Kavango Region, deeply influenced by the permanent flow of the Kavango River, is a vibrant agricultural corridor in northern Namibia. Unlike the dry south, the availability of river water and slightly higher rainfall allows for dense, traditional subsistence farming. The local economy revolves around the cultivation of mahangu (pearl millet), maize, and sorghum. Alongside crop farming, the river supports a critical inland freshwater fishing industry, providing vital protein to the local communities. The region is characterized by small, traditional kraals dotting the riverbanks amidst lush vegetation. Geography K7 — riverine agriculture.",
+      "factsAdvanced": [
+        "Located along the permanent Kavango River in northern Namibia.",
+        "Characterized by lush vegetation and higher regional rainfall.",
+        "Economy centers on traditional subsistence farming of mahangu (millet).",
+        "The river supports a vital and extensive freshwater fishing industry.",
+        "Features numerous traditional kraals and settlements along the riverbanks.",
+        "Provides a stark contrast to the arid agricultural systems of the south."
+      ]
+    },
+    {
+      "id": "namibia-otjiwarongo-agriculture-life-v2",
+      "descriptionAdvanced": "The agricultural sector surrounding Otjiwarongo in the Otjozondjupa Region represents the heart of Namibia's commercial cattle farming. The region consists of expansive, flat savanna plains covered in nutritious sweet grasses and acacia thornbush, providing optimal grazing for high-yield beef production. Farmers here focus heavily on Brahman, Simmentaler, and crossbreeds suited for the semi-arid environment. Beyond cattle, the area has seen a massive shift toward commercial game farming and high-end eco-tourism, often combining livestock production with the conservation of species like rhinos and cheetahs. Geography K7 — commercial livestock.",
+      "factsAdvanced": [
+        "Represents the core of Namibia's commercial cattle farming sector.",
+        "Features flat savanna plains covered in nutritious sweet grasses.",
+        "Focuses on hardy beef breeds like Brahman and Simmentaler.",
+        "Many farms have diversified into commercial game farming.",
+        "Frequently integrates livestock production with high-end eco-tourism.",
+        "Located in the relatively well-watered Otjozondjupa Region."
+      ]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Kalahari is not a true desert, but rather a massive, semi-arid sandy savanna that covers much of eastern Namibia. Characterized by striking, parallel red sand dunes stabilized by sparse vegetation, the Kalahari supports a much higher density of wildlife than the true Namib Desert. It is home to iconic species such as the Kalahari lion (known for its distinct dark mane), massive herds of springbok, highly social meerkats, and the massive nests of the sociable weaver bird. The environment relies entirely on highly unpredictable, localized summer thunderstorms. Sachkunde K3 — semi-arid savannas.",
+      "factsAdvanced": [
+        "A semi-arid sandy savanna covering eastern Namibia.",
+        "Characterized by stabilized, parallel red sand dunes.",
+        "Supports more vegetation and wildlife than the hyper-arid Namib.",
+        "Home to distinct species like the dark-maned Kalahari lion.",
+        "Features the massive communal nests of the sociable weaver bird.",
+        "Ecosystem health depends entirely on unpredictable summer rains."
+      ]
+    },
+    {
+      "id": "namibia-fish-river-animal-habitat-life-v2",
+      "descriptionAdvanced": "The habitat surrounding the Fish River Canyon in southern Namibia is one of extreme ruggedness and harsh aridity. The deep gorge cuts through the rocky, barren plateau, providing a localized micro-climate where water pools persist even during severe droughts. This harsh environment is home to highly resilient wildlife, including the agile Klipspringer antelope, Hartmann's mountain zebra, and elusive predators like the leopard. The canyon walls are also a haven for raptors, including Verreaux's eagle, which prey on the numerous rock hyraxes navigating the steep cliffs. Sachkunde K3 — canyon ecosystems.",
+      "factsAdvanced": [
+        "Located in and around the massive Fish River Canyon in southern Namibia.",
+        "Characterized by extreme ruggedness and hyper-arid plateau conditions.",
+        "Permanent river pools provide a vital dry-season water source.",
+        "Home to resilient species like the Klipspringer and mountain zebra.",
+        "The steep canyon walls are a major habitat for large raptors.",
+        "Supports elusive, wide-ranging predators such as the leopard."
+      ]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "descriptionAdvanced": "Agriculture in the Mariental area is defined by a sharp dichotomy: intense irrigation farming and expansive desert sheep farming. The presence of the massive Hardap Dam allows farmers to cultivate high-value, water-intensive crops like lucerne, grapes, and sweet melons directly adjacent to the harsh Namib Desert. Away from the irrigation canals, the region is the absolute epicenter of Namibia's Karakul sheep industry. These hardy sheep are bred specifically for the harsh dry conditions, producing the world-famous 'Swakara' pelts, which are exported primarily to European fashion houses. Geography K7 — dual agricultural systems.",
+      "factsAdvanced": [
+        "Agriculture is split between intense irrigation and arid livestock farming.",
+        "The Hardap Dam provides water for crops like lucerne and sweet melons.",
+        "Considered the absolute epicenter of the Namibian Karakul sheep industry.",
+        "Karakul sheep are highly adapted to the extreme arid environment.",
+        "Produces luxury 'Swakara' pelts for export to international fashion markets.",
+        "Located in the notoriously hot and dry Hardap Region."
+      ]
+    },
+    {
+      "id": "namibia-outjo-agriculture-life-v2",
+      "descriptionAdvanced": "The Outjo district serves as a critical transitional agricultural zone between the central cattle-farming plateau and the arid northwestern Kunene Region. The area primarily supports commercial cattle ranching, but farmers face constant challenges from bush encroachment—where thick, thorny acacia bushes choke out edible savanna grasses. Many farmers have adapted by expanding into game farming and tourism, serving as the primary commercial hub for lodges supporting the nearby Etosha National Park. The region also has a growing industry in charcoal production, utilizing the encroaching bush. Geography K7 — agricultural adaptation.",
+      "factsAdvanced": [
+        "Acts as a transitional zone between the central plateau and arid northwest.",
+        "Primarily supports extensive commercial cattle ranching.",
+        "Heavily impacted by the ecological challenge of bush encroachment.",
+        "Many farms have adapted by transitioning to commercial game farming.",
+        "A growing industry exists in producing charcoal from encroacher bush.",
+        "Serves as the main agricultural and commercial hub south of Etosha."
+      ]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "descriptionAdvanced": "Agriculture around Rundu in the Kavango East Region is a lifeline for the densely populated local communities. The system is heavily reliant on the floodplains of the Kavango River. Farmers utilize traditional 'slash and burn' methods and seasonal floodwaters to grow mahangu (pearl millet), maize, and vegetables. Unlike the commercial mega-farms of the south, this area is characterized by thousands of small subsistence plots. The national government has attempted to boost production here through the Green Scheme, establishing large-scale irrigated agricultural projects aimed at national food security. Geography K7 — subsistence and state agriculture.",
+      "factsAdvanced": [
+        "Agriculture is a vital lifeline for densely populated northern communities.",
+        "Heavily reliant on the fertile floodplains of the Kavango River.",
+        "Characterized primarily by small-scale traditional subsistence plots.",
+        "Main crops include mahangu (pearl millet), maize, and local vegetables.",
+        "Site of major government 'Green Scheme' irrigation projects.",
+        "Aims to transition traditional farming into national food security assets."
+      ]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "descriptionAdvanced": "Sesriem Canyon is an exciting, highly accessible natural landmark for children visiting the Namib Desert. Located just inside the gates to Sossusvlei, this narrow gorge was carved into the sedimentary rock by the Tsauchab River over millions of years. It is about a kilometer long and up to 30 meters deep. Kids love climbing down into the cool, shaded canyon floor, which offers a dramatic contrast to the blazing desert heat above. During the rare wet years, the canyon holds pools of water where children can spot hardy desert frogs and fish. Earth Science K6 — canyon formation.",
+      "factsAdvanced": [
+        "A narrow, accessible canyon located near the gates of Sossusvlei.",
+        "Carved by the ephemeral Tsauchab River over millions of years.",
+        "The gorge is approximately one kilometer long and 30 meters deep.",
+        "The name 'Sesriem' means 'six thongs', referencing early water retrieval.",
+        "Provides a cool, shaded environment contrasting with the desert heat.",
+        "Can hold small pools of water supporting unique desert frogs and fish."
+      ]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "descriptionAdvanced": "The Walvis Bay Lagoon is a breathtaking natural landmark and a paradise for children interested in wildlife. As one of the most important coastal wetlands in Southern Africa, it is famous for hosting massive flocks of up to 50,000 flamingos, turning the shallow waters a brilliant shade of pink. Children can walk along the extensive paved promenade right on the water's edge, observing pelicans, dolphins, and curious Cape fur seals that frequently swim close to the shore. The calm, sheltered waters make it a safe, interactive environmental classroom. Sachkunde K3 — coastal wetlands.",
+      "factsAdvanced": [
+        "One of the most vital coastal wetland ecosystems in Southern Africa.",
+        "Hosts massive flocks of up to 50,000 greater and lesser flamingos.",
+        "Features a safe, extensive paved promenade along the water's edge.",
+        "Children can easily observe pelicans, seals, and occasional dolphins.",
+        "The shallow, sheltered waters provide a highly accessible nature experience.",
+        "Protected as a vital Ramsar Wetland of International Importance."
+      ]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "descriptionAdvanced": "The Living Hunter-Gatherer Museum near Tsumkwe offers children a profound, interactive experience with the Ju/'hoansi San people, one of the oldest cultures on Earth. Unlike traditional static museums, this is an open-air, living village where San communities demonstrate their ancient survival skills. Kids can learn how to track animals, identify medicinal desert plants, make fire using only sticks, and craft traditional jewelry from ostrich eggshells. It is an unparalleled educational landmark that teaches immense respect for indigenous knowledge and sustainable living. Sachkunde K3 — indigenous cultures.",
+      "factsAdvanced": [
+        "Located near Tsumkwe in the remote eastern Otjozondjupa Region.",
+        "An open-air, interactive 'living museum' run by the Ju/'hoansi San.",
+        "Demonstrates the ancient survival skills of true hunter-gatherer societies.",
+        "Children learn how to track wildlife and identify medicinal plants.",
+        "Features demonstrations of friction fire-making and traditional archery.",
+        "Focuses on preserving indigenous knowledge and generating community income."
+      ]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "descriptionAdvanced": "Agate Beach, located a few kilometers outside the coastal town of Lüderitz, is a fascinating and unique natural landmark for children. Unlike typical sandy beaches, the shoreline here is composed of dark sand mixed with millions of tiny, semi-precious stones, including agates, quartz, and occasionally small garnets washed down from the Orange River. Kids can spend hours safely beachcombing and collecting colorful, polished stones. The beach also offers a stark view of the harsh Atlantic surf and the nearby restricted diamond mining zones. Earth Science K6 — semi-precious geology.",
+      "factsAdvanced": [
+        "Located just a few kilometers north of the coastal town of Lüderitz.",
+        "The shoreline is famous for being covered in tiny, semi-precious stones.",
+        "Children can find polished agates, quartz, and small garnets.",
+        "The stones originally washed down from the distant Orange River.",
+        "Offers a safe, highly interactive beachcombing experience.",
+        "Provides views of the harsh Atlantic Ocean and nearby mining zones."
+      ]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Caprivi Strip (now part of the Zambezi Region) is Namibia's most atypical animal habitat, characterized by a lush, tropical environment completely unlike the rest of the arid country. Bordered by the Kwando, Linyanti, Chobe, and Zambezi rivers, it features expansive wetlands, riverine forests, and floodplains. This abundance of permanent water supports massive herds of elephants, buffalo, and hippos. The rivers are teeming with crocodiles and tiger fish, while the trees host an incredible diversity of over 400 bird species, making it a critical, biodiverse wetland corridor. Sachkunde K3 — tropical wetlands.",
+      "factsAdvanced": [
+        "A lush, tropical environment located in the narrow Zambezi Region.",
+        "Bordered by major permanent rivers: Kwando, Linyanti, Chobe, and Zambezi.",
+        "Features expansive wetlands, deep floodplains, and riverine forests.",
+        "Supports massive, water-dependent herds of elephants, hippos, and buffalo.",
+        "Home to dangerous aquatic predators like crocodiles and tiger fish.",
+        "Hosts an incredible diversity of over 400 distinct bird species."
+      ]
+    },
+    {
+      "id": "namibia-damaraland-animal-habitat-life-v2",
+      "descriptionAdvanced": "Damaraland, situated in the rugged Kunene Region, is a harsh, rocky, semi-desert habitat renowned for its highly specialized, free-roaming wildlife. The landscape is dominated by massive granite boulders, dry riverbeds, and ancient volcanic craters. Despite the severe lack of water, it is one of the only places on Earth where black rhinoceroses and desert-adapted elephants roam freely outside national parks. These animals survive by tracking ephemeral underground water in the dry riverbeds and eating specialized desert vegetation, showcasing extreme evolutionary resilience. Sachkunde K3 — desert adaptation.",
+      "factsAdvanced": [
+        "Located in the rugged, rocky, semi-desert Kunene Region.",
+        "Dominated by massive granite boulders and dry, ephemeral riverbeds.",
+        "Famous for completely free-roaming, desert-adapted elephants.",
+        "One of the last strongholds for free-ranging black rhinoceroses.",
+        "Wildlife survives by digging for underground water in dry rivers.",
+        "The habitat is entirely unprotected by formal national park fences."
+      ]
+    },
+    {
+      "id": "namibia-spitzkoppe-kid-landmark-life-v2",
+      "descriptionAdvanced": "The Spitzkoppe, often referred to as the 'Matterhorn of Namibia', is a massive, bald granite peak rising dramatically 700 meters above the flat Namib desert floor. For children, the surrounding area is a giant, natural adventure playground. The bizarrely shaped rock formations, including famous stone arches and deep caves, offer endless opportunities for safe scrambling and exploring. The area is also rich in ancient San rock paintings, providing an interactive history lesson. At night, the complete lack of light pollution makes it one of the best stargazing locations on Earth. Earth Science K6 — granite formations.",
+      "factsAdvanced": [
+        "Often referred to as the 'Matterhorn of Namibia' due to its shape.",
+        "A bald granite peak rising 700 meters above the flat desert floor.",
+        "Features bizarrely eroded rock formations, including famous stone arches.",
+        "Provides a massive, natural adventure playground for children.",
+        "Contains numerous easily accessible ancient San rock paintings.",
+        "World-renowned for its pristine, light-pollution-free stargazing."
+      ]
+    },
+    {
+      "id": "namibia-okavango-agriculture-life-v2",
+      "descriptionAdvanced": "Agriculture along the Okavango River (Kavango East and West regions) is a critical mix of traditional indigenous practices and modern government intervention. The majority of the population relies on labor-intensive subsistence farming, utilizing the fertile soils deposited by seasonal river floods to grow mahangu (pearl millet) and maize. To combat national food insecurity, the government has established massive 'Green Scheme' projects here. These highly mechanized farms pump water directly from the river to irrigate massive circular center-pivot fields, producing thousands of tonnes of wheat and maize for the national market. Geography K7 — irrigation projects.",
+      "factsAdvanced": [
+        "Located along the permanent Okavango River in northern Namibia.",
+        "Most locals rely on labor-intensive, traditional subsistence farming.",
+        "Seasonal river floods deposit fertile soils used for growing mahangu.",
+        "Hosts massive government-funded 'Green Scheme' agricultural projects.",
+        "Utilizes highly mechanized center-pivot irrigation systems.",
+        "Crucial for producing wheat and maize to ensure national food security."
+      ]
+    },
+    {
+      "id": "namibia-aus-animal-habitat-life-v2",
+      "descriptionAdvanced": "The habitat surrounding the small village of Aus in the //Kharas Region is a harsh transition zone where the rocky escarpment meets the sandy plains of the Namib Desert. It is uniquely famous as the home of the Namib Desert feral horses. These hardy horses, believed to be descendants of German cavalry and South African military stock from World War I, have survived for over a century in this brutal environment. They rely entirely on a man-made borehole at Garub pan, enduring severe droughts and frequent predation by local spotted hyenas. Sachkunde K3 — feral species adaptation.",
+      "factsAdvanced": [
+        "Located in a harsh transition zone between rocky escarpment and desert.",
+        "Internationally famous as the habitat of the feral Namib Desert horses.",
+        "The horses are likely descendants of WWI military stock.",
+        "They survive extreme temperatures and severe, prolonged droughts.",
+        "The herd relies entirely on a man-made borehole at the Garub pan.",
+        "The horses face significant natural predation from local spotted hyenas."
+      ]
+    },
+    {
+      "id": "na-namib-desert-nature-v2",
+      "descriptionAdvanced": "The Namib Desert is widely considered the oldest desert on Earth, having endured arid or semi-arid conditions for roughly 55 to 80 million years. Stretching for over 2,000 kilometers along the Atlantic coast, it is a hyper-arid environment characterized by towering, shifting sand dunes—some reaching 300 meters high. The desert's profound aridity is caused by the cold Benguela Current offshore, which cools the air and prevents rainfall. Despite the lack of rain, life thrives here by harvesting moisture from the dense, cold sea fog that frequently rolls inland. Earth Science K6 — coastal deserts.",
+      "factsAdvanced": [
+        "Considered the oldest desert on Earth, aged 55 to 80 million years.",
+        "Stretches over 2,000 kilometers along the Atlantic coastline.",
+        "Features some of the tallest sand dunes in the world, up to 300 meters high.",
+        "Hyper-aridity is caused by the cold offshore Benguela Current.",
+        "Receives incredibly low annual rainfall, often less than 10mm.",
+        "Endemic life survives by harvesting moisture from dense coastal fog."
+      ]
+    },
+    {
+      "id": "na-kalahari-desert-nature-v2",
+      "descriptionAdvanced": "The Kalahari Desert covers a massive expanse of eastern and southern Namibia, extending deep into Botswana and South Africa. Unlike the barren dunes of the Namib, the Kalahari is technically a semi-desert or sandy savanna, as it receives enough seasonal rainfall to support extensive vegetation, including hardy acacia trees and tall golden grasses. The landscape is defined by ancient, stabilized red sand dunes running in parallel lines. Because there is almost no permanent surface water, the rich wildlife relies heavily on specialized roots, melons, and deep groundwater boreholes. Earth Science K6 — semi-arid savannas.",
+      "factsAdvanced": [
+        "Covers massive portions of eastern Namibia, Botswana, and South Africa.",
+        "Technically a semi-desert or sandy savanna, not a true desert.",
+        "Characterized by ancient, stabilized, parallel red sand dunes.",
+        "Receives enough seasonal rainfall to support grasses and acacia trees.",
+        "Contains virtually no permanent surface water sources.",
+        "Wildlife survives by utilizing moisture-rich roots and tsamma melons."
+      ]
+    },
+    {
+      "id": "na-etosha-pan-nature-v2",
+      "descriptionAdvanced": "The Etosha Pan is a colossal, brilliantly white endorheic salt pan located in northern Namibia, covering approximately 4,800 square kilometers. Millions of years ago, it was a massive inland lake fed by the Kunene River, but tectonic shifts altered the river's course, causing the lake to dry up completely. Today, the pan is mostly a barren expanse of salty clay that shimmers with mirages in the extreme heat. However, during years of exceptional rainfall, it temporarily floods, transforming into a shallow, algae-rich lake that attracts thousands of breeding flamingos. Earth Science K6 — salt pans and geology.",
+      "factsAdvanced": [
+        "A colossal endorheic salt pan covering roughly 4,800 square kilometers.",
+        "Originally a massive ancient inland lake fed by the Kunene River.",
+        "Dried up millions of years ago due to regional tectonic shifts.",
+        "The blindingly white salty clay surface is visible from space.",
+        "Creates intense, shimmering heat mirages during the dry season.",
+        "Rare, heavy rains temporarily transform it into a massive breeding ground for flamingos."
+      ]
+    }
+  ]
+}

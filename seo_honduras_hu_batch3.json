@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "langue-cities-v2",
+      "descriptionAdvanced": "Langue egy meleg éghajlatú kisváros Valle megyében, Honduras déli részén, közel az El Salvador-i határhoz. A település neve az őslakos lenca nyelvből származik, ami „a folyók találkozását” jelenti, utalva a környező apró vízfolyásokra. A száraz és forró klíma miatt a helyi gazdaság nagyrészt az ellenállóbb növények, például a dinnye, a szezám és a cirok termesztésére, valamint a szarvasmarha-tenyésztésre specializálódott. Langue különösen híres a kézműves fafaragásairól, faáruiról és tradicionális függőágyairól (hamacas), amelyeket a helyi piacokon és az út mentén árulnak az utazóknak. A város nyugalma és a lakosok vendégszeretete miatt a régió egyik legbékésebb településének számít. Földrajz K8 — szárazföldi mezőgazdaság.",
+      "factsAdvanced": [
+        "Valle megye északi részén fekszik, közel El Salvadorhoz.",
+        "Nevét a lenca őslakos nyelvből kapta, jelentése 'folyók találkozása'.",
+        "Klíma nagyon forró és száraz, jellemző Honduras déli részére.",
+        "Fő mezőgazdasági termékei a szezám, cirok és dinnye.",
+        "Kézműves fafaragásairól és hagyományos függőágyairól ismert.",
+        "Gazdaságában jelentős szerepe van a szarvasmarha-tenyésztésnek.",
+        "A Pánamerikai főútvonal közelsége segíti a kereskedelmét."
+      ]
+    },
+    {
+      "id": "jesus-de-otoro-cities-v2",
+      "descriptionAdvanced": "Jesús de Otoro egy termékeny völgyben fekvő város Intibucá megye északi részén. A kiterjedt Otoro-völgy mikroklímája és sík terepe Honduras egyik legfontosabb gabonatermesztő régiójává teszi a települést, különös tekintettel a rizs, a bab és a kukorica termesztésére, ami miatt gyakran Intibucá „magtárának” is nevezik. A város viszonylag modern arculattal rendelkezik, bár a környéken számos ősi lenca falu található, amelyek kultúrája rányomja bélyegét a helyi hagyományokra és kézműves termékekre. Az Otoro-folyó, amely keresztülszeli a völgyet, elengedhetetlen az öntözéses földműveléshez. A város a nyugati megyék közötti kereskedelem fontos logisztikai pontjaként is szolgál. Földrajz K7 — élelmiszertermelés.",
+      "factsAdvanced": [
+        "Intibucá megye északi részén, a kiterjedt Otoro-völgyben helyezkedik el.",
+        "Gyakran emlegetik a régió 'magtáraként'.",
+        "A helyi gazdaság alapja a rizs-, bab- és kukoricatermesztés.",
+        "Az Otoro-folyó biztosítja a hatalmas földek öntözését.",
+        "Jelentős kereskedelmi csomópont Intibucá és Comayagua között.",
+        "A lakosság egy része megőrizte lenca őslakos hagyományait.",
+        "A völgy sík terepe éles kontrasztban áll a megye hegyvidékével."
+      ]
+    },
+    {
+      "id": "proteccion-cities-v2",
+      "descriptionAdvanced": "Protección egy magaslati, fenyőerdőkkel övezett kisváros Santa Bárbara megye nyugati peremén. A települést a 19. század végén alapították a szomszédos guatemalai és El Salvador-i területekről érkező kávétermelők, akik a termékeny hegyoldalakat és a kiváló mikroklímát keresték. Ma Protección Santa Bárbara megye egyik prémium kávétermelő régiója, a helyi lakosság túlnyomó többsége a kávéültetvények gondozásával, szüretelésével és feldolgozásával foglalkozik. A város nevének („Védelem”) eredete egy helyi legendához kötődik, miszerint az alapítók itt találtak menedéket a zord hegyi időjárás elől. Csendes, hagyományos vidéki életforma jellemzi, ahonnan csodálatos kilátás nyílik a környező zöldellő hegyvonulatokra. Földrajz K8 — hegyvidéki kávétermesztés.",
+      "factsAdvanced": [
+        "Santa Bárbara megye nyugati hegyvidékein fekszik.",
+        "A város nevét ('Védelem') a menedéket nyújtó földrajzi elhelyezkedés adta.",
+        "A 19. században alapították kávétermelő bevándorlók.",
+        "Gazdasága szinte teljes egészében a prémium kávétermesztésre épül.",
+        "Hűvös mikroklímával és sűrű fenyőerdőkkel rendelkezik.",
+        "A lakosok jelentős része kistermelői kávéfarmokon dolgozik.",
+        "Nagymértékben megőrizte hagyományos, elszigetelt falusi jellegét."
+      ]
+    },
+    {
+      "id": "san-ignacio-cities-v2",
+      "descriptionAdvanced": "San Ignacio egy békés mezőgazdasági és bányászati település Francisco Morazán megye északi részén, a Siria-völgy területén. A város nevét Loyolai Szent Ignácról kapta. Bár hagyományosan állattenyésztésből és kukoricatermesztésből élt, San Ignacio az utóbbi évtizedekben az arany- és ezüstbányászat miatt került az országos figyelem középpontjába, ami jelentős környezetvédelmi vitákat és társadalmi feszültségeket generált a helyi közösség és a bányavállalatok között. A bányászat leállása után a város lassan visszatér a mezőgazdasági gyökereihez, különös tekintettel a méhészetre és az erdőgazdálkodásra. A települést tölgy- és fenyőerdők, valamint kisebb hegyi patakok övezik. Földrajz K8 — környezetvédelem és bányászat.",
+      "factsAdvanced": [
+        "Francisco Morazán megye északi részén, a Siria-völgyben helyezkedik el.",
+        "Nevét a jezsuita rend alapítójáról, Loyolai Szent Ignácról kapta.",
+        "Korábban jelentős arany- és ezüstbányászati központ volt.",
+        "A nyílt színi bányászat komoly környezetvédelmi vitákat váltott ki.",
+        "Gazdasága ma a méhészetre, állattenyésztésre és erdészetre fókuszál.",
+        "A bányászat befejezése után a természet regenerálódása folyamatban van.",
+        "A helyi közösség aktív az ökológiai helyreállítási projektekben."
+      ]
+    },
+    {
+      "id": "aramecina-cities-v2",
+      "descriptionAdvanced": "Aramecina egy ősi, festői kisváros Valle megyében, a Goascorán-folyó és az El Salvador-i határ közelében. A település neve a lenca nyelvből származik, jelentése „a kis szarvasok folyója”. A spanyol hódítás idején alapított városka megőrizte gyarmati építészeti stílusát, beleértve a macskaköves utcákat és a történelmi Santa Aurora templomot. Aramecina klímája meleg és száraz, gazdasága a szarvasmarha-tenyésztésre, valamint a szárazságtűrő növények, például a cirok, a szezám és a dinnye termesztésére épül. A város hírnevét történelmi jelentősége is adja: itt született a neves hondurasi tábornok és politikus, Terencio Sierra. Aramecina csendes menedék a forró déli régióban. Földrajz K7 — gyarmati falvak.",
+      "factsAdvanced": [
+        "Valle megyében, az El Salvador-i határ mellett található.",
+        "Neve a lenca nyelvből ered, jelentése 'a kis szarvasok folyója'.",
+        "A város gyarmati stílusú Santa Aurora templomáról ismert.",
+        "Gazdaságának gerincét az állattenyésztés és a szezámtermesztés adja.",
+        "A forró, száraz klíma jellemzi a települést.",
+        "Itt született Terencio Sierra, egykori hondurasi elnök.",
+        "Építészete tradicionális, fehér vályogházakkal és cseréptetőkkel."
+      ]
+    },
+    {
+      "id": "san-agustin-cities-v2",
+      "descriptionAdvanced": "San Agustín egy magas hegyekkel körülvett, történelmi kávétermelő város Copán megyében, Honduras nyugati részén. A települést még a 16. században alapították a spanyol hódítók, és az elmúlt évszázadok során megőrizte békés, hagyományos andoki-jellegű falusi karakterét. A meredek hegyoldalakon fekvő városka gazdasága szinte kizárólag a minőségi, árnyékban termesztett kávéra, valamint a kardamomra és az önellátó kukoricatermesztésre épül. A város kulturálisan gazdag, a lakosság egy része a chortí maja őslakos közösséghez tartozik. San Agustín elszigeteltsége ellenére népszerű a hátizsákos turisták és a kávé szerelmesei körében, akik a közeli Copán Ruinas felől érkezve keresnek autentikus élményeket. Földrajz K8 — hegyvidéki agrárium.",
+      "factsAdvanced": [
+        "Copán megye magas hegyvidéki régiójában fekszik.",
+        "A 16. században alapították, gazdag gyarmati múltra tekint vissza.",
+        "A lakosság egy része a chortí maja őslakos népcsoporthoz tartozik.",
+        "Gazdaságának alapja az árnyékban termesztett prémium kávé.",
+        "A kávé mellett a kardamom termesztése is egyre jelentősebb.",
+        "A település rendkívül meredek terepen épült.",
+        "Közelsége a Copán romokhoz növeli az agroturizmus potenciálját."
+      ]
+    },
+    {
+      "id": "guaimaca-cities-v2",
+      "descriptionAdvanced": "Guaimaca egy lendületes mezőgazdasági és faipari város Francisco Morazán megyében, a Tegucigalpát Olancho megyével összekötő forgalmas főútvonal mentén. A várost hatalmas, kiterjedt fenyőerdők veszik körül, amelyek Honduras egyik legfontosabb fakitermelő és fa-feldolgozó központjává tették. Guaimaca völgyének termékeny talaja emellett ideális a kávé, a bab, a cukornád és a kukorica termesztésére, így a település gazdaságilag rendkívül stabil. A lakosság gyorsan növekszik az ipari és kereskedelmi lehetőségek miatt, a városképet pedig egyaránt formálják a modern fűrésztelepek és a hagyományos helyi piacok. A város történelmi központja a 19. században épült ki a jelenlegi formájában, és máig a regionális kereskedelem lüktető szíve. Földrajz K7 — erdőgazdálkodás.",
+      "factsAdvanced": [
+        "Francisco Morazán megye egyik legdinamikusabb gazdasági központja.",
+        "Hatalmas fenyőerdők veszik körül, az ország faiparának egyik bázisa.",
+        "A Tegucigalpa-Olancho főútvonal mentén fekszik, stratégiai helyen.",
+        "A fakitermelés mellett jelentős a kávé- és gabonatermesztés.",
+        "Több nagyméretű modern fűrésztelep és asztalosüzem működik itt.",
+        "Jelentős kereskedelmi elosztóközpont a keleti megyék felé.",
+        "Gyors demográfiai növekedést tapasztal a munkalehetőségek miatt."
+      ]
+    },
+    {
+      "id": "campamento-cities-v2",
+      "descriptionAdvanced": "Campamento egy festői hegyvidéki település Olancho megye bejáratánál, amelyet gyakran a \"Olancho kapujának\" is neveznek. Neve abból a történelmi tényből ered, hogy a falu a fakitermelők és a kereskedők táborhelyeként („campamento”) szolgált a sűrű erdőkön átvezető hosszú utazások során. Ma a város Honduras egyik legkiválóbb kávétermelő vidéke, amelyet a magas tengerszint feletti magasság és a bőséges csapadék tesz lehetővé. A faipar továbbra is jelen van, de a gazdaság egyre inkább a minőségi kávéra és a szarvasmarha-tenyésztésre fókuszál. Campamento környéke természeti szépségekben gazdag, a sűrű fenyvesek és a tiszta vizű hegyi patakok ideális feltételeket teremtenek a fejlődő ökoturizmus számára. Földrajz K8 — kapuvárosok.",
+      "factsAdvanced": [
+        "Olancho megye nyugati határán fekszik, az 'Olancho kapuja'.",
+        "Neve az egykori kereskedelmi és fakitermelő táborokra utal.",
+        "Honduras egyik elismert, magas minőségű kávétermelő területe.",
+        "Gazdasága az erdőgazdálkodásra, kávéra és állattenyésztésre épül.",
+        "Hűvös éghajlata és fenyőerdei népszerűek a belföldi turisták körében.",
+        "A város gyors ütemben fejlődik a közúti infrastruktúra javulásával.",
+        "Bőséges vízforrásai és hegyi patakjai vannak."
+      ]
+    },
+    {
+      "id": "santo-domingo-savio-cities-v2",
+      "descriptionAdvanced": "Santo Domingo Savio, bár közigazgatásilag gyakran nagyobb egységekhez, például Santa Rosa de Copán vonzáskörzetéhez sorolják, egy feltörekvő és dinamikus lakó- és mezőgazdasági terület Nyugat-Hondurasban. A település vagy városrész nevét Savio Szent Domonkosról, a fiatalok védőszentjéről kapta, és a közösség oktatási intézmények, valamint vallási központok köré szerveződött. Gazdaságilag szorosan kapcsolódik a szomszédos városok kávékereskedelméhez és szolgáltató szektorához, lakói gyakran ingáznak, miközben a peremterületeken kistermelői gazdálkodást folytatnak. Az infrastruktúra fejlesztése, beleértve az új utakat és közösségi tereket, jelentősen modernizálta a területet az elmúlt évtizedben, vonzva a fiatal családokat a hegyvidéki régióba. Földrajz K7 — szuburbanizáció.",
+      "factsAdvanced": [
+        "Nevét Savio Szent Domonkosról, a fiatalok védőszentjéről kapta.",
+        "Szorosan integrálódik a nyugati régió, főként Copán gazdaságába.",
+        "Dinamikusan növekvő lakóövezet fiatal családok számára.",
+        "A lakosok jelentős része a környező városok szolgáltató szektorában dolgozik.",
+        "A peremterületeken fenntartja a kistermelői kávé- és zöldségtermesztést.",
+        "Oktatási és közösségi intézményei vonzóvá teszik a betelepülőknek.",
+        "Az urbanizáció és a hegyvidéki vidék találkozásának tipikus példája."
+      ]
+    },
+    {
+      "id": "corquin-cities-v2",
+      "descriptionAdvanced": "Corquín egy festői történelmi város Copán megye déli részén, amelyet lenyűgöző zöldellő hegyek és a Celaque Nemzeti Park magaslatai ölelnek körbe. A város neve a lenca nyelvből ered, és „a folyó mentén” jelentéssel bír. Corquín elsősorban az országosan és nemzetközileg is elismert, magaslati kávétermesztésről híres, a helyi szövetkezetek rendszeresen nyernek díjakat a minőségi kávészemekért. A település megőrizte varázslatos, macskaköves utcákkal és koloniális stílusú, vályogból épült házakkal teli óvárosát, amely igazi időutazást kínál a látogatóknak. A kávé mellett a helyiek dohánytermesztéssel és kézműves faáruk készítésével is foglalkoznak. A nyugalom és a friss hegyi levegő miatt egyre népszerűbb a belföldi turisták körében. Földrajz K8 — hegyvidéki kávé.",
+      "factsAdvanced": [
+        "Copán megye déli részén, a Celaque Nemzeti Park közelében található.",
+        "Neve lenca eredetű, jelentése 'a folyó mentén'.",
+        "A hondurasi prémium, magaslati kávétermesztés egyik központja.",
+        "Történelmi óvárosa megőrizte a macskaköves, gyarmati arculatát.",
+        "A helyi kávészövetkezetek nemzetközi elismerésekkel rendelkeznek.",
+        "Klíma hűvös és csapadékos, ideális az Arabica cserjéknek.",
+        "A lakosság egy része kézműves faiparral is foglalkozik."
+      ]
+    },
+    {
+      "id": "el-paraiso-cities-v2",
+      "descriptionAdvanced": "El Paraíso az azonos nevű, El Paraíso megye kulcsfontosságú városa Honduras keleti részén, mindössze 15 kilométerre a Las Manos nicaraguai határátkelőtől. Stratégiai fekvése miatt az ország egyik legfontosabb nemzetközi kereskedelmi csomópontja, de a város igazi hírnevét a világszínvonalú kávé- és dohánytermesztés adja. Az El Paraíso-i szivarok nemzetközi szinten is a legmagasabb minőséget képviselik, a környező ültetvényeken pedig magaslati kávét szüretelnek. A város nevét („A Paradicsom”) a buja zöld tájak és a kellemes, enyhén hűvös mikroklíma inspirálta. A helyiek büszkék gazdag agrártörténelmükre, amelyet évente fesztiválokkal ünnepelnek meg, a település pedig folyamatosan növekszik az erős exportágazatnak köszönhetően. Földrajz K8 — agrárexport és határvárosok.",
+      "factsAdvanced": [
+        "El Paraíso megye keleti határvárosa Nicaraguával.",
+        "A Las Manos határátkelő közelsége miatt fontos kereskedelmi útvonal.",
+        "Világhírű a prémium szivargyártásról és dohánytermesztésről.",
+        "A környező dombokon kiváló minőségű kávét szüretelnek.",
+        "Neve 'A Paradicsom', utalva a termékeny és buja zöld tájra.",
+        "Gazdasága export-orientált (kávé, dohány, mezőgazdasági termékek).",
+        "Kulturálisan gazdag, évente megrendezik a helyi kávéfesztivált."
+      ]
+    },
+    {
+      "id": "santa-cruz-de-yojoa-cities-v2",
+      "descriptionAdvanced": "Santa Cruz de Yojoa egy dinamikus és turisztikailag kiemelkedő város Cortés megyében, a híres Yojoa-tó keleti partvidékének közelében. A város kiváló elhelyezkedése a Pánamerikai főútvonal és a tó között ideális bázissá teszi a természeti látványosságok, köztük a Pulhapanzak-vízesés és a Cerro Azul Meámbar Nemzeti Park felfedezéséhez. A gazdaság hagyományosan a kávé-, ananász- és cukornádtermesztésre épült, de mára a tóhoz és a vízesésekhez kapcsolódó ökoturizmus, valamint az akvakultúra (tilápiatenyésztés) vette át a vezető szerepet. Santa Cruz de Yojoa emellett energiaközpont is, mivel a közeli Francisco Morazán (El Cajón) vízerőmű gátja Honduras áramellátásának jelentős részét biztosítja. A város lendületesen fejlődik, ötvözve a vidéki bájt a modern infrastrukturával. Földrajz K8 — tavak és energia.",
+      "factsAdvanced": [
+        "Cortés megyében, a Yojoa-tó keleti partjának közelében fekszik.",
+        "Közvetlen bázis a Pulhapanzak-vízesés és a környező nemzeti parkok felé.",
+        "A közelben található a Francisco Morazán (El Cajón) vízerőmű hatalmas gátja.",
+        "A gazdaságban meghatározó a turizmus és a tilápiatenyésztés.",
+        "A mezőgazdaságban az ananász, a kávé és a cukornád dominál.",
+        "Fontos közlekedési csomópont a Pánamerikai főútvonal mentén.",
+        "A város gyors népességnövekedést él át az idegenforgalom miatt."
+      ]
+    },
+    {
+      "id": "azacualpa-cities-v2",
+      "descriptionAdvanced": "Azacualpa egy hegyek között megbúvó, völgyben fekvő város Santa Bárbara megye északnyugati részén, közel a guatemalai határhoz. A város nevét az azték nahuatl nyelvből eredeztetik, ami „piramisoknál” vagy „elhagyott falunál” jelenthet. A gazdaság alapját a kávétermesztés, a szarvasmarha-tenyésztés és az intenzív mezőgazdaság adja, mely utóbbit a területen átfolyó folyók öntözővize teszi lehetővé. Azacualpa jelentős bányászati múlttal is rendelkezik, különösen az antimon és az arany kitermelése révén a San Andrés bányában, amely hosszú éveken át az ország egyik legnagyobb nyíltszíni bányája volt, bár jelentős környezeti aggályokat is felvetett. A város társadalma ma az agrárhagyományok megőrzésére és a bányászat utáni ökológiai helyreállításra fókuszál. Földrajz K7 — bányászat és határok.",
+      "factsAdvanced": [
+        "Santa Bárbara megye északnyugati részén, közel Guatemalához található.",
+        "Neve nahuatl eredetű, ősi elhagyatott településekre utal.",
+        "Történelmileg az ország egyik legfontosabb aranybányászati központja (San Andrés).",
+        "A nyíltszíni bányászat komoly ökológiai és társadalmi vitákat generált.",
+        "Gazdasága ma nagyrészt a kávé- és gabonatermesztésre támaszkodik.",
+        "Völgyben fekszik, amelyet magas hegycsúcsok ölelnek körbe.",
+        "A helyi közösség a fenntartható agrárium felé fordul."
+      ]
+    },
+    {
+      "id": "san-manuel-cities-v2",
+      "descriptionAdvanced": "San Manuel egy kiterjedt mezőgazdasági és ipari város Cortés megyében, a Sula-völgy (Valle de Sula) keleti részén, az Ulúa-folyó partján. A város a történelmi banánköztársaság-korszak egyik fontos helyszíne volt, azonban a banánültetvényeket az elmúlt évtizedekben nagyrészt felváltották a végtelen, horizontig érő cukornád- és afrikai pálma ültetvények. San Manuelben működik Honduras egyik legnagyobb cukorfinomítója, a Compañía Azucarera Hondureña (CAHSA), amely a helyi gazdaság legfőbb motorja és munkaadója. A sík, termékeny alluviális talaj rendkívül magas hozamokat biztosít, ugyanakkor a várost a hurrikánszezon idején rendszeresen fenyegeti az Ulúa-folyó áradása. A település San Pedro Sula közelsége miatt egyre inkább lakóövezeti külvárosként is funkcionál. Földrajz K8 — agráripar.",
+      "factsAdvanced": [
+        "Cortés megyében, a termékeny Sula-völgyben helyezkedik el.",
+        "Közvetlenül a nagyhozamú Ulúa-folyó partján fekszik.",
+        "Honduras egyik legfontosabb cukornád- és cukoripari központja.",
+        "Itt található a CAHSA, az ország egyik legnagyobb cukorfinomítója.",
+        "Hatalmas afrikai pálma ültetvények veszik körül a várost.",
+        "Sík fekvése miatt különösen kitett az esős évszak áradásainak.",
+        "San Pedro Sula ipari agglomerációjának szerves részét képezi."
+      ]
+    },
+    {
+      "id": "florida-cities-v2",
+      "descriptionAdvanced": "Florida egy gazdag történelmi múlttal rendelkező mezőgazdasági város Copán megye északi részén, a guatemalai határ közelében. A várost a 19. század közepén alapították, neve pedig a terület buja, \"virágzó\" növényzetére utal. Florida a hondurasi kávé és dohány egyik legfontosabb bölcsője; a környező hegyoldalakon termesztett prémium dohányt a közeli Santa Rosa de Copán szivargyáraiban dolgozzák fel. A város stratégiai elhelyezkedése miatt régóta fontos kereskedelmi csomópont a két ország között. Építészete a spanyol gyarmati stílust tükrözi, a központi parkot pedig hatalmas, ősi fák árnyékolják. A helyiek büszkék lovas hagyományaikra, és a város rendszeresen ad otthont nagyszabású mezőgazdasági és lovas fesztiváloknak (ferias). Földrajz K7 — mezőgazdasági hagyományok.",
+      "factsAdvanced": [
+        "Copán megye északi részén, a guatemalai határhoz közel fekszik.",
+        "Neve ('Virágzó') a környék rendkívül gazdag flórájára utal.",
+        "A magas minőségű dohány- és kávétermesztés egyik központja.",
+        "Stratégiai fontosságú történelmi kereskedelmi útvonal a határon.",
+        "A helyi dohányt gyakran a híres hondurasi szivarokhoz használják.",
+        "Élénk lovas hagyományokkal és éves mezőgazdasági vásárokkal rendelkezik.",
+        "Megőrizte nyugodt, hagyományos andoki-karibi vidéki jellegét."
+      ]
+    },
+    {
+      "id": "san-francisco-de-la-paz-cities-v2",
+      "descriptionAdvanced": "San Francisco de la Paz történelmi hegyvidéki város Olancho megye szívében, amely a régió egyik legfontosabb kulturális és mezőgazdasági csomópontja. A várost eredetileg San Francisco de Zapote néven ismerték, később kapta a \"de la Paz\" (A Béke) utótagot a helyi fegyveres konfliktusok lezárásának emlékére. A város mélyen gyökerezik az állattenyésztő, 'olanchoi' lovas kultúrában (cultura olanchana), ahol a marhatartás, a tejfeldolgozás és a kávétermesztés adja a mindennapi élet ritmusát. A település híres a kiváló minőségű kézműves sajtjairól és a pazar lovas felvonulásokról. A környező sűrű fenyőerdők és a hegyi klíma miatt a falu turisztikai vonzereje is egyre nő, békés menedéket kínálva a nyüzsgő nagyobb városok elől. Földrajz K8 — állattenyésztés.",
+      "factsAdvanced": [
+        "Olancho megye középső, hegyvidéki területén helyezkedik el.",
+        "Nevében a 'Béke' szó a történelmi helyi konfliktusok lezárására utal.",
+        "Az olanchoi lovas- és állattenyésztő kultúra egyik bástyája.",
+        "Országszerte elismert a kiváló minőségű helyi sajtok és tejtermékek miatt.",
+        "Gazdaságát a szarvasmarha, a kávé és az erdőgazdálkodás dominálja.",
+        "A város gyakran ad otthont tradicionális lovas felvonulásoknak.",
+        "Hűvös klímája és fenyőerdei egyre több belföldi turistát vonzanak."
+      ]
+    },
+    {
+      "id": "belen-gualcho-cities-v2",
+      "descriptionAdvanced": "Belén Gualcho egy lenyűgöző, magasan a felhők között fekvő ősi falu Ocotepeque megyében, amely a Celaque Nemzeti Park hatalmas hegyvonulatain fekszik. A falu az egyik legrégebbi és legérintetlenebb lenca őslakos település Hondurasban. Nevének eredete részben spanyol (Betlehem), részben lenca, ami „a sok tölgyfa helyét” jelenti. A falu főterén egy egyedülálló, faoszlopokkal támasztott, háromkupolás gyarmati templom áll, amely a 18. századból származik, és építészeti ritkaságnak számít Közép-Amerikában. A rendkívül meredek, teraszosított domboldalakon a lakosok hagyományos módszerekkel kávét, búzát, almát és őszibarackot termesztenek. A vasárnapi piac színes kavalkádja, ahol a helyiek cserekereskedelmet folytatnak, felbecsülhetetlen kulturális élmény. Földrajz K8 — őslakos hegyvidékek.",
+      "factsAdvanced": [
+        "Ocotepeque megye extrém magaslati régiójában épült fel.",
+        "Az ország egyik legautentikusabb lenca őslakos települése.",
+        "Központjában egy ritka, 18. századi, háromkupolás faoszlopos templom áll.",
+        "Meredek, teraszos hegyoldalakon termesztik a kávét és a gyümölcsöket.",
+        "Hűvös éghajlata kedvez az alma, őszibarack és búza termesztésének.",
+        "A vasárnapi piacon ma is él a hagyományos lenca cserekereskedelem.",
+        "Nevének lenca része 'a sok tölgyfa helyét' jelenti."
+      ]
+    },
+    {
+      "id": "san-antonio-de-cortes-cities-v2",
+      "descriptionAdvanced": "San Antonio de Cortés egy hegyvidéki kisváros Cortés megyében, amely meredek sziklákon épült, lenyűgöző panorámát nyújtva az alatta elterülő hatalmas Sula-völgyre. A település meredek, kanyargós utcái miatt az ország egyik legkülönlegesebb fekvésű városa. San Antonio gazdasága évszázadok óta a kiváló minőségű magaslati kávétermesztésre épül, a helyi klíma és a vulkanikus talaj tökéletes feltételeket biztosít a növény számára. Emellett az erdőgazdálkodás és a kistermelői állattenyésztés is jelen van. A város egyre népszerűbb a kalandturisták körében, akik a közeli vízeséseket és a sűrű dzsungellel borított hegyi ösvényeket fedezik fel. Bár a nagy ipari központok (mint San Pedro Sula) közel vannak, a város megőrizte csendes, vidéki menedék jellegét. Földrajz K7 — domborzat.",
+      "factsAdvanced": [
+        "Cortés megye hegyvidéki részén, sziklákra épült település.",
+        "Kivételes panorámát kínál a hatalmas Sula-völgyre.",
+        "Meredek utcái és hegyvidéki fekvése egyedi városképet adnak.",
+        "Gazdasága a prémium kávétermesztésre és az erdészetre fókuszál.",
+        "Hűvös klímája éles kontrasztot alkot az alatta lévő forró völggyel.",
+        "A közeli hegyekben számos felfedezetlen vízesés található.",
+        "Megőrizte vidéki karakterét a közeli ipari központok ellenére."
+      ]
+    },
+    {
+      "id": "quimistan-cities-v2",
+      "descriptionAdvanced": "Quimistán egy kiterjedt és gazdaságilag sokszínű város Santa Bárbara megye északi részén, amely az ország egyik legfontosabb völgyének, a Quimistán-völgynek a központja. A várost átszeli a Pánamerikai főútvonal nyugati ága, amely stratégiai kereskedelmi hidat képez San Pedro Sula és a guatemalai határ között. Quimistán gazdasága figyelemre méltóan diverzifikált: a hagyományos kávé- és dohánytermesztés mellett hatalmas kiterjedésű cukornádültetvények, pálmaolaj-finomítók és egyre növekvő számú maquiladora (textilipari) üzem is működik a térségben. A város nevét az őslakos nyelvből kapta, jelentése „a rágcsálók helye”. Gazdasági ereje és kiváló közlekedési hálózata miatt Santa Bárbara megye egyik leggyorsabban fejlődő települése. Földrajz K8 — diverzifikált gazdaság.",
+      "factsAdvanced": [
+        "Santa Bárbara megye északi, lapos völgyi régiójában fekszik.",
+        "A San Pedro Sulát a guatemalai határral összekötő főút mentén épült.",
+        "Gazdasága sokrétű: cukornád, pálmaolaj, kávé és dohánytermesztés.",
+        "Egyre több ipari park (maquiladora) települ a város térségébe.",
+        "Nevének őslakos jelentése 'a rágcsálók (agutik) helye'.",
+        "A Chamelecón-folyó völgye biztosítja a mezőgazdaság vízigényét.",
+        "Santa Bárbara megye egyik legnagyobb és leginkább urbanizálódó települése."
+      ]
+    },
+    {
+      "id": "iriona-cities-v2",
+      "descriptionAdvanced": "Iriona a hatalmas és ritkán lakott Colón megye legkeletibb, hatalmas kiterjedésű önkormányzata, amely az ország egyik legelszigeteltebb régiójában, a Karib-tenger partján fekszik. A terület nagyrészt érintetlen trópusi esőerdőkből, mocsarakból és folyótorkolatokból áll, és közvetlenül határos a La Mosquitia régióval, így a Río Plátano Bioszféra Rezervátum jelentős része is ide tartozik. Iriona lakossága többnyire garifuna, miszkító, pech őslakosokból és ladino telepesekből áll, akik elsősorban halászatból, homárgyűjtésből és kistermelői mezőgazdaságból élnek. A régió nehezen megközelíthető, úthálózata fejletlen, így a hajózás és a csónakok jelentik a fő közlekedési módot. Iriona Honduras egyik legfontosabb ökológiai kincsesbányája, ahol a modern világ hatásai még alig érezhetők. Földrajz K8 — biodiverzitás és elzártság.",
+      "factsAdvanced": [
+        "Colón megye legkeletibb és legelszigeteltebb önkormányzata.",
+        "Közvetlen kapu a La Mosquitia régióhoz és a Río Plátano Rezervátumhoz.",
+        "Lakossága rendkívül sokszínű: garifuna, miszkító, pech és ladino közösségek.",
+        "Közúti hálózata hiányos, a közlekedés leginkább vízi úton történik.",
+        "Gazdasága a halászatra, homárgyűjtésre és kistermelői gazdálkodásra épül.",
+        "Területének nagy részét érintetlen trópusi esőerdő és mangrove borítja.",
+        "Honduras egyik legnagyobb ökológiai értékkel bíró települése."
+      ]
+    }
+  ]
+}

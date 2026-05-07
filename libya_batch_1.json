@@ -1,0 +1,117 @@
+[
+  {
+    "id": "misrata-cities-v2",
+    "name": "Misrata",
+    "desc": "Major port and industrial city in Tripolitania, known for its economic influence."
+  },
+  {
+    "id": "bayda-cities-v2",
+    "name": "Al Bayda",
+    "desc": "One of the key cities in the Green Mountains, surrounded by fertile agricultural land."
+  },
+  {
+    "id": "zawiya-cities-v2",
+    "name": "Zawiya",
+    "desc": "A major city west of the capital featuring a highly developed petroleum industry."
+  },
+  {
+    "id": "zliten-cities-v2",
+    "name": "Zliten",
+    "desc": "Coastal city on the Mediterranean, famous for its Islamic educational centers and mosques."
+  },
+  {
+    "id": "sirte-cities-v2",
+    "name": "Sirte",
+    "desc": "A strategically located city in the middle of the Libyan coastline on the Gulf of Sirte."
+  },
+  {
+    "id": "tobruk-cities-v2",
+    "name": "Tobruk",
+    "desc": "Important port city near the Egyptian border, featuring a deep natural harbor."
+  },
+  {
+    "id": "ajdabiya-cities-v2",
+    "name": "Ajdabiya",
+    "desc": "A central crossroads connecting the coastal region with the desert hinterland."
+  },
+  {
+    "id": "derna-cities-v2",
+    "name": "Derna",
+    "desc": "A picturesque eastern city known for its green surroundings and water springs."
+  },
+  {
+    "id": "sabha-cities-v2",
+    "name": "Sabha",
+    "desc": "The largest city in the Fezzan region and the historical center of the southwest."
+  },
+  {
+    "id": "khoms-cities-v2",
+    "name": "Khoms",
+    "desc": "A coastal city east of Tripoli, in close proximity to the ruins of Leptis Magna."
+  },
+  {
+    "id": "bani-walid-cities-v2",
+    "name": "Bani Walid",
+    "desc": "Centrally located in a desert valley, it is the stronghold of the Warfalla tribe."
+  },
+  {
+    "id": "kufra-cities-v2",
+    "name": "Al Jawf (Kufra)",
+    "desc": "One of the most isolated cities in the world, located in a massive desert oasis."
+  },
+  {
+    "id": "marj-cities-v2",
+    "name": "Marj",
+    "desc": "An agricultural city built upon the ruins of the ancient settlement of Barca."
+  },
+  {
+    "id": "tarhuna-cities-v2",
+    "name": "Tarhuna",
+    "desc": "A high-altitude agricultural city renowned for its vast olive groves."
+  },
+  {
+    "id": "zuwara-cities-v2",
+    "name": "Zuwara",
+    "desc": "Small port city in the northwest where traditional Berber culture is still maintained."
+  },
+  {
+    "id": "gharyan-cities-v2",
+    "name": "Gharyan",
+    "desc": "Central mountain city in the Nafusa Mountains, famous for its underground cave dwellings."
+  },
+  {
+    "id": "sabratha-cities-v2",
+    "name": "Sabratha",
+    "desc": "Modern coastal city located directly adjacent to an important ancient theater."
+  },
+  {
+    "id": "al-jamil-cities-v2",
+    "name": "Al Jamil",
+    "desc": "A growing city in the western part of the country, near the Tunisian border."
+  },
+  {
+    "id": "surman-cities-v2",
+    "name": "Surman",
+    "desc": "A quiet coastal community nestled between Zawiya and Sabratha."
+  },
+  {
+    "id": "yefren-cities-v2",
+    "name": "Yefren",
+    "desc": "A significant mountain town deeply rooted in the traditions of Berber culture."
+  },
+  {
+    "id": "nalut-cities-v2",
+    "name": "Nalut",
+    "desc": "The westernmost major town of the mountain region, known for its well-preserved ancient granary."
+  },
+  {
+    "id": "murzuq-cities-v2",
+    "name": "Murzuq",
+    "desc": "An oasis town deep in the southwest, once a major center of the trans-Saharan trade."
+  },
+  {
+    "id": "awbari-cities-v2",
+    "name": "Awbari (Ubari)",
+    "desc": "An important hub in the Sahara, famous for the surrounding sand dunes and lakes."
+  }
+]

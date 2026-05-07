@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "raleigh-cities-v2",
+      "descriptionAdvanced": "Raleigh is the capital city of North Carolina and one of the fastest-growing cities in the United States. Often referred to as the 'City of Oaks' due to its extensive oak tree canopy, Raleigh is geographically situated in the Piedmont region. Its economy is overwhelmingly driven by its proximity to the Research Triangle Park (RTP), one of the largest and most prominent high-tech research and development parks in the country. The presence of major universities—including North Carolina State University within the city, and nearby Duke University and UNC Chapel Hill—fosters a highly educated workforce that sustains massive biotechnology, pharmaceutical, and technology sectors. The city was meticulously planned in 1792 specifically to serve as the state capital. Geography K7 — research clusters and planned capitals.",
+      "factsAdvanced": [
+        "Raleigh was named after Sir Walter Raleigh, who sponsored the 'Lost Colony' of Roanoke.",
+        "The Research Triangle Park, located near Raleigh, covers 7,000 acres and houses hundreds of companies.",
+        "The city's street grid was originally laid out by William Christmas based on Thomas Holme's plan for Philadelphia.",
+        "North Carolina State University is the largest university in the Carolinas by enrollment.",
+        "Raleigh consistently ranks among the top US cities for the highest percentage of residents with college degrees.",
+        "The North Carolina State Capitol building features a distinct copper dome and neoclassical architecture."
+      ]
+    },
+    {
+      "id": "omaha-cities-v2",
+      "descriptionAdvanced": "Omaha, the largest city in Nebraska, is located on the western bank of the Missouri River, acting as a historical gateway to the American West. Founded in 1854 by speculators across the river from Council Bluffs, Iowa, Omaha rapidly developed into a massive transportation and meatpacking hub. While the massive stockyards of the 20th century have declined, Omaha has robustly diversified its economy into finance, telecommunications, and insurance. The city is globally recognized as the headquarters of Berkshire Hathaway, led by renowned investor Warren Buffett. Omaha's cultural landscape includes the historic Old Market district and the widely acclaimed Henry Doorly Zoo, a pioneer in immersive habitat design. Geography K7 — river settlements and economic diversification.",
+      "factsAdvanced": [
+        "The Union Pacific Railroad began building the First Transcontinental Railroad westward from Omaha in 1863.",
+        "Omaha's Henry Doorly Zoo features the world's largest indoor desert under a massive geodesic dome.",
+        "The city hosts the College World Series, the annual championship tournament of NCAA Division I baseball.",
+        "During the late 19th and early 20th centuries, Omaha possessed the largest meatpacking plant complex in the world.",
+        "Berkshire Hathaway's annual shareholder meeting in Omaha regularly draws over 40,000 attendees.",
+        "Boys Town, founded near Omaha in 1917, is a famous historic center for troubled youth."
+      ]
+    },
+    {
+      "id": "miami-cities-v2",
+      "descriptionAdvanced": "Miami is a major coastal metropolis in southeastern Florida, uniquely positioned between the Atlantic Ocean and the Everglades. The city is globally renowned as the 'Capital of Latin America', characterized by a profound cultural and linguistic Hispanic influence, particularly from a large Cuban-American population centered in neighborhoods like Little Havana. Miami serves as a massive international financial and commercial hub connecting the United States to the Caribbean and South America. Its geography makes it uniquely vulnerable to sea-level rise and hurricanes. The city's skyline is one of the largest in the US, defined by towering coastal condominiums, while the adjacent Miami Beach is famous for its preserved Art Deco Historic District and thriving tourism industry. Geography K7 — coastal vulnerability and cultural crossroads.",
+      "factsAdvanced": [
+        "Miami is the only major United States city founded by a woman, Julia Tuttle.",
+        "PortMiami is frequently recognized as the 'Cruise Capital of the World', serving millions of passengers annually.",
+        "The Art Deco Historic District in Miami Beach features the world's largest concentration of 1920s and 1930s resort architecture.",
+        "Miami is surrounded by two national parks: Everglades National Park and Biscayne National Park.",
+        "Spanish is spoken by over 60 percent of the residents in the Miami metropolitan area.",
+        "The city possesses one of the largest international banking hubs in the United States, concentrated in Brickell."
+      ]
+    },
+    {
+      "id": "oakland-cities-v2",
+      "descriptionAdvanced": "Oakland, situated on the eastern shore of San Francisco Bay, is a major port city and a critical component of the Bay Area's economy. The Port of Oakland is the busiest port in Northern California and a vital logistical link for agricultural exports from the Central Valley to the Pacific Rim. Oakland has a distinct, fiercely independent cultural identity compared to neighboring San Francisco, and historically played a profound role in the Civil Rights Movement as the birthplace of the Black Panther Party in 1966. The city features diverse topography, transitioning from industrial flatlands along the bay to steep, forested hills that overlook the metropolitan region. Oakland is also a major transportation nexus, hosting several interstate highways and the western terminus of the transcontinental railway. History K8 — social movements and bay area logistics.",
+      "factsAdvanced": [
+        "The Port of Oakland was one of the first ports in the world to heavily invest in container shipping technology.",
+        "Lake Merritt, a large tidal lagoon located east of downtown, was the United States' first official wildlife refuge.",
+        "The Black Panther Party for Self-Defense was founded in Oakland by Huey Newton and Bobby Seale in 1966.",
+        "Oakland's city limits include Redwood Regional Park, which preserves a large grove of coast redwoods.",
+        "The city was severely impacted by the 1989 Loma Prieta earthquake, which collapsed a portion of the Cypress Street Viaduct.",
+        "Oakland operates as a major hub for Kaiser Permanente, one of the nation's largest healthcare providers."
+      ]
+    },
+    {
+      "id": "minneapolis-cities-v2",
+      "descriptionAdvanced": "Minneapolis is the largest city in Minnesota, forming the western half of the 'Twin Cities' alongside the state capital, St. Paul. Located on the banks of the Mississippi River, the city's early, explosive growth was powered by the Falls of St. Anthony, which drove immense sawmills and flour mills, making Minneapolis the flour-milling capital of the world for several decades. Today, the city boasts a highly diversified economy, serving as the headquarters for major retail, financial, and medical corporations. Minneapolis is uniquely defined by its abundant water features, containing 13 lakes, wetlands, and creeks within city limits, connected by an extensive parkway system. The city also hosts a thriving arts scene, anchored by the Walker Art Center and the Guthrie Theater. Geography K7 — water resources and post-industrial transitions.",
+      "factsAdvanced": [
+        "The Falls of St. Anthony is the only natural major waterfall on the entire Mississippi River.",
+        "The Minneapolis Skyway System connects over 80 city blocks with enclosed pedestrian footbridges to bypass harsh winters.",
+        "General Mills and Pillsbury, massive food corporations, historically originated from the city's flour milling industry.",
+        "The city is home to the first 'modern' enclosed shopping mall in the US, Southdale Center, located in an adjacent suburb.",
+        "Minneapolis consistently ranks highly for its extensive, bicycle-friendly infrastructure and numerous trails.",
+        "The Walker Art Center features the iconic Minneapolis Sculpture Garden and the famous 'Spoonbridge and Cherry' sculpture."
+      ]
+    },
+    {
+      "id": "tulsa-cities-v2",
+      "descriptionAdvanced": "Tulsa is the second-largest city in Oklahoma, situated along the Arkansas River in the northeastern part of the state. During the early 20th century, Tulsa experienced explosive wealth and population growth following major oil discoveries, earning it the title 'Oil Capital of the World'. This immense prosperity funded the construction of a striking downtown core characterized by a remarkably high concentration of preserved Art Deco architecture. The city's history also includes profound tragedy; the 1921 Tulsa Race Massacre devastated the prosperous Greenwood District, often referred to as 'Black Wall Street', an event that deeply impacted the city's cultural trajectory. Today, Tulsa has diversified its economy with significant sectors in aerospace, manufacturing, and technology, while maintaining a strong energy presence. History K8 — oil booms and racial history in America.",
+      "factsAdvanced": [
+        "The 1921 Tulsa Race Massacre is considered one of the worst incidents of racial violence in United States history.",
+        "Tulsa's downtown features an extensive collection of Zigzag and Streamline Moderne Art Deco buildings.",
+        "The discovery of the Glenn Pool oil reserve in 1905 catalyzed Tulsa's transformation into a major petroleum hub.",
+        "The Golden Driller, a 75-foot-tall statue of an oil worker, stands as a prominent symbol of the city's heritage.",
+        "Tulsa operates an inland port via the McClellan-Kerr Arkansas River Navigation System, connecting it to the Mississippi River.",
+        "The city serves as the global headquarters for several major energy and pipeline transportation companies."
+      ]
+    },
+    {
+      "id": "arlington-tx-cities-v2",
+      "descriptionAdvanced": "Arlington is a major city in Texas, strategically located precisely between Dallas and Fort Worth, making it a critical component of the sprawling DFW metroplex. While historically an agricultural center, Arlington transformed rapidly in the mid-20th century due to heavy industrialization, highlighted by the opening of a massive General Motors assembly plant. Today, Arlington is best known as the entertainment and sports epicenter of the region. It hosts AT&T Stadium, the colossal home of the Dallas Cowboys, and Globe Life Field, home of the Texas Rangers. Furthermore, the city is a major destination for amusement parks, originally housing the first-ever Six Flags theme park, Six Flags Over Texas. The city is also home to the expansive University of Texas at Arlington. Geography K6 — suburban commercialization and regional entertainment hubs.",
+      "factsAdvanced": [
+        "AT&T Stadium features one of the largest high-definition video screens in the world, hanging over the center of the field.",
+        "Six Flags Over Texas, opened in Arlington in 1961, was the first park in the Six Flags chain.",
+        "The General Motors Arlington Assembly plant has been operating since 1954 and produces full-size SUVs.",
+        "Arlington is the largest city in the United States without a comprehensive public mass transit system.",
+        "The University of Texas at Arlington is the second-largest institution within the UT System.",
+        "Globe Life Field features a massive retractable roof to shield spectators from the intense Texas summer heat."
+      ]
+    },
+    {
+      "id": "new-orleans-cities-v2",
+      "descriptionAdvanced": "New Orleans is a major United States port and the largest city in Louisiana, located along the Mississippi River near its delta in the Gulf of Mexico. Founded by French colonists in 1718, the city's unique cultural heritage is a profound blend of French, Spanish, African, and Caribbean influences, evident in its distinct Creole and Cajun cuisines, iconic vernacular architecture, and its status as the widely accepted birthplace of jazz music. New Orleans is famous for its vibrant festivals, most notably Mardi Gras. The city's geography is precarious; much of the urban area sits below sea level, protected by a complex system of levees and drainage pumps, a vulnerability tragically exposed during Hurricane Katrina in 2005. Geography K7 — coastal hazards, levees, and cultural blending.",
+      "factsAdvanced": [
+        "The historic French Quarter in New Orleans primarily features architecture constructed during the period of Spanish rule.",
+        "Hurricane Katrina breached the city's levee system in 2005, causing catastrophic flooding in 80 percent of New Orleans.",
+        "The Port of South Louisiana, stretching from New Orleans to Baton Rouge, is the largest volume shipping port in the Western Hemisphere.",
+        "Jazz music originated in the city's African American communities in the late 19th and early 20th centuries.",
+        "Mardi Gras celebrations have been a documented part of New Orleans culture since the 1730s.",
+        "Lake Pontchartrain, bordering the city to the north, is actually a large brackish estuary rather than a true lake."
+      ]
+    },
+    {
+      "id": "wichita-cities-v2",
+      "descriptionAdvanced": "Wichita is the most populous city in Kansas, located on the Arkansas River in the south-central part of the state. Originally established as a trading post on the Chisholm Trail in the 1860s, Wichita grew rapidly as a major destination for cattle drives moving north from Texas. However, the city's modern identity is entirely defined by aviation. In the 1920s and 30s, pioneering companies like Cessna, Beechcraft, and Stearman established manufacturing operations there, earning Wichita the undisputed title 'Air Capital of the World'. Today, it remains a critical global center for aircraft design and manufacturing, heavily supported by specialized engineering programs at local universities and significant defense contracts. Geography K7 — aviation clusters and Great Plains settlements.",
+      "factsAdvanced": [
+        "Clyde Cessna, Walter Beech, and Bill Lear all began their aviation careers or established major companies in Wichita.",
+        "Wichita produces a massive percentage of the world's general aviation and light commercial aircraft.",
+        "McConnell Air Force Base is a major employer and a key installation for aerial refueling operations.",
+        "The city was incorporated in 1870 and named after the Wichita tribe of Native Americans.",
+        "Wichita is home to the original Pizza Hut, which opened as a small brick building in 1958.",
+        "The Keeper of the Plains, a 44-foot steel sculpture of an Indian warrior, is the city's most recognizable landmark."
+      ]
+    },
+    {
+      "id": "cleveland-cities-v2",
+      "descriptionAdvanced": "Cleveland is a major city in northeastern Ohio, located on the southern shore of Lake Erie at the mouth of the Cuyahoga River. A quintessential 'Rust Belt' city, Cleveland experienced massive industrial wealth in the late 19th and early 20th centuries, driven by its strategic location linking the iron ore regions of the upper Great Lakes with coal and railroad networks. Pioneers like John D. Rockefeller founded Standard Oil here, solidifying its economic power. Following significant mid-century deindustrialization and urban decay, Cleveland has actively reinvented itself. Today, it is globally renowned for its healthcare sector, anchored by the prestigious Cleveland Clinic, and a cultural renaissance highlighted by the Rock & Roll Hall of Fame and a vibrant downtown arts district. Geography K7 — Rust Belt transitions and Great Lakes ports.",
+      "factsAdvanced": [
+        "John D. Rockefeller founded the Standard Oil Company in Cleveland in 1870, dominating the global oil market.",
+        "The Cleveland Clinic is consistently ranked as one of the top hospitals in the world, particularly for cardiology.",
+        "The Rock & Roll Hall of Fame, designed by I. M. Pei, opened on the shore of Lake Erie in 1995.",
+        "The infamous 1969 fire on the heavily polluted Cuyahoga River helped spark the creation of the Environmental Protection Agency (EPA).",
+        "Cleveland was the first major American city to elect an African American mayor, Carl Stokes, in 1967.",
+        "The city's extensive 'Emerald Necklace' park system, the Cleveland Metroparks, spans over 24,000 acres."
+      ]
+    },
+    {
+      "id": "tampa-cities-v2",
+      "descriptionAdvanced": "Tampa is a major city on the west coast of Florida, situated along the shores of Tampa Bay near the Gulf of Mexico. The city's early development was deeply influenced by the establishment of the cigar industry in the historic Ybor City neighborhood during the 1880s, driven by an influx of Cuban and Spanish immigrants. Additionally, the arrival of Henry B. Plant's railroad line transformed Tampa into a significant port and tourist destination. Today, the economy is highly diversified, featuring robust sectors in finance, healthcare, and national defense, anchored by MacDill Air Force Base, which hosts the United States Central Command. The Port of Tampa Bay serves as a critical maritime logistics hub for the state. Geography K7 — coastal bays, military geoeconomics, and immigration history.",
+      "factsAdvanced": [
+        "Ybor City was once recognized as the 'Cigar Capital of the World', producing hundreds of millions of cigars annually.",
+        "MacDill Air Force Base in Tampa is the headquarters for two major military commands: CENTCOM and SOCOM.",
+        "The Port of Tampa Bay is the largest port in Florida by physical size and cargo tonnage.",
+        "The city's historic Tampa Bay Hotel, built in 1891 by Henry B. Plant, now houses the University of Tampa.",
+        "Tampa is highly vulnerable to storm surges from Gulf of Mexico hurricanes due to its shallow bay topography.",
+        "Busch Gardens Tampa Bay is a massive African-themed animal theme park and a major regional tourist attraction."
+      ]
+    },
+    {
+      "id": "honolulu-cities-v2",
+      "descriptionAdvanced": "Honolulu is the capital, largest city, and primary gateway to the state of Hawaii, located on the southeastern shore of the island of Oahu. It is a major hub for international business, military defense, and a massive global tourism industry. Honolulu possesses profound historical significance as the capital of the former independent Hawaiian Kingdom, featuring the Iolani Palace, the only royal palace on US soil. The city is also defined by the tragic events of December 7, 1941, when the Japanese attack on Pearl Harbor, located within the city limits, drew the United States into World War II. Honolulu's iconic Waikiki neighborhood features densely packed high-rise hotels along renowned surfing beaches, set against the backdrop of the Diamond Head volcanic crater. History K8 — World War II and the Hawaiian Kingdom.",
+      "factsAdvanced": [
+        "The attack on Pearl Harbor in Honolulu led directly to the United States' entry into World War II.",
+        "Iolani Palace, built in 1882, served as the official residence of the Hawaiian monarchs until the 1893 overthrow.",
+        "Waikiki Beach was a retreat for Hawaiian royalty long before the first large tourist hotels were built in the 1901.",
+        "Joint Base Pearl Harbor-Hickam is one of the most strategic military installations in the Pacific region.",
+        "Diamond Head, a prominent volcanic tuff cone overlooking the city, is a heavily recognized state monument.",
+        "Honolulu is the most remote major city in the world, located over 2,000 miles from the US mainland."
+      ]
+    },
+    {
+      "id": "anaheim-cities-v2",
+      "descriptionAdvanced": "Anaheim is a major city in Orange County, Southern California, forming a significant portion of the Los Angeles metropolitan area. Historically, the area was settled by German immigrants in 1857 who established massive vineyards and a thriving wine industry before a blight destroyed the crops. The city's modern identity was entirely rewritten in 1955 with the opening of Disneyland, envisioned and built by Walt Disney. Today, Anaheim's economy is heavily driven by tourism and conventions; the Disneyland Resort is the largest employer in the city, and the Anaheim Convention Center is the largest exhibition facility on the West Coast. The city also hosts major professional sports franchises, playing in Angel Stadium and the Honda Center. Geography K6 — theme park economies and suburban development.",
+      "factsAdvanced": [
+        "Disneyland opened in Anaheim on July 17, 1955, fundamentally changing the concept of the modern theme park.",
+        "The name 'Anaheim' is a blend of the nearby Santa Ana River and 'heim', the German word for home.",
+        "The Anaheim Convention Center covers over 1.8 million square feet of usable space.",
+        "Prior to Disneyland, Anaheim was a massive producer of oranges and citrus crops.",
+        "Angel Stadium of Anaheim, opened in 1966, is the fourth-oldest active Major League Baseball stadium.",
+        "The city operates its own public utility, Anaheim Public Utilities, providing water and electricity to residents."
+      ]
+    },
+    {
+      "id": "orlando-cities-v2",
+      "descriptionAdvanced": "Orlando is a major city in central Florida, universally recognized as one of the most visited tourist destinations in the world. Historically a hub for the citrus industry, Orlando's trajectory changed permanently in 1971 when Walt Disney announced the construction of the massive Walt Disney World Resort. Today, the Orlando area hosts an unparalleled concentration of colossal theme parks, including Universal Orlando Resort and SeaWorld, drawing tens of millions of global visitors annually. Beyond tourism, Orlando has developed a robust technology sector, particularly in aviation, aerospace, and simulation training, heavily supported by operations near the massive Orlando International Airport and the University of Central Florida, which maintains one of the largest student enrollments in the country. Geography K7 — tourism dominance and simulation technology.",
+      "factsAdvanced": [
+        "Walt Disney World Resort, located near Orlando, covers an astonishing 43 square miles of land.",
+        "Orlando International Airport frequently ranks among the busiest airports in the United States.",
+        "The University of Central Florida was originally founded in 1963 specifically to supply personnel for the nearby Kennedy Space Center.",
+        "Before the theme parks, Orlando was a major center for Florida's multi-million dollar citrus industry.",
+        "The city is a global center for military and commercial simulation and training technologies.",
+        "Orlando is nicknamed 'The City Beautiful' and its official symbol is the Linton E. Allen Memorial Fountain."
+      ]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "descriptionAdvanced": "Pittsburgh is the second-largest city in Pennsylvania, uniquely situated at the confluence of the Allegheny and Monongahela rivers, which form the Ohio River. This strategic location propelled Pittsburgh into an industrial titan during the 19th and 20th centuries, most notably as the undisputed capital of the American steel industry, heavily driven by industrialists like Andrew Carnegie. Following the collapse of the domestic steel industry in the 1980s, which caused severe economic depression, Pittsburgh executed one of the most successful urban reinventations in the US. Today, its robust economy is anchored by healthcare, education, and advanced technology, particularly robotics and artificial intelligence, driven by the presence of Carnegie Mellon University and the University of Pittsburgh. Geography K8 — post-industrial reinvention and river confluences.",
+      "factsAdvanced": [
+        "Pittsburgh is often called 'The City of Bridges' due to its 446 bridges, more than Venice, Italy.",
+        "Andrew Carnegie built a massive steel empire in Pittsburgh, making it the center of American steel production.",
+        "The city's steep topography necessitated the construction of two historic funicular railways, the Duquesne and Monongahela Inclines.",
+        "The Jonas Salk polio vaccine was developed at the University of Pittsburgh in 1955.",
+        "Carnegie Mellon University is a global leader in robotics research and artificial intelligence development.",
+        "Fort Pitt, built by the British in 1759 at the river confluence, established the city's strategic importance."
+      ]
+    },
+    {
+      "id": "st-louis-cities-v2",
+      "descriptionAdvanced": "St. Louis is a major independent city in Missouri, located on the western bank of the Mississippi River, slightly south of its confluence with the Missouri River. Founded by French fur traders in 1764, the city served as a crucial historical gateway for westward expansion, a legacy monumentally represented by the 630-foot-tall Gateway Arch. During the 19th century, St. Louis was a premier port and industrial center, hosting the massive 1904 World's Fair and the Olympic Games. While the city experienced significant mid-century population decline and deindustrialization, it maintains a strong corporate presence, hosting the headquarters of several major national corporations. The region's culture is noted for its blues music heritage and distinct architectural styles using local red brick. History K8 — westward expansion and river ports.",
+      "factsAdvanced": [
+        "The Gateway Arch, designed by Eero Saarinen, is the tallest man-made monument in the United States.",
+        "St. Louis hosted the 1904 Louisiana Purchase Exposition, a massive World's Fair that drew 20 million visitors.",
+        "The city was the starting point for the historic Lewis and Clark Expedition in 1804.",
+        "Anheuser-Busch, founded in St. Louis in 1852, operates one of the largest and oldest breweries in the country.",
+        "St. Louis operates as an independent city, completely separate from the surrounding St. Louis County.",
+        "The historic Cahokia Mounds, a massive pre-Columbian Native American city, is located just across the river in Illinois."
+      ]
+    },
+    {
+      "id": "riverside-cities-v2",
+      "descriptionAdvanced": "Riverside is the most populous city in the Inland Empire region of Southern California. The city's history is inextricably linked to the birth of the California citrus industry; in the 1870s, the introduction of the Washington navel orange sparked a massive agricultural boom, making Riverside incredibly wealthy by the turn of the 20th century. This historic wealth is reflected in the city's preserved Mission Revival architecture, most notably the historic Mission Inn Hotel & Spa. Today, Riverside is a major suburban hub within the Greater Los Angeles area, featuring a diversified economy with strong manufacturing, education, and distribution sectors. The city is also home to the University of California, Riverside, a major public research institution. Geography K7 — agricultural history and suburban inland expansion.",
+      "factsAdvanced": [
+        "The Parent Washington Navel Orange Tree, planted in Riverside in 1873, spawned California's massive citrus industry.",
+        "The Mission Inn, built over several decades, is one of the largest Mission Revival style buildings in the US.",
+        "At the turn of the 20th century, Riverside was considered the wealthiest city per capita in the United States due to citrus.",
+        "The University of California, Riverside, hosts a major citrus research center that continues historical agricultural studies.",
+        "Riverside was founded in 1870 by John W. North, who intended to create an agricultural colony.",
+        "The city is a central component of the 'Inland Empire', a massive, rapidly growing logistics and warehousing region."
+      ]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "descriptionAdvanced": "Santa Ana is the county seat and second-most populous city in Orange County, Southern California. Unlike the sprawling suburban layout typical of much of the region, Santa Ana possesses a densely populated, historic downtown core featuring significant Art Deco and commercial architecture. The city's demographics are characterized by a profound Hispanic cultural influence, which heavily shapes its vibrant local commerce and cultural events. Economically, Santa Ana serves as a crucial administrative, financial, and manufacturing center for the county, hosting numerous corporate headquarters and government facilities. The city also acts as a major transportation nexus, featuring the busiest regional transportation hub, the Santa Ana Regional Transportation Center, linking commuter rail and bus networks. Geography K7 — demographic diversity and county administration.",
+      "factsAdvanced": [
+        "Santa Ana is consistently ranked as one of the most densely populated cities in the United States.",
+        "The city's historic downtown contains several preserved Art Deco buildings from the 1920s and 30s.",
+        "Santa Ana was founded in 1869 by William H. Spurgeon on land purchased from an old Spanish land grant.",
+        "Over 75 percent of the city's population identifies as Hispanic or Latino, heavily influencing local culture.",
+        "The Santa Ana Winds, fierce seasonal winds, take their name from the adjacent Santa Ana Canyon.",
+        "The Bowers Museum, established in 1936, is the oldest museum in Orange County and features extensive global art."
+      ]
+    },
+    {
+      "id": "cincinnati-cities-v2",
+      "descriptionAdvanced": "Cincinnati is a major city in southwestern Ohio, situated prominently on the northern bank of the Ohio River bordering Kentucky. During the 19th century, it was one of the largest and most prosperous cities in the nation, earning the nickname 'Queen of the West' due to its massive pork-processing industry and its status as a vital steamboat port. The city boasts a highly preserved historic core, particularly the Over-the-Rhine neighborhood, which features one of the largest collections of 19th-century Italianate architecture in the country, reflecting its deep German immigrant heritage. Today, Cincinnati has a diversified economy and serves as the global headquarters for major multinational corporations, including Procter & Gamble and Kroger. Geography K7 — river networks and historic architectural preservation.",
+      "factsAdvanced": [
+        "Cincinnati's Over-the-Rhine neighborhood possesses a massive, largely intact collection of 19th-century urban architecture.",
+        "The John A. Roebling Suspension Bridge, completed in 1866 across the Ohio River, was a prototype for the Brooklyn Bridge.",
+        "The Cincinnati Red Stockings, founded in 1869, were the first fully professional baseball team in the US.",
+        "Procter & Gamble, a massive consumer goods corporation, was founded in Cincinnati in 1837.",
+        "The city was a crucial stop on the Underground Railroad due to its location on the border of a slave state.",
+        "Cincinnati chili, characterized by Greek-inspired spices and served over spaghetti, is a famous local culinary staple."
+      ]
+    },
+    {
+      "id": "lexington-cities-v2",
+      "descriptionAdvanced": "Lexington is the second-largest city in Kentucky, located in the heart of the state's picturesque Bluegrass region. The city is globally recognized as the 'Horse Capital of the World', surrounded by hundreds of sprawling, immaculately maintained horse farms dedicated to breeding and training elite thoroughbred racehorses. The local economy and culture are profoundly intertwined with the equine industry, supported by institutions like the Kentucky Horse Park and Keeneland race course. Beyond horses, Lexington is heavily defined by the massive presence of the University of Kentucky, a major public research institution that dominates the local culture and employment landscape. The city's geography uniquely features an Urban Service Boundary, designed to protect the surrounding agricultural land from suburban sprawl. Geography K7 — specialized agricultural economies and urban growth boundaries.",
+      "factsAdvanced": [
+        "Lexington implemented the nation's first Urban Service Boundary in 1958 to protect its famous horse farms.",
+        "The Kentucky Horse Park, a major tourist and competition facility, spans over 1,200 acres near the city.",
+        "Keeneland is an internationally renowned thoroughbred racetrack and the largest prominent thoroughbred auction house in the world.",
+        "The University of Kentucky, founded in 1865, is the largest university in the state by enrollment.",
+        "Lexington is home to a major Jif peanut butter production plant, claiming to be the largest in the world.",
+        "The city was named in 1775 in honor of the first battle of the American Revolution at Lexington, Massachusetts."
+      ]
+    }
+  ]
+}

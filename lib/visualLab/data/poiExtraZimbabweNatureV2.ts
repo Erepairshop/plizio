@@ -19,7 +19,14 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Hat országon folyik keresztül", "Az Indiai-óceánba torkollik", "Híres a Viktória-vízesésről"],
       ro: ["Curge prin șase țări", "Se varsă în Oceanul Indian", "Cunoscut pentru Cascada Victoria"],
       en: ["Flows through six countries", "Drains into the Indian Ocean", "Known for Victoria Falls"]
-    }, image: "/poi-images/zambezi-river-nature-v2.webp"},
+    }, image: "/poi-images/zambezi-river-nature-v2.webp",
+    descriptionAdvanced: {
+      en: "The Zambezi River is the fourth-longest river in Africa and provides the lifeblood for much of Zimbabwe's northern border. It is home to world-famous natural wonders, including Victoria Falls, and supports a rich diversity of wildlife along its banks. The river's path through Zimbabwe is marked by vast floodplains, dramatic gorges, and the expansive Lake Kariba. Geography K7 — river systems and biodiversity."
+    },
+    factsAdvanced: {
+      en: ["Status: Fourth-longest river in Africa.", "Significance: Forms part of Zimbabwe's northern border.", "Wildlife: Habitats for crocodiles, hippos, and elephants.", "Landmark: Hosts the Victoria Falls.", "Region: Flows through diverse landscapes including gorges and floodplains.", "Role: Vital for ecosystem health and hydroelectric power."]
+    }
+  },
   {
     id: "lake-kariba-nature-v2",
     type: "lake",
@@ -37,7 +44,14 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Zambia határán fekszik", "Az 1950-es években épült", "Fontos áramforrás"],
       ro: ["Situat la granița cu Zambia", "Construit în anii 1950", "Sursă importantă de energie"],
       en: ["Located on the border with Zambia", "Built in the 1950s", "Important power source"]
-    }, image: "/poi-images/lake-kariba-nature-v2.webp"},
+    }, image: "/poi-images/lake-kariba-nature-v2.webp",
+    descriptionAdvanced: {
+      en: "Lake Kariba, formed by the damming of the Zambezi River, is the largest man-made reservoir by volume in the world. Its creation in the late 1950s completely transformed the Zambezi basin, providing essential water for power generation, irrigation, and fishing industries. The lake is also home to a protected ecosystem, with numerous islands and shoreline habitats that attract vast numbers of migratory birds and large mammals. Biology K6 — man-made ecosystems."
+    },
+    factsAdvanced: {
+      en: ["Scale: Largest man-made reservoir by volume.", "Formation: Result of the Zambezi river damming.", "Economy: Central to Zimbabwe's fishing and power industry.", "Biodiversity: Home to crocodiles and diverse avian species.", "Recreation: Popular site for tourism and houseboat holidays.", "Ecosystem: Includes several protected islands and shoreline reserves."]
+    }
+  },
   {
     id: "in-yangani-nature-v2",
     type: "mountain",
@@ -55,7 +69,14 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["A Nyanga-hegység része", "Magassága 2592 méter", "Népszerű túrázóhely"],
       ro: ["Parte a munților Nyanga", "Înălțime 2592 metri", "Popular pentru drumeții"],
       en: ["Part of the Nyanga Mountains", "Height 2592 meters", "Popular for hiking"]
-    }, image: "/poi-images/in-yangani-nature-v2.webp"},
+    }, image: "/poi-images/in-yangani-nature-v2.webp",
+    descriptionAdvanced: {
+      en: "Mount Nyangani, located in the Eastern Highlands of Zimbabwe, is the highest peak in the country, reaching an elevation of 2,592 meters. It is the centerpiece of the Nyanga National Park and is renowned for its montane forest, heathland, and deep mist-covered valleys. The mountain holds deep cultural significance for the local Shona communities, who consider it a sacred place. Geography K7 — topography and high-altitude habitats."
+    },
+    factsAdvanced: {
+      en: ["Elevation: 2,592 meters (highest point in Zimbabwe).", "Setting: Located within the Eastern Highlands.", "Ecosystem: Features montane forest and heathland habitats.", "Significance: Sacred cultural site for local communities.", "Park: The landmark of Nyanga National Park.", "Geography: Famous for its frequent mist and dramatic terrain."]
+    }
+  },
   {
     id: "limpopo-river-nature-v2",
     type: "river",

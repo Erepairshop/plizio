@@ -1,0 +1,233 @@
+{
+  "lang": "hu",
+  "country": "czechRepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCzechRepublicCities.ts"
+  ],
+  "items": [
+    {
+      "id": "city-most-extra",
+      "descriptionAdvanced": "Most városa, a németül Brüx-ként ismert település, a 20. századi drasztikus átalakulás szimbóluma. Az 1970-es években az eredeti óvárost szinte teljesen lerombolták, hogy hozzáférjenek az alatta rejlő hatalmas lignitvagyonhoz. Ettől délre egy teljesen új, panelházas város épült a szocialista urbanisztika jegyében. A legfontosabb megmentett épület a Nagyboldogasszony-templom, amelyet 1975-ben egy hihetetlen mérnöki bravúrral, 841 méterrel arrébb költöztettek síneken. Ez a teljesítmény világszerte ismertté tette Mostot. Napjainkban a rekultiváció áll a középpontban, a korábbi külszíni bányák helyén létrehozott Most-tó a táj újjászületésének jelképe, amely kiválóan illusztrálja a posztindusztriális tájrendezés lehetőségeit a Földrajz K8 tanterv keretében.",
+      "factsAdvanced": [
+        "A Nagyboldogasszony-templom elképesztő, 12 000 tonnás tömegét 27 nap alatt, szinte centiméterről centiméterre mozgatták át új helyére.",
+        "Az áthelyezés sebessége mindössze 1-3 centiméter volt percenként.",
+        "Az egykori Ležáky bánya elárasztásával létrehozott Most-tó (Jezero Most) területe meghaladja a 300 hektárt.",
+        "Most ad otthont az Autodrom Most versenypályának, amely a cseh és nemzetközi motorsport egyik fontos helyszíne.",
+        "A város felett magasodó Hněvín-kastélyt a 19. században neogótikus stílusban építették újjá, csodálatos panorámát nyújtva.",
+        "A város neve csehül 'hidat' jelent, amely valószínűleg egy ősi, a Bílina folyón átívelő hídra utal.",
+        "Most példája a kommunista korszak ipari fejlődésének, ahol egy teljes várost 'feláldoztak' a nyersanyagokért.",
+        "Az új város építése során a paneltechnológia dominált, amely a korszak építészetének jellegzetes vonása."
+      ]
+    },
+    {
+      "id": "city-opava-extra",
+      "descriptionAdvanced": "Opava, németül Troppau, Cseh-Szilézia történelmi fővárosa, egy igazi kulturális ékkő az ország keleti részén. A város elegáns építészete a hosszú múltjáról tanúskodik, amikor hercegi székhely volt. Az 1814-ben alapított Sziléziai Tartományi Múzeum Csehország legrégebbi múzeuma, amely jelentős gyűjteményeknek ad otthont. A Felső és Alsó tér alkotja a város szívét, amelyet pazar polgárházak vesznek körül. Kiemelkedő látnivaló a gótikus Nagyboldogasszony-társszékesegyház, a téglagótika lenyűgöző példája. 1820-ban itt tartották a troppaui kongresszust, amely a napóleoni háborúk utáni Európa politikai térképét formálta, így a város a Történelem K8 tananyag fontos helyszíne, amely a sziléziai diplomáciát és a nemzetközi kapcsolatokat tárgyalja.",
+      "factsAdvanced": [
+        "A Sziléziai Tartományi Múzeumot 1814-ben alapították, ezzel Csehország legrégebbi ilyen intézménye.",
+        "A Nagyboldogasszony-társszékesegyház a legnagyobb téglagótikus épület az országban.",
+        "A Fehér Torony (Hláska) a város jelképe, korábban őrtoronyként funkcionált.",
+        "Az 1820-as troppaui kongresszuson Ausztria, Poroszország és Oroszország uralkodói vettek részt.",
+        "A város az Opava folyó partján fekszik, amely az Odera mellékfolyója.",
+        "Opava 1928-ig Osztrák-Szilézia fővárosa volt.",
+        "A város a második világháborúban súlyos károkat szenvedett, de történelmi központját nagyrészt helyreállították.",
+        "A Sziléziai Egyetem opavai központja miatt a város pezsgő diákélettel rendelkezik."
+      ]
+    },
+    {
+      "id": "city-karvina-extra",
+      "descriptionAdvanced": "Karviná egy olyan város, amely elválaszthatatlanul kötődik a feketekőszén-bányászathoz. Ez az ipari múlt mélyen meghatározta a városképet és a tájat, ami az egyes városrészekben tapasztalható bányasüllyedésekben is megmutatkozik. Ugyanakkor Karviná elismert gyógyüdülőhely, amelynek jódos-brómos vizét a Darkov gyógyfürdőben mozgásszervi betegségek kezelésére használják. Izgalmas kontrasztot képez az ipari kultúrával az empire stílusú Fryštát-kastély a hatalmas parkjával, amely a régió uradalmi központja volt. A város jelentős lengyel kisebbségéről is ismert, ami multikulturális jelleget kölcsönöz neki. Karviná a Földrajz K7 tananyag keretében az ipari tájak és a gyógyturizmus kapcsolatát mutatja be.",
+      "factsAdvanced": [
+        "Az intenzív szénbányászat következtében a város egyes részei akár 35 méterrel is mélyebbre süllyedtek.",
+        "A Fryštát-kastély a régió egyik legjelentősebb empire stílusú építménye.",
+        "A Darkov gyógyfürdő egyedülálló jódos-brómos forrásáról híres, amelynek vize egy őskori tengerből származik.",
+        "Karviná hivatalosan kétnyelvű (cseh és lengyel).",
+        "A Szent Péter-templom ferde tornya a Doly városrészben a bányasüllyedés legismertebb 'áldozata'.",
+        "A Doly városrészt (az eredeti Karvinát) a bányakárok miatt szinte teljesen elhagyták.",
+        "Karviná 1948-ban jött létre több kisebb település egyesítésével.",
+        "Az Olza folyó a város mellett halad el, részben a lengyel határt képezve."
+      ]
+    },
+    {
+      "id": "city-teplice-extra",
+      "descriptionAdvanced": "Teplice, német nevén Teplitz, Közép-Európa egyik legrégebbi fürdővárosa. Már a rómaiak is ismerték a termálforrások gyógyító hatását. A 19. században élte virágkorát, amikor 'Európa kis szalonjaként' vagy 'Kis Párizsként' emlegették. Uralkodók, művészek és értelmiségiek, mint Ludwig van Beethoven és Johann Wolfgang von Goethe találkoztak itt. Az elegáns klasszicista és empire épületek, a tágas parkok és a pazar fürdőházak ma is tanúskodnak erről az aranykorról. A fürdőélet mellett Teplice az üveg- és kerámiaipar központja is volt. A város a Történelem K7 tananyagban a 19. századi európai fürdőkultúra bemutatására szolgál.",
+      "factsAdvanced": [
+        "A legenda szerint a teplicei termálforrásokat már 762-ben felfedezték.",
+        "Beethoven és Goethe híres találkozására 1812-ben Teplicében került sor.",
+        "A fő forrás, a 'Pravřídlo', vize körülbelül 41 Celsius-fokos.",
+        "A Teplicei Botanikus Kert Csehország egyik legnagyobb egzotikus növénygyűjteményének ad otthont.",
+        "Teplicében található Csehország legrégebbi szimfonikus zenekara.",
+        "A teplicei kastélyban regionális múzeum működik, amely a fürdő- és várostörténetet mutatja be.",
+        "A város feletti Doubravka-hegyen álló várromoktól gyönyörű kilátás nyílik.",
+        "Az első világháború előtt a város a Monarchia arisztokráciájának kedvelt nyári találkozóhelye volt."
+      ]
+    },
+    {
+      "id": "city-chomutov-extra",
+      "descriptionAdvanced": "Chomutov (németül Komotau) az Érchegység lábánál fekszik, és összeköti a középkori történelmet az ipari fejlődéssel. A Német Lovagrend által alapított város történelmi központja a boltíves árkádjaival és a kora gótikus Szent Katalin-templommal a gazdag múltra emlékeztet. Egyedülálló természeti jelenség a Kamencové jezero (Alun-tó), amelynek vize a magas aluintartalom miatt gyógyhatású, és szinte semmilyen szerves élet nem található benne. Másik jelentős vonzereje a Podkrušnohorský Zoopark, amely a palearktikus régió faunájára szakosodott, és területét tekintve Csehország legnagyobb állatkertje. A Biológia K6 tananyagban a speciális ökoszisztémák és állatparkok témakörében releváns.",
+      "factsAdvanced": [
+        "Az Alun-tó vizének pH-értéke körülbelül 3, ami megakadályozza az algák és a magasabb rendű növények növekedését.",
+        "A Podkrušnohorský Zoopark lenyűgöző, 112 hektáros területen fekszik.",
+        "A város városházája eredetileg a Német Lovagrend parancsnoksági épülete volt.",
+        "A 13. századi Szent Katalin-templom a város egyik legrégebbi épülete.",
+        "A 19. században Chomutov a vas- és acélipar központja volt, itt működött a Mannesmann csőgyár.",
+        "A város fontos vasúti csomópont Prága és Németország között.",
+        "A történelmi városközpont védett műemléki zóna.",
+        "Az Alun-tó vize a magas ásványianyag-koncentráció miatt a Holt-tenger vizéhez hasonló tulajdonságokkal bír."
+      ]
+    },
+    {
+      "id": "city-prerov-extra",
+      "descriptionAdvanced": "Přerov, németül Prerau, történelmileg jelentős város a Morva-kapu termékeny Haná régiójában. Története egészen a paleolitikumig nyúlik vissza; a közeli Předmostí régészeti lelőhely világhírű az őskori mamutvadász település leleteiről. A város szorosan kötődik Comenius Ámos Jánoshoz, a 'nemzetek tanítójához', aki a 17. században itt tanult és tanított, és a Cseh Testvérek központjává tette a várost. Stratégiai fekvése miatt évszázadok óta kulcsfontosságú közlekedési csomópont, ezt a szerepét a 19. században a vasút kiépítése tovább erősítette. A Bečva folyó fölé magasodó kastély ma a Comenius Múzeumnak ad otthont. Přerov a Történelem K6 tananyag kulcsfontosságú helyszíne, amely a korai emberi településeket és a közlekedési csomópontok fejlődését vizsgálja.",
+      "factsAdvanced": [
+        "A Předmostí lelőhelyen több mint 1000 mamut maradványait tárták fel.",
+        "Comenius Ámos Jánost a modern oktatás atyjának tartják.",
+        "Přerov a Habsburg Birodalom első gőzvasútjának, a Ferdinánd császár Északi Vasútnak egyik kulcsfontosságú állomása lett.",
+        "A város ad otthont Csehország legrégebbi jazzfesztiváljának, a 'Csehszlovák Jazz Fesztiválnak'.",
+        "A környéken talált leletek bizonyítják, hogy a terület az újkőkorszak óta lakott.",
+        "A város reneszánsz kastélya egy korábbi középkori vár alapjaira épült.",
+        "Přerov ún. 'statutáris város', ami különleges közigazgatási státuszt biztosít neki.",
+        "A közeli tavak ornitológiai rezervátumot képeznek, amely vonzza a madármegfigyelőket."
+      ]
+    },
+    {
+      "id": "city-prostejov-extra",
+      "descriptionAdvanced": "Prostějov, amelyet gyakran 'Morva Manchesternek' is neveznek, a 19. és 20. században a textil- és ruhaipar fellegvára volt. Ez az ipari fellendülés finanszírozta a lenyűgöző építészeti virágzást, különösen a szecessziós stílusban. A Jan Kotěra látnok építész által tervezett Nemzeti Ház (Národní dům) ennek a korszaknak a mesterműve. A városban született Edmund Husserl filozófus, a fenomenológia megalapítója. Történelmileg Prostějovban volt Morvaország egyik legjelentősebb zsidó közössége, amely a holokausztban bekövetkezett tragikus pusztulása előtt a gazdasági siker egyik hajtóereje volt. Prostějov az Építészet K8 tananyag kulcsfontosságú helyszíne, amely a szecessziós stílust és az ipartörténetet mutatja be.",
+      "factsAdvanced": [
+        "A Nemzeti Házat (1905-1907) a cseh szecessziós építészet csúcspontjának tartják.",
+        "Edmund Husserl 1859-ben született Prostějovban.",
+        "A város főterét az Új Városháza 66 méter magas tornya uralja.",
+        "Prostějov erős katonai hagyományokkal rendelkezik, itt állomásozik a cseh hadsereg 601. különleges erőinek csoportja.",
+        "A régió a cseh tenisz központja, számos élsportoló edz a helyi klubokban.",
+        "Az egykori zsidó gettónak saját városházája és zsinagógája volt.",
+        "Az OP Prostějov ruhagyár egykor Európa legnagyobb férfiruházat-gyártója volt.",
+        "A város régi zsidó temetőjét a nácik pusztították el, ma emlékmű áll a helyén."
+      ]
+    },
+    {
+      "id": "city-jablonec-nad-nisou-extra",
+      "descriptionAdvanced": "Jablonec nad Nisou, az 'üveg és ékszer városa', a festői Jizera-hegységben fekszik. Világhírnevét a 'Gablonzer' divatékszerek gyártásának köszönheti, amely iparág a 18. századtól virágzott itt. Az üveggyöngyök, gombok és bonyolult ékszerek exportjából származó vagyon a világ minden tájára eljutott, és ez tükröződik a város csodálatos szecessziós és funkcionalista építészetében. Az Üveg- és Ékszermúzeum egyedülálló és kiterjedt gyűjteménynek ad otthont, amely páratlan a világon. Különlegessége a Mšeno-gát, egy nagy víztározó közvetlenül a városközpontban, amely árvízvédelmi és népszerű rekreációs területként is szolgál. Jablonec a Gazdaság K7 tananyag fontos példája, amely a szakosodott gyártást és a globális kereskedelmet szemlélteti.",
+      "factsAdvanced": [
+        "A jabloneci Üveg- és Ékszermúzeum az egyetlen olyan állami múzeum a világon, amelyet mind az üvegnek, mind a divatékszereknek szenteltek.",
+        "A Mšeno-gátat 1906 és 1909 között építették egy katasztrofális árvízre válaszul.",
+        "1945 után a Jablonecből kitelepített német kézművesek alapították meg a németországi Kaufbeurenben Neugablonz városrészt, folytatva az ékszerkészítési hagyományt.",
+        "Jablonec szoros agglomerációt alkot a közeli regionális fővárossal, Libereccel.",
+        "A város az UNESCO Kreatív Városok Hálózatának tagja a dizájn területén.",
+        "A Jézus Legszentebb Szíve templom a funkcionalista szakrális építészet figyelemre méltó példája.",
+        "A város népszerű kiindulópont a túrázáshoz és a sífutáshoz a Jizera-hegységben.",
+        "A városban található épületek a szecesszió és a funkcionalizmus építészeti stílusjegyeit viselik magukon."
+      ]
+    },
+    {
+      "id": "city-mlada-boleslav-extra",
+      "descriptionAdvanced": "Mladá Boleslav a cseh autóipar vitathatatlan szíve, a Škoda Auto otthona. A város identitása elválaszthatatlanul összefonódott az autógyártóval, amelyet 1895-ben Laurin & Klement alapított, kezdetben kerékpárműhelyként. A hatalmas Škoda-gyár az ország legnagyobb munkaadója és a nemzetgazdaság egyik fő hajtóereje. A modern Škoda Múzeum, amely a történelmi gyárépületekben található, jelentős turisztikai látványosság, amely a világ minden tájáról vonzza az autórajongókat. Ipari jelentőségén túl a városnak van egy történelmi magja is, egy középkori várral, amely a Jizera folyó fölé magasodik. A város a Gazdaság K8 tananyag erőteljes példája, amely az autóipar regionális gazdaságban betöltött szerepét vizsgálja.",
+      "factsAdvanced": [
+        "A Škoda Auto a Volkswagen-csoport része és a Cseh Köztársaság legnagyobb árbevételű vállalata.",
+        "Az első autót, a 'Voiturette A'-t a Laurin & Klement gyártotta 1905-ben.",
+        "Az autóipar kora előtt a város a Cseh Testvérek fontos központja volt, és 'Cseh Genf'-ként ismerték.",
+        "A városi vár ma a Mladá Boleslav-i Régió Múzeumának ad otthont.",
+        "A mladá boleslavi Škoda-gyárkomplexum Európa egyik legnagyobb és legmodernebb autógyára.",
+        "A város az ország egyik legmagasabb egy főre eső vásárlóerejével büszkélkedhet.",
+        "A 'Fémösvény' egy tanösvény, amely művészi fémplakettek segítségével vezeti végig a látogatókat a város történelmén.",
+        "A középkori vár ferde tornya (Putna) a város egyik legjellegzetesebb látnivalója."
+      ]
+    },
+    {
+      "id": "city-havirov-extra",
+      "descriptionAdvanced": "Havířov a Cseh Köztársaság legfiatalabb városa, egy nagyszabású, szocialista-realista tervezett város egyedülálló példája. Az 1955-ben alapított várost 'zöldmezős beruházásként' építették, hogy lakást biztosítsanak a környező Ostrava-Karviná szénmedence dolgozóinak. Építészetét, a 'SORELA'-t, a bérházak monumentális, klasszicista ihletésű homlokzatai, a széles, szimmetrikus sugárutak és a tágas zöldterületek jellemzik. A városközpont védett városi műemlékzóna, amely megőrzi ezt az egyedülálló építészeti stílust. Ideális szocialista városként tervezték, hogy magas életminőséget kínáljon a munkásosztálynak, aminek öröksége ma is látható az elrendezésében és az évente megrendezett 'Virágos Havířov' fesztiválon. Ez teszi a várost az Építészet K8 tananyag lenyűgöző tárgyává, amely a 20. századi tervezett városokra összpontosít.",
+      "factsAdvanced": [
+        "Havířovot 1955. december 4-én nyilvánították várossá.",
+        "A város nevét nyilvános pályázaton választották ki, és a cseh 'havíř' (bányász) szóból származik.",
+        "Ez a legnagyobb város a Cseh Köztársaságban, amelynek nincs saját egyeteme.",
+        "Annak ellenére, hogy 'bányászváros', Havířov közigazgatási területén soha nem voltak tényleges bányák.",
+        "A fő sugárutat, a Hlavní třídát az új város központi tengelyének és kirakatának tervezték.",
+        "Havířov rendelkezik az ország egyik legmagasabb egy főre eső zöldterület-arányával.",
+        "A város elrendezését részben a párizsi sugárutak ihlették, de szocialista-realista stílusban valósították meg.",
+        "A SORELA stílus a szovjet esztétika és a helyi építészeti hagyományok keveréke."
+      ]
+    },
+    {
+      "id": "city-kladno-extra",
+      "descriptionAdvanced": "Kladno, amelyet gyakran a Cseh Köztársaság 'fekete szívének' is neveznek, a szén- és acélipar történelmi epicentruma volt. A Prágától nyugatra fekvő város identitását a Poldi acélmű kohóinak hevében kovácsolták, amely az 1889-ben alapított cseh nehézipar szimbóluma. A város tájképét még mindig az ipari múlt öröksége, többek között a megőrzött bányatornyok jellemzik. Az 1990-es években a nehézipar hanyatlása után Kladno jelentős gazdasági átalakuláson ment keresztül. A város világhírű a jégkorongtehetségek bölcsőjeként is, leginkább a legendás Jaromír Jágr szülővárosaként, aki egyben a helyi klub tulajdonosa is. Kladno a Földrajz K7 tananyag meggyőző tanulmánya a dezindusztrializációról és a strukturális változásokról.",
+      "factsAdvanced": [
+        "A Poldi acélművet Leopoldine Wittgensteinről, az egyik alapító feleségéről nevezték el.",
+        "Jaromír Jágr a National Hockey League (NHL) történetének egyik legeredményesebb játékosa.",
+        "A közeli Lidice falu a náci erők által 1942-ben elkövetett mészárlás áldozatainak emlékműve.",
+        "Kladno a Közép-csehországi régió legnagyobb városa.",
+        "A város barokk kastélyában ma galéria és könyvtár működik.",
+        "A kladnói bányászat és acélipar az egész országból vonzotta a munkásokat, erős munkásosztály-identitást teremtve.",
+        "A Mayrau bánya egy megőrzött ipari örökségi helyszín és múzeum.",
+        "A barokk Kladnói-kastély várárkában ma is medvék élnek, ami a város egyik különlegessége."
+      ]
+    },
+    {
+      "id": "city-havlickuv-brod-extra",
+      "descriptionAdvanced": "Havlíčkův Brod, egy történelmi város a Sázava folyó partján, a 19. századi újságíró és hazafi, Karel Havlíček Borovský tiszteletére kapta a nevét, aki a cseh nemzeti megújulás kulcsfigurája volt. A város jólétét eredetileg a középkori ezüstbányászat alapozta meg. Történelmi központja az ország egyik legnagyobb tere köré épült, amelyet jól megőrzött polgárházak szegélyeznek. A várost 1945-ben 'Německý Brod'-ról (Német Gázló) nevezték át, hogy megszakítsa a német hangzású névvel való kapcsolatot és tisztelegjen híres lakója előtt. Ma a Vysočina régió létfontosságú közlekedési, közigazgatási és kulturális központja. A város története a Történelem K7 tananyag számára nyújt tanulságos leckét, a nemzeti identitás és a helyek átnevezésének témakörét vizsgálva.",
+      "factsAdvanced": [
+        "A várost 1422-ben a huszita háborúk során szinte teljesen elpusztították.",
+        "Karel Havlíček Borovskýt kritikus írásai miatt az osztrák hatóságok a tiroli Brixenbe száműzték.",
+        "A Havlíček-ház a főtéren egy múzeumnak ad otthont, amelyet az életének és munkásságának szenteltek.",
+        "A város fontos vasúti csomópont a Prága–Brno vonalon.",
+        "A Štáfl-ház egy festői történelmi épület, ma képzőművészeti múzeum.",
+        "A város körüli régió a Cseh Köztársaság egyik fő burgonyatermesztő központja.",
+        "A Régi Városháza oromzatán egy csontvázfigura látható, amely állítólag egy árulót ábrázol.",
+        "A városban található az ország egyik legnagyobb pszichiátriai kórháza, amely több mint egy évszázados múltra tekint vissza."
+      ]
+    },
+    {
+      "id": "city-pisek-extra",
+      "descriptionAdvanced": "Písek, a 'Dél-Csehország Athénja', egy királyi város az Otava folyó partján, amelynek neve és vagyona az aranytartalmú homokból ('písek') származik. A középkori aranymosásból származó gazdagság finanszírozta a királyi vár és Csehország legrégebbi kőhídjának építését, amely megelőzte Prága híres Károly-hídját. A 19. században Písek a tudomány és a kultúra jelentős központjává fejlődött, elősegítve a máig tartó tudományos légkört. 1887-ben ez lett az első város Csehországban, amely állandó nyilvános elektromos világítással rendelkezett, amelyet az ország egyik első vízerőműve táplált. A középkori örökség és a technológia korai alkalmazásának ez a kombinációja a Történelem K6 tananyag lenyűgöző tanulmányává teszi, amely a középkori erőforrásokat és a technológiai innovációt tárgyalja.",
+      "factsAdvanced": [
+        "A píseki kőhíd a 13. század végéről származik és nemzeti kulturális műemlék.",
+        "A város neve szó szerint 'homokot' jelent.",
+        "A vízerőmű, amely a város fényeit táplálta, ma múzeumként működik.",
+        "Az egykori királyi várban található Prácheň Múzeum részletezi a régió történelmét, beleértve az aranymosás korszakát is.",
+        "Písekben található egy neves filmiskola, a Miroslav Ondříček Filmakadémia.",
+        "A várost a Píseki-hegység veszi körül, amely népszerű túrázó- és rekreációs terület.",
+        "Sok cseh filmet, különösen történelmi meséket, Písekben és környékén forgattak.",
+        "II. Přemysl Ottokár király gyakran tartózkodott a píseki várban."
+      ]
+    },
+    {
+      "id": "city-kolin-extra",
+      "descriptionAdvanced": "Kolín egy történelmi királyi város az Elba folyó partján, figyelemre méltóan megőrzött középkori elrendezéssel. Városképét a csodálatos Szent Bertalan-templom uralja, egy magas gótikus mestermű, amelynek kórusát Peter Parler, a prágai Szent Vitus-székesegyház híres építésze tervezte. A város döntő szerepet játszott a hétéves háborúban az 1757-es kolíni csatában, ahol az osztrák erők Nagy Frigyes első jelentős vereségét mérték. Kolínban volt Csehország egyik legjelentősebb zsidó közössége is, egy megőrzött zsinagógával és két zsidó temetővel, amelyek gazdag kulturális történelméről tanúskodnak. Ma a város fontos ipari központ és vasúti csomópont. Kolín a Történelem K8 tananyag kulcsfontosságú helyszíne, amely a hadtörténetet és a vallási sokszínűséget vizsgálja.",
+      "factsAdvanced": [
+        "A Szent Bertalan-templom kórusát a magas gótikus építészet mesterművének tartják.",
+        "A kolíni csata (1757) fordulópontot jelentett a hétéves háborúban.",
+        "A város jól megőrzött egykori zsidó gettója egy 17. század végéről származó zsinagógát is magában foglal.",
+        "Kolín híres szülöttje, František Kmoch rézfúvós zenéjéről, amelyet egy éves fesztiválon ünnepelnek.",
+        "Egy nagy autógyár, eredetileg a Toyota, a Peugeot és a Citroën vegyesvállalata, jelentős munkaadó.",
+        "A kolíni Régi Zsidó Temető az egyik legrégebbi Csehországban.",
+        "A várost II. Přemysl Ottokár király alapította a 13. században királyi városként.",
+        "A város híres az évente megrendezett 'Gasparade' bohóc fesztiválról is."
+      ]
+    },
+    {
+      "id": "city-sumperk-extra",
+      "descriptionAdvanced": "Šumperk, az 'Alacsony-Jeszenikek kapuja', egy észak-morvaországi város, amelynek történelme egyszerre szól a jólétről és a tragédiáról. A 19. században 'Kis Bécsnek' nevezték a virágzó textiliparból származó gazdagság miatt, amely finanszírozta a nagyszabású bécsi stílusú villák és középületek építését. Ez a virágzó időszak éles ellentétben áll a 17. századi boszorkányperek sötét fejezetével. Heinrich Franz Boblig von Edelstadt inkvizítor irányítása alatt ártatlan emberek tucatjait kínozták és végezték ki. A Geschader-házban ma kiállítás állít emléket az áldozatoknak. Ma Šumperk a környező hegyvidék fő kulturális és gazdasági központja. A város a Történelem K7 tananyag számára nyújt megrendítő tanulmányt, amely az iparosodást és az üldöztetés történetét tárgyalja.",
+      "factsAdvanced": [
+        "A hírhedt boszorkányperek 1678 és 1696 között zajlottak.",
+        "A város 19. századi gazdagsága elsősorban a len- és selyemgyártáson alapult.",
+        "A csodálatos neoreneszánsz városháza 1911-ben készült el.",
+        "Sok vállalkozó család, akik a város textilbirodalmát építették, Bécsből származott.",
+        "A Geschader-ház, ahol a boszorkányperek kiállítása található, a város egyik legrégebbi kőháza.",
+        "Šumperk kulcsfontosságú kiindulópont a Jeseníky Védett Tájegységet felfedező turisták számára.",
+        "A város gazdag kulturális élettel rendelkezik, beleértve egy hivatásos színházat és több zenei fesztivált.",
+        "A domonkos rendi apácák kolostora a Mária Angyali Üdvözlet templomával fontos barokk műemlék."
+      ]
+    },
+    {
+      "id": "city-vsetin-extra",
+      "descriptionAdvanced": "Vsetín a Morva-Valakia kulturális és gazdasági szíve, egy kelet-morvaországi régió, amelynek egyedülálló kulturális identitása a kárpáti pásztorok (vlachok vagy 'valakok') hagyományaiból származik. A Beszkidek és a Hostýn-Vsetín hegység lankás dombjai által körülvett város történelme a pásztorhagyományok és az ipari fejlődés keveréke. A város fölötti dombon álló reneszánsz kastély a Valakiai Régió Múzeumának ad otthont. A 20. században Vsetín az elektromos és fegyvergyártás, különösen a Zbrojovka gyár egyik fő központjává vált. A jellegzetes valakiai folklór, zene és konyha továbbra is a város identitásának élénk része, ami a Kultúra K6 tananyag fókuszpontjává teszi, a regionális hagyományokat feltárva.",
+      "factsAdvanced": [
+        "A Morva-Valakiát a 14. és 17. század között a keleti Kárpátokból vándorló pásztorok népesítették be.",
+        "A vsetíni kastély egykor a híres hadvezér, Albrecht von Wallenstein rezidenciája volt.",
+        "Josef Sousedík feltaláló, akit elektrotechnikai munkásságáért 'morva Edisonnak' is neveztek, Vsetínben élt és alkotott.",
+        "A régió híres a 'frgál'-ról, egy nagy, kerek, különféle édes töltelékkel ellátott péksüteményről.",
+        "Vsetín hegyes-völgyes, erdős terepe a második világháború idején a partizánellenállás központjává tette.",
+        "A város a szabadtéri tevékenységek, különösen a túrázás, a kerékpározás és a sífutás központja.",
+        "Vsetínnek híres jégkorongcsapata van, amely az 1990-es években uralta a cseh Extraligát.",
+        "A Bečva folyó kettészeli a várost, szép sétányokat és zöld parkokat kínálva a partjain."
+      ]
+    }
+  ]
+}

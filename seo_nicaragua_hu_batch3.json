@@ -1,0 +1,309 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "acoyapa-cities-v2",
+      "descriptionAdvanced": "Acoyapa, Chontales megye egyik legrégebbi városa, a Nicaragua-tó keleti partvidéke felé ereszkedő dombokon épült. A települést szarvasmarha-farmok (haciendák) és kiterjedt legelők veszik körül, amelyek a lakosság elsődleges megélhetését biztosítják. Bár a város megőrizte álmos, mezőgazdasági jellegét, évente felélénkül a San Sebastián tiszteletére rendezett nagyszabású januári fesztivál idején, amely lóversenyeiről és rodeóiról országszerte híres. A város határában található barlangok egykor az őslakos chorotegák menedékhelyei voltak. Földrajz K6 — hagyományos állattartás és helyi ünnepek.",
+      "factsAdvanced": [
+        "A várost 1683-ban alapították spanyol gyarmatosítók.",
+        "A név chorotega nyelvből származhat, jelentése 'magasból letekintő hely'.",
+        "Január 20-án ünneplik San Sebastián védőszentjüket nagy lófelvonulással.",
+        "Körülbelül 130 kilométerre fekszik Managuától.",
+        "A helyi sajtot és tejtermékeket Közép-Amerika más országaiba is exportálják.",
+        "Környékén számos feltáratlan őslakos barlang (cuevas) található."
+      ]
+    },
+    {
+      "id": "san-miguelito-cities-v2",
+      "descriptionAdvanced": "San Miguelito egy festői halászváros és kikötő Río San Juan megyében, közvetlenül a Nicaragua-tó keleti partján. A település egyedülálló biológiai sokféleséggel rendelkező vizes élőhelyek (humedales) közelében fekszik, amelyek nemzetközi védettséget élveznek. A lakosság halászatból, csónakkészítésből és egyre inkább az ökoturizmusból él, mivel a város a Solentiname-szigetek és a folyótorkolat felé vezető hajóutak egyik állomása. A csendes utcákat barátságos, vízparti életmód és gyönyörű naplementék teszik vonzóvá. Földrajz K7 — vizes élőhelyek és tavi halászat.",
+      "factsAdvanced": [
+        "1870-ben alapították fakitermelő központként.",
+        "A város körüli San Miguelito vizes élőhelyek több mint 43 000 hektáron terülnek el.",
+        "2001-ben a Ramsari egyezmény nemzetközi jelentőségű vadvízzé nyilvánította a régiót.",
+        "Jelentős halászati termékük a 'guapote' és a tavi tilápia.",
+        "Rendszeres kompjárat köti össze a tó túlpartján fekvő Granadával.",
+        "Lakossága nagyjából 18 000 fő."
+      ]
+    },
+    {
+      "id": "el-castillo-de-la-concepcion-cities-v2",
+      "descriptionAdvanced": "El Castillo egyedülálló, történelmi település a San Juan-folyó mentén, amelyet a dzsungel és a folyó vizének csobogása ölel körül. A település fő látványossága a Szeplőtelen Fogantatás Erődje, amelyet a spanyolok a 17. században építettek a Granada felé tartó angol és francia kalózok (köztük Lord Nelson) megállítására. A faluban nincsenek autók, minden közlekedés csónakokon történik, a házak jelentős része közvetlenül a folyópartra, cölöpökre épült. El Castillo ma az Indio Maíz Biológiai Rezervátumba tartó túrák fő kiindulópontja. Történelem K8 — gyarmati erődítmények és kalóztámadások.",
+      "factsAdvanced": [
+        "A falut 1673-ban alapították az erőd építésével egyidőben.",
+        "Az erődítményt a Raudal del Diablo (Ördög-zúgó) nevű sziklazátonynál építették fel.",
+        "Lord Nelson, a híres brit admirális 1780-ban ostromolta az erődöt.",
+        "Nincs közúti összeköttetése; csak folyón (hajóval) megközelíthető San Carlosból.",
+        "Környéke Nicaragua legesősebb területe, az évi csapadék eléri a 4000 mm-t.",
+        "Rafaela Herrera nicaraguai nemzeti hős itt védte meg az erődöt a britekkel szemben."
+      ]
+    },
+    {
+      "id": "san-juan-del-norte-greytown-cities-v2",
+      "descriptionAdvanced": "San Juan de Nicaragua, történelmi nevén Greytown, a San Juan-folyó karib-tengeri torkolatánál fekszik. A 19. században pezsgő, angol fennhatóság alatt álló kikötő volt, és a tervezett nicaraguai csatorna egyik végpontjának számított a kaliforniai aranyláz idején. A város az évtizedek során számos trópusi vihart, kalóztámadást és politikai konfliktust vészelt át, a természet gyakran visszafoglalta a régi épületeket. Ma a dzsungelben megbújó álmos, eső áztatta település őslakos (rama és kriol) közösségek otthona, akik elszigetelten élnek a hatalmas Indio Maíz Rezervátum szélén. Földrajz K8 — történelmi kikötők és trópusi viharok.",
+      "factsAdvanced": [
+        "A britek alapították 1539-ben, de az 1840-es években nevezték el Greytownnak Sir Charles Grey jamaicai kormányzó után.",
+        "1854-ben egy amerikai hadihajó szinte teljesen porig rombolta a várost egy vitát követően.",
+        "Nicaragua legelzártabb települése, csak légi vagy vízi úton közelíthető meg.",
+        "Itt találkozik az ország két legfontosabb vize: a San Juan-folyó és a Karib-tenger.",
+        "A régióban a ramas és kriol etnikai csoportok a legjelentősebbek.",
+        "Az esős évszak szinte egész évben tart a sűrű esőerdei klíma miatt."
+      ]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "descriptionAdvanced": "Pueblo Nuevo egy völgyben fekvő békés mezőgazdasági kisváros Estelí megyében, a hondurasi határhoz közeli hegyek lábánál. A település neve ellenére ('Új Falu') gazdag őslakos történelemmel bír. Bár nincsenek nagy ipari létesítményei, a környék rendkívül termékeny, így babot, kukoricát, cirokot és újabban minőségi dohányt termelnek. A helyiek büszkék a környező dombokba rejtett őslakos kőfaragásokra és a közelmúltban talált paleontológiai leletekre, köztük ősi masztodonok csontjaira. Történelem K6 — őslénytan és mezőgazdasági közösségek.",
+      "factsAdvanced": [
+        "A várost 1652-ben alapították Pueblo Nuevo néven.",
+        "A közelben tárták fel az őslakos chorotega kultúra egy fontos temetkezési helyét.",
+        "A 2000-es évek elején hatalmas jégkorszaki emlősök (masztodonok) maradványait fedezték fel a környéken.",
+        "Gazdaságának alapja az alapvető gabonafélék (granos básicos) termesztése.",
+        "A települést száraz, de kellemes szavanna éghajlat jellemzi.",
+        "Évente tartanak nagy hagyományőrző lovas fesztiválokat."
+      ]
+    },
+    {
+      "id": "la-trinidad-esteli-cities-v2",
+      "descriptionAdvanced": "La Trinidad a Panamerikai főútvonal mentén, Estelí megye déli peremén fekvő élénk kereskedelmi és agrárváros. A település hírnevét elsősorban pékipara és mezőgazdasági termékei, különösen a fokhagyma- és hagymaföldjei adják. A város képét meredek utcák és a környező magas, köves dombok uralják. A helyi kézművesek cipőkészítéssel is foglalkoznak. A Panamerikai úton áthaladó teherforgalom miatt a város fontos pihenő- és bevásárlóállomás a Honduras és Managua között utazók számára. Földrajz K6 — közúti kereskedelem és pékipar.",
+      "factsAdvanced": [
+        "A várost 1789-ben alapították San Pedro de la Santísima Trinidad néven.",
+        "Körülbelül 600 méteres tengerszint feletti magasságban helyezkedik el.",
+        "Több mint 50 hagyományos és modern pékség üzemel a városban.",
+        "Gyakran nevezik 'A kenyér városának' (La Ciudad del Pan).",
+        "A település a gyarmati idők óta fontos postakocsi-állomás volt.",
+        "Az 1970-es évek nicaraguai konfliktusaiban itt zajlottak az első heves városi összecsapások."
+      ]
+    },
+    {
+      "id": "ciudad-dario-cities-v2",
+      "descriptionAdvanced": "Ciudad Darío, korábbi nevén Metapa, Matagalpa megye déli részén fekszik, és a latin-amerikai irodalom zarándokhelye. A város legnagyobb büszkesége, hogy itt született 1867-ben Rubén Darío, a modernizmus atyja és a spanyol nyelvű költészet egyik legnagyobb alakja. Darío szülőháza (Casa Natal) ma nemzeti múzeum, amelyet minden év januárjában irodalmi fesztiválokkal ünnepelnek. A kulturális jelentőség mellett a város fontos mezőgazdasági központ, ahol a Sébaco-völgy közelsége miatt rizst és babot termesztenek nagy mennyiségben. Történelem K8 — irodalomtörténet és nemzeti büszkeség.",
+      "factsAdvanced": [
+        "A települést 1627-ben alapították Chocoyos néven, majd Metapára nevezték át.",
+        "1920-ban kapta a Ciudad Darío nevet a híres költő tiszteletére.",
+        "Rubén Darío szülőháza egy szerény vályogház, melyet korhűen állítottak helyre.",
+        "Tengerszint feletti magassága nagyjából 430 méter.",
+        "Minden év januárjában tartják a Daríai Irodalmi Hetet a költő születésnapja környékén.",
+        "A város közelében kiterjedt geotermikus források is találhatók."
+      ]
+    },
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "descriptionAdvanced": "Esquipulas Matagalpa megye hegyvidéki peremén található, ahol a kávéültetvények és a fenyőerdők uralják a tájat. A várost a guatemalai Fekete Krisztus (Señor de Esquipulas) tiszteletére nevezték el, és januári búcsúja a megye egyik leglátogatottabb vallási eseménye. A meredek lejtők és a hűvös, csapadékos mikroklíma kiváló feltételeket teremt a minőségi, árnyékban termesztett kávé számára. Bár a település nehezen megközelíthető, az itt élő közösség összetartó és erősen hagyományőrző. Földrajz K6 — magaslati mezőgazdaság és kávétermelés.",
+      "factsAdvanced": [
+        "A várost viszonylag későn, 1830 körül alapították helyi kávétermelők.",
+        "Nevét a híres guatemalai zarándokhely, Esquipulas után kapta.",
+        "Tengerszint feletti magassága meghaladja a 650 métert.",
+        "Gazdasága szinte kizárólag a mezőgazdaságon (kávé, bab, kukorica) alapul.",
+        "Védőszentje, a Fekete Krisztus ünnepét minden év január 15-én tartják.",
+        "Környezetében számos érintetlen vízesés található az erdők mélyén."
+      ]
+    },
+    {
+      "id": "san-dionisio-matagalpa-cities-v2",
+      "descriptionAdvanced": "San Dionisio egy kis kávé- és babtermelő közösség Matagalpa megye szívében, amelyet gyakran emlegetnek a "Fehér Falvak" (Pueblos Blancos) északi kistestvéreként békés hangulata miatt. A város a Cuscawás-völgyben helyezkedik el, körülvéve meredek, zöldellő hegyekkel. Lakossága túlnyomórészt vidéki farmokon (fincas) él és dolgozik. A terület infrastruktúrája az elmúlt években kezdett fejlődni, ami segítette a helyi termékek, különösen a magas minőségű bab és dohány exportját a nagyobb városokba. Földrajz K6 — völgyek és rurális közösségek.",
+      "factsAdvanced": [
+        "1830-ban alapították spanyol nevén, Dionisio de París tiszteletére.",
+        "A falu eredeti neve 'Espino Blanco' volt a környező fehér tövises fák után.",
+        "Tengerszint feletti magassága körülbelül 410 méter.",
+        "Az egyik legkevesebb lakosú önkormányzat Matagalpa megyében.",
+        "Az évente megrendezett terményvásárokon a helyi kézműves textíliákat is bemutatják.",
+        "A települést átszelő San Dionisio-folyó biztosítja az öntözést a völgyben."
+      ]
+    },
+    {
+      "id": "la-dalia-matagalpa-cities-v2",
+      "descriptionAdvanced": "La Dalia (hivatalos nevén El Tuma - La Dalia) egy fiatal, de gyorsan növekvő település Matagalpa hegyvidékén, a Tuma-folyó mentén. A város a 20. század közepén alakult ki a kávéboom és a kakaótermesztés idején, mint logisztikai központ a hegyi farmok számára. Környezetét sűrű trópusi erdők és kiterjedt kávéültetvények jellemzik. Az ökoturizmus egyre fontosabbá válik, mivel a közelben található lenyűgöző vízesések és a Macizos de Peñas Blancas hegyvonulatai kiváló túrázási lehetőségeket kínálnak. Földrajz K7 — hegyvidéki ökoturizmus és trópusi termények.",
+      "factsAdvanced": [
+        "A település a 20. század közepén jött létre spontán betelepüléssel.",
+        "1989-ben kapott független önkormányzati státuszt.",
+        "A kávé mellett egyre több bio minősítésű kakaót is termesztenek itt.",
+        "Az 1000 méter feletti hegyekben köderdők találhatók gazdag madárvilággal.",
+        "La Dalia lakosságának nagy része szezonális mezőgazdasági munkás.",
+        "A Tuma-folyó jelentős vízenergiát biztosít, melyre az ország több erőműve is épít."
+      ]
+    },
+    {
+      "id": "rancho-grande-matagalpa-cities-v2",
+      "descriptionAdvanced": "Rancho Grande a Matagalpa megye keleti szélén, a Peñas Blancas hegyvonulat (Macizos de Peñas Blancas) lábánál elhelyezkedő település. A város a hegyek drámai sziklafalai alatt épült, melyek felhőkbe burkolózó csúcsai lélegzetelállító látványt nyújtanak. A falu sokáig elszigetelt maradt az infrastruktúra hiánya miatt, ma azonban az ország egyik legfontosabb kakaótermesztő és bányászati felderítési területe. A hegyvidéki klíma és a sűrű erdők megőrizték a régió egyedi biológiai sokféleségét, így kedvelt a kalandturisták körében. Földrajz K8 — hegyvidéki biológiai sokféleség és köderdők.",
+      "factsAdvanced": [
+        "1989-ben vált független önkormányzattá Matagalpa megyén belül.",
+        "Nevét (Nagy Farm) onnan kapta, hogy eredetileg egyetlen hatalmas hacienda területe volt.",
+        "A Peñas Blancas sziklafalak magassága eléri az 1700 métert.",
+        "A lakosság az elmúlt évtizedekben hevesen tiltakozott a tervezett aranybányászat ellen.",
+        "Trópusi esőerdei és köderdei átmeneti klíma jellemzi.",
+        "A környék folyói és vízesései szinte érintetlenek, kiváló túrázóhelyek."
+      ]
+    },
+    {
+      "id": "el-tuma-la-dalia-cities-v2",
+      "descriptionAdvanced": "Az El Tuma - La Dalia önkormányzat a kávécserjék és a trópusi dzsungelek ölelésében terül el, ahol El Tuma falu a folyó partján, míg La Dalia kissé magasabban, a dombokon fekszik. A Tuma-folyó kulcsfontosságú vízgyűjtő terület, amely hozzájárul a Centroamérica vízerőmű működéséhez is. A térség történelmében fontos szerepet játszott az 1980-as évek forradalmi időszaka, ma viszont a békés fejlődés és a fair-trade (méltányos kereskedelem) kávészövetkezetek központja, ahonnan a világ minden tájára exportálnak kiváló minőségű szemeket. Földrajz K6 — vízenergia és fair-trade mezőgazdaság.",
+      "factsAdvanced": [
+        "A két településrészt egyetlen önkormányzattá vonták össze az 1980-as évek végén.",
+        "A Tuma-folyó az ország egyik legbővizűbb folyója, a Karib-tenger felé folyik.",
+        "A térségben található az ország legmagasabb átlagos kávéterméshozama.",
+        "Sűrű erdői miatt a régió gazdag különféle papagáj- és tukánfajokban.",
+        "A területen számos külföldi önkéntes szervezet segítette a szövetkezetek alapítását.",
+        "A vízesések köré épült ökológiai farmok egyre népszerűbbek a turisták körében."
+      ]
+    },
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "descriptionAdvanced": "Matiguás, amelynek neve az őslakos szumo nyelvből származik, a Matagalpa megye központi részének egyik legnépesebb mezőgazdasági városa. A település sík völgyek és zöld dombok határán fekszik, gazdasága kettős: a hegyvidéki részeken kávét termesztenek, míg a síkvidékeken hatalmas szarvasmarha-csordákat legeltetnek. Tejipara és sajtexportja az ország legjobbjai közé tartozik. Matiguás lakosai erősen ápolják lovas hagyományaikat, az évente megrendezett rodeók és mezőgazdasági vásárok több ezer látogatót vonzanak. Földrajz K7 — vegyes mezőgazdaság és tejipar.",
+      "factsAdvanced": [
+        "Neve a szumo nyelvből ered: 'Mati' (egér) és 'Guas' (víz), azaz 'Az egerek vize'.",
+        "1920-ban kapott hivatalos városi rangot.",
+        "A város környéki legelőkön több mint 100 000 szarvasmarhát tartanak.",
+        "Tengerszint feletti magassága mintegy 300 méter.",
+        "A helyi tejgyárak naponta több tízezer liter tejet dolgoznak fel.",
+        "Márciusban tartják a Szent József tiszteletére rendezett hagyományos fesztiváljukat."
+      ]
+    },
+    {
+      "id": "muy-muy-matagalpa-cities-v2",
+      "descriptionAdvanced": "Muy Muy történelmi település Matagalpa megyében, amelyet még az 1500-as években alapítottak spanyol szerzetesek és őslakosok. Bár az idők során többször költöztetni kellett a várost tűzvészek és járványok miatt, ma egy békés, állattenyésztésre fókuszáló városka a hegyek tövében. A környéken számos prekolumbián kőszobor (petroglifa) emlékeztet az itt élt ősi chorotega és matagalpa törzsekre. Muy Muy jellegzetes kisváros, széles, burkolatlan mellékutcákkal és hatalmas, árnyékos parkokkal, amely a hagyományos nicaraguai tanyasi életet testesíti meg. Történelem K6 — gyarmati áttelepítések és őslakos kőfaragás.",
+      "factsAdvanced": [
+        "A várost 1568-ban alapították spanyol ferences szerzetesek.",
+        "Eredeti helyéről (Muy Muy Viejo) a 18. században költöztették a jelenlegi helyre.",
+        "Az őslakos név valószínűleg a 'Mu' (kacsa) és 'Y' (folyó) szavak ismétléséből ered.",
+        "Gazdasága 80%-ban a szarvasmarha-tenyésztésen és a kukoricatermesztésen alapul.",
+        "Az éghajlat átmeneti a száraz és a nedves trópusi övezetek között.",
+        "Számos ősi sír és kőkarcolat található a közeli domboldalakon."
+      ]
+    },
+    {
+      "id": "san-ramon-matagalpa-cities-v2",
+      "descriptionAdvanced": "San Ramón egy történelmi kávéváros közvetlenül Matagalpa városa mellett, ahonnan a nicaraguai kávéipar a 19. század végén fellendült a német és brit bevándorlóknak köszönhetően. A hűvös, dombos vidék tele van százéves haciendákkal és kávéültetvényekkel. Ma San Ramón az 'öko-agroturizmus' központja; a régi tanyák vendégházakká alakultak, ahol a látogatók megismerkedhetnek a kávészüretelés teljes folyamatával. A városka központja apró és barátságos, megőrizte őslakos (matagalpa) kulturális gyökereinek egy részét is. Történelem K8 — bevándorlás és agroturizmus.",
+      "factsAdvanced": [
+        "1905-ben kapott önkormányzati rangot.",
+        "A 19. század második felében számos német telepes alapított itt kávéültetvényt.",
+        "Körülbelül 720 méteres tengerszint feletti magasságban fekszik.",
+        "Védőszentjük San Ramón Nonato, ünnepét augusztus 31-én tartják.",
+        "Az őslakos (matagalpa etnikumú) kézművesek által készített textíliák nagyon híresek.",
+        "A közeli Esperanza Verde ökofarm nemzetközi díjakat nyert fenntarthatóságáért."
+      ]
+    },
+    {
+      "id": "terrabona-matagalpa-cities-v2",
+      "descriptionAdvanced": "Terrabona egy rejtett, meleg klímájú völgyben fekvő település Matagalpa megye déli részén. A név – "Jó Föld" – a spanyol telepesektől származik, akik felfedezték a völgy termékeny talaját, amely különösen alkalmas zöldségek, főleg hagyma, paradicsom és kaliforniai paprika termesztésére. A települést meredek, száraz hegyek veszik körbe, ami elzárja a csapadékosabb szelektől, így mesterséges öntözésre van szükség a mezőgazdasághoz. Terrabona apró, történelmi utcái és lassú életritmusa ellenére kulcsfontosságú beszállítója az országos zöldségpiacnak. Földrajz K6 — száraz völgyek és öntözéses zöldségtermesztés.",
+      "factsAdvanced": [
+        "A várost 1830 körül alapították San José de Terrabona néven.",
+        "Nevét a latin 'terra bona' (jó föld) kifejezésből kapta.",
+        "Tengerszint feletti magassága mintegy 450 méter.",
+        "A hagyma és paradicsom a helyi gazdák legfőbb bevételi forrása.",
+        "Védőszentje Szent József, ünnepe március 19-én van.",
+        "A környező hegyekben egykor kisebb aranylelőhelyeket (placeres) is bányásztak."
+      ]
+    },
+    {
+      "id": "quilali-nueva-segovia-cities-v2",
+      "descriptionAdvanced": "Quilalí egy hegyek közé zárt, történelmi határváros Nueva Segovia megyében, a Coco-folyó völgyében. Történelmi hírnevét onnan kapta, hogy az 1920-as évek végén Augusto C. Sandino tábornok hadseregének egyik legfőbb fellegvára és menedékhelye volt a hegyes, nehezen megközelíthető terep miatt. Ma békés, elsősorban kávé- és babtermesztésből élő közösség. A környező magas csúcsok és a sűrű fenyőerdők gyönyörű, hűvös éghajlatot biztosítanak a településnek, amely folyamatosan fejleszti infrastruktúráját az elszigeteltség leküzdése érdekében. Történelem K8 — gerillaháborúk hegyvidéki terepen.",
+      "factsAdvanced": [
+        "A települést hivatalosan 1920-ban alapították.",
+        "A 'Quilalí' név valószínűleg 'az angyalok folyója' vagy 'vízközeli falu' jelentésű az őslakos nyelvből.",
+        "Az 1927-es csaták során itt volt Sandino főparancsnoksága, mielőtt az amerikai tengerészgyalogosok lebombázták.",
+        "Körülbelül 450 méteres tengerszint feletti magasságban terül el a Coco-folyó partján.",
+        "A kávétermesztés a helyi gazdaság 70%-át teszi ki.",
+        "Védőszentjük Szent József, melyet márciusban ünnepelnek."
+      ]
+    },
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "descriptionAdvanced": "San Fernando a hondurasi határ mentén, a Jalapa-völgy kezdeténél elhelyezkedő erdős település. A falut kiterjedt ocote-fenyvesek borítják, így a fakitermelés, a gyanta gyűjtése és a faművesség évtizedeken át meghatározta az itt élők sorsát. Az ország egyik legbékésebb és leghidegebb klímájú településeként tartják számon. Mezőgazdasága a magasan fekvő kávéföldekre és a babtermesztésre épül. A 80-as évek kontraháborúja súlyosan érintette, de ma már a természetjárás és a határ menti kereskedelem ad reményt a fejlődésre. Földrajz K6 — fenyőerdők és határ menti klíma.",
+      "factsAdvanced": [
+        "A várost 1897-ben alapították hivatalosan.",
+        "Tengerszint feletti magassága megközelíti a 750 métert.",
+        "A környező erdők Közép-Amerika legdélebbi természetes fenyveseinek (Pinus oocarpa) adnak otthont.",
+        "A 80-as években az elaknásított határzónák miatt a fakitermelés szinte teljesen leállt.",
+        "Nicaragua egyik legkisebb népsűrűségű önkormányzata.",
+        "Környezetében számos kisebb folyó fakad, melyek a Coco-folyóba torkollanak."
+      ]
+    },
+    {
+      "id": "el-jicaro-nueva-segovia-cities-v2",
+      "descriptionAdvanced": "El Jícaro történelmi jelentőségű település Nueva Segovia hegyvidékén, melyet korábban Ciudad Sandino néven is ismertek a forradalmi időkben. A város gazdaságát évszázadokon át a Jícaro-folyó völgyében végzett arany- és ezüstbányászat táplálta, amelyet a spanyol gyarmatosítók kezdtek meg. Sandino idejében a bányákat az amerikai cégek elleni lázadás részeként zárták be. Ma a település gazdasága a bányászat mellett a kávé- és babtermesztésre épül, a helyiek büszkék a város gazdag és forrongó történelmi örökségére. Történelem K8 — gyarmati bányászat és 20. századi lázadások.",
+      "factsAdvanced": [
+        "A települést a 19. század végén alapították az aranybányászok.",
+        "Az El Jícaro név a lopótökfára (Crescentia cujete) utal.",
+        "1927-ben Sandino tábornok ezt a várost tette meg a 'Defensores de la Soberanía Nacional' (Nemzeti Szuverenitás Védelmezői) sereg központjává.",
+        "A San Albino nevű egykori aranybánya romjai turisztikai látványosságok.",
+        "Körülbelül 550 méteres tengerszint feletti magasságban helyezkedik el.",
+        "Az 1980-as években jelentős áttelepítési táborokat (asentamientos) hoztak itt létre."
+      ]
+    },
+    {
+      "id": "almicamba-cities-v2",
+      "descriptionAdvanced": "Almicamba egy nehezen megközelíthető, trópusi dzsungellel övezett település az Észak-Karib-tengeri Autonóm Régióban, Prinzapolka önkormányzatán belül. A Prinzapolka-folyó partján fekvő falu hagyományos bányászati logisztikai állomás volt az 1900-as években, ahol a kitermelt aranyat hajókra tették a Karib-tenger felé. Ma főként a szarvasmarha-tenyésztés, a folyami halászat és a fakitermelés határozza meg a helyiek mindennapjait. A mestizo és a miszkító kultúra keveredése egyedülálló nyelvhasználatot és gasztronómiát hozott létre ebben a folyami elszigeteltségben. Földrajz K7 — folyami kikötők és trópusi erdőirtás.",
+      "factsAdvanced": [
+        "Nem önálló város, hanem Prinzapolka önkormányzat egyik legfőbb települése.",
+        "A 20. század első felében a bányavállalatok fontos tranzitállomása volt a folyón.",
+        "Csak száraz évszakban vagy hajóval lehet megbízhatóan megközelíteni.",
+        "A lakosság főként miszkító és mestizo keveréke.",
+        "A prinzapolka-folyó áradásai gyakran elöntik a település alacsonyabban fekvő részeit.",
+        "Az áramszolgáltatás sokáig csak napi néhány órában, generátorokról működött."
+      ]
+    },
+    {
+      "id": "desembocadura-de-rio-grande-cities-v2",
+      "descriptionAdvanced": "Desembocadura de Río Grande, azaz a Río Grande de Matagalpa folyó torkolata, a Dél-Karib-tengeri Autonóm Régió egyik legelzártabb őslakos és afro-karibi közössége. A települést és a környező falvakat (mint Karawala) főként a halászat, a rákászat és a teknősvadászat tartja el. A terület csak vízi úton közelíthető meg, úthálózata nincs. Az itt élők – ulwa, miszkító és kriol etnikumok – megőrizték hagyományos életmódjukat, bár a klímaváltozás és a hurrikánok folyamatosan fenyegetik a part menti, cölöpökre épült házakat. Földrajz K8 — folyótorkolatok és őslakos etnikumok.",
+      "factsAdvanced": [
+        "1996-ban lett önálló önkormányzat a Karib-tengeri régióban.",
+        "Karawala a legnagyobb települése, amely egyben az ulwa etnikum kulturális központja is.",
+        "Nincsenek aszfaltozott utak, a közlekedés kizárólag hajóval (pangas) történik.",
+        "Az éves csapadékmennyiség meghaladja a 3500 millimétert.",
+        "A helyiek halászatának nagy részét a garnélarák és a homár exportja teszi ki.",
+        "Számos házat és kikötőt építettek újjá a pusztító hurrikánok (Joan, Felix) után."
+      ]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "descriptionAdvanced": "Corn Island (Kukorica-szigetek) valójában két szigetből (Nagy és Kis Kukorica-sziget) álló karibi paradicsom, mintegy 70 kilométerre Nicaragua keleti partjaitól. A szigetek angol nyelvű, kreol kultúrájú közösségének fő bevételi forrása hagyományosan a homárhalászat volt, de mára a turizmus vette át a vezető szerepet a fehér homokos strandok, a kristálytiszta vizek és a korallzátonyok miatt. A kalózok egykor menedékhelyként használták a szigeteket, később brit protektorátus alá kerültek. A nyugodt, trópusi karibi hangulat és a zene (reggae, calypso) egyedivé teszi a szigeteket az országon belül. Földrajz K7 — korallzátonyok és szigeti turizmus.",
+      "factsAdvanced": [
+        "A két sziget (Big Corn és Little Corn) együttes területe alig 13 négyzetkilométer.",
+        "1971-ig az Egyesült Államok bérelte a szigeteket Nicaraguától egy 1914-es egyezmény alapján.",
+        "A hivatalos nyelv a spanyol, de a lakosság nagy része az angol kreol dialektusát (kriol) beszéli.",
+        "A Little Corn Islanden (Kis-sziget) tilos bármilyen motoros jármű használata.",
+        "Augusztusban tartják a híres 'Rákleves Fesztivált' (Crab Soup Festival) a rabszolgaság 1841-es eltörlésének emlékére.",
+        "A szigeteket gyönyörű, sértetlen korallzátonyok övezik, melyek ideálisak búvárkodásra."
+      ]
+    },
+    {
+      "id": "la-cruz-de-rio-grande-cities-v2",
+      "descriptionAdvanced": "La Cruz de Río Grande egy mélyen a trópusi dzsungelben fekvő folyóparti település, a Río Grande de Matagalpa középső szakaszán. A várost eredetileg hittérítő misszionáriusok és fakitermelők alapították a 20. század elején. A település híd a nyugati, spanyolajkú mestizo kultúra és a keleti, őslakos miszkító kultúra között. Az infrastruktúra hiánya miatt a mezőgazdasági termények és a fa szállításának egyetlen útja a kanyargós folyó maradt évtizedekig. A sűrű esőerdők és a gazdag vadvilág az ország egyik legkevésbé érintett régiójává teszik. Földrajz K6 — esőerdei izoláció és folyami hajózás.",
+      "factsAdvanced": [
+        "1982-ben nyilvánították független önkormányzattá a Dél-Karib-tengeri Autonóm Régióban.",
+        "A város nevét (A folyó nagy keresztje) állítólag egy hatalmas mahagónifából faragott keresztről kapta.",
+        "A lakosság főként banánt, maniókát és rizst termeszt saját ellátásra.",
+        "Trópusi egyenlítői klíma jellemzi, szinte minden nap esik az eső.",
+        "Kiterjedt fakitermelés (főleg mahagóni és cédrus) jellemezte a 20. század közepén.",
+        "Csak a legutóbbi években épültek földutak, amelyek összekötik a nyugati területekkel."
+      ]
+    },
+    {
+      "id": "el-tortuguero-cities-v2",
+      "descriptionAdvanced": "El Tortuguero (A Teknősvadász) egy távoli, sík vidéki település a Dél-Karib-tengeri Autonóm Régió északi határán. Bár a település neve a teknősökre utal, amelyek egykor bőségesen éltek a környező vizekben, a lakosság ma elsősorban szarvasmarha-tenyésztésből, fakitermelésből és a környező folyókon (főleg a Kurinwás-folyón) végzett halászatból él. A vidék rendkívül gazdag trópusi erdőkben, de a mezőgazdasági terjeszkedés (a 'colonos' betelepülése) miatt az erdőirtás komoly környezeti problémát jelent. Földrajz K8 — agrár-terjeszkedés és erdőirtás a trópusokon.",
+      "factsAdvanced": [
+        "A települést az 1940-es években alapították, de csak 1996-ban kapott önkormányzati rangot.",
+        "Kezdetben gumi (hule) gyűjtők és teknősvadászok táboraként szolgált.",
+        "Közigazgatásilag Nicaragua egyik legnagyobb, de legritkábban lakott területe.",
+        "Nincsenek kiépített aszfaltutak, a közlekedés sárutakon és folyókon zajlik.",
+        "A trópusi esőerdei klíma miatt az évi átlaghőmérséklet 26-28 °C közötti magas páratartalommal.",
+        "Az extenzív szarvasmarhatartás miatt a régió erdőinek jelentős része legelővé vált."
+      ]
+    },
+    {
+      "id": "paiwas-cities-v2",
+      "descriptionAdvanced": "Bocana de Paiwas, vagy röviden Paiwas, egy gyorsan fejlődő mezőgazdasági központ a Río Grande de Matagalpa és a Paiwas-folyó találkozásánál. A Dél-Karib-tengeri Autonóm Régió (RACCS) része, de gazdaságilag és kulturálisan inkább a spanyolajkú közép-nicaraguai (Chontales és Matagalpa) hagyományokhoz kötődik. A várost a nagy kiterjedésű haciendák és a robusztus sajtipar teszi fontossá, amelyek Salvadorba és Hondurasba exportálnak tejtermékeket. A hegyvidék és a sík dzsungel határán elhelyezkedő Paiwas a nicaraguai pionír szellem egyik utolsó bástyája. Földrajz K7 — belső migráció és sajtkészítés.",
+      "factsAdvanced": [
+        "A várost az 1970-es években alapították a belső migrációs hullám során.",
+        "Hivatalosan 1974-ben emelték önkormányzati rangra.",
+        "A név valószínűleg a szumo őslakos nyelvből származik, jelentése 'két folyó találkozása'.",
+        "A lakosság szinte 100%-a spanyolajkú mestizo, szemben a Karib-térség más részeivel.",
+        "A település határában hatalmas, gyakran több ezer hektáros szarvasmarha-farmok működnek.",
+        "A folyó a száraz évszakban fontos közlekedési útvonal a helyiek számára."
+      ]
+    }
+  ]
+}

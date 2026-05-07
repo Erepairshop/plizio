@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "ivorycoast",
+  "files": [
+    "lib/visualLab/data/poiExtraIvorycoastCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLifeV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mosquee-du-plateau-landmarks-v2",
+      "descriptionAdvanced": "Die Moschee von Plateau ist ein markantes religiöses Wahrzeichen im Herzen des Geschäftsviertels von Abidjan. Mit ihrem charakteristischen blauen Dach und der modernen Architektur bildet sie einen architektonischen Kontrast zu den umliegenden Wolkenkratzern des 'Plateau'. Die Moschee dient als zentraler Ort des Gebets für die muslimische Gemeinschaft der Stadt und symbolisiert die religiöse Vielfalt inmitten des wirtschaftlichen Zentrums Westafrikas. Sie ist besonders während der großen Freitagsgebete ein Ort intensiven sozialen und spirituellen Lebens. Sachkunde K5 — Architektur und Religion in der modernen Stadt.",
+      "factsAdvanced": [
+        "Gelegen im Geschäftsviertel Plateau.",
+        "Markantes blaues Dach als Erkennungsmerkmal.",
+        "Zentraler Gebetsort in Abidjans Zentrum.",
+        "Kombiniert modernes Design mit islamischen Traditionen.",
+        "Fasst Tausende von Gläubigen.",
+        "Wichtiges Symbol für religiöse Toleranz.",
+        "Architektonisches Highlight in der Skyline.",
+        "Ort für bedeutende religiöse Festlichkeiten."
+      ]
+    },
+    {
+      "id": "la-pyramide-abidjan-landmarks-v2",
+      "descriptionAdvanced": "La Pyramide ist eines der kühnsten und umstrittensten Architekturprojekte Abidjans aus den 1970er Jahren. Das vom italienischen Architekten Rinaldo Olivieri entworfene Gebäude in Form einer monumentalen Pyramide sollte das wirtschaftliche Wunder der Elfenbeinküste symbolisieren. Trotz seines visionären Designs und seiner einstigen Nutzung als Luxuswohn- und Geschäftskomplex steht das Gebäude heute größtenteils leer und gilt als 'brutalistisches' Denkmal einer vergangenen Ära. Dennoch bleibt es ein faszinierendes Beispiel für den Optimismus und die architektonische Experimentierfreude jener Zeit. Geschichte K8 — Modernismus und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Entworfen vom Architekten Rinaldo Olivieri.",
+        "Erbaut zwischen 1968 und 1973.",
+        "Symbol des ivorischen Wirtschaftswunders.",
+        "Brutalistischer Baustil mit Betonstruktur.",
+        "Einst Standort für Luxuswohnungen und Büros.",
+        "Architektonisches Wahrzeichen im Plateau-Viertel.",
+        "Heute weitgehend ungenutzt, aber ikonisch.",
+        "Faszinierendes Beispiel für experimentelle Architektur."
+      ]
+    },
+    {
+      "id": "stade-olympique-ebimpe-landmarks-v2",
+      "descriptionAdvanced": "Das Olympiastadion Alassane Ouattara in Ebimpé ist das größte und modernste Sportstadion der Elfenbeinküste. Es wurde 2020 eingeweiht und dient als Nationalstadion sowie als Hauptaustragungsort für den Afrika-Cup 2023. Das Stadion ist ein Geschenk der Volksrepublik China und beeindruckt durch seine monumentale Größe und die moderne Ausstattung. Es symbolisiert den Aufstieg des Landes als bedeutendes Sportzentrum in Afrika und bietet eine hochmoderne Bühne für Fußball und Leichtathletik auf internationalem Niveau. Erdkunde K7 — Moderne Infrastruktur und Sportkultur.",
+      "factsAdvanced": [
+        "Kapazität für 60.000 Zuschauer.",
+        "Eröffnet im Oktober 2020.",
+        "Benannt nach Präsident Alassane Ouattara.",
+        "Hauptaustragungsort des Afrika-Cups 2023.",
+        "Architekturprojekt in Zusammenarbeit mit China.",
+        "Multifunktional für Fußball und Leichtathletik.",
+        "Größtes Stadion in Westafrika.",
+        "Gelegen in der Agglomeration von Abidjan (Anyama)."
+      ]
+    },
+    {
+      "id": "stade-felix-houphouet-boigny-landmarks-v2",
+      "descriptionAdvanced": "Das Stade Félix Houphouët-Boigny, liebevoll 'Le Félicia' genannt, ist die historische Sportstätte Abidjans. Benannt nach dem ersten Präsidenten des Landes, liegt es im Herzen des Plateau-Bezirks und war jahrzehntelang das Zentrum des nationalen Sports. Für den Afrika-Cup 2023 wurde das Stadion umfassend renoviert und modernisiert, wobei sein legendärer Charakter bewahrt wurde. Es ist nicht nur ein Ort für Fußball, sondern auch ein Symbol für die sportlichen Erfolge und die nationale Einheit der Elfenbeinküste seit der Unabhängigkeit. Geschichte K8 — Sport und Identität.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1952.",
+        "Beiname: Le Félicia.",
+        "Umfassend renoviert für 2023.",
+        "Kapazität von ca. 33.000 Sitzplätzen.",
+        "Gelegen im zentralen Viertel Plateau.",
+        "Zentrum der Nationalmannschaft 'Les Éléphants'.",
+        "Austragungsort zahlreicher historischer Spiele.",
+        "Multifunktionale Nutzung für Großveranstaltungen."
+      ]
+    },
+    {
+      "id": "pont-henri-konan-bedie-landmarks-v2",
+      "descriptionAdvanced": "Die Henri-Konan-Bédié-Brücke ist ein Meisterwerk moderner Ingenieurskunst in Abidjan und eine lebenswichtige Verkehrsader. Sie verbindet die nördlichen Stadtteile Riviera und Cocody mit dem südlichen Marcory und überquert dabei die Ébrié-Lagune. Die Eröffnung im Jahr 2014 markierte einen Meilenstein in der Entlastung des städtischen Verkehrs und ist die erste mautpflichtige Brücke des Landes. Mit ihrer eleganten Struktur und der effizienten Verkehrsführung symbolisiert sie den modernen Fortschritt und die wirtschaftliche Dynamik der ivorischen Metropole. Erdkunde K7 — Urbane Mobilität und Infrastruktur.",
+      "factsAdvanced": [
+        "Eröffnet am 16. Dezember 2014.",
+        "Länge des Brückenbauwerks: 1,5 km.",
+        "Verbindet Riviera/Cocody mit Marcory.",
+        "Erste Mautbrücke der Elfenbeinküste.",
+        "Entlastet den Verkehr über die Lagune massiv.",
+        "Modernes Design mit hoher Kapazität.",
+        "Teil eines größeren Stadtautobahnprojekts.",
+        "Benannt nach dem ehemaligen Präsidenten HKB."
+      ]
+    },
+    {
+      "id": "pont-alassane-ouattara-landmarks-v2",
+      "descriptionAdvanced": "Die Alassane-Ouattara-Brücke, eingeweiht im Jahr 2023, ist das neueste architektonische Highlight von Abidjan. Als spektakuläre Schrägseilbrücke verbindet sie die Stadtteile Cocody und Plateau und bietet eine atemberaubende Aussicht auf die Skyline der Stadt. Besonders nachts wird die Brücke durch eine aufwendige Lichtinszenierung in Szene gesetzt, was sie zu einem Symbol für das moderne, aufstrebende Abidjan macht. Sie ist nicht nur eine wichtige Verkehrsverbindung, sondern auch ein touristisches Wahrzeichen, das den innovativen Geist des Landes widerspiegelt. Sachkunde K5 — Moderne Brückenarchitektur.",
+      "factsAdvanced": [
+        "Eröffnet im August 2023.",
+        "Spektakuläre Schrägseilbrücke.",
+        "Verbindet Plateau mit Cocody.",
+        "Hauptpylon ist 108 Meter hoch.",
+        "Gesamtlänge von ca. 630 Metern.",
+        "Aufwendige Nachtbeleuchtung in Nationalfarben.",
+        "Zweite Schrägseilbrücke Westafrikas.",
+        "Wahrzeichen des modernen Abidjan."
+      ]
+    },
+    {
+      "id": "tour-hotel-ivoire-landmarks-v2",
+      "descriptionAdvanced": "Der Turm des Hôtel Ivoire ist ein unverkennbares Symbol für Luxus und Modernität in Abidjan. In den 1960er Jahren erbaut, war das Hotel lange Zeit das prächtigste in ganz Afrika und bleibt bis heute ein Wahrzeichen des eleganten Stadtteils Cocody. Mit seinem markanten Turm bietet es einen weiten Blick über die Ébrié-Lagune und das Geschäftsviertel Plateau. Das Hotel ist nicht nur eine Unterkunft für Staatsgäste und Prominente, sondern mit seiner Eisbahn, dem Kino und den Gärten auch ein wichtiges kulturelles und gesellschaftliches Zentrum der Stadt. Erdkunde K7 — Tourismus und Stadtbild.",
+      "factsAdvanced": [
+        "Wahrzeichen des Stadtteils Cocody.",
+        "Erbaut in den 1960er Jahren (Architekt Heinz Fenchel).",
+        "Teil der Sofitel Luxury Hotels.",
+        "Berühmt für die einzige Eisbahn Westafrikas.",
+        "Zentrum für internationale Gipfeltreffen.",
+        "Bietet Blick über die gesamte Lagune.",
+        "Verfügt über ein eigenes Kasino und Kino.",
+        "Architektonisches Symbol der 'Perle der Lagunen'."
+      ]
+    },
+    {
+      "id": "musee-des-civilisations-landmarks-v2",
+      "descriptionAdvanced": "Das Museum der Zivilisationen der Elfenbeinküste in Abidjan ist der bedeutendste Hüter des kulturellen Erbes des Landes. Mit einer Sammlung von über 15.000 Objekten, darunter Masken, Statuen, Musikinstrumente und archäologische Funde, bietet es einen tiefen Einblick in die Geschichte und Kunst der verschiedenen ethnischen Gruppen. Gegründet während der Kolonialzeit, hat sich das Museum zu einem modernen Forschungs- und Bildungszentrum entwickelt. Es zeigt eindrucksvoll die Vielfalt und Tiefe der ivorischen Kulturen von der prähistorischen Zeit bis zur Gegenwart. Geschichte K8 — Kulturerbe und Identität.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1942.",
+        "Sammlung von über 15.000 Artefakten.",
+        "Präsentiert Masken, Gold und Statuen.",
+        "Zentrum für die Erforschung der ivorischen Völker.",
+        "Wichtiges Bildungsziel für Schulklassen.",
+        "Beheimatet bedeutende Werke der Senufo und Akan.",
+        "Befindet sich im Plateau-Distrikt.",
+        "Zeugnis der vorkolonialen und kolonialen Geschichte."
+      ]
+    },
+    {
+      "id": "fondation-felix-houphouet-boigny-landmarks-v2",
+      "descriptionAdvanced": "Die Félix-Houphouët-Boigny-Stiftung für Friedensforschung in Yamoussoukro ist ein monumentales architektonisches Werk, das dem Streben nach Frieden gewidmet ist. Das beeindruckende Gebäude mit seinen weiten Hallen und Marmorfluren dient als Zentrum für internationale Konferenzen und wissenschaftliche Forschung. Es wurde auf Wunsch des ersten Präsidenten errichtet und unterstreicht die Rolle der Elfenbeinküste als Vermittler in regionalen Konflikten. Die Stiftung ist ein Ort der Begegnung und des Dialogs und beherbergt eine umfangreiche Bibliothek sowie Archive zur Geschichte des Landes. Sachkunde K8 — Internationale Politik und Frieden.",
+      "factsAdvanced": [
+        "Sitz in Yamoussoukro.",
+        "Benannt nach dem ersten Präsidenten.",
+        "Zentrum für Friedensforschung und Dialog.",
+        "Monumentale moderne Architektur.",
+        "Sitz internationaler Friedenspreise.",
+        "Verfügt über modernste Konferenzsäle.",
+        "Symbol für die politische Stabilität des Landes.",
+        "Unterstützt von der UNESCO."
+      ]
+    },
+    {
+      "id": "palais-presidentiel-yamoussoukro-landmarks-v2",
+      "descriptionAdvanced": "Der Präsidentenpalast in Yamoussoukro ist ein Ort voller Mystik und Pracht. Das weitläufige Gelände ist von hohen Mauern umgeben und beherbergt nicht nur die offizielle Residenz, sondern auch einen künstlichen See, in dem die berühmten 'heiligen Krokodile' leben. Diese Tiere sind eine Touristenattraktion und gelten als Wächter des Palastes. Die Architektur ist streng und monumental, was den Status von Yamoussoukro als politisches Herz des Landes unterstreicht. Obwohl das Innere für die Öffentlichkeit meist geschlossen ist, bleibt die Anlage ein faszinierendes Ziel für Besucher. Erdkunde K7 — Hauptstädte und Machtzentren.",
+      "factsAdvanced": [
+        "Offizielle Residenz in der politischen Hauptstadt.",
+        "Bekannt für den Krokodilsee (heilige Krokodile).",
+        "Monumentaler Baustil der Houphouët-Boigny-Ära.",
+        "Streng bewachter und abgeschirmter Komplex.",
+        "Symbol für die Erhebung Yamoussoukros zur Hauptstadt.",
+        "Ort offizieller Staatszeremonien.",
+        "Die Krokodile werden täglich öffentlich gefüttert.",
+        "Umfasst weitläufige Park- und Gartenanlagen."
+      ]
+    },
+    {
+      "id": "grande-mosquee-de-kong-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Kong ist ein herausragendes Juwel der sudanesisch-sahelischen Architektur in Westafrika. Das aus Lehmziegeln errichtete Bauwerk mit seinen charakteristischen Holzbalken, die aus den Wänden ragen, zeugt von der Macht und dem kulturellen Einfluss des historischen Kong-Reiches im 17. und 18. Jahrhundert. Als wichtiges spirituelles Zentrum bewahrt sie jahrhundertealte Traditionen und Techniken des Lehmbaus. Die Moschee ist auf der Vorschlagsliste für das UNESCO-Weltkulturerbe und zieht Architekturinteressierte aus aller Welt an. Geschichte K8 — Islamische Architektur in Afrika.",
+      "factsAdvanced": [
+        "Erbaut im typisch sudanesischen Baustil.",
+        "Verwendet traditionelle Lehmbauweise.",
+        "Symbol des historischen Kong-Reiches.",
+        "UNESCO-Weltkulturerbe-Anwärter.",
+        "Charakteristische Holzelemente (Pfeiler).",
+        "Wichtiger Ort für islamische Gelehrsamkeit.",
+        "Restauriert nach traditionellen Methoden.",
+        "Eines der ältesten religiösen Gebäude des Landes."
+      ]
+    },
+    {
+      "id": "mosquee-de-tingrela-landmarks-v2",
+      "descriptionAdvanced": "Die Moschee von Tingréla ist ein weiteres exzellentes Beispiel für die sakrale Lehmarchitektur im Norden der Elfenbeinküste. Sie liegt an den alten Karawanenwegen und diente Reisenden und Gelehrten über Jahrhunderte als Ort der Einkehr. Ihre kompakte Form und die kunstvollen Verzierungen sind typisch für den Sahel-Stil, der sich an die klimatischen Bedingungen der Region anpasst. Die regelmäßige Instandhaltung durch die lokale Gemeinschaft ist ein lebendiges Beispiel für den Erhalt von traditionellem Wissen und handwerklichem Können. Erdkunde K7 — Kulturerbe der Savanne.",
+      "factsAdvanced": [
+        "Gelegen in der nördlichsten Region.",
+        "Klassischer Sahel-Sudan-Stil.",
+        "Wichtiger Stopp an historischen Handelsrouten.",
+        "Kontinuierlich von der Gemeinde gepflegt.",
+        "Einzigartige Akustik im Inneren.",
+        "Symbol für den Islam im ländlichen Norden.",
+        "Kompakter Bau mit charakteristischen Minaretten.",
+        "Schutz vor der extremen Hitze durch dicke Lehmwände."
+      ]
+    },
+    {
+      "id": "cathedrale-sainte-therese-bouake-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale Sainte Thérèse in Bouaké ist das religiöse Wahrzentrum der zweitgrößten Stadt des Landes. Mit ihrer kühnen, modernen Architektur und dem weitläufigen Vorplatz ist sie ein markanter Punkt im Stadtbild. Die Kathedrale ist der Sitz des Erzbistums Bouaké und spielt eine zentrale Rolle im sozialen und spirituellen Leben Zentral-Elfenbeinküste. Sie ist nicht nur ein Ort des Gebets, sondern auch ein Zeugnis für die Beständigkeit und den Glauben der Menschen in einer Region, die oft von politischen Unruhen geprägt war. Sachkunde K8 — Religiöse Zentren und Gemeinschaft.",
+      "factsAdvanced": [
+        "Sitz des Erzbistums Bouaké.",
+        "Moderne Architektur aus den 1960er Jahren.",
+        "Zentraler Punkt für religiöse Feste.",
+        "Wichtiges Symbol für Frieden und Versöhnung.",
+        "Besitzt eindrucksvolle Buntglasfenster.",
+        "Fasst eine große Anzahl von Gläubigen.",
+        "Ort für bedeutende soziale Initiativen.",
+        "Prägt das Panorama von Bouaké."
+      ]
+    },
+    {
+      "id": "stade-de-la-paix-bouake-landmarks-v2",
+      "descriptionAdvanced": "Das Friedensstadion (Stade de la Paix) in Bouaké ist eine der bedeutendsten Sportstätten Westafrikas. Ursprünglich für den Afrika-Cup 1984 erbaut, wurde es für das Turnier 2023 komplett modernisiert und erweitert. Der Name 'Friedensstadion' erinnert an die historische Rolle, die das Stadion als Ort der nationalen Aussöhnung nach dem Bürgerkrieg spielte. Mit seiner neuen Kapazität und den hochmodernen Einrichtungen ist es ein Stolz der Region und ein wichtiger Motor für den Sporttourismus im Landesinneren. Erdkunde K7 — Sportstätten und nationale Versöhnung.",
+      "factsAdvanced": [
+        "Kapazität für 40.000 Zuschauer.",
+        "Umfassend modernisiert für 2023.",
+        "Zweitgrößtes Stadion des Landes.",
+        "Symbol für den Frieden in der Elfenbeinküste.",
+        "Beheimatet wichtige internationale Spiele.",
+        "Zentrum des Sports im Herzen des Landes.",
+        "Moderne Flutlicht- und Medientechnik.",
+        "Wichtiger Austragungsort der Gruppenphase 2023."
+      ]
+    },
+    {
+      "id": "stade-charles-konan-banny-landmarks-v2",
+      "descriptionAdvanced": "Das Charles-Konan-Banny-Stadion in Yamoussoukro ist eine moderne Arena, die speziell für den Afrika-Cup 2023 errichtet wurde. Benannt nach dem ehemaligen Premierminister, fügt es sich elegant in die monumentale Architektur der Hauptstadt ein. Das Stadion zeichnet sich durch seine kompakte Bauweise und die hervorragende Sicht von allen Plätzen aus. Es ist ein wesentlicher Teil der nationalen Strategie, Yamoussoukro nicht nur politisch, sondern auch sportlich als Zentrum der Elfenbeinküste zu etablieren. Sachkunde K8 — Moderne Sportarchitektur.",
+      "factsAdvanced": [
+        "Eröffnet im Jahr 2022.",
+        "Kapazität von 20.000 Sitzplätzen.",
+        "Benannt nach Charles Konan Banny.",
+        "Moderne Ausstattung für internationale Standards.",
+        "Wichtiger Austragungsort in der Hauptstadt.",
+        "Teil des Infrastrukturprogramms für 2023.",
+        "Architektonisch modern und funktional.",
+        "Stärkt die sportliche Bedeutung Yamoussoukros."
+      ]
+    },
+    {
+      "id": "stade-amadou-gon-coulibaly-landmarks-v2",
+      "descriptionAdvanced": "Das Amadou-Gon-Coulibaly-Stadion in Korhogo ist ein Symbol für die Dezentralisierung des Sports in der Elfenbeinküste. Im Norden des Landes gelegen, wurde dieses moderne Stadion für den Afrika-Cup 2023 gebaut und nach dem verstorbenen Premierminister benannt. Die Arena bringt internationalen Fußball in die Savannenregion und bietet der lokalen Jugend eine erstklassige Sportinfrastruktur. Mit seinem charakteristischen Design und der Einbettung in die lokale Landschaft ist es ein bedeutendes Wahrzeichen des modernen Nordens. Erdkunde K7 — Regionale Entwicklung durch Sport.",
+      "factsAdvanced": [
+        "Kapazität für 20.000 Zuschauer.",
+        "Fertiggestellt im Jahr 2023.",
+        "Bedeutendste Sportstätte im Norden.",
+        "Benannt nach Amadou Gon Coulibaly.",
+        "Zentrum für Fußball in der Senufo-Region.",
+        "Inklusive modernem Trainingsgelände.",
+        "Stärkt den Tourismus in Korhogo.",
+        "Teil der modernen Sport-Infrastruktur-Offensive."
+      ]
+    },
+    {
+      "id": "stade-laurent-pokou-landmarks-v2",
+      "descriptionAdvanced": "Das Laurent-Pokou-Stadion in der Hafenstadt San Pédro ist eine Hommage an einen der größten Fußballer der ivorischen Geschichte. Es wurde als moderner Sportkomplex für den Afrika-Cup 2023 errichtet und spielt eine Schlüsselrolle bei der Entwicklung des Südwestens. Das Stadion besticht durch sein offenes Design, das eine gute Luftzirkulation im tropischen Klima ermöglicht. Es dient nicht nur dem Profifußball, sondern ist auch ein Zentrum für die Förderung des Breitensports in der Region. Geschichte K8 — Sportlegenden und Denkmäler.",
+      "factsAdvanced": [
+        "Kapazität für 20.000 Personen.",
+        "Erbaut für den Afrika-Cup 2023.",
+        "Benannt nach der Fußball-Legende Laurent Pokou.",
+        "Wichtigster Sportkomplex im Südwesten.",
+        "Moderne Dachkonstruktion für alle Tribünen.",
+        "Optimiert für das tropische Küstenklima.",
+        "Motor für die Stadtentwicklung von San Pédro.",
+        "Internationale Standards für Sicherheit und Technik."
+      ]
+    },
+    {
+      "id": "palais-de-la-culture-landmarks-v2",
+      "descriptionAdvanced": "Der Kulturpalast Bernard Binlin-Dadié in Abidjan ist das pulsierende Herz der ivorischen Kunst- und Musikszene. Direkt an der Ébrié-Lagune im Stadtteil Treichville gelegen, bietet er mit seinen verschiedenen Sälen und Open-Air-Bühnen Platz für tausende Besucher. Er ist der Ort, an dem die großen Konzerte der Coupé-Décalé-Stars und internationale Theatervorführungen stattfinden. Der Komplex ist ein Symbol für die kulturelle Vormachtstellung Abidjans in Westafrika und ein Treffpunkt für Künstler und Intellektuelle aus der ganzen Welt. Sachkunde K5 — Kultur und Unterhaltung in der Großstadt.",
+      "factsAdvanced": [
+        "Gelegen im Stadtteil Treichville.",
+        "Benannt nach dem Schriftsteller Bernard Dadié.",
+        "Größtes Kulturzentrum des Landes.",
+        "Verfügt über Säle für bis zu 4.000 Personen.",
+        "Austragungsort für internationale Konzerte.",
+        "Wunderschöne Lage direkt an der Lagune.",
+        "Zentrum für ivorische Musik und Theater.",
+        "Architektonisch markanter Bau der Moderne."
+      ]
+    },
+    {
+      "id": "ccia-building-landmarks-v2",
+      "descriptionAdvanced": "Das CCIA-Gebäude ist einer der markantesten Wolkenkratzer in der Skyline von Abidjan. Nach einer umfassenden Renovierung erstrahlt das Gebäude in neuem Glanz und beherbergt heute zahlreiche internationale Organisationen und Büros, darunter zeitweise die Afrikanische Entwicklungsbank. Mit seiner Höhe und dem modernen Glasdesign ist es ein Wahrzeichen des Plateaus und symbolisiert die Rolle Abidjans als wichtigstes Finanz- und Geschäftszentrum Westafrikas. Es ist ein Beispiel für die kontinuierliche Erneuerung der ivorischen Hauptstadt. Erdkunde K7 — Wirtschaftszentren und Hochhausarchitektur.",
+      "factsAdvanced": [
+        "Höhe von ca. 120 Metern.",
+        "Kernstück des Bankenviertels Plateau.",
+        "Modernisiertes Design mit Glasfassade.",
+        "Beherbergt internationale Finanzinstitutionen.",
+        "Einer der höchsten Türme Abidjans.",
+        "Symbol für wirtschaftliche Dynamik.",
+        "Wichtiges Wahrzeichen in der Skyline.",
+        "Umfassende High-Tech-Büroausstattung."
+      ]
+    },
+    {
+      "id": "postel-2001-building-landmarks-v2",
+      "descriptionAdvanced": "Postel 2001 ist ein futuristisch anmutendes Hochhaus im Plateau-Distrikt, das ursprünglich als Zentrale für das Post- und Fernmeldewesen konzipiert wurde. Seine einzigartige Silhouette mit den abgesetzten Etagen macht es zu einem der am leichtesten erkennbaren Gebäude in Abidjan. Als Kind seiner Zeit spiegelt es den technologischen Optimismus der 1980er Jahre wider. Trotz der Herausforderungen der Zeit bleibt es ein architektonisches Statement und ein wichtiger Bestandteil der urbanen Identität der ivorischen Metropole. Geschichte K8 — Urbanisierung und Telekommunikation.",
+      "factsAdvanced": [
+        "Erbaut in den 1980er Jahren.",
+        "Über 100 Meter hoch.",
+        "Einzigartige futuristische Silhouette.",
+        "Wahrzeichen des Plateau-Viertels.",
+        "Ehemalige Zentrale für Telekommunikation.",
+        "Herausragendes Beispiel für Post-Moderne.",
+        "Wichtiges Bürozentrum in der Innenstadt.",
+        "Prägt das nächtliche Stadtbild durch Beleuchtung."
+      ]
+    },
+    {
+      "id": "tour-administrative-a-landmarks-v2",
+      "descriptionAdvanced": "Der Verwaltungsturm A ist Teil des monumentalen Regierungskomplexes 'Cité Administrative' im Zentrum von Abidjan. Als funktionaler Hochbau beherbergt er verschiedene Ministerien und Behörden und ist ein zentraler Ort der staatlichen Verwaltung. Die Architektur der Türme (A bis E) ist ein Zeugnis der schnellen Urbanisierung und Zentralisierung der Macht in den 1970er Jahren. Der Turm A ist ein wichtiger Anlaufpunkt für Bürger und Staatsbedienstete und ein unverzichtbarer Teil des administrativen Apparats der Elfenbeinküste. Erdkunde K7 — Verwaltung und Staatsorganisation.",
+      "factsAdvanced": [
+        "Teil der Cité Administrative im Plateau.",
+        "Beherbergt zentrale Ministerien.",
+        "Erbaut in der Ära des Wirtschaftswunders.",
+        "Klassischer funktionalistischer Baustil.",
+        "Wichtiger Arbeitsplatz für Tausende Beamte.",
+        "Ein Teil der fünfteiligen Turmgruppe.",
+        "Zentrum der nationalen Verwaltung.",
+        "Wahrzeichen für staatliche Präsenz in Abidjan."
+      ]
+    },
+    {
+      "id": "monument-aux-morts-treichville-landmarks-v2",
+      "descriptionAdvanced": "Das Gefallenendenkmal in Treichville ist eine feierliche Gedenkstätte, die den Soldaten gewidmet ist, die in den beiden Weltkriegen ihr Leben ließen. Es erinnert insbesondere an die ivorischen Schützen (Tirailleurs), die an der Seite Frankreichs kämpften. Das Denkmal ist ein Ort der Stille und Besinnung inmitten der lebhaften Stadt und ein wichtiges Symbol für die gemeinsame Geschichte und die Opfer, die während der Kolonialzeit erbracht wurden. Jährlich finden hier offizielle Gedenkzeremonien statt, die die historische Verbundenheit und den Respekt für die Vorfahren unterstreichen. Geschichte K8 — Kolonialgeschichte und Gedenkkultur.",
+      "factsAdvanced": [
+        "Gewidmet den Opfern der Weltkriege.",
+        "Erinnert an die Tirailleurs Ivoiriens.",
+        "Zentraler Ort für militärische Gedenkfeiern.",
+        "Gelegen im geschichtsträchtigen Treichville.",
+        "Klassisches Monumentaldesign.",
+        "Symbol für Mut und Opferbereitschaft.",
+        "Wichtiger Ort für den nationalen Veteranentag.",
+        "Bewahrt das historische Gedächtnis des Landes."
+      ]
+    },
+    {
+      "id": "palais-de-justice-abidjan-landmarks-v2",
+      "descriptionAdvanced": "Der Justizpalast von Abidjan ist das imposante Zentrum der ivorischen Rechtssprechung. Im Herzen des Plateaus gelegen, beeindruckt das Gebäude durch seine formelle, autoritäre Architektur, die die Würde des Gesetzes ausstrahlt. Hier befinden sich wichtige Gerichte, darunter das Appellationsgericht. Der Justizpalast ist nicht nur ein Ort der Rechtspflege, sondern auch ein Schauplatz bedeutender politischer und juristischer Ereignisse in der Geschichte des Landes. Er symbolisiert das Streben nach Gerechtigkeit und Rechtsstaatlichkeit in einer sich modernisierenden Gesellschaft. Sachkunde K8 — Recht und Staat.",
+      "factsAdvanced": [
+        "Sitz des Appellationsgerichts von Abidjan.",
+        "Gelegen im Justizviertel des Plateaus.",
+        "Formelle, monumentale Architektur.",
+        "Zentrum der nationalen Rechtssprechung.",
+        "Wichtige staatliche Institution.",
+        "Schauplatz historischer Gerichtsprozesse.",
+        "Symbol für Rechtsstaatlichkeit.",
+        "Umfasst zahlreiche Verhandlungssäle und Archive."
+      ]
+    },
+    {
+      "id": "hotel-de-ville-abidjan-landmarks-v2",
+      "descriptionAdvanced": "Das Rathaus von Abidjan (Hôtel de Ville) ist das administrative Zentrum der Metropole und Sitz des Gouverneurs des autonomen Bezirks Abidjan. Gelegen im Plateau-Viertel, ist es ein Ort bedeutender städtischer Entscheidungen und repräsentativer Empfänge. Das Gebäude spiegelt den Stolz der Stadt als wirtschaftliches Herz Westafrikas wider. Hier werden die Geschicke von Millionen Einwohnern gelenkt, und der weitläufige Platz vor dem Rathaus ist oft Schauplatz für offizielle Paraden und Feierlichkeiten. Erdkunde K7 — Kommunalverwaltung und Urbanisierung.",
+      "factsAdvanced": [
+        "Sitz des Gouverneurs von Abidjan.",
+        "Administratives Herz der Metropole.",
+        "Gelegen im zentralen Distrikt Plateau.",
+        "Ort für offizielle Empfänge und Zeremonien.",
+        "Zentrum der Stadtverwaltung.",
+        "Repräsentative moderne Architektur.",
+        "Wichtiger Punkt im politischen Gefüge der Stadt.",
+        "Fördert städtische Entwicklungsprojekte."
+      ]
+    },
+    {
+      "id": "cathedrale-saint-jean-baptiste-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale Saint Jean-Baptiste in Korhogo ist das spirituelle Wahrzeichen des katholischen Nordens. Eingeweiht im Jahr 1971, beeindruckt sie durch ihre moderne, luftige Architektur, die sich harmonisch in die Savannenlandschaft einfügt. Als Sitz des Erzbistums Korhogo ist sie ein wichtiges Zentrum für Bildung und soziale Arbeit in der Region. Die Kathedrale symbolisiert das friedliche Zusammenleben verschiedener Glaubensrichtungen im Norden der Elfenbeinküste und ist ein Ort der Begegnung für Menschen aus allen Schichten der Gesellschaft. Sachkunde K8 — Religiöse Vielfalt und Mission.",
+      "factsAdvanced": [
+        "Sitz des Erzbistums Korhogo.",
+        "Geweiht im Jahr 1971.",
+        "Herausragende Architektur im Norden.",
+        "Zentrum für soziale und karitative Arbeit.",
+        "Wichtiges spirituelles Symbol in der Savanne.",
+        "Ort bedeutender religiöser Versammlungen.",
+        "Fördert den interreligiösen Dialog.",
+        "Modernes Wahrzeichen der Stadt Korhogo."
+      ]
+    }
+  ]
+}

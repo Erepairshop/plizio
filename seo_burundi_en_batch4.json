@@ -1,0 +1,70 @@
+{
+  "lang": "en",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cibitoke-cities-v2",
+      "descriptionAdvanced": "Cibitoke is the capital of Cibitoke Province, situated in the far northwest of Burundi. It is a critical region for cross-border trade with the Democratic Republic of the Congo and Rwanda. Földrajz K8 — határmenti régiók.",
+      "factsAdvanced": [
+        "Strategically located near the borders of the DRC and Rwanda.",
+        "The region is a powerhouse for tropical agriculture, especially banana production.",
+        "Important logistical hub for transport between the DRC and Bujumbura.",
+        "Situated in the low-lying Imbo plain region.",
+        "Home to a vibrant market culture due to the cross-border interaction."
+      ]
+    },
+    {
+      "id": "mwaro-cities-v2",
+      "descriptionAdvanced": "Mwaro is the capital of Mwaro Province, located in central Burundi. It is a province recognized for its high altitude and cool climate, which supports distinct agricultural practices. Földrajz K7 — közép-burundi.",
+      "factsAdvanced": [
+        "Located in the hilly central highlands at an elevation exceeding 1,700 meters.",
+        "Known for its high-quality coffee plantations.",
+        "Important administrative center for the Mwaro Province.",
+        "Has a strong focus on sustainable agricultural development.",
+        "Recognized for its scenic hilly landscapes and traditional agrarian society."
+      ]
+    },
+    {
+      "id": "mabanda-cities-v2",
+      "descriptionAdvanced": "Mabanda is a town in the Makamba Province of southern Burundi. It serves as a significant regional center, playing a key role in the economic life of the far southern borderlands. Földrajz K8 — gazdaság.",
+      "factsAdvanced": [
+        "Positioned near the border with Tanzania in the southern region.",
+        "A central marketplace for rural communities in the south.",
+        "Economy centers around subsistence agriculture and livestock trade.",
+        "Known for its transit importance in the southern province.",
+        "Recent years have seen gradual improvements in local town infrastructure."
+      ]
+    },
+    {
+      "id": "nyanza-lac-cities-v2",
+      "descriptionAdvanced": "Nyanza-Lac is a lakeside town located in the Makamba Province on the shores of Lake Tanganyika. It is an essential port and market center for the southern part of the country. Földrajz K8 — vízi közlekedés.",
+      "factsAdvanced": [
+        "Situated on the southern shore of Lake Tanganyika.",
+        "Key point for ferry transport and goods trade on the lake.",
+        "Fishing and related services represent the town's primary economic activity.",
+        "The town's climate is influenced heavily by the lake's proximity.",
+        "Serves as a critical link between the southern hinterland and lake transport."
+      ]
+    },
+    {
+      "id": "rugombo-cities-v2",
+      "descriptionAdvanced": "Rugombo is a significant town in the Cibitoke Province, known for its busy commercial activity and its position in the northern agricultural corridor. Földrajz K7 — mezőgazdasági régiók.",
+      "factsAdvanced": [
+        "Located within the productive Imbo plains of northern Burundi.",
+        "Acts as a major commercial center for the surrounding farming districts.",
+        "The area is noted for significant production of food staples like bananas and cassava.",
+        "Important transit corridor for trade connecting the north to the rest of Burundi.",
+        "Recent improvements have bolstered its role in local economic activity."
+      ]
+    }
+  ]
+}

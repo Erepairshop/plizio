@@ -24,7 +24,16 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       hu: ["A kikötői forgalom több mint 60 százalékát bonyolítja.", "Kritikus fontosságú a nemzetközi kereskedelemben."],
       ro: ["Gestionează peste 60 la sută din traficul portuar.", "Crucial pentru comerțul internațional."],
       en: ["Handles over 60 percent of port traffic.", "Crucial for international trade."]
-    }, image: "/poi-images/rades-commercial-port-economic-v2.webp"},
+    }, image: "/poi-images/rades-commercial-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Radès ist der wichtigste Knotenpunkt für den Containerumschlag in Tunesien und spielt eine Schlüsselrolle in der nationalen Wirtschaft. Fast der gesamte Seefrachtverkehr, der für die tunesische Industrie bestimmt ist, läuft über diese Anlage im Golf von Tunis. Die Modernisierung des Hafens war ein zentrales Projekt, um die Wettbewerbsfähigkeit des Landes gegenüber internationalen Märkten zu steigern. Radès ist damit das logistische Rückgrat des Großraums Tunis. Schüler der Klasse K7 analysieren in diesem Wirtschaftsbeispiel die Bedeutung globaler Lieferketten für kleine Nationalökonomien.",
+      hu: "A Radès kereskedelmi kikötő Tunézia legfontosabb tengeri kapuja, amely a tuniszi agglomeráció gazdasági ütőerének számít. Itt zajlik az ország külkereskedelmi forgalmának jelentős része, különösen az ipari áruk és konténeres szállítmányok kezelése. A kikötő modern infrastruktúrája elengedhetetlen a nemzetközi kereskedelem fenntartásához. Földrajz K7 — ipari régiók."
+    },
+    factsAdvanced: {
+      de: ["Über 80% des tunesischen Außenhandels erfolgt über den Hafen von Radès.", "Der Hafen umfasst spezialisierte Terminals für Container und Stückgut.", "Die Anlage ist rund um die Uhr in Betrieb, um Lieferketten zu sichern.", "Radès dient als Hauptdrehkreuz für Importe aus Europa.", "Ständige Erweiterungsprojekte sollen die Kapazitäten weiter erhöhen.", "Der Hafen hat eine entscheidende Bedeutung für die Versorgung der Industrie."],
+      hu: ["Radès a legnagyobb konténerkikötő az országban.", "Tunézia teljes külkereskedelmének nagy részét itt bonyolítják.", "A kikötő a Tuniszi-öbölben található.", "Fő szerepe az ipari és fogyasztási cikkek importja és exportja.", "A kikötő az elmúlt évtizedekben jelentős bővítésen ment keresztül.", "A tuniszi agglomeráció logisztikai központja."]
+    }
+  },
   {
     id: "bizerte-commercial-port-economic-v2",
     type: "port",
@@ -47,7 +56,16 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       hu: ["Összeköti a Földközi-tengert a Bizerte-tóval.", "Fontos csomópont az üzemanyag-logisztikában."],
       ro: ["Conectează Marea Mediterană la Lacul Bizerte.", "Un hub cheie pentru logistica combustibililor."],
       en: ["Connects the Mediterranean to the Lake of Bizerte.", "Key hub for fuel logistics."]
-    }, image: "/poi-images/bizerte-commercial-port-economic-v2.webp"},
+    }, image: "/poi-images/bizerte-commercial-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Bizerte ist aufgrund seiner strategischen Lage am nördlichsten Punkt des Landes ein bedeutender maritimer Standort mit langer Geschichte. Er fungiert heute als vielseitiger Handelsplatz für den Import von Rohstoffen und den Export von Industrieprodukten. Durch den direkten Kanal zum Mittelmeer bietet er exzellente Bedingungen für die Schifffahrt. Bizerte verbindet wirtschaftliche Aktivität mit touristischer Attraktivität an der malerischen Küste. In der Wirtschaftskunde lernen Schüler, wie historische Hafenanlagen an moderne logistische Bedürfnisse angepasst werden.",
+      hu: "Bizerte kereskedelmi kikötője stratégiai jelentőséggel bír Tunézia északi partvidékén, a Földközi-tenger egyik legfontosabb pontján. A kikötő nemcsak kereskedelmi célokat szolgál, de fontos szerepet tölt be a helyi gazdaságban is, különösen az ipari szektor támogatásával. Földrajz K7 — ipari régiók."
+    },
+    factsAdvanced: {
+      de: ["Bizerte ist eine der ältesten Städte Nordafrikas.", "Der Hafen verbindet das Mittelmeer mit dem See von Bizerte.", "Er bietet exzellente Bedingungen für die Schiffswartung.", "Die Lage macht ihn zum idealen Umschlagplatz für den Norden Tunesiens.", "Bizerte spielt eine wichtige Rolle in der nationalen Fischereiindustrie.", "Der Kanal von Bizerte ist ein markantes geografisches Merkmal."],
+      hu: ["A kikötő a Földközi-tenger északi kijáratánál fekszik.", "Fontos szerepet játszik az ipari nyersanyagok szállításában.", "A kikötői övezet Bizerte városának gazdasági központja.", "A hajózási útvonalak fontos állomása.", "A kikötő korszerűsítése folyamatosan zajlik.", "Az észak-tunéziai kereskedelem egyik fő bástyája."]
+    }
+  },
   {
     id: "sousse-port-economic-v2",
     type: "port",
@@ -70,6 +88,14 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       hu: ["Só- és olívaolaj-exportra specializálódott.", "Aktív halászkikötővel is rendelkezik."],
       ro: ["Specializat în exporturile de sare și ulei de măsline.", "Dispune de un port de pescuit activ."],
       en: ["Specializes in salt and olive oil exports.", "Features an active fishing harbor."]
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Sousse ist ein bedeutender Wirtschaftsfaktor für das tunesische Sahel-Gebiet und ein Zentrum für den Handel sowie die Fischerei. Er dient nicht nur dem industriellen Güterverkehr, sondern auch als wichtiger Standort für die maritime Infrastruktur im östlichen Tunesien. Sousse verbindet als drittgrößte Stadt des Landes Hafenaktivitäten nahtlos mit einem florierenden Tourismussektor. Die wirtschaftliche Stärke der Stadt basiert auf einer Diversifizierung von Industrie, Landwirtschaft und Dienstleistungen. Schüler lernen in K7, wie Häfen in touristischen Regionen zur regionalen Wertschöpfung beitragen.",
+      hu: "Sousse kikötője a Szahel-régió gazdasági szíve, amely az ipar, a halászat és a turizmus kereszteződésében fekszik. A kikötő hosszú évszázadok óta a régió tengeri kereskedelmének központja, amely összeköti a szárazföldi Tunéziát a nemzetközi piacokkal. Földrajz K7 — ipari régiók."
+    },
+    factsAdvanced: {
+      de: ["Sousse ist ein zentraler Handelsplatz im tunesischen Sahel.", "Der Hafen unterstützt sowohl industrielle als auch touristische Aktivitäten.", "Die Stadt hat eine über 2.000-jährige Geschichte als Handelszentrum.", "Der Fischereihafen von Sousse gehört zu den wichtigsten des Landes.", "Die Infrastruktur wird kontinuierlich zur Logistikoptimierung ausgebaut.", "Der Hafen ist essenziell für die Versorgung der Industriezone Sousse."],
+      hu: ["Sousse kikötője a Szahel-régió kereskedelmi központja.", "Történelmileg is fontos tengeri csomópont.", "A kikötő a kereskedelem mellett a halászatban is aktív.", "A modern városrész egyik fő gazdasági pillére.", "Jelentős szerepet játszik a turisták érkeztetésében is.", "A kikötő modernizálása az idegenforgalmat is támogatta."]
     }
   },
   {
@@ -94,7 +120,14 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       hu: ["Nagy mennyiségű foszfátot exportál.", "Mezőgazdasági és ipari árukat kezel."],
       ro: ["Exportă volume mari de fosfat.", "Manipulează bunuri agricole și industriale."],
       en: ["Exports large volumes of phosphate.", "Handles agricultural and industrial goods."]
-    }, image: "/poi-images/sfax-port-economic-v2.webp"},
+    }, image: "/poi-images/sfax-port-economic-v2.webp",
+    descriptionAdvanced: {
+      hu: "Sfax kikötője az ország déli részének ipari központja, amely elsősorban az olajbogyó-exportra és a foszfátalapú iparra épül. A kikötő az ország egyik legmozgalmasabb kereskedelmi csomópontja, amely a gazdasági növekedés motorja a régióban. Földrajz K7 — ipari régiók."
+    },
+    factsAdvanced: {
+      hu: ["Sfax kikötője a déli Tunézia ipari központja.", "Kiemelt jelentőségű az olajbogyó-exportban.", "A foszfátiparhoz kapcsolódó szállítások fő pontja.", "A város gazdaságának legfontosabb eleme.", "Nemzetközi kereskedelmi kapcsolatok kiemelt állomása.", "A modern technológiai fejlesztések itt is jelen vannak."]
+    }
+  },
   {
     id: "gabes-port-economic-v2",
     type: "port",
@@ -117,7 +150,14 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       hu: ["A helyi vegyipar számára tervezték.", "Szilárd és folyékony ömlesztett árukat kezel."],
       ro: ["Conceput pentru industria chimică locală.", "Manipulează mărfuri vrac solide și lichide."],
       en: ["Designed for the local chemical industry.", "Handles bulk solid and liquid cargo."]
-    }, image: "/poi-images/gabes-port-economic-v2.webp"},
+    }, image: "/poi-images/gabes-port-economic-v2.webp",
+    descriptionAdvanced: {
+      hu: "Gabès kikötője a Gabès-öböl partján fekszik, és az ország egyik legnagyobb ipari központjának, a foszfátfeldolgozóiparnak a központja. A kikötő nagyüzemi hajózási csomópont, amely elengedhetetlen a tunéziai ipari termékek világpiacra juttatásához. Földrajz K7 — ipari régiók."
+    },
+    factsAdvanced: {
+      hu: ["Gabès a foszfátfeldolgozó-ipar központja.", "A kikötő nagyüzemi ipari szállításokra specializálódott.", "Az ország egyik legjelentősebb ipari kikötője.", "Stratégiailag a tengeri kereskedelem kulcsfontosságú pontja.", "A kikötő a régió ipari fejlődésének meghatározója.", "Fontos szerepet játszik az exportorientált gazdaságban."]
+    }
+  },
   {
     id: "zarzis-port-economic-v2",
     type: "port",

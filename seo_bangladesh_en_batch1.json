@@ -1,0 +1,271 @@
+{
+  "lang": "en",
+  "country": "bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhaka-cities-v2",
+      "descriptionAdvanced": "Dhaka, the vibrant capital of Bangladesh, is a bustling megacity located on the banks of the Buriganga River. As the economic, political, and cultural heart of the nation, it is one of the most densely populated cities in the world. Dhaka's history dates back over a millennium, reaching its peak during the 17th century as a provincial capital of the Mughal Empire. Today, the city is a fascinating blend of old and new, where historic monuments like the Lalbagh Fort stand in stark contrast to modern skyscrapers. Known as the 'Rickshaw Capital of the World,' millions of colorful, hand-painted rickshaws ply its streets, creating a unique urban symphony. The city is also a global hub for the textile industry, playing a critical role in international trade. Geography K7 — Urban Development and Migration.",
+      "factsAdvanced": [
+        "Dhaka became the capital of Mughal Bengal in 1608.",
+        "The city is home to over 800 historic mosques from various eras.",
+        "The greater metropolitan area has an estimated population of over 22 million.",
+        "The Buriganga River serves as the primary artery for the city's trade and transport.",
+        "Dhaka University, established in 1921, is known as the 'Oxford of the East'.",
+        "Over 600,000 rickshaws operate on the city's streets every day.",
+        "The National Parliament building was designed by the world-renowned architect Louis Kahn."
+      ]
+    },
+    {
+      "id": "chittagong-cities-v2",
+      "descriptionAdvanced": "Chittagong, officially known as Chattogram, is the second-largest city in Bangladesh and its most vital maritime gateway. Situated at the mouth of the Karnaphuli River along the Bay of Bengal, its strategic location has made it a hub for international trade for centuries, frequented by ancient Greek, Arab, and Portuguese sailors. Unlike the flat delta landscapes found in most of the country, Chittagong is characterized by picturesque hills and lush green valleys. As an industrial powerhouse, it hosts numerous factories and the country's primary seaport, handling over 90% of Bangladesh's international trade. The region is also famous for its natural beauty, including the man-made Foy's Lake and the nearby Patenga Beach. It serves as the gateway to the culturally diverse Chittagong Hill Tracts. Geography K7 — Global Trade and Port Economics.",
+      "factsAdvanced": [
+        "Chittagong port handles more than 90 percent of Bangladesh's foreign trade.",
+        "The city is located at the foot of the Sitakunda Hill range.",
+        "The region was mentioned by Greek geographers as early as the 4th century BC.",
+        "It features the only natural deep-water harbor in the country.",
+        "The Karnaphuli River directly connects the city to the Kaptai Lake.",
+        "In 1930, the famous Chittagong Armoury Raid took place here against British rule.",
+        "The city's ethnic diversity is enriched by the proximity of hill tribe communities."
+      ]
+    },
+    {
+      "id": "khulna-cities-v2",
+      "descriptionAdvanced": "Khulna is the third-largest city in Bangladesh and a major industrial and commercial hub in the southwestern part of the country. Located on the banks of the Rupsha and Bhairab rivers, it serves as the essential gateway to the Sundarbans, the world's largest mangrove forest and a UNESCO World Heritage site. Historically, Khulna flourished during the British colonial era as a center for trade in salt, sugar, and jute. Today, it is known for its diverse industrial base, including shipbuilding and shrimp processing, which contributes significantly to the national economy. The city's proximity to the Mongla Port further enhances its strategic importance. Visitors often use Khulna as a starting point for eco-tourism expeditions into the dense mangroves to spot the majestic Royal Bengal Tiger. Geography K7 — Coastal Ecosystems and Industry.",
+      "factsAdvanced": [
+        "Khulna is known as the 'Industrial City' of southwestern Bangladesh.",
+        "The city is located approximately 125 kilometers from the Bay of Bengal.",
+        "It is the main hub for the country's multi-million dollar frozen shrimp export industry.",
+        "The Rupsha Bridge is a landmark structure connecting Khulna to the Mongla Port.",
+        "Khulna was a major center for the jute industry during the 20th century.",
+        "The city serves as the divisional headquarters for the Khulna Division.",
+        "The Sundarbans, accessible from here, cover an area of about 10,000 square kilometers."
+      ]
+    },
+    {
+      "id": "rajshahi-cities-v2",
+      "descriptionAdvanced": "Rajshahi, often referred to as the 'Silk City' or the 'City of Education,' is a major urban center located on the northern banks of the Padma River. Famous for its high-quality silk production and vast mango orchards, it is the administrative center of the Rajshahi Division. The city has a long history as a center for trade and learning, dating back to the British Raj. Rajshahi is known for its clean air, wide streets, and the beautiful Padma embankment, which provides a serene escape for residents and tourists alike. It is home to several prestigious educational institutions, including the University of Rajshahi and the Varendra Research Museum, the oldest museum in Bangladesh. The city's cultural heritage is deeply rooted in the production of traditional Bengali silk and the cultivation of hundreds of varieties of mangoes. Geography K7 — Agricultural Specialization and Education.",
+      "factsAdvanced": [
+        "Rajshahi is the primary center for silk production in Bangladesh.",
+        "The city produces some of the finest mangoes in the world, including the Fazli variety.",
+        "The Varendra Research Museum, established in 1910, houses rare archaeological artifacts.",
+        "Rajshahi University is the second largest university in the country.",
+        "The city is located very close to the international border with India.",
+        "The Padma River at Rajshahi is a significant source of Hilsa fish.",
+        "Rajshahi has consistently been ranked as one of the cleanest cities in South Asia."
+      ]
+    },
+    {
+      "id": "sylhet-cities-v2",
+      "descriptionAdvanced": "Sylhet, nestled in the picturesque Surma Valley of northeastern Bangladesh, is renowned for its lush tea gardens, tropical forests, and sacred shrines. The city is the spiritual capital of the country, home to the shrines of Hazrat Shah Jalal and Hazrat Shah Paran, which attract thousands of pilgrims annually. Sylhet's landscape is unique, characterized by rolling hills (locally called 'tilas') and expansive wetlands known as 'haors.' The region is the heart of Bangladesh's tea industry, with many of the world's finest tea estates located on its outskirts. Sylhet also has a strong connection with the Bangladeshi diaspora in the United Kingdom, which has significantly influenced the city's modern architecture and economy. The nearby Jaflong and Bichanakandi offer breathtaking views of waterfalls and stone-filled riverbeds against the backdrop of the Meghalaya hills. Geography K7 — Plantation Agriculture and Sacred Landscapes.",
+      "factsAdvanced": [
+        "Sylhet is home to more than 150 tea gardens, including some of the largest in the world.",
+        "The shrine of Hazrat Shah Jalal has been a major pilgrimage site since the 14th century.",
+        "The region is one of the highest rainfall areas in Bangladesh.",
+        "Sylhet has its own distinct dialect of Bengali known as Sylheti.",
+        "The city is a major producer of natural gas, supplying much of the nation's energy.",
+        "The Surma River flows through the heart of the city, facilitating local trade.",
+        "A large percentage of the British Bangladeshi community originates from this region."
+      ]
+    },
+    {
+      "id": "barisal-cities-v2",
+      "descriptionAdvanced": "Barisal, known as the 'Venice of the East' or the 'Granary of Bengal,' is a historic city located in the heart of the Ganges-Brahmaputra delta. Surrounded by a network of rivers and canals, the city's life and economy are deeply intertwined with its waterways. Historically, Barisal was a major center for rice and betel nut production, serving as a vital supply hub for the region. Today, it is famous for its unique floating markets, particularly the guava markets, where farmers sell their produce directly from boats. The city is the gateway to the southern coast and the beautiful Kuakata beach. Barisal's landscape is dominated by greenery and water, offering a glimpse into the traditional riverine life of Bangladesh. The city also boasts several historic educational institutions and serves as a major river port. Geography K7 — Riverine Geography and Deltaic Life.",
+      "factsAdvanced": [
+        "Barisal is famous for its extensive network of rivers and natural canals.",
+        "The region is the primary producer of betel nuts and rice in Bangladesh.",
+        "The floating guava markets of Barisal are a unique tourist attraction.",
+        "Historically, it was a part of the ancient kingdom of Chandradwip.",
+        "Barisal's river port is one of the busiest and most important in the country.",
+        "The city is known for its high literacy rate compared to other parts of the country.",
+        "The famous poet Jibanananda Das was born and raised in Barisal."
+      ]
+    },
+    {
+      "id": "rangpur-cities-v2",
+      "descriptionAdvanced": "Rangpur is a major city in northern Bangladesh and the administrative headquarters of the Rangpur Division. Situated on the banks of the Ghaghat River, it is one of the oldest cities in the country, having been declared a municipality in 1869. Rangpur is known for its rich cultural heritage and its significance as an agricultural center, particularly for tobacco and paddy cultivation. One of the city's most iconic landmarks is the Tajhat Palace, a magnificent 20th-century estate that now serves as a museum. The city is also home to the Carmichael College, a historic educational institution with beautiful colonial architecture. Rangpur's economy is primarily based on agriculture, but it is also developing as a center for trade and industry in the northern region. The people of Rangpur are known for their distinct dialect and traditional folk music. Geography K7 — Northern Landscapes and Colonial Architecture.",
+      "factsAdvanced": [
+        "Rangpur was established as a district by the British East India Company in 1772.",
+        "The Tajhat Palace was built by Maharaja Kumar Gopal Lal Roy in the early 20th century.",
+        "The region is a major hub for tobacco production and the bidi industry.",
+        "Carmichael College, founded in 1916, is one of the largest colleges in the country.",
+        "Rangpur is known for its unique traditional craft of Shataranji (handmade rugs).",
+        "The city experiences a relatively cooler climate compared to southern Bangladesh.",
+        "The Teesta Barrage, a major irrigation project, is located in the Rangpur region."
+      ]
+    },
+    {
+      "id": "mymensingh-cities-v2",
+      "descriptionAdvanced": "Mymensingh, located on the banks of the Brahmaputra River, is a historic city in central Bangladesh known for its rich cultural heritage and educational importance. It was one of the largest districts during the British colonial era and served as a major center for jute trade and administration. The city is famous for its unique 'Mymensingh Geetika' (ballads), which are a vital part of Bengali folk literature. Landmarks like the Shashi Lodge and the Alexander Castle reflect the city's aristocratic past. Mymensingh is also a major educational hub, hosting the Bangladesh Agricultural University, one of the premier institutions of its kind in Asia. The city's landscape is dominated by the majestic Brahmaputra, which once flowed through its heart before changing its course. Mymensingh remains a center for agriculture, trade, and traditional arts. Geography K7 — Fluvial Landscapes and Folk Heritage.",
+      "factsAdvanced": [
+        "Mymensingh was established as a district in 1787 by the British administration.",
+        "The Shashi Lodge is a beautiful example of neoclassical architecture in the city.",
+        "The Bangladesh Agricultural University is the largest of its kind in the country.",
+        "Mymensingh Geetika is a world-famous collection of local folk ballads.",
+        "The city is a major producer of rice, fish, and seasonal vegetables.",
+        "The Brahmaputra River at Mymensingh is a site for the traditional boat race (Nouka Baich).",
+        "The city has several historic schools and colleges dating back to the 19th century."
+      ]
+    },
+    {
+      "id": "comilla-cities-v2",
+      "descriptionAdvanced": "Comilla, located in eastern Bangladesh along the Dhaka-Chittagong highway, is a city with a profound historical and cultural legacy. It is most famous for the ancient ruins of Mainamati, a center of Buddhist civilization between the 7th and 12th centuries. The city is also known for its traditional hand-woven 'Khadi' textiles and its world-famous 'Rasmalai' sweets. During the British era, Comilla was a major administrative and educational center. It is home to the Bangladesh Academy for Rural Development (BARD), which pioneered several successful rural development models. The city's landscape features numerous large ponds (locally called 'dighis'), such as the Dharmasagar, which serve as recreational areas. Comilla's strategic location makes it a vital transport hub and a center for trade between the capital and the port city of Chittagong. History K8 — Ancient Civilizations and Rural Innovation.",
+      "factsAdvanced": [
+        "The Mainamati ruins in Comilla contain more than 50 ancient Buddhist sites.",
+        "Comilla's Khadi textile is a traditional craft that gained popularity during the Swadeshi movement.",
+        "The city is world-renowned for its Rasmalai, a traditional milk-based dessert.",
+        "Dharmasagar Dighi was excavated in the 15th century by King Dharma Manikya.",
+        "Comilla was the site of significant naval and air operations during World War II.",
+        "BARD, established in 1959, is an international center for rural development research.",
+        "The Gomti River flows through the Comilla district, often called the 'Sorrow of Comilla'."
+      ]
+    },
+    {
+      "id": "narayanganj-cities-v2",
+      "descriptionAdvanced": "Narayanganj, often called the 'Dundee of the East,' is a major industrial and port city located just south of Dhaka on the banks of the Shitalakshya River. Historically, it was the world's most important center for the jute trade, mirroring the role of Dundee in Scotland. Today, Narayanganj is a hub for the textile and garment industry, hosting hundreds of factories that export products globally. The city's river port is one of the oldest and busiest in Bangladesh, serving as a vital link for the transport of goods. Nearby, the historic Panam City and Sonargaon reflect the region's significance as an ancient capital and trade center. Narayanganj is also famous for its traditional hosiery industry and its production of fine muslin in the past. The city's dynamic economy and strategic location on the river make it a cornerstone of Bangladesh's industrial growth. Geography K7 — Industrial Clusters and River Ports.",
+      "factsAdvanced": [
+        "Narayanganj earned the name 'Dundee of the East' due to its massive jute industry.",
+        "The Shitalakshya River is known for its clear water and importance to the textile industry.",
+        "The city's river port was established in 1876 and is a major inland terminal.",
+        "Narayanganj is the center of the country's hosiery and knitwear industry.",
+        "The historic Sonargaon, the former capital of Bengal, is located in this district.",
+        "The city hosts the Bangladesh Navy's major dockyard and engineering workshop.",
+        "The traditional Jamdani sari, a UNESCO Intangible Heritage, is produced in this region."
+      ]
+    },
+    {
+      "id": "gazipur-cities-v2",
+      "descriptionAdvanced": "Gazipur, located on the northern outskirts of Dhaka, is a rapidly growing industrial and administrative city. It is a vital part of the Greater Dhaka area and hosts a vast concentration of readymade garment (RMG) factories, making it a critical contributor to the national economy. Gazipur is also known for its diverse educational and research institutions, including several universities and the Islamic University of Technology. One of the city's most famous attractions is the Bangabandhu Sheikh Mujib Safari Park, the first of its kind in Bangladesh. The Bhawal National Park, a large forest area dominated by Sal trees, provides a green lung for the region and a popular spot for weekend getaways. Gazipur's strategic location on the highways connecting Dhaka to the northern and eastern parts of the country makes it a major transport hub. Geography K7 — Industrialization and Suburban Growth.",
+      "factsAdvanced": [
+        "Gazipur hosts the highest concentration of garment factories in Bangladesh.",
+        "The Bhawal National Park is a major forest reserve located within the district.",
+        "The city is home to several prestigious research institutes for rice and agriculture.",
+        "The Bangabandhu Sheikh Mujib Safari Park is one of the largest in South Asia.",
+        "The historic Bhawal Rajbari is a significant landmark located in Gazipur.",
+        "Gazipur is a major intersection for the country's national railway and highway networks.",
+        "The city has seen massive population growth due to rapid industrialization."
+      ]
+    },
+    {
+      "id": "bogra-cities-v2",
+      "descriptionAdvanced": "Bogra, often referred to as the 'Capital of North Bengal,' is an ancient city located on the banks of the Karatoya River. It is one of the oldest cities in Bangladesh and serves as a major commercial and transport hub for the northern region. Bogra is most famous for its proximity to Mahasthangarh, the earliest urban archaeological site in the country, which was the capital of the Pundra Kingdom. The city is also renowned for its unique 'Bogra Doi' (sweet yogurt), a delicacy that is famous throughout the country. Historically, Bogra has been a center for trade, agriculture, and industry, particularly in light engineering and agricultural machinery. The city's vibrant markets and its role as a gateway to the northern districts make it a vital economic center. Bogra also boasts several historic mosques and colonial-era buildings. History K8 — Ancient Capitals and Northern Trade.",
+      "factsAdvanced": [
+        "Bogra is located near Mahasthangarh, which dates back to at least the 3rd century BC.",
+        "The city is world-famous for its traditional sweet yogurt, known as 'Bogra Doi'.",
+        "Bogra is a major hub for the production of agricultural spare parts and machinery.",
+        "The Karatoya River was once a mighty river that facilitated ancient trade.",
+        "The city was a significant administrative center during the British colonial period.",
+        "Bogra is home to the Palli Unnayan Academy, an important rural development institute.",
+        "The Nawab Bari (palace) of Bogra is a prominent historic landmark in the city."
+      ]
+    },
+    {
+      "id": "kushtia-cities-v2",
+      "descriptionAdvanced": "Kushtia, situated on the banks of the Gorai River, is widely recognized as the cultural capital of Bangladesh. It is most famous for its association with the great mystic poet and philosopher Lalon Shah, whose shrine (Lalon Akhra) attracts thousands of followers and tourists every year. Kushtia was also a major center for the activities of the Nobel laureate Rabindranath Tagore, whose ancestral estate, the Kuthibari at Shilaidaha, is located nearby. Historically, the city flourished as a center for trade and industry during the British era, particularly with the establishment of textile mills and the railway. Today, Kushtia remains a hub for education, traditional music, and literature. The city's serene landscape and its deep-rooted connection to the Baul tradition make it a unique destination for those seeking spiritual and cultural enrichment. Geography K7 — Cultural Landscapes and Mystic Traditions.",
+      "factsAdvanced": [
+        "Kushtia is the birthplace and final resting place of the mystic saint Lalon Shah.",
+        "The Shilaidaha Kuthibari was the residence where Rabindranath Tagore wrote many famous poems.",
+        "Kushtia is home to the Islamic University, one of the major public universities in the country.",
+        "The city was a major railway junction during the British Indian era.",
+        "Kushtia's Mohini Mills was once the largest textile mill in all of Asia.",
+        "The region is known for its traditional handloom weaving and handicrafts.",
+        "The Hardinge Bridge, a historic railway bridge, connects Kushtia to Pabna."
+      ]
+    },
+    {
+      "id": "jessore-cities-v2",
+      "descriptionAdvanced": "Jessore, located in southwestern Bangladesh near the Indian border, is a historic city known for its diverse economy and strategic importance. It was the first district in Bengal to be established by the British in 1781. Jessore is famous for its production of dates, flowers, and high-quality leather. The city's Benapole land port is the largest and busiest land border crossing between Bangladesh and India, handling a massive volume of trade. Jessore is also known for its rich cultural heritage, being the birthplace of the renowned poet Michael Madhusudan Dutt. The city features several historic sites, including the ancient Jessoreshwari Kali Temple and colonial-era administrative buildings. As an educational hub, it hosts the Jessore University of Science and Technology. The city's landscape is a mix of urban growth and fertile agricultural plains. Geography K7 — Border Trade and Agricultural Production.",
+      "factsAdvanced": [
+        "Jessore was the first district in Bangladesh to be liberated during the 1971 War of Independence.",
+        "The city is a major center for the production of date juice and date sugar (gur).",
+        "Gadkhali in Jessore is known as the 'Flower Capital of Bangladesh'.",
+        "The Benapole land port in this district handles about 80% of land trade with India.",
+        "Michael Madhusudan Dutt, the father of the Bengali sonnet, was born in Jessore.",
+        "The city is home to an important air force base and military cantonment.",
+        "The historic Jessore Road is famous for its ancient trees and colonial past."
+      ]
+    },
+    {
+      "id": "coxs-bazar-cities-v2",
+      "descriptionAdvanced": "Cox's Bazar, located on the southeastern coast of Bangladesh, is world-famous for having the longest unbroken natural sandy beach in the world, stretching over 120 kilometers. It is the premier tourist destination in the country, attracting millions of visitors with its stunning sunrises, sunsets, and turquoise waters. The town's name originates from Captain Hiram Cox, a British East India Company officer. Cox's Bazar is also a major hub for the fishing industry and the production of dried fish (shutki). The region has a unique cultural identity, influenced by the local Rakhine community and their Buddhist traditions, visible in the many colorful pagodas and temples. Nearby attractions like Inani Beach, Himchari National Park, and Saint Martin's Island make it a center for eco-tourism. The town has recently gained international attention as the site of one of the world's largest refugee settlements. Geography K7 — Coastal Tourism and Marine Economy.",
+      "factsAdvanced": [
+        "Cox's Bazar beach is approximately 120 kilometers long, the longest in the world.",
+        "The town is named after Hiram Cox, who worked with Arakanese refugees in the late 18th century.",
+        "The region is the primary source of dried fish (shutki) for the entire country.",
+        "Aggmeda Khyang is a prominent Buddhist monastery located in the heart of the town.",
+        "The nearby Inani Beach is famous for its coral stones and crystal-clear water.",
+        "Cox's Bazar hosts one of the largest surfing communities in Bangladesh.",
+        "The town is a major base for the Bangladesh Navy and Coast Guard."
+      ]
+    },
+    {
+      "id": "brahmanbaria-cities-v2",
+      "descriptionAdvanced": "Brahmanbaria, located in eastern Bangladesh, is often hailed as the 'Cultural Capital of the East.' The city has a deep-rooted tradition in music, literature, and the arts, being the birthplace of many legendary musicians like Ustad Allauddin Khan. Situated on the banks of the Titas River, the city's identity is closely linked to its riverine landscape, which inspired the famous novel 'A River Called Titas.' Brahmanbaria is also a major industrial hub, particularly known for its massive natural gas fields and the Ashuganj Power Station, one of the largest in the country. Historically, it was a center for trade and education during the British era. The city is also famous for its traditional sweets, especially the 'Chhanamukhi.' Brahmanbaria remains a vital link between the capital Dhaka and the northeastern regions of the country. Geography K7 — Cultural Heritage and Energy Resources.",
+      "factsAdvanced": [
+        "Brahmanbaria is the birthplace of the world-renowned sarod maestro Ustad Allauddin Khan.",
+        "The Titas gas field in this district is one of the largest natural gas reserves in the country.",
+        "The Ashuganj river port is a major hub for transporting goods to northeastern Bangladesh.",
+        "The city is famous for 'Chhanamukhi,' a traditional sweet made from cottage cheese.",
+        "Brahmanbaria was a significant center for the Swadeshi movement against British rule.",
+        "The Titas River flows through the district and is a central theme in local culture.",
+        "The district is a major producer of high-quality rice and seasonal vegetables."
+      ]
+    },
+    {
+      "id": "dinajpur-cities-v2",
+      "descriptionAdvanced": "Dinajpur, located in the northwestern corner of Bangladesh, is a historic city known for its magnificent archaeological sites and high-quality agricultural produce. It is most famous for the Kantajew Temple, an 18th-century masterpiece of terracotta architecture. The city is also the gateway to the Ramsagar National Park, which features the largest man-made pond in the country. Dinajpur is the heart of the 'Litchi' and 'Chinigura' rice production, with its litchis being considered the best in the country. Historically, the city was the seat of the powerful Rajas of Dinajpur, whose palace (Dinajpur Rajbari) remains a prominent landmark. The city's economy is primarily based on agriculture and the mining of coal and hard rock at Barapukuria and Maddhapara. Dinajpur's serene atmosphere and rich historical legacy make it a fascinating destination for travelers. Geography K7 — Terracotta Heritage and Mineral Resources.",
+      "factsAdvanced": [
+        "The Kantajew Temple in Dinajpur features thousands of intricate terracotta plaques.",
+        "Dinajpur is the largest producer of high-quality litchis in Bangladesh.",
+        "Ramsagar Dighi is the largest man-made tank in the country, excavated in the 18th century.",
+        "The Barapukuria Coal Mine in this district is the only active coal mine in Bangladesh.",
+        "The Dinajpur Rajbari is a historic palace complex dating back to the Mughal era.",
+        "The city was an important administrative center under the British Raj.",
+        "The Punarbhaba River flows past the city, serving as a historic trade route."
+      ]
+    },
+    {
+      "id": "pabna-cities-v2",
+      "descriptionAdvanced": "Pabna, situated on the northern banks of the Padma River, is a major industrial and cultural city in northwestern Bangladesh. It is historically known for its textile industry, particularly the production of handloom saris and lungis. The city is also home to the Rooppur Nuclear Power Plant, the country's first and largest energy project of its kind. One of Pabna's most famous landmarks is the Mental Hospital, which is the oldest and largest psychiatric hospital in the country. The city also features the historic Jor Bangla Temple and the ancestral home of the legendary actress Suchitra Sen. Pabna is a vital transport hub, connected to the southern region by the Hardinge Bridge and the Lalon Shah Bridge. The city's economy is a blend of agriculture, pharmaceuticals, and textile manufacturing, making it a key player in the regional economy. Geography K7 — Industrial Growth and Energy Infrastructure.",
+      "factsAdvanced": [
+        "Pabna is the site of the Rooppur Nuclear Power Plant, Bangladesh's first nuclear facility.",
+        "The city is a major center for the pharmaceutical industry, hosting large factories.",
+        "The Hardinge Bridge, completed in 1915, is one of the oldest railway bridges in South South Asia.",
+        "Pabna is famous for its traditional handloom weaving industry.",
+        "The Shahi Mosque in Chatmohar, Pabna, dates back to the 16th century.",
+        "The legendary Indian film actress Suchitra Sen was born and raised in Pabna.",
+        "The Ichamati River flows through the heart of the city, adding to its scenic beauty."
+      ]
+    },
+    {
+      "id": "tangail-cities-v2",
+      "descriptionAdvanced": "Tangail, located just north of Dhaka, is a city renowned for its traditional handloom weaving and rich cultural history. It is world-famous for the 'Tangail Sari,' a high-quality cotton and silk sari that is a staple of Bengali fashion. The city is situated on the banks of the Louhajang River and serves as a major gateway between the capital and the northern districts. Tangail is also known for its 'Porabari Chomchom,' a legendary sweet that is considered one of the finest in the country. Historically, the region was part of the ancient Atia Pargana and features several historic sites like the Atia Mosque and the Mohera Zamindar Bari. The city's economy is driven by agriculture, particularly the production of pineapples and jute, alongside its vibrant cottage industries. Tangail's close proximity to the Jamuna Bridge further enhances its strategic importance for trade and transport. Geography K7 — Cottage Industries and Traditional Crafts.",
+      "factsAdvanced": [
+        "Tangail Saris are famous worldwide for their unique weaving patterns and quality.",
+        "The Atia Mosque in Tangail, built in 1609, is featured on the ten-taka note.",
+        "Porabari Chomchom is a traditional sweet that originated in Tangail over a century ago.",
+        "The district is one of the largest producers of pineapples in Bangladesh.",
+        "The Mohera Zamindar Bari is a beautifully preserved colonial-era palace complex.",
+        "Tangail played a significant role in the 1971 Liberation War under Kader Siddique.",
+        "The city is a major hub for the collection and trade of jute and timber."
+      ]
+    },
+    {
+      "id": "sirajganj-cities-v2",
+      "descriptionAdvanced": "Sirajganj, situated on the western banks of the mighty Jamuna River, is a vital transport hub and an important industrial city in northern Bangladesh. It is often called the 'Gateway to North Bengal' because of the Bangabandhu Bridge (Jamuna Bridge), which connects the northern districts to the rest of the country. Historically, Sirajganj was a major center for the jute trade during the British colonial era. Today, it is famous for its thriving handloom industry, producing a large portion of the country's traditional saris and lungis. The city is also a major center for the dairy industry, being a primary source of milk for the capital. Sirajganj features several historic landmarks, including the Bagha Mosque and the ancestral home of the poet Rabindranath Tagore at Shahzadpur. The city's strategic location on the river and its vibrant markets make it a key economic center. Geography K7 — Transport Corridors and Riverine Trade.",
+      "factsAdvanced": [
+        "Sirajganj is the western terminal of the Bangabandhu Bridge, the longest bridge in Bangladesh.",
+        "The city is a major hub for the handloom industry, particularly in the Shahzadpur region.",
+        "Sirajganj is the leading producer of cow milk in the country.",
+        "The historic Shahzadpur Kachari Bari was a residence of Rabindranath Tagore.",
+        "The district is a major producer of mustard and jute.",
+        "The Jamuna River at Sirajganj is a site for significant river erosion and embankment projects.",
+        "The Hatikumrul Navaratna Temple is a unique 18th-century archaeological site in the district."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "janjanbureh-cities-v2",
+      "descriptionAdvanced": "Janjanbureh, historisch bekannt als Georgetown, ist eine bedeutende Inselstadt inmitten des Gambia-Flusses. Ihre Geschichte reicht zurück bis in das Jahr 1823, als sie als Siedlung für befreite Sklaven gegründet wurde und später als britisches Verwaltungszentrum diente. Die Inselbewohner blicken auf eine lange koloniale Geschichte zurück, die sich heute in verschiedenen historischen Gebäuden und Ruinen widerspiegelt. Die Stadt ist zudem ein wichtiges kulturelles Zentrum und ein Ausgangspunkt für Naturliebhaber, die den Gambia-Fluss erkunden wollen. Geschichte K8 — Kolonialgeschichte und Sklaverei in Westafrika.",
+      "factsAdvanced": ["Gegründet 1823 als Siedlung für befreite Sklaven.", "Ehemals Georgetown genannt.", "Ehemaliges britisches Verwaltungszentrum.", "Gelegen auf einer Insel im Gambia-Fluss.", "Reich an kolonialer Architektur.", "Zentrum für kulturelle Entdeckungen.", "Wichtiger Ausgangspunkt für Fluss-Touren."]
+    },
+    {
+      "id": "bansang-cities-v2",
+      "descriptionAdvanced": "Bansang ist eine lebhafte Marktstadt am Südufer des Gambia-Flusses und fungiert als lebenswichtiges medizinisches und wirtschaftliches Zentrum für das Landesinnere. Das lokale Krankenhaus ist das einzige größere medizinische Zentrum in dieser Region und spielt eine Schlüsselrolle für die umliegende Bevölkerung. Neben der medizinischen Versorgung ist die Stadt für ihre Bedeutung im regionalen Handel bekannt, insbesondere als Umschlagplatz für landwirtschaftliche Erzeugnisse wie Getreide. Bansang ist ein lebendiges Beispiel für eine Stadt, die trotz ihrer Abgeschiedenheit eine zentrale Rolle für die Region spielt. Gesundheit K7 — Öffentliche Infrastruktur in ländlichen Regionen.",
+      "factsAdvanced": ["Zentrum des regionalen Gesundheitswesens.", "Bedeutender Flusshafen für den Getreidehandel.", "Schlüsselfunktion für die Region.", "Lebhafter lokaler Markt.", "Wichtiger Ankerpunkt am Gambia-Fluss.", "Infrastrukturknoten für das Landesinnere.", "Wachsende Bedeutung in der Landwirtschaft."]
+    },
+    {
+      "id": "barra-cities-v2",
+      "descriptionAdvanced": "Barra ist eine geschichtsträchtige Hafenstadt an der Nordküste Gambias, direkt gegenüber der Hauptstadt Banjul gelegen. Als Endpunkt der wichtigen Fährverbindung über die Mündung des Gambia-Flusses ist sie ein unersetzlicher Knotenpunkt für den nationalen Reiseverkehr. Historisch war Barra der Sitz des mächtigen Königreichs Niumi, was der Stadt eine tiefe kulturelle und historische Bedeutung verleiht. Heute ist sie ein pulsierender Ort, der durch die ständige Bewegung der Menschen geprägt ist, die zwischen dem Norden und dem Zentrum des Landes pendeln. Geographie K7 — Grenzstädte und Transportlogistik.",
+      "factsAdvanced": ["Endpunkt der Fähre über den Gambia-Fluss.", "Ehemals Sitz des Königreichs Niumi.", "Strategischer Punkt für den Nord-Süd-Verkehr.", "Pulsierende Hafenstadt.", "Wichtiger Ort für kulturelle Geschichte.", "Direkte Anbindung an die Hauptstadt Banjul.", "Verkehrszentrum für den Norden."]
+    },
+    {
+      "id": "gunjur-cities-v2",
+      "descriptionAdvanced": "Gunjur ist eine bedeutende Küstenstadt im Südwesten Gambias, die sich durch ihre ökologischen Schutzgebiete und die florierende Fischerei auszeichnet. Als Standort des 'Gunjur Environmental Protection Project' engagiert sich die lokale Bevölkerung aktiv für die Bewahrung ihrer natürlichen Ressourcen, was die Stadt zu einem Vorbild für nachhaltigen Tourismus macht. Die Fischerei ist das Herzstück der lokalen Wirtschaft, wobei täglich viele handwerkliche Fischerboote auf den Atlantik hinausfahren. Gunjur bietet eine faszinierende Kombination aus traditioneller Lebensweise und modernem Naturschutz. Biologie K7 — Nachhaltige Fischerei und Naturschutz.",
+      "factsAdvanced": ["Zentrum für nachhaltige Fischerei.", "Sitz des Gunjur Environmental Protection Project.", "Bekannt für ökologische Schutzgebiete.", "Traditionelle Lebensweise am Atlantik.", "Wichtig für lokale Umweltschutzinitiativen.", "Beliebt für ökologisch ausgerichteten Tourismus.", "Reiche Biodiversität in der Umgebung."]
+    },
+    {
+      "id": "sukuta-cities-v2",
+      "descriptionAdvanced": "Sukuta ist ein schnell wachsendes städtisches Zentrum in der West Coast Region und eng mit der urbanen Entwicklung rund um Serekunda verwoben. Historisch gesehen war die Stadt eine bedeutende Mandinka-Siedlung, deren kulturelles Erbe bis heute in den Traditionen der Einwohner spürbar ist. Mit ihrem starken Zuzug aus anderen Landesteilen und dem Ausland hat sich Sukuta zu einem bevorzugten Wohngebiet für Pendler entwickelt, die in der Metropolregion arbeiten. Die Stadt ist ein dynamisches Beispiel für die städtebauliche Expansion in Westafrika. Sozialkunde K7 — Urbanisierung.",
+      "factsAdvanced": ["Historisch bedeutende Mandinka-Siedlung.", "Dynamisches Wohngebiet für Pendler.", "Starkes städtisches Wachstum.", "Wichtiger Teil der Serekunda-Agglomeration.", "Vielfältige ethnische Zusammensetzung.", "Reges lokales Geschäftsleben.", "Infrastrukturelle Anbindung an die Metropolregion."]
+    }
+  ]
+}

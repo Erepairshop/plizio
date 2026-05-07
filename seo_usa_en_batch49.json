@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-grande-nature-v2",
+      "descriptionAdvanced": "The Rio Grande is a 1,900-mile river system that serves as a critical, complex boundary between the United States and Mexico, flowing from the San Juan Mountains of Colorado into the Gulf of Mexico. This river is an essential, highly contested water source for agricultural, urban, and industrial users throughout the arid American Southwest and northern Mexico. The river’s natural flow has been drastically altered by immense dam and irrigation infrastructure, transforming its ecology from a wild, meandering torrent into a series of managed segments that often struggle to reach the Gulf of Mexico. Today, it serves as a globally significant laboratory for studying international transboundary water rights, climate-driven drought impacts on arid-land agriculture, and the delicate ecological balance needed to maintain riparian corridors in a warming desert. Geografie K8 — Transboundary water management and arid-region ecology.",
+      "factsAdvanced": [
+        "A 1,900-mile-long river system serving as a major international boundary.",
+        "Crucial, highly contested water source for agriculture and industry in the Southwest.",
+        "Natural flow has been heavily altered by extensive dam and irrigation systems.",
+        "Often fails to reach its historic delta in the Gulf due to extreme overuse.",
+        "Global site for studying international transboundary water-rights diplomacy.",
+        "Critical laboratory for climate-driven drought management in desert riparian systems."
+      ]
+    },
+    {
+      "id": "white-mountain-national-forest-nature-v2",
+      "descriptionAdvanced": "The White Mountain National Forest in New Hampshire and Maine is a rugged, scenic wilderness that protects the highest peaks in the northeastern United States. Known for its intense weather, rapid temperature shifts, and sprawling alpine tundra—some of the only alpine environments in the Northeast—the forest is a critical site for studying alpine ecological adaptation and the impacts of regional climate change on high-elevation biomes. The forest features a complex, ancient Appalachian mountain landscape, offering habitat for species ranging from mountain moose to rare alpine flora. Today, it is a major hub for year-round recreation, balancing massive tourism pressure with the necessity of preserving a fragile, high-elevation habitat that is increasingly sensitive to rising atmospheric temperatures. Biologie K7 — Alpine tundra ecology and climate-sensitive mountainous biomes.",
+      "factsAdvanced": [
+        "Protects the highest mountain peaks in the northeastern United States.",
+        "One of the few high-elevation alpine tundra environments in the Northeast.",
+        "Known for extreme, rapidly shifting weather patterns at high elevations.",
+        "Critical site for monitoring climate change impacts on alpine biomes.",
+        "Habitat for a wide range of species, from mountain moose to rare alpine flowers.",
+        "Essential hub for year-round recreation, requiring careful ecosystem management."
+      ]
+    },
+    {
+      "id": "mount-shasta-nature-v2",
+      "descriptionAdvanced": "Mount Shasta, an active, 14,179-foot stratovolcano in northern California, is a dominant geological presence in the Southern Cascade Range. As a massive volcanic feature, it is fed by high-altitude glacial systems that serve as a crucial water tower for northern California's agricultural and ecological systems. The mountain’s complex volcanic stratigraphy and its isolated alpine biomes make it a significant site for studying volcanic hazards, glacial hydrology, and sub-alpine species evolution. Today, Mount Shasta stands as both an iconic wilderness sanctuary and a complex, active geological entity that requires ongoing monitoring, representing the raw, enduring power of the Pacific Ring of Fire and its essential role in regional water security. Geologie K8 — Volcanic stratigraphy and regional hydrologic water towers.",
+      "factsAdvanced": [
+        "Dominant active stratovolcano in the Southern Cascade Range at 14,179 feet.",
+        "Glacial systems serve as a critical water tower for northern California agriculture.",
+        "Complex volcanic stratigraphy makes it a key site for geological hazard research.",
+        "Isolated alpine biomes provide a unique study ground for species evolution.",
+        "A dominant, iconic wilderness sanctuary for high-altitude ecology.",
+        "Represents the raw geological power of the Pacific Ring of Fire."
+      ]
+    }
+  ]
+}

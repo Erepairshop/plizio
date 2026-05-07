@@ -1,0 +1,129 @@
+{
+  "lang": "ro",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-luis-talpa-cities-v2",
+      "descriptionAdvanced": "San Luis Talpa este un oraș strategic situat în departamentul La Paz, în imediata apropiere a Aeroportului Internațional El Salvador. Localitatea servește drept punct de tranzit și logistică important, facilitând conexiunile între capitală și zonele de coastă. Dezvoltarea sa recentă reflectă dinamica economică a țării, oferind facilități esențiale pentru călători și pentru activitățile comerciale regionale. Educație K6 — Geografie: importanța nodurilor logistice în infrastructura națională.",
+      "factsAdvanced": [
+        "San Luis Talpa este situat strategic lângă Aeroportul Internațional El Salvador.",
+        "Orașul joacă un rol vital în logistica și transportul din regiune.",
+        "Dezvoltarea locală este strâns legată de activitatea aeroportuară.",
+        "Localitatea servește ca punct de tranzit pentru turiștii care călătoresc spre coastă.",
+        "Economia orașului este susținută de servicii pentru călători și comerț regional.",
+        "San Luis Talpa a cunoscut o expansiune rapidă datorită proximității față de infrastructura majoră."
+      ]
+    },
+    {
+      "id": "chilanga-cities-v2",
+      "descriptionAdvanced": "Chilanga este un oraș montan din departamentul Morazán, renumit pentru frumusețea sa naturală și pentru cultura sa tradițională care a rămas neschimbată de-a lungul deceniilor. Comunitatea se bazează pe agricultură și creșterea animalelor, menținând un stil de viață rural autentic care oferă vizitatorilor o privire asupra tradițiilor salvadoriene. Peisajele sale montane și ospitalitatea locuitorilor fac din Chilanga o destinație ideală pentru turismul rural și ecologic. Educație K5 — Geografie: viața în mediul rural montan și conservarea tradițiilor.",
+      "factsAdvanced": [
+        "Chilanga se remarcă prin peisajele sale montane pitorești din departamentul Morazán.",
+        "Agricultura și creșterea animalelor sunt principalele activități economice ale orașului.",
+        "Localitatea păstrează tradiții salvadoriene autentice în viața de zi cu zi.",
+        "Comunitatea pune un preț mare pe ospitalitate și valorile rurale.",
+        "Turismul rural și ecologic reprezintă o oportunitate de dezvoltare pentru zonă.",
+        "Stilul de viață din Chilanga este caracterizat prin simplitate și conexiune cu natura."
+      ]
+    },
+    {
+      "id": "san-rafael-cedros-cities-v2",
+      "descriptionAdvanced": "San Rafael Cedros, situat în departamentul Cuscatlán, este un oraș cu o istorie agricolă bogată, fiind recunoscut pentru calitatea produselor sale locale. Comunitatea se mândrește cu tradițiile sale și cu rolul său în rețeaua de comerț din regiunea centrală a țării. Atmosfera orașului reflectă dezvoltarea rurală sustenabilă, oferind vizitatorilor ocazia de a descoperi produsele autentice și ospitalitatea locuitorilor. Educație K6 — Geografie: economie agricolă locală și dezvoltare regională.",
+      "factsAdvanced": [
+        "San Rafael Cedros este renumit pentru produsele sale agricole de înaltă calitate.",
+        "Orașul are o istorie agricolă lungă în departamentul Cuscatlán.",
+        "Comunitatea se mândrește cu conservarea tradițiilor locale și a valorilor sale.",
+        "Regiunea este un centru pentru comerțul cu produse locale în partea centrală a țării.",
+        "Vizitatorii pot descoperi produse autentice care definesc identitatea orașului.",
+        "San Rafael Cedros promovează dezvoltarea rurală prin susținerea producătorilor locali."
+      ]
+    },
+    {
+      "id": "san-sebastian-sv-cities-v2",
+      "descriptionAdvanced": "San Sebastián, în departamentul San Vicente, este faimos pentru textilele sale tradiționale lucrate manual, renumite pentru culorile vii și calitatea lor artistică. Orașul este un centru de artizanat textil de o importanță majoră, păstrând metodele străvechi de țesut care atrag cumpărători din întreaga țară. Vizitatorii pot observa meșteșugarii la lucru și pot admira frumusețea acestor produse care definesc cultura locală. Educație K7 — Artă și Tehnologie: meșteșuguri textile și tradiții culturale.",
+      "factsAdvanced": [
+        "San Sebastián este centrul național pentru producția de textile artizanale.",
+        "Țesăturile lucrate manual sunt faimoase pentru culorile lor vibrante.",
+        "Meșteșugarii locali folosesc tehnici tradiționale de țesut transmise prin generații.",
+        "Orașul este o destinație esențială pentru cei interesați de artizanatul salvadorian.",
+        "Textilele din San Sebastián sunt considerate simboluri ale culturii locale.",
+        "Procesul de producție textilă este o atracție majoră pentru vizitatori."
+      ]
+    },
+    {
+      "id": "soyapango-cities-v2",
+      "descriptionAdvanced": "Soyapango este un hub industrial vital al zonei metropolitane San Salvador, fiind recunoscut pentru concentrarea sa mare de fabrici și unități de producție. Centrul comercial Plaza Mundo transformă orașul într-o destinație majoră pentru cumpărături și divertisment, atrăgând mii de vizitatori zilnic. Deși densitatea populației este foarte ridicată, zona continuă să evolueze printr-o infrastructură în dezvoltare. Educația K7 — Geografie: centre urbane și dezvoltarea economică regională.",
+      "factsAdvanced": [
+        "Soyapango găzduiește una dintre cele mai mari zone industriale din El Salvador.",
+        "Plaza Mundo este unul dintre cele mai vizitate centre comerciale din regiunea capitalei.",
+        "Orașul a cunoscut o transformare rapidă dintr-o zonă rurală într-un hub industrial modern.",
+        "Densitatea populației în Soyapango depășește media națională, subliniind caracterul său urban intens.",
+        "Economia locală depinde semnificativ de sectorul manufacturier și de comerțul cu amănuntul.",
+        "Administrația locală prioritizează investițiile în spații publice pentru a echilibra creșterea urbană."
+      ]
+    },
+    {
+      "id": "jucuapa-cities-v2",
+      "descriptionAdvanced": "Jucuapa este o localitate pitorească situată în departamentul Usulután, renumită pentru tradițiile sale și peisajele montane din împrejurimi. Orașul păstrează o atmosferă colonială autentică, oferind vizitatorilor o privire asupra stilului de viață tradițional salvadorian, departe de agitația capitalei. Agricultura locală, în special cultivarea cafelei, susține economia comunității și conservă moștenirea rurală. Educație K6 — Geografie: economia rurală și conservarea tradițiilor.",
+      "factsAdvanced": [
+        "Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.",
+        "Producția de cafea constituie principala activitate economică a regiunii.",
+        "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.",
+        "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.",
+        "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.",
+        "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."
+      ]
+    },
+    {
+      "id": "metapan-cities-v2",
+      "descriptionAdvanced": "Metapán este cunoscut pentru importanța sa în industria cimentului și pentru proximitatea față de Parcul Național Montecristo, o rezervație naturală de o biodiversitate uimitoare. Situat în nord-vestul țării, orașul oferă un peisaj diversificat, combinând dezvoltarea industrială cu conservarea mediului înconjurător. Climatul și geografia sa unică atrag pasionații de ecoturism din toată regiunea. Educație K7 — Geografie: industrii extractive și conservarea ecosistemelor montane.",
+      "factsAdvanced": [
+        "Metapán este centrul principal al industriei de ciment din El Salvador.",
+        "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.",
+        "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.",
+        "Orașul are o istorie lungă legată de exploatarea resurselor minerale.",
+        "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.",
+        "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."
+      ]
+    },
+    {
+      "id": "concepcion-de-oriente-cities-v2",
+      "descriptionAdvanced": "Concepción de Oriente este o localitate din departamentul La Unión, cunoscută pentru contextul său rural și pentru legăturile strânse cu tradițiile estului țării. Orașul oferă o atmosferă calmă, fiind reprezentativ pentru comunitățile care își bazează subzistența pe agricultură și creșterea animalelor. Peisajele sale rurale oferă o privire autentică asupra stilului de viață tradițional, departe de centrele urbane mari. Educație K5 — Geografie: viața rurală și importanța agriculturii în estul salvadorian.",
+      "factsAdvanced": [
+        "Concepción de Oriente este situată în departamentul La Unión, într-o regiune predominat rurală.",
+        "Agricultura și creșterea animalelor sunt principalele activități economice ale comunității.",
+        "Orașul păstrează un stil de viață tradițional, axat pe valorile comunitare locale.",
+        "Peisajele rurale din jur reflectă estetica specifică estului salvadorian.",
+        "Comunitatea pune un accent puternic pe conservarea obiceiurilor moștenite.",
+        "Concepción de Oriente reprezintă esența vieții rurale din departamentul La Unión."
+      ]
+    },
+    {
+      "id": "pasaquina-cities-v2",
+      "descriptionAdvanced": "Pasaquina este un oraș situat în departamentul La Unión, având o locație strategică în apropierea graniței cu Honduras. Economia sa este influențată de comerțul transfrontalier și de activitățile agricole, fiind un nod important pentru schimburile regionale. Comunitatea se remarcă prin vitalitatea sa și prin rolul pe care îl joacă în dezvoltarea economică a zonei de est. Educație K6 — Geografie: comerț transfrontalier și dezvoltare regională.",
+      "factsAdvanced": [
+        "Pasaquina este un punct strategic pentru comerțul dintre El Salvador și Honduras.",
+        "Economia orașului depinde semnificativ de fluxurile comerciale transfrontaliere.",
+        "Orașul are o istorie îndelungată legată de schimburile regionale din estul țării.",
+        "Poziția sa geografică îi conferă un rol esențial în dezvoltarea economică a departamentului La Unión.",
+        "Tradițiile locale reflectă interacțiunea culturală constantă din zona de frontieră.",
+        "Agricultura rămâne o sursă de bază pentru susținerea familiilor din mediul rural."
+      ]
+    },
+    {
+      "id": "alegria-cities-v2",
+      "descriptionAdvanced": "Alegria, situat în departamentul Usulután, este faimos pentru laguna sa vulcanică cu apă verde-smarald și pentru grădinile sale suspendate care oferă o vedere panoramică spectaculoasă asupra văii. Orașul este o destinație turistică preferată pentru iubitorii de natură, datorită climei sale plăcute și atmosferei relaxante. Tradițiile locale de cultivare a florilor și cafelei adaugă un farmec aparte acestei localități montane. Educație K7 — Geografie: lacuri vulcanice și turism montan.",
+      "factsAdvanced": [
+        "Laguna din Alegria este cunoscută pentru culoarea sa verde-smarald datorită sulfului.",
+        "Orașul este situat la o altitudine care îi conferă o climă răcoroasă și plăcută.",
+        "Alegria este renumită pentru grădinile sale suspendate și producția de flori.",
+        "Regiunea este un centru important pentru cultivarea cafelei de înaltă calitate.",
+        "Laguna vulcanică este o atracție majoră pentru drumeții și relaxare în natură.",
+        "Alegria oferă vederi panoramice spectaculoase asupra regiunii Usulután."
+      ]
+    }
+  ]
+}

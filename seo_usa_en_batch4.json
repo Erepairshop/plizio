@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "anchorage-cities-v2",
+      "descriptionAdvanced": "Anchorage is the largest and most populous city in Alaska, containing nearly forty percent of the state's entire population. Situated in the south-central part of the state on the Cook Inlet, it serves as the primary economic, transportation, and cultural hub for the vast, remote region. Anchorage's economy is heavily dependent on resource extraction, particularly the petroleum and natural gas industries, as well as a massive military presence, anchored by Joint Base Elmendorf-Richardson. Furthermore, its strategic geographical location makes Ted Stevens Anchorage International Airport one of the busiest cargo hubs in the world, serving as a critical refueling stop for trans-Pacific flights. Despite being an urban center, Anchorage is renowned for its immediate access to pristine wilderness and abundant wildlife, including bears and moose frequently seen within city limits. Geography K7 — subarctic urbanization and resource economies.",
+      "factsAdvanced": [
+        "Anchorage encompasses a massive land area of over 1,700 square miles, larger than the state of Rhode Island.",
+        "Ted Stevens Anchorage International Airport consistently ranks among the top five busiest cargo airports globally.",
+        "The city was severely damaged by the 1964 Good Friday earthquake, the most powerful recorded in North American history.",
+        "Anchorage serves as the ceremonial starting point for the annual Iditarod Trail Sled Dog Race.",
+        "The municipality is bordered by the Chugach Mountains, which heavily influence local weather patterns.",
+        "Joint Base Elmendorf-Richardson is a critical strategic installation for Arctic and Pacific defense operations."
+      ]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "descriptionAdvanced": "Stockton is a major city located in the Central Valley of California, situated along the San Joaquin River. Historically, it developed as a critical supply and transportation center during the California Gold Rush, uniquely functioning as an inland deep-water port, a status it maintains today through a dredged channel connecting it to the San Francisco Bay. This port facility makes Stockton a vital logistical hub for exporting the immense agricultural output of the surrounding San Joaquin Valley to international markets. In recent decades, Stockton has experienced significant economic challenges and was heavily impacted by the 2008 subprime mortgage crisis, leading to a highly publicized municipal bankruptcy in 2012, from which it has since emerged and restructured. Geography K7 — inland ports and agricultural logistics.",
+      "factsAdvanced": [
+        "The Port of Stockton is situated 75 nautical miles inland from the Golden Gate Bridge.",
+        "Stockton was the first community in California to have a name not of Spanish or Native American origin.",
+        "The city is surrounded by thousands of miles of waterways collectively known as the California Delta.",
+        "In 2012, Stockton became the largest US city at the time to file for Chapter 9 bankruptcy protection.",
+        "The city hosts the University of the Pacific, a private Methodist-affiliated university established in 1851.",
+        "Stockton is a major regional center for the cultivation and distribution of asparagus and walnuts."
+      ]
+    },
+    {
+      "id": "toledo-cities-v2",
+      "descriptionAdvanced": "Toledo is a prominent industrial city located in northwestern Ohio at the western end of Lake Erie, situated at the mouth of the Maumee River. Founded in 1833, Toledo developed rapidly due to its strategic position connecting the Great Lakes to the Miami and Erie Canal, making it a vital transportation hub for raw materials. The city is widely known as the 'Glass City' owing to its long, robust history of glass manufacturing, pioneered by companies like Libbey-Owens-Ford and Owens Corning, which produced everything from windows to fiberglass. Toledo also maintains a strong automotive manufacturing presence, historically serving as the primary production site for the iconic Jeep brand. Geography K7 — Great Lakes ports and specialized manufacturing.",
+      "factsAdvanced": [
+        "Toledo's nickname, the 'Glass City', originates from its dominance in glass production beginning in the 1880s.",
+        "The Toledo War was a bloodless boundary dispute in 1835-1836 between the state of Ohio and the Michigan Territory.",
+        "The Toledo Museum of Art is internationally recognized for its extensive and significant collection of glass art.",
+        "Jeep vehicles have been manufactured continuously in Toledo since the 1940s.",
+        "The Port of Toledo is one of the largest and most diversified cargo ports on the Great Lakes.",
+        "The city is located in the region historically known as the Great Black Swamp, which was drained for agriculture."
+      ]
+    },
+    {
+      "id": "st-paul-cities-v2",
+      "descriptionAdvanced": "St. Paul is the capital city of Minnesota, serving as the political and historical counterpart to adjacent Minneapolis, forming the 'Twin Cities' metropolitan area. Situated primarily on the eastern bank of the Mississippi River, St. Paul originally developed as a vital river port and a commercial hub for the fur trade and early agricultural shipments. The city is characterized by its hilly topography, diverse historic neighborhoods, and significant late-Victorian architecture, notably the incredibly ornate Cathedral of Saint Paul and the Minnesota State Capitol. Economically, St. Paul is anchored by state government operations, higher education institutions, and serves as the headquarters for major multinational companies like 3M. History K8 — river ports and capital city development.",
+      "factsAdvanced": [
+        "St. Paul was originally named 'Pig's Eye' after a popular local tavern owner, before being renamed by a Catholic missionary.",
+        "The Minnesota State Capitol features one of the largest unsupported marble domes in the world.",
+        "The Cathedral of Saint Paul is a massive Beaux-Arts structure that dominates the city skyline.",
+        "F. Scott Fitzgerald, the author of 'The Great Gatsby', was born and raised in St. Paul.",
+        "The city's extensive skyway system is the second longest in the world, surpassed only by neighboring Minneapolis.",
+        "St. Paul is home to the massive corporate headquarters of 3M, founded nearby as the Minnesota Mining and Manufacturing Company."
+      ]
+    },
+    {
+      "id": "newark-cities-v2",
+      "descriptionAdvanced": "Newark is the most populous city in New Jersey and a major transportation, logistical, and commercial hub within the expansive New York metropolitan area. Situated on the Passaic River near its entry into Newark Bay, the city is heavily defined by its massive infrastructure; Port Newark–Elizabeth is the primary container shipping facility for the entire regional market, and Newark Liberty International Airport is one of the busiest in the United States. Historically an industrial powerhouse, Newark faced severe urban decline and racial unrest in the mid-20th century, notably the 1967 riots. However, the city has undergone significant revitalization, expanding its corporate presence—hosting headquarters for Prudential Financial and Panasonic—and expanding its higher education and cultural institutions. Geography K7 — transportation hubs and urban revitalization.",
+      "factsAdvanced": [
+        "Newark Liberty International Airport was the first major commercial airport serving the New York metropolitan area.",
+        "Port Newark–Elizabeth Marine Terminal was the first facility in the world specifically designed for container shipping.",
+        "The city was founded in 1666 by Puritan colonists from Connecticut led by Robert Treat.",
+        "Newark is home to the New Jersey Performing Arts Center (NJPAC), a massive and highly successful cultural venue.",
+        "Branch Brook Park in Newark features the largest collection of cherry blossom trees in the United States.",
+        "The city contains significant corporate headquarters, including Prudential Financial, which has been based there since 1875."
+      ]
+    },
+    {
+      "id": "henderson-cities-v2",
+      "descriptionAdvanced": "Henderson is the second-largest city in Nevada, located immediately southeast of Las Vegas in the Mojave Desert. Originally established during World War II, the city was built to house workers for the massive Basic Magnesium Plant, which produced magnesium critical for the war effort, particularly for aircraft and munitions. Following the war, Henderson transitioned from an industrial company town into a rapidly expanding residential suburb of the Las Vegas metropolitan area. Today, it is characterized by extensive master-planned communities, numerous golf courses, and a diversified economy that includes large-scale retail, healthcare, and manufacturing. Henderson is also noted for its proximity to Lake Mead and the Hoover Dam, providing significant regional recreational opportunities. Geography K6 — suburban expansion and planned communities.",
+      "factsAdvanced": [
+        "Henderson was founded in the 1940s specifically to support the Basic Magnesium Plant during World War II.",
+        "The city frequently ranks among the safest large cities in the United States according to FBI crime statistics.",
+        "Henderson features several massive, affluent master-planned communities, such as Green Valley and Anthem.",
+        "The city's economy is increasingly focused on healthcare and specialized manufacturing, alongside regional retail.",
+        "Henderson borders the massive Lake Mead National Recreation Area to the east.",
+        "Following the closure of the magnesium plant, the city was nearly abandoned before being saved by local boosters."
+      ]
+    },
+    {
+      "id": "plano-cities-v2",
+      "descriptionAdvanced": "Plano is a major suburban city located primarily within Collin County, Texas, serving as a vital corporate and residential hub within the expansive Dallas-Fort Worth metroplex. Over the past few decades, Plano has transformed from a quiet farming community into a major economic center, famously earning the nickname 'Telecom Corridor' due to the high concentration of telecommunications and technology companies. The city is renowned for hosting the sprawling corporate headquarters of numerous global giants, including Toyota Motor North America, Frito-Lay, and J.C. Penney. Plano is characterized by its highly affluent demographics, extensive public park system, and highly rated public school districts, making it a quintessential example of successful late-20th-century suburban corporate development. Geography K7 — corporate suburbs and economic corridors.",
+      "factsAdvanced": [
+        "Toyota Motor North America relocated its massive corporate headquarters to Plano in 2017.",
+        "Plano consistently ranks highly in national surveys regarding quality of life and public school performance.",
+        "The city was designated the 'Balloon Capital of Texas' and hosts an annual, massive hot air balloon festival.",
+        "Plano's population exploded during the 1980s, driven heavily by the influx of major corporate employers.",
+        "The city operates an extensive park system encompassing over 4,000 acres of open space and trails.",
+        "Legacy West is a massive, multi-billion dollar mixed-use development that serves as a major regional commercial center."
+      ]
+    },
+    {
+      "id": "irvine-cities-v2",
+      "descriptionAdvanced": "Irvine is a master-planned city in Orange County, Southern California, globally recognized as a premier model of late-20th-century suburban urban planning. Designed primarily by the Irvine Company starting in the 1960s, the city is meticulously organized into distinct 'villages', each featuring specific architectural guidelines, integrated commercial centers, and extensive greenbelts. Irvine's economy is immensely powerful, serving as a massive hub for the technology, semiconductor, and medical device industries, hosting numerous corporate headquarters. Furthermore, the city is an educational powerhouse, anchored by the University of California, Irvine (UCI), which drives significant research and innovation. Irvine consistently ranks as one of the safest cities in the United States for its size. Geography K7 — master-planned communities and high-tech clusters.",
+      "factsAdvanced": [
+        "Irvine is the largest master-planned community in North America, developed meticulously by the Irvine Company.",
+        "The city has consistently ranked as the safest city of its size in the US by FBI violent crime data for over a decade.",
+        "The University of California, Irvine (UCI) was founded in 1965 and is a central focus of the city's master plan.",
+        "Irvine hosts the North American headquarters for several major video game developers, including Blizzard Entertainment.",
+        "The city features over 16,000 acres of permanently preserved parks, trails, and open space.",
+        "The layout of Irvine's 'villages' is designed to reduce traffic congestion and ensure local commercial access."
+      ]
+    },
+    {
+      "id": "durham-cities-v2",
+      "descriptionAdvanced": "Durham is a major city in North Carolina and a core component of the Research Triangle region, alongside Raleigh and Chapel Hill. Historically, Durham's economy was utterly dominated by the tobacco industry; the massive American Tobacco Company, founded by the Duke family, spurred the city's early, explosive growth. The Dukes subsequently endowed Trinity College, which was renamed Duke University, establishing the city as a premier center for higher education and medical research. Following the decline of domestic tobacco manufacturing, Durham successfully pivoted its economy toward healthcare, biotechnology, and technology, heavily leveraging the resources of Duke University and the adjacent Research Triangle Park. The city's historic tobacco warehouses have been extensively redeveloped into vibrant mixed-use districts. Geography K7 — post-industrial transition and research universities.",
+      "factsAdvanced": [
+        "Duke University, a prestigious private research institution, is the largest employer in the city of Durham.",
+        "The American Tobacco Historic District was a massive revitalization project that transformed abandoned factories into commercial space.",
+        "Durham is often referred to as the 'City of Medicine' due to its massive healthcare and research sectors.",
+        "The city's early economy was built entirely around the cultivation and processing of 'brightleaf' tobacco.",
+        "Durham is home to the North Carolina Central University, a historically black university established in 1910.",
+        "The Research Triangle Park, partially located in Durham County, is the largest research park in the US."
+      ]
+    },
+    {
+      "id": "st-petersburg-fl-cities-v2",
+      "descriptionAdvanced": "St. Petersburg is a major city in Pinellas County, Florida, situated on a peninsula between Tampa Bay and the Gulf of Mexico. Often referred to as 'St. Pete', the city is renowned for its idyllic weather, holding a Guinness World Record for the most consecutive days of sunshine, earning it the nickname 'The Sunshine City'. Historically a popular winter resort destination, the city has evolved into a vibrant cultural hub, particularly celebrated for its extensive downtown waterfront parks and a thriving arts scene. St. Petersburg hosts the world-renowned Salvador Dalí Museum, which contains the largest collection of the artist's work outside of Europe. The local economy is driven by tourism, healthcare, financial services, and marine research. Geography K6 — coastal peninsulas and tourism climates.",
+      "factsAdvanced": [
+        "St. Petersburg holds the world record for logging 768 consecutive days of sunshine between 1967 and 1969.",
+        "The Salvador Dalí Museum in St. Petersburg houses an unparalleled collection of the surrealist's masterworks.",
+        "The city operates the third-largest dedicated public waterfront park system in North America.",
+        "St. Petersburg was co-founded by John C. Williams and Peter Demens, who named it after his birthplace in Russia.",
+        "The Sunshine Skyway Bridge, spanning Tampa Bay, connects St. Petersburg to Terra Ceia and is 4.1 miles long.",
+        "The city is a major center for marine science research, hosting facilities for the University of South Florida and NOAA."
+      ]
+    },
+    {
+      "id": "jersey-city-cities-v2",
+      "descriptionAdvanced": "Jersey City is the second-most populous city in New Jersey, situated on the western bank of the Hudson River directly across from Lower Manhattan. Historically, it was a massive transportation and industrial terminus, serving as a critical rail hub where extensive freight networks met the ferries crossing to New York City. The city is also culturally significant, as millions of immigrants who arrived at nearby Ellis Island settled in or passed through its borders. In recent decades, Jersey City has undergone a dramatic transformation, particularly along its waterfront, developing a massive skyline of corporate offices and high-rise residential towers, earning the nickname 'Wall Street West' due to the heavy presence of financial sector firms relocating from Manhattan. Geography K7 — waterfront redevelopment and financial districts.",
+      "factsAdvanced": [
+        "Jersey City's waterfront features some of the tallest buildings in New Jersey, forming a skyline visible from Manhattan.",
+        "Ellis Island, historically the nation's premier immigration station, is situated within the waters of Jersey City.",
+        "The city's Exchange Place district is a major financial hub, hosting numerous prominent banking institutions.",
+        "Liberty State Park in Jersey City provides expansive views of the Statue of Liberty and the Manhattan skyline.",
+        "The city is incredibly diverse, frequently ranking among the most ethnically and linguistically diverse cities in the US.",
+        "Historically, Jersey City was the terminus for several major railroads, connecting national freight to New York Harbor."
+      ]
+    },
+    {
+      "id": "chandler-cities-v2",
+      "descriptionAdvanced": "Chandler is a major suburban city in the Phoenix metropolitan area, located in the East Valley region of Arizona. Founded in 1912 by Dr. A.J. Chandler as an agricultural town focused heavily on ostrich farming and cotton, the city has undergone a profound transformation. Today, Chandler is an economic powerhouse and a central hub of the 'Silicon Desert', renowned for its massive concentration of semiconductor and high-technology manufacturing. The city's economy is anchored by sprawling corporate campuses, most notably Intel, which operates massive fabrication plants in the area. Chandler's rapid growth has resulted in a landscape characterized by master-planned neighborhoods, extensive public parks, and high-end retail developments. Geography K7 — technology corridors and suburban development.",
+      "factsAdvanced": [
+        "Intel is the largest employer in Chandler, operating multiple massive semiconductor fabrication plants.",
+        "Chandler was founded in 1912 by an ambitious veterinary surgeon who instituted an advanced irrigation system.",
+        "The city hosts an annual Ostrich Festival, honoring its unique early agricultural history of ostrich ranching.",
+        "Chandler's population surged dramatically from roughly 30,000 in 1980 to over 270,000 today.",
+        "The Price Road Corridor in Chandler is a major regional employment center focused on technology and finance.",
+        "The city's historic downtown square features preserved 1920s architecture and modernized commercial spaces."
+      ]
+    },
+    {
+      "id": "laredo-cities-v2",
+      "descriptionAdvanced": "Laredo is a prominent city in southern Texas, located directly on the north bank of the Rio Grande, opposite Nuevo Laredo, Mexico. The city's entire economic and cultural identity is defined by its position on the international border; Laredo operates as the largest inland port of entry in the United States and a critical conduit for massive volumes of international trade under agreements like USMCA. The constant flow of commercial trucking and rail traffic makes logistics, warehousing, and transportation the overwhelming pillars of the local economy. Culturally, Laredo is deeply intertwined with its Mexican sister city, boasting a population that is nearly entirely Hispanic, and heavily influenced by its historical origins as a Spanish colonial settlement founded in 1755. Geography K7 — border towns and international logistics.",
+      "factsAdvanced": [
+        "Laredo is the number one inland port along the US-Mexico border, handling hundreds of billions of dollars in trade.",
+        "The city was founded in 1755 by Tomás Sánchez as a settlement in the Spanish colony of Nuevo Santander.",
+        "Laredo has flown seven different national flags over its history, including the brief independent Republic of the Rio Grande.",
+        "Over 95 percent of Laredo's population identifies as Hispanic or Latino, making it incredibly culturally homogenous.",
+        "The World Trade International Bridge in Laredo is exclusively dedicated to commercial vehicle traffic.",
+        "Laredo hosts an annual, month-long celebration for George Washington's birthday, reflecting its unique border culture."
+      ]
+    },
+    {
+      "id": "norfolk-cities-v2",
+      "descriptionAdvanced": "Norfolk is a major independent city in southeastern Virginia, located at the core of the Hampton Roads metropolitan area on the Chesapeake Bay. The city's geography is overwhelmingly dominated by water, bordered by numerous rivers and the bay itself, making it historically crucial for maritime trade and defense. Norfolk's modern identity is entirely inseparable from the United States Navy; it is the home of Naval Station Norfolk, the largest naval base in the world, which serves as the headquarters for the US Fleet Forces Command. Consequently, the local economy is massively dependent on defense spending, shipbuilding, and ship repair. Additionally, Norfolk serves as a vital commercial port, handling significant cargo traffic, particularly the export of Appalachian coal. Geography K7 — military geoeconomics and natural harbors.",
+      "factsAdvanced": [
+        "Naval Station Norfolk is the largest naval installation in the world, supporting numerous aircraft carriers and submarines.",
+        "Norfolk operates as an independent city, meaning it is not politically part of any surrounding county.",
+        "The city's massive port facilities are a major global hub for the export of coal.",
+        "Norfolk was founded in 1682 and has a long history as a strategic colonial and early American seaport.",
+        "The Chrysler Museum of Art in Norfolk features a massive and internationally recognized glass collection.",
+        "Norfolk is extremely vulnerable to sea-level rise and flooding due to its low elevation and land subsidence."
+      ]
+    },
+    {
+      "id": "reno-cities-v2",
+      "descriptionAdvanced": "Reno is a major city in northern Nevada, situated in the high desert valley at the foot of the Sierra Nevada mountains near Lake Tahoe. Historically famous as 'The Biggest Little City in the World', Reno developed primarily around the casino and gaming industry, benefiting from Nevada's early legalization of gambling and its proximity to the California border. However, facing increased competition from Native American casinos in California, Reno has deliberately and successfully diversified its economy. Today, the region is a rapidly growing hub for technology, advanced manufacturing, and logistics, notably hosting massive facilities like Tesla's Gigafactory in the nearby Tahoe Reno Industrial Center. Reno also serves as a major gateway for outdoor recreation in the Sierra Nevada. Geography K7 — economic diversification and high desert cities.",
+      "factsAdvanced": [
+        "Reno is famously branded by an illuminated arch over Virginia Street proclaiming 'The Biggest Little City in the World'.",
+        "The city was historically renowned as the 'divorce capital of the world' due to Nevada's lenient residency laws.",
+        "The massive Tahoe Reno Industrial Center, located east of the city, hosts the enormous Tesla Gigafactory.",
+        "Reno sits at an elevation of approximately 4,500 feet above sea level.",
+        "The city is home to the University of Nevada, Reno, a major public research institution established in 1874.",
+        "Reno hosts the annual National Championship Air Races, a major event featuring high-speed, multi-class aircraft racing."
+      ]
+    },
+    {
+      "id": "buffalo-cities-v2",
+      "descriptionAdvanced": "Buffalo is the second-largest city in New York state, located at the eastern end of Lake Erie, adjacent to the Canadian border and near Niagara Falls. Historically, Buffalo was an industrial titan; the opening of the Erie Canal in 1825 transformed it into the primary gateway for commerce between the East Coast and the expanding Midwest. The city capitalized on its position by developing massive grain elevators, steel mills, and automobile manufacturing plants. Like many Rust Belt cities, Buffalo faced severe economic decline in the late 20th century. However, recent revitalization efforts have focused on healthcare, education, and leveraging its architectural heritage, which includes significant works by Frank Lloyd Wright and Louis Sullivan, alongside a distinct local culture famous for the invention of Buffalo wings. Geography K7 — Great Lakes ports and Erie Canal history.",
+      "factsAdvanced": [
+        "Buffalo's massive grain elevators were once the largest and most advanced agricultural storage facilities in the world.",
+        "The city was heavily electrified early on due to the immense hydroelectric power generated by nearby Niagara Falls.",
+        "President William McKinley was assassinated at the Pan-American Exposition in Buffalo in 1901.",
+        "The Albright-Knox Art Gallery in Buffalo houses a world-class collection of modern and contemporary art.",
+        "Buffalo is famous for its fierce winter weather, particularly intense 'lake-effect' snowstorms coming off Lake Erie.",
+        "The city is the undisputed birthplace of the 'Buffalo wing', created at the Anchor Bar in 1964."
+      ]
+    },
+    {
+      "id": "fort-wayne-cities-v2",
+      "descriptionAdvanced": "Fort Wayne is the second-largest city in Indiana, located in the northeastern part of the state at the confluence of the St. Joseph, St. Marys, and Maumee rivers. This strategic geography made the site historically vital for Native American tribes and later European traders, leading to the construction of a series of forts, culminating in the American fort built by General Anthony Wayne in 1794. During the 19th and 20th centuries, Fort Wayne evolved into a prominent manufacturing hub within the 'Rust Belt', recognized heavily for the production of consumer electronics, automotive parts, and heavy machinery. Today, while manufacturing remains significant, the economy has diversified into healthcare, defense contracting, and logistics. History K7 — frontier forts and Midwestern manufacturing.",
+      "factsAdvanced": [
+        "Fort Wayne was founded in 1794 under the direction of American Revolutionary War General Anthony Wayne.",
+        "The city's location at the confluence of three rivers made it a critical historical portage point.",
+        "During the 20th century, Fort Wayne was a major center for the production of televisions and refrigerators.",
+        "The city is home to the massive headquarters of Lincoln Financial Group, a major insurance and investment company.",
+        "Fort Wayne frequently receives recognition for its extensive park system and numerous recreational trails.",
+        "The Fort Wayne Children's Zoo is highly rated and focuses extensively on interactive and educational exhibits."
+      ]
+    },
+    {
+      "id": "boise-cities-v2",
+      "descriptionAdvanced": "Boise is the capital and most populous city of Idaho, located in the southwestern part of the state along the Boise River, nestled against the foothills of the Rocky Mountains. The city acts as the primary economic and cultural hub for the state, originally developing as a crucial supply center during the 19th-century gold rushes in the surrounding mountains. Today, Boise boasts a rapidly growing and highly diversified economy. While traditional sectors like agriculture and logging remain relevant in the region, the city itself is driven by a booming technology sector, anchored by major semiconductor manufacturing operations, alongside robust healthcare and state government employment. Boise is also renowned for its extensive urban trail system, the Boise River Greenbelt, and ready access to outdoor recreation. Geography K7 — mountain state capitals and emerging tech hubs.",
+      "factsAdvanced": [
+        "Boise is frequently ranked among the fastest-growing major metropolitan areas in the United States.",
+        "The city is home to the corporate headquarters of Micron Technology, a massive global semiconductor company.",
+        "The Boise River Greenbelt is an extensive, 25-mile-long park system following the river through the city.",
+        "Boise contains the largest concentrated Basque population in the United States, maintaining a distinct cultural block.",
+        "The city's name likely derives from French-Canadian trappers who called the tree-lined river 'la rivière boisée'.",
+        "The Idaho State Capitol building in Boise is geothermally heated by an underground hot spring system."
+      ]
+    },
+    {
+      "id": "richmond-va-cities-v2",
+      "descriptionAdvanced": "Richmond is the capital of the Commonwealth of Virginia, situated along the fall line of the James River. The city's history is incredibly deep and complex; it served as a major center for the colonial tobacco trade and domestic slave trade, and notoriously acted as the capital of the Confederate States of America during the American Civil War, leading to its near-total destruction by fire in 1865. Today, Richmond's economy is highly diversified, anchored by law, finance, and federal government operations, including the Fifth District Federal Reserve Bank. The city boasts a rich architectural heritage, featuring significant monumental and residential historic districts, and has developed a vibrant cultural scene heavily influenced by nearby Virginia Commonwealth University. History K8 — the American Civil War and state capitals.",
+      "factsAdvanced": [
+        "Richmond served as the capital of the Confederate States of America from 1861 until its fall in 1865.",
+        "The Virginia State Capitol was designed by Thomas Jefferson and strongly influenced American neoclassical architecture.",
+        "Patrick Henry delivered his famous 'Give me liberty, or give me death!' speech at St. John's Church in Richmond.",
+        "The city was a major center for the domestic slave trade in the decades preceding the Civil War.",
+        "Richmond is home to the headquarters of several Fortune 500 companies, including Dominion Energy and CarMax.",
+        "The James River running through the city features significant Class IV rapids, unusual for a major urban area."
+      ]
+    },
+    {
+      "id": "des-moines-cities-v2",
+      "descriptionAdvanced": "Des Moines is the capital and most populous city in Iowa, located centrally within the state at the confluence of the Des Moines and Raccoon Rivers. Operating as the primary economic hub of the vast, agriculturally dominant Corn Belt, the city naturally has deep ties to agribusiness. However, Des Moines is globally recognized for its massive insurance and financial services sector, boasting one of the highest concentrations of insurance professionals in the world, with numerous major firms headquartered there. The city also gains massive national political prominence every four years as the site of the Iowa Caucuses, the first major electoral event in the nominating process for the President of the United States. Geography K7 — Corn Belt capitals and insurance hubs.",
+      "factsAdvanced": [
+        "Des Moines is often recognized as the insurance capital of the United States, hosting over 80 insurance companies.",
+        "The Iowa Caucuses, held in Des Moines, are historically the first crucial step in the US presidential election cycle.",
+        "The Iowa State Capitol building features a distinct 275-foot central dome covered in 23-karat gold leaf.",
+        "The city was originally founded as a military post, Fort Des Moines, in 1843 to control the local indigenous populations.",
+        "Des Moines hosts the annual World Food Prize ceremony, an international award recognizing achievements in global food security.",
+        "The city's extensive downtown skywalk system spans over four miles, connecting buildings to circumvent harsh weather."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraTanzaniaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "tz-dodoma-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Dodoma, das seit 1974 die offizielle Hauptstadt Tansanias ist, fungiert als das politische Herz des Landes. Im Gegensatz zur Küstenmetropole Dar es Salaam liegt Dodoma auf einem trockenen Hochplateau auf einer Höhe von etwa 1.100 Metern. Die Stadt beherbergt die Nationalversammlung und ist durch weite Straßen und bedeutende Regierungsgebäude geprägt, die ihre neue Rolle unterstreichen. Geographie K6 — Siedlungen und Hauptstädte.",
+        "hu": "Dodoma, amely 1974 óta Tanzánia hivatalos fővárosa, az ország politikai szíveként működik. A tengerparti Dar es Salaam nagyvárossal ellentétben Dodoma egy száraz fennsíkon fekszik, körülbelül 1100 méteres tengerszint feletti magasságban. A város ad otthont az Országgyűlésnek, és széles utcák, valamint jelentős kormányzati épületek jellemzik, amelyek új szerepét hangsúlyozzák. Földrajz K6 — települések és fővárosok.",
+        "ro": "Dodoma, care este capitala oficială a Tanzaniei din 1974, servește drept inima politică a țării. Spre deosebire de metropola de coastă Dar es Salaam, Dodoma este situată pe un platou înalt și uscat, la o altitudine de aproximativ 1.100 de metri. Orașul găzduiește Adunarea Națională și este definit prin străzi largi și clădiri guvernamentale semnificative, care îi subliniază noul rol. Geografie K6 — așezări și capitale.",
+        "en": "Dodoma, which has been the official capital of Tanzania since 1974, serves as the political heart of the country. Unlike the coastal metropolis of Dar es Salaam, Dodoma is situated on a dry high plateau at an altitude of about 1,100 meters. The city houses the National Assembly and is characterized by wide streets and significant government buildings that underscore its new role. Geography K6 — settlements and capitals."
+      },
+      "factsAdvanced": {
+        "de": ["Dodoma liegt auf ca. 1.120 m Höhe.", "Die Stadt wurde 1907 von deutschen Siedlern gegründet.", "Offizielle Hauptstadtverlegung fand 1974 statt.", "Die Stadt beherbergt den Bunge-Komplex.", "Dodoma bedeutet in der Sprache der Gogo 'versunken'.", "Das Klima ist semiarid."],
+        "hu": ["Dodoma kb. 1120 m magasan fekszik.", "A várost 1907-ben német telepesek alapították.", "A főváros hivatalos áthelyezése 1974-ben történt.", "A város ad otthont a Bunge-komplexumnak.", "Dodoma a gogo nyelven 'elmerültet' jelent.", "Az éghajlat félszáraz."],
+        "ro": ["Dodoma este situat la o altitudine de cca. 1120 m.", "Orașul a fost fondat în 1907 de coloniști germani.", "Mutarea oficială a capitalei a avut loc în 1974.", "Orașul găzduiește complexul Bunge.", "Dodoma înseamnă 'scufundat' în limba Gogo.", "Clima este semiaridă."],
+        "en": ["Dodoma is situated at an altitude of approx. 1,120 m.", "The city was founded in 1907 by German settlers.", "The official capital relocation took place in 1974.", "The city houses the Bunge complex.", "Dodoma means 'sunken' in the Gogo language.", "The climate is semi-arid."]
+      }
+    }
+  ]
+}

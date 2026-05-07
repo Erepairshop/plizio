@@ -1,0 +1,117 @@
+[
+  {
+    "id": "es-sider-terminal-economic-v2",
+    "name": "Es Sider Oil Terminal",
+    "desc": "Es Sider is the largest oil export terminal in Libya, centrally located on the coast of the Gulf of Sidra."
+  },
+  {
+    "id": "sharara-oil-field-economic-v2",
+    "name": "Sharara Oil Field",
+    "desc": "The Sharara oil field in the Murzuq Desert is one of Libya"
+  },
+  {
+    "id": "el-feel-oil-field-economic-v2",
+    "name": "El Feel Oil Field",
+    "desc": "The El Feel field, also known as the Elephant field, is a major source of Libyan crude oil from the southwestern desert."
+  },
+  {
+    "id": "waha-oil-field-economic-v2",
+    "name": "Waha Oil Field",
+    "desc": "The Waha oil field in the Sirte Basin is a historic and still productive source of high-quality crude oil."
+  },
+  {
+    "id": "zelten-oil-field-economic-v2",
+    "name": "Zelten Oil Field",
+    "desc": "Discovered in 1959, the Zelten field (now also called Nasser field) was one of the first major commercial oil discoveries in Libya."
+  },
+  {
+    "id": "sarir-oil-field-economic-v2",
+    "name": "Sarir Oil Field",
+    "desc": "The Sarir field in eastern Libya is considered the largest oil field in the country in terms of proven reserves."
+  },
+  {
+    "id": "bouri-offshore-field-economic-v2",
+    "name": "Bouri Offshore Field",
+    "desc": "The Bouri field in the Mediterranean Sea is the largest producing offshore oil field in the Mediterranean Basin."
+  },
+  {
+    "id": "al-jurf-offshore-field-economic-v2",
+    "name": "Al Jurf Offshore Field",
+    "desc": "Al Jurf is an offshore oil field near the Tunisian border, operated by international consortia."
+  },
+  {
+    "id": "mabruk-oil-field-economic-v2",
+    "name": "Mabruk Oil Field",
+    "desc": "The Mabruk field in the Sirte Basin is known for complex geological structures from which oil is extracted using modern technology."
+  },
+  {
+    "id": "amal-oil-field-economic-v2",
+    "name": "Amal Oil Field",
+    "desc": "The Amal field is one of the older producing fields in the Libyan Sirte Basin, connected by pipelines to the Ras Lanuf port."
+  },
+  {
+    "id": "nafoora-oil-field-economic-v2",
+    "name": "Nafoora Oil Field",
+    "desc": "The Nafoora field is a significant component of Libyan oil production and is managed by the Arabian Gulf Oil Company."
+  },
+  {
+    "id": "messla-oil-field-economic-v2",
+    "name": "Messla Oil Field",
+    "desc": "The Messla oil field in Cyrenaica was discovered in the 1970s and is known for its high-quality oil reserves."
+  },
+  {
+    "id": "abu-attifel-oil-field-economic-v2",
+    "name": "Abu Attifel Oil Field",
+    "desc": "Abu Attifel is a large oil field in the Sirte Basin, ranking among the oldest and most productive fields involving international partners."
+  },
+  {
+    "id": "zawiya-refinery-economic-v2",
+    "name": "Zawiya Oil Refinery",
+    "desc": "The Zawiya refinery is one of the most important processing facilities in Libya, supplying fuel to large parts of the country."
+  },
+  {
+    "id": "ras-lanuf-refinery-economic-v2",
+    "name": "Ras Lanuf Refinery",
+    "desc": "The Ras Lanuf Refinery is a huge petrochemical complex that processes crude oil from the Sirte Basin for domestic and export markets."
+  },
+  {
+    "id": "lisco-misrata-steel-economic-v2",
+    "name": "Libyan Iron and Steel Company (LISCO)",
+    "desc": "LISCO in Misrata is one of North Africa"
+  },
+  {
+    "id": "zliten-cement-plant-economic-v2",
+    "name": "Zliten Cement Plant",
+    "desc": "The cement plant in Zliten is a major supplier of building materials in the country, supporting infrastructure projects in the coastal region."
+  },
+  {
+    "id": "mellitah-gas-plant-economic-v2",
+    "name": "Mellitah Gas Plant",
+    "desc": "The Mellitah Gas Plant processes natural gas intended for both Libyan domestic consumption and export via the Greenstream pipeline."
+  },
+  {
+    "id": "khoms-power-plant-economic-v2",
+    "name": "Khoms Power Plant",
+    "desc": "The Khoms Power Plant is a large thermal power station playing a key role in supplying electricity to Libya"
+  },
+  {
+    "id": "ly-leptis-magna-history-v2",
+    "name": "Leptis Magna",
+    "desc": "One of the best-preserved ancient Roman cities, known for its monumental arch and large amphitheater."
+  },
+  {
+    "id": "ly-sabratha-history-v2",
+    "name": "Sabratha",
+    "desc": "An ancient city on the Mediterranean coast featuring an impressive Roman theater and beautiful mosaics."
+  },
+  {
+    "id": "ly-cyrene-history-v2",
+    "name": "Cyrene",
+    "desc": "A major ancient Greek and later Roman city that gave the region of Cyrenaica its name."
+  },
+  {
+    "id": "ly-apollonia-history-v2",
+    "name": "Apollonia",
+    "desc": "The ancient port of Cyrene, featuring important Byzantine church ruins and a sunken harbor."
+  }
+]

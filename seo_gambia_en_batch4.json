@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bakau-fish-landing-economic-v2",
+      "descriptionAdvanced": "The Bakau Fish Landing Site is a bustling economic nerve center located on the Atlantic coast just outside the capital. Every afternoon, dozens of brightly painted artisanal wooden pirogues return from the ocean, navigating the rocky shoreline to unload massive quantities of bonga and other pelagic fish. The site immediately transforms into an intense marketplace, supporting hundreds of local women who act as fishmongers, processors, and smokers. The resulting smoked fish is heavily traded inland, making this landing site critical not just for the local Bakau economy, but for protein supply chains deep into the Gambian interior. (Economics K6 — artisanal fisheries and local supply chains)",
+      "factsAdvanced": [
+        "A major artisanal fishing port located on the rocky coast of Bakau.",
+        "Hundreds of brightly painted wooden pirogues operate from this shoreline.",
+        "Supports a massive local economy of female fishmongers and processors.",
+        "A primary source of the highly consumed 'bonga' fish.",
+        "Features extensive traditional fish-smoking facilities adjacent to the beach.",
+        "Critical for supplying affordable protein to the inland urban markets."
+      ]
+    },
+    {
+      "id": "brufut-fish-landing-economic-v2",
+      "descriptionAdvanced": "Situated south of the main tourist strip, the Brufut Fish Landing Site represents a highly organized and vital segment of the artisanal marine economy. Benefitting from a wide, sandy beach, it accommodates larger traditional fishing vessels that venture further offshore than those in Bakau. The site has recently received infrastructural upgrades, including modern ice plants and hygienic processing slabs, to reduce post-harvest losses. The catch here is diverse, including high-value species destined for nearby luxury hotels and export markets, intertwining traditional fishing methods with modern hospitality supply chains. (Economics K7 — marine economies and infrastructure upgrades)",
+      "factsAdvanced": [
+        "Located on the expansive sandy beaches of the Brufut coastline.",
+        "Accommodates large traditional fishing vessels that operate further offshore.",
+        "Features recently upgraded infrastructure including modern ice plants.",
+        "A key supplier of high-value fresh seafood to nearby luxury tourist resorts.",
+        "Employs modern processing slabs to minimize post-harvest spoilage.",
+        "A vital economic engine blending traditional practices with commercial hospitality."
+      ]
+    },
+    {
+      "id": "sanyang-fish-landing-economic-v2",
+      "descriptionAdvanced": "The Sanyang Fish Landing Site is an immense and chaotic economic hub located on Paradise Beach in the Kombo South district. It is one of the largest traditional fishing centers in the country, drawing migrant fishermen from neighboring Senegal and Guinea. The beach is a sensory overload of smoking ovens, drying racks, and intense bartering. Because of its sheer scale, Sanyang produces a massive surplus of dried and smoked fish, which is loaded onto trucks and exported regionally across West Africa. The site perfectly illustrates the massive scale and vital importance of the informal West African marine economy. (Economics K7 — regional export and migrant labor)",
+      "factsAdvanced": [
+        "One of the largest traditional fishing centers in The Gambia.",
+        "Located on the famous Paradise Beach in the Kombo South district.",
+        "Attracts a significant workforce of migrant fishermen from across West Africa.",
+        "Features immense, sprawling traditional fish smoking and drying operations.",
+        "Produces massive surpluses of preserved fish for regional cross-border export.",
+        "A prime example of a massive, highly functional informal marine economy."
+      ]
+    },
+    {
+      "id": "kartong-sand-mining-economic-v2",
+      "descriptionAdvanced": "The Kartong Sand Mining Site represents a highly lucrative but ecologically sensitive industrial activity located near the southern border. Driven by the massive construction boom in the Greater Banjul Area, the demand for construction-grade sand has skyrocketed. Large fleets of trucks arrive daily to extract sand from designated coastal quarries. While it provides significant local employment and fuels national infrastructure development, the mining has sparked fierce debates regarding coastal erosion and the destruction of local habitats. Recent efforts have focused on transitioning exhausted quarry pits into community aquaculture ponds to mitigate the environmental damage. (Economics K8 — resource extraction and ecological impacts)",
+      "factsAdvanced": [
+        "A major industrial extraction site located near the southern border village of Kartong.",
+        "Provides critical construction-grade sand for the national real estate boom.",
+        "Generates significant local employment and municipal revenue.",
+        "Highly controversial due to its severe impact on coastal erosion and habitats.",
+        "Features constant heavy truck traffic transporting sand to the northern cities.",
+        "Exhausted quarry pits are increasingly being converted into aquaculture ponds."
+      ]
+    },
+    {
+      "id": "batokunku-wind-power-economic-v2",
+      "descriptionAdvanced": "The Batokunku Wind Power Plant is a groundbreaking renewable energy project located in the coastal village of Batokunku. Standing prominently near the Atlantic cliffs to catch the strong, consistent sea breezes, this single massive turbine represents The Gambia's first successful community-owned wind power initiative. Generating roughly 150 kilowatts of electricity, it not only fully powers the local village but acts as an independent power producer, selling surplus energy back to the national utility grid (NAWEC). The project serves as a highly successful, scalable model for decentralized, green rural electrification across West Africa. (Science K8 — renewable energy and rural electrification)",
+      "factsAdvanced": [
+        "The first successful community-owned wind power project in The Gambia.",
+        "Located on the Atlantic coast to capitalize on strong, consistent sea breezes.",
+        "Generates approximately 150 kilowatts of clean electricity.",
+        "Fully powers the local village and surrounding community infrastructure.",
+        "Sells surplus electricity back into the national NAWEC utility grid.",
+        "Considered a pioneering model for green rural electrification in the region."
+      ]
+    },
+    {
+      "id": "fatoto-river-wharf-economic-v2",
+      "descriptionAdvanced": "The Fatoto River Wharf is a vital, historic transport and trading node located in the extreme eastern reaches of the Upper River Region. Situated where the Gambia River begins to narrow significantly, it serves as a critical collection point for agricultural produce, particularly groundnuts and cotton, harvested from the remote eastern districts. Historically, it was the final major stop for large colonial river steamers. Today, while road transport has increased, the wharf remains an essential piece of infrastructure for local river crossings and moving heavy bulk cargo downstream towards the processing centers in Banjul. (Geography K6 — river logistics and remote transport)",
+      "factsAdvanced": [
+        "Located in the extreme east of the Upper River Region.",
+        "Historically the final major inland stop for large colonial river steamers.",
+        "A critical collection point for groundnuts and cotton from remote districts.",
+        "Situated at a point where the Gambia River begins to narrow significantly.",
+        "Facilitates the movement of heavy bulk agricultural cargo downstream.",
+        "Remains a vital hub for local river crossings and regional commerce."
+      ]
+    },
+    {
+      "id": "bansang-river-wharf-economic-v2",
+      "descriptionAdvanced": "The Bansang River Wharf is a bustling commercial center situated on the south bank of the river in the Central River Region. Unlike the massive industrial ports of the coast, this wharf is characterized by intense, small-scale regional trade. It is the primary docking point for a constant stream of motorized canoes and small ferries bringing people, livestock, and agricultural goods across the river. The wharf directly feeds the large Bansang market, ensuring a steady supply of fresh produce and serving as the logistical heart for the surrounding rural communities that lack direct road bridge access. (Economics K6 — regional trade and river crossings)",
+      "factsAdvanced": [
+        "A highly active commercial wharf located on the south bank of the river.",
+        "The primary docking point for cross-river ferries and motorized trading canoes.",
+        "Directly feeds the massive Bansang regional market with agricultural goods.",
+        "Crucial for transporting livestock and produce from the north bank.",
+        "Serves as the logistical heart for communities lacking road bridge access.",
+        "Characterized by intense, small-scale regional bartering and trade."
+      ]
+    },
+    {
+      "id": "kerewan-fish-landing-economic-v2",
+      "descriptionAdvanced": "The Kerewan Fish Landing Site is a critical piece of localized economic infrastructure situated on the Miniminiyang Bolong, a major tributary of the Gambia River on the north bank. Unlike the coastal landing sites that harvest ocean pelagics, the Kerewan site is entirely focused on estuarine and riverine fishing. Local fishermen use specialized nets to catch tilapia, catfish, and river shrimp, which are essential protein sources for the inland North Bank Region. The site is small but highly efficient, directly supplying the regional administrative capital and supporting a network of local female fishmongers. (Economics K6 — estuarine fisheries and inland supply)",
+      "factsAdvanced": [
+        "Located on the Miniminiyang Bolong, a tributary of the Gambia River.",
+        "Focused exclusively on estuarine and riverine fishing, not ocean catches.",
+        "Primary catches include local tilapia, river catfish, and estuarine shrimp.",
+        "A vital source of fresh protein for the inland North Bank Region.",
+        "Directly supplies the markets of Kerewan, the regional administrative capital.",
+        "Supports a highly organized network of local female fishmongers."
+      ]
+    },
+    {
+      "id": "brikama-ice-plant-economic-v2",
+      "descriptionAdvanced": "The Brikama Ice Plant is a deceptively simple but absolutely critical industrial facility located in the West Coast Region. In a climate where daytime temperatures regularly exceed 35 degrees Celsius (95 Fahrenheit), the preservation of perishable goods is paramount. This large-scale facility produces massive blocks of ice 24 hours a day, supplying the massive Brikama market, regional meat vendors, and most importantly, the coastal fish landing sites that lack their own refrigeration. The plant is a massive consumer of electricity and represents a vital link in the cold chain that prevents catastrophic post-harvest food loss across the region. (Science K7 — refrigeration infrastructure and food security)",
+      "factsAdvanced": [
+        "A large-scale industrial ice manufacturing facility located in Brikama.",
+        "Produces massive ice blocks 24/7 to support regional food preservation.",
+        "A critical supplier for the coastal fish landing sites lacking refrigeration.",
+        "Vital for preventing post-harvest spoilage of meat and agricultural produce.",
+        "A massive consumer of electricity from the local baseload grid.",
+        "Represents the essential foundation of the regional cold chain logistics."
+      ]
+    },
+    {
+      "id": "wassu-stone-circles-history-v2",
+      "descriptionAdvanced": "The Wassu Stone Circles are a profound archaeological marvel located in the Central River Region, forming part of a larger UNESCO World Heritage Site. These megalithic monuments consist of meticulously carved laterite pillars arranged in precise circles, dating back between the 3rd century BC and the 16th century AD. Believed to be ancient burial grounds for kings and prominent leaders of a highly organized, complex society, the heaviest stones weigh several tons. The site features a small but excellent museum that details the arduous quarrying and transportation methods used by these ancient West African civilizations, offering a fascinating glimpse into pre-colonial history. (History K7 — ancient African civilizations and megaliths)",
+      "factsAdvanced": [
+        "A prominent component of a trans-boundary UNESCO World Heritage Site.",
+        "Consists of precisely arranged circles of carved laterite stone pillars.",
+        "Dates range widely from the 3rd century BC to the 16th century AD.",
+        "Believed to function as sacred burial grounds for ancient nobility.",
+        "Some individual stone pillars weigh several tons, indicating complex engineering.",
+        "Features a dedicated on-site museum explaining ancient quarrying techniques."
+      ]
+    },
+    {
+      "id": "kerbatch-stone-circles-history-v2",
+      "descriptionAdvanced": "The Kerbatch Stone Circles are another crucial and distinct group of megalithic monuments located on the north bank of the Gambia River. While slightly less visited than Wassu, Kerbatch is famous for its unique 'V-shaped' or 'lyre-shaped' stone, an architectural anomaly not found in other circle complexes in the region. The site contains nine stone circles and one double circle, meticulously carved from laterite rock. Archaeological excavations here have unearthed pottery fragments, copper ornaments, and human remains, painting a vivid picture of a sophisticated, ancient agrarian society that possessed advanced stonemasonry skills long before European contact. (History K7 — archaeological excavations and ancient stonemasonry)",
+      "factsAdvanced": [
+        "Located on the north bank of the Gambia River in a remote setting.",
+        "Features nine distinct stone circles and one rare double circle.",
+        "Famous for containing a unique, meticulously carved 'V-shaped' (lyre) stone.",
+        "Part of the broader Senegambian Stone Circles UNESCO World Heritage Site.",
+        "Excavations have revealed ancient pottery, copper ornaments, and burials.",
+        "Showcases advanced pre-colonial stonemasonry and societal organization."
+      ]
+    },
+    {
+      "id": "fort-bullen-history-v2",
+      "descriptionAdvanced": "Fort Bullen is a formidable historic military fortification located at Barra Point, guarding the northern entrance to the Gambia River estuary. Constructed by the British in 1826, its creation was highly unusual for the era: it was built explicitly to enforce the British Empire's ban on the transatlantic slave trade. The fort's cannons were positioned to fire upon any rogue slaving vessels attempting to enter or leave the river. Later, it saw action during the World War II era when it was re-armed as an observation post against potential threats from Vichy French forces in neighboring Senegal. It is now a UNESCO World Heritage site. (History K8 — the abolition of slavery and colonial military outposts)",
+      "factsAdvanced": [
+        "Constructed by the British military in 1826 at Barra Point.",
+        "Built explicitly to enforce the abolition of the transatlantic slave trade.",
+        "Designed to crossfire with artillery on the opposite bank to blockade the river.",
+        "Re-armed and utilized as a coastal defense post during World War II.",
+        "Features well-preserved ramparts, bastions, and original artillery pieces.",
+        "Designated as a vital part of The Gambia's UNESCO World Heritage network."
+      ]
+    },
+    {
+      "id": "arch-22-history-v2",
+      "descriptionAdvanced": "Arch 22 is a towering, iconic monument located at the entrance to the capital city, Banjul. Standing 35 meters (114 feet) tall, it was inaugurated in 1996 to commemorate the military coup d'état of July 22, 1994, which brought Yahya Jammeh to power. The imposing structure is supported by eight massive columns and features a viewing gallery that offers unparalleled panoramic views of the city, the river estuary, and the Atlantic Ocean. Although the political regime it honors was controversial and eventually ousted, the Arch remains the most recognizable architectural symbol of modern Gambian history and a dominant feature of the capital's skyline. (History K8 — modern political history and national monuments)",
+      "factsAdvanced": [
+        "A 35-meter (114 ft) tall architectural monument at the entrance of Banjul.",
+        "Built to commemorate the military coup d'état of July 22, 1994.",
+        "Supported by eight massive, distinctively styled columns.",
+        "Features an upper viewing gallery offering panoramic views of the capital.",
+        "Remains one of the tallest structures in the entire country.",
+        "A highly recognizable, albeit politically controversial, national symbol."
+      ]
+    },
+    {
+      "id": "kachikally-crocodile-pool-history-v2",
+      "descriptionAdvanced": "The Kachikally Crocodile Pool is a deeply revered sacred site located in the heart of Bakau. For generations, the local Bojang family has managed this natural spring, which is home to over 80 surprisingly docile Nile crocodiles. According to Mandinka tradition, the water holds powerful spiritual properties, particularly for women seeking blessings for fertility. Visitors are famously allowed to gently touch the well-fed crocodiles under the strict supervision of the guides. The site also features a small, excellent ethnographic museum displaying traditional musical instruments, griot artifacts, and historical photographs, seamlessly blending wildlife with deep-rooted cultural history. (Social Studies K6 — traditional beliefs and sacred sites)",
+      "factsAdvanced": [
+        "A sacred, natural freshwater spring located in the coastal town of Bakau.",
+        "Home to a population of over 80 surprisingly docile Nile crocodiles.",
+        "Managed for generations by the traditional Bojang family lineage.",
+        "The water is historically believed to possess powerful fertility blessings.",
+        "Features a highly regarded ethnographic museum detailing local history.",
+        "A unique site blending traditional spiritual practices with wildlife tourism."
+      ]
+    },
+    {
+      "id": "fort-louvel-history-v2",
+      "descriptionAdvanced": "Fort Louvel is a somewhat obscure but highly significant historical landmark situated on a slight elevation within the capital city of Banjul. Built rapidly in 1831 under the direction of the British Governor, it was constructed in response to the imminent threat of an attack by the forces of the King of Barra during the Barra War. Named after a French military officer who assisted the British, the fort was essentially a defensive redoubt rather than a massive stone castle. Today, only a small monument and the base of the structure remain among the city streets, serving as a reminder of the turbulent, early colonial conflicts in the estuary. (History K7 — early colonial conflicts and the Barra War)",
+      "factsAdvanced": [
+        "Located on a slight elevation within the densely built capital of Banjul.",
+        "Constructed rapidly in 1831 during the escalating Barra War.",
+        "Built to defend the early Bathurst settlement from the King of Barra's forces.",
+        "Named after a French officer, Louvel, who assisted the British defenses.",
+        "Consisted originally of a defensive earthwork redoubt and artillery battery.",
+        "Only a modest monument and the foundational base remain visible today."
+      ]
+    },
+    {
+      "id": "national-museum-gambia-history-v2",
+      "descriptionAdvanced": "The National Museum of The Gambia, situated in the heart of Banjul, is the premier institution dedicated to the preservation of the country's cultural and historical heritage. Opened in 1985, the museum is housed in the historic colonial-era Bathurst Club building. Its extensive exhibits are divided into three main areas: the archaeological history detailing the ancient stone circles, the ethnographic section displaying traditional crafts, musical instruments (like the kora), and masquerade outfits, and the modern history section chronicling the colonial period and the struggle for independence. It serves as a vital educational resource for both locals and international researchers. (Social Studies K6 — national heritage and ethnography)",
+      "factsAdvanced": [
+        "The premier cultural and historical institution in The Gambia, opened in 1985.",
+        "Housed in the historic, colonial-era Bathurst Club building in Banjul.",
+        "Features extensive archaeological exhibits, including artifacts from the stone circles.",
+        "Displays a rich ethnographic collection of traditional instruments and masquerades.",
+        "Chronicles the nation's journey through colonialism to modern independence.",
+        "Serves as the primary repository for the nation's tangible historical artifacts."
+      ]
+    },
+    {
+      "id": "san-domingo-ruins-history-v2",
+      "descriptionAdvanced": "The San Domingo Ruins, located near the village of Juffureh on the north bank of the river, represent some of the earliest European architectural footprints in West Africa. These crumbling laterite stone walls are the remains of a Portuguese settlement established in the late 15th century, long before the major British and French colonial incursions. The settlement primarily functioned as a trading post and a vital freshwater resupply station for Portuguese caravels navigating the coast and river. The ruins stand as a quiet testament to the initial era of European maritime exploration and the very beginnings of the Euro-African trade networks. (History K7 — the Age of Exploration and early Portuguese outposts)",
+      "factsAdvanced": [
+        "Located on the north bank of the Gambia River near Juffureh.",
+        "The remains of a Portuguese settlement dating back to the late 15th century.",
+        "Represents some of the earliest European architectural structures in the region.",
+        "Functioned as an early trading post and a crucial freshwater resupply station.",
+        "Constructed primarily using local, reddish laterite stone.",
+        "A physical remnant of the initial European maritime exploration of West Africa."
+      ]
+    },
+    {
+      "id": "cfao-building-albreda-history-v2",
+      "descriptionAdvanced": "The CFAO Building in Albreda is a prominent historical ruin situated directly on the waterfront of the Gambia River. Constructed in the late 19th century by the 'Compagnie Française de l'Afrique Occidentale' (CFAO), this large, two-story colonial warehouse was the epicenter of the lucrative groundnut (peanut) trade. It stands as a stark visual reminder of the fierce commercial rivalry between French and British mercantile interests operating along the river. Today, the restored ground floor often hosts historical exhibitions, while the imposing colonial architecture provides a dramatic backdrop to the Albreda waterfront, illustrating the shift from the slave trade to 'legitimate' agricultural commerce. (History K8 — colonial mercantile companies and cash crop trades)",
+      "factsAdvanced": [
+        "A large, two-story colonial ruin located on the waterfront of Albreda.",
+        "Built in the late 19th century by a major French trading company (CFAO).",
+        "Served as a massive warehouse and trading post for the booming groundnut trade.",
+        "Illustrates the fierce commercial rivalry between French and British merchants.",
+        "Represents the historical shift from the slave trade to agricultural export economies.",
+        "Partially restored to host historical exhibits for tourists visiting the area."
+      ]
+    },
+    {
+      "id": "mussa-molloh-tomb-history-v2",
+      "descriptionAdvanced": "The Tomb of Mussa Molloh, located in the town of Kesser Kunda in the Central River Region, is the resting place of one of the most formidable anti-colonial resistance leaders in Senegambian history. Mussa Molloh was a powerful Fula warrior-king who carved out an expansive empire in the late 19th century, fiercely resisting both French and British colonial expansion into the interior. He successfully employed complex diplomacy and military tactics for decades before eventually being forced into exile by the British. His tomb is a site of immense historical reverence, symbolizing indigenous resistance and the complex geopolitics of the pre-colonial era. (History K8 — anti-colonial resistance and indigenous empires)",
+      "factsAdvanced": [
+        "Located in Kesser Kunda within the Central River Region.",
+        "The burial site of Mussa Molloh, a highly influential 19th-century Fula king.",
+        "Commemorates a major leader of indigenous resistance against colonial expansion.",
+        "Molloh ruled a vast empire spanning parts of modern Gambia, Senegal, and Guinea.",
+        "He utilized complex military and diplomatic strategies against British and French forces.",
+        "A site of significant national reverence and historical study."
+      ]
+    },
+    {
+      "id": "kataba-fort-history-v2",
+      "descriptionAdvanced": "Kataba Fort, located in the rural North Bank Region, is a highly significant but lesser-known historical site representing indigenous military architecture. Unlike Fort Bullen, which was built by Europeans, Kataba was a traditional mud-brick and timber fortress (a 'tata') constructed by the local Mandinka king during the turbulent Soninke-Marabout religious wars of the mid-19th century. Remarkably, this indigenous fortification successfully withstood a siege and artillery bombardment by combined British and allied local forces in 1831. Today, the eroded earthworks remain as a powerful testament to local military engineering and the complex, internal conflicts that predated full colonial rule. (History K8 — indigenous military engineering and the Marabout Wars)",
+      "factsAdvanced": [
+        "Located in the rural interior of the North Bank Region.",
+        "A rare surviving example of a traditional indigenous fortress, known as a 'tata'.",
+        "Constructed using massive earthworks, mud-brick, and heavy timber palisades.",
+        "Built during the turbulent internal Soninke-Marabout religious conflicts.",
+        "Famously withstood a siege and artillery assault by British forces in 1831.",
+        "Highlights the sophistication of pre-colonial West African military engineering."
+      ]
+    }
+  ]
+}

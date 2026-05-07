@@ -1,0 +1,244 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "juba-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Juba Stadium is the primary national sports venue in South Sudan, serving as the home ground for the national football team, the Bright Stars. It is a major cultural landmark where thousands of citizens gather to witness international matches and celebrate national achievements. The stadium has undergone significant renovations to meet international standards, reflecting the country's aspiration to excel in global sports. Beyond athletics, it serves as a powerful symbol of national unity and a venue for peaceful community interaction in the heart of the capital. Social Studies K6 – Sports as a tool for national identity.",
+      "factsAdvanced": [
+        "Home stadium of the South Sudan national football team",
+        "Primary venue for international sporting events in Juba",
+        "Symbol of national unity and sporting pride",
+        "Recently renovated to meet FIFA standards",
+        "Major cultural hub for the capital's youth",
+        "Host of national independence day athletic games",
+        "Located in the central administrative district"
+      ]
+    },
+    {
+      "id": "freedom-bridge-juba-landmarks-v2",
+      "descriptionAdvanced": "The Freedom Bridge is a modern engineering marvel in Juba, representing a significant upgrade to the nation's transport infrastructure. Spanning the White Nile, this permanent bridge was built to complement the older Juba Bridge and handle the increasing flow of trade from East Africa. It is a symbol of South Sudan's post-independence progress and its integration into the regional economy. The bridge facilitates the movement of goods and people, reducing transit times and supporting the growth of the capital as a regional logistics hub. Geography K8 – Modern infrastructure and economic development.",
+      "factsAdvanced": [
+        "First permanent modern bridge over the Nile in Juba",
+        "Built to enhance trade links with Uganda and Kenya",
+        "Major symbol of post-independence national progress",
+        "Relieves traffic congestion on the old Juba Bridge",
+        "Strategic asset for regional logistical integration",
+        "Landmark of modern South Sudanese engineering",
+        "Key link in the East African transport corridor"
+      ]
+    },
+    {
+      "id": "st-theresa-cathedral-juba-landmarks-v2",
+      "descriptionAdvanced": "St. Theresa Cathedral, located in the Kator district, is the largest Catholic church in South Sudan and a landmark of religious heritage. Its distinctive red-brick architecture is a hallmark of the Juba skyline. The cathedral has played a vital role in the city's history, serving as a sanctuary during times of conflict and a center for social services and education. It remains the spiritual heart of the Catholic community in the capital, hosting major liturgical events and serving as a site for national peace prayers. History K8 – The Catholic Church and social resilience.",
+      "factsAdvanced": [
+        "Largest Catholic cathedral in South Sudan",
+        "Iconic red-brick architectural landmark in Juba",
+        "Spiritual center of the Archdiocese of Juba",
+        "Historical site for humanitarian sanctuary",
+        "Located in the historic Kator neighborhood",
+        "Venue for national inter-faith peace services",
+        "Significant center for community education"
+      ]
+    },
+    {
+      "id": "nyakuron-cultural-center-landmarks-v2",
+      "descriptionAdvanced": "The Nyakuron Cultural Center is the premier venue for arts, music, and cultural expression in Juba. It hosts a variety of events, including traditional dance performances, music concerts, and theatrical plays that showcase the rich diversity of South Sudan's ethnic groups. The center is a vital landmark for preserving and promoting national culture, providing a space for artists to collaborate and share their heritage with the public. It serves as a hub for community engagement and a symbol of the nation's vibrant creative spirit. Social Studies K7 – Cultural diversity and national identity.",
+      "factsAdvanced": [
+        "South Sudan's primary venue for performing arts",
+        "Major hub for traditional and modern music",
+        "Promotes the heritage of all South Sudanese tribes",
+        "Host of national cultural festivals and fairs",
+        "Center for youth artistic and creative development",
+        "Located in a scenic park area within Juba",
+        "Symbol of national unity through cultural expression"
+      ]
+    },
+    {
+      "id": "national-legislative-assembly-juba-landmarks-v2",
+      "descriptionAdvanced": "The National Legislative Assembly is the seat of South Sudan's parliament and a primary landmark of the nation's democracy. Located in Juba, the assembly building is where laws are debated and passed, and where the diverse voices of the country's states are represented. It symbolizes the sovereign power of the South Sudanese people and their commitment to representative governance. The assembly is a focal point for national political life, serving as the arena for critical discussions on the country's development, security, and future path. Social Studies K8 – Parliamentary democracy and governance.",
+      "factsAdvanced": [
+        "Seat of the South Sudanese national parliament",
+        "Center of national law-making and debate",
+        "Symbol of sovereignty and democratic governance",
+        "Represents all states of the Republic of South Sudan",
+        "Strategic political landmark in the capital city",
+        "Venue for the opening of the legislative sessions",
+        "Key institution for national political stability"
+      ]
+    },
+    {
+      "id": "john-garang-memorial-university-bor-landmarks-v2",
+      "descriptionAdvanced": "The Dr. John Garang Memorial University of Science and Technology in Bor is a major educational landmark established to honor the legacy of the nation's founding father. The university focuses on practical sciences and technology, aiming to provide the skills necessary for the country's reconstruction and development. Its presence in Bor is significant, as the city was a focal point of the liberation struggle. The institution serves as a hub for regional academic excellence, attracting students from across the country who are dedicated to the progress of South Sudan. Social Studies K8 – Education and national reconstruction.",
+      "factsAdvanced": [
+        "Premier science and technology university in Jonglei",
+        "Named in honor of founding leader Dr. John Garang",
+        "Major center for regional higher education",
+        "Focuses on engineering, agriculture, and science",
+        "Symbol of academic aspiration in the post-war era",
+        "Located in the historic city of Bor",
+        "Key institution for developing national expertise"
+      ]
+    },
+    {
+      "id": "wau-stadium-landmarks-v2",
+      "descriptionAdvanced": "Wau Stadium is the primary sports and community venue in Western Bahr el Ghazal State, serving as a vital hub for the city's social life. The stadium hosts regional football tournaments and athletic competitions that draw large crowds from across the western region. It is a symbol of local pride and a place where people from different ethnic backgrounds gather in a spirit of sportsmanship. Beyond sports, the stadium is often used for major public celebrations and community assemblies, making it one of the most important urban landmarks in Wau. Social Studies K6 – Public spaces and community engagement.",
+      "factsAdvanced": [
+        "Primary sports venue for the city of Wau",
+        "Major hub for regional football competitions",
+        "Significant public space for community gatherings",
+        "Symbol of unity for Western Bahr el Ghazal",
+        "Center for youth athletic and social development",
+        "Host of state-level commemorative events",
+        "Vibrant landmark of the western savanna region"
+      ]
+    },
+    {
+      "id": "st-mary-cathedral-wau-landmarks-v2",
+      "descriptionAdvanced": "St. Mary's Cathedral in Wau is one of South Sudan's most impressive religious and architectural landmarks. Constructed with the region's famous red bricks, it features a grand design that reflects the long history of the Catholic mission in the Bahr el Ghazal. The cathedral has been a sanctuary of peace and a center for education and health services for over a century. It stands as a powerful symbol of the resilience and faith of the local community, serving as a beacon of hope through the various challenges the region has faced. History K8 – The impact of Catholic missions in the west.",
+      "factsAdvanced": [
+        "Grand red-brick cathedral in western South Sudan",
+        "Historical center of the Catholic Diocese of Wau",
+        "One of the largest churches in the Upper Nile region",
+        "Major landmark of 20th-century missionary architecture",
+        "Site of long-standing social and educational projects",
+        "Symbol of spiritual and community resilience",
+        "Architectural gem of the Bahr el Ghazal plains"
+      ]
+    },
+    {
+      "id": "rumbek-stadium-landmarks-v2",
+      "descriptionAdvanced": "Rumbek Stadium is the central sports and cultural landmark of Lakes State, playing a major role in the social fabric of the Dinka Agar community. It is a place where traditional wrestling, football, and other cultural events bring people together. The stadium has a deep historical significance as a venue for regional peace talks and political mobilization. It remains a vibrant hub for the city's public life, celebrating the unique cultural heritage of the central savanna and providing a space for the youth to engage in productive and peaceful activities. Social Studies K7 – Culture and community in the central states.",
+      "factsAdvanced": [
+        "Major cultural and sporting hub in Lakes State",
+        "Famous for traditional Dinka wrestling matches",
+        "Central venue for regional football tournaments",
+        "Site of historical peace and political assemblies",
+        "Symbol of community identity and resilience",
+        "Public landmark in the heart of Rumbek",
+        "Key site for celebrating Nilotic traditions"
+      ]
+    },
+    {
+      "id": "old-juba-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Old Juba Bridge, also known as the Juba Nile Bridge, is a historic landmark and for decades was the only permanent road crossing of the White Nile in the entire country. Built in the early 1970s following the Addis Ababa Agreement, it symbolizes the first era of peace and regional integration. Despite years of heavy use and repairs, it remains a vital component of the capital's infrastructure. The bridge provides iconic views of the river and is a witness to the city's growth from a provincial outpost into a national capital. History K8 – Infrastructure and the history of peace agreements.",
+      "factsAdvanced": [
+        "First permanent bridge across the Nile in Juba",
+        "Symbol of the 1972 regional peace agreement",
+        "Historical lifeline for South Sudan's economy",
+        "Strategic crossing for trade from East Africa",
+        "Offers iconic panoramic views of the White Nile",
+        "Landmark of 20th-century regional engineering",
+        "Central node for the city's transport network"
+      ]
+    },
+    {
+      "id": "ss-dongotona-mountains-relief-v2",
+      "descriptionAdvanced": "The Dongotona Mountains are a significant highland relief feature in Eastern Equatoria, characterized by steep slopes and unique montane forests. They form part of the southeastern mountain chain and are essential for local hydrology, capturing rainfall that sustains numerous permanent springs and streams. The relief of the Dongotona Mountains provides a cool and fertile refuge in an otherwise semi-arid landscape, supporting the livelihoods of the Dongotona people. This range is also a biodiversity hotspot, hosting species that are adapted to high-altitude environments. Geography K8 – Mountain relief and endemic biodiversity.",
+      "factsAdvanced": [
+        "Significant mountain range in Eastern Equatoria",
+        "Characterized by high-altitude forests and steep relief",
+        "Essential water catchment for the surrounding plains",
+        "Cultural heartland of the Dongotona community",
+        "Significant landmark on the route to Kenya",
+        "Home to a variety of endemic montane species",
+        "Offers a unique microclimate in the southeast"
+      ]
+    },
+    {
+      "id": "ss-lolibai-mountains-relief-v2",
+      "descriptionAdvanced": "The Lolibai Mountains are a rugged relief feature in Eastern Equatoria, known for their distinctive peaks and rocky landscapes. They are part of the larger Imatong-Lopit-Dongotona mountain complex that defines the topography of the southeast. The Lolibai range is essential for the region's climate, contributing to higher rainfall and providing a variety of forest and grazing resources. The relief of these mountains has traditionally influenced the settlement patterns and defensive strategies of the local communities, serving as a prominent landmark in the southeastern savanna. Geography K8 – Mountain chains and regional topography.",
+      "factsAdvanced": [
+        "Rugged mountain peaks in Eastern Equatoria",
+        "Part of the southeastern highland complex",
+        "Influences regional rainfall and microclimates",
+        "Provides vital forest and water resources",
+        "Characterized by steep rocky gradients",
+        "Historical site for traditional community defense",
+        "Prominent landmark in the Kapoeta region"
+      ]
+    },
+    {
+      "id": "ss-acholi-hills-relief-v2",
+      "descriptionAdvanced": "The Acholi Hills are a significant highland relief feature located along the southern border with Uganda. They are characterized by rolling hills, lush plateaus, and fertile valleys that support intensive tropical agriculture. The relief of the Acholi Hills is a major driver of the high rainfall in the Magwi region, making it one of the most productive agricultural areas in South Sudan. The hills also serve as an important ecological corridor for wildlife moving between East Africa and the Nile basin, featuring a mix of savanna and gallery forests. Geography K8 – Border highlands and tropical agriculture.",
+      "factsAdvanced": [
+        "Lush highland region on the southern border",
+        "Characterized by fertile plateaus and rolling hills",
+        "Primary driver of high rainfall in Magwi County",
+        "Cultural heartland of the Acholi people",
+        "Critical ecological bridge for East African wildlife",
+        "Important agricultural center for grains and fruits",
+        "Scenic relief feature with high biodiversity"
+      ]
+    },
+    {
+      "id": "ss-jebel-kasangor-relief-v2",
+      "descriptionAdvanced": "Jebel Kasangor is a prominent individual mountain relief feature in the eastern Boma region, rising sharply from the vast savanna plains. It is a major landmark for the migrating white-eared kob and other wildlife of Boma National Park. The mountain's relief provides a unique vantage point and a distinct micro-habitat that differs from the surrounding flat landscape. Jebel Kasangor is geographically significant as one of the few high points in the remote east, serving as a beacon for travelers and a focal point for ecological research in the area. Geography K7 – Individual peaks and savanna landmarks.",
+      "factsAdvanced": [
+        "Prominent individual mountain in the Boma region",
+        "Rises dramatically from the eastern Pibor plains",
+        "Key landmark for the great animal migrations",
+        "Provides a unique high-altitude savanna habitat",
+        "Strategic vantage point in the remote east",
+        "Part of the Boma National Park ecosystem",
+        "Significant landmark for regional navigation"
+      ]
+    },
+    {
+      "id": "ss-bongo-massif-relief-v2",
+      "descriptionAdvanced": "The Bongo Massif is a major highland relief feature in the far west of South Sudan, forming part of the watershed between the Nile and Congo basins. It is characterized by high, undulating plateaus and rugged hills that are covered in dense tropical forests and woodlands. The relief of the Bongo Massif is essential for the region's hydrology, serving as the source for several western rivers. It is a remote and pristine area that hosts a high density of biodiversity and is culturally significant as the home of the Feroghe and other western communities. Geography K8 – Massifs and continental watersheds.",
+      "factsAdvanced": [
+        "Major highland massif in the westernmost region",
+        "Forms a portion of the Nile-Congo watershed",
+        "Characterized by rugged hills and high forests",
+        "Source of significant western river systems",
+        "Remote and pristine biodiversity hotspot",
+        "Cultural heartland for diverse western tribes",
+        "Defines the relief of the Raja borderlands"
+      ]
+    },
+    {
+      "id": "ss-talanga-forest-relief-v2",
+      "descriptionAdvanced": "The Talanga Forest relief is a unique area of high-altitude forest situated in the Imatong Mountains. It is characterized by steep slopes and permanent streams that flow through dense Afro-montane vegetation. The relief of Talanga is critical for preserving the rare botanical and zoological species of the southeast, providing a stable and high-rainfall environment. It serves as a natural laboratory for studying the effects of altitude on tropical ecosystems and remains one of the most important forest relief features for South Sudan's environmental conservation. Science K8 – Altitude and montane forest relief.",
+      "factsAdvanced": [
+        "High-altitude forest relief in the Imatong range",
+        "Characterized by permanent streams and steep slopes",
+        "Core area of South Sudan's montane biodiversity",
+        "Provides a unique high-rainfall micro-habitat",
+        "Significant for regional carbon and water cycles",
+        "Site of pioneering botanical research",
+        "Landmark for southeastern forest conservation"
+      ]
+    },
+    {
+      "id": "ss-aloma-plateau-relief-v2",
+      "descriptionAdvanced": "The Aloma Plateau is a significant relief feature in the southern Equatoria region, characterized by its elevated and relatively flat surface. This plateau provides a cooler climate and more fertile soils compared to the lower Nile plains, supporting the intensive cultivation of crops like coffee and cassava. The relief of the Aloma Plateau is defined by its iron-rich laterite soils and its position along the trade routes between Juba and Yei. It is a vital geographical zone that influences the agricultural productivity and settlement patterns of the southern borderlands. Geography K7 – Plateaus and agricultural productivity.",
+      "factsAdvanced": [
+        "Elevated plateau relief in Central Equatoria",
+        "Provides a cool and fertile highland climate",
+        "Defined by distinctive reddish laterite soils",
+        "Major zone for coffee and food crop farming",
+        "Strategically located on the Yei-Juba route",
+        "Critical relief feature of the southern green belt",
+        "Supports a high density of rural populations"
+      ]
+    },
+    {
+      "id": "ss-zande-threshold-relief-v2",
+      "descriptionAdvanced": "The Zande Threshold is a major geographical relief zone in southwestern South Sudan that marks the transition from the Nile plains to the Congo Basin plateau. It consists of a series of low hills and undulating savanna woodlands that rise gradually toward the west. This relief feature is essential for the region's drainage patterns and defines the environmental character of the Azande heartland. The Zande Threshold is characterized by its high rainfall and fertile soils, making it one of the most ecologically productive transition zones in the entire Nile basin. Geography K8 – Relief thresholds and ecological transition.",
+      "factsAdvanced": [
+        "Major relief transition to the Congo Basin",
+        "Characterized by undulating savanna and low hills",
+        "Core geographical zone of the Azande people",
+        "Provides high rainfall and fertile agricultural lands",
+        "Defines the drainage of the southwestern rivers",
+        "Strategic ecological zone in Western Equatoria",
+        "Important landmark of the Nile-Congo watershed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "lang": "ro",
+  "country": "chile",
+  "files": [
+    "lib/visualLab/data/poiExtraChileHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChileLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "humberstone-history-v2",
+      "descriptionAdvanced": "Humberstone, fostă exploatare de salpetru, este un monument al epocii industriale din Deșertul Atacama. Fondat la sfârșitul secolului al XIX-lea, acest oraș-fantomă a fost cândva centrul unei industrii înfloritoare care a definit economia chiliană. Astăzi, situl este conservat ca un muzeu în aer liber, oferind o perspectivă unică asupra condițiilor de viață ale muncitorilor salpetrului (pampinos). Arhitectura sa din lemn și metal este o mărturie a ingeniozității umane într-un mediu extrem de arid. Istorie K8 — era industrială și minerit.",
+      "factsAdvanced": [
+        "Fondat: Sfârșitul sec. XIX",
+        "Tip sit: Oraș-fantomă industrial",
+        "Industrie: Salpetru",
+        "Regiune: Deșertul Atacama",
+        "Statut: Patrimoniu UNESCO",
+        "Specific: Arhitectură industrială"
+      ]
+    },
+    {
+      "id": "sewell-history-v2",
+      "descriptionAdvanced": "Sewell, cunoscut sub numele de 'Orașul Scărilor', este o fostă așezare minieră spectaculoasă construită pe pantele abrupte ale Anzilor. Fondat în 1904 de compania Braden Copper pentru a susține activitatea minei El Teniente, orașul găzduia mii de mineri în condiții climatice aspre. Datorită arhitecturii sale unice, adaptate terenului montan, Sewell a fost inclus în patrimoniul UNESCO ca un exemplu remarcabil de așezare industrială izolată. Deși nu mai este locuit permanent, este un reper istoric major care ilustrează dezvoltarea industriei cuprului în Chile. Istorie K9 — industrializare montană.",
+      "factsAdvanced": [
+        "Fondat: 1904",
+        "Poreclă: Orașul Scărilor",
+        "Scop: Susținerea minei El Teniente",
+        "Arhitectură: Adaptată terenului montan",
+        "Statut: Patrimoniu UNESCO",
+        "Localizare: Munții Anzi"
+      ]
+    },
+    {
+      "id": "pukara-de-quitor-history-v2",
+      "descriptionAdvanced": "Pukará de Quitor este o fortăreață pre-incașă situată în apropiere de San Pedro de Atacama, construită de cultura atacameño pentru a-și apăra teritoriul. Datând din secolul al XII-lea, complexul este un exemplu remarcabil de inginerie defensivă, utilizând terenul accidentat ca avantaj tactic împotriva invadatorilor. Situl oferă nu doar o perspectivă istorică asupra conflictelor și strategiei în epoca precolumbiană, ci și o priveliște panoramică asupra văii râului San Pedro. Este un punct obligatoriu pentru înțelegerea rădăcinilor culturale și a rezilienței popoarelor indigene din deșert. Istorie K6 — civilizații precolumbiene.",
+      "factsAdvanced": [
+        "Cultură: Atacameño",
+        "Perioadă: Secolul XII",
+        "Funcție: Fortăreață defensivă",
+        "Localizare: Lângă San Pedro de Atacama",
+        "Teren: Accidentat (avantaj tactic)",
+        "Semnificație: Reziliență indigenă"
+      ]
+    },
+    {
+      "id": "torres-del-paine-landmarks-v2",
+      "descriptionAdvanced": "Parcul Național Torres del Paine este una dintre cele mai spectaculoase rezervații naturale din lume, situată în Patagonia chiliană. Este faimos pentru turnurile sale de granit, ghețarii masivi și lacurile de un albastru intens care atrag mii de drumeți anual. Parcul oferă un ecosistem variat, de la pajiști patagonice la păduri subantarctice, fiind un refugiu pentru fauna locală, inclusiv guanacos și condori. Torres del Paine reprezintă un simbol al biodiversității chiliene și este esențial pentru înțelegerea fragilității ecosistemelor montane într-o lume în schimbare. Geografie K8 — ecosisteme montane și ghețari.",
+      "factsAdvanced": [
+        "Localizare: Patagonia Chiliană",
+        "Repere: Turnuri de granit",
+        "Ecosisteme: Variate (pajiști, păduri)",
+        "Faună: Guanacos, condori",
+        "Statut: Rezervație a biosferei",
+        "Activități: Drumeții internaționale"
+      ]
+    },
+    {
+      "id": "la-portada-landmarks-v2",
+      "descriptionAdvanced": "La Portada este un monument natural emblematic situat pe coasta Oceanului Pacific, la nord de Antofagasta, recunoscut pentru arcul său spectaculos de piatră sculptat de eroziunea marină. Această formațiune geologică unică atrage vizitatori datorită peisajului contrastant dintre deșertul arid și albastrul intens al oceanului. Zona este, de asemenea, un habitat important pentru fauna marină, inclusiv păsări guano și lei de mare care populează stâncile. La Portada este un exemplu fascinant de procese geologice active care modelează coasta chiliană de milenii. Geografie K7 — eroziune și forme de relief.",
+      "factsAdvanced": [
+        "Tip: Monument Natural",
+        "Formare: Eroziune marină",
+        "Localizare: Lângă Antofagasta",
+        "Faună: Păsări guano, lei de mare",
+        "Peisaj: Deșert întâlnește oceanul",
+        "Proces: Geologic activ"
+      ]
+    }
+  ]
+}

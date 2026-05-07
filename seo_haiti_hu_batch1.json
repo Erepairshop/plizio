@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "carrefour-cities-v2",
+      "descriptionAdvanced": "Carrefour Haiti egyik legnépesebb városa, amely Port-au-Prince vonzáskörzetében, a fővárostól délnyugatra helyezkedik el. A település eredetileg mezőgazdasági terület volt, de a huszadik század második felében rohamos urbanizáción ment keresztül, ahogy a vidéki lakosság a főváros felé áramlott. Carrefour kulcsfontosságú tranzitcsomópontként szolgál a déli félsziget felé tartó forgalom számára a Route Nationale 2 (RN2) mentén. A 2010-es pusztító haiti földrengés súlyos károkat okozott a város infrastruktúrájában, több ezer épület dőlt romba, mivel a város a törésvonal közelében feküdt. A sűrűn lakott hegyoldalak és a tengerpart közötti keskeny sávban elterülő városban a gazdaság nagyrészt a helyi kereskedelemre, kisvállalkozásokra és az informális szektorra épül. Földrajz K7 — városodás és népességmozgások.",
+      "factsAdvanced": [
+        "A város az Ouest (Nyugati) megyében található.",
+        "A lakosság száma meghaladja az 500 000 főt a 2015-ös becslések alapján.",
+        "Itt halad át a Route Nationale 2, amely déli irányba vezet.",
+        "A 2010. január 12-i földrengés egyik leginkább sújtott területe volt.",
+        "Tengerszint feletti magassága átlagosan 39 méter.",
+        "A település neve franciául 'útkereszteződést' jelent."
+      ]
+    },
+    {
+      "id": "bombardopolis-cities-v2",
+      "descriptionAdvanced": "Bombardopolis egy elszigetelt település Haiti északnyugati részén, a Nord-Ouest megyében, amely gazdag, de kevéssé ismert történelemmel rendelkezik. A várost 1764-ben alapították német telepesek és akadiai menekültek, akik a hétéves háború után érkeztek a szigetre. A francia gyarmati hatóságok egy katonai erődítmény, valamint mezőgazdasági telepek létrehozása céljából hozták ide őket, abban a reményben, hogy európai mintájú közösséget építenek. A száraz klíma és a nehéz megélhetési körülmények miatt azonban az eredeti telepesek nagy része később elhagyta a területet. Ma Bombardopolis egy kis mezőgazdasági közösség, amelynek lakói főleg kukorica-, manióka- és babtermesztésből élnek. A nehezen megközelíthető, sziklás partvidék felett elterülő fennsíkon fekszik. Geschichte K8 — gyarmati betelepítések a Karib-térségben.",
+      "factsAdvanced": [
+        "1764-ben alapították német telepesek és akadiai menekültek.",
+        "A Nord-Ouest (Északnyugati) megyében helyezkedik el.",
+        "A nevét a német származású Karl von Bombelles márki után kapta.",
+        "Tengerszint feletti magassága körülbelül 450 méter a fennsíkon.",
+        "A Môle-Saint-Nicolas arrondissement (járás) része.",
+        "Gazdasága túlnyomórészt szárazföldi önellátó gazdálkodáson alapul."
+      ]
+    },
+    {
+      "id": "baie-de-henne-cities-v2",
+      "descriptionAdvanced": "Baie-de-Henne egy festői, de rendkívül száraz tengerparti település Haiti Nord-Ouest megyéjében. A falu a hasonló nevű öböl partján fekszik, és a környező tájat a kopár mészkősziklák és a kaktuszokkal borított hegyoldalak uralják, ami jellemző az északnyugati félsziget arid klímájára. Az infrastruktúra hiánya és a nehéz terep miatt a közösség viszonylag elszigetelt maradt az évszázadok során. A lakosság elsősorban hagyományos, kisüzemi halászatból, valamint sólepárlásból és faszénégetésből tartja fenn magát, mivel a mezőgazdasági termelés a vízhiány miatt korlátozott. A település történelmileg fontos menedéket nyújtott a kalózok és a csempészek számára a gyarmati időszakban. Földrajz K6 — szárazföldi klímák és partvidéki életmód.",
+      "factsAdvanced": [
+        "A Nord-Ouest (Északnyugati) megyében, a Môle-Saint-Nicolas járásban található.",
+        "A település gazdasága főként a halászatra és a sólepárlásra épül.",
+        "Klíma szempontjából Haiti egyik legszárazabb területe.",
+        "Tengerszint feletti magassága 0 és 10 méter közötti az öböl partján.",
+        "A környező régióban kiterjedt kaktuszerdők és szárazságtűrő növényzet található.",
+        "Megközelítése a rossz útviszonyok miatt gyakran csak terepjáróval lehetséges."
+      ]
+    },
+    {
+      "id": "jean-rabel-cities-v2",
+      "descriptionAdvanced": "Jean-Rabel egy jelentős mezőgazdasági központ Haiti Nord-Ouest megyéjében, amely a félsziget északi partvidéke felé néző hegyek völgyeiben helyezkedik el. A város környéke a megye legtermékenyebb területei közé tartozik, bár a csapadékeloszlás gyakran kiszámíthatatlan. A történelem során Jean-Rabel számos agrárkonfliktus és parasztfelkelés helyszíne volt; a legismertebb az 1987-es júliusi esemény, amikor a földbirtokviszonyok körüli feszültségek tragikus összecsapásokba torkolltak a helyi parasztok és a nagybirtokosok között. Ma a település a kávé, a kakaó, valamint a különböző trópusi gyümölcsök fontos termesztője. A város a helyi kereskedelem központjaként funkcionál, ahonnan az árukat Port-de-Paix-ba szállítják tovább. Geschichte K8 — agrárkonfliktusok a modern Haitin.",
+      "factsAdvanced": [
+        "A Nord-Ouest megyében fekszik, a Môle-Saint-Nicolas járás részén.",
+        "1987 júliusában súlyos agrárkonfliktus helyszíne volt (Jean-Rabel-i mészárlás).",
+        "Központja mintegy 165 méteres tengerszint feletti magasságban található.",
+        "Fő gazdasági ágazata a kávé-, kakaó- és gyümölcstermesztés.",
+        "A város és környéke a megye legfontosabb élelmiszerellátó központja.",
+        "Lakossága a vonzáskörzettel együtt megközelíti a 150 000 főt."
+      ]
+    },
+    {
+      "id": "anse-a-folleur-cities-v2",
+      "descriptionAdvanced": "Anse-à-Foleur egy spirituális és kulturális szempontból is kiemelkedő tengerparti város a Nord-Ouest megye keleti peremén. A település leginkább a helyi vudu hagyományokról és egy híres zarándokhelyről ismert, amelyet a 'Saint Élizé' tiszteletére állítottak. Minden évben zarándokok ezrei érkeznek a városba az ország minden tájáról, hogy részt vegyenek a vallási szertartásokon, amelyek során a katolikus és az afrikai eredetű vudu hit elemei keverednek. Földrajzilag a város egy keskeny, zöldellő parti sávon helyezkedik el, ahol a hegyek szinte meredeken zuhannak az Atlanti-óceánba. A lakosok főként halászattal, kiskereskedelemmel és a vallási turizmushoz kapcsolódó szolgáltatásokkal foglalkoznak. Sachkunde K6 — kulturális hiedelmek és vallási zarándokhelyek.",
+      "factsAdvanced": [
+        "A város a Nord-Ouest megye Port-de-Paix járásához tartozik.",
+        "Híres zarándokhely, évente tömegek látogatják Saint Élizé tiszteletére.",
+        "Az Atlanti-óceán partján, dombos-hegyes terepen helyezkedik el.",
+        "A gazdaságban jelentős szerepet játszik a helyi vallási turizmus.",
+        "Tengerszint feletti magassága a központban 14 méter.",
+        "A település neve magyarul 'őrült öböl'-nek is fordítható."
+      ]
+    },
+    {
+      "id": "saint-michel-de-lattalaye-cities-v2",
+      "descriptionAdvanced": "Saint-Michel-de-l'Attalaye egy virágzó mezőgazdasági város Haiti Artibonite megyéjében. A település különösen híres az országban egyedülálló, magas minőségű cukornád-termesztéséről, valamint az abból lepárolt hagyományos haiti rumról (clairin). A város körüli síkságokon és lankákon elterülő kiterjedt ültetvények biztosítják a helyi gazdaság gerincét. A clairin gyártása kis, családi tulajdonban lévő lepárlókban (guildives) történik, amelyek őrzik az évszázados kézműves technológiákat. A települést 1768-ban alapították a francia gyarmatosítók. A város stratégiai elhelyezkedése a hegyek és a termékeny völgyek találkozásánál kedvező feltételeket biztosít a kereskedelem számára a szomszédos megyék felé. Földrajz K7 — trópusi mezőgazdaság és feldolgozóipar.",
+      "factsAdvanced": [
+        "Az Artibonite megyében, a Marmelade járásban fekszik.",
+        "1768-ban alapították a francia gyarmati időszak alatt.",
+        "Országos hírű a kézműves 'clairin' (helyi rum) gyártásáról.",
+        "Tengerszint feletti magassága körülbelül 430 méter.",
+        "A város környéke gazdag mészkő- és barlangképződményekben.",
+        "Az agrárgazdaság főbb termékei a cukornád, pamut és dohány."
+      ]
+    },
+    {
+      "id": "marmelade-cities-v2",
+      "descriptionAdvanced": "Marmelade egy hegyvidéki város Artibonite megyében, amely történelmi jelentőséggel és különleges mezőgazdasági profiljával tűnik ki. A város a haiti forradalom idején fontos stratégiai pont volt, és a függetlenségi harcok több vezetője, köztük Toussaint Louverture is gyakran megfordult itt. A település nevét állítólag a helyben termő különféle citrusfélékből készült lekvárokról kapta a gyarmati időkben. Később, a 20. század végén és a 21. század elején Marmelade a haiti kávé- és bambusztermesztési projektek központjává vált, nagyban köszönhetően René Préval volt elnök fejlesztési programjainak, aki innen származott. A hegyvidéki hűvösebb klíma ideális a minőségi kávécserjék termesztésére. Geschichte K8 — a haiti forradalom hegyvidéki bázisai.",
+      "factsAdvanced": [
+        "A város az Artibonite megye északi, hegyvidéki részén található.",
+        "Tengerszint feletti magassága jelentős, kb. 800 méter.",
+        "Fontos szerepet játszott a haiti függetlenségi háború stratégiájában.",
+        "René Préval haiti elnök (1996-2001, 2006-2011) szülővárosa.",
+        "Jelentős központja a haiti kávétermesztés-revitalizációs projekteknek.",
+        "A helyi klíma hűvösebb az országos átlagnál, kedvezve az erdészetnek."
+      ]
+    },
+    {
+      "id": "lascahobas-cities-v2",
+      "descriptionAdvanced": "Lascahobas egy stratégiai fontosságú város Haiti Centre (Középső) megyéjében, közel a Dominikai Köztársaság határához. A település a hegyekkel körülvett termékeny völgyben fekszik, és évszázadok óta fontos tranzit- és kereskedelmi útvonal a két nemzet között. Történelmileg Lascahobas területe többször is gazdát cserélt a spanyol és a francia gyarmati birodalmak között a 18. század folyamán, amire az aranjuezi szerződés (1777) tett ideiglenes pontot. Ma a város pezsgő kereskedelmi csomópont, ahol heti piacokat tartanak, amelyeken mezőgazdasági termékeket és állatokat cserélnek a szomszédos ország kereskedőivel. A közeli Peligre-gát és vízierőmű építése az 1950-es években szintén hatással volt a régió gazdaságára. Földrajz K7 — határokon átnyúló kereskedelem és folyóvölgyek.",
+      "factsAdvanced": [
+        "A Centre (Középső) megyében, a Lascahobas járás központjaként funkcionál.",
+        "Földrajzilag közel fekszik a dominikai határhoz és a Macasia folyóhoz.",
+        "Történelmileg spanyol és francia gyarmati hatás is érte a területet.",
+        "A tengerszint feletti magassága körülbelül 215 méter.",
+        "Kulcsszerepet játszik a kétoldalú mezőgazdasági kereskedelemben.",
+        "A városból könnyen megközelíthető a híres Peligre-víztározó."
+      ]
+    },
+    {
+      "id": "savanette-cities-v2",
+      "descriptionAdvanced": "Savanette egy elszigetelt, hegyvidéki falu a Centre (Középső) megyében, közvetlenül a Dominikai Köztársaság határánál. A meredek hegyoldalakon és szűk völgyekben elterülő település lakossága szinte teljes egészében önellátó mezőgazdaságból él. A zord terepviszonyok miatt a város infrastruktúrája és úthálózata elmaradott, a legközelebbi nagyobb városok megközelítése az esős évszakban különösen nehéz. Savanette gazdaságára nagy hatással van az informális, határon átnyúló kereskedelem, mivel a dominikai piacok gyakran könnyebben elérhetők gyalogosan vagy öszvérháton, mint a távolabbi haiti központok. A terület klímája és domborzata kedvez a kávé és a különféle gyökérnövények, például a jamgyökér termesztésének. Sachkunde K6 — hegyvidéki önellátó gazdálkodás.",
+      "factsAdvanced": [
+        "A Centre (Középső) megye Lascahobas járásához tartozik.",
+        "Közvetlenül a haiti-dominikai határ mentén helyezkedik el.",
+        "Tengerszint feletti magassága átlagosan 640 méter körüli.",
+        "Az úthálózat fejletlensége miatt az áruszállításban gyakori az állati erő (öszvér) használata.",
+        "Fő terményei a kávé, a jamgyökér és a kukorica.",
+        "A lakosság erősen támaszkodik a szomszédos dominikai piacokra."
+      ]
+    },
+    {
+      "id": "cerca-la-source-cities-v2",
+      "descriptionAdvanced": "Cerca-la-Source egy jelentős határ menti település a Centre (Középső) megye északi részén. A város nevét a környéken található bőséges édesvízforrásokról kapta, amelyek létfontosságúak a régió mezőgazdasága számára. A település a haiti-dominikai kapcsolatok egyik fontos kereskedelmi és kulturális találkozási pontja, ahol a hivatalos határátkelő hiánya ellenére élénk informális árucsere zajlik. Történelmileg a régió sokáig vitatott terület volt, és csak az 1929-es határrendezési egyezmény rögzítette véglegesen a jelenlegi államhatárokat. A város körüli teraszos hegyoldalakon intenzív földművelés folyik; a helyi gazdák babot, kukoricát és gyümölcsöket termesztenek, amelyeket mind a haiti, mind a dominikai oldalon értékesítenek. Földrajz K8 — forrásvidékek és államhatárok kialakulása.",
+      "factsAdvanced": [
+        "A Centre (Középső) megyében fekszik, saját járásának (arrondissement) központja.",
+        "Nevét ('a forrás körül') a régió vízbőségéről kapta.",
+        "A határ közelsége miatt jelentős az informális kereskedelem volumene.",
+        "Tengerszint feletti magassága körülbelül 400 méter.",
+        "A határvonal végleges formáját az 1929-es államközi egyezmény rögzítette.",
+        "Gazdaságának alapja a bab, kukorica és citrusfélék termesztése."
+      ]
+    },
+    {
+      "id": "gros-roche-cities-v2",
+      "descriptionAdvanced": "Gros-Roche egy apró, jórészt térképeken alig szereplő vidék Haiti Északi- vagy Északkeleti megyéjének peremén (a pontos adminisztratív besorolása változó lehet a helyi szóhasználatban, de gyakran a Nord-Est megyéhez kapcsolják a hasonló nevű dűlőket). Ez a térség a nevét ('Nagy Szikla') a felszínt uraló masszív, kiemelkedő mészkőformációkról kapta, amelyek egyedi arculatot adnak a tájnak. A település elzártsága miatt a helyiek mélyen őrzik a hagyományos haiti vidéki életformát, amely a közösségi munkamegosztáson (konbit) alapul. A mezőgazdaság nehézkes a köves talaj miatt, ezért az itt élők a völgyekbe húzódva termesztenek földimogyorót és cirkot, valamint kecskéket tartanak. Az ilyen kistelepülések hűen tükrözik Haiti rurális valóságát. Sachkunde K5 — karsztvidéki gazdálkodás.",
+      "factsAdvanced": [
+        "Nevének jelentése a francia nyelvből származik: 'Nagy Szikla'.",
+        "A tájat domináns karsztos mészkőképződmények jellemzik.",
+        "A lakosság főként kecsketenyésztésből és szárazságtűrő növények termesztéséből él.",
+        "A mezőgazdasági munkát hagyományosan a 'konbit' nevű közösségi rendszerben végzik.",
+        "Nagyvárosoktól távol eső, nehezen megközelíthető rurális terület.",
+        "Az infrastruktúra hiánya miatt nincs állandó aszfaltozott összeköttetése."
+      ]
+    },
+    {
+      "id": "mont-organise-cities-v2",
+      "descriptionAdvanced": "Mont-Organisé egy festői hegyvidéki város a Nord-Est (Északkeleti) megyében, szorosan a Dominikai Köztársaság határa mentén. A város alapítása és történelme mélyen összefonódik a francia és spanyol gyarmati idők határvitáival; a 18. században fontos megfigyelőállomás és katonai támaszpont volt a francia hadsereg számára a hegygerincen. A település körüli erdős és dombos táj különösen termékeny, a hűvösebb klíma miatt kiválóan alkalmas kávé és különféle hegyvidéki zöldségek termesztésére. Az utóbbi években Mont-Organisé egyre fontosabb szerepet játszik a binacionális ökológiai kezdeményezésekben, amelyek célja a határ menti erdőirtás megállítása és a vízgyűjtő területek védelme a szigeten. Földrajz K8 — határvidéki ökológia és erdővédelem.",
+      "factsAdvanced": [
+        "A Nord-Est (Északkeleti) megyében, az Ouanaminthe járásban található.",
+        "Közvetlen határos a Dominikai Köztársaság Dajabón tartományával.",
+        "Tengerszint feletti magassága magas, eléri a 730 métert.",
+        "Nevét ('Szervezett Hegy') feltételezhetően egy régi katonai táborról kapta.",
+        "A helyi kávéültetvények az ország legmagasabb minőségű kávéit adják.",
+        "Határ menti zöld projektek központja az erdősítés érdekében."
+      ]
+    },
+    {
+      "id": "vallieres-cities-v2",
+      "descriptionAdvanced": "Vallières a Nord-Est (Északkeleti) megye egyik járásközpontja, amely a megye déli, belső, hegyes vidékén rejtőzik. A település történelme a korai gyarmati időszakra nyúlik vissza, amikor a spanyol, majd a francia korona is próbálkozott aranybányászattal a közeli folyók hordalékában, de ezek a kísérletek hamar abbamaradtak. Ma Vallières egy csendes, elzárt mezőgazdasági város, amelyet meredek dombok és sűrű növényzet vesz körül. A régió híres az állattenyésztéséről, különösen a marha- és sertéstartásról, valamint a trópusi fákból (mint a mahagóni) készült kézműves fafaragásokról. Az infrastruktúra hiányosságai, különösen a rossz utak, hátráltatják a fejlődést, így a város megőrizte a 19. századot idéző vidékies nyugalmát. Geschichte K7 — gyarmati nyersanyagkutatás.",
+      "factsAdvanced": [
+        "A Nord-Est megye azonos nevű (Vallières) járásának központja.",
+        "Földrajzilag az északkeleti hegyvidék belső völgyeiben fekszik.",
+        "Tengerszint feletti magassága megközelítőleg 380 méter.",
+        "A gyarmati időkben a környező folyókban aranymosással próbálkoztak.",
+        "A helyi gazdaság gerince az állattenyésztés (marha, sertés).",
+        "A város nehezen megközelíthető a burkolatlan, hegyi utak miatt."
+      ]
+    },
+    {
+      "id": "capotille-cities-v2",
+      "descriptionAdvanced": "Capotille egy északkeleti (Nord-Est megye) határváros, amely a Massacre-folyó (Dajabón-folyó) mentén helyezkedik el. A város neve beleégett a hispaniolai történelembe, mint a függetlenségi háborúk idején a csempészek és az irreguláris csapatok gyakori átkelőhelye. A helyiek ma leginkább kereskedelemből élnek, a folyó túlpartján található dominikai Loma de Cabrera várossal fenntartott szoros gazdasági kapcsolat révén. A völgy mikroklímája és a folyó biztosította öntözés lehetővé teszi a rizs és a dohány kiterjedt termesztését a régióban. Capotille békés mezőgazdasági jellege ellenére a város gyakran szembesül a klímaváltozás okozta kihívásokkal, például az esős évszakban megáradó Massacre-folyó okozta hirtelen árvizekkel. Földrajz K8 — határfolyók és ártéri gazdálkodás.",
+      "factsAdvanced": [
+        "A Nord-Est (Északkeleti) megye Ouanaminthe járásában fekszik.",
+        "A természetes államhatárt alkotó Massacre (Dajabón) folyó partján fekszik.",
+        "Tengerszint feletti magassága csupán 75 méter a völgyben.",
+        "Közvetlen szomszédja a dominikai Loma de Cabrera település.",
+        "Az öntözéses földművelés fő terményei a rizs és a dohány.",
+        "Gyakoriak az áradások az esős évszak végén (október-november)."
+      ]
+    },
+    {
+      "id": "arcahaie-cities-v2",
+      "descriptionAdvanced": "Arcahaie, vagy ahogy gyakran hívják, 'a haiti zászló városa', az Ouest (Nyugati) megye egyik legjelentősebb történelmi központja a Gonâve-öböl partján. A történelemkönyvek szerint 1803. május 18-án itt tartották az arcahaie-i kongresszust, ahol Jean-Jacques Dessalines kitépte a francia trikolór fehér sávját, létrehozva a független Haiti kék-piros zászlaját. Ennek emlékére minden évben nagyszabású nemzeti ünnepségeket tartanak a városban. Földrajzilag Arcahaie egy rendkívül termékeny parti síkságon, a Cul-de-Sac síkság északi peremén helyezkedik el, és az ország legnagyobb banántermelő régiójaként ismert. A város pezsgő kulturális életével és gazdag történelmi örökségével a belföldi turizmus egyik fontos célpontja. Geschichte K8 — a haiti nemzeti szimbólumok születése.",
+      "factsAdvanced": [
+        "Az Ouest (Nyugati) megyében található, Port-au-Prince-től északnyugatra.",
+        "1803-ban itt alkották meg az első haiti nemzeti zászlót.",
+        "Minden év május 18-án (Zászló Napja) országos ünnepség helyszíne.",
+        "Haiti egyik legfontosabb banán- és plantántermesztő központja.",
+        "A város tengerszint feletti magassága alig haladja meg az 5 métert.",
+        "A Gonâve-öböl partvidékén, a Route Nationale 1 (RN1) mentén fekszik."
+      ]
+    },
+    {
+      "id": "cabaret-cities-v2",
+      "descriptionAdvanced": "Cabaret egy gyorsan növekvő város az Ouest (Nyugati) megyében, Port-au-Prince és Arcahaie között az RN1 autópálya mentén. A települést a 20. század közepén, François Duvalier diktatúrája alatt hivatalosan Duvalierville-re nevezték át, de az 1986-os rendszerváltás után visszakapta eredeti, történelmi nevét. Cabaret környéke a haiti cementipar központja; itt találhatók az ország legnagyobb mészkőbányái és cementgyárai, amelyek a főváros építőanyag-ellátását biztosítják. A hegyvidékről lezúduló folyók miatt a város sajnos különösen sebezhető a heves esőzések okozta villámárvizekkel szemben, amelyek 2008-ban is súlyos pusztítást végeztek a térségben. A város ipari és mezőgazdasági szektorai kettős gazdaságot alkotnak. Földrajz K8 — építőipar és természeti katasztrófák.",
+      "factsAdvanced": [
+        "Az Ouest megyében fekszik, északi irányban a fővárostól.",
+        "1961 és 1986 között hivatalosan Duvalierville volt a neve.",
+        "A haiti cement- és mészégető ipar egyik legfontosabb bázisa.",
+        "A tengerszint feletti magassága a központban 23 méter.",
+        "Az 2008-as trópusi viharok idején pusztító villámárvíz sújtotta.",
+        "A Route Nationale 1 (RN1) főútvonal szeli ketté a várost."
+      ]
+    },
+    {
+      "id": "cornillon-cities-v2",
+      "descriptionAdvanced": "Cornillon, más néven Cornillon-Grand-Bois, egy távoli, magaslati település az Ouest (Nyugati) megye keleti hegyvidékén. A város több mint 1000 méteres tengerszint feletti magasságban, a Chaîne de la Selle hegyvonulat északi nyúlványain fekszik, közel a dominikai határhoz. A rendkívül nehéz terepviszonyok és az aszfaltozott utak hiánya miatt Cornillon az egyik legelszigeteltebb járásközpont Haitin. Hűvös éghajlata azonban ideális környezetet teremt a kávécserjék és a mérsékelt égövi zöldségek, például a káposzta és a sárgarépa termesztéséhez. A lakosság szoros családi és kereskedelmi szálakat ápol a határ túloldalán lévő dominikai falvakkal. A terület a hagyományos haiti vidéki életmód egyik utolsó bástyája. Földrajz K7 — magashegyi klíma és izoláció.",
+      "factsAdvanced": [
+        "Az Ouest (Nyugati) megye keleti határvidékén, hegyes terepen található.",
+        "Tengerszint feletti magassága eléri, sőt meghaladja az 1100 métert.",
+        "Klíma viszonyai kedveznek a kávé és a zöldségfélék termesztésének.",
+        "Hivatalosan gyakran Cornillon-Grand-Bois néven szerepel a térképeken.",
+        "A rossz infrastruktúra miatt a dominikai piacok gyakran elérhetőbbek a helyieknek.",
+        "A lakosság a szélsőséges időjárás és hideg szelek kihívásaival küzd."
+      ]
+    },
+    {
+      "id": "ganthier-cities-v2",
+      "descriptionAdvanced": "Ganthier egy jelentős agrárváros az Ouest (Nyugati) megyében, a Cul-de-Sac síkság keleti peremén, az Etang Saumâtre (Azuei-tó) közelében. A város kulcsszerepet játszik a Port-au-Prince-t a dominikai Jimaní határátkelővel összekötő 8-as számú főút (RN8) tranzitforgalmában. A régió klímája rendkívül száraz, de a földalatti vízkészletek és a tó közelsége lehetővé teszi az öntözéses gazdálkodást; a cukornád és az édesburgonya a legfőbb termények. Az elmúlt években az Azuei-tó vízszintjének rejtélyes emelkedése komoly problémákat okozott Ganthier környékén, elárasztva a termőföldeket és magát a főútvonalat is. A város jelentős határ menti vámközpontként is funkcionál. Földrajz K8 — beltavak vízszint-ingadozása és kereskedelmi útvonalak.",
+      "factsAdvanced": [
+        "Az Ouest megyében, a Croix-des-Bouquets járásban található.",
+        "A Route Nationale 8 (RN8) áthalad rajta a dominikai határ felé.",
+        "Haiti legnagyobb tava, az Etang Saumâtre (Azuei-tó) partjához közel fekszik.",
+        "A tó vízszint-emelkedése miatt az utóbbi években többször víz alá került a főút.",
+        "Tengerszint feletti magassága körülbelül 115 méter.",
+        "A száraz éghajlat ellenére az öntözéses földművelés jelentős (cukornád, manióka)."
+      ]
+    },
+    {
+      "id": "fonds-verrettes-cities-v2",
+      "descriptionAdvanced": "Fonds-Verrettes egy hegyvidéki falu az Ouest (Nyugati) megye legkeletibb szegletében, a Chaîne de la Selle vonulat sziklás völgyeiben, a dominikai határ mellett. A település történetének legsötétebb napja 2004 májusában volt, amikor egy trópusi vihar által okozott katasztrofális sárlavina a falu nagy részét elsöpörte, több száz emberéletet követelve. A katasztrófa rámutatott a haiti erdőirtás tragikus következményeire, mivel a fátlan hegyoldalak nem tudták megfogni a lezúduló vizet. Ma a lakosok lassan újjáépítik életüket; a gazdaság alapját a fenyőerdők maradványainak hasznosítása és a hegyvidéki babtermesztés adja. A terület hideg, szeles éghajlata éles ellentétben áll a partvidék trópusi hőségével. Földrajz K8 — erdőirtás és sárlavinák veszélyei.",
+      "factsAdvanced": [
+        "Az Ouest megye délkeleti részén, magasan a hegyekben fekszik.",
+        "A dominikai határ közelében helyezkedik el, tengerszint felett 1150 méteren.",
+        "2004 májusában egy sárlavina szinte teljesen megsemmisítette a központot.",
+        "A régióban egykor kiterjedt hispaniolai fenyőerdők (Pinus occidentalis) voltak.",
+        "Az éghajlat a hegyvidéki fekvés miatt a téli hónapokban kimondottan hideg.",
+        "A lakosság fő túlélési forrása a babtermesztés és a határkereskedelem."
+      ]
+    },
+    {
+      "id": "tiburon-cities-v2",
+      "descriptionAdvanced": "Tiburon egy történelmi tengerparti város Haiti legdélnyugatibb csücskében, a Sud (Déli) megyében. A félsziget végén, a Tiburon-félsziget névadójaként, a város stratégiai pozíciót foglalt el a Karib-tengeren; a kalózok és a kora újkori tengerészek gyakran használták kikötőjét. A francia gyarmati időkben számos erődöt építettek a partvonal mentén, hogy megvédjék a gazdag kávé- és indigóültetvényeket a brit támadásoktól. Ma Tiburon egy békés, de elszigetelt halászfalu, amelyhez nehéz szárazföldön eljutni az egyenetlen, gyakran kimosott parti utak miatt. A helyi gazdaság a halászatra, valamint a kókusz és a kakaó termesztésére épül. A tengerpart érintetlen szépsége hatalmas, eddig kiaknázatlan turisztikai potenciált jelent. Geschichte K7 — karibi kalózkodás és parti erődítmények.",
+      "factsAdvanced": [
+        "A Sud (Déli) megyében, a Chardonnières járásban helyezkedik el.",
+        "Nevét adta az egész délnyugati földrajzi formációnak (Tiburon-félsziget).",
+        "A városból rálátni a Jamaica-csatornára (Canal de la Jamaïque).",
+        "A tengerszint feletti magassága 0 és 10 méter közötti.",
+        "Fő iparága a part menti halászat és a kókuszdió-feldolgozás.",
+        "A 18. században fontos gyarmati katonai és kereskedelmi kikötő volt."
+      ]
+    }
+  ]
+}

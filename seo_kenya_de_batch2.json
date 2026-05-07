@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ruiru-cities-v2",
+      "descriptionAdvanced": "Ruiru, im stark bevölkerten Kiambu County gelegen, ist eine der am schnellsten wachsenden Städte Kenias und liegt nur etwa 30 Kilometer nördlich von Nairobi. Ursprünglich war Ruiru von weiten Kaffeeplantagen geprägt, die in der Kolonialzeit angelegt wurden. Heute verwandeln sich viele dieser Flächen in große Wohn- und Industriegebiete, insbesondere seit dem Ausbau des Thika Superhighway. Ein herausragendes Projekt ist der Bau der Tatu City, einer riesigen, planmäßig angelegten Satellitenstadt in Ruiru, die Wohnraum für über 150.000 Menschen und hochmoderne Industriezonen bieten soll. Die Stadt profitiert enorm von der Infrastruktur Nairobis und zieht Unternehmen und Pendler gleichermaßen an, was sie zu einem Symbol für Kenias rasante Urbanisierung macht (Wirtschaft & Geografie K7).",
+      "factsAdvanced": [
+        "Ruiru ist eine der am schnellsten wachsenden Städte Kenias nahe Nairobi.",
+        "Die Stadt war historisch von riesigen, von Europäern geführten Kaffeeplantagen umgeben.",
+        "Tatu City, eine 5.000 Hektar große private Satellitenstadt, liegt in Ruiru.",
+        "Der Thika Superhighway hat das Wachstum und die Erreichbarkeit der Stadt massiv beschleunigt.",
+        "Ruiru beherbergt das renommierte Kenya Prisons Staff Training College.",
+        "Die Gegend entwickelt sich zunehmend zu einem wichtigen Industrie- und Logistikknoten."
+      ]
+    },
+    {
+      "id": "kilifi-cities-v2",
+      "descriptionAdvanced": "Kilifi ist eine malerische Küstenstadt und die Hauptstadt des Kilifi Countys, berühmt für den spektakulären Kilifi Creek, einen tiefen Meeresarm, der die Stadt teilt. Bis zum Bau der imposanten Kilifi-Brücke im Jahr 1991, die zu den längsten in Ostafrika zählt, war die Überquerung nur per Fähre möglich. Die Stadt ist stark vom Swahili-Einfluss und der Mijikenda-Kultur, insbesondere der Giriama, geprägt. Wirtschaftlich stützt sich Kilifi auf Tourismus, Cashewnuss-Anbau und Fischerei. Zudem befindet sich hier die Pwani University, eine wichtige Forschungseinrichtung, sowie das Kenya Medical Research Institute (KEMRI). Nahe der Stadt liegen die mystischen Mnarani-Ruinen aus dem 14. Jahrhundert und der üppige Arabuko-Sokoke-Wald, der für seine seltene Tierwelt bekannt ist (Geografie & Biologie K7).",
+      "factsAdvanced": [
+        "Kilifi liegt an der kenianischen Küste und wird vom malerischen Kilifi Creek geteilt.",
+        "Die 420 Meter lange Kilifi-Brücke wurde 1991 eröffnet und überspannt den Meeresarm.",
+        "Die Pwani University hat ihren Sitz in der Stadt und fördert Küstenforschung.",
+        "Nahe Kilifi befinden sich die Mnarani-Ruinen, eine verlassene Swahili-Siedlung aus dem 14. Jahrhundert.",
+        "Die Region ist ein Zentrum der Mijikenda-Kultur, besonders des Giriama-Volkes.",
+        "Cashewnüsse und Sisal sind wichtige landwirtschaftliche Produkte des Countys."
+      ]
+    },
+    {
+      "id": "mumias-cities-v2",
+      "descriptionAdvanced": "Mumias, im Kakamega County in Westkenia gelegen, ist historisch und wirtschaftlich von enormer Bedeutung. Benannt nach Nabongo Mumia, dem bedeutendsten König (Nabongo) des vorkolonialen Wanga-Königreichs, war die Stadt einst das Zentrum des mächtigsten zentralisierten Reiches der Luhya-Nation. Im späten 19. Jahrhundert schloss König Mumia Verträge mit britischen Entdeckern, was die Stadt zu einem frühen Verwaltungszentrum machte. Wirtschaftlich dominierte Mumias jahrzehntelang Kenias Zuckerindustrie, angetrieben von der Mumias Sugar Company, einst der größte Zuckerproduzent des Landes. Heute zeugen Kulturstätten wie das Nabongo Cultural Centre, in dem die Gräber vergangener Wanga-Könige ruhen, von der stolzen vorkolonialen Geschichte der Stadt (Geschichte K8).",
+      "factsAdvanced": [
+        "Mumias war das Zentrum des Wanga-Königreichs, des mächtigsten Luhya-Staates.",
+        "Die Stadt wurde nach König (Nabongo) Mumia benannt, der Ende des 19. Jahrhunderts herrschte.",
+        "Die Mumias Sugar Company war einst die mit Abstand größte Zuckerfabrik Kenias.",
+        "Im Nabongo Cultural Centre befinden sich die Schreine der ehemaligen Könige.",
+        "Die Stadt liegt etwa 40 Kilometer von Kakamega entfernt in Westkenia.",
+        "Der Mumias Muslim-Einfluss geht auf den frühen Swahili- und arabischen Handel zurück."
+      ]
+    },
+    {
+      "id": "kapenguria-cities-v2",
+      "descriptionAdvanced": "Kapenguria ist die Hauptstadt des West Pokot Countys und liegt in den zerklüfteten Hügeln des Rift Valleys in Westkenia. Die Stadt nimmt einen festen Platz in Kenias Geschichtsbüchern ein: Im Jahr 1952 fand hier der berüchtigte Prozess gegen die "Kapenguria Six" statt, darunter der spätere Präsident Jomo Kenyatta. Sie wurden von den britischen Kolonialherren fälschlicherweise beschuldigt, den Mau-Mau-Aufstand zu leiten. Die Zellen und der Gerichtssaal, in denen sie inhaftiert waren, sind heute als Kapenguria Museum erhalten. Die Bevölkerung der Region besteht größtenteils aus dem Volk der Pokot, die traditionell Viehzucht betreiben. Nahe der Stadt befindet sich der Turkwel-Staudamm (Turkwel Gorge Dam), Kenias höchster Staudamm, der entscheidend für die Stromerzeugung ist (Geschichte K8).",
+      "factsAdvanced": [
+        "Kapenguria erlangte 1952 durch den historischen Prozess gegen die "Kapenguria Six" Bekanntheit.",
+        "Jomo Kenyatta, Kenias erster Präsident, wurde hier von den Briten inhaftiert.",
+        "Das Kapenguria Museum dokumentiert die Unabhängigkeitsbewegung und die Pokot-Kultur.",
+        "Die Region ist bergig und Heimat der halbnomadischen Pokot-Gemeinschaft.",
+        "Der gewaltige Turkwel-Staudamm, 153 Meter hoch, liegt nördlich der Stadt.",
+        "Die Landwirtschaft konzentriert sich hauptsächlich auf Rinder- und Ziegenzucht."
+      ]
+    },
+    {
+      "id": "nanyuki-cities-v2",
+      "descriptionAdvanced": "Nanyuki, in Laikipia County gelegen, liegt exakt auf dem Äquator, was oft durch Hinweisschilder markiert ist und Touristen anzieht. Die 1907 von britischen Siedlern gegründete Stadt dient als wichtigster Ausgangspunkt für Expeditionen und Bergbesteigungen der nordwestlichen Routen des Mount Kenya. Nanyuki hat eine starke militärische Präsenz: Hier befindet sich ein wichtiger Stützpunkt der kenianischen Luftwaffe (KAF) sowie die BATUK (British Army Training Unit Kenya), die die weiten, trockenen Ebenen von Laikipia für Militärübungen nutzt. Wirtschaftlich ist Nanyuki ein Zentrum für den Handel mit Rindfleisch und Wolle. Zudem liegt die Stadt umgeben von weltbekannten privaten Wildschutzgebieten wie Ol Pejeta (Heimat seltener Nashörner) und Lewa, was den Tourismus ankurbelt (Geografie & Politik K7).",
+      "factsAdvanced": [
+        "Nanyuki liegt genau auf dem Äquator auf einer Höhe von fast 1.950 Metern.",
+        "Die Stadt wurde 1907 von britischen Siedlern als Marktort gegründet.",
+        "Sie ist die Hauptbasis für die BATUK (British Army Training Unit Kenya).",
+        "Nanyuki ist der bevorzugte Ausgangspunkt für die Sirimon- und Burguret-Routen auf den Mount Kenya.",
+        "In der Nähe liegt das renommierte Ol Pejeta Conservancy, ein Schutzgebiet für Nashörner.",
+        "Der Mount Kenya überragt majestätisch das Stadtbild im Südosten."
+      ]
+    },
+    {
+      "id": "kikuyu-cities-v2",
+      "descriptionAdvanced": "Kikuyu Town, benannt nach Kenias größter ethnischer Gruppe, liegt im Kiambu County, nur wenige Kilometer von Nairobi entfernt. Die Stadt hat eine tiefe historische Bedeutung, da hier in den späten 1890er Jahren eine der ersten Missionarsstationen Ostafrikas durch die Church of Scotland Mission (CSM) gegründet wurde. Kikuyu besitzt einige der ältesten Bildungseinrichtungen Kenias, darunter die berühmte Alliance High School und das PCEA Kikuyu Hospital, die beide maßgeblich zur Entwicklung des Landes beitrugen. Geografisch zeichnet sich Kikuyu durch kühles Klima, fruchtbare Böden und hügeliges Terrain aus, was den intensiven Anbau von Gemüse und Kaffee ermöglicht. Durch den Ausbau der südlichen Umgehungsstraße ist die Stadt stark in das Wirtschaftssystem Nairobis integriert (Geschichte K7).",
+      "factsAdvanced": [
+        "Die Stadt Kikuyu wurde Ende des 19. Jahrhunderts als frühe Missionarsstation gegründet.",
+        "Die Church of Scotland Mission (CSM) errichtete hier 1898 ihre erste Basis.",
+        "Die renommierte Alliance High School wurde 1926 in Kikuyu gegründet.",
+        "Kikuyu ist eine der am höchsten gelegenen Siedlungen im Großraum Nairobi (über 2.000 Meter).",
+        "Das PCEA Kikuyu Hospital ist eines der ältesten christlichen Krankenhäuser Kenias.",
+        "Die Ondiri-Sümpfe (Ondiri Swamp) in der Nähe sind Kenias tiefste Torfmoore."
+      ]
+    },
+    {
+      "id": "nyahururu-cities-v2",
+      "descriptionAdvanced": "Nyahururu, in der Kolonialzeit als Thomson's Falls bekannt, ist die höchstgelegene Großstadt Kenias (etwa 2.360 Meter über dem Meeresspiegel). Sie liegt auf dem Laikipia-Plateau an der Grenze zum Nyandarua County. Die Hauptattraktion der Stadt sind die spektakulären Thomson-Wasserfälle (Thomson's Falls) des Ewaso-Narok-Flusses, die über 70 Meter in die Tiefe stürzen. Die Stadt wurde 1883 vom britischen Entdecker Joseph Thomson entdeckt und diente lange als Knotenpunkt auf der alten Eisenbahnstrecke von Gilgil. Das kalte Klima macht Nyahururu zu einer florierenden Agrarregion für den Anbau von Kartoffeln, Kohl und Schnittblumen. Die extreme Höhe wird zudem von vielen der besten Leichtathleten Kenias für das Höhentraining genutzt (Geografie K7).",
+      "factsAdvanced": [
+        "Nyahururu liegt auf 2.360 Metern und ist Kenias höchstgelegene Großstadt.",
+        "Ursprünglich war die Stadt nach den Thomson's Falls benannt, die hier liegen.",
+        "Der Ewaso-Narok-Fluss stürzt hier 74 Meter tief in eine beeindruckende Schlucht.",
+        "Aufgrund der Höhe ist das Klima in Nyahururu für kenianische Verhältnisse sehr kalt.",
+        "Viele internationale Marathon- und Langstreckenläufer trainieren in den Camps der Stadt.",
+        "Die Region liefert einen Großteil der in Nairobi konsumierten Kartoffeln und Karotten."
+      ]
+    },
+    {
+      "id": "siaya-cities-v2",
+      "descriptionAdvanced": "Siaya, die Hauptstadt des gleichnamigen Siaya Countys, liegt in Westkenia unweit des Viktoriasees. Die Stadt und das umgebende County sind das kulturelle und politische Zentrum der Luo-Bevölkerung. Weltweite Bekanntheit erlangte die Region durch das nahegelegene Dorf Kogelo, das der historische Stammsitz der Familie des ehemaligen US-Präsidenten Barack Obama ist. Wirtschaftlich ist die Region stark von der Subsistenzwirtschaft und der Fischerei im Viktoriasee geprägt, obwohl der Boden in vielen Teilen als weniger fruchtbar gilt als in den benachbarten Countys. Siaya ist auch bekannt für seine dichte Ansammlung von Schulen und Colleges, was die historische Priorisierung von Bildung in der lokalen Luo-Kultur widerspiegelt (Politik & Geografie K8).",
+      "factsAdvanced": [
+        "Siaya ist das Zentrum und die Hauptstadt des mehrheitlich von den Luo bewohnten Countys.",
+        "Weltberühmt wurde die Region durch Kogelo, die Heimat der Vorfahren von Barack Obama.",
+        "Die Wirtschaft basiert stark auf traditioneller Landwirtschaft und Fischerei.",
+        "Das Oginga Odinga University College liegt in der Region Siaya.",
+        "Die Landschaft wird vom Becken des Viktoriasees und dem Yala-Fluss dominiert.",
+        "Siaya spielte eine entscheidende Rolle in Kenias Kampf um die Mehrparteiendemokratie."
+      ]
+    },
+    {
+      "id": "bomet-cities-v2",
+      "descriptionAdvanced": "Bomet ist das pulsierende Zentrum des Bomet Countys in der südlichen Rift-Valley-Region. Die Stadt liegt in den weiten, sanft hügeligen Highlands und ist das kulturelle Herz der Kipsigis, einer großen Untergruppe der Kalenjin-Ethnie. Landwirtschaftlich ist Bomet ein wahrer Riese: Die Region produziert enorme Mengen an Tee und profitiert von fruchtbaren Böden und regelmäßigen Niederschlägen. Große multinationale und lokale Teefabriken säumen die Umgebung. Zudem ist die Milchviehhaltung ein wesentlicher wirtschaftlicher Pfeiler für unzählige Kleinbauern in der Umgebung. Bomet liegt verkehrsgünstig an der Hauptstraße, die in die südliche Maasai Mara führt, was der Stadt einen stetigen Fluss an Handel und lokalen Tourismus einbringt (Wirtschaft K7).",
+      "factsAdvanced": [
+        "Bomet ist die Hauptstadt des Bomet Countys im südlichen Rift Valley.",
+        "Die Stadt ist ein kulturelles Zentrum der Kipsigis (Kalenjin).",
+        "Die Region gehört zu den produktivsten Teeanbaugebieten Kenias.",
+        "Die Tenwek Mission Hospital in Bomet ist eines der besten medizinischen Zentren Westkenias.",
+        "Die Milchproduktion und Viehzucht sind nach dem Tee die wichtigsten Einnahmequellen.",
+        "Die Stadt liegt auf einer strategischen Route zum Maasai Mara Nationalreservat."
+      ]
+    },
+    {
+      "id": "athi-river-cities-v2",
+      "descriptionAdvanced": "Athi River, auch bekannt als Mavoko, ist eine boomende Industriestadt im Machakos County, südöstlich von Nairobi. Die Stadt verdankt ihren Namen dem Athi-Fluss, an dessen Ufern sie wuchs. Athi River ist das Herzstück der kenianischen Zement- und Bauindustrie; hier befinden sich Fabriken gigantischer Konzerne wie Bamburi Cement, Mombasa Cement und East African Portland Cement, da die Region reich an Kalksteinvorkommen ist. Darüber hinaus beherbergt Athi River eine große Export Processing Zone (EPZ), die Zehntausende von Arbeitsplätzen in der Textil- und Fertigungsindustrie bietet. Die Stadt liegt verkehrsgünstig an der SGR-Eisenbahnstrecke und der Mombasa-Autobahn, was sie zum ultimativen Logistikzentrum macht (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Athi River (oder Mavoko) ist das größte Zentrum der Zementindustrie in Ostafrika.",
+        "Die Stadt profitiert von massiven Kalksteinvorkommen in der Umgebung.",
+        "In Athi River befindet sich die wichtigste Export Processing Zone (EPZ) Kenias.",
+        "Der Bahnhof Athi River liegt an der neuen Standard Gauge Railway (SGR).",
+        "Durch den starken Zementabbau gibt es zunehmend Herausforderungen bei der Luftqualität.",
+        "Die Stadt ist enorm schnell gewachsen, um den industriellen Überlauf Nairobis aufzunehmen."
+      ]
+    },
+    {
+      "id": "vihiga-cities-v2",
+      "descriptionAdvanced": "Vihiga, die größte Stadt des gleichnamigen Vihiga Countys in Westkenia, besticht durch ihre felsige Landschaft und ihre dichte Besiedlung. Sie liegt in den westlichen Ausläufern des Rift Valleys, nicht weit vom Äquator entfernt. Vihiga ist vor allem die kulturelle Heimat der Maragoli, einer prominenten Untergruppe der Luhya-Nation. Die Region zeichnet sich durch riesige, dramatische Granitfelsen aus, die in den üppig grünen Hügeln verstreut liegen, darunter die berühmten Maragoli-Hills. Aufgrund der sehr hohen Bevölkerungsdichte sind die landwirtschaftlichen Flächen klein, was die Bewohner zu intensiver Subsistenzwirtschaft (Mais, Bohnen, Tee) zwingt. Kulturell ist Vihiga berühmt für das jährliche Maragoli-Kulturfestival, das traditionell am zweiten Weihnachtstag stattfindet (Geografie & Gesellschaft K7).",
+      "factsAdvanced": [
+        "Vihiga hat eine der höchsten Bevölkerungsdichten im ländlichen Kenia.",
+        "Die Region ist durch massive, in der Landschaft verstreute Granitfelsen geprägt.",
+        "Vihiga ist das Herzland der Maragoli-Bevölkerung.",
+        "Die Kima Mission, in den frühen 1900ern gegründet, spielte eine wichtige Rolle in der Bildung.",
+        "Der Äquator verläuft nur wenige Kilometer nördlich des Countys.",
+        "Das jährliche Vihiga-Kulturfestival am 26. Dezember zieht Tausende Besucher an."
+      ]
+    },
+    {
+      "id": "chuka-cities-v2",
+      "descriptionAdvanced": "Chuka ist die größte städtische Siedlung im Tharaka-Nithi County und schmiegt sich an die östlichen Hänge des Mount Kenya. Die Stadt ist benannt nach den Chuka, einer Untergruppe des Ameru-Volkes. Traditionell und historisch bekannt für ihre mutigen Krieger (die einst die "Mau Mau"-Rebellen in den dichten Wäldern unterstützten), ist Chuka heute ein florierendes Agrarzentrum. Die vulkanischen Böden ermöglichen den lukrativen Anbau von Kaffee, Tee, Macadamia-Nüssen und Bananen. Die Chuka University, eine rapidly wachsende Bildungseinrichtung im Vorort Ndagani, hat das wirtschaftliche Profil der Stadt massiv verändert und Tausende Studenten angezogen. Chuka dient auch als Zugangspunkt zur östlichen Mount-Kenya-Route (Biologie & Gesellschaft K7).",
+      "factsAdvanced": [
+        "Chuka liegt an den östlichen Hängen des Mount Kenya in einer waldreichen Umgebung.",
+        "Die Stadt ist das wirtschaftliche und akademische Zentrum des Tharaka-Nithi Countys.",
+        "Die Chuka University im Vorort Ndagani ist ein bedeutender Wirtschaftsmotor.",
+        "Das Volk der Chuka, Teil der Meru-Gruppe, stellt die Mehrheitsbevölkerung.",
+        "Die Region ist für den Anbau von Macadamia-Nüssen, Bananen und Kaffee bekannt.",
+        "Die Chuka-Trommler (Chuka Drummers) sind für ihre einzigartige traditionelle Musik berühmt."
+      ]
+    },
+    {
+      "id": "kiambu-cities-v2",
+      "descriptionAdvanced": "Kiambu Town ist die Hauptstadt des Kiambu Countys und liegt in unmittelbarer Nähe nördlich von Nairobi. Sie wurde um 1900 von britischen Siedlern gegründet und entwickelte sich rasch zu einem der wichtigsten Zentren für den Kaffeeanbau in Kenia. Jahrhundertelang bildete diese wohlhabende Region das Herzstück des Gikuyu-Landes. Historisch gesehen stammen viele der einflussreichsten Politiker und Geschäftsleute Kenias (inklusive des ersten Präsidenten Jomo Kenyatta) aus dem Kiambu County, was der Stadt den Ruf einer "politischen Elite-Schmiede" einbrachte. Mit der massiven Expansion Nairobis wandeln sich die einst endlosen Kaffeeplantagen um Kiambu Town zunehmend in hochklassige Wohngebiete, Einkaufszentren und Golfclubs (Geschichte & Wirtschaft K8).",
+      "factsAdvanced": [
+        "Kiambu Town wurde um die Wende zum 20. Jahrhundert durch Kaffeefarmer gegründet.",
+        "Die Stadt liegt auf einer Höhe von 1.720 Metern, ideal für den Arabica-Kaffeeanbau.",
+        "Kiambu ist die Hauptstadt eines der reichsten und politisch einflussreichsten Countys Kenias.",
+        "Kenias Gründervater Jomo Kenyatta stammte aus dem nahegelegenen Dorf Gatundu in Kiambu.",
+        "Das berühmte Kiambu Golf Club wurde bereits 1932 eröffnet.",
+        "Die Nähe zu Nairobi führt zu einer rasanten Umwandlung von Farmen in Immobilien."
+      ]
+    },
+    {
+      "id": "mandera-cities-v2",
+      "descriptionAdvanced": "Mandera ist eine der abgelegensten Städte Kenias und liegt extrem im Nordosten, genau an der Dreiländerecke (dem sogenannten Triangle) zwischen Kenia, Äthiopien und Somalia. Die Stadt zeichnet sich durch ein glühend heißes und wüstenhaftes Klima aus. Mandera ist ein lebendiger Schmelztiegel somalischer und äthiopischer Kulturen und lebt wirtschaftlich fast ausschließlich vom grenzüberschreitenden Viehhandel, vor allem mit Kamelen, Ziegen und Rindern. Aufgrund ihrer Grenzlage sah sich Mandera historisch oft mit sicherheitspolitischen Herausforderungen konfrontiert, insbesondere im Zusammenhang mit Schmuggel und militanten Gruppierungen. Dennoch hat die Stadt eine widerstandsfähige Gemeinschaft bewahrt und dient als wichtigstes Handelszentrum der entlegenen Nordost-Region (Geografie & Politik K8).",
+      "factsAdvanced": [
+        "Mandera liegt an dem Punkt, an dem sich die Grenzen von Kenia, Somalia und Äthiopien treffen.",
+        "Die Region ist extrem trocken, von Wüstenklima geprägt und anfällig für Dürren.",
+        "Die Bevölkerung besteht fast vollständig aus somalischen Clans (vor allem den Garre).",
+        "Der grenzüberschreitende informelle Handel mit Vieh ist die wirtschaftliche Lebensader.",
+        "Mandera liegt über 1.000 Kilometer von der kenianischen Hauptstadt Nairobi entfernt.",
+        "Die Stadt kämpfte aufgrund ihrer Nähe zu Somalia stark mit Sicherheitsproblemen."
+      ]
+    },
+    {
+      "id": "marsabit-cities-v2",
+      "descriptionAdvanced": "Marsabit, eine Oasenstadt im weiten Norden Kenias, ist eine bemerkenswerte geografische Anomalie. Die Stadt liegt isoliert auf dem erloschenen Schildvulkan Mount Marsabit in einer Höhe von rund 1.700 Metern. Während die umgebende Wüste Chalbi flach, heiß und trocken ist, fängt der Berg die Feuchtigkeit ein und ist von dichtem, nebeligem Regenwald umgeben. Der direkt an die Stadt angrenzende Marsabit-Nationalpark ist Heimat großer Elefantenherden – historisch berühmt durch "Ahmed", einen Elefanten mit riesigen Stoßzähnen, der in den 1970er Jahren persönlichen Schutz durch Präsident Kenyatta erhielt. Marsabit ist auch ein faszinierendes kulturelles Zentrum, in dem Rendille, Borana, Gabbra und Burji in einem rauen Umfeld zusammenleben (Geografie K7).",
+      "factsAdvanced": [
+        "Marsabit ist eine grüne Oase, die auf dem Schildvulkan Mount Marsabit liegt.",
+        "Die Stadt ist vollständig von Wüste und Halbwüste, wie der Chalbi-Wüste, umgeben.",
+        "Der Marsabit-Nationalpark ist berühmt für drei beeindruckende Vulkankraterseen (Maars).",
+        "Der Elefant "Ahmed" aus Marsabit war in den 1970ern wegen seiner massiven Stoßzähne weltberühmt.",
+        "Marsabit vereint die nomadischen Kulturen der Rendille, Gabbra und Borana.",
+        "Die extrem starken Winde am Lake Turkana Wind Power Project wehen auch durch diese Region."
+      ]
+    },
+    {
+      "id": "nyamira-cities-v2",
+      "descriptionAdvanced": "Nyamira, gelegen in der südwestlichen Ecke Kenias, ist die Hauptstadt des Nyamira Countys und bildet zusammen mit Kisii das traditionelle Hochland-Territorium der Gusii-Bevölkerung. Nyamira zeichnet sich durch seine atemberaubenden, saftig grünen Hügel, eine sehr hohe Bevölkerungsdichte und ein kühles, feuchtes Klima aus, das das ganze Jahr über üppige Ernten garantiert. Tee und Bananen sind die Hauptstützen der lokalen Wirtschaft, wobei kleine Parzellen intensiv bewirtschaftet werden. Obwohl Nyamira im Schatten seines größeren Nachbarn Kisii steht, fungiert die Stadt als wichtiges landwirtschaftliches Verwaltungszentrum. Die tiefen Täler und steilen Hügel machen Nyamira zu einer der landschaftlich reizvollsten, aber infrastrukturell anspruchsvollsten Regionen Kenias (Geografie K7).",
+      "factsAdvanced": [
+        "Nyamira liegt in den sehr fruchtbaren, regenreichen Gusii-Highlands in Südwestkenia.",
+        "Teeanbau und Bananenproduktion dominieren die Wirtschaft von Nyamira.",
+        "Das Nyamira County entstand 1989 durch eine Abspaltung vom größeren Kisii-Distrikt.",
+        "Die Region hat eine der höchsten Bevölkerungsdichten im landwirtschaftlichen Kenia.",
+        "Die Topografie ist durch tiefe Täler, Flüsse und sehr steile Hügel gekennzeichnet.",
+        "Die mehrheitliche Bevölkerung gehört zur ethnischen Gruppe der Abagusii (Gusii)."
+      ]
+    },
+    {
+      "id": "kwale-cities-v2",
+      "descriptionAdvanced": "Kwale ist eine ruhige Stadt in den Küstenhügeln Südkenias und das Verwaltungszentrum des Kwale Countys. Im Gegensatz zu den heißen Küstenorten wie Diani Beach, das ebenfalls zum County gehört, profitiert Kwale von der kühleren, erhöhten Lage in den Shimba Hills. Direkt neben der Stadt erstreckt sich das Shimba-Hills-Nationalreservat, ein Biodiversitäts-Hotspot, der als letzter Zufluchtsort der stark bedrohten Rappenantilope (Sable Antelope) in Kenia bekannt ist. Wirtschaftlich erlebt die Region seit 2013 einen massiven Aufschwung durch das Base-Titanium-Bergbauprojekt, das enorme Mengen an Titanmineralien wie Rutil und Ilmenit fördert. Dennoch dominieren für die einheimische Digo-Bevölkerung weiterhin Landwirtschaft und Kleinhandel (Geografie & Biologie K8).",
+      "factsAdvanced": [
+        "Kwale liegt im Hinterland der kenianischen Küste auf einer kühlen Hochebene.",
+        "Die Stadt ist das Tor zum Shimba-Hills-Nationalreservat (gegründet 1968).",
+        "Die Shimba Hills beheimaten die einzige Population der seltenen Rappenantilope in Kenia.",
+        "In der Nähe befindet sich ein riesiger Titan-Abbau (Base Titanium) im Wert von Millionen Dollar.",
+        "Die Region wird hauptsächlich von den Digo, einer Gruppe der Mijikenda, bewohnt.",
+        "Der nahegelegene Strandort Diani Beach liegt administrativ im Bezirk Kwale."
+      ]
+    },
+    {
+      "id": "kangundo-cities-v2",
+      "descriptionAdvanced": "Kangundo ist eine historische und landwirtschaftlich bedeutende Stadt im Machakos County, die in den malerischen Kangundo- und Matungulu-Hügeln liegt. Die Stadt entwickelte sich während der Kolonialzeit stark, vor allem weil christliche Missionare (wie die der African Inland Mission) hier früh Schulen und Krankenhäuser etablierten, darunter das berühmte Kangundo Level 4 Hospital. In der Mitte des 20. Jahrhunderts wurde Kangundo als "Millionärsstadt" der Kamba-Bevölkerung bekannt, da die hier ansässigen Kaffeebauern dank des boomenden globalen Kaffeepreises zu großem Reichtum kamen. Heute ist Kangundo noch immer stark agrarisch geprägt und produziert neben Kaffee auch Bohnen, Mais und Papayas für den Markt in Nairobi (Geschichte & Landwirtschaft K7).",
+      "factsAdvanced": [
+        "Kangundo liegt in einer fruchtbaren Hügellandschaft im Machakos County.",
+        "In den 1970er und 1980er Jahren florierte die Stadt durch den boomenden Kaffeeanbau.",
+        "Frühe christliche Missionare prägten die Bildung und Medizin der Region maßgeblich.",
+        "Der Kangundo-Hügelzug ist Teil der größeren Mua-Hills-Landschaft.",
+        "Die Mehrheit der Einwohner gehört der Kamba-Ethnie an.",
+        "Die Stadt pflegt eine enge Handelsverbindung zur rund 80 km entfernten Hauptstadt Nairobi."
+      ]
+    },
+    {
+      "id": "gilgil-cities-v2",
+      "descriptionAdvanced": "Gilgil ist eine strategisch wichtige Stadt im Nakuru County, eingebettet zwischen Naivasha und Nakuru im Rift Valley. Während der britischen Kolonialzeit in den 1920er Jahren wurde Gilgil als riesiger Eisenbahnknotenpunkt gegründet, der die Hauptstrecke mit einer Abzweigung nach Nyahururu verband. Heute ist Gilgil vor allem als die wichtigste Garnisonsstadt Kenias bekannt. Hier befinden sich große Kasernen der Kenya Defence Forces (KDF), der National Youth Service (NYS) und die Anti-Stock Theft Unit. Neben dem Militär zieht die Stadt Touristen an, die zum nahegelegenen Lake Elementaita (Heimat von Flamingos und Pelikanen) oder zum Kariandusi-Prähistorik-Museum, einer bedeutenden Fundstätte von Faustkeilen der frühen Hominiden, reisen (Geografie & Geschichte K7).",
+      "factsAdvanced": [
+        "Gilgil liegt im Grabenbruch und war ein Knotenpunkt der historischen Uganda-Eisenbahn.",
+        "Die Stadt beherbergt einige der größten Militär- und Polizeikasernen Kenias.",
+        "Der nahegelegene Lake Elementaita ist ein wichtiger Brutplatz für seltene Vogelarten.",
+        "Die archäologische Stätte Kariandusi (entdeckt 1928 von Louis Leakey) liegt bei Gilgil.",
+        "Die historische Abzweigung der Eisenbahn führte von hier nach Thomson's Falls (Nyahururu).",
+        "Wirtschaftlich ist die Stadt stark von den Ausgaben des Militärpersonals abhängig."
+      ]
+    },
+    {
+      "id": "kapsabet-cities-v2",
+      "descriptionAdvanced": "Kapsabet ist die Hauptstadt des Nandi Countys und thront auf dem weiten, üppigen Nandi-Plateau in Westkenia. Die Stadt ist die unbestrittene kulturelle Hochburg des Nandi-Volkes. International bekannt ist Kapsabet als "die Brutstätte der Champions". Nirgendwo sonst auf der Welt gibt es eine so hohe Dichte an Olympiasiegern und Weltrekordhaltern im Lang- und Mittelstreckenlauf wie in Kapsabet und den umliegenden Dörfern. Die Höhenlage von rund 2.000 Metern, das perfekte Klima und eine genetische Veranlagung machen die Athleten unschlagbar. Neben dem Sport ist die Region eines der Hauptanbaugebiete für Tee in Kenia; die Teeplantagen der Nandi-Hills prägen das Landschaftsbild maßgeblich und sichern das wirtschaftliche Überleben (Sport & Biologie K8).",
+      "factsAdvanced": [
+        "Kapsabet ist die Verwaltungshauptstadt des hügeligen Nandi Countys.",
+        "Die Region hat die größte Dichte an Langstreckenlauf-Champions weltweit hervorgebracht.",
+        "Die Stadt liegt auf dem Nandi-Plateau auf einer idealen Trainingshöhe von 2.000 Metern.",
+        "Die historische Kapsabet Boys High School wurde 1925 gegründet und ist landesweit renommiert.",
+        "Die umliegenden Nandi Hills sind extrem reich an riesigen multinationalen Teeplantagen.",
+        "Der legendäre Nandi-Führer Koitalel Arap Samoei leistete hier Widerstand gegen die Briten."
+      ]
+    },
+    {
+      "id": "limuru-cities-v2",
+      "descriptionAdvanced": "Limuru ist eine bezaubernde, nebelverhangene Stadt im Kiambu County, die am östlichen Rand des Rift Valleys auf einer erstaunlichen Höhe von über 2.200 Metern liegt. Das eisige Klima, kombiniert mit fruchtbarer vulkanischer Asche, macht Limuru zum unbestrittenen Zentrum des Teeanbaus in Zentral-Kenia (im Gegensatz zu Kericho im Westen). Im Jahr 1903 wurde hier der erste Tee Kenias durch den Europäer AB McDonell gepflanzt, und heute produzieren riesige Güter wie Mabroukie Tee von Weltklasse. Industriell ist Limuru untrennbar mit der Schuhfabrik Bata verbunden, deren gigantisches Werk seit den 1930er Jahren Generationen von Kenianern mit Schuhen versorgt. Diese Mischung aus Industrie und idyllischen Teefeldern macht die Stadt einzigartig (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Limuru liegt am Rande des Rift Valleys auf einer Höhe von fast 2.250 Metern.",
+        "Der britische Siedler AB McDonell pflanzte hier 1903 den ersten kommerziellen Tee Kenias.",
+        "Die Bata Shoe Company eröffnete 1939 in Limuru ihre bis heute größte ostafrikanische Fabrik.",
+        "Die Gegend um Limuru hat ein für afrikanische Verhältnisse sehr kaltes, nebeliges Klima.",
+        "Die Stadt liegt an der alten, ursprünglichen Strecke der Uganda-Eisenbahn.",
+        "Das Tigoni-Viertel in Limuru ist für seine malerischen Golf- und Country-Clubs berühmt."
+      ]
+    },
+    {
+      "id": "molo-cities-v2",
+      "descriptionAdvanced": "Molo liegt tief in den dichten Wäldern und Highlands des Nakuru Countys und ist berüchtigt für sein eisiges Klima – oft fallen die Temperaturen hier auf Werte knapp über dem Gefrierpunkt. Früher war Molo umgeben vom endlosen Mau-Wald, Kenias größtem Wassereinzugsgebiet, doch Landwirtschaft und Holzeinschlag haben die Landschaft stark verändert. Historisch etablierten europäische Siedler in Molo eine blühende Industrie für Schafzucht und Molkereien; das "Molo-Lamm" (Molo Lamb) gilt bis heute in kenianischen Restaurants als eine seltene und teure Delikatesse. Zudem ist die Region das größte Anbaugebiet für Pyrethrum (Wucherblumen), eine Pflanze, aus der biologische Insektizide gewonnen werden. Trotz dunkler politischer Episoden in den 1990er Jahren ist die Stadt ein Agrar-Gigant geblieben (Geografie K7).",
+      "factsAdvanced": [
+        "Molo liegt auf über 2.500 Metern und ist für oft gefrierpunktnahe Temperaturen bekannt.",
+        "Die Region ist national berühmt für die Produktion von hochwertigem Schaffleisch (Molo Lamb).",
+        "Molo ist das Zentrum des kenianischen Pyrethrum-Anbaus zur Insektizid-Gewinnung.",
+        "Die Stadt liegt am Rande des Mau-Waldes, dem größten geschlossenen Waldgebiet Kenias.",
+        "Die Eisenbahnabzweigung von Molo war historisch wichtig für den Abtransport von Holz.",
+        "Kartoffelanbau und Molkereiwirtschaft dominieren das Leben der lokalen Kleinbauern."
+      ]
+    },
+    {
+      "id": "ngong-cities-v2",
+      "descriptionAdvanced": "Ngong liegt malerisch am Fuße der spektakulären Ngong-Hügel (Ngong Hills) im Kajiado County. Einst war es ein kleines Dorf der Maasai und ein beliebtes Erholungsgebiet für europäische Kolonialisten (berühmt geworden durch Karen Blixens Buch "Jenseits von Afrika"). Heute ist Ngong faktisch ein sehr beliebter, rapidly wachsender Vorort von Nairobi. Die steilen Hügelkuppen der Ngong Hills erheben sich bis auf 2.460 Meter, bieten einen atemberaubenden Blick über das Rift Valley im Westen und Nairobi im Osten und sind heute Standort von Kenias größtem Windpark. Trotz der massiven Urbanisierung bleibt Ngong ein wichtiger Knotenpunkt für Vieh- und Fleischhandel und ein Trainingsparadies für Langstreckenläufer, die das anspruchsvolle Terrain nutzen (Geografie & Literatur K8).",
+      "factsAdvanced": [
+        "Ngong liegt am Fuße der Ngong-Hügel, etwa 25 Kilometer südwestlich von Nairobi.",
+        "Die Ngong-Hügel (Spitze bei 2.460 m) bieten Ausblicke auf Nairobi und das Rift Valley.",
+        "Auf den Hügeln stehen 38 Windkraftanlagen, die das nationale Stromnetz speisen.",
+        "Das Grab von Denys Finch Hatton, bekannt aus "Jenseits von Afrika", liegt in den Ngong-Hügeln.",
+        "Die Stadt hat sich zu einer begehrten Pendler-Wohnstadt (Vorort von Nairobi) entwickelt.",
+        "Das hügelige Gebiet wird oft von kenianischen Elite-Athleten als Trainingsort genutzt."
+      ]
+    },
+    {
+      "id": "kisii-cities-v2",
+      "descriptionAdvanced": "Kisii, auch liebevoll als "Bosongo" bekannt, ist das kommerzielle und kulturelle Herz des Gusii-Landes in Südwestkenia. Die Stadt zeichnet sich durch extrem fruchtbare Böden und ständigen Regenfall aus, was sie zu einem landwirtschaftlichen Powerhouse macht. Kisii ist das absolute Zentrum für den Anbau von Bananen in Kenia und ein Großproduzent von Tee und Kaffee. Eine Besonderheit der Region ist das im Vorort Tabaka abgbaute Speckstein-Mineral (Soapstone). Die Kisii-Specksteinschnitzereien – handgemachte Skulpturen in rosa, weißen und schwarzen Tönen – sind weltweit begehrt. Mit einer enorm hohen Bevölkerungsdichte wächst die Stadt rasant und ist ein Zentrum für Bildungseinrichtungen wie die Kisii University sowie Krankenhäuser (Wirtschaft & Kunst K7).",
+      "factsAdvanced": [
+        "Kisii ist das Zentrum und die Hauptstadt des mehrheitlich von Abagusii bewohnten Countys.",
+        "Die Region erhält überdurchschnittlich viel Regen und ist von grünen Hügeln geprägt.",
+        "Die Stadt ist Kenias führender Produzent und Umschlagplatz für Bananen.",
+        "Das nahe Tabaka ist weltberühmt für den Abbau und die Schnitzerei von Speckstein (Soapstone).",
+        "Die Kisii University wurde 2013 zur Volluniversität ernannt und trieb das Wachstum an.",
+        "Aufgrund der hügeligen Topografie leiden die Straßen oft unter massiven Erdrutschen."
+      ]
+    },
+    {
+      "id": "hola-cities-v2",
+      "descriptionAdvanced": "Hola ist eine heiße, flache Wüstenstadt und das Verwaltungszentrum des Tana River Countys. Die Siedlung liegt direkt am Ufer des Tana-Flusses, der Kenias längster Fluss ist und als grüne Lebensader durch die sonst völlig semiaride Region fließt. Hola erlangte in den 1950er Jahren während des Mau-Mau-Aufstandes traurige Berühmtheit durch das Hola-Massaker in einem britischen Internierungslager, ein Ereignis, das den Unabhängigkeitskampf Kenias maßgeblich beeinflusste. Heute ist die Wirtschaft stark vom Bura und Hola Irrigation Scheme abhängig, riesigen Bewässerungsprojekten, die den Anbau von Baumwolle und Mais in der Wüste ermöglichen. Die Bevölkerung, dominiert von den Pokomo (Bauern) und den Orma und Wardei (Viehhirten), ist stark von den unberechenbaren Überschwemmungen des Flusses abhängig (Geschichte K8).",
+      "factsAdvanced": [
+        "Hola liegt in der trockenen Tana-River-Region, direkt am Flussufer.",
+        "Die Stadt war 1959 Schauplatz des Hola-Massakers während des Mau-Mau-Aufstandes.",
+        "Das Hola Irrigation Scheme nutzt das Flusswasser zum landwirtschaftlichen Anbau in der Halbwüste.",
+        "Die dominierenden ethnischen Gruppen sind die Pokomo, Orma und Wardei.",
+        "Die Region leidet regelmäßig unter extremen Überschwemmungen durch den Tana-Fluss.",
+        "Südlich von Hola liegt das Tana River Primate Reserve, Heimat hochgradig bedrohter Affenarten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-rafael-oriente-cities-v2",
+      "descriptionAdvanced": "San Rafael Oriente egy békés és barátságos település az ország keleti részén, San Miguel megyében. A város széles, termékeny síkságon terül el, ahol a mezőgazdaság, különösen a gabonatermesztés és az állattenyésztés jelenti a közösség fő bevételi forrását. A helyi élet ritmusát a nyugalom és az erős társadalmi összetartás jellemzi, amely hiteles betekintést nyújt a keleti régió tradicionális hétköznapjaiba. A város a régió fontos mezőgazdasági központja, amely a San Miguel-hegység közelében fekszik. Földrajz K6 — Kelet-Salvador mezőgazdasági régiói.",
+      "factsAdvanced": [
+        "A régió gazdasági alapja a hagyományos mezőgazdasági termelés.",
+        "San Rafael Oriente közel található a jelentős San Miguel városhoz.",
+        "A település lakossága erős közösségi szellemmel bír.",
+        "A környező síkságok kedvező feltételeket biztosítanak a gabonatermesztéshez.",
+        "A városka autentikus élményt kínál az utazóknak a keleti országrészben.",
+        "A hagyományos gazdálkodási módszerek máig megőrződtek."
+      ]
+    }
+  ]
+}

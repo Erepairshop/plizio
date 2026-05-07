@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nkurenkuru-cities-v2",
+      "descriptionAdvanced": "Nkurenkuru, malerisch am Südufer des Kavango-Flusses gelegen, ist die Hauptstadt der Kavango-West-Region im äußersten Norden Namibias. Gegründet als eine finnische Missionsstation, war die kleine Siedlung lange Zeit von Cuangar, das direkt gegenüber am angolanischen Ufer liegt, wirtschaftlich geprägt. Erst 2006 erhielt Nkurenkuru offiziell den Stadtstatus und ist seitdem rasant gewachsen. Heute bildet die Stadt einen strategischen Knotenpunkt an der neuen asphaltierten Fernstraße, die Rundu mit dem Owamboland verbindet. Geografie K7 — Flusssiedlungen und Infrastrukturentwicklung.",
+      "factsAdvanced": [
+        "Die Stadt wurde 2006 offiziell als eigenständige Stadtkemenate proklamiert.",
+        "Nkurenkuru ist seit 2013 die offizielle Hauptstadt der neu geschaffenen Kavango-West-Region.",
+        "Direkt gegenüber auf der angolanischen Seite des Kavango liegt die Stadt Cuangar.",
+        "Ein wichtiger Wirtschaftszweig in der Region ist die traditionelle Holzverarbeitung.",
+        "Die Stadt wurde in den späten 1890er Jahren als finnische Missionsstation gegründet.",
+        "Der nahegelegene Fluss liefert das notwendige Wasser für lokale Bewässerungsprojekte."
+      ]
+    },
+    {
+      "id": "henties-bay-cities-v2",
+      "descriptionAdvanced": "Henties Bay ist ein idyllischer Küstenort, der an den kargen Stränden der Skelettküste zwischen Swakopmund und Cape Cross liegt. Die Siedlung entstand erst 1929, als der Rhinozerosjäger und Abenteurer Major Hentie van der Merwe hier eine frische Wasserquelle im meist trockenen Omaruru-Flussbett entdeckte. In der Folgezeit entwickelte sich der Ort zu einem beliebten Zufluchtsort für begeisterte Sportfischer und Naturliebhaber. Während der südafrikanischen Schulferien im Dezember vervielfacht sich die Einwohnerzahl oft, wenn Touristen der extremen Hitze im Landesinneren entfliehen. Geografie K6 — Küstentourismus und Wüstenklima.",
+      "factsAdvanced": [
+        "Die Siedlung wurde nach Hentie van der Merwe benannt, der hier 1929 Wasser fand.",
+        "Henties Bay erhielt im Jahr 1997 den offiziellen Status einer Gemeinde (Municipality).",
+        "Der Ort liegt an der Mündung des ephemeren (meist trockenen) Omaruru-Flusses.",
+        "Im Sommer (Dezember/Januar) steigen die Einwohnerzahlen durch Touristen auf über 10.000.",
+        "Das Zeila-Schiffswrack liegt nur 14 Kilometer südlich der Stadt am Strand.",
+        "Etwa 70 Kilometer nördlich befindet sich das berühmte Cape Cross Robbenreservat."
+      ]
+    },
+    {
+      "id": "arandis-cities-v2",
+      "descriptionAdvanced": "Arandis, das oft als die 'Uranhauptstadt der Welt' bezeichnet wird, ist eine Planstadt in der Erongo-Region, die mitten in der namibischen Wüste aus dem Nichts erschaffen wurde. Sie wurde 1978 von der Rössing Uranium Limited exklusiv für die Arbeiter der riesigen Rössing-Uranmine erbaut. Nach der namibischen Unabhängigkeit 1990 ging die Verwaltung der Stadt an den Staat über, und 1994 wurde Arandis der formelle Stadtstatus verliehen. Heute beherbergt die Stadt das Namibian Institute of Mining and Technology (NIMT), welches eine entscheidende Rolle in der landesweiten Ausbildung von Fachkräften für den Bergbausektor spielt. Wirtschaft K8 — Bergbausiedlungen und Ausbildungszentren.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1978 speziell für die Mitarbeiter der Rössing-Mine errichtet.",
+        "Im Jahr 1994 erhielt Arandis den offiziellen Status einer eigenen Stadtverwaltung.",
+        "Das 1991 gegründete Namibian Institute of Mining and Technology (NIMT) hat hier seinen Hauptsitz.",
+        "Arandis liegt etwa 15 Kilometer vom massiven Tagebau der Rössing-Mine entfernt.",
+        "Die nahegelegene Husab-Mine, eröffnet 2016, hat der Stadt neuen wirtschaftlichen Aufschwung gebracht.",
+        "Trotz ihrer Lage in der trockenen Wüste wird die Stadt durch ein Pipeline-System versorgt."
+      ]
+    },
+    {
+      "id": "otavi-cities-v2",
+      "descriptionAdvanced": "Otavi ist eine charmante, baumreiche Stadt im fruchtbaren Norden Namibias und bildet zusammen mit Grootfontein und Tsumeb das sogenannte Otavi-Dreieck. Dieses Gebiet zeichnet sich durch überdurchschnittlich hohe Niederschläge aus und wird oft als die 'Kornkammer' Namibias bezeichnet. Die Region um Otavi ist bekannt für weitläufige Mais- und Weizenfelder sowie die intensive Rinderzucht. Die historische Entwicklung der Stadt ist eng mit dem Kupferbergbau in der Region und dem Bau der Otavibahn verbunden, die die Minen mit der Küste verband. Wirtschaft K7 — Landwirtschaftliche Gunsträume.",
+      "factsAdvanced": [
+        "Das Otavi-Dreieck profitiert von jährlichen Niederschlägen von über 500 mm.",
+        "Die Region ist das wichtigste Anbaugebiet für weißen Mais in ganz Namibia.",
+        "Am 9. Juli 1915 kapitulierten nahe Khorab die deutschen Truppen vor der südafrikanischen Armee.",
+        "Die historische Otavibahn erreichte die Siedlung in den frühen 1900er Jahren.",
+        "In der Nähe befindet sich das Khorab-Denkmal, das an die Kapitulation erinnert.",
+        "Etwa 24 km außerhalb von Otavi liegt die Elefantenhöhle (Elephant's Cave), eine tiefe Karsthöhle."
+      ]
+    },
+    {
+      "id": "bethanie-cities-v2",
+      "descriptionAdvanced": "Bethanie, gelegen im extrem trockenen Süden Namibias in der Region ||Kharas, ist eine der ältesten Siedlungen des Landes. Der Ort wurde 1814 von dem deutschen Missionar Heinrich Schmelen von der Londoner Missionsgesellschaft gegründet. Bemerkenswert ist das Schmelenhaus, das 1814 erbaut wurde und bis heute als das älteste noch stehende Gebäude Namibias gilt. Die Ortschaft ist tief in der Geschichte der Nama-Kultur verwurzelt und war das historische Zentrum der Bethanien-Nama unter Kaptein Josef Frederiks. Die Wirtschaft der kleinen Gemeinde ist heute hauptsächlich von der kleinbäuerlichen Landwirtschaft geprägt. Geschichte K8 — Frühe Missionen und indigene Völker.",
+      "factsAdvanced": [
+        "1814 von Heinrich Schmelen als Missionstation gegründet.",
+        "Das Schmelenhaus ist das älteste erhaltene Steingebäude im gesamten Land Namibia.",
+        "Im Schmelenhaus wurde das erste Nama-Wörterbuch verfasst.",
+        "Kaptein Josef Frederiks verkaufte 1883 das Gebiet von Lüderitzbucht an Adolf Lüderitz.",
+        "Die historische rheinische Missionskirche in Bethanie wurde 1859 geweiht.",
+        "Bethanie liegt an der Schotterstraße C14 zwischen Goageb und Helmeringhausen."
+      ]
+    },
+    {
+      "id": "ruacana-cities-v2",
+      "descriptionAdvanced": "Ruacana ist eine strategisch wichtige Grenzstadt im äußersten Nordwesten Namibias in der Omusati-Region. Sie liegt direkt am Kunene-Fluss, der hier eine natürliche Grenze zu Angola bildet. Die Stadt ist landesweit bekannt für das Ruacana-Wasserkraftwerk, das in den 1970er Jahren erbaut wurde und einen Großteil des namibischen Strombedarfs deckt. Die eindrucksvollen Ruacana-Fälle, die in der Regenzeit über eine Kante von mehr als 120 Metern in die Tiefe stürzen, sind ein Hauptanziehungspunkt für Touristen in dieser ansonsten sehr trockenen, rauen Landschaft. Geografie K7 — Wasserkraft und Flusssysteme.",
+      "factsAdvanced": [
+        "Das Ruacana-Wasserkraftwerk wurde 1978 in Betrieb genommen.",
+        "Mit einer Kapazität von 330 Megawatt ist es das größte Kraftwerk in Namibia.",
+        "Die Ruacana-Fälle weisen eine Fallhöhe von etwa 120 Metern auf.",
+        "In der Trockenzeit fällt der Wasserstand an den Fällen drastisch, da das Wasser für die Stromerzeugung umgeleitet wird.",
+        "Die Stadt verfügt über einen Grenzübergang nach Calueque in Angola.",
+        "Ursprünglich war die Stadt stark durch südafrikanische Militärpräsenz geprägt."
+      ]
+    },
+    {
+      "id": "maltahohe-cities-v2",
+      "descriptionAdvanced": "Maltahöhe liegt malerisch auf einer Hochebene in der Region Hardap und ist ein wesentlicher Versorgungspunkt auf dem Weg von Südnamibia in den berühmten Namib-Naukluft-Park. Gegründet 1899 durch Hauptmann Henning von Burgsdorff, wurde der Ort nach seiner Frau Malta benannt. Die kleine, landwirtschaftlich geprägte Gemeinde lebt hauptsächlich von der Karakulschaf- und Rinderzucht. Überregional bekannt ist das historische Hotel Maltahöhe, das 1907 erbaut wurde und bis heute der älteste kontinuierlich betriebene Hotelbetrieb in Namibia ist. Geschichte K7 — Pioniere, Siedlungen und Tourismus.",
+      "factsAdvanced": [
+        "Die Siedlung wurde 1899 durch Henning von Burgsdorff etabliert.",
+        "Sie erhielt ihren Namen zu Ehren von Maltahöhe, der Ehefrau des Hauptmanns.",
+        "Das Hotel Maltahöhe wurde 1907 erbaut und rühmt sich, das älteste Hotel Namibias zu sein.",
+        "Die Stadt ist ein beliebter Stopp auf der touristischen Route nach Sossusvlei.",
+        "In der Region liegt das Schloss Duwisib, ein bizarres Bauwerk aus dem Jahr 1909.",
+        "Rund 30 km entfernt finden sich die Wasserstellen auf der Gästefarm Namib Rand."
+      ]
+    },
+    {
+      "id": "khorixas-cities-v2",
+      "descriptionAdvanced": "Khorixas, die ehemalige Hauptstadt des Damaralandes vor der Unabhängigkeit, liegt eingebettet in die raue, zerklüftete Landschaft der Kunene-Region. Die Stadt ist der ideale Ausgangspunkt für Erkundungstouren zu den weltweit einzigartigen geologischen und historischen Wundern der Umgebung, darunter der Versteinerte Wald, die Orgelpfeifen (spektakuläre Basaltsäulen) und die antiken Felsgravuren von Twyfelfontein. Heute ist Khorixas ein ruhiges Verwaltungszentrum, dessen Wirtschaft in erster Linie von der Landwirtschaft in den semi-ariden Gebieten und zunehmend vom internationalen Ökotourismus gestützt wird. Geografie K8 — Prähistorische Kunst und Geologie.",
+      "factsAdvanced": [
+        "Vor der Unabhängigkeit Namibias 1990 war Khorixas das administrative Zentrum des Damaralandes.",
+        "Nur 40 Kilometer entfernt befindet sich der berühmte Versteinerte Wald mit 280 Millionen Jahre alten Baumstämmen.",
+        "Twyfelfontein, Namibias erstes UNESCO-Weltkulturerbe, liegt etwa 90 Kilometer westlich.",
+        "Die Stadt hieß ursprünglich Welwitschia, bevor sie umbenannt wurde.",
+        "In der Umgebung leben noch die seltenen und stark bedrohten Wüstenelefanten.",
+        "Die beeindruckenden Vingerklip (ein 35 Meter hoher Felsmonolith) liegen in der Region."
+      ]
+    },
+    {
+      "id": "kamanjab-cities-v2",
+      "descriptionAdvanced": "Kamanjab ist ein kleines, aber strategisch gelegenes Dorf im Westen der Region Kunene. Es fungiert als westliches Tor zum Etosha-Nationalpark, da sich das Galton-Tor, einer der Hauptzugänge zum Park, nur wenige Kilometer entfernt befindet. Die Region um Kamanjab ist geprägt von massiven Granitkuppen, trockener Mopane-Savanne und großen Rinderfarmen. Für Touristen ist der Ort auch der letzte große Versorgungsstopp vor der Fahrt in das extrem abgeschiedene Kaokoland im Nordwesten Namibias. Die Begegnung mit den traditionell lebenden Himba ist hier in speziellen Dörfern möglich. Geografie K6 — Logistik in Randregionen und Nationalparks.",
+      "factsAdvanced": [
+        "Das Galton Gate zum Etosha-Nationalpark liegt nur rund 70 Kilometer östlich des Ortes.",
+        "Kamanjab liegt auf der Verbindungsroute zwischen Outjo und Opuwo.",
+        "In der Nähe befindet sich das bekannte Otjikandero Himba Orphanage Village.",
+        "Peet Alberts Koppie, ein felsiger Hügel in der Umgebung, weist über 1200 Felsgravuren auf.",
+        "Der Name Kamanjab stammt aus dem Herero und bedeutet 'Ort der Steine'.",
+        "Die Stadt wird von großen Felsformationen aus rotem Granit flankiert."
+      ]
+    },
+    {
+      "id": "okakarara-cities-v2",
+      "descriptionAdvanced": "Okakarara ist die inoffizielle Hauptstadt und das Herzland der Herero-Gemeinschaft in der Region Otjozondjupa im Osten Namibias. Bekannt wurde die Stadt durch die große jährliche Handelsmesse, die Okakarara Trade Fair, die nicht nur wirtschaftliche Bedeutung hat, sondern auch ein wichtiges kulturelles Ereignis für Viehzüchter und Farmer aus dem gesamten Land darstellt. Etwa 28 Kilometer außerhalb der Stadt liegt das Waterberg-Plateau, eine markante Sandsteinformation, an deren Hängen 1904 die entscheidende Schlacht am Waterberg zwischen den Herero und den deutschen Schutztruppen stattfand. Geschichte K8 — Hererokrieg und Agrarmessen.",
+      "factsAdvanced": [
+        "Die Okakarara Trade Fair ist eine der größten landwirtschaftlichen Messen in Namibia.",
+        "Die Schlacht am Waterberg fand am 11. August 1904 nur etwa 28 km von der Stadt entfernt statt.",
+        "Okakarara beherbergt ein stark besuchtes Community Cultural Centre zur Förderung des Handwerks.",
+        "In der Region liegt der Waterberg-Plateau-Nationalpark, ein Schutzgebiet für seltene Arten wie Nashörner.",
+        "Die Stadt hat sich seit der Unabhängigkeit stark vergrößert und ist ein Zentrum der Rinderzucht.",
+        "Das nahegelegene Plateau ragt bis zu 200 Meter über der umgebenden Ebene auf."
+      ]
+    },
+    {
+      "id": "aranos-cities-v2",
+      "descriptionAdvanced": "Aranos ist eine abgelegene Kleinstadt im östlichen Teil der Hardap-Region, eingebettet in die eindrucksvollen roten Sanddünen der Kalahari-Wüste. Gegründet 1925 als Posten für Kamelreiterpatrouillen der südafrikanischen Polizei zur Grenzsicherung gegen Botswana, hat sich die Siedlung langsam zu einem Zentrum der Karakulschaf- und Rinderzucht entwickelt. Der Name Aranos ist eine moderne Zusammensetzung aus dem Namen des örtlichen Farmers Ara und dem Wort Nossob, nach dem gleichnamigen ephemeren Fluss. Die Region ist von weitläufigen kommerziellen Farmen geprägt, die trotz der extremen Trockenheit der Kalahari erfolgreich wirtschaften. Wirtschaft K7 — Tierzucht in der Kalahari.",
+      "factsAdvanced": [
+        "Die Siedlung wurde 1925 ursprünglich als 'Arahoab' gegründet.",
+        "Der aktuelle Name Aranos wurde in den 1930er Jahren etabliert, um Verwechslungen mit Aroab zu vermeiden.",
+        "Aranos liegt direkt am Ufer des Trockenflusses Nossob.",
+        "Die Kalahari-Dünen der Umgebung sind für ihre markante rötliche Färbung durch Eisenoxid bekannt.",
+        "Der Hauptwirtschaftszweig ist die Karakul-Schafzucht (Persianerpelze).",
+        "Die Stadt befindet sich etwa 190 Kilometer östlich von Mariental."
+      ]
+    },
+    {
+      "id": "stampriet-cities-v2",
+      "descriptionAdvanced": "Stampriet ist ein unerwartetes landwirtschaftliches Juwel mitten in der lebensfeindlichen Kalahari. Es liegt am fruchtbaren Ufer des Auob-Flusses in der Region Hardap und profitiert maßgeblich von einem massiven artesischen Grundwasserbecken (dem Stampriet-Becken). Dank dieser zuverlässigen, jahrhundertealten Wasserquelle hat sich Stampriet zu einem florierenden Zentrum für die Bewässerungswirtschaft entwickelt, das erstaunliche Ernten an Zitrusfrüchten, Gemüse und vor allem Melonen hervorbringt. Historisch gesehen war Stampriet der Schauplatz von Gefechten zwischen deutschen Truppen und den von Hendrik Witbooi geführten Nama. Geografie K7 — Artesische Becken und Oasenwirtschaft.",
+      "factsAdvanced": [
+        "Das Stampriet Artesian Basin ist eines der größten unterirdischen Wasserreservoirs Namibias.",
+        "Aus den artesischen Brunnen der Region tritt das Wasser oft ohne Pumpen an die Oberfläche.",
+        "In Stampriet befindet sich die 1912 gegründete, älteste noch existierende Grundschule des Südens.",
+        "In der Region gedeihen dank des Grundwassers auch anspruchsvolle Pflanzen wie Weintrauben.",
+        "Historisch gab es hier 1904 bis 1905 schwere Kämpfe im Nama-Aufstand.",
+        "Die Stadt verzeichnet trotz der Kalahari-Lage extrem grüne Farmgebiete entlang des Flusses."
+      ]
+    },
+    {
+      "id": "gibeon-cities-v2",
+      "descriptionAdvanced": "Gibeon, eine verstaubte Kleinstadt in der trockenen Hardap-Region, ist untrennbar mit der faszinierenden Geschichte der Nama und ihrem legendären Kaptein Hendrik Witbooi verbunden. Der Ort wurde 1863 von dem deutschen Missionar Johannes Olpp benannt und in den darauffolgenden Jahren zum Zentrum des Witbooi-Clans. Weltberühmt wurde Gibeon jedoch vor allem durch den Gibeon-Meteoritenschauer, bei dem vor Tausenden von Jahren Tonnen von extraterrestrischem Nickel-Eisen-Gestein über einem riesigen Gebiet herabregneten. Viele der dort gefundenen Fragmente sind heute im Post Street Mall in Windhoek ausgestellt. Astronomie K8 — Meteoritenschauer und historische Clans.",
+      "factsAdvanced": [
+        "1863 benannte der Missionar Johannes Olpp den Ort nach der biblischen Stadt Gibeon.",
+        "Kaptein Hendrik Witbooi führte von Gibeon aus seine Kampagnen gegen die deutsche Kolonialmacht.",
+        "Das Streugebiet des Gibeon-Meteoritenschauers ist über 275 Kilometer lang und 100 km breit.",
+        "Rund 33 Fragmente des Meteoriten sind in der Post Street Mall in Windhoek öffentlich ausgestellt.",
+        "Die Meteoriten bestehen zu etwa 90% aus Eisen und 8% aus Nickel.",
+        "Gibeon war die Kulisse intensiver Kämpfe während des Nama-Aufstandes 1904–1905."
+      ]
+    },
+    {
+      "id": "aroab-cities-v2",
+      "descriptionAdvanced": "Aroab liegt im tiefsten Südosten Namibias in der Region ||Kharas, nur knapp 40 Kilometer von der Grenze zu Südafrika (Rietfontein-Grenzübergang) entfernt. Gegründet von einem Schotten und später als deutsche Polizeistation genutzt, ist der Ort geprägt von der massiven Isolation der südafrikanischen Kalahari-Randzone. Die Wirtschaft von Aroab ist stark von der Karakulschafzucht und Fleischrinderwirtschaft abhängig. Mit seinen heißen Sommern und eiskalten Winternächten stellt das Leben in Aroab höchste Anforderungen an die Farmer, die sich auf das knappe Wasser aus unterirdischen Reservoirs verlassen müssen. Geografie K6 — Isolation und Grenzökonomie.",
+      "factsAdvanced": [
+        "Aroab liegt rund 170 Kilometer östlich von Keetmanshoop.",
+        "Die Gemeinde wurde um 1900 offiziell gegründet, wuchs jedoch nur langsam.",
+        "Der nahe Grenzübergang Rietfontein ist ein wichtiger Kanal für den Agrarexport nach Südafrika.",
+        "Aroab ist eine Enklave der Schafzucht inmitten der rötlichen Ausläufer der Kalahari.",
+        "Die durchschnittliche jährliche Niederschlagsmenge liegt oft unter 150 mm.",
+        "Die historische kleine römisch-katholische Kirche des Ortes wurde 1928 erbaut."
+      ]
+    },
+    {
+      "id": "koes-cities-v2",
+      "descriptionAdvanced": "Koës, ein kleines und beschauliches Dorf in der ||Kharas-Region, liegt an der Schwelle zu den massiven Dünen der südwestlichen Kalahari-Wüste. Der Ort verdankt seinen ungewöhnlichen Namen dem Khoekhoegowab-Wort für 'ein Ort mit viel Gestrüpp'. Koës entstand als Polizeistation der deutschen Schutztruppe in den frühen 1900er Jahren, um die Ostgrenze des Territoriums zu sichern. Heute ist die Ortschaft das Versorgungszentrum für die verstreuten Karakul- und Rinderfarmen der Region. Eine Kuriosität des Dorfes ist das jährliche 'Koës Pan Rally', ein berüchtigtes Offroad-Rennen in den extremen Bedingungen einer ausgetrockneten Salzpfanne. Sport K5 — Wüsten-Rallyes und Gemeindeleben.",
+      "factsAdvanced": [
+        "Das berühmte Koës Pan Rally ist eines der härtesten Offroad-Events Namibias.",
+        "Der Ort diente vor dem Ersten Weltkrieg als Grenzposten der deutschen Kolonialpolizei.",
+        "Koës liegt rund 130 Kilometer nordöstlich von Keetmanshoop.",
+        "Die Siedlung liegt auf einer Höhe von 975 Metern über dem Meeresspiegel.",
+        "Karakulschafe sind die Hauptquelle des Einkommens in dieser extrem wasserarmen Region.",
+        "Die Architektur des Dorfes umfasst noch einige historische Gebäude aus den 1920er Jahren."
+      ]
+    },
+    {
+      "id": "warmbad-cities-v2",
+      "descriptionAdvanced": "Warmbad ist eine historische Siedlung im äußersten Süden Namibias nahe der südafrikanischen Grenze, die für ihre natürlichen heißen Quellen bekannt ist, aus denen sich auch ihr Name ableitet. Die Region wurde bereits im späten 18. Jahrhundert von europäischen Forschern besucht und von Missionaren besiedelt, lange bevor der Rest des Landes kolonialisiert wurde. Die Bondelswarts, eine Untergruppe der Nama, haben Warmbad im 19. Jahrhundert zu ihrem Hauptquartier gemacht. Die Geschichte des Dorfes ist von blutigen Aufständen geprägt, insbesondere dem berüchtigten Bondelswart-Aufstand im Jahr 1922, der von der südafrikanischen Luftwaffe brutal niedergeschlagen wurde. Geschichte K8 — Der Bondelswart-Aufstand.",
+      "factsAdvanced": [
+        "Warmbad wurde um 1805 von den Londoner Missionaren Albrecht und Seidenfaden besucht.",
+        "Der Name der Stadt stammt von den natürlichen heißen Thermalquellen, die hier entspringen.",
+        "Der historische Bondelswart-Aufstand begann im Mai 1922 in Warmbad.",
+        "Das alte Gefängnis und das Fort in Warmbad wurden in ein kleines Museum umgewandelt.",
+        "Warmbad verzeichnet mit oft unter 100 mm Regen pro Jahr extrem arides Klima.",
+        "1903 wurde hier der deutsche Distriktchef Leutnant Walter Jobst von den Bondelswarts getötet."
+      ]
+    },
+    {
+      "id": "rosh-pinah-cities-v2",
+      "descriptionAdvanced": "Rosh Pinah ist eine geschäftige, isolierte Minenstadt im tiefen Süden Namibias, nur etwa 20 Kilometer nördlich des mächtigen Oranje-Flusses. Im Gegensatz zu vielen historischen Städten Namibias wurde Rosh Pinah erst in den späten 1960er Jahren nach der Entdeckung reicher Blei- und Zinkvorkommen aus dem Wüstensand gestampft. Der Name der Stadt ist hebräisch und bedeutet 'Eckstein'. Heute wird die Wirtschaft der Stadt massiv von den beiden riesigen Gruben getrieben: der unterirdischen Rosh-Pinah-Zinkmine und der 2003 eröffneten Skorpion-Zinkmine, die eine der größten Zinkminen Afrikas ist. Wirtschaft K6 — Industrieller Bergbau in der Wüste.",
+      "factsAdvanced": [
+        "Rosh Pinah wurde 1969 eigens für die Unterbringung von Minenarbeitern gegründet.",
+        "Die nahegelegene Skorpion Zinc Mine produziert jährlich über 150.000 Tonnen Zink.",
+        "Das Skorpion-Projekt war zum Zeitpunkt seines Baus eine Investition von fast 450 Millionen USD.",
+        "Die Stadt wird über Pipelines mit Wasser aus dem nahen Oranje-Fluss versorgt.",
+        "Der Name Rosh Pinah stammt aus der Bibel (Psalm 118:22) und bedeutet 'Eckstein'.",
+        "Trotz ihrer Größe wurde Rosh Pinah lange privat von den Minengesellschaften verwaltet."
+      ]
+    },
+    {
+      "id": "noordoewer-cities-v2",
+      "descriptionAdvanced": "Noordoewer ist ein markanter und strategisch wichtiger Grenzübergang am nördlichen Ufer des Oranje-Flusses, der Namibia und Südafrika (Vioolsdrif auf der anderen Seite) miteinander verbindet. Dank des reichlich vorhandenen Flusswassers sticht die Region mit ihren üppigen, intensiv grünen Weinfeldern und Plantagen stark aus der ansonsten extrem kargen Umgebung hervor. Der Ort ist ein Mekka für den Weinanbau und berühmt für die Produktion von Tafeltrauben und Rosinen von Weltklasse-Qualität. Zudem hat sich Noordoewer als Startpunkt für spektakuläre mehrtägige Kanu- und Rafting-Touren durch die rauen Canyons des Oranje-Flusses etabliert. Geografie K7 — Bewässerungslandwirtschaft und Abenteuertourismus.",
+      "factsAdvanced": [
+        "Der Grenzübergang bei Noordoewer liegt auf der strategisch wichtigen Nationalstraße B1.",
+        "Die Region profitiert vom warmen Wüstenklima in Kombination mit dem Oranje-Wasser.",
+        "Tafeltrauben aus Noordoewer erreichen aufgrund des Klimas oft als erste den europäischen Markt.",
+        "Der Name bedeutet wörtlich übersetzt aus dem Afrikaans 'Nordufer'.",
+        "Kanu-Expeditionen starten oft hier und durchqueren den Ai-Ais Richtersveld Transfrontier Park.",
+        "Die Sommer-Temperaturen in Noordoewer können häufig extrem auf über 45 Grad Celsius ansteigen."
+      ]
+    },
+    {
+      "id": "aussenkehr-cities-v2",
+      "descriptionAdvanced": "Aussenkehr ist ein landwirtschaftliches Phänomen am Ufer des Oranje-Flusses, das sich in den letzten Jahrzehnten von einer staubigen Wüstenfarm zu einem der größten Tafel-Trauben-Produzenten der südlichen Hemisphäre entwickelt hat. Die Region profitiert von dem speziellen Mikroklima im Flusstal: intensive Sonneneinstrahlung und reichlich Flusswasser schaffen perfekte Bedingungen für den Weinbau, sodass die Ernten Wochen vor den südafrikanischen Trauben auf den Weltmarkt gelangen. Zur Erntezeit zwischen Oktober und Dezember schwillt die Bevölkerung von Aussenkehr dramatisch an, da Tausende von Saisonarbeitern aus dem weiten Norden Namibias in riesige, oft provisorische Schilfhütten-Siedlungen strömen. Landwirtschaft K8 — Saisonarbeit und Exportwirtschaft.",
+      "factsAdvanced": [
+        "Aussenkehr ist der unangefochten größte Produzent von Tafeltrauben in ganz Namibia.",
+        "Zur Haupterntezeit arbeiten hier über 15.000 Saisonarbeiter auf den Farmen.",
+        "Viele Arbeiter leben temporär in charakteristischen Schilfhütten ohne fließendes Wasser.",
+        "Die erste kommerzielle Ernte für den Export fand in den frühen 1990er Jahren statt.",
+        "Die Trauben werden in hochmodernen Packhäusern für Europa und Asien aufbereitet.",
+        "Der Name Aussenkehr stammt aus der deutschen Kolonialzeit und bezieht sich auf die Flusskrümmung."
+      ]
+    },
+    {
+      "id": "aus-cities-v2",
+      "descriptionAdvanced": "Aus, eingebettet in die schroffen Aus-Berge der extremen Karas-Region, ist ein Ort tief verwurzelt in der namibischen Geschichte. Während des Ersten Weltkriegs im Jahr 1915 erbauten die südafrikanischen Streitkräfte hier ein Kriegsgefangenenlager, in dem fast 1550 deutsche Offiziere und Soldaten der Schutztruppe bis 1919 unter extrem harten Wüstenbedingungen interniert waren. Heute ist Aus jedoch vor allem weltberühmt für die legendären namibischen Wüstenpferde ('Namib Desert Horses'). Diese feralen Pferde haben sich über Generationen an die unfassbare Trockenheit der Namib angepasst und durchstreifen frei die weiten Flächen am Rande des Sperrgebiets. Biologie K7 — Feralisation und Anpassung in Wüsten.",
+      "factsAdvanced": [
+        "Das Kriegsgefangenenlager für deutsche Soldaten war in Aus von 1915 bis 1919 in Betrieb.",
+        "Die wilden Wüstenpferde umfassen eine Population von normalerweise etwa 90 bis 150 Tieren.",
+        "Viele der Wüstenpferde trinken an der künstlich geschaffenen Wasserstelle Garub nahe Aus.",
+        "Der Ursprung der Pferde geht vermutlich auf freigelassene südafrikanische Militärpferde zurück.",
+        "Aus liegt an der historischen Eisenbahnstrecke (gebaut 1906), die Lüderitz mit Keetmanshoop verbindet.",
+        "Im Jahr 1918 brach im Gefangenenlager in Aus die Spanische Grippe mit verheerenden Folgen aus."
+      ]
+    },
+    {
+      "id": "uis-cities-v2",
+      "descriptionAdvanced": "Uis ist ein staubiges, kleines Bergbaudorf in der dramatischen Landschaft der Erongo-Region, am Fuße des gigantischen Brandberg-Massivs, dem höchsten Berg Namibias. Gegründet 1958, verdankt Uis seine Existenz der großen Zinnmine, die in den 1980er Jahren die größte Zinn-Tagebaumine der Welt war. Als der globale Zinnpreis 1990 dramatisch einbrach, wurde die Mine geschlossen, was den Ort in eine tiefe wirtschaftliche Krise stürzte. Heute erlebt Uis eine bescheidene Wiederbelebung durch Touristen, die auf dem Weg zu den weltberühmten Felszeichnungen der 'Weißen Dame' am Brandberg hier einen Versorgungsstopp einlegen, sowie durch neuerliches Interesse am Abbau von seltenen Erden und Lithium. Geografie K7 — Bergbau-Zyklen und Tourismus.",
+      "factsAdvanced": [
+        "Die Uis-Zinnmine war in den 1980er Jahren die größte offene Zinnmine weltweit.",
+        "Der globale Preisverfall führte im Jahr 1990 zur vorübergehenden Schließung der Mine.",
+        "Uis liegt etwa 30 Kilometer vom majestätischen Brandbergmassiv entfernt.",
+        "Die berühmte Felsmalerei der 'White Lady' am Brandberg zieht Tausende Besucher an.",
+        "Neben Zinn werden hier auch Halbedelsteine wie Amethyst und Turmalin abgebaut.",
+        "In den letzten Jahren wurde der Bergbau wegen des Bedarfs an Tantal und Lithium reaktiviert."
+      ]
+    },
+    {
+      "id": "okombahe-cities-v2",
+      "descriptionAdvanced": "Okombahe ist ein historisches Zentrum am malerischen, von Akazienbäumen gesäumten Ufer des ephemeren Omaruru-Flusses in der Erongo-Region. Der Ort ist von herausragender Bedeutung für das Volk der Damara; 1970 wurde Okombahe von der südafrikanischen Apartheid-Verwaltung zur offiziellen Hauptstadt des damaligen Damaraland-Homelands ernannt. Noch heute ist die Stadt Sitz des obersten traditionellen Führers (des Gaob) der Damara. Die Siedlung, die stark von Kleinbauern geprägt ist, strahlt mit ihren staubigen Pisten und den majestätischen Erongo-Bergen im Hintergrund eine tiefe kulturelle Beständigkeit aus. Geschichte K7 — Das Apartheidsystem der Homelands.",
+      "factsAdvanced": [
+        "Die Rheinische Missionsgesellschaft etablierte Okombahe im Jahr 1870.",
+        "1970 wurde der Ort zur Verwaltungshauptstadt des Homeland-Gebiets Damaraland erklärt.",
+        "Okombahe liegt am Rande der imposanten Erongo-Gebirgskette.",
+        "Der Ort ist der Sitz des amtierenden Königs (Gaob) der Damara-Volksgruppe.",
+        "Hier befindet sich das Denkmal von Justus Garoëb, einem bedeutenden Führer der Damara.",
+        "Der Omaruru-Fluss führt hier nur nach starken Regenfällen im Hochland kurzzeitig Wasser."
+      ]
+    },
+    {
+      "id": "omatjete-cities-v2",
+      "descriptionAdvanced": "Omatjete ist eine abgeschiedene Siedlung im tiefen Hinterland der Erongo-Region, eingebettet zwischen sanften, trockenen Hügeln und dem rauen Damaraland. Bekannt wurde der Ort vor allem durch die Omatjete-Rinderrasse, eine hier speziell gezüchtete Kreuzung aus Sanga- und Afrikanerrindern, die perfekt an extreme Trockenheit und Dürreperioden angepasst ist. Omatjete dient als infrastruktureller Mittelpunkt für viele verstreute traditionelle Kommunalfarmen. Die Versorgung mit Trinkwasser ist aufgrund der semiariden Wüstenbedingungen oft eine immense Herausforderung, was das Überleben in der Region zu einer täglichen Pionieraufgabe macht. Geografie K6 — Tierzucht unter extremen Bedingungen.",
+      "factsAdvanced": [
+        "Der Ort ist der Namensgeber der extrem dürreresistenten Omatjete-Rinderrasse.",
+        "Die Siedlung fungiert als zentraler Verwaltungssitz für das Omatjete-Kommunalgebiet.",
+        "Die Bevölkerung besteht hier mehrheitlich aus Angehörigen des Herero-Volkes.",
+        "Omatjete liegt abseits der geteerten Straßen an einer staubigen Schotterpiste (D2344).",
+        "Die Infrastruktur ist grundlegend, umfasst aber eine wichtige Schule und eine Klinik.",
+        "Dürreperioden haben die Region in den letzten zehn Jahren wiederholt schwer getroffen."
+      ]
+    },
+    {
+      "id": "kalkfeld-cities-v2",
+      "descriptionAdvanced": "Kalkfeld ist ein stiller Knotenpunkt an der Eisenbahnlinie in der Region Otjozondjupa und liegt auf halbem Weg zwischen Omaruru und Otjiwarongo. Die Siedlung wurde 1907 als wichtige Verladesstation für Eisenerz, das im nahen Berg Eisenberg abgebaut wurde, gegründet. Der Name der Stadt leitet sich von den ausgedehnten, kalkhaltigen Böden der Region ab. Berühmt ist Kalkfeld auch für die historischen Fußabdrücke fleischfressender Dinosaurier, die etwa 29 Kilometer entfernt auf der Farm Otjihaenamaparero in 190 Millionen Jahre alten Sandsteinschichten entdeckt wurden und heute ein nationales Denkmal sind. Paläontologie K8 — Dinosaurierspuren und Geologie.",
+      "factsAdvanced": [
+        "Kalkfeld wurde 1907 als Eisenbahnstation der Otavibahn gegründet.",
+        "Die Dinosaurierspuren von Otjihaenamaparero wurden in Etjo-Sandstein konserviert.",
+        "Es wird vermutet, dass die großen Fußabdrücke von einem Ceratosaurier stammen.",
+        "Die historischen Dinosaurierspuren wurden 1951 zum Nationaldenkmal erklärt.",
+        "Die Siedlung ist heute hauptsächlich ein Versorgungszentrum für lokale Rinderfarmen.",
+        "Kalkfeld liegt etwa 1380 Meter über dem Meeresspiegel."
+      ]
+    },
+    {
+      "id": "hochfeld-cities-v2",
+      "descriptionAdvanced": "Hochfeld ist ein landwirtschaftliches Herzstück und eine kleine, aber sehr produktive Farmgemeinde im Zentrum der Region Otjozondjupa, nordöstlich von Okahandja. In dieser Gegend, die von großen kommerziellen Rinder- und Wildtierfarmen dominiert wird, zeigt sich der wahre Charakter der namibischen Weidewirtschaft. Die Gemeinde verfügt über wenig formelle städtische Infrastruktur – ihr Leben dreht sich vor allem um die lokale Polizeistation, den kleinen Einkaufsladen und die unzähligen, teils zehntausende Hektar großen Farmen der Umgebung. Hochfeld ist auch ein wichtiger logistischer Schnittpunkt auf den unbefestigten Straßen, die tief in die Omaheke-Region führen. Landwirtschaft K6 — Kommerzielle Rinderzucht in der Savanne.",
+      "factsAdvanced": [
+        "Hochfeld liegt strategisch an der Kreuzung wichtiger Schotterstraßen (C31 und C30).",
+        "Die Region ist geprägt von weiten Akazien-Savannen, die optimal für Rinder sind.",
+        "Die durchschnittliche Farmgröße in dieser Gegend beträgt oft über 5.000 Hektar.",
+        "Trotz seiner geringen Größe besitzt Hochfeld eine eigene Polizeistation als ländlichen Ankerpunkt.",
+        "Rinder aus dieser Region werden oft an das namibische Fleischunternehmen Meatco geliefert.",
+        "Wildtiere wie Kudu und Warzenschweine teilen sich die weiten Farmgebiete mit den Rindern."
+      ]
+    }
+  ]
+}

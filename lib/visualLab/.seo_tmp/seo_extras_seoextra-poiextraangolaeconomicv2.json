@@ -1,0 +1,81 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraAngolaEconomicV2.ts"],
+  "items": [
+    {
+      "id": "ao-port-of-luanda-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Luanda, der 1857 offiziell gegründet wurde, ist das wirtschaftliche Herzstück Angolas. Er verarbeitet jährlich Millionen Tonnen an Fracht, darunter Container, Massengüter und Fahrzeuge, und fungiert als primäres Tor zur Hauptstadtregion. Die Modernisierung des Terminals ist entscheidend, um den wachsenden logistischen Anforderungen des Landes gerecht zu werden, da hier über 70% der nationalen Importe abgefertigt werden. Erdkunde K7 – Häfen und Welthandel.",
+        "hu": "A Luandai kikötő, amelyet 1857-ben alapítottak hivatalosan, Angola gazdasági központja. Évente több millió tonna rakományt kezel, beleértve a konténereket, ömlesztett árukat és járműveket, és a fővárosi régió fő kapujaként szolgál. A terminál korszerűsítése elengedhetetlen az ország növekvő logisztikai igényeinek kielégítéséhez, mivel az országos import több mint 70%-a itt érkezik. Földrajz K7 – kikötők és világkereskedelem.",
+        "ro": "Portul Luanda, fondat oficial în 1857, este inima economică a Angolei. Acesta procesează anual milioane de tone de marfă, inclusiv containere, mărfuri în vrac și vehicule, servind drept poartă principală pentru regiunea capitalei. Modernizarea terminalului este crucială pentru a satisface cerințele logistice tot mai mari ale țării, având în vedere că peste 70% din importurile naționale sunt procesate aici. Geografie K7 – porturi și comerț mondial.",
+        "en": "The Port of Luanda, officially founded in 1857, is the economic heart of Angola. It processes millions of tons of cargo annually, including containers, bulk goods, and vehicles, acting as the primary gateway to the capital region. Modernizing the terminal is crucial to meet the country's growing logistical demands, as over 70% of national imports are handled here. Geography K7 – ports and global trade."
+      },
+      "factsAdvanced": {
+        "de": ["Über 70% des angolanischen Imports", "Gegründet im Jahr 1857", "Zentrale für den nationalen Handel", "Umschlag von Millionen Tonnen Fracht", "Strategischer Tiefseehafen", "Wichtigster logistischer Hub"],
+        "hu": ["Az angolai import több mint 70%-a", "1857-ben alapították", "A nemzeti kereskedelem központja", "Évente több millió tonna áru átrakodása", "Stratégiai mélyvízi kikötő", "A legfontosabb logisztikai központ"],
+        "ro": ["Peste 70% din importurile angoleze", "Fondat în 1857", "Centrul comerțului național", "Transbordarea a milioane de tone de marfă", "Port strategic de apă adâncă", "Cel mai important hub logistic"],
+        "en": ["Over 70% of Angolan imports", "Founded in 1857", "Center of national trade", "Transshipment of millions of tons of cargo", "Strategic deep-sea port", "Most important logistical hub"]
+      }
+    },
+    {
+      "id": "ao-port-of-lobito-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Lobito ist aufgrund seiner natürlichen Bucht und seiner strategischen Lage als Endpunkt der Benguelabahn unersetzlich. Die 1902 begonnene Eisenbahnlinie erstreckt sich über 1.300 km bis zur Grenze der Demokratischen Republik Kongo. Dieser Hafen ist der effizienteste Weg, um Mineralien und Rohstoffe aus Zentralafrika auf den globalen Markt zu bringen, was ihn zum Herzstück des Lobito-Korridors macht. Erdkunde K7 – Infrastruktur und Transportkorridore.",
+        "hu": "Lobito kikötője természetes öble és stratégiai elhelyezkedése miatt, mint a Benguela-vasút végállomása, nélkülözhetetlen. Az 1902-ben megkezdett vasútvonal több mint 1300 km hosszan nyúlik el a Kongói Demokratikus Köztársaság határáig. Ez a kikötő a leghatékonyabb módja a közép-afrikai ásványkincsek és nyersanyagok globális piacra juttatásának, ami a Lobito-folyosó központjává teszi. Földrajz K7 – infrastruktúra és közlekedési folyosók.",
+        "ro": "Portul Lobito este de neînlocuit datorită golfului său natural și locației strategice ca punct terminus al căii ferate Benguela. Linia ferată, începută în 1902, se întinde pe 1.300 km până la granița Republicii Democrate Congo. Acest port este cea mai eficientă modalitate de a aduce minerale și materii prime din Africa Centrală pe piața globală, făcându-l piesa centrală a Coridorului Lobito. Geografie K7 – infrastructură și coridoare de transport.",
+        "en": "The Port of Lobito is irreplaceable due to its natural bay and strategic location as the terminus of the Benguela Railway. The railway line, begun in 1902, stretches over 1,300 km to the border of the Democratic Republic of the Congo. This port is the most efficient way to get minerals and raw materials from Central Africa to the global market, making it the centerpiece of the Lobito Corridor. Geography K7 – infrastructure and transport corridors."
+      },
+      "factsAdvanced": {
+        "de": ["Über 1.300 km Bahnlänge für den Korridor", "Wichtigster Tiefwasserhafen des Südens", "Gegründet im frühen 20. Jahrhundert", "Zentrale Anbindung an den Kongo", "Wesentlicher Hub für den Kupfer-Export", "Natürliche Bucht als Hafenbecken"],
+        "hu": ["Több mint 1300 km vasútvonal a folyosón", "A déli régió legfontosabb mélyvízi kikötője", "A 20. század elején alapították", "Központi kapcsolat Kongóval", "Lényeges hub a rézexport számára", "Természetes öböl mint kikötőmedence"],
+        "ro": ["Peste 1.300 km de cale ferată în coridor", "Cel mai important port de apă adâncă din sud", "Fondat la începutul secolului XX", "Conexiune centrală cu Congo", "Hub esențial pentru exportul de cupru", "Golf natural ca bazin portuar"],
+        "en": ["Over 1,300 km of railway for the corridor", "Most important deep-water port in the south", "Founded in the early 20th century", "Central connection to Congo", "Essential hub for copper export", "Natural bay as harbor basin"]
+      }
+    },
+    {
+      "id": "ao-port-of-namibe-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Namibe, früher als Porto Alexandre bekannt, spielt eine zentrale Rolle für die wirtschaftliche Entwicklung im Süden Angolas. Der Hafen ist entscheidend für den Export von hochwertigem Granit und Eisenerz, das aus den Minen im Landesinneren stammt. Durch seine moderne Ausstattung dient er auch als wichtiger Knotenpunkt für die angolanische Fischereiindustrie, die die Nahrungssicherheit der Region unterstützt. Wirtschaft K8 – Ressourcenexport und lokale Industrie.",
+        "hu": "Namibe kikötője, amelyet korábban Porto Alexandre néven ismertek, központi szerepet játszik Angola déli részének gazdasági fejlődésében. A kikötő elengedhetetlen a kiváló minőségű gránit és a belső területekről származó vasérc exportjához. Modern felszereltségének köszönhetően fontos csomópontja az angolai halászati iparnak is, amely támogatja a régió élelmezésbiztonságát. Gazdaságtan K8 – nyersanyagexport és helyi ipar.",
+        "ro": "Portul Namibe, cunoscut anterior sub numele de Porto Alexandre, joacă un rol central în dezvoltarea economică din sudul Angolei. Portul este esențial pentru exportul de granit de înaltă calitate și minereu de fier din minele interioare. Datorită echipamentelor sale moderne, acesta servește și ca un nod important pentru industria pescuitului din Angola, susținând securitatea alimentară a regiunii. Economie K8 – exportul de resurse și industria locală.",
+        "en": "The Port of Namibe, formerly known as Porto Alexandre, plays a central role in economic development in southern Angola. The port is essential for the export of high-quality granite and iron ore from inland mines. Due to its modern equipment, it also serves as an important hub for the Angolan fishing industry, supporting the region's food security. Economics K8 – resource export and local industry."
+      },
+      "factsAdvanced": {
+        "de": ["Dritter Hafen des Landes nach Volumen", "Hauptstandort der Fischverarbeitung", "Exportknotenpunkt für Granit", "Versorgt die Namib-Provinz", "Zentrum für Erzverladung", "Wichtig für lokale Nahrungsmittelversorgung"],
+        "hu": ["Az ország harmadik kikötője térfogat szerint", "A halfeldolgozás fő helyszíne", "Gránitexport-csomópont", "Ellátja a Namib tartományt", "Ércrakodási központ", "Fontos a helyi élelmiszerellátáshoz"],
+        "ro": ["Al treilea port al țării ca volum", "Principala locație pentru procesarea peștelui", "Hub de export pentru granit", "Aprovizionează provincia Namib", "Centru de încărcare a minereului", "Important pentru aprovizionarea alimentară locală"],
+        "en": ["Third largest port in the country by volume", "Main location for fish processing", "Export hub for granite", "Supplies the Namib province", "Ore loading center", "Important for local food supply"]
+      }
+    },
+    {
+      "id": "ao-port-of-cabinda-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Cabinda ist eine geographisch vom Rest Angolas getrennte Exklave, was den lokalen Hafen für die Wirtschaft der Region absolut lebensnotwendig macht. Er ist primär auf den Güterverkehr zugeschnitten, der die ansässige Öl- und Gasindustrie versorgt, da diese Sektoren das wirtschaftliche Rückgrat der Enklave bilden. Neben der Ölindustrie ist der Hafen ein wichtiger Ankerpunkt für die lokalen Händler. Erdkunde K6 – Exklaven und regionale Wirtschaft.",
+        "hu": "Cabinda egy földrajzilag Angola többi részétől elválasztott exklávé, ami a helyi kikötőt a régió gazdasága számára abszolút nélkülözhetetlenné teszi. Elsősorban a helyi olaj- és gázipart kiszolgáló áruforgalomra szabták, mivel ezek az ágazatok alkotják az enklávé gazdasági gerincét. Az olajipar mellett a kikötő fontos horgony a helyi kereskedők számára. Földrajz K6 – exklávék és regionális gazdaság.",
+        "ro": "Cabinda este o exclavă separată geografic de restul Angolei, ceea ce face ca portul local să fie absolut vital pentru economia regiunii. Este adaptat în principal pentru traficul de mărfuri care deservește industria petrolieră și a gazelor locală, deoarece aceste sectoare formează coloana vertebrală economică a enclavei. Pe lângă industria petrolieră, portul este un punct de ancorare important pentru comercianții locali. Geografie K6 – exclave și economie regională.",
+        "en": "Cabinda is an exclave geographically separated from the rest of Angola, making the local port absolutely vital for the region's economy. It is primarily tailored to freight traffic serving the local oil and gas industry, as these sectors form the economic backbone of the enclave. Besides the oil industry, the port is an important anchor point for local traders. Geography K6 – exclaves and regional economy."
+      },
+      "factsAdvanced": {
+        "de": ["Kritische Versorgungslinie für die Exklave", "Hauptlogistik für Offshore-Projekte", "Unterstützt den lokalen Handel", "Wichtiger Ankerpunkt für Frachtschiffe", "Umschlagplatz für Industriegüter", "Infrastruktur für Öl-Service-Firmen"],
+        "hu": ["Az exklávé kritikus ellátási vonala", "Fő logisztika az offshore projektekhez", "Támogatja a helyi kereskedelmet", "Fontos horgony a teherhajók számára", "Ipari áruk átrakodóhelye", "Infrastruktúra az olajszolgáltató cégek számára"],
+        "ro": ["Linie de aprovizionare critică pentru exclavă", "Logistică principală pentru proiecte offshore", "Susține comerțul local", "Punct de ancorare important pentru navele de marfă", "Hub pentru mărfuri industriale", "Infrastructură pentru companii de servicii petroliere"],
+        "en": ["Critical supply line for the exclave", "Main logistics for offshore projects", "Supports local trade", "Important anchor point for cargo ships", "Hub for industrial goods", "Infrastructure for oil service companies"]
+      }
+    },
+    {
+      "id": "ao-port-of-soyo-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Soyo liegt strategisch günstig am Mündungsdelta des Kongoflusses und hat sich zu einem der bedeutendsten Industriehäfen in Angola entwickelt. Die Region ist eng mit der Ölförderung im Tiefwasserbereich und dem Angola LNG-Projekt verbunden. Der Hafen fungiert nicht nur als logistisches Zentrum für Energie, sondern ist auch ein Umschlagplatz für spezialisierte Ausrüstung, die für die komplexen Offshore-Operationen in diesem Sektor benötigt wird. Wirtschaft K8 – industrielle Infrastruktur.",
+        "hu": "Soyo stratégiai fekvésű a Kongó folyó deltájánál, és Angola egyik legjelentősebb ipari kikötőjévé vált. A régió szorosan kapcsolódik a mélyvízi olajkitermeléshez és az Angola LNG-projekthez. A kikötő nemcsak az energia logisztikai központjaként szolgál, hanem az ebben az ágazatban folyó összetett offshore műveletekhez szükséges speciális berendezések átrakodóhelye is. Gazdaságtan K8 – ipari infrastruktúra.",
+        "ro": "Soyo este situat strategic la delta fluviului Congo și a devenit unul dintre cele mai semnificative porturi industriale din Angola. Regiunea este strâns legată de extracția de petrol în ape adânci și de proiectul Angola LNG. Portul funcționează nu doar ca un centru logistic pentru energie, ci și ca un hub pentru echipamentele specializate necesare operațiunilor offshore complexe din acest sector. Economie K8 – infrastructură industrială.",
+        "en": "Soyo is strategically located at the delta of the Congo River and has developed into one of the most significant industrial ports in Angola. The region is closely linked to deep-water oil extraction and the Angola LNG project. The port acts not only as a logistics hub for energy, but also as a hub for specialized equipment needed for the complex offshore operations in this sector. Economics K8 – industrial infrastructure."
+      },
+      "factsAdvanced": {
+        "de": ["Direkte Anbindung an den Kongo-Fluss", "Unterstützt den LNG-Export", "Zentrum für Offshore-Ausrüstung", "Industrielle Knotenpunkte für Gas", "Strategische Küstenlage", "Wichtigster Hub für den Norden"],
+        "hu": ["Közvetlen kapcsolat a Kongó folyóval", "Támogatja az LNG-exportot", "Offshore berendezések központja", "Ipari csomópont a gáz számára", "Stratégiai tengerparti elhelyezkedés", "A legfontosabb északi hub"],
+        "ro": ["Conexiune directă cu fluviul Congo", "Susține exportul de GNL", "Centru pentru echipamente offshore", "Noduri industriale pentru gaze", "Locație strategică de coastă", "Cel mai important hub pentru nord"],
+        "en": ["Direct connection to the Congo River", "Supports LNG export", "Center for offshore equipment", "Industrial hubs for gas", "Strategic coastal location", "Most important hub for the north"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "omdurman-cities-v2",
+      "descriptionAdvanced": "Omdurman, situated on the western bank of the Nile opposite Khartoum, serves as Sudan's largest city and its primary commercial and cultural hub. Steeped in Mahdist history, it was the capital under Khalifa Abdallahi in the late 19th century. The city is renowned for its vibrant souqs, particularly the Souq Omdurman, which is one of the largest in Africa. It preserves a more traditional Sudanese atmosphere compared to the more modern Khartoum. Omdurman is also the spiritual center of the Ansar movement and home to the tomb of Muhammad Ahmad, the Mahdi. Geographically, it is part of the Khartoum metropolitan area, forming one of the three 'sister cities' at the confluence of the White and Blue Niles.",
+      "factsAdvanced": [
+        "Founded as a small village in the early 19th century.",
+        "Became the national capital in 1885 under the Mahdi.",
+        "Home to the largest traditional market in Sudan.",
+        "Site of the Battle of Omdurman in 1898.",
+        "Location of the Khalifa House Museum.",
+        "Main base for the Sudanese National Broadcasting Corporation.",
+        "Population exceeded 2.3 million as of 2012 estimates.",
+        "Center for traditional Sudanese music and theater."
+      ]
+    },
+    {
+      "id": "khartoum-bahri-cities-v2",
+      "descriptionAdvanced": "Khartoum Bahri, also known as Khartoum North, is the northernmost of the three cities that make up the Sudanese capital region. It is situated on the northern bank of the Blue Nile and the eastern bank of the main Nile. Historically, it developed as an industrial and railway hub, especially following the completion of the railway from Egypt in 1899. The city hosts many of Sudan's manufacturing plants, including textile, chemical, and food processing industries. It is connected to Khartoum by several bridges and to Omdurman by the Shambat Bridge. Khartoum Bahri has a distinct urban character with residential neighborhoods ranging from historic districts to modern developments.",
+      "factsAdvanced": [
+        "Connected to Khartoum via the Blue Nile Bridge since 1909.",
+        "Major railway terminal for northern and eastern Sudan.",
+        "Industrial heart of the Khartoum metropolitan area.",
+        "Hosts the largest tannery in the country.",
+        "Significantly expanded during the colonial era (1899–1956).",
+        "Home to the Sudan University of Science and Technology (North Campus).",
+        "Features the Shambat Bridge connecting it to Omdurman.",
+        "Population estimated at over 900,000 in recent years."
+      ]
+    },
+    {
+      "id": "port-sudan-cities-v2",
+      "descriptionAdvanced": "Port Sudan is the capital of the Red Sea State and the nation's primary maritime gateway, handling over 90% of Sudan's international trade. Established in 1905 by the British to replace the silted port of Suakin, it has grown into a major commercial and logistics center. The city features modern deep-water port facilities and is a vital hub for oil exports via pipelines from the interior. Beyond its economic role, Port Sudan is a popular destination for scuba diving, offering access to some of the Red Sea's most pristine coral reefs and shipwrecks. The city's architecture reflects its colonial heritage mixed with modern industrial structures.",
+      "factsAdvanced": [
+        "Established in 1905 by Lord Cromer.",
+        "Replaced Suakin as the country's main port.",
+        "Located 680 kilometers northeast of Khartoum.",
+        "Major export point for Sudanese cotton, gum arabic, and sesame.",
+        "Hosts an international airport and a major railway terminus.",
+        "Gateway to Sanganeb Marine National Park.",
+        "Features the largest oil refinery in Sudan.",
+        "Average annual temperature is around 28°C."
+      ]
+    },
+    {
+      "id": "kassala-cities-v2",
+      "descriptionAdvanced": "Kassala, located in eastern Sudan near the border with Eritrea, is one of the country's most picturesque cities, dominated by the dramatic granite peaks of the Taka Mountains. It serves as the capital of Kassala State and is a significant agricultural center, famous for its fruit orchards and onion production, irrigated by the seasonal Gash River. The city is a melting pot of cultures, including the Beja (Hadendowa), Rashaida, and Tigre peoples. The Khatmiyya Mosque, with its unique octagonal minaret, is a major landmark and spiritual site. Kassala's location at the foot of the mountains makes it a unique destination for both religious pilgrimage and natural exploration.",
+      "factsAdvanced": [
+        "Founded as a military camp by the Ottomans in 1840.",
+        "Situated 400 kilometers east of Khartoum.",
+        "Renowned for the Taka Mountains (Jebel Taka).",
+        "Key center for the Khatmiyya Sufi order.",
+        "Hosts the annual Camel Racing Festival of the Beja people.",
+        "Strategic hub for trade with Eritrea.",
+        "Famous for high-quality citrus and banana production.",
+        "The Gash River flows through the city from July to September."
+      ]
+    },
+    {
+      "id": "al-qadarif-cities-v2",
+      "descriptionAdvanced": "Al-Qadarif, also spelled Gedaref, is the capital of Al Qadarif State and the agricultural heartland of Sudan. Known as the 'Granary of Sudan,' the surrounding plains are famous for large-scale mechanized farming of sorghum, sesame, and sunflower seeds. The city hosts one of the largest grain markets in the world, the Gedaref Sesame Market. Strategically located on the highway connecting Khartoum with the Ethiopian border, it is a vital commercial hub. The city's population is diverse, reflecting migrations from various parts of Sudan and neighboring countries, all drawn to the fertile lands and economic opportunities of the region.",
+      "factsAdvanced": [
+        "Elevated at approximately 600 meters above sea level.",
+        "Central hub for mechanized rain-fed agriculture in Sudan.",
+        "Produces roughly 80% of Sudan's sesame exports.",
+        "Hosts a major agricultural research station.",
+        "Located 410 kilometers southeast of Khartoum.",
+        "Key transit point for trade between Sudan and Ethiopia.",
+        "Established as a major town during the colonial period.",
+        "Significant sorghum (dura) trading center in East Africa."
+      ]
+    },
+    {
+      "id": "wad-madani-cities-v2",
+      "descriptionAdvanced": "Wad Madani is the capital of Al Jazirah State and is located on the western bank of the Blue Nile. It is the center of the Gezira Scheme, one of the world's largest irrigation projects, which has historically been the backbone of Sudan's cotton industry. The city is an important educational and research hub, hosting the University of Gezira and several agricultural research institutions. With its lush greenery, colonial-era architecture, and riverside setting, Wad Madani is often considered one of Sudan's most pleasant cities. It serves as a major commercial crossroads for the fertile central region and is well-connected to Khartoum by road and rail.",
+      "factsAdvanced": [
+        "Founded around 1489 by Sheikh Madani ibn al-Dasunqi.",
+        "Located 186 kilometers southeast of Khartoum.",
+        "Headquarters of the Gezira Irrigation Scheme.",
+        "Hosts the University of Gezira, founded in 1975.",
+        "Major center for the textile and tanning industries.",
+        "Features the historic Blue Nile bridge built in 1952.",
+        "Renowned for its public gardens and riverside parks.",
+        "Population estimated at over 350,000 in the 2008 census."
+      ]
+    },
+    {
+      "id": "rabak-cities-v2",
+      "descriptionAdvanced": "Rabak is the capital of the White Nile State, situated on the eastern bank of the White Nile. It is a vital industrial and commercial center, significantly bolstered by its proximity to the Kenana Sugar Company, one of the largest sugar production facilities in the world. The city is a major transportation hub, located at the junction of several national highways and on the railway line connecting Khartoum with the west. Rabak's economy is driven by sugar refining, cement production, and agricultural trade. Its strategic position at a crossing point of the White Nile makes it a crucial link between central, eastern, and western Sudan.",
+      "factsAdvanced": [
+        "Named capital of White Nile State in 1994.",
+        "Located about 260 kilometers south of Khartoum.",
+        "Adjacent to the town of Kosti, connected by a bridge.",
+        "Home to the Rabak Cement Factory.",
+        "Key logistics center for the sugar industry.",
+        "Major junction for the Sudanese railway network.",
+        "Features a prominent bridge over the White Nile.",
+        "Rapidly growing industrial urban center."
+      ]
+    },
+    {
+      "id": "ad-damazin-cities-v2",
+      "descriptionAdvanced": "Ad-Damazin is the capital of the Blue Nile State, located in southeastern Sudan. The city's growth and significance are closely tied to the Roseires Dam, one of the country's most important hydroelectric and irrigation projects, situated nearby on the Blue Nile. Ad-Damazin serves as a regional hub for agriculture, particularly for the production of sorghum and sesame, and for the livestock trade. The region is known for its ethnic diversity and unique cultural traditions. The surrounding landscape features a mix of savanna and hills, providing a different ecological setting compared to the arid north of Sudan.",
+      "factsAdvanced": [
+        "Located 450 kilometers south of Khartoum.",
+        "Growth spurred by the Roseires Dam construction in the 1960s.",
+        "Major source of hydroelectric power for Sudan.",
+        "Terminus of the railway line from Sennar.",
+        "Key center for mechanized farming in the Blue Nile region.",
+        "Home to the Blue Nile University.",
+        "Proximity to the Dinder National Park.",
+        "Strategically located near the border with Ethiopia."
+      ]
+    },
+    {
+      "id": "sennar-cities-v2",
+      "descriptionAdvanced": "Sennar, located on the Blue Nile, is a city with deep historical roots, having served as the capital of the Funj Sultanate (the Black Sultanate) from the 16th to the 19th centuries. Modern Sennar is an important agricultural and industrial center, dominated by the Sennar Dam, built in 1925 to irrigate the Gezira Scheme. The city is a major railway junction, connecting the capital with the east and south. Historically, Sennar was a renowned center for Islamic learning and a pivot for trans-Saharan and Nilotic trade routes. Today, it remains a vital economic hub in the fertile central region of Sudan.",
+      "factsAdvanced": [
+        "Capital of the Funj Sultanate from 1504 to 1821.",
+        "Sennar Dam was the first major dam on the Blue Nile.",
+        "Located 280 kilometers southeast of Khartoum.",
+        "Major junction for the Khartoum-Port Sudan railway.",
+        "Home to the University of Sennar.",
+        "Key center for sugar and salt production.",
+        "Site of significant archaeological remains from the Funj era.",
+        "Important center for Sufi religious orders."
+      ]
+    },
+    {
+      "id": "ad-damir-cities-v2",
+      "descriptionAdvanced": "Ad-Damir is the capital of the River Nile State, situated on the eastern bank of the Nile just south of the Atbara River confluence. It is one of the oldest towns in northern Sudan, traditionally famous for its Islamic schools and its historic role as a center of religious learning. Ad-Damir has a significant weekly camel market, one of the largest in the region, reflecting its ties to the nomadic communities of the desert. The city serves as an administrative center and a quiet counterpart to the nearby industrial city of Atbara. Its architecture and atmosphere retain a traditional Sudanese character.",
+      "factsAdvanced": [
+        "Located about 310 kilometers north of Khartoum.",
+        "Historically famous for its Al-Majdhub religious school.",
+        "Hosts a major regional camel and livestock market.",
+        "Serves as the administrative capital of River Nile State.",
+        "Strategically located near the junction of the Nile and Atbara Rivers.",
+        "Key stop on the highway between Khartoum and Port Sudan.",
+        "Renowned for traditional crafts and weaving.",
+        "Surrounded by fertile agricultural land along the Nile."
+      ]
+    },
+    {
+      "id": "berber-cities-v2",
+      "descriptionAdvanced": "Berber is an ancient and historic town in the River Nile State, located on the eastern bank of the Nile. For centuries, it was a crucial hub on the trans-Saharan trade routes, serving as the starting point for the 'Suakin Road' across the desert to the Red Sea. Berber was famous for its scholars, merchants, and its unique blend of Nilotic and Arab cultures. While its commercial importance declined after the construction of the railway and the development of Port Sudan, it remains a significant agricultural center. The town is known for its traditional houses and its role in the history of the Ja'alin and other riverine peoples.",
+      "factsAdvanced": [
+        "Major trade hub for caravans from Egypt and the Red Sea.",
+        "Located 50 kilometers north of Atbara.",
+        "Renowned center for Islamic jurisprudence and literature.",
+        "Strategic town during the Mahdist and colonial eras.",
+        "Famous for high-quality dates and citrus fruits.",
+        "Historically a primary center for the slave and gold trade.",
+        "Features many well-preserved 19th-century buildings.",
+        "Home to many influential Sudanese merchant families."
+      ]
+    },
+    {
+      "id": "dongola-cities-v2",
+      "descriptionAdvanced": "Dongola is the capital of the Northern State and one of the most historically significant cities in the Nile Valley. It was a major center of the Kingdom of Kush and later the capital of the Christian kingdom of Makuria. Modern Dongola is a bustling agricultural and administrative center, famous for its high-quality dates and citrus orchards. The city's culture is a rich blend of Nubian and Arab influences, and it remains a stronghold of the Dongolawi (Nubian) language. Located on the eastern bank of the Nile, it is a gateway to the many archaeological sites of northern Sudan, including Old Dongola, situated further south.",
+      "factsAdvanced": [
+        "Capital of the Northern State of Sudan.",
+        "Historically the seat of the Kingdom of Makuria.",
+        "Located 500 kilometers north of Khartoum.",
+        "Famous for the Dongola date variety.",
+        "Major center for Nubian culture and language.",
+        "Hosts an international airport and a university.",
+        "Connected to the capital by the 'Trans-Saharan' highway.",
+        "Gateway to the Temple of Kawa and other Kushite sites."
+      ]
+    },
+    {
+      "id": "al-fashir-cities-v2",
+      "descriptionAdvanced": "Al-Fashir is the capital of North Darfur State and has a storied history as the seat of the Darfur Sultanate. It grew around the palace of Sultan Ali Dinar, which now serves as a museum. The city is a major commercial and administrative hub for the Darfur region, traditionally serving as a terminus for the 'Forty Days Road' caravan route to Egypt. Al-Fashir is situated on the edge of the Sahara and has a climate influenced by the nearby Jebel Marra mountains. It is a melting pot of diverse ethnic groups, including the Fur, Zaghawa, and various Arab tribes, making it a vibrant cultural center.",
+      "factsAdvanced": [
+        "Established as the capital of the Darfur Sultanate in the 1790s.",
+        "Located 800 kilometers west of Khartoum.",
+        "Home to the Sultan Ali Dinar Palace Museum.",
+        "Strategically located on historic trans-Saharan trade routes.",
+        "Key logistical hub for humanitarian operations in Darfur.",
+        "Hosts the University of Al Fashir, founded in 1990.",
+        "Elevated at approximately 700 meters above sea level.",
+        "Known for its traditional handicrafts and leatherwork."
+      ]
+    },
+    {
+      "id": "geneina-cities-v2",
+      "descriptionAdvanced": "Geneina is the capital of West Darfur State, located in the far western part of Sudan near the border with Chad. The city's history is closely tied to the Masalit Sultanate, and it remains a major center for the Masalit people. Geneina serves as a crucial border town and a hub for cross-border trade and migration. Its geography is characterized by the Wadi Kaja, which provides water for agriculture in the region. The city's atmosphere is a blend of Sudanese and Central African influences, reflected in its markets and cultural life. Despite recent challenges, Geneina continues to be a vital administrative and commercial pivot for western Sudan.",
+      "factsAdvanced": [
+        "Capital of West Darfur and seat of the Masalit Sultanate.",
+        "Located 1,100 kilometers west of Khartoum.",
+        "Strategically positioned near the border with Chad.",
+        "Major trade center for livestock and agricultural products.",
+        "Home to the University of Geneina.",
+        "Famous for its lush gardens and fruit trees.",
+        "Key gateway for refugees and transit to Central Africa.",
+        "Features a historic Sultan's palace."
+      ]
+    },
+    {
+      "id": "nyala-cities-v2",
+      "descriptionAdvanced": "Nyala is the capital of South Darfur State and the largest city in the Darfur region. It is a major commercial and industrial hub, significantly developed since the arrival of the railway in the 1960s. Nyala serves as a primary market for livestock, gum arabic, and peanuts. The city is known for its ethnic diversity and its role as a regional center for education and health services. Its location near the southern foothills of Jebel Marra provides a relatively moderate climate and supports agriculture. Nyala's bustling souqs and growing industrial zones reflect its status as the economic powerhouse of western Sudan.",
+      "factsAdvanced": [
+        "Largest city in Darfur and capital of South Darfur.",
+        "Located 900 kilometers west of Khartoum.",
+        "Terminus of the railway line from the east.",
+        "Major hub for the trade of gum arabic and cattle.",
+        "Home to Nyala University and several colleges.",
+        "Site of many regional headquarters for NGOs.",
+        "Hosts a major international airport.",
+        "Growth accelerated significantly after the 1960s."
+      ]
+    },
+    {
+      "id": "ed-daein-cities-v2",
+      "descriptionAdvanced": "Ed-Daein is the capital of East Darfur State, located in the southwestern part of Sudan. It is the traditional center of the Rizeigat people and serves as a major hub for the livestock trade, particularly cattle and sheep. The city is situated on the railway line connecting Khartoum with Nyala, which has been central to its economic development. Ed-Daein is surrounded by vast savanna plains that support both nomadic pastoralism and mechanized agriculture. The city plays a vital role in regional administration and as a commercial link between the Darfur region and central Sudan.",
+      "factsAdvanced": [
+        "Capital of East Darfur State, established in 2012.",
+        "Located 830 kilometers west of Khartoum.",
+        "Major center for the Rizeigat Arab tribe.",
+        "Key hub for the livestock and leather trade.",
+        "Strategic stop on the railway line to Nyala.",
+        "Hosts the University of Ed-Daein.",
+        "Significant producer of peanuts and sesame.",
+        "Growing administrative and commercial urban center."
+      ]
+    },
+    {
+      "id": "zalingei-cities-v2",
+      "descriptionAdvanced": "Zalingei is the capital of Central Darfur State, nestled in the picturesque foothills of the Jebel Marra mountains. Due to its higher elevation and proximity to the mountains, it enjoys a milder climate and more rainfall than many other parts of Sudan. This makes Zalingei a productive agricultural area, famous for its citrus fruits, coffee, and vegetables. The city is a major center for the Fur people and is renowned for its academic institutions, most notably the University of Zalingei. Its beautiful natural surroundings and strategic location between Al-Fashir and Geneina make it a key regional hub.",
+      "factsAdvanced": [
+        "Capital of Central Darfur State, created in 2012.",
+        "Located 1,000 kilometers west of Khartoum.",
+        "Situated at an altitude of approximately 900 meters.",
+        "Home to the University of Zalingei, founded in 1994.",
+        "Key center for the production of oranges and lemons.",
+        "Located in the heartland of the Fur people.",
+        "Gateway to the Jebel Marra volcanic massif.",
+        "Known for its relatively cool and pleasant climate."
+      ]
+    },
+    {
+      "id": "el-obeid-cities-v2",
+      "descriptionAdvanced": "El-Obeid is the capital of North Kordofan State and one of Sudan's most important commercial cities. It is world-renowned as a major center for the gum arabic trade, hosting one of the largest commodity exchanges for this product. The city is a vital transportation hub, serving as a terminus for the railway and a major junction for roads connecting Khartoum with the west. El-Obeid has a rich history, serving as a key stronghold during the Mahdist War. The city is home to several universities and a significant cathedral, reflecting its diverse population and its role as a regional administrative and cultural pivot.",
+      "factsAdvanced": [
+        "World's largest market for gum arabic.",
+        "Located 560 kilometers southwest of Khartoum.",
+        "Capital of North Kordofan State.",
+        "Besieged and captured by the Mahdi in 1883.",
+        "Terminus of a major branch of the Sudanese railway.",
+        "Home to the University of Kordofan.",
+        "Features the Our Lady Queen of Africa Cathedral.",
+        "Major center for the oilseed and livestock trade."
+      ]
+    },
+    {
+      "id": "kaduqli-cities-v2",
+      "descriptionAdvanced": "Kaduqli is the capital of South Kordofan State, situated in the scenic Nuba Mountains. The city is a major cultural and commercial hub for the Nuba people and various Arab tribes (Baggara). Its geography is defined by the surrounding rocky hills, which provide a dramatic backdrop and influence the local climate. Kaduqli is an important center for agriculture and livestock, and it has historically been a significant administrative and military outpost. The city is known for its vibrant markets and its role in the complex cultural tapestry of the Kordofan region, serving as a gateway to the diverse communities of the mountains.",
+      "factsAdvanced": [
+        "Capital of South Kordofan State.",
+        "Located 590 kilometers southwest of Khartoum.",
+        "Situated in the foothills of the Nuba Mountains.",
+        "Major center for the livestock and sorghum trade.",
+        "Hosts the University of Dalanj (Kaduqli branch).",
+        "Key logistical center for UN peacekeeping missions (UNISFA).",
+        "Features a diverse mix of Nuba and Arab cultures.",
+        "Surrounded by fertile land and seasonal wadis."
+      ]
+    },
+    {
+      "id": "al-fulah-cities-v2",
+      "descriptionAdvanced": "Al-Fulah is the capital of West Kordofan State, located in a region rich in natural resources, particularly oil. The city's significance has grown with the development of Sudan's petroleum industry, as it serves as a regional administrative and logistics hub for the oil fields of the Muglad Basin. Al-Fulah is also a traditional center for the Misseriya people and a hub for the livestock trade. The city's economy is a mix of modern industrial activity and traditional pastoralism. Its strategic location on the railway line between Kosti and Nyala makes it an important link in the country's transport network.",
+      "factsAdvanced": [
+        "Capital of West Kordofan State.",
+        "Located 600 kilometers southwest of Khartoum.",
+        "Key administrative hub for Sudan's oil industry.",
+        "Home to the West Kordofan University.",
+        "Major center for the Misseriya Arab tribe.",
+        "Strategic stop on the railway line to Darfur.",
+        "Significant hub for cattle and sheep markets.",
+        "Rapidly developing due to oil-related investment."
+      ]
+    },
+    {
+      "id": "kosti-cities-v2",
+      "descriptionAdvanced": "Kosti is a major city in the White Nile State, located on the western bank of the river. It is Sudan's most important inland port, serving as the northern terminus for steamer services to the south and a vital link in the trade between Sudan and South Sudan. The city is a bustling commercial and transportation hub, located at the intersection of major roads and railway lines. Kosti's economy is driven by its port activities, agriculture (including sugar from nearby plantations), and various small-scale industries. The Rabak-Kosti bridge connects it to the state capital, Rabak, forming a twin-city economic engine for the region.",
+      "factsAdvanced": [
+        "Founded by a Greek merchant named Kostas in the early 20th century.",
+        "Located 260 kilometers south of Khartoum.",
+        "Sudan's primary river port on the White Nile.",
+        "Major junction for the railway and national highways.",
+        "Home to the El Imam El Mahdi University.",
+        "Key transit point for cargo to South Sudan.",
+        "Major center for the sugar and cotton trade.",
+        "Features a prominent 1.1 km bridge over the White Nile."
+      ]
+    },
+    {
+      "id": "singa-cities-v2",
+      "descriptionAdvanced": "Singa is the capital of Sennar State, located on the western bank of the Blue Nile. The city is famous as the site where the 'Singa Skull,' a significant prehistoric human fossil, was discovered in 1924. Modern Singa is a major agricultural center, focusing on the production of cotton, gum arabic, and various oilseeds in the fertile plains of the Blue Nile. The city's growth is tied to the expansion of irrigation schemes in the region. Singa serves as an important administrative and commercial hub, reflecting the rich agricultural heritage of the Sennar region and its strategic position along the river.",
+      "factsAdvanced": [
+        "Capital of Sennar State since the 1990s.",
+        "Located 340 kilometers southeast of Khartoum.",
+        "Site of the discovery of the Proto-Bushman Singa Skull.",
+        "Major center for the Blue Nile agricultural region.",
+        "Key hub for the trade of gum arabic and sesame.",
+        "Home to the University of Sennar (Singa Campus).",
+        "Historically an important center for the Funj Sultanate.",
+        "Surrounded by large-scale mechanized farming projects."
+      ]
+    },
+    {
+      "id": "suakin-cities-v2",
+      "descriptionAdvanced": "Suakin is a historic port city on the Red Sea, located south of Port Sudan. For centuries, it was Sudan's primary outlet to the world and a major hub for pilgrims traveling to Mecca. The city's unique 'Coral City' architecture, built from blocks of coral, is a testament to its former wealth and importance as a Red Sea trade center. While the main port activities shifted to Port Sudan in the early 20th century, Suakin remains a vital port for passenger ferries and livestock exports. The old town, situated on a circular island, is now a significant archaeological and heritage site, reflecting Ottoman, Arab, and African influences.",
+      "factsAdvanced": [
+        "One of the oldest ports on the Red Sea.",
+        "Known for its unique buildings made of coral stone.",
+        "Located 60 kilometers south of Port Sudan.",
+        "Was a major Ottoman administrative center in the 19th century.",
+        "Main gateway for the Hajj pilgrimage from Africa.",
+        "The old island city is a UNESCO World Heritage candidate.",
+        "Major hub for cattle exports to Saudi Arabia.",
+        "Reinvigorated by a restoration agreement with Turkey in 2017."
+      ]
+    },
+    {
+      "id": "tokar-cities-v2",
+      "descriptionAdvanced": "Tokar is an agricultural town in the Red Sea State, situated in the fertile delta of the seasonal Baraka River. The city is famous for the Tokar Delta Scheme, which supports large-scale farming of high-quality cotton, vegetables, and grains in an otherwise arid region. The annual flooding of the Baraka River provides the necessary silt and moisture for these crops. Tokar has a long history as a center for cotton production, dating back to the 19th century. The town's economy and life are deeply tied to the seasonal cycles of the river and the success of the delta's agriculture, making it a vital food source for the Red Sea region.",
+      "factsAdvanced": [
+        "Located 150 kilometers south of Port Sudan.",
+        "Situated in the fertile delta of the Baraka River.",
+        "Major center for rain-fed and flood-irrigated cotton.",
+        "The Baraka River flood season is from July to September.",
+        "Historically a strategic town near the Eritrean border.",
+        "Key producer of vegetables for the Port Sudan market.",
+        "Subject to occasional severe flooding from the river.",
+        "One of the oldest organized agricultural schemes in Sudan."
+      ]
+    },
+    {
+      "id": "new-halfa-cities-v2",
+      "descriptionAdvanced": "New Halfa is an agricultural city in Kassala State, established in the 1960s to resettle the Nubian population displaced by the flooding of Wadi Halfa due to the construction of the Aswan High Dam. The city is the center of the New Halfa Agricultural Scheme, which uses water from the Khashm el-Girba Dam on the Atbara River. It is a major producer of sugar, wheat, and cotton. The city's layout and architecture reflect its planned origin, and it remains a unique enclave of Nubian culture in eastern Sudan. New Halfa is a testament to the resilience of the displaced communities and their adaptation to a new environment.",
+      "factsAdvanced": [
+        "Established in 1964 for Nubian resettlement.",
+        "Located 400 kilometers east of Khartoum.",
+        "Headquarters of the New Halfa Agricultural Scheme.",
+        "Irrigated by the Khashm el-Girba Dam.",
+        "Major center for sugar cane cultivation and refining.",
+        "Unique pocket of Nubian language and heritage in the east.",
+        "A planned city with a distinctive grid-like layout.",
+        "Population primarily composed of Halfawi Nubians."
+      ]
+    }
+  ]
+}

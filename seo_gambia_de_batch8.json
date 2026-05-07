@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bakoteh-cities-v2",
+      "descriptionAdvanced": "Bakoteh ist ein lebendiger Stadtteil von Serekunda, der durch seine dichte Wohnbebauung und seine soziale Vielfalt geprägt ist. Ein besonderes Merkmal des Viertels ist das SOS-Kinderdorf, das eine wichtige soziale Einrichtung zur Unterstützung von Kindern in Not darstellt. Bakoteh spielt zudem eine bedeutende Rolle im lokalen Handel, da es viele kleine Geschäfte und Dienstleister beherbergt, die den Alltag der Bewohner maßgeblich mitgestalten. Die Mischung aus familiärem Wohnumfeld und aktiver lokaler Wirtschaft macht Bakoteh zu einem wesentlichen Bestandteil des sozialen Gefüges in der Kanifing Municipality. Soziale Arbeit K7 — Gemeinschaftliche Einrichtungen.",
+      "factsAdvanced": ["Standort eines SOS-Kinderdorfes.", "Wichtige soziale Einrichtung.", "Dichte Wohnbebauung.", "Vielfältige lokale Handelsstruktur.", "Integraler Teil der Kanifing Municipality.", "Zentrum für kleinteilige soziale Unterstützung.", "Typisches urbanes Wohnviertel in Serekunda."]
+    },
+    {
+      "id": "old-jeshwang-cities-v2",
+      "descriptionAdvanced": "Old Jeshwang ist einer der geschichtsträchtigsten Stadtteile von Serekunda, dessen Ursprünge weit in die Vergangenheit zurückreichen. Bekannt ist der Ort vor allem durch den großen Old Jeshwang Friedhof, der ein bedeutendes historisches Wahrzeichen darstellt. Die geographische Nähe zu den ausgedehnten Mangrovenwäldern des Gambia-Flusses verleiht dem Viertel einen besonderen Charakter. Obwohl es ein historischer Ort ist, wächst das Viertel stetig mit der Expansion der umliegenden städtischen Gebiete und bildet eine Brücke zwischen der Vergangenheit und der modernen Urbanität Serekundas. Geschichte K8 — Regionale historische Wahrzeichen.",
+      "factsAdvanced": ["Eines der ältesten Viertel Serekundas.", "Historisch bedeutsamer Old Jeshwang Friedhof.", "Nähe zu den Mangrovenwäldern.", "Bindeglied zwischen Tradition und Moderne.", "Langjährige städtische Entwicklung.", "Wichtiger Ort für kulturelle Identität.", "Charakteristische geografische Lage."]
+    },
+    {
+      "id": "new-jeshwang-cities-v2",
+      "descriptionAdvanced": "New Jeshwang ist ein modernes Wohngebiet, das sich organisch aus der expansionistischen Phase von Serekunda entwickelt hat. Es dient als Erweiterung des historischen Stadtteils Old Jeshwang und bietet vielen Menschen, die in die Region gezogen sind, einen neuen Lebensraum. Die städtebauliche Struktur ist durch eine hohe Wohndichte und ein reges kleines Handwerk geprägt, das den Bewohnern vor Ort vielfältige Dienstleistungen bietet. Als Teil der modernen Urbanisierung Gambias repräsentiert New Jeshwang den schnellen Wandel und die steigende Attraktivität der Metropolregion für die wachsende Stadtbevölkerung. Wirtschaft K7 — Moderne städtische Siedlungsstrukturen.",
+      "factsAdvanced": ["Moderne Erweiterung von Old Jeshwang.", "Dichte städtische Wohnstruktur.", "Wachsendes Zentrum für lokale Handwerkskunst.", "Wichtiger Lebensraum für Zuwanderer.", "Symbol für den urbanen Wandel Serekundas.", "Gute Anbindung an lokale Dienstleistungen.", "Teil der modernen Expansionsphase."]
+    },
+    {
+      "id": "ebo-town-cities-v2",
+      "descriptionAdvanced": "Ebo Town ist ein lebendiges, dicht bebautes Viertel in der Kanifing Municipality, das an die charakteristischen Mangrovensümpfe des Gambia-Flusses angrenzt. Die Lage stellt die Bewohner vor besondere Herausforderungen, zeugt aber gleichzeitig von der starken Resilienz und der soliden sozialen Gemeinschaft, die das Viertel prägt. Durch die Nähe zu zentralen städtischen Bereichen profitiert die Bevölkerung von der guten infrastrukturellen Anbindung, während das tägliche Leben durch die enge Nachbarschaft geprägt ist. Ebo Town steht als Symbol für die soziale Energie in Gambias urbanem Raum, wo Zusammenhalt den Alltag bestimmt. Soziale Arbeit K6 — Urbanes Leben und Gemeinschaftssinn.",
+      "factsAdvanced": ["Lebendiges Wohnviertel.", "Lage am Rande der Mangrovensümpfe.", "Herausfordernde, aber resiliente Gemeinschaft.", "Gute infrastrukturelle Anbindung.", "Starker lokaler Gemeinschaftsgeist.", "Beispiel für soziale Energie in der Stadt.", "Typische urbanisierte Siedlungsform."]
+    },
+    {
+      "id": "latri-kunda-cities-v2",
+      "descriptionAdvanced": "Latri Kunda ist einer der kommerziell bedeutendsten Stadtteile von Serekunda, der in die Bereiche Sabiji und German unterteilt ist. Diese Unterteilung spiegelt die historische und soziale Vielfalt des Viertels wider, das heute als zentraler Handelsplatz für Bekleidung und Grundnahrungsmittel fungiert. Die hohe Dichte an Märkten und Geschäften macht Latri Kunda zu einem wichtigen Versorgungszentrum für die Bewohner des Großraums Serekunda. Durch seine zentrale Lage und die rege Handelstätigkeit ist Latri Kunda ein Motor für den kleinteiligen, lokalen Handel und ein unverzichtbarer Teil der ökonomischen Dynamik von Gambias größter Stadt. Wirtschaft K6 — Lokale Marktwirtschaft.",
+      "factsAdvanced": ["Zentraler Handelsplatz von Serekunda.", "Unterteilt in die Bereiche Sabiji und German.", "Großer Markt für Kleidung und Lebensmittel.", "Wichtiger Motor für den lokalen Handel.", "Hohe kommerzielle Aktivität.", "Versorgungszentrum für große Teile Serekundas.", "Starkes ökonomisches Profil."]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "lang": "ro",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-san-juan-cities-v2",
+      "descriptionAdvanced": "San Juan este un oraș dinamic din Trinidad, situat în zona dens populată East-West Corridor, la est de Port of Spain. Este renumit pentru viața comercială vibrantă și pentru faimoasa sa piață publică. Orașul combină influențe culturale diverse, indiene și africane, reflectate în arhitectură și gastronomie. Străzile aglomerate sunt pline de tarabe, magazine locale și activități comunitare. Ca nod de transport crucial, facilitează conexiunile dintre estul și vestul insulei. Zona găzduiește numeroase evenimente culturale care ilustrează patrimoniul bogat al Trinidadului. Geografia Umană K6 — dezvoltarea urbană și rutele de comerț.",
+      "factsAdvanced": [
+        "Așezat de-a lungul rutei vitale East-West Corridor din Trinidad.",
+        "Populația reflectă moștenirea istorică africană și est-indiană a insulei.",
+        "San Juan Market este unul dintre cele mai active centre de produse proaspete.",
+        "Găzduiește anual festivaluri și festivități multiculturale specifice națiunii.",
+        "Un important punct de tranzit pentru autobuze și maxis-taxis zilnice.",
+        "Include zone rezidențiale extinse și un nucleu comercial animat.",
+        "Numele are origini spaniole din perioada colonială a insulei."
+      ]
+    },
+    {
+      "id": "tt-diego-martin-cities-v2",
+      "descriptionAdvanced": "Diego Martin se află într-o vale luxuriantă din regiunea nord-vestică a insulei Trinidad, delimitată de Munții Northern Range. Din punct de vedere istoric, zona a fost cultivată cu plantații de cacao și trestie de zahăr, fiind astăzi una dintre principalele suburbii rezidențiale ale capitalei. Râul Diego Martin traversează valea, contribuind la solul fertil, însă este predispus la revărsări în timpul sezonului ploios. Arhitectura variază de la moșii vechi la dezvoltări urbane moderne. Geografia K7 — văile montane și extinderea rezidențială.",
+      "factsAdvanced": [
+        "Diego Martin Valley se întinde de la Marea Caraibelor spre interiorul muntos.",
+        "În secolele 18 și 19 a fost dominat de moșii agricole franceze și spaniole.",
+        "Aici se află Muzeul Roata de Apă River Estate, o relicvă din perioada sclaviei.",
+        "Râul principal din regiune este Diego Martin River, cu un curs de aproximativ 10 km.",
+        "Regiunea este un centru rezidențial important din anii 1970.",
+        "A cunoscut o dezvoltare semnificativă după abolirea sclaviei în 1834.",
+        "Munții din jur oferă trasee de drumeții populare pentru localnici."
+      ]
+    },
+    {
+      "id": "tt-couva-cities-v2",
+      "descriptionAdvanced": "Couva este situat în regiunea central-vestică a insulei Trinidad, servind istoric ca un nucleu vital pentru industria trestiei de zahăr a țării. Orașul este înconjurat de foste terenuri agricole vaste ale companiei Caroni, acum destinate diversificării economice și industriale. Dezvoltarea sa a fost puternic impulsionată de proximitatea față de Portul Point Lisas, transformându-se într-un centru de servicii pentru lucrătorii industriali. Couva găzduiește și faimosul stadion Ato Boldon, numit după un celebru atlet olimpic. Istorie K8 — industrializarea și tranziția economică post-colonială.",
+      "factsAdvanced": [
+        "A fost centrul industriei naționale de zahăr până la închiderea Caroni în 2003.",
+        "Stadionul Ato Boldon a fost construit pentru Cupa Mondială U-17 FIFA din 2001.",
+        "Situat în apropierea Point Lisas Industrial Estate, principalul parc petrochimic.",
+        "A cunoscut o creștere demografică rapidă în ultimele două decenii.",
+        "Este sediul multor organizații sindicale din sectorul zahărului și petrolului.",
+        "Prezintă o arhitectură care îmbină stilul colonial caribian cu cel modern.",
+        "Numele orașului este de origine spaniolă, datând din perioada pre-britanică."
+      ]
+    },
+    {
+      "id": "tt-point-fortin-cities-v2",
+      "descriptionAdvanced": "Point Fortin este o localitate emblematică din sud-vestul insulei Trinidad, recunoscută oficial ca burg. Istoria și dezvoltarea sa sunt indisolubil legate de descoperirea și exploatarea petrolului la începutul secolului al XX-lea, devenind prima 'capitală a petrolului' din țară. Culturile de cacao de odinioară au fost înlocuite de rafinării, rezervoare și facilități industriale de energie. Anual, orașul găzduiește Point Fortin Borough Day, un festival cultural impresionant de muzică și paradă stradală. Geografie K7 — extracția resurselor naturale și planificarea urbană.",
+      "factsAdvanced": [
+        "Compania United British Oilfields a construit prima mare rafinărie aici în 1912.",
+        "A primit statutul de 'Borough' în anul 1980.",
+        "Atrage mii de vizitatori anual la celebrările Borough Day de la sfârșitul lunii aprilie.",
+        "Situat pe malul Golfului Paria, fiind un port istoric de andocare pentru nave.",
+        "Populația locală are rădăcini puternice din imigranții din alte insule caraibiene.",
+        "Industria gazelor naturale lichefiate (LNG) are facilități majore în Atlantic LNG.",
+        "Numele său provine de la un fost proprietar francez de plantație, Monsieur Fortin."
+      ]
+    },
+    {
+      "id": "tt-princes-town-cities-v2",
+      "descriptionAdvanced": "Princes Town este un oraș vibrant în regiunea sudică a insulei Trinidad, cu o economie tradițional bazată pe agricultură și agricultură de subzistență, predominant trestie de zahăr. Așezarea, cunoscută inițial sub numele de Savanna Grande, a fost redenumită după vizita nepoților reginei Victoria, Prinții Albert Victor și George, în anul 1880. În apropierea orașului se află fenomenul geologic interesant al vulcanilor noroioși din zona Devil's Woodyard. Orașul este caracterizat de un amalgam de tradiții din India de Est și comunități creole. Istorie K6 — patrimoniul colonial și fenomene naturale caraibiene.",
+      "factsAdvanced": [
+        "A fost redenumit din Savanna Grande în 1880 după o vizită regală britanică.",
+        "Prinții Albert Victor și George au plantat doi copaci Poui care stau și astăzi.",
+        "Regiunea este renumită pentru vulcanii de noroi 'Devil's Woodyard' situați la est.",
+        "Economia sa s-a bazat pe secole pe cultivarea extensivă a trestiei de zahăr.",
+        "Găzduiește una dintre cele mai proeminente comunități indo-trinidadiane.",
+        "Centrul orașului are o arhitectură de interes istoric, inclusiv piețe rurale vechi.",
+        "Este conectat direct de San Fernando, la aproximativ 10 km distanță vestică."
+      ]
+    },
+    {
+      "id": "tt-tunapuna-cities-v2",
+      "descriptionAdvanced": "Tunapuna, situat pe densul East-West Corridor, se afirmă ca un nod educațional și un punct comercial esențial pentru Trinidad. Orașul a evoluat dintr-o așezare colonială dedicată fermelor de zahăr într-un district urban foarte populat. Găzduind Universitatea Indiilor de Vest în districtul St. Augustine alăturat, orașul beneficiază de un aflux constant de studenți internaționali și activități academice. Carnavalul local din Tunapuna menține tradiția de parade muzicale specifice insulei. Sociologie K8 — educația academică și formarea identităților urbane complexe.",
+      "factsAdvanced": [
+        "Servește ca un important centru regional pentru administrația locală și justiție.",
+        "Este unul dintre cele mai importante piețe comerciale de pe East-West Corridor.",
+        "Carnavalul de aici a rămas unul dintre cele mai mari festivaluri extra-capitală.",
+        "Rădăcinile sale datează din perioada sclaviei și a migrației muncitorilor contractuali.",
+        "Situat strategic între capitala Port of Spain (vest) și Arima (est).",
+        "Celebrul scriitor și intelectual C.L.R. James provine din acest oraș animat.",
+        "Activitatea economică locală variază de la servicii financiare la piețe de legume."
+      ]
+    },
+    {
+      "id": "tt-sangre-grande-cities-v2",
+      "descriptionAdvanced": "Sangre Grande este principala poartă de acces către coasta de est și regiunile nord-estice accidentate ale insulei Trinidad. Evoluția sa dintr-un simplu sat agricol a fost stimulată de construcția sistemului de căi ferate din insulă la finalul secolului al XIX-lea, fiind punctul terminus estic al liniei. Numele său evocator provine din spaniolă, sugerând bătălii locale sau culoarea roșiatică a apei râului din zonă după ploi. Orașul oferă acces direct la rezervații naturale majore, protejând ecosistemele unice ale țării. Geografie K7 — expansiunea infrastructurii și eco-turismul estic.",
+      "factsAdvanced": [
+        "A fost punctul terminal al rețelei Trinidad Government Railway până în anii 1960.",
+        "Denumirea spaniolă înseamnă 'Sânge Mare', referindu-se la culoarea istorică a râului.",
+        "Este cel mai important centru comercial din partea de est a națiunii.",
+        "Conectează regiunile vitale de pe coasta nord-estică (ex. Toco, Matelot).",
+        "A funcționat istoric ca un hub pentru producția de cacao și agricultură forestieră.",
+        "Situat în apropierea regiunilor de pădure tropicală protejată.",
+        "Așezarea modernă s-a dezvoltat rapid în jurul anilor 1890, odată cu gara."
+      ]
+    },
+    {
+      "id": "tt-penal-cities-v2",
+      "descriptionAdvanced": "Penal este un oraș din partea sudică a insulei Trinidad, renumit pentru moștenirea sa agricolă vastă și importanța culturală indo-caraibiană. Originar, zona era dedicată plantațiilor mari de zahăr, care mai târziu au lăsat loc explorării energetice și petrochimiei în zonele periferice. Cultura indiană este proeminentă prin sărbători naționale majore, temple spectaculoase și preparate culinare consacrate. Regiunea este caracterizată printr-un relief plat și lunci de vale predispuși la inundații tropicale frecvente. Cultură și Geografie K6 — adaptarea comunităților asiatice în Caraibe și agricultura.",
+      "factsAdvanced": [
+        "Comunitatea are o concentrație ridicată de descendenți ai lucrătorilor din India.",
+        "Numele are rădăcini din limba spaniolă din perioada de ocupație colonială.",
+        "Este renumit la nivel național pentru preparatele autentice precum roti și doubles.",
+        "Este adiacent lagunei Oropouche, o zonă umedă vitală pentru ecosistem.",
+        "A cunoscut o mică industrializare odată cu instalarea conductelor de petrol și gaze.",
+        "Penal este sediul colegiului istoric Shiva Boys' Hindu College fondat în secolul 20.",
+        "Zona experimentează sezonier inundații severe datorită altitudinii joase."
+      ]
+    },
+    {
+      "id": "tt-gasparillo-cities-v2",
+      "descriptionAdvanced": "Gasparillo este o comunitate aflată în plină dezvoltare, situată strategic chiar la nord de orașul San Fernando și la est de autostrada Solomon Hochoy. Din istoria sa, orașul a găzduit familii care lucrau pe vastile terenuri agricole de trestie de zahăr din centrul insulei Trinidad. Locația s-a transformat dintr-un avanpost rural agricol într-o zonă comercială dinamică, facilitând afaceri locale, magazine cu amănuntul și ansambluri rezidențiale noi. Populația păstrează strânse legături interculturale reflectate în diversitatea locurilor de cult. Urbanism K7 — tranziția rurală spre centre semi-urbane și suburbii.",
+      "factsAdvanced": [
+        "Orașul este dominat de proximitatea sa la Rafinăria Pointe-a-Pierre.",
+        "A apărut inițial ca așezare pentru lucrătorii de la Uzina de Zahăr Caroni.",
+        "Beneficiază de acces rapid prin autostrada Solomon Hochoy Highway din anii 1970.",
+        "Are o piață comercială foarte activă în ciuda dimensiunilor reduse.",
+        "Aici găsești lăcașuri de cult hinduse, moschei musulmane și biserici creștine alături.",
+        "Satul rural învecinat este legat de rute de transport de tranzit majore.",
+        "A fost fondat în perioada colonială cu influențe spaniole timpurii."
+      ]
+    },
+    {
+      "id": "tt-siparia-cities-v2",
+      "descriptionAdvanced": "Siparia se află în extremitatea sudică, fiind unul dintre cele mai vechi centre urbane din Trinidad cu semnificație religioasă de excepție pentru locuitorii țării. Renumit pentru faimosul festival La Divina Pastora, orașul atrage mii de pelerini hinduşi și creștini care veneresc aceeaşi icoană denumită 'Sipari Mai'. Această sincretizare religioasă unică evidențiază multiculturalismul insulei. De asemenea, orașul a fost mult timp dependent de sectorul petrolier local, cu numeroase puțuri și sonde istorice pe terenurile forestiere din apropiere. Istorie Religioasă K8 — sincretismul caribian și industria energetică timpurie.",
+      "factsAdvanced": [
+        "Biserica La Divina Pastora găzduiește o icoană celebrată de catolici și hinduși deopotrivă.",
+        "Pelerinajul religios major de aici are loc de obicei anual, primăvara.",
+        "Regiunea este un sit activ de explorare a petrolului încă de la începutul anilor 1900.",
+        "A servit ca primă bază pentru primul ministru din Trinidad, Kamla Persad-Bissessar.",
+        "Se află la câțiva kilometri de coasta sudică ce privește spre Venezuela.",
+        "Era anterior o zonă importantă de plantații de cafea și cacao la finele secolului 19.",
+        "Este reședința centrală administrativă a regiunii Siparia Regional Corporation."
+      ]
+    },
+    {
+      "id": "tt-claxton-bay-cities-v2",
+      "descriptionAdvanced": "Claxton Bay este o comunitate de coastă situată de-a lungul Golfului Paria, între Couva și San Fernando, recunoscută ca o placă turnantă industrială. Orașul găzduiește o importantă fabrică de ciment (TCL), care procesează resursele calcaroase ale insulei și asigură exporturi esențiale în regiunea Caraibelor. Activitatea de pescuit este susținută de o flotă locală artizanală care utilizează micul golf pentru acces direct la ocean. În contrast cu centrele urbane, zona prezintă mangrove protejate care susțin habitate de păsări marine delicate. Geografie Economică K8 — industria extractivă marină și habitate de mangrovă.",
+      "factsAdvanced": [
+        "Este locația centrală a fabricii de ciment Trinidad Cement Limited (TCL) din 1954.",
+        "Situat de-a lungul golfului vestic Paria cu acces direct maritim industrial.",
+        "Economia satului se baza inițial aproape exclusiv pe pescuitul tradițional de coastă.",
+        "Este vizibil de pe autostrada principală Solomon Hochoy datorită silozurilor industriale.",
+        "Conține întinderi de mangrove vitale pentru filtrarea poluării costiere.",
+        "O zonă cu un risc ecologic din cauza activităților petrochimice din jur.",
+        "Claxton Bay face legătura dintre Point Lisas industrial și comunitățile sudice."
+      ]
+    },
+    {
+      "id": "tt-fyzabad-cities-v2",
+      "descriptionAdvanced": "Fyzabad rămâne cunoscut pe plan național drept leagănul mișcării sindicale din Trinidad, unde, în anii 1930, lideri precum Tubal Uriah Butler au organizat revolte revoluționare ale lucrătorilor petrolieri. Istoria orașului a fost constant alimentată de primele boom-uri petroliere caraibiene. Fondat inițial de imigranți est-indieni care fugeau de contractele abuzive din India, orașul a purtat numele vechiului oraș Fyzabad din Uttar Pradesh. Deși o așezare modestă, străzile sale marchează începuturile drepturilor muncitorilor în regiune. Sociologie K8 — mișcările sindicale muncitorești și drepturile coloniale.",
+      "factsAdvanced": [
+        "A fost fondat la sfârșitul secolului 19 de un lider religios indian, Reverendul K.J. Grant.",
+        "Renumit pentru revoltele muncii din iunie 1937 conduse de Tubal Uriah Butler.",
+        "În apropierea orașului există o mulțime de infrastructuri petroliere abandonate și active.",
+        "Sărbătorește anual 'Labour Day' (Ziua Muncii) pe 19 iunie printr-o mare paradă.",
+        "Numele orașului este direct legat de Faizabad, din provincia Oudh, India.",
+        "Comunitatea se baza inițial pe plantații mici de legume înainte de descoperirea petrolului.",
+        "Un monument statuar a fost dedicat lui Butler în centrul așezării urbane."
+      ]
+    },
+    {
+      "id": "tt-valencia-cities-v2",
+      "descriptionAdvanced": "Valencia servește ca principală rută de tranzit pentru a ajunge în regiunea nord-estică și pe coastele populare de turism intern din Toco și Salybia. Poziționată în afara orașului Arima, este o zonă ecologică unde terenurile forestiere deluroase fac trecerea la platourile estice. Zona se remarcă prin rețeaua densă de râuri cristaline, preferată adesea ca loc de scăldat pentru localnici în timpul excursiilor de weekend. Comunitatea se extinde progresiv cu dezvoltări de locuințe ce utilizează terenurile foste agricole libere. Ecologie și Turism K6 — ecoturism intern și râurile nepoluate.",
+      "factsAdvanced": [
+        "Râul Valencia este o faimoasă destinație recreativă internă, cunoscută pentru ape limpezi.",
+        "Reprezintă intrarea către rezervațiile forestiere și plajele nord-estice majore.",
+        "S-a dezvoltat de-a lungul Eastern Main Road, ca popas de tranzit important.",
+        "Zonă tradițională de extracție a resurselor ca nisipul și pietrișul pentru construcții.",
+        "Există un ecoparc care promovează conservarea faunei locale din regiunea nordică.",
+        "Este renumită pentru micile tarabe comerciale care vând produse agricole locale.",
+        "Localitatea este relativ mică dar cunoaște o dezvoltare demografică rurală."
+      ]
+    },
+    {
+      "id": "tt-freeport-cities-v2",
+      "descriptionAdvanced": "Freeport este o așezare din partea centrală a insulei, dezvoltată pe terenuri agricole vaste odată folosite pentru recoltarea trestiei de zahăr. Odată un sat liniștit, orașul a cunoscut o puternică explozie de infrastructură cu cartiere rezidențiale, complexe educaționale și unități de depozitare industrială, datorită terenurilor plate și a accesului feroviar și auto vechi. Aici se regăsesc un faimos complex hindu, Dattatreya Yoga Centre, cu cea mai mare statuie a lordului Hanuman din afara Indiei. Urbanism și Religie K7 — tranziția post-agricolă și simbolurile arhitecturale religioase.",
+      "factsAdvanced": [
+        "Găzduiește statuia Lordului Hanuman cu o înălțime de aproximativ 26 de metri.",
+        "Centrul Yoga Dattatreya a fost proiectat cu arhitecți autentici dravidieni din India.",
+        "Terenurile locale aparțineau în principal companiei de stat Caroni Limited (1975).",
+        "Satul are multiple legături directe la autostrada națională nord-sud Solomon Hochoy.",
+        "Zona de vest a orașului conține arii extinse mlaștinoase lângă Golful Paria.",
+        "Activitatea economică s-a orientat către logistică, fabricare și parcuri de retail.",
+        "Fost nod de cale ferată pentru transportul vagoanelor de zahăr brut către rafinării."
+      ]
+    },
+    {
+      "id": "tt-debe-cities-v2",
+      "descriptionAdvanced": "Debe se regăsește în inima districtului sudic penal-regional din Trinidad, la nord de orașul Penal, fiind cunoscut național ca o capitală a artei culinare indo-caraibiene, în special faimosul fel de mâncare Doubles. Este un centru universitar nou, aici construindu-se un campus extins al Universității Indiilor de Vest. Populația și obiceiurile locale subliniază o prezență puternică a culturii migranților sud-asiatici din secolul al XIX-lea, de la practicile agricole de cultivare a orezului la ceremoniile anuale. Geografie Umană K6 — gastronomia tradițională ca motor de dezvoltare locală.",
+      "factsAdvanced": [
+        "Recunoscut drept centrul național pentru vânzătorii de stradă de preparate tipice indiene.",
+        "Un campus nou extins al The University of the West Indies (UWI) a fost construit aici.",
+        "Este conectat de San Fernando de extensia modernă a autostrăzii Solomon Hochoy.",
+        "Zona a fost renumită în istorie pentru fermele sale locale de cultivare a orezului.",
+        "Orașul a luat naștere din vechea așezare din jurul fostei rețele feroviare.",
+        "Debe Market este o locație recunoscută duminica pentru legume locale și pește.",
+        "Predispus adesea la viituri masive provocate de râurile vecine în sezonul umed."
+      ]
+    },
+    {
+      "id": "tt-laventille-cities-v2",
+      "descriptionAdvanced": "Laventille, dominând dealurile aflate la est de inima Port of Spain, deține o semnificație colosală în cultura națională, fiind recunoscut ca locul de naștere al faimosului instrument muzical 'Steelpan'. Cartierul a fost fondat la începutul istoriei țării de eliberații proveniți din sistemul colonial, pe pante dificil de urbanizat. Străzile sale abrupte și înguste adăpostesc unele dintre cele mai respectate trupe muzicale din țară. În ciuda provocărilor economice, spiritul creativ al cartierului rămâne vibrant și ancorat în patrimoniul artistic afro-caribian. Muzică și Societate K8 — invenția steelpanului și comunitățile urbane de pe dealuri.",
+      "factsAdvanced": [
+        "Aici s-a născut 'steelpan-ul' la sfârșitul anilor 1930, din butoaie metalice petroliere.",
+        "Biserica catolică Our Lady of Laventille stă proeminentă pe cel mai înalt vârf.",
+        "Așezarea a fost ocupată inițial de foștii sclavi după abolirea sclaviei din 1834.",
+        "Găzduiește celebra trupă internațională de steelband, Desperadoes Steel Orchestra.",
+        "Teritoriul deluros a împiedicat dezvoltarea infrastructurii municipale standard.",
+        "Festivalul de muzică Panorama are numeroase repetiții majore în aceste străzi.",
+        "Numele derivă din perioada franceză timpurie, semnificând probabil vânturile locale."
+      ]
+    },
+    {
+      "id": "tt-morvant-cities-v2",
+      "descriptionAdvanced": "Morvant, alăturat orașului Laventille pe East-West Corridor, se impune ca un district rezidențial semnificativ la poarta estică a Port of Spain. Dealurile sale sunt presărate cu locuințe ce conturează extinderea capitală din perioada anilor '60. Istoric a fost un teren asociat cu moșiile fermelor spaniole, însă s-a divizat rapid în urma exodului rural masiv. Zona joacă un rol important în peisajul cultural local al muzicii calypso. Condițiile geografice montane impun locuitorilor moduri de construcție unice. Geografie K7 — expansiunea urbană neplanificată a metropolelor caraibiene.",
+      "factsAdvanced": [
+        "Cartier rezidențial major situat exact la est de granițele capitalei Port of Spain.",
+        "Zona Morvant a servit ca bază timpurie pentru mulți imigranți din alte insule Antile.",
+        "Are o puternică conexiune culturală și de divertisment la fel ca și Laventille.",
+        "Localnicii s-au adaptat prin construcția de case terasate pe pante abrupte.",
+        "Punctul istoric Lady Young Road tranzitează marginea zonei sale deluroase.",
+        "Există organizații comunitare puternice orientate pe activități sportive de tineret.",
+        "Dezvoltarea rezidențială s-a accentuat puternic la jumătatea secolului 20."
+      ]
+    },
+    {
+      "id": "tt-st-joseph-cities-v2",
+      "descriptionAdvanced": "St. Joseph, prima capitală a insulei Trinidad, poartă cicatrici și monumente din perioada ocupației spaniole de la sfârșitul secolului al XVI-lea. Amplasat pe cursul superior al râului cu același nume, orașul își păstrează esența colonială, adăpostind ruine vechi, parcuri cu importanță istorică și cea mai veche moschee înființată de musulmanii insulei. Aici s-a semnat actul istoric de capitulare prin care spaniolii au cedat controlul insulei către britanici în 1797. Străzile sale calme fac trecerea la metropola estică și dealurile pitorești de nord. Istorie Colonială K8 — administrația spaniolă și tratatele de cedare a insulelor.",
+      "factsAdvanced": [
+        "Fondat în anul 1592 de exploratorul spaniol Antonio de Berrío sub numele de San José de Oruña.",
+        "A fost capitala istorică a insulei până la invazia britanică finalizată în anul 1797.",
+        "Aici s-a semnat 'Tratatul de Capitulație' de către ultimul guvernator spaniol, Chacón.",
+        "Adăpostește cea mai veche moschee construită din istoria țării (Jinnah Memorial).",
+        "A găzduit rebeliuni majore ale soldaților africani eliberați (Muții din 1837).",
+        "Prima biserică parohială romană din Trinidad se află în piața sa centrală.",
+        "Unul dintre cele mai vechi puncte educaționale cu școlile de prestigiu inființate devreme."
+      ]
+    },
+    {
+      "id": "tt-maracas-valley-cities-v2",
+      "descriptionAdvanced": "Maracas Valley este un defileu muntos extraordinar situat în regiunea Northern Range, renumit pentru relieful verde și vegetația ecuatorială uimitoare. Văile au fost cândva inima producției de cafea și cacao de pe moșiile coloniale spaniole, iar astăzi prezintă vestigii și așezări ecologice de lux. Atrage studenți universitari și exploratori ecologici, aflându-se pe un traseu principal spre nord. Zona se confruntă cu fenomene meteorologice tropicale, captând ploi abundente din cauza efectului orografic al lanțurilor muntoase adiacente. Geografie K7 — efectul orografic, vegetația tropicală și așezările rurale.",
+      "factsAdvanced": [
+        "Valea este un punct de acces natural spre cel mai înalt munte, El Tucuche.",
+        "Cunoscut istoric ca unul dintre cele mai bogate ținuturi pentru faimoasa cacao Trinitario.",
+        "Cascada Maracas (cu o cădere de 91 metri) este o faimoasă destinație ecologică aici.",
+        "Zona are un climat distinctiv, cu precipitații orografice considerabil mai abundente.",
+        "Universitatea din Sudul Caraibelor (USC) este situată central în această vale.",
+        "Găzduiește multiple comunități de conservare a faunei de păsări tropicale și fluturi.",
+        "Denumirea indigenă străveche derivă de la sunetul maracaselor, asociat triburilor Arawak."
+      ]
+    },
+    {
+      "id": "tt-piarco-cities-v2",
+      "descriptionAdvanced": "Piarco se distinge pe plan național drept nodul principal pentru aviația civilă din Trinidad, găzduind cel mai mare aeroport internațional al țării. Odată un sat dominat de livezi mici și pășuni netede în nordul câmpiei Caroni, Piarco a evoluat într-o suburbie de infrastructură modernă. Zona joacă un rol cheie în logistică, importuri aerospațiale și meteorologie, având sediile serviciilor naționale atmosferice. Dezvoltarea hotelurilor și a depozitelor a redefinit geografia terenurilor care au fost cândva doar ferme de ananas. Economie Globală K8 — nodurile de transport aviatic și logistica.",
+      "factsAdvanced": [
+        "Piarco International Airport este cel mai aglomerat hub din regiunea Caraibelor de Sud.",
+        "Baza aeriană a fost inițial fondată în timpul celui de-al Doilea Război Mondial.",
+        "Sediul companiei aeriene naționale (Caribbean Airlines) este situat pe proprietatea aeroportului.",
+        "Aici funcționează Centrul Serviciului de Meteorologie din Trinidad și Tobago.",
+        "Numele orașului este considerat a fi de origine indigenă veche amerindiană.",
+        "Geografia satului a permis construirea pistelor extrem de plate neafectate de relieful nordic.",
+        "A găzduit de asemenea și rute feroviare de vagoane care aduceau materiale militare."
+      ]
+    },
+    {
+      "id": "tt-arouca-cities-v2",
+      "descriptionAdvanced": "Arouca face legătura esențială dintre est și vest, poziționat de-a lungul Eastern Main Road. Zona reflectă dinamicile urbane cu parcuri, o veche închisoare de maximă securitate la capătul său nordic (Golden Grove) și rețeaua istorică de apeducte care furnizează apă zonelor din apropiere. Evoluând dintr-o enclavă de fermieri proveniți din sclavia eliberată în secolul XIX, astăzi Arouca este o zonă puternic urbanizată, cu artere stradale interconectate care oferă rezidențe ample angajaților comerciali. Demografie K6 — tranziția istorică de la agricultură la metropolă suburbane.",
+      "factsAdvanced": [
+        "Închisoarea istorică Remand Prison (Golden Grove) se află la nordul așezării urbane.",
+        "Orășelul a fost vizitat de revoluționarii anticolonialiști care au fugit de plantațiile estice.",
+        "Râul Arouca limitează orașul la est, având vechi trasee de apeducte coloniale.",
+        "Populația satului a fost originară predominant afro-caraibiană după eliberarea din 1834.",
+        "Cultura faimoasă de parang spaniol se desfășoară intens în casele din comunitate iarna.",
+        "Zona a trecut de la ferme rurale la centre rezidențiale în ritm exploziv din anii '70.",
+        "Găzduiește multiple complexe sportive și terenuri care sprijină ligile de cricket locale."
+      ]
+    },
+    {
+      "id": "tt-curepe-cities-v2",
+      "descriptionAdvanced": "Curepe constituie o intersecție aglomerată, fiind unul dintre cele mai vibrante centre de tranzit și educație din Trinidad. Cunoscut pentru străzile sale aglomerate, Curepe funcționează ca un hub de maxis și taxiuri vitale pentru sudul și estul insulei, asigurând conexiunea cu Universitatea Indiilor de Vest. De asemenea, este faimos ca un hotspot al street-food-ului, unde culturile africane și indiene s-au amestecat pentru a oferi gustări unice zi și noapte. Aici s-au dezvoltat magazine comerciale rapide care profită de traficul dens de pasageri. Urbanism K6 — centrele de tranzit public și economia de tip street-food.",
+      "factsAdvanced": [
+        "Un faimos nod de tranzit pentru 'maxi-taxis' (microbuze publice) din toată țara.",
+        "Localitatea este recunoscută național pentru viața de noapte centrată pe vânzarea de 'Doubles'.",
+        "Intersecția Curepe este faimoasă din cauza traficului greu la convergerea autostrăzilor.",
+        "Populația studențească este uriașă datorită apropierii sale imediate de campusul UWI.",
+        "S-a dezvoltat în jurul uneia dintre principalele gări de tren din timpul erei coloniale.",
+        "Curepe găzduiește și un număr substanțial de locuințe studențești temporare private.",
+        "Denumirea localității are origini care amintesc de primele colonizări franceze rurale."
+      ]
+    },
+    {
+      "id": "tt-st-augustine-cities-v2",
+      "descriptionAdvanced": "St. Augustine este recunoscut pe scară largă ca orașul universitar al insulei, fiind mândra gazdă a campusului regional al University of the West Indies (UWI). Zona era la origini o imensă și profitabilă fermă spaniolă, însă s-a transformat definitiv în 1960 atunci când terenurile au fost dedicate avansării educaționale pentru sudul Caraibelor. Campusul adăpostește laboratoare de cercetare tropicală și sere cu cacao vechi. Arhitectura din jur combină clădiri universitare de patrimoniu neoclasice și dezvoltări moderne necesare populației studențești regionale. Sociologie Educațională K8 — dezvoltarea intelectuală post-colonială în regiune.",
+      "factsAdvanced": [
+        "University of the West Indies (UWI) și-a fondat aici campusul principal în anul 1960.",
+        "Inițial sediul Colegiului Imperial de Agricultură Tropicală, înființat oficial în 1921.",
+        "Campusul găzduiește vechi cercetări și sere vitale pentru soiurile de cacao internaționale.",
+        "Are numeroase clădiri istorice inclusiv spectaculoasa clădire a administrației cu fațadă britanică.",
+        "Regiunea adiacentă este împânzită de complexe private rezidențiale pentru studenți.",
+        "Muntele Sfântului Benedict, o faimoasă biserică de pe deal, străjuiește așezarea din nord.",
+        "A fost una dintre primele moșii extinse care utiliza noile tehnologii de procesare a zahărului."
+      ]
+    },
+    {
+      "id": "tt-trincity-cities-v2",
+      "descriptionAdvanced": "Trincity reprezintă exemplul perfect al dezvoltării suburbane programate apărute în perioada post-independenței în Trinidad. Construit inițial ca un experiment imobiliar gigantic pe terenuri vaste, este astăzi cunoscut în principal pentru Trincity Mall, cel mai întins centru comercial de retail din întreaga regiune. Localitatea integrează străzi rezidențiale bine organizate, un teren de golf modern și școli complexe, fiind un magnet pentru cetățenii de clasă mijlocie. Orașul exemplifică tendințele socio-economice ale migrației comerciale dinspre centrele vechi spre mall-uri. Planificare Urbană K7 — dezvoltarea ansamblurilor rezidențiale cu regim planificat.",
+      "factsAdvanced": [
+        "A fost planificat inițial în anii 1970 ca unul dintre primele dezvoltări urbane structurate.",
+        "Trincity Mall este de mult timp cel mai masiv centru comercial din întreaga țară.",
+        "Găzduiește terenul de golf cu 18 găuri 'Millennium Lakes' renumit pentru peisajul plan.",
+        "Se află strategic pe ruta care leagă capitala administrativă de cel mai mare aeroport, Piarco.",
+        "Dezvoltările includ multiple școli gimnaziale extinse de rang înalt regional.",
+        "S-a extins substanțial peste foste terenuri masive dedicate anterior trestiei de zahăr.",
+        "Păstrează comunități închise cu un sistem modern de securitate privat inovator pentru țară."
+      ]
+    },
+    {
+      "id": "tt-carenage-cities-v2",
+      "descriptionAdvanced": "Carenage este un vechi sat maritim de pe coasta nord-vestică a golfului Paria, esențial din punct de vedere istoric pentru reparațiile navelor comerciale. Numele său provine direct din limba franceză, de la procesul de carenare – aplecarea corăbiilor pentru a repara fuselajul din lemn. În a doua jumătate a secolului 20, satul a suferit transformări din cauza proximității de baza navală de la Chaguaramas a armatei americane. Astăzi îmbină docuri tradiționale de pescari cu complexe comerciale moderne ce oferă perspective excepționale asupra golfului. Geografie K6 — industriile navale și locația strategică maritimă.",
+      "factsAdvanced": [
+        "Numele francez înseamnă actul tehnic de curățare și reparare a carenei vaselor de lemn.",
+        "Din punct de vedere istoric a servit ca bază navală esențială pe coasta golfului Paria.",
+        "Armata Statelor Unite a modernizat drumul de coastă de aici pe durata războiului (1940).",
+        "Așezarea combină străzi rurale înguste care urcă pante cu proprietăți fastuoase pe plajă.",
+        "Găzduiește Williams Bay, un punct major local pentru practicarea sporturilor pe apă.",
+        "Activitatea sa dominantă locală rămâne în continuare pescuitul de mică adâncime.",
+        "Există statui dedicate eroilor de război britanici asociați cu evenimentele de protecție a mării."
+      ]
+    }
+  ]
+}

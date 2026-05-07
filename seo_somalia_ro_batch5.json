@@ -1,0 +1,365 @@
+{
+  "lang": "ro",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhambalin-rock-art-history-v2",
+      "descriptionAdvanced": "Dhambalin este un sit de artă rupestră de o frumusețe rară situat în regiunea Sahil din Somaliland, fiind celebru pentru picturile sale policrome unice. Descoperit în 2007, situl prezintă imagini de animale sălbatice și domestice, dar și figuri umane, realizate într-un stil care utilizează nuanțe vibrante de roșu, alb și galben. Dhambalin este remarcabil pentru reprezentările de oi cu cap negru, similare rasei somaleze actuale, demonstrând o continuitate de mii de ani a tradițiilor pastorale în regiune. Situl oferă date prețioase despre climatul și fauna preistorică a Cornului Africii, fiind protejat de un adăpost natural sub stâncă. Geografia K7 — arheologie și peisaje culturale preistorice.",
+      "factsAdvanced": [
+        "Picturile datează de acum aproximativ 5.000 de ani.",
+        "Situl a fost descoperit accidental de o echipă arheologică.",
+        "Include reprezentări unice de berbeci și vite sacre.",
+        "Figurile umane sunt pictate în scene de vânătoare și ritualuri.",
+        "Starea de conservare este excelentă datorită adăpostului de granit.",
+        "Se află la aproximativ 65 km nord-est de Hargeisa.",
+        "Picturile reflectă tranziția de la vânătoare la pastoralism.",
+        "Este considerat un sit sora cu faimosul complex Laas Geel."
+      ]
+    },
+    {
+      "id": "karinhegane-paintings-history-v2",
+      "descriptionAdvanced": "Karinhegane este un sit arheologic situat între orașele Lughaya și Saylac, fiind renumit pentru picturile sale rupestre care înfățișează antilope, vaci și figuri antropomorfe. Arta de la Karinhegane se distinge prin stilul său abstract și prin utilizarea culorii roșu închis, fiind tipică pentru culturile pre-islamice din nordul Somaliei. Situl oferă dovezi despre rutele de migrație ale primelor populații pastorale din Africa de Est și despre modul în care acestea interacționau cu mediul înconjurător. Deși mai puțin cunoscut decât Laas Geel, Karinhegane este o piesă esențială în puzzle-ul preistoriei somaleze, necesitând eforturi de conservare pentru generațiile viitoare. Földrajz K8 — migrații preistorice și patrimoniu rupestru.",
+      "factsAdvanced": [
+        "Picturile rupestre sunt realizate pe pereții de calcar ai muntelui.",
+        "Situl datează din mileniul al III-lea î.Hr.",
+        "În centrul compoziției se află reprezentări de antilope oryx.",
+        "Este situat în câmpia Guban, o zonă aridă de coastă.",
+        "Cercetările arată influențe culturale cu Valea Nilului.",
+        "Picturile sunt expuse eroziunii cauzate de vânturile deșertice.",
+        "Localnicii consideră muntele ca fiind un loc sacru străvechi.",
+        "Karinhegane a fost documentat pentru prima dată în anii '40."
+      ]
+    },
+    {
+      "id": "dhaymoole-rock-art-history-v2",
+      "descriptionAdvanced": "Dhaymoole este un sit de artă rupestră situat în regiunea Sahil, fiind remarcabil prin varietatea stilistică a picturilor sale care acoperă o perioadă lungă de timp. Situl prezintă scene de luptă, animale exotice precum elefanți și girafe, care astăzi nu mai trăiesc în această zonă aridă, sugerând schimbări climatice majore de-a lungul mileniilor. Dhaymoole este un veritabil muzeu în aer liber, unde straturile succesive de picturi spun povestea adaptării umane la un mediu în continuă transformare. Conservarea sitului este o prioritate pentru autoritățile din Somaliland, fiind o resursă educativă inestimabilă pentru tinerii care studiază istoria Africii. Geografia K7 — paleoclimat și reprezentări artistice antice.",
+      "factsAdvanced": [
+        "Picturile descriu o faună diversă, inclusiv rinoceri și girafe.",
+        "Situl se află la poalele munților Ogo.",
+        "Utilizează pigmenți minerali stabili care au rezistat mileniilor.",
+        "Include simboluri geometrice care ar putea reprezenta semne tribale.",
+        "Dhaymoole a fost un loc de adăpost pentru pastorii nomazi.",
+        "Picturile oferă indicii despre vegetația luxuriantă de odinioară.",
+        "Este unul dintre cele mai complexe situri din nordul țării.",
+        "Cercetările prin carbon-14 plasează situl în perioada neolitică."
+      ]
+    },
+    {
+      "id": "awbarkhadle-shrine-history-v2",
+      "descriptionAdvanced": "Sanctuarul Aw Barkhadle este un loc de o importanță istorică și spirituală imensă pentru poporul somalez, situat la sud-est de Hargeisa. Situl este numit după Yusuf bin Ahmad al-Kawneyn, un învățat musulman din secolul al XIII-lea, creditat cu răspândirea Islamului în regiune și cu dezvoltarea sistemului de vocalizare pentru scrierea limbii somaleze. Aw Barkhadle a fost timp de secole locul de încoronare al sultanilor Ifat și Adal, servind ca centru politic și religios al regiunii. Situl cuprinde numeroase morminte antice, ruine de moschei și pietre funerare pre-islamice, reflectând o istorie stratificată. Földrajz K8 — centre religioase și identitate națională.",
+      "factsAdvanced": [
+        "Aici a fost înmormântat veneratul Sheikh Yusuf al-Kawneyn.",
+        "Situl a fost capitala spirituală a dinastiei Walashma.",
+        "Găzduiește ritualuri anuale care atrag mii de pelerini.",
+        "Sunt vizibile ruine ale palatelor sultanilor medievali.",
+        "Yusuf al-Kawneyn a inventat metoda 'Alif la kordon' pentru alfabet.",
+        "Sanctuarul este situat într-o vale stâncoasă pitorească.",
+        "Săpăturile au scos la iveală ceramică din secolul al XIV-lea.",
+        "Este considerat 'Ierusalimul Somaliei' datorită sfințeniei sale."
+      ]
+    },
+    {
+      "id": "hobyo-sultanate-fort-history-v2",
+      "descriptionAdvanced": "Fortul Sultanatului Hobyo este o structură defensivă impunătoare care amintește de perioada de putere a dinastiei Kenadid în centrul Somaliei. Construit la sfârșitul secolului al XIX-lea, fortul a fost nucleul administrativ al Sultanatului Hobyo, care controla rutele comerciale maritime și terestre din regiunea Mudug. Arhitectura sa robustă, realizată din piatră de coral și var, reflectă influențele zanzibareze și otomane, fiind concepută să reziste atacurilor și să proiecteze autoritatea sultanului. Deși în prezent este parțial în ruine, fortul rămâne un simbol al mândriei regionale și al rezilienței statelor somaleze în fața expansiunii coloniale. Geografia K7 — sultanate istorice și arhitectură militară.",
+      "factsAdvanced": [
+        "A fost construit de Sultanul Yusuf Ali Kenadid în anii 1880.",
+        "Zidurile fortului ofereau vedere panoramică asupra oceanului.",
+        "Sultanatul Hobyo a fost un actor politic major în Cornul Africii.",
+        "Interiorul fortului includea camere de audiență și depozite de arme.",
+        "A rezistat mai multor expediții navale italiene.",
+        "Hobyo a fost un port de export vital pentru cai și tămâie.",
+        "Fortul este situat în cel mai înalt punct al orașului vechi.",
+        "În apropiere se află mormintele familiei regale Kenadid."
+      ]
+    },
+    {
+      "id": "qardho-tombs-history-v2",
+      "descriptionAdvanced": "Mormintele istorice din Qardho reprezintă o necropolă antică de o importanță deosebită, situată în regiunea Bari din Puntland. Aceste structuri funerare, sub formă de tumuli și monumente de piatră, aparțin perioadei pre-islamice și începuturilor erei islamice, fiind locul de odihnă al liderilor și nobilimii clanului Majeerteen. Qardho a fost timp de secole inima administrativă a regiunii, iar mormintele sale monumentale reflectă o ierarhie socială complexă și un respect profund pentru strămoși. Situl oferă date valoroase despre evoluția arhitecturii funerare somaleze și despre modul în care credințele religioase s-au transformat de-a lungul timpului. Földrajz K8 — monumente funerare și tradiții genealogice.",
+      "factsAdvanced": [
+        "Include mormintele sultanilor din dinastia Majeerteen.",
+        "Unele structuri funerare au peste 1.000 de ani vechime.",
+        "Situl este situat într-o zonă de platou arid, bine conservat.",
+        "Arhitectura mormintelor variază de la tumuli simpli la mausolee.",
+        "Qardho este considerat un oraș 'aristocratic' datorită istoriei sale.",
+        "Monumentele sunt adesea decorate cu simboluri clanice.",
+        "Situl este vizitat frecvent de cercetători ai culturii somaleze.",
+        "Reprezintă o verigă importantă în istoria orală a Somaliei."
+      ]
+    },
+    {
+      "id": "alula-castle-history-v2",
+      "descriptionAdvanced": "Castelul din Alula, situat la vârful Cornului Africii, a fost reședința de vară și fortăreața strategică a sultanilor Majeerteen. Construit pe malul oceanului, castelul oferea control total asupra navigației în strâmtoarea Guardafui, fiind un punct de observație crucial pentru rutele maritime spre India. Arhitectura sa impresionantă, cu turnuri rotunde și ziduri crenelate, reflectă bogăția și puterea sultanatului în secolul al XIX-lea. Alula era locul unde suveranii somalezi primeau delegații străine și gestionau comerțul cu perle și tămâie. Astăzi, ruinele castelului stau mărturie a importanței geopolitice a Somaliei în perioada pre-colonială. Geografia K7 — castele de coastă și geopolitică maritimă.",
+      "factsAdvanced": [
+        "A fost principala bază navală a Sultanatului Majeerteen.",
+        "Sultanul Osman Mahamuud a folosit castelul ca sediu diplomatic.",
+        "Este situat în cel mai nordic district al Somaliei continentale.",
+        "Construcția este realizată din calcar marin și mortar de var.",
+        "A supraviețuit bombardamentelor navale britanice din secolul XIX.",
+        "Infrastructura includea un mic port privat pentru corăbiile sultanului.",
+        "Reprezintă un punct de referință pentru istoria maritimă somaleză.",
+        "Vizibilitatea de pe turnuri acoperă zeci de mile marine."
+      ]
+    },
+    {
+      "id": "bargaal-fort-history-v2",
+      "descriptionAdvanced": "Bargaal este un oraș de coastă istoric situat în regiunea Bari, faimos pentru fortul său masiv care a servit drept reședință principală pentru dinastia Bogor (sultanii) din Puntland. Fortul, construit din piatră de munte și coral, domina plaja și portul, fiind inima administrativă a unui teritoriu vast care se întindea până în interiorul țării. Bargaal a fost un centru major pentru comerțul cu mirodenii și pentru industria perlelor, atrăgând negustori din toată lumea arabă. Ruinele fortului, împreună cu casele vechi ale nobilimii, formează un peisaj istoric care evocă prosperitatea Somaliei din secolele XVIII și XIX. Földrajz K8 — reședințe sultanale și porturi comerciale.",
+      "factsAdvanced": [
+        "Bargaal a fost capitala de iarnă a Sultanatului Majeerteen.",
+        "Fortul a fost scena unor bătălii eroice împotriva invaziilor externe.",
+        "Arhitectura sa este un mix de elemente locale și influențe coloniale.",
+        "A fost sediul unor importante tratate comerciale cu puterile europene.",
+        "Zona este renumită pentru tradițiile sale de navigație maritimă.",
+        "Fortificațiile includ bastioane pentru tunuri defensive.",
+        "Populația locală păstrează cu sfințenie legendele despre regi.",
+        "Este situat la poalele munților Bari, oferind o climă moderată."
+      ]
+    },
+    {
+      "id": "merca-ancient-port-history-v2",
+      "descriptionAdvanced": "Vechiul port Merca, situat pe coasta regiunii Lower Shabelle, este o bijuterie istorică a Somaliei, datând cel puțin din secolul al VII-lea. Cunoscut pentru arhitectura sa unică 'Banadir', cu case albe din corali și uși din lemn sculptat, Merca a fost un centru major al comerțului cu tămâie, aur și textile. Portul a fost un nod vital în rețeaua de orașe-stat somaleze care dominau Oceanul Indian în perioada medievală. Merca a servit drept capitală a clanului Biimaal, care a opus o rezistență dârză împotriva ocupației italiene la începutul secolului XX. Orașul păstrează o atmosferă mediteraneană, cu străzi înguste și o moștenire culturală vibrantă. Geografia K7 — orașe-port Banadir și rezistență anticolonială.",
+      "factsAdvanced": [
+        "Merca a fost menționată de călătorul Ibn Battuta în secolul al XIV-lea.",
+        "Arhitectura sa este renumită pentru utilizarea coralului prelucrat.",
+        "A fost un centru cheie pentru exportul de banane somaleze.",
+        "Revoluția Biimaal împotriva italienilor a durat peste 20 de ani.",
+        "Orașul este situat pe o fâșie îngustă între dune de nisip și ocean.",
+        "Farul din Merca este un reper istoric pentru toți marinarii.",
+        "Economia medievală a orașului se baza pe producția de bumbac.",
+        "Păstrează un amestec cultural de influențe arabo-somaleze."
+      ]
+    },
+    {
+      "id": "barawa-ancient-city-history-v2",
+      "descriptionAdvanced": "Orașul antic Barawa (Brava) este un sit istoric de o importanță culturală excepțională, situat pe coasta de sud a Somaliei. Fondat în urmă cu peste un mileniu, Barawa a fost un oraș-stat prosper și un centru de învățare islamică renumit în întreaga lume musulmană. Orașul este celebru pentru cultura sa multietnică și pentru dialectul său unic, Chimwiini. Barawa a fost o destinație cheie pentru comercianții de mirodenii și pentru producția de textile de lux, fiind parte integrantă a culturii Swahili din Cornul Africii. Arhitectura sa cu străzi labirintice și case fortificate din piatră reflectă secole de adaptare la un mediu maritim dinamic. Földrajz K8 — orașe Swahili și diversitate lingvistică.",
+      "factsAdvanced": [
+        "A fost unul dintre cele cinci orașe originale ale Coastei Banadir.",
+        "S-a opus ferm dominației portugheze în secolul al XVI-lea.",
+        "Barawa este renumită pentru erudiții săi religioși și poezie.",
+        "Păstrează tradiția fabricării pălăriilor 'Brava' lucrate manual.",
+        "Orașul este construit integral din piatră de corali și var.",
+        "A fost un port crucial pentru exportul de fildeș și ambră.",
+        "Dialectul local are influențe din somaleză, swahili și arabă.",
+        "Este un sit propus pentru conservare ca patrimoniu național."
+      ]
+    },
+    {
+      "id": "las-khorey-fort-history-v2",
+      "descriptionAdvanced": "Fortul Las Khorey este o mărturie impunătoare a puterii Sultanatului Warsangali în nordul Somaliei. Situat strategic pe coasta regiunii Sanaag, acest fort masiv de piatră domina Golful Aden și servea drept sediu administrativ și militar pentru sultanul Mohamoud Ali Shire. Fortul a fost nucleul unui port comercial înfloritor prin care se exportau resurse naturale prețioase precum tămâia, mirul și perlele. Structura sa defensivă, cu turnuri înalte și ziduri groase, reflectă necesitatea protejării bogățiilor comerciale împotriva piraților și a forțelor coloniale. Las Khorey rămâne unul dintre cele mai bine conservate forturi din Somalia pre-colonială. Geografia K7 — sultanate nordice și rute de tămâie.",
+      "factsAdvanced": [
+        "A fost sediul principal al puterii pentru Sultanul Mohamoud Ali Shire.",
+        "Zidurile fortului includ posturi de tragere pentru muschete.",
+        "Sultanatul Warsangali are o istorie documentată de peste 600 de ani.",
+        "Fortul este situat într-un punct unde muntele Cal Madow ajunge la mare.",
+        "A fost un centru de colectare pentru guma arabică de cea mai bună calitate.",
+        "Sultanul local a fost un aliat cheie al mișcării dervișilor.",
+        "Ruinele includ depozite pentru mărfuri de export și buncăre.",
+        "Este un simbol al autonomiei somaleze în fața imperiilor străine."
+      ]
+    },
+    {
+      "id": "afgooye-geledi-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele Sultanatului Geledi din Afgooye reprezintă rămășițele unui stat somalez puternic care a dominat valea fluviului Shebelle în secolele XVIII și XIX. Afgooye a fost capitala administrativă a acestui sultanat, care controla agricultura fertilă și rutele comerciale vitale din sudul Somaliei. Ruinele cuprind palatele sultanilor, moschei vechi și structuri administrative care demonstrează o organizare statală sofisticată. Dinastia Gobroon, care a condus Geledi, a fost celebră pentru abilitățile sale diplomatice și pentru managementul resurselor de apă ale fluviului. Situl este locul anual al festivalului Istunka, păstrând vie moștenirea culturală a acestui stat istoric. Geografia K8 — sultanate fluviale și festivități tradiționale.",
+      "factsAdvanced": [
+        "Sultanatul Geledi a învins forțele zanzibareze în secolul al XIX-lea.",
+        "Afgooye a servit drept reședință pentru puternicul Sultan Ahmed Yusuf.",
+        "Ruinele sunt situate pe malul fertil al fluviului Shebelle.",
+        "Arhitectura combină stilul rural somalez cu elemente urbane.",
+        "Statul Geledi controla întreg comerțul cu banane și bumbac.",
+        "Palatul sultanului era un centru de reconciliere pentru clanuri.",
+        "Situl este esențial pentru înțelegerea istoriei sudului Somaliei.",
+        "Istunka este o luptă ritualică ce datează din perioada Geledi."
+      ]
+    },
+    {
+      "id": "luuq-ancient-trading-post-history-v2",
+      "descriptionAdvanced": "Luuq Ganaane este unul dintre cele mai vechi puncte comerciale din interiorul Somaliei, situat pe o peninsulă fluvială unică formată de râul Juba. Datorită poziției sale de 'oază' înconjurată de apă, Luuq a fost timp de secole un nod strategic pentru caravanele care călătoreau între regiunea Ogaden și coasta Oceanului Indian. Orașul a fost sediul unui sultanat local prosper, beneficiind de controlul asupra resurselor de apă și a terenurilor agricole fertile. Ruinele vechiului oraș Luuq includ structuri din perioada sultanatului și vestigii ale administrației italiene, oferind o perspectivă rară asupra istoriei interioare a Somaliei. Földrajz K7 — meandre fluviale și rute de caravană.",
+      "factsAdvanced": [
+        "Numele 'Luuq' înseamnă 'buclă' în limba somaleză.",
+        "A fost un centru major pentru comerțul cu gume, piei și vite.",
+        "Este situat la granița naturală dintre Somalia și Etiopia.",
+        "Sultanatul Ganaane a menținut independența orașului timp de secole.",
+        "Râul Juba oferă o barieră defensivă naturală orașului.",
+        "Italienii au construit un pod istoric și un sediu administrativ aici.",
+        "Arheologia locală include ceramică antică de tip pastoral.",
+        "Este considerat poarta de acces către bazinul superior al fluviului Juba."
+      ]
+    },
+    {
+      "id": "warsheikh-ancient-port-history-v2",
+      "descriptionAdvanced": "Warsheikh este un port istoric situat pe coasta regiunii Middle Shabelle, renumit ca un centru de spiritualitate islamică și comerț maritim. Orașul a fost menționat în scrierile geografilor medievali ca un port prosper care exporta ambră și produse din piele către Peninsula Arabică. Warsheikh este locul unde s-au stabilit numeroși învățați musulmani, transformând orașul într-un pol al educației religioase. Ruinele moscheilor vechi și ale turnurilor de observație de-a lungul oceanului mărturisesc despre importanța sa defensivă și culturală. Orașul păstrează o arhitectură tradițională Banadir, fiind un simbol al continuității civilizației de coastă somaleze. Geografia K8 — porturi religioase și rețele de erudiție.",
+      "factsAdvanced": [
+        "Este situat la aproximativ 60 km nord-est de Mogadishu.",
+        "A fost un centru major pentru ordinul sufit Qadiriyya.",
+        "Inscripțiile din moscheile vechi datează din secolul al XIII-lea.",
+        "Portul era renumit pentru exportul de ambră cenușie (ambergris).",
+        "A servit drept punct de refugiu pentru comunitățile de coastă.",
+        "Arhitectura sa este compusă din coral alb și calcar.",
+        "Warsheikh a fost o destinație pentru pelerini din tot Cornul Africii.",
+        "În prezent, este un centru activ pentru pescuitul artizanal."
+      ]
+    },
+    {
+      "id": "ras-hafun-lighthouse-history-v2",
+      "descriptionAdvanced": "Farul de la Ras Hafun, situat pe cel mai estic punct al continentului african, este un monument istoric de o importanță maritimă vitală. Construit inițial de italieni în secolul al XX-lea pentru a ghida navele pe periculoasa rută spre India, farul a fost martorul multor naufragii și bătălii maritime. Peninsula Ras Hafun în sine este un tezaur istoric, găzduind vestigiile anticului Opone. Farul reprezintă un reper geografic extrem, unde Oceanul Indian se întâlnește cu vânturile puternice ale Cornului Africii. Deși parțial distrus, structura sa rămâne un simbol al conectivității Somaliei cu rutele comerciale globale și un punct de referință pentru navigatori. Földrajz K7 — faruri strategice și puncte geografice extreme.",
+      "factsAdvanced": [
+        "Se află pe peninsula Ras Hafun, la 51° 24' longitudine estică.",
+        "Farul original italian avea o vizibilitate de peste 20 de mile marine.",
+        "Este situat în locul unde se afla vechiul emporium Opone.",
+        "Zona este renumită pentru vânturile musonice extrem de puternice.",
+        "Reprezintă 'Urechea Africii' din punct de vedere cartografic.",
+        "A fost o țintă strategică în timpul celui de-al Doilea Război Mondial.",
+        "Laguna din apropiere adăpostește numeroase epave istorice.",
+        "Farul este un punct de atracție pentru turiștii de aventură."
+      ]
+    },
+    {
+      "id": "qoorgaab-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele Qoorgaab reprezintă un sit istoric mai puțin explorat situat în regiunea Bakool din sudul Somaliei, oferind indicii prețioase despre societățile sedentare din interioarul țării. Situl cuprinde resturile unor așezări de piatră și sisteme de colectare a apei care datează din perioada sultanatelor medievale. Qoorgaab a fost probabil un centru agricol și de colectare pentru caravanele care se îndreptau spre porturile Mogadishu și Merca. Arhitectura sitului, adaptată la condițiile aride ale platoului Bakool, demonstrează o ingeniozitate remarcabilă în utilizarea resurselor locale. Acest sit este esențial pentru completarea imaginii istorice a Somaliei dincolo de marile orașe de coastă. Geografia K8 — așezări de platou și arheologie rurală.",
+      "factsAdvanced": [
+        "Situl cuprinde structuri circulare și rectangulare din piatră uscată.",
+        "Este situat în apropierea orașului Xuddur, pe un platou arid.",
+        "Include rezervoare de apă sculptate direct în stânca calcaroasă.",
+        "Săpăturile au scos la iveală unelte agricole și resturi de cereale.",
+        "A fost un punct focal pentru clanurile nomade în timpul secetei.",
+        "Arhitectura demonstrează o influență dinspre zonele montane de nord.",
+        "Situl a servit probabil ca avanpost defensiv.",
+        "Este un sit protejat prin tradiția orală a comunității locale."
+      ]
+    },
+    {
+      "id": "macajilayn-ruins-history-v2",
+      "descriptionAdvanced": "Macajilayn este un sit istoric situat în regiunea Sanaag, fiind faimos pentru ruinele sale care datează din perioada de glorie a Sultanatului Warsangali. Situl cuprinde structuri administrative, depozite și locuințe care demonstrează bogăția generată de comerțul cu tămâie și perle. Macajilayn a servit drept reședință pentru unii dintre membrii familiei regale warsangali, fiind situat într-o locație care oferea atât acces la resursele muntelui, cât și la cele ale mării. Ruinele sunt remarcabile prin calitatea construcției în piatră și prin modul în care au rezistat climatului aspru din nordul Somaliei, fiind un pilon al identității istorice a regiunii Sanaag. Földrajz K7 — arhitectură nobiliară și resurse montane.",
+      "factsAdvanced": [
+        "Situl include ruinele unui palat cu turnuri de observație.",
+        "Este situat pe versanții munților Cal Madow.",
+        "Construcțiile folosesc var de mare și piatră de munte șlefuită.",
+        "A fost un centru administrativ pentru controlul recoltei de tămâie.",
+        "Inscripțiile locale menționează legături cu Peninsula Arabică.",
+        "Situl oferă o vedere spectaculoasă asupra Golfului Aden.",
+        "Macajilayn a fost abandonat la începutul secolului al XX-lea.",
+        "Este considerat unul dintre cele mai romantice situri istorice din nord."
+      ]
+    },
+    {
+      "id": "bender-qassim-old-town-history-v2",
+      "descriptionAdvanced": "Orașul vechi Bender Qassim este nucleul istoric al metropolei moderne Bosaso, situat în regiunea Bari din Puntland. Fondat ca un mic sat de pescari, Bender Qassim s-a transformat într-un port comercial prosper sub influența comercianților arabi și a sultanatelor locale. Cartierul vechi păstrează arhitectura tradițională de coastă, cu străzi înguste și moschei de piatră care datează de sute de ani. Numele său onorează figura legendară a lui Qassim, cel care a dezvoltat portul. Bender Qassim reprezintă rădăcinile istorice ale spiritului comercial somalez, fiind martora evoluției de la comerțul cu mirodenii la economia maritimă modernă. Geografia K8 — centre istorice urbane și dezvoltare portuară.",
+      "factsAdvanced": [
+        "Bender Qassim era numele oficial al orașului Bosaso până în anii '90.",
+        "Cartierul vechi este situat chiar lângă portul comercial modern.",
+        "Găzduiește Moscheea Mare din Bosaso, o structură veche de secole.",
+        "Arhitectura include uși sculptate manual în stil somalez.",
+        "A fost un hub pentru exportul de tămâie către India.",
+        "Zona veche a fost centrul primelor agenții comerciale europene.",
+        "Numele 'Bender' indică statutul său de oraș-port în persană.",
+        "Multe clădiri vechi sunt restaurate de antreprenori locali."
+      ]
+    },
+    {
+      "id": "eyl-dervish-fort-history-v2",
+      "descriptionAdvanced": "Fortul Derviș din Eyl (Silsilat Eyl) este una dintre cele mai importante fortificații ale mișcării conduse de Sayyid Mohammed Abdullah Hassan în nord-estul Somaliei. Construit din piatră masivă de faleză la începutul secolului al XX-lea, fortul domina golful Eyl și valea Nugaal, oferind dervișilor control strategic asupra coastei Oceanului Indian. Complexul includea buncăre, depozite de alimente și locuințe pentru luptători, fiind conceput pentru a rezista unor asedii lungi. Fortul din Eyl este un simbol al rezistenței somaleze împotriva colonialismului britanic și italian, rămânând o destinație istorică majoră pentru toți cei interesați de lupta pentru independență. Földrajz K7 — fortificații dervișe și rezistență anticolonială.",
+      "factsAdvanced": [
+        "A fost construit în 1905 ca un bastion împotriva invaziei maritime.",
+        "Zidurile de piatră au o grosime de peste 1,5 metri.",
+        "A deservit mișcarea dervișă timp de peste 15 ani.",
+        "Este situat pe un platou care oferă o vizibilitate perfectă asupra mării.",
+        "Include morminte ale unor comandanți derviși loiali lui Sayyid.",
+        "A fost parțial restaurat de guvernul din Puntland.",
+        "Legendele spun că sub fort există tuneluri care duc la mare.",
+        "Eyl a fost capitala de coastă a Statului Derviș."
+      ]
+    },
+    {
+      "id": "so-mogadishu-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Catedrala din Mogadishu este unul dintre cele mai recunoscute repere ale arhitecturii coloniale italiene din Somalia, fiind finalizată în 1928. Construită în stil gotic normand, inspirată de catedrala din Cefalù (Sicilia), edificiul domina orizontul orașului cu cele două turnuri gemene impunătoare. Catedrala a servit drept sediu al Episcopiei Romano-Catolice din Mogadishu, reprezentând o epocă de diversitate culturală și influență europeană în capitală. Deși a fost grav avariată în timpul războiului civil, ruinele sale monumentale rămân un punct de referință iconic în centrul orașului, amintind de istoria cosmopolită a Mogadishu-ului. Geografia K8 — arhitectură colonială și patrimoniu religios.",
+      "factsAdvanced": [
+        "A fost construită între anii 1923 și 1928 de italieni.",
+        "Este situată în districtul Hamar Weyne, în apropierea palatului prezidențial.",
+        "Turnurile catedralei aveau o înălțime de peste 30 de metri.",
+        "A fost cea mai mare biserică catolică din Africa de Est la acea vreme.",
+        "Arhitectura include arcade frânte și ferestre tip rozetă.",
+        "Astăzi, structura este un monument istoric protejat.",
+        "Simbolizează perioada administrației Somaliei Italiene.",
+        "Este un reper vizual major pe hărțile vechi ale orașului."
+      ]
+    },
+    {
+      "id": "so-islamic-solidarity-mosque-landmarks-v2",
+      "descriptionAdvanced": "Moscheea Solidarității Islamice din Mogadishu este cea mai mare și mai impunătoare moschee din Somalia, fiind un simbol al credinței și al unității naționale. Inaugurată în 1987 cu sprijinul Arabiei Saudite, moscheea poate găzdui peste 10.000 de credincioși simultan. Situată pe o colină cu vedere la Oceanul Indian, arhitectura sa modernă, cu o cupolă aurie masivă și un minaret înalt, domină peisajul urban al capitalei. Moscheea a fost recent reabilitată, redevenind centrul spiritual al țării și un loc unde se desfășoară cele mai importante rugăciuni de sărbătoare. Este o capodoperă a ingineriei contemporane care combină stilul islamic clasic cu elemente somaleze. Geografia K7 — centre spirituale și arhitectură monumentală.",
+      "factsAdvanced": [
+        "A fost construită cu fonduri de la Fundația Fahd din Arabia Saudită.",
+        "Capacitatea totală depășește 10.000 de locuri în interior și curte.",
+        "A fost redeschisă oficial în 2015 după o restaurare completă.",
+        "Minaretul său este unul dintre cele mai înalte din Cornul Africii.",
+        "Este situată strategic în apropierea Parlamentului Somalez.",
+        "Găzduiește conferințe internaționale pe teme religioase și sociale.",
+        "Interiorul este decorat cu marmură și covoare de lux.",
+        "Reprezintă mândria renașterii religioase a capitalei."
+      ]
+    },
+    {
+      "id": "so-mogadishu-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Vechiul far din Mogadishu, situat pe promontoriul stâncos al cartierului Abdiaziz, este un reper maritim iconic care datează din perioada medievală și colonială. Farul a ghidat timp de secole navele care navigau prin apele bogate, dar periculoase, ale Oceanului Indian către unul dintre cele mai prospere porturi ale Africii de Est. Structura sa cilindrică albă, înconjurată de apele azurii, a devenit o imagine reprezentativă pentru frumusețea melancolică a Mogadishu-ului. Deși în prezent nu mai este operațional în forma sa originală, farul rămâne un punct de atracție turistică și un simbol al istoriei maritime milenare a orașului. Geografia K8 — navigație maritimă și peisaje de coastă.",
+      "factsAdvanced": [
+        "A fost construit inițial din piatră de coral extrasă local.",
+        "Este situat în cel mai estic punct al golfului Mogadishu.",
+        "A servit drept punct de control pentru navele de pe Drumul Mătăsii maritime.",
+        "Italienii l-au modernizat în anii 1930 cu noi sisteme optice.",
+        "Turnul oferă o panoramă spectaculoasă asupra plajei Liido.",
+        "Imaginea sa apare pe numeroase timbre poștale somaleze vechi.",
+        "Este o destinație populară pentru tinerii din oraș în timpul weekendului.",
+        "Reprezintă reziliența orașului în fața timpului și a mării."
+      ]
+    },
+    {
+      "id": "so-daljirka-dahsoon-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Daljirka Dahsoon (Soldatul Necunoscut) este un simbol național profund situat în inima Mogadishu-ului, dedicat bărbaților și femeilor care și-au dat viața pentru independența și unitatea Somaliei. Monumentul, un obelisc masiv așezat pe o bază decorată cu motive naționale, este locul principal unde se desfășoară ceremoniile oficiale de Ziua Independenței. Situat în apropierea palatului prezidențial, Daljirka Dahsoon reprezintă sacrificiul generațiilor trecute și aspirațiile de pace ale poporului somalez. Zona din jurul monumentului a fost recent amenajată, redevenind un loc de reculegere și mândrie civică pentru locuitorii capitalei. Geografia K7 — simboluri naționale și spații urbane comemorative.",
+      "factsAdvanced": [
+        "A fost construit la începutul anilor 1970 în perioada Republicii.",
+        "Este punctul focal al festivităților de 1 Iulie (Independența).",
+        "Obeliscul reprezintă unitatea celor cinci regiuni somaleze.",
+        "Include o flacără eternă care este aprinsă la evenimente oficiale.",
+        "Este situat în districtul Bondhere, un centru administrativ.",
+        "Monumentul a fost restaurat de mai multe ori după 2012.",
+        "Găzduiește parade militare și discursuri prezidențiale.",
+        "Este unul dintre cele mai păzite obiective din oraș."
+      ]
+    },
+    {
+      "id": "so-national-theatre-landmarks-v2",
+      "descriptionAdvanced": "Teatrul Național al Somaliei din Mogadishu este epicentrul culturii și artelor somaleze, inaugurat în 1967 ca un cadou de la guvernul chinez. Clădirea modernă, cu o arhitectură distinctivă, a fost scena celor mai celebre spectacole de teatru, muzică și poezie din epoca de aur a Somaliei. Teatrul a jucat un rol crucial în conservarea limbii somaleze și în promovarea talentelor naționale prin grupul celebru Waaberi. După ce a fost închis timp de două decenii, teatrul a fost redeschis recent, găzduind din nou evenimente culturale care semnalează revenirea la normalitate a vieții artistice din capitală. Földrajz K8 — centre culturale și arte performative.",
+      "factsAdvanced": [
+        "A fost inaugurat în 1967 cu o capacitate de peste 1.500 de locuri.",
+        "Aici s-au născut celebrele trupe muzicale somaleze precum Waaberi.",
+        "Arhitectura clădirii este un mix de modernism și motive locale.",
+        "A fost prima instituție culturală majoră a Somaliei independente.",
+        "Redeschiderea sa în 2012 a fost un moment istoric de speranță.",
+        "Teatrul promovează în prezent tinerii poeți și dramaturgi.",
+        "Este situat în centrul politic al orașului, lângă Daljirka Dahsoon.",
+        "Găzduiește Festivalul Internațional de Carte din Mogadishu."
+      ]
+    },
+    {
+      "id": "so-mogadishu-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Mogadishu este cea mai mare arenă sportivă din Somalia și un simbol al pasiunii naționale pentru fotbal. Construit în 1977 cu asistență tehnică chineză, stadionul a găzduit competiții internaționale majore și ceremonii naționale. După ce a fost folosit timp de ani de zile ca bază militară, stadionul a fost eliberat, renovat complet și redeschis în 2020, eveniment marcat de primul meci de fotbal sub nocturnă după decenii. Stadionul reprezintă speranța și spiritul sportiv al tinerilor somalezi, fiind inima competițiilor de fotbal din Somalia și locul unde se întâlnesc fanii tuturor cluburilor din regiunea Banadir. Geografia K7 — infrastructură sportivă și viață socială.",
+      "factsAdvanced": [
+        "Are o capacitate de peste 35.000 de spectatori pe scaune.",
+        "A fost renovat cu standarde FIFA în anul 2020.",
+        "Include o pistă de atletism de nivel internațional.",
+        "Este sediul echipei naționale de fotbal a Somaliei (Ocean Stars).",
+        "A fost cel mai modern stadion din Africa de Est la inaugurare.",
+        "Renovarea a inclus instalarea unor sisteme moderne de nocturnă.",
+        "Este situat în districtul Warta Nabadda din capitală.",
+        "Meciurile de pe stadion sunt transmise în direct la televiziunea națională."
+      ]
+    }
+  ]
+}

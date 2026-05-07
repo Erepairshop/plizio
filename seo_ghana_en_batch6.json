@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "osu-castle-landmarks-v2",
+      "descriptionAdvanced": "Osu Castle is an iconic coastal fortress situated on the edge of the Atlantic Ocean in Accra's vibrant Osu neighborhood. Originally constructed by the Danish in the 17th century as a fortified trading post, its stark white walls have withstood centuries of crashing waves and colonial conflict. While its deep history is rooted in the transatlantic slave trade, its modern landmark status is derived from its long tenure as the official seat of the Ghanaian presidency, housing leaders from colonial governors to post-independence Presidents. Though the government seat moved to Jubilee House in 2013, the castle remains a formidable architectural symbol of national authority and historical endurance. History K8 — colonial defensive networks.",
+      "factsAdvanced": [
+        "Situated on the rocky coastline of the Osu district in central Accra.",
+        "Constructed originally by the Dano-Norwegian administration in 1659.",
+        "Served as the official seat of the Ghanaian government for over a century.",
+        "The presidency was officially relocated from the castle to Jubilee House in 2013.",
+        "Features distinctive stark white defensive walls and heavy coastal artillery.",
+        "Functioned historically as a major depot during the transatlantic slave trade."
+      ]
+    },
+    {
+      "id": "elmina-castle-landmarks-v2",
+      "descriptionAdvanced": "Elmina Castle, visually dominating the coastline of the Central Region, is an architectural marvel and the oldest European building south of the Sahara. Built by the Portuguese in 1482, the massive white fortress was engineered with towering walls, deep moats, and a complex internal courtyard system designed to withstand both naval bombardments and inland sieges. Its sheer scale makes it an unavoidable landmark that physically defines the town of Elmina. Recognized globally as a UNESCO World Heritage Site, the castle stands today as a haunting, monumental physical record of early European maritime expansion and the horrors of the transatlantic slave trade. History K8 — early European contact.",
+      "factsAdvanced": [
+        "The oldest European-constructed building existing in Sub-Saharan Africa.",
+        "Built by the Portuguese in 1482 and originally named São Jorge da Mina.",
+        "Features massive stone walls, deep defensive moats, and a central courtyard.",
+        "Captured and extensively modified by the Dutch West India Company in 1637.",
+        "Recognized internationally as a profoundly significant UNESCO World Heritage Site.",
+        "A central monument for global diaspora heritage tourism and remembrance."
+      ]
+    },
+    {
+      "id": "cape-coast-castle-landmarks-v2",
+      "descriptionAdvanced": "Cape Coast Castle is a colossal, sprawling fortification built directly onto the rocky shoreline of the Central Region. With its massive stone ramparts and rows of heavy cannons pointing out to the Atlantic, it is the defining architectural landmark of the historic city of Cape Coast. The castle features a striking visual contrast between the airy, palatial upper quarters used by the British colonial governors and the claustrophobic, subterranean dungeons used to hold enslaved Africans. As a UNESCO World Heritage site, it remains one of the most visited and emotionally powerful landmarks on the African continent, serving as the ultimate physical symbol of the transatlantic slave trade. History K8 — architecture of the slave trade.",
+      "factsAdvanced": [
+        "A massive coastal fortress originally established by Swedish traders in 1653.",
+        "Features rows of heavy coastal artillery pointing outwards to the Atlantic Ocean.",
+        "Contains the infamous 'Door of No Return' opening directly onto the beach.",
+        "Served as the primary administrative headquarters for the British Gold Coast.",
+        "Designated as a UNESCO World Heritage Site, drawing millions of international visitors.",
+        "Geographically defines the coastal skyline of the historic city of Cape Coast."
+      ]
+    },
+    {
+      "id": "larabanga-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Larabanga Mosque is a visually striking, ancient religious landmark located near the Mole National Park in the Savannah Region. Distinguished by its stark white, undulating mud-brick walls and the heavy horizontal timber poles protruding from its structure, it is a masterpiece of traditional Sudanese architecture. Founded in 1421, it holds the prestigious title of being the oldest mosque in Ghana. The building's organic, sculpted form contrasts sharply with modern concrete structures, drawing significant architectural and historical interest. It stands not only as a place of active worship but as an enduring monument to the early trans-Saharan Islamic influence in West Africa. History K8 — trans-Saharan Islamic heritage.",
+      "factsAdvanced": [
+        "Widely recognized as the oldest surviving mosque in the country.",
+        "Built utilizing traditional, highly distinctive Sudanese mud-brick architecture.",
+        "Features heavy timber structural supports protruding through the exterior walls.",
+        "Located in the Savannah Region, functioning as a major regional tourist attraction.",
+        "The building must be periodically re-plastered with mud after heavy rains.",
+        "Listed by the World Monuments Fund as a highly endangered heritage site."
+      ]
+    },
+    {
+      "id": "baba-yara-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Baba Yara Sports Stadium, located in the heart of Kumasi, is the largest sporting arena in Ghana and a colossal structural landmark in the Ashanti Region. With a seating capacity of over 40,000, the stadium is the formidable home ground of Asante Kotoko, one of Africa's most successful football clubs. Originally built in 1959, the stadium's massive concrete grandstands and towering floodlights dominate the local skyline. Named after a legendary Ghanaian footballer, the arena is renowned for its incredibly intense, intimidating atmosphere during major matches, serving as the modern colosseum where Ashanti sporting pride is fiercely contested. Geography K7 — modern sporting infrastructure.",
+      "factsAdvanced": [
+        "The largest sports stadium in Ghana, with a capacity exceeding 40,000 seats.",
+        "Located in the center of Kumasi, the capital of the Ashanti Region.",
+        "Serves as the primary home ground for the famous Asante Kotoko football club.",
+        "Originally constructed in 1959 and extensively renovated over the decades.",
+        "Hosted major international matches during the 2008 Africa Cup of Nations.",
+        "Named in honor of Baba Yara, a legendary Ghanaian football winger."
+      ]
+    },
+    {
+      "id": "manhyia-palace-landmarks-v2",
+      "descriptionAdvanced": "The Manhyia Palace in Kumasi is a site of immense cultural gravity and the official residence of the Asantehene, the monarch of the Ashanti Kingdom. While the modern private residence is contemporary, the adjacent old palace—built by the British in 1925—functions as a highly revered historical landmark and museum. The architecture is a blend of colonial two-story design and traditional Ashanti royal compound layouts. The expansive palace grounds are frequently the site of the spectacular Adae festivals, where the full display of Ashanti gold regalia, traditional drumming, and royal authority transforms the area into a vibrant, living monument of African royalty. History K8 — Ashanti royal authority.",
+      "factsAdvanced": [
+        "The official seat and residence of the Asantehene, the Ashanti monarch.",
+        "Located in the traditional core of Kumasi in the Ashanti Region.",
+        "The historic older palace building currently functions as a royal museum.",
+        "Built by the British in 1925 as a gesture of reconciliation for Prempeh I.",
+        "The palace courtyards host the massive, periodic traditional Adae festivals.",
+        "Features extensive displays of solid gold royal regalia and historical artifacts."
+      ]
+    },
+    {
+      "id": "kejetia-market-landmarks-v2",
+      "descriptionAdvanced": "The Kejetia Market in Kumasi is an overwhelmingly massive commercial landmark, widely cited as the largest single open-air market in West Africa. Visually, the market is a dense, sprawling labyrinth of over 11,000 closely packed tin-roofed stalls, forming a sprawling sea of commerce that dominates the city center. Recently, substantial portions of the market have undergone modern reconstruction, replacing the chaotic organic sprawl with a massive, multi-story modern terminal structure. Whether viewed in its traditional chaotic form or its modern iteration, Kejetia is the undisputed economic heartbeat of the Ashanti Region, moving immense volumes of agricultural and manufactured goods daily. Geography K7 — massive informal markets.",
+      "factsAdvanced": [
+        "Recognized generally as the largest single open-air market in West Africa.",
+        "Located in the very center of Kumasi, dominating the urban landscape.",
+        "Historically consisted of over 11,000 tightly packed individual trading stalls.",
+        "Currently undergoing massive, multi-phase modern structural redevelopment.",
+        "Functions as the primary wholesale distribution hub for central and northern Ghana.",
+        "The sheer volume of daily human traffic causes massive local congestion."
+      ]
+    },
+    {
+      "id": "jubilee-house-landmarks-v2",
+      "descriptionAdvanced": "Jubilee House, situated in Accra, is the breathtakingly modern official residence and office of the President of Ghana. Completed in 2008 to replace Osu Castle as the seat of government, the sprawling complex is an architectural marvel designed to reflect the Golden Stool of the Ashanti Empire, symbolizing unity and supreme authority. The massive structure features a striking, sweeping roofline and highly secure, modern administrative facilities. It stands as a powerful, contemporary symbol of Ghana's democratic stability and its definitive break from utilizing colonial-era slave forts for its highest office of state. History K8 — modern state architecture.",
+      "factsAdvanced": [
+        "The official administrative office and residence of the President of Ghana.",
+        "Constructed in 2008, officially replacing the colonial-era Osu Castle.",
+        "The architectural design is heavily inspired by the traditional Ashanti Golden Stool.",
+        "Located in a highly secure, expansive compound in the capital, Accra.",
+        "Built with significant financial and engineering assistance from the Indian government.",
+        "Previously known temporarily as the Flagstaff House before reverting to Jubilee House."
+      ]
+    },
+    {
+      "id": "national-theatre-ghana-landmarks-v2",
+      "descriptionAdvanced": "The National Theatre of Ghana, dominating the skyline of the Victoriaborg district in Accra, is one of the most visually distinctive modernist landmarks in the country. Built in 1992 with extensive technical and financial assistance from the Chinese government, the massive structure features a sweeping, dramatically curved white roof designed to resemble a ship in full sail or a seagull taking flight. It serves as the premier venue for the performing arts in Ghana, hosting the National Symphony Orchestra, the National Dance Company, and major theatrical productions, anchoring the modern cultural life of the capital city. Geography K7 — modern cultural infrastructure.",
+      "factsAdvanced": [
+        "A highly prominent modernist architectural landmark located in central Accra.",
+        "Constructed in 1992 with significant engineering assistance from China.",
+        "The sweeping, curved roof design conceptually resembles a ship's sails.",
+        "Serves as the primary national venue for large-scale performing arts and theater.",
+        "Home to the National Symphony Orchestra and the National Dance Company.",
+        "The main auditorium features a seating capacity of approximately 1,500."
+      ]
+    },
+    {
+      "id": "jamestown-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "The Jamestown Lighthouse is a striking, 28-meter-tall historical tower located in the heart of Jamestown, one of Accra's oldest and poorest, yet culturally richest, coastal neighborhoods. Originally built by the British in 1871 and replaced by the current concrete structure in the 1930s, the lighthouse is painted in bold red and white horizontal bands. It stands directly overlooking the bustling, chaotic Jamestown fishing harbor and James Fort. Today, the lighthouse is a powerful visual icon of Accra's colonial maritime history and serves as the central focal point for the renowned Chale Wote Street Art Festival. History K8 — colonial maritime infrastructure.",
+      "factsAdvanced": [
+        "A 28-meter-tall concrete lighthouse located in the historic Jamestown district.",
+        "The current structure was built in the 1930s, replacing an 1871 British original.",
+        "Painted in distinctive, highly visible red and white horizontal bands.",
+        "Provides sweeping panoramic views of the adjacent James Fort and fishing harbor.",
+        "Serves as the iconic visual backdrop for the annual Chale Wote Street Art Festival.",
+        "Historically guided colonial merchant and naval shipping into Accra."
+      ]
+    },
+    {
+      "id": "holy-trinity-cathedral-accra-landmarks-v2",
+      "descriptionAdvanced": "The Holy Trinity Cathedral, located on the busy High Street in central Accra, is a magnificent piece of colonial-era Gothic Revival architecture and serves as the seat of the Anglican Diocese of Accra. Completed in 1894, the cathedral was built with funding from the British colonial government and features impressive stone masonry, high vaulted ceilings, and beautiful stained-glass windows. Despite the massive urban modernization surrounding it, the cathedral remains a serene, towering landmark of Christian history in Ghana, frequently hosting state funerals and high-profile national religious services. History K8 — colonial religious architecture.",
+      "factsAdvanced": [
+        "A prominent Gothic Revival architectural landmark located on High Street, Accra.",
+        "Serves as the official seat of the Anglican Diocese of Accra.",
+        "Construction was completed in 1894 under the British colonial administration.",
+        "Features classic European stone masonry, vaulted ceilings, and stained glass.",
+        "Frequently utilized for major state funerals and national thanksgiving services.",
+        "Stands as one of the oldest operational Christian cathedrals in the capital."
+      ]
+    },
+    {
+      "id": "national-mosque-ghana-landmarks-v2",
+      "descriptionAdvanced": "The Ghana National Mosque is a breathtakingly massive, modern religious landmark located in the Kanda district of Accra. Completed in 2021 with significant funding from the Turkish government, it is the second-largest mosque in West Africa. The architecture is stunningly elaborate, modeled directly after the iconic Blue Mosque in Istanbul, featuring a massive central dome, towering minarets, and intricate interior calligraphy. Capable of accommodating over 15,000 worshippers, the complex also includes a school, a library, and a clinic, standing as a monumental symbol of the growing prominence and unity of the Islamic community in modern Ghana. Geography K7 — modern Islamic architecture.",
+      "factsAdvanced": [
+        "A colossal modern mosque complex located in the Kanda area of Accra.",
+        "Recognized as the second-largest mosque in the entire West African region.",
+        "Architecturally modeled after the famous Blue Mosque in Istanbul, Turkey.",
+        "Funded and constructed with significant support from the Turkish government.",
+        "Features a capacity to host over 15,000 worshippers simultaneously.",
+        "The complex includes a library, a school, and administrative offices."
+      ]
+    },
+    {
+      "id": "fort-metal-cross-landmarks-v2",
+      "descriptionAdvanced": "Fort Metal Cross is a visually arresting, star-shaped fortification perched on a high rocky promontory overlooking the picturesque fishing village of Dixcove in the Western Region. Built by the British in 1683, its heavy stone bastions and cannons point dramatically out toward the Atlantic Ocean. The fort is remarkably well-preserved, and its whitewashed walls stand out starkly against the deep green tropical foliage and the blue sea, making it a prominent architectural landmark along the coast. It serves as a stark visual reminder of the heavy military engineering utilized to protect the brutal mercantile trade of the colonial era. History K8 — coastal military engineering.",
+      "factsAdvanced": [
+        "A well-preserved, star-shaped coastal fort located in Dixcove, Western Region.",
+        "Constructed by the British Royal African Company beginning in 1683.",
+        "Positioned on a highly strategic, elevated rocky promontory overlooking a cove.",
+        "Features intact stone bastions equipped with antique coastal artillery cannons.",
+        "Designated as a UNESCO World Heritage Site along with other coastal forts.",
+        "Visually dominates the skyline of the surrounding traditional fishing village."
+      ]
+    },
+    {
+      "id": "fort-batenstein-landmarks-v2",
+      "descriptionAdvanced": "Fort Batenstein is a historical landmark situated on a steep, commanding hill directly above the coastal town of Butre in the Western Region. Constructed by the Dutch West India Company in 1656, the fort was built less for its maritime dominance and more for its strategic elevation to secure the rich inland timber and gold trade from rival European powers. Today, the fort is largely in ruins, but its massive stone foundations and remaining bastions offer some of the most spectacular, uninterrupted panoramic views of the Ghanaian coastline, drawing eco-tourists and history enthusiasts alike. History K8 — Dutch colonial expansion.",
+      "factsAdvanced": [
+        "Located on a highly elevated, steep hill above the town of Butre in the Western Region.",
+        "Constructed by the Dutch West India Company in the year 1656.",
+        "Built strategically to secure the lucrative inland trade of gold and timber.",
+        "Currently exists primarily as a heavily weathered, unmaintained historical ruin.",
+        "Offers expansive, highly popular panoramic views of the Atlantic coastline.",
+        "Listed as a UNESCO World Heritage Site alongside the other Gold Coast forts."
+      ]
+    },
+    {
+      "id": "fort-san-sebastian-landmarks-v2",
+      "descriptionAdvanced": "Fort San Sebastian is a highly prominent, starkly white historical fortress located in the coastal town of Shama in the Western Region. Originally established by the Portuguese in 1526, it was later captured and expanded into a massive stone structure by the Dutch. Architecturally, it is one of the most well-proportioned and visually complete colonial forts in Ghana, featuring high ramparts, a central courtyard, and steep approach steps. Guarding the mouth of the Pra River, the fort visually dominates the surrounding fishing community and stands as a major architectural testament to 16th-century European military engineering. History K8 — European coastal architecture.",
+      "factsAdvanced": [
+        "A starkly whitewashed, prominent coastal fort located in Shama, Western Region.",
+        "Originally established as a small trading post by the Portuguese in 1526.",
+        "Captured and vastly expanded into a major stone fortress by the Dutch in 1640.",
+        "Strategically positioned to guard the mouth of the historically vital Pra River.",
+        "Serves as the burial site of Anton Wilhelm Amo, an 18th-century African philosopher.",
+        "Recognized as one of the oldest and best-preserved forts in Ghana."
+      ]
+    },
+    {
+      "id": "adomi-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Adomi Bridge is a majestic, crescent-shaped steel suspension bridge that spans the massive Volta River just south of the Akosombo Dam in the Eastern Region. Completed in 1957, it is Ghana's longest suspension bridge and a masterpiece of mid-century engineering, stretching over 330 meters without any central pillars in the water. The bridge forms a critical logistical artery, providing the primary road connection between the Volta Region and the rest of southern Ghana. Its elegant, curving silhouette against the backdrop of the Akwapim-Togo mountains makes it one of the most recognizable and photographed modern landmarks in the country. Geography K7 — national transport infrastructure.",
+      "factsAdvanced": [
+        "A massive steel suspension bridge spanning the Volta River in the Eastern Region.",
+        "Completed in 1957, the same year Ghana achieved its national independence.",
+        "Features a distinctive crescent-shaped arch design spanning over 330 meters.",
+        "Does not utilize any supporting pillars directly within the riverbed.",
+        "Forms the primary, critical road link between the Volta Region and southern Ghana.",
+        "Underwent a major, multi-million dollar structural rehabilitation in 2015."
+      ]
+    },
+    {
+      "id": "akosombo-dam-landmarks-v2",
+      "descriptionAdvanced": "The Akosombo Dam is an absolutely colossal hydroelectric facility located in the Akwapim-Togo gorge in the Eastern Region. Commissioned in 1965 by President Kwame Nkrumah, it is the defining mega-infrastructure project of post-colonial Ghana. The sheer physical scale of the rock-fill dam is staggering, standing 114 meters high and stretching 660 meters across, holding back the immense volume of Lake Volta, the largest man-made lake in the world by surface area. Beyond its critical role in generating the majority of Ghana's electricity, the dam is a monumental engineering landmark that literally reshaped the geography and economy of the entire nation. Geography K7 — mega-engineering and energy.",
+      "factsAdvanced": [
+        "A colossal hydroelectric rock-fill dam spanning the Volta River gorge.",
+        "Commissioned in 1965 as the centerpiece of Ghana's industrialization strategy.",
+        "Stands 114 meters tall and spans 660 meters across the river valley.",
+        "Its construction created Lake Volta, the world's largest man-made lake by surface area.",
+        "Historically generates the vast majority of the nation's baseload electricity.",
+        "Funded by a complex consortium including the World Bank and the USA."
+      ]
+    },
+    {
+      "id": "aliu-mahama-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Aliu Mahama Sports Stadium, originally known as the Tamale Stadium, is a massive, modern sporting facility located in Tamale, the capital of the Northern Region. Built specifically for the 2008 Africa Cup of Nations, the stadium has a capacity of roughly 20,000 spectators. Its prominent concrete architecture features a sweeping, continuous roof covering the stands, making it the most significant modern structural landmark in northern Ghana. Besides hosting major football matches, the stadium serves as a critical multi-purpose venue for large-scale regional events, political rallies, and cultural gatherings in the savanna belt. Geography K7 — regional sports infrastructure.",
+      "factsAdvanced": [
+        "A major modern sports stadium located in Tamale, the Northern Region capital.",
+        "Constructed specifically to host matches for the 2008 Africa Cup of Nations.",
+        "Features a seating capacity of approximately 20,000 spectators.",
+        "Renamed in 2017 to honor Aliu Mahama, former Vice President of Ghana.",
+        "The largest and most prominent modern architectural landmark in northern Ghana.",
+        "Serves as the primary home ground for the Real Tamale United football club."
+      ]
+    },
+    {
+      "id": "ndewura-jakpa-tomb-landmarks-v2",
+      "descriptionAdvanced": "The Tomb of Ndewura Jakpa is a highly revered cultural and historical landmark located in the ancient town of Salaga in the Savannah Region. Ndewura Jakpa is the legendary 17th-century warrior king and founder of the powerful Gonja Kingdom, credited with conquering and unifying vast territories across northern Ghana. His tomb is a modest but deeply spiritual traditional structure, serving as the ultimate symbol of Gonja heritage and martial history. It remains a site of immense respect, where traditional leaders and historians gather, marking the geographical heart of one of the savanna's most historically dominant indigenous states. History K8 — traditional African conquerors.",
+      "factsAdvanced": [
+        "Located in the historic town of Salaga within the Savannah Region.",
+        "The final resting place of Ndewura Jakpa, the legendary 17th-century warrior king.",
+        "Jakpa is revered as the principal founder and expander of the Gonja Kingdom.",
+        "The site is a highly significant spiritual and historical monument for the Gonja people.",
+        "Symbolizes the martial prowess and unification of the northern savanna territories.",
+        "Maintained as a sacred traditional site, drawing regional historians and royals."
+      ]
+    },
+    {
+      "id": "wesley-methodist-cathedral-landmarks-v2",
+      "descriptionAdvanced": "The Wesley Methodist Cathedral is a prominent religious landmark situated in the heart of Kumasi. Serving as the seat of the Methodist Bishop of Kumasi, the cathedral is an imposing piece of colonial-era architecture, characterized by its towering bell tower, vast nave, and distinctive red-brick and white-trim exterior. Built to accommodate the rapidly growing Christian population in the Ashanti capital during the early 20th century, the building is one of the largest and most historically significant churches in the middle belt of Ghana, frequently hosting massive diocesan events and standing as a major architectural anchor in the city center. History K8 — colonial religious expansion.",
+      "factsAdvanced": [
+        "A massive, prominent Methodist cathedral located in central Kumasi.",
+        "Serves as the official seat of the Methodist Bishop of the Kumasi Diocese.",
+        "Features distinctive colonial-era architecture with a prominent bell tower.",
+        "Constructed to serve the expanding Christian population in the Ashanti capital.",
+        "One of the largest and most historically significant churches in the region.",
+        "Acts as a central architectural landmark amidst the bustling Kumasi city center."
+      ]
+    },
+    {
+      "id": "fort-saint-anthony-landmarks-v2",
+      "descriptionAdvanced": "Fort Saint Anthony is a dramatic, highly fortified historical structure located in the coastal town of Axim in the Western Region. Originally built by the Portuguese in 1515, it is the second oldest European fort in Ghana, constructed shortly after Elmina Castle. The fort features sheer, massive stone walls built directly onto a rocky outcrop, making it nearly impenetrable from the sea. It was captured by the Dutch in 1642 and subsequently heavily involved in the brutal transatlantic slave trade. Today, its well-preserved, imposing architecture visually dominates the Axim shoreline, standing as a stark monument to centuries of intense European coastal warfare. History K8 — early coastal fortifications.",
+      "factsAdvanced": [
+        "Located in the coastal town of Axim in the Western Region of Ghana.",
+        "The second oldest European fort in the country, built by the Portuguese in 1515.",
+        "Captured and significantly expanded by the Dutch West India Company in 1642.",
+        "Constructed directly onto a rocky coastal outcrop for maximum defensive advantage.",
+        "Functioned as a major military stronghold and later a slave holding depot.",
+        "Recognized globally as part of Ghana's UNESCO World Heritage coastal monuments."
+      ]
+    },
+    {
+      "id": "fort-gross-friedrichsburg-landmarks-v2",
+      "descriptionAdvanced": "Fort Gross Friedrichsburg is a uniquely significant historical ruin located in Princes Town in the Western Region. It holds the rare distinction of being the only colonial fort in Ghana constructed by the Brandenburgers (Germans) in 1683. The fort was heavily armed and strategically built to disrupt the Dutch and British monopolies on the gold and slave trade. Famously, the fort was briefly controlled by the legendary local chief John Canoe (Nana Asamani), who successfully defended it against massive Dutch naval assaults in the early 18th century. Today, its imposing ruins are a fascinating architectural outlier on the Ghanaian coast. History K8 — German colonial outposts.",
+      "factsAdvanced": [
+        "Located in the coastal village of Princes Town in the Western Region.",
+        "The only colonial fort in Ghana constructed by the Germans (Brandenburgers) in 1683.",
+        "Built specifically to contest the heavy Dutch and British monopolies on the coast.",
+        "Famously held and defended by the local chief John Canoe (Nana Asamani) in 1708.",
+        "Later sold to the Dutch and renamed Fort Hollandia in 1717.",
+        "Currently exists as an impressive, partially ruined UNESCO World Heritage site."
+      ]
+    },
+    {
+      "id": "navrongo-cathedral-landmarks-v2",
+      "descriptionAdvanced": "The Navrongo Minor Basilica, commonly known as the Navrongo Cathedral, is an architectural masterpiece and a profoundly important landmark in the Upper East Region. Built in 1906 by French-Canadian Catholic missionaries, it is constructed entirely from traditional mud-brick, yet styled like a classic European cathedral. The interior is visually stunning, featuring walls completely covered in intricate, black-and-white geometric patterns painted by local women using traditional Kassena artistic techniques. This extraordinary fusion of indigenous Sahelian building materials and European religious architecture makes it a totally unique, globally recognized monument to early Christian missionary work in northern Ghana. Geography K7 — indigenous architectural fusion.",
+      "factsAdvanced": [
+        "A highly unique Catholic minor basilica located in Navrongo, Upper East Region.",
+        "Constructed in 1906 by early French-Canadian Catholic 'White Fathers' missionaries.",
+        "Built entirely from local mud-brick using traditional Sahelian construction methods.",
+        "The interior walls are covered in complex, indigenous Kassena geometric art.",
+        "Represents a rare, masterful fusion of European cathedral design and local materials.",
+        "One of the oldest and most historically significant churches in northern Ghana."
+      ]
+    },
+    {
+      "id": "essipong-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Essipong Sports Stadium is a massive, modern athletic arena located on the outskirts of Sekondi-Takoradi in the Western Region. Constructed specifically to host group stage matches for the 2008 Africa Cup of Nations, the stadium boasts a capacity of 20,000 seats. Architecturally, it is similar to the stadium in Tamale, featuring a large, continuous sweeping roof that protects spectators from the intense tropical sun and rain. As the premier sporting facility in the resource-rich Western Region, it is a major regional landmark, although it has faced significant challenges regarding long-term maintenance and structural corrosion due to its proximity to the ocean. Geography K7 — regional mega-structures.",
+      "factsAdvanced": [
+        "A major modern sports stadium located near Sekondi-Takoradi in the Western Region.",
+        "Constructed specifically to serve as a venue for the 2008 Africa Cup of Nations.",
+        "Features a seating capacity of approximately 20,000 spectators.",
+        "Characterized by a sweeping, continuous roof structure covering the grandstands.",
+        "The premier, largest athletic and multi-purpose facility in the Western Region.",
+        "Has suffered from severe infrastructural corrosion due to harsh coastal weather."
+      ]
+    },
+    {
+      "id": "villaggio-vistas-landmarks-v2",
+      "descriptionAdvanced": "The Villaggio Vistas residential complex is the most distinctive and highly visible modern architectural landmark in the skyline of contemporary Accra. Located in the affluent Airport Residential Area, the complex consists of multiple towering skyscrapers, including the Alto tower, which is currently the tallest building in Ghana. The buildings are instantly recognizable nationwide due to their vibrant, asymmetric exterior cladding painted in bold red, yellow, and green geometric Kente patterns. Built by a private developer, Villaggio Vistas symbolizes the aggressive modernization, massive foreign real estate investment, and emerging luxury wealth characterizing 21st-century urban Ghana. Geography K7 — modern urban skylines.",
+      "factsAdvanced": [
+        "A highly prominent luxury residential skyscraper complex located in Accra.",
+        "Includes the 'Alto' tower, which ranks as the tallest building in Ghana.",
+        "Instantly recognizable by its bold red, yellow, and green geometric exterior.",
+        "The unique exterior design is inspired by traditional Ghanaian Kente cloth patterns.",
+        "Located strategically in the affluent Airport Residential Area.",
+        "Symbolizes the massive modern real estate boom and emerging wealth in the capital."
+      ]
+    }
+  ]
+}

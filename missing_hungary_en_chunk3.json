@@ -1,0 +1,227 @@
+[
+  {
+    "id": "szigetvar",
+    "nameEn": "Szigetvár",
+    "descEn": "Historic town known for the heroic defense of its castle against the Ottomans."
+  },
+  {
+    "id": "baja",
+    "nameEn": "Baja",
+    "descEn": "City on the Danube, famous for its fish soup and the annual fish soup festival."
+  },
+  {
+    "id": "kiskunfelegyhaza",
+    "nameEn": "Kiskunfélegyháza",
+    "descEn": "City in the Great Plain with impressive Art Nouveau architecture."
+  },
+  {
+    "id": "bugac",
+    "nameEn": "Bugac",
+    "descEn": "Part of the Kiskunság National Park, known for its traditional puszta landscape."
+  },
+  {
+    "id": "oroshaza",
+    "nameEn": "Orosháza",
+    "descEn": "City in southeastern Hungary, known for the Gyopárosfürdő medicinal and thermal bath."
+  },
+  {
+    "id": "mezohegyes",
+    "nameEn": "Mezőhegyes",
+    "descEn": "Town known for its state stud farm and rich horse-breeding tradition."
+  },
+  {
+    "id": "sarospatak",
+    "nameEn": "Sárospatak",
+    "descEn": "Historic town on the Bodrog river, known for its Renaissance castle and college."
+  },
+  {
+    "id": "lillafured",
+    "nameEn": "Lillafüred",
+    "descEn": "Picturesque resort in the Bükk Mountains, known for its castle hotel and waterfall."
+  },
+  {
+    "id": "opusztaszer",
+    "nameEn": "Ópusztaszer",
+    "descEn": "National Historical Memorial Park, site of the first Hungarian national assembly."
+  },
+  {
+    "id": "csongrad-city",
+    "nameEn": "Csongrád",
+    "descEn": "City at the confluence of the Körös and Tisza rivers, known for its old town and sandy beach."
+  },
+  {
+    "id": "mor",
+    "nameEn": "Mór",
+    "descEn": "City in the Vértes Mountains, center of a famous white wine region."
+  },
+  {
+    "id": "martonvasar",
+    "nameEn": "Martonvásár",
+    "descEn": "Town known for the neo-Gothic Brunszvik Castle and its connection to Beethoven."
+  },
+  {
+    "id": "mosonmagyarovar",
+    "nameEn": "Mosonmagyaróvár",
+    "descEn": "City near the Austrian and Slovak borders, known for its thermal bath."
+  },
+  {
+    "id": "fertod",
+    "nameEn": "Fertőd",
+    "descEn": "Town known for the Esterházy Palace, the 'Hungarian Versailles'."
+  },
+  {
+    "id": "hajduboszormeny",
+    "nameEn": "Hajdúböszörmény",
+    "descEn": "The largest of the Hajdú towns with a unique circular city structure."
+  },
+  {
+    "id": "berettyoujfalu",
+    "nameEn": "Berettyóújfalu",
+    "descEn": "City in eastern Hungary, the center of the Bihar region."
+  },
+  {
+    "id": "parad",
+    "nameEn": "Parád",
+    "descEn": "Resort in the Mátra Mountains, known for its healing springs and carriage museum."
+  },
+  {
+    "id": "belapatfalva",
+    "nameEn": "Bélapátfalva",
+    "descEn": "Town at the foot of the Bükk Mountains, famous for its medieval Cistercian abbey."
+  },
+  {
+    "id": "mezotur",
+    "nameEn": "Mezőtúr",
+    "descEn": "City in the plains, known for its centuries-old pottery tradition."
+  },
+  {
+    "id": "tiszafured",
+    "nameEn": "Tiszafüred",
+    "descEn": "The 'Capital of Lake Tisza', a center for ecotourism and water sports."
+  },
+  {
+    "id": "komarom",
+    "nameEn": "Komárom",
+    "descEn": "Border city on the Danube, known for its massive fortress system."
+  },
+  {
+    "id": "babolna",
+    "nameEn": "Bábolna",
+    "descEn": "Town famous for its historic stud farm and horse breeding."
+  },
+  {
+    "id": "szecseny",
+    "nameEn": "Szécsény",
+    "descEn": "Historic town in northern Hungary, known for the Baroque Forgách Castle."
+  },
+  {
+    "id": "tar",
+    "nameEn": "Tar",
+    "descEn": "Village at the foot of the Mátra, known for its Buddhist stupa."
+  },
+  {
+    "id": "erd",
+    "nameEn": "Érd",
+    "descEn": "Large city in the Budapest agglomeration, known for its Ottoman minaret."
+  },
+  {
+    "id": "cegled",
+    "nameEn": "Cegléd",
+    "descEn": "City in the plains, known for its thermal bath and connection to Lajos Kossuth."
+  },
+  {
+    "id": "balatonlelle",
+    "nameEn": "Balatonlelle",
+    "descEn": "Popular resort town on the southern shore of Lake Balaton with a sandy beach."
+  },
+  {
+    "id": "fonyod",
+    "nameEn": "Fonyód",
+    "descEn": "City on the southern shore of Lake Balaton, known for its viewpoints and harbor."
+  },
+  {
+    "id": "kisvarda",
+    "nameEn": "Kisvárda",
+    "descEn": "City in northeastern Hungary, known for its castle ruins and thermal bath."
+  },
+  {
+    "id": "tiszadada",
+    "nameEn": "Tiszadada",
+    "descEn": "Village on the Tisza river, known for the Andrássy Castle."
+  },
+  {
+    "id": "dombovar",
+    "nameEn": "Dombóvár",
+    "descEn": "City in Southern Transdanubia, known for the Gunaras medicinal bath."
+  },
+  {
+    "id": "dunafoldvar",
+    "nameEn": "Dunaföldvár",
+    "descEn": "City on the Danube, known for its castle and bridge."
+  },
+  {
+    "id": "buk",
+    "nameEn": "Bük",
+    "descEn": "One of Hungary's best-known spa towns with a massive thermal bath."
+  },
+  {
+    "id": "oriszentpeter",
+    "nameEn": "Őriszentpéter",
+    "descEn": "The center of the Őrség region, known for its traditional architecture and nature."
+  },
+  {
+    "id": "papa",
+    "nameEn": "Pápa",
+    "descEn": "Historic city with Baroque architecture and a famous thermal bath."
+  },
+  {
+    "id": "badacsony",
+    "nameEn": "Badacsony",
+    "descEn": "Volcanic mountain at Lake Balaton, famous for its wines and basalt formations."
+  },
+  {
+    "id": "heviz",
+    "nameEn": "Hévíz",
+    "descEn": "World-famous spa town with the largest biologically active thermal lake in the world."
+  },
+  {
+    "id": "zalakaros",
+    "nameEn": "Zalakaros",
+    "descEn": "Popular spa town in southwestern Hungary with a modern adventure bath."
+  },
+  {
+    "id": "balaton-to",
+    "nameEn": "Lake Balaton",
+    "descEn": "Lake Balaton is the largest lake in Central Europe and the most important holiday destination in Hungary."
+  },
+  {
+    "id": "tisza-folyo",
+    "nameEn": "Tisza",
+    "descEn": "The Tisza is the second longest river in Hungary and significantly shapes the landscape of the Great Plain."
+  },
+  {
+    "id": "duna-folyo",
+    "nameEn": "Danube",
+    "descEn": "The Danube is the most important waterway in Hungary, connecting the country with the Black Sea."
+  },
+  {
+    "id": "kekes-teto",
+    "nameEn": "Kékes",
+    "descEn": "At 1014 meters, Kékes is the highest peak in Hungary and a popular destination for hikers."
+  },
+  {
+    "id": "szalajka-volgy-poi",
+    "nameEn": "Szalajka Valley",
+    "descEn": "Szalajka Valley is an idyllic excursion spot in the Bükk Mountains, famous for its waterfalls."
+  },
+  {
+    "id": "gemenci-erdo-poi",
+    "nameEn": "Gemenc Forest",
+    "descEn": "The Gemenc Forest is the largest continuous floodplain forest in Central Europe along the Danube."
+  },
+  {
+    "id": "nemzeti-muzeum-poi",
+    "nameEn": "Hungarian National Museum",
+    "descEn": "The National Museum preserves the most important treasures of Hungarian history and culture."
+  }
+]

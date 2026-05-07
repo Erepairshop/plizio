@@ -1,0 +1,127 @@
+[
+  {
+    "id": "acoyapa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Acoyapa"
+  },
+  {
+    "id": "san-miguelito-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Miguelito"
+  },
+  {
+    "id": "el-castillo-de-la-concepcion-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Castillo"
+  },
+  {
+    "id": "san-juan-del-norte-greytown-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Juan de Nicaragua (Greytown)"
+  },
+  {
+    "id": "pueblo-nuevo-esteli-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "id": "la-trinidad-esteli-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "La Trinidad"
+  },
+  {
+    "id": "ciudad-dario-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Ciudad Dar\u00edo"
+  },
+  {
+    "id": "esquipulas-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Esquipulas"
+  },
+  {
+    "id": "san-dionisio-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Dionisio"
+  },
+  {
+    "id": "la-dalia-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "La Dalia"
+  },
+  {
+    "id": "rancho-grande-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Rancho Grande"
+  },
+  {
+    "id": "el-tuma-la-dalia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Tuma - La Dalia"
+  },
+  {
+    "id": "matiguas-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Matigu\u00e1s"
+  },
+  {
+    "id": "muy-muy-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Muy Muy"
+  },
+  {
+    "id": "san-ramon-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Ram\u00f3n"
+  },
+  {
+    "id": "terrabona-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Terrabona"
+  },
+  {
+    "id": "quilali-nueva-segovia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Quilal\u00ed"
+  },
+  {
+    "id": "san-fernando-nueva-segovia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Fernando"
+  },
+  {
+    "id": "el-jicaro-nueva-segovia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El J\u00edcaro"
+  },
+  {
+    "id": "almicamba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Almicamba"
+  },
+  {
+    "id": "desembocadura-de-rio-grande-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Desembocadura de R\u00edo Grande"
+  },
+  {
+    "id": "corn-island-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Corn Island"
+  },
+  {
+    "id": "la-cruz-de-rio-grande-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "La Cruz de R\u00edo Grande"
+  },
+  {
+    "id": "el-tortuguero-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Tortuguero"
+  },
+  {
+    "id": "paiwas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Paiwas"
+  }
+]

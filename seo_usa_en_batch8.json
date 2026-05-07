@@ -1,0 +1,250 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "texas-wind-energy-economic-v2",
+      "descriptionAdvanced": "The Texas wind energy industry represents a massive, transformative shift in the state's traditional energy portfolio. While historically dominated entirely by oil and gas, Texas has aggressively capitalized on the massive, consistent wind resources of its western plains and panhandle to become the undisputed national leader in wind power generation. The state produces significantly more wind energy than any other US state, accounting for a massive percentage of its total electricity grid mix. This rapid expansion was heavily facilitated by the Competitive Renewable Energy Zone (CREZ) initiative, a massive state-led infrastructure project that built thousands of miles of new transmission lines to connect remote, windy areas directly to the massive population centers in eastern Texas. Geography K8 — renewable energy transitions and power grids.",
+      "factsAdvanced": [
+        "Texas produces more electricity from wind power than any other state in the United States by a massive margin.",
+        "If Texas were an independent country, it would rank among the top massive wind power producers globally.",
+        "The massive Roscoe Wind Farm in West Texas is one of the largest onshore wind farms in the world.",
+        "The state's CREZ project involved building nearly 3,600 miles of massive new transmission lines.",
+        "Wind energy frequently accounts for over 20 percent of the massive ERCOT power grid's total electricity generation.",
+        "The industry has driven massive economic revitalization and tax revenue for rural counties in West Texas."
+      ]
+    },
+    {
+      "id": "boston-biotech-economic-v2",
+      "descriptionAdvanced": "The Boston biotechnology industry, intensely concentrated in Cambridge's Kendall Square and the Longwood Medical Area, is globally recognized as a premier, massive hub for life sciences research and pharmaceutical development. This massive ecosystem is uniquely driven by the unparalleled density of elite academic institutions—most notably Harvard University and MIT—and world-class research hospitals like Massachusetts General Hospital. This synergy creates a massive, constant flow of groundbreaking medical research, highly specialized talent, and abundant venture capital funding. The region hosts the massive corporate headquarters and major R&D facilities for countless global biopharmaceutical giants, alongside a vibrant culture of start-ups focused heavily on specialized fields like genomics, oncology, and rare diseases. Geography K8 — life sciences clusters and academic-industrial partnerships.",
+      "factsAdvanced": [
+        "The Boston area consistently ranks as the massive number one life sciences cluster in the United States.",
+        "Kendall Square in Cambridge is often cited as the 'most innovative square mile on the planet'.",
+        "The region receives a massive percentage of all National Institutes of Health (NIH) funding awarded nationally.",
+        "Massive global companies like Moderna, Biogen, and Sanofi maintain massive operations in the Boston area.",
+        "The industry employs tens of thousands of highly educated scientists and researchers in Massachusetts.",
+        "The density of massive research hospitals in the Longwood Medical Area directly accelerates clinical trials."
+      ]
+    },
+    {
+      "id": "port-of-anchorage-economic-v2",
+      "descriptionAdvanced": "The Port of Anchorage, officially known as the Port of Alaska, is a massive, highly strategic deep-water seaport situated at the northern end of the Cook Inlet. Due to Alaska's extreme geographical isolation and massive lack of overland road connections to the contiguous United States, the port is the critical, undisputed lifeline for the entire state's economy and survival. It handles a massive percentage of all consumer goods, construction materials, and refined petroleum products consumed in Alaska, supplying everything from groceries in Anchorage to specialized equipment for the remote North Slope oil fields. The port's infrastructure must constantly battle massive, extreme tidal fluctuations and harsh winter ice conditions. Geography K7 — extreme logistics and isolated supply chains.",
+      "factsAdvanced": [
+        "The Port of Alaska handles roughly half of all the massive inbound freight for the entire state.",
+        "It serves over 80 percent of Alaska's massive, geographically dispersed population.",
+        "The port experiences massive, extreme tidal ranges that can exceed 30 feet.",
+        "It operates as a massive, critical strategic port for the US Department of Defense in the Arctic region.",
+        "The port operates year-round, despite massive, challenging winter ice conditions in the Cook Inlet.",
+        "It is the primary massive distribution point for aviation fuel essential to Ted Stevens Anchorage International Airport."
+      ]
+    },
+    {
+      "id": "las-vegas-tourism-industry-economic-v2",
+      "descriptionAdvanced": "The Las Vegas tourism industry is a massive, globally unparalleled economic engine that entirely dominates the economy of Southern Nevada. Centered primarily around the iconic Las Vegas Strip, the industry is built upon a massive concentration of mega-resorts, casinos, and highly produced entertainment venues. These colossal properties constantly reinvent themselves to attract tens of millions of visitors annually, expanding aggressively beyond traditional gambling into luxury dining, high-end retail, and massive resident theatrical productions. Furthermore, Las Vegas operates as one of the massive, premier convention and trade show destinations in the world, utilizing millions of square feet of specialized exhibition space to ensure a constant, massive influx of business travelers mid-week. Geography K7 — tourism dominance and mega-resorts.",
+      "factsAdvanced": [
+        "Las Vegas possesses a massive inventory of over 150,000 hotel rooms, one of the highest concentrations globally.",
+        "The Las Vegas Strip accounts for a massive percentage of the entire state of Nevada's total tax revenue.",
+        "The massive Las Vegas Convention Center is one of the largest single-level convention facilities in the world.",
+        "The city draws a massive total of approximately 40 million tourists and business travelers annually.",
+        "Fourteen of the world's twenty-five massive largest hotels by room count are located in Las Vegas.",
+        "The industry has massively expanded into professional sports, hosting major NFL and NHL franchises."
+      ]
+    },
+    {
+      "id": "port-of-new-orleans-economic-v2",
+      "descriptionAdvanced": "The Port of New Orleans is a massive, highly diverse deep-water seaport located on the Mississippi River, serving as a critical gateway between the American Midwest and global markets. Situated near the river's massive delta, the port leverages a sprawling network of inland waterways, handling massive volumes of breakbulk cargo, notably imported steel, rubber, and manufactured goods, as well as significant container traffic. Beyond freight, the port is a massive national hub for the cruise industry, serving as the departure point for hundreds of thousands of passengers annually bound for the Caribbean. The port's infrastructure is heavily protected by the massive, complex levee systems that define the geography of southern Louisiana. Geography K7 — river gateways and breakbulk cargo.",
+      "factsAdvanced": [
+        "The Port of New Orleans is the only massive US deep-water port served by six Class I railroads.",
+        "It consistently ranks as the massive number one port in the US for importing natural rubber and coffee.",
+        "The port operates the massive, longest continuous wharf in the world, stretching over two miles.",
+        "It is the sixth-largest massive cruise port in the United States, driving significant local tourism revenue.",
+        "The port's massive operations are deeply integrated with the nearby Port of South Louisiana's bulk facilities.",
+        "Following the massive devastation of Hurricane Katrina, the port underwent extensive, massive infrastructure rebuilding."
+      ]
+    },
+    {
+      "id": "seattle-aerospace-industry-economic-v2",
+      "descriptionAdvanced": "The Seattle aerospace industry represents one of the most massive and historically significant concentrations of aviation manufacturing and engineering in the world. The sector is overwhelmingly anchored by Boeing, which was founded in Seattle in 1916 and operates massive, sprawling production facilities throughout the Puget Sound region, most notably the colossal assembly plants in Everett and Renton. This massive industrial anchor has cultivated a dense, highly specialized ecosystem of hundreds of massive suppliers, subcontractors, and specialized engineering firms. While Boeing relocated its corporate headquarters, the massive physical manufacturing base and the incredibly skilled, multi-generational workforce remain firmly entrenched in Washington state, ensuring the region's continued dominance in global commercial aircraft production. Geography K8 — aerospace manufacturing and industrial clusters.",
+      "factsAdvanced": [
+        "The massive Boeing Everett Factory is recognized as the largest building in the world by usable volume.",
+        "The aerospace sector accounts for a massive percentage of Washington state's total manufacturing employment.",
+        "Boeing's massive Renton facility has historically produced over 10,000 737 commercial airliners.",
+        "The region boasts a massive concentration of highly specialized aerospace engineers and machinists.",
+        "The industry is heavily supported by massive, specialized research programs at the University of Washington.",
+        "Despite corporate headquarters moving, the massive final assembly of most Boeing commercial jets occurs near Seattle."
+      ]
+    },
+    {
+      "id": "austin-tech-cluster-economic-v2",
+      "descriptionAdvanced": "The Austin technology cluster, frequently referred to as 'Silicon Hills', is a massive, rapidly expanding center for high-tech innovation located in central Texas. Benefiting from the massive research output of the University of Texas at Austin and a highly attractive local culture, the region has drawn massive corporate investment over the past several decades. Initially focused heavily on hardware and semiconductor manufacturing—anchored by companies like Dell, which was founded there—the ecosystem has massively diversified into software, artificial intelligence, and corporate tech administration. The cluster has recently experienced massive, explosive growth as major Silicon Valley corporations, including Tesla and Oracle, have established massive operations or relocated their corporate headquarters to the Austin area. Geography K8 — emerging tech hubs and corporate relocation.",
+      "factsAdvanced": [
+        "Austin is famously nicknamed 'Silicon Hills' due to its massive concentration of technology companies and hilly terrain.",
+        "Dell Technologies was founded in a University of Texas dorm room and maintains its massive headquarters near Austin.",
+        "Tesla recently opened its massive 'Giga Texas' manufacturing plant and relocated its corporate headquarters to the city.",
+        "The massive South by Southwest (SXSW) Interactive festival serves as a major global tech industry event.",
+        "The region is a massive national leader in video game development and interactive entertainment software.",
+        "Austin's tech sector generates massive economic growth but also contributes to significant regional housing affordability challenges."
+      ]
+    },
+    {
+      "id": "mesa-verde-national-park-history-v2",
+      "descriptionAdvanced": "Mesa Verde National Park, located in the high plateau region of southwestern Colorado, preserves an incredibly massive and remarkably intact collection of Ancestral Puebloan archaeological sites. Inhabited for over 700 years, from 600 to 1300 CE, the park is most globally renowned for its massive, spectacular cliff dwellings. These intricate, multi-story stone structures, such as the famous Cliff Palace, were ingeniously constructed within massive, natural sandstone alcoves located deep within the sheer canyon walls. The site provides profound, massive insights into the complex agricultural practices, advanced masonry, and societal organization of these ancient peoples before they mysteriously abandoned the region, likely due to massive, prolonged environmental droughts. History K7 — pre-Columbian civilizations and architectural ingenuity.",
+      "factsAdvanced": [
+        "Mesa Verde National Park contains over 5,000 documented archaeological sites, including 600 cliff dwellings.",
+        "The massive Cliff Palace is the largest cliff dwelling in North America, containing over 150 individual rooms.",
+        "The Ancestral Puebloans cultivated crops on the massive mesa tops before retreating into the canyon alcoves.",
+        "The park was established in 1906 by President Theodore Roosevelt to protect the massive, ancient ruins from looting.",
+        "Mesa Verde was designated as one of the original, massive UNESCO World Heritage Sites in 1978.",
+        "Tree-ring dating (dendrochronology) has been massively crucial in determining the exact construction dates of the dwellings."
+      ]
+    },
+    {
+      "id": "cahokia-mounds-history-v2",
+      "descriptionAdvanced": "Cahokia Mounds, located in the massive Mississippi River floodplain of southwestern Illinois, is the site of the largest and most complex pre-Columbian archaeological settlement north of Mexico. At its massive peak around 1200 CE, this Mississippian culture city was a highly organized urban center supporting an estimated population of up to 20,000 people, a massive scale not surpassed in the United States until Philadelphia in the 1780s. The defining characteristic of Cahokia is its massive, engineered earthen mounds, the largest being Monks Mound, a colossal, multi-tiered platform that served as the political and religious epicenter of the society. The site indicates a massive, highly stratified society with extensive, continent-wide trade networks. History K7 — Mississippian culture and ancient urbanism.",
+      "factsAdvanced": [
+        "Monks Mound is the largest prehistoric earthwork in the Americas, covering a massive 14 acres at its base.",
+        "The entire Cahokia site originally contained over 120 massive earthen mounds, with roughly 80 remaining today.",
+        "At its peak, Cahokia's population was massively larger than the contemporary population of London, England.",
+        "The society constructed 'Woodhenge', a massive circular timber monument used for sophisticated astronomical observations.",
+        "Cahokia was a massive hub for trade, exchanging goods ranging from Great Lakes copper to Gulf Coast shells.",
+        "The massive city was largely abandoned by 1350 CE for reasons still heavily debated by modern archaeologists."
+      ]
+    },
+    {
+      "id": "jamestown-settlement-history-v2",
+      "descriptionAdvanced": "The Jamestown Settlement, located on an island in the James River in Virginia, holds profound historical significance as the site of the first massive, permanent English colony in the Americas, established in 1607 by the Virginia Company of London. The colony's early years were characterized by massive, devastating hardships, including rampant disease, severe starvation during the 'Starving Time', and intense, often violent conflict with the massive Powhatan Confederacy. Jamestown's ultimate survival was massively dependent on the introduction of a new, highly profitable strain of tobacco by John Rolfe, establishing a massive plantation economy. Furthermore, the site is critically important as the massive origin point of American representative government, with the convening of the first General Assembly in 1619, and the tragic arrival of the first enslaved Africans in the same year. History K8 — colonial origins and the establishment of slavery.",
+      "factsAdvanced": [
+        "Jamestown was established on May 14, 1607, more than a decade before the massive Plymouth colony.",
+        "During the horrific 'Starving Time' winter of 1609-1610, roughly 80 percent of the colonists perished.",
+        "John Rolfe's successful cultivation of a sweeter tobacco strain in 1612 ensured the massive economic survival of the colony.",
+        "The first representative legislative assembly in the Americas convened at the Jamestown church in 1619.",
+        "The first recorded massive arrival of enslaved Africans in British North America occurred at Jamestown in 1619.",
+        "The original massive fort was built in a triangular shape to defend against potential attacks from the Spanish."
+      ]
+    },
+    {
+      "id": "plymouth-rock-history-v2",
+      "descriptionAdvanced": "Plymouth Rock, located on the shore of Plymouth Bay in Massachusetts, is the traditional, massive symbolic site of disembarkation for William Bradford and the Mayflower Pilgrims who founded Plymouth Colony in 1620. While historical evidence regarding the specific rock is massive but anecdotal, the site has attained a massive, mythic status in American culture, symbolizing the pursuit of religious freedom and the immense perseverance of the early European settlers. The Pilgrims, seeking a massive break from the Church of England, established the first permanent massive English settlement in New England. Their initial survival was massively reliant on the assistance of local Wampanoag Native Americans, notably Squanto, culminating in the historically significant 1621 harvest feast now massively celebrated as Thanksgiving. History K7 — Pilgrim migration and colonial mythology.",
+      "factsAdvanced": [
+        "There are zero massive contemporaneous historical references to the Pilgrims actually landing on a specific rock.",
+        "The Mayflower initially dropped anchor in Provincetown Harbor before moving to the massive site at Plymouth.",
+        "The Pilgrims drafted the Mayflower Compact, a massive foundational document for self-government, before disembarking.",
+        "Over half of the original 102 massive passengers died during the brutal first winter at Plymouth.",
+        "The local Wampanoag tribe famously aided the massive, struggling colony with agricultural knowledge.",
+        "Plymouth Rock is currently housed beneath a massive, ornate granite portico constructed in 1920."
+      ]
+    },
+    {
+      "id": "colonial-williamsburg-history-v2",
+      "descriptionAdvanced": "Colonial Williamsburg, located in Virginia, is a massive, meticulously restored and reconstructed 18th-century historical district. Serving as the wealthy capital of the massive Virginia Colony from 1699 to 1780, it was the political and cultural center of the largest and most populous American colony. The site was the massive stage for crucial political debates leading up to the American Revolution, frequented by massive historical figures like George Washington, Thomas Jefferson, and Patrick Henry. Financed heavily by John D. Rockefeller Jr. in the 1920s, the massive open-air museum features hundreds of restored and authentically reconstructed buildings, including the massive Governor's Palace and the Capitol, populated by massive numbers of costumed interpreters demonstrating daily colonial life and trades. History K8 — colonial politics and the American Revolution.",
+      "factsAdvanced": [
+        "Williamsburg replaced the massive, failing settlement of Jamestown as the capital of the Virginia Colony in 1699.",
+        "The massive historic area encompasses over 300 acres and includes 88 original 18th-century buildings.",
+        "The College of William & Mary, the second-oldest massive university in the US, is located adjacent to the historic district.",
+        "Patrick Henry delivered his massive 'Caesar had his Brutus' speech against the Stamp Act at the Williamsburg Capitol.",
+        "John D. Rockefeller Jr. provided the massive, foundational funding required for the 1920s restoration project.",
+        "The massive Governor's Palace is a meticulously detailed reconstruction of the original building that burned down in 1781."
+      ]
+    },
+    {
+      "id": "valley-forge-history-v2",
+      "descriptionAdvanced": "Valley Forge, located in southeastern Pennsylvania, was the site of the massive winter encampment of the Continental Army under General George Washington from December 1777 to June 1778 during the American Revolutionary War. The encampment is universally recognized not as a site of a massive battle, but as a crucible of suffering and ultimate transformation. The army endured massive, severe deprivation, including rampant disease, starvation, and brutal exposure, resulting in the deaths of nearly 2,000 soldiers. However, under the massive, rigorous training instituted by the Prussian officer Baron von Steuben, the ragged militia was fundamentally reorganized and drilled into a massive, unified, and highly disciplined professional military force capable of engaging the British army. History K8 — the Continental Army and the Revolutionary War.",
+      "factsAdvanced": [
+        "No massive battle was fought at Valley Forge; the primary enemy was disease, starvation, and the harsh winter.",
+        "Roughly 2,000 of the massive 12,000 Continental soldiers encamped there died, primarily from typhus and dysentery.",
+        "Baron von Steuben, a massive Prussian military officer, instituted uniform drills and fundamentally reorganized the army's structure.",
+        "General George Washington's massive original stone headquarters building is still preserved at the site.",
+        "The army constructed over 1,000 massive wooden huts to house the troops during the six-month encampment.",
+        "The site was chosen for its massive, easily defensible high ground and its strategic position relative to British-occupied Philadelphia."
+      ]
+    },
+    {
+      "id": "yorktown-battlefield-history-v2",
+      "descriptionAdvanced": "The Yorktown Battlefield, located in Virginia near the Chesapeake Bay, is the highly significant historic site of the massive Siege of Yorktown in 1781, the last major massive land battle of the American Revolutionary War. A massive, brilliantly coordinated combined force of American and French troops, led by General George Washington and the Comte de Rochambeau, effectively trapped a massive British army commanded by General Lord Cornwallis on the peninsula. Critically, a massive French naval fleet simultaneously blockaded the bay, preventing any British escape or resupply. The massive, relentless artillery bombardment forced Cornwallis to surrender his entire army, effectively destroying British political will to continue the conflict and ensuring American independence. History K8 — the Siege of Yorktown and American independence.",
+      "factsAdvanced": [
+        "The massive allied force at Yorktown consisted of roughly 8,800 Americans and 7,800 French soldiers.",
+        "The massive French naval victory at the Battle of the Chesapeake was absolutely critical to trapping the British army.",
+        "General Cornwallis famously did not attend the massive formal surrender ceremony, claiming illness.",
+        "The massive siege lasted for three weeks, featuring intense artillery barrages and the capture of key redoubts.",
+        "The decisive American victory at Yorktown led directly to the massive peace negotiations resulting in the Treaty of Paris.",
+        "The battlefield is preserved as a massive unit of the Colonial National Historical Park, featuring reconstructed earthworks."
+      ]
+    },
+    {
+      "id": "monticello-history-v2",
+      "descriptionAdvanced": "Monticello, located near Charlottesville, Virginia, is the massive, incredibly complex primary plantation and architectural masterpiece designed and owned by Thomas Jefferson, the third President of the United States and massive primary author of the Declaration of Independence. The main house, perched on a massive hilltop, is a premier example of American Neoclassical architecture, heavily influenced by massive Italian and French designs Jefferson studied in Europe. While the estate reflects Jefferson's massive intellect, showcasing his innovations in agriculture and architecture, it also represents the massive paradox of his life; Monticello was a massive, working plantation entirely dependent on the forced labor of hundreds of enslaved African Americans, including the massive Hemings family. History K8 — Thomas Jefferson, neoclassical architecture, and American slavery.",
+      "factsAdvanced": [
+        "Monticello, translating to 'little mountain' in Italian, sits atop a massive 850-foot peak.",
+        "Thomas Jefferson designed and continually rebuilt the massive house over a period spanning forty years.",
+        "Monticello and the nearby University of Virginia are jointly recognized as a massive UNESCO World Heritage Site.",
+        "Over 400 massive enslaved individuals lived and worked on the Monticello plantation over Jefferson's lifetime.",
+        "The estate features massive, meticulously designed botanical and agricultural testing gardens.",
+        "The massive house contains numerous of Jefferson's inventions, including a unique clock and a dual-pen copying machine."
+      ]
+    },
+    {
+      "id": "fort-mchenry-history-v2",
+      "descriptionAdvanced": "Fort McHenry is a massive, pentagonal coastal star fort situated at the entrance to Baltimore's inner harbor in Maryland. It is globally recognized for its massive historical role during the War of 1812, specifically the Battle of Baltimore in September 1814. The fort valiantly withstood a massive, 25-hour intense naval bombardment by the powerful British Royal Navy. Witnessing the massive American flag still flying triumphantly over the fort the following morning inspired Francis Scott Key to write the massive poem 'Defence of Fort M'Henry', which was later set to music and officially adopted as the massive 'Star-Spangled Banner', the national anthem of the United States. History K7 — the War of 1812 and the national anthem.",
+      "factsAdvanced": [
+        "The massive 'Star-Spangled Banner' flag that flew over the fort measured an incredible 30 by 42 feet.",
+        "Fort McHenry was designed in a massive, five-pointed star shape to allow overlapping fields of defensive cannon fire.",
+        "The massive British bombardment involved firing roughly 1,500 to 1,800 cannonballs, rockets, and mortar shells at the fort.",
+        "Francis Scott Key witnessed the massive bombardment from a truce ship anchored securely behind the British fleet.",
+        "The fort is uniquely designated as a massive National Monument and Historic Shrine, the only site to hold both titles.",
+        "During the American Civil War, the massive fort was used as a prison to detain suspected Confederate sympathizers."
+      ]
+    },
+    {
+      "id": "pearl-harbor-history-v2",
+      "descriptionAdvanced": "Pearl Harbor, located on the island of Oahu near Honolulu, Hawaii, is a massive, highly strategic deep-water naval base. It is profoundly etched in global history due to the massive, surprise military strike conducted by the Imperial Japanese Navy Air Service against the United States Pacific Fleet on the morning of December 7, 1941. This devastating attack resulted in the massive loss of 2,403 American lives, destroyed or severely damaged numerous massive battleships, and immediately propelled the United States into World War II. Today, the massive site serves as an active military installation and a solemn national memorial, prominently featuring the USS Arizona Memorial, a massive structure built directly over the sunken hull of the tragically destroyed battleship. History K8 — World War II and the Pacific Theater.",
+      "factsAdvanced": [
+        "The massive, unprovoked attack on Pearl Harbor occurred at 7:55 AM on Sunday, December 7, 1941.",
+        "The attack massively destroyed or severely damaged 21 United States naval vessels, including 8 massive battleships.",
+        "The massive sinking of the USS Arizona resulted in the tragic deaths of 1,177 officers and crewmen.",
+        "President Franklin D. Roosevelt famously referred to the massive attack as a 'date which will live in infamy'.",
+        "The USS Missouri, a massive battleship where the Japanese formally surrendered in 1945, is also docked at Pearl Harbor.",
+        "The massive, shallow waters of the harbor allowed many of the sunken ships to be ultimately salvaged and repaired."
+      ]
+    },
+    {
+      "id": "little-bighorn-battlefield-history-v2",
+      "descriptionAdvanced": "The Little Bighorn Battlefield National Monument, located in southeastern Montana, preserves the massive, incredibly significant site of the Battle of the Little Bighorn, fought on June 25–26, 1876. This massive conflict, famously known as 'Custer's Last Stand', was a catastrophic defeat for the US Army's 7th Cavalry Regiment under Lieutenant Colonel George A. Custer against a massive, allied force of Lakota Sioux, Northern Cheyenne, and Arapaho warriors led by massive historical figures like Sitting Bull and Crazy Horse. The battle represented the massive, absolute zenith of Native American resistance to US territorial expansion and forced reservation policies in the Plains, although it ultimately precipitated a massive, overwhelming military retaliation that crushed indigenous sovereignty in the region. History K8 — the Plains Indian Wars and westward expansion.",
+      "factsAdvanced": [
+        "The massive allied Native American encampment along the river contained an estimated 7,000 people, including 1,500 warriors.",
+        "Lieutenant Colonel Custer and all 210 men in the massive five companies under his direct command were killed.",
+        "The massive Native American victory was heavily fueled by brilliant tactical leadership from chiefs like Crazy Horse.",
+        "The massive battlefield is marked by white marble headstones designating where US soldiers fell, and red granite for Native warriors.",
+        "The massive conflict occurred precisely during the United States Centennial celebrations of 1876.",
+        "The massive site was originally established as a national cemetery in 1879 before becoming a monument."
+      ]
+    },
+    {
+      "id": "ellis-island-history-v2",
+      "descriptionAdvanced": "Ellis Island, located in New York Harbor, is a massive, profoundly significant historical site that served as the United States' premier and busiest federal immigration inspection station from 1892 until 1954. During this massive period, over 12 million immigrants, primarily from Southern and Eastern Europe, passed through the massive processing halls of the main building, seeking entry to America. The site symbolizes the massive, complex immigrant experience, encompassing the hope of a new life and the massive anxiety of medical and legal inspections. Today, the massive main building has been meticulously restored and operates as the Ellis Island National Museum of Immigration, detailing the massive impact of this global migration on the demographic and cultural fabric of the United States. History K8 — global migration and American demographics.",
+      "factsAdvanced": [
+        "Over 12 million massive immigrants were processed at the Ellis Island station during its 62 years of operation.",
+        "It is estimated that a massive 40 percent of all current US citizens can trace at least one ancestor to Ellis Island.",
+        "The massive inspection process typically took three to seven hours for healthy immigrants with correct paperwork.",
+        "Only roughly 2 percent of the massive number of arriving immigrants were ultimately denied entry and deported.",
+        "The massive main building is an impressive example of French Renaissance Revival architecture.",
+        "The massive island's landmass was artificially expanded over the years using landfill from the excavation of the NYC subway."
+      ]
+    },
+    {
+      "id": "fort-sumter-history-v2",
+      "descriptionAdvanced": "Fort Sumter is a massive, pentagonal sea fort located on an artificial island situated precisely at the entrance to the harbor of Charleston, South Carolina. The fort holds a massive, tragic place in American history as the specific site where the American Civil War definitively began. On April 12, 1861, massive Confederate artillery batteries commanded by General P.G.T. Beauregard opened fire on the fort, which was occupied by a massive, albeit small, Union garrison under Major Robert Anderson. After a massive, 34-hour bombardment, the Union forces surrendered. The fort subsequently endured a massive, nearly continuous multi-year bombardment by Union forces attempting to retake Charleston, leaving the massive brick structure heavily battered and severely reduced in height by the war's end. History K8 — the outbreak of the American Civil War.",
+      "factsAdvanced": [
+        "The massive opening bombardment of Fort Sumter resulted in zero direct combat casualties on either side.",
+        "The massive fort was named after General Thomas Sumter, a prominent Revolutionary War hero from South Carolina.",
+        "Fort Sumter was built on a massive artificial island constructed using tens of thousands of tons of granite from New England.",
+        "During the war, massive Union naval bombardments reduced the fort's towering brick walls to massive piles of rubble.",
+        "The massive US flag lowered during the surrender in 1861 was raised again over the fort exactly four years later in 1865.",
+        "The massive fort was originally designed as part of a massive coastal defense system implemented after the War of 1812."
+      ]
+    }
+  ]
+}

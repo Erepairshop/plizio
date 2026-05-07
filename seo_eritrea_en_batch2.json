@@ -1,0 +1,30 @@
+{
+  "lang": "en",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEritreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEritreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEritreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEritreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEritreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "barentu-cities-v2",
+      "descriptionAdvanced": "Barentu is the capital of the Gash-Barka region in western Eritrea, serving as an important center for the Kunama and Nara ethnic groups. The city is set within a landscape of rolling plains and small hills, which characterizes much of the western lowland region. It is a major hub for trade and agricultural activity, particularly livestock, which is central to the livelihoods of the local populations. The area is also recognized for its cultural heritage and traditional music, which form a significant part of the community's identity. Geography K7 — regional centers and ethnology.",
+      "factsAdvanced": ["Capital of the Gash-Barka region.", "Hub for Kunama and Nara cultures.", "Important center for livestock trade.", "Located in the western lowlands.", "Known for unique cultural traditions.", "Economic center for agricultural activities."]
+    },
+    {
+      "id": "adi-keyh-cities-v2",
+      "descriptionAdvanced": "Adi Keyh, meaning 'Red Sea' in Tigrinya, is a vibrant town in the Debub region of Eritrea, located on the edge of a plateau. The town is situated near the important archaeological site of Qohaito, which showcases pre-Aksumite and Aksumite history. Its location makes it a gateway for historical research and tourism, as it connects highland settlements with the historical routes leading toward the coast. The local economy benefits from agricultural production and its role as a regional transit point. Geography K7 — archaeological gateways.",
+      "factsAdvanced": ["Located in the Debub region.", "Located near Qohaito archaeological site.", "Highland town on a plateau edge.", "Name reflects historical importance.", "Regional transit and trade point.", "Highland agricultural hub."]
+    },
+    {
+      "id": "edd-cities-v2",
+      "descriptionAdvanced": "Edd is a coastal town in the Southern Red Sea region of Eritrea, historically recognized as a significant port for small-scale maritime commerce. Its location along the Red Sea shore places it in a rugged, arid environment, but it has sustained local communities through fishing and traditional trade for centuries. The town's architecture and social life reflect its reliance on maritime resources and its connections to surrounding coastal villages. Today, it remains an important coastal center, representing the historical maritime legacy of the region. Geography K7 — coastal heritage.",
+      "factsAdvanced": ["Located in the Southern Red Sea region.", "Historical significance as a port.", "Primary local industry is fishing.", "Arid coastal environment.", "Traditions rooted in maritime life.", "Represents Eritrean coastal heritage."]
+    }
+  ]
+}

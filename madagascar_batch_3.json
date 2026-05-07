@@ -1,0 +1,127 @@
+[
+  {
+    "id": "bekily-cities-v2",
+    "name": "Bekily",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "kandreho-cities-v2",
+    "name": "Kandreho",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antsalova-cities-v2",
+    "name": "Antsalova",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "befandriana-avaratra-cities-v2",
+    "name": "Befandriana-Avaratra",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "tsihombe-cities-v2",
+    "name": "Tsihombe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mananjary-cities-v2",
+    "name": "Mananjary",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "port-berg\u00e9-cities-v2",
+    "name": "Port-Berg\u00e9",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "sakaraha-cities-v2",
+    "name": "Sakaraha",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatovy-mine-economic-v2",
+    "name": "Ambatovy Nickel Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "toamasina-port-economic-v2",
+    "name": "Port of Toamasina",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "ehola-port-economic-v2",
+    "name": "Port Ehoala",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "qmm-mine-economic-v2",
+    "name": "QMM Ilmenite Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "mahajanga-port-economic-v2",
+    "name": "Port of Mahajanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "kraoma-mine-economic-v2",
+    "name": "Kraoma Chrome Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "antsiranana-port-economic-v2",
+    "name": "Port of Antsiranana",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "star-brewery-tana-economic-v2",
+    "name": "STAR Brewery Antananarivo",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "star-brewery-antsirabe-economic-v2",
+    "name": "STAR Brewery Antsirabe",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "toliara-port-economic-v2",
+    "name": "Port of Toliara",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "cotona-textile-economic-v2",
+    "name": "COTONA Textile Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "ambilobe-sugar-economic-v2",
+    "name": "Ambilobe Sugar Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "holcim-cement-ibity-economic-v2",
+    "name": "Holcim Cement Plant Ibity",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "galana-refinery-economic-v2",
+    "name": "Galana Refinery",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "morondava-port-economic-v2",
+    "name": "Port of Morondava",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "dzamandzar-rum-economic-v2",
+    "name": "Dzamandzar Rum Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "tolanaro-port-economic-v2",
+    "name": "Port of Tolagnaro",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  }
+]

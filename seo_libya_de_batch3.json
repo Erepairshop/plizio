@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qasr-bin-ghashir-cities-v2",
+      "descriptionAdvanced": "Qasr bin Ghashir ist eine südliche Vorstadt von Tripolis und war lange Zeit landesweit bekannt als Standort des internationalen Flughafens von Tripolis. Die Stadt ist eine geschäftige Mischung aus städtischen Wohngebieten und landwirtschaftlich genutzten Flächen, die maßgeblich zur Lebensmittelversorgung der Hauptstadt beitragen. Geografie K7 — Städtische Entwicklung.",
+      "factsAdvanced": [
+        "Südliche Vorstadt der Hauptstadt Tripolis",
+        "Ehemaliger Standort des internationalen Flughafens",
+        "Wichtiger lokaler Verkehrsknotenpunkt",
+        "Gemischte städtisch-ländliche Struktur",
+        "Austragungsort historischer Friedensverhandlungen",
+        "Bedeutend für die Versorgung von Tripolis"
+      ]
+    },
+    {
+      "id": "tajoura-cities-v2",
+      "descriptionAdvanced": "Tajoura, östlich direkt an Tripolis angrenzend, ist eine bedeutende Küstenstadt mit einer langen, eigenständigen Geschichte. In der Neuzeit wurde Tajoura vor allem durch die Errichtung des libyschen Kernforschungszentrums bekannt, während es historisch eine Hochburg während der osmanischen und spanischen Konflikte war. Geschichte K8 — Moderne Institutionen.",
+      "factsAdvanced": [
+        "Östliche Nachbarstadt von Tripolis",
+        "Standort des libyschen Kernforschungszentrums",
+        "Historisch wichtiger militärischer Stützpunkt",
+        "Bekannt für seine schönen Küstenabschnitte",
+        "Stark von lokalen Stämmen geprägt",
+        "Wichtige Rolle im Bürgerkrieg 2011"
+      ]
+    },
+    {
+      "id": "msallata-cities-v2",
+      "descriptionAdvanced": "Msallata liegt in einer hügeligen Region in Nordwest-Libyen und gilt landesweit als Zentrum der Olivenölproduktion. Die Stadt blickt auf eine stolze Geschichte zurück und beherbergt alte Burgen sowie zahlreiche historische Moscheen, die von ihrer Bedeutung als islamisches Bildungszentrum zeugen. Geschichte K7 — Islamische Bildung.",
+      "factsAdvanced": [
+        "Zentrum der libyschen Olivenölproduktion",
+        "Bekannt für historische Burgen und Moscheen",
+        "Ehemaliges Zentrum islamischer Gelehrsamkeit",
+        "Geprägt von hügeliger Landschaft",
+        "Kurze Entfernung zur Mittelmeerküste",
+        "Ort der libyschen Unabhängigkeitserklärung 1918"
+      ]
+    },
+    {
+      "id": "al-ajaylat-cities-v2",
+      "descriptionAdvanced": "Al Ajaylat ist eine beschauliche Agrarstadt im Nordwesten Libyens, nahe der Mittelmeerküste gelegen. Die fruchtbaren Böden der Umgebung werden intensiv landwirtschaftlich genutzt, wobei der Schwerpunkt auf dem Anbau von Getreide, Feigen und Oliven liegt, die auf den lokalen Märkten gehandelt werden. Geografie K6 — Ländliche Räume.",
+      "factsAdvanced": [
+        "Agrarstadt im Nordwesten Libyens",
+        "Fokus auf Getreide- und Olivenanbau",
+        "Liegt südlich der Küstenstadt Sabratha",
+        "Ruhiges lokales Handelszentrum",
+        "Kulturell von arabischen Stämmen dominiert",
+        "Traditionelle Lehmarchitektur in der Altstadt"
+      ]
+    },
+    {
+      "id": "al-qubbah-cities-v2",
+      "descriptionAdvanced": "Al Qubbah ist die größte Stadt zwischen Derna und Al Bayda im malerischen Dschabal al-Achdar in der Kyrenaika. Dank der Höhenlage genießt die Stadt ein kühleres Klima, was sie zu einem wichtigen landwirtschaftlichen Zentrum und einem historisch bedeutsamen Ort in Ostlibyen macht. Geografie K7 — Gebirgsklima.",
+      "factsAdvanced": [
+        "Größte Stadt zwischen Derna und Bayda",
+        "Gelegen im Dschabal al-Achdar-Gebirge",
+        "Kühleres Klima im Vergleich zur Küste",
+        "Wichtiges Agrarzentrum der Region",
+        "Historischer Widerstand gegen die italienische Besatzung",
+        "Bedeutender Verkehrsknotenpunkt im Osten"
+      ]
+    },
+    {
+      "id": "badr-cities-v2",
+      "descriptionAdvanced": "Badr ist eine kleine, traditionelle Siedlung in den westlichen Nafusa-Bergen nahe der Grenze zu Tunesien. Die lokale Wirtschaft stützt sich fast ausschließlich auf subsistente Landwirtschaft und Schafzucht in einer sehr trockenen, rauen und von Canyons durchzogenen Gebirgslandschaft. Geografie K6 — Leben im Gebirge.",
+      "factsAdvanced": [
+        "Siedlung in den Nafusa-Bergen",
+        "Nahe der Grenze zu Tunesien gelegen",
+        "Wirtschaft basiert auf Subsistenzwirtschaft",
+        "Fokus auf Schaf- und Ziegenzucht",
+        "Trockenes und raues Klima",
+        "Ruhige, traditionelle Lebensweise"
+      ]
+    },
+    {
+      "id": "al-magrun-cities-v2",
+      "descriptionAdvanced": "Al Magrun liegt in der nordöstlichen Küstenebene südlich von Bengasi und dient als wichtiges landwirtschaftliches Versorgungszentrum für die Großstadt. Die fruchtbaren Weiden der Region machen die Stadt zu einem zentralen Umschlagplatz für Viehzüchter in der Kyrenaika. Geografie K6 — Versorgung von Metropolen.",
+      "factsAdvanced": [
+        "Liegt in der Küstenebene südlich von Bengasi",
+        "Wichtiges landwirtschaftliches Versorgungszentrum",
+        "Zentraler Viehmarkt für die Kyrenaika",
+        "Umgeben von fruchtbaren Weideflächen",
+        "Milder mediterraner Einfluss",
+        "Direkte Straßenverbindung nach Bengasi"
+      ]
+    },
+    {
+      "id": "qandulah-cities-v2",
+      "descriptionAdvanced": "Qandulah ist ein kleines Dorf versteckt im Dschabal al-Achdar, das sich durch seine dichten Wälder und seine unberührte Natur auszeichnet. Die Bewohner leben traditionell von der Imkerei, der Herstellung von lokalem Honig und der Bewirtschaftung kleiner Terrassenfelder an den Berghängen. Geografie K6 — Bergbauern.",
+      "factsAdvanced": [
+        "Dorf im Dschabal al-Achdar",
+        "Umgrenzt von dichten mediterranen Wäldern",
+        "Zentrum der lokalen Honigproduktion",
+        "Terrassen-Landwirtschaft",
+        "Besitzt unberührte lokale Flora",
+        "Abgelegen von den Hauptverkehrsstraßen"
+      ]
+    },
+    {
+      "id": "port-of-tripoli-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Tripolis ist der bedeutendste Seehafen des Landes und dient als wichtigstes Tor für den Import von Konsumgütern nach Libyen. Er liegt strategisch günstig im Herzen der Hauptstadt und wickelt einen Großteil des nicht-ölbezogenen maritimen Handels Libyens mit Europa ab. Geografie K8 — Maritime Wirtschaft.",
+      "factsAdvanced": [
+        "Wichtigster Handelshafen Libyens",
+        "Zentraler Knotenpunkt für den Import",
+        "Liegt im Herzen von Tripolis",
+        "Wickelt hauptsächlich Stückgut ab",
+        "Durch Molen geschütztes Hafenbecken",
+        "Zentral für die libysche Wirtschaft"
+      ]
+    },
+    {
+      "id": "port-of-benghazi-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Bengasi ist der zweitgrößte Seehafen Libyens und das unumstrittene wirtschaftliche Zentrum der östlichen Kyrenaika-Region. Nach starken Beschädigungen während der Konflikte wurde der Hafen wiedereröffnet und ist heute entscheidend für die Versorgung Ostlibyens mit Lebensmitteln und Baumaterialien. Geografie K8 — Infrastruktur.",
+      "factsAdvanced": [
+        "Zweitgrößter Hafen in Libyen",
+        "Wichtigster Hafen für die Region Kyrenaika",
+        "Wurde nach starken Kriegsschäden wiedereröffnet",
+        "Zentral für den Import in Ostlibyen",
+        "Verfügt über moderne Containerterminals",
+        "Historisch ein alter griechischer Hafen"
+      ]
+    },
+    {
+      "id": "misrata-port-economic-v2",
+      "descriptionAdvanced": "Die Freihandelszone und der Hafen von Misrata (Qasr Ahmad) bilden das leistungsstärkste und modernste maritime Logistikzentrum in Libyen. Dank seiner Ausweisung als Freihandelszone zieht der Tiefwasserhafen zahlreiche internationale Investoren an und schlägt die größte Menge an Containern landesweit um. Geografie K8 — Globaler Handel.",
+      "factsAdvanced": [
+        "Größter Containerhafen Libyens",
+        "Beheimatet die erste libysche Freihandelszone",
+        "Modernstes Logistikzentrum des Landes",
+        "Tiefe Gewässer für große Frachtschiffe",
+        "Verbund mit der Stahlindustrie von Misrata",
+        "Starkes Wachstum nach 2011"
+      ]
+    },
+    {
+      "id": "al-khums-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Al Khums, östlich von Tripolis gelegen, hat sich zu einem der wichtigsten Häfen für Stückgut und Fahrzeugimporte in Libyen entwickelt. Seine strategische Lage und die geringere Auslastung im Vergleich zu Tripolis machen ihn zu einer beliebten Alternative für viele internationale Reedereien. Geografie K8 — Logistik.",
+      "factsAdvanced": [
+        "Wichtiger Hafen für Auto- und Fahrzeugimporte",
+        "Liegt östlich von Tripolis",
+        "Beliebte Alternative zum Hafen der Hauptstadt",
+        "Dient als Stützpunkt der Küstenwache",
+        "Wichtig für den Export lokaler Agrargüter",
+        "Kontinuierliche Erweiterung der Kapazitäten"
+      ]
+    },
+    {
+      "id": "tobruk-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Tobruk ist ein hervorragend geschützter natürlicher Tiefwasserhafen tief im Osten Libyens nahe der ägyptischen Grenze. Er spielte in der Geschichte eine entscheidende militärische Rolle und ist heute eine wichtige Route für den Handel mit Ägypten und den Export von Erdöl. Geschichte K8 — Geostrategie.",
+      "factsAdvanced": [
+        "Einer der besten Naturhäfen Nordafrikas",
+        "Tiefwasserhafen nahe der ägyptischen Grenze",
+        "Historische Bedeutung im Zweiten Weltkrieg",
+        "Wichtig für den regionalen Handel",
+        "Wird teilweise für Ölexporte genutzt",
+        "Starker Ausbau der Passagierterminals"
+      ]
+    },
+    {
+      "id": "derna-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Derna an der nordöstlichen Küste war lange ein wichtiges lokales maritimes Zentrum, wurde aber während der verheerenden Überschwemmungen im September 2023 schwer beschädigt. Er war traditionell wichtig für die lokale Fischerei und den regionalen Warenaustausch im Dschabal al-Achdar. Geografie K8 — Infrastruktur nach Katastrophen.",
+      "factsAdvanced": [
+        "Küstenhafen am Fuße des Dschabal al-Achdar",
+        "Schwer beschädigt durch die Überschwemmungen 2023",
+        "Traditionell wichtig für die Fischerei",
+        "Import-Tor für die lokale Region",
+        "Langer Wiederaufbau-Prozess",
+        "Malerische Lage direkt am Mittelmeer"
+      ]
+    },
+    {
+      "id": "ras-lanuf-port-economic-v2",
+      "descriptionAdvanced": "Der Ölhafen von Ras Lanuf am Golf von Sidra ist eines der Herzstücke der libyschen Erdölindustrie. Zusammen mit seiner riesigen Raffinerie und dem petrochemischen Komplex ist er entscheidend für den Export großer Mengen Rohöl in den Mittelmeerraum und auf internationale Märkte. Geografie K8 — Energiewirtschaft.",
+      "factsAdvanced": [
+        "Bedeutender Öl-Exporthafen",
+        "Liegt am Golf von Sidra",
+        "Verbunden mit dem Ras Lanuf Petrochemie-Komplex",
+        "Verfügt über riesige Öltanks",
+        "Endpunkt wichtiger Öl-Pipelines aus dem Süden",
+        "Strategisches Ziel in jüngsten Konflikten"
+      ]
+    },
+    {
+      "id": "marsa-el-brega-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Marsa el Brega ist ein riesiges industrielles und maritimes Zentrum am Golf von Sidra. Er dient als primärer Exporthafen für Flüssigerdgas (LNG), Ammoniak und andere petrochemische Produkte, die in den Anlagen direkt an der Küste verarbeitet werden. Geografie K8 — Chemische Industrie.",
+      "factsAdvanced": [
+        "Haupt-Exporthafen für Flüssigerdgas (LNG)",
+        "Zentrum der libyschen Petrochemie",
+        "Exportiert Ammoniak und Urea",
+        "Verfügt über einen eigenen Flughafen",
+        "Wichtiger Endpunkt für Gas-Pipelines",
+        "Erbaut in den 1960er Jahren"
+      ]
+    },
+    {
+      "id": "zueitina-oil-terminal-economic-v2",
+      "descriptionAdvanced": "Das Zueitina Oil Terminal liegt südlich von Bengasi und ist eine kritische Anlage für den Export von libyschem Rohöl und Gas. Das Terminal ist über ein weites Pipelinenetz mit den Ölfeldern der Wüste verbunden und verlädt das Öl direkt auf Supertanker auf dem Mittelmeer. Geografie K8 — Erdölexport.",
+      "factsAdvanced": [
+        "Wichtiges Öl-Export-Terminal",
+        "Liegt südlich der Großstadt Bengasi",
+        "Verbunden mit Offshore-Verladestationen",
+        "Endpunkt zahlreicher Öl- und Gaspipelines",
+        "Bedeutender Arbeitgeber in der Region",
+        "Häufiges Ziel von Blockaden während Protesten"
+      ]
+    },
+    {
+      "id": "zawiya-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Zawiya ist direkt an die größte noch funktionierende Ölraffinerie im Westen Libyens angeschlossen. Er ist von strategischer Bedeutung für den Export raffinierter Erdölprodukte und den Import von Treibstoffen, die für den Betrieb der Hauptstadt Tripolis unerlässlich sind. Geografie K8 — Energieversorgung.",
+      "factsAdvanced": [
+        "Direkt an die Zawiya-Ölraffinerie angeschlossen",
+        "Wichtig für den Export raffinierter Produkte",
+        "Sichert die Energieversorgung für Tripolis",
+        "Verfügt über mehrere Offshore-Ladebojen",
+        "Liegt nur 45 km westlich von Tripolis",
+        "Kritische nationale Infrastruktur"
+      ]
+    },
+    {
+      "id": "mellitah-port-economic-v2",
+      "descriptionAdvanced": "Der Mellitah Oil and Gas Port, nahe der Stadt Zuwara, ist ein gigantischer Energiekomplex. Er fungiert als Ausgangspunkt für die Greenstream-Pipeline, die libysches Erdgas durch das Mittelmeer direkt nach Italien und somit in den europäischen Markt leitet. Geografie K8 — Internationale Energie-Pipelines.",
+      "factsAdvanced": [
+        "Ausgangspunkt der Greenstream-Gaspipeline",
+        "Exportiert Erdgas direkt nach Italien (Europa)",
+        "Joint Venture zwischen NOC und Eni",
+        "Behandelt Gas aus Offshore- und Onshore-Feldern",
+        "Riesiger petrochemischer Komplex an der Küste",
+        "Eine der wichtigsten Einnahmequellen Libyens"
+      ]
+    },
+    {
+      "id": "es-sider-terminal-economic-v2",
+      "descriptionAdvanced": "Das Ölterminal Es Sider (Sidra) ist der historisch größte und kapazitätsstärkste Erdöl-Exporthafen Libyens. Der riesige Hafen liegt strategisch günstig am Mittelmeer und dient als Nadelöhr für das Rohöl, das in den ergiebigen Feldern der Waha Oil Company tief im Sirte-Becken gefördert wird. Geografie K8 — Rohstoffmärkte.",
+      "factsAdvanced": [
+        "Größtes Öl-Export-Terminal in Libyen",
+        "Liegt zentral am Golf von Sidra",
+        "Exportiert Öl aus dem reichen Sirte-Becken",
+        "Betrieben von der Waha Oil Company",
+        "Riesige Speicherkapazitäten (Tanklager)",
+        "Erlebte schwere Zerstörungen während des Bürgerkriegs"
+      ]
+    }
+  ]
+}

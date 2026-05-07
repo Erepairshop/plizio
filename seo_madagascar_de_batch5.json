@@ -1,0 +1,310 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antongil-bay-dutch-settlement-history-v2",
+      "descriptionAdvanced": "Die Bucht von Antongil, die größte Bucht Madagaskars, war im 16. und 17. Jahrhundert ein wichtiger Anlaufpunkt für niederländische Handelsschiffe auf dem Weg nach Ostindien. Die Seeleute nutzten die geschützten Gewässer, um Frischwasser aufzunehmen, Vorräte aufzustocken und Holz zu schlagen. Sie ritzten oft Inschriften mit Namen und Jahreszahlen in die großen Felsen der Insel Nosy Mangabe, die noch heute als historisches «Postamt» der Seeleute gelten. Diese frühen Kontakte waren oft von Missverständnissen und Konflikten mit der lokalen Bevölkerung geprägt. Geschichte K8 — Europäische Entdeckungsreisen.",
+      "factsAdvanced": [
+        "Wichtiger historischer Ankerplatz für niederländische Ostindienfahrer",
+        "Gelegen in der größten Bucht Madagaskars (Nordosten)",
+        "Seeleute hinterließen Steingravuren («Postamt») auf Nosy Mangabe",
+        "Diente primär der Aufnahme von Frischwasser und Holz",
+        "Kontakte zur lokalen Bevölkerung waren oft konfliktreich",
+        "Niederländer versuchten kurzzeitig eine kleine Handelsniederlassung aufzubauen"
+      ]
+    },
+    {
+      "id": "mahajanga-arab-trading-post-history-v2",
+      "descriptionAdvanced": "Mahajanga an der Nordwestküste war bereits lange vor der Ankunft der Europäer ein blühender Handelsposten, der stark von arabischen, komorischen und indischen Händlern geprägt war. Im 18. Jahrhundert war es das Zentrum des Sakalava-Königreichs Boina, dessen Könige rege Handelsbeziehungen über den Kanal von Mosambik pflegten. Gehandelt wurden Sklaven, Rinder und Gewürze gegen Waffen, Stoffe und arabische Keramik. Die Architektur der Altstadt, mit ihren geschnitzten Holztüren und kolonialen Arkaden, spiegelt diesen multikulturellen Schmelztiegel noch heute eindrucksvoll wider. Geschichte K7 — Arabische Handelsnetzwerke.",
+      "factsAdvanced": [
+        "Historisch einer der wichtigsten Handelsposten am Kanal von Mosambik",
+        "Stark beeinflusst durch arabische, komorische und indische Händler",
+        "War das Zentrum des mächtigen Sakalava-Königreichs Boina",
+        "Hauptumschlagplatz für den historischen Sklaven- und Gewürzhandel",
+        "Altstadt (Mahajanga Be) besitzt noch heute alte arabische Architektur",
+        "Islamische Kultur ist hier stärker verankert als im Rest des Landes"
+      ]
+    },
+    {
+      "id": "nosy-be-marodoka-history-v2",
+      "descriptionAdvanced": "Das Dorf Marodoka (auch als Ambanoro bekannt) auf der Insel Nosy Be war im 19. Jahrhundert die erste Hauptstadt der Insel und ein florierendes Zentrum arabischer und indischer Händler (Karany). Es war ein Hauptumschlagplatz für Gewürze, Elfenbein und Sklaven, lange bevor die Franzosen Nosy Be kolonisierten. Heute sind nur noch die von Feigenbäumen überwucherten Ruinen alter indischer Handelshäuser, einer arabischen Moschee und dem ersten Gefängnis der Insel übrig. Die Stätte bietet einen faszinierenden Einblick in die prähistorische Handelsgeschichte der Region. Geschichte K6 — Frühe Handelsrouten und Ruinen.",
+      "factsAdvanced": [
+        "Historisch erste Hauptstadt und Handelszentrum der Insel Nosy Be",
+        "Gegründet von indischen (Karany) und arabischen Händlern im 19. Jh.",
+        "War ein Zentrum für den Handel mit Sklaven, Gewürzen und Elfenbein",
+        "Heute eine Ruinenstadt, die oft von Würgefeigen überwuchert ist",
+        "Beherbergt die Reste der ersten steinernen Moschee der Insel",
+        "Gibt Einblicke in die Zeit vor der französischen Kolonisation"
+      ]
+    },
+    {
+      "id": "amohi-palace-fianarantsoa-history-v2",
+      "descriptionAdvanced": "Der historische Amohi-Hügel (auch Rova von Fianarantsoa genannt) war der Standort des königlichen Palastes, den Königin Ranavalona I. im Jahr 1830 erbauen ließ. Als sie Fianarantsoa als neue Hauptstadt des Südens gründete, sollte der Amohi-Hügel eine exakte Kopie des heiligen Analamanga-Hügels in Antananarivo sein. Heute sind die eigentlichen Holzpaläste nicht mehr erhalten; an ihrer Stelle wurden im späten 19. Jahrhundert große Kirchen und eine Schule errichtet, die heute das Stadtbild der «Haute Ville» (Altstadt) dominieren. Geschichte K7 — Merina-Expansion und Missionierung.",
+      "factsAdvanced": [
+        "Historischer königlicher Hügel in der Altstadt von Fianarantsoa",
+        "Ursprünglich 1830 von Königin Ranavalona I. als Rova angelegt",
+        "Konzipiert als südliches Abbild der Hauptstadt Antananarivo",
+        "Ursprüngliche königliche Holzgebäude sind nicht mehr erhalten",
+        "Gelände wird heute von historischen Missionskirchen dominiert",
+        "Markiert die Expansion des Merina-Königreichs in das Betsileo-Gebiet"
+      ]
+    },
+    {
+      "id": "jean-laborde-house-mantasoa-history-v2",
+      "descriptionAdvanced": "Das Haus von Jean Laborde in Mantasoa ist ein bedeutendes Industriedenkmal. Jean Laborde, ein französischer Schiffbrüchiger, wurde in der Mitte des 19. Jahrhunderts zum Chefingenieur von Königin Ranavalona I. Er baute in Mantasoa den ersten Industriekomplex Madagaskars auf, der Kanonen, Schießpulver, Seife, Glas und Seide für den königlichen Hof produzierte. Sein hölzernes Wohnhaus, umgeben von den Ruinen der alten Hochöfen und einer künstlichen Talsperre, zeugt von der frühen Industrialisierung des Landes und Labordes außergewöhnlichem Einfluss auf die madagassische Monarchie. Geschichte K8 — Frühe Industrialisierung und Europäer am Hof.",
+      "factsAdvanced": [
+        "Ehemaliges Wohnhaus des französischen Ingenieurs Jean Laborde",
+        "Zentrum des ersten Industriekomplexes auf Madagaskar (19. Jh.)",
+        "Produzierte Waffen, Werkzeuge und Luxusgüter für Königin Ranavalona I.",
+        "Laborde führte moderne europäische Bautechniken im Land ein",
+        "Ruinen der alten Hochöfen und Fabriken sind im Wald versteckt",
+        "Liegt nahe einem großen Stausee, der zur Energiegewinnung angelegt wurde"
+      ]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "descriptionAdvanced": "Die archäologische Stätte Antongona liegt auf zwei massiven, freistehenden Granitfelsen westlich von Antananarivo. Sie besteht aus mehreren königlichen Festungen (Rova) aus dem 16. bis 18. Jahrhundert. Antongona war Teil eines Netzwerks befestigter Dörfer, die die Kernlande des Merina-Königreichs vor Angriffen benachbarter Gruppen schützen sollten. Die Hügel sind von tiefen Trockengräben (Hady) umgeben. Auf den Gipfeln befinden sich originalgetreu rekonstruierte traditionelle Königshäuser aus Holz und Stroh, die Einblicke in die historische Wohnkultur der Imerina bieten. Architektur K6 — Befestigungsanlagen und Königshäuser.",
+      "factsAdvanced": [
+        "Historische Festungsanlage auf zwei steilen Granitfelsen",
+        "Diente im 16. bis 18. Jahrhundert als Verteidigungsposten der Imerina",
+        "Gesichert durch massive, von Hand gegrabene Verteidigungsgräben (Hady)",
+        "Beherbergt zwei authentisch rekonstruierte traditionelle Merina-Holzhäuser",
+        "Liegt etwa 36 Kilometer westlich der Hauptstadt Antananarivo",
+        "Wurde in den 1980er Jahren teilweise als Museum hergerichtet"
+      ]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "descriptionAdvanced": "Die ehemalige Forst- und Forschungsstation Analamazaotra in der Nähe von Andasibe wurde in den frühen 1900er Jahren von der französischen Kolonialverwaltung gegründet. Sie diente primär der Erforschung der lokalen Flora und der Akklimatisierung exotischer Baumarten (wie Eukalyptus und Kiefer) zur Holzgewinnung, um die rapide Abholzung des einheimischen Regenwaldes zu stoppen. Heute ist das Gebiet als Nationalpark geschützt und vor allem berühmt für den Indri-Indri, den größten Lemuren Madagaskars, dessen markante Rufe die historischen Wälder durchdringen. Geschichte K7 — Koloniale Forstwirtschaft.",
+      "factsAdvanced": [
+        "Historische Forststation der französischen Kolonialmacht (frühes 20. Jh.)",
+        "Diente der Erforschung und Einführung fremder Baumarten (Eukalyptus)",
+        "Gilt als einer der Ursprünge der modernen Forstwirtschaft auf Madagaskar",
+        "Heute Teil des berühmten Andasibe-Mantadia-Nationalparks",
+        "Heimat des größten Lemuren der Welt, dem Indri-Indri",
+        "Historische Gebäude der Station werden heute teilweise vom Nationalpark genutzt"
+      ]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "descriptionAdvanced": "Das koloniale Zentrum von Toliara (Tuléar) zeugt von der starken französischen Präsenz im trockenen Südwesten Madagaskars ab 1895. Da der Süden als rebellisch galt, planten die Franzosen die Stadt strategisch mit breiten, rasterförmigen Boulevards, um Truppenbewegungen zu erleichtern. Entlang des «Boulevard Gallieni» und der Uferpromenade stehen noch heute koloniale Verwaltungsgebäude, Handelskontore und Residenzen, die mit dicken Mauern und Veranden an das heiße Klima angepasst sind. Die Architektur ist pragmatisch, um der extremen Hitze und dem Sandwind zu trotzen. Geschichte K6 — Koloniale Stadtplanung.",
+      "factsAdvanced": [
+        "Wurde 1895 von der französischen Kolonialmacht planmäßig angelegt",
+        "Stadtbild wird von einem rasterförmigen Straßennetz dominiert",
+        "Breite Boulevards (z.B. Gallieni) sollten Truppenbewegungen erleichtern",
+        "Kolonialgebäude weisen dicke Mauern und große schattige Veranden auf",
+        "Diente als Verwaltungs- und Militärzentrum für den rebellischen Süden",
+        "Architektur ist stark an das heiße, trockene Klima angepasst"
+      ]
+    },
+    {
+      "id": "morondava-royal-tombs-history-v2",
+      "descriptionAdvanced": "Die königlichen Gräber von Morondava, tief im Wald verborgen, gehören zu den wichtigsten spirituellen Orten der Sakalava-Kultur. Sie sind die letzte Ruhestätte der Könige des Menabe-Reiches, das im 17. und 18. Jahrhundert die Westküste dominierte. Die Gräber bestehen oft aus einfachen Holzschreinen, sind jedoch mit erotisch geschnitzten Holzstatuen verziert, die Fruchtbarkeit und das Fortbestehen des Lebens symbolisieren. Das Areal ist streng reglementiert: Besucher dürfen weder rot gekleidet sein, noch Schweinefleisch mitbringen, da dies starke Tabus (Fady) verletzt. Anthropologie K8 — Sakalava-Mythen und Fady.",
+      "factsAdvanced": [
+        "Ruhestätte der historischen Sakalava-Könige des Menabe-Reiches",
+        "Versteckt in den Trockenwäldern nahe Morondava an der Westküste",
+        "Gräber sind mit kunstvollen, oft erotischen Holzskulpturen verziert",
+        "Statuen symbolisieren den ewigen Kreislauf von Leben und Fruchtbarkeit",
+        "Unterliegt strengen Tabus (Fady), wie dem Verbot roter Kleidung",
+        "Bis heute ein aktiver Ort für madagassische Tromba-Rituale"
+      ]
+    },
+    {
+      "id": "faratsiho-mission-history-v2",
+      "descriptionAdvanced": "Die historische katholische und protestantische Mission in Faratsiho, hoch im Ankaratra-Massiv gelegen, stammt aus dem späten 19. Jahrhundert. Als eine der am höchsten gelegenen Siedlungen Madagaskars (ca. 1.700 Meter) war der Bau der großen Backsteinkirchen eine enorme logistische Herausforderung für die europäischen Missionare. Die Missionen dienten nicht nur der Verbreitung des christlichen Glaubens, sondern waren auch Bildungszentren, die landwirtschaftliche Techniken für den Hochlandanbau (wie Kartoffeln und Weizen) in die isolierte Region brachten. Geschichte K7 — Europäische Missionen im Hochland.",
+      "factsAdvanced": [
+        "Standort historischer Kirchen aus dem späten 19. Jahrhundert",
+        "Eine der höchstgelegenen europäischen Missionen auf Madagaskar",
+        "Erbaut mit lokal gebrannten roten Ziegelsteinen (Backsteinarchitektur)",
+        "Missionare führten landwirtschaftliche Neuerungen (Kartoffeln, Weizen) ein",
+        "Diente als wichtiges Bildungszentrum im abgelegenen Ankaratra-Massiv",
+        "Wichtiger Punkt der frühen christlichen Evangelisierung des Hochlandes"
+      ]
+    },
+    {
+      "id": "cap-mined-diego-suarez-history-v2",
+      "descriptionAdvanced": "Das Cap Miné an der strategisch wichtigen Meerenge der Diego-Suarez-Bucht ist ein historischer Militärstützpunkt. Die Anlage ist geprägt von riesigen, verrosteten französischen Küstenartillerie-Kanonen aus dem späten 19. und frühen 20. Jahrhundert, die das Meer bewachen. Im Jahr 1942 war die Region Schauplatz der «Operation Ironclad», bei der britische Truppen die Bucht stürmten, um sie aus der Hand des Vichy-Regimes zu befreien und eine mögliche Nutzung durch japanische U-Boote im Zweiten Weltkrieg zu verhindern. Ruinen alter Bunker durchziehen die Klippen. Geschichte K8 — Zweiter Weltkrieg in Afrika.",
+      "factsAdvanced": [
+        "Historische militärische Festungsanlage an der Einfahrt zur Diego-Suarez-Bucht",
+        "Beherbergt massive, verrostete französische Küstenkanonen",
+        "Schauplatz der britischen «Operation Ironclad» im Zweiten Weltkrieg (1942)",
+        "Briten eroberten das Fort von französischen Vichy-Truppen",
+        "Sollte die Nutzung des Hafens durch die japanische Marine verhindern",
+        "Anlage umfasst ein verlassenes Netz aus Bunkern und Schützengräben"
+      ]
+    },
+    {
+      "id": "tamatave-old-port-history-v2",
+      "descriptionAdvanced": "Der alte Hafen von Tamatave (Toamasina) war bereits im 18. Jahrhundert ein wichtiger Ankerplatz, der jedoch erst unter französischer Herrschaft ab 1895 massiv ausgebaut wurde. In der Kolonialzeit entstanden hier große Zolllager, eine Hafenmeisterei und Schienenanschlüsse, die den Reichtum der Ostküste — Kaffee, Nelken und Vanille — nach Europa exportierten. Mehrere schwere Zyklone im 20. Jahrhundert zerstörten Teile der alten hölzernen Infrastruktur, weshalb der alte Hafen später in den modernen, autonomen Tiefwasserhafen integriert wurde. Einige historische Kolonialgebäude am Rande des Hafens sind geblieben. Geschichte K6 — Hafenentwicklung.",
+      "factsAdvanced": [
+        "Historischer Kern des wichtigsten madagassischen Seehafens",
+        "Stark ausgebaut während der französischen Kolonialzeit (ab 1895)",
+        "Diente dem lukrativen Export von Kaffee, Vanille und Nelken",
+        "Ehemalige Holzinfrastruktur wurde oft durch Zyklone zerstört",
+        "Früher Ankunftsort für Tausende asiatische Arbeitsmigranten (Kulis)",
+        "Heute größtenteils vom modernen Tiefwasserhafen überbaut"
+      ]
+    },
+    {
+      "id": "nosy-boraha-fort-history-v2",
+      "descriptionAdvanced": "Das Fort der Compagnie des Indes auf der Île Sainte-Marie (Nosy Boraha) ist das Überbleibsel einer alten Festungsanlage, die Mitte des 18. Jahrhunderts von der französischen Ostindien-Kompanie errichtet wurde. Die Festung befand sich auf einem kleinen Hügel in der Bucht von Ambodifotatra, um die Insel nach der Zeit der Freibeuter zu kontrollieren und den Sklaven- und Gewürzhandel zu sichern. Obwohl heute nur noch einige bemooste Steinmauern, der alte Eingang und einige Kanonen zu sehen sind, ist das Fort ein bedeutendes Denkmal der kolonialen Militärarchitektur Madagaskars. Architektur K6 — Koloniale Festungen.",
+      "factsAdvanced": [
+        "Erbaut in der Mitte des 18. Jahrhunderts durch die Franzosen",
+        "Gelegen auf einem strategischen Hügel in der Bucht von Ambodifotatra",
+        "Sollte die Insel nach der Piratenära sichern und kontrollieren",
+        "Diente der französischen Ostindien-Kompanie als Handels- und Militärposten",
+        "Heute sind nur noch alte Steinmauern und verrostete Kanonen erhalten",
+        "Ist das älteste steinerne Militärbauwerk auf der Île Sainte-Marie"
+      ]
+    },
+    {
+      "id": "alasora-royal-village-history-v2",
+      "descriptionAdvanced": "Alasora ist einer der zwölf heiligen Hügel der Imerina, südöstlich von Antananarivo. Es gilt als eines der ältesten königlichen Dörfer Madagaskars und wurde der Legende nach im 15. Jahrhundert von Prinz Ramasimparihy gegründet. Historisch bedeutsam ist Alasora als der Ort, an dem König Andriamanelo im 16. Jahrhundert erstmals die kreisförmigen Verteidigungsgräben (Hady) und den monumentalen, runden Stein als Stadttor (Vavahady) einführte — Innovationen, die die Kriegsführung im Hochland revolutionierten. Die Gräber früher Merina-Monarchen machen das Dorf zu einem verehrten Pilgerort. Geschichte K8 — Merina-Ursprünge.",
+      "factsAdvanced": [
+        "Einer der zwölf heiligen königlichen Hügel der Imerina",
+        "Gegründet im 15. Jahrhundert, gilt als eines der ältesten Dörfer",
+        "Ursprungsort der tiefen kreisförmigen Verteidigungsgräben (Hady)",
+        "Erster Ort mit einem rollenden, massiven Steintor (Vavahady)",
+        "Beherbergt die heiligen Gräber der frühen Merina-Dynastie",
+        "Traditionen verbieten das Mitbringen von Zwiebeln an diesen Ort"
+      ]
+    },
+    {
+      "id": "antahakana-martyrs-cliff-history-v2",
+      "descriptionAdvanced": "Die Klippe von Antahakana (Ambohipotsy) in Antananarivo ist ein düsterer, aber historisch extrem wichtiger Ort. Während der Herrschaft der traditionalistischen Königin Ranavalona I. (1828–1861), die das Christentum auf Madagaskar verbot, war dieser Felsen der Ort grausamer Hinrichtungen. Viele madagassische Christen weigerten sich, ihren Glauben aufzugeben, und wurden als Märtyrer verurteilt, indem sie in Säcke genäht und von den hohen Klippen in die Tiefe gestürzt wurden. An der Stelle der Klippe wurde später zum Gedenken an diese Märtyrer eine große Kirche aus lokalem Gestein errichtet. Geschichte K8 — Christenverfolgung auf Madagaskar.",
+      "factsAdvanced": [
+        "Historische Hinrichtungsstätte auf einem Hügel in Antananarivo",
+        "Ort des Martyriums madagassischer Christen im 19. Jahrhundert",
+        "Hinrichtungen fanden auf Befehl von Königin Ranavalona I. statt",
+        "Verurteilte wurden von den hohen Felsklippen in den Tod gestürzt",
+        "Heute steht an dieser Stelle die berühmte Ambohipotsy-Gedächtniskirche",
+        "Spielt eine zentrale Rolle in der madagassischen Kirchengeschichte"
+      ]
+    },
+    {
+      "id": "vohipeno-arab-settlement-history-v2",
+      "descriptionAdvanced": "Vohipeno an der südöstlichen Küste Madagaskars ist das historische Herz der Antemoro-Kultur. Im 15. Jahrhundert landeten hier arabische Einwanderer, angeblich Schiffbrüchige aus der Region um Mekka. Sie brachten den islamischen Glauben, astronomisches Wissen und vor allem die arabische Schrift mit. Sie etablierten eine mächtige, schriftkundige Oberschicht, deren Gelehrte («Ombiasy») Manuskripte auf handgeschöpftem Rindenpapier verfassten (Sorabe). Diese Texte enthielten Medizin, Astrologie und Magie und machten die Antemoro-Gelehrten zu begehrten Ratgebern an den Höfen aller madagassischen Könige. Geschichte K7 — Arabisch-Madagassische Kontakte.",
+      "factsAdvanced": [
+        "Historisches Zentrum der arabischen Einwanderung im 15. Jahrhundert",
+        "Heimat der Antemoro, einer islamisch geprägten madagassischen Volksgruppe",
+        "Ursprungsort der «Sorabe» (madagassische Sprache in arabischer Schrift)",
+        "Gelehrte (Ombiasy) der Stadt waren in ganz Madagaskar als Berater geschätzt",
+        "Tradition der handgeschöpften Papierherstellung entstand hier",
+        "Bewahrt bis heute starke arabische Einflüsse in den lokalen Ritualen"
+      ]
+    },
+    {
+      "id": "foulpointe-fort-manda-history-v2",
+      "descriptionAdvanced": "Das Manda-Fort in Foulpointe (Mahavelona), an der Ostküste nördlich von Toamasina, ist eine massive, kreisförmige Festung aus dem frühen 19. Jahrhundert. König Radama I. ließ das Fort mit britischer militärischer Hilfe erbauen, um die Küste gegen französische Flotten und lokale Aufstände zu verteidigen. Die dicken Mauern sind eine architektonische Besonderheit, da sie aus einer Mischung von Korallensand, Muscheln und Eiweiß erbaut wurden, was sie extrem widerstandsfähig gegen Kanonenfeuer machte. Die Ruinen, gespickt mit alten britischen Kanonen, sind heute gut erhalten. Architektur K6 — Küstenfestungen.",
+      "factsAdvanced": [
+        "Massive, kreisförmige Küstenfestung aus dem frühen 19. Jahrhundert",
+        "Erbaut von König Radama I. mit britischer Militärunterstützung",
+        "Diente der Abwehr französischer Invasionsversuche an der Ostküste",
+        "Mauern bestehen aus Korallensand, Muscheln und Eiklar als Bindemittel",
+        "Architektur machte die Anlage besonders resistent gegen Kanonenfeuer",
+        "Noch heute sind originale britische Kanonen auf den Zinnen zu sehen"
+      ]
+    },
+    {
+      "id": "nosy-mangabe-dutch-inscriptions-history-v2",
+      "descriptionAdvanced": "Nosy Mangabe ist eine kleine, dicht bewaldete Insel in der Antongil-Bucht im Nordosten. Im 16. und 17. Jahrhundert diente die unbewohnte Insel europäischen Segelschiffen als Rastplatz. Am Strand der Insel (Plage des Hollandais) befinden sich große, glatte Felsen, in die niederländische Seeleute der Ostindien-Kompanie ihre Namen, Schiffsnamen und Daten meißelten, um nachfolgenden Schiffen Nachrichten zu hinterlassen. Dieses historische «Felsen-Postamt» ist eines der ältesten Zeugnisse europäischer Präsenz auf Madagaskar, lange bevor permanente Siedlungen entstanden. Geschichte K7 — Maritime Postsysteme.",
+      "factsAdvanced": [
+        "Historischer Rastplatz europäischer Segelschiffe (16. - 17. Jahrhundert)",
+        "Besitzt das berühmte historische «Felsen-Postamt» am Strand",
+        "Niederländische Seeleute ritzten Nachrichten in große Granitfelsen",
+        "Diente der Kommunikation zwischen Schiffen der Ostindien-Kompanie",
+        "Insel selbst blieb unbewohnt und bewahrte ihren dichten Regenwald",
+        "Heute ein geschütztes Reservat, das für das Fingertier (Aye-Aye) bekannt ist"
+      ]
+    },
+    {
+      "id": "andafiavaratra-palace-landmarks-v2",
+      "descriptionAdvanced": "Der Palast von Andafiavaratra dominiert neben dem Rova das Stadtbild von Antananarivo. Erbaut 1872 im viktorianischen Stil, zeichnet sich das massive Gebäude durch seine leuchtend rote Backsteinfassade, große Veranden und einen zentralen Glockenturm aus. Er diente dem Premierminister Rainilaiarivony als prunkvolle Residenz und politisches Zentrum. Nach dem verheerenden Brand des Rova-Königspalastes im Jahr 1995 wurden viele der geretteten königlichen Artefakte, Throne und Gemälde hierher gebracht, sodass das Gebäude heute eines der wichtigsten Museen des Landes ist. Architektur K6 — Historische Palastbauten.",
+      "factsAdvanced": [
+        "Prunkvolle Residenz des ehemaligen Premierministers Rainilaiarivony",
+        "Erbaut 1872 nach Plänen des britischen Architekten William Pool",
+        "Markante Architektur aus rotem Backstein mit einem zentralen Turm",
+        "Eines der dominierenden Wahrzeichen auf dem höchsten Hügel Antananarivos",
+        "Beherbergt heute gerettete Artefakte und Throne des Königshauses",
+        "War Ende des 19. Jahrhunderts das wahre Machtzentrum Madagaskars"
+      ]
+    },
+    {
+      "id": "cathedrale-andohalo-landmarks-v2",
+      "descriptionAdvanced": "Die Cathédrale de l'Immaculée Conception im Viertel Andohalo in Antananarivo ist die wichtigste katholische Kirche Madagaskars. Die imposante gotische Kathedrale aus Naturstein wurde zwischen 1873 und 1890 auf einer Klippe erbaut, direkt unterhalb der königlichen Paläste. Mit ihren zwei spitz zulaufenden Türmen und den kunstvollen Buntglasfenstern ist sie ein weithin sichtbares Wahrzeichen. Die Kirche symbolisiert den starken Einfluss der französischen Jesuiten-Missionare während der Zeit des Merina-Königreichs, was oft zu Spannungen mit dem britisch-protestantischen Hof führte. Architektur K7 — Neogotik in Afrika.",
+      "factsAdvanced": [
+        "Wichtigste römisch-katholische Kathedrale auf Madagaskar",
+        "Erbaut im neogotischen Stil aus grauem Naturstein (1873–1890)",
+        "Besitzt zwei markante, spitz zulaufende Glockentürme",
+        "Liegt im historischen Viertel Andohalo nahe den Palästen",
+        "Zentrum der historischen französischen Jesuiten-Mission",
+        "Kirche ist eng mit der turbulenten Kolonialgeschichte verknüpft"
+      ]
+    },
+    {
+      "id": "mahamasina-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Kianja Barea Mahamasina (Mahamasina-Stadion) ist das nationale Sport- und Veranstaltungszentrum in Antananarivo. Historisch befand sich auf diesem Gelände der Heilige Stein, an dem die Merina-Könige gekrönt wurden. Das Stadion hat in jüngster Zeit massive Umbauten erfahren, um internationalen FIFA-Standards zu entsprechen, und bietet nun Platz für über 40.000 Zuschauer. Es ist nicht nur die Heimat der nationalen Fußballmannschaft (den Barea), sondern auch der zentrale Ort für politische Großveranstaltungen, Konzerte und die Feierlichkeiten zum Unabhängigkeitstag am 26. Juni. Geografie K6 — Moderne städtische Infrastruktur.",
+      "factsAdvanced": [
+        "Größtes und wichtigstes nationales Stadion Madagaskars",
+        "Fasst nach kürzlicher Modernisierung über 40.000 Zuschauer",
+        "Steht auf dem historischen Gelände königlicher Krönungsfeiern",
+        "Heimstadion der madagassischen Fußballnationalmannschaft (Barea)",
+        "Hauptaustragungsort für die Feiern zum Unabhängigkeitstag (26. Juni)",
+        "Gelegen im Tal unterhalb der Altstadt (Haute Ville) von Antananarivo"
+      ]
+    },
+    {
+      "id": "gare-soarano-landmarks-v2",
+      "descriptionAdvanced": "Der Bahnhof Soarano (Gare de Soarano) ist eines der elegantesten Kolonialgebäude in Antananarivo, erbaut im Jahr 1910 durch die Franzosen. Das langgestreckte Gebäude am Ende der Avenue de l'Indépendance markierte den Startpunkt der strategischen Eisenbahnstrecke an die Ostküste (TCE). Zwar ist der Passagierzugverkehr heute weitgehend eingestellt, aber das prunkvolle Gebäude mit seiner großen Bahnhofsuhr wurde aufwendig restauriert. Es dient heute als exklusives Einkaufszentrum, Veranstaltungsort und Sitz gehobener Restaurants im Herzen der chaotischen Innenstadt. Architektur K7 — Koloniale Repräsentationsbauten.",
+      "factsAdvanced": [
+        "Historischer Hauptbahnhof der madagassischen Hauptstadt (erbaut 1910)",
+        "Liegt prominent am Ende der großen Avenue de l'Indépendance",
+        "Ausgangspunkt der wichtigen Bahnlinie an die Ostküste (Toamasina)",
+        "Passagierverkehr ist heute nur noch minimal bis nicht existent",
+        "Aufwendig restauriert und als kommerzielles Zentrum umgewidmet",
+        "Gilt als architektonisches Meisterwerk der französischen Kolonialzeit"
+      ]
+    },
+    {
+      "id": "lake-anosy-monument-landmarks-v2",
+      "descriptionAdvanced": "Der Anosy-See, ein künstlich angelegter See in der Form eines Herzens, liegt im Tal der Hauptstadt Antananarivo und ist im Frühling (Oktober/November) umgeben von leuchtend blühenden Jacaranda-Bäumen. In der Mitte des Sees, auf einer kleinen Insel, steht ein majestätischer, goldener Engel (L'Ange Noir), ein Denkmal, das in den 1920er Jahren von den Franzosen zum Gedenken an die im Ersten Weltkrieg gefallenen madagassischen Soldaten errichtet wurde. Das Monument ist durch einen Dammweg erreichbar und gehört zu den meistfotografierten Wahrzeichen der Metropole. Kunst K5 — Kriegsdenkmäler.",
+      "factsAdvanced": [
+        "Künstlicher herzförmiger See im Zentrum von Antananarivo",
+        "Umgeben von Jacaranda-Bäumen, die lila blühen (Oktober)",
+        "Beherbergt ein goldenes Engel-Denkmal (Monument aux Morts)",
+        "Errichtet zum Gedenken an die madagassischen Gefallenen des Ersten Weltkriegs",
+        "Die Insel im See ist über einen schmalen Dammweg zugänglich",
+        "Historisch wurde der See für die Schießpulverproduktion angelegt"
+      ]
+    },
+    {
+      "id": "phare-cap-minne-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Cap Miné (Phare du Cap Miné) ist ein unverzichtbares Navigationszeichen an der Einfahrt zur Diego-Suarez-Bucht im extremen Norden Madagaskars. Der steinerne Turm wurde 1895 von der französischen Marine errichtet, um die oft tückische und felsige Einfahrt (die «Passes») in den militärisch wichtigen Hafen abzusichern. Der Leuchtturm ist umgeben von verlassenen Militäranlagen und alten Küstengeschützen. Seine rot-weiße Struktur hebt sich dramatisch vom azurblauen Wasser des Indischen Ozeans und den steilen Kalksteinklippen der Region ab. Technik K6 — Leuchttürme und Navigation.",
+      "factsAdvanced": [
+        "Historischer Leuchtturm an der strategischen Diego-Suarez-Bucht",
+        "Erbaut im Jahr 1895 zur Sicherung der Einfahrt für die französische Flotte",
+        "Markante rot-weiße Struktur auf einer hohen Kalksteinklippe",
+        "Sichert die gefährliche, felsige Passage in den Naturhafen",
+        "Umgeben von verrosteten Kanonen aus dem Zweiten Weltkrieg",
+        "Befindet sich in einer abgelegenen, aber touristisch reizvollen Gegend"
+      ]
+    },
+    {
+      "id": "hotel-des-thermes-landmarks-v2",
+      "descriptionAdvanced": "Das Hôtel des Thermes ist das unbestrittene architektonische Juwel der Stadt Antsirabe im zentralen Hochland. Das 1922 eröffnete Luxushotel besticht durch seine massiven, eleganten Kolonialfassaden, weitläufigen Gärten und Thermalbadeanlagen. Es wurde erbaut, um reiche Franzosen anzuziehen, die die heilenden Quellen des «Vichy von Madagaskar» nutzen wollten. Historische Bekanntheit erlangte das Hotel, als König Mohammed V. von Marokko 1953 während seines Exils mit seiner Familie hier lebte. Es ist ein Symbol der kolonialen Belle Époque auf Madagaskar. Architektur K7 — Grandhotels und Kurwesen.",
+      "factsAdvanced": [
+        "Ikonisches Luxushotel aus der Kolonialzeit (eröffnet 1922)",
+        "Dominierendes Gebäude in der Kurstadt Antsirabe",
+        "Errichtet für europäische Eliten, die die Thermalquellen besuchten",
+        "Diente 1953/1954 als Exilresidenz für König Mohammed V. von Marokko",
+        "Verfügt über weitläufige Gärten, Thermalbäder und Minigolfanlagen",
+        "Beispiel für die prunkvolle Architektur der französischen Belle Époque"
+      ]
+    }
+  ]
+}

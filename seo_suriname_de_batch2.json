@@ -1,0 +1,421 @@
+{
+  "lang": "de",
+  "country": "suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLifeV2.ts",
+    "lib/visualLab/data/poiExtraSurinameNatureV2.ts",
+    "lib/visualLab/data/poiExtraSurinameReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sr-fort-zeelandia-history-v2",
+      "descriptionAdvanced": "Das Fort Zeelandia ist das wohl markanteste historische Bauwerk in Paramaribo. Ursprünglich als französischer Handelsposten gegründet, wurde es im Laufe der Zeit von den Niederländern erweitert und massiv befestigt. Heute beherbergt es das Suriname-Museum, das tiefgreifende Einblicke in die koloniale Vergangenheit und den Kampf um die nationale Unabhängigkeit gewährt. Die Festung dient nicht nur als touristisches Ziel, sondern auch als mahnendes Denkmal der surinamischen Geschichte. Der weite Blick über den Suriname-Fluss unterstreicht die strategische Bedeutung, die der Ort über Jahrhunderte hinweg für den Handel und die Verteidigung der Kolonie innehatte. Történelem K7 — gyarmati építészet és erődök.",
+      "factsAdvanced": [
+        "Das Fort wurde ursprünglich um 1640 von den Franzosen als Holzbau errichtet.",
+        "Die Niederländer bauten es nach der Eroberung 1667 in ein massives Steinfestwerk um.",
+        "Es ist nach der niederländischen Provinz Zeeland benannt.",
+        "Im Laufe der Geschichte diente es als Kaserne, Gefängnis und heute als Nationalmuseum.",
+        "Die Anlage hat eine markante pentagonale (fünfeckige) Grundstruktur.",
+        "Im Jahr 1982 war das Fort Schauplatz der tragischen 'Dezember-Morde'.",
+        "Die gut erhaltenen Backsteingebäude im Innenhof stammen teils aus dem 18. Jahrhundert.",
+        "Von den Bastionen hat man einen strategischen Blick auf die Mündung des Suriname-Flusses."
+      ]
+    },
+    {
+      "id": "sr-jodensavanne-history-v2",
+      "descriptionAdvanced": "Die Jodensavanne, ein bedeutendes historisches Erbe im Dschungel Surinames, ist ein eindrucksvolles Zeugnis für die sephardische jüdische Präsenz im 17. Jahrhundert. Diese Siedlung war einst eine blühende landwirtschaftliche Gemeinschaft, die den Anbau von Zuckerrohr auf fruchtbarem Boden vorantrieb. Heute sind nur noch die Ruinen einer der ältesten Synagogen Amerikas sowie zahlreiche Grabsteine erhalten, die in der tropischen Natur eine geheimnisvolle Atmosphäre erzeugen. Als Ort des Rückzugs und der kulturellen Blüte bietet Jodensavanne einen einzigartigen Einblick in eine Geschichte, die von Migration, religiöser Freiheit und dem harten Leben in den Kolonien geprägt ist. Történelem K8 — vallásszabadság és migráció.",
+      "factsAdvanced": [
+        "Jodensavanne wurde in den 1630er Jahren von sephardischen Juden aus Brasilien gegründet.",
+        "Die Siedlung war eine der wenigen autonomen jüdischen Gemeinden in Amerika.",
+        "Die Synagoge 'Beracha VeShalom' wurde 1685 aus Backstein fertiggestellt.",
+        "Auf dem Gelände befinden sich zwei Friedhöfe mit über 450 historischen Grabsteinen.",
+        "Ein großer Brand im Jahr 1832 zerstörte fast die gesamte hölzerne Siedlung.",
+        "Die Inschriften auf den Gräbern sind teils in Portugiesisch, Spanisch und Hebräisch verfasst.",
+        "Jodensavanne wurde 2023 offiziell in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+        "Nahegelegene medizinische Heilquellen machten den Ort einst überregional bekannt."
+      ]
+    },
+    {
+      "id": "sr-peperpot-history-v2",
+      "descriptionAdvanced": "Die Peperpot Plantage ist eine der ältesten und bekanntesten Anlagen Surinames, deren Wurzeln bis ins 18. Jahrhundert zurückreichen. Einst spezialisiert auf den Anbau von hochwertigem Kaffee und Kakao, diente sie als wichtiger Wirtschaftsfaktor für die Region. Heute ist das Gelände eine faszinierende Kombination aus historischem Erbe und einem blühenden Naturpark, in dem Besucher die Flora und Fauna der tropischen Umgebung erkunden können. Die alten Fabrikgebäude und verlassenen Plantagenwege erinnern an eine vergangene Ära und laden dazu ein, die Geschichte auf eine lebendige Weise zu erleben, während man gleichzeitig die surinamische Natur genießt. Történelem K8 — ültetvénygazdálkodás.",
+      "factsAdvanced": [
+        "Peperpot wurde um 1702 von der Familie Clemen gegründet.",
+        "Die Plantage war fast 300 Jahre lang ununterbrochen in Betrieb (bis 1998).",
+        "Hier befinden sich zwei gut erhaltene historische Plantagenhäuser aus dem 18. Jahrhundert.",
+        "Die ehemalige Kaffee- und Kakaofabrik ist heute ein Industriedenkmal.",
+        "Peperpot war eine der wenigen Plantagen, die den Übergang zur modernen Landwirtschaft überstanden.",
+        "Das Areal umfasst heute einen 700 Hektar großen Naturpark (Discovery Center).",
+        "Die Plantage beherbergt eine enorme Vielfalt an Vögeln, Affen und Schmetterlingen.",
+        "Sie liegt am rechten Ufer des Suriname-Flusses, direkt gegenüber von Paramaribo."
+      ]
+    },
+    {
+      "id": "sr-frederiksdorp-history-v2",
+      "descriptionAdvanced": "Frederiksdorp ist eine liebevoll restaurierte Plantage, die heute als exklusives Heritage-Resort dient. Im 18. Jahrhundert gegründet, blickt der Ort auf eine wechselvolle Geschichte zurück, von der Kaffeeproduktion bis hin zur Nutzung als Polizeiposten. Die Architektur der historischen Holzhäuser ist ein prächtiges Beispiel für die koloniale Baukunst jener Zeit. Heute bietet Frederiksdorp Besuchern die einzigartige Möglichkeit, in die koloniale Atmosphäre einzutauchen, während sie den Komfort eines modernen Resorts genießen. Eingebettet in eine malerische Flusslandschaft, erzählt jeder Winkel des Ortes von der Vergangenheit und der kulturellen Entwicklung Surinames. Történelem K8 — gyarmati életmód.",
+      "factsAdvanced": [
+        "Die Plantage wurde 1747 von dem Deutschen Friedrich Knöffel gegründet.",
+        "Sie diente lange Zeit als Hauptpolizeistation und Gericht für den Commewijne-Distrikt.",
+        "Die historischen Gefängniszellen sind heute noch als Teil des Museums zu besichtigen.",
+        "Die Anlage wurde für ihre detailgetreue Restaurierung international ausgezeichnet.",
+        "Frederiksdorp liegt an der Mündung des Commewijne-Flusses in den Atlantik.",
+        "Die historischen Arzt- und Beamtenhäuser wurden in luxuriöse Gästezimmer umgewandelt.",
+        "Der Ort ist nur per Boot von Mariënburg aus zu erreichen.",
+        "Schildkrötenbeobachtungstouren starten oft von diesem historischen Stützpunkt."
+      ]
+    },
+    {
+      "id": "sr-pengel-monument-history-v2",
+      "descriptionAdvanced": "Das Johan Adolf Pengel Monument auf dem zentralen Unabhängigkeitsplatz in Paramaribo ehrt einen der prägenden Politiker Surinames, der die Entwicklung des Landes in der Mitte des 20. Jahrhunderts maßgeblich mitgestaltete. Als Premierminister legte Pengel wichtige Grundsteine für die soziale und infrastrukturelle Entwicklung Surinames. Das Denkmal zeigt den Politiker als eine entschlossene Figur und erinnert an die Zeit des Umbruchs und des Strebens nach nationaler Identität. Besucher können hier einen Moment innehalten und die Bedeutung dieser historischen Persönlichkeit für das moderne Suriname reflektieren, während sie gleichzeitig die beeindruckende Kulisse des Unabhängigkeitsplatzes genießen. Történelem K8 — függetlenedés és politika.",
+      "factsAdvanced": [
+        "Johan Adolf 'Japie' Pengel war von 1963 bis 1969 Premierminister von Suriname.",
+        "Das Denkmal wurde am 25. November 1974, ein Jahr vor der Unabhängigkeit, enthüllt.",
+        "Die überlebensgroße Bronzestatue ist ein Werk des niederländischen Künstlers Stuart Robles de Medina.",
+        "Pengel gilt als Mitbegründer der NPS-Partei und Kämpfer für die Emanzipation der Kreolen.",
+        "Sein politischer Stil des 'Verbrüderung' zielte auf die Zusammenarbeit der Ethnien ab.",
+        "Nach ihm ist auch der internationale Flughafen von Suriname benannt.",
+        "Das Denkmal steht symbolisch dem Denkmal von Jagernath Lachmon gegenüber.",
+        "Der Standort am Onafhankelijkheidsplein unterstreicht seine staatspolitische Bedeutung."
+      ]
+    },
+    {
+      "id": "sr-clevia-history-v2",
+      "descriptionAdvanced": "Die Plantage Clevia ist ein Zeugnis der landwirtschaftlichen Geschichte in der Nähe von Paramaribo, die maßgeblich zum Aufstieg der Kolonialwirtschaft beitrug. In ihrer Blütezeit spezialisiert auf Kaffee, war sie ein bedeutendes Zentrum für Handel und Produktion. Die heute weitgehend urbanisierten Ländereien erlauben noch immer einen Einblick in die koloniale Wirtschaftsstruktur und deren Bedeutung für die Entwicklung der Region. Als Ort, an dem sich die Geschichte Surinames manifestiert, lädt Clevia ein, die Transformation von einer agrarischen Plantagenlandschaft hin zu einem modernen Stadtviertel nachzuvollziehen. Das Erbe dieser Plantage ist heute ein stiller, aber wichtiger Teil der Identität des nördlichen Paramaribo. Történelem K8 — urbanizáció és mezőgazdaság.",
+      "factsAdvanced": [
+        "Clevia wurde ursprünglich im 18. Jahrhundert als Kaffee- und Kakaoplantage angelegt.",
+        "Sie liegt im Norden von Paramaribo, direkt am Ufer des Suriname-Flusses.",
+        "Im 19. Jahrhundert wurde sie zu einer der größten Plantagen in Flussnähe.",
+        "Nach dem Ende der Sklaverei arbeiteten viele javanische Kontraktarbeiter auf Clevia.",
+        "Heute befindet sich dort der 'Clevia Park', ein Ort für Erholung und Gartenbau.",
+        "Teile des alten Schleusensystems sind in der Landschaft noch erkennbar.",
+        "Die Plantage ist heute ein wichtiges Beispiel für 'Urban Farming' in der Hauptstadt.",
+        "Historische Karten zeigen Clevia als strategisch wichtigen Posten für den Flusshandel."
+      ]
+    },
+    {
+      "id": "sr-suzannas-daal-history-v2",
+      "descriptionAdvanced": "Suzanna's Daal erinnert an eine Zeit, als der Anbau von Zuckerrohr die koloniale Wirtschaft dominierte. Gelegen am Suriname-Fluss, ist dieser Ort durch seine bewegte Geschichte und den Übergang zum Kakaoanbau gekennzeichnet. Heute sind noch historische Grabsteine erhalten, die die persönliche Geschichte der ehemaligen Plantagenbesitzer und ihrer Familien erzählen. Der Ort bietet einen melancholischen und zugleich faszinierendes Einblick in das Leben der frühen Siedler. Besucher können hier die Stille genießen und sich in eine Welt zurückversetzen lassen, in der die Plantagen den Rhythmus des täglichen Lebens bestimmten. Történelem K8 — cukornád és koloniális gazdaság.",
+      "factsAdvanced": [
+        "Die Plantage wurde 1753 von der Witwe Suzanna du Plessis gegründet.",
+        "Suzanna du Plessis ist eine der umstrittensten Figuren der surinamischen Literatur und Geschichte.",
+        "Ursprünglich war die Anlage eine hochproduktive Zuckerplantage.",
+        "Später wurde sie, wie viele andere, auf den rentableren Kakaoanbau umgestellt.",
+        "Auf dem Gelände befinden sich die Ruinen des prunkvollen Herrenhauses.",
+        "Der Familienfriedhof mit steinernen Monumenten ist bis heute erhalten geblieben.",
+        "Suzannas Daal liegt am rechten Ufer des Suriname-Flusses im Commewijne-Distrikt.",
+        "In der lokalen Folklore ist der Name Suzanna mit zahlreichen Legenden verknüpft."
+      ]
+    },
+    {
+      "id": "sr-katwijk-history-v2",
+      "descriptionAdvanced": "Katwijk ist eine bemerkenswerte Ausnahme in der surinamischen Agrarlandschaft, da sie die Tradition des Anbaus der seltenen Liberica-Kaffeesorte aufrechterhält. Die Plantage verbindet historische Anbauweisen mit einer Produktion, die heute für ihre Authentizität geschätzt wird. Die Anlage bietet nicht nur Kaffee von besonderer Qualität, sondern dient auch als lebendiges Museum der Plantagenwirtschaft. Besucher können hier die gesamte Produktionskette erleben, vom Feld bis zur Tasse, und die Leidenschaft spüren, die in jedem Schritt des Prozesses steckt. Es ist ein Ort, der stolz seine Verbindung zur Vergangenheit pflegt und dabei gleichzeitig ein exzellentes Produkt für die Zukunft schafft. Földrajz K8 — különleges növénykultúrák.",
+      "factsAdvanced": [
+        "Katwijk ist die einzige verbliebene Plantage in Suriname, die kommerziell Liberica-Kaffee anbaut.",
+        "Die Kaffeesorte Liberica zeichnet sich durch große Bohnen und ein kräftiges Aroma aus.",
+        "Die Plantage wurde im 18. Jahrhundert gegründet und liegt am Commewijne-Fluss.",
+        "Das historische Plantagenhaus (Landhuis) ist im Originalzustand erhalten.",
+        "Sowohl javanische als auch indostanische Einflüsse prägen die Arbeitstradition vor Ort.",
+        "Katwijk-Kaffee wird lokal als Premiumprodukt in Paramaribo verkauft.",
+        "Besucher können die historischen Trockenanlagen und Röstöfen besichtigen.",
+        "Die Plantage setzt auf traditionelle, pestizidfreie Anbaumethoden unter Schattenbäumen."
+      ]
+    },
+    {
+      "id": "sr-waterland-history-v2",
+      "descriptionAdvanced": "Waterland bietet eine einzigartige Mischung aus historischem Charme und natürlicher Erholung am Ufer des Suriname-Flusses. Ursprünglich als erfolgreiche Zuckerrohrplantage bekannt, hat sich der Ort zu einem beliebten Ziel für Menschen entwickelt, die Ruhe suchen und die Geschichte des Landes atmen möchten. Das Zusammenspiel zwischen der erhaltenen historischen Struktur und der üppigen Natur entlang des Flusses macht Waterland zu einem Kleinod. Besucher können hier die Balance zwischen entspannten Freizeitaktivitäten und der Auseinandersetzung mit der industriellen Vergangenheit Surinames finden. Waterland ist heute ein Ort, der zeigt, wie historische Stätten in die Moderne transformiert werden können. Földrajz K8 — fenntartható turizmus.",
+      "factsAdvanced": [
+        "Waterland war im 18. Jahrhundert eine der größten Zuckerplantagen am oberen Suriname-Fluss.",
+        "Sie liegt im Distrikt Para, etwa 40 Kilometer südlich der Hauptstadt.",
+        "Die Plantage gehörte einst der einflussreichen Familie Clifford Kocq van Breugel.",
+        "Heute wird das Gelände als Ökotourismus-Resort und Jachthafen genutzt.",
+        "Alte Backsteinfundamente der Zuckerfabrik sind im Gelände noch sichtbar.",
+        "Waterland ist ein beliebter Ausgangspunkt für Bootsfahrten in das Binnenland.",
+        "Die Region Para ist bekannt für ihre dunklen, eisenhaltigen 'Cola'-Flüsse.",
+        "Die Transformation zur Freizeitanlage rettete das Areal vor dem Verfall im Dschungel."
+      ]
+    },
+    {
+      "id": "sr-laarwijk-history-v2",
+      "descriptionAdvanced": "Laarwijk ist ein verstecktes Kleinod, das tief mit der landwirtschaftlichen Tradition Surinames verwurzelt ist. Nur über den Wasserweg erreichbar, bewahrt diese Siedlung einen authentischen Charakter, der Besucher weit weg vom städtischen Trubel führt. Die landwirtschaftliche Vergangenheit, die noch heute in der Struktur und den Lebensweisen der Bewohner spürbar ist, macht Laarwijk zu einem Ort der Entschleunigung. Die historischen Schleusen und die traditionelle Bewirtschaftung des Bodens bieten einen faszinierenden Einblick in eine Welt, in der der Rhythmus der Natur noch immer das Leben bestimmt. Es ist eine Oase, die durch ihre Abgeschiedenheit ihren historischen Charme besonders rein bewahrt hat. Földrajz K7 — rurális életmód.",
+      "factsAdvanced": [
+        "Laarwijk ist eine ehemalige Zitrus- und Kaffeeplantage im Commewijne-Distrikt.",
+        "Der Ort ist eine 'Autofreie Zone', da es keine Straßenverbindung zum Festland gibt.",
+        "Die Bewohner leben heute hauptsächlich von Gartenbau und Kleinviezhucht.",
+        "Historische Wasserwege und handbetriebene Schleusen steuern das Poldersystem.",
+        "Laarwijk ist bekannt für seine ruhige, fast zeitlose Atmosphäre.",
+        "Nach der Sklaverei wurde das Land an ehemalige Arbeiter verkauft (Kleinbauernbesitz).",
+        "Kleine Fähren (Korjaals) verbinden Laarwijk mit der Station Domburg.",
+        "Die Plantage ist ein lebendiges Beispiel für die surinamische 'Polder-Architektur'."
+      ]
+    },
+    {
+      "id": "sr-rust-en-werk-history-v2",
+      "descriptionAdvanced": "Rust en Werk ist ein beeindruckendes Beispiel für den Wandel der Plantagenwirtschaft in Surinam. Einst eine der größten Kaffee- und Kakaoplantagen am Commewijne-Fluss, hat sich das Anwesen heute erfolgreich auf die Viehzucht spezialisiert. Die weitläufigen Flächen und die erhaltenen historischen Gebäude zeugen von einer Zeit, in der die Plantagen den wirtschaftlichen Puls des Landes bestimmten. Besucher können heute die friedliche Atmosphäre genießen, die den Wandel von der intensiven Plantagenarbeit zu einer naturnahen Bewirtschaftung widerspiegelt. Die Kombination aus kolonialer Geschichte und moderner landwirtschaftlicher Nutzung macht Rust en Werk zu einem spannenden Ziel für Reisende, die sich für den kulturellen Wandel Surinames interessieren. Földrajz K8 — agrárstruktúra váltás.",
+      "factsAdvanced": [
+        "Die Plantage Rust en Werk wurde 1750 vom Gouverneur Wigbold Crommelin gegründet.",
+        "Sie besteht aus acht zusammengeschlossenen ehemaligen Plantagenarealen.",
+        "Im 18. Jahrhundert war sie eine der produktivsten Kaffeeflächen der Kolonie.",
+        "Heute betreibt die Familie Van Alen dort eine der größten Viehzuchten Surinames.",
+        "Die alten Grachten und Dämme werden weiterhin für das Wassermanagement genutzt.",
+        "Ein kleiner Privatfriedhof beherbergt die Gräber der ehemaligen Besitzerfamilien.",
+        "Rust en Werk ist nur per Boot über den Commewijne-Fluss erreichbar.",
+        "Die Siedlung auf der Plantage beherbergt eine multikulturelle Gemeinschaft von Arbeitern."
+      ]
+    },
+    {
+      "id": "sr-alliance-history-v2",
+      "descriptionAdvanced": "Alliance repräsentiert die glorreiche Ära des Zitrusanbaus in Suriname. Als eines der wichtigsten Zentren für die Produktion von Zitrusfrüchten war die Plantage lange Zeit ein Rückgrat der regionalen Landwirtschaft. Die historischen Infrastrukturen und die weitläufigen Flächen zeugen noch heute von der industriellen Größe, die Alliance einst erreichte. Der Ort ist heute ein wertvoller Zeuge der Agrargeschichte und bietet Einblicke in die komplexen Prozesse, die das Land einst zur Exportmacht für Früchte machten. Besucher, die Alliance besuchen, erleben eine Stätte, die ihre historische Bedeutung mit einer natürlichen Ruhe verbindet und als wichtiger Ort des kollektiven Gedächtnisses Surinames fungiert. Földrajz K8 — állami monokultúrák.",
+      "factsAdvanced": [
+        "Alliance ist heute die einzige staatlich betriebene Plantage in Suriname.",
+        "In den 1970er Jahren wurden von hier aus Millionen Orangen und Grapefruits exportiert.",
+        "Die Siedlung ist bekannt für ihre planmäßige Anlage mit charakteristischen Holzhäusern.",
+        "Alliance liegt am rechten Ufer des Commewijne-Flusses im Osten des Distrikts.",
+        "Der Ort verfügt über eine eigene Grundschule und grundlegende Infrastruktur für Arbeiter.",
+        "Die Plantage war ein wichtiges Experimentierfeld für tropischen Gartenbau.",
+        "Kleine Kanäle (Trenzen) durchziehen das gesamte Areal zur Entwässerung.",
+        "Man erreicht Alliance am besten mit dem Boot von Paramaribo oder Alkmaar aus."
+      ]
+    },
+    {
+      "id": "sr-margaretha-history-v2",
+      "descriptionAdvanced": "Die Plantage Margaretha ist ein bezauberndes Beispiel für die koloniale Lebenswelt entlang des Commewijne-Flusses. Mit ihren traditionellen Holzhäusern und dem historischen Schleusensystem bietet sie einen unverfälschten Blick in das koloniale Leben und Arbeiten. Das Schicksal der Plantage, die im 18. Jahrhundert gegründet wurde, ist eng mit der Migration verbunden; viele Bewohner stammen ursprünglich von indonesischen Kontraktarbeitern ab, was dem Ort eine ganz besondere kulturelle Identität verleiht. Ein Besuch in Margaretha ist eine Reise in eine Zeit, in der die Plantagen eine Brücke zwischen den Kulturen und Kontinenten bildeten und das kulturelle Gefüge Surinames nachhaltig formten. Történelem K8 — kontraktus munkaerő.",
+      "factsAdvanced": [
+        "Margaretha wurde 1745 als Zuckerplantage am rechten Ufer des Commewijne gegründet.",
+        "Nach 1873 siedelten sich hier viele freigelassene Sklaven und später Javaner an.",
+        "Der Ort ist bekannt für seine malerische Lage direkt gegenüber von Fort Nieuw-Amsterdam.",
+        "Die Bewohner leben heute teils vom Fischfang in den umliegenden Kanälen.",
+        "Historische Holzhäuser stehen auf hohen Pfählen zum Schutz vor Hochwasser.",
+        "Margaretha ist ein beliebter Zwischenstopp auf touristischen Bootstouren.",
+        "Die Siedlung hat eine der ältesten noch funktionierenden Dorfschleusen der Region.",
+        "Das kulturelle Leben wird stark durch javanische Traditionen (Gamelan, Tanz) geprägt."
+      ]
+    },
+    {
+      "id": "sr-kroonenburg-history-v2",
+      "descriptionAdvanced": "Die Plantage Kroonenburg am Commewijne-Fluss ist ein Beispiel für den Wandel surinamischer Landnutzung vom kolonialen Großbetrieb hin zur kleinbäuerlichen Bewirtschaftung. Was einst als Zuckerplantage begann, entwickelte sich im Laufe der Zeit durch die Aufteilung der Ländereien zu einer fruchtbaren Zone für diverse kleine Agrarbetriebe. Dies spiegelt die sozioökonomische Transformation des Landes wider, in der die Landbevölkerung zunehmend zur Selbstversorgung und lokalen Produktion beitrug. Besucher können heute noch Spuren dieser historischen Entwicklung sehen, die den Weg für die heutige, lebendige Agrarstruktur des Commewijne-Distrikts geebnet hat. Földrajz K8 — kistermelői gazdálkodás.",
+      "factsAdvanced": [
+        "Kroonenburg war im 18. Jahrhundert eine bedeutende Zuckerrohrplantage.",
+        "Sie liegt strategisch günstig zwischen den Mündungen von Suriname- und Commewijne-Fluss.",
+        "Die Plantage wurde nach 1900 in Parzellen an javanische Einwanderer aufgeteilt.",
+        "Heute ist Kroonenburg bekannt für den Anbau von Gemüse und Wurzelfrüchten (Cassave).",
+        "Die ländliche Idylle zieht viele Wochenendbesucher aus Paramaribo an.",
+        "Noch immer existieren Überreste der alten Gräben, die einst die Zuckermühle antrieben.",
+        "Der Ort ist ein Symbol für den Erfolg der javanischen Landreformen in Suriname.",
+        "Kroonenburg wird oft im Rahmen von historischen Radtouren besucht."
+      ]
+    },
+    {
+      "id": "sr-ma-retraite-history-v2",
+      "descriptionAdvanced": "Ma Retraite ist ein faszinierendes Beispiel dafür, wie aus ehemaligen Plantagen moderne Stadtteile entstehen konnten. Was einst eine blühende Kaffee- und Kakaoplantage war, ist heute ein dicht besiedelter, urbaner Raum im Norden von Paramaribo. Dennoch trägt der Stadtteil seinen Namen als ein Stück lebendiger Geschichte, das an die koloniale Vergangenheit erinnert. Während von der einstigen Plantagenstruktur kaum noch Spuren geblieben sind, bilden alte Straßennamen und die Erinnerung der Bewohner eine Brücke zwischen dem agrargeschichtlichen Erbe und der modernen Urbanität. Ma Retraite zeigt somit den dynamischen Wandel von einer agrarischen Landschaft hin zu einem städtischen Lebensraum. Történelem K8 — a gyarmati térhasználat átalakulása.",
+      "factsAdvanced": [
+        "Ma Retraite war im 18. Jahrhundert Eigentum der einflussreichen Familie de la Taille.",
+        "Die Plantage spezialisierte sich früh auf hochwertigen Export-Kaffee.",
+        "Ab den 1960er Jahren wurde das Areal systematisch für den Wohnungsbau parzelliert.",
+        "Heute unterteilt sich der Stadtteil in Ma Retraite I, II, III und IV.",
+        "Es gilt als eines der gehobenen Wohnviertel im Norden der Hauptstadt.",
+        "Die Hauptstraßen folgen teilweise den alten Entwässerungskanälen der Plantage.",
+        "Der Name 'Ma Retraite' ist Französisch und bedeutet 'Mein Rückzugsort'.",
+        "Das Viertel beherbergt heute moderne Einkaufszentren und Schulen."
+      ]
+    },
+    {
+      "id": "sr-tourtonne-history-v2",
+      "descriptionAdvanced": "Tourtonne ist ein weiteres eindrucksvolles Beispiel für die Integration ehemaliger Agrarflächen in die städtische Entwicklung Paramaribos. Benannt nach seinem ursprünglichen französischen Besitzer, hat sich dieses Gebiet von einer produktiven Kaffeeplantage zu einem der begehrten Wohnviertel der Stadt entwickelt. Die Geschichte der Plantage spiegelt die Kolonialzeit wider und erinnert an die europäische Präsenz in Suriname. Heute erleben Bewohner und Besucher in Tourtonne eine lebendige Nachbarschaft, die ihre Wurzeln in der Plantagenwirtschaft zwar hinter sich gelassen hat, deren Name und Lage jedoch als wichtiges kulturelle Erbe für die Stadt fungieren. Történelem K8 — etnikai és szociális rétegződés a városban.",
+      "factsAdvanced": [
+        "Die Plantage wurde nach dem Hugenotten Tourtonne benannt, der aus Frankreich floh.",
+        "Im 18. Jahrhundert war Tourtonne eine der ersten Plantagen nördlich der Stadtgrenze.",
+        "Die Urbanisierung des Gebiets begann massiv nach dem Zweiten Weltkrieg.",
+        "Tourtonne ist heute bekannt für seine gut erhaltenen Holz- und Steinhäuser der Mittelschicht.",
+        "Die 'Tourtonnelaan' ist eine der wichtigsten Verkehrsachsen im Norden Paramaribos.",
+        "Früher trennte ein Graben die Plantage vom Stadtgebiet (heute überbaut).",
+        "Der Boden in Tourtonne ist aufgrund der alten Polderstruktur sehr fruchtbar (Gärten).",
+        "Das Viertel repräsentiert die Ausdehnung der Hauptstadt in die ehemaligen Agrarzonen."
+      ]
+    },
+    {
+      "id": "sr-zorg-en-hoop-history-v2",
+      "descriptionAdvanced": "Zorg en Hoop ist ein Viertel in Paramaribo, das die faszinierende Verbindung von historischem Erbe und moderner Mobilität verkörpert. Der Name des Stadtteils, der eine alte Plantage bezeichnet, zeugt von der landwirtschaftlichen Vergangenheit. Doch das Viertel ist auch als Standort des Zorg en Hoop Airport bekannt, der eine zentrale Rolle für die Verbindung Surinames mit seinem Hinterland spielt. Die Mischung aus traditionellen Kolonialhäusern und der modernen Luftfahrtgeschichte macht diesen Stadtteil zu einem einzigartigen Ort, an dem man die historische Entwicklung und den Aufbruch in die Moderne auf engem Raum erleben kann. Földrajz K8 — közlekedés és városi funkciók.",
+      "factsAdvanced": [
+        "Zorg en Hoop war ursprünglich eine kleine Zucker- und Kaffeeplantage.",
+        "Der Name bedeutet übersetzt 'Sorge und Hoffnung'.",
+        "Der Stadtflugplatz (Zorg en Hoop Airport) wurde 1953 offiziell eröffnet.",
+        "Von hier aus starten fast alle Kleinflugzeuge in die Gold- und Bauxitgebiete.",
+        "Das Viertel beherbergt die Anton de Kom Universität von Suriname.",
+        "Viele historische Villen im Viertel dienen heute als Botschaften oder Büros.",
+        "Es gilt als eines der akademischen und administrativen Zentren der Stadt.",
+        "Die Landebahn des Flughafens grenzt direkt an Wohngebiete an."
+      ]
+    },
+    {
+      "id": "sr-paranam-history-v2",
+      "descriptionAdvanced": "Paranam steht wie kaum ein anderer Ort für den Aufstieg und Fall der Aluminiumindustrie in Surinam. Im 20. Jahrhundert als Zentrum des Bauxitabbaus gegründet, wurde der Ort zu einem Schlüsselfaktor für die Industrialisierung des Landes. Die Errichtung eines Tiefwasserhafens ermöglichte den effizienten Export des Erzes in die ganze Welt. Heute ist Paranam ein Ort, an dem man die industrielle Transformation des Landes nachvollziehen kann. Die einst florierende Siedlung zeugt von der enormen Kraft, die die Rohstoffgewinnung auf die Entwicklung des Landes ausübte, und bleibt ein wichtiger Teil des industriellen Erbes von Suriname. Földrajz K8 — nehézipari központok.",
+      "factsAdvanced": [
+        "Paranam wurde 1941 von der Suriname Aluminum Company (Suralco) erbaut.",
+        "Die Stadt war eine 'Company Town', vollständig von Alcoa verwaltet.",
+        "In den 1960er Jahren entstand hier eine moderne Aluminiumhütte und Raffinerie.",
+        "Strom für die Industrie kam über eine 75 km lange Leitung vom Afobaka-Staudamm.",
+        "Der Name ist ein Kofferwort aus den Distrikten Para und Suriname.",
+        "Nach 2015 wurden die Anlagen stillgelegt, was die Region ökonomisch hart traf.",
+        "Paranam war über Jahrzehnte der modernste Industriestandort in Nord-Südamerika.",
+        "Die verlassenen Fabrikhallen sind heute Monumente der globalen Industriegeschichte."
+      ]
+    },
+    {
+      "id": "sr-kamp-52-history-v2",
+      "descriptionAdvanced": "Kamp 52 ist ein faszinierendes Relikt der Lawaspurbahn, einer monumentalen Infrastrukturleistung während des surinamischen Goldrausches zu Beginn des 20. Jahrhunderts. Als einer der Haltepunkte auf der Reise tief in den Dschungel bot das Lager den Arbeitern und Abenteurern eine notwendige Versorgungsstation. Heute sind von dem einstigen Betrieb kaum mehr als Erinnerungen und erste Ansätze von Ruinen übrig, die jedoch eine lebendige Vorstellung von der mühsamen Erschließung des Hinterlandes vermitteln. Kamp 52 steht für den Pioniergeist vergangener Zeiten und die tiefgreifenden Auswirkungen, die das Streben nach Gold auf die geografische Erschließung Surinames hatte. Történelem K8 — infrastruktúra és aranyláz.",
+      "factsAdvanced": [
+        "Kamp 52 liegt exakt am Kilometer 52 der ehemaligen Lawaspurbahn.",
+        "Die Eisenbahnlinie wurde zwischen 1903 und 1912 unter Gouverneur Lely gebaut.",
+        "Das Lager diente als technische Basis für die Wartung der Dampflokomotiven.",
+        "Hier kreuzte die Bahnlinie wichtige Pfade der indigenen Bevölkerung.",
+        "Abenteurer aus aller Welt stiegen hier um, um in die Goldfelder von Sarakreek zu gelangen.",
+        "Die Schienen wurden in den 1980er Jahren teilweise demontiert oder sind überwachsen.",
+        "In der Nähe befinden sich heute kleine Siedlungen von Goldsuchern (Porknokkers).",
+        "Kamp 52 ist ein Symbol für das Scheitern großer kolonialer Infrastrukturträume."
+      ]
+    },
+    {
+      "id": "sr-hazard-history-v2",
+      "descriptionAdvanced": "Die Plantage Hazard im Distrikt Nickerie ist ein Zeugnis der intensiv genutzten landwirtschaftlichen Flächen, die die koloniale Ära prägten. Einst für den Anbau von Zuckerrohr bekannt, trägt der Ort heute noch die Spuren einer Zeit, in der Nickerie zu einem Zentrum der surinamischen Agrarproduktion wurde. Die historische Bedeutung liegt vor allem in der Dokumentation der koloniale Produktionsmethoden und der Lebensumstände jener Epoche. Trotz der verbliebenen Maschinenreste und der Veränderungen über die Zeit hinweg, bietet Hazard einen faszinierenden Einblick in die koloniale Vergangenheit und zeigt, wie tief der Anbau von Rohstoffen die geografische und soziale Struktur von Nickerie formte. Földrajz K7 — mezőgazdasági tájtörténet.",
+      "factsAdvanced": [
+        "Hazard war eine der westlichsten Zuckerplantagen Surinames, nahe Guyana.",
+        "Sie wurde im 19. Jahrhundert gegründet, als Nickerie für den Zuckeranbau erschlossen wurde.",
+        "Nach dem Niedergang der Zuckerindustrie wurde die Plantage für den Reisanbau genutzt.",
+        "Alte Dampfmaschinen und Kessel der Zuckermühle sind als Industrieruinen erhalten.",
+        "Der Name 'Hazard' (Risiko) deutet auf die schwierige Erschließung des Sumpflandes hin.",
+        "Die Plantage war ein Pionier bei der Einführung mechanisierter Bodenbearbeitung.",
+        "Sie liegt heute im Schatten der modernen Reisstadt Nieuw Nickerie.",
+        "Historische Dokumente belegen den Einsatz von Kontraktarbeitern aus Indien."
+      ]
+    },
+    {
+      "id": "sr-arya-dewaker-history-v2",
+      "descriptionAdvanced": "Der Arya Dewaker Tempel in Paramaribo ist ein beeindruckendes Beispiel für die religiöse und kulturelle Vielfalt Surinames. Die einzigartige oktogonale Architektur symbolisiert die Harmonie der verschiedenen Strömungen innerhalb des Hinduismus und bietet ein spirituelles Zentrum für die Arya Samaj-Bewegung im Land. Seit seiner Eröffnung im Kahr 2001 hat sich der Tempel als ein Ort etabliert, der nicht nur Gläubige anzieht, sondern auch ein architektonisches Highlight darstellt. Die Verbindung von indischen und surinamischen Stilelementen unterstreicht die tiefe Verwurzelung der indischstämmigen Bevölkerung in der surinamischen Gesellschaft. Der Tempel ist somit weit mehr als nur ein Gebäude; er ist ein lebendiges Symbol für die kulturelle Integration und die spirituelle Identität in einem multikulturellen Umfeld. Földrajz K8 — vallási és kulturális diverzitás.",
+      "factsAdvanced": [
+        "Arya Dewaker bedeutet 'Die edle Sonne' auf Sanskrit.",
+        "Der Tempel wurde am 11. Februar 2001 offiziell eingeweiht.",
+        "Mit seiner Kapazität von 2.500 Personen ist er der größte Hindu-Tempel Surinames.",
+        "Die Architektur verzichtet bewusst auf Götterbilder, getreu der Arya-Samaj-Lehre.",
+        "Stattdessen schmücken Sanskrit-Verse und geometrische Muster die Wände.",
+        "Die acht Ecken des Gebäudes symbolisieren die acht Himmelsrichtungen.",
+        "Der Bau wurde fast vollständig durch Spenden der lokalen Gemeinde finanziert.",
+        "Er gilt als eine der meistfotografierten Sehenswürdigkeiten in Paramaribo."
+      ]
+    },
+    {
+      "id": "sr-neveh-shalom-history-v2",
+      "descriptionAdvanced": "Die Neveh Shalom Synagoge ist ein faszinierendes architektonisches Erbe, das die reiche jüdische Geschichte Paramaribos widerspiegelt. Erbaut im frühen 18. Jahrhundert, beeindruckt sie nicht nur durch ihre schlichte, aber würdevolle Architektur, sondern vor allem durch ihren einzigartigen sandbedeckten Boden. Dieser Boden erinnert symbolisch an den Exodus und die Wüstenwanderung des jüdischen Volkes. Als direkte Nachbarin einer Moschee verkörpert sie zudem den religiösen Frieden und das friedliche Zusammenleben, das für die surinamische Gesellschaft so bezeichnend ist. Ein Besuch der Neveh Shalom Synagoge ist eine tiefgehende Erfahrung, die Geschichte, Spiritualität und interkulturelle Harmonie auf beeindruckende Weise verbindet. Történelem K8 — vallási tolerancia.",
+      "factsAdvanced": [
+        "Die erste Synagoge an diesem Standort wurde bereits 1719 errichtet.",
+        "Das heutige klassizistische Holzgebäude stammt aus dem Jahr 1835.",
+        "Der Sandboden soll auch an die Marranen erinnern, die ihre Schritte dämpfen mussten.",
+        "In der Synagoge befinden sich prachtvolle Messingleuchter aus dem 18. Jahrhundert.",
+        "Sie ist das Zentrum der israelitischen Gemeinde in Paramaribo.",
+        "Direkt daneben steht die Keizerstraat-Moschee (Ahmadiyya).",
+        "Die Architektur verbindet niederländische Kolonialelemente mit jüdischer Tradition.",
+        "Die Synagoge beherbergt ein kleines Museum zur Geschichte der Juden in Suriname."
+      ]
+    },
+    {
+      "id": "sr-petrus-paulus-history-v2",
+      "descriptionAdvanced": "Die Sint-Petrus-en-Pauluskathedrale in Paramaribo ist ein architektonisches Wunderwerk und das größte hölzerne Bauwerk der westlichen Hemisphäre. Nach ihrer Fertigstellung im Jahr 1885 wurde sie zu einem Wahrzeichen, das den Stolz der surinamischen Handwerkskunst und den Glauben der katholischen Gemeinde widerspiegelt. Die detailreiche Holzbauweise im Inneren und Äußeren ist ein wahrer Anblick, der die handwerkliche Perfektion vergangener Zeiten zeigt. Als Papst Franziskus sie 2014 zur Basilika erhob, wurde ihre Bedeutung als spiritueller Ort offiziell anerkannt. Die Kathedrale ist heute weit mehr als ein Gotteshaus; sie ist ein nationales Monument, das die kulturelle Identität Surinames als eine vielfältige Nation feiert. Történelem K7 — vallási építészet.",
+      "factsAdvanced": [
+        "Die Kathedrale wurde fast vollständig aus surinamischem Zedernholz erbaut.",
+        "Der Entwurf stammt von dem Redemptoristen-Bruder Frans Harmes.",
+        "Zwei massive Türme dominieren mit einer Höhe von 44 Metern das Stadtbild.",
+        "Im Inneren ist das Holz naturbelassen und nicht überstrichen.",
+        "Die Orgel wurde 1890 in Deutschland (Maarschalkerweerd) gebaut.",
+        "Aufgrund von Termitenfraß musste das Gebäude jahrelang aufwendig saniert werden.",
+        "Die Kathedrale bietet Platz für über 1.000 Gläubige.",
+        "Sie wurde 2014 von Papst Franziskus zur Basilica Minor erhoben."
+      ]
+    },
+    {
+      "id": "sr-centrale-markt-history-v2",
+      "descriptionAdvanced": "Der Centrale Markt in Paramaribo ist das pulsierende Herz der Stadt und ein faszinierendes Ort, an dem sich die kulturelle Vielfalt Surinames in all ihren Facetten zeigt. Der Marktkomplex am Wasser ist seit Generationen ein Ort des Handels und der Begegnung, an dem frische lokale Produkte, exotische Früchte und traditionelles Kunsthandwerk angeboten werden. Die lebendige Atmosphäre und die farbenfrohen Stände ziehen Besucher aus aller Welt an. Ein besonderes Highlight ist die spezialisierte Sektion für Kräuter und traditionelle Medizin, der sogenannte Hexenmarkt. Hier bekommt man einen tiefen Einblick in den Glauben und die Bräuche der verschiedenen Ethnien, die den Markt zu einem kulturellen Schmelztiegel machen. Földrajz K7 — kereskedelem és társadalom.",
+      "factsAdvanced": [
+        "Der Markt liegt direkt am Ufer des Suriname-Flusses (Waterkant).",
+        "Es ist der größte überdachte Markt in der Karibik und im Norden Südamerikas.",
+        "In der unteren Etage werden hauptsächlich Fisch, Fleisch und Gemüse verkauft.",
+        "Der 'Maroon-Markt' (Hexenmarkt) ist berühmt für traditionelle Heilmittel und Kräuter.",
+        "Händler fast aller Ethnien des Landes (Javaner, Chinesen, Kreolen) sind vertreten.",
+        "Der Markt ist bekannt für die 'Warungs', kleine Garküchen mit javanischem Essen.",
+        "Früher wurden die Waren direkt mit Booten am Marktkai angelandet.",
+        "Der Markt ist der beste Ort, um die Vielfalt surinamischer Früchte (Pommerak, Awara) zu sehen."
+      ]
+    },
+    {
+      "id": "sr-lawa-railway-history-v2",
+      "descriptionAdvanced": "Die Reste der Lawaspurbahn sind ein Zeugnis für ein ehrgeiziges, aber letztlich unvollendetes Projekt zur Erschließung der Goldfelder Surinames. Zu Beginn des 20. Jahrhunderts als Transportweg durch den dichten Dschungel geplant, erinnert diese Eisenbahnlinie an die goldene Zeit des Goldrausches, als die Hoffnung auf Reichtum viele Menschen in die Wildnis trieb. Heute ist die Trasse größtenteils vom Wald zurückerobert, doch die Ruinen und Spuren bieten eine faszinierende Reise in die Vergangenheit. Sie symbolisieren die menschliche Anstrengung, die Natur zu beherrschen, und erzählen die Geschichte eines Landes, dessen Entwicklung maßgeblich durch den Hunger nach Edelmetallen vorangetrieben wurde. Történelem K8 — vasútépítés és aranybányászat.",
+      "factsAdvanced": [
+        "Die Lawabahn war die einzige nennenswerte Eisenbahnlinie in der Geschichte Surinames.",
+        "Die Spurweite betrug 1000 mm (Meterspur).",
+        "Ursprünglich sollte die Bahn bis zu den Goldfeldern am Lawa-Fluss führen (nie erreicht).",
+        "Der Bau kostete den niederländischen Staat enorme Summen und viele Menschenleben.",
+        "Die Strecke verlief von Paramaribo bis nach Dam am Sara-Fluss.",
+        "Im Jahr 1987 wurde der Betrieb während des Bürgerkriegs endgültig eingestellt.",
+        "Alte Waggons und Lokomotivteile rosten heute im Depot von Onverwacht vor sich hin.",
+        "Ein kleiner Teil der Strecke wird heute von Eisenbahn-Enthusiasten als Denkmal gepflegt."
+      ]
+    },
+    {
+      "id": "sr-fort-sommelsdijk-history-v2",
+      "descriptionAdvanced": "Fort Sommelsdijk diente im 17. Jahrhundert als wichtiger strategischer Punkt am Zusammenfluss des Commewijne- und Cottica-Flusses. Mit seiner Aufgabe, die fruchtbaren Plantagengebiete gegen Angriffe zu verteidigen, war es ein zentraler Bestandteil der Kolonialverteidigung. Obwohl die Anlage heute weitgehend dem Verfall preisgegeben ist, bieten die verbliebenen Mauerreste eine stille Erinnerung an die militärische Bedeutung, die diese Region einst hatte. Das Fort erzählt von einer Zeit, in der die Kontrolle der Flüsse über den Erfolg der kolonialen Ausdehnung entschied. Besucher, die die Gegend erkunden, werden von der historischen Bedeutung dieses Ortes berührt, der einst an der Front des Überlebens der Kolonie stand. Történelem K7 — katonai védelem és folyami kontroll.",
+      "factsAdvanced": [
+        "Das Fort wurde 1686 vom Gouverneur Cornelis van Aerssen van Sommelsdijck gegründet.",
+        "Es liegt am Zusammenfluss (Sammelbecken) von Commewijne und Cottica.",
+        "Die Festung sollte die Plantagen vor Überfällen vom Meer und aus dem Hinterland schützen.",
+        "Fort Sommelsdijk war eine der wenigen Befestigungen tief im Landesinneren.",
+        "Nach 1715 verlor es an Bedeutung, da Fort Nieuw-Amsterdam gebaut wurde.",
+        "In der Nähe befand sich ein Militärposten zur Kontrolle des Sklavenhandels.",
+        "Heute sind nur noch überwucherte Erdwälle und Backsteinruinen zu finden.",
+        "Der Ort ist nur mit Erlaubnis und per Boot durch dichten Uferbewuchs erreichbar."
+      ]
+    },
+    {
+      "id": "sr-geyersvlijt-history-v2",
+      "descriptionAdvanced": "Geyersvlijt, einst eine produktive Kaffeeplantage im 18. Jahrhundert, ist heute ein lebendiger, dicht besiedelter Stadtteil von Paramaribo. Die Entwicklung dieses Gebiets zeigt beispielhaft den Wandel vom großflächigen landwirtschaftlichen Anbau hin zu modernem urbanem Lebensraum. Trotz der starken Urbanisierung bleibt der Name ein Ankerpunkt, der an den Ursprung dieses Areals erinnert. Bewohner genießen heute ein lebhaftes Viertel, das sich durch seine kulturelle Vielfalt auszeichnet. Es ist ein Ort, an dem die surinamische Geschichte auf moderne Entwicklung trifft und ein einladendes Wohnumfeld für eine diverse Bevölkerung schafft. Történelem K8 — plantázsból lakóövezet.",
+      "factsAdvanced": [
+        "Geyersvlijt wurde um 1740 als Kaffeplantage gegründet.",
+        "Die Plantage gehörte zeitweise der niederländischen Herrnhuter Brüdergemeine.",
+        "Nach dem Zweiten Weltkrieg wurde das Land massiv für den sozialen Wohnungsbau genutzt.",
+        "Geyersvlijt ist heute der bevölkerungsreichste Stadtteil im Nordosten Paramaribos.",
+        "Der 'Geyersvlijt Markt' ist ein wichtiges lokales Handelszentrum.",
+        "Die Anordnung der Straßen folgt noch immer den alten Entwässerungsgräben.",
+        "Das Viertel beherbergt viele Sportvereine und kulturelle Organisationen.",
+        "Geyersvlijt gilt als Schmelztiegel der verschiedenen ethnischen Gruppen der Hauptstadt."
+      ]
+    },
+    {
+      "id": "sr-kofidjompo-monument-history-v2",
+      "descriptionAdvanced": "Das Kofidjompo Monument ist ein wichtiger Erinnerungsort, der an den Widerstand der Maroons gegen die koloniale Unterdrückung erinnert. Der Name des Ortes Lelydorp, der ursprünglich Kofidjompo hieß, leitet sich von dem legendären Freiheitskämpfer Kofi ab, der an dieser Stelle in die Freiheit sprang. Dieses Denkmal ist weit mehr als eine Geste der Erinnerung; es ist ein kraftvolles Symbol für Freiheit, Würde und den unermüdlichen Kampf der Maroons gegen Sklaverei. Besucher werden hier an eine zentrale Figur der surinamischen Geschichte erinnert, deren Mut und Entschlossenheit bis heute die Identität und das Freiheitsverständnis des Landes prägen. Történelem K8 — marun ellenállás és szabadságharc.",
+      "factsAdvanced": [
+        "Kofi war ein geflüchteter Sklave (Maroon), der im 18. Jahrhundert Widerstand leistete.",
+        "Der Name 'Kofi-Djompo' bedeutet wörtlich 'Kofi sprang'.",
+        "Die Legende besagt, dass er über einen breiten Graben sprang, um seinen Verfolgern zu entkommen.",
+        "Lelydorp trug diesen Namen bis 1905 offiziell.",
+        "Das Denkmal befindet sich im Zentrum von Lelydorp (Distrikt Wanica).",
+        "Es ist ein nationaler Gedenkort für den Widerstand gegen die Sklaverei.",
+        "Die Maroons (Buschinengues) betrachten den Ort als heiliges Symbol ihrer Geschichte.",
+        "Das Monument wurde zur Förderung des nationalen Bewusstseins errichtet."
+      ]
+    },
+    {
+      "id": "sr-gouvernementsgebouw-history-v2",
+      "descriptionAdvanced": "Das Präsidentenpalast in Paramaribo ist eines der bedeutendsten Beispiele für koloniale Architektur in Surinam. Erbaut im frühen 18. Jahrhundert, diente es ursprünglich als Wohnsitz für den Gouverneur. Die prächtige Fassade und die elegante Inneneinrichtung zeugen von einer Ära des Reichtums und der politischen Macht. Heute ist das Gebäude nicht nur der Amtssitz des Präsidenten, sondern auch ein Symbol für die nationale Unabhängigkeit und die Geschichte des Landes. Die Lage am Unabhängigkeitsplatz, umgeben von gepflegten Gärten, macht den Palast zu einem der wichtigsten kulturellen Orte Surinames, der die koloniale Vergangenheit mit der staatlichen Souveränität auf eindrucksvolle Weise vereint. Történelem K7 — gyarmati kormányzás és állami jelképek.",
+      "factsAdvanced": [
+        "Der Palast ist das weiße Prachtgebäude am Onafhankelijkheidsplein.",
+        "Der Bau wurde 1730 begonnen und im Laufe der Jahrhunderte mehrfach erweitert.",
+        "Er gilt als eines der besterhaltenen Beispiele für niederländischen Palladianismus in den Tropen.",
+        "Hinter dem Palast liegt der berühmte Palmentuin (Palmengarten).",
+        "Hier wurde am 25. November 1975 die Flagge des unabhängigen Suriname erstmals gehisst.",
+        "Das Gebäude beherbergt prächtige Säle für offizielle Staatsbesuche.",
+        "Die Fassade besteht aus einer Kombination von Backstein und kunstvollem Holzwerk.",
+        "Der Palast ist Teil des UNESCO-Weltkulturerbes der Innenstadt von Paramaribo."
+      ]
+    }
+  ]
+}

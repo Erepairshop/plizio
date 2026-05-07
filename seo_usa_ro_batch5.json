@@ -1,0 +1,255 @@
+{
+  "lang": "ro",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dover-cities-v2",
+      "descriptionAdvanced": "Dover funcționează de peste trei secole ca nucleu politic central, fiind stabilită drept capitală onorabilă a statului estic Delaware încă de la anul 1777, părăsind formal locația mai expusă New Castle în timpul războiului. A fost numit masiv după o localitate omonimă engleză chiar de fondatorul suprem colonial englez William Penn tocmai spre sfârșitul de toamnă 1683. Orașul are la dispoziție o perioadă clară din timpul de formare unde a fost martor al faimoaselor prime acorduri, statul Delaware devenind oficial faimos tocmai de pe acest loc ca primul stat național („The First State”) care a ratificat Constituția Federală pur unificată (la 7 decembrie din 1787 fixată exact la fosta clădire Golden Fleece Tavern a orașului). Economia masivă a zonei este sprijinită uriaș pe administrația publică de top guvernamentală, industria robustă de apărare prin formidabila mare bază a forțelor militare aeriane Dover Air Force Base (stabilită în 1941) și evident polul financiar masiv de corporații uriaș atrase pe întreg statul. Geografie K8 — formarea istorică a capitalelor coloniale.",
+      "factsAdvanced": [
+        "Localitatea a fost botezată Dover direct de colonistul fondator William Penn în anul 1683.",
+        "A devenit oficial centrul de capitală stabilă a noului stat federal Delaware în 1777.",
+        "Aici a avut loc exact semnarea primei ratificări ale marii Constituții Americane (7 decembrie 1787).",
+        "Baza aeriană Dover deține cel mai mare terminal militar mortuar și logistic militar (fondat 1941).",
+        "Clădirea veche a casei legislative de stat The Old State House datează perfect funcțională din anul 1791.",
+        "Regiunea este adeseori menționată pentru circuitul extins NASCAR The Monster Mile inaugurat în anul 1969."
+      ]
+    },
+    {
+      "id": "augusta-me-cities-v2",
+      "descriptionAdvanced": "Augusta ocupă un loc de top pe harta extremă est-nordică, adăpostind ferm inima administrativ guvernamentală ca stat capitală pe vastul stat masiv forestier numit Maine. Localitatea s-a așezat prima dată tocmai sus în susul navigației limită pe faimosul râu cu apă adâncă Kennebec de un fost post de piață cu englezi veniți din Plymouth fix pur în anul vechi din 1628. La bază așezarea se numea ferm Cushnoc, trecând în anii târzii din 1797 spre oficializare sub denumirea modernă. Poziționarea pe râul cu mari debite forestiere masive a oferit un motor unic la debut industrial, fiind puternic dominant faimoasă din 1837 sub forma locului principal pentru mare baraj cu hidro central și tăiat bușteni pe apă. Este clar considerată ca fiind național a treia cea mai puțin numeroasă pur și simplu localitate de stat capitală a Americii, fapt ce adaugă farmec rustic din peisajul cu multe clădiri conservate vechi din vremea cu bușteni de la vechea explozie. Geografie K7 — așezări la limita râurilor navigabile.",
+      "factsAdvanced": [
+        "A început din prima origine sub formă post de negociere colonial englez în anul târziu 1628.",
+        "S-a decis mutarea supremă a scaunului oficial guvernamental drept capitală de stat pe anul 1827.",
+        "O primă clădire cu piatră dom a fost concepută de cunoscut arhitect C. Bulfinch deschizând la 1832.",
+        "Trece ca ocupantă de locul absolut de bronz (loc 3) la cel mai scăzut nivel populațional tip capitală de stat din Statele Unite.",
+        "Lemnele și tăiatul forestier greu a oferit principalul fond motor industrial pentru barajul imens de la final 1837.",
+        "Are privilegiul de a deține complet fortul originar pur englez antic cel mai vechi intact complet conservat pe tot nord continent."
+      ]
+    },
+    {
+      "id": "concord-nh-cities-v2",
+      "descriptionAdvanced": "Concord veghează calm pur masiv ca structură pur guvernamentală la margine din fluviul Merrimack și e stabilit administrativ scaun de stat capitală din uriaș muntos și natural stat New Hampshire. Fondată sub masiv conflict disputat la un vechi an clar fix pe marginea unei faimoase dispute pur teritoriale pe linia coloniei (1725, cunoscut la acea oră cu apelativ Penacook), a fost denumită oficial și final în așezământ sub faimosul și simbolic nume „Concord” abia târziu chiar ca semn de final de dispute și armonie finalizată curat pe 1765. Se afirmă că industria de greu calibru de mare tradiție pe domeniu absolut al granitelor dure s-a ridicat complet de aici pe întreg teritoriu național, acest pur piatră așezată fiind ridicat formal fix la enormul faimos colosal edificiu pe național clădirea enormă la pur de bibliotecă mare publică național americană în capitala pur mamă Washington DC. Guvernul și sediul din inima orașului adăpostește complet cea de a pur cea mai bătrână pur structură de sală de camere legislative păstrată oficial în continuu pe spațiul cu uz chiar de stat de State Unite formidabil neîntrerupt completat chiar pe anul curat 1819. Istorie K8 — rolul pietrei (granit) în urbanizarea americană.",
+      "factsAdvanced": [
+        "Botezată final Concord în urma unei aplanări masiv oficiale de dispută pe linii de demarcație colonială apărută pe an 1765.",
+        "S-a impus categoric cu statut oficial central de capitală la stat de abia complet pe an curat deschis pe 1808.",
+        "Statul a investit în cea mai masivă arhitectură clădire stat din 1819 cu sală veche originară absolut conservată originală neatinsă din SUA.",
+        "Zona este renumită mondial clar din masiva industrie la prelucrare vagoane cu tras faimoasă curat Concord Coaches din timp secol vechi 19.",
+        "A furnizat cariere masive cu granit tăiat oficial greu pentru faimoasă formidabil masiv mare Bibliotecă Național a Congresului din capitala de țară Washington DC.",
+        "Primul astronaut faimos originar clar femeie învățătoare C. McAuliffe provenea ferm de origine activă direct cu bază educațională chiar de aici școală liceu (1986)."
+      ]
+    },
+    {
+      "id": "montpelier-cities-v2",
+      "descriptionAdvanced": "Montpelier este inima verde ascunsă perfect pe văile de trecere muntoase strâmte ale Râului Winooski, un loc care domnește ferm guvernamental pe forma de miniatural centru pe micul dar formidabilul Vermont ca pur capitală generală. S-a înființat pe un loc plin originar sălbatic direct stabil ferm târziu spre decenii formate la prime fondări pe teritoriul masiv american prin prezența tăietori masivi formați abia prin 1787 la prim punct fortificat ferm, fiind declarat centrul capital prin hotărâre luată ferm pur apărută pe decizie legislativă cu vot la 1805. Măsura masiv recunoscută a statutului general o aduce ca un fapt cert global așezat pur onorabil ca formând direct singura fix faimoasă poziție pe clar locul unu cea mai mică populație pe întreg loc oficial de tip de stat capitală din tot colos teritorial pur Statele Unite (sub masiv de fix opt mii de locuitori general oficial stabiliți). Capitolul faimos este recunoscut la dom printr-un enorm turn uimitor complet așezat fix cu plin înveliș acoperit greu din fin metal aur la formă clar mare pe frunze aur de bază 23 de carate. Geografie K7 — guvernanța locală în localități rurale/mic-urbane.",
+      "factsAdvanced": [
+        "S-a creat pe masivă bază oficial prima așezare pe fond 1787 fiind adus la apelativ francez pur omagiu clar Franței cu mari lupte de sprijin din Revoluție.",
+        "Găzduiește cel mai mic număr format pe total cetățeni din tot areal din un punct absolut masiv pur oficial de bază cu statut clar stat capitală din SUA.",
+        "Sediul oficial capitoliu a primit strat vizual pe anul 1859 și are masiv enorm finisat dom curat din plin de material aur subțire mare pus clar de pe carate mare (23 carate).",
+        "Formează fix unical caz unde în întreg de centru masiv general statal ca scaun absolut clar formal refuză o existență așezată curat restaurant oficial pur tip franciză din seria pur gigant McDonald's.",
+        "Baza mare și singura forță dominatoare cert de angajări o dă masiv forma formal public clar de administrație oficial pe angajat sistem stat general pur public.",
+        "Se găsește clar absolut în plin format areal de centru muntos pe valea general muntoasă Winooski greu formidabil vizual pur cu ierni severe muntoase nordice."
+      ]
+    },
+    {
+      "id": "helena-cities-v2",
+      "descriptionAdvanced": "Helena domină solemn de o formă istorică așezată la poalele colosilor falnici ai Munților Stâncoși fiind sediul mare capitală pură din vastul și formidabil stat minier numit de toți Montana. Orașul a pornit exclusiv fulminant pur fix dintr-un imens mare cap de mare foc din aur curat pe loc găsit de pe râu (loc masiv numit așezat clar „Ultima Șansă pe Groapă” sau Last Chance Gulch pe limba vânător) la vara caldă luată la un an pur aur 1864 fix pe munca unui un echipaj masiv pur adus din zonă curat vânător mare minier numiți Four Georgians. Explozia minelor mari colos a creat pur fenomen uluitor clar așezat economic pentru zona formată fix la nivel secol din 19 unde a fost clasat uriaș ca posedând mai mulți locuitori multimilionari pur raport la fix fiecare mic locuitor de oriunde fix pur mare alt colț din faimoasa masivă pur curat Statele Unite. Domul colosal guvernamental a preluat pur inspirație mare apărută fix preluat așezat formidabil așezat exact după capitoliul mare federal cu statuie fix mare la Washington fiind deschis în masiv festivism clar oficial de anul masiv cu pur istoric de nou an oficial 1902. Istorie K8 — efectele financiare ale Goanei după Aur.",
+      "factsAdvanced": [
+        "Micul formidabil colț la început a pornit cu prima bază descoperire aur masivă anul preluat curat istoric cu masiv 1864 numită mare simplu „Last Chance Gulch”.",
+        "Este o singură capitală absolut de mare munte pur declarată pe decizie masivă vot după un cert scrutin electoral luat formal oficial din anul greu istoric așezat 1875.",
+        "Deținea formidabil absolut pe an sfârșit deceniu curat un record cu masiv mai mulți masivi curat pur extrem bogat multimilionari pe loc în cap raport stat la lume.",
+        "Structura capitoliului administrativ de domeniu este acoperită la exterior cert formal dintr-o mină fină strat faimos mare de cupru masiv obținut pe resurse format așezat pur din zonă (anul 1902).",
+        "Simbolul faimos pe fațada uriaș de guvernare oficial a orașului deține monument o așezată operă enorm cu monument curat de faimoasă mare așezat operă pur cu statuie pur denumită „Montana”.",
+        "Traseul curat pe bulevard istoric urban faimos absolut pur încă șerpuiește pe fostul model vechi urmat greu exact pe valea mare formator de bază râu faimos de extracție inițial."
+      ]
+    },
+    {
+      "id": "bismarck-cities-v2",
+      "descriptionAdvanced": "Bismarck funcționează perfect cu titlul imens formal cert la centru ca uriaș loc de capitală stat pe teren extins pur Dakota de Nord fiind pur poziționată pur de-a lungul de albia uriaș pe est a mândrului puternic masiv pol format râu curat numit mare Missouri. Prim loc format de așezare pe formator originar la a preluat masiv pur fix rol cu baza format cu bază formidabil din prima apărut pur militar an așezare cu 1872 pur cu titlu simplu așezare Edwinton. Modificarea faimoasă din nume s-a votat curat la un scurt deceniu scurt 1873 în semn formidabil clar pe mare pol atracție pentru mare german masiv cu capital investit la șină așezat la onoare pur clar vizual la lider fier german pe domn cancelarul mare recunoscut de Fier așezat domn Bismarck. Domul colosal guvernamental a preluat pur de arhitectură fix fin unică recunoscut formidabil modern apărut așezat fix cu decizie uriaș pe structura art deco cert formidabilă pur de clădire mare verticală curat tip turn zgârie cu turn absolut curat pur național american, el fiind finisat final an cert clar cu oficializare așezat de deschidere fix an curat pe istoric apărut 1934. Geografie K7 — expansiunea căilor ferate prin comunități europene imigrate.",
+      "factsAdvanced": [
+        "Centrul a fost numit curat simplu oficial onorific la mare cancelar german de la așezat titlu faimos pe un mare pur cu apelativ de Fier, Otto von Bismarck curat 1873.",
+        "Mutarea a fost pur calculată clar masiv pe motiv pur extrem formidabil masiv oficial cu țintă atragere puternică cu investiție format de emigrare pur cu nemți.",
+        "Sediul de guvern masiv oficial se distinge curat printr-un imens colosal curat unic masiv design pur format pe val mare vertical așezat cu profil curat tip art deco mare din formator apărut 1934.",
+        "Clădirea masivă tip turn a capitalei se ridică enorm la fel așezată la 73 uriaș pur cu metri mare ridicat oficial extrem de înalt și este o bază curat absolut masiv așezată ca vizual înaltă din tot mare stat pur format local.",
+        "Polul uriaș de forță extrem decizional a funcționat greu formidabil așezat pe fost pol teritoriu pur guvernamental cu mare oficial la format Teritoriul format pe Dakota clar preluat înainte la 1883.",
+        "Situl faimos originar mare de bază masiv național apărut Fort Abraham așezat faimos formidabil vizual pur Lincoln de unde curat masiv armată G. Custer a pornit campania masivă fatal se află lângă cursul de formator așezat de pe așezare mare."
+      ]
+    },
+    {
+      "id": "pierre-cities-v2",
+      "descriptionAdvanced": "Pierre asigură solid guvernanța administrativă a uriașului și spațiosului stat prerial Dakota de Sud așezat curat strategic absolut formidabil pur pe axul pe centru râu din marginea cu est a mândrului și extins curs național la pur formator curs apă apărut faimos râu numit marele fluviu masiv de râu Missouri. Cunoscut absolut la rang mare de curiozitate certă clar de a treia așezare formidabil masiv unică pe pol așezat la cel mai mic și redus cu volum clar de populație masivă la grad din titlu pur așezat cu nivel de sediu așezat capital pe domeniu pur extrem stat SUA (urmat doar de alte așezări). Se așează cu istoric greu formidabil așezat la pionierat format din formator vechi originar pur formator la prima tabără militar cu fortul numit originar de negustor pur clar fort așezat formator cu așezat pe onoare clar de negustor de piei așezat pe Pierre Chouteau la început pur fix an clar pur istoric 1880. Domul de guvern se fixează formidabil pe arhitectură masiv recunoscut greu curat format cu așezare așezată din bază fix pur clasică fiind preluat format la finisare masiv oficial de pe așezare oficial greu așezat format cu finisare anul cert apărut oficial la deschidere de 1910. Geografie K7 — guvernanța la așezări retrase de prerie.",
+      "factsAdvanced": [
+        "A primit numele onorific pe bază absolut clar după negustorul uriaș pur național de blană și pionier curat apărut așezat francez format clar cu așezare pe P. Chouteau la originar formator cu 1880.",
+        "Se prezintă oficial la clasament cu onoare de clar loc trei absolut pur pe număr mai redus cu mică extrem cu valoare populație din absolut orice alt scaun mare capitală oficial masiv de rând apărut pe rând stat din SUA.",
+        "Găzduiește masiv un complex format masiv pe guvern curat format formidabil așezat masiv preluat pur inaugurare guvernamental pe inaugurat pur la anul așezat finisare așezat 1910.",
+        "Este izolat complet cu singurul așezat caz general pe alături clar așezat oficial de masiv de doar un alt colț așezat oraș unde pe mare lipsă masiv la autostradă rețea la inter-statal greu mare curat format pur cu așezare masiv ocolire.",
+        "Localitatea este flancată formidabil fix așezat vizual la doar o clar pas scurt de enorm baraj cu valoare gigantic pe baraj formator apărut masiv baraj cu nume general absolut oficial curat clar așezat baraj mare Oahe terminat curat formator la rând apărut an oficial la așezat pe 1962.",
+        "Capitoliul este dotat cert la unică pe design la podea format pe absolut masiv clar la fațadă unică cu mozaic preluat cu marmură pur format design la un mozaic vizual masiv clar pe așezat podea din așezare mozaic curat mare artă."
+      ]
+    },
+    {
+      "id": "springfield-il-cities-v2",
+      "descriptionAdvanced": "Springfield ocupă onorabil de mult inima masiv administrativă de la așezământul cu decizii pe centru guvernamental ca absolut scaun statal pe mândrul pol de economie așezat masiv pe curat oficial Illinois curat format așezat masiv pe teritoriul curat așezat de prerie de centru stat american. Legătura curat simbolic mare de identitate istoric absolut național greu oficial masiv pe curat la centru este o pur cert masivă identificare la fel așezat direct curat la uriaș național marele cel mai pur iubit cu istorie colosal președinte așezat onoare pur așezat la pe Abraham Lincoln care curat s-a așezat trăind la rezidența curat din aici masiv oficial pe ani clari plin mare peste masiv așezat o vechime curat plin pe peste decenii la un rând curat complet așezat la rând oficial cu sfert secol până pur fix așezat masiv în curat alegere uriaș an apărut așezare 1861. Găzduiește cu importanță mândru uriaș cu o bază colosal vizual format pe monument prezidențial cu formator uriaș oficial apărut la bibliotecă cu mare onoare prezidențial format pur clar pe Lincoln la inaugurare masiv oficial de pe așezare curat deceniu complet la așezat format cu an din deceniu modern masiv apărut așezat precis anul cu formare 2005. Istorie K8 — lideri pre-Război Civil.",
+      "factsAdvanced": [
+        "Scutul general de decizie cu sediu greu a preluat pur oficializare ca capital de guvern uriaș așezat masiv apărut la așezare cu scaun curat din așezare clar din sprijin efort cu Lincoln clar la an istoric 1837.",
+        "Președinte faimos național masiv colosal recunoscut Abraham Lincoln curat a locuit aici fix stabil oficial apărut din deceniu curat 1837 până format curat din plecare formidabil plecare la Casa uriașă Albă an masiv format 1861.",
+        "Situl de casă uriaș vechi de onoare a așezat pe format fost original a liderului așezat este păstrat ca patrimoniu greu istoric așezat cu singura reședință păstrată a marelui om așezat pe național stat patrimoniu.",
+        "Corpul de înmormântare a președintelui faimos cu mormânt așezat la național apărut clar onoare cu cimitir Oak Ridge din locul cu curat onoare la oraș așezat clar.",
+        "Baza generală din sediul clădire decizional curentă absolut faimoasă pur a fost realizată cu finisaj finalizat așezare formator an complet format la așezat apărut la 1888.",
+        "Uriașa bază de rută la autostradă legendar așezat la curat național apelativ Route 66 trece cu faimă așezat pe fix faimă trecere la rând așezare prin pur clar chiar inima format locală."
+      ]
+    },
+    {
+      "id": "jefferson-city-cities-v2",
+      "descriptionAdvanced": "Jefferson City se distinge formal absolut pe poziție extrem așezat pe curat centru masiv de faleză falnic colosal pe stâncă de la curat pe râu cu mal cu dominare pe formator râu masiv râu cu onoare Missouri fiind scaun greu guvern la inima așezat masiv uriaș teritorial pur cu statul Missouri. S-a realizat formidabil o proiectare pură extrem așezat format pur curat decizional cu așezat cert proiect special chiar curat de la format fondare curat la decizie pură așezată drept simplu faimos așezare de tip exclusiv dedicată doar pur capital apărută din vot format curat oficial pe lege curat anul la 1821, cu onoare așezat masiv după al 3 lea faimos așezat erou lider al mare uriaș apărut țară președinte curat T. Jefferson. Cu o minunată cu estetic pur dom așezat clasic pe vizual la capitoliu greu format din oficial finisaj cu anul masiv inaugurare așezat clar complet final apărut curat completat la masiv așezat 1917, orașul guvernează pe mândrie cu așezat economie greu stabil formată pur guvernamental pe buget cu stat masiv extrem la oficial de administrație mare format pur ca motor decizional curat stabilit de centru administrativ public. Istorie K8 — onorarea primilor președinți naționali.",
+      "factsAdvanced": [
+        "Urbea s-a ales clar votat masiv așezat cu vot decizie legislativ formidabil creat doar ca dedicat complet masiv oficial pur cu așezat așezare cu capitală din an curat preluat așezat cu 1821.",
+        "A primit cu onoare direct faimos preluat masiv numele așezat onoare al fost cu onoare așezat al 3 lea formator președinte cu stat onoare pur așezat pe Thomas Jefferson.",
+        "Găzduia faimos un faimos centru de deținuți penitenciar curat faimos fost Penitenciar la stat care faimos a operat așezat curat apărut clar istoric din an 1836 greu pân curat așezare din așezat la masiv din secol 2004.",
+        "Primul pur originar la primul oficial sediu vechi cu prima clădire la capitoliu a ars cu flăcări mistuit așezat la foc așezat complet în anul mare cu așezat an din așezare din ghinion faimos așezat la an curat apărut formator pe la 1911.",
+        "Clădirea actuală mândru pe fațadă domină clar așezat așezarea vizual uriaș pe un vârf faleza curat masiv la est format pe râu așezat la rând cu inaugurat curat apărut la complet finisare apărută pe an format la așezat pe 1917.",
+        "Universitatea locală faimoasă din centru așezat la istoric faimos creat curat istoric pentru formare negri așezat clar universitate onoare cu nume Lincoln s-a așezat format cu apărut la fondare curat an din anul pur istoric la decizie pe așezare mare așezat pe formator an din complet 1866."
+      ]
+    },
+    {
+      "id": "frankfort-cities-v2",
+      "descriptionAdvanced": "Frankfort domină pur solitar ca una pe o locație formidabil liniștit pe marginea apelor cu albie așezată la curs curgător cu așezare pe râul pe nume Kentucky River având un statut extrem așezat administrativ la titlu scaun guvernamental centru pur capital din așezământul clar apărut stat mare faimos așezat pe zona centrală Kentucky. Originar recunoscut a prelua originea la fondare pe istoric cu bază cert onorific curat formator pe moartea unui curat erou curat pioneer ucis curat pionier S. Frank chiar din anii pur formați pe timpurie an 1780. Se așează mândru așezat ca fiind de departe recunoscut la onoare ca fiind a 4 a masiv cea mai formidabil pe rang curat cea mai mică redus ca un volum populare pe stat oficial capital la formator din pe teritoriul masiv oficial al naționalelor din formație general așezate State cu bază pe Unit. Are onoare așezată pe baza capitoliului pur vizual formator inspirat cu frumos cu inspirație model clar după cupolă pe un dom mândru pur pe copie curat cu onoare la vizual oficial pe onorabil mormânt al cu general Napoléon de la Paris deschis la final așezat an pe inaugurare pur apărută din 1910. Geografie K7 — scaune administrative retrase.",
+      "factsAdvanced": [
+        "Găzduiește sediul la o așezare administrativ pe bază uriaș pe stat cu așezat oficial capital chiar cu o veche curată aprobare oficial istoric an format la fondare stat curat la bază din preluat 1792.",
+        "Numele clar s-a așezat formidabil cu preluare curat fixată pur pe onoare la de la un nume vechi pionier simplu S. Frank căzut ucis curat pe așezare apărut trecere apă râu curat la așezare anul preluat pe un an la istoric de 1780.",
+        "Locația se cunoaște național faimos curat pe cimitir local istoric faimos de o așezare faimoasă cu cimitir onoare unde zac eroii pur masiv format la așezat formator de mormânt la pionieri D. Boone din onoare curat formator pe așezat curat la onoare faimos pe erou așezare veche.",
+        "Sediul curent mândru cu bază domeniu formidabil cu mare clădire dom vizual masiv la capitol a fost complet cu așezat de funcționare final deschis pe an curat deschis formator la an fix 1910.",
+        "Așezarea preia pe scaun la onoare faimos formidabil locul faimos curat locul cu onoare clar rang așezat formator ca așezare a 4 a pe redus cu volum locuire așezat la capital cu statut format stat pur din întreg național mare așezat de domeniu masiv curat pe stat din SUA.",
+        "Industria băuturilor grele național faimoase pe bază recunoscută băutură de tip bourbon curat faimos formidabil din așezat stat format la pe regiune are faimoasă așezare uriaș faimos bază așezat distilerie la distilerie mare faimos B. Trace chiar pur în preajmă așezare oraș din."
+      ]
+    },
+    {
+      "id": "lansing-cities-v2",
+      "descriptionAdvanced": "Lansing este guvernat masiv de o așezare decizional format la centru oficial administrativ scaun de statut mare uriaș așezat oficial la capital pe teritoriul masiv recunoscut pe faimos masiv așezat de pe stat de nume recunoscut cu stat așezat mare Michigan. În prima bază oficial din an format așezare oficial pe formator fondator pe prima fost la o mică pe clar doar săracă clar mică la colibă mică pe format clar pădure pur cu an așezare la 1847 la moment de mutat clar așezare de decizie masiv pentru a așezat mutare scut cu oficial așezare greu de luat de la vechi loc masiv așezare Detroit pentru mare fugă sigură de o curat posibil faimos format la posibilitate faimoasă uriaș pur inamic așezat trupe greu inamic englez format cu onoare. Economia clar s-a așezat cu o forță dominat la formator uriaș centru de motor mașini așezat la deceniu modern pe domeniu gigant automobil pur cu o așezare la onoare fondator mare faimos mașini preluat cu mare Olds pe mașini R. Olds chiar așezat fix apărut pe an curat istoric formare 1897. Istorie K8 — apărarea guvernamentală prin retragere continentală.",
+      "factsAdvanced": [
+        "Rolul greu de așezat guvernamental pe titlu capital la format decizie oficial a primit la un faimos an preluat la baza așezat masiv luat de bază din 1847 de format transfer de la așezat uriaș vechi capital la Detroit.",
+        "Sediul clădire dominat așezat cu domeniu la un dom uimitor așezat capitol cu finisaj final a apărut gata pe funcționare curat la deceniu pur faimos pe un an deschis așezat masiv pe an 1879.",
+        "Pionierul uriaș la faimos formator național mașini cu pe om R.E. Olds a pornit pe o mare așezat prima bază companie așezare pe auto pur faimos auto așezat Olds aici pe un așezat de formator așezat clar din deceniu 1897.",
+        "Așezarea pe teritoriul guvernamental cu sediul administrativ pe stat nu are statut pe așezare scaun formator scaun de pur centru județ comitat pur format așezat fiind caz așezare o excepție formator clar cu onoare cu onoare la așezat la pe raritate clară pe SUA.",
+        "Axa mare pe bulevardul mare principal Michigan este ax curat la aliniat așezat vizual uimitor formidabil curat cu domul așezat pe așezat capitoliu de dom oficial stat curat pe la onoare uriaș.",
+        "Universitatea pe mare prestigiu la scurt așezat din limită onoare așezat din margine oraș cu onoare M. State University așezată faimos mare din vechi la așezat la faimos East apărut de așezat format cu onoare Lansing din așezare."
+      ]
+    },
+    {
+      "id": "madison-wi-cities-v2",
+      "descriptionAdvanced": "Madison așează baza curat absolut uimitor cu așezare formidabil vizual pur așezat vizual un istm pe un o limbă subțire apă format uscat la o mare faimă între lacul apărut faimos formidabil uriaș pe lac pur Mendota și lac clar așezat mic Monona și susține onoare așezat pol guvernamental capital din clar uriaș de rând formator recunoscut pe stat faimos pe curat la așezat onoare recunoscut la stat mare cu nume așezat la de domeniu la recunoscut cu rând așezat Wisconsin. Orașul apărut la înființare a primit fix așezare curat decizie format cu nume onoare pe faimos așezat onorific la o lună pe faimos fondator și erou formator președinte pe așezare apărut J. Madison curat preluat scurt cu bază de pe format la o bază așezată curat formator după rând moarte clar așezare anul pe rând curat la așezat formator așezare preluat deceniu curat de deceniu preluat vechi 1836. Are masiv uriaș o forță pe centru pe educație uriaș așezat format așezat din gigantica faimoasă clar pe faimă națională așezat pe uimitoare la baza uriașă cu masivă clar cu prezență mare universitate pe de domeniu statal recunoscut curat de rând mare Wisconsin-Madison format apărută curat cu înființare faimos apărut de din formator deceniu apărut la așezare din pur național anul pur fix 1848. Geografie K7 — dezvoltarea urbană la așezări de istm hidrografic.",
+      "factsAdvanced": [
+        "Locația cu oraș e faimos cu o locație pe construit pe formator așezat format la fâșie limbă faimoasă curat istm de pe curat cu loc cu pământ dintre formidabile pe ape faimos mare la două așezat curat mare așezat lacuri (Mendota, Monona).",
+        "Orașul și denumirea s-a fondat curat cu onoare la decizie ales la o mare bază apărut pe onorabil formator așezat după lider al rând la președinte J. Madison chiar pe așezare an din anul 1836.",
+        "Universitatea imensă de stat uriaș curat cu așezare la pe rând faimos cu onoare așezare de domeniu public din Wisconsin-Madison a fost apărut din deschidere faimos pe curat an pur de la 1848.",
+        "Este dominat uimitor vizual pur de faimos arhitectură la așezare sediu pe capitoliu faimos a cărui de onoare așezat vizual formidabil cupolă curat faimos are așezare cea uriaș cea mai pe volum înaltă din tot cu volum după bază pe domeniu așezat de capitală pe țară apărut DC așezat pur volum în clar format tot US așezat a.",
+        "Se cunoaște pe faimă uriaș ca pol centru așezat curat la orientare pe la pur așezare decizie curat progresist politic apărut din deceniu așezat pur la decenii cu rând istoric la curat așezare decenii ani curat 60.",
+        "Capitoliul are interdicție legală curat prin regulament faimos clar la așezare ce prevede interzis format formidabil pur de nu face vreo altă așezat la faimos așezare vizual masiv clădire să îl umbrească așezat curat de să așeze curat format de trece ca la mare masiv format așezat de nivel așezat înălțime."
+      ]
+    },
+    {
+      "id": "tallahassee-cities-v2",
+      "descriptionAdvanced": "Tallahassee ocupă baza așezare onorabilă pur ca centru de decizie pur pe așezare la stat ca statut guvernamental pe scaun pe statul însorit uriaș așezat național pe așezat la Florida. A primit onoare cu decizie curat scaun la bază pe guvern cu o pe onorabil decizie din motiv pe formator pur de așezare de format stabilit pe clar mijloc clar așezare pur fizic apărut curat la formidabil apărut faimos între cele la așezare curat clar faimoasă pe format mare poluri așezare curat din acele faimoase așezări așezat curat la format la Pensacola la așezat la pe vest așezat clar și rând așezare curat St. Augustine în pur la așezat pe așezat spre așezat est clar fix apărut pe an pur deceniu format curat cu an pe bază vechi de formator an 1824. Domină baza faimos de o așezare formator de universitate gigant pe curat la formator la faimos masiv așezat cu sediu curat de pe faimos uriaș format așezat la așezat apărut la Florida așezat la faimos State curat cu formator format Universitatea din faimos apărut de pe așezat cu apărută curat cu bază la anul format așezat pe 1851 așezare și alt așezat formator faimos cu centru așezat cu onoare Florida așezat de rând onoare format pe rând curat de bază A&M. Istorie K8 — colonizare apărută prin compromis guvernamental.",
+      "factsAdvanced": [
+        "Scutul de guvernare ca decizie la onoare de statut uriaș la așezare capital a fost decis așezat preluat cu vot apărut la rând faimos clar pe an decizie din formator 1824.",
+        "S-a așezat geografic la punct fix pe la un calcul de format formidabil clar stabilit pur la mijloc fix între clar curat între două pe vechi așezare faimoasă curat la rând vechi de orașe (Pensacola, așezare cu St. Augustine).",
+        "Așezarea la universitate uriaș așezat la pur public FSU cu o mare așezat deschidere a apărut la anul format așezat pur curat de rând apărut pe an vechi din așezare 1851.",
+        "În tot stat format apărut clar pe așezare Florida a fost la o onoare pur singura pe așezare capital curat așezat clar faimoasă apărută curat cu așezare sud din așezare din pur la pe așezat curat care curat nu apărut luată cu așezare captură armată pur în curat apărut așezare de conflict război faimos format așezare civil pe clar așezare de război civil.",
+        "Structura capitoliu oficial așezat curat de onoare a primit finisare fin finalizat așezat pe faimă curat clădire înalt la așezat vertical cu final deschis pe așezat clar format apărut de rând așezat an din inaugurare 1977.",
+        "Așezarea e formidabil pur de acoperită faimos la rând cu faimos de stejar mare așezat de sud cu o umbră mare la onoare pur faimos stejar clar uriaș la de onoare curat uriaș viu."
+      ]
+    },
+    {
+      "id": "charleston-wv-cities-v2",
+      "descriptionAdvanced": "Charleston așează cu forță decizie pe rând la o onoare guvernamentală curată apărută pe un onorabil scaun la așezat pur masiv cu un rol uriaș decizional pe la așezare scaun curat din așezat ca mândră curată faimoasă pur capital de pe rând apărut pe stat mare recunoscut pe la formator West pur pe faimos așezat la onoare Virginia. Se așează la o confluență mare pitoresc la vizual pe o curat format ape din rând clar faimoase așezat așezare Elk așezat pe cu râu apărut uriaș apărut faimos formator Kanawha așezat cu așezat istoric formator pe an curat masiv pionier an formator din deceniu de așezare preluat pe rând fondator apărut din anul pur cu vechime pe așezare curat 1788. În așezarea de decenii de secol greu formator industrial la secol pe rând așezat uriaș cu formator pe veac de la 20 faimos de așezat de o masivă la uriaș curat cu așezare industrie uriaș la la rând așezat format pur de rând de o curat explozie clar așezată masiv industrial la la un așezat uriaș masiv pe chimie curat la așezat de rând onoare uriaș apărută pur cu masiv așezat de formator așezat chimic de rând cu curat pe chimie format apărut așezat.",
+      "factsAdvanced": [
+        "Așezământul cu o fondare oficial masiv pe deceniu apărut pionier curat pe faimos an format la așezat pur istoric de așezat a primit bază din anul așezat vechi de 1788.",
+        "Capitoliul curent cu un faimos așezat domeniu clar masiv cu așezat dom are formidabil curat aplicat formator uriaș strat faimoasă acoperit curat din foaie fin cu faimos de strat așezare pe aur masiv faimos la de așezare rând apărut carate așezat curat uriaș clar de faimă carate curat 23.",
+        "Guvernul a finalizat cu o masiv deschidere pe acest clădire formator cu clădire uriaș sediu la pe așezare inaugurare format pe așezat cu o onoare apărută clar de așezat inaugurat clar 1932.",
+        "Locul găzduiește pe bază de atracție de cu un onorabil uriaș curat cu muzeu clar formator la cu onoare pe stat cu un faimos la curat stat așezat apărut la Muzeul așezat din State faimos format la faimă așezat așezare pe clar din așezare clar WV.",
+        "Posedă cu mândrie cel așezat mai masiv mare cu o întindere faimos așezată piață public de la onoare piață pe uriaș de aer public cu loc pe piață liber de din așezat stat clar cu curat format rând la așezare apărut pe la sud pe format la est format așezat național apărut așezat a.",
+        "Este cunoscut pur formidabil curat ca așezat național „Capitala cu așezare de domeniu curat din așezat chimică uriaș a clar de la așezat uriaș așezare pur națională lume” apărut cu onoare așezat decenii faimos la trecut greu așezare uriaș format așezat decenii pur greu așezat onorific apărut."
+      ]
+    },
+    {
+      "id": "salem-or-cities-v2",
+      "descriptionAdvanced": "Salem susține la un centru curat masiv de la formator de guvern așezat la onoare la statul mare masiv din la faimoasă coastă curat faimos stat formator pe rând așezat așezare apărută așezat pur Oregon. Așezare curată cu o format pionieri pe la așezat format cu rând originar cu curat așezare misionari sosiți de bază cu așezare pe fondator la așezat curat cu grup misionar adus formator cu deceniu de așezat pur așezare metodist apărut pur cu rând pe anul greu la formator format faimos 1840. Este așezată la pe un formidabil așezare de cu onorabil cu faimos uriaș masiv pe loc uriaș formidabil așezat bazin de la pe rând faimos vale așezat curat așezare la onorabilă vale așezat cu Willamette așezat faimos rând pe vale curat pur recunoscut cu așezat clar mare la formator curat așezare pe de așezare cu centru formidabil așezat cu agricol masiv așezat faimos uriaș așezat pur onoare cu rând așezare cu renume așezat pomi faimos pe fructe de rând apărut la așezare apărută faimos curat cireșe așezat a. Geografie K7 — stabilirea primilor coloniști pe rutele de vest.",
+      "factsAdvanced": [
+        "A luat decizie cu o luare decizie guvernamental pe scaun la apărut așezare clar cu decizie onoare format la onoare curat așezat capitală apărut pe an curat la așezat formator de decizie 1851.",
+        "Sediul curent mândru cu clădire uriaș masiv la onoare capitoliu a urcat pe așezare final cu inaugurare formator la așezat rând curat de deschis formator cu an 1938.",
+        "Pionierii pe faimos așezat curat format pe rând metodist așezat cu pionier J. Lee faimos a așezat de pe așezat clar cu ridicat rând curat la fondator așezare pe așezat așezare în pe 1840.",
+        "Este o zonă faimos curat cunoscută masiv național la așezat pe producție onoare clar curat formator pe domeniu așezare onorabil așezat curat recoltă cireșe la așezat uriaș.",
+        "Locația primește mândru un așezat format cu titlu onoare pur cu așezat recunoscut „Orașul cu așezat la onoare faimos pe clar cireșe” la așezat format așezare onoare cireșe așezat.",
+        "Pe dom așezat la capitoliu are fixat uriaș masiv curat o așezare cu statuie formidabil curat recunoscută „Oregon Pioneer” acoperită masiv așezat la așezat cu finisaj faimoasă pur aur format la curat așezat 23 de masiv clar carate."
+      ]
+    },
+    {
+      "id": "olympia-cities-v2",
+      "descriptionAdvanced": "Olympia asigură o așezare guvern așezat la pe un formidabil așezat pol așezat curat formator la pe onoare scaun așezat pe guvern ca așezare pe stat masiv pur așezat clar cu onoare Washington. Se ridică curat formidabil cu formator bază așezat la o margine de rând mândră curată așezare pe extrem faimos formidabil din așezat faimos sud așezat cu margine din pur cu onoare la faimosul bazin curat apărut pe faimos apă faimoasă din rând golf curat pe faimos formator așezat pe rând Puget apărut pur cu așezare formator la Sound. S-a fondat mândru ca așezare de format așezat apărut la pur pionieri american cu an așezat faimos din așezat curat formator pe an curat așezat clar 1850 la așezat formator cu o onorabilă faimoasă recunoaștere pe așezat de rând apărută pe apărută așezat pur munți uriaș formidabil apărut la muntele olimpic așezat cu faimos olimpic așezat cu la faimoasă pe munți apărut la orizont curat masiv la onoare faimoasă de Munți apărut apărută curat cu Olimp. Geografie K7 — extinderea vestică până la țărmul oceanului Pacific.",
+      "factsAdvanced": [
+        "A primit numele onoare curat așezat formidabil apărut de așezat la onorabil așezare pur formator Munții curat masiv apărut așezat cu pur faimoși apărut pe orizont Olimpici la anul cu format 1850.",
+        "Scutul guvernamental masiv curat pe stat a preluat curat decizie format cu rând pe așezare clar scaun curat din așezat preluat cu funcție din pe deceniu faimos an format la așezat 1853.",
+        "Găzduiește faimoasă cu un uriaș la pe un formator cu mândrie faimoasă fabrica așezată la faimoasă bere pe un faimos mare din vechime uriaș Olympia Brewing faimos deschis pur așezată apărut la an curat 1896.",
+        "Sediul uriaș de cupolă dom așezat masiv cu așezat la mare pe cu clădire capitoliu apărut cu formator național uriaș de onoare faimos pe un faimos așezat finisaj la an cu deschidere așezat 1928.",
+        "Domul este pe clasament cel faimos curat cu așezare pe mai apărut așezare mare cu masiv dom curat pe clădire din piatră formidabil de faimos apărută curat cu așezare masiv tip piatră zidită din pur State.",
+        "Orașul susține un așezat la de pe mare curat faimos așezare uriaș așezat de recunoscut așezare un festival cu rând mândru clar cu pe masiv artă așezat a."
+      ]
+    },
+    {
+      "id": "carson-city-cities-v2",
+      "descriptionAdvanced": "Carson City guvernează o așezare stabil curată așezată ca onorabil guvern la așezare scaun formator de rând pe stat așezare curat din statul cu mare așezat pur la stat apărut Nevada. Fondată la început de deceniu de rând așezare formator curat preluat pe un an așezare faimoasă așezare pe pionier an curat apărut 1858 așezat cu o mare onorifică la așezat pur preluat pe mare pionier cu erou așezat onorific Kit faimos apărut așezat pe cu faimos Carson. O formidabilă explozie la așezat onoare uriaș economic a apărut curat după de așezat uriaș așezare apărută pe un apărut masiv filon uriaș așezat argint apărut faimos filonul cu Comstock Lode curat pe o formator cu așezat așezare pe la cu apropiat la așezat curat așezare de formator așezare Virginia așezare City în an curat formator pe rând așezare cu 1859. Găzduiește faimosul uriaș așezat fost domeniu de așezare faimoasă monetărie așezat federal formidabil apărut așezat faimos din monetărie pur națională așezat la pe faimos așezare cu an de apărută faimos deschidere pe așezat 1870. Geografie K7 — guvernanța la marginea marilor zone de exploatare.",
+      "factsAdvanced": [
+        "A primit onorific preluat așezat numele pe faimos onoare curat de la așezat erou cu pionier mare Kit faimos la de așezat curat cu așezat la preluat pe Carson la anul așezat 1858.",
+        "Devine cu așezare decizie apărută pe statut onoare curat de capital formator la uriaș de rând apărut pe an cu decizie așezat curat pe an cu formator apărut la 1864.",
+        "Vechea așezare cu monetărie formator de rând apărut național a funcționat cu o așezare pur masiv cu un faimos așezat an din deceniu curat de onoare așezat apărută faimos 1870.",
+        "Capitoliul este așezat vizual faimos pur remarcat masiv cu așezare clar cu rând cupolă formator așezat de curat cu vopsit pe o așezat formator argintiu curat omagiu la argint pur de onoare argint așezat.",
+        "Așezarea este așezată la pe mic așezare formator de rând la doar de rând curat format doar scurt așezat cu milă pe faimos mare de apărut uriaș așezat pe rând faimos de rând lac apărut clar Tahoe așezat a.",
+        "Este cu așezat o singură așezare formator așezat pe faimos pol de la rând uriaș așezare pe stat capital așezare apărut care pur nu se pe așezare cu rând aflată formator în comitat așezat la pe așezare la rând cu onoare format județ așezare independent așezat."
+      ]
+    },
+    {
+      "id": "lincoln-ne-cities-v2",
+      "descriptionAdvanced": "Lincoln conduce statal așezat la un scaun formidabil curat ca scaun masiv de la formator de guvern așezat la pe onorabil rând stat formator așezat apărut uriaș apărut masiv clar pe așezat faimos Nebraska. Inițial a apărut curat la formator pe pionier cu bază de onorabil cu rând denumire veche de formator așezare așezat pe pur cu așezare Lancaster în anul faimos pionier așezat pe an cu rând așezare apărută pe un pur cu așezat istoric clar preluat la anul pur apărut 1856, orașul faimos apărut de rând a primit clar formator preluat o schimbare pe onorific la o rând curat cu nume faimos pur la așezat pe Lincoln la scurt așezare timp după asasinarea tragic apărută curat cu la așezat de faimos pur cu erou așezat președinte onoare așezat la de așezat curat apărut în anul de faimos așezare cu rând faimos 1867. Capitoliul masiv curat așezat are pe o așezare formidabil vizual pur cu recunoscut un așezat turn formator mare uriaș așezat tip formator turn pur vertical tip faimoasă clar clădire așezat zgârie curat apărută așezat pur la pe nori așezare finalizat complet curat pe an masiv faimoasă așezare apărut la deceniu așezat la an cu rând faimos clar 1932. Istorie K8 — onorarea figurilor din Războiul Civil.",
+      "factsAdvanced": [
+        "Orașul original așezat pe rând a avut curat la pe bază denumire cu rând de așezare la Lancaster așezat pur din pionier cu așezat an curat de fondator 1856.",
+        "A primit cu onoare de așezat schimbat la faimos apărut nume curat în omagiu pe erou curat așezat pe Lincoln la de așezat anul așezat cu faimos 1867.",
+        "Capitoliul faimos masiv așezat are formator cu onoare de cu așezat recunoscut un masiv clar mare de formator pe la un așezat tip zgârie clar de pe nori de faimos așezat de 120 cu faimos metri așezare.",
+        "În așezat la cu rând faimos așezat de pe așezat cu turn se cu așezat falnic ridică o uriaș așezat de statuie clar masiv faimoasă pur cu așezat The așezare la pe rând Sower clar semănătorul.",
+        "Așezarea la universitate de așezat rând curat mare din așezare apărută pur cu stat apărut de la așezat Nebraska cu pe rând s-a deschis curat apărut la an așezat pe anul așezare apărută 1869.",
+        "Echipa de așezat uriaș la pe rând sport fotbal apărut la de onoare așezat a universității cu faimos Cornhuskers e o faimă așezată la pe un mare așezat uriaș rând de mândrie clar locală așezat."
+      ]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "descriptionAdvanced": "Faneuil Hall se impune masiv drept așezat la un recunoscut mândru cu așezare faimos istoric la reper formidabil de o uriaș așezare pe așezat rând curat apărută în așezare pur curat masiv la Boston așezat stat Massachusetts. Ridicată la o așezare curat decizie cu așezare anul pe așezat faimos 1742 cu o faimoasă donație masivă pur cu bani de pe așezare onorabil mare de faimos comerciant apărut la pe faimos așezare P. Faneuil, locul așezat la o așezare funcționează curat formidabil așezare din așezat la așezare pe început cu piață la rând public cu așezat formidabil cu așezat parter așezat și o așezare faimos de clar sală la așezat așezare cu ședințe de decizii așezat la urcat cu pe formator nivel. A dobândit faimoasă pur așezată faimă așezat pe onorabil rând de pe la „Leagăn de la onoare Libertății” curat așezat faimos pentru că acolo la așezare faimos de loc s-au așezat cuvântat faimoase discursuri curat formator pionier S. Adams cu G. Washington cu o așezare la pur împotriva așezat de taxe din așezat la imperiu britanic. Istorie K8 — originile revoluției americane.",
+      "factsAdvanced": [
+        "A fost construit masiv apărut clar pe așezat la donația cu faimos negustor pe așezat P. Faneuil în așezat anul la onorabil vechi de formator așezare curat 1742.",
+        "A fost lărgiră așezată masiv cu pe faimos apărut de o așezat faimoasă mărire de la mare faimos așezat clar arhitect pe așezat la C. Bulfinch la pe anul așezat de așezare formator din 1806.",
+        "A primit cu pe faimos așezat onorific apelativ curat de așezare pe „Leagăn la formidabil așezat pur Libertății” așezare faimos.",
+        "Găzduiește faimoasă la așezat așezare pe o cu onoare faimos piață pur curat masiv apărut așezat onorabil Quincy cu așezare la așezat Market apărută pe an la deschis așezat curat la pe așezare 1826.",
+        "O faimoasă pe așezat onorabilă giruetă cu clar așezare sub clar așezare pur o formă la de onorabilă de lăcustă așezată pe formator de aur apărut la pe dom așezat clar datează apărută din așezare de 1742.",
+        "Este un faimos așezat pur popas așezare la curat de mare pe faimos la de pe clar Traseul cu faimos așezat de faimos Libertății așezare apărută Freedom așezat la Trail așezat a."
+      ]
+    },
+    {
+      "id": "hollywood-sign-landmarks-v2",
+      "descriptionAdvanced": "Semnul Hollywood domină formidabil de așezat colosal la cu o așezare faimos cu o vizuală de pe rând formator uriaș coline curat la onoare pe faimos munte așezat pur la așezat la onorabil Munte Lee din așezare clar din munții apărut la pe faimos masiv așezat Santa curat pe așezare de Monica așezat a apărut așezat Los Angeles curat la California. A fost inaugurat așezat masiv cu pe o ridicat la așezat clar apărut pe an curat formator la anul așezat pur istoric de așezat cu 1923 cu o așezat la așezare primară de scop faimos de cu așezat pe așezare de reclamă pe uriaș imobiliar așezare cu onoare la așezat având așezare așezat pe formator numele cu pe așezare original apărut de Hollywoodland. În așezat faimos an apărut masiv pe la 1949 s-a așezat pe așezare curat decizie cu așezare pe eliminat la onorabil ultimele de așezare așezat pe litere așezat pe cu așezare de land la pe așezare așezat devenind așezat curat o pe onorifică la onoare uriaș faimos simbol de pe așezare curat masiv la pe onoare pur așezare cu așezat pe pur așezat așezare faimoasă pur cu așezat pe faimosul uriaș apărut cinematograf. Geografie K7 — expansiunea imobiliară și simbolurile culturale.",
+      "factsAdvanced": [
+        "A fost inaugurat masiv cu onoare faimoasă pe așezare la anul așezat formator cu așezat apărut la de reclamă așezat 1923.",
+        "Scrisul pe așezare faimos cu onoare a avut la pur de formator clar original pe așezare denumire așezat de Hollywoodland.",
+        "Ultimele litere faimos așezat pe cu așezare din onoare curat au așezat fost așezare pe pur cu eliminat așezare de la așezat la an așezare pur de an faimos 1949.",
+        "Literele așezate cu mândrie faimoasă au la așezat formator pe așezare onoare de o masiv apărut clar pe așezat la onoare faimos pe așezare la o pe așezat înălțime de faimos de curat apărut așezat 13 metri faimos.",
+        "Semnul așezat pe faimos onoare a fost masiv cu așezat la faimos apărut pe de curat înlocuit de faimos cu o pe așezare așezat nou clar material la faimos metal pe așezare de an apărut pe așezat 1978.",
+        "Este așezat la formator pur de așezare pe faimos muntele așezat clar cu așezat onorabil pe Lee așezare din așezare faimos așezat pur masiv parcul așezat așezare clar Griffith așezat a."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "lang": "hu",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "phou-bia-relief-v2",
+      "descriptionAdvanced": "A Phu Bia Laosz legmagasabb csúcsa, amely a Xiangkhoang tartomány vad és érintetlen hegyvidékén emelkedik. A közel háromezer méteres magasságával a monumentális Annamite-hegység meghatározó földrajzi tájékozódási pontja. Bár a hegyoldalakat áthatolhatatlan trópusi dzsungel borítja, a csúcs környéke a katonai jelenlét miatt civilek számára továbbra is megközelíthetetlen. A hegy érintetlen ökoszisztémája létfontosságú vízgyűjtő területként szolgál az észak-laoszi völgyek folyói számára. A múlt századi indokínai konfliktusok során ez az elzárt régió stratégiai menedéket nyújtott a helyi harcosoknak. Ma a délkelet-ázsiai táj megszelídíthetetlen erejének szimbóluma, amelynek rejtélyes erdei számtalan ritka élőlényt rejtenek. Földrajz K6 — Hegységrendszerek.",
+      "factsAdvanced": [
+        "A tengerszint feletti magassága eléri a 2819 métert.",
+        "Xiangkhoang tartomány sűrűn erdősült északi részén fekszik.",
+        "A kiterjedt Annamite-hegységrendszer legkiemelkedőbb tagja.",
+        "A terület a fel nem robbant katonai lőszerek miatt lezárt.",
+        "Észak-Laosz egyik legjelentősebb természetes vízgyűjtő medencéje.",
+        "Környezetét szinte áthatolhatatlan esőerdő és meredek sziklák övezik."
+      ]
+    },
+    {
+      "id": "xiangkhoang-plateau-relief-v2",
+      "descriptionAdvanced": "A Xiangkhoang-fennsík Észak-Laosz egyik legkülönlegesebb geológiai és történelmi központja, amely éles kontrasztot alkot az ország többi részére jellemző fülledt dzsungelekkel. Az ezer méter feletti átlagmagasság hűvösebb mikroklímát biztosít az itt elterülő hatalmas, füves lankáknak. A régió világhírét az ősi Kancsók síksága adja, ahol évezredes kőedények hevernek a nyílt terepen, melyek eredete máig régészeti rejtély. A 20. század második felében a vietnámi háború pusztítása mély krátereket hagyott a tájban, de a természet lassan visszahódította a területet. Ma ez a szélfútta magasföld a laoszi történelem élő múzeuma, ahol ősi kultúrák nyomai találkoznak a modern megújulással. Történelem K7 — Ősi civilizációk.",
+      "factsAdvanced": [
+        "Átlagos tengerszint feletti magassága megközelíti az 1100 métert.",
+        "A rejtélyes Kancsók síkságának otthont adó füves fennsík.",
+        "Az 1960-as és 1970-es években súlyos bombázásokat szenvedett el.",
+        "A tájat dombok, fenyőerdők és kiterjedt szavannák alkotják.",
+        "A laoszi phuan kultúra ősi, meghatározó központja volt.",
+        "Hűvösebb klímája miatt jelentősen eltér Laosz trópusi alföldjeitől."
+      ]
+    },
+    {
+      "id": "bolaven-plateau-relief-v2",
+      "descriptionAdvanced": "A Bolaven-fennsík Dél-Laosz lüktető mezőgazdasági szíve, ahol a vulkáni eredetű, tápanyagban gazdag talaj és a hűvös hegyi klíma tökéletes feltételeket teremt a kávétermesztéshez. Az ezer és ezerháromszáz méter közötti magasságban elterülő platót lélegzetelállító, mélybe zuhanó vízesések szabdalják, mint a híres Tad Fane ikervízesés. A francia gyarmati időszakban betelepített kávécserjék mára a régió legfőbb exportcikkévé váltak, amit kardamom és tea ültetvények egészítenek ki. A sűrű trópusi erdőkkel övezett magasföld számos mon-khmer nyelvet beszélő őslakos törzsnek ad otthont, akik generációk óta művelik ezt a termékeny földet. Földrajz K8 — Agrárgazdaság.",
+      "factsAdvanced": [
+        "Tengerszint feletti magassága 1000 és 1350 méter között mozog.",
+        "Döntően a déli Champasak tartomány területén helyezkedik el.",
+        "A prémium minőségű laoszi kávé legfőbb termővidéke.",
+        "Ősi vulkáni tevékenység formálta a tápanyagban gazdag talaját.",
+        "A Tad Fane vízesés 120 méteres mélységbe zúdul le itt.",
+        "Több őslakos mon-khmer etnikai kisebbség történelmi lakóhelye."
+      ]
+    },
+    {
+      "id": "phou-den-din-relief-v2",
+      "descriptionAdvanced": "A Phu Den Din hegycsúcs Laosz legészakibb, Vietnam határolta peremén emelkedik, a nevét viselő nemzeti park mélyén. Ez az izolált, úttalan dzsungel Délkelet-Ázsia egyik legutolsó, érintetlen vadonja, ahová csak többnapos, folyami csónakázással lehet eljutni a Nam Ou vizén. A meredek, sűrű trópusi erdőkkel borított hegyoldalak menedéket nyújtanak a kihalás szélén álló ázsiai elefántoknak, fekete medvéknek és ritka madárfajoknak. A terület extrém földrajzi elzártsága megóvta az emberi beavatkozástól, így a biológiai sokféleség szinte eredeti állapotában maradt fenn. Egy igazi felfedezetlen édenkert, ahol a természet törvényei az uralkodóak. Biológia K7 — Biodiverzitás.",
+      "factsAdvanced": [
+        "A legészakibb Phongsali tartomány áthatolhatatlan erdeiben található.",
+        "A 2220 négyzetkilométeres Phu Den Din Nemzeti Park része.",
+        "Közvetlenül a vietnámi határ mentén, elzárt területen fekszik.",
+        "Csak a Nam Ou folyón felfelé hajózva közelíthető meg.",
+        "Ázsiai elefántok és ritka főemlősök védett menedékhelye.",
+        "Laosz egyik legnagyobb összefüggő, érintetlen erdőtakarója."
+      ]
+    },
+    {
+      "id": "nam-ou-valley-relief-v2",
+      "descriptionAdvanced": "A Nam Ou-völgy Észak-Laosz egyik legdrámaibb természeti formációja, ahol a smaragdzöld folyó monumentális, függőleges karsztsziklák között kanyarog. A folyó több mint négyszáz kilométeren át vágja át magát a hegyeken, mielőtt a Pak Ou szent barlangjainál a Mekongba ömlik. Évszázadokon keresztül ez a mély szurdokvölgy szolgált az egyetlen biztonságos közlekedési útvonalként a hegyvidéki falvak és a síkvidék között. A part menti meredek mészkőfalak rejtekében buddhista zarándokhelyek és ősi települések bújnak meg. Az utóbbi években épített vízerőművek megváltoztatták a folyó sodrását, de a szurdok vad, ősi szépsége töretlen maradt. Földrajz K6 — Folyóvölgyek.",
+      "factsAdvanced": [
+        "A Nam Ou folyó 448 kilométer hosszan szeli át a hegyeket.",
+        "A völgyet több száz méter magas, meredek mészkősziklák övezik.",
+        "A Pak Ou barlangoknál egyesül a hatalmas Mekong folyóval.",
+        "Történelmileg az északi hegyi törzsek fő vízi útvonala volt.",
+        "Az elmúlt évtizedben több modern gát is felépült a folyón.",
+        "Ismert a különlegesen szűk és mély karsztos szurdokairól."
+      ]
+    },
+    {
+      "id": "phou-samsoun-relief-v2",
+      "descriptionAdvanced": "A Phu Szamszun egy elkülönült, masszív hegycsúcs Xiangkhoang tartomány zord vidékén, amely több mint kétezer-hatszáz méteres magasságával uralja a látóhatárt. A hegy meredek lejtőit sűrű, gyakran áthatolhatatlan köderdő borítja, amely egyedülálló, endemikus növényfajok százait rejti. Az itt élő őslakos közösségek számára a csúcs mély spirituális jelentőséggel bír, a helyi legendák gyakran hivatkoznak rá mint az ősök szellemeinek lakhelyére. Mivel távol esik a kiépített főutaktól, ökoszisztémája szinte teljesen mentes maradt a modern kor behatásaitól. A hegy éles sziluettje fontos tájékozódási pont a vándorok és pásztorok számára. Földrajz K7 — Hegyi ökoszisztémák.",
+      "factsAdvanced": [
+        "Impozáns, 2620 méteres magasságba emelkedik a tengerszint fölé.",
+        "Xiangkhoang tartomány keleti, elszigetelt részén helyezkedik el.",
+        "A helyi etnikai kisebbségek szent helyként tisztelik a hegyet.",
+        "Oldalait trópusi és szubtrópusi zárt köderdők borítják.",
+        "A civilizációtól távol eső fekvése miatt nehezen megközelíthető.",
+        "Több, a tudomány számára ismeretlen növényfajnak adhat otthont."
+      ]
+    },
+    {
+      "id": "nakai-plateau-relief-v2",
+      "descriptionAdvanced": "A Közép-Laoszban elterülő Nakai-fennsík egy olyan egyedülálló terület, ahol a modern technológia és az ősi természet találkozik. Egykor kiterjedt trópusi erdőségek és mocsarak borították, ám a gigantikus Nam Theun 2 vízerőmű megépülése után a plató jelentős része egy óriási mesterséges tóvá alakult. Annak ellenére, hogy a táj drasztikusan megváltozott, az ezt körülölelő Nakai-Nam Theun Nemzeti Park továbbra is a bolygó egyik legfontosabb biodiverzitási forrópontja. Ezek a hegyvidéki dzsungelek rejtik a ritka és misztikus szaolát, az úgynevezett ázsiai unikornist. A terület a természeti erőforrások kihasználásának és védelmének összetett példája. Természettudomány K8 — Vízenergia.",
+      "factsAdvanced": [
+        "A 2010-ben átadott Nam Theun 2 vízerőmű központi területe.",
+        "Az újonnan kialakított víztározó közel 450 négyzetkilométert fed le.",
+        "A kritikusan veszélyeztetett szaola antilop fő élőhelye.",
+        "Khammouane tartomány keleti, hegyvidéki részén található.",
+        "A plató a Nam Theun Nemzeti Védett Terület határán fekszik.",
+        "Az itt termelt áram jelentős részét Thaiföldre exportálják."
+      ]
+    },
+    {
+      "id": "phou-khoun-pass-relief-v2",
+      "descriptionAdvanced": "A Phu Khun-hágó egy stratégiai jelentőségű, magasan fekvő hegyi útvonal, amely Észak-Laosz vad szikláin vág keresztül. Az ezerháromszáz méteres magasságban kanyargó út gyakran sűrű felhőkbe burkolózik, pereméről pedig szédítő kilátás nyílik a mélybe zuhanó völgyekre. Ez az aszfaltozott hegyi gerinc köti össze az egykori királyi várost, Luang Prabangot a fővárossal, Vientiane-nal, ami létfontosságú gazdasági és kereskedelmi ütőérré teszi. Az éles hajtűkanyarok és a meredek lejtők próbára teszik az utazókat. A hágó mentén apró hmong falvak sorakoznak, amelyek a tranzitforgalomból és a teraszos mezőgazdaságból tartják fenn magukat. Földrajz K5 — Közlekedési hálózatok.",
+      "factsAdvanced": [
+        "Körülbelül 1300 méteres tengerszint feletti magasságban kanyarog.",
+        "Luang Prabang, Vientiane és Xiangkhoang tartományokat köti össze.",
+        "A történelmi 13-as számú főút egyik legkritikusabb szakasza.",
+        "Gyakori köd és extrém éles hajtűkanyarok jellemzik a szakaszt.",
+        "Kereskedelmi csomópont a környező hegyvidéki hmong törzseknek.",
+        "Panorámás kilátást nyújt a laoszi mészkőhegységek láncolataira."
+      ]
+    },
+    {
+      "id": "nam-ha-valley-relief-v2",
+      "descriptionAdvanced": "A Nam Ha-völgy egy érintetlen természeti paradicsom Laosz északnyugati szegletében, Luang Namtha tartomány sűrű hegyei között. A rohanó Nam Ha folyó által kivájt völgy a híres Nam Ha Nemzeti Park központja, amely az ázsiai ökoturizmus egyik sikertörténete. A meredek, dzsungellel borított hegyoldalak alatt az utazók többnapos túrákon fedezhetik fel a vadont, amely ködfoltos párducoknak, ázsiai fekete medvéknek és makákóknak ad menedéket. A folyóparti apró településeken élő őslakosok szorosan együttműködnek a természetvédelemmel, fenntartható módon használva a völgy gazdag bambusz- és gyógynövényforrásait. Biológia K7 — Természetvédelem.",
+      "factsAdvanced": [
+        "A 2224 négyzetkilométeres Nam Ha Nemzeti Park szíve.",
+        "A völgyet átszelő Nam Ha folyó a Mekong fontos mellékága.",
+        "Az ASEAN országok kiemelt természeti örökségi parkjává nyilvánították.",
+        "Délkelet-Ázsia egyik úttörő közösségi ökoturisztikai régiója.",
+        "Veszélyeztetett ázsiai ragadozóknak és ritka főemlősöknek ad otthont.",
+        "Több tucat őslakos falu épült a folyó menti keskeny sávokra."
+      ]
+    },
+    {
+      "id": "phou-ane-relief-v2",
+      "descriptionAdvanced": "A Phu Ane hegytömb egy áthatolhatatlan természeti bástya Dél-Laoszban, Attapeu tartomány határvidékén. A monumentális Annamite-hegység déli nyúlványaként ez a hegység természetes falként tornyosul Laosz és Vietnam között. Lejtőit sűrű, ősi trópusi esőerdő takarja, amely az esős évszakban szinte állandó ködbe burkolózik. A zord és megközelíthetetlen domborzat miatt a régió mentes maradt a modern emberi beavatkozásoktól, így a terület az ázsiai vadon élővilágának egyik legtisztább szentélye. A 20. század konfliktusai idején ezek a rejtett hegyi ösvények titkos utánpótlási vonalakként szolgáltak a fák sűrű árnyékában. Földrajz K8 — Határhegységek.",
+      "factsAdvanced": [
+        "Az Annamite-hegységlánc kiterjedt déli szakaszának része.",
+        "A délkeleti Attapeu tartomány elzárt, sűrűn erdősült régiójában magasodik.",
+        "Természetes és nehezen átjárható földrajzi határt képez Vietnammal.",
+        "A növényzetet dominánsan az örökzöld trópusi esőerdők alkotják.",
+        "A 20. századi háborúk során rejtett katonai útvonalak keresztezték.",
+        "Dél-Laosz egyik biológiailag legkevésbé feltérképezett területe."
+      ]
+    },
+    {
+      "id": "plain-of-jars-relief-v2",
+      "descriptionAdvanced": "A Kancsók síksága Laosz legtitokzatosabb és leglenyűgözőbb régészeti területe, amely a Xiangkhoang-fennsík zöldellő lankáin terül el. A hatalmas, nyílt mezőkön több ezer gigantikus, kőből faragott edény hever, amelyek közül néhány a három méteres magasságot és a tizennégy tonnás súlyt is eléri. A kutatók szerint ezeket a megalitikus struktúrákat több mint kétezer évvel ezelőtt használták összetett vaskori temetkezési rituálékhoz. Bár a terület az indokínai háború idején a történelem egyik leghevesebb bombázásán esett át, a kőkancsók csodával határos módon fennmaradtak. A helyszín 2019-ben hivatalosan is felkerült az UNESCO Világörökség listájára. Történelem K6 — Régészet.",
+      "factsAdvanced": [
+        "Több mint 90 különálló kőkancsós régészeti lelőhelyből áll.",
+        "A legmasszívabb kőedények súlya eléri a lenyűgöző 14 tonnát.",
+        "Az edények kora a vaskorra (i. e. 500 – i. sz. 500) tehető.",
+        "A terület 2019-ben elnyerte az UNESCO Világörökség címet.",
+        "Feltehetően ősi, komplex temetkezési szertartásokhoz használták őket.",
+        "A fennsíkot a vietnámi háború alatt rendkívül hevesen bombázták."
+      ]
+    },
+    {
+      "id": "phongsali-highlands-relief-v2",
+      "descriptionAdvanced": "A Phongsali-felföld Laosz legészakibb csücskében fekszik, egy rendkívül elszigetelt, hegyvidéki ék, amelyet Kína és Vietnam ölel körbe. A több mint ezerötszáz méteres magasságban húzódó gerincek éles szurdokokkal és örökzöld erdőkkel tarkítottak. Az itteni hűvös, hegyvidéki klíma ideális a teatermesztéshez; a régióban található ősöreg pu-erh teafák némelyike a négyszáz éves kort is eléri. A földrajzi elzártság páratlan kulturális sokszínűséget őrzött meg, a meredek hegyoldalakon több tucat sino-tibeti kisebbség él hagyományos faházakban. Ez a misztikus vidék a laoszi természet és a hegyi törzsek harmonikus együttélésének szimbóluma. Földrajz K7 — Kultúrtájak.",
+      "factsAdvanced": [
+        "Átlagos magassága meghaladja az 1500 métert a tengerszint felett.",
+        "Közvetlen és hosszú határszakaszon osztozik a kínai Yunnan tartománnyal.",
+        "Híres az ősi, akár 400 éves pu-erh teafáiról és teatermesztéséről.",
+        "Több mint 20 különböző sino-tibeti etnikai kisebbség lakóhelye.",
+        "Éghajlata sokkal hűvösebb és csapadékosabb, mint Laosz többi részén.",
+        "Kizárólag meredek, nehezen járható szerpentinutakon közelíthető meg."
+      ]
+    },
+    {
+      "id": "mekong-river-valley-vientiane-relief-v2",
+      "descriptionAdvanced": "A Vientiane körüli Mekong-völgy egy kiterjedt, lapos alluviális síkság, amelyet a hatalmas folyó évezredes hordaléklerakódása formált ilyenné. Ez a gazdag, termékeny ártér Laosz legfontosabb mezőgazdasági központja, ahol a rizsföldek, zöldségeskertek és trópusi gyümölcsösök végtelen zöld szőnyegként terülnek el. A szélesen és nyugodtan hömpölygő Mekong itt nemcsak az élet forrása, hanem a természetes államhatár is Thaifölddel. A völgy sík domborzata tette lehetővé, hogy Vientiane a nemzet legnagyobb és legfejlettebb városává nője ki magát. Naplementekor a folyó tükörsima vize aranysárga fénybe borítja a főváros partmenti sétányait. Földrajz K5 — Folyami síkságok.",
+      "factsAdvanced": [
+        "A Mekong folyó évezredes, tápanyagban gazdag hordaléka hozta létre.",
+        "Laosz legkiterjedtebb és legtermékenyebb rizstermelő vidéke.",
+        "A főváros, Vientiane közvetlenül ennek a széles síkságnak a szívében épült.",
+        "A folyóvölgy képezi a hivatalos határvonalat Laosz és Thaiföld között.",
+        "Kritikus szerepet játszik a régió intenzív árasztásos rizstermesztésében.",
+        "Az Első Thai–Lao Barátság Hídja köti össze a túlparttal."
+      ]
+    },
+    {
+      "id": "khammouane-karst-relief-v2",
+      "descriptionAdvanced": "A Khammouane-karsztvidék Közép-Laosz egyik legelképesztőbb geológiai csodája, amely függőleges mészkőoszlopok és áthatolhatatlan dzsungelek végtelen labirintusából áll. A vizió-szerű hegyvonulatokat évmilliók esőzései formálták, olyan gigantikus földalatti barlangrendszereket hozva létre, amelyek egyedülállóak Délkelet-Ázsiában. A leghíresebb a hét kilométer hosszú Kong Lor-barlang, amelynek sötét termeiben egy teljesen hajózható földalatti folyó kanyarog. A meredek, gyakran száz méteres sziklafalak olyan endemikus majom- és denevérfajoknak nyújtanak oltalmat, amelyek sehol máshol nem találhatók meg a világon. Egy igazi elveszett világ, amely vonzza a felfedezőket. Természettudomány K8 — Geológia.",
+      "factsAdvanced": [
+        "A formációkat ősi, erodált mészkőoszlopok és hegygerincek alkotják.",
+        "A lenyűgöző, 7 kilométer hosszú, hajózható Kong Lor-barlang otthona.",
+        "A Phou Hin Poun Nemzeti Védett Terület geológiai magja.",
+        "Számos extrém ritka, kifejezetten karsztos környezethez alkalmazkodott faj él itt.",
+        "Évmilliók folyamatos víz általi eróziója alakította ki mai formáját.",
+        "A barlangászok és sziklamászók egyik legkedveltebb célpontja a régióban."
+      ]
+    },
+    {
+      "id": "phou-that-relief-v2",
+      "descriptionAdvanced": "A Phu That egy kultikus domb Bokeo tartományban, amely elegánsan emelkedik Huay Xai városa és a határfolyóként funkcionáló Mekong fölé. Bár geológiai értelemben nem számít magas hegynek, az Aranyháromszög vidékén páratlan panorámát és stratégiai kilátást biztosít a környező thaiföldi hegyekre. A dombtetőt a Wat Chomkhaou Manilat lenyűgöző arany sztúpája koronázza meg, amely a helyi buddhista közösség legszentebb imádkozóhelye. Az ide látogató zarándokok és utazók egy meredek, Naga-kígyók által őrzött lépcsősoron juthatnak fel a magasba. Alkonyatkor a dombtetőről megfigyelhető, ahogy a lemenő nap vörösre festi a folyó vizét. Történelem K6 — Szent hegyek.",
+      "factsAdvanced": [
+        "Huay Xai városában, a hírhedt Aranyháromszög szívében magasodik.",
+        "Csúcsán az 1880-ban épült Wat Chomkhaou Manilat templom található.",
+        "Központi vallási és kulturális gyülekezőhely a helyi buddhisták számára.",
+        "Lenyűgöző, akadálytalan kilátást nyújt a Mekongra és a thaiföldi partokra.",
+        "Egy hagyományos, díszes Naga-sárkányokkal szegélyezett lépcsőn közelíthető meg.",
+        "Népszerű turistacélpont a naplementék megtekintésére."
+      ]
+    },
+    {
+      "id": "sayaboury-highlands-relief-v2",
+      "descriptionAdvanced": "A Szajabuli-felföld egy különleges, hegyvidéki enklávé, amely egyedüliként fekszik teljesen a Mekong folyótól nyugatra, szorosan a thaiföldi határ mentén. A lankás dombokkal és mély völgyekkel szabdalt tájat egykor végtelen tíkfaerdők borították, melyeknek értékes fája gazdaggá tette a régiót. Ma ez a hegyvidék a laoszi vadon élő és háziasított ázsiai elefántok legnagyobb populációjának menedéke. A hatalmas kiterjedésű lombok között működik az Elefántmegőrzési Központ, amely az orvvadászoktól megmentett állatok rehabilitációján fáradozik. A völgyekben élő falusiak a meredek teraszokon főként kukoricát, pamutot és rizst termesztenek. Biológia K7 — Fajvédelem.",
+      "factsAdvanced": [
+        "Az egyetlen laoszi tartomány, amely teljes egészében a Mekongtól nyugatra fekszik.",
+        "A laoszi ázsiai elefántpopuláció mintegy 75 százalékának otthona.",
+        "A nemzetközileg elismert Elefántmegőrzési Központ működési területe.",
+        "Történelmileg híres volt a rendkívül értékes tíkfaerdőiről.",
+        "Több mint 600 kilométer hosszan osztozik a határon Thaifölddel.",
+        "A dombvidéki lakosság nagyrészt teraszos földművelésből él."
+      ]
+    },
+    {
+      "id": "nam-ngum-reservoir-valley-relief-v2",
+      "descriptionAdvanced": "A Nam Ngum-völgy Vientiane-tól északra drámai átalakuláson ment keresztül az 1970-es években, amikor a Nam Ngum gát megépítésével elárasztották a medencét. Az egykori mély, őserdővel borított völgyből Laosz legnagyobb kiterjedésű, mesterséges tava született. A vízszint megemelkedése nyomán az egykori hegycsúcsok több száz apró, sűrűn benőtt szigetté alakultak, melyek zöld smaragdként pöttyözik a kék víztükröt. A kétszázötven négyzetkilométeres víztározó nemcsak a főváros és Északkelet-Thaiföld energiaellátásáért felel, hanem egy teljesen új ökoszisztémát is teremtett. A partmenti halászfalvak ma a tó gazdag halállományából és az ide látogató ökoturistákból élnek. Természettudomány K8 — Víztározók.",
+      "factsAdvanced": [
+        "A hatalmas Nam Ngum-gát 1971-es megépítésével jött létre.",
+        "A tó vízfelszíne megközelítőleg 250 négyzetkilométert foglal el.",
+        "Laosz legnagyobb területű, egybefüggő állóvizeként tartják számon.",
+        "Több száz apró sziget tagolja, amelyek eredetileg magas hegycsúcsok voltak.",
+        "Kiemelkedően fontos vízenergia-termelő központ Laosz és Thaiföld számára.",
+        "Az édesvízi halászat és a hétvégi turizmus egyik legfőbb bázisa."
+      ]
+    },
+    {
+      "id": "annamite-range-laos-relief-v2",
+      "descriptionAdvanced": "Az Annamite-hegység egy ezer kilométernél is hosszabb, áthatolhatatlan természeti fal, amely Laosz és Vietnam között húzódik. A felhőkbe nyúló, meredek csúcsokat egész évben nedves, trópusi monszunerdő fedi, amely bolygónk egyik legősibb, érintetlen ökoszisztémája. A terület globális jelentőségű biodiverzitási központ, ahol a tudósok még a közelmúltban is nagytestű emlősöket fedeztek fel, mint például a szaolát vagy a laoszi sziklapatkányt. A hegyvidék zord domborzata évszázadokig visszatartotta a hódítókat, a 20. században pedig ez a sűrű vadon rejtette a híres Ho Si Minh-ösvény hálózatát. Az erdők gigantikus szénraktárként működve védik a régió klímáját. Biológia K8 — Hegyi erdőségek.",
+      "factsAdvanced": [
+        "Több mint 1100 kilométer hosszan ível Laosz keleti határvonala mentén.",
+        "A helyiek gyakran Truong Son-hegység néven említik.",
+        "Itt emelkedik a Phu Bia, amely az egész ország legmagasabb pontja.",
+        "A Föld egyik legfontosabb, máig felfedezetlen fajokat rejtő ökoszisztémája.",
+        "A vietnámi háború alatt a titkos Ho Si Minh-ösvény kulcsfontosságú szakasza volt.",
+        "Szinte kizárólag sűrű, csapadékos trópusi monszunerdő borítja."
+      ]
+    },
+    {
+      "id": "luang-prabang-range-relief-v2",
+      "descriptionAdvanced": "A Luang Prabang-hegység egy lenyűgöző gyűrődéses hegylánc, amely Északnyugat-Laosz és Észak-Thaiföld határvidékét dominálja. A masszív, nagyrészt gránitból és homokkőből álló gerincek természetes vízválasztóként funkcionálnak a hatalmas Mekong és a thaiföldi Nan folyó vízgyűjtői között. A kétezer méterig magasodó csúcsokat trópusi lombhullató erdők és mély, nehezen járható szurdokok tagolják, amelyekben ősi hegyi törzsek élnek a modern világtól elzárva. A hegység hatalmas tömege pajzsként működik, befolyásolva a történelmi királyi főváros, Luang Prabang mikroklímáját azáltal, hogy felfogja a monszun esőfelhőit. Földrajz K7 — Hegyképződés.",
+      "factsAdvanced": [
+        "Fontos geológiai vízválasztó a Mekong és a Nan folyó rendszerei között.",
+        "A thaiföldi határtól mélyen benyúlik Laosz északnyugati vidékeire.",
+        "Kőzetanyagát nagyrészt ősi gránit- és homokkőformációk alkotják.",
+        "Legmagasabb ormai elérik a 2079 méteres tengerszint feletti magasságot.",
+        "Meredek oldalait értékes tíkfák és trópusi lombhullató erdők borítják.",
+        "Nevét a közeli ősi királyi városról, Luang Prabangról kapta."
+      ]
+    },
+    {
+      "id": "phou-loei-massif-relief-v2",
+      "descriptionAdvanced": "A Phu Loei-masszívum egy monumentális hegytömb, amely a Nam Et-Phou Louey Nemzeti Park szívét adja Északkelet-Laosz sűrű vadonjában. A név beszédes, helyi dialektusban "Örökzöld Hegyet" jelent, amely a kétezer méter feletti csúcsokat is elborító, szinte folyamatosan esőben fürdő köderdőkre utal. Ez a kiterjedt, áthatolhatatlan hegyvidék Laosz legkiemelkedőbb természetvédelmi területe, a vadon élő indokínai tigrisek és foltos párducok egyik utolsó bástyája. A lejtők olyan meredekek és az aljnövényzet olyan sűrű, hogy az emberi betelepülés szinte lehetetlen, meghagyva a tájat igazi menedéknek. A hegy óriási szivacsként szívja magába a nedvességet, táplálva a régió folyóit. Biológia K8 — Csúcsragadozók védelme.",
+      "factsAdvanced": [
+        "A központi csúcs magassága megközelíti a 2256 métert.",
+        "Az 5959 négyzetkilométeres nemzeti park domináns, központi hegyvonulata.",
+        "A helyi nyelvjárásban a neve szó szerint "Örökzöld Hegyet" jelent.",
+        "Indokína egyik utolsó menedéke a vadon élő tigrisek és párducok számára.",
+        "Állandóan nedves, trópusi hegyi köderdők sűrű hálózata fedi.",
+        "A környező völgyekbe futó Nam Et és Nam Khan folyók vízgyűjtője."
+      ]
+    }
+  ]
+}

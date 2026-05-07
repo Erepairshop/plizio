@@ -1,0 +1,81 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "phoenix-cities-v2",
+      "descriptionAdvanced": "Phoenix, the capital of Arizona, is one of the fastest-growing cities in the United States, known for its desert climate and expansive urban layout. Situated in the Salt River Valley, it has evolved into a major economic hub for technology, finance, and manufacturing. The city's unique geography features dramatic mountain ranges like the South Mountain Park, the largest municipal park in the nation. Phoenix plays a key role in the regional economy through the semiconductor and aerospace industries. The city is rich in Native American heritage, with museums such as the Heard Museum showcasing indigenous cultures of the Southwest. Geography K5 — desert biomes and urban expansion.",
+      "factsAdvanced": [
+        "Phoenix is the capital and largest city of Arizona.",
+        "The Salt River Valley, where Phoenix is located, was once inhabited by the Hohokam people.",
+        "South Mountain Park and Preserve covers over 16,000 acres, the largest municipal park in the US.",
+        "Phoenix experiences more sunshine annually than any other major metropolitan area in the U.S.",
+        "The city is a significant hub for the semiconductor and technology manufacturing sector.",
+        "The Heard Museum is renowned for its world-class collection of Native American art."
+      ]
+    },
+    {
+      "id": "philadelphia-cities-v2",
+      "descriptionAdvanced": "Philadelphia, known as the 'Birthplace of America', is the largest city in Pennsylvania and played a crucial role in the American Revolution. As the city where both the Declaration of Independence and the U.S. Constitution were signed, its historical importance is unmatched. Today, Philadelphia is a vibrant center for education, healthcare, and finance, home to major institutions like the University of Pennsylvania. The city’s historic district, including Independence Hall and the Liberty Bell, attracts millions of visitors annually. Philadelphia is also famous for its diverse neighborhoods, art scene, and iconic food, such as the cheesesteak. Geography K8 — historical geography and national foundations.",
+      "factsAdvanced": [
+        "Independence Hall was the site of the signing of the Declaration of Independence in 1776.",
+        "The Liberty Bell is a symbol of American independence, famously associated with the city's historic district.",
+        "Philadelphia was the first capital of the United States under the Articles of Confederation.",
+        "The Philadelphia Museum of Art is one of the largest art museums in the United States.",
+        "The city has one of the highest concentrations of universities and colleges in the U.S.",
+        "Philadelphia is famous for its 'Cheesesteak', a sandwich that has become a global culinary icon."
+      ]
+    },
+    {
+      "id": "san-antonio-cities-v2",
+      "descriptionAdvanced": "San Antonio, the second-most populous city in Texas, is famous for its rich colonial history, including the Alamo and the San Antonio Missions, a UNESCO World Heritage site. Located in South Texas, it serves as a major military and healthcare hub. The San Antonio River Walk, a world-renowned network of pathways and urban canals, is central to the city's tourism and social life. San Antonio’s unique blend of Mexican and Texan culture is celebrated in its festivals, food, and architecture. The city's economy is diversified across sectors like aerospace, cyber security, and tourism. Geography K7 — cultural heritage and urban development.",
+      "factsAdvanced": [
+        "The Alamo is the site of the 1836 battle for Texas independence.",
+        "The San Antonio Missions were designated a UNESCO World Heritage site in 2015.",
+        "The San Antonio River Walk connects many of the city's key historical and tourism sites.",
+        "San Antonio is known as 'Military City, USA' due to its high concentration of military bases.",
+        "The city was founded in 1718 as a Spanish mission and presidio.",
+        "San Antonio is home to the largest Mexican cultural festival in the U.S., Fiesta San Antonio."
+      ]
+    },
+    {
+      "id": "san-diego-cities-v2",
+      "descriptionAdvanced": "San Diego, a coastal city in Southern California, is known for its mild year-round climate, deep-water harbor, and beautiful beaches. It is a major center for aerospace, defense, and biotechnology, home to top research institutions like the Scripps Institution of Oceanography. San Diego's proximity to the Mexican border makes it a critical hub for international trade and cultural exchange. Key landmarks include Balboa Park, which houses the world-famous San Diego Zoo and numerous museums. The city's economy is also significantly shaped by its large naval presence and tourism. Geography K7 — coastal climate and economic specialization.",
+      "factsAdvanced": [
+        "San Diego was the first site in California visited by Europeans in 1542.",
+        "Balboa Park, established in 1868, covers 1,200 acres and includes the San Diego Zoo.",
+        "The city is a major research center for biotechnology and aerospace engineering.",
+        "The U.S. Navy and Marine Corps have a significant presence in the San Diego region.",
+        "San Diego Bay serves as a critical deep-water port for international trade and military vessels.",
+        "The city has a mild Mediterranean climate, with an average of 266 sunny days per year."
+      ]
+    },
+    {
+      "id": "dallas-cities-v2",
+      "descriptionAdvanced": "Dallas, the third-largest city in Texas, is a major economic hub for banking, commerce, and telecommunications. Located in the north of the state, it serves as the anchor of the expansive Dallas-Fort Worth metroplex. Historically, the city's growth was driven by the oil and cotton industries, but it has transitioned into a diverse, high-tech corporate center. Key landmarks include the Sixth Floor Museum at Dealey Plaza, commemorating the history of the city and the nation. Dallas is known for its modern architecture, arts district, and significant role in regional transportation. Geography K7 — urban growth and economic hubs.",
+      "factsAdvanced": [
+        "Dallas was founded in 1841 and became a major trade center due to its railroad access.",
+        "The Dallas-Fort Worth metroplex is one of the largest metropolitan areas in the U.S.",
+        "The city is a global center for telecommunications and corporate headquarters.",
+        "The Sixth Floor Museum at Dealey Plaza is dedicated to the legacy of John F. Kennedy.",
+        "Dallas has the largest urban arts district in the United States, spanning 118 acres.",
+        "Dallas Love Field and Dallas/Fort Worth International Airport are two of the region's major hubs."
+      ]
+    },
+    {
+      "id": "san-jose-cities-v2",
+      "descriptionAdvanced": "San Jose, located in the heart of Silicon Valley, is the largest city in Northern California and a global center for technology and innovation. Once an agricultural town known for fruit packing, it transformed into the epicenter of the tech industry during the late 20th century. San Jose is home to thousands of technology companies and high-tech startups, driving significant economic impact globally. The city’s demographics are exceptionally diverse, reflecting the international talent attracted to the tech sector. Key institutions, such as San Jose State University, contribute to the area's knowledge-based economy. Geography K8 — technological hubs and urban transformation.",
+      "factsAdvanced": [
+        "San Jose was the first capital of California after it became a state in 1850.",
+        "The city is considered the capital of Silicon Valley, a major hub for technology innovation.",
+        "San Jose is home to the largest Vietnamese population outside of Vietnam.",
+        "Tech giant companies such as Cisco, Adobe, and PayPal are headquartered in the San Jose area.",
+        "San Jose State University, founded in 1857, is the oldest public university in California.",
+        "The city features one of the most diverse economies in the United States, heavily focused on tech R&D."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "na-guinas-lake-nature-v2",
+    "name": "Guinas-tó",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-nylon-pool-nature-v2",
+    "name": "Nylon-medence",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-caprivi-floodplains-nature-v2",
+    "name": "Caprivi-ártér",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-chobe-river-nature-v2",
+    "name": "Chobe folyó",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-kwando-river-nature-v2",
+    "name": "Kwando folyó",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-zambezi-river-nature-v2",
+    "name": "Zambézi folyó",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-erongo-mountains-nature-v2",
+    "name": "Erongo-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "namib-desert-relief-v2",
+    "name": "Namib-sivatag",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "kalahari-desert-relief-v2",
+    "name": "Kalahári-medence",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "brandberg-mountain-relief-v2",
+    "name": "Brandberg-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "spitzkoppe-relief-v2",
+    "name": "Spitzkoppe",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "erongo-mountains-relief-v2",
+    "name": "Erongo-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "auas-mountains-relief-v2",
+    "name": "Auas-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "khomas-hochland-relief-v2",
+    "name": "Khomas-felföld",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "waterberg-plateau-relief-v2",
+    "name": "Waterberg-fennsík",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "fish-river-canyon-relief-v2",
+    "name": "Fish River kanyon",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "aus-mountains-relief-v2",
+    "name": "Aus-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "tsau-khaeb-relief-v2",
+    "name": "Tsau //Khaeb",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "huns-mountains-relief-v2",
+    "name": "Huns-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "naukluft-mountains-relief-v2",
+    "name": "Naukluft-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "tiras-mountains-relief-v2",
+    "name": "Tiras-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "muhlo-mountains-relief-v2",
+    "name": "Khomas-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "otavi-mountains-relief-v2",
+    "name": "Otavi-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "zebra-mountains-relief-v2",
+    "name": "Zebra-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "baynes-mountains-relief-v2",
+    "name": "Baynes-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "hartmann-mountains-relief-v2",
+    "name": "Hartmann-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "grootberg-relief-v2",
+    "name": "Grootberg",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "epupa-falls-relief-v2",
+    "name": "Epupa-vízesés",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "khoe-khoe-mountains-relief-v2",
+    "name": "Khoe-Khoe-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "ongongo-relief-v2",
+    "name": "Ongongo-forrás",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "palmwag-concession-relief-v2",
+    "name": "Palmwag-koncesszió",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "urichab-relief-v2",
+    "name": "Urichab-hegység",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  }
+]

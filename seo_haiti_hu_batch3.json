@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gonaives-industry-economic-v2",
+      "descriptionAdvanced": "Gonaïves az Artibonite megye székhelye, amely bár leginkább a haiti függetlenség bölcsőjeként ismert, gazdaságilag a sólepárlás és a mezőgazdasági feldolgozóipar regionális központja is. A tengerpart melletti hatalmas sós mocsarak ideális körülményeket biztosítanak a tengeri só kinyerésére, amelyet az ország egész területén értékesítenek. Emellett a város az Artibonite völgy rizstermésének fő elosztópontja; számos rizshántoló malom és raktár működik itt. Az ipari infrastruktúrát azonban súlyosan visszavetették a sorozatos természeti katasztrófák, különösen a 2004-es Jeanne és a 2008-as Hanna és Ike hurrikánok, amelyek sárlavinákkal árasztották el a várost. Ennek ellenére a helyi kereskedelem és az apróbb textilüzemek folyamatosan próbálnak talpra állni, biztosítva a város gazdasági túlélését. Földrajz K7 — sólepárlás és árvízvédelem.",
+      "factsAdvanced": [
+        "Az Artibonite megye központja, egyben történelmi függetlenségi emlékhely.",
+        "Az ország egyik legnagyobb tengeri só lepárló területe található itt.",
+        "Fontos szerepet tölt be az Artibonite-völgyben termelt rizs feldolgozásában.",
+        "A 2004-es és 2008-as katasztrofális árvizek súlyos csapást mértek az iparára.",
+        "Tengerszint feletti magassága szinte 0 méter, emiatt rendkívül sérülékeny.",
+        "Kisebb textilipari műhelyek (szabászatok) is működnek a városban."
+      ]
+    },
+    {
+      "id": "thomazeau-agri-industry-economic-v2",
+      "descriptionAdvanced": "Thomazeau egy mezőgazdasági központ az Ouest (Nyugati) megyében, a Cul-de-Sac síkság keleti peremén, az Etang Saumâtre (Azuei-tó) szomszédságában. A terület gazdasága elsősorban a cukornád termesztésére és annak helyi feldolgozására, a hagyományos clairin (rum) lepárlásra épül. A cukornád-ültetvényeket hatalmas, többnyire burkolatlan utakon megközelíthető gazdaságok alkotják, amelyeket történelmileg az ország nagybirtokos elitje felügyelt. A tó közelsége miatt az öntözés megoldott, bár a vízszint ingadozása és az egyre sósabb talajvíz kihívást jelent a gazdáknak. Thomazeau emellett fontos halászati bázis a tó édes-sós vizében fogott halak és rákok számára, amelyeket a port-au-prince-i piacokon értékesítenek. Földrajz K7 — tóvidéki gazdálkodás és talajszikesedés.",
+      "factsAdvanced": [
+        "A Cul-de-Sac síkság szélén, az Ouest megyében fekszik.",
+        "Fő iparága a cukornád feldolgozása és a clairin (haiti rum) gyártása.",
+        "Jelentős halászati bázis a szomszédos Etang Saumâtre tónál.",
+        "A klíma száraz, ezért a mezőgazdaság öntözésre szorul.",
+        "A terület domborzata sík, az átlagos tengerszint feletti magassága 20-30 méter.",
+        "A talaj sótartalmának növekedése (szikesedés) komoly kihívás a gazdáknak."
+      ]
+    },
+    {
+      "id": "milot-industry-economic-v2",
+      "descriptionAdvanced": "Milot, amely történelmileg a Sans-Souci palota és a Citadelle Laferrière révén ismert a Nord (Északi) megyében, gazdaságilag is különleges szerepet tölt be. Bár a turizmus adja a fő bevételi forrást, a város körül egy sajátos, a turizmust kiszolgáló kézműves és agráripari zóna alakult ki. A helyiek hagyományos módszerekkel állítanak elő ajándéktárgyakat, fafaragásokat és festményeket a látogatóknak. Továbbá a környező, termékeny hegyoldalakon intenzív kávé- és kakaótermesztés folyik. A termények egy részét helyben, kis üzemekben dolgozzák fel, hogy prémium kézműves termékként értékesítsék a turistáknak. Ez a mikrogazdaság kiváló példája annak, hogyan integrálható a kulturális örökségvédelem és a helyi agráripar. Sachkunde K6 — turizmus és kézműves ipar.",
+      "factsAdvanced": [
+        "A Nord megyében található, a Citadelle nemzeti park kapuja.",
+        "A helyi gazdaság nagymértékben a turizmusra és a kapcsolódó szolgáltatásokra épül.",
+        "Jelentős a fafaragásokat és ajándéktárgyakat előállító kézműves szektor.",
+        "Környezetében magas minőségű árnyékban termesztett kávét és kakaót termelnek.",
+        "A helyi kisüzemek a prémium piacot (turistákat) célozzák meg termékeikkel.",
+        "Az UNESCO világörökségi státusz miatt a nagyipari fejlesztések korlátozottak."
+      ]
+    },
+    {
+      "id": "mirebalais-energy-economic-v2",
+      "descriptionAdvanced": "Mirebalais az Artibonite folyó felső folyásánál, a Centre (Középső) megyében fekszik, és kiemelt jelentőséggel bír Haiti energia- és egészségügyi infrastruktúrájában. A közelben található Peligre vízierőmű történelmileg meghatározta a régiót, de maga Mirebalais a 21. századi napenergia-hasznosítás úttörőjévé vált. Itt épült fel a Partners In Health által fenntartott Hôpital Universitaire de Mirebalais (HUM), amely 2013-as megnyitásakor a világ legnagyobb napenergiával működő kórháza volt. A kórház tetején elhelyezett több mint 1800 napelem nemcsak az intézményt látja el megbízható árammal, hanem a többletenergiát visszatáplálja a nemzeti hálózatba. Ez a modell bebizonyította, hogy a megújuló energiaforrások képesek áthidalni a haiti áramellátás krónikus hiányosságait. Földrajz K8 — megújuló energia a fejlődő országokban.",
+      "factsAdvanced": [
+        "A Centre (Középső) megyében, az Artibonite-folyó völgyében helyezkedik el.",
+        "Itt található az ország legmodernebb egészségügyi intézménye (HUM).",
+        "A kórházat több mint 1800 napelem látja el tiszta, megújuló energiával.",
+        "A rendszer többletkapacitása csatlakozik a nemzeti elektromos hálózathoz (EDH).",
+        "A napenergia-projekt mérföldkő volt a haiti zöld energia infrastruktúrában.",
+        "A régió hagyományos energiaforrása az 1950-es években épült közeli Peligre-gát."
+      ]
+    },
+    {
+      "id": "les-cayes-manufacturing-economic-v2",
+      "descriptionAdvanced": "Les Cayes a déli félsziget gazdasági központja, ahol a mezőgazdasági javak mellett a könnyűipar és a feldolgozóipar is jelen van. A város ipari övezetében számos olyan vállalat működik, amely az építőanyagok (betonblokkok, mész), valamint az alapvető fogyasztási cikkek előállítására specializálódott. Kiemelkedő a vetiver – egy illóolajat adó trópusi fűféle – feldolgozása; Haiti a világ egyik legnagyobb vetiverolaj-exportőre, és a lepárlóüzemek jelentős része Les Cayes környékén, a környező hegyoldalakon termesztett fűhöz közel található. Ez az iparág létfontosságú külföldi valutát hoz az országnak és több ezer földművesnek biztosít megélhetést. A város feldolgozóipara folyamatosan küzd az áramkimaradások és az infrastruktúra hiányosságai ellen. Földrajz K8 — illóolaj-export és könnyűipar.",
+      "factsAdvanced": [
+        "Haiti a világ vezető vetiverolaj-exportőre, amelynek központja a Les Cayes-i régió.",
+        "A városban több vetiver-lepárló üzem és esszencia-feldolgozó működik.",
+        "Az ipar fontos ágazata még az építőanyagok (beton, mész) gyártása.",
+        "A helyi gyártás csökkenti a déli régió Port-au-Prince-től való függését.",
+        "A vetiver-gyökeret a környező dombok teraszos parcelláin termesztik.",
+        "A gyárak gyakran generátorokra kényszerülnek a megbízhatatlan állami áramhálózat miatt."
+      ]
+    },
+    {
+      "id": "cabaret-cement-economic-v2",
+      "descriptionAdvanced": "Cabaret, az Ouest megyében, a Route Nationale 1 (RN1) mentén, a haiti építőipar egyik legfontosabb bázisa, köszönhetően a gazdag mészkőlelőhelyeknek és a közeli cementgyáraknak. Évtizedeken át az állami tulajdonú Ciment d'Haïti komplexuma uralta a tájat, azonban a létesítmény a 90-es évek végére technikai és politikai okokból csődbe ment. Később nemzetközi és helyi magántőke bevonásával új, modern őrlő- és csomagolóüzemek (pl. a Cimenterie Nationale - CINA) vették át a szerepet. Mivel az ország teljes cementigényét a helyi klinkergyártás nem tudja fedezni, a komplexum gyakran külföldről importált nyersanyagot dolgoz fel. Ez az ipari zóna hatalmas por- és zajszennyezéssel jár, ami állandó kihívást jelent a környező lakosság és az ökológiai egyensúly számára. Földrajz K8 — építőanyag-ipar és környezeti ártalmak.",
+      "factsAdvanced": [
+        "Cabaret az Ouest megye fő építőanyag-ipari csomópontja.",
+        "Itt működik a Cimenterie Nationale (CINA), az ország egyik legnagyobb cementüzeme.",
+        "A régi, állami Ciment d'Haïti gyár bezárása után a terület magánkézbe került.",
+        "A gyártás sok esetben importált klinker őrlésén és csomagolásán alapul.",
+        "A cementipar nagymértékben hozzájárul a helyi por- és légszennyezéshez.",
+        "Az ipari létesítmények a Port-au-Prince-t északkal összekötő RN1 út mentén találhatók."
+      ]
+    },
+    {
+      "id": "petion-ville-commerce-economic-v2",
+      "descriptionAdvanced": "Pétion-Ville a Port-au-Prince fölötti hegyoldalakon elterülő elit külváros, amely a 2010-es földrengés után Haiti de facto kereskedelmi, pénzügyi és szórakoztatóipari központjává vált. Mivel a belváros nagyrészt romba dőlt, a bankok, nemzetközi szervezetek, nagykövetségek és a multinacionális vállalatok székhelyei átköltöztek ide. A területet modern szállodák, szupermarketek, butikok és magas kategóriás éttermek jellemzik, éles kontrasztot alkotva az ország nagy részét sújtó mélyszegénységgel. A városrész gazdasága erősen támaszkodik a külföldi segélymunkások, diplomaták és a haiti diaszpóra költéseire. A gyors urbanizáció azonban komoly forgalmi dugókat és infrastrukturális (víz, csatornázás) feszültségeket okozott a meredek, szűk utakon. Földrajz K8 — urbanizációs tőkekoncentráció és elit negyedek.",
+      "factsAdvanced": [
+        "A főváros fölötti hegyvidéken, az Ouest megyében helyezkedik el.",
+        "A 2010-es földrengés után a nemzeti üzleti és pénzügyi szektor ide költözött.",
+        "Az ország legtöbb luxusszállodája és modern bevásárlóközpontja itt található.",
+        "Gyakori székhelye a nemzetközi NGO-knak és a nagykövetségeknek.",
+        "Tengerszint feletti magassága kb. 400 méter, klímája hűvösebb a belvárosénál.",
+        "A túlzsúfoltság miatt az ingatlankezelés és a forgalomszervezés kritikus probléma."
+      ]
+    },
+    {
+      "id": "saint-michel-agri-economic-v2",
+      "descriptionAdvanced": "Saint-Michel-de-l'Attalaye agráripari zónája (Artibonite megye) Haiti legfontosabb cukornád-feldolgozó és rumkészítő központja. A kiterjedt síkság termékeny talaja ideális a 'kann' (cukornád) termesztésére. A terület gazdaságát tucatnyi kisebb-nagyobb kézműves lepárló (guildive) dominálja, ahol az országosan ismert, magas alkoholtartalmú 'clairin' készül. A gyártási folyamat generációk óta szinte változatlan: a nádat állati (öszvér) erővel vagy kis motoros prést használva zúzzák össze, majd a levet vadélesztővel, tölgyfahordókban vagy fém tartályokban erjesztik, és egyszerű rézüstökben párolják le. Az utóbbi időben nemzetközi italforgalmazók is felfedezték a Saint-Michel-i clairin egyedi terroir-ját, ami megnyitotta az utat az export előtt, bár a termelés továbbra is erősen tradicionális maradt. Földrajz K7 — tradicionális agráripar és export-terroir.",
+      "factsAdvanced": [
+        "Az Artibonite megye szívében, ideális klímájú cukornádtermő területen fekszik.",
+        "A település a kézműves 'clairin' (haiti rum) elsőszámú termelője.",
+        "A feldolgozást hagyományos családi lepárlók (guildives) végzik.",
+        "A cukornád levét gyakran állati vontatású prést (moulin) használva nyerik ki.",
+        "A közelmúltban a helyi clairin prémium termékként megjelent az európai piacon is.",
+        "A folyamat környezetbarát, mivel a kipréselt nádtörmeléket (bagasse) fűtőanyagként használják."
+      ]
+    },
+    {
+      "id": "limonade-tech-economic-v2",
+      "descriptionAdvanced": "Limonade a Nord (Északi) megyében, Cap-Haïtien közelében, Haiti egyik formálódó technológiai és oktatási központja. A gazdasági fellendülés motorja a Roi Henri Christophe Egyetem campusza, amelyet a dominikai kormány adományozott a 2010-es földrengés után, és 2012-ben nyílt meg. Az egyetem létrejötte mágnesként vonzza a környékre a telekommunikációs szolgáltatásokat, az informatikai képzéseket és a diákokat kiszolgáló kisvállalkozásokat. Ez az edukációs központ része a kormányzat szélesebb 'északi pólus' fejlesztési stratégiájának, amely a közeli Caracol Ipari Parkkal együtt hivatott fellendíteni a régiót. Bár az igazi szilícium-völgyi technológiai startup szektor még gyerekcipőben jár Haitin, Limonade campusa biztosítja a legfontosabb alapot: a képzett, modern technológiákhoz értő fiatal munkaerőt. Földrajz K8 — oktatási beruházások és regionális fejlesztés.",
+      "factsAdvanced": [
+        "A Nord megyében található, a stratégiai fontosságú Cap-Haïtien és Caracol között.",
+        "Itt épült fel a modern, 10 ezer diákot befogadó Roi Henri Christophe Egyetem.",
+        "A campust a Dominikai Köztársaság finanszírozta a földrengés utáni segély részeként.",
+        "Az egyetem jelentősen fellendítette a helyi IT, telekommunikációs és szolgáltató szektort.",
+        "A campus a haiti technológiai decentralizáció központi pillére.",
+        "A település történelmileg mezőgazdasági (citrusfélék, banán) terület volt."
+      ]
+    },
+    {
+      "id": "jacmel-port-economic-v2",
+      "descriptionAdvanced": "Jacmel kikötője a Sud-Est (Délkeleti) megye kulturális és kereskedelmi bejárata, amely a Karib-tenger egyik gyönyörű, mély öblében fekszik. A 19. század végén ez a kikötő volt az ország kávéexportjának egyik legfontosabb csomópontja; a kávébárók gazdagságát ma is tükrözik a város díszes, öntöttvas erkélyes történelmi épületei. Bár a nagy teherhajó-forgalom a 20. század folyamán Port-au-Prince-be helyeződött át, a jacmeli kikötő még mindig vitalitással bír a parti hajózás (cabotage) és a turizmus terén. Az utóbbi években a kormány és nemzetközi partnerek (köztük Venezuela) igyekeztek fejleszteni az infrastruktúrát, hogy Jacmel képes legyen fogadni a karibi óceánjáró luxushajókat, kiaknázva a város egyedülálló művészeti és fesztivál (karnevál) vonzerejét. Földrajz K7 — történelmi kikötők és kulturális turizmus.",
+      "factsAdvanced": [
+        "A Sud-Est (Délkeleti) megye adminisztratív és kulturális fővárosának kikötője.",
+        "A 19. században Haiti egyik vezető kávéexportáló központja volt.",
+        "Építészeti örökségét az egykori kikötői kereskedelem gazdagsága finanszírozta.",
+        "Ma leginkább parti kishajók és helyi halászok használják.",
+        "Folyamatban lévő fejlesztési tervek célozzák a nemzetközi sétahajók (cruise) fogadását.",
+        "A tengerparti sétány (Boulevard du Bord de Mer) turisztikai és gazdasági fókuszpont."
+      ]
+    },
+    {
+      "id": "anse-a-galets-port-economic-v2",
+      "descriptionAdvanced": "Anse-à-Galets kikötője a Gonâve-sziget (Île de la Gonâve) mentőöve, az a kritikus tengeri csomópont, amely összeköti az elszigetelt szigetet a haiti szárazfölddel. A kikötő élete mindennap kora hajnalban kezdődik, amikor tucatnyi faszénnel, kecskékkel és helyi terményekkel (mint a kukorica vagy a tengeri só) megrakott színes vitorlás és motorcsónak indul útnak Arcahaie vagy Port-au-Prince felé. Visszafelé ezek a hajók hozzák a sziget számára nélkülözhetetlen ivóvizet, építőanyagot, benzint és feldolgozott élelmiszert. A kikötő hivatalos infrastruktúrája szinte nem is létezik; a ki- és berakodás egy sekély, betonozott rámpánál történik, gyakran derékig érő vízben gázoló rakodómunkások segítségével. A kikötő fejlesztése a szigeti gazdaság fellendítésének alapfeltétele lenne. Földrajz K6 — szigeti logisztika és informális tengerészet.",
+      "factsAdvanced": [
+        "A Gonâve-sziget legnagyobb városa és adminisztratív központja.",
+        "Kizárólag tengeri úton köti össze a 80 ezer fős szigetet a szárazfölddel.",
+        "A legfőbb exportcikk, amely itt áthalad, a faszén és a tengeri só.",
+        "Az importáruk között az ivóvíz és az építőanyag a legkritikusabb.",
+        "A hajóforgalmat hagyományos fahajók (chaloupes) és csónakok bonyolítják.",
+        "A megfelelő mélyvízi mólók és modern kikötői eszközök teljesen hiányoznak."
+      ]
+    },
+    {
+      "id": "port-margot-fishing-economic-v2",
+      "descriptionAdvanced": "Port-Margot egy csendes, folyótorkolati és tengerparti város a Nord (Északi) megyében, amelynek gazdasága évezredek óta a tengerre és a környező vizes élőhelyekre támaszkodik. A helyi halászok kis, fatörzsből vájt kenukat (bwa fouye) és egyszerű vitorlásokat használnak, hálókkal és varsákkal halászva a part menti vizekben. A zsákmány, amely főként sügérből, homárból és karibi kagylófélékből áll, nemcsak a helyi piacokat látja el, hanem a közeli Cap-Haïtien éttermeit is. Emellett a Margot-folyó torkolatvidékén és a mangroveerdőkben rákászat és kagylógyűjtés folyik. Az éghajlatváltozás miatti tengerszint-emelkedés és a túlhalászás komoly veszélyt jelent a fenntartható gazdálkodásra, ezért a helyi közösségek egyre inkább a halvédelmi zónák kialakításán fáradoznak. Sachkunde K5 — hagyományos halászat és ökológiai egyensúly.",
+      "factsAdvanced": [
+        "A Nord (Északi) megye Borgne járásában található.",
+        "A gazdaság alapját a kisipari, hagyományos módszerekkel történő halászat adja.",
+        "A leggyakoribb hajótípus a fatörzsből faragott haiti kenu.",
+        "A zsákmány jelentős része a Cap-Haïtien-i piacokra és szállodákba kerül.",
+        "A Margot-folyó torkolata fontos rák- és kagylógyűjtő hely.",
+        "A területen a mangrovék védelme kulcsfontosságú a halak szaporodása szempontjából."
+      ]
+    },
+    {
+      "id": "miragoane-industrial-zone-economic-v2",
+      "descriptionAdvanced": "A Miragoâne ipari zónája (Nippes megye) történelmi emlékeztetője Haiti múltbeli nyersanyagkitermelő korszakának, és a modern alternatívák keresésének színtere. Az 1950-es években az amerikai Reynolds cég hatalmas bauxit (alumíniumérc) bányászati és rakodási infrastruktúrát épített ki az öböl környékén, beleértve silókat, futószalagokat és erőműveket. Amikor a vállalat az 1980-as évek elején, a készletek kimerülése és a magas adók miatt elhagyta az országot, a létesítmények rozsdásodásnak indultak. Ma a zónában szerényebb ipari tevékenység zajlik: kisebb cementcsomagoló üzemek, fémhulladék-gyűjtő telepek és gépjármű-importtal foglalkozó logisztikai bázisok működnek itt. A terület környezeti kármentesítése – a visszamaradt vörösiszap és ipari hulladék kezelése – még mindig várat magára. Földrajz K8 — az extenzív bányászat ipari és ökológiai öröksége.",
+      "factsAdvanced": [
+        "A Nippes megye központjában, a Miragoâne-öböl nyugati részén fekszik.",
+        "1956 és 1982 között a karibi térség egyik legfontosabb bauxit-exportáló állomása volt.",
+        "Az ipari létesítményeket eredetileg az amerikai Reynolds Metals Company építette.",
+        "Ma az infrastruktúra romos, néhány kisebb logisztikai és hulladéküzem használja.",
+        "A bányászatból visszamaradt 'vörösiszap' (bauxitmaradvány) ökológiai nyomokat hagyott.",
+        "A kikötői adottságok miatt a zóna ma a gépjármű-import egyik fő központja."
+      ]
+    },
+    {
+      "id": "carrefour-commerce-economic-v2",
+      "descriptionAdvanced": "Carrefour, az Ouest megye és a Port-au-Prince-i metropolisz délnyugati kapuja, Haiti egyik legnyüzsgőbb kereskedelmi központja. Földrajzi fekvése miatt – mivel az ország déli félszigetéről (Sud, Nippes, Grand'Anse megyék) érkező összes szárazföldi forgalom itt, a Route Nationale 2 (RN2) szűk keresztmetszetén halad át – hatalmas elosztó piaccá vált. Az utak mentén kilométereken át sorakoznak az informális árusok, a raktárak, a gépkocsi-alkatrész boltok és a nagykereskedelmi depók, amelyek a vidéki mezőgazdasági termékeket és a városi iparcikkeket cserélik. Bár a 2010-es földrengés súlyos károkat okozott, a kereskedelmi szektor a kényszerű rugalmasságnak köszönhetően gyorsan újjáépült. Az állandó forgalmi dugók ellenére Carrefour a haiti gazdaság egyik megkerülhetetlen artériája. Földrajz K7 — tranzitkereskedelem és infrastrukturális szűk keresztmetszetek.",
+      "factsAdvanced": [
+        "Port-au-Prince délnyugati külvárosa, a déli megyék fő szárazföldi bejárata.",
+        "Központján halad át a Route Nationale 2 (RN2), ami állandó dugókat okoz.",
+        "Az ország egyik legnagyobb nyílt, informális elosztó és nagykereskedelmi piaca.",
+        "A helyi gazdaság erősen függ a tranzitforgalomtól és a logisztikai szolgáltatásoktól.",
+        "A 2010-es földrengés pusztítása után az üzleti élet nagyrészt bádogbódékban indult újra.",
+        "Jelentős központja a használt gépjárművek és alkatrészek kereskedelmének."
+      ]
+    },
+    {
+      "id": "petit-goave-port-economic-v2",
+      "descriptionAdvanced": "Petit-Goâve kikötője (Ouest megye) történelmileg Haiti egyik legrégebbi és legfontosabb kávé- és kakaóexportáló mólója volt a gyarmati és a korai függetlenségi korszakban. A város a Gonâve-öböl védett öblében fekszik. A 20. századra a nemzetközi teherforgalom Port-au-Prince-be koncentrálódott, így Petit-Goâve szerepe a regionális áruszállításra és a halászatra szűkült le. A 2010-es földrengés drámai hatással volt a kikötőre: a rengés következtében a tengerfenék beszakadt, és a meglévő móló egy része a víz alá süllyedt (lokális cunami és szubdukció jelensége). Azóta a hajózási infrastruktúra csak részlegesen állt helyre, és a kikötő ma leginkább a közeli falvakat és a Gonâve-szigetet ellátó kishajókat, valamint a parti halászflottát szolgálja ki. Geschichte K7 — a helyi kikötők földrajzi sérülékenysége.",
+      "factsAdvanced": [
+        "Az Ouest megyében, a Gonâve-öböl nyugati partvidékén fekszik.",
+        "A 18-19. században virágzó kávé- és cukorexport kikötő volt.",
+        "A 2010-es földrengés során a kikötői móló egy része a tengerbe süllyedt.",
+        "A katasztrófa során egy ritka, lokális cunami is pusztított az öbölben.",
+        "Jelenleg a helyi parti halászat (cabotage) és a szigeti ellátás központja.",
+        "A város gazdasága a kikötő hanyatlása óta a mezőgazdaságra támaszkodik."
+      ]
+    },
+    {
+      "id": "saint-louis-du-sud-port-economic-v2",
+      "descriptionAdvanced": "Saint-Louis-du-Sud kikötője a Sud (Déli) megyében egy történelmi relikvia és a helyi gazdaság szerény bázisa. A tágas, természetesen mély vizű öblöt a 18. században a francia flotta egyik legfontosabb karibi bázisaként tartották számon (Fort des Oliviers romjai ma is őrzik az öblöt). A modern érában a kikötő elvesztette jelentőségét a Les Cayes-i központ javára, és infrastrukturálisan teljesen elmaradott maradt. Nincsenek daruk vagy mélyvízi dokkok, így a forgalom kizárólag a kisméretű halászhajókra és a mangóval, rönkfával megrakott vitorlásokra korlátozódik. A környékbeli gazdák innen indítják áruikat parti hajózással a nehezen járható szárazföldi utak alternatívájaként. Az öböl nyugodt, védett vizei óriási kiaknázatlan lehetőséget jelentenének a vitorlás turizmus számára. Földrajz K6 — történelmi öblök és parti hajózás.",
+      "factsAdvanced": [
+        "A Sud (Déli) megyében található, Les Cayes-től keletre.",
+        "Természetes, kiválóan védett mélyvízi öböllel rendelkezik.",
+        "A 18. században a francia haditengerészet kulcsfontosságú támaszpontja volt.",
+        "Ma kizárólag a kisüzemi halászatot és a helyi áruszállítást szolgálja ki.",
+        "Az aszfaltozott utak hiánya miatt a helyi mezőgazdasági termékeket gyakran tengeren viszik piacra.",
+        "Nagy turisztikai potenciállal bír a vitorlázás és a jachtok számára."
+      ]
+    },
+    {
+      "id": "bainet-fishing-economic-v2",
+      "descriptionAdvanced": "Bainet (Sud-Est megye) gazdasága a meredek hegyoldalak és a tenger közelsége miatt hagyományosan két pilléren nyugszik: a kávétermesztésen és az agrárhalászaton. A tengerparti sáv lakói nap mint nap fa csónakjaikkal szállnak vízre, hogy a Karib-tengerből biztosítsák a mindennapi betevőt és a piacra szánt árut. A halászati infrastruktúra rendkívül kezdetleges; nincsenek hűtőházak vagy jéggépek, így a fogást (főleg apróhalakat, rákokat) azonnal sózni, szárítani vagy a helyi piacon frissen értékesíteni kell. Ez a frissáru-piac látja el a környező hegyvidéki falvakat fehérjével. Az utóbbi évtizedben a hurrikánok okozta partmenti pusztítások és a halállomány csökkenése egyre nehezebbé teszi a baineti halászok életét, akik egyre távolabb kényszerülnek hajózni a parttól. Sachkunde K6 — a hűtőlánc hiánya és a tradicionális halfeldolgozás.",
+      "factsAdvanced": [
+        "A Sud-Est (Délkeleti) megye azonos nevű járásközpontja.",
+        "A város közvetlenül a Karib-tenger meredek partvonalán fekszik.",
+        "Hűtőinfrastruktúra hiányában a halat frissen adják el, vagy sózzák és szárítják.",
+        "A halászat mellett a pálmafa-feldolgozás és a kávé adja a bevételeket.",
+        "A halászok tradicionális fatörzs-kenukat (bwa fouye) használnak.",
+        "A trópusi viharok és a ciklonszelek gyakran megsemmisítik a halászeszközöket."
+      ]
+    },
+    {
+      "id": "les-anglais-fishing-economic-v2",
+      "descriptionAdvanced": "Les Anglais halászati ágazata (Sud megye délnyugati partján) a Tiburon-félsziget egyik legizoláltabb és leghagyományosabb tengeri gazdasága. Az óceáni áramlatok miatt a vizek errefelé halban gazdagok, de a nyílt tengeri hullámzás gyakran veszélyes a kis, motor nélküli csónakok számára. A halászok közösségi hálózatokba tömörülnek, hogy megosszák a hálókat és a bárkákat. Különlegesség, hogy itt még él a tengeri teknősök és languszták hagyományos (bár fenntarthatósági szempontból aggályos) búvárhalászata, amelyet apáról fiúra öröklődő módszerekkel végeznek szabad tüdővel. A kifogott tengeri javak nagy részét a helyi asszonyok (Madam Sara-k) vásárolják fel, akik öszvérháton vagy régi teherautókon szállítják azokat a nagyobb hegyvidéki piacokra. Földrajz K7 — szigeti perifériák és hagyományos búvárhalászat.",
+      "factsAdvanced": [
+        "A Tiburon-félsziget délnyugati csücskében, a nyílt Karib-tenger felé nézve található.",
+        "Jellemző a szabad tüdős merüléssel történő languszta- és teknőshalászat.",
+        "A halászflotta nagyrészt motor nélküli, evezős és kis vitorlás csónakokból áll.",
+        "A kereskedelmet nagyrészt a 'Madam Sara' néven ismert női elosztók végzik.",
+        "Az elszigeteltség miatt a halat füstöléssel vagy sózással tartósítják hosszabb útra.",
+        "A viharos tenger gyakran hetekre lehetetlenné teszi a biztonságos halászatot."
+      ]
+    },
+    {
+      "id": "port-au-prince-airport-cargo-economic-v2",
+      "descriptionAdvanced": "A Toussaint Louverture Nemzetközi Repülőtér teheráru-terminálja (Cargo) Haiti légiközlekedési gazdaságának idegközpontja. Míg az ország tengeri kikötői az ömlesztett árut kezelik, a légi cargo biztosítja a nagy értékű, romlandó vagy sürgős áruk (gyógyszerek, posta, elektronikai alkatrészek, drágakövek) behozatalát és kivitelét, főleg az USA, Kanada és Európa irányába. A 2010-es földrengés után ez a létesítmény kulcsfontosságúvá vált a nemzetközi gyorssegélyek és orvosi felszerelések célba juttatásában. A terminál az elmúlt évtizedben jelentős bővítésen és biztonsági modernizáción (pl. röntgenszkennerek, modern hűtőraktárak) ment keresztül, hogy megfeleljen az amerikai TSA (Közlekedésbiztonsági Ügynökség) szigorú előírásainak. A légi teherfuvarozás dinamikája a haiti diaszpóra csomagszállítmányaira és a szerelőipari exportra épül. Földrajz K8 — nemzetközi légi logisztika és biztonsági protokollok.",
+      "factsAdvanced": [
+        "Port-au-Prince városában, a Toussaint Louverture Nemzetközi Repülőtéren található.",
+        "Az ország egyetlen olyan repülőtere, amely nagy volumenű nemzetközi teherárut kezel.",
+        "Fő profilja a gyógyszerek, sürgős csomagok és az exportra szánt textilipari minták.",
+        "2010-ben a repülőtér volt a globális segélyszállítmányok elsődleges belépési pontja.",
+        "Rendelkezik modern hűtőraktárakkal a romlandó áruk (vakcinák) számára.",
+        "Közvetlen légi hidat képez Miami és New York cargo-központjaival."
+      ]
+    },
+    {
+      "id": "fort-delpesche-history-v2",
+      "descriptionAdvanced": "A Fort Delpesche romjai a nyugati partvidéken találhatók, mintegy mementóként szolgálva a haiti függetlenségi háború viharos éveire. Ezt a kisebb erődítményt a 19. század elején, Jean-Jacques Dessalines rendeletére építették, mint a part menti védelmi láncolat egy láncszemét. Célja az volt, hogy figyelje az öblöt és megakadályozza a francia flotta esetleges visszatérését vagy partraszállási kísérleteit. Bár soha nem volt olyan grandiózus, mint a Citadelle, stratégiai pozíciója egy kiemelkedő szirten lehetővé tette a tengeri útvonalak ellenőrzését. Ma a kőfalak és a rozsdásodó ágyúk felett visszavette az uralmat a trópusi növényzet. A helyi lakosok és a történészek próbálják megóvni a maradványokat a teljes enyészettől, mivel az erőd fontos szimbóluma a függetlenség megőrzéséért vívott küzdelemnek. Geschichte K7 — posztkoloniális partvédelmi rendszerek.",
+      "factsAdvanced": [
+        "A 19. század elején, közvetlenül Haiti függetlenné válása után épült.",
+        "Jean-Jacques Dessalines építtette egy kiterjedt partvédelmi rendszer részeként.",
+        "Fő feladata a francia csapatok esetleges visszatérésének megakadályozása volt.",
+        "Anyaga főként helyi mészkő és vulkáni kőzet, amit kötőanyaggal rögzítettek.",
+        "Ma nagyrészt romos állapotban van, a természet visszahódította a területet.",
+        "Több korabeli ágyú rozsdásodó maradványa még mindig megtalálható a bástyákon."
+      ]
+    }
+  ]
+}

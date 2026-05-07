@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "la-entrada-cities-v2",
+      "descriptionAdvanced": "La Entrada, offiziell Nueva Arcadia genannt, ist eine rasch wachsende Stadt im Departement Copán, die oft als \"Das Tor zum Westen\" (La Entrada) bezeichnet wird. Sie dient als der wichtigste Verkehrsknotenpunkt für Reisen zu den weltberühmten Maya-Ruinen von Copán und in das benachbarte Guatemala. Historisch entwickelte sich die Stadt im 19. Jahrhundert um die weitläufige Hacienda San Encarnación. Heute ist sie ein pulsierendes Handelszentrum, das stark vom Kaffeeboom und dem zunehmenden Tourismusverkehr profitiert. Geografie K7 — Verkehrsknotenpunkte und Handelswege.",
+      "factsAdvanced": [
+        "Offizieller Name der Gemeinde ist Nueva Arcadia.",
+        "Wichtigster Verkehrsknotenpunkt zu den Maya-Ruinen von Copán.",
+        "Entwickelte sich historisch aus der Hacienda San Encarnación.",
+        "Erlebte ein starkes Wachstum durch den Kaffeeboom.",
+        "Liegt strategisch nahe der Grenze zu Guatemala.",
+        "Zentrum für Handel und Transport im westlichen Honduras."
+      ]
+    },
+    {
+      "id": "valle-de-angeles-cities-v2",
+      "descriptionAdvanced": "Valle de Ángeles ist ein charmantes Bergdorf nur wenige Kilometer außerhalb der Hauptstadt Tegucigalpa und eines der beliebtesten Touristenziele des Landes. Bekannt für sein angenehm kühles Klima, malerische Kopfsteinpflasterstraßen und koloniale Architektur, zieht es vor allem an Wochenenden viele Besucher an. Die Wirtschaft konzentriert sich fast ausschließlich auf den Tourismus und das traditionelle Kunsthandwerk, insbesondere Holz- und Lederarbeiten, die in zahlreichen Geschäften im Zentrum verkauft werden. Einst eine Bergbausiedlung im 19. Jahrhundert, ist es heute ein friedliches Refugium in den Bergen. Kunst und Kultur K6 — Handwerk und regionaler Tourismus.",
+      "factsAdvanced": [
+        "Beliebtes Touristenziel für Bewohner der Hauptstadt Tegucigalpa.",
+        "Zentrum für traditionelle honduranische Holz- und Lederarbeiten.",
+        "Ursprünglich im 19. Jahrhundert als kleine Bergbausiedlung gegründet.",
+        "Liegt in einem von Pinienwäldern umgebenen Tal auf über 1.300 Metern.",
+        "Die koloniale Architektur wurde in den letzten Jahrzehnten restauriert.",
+        "Beherbergt zahlreiche Kunstgalerien und lokale Restaurants."
+      ]
+    },
+    {
+      "id": "santa-rita-cities-v2",
+      "descriptionAdvanced": "Santa Rita liegt im Departement Yoro am Ufer des Río Humuya und ist eine stark landwirtschaftlich geprägte Stadt. Ein markantes historisches Merkmal ist die eiserne Brücke, die von der United Fruit Company erbaut wurde und lange Zeit das Symbol für den Bananenexport der Region war. Heute dominiert nicht mehr die Banane, sondern ausgedehnte afrikanische Palmölplantagen und Viehzucht die lokale Wirtschaft. Durch die Nähe zum Wasserkraftwerk El Cajón spielt die Region auch eine wichtige Rolle für die Energieversorgung des Landes. Wirtschaft K7 — Energieinfrastruktur und Agrarwirtschaft.",
+      "factsAdvanced": [
+        "Liegt am Ufer des Río Humuya im Departement Yoro.",
+        "Eiserne Brücke erinnert an die Ära der United Fruit Company.",
+        "Wirtschaft heute geprägt von Palmölplantagen und Viehzucht.",
+        "Liegt in relativer Nähe zum Wasserkraftwerk Francisco Morazán (El Cajón).",
+        "Gegründet in den späten 1800er Jahren.",
+        "Wichtiger Verkehrsknotenpunkt in die nördlichen Agrarregionen."
+      ]
+    },
+    {
+      "id": "potrerillos-cities-v2",
+      "descriptionAdvanced": "Potrerillos im Departement Cortés ist eine klassische Agrarstadt, die eine bedeutende Rolle während der honduranischen Eisenbahn-Ära spielte. Anfang des 20. Jahrhunderts war sie der Endpunkt der Nationalbahn, was die Stadt zu einem geschäftigen Knotenpunkt für den Warentransport vom Binnenland zum Hafen von Puerto Cortés machte. Obwohl die Züge nicht mehr fahren, profitiert Potrerillos weiterhin von seiner Lage nahe der Autobahn und dem Río Ulúa. Zuckerrohr, Bananen und die aufstrebende Maquiladora-Industrie prägen das heutige Wirtschaftsleben. Geschichte K8 — Eisenbahngeschichte und Gütertransport.",
+      "factsAdvanced": [
+        "War historisch der südliche Endpunkt der Honduranischen Nationalbahn.",
+        "Wichtiger Transportknotenpunkt zwischen dem Binnenland und Puerto Cortés.",
+        "Liegt im Departement Cortés nahe dem Fluss Ulúa.",
+        "Die lokale Wirtschaft stützt sich auf Zuckerrohr und Textilindustrie.",
+        "Wurde im 19. Jahrhundert zunächst als kleines Dorf gegründet.",
+        "Stark von Überschwemmungen durch den Río Ulúa betroffen."
+      ]
+    },
+    {
+      "id": "morazan-cities-v2",
+      "descriptionAdvanced": "Morazán, benannt nach dem honduranischen Nationalhelden Francisco Morazán, ist eine dynamische landwirtschaftliche Gemeinde im Departement Yoro. Gelegen in einem fruchtbaren Tal, ist die Stadt umgeben von großen Plantagen für Mais, Bohnen und zunehmend Palmöl. Historisch war die Region auch ein Zentrum für die Gewinnung wertvoller Edelhölzer aus den angrenzenden Bergwäldern. Die Stadt feiert jährlich farbenfrohe Patronatsfeste, die von der tief verwurzelten ländlichen Kultur der Bevölkerung zeugen. Geografie K7 — Tropische Landwirtschaft und Holzwirtschaft.",
+      "factsAdvanced": [
+        "Benannt nach General Francisco Morazán, dem Nationalhelden Zentralamerikas.",
+        "Bedeutendes Anbaugebiet für Grundnahrungsmittel wie Mais und Bohnen.",
+        "Die Forstwirtschaft war historisch ein wichtiger Wirtschaftszweig.",
+        "Liegt in einem Tal im Zentrum des Departements Yoro.",
+        "Erlebte ein starkes demografisches Wachstum durch Binnenmigration.",
+        "Gastgeber traditioneller ländlicher Patronatsfeste."
+      ]
+    },
+    {
+      "id": "talanga-cities-v2",
+      "descriptionAdvanced": "Talanga ist eine schnell wachsende Handelsstadt im Departement Francisco Morazán und liegt in einem weiten Tal auf dem Weg zum Departement Olancho. Die Stadt hat sich in den letzten Jahrzehnten von einer reinen Agrargemeinde zu einem bedeutenden Handelsknotenpunkt entwickelt. Große Rinderherden und die Käseproduktion sind weiterhin die Pfeiler der Wirtschaft, aber zunehmend siedeln sich hier auch Geschäfte und kleine Industrien an. Talanga ist bekannt für seine lebendigen Märkte, auf denen Bauern aus den umliegenden Dörfern ihre Produkte anbieten. Wirtschaft K6 — Lokale Märkte und Agrarhandel.",
+      "factsAdvanced": [
+        "Wichtiger Verkehrsknotenpunkt auf der Straße von Tegucigalpa nach Olancho.",
+        "Wirtschaftsschwerpunkt liegt auf Rinderzucht und Milchprodukten.",
+        "Entwickelte sich von einem Bauerndorf zu einer geschäftigen Handelsstadt.",
+        "Die Stadt hat zahlreiche lebhafte Bauernmärkte.",
+        "Gegründet in den frühen 1800er Jahren.",
+        "Liegt in einem flachen Tal umgeben von bewaldeten Bergen."
+      ]
+    },
+    {
+      "id": "cofradia-cities-v2",
+      "descriptionAdvanced": "Cofradía ist eine große städtische Ansiedlung, die verwaltungstechnisch zu San Pedro Sula gehört, jedoch eine eigene starke Identität bewahrt hat. Die Gemeinde liegt strategisch wichtig am Fuße des Merendón-Gebirges und auf dem Weg zu den westlichen Departements Copán und Santa Bárbara. Die Nähe zu San Pedro Sula hat dazu geführt, dass Cofradía zu einem großen Wohngebiet für Fabrikarbeiter geworden ist, beherbergt jedoch auch eigene Maquiladoras (Textilfabriken) und eine florierende Agrarindustrie im umliegenden Naco-Tal. Gesellschaft K8 — Urbanisierung und Pendlergemeinden.",
+      "factsAdvanced": [
+        "Ist ein bevölkerungsreicher städtischer Sektor der Gemeinde San Pedro Sula.",
+        "Liegt strategisch an der Autobahn zu den westlichen Departements.",
+        "Dient als großes Wohngebiet für die Industrie von San Pedro Sula.",
+        "Befindet sich am Fuße der Bergkette El Merendón.",
+        "Beherbergt mehrere große Textilfabriken (Maquiladoras).",
+        "Wichtiger Umschlagplatz für landwirtschaftliche Güter aus dem Westen."
+      ]
+    },
+    {
+      "id": "sonaguera-cities-v2",
+      "descriptionAdvanced": "Sonaguera liegt im Herzen des Aguán-Tals im Departement Colón und ist berühmt als die \"Stadt der Orangen\" (Ciudad de las Naranjas). Einst dominierten hier endlose Zitrusplantagen die Landschaft und machten Sonaguera zum Hauptproduzenten von Orangen in Honduras. Obwohl in den letzten Jahren viele dieser Plantagen durch lukrativere afrikanische Ölpalmen ersetzt wurden, bleibt die Stadt ein Zentrum der Agrarindustrie. Das jährliche Orangenfest ehrt das landwirtschaftliche Erbe der Gemeinde, die stark vom Export abhängig ist. Landwirtschaft K7 — Zitrusfrüchte und Plantagenumbau.",
+      "factsAdvanced": [
+        "Landesweit bekannt als Ciudad de las Naranjas (Stadt der Orangen).",
+        "Historisches Zentrum des Zitrusfruchtanbaus in Honduras.",
+        "Heute zunehmend von Palmölplantagen dominiert.",
+        "Feiert jährlich ein traditionelles Fest zu Ehren der Orangenernte.",
+        "Liegt im fruchtbaren Aguán-Tal im Departement Colón.",
+        "Gegründet in der späten Kolonialzeit im Jahr 1791."
+      ]
+    },
+    {
+      "id": "cane-cities-v2",
+      "descriptionAdvanced": "Cane ist eine kleine, außergewöhnlich gepflegte Stadt im Departement La Paz, die für ihre extreme Sauberkeit und ihren Bürgerstolz landesweit bekannt ist. Die Gemeinde hat zahlreiche nationale Auszeichnungen für ihre Umweltinitiativen, gepflasterte Straßen und die Förderung von Bildung und Kultur erhalten. Ein markantes Denkmal auf dem höchsten Hügel der Stadt, der \"Cristo de Cane\", überblickt das gesamte Tal. Die Wirtschaft von Cane ist agrarisch geprägt, wobei viele Einwohner auch vom inländischen Tourismus und kleinen Handwerksbetrieben leben. Gesellschaft K6 — Umweltbewusstsein und Gemeindeverwaltung.",
+      "factsAdvanced": [
+        "Gilt als eine der saubersten und am besten organisierten Städte in Honduras.",
+        "Das Monument Cristo de Cane ist ein Wahrzeichen der Stadt.",
+        "Liegt im friedlichen Departement La Paz.",
+        "Hat zahlreiche nationale Preise für Umweltschutz gewonnen.",
+        "Die Straßen sind vollständig gepflastert und mit Blumen geschmückt.",
+        "Wirtschaft basiert auf lokaler Landwirtschaft und Binnentourismus."
+      ]
+    },
+    {
+      "id": "gualaco-cities-v2",
+      "descriptionAdvanced": "Gualaco ist ein ausgedehntes, ländliches Municipio im Departement Olancho, das für seine unberührten Landschaften und ökologische Vielfalt berühmt ist. Die Stadt ist das Tor zu zahlreichen Naturschätzen, darunter der Nationalpark Sierra de Agalta mit seinem dichten Nebelwald, und die mystischen Höhlen von Susmay. Die lokale Wirtschaft stützt sich fast ausschließlich auf die traditionelle Rinderzucht, Milchproduktion und Forstwirtschaft. Wegen der großen Entfernungen in Olancho hat Gualaco eine sehr eigenständige, von Cowboy-Kultur (Vaquero) geprägte Identität entwickelt. Geografie K8 — Nebelwälder und ländliche Lebensweise.",
+      "factsAdvanced": [
+        "Tor zum Nationalpark Sierra de Agalta in Olancho.",
+        "Die Susmay-Höhlen in der Nähe besitzen unterirdische Flüsse.",
+        "Tief geprägt von der typisch honduranischen Vaquero-Kultur.",
+        "Wirtschaft basiert stark auf Rinderzucht und Milchproduktion.",
+        "Eine der flächenmäßig größten Gemeinden in Honduras.",
+        "Gegründet im Jahr 1657 während der spanischen Kolonialzeit."
+      ]
+    },
+    {
+      "id": "la-union-cities-v2",
+      "descriptionAdvanced": "La Unión liegt versteckt in den Bergen des Departements Olancho und ist vor allem für das angrenzende biologische Reservat La Muralla bekannt, eines der am besten erhaltenen Schutzgebiete von Honduras. Die Stadt selbst hat eine Geschichte, die tief im Holzhandel und in der traditionellen Landwirtschaft verwurzelt ist. In jüngerer Zeit bemüht sich La Unión um die Förderung von Ökotourismus, da das Reservat Vogelbeobachter aus aller Welt anzieht, die seltene Arten wie den schillernden Quetzal suchen. Naturwissenschaften K7 — Vogelschutzgebiete und Ökotourismus.",
+      "factsAdvanced": [
+        "Hauptzugangspunkt zum Biologischen Reservat La Muralla.",
+        "Bekannt für exzellente Bedingungen zur Vogelbeobachtung, inklusive des Quetzals.",
+        "Die lokale Wirtschaft stützte sich historisch auf die Holzwirtschaft.",
+        "Liegt abgelegen in den Bergen des nördlichen Olancho.",
+        "Gegründet im späten 19. Jahrhundert als ländliches Dorf.",
+        "Versucht sich zunehmend als Zentrum für nachhaltigen Ökotourismus zu etablieren."
+      ]
+    },
+    {
+      "id": "marcala-cities-v2",
+      "descriptionAdvanced": "Marcala ist eine kleine Bergstadt im Departement La Paz und das unbestrittene Herz des honduranischen Premium-Kaffees. Die Region war die erste in Zentralamerika, die eine geschützte Ursprungsbezeichnung (Denominación de Origen) für ihren exquisiten Hochlandkaffee erhielt. Neben unzähligen Kaffeefarmen ist Marcala auch für seine atemberaubenden Naturlandschaften bekannt, darunter der Wasserfall El Chiflador und die Höhle Cueva del Gigante, in der einige der ältesten menschlichen Überreste Zentralamerikas gefunden wurden. Geschichte K8 — Kaffeekultur und archäologische Entdeckungen.",
+      "factsAdvanced": [
+        "Erste Kaffee-Region in Zentralamerika mit geschützter Ursprungsbezeichnung.",
+        "Liegt auf einer Höhe von fast 1.300 Metern.",
+        "Nahegelegen ist die Cueva del Gigante, ein extrem wichtiger archäologischer Fundort.",
+        "Der Wasserfall El Chiflador ist ein beliebtes lokales Touristenziel.",
+        "Zentrum der Lenca-Ruta (Lenca-Route) für Touristen.",
+        "Gegründet in der späten Kolonialzeit im Jahr 1834."
+      ]
+    },
+    {
+      "id": "ocotepeque-cities-v2",
+      "descriptionAdvanced": "Ocotepeque, offiziell Nueva Ocotepeque, liegt im äußersten Westen von Honduras nahe dem \"Trifinio\", dem Dreiländereck von Honduras, Guatemala und El Salvador. Die ursprüngliche Stadt wurde 1934 durch verheerende Überschwemmungen des Río Marchala zerstört, woraufhin die Bewohner eine neue Siedlung aufbauten. Aufgrund ihrer einzigartigen Grenzlage ist die Stadt ein pulsierendes Zentrum für internationalen Handel und Migration. Die Berge rund um das Municipio beherbergen das Biosphärenreservat La Fraternidad, ein bedeutendes transnationales Naturschutzprojekt. Geografie K7 — Dreiländerecke und Naturkatastrophen.",
+      "factsAdvanced": [
+        "Liegt in unmittelbarer Nähe des Dreiländerecks Honduras, Guatemala, El Salvador.",
+        "Die alte Stadt wurde 1934 durch eine Flutkatastrophe fast vollständig zerstört.",
+        "Bedeutender Handelsknotenpunkt aufgrund der Grenzlage.",
+        "Teil des transnationalen Biosphärenreservats La Fraternidad.",
+        "Hauptstadt des gleichnamigen Departements Ocotepeque.",
+        "Stark von der Kultur der benachbarten Länder beeinflusst."
+      ]
+    },
+    {
+      "id": "la-libertad-cities-v2",
+      "descriptionAdvanced": "La Libertad im Departement Comayagua ist eine typische mittelgroße Kaffee-Stadt, die auf den fruchtbaren Hügeln westlich des großen Comayagua-Tals thront. Der Kaffee aus dieser Region wird für seine hohe Qualität geschätzt und stellt die Haupteinnahmequelle für die meisten Familien dar. In der Erntezeit verwandelt sich die Stadt in ein geschäftiges Zentrum, in dem Saisonarbeiter, Kaffeekäufer und Transporteure zusammenkommen. Abgesehen vom Kaffee bewahrt La Libertad traditionelle Feste und zeichnet sich durch ein friedliches, ländliches Leben aus. Wirtschaft K6 — Saisonale landwirtschaftliche Arbeit.",
+      "factsAdvanced": [
+        "Bedeutende Kaffeeproduktionsstadt im Departement Comayagua.",
+        "Liegt auf einer Höhe von etwa 800 Metern in einem bergigen Gebiet.",
+        "Wirtschaft ist stark abhängig vom Preis und Export von Kaffee.",
+        "Gegründet in den späten 1800er Jahren.",
+        "Die Erntezeit von Oktober bis März bringt viele Saisonarbeiter.",
+        "Bekannt für eine ruhige und traditionelle dörfliche Lebensweise."
+      ]
+    },
+    {
+      "id": "san-marcos-de-colon-cities-v2",
+      "descriptionAdvanced": "San Marcos de Colón ist eine malerische Bergstadt im Departement Choluteca in unmittelbarer Nähe zur nicaraguanischen Grenze. Im Gegensatz zur unerträglichen Hitze der umliegenden Tiefebenen genießt die Stadt dank ihrer Höhenlage ein kühles und angenehmes Klima. Bekannt ist sie als \"Die Oase des Südens\". Wirtschaftlich dominiert die Rinderzucht, aber auch Lederarbeiten und Sattlerei sind hoch angesehen. Wegen ihrer gut erhaltenen Kolonialarchitektur, sauberen Straßen und Pinienwälder wurde die Gemeinde von der UNESCO als Biosphärenreservat anerkannt. Geografie K7 — Mikroklimata und traditionelles Handwerk.",
+      "factsAdvanced": [
+        "Wegen ihres kühlen Klimas im heißen Süden als Oase des Südens bekannt.",
+        "2017 von der UNESCO als Biosphärenreservat anerkannt.",
+        "Liegt nur wenige Kilometer vom Grenzübergang La Fraternidad zu Nicaragua entfernt.",
+        "Berühmt für hochwertige Lederverarbeitung und Sattlerei.",
+        "Zentrum der Rinderzucht im südlichen Hochland.",
+        "Die Architektur ist von französischen Einwanderern des 19. Jahrhunderts beeinflusst."
+      ]
+    },
+    {
+      "id": "sabanagrande-cities-v2",
+      "descriptionAdvanced": "Sabanagrande ist eine historische Station an der südlichen Panamericana-Autobahn zwischen Tegucigalpa und Choluteca. Landesweite Berühmtheit erlangte das Dorf durch seine Gastronomie, insbesondere die Rosquillas – traditionelle, ringförmige Maiskekse, die von Reisenden als Souvenir gekauft werden. Historisch war Sabanagrande im 19. Jahrhundert ein wichtiges Bergbauzentrum. Ein Denkmal erinnert an die Schlacht von La Trinidad von 1827, in der General Francisco Morazán einen entscheidenden Sieg für die Zentralamerikanische Föderation errang, was dem Ort eine tiefe historische Bedeutung verleiht. Geschichte K8 — Wichtige militärische Schlachten und kulinarische Traditionen.",
+      "factsAdvanced": [
+        "Berühmt in ganz Honduras für die Herstellung der traditionellen Rosquillas.",
+        "Liegt an der wichtigsten Nord-Süd-Verkehrsachse (CA-5).",
+        "Schauplatz der entscheidenden Schlacht von La Trinidad (1827).",
+        "Im 19. Jahrhundert ein Zentrum der Silberausbeutung.",
+        "Gegründet im späten 18. Jahrhundert von spanischen Familien.",
+        "Verfügt über ein kühles, angenehmes Bergklima nahe der Hauptstadt."
+      ]
+    },
+    {
+      "id": "el-nispero-cities-v2",
+      "descriptionAdvanced": "El Níspero ist ein abgeschiedenes, friedliches Dorf im Departement Santa Bárbara. Die Gemeinde liegt in der Nähe des Wasserkraftwerks Nispero, einem der kleineren, aber wichtigen Staudämme, die Honduras mit Energie versorgen. Die umliegende Landschaft ist geprägt von steilen Bergen und Tälern, in denen hauptsächlich Subsistenzwirtschaft, Kaffee und Bananen angebaut werden. El Níspero ist stark von Abwanderung betroffen, bewahrt aber in seinen Patronatsfesten eine authentische, ländliche Identität abseits der modernen Urbanisierung. Wirtschaft K6 — Lokale Energieinfrastruktur und Landflucht.",
+      "factsAdvanced": [
+        "Namensgeber für das lokale Wasserkraftwerk El Níspero.",
+        "Liegt im stark bergigen Departement Santa Bárbara.",
+        "Landwirtschaftliche Basis aus Kaffee- und Bananenanbau.",
+        "Gegründet in den späten 1800er Jahren.",
+        "Stark geprägt von Auswanderung in städtische Gebiete und in die USA.",
+        "Ruhige, traditionelle Lebensweise ohne große industrielle Einflüsse."
+      ]
+    },
+    {
+      "id": "trinidad-cities-v2",
+      "descriptionAdvanced": "Trinidad im Departement Santa Bárbara ist eine Stadt, die durch eine reiche kulturelle Tradition besticht, allen voran das beeindruckende Schornsteinfest (Paseo Real de las Chimeneas Gigantes). Jedes Jahr im Dezember bauen Künstler und Gemeindemitglieder gigantische Skulpturen aus Draht und Papier, die in einer spektakulären Parade durch die Straßen gezogen und am Ende zeremoniell verbrannt werden. Abgesehen von der Kunst ist Trinidad eine klassische honduranische Gemeinde, deren Wohlstand historisch auf dem Kaffeeanbau und dem Kleinhandel in den umliegenden Bergen beruht. Kunst und Kultur K7 — Lokale Traditionen und Gemeinschaftskunst.",
+      "factsAdvanced": [
+        "Austragungsort des jährlichen Paseo Real de las Chimeneas Gigantes (Riesenkamine).",
+        "Liegt in den gebirgigen Kaffeeregionen von Santa Bárbara.",
+        "Die gigantischen Skulpturen werden traditionell im Dezember verbrannt.",
+        "Gegründet in der späten Kolonialzeit im Jahr 1794.",
+        "Kulturelles Zentrum mit starker Betonung auf Musik und Handwerk.",
+        "Wirtschaft ist stark abhängig vom Kaffeeexport."
+      ]
+    },
+    {
+      "id": "piraera-cities-v2",
+      "descriptionAdvanced": "Piraera ist eine der ältesten indigenen Lenca-Gemeinden im abgelegenen Departement Lempira. Isoliert durch schroffe Berge und fehlende moderne Infrastruktur, hat die Stadt weite Teile ihrer präkolumbianischen und kolonialen Identität bewahrt. Bemerkenswert ist die antike Kirche im Zentrum, die eine seltene Mischung aus spanischer Architektur und indigenen Ornamenten zeigt. Piraera leidet unter großer Armut, doch die Bevölkerung erhält ihre Traditionen durch gemeinschaftlichen Maisanbau, handgewebte Textilien und Feste am Leben, die indigene Riten mit dem Katholizismus verbinden. Kultur K6 — Lenca-Erbe und Synkretismus.",
+      "factsAdvanced": [
+        "Historische Lenca-Gemeinde im südlichen Departement Lempira.",
+        "Sehr isoliert aufgrund mangelnder Straßeninfrastruktur.",
+        "Verfügt über eine historische Kirche mit indigenen Bauelementen.",
+        "Wirtschaft basiert größtenteils auf Subsistenzlandwirtschaft (Mais, Bohnen).",
+        "Eine der ärmsten, aber kulturell reichsten Gemeinden in Honduras.",
+        "Zentrum des religiösen und indigenen Synkretismus der Lenca."
+      ]
+    },
+    {
+      "id": "ojojona-cities-v2",
+      "descriptionAdvanced": "Ojojona ist eine malerische Kolonialstadt im Bergland nahe Tegucigalpa und eines der bevorzugten Ausflugsziele für Touristen und Einheimische. Berühmt für seine über 400-jährige Geschichte, das Kopfsteinpflaster und drei markante Kirchen aus der Kolonialzeit (San Juan Bautista, El Carmen, El Calvario). Ojojona ist das unumstrittene Zentrum der honduranischen Töpferei; hier werden traditionelle Lenca-Keramiken mit modernen schwarzen und roten Glasuren hergestellt. Im 19. Jahrhundert war die Stadt ein wichtiges Bergbauzentrum für Silber und diente sogar kurz als Exilort für Präsident Francisco Morazán. Kunst und Kultur K7 — Töpferei und koloniale Architektur.",
+      "factsAdvanced": [
+        "Landesweit berühmt für traditionelle und moderne Keramikarbeiten.",
+        "Besitzt drei gut erhaltene spanische Kolonialkirchen.",
+        "Liegt in einem Kiefernwald auf 1.500 Metern Höhe.",
+        "War im 19. Jahrhundert ein florierendes Bergbauzentrum.",
+        "Nationalheld Francisco Morazán hielt sich hier vorübergehend versteckt.",
+        "Der historische Ortskern wurde zum Nationaldenkmal erklärt."
+      ]
+    },
+    {
+      "id": "guanaja-city-cities-v2",
+      "descriptionAdvanced": "Guanaja Town, von den Einheimischen liebevoll \"Bonacca\" genannt, ist die Hauptsiedlung auf der Insel Guanaja in den honduranischen Islas de la Bahía. Die Siedlung ist einzigartig in Zentralamerika, da sie größtenteils auf einem dichten Korallenriff erbaut wurde und über keine Straßen oder Autos verfügt; der gesamte Transport findet in Booten über ein Netzwerk von Kanälen statt, was ihr den Spitznamen \"Venedig von Honduras\" einbrachte. Guanaja war der erste Ort, an dem Christoph Kolumbus 1502 karibischen Boden betrat und Kakaobohnen entdeckte. Geografie K8 — Inselgeografie und die Reisen des Kolumbus.",
+      "factsAdvanced": [
+        "Hauptsiedlung der Insel Guanaja, lokal als Bonacca bekannt.",
+        "Auf einem Riff (Cayo) erbaut, ohne Straßen oder motorisierte Fahrzeuge.",
+        "Transport innerhalb der Stadt erfolgt ausschließlich per Boot.",
+        "Christoph Kolumbus landete hier 1502 auf seiner vierten Reise.",
+        "Wirtschaft basiert auf kommerziellem Hummer- und Garnelenfang.",
+        "Wurde 1998 durch den Hurrikan Mitch fast vollständig zerstört und neu aufgebaut."
+      ]
+    },
+    {
+      "id": "roatan-city-cities-v2",
+      "descriptionAdvanced": "Roatán Town, lokal meist Coxen Hole genannt, ist die größte Stadt und das wirtschaftliche sowie politische Zentrum der Insel Roatán und der Bay Islands. Einst ein Zufluchtsort für Piraten und Freibeuter wie John Coxon, ist die Stadt heute das Tor für Kreuzfahrtschiffe und Hunderttausende von internationalen Touristen. Trotz des rapiden Wachstums der Tourismusbranche in den westlichen Teilen der Insel (West End), bleibt Coxen Hole das administrative Herz mit Regierungsgebäuden, dem Hafen und dem Hauptmarkt. Die Kultur hier ist tief karibisch geprägt und die Muttersprache vieler Einwohner ist das Insel-Englisch. Wirtschaft K8 — Kreuzfahrttourismus und Karibikkultur.",
+      "factsAdvanced": [
+        "Administratives Zentrum der Islas de la Bahía, lokal Coxen Hole genannt.",
+        "Namensgeber war der Pirat John Coxon im 17. Jahrhundert.",
+        "Zentraler Anlaufhafen für große internationale Kreuzfahrtschiffe.",
+        "Amtssprache ist Spanisch, aber Englisch/Kreolisch ist tief verwurzelt.",
+        "Hauptwirtschaftszweig ist der Tourismus und der Dienstleistungssektor.",
+        "Beherbergt den internationalen Flughafen Juan Manuel Gálvez."
+      ]
+    },
+    {
+      "id": "lepaera-cities-v2",
+      "descriptionAdvanced": "Lepaera im bergigen Departement Lempira ist eine der angesehensten Kaffeeanbau-Gemeinden in Honduras. Dank der idealen Höhenlage, der vulkanischen Böden und der sorgfältigen Ernteverfahren durch lokale Bauernfamilien hat Kaffee aus Lepaera mehrfach internationale Auszeichnungen für Exzellenz gewonnen, darunter den prestigeträchtigen Cup of Excellence. Die Stadtgemeinde liegt isoliert an steilen Hängen, was die Logistik erschwert, aber die Qualität der Ernten bewahrt. Abgesehen vom Kaffee ist Lepaera von starken indigenen Lenca-Traditionen durchdrungen. Wirtschaft K7 — Spezialitätenkaffee und internationale Wettbewerbe.",
+      "factsAdvanced": [
+        "Zentrum für mehrfach prämierte Spezialitätenkaffees in Lempira.",
+        "Gewinner des renommierten Cup of Excellence für honduranischen Kaffee.",
+        "Liegt an den Hängen der Bergkette Cordillera de Puca.",
+        "Wirtschaft besteht fast ausschließlich aus kleinbäuerlichem Kaffeeanbau.",
+        "Name bedeutet in der Lenca-Sprache Quebrada del Tigre (Tigerschlucht).",
+        "Gegründet vor der Kolonialzeit als Siedlung der Lenca."
+      ]
+    },
+    {
+      "id": "san-juan-de-opoa-cities-v2",
+      "descriptionAdvanced": "San Juan de Opoa liegt strategisch im Departement Copán an der Landstraße, die das zentrale Hochland mit der westlichen Region verbindet. Diese ruhige, ländliche Gemeinde ist reich an kolonialer Geschichte und bekannt für ihr kühles Bergklima. In der Nähe der Stadt befinden sich antike Felszeichnungen und Petroglyphen, die auf eine präkolumbianische Besiedlung lange vor der spanischen Ankunft hindeuten. Heute ist die Bevölkerung überwiegend in der Landwirtschaft beschäftigt, wobei der Kaffeeanbau und die Viehzucht das Rückgrat des täglichen Überlebens bilden. Geschichte K6 — Präkolumbianische Petroglyphen und Landwirtschaft.",
+      "factsAdvanced": [
+        "Gelegen an der wichtigen Verbindungsstraße zwischen Santa Rosa de Copán und Gracias.",
+        "Besitzt in der Umgebung alte Felszeichnungen indigener Kulturen.",
+        "Wirtschaftlich auf Kaffeeanbau und Viehzucht fokussiert.",
+        "Das ruhige Dorfzentrum bewahrt spanische Kolonialeinflüsse.",
+        "Gegründet in den späten 1800er Jahren.",
+        "Befindet sich in einer der produktivsten Kaffeeregionen des Westens."
+      ]
+    },
+    {
+      "id": "gualcinse-cities-v2",
+      "descriptionAdvanced": "Gualcinse ist ein gut verstecktes historisches Juwel in den Bergen des südlichen Departements Lempira. Gegründet von den Spaniern im 16. Jahrhundert wegen der Gold- und Silbervorkommen in den umliegenden Hügeln, bewahrt die kleine Stadt heute einige der schönsten Beispiele kolonialer Architektur der Region, darunter eine kunstvoll gestaltete historische Kirche. Die fast vollständige Isolation der Stadt bewahrte ihr Erscheinungsbild vor moderner Bebauung. Heute ist Gualcinse eine ruhige Gemeinde, in der Landwirtschaft, Handweberei und Mythen der Lenca-Kultur vorherrschen. Geschichte K8 — Isolierte Kolonialstädte und früher Bergbau.",
+      "factsAdvanced": [
+        "Gegründet 1576 während der spanischen Suche nach Edelmetallen.",
+        "Bewahrt eine außergewöhnlich schöne koloniale Kirche im Zentrum.",
+        "Sehr isoliert gelegen im unwegsamen südlichen Lempira.",
+        "Im 19. Jahrhundert ein florierendes Zentrum für den Silberbergbau.",
+        "Name stammt vom Lenca-Wort für Rio del Gorrión (Fluss des Sperlings).",
+        "Die moderne Wirtschaft basiert auf Subsistenzlandwirtschaft."
+      ]
+    }
+  ]
+}

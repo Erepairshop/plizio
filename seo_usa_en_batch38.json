@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "olympic-national-park-life-v2",
+      "descriptionAdvanced": "Olympic National Park in Washington state is a diverse, rugged wilderness encompassing three distinct ecosystems: glacial-covered peaks, temperate rain forests, and a wild, undeveloped coastline. This incredible ecological diversity provides a rare habitat for varied species, including Roosevelt elk, mountain goats, and numerous salmon runs in the park’s pristine rivers. Because of its extreme variations in rainfall and elevation, the park is a globally recognized site for studying plant and animal adaptation, particularly the temperate rain forests of the Hoh River Valley, which receive over 140 inches of rain annually. Olympic stands as a masterwork of ecological preservation, representing an irreplaceable sanctuary for some of North America's most unique, climate-sensitive biomes. Biologie K8 — Temperate rainforest ecology and biodiversity.",
+      "factsAdvanced": [
+        "Encompasses three distinct ecosystems: glacial peaks, rain forests, and coastline.",
+        "Home to the temperate rain forests of the Hoh River Valley.",
+        "One of the wettest locations in the US, with over 140 inches of rainfall.",
+        "Critical habitat for Roosevelt elk and native salmon populations.",
+        "A globally studied site for complex plant and animal climate adaptation.",
+        "Represents an irreplaceable sanctuary for unique, climate-sensitive biomes."
+      ]
+    },
+    {
+      "id": "florida-citrus-groves-life-v2",
+      "descriptionAdvanced": "Florida’s citrus groves are a hallmark of the state’s agricultural landscape, historically positioning Florida as the world's leading producer of oranges and orange juice. For decades, the citrus industry was a foundational pillar of Florida's economic growth, supported by the state’s warm, humid climate and specialized sandy soils. However, the industry today is locked in an intense, existential battle against 'citrus greening,' a devastating bacterial disease that has decimated tree populations and drastically reduced production. The current agricultural reality of the citrus groves is a critical case study in how ecological vulnerability and disease can threaten even the most stable, iconic industries, forcing a total reimagining of sustainable horticulture and disease-resistant crop research. Landwirtschaft K7 — Specialized crop vulnerability and disease management.",
+      "factsAdvanced": [
+        "Historically the world's leading producer of oranges and orange juice.",
+        "Citrus growing is a foundational pillar of Florida's economic history.",
+        "Thrives in the warm, humid climate of the Florida peninsula.",
+        "Currently facing an existential threat from the 'citrus greening' disease.",
+        "Citrus greening has decimated production and devastated grove populations.",
+        "Critical site for research into disease-resistant and sustainable horticulture."
+      ]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "descriptionAdvanced": "The Shedd Aquarium in Chicago, Illinois, is one of the world's most prominent public aquaria, situated prominently on the shores of Lake Michigan. Since opening in 1930, it has functioned as a central public educational institution, housing thousands of species from diverse marine and aquatic habitats, ranging from the Great Lakes to the coral reefs of the Caribbean. The aquarium is a foundational research and conservation hub, notably participating in global efforts for species rescue and protection, including rehabilitating marine animals in the wild. Its architecture, a masterpiece of Beaux-Arts design, complements its role as a vital center for fostering public appreciation and understanding of the fragility of aquatic ecosystems, both near home in the Great Lakes and across the globe. Biologie K7 — Aquatic biodiversity and marine conservation.",
+      "factsAdvanced": [
+        "One of the world's most prominent public aquaria, located on Lake Michigan.",
+        "Opened in 1930 as a major center for aquatic public education.",
+        "Houses thousands of species from both local and global aquatic habitats.",
+        "A foundational research and marine rescue and conservation hub.",
+        "Beaux-Arts architectural masterpiece and a city landmark on the Chicago lakefront.",
+        "Vital center for fostering public understanding of aquatic ecosystem fragility."
+      ]
+    }
+  ]
+}

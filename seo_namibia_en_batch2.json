@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ongwediva-cities-v2",
+      "descriptionAdvanced": "Ongwediva is a fast-growing town in the Oshana Region of northern Namibia, positioned strategically between Oshakati and Ondangwa. It was established in the 1960s during the South African administration as a residential and educational center. Today, it is recognized nationally for hosting the annual Ongwediva Annual Trade Fair (OATF), which draws hundreds of exhibitors and over 100,000 visitors from across Southern Africa. The town also features important educational institutions, including a campus of the University of Namibia, contributing significantly to regional development. Geography K7 — regional development and trade.",
+      "factsAdvanced": [
+        "Strategically located between Oshakati and Ondangwa.",
+        "Established in the 1960s under South African rule.",
+        "Hosts the prominent Ongwediva Annual Trade Fair.",
+        "The trade fair attracts over 100,000 visitors annually.",
+        "Home to a major campus of the University of Namibia.",
+        "A key residential and educational center in the north."
+      ]
+    },
+    {
+      "id": "oranjemund-cities-v2",
+      "descriptionAdvanced": "Located at the mouth of the Orange River in the deep southwest of Namibia, Oranjemund is a town built entirely on the wealth of diamonds. Established in 1936 by Consolidated Diamond Mines (now Namdeb), it was completely closed off to the public for over 80 years as a restricted mining area. It only opened to general visitors in 2017 following its proclamation as a municipality. The town borders South Africa and features unique wildlife, including free-roaming gemsbok grazing on local lawns, contrasting with the high-security diamond operations nearby. Earth Science K6 — diamond mining.",
+      "factsAdvanced": [
+        "Situated at the mouth of the Orange River.",
+        "Established in 1936 by Consolidated Diamond Mines.",
+        "Remained a restricted, closed town for over 80 years.",
+        "Officially opened to the general public in 2017.",
+        "Economy is almost entirely based on diamond mining.",
+        "Known for free-roaming gemsbok on municipal lawns."
+      ]
+    },
+    {
+      "id": "usakos-cities-v2",
+      "descriptionAdvanced": "Usakos is a small town in the Erongo Region, nestled in the valley of the Khan River. Developed in the early 1900s as a vital railway junction and workshop center for the narrow-gauge railway built by the Otavi Minen- und Eisenbahn-Gesellschaft, its historical importance is still visible in the old railway buildings. The town serves as a crucial supply point along the B2 highway connecting the capital to Swakopmund. It is also a popular staging post for tourists traveling to the striking Spitzkoppe mountains located nearby. Geschichte K8 — railway history.",
+      "factsAdvanced": [
+        "Located in the valley of the Khan River.",
+        "Developed in the early 1900s as a railway junction.",
+        "Served the Otavi Minen- und Eisenbahn-Gesellschaft.",
+        "Situated on the B2 highway to Swakopmund.",
+        "Acts as a supply point for trips to the Spitzkoppe.",
+        "Maintains several historic German colonial buildings."
+      ]
+    },
+    {
+      "id": "outapi-cities-v2",
+      "descriptionAdvanced": "Outapi, also known as Uutapi, is the capital of the Omusati Region in northern Namibia, located close to the Angolan border. The town is most famous for the spectacular Ombalantu Baobab Tree, a massive ancient tree whose hollow trunk once served as a post office, a chapel, and even a hiding place during tribal wars. Since independence, Outapi has seen rapid urbanization, transforming from a traditional settlement into a modern town with shopping malls and administrative offices, heavily supported by the local agricultural sector. Geography K7 — traditional settlements and urbanization.",
+      "factsAdvanced": [
+        "Capital of the Omusati Region in northern Namibia.",
+        "Located a short distance from the Angolan border.",
+        "Home to the famous Ombalantu Baobab Tree.",
+        "The baobab tree's trunk previously served as a post office.",
+        "Has experienced rapid urbanization since independence.",
+        "Economy relies heavily on regional administration and farming."
+      ]
+    },
+    {
+      "id": "helao-nafidi-cities-v2",
+      "descriptionAdvanced": "Helao Nafidi is a town in the Ohangwena Region, formed in 2004 by the amalgamation of several smaller settlements including Oshikango, Omafo, and Engela. Situated right on the border with Angola, it is one of Namibia's busiest border posts, driving a thriving cross-border trade economy. The town was named in honor of Helao Nafidi, a prominent combatant in the Namibian War of Independence. Its rapid economic growth is largely fueled by Angolan merchants purchasing goods for export, making it a vital commercial corridor. Geography K7 — border trade and economics.",
+      "factsAdvanced": [
+        "Created in 2004 by amalgamating several settlements.",
+        "Located directly on the border with Angola.",
+        "One of the busiest border crossings in Namibia.",
+        "Named after independence war combatant Helao Nafidi.",
+        "Economy is heavily dependent on cross-border trade.",
+        "Includes the major commercial node of Oshikango."
+      ]
+    },
+    {
+      "id": "nkurenkuru-cities-v2",
+      "descriptionAdvanced": "Nkurenkuru is the capital of the Kavango West Region, situated on the southwestern banks of the Kavango River. It was the historical capital of the Kwangali kingdom and served as an important missionary station founded by the Finnish Missionary Society in 1929. Elevated to town status in 2006, it functions as a crucial administrative and agricultural center for the region. The town is connected to the nearby Angolan town of Cuangar via a river ferry, facilitating local trade and cultural exchange across the border. Geography K7 — river settlements.",
+      "factsAdvanced": [
+        "Capital of the Kavango West Region.",
+        "Situated on the banks of the Kavango River.",
+        "Historical seat of the local Kwangali kingdom.",
+        "Mission station founded here in 1929.",
+        "Elevated to official town status in 2006.",
+        "Connected by river ferry to Cuangar in Angola."
+      ]
+    },
+    {
+      "id": "henties-bay-cities-v2",
+      "descriptionAdvanced": "Henties Bay is a renowned coastal holiday town in the Erongo Region, located 70 kilometers north of Swakopmund. It is uniquely situated within the National West Coast Recreation Area, completely surrounded by the Namib Desert. The town is a premier destination for shore anglers who come to fish in the cold, nutrient-rich Atlantic waters. Founded by major Hentie van der Merwe who discovered a freshwater spring here in 1929, the town's population swells dramatically during the December holiday season when tourists flock to the coast. Geography K7 — coastal recreation.",
+      "factsAdvanced": [
+        "Located 70 kilometers north of Swakopmund.",
+        "Surrounded entirely by the Namib Desert.",
+        "A premier destination for shore angling.",
+        "Named after Major Hentie van der Merwe.",
+        "A freshwater spring was discovered here in 1929.",
+        "Population increases massively during December holidays."
+      ]
+    },
+    {
+      "id": "arandis-cities-v2",
+      "descriptionAdvanced": "Arandis, famously known as the 'Uranium Capital of the World', is located in the Erongo Region, roughly 15 kilometers from the massive Rössing Uranium Mine. The town was established in 1978 exclusively to house the mine's workforce, providing modern amenities in the harsh desert environment. While still closely tied to the mining sector, the town has worked to diversify its economy and now hosts the Namibian Institute of Mining and Technology (NIMT), which trains hundreds of artisans for the country's industrial sector. Earth Science K6 — uranium mining.",
+      "factsAdvanced": [
+        "Known as the 'Uranium Capital of the World'.",
+        "Located 15 kilometers from the Rössing Uranium Mine.",
+        "Established in 1978 specifically for mine workers.",
+        "Situated in the arid Erongo Region.",
+        "Hosts the Namibian Institute of Mining and Technology.",
+        "Economy is focused on mining and vocational training."
+      ]
+    },
+    {
+      "id": "otavi-cities-v2",
+      "descriptionAdvanced": "Otavi is a town in the Otjozondjupa Region, forming the third point of the fertile 'Otavi Triangle' alongside Grootfontein and Tsumeb. The area receives significantly more rainfall than most of Namibia, allowing for extensive dryland crop farming, particularly maize, sorghum, and sunflowers. Historically, the town was a major copper mining center and the site where the German Schutztruppe surrendered to South African forces in 1915, marked by the nearby Khorab Memorial. Today, the local economy is anchored by the large Ohorongo Cement factory. Geography K7 — agriculture and industry.",
+      "factsAdvanced": [
+        "Forms part of the fertile 'Otavi Triangle'.",
+        "Located in the Otjozondjupa Region.",
+        "Known for higher rainfall and dryland crop farming.",
+        "Site of the German forces' surrender in 1915.",
+        "Hosts the Khorab Memorial just outside the town.",
+        "Economy bolstered by the nearby Ohorongo Cement factory."
+      ]
+    },
+    {
+      "id": "bethanie-cities-v2",
+      "descriptionAdvanced": "Bethanie is one of the oldest settlements in Namibia, located in the deep south of the //Kharas Region. It was founded in 1814 when the London Missionary Society sent Heinrich Schmelen to establish a mission station here among the Nama people. The town is home to the Schmelenhaus, considered the oldest surviving stone building in the country. Bethanie is a quiet, historical village that primarily serves the surrounding sheep-farming community, retaining a peaceful atmosphere amidst the arid, rocky landscape. Geschichte K8 — early missionary history.",
+      "factsAdvanced": [
+        "One of the oldest settlements in Namibia.",
+        "Founded in 1814 as a mission station.",
+        "Established by missionary Heinrich Schmelen.",
+        "Home to the Schmelenhaus, the oldest stone building.",
+        "Located in the southern //Kharas Region.",
+        "Serves primarily as a center for sheep farming."
+      ]
+    },
+    {
+      "id": "ruacana-cities-v2",
+      "descriptionAdvanced": "Ruacana is a town situated in the Omusati Region right on the Angolan border, defined by its relationship with the Kunene River. The town was established around the Ruacana Hydroelectric Power Station, a massive underground facility built in the 1970s that provides the majority of Namibia's electricity. Just upstream from the power station lie the spectacular Ruacana Falls, which plunge 120 meters when the river is in full flood. The local economy is driven by energy production and the surrounding traditional farming communities. Earth Science K6 — hydroelectric power.",
+      "factsAdvanced": [
+        "Located in the Omusati Region on the Angolan border.",
+        "Built adjacent to the Kunene River.",
+        "Home to the Ruacana Hydroelectric Power Station.",
+        "The power station is largely built underground.",
+        "Features the 120-meter high Ruacana Falls.",
+        "The town was developed in the 1970s."
+      ]
+    },
+    {
+      "id": "maltahohe-cities-v2",
+      "descriptionAdvanced": "Maltahöhe is a small village in the Hardap Region, established in 1899 as an administrative center for the sprawling farms of the southern Namib. The town was named after Malta von Burgsdorff, the wife of the local German garrison commander. It serves as a vital supply point and refueling stop for tourists traveling between Sossusvlei, the Naukluft Mountains, and the coastal towns. The local economy relies on Karakul sheep farming and the influx of desert-bound tourism, offering a glimpse into rural Namibian life. Geography K7 — rural outposts and tourism.",
+      "factsAdvanced": [
+        "Established in 1899 as an administrative center.",
+        "Located in the Hardap Region of southern Namibia.",
+        "Named after Malta von Burgsdorff.",
+        "Vital supply stop for tourists heading to Sossusvlei.",
+        "Economy depends heavily on Karakul sheep farming.",
+        "Features the historic Maltahöhe Hotel, built in 1907."
+      ]
+    },
+    {
+      "id": "khorixas-cities-v2",
+      "descriptionAdvanced": "Khorixas is a town in the Kunene Region that formerly served as the capital of the Damaraland bantustan during the pre-independence era. Today, it is an essential administrative and service hub for the local Damara community and a major gateway for tourists exploring the geological wonders of the region. Visitors often stop here before heading to nearby attractions like the Petrified Forest, the Vingerklip, and the ancient rock engravings at Twyfelfontein. The town relies heavily on agriculture and tourism-related services. Geography K7 — gateways to geological sites.",
+      "factsAdvanced": [
+        "Former capital of the Damaraland bantustan.",
+        "Located in the arid Kunene Region.",
+        "Major gateway to the Petrified Forest.",
+        "Serves tourists traveling to Twyfelfontein.",
+        "Important administrative center for the Damara people.",
+        "Economy is driven by tourism and local farming."
+      ]
+    },
+    {
+      "id": "kamanjab-cities-v2",
+      "descriptionAdvanced": "Kamanjab is a small administrative and farming town in the Kunene Region, located at the junction where routes to the remote Kaokoveld, Damaraland, and the Etosha National Park meet. The town provides vital services, including fuel and supplies, for travelers venturing into the rugged northwest. The surrounding area is characterized by massive granite boulder formations and hosts several Himba cultural villages that have become significant tourist attractions. Kamanjab is predominantly supported by commercial cattle farming and eco-tourism. Geography K7 — remote region junctions.",
+      "factsAdvanced": [
+        "Located in the Kunene Region of northwestern Namibia.",
+        "A key junction for routes to Kaokoveld and Etosha.",
+        "Provides essential fuel and supplies for remote travel.",
+        "Surrounded by massive granite boulder formations.",
+        "Hosts several Himba cultural villages for tourists.",
+        "Economy is supported by commercial cattle farming."
+      ]
+    },
+    {
+      "id": "okakarara-cities-v2",
+      "descriptionAdvanced": "Okakarara is a town in the Otjozondjupa Region, located approximately 50 kilometers east of the Waterberg Plateau. The town is a major cultural and administrative center for the Herero people in the eastern communal farming areas. It features a vocational training center and hosts the annual Okakarara Trade Fair, which significantly boosts the local economy and promotes regional agricultural and industrial products. The nearby Waterberg is a site of deep historical trauma, marking the site of the 1904 Battle of Waterberg. Geschichte K8 — cultural centers.",
+      "factsAdvanced": [
+        "Located 50 kilometers east of the Waterberg Plateau.",
+        "Cultural and administrative center for the Herero people.",
+        "Hosts the annual Okakarara Trade Fair.",
+        "Features a prominent vocational training center.",
+        "Located in the Otjozondjupa Region.",
+        "Economy is primarily driven by communal farming."
+      ]
+    },
+    {
+      "id": "aranos-cities-v2",
+      "descriptionAdvanced": "Aranos is a town in the Hardap Region, situated along the dry Nossob River deep within the Kalahari Desert. Originally established around a police station in the early 20th century, the town serves as a crucial service center for the surrounding sheep and cattle farms. Despite the arid environment, the town accesses groundwater from the underlying Stampriet Artesian Basin, allowing for sustaining life and agriculture in this harsh landscape. It is a classic Kalahari farming town with a small but resilient community. Geography K7 — desert settlements and aquifers.",
+      "factsAdvanced": [
+        "Located in the Hardap Region in the Kalahari Desert.",
+        "Situated along the banks of the dry Nossob River.",
+        "Relies on water from the Stampriet Artesian Basin.",
+        "Established around an early 20th-century police station.",
+        "Crucial service center for sheep and cattle farms.",
+        "Has a small, agriculturally focused population."
+      ]
+    },
+    {
+      "id": "stampriet-cities-v2",
+      "descriptionAdvanced": "Stampriet is a small village in the Hardap Region, located in an otherwise arid expanse of the Kalahari Desert. It is famous for sitting directly atop the Stampriet Artesian Basin, an enormous underground aquifer that provides highly pressurized, reliable water. This abundance of water allows for intensive irrigated agriculture, including the cultivation of fresh vegetables, fruits, and even a local winery, creating a surprising green oasis amidst the red dunes. The village is a vital agricultural hub for southern Namibia. Earth Science K6 — artesian basins and aquifers.",
+      "factsAdvanced": [
+        "Located in the Hardap Region within the Kalahari.",
+        "Sits atop the massive Stampriet Artesian Basin.",
+        "Abundant water allows for intensive irrigated agriculture.",
+        "Known for producing fresh vegetables and fruits.",
+        "Features a surprising local winery in the desert.",
+        "Functions as a crucial agricultural oasis."
+      ]
+    },
+    {
+      "id": "gibeon-cities-v2",
+      "descriptionAdvanced": "Gibeon is a historic village in the Hardap Region, founded in 1863 by the missionary Johannes Olpp. It was the traditional capital of the Witbooi Nama clan under the leadership of the famous Kaptein Hendrik Witbooi, a national hero whose face appears on Namibian banknotes. Gibeon is internationally famous for the Gibeon Meteorite shower, which scattered thousands of tons of iron meteorites over the area in prehistoric times. The town remains an important cultural site despite its small population and arid surroundings. Geschichte K8 — Nama leaders and meteorites.",
+      "factsAdvanced": [
+        "Founded in 1863 by missionary Johannes Olpp.",
+        "Traditional capital of the Witbooi Nama clan.",
+        "Led historically by Kaptein Hendrik Witbooi.",
+        "Famous for the prehistoric Gibeon Meteorite shower.",
+        "Many meteorites from here are displayed in Windhoek.",
+        "Located in the arid Hardap Region."
+      ]
+    },
+    {
+      "id": "aroab-cities-v2",
+      "descriptionAdvanced": "Aroab is a remote village in the //Kharas Region, located nearly 170 kilometers east of Keetmanshoop and very close to the Rietfontein border crossing with South Africa. Characterized by the red dunes of the Kalahari Desert, the village serves primarily as a service node for local sheep and cattle farmers. It features basic amenities, a school, and a clinic, supporting the thinly spread population of the deep southeast. The harsh climate makes farming challenging, yet Aroab remains a resilient border community. Geography K7 — remote border communities.",
+      "factsAdvanced": [
+        "Located in the //Kharas Region, southeast Namibia.",
+        "Situated 170 kilometers east of Keetmanshoop.",
+        "Close to the Rietfontein border post with South Africa.",
+        "Characterized by the surrounding Kalahari red dunes.",
+        "Primary service center for local sheep farmers.",
+        "Maintains basic amenities for a remote population."
+      ]
+    },
+    {
+      "id": "koes-cities-v2",
+      "descriptionAdvanced": "Koës is a small village situated in the //Kharas Region, lying on the edge of the Kalahari Desert roughly 130 kilometers northeast of Keetmanshoop. It serves as a classic Namibian farming outpost, providing essential services, a school, and a police station to the isolated Karakul sheep and cattle farms of the region. The town is famous among off-road enthusiasts as the starting point for several challenging 4x4 trails that traverse the massive red dunes of the Kalahari heading towards the Botswana border. Geography K7 — Kalahari desert outposts.",
+      "factsAdvanced": [
+        "Located in the //Kharas Region on the Kalahari edge.",
+        "Situated 130 kilometers northeast of Keetmanshoop.",
+        "Functions as a service hub for isolated farms.",
+        "Economy focuses on Karakul sheep and cattle.",
+        "Popular starting point for Kalahari 4x4 trails.",
+        "Provides basic services like a school and police station."
+      ]
+    }
+  ]
+}

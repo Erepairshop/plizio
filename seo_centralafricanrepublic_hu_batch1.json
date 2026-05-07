@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "centralafricanrepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangui-cities-v2",
+      "descriptionAdvanced": "Bangui az Ubangi folyó északi partján fekszik, és a Közép-afrikai Köztársaság szíve, egyben közigazgatási és kereskedelmi központja. Az 1889-ben francia katonai posztként alapított város ma az ország belső kereskedelmének legfontosabb csomópontja. Földrajzi fekvésének köszönhetően a folyami hajózás révén összeköttetésben áll a Kongó-medencével, ami létfontosságú az áruszállítás szempontjából. A város építészetében és mindennapjaiban a gyarmati örökség és az élénk afrikai kereskedelmi kultúra találkozik. Földrajz K7 – Folyórendszerek és gazdasági központok.",
+      "factsAdvanced": [
+        "Földrajzi elhelyezkedés: kb. 340 méterrel a tengerszint felett.",
+        "Alapítás éve: 1889, francia katonai posztként.",
+        "Az ország legfontosabb folyami kikötője az Ubangi folyón.",
+        "Népessége meghaladja a 800 000 főt.",
+        "Közvetlen vízi összeköttetés a Kongó folyó rendszerével.",
+        "Az éves átlaghőmérséklet 20 °C és 35 °C között mozog."
+      ]
+    },
+    {
+      "id": "bimbo-cities-v2",
+      "descriptionAdvanced": "Bimbo stratégiailag kulcsfontosságú helyen, a fővárostól, Bangui-tól délnyugatra fekszik, és az Ombella-M'Poko prefektúra központjaként működik. A város gyors fejlődésen ment keresztül, mára az ország egyik legjelentősebb lakott településévé vált, amely jelentősen profitál a közeli főváros nyújtotta gazdasági lehetőségekből. A település kereskedelmi csomópontként szolgál a régióban, ahol a helyi lakosság életmódja szorosan összefonódik a környező területek mezőgazdasági termelésével. Földrajz K7 – Urbanizáció Afrikában.",
+      "factsAdvanced": [
+        "A Közép-afrikai Köztársaság második legnagyobb városa.",
+        "Az Ombella-M'Poko prefektúra székhelye.",
+        "Gazdasági központ, amely szoros kapcsolatban áll Bangui-val.",
+        "A város gyors népességnövekedést mutatott az elmúlt évtizedekben.",
+        "A délnyugati régió egyik legfontosabb közlekedési csomópontja.",
+        "Az éghajlat trópusi, jelentős csapadékos időszakkal."
+      ]
+    }
+  ]
+}

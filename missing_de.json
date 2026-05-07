@@ -1,0 +1,860 @@
+[
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-tarter-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-incles-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-meritxell-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-prats-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-ransol-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-forn-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-laldosa-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-vilar-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-armiana-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-bordes-denvalira-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-planoles-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-molleres-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-cascada-moles-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-grau-roig-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-bons-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-vila-encamp-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-cortals-dencamp-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-la-tremada-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-mosquera-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-port-denvalira-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-pardines-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-costes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-vall-dorient-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-riu-dels-llacs-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-ortes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pal-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-erets-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-sispony-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-anyos-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-laldosa-massana-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-escas-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-puiol-del-piu-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-xixerella-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-mas-de-ribafeta-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-cortalet-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-jan-dels-plans-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-padola-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-borda-rossell-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-comapedrosa-base-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-llorts-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-serrat-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-la-cortinada-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-segudet-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-sorna-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-ancodina-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-arans-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-casa-molines-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-els-plans-ordino-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-ordino-arcalis-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-sorteny-valley-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pont-d-arcalis-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-salines-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pla-dordino-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-riu-de-tristaina-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-aixirivall-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-bixessarri-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-fontaneda-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-aubinya-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-juberri-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-nagol-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-certers-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-lumeneneres-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-aixovall-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-canolich-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-mas-dalins-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-naturlandia-base-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-cases-noves-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-la-feria-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pont-de-fontaneda-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-coll-de-la-gallina-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-santa-coloma-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-la-margineda-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-ciutat-de-valls-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-comella-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-barri-antic-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-avinguda-meritxell-area-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-parc-central-area-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-riu-valira-area-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-santa-coloma-d-andorra-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-escaldes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-engolasters-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-els-vilars-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-engordany-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-fener-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pla-dels-vilars-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-madriu-pera-claror-valley-entrance-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pont-d-engordany-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-rambla-molleres-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-caldea-area-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-carrer-del-riu-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-entrada-sud-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-vivand-area-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-marmot-viewpoint-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-pyrenean-chamois-ordino-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-griffon-vulture-nesting-la-massana-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-wild-boar-forest-encamp-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-brook-trout-river-sant-julia-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-golden-eagle-peaks-escaldes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-fire-salamander-damp-forests-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-red-squirrel-pine-forests-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-butterfly-meadows-ordino-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-bat-caves-sant-julia-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-ptarmigan-high-altitudes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-asp-viper-sunny-slopes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-badger-den-la-massana-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-weasel-farmlands-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-capercaillie-forests-ordino-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-otter-valira-river-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-red-deer-forests-encamp-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-bearded-vulture-high-peaks-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-pyrenean-newt-streams-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-roe-deer-lower-woodlands-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-fox-omnipresent-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-common-lizard-stone-walls-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-stoat-mountain-meadows-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-grass-snake-wetlands-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-alpine-chough-high-cliffs-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-ibex-reintroduction-zone-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-dipper-fast-streams-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-pine-marten-conifer-forests-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-red-billed-chough-pastures-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-adder-snake-heathlands-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-animal-habitat-tawny-owl-old-forests-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-casa-beal-winery-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-borda-sabate-winery-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-casa-aravell-winery-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-tobacco-fields-sant-julia-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-high-mountain-potato-farms-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-cattle-grazing-pastures-canillo-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-sheep-and-goat-farms-ordino-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-beekeeping-honey-production-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-medicinal-herb-gardens-encamp-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-community-gardens-escaldes-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-horse-breeding-farms-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-market-garden-escaldes-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-trumfes-potato-cooperative-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-fruit-orchards-sant-julia-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-shepherd-huts-madriu-valley-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-organic-farm-anyos-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-forest-management-encamp-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-mushroom-foraging-areas-canillo-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-artisan-cheese-maker-la-massana-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraOther.ts",
+    "id": "ad-agriculture-wild-berry-harvesting-ordino-extra-3",
+    "hu_desc": "",
+    "hu_facts": []
+  }
+]

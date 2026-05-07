@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cult-trinity",
+    "name": "Trinity College"
+  },
+  {
+    "id": "cult-kilkenny",
+    "name": "Castelul Kilkenny"
+  },
+  {
+    "id": "hist-trim-castle",
+    "name": "Castelul Trim"
+  },
+  {
+    "id": "hist-newgrange",
+    "name": "Newgrange"
+  },
+  {
+    "id": "hist-kilmainham-gaol",
+    "name": "Kilmainham Gaol"
+  },
+  {
+    "id": "hist-rock-of-cashel",
+    "name": "Rock of Cashel"
+  },
+  {
+    "id": "hist-clonmacnoise",
+    "name": "Clonmacnoise"
+  },
+  {
+    "id": "hist-cahir-castle",
+    "name": "Castelul Cahir"
+  },
+  {
+    "id": "hist-battle-of-the-boyne",
+    "name": "Bătălia de la Boyne"
+  },
+  {
+    "id": "hist-charles-fort",
+    "name": "Fortul Charles"
+  },
+  {
+    "id": "landmark-guinness-storehouse",
+    "name": "Guinness Storehouse"
+  },
+  {
+    "id": "landmark-trinity-long-room",
+    "name": "Long Room"
+  },
+  {
+    "id": "landmark-dublin-castle",
+    "name": "Castelul Dublin"
+  },
+  {
+    "id": "landmark-st-patricks-cathedral",
+    "name": "Catedrala Sf. Patrick"
+  },
+  {
+    "id": "landmark-the-spire",
+    "name": "The Spire"
+  },
+  {
+    "id": "landmark-belfast-city-hall",
+    "name": "Belfast City Hall"
+  },
+  {
+    "id": "landmark-port-of-cork",
+    "name": "Portul Cork"
+  },
+  {
+    "id": "landmark-dublin-port",
+    "name": "Portul Dublin"
+  },
+  {
+    "id": "landmark-national-museum-archaeology",
+    "name": "National Museum of Ireland"
+  },
+  {
+    "id": "landmark-the-custom-house",
+    "name": "The Custom House"
+  },
+  {
+    "id": "landmark-belfast-harbour",
+    "name": "Portul Belfast"
+  },
+  {
+    "id": "landmark-shannon-free-zone",
+    "name": "Shannon Free Zone"
+  },
+  {
+    "id": "landmark-waterford-crystal",
+    "name": "Waterford Crystal"
+  },
+  {
+    "id": "landmark-golden-vale",
+    "name": "Golden Vale"
+  },
+  {
+    "id": "city-naas",
+    "name": "Naas"
+  },
+  {
+    "id": "city-portlaoise",
+    "name": "Portlaoise"
+  },
+  {
+    "id": "city-mullingar",
+    "name": "Mullingar"
+  },
+  {
+    "id": "city-tullamore",
+    "name": "Tullamore"
+  },
+  {
+    "id": "city-carrick-on-shannon",
+    "name": "Carrick-on-Shannon"
+  },
+  {
+    "id": "city-cavan",
+    "name": "Cavan"
+  }
+]

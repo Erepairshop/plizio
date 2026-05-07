@@ -1,0 +1,277 @@
+[
+  {
+    "id": "port-au-prince-port-economic-v2",
+    "name": "Port of Port-au-Prince",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "cap-haitien-port-economic-v2",
+    "name": "Port of Cap-Haïtien",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "caracol-industrial-park-economic-v2",
+    "name": "Caracol Industrial Park",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "miragoane-port-economic-v2",
+    "name": "Port of Miragoâne",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "saint-marc-port-economic-v2",
+    "name": "Port of Saint-Marc",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "jeremie-port-economic-v2",
+    "name": "Port of Jérémie",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "port-de-paix-port-economic-v2",
+    "name": "Port of Port-de-Paix",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "aux-cayes-port-economic-v2",
+    "name": "Port of Les Cayes",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "fort-liberte-port-economic-v2",
+    "name": "Port of Fort-Liberté",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "la-gonave-port-economic-v2",
+    "name": "Port of La Gonâve",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "cite-soleil-manufacturing-economic-v2",
+    "name": "Cité Soleil Industrial Zone",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "gonaives-industry-economic-v2",
+    "name": "Gonaïves Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "thomazeau-agri-industry-economic-v2",
+    "name": "Thomazeau Agro-industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "milot-industry-economic-v2",
+    "name": "Milot Construction Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "mirebalais-energy-economic-v2",
+    "name": "Mirebalais Energy Center",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "les-cayes-manufacturing-economic-v2",
+    "name": "Les Cayes Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "cabaret-cement-economic-v2",
+    "name": "Cabaret Cement Plant",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "petion-ville-commerce-economic-v2",
+    "name": "Pétion-Ville Commercial Hub",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "saint-michel-agri-economic-v2",
+    "name": "Saint-Michel Agro",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "limonade-tech-economic-v2",
+    "name": "Limonade Educational and Industrial Park",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "jacmel-port-economic-v2",
+    "name": "Port of Jacmel",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "anse-a-galets-port-economic-v2",
+    "name": "Port of Anse-à-Galets",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "port-margot-fishing-economic-v2",
+    "name": "Port-Margot Fishing Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "miragoane-industrial-zone-economic-v2",
+    "name": "Miragoâne Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "carrefour-commerce-economic-v2",
+    "name": "Carrefour Commercial Zone",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "petit-goave-port-economic-v2",
+    "name": "Port of Petit-Goâve",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "saint-louis-du-sud-port-economic-v2",
+    "name": "Port of Saint-Louis-du-Sud",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "bainet-fishing-economic-v2",
+    "name": "Bainet Fishing Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "les-anglais-fishing-economic-v2",
+    "name": "Les Anglais Fishing Industry",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "port-au-prince-airport-cargo-economic-v2",
+    "name": "Port-au-Prince Airport Cargo Terminal",
+    "file": "lib/visualLab/data/poiExtraHaitiEconomicV2.ts"
+  },
+  {
+    "id": "fort-brossard-history-v2",
+    "name": "Fort Brossard",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-val-fleury-history-v2",
+    "name": "Habitation Val Fleury",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-la-riviere-blanche-history-v2",
+    "name": "Fort de la Rivière Blanche",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-du-sud-history-v2",
+    "name": "Habitation du Sud",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "haiti-fort-biche-landmarks-v2",
+    "name": "Fort Biche",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-st-joseph-landmarks-v2",
+    "name": "Fort St. Joseph",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "cotes-de-fer-agri-life-v2",
+    "name": "Côtes-de-Fer Coffee Cultivation",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "ferme-ecologique-jacmel-life-v2",
+    "name": "Jacmel Ecological Farm",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-miraculeux-pa-p-life-v2",
+    "name": "Port-au-Prince Children's Leisure Park",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "bananenausbau-limonade-life-v2",
+    "name": "Limonade Banana Plantations",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "ferme-animaux-leogane-life-v2",
+    "name": "Léogâne Animal Farm",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-nature-cayemites-life-v2",
+    "name": "Cayemites Nature Park",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "jardin-education-haiti-life-v2",
+    "name": "Haiti Learning and Teaching Garden",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "chaine-des-matheux-relief-v2",
+    "name": "Chaîne des Matheux",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "plaine-du-cul-de-sac-relief-v2",
+    "name": "Cul-de-Sac Plain",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "morne-baptiste-relief-v2",
+    "name": "Morne Baptiste",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "foret-nationale-de-pins-relief-v2",
+    "name": "National Pine Forest",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "plaine-de-leogane-relief-v2",
+    "name": "Léogâne Plain",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "morne-des-commissaires-relief-v2",
+    "name": "Morne des Commissaires",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "vallee-de-jacmel-relief-v2",
+    "name": "Jacmel Valley",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "peninsule-du-nord-ouest-relief-v2",
+    "name": "North-West Peninsula",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "foret-des-grands-bois-relief-v2",
+    "name": "Grands Bois Forest",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "montagnes-trou-deau-relief-v2",
+    "name": "Trou d'Eau Mountains",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "plaine-des-cayes-relief-v2",
+    "name": "Les Cayes Plain",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  },
+  {
+    "id": "pic-de-bonhomme-relief-v2",
+    "name": "Pic de Bonhomme",
+    "file": "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "la-guaira-port-economic-v2",
+      "descriptionAdvanced": "La Guaira serves as the most important maritime port in Venezuela, acting as the main gateway to Caracas and the central region. Located along the Caribbean coast, it handles a significant portion of the country's imports and exports. The port is vital for Venezuela's national trade, providing essential logistical support for both industrial operations and consumer markets. Its history as a colonial port, combined with modern infrastructure, underscores its enduring economic importance. Geography K6 — Trade and Logistics.",
+      "factsAdvanced": [
+        "Primary maritime port for Caracas.",
+        "Located in the state of Vargas.",
+        "Crucial for the national import and export economy.",
+        "Handles a diverse range of maritime logistics.",
+        "History dating back to colonial Spanish trade routes.",
+        "Strategic coastal location in the Caribbean."
+      ]
+    },
+    {
+      "id": "puerto-cabello-port-economic-v2",
+      "descriptionAdvanced": "Puerto Cabello is a strategic industrial and maritime city located on Venezuela's north-central coast. As one of the country's busiest ports, it plays a fundamental role in moving freight and commodities through the national transportation network. Its proximity to key industrial centers like Valencia makes it indispensable for manufacturing logistics. Puerto Cabello's development reflects its deep historical roots, evolving from a protective colonial port into an economic engine for modern Venezuela. Geography K6 — Industry and Trade.",
+      "factsAdvanced": [
+        "Major industrial maritime port in Venezuela.",
+        "Closest port to the industrial hub of Valencia.",
+        "Handles a massive volume of freight and commodities.",
+        "Strategic position for international trade.",
+        "Deep colonial roots as a fortified coastal city.",
+        "Essential logistical link for domestic manufacturing."
+      ]
+    },
+    {
+      "id": "maracaibo-port-economic-v2",
+      "descriptionAdvanced": "The port of Maracaibo is central to the economic identity of western Venezuela, providing vital maritime access through Lake Maracaibo. For decades, it has been instrumental in the transport of petroleum and petrochemical products, which are the backbone of the region's economy. The port connects the rich natural resources of the Zulia state to international markets, sustaining both local industry and national exports. Its operational capacity reflects the complex interplay between infrastructure, natural resources, and regional prosperity. Geography K6 — Energy and Resources.",
+      "factsAdvanced": [
+        "Critical port for petroleum and petrochemical transport.",
+        "Provides maritime access through Lake Maracaibo.",
+        "Connects the Zulia state to international trade.",
+        "Backbone for the region's export-oriented economy.",
+        "Vital infrastructure for Venezuela's energy sector.",
+        "Operational hub for the western maritime routes."
+      ]
+    }
+  ]
+}

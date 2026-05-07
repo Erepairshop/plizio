@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "harpers-ferry-history-v2",
+      "descriptionAdvanced": "Harpers Ferry, West Virginia, sits at the strategic confluence of the Potomac and Shenandoah rivers, serving as a critical gateway to the Shenandoah Valley. It is most famous for John Brown’s 1859 raid on the federal armory, an act of militant abolitionism that sent shockwaves across the divided nation, intensifying sectional tensions on the eve of the Civil War. Throughout the war, the town’s strategic position made it a frequent flashpoint, changing hands between Union and Confederate forces multiple times. Today, the town is preserved as a national park, standing as a quiet, somber memorial to the events that escalated the path toward the war that would eventually end the practice of slavery in America. History K8 — John Brown's raid and the lead-up to the Civil War.",
+      "factsAdvanced": [
+        "Strategically located at the confluence of the Potomac and Shenandoah rivers.",
+        "Site of John Brown’s 1859 raid on the federal armory.",
+        "The raid intensified national tensions just before the Civil War.",
+        "Changed hands frequently between Union and Confederate forces during the war.",
+        "A critical gateway to the Shenandoah Valley in the 19th century.",
+        "Preserved as a national historic park reflecting early national conflict."
+      ]
+    },
+    {
+      "id": "promontory-summit-history-v2",
+      "descriptionAdvanced": "Promontory Summit, Utah, is the site where the First Transcontinental Railroad was officially completed on May 10, 1869, with the driving of the ceremonial 'Golden Spike.' This monumental engineering achievement connected the Union Pacific and Central Pacific railroads, revolutionizing transcontinental travel, commerce, and settlement by cutting travel time from months to mere days. The completion of the line effectively unified the American coasts, accelerating the rapid expansion of the nation and the displacement of Indigenous populations across the Great Plains. Today, the site serves as an educational national historic site, commemorating the labor—primarily of Chinese and Irish immigrants—and the technological shift that redefined the American geography. History K8 — Transcontinental railroad and industrial acceleration.",
+      "factsAdvanced": [
+        "Location of the completion of the First Transcontinental Railroad in 1869.",
+        "Connected the Union Pacific and Central Pacific railroads.",
+        "Drove the ceremonial 'Golden Spike' to unify American coast-to-coast travel.",
+        "Reduced transcontinental travel from months to mere days.",
+        "Built largely through the intensive labor of Chinese and Irish immigrants.",
+        "Accelerated the industrial expansion of the US in the late 19th century."
+      ]
+    },
+    {
+      "id": "chaco-canyon-history-v2",
+      "descriptionAdvanced": "Chaco Canyon, in northwestern New Mexico, is the site of a profound cultural and political center of the Ancestral Puebloan people between 850 and 1150 CE. The canyon served as the ceremonial and economic hub for a vast region, characterized by its impressive 'Great Houses'—complex masonry apartment-like structures that demonstrate advanced astronomical alignment and sophisticated architectural engineering. The society at Chaco displayed remarkable management over their arid environment and maintained an extensive road system that connected outlying communities to this central hub. The abandonment of the site remains a subject of ongoing historical research, and it stands today as a testament to the organizational, spiritual, and structural ingenuity of ancient North American civilizations. History K6 — Ancestral Puebloan societal and architectural ingenuity.",
+      "factsAdvanced": [
+        "Cultural and ceremonial hub for Ancestral Puebloan society, 850–1150 CE.",
+        "Famous for 'Great Houses' displaying sophisticated astronomical alignments.",
+        "Demonstrates master-level architectural engineering in an arid environment.",
+        "Central to an extensive regional road network connecting outlying settlements.",
+        "Abandoned for reasons still under modern archaeological investigation.",
+        "Recognized globally as a site of profound ancient North American complexity."
+      ]
+    }
+  ]
+}

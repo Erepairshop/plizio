@@ -1,0 +1,295 @@
+{
+  "lang": "ro",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-mossel-bay-cities-v2",
+      "descriptionAdvanced": "Mossel Bay, situat la jumătatea distanței între Cape Town și Gqeberha, este locul unde primii exploratori europeni, conduși de Bartolomeu Dias, au debarcat în 1488. Orașul este celebru pentru 'Arborele Poștal' (Post Office Tree), un vechi arbore de lapte folosit de marinari în secolul al XVI-lea pentru a lăsa scrisori în ghete. Astăzi, Mossel Bay este un centru turistic major și un hub industrial pentru gaze naturale și petrol. Plajele sale sigure, precum Santos Beach, și clima moderată îl fac popular pentru familii. Muzeul Maritim Dias găzduiește o replică la scară naturală a caravelei lui Dias, oferind o incursiune fascinantă în istoria maritimă a regiunii. Geografie K7 — Marile descoperiri geografice și resurse energetice marine.",
+      "factsAdvanced": [
+        "Locul primei debarcări europene în Africa de Sud (1488).",
+        "Post Office Tree este un monument național vechi de peste 500 de ani.",
+        "Găzduiește singura rafinărie de gaze-în-lichid (GTL) din Africa de Sud.",
+        "Muzeul Dias conține o replică fidelă a caravelei portugheze.",
+        "Cunoscut pentru 'The Point', un loc spectacolos unde se întâlnesc curenții oceanici.",
+        "Peșterile Pinnacle Point din apropiere conțin dovezi ale comportamentului uman modern timpuriu.",
+        "Climatul este certificat ca fiind al doilea cel mai moderat din lume, după Hawaii.",
+        "Santos Beach este una dintre puținele plaje din emisfera sudică orientate spre nord."
+      ]
+    },
+    {
+      "id": "southafrica-saldanha-cities-v2",
+      "descriptionAdvanced": "Saldanha, situat pe coasta de vest a provinciei Western Cape, deține cel mai mare și cel mai adânc port natural din Africa de Sud. Orașul este un centru industrial vital, fiind punctul terminus al liniei ferate care transportă minereu de fier de la Sishen, pe o distanță de peste 800 km. Golful Saldanha este, de asemenea, renumit pentru maricultura sa, producând stridii și midii de înaltă calitate, beneficiind de curentul rece Benguela. Din punct de vedere istoric, zona a fost explorată de francezi și portughezi, păstrând o importanță strategică pentru navigație. Parcul Național West Coast, aflat în apropiere, oferă peisaje lagunare uluitoare și spectacole florale în timpul primăverii. Geografie K7 — Infrastructura de transport greu și resurse marine.",
+      "factsAdvanced": [
+        "Port natural masiv, de trei ori mai mare decât Golful Table din Cape Town.",
+        "Punct de export major pentru minereul de fier din Northern Cape.",
+        "Găzduiește o bază navală importantă a Marinei Africii de Sud.",
+        "Cunoscut pentru creșterea scoicilor și stridiilor în apele bogate în nutrienți.",
+        "Numit după exploratorul portughez António de Saldanha.",
+        "Zona este un hotspot pentru observarea balenelor în timpul iernii.",
+        "Infrastructura portuară permite ancorarea unor nave de tonaj foarte mare.",
+        "Laguna Langebaan din apropiere este un sit protejat Ramsar pentru păsări migratoare."
+      ]
+    },
+    {
+      "id": "southafrica-springbok-cities-v2",
+      "descriptionAdvanced": "Springbok este cel mai mare oraș din regiunea Namaqualand, în Northern Cape, și servește drept principal centru comercial pentru minele de cupru din jur. Orașul devine o atracție turistică mondială în fiecare primăvară, când peisajul arid se transformă peste noapte într-un covor infinit de flori sălbatice multicolore. Springbok are o istorie minieră lungă, fiind locul unde a început prima exploatare comercială a cuprului în Africa de Sud în 1852. Situat într-o depresiune înconjurată de dealuri de granit, orașul oferă o perspectivă unică asupra vieții în regiunile deșertice ale Africii de Sud. Rezervația Naturală Goegap, situată în apropiere, protejează flora și fauna unică a zonei. Geografie K7 — Biomi deșertici și ciclul floristic anual.",
+      "factsAdvanced": [
+        "Capitala neoficială a regiunii Namaqualand.",
+        "Centrul celebrului fenomen al înfloririi deșertului în august și septembrie.",
+        "Locul primei mine comerciale de cupru din Africa de Sud.",
+        "Situat pe autostrada N7, legătura principală între Cape Town și Namibia.",
+        "Numele provine de la numeroasele gazele Springbok care veneau să se adape aici.",
+        "Înconjurat de stânci spectaculoase de granit specifice peisajului Namaqua.",
+        "Rezervația Goegap găzduiește peste 600 de specii de plante.",
+        "Climatul este arid, cu temperaturi extreme și precipitații puține."
+      ]
+    },
+    {
+      "id": "southafrica-de-aar-cities-v2",
+      "descriptionAdvanced": "De Aar, situat în inima regiunii Karoo, este al doilea cel mai important nod feroviar din Africa de Sud, unde liniile care leagă Cape Town, Johannesburg și Port Elizabeth se întâlnesc. Numele său înseamnă 'Artera' în olandeză, referindu-se la fluxul vital de apă subterană descoperit acolo. Orașul este esențial pentru logistica feroviară națională și găzduiește unul dintre cele mai mari depozite de muniție din emisfera sudică. În ultimii ani, De Aar a devenit un lider în energia regenerabilă, găzduind unele dintre cele mai mari parcuri eoliene și solare de pe continent, profitând de vânturile constante și soarele puternic din Karoo. Geografie K7 — Energie regenerabilă și noduri de transport feroviar.",
+      "factsAdvanced": [
+        "Nod feroviar crucial cu peste 110 km de linii de cale ferată în zonă.",
+        "Găzduiește centre majore de energie eoliană și solară.",
+        "Fondat în 1881 pe o fermă cumpărată special pentru infrastructura feroviară.",
+        "Cunoscut pentru creșterea oilor Merino și producția de lână.",
+        "Centru strategic militar cu vaste depozite subterane.",
+        "Zona este bogată în artă rupestră san (bushman) și fosile de dinozauri.",
+        "Climatul este tipic pentru Great Karoo: arid, cu variații mari de temperatură.",
+        "Numele orașului reflectă prezența venelor de apă subterană."
+      ]
+    },
+    {
+      "id": "southafrica-kuruman-cities-v2",
+      "descriptionAdvanced": "Kuruman, situat la marginea deșertului Kalahari în provincia Northern Cape, este renumit pentru oaza sa permanentă cunoscută sub numele de 'Die Oog' (Ochiul). Acest izvor natural debitează milioane de litri de apă zilnic în inima unui peisaj altfel arid, făcând viața posibilă de milenii. Orașul este profund legat de istoria misionară; aici Robert Moffat a tradus Biblia în limba Setswana și l-a întâlnit pe David Livingstone. Astăzi, Kuruman este un centru prosper pentru mineritul de mangan și minereu de fier din regiunea Kalahari. Izvorul rămâne principala atracție, creând un lac mic înconjurat de palmieri și vegetație luxuriantă, un contrast izbitor cu deșertul din jur. Geografie K7 — Oaze deșertice și hidrogeologie.",
+      "factsAdvanced": [
+        "Găzduiește 'Die Oog', cel mai mare izvor natural de apă din emisfera sudică.",
+        "Misiunea Moffat din 1821 este una dintre cele mai vechi clădiri din regiune.",
+        "Locul unde Robert Moffat a trăit și a lucrat timp de 50 de ani.",
+        "Baza logistică pentru vastele mine de mangan din apropiere.",
+        "David Livingstone s-a căsătorit cu Mary Moffat în această localitate.",
+        "Izvorul produce aproximativ 20-30 de milioane de litri de apă pe zi.",
+        "Numele provine din limba San și se referă la tărtăcuțele de apă.",
+        "Punct de plecare către regiunea Kgalagadi și Namibia."
+      ]
+    },
+    {
+      "id": "southafrica-kathu-cities-v2",
+      "descriptionAdvanced": "Kathu, supranumit 'Orașul sub copaci', este inima industriei minereului de fier din Africa de Sud. Situat în Northern Cape, orașul a fost construit în jurul uneia dintre cele mai mari mine de fier de suprafață din lume, Sishen. Un aspect fascinant al acestui oraș industrial este prezența unei păduri rare de arbori Camel Thorn (Acacia erioloba), declarată monument natural, care oferă o umbră densă și un peisaj surprinzător de verde în mijlocul deșertului Kalahari. Kathu este un oraș modern, cu infrastructură dezvoltată pentru muncitorii minieri și familiile lor, incluzând un teren de golf faimos. Economia sa este direct legată de prețul global al fierului și de logistica masivă feroviară către portul Saldanha. Geografie K7 — Resurse metalurgice și conservarea florei endemice.",
+      "factsAdvanced": [
+        "Sediul minei Sishen, una dintre cele mai mari mine de fier de pe glob.",
+        "Pădurea de Camel Thorn de aici este protejată prin lege.",
+        "Orașul a fost planificat și construit special pentru sectorul minier în 1972.",
+        "Găzduiește un teren de golf situat în interiorul pădurii de salcâmi.",
+        "Numele Kathu înseamnă 'Oraș sub copaci' în limba Tswana.",
+        "Minereul de fier de aici este transportat pe cea mai lungă linie ferată din țară.",
+        "Înregistrează o creștere economică rapidă datorită cererii globale de fier.",
+        "Zona este recunoscută pentru siturile arheologice din epoca pietrei."
+      ]
+    },
+    {
+      "id": "southafrica-colesberg-cities-v2",
+      "descriptionAdvanced": "Colesberg este un punct de popas istoric și esențial pentru călătorii care traversează platoul Karoo pe autostrada N1. Orașul este dominat de muntele Coleskop, un punct de reper vizibil de la zeci de kilometri distanță. Fondat în 1830, Colesberg este celebru pentru creșterea cailor de rasă, având unele dintre cele mai bune herghelii din țară datorită solului bogat în calciu. Arhitectura orașului este un amestec fermecător de stiluri Cape Dutch și victorian, reflectând istoria sa ca avanpost colonial. În timpul Războiului Burilor, Colesberg a fost scena unor bătălii intense pentru controlul nodurilor de transport feroviar. Astăzi, este apreciat pentru ospitalitatea Karoo și carnea de miel de înaltă calitate. Geografie K7 — Agricultura specializată și rute de tranzit.",
+      "factsAdvanced": [
+        "Centrul industriei de creștere a cailor pur sânge din Africa de Sud.",
+        "Numit după Sir Lowry Cole, guvernatorul Coloniei Capului în 1830.",
+        "Muntele Coleskop (1.700 m) este un reper geografic major în Karoo.",
+        "Găzduiește Biserica Reformată Olandeză, o capodoperă arhitecturală din 1860.",
+        "Scena unor lupte strategice în timpul Războiului Anglo-Bur (1899-1902).",
+        "Peste 100 de clădiri din oraș sunt declarate monumente naționale.",
+        "Regiunea este renumită pentru lâna Merino și mielul Karoo.",
+        "Climatul este arid, cu nopți extrem de reci în timpul iernii."
+      ]
+    },
+    {
+      "id": "southafrica-vryburg-cities-v2",
+      "descriptionAdvanced": "Vryburg este capitala agricolă a provinciei North West, fiind adesea numit 'Texasul Africii de Sud' datorită industriei sale masive de creștere a vitelor. Orașul găzduiește unele dintre cele mai mari licitații de animale vii de pe continent. Istoria sa este marcată de perioada republicii efemere Stellaland, fondată de mercenari buri în 1882, Vryburg fiind capitala acesteia. Orașul servește ca un centru comercial vital pentru fermierii din regiunea Kalahari de Est. Peisajul din jur este dominat de savana deschisă și ferme vaste de animale. Moștenirea multiculturală a orașului este reflectată în arhitectura și tradițiile sale, fiind un loc unde economia rurală dictează ritmul vieții urbane. Geografie K7 — Creșterea animalelor la scară industrială.",
+      "factsAdvanced": [
+        "Cel mai mare producător de carne de vită din Africa de Sud.",
+        "Fosta capitală a Republicii Stellaland (1882-1885).",
+        "Găzduiește licitații săptămânale de vite cu mii de capete de animale.",
+        "Numele înseamnă 'Orașul Liber' în olandeză.",
+        "Situat pe ruta principală feroviară și rutieră către Namibia.",
+        "Economia este susținută și de cultura porumbului și a arahidelor.",
+        "Muzeul local păstrează steagul original al Republicii Stellaland.",
+        "Peisajul este o combinație de savană cu arbori de Camel Thorn."
+      ]
+    },
+    {
+      "id": "southafrica-klerksdorp-cities-v2",
+      "descriptionAdvanced": "Klerksdorp, situat în provincia North West pe malurile râului Schoonspruit, este unul dintre cele mai vechi orașe fondate de buri în nordul țării. Inițial un centru agricol, orașul a explodat economic după descoperirea aurului în 1886. Astăzi, face parte dintr-un district minier vast, dar rămâne și un hub agricol major, în special pentru producția de porumb, găzduind sediul celei mai mari cooperative agricole din emisfera sudică, Senwes. Klerksdorp oferă o combinație de istorie minieră, vizibilă în vechile galerii și clădiri coloniale, și facilități moderne. Muzeul Klerksdorp, situat într-o fostă închisoare, oferă detalii despre goana după aur și viața primilor coloniști. Geografie K7 — Economie mixtă: minerit și agricultură de cereale.",
+      "factsAdvanced": [
+        "Fondat în 1837, fiind prima așezare europeană la nord de râul Vaal.",
+        "Economia sa se bazează pe mineritul aurului și uraniului.",
+        "Găzduiește Senwes, una dintre cele mai mari companii agricole din Africa.",
+        "Numele provine de la Barend de Klerk, primul magistrat al așezării.",
+        "Unul dintre puținele orașe cu o bursă de aur activă la sfârșitul secolului XIX.",
+        "Găzduiește cel mai mare spital din regiunea de nord-vest.",
+        "Barajul Faan Meintjies din apropiere este o rezervație naturală populară.",
+        "Situat pe ruta N12, legătura vitală între Johannesburg și Kimberley."
+      ]
+    },
+    {
+      "id": "southafrica-potchefstroom-cities-v2",
+      "descriptionAdvanced": "Potchefstroom, situat pe malurile râului Mooi în provincia North West, este un oraș academic și sportiv de renume mondial. Fostă capitală a Republicii Sud-Africane (Transvaal), orașul păstrează un patrimoniu istoric bogat, dar este definit astăzi de Universitatea North-West. Potchefstroom este considerat un centru de excelență sportivă, fiind destinația preferată pentru antrenamente la altitudine a multor atleți olimpici internaționali datorită facilităților de clasă mondială. Orașul este celebru pentru bulevardele sale mărginite de mii de stejari, declarate monument național. Festivalul cultural Aardklop atrage anual zeci de mii de vizitatori, transformând orașul într-o scenă vibrantă pentru artele spectacolului. Geografie K7 — Centre universitare și pregătire sportivă de înaltă performanță.",
+      "factsAdvanced": [
+        "Prima capitală a Republicii Sud-Africane (Transvaal) între 1852 și 1860.",
+        "Găzduiește campusul principal al Universității North-West (NWU).",
+        "Cunoscut pentru bulevardul de stejari lung de 7 km, cel mai lung de acest tip din emisfera sudică.",
+        "Centru global de antrenament pentru atleți olimpici în timpul iernii europene.",
+        "Aici s-a tipărit primul ziar din fosta republică Transvaal.",
+        "Găzduiește Aardklop, unul dintre cele mai mari festivaluri de artă în limba afrikaans.",
+        "Situat pe malurile râului Mooi ('Frumos' în olandeză).",
+        "Economia este susținută de educație, servicii și industria militară."
+      ]
+    },
+    {
+      "id": "southafrica-brits-cities-v2",
+      "descriptionAdvanced": "Brits, situat în provincia North West, este un oraș industrial și agricol dinamic, aflat în umbra munților Magaliesberg. Orașul este celebru pentru faptul că este centrul mondial al mineritului de platină și crom, făcând parte din bogatul Complex Bushveld. Pe lângă minerit, Brits este o zonă agricolă extrem de productivă, datorită irigațiilor din barajul Hartbeespoort, producând citrice, legume și flori pentru export. Brits găzduiește și fabrici auto majore, contribuind semnificativ la lanțul de aprovizionare industrială al Africii de Sud. Proximitatea față de barajul Hartbeespoort face din Brits un punct de plecare pentru activități recreative și turism de weekend pentru locuitorii din Gauteng. Geografie K7 — Mineritul metalelor rare și agricultură de irigație.",
+      "factsAdvanced": [
+        "Unul dintre principalii producători mondiali de crom și platină.",
+        "Situat în fertila vale a râului Crocodile, alimentată de barajul Hartbeespoort.",
+        "Găzduiește Centrul de Cercetare pentru Ghepardi 'Ann van Dyk'.",
+        "Fondat în 1924 pe ferma lui Johannes Nicolaas Brits.",
+        "Centru important pentru industria de componente auto.",
+        "Zona este renumită pentru producția de flori tăiate și citrice.",
+        "Complexul Bushveld din jurul orașului deține cele mai mari rezerve de crom de pe Pământ.",
+        "Climatul este subtropical, favorizând agricultura intensivă."
+      ]
+    },
+    {
+      "id": "southafrica-welkom-cities-v2",
+      "descriptionAdvanced": "Welkom, situat în provincia Free State, este un oraș planificat care a luat naștere în urma descoperirii unuia dintre cele mai bogate zăcăminte de aur din lume în 1946. Orașul este unic prin designul său urban, fiind proiectat fără semafoare, bazându-se exclusiv pe sensuri giratorii pentru fluidizarea traficului. Welkom a fost un model de urbanism modern la mijlocul secolului XX, cu parcuri vaste și zone rezidențiale bine delimitate. Deși industria aurului a scăzut în intensitate, Welkom rămâne al doilea cel mai mare oraș din provincie. Un aspect neașteptat al orașului este prezența a mii de flamingo roz pe lacurile formate prin evacuarea apei din mine, oferind un spectacol natural rar. Geografie K7 — Orașe planificate și impactul mineritului asupra peisajului.",
+      "factsAdvanced": [
+        "Oraș fondat special pentru mineritul aurului în 1947.",
+        "Unic în Africa de Sud pentru designul traficului fără semafoare.",
+        "Numele înseamnă 'Bine ați venit' în afrikaans și olandeză.",
+        "Găzduiește circuitul de curse Phakisa Freeway, de standard internațional.",
+        "Peste 20% din aurul produs istoric în lume provine din această regiune.",
+        "Lacurile miniere din jur adăpostesc o populație masivă de flamingo roz.",
+        "Orașul are peste un milion de arbori plantați în zonele verzi urbane.",
+        "Economia se diversifică în prezent către agricultură și servicii."
+      ]
+    },
+    {
+      "id": "southafrica-kroonstad-cities-v2",
+      "descriptionAdvanced": "Kroonstad, situat pe malurile râului Vals în provincia Free State, este un centru agricol și de transport crucial pe ruta principală dintre Johannesburg și Cape Town. Orașul este inima producției de porumb a Africii de Sud, fiind înconjurat de câmpii fertile nesfârșite. Kroonstad a servit drept capitală temporară a statului Orange Free State în timpul Războiului Burilor, având o istorie politică semnificativă. Râul Vals oferă facilități recreative excelente, cu parcuri mărginite de sălcii și zone de pescuit. Orașul este recunoscut pentru arhitectura sa istorică, inclusiv clădirea impozantă a primăriei și gara veche, reflectând prosperitatea adusă de agricultură și calea ferată. Geografie K7 — Agricultura cerealieră și istorie regională.",
+      "factsAdvanced": [
+        "Al treilea cel mai mare oraș din provincia Free State.",
+        "Centru major pentru industria porumbului și a florii-soarelui.",
+        "Numit după un cal celebru numit 'Kroon', care s-a înecat în râul local.",
+        "Nod feroviar esențial pe linia principală Johannesburg-Cape Town.",
+        "Găzduiește un centru de instruire major al poliției naționale.",
+        "Râul Vals ('Fals' în olandeză) trece prin centrul orașului.",
+        "Arhitectura Cape Dutch și victoriană este bine conservată în zona centrală.",
+        "Zonă importantă pentru creșterea vitelor de rasă."
+      ]
+    },
+    {
+      "id": "southafrica-bethlehem-cities-v2",
+      "descriptionAdvanced": "Bethlehem, situat în estul provinciei Free State, este un oraș pitoresc aflat la poalele munților Maluti, fiind poarta de acces către spectaculoasa regiune Golden Gate. Numele său provine din ebraică și înseamnă 'Casa Pâinii', reflectând fertilitatea văii râului Jordan, ideală pentru cultivarea grâului. Orașul beneficiază de o climă montană revigorantă și este un nod de transport strategic către Lesotho și coasta din KwaZulu-Natal. Bethlehem este renumit pentru hergheliile sale și pentru Rezervația Naturală Pretoriuskloof, un sanctuar de liniște în interiorul orașului. Peisajul din jur, marcat de formațiuni de gresie aurie, face din această zonă una dintre cele mai frumoase regiuni agricole ale țării. Geografie K7 — Agricultură montană și regiuni climatice înalte.",
+      "factsAdvanced": [
+        "Cel mai mare oraș din estul provinciei Free State.",
+        "Situat într-o regiune fertilă de producție a grâului.",
+        "Punct de plecare către Parcul Național Golden Gate Highlands.",
+        "Râul care traversează orașul a fost numit 'Jordan' de coloniștii religioși.",
+        "Altitudinea de 1.700 metri asigură ierni reci, uneori cu zăpadă.",
+        "Găzduiește festivaluri culturale și competiții de echitație.",
+        "Economia se bazează pe logistică, comerț și agricultură intensivă.",
+        "Barajul Saulspoort oferă rezerve de apă și oportunități de recreere."
+      ]
+    },
+    {
+      "id": "southafrica-sasolburg-cities-v2",
+      "descriptionAdvanced": "Sasolburg, situat pe malul râului Vaal în provincia Free State, este un monument al ingineriei chimice sud-africane. Orașul a fost construit în 1954 pentru a găzdui muncitorii primei fabrici de producere a petrolului din cărbune (Sasol). Este un oraș industrial planificat, cu zone verzi vaste concepute pentru a compensa impactul vizual al rafinăriilor uriașe. Sasolburg face parte din 'Triunghiul de Fier' al industriei grele din Africa de Sud, alături de Vereeniging și Vanderbijlpark. Dincolo de chimie, orașul s-a dezvoltat ca un centru cultural local, având un teatru renumit și facilități sportive excelente. Râul Vaal oferă un contrast natural, fiind un loc popular pentru sporturi nautice și relaxare. Geografie K7 — Industrializarea chimică și procesul de lichefiere a cărbunelui.",
+      "factsAdvanced": [
+        "Locul unde se află prima fabrică din lume de obținere a petrolului din cărbune (Sasol One).",
+        "Oraș planificat cu o structură urbană simetrică și zone verzi extinse.",
+        "Parte a complexului industrial Vaal Triangle.",
+        "Numele este un acronim de la 'Suid-Afrikaanse Steenkool-, Olie- en Gaskorporasie'.",
+        "Centru major pentru producția de polimeri, îngrășăminte și gaze industriale.",
+        "Teatrul Etienne Rousseau este un punct focal cultural în regiune.",
+        "Situat la granița dintre provinciile Free State și Gauteng.",
+        "Climatul este temperat de interior, cu veri ploioase și ierni uscate."
+      ]
+    },
+    {
+      "id": "southafrica-harrismith-cities-v2",
+      "descriptionAdvanced": "Harrismith, situat la poalele spectaculosului munte Platberg în provincia Free State, este un punct de popas vital pe autostrada N3, principala rută între Johannesburg și Durban. Orașul, aflat la o altitudine de 1.600 de metri, este adesea acoperit de zăpadă în timpul iernii, oferind peisaje montane unice. Harrismith este renumit pentru hergheliile sale și pentru producția de lână și lactate. Muntele Platberg domină orizontul și găzduiește anual o celebră cursă de alergare montană. Proximitatea față de Pasul Van Reenen și barajul Sterkfontein îl face o destinație populară pentru iubitorii de natură și sporturi nautice, fiind un nod strategic pentru turismul montan. Geografie K7 — Pasuri montane și rute comerciale strategice.",
+      "factsAdvanced": [
+        "Punct de tranzit crucial la jumătatea distanței dintre Johannesburg și Durban.",
+        "Muntele Platberg (2.394 m) este una dintre cele mai înalte 'table mountains' din regiune.",
+        "Cunoscut pentru arborele de lămâi petrificat, vechi de peste 150 de milioane de ani.",
+        "Găzduiește barajul Sterkfontein, al treilea cel mai mare din Africa de Sud.",
+        "Unul dintre cele mai reci orașe din țară în timpul iernii.",
+        "Fondat în 1849 și numit după guvernatorul Sir Harry Smith.",
+        "Zonă agricolă majoră pentru creșterea vitelor de lapte.",
+        "Punct de acces către munții Drakensberg de Nord."
+      ]
+    },
+    {
+      "id": "southafrica-phuthaditjhaba-cities-v2",
+      "descriptionAdvanced": "Phuthaditjhaba, situat în estul provinciei Free State, este un oraș montan spectaculos, aflat la granița cu Lesotho și KwaZulu-Natal. Numele său în limba Sesotho înseamnă 'Locul de întâlnire al națiunilor'. Orașul a servit drept capitală a fostului bantustan QwaQwa și este înconjurat de vârfurile dramatice ale munților Maluti și Drakensberg. Este poarta principală către Parcul Național Golden Gate Highlands și către faimosul traseu Sentinel Hike, care duce la vârful cascadei Tugela. Phuthaditjhaba este un centru al culturii Basotho, fiind renumit pentru produsele artizanale, în special pălăriile și păturile tradiționale. Peisajul montan oferă unele dintre cele mai frumoase trasee de drumeție din Africa de Sud. Geografie K7 — Zone montane înalte și culturi indigene.",
+      "factsAdvanced": [
+        "Fosta capitală a bantustanului QwaQwa (1974-1994).",
+        "Situat la o altitudine medie de 1.646 metri, înconjurat de munți înalți.",
+        "Poarta de acces către Cascada Tugela, a doua cea mai înaltă din lume.",
+        "Centru cultural major al poporului Sotho (Basotho).",
+        "Numele reflectă istoria sa ca loc de refugiu pentru diverse triburi.",
+        "Proximitatea față de barajul Fika-Patso, o sursă vitală de apă montană.",
+        "Recunoscut pentru arhitectura tradițională și arta murală Basotho.",
+        "Iernile sunt severe, cu ninsori frecvente pe munții din jur."
+      ]
+    },
+    {
+      "id": "southafrica-newcastle-cities-v2",
+      "descriptionAdvanced": "Newcastle, situat în nord-vestul provinciei KwaZulu-Natal, este al treilea cel mai mare oraș din provincie și un centru industrial și minier de prim rang. Orașul s-a dezvoltat în jurul exploatărilor de cărbune, dar astăzi este dominat de producția de oțel și industria textilă. Newcastle are o istorie bogată, fiind un punct strategic în timpul războaielor anglo-bure, fapt reflectat în forturile și monumentele din zonă. Orașul este mândru de patrimoniul său victorian, dar și de comunitatea sa vibrantă și diversă. Situat la poalele munților Drakensberg, Newcastle oferă un echilibru între activitatea industrială intensă și accesul rapid la frumuseți naturale și rezervații de vânătoare. Geografie K7 — Industria siderurgică și resursele de cărbune.",
+      "factsAdvanced": [
+        "Cel mai mare producător de oțel din nordul provinciei KwaZulu-Natal.",
+        "Numit după Ducele de Newcastle, secretarul colonial britanic în 1854.",
+        "A fost capitala provinciei Natal timp de câteva luni în 1881.",
+        "Găzduiește fabrici textile majore care exportă la nivel global.",
+        "Cunoscut pentru Chelmsford Nature Reserve și barajul Ntshingwayo.",
+        "Bătălia de la Majuba Hill (1881) a avut loc în apropiere.",
+        "Un important hub educațional și de servicii pentru nordul KZN.",
+        "Economia se diversifică rapid către comerț și servicii financiare."
+      ]
+    },
+    {
+      "id": "southafrica-richards-bay-cities-v2",
+      "descriptionAdvanced": "Richards Bay, situat pe coasta estică a provinciei KwaZulu-Natal, găzduiește cel mai mare terminal de export de cărbune din lume. Orașul a fost transformat dintr-un mic sat de pescari într-un port industrial de clasă mondială în anii 1970. Portul este construit într-o lagună adâncă și este pilonul central al exporturilor miniere ale Africii de Sud. Richards Bay este, de asemenea, un centru major pentru topirea aluminiului și prelucrarea nisipurilor minerale. În ciuda caracterului său industrial, orașul păstrează zone naturale superbe, cu lacuri de coastă și plaje extinse. Este o destinație populară pentru pescuit sportiv și navigare, oferind un amestec unic de tehnologie industrială masivă și biodiversitate subtropicală. Geografie K7 — Terminale maritime de export și industria aluminiului.",
+      "factsAdvanced": [
+        "Sediul celui mai mare terminal de export de cărbune de pe glob (RBCT).",
+        "Găzduiește două dintre cele mai mari topitorii de aluminiu din emisfera sudică.",
+        "Portul a fost inaugurat oficial în 1976.",
+        "Situat pe malurile unei lagune de 3.000 de hectare.",
+        "Punct cheie pentru exportul de zirconiu și titan din nisipurile locale.",
+        "Zona este renumită pentru observarea hipopotamilor și crocodililor în lacurile din jur.",
+        "Punct de intrare pentru explorarea regiunii Zululand.",
+        "Climatul este subtropical umed, cu veri foarte calde."
+      ]
+    },
+    {
+      "id": "southafrica-ladysmith-cities-v2",
+      "descriptionAdvanced": "Ladysmith, situat pe malurile râului Klip în provincia KwaZulu-Natal, este un oraș cu o semnificație istorică militară extraordinară. A devenit faimos la nivel mondial în timpul Războiului Burilor pentru Asediul Ladysmith, care a durat 118 zile și a captat atenția întregului Imperiu Britanic. Orașul este astăzi un centru comercial și de transport important, servind ca legătură între coasta Durbanului și interiorul țării. Ladysmith este, de asemenea, locul de origine al celebrului grup muzical Ladysmith Black Mambazo, câștigător a numeroase premii Grammy. Moștenirea sa culturală este vizibilă în muzeele militare și monumentele dedicate victimelor conflictelor istorice, oferind o perspectivă profundă asupra formării identității sud-africane. Geografie K7 — Istorie militară și patrimoniu cultural muzical.",
+      "factsAdvanced": [
+        "Asediul Ladysmith (1899-1900) a fost unul dintre cele mai celebre momente ale Războiului Burilor.",
+        "Numit după Juana Maria de los Dolores de Leon Smith, soția guvernatorului Sir Harry Smith.",
+        "Locul de naștere al grupului vocal Ladysmith Black Mambazo.",
+        "Muzeul Asediului (Siege Museum) este considerat unul dintre cele mai bune de acest tip.",
+        "Situat strategic pe drumul principal și linia ferată către Johannesburg.",
+        "Economia se bazează pe servicii administrative, comerț și agricultură.",
+        "Zona este predispusă la inundații din cauza râului Klip, având sisteme complexe de diguri.",
+        "Punct de plecare pentru explorarea câmpurilor de bătălie din KwaZulu-Natal."
+      ]
+    }
+  ]
+}

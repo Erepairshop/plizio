@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-point-fortin-cities-v2",
+      "descriptionAdvanced": "Point Fortin Trinidad legfiatalabb városa, amely az 1980-as években kapott városi rangot, de története szorosan összefonódik az ország kőolajiparával. A település a sziget délnyugati részén fekszik, és eredetileg egy apró halászfalu volt, mielőtt a kőolaj-kitermelés központjává vált volna. A város gazdasági motorja a hatalmas LNG (cseppfolyósított földgáz) üzem, amely a globális piacokra termel. Point Fortin híres a 'Borough Day' ünnepségsorozatáról, amely minden évben ezreket vonz a sziget minden részéről, hogy megünnepeljék a város alapítását. A közösségi élet és a sport, különösen a labdarúgás, központi szerepet játszik a helyiek életében. Földrajz K7 — energiaforrások és ipari központok.",
+      "factsAdvanced": [
+        "1980-ban kapott hivatalos városi (borough) rangot.",
+        "Itt található az Atlantic LNG, a világ egyik legnagyobb gázüzeme.",
+        "Minden év májusában tartják a Borough Day fesztivált.",
+        "Eredetileg kakaó- és kókuszültetvények területén épült.",
+        "A város beceneve: 'A kulturális főváros'.",
+        "Trinidad kőolaj-kitermelésének történelmi bölcsője.",
+        "Több mint 20 000 lakos otthona a régióban.",
+        "Híres az élénk acéldob (steelpan) zenei kultúrájáról."
+      ]
+    },
+    {
+      "id": "tt-princes-town-cities-v2",
+      "descriptionAdvanced": "Princes Town nevét egy történelmi eseményről kapta: 1880-ban Albert és György hercegek (Viktória királynő unokái) látogatták meg a várost. A látogatás tiszteletére a hercegek két poui fát ültettek az anglikán templom előtt, amelyek azóta a település jelképeivé váltak. A város Trinidad déli részén található, és fontos mezőgazdasági, valamint kereskedelmi központként szolgál. Korábban a cukornádipar egyik kulcsfontosságú állomása volt, ma pedig a környező vidéki közösségek legfontosabb szolgáltató központja. A közeli 'ördögi sárvulkánok' (Devil's Woodyard) miatt Princes Town a geológiai érdekességek iránt érdeklődők körében is népszerű. Földrajz K6 — településtörténet és névadás.",
+      "factsAdvanced": [
+        "A várost 1880-ban nevezték át a hercegi látogatás után.",
+        "A hercegek által ültett fák a Szent István anglikán templomnál találhatók.",
+        "Korábban 'Mission' néven volt ismert a katolikus missziók után.",
+        "Fontos csomópont a San Fernando és Rio Claro közötti úton.",
+        "Híres a nagy forgalmú, színes utcai piacáról.",
+        "A cukornád-termelés egykori aranyháromszögének része.",
+        "Közelében található a Devil's Woodyard sárvulkán-mező.",
+        "Gazdag indo-trinidadi kulturális örökséggel rendelkezik."
+      ]
+    },
+    {
+      "id": "tt-tunapuna-cities-v2",
+      "descriptionAdvanced": "Tunapuna a sziget északi részén, a forgalmas Kelet-Nyugat folyosó mentén fekszik, félúton Port of Spain és Arima között. A város neve az őslakos amerikai nyelvből származik, jelentése 'víz a dombon', ami a környék számos forrására utal. Tunapuna híres a pezsgő kereskedelmi életéről, különösen a heti piacáról, amely a régió egyik legnagyobbja. A város stratégiai elhelyezkedése miatt fontos közlekedési csomópont, ahol az iskolák, üzletek és kulturális intézmények sűrűn váltják egymást. A közelben található az Nyugat-indiai Egyetem (UWI) kampusza is, ami fiatalos, intellektuális légkört kölcsönöz a környéknek. Földrajz K8 — városi agglomerációk és kereskedelmi hálózatok.",
+      "factsAdvanced": [
+        "A név jelentése: 'víz a dombon' vagy 'folyó a folyó felett'.",
+        "A Kelet-Nyugat folyosó (East-West Corridor) központi városa.",
+        "Itt rendezik meg a régió egyik leglátványosabb karneváli felvonulását.",
+        "A tunapunai piac híres a friss helyi gyümölcseiről és zöldségeiről.",
+        "Fontos vasúti állomás volt a gyarmati időkben.",
+        "Számos neves oktatási intézménynek ad otthont.",
+        "Népessége gyorsan növekedett a 20. század során.",
+        "Kulturálisan rendkívül sokszínű település."
+      ]
+    },
+    {
+      "id": "tt-sangre-grande-cities-v2",
+      "descriptionAdvanced": "Sangre Grande Trinidad északkeleti részének legnagyobb városa, és a régió adminisztratív központja. A spanyol név jelentése 'nagy vér', ami egy 18. századi véres csatára vagy a folyók találkozásánál kialakuló vöröses iszapra utalhat. A város ma egy modern kereskedelmi hub, amely kapuként szolgál a sziget érintetlen keleti partjai és strandjai felé. Gazdasága hagyományosan a mezőgazdaságra (kakaó, kávé) épült, de ma már a szolgáltató szektor és a kereskedelem dominál. A város környéke természeti szépségekben gazdag, beleértve a közeli mocsarakat és erdőrezervátumokat. Földrajz K7 — regionális központok és adminisztráció.",
+      "factsAdvanced": [
+        "A név jelentése spanyolul: 'Nagy Vér'.",
+        "A Sangre Grande Regionális Testület székhelye.",
+        "Az északkeleti partvonal legfontosabb kereskedelmi városa.",
+        "Híres a történelmi kakaóbirtokokról a környéken.",
+        "A város jelentősége a vasút megérkezésével nőtt meg az 1890-es években.",
+        "Egyik fő piaca a környékbeli mezőgazdasági termelőknek.",
+        "Stratégiai elhelyezkedésű a Toco és Manzanilla felé vezető utakon.",
+        "Modern kórháza az egész keleti régiót kiszolgálja."
+      ]
+    },
+    {
+      "id": "tt-penal-cities-v2",
+      "descriptionAdvanced": "Penal (ejtsd: Pínál) Trinidad déli részén található város, amely híres az indo-trinidadi kultúra és hagyományok ápolásáról. A település az egykori cukornád-övezet szívében fekszik, és ma a kőolaj- és földgázipar egyik fontos bázisa. Penal neve a spanyol korszakból származik, de a modern város arculatát az Indiából érkezett bevándorlók és leszármazottaik formálták meg. A város híres a vallási ünnepeiről, a színes templomokról és a különleges helyi ételekről, mint a 'doubles' vagy az 'aloo pie'. A környező lagúnák és rizsföldek egyedülálló mezőgazdasági tájat alkotnak. Földrajz K6 — kulturális tájak és népcsoportok.",
+      "factsAdvanced": [
+        "Trinidad 'Déli Aranyháromszögének' része.",
+        "Indo-trinidadi kulturális és vallási központ.",
+        "A közelben jelentős földgáz- és olajmezők találhatók.",
+        "A város piaca a hét minden napján nagy forgalmat bonyolít.",
+        "Híres a hagyományos indiai zenei és táncakadémiáiról.",
+        "A település a Siparia és Debe közötti főútvonalon fekszik.",
+        "Egykor fontos megállója volt a déli vasútvonalnak.",
+        "A környéken jelentős a rizstermesztés és a tejtermelés."
+      ]
+    },
+    {
+      "id": "tt-gasparillo-cities-v2",
+      "descriptionAdvanced": "Gasparillo egy dinamikusan fejlődő város San Fernando közelében, a Sir Solomon Hochoy autópálya mentén. A település nevét a közeli 'gasparill' fákról kapta, amelyek egykor elborították a területet. Gasparillo jelentősége a szomszédos Pointe-à-Pierre-i olajfinomító közelségéből fakad, mivel sok finomítói dolgozó otthona. A város központi bevásárlónegyede vonzza a környékbeli kisebb falvak lakóit is. A település vallási sokszínűségét jelzik a mecsetek, mandirok és keresztény templomok, amelyek békésen megférnek egymás mellett. Sachkunde K5 — ipari városok és munkahelyer.",
+      "factsAdvanced": [
+        "A név a 'gasparill' növényből származik.",
+        "Közvetlen közelében található a Pointe-à-Pierre olajfinomító.",
+        "Fontos csomópont az autópálya és a belső területek között.",
+        "Lakossága nagy részben az energiaiparban dolgozik.",
+        "A városban található az ország egyik legrégebbi mecsete.",
+        "Élénk esti utcai étkezési kultúrával rendelkezik.",
+        "A település dombos terepen fekszik, szép kilátással a tengerpartra.",
+        "Regionális kereskedelmi központként funkcionál."
+      ]
+    },
+    {
+      "id": "tt-siparia-cities-v2",
+      "descriptionAdvanced": "Siparia, amelyet gyakran 'A Homokos Városnak' (The Sand City) is neveznek, Trinidad déli részén található, és híres vallási szinkretizmusáról. Itt található a 'La Divina Pastora' (Az isteni pásztornő) szobor, amelyet mind a katolikusok, mind a hinduk mélyen tisztelnek, bár különböző néven és kontextusban. A város gazdasága évtizedek óta az olajkitermelésre épül, és a Siparia Regionális Testület székhelye. A település környéke homokos talajú, ami kedvez bizonyos mezőgazdasági formáknak. Siparia híres a parang zenéről is, ami a spanyol örökség része. Földrajz K7 — vallási és kulturális központok.",
+      "factsAdvanced": [
+        "Gyakran 'A Homokos Város' (Sand City) néven emlegetik.",
+        "Itt található a csodatévőnek tartott La Divina Pastora szobor.",
+        "A katolikus és hindu vallási hagyományok különleges találkozóhelye.",
+        "Fontos olajbányászati körzet központja.",
+        "Híres a parang zenei fesztiválokról.",
+        "A Siparia Regionális Testület adminisztratív központja.",
+        "A város már a spanyol időkben is létezett.",
+        "Évente ezrek zarándokolnak ide a nagy húsvéti ünnepségre."
+      ]
+    },
+    {
+      "id": "tt-claxton-bay-cities-v2",
+      "descriptionAdvanced": "Claxton Bay egy tengerparti ipari település a sziget nyugati partján, San Fernando és Couva között. A város elsősorban a nehéziparáról ismert, itt található az ország legnagyobb cementgyára és több kikötői létesítmény is. A település neve a gyarmati korszakból származik, amikor még cukornádültetvények uralták a tájat. Ma a gazdaság a tengeri szállításhoz és a gyártáshoz kötődik. Annak ellenére, hogy ipari jellegű, a part mentén még mindig él a hagyományos halászat is. Földrajz K8 — tengerparti ipar és logisztika.",
+      "factsAdvanced": [
+        "Itt található a Trinidad Cement Limited központja.",
+        "Fontos ipari kikötővel rendelkezik a Paria-öbölben.",
+        "A település nevét egy korábbi földbirtokosról kapta.",
+        "A tengerparton friss tengeri herkentyűket árusító piac működik.",
+        "Stratégiai helyen fekszik az autópálya és a tenger között.",
+        "A környező vizek fontos halászterületek.",
+        "A cementgyár kéménye messziről felismerhető tájékozódási pont.",
+        "Az ipari fejlesztések ellenére megőrizte kisvárosi hangulatát."
+      ]
+    },
+    {
+      "id": "tt-fyzabad-cities-v2",
+      "descriptionAdvanced": "Fyzabad Trinidad történelmi városa, amely a 20. század elején alapított indiai bevándorlók révén nyerte el mai formáját. Nevét az indiai Faizábád városáról kapta. A város a trinidadi munkásmozgalom bölcsője: 1937-ben itt robbantak ki azok az olajipari sztrájkok Tubal Uriah 'Buzz' Butler vezetésével, amelyek alapjaiban változtatták meg az ország társadalmi és politikai berendezkedését. Ma Fyzabad egy békés kisváros, amely büszkén őrzi munkásmozgalmi emlékeit és indiai örökségét. Történelem K8 — munkásmozgalmak és függetlenedés.",
+      "factsAdvanced": [
+        "Indiából érkezett bevándorlók alapították 1917-ben.",
+        "Nevét az indiai Faizábád városról kapta.",
+        "Itt indult el az 1937-es nagy olajipari sztrájk.",
+        "Tubal Uriah 'Buzz' Butler, a munkásvezér tiszteletére emlékmű áll itt.",
+        "Minden év június 19-én (Munka Ünnepe) nagy felvonulást tartanak.",
+        "A sziget déli olajmezőinek egyik legfontosabb városa.",
+        "Gazdag hindu és muszlim vallási hagyományokkal rendelkezik.",
+        "Az olajipar hőskorának építészeti stílusa ma is látható."
+      ]
+    },
+    {
+      "id": "tt-valencia-cities-v2",
+      "descriptionAdvanced": "Valencia egy festői település a sziget északi részén, amely kapuként szolgál a keleti part érintetlen vidékei felé. A város híres a természetes vízforrásairól és a közeli folyókról, amelyek népszerű kirándulóhelyek a helyiek körében. Valencia neve spanyol eredetű, és a táj dombos, zöldellő jellege emlékeztet a névadó európai vidékre. A település fontos megállóhely az Arima és Sangre Grande közötti úton, ahol számos gyümölcsárus és helyi kézműves kínálja portékáit. Földrajz K5 — folyóvölgyek és rekreációs területek.",
+      "factsAdvanced": [
+        "A Sangre Grande felé vezető főút egyik fontos állomása.",
+        "Híres a közeli folyókben kialakított fürdőhelyekről.",
+        "A környéken jelentős a mezőgazdasági termelés.",
+        "Népszerű megálló a friss gyümölcsök és 'chow' (fűszeres gyümölcs) vásárlására.",
+        "Természeti környezete gazdag madárvilággal büszkélkedhet.",
+        "A település fekvése az Északi-hegység lábánál található.",
+        "Fontos szerepet játszik a keleti régió turizmusában.",
+        "Hagyományos vidéki trinidadi életmód jellemzi."
+      ]
+    },
+    {
+      "id": "tt-freeport-cities-v2",
+      "descriptionAdvanced": "Freeport Trinidad központi részén elhelyezkedő gyorsan növekvő település, amely az utóbbi évtizedekben vált fontos lakó- és kereskedelmi övezetté. Stratégiai fekvése az autópálya mentén tette vonzóvá az ingázók és a logisztikai cégek számára. Freeport neve eredetileg a rabszolgaság eltörlése után ide települő szabad emberek közösségére utalt. Ma a város modern bevásárlóközpontokkal, új lakóparkokkal és virágzó kisvállalkozásokkal rendelkezik, miközben megőrizte vallási és kulturális sokszínűségét. Sachkunde K4 — modern települések fejlődése.",
+      "factsAdvanced": [
+        "Az autópálya közelsége miatt fontos logisztikai központ.",
+        "Nevét a rabszolgaság után itt letelepedett 'szabadokról' kapta.",
+        "Itt található az ország egyik legfontosabb rizstermelő területe.",
+        "Számos vallási felekezet temploma megtalálható a városban.",
+        "Gyorsan bővülő lakóövezetek jellemzik.",
+        "Központi elhelyezkedése miatt 'Trinidad közepeként' is emlegetik.",
+        "Élénk kereskedelmi élet zajlik a főutca mentén.",
+        "Jelentős az élelmiszer-feldolgozó ipara."
+      ]
+    },
+    {
+      "id": "tt-debe-cities-v2",
+      "descriptionAdvanced": "Debe világszerte (de legalábbis Trinidadon) híres gasztronómiájáról, különösen a 'doubles' és az 'aloo pie' nevű utcai ételekről. A dél-trinidadi város a Sir Solomon Hochoy autópálya végénél fekszik, és az indo-trinidadi konyhaművészet fellegvára. A látogatók messziről eljönnek ide, hogy megkóstolják a híres 'Debe Doubles'-t. A gasztronómia mellett Debe fontos oktatási központ is, itt található az Nyugat-indiai Egyetem (UWI) déli kampusza. A város hangulata vibráló, ahol a tradicionális piaci árusok és a modern egyetemi élet találkozik. Sachkunde K3 — ételek és kultúra.",
+      "factsAdvanced": [
+        "Trinidad 'Doubles fővárosaként' is ismert.",
+        "Itt található a West Indies Egyetem (UWI) déli kampusza.",
+        "A város neve feltehetően indiai eredetű szó.",
+        "A gasztronómiai turizmus egyik legfontosabb célpontja.",
+        "Híres a színes és forgalmas zöldségpiacáról.",
+        "Az autópálya meghosszabbítása óta még elérhetőbbé vált.",
+        "Központi szerepet játszik Dél-Trinidad oktatási életében.",
+        "A település az egykori cukornád-övezet határán fekszik."
+      ]
+    },
+    {
+      "id": "tt-laventille-cities-v2",
+      "descriptionAdvanced": "Laventille dombjai büszkén emelkednek Port of Spain fölé, és ez a terület tartják a steelpan (acéldob) hangszer bölcsőjének. A település neve a francia 'la ventaille' szóból ered, ami a szelek járására utal a magaslatokon. Laventille gazdag zenei és kulturális örökséggel rendelkezik, innen származik számos híres ütőegyüttes (steelband). A domboldalakról lélegzetelállító kilátás nyílik a fővárosra és a tengerpartra. Bár társadalmi kihívásokkal küzd, a közösség büszke történelmére és az ország kulturális identitásában betöltött kulcsszerepére. Történelem K8 — zene és nemzeti identitás.",
+      "factsAdvanced": [
+        "A steelpan (acéldob) szülőhelyeként tisztelik.",
+        "Itt alakult meg az egyik legnevesebb együttes, a Desperadoes.",
+        "A név francia eredetű, jelentése: 'a szélfogó'.",
+        "Kiemelkedő stratégiai pont a főváros felett.",
+        "Gazdag afro-trinidadi kulturális hagyományokkal bír.",
+        "Híres a domboldalakra épült, sűrű településszerkezetéről.",
+        "A területen található a Fort Picton történelmi erőd.",
+        "Fontos szerepet játszik a trinidadi karnevál előkészületeiben."
+      ]
+    },
+    {
+      "id": "tt-morvant-cities-v2",
+      "descriptionAdvanced": "Morvant egy népes település a főváros keleti határában, a Kelet-Nyugat folyosó kezdeténél. A dombos terepen fekvő terület fontos lakóövezet, amely szorosan integrálódott Port of Spain gazdasági vérkeringésébe. Morvant neve szintén a gyarmati idők francia hatását tükrözi. A település híres élénk közösségi életéről és sport iránti szeretetéről, különösen a labdarúgás területén. Morvant és Laventille határai gyakran elmosódnak, közösen alkotva a fővárost övező kulturálisan pezsgő, bár sűrűn lakott dombvidéket. Földrajz K6 — városi peremterületek és lakóövezetek.",
+      "factsAdvanced": [
+        "Port of Spain egyik legnagyobb és legnépesebb elővárosa.",
+        "A Kelet-Nyugat folyosó egyik kapuja.",
+        "Dombos vidékén sűrű beépítettség jellemző.",
+        "Sok lakója naponta ingázik a fővárosba dolgozni.",
+        "Híres a tehetséges labdarúgóiról és sportklubjairól.",
+        "Erős közösségi összefogás és helyi identitás jellemzi.",
+        "A karnevál idején jelentős szerepet játszik a jelmezkészítésben.",
+        "Közlekedési csomópont a Lady Young Road mentén."
+      ]
+    },
+    {
+      "id": "tt-st-joseph-cities-v2",
+      "descriptionAdvanced": "St. Joseph Trinidad legelső fővárosa, amelyet a spanyolok alapítottak 1592-ben 'San José de Oruña' néven. A város az Északi-hegység lábánál fekszik, stratégiai helyen a sziget belseje felé vezető utak mentén. Bár ma már nem adminisztratív központ, történelmi jelentősége felbecsülhetetlen. Itt található az ország legrégebbi anglikán és katolikus temploma, valamint számos gyarmati kori épület maradványa. A város csendes, méltóságteljes hangulata emlékeztet a sziget spanyol múltjára és a korai európai jelenlétre. Történelem K7 — gyarmati fővárosok és alapítás.",
+      "factsAdvanced": [
+        "Trinidad első fővárosa volt 1592 és 1784 között.",
+        "Eredeti neve San José de Oruña volt.",
+        "Itt írták alá Trinidad átadásáról szóló dokumentumot a briteknek 1797-ben.",
+        "Az Északi-hegység lábánál, dombos vidéken fekszik.",
+        "Itt található a sziget legrégebbi keresztény templomai.",
+        "Fontos oktatási intézmények székhelye.",
+        "A spanyol hódítás és ellenállás központi helyszíne volt.",
+        "Történelmi temetője számos híres személy nyughelye."
+      ]
+    },
+    {
+      "id": "tt-maracas-valley-cities-v2",
+      "descriptionAdvanced": "A Maracas-völgy Trinidad egyik leglátványosabb természeti környezete, az Északi-hegység szívében. A völgy nem tévesztendő össze a híres tengerparttal; ez egy buja, zöldellő terület, amely hűvösebb klímájáról és trópusi erdőiről ismert. Itt található a Mount St. Benedict apátság, a Karib-térség legrégebbi bencés kolostora, amely nyugalmáról és finom joghurtjáról híres. A völgy népszerű a túrázók és a madárlesők körében, hiszen számos ritka faj otthona. A terület vízesései és patakjai frissítő kikapcsolódást nyújtanak a látogatóknak. Földrajz K5 — hegyi völgyek és ökoturizmus.",
+      "factsAdvanced": [
+        "Itt található a Mount St. Benedict apátság.",
+        "A völgy híres a Karib-térségben egyedülálló 'kolostori joghurtjáról'.",
+        "Trinidad egyik legmagasabb vízesése, a Maracas-vízesés is itt van.",
+        "Kellemes, hűvösebb mikroklímával rendelkezik.",
+        "A madárlesők paradicsoma, számos kolibrifaj él itt.",
+        "Népszerű hétvégi kirándulóhely a túrázók körében.",
+        "Buja esőerdők és kakaóültetvények borítják a völgyet.",
+        "Csendes, spirituális hangulat jellemzi az egész környéket."
+      ]
+    },
+    {
+      "id": "tt-piarco-cities-v2",
+      "descriptionAdvanced": "Piarco neve legtöbbeknek a nemzetközi repülőteret jelenti, amely Trinidad és Tobago legfontosabb légiközlekedési kapuja. A település a Caroni-síkságon fekszik, és az utóbbi években komoly fejlesztéseken ment keresztül, hogy kiszolgálja a modern utasforgalom igényeit. Piarco nemcsak repülőtér, hanem egy fontos logisztikai és ipari zóna is, ahol számos nemzetközi cég tart fenn raktárakat és irodákat. A környék sík domborzata ideális a repüléshez és a nagyüzemi mezőgazdasághoz, bár a városi terjeszkedés ma már dominánsabb. Földrajz K8 — közlekedési infrastruktúra és logisztika.",
+      "factsAdvanced": [
+        "Itt található a Piarco Nemzetközi Repülőtér (POS).",
+        "Az ország és a dél-karibi régió egyik legforgalmasabb légikikötője.",
+        "A repülőteret 1931-ben nyitották meg hivatalosan.",
+        "Jelentős logisztikai és kereskedelmi parkok épültek a környéken.",
+        "Itt található a Caribbean Airlines nemzeti légitársaság központja.",
+        "A Caroni-síkság sík területein fekszik.",
+        "Fontos meteorológiai állomás működik a területen.",
+        "A repülőtér terminálja modern, díjnyertes építészeti megoldásokkal bír."
+      ]
+    },
+    {
+      "id": "tt-arouca-cities-v2",
+      "descriptionAdvanced": "Arouca egy nagy és forgalmas város a Kelet-Nyugat folyosó mentén, Port of Spain és Arima között. Nevét az őslakos arauaca népről kapta, akik egykor ezen a területen éltek. A város híres virágzó kereskedelméről, iskoláiról és sportlétesítményeiről. Arouca központi szerepet játszik a régió vallási életében is, számos templommal és közösségi házzal. A település déli részén található az Arima-Piarco Regionális Testület adminisztratív területeinek egy része. A város lakói büszkék kulturális sokszínűségükre és élénk közösségi szellemükre. Sachkunde K5 — települések neve és eredete.",
+      "factsAdvanced": [
+        "Nevét az őslakos arauaca (arawak) indiánokról kapta.",
+        "A Kelet-Nyugat folyosó egyik legnépesebb városa.",
+        "Itt található az ország egyik legnagyobb börtönkomplexuma (Golden Grove).",
+        "Híres a jó hírű középiskoláiról.",
+        "Fontos kereskedelmi központ a Golden Grove Road mentén.",
+        "A város környéke egykor virágzó cukornádültetvény volt.",
+        "Élénk sportélettel rendelkezik, saját labdarúgó csapattal.",
+        "Kiváló közlekedési kapcsolatokkal bír a főváros felé."
+      ]
+    },
+    {
+      "id": "tt-curepe-cities-v2",
+      "descriptionAdvanced": "Curepe Trinidad egyik legfontosabb közlekedési és oktatási csomópontja, ahol az országos főútvonalak (Southern Main Road és Churchill-Roosevelt Highway) találkoznak. A város híres a 'Curepe Junction'-ről, amely az ingázók és taxisok állandó gyülekezőhelye, és ahol a nap 24 órájában zajlik az élet. Mivel közvetlenül a West Indies Egyetem (UWI) mellett fekszik, a település nagy részét diákok és egyetemi dolgozók lakják, ami dinamikus, fiatalos hangulatot ad a városnak. Curepe híres az utcai ételeiről is, itt árulják a sziget néhány legjobb 'doubles'-ét. Földrajz K7 — városi csomópontok és felsőoktatás.",
+      "factsAdvanced": [
+        "A híres 'Curepe Junction' Trinidad egyik legforgalmasabb pontja.",
+        "A West Indies Egyetem (UWI) közvetlen szomszédságában fekszik.",
+        "Az ingázók és egyetemi hallgatók legfontosabb átszállóhelye.",
+        "Éjjel-nappal elérhető utcai ételárusairól nevezetes.",
+        "Stratégiai elhelyezkedés az északi és déli főutak találkozásánál.",
+        "A település neve feltehetően őslakos eredetű.",
+        "Számos diákotthon és olcsóbb albérlet található itt.",
+        "A környéken jelentős a szolgáltató szektor jelenléte."
+      ]
+    },
+    {
+      "id": "tt-st-augustine-cities-v2",
+      "descriptionAdvanced": "St. Augustine elsősorban az akadémiai életéről ismert, mint a West Indies Egyetem (UWI) fő trinidadi kampuszának otthona. A város egy intellektuális és kulturális központ, ahol a Karib-térség minden részéről érkező diákok találkoznak. Az egyetemi kampusz gyönyörű parkjaival és történelmi épületeivel a település magját alkotja. St. Augustine-ban található a trópusi mezőgazdasági kutatások egyik világszinten is elismert intézménye is. A város képe modern, ahol az oktatási épületek mellett kávézók, könyvesboltok és lakóparkok sorakoznak. Sachkunde K8 — oktatás és tudomány.",
+      "factsAdvanced": [
+        "Itt található a West Indies Egyetem (UWI) fő trinidadi kampusza.",
+        "A kampusz egy korábbi császári trópusi mezőgazdasági főiskola helyén épült.",
+        "Nemzetközi hírű kakaókutató intézettel rendelkezik.",
+        "A sziget egyik legfontosabb szellemi és tudományos központja.",
+        "A település az Északi-hegység lábánál fekszik.",
+        "Híres a gyönyörűen parkosított egyetemi területeiről.",
+        "Számos regionális szervezet központja található itt.",
+        "A lakosság nagy része az oktatási szektorhoz kötődik."
+      ]
+    },
+    {
+      "id": "tt-trincity-cities-v2",
+      "descriptionAdvanced": "Trincity egy tervezett modern város Arima és Tunapuna között, amely a 20. század második felében jött létre. A település a nevét Trinidad városának összevonásából kapta, és a modern trinidadi középosztály ideális lakóhelyeként épült. Itt található a Trincity Mall, az ország és a Karib-térség egyik legnagyobb bevásárlóközpontja, amely a régió kereskedelmi központjává teszi a várost. Trincity híres a tágas golfpályájáról, az igényes lakóparkokról és a rendezett utcaképéről, ami éles ellentétben áll a régebbi, organikusabban fejlődött városokkal. Földrajz K6 — tervezett városok és kereskedelem.",
+      "factsAdvanced": [
+        "Egyike Trinidad kevés előre megtervezett modern városának.",
+        "Itt található a Trincity Mall, az ország legnagyobb bevásárlóközpontja.",
+        "Híres a nemzetközi színvonalú Millennium Lakes golfpályájáról.",
+        "Nevét a 'Trinidad' és a 'City' szavak összevonásával alkották.",
+        "Piarco repülőtere mindössze néhány perces autóútra található.",
+        "Magas színvonalú lakóparkok és zárt lakóövezetek jellemzik.",
+        "Fontos ipari és kereskedelmi parkoknak ad otthont.",
+        "A modern trinidadi életstílus mintaképe."
+      ]
+    },
+    {
+      "id": "tt-carenage-cities-v2",
+      "descriptionAdvanced": "Carenage egy festői halászfalu és kikötőváros Port of Spaintól nyugatra, az északnyugati félszigeten. Neve a francia 'carénage' szóból származik, ami a hajók javítására és tisztítására utal, amit a védett öbölben végeztek. A város híres a friss halpiacáról és a tengerparti sétányáról. Carenage fontos stratégiai pont, mivel ezen keresztül vezet az út a Chaguaramas-félsziget strandjai és nemzeti parkjai felé. A település hangulata vegyíti a hagyományos halászéletmódot és a modern tengeri ipart. Földrajz K5 — tengerparti települések és halászat.",
+      "factsAdvanced": [
+        "A név francia eredetű, a hajók karbantartására (carenage) utal.",
+        "Híres a 'Carenage Fish Fry' eseményeiről és a friss halakról.",
+        "Védett öble ideális volt a vitorlás hajók javítására.",
+        "Kapuként szolgál a Chaguaramas-félsziget felé.",
+        "Itt található a Szent Péter katolikus templom, a halászok védőszentje tiszteletére.",
+        "A part mentén számos kis öböl és strand található.",
+        "Lakói generációk óta a tengerből élnek.",
+        "A tengerparti út (Western Main Road) gyönyörű kilátást nyújt az öbölre."
+      ]
+    },
+    {
+      "id": "tt-westmoorings-cities-v2",
+      "descriptionAdvanced": "Westmoorings Trinidad egyik legexkluzívabb és legdrágább lakóövezete, amely a tengerparton, Port of Spaintól nyugatra helyezkedik el. A terület nagyrészt feltöltött földön épült az 1970-es és 80-as években, modern, észak-amerikai stílusú kertvárosként. Híres a luxusvilláiról, a gondozott parkjairól és a Falls at Westmall nevű elegáns bevásárlóközpontról. Westmoorings a diplomáciai testületek és a gazdasági elit kedvelt lakóhelye. A tengerparti fekvés és a biztonságos, rendezett környezet miatt a sziget egyik legvágyottabb címe. Földrajz K6 — luxus negyedek és területnyerés a tengertől.",
+      "factsAdvanced": [
+        "Trinidad egyik legmódosabb lakónegyede.",
+        "Jelentős része mesterségesen feltöltött területen fekszik.",
+        "Itt található a Falls at Westmall, egy előkelő bevásárlóközpont.",
+        "Számos nagykövetség és diplomata rezidenciája található itt.",
+        "Modern, tervezett utcahálózata eltér a hagyományos városokétól.",
+        "Közvetlen tengerparti kapcsolattal és jachtkikötőkkel rendelkezik.",
+        "A sziget egyik legbiztonságosabb és legjobban őrzött környéke.",
+        "Lakói a politikai és üzleti élet meghatározó szereplői."
+      ]
+    },
+    {
+      "id": "tt-maraval-cities-v2",
+      "descriptionAdvanced": "Maraval egy előkelő völgyváros Port of Spaintól északra, amely az Északi-hegység lábai közé ékelődik. A völgy híres hűvös mikroklímájáról, buja növényzetéről és elegáns lakóparkjairól. Maraval egykor virágzó kakaó- és kávéültetvények helyszíne volt, mára azonban a főváros egyik legkeresettebb lakóövezetévé vált. A völgyön keresztül vezet az út a sziget legnépszerűbb strandja, a Maracas-öböl felé. Itt található az ország legrégebbi golfklubja, a St. Andrews Golf Club is. A völgyben a modern luxus és a természet közelsége különleges harmóniát alkot. Sachkunde K5 — völgyek és lakókörnyezet.",
+      "factsAdvanced": [
+        "A Maraval-völgyben fekszik, hűvösebb klímával, mint a partvidék.",
+        "Itt található a történelmi St. Andrews Golf Club (alapítva 1897-ben).",
+        "A 19. században fontos kakaótermelő vidék volt.",
+        "Népszerű megálló a Maracas-öböl felé tartó turisták számára.",
+        "Exkluzív lakóparkok és társasházak jellemzik.",
+        "A völgyet meredek, esőerdővel borított hegyek veszik körül.",
+        "Számos neves étterem és butikhotel található a környéken.",
+        "Gazdag francia kreol építészeti örökséggel rendelkezik."
+      ]
+    },
+    {
+      "id": "tt-tabaquite-cities-v2",
+      "descriptionAdvanced": "Tabaquite egy varázslatos kisváros Trinidad központi hegyvidékén, a Central Range erdőiben. A település történelmileg szorosan kötődött a vasúthoz, mivel itt található az ország leghosszabb vasúti alagútja, a híres Knolly's Tunnel. Ma a város csendes, mezőgazdaságból élő közösség, ahol a kakaó- és kávétermesztés hagyományai még mindig élnek. Tabaquite környéke híres a barlangjairól és a víztározójáról (Navet Dam), amely az ország egyik legfontosabb ivóvízforrása. A település ideális célpont azoknak, akik a természet közelségére és a vidék nyugalmára vágynak. Földrajz K5 — dombvidéki települések és vízkészletek.",
+      "factsAdvanced": [
+        "Itt található a történelmi Knolly's Tunnel, egy 1898-ban épült vasúti alagút.",
+        "A Central Range (Központi-hegység) szívében fekszik.",
+        "A közelben található a Navet Dam, az ország egyik legnagyobb víztározója.",
+        "A település nevét feltehetően az őslakosoktól kapta.",
+        "Híres a környező kakaó- és kávéültetvényeiről.",
+        "A környékbeli barlangok ritka denevérfajoknak adnak otthont.",
+        "A vasútvonal megszűnése után csendes mezőgazdasági várossá vált.",
+        "Népszerű helyszín az ökoturizmus és a madárlesés számára."
+      ]
+    }
+  ]
+}

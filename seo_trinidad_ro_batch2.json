@@ -1,0 +1,334 @@
+{
+  "lang": "ro",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-westmoorings-cities-v2",
+      "descriptionAdvanced": "Westmoorings este una dintre cele mai exclusiviste și planificate zone rezidențiale din regiunea nord-vestică a insulei Trinidad, lângă capitală. Apărută în urma unui masiv proiect de dezvoltare a terenurilor în anii 1970 și 1980, localitatea se remarcă printr-o urbanistică meticuloasă, orientată spre clasa superioară și expatriați. Străzile sunt flancate de proprietăți somptuoase, școli internaționale și cel mai proeminent mall al peninsulei vestice, The Falls at Westmall. Locația combină accesul rapid la centrul administrativ Port of Spain cu panorame spectaculoase ale golfului oceanic. Geografie Umană K7 — dezvoltarea cartierelor elitiste de suburbie modernă.",
+      "factsAdvanced": [
+        "A fost construit substanțial pe un teren recuperat parțial din proximitatea coastei.",
+        "Găzduiește 'The Falls at Westmall', centrul comercial principal din vest.",
+        "Aria dispune de numeroase enclave cu porți securizate private de înaltă tehnologie.",
+        "Se bucură de proximitatea Colegiului Internațional (International School of Port of Spain).",
+        "Populația sa include o pondere considerabilă de expatriați în sectorul petrolier.",
+        "Se află pe Western Main Road, conectând Port of Spain de peninsula vestică Carenage.",
+        "Multe clădiri au rezistență specifică deoarece sunt aproape de zone litorale."
+      ]
+    },
+    {
+      "id": "tt-maraval-cities-v2",
+      "descriptionAdvanced": "Maraval reprezintă poarta naturală dintre agitația capitalei și pitoreasca coastă de nord a insulei Trinidad. Amplasată într-o vale luxuriantă a Munților Northern Range, zona îmbină originile rurale de foste plantații franceze de cacao și cafea cu cartierele moderne de clasă medie-superioară. Prin centrul așezării șerpuiește Râul Maraval, iar infrastructura include faimosul club de golf și complex comercial. Deși este dens populat, cartierul păstrează un farmec ecologic datorită pereților abrupți verzi care ocrotesc localitatea de ambele părți. Geografie K7 — expansiunea metropolitană de-a lungul văilor montane.",
+      "factsAdvanced": [
+        "Este ruta principală de tranzit rutier din Port of Spain spre plaja faimoasă Maracas.",
+        "Păstrează urme profunde ale vechilor imigranți și fermieri francezi din 1783.",
+        "Aici funcționează exclusivul St. Andrew’s Golf Club fondat în secolul al XIX-lea.",
+        "Locația are vulnerabilitate la alunecări de teren și revărsări fluviale în anotimpul umed.",
+        "Există multiple complexuri și blocuri imobiliare recente cu vedere montană.",
+        "Locuitorii se bucură de aer mai răcoros decât în zonele sudice datorită orografiei.",
+        "Tradiția parang-ului, muzica influențată hispano, are o prezență puternică aici în decembrie."
+      ]
+    },
+    {
+      "id": "tt-tabaquite-cities-v2",
+      "descriptionAdvanced": "Tabaquite este o comunitate adânc ancorată în regiunea deluroasă centrală a insulei, înconjurată de ferme agricole vitale. A servit drept nod crucial pentru un sistem extins de căi ferate vechi care transporta cacao și cherestea la începutul secolului XX. Așezarea are un caracter profund rural și prezintă un amestec demografic pașnic. Remarcabil pentru zonă este Podul Knollys, o structură feroviară istorică care atrage astăzi interes turistic și educațional privind tehnologia colonială. Istorie Tehnologică K6 — infrastructura feroviară și economia forestieră.",
+      "factsAdvanced": [
+        "Găzduiește faimosul 'Knollys Tunnel', deschis de guvernatorul britanic Courtenay Knollys în 1898.",
+        "Regiunea este renumită la nivel local pentru calitatea solurilor sale bogate în substanțe fertile.",
+        "Valea este un producător major de citrice locale și recolte abundente de cacao Trinitario.",
+        "Râul Navet străbate regiunea de la barajul adiacent, oferind apă potabilă zonelor de vest.",
+        "Comunitatea se menține predominant agricolă deși s-au construit recent case noi.",
+        "Relieful colinar cu drumuri înguste face legătura între sud și regiunea estică izolată.",
+        "Numele orașului sugerează o etimologie antică amerindiană combinată cu prezență iberică."
+      ]
+    },
+    {
+      "id": "tt-talparo-cities-v2",
+      "descriptionAdvanced": "Talparo se ascunde în colinele împădurite central-estice din Trinidad, oferind un peisaj de calm rural neatins de presiunea urbanistică intensă. Locuitorii sunt angajați tradițional în cultivarea produselor pentru piața locală, cum ar fi fructe tropicale, cassava și diverse legume, susținând parțial o independență agricolă rurală a regiunii. Satul prezintă ferme mici familiale și ecosisteme diverse. Străbătută de cursuri de apă care se varsă în bazinele estice mai mari, așezarea depinde adesea de comerțul duminical pentru a-și desface producțiile agrare de subsistență. Geografie Agricolă K6 — importanța ecosistemelor de fermă pe scară redusă.",
+      "factsAdvanced": [
+        "Așezarea rămâne una dintre cele mai nepoluate și liniștite localități centrale ale insulei.",
+        "Solul argilos al zonei susține o diversitate de livezi fructifere de dimensiuni mici.",
+        "Este conectată rutier de regiunea mai mare Arima și zona Brazil Village.",
+        "Populația restrânsă cunoaște aproape toți membrii săi cu tradiții familiale vechi.",
+        "Comunitatea se bazează pe autobuzele maxis-taxi pentru a ajunge pe East-West Corridor.",
+        "Împădurirea sa din jur sprijină o avifaună masivă neprezentă în orașele occidentale.",
+        "Etimologia este spaniolă veche, amintind de fermele pre-emancipării sclaviei."
+      ]
+    },
+    {
+      "id": "tt-chase-village-cities-v2",
+      "descriptionAdvanced": "Chase Village se profilează ca un district industrial și rezidențial în expansiune continuă, de-a lungul arterelor nord-sud ale insulei. Zona a crescut dramatic în popularitate ca urmare a conexiunii la autostrada Solomon Hochoy, transformându-se din moșii vechi de porumb și trestie în cartiere aglomerate și complexe de servicii financiare și comerciale. Ocupă o zonă plată care servea anterior drept pepinieră pentru recoltele Caroni de zahăr. O mulțime de facilități de depozitare preferă acum această locație datorită proximității egale de estul și sudul capitalei. Economie Logistică K7 — autostrăzile și dezvoltarea depozitelor comerciale.",
+      "factsAdvanced": [
+        "Satul beneficiază enorm din punct de vedere logistic de accesul său direct la autostradă.",
+        "Marea fabrică regională și parcurile industriale de distribuție au apărut după anii 2000.",
+        "A fost una dintre nenumăratele așezări create pentru foștii muncitori sub contract din India.",
+        "Comunitatea combină astăzi apartamente noi moderne cu rezidențe rurale tradiționale.",
+        "Terenul plat face ca zona să fie ideală pentru dezvoltări tehnologice extinse.",
+        "Se află aproape de granița nordică a complexului Chaguanas, servind ca zonă limitrofă.",
+        "Se remarcă o diversitate de religii care activează cu moschei și temple hinduse de patrimoniu."
+      ]
+    },
+    {
+      "id": "tt-moruga-cities-v2",
+      "descriptionAdvanced": "Moruga este un așezământ faimos din punctul cel mai sudic al insulei Trinidad, pe malurile Canalului Columbus ce desparte țara de Venezuela. O localitate cu profundă încărcătură istorică, este tradițional considerată locul unde exploratorul Cristofor Columb a ancorat pentru prima dată în timpul călătoriilor sale în Caraibe în anul 1498. Zona este renumită pentru diversitatea culturilor arhaice afro-amerindiene și un faimos festival dedicat Sfântului Petru, care onorează tradițiile de pescuit locale. Pădurile extinse din nordul său sunt cunoscute ca sanctuare pentru fauna rară. Istorie K6 — debarcarea exploratorilor europeni și moștenirea sudică.",
+      "factsAdvanced": [
+        "Tradiția populară susține că Cristofor Columb a pus piciorul aici în 1498 la prima vizită.",
+        "Locul de desfășurare pentru St. Peter's Day, care atrage flote pescărești colorat decorate.",
+        "Se regăsește Moruga Museum, adăpostind o colecție privată de relicve vechi și fosile unice.",
+        "Zona a dezvoltat cel mai iute ardei din lume în istoria recentă, numit Scorpionul Moruga.",
+        "Este dominat geografic de plaje lungi expuse influențelor de flux sud-americane.",
+        "Economia sa persistă dominant pe o bază artizanală: pescuitul la adâncime mică.",
+        "Prezintă păduri dense protejate de stat ce acoperă dealurile calcaroase învecinate nordice."
+      ]
+    },
+    {
+      "id": "tt-toco-cities-v2",
+      "descriptionAdvanced": "Toco, plasat pe cel mai extrem punct nord-estic din Trinidad, rămâne o comunitate pescărească autentică unde curenții Oceanului Atlantic se ciocnesc spectaculos de Marea Caraibelor. Accesul rutier greoi de-a lungul coastei sale protejează peisajele salbatice și farmecul arhaic al regiunii. Farul Galera Point, o moștenire din perioada maritimă colonială târzie britanică, îndrumă de secole vasele care tranzitează insula, reprezentând, de asemenea, un atracție centrală pentru ecoturism. Așezarea are un istoric bogat, păstrând influențe dialectale hibride afro-franceze. Geografie Fizică K8 — confluența curenților oceanici și farurile marine.",
+      "factsAdvanced": [
+        "Capul Galera Point reprezintă oficial punctul geografic extrem nord-estic al națiunii.",
+        "Farul de pe promontoriu a fost construit manual din cărămizi masive de o firmă scoțiană.",
+        "Zonă populară de ecoturism deoarece fauna marină poate fi observată de pe stânci stâncoase.",
+        "Populația locală este redusă, mulți trăind de pe urma turismului și a pescuitului marin.",
+        "Vara, așezarea găzduiește tabere dedicate conservării țestoaselor de piele (Leatherback).",
+        "Atleți faimoși la nivel mondial, inclusiv campioni olimpici, provin din această regiune restrânsă.",
+        "Dialectul creol rural al locului menține încă sintagme vechi din colonizarea spaniolă/franceză."
+      ]
+    },
+    {
+      "id": "tt-matelot-cities-v2",
+      "descriptionAdvanced": "Matelot este unul dintre cele mai izolate și spectaculoase așezăminte din Trinidad, ascuns pe coasta nordică inaccesibilă, chiar la capătul unuia dintre cele mai periculoase drumuri rurale. Limitat de stânci prăpăstioase abrupte din Northern Range și valuri puternice, satul poartă un nume de origine franceză ce se traduce prin 'Marinar'. Așezarea își menține cu mândrie tradițiile vechi independente, bazându-se aproape exclusiv pe pescuit și eco-agricultură forestieră din curțile caselor. Vegetația abundentă și fluviile răcoroase montane conturează un sanctuar nealterat. Geografie Regională K6 — izolarea geografică și economia la distanță.",
+      "factsAdvanced": [
+        "Localitatea marchează punctul terminal rutier pentru vehiculele de pe coasta nordică extremă.",
+        "Numele francez originar 'Matelot' înseamnă în mod literal marinar sau om al mării.",
+        "Localnicii recoltează faimoasa cacao nordică sub umbrela pădurii (shade-grown cocoa).",
+        "Stâncile și valurile sunt prea brutale pentru turism de masă sau infrastructură turistică.",
+        "Satul suferă adesea de izolări terestre temporare după prăbușirile violente de teren din Northern Range.",
+        "Fluviul Matelot coboară din munți oferind ape curgătoare populare pentru localnici curajoși.",
+        "Comunitatea se menține autonomă cultural și prezintă clădiri de lemn coloniale de mică înălțime."
+      ]
+    },
+    {
+      "id": "tt-la-brea-cities-v2",
+      "descriptionAdvanced": "La Brea se distinge la nivel global ca orașul care veghează faimosul Lac de Smoală, Pitch Lake, de unde Sir Walter Raleigh folosea material bituminos pentru corăbiile sale. Situat în partea sud-vestică, acest punct urban este vital pentru industria resurselor naturale extrase. Ocupă o regiune afectată de prezența subterană constantă a bitumului, adesea provocând surparea drumurilor locale și a locuințelor din cauza tasărilor geologice. Așezarea poartă o pondere grea în exportul de asfalt mondial ce asigură durabilitatea drumurilor naționale din lume. Geologie și Industrie K7 — formarea bitumului natural și exporturile țării.",
+      "factsAdvanced": [
+        "Orașul s-a format complet datorită zăcământului Pitch Lake, exploatat intens comercial.",
+        "Numele de influență spaniolă, La Brea, se traduce simplu și descriptiv ca 'Smoala'.",
+        "A asfaltat numeroase monumente internaționale incluzând esplanada celebrului Palat Buckingham.",
+        "Terenul sub casele locuitorilor se mișcă fizic lent anual datorită solurilor instabile de bitum.",
+        "Proximitatea dispune și de porturi active și platforme masive offshore ale industriei gaziere.",
+        "Atrage mii de vizitatori și pasionați științifici din dorința de a cerceta lacul mineral solidificat.",
+        "Posedă o comunitate dedicată conservării arheologice locale, căutând fosile istorice în smoală."
+      ]
+    },
+    {
+      "id": "tt-cedros-cities-v2",
+      "descriptionAdvanced": "Cedros cuprinde o peninsulă captivantă în extremitatea sud-vestică a insulei Trinidad, cu vedere directă spre coastele din America de Sud (Venezuela), separată doar de o secțiune strâmtă oceanică. Într-un peisaj maritim rustic, peninsula abordează uriașe moșii de cocotieri străvechi și plaje sălbatice întinse unde se trage tradițional plasă pescărească de către grupuri comunale ('seine fishing'). Comunitatea este remarcabilă datorită mozaicului cultural și amestecului frecvent al comercianților venezueleni. Este caracterizată ca fiind destinația supremă de ecoturism izolată. Geografie K7 — proximitatea continentală și peisajele de plantații de palmieri.",
+      "factsAdvanced": [
+        "Este regiunea din Trinidad cu cea mai scurtă distanță maritimă până pe teritoriul Venezuelei.",
+        "Găzduiește mii de hectare istorice care formează cel mai mare complex de cocotieri al insulei.",
+        "Include plajele idilice din Columbus Bay, unde eroziunea costieră lovește țărmurile muntoase.",
+        "Satul cunoaște o piață istorică extinsă de tranzit al produselor și vaselor sud-americane.",
+        "Mlaștinile sale sudice adăpostesc pești excepționali rari, specii neaclimatizate în altă parte a insulei.",
+        "Economia se sprijină primordial prin asociații comunitare strânse ale pescarilor regionali.",
+        "Festivalul său pitoresc hindus de Hosay rămâne un pilon puternic de uniune interculturală vestică."
+      ]
+    },
+    {
+      "id": "tt-mayaro-cities-v2",
+      "descriptionAdvanced": "Mayaro, un paradis natural la marginea de sud-est, domină orizontul cu cea mai extinsă linie de coastă cu nisip neîntrerupt din Trinidad. Este inima industriei petroliere onshore și offshore la distanță de coastele Atlanticului de zeci de ani, unde companiile operează facilități ce sprijină economia. Deși marcată de companii energetice internaționale, localitatea reține farmecul relaxant al comunităților pescărești caraibiene de weekend pentru locuitorii din marile orașe din vest. Solul regiunii a susținut și faimoasele păduri de nucă de cocos plantate în vechime. Economie K6 — turismul intern litoral amestecat cu extracția hidrocarburilor.",
+      "factsAdvanced": [
+        "Așezarea se mândrește cu plaja Mayaro Beach de 22 kilometri, una dintre cele mai întinse din țară.",
+        "A funcționat ca o platformă logistică primară și nod petrochimic pentru gigantul Amoco (BP).",
+        "Regiunea a fost explorată de navele spaniole din secolul al șaisprezecelea în trecere din sud.",
+        "În sezon, atrage un procentaj impresionant din turiștii interni veniți pentru relaxarea weekendului.",
+        "Deținea proprietăți uriașe ale faimoasei familii de origine franceză St. Hilaire din perioada colonială.",
+        "Plaja de pe coasta atlantică are curenți marini care produc eroziuni masive ale nisipului constant.",
+        "Pescuitul în zonele joase combinat cu servicii de resort susține substanțial așezările locuite."
+      ]
+    },
+    {
+      "id": "tt-rio-claro-cities-v2",
+      "descriptionAdvanced": "Rio Claro funcționează ca un nucleu comercial central important pentru partea sud-estică, fiind localitatea de tranzit necesară dinspre insula interioară către coasta Mayaro. Originile sale coloniale de pe la sfârșitul secolului 19 se bazează pe rutele feroviare care înlesneau descărcarea masei lemnoase abundente, extrase din zonele înconjurătoare și preluarea recoltelor vaste de porumb sau orez din așezările est-indiene. Astăzi este bogat în tradiții religioase sincretice, cu numeroase lăcașe de cult împărțind un peisaj arhitectural tipic fermier care alimentează capitala administrativă Mayaro-Rio Claro. Istorie Rurală K8 — comerțul forestier național și rețelele agrare.",
+      "factsAdvanced": [
+        "Un alt fost mare terminat de rută feroviară a Trinidad Government Railway oprit în 1965.",
+        "A servit ca punct focal de exploatare forestieră guvernamentală de mahon pe scară națională.",
+        "Comunitatea se definește ca inima Consiliului regional complex combinat 'Mayaro–Rio Claro'.",
+        "Are o istorie îndelungată legată de foștii negustori de migrație sirieni sosiți cu mult timp în urmă.",
+        "Evoluția recentă s-a orientat pe complexurile comerciale pentru a servi populația zonei vaste.",
+        "Poartă nume portughez pentru apele limpezi observate de coloniștii iberici ajunși prima oară.",
+        "A cunoscut ciocniri comunitare în timpul grevelor masive ale muncitorilor forestieri și agricoli."
+      ]
+    },
+    {
+      "id": "tt-roxborough-cities-v2",
+      "descriptionAdvanced": "Roxborough reține statutul onorific ca a doua localitate ca mărime pe mica insulă Tobago, localizată magnific pe coasta vestică bogată de est a insulei vântoase. Recunoscută național pentru Revolta de la Belmanna (1876), declanșată de muncitorii eliberați asupriți, orașul a generat mișcări importante pentru formarea identității insulelor. Beneficiază de cascade de apă montană incredibile și vegetație luxuriantă pe terenuri terasate. Astăzi e un centru rezidențial important estic ce pune la dispoziție servicii, spitale moderne și facilități bancare majore pentru nord. Istorie K7 — mișcările de emancipare și așezările secundare administrative.",
+      "factsAdvanced": [
+        "Considerat sediul regional administrativ principal pentru întreaga jumătate de est din Tobago.",
+        "Punctul de origine pentru Rebeliunea istorică Belmanna a foștilor sclavi britanici în anul 1876.",
+        "Aici se găsește cel mai bun acces spre legendarele Cascade Argyle – un monument ecoturistic.",
+        "Istoria sa agricolă s-a bazat aproape complet pe vaste recolte din proprietățile estice cu cacao.",
+        "Spre est se aliniază cu arii împădurite străvechi, ce constituie Parcul Main Ridge.",
+        "Conține complexuri municipale urbane, inclusiv facilități de sănătate spitalicească majore regionale.",
+        "Păstrează reminiscențe vitale ale tradițiilor insulare pre-industrializării masive pe dealuri."
+      ]
+    },
+    {
+      "id": "tt-speyside-cities-v2",
+      "descriptionAdvanced": "Speyside este așezarea vizual spectaculoasă ascunsă pe tărâmul Atlantic de nord-est a insulei Tobago. Renumită pentru frumusețea coralilor masivi și a faunei tropicale abundente din adâncurile Little Tobago. Recifele oceanice protejate, alături de faimosul 'creier de coral' – printre cei mai masivi din lume, transformă așezarea mică de pescari într-o mecca mondială consacrată exclusiv pasionaților de scufundări științifice sau turistice. Văile abrupte rețin o umiditate intensă, sprijinind o diversitate enormă de păsări tropicale ca paradis ecologic curat și netulburat. Biologie Marină K8 — ecoturismul de recif mondial și biodiversitatea insulelor limitrofe.",
+      "factsAdvanced": [
+        "Orașul protejează uimitorul habitat subacvatic unde stă masivul coral cu formă de creier gigantic.",
+        "Găzduiește pe plajă stații primare de îmbarcare a vaselor locale direct spre zona Little Tobago.",
+        "Comunitatea trăiește dintr-un flux susținut dar controlat de turiști ecologici și biologi din lume.",
+        "Marea atrage recurent specii majore uriașe ca faimoasele creaturi manta ray din septembrie.",
+        "Terenul satului oferă un relief montan sever imediat la coborârea pantelor lângă țărm oceanic.",
+        "A servit drept avanpost de protecție antic pentru plantațiile nord-estice vântoase din vechime.",
+        "Structurile satului rămân predominant turistice, cabane tradiționale eco și mici hanuri de tip familial."
+      ]
+    },
+    {
+      "id": "tt-crown-point-cities-v2",
+      "descriptionAdvanced": "Crown Point constituie fundamentul industrial turistic pe coasta din sud-vest pentru mica insulă Tobago. Situată perfect pe o porțiune peninsulară aplatizată dintr-o fostă imensă bază coraligenă, este casa celebrului aeroport internațional și a faimoaselor destinații ca Pigeon Point și Store Bay. Această stațiune compactă oferă densitatea principală de opțiuni de noapte și divertisment hotelier de top, susținând singură o economie dependentă. În pofida comercializării, apele turcoaz de neegalat, precum renumita Nylion Pool, definesc caracteristica inedită. Turism și Economie K6 — infrastructura turistică și patrimoniul resorturilor de litoral.",
+      "factsAdvanced": [
+        "Include aeroportul ANR Robinson International Airport, care tranzitează mii de turiști globali lunar.",
+        "Concentrația cea mai densă din țară pe km de hoteluri și resorturi de odihnă premium caraibiene.",
+        "Terenul satului este în contrast masiv cu restul din Tobago, reprezentând o fostă terasă coralină.",
+        "Zona fortăreței vecine conține ruine olandeze masive vechi din anii bătăliilor maritime constante.",
+        "Accesul principal la Store Bay aduce zilnic zeci de ambarcațiuni cu vâsle dedicate tururilor spre recife.",
+        "O zonă intens dominată de servicii imobiliare, bănci turistice și complexe ale marilor retaileri.",
+        "Acționează ca un nucleu principal de festivități nocturne pe străzile destinate distracției vibrante."
+      ]
+    },
+    {
+      "id": "tt-barataria-cities-v2",
+      "descriptionAdvanced": "Barataria prezintă o structură unică suburbană așezată exact la nord-est de inima Port of Spain. Este extrem de dezvoltată datorită extinderilor masive rezidențiale de clasă de mijloc pe terenurile vechii agriculturi Caroni de-a lungul istoriei recente. Oferind depozite extinse de producție și import la limita sa meridională și străzi interconectate meticulos pentru reședințe moderne, zona echilibrează o dezvoltare industrială controlată și un mediu casnic pașnic de suburbie. Fiind situată lângă coridorul arterial al East-West, dispune de tranzite masive zilnic între diverse companii globale și facilități școlare de prestigiu. Urbanism K7 — industrializarea limitrofă și structura ansamblurilor rezidențiale mixte.",
+      "factsAdvanced": [
+        "Locația găzduiește unul din renumitele 'Barataria Roundabouts', epicentre extrem de complexe rutiere.",
+        "Partea inferioară este marcată de zeci de uzine de procesare și companii mari logistice importatoare.",
+        "Păstrează un puternic amestec demografic stabil din familii influente creole și sino-trinidadiane vechi.",
+        "Etimologia este asociată cu așezări ale exploratorilor spanioli, reflectată în topologia vechilor hărți.",
+        "Zona de est a acesteia, mărginită pe valea San Juan, prezintă centre mari regionale de afaceri mari.",
+        "Comunitățile găzduiesc tradiționale ligi fotbalistice și terenuri de sport naționale extrem de animate.",
+        "A devenit un pol imobiliar extrem de disputat din anii 80 pentru densificarea din sectorul terțiar."
+      ]
+    },
+    {
+      "id": "tt-st-james-cities-v2",
+      "descriptionAdvanced": "St. James este renumit în metropola Port of Spain ca centrul efervescent al culturii și divertismentului național. Denumit adesea cu afecțiune „orașul care nu doarme niciodată”, faima sa decurge de pe artera principală de agrement Western Main Road cu abundență de street food local caraibean. Interesant, moștenirea istorică poartă amprenta masivă a coloniștilor indieni mutați de pe domeniile din anii 1800, cu multiple alei purtând denumiri clasice de orașe sau fluvii indiene precum Bengal ori Ganges. Această moștenire este omagiată remarcabil în paradele Hosay ale sezonului, adunând națiuni cu ritmuri magnifice ale artelor meșteșugărești și instrumente stradale asiatice. Sociologie Urbană K8 — culturile vibrante de noapte și sincretismul de festivaluri asiatice.",
+      "factsAdvanced": [
+        "Găzduiește renumitul 'St. James Amphitheatre' fondat ca un centru deschis de cultură contemporană.",
+        "Cunoscut drept sediu esențial al monumentalei Sărbători islamice 'Hosay' caracterizată de care orante.",
+        "Arterele sale transversale au denumiri geografice unice indiene, rămase de pe plantația agricolă timpurie.",
+        "Western Main Road conține faimoasa zonă care este cel mai deschis și intens centru stradal comercial nocturn.",
+        "Deținea un centru administrativ coloniar vechi unde lucrau soldați africani pensionați și deblocați din garnizoane.",
+        "Comunitatea include prezență impresionantă de diverse mici lăcașuri de cult seculare evanghelice interconectate.",
+        "Clădirea Long Circular Mall a generat dezvoltare modernă impresionantă pe fostele pământuri ale fostelor ferme."
+      ]
+    },
+    {
+      "id": "tt-woodbrook-cities-v2",
+      "descriptionAdvanced": "Woodbrook rămâne cartierul prin excelență destinat elitelor sociale tradiționale de mijloc din imediata parte apuseană a metropolei insulei. Zona se diferențiază frapant datorită renumitelor fațade urbane caraibiene arhitecturale istorice unice ale caselor vechi, numite stil de patrimoniu 'gingerbread houses', realizate manual, cu dantelărie complexă din lemn de finețe englezească. Faimoasa ariă Ariapita Avenue constituie actualmente cea mai prosperă bandă de cafenele comerciale, restaurante cu stil cosmopolit din toată națiunea. Comunitatea se asociază masiv din anii '40 cu formarea multor companii muzicale renumite masive și tabere principale esențiale ale carnavalelor contemporane globale. Patrimoniu și Urbanism K8 — conservarea istorică a clădirilor coloniale și comercializarea rutelor rezidențiale.",
+      "factsAdvanced": [
+        "A fost transformat cu atenție pe fostele teritorii de plantații mari imense ale vechii familii bogate Siegert din 1911.",
+        "Conservă faimosul design architectural de case tip 'gingerbread house' prevăzute cu detalii elaborate rafinate fine de feronerie din lemn.",
+        "Rețeaua ariei rutiere principale poartă deseori un design uniform conceput după modele geometrice simetrice în blocuri.",
+        "Ariapita Avenue a progresat constant până la a fi nucleul principal financiar de distracții exclusiv din secolul acesta din Trinidad.",
+        "Cartierul adăpostește sediul național recunoscut istoric al primarului oficial al Portului Metropolei pe pământurile locale.",
+        "Dețin zeci de locații legendare (panyards) utilizate constant ca platforme mondiale în dezvoltarea performanței din muzica locală.",
+        "Faimoase familii literare și personalități ale culturii insulare a secolului recent au activat istoric aici cu mare regularitate."
+      ]
+    },
+    {
+      "id": "tt-belmont-cities-v2",
+      "descriptionAdvanced": "Belmont figurează distinct pe paginile capitalei Port of Spain, drept suburbia primordială concepută spontan pe cursul evoluției din anii 1840, când pământurile eliberate au fost în posesia negrilor proaspăt achitați din serviciu britanic. Datorită creșterii nereglementate topografice din dealurile limitrofe, peisajul său se aseamănă cu un amplu labirint haotic format de ulicioare înguste pitorești. Este de neegalat pentru vitalitatea comunităților religioase africane sincretice de necontestat ce păstrează ritualuri precum cultul spiritualității orisha ale ținuturilor. Aceasta a creat nuclee excepționale istorice creative culturale incluzând celebri designeri recunoscuți și artiști excepționali importanți de costume grandioase anuale. Demografie și Arhitectură K8 — comunitățile afro-antiliene urbane istorice fondatoare.",
+      "factsAdvanced": [
+        "Cunoscut pe deplin, a reprezentat de fapt una din primele și cele mai uriașe arii urbane formale destinate claselor eliberate coloniene afro-creole.",
+        "Ecartamentul unic haotic stradal s-a instalat organic înainte ca reglementările rutiere și standardele coloniale geometrice stricte din zona metropolitană.",
+        "Prezintă clădiri iconice, remarcabil adăpostind impresionantul fost azil caritabil al Farrow Orphanage a insulei, o arhitectură gotică tropicală unică.",
+        "Terenul inițial al suburbiei de la poale fusese parte integrantă majoră dintr-un domeniu uriaș francez dedicat anterior cultivării cafelei din regiune.",
+        "Localnicii consideră pe bună dreptate străzile din suburbia Belmont ca o veritabilă matcă profund culturală formativă dedicată artei carnavalului istoric.",
+        "Găzduiește constant multiple parohii religioase evanghelice și comunități mari catolice influente instalate formal aici devreme în mijlocul secolului nou.",
+        "Locație esențială peisajului insulei din cauza școlilor prestigioase și complexelor de sănătate generală pentru pacienți ridicate decenii în vechime pe coline."
+      ]
+    },
+    {
+      "id": "tt-charlotteville-cities-v2",
+      "descriptionAdvanced": "Charlotteville rămâne perla estică așezată idilic a insulei Tobago, izolată pașnic în extremitatea muntoasă ascuțită dintre vegetație masivă virgină de o frumusețe covârșitoare naturală. Orașul maritim își trage seva istorică faimoasă dintr-o epocă uriașă de fostă fabrică de prelucrare masivă veche a zahărului ridicată de primii exploratori britanici asupritori olandezi din anii trecuți. Astăzi are exclusiv o prezență vibrantă dedicată unicității unei comunități a pescarilor meșteșugari, sprijinind cooperativ o flotă enormă și rețeaua marină pe teritoriul Man-O-War Bay. Un centru global prețuit din pricina habitatelor exotice și plajelor naturale extrem de protejate ce resping comercializarea dură impusă stațiunilor hoteliere globale majore ale continentului nord. Ecoturism și Geografie K7 — dezvoltarea pescuitului durabil maritim izolant.",
+      "factsAdvanced": [
+        "Prezintă golful Man-O-War Bay ca cel mai uriaș loc de ancorare acvatic cu ape extrem de calme complet ferit protejat de vreme de coasta de nord din Tobago.",
+        "O relicvă rară a păstrat roata de forță masivă și resturile din zahăr, atestând masiva dominație colonială pe fosta faimoasă proprietate agricolă veche 'Pirates Bay'.",
+        "Se accesează istoric și dureros prin trecători masive extrem de sinuoase ridicate abrupte aflate integral prin zonele cu păduri ale uriașului 'Main Ridge Reserve'.",
+        "Aria muntoasă are tradiția seculară populară a cooperativelor pescarilor marini pe un model extrem de simplist ce rezistă fără nicio interacțiune cu industrializarea masivă.",
+        "Posedă unele din ultimele plaje ecologice cele mai complet izolate la scară regională caraibeană perfect conservate dedicate drumețiilor sau relaxării ecoturistice marine simple.",
+        "Are reputația masivă insulară prin celebra 'Tobago Fishermen Festival' dedicată culturilor maritime tradiționale pe coaste adânci nordice spectaculoase anual cu mari onoruri marinarilor locali unici din est.",
+        "Climatul adăpostește precipitații ridicate extrem de mari din Ocean din pricina barierelor înalte de stâncă ce captează permanent fronturile atmosferice bogate sosite de departe oceanic."
+      ]
+    },
+    {
+      "id": "tt-parlatuvier-cities-v2",
+      "descriptionAdvanced": "Parlatuvier funcționează pe harta ecoturistică nord-estică din Tobago ca unul din spectaculoasele refugii mici de pescari caraibieni localizați exclusiv pe tărâmul coastei aspre nordice atlantice magnifice. Orașul atrage interesul istoric direct prin așezarea uluitoare lângă munte într-un golf curbat ca amfiteatrul extrem de perfect delimitat geografic format protejat de o terasă curbată stâncoasă acoperită cu pini oceanici imenși care previn masiv efectele vijeliilor oceanice puternice. Din acest port rustic extrem de izolat pescarii au navigat de un secol cu simple lotci, menținând independent cu stoicism tradiția precolonială marină, dominând exportul pescăresc mic al așezărilor de deal spre rute pitorești locale spre Roxborough cel apropiat cu comerț limitat de agricultori rari izolați. Antropologie Rurală K6 — comunități rurale dependente pescăresc localizate abrupt marin.",
+      "factsAdvanced": [
+        "Un reper distinct unic al destinației nordice este un debarcader vechi gigantic ce divide în două jumătăți spectaculoase uriașul său golf circular plin cu bărci din zonă de pe faimoase ape turcoaz limpezi atlantice reci.",
+        "Râul pitoresc abundent local curge alert pe dealuri și varsă dulceaga cascadă cristalină direct în ocean din inima deasă extrem a pădurii virgine vecine a națiunii tropicale protejate a țării.",
+        "Tradiția principală predominantă ecoturistică cuprinde facilități minore modeste ca structurile rurale unice construite din lemn masiv și piatră vulcanică ridicate tradițional istoric printre dealuri masive la mal preistoric.",
+        "Este izolat total complet protejat pe linia de litoral muntos și se impune trecerea unui lanț dens acoperit abrupt spectaculos și umed aparținând din parcul forestier vechi și umed extrem rezervat Tobago Main Ridge.",
+        "Deținea inițial rădăcini franceze din explorări preistorice atestate documentar cu referire denumirea locală a unui explorator franc din istorie ajuns accidental ca navigator eșuat aici când fugeau un secol de autorități.",
+        "Principala marfă locală marină constă tradițional mereu din somon oceanic (kingfish) extrem apreciat printre bucătari vândut istoric imediat pe falezele pitorești încinse pescărești simple din zonă vizitatorilor de trecere puțini de vară.",
+        "Satul susține la rândul său un ecosistem bogat format preponderent din specii extrem curioase gigantice din fauna marină tropicală endemică datorită interdicțiilor masive moderne rurale pe pescuit greu."
+      ]
+    },
+    {
+      "id": "tt-blanchisseuse-cities-v2",
+      "descriptionAdvanced": "Blanchisseuse este recunoscută insular popular pe extremitatea de coastă abruptă de nord montană vestică drept destinația terminală de izolare maritimă caraibiană magnifică și calmă. Purtând numele descriptiv provenit din termenul limbii franceze ce onorează extrem 'spălătoresele' faimoase coloniale de mult stabilite inițial, faima sa dăinuie printre ruine din perioada franceză și engleză veche care spălau rufe la gura râului imens Marianne vecin pitoresc abundent de casacade magnifice. Locația combină așezări modeste africane pescărești neafectate ce adăpostesc peisaje plaje liniștite virgine cu râuri navigabile izolate reci extrem apreciate pentru relaxarea curată de orășeni și plimbări fluviale montane ascunse ecologice din valea vestică tropicală luxuriantă nordică curată plină montană spectaculoasă extremă rară protejată. Ecoturism Istoric K6 — explorarea izolaționistă și etimologia limbilor coloniene caraibiene montane maritime vechi.",
+      "factsAdvanced": [
+        "A fost numit pe un fond descriptiv pitoresc formal 'Blanchisseuse' pe hărți istorice uriașe din cauza unor nenumărate spălătorese femei indigene observate la râurile de pe litoral de o escadră expediționară curioasă maritimă colonială secole la rând.",
+        "Localitatea muntoasă reprezintă limita terminală a faimosului drum scenic istoric asfaltat abrupt spectaculos extins vechi din nord North Coast Road din partea estică îndepărtată a țărmului magnific caraibian cu treceri foarte alunecoase.",
+        "Prezintă uimitorul Pod Marianne de fier ruginit care reprezintă faimos o atracție rurală de neprețuit ecologic ce asigură singura rută de legătură localnicilor din nord printre cele faimoase și cele mai pitorești limpezi râuri mari locale virgine bogate din munte cald tropical unic estic muntos.",
+        "Pescuitul în larg artizanal rural a fost și continuă a susține masiv esențial o mare parte extrem din supraviețuirea așezării muntoase africane izolate în mod constant și pașnic vechi din secole conservator de neclintit istoric.",
+        "Locația plină montană are o atracție faimoasă dincolo de plaje ca remarcabilele unice renumite bazine masive fluviale adânci din munte cum ar fi spectaculoasele Three Pools din inima uriașei jungle de lux nordice muntoase și ecologice unice estice adânci.",
+        "Acoperită de o istorie extrem faimoasă bogată maritimă dominată formal spaniol și preluată englez odinioară când culturile de ciocolată cacao trinitario s-au retras de aici mult demult din cauza pământurilor nisipoase prea umede improprii agriculturii extinse montane aspre și ploioase stâncoase estice severe muntoase calcaroase unice masive.",
+        "Sărbătorile mici specifice locale faimoase anuale integrează spectaculos așezarea curioasă în calendar cu masive atracții muzicale faimoase rurale creole atipice unice regiunilor montane din vest dominat insulare muntoase de munte pitoresc atlantice pline vechi rare istorice."
+      ]
+    },
+    {
+      "id": "tt-grande-riviere-cities-v2",
+      "descriptionAdvanced": "Grande Riviere, un sanctuar extrem ascuns de neegalat la nord pe partea estică stâncoasă oceanic a uriașei insule luxuriante a obținut în deceniile trecute prestigiul faimos global ecologic exclusiv pentru uluitoarea bogăție biologică masivă. Găzduiește epicentrul național mondial principal consacrat masiv plajelor faimoase virgine folosite pe o suprafață restrânsă imens din Caraibe strict de unicul țestoas marin uriaș străvechi unic leatherback faimos uriaș noaptea protejat strict turistic în mod continuu un ecosistem excepțional oceanic global strict ecologic susținut mândru internațional masiv și atent natural. Locația abundă masiv la baza extrem de estică pitorească naturală montană rural în mici unități de culturi arhaice rustice conservate unde faimosul uriaș Râu Grande coboară brutal masiv cu mii de litri apă pe minut răcoroasă cristalin curată spre valuri furioase masiv. Biologie și Ecoturism K8 — eforturile masive pentru conservarea speciilor antice oceanice gigantice și turism forestier susținut.",
+      "factsAdvanced": [
+        "Așezarea reprezintă anual primăvara pe plan internațional cu adevărat una dintre destinațiile supreme ale oceanului și a insulelor unde uriașele țestoase faimoase străvechi leatherback depun pe plajă neafectată cupe cu masive cantități mii ouă valoroase adânci ecologice și luminate restrâns natural unic pe timpul cald sud oceanic rar maritim noaptea calm oceanic pitoresc adânc tropical calm liniștit adânc tropical calm insular marin.",
+        "Locația satului estic pitoresc liniștit s-a consolidat masiv rural cu mici plantații agricole imense de cafea din secol britanic colonial dispărut vechi istoric dominat de arborii umbroși enormi tropicali lăsați din decenii vechi cu sol muntos argilos izolați liniștit izolați liniștit tropical pitoresc izolați calm rural conservat faimos istoric rural extrem.",
+        "Regiunea primește precipitații ecologice orografice uriașe pe coasta de răsărit datorită capătului munților ascuțiți din est din vântul atlantic creând habitat luxuriant rarisim pentru pasări faimoase imense albastre ca renumitul masiv exotic Pawi (piping guan) unic național din lume rarisim observabil greu izolat calm insular faimos calm vechi abundent muntos adânc calm rustic liniștit tropical.",
+        "Izolarea geografică faimoasă din dealuri extreme greu accesibil a condus unicat comunitatea la constituirea de uniuni și fundații masive uriașe complet ecologice conduse strict strict de pescari ce refuză dezvoltarea brutală turistică ce strică ecosistemul rural și liniștea extrem de adâncă conservată cu succes curat din munți estici sălbatic faimos conservat calm calm tradițional faimos curat izolat vechi.",
+        "A servit inițial un avanpost agricol pitoresc în timpul stăpânirii faimoase spaniole timpurie ca punct ferit imens maritim curajos împotriva intemperiilor severe atlantice cu un masiv drum inaccesibil din vest până recent modernizat limitat și precar pentru siguranță ecologică rural tropicală calm estică rară rural calm cald calm tropical extrem insular estică rară liniștit muntos pitoresc cald conservat abundent.",
+        "Drumul principal rutier unic de capăt care trece spectaculos estic masiv din Toco a permis satului dezvoltare precară dar aducând un aflux turistic faimos excepțional sezonier extrem din exterior pe un parcurs dur izolat cu pante grele din piatră rară roșie din munți cald pitoresc tropical rustic liniștit estic rarisim muntos insular din ocean exotic curat sălbatic vechi tradițional marin adânc ocean izolat vechi insular faimos marin vechi faimos vechi conservat.",
+        "Deținea una dintre puținele platforme istorice pitorești imense abandonate în zonă din lemn masiv și șine înguste folosite istoric anterior strict la coborârea mărfurilor grele din cacao montană din recoltele masive rurale izolate tradițional rural estice unice rurale abandonate din munți cald cald tropical estice conservate masiv abundent pitoresc conservate calm marin liniștit."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-cities-v2",
+      "descriptionAdvanced": "Guayaguayare (adesea simplu, Guaya) adăpostește istorie adâncă, pe plajele aspre ale malurilor colțului extrem de sud-est ce preiau bătăile oceanelor deschise unde furtunile din canal tropical despart statul insular vechi de vecina Venezuele imensă masivă tăcută cald exotic rural abundent calm conservată estic atlantic. Locul cunoaște mândru un renume istoric gigantic la începutul secolului ca fiind zona uluitoare monumentală unde un explorator britanic istoric a forat și a dat naștere cu succes primei fântâni de extracție masivă de hidrocarburi (petrol brut) uriașe din pământ și regiune de pe mapamond. Este un pol masiv cu rezerve economice rurale gigantice care a pus coloniile antice din insulă direct faimos extrem din Caraibe extrem de stabil pe uriașa masivă rută energetică faimoasă mondial. Geografie Geologică K7 — revoluția hidrocarburilor și resursele faimoase vechi din zona de sud extrem rarisim estic rustic marin tăcut curat tropical atlantic marin.",
+      "factsAdvanced": [
+        "Satul estic de sud poartă o însemnătate glorioasă uriașă în istorie ca teren masiv din țară de așezământ cu prima fântână imensă gigantică și sondă exploatată fericit masiv uluitoare petrolier fondată formal reușită extrem faimos din 1902 veche istoric de exploratorul imens curajos Randolph Rust pe țărm oceanic marin rustic extrem.",
+        "Plaja extinsă estică gigantică masivă așezării este denumită curent frecvent în limba localnicilor curajos și tradițional Sea Wall din cauza stăvilarului gigant maritim construit istoric masiv târziu pentru apărare furiei ecologice faimos unice adânc faimoase din Caraibe din curenți uriași feroce de nisip marin izolat cald tăcut tropical atlantic estică marin.",
+        "Numele exotic străvechi provine din cuvinte vechi antice tradițional faimoase originare din limbajul unic faimos dispărut amerindian al primelor triburi arawak indigene și reflectă abundent istoric vechi o abundență veche de pini lemnoși masivi și arbori forestieri vechi rarisimi estic abundent tradițional vechi rustic atlantic cald marin insular pitoresc oceanic.",
+        "Se accesează istoric și precar rutier în prezent unind cu Rio Claro uriaș o masivă rețea veche complexă din conducte de pompaj vechi și infrastructură din petrol abandonată ruginită veche și sonde rurale adânci și forestiere pe suprafață uriașe forestiere calde din adânc insular tropical din extrem din estic estică forestiere faimoase din țară din estic extrem rustic tropical conservat marin tăcut estic marin calcaroase tropical oceanic muntos liniștit tropical.",
+        "Orașul pescăresc susține paralel rural și ecologic activități masive ecologice faimoase tradițional izolate cu flote uluitoare locale masive simple rurale ieftine adânci curat marin tăcut pentru capturarea masivă la prețuri comerciale pentru somon și languste oceanice gigantice estice faimoase pe platouri atlantice prețioase izolate vechi rustic insular extrem din sud adânc estic tropical vechi rural marin calm exotic faimoase din insulă.",
+        "Prezintă pădurea luxuriantă uriașă extrem protejată vecină Trinity Hills, din care Cristofor explorator uluitor gigant a navigat faimos uluitor curajos de aproape și a primit vizual așezarea cu trei culmi spectaculoase legendare dând numele unic oficial creștin țării noastre antice estice izolate adânc din largul mării din sud rustic extrem de sud tăcut faimoase estic marin curajos oceanic tropical conservate extrem tăcut pitoresc calcaroase rustic calm cald pitoresc tropical.",
+        "A supraviețuit istoric pe durata mai multor explorări faimoase de uriașe depozite unicat petroliere imense din pământ și ocean sub egida companiilor majore de decenii de monopol ca faimoasă din țările vestice, creând platforme majore oceanice uluitoare vizibile la orizont rural atlantic estic curajos din țară curat marin adânc oceanic rustic calm cald tropical tăcut vechi tăcut conservate cald calcaroase adânc tropical."
+      ]
+    },
+    {
+      "id": "tt-icacos-cities-v2",
+      "descriptionAdvanced": "Icacos, pitit extrem și îndepărtat pașnic din vest de tot în peninsula de sud dominată masiv complet rural insular, cunoaște apele sărate golfului imens al oceanului sudic ce unesc statul de faimoasă vecină caldă sudamericană cu mlaștini preistorice vechi. Peisajul său abundă de frunziș rustic uriaș de palmieri verzi masivi enormi cu sate și cabane vechi din sate unde micii comercianți vând uluitoare recolte istorice ieftine faimoase artizanale cu nuci oceanice de secole tradițional calde estic rarisim muntos adânc din caraibe estic. Un centru unic pitoresc rarisim liniștit complet unde pescarii migranți străvechi interacționează în sate izolate aducând obiceiuri hispanice antice calde tradițional preistorice conservate marin din continente. Cultură Tradițională K7 — granițele naturale atlantice deschise maritime antice sud americane curat.",
+      "factsAdvanced": [
+        "Capătul fizic izolat uriaș oficial și cel mai vestic cald din stat se termină pe țărm faimos cu o uimitoare rezervație naturală de mlaștini gigantice forestiere rarisime preistorice vechi pline masive unice izolat rustic pitoresc tradițional conservat rustic liniștit tăcut estic marin calcaroase oceanic tăcut cald din caraibe marin.",
+        "Plaja faimoasă curajoasă veche a satului este mărginită pe kilometri calzi pe orizont curat de arbori masivi colosali estici de cocotieri rari faimoși aducând masiv renumele global ca așezare din cocotieri faimoși izolați pitoresc calm rustic tăcut din sud oceanic vechi tradițional cald estic rustic conservate izolat din Caraibe tropical tăcut estic muntos estică faimoase tropical oceanic.",
+        "Localitatea tranzitează istoric intens ilegal curajos uluitoare tradiții muntoase masiv artizanale mici pe bărci preistorice rurale vechi simple faimoase de comerț sud american cald direct marin între rude antice vechi hispanice faimoase estice din larg adânc insular tăcut rustic marin estică tăcut conservate cald vechi din sud rarisim marin curat marin estic adânc tropical liniștit calcaroase.",
+        "Numele indigen unic provine dintr-o denumire curioasă uluitoare stranie indigenă dispărută veche derivată rural direct din faimosul din arbust uimitor sălbatic local (cocoplum faimos vechi) tradițional rustic vechi găsit izolat oceanic faimos conservate marin tăcut estică rustic cald conservate estică pitoresc calm calm cald tropical tăcut conservate calcaroase cald tropical marin tăcut estic faimoase.",
+        "Regiunea primește precipitații ecologice calde medii cu sezon uscat extrem unic foarte acut prelungit vechi uscat comparativ curajos rar masiv izolat direct cu faimoasa masivă montană nordică rară din cauza terenului faimos nivelat extrem coborât curajos plat oceanic marin tăcut tăcut cald pitoresc tropical conservate rustic conservat tăcut marin.",
+        "Punct vechi istoric unde ape furioase uriașe estice faimoase de din râu venezuelean masiv giganticul din fluviul istoric uriaș sud-american faimos cald din continent izolat Orinoco amestecă faimos cald calcaroase masiv aluviuni roșiatice adânc marin estic cu marea calm marin curajos izolat cald rarisim tropical rustic vechi estică conservat faimoase faimos rustic marin estic liniștit tropical marin din țară izolat faimoase liniștit tropical.",
+        "Populația locală s-a adaptat pașnic cu bărci lungi uriașe vechi specifice faimoase numite tradițional unice vechi cu vâsle de lemn denumite uluitoare din lemn rarisim pirogi faimos utilizate istoric marin pe țărm oceanic cald din caraibe pitoresc izolat din sud vechi conservat tăcut rustic faimoase estică cald liniștit calcaroase estică tăcut."
+      ]
+    }
+  ]
+}

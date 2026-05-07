@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "salzgewinnung-swakopmund-economic-v2",
+      "descriptionAdvanced": "Die Salzgewinnungsanlage nördlich von Swakopmund ist eine der markantesten Industrielandschaften an der namibischen Küste. Betrieben von der Swakopmund Salt Company, nutzt die Anlage die extrem hohe Verdunstungsrate der Namib-Wüste und den kalten, salzreichen Benguelastrom, um hochwertiges Meersalz zu produzieren. Das Meerwasser wird in eine Reihe von riesigen flachen Verdunstungsbecken (Salt Pans) gepumpt. Durch Mikroorganismen und Algen wie Dunaliella salina leuchten die Becken je nach Salzgehalt in spektakulären Rosa- und Rottönen, was die Anlage zu einem beliebten Fotomotiv macht. Das produzierte Salz wird sowohl industriell als auch für den menschlichen Verzehr genutzt. Wirtschaft K5 — Salzgewinnung und Algenblüten.",
+      "factsAdvanced": [
+        "Die Verdunstungsbecken erstrecken sich über eine Fläche von rund 400 Hektar.",
+        "Das intensiv rote Wasser in den Endbecken entsteht durch salzliebende (halophile) Bakterien.",
+        "Die Anlage produziert jährlich etwa 120.000 Tonnen Rohes Meersalz.",
+        "Ein Großteil des Salzes wird in das restliche südliche Afrika exportiert.",
+        "Die Becken sind ein wichtiger Lebensraum für Flamingos und andere Seevögel.",
+        "Die Sonneneinstrahlung hier gehört zu den intensivsten weltweit, was die Verdunstung maximiert."
+      ]
+    },
+    {
+      "id": "walvis-bay-salzgewinnung-economic-v2",
+      "descriptionAdvanced": "Die Salzpfannen von Walvis Bay bilden die größte Meersalz-Gewinnungsanlage in ganz Subsahara-Afrika. Das 1964 gegründete Unternehmen Walvis Bay Salt Holdings operiert am Rande der berühmten Walvis Bay Lagune. Auf einer gigantischen Fläche von über 5.000 Hektar wird hier durch rein solare Verdunstung massiv Meersalz produziert. Etwa 50 Millionen Tonnen Meerwasser werden pro Jahr durch das Beckensystem gepumpt. Das Endprodukt ist ein extrem reines, grobes Kristallsalz, das hauptsächlich für die chemische Industrie in Südafrika und in anderen afrikanischen Ländern exportiert wird. Die Anlage dient gleichzeitig als eines der wichtigsten künstlichen Feuchtgebiete für Watvögel an der afrikanischen Westküste. Wirtschaft K7 — Großindustrielle Salzproduktion.",
+      "factsAdvanced": [
+        "Die Anlage in Walvis Bay produziert über 700.000 Tonnen Salz pro Jahr.",
+        "Die Verdunstungspfannen bedecken ein massives Areal von mehr als 5.000 Hektar.",
+        "Rund 50 Millionen Tonnen Atlantikwasser werden jährlich durch das System geschleust.",
+        "Das produzierte Salz wird größtenteils zur Herstellung von Chlor und Natronlauge verwendet.",
+        "Die Anlage wurde 1964 durch die Walvis Bay Salt Holdings etabliert.",
+        "Die Becken ziehen riesige Schwärme von Zwergflamingos zur Nahrungsaufnahme an."
+      ]
+    },
+    {
+      "id": "namwater-hauptsitz-economic-v2",
+      "descriptionAdvanced": "Der Hauptsitz von NamWater (Namibia Water Corporation) in Windhoek ist das strategische Kontrollzentrum für eine der schwierigsten Aufgaben in Namibia: die Sicherstellung der Wasserversorgung im trockensten Land südlich der Sahara. Das 1997 als Staatsunternehmen gegründete Institut betreibt und wartet ein gewaltiges Netzwerk aus Staudämmen (wie dem Hardap- und dem Von-Bach-Damm), Grundwasserpumpstationen und Tausenden Kilometern an Pipelines und offenen Kanälen, die Wasser von den nördlichen Grenzflüssen bis in die tiefsten Wüstenstädte transportieren. Ohne die meisterhafte Wasserlogistik von NamWater wäre weder die städtische Entwicklung noch der großindustrielle Bergbau in Namibia möglich. Geografie K8 — Wassermanagement in ariden Zonen.",
+      "factsAdvanced": [
+        "Die Namibia Water Corporation (NamWater) wurde 1997 offiziell als Staatsbetrieb gegründet.",
+        "Das Unternehmen verwaltet über 15 große Staudämme im ganzen Land.",
+        "NamWater betreibt den 17 Kilometer langen Eastern National Water Carrier Kanal im Norden.",
+        "Namibia hat keine permanent fließenden Flüsse im Landesinneren, was die Aufgabe extrem komplex macht.",
+        "Der Hauptsitz in Windhoek steuert auch die riesige Meerwasserentsalzungsanlage in Wlotzkasbaken.",
+        "Rund 70% der nationalen Wasserversorgung hängen direkt vom Grundwasser ab."
+      ]
+    },
+    {
+      "id": "van-eck-kraftwerk-economic-v2",
+      "descriptionAdvanced": "Das Van-Eck-Kraftwerk in der Nähe von Windhoek ist Namibias einziges großes Kohlekraftwerk und war historisch das Rückgrat der nationalen Stromversorgung in Zeiten von Dürren, wenn Wasserkraftwerke ausfielen. Das in den 1970er Jahren erbaute Kraftwerk besitzt eine installierte Leistung von 120 Megawatt, bestehend aus vier 30-Megawatt-Turbinen. Da Namibia keine eigenen wirtschaftlich abbaubaren Kohlevorkommen besitzt, muss die zur Befeuerung benötigte Steinkohle extrem aufwendig per Zug aus Südafrika über weite Strecken importiert werden. Wegen seiner hohen Betriebskosten, Ineffizienz und Umweltauswirkungen wird das Kraftwerk heute von NamPower meist nur als Standby-Reserve für Spitzenlastzeiten betrieben. Technik K7 — Fossile Energieträger und Energieabhängigkeit.",
+      "factsAdvanced": [
+        "Das Van-Eck-Kohlekraftwerk wurde offiziell im Jahr 1972 in Betrieb genommen.",
+        "Es hat eine maximale installierte Erzeugungskapazität von 120 Megawatt.",
+        "Namibia muss 100% der benötigten Steinkohle per Bahn aus Südafrika importieren.",
+        "Die Anlage verfügt über Trockenkühlung, was in der wasserarmen Wüstenregion essenziell ist.",
+        "Aufgrund des Alters operieren die Turbinen heute weit unter ihrer ursprünglichen Kapazität.",
+        "Es dient heute hauptsächlich als Reserve (Peaking Plant) im namibischen Stromnetz."
+      ]
+    },
+    {
+      "id": "ruacana-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "Das Ruacana-Wasserkraftwerk ist das unangefochtene Herzstück der namibischen Energieerzeugung. Es liegt tief in einem massiven unterirdischen Kavernen-System unter den Ruacana-Fällen am Kunene-Fluss, direkt an der Grenze zu Angola. Die in den 1970er Jahren erbaute Anlage generiert saubere Energie durch die Kraft des fallenden Wassers. Mit einer Kapazität von 347 Megawatt (nach einer Erweiterung 2012) liefert es oft mehr als die Hälfte des im Land produzierten Stroms. Das Kraftwerk ist jedoch stark von den saisonalen Regenfällen in Angola abhängig; in der Trockenzeit, wenn der Kunene nur ein Rinnsal ist, fällt die Stromproduktion der Turbinen drastisch ab. Geografie K7 — Regenerative Wasserkraft und Flusssysteme.",
+      "factsAdvanced": [
+        "Das Ruacana-Kraftwerk wurde im Jahr 1978 mit drei 80-MW-Turbinen in Betrieb genommen.",
+        "Im Jahr 2012 wurde eine vierte Turbine (92 MW) hinzugefügt, was die Kapazität auf 347 MW erhöhte.",
+        "Das gesamte Kraftwerk (Maschinenhalle) befindet sich tief unter der Erde in massiven Felshöhlen.",
+        "Der Wasserdurchfluss wird stark vom Calueque-Damm flussaufwärts in Angola reguliert.",
+        "Das Kraftwerk produziert die mit Abstand günstigste Energie im namibischen Strom-Mix.",
+        "Während schwerer Dürren sinkt die Produktion der Anlage oft auf unter 30 Megawatt."
+      ]
+    },
+    {
+      "id": "kudu-gasfeld-economic-v2",
+      "descriptionAdvanced": "Das Kudu-Gasfeld ist Namibias bedeutendstes und ältestes nachgewiesenes fossiles Energievorkommen und liegt etwa 130 Kilometer westlich von Oranjemund tief im Atlantischen Ozean. Es wurde bereits 1974 von der Firma Chevron entdeckt und enthält schätzungsweise 1,3 bis 3 Billionen Kubikfuß Erdgas. Trotz dieses enormen Potenzials, das ausreichen würde, um ein massives 800-Megawatt-Gaskraftwerk (Kudu-Power-Project) zu befeuern und Namibia vom Energie-Importeur zum Exporteur zu machen, wurde das Feld bis heute nicht kommerziell erschlossen. Technische, finanzielle und logistische Hürden des komplexen Offshore-Abbaus haben die Entwicklung dieses strategischen Projekts seit über 40 Jahren verzögert. Wirtschaft K8 — Offshore-Ressourcen und Projektfinanzierung.",
+      "factsAdvanced": [
+        "Das Kudu-Gasfeld wurde im Jahr 1974 durch das Bohrschiff von Chevron entdeckt.",
+        "Das Gasfeld liegt in einer Wassertiefe von etwa 170 Metern im Atlantik.",
+        "Die geschätzten Reserven betragen bis zu 3,3 Billionen Kubikfuß (TCF) süßes Erdgas.",
+        "Es ist geplant, das Gas über eine Unterwasserpipeline an Land nach Oranjemund zu leiten.",
+        "Das vorgeschlagene Kudu-Power-Project plant ein Kraftwerk mit einer Kapazität von 885 Megawatt.",
+        "Das Gas liegt in einer geologischen Tiefe von rund 4.400 Metern unter dem Meeresboden."
+      ]
+    },
+    {
+      "id": "omburu-solarkraftwerk-economic-v2",
+      "descriptionAdvanced": "Das Omburu-Solarkraftwerk in der Nähe der Stadt Omaruru markiert einen historischen Wendepunkt in Namibias Energiepolitik. Eingeweiht im Jahr 2015, war es das erste kommerziell betriebene große Solarkraftwerk (Photovoltaik) in dem sonnenverwöhnten Land. Die hochmoderne Anlage der Firma InnoSun nutzt über 30.000 Solarmodule, die auf einem einachsigen Nachführsystem montiert sind und dem Lauf der Sonne folgen, um die Energieausbeute in den frühen Morgen- und späten Abendstunden massiv zu maximieren. Mit der extrem hohen jährlichen Sonneneinstrahlung beweist Omburu eindrucksvoll das gigantische Potenzial Namibias, sich durch Sonnenenergie in Zukunft vollständig selbst zu versorgen. Physik K7 — Photovoltaik und Solar-Tracking.",
+      "factsAdvanced": [
+        "Die Omburu-Solaranlage wurde im Mai 2015 als erster IPP-Solarpark Namibias eröffnet.",
+        "Die Anlage hat eine Nennleistung von 4,5 Megawatt Peak (MWp).",
+        "Das Solarkraftwerk nutzt 33.418 polykristalline Photovoltaik-Module.",
+        "Die Module sind auf Tracker-Systemen montiert, die die tägliche Energieproduktion um 25% steigern.",
+        "Der erzeugte Strom wird in einem 25-jährigen Abnahmevertrag an NamPower verkauft.",
+        "Namibia gehört zu den Ländern mit der weltweit höchsten Globalstrahlung (Sonneneinstrahlung)."
+      ]
+    },
+    {
+      "id": "erongo-entsalzungsanlage-economic-v2",
+      "descriptionAdvanced": "Die Erongo-Meerwasserentsalzungsanlage, gelegen bei Wlotzkasbaken etwa 30 Kilometer nördlich von Swakopmund, ist die größte Entsalzungsanlage im südlichen Afrika und eine technische Lebensader für die namibische Uranindustrie. Ursprünglich 2010 von der französischen Firma Areva (heute Orano) für die Trekkopje-Mine erbaut, liefert die Anlage heute lebenswichtiges Trinkwasser für die Husab- und Rössing-Mine sowie in Krisenzeiten auch für die Gemeinden Swakopmund und Walvis Bay. Die Anlage nutzt das energieintensive Verfahren der Umkehrosmose, bei dem das eiskalte, plangtonreiche Meerwasser unter immensem Druck durch feine Membranen gepresst wird, um das Salz zu filtern. Technik K8 — Umkehrosmose und Wassersicherheit.",
+      "factsAdvanced": [
+        "Die Anlage wurde 2010 fertiggestellt und kostete den Betreiber etwa 200 Millionen US-Dollar.",
+        "Sie nutzt das Prinzip der Umkehrosmose (Reverse Osmosis) zur Entsalzung.",
+        "Die maximale Produktionskapazität liegt bei 20 Millionen Kubikmetern Frischwasser pro Jahr.",
+        "Die Anlage saugt das Meerwasser durch ein 1,2 Kilometer langes Rohrleitungssystem aus dem Atlantik an.",
+        "NamWater kauft derzeit überschüssiges Wasser der Anlage, um die Küstenstädte zu versorgen.",
+        "Ein massives Vorfiltrationssystem reinigt das oft durch Schwefelausbrüche belastete Wasser vor."
+      ]
+    },
+    {
+      "id": "meatco-fleischfabrik-economic-v2",
+      "descriptionAdvanced": "Die Meat Corporation of Namibia (Meatco) mit ihrem Hauptschlachthof im Windhoeker Industriegebiet Northern Industrial Area ist der größte Fleischverarbeiter des Landes und eine Säule der namibischen Agrarwirtschaft. Das Staatsunternehmen wurde gegründet, um die erstklassige, freilaufende namibische Rinderpopulation (vor allem in Form von 'Namibian Nature-Beef') weltweit zu vermarkten. Die Fleischfabrik arbeitet nach den extrem strengen Hygiene- und Gesundheitsstandards der Europäischen Union, was es Namibia als einem der wenigen afrikanischen Länder ermöglicht, wertvolles, hormonfreies Rindfleisch direkt nach Europa, Skandinavien, Asien und sogar in die USA zu exportieren. Landwirtschaft K8 — Lebensmittelstandards und Exportmärkte.",
+      "factsAdvanced": [
+        "Meatco wurde 1986 unter dem Namen SWAVLEIS gegründet und später umstrukturiert.",
+        "Der Schlachthof in Windhoek hat die Kapazität, täglich bis zu 600 Rinder zu verarbeiten.",
+        "Namibia exportiert als erstes Land in Afrika seit 2020 frisches Rindfleisch in die USA.",
+        "Meatco's 'Nature-Beef' garantiert, dass die Rinder ohne Hormone oder Antibiotika aufgewachsen sind.",
+        "Das System 'FAN Meat' (Farm Assured Namibian Meat) garantiert die lückenlose Rückverfolgbarkeit.",
+        "Norwegen ist einer der größten und lukrativsten europäischen Abnehmer für Meatco-Produkte."
+      ]
+    },
+    {
+      "id": "namibia-brauereien-economic-v2",
+      "descriptionAdvanced": "Die Namibia Breweries Limited (NBL) in Windhoek ist eine der größten und profitabelsten Industrien Namibias und weltweit bekannt für das berühmte Windhoek Lager. Gegründet 1920 von Carl List und Hermann Ohlthaver, hat sich die Brauerei einen hervorragenden internationalen Ruf aufgebaut, da sie extrem strikt nach dem deutschen Reinheitsgebot von 1516 braut. Das bedeutet, dass ausschließlich gemälzte Gerste, Hopfen und Wasser (und Hefe) verwendet werden, ohne den in vielen Ländern üblichen Zusatz von Mais, Reis oder Konservierungsstoffen. Die NBL ist heute eine massive Exportkraft und dominiert den Biermarkt nicht nur in Namibia, sondern gewinnt auch in Südafrika und Europa stark an Boden. Wirtschaft K6 — Lebensmittelindustrie und Reinheitsgebot.",
+      "factsAdvanced": [
+        "Die Brauerei wurde im Jahr 1920 als 'South West Breweries Limited' gegründet.",
+        "Alle Premium-Biere der NBL werden strikt nach dem deutschen Reinheitsgebot von 1516 gebraut.",
+        "Das bekannteste Export-Produkt ist 'Windhoek Lager', gefolgt von 'Tafel Lager'.",
+        "Die NBL nutzt im Produktionsprozess eine eigene Dach-Solaranlage und ein Biomasse-Kesselhaus.",
+        "2023 wurde NBL von der großen Heineken-Gruppe (Südafrika) mehrheitlich übernommen.",
+        "Die Brauerei ist einer der größten Arbeitgeber im nicht-staatlichen Sektor von Windhoek."
+      ]
+    },
+    {
+      "id": "ebh-namibia-economic-v2",
+      "descriptionAdvanced": "Die Elgin Brown & Hamer (EBH) Namibia, ansässig im Hafen von Walvis Bay, ist die größte Schiffbau- und Schiffsreparaturwerft an der Westküste Afrikas zwischen Kapstadt und Dakar. Die Werft profitiert maßgeblich vom florierenden maritimen Verkehr im Atlantik und der lukrativen Offshore-Öl- und Gasindustrie Westafrikas (insbesondere in Angola und Nigeria). Mit der Inbetriebnahme des riesigen schwimmenden Schwimmdocks 'Namdock 3' kann EBH massive Bohrschiffe und Offshore-Versorger aus dem Wasser heben und warten. Dieses Unternehmen bringt entscheidende High-Tech-Ingenieurskompetenz ins Land und festigt Walvis Bays Ruf als Hub für die maritime Industrie. Technik K7 — Schiffbau und maritime Logistik.",
+      "factsAdvanced": [
+        "EBH Namibia betreibt im Hafen von Walvis Bay drei massive schwimmende Trockendocks.",
+        "Das größte Dock (Namdock 3) hat eine beeindruckende Hebekapazität von 15.000 Tonnen.",
+        "Die Werft bedient primär riesige Offshore-Bohrinseln und Versorgungsschiffe aus Westafrika.",
+        "Das Unternehmen wurde 2006 als Joint Venture mit der südafrikanischen EBH-Gruppe gegründet.",
+        "Auf der Werft arbeiten rund um die Uhr Hunderte von spezialisierten Schweißern und Schiffbauingenieuren.",
+        "Trotz harter globaler Konkurrenz wickelt die Werft jährlich über 100 große Schiffsreparaturen ab."
+      ]
+    },
+    {
+      "id": "namdia-diamantenhandel-economic-v2",
+      "descriptionAdvanced": "NAMDIA (Namib Desert Diamonds) ist ein hundertprozentiges Staatsunternehmen mit Sitz in Windhoek, das 2016 mit einem klaren Mandat gegründet wurde: Die Erforschung und Eroberung neuer, globaler Märkte für namibische Rohdiamanten. Historisch gesehen wurde die Preisgestaltung und der Verkauf fast aller Diamanten im Land über das Namdeb-Monopol durch De Beers kontrolliert. NAMDIA hat das Recht, 15 % der Gesamtproduktion von Namdeb aufzukaufen und diese eigenständig und ohne Zwischenhändler an internationale Juweliere in Antwerpen, Dubai oder Indien zu verkaufen. Dieses Unternehmen ist der Versuch Namibias, maximale Wertschöpfung und echte Preistransparenz aus seinem kostbarsten Bodenschatz zu generieren. Wirtschaft K8 — Globale Rohstoffmärkte und Preisbildung.",
+      "factsAdvanced": [
+        "NAMDIA wurde im August 2016 durch die namibische Regierung offiziell gegründet.",
+        "Das Unternehmen hat das Recht, exakt 15% der namibischen Roherd-Diamantenproduktion zu vermarkten.",
+        "Das primäre Ziel ist es, den wahren Marktwert namibischer Diamanten auf dem Weltmarkt zu evaluieren.",
+        "Namibische Diamanten (meist alluvial aus dem Meer) erzielen weltweit die höchsten Durchschnittspreise pro Karat.",
+        "NAMDIA verkauft die Diamanten über sichere, private Auktionen an ausgewählte internationale Käufer.",
+        "Das hochsichere Hauptquartier des Unternehmens befindet sich im Zentrum von Windhoek."
+      ]
+    },
+    {
+      "id": "dundee-precious-metals-tsumeb-economic-v2",
+      "descriptionAdvanced": "Die Kupferschmelzhütte von Dundee Precious Metals in Tsumeb ist eine der komplexesten und technologisch fortschrittlichsten Schmelzanlagen für Basismetalle weltweit. Das 1962 erbaute Werk wurde ursprünglich errichtet, um das Kupfer der lokalen Tsumeb-Mine zu schmelzen. Heute gehört die Hütte einem kanadischen Bergbauunternehmen und ist berühmt für ihre seltene Fähigkeit, extrem komplexe, arsenhaltige Kupferkonzentrate zu verarbeiten, die weltweit nur in wenigen Anlagen behandelt werden können (sogenanntes 'Toll Smelting'). Das Konzentrat wird aus Ländern wie Bulgarien oder Chile per Schiff nach Walvis Bay importiert, in Tsumeb geschmolzen und das reine Blisterkupfer anschließend in Europa weiter veredelt. Chemie K8 — Metallurgie und toxische Trennverfahren.",
+      "factsAdvanced": [
+        "Die große Kupferschmelze in Tsumeb wurde ursprünglich 1962 von der TCL erbaut.",
+        "Das kanadische Unternehmen Dundee Precious Metals übernahm die Hütte im Jahr 2010.",
+        "Die Anlage ist auf die Verhüttung von extrem arsenreichen Kupferkonzentraten spezialisiert.",
+        "Das anfallende toxische Arsen wird in einer hochmodernen Anlage in unschädliches Arsentrioxidpulver umgewandelt.",
+        "Um die massiven Schwefeldioxidemissionen zu binden, wurde eine 2 Milliarden N$ teure Schwefelsäurefabrik errichtet.",
+        "Die in Tsumeb produzierte Schwefelsäure wird an die nahen Rössing- und Tschudi-Minen verkauft."
+      ]
+    },
+    {
+      "id": "kolmanskuppe-history-v2",
+      "descriptionAdvanced": "Kolmanskuppe ist wohl die berühmteste Geisterstadt Afrikas und liegt mitten im Sand der Namib-Wüste, nur wenige Kilometer von Lüderitz entfernt. Die Geschichte des Ortes begann 1908, als der Bahnarbeiter Zacharias Lewala beim Sandschaufeln glitzernde Diamanten fand und sie seinem Vorgesetzten August Stauch zeigte. Dies löste einen beispiellosen Diamantenrausch aus, und innerhalb weniger Jahre entstand aus dem Nichts eine extrem reiche deutsche Siedlung. Die Bewohner leisteten sich in der Wüste absoluten Luxus: ein Krankenhaus mit dem ersten Röntgengerät im südlichen Afrika, eine Eisfabrik, ein Kasino und eine Kegelbahn. Nach dem Ersten Weltkrieg verlor die Siedlung an Bedeutung und wurde 1956 endgültig dem Wüstensand überlassen, der sich heute pittoresk durch Türen und Fenster in die prunkvollen Villen drängt. Geschichte K7 — Der Diamantenrausch und verlassene Städte.",
+      "factsAdvanced": [
+        "Der erste Diamant wurde hier im April 1908 von Zacharias Lewala gefunden.",
+        "Auf dem Höhepunkt lebten rund 300 Erwachsene und 40 Kinder in extremem Luxus in der Siedlung.",
+        "Das Krankenhaus von Kolmanskuppe besaß das erste Röntgengerät der gesamten südlichen Hemisphäre.",
+        "Im Jahr 1912 produzierte die Region eine Million Karat (11,7% der Weltproduktion).",
+        "Die Stadt verfügte über eine Salzwasser-Badeanstalt und eine limonadenproduzierende Eisfabrik.",
+        "1956 wurde Kolmanskuppe offiziell verlassen und ist heute eine museale Touristenattraktion."
+      ]
+    },
+    {
+      "id": "twyfelfontein-history-v2",
+      "descriptionAdvanced": "Twyfelfontein, tief im trockenen und felsigen Damaraland gelegen, ist eine der spektakulärsten archäologischen Stätten des afrikanischen Kontinents. Das Tal, das von den lokalen Damara ursprünglich '/Ui-//aes' (hüpfendes Wasserloch) genannt wurde, beherbergt mit über 2.500 identifizierten Felsgravuren (Petroglyphen) eine der größten Konzentrationen steinzeitlicher Kunst in Afrika. Diese prähistorischen Kunstwerke, die von Jäger-Sammler-Gemeinschaften in den rostroten Sandstein geritzt wurden, sind zum Teil über 2.000 Jahre alt. Sie zeigen detaillierte Darstellungen von Nashörnern, Elefanten, Giraffen und menschlichen Fußspuren und dienten wahrscheinlich schamanistischen Ritualen und der Kartierung von Wasserquellen in dieser unerbittlichen Wüstenlandschaft. Geschichte K6 — Prähistorische Kunst und Schamanismus.",
+      "factsAdvanced": [
+        "Twyfelfontein wurde 2007 als erstes namibisches Kulturdenkmal zum UNESCO-Weltkulturerbe erklärt.",
+        "Die Stätte enthält über 2.500 registrierte Felsgravuren auf 212 Sandsteinplatten.",
+        "Die meisten Gravuren sind zwischen 2.000 und 6.000 Jahre alt.",
+        "Die bekannteste und detaillierteste Gravur ist die des 'Löwenmenschen', die Schamanismus symbolisiert.",
+        "Der Name Twyfelfontein ist Afrikaans und bedeutet 'zweifelhafte Quelle'.",
+        "Die Kunstwerke wurden nicht gemalt, sondern mit harten Quarzsteinen tief in den Fels geritzt."
+      ]
+    },
+    {
+      "id": "christuskirche-history-v2",
+      "descriptionAdvanced": "Die Christuskirche ist das unbestrittene Wahrzeichen von Windhoek und dominiert mit ihrer markanten Architektur auf einem Hügel im Zentrum der Hauptstadt. Entworfen von dem Regierungsbaumeister Gottlieb Redecker, wurde die lutherische Kirche im Jahr 1910 nach dem Ende des Herero- und Nama-Aufstands als Friedenskirche ('Friedenskirche') eingeweiht. Architektonisch ist sie eine ungewöhnliche, aber harmonische Mischung aus neoromanischen und Jugendstilelementen, erbaut aus lokalem gelben Sandstein. Bemerkenswert sind die bunten Bleiglasfenster im Altarraum, die vom deutschen Kaiser Wilhelm II. gestiftet wurden, sowie die aus Deutschland importierten Glocken. Sie ist ein monumentales Zeugnis der deutschen Kolonialarchitektur. Architektur K8 — Kolonialbauten und Friedensdenkmäler.",
+      "factsAdvanced": [
+        "Der Grundstein der Christuskirche wurde am 11. August 1907 gelegt.",
+        "Die offizielle Einweihung der Kirche fand am 16. Oktober 1910 statt.",
+        "Der markante Kirchturm ragt 24 Meter hoch über den Kirchenplatz in Windhoek.",
+        "Die Kirche wurde aus Quarzsandstein erbaut, der von einer nahegelegenen Farm am Avis-Damm stammte.",
+        "Kaiser Wilhelm II. spendete persönlich die farbigen Bleiglasfenster im Altarraum.",
+        "Die originalen Kirchenglocken wurden in der berühmten Gießerei Franz Schilling in Apolda gegossen."
+      ]
+    },
+    {
+      "id": "alte-feste-history-v2",
+      "descriptionAdvanced": "Die Alte Feste in Windhoek ist das älteste erhaltene Gebäude der Hauptstadt und das historische Epizentrum der deutschen Kolonialisierung in Zentralnamibia. Sie wurde 1890 auf Befehl von Hauptmann Curt von François von der Schutztruppe als Militärfestung erbaut, um den Frieden zwischen den zerstrittenen Herero- und Nama-Völkern in der Region zu erzwingen und die neu gegründete Siedlung Windhoek abzusichern. Der Bau markiert faktisch die offizielle Gründung des heutigen Windhoek. Nach ihrer militärischen Nutzung diente sie unter anderem als Schule und Hostel. Das Gebäude mit seinen dicken weißen Mauern fungiert als historisches Museum, wenngleich derzeit größere Renovierungsarbeiten stattfinden. Geschichte K8 — Festungsbau und Kolonialverwaltung.",
+      "factsAdvanced": [
+        "Der Grundstein für die Alte Feste wurde am 18. Oktober 1890 gelegt.",
+        "Das Gebäude gilt als das älteste noch stehende Bauwerk in der Stadt Windhoek.",
+        "Ursprünglich war die Festung als massives Viereck mit einem Innenhof von 31 mal 32 Metern geplant.",
+        "Im Hof der Feste stand lange Zeit das berühmte Reiterdenkmal, bevor es 2013 verlegt wurde.",
+        "Ab 1962 wurde die Feste zum Hauptsitz des namibischen Nationalmuseums.",
+        "Nach dem Ersten Weltkrieg nutzte die südafrikanische Verwaltung die Festung als Wohnheim für Schüler."
+      ]
+    },
+    {
+      "id": "heldenacker-history-v2",
+      "descriptionAdvanced": "Der Heldenacker (Heroes' Acre) ist ein gewaltiges nationales Kriegsdenkmal, das imposant an den Hängen der Auas-Berge, etwa zehn Kilometer südlich des Stadtzentrums von Windhoek, thront. Das Monument wurde 2002 vom ersten namibischen Präsidenten, Sam Nujoma, eingeweiht und dient als offizielle Gedenk- und Begräbnisstätte für die namibischen Freiheitskämpfer und Helden des langen Unabhängigkeitskampfes gegen die südafrikanische Besatzung. Die architektonische Gestaltung ist stark an die Ästhetik nordkoreanischer Monumente angelehnt und wurde von der nordkoreanischen Baufirma Mansudae Overseas Projects durchgeführt. Eine markante Bronzestatue eines namibischen Freiheitskämpfers mit einer Kalaschnikow überragt das weitläufige Gelände. Gesellschaft K7 — Unabhängigkeitsdenkmäler und Nationalstolz.",
+      "factsAdvanced": [
+        "Das gewaltige Monument wurde am 26. August 2002 offiziell eingeweiht.",
+        "Die Baukosten beliefen sich auf etwa 60 Millionen Namibia-Dollar.",
+        "Der weiße Obelisk, der das Zentrum der Anlage bildet, ist stolze 34 Meter hoch.",
+        "Die Anlage bietet 174 offizielle Grabstätten für die nationalen Helden Namibias.",
+        "Die imposante Bronzestatue am oberen Ende der Treppe ist acht Meter hoch und acht Tonnen schwer.",
+        "Entworfen und erbaut wurde das gesamte Denkmal vom nordkoreanischen Studio Mansudae Overseas Projects."
+      ]
+    },
+    {
+      "id": "haifischinsel-history-v2",
+      "descriptionAdvanced": "Die Haifischinsel ist eine karge Felsenhalbinsel in der Lüderitzbucht und der Ort eines der dunkelsten und tragischsten Kapitel der namibischen Geschichte. Zwischen 1905 und 1907 richtete die deutsche Kolonialmacht auf der ungeschützten Insel ein Konzentrationslager für Nama- und Herero-Kriegsgefangene ein. Die Gefangenen waren extremen Wetterbedingungen ausgesetzt: eiskalte Winde, Feuchtigkeit und schlechte sanitäre Verhältnisse führten zu massenhaftem Sterben durch Skorbut, Typhus und Lungenentzündung. Historikern zufolge kamen auf der kleinen Insel bis zu 3.000 Menschen ums Leben. Heute wird die Halbinsel profan als Campingplatz genutzt, doch mehrere Gedenksteine mahnen und erinnern an das furchtbare Leid der indigenen Völker an diesem Ort. Geschichte K8 — Konzentrationslager und Völkermord.",
+      "factsAdvanced": [
+        "Das Konzentrationslager auf der Haifischinsel war von 1905 bis Mitte 1907 in Betrieb.",
+        "Schätzungen zufolge starben auf der Insel zwischen 1.000 und 3.000 Herero und Nama.",
+        "Der Nama-Kaptein Cornelius Frederiks starb im Februar 1907 in Gefangenschaft auf der Insel.",
+        "Die Insel war ursprünglich durch eine Sandbank vom Festland getrennt, ist heute aber fest verbunden.",
+        "Die unmenschlichen Bedingungen auf der Insel wurden damals sogar von lokalen Missionaren scharf kritisiert.",
+        "Heute befindet sich auf der geschichtsträchtigen Insel ein beliebter Campingplatz von NWR."
+      ]
+    },
+    {
+      "id": "felsenkirche-history-v2",
+      "descriptionAdvanced": "Die Felsenkirche ist eine malerische evangelisch-lutherische Kirche in der windigen Küstenstadt Lüderitz. Ihren Namen ('Kirche auf dem Felsen') verdankt sie der Tatsache, dass sie massiv in das harte Gestein des Diamantenberges, hoch über der Stadt und dem Ozean, hineingebaut wurde. Finanziert wurde das prachtvolle Bauwerk maßgeblich von den reichen Diamantenbaronen, die im Zuge des Kolmanskuppe-Diamantenrausches enormen Wohlstand erlangt hatten. Im Jahr 1912 eingeweiht, ist sie ein Musterbeispiel für den vertikal ausgerichteten englischen Gotik-Stil, der mit typischen deutschen Elementen kombiniert wurde. Ein besonderes Highlight ist das Altarfenster, das eine Spende von Kaiser Wilhelm II. war. Architektur K7 — Gotische Sakralbauten am Meer.",
+      "factsAdvanced": [
+        "Der Bau der Felsenkirche wurde 1911 begonnen und am 4. August 1912 eingeweiht.",
+        "Der renommierte Architekt Albert Bause entwarf das Gebäude im neugotischen Stil.",
+        "Kaiser Wilhelm II. spendete das große, kunstvolle Altarfenster aus Bleiglas.",
+        "Das Gebäude ruht fest auf dem soliden Granitgestein des Diamantenberges.",
+        "Die Kirche ist eines der ältesten lutherischen Kirchengebäude in Südnamibia.",
+        "Aufgrund der steilen Treppen ist der Zugang zur Kirche auf dem Hügel anstrengend, bietet aber Panoramablicke."
+      ]
+    },
+    {
+      "id": "schloss-duwisib-history-v2",
+      "descriptionAdvanced": "Schloss Duwisib ist ein bizarres und faszinierendes Relikt der Kolonialgeschichte, das völlig unerwartet wie eine Fata Morgana aus der extrem kargen Halbwüstenlandschaft südwestlich von Maltahöhe aufragt. Die festungsartige Burg wurde 1909 von dem sächsischen Artillerie-Offizier Freiherr Hansheinrich von Wolf und seiner wohlhabenden amerikanischen Ehefrau Jayta Humphreys in Auftrag gegeben. Inspiriert von mittelalterlichen Burgen in Europa, importierten sie sämtliche Baumaterialien, von Schmiedeeisen bis hin zu kunstvollen Möbeln, über den Hafen Lüderitz und ließen diese per Ochsenkarren wochenlang in die Wüste transportieren. Das Märchenschloss sollte das Zentrum eines riesigen Gestüts werden, bevor der Erste Weltkrieg die Träume des Barons abrupt beendete, da er an der Westfront in Frankreich fiel. Architektur K8 — Adelsschlösser in Afrika.",
+      "factsAdvanced": [
+        "Das Schloss wurde 1909 nach den Plänen des Berliner Architekten Wilhelm Sander fertiggestellt.",
+        "Das Gebäude verfügt über 22 aufwändig dekorierte Räume im Inneren.",
+        "Alle Baumaterialien (außer Stein und Sand) wurden per Schiff aus Deutschland und den USA importiert.",
+        "Freiherr von Wolf kaufte eine massive Farm von 140.000 Hektar Land, um Vollblutpferde zu züchten.",
+        "Der Freiherr fiel 1916 während des Ersten Weltkriegs in der Schlacht an der Somme.",
+        "Heute gehört das Schloss dem namibischen Staat und ist als Museum für Besucher geöffnet."
+      ]
+    },
+    {
+      "id": "weisse-dame-history-v2",
+      "descriptionAdvanced": "Die 'Weiße Dame' (White Lady) ist die berühmteste, wenn auch umstrittenste prähistorische Felsmalerei in Namibia. Sie befindet sich in einer überhängenden Felsgrotte in der Maack-Höhle, eingebettet im Tsisab-Schluchtmassiv des gigantischen Brandberges. Entdeckt wurde das faszinierende Gemälde 1918 vom deutschen Landmesser Reinhard Maack. Den Namen 'Weiße Dame' prägte der französische Prähistoriker Henri Breuil, der fälschlicherweise glaubte, in der weißen Gestalt eine Person mediterranen Ursprungs zu erkennen. Die moderne Archäologie ist sich heute jedoch sicher, dass das 2.000 Jahre alte Gemälde einen Medizinmann (Schamanen) des San-Volkes darstellt, dessen Körper im Rahmen eines Heilungsrituals mit weißem Lehm bemalt war. Kunstgeschichte K7 — Schamanische Rituale und prähistorische Irrtümer.",
+      "factsAdvanced": [
+        "Die Felsmalerei wurde am 4. Januar 1918 von Reinhard Maack zufällig entdeckt.",
+        "Das gesamte Fresko in der Maack-Höhle zeigt etwa 50 detaillierte Figuren und Tiere.",
+        "Das Alter des Kunstwerks wird von Forschern auf etwa 2.000 Jahre geschätzt.",
+        "Der Abbe Henri Breuil publizierte 1955 die umstrittene These vom mediterranen Ursprung der Figur.",
+        "Die weiße Farbe der zentralen Figur entstand aus einer Mischung von Ton und tierischem Fett.",
+        "Die Maack-Höhle befindet sich in der Tsisab-Schlucht am höchsten Berg Namibias, dem Brandberg."
+      ]
+    },
+    {
+      "id": "hoba-meteorit-history-v2",
+      "descriptionAdvanced": "Der Hoba-Meteorit liegt unauffällig auf einer Farm westlich von Grootfontein und ist ein natürliches Phänomen von globaler Bedeutung. Er ist nicht nur der größte bekannte Meteorit, der jemals auf der Erde gefunden wurde, sondern gleichzeitig das massivste natürliche Stück Eisen auf der Oberfläche unseres Planeten. Der Hoba-Meteorit ist ein Ataxit, der aus über 80% Eisen und bemerkenswerten 16% Nickel besteht. Vor etwa 80.000 Jahren auf die Erde gestürzt, hinterließ er merkwürdigerweise keinen Krater, was Wissenschaftler bis heute vor Rätsel stellt; eine Theorie besagt, dass er aufgrund seiner flachen Form ähnlich wie ein flacher Stein auf einer Wasseroberfläche durch die Erdatmosphäre gebremst wurde. Entdeckt wurde er 1920 zufällig von einem Farmer, der beim Pflügen auf das harte Metall stieß. Physik K7 — Extraterrestrisches Gestein und Atmosphärenbremsung.",
+      "factsAdvanced": [
+        "Der Hoba-Meteorit hat ein geschätztes immenses Gewicht von 60 Tonnen.",
+        "Er wurde 1920 von dem Farmer Jacobus Hermanus Brits beim Pflügen entdeckt.",
+        "Der Meteorit ist blockförmig und misst etwa 2,7 mal 2,7 Meter in der Breite und 0,9 Meter in der Höhe.",
+        "Er fiel vor schätzungsweise 80.000 Jahren aus dem All auf das heutige namibische Staatsgebiet.",
+        "Der Eisenmeteorit hat einen extrem hohen Nickelgehalt von etwa 16,4 Prozent.",
+        "Um den Meteoriten vor Vandalismus zu schützen, wurde er 1955 zum nationalen Denkmal erklärt."
+      ]
+    },
+    {
+      "id": "franketurm-history-v2",
+      "descriptionAdvanced": "Der Franketurm ist ein historisches Verteidigungs- und Gedenkbauwerk in der malerischen Stadt Omaruru. Der wuchtige Wehrturm wurde 1908 von der deutschen Gemeinschaft errichtet und erinnert an Hauptmann Victor Franke. Franke führte Anfang 1904, während des grausamen Herero-Aufstands, eine Truppe an, die in Gewaltmärschen von Süden kam, um die belagerte deutsche Garnison in Omaruru nach heftigen Kämpfen zu entsetzen. Der Turm, entworfen in Form eines zinnenbewehrten runden Festungsturms, wurde aus lokalem Stein erbaut und diente viele Jahre lang als starkes Symbol der deutschen kolonialen Militärüberlegenheit in Südwestafrika. Heute kann man ihn besteigen und einen weiten Blick über die Stadt und den Omaruru-Fluss genießen. Geschichte K8 — Denkmäler des Hererokrieges.",
+      "factsAdvanced": [
+        "Der Franketurm wurde am 4. Februar 1908 in Omaruru offiziell eingeweiht.",
+        "Der Wehrturm erinnert an die Befreiung Omarurus durch Hauptmann Victor Franke am 17. Januar 1904.",
+        "Das Bauwerk ist ein runder Steinturm mit einem markanten Zinnenkranz auf dem Dach.",
+        "Er wurde 1964 von der südafrikanischen Verwaltung zum Nationalen Denkmal erklärt.",
+        "Am Fuß des Turmes erinnern Gedenktafeln an die Gefallenen der deutschen Schutztruppe.",
+        "Omaruru wurde fast vier Wochen lang von Kriegern des Herero-Chiefs Wilhelm Zeraua belagert."
+      ]
+    },
+    {
+      "id": "fort-namutoni-history-v2",
+      "descriptionAdvanced": "Fort Namutoni im Osten des heutigen Etosha-Nationalparks ist ein strahlend weißes Kolonialfort, das aufgrund seiner Bauweise oft wie eine Filmkulisse aus der nordafrikanischen Fremdenlegion wirkt. Ursprünglich 1896 als einfache Grenzstation zur Bekämpfung der Rinderpest errichtet, wurde die Lehmbefestigung beim legendären Angriff durch hunderte Owambo-Krieger unter der Führung von Chief Nehale lya Mpingana im Jahr 1904 vollständig zerstört. Das Fort wurde daraufhin 1906 als weitaus massivere, viereckige Festung mit quadratischen Wehrtürmen in seiner heutigen Form wieder aufgebaut. Nach dem Ende der deutschen Kolonialzeit diente es als Polizeistation und wurde schließlich in eines der beliebtesten Touristencamps des Etosha-Nationalparks umgewandelt. Geschichte K7 — Koloniale Grenzfestungen.",
+      "factsAdvanced": [
+        "Das erste kleine Lehmfort wurde 1896 als Kontrollposten für die Rinderpest errichtet.",
+        "Am 28. Januar 1904 wurde das Fort von etwa 500 Owambo-Kriegern erstürmt und völlig zerstört.",
+        "Das heutige, beeindruckende weiße Kalksteingebäude wurde zwischen 1906 und 1907 erbaut.",
+        "Die Festung diente der Schutztruppe als Basis für Expeditionen ins nördliche Owamboland.",
+        "Nach 1915 wurde das Fort von der südafrikanischen Mandatsmacht teilweise dem Verfall preisgegeben.",
+        "Im Jahr 1950 erklärte die Historische Denkmalskommission das Fort zum nationalen Denkmal."
+      ]
+    }
+  ]
+}

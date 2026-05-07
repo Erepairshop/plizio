@@ -1,0 +1,399 @@
+{
+  "lang": "de",
+  "country": "colombia",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amazon-river-colombia-nature-v2",
+      "descriptionAdvanced": "Der Amazonas, der wasserreichste Fluss der Erde, bildet im äußersten Süden Kolumbiens eine lebenswichtige Grenze und Lebensader. Auf einer Strecke von etwa 117 Kilometern fließt er durch kolumbianisches Territorium und verbindet die Stadt Leticia mit dem globalen Ökosystem des Amazonasbeckens. Der Fluss ist hier mehrere Kilometer breit und beherbergt eine unglaubliche Artenvielfalt, darunter die berühmten rosaroten Flussdelphine (Boto) und riesige Victoria-Amazonica-Seerosen. Für die indigenen Völker der Region ist der Fluss heilig und stellt die primäre Transportroute sowie Nahrungsquelle dar. Das kolumbianische Amazonasgebiet bietet Reisenden die seltene Chance, die ungebändigte Kraft dieses Naturwunders in einer der am besten erhaltenen Regenwaldregionen der Welt zu erleben.",
+      "factsAdvanced": [
+        "Wasserreichster Fluss der Welt.",
+        "Kolumbianischer Anteil beträgt ca. 117 Kilometer.",
+        "Heimat der rosaroten Amazonas-Flussdelphine.",
+        "Einzige Verbindungsweg für die Stadt Leticia zur Außenwelt per Schiff.",
+        "Beherbergt über 3.000 bekannte Fischarten.",
+        "Die Victoria-Amazonica-Seerosen erreichen einen Durchmesser von bis zu 3 Metern.",
+        "Wichtigster Faktor für das globale Klima und die Biodiversität."
+      ]
+    },
+    {
+      "id": "orinoco-river-colombia-nature-v2",
+      "descriptionAdvanced": "Der Orinoco ist einer der längsten und bedeutendsten Flüsse Südamerikas und markiert den größten Teil der Grenze zwischen Kolumbien und Venezuela. Er durchfließt die weiten Savannen der Llanos und ist bekannt für seine gewaltigen Wassermassen und die spektakulären Stromschnellen von Maipures und Atures, die schon Alexander von Humboldt faszinierten. Der Fluss ist ein ökologisches Paradies, in dem das seltene Orinoco-Krokodil, Flussdelphine und eine enorme Vielfalt an Wasservögeln beheimatet sind. In Kolumbien spielt der Orinoco eine zentrale Rolle für die Fischerei und den Transport in den abgelegenen östlichen Departements wie Vichada. Seine weiten Ufer und die unendlichen Horizonte der Orinoquía machen ihn zu einem Symbol für die unberührte Wildnis und die Freiheit der kolumbianischen Tiefebene.",
+      "factsAdvanced": [
+        "Einer der wasserreichsten Flüsse der Welt.",
+        "Bildet eine natürliche Grenze von ca. 600 km zu Venezuela.",
+        "Heimat des vom Aussterben bedrohten Orinoco-Krokodils.",
+        "Alexander von Humboldt bezeichnete die Stromschnellen als 'Weltwunder'.",
+        "Wichtigster Transportweg für den Osten Kolumbiens.",
+        "Besitzt ein riesiges Einzugsgebiet von fast einer Million Quadratkilometern.",
+        "Bekannt für den Fischreichtum, insbesondere den Pfauenbarsch."
+      ]
+    },
+    {
+      "id": "magdalena-river-nature-v2",
+      "descriptionAdvanced": "Der Río Magdalena ist das Herzstück Kolumbiens und der wichtigste Fluss der nationalen Geschichte und Wirtschaft. Er entspringt im Massiv Colombiano in den Anden und fließt über 1.500 Kilometer nach Norden, wo er bei Barranquilla in die Karibik mündet. Seit der Kolonialzeit war der Magdalena-Fluss die primäre Route für den Transport von Menschen, Waren und Ideen zwischen der Küste und dem Landesinneren. Er durchquert verschiedenste Klimazonen, von kühlen Andentälern bis hin zu tropischen Tiefebenen und Sumpfgebieten. Der Fluss ist tief in der kolumbianischen Kultur verwurzelt, besungen in unzähligen Liedern und Schauplatz in den Werken von Gabriel García Márquez. Trotz ökologischer Herausforderungen bleibt er die lebenswichtige Pulsader, die die kulturelle und wirtschaftliche Identität Kolumbiens miteinander verbindet.",
+      "factsAdvanced": [
+        "Längster Fluss Kolumbiens (ca. 1.528 km).",
+        "Entspringt in der Laguna de la Magdalena in 3.685 m Höhe.",
+        "Wichtigster Binnenwasserweg des Landes seit Jahrhunderten.",
+        "Durchfließt 22 der 32 Departements Kolumbiens.",
+        "Heimat von über 200 Fischarten, darunter der Bocachico.",
+        "Mündet im spektakulären 'Bocas de Ceniza' in das Karibische Meer.",
+        "Symbol für die nationale Einheit und die industrielle Entwicklung."
+      ]
+    },
+    {
+      "id": "cauca-river-nature-v2",
+      "descriptionAdvanced": "Der Río Cauca ist der zweitwichtigste Fluss Kolumbiens und der größte Nebenfluss des Río Magdalena. Er fließt zwischen der Zentral- und der Westkordillere der Anden und durchquert einige der fruchtbarsten und wirtschaftlich bedeutendsten Regionen des Landes, wie das Cauca-Tal und Antioquia. Der Fluss hat im Laufe der Jahrtausende tiefe Schluchten gegraben und weite Ebenen geschaffen, die heute Zentren der Landwirtschaft und Industrie sind. Der Cauca ist jedoch auch ein Fluss voller Kontraste, der sowohl für die Energieerzeugung (wie beim Großprojekt Hidroituango) als auch für die Goldgewinnung und den Kaffeeanbau genutzt wird. Seine Ufer sind Schauplatz einer reichen kulturellen Vielfalt, von den indigenen Gemeinschaften im Süden bis hin zu den ländlichen Traditionen des Nordens, und er bleibt ein entscheidender Faktor für die Energie- und Ernährungssicherheit Kolumbiens.",
+      "factsAdvanced": [
+        "Zweitgrößter Fluss Kolumbiens (ca. 1.350 km).",
+        "Wichtigster Nebenfluss des Río Magdalena.",
+        "Fließt durch das fruchtbare Valle del Cauca, ein Zentrum der Zuckerindustrie.",
+        "Standort des größten Wasserkraftwerks des Landes (Hidroituango).",
+        "Wichtig für den Bergbau, insbesondere die Goldgewinnung im Norden.",
+        "Durchquert einige der dramatischsten Gebirgsschluchten Kolumbiens.",
+        "Lebensader für Millionen von Menschen in sieben Departements."
+      ]
+    },
+    {
+      "id": "atrato-river-nature-v2",
+      "descriptionAdvanced": "Der Río Atrato ist einer der wasserreichsten Flüsse der Welt im Verhältnis zu seinem Einzugsgebiet und fließt durch das Departement Chocó, eine der regenreichsten Regionen der Erde. Er entspringt in den Anden und mündet nach über 750 Kilometern in den Golf von Urabá an der Karibikküste. Der Atrato ist die Hauptverkehrsader für die afrokolumbianischen und indigenen Gemeinschaften der Region und stellt oft die einzige Verbindung zur Außenwelt dar. Der Fluss durchquert dichten, unberührten Regenwald von unvergleichlicher Biodiversität. In einem historischen Urteil wurde der Río Atrato im Jahr 2016 als erstes Ökosystem Kolumbiens mit eigenen Rechten als 'Rechtssubjekt' anerkannt, um seinen Schutz gegen illegale Abholzung und Bergbau zu gewährleisten. Er ist somit nicht nur ein Naturwunder, sondern auch ein Symbol für modernen Umweltschutz.",
+      "factsAdvanced": [
+        "Wasserreichster Fluss Kolumbiens bezogen auf die Fläche seines Beckens.",
+        "Wichtigste Verkehrsader im Departement Chocó.",
+        "Mündet durch ein riesiges Delta in die Karibik.",
+        "Erstes Ökosystem Kolumbiens mit eigenen rechtlichen Schutzrechten.",
+        "Durchfließt eine der feuchtesten Regionen weltweit.",
+        "Beherbergt eine enorme Vielfalt an endemischen Pflanzen und Tieren.",
+        "Wirtschaftlich bedeutend für Fischerei und Holztransport."
+      ]
+    },
+    {
+      "id": "guaviare-river-nature-v2",
+      "descriptionAdvanced": "Der Río Guaviare markiert die geografische und ökologische Grenze zwischen den weiten Savannen der Llanos und dem dichten Amazonas-Regenwald. Entstanden durch den Zusammenfluss von Ariari und Guayabero, fließt er über 1.500 Kilometer nach Osten, bis er in den Orinoco mündet. Der Fluss ist eine Lebensader für die Region und ein wichtiger Transportweg für isolierte Gemeinschaften. Er durchquert Landschaften von wilder Schönheit, flankiert von Galeriewäldern und beeindruckenden geologischen Formationen wie den Felsen von San José del Guaviare. Das Wasser des Guaviare ist reich an Fischarten und bietet Lebensraum für Flussdelphine und Kaimane. Als Grenzfluss zwischen verschiedenen Ökosystemen ist er ein entscheidender Faktor für die biologische Vielfalt Kolumbiens und ein Symbol für den Übergang in die unberührte Wildnis des Südens.",
+      "factsAdvanced": [
+        "Längster Fluss im Osten Kolumbiens.",
+        "Natürliche Grenze zwischen den Llanos und dem Amazonasgebiet.",
+        "Mündet bei Puerto Carreño in den Orinoco.",
+        "Länge von ca. 1.500 km (einschließlich Quellflüssen).",
+        "Wichtiger Lebensraum für den rosaroten Flussdelphin.",
+        "Zentrum für Fischerei und Flusshandel im Departement Guaviare.",
+        "Umgeben von prähistorischen Felsformationen und Malereien."
+      ]
+    },
+    {
+      "id": "meta-river-nature-v2",
+      "descriptionAdvanced": "Der Río Meta ist der bedeutendste Fluss der kolumbianischen Llanos Orientales und ein wichtiger schiffbarer Wasserweg, der das Zentrum des Landes mit dem Orinoco-System verbindet. Er durchquert die weiten Ebenen der Departements Meta, Casanare und Vichada und prägt die Landschaft mit seinen ausgedehnten Überflutungsgebieten und Galeriewäldern. Der Fluss ist das Rückgrat der Viehzucht und Landwirtschaft in der Region und stellt eine historische Handelsroute dar. Die Tierwelt am Río Meta ist beeindruckend; von Wasserschweinen (Capybaras) über Anakondas bis hin zu einer riesigen Vielfalt an Wasservögeln findet man hier das Beste der Llanero-Fauna. Die weiten Horizonte, die sich am Ufer des Meta erstrecken, symbolisieren die Unendlichkeit und den Pioniergeist des kolumbianischen Ostens.",
+      "factsAdvanced": [
+        "Größter kolumbianischer Nebenfluss des Orinoco.",
+        "Über weite Strecken schiffbar, wichtig für den Handel.",
+        "Durchquert die Departements Meta, Casanare und Vichada.",
+        "Länge von ca. 804 Kilometern.",
+        "Wichtiges Ökosystem für Wasserschweine und Kaimane.",
+        "Bildet im Unterlauf die Grenze zu Venezuela.",
+        "Zentrum der Llanero-Kultur und Viehwirtschaft."
+      ]
+    },
+    {
+      "id": "putumayo-river-nature-v2",
+      "descriptionAdvanced": "Der Río Putumayo ist einer der mächtigsten Flüsse des Amazonasbeckens und bildet auf fast 1.500 Kilometern die natürliche Grenze Kolumbiens zu Ecuador und Peru. Er entspringt in den kühlen Höhen der Anden im Nariño-Massiv und fließt durch dichten, fast unberührten Regenwald nach Osten. Der Fluss ist eine lebenswichtige Verkehrsader für die indigenen Gemeinschaften des Südens und spielt eine zentrale Rolle für den grenzüberschreitenden Handel und die regionale Sicherheit. Die Region um den Putumayo ist bekannt für ihre außergewöhnliche Biodiversität und ihre reiche spirituelle Tradition, die eng mit dem Dschungel und seinen Heilpflanzen verbunden ist. Als Wasserstraße verbindet er die Andenregion direkt mit dem Herzen des Amazonas, was ihn zu einem strategischen und ökologischen Korridor von kontinentaler Bedeutung macht.",
+      "factsAdvanced": [
+        "Hauptgrenzfluss zwischen Kolumbien, Ecuador und Peru.",
+        "Ein großer Nebenfluss des Amazonas (mündet in Brasilien als Içá).",
+        "Länge von ca. 1.610 Kilometern.",
+        "Entspringt in den Anden in ca. 3.500 m Höhe.",
+        "Wichtigste Transportroute für das Departement Putumayo.",
+        "Umgeben von Regenwald mit höchster Artenvielfalt weltweit.",
+        "Zentrum für indigene Kulturen wie die Siona und Kofán."
+      ]
+    },
+    {
+      "id": "caqueta-river-nature-v2",
+      "descriptionAdvanced": "Der Río Caquetá, auch bekannt als Japurá in Brasilien, ist einer der wildesten und wasserreichsten Flüsse im kolumbianischen Amazonasgebiet. Er entspringt im Massiv Colombiano und stürzt sich über spektakuläre Stromschnellen wie den Araracuara-Canyon in den dichten Dschungel. Der Fluss durchquert einige der abgelegensten und am besten erhaltenen Wildnisgebiete Kolumbiens, darunter den Nationalpark Chiribiquete. Seine Ufer beherbergen eine unglaubliche Vielfalt an Flora und Fauna, darunter Jaguare, Riesenotter und unzählige Fischarten. Der Caquetá ist ein Fluss der Extreme, der durch seine Unzugänglichkeit und gewaltige Kraft beeindruckt. Für die indigenen Völker der Region ist er die 'Mutter aller Wasser' und ein heiliger Ort, der die ungebändigte Seele des Amazonas-Regenwaldes verkörpert.",
+      "factsAdvanced": [
+        "Einer der wasserreichsten Flüsse des Amazonasbeckens.",
+        "Bekannt für den beeindruckenden Araracuara-Canyon.",
+        "Durchfließt den Nationalpark Chiribiquete, ein UNESCO-Weltkulturerbe.",
+        "Länge in Kolumbien beträgt ca. 1.200 Kilometer.",
+        "Besitzt gewaltige Stromschnellen, die die Schifffahrt erschweren.",
+        "Heimat seltener Riesenotter und zahlreicher Fischarten.",
+        "Ein wichtiger ökologischer Korridor im Süden Kolumbiens."
+      ]
+    },
+    {
+      "id": "pico-cristobal-colon-nature-v2",
+      "descriptionAdvanced": "Der Pico Cristóbal Colón ist der höchste Berg Kolumbiens und einer der außergewöhnlichsten Gipfel der Welt. Er liegt in der Sierra Nevada de Santa Marta, dem höchsten Küstengebirge der Erde, das sich direkt aus dem Karibischen Meer erhebt. Obwohl der Gipfel nur etwa 42 Kilometer von der Küste entfernt ist, ist er dauerhaft mit Schnee und Gletschern bedeckt. Der Berg ist für die indigenen Gemeinschaften der Sierra (Kogi, Wiwa, Arhuaco und Kankuamo) heilig und gilt als das 'Herz der Welt'. Aufgrund seiner extremen Abgelegenheit und der religiösen Bedeutung ist der Zugang zum Gipfel streng reglementiert und schwierig. Der Pico Cristóbal Colón ist ein Symbol für die unglaubliche klimatische Vielfalt Kolumbiens, wo man am selben Tag tropische Strände und ewiges Eis erleben kann.",
+      "factsAdvanced": [
+        "Höchster Gipfel Kolumbiens (ca. 5.775 Meter).",
+        "Teil des höchsten Küstengebirges der Welt.",
+        "Heiliger Ort für die indigenen Völker der Sierra Nevada.",
+        "Nur ca. 42 Kilometer von der Karibikküste entfernt.",
+        "Besitzt permanente Gletscher trotz der tropischen Lage.",
+        "Zwillingsgipfel des Pico Simón Bolívar.",
+        "Gehört zum UNESCO-Biosphärenreservat."
+      ]
+    },
+    {
+      "id": "pico-simon-bolivar-nature-v2",
+      "descriptionAdvanced": "Der Pico Simón Bolívar ist der Zwillingsgipfel des Pico Cristóbal Colón in der Sierra Nevada de Santa Marta und gehört zu den höchsten Erhebungen Kolumbiens. Benannt nach dem Befreier Südamerikas, bildet dieser schneebedeckte Gipfel den majestätischen Abschluss des isolierten Küstengebirges. Wie sein Nachbar ist auch dieser Berg ein spirituelles Zentrum für die indigenen Bewohner der Sierra, die ihn als Wächter des ökologischen Gleichgewichts betrachten. Die klimatischen Bedingungen am Gipfel sind alpin, mit Gletschern, die einen faszinierenden Kontrast zur üppigen tropischen Vegetation am Fuße des Gebirges bilden. Der Pico Simón Bolívar ist ein Denkmal der Natur, das die gewaltigen Kräfte der Geologie und die reiche kulturelle Identität der kolumbianischen Karibikregion auf einzigartige Weise vereint.",
+      "factsAdvanced": [
+        "Zweithöchster Gipfel Kolumbiens (fast identisch mit Pico Colón).",
+        "Höhe von ca. 5.775 Metern.",
+        "Benannt nach dem Befreier Simón Bolívar.",
+        "Teil der Sierra Nevada de Santa Marta, dem höchsten Küstengebirge der Welt.",
+        "Permanente Schneekappe in unmittelbarer Nähe zum Meer.",
+        "Zentrum der spirituellen Weltanschauung der Kogi-Indigenen.",
+        "Wichtiges Wasserschloss für die gesamte Karibikregion."
+      ]
+    },
+    {
+      "id": "nevado-del-ruiz-nature-v2",
+      "descriptionAdvanced": "Der Nevado del Ruiz ist einer der bekanntesten und aktivsten Vulkane Kolumbiens und Teil des Nationalparks Los Nevados in der Zentralkordillere. Der von einer Eiskappe bedeckte Vulkan ist berühmt für seine dramatische Schönheit, aber auch für seine gefährliche Geschichte, insbesondere den verheerenden Ausbruch von 1985, der die Stadt Armero zerstörte. Trotz seiner Aktivität ist der Vulkan ein bedeutendes Ziel für Wissenschaftler und Abenteurer. Die umliegende Paramo-Landschaft mit ihren einzigartigen Frailejones-Pflanzen und kristallklaren Lagunen ist ein wichtiges Wassereinzugsgebiet für das Kaffeedreieck. Der Nevado del Ruiz ist ein kraftvolles Symbol für die geologische Dynamik der Anden und die Widerstandsfähigkeit der kolumbianischen Natur und Bevölkerung.",
+      "factsAdvanced": [
+        "Höhe von 5.321 Metern.",
+        "Aktivster Schichtvulkan Kolumbiens.",
+        "Teil des National-Naturparks Los Nevados.",
+        "Berühmt für den tragischen Ausbruch im Jahr 1985.",
+        "Besitzt eine schrumpfende, aber imposante Gletscherkappe.",
+        "Wichtige Quelle für geothermische Energie und Wasser.",
+        "Umgeben von der einzigartigen Flora des Paramo-Ökosystems."
+      ]
+    },
+    {
+      "id": "nevado-del-huila-nature-v2",
+      "descriptionAdvanced": "Der Nevado del Huila ist der höchste Vulkan Kolumbiens und die höchste Erhebung der Zentralkordillere. Dieser imposante Gebirgskomplex ist von der größten Gletscherfläche des Landes bedeckt und thront majestätisch über den Departements Huila, Tolima und Cauca. Der Vulkan liegt in einem abgelegenen Nationalpark, der eine der unberührtesten Paramo- und Bergwaldlandschaften Kolumbiens beherbergt. Für die indigenen Nasa-Gemeinschaften der Region ist der Berg ein heiliger Ort und ein Symbol für Stärke. Die Besteigung ist aufgrund der technischen Schwierigkeit und der abgelegenen Lage eine Herausforderung für erfahrene Bergsteiger. Der Nevado del Huila ist nicht nur ein Naturwunder von extremer Schönheit, sondern auch ein lebenswichtiges Wasserschloss, das zahlreiche Flüsse speist, die für die Landwirtschaft im Süden Kolumbiens entscheidend sind.",
+      "factsAdvanced": [
+        "Höchster aktiver Vulkan Kolumbiens (ca. 5.364 Meter).",
+        "Höchster Gipfel der Zentralkordillere.",
+        "Besitzt die größte zusammenhängende Gletscherfläche Kolumbiens.",
+        "Wichtiges spirituelles Zentrum für das Volk der Nasa.",
+        "Nationalpark seit 1977.",
+        "Quellgebiet wichtiger Flüsse wie des Río Paéz und Río Simbola.",
+        "Letzte größere Eruptionen fanden zwischen 2007 und 2008 statt."
+      ]
+    },
+    {
+      "id": "nevado-del-tolima-nature-v2",
+      "descriptionAdvanced": "Der Nevado del Tolima ist einer der ästhetisch ansprechendsten Gipfel Kolumbiens, bekannt für seine fast perfekte Kegelform, die oft mit dem Mount Fuji verglichen wird. Er liegt im Nationalpark Los Nevados und ist ein beliebtes Ziel für Bergsteiger, die die Herausforderung einer technisch anspruchsvollen Besteigung suchen. Der Weg zum Gipfel führt durch spektakuläre Landschaften, von Nebelwäldern bis hin zum hochalpinen Paramo, und bietet beeindruckende Ausblicke auf den benachbarten Nevado del Ruiz. Der Gletscher des Tolima speist zahlreiche Bäche, die das fruchtbare Combeima-Tal bewässern. Die Besteigung des Nevado del Tolima gilt als eine der lohnendsten Erfahrungen in den kolumbianischen Anden und verbindet physische Anstrengung mit der Entdeckung einzigartiger Ökosysteme.",
+      "factsAdvanced": [
+        "Höhe von 5.215 Metern.",
+        "Einer der aktivsten Vulkane in der Zentralkordillere.",
+        "Bekannt für seine markante, symmetrische Kegelform.",
+        "Beliebtester Gipfel für technisches Bergsteigen in Kolumbien.",
+        "Liegt im Departement Tolima nahe der Stadt Ibagué.",
+        "Wichtiges Reservoir für die Wasserversorgung der Region.",
+        "Besitzt eine Krateröffnung von etwa 180 Metern Durchmesser."
+      ]
+    },
+    {
+      "id": "ritacuba-blanco-nature-v2",
+      "descriptionAdvanced": "Der Ritacuba Blanco ist der höchste Gipfel der Sierra Nevada del Cocuy und die zweithöchste Erhebung der kolumbianischen Ostkordillere. Er ist Teil eines der spektakulärsten Hochgebirgslandschaften Südamerikas, die durch schroffe Felswände, tiefblaue Lagunen und ausgedehnte Gletscher geprägt ist. Der Ritacuba Blanco bietet eine der schönsten Eiswände des Landes und ist ein Magnet für Bergsteiger weltweit. Die Sierra Nevada del Cocuy ist zudem ein heiliges Gebiet für das indigene Volk der U'wa, die die Berge als Hüter der Welt betrachten. Aufgrund des Klimawandels ziehen sich die Gletscher auch hier zurück, was den Berg zu einem Mahnmal für den Umweltschutz macht. Die Besteigung bietet ein unvergleichliches Erlebnis von Stille und alpiner Erhabenheit in einer der wildesten Regionen Kolumbiens.",
+      "factsAdvanced": [
+        "Höchster Gipfel der Sierra Nevada del Cocuy (5.330 Meter).",
+        "Höchster Punkt des Departements Boyacá.",
+        "Besitzt eine der beeindruckendsten Gletscherwände Kolumbiens.",
+        "Heiliges Territorium der U'wa-Indigenen.",
+        "Beliebtes Ziel für Trekking und Alpinismus.",
+        "Der Name stammt aus der indigenen Sprache Tunebo.",
+        "Zentrum eines der größten Gletschergebiete in den tropischen Anden."
+      ]
+    },
+    {
+      "id": "purace-volcano-nature-v2",
+      "descriptionAdvanced": "Der Vulkan Puracé liegt im gleichnamigen Nationalpark im Departement Cauca und ist einer der aktivsten und zugänglichsten Vulkane Kolumbiens. Sein Name bedeutet in der indigenen Sprache der Coconuco 'Berg des Feuers'. Der Vulkan zeichnet sich durch einen perfekt geformten Krater aus, aus dem ständig Schwefeldämpfe aufsteigen, die die umliegenden Felsen gelb färben. Die Besteigung des Puracé ist ein faszinierendes Erlebnis, das durch eine einzigartige Paramo-Landschaft mit Frailejones und Thermalgewässern führt. Der Nationalpark ist zudem bekannt für seine Bemühungen zum Schutz des Andenkondors, der hier oft in freier Wildbahn beobachtet werden kann. Der Puracé ist nicht nur ein geologisches Wunder, sondern auch ein Ort von großer spiritueller Bedeutung für die lokalen indigenen Gemeinschaften.",
+      "factsAdvanced": [
+        "Höhe von 4.646 Metern.",
+        "Teil der Vulkankette 'Cadenas Volcánicas de los Coconucos'.",
+        "Einer der am einfachsten zu besteigenden Vulkane Kolumbiens.",
+        "Bekannt für seine aktiven Fumarolen und Schwefelablagerungen.",
+        "Bester Ort in Kolumbien zur Beobachtung des Andenkondors.",
+        "Nationalpark Puracé beherbergt Quellen von vier großen Flüssen.",
+        "Heiliger Berg für die indigene Gemeinschaft der Coconuco."
+      ]
+    },
+    {
+      "id": "galeras-volcano-nature-v2",
+      "descriptionAdvanced": "Der Galeras ist einer der aktivsten und gefährlichsten Vulkane Kolumbiens und thront unmittelbar über der Stadt Pasto im Departement Nariño. Er ist seit Jahrhunderten aktiv und hat die Geschichte und Kultur der Region maßgeblich geprägt. Trotz seiner potenziellen Gefahr ist der Vulkan ein integraler Bestandteil der Identität der Bewohner von Pasto, die ihn liebevoll 'El León' nennen. Der Vulkan ist von einem Naturschutzgebiet umgeben, das wichtige Paramo-Ökosysteme und Bergwälder schützt, die für die Wasserversorgung der Stadt entscheidend sind. Wissenschaftlich gehört der Galeras zu den am besten überwachten Vulkanen der Welt. Seine majestätische Präsenz und die ständigen Rauchfahnen aus seinem Krater sind eine ständige Erinnerung an die gewaltigen Kräfte der Natur im kolumbianischen Südwesten.",
+      "factsAdvanced": [
+        "Höhe von 4.276 Metern.",
+        "Aktivster Vulkan Kolumbiens in den letzten 20 Jahren.",
+        "Liegt nur ca. 9 Kilometer vom Stadtzentrum von Pasto entfernt.",
+        "Erstes Schutzgebiet Kolumbiens (Santuario de Flora y Fauna Galeras).",
+        "Besitzt einen ca. 80 Meter tiefen Hauptkrater.",
+        "Wichtiger Standort für vulkanologische Forschung weltweit.",
+        "Wichtigstes Wasserschloss für das Departement Nariño."
+      ]
+    },
+    {
+      "id": "lake-tota-nature-v2",
+      "descriptionAdvanced": "Die Laguna de Tota ist der größte See Kolumbiens und liegt eingebettet in die Anden des Departements Boyacá auf über 3.000 Metern Höhe. Bekannt für sein tiefblaues Wasser und den weißen Sandstrand 'Playa Blanca', erinnert der See fast an ein Stück Karibik inmitten der Berge. Er ist ein ökologisches Juwel und ein wichtiges Habitat für zahlreiche Vogelarten, darunter die bedrohte Bogotá-Ralle. Die Umgebung des Sees ist geprägt von Zwiebelanbaugebieten und malerischen Dörfern wie Aquitania. Der See spielt eine zentrale Rolle in der Muisca-Mythologie und ist ein beliebtes Ziel für Wassersport und Erholung. Die Laguna de Tota ist nicht nur ein Ort von außergewöhnlicher Schönheit, sondern auch ein lebenswichtiger Wasserspeicher und ein Symbol für die friedliche Hochlandlandschaft Zentralkolumbiens.",
+      "factsAdvanced": [
+        "Größter natürlicher See Kolumbiens.",
+        "Liegt auf einer Höhe von 3.015 Metern.",
+        "Zweitgrößter schiffbarer See der Anden nach dem Titicacasee.",
+        "Berühmt für den höchstgelegenen natürlichen Strand 'Playa Blanca'.",
+        "Wichtigstes Zentrum für den Zwiebelanbau in Kolumbien.",
+        "Heimat zahlreicher endemischer und migratorischer Vogelarten.",
+        "Maximaltiefe von etwa 60 Metern."
+      ]
+    },
+    {
+      "id": "lake-guatavita-nature-v2",
+      "descriptionAdvanced": "Die Laguna de Guatavita ist ein Ort voller Magie und der Ursprung der weltberühmten Legende von 'El Dorado'. Dieser kreisrunde Bergsee liegt in den Anden nördlich von Bogotá und war das heiligste Heiligtum der Muisca-Indigenen. Hier wurden neue Häuptlinge in Goldstaub gehüllt und opferten Gold und Smaragde dem Wasser, was spätere europäische Eroberer zu zahlreichen, oft zerstörerischen Versuchen veranlasste, den See trockenzulegen. Heute ist die Lagune ein geschütztes Naturreservat, das Besucher mit seiner stillen Schönheit und der mystischen Atmosphäre verzaubert. Ein Pfad führt zum Kraterrand und bietet einen spektakulären Blick auf das smaragdgrüne Wasser. Guatavita ist ein kraftvolles Symbol für das kulturelle Erbe Kolumbiens und die ungestillte Sehnsucht nach den Schätzen der Vergangenheit.",
+      "factsAdvanced": [
+        "Ursprungsort der Legende von El Dorado.",
+        "Heiligste Lagune der Muisca-Zivilisation.",
+        "Liegt auf einer Höhe von 3.100 Metern.",
+        "Perfekt kreisförmige Gestalt, vermutlich ein Einsturzkrater (Doline).",
+        "Fundort des berühmten Goldflosses von Guatavita (heute im Goldmuseum).",
+        "Geschütztes Natur- und Kulturreservat.",
+        "Zahlreiche Versuche der Trockenlegung im 16. bis 20. Jahrhundert."
+      ]
+    },
+    {
+      "id": "lake-calima-nature-v2",
+      "descriptionAdvanced": "Der Calima-See, offiziell das Reservat Darién, ist einer der größten künstlichen Seen Kolumbiens und ein Paradies für Wassersportler. Gelegen im Departement Valle del Cauca, ist er berühmt für seine konstanten und starken Winde, die ihn zu einem der besten Orte weltweit für Windsurfen und Kitesurfen machen. Der See ist umgeben von grünen Hügeln und bietet eine malerische Kulisse für Erholung und Abenteuer. In der Umgebung befinden sich zahlreiche Ferienhäuser, Hotels und Campingplätze, was ihn zu einem beliebten Wochenendziel für die Bewohner von Cali macht. Neben dem Sport hat die Region eine reiche archäologische Geschichte, die mit der Calima-Kultur verbunden ist, deren Schätze im nahegelegenen Dorf Darién bewundert werden können. Der See verbindet perfekt Freizeitspaß mit der Schönheit der kolumbianischen Andenlandschaft.",
+      "factsAdvanced": [
+        "Zweitgrößter künstlicher See Kolumbiens.",
+        "Gilt als einer der windreichsten Orte Amerikas.",
+        "Weltweites Zentrum für Wind- und Kitesurfen.",
+        "Wurde 1966 für die Energieerzeugung geschaffen.",
+        "Liegt auf einer Höhe von ca. 1.450 Metern.",
+        "Die Winde erreichen Geschwindigkeiten von bis zu 30 Knoten.",
+        "Zentrum der prähistorischen Calima-Zivilisation."
+      ]
+    },
+    {
+      "id": "la-cocha-lagoon-nature-v2",
+      "descriptionAdvanced": "Die Laguna de la Cocha, auch bekannt als Lago Guamuez, ist ein Ort von fast mystischer Schönheit im Departement Nariño im Südwesten Kolumbiens. Dieser riesige Andensee, der zweitgrößte des Landes, ist umgeben von dichten Nebelwäldern und Paramo-Landschaften. In seiner Mitte liegt die kleine Insel La Corota, ein geschütztes Naturreservat mit einer unglaublichen Vielfalt an Pflanzen und Vögeln. Das Dorf El Encano am Ufer des Sees besticht durch seine Holzarchitektur, die an Schweizer Alpendörfer erinnert, und seine Kanäle, die ihm den Namen 'Venedig von Nariño' eingebracht haben. Der See ist ein wichtiges spirituelles Zentrum und bekannt für seine exzellente Gastronomie, insbesondere die geräucherte Forelle. Die Cocha ist eine Oase der Ruhe und ein Symbol für die unberührte Naturpracht der kolumbianischen Anden.",
+      "factsAdvanced": [
+        "Zweitgrößter natürlicher See Kolumbiens.",
+        "Besitzt das kleinste nationale Schutzgebiet: Isla de La Corota.",
+        "Wichtiges RAMSAR-Feuchtgebiet von internationaler Bedeutung.",
+        "Liegt auf einer Höhe von 2.820 Metern.",
+        "Heimat einer einzigartigen Flora (Farne, Orchideen, Frailejones).",
+        "Bekannt für das malerische Dorf El Encano.",
+        "Maximaltiefe von ca. 75 Metern."
+      ]
+    },
+    {
+      "id": "malpelo-island-nature-v2",
+      "descriptionAdvanced": "Die Insel Malpelo ist ein einsamer Felsgipfel im Pazifischen Ozean, etwa 500 Kilometer vor der kolumbianischen Küste, und eines der bedeutendsten Tauchgebiete der Welt. Als UNESCO-Weltnaturerbe geschützt, beherbergt die Insel und das sie umgebende Meeresschutzgebiet eine unglaubliche Dichte an Meeresbewohnern. Malpelo ist weltberühmt für seine riesigen Schulen von Hammerhaien, Seidenhaien und Walhaien sowie für seltene Arten wie den Kleinzahn-Sandtigerhai. Die Insel selbst ist unbewohnt, abgesehen von einer kleinen Militärstation, und dient als wichtiger Nistplatz für Seevögel. Der Zugang ist streng reglementiert, um dieses fragile Ökosystem zu bewahren. Für Taucher ist Malpelo ein Ort der Superlative, an dem man die wilde und ungebändigte Kraft des Ozeans in ihrer reinsten Form erleben kann.",
+      "factsAdvanced": [
+        "UNESCO-Weltnaturerbe seit 2006.",
+        "Eines der weltweit besten Ziele für das Tauchen mit Haien.",
+        "Größte schutzbedürftige Zone im östlichen Tropenpazifik.",
+        "Die Insel ist die Spitze eines riesigen unterseeischen Gebirgszugs.",
+        "Heimat riesiger Schwärme von Hammerhaien (bis zu 500 Tiere).",
+        "Nur per mehrtägiger Schiffsreise von Buenaventura aus erreichbar.",
+        "Wichtiges Refugium für bedrohte Meeresvogelarten."
+      ]
+    },
+    {
+      "id": "gorgona-island-nature-v2",
+      "descriptionAdvanced": "Die Insel Gorgona, im Pazifik vor der Küste von Cauca gelegen, ist ein faszinierendes Beispiel dafür, wie sich die Natur ein verlorenes Territorium zurückerobert. Früher als berüchtigtes Hochsicherheitsgefängnis bekannt (das 'Alcatraz von Kolumbien'), ist die Insel heute ein Nationalpark und ein ökologisches Paradies. Die dichte tropische Vegetation hat die Ruinen des Gefängnisses fast vollständig überwuchert. Gorgona ist ein Hotspot der Biodiversität, bekannt für seine endemischen Echsenarten, giftige Schlangen und eine reiche Vogelwelt. Das umgebende Meer ist ein bedeutendes Schutzgebiet für Meeresschildkröten und dient von Juli bis Oktober als Kinderstube für Buckelwale. Die Insel bietet eine einzigartige Mischung aus dunkler Geschichte und überwältigender Naturpracht, die sie zu einem der außergewöhnlichsten Ziele Kolumbiens macht.",
+      "factsAdvanced": [
+        "Ehemaliges Gefängnis (geschlossen 1984), heute Nationalpark.",
+        "Bekannt als die 'Wissenschaftsinsel' (Isla Ciencia) wegen ihrer Biodiversität.",
+        "Bester Ort zur Beobachtung von Buckelwalen vom Land aus.",
+        "Heimat der endemischen Blauen Anolis-Echse.",
+        "Einzigartiges Ökosystem mit tropischem Regenwald direkt am Ozean.",
+        "Wichtiges Forschungszentrum für Meeresbiologie.",
+        "Besitzt eines der besterhaltenen Korallenriffe im Ostpazifik."
+      ]
+    },
+    {
+      "id": "san-andres-island-nature-v2",
+      "descriptionAdvanced": "Die Insel San Andrés ist das Herz des kolumbianischen Karibik-Archipels und berühmt für ihr 'Meer der sieben Farben', ein Phänomen, bei dem das Wasser in unglaublichen Schattierungen von Türkis bis Tiefblau leuchtet. Die Insel ist Teil des UNESCO-Biosphärenreservats Seaflower, das eines der größten Korallenriffe Amerikas schützt. San Andrés bietet eine paradiesische Landschaft mit weißen Sandstränden, Kokospalmen und kristallklarem Wasser, das ideal zum Schnorcheln und Tauchen ist. Die einzigartige Geologie der Insel zeigt sich in Attraktionen wie dem 'Hoyo Soplador', einer Meeresfontäne, die bei hohem Wellengang meterhoch in die Luft schießt. Trotz der touristischen Erschließung bewahrt die Insel wichtige Mangrovenwälder und Korallenökosysteme, die für das Überleben der karibischen Meeresfauna entscheidend sind.",
+      "factsAdvanced": [
+        "Größte Insel des kolumbianischen Archipels.",
+        "Teil des UNESCO-Biosphärenreservats Seaflower.",
+        "Berühmt für das 'Meer der sieben Farben'.",
+        "Drittgrößtes Barriereriff der Welt in der Region.",
+        "Heimat der endemischen Raizal-Kultur.",
+        "Bekannte Naturwunder wie das 'Hoyo Soplador' (Blasloch).",
+        "Wichtiges Schutzgebiet für Mangroven und Seegraswiesen."
+      ]
+    },
+    {
+      "id": "providencia-island-nature-v2",
+      "descriptionAdvanced": "Die Insel Providencia ist der ruhigere und ursprünglichere Teil des kolumbianischen Karibik-Archipels und ein wahrer Geheimtipp für Naturliebhaber. Im Gegensatz zu ihrer größeren Schwester San Andrés hat Providencia ihren authentischen karibischen Charme und ihre unberührte Natur fast vollständig bewahrt. Die Insel ist geprägt von bewaldeten Hügeln und ist umgeben von dem drittgrößten Barriereriff der Welt. Hier finden Taucher eine unglaubliche Unterwasserwelt in kristallklarem Wasser. Providencia ist zudem Schauplatz der beeindruckenden Wanderung der schwarzen Landkrabben, die jährlich aus den Bergen zum Meer ziehen. Mit ihren farbenfrohen Holzhäusern, der herzlichen Raizal-Bevölkerung und den einsamen Buchten ist Providencia ein Ort der Entschleunigung und ein Symbol für nachhaltigen Tourismus in der Karibik.",
+      "factsAdvanced": [
+        "Ursprünglichere 'Schwesterinsel' von San Andrés.",
+        "Besitzt das drittgrößte Barriereriff der Erde.",
+        "Heimat der schwarzen Landkrabbe (jährliche Massenwanderung).",
+        "Teil des UNESCO-Biosphärenreservats Seaflower.",
+        "Bekannt für die Sehenswürdigkeit 'McBean Lagoon'.",
+        "Verfügt über den höchsten Punkt des Archipels ('The Peak').",
+        "Nur mit dem Flugzeug oder Katamaran von San Andrés erreichbar."
+      ]
+    },
+    {
+      "id": "amazon-rainforest-colombia-nature-v2",
+      "descriptionAdvanced": "Der kolumbianische Amazonas-Regenwald ist ein integraler Bestandteil der größten 'grünen Lunge' der Erde und beherbergt eine unvergleichliche biologische Vielfalt. In diesem dichten, feuchten Ökosystem, das den Süden Kolumbiens bedeckt, leben Tausende von Pflanzenarten, farbenfrohe Vögel wie Tukane und Papageien sowie ikonische Säugetiere wie Jaguare und Brüllaffen. Der Regenwald ist zudem die Heimat zahlreicher indigener Völker, die seit Jahrtausenden im Einklang mit der Natur leben und über ein unschätzbares Wissen über Heilpflanzen verfügen. Schutzgebiete wie der Nationalpark Chiribiquete bewahren nicht nur die Natur, sondern auch jahrtausendealte Felsmalereien. Der Amazonas-Regenwald ist entscheidend für das Weltklima und stellt eine der letzten großen Wildnisregionen der Erde dar, in der die Natur in ihrer ursprünglichsten Form erfahren werden kann.",
+      "factsAdvanced": [
+        "Größter zusammenhängender Regenwald der Erde.",
+        "Kolumbianischer Anteil macht ca. 35 % der Staatsfläche aus.",
+        "Wichtigster Kohlenstoffspeicher zur Regulierung des Weltklimas.",
+        "Beherbergt ca. 10 % der weltweit bekannten Biodiversität.",
+        "Heimat von über 50 verschiedenen indigenen Völkern.",
+        "Enthält den Nationalpark Chiribiquete (UNESCO-Welterbe).",
+        "Zentrum unentdeckter Arten von Flora und Fauna."
+      ]
+    },
+    {
+      "id": "choco-darien-moist-forest-nature-v2",
+      "descriptionAdvanced": "Der Chocó-Darién-Regenwald an der Pazifikküste Kolumbiens ist eine der feuchtesten und artenreichsten Regionen der Welt. Aufgrund der extremen Niederschlagsmengen hat sich hier ein einzigartiger Dschungel entwickelt, der durch eine enorme Anzahl an endemischen Arten besticht, die nirgendwo sonst auf der Erde vorkommen. Die Region dient als biologische Brücke zwischen Mittel- und Südamerika und ist ein Labyrinth aus Flüssen, Mangroven und dichten Bergwäldern. Der Chocó ist zudem das kulturelle Herz der afrokolumbianischen Bevölkerung und Heimat indigener Gruppen wie der Emberá. Trotz seiner ökologischen Bedeutung ist dieses Naturwunder durch Abholzung und illegalen Bergbau bedroht, was internationale Schutzanstrengungen erforderlich macht. Ein Besuch im Chocó ist ein Eintauchen in eine wilde, ursprüngliche Welt aus Wasser und Grün.",
+      "factsAdvanced": [
+        "Eine der regenreichsten Regionen der Erde (bis zu 13.000 mm/Jahr).",
+        "Weltweit führend in der Dichte an endemischen Pflanzenarten.",
+        "Biologische Brücke zwischen Süd- und Mittelamerika.",
+        "Heimat des giftigsten Wirbeltiers der Welt (Goldener Giftfrosch).",
+        "Umfasst Nationalparks wie Utría und Los Katíos.",
+        "Wichtiges Schutzgebiet für Jaguare und seltene Primaten.",
+        "Eines der am wenigsten erforschten Gebiete Kolumbiens."
+      ]
+    },
+    {
+      "id": "tayrona-national-park-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark Tayrona ist das Juwel der kolumbianischen Karibikküste und vereint auf einzigartige Weise tropischen Regenwald mit traumhaften Buchten und dem höchsten Küstengebirge der Welt. Der Park liegt am Fuße der Sierra Nevada de Santa Marta und beherbergt eine reiche Flora und Fauna, darunter Brüllaffen und bunte Eidechsen. Für die indigenen Völker der Region ist der Park ein heiliges Territorium, was man an Orten wie 'Pueblito', einer alten indigenen Siedlung, hautnah erleben kann. Die Strände wie Cabo San Juan oder Arrecifes sind weltberühmt für ihren weißen Sand und die riesigen Granitfelsen im kristallklaren Wasser. Ein Besuch im Tayrona ist eine Reise in ein unberührtes Naturparadies, das die magische Verbindung zwischen den Anden und der Karibik symbolisiert.",
+      "factsAdvanced": [
+        "Meistbesuchter Nationalpark Kolumbiens.",
+        "Einzigartige Verbindung von Regenwald und karibischen Stränden.",
+        "Heiliges Gebiet für die Kogi und Arhuaco-Indigenen.",
+        "Heimat der archäologischen Stätte 'Pueblito Chairama'.",
+        "Bekannt für seine ikonischen runden Granitfelsen im Meer.",
+        "Schutzgebiet für über 100 Säugetier- und 300 Vogelarten.",
+        "Liegt nur etwa 34 Kilometer von Santa Marta entfernt."
+      ]
+    },
+    {
+      "id": "caribbean-sea-colombia-nature-v2",
+      "descriptionAdvanced": "Das Karibische Meer bildet die nördliche Grenze Kolumbiens und ist ein Synonym für tropische Schönheit, türkisfarbenes Wasser und eine reiche marine Biodiversität. Auf einer Länge von über 1.600 Kilometern bietet die kolumbianische Karibikküste alles von den Wüstenlandschaften von La Guajira bis hin zu den dichten Dschungeln von Chocó. Das Meer beherbergt ausgedehnte Korallenriffe, Mangrovenwälder und Seegraswiesen, die lebenswichtig für Meeresschildkröten und unzählige Fischarten sind. Historisch gesehen war die Karibik das Tor für die spanischen Eroberer und später ein Schauplatz von Piratenlegenden. Heute ist sie der Motor des Tourismus und ein lebenswichtiger Wirtschaftsraum für den Außenhandel. Die warme Brise und die entspannte Lebensart der Küstenbewohner machen die kolumbianische Karibik zu einem Sehnsuchtsort für Reisende aus aller Welt.",
+      "factsAdvanced": [
+        "Kolumbien besitzt eine Karibikküste von ca. 1.600 km Länge.",
+        "Heimat von über 500 Korallenarten.",
+        "Wichtigstes touristisches Zielgebiet des Landes.",
+        "Zentrum der kolumbianischen Hafenwirtschaft (Cartagena, Barranquilla).",
+        "Reich an marinen Ressourcen und Erdölvorkommen.",
+        "Besitzt spektakuläre Inselgruppen wie die Rosario-Inseln.",
+        "Temperatur des Wassers liegt ganzjährig bei ca. 27–29 Grad Celsius."
+      ]
+    },
+    {
+      "id": "pacific-ocean-colombia-nature-v2",
+      "descriptionAdvanced": "Der Pazifische Ozean an der Westküste Kolumbiens ist eine wilde und geheimnisvolle Region, die durch dichte Regenwälder, schwarze Sandstrände und eine überwältigende Naturkraft geprägt ist. Anders als die touristisch erschlossene Karibik ist die Pazifikküste ein unberührtes Paradies, das vor allem durch den Ökotourismus bekannt geworden ist. Jährlich zwischen Juli und Oktober wird der kolumbianische Pazifik zur Kinderstube für Tausende von Buckelwalen, die aus der Antarktis kommen, um in den warmen Gewässern ihre Jungen zur Welt zu bringen. Die Region ist zudem eines der regenreichsten Gebiete der Erde und beherbergt eine einzigartige Vielfalt an Meeres- und Küstenbewohnern. Der Pazifik ist die Lebensgrundlage für die afrokolumbianischen Gemeinschaften und ein Symbol für die unbezähmbare, ursprüngliche Kraft der kolumbianischen Natur.",
+      "factsAdvanced": [
+        "Küstenlänge von ca. 1.300 Kilometern.",
+        "Eines der weltweit besten Gebiete zur Walbeobachtung.",
+        "Wichtigstes Einzugsgebiet für Buckelwale im Ostpazifik.",
+        "Besitzt spektakuläre schwarze Vulkanstrände.",
+        "Reichstes Fischfanggebiet Kolumbiens.",
+        "Beherbergt die Inseln Gorgona und Malpelo (Weltnaturerbe).",
+        "Region mit der höchsten Niederschlagsmenge des Landes."
+      ]
+    }
+  ]
+}

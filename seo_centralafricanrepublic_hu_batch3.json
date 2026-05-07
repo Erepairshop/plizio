@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "centralafricanrepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bambari-cities-v2",
+      "descriptionAdvanced": "Bambari az Ouaka folyó partján fekszik, és a Közép-afrikai Köztársaság központi régiójának elengedhetetlen kereskedelmi csomópontja. Ouaka prefektúra székhelyeként a város évtizedek óta jelentős piac a mezőgazdasági termékek, például a gyapot és a kávé számára. A település szimbolikus jelentőséggel bír a középső régióban, mivel éghajlati szempontból kedvező feltételeket biztosít a trópusi gyümölcsök termesztéséhez. Földrajz K7 – Agrárterületek és folyógazdaság.",
+      "factsAdvanced": [
+        "Az Ouaka folyó partján fekszik, amely az Ubangi mellékfolyója.",
+        "Ouaka prefektúra székhelye.",
+        "Az ország gyapotkereskedelmének egyik központja.",
+        "Közlekedési csomópont az ország északi és déli része között.",
+        "A népesség több különböző etnikai csoportból áll.",
+        "Az éghajlat egész évben nedves-trópusi."
+      ]
+    },
+    {
+      "id": "bouar-cities-v2",
+      "descriptionAdvanced": "Bouar az ország nyugati részén fekszik, és a Nana-Mambéré prefektúra központja. A város stratégiai fontossággal bír a kereskedelmi útvonalak szempontjából, mivel az ország egyik fő összekötő pontja Kamerun irányába. A környék nemcsak kereskedelmi szerepe miatt fontos, hanem a vidéken található ősi megalitok, az úgynevezett 'bouari kövek' révén is, amelyek egyedülálló kulturális és régészeti jelentőséggel bírnak. Földrajz K7 – Közlekedési folyosók és régészet.",
+      "factsAdvanced": [
+        "A Nana-Mambéré prefektúra székhelye.",
+        "Fontos összekötő pont a Kamerun felé vezető kereskedelmi úton.",
+        "A város környékén találhatóak a nevezetes 'bouari megalitok'.",
+        "Magasabban fekvő terület, hűvösebb mikroklímával.",
+        "A mezőgazdaság és az állattenyésztés a fő gazdasági tevékenységek.",
+        "Kulturális és történelmi öröksége turisztikai potenciált rejt."
+      ]
+    }
+  ]
+}

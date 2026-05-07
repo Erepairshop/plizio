@@ -1,0 +1,33 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tunis-cities-v2",
+      "descriptionAdvanced": "Tunis, capitala Tunisiei, este un oraș vibrant ce îmbină istoria milenară cu urbanismul modern nord-african. Orașul este definit de celebra Medină, inclusă în patrimoniul mondial UNESCO, și de zona colonială modernă, construită în perioada protectoratului francez. În timp ce Medina atrage prin străzile înguste și bazarurile tradiționale, bulevardul Habib Bourguiba oferă arhitectură europeană și spații deschise generoase. Tunis este astăzi inima economică și culturală a țării. Geografie K6 — metropolele Africii de Nord.",
+      "factsAdvanced": [
+        "Tunis a devenit capitala imperiului aghlabid în secolul al IX-lea.",
+        "Medina din Tunis adăpostește peste 700 de monumente istorice.",
+        "Gara Tunis-Marine leagă centrul orașului de suburbia La Marsa.",
+        "Moscheea Zitouna este una dintre cele mai vechi și importante moschei din Africa de Nord.",
+        "Tunisul modern s-a dezvoltat semnificativ în timpul protectoratului francez.",
+        "Orașul este situat strategic pe malul Golfului Tunis."
+      ]
+    },
+    {
+      "id": "ariana-cities-v2",
+      "descriptionAdvanced": "Ariana este un oraș important situat în nordul zonei metropolitane Tunis, renumit pentru grădinile sale înflorite și cartierele rezidențiale moderne. Numele orașului provine de la grădinile care în trecut erau faimoase pentru cultivarea trandafirilor și a altor flori. Astăzi, Ariana servește drept un centru urban esențial, fiind o legătură între capitală și zonele rurale din nord. Orașul s-a dezvoltat considerabil, găzduind numeroase instituții de învățământ și centre medicale. Elevii în K5 descoperă aici dezvoltarea urbană în contextul urbanizării accelerate. Geografie K7 — orașe și regiuni.",
+      "factsAdvanced": [
+        "Ariana este celebră pentru cultivarea trandafirului de Damasc.",
+        "Orașul este un centru suburban dens populat al Tunisului.",
+        "Aici se află una dintre cele mai cunoscute facultăți de medicină din țară.",
+        "Ariana a fost influențată semnificativ de refugiații andaluzi în secolul al XVIII-lea.",
+        "Structura orașului este un amestec de nucleu istoric și clădiri moderne.",
+        "În apropiere se află Aeroportul Internațional Tunis-Carthage."
+      ]
+    }
+  ]
+}

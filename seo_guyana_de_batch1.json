@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "georgetown-cities-v2",
+      "descriptionAdvanced": "Georgetown ist das wirtschaftliche und kulturelle Herz von Guyana, das seine reiche Kolonialgeschichte durch charakteristische Holzarchitektur bewahrt. Als Hauptstadt am Ufer des Demerara-Flusses verzeichnet die Metropole ein dynamisches Wachstum, das durch den jüngsten Ölboom verstärkt wird. Besucher schätzen den Botanischen Garten mit seiner außergewöhnlichen tropischen Flora und den berühmten Stabroek-Markt, der ein buntes Treiben bietet. Die Stadt kombiniert karibische Lebensfreude mit südamerikanischem Charme und ist Ausgangspunkt für zahlreiche Expeditionen in das unberührte Hinterland des Amazonasbeckens.",
+      "factsAdvanced": [
+        "Wurde 1781 von den Briten als Hauptstadt etabliert.",
+        "Beherbergt den belebten Stabroek-Markt aus dem Jahr 1881.",
+        "Rund 200.000 Menschen leben im Großraum Georgetown.",
+        "Bekannt für den neugotischen Bau der City Hall.",
+        "Zentrum des politischen Lebens und Sitz des Parlaments.",
+        "Wichtiger Überseehafen für Zucker- und Bauxitexporte."
+      ]
+    },
+    {
+      "id": "linden-cities-v2",
+      "descriptionAdvanced": "Linden hat sich als die bedeutendste Bergbaustadt Guyanas einen Namen gemacht und ist tief in der Geschichte des Bauxitabbaus verwurzelt. Die Stadt erstreckt sich malerisch an den Ufern des Demerara-Flusses und profitiert von einer strategischen Lage, die den Zugang zum inneren Landesgebiet ermöglicht. Die lokale Kultur wird stark durch die afro-guyanische Gemeinschaft geprägt, die jedes Jahr lebhafte Festivals feiert. Neben dem industriellen Sektor entwickelt sich zunehmend ein wachsender Ökotourismus, der Naturliebhaber in die umliegenden Dschungelgebiete zieht.",
+      "factsAdvanced": [
+        "1970 aus den Siedlungen Mackenzie, Wismar und Christianburg gebildet.",
+        "Gilt als das historische Zentrum der guyanischen Bauxitindustrie.",
+        "Die Einwohnerzahl beträgt rund 30.000 Personen.",
+        "Wichtiger Verkehrsknotenpunkt in das Landesinnere.",
+        "Bekannt für das jährliche Linden Town Week Festival.",
+        "Verfügt über ein einzigartiges blaues Seensystem aus alten Minen."
+      ]
+    },
+    {
+      "id": "new-amsterdam-cities-v2",
+      "descriptionAdvanced": "New Amsterdam ist eine der ältesten Siedlungen Guyanas und spiegelt noch heute deutlich ihr niederländisches Kolonialerbe wider. Gelegen an der Mündung des Berbice-Flusses fungiert die Stadt als wichtiges Handelszentrum für den östlichen Teil des Landes. Historische Gebäude, kleine Märkte und eine entspannte Atmosphäre charakterisieren das Stadtbild. Die landwirtschaftlichen Aktivitäten der Umgebung, insbesondere der Reisanbau, tragen maßgeblich zur lokalen Wirtschaft bei, während moderne Infrastrukturprojekte die Region zunehmend erschließen.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1740 von niederländischen Siedlern.",
+        "Dient als regionale Hauptstadt von East Berbice-Corentyne.",
+        "Verbunden mit Georgetown über moderne Überlandstraßen.",
+        "Heimat von rund 17.000 Einwohnern.",
+        "Die Berbice-Brücke erleichtert den Transport erheblich.",
+        "Zentrum für die Verarbeitung von landwirtschaftlichen Produkten."
+      ]
+    },
+    {
+      "id": "anna-regina-cities-v2",
+      "descriptionAdvanced": "Anna Regina ist das administrative Zentrum der Region Pomeroon-Supenaam und wird oft als landwirtschaftliches Kraftzentrum bezeichnet. Die weiten Reisfelder, die die Stadt umgeben, bilden das Rückgrat der lokalen Wirtschaft und exportieren ihre Produkte in viele Teile der Karibik. Traditionelle Märkte und eine enge Gemeinschaftsprägung machen den Charme dieses Ortes aus. Die nahegelegenen Seen und die Küstenlandschaft bieten zudem unentdeckte Potenziale für Touristen, die authentisches guyanisches Landleben erfahren möchten.",
+      "factsAdvanced": [
+        "Erhielt 1990 offiziell den Status einer Stadt.",
+        "Das Hauptanbaugebiet für Reis in Guyana.",
+        "Der Capoey Lake in der Nähe ist ein Naturhighlight.",
+        "Rund 14.000 Menschen leben in der städtischen Umgebung.",
+        "Wichtiger Bildungsstandort für die nördliche Küstenregion.",
+        "Ein multikultureller Schmelztiegel aus indischen und afrikanischen Einflüssen."
+      ]
+    },
+    {
+      "id": "bartica-cities-v2",
+      "descriptionAdvanced": "Bartica gilt als das Tor zum wilden und ressourcenreichen Landesinneren von Guyana, strategisch günstig am Zusammenfluss von Essequibo, Mazaruni und Cuyuni gelegen. Die Stadt ist der Hauptstützpunkt für Gold- und Diamantensucher, deren Aktivitäten der Region zu großem wirtschaftlichen Aufschwung verholfen haben. Mit der jährlichen Regatta feiert Bartica eine Tradition, die Besucher aus dem ganzen Land anlockt. Gleichzeitig setzt die Gemeinde zunehmend auf erneuerbare Energien, um sich als Guyanas erste grüne Stadt zu positionieren.",
+      "factsAdvanced": [
+        "Wurde 1842 als Missionsstation der Anglikaner gegründet.",
+        "Gilt traditionell als Ausgangspunkt für Goldgräberexpeditionen.",
+        "Austragungsort der berühmten Bartica Regatta zu Ostern.",
+        "Verfolgt das Ziel, vollständig auf grüne Energie umzustellen.",
+        "Bevölkerung von etwa 15.000 Einwohnern.",
+        "Wichtiger Flusshafen für den Gütertransport ins Hinterland."
+      ]
+    },
+    {
+      "id": "corriverton-cities-v2",
+      "descriptionAdvanced": "Corriverton liegt am Corentyne-Fluss und fungiert als wichtige Grenzstadt zwischen Guyana und Suriname. Der rege grenzüberschreitende Handel prägt die lokale Wirtschaft und sorgt für ein geschäftiges, multikulturelles Flair, in dem verschiedene Sprachen und Traditionen verschmelzen. Die Fährverbindung nach South Drain in Suriname ist eine Lebensader für die Einwohner beider Länder. Landwirtschaft, insbesondere die Zuckerrohrproduktion an den nahegelegenen Plantagen, bleibt ein weiteres zentrales Standbein der regionalen Entwicklung.",
+      "factsAdvanced": [
+        "Zusammenschluss aus den früheren Orten Springlands und Skeldon.",
+        "Bedeutender Grenzübergang nach Suriname.",
+        "Skeldon Sugar Estate ist ein wichtiger Arbeitgeber in der Nähe.",
+        "Rund 11.000 Einwohner leben in der Gemeinde.",
+        "Ein Zentrum für Schmuggelfreien Handel und legalen Warenaustausch.",
+        "Vielfältige religiöse Stätten wie Mandirs, Moscheen und Kirchen."
+      ]
+    },
+    {
+      "id": "rose-hall-cities-v2",
+      "descriptionAdvanced": "Rose Hall ist eine lebendige Gemeinde in der Region Berbice, die sich von einem kleinen Dorf zu einer der wichtigsten Wirtschaftszentren der Umgebung entwickelt hat. Die Stadt ist bekannt für ihre fleißigen Einwohner und die enge Anbindung an die Zuckerindustrie, die über Jahrzehnte das lokale Leben dominierte. Heute findet man hier einen geschäftigen Markt und eine Vielzahl kleiner Unternehmen, die den Alltag prägen. Rose Hall ist auch stolz auf seine kulturelle Vielfalt, was sich in bunten Feierlichkeiten und einer großen Auswahl an lokaler Küche widerspiegelt.",
+      "factsAdvanced": [
+        "Wurde im späten 19. Jahrhundert von befreiten Sklaven erworben.",
+        "Erhielt 1970 den Status einer Stadt (Town).",
+        "Wichtiges kommerzielles Zentrum in East Berbice-Corentyne.",
+        "Etwa 8.000 Menschen nennen Rose Hall ihr Zuhause.",
+        "Der lokale Markt ist einer der größten der Region.",
+        "Die Rose Hall Sugar Estate war historisch von zentraler Bedeutung."
+      ]
+    },
+    {
+      "id": "mahaica-village-cities-v2",
+      "descriptionAdvanced": "Mahaica Village ist eine charmante landwirtschaftliche Siedlung an der Ostküste von Demerara, die für ihre fruchtbaren Böden und den weitläufigen Reisanbau bekannt ist. Der namensgebende Mahaica-Fluss bietet nicht nur Bewässerungsmöglichkeiten, sondern auch unberührte Naturerlebnisse für Vogelbeobachter. Die enge Gemeinschaft hier bewahrt viele traditionelle guyanische Lebensweisen, wodurch ein authentisches Bild der ländlichen Kultur entsteht. Zunehmend entdecken auch kleine Ökotourismus-Initiativen das Potenzial der Region, um Besuchern die einheimische Flora und Fauna näherzubringen.",
+      "factsAdvanced": [
+        "Bekannt für den großflächigen Anbau von Reis und Gemüse.",
+        "Der Mahaica-Fluss beheimatet seltene Vogelarten wie den Hoatzin.",
+        "Historisch durch das koloniale Plantagensystem geprägt.",
+        "Dient als wichtiger Marktort für die umliegenden Farmen.",
+        "Eine multikulturelle Gemeinschaft mit starken indisch-guyanischen Wurzeln.",
+        "Befindet sich etwa 40 Kilometer von der Hauptstadt Georgetown entfernt."
+      ]
+    },
+    {
+      "id": "mahaicony-village-cities-v2",
+      "descriptionAdvanced": "Mahaicony Village ist eine ruhige und traditionsreiche Siedlung, die das landwirtschaftliche Herzland Guyanas repräsentiert. Mit ihren weiten Feldern für den Reisanbau und der Viehzucht trägt die Gemeinde maßgeblich zur Nahrungsmittelversorgung des Landes bei. Der Mahaicony-Fluss, der durch die Region fließt, ist eine wichtige Lebensader für die Bauern und bietet gleichzeitig malerische Ausblicke. Die Menschen hier sind tief in ihren landwirtschaftlichen Wurzeln verankert und pflegen eine gastfreundliche Kultur, die Besucher mit offenen Armen empfängt.",
+      "factsAdvanced": [
+        "Zentrum der landwirtschaftlichen Produktion, insbesondere Reis und Rinder.",
+        "Der Mahaicony-Fluss ist wichtig für Transport und Bewässerung.",
+        "Eine historisch bedeutsame Siedlung aus der Kolonialzeit.",
+        "Beliebt bei Einheimischen für Süßwasserfischerei.",
+        "Die Region ist bekannt für ihre dörfliche Solidarität.",
+        "Verfügt über mehrere historische Reismühlen."
+      ]
+    },
+    {
+      "id": "vreed-en-hoop-cities-v2",
+      "descriptionAdvanced": "Vreed-en-Hoop, an der Westbank des Demerara-Flusses gelegen, ist ein geschäftiges Handelszentrum, das als Verbindungspunkt zwischen der Hauptstadt und der westlichen Küstenregion dient. Die Stadt hat in den letzten Jahren durch Infrastrukturprojekte, darunter die neue Hafenanlage für die Offshore-Ölindustrie, erheblich an strategischer Bedeutung gewonnen. Täglich pendeln Tausende von Arbeitern und Händlern über den Fluss, was dem Ort eine ständige Dynamik verleiht. Trotz des Fortschritts bewahrt Vreed-en-Hoop seinen dörflichen Charakter mit lebhaften Märkten und kleinen Familienbetrieben.",
+      "factsAdvanced": [
+        "Der Name stammt aus dem Niederländischen und bedeutet 'Frieden und Hoffnung'.",
+        "Wichtiger Verkehrsknotenpunkt mit Fährverbindungen nach Georgetown.",
+        "Standort eines großen neuen Küstenbasis-Projekts für die Ölindustrie.",
+        "Das administrative Zentrum der Essequibo Islands-West Demerara Region.",
+        "Bekannt für seine geschäftigen Straßengeschäfte und Märkte.",
+        "Beheimatet eine renommierte Bildungseinrichtung, das West Demerara Secondary."
+      ]
+    },
+    {
+      "id": "lethem-cities-v2",
+      "descriptionAdvanced": "Lethem, tief im Süden Guyanas in der Rupununi-Savanne gelegen, ist das Tor nach Brasilien und ein Schmelztiegel der indigenen, guyanischen und brasilianischen Kulturen. Die Grenzstadt profitiert wirtschaftlich enorm von der Takutu-Brücke, die den internationalen Handel und Tourismus ankurbelt. Umgeben von atemberaubenden Bergen und Savannenlandschaften, zieht Lethem Abenteurer und Ökotouristen an, die die wilde Natur erkunden möchten. Das alljährliche Rupununi-Rodeo ist das kulturelle Highlight, das tausende Besucher aus der ganzen Region begeistert.",
+      "factsAdvanced": [
+        "Grenzstadt zu Bonfim im benachbarten Brasilien.",
+        "Benannt nach dem ehemaligen britischen Gouverneur Sir Gordon Lethem.",
+        "Austragungsort des berühmten Rupununi-Rodeos zu Ostern.",
+        "Wichtiger Ausgangspunkt für Reisen in die Kanuku-Berge.",
+        "Die Takutu-Brücke wurde 2009 eröffnet.",
+        "Zentrum der Region Upper Takutu-Upper Essequibo."
+      ]
+    },
+    {
+      "id": "mabaruma-cities-v2",
+      "descriptionAdvanced": "Mabaruma ist das Herz der Region Barima-Waini und thront malerisch auf einem kleinen Plateau über dem umgebenden Regenwald. Als administratives Zentrum im Nordwesten Guyanas spielt die Stadt eine entscheidende Rolle für die indigenen Gemeinschaften und den Grenzhandel mit Venezuela. Die üppige Natur, darunter der Hosororo-Hügel, bietet reiche Möglichkeiten für die Landwirtschaft, insbesondere für den Anbau von Kakao und Zitrusfrüchten. Mabaruma ist bekannt für seine ruhige Lebensweise und die atemberaubenden Ausblicke auf die unberührten Flusslandschaften.",
+      "factsAdvanced": [
+        "Die regionale Hauptstadt von Barima-Waini (Region 1).",
+        "Erhielt im Jahr 2016 den offiziellen Status als Stadt.",
+        "Nahe der venezolanischen Grenze am Barima-Fluss gelegen.",
+        "Ein wichtiges Zentrum für die lokale Landwirtschaft, speziell Kakao.",
+        "Verfügt über einen Regionalflughafen für den Transport nach Georgetown.",
+        "Bekannt für den Kissing Rocks-Aussichtspunkt."
+      ]
+    },
+    {
+      "id": "mahdia-cities-v2",
+      "descriptionAdvanced": "Mahdia ist eine robuste Bergbaustadt im Herzen Guyanas, umgeben von dichten Wäldern und zerklüfteten Bergen. Die Region ist historisch durch den Goldabbau geprägt, der noch heute Glücksritter aus allen Teilen des Landes anzieht. Trotz der industriellen Prägung bietet die Umgebung von Mahdia atemberaubende Naturwunder, darunter spektakuläre Wasserfälle und unberührte Dschungelpfade. Die Stadt fungiert als wichtiges Versorgungszentrum für abgelegene indigene Dörfer und Bergwerkslager in der Region Potaro-Siparuni.",
+      "factsAdvanced": [
+        "Zentrum des Goldabbaus in der Region Potaro-Siparuni.",
+        "Wurde im Jahr 2018 offiziell zur Stadt erklärt.",
+        "Wichtiger Hub für kleine Minenbetreiber (Porknockers).",
+        "Der nahegelegene Eagle Mountain ist ein markantes Naturdenkmal.",
+        "Verfügt über eine ethnisch sehr diverse Bevölkerung.",
+        "Ein Ausgangspunkt für anspruchsvolle Überlandreisen zum Kaieteur-Nationalpark."
+      ]
+    },
+    {
+      "id": "port-kaituma-cities-v2",
+      "descriptionAdvanced": "Port Kaituma ist ein isoliertes, aber lebhaftes Wirtschaftszentrum im Nordwesten Guyanas, das stark vom Gold- und Manganabbau profitiert. Die am Kaituma-Fluss gelegene Gemeinde fungiert als logistischer Knotenpunkt, über den Ausrüstung und Lebensmittel in die Minen der Region transportiert werden. Obwohl der Ort eine raue, provisorische Atmosphäre besitzt, hat sich eine starke und widerstandsfähige Gemeinschaft entwickelt. Historisch erlangte Port Kaituma durch seine Nähe zur tragischen Jonestown-Siedlung internationale Aufmerksamkeit.",
+      "factsAdvanced": [
+        "Wichtiger Binnenhafen am Kaituma-Fluss.",
+        "Zentrum der Bergbauaktivitäten in der Region Barima-Waini.",
+        "Wurde als Transport-Hub für den Manganabbau in den 1950ern gegründet.",
+        "Bekannt für den nahegelegenen Flugplatz Port Kaituma Airstrip.",
+        "Die Bevölkerung besteht größtenteils aus Bergarbeitern und Händlern.",
+        "Steht in historischer Verbindung zu den Ereignissen von Jonestown 1978."
+      ]
+    },
+    {
+      "id": "kwakwani-cities-v2",
+      "descriptionAdvanced": "Kwakwani ist eine abgelegene Bergbaugemeinde am Berbice-Fluss, die ihre Existenz größtenteils den reichen Bauxitvorkommen in der Umgebung verdankt. Die dichten Dschungelwälder, die das Dorf umschließen, vermitteln ein Gefühl von Isolation und Unberührtheit, was die Logistik für die Bewohner herausfordernd macht. Trotzdem pflegt die Gemeinde einen starken Zusammenhalt und eine tiefe Verbundenheit zur Natur. Der Fluss ist nicht nur Transportweg für das Erz, sondern auch eine wichtige Quelle für die tägliche Versorgung und Erholung.",
+      "factsAdvanced": [
+        "Gegründet um die Ausbeutung von Bauxitreserven zu unterstützen.",
+        "Liegt tief in der Region Upper Demerara-Berbice.",
+        "Bauxit wird von hier per Schiff flussabwärts transportiert.",
+        "Etwa 4.000 Menschen leben in und um Kwakwani.",
+        "Wichtige Infrastruktur wird oft von Bergbauunternehmen aufrechterhalten.",
+        "Die Gemeinde ist für den Straßentransport auf eine Flussfähre angewiesen."
+      ]
+    },
+    {
+      "id": "annandale-cities-v2",
+      "descriptionAdvanced": "Annandale ist eine bevölkerungsreiche Gemeinde an der Ostküste von Demerara, die durch eine reiche Geschichte im Zuckerrohranbau geprägt ist. Die Siedlung hat sich im Laufe der Jahre stark modernisiert und bietet eine Mischung aus ländlicher Ruhe und kleinstädtischer Geschäftigkeit. Entlang der Hauptstraße florieren kleine Geschäfte, während die umliegenden Wohngebiete von familiärem Zusammenhalt und starker Nachbarschaftshilfe zeugen. Die kulturelle Identität des Ortes ist stark indisch-guyanisch, was sich in prächtigen Mandirs und traditionellen Festen widerspiegelt.",
+      "factsAdvanced": [
+        "Liegt etwa 14 Kilometer östlich von Georgetown.",
+        "Historisch Teil eines großen Kolonial-Plantagenkomplexes.",
+        "Bekannt für seine lebendigen religiösen Feste wie Diwali.",
+        "Beherbergt eine bedeutende indo-guyanische Bevölkerung.",
+        "Wichtige Bildungseinrichtungen wie die Annandale Secondary School befinden sich hier.",
+        "Profitierte stark von der Expansion der Küsteninfrastruktur."
+      ]
+    },
+    {
+      "id": "enmore-cities-v2",
+      "descriptionAdvanced": "Enmore hat sich als ein historisch bedeutsamer Ort in Guyana etabliert, tief verwurzelt in der Arbeiterbewegung der Zuckerindustrie. Das Dorf gedenkt stolz der Enmore Martyrs, deren Proteste im Jahr 1948 den Weg für bessere Arbeitsbedingungen ebneten. Heute ist Enmore eine friedliche, aber wachsende Gemeinde, in der Landwirtschaft und Kleinunternehmen die Wirtschaft stützen. Die Denkmäler und die alte Zuckerfabrik erinnern an die Vergangenheit, während neue Generationen das Dorf modernisieren.",
+      "factsAdvanced": [
+        "Bekannt durch den tragischen Streik der Enmore Martyrs von 1948.",
+        "Besitzt ein bedeutendes nationales Denkmal für die Arbeiterrechte.",
+        "Die Enmore Sugar Estate war jahrzehntelang der größte Arbeitgeber.",
+        "Ein multikulturelles Dorf an der Ostküste von Demerara.",
+        "Rund 5.000 Menschen leben im Gemeindegebiet.",
+        "Verfügt über ein eigenes Gemeinde-Zentrum und Sportanlagen."
+      ]
+    },
+    {
+      "id": "lusignan-cities-v2",
+      "descriptionAdvanced": "Lusignan ist ein bekannter Ort an der Küste von Demerara, der für seine starke Gemeinschaft und wirtschaftliche Vielfalt geschätzt wird. Einst von den weiten Zuckerrohrfeldern dominiert, hat sich die Gemeinde heute auf Handwerk, Fischerei und den Dienstleistungssektor ausgeweitet. Der Ort verfügt über einen belebten Markt und eine der wichtigsten Golfanlagen Guyanas, die eine sportliche Besonderheit in der Region darstellt. Die Anwohner sind stolz auf ihre landwirtschaftlichen Traditionen, blicken jedoch auch auf eine moderne Entwicklung.",
+      "factsAdvanced": [
+        "Heimat des Lusignan Golf Club, eines der ältesten des Landes.",
+        "Ursprünglich eine große Zuckerplantage in der Kolonialzeit.",
+        "Bekannt für den Fischereihafen und den Fischmarkt.",
+        "Gelegen in der dicht besiedelten Region Demerara-Mahaica.",
+        "Hat eine stark verwurzelte Hindu-Gemeinschaft.",
+        "Erlebte eine beachtliche Expansion des Kleinunternehmertums."
+      ]
+    },
+    {
+      "id": "buxton-cities-v2",
+      "descriptionAdvanced": "Buxton ist eines der berühmtesten und historisch wichtigsten Dörfer in Guyana, bekannt für seinen starken Unabhängigkeitsgeist. Gegründet von befreiten afrikanischen Sklaven in den 1840er Jahren, symbolisiert der Ort bis heute Stolz und Selbstbestimmung. Die Gemeinde ist stark landwirtschaftlich geprägt, vor allem durch Obst- und Gemüseanbau. Mit seinen traditionellen Häusern und tief verwurzelten kulturellen Praktiken bleibt Buxton ein leuchtendes Beispiel für die afro-guyanische Kultur und Gemeinschaftssolidarität.",
+      "factsAdvanced": [
+        "1840 von einer Gruppe ehemals versklavter Afrikaner gekauft.",
+        "Benannt nach dem britischen Abolitionisten Thomas Fowell Buxton.",
+        "Pionier in der Etablierung eines dörflichen Selbstverwaltungssystems.",
+        "Berühmt für die Landwirtschaft, insbesondere den Anbau von Proviant.",
+        "Ein historisches Zentrum der afro-guyanischen Kultur und Bildung.",
+        "Liegt verkehrsgünstig an der Hauptstraße der Ostküste."
+      ]
+    },
+    {
+      "id": "victoria-cities-v2",
+      "descriptionAdvanced": "Victoria hält den stolzen Titel, das erste Dorf in Guyana zu sein, das von befreiten Sklaven nach der Emanzipation gekauft wurde. Diese historische Errungenschaft prägt noch heute das Identitätsgefühl der Bewohner, die ihre reiche Geschichte bei jährlichen Festen feiern. Landwirtschaft und der Anbau von Kokosnüssen sowie Maniok sind traditionelle Einnahmequellen der Familien. Die friedliche, dörfliche Struktur und die historischen Kirchen machen Victoria zu einem wichtigen kulturellen Meilenstein des Landes.",
+      "factsAdvanced": [
+        "Das erste Dorf, das 1839 von freigelassenen Sklaven erworben wurde.",
+        "Hieß ursprünglich Plantage Northbrook vor der Umbenennung.",
+        "Bekannt für die historische Wilberforce Congregational Church.",
+        "Die Landwirtschaft bildet die Basis der lokalen Wirtschaft.",
+        "Pionier bei der Gründung der dörflichen Kooperativbewegung.",
+        "Bewahrt bis heute starke afrikanisch geprägte Traditionen."
+      ]
+    },
+    {
+      "id": "paradise-cities-v2",
+      "descriptionAdvanced": "Paradise ist eine wachsende Verwaltungsgemeinde an der Ostküste von Demerara, die in den letzten Jahrzehnten eine deutliche Modernisierung erfahren hat. Als regionaler Verwaltungssitz bietet der Ort wichtige öffentliche Dienstleistungen für die umliegenden Dörfer. Neue Wohngebiete haben die Bevölkerung ansteigen lassen, was zu einer verbesserten Infrastruktur und neuen Geschäftsmöglichkeiten führte. Trotz der städtischen Entwicklung bewahrt Paradise einen ruhigen Vorstadtcharakter, in dem sich Familien wohlfühlen.",
+      "factsAdvanced": [
+        "Diente lange Zeit als administrativer Hauptsitz der Region 4.",
+        "Erlebt derzeit einen starken Immobilien- und Bauboom.",
+        "Liegt strategisch an der wichtigen Ostküsten-Autobahn.",
+        "Besitzt eine gut ausgebaute schulische Infrastruktur.",
+        "Der Name spiegelt die Hoffnung der frühen Siedler wider.",
+        "Wichtiger Knotenpunkt für Pendler nach Georgetown."
+      ]
+    },
+    {
+      "id": "haslington-cities-v2",
+      "descriptionAdvanced": "Haslington ist eine dicht besiedelte Ortschaft in der Demerara-Mahaica-Region, die durch eine aktive Gemeinschaft und landwirtschaftliches Unternehmertum besticht. Ursprünglich eine kleine Plantage, hat sich das Dorf zu einer Wohngegend mit kleinen Handwerksbetrieben und Marktplätzen entwickelt. Die Straßen sind oft lebhaft, geprägt von Verkäufern lokaler Früchte und Gemüsesorten. Haslington ist ein hervorragendes Beispiel für das friedliche Zusammenleben verschiedener ethnischer Gruppen in Guyana.",
+      "factsAdvanced": [
+        "Teil der historischen Plantagensiedlungen an der Ostküste.",
+        "Stark von landwirtschaftlicher Kleinproduktion geprägt.",
+        "Heimat einer vielfältigen Bevölkerung aus unterschiedlichen Kulturen.",
+        "Gute Anbindung an den öffentlichen Nahverkehr nach Georgetown.",
+        "Verfügt über lokale Märkte für frische Lebensmittel.",
+        "Die Gemeinschaft organisiert oft interkulturelle Feste."
+      ]
+    },
+    {
+      "id": "plaisance-cities-v2",
+      "descriptionAdvanced": "Plaisance ist eine der bekanntesten Siedlungen der afro-guyanischen Gemeinschaft an der Küste, die für ihr kulturelles Erbe und ihre akademischen Errungenschaften berühmt ist. Das Dorf brachte einige von Guyanas prominentesten Musikern und Denkern hervor. Die Wirtschaft konzentriert sich auf Kleingewerbe, und der sonntägliche Straßenmarkt ist ein sozialer Treffpunkt für Einheimische und Nachbarn. Die Energie von Plaisance spiegelt sich in seinen lebendigen Feiern und der starken nachbarschaftlichen Bindung wider.",
+      "factsAdvanced": [
+        "Gekauft im Jahr 1842 von 65 befreiten Sklaven.",
+        "Geburtsort des berühmten guyanischen Musikers Eddy Grant.",
+        "Besitzt einen traditionellen und sehr belebten Line-Top-Markt.",
+        "Bekannt für seine exzellenten Schulen und Bildungstraditionen.",
+        "Nur wenige Kilometer vom Zentrum Georgetowns entfernt.",
+        "Hat den Status als kulturelles Zentrum der Ostküste beibehalten."
+      ]
+    },
+    {
+      "id": "triumph-cities-v2",
+      "descriptionAdvanced": "Triumph ist der aktuelle Verwaltungssitz der Region Demerara-Mahaica und ein zunehmend wichtiges Zentrum für staatliche Dienstleistungen. Die Gemeinde verbindet die historische landwirtschaftliche Umgebung mit modernen behördlichen Einrichtungen, was zu einem stetigen wirtschaftlichen Wachstum führt. Die gut ausgebauten Straßen und die Nähe zu Georgetown machen Triumph zu einem attraktiven Wohnort. Hier zeigt sich die Transformation Guyanas von einer agrarbasierten Gesellschaft zu einer moderneren Wirtschaft.",
+      "factsAdvanced": [
+        "Aktueller administrativer Hauptsitz der Region 4 (Demerara-Mahaica).",
+        "Beherbergt das Gebäude des Regional Democratic Council.",
+        "Ist direkt mit dem Nachbardorf Beterverwagting verbunden.",
+        "Wichtiger Standort für lokale Regierungsbehörden.",
+        "Erlebt ein stetiges Wachstum an gewerblichen Unternehmen.",
+        "Die Gemeinde ist für ihre gut organisierte Infrastruktur bekannt."
+      ]
+    },
+    {
+      "id": "better-hope-cities-v2",
+      "descriptionAdvanced": "Better Hope ist eine dynamische Gemeinde nahe Georgetown, die von der Küstenerweiterung und neuen Immobilienprojekten profitiert hat. Einst ein traditionelles Dorf, bietet es heute eine perfekte Balance aus Wohnkomfort und geschäftlichen Aktivitäten. Viele Einwohner pendeln in die Hauptstadt, genießen aber am Abend die Ruhe ihres Vorstadtlebens. Die starke indisch-guyanische Präsenz sorgt für reiche kulturelle Traditionen, die besonders an religiösen Feiertagen das Straßenbild verzaubern.",
+      "factsAdvanced": [
+        "Ursprünglich eine niederländische Zuckerplantage namens 'Beter Hoop'.",
+        "Wurde zu einer modernen Wohn- und Pendlergemeinde transformiert.",
+        "Sehr starke und sichtbare indo-guyanische Kulturgemeinschaft.",
+        "Besitzt eines der beliebtesten Gemeindezentren an der Ostküste.",
+        "Die Nähe zur Hauptstadt zieht viele neue Immobilienprojekte an.",
+        "Bekannt für lebhafte Feiern des Diwali-Lichterfestes."
+      ]
+    }
+  ]
+}

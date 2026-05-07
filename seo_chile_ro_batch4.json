@@ -1,0 +1,33 @@
+{
+  "lang": "ro",
+  "country": "chile",
+  "files": [
+    "lib/visualLab/data/poiExtraChileReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cordillera-de-los-andes-relief-v2",
+      "descriptionAdvanced": "Munții Anzi definesc coloana vertebrală a Chile, fiind cel mai lung lanț muntos continental din lume și o barieră naturală impunătoare care influențează radical clima și viața în regiune. Acesta găzduiește numeroase vârfuri vulcanice și trecători montane esențiale pentru transport și comerț. Din perspectivă geologică, Anzii sunt rezultatul subducției plăcilor tectonice Nazca sub placa Sud-Americană, un proces continuu care generează activitate seismică și vulcanică. Înțelegerea Anzilor este fundamentală pentru orice elev sau pasionat de geografie, deoarece acest lanț muntos modelează întreaga ecologie și hidrologie a țării. Geografie K7 — plăci tectonice și relief.",
+      "factsAdvanced": [
+        "Tip: Cel mai lung lanț muntos continental",
+        "Formare: Subducție plăci tectonice",
+        "Impact: Influențează clima și hidrologia",
+        "Specific: Activitate seismică și vulcanică",
+        "Rol: Coloana vertebrală a Chile",
+        "Proces: Dinamică tectonică continuă"
+      ]
+    },
+    {
+      "id": "desierto-de-atacama-relief-v2",
+      "descriptionAdvanced": "Deșertul Atacama este cunoscut drept cel mai arid loc non-polar de pe Pământ, situat între Anzi și coasta Pacificului. Peisajul său este un amestec fascinant de câmpii saline, vulcani și dune, fiind un teren predilect pentru observarea astronomică datorită cerului extrem de limpede. Geologic, regiunea a suferit o ariditate extremă de milioane de ani, păstrând urme ale vieții și activității umane neatinse de factorii atmosferici uzuali. Deșertul nu este doar un peisaj spectaculos, ci și o resursă economică vitală prin depozitele sale imense de minerale (cupru, litiu, nitrați). Geografie K6 — ariditate și resurse minerale.",
+      "factsAdvanced": [
+        "Statut: Cel mai arid loc non-polar",
+        "Caracteristică: Câmpii saline și vulcani",
+        "Astronomie: Ideal pentru observații",
+        "Geologie: Ariditate de milioane de ani",
+        "Economie: Depozite de cupru, litiu",
+        "Importanță: Resursă naturală majoră"
+      ]
+    }
+  ]
+}

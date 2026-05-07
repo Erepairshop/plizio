@@ -16,13 +16,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Home to mountain gorillas", "Founded in 1925", "Volcanic area", "UNESCO World Heritage site"]
     }, image: "/poi-images/virunga-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Virunga-Nationalpark wirkt wie ein schmaler gr?ner G?rtel zwischen Vulkanen, Regenwald und Siedlungsr?umen im Osten der DR Kongo. Hier wechseln sich Lavah?nge, Bergw?lder und offenes Hochland ab, und genau diese Mischung erkl?rt, warum Berggorillas, Waldelefanten und zahlreiche Vogelarten auf engem Raum leben. Der Park steht f?r einen sehr empfindlichen Grenzraum zwischen Schutz, Forschung und Alltag. F?r den Plizio-Kontext passt er zu Geografie K7 und ?kologie K8: Vulkane, Schutzgebiete und menschliche Nutzung treffen hier direkt aufeinander.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) virunga-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru virunga-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1925 gegr?ndet", "Nord-Kivu", "Albertine Rift", "Nyiragongo", "Nyamulagira", "Berggorillas", "UNESCO-Welterbe", "Grenzraum zu Uganda und Ruanda"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru virunga-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -42,13 +42,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Lowland gorillas", "Mount Kahuzi", "Mount Biega", "Tropical rainforest"]
     }, image: "/poi-images/kahuzi-biega-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kahuzi-Biega-Nationalpark verbindet dichtes Berg- und Tieflandwaldgebiet mit zwei markanten Vulkanmassiven, nach denen er benannt ist. Besonders bekannt ist er f?r die ?stlichen Flachlandgorillas, die in gro?en Waldfl?chen zwischen Bukavu, Hochland und Regenwald leben. Wer den Park geographisch liest, sieht eine Landschaft aus H?henstufen: k?hlerer Bergwald, feuchter Tieflandwald und Flusssysteme im S?dosten des Landes. F?r den Unterricht eignet er sich f?r Geografie K7 und Biologie K8, weil Schutz, Artenvielfalt und Relief hier eng zusammenh?ngen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kahuzi-biega-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kahuzi-biega-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1970 gegr?ndet", "S?d-Kivu", "Massiv Kahuzi", "Massiv Biega", "?stliche Flachlandgorillas", "Bukavu", "UNESCO-Welterbe", "Vulkanlandschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kahuzi-biega-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -68,13 +68,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Okapi sanctuary", "Ituri Rainforest", "High biodiversity", "UNESCO World Heritage site"]
     }, image: "/poi-images/okapi-wildlife-reserve-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Okapi-Wildreservat liegt im dichten Ituri-Regenwald und ist eines der klarsten Beispiele daf?r, wie Schutzgebiete in der DR Kongo Wissen, Artenvielfalt und lokale Lebensr?ume verbinden. Der Name verr?t bereits die Leitart, doch der Ort steht nicht nur f?r das Okapi, sondern auch f?r Waldkultur, Forschung und die Wege der Menschen im Nordosten des Landes. Zwischen Epulu, Waldpfaden und Flussl?ufen entsteht ein Lebensraum, der auf Karten unscheinbar wirkt, biologisch aber extrem reich ist. F?r Plizio passt das zu Biologie K8 und Geografie K7.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) okapi-wildlife-reserve-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru okapi-wildlife-reserve-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1992 eingerichtet", "Ituri-Provinz", "Epulu-Forschungsstation", "UNESCO-Welterbe seit 1996", "Okapi", "Ituri-Regenwald", "Mbuti", "Nordosten der DR Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru okapi-wildlife-reserve-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -94,13 +94,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Bonobos", "Rainforest", "River basin", "Large protected area"]
     }, image: "/poi-images/salonga-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Salonga-Nationalpark ist ein riesiger Waldblock im Kongo-Becken, in dem der Regenwald fast den Eindruck eines eigenen Kontinents erzeugt. Zwischen Fl?ssen, S?mpfen und schwer zug?nglichen Waldzonen leben Bonobos, seltene Primaten und unz?hlige Vogelarten. Seine Bedeutung liegt nicht in einem einzelnen Aussichtspunkt, sondern in der Gr??e des zusammenh?ngenden Waldsystems. Genau das macht ihn f?r Geografie K7 und ?kologie K8 spannend: Hier lassen sich Flussnetz, Klimaraum und Schutzpolitik gemeinsam erkl?ren. Sein Wert liegt auch darin, dass gro?fl?chige Schutzgebiete im Kongo-Becken nur mit Geduld funktionieren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) salonga-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru salonga-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1970 gegr?ndet", "Kongo-Becken", "Bonobos", "Salonga-Fluss", "UNESCO-Welterbe", "gr??tes tropisches Waldschutzgebiet Afrikas", "schwer zug?nglicher Regenwald", "Fluss- und Sumpflandschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru salonga-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -120,13 +120,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Giraffes", "Elephants", "Savanna", "UNESCO World Heritage site"]
     }, image: "/poi-images/garamba-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Garamba-Nationalpark steht f?r eine Savannenlandschaft, in der Grasfl?chen, Bauminseln und offene Ebenen das Bild bestimmen. Anders als im dichten Regenwald des Kongobeckens dominiert hier ein trockeneres, weiter ge?ffnetes Umfeld mit gro?en Wanderungen von Wildtieren. Der Park ist bekannt f?r Elefanten, Giraffen und seine lange Geschichte als Schutzraum im ?u?ersten Nordosten des Landes. F?r den Plizio-Unterricht ist er ideal f?r Geografie K7 und Biologie K8, weil hier Savanne, Grenzraum und Artenschutz direkt zusammengeh?ren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) garamba-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru garamba-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1938 gegr?ndet", "Nordosten der DR Kongo", "nahe der Grenze zum S?dsudan", "UNESCO-Welterbe", "Giraffen", "Elefanten", "Savannenraum", "Schutzgebiet mit langer Ranger-Geschichte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru garamba-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -146,13 +146,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Lakes", "Mountains", "Diverse fauna", "Large area"]
     }, image: "/poi-images/upemba-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Upemba-Nationalpark ist ein Landschaftsmosaik aus Seen, Feuchtgebieten und Hochebene im s?dlichen Katanga. Besonders pr?gend sind die Wasserfl?chen von Upemba und Kisale, die das Gebiet f?r V?gel, Fische und Sumpf?kosysteme wichtig machen. Gleichzeitig liegt der Park in einer Region, die von Bergz?gen und trockeneren Savannen gepr?gt ist. Dadurch eignet er sich f?r Geografie K7 und Naturkunde K8: Wasserhaushalt, Relief und Lebensr?ume lassen sich hier sehr gut verbinden. Gerade die Wasserzonen machen den Park zu einem wichtigen Lernort f?r ?kosysteme und Relief.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) upemba-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru upemba-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1939 gegr?ndet", "Upemba-See", "Kisale-See", "Lualaba-Becken", "Feuchtgebiete", "Savannenmosaik", "s?dliches Katanga", "Vogel- und Fischlebensr?ume"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru upemba-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -172,13 +172,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Waterfalls", "Plateau", "Savanna", "Hiking"]
     }, image: "/poi-images/kundelungu-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kundelungu-Nationalpark zeigt das Hochland im S?dosten der DR Kongo von seiner rauen Seite. Auf dem Plateau wechseln sich Grasland, Felsr?nder und tiefe T?ler ab, und Wasserf?lle wie der Lofoi machen die Landschaft besonders markant. Der Park liegt nicht im Zentrum des Landes, sondern in einer Randzone zwischen H?henstufen, Wind und saisonalen Regenf?llen. Genau das macht ihn zu einem guten Beispiel f?r Geografie K7: Relief, Niederschlag und Vegetation bilden hier ein direkt lesbares System.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kundelungu-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kundelungu-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1970 gegr?ndet", "Haut-Katanga", "Kundelungu-Plateau", "Lofoi-Wasserfall", "Savannenhochland", "Felsstufen", "saisonale Regenf?lle", "H?henlage im S?dosten"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kundelungu-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -198,13 +198,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Bonobos", "Okapi", "Rainforest", "New protection status"]
     }, image: "/poi-images/lomami-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Lomami-Nationalpark ist jung, aber seine Waldlandschaft geh?rt zu den spannendsten Schutzr?umen im Zentrum der DR Kongo. Zwischen Fl?ssen, Prim?rwald und abgelegenen D?rfern sch?tzt er Lebensr?ume, in denen Bonobos und andere seltene Arten vorkommen. Der Park verbindet Forschungsfragen mit praktischer Naturschutzarbeit, weil weite Teile der Region lange kaum kartiert waren. F?r den Plizio-Unterricht eignet er sich f?r Geografie K7 und Biologie K8, da hier Fl?sse, Waldinseln und Artenverbreitung eng zusammenlaufen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lomami-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lomami-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["2016 gegr?ndet", "Lomami-Fluss", "Bonobos", "zentrale DR Kongo", "abgelegene Waldgebiete", "Prim?rwald", "Forschungsgebiet", "Schutzraum f?r seltene Arten"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lomami-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -224,13 +224,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Rainforest", "Gorillas", "Okapi", "Remote"]
     }, image: "/poi-images/maiko-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Maiko-Nationalpark wirkt auf der Karte wie ein dunkler, schwer zug?nglicher Waldkern zwischen Nord-Kivu, S?d-Kivu und Maniema. Genau diese Abgeschiedenheit macht ihn ?kologisch wertvoll: Tiefer Regenwald, Fl?sse und geringe Besiedlung schaffen Raum f?r seltene Arten und wissenschaftliche Expeditionen. Der Park ist ein gutes Beispiel f?r Geografie K7 und Biologie K8, weil hier Erreichbarkeit, Schutz und Biodiversit?t miteinander konkurrieren. Wer Maiko versteht, versteht auch, warum entlegene W?lder in der DR Kongo f?r den Naturschutz so wichtig sind.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) maiko-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru maiko-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1970 gegr?ndet", "Nord-Kivu", "S?d-Kivu", "Maniema", "Regenwaldkern", "seltene Arten", "schwer zug?nglich", "Waldschutz im Kongobecken"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru maiko-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -250,13 +250,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Mangroves", "Coastal area", "Biodiverse", "Congo River mouth"]
     }, image: "/poi-images/mangroves-national-park-life-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mangroven-Nationalpark an der Atlantikk?ste zeigt eine ganz andere Seite der DR Kongo. Statt Hochwald oder Savanne pr?gen hier salzhaltiges Wasser, Schlickfl?chen und Wurzelgeflechte das Bild. Die Mangroven sch?tzen die K?ste, d?mpfen Wellen und dienen Fischen, Krabben und V?geln als Lebensraum. F?r den Plizio-Kontext ist das ein klarer Fall f?r Geografie K7 und ?kologie K8: K?stenprozesse, Brackwasser und Artenschutz treffen direkt aufeinander. Daran l?sst sich auch erkl?ren, wie K?stenr?ume und Fischerei voneinander abh?ngen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mangroves-national-park-life-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mangroves-national-park-life-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Atlantikk?ste", "M?ndung des Kongo", "Kongo-Zentral", "Brackwasser", "Mangrovenwurzeln", "K?stenschutz", "Fische und Krabben", "Vogellebensraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mangroves-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -276,13 +276,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Cocoa farming", "Agriculture", "Export", "Tropical climate"]
     }, image: "/poi-images/kongo-kakaoplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Kakaoplantage steht f?r eine Landwirtschaft, die im feuchtwarmen Tiefland des Kongobeckens besonders gut gedeiht. Kakao braucht Schatten, regelm??ige Feuchtigkeit und sorgf?ltige Nachernteprozesse wie Fermentation und Trocknung, damit aus den Bohnen sp?ter marktf?hige Ware wird. Im Unterricht eignet sich dieses Beispiel f?r Geografie K7 und Wirtschaft K8, weil hier Klima, Boden, Handarbeit und Exportkette zusammenkommen. Die Plantage zeigt auch, wie wichtig saubere Logistik zwischen Feld, Sammelstelle und regionalem Markt ist. So wird sichtbar, wie aus einer einzigen Bohne ein regionaler Wertsch?pfungsraum entsteht.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-kakaoplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-kakaoplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Theobroma cacao", "3 bis 5 Jahre bis zur ersten Ernte", "Schattenb?ume", "5 bis 7 Tage Fermentation", "Sonnentrocknung", "Schoten wachsen am Stamm", "feuchtwarmes Tiefland", "Exportrohstoff f?r Schokolade"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-kakaoplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -302,13 +302,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Playground", "Recreation", "Families", "Kinshasa"]
     }, image: "/poi-images/kinshasa-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kinshasa Kinderpark setzt einen ruhigen Gegenpol zur dicht bebauten Hauptstadt am S?dufer des Kongo. Zwischen Wohnvierteln, Verkehr und Verwaltung braucht eine Millionenstadt Orte, an denen Kinder sicher spielen und sich bewegen k?nnen. Gerade in Kinshasa ist ein solcher Park mehr als Freizeit: Er ist ein st?dtischer Lernraum f?r Bewegung, Begegnung und Orientierung. F?r Plizio passt das zu Sachkunde K3 und Geografie K7, weil hier Stadtleben, ?ffentlicher Raum und Familienalltag zusammenkommen. Das ist in einer Stadt mit Millionen Einwohnern kein Luxus, sondern Teil urbaner Lebensqualit?t.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kinshasa-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kinshasa-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hauptstadt seit 1960", "am linken Ufer des Kongo", "gegen?ber von Brazzaville", "gr??te Stadt der DR Kongo", "tropisches Klima", "?ffentlicher Freiraum", "Familienalltag", "urbaner Lernraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kinshasa-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -328,13 +328,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Coffee farming", "Mountain region", "Export product", "Agriculture"]
     }, image: "/poi-images/kongo-kaffeeplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Kaffeeplantage verweist auf ein Produktionssystem, das besonders in Hochlandzonen und an gut entw?sserten H?ngen funktioniert. Kaffee ist in der DR Kongo nicht nur ein Konsumgut, sondern auch ein Agrarprodukt mit Geschichte, Arbeitspl?tzen und regionalen Handelswegen. Zwischen Pfl?ckung, Sortierung, Trocknung und R?stung entsteht eine Kette, die stark von Temperatur, H?he und Sorgfalt abh?ngt. F?r den Plizio-Kontext ist das ein gutes Beispiel f?r Geografie K7 und Wirtschaft K8, weil Rohstoff, Klima und Markt direkt zusammenwirken.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-kaffeeplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-kaffeeplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Coffea arabica", "Coffea canephora", "3 bis 4 Jahre bis zur ersten Ernte", "H?henlage", "Handernte", "Sortierung und Trocknung", "Exportprodukt", "gut entw?sserte H?nge"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-kaffeeplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -354,13 +354,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Palm oil", "Agriculture", "Large operation", "Tropics"]
     }, image: "/poi-images/kongo-palmoelplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Palm?lplantage steht f?r eine der produktivsten tropischen Kulturpflanzen der Region. ?lpalmen liefern Fr?chte, aus denen Speise?l, Seife und technische Rohstoffe entstehen. Solche Plantagen brauchen W?rme, Wasser und eine klare Erntelogik, weil die Fruchtst?nde schnell verarbeitet werden m?ssen. Im Unterricht l?sst sich daran gut zeigen, wie Landwirtschaft, Industrie und Alltag miteinander verbunden sind. F?r Plizio passt das zu Geografie K7 und Wirtschaft K8, insbesondere beim Thema tropische Agrarr?ume. Die Plantage zeigt damit eine Kette von der Frucht zum Alltagseinsatz in K?che und Haushalt.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-palmoelplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-palmoelplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Elaeis guineensis", "3 bis 4 Jahre bis zur ersten Ernte", "Fruchtst?nde", "schnelle Verarbeitung nach der Ernte", "Speise?l", "Seife", "Tropenklima", "Agrar- und Industrieprodukt"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-palmoelplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -380,13 +380,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Playground", "Recreation", "Lubumbashi", "Families"]
     }, image: "/poi-images/lubumbashi-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Lubumbashi Kinderpark liegt in einer Stadt, die stark vom Bergbau und von der s?dlichen Hochlandlage gepr?gt ist. Gerade deshalb kann ein Familienpark hier als entspannter Gegenraum funktionieren: zwischen Verkehr, Markt und Industrie wird ein Ort gebraucht, an dem Kinder spielen und Eltern pausieren k?nnen. Lubumbashi verbindet urbane Infrastruktur mit dem Charakter des s?dlichen Kupferg?rtels. F?r Plizio eignet sich das f?r Sachkunde K3 und Geografie K7, weil Stadtstruktur und Alltagsnutzung zusammen sichtbar werden.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) lubumbashi-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru lubumbashi-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["1910 gegr?ndet", "Hauptstadt von Haut-Katanga", "Kupferg?rtel", "Bergbauzentrum", "s?d?stliche DR Kongo", "st?dtischer Erholungsraum", "Familienort", "Hochlandstadt"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lubumbashi-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -406,13 +406,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Peanuts", "Agriculture", "Regional product", "Soil"]
     }, image: "/poi-images/kongo-erdnussfeld-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kongo-Erdnussfeld zeigt, wie anpassungsf?hig Erdn?sse in tropischen Agrarr?umen sein k?nnen. Auf gut drainierten B?den liefern sie Nahrung, ?l und einen wichtigen Beitrag zur lokalen Ern?hrung. Das Feld steht f?r kleinr?umige Landwirtschaft, bei der Fruchtfolge, Bodenpflege und Erntezeit entscheidend sind. F?r Plizio ist das ein klassisches Beispiel f?r Geografie K7 und Wirtschaft K8, weil man daran Agrarsysteme, Ern?hrungssicherheit und regionale M?rkte gut erkl?ren kann. Gerade kleinr?umige Felder wie dieses st?tzen Familien und lokale M?rkte zugleich.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-erdnussfeld-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-erdnussfeld-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Arachis hypogaea", "H?lsenfrucht", "stickstoffbindend", "90 bis 150 Tage Reifezeit", "gut drainierte B?den", "Fruchtfolge", "?l und Snacks", "tropische Landwirtschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-erdnussfeld-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -432,13 +432,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Sugarcane", "Sugar", "Agriculture", "Tropical"]
     }, image: "/poi-images/kongo-zuckerrohrplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Zuckerrohrplantage zeigt einen Hochleistungsanbau, der viel W?rme, Wasser und gro?e zusammenh?ngende Fl?chen braucht. Zuckerrohr w?chst schnell, wird aber erst nach mehreren Monaten geerntet und sofort in die Weiterverarbeitung gebracht. Das macht die Verbindung zwischen Feld und Fabrik besonders eng. F?r den Plizio-Kontext eignet sich dieses Beispiel f?r Geografie K7 und Wirtschaft K8, weil man daran Agrarproduktion, Verarbeitung und Binnenmarkt sehr gut erkl?ren kann. Ohne diese schnelle Logistik verliert das Feld rasch an wirtschaftlichem Wert.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-zuckerrohrplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-zuckerrohrplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Saccharum officinarum", "12 bis 18 Monate Reifezeit", "Verarbeitung kurz nach der Ernte", "Zucker", "Melasse", "Bew?sserung wichtig", "tropisches Klima", "Industrieanschluss"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-zuckerrohrplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -458,13 +458,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Playground", "Goma", "Families", "Recreation"]
     }, image: "/poi-images/goma-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Goma Kinderpark liegt in einer Stadt, deren Alltag von Vulkanen, Grenzverkehr und dem Kivusee gepr?gt ist. Ein Kinderspielraum hat hier deshalb auch eine soziale Funktion: Er schafft einen sicheren, ?berschaubaren Ort in einer dynamischen Stadt am Rand des Virunga-Raums. Die N?he zu Natur und Stadt macht Goma f?r Plizio interessant, weil sich Geografie K7 und Sachkunde K3 direkt verbinden lassen. Kinder erleben dort nicht nur Spiel, sondern auch urbane Resilienz. Der Park kann so auch ein Gegenpol zu vulkanischer Unsicherheit und dichtem Verkehr sein.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) goma-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru goma-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["am Nordufer des Kivusees", "nahe dem Nyiragongo", "Nord-Kivu", "Grenzstadt zu Ruanda", "Vulkanregion", "st?dtischer Freiraum", "Familienalltag", "Virunga-Raum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru goma-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -484,13 +484,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Bananas", "Agriculture", "Tropical fruit", "Export"]
     }, image: "/poi-images/kongo-bananenplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Bananenplantage steht f?r ein Grundnahrungsmittel, das in der DR Kongo fast zum Alltag geh?rt. Bananen und Kochbananen wachsen in warmen, feuchten Regionen und sichern in vielen Haushalten sowohl Ern?hrung als auch Einkommen. Die Plantage zeigt, wie Landwirtschaft zwischen Selbstversorgung und Marktproduktion funktioniert. F?r Plizio passt das zu Geografie K7 und Wirtschaft K8, weil Klima, Arbeitsaufwand und regionale Versorgung unmittelbar sichtbar werden. Darum geh?rt die Pflanze in vielen D?rfern zur t?glichen Grundversorgung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-bananenplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-bananenplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Musa-Arten", "Kochbananen", "ganzj?hriges Wachstum", "mehrmals pro Jahr Ernte m?glich", "empfindlich gegen Wind", "warme Feuchtigkeit", "Grundnahrungsmittel", "lokale M?rkte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-bananenplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -510,13 +510,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Playground", "Kisangani", "Recreation", "Kids"]
     }, image: "/poi-images/kisangani-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kisangani Kinderpark liegt in einer Stadt am gro?en Flusssystem des Kongo, wo Hafen, Handel und Wohnviertel zusammenkommen. Ein solcher Park bietet Familien einen klaren Ruhepunkt in einer Region, die vom Wasserweg und von urbanen Wegen gepr?gt ist. Kisangani ist f?r den Plizio-Unterricht interessant, weil sich hier Flussstadt, Wirtschaft und Alltag leicht miteinander verbinden lassen. Der Kinderpark wird damit zu einem kleinen Lernort f?r st?dtische Lebensqualit?t und sichere Freizeit. So wird Freizeit zu einem konkreten Teil der st?dtischen Daseinsvorsorge.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kisangani-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kisangani-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["am Kongo-Fluss", "Provinzhauptstadt Tshopo", "wichtiges Handelszentrum", "Boyoma-F?lle", "Flusshafen", "urbaner Familienort", "tropische Stadt", "Verkehrsknoten im Osten"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kisangani-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -536,13 +536,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Rice", "Agriculture", "Staple food", "Field"]
     }, image: "/poi-images/kongo-reisfeld-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kongo-Reisfeld zeigt, wie wichtig Wassersteuerung f?r den Reisanbau in tropischen R?umen ist. Reis w?chst hier in Parzellen, die je nach Lage ?berflutet, bew?ssert oder abwechselnd trockengelegt werden. Das Feld steht damit f?r Ern?hrungssicherheit und arbeitsintensive Landwirtschaft zugleich. F?r Plizio eignet es sich f?r Geografie K7 und Wirtschaft K8, weil sich an Reis sehr gut erkl?ren l?sst, wie Klima, Wasser und regionale Versorgung zusammenwirken. In solchen Feldern h?ngt die Ernte direkt von Regenzeit und Wasserf?hrung ab.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-reisfeld-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-reisfeld-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Oryza sativa", "Nassreis und Trockenreis", "Wasserstand entscheidend", "mehrere Sorten", "Aussaat und Umpflanzen", "Grundnahrungsmittel", "90 bis 180 Tage bis zur Ernte", "tropische Landwirtschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-reisfeld-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -562,13 +562,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Bukavu", "Playground", "Families", "Recreation"]
     }, image: "/poi-images/bukavu-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Bukavu Kinderpark liegt in einer Stadt am S?dufer des Kivusees, wo steile H?nge, dichte Bebauung und Seen?he das Leben pr?gen. Ein Familienort wie dieser schafft eine kleine Pause zwischen Markt, Schule und Alltag. Bukavu ist wegen seiner Lage und seines urbanen Drucks ein gutes Beispiel f?r den Plizio-Unterricht, vor allem f?r Geografie K7 und Sachkunde K3. Der Park zeigt, wie ?ffentlicher Raum in einer Bergstadt funktionieren kann. Die Lage am Hang macht sichere Spielfl?chen dort besonders wertvoll.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) bukavu-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru bukavu-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["am Kivusee", "S?d-Kivu", "steile H?nge", "Provinzhauptstadt", "Grenzn?he zu Ruanda", "Handel und Bildung", "st?dtischer Erholungsraum", "Bergstadt"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru bukavu-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -588,13 +588,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Cassava", "Agriculture", "Food", "Field"]
     }, image: "/poi-images/kongo-manjokfeld-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kongo-Maniokfeld ist zentral f?r die Ern?hrung in vielen Teilen der DR Kongo, weil Maniok auch auf ?rmeren B?den zuverl?ssig w?chst. Aus den Wurzeln werden Fufu, Mehl und andere Grundnahrungsmittel hergestellt. Das Feld steht damit f?r Sicherheit, Anpassungsf?higkeit und t?gliche Versorgung. F?r Plizio eignet es sich besonders f?r Geografie K7 und Wirtschaft K8, weil man daran Nahrungspflanzen, Arbeitsabl?ufe und regionale M?rkte anschaulich erkl?ren kann. Daf?r wird der Wurzelanbau in vielen Haushalten fast zum Ern?hrungsanker.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-manjokfeld-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-manjokfeld-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Manihot esculenta", "Wurzelknollen", "12 bis 18 Monate Wachstum", "Cyanidgehalt in roher Form", "Fufu und Mehl", "robust auf ?rmeren B?den", "Grundnahrungsmittel", "t?gliche Versorgung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-manjokfeld-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -614,13 +614,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Tea", "Agriculture", "Highland", "Export"]
     }, image: "/poi-images/kongo-teebau-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kongo-Teeanbau geh?rt typischerweise in k?hlere Hochlandlagen, wo Temperaturen moderater sind als im Tiefland. Tee braucht sorgf?ltige Pfl?ckung, schnelle Verarbeitung und ein Klima ohne extreme Trockenheit. Der Anbau zeigt, wie aus einem scheinbar einfachen Blatt ein Produkt mit globaler Handelsbedeutung wird. F?r den Plizio-Kontext passt das zu Geografie K7 und Wirtschaft K8, weil H?henlage, Arbeitsschritte und Exportlogik hier gut zusammenpassen. Genau diese Lage trennt Qualit?tsanbau von gew?hnlicher Feldproduktion. Auch kleine Plantagen profitieren davon, wenn die Ernte direkt nach dem Pfl?cken sortiert wird.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-teebau-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-teebau-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Camellia sinensis", "Hochlandlage", "zwei bis drei Blattspitzen", "Welken", "Oxidation", "Trocknung", "gr?ner und schwarzer Tee", "mehrere Pfl?ckzyklen"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-teebau-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -640,13 +640,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Matadi", "Playground", "Recreation", "Kids"]
     }, image: "/poi-images/matadi-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Matadi Kinderpark liegt in einer Hafenstadt, die vom Verkehr am Unteren Kongo gepr?gt ist. Matadi ist Umschlagpunkt, Grenzraum und st?dtischer Arbeitsort zugleich, deshalb braucht ein Kinderpark hier besonders klar definierte Freifl?chen. Der Ort eignet sich im Plizio-Kontext f?r Geografie K7 und Sachkunde K3, weil Hafenwirtschaft, Stadtstruktur und Familienalltag in einer kompakten Flusslage zusammentreffen. So wird Freizeit auch zu einem Thema von Stadtplanung. Ein Kinderpark unterst?tzt dort auch den Alltag von Hafenarbeiterfamilien im Alltag.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) matadi-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru matadi-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Unterer Kongo", "Hafenstadt", "Kongo-Zentral", "wichtiges Importtor", "bergiges Flusstal", "Verkehrsknoten", "st?dtischer Familienraum", "Flusswirtschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru matadi-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -666,13 +666,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Pineapple", "Agriculture", "Tropical fruit", "Market"]
     }, image: "/poi-images/kongo-ananasplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Ananasplantage zeigt, wie tropische Fr?chte auf warmen, gut drainierten B?den wachsen und zugleich lokale M?rkte versorgen k?nnen. Ananas braucht Sonne, aber keine Staun?sse, und die Ernte ist nur dann wirtschaftlich, wenn Sortierung und Transport schnell funktionieren. Die Plantage verbindet Gartenbau, Frischmarkt und Verarbeitung sehr direkt. F?r Plizio ist das ein gutes Beispiel f?r Geografie K7 und Wirtschaft K8, weil man daran Klima, Boden und Marktlogistik gleicherma?en erkl?ren kann. Gerade in feuchten Regionen ist die richtige Bodenstruktur entscheidend.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-ananasplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-ananasplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ananas comosus", "18 bis 24 Monate bis zur Ernte", "Kindel als Pflanzmaterial", "gute Drainage", "Vitamin C", "Handernte", "Frischmarkt", "Verarbeitung nach der Ernte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-ananasplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -692,13 +692,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Mbandaka", "Playground", "Recreation", "Kids"]
     }, image: "/poi-images/mbandaka-kinderpark-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Mbandaka Kinderpark liegt in einer Flussstadt am ?quatorg?rtel, in der der Kongo-Fluss den Alltag pr?gt. Hafen, Regenwaldn?he und Provinzverwaltung sorgen daf?r, dass ein familienfreundlicher Freiraum mehr ist als blo?e Freizeitfl?che. Er bietet Kindern und Eltern einen Ort f?r Ruhe, Spiel und Orientierung in einer Stadt, die stark vom Wasserweg abh?ngig ist. F?r Plizio passt das zu Sachkunde K3 und Geografie K7, weil sich hier Flusslage, Stadtleben und ?ffentliche Nutzung sehr gut verbinden lassen. Auch der Rhythmus von Regen und Verkehr wird damit greifbar.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) mbandaka-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru mbandaka-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinzhauptstadt ?quateur", "am Kongo-Fluss", "nahe dem ?quator", "Flusshafen", "Regenwaldregion", "ehemals Coquilhatville", "Wasserweg", "urbaner Familienraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru mbandaka-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -718,13 +718,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Corn", "Agriculture", "Food", "Field"]
     }, image: "/poi-images/kongo-mais-feld-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kongo-Maisfeld steht f?r eine Kulturpflanze, die schnell w?chst und in vielen Regionen als Alltagsnahrung dient. Mais passt besonders gut zu Feldern, auf denen zwischen Regen, Sonne und Fruchtfolge gearbeitet wird. Aus dem Korn entstehen Brei, Mehl und Tierfutter, sodass das Feld zugleich Ern?hrung und Viehhaltung st?tzt. F?r Plizio ist das ein klares Beispiel f?r Geografie K7 und Wirtschaft K8, weil Anbau, Ernte und lokale Versorgung hier zusammenlaufen. Gerade die Zeilenstruktur im Feld zeigt, wie planbar die Kultur sein kann.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-mais-feld-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-mais-feld-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zea mays", "90 bis 120 Tage bis zur Ernte", "Reihenanbau", "Mehl und Brei", "Tierfutter", "Fruchtfolge", "Regenzeit", "st?rkehaltig"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-mais-feld-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -744,13 +744,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Rubber", "Gum", "Agriculture", "Industry"]
     }, image: "/poi-images/kongo-gummibaumplantage-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kongo-Gummibaumplantage zeigt eine Spezialkultur, bei der der Milchsaft des Baumes im Mittelpunkt steht. Kautschuk entsteht nicht sofort im Werk, sondern beginnt mit dem vorsichtigen Anritzen der Rinde und dem Auffangen des Latex. Danach folgen Gerinnung, Trocknung und Weiterverarbeitung zu Produkten wie Reifen oder Handschuhen. F?r Plizio eignet sich dieses Beispiel f?r Geografie K7 und Wirtschaft K8, weil hier Tropenklima, Plantagenwirtschaft und Industrie zusammengeh?ren. Die langen Reihen der B?ume machen die Produktionsform auch r?umlich gut lesbar.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kongo-gummibaumplantage-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kongo-gummibaumplantage-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Hevea brasiliensis", "5 bis 7 Jahre bis zur Anzapfung", "Latex", "Morgenritzung der Rinde", "Gerinnung", "Reifen und Handschuhe", "Tropenfeuchte", "Plantagenreihen"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-gummibaumplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -770,13 +770,13 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: ["Kolwezi", "Playground", "Recreation", "Kids"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kolwezi Kinderpark liegt in einer Bergbaustadt, deren Bedeutung stark mit Kupfer und Kobalt verbunden ist. Zwischen Gruben, Werkverkehr und Wohnquartieren braucht eine solche Stadt Orte, an denen Kinder sicher spielen k?nnen und Familien f?r einen Moment aus dem Rohstoffalltag herauskommen. Kolwezi steht im s?dlichen Wirtschaftsraum der DR Kongo und zeigt, wie eng Industrie und Stadtentwicklung miteinander verbunden sind. F?r Plizio passt das zu Sachkunde K3 und Geografie K7, weil hier Bergbau, Urbanisierung und Freizeit nebeneinander sichtbar werden. Der Park ist damit ein kleiner Gegenpol zur schweren Industrielogik.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) kolwezi-kinderpark-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru kolwezi-kinderpark-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Lualaba", "Bergbaustadt", "Kupfer und Kobalt", "s?dlicher Kupferg?rtel", "Wachstum durch Rohstoffe", "Familienraum", "urbaner Freiraum", "Industrie und Stadtentwicklung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kolwezi-kinderpark-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []

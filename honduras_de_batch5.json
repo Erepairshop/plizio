@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nacaome-agri-economic-v2",
+      "descriptionAdvanced": "Die Landwirtschaft rund um Nacaome ist stark von den extrem heißen und trockenen Bedingungen des südlichen Departements Valle geprägt. Um hier überleben zu können, haben sich die Bauern auf widerstandsfähige Kulturen spezialisiert, allen voran Wassermelonen, die in der Trockenzeit angebaut werden und eine der wichtigsten Exportfrüchte der Region darstellen. Ergänzt wird die landwirtschaftliche Produktion durch weite Felder von trockenheitsresistentem Sorghum (Maicillo), das als Tierfutter dient, und Cashewnüsse. Zudem spielt die Meersalzgewinnung an den nahen Küstenabschnitten eine wichtige wirtschaftliche Rolle. Geografie K7 — Trockenlandwirtschaft und Exportfrüchte.",
+      "factsAdvanced": [
+        "Eines der wichtigsten honduranischen Anbaugebiete für Wassermelonen.",
+        "Spezialisiert auf trockenheitsresistente Pflanzen wie Sorghum und Cashew.",
+        "Das Klima ist heiß und trocken, was spezielle Bewässerungstechniken erfordert.",
+        "Die Region profitiert auch von der Meersalzgewinnung an der nahen Küste.",
+        "Wassermelonen aus Nacaome werden großflächig in die USA exportiert.",
+        "Ein Großteil der Ernte findet paradoxerweise während der Trockenzeit (Verano) statt."
+      ]
+    },
+    {
+      "id": "puerto-lempira-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Puerto Lempira an der Karatasca-Lagune ist das absolute logistische Lebenselixier für die abgelegene Region La Mosquitia. Da es keine Straßenverbindungen zum Rest von Honduras gibt, erreichen fast alle Treibstoffe, Baumaterialien, Lebensmittel und medizinischen Güter das riesige Departement Gracias a Dios über diesen kleinen Seehafen. Im Gegenzug exportiert die Region von hier aus Fisch, Hummer, Quallen und illegal geerntetes Edelhölzer. Der Hafen wird oft von motorisierten Einbäumen (Pipantes) und Küstenfrachtern bevölkert, was ihm ein einzigartiges, ländliches maritimes Flair verleiht. Wirtschaft K8 — Isolierte Logistik und maritime Versorgung.",
+      "factsAdvanced": [
+        "Der einzige größere Versorgungshafen für das gesamte Departement Gracias a Dios.",
+        "Da es keine Straßen gibt, läuft der gesamte Güterverkehr über das Wasser.",
+        "Hauptexportpunkt für die regionale Hummer- und Fischereiindustrie.",
+        "Liegt geschützt im Inneren der riesigen Karatasca-Lagune.",
+        "Wird von großen Küstenfrachtern und traditionellen Pipantes (Einbäumen) angefahren.",
+        "Häufiger Anlaufpunkt für humanitäre und militärische Versorgungsmissionen."
+      ]
+    },
+    {
+      "id": "fuerte-san-fernando-omoa-history-v2",
+      "descriptionAdvanced": "Die Fortaleza de San Fernando de Omoa ist eine der massivsten und besterhaltenen spanischen Festungen in ganz Zentralamerika. Sie wurde im späten 18. Jahrhundert von den spanischen Kolonialherren erbaut, um den reichen Silberhandel vor den unaufhörlichen Angriffen englischer, französischer und niederländischer Piraten zu schützen. Das beeindruckende Bauwerk aus Korallengestein und Ziegeln bedeckt eine Fläche von über 4.000 Quadratmetern. Im Laufe ihrer Geschichte diente die Festung nicht nur als militärische Verteidigungsanlage, sondern im 19. und 20. Jahrhundert auch als berüchtigtes politisches Gefängnis. Geschichte K8 — Piraterie und koloniale Verteidigungsanlagen.",
+      "factsAdvanced": [
+        "Erbaut zwischen 1759 und 1775 zur Verteidigung gegen Piraten.",
+        "Die Struktur besteht zu großen Teilen aus lokalem Korallengestein.",
+        "Gilt als größte koloniale Festung in Zentralamerika (über 4.400 m²).",
+        "Wurde 1779 kurzzeitig von britischen Truppen eingenommen.",
+        "Diente im 19. und 20. Jahrhundert als gefürchtetes politisches Gefängnis.",
+        "Heute ein nationales Monument und beliebtes historisches Museum."
+      ]
+    },
+    {
+      "id": "cerro-palenque-archaeology-history-v2",
+      "descriptionAdvanced": "Cerro Palenque ist eine faszinierende archäologische Stätte im Ulúa-Tal in der Nähe von San Pedro Sula. Obwohl sie weniger berühmt ist als Copán, war Cerro Palenque während der späten klassischen Periode (ca. 850–1100 n. Chr.) die größte und einflussreichste Stadt in der Region. Die Stätte hebt sich durch ihre einzigartige Architektur und ihr ausgedehntes Ballspielplatz-System ab. Anders als Copán wurde Cerro Palenque nicht von den Maya dominiert, sondern von Lenca- oder Jicaque-Gruppen, die ein starkes Handelsnetzwerk unterhielten und sich durch feine Marmorvasen und polychrome Keramik auszeichneten. Archäologie K8 — Mesoamerikanische Netzwerke und Ulúa-Kultur.",
+      "factsAdvanced": [
+        "Größte präkolumbianische Siedlung im Ulúa-Tal (850–1100 n. Chr.).",
+        "Besitzt ein beeindruckendes, großes mesoamerikanisches Ballspielfeld.",
+        "War ein wichtiges Zentrum für den Handel mit lokal gefertigten Marmorgefäßen.",
+        "Bewohnt von nicht-Maya-Völkern, vermutlich Lenca oder Jicaque.",
+        "Liegt strategisch auf einem Hügel nahe dem Zusammenfluss von Ulúa und Comayagua.",
+        "Wurde in den 1980er Jahren intensiv durch Archäologen kartiert und erforscht."
+      ]
+    },
+    {
+      "id": "cueva-del-gigante-marcala-history-v2",
+      "descriptionAdvanced": "Die Cueva del Gigante (Höhle des Riesen) nahe Marcala ist eine der wichtigsten archäologischen Fundstätten in ganz Zentralamerika. In dieser massiven Felsnische fanden Archäologen Spuren menschlicher Besiedlung, die über 11.000 Jahre alt sind und damit zu den ältesten Zeugnissen menschlichen Lebens in Mesoamerika gehören. Die außergewöhnlich trockenen Bedingungen in der Höhle haben organische Materialien wie geflochtene Körbe, Seile, Maiskolben und Knochenwerkzeuge über Jahrtausende hinweg perfekt konserviert. Die Höhlenwände sind zudem mit uralten, mysteriösen Felsmalereien verziert. Geschichte K7 — Erste menschliche Siedlungen in Mesoamerika.",
+      "factsAdvanced": [
+        "Menschliche Überreste datieren zurück bis 9.480 v. Chr. (über 11.000 Jahre alt).",
+        "Eine der ältesten nachgewiesenen menschlichen Siedlungen in Zentralamerika.",
+        "Trockenes Höhlenklima konservierte organische Materialien wie Körbe und Mais.",
+        "Die Felswände zeigen alte Piktogramme und Malereien.",
+        "Die Haupthöhle ist etwa 30 Meter tief und 40 Meter breit.",
+        "Wurde 1994 von dem Archäologen George Hasemann ausführlich dokumentiert."
+      ]
+    },
+    {
+      "id": "kirche-san-marcos-gracias-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San Marcos ist das architektonische Juwel und der spirituelle Mittelpunkt der historischen Stadt Gracias. Erbaut im 18. Jahrhundert, dominiert sie den zentralen Platz der Stadt. Die Kirche ist ein klassisches Beispiel für den honduranischen Barockstil, mit einer strahlend weißen Fassade, die mit detaillierten floralen Stuckornamenten verziert ist. Im Inneren beherbergt San Marcos prächtige handgeschnitzte Holzaltäre und antike Heiligenfiguren aus der Kolonialzeit. Jedes Jahr im April ist die Kirche der Mittelpunkt der Feierlichkeiten zu Ehren des Schutzpatrons San Marcos. Kunst und Kultur K6 — Kolonialbarock und religiöse Feste.",
+      "factsAdvanced": [
+        "Erbaut im 18. Jahrhundert im honduranischen Kolonialbarockstil.",
+        "Befindet sich am Parque Central in der historischen Stadt Gracias.",
+        "Die Fassade ist für ihre detaillierten floralen Stuckverzierungen bekannt.",
+        "Beherbergt wertvolle vergoldete Holzaltäre aus der Kolonialzeit.",
+        "Eines der wichtigsten religiösen Wahrzeichen im Westen des Landes.",
+        "Der Schutzpatron San Marcos wird hier jedes Jahr im April groß gefeiert."
+      ]
+    },
+    {
+      "id": "kirche-san-sebastian-comayagua-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San Sebastián in der alten Hauptstadt Comayagua wurde um 1580 erbaut und ist eine der ältesten erhaltenen Kirchen in Honduras. Ursprünglich lag sie am Rande der Stadt und wurde erbaut, um den indigenen und afrikanischen Sklavenbevölkerungen der damaligen Zeit als Gotteshaus zu dienen. Architektonisch ist sie schlichter als die Hauptkathedrale, besitzt aber eine tiefgreifende historische Bedeutung. Im 19. Jahrhundert wurde auf dem Kirchhof der erste Präsident von Honduras, General Trinidad Cabañas, kurzzeitig beerdigt, bevor seine sterblichen Überreste verlegt wurden. Geschichte K7 — Koloniale Sozialstruktur und honduranische Präsidenten.",
+      "factsAdvanced": [
+        "Erbaut um 1580, gehört zu den ältesten Kirchen von Comayagua.",
+        "Ursprünglich für die indigene und afro-honduranische Bevölkerung errichtet.",
+        "Architektonisch schlichter als andere koloniale Kirchen der Stadt.",
+        "Der honduranische Held General Trinidad Cabañas ruhte hier zeitweise.",
+        "Überstand zahlreiche Erdbeben und Konflikte im Laufe der Jahrhunderte.",
+        "Spiegelt die koloniale soziale Trennung in der Stadtplanung wider."
+      ]
+    },
+    {
+      "id": "kirche-san-juan-de-dios-history-v2",
+      "descriptionAdvanced": "Die historische Iglesia de San Juan de Dios in Comayagua ist ein weiteres bemerkenswertes Zeugnis der spanischen Kolonialarchitektur in Honduras. Die Kirche wurde Mitte des 16. Jahrhunderts erbaut und war ursprünglich Teil eines größeren Krankenhauskomplexes (Hospital de San Juan de Dios), der von Mönchen betrieben wurde, um Arme und Kranke zu versorgen. Obwohl das Krankenhaus nicht mehr existiert, steht die einfache, aber würdevolle Kirche noch heute. Ihre dicken Lehm- und Steinmauern haben die Jahrhunderte überdauert und bieten einen Einblick in das koloniale Gesundheitssystem. Geschichte K6 — Koloniale Medizin und klösterliche Orden.",
+      "factsAdvanced": [
+        "Erbaut um das Jahr 1590 in der ehemaligen Hauptstadt Comayagua.",
+        "War ursprünglich die Kapelle des ersten Krankenhauses der Stadt.",
+        "Wurde vom Orden der Barmherzigen Brüder vom hl. Johannes von Gott geführt.",
+        "Diente der medizinischen Versorgung der ärmsten Bevölkerungsschichten.",
+        "Zeichnet sich durch dicke, erdbebensichere Adobe-Mauern (Lehmziegel) aus.",
+        "Das angeschlossene Krankenhausgebäude wurde im 19. Jahrhundert abgerissen."
+      ]
+    },
+    {
+      "id": "kloster-san-francisco-comayagua-history-v2",
+      "descriptionAdvanced": "Das Convento de San Francisco in Comayagua ist das älteste erhaltene Klostergebäude in Honduras und wurde 1574 vom Franziskanerorden gegründet. Der riesige Komplex diente nicht nur als spirituelles Zentrum, sondern auch als Bildungs- und Verwaltungshub der katholischen Kirche während der Kolonialzeit. Die Kirche des Klosters beherbergt die zweitälteste Kirchenglocke Amerikas, bekannt als \"Die Antonina\", die 1482 in Spanien gegossen wurde. Heute ist das restaurierte Gebäude ein wichtiges religiöses und kulturelles Wahrzeichen der Stadt. Geschichte K8 — Franziskaner-Missionen und historische Artefakte.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1574, ist es das älteste Kloster in Honduras.",
+        "Erbaut und geführt vom mächtigen Franziskanerorden.",
+        "Die Kirchenglocke La Antonina von 1482 ist die zweitälteste Amerikas.",
+        "Diente als wichtiges Bildungszentrum während der Kolonialzeit.",
+        "Der Altar der Kirche ist im prächtigen Renaissance-Stil geschnitzt.",
+        "Ein Großteil des ursprünglichen Konvents dient heute religiösen Zwecken."
+      ]
+    },
+    {
+      "id": "casa-de-la-moneda-tegucigalpa-history-v2",
+      "descriptionAdvanced": "Die Casa de la Moneda in Tegucigalpa, auch als Caxa Real bekannt, wurde im späten 18. Jahrhundert errichtet und war das Zentrum der kolonialen Wirtschaft von Honduras. In diesem stark gesicherten Gebäude wurde das aus den umliegenden Minen geförderte Silber und Gold gewogen, besteuert (der \"Königliche Fünfte\") und in Münzen geprägt, bevor es nach Europa verschifft wurde. Das Gebäude hat dicke Steinmauern und schwere Holztore. Heute ist die ehemalige Prägeanstalt ein wichtiges Kulturzentrum und Museum, das die koloniale Bergbaugeschichte und die Entwicklung des honduranischen Lempira dokumentiert. Wirtschaft K8 — Koloniales Steuersystem und Münzprägung.",
+      "factsAdvanced": [
+        "Erbaut zwischen 1739 und 1743 als offizielle koloniale königliche Kasse.",
+        "Ort der Besteuerung (Quinto Real) und Prägung von Silber aus den Minen.",
+        "Befindet sich im historischen Zentrum der Hauptstadt Tegucigalpa.",
+        "Verfügt über dicke Festungsmauern zum Schutz der Edelmetalle.",
+        "Wurde nach einem schweren Erdbeben und Bränden mehrfach restauriert.",
+        "Dient heute als wichtiges nationales Kulturzentrum und Museum."
+      ]
+    },
+    {
+      "id": "kirche-san-francisco-tegucigalpa-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San Francisco ist das älteste kirchliche Gebäude in der Hauptstadt Tegucigalpa, erbaut im Jahr 1592 durch Mitglieder des Franziskanerordens. Das Bauwerk hat über vier Jahrhunderte an Geschichte miterlebt und diente zeitweise sogar als Militärkasernen, als der Staat in Konflikt mit der Kirche stand. Die Architektur zeichnet sich durch massive Mauern aus, die zahlreichen Erdbeben getrotzt haben, und einen wunderschönen barocken Holzaltar im Inneren. Sie ist ein stummer Zeuge der Transformation Tegucigalpas von einem kleinen Bergbaudorf zur Hauptstadt. Architektur K7 — Die ersten Kirchen und militärische Nutzung.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1592, ist es die älteste Kirche in Tegucigalpa.",
+        "Gegründet von spanischen Franziskanermönchen.",
+        "Wurde im 19. Jahrhundert zeitweise als Militärkaserne zweckentfremdet.",
+        "Besitzt einige der schönsten barocken Altarbilder der Stadt.",
+        "Der angrenzende Platz war ein historischer Treffpunkt für Soldaten.",
+        "Das Gebäude überstand zahlreiche Erdbeben und politische Unruhen."
+      ]
+    },
+    {
+      "id": "palast-der-ministerien-tegucigalpa-history-v2",
+      "descriptionAdvanced": "Der Palacio de los Ministerios, heute das Museo para la Identidad Nacional (MIN), ist eines der prächtigsten neoklassizistischen Gebäude in Honduras. Es wurde im Jahr 1882 während der Regierungszeit von Präsident Marco Aurelio Soto erbaut und diente ursprünglich als Sitz der honduranischen Regierung und verschiedener Ministerien, nachdem die Hauptstadt von Comayagua nach Tegucigalpa verlegt wurde. Das Gebäude symbolisiert die Bemühungen der liberalen Reform, Honduras zu modernisieren. Heute beherbergt es das wichtigste historische Museum des Landes und zeigt Ausstellungen von der Maya-Zeit bis zur Moderne. Geschichte K8 — Liberale Reformen und Nationalmuseen.",
+      "factsAdvanced": [
+        "Erbaut 1882 unter Präsident Marco Aurelio Soto im neoklassizistischen Stil.",
+        "Ursprünglich Sitz der Regierung und zahlreicher staatlicher Ministerien.",
+        "Symbolisiert die liberale Reform und die Modernisierung von Honduras.",
+        "Heute Sitz des Museo para la Identidad Nacional (MIN).",
+        "Wurde in den frühen 2000er Jahren aufwendig restauriert.",
+        "Beherbergt eine permanente Ausstellung zur honduranischen Geschichte."
+      ]
+    },
+    {
+      "id": "hebraeischer-friedhof-tegucigalpa-history-v2",
+      "descriptionAdvanced": "Der alte Hebräische Friedhof (Cementerio Hebreo) in Tegucigalpa ist ein stilles, aber beredtes Zeugnis der jüdischen Einwanderung nach Honduras. Gegründet in den frühen Jahrzehnten des 20. Jahrhunderts, war der Friedhof die letzte Ruhestätte für viele aschkenasische und sephardische Juden, die vor Verfolgung in Europa flohen oder als Geschäftsleute ins Land kamen. Die Grabsteine, viele davon mit hebräischen Inschriften und dem Davidstern verziert, spiegeln den bedeutenden Beitrag dieser kleinen Gemeinde zur wirtschaftlichen und kulturellen Entwicklung der Hauptstadt wider. Geschichte K8 — Europäische Migration und religiöse Minderheiten.",
+      "factsAdvanced": [
+        "Gegründet in der ersten Hälfte des 20. Jahrhunderts in Tegucigalpa.",
+        "Ruhestätte für sephardische und aschkenasische jüdische Einwanderer.",
+        "Die Grabsteine tragen traditionelle hebräische Inschriften und Symbole.",
+        "Zeugt von der Flucht europäischer Juden während der Weltkriege.",
+        "Die jüdische Gemeinde hatte großen Einfluss auf den lokalen Handel.",
+        "Ein wichtiges, historisch geschütztes Monument für religiöse Vielfalt."
+      ]
+    },
+    {
+      "id": "carias-bruecke-tegucigalpa-history-v2",
+      "descriptionAdvanced": "Das Puente Carías ist eines der markantesten historischen Bauwerke der Hauptstadt und überspannt den Rio Choluteca, um das Zentrum von Tegucigalpa mit der Zwillingsstadt Comayagüela zu verbinden. Sie wurde 1933 unter der strengen Diktatur von General Tiburcio Carías Andino eröffnet und trägt seinen Namen. Die massive Konstruktion aus Stein und Zement wurde mit architektonischen Details versehen, die Stärke und Dauerhaftigkeit ausstrahlen sollten. Im Gegensatz zu anderen modernen Brücken in der Stadt hat das Puente Carías sogar den verheerenden Hurrikan Mitch im Jahr 1998 ohne große Schäden überstanden. Geschichte K7 — Infrastruktur unter Diktaturen und Hurrikan Mitch.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1933 unter dem Diktator Tiburcio Carías Andino.",
+        "Verbindet die historische Altstadt von Tegucigalpa mit Comayagüela.",
+        "Die massive Konstruktion überstand die Fluten des Hurrikans Mitch 1998.",
+        "Gilt als Symbol für die autoritäre, aber aufbauende Carías-Ära.",
+        "Überspannt den stark fließenden Río Choluteca.",
+        "Architektonisch im soliden neoklassizistischen und Art-déco-Stil gehalten."
+      ]
+    },
+    {
+      "id": "kirche-unbefleckte-empfaengnis-danli-history-v2",
+      "descriptionAdvanced": "Die Iglesia de la Inmaculada Concepción ist das architektonische Wahrzeichen der Zigarrenstadt Danlí. Die in den 1810er Jahren fertiggestellte Kirche ist ein herausragendes Beispiel für den späten neoklassizistischen Kolonialstil in Honduras. Ihre weiße Fassade und die zwei flankierenden Glockentürme überblicken den ruhigen Parque Central. Im Inneren beherbergt sie mehrere kunstvoll geschnitzte Holzaltäre aus der Kolonialzeit, die die Jungfrau Maria darstellen. Das Gebäude hat zahlreiche historische Konflikte unbeschadet überstanden und ist der stolze spirituelle Mittelpunkt der lokalen Bevölkerung im Departement El Paraíso. Architektur K6 — Neoklassizismus und religiöse Kunst.",
+      "factsAdvanced": [
+        "Fertiggestellt im frühen 19. Jahrhundert (ca. 1817).",
+        "Das markanteste historische Gebäude am Parque Central von Danlí.",
+        "Entworfen im eleganten neoklassizistischen honduranischen Stil.",
+        "Die Kirche ist der Unbefleckten Empfängnis Mariens gewidmet.",
+        "Beherbergt antike Holzaltäre und Gemälde aus der spanischen Ära.",
+        "Der Bau wurde größtenteils durch die lokalen Gemeindemitglieder finanziert."
+      ]
+    },
+    {
+      "id": "kirche-san-matias-la-campa-history-v2",
+      "descriptionAdvanced": "Die historische Kolonialkirche San Matías in dem abgelegenen Lenca-Dorf La Campa (Departement Lempira) ist eine der außergewöhnlichsten und bestgehüteten Kirchen in Honduras. Die im 18. Jahrhundert erbaute Kirche zeichnet sich durch eine kunstvoll geschnitzte Holzfassade und ein atemberaubendes Altarbild aus, das vollständig mit Blattgold überzogen ist. Was sie jedoch wirklich einzigartig macht, ist der tiefe religiöse Synkretismus; die Kirche zieht Tausende von indigenen Pilgern an, die hier sowohl katholische Rituale als auch uralte Lenca-Traditionen ausüben. Kultur K7 — Synkretismus, Goldaltäre und indigene Pilgerfahrten.",
+      "factsAdvanced": [
+        "Erbaut im 18. Jahrhundert in der isolierten Berggemeinde La Campa.",
+        "Besitzt ein prächtiges, original erhaltenes Altarbild aus Blattgold.",
+        "Wichtigstes Pilgerzentrum für die indigene Lenca-Bevölkerung.",
+        "Die Pilger beten zum Heiligen Matthias (San Matías).",
+        "Ort eines starken Synkretismus zwischen Katholizismus und Lenca-Riten.",
+        "Die Fassade zeigt detaillierte lokale Holzschnitzkunst."
+      ]
+    },
+    {
+      "id": "gualjoquito-archaeology-history-v2",
+      "descriptionAdvanced": "Gualjoquito ist eine bedeutende, aber wenig touristisch erschlossene archäologische Stätte im Departement Santa Bárbara, nahe dem Fluss Ulúa. Während der klassischen Maya-Periode (400–900 n. Chr.) fungierte Gualjoquito als ein wichtiger Knotenpunkt, der die großen Maya-Städte in Copán mit den nicht-Maya-Kulturen im zentralen Honduras verband. Die Stätte besteht aus einer Reihe von großen Plazas und unzähligen, von Vegetation überwachsenen Hügeln, die die Reste von Pyramiden und Wohngebäuden bergen. Ausgrabungen brachten hier wunderschöne Jade-Ornamente und polychrome Keramiken zutage, die von einem intensiven Handelsnetz zeugen. Archäologie K8 — Mesoamerikanische Handelsrouten und Gualjoquito.",
+      "factsAdvanced": [
+        "Wichtiges Handelszentrum während der klassischen Periode (400–900 n. Chr.).",
+        "Band das Maya-Reich (Copán) an die Kulturen Zentralhonduras an.",
+        "Liegt strategisch im Tal des Flusses Ulúa in Santa Bárbara.",
+        "Die Ruinen umfassen mehrere Plazas, Ballspielplätze und Pyramidenhügel.",
+        "Archäologen fanden hier wertvolle Artefakte aus Jade und Keramik.",
+        "Bis heute ist die Stätte weitgehend unberührt und nicht touristisch erschlossen."
+      ]
+    },
+    {
+      "id": "travesia-archaeology-history-v2",
+      "descriptionAdvanced": "Travesía war ein massives präkolumbianisches Siedlungszentrum im fruchtbaren Ulúa-Tal (Sula-Tal) in der Nähe von Puerto Cortés. Die Stätte florierte zwischen 500 und 1000 n. Chr. und zeichnet sich durch gigantische irdene Plattformen aus, die mit präzise behauenen weißen Kalksteinblöcken verkleidet waren. Travesía wurde nicht von den Maya erbaut, sondern von indigenen Gruppen (wahrscheinlich Tolupanes oder Jicaques), die eng mit dem Kakao- und Obsidianhandel in die Karibik vernetzt waren. Tragischerweise wurden große Teile der Ruinen im 20. Jahrhundert durch landwirtschaftliche Expansion (Bananenplantagen) zerstört. Geschichte K8 — Zerstörtes Erbe und das Sula-Tal.",
+      "factsAdvanced": [
+        "Eine der größten präkolumbianischen Städte im Sula-Tal (500–1000 n. Chr.).",
+        "Die Gebäude bestanden aus Erdhügeln, die mit weißen Kalksteinblöcken verkleidet waren.",
+        "War ein extrem wichtiges Zentrum für den Handel mit Kakao und Obsidian.",
+        "Wahrscheinlich von Tolupan- oder Jicaque-Gruppen bewohnt, nicht von Maya.",
+        "Ein großer Teil der Stätte wurde im 20. Jahrhundert durch Bananenplantagen zerstört.",
+        "Wurde in den 1930er Jahren erstmals von US-Archäologen dokumentiert."
+      ]
+    },
+    {
+      "id": "kirche-san-jeronimo-comayagua-history-v2",
+      "descriptionAdvanced": "Die Ruinen der Iglesia de San Jerónimo in Comayagua erzählen eine düstere und oft vergessene Geschichte der kolonialen Gesellschaft in Honduras. Erbaut im frühen 17. Jahrhundert, war dies eine der wenigen Kirchen, die fast ausschließlich für die wachsende afrikanische und gemischtrassige Sklavenbevölkerung der Stadt bestimmt war. Die Kirche wurde bei verheerenden Erdbeben schwer beschädigt und im Gegensatz zu den Kirchen der europäischen Elite nie vollständig wiederaufgebaut. Heute stehen nur noch die massiven Steingrundmauern und die Fassade als stilles Denkmal für den afrikanischen Einfluss und die Ausdauer in Honduras. Geschichte K8 — Afro-honduranische Sklaverei und Erdbeben.",
+      "factsAdvanced": [
+        "Erbaut im 17. Jahrhundert in der Kolonialhauptstadt Comayagua.",
+        "Wurde spezifisch für die afrikanische Sklavenbevölkerung der Stadt errichtet.",
+        "Die Kirche wurde bei großen Erdbeben fast vollständig zerstört.",
+        "Wurde nie in ihrem vollen Glanz wiederaufgebaut, im Gegensatz zu Eliten-Kirchen.",
+        "Heute sind nur noch die Ruinen der Außenmauern zu besichtigen.",
+        "Ein wichtiges Denkmal für die oft ignorierte afro-honduranische Geschichte."
+      ]
+    },
+    {
+      "id": "historische-bruecke-santa-barbara-history-v2",
+      "descriptionAdvanced": "Die koloniale Bogenbrücke in der Nähe des Zentrums von Santa Bárbara ist ein herausragendes Beispiel für die zivile Ingenieurskunst des 19. Jahrhunderts. Da Santa Bárbara ein wichtiges landwirtschaftliches Zentrum war, mussten große Mengen an Kaffee und Tabak in unwegsamem Gelände transportiert werden. Die massiv aus behauenen Steinen und gebranntem Ziegel gebaute Brücke überspannt eine tiefe Schlucht und ermöglichte den ganzjährigen Transport. Die Brücke hat Überschwemmungen und Erdbeben getrotzt und ist heute ein geschütztes lokales Wahrzeichen, das an den Übergang vom kolonialen Honduras in die Moderne erinnert. Architektur K6 — Koloniale Logistik und Ingenieurskunst.",
+      "factsAdvanced": [
+        "Ein herausragendes Beispiel ziviler Ingenieurskunst aus dem 19. Jahrhundert.",
+        "Erbaut aus behauenem Stein und Ziegeln im Bogenstil.",
+        "Wurde entworfen, um den Transport von Kaffee und Tabak zu sichern.",
+        "Trotzte zahlreichen schweren Erdbeben und Überschwemmungen.",
+        "Ist ein geschütztes historisches Denkmal der Gemeinde Santa Bárbara.",
+        "Die Brücke wird noch heute von Fußgängern und leichten Fahrzeugen genutzt."
+      ]
+    },
+    {
+      "id": "hoehlen-von-masca-history-v2",
+      "descriptionAdvanced": "Die Höhlen von Masca (Cuevas de Masca) befinden sich in der Gemeinde Omoa an der Karibikküste und verbergen eine dunkle historische Vergangenheit. Diese tiefen, küstennahen Höhlensysteme wurden laut lokaler Überlieferung im 17. und 18. Jahrhundert intensiv von Piraten und Schmugglern (darunter britische und französische Freibeuter) als Verstecke genutzt. Hier lagerten sie Beute, Munition und Vorräte, um die nahe gelegene spanische Festung San Fernando anzugreifen oder spanische Galeonen auszurauben. Heute sind die Höhlen von dichtem Dschungel umgeben und ziehen abenteuerlustige Touristen an, die nach Spuren der Freibeuter suchen. Geschichte K7 — Karibische Piraten und Schmugglernetzwerke.",
+      "factsAdvanced": [
+        "Natürliches Karsthöhlensystem an der Karibikküste nahe Omoa.",
+        "Dienten im 17. und 18. Jahrhundert als Versteck für Piraten und Freibeuter.",
+        "Wurden genutzt, um Beute von Angriffen auf spanische Schiffe zu verstecken.",
+        "Die Piraten griffen von hier aus oft die nahe Festung San Fernando de Omoa an.",
+        "Die Höhlen sind schwer zugänglich und von dichtem Dschungel umgeben.",
+        "Sagen über versteckte Goldschätze sind bis heute in der Region lebendig."
+      ]
+    },
+    {
+      "id": "ruinen-rincon-del-buey-history-v2",
+      "descriptionAdvanced": "Die Ruinen von El Rincón del Buey stellen ein archäologisches Mysterium in den dichten Wäldern des Departements Olancho dar. Diese weitgehend unerforschten Überreste großer Steinstrukturen und Plazas zeugen von einer blühenden indigenen Gesellschaft, die hier lange vor Ankunft der Spanier lebte. Wissenschaftler vermuten, dass es sich um eine wichtige Siedlung der Payas oder Pech handelt. Viele der Artefakte aus dieser Gegend weisen eine einzigartige Handwerkskunst auf, die sich deutlich von den klassischen Maya im Westen unterscheidet, was darauf hinweist, dass Olancho eine eigenständige kulturelle Entwicklungszone war. Geschichte K8 — Unbekannte indigene Kulturen in Olancho.",
+      "factsAdvanced": [
+        "Archäologische Stätte in den abgelegenen Wäldern von Olancho.",
+        "Besteht aus noch weitgehend unausgegrabenen Steinstrukturen und Plazas.",
+        "Wurde wahrscheinlich von der indigenen Kultur der Pech (Paya) erbaut.",
+        "Zeigt architektonische Stile, die sich stark von den westlichen Maya unterscheiden.",
+        "Die Stätte ist von extrem dichtem Dschungel überwachsen.",
+        "Es wurden kunstvolle Steingefäße und Mahlsteine (Metates) in der Gegend gefunden."
+      ]
+    },
+    {
+      "id": "kirche-santa-ana-yuscaran-history-v2",
+      "descriptionAdvanced": "Die Iglesia de Santa Ana ist das imposante Herzstück der alten Bergbaustadt Yuscarán. Die Konstruktion begann im späten 18. Jahrhundert, finanziert durch den massiven Reichtum der Silberbarone der Region. Das Gebäude spiegelt den spätkolonialen Barock wider und dominiert mit seinen schweren Mauern die schmalen, abfallenden Straßen der Stadt. Im Inneren zeugen kunstvolle Altarbilder und importierte europäische Kronleuchter vom vergangenen Wohlstand der Minenbesitzer. Heute ist die Kirche ein wichtiges geschütztes Baudenkmal, das symbolhaft für den historischen Silberboom des Departements El Paraíso steht. Architektur K7 — Finanziert durch den Silberbergbau.",
+      "factsAdvanced": [
+        "Erbaut in den 1790er Jahren während des Höhepunkts des Silberbooms.",
+        "Der Bau wurde direkt von den wohlhabenden Minenbesitzern von Yuscarán finanziert.",
+        "Besitzt eine markante weiße Fassade im spätkolonialen Barockstil.",
+        "Die Kirche überblickt den steil abfallenden zentralen Platz der Stadt.",
+        "Ein wichtiger Bestandteil der Ernennung Yuscaráns zum Nationaldenkmal (1979).",
+        "Beherbergt wertvolle Gemälde und Altäre, die aus Spanien importiert wurden."
+      ]
+    },
+    {
+      "id": "alter-bahnhof-san-pedro-sula-history-v2",
+      "descriptionAdvanced": "Die Antigua Estación del Ferrocarril in San Pedro Sula ist ein lebendiges Denkmal an das goldene Zeitalter der Bananenrepublik. Erbaut in den frühen 1900er Jahren, war dieser Bahnhof das logistische Nervenzentrum, über das Millionen von Bananenstauden von den Plantagen zum Hafen von Puerto Cortés transportiert wurden. Das markante Holzgebäude im nordamerikanischen Südstaatenstil hob sich deutlich von der lokalen Architektur ab und symbolisierte die Macht der US-Fruchtunternehmen (wie Cuyamel Fruit Co.). Obwohl das nationale Schienennetz heute stilliegt, wurde das Gebäude restauriert und wird als lokales Kulturzentrum genutzt. Geschichte K8 — Eisenbahnen und Fruchtgesellschaften.",
+      "factsAdvanced": [
+        "Erbaut in den frühen 1900er Jahren im US-amerikanischen Plantagenstil.",
+        "Einst der wichtigste Eisenbahnknotenpunkt für den Bananenexport in Honduras.",
+        "Verband das Sula-Tal direkt mit dem Tiefseehafen von Puerto Cortés.",
+        "Symbolisiert die massive wirtschaftliche Kontrolle durch US-Fruchtunternehmen.",
+        "Das nationale Schienennetz stellte in den späten 1990er Jahren den Betrieb ein.",
+        "Das restaurierte Gebäude dient heute als Museum und städtischer Veranstaltungsort."
+      ]
+    },
+    {
+      "id": "casa-fortin-yuscaran-history-v2",
+      "descriptionAdvanced": "Das Casa Fortín ist das markanteste und historisch wertvollste Residenzgebäude in der Bergbaustadt Yuscarán. Im 19. Jahrhundert von der extrem wohlhabenden und einflussreichen Familie Fortín erbaut, die durch Silberminen und Handel reich wurde, veranschaulicht das zweistöckige Herrenhaus mit seinen Balkonen und dem Innenhof den Luxus der damaligen Elite. Heute fungiert das Haus als ein hervorragend gepflegtes historisches Museum, das originale Möbel aus Paris, antike Bergbauausrüstungen und Dokumente ausstellt, die das tägliche Leben während des wirtschaftlichen Höhepunkts der Region detailliert darstellen. Kultur K7 — Das Leben der Elite im 19. Jahrhundert.",
+      "factsAdvanced": [
+        "Erbaut im 19. Jahrhundert von der wohlhabenden Bergbaufamilie Fortín.",
+        "Ein zweistöckiges Herrenhaus im spanisch-republikanischen Stil mit großem Innenhof.",
+        "Heute das wichtigste historische Museum der Stadt Yuscarán.",
+        "Stellt importierte europäische Möbel und Gegenstände der Elite des 19. Jahrhunderts aus.",
+        "Zeigt historische Werkzeuge und Dokumente aus der Blütezeit der Silberminen.",
+        "Eines der am besten erhaltenen Privathäuser der honduranischen Kolonialgeschichte."
+      ]
+    }
+  ]
+}

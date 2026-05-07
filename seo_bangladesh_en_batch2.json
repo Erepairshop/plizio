@@ -1,0 +1,298 @@
+{
+  "lang": "en",
+  "country": "bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "feni-cities-v2",
+      "descriptionAdvanced": "Feni, located in southeastern Bangladesh, is a strategic city situated at the crossroads of the Dhaka-Chittagong highway and the railway line. Historically known as a gateway between the capital and the port city, it has always been a significant center for trade and communication. Feni is renowned for its high literacy rate and its contribution to the country's civil service and education. The city is situated on the banks of the Feni River, which forms the international border with India. Feni is also known for its diverse agricultural products and the historic Muhuri Project, one of the country's largest irrigation and flood control systems. The city's bustling markets and its role as a transport hub make it a key economic center in the region. Geography K7 — Transport Hubs and Regional Trade.",
+      "factsAdvanced": [
+        "Feni was established as a municipality in 1922.",
+        "The Feni River serves as a natural border between Bangladesh and India.",
+        "The Muhuri Project is the second-largest irrigation project in Bangladesh.",
+        "Feni is known for having one of the highest literacy rates in the country.",
+        "The city is a major transit point for travelers between Dhaka and Chittagong.",
+        "Historically, Feni was a part of the ancient kingdom of Samatata.",
+        "The district is a major producer of rice, pulses, and winter vegetables."
+      ]
+    },
+    {
+      "id": "jamalpur-cities-v2",
+      "descriptionAdvanced": "Jamalpur, located in central-northern Bangladesh on the banks of the Brahmaputra River, is a historic city with a strong agricultural and handicraft base. It was a significant center for trade during the British colonial era, particularly known for its production of jute and tobacco. Today, Jamalpur is world-famous for its 'Nakshi Kantha' (embroidered quilts), a traditional craft that reflects the artistic heritage of rural Bangladesh. The city is also known for its traditional brass and bell-metal industry. Jamalpur features several historic landmarks, including the Lalon Shah Bridge and colonial-era administrative buildings. The city's landscape is dominated by the Brahmaputra, which plays a vital role in local agriculture and transport. Jamalpur remains a center for education, trade, and traditional Bengali arts. Geography K7 — Traditional Handicrafts and Riverine Economy.",
+      "factsAdvanced": [
+        "Jamalpur is the hub for the traditional Nakshi Kantha (embroidered quilt) industry.",
+        "The city was established as a municipality in 1869.",
+        "The Brahmaputra River at Jamalpur is known for its vast char lands (river islands).",
+        "The district is a major producer of high-quality jute and tobacco.",
+        "The traditional brass industry of Jamalpur is one of the oldest in the region.",
+        "The city hosts the Jamalpur Medical College, a major educational institution.",
+        "The historic Gandhi Ashram in Jamalpur is a significant landmark of the Swadeshi movement."
+      ]
+    },
+    {
+      "id": "naogaon-cities-v2",
+      "descriptionAdvanced": "Naogaon, located in northwestern Bangladesh, is a city with an extraordinary archaeological and agricultural legacy. It is most famous for being the gateway to the Somapura Mahavihara at Paharpur, a UNESCO World Heritage site and one of the most important Buddhist monasteries in South Asia. Naogaon is also known as the 'Grains Capital' of the country, particularly for its massive production of high-quality rice and diverse seasonal vegetables. The city's landscape is dotted with numerous historic zamindar palaces, such as the Dubalhati Rajbari and the Balihar Rajbari. Naogaon is also famous for its production of 'Atap' rice and its vibrant markets for agricultural goods. The city's strategic location near the Indian border and its rich historical sites make it a fascinating destination for history enthusiasts and researchers. History K8 — Ancient Monasteries and Feudal Estates.",
+      "factsAdvanced": [
+        "Naogaon is home to the Paharpur Buddhist Monastery, an UNESCO World Heritage site.",
+        "The district is one of the largest rice-producing regions in Bangladesh.",
+        "The Dubalhati Rajbari is a historic palace with over 300 rooms.",
+        "Naogaon is famous for its production of 'Pera Sandesh,' a traditional milk sweet.",
+        "The Atrai River flows through the district, facilitating local irrigation.",
+        "The Kusumba Mosque in Naogaon, built in 1558, is featured on the five-taka note.",
+        "The region has a significant concentration of indigenous ethnic communities."
+      ]
+    },
+    {
+      "id": "noakhali-cities-v2",
+      "descriptionAdvanced": "Noakhali, located in the southeastern coastal region of Bangladesh, is a historic city known for its resilience and unique geographical features. Historically called 'Bhulua,' the city's identity has been shaped by its constant struggle against the forces of nature, particularly cyclones and river erosion. Noakhali is famous for its expansive 'chars' (newly formed land) and its contribution to the country's fishing and salt industries. The city gained international prominence during the 1946 riots and the subsequent peace mission led by Mahatma Gandhi, whose legacy is preserved at the Gandhi Ashram in nearby Joyag. Today, Noakhali is a hub for education and trade, hosting the Noakhali Science and Technology University. The city's landscape is a mix of agricultural plains, coconut groves, and riverine networks. Geography K7 — Coastal Dynamics and Peace Heritage.",
+      "factsAdvanced": [
+        "Noakhali was historically known as Bhulua and was an ancient kingdom.",
+        "The Gandhi Ashram in Noakhali was established during Mahatma Gandhi's 1947 peace mission.",
+        "The district is a major center for the production of coconut and betel nuts.",
+        "The Nijhum Dwip island, famous for its spotted deer, is part of Noakhali.",
+        "Noakhali is known for its distinct dialect of Bengali.",
+        "The district has a large number of overseas workers contributing to the national economy.",
+        "The coast of Noakhali is a vital area for salt production in Bangladesh."
+      ]
+    },
+    {
+      "id": "faridpur-cities-v2",
+      "descriptionAdvanced": "Faridpur, situated on the banks of the Padma River in central Bangladesh, is a historic city known for its political significance and agricultural richness. Named after the Sufi saint Shah Fareed, the city has a long history as a center for trade and administration. Faridpur is particularly famous for its jute production, often being referred to as the 'Jute Capital' of the country. It is the birthplace of several prominent national leaders, including the founding father of Bangladesh, Sheikh Mujibur Rahman (born in nearby Tungipara). Landmarks like the historic Baitul Aman Mosque and the Pathrail Mosque reflect the city's architectural heritage. Faridpur is also a major hub for education and transport, with the Padma Bridge significantly enhancing its connectivity to the capital. The city's economy is driven by agriculture, jute mills, and its vibrant markets. History K8 — Political Leadership and Sufi Traditions.",
+      "factsAdvanced": [
+        "Faridpur is one of the oldest districts in Bangladesh, established in 1815.",
+        "The city is a major hub for the production of high-quality jute fiber.",
+        "The Pathrail Mosque in Faridpur is a beautiful example of Sultanate architecture.",
+        "Faridpur is the administrative center for the Faridpur Division.",
+        "The region is known for its traditional 'Khejur Gur' (date palm jaggery).",
+        "The historic Tepakhola cattle market is one of the largest in the country.",
+        "The Padma River at Faridpur is a vital waterway for transport and fishing."
+      ]
+    },
+    {
+      "id": "saidpur-cities-v2",
+      "descriptionAdvanced": "Saidpur, located in the northwestern district of Nilphamari, is a unique industrial city with a rich railway heritage. Often called the 'Railway City,' it is home to one of the largest railway workshops in South Asia, established during the British era in 1870. The city's identity and economy are deeply intertwined with the railway, which has influenced its diverse multicultural population. Saidpur is also a major commercial hub for the northern region, hosting a significant trade in textiles, food products, and consumer goods. The city's airport is a vital link connecting North Bengal with the capital Dhaka. Known for its clean streets and orderly layout, Saidpur also features several colonial-era buildings and the historic Chini Mosque, famous for its intricate chinaware decoration. Geography K7 — Industrial Hubs and Railway Infrastructure.",
+      "factsAdvanced": [
+        "Saidpur Railway Workshop is the largest and oldest of its kind in Bangladesh.",
+        "The Chini Mosque is decorated with thousands of pieces of colorful porcelain chips.",
+        "Saidpur Airport is the primary aviation hub for the northwestern districts.",
+        "The city has a diverse population, including many Urdu-speaking communities.",
+        "Historically, Saidpur was an important administrative center during the British Raj.",
+        "The city is a major center for the wholesale trade of used clothes (purnia).",
+        "Saidpur is known for its unique 'Saidpuri' cuisine and street food."
+      ]
+    },
+    {
+      "id": "narsingdi-cities-v2",
+      "descriptionAdvanced": "Narsingdi, located in central Bangladesh just east of the capital, is a major industrial and commercial city renowned for its textile and handloom industry. Often referred to as the 'Manchester of the East' for Bangladesh, it is the country's primary hub for the production and wholesale trade of traditional fabrics, particularly saris and lungis. The city is situated on the banks of the Meghna and Shitalakshya rivers, which have historically facilitated its trade. Narsingdi is also home to the ancient archaeological site of Wari-Bateshwar, which dates back to the 5th century BC, revealing a sophisticated ancient civilization. The city's economy is further bolstered by its significant agricultural output, especially bananas and pineapples. Narsingdi's dynamic industrial clusters and its proximity to the capital make it a cornerstone of the nation's economic growth. Geography K7 — Textile Industry and Ancient Civilizations.",
+      "factsAdvanced": [
+        "Narsingdi is the center for the country's largest wholesale textile market at Baburhat.",
+        "The Wari-Bateshwar ruins in Narsingdi date back to the 5th century BC.",
+        "The district is a major producer of the famous 'Sagar' variety of bananas.",
+        "Narsingdi hosts several large-scale power plants and industrial estates.",
+        "The Ghorashal Fertilizer Factory, one of the largest in the country, is located here.",
+        "The Meghna River provides a vital transport route for the city's industries.",
+        "Narsingdi is known for its traditional hand-woven 'Katan' saris."
+      ]
+    },
+    {
+      "id": "chandpur-cities-v2",
+      "descriptionAdvanced": "Chandpur, situated at the magnificent confluence of the Padma, Meghna, and Dakatia rivers, is famously known as the 'City of Hilsa.' It is the primary hub for the trade and distribution of the Hilsa fish, the national fish of Bangladesh, which is caught in the surrounding deep waters. Historically, Chandpur has been a vital river port and trade center, serving as a gateway between the southern districts and the rest of the country. The city is renowned for its scenic river views, particularly at the 'Mohona' where the rivers meet. Chandpur is also a center for education and culture, featuring several historic institutions. The city's economy is primarily driven by fishing, trade, and its busy river port, which handles a massive volume of passengers and cargo daily. Geography K7 — Riverine Confluences and Fisheries.",
+      "factsAdvanced": [
+        "Chandpur is the largest trading center for Hilsa fish in Bangladesh.",
+        "The city is located at the confluence of the Padma and Meghna rivers.",
+        "The Chandpur River Port is one of the busiest inland terminals in the country.",
+        "The district is a major producer of high-quality potatoes and rice.",
+        "The historic Puran Bazar is a centuries-old commercial hub in the city.",
+        "Chandpur was a significant naval base during the British colonial period.",
+        "The 'Mohona' at Chandpur is a popular spot for viewing river sunsets."
+      ]
+    },
+    {
+      "id": "bhola-cities-v2",
+      "descriptionAdvanced": "Bhola, located on the largest island in Bangladesh at the mouth of the Meghna River, is a unique riverine city and district. Surrounded by water, the city's life and economy are completely tied to the river and the sea. Bhola is famous for its natural gas reserves and its contribution to the country's energy sector. The island's fertile soil makes it a major producer of rice, pulses, and betel nuts. Historically, Bhola has been a center for trade and fishing, though it faces constant challenges from river erosion and coastal storms. The city is the gateway to the beautiful Char Kukri Mukri, an eco-tourism paradise known for its mangroves and wildlife. Bhola's serene landscape and its distinctive island culture make it a fascinating part of Bangladesh's coastal geography. Geography K7 — Island Geography and Energy Resources.",
+      "factsAdvanced": [
+        "Bhola is the largest island in Bangladesh, located in the Ganges Delta.",
+        "The district is home to significant natural gas fields, powering local industries.",
+        "Bhola is a major producer of buffalo milk and traditional dairy products.",
+        "The 1970 Bhola Cyclone, one of the deadliest in history, made landfall here.",
+        "Char Kukri Mukri in Bhola is a major wildlife sanctuary and forest reserve.",
+        "The island is accessible primarily by river launches and ferries.",
+        "Fishing is the primary occupation for a large portion of the population."
+      ]
+    },
+    {
+      "id": "jhenaidah-cities-v2",
+      "descriptionAdvanced": "Jhenaidah, located in southwestern Bangladesh, is a historic city known for its archaeological sites and agricultural productivity. It is most famous for its connection to the legendary dervish Gorai Gazi and the numerous Sultanate-era mosques found in the region, such as the Shahi Mosque and the Khan-e-Jahan Ali era ruins. Jhenaidah is a major center for the production of bananas, dates, and diverse seasonal vegetables. The city's landscape is dotted with numerous ponds and historic zamindar estates. Jhenaidah is also known for its contribution to the country's education and literature. The city's serene atmosphere and its rich historical legacy make it a significant cultural hub in the southwestern region. Its strategic location on the highway connecting the Benapole land port with northern districts further enhances its economic importance. History K8 — Sultanate Architecture and Agricultural Richness.",
+      "factsAdvanced": [
+        "Jhenaidah is home to several 15th-century mosques from the Sultanate era.",
+        "The city is a major hub for banana and mango production in the southwest.",
+        "Jhenaidah Cadet College is one of the most prestigious educational institutions in the country.",
+        "The Nabaganga River flows through the city, providing essential irrigation.",
+        "The district is known for its traditional 'Baul' music and folk festivals.",
+        "Historically, Jhenaidah was a center for indigo cultivation during the British period.",
+        "The KPIL (Kaliganj-Pabna-Ishwardi-Lalonshah) highway passes through this district."
+      ]
+    },
+    {
+      "id": "somapura-mahavihara-history-v2",
+      "descriptionAdvanced": "Somapura Mahavihara, located in Paharpur, is one of the most significant archaeological sites in South Asia and a UNESCO World Heritage site. Founded by King Dharmapala of the Pala Dynasty in the 8th century, this massive Buddhist monastic complex served as a major intellectual and spiritual center for centuries. Its unique architecture, featuring a central cruciform temple surrounded by 177 monk cells, influenced temple designs across Southeast Asia, including the famous Borobudur in Indonesia. The walls are decorated with over 2,000 terracotta plaques depicting daily life, deities, and animals, providing a precious window into medieval Bengal's culture. Today, its imposing ruins continue to attract scholars and pilgrims from around the world, standing as a testament to the golden age of Buddhism in the region. History K8 — Medieval Kingdoms and Sacred Architecture.",
+      "factsAdvanced": [
+        "Paharpur is the largest Buddhist vihara south of the Himalayas.",
+        "The site was inscribed as a UNESCO World Heritage Site in 1985.",
+        "The central temple stands approximately 21 meters above the ground level.",
+        "The terracotta plaques are considered masterpieces of early folk art.",
+        "Excavations began in 1923 under the guidance of archaeologist K.N. Dikshit.",
+        "The complex was a major center for the study of Vajrayana Buddhism.",
+        "Terracotta seals found here bear the name 'Somapura Mahavihara'.",
+        "Its architecture served as a model for temples in Myanmar and Cambodia."
+      ]
+    },
+    {
+      "id": "lalbagh-fort-history-v2",
+      "descriptionAdvanced": "Lalbagh Fort, an unfinished 17th-century Mughal fortress, is one of Dhaka's most iconic landmarks and a masterpiece of Mughal architecture. Construction began in 1678 by Prince Muhammad Azam, son of Emperor Aurangzeb, but was never completed following the death of his successor's daughter, Bibi Pari. The fort complex features three main structures: the mosque, the tomb of Bibi Pari, and the Diwan-i-Aam (Audience Hall). The tomb is particularly notable for its unique use of white marble, basalt, and colorful tiles, reflecting the grandeur of the Mughal court. The fort's beautiful gardens and intricate water channels follow the classic 'Charbagh' layout. Today, Lalbagh Fort serves as a museum and a serene escape from the bustling city, preserving the legacy of the Mughal era in Bengal. History K8 — Mughal Empire and Indo-Islamic Architecture.",
+      "factsAdvanced": [
+        "Construction of Lalbagh Fort started in 1678 and stopped in 1684.",
+        "The tomb of Bibi Pari is the only building in Bangladesh where black basalt and white marble are used together.",
+        "The fort features a complex network of underground tunnels, many of which are now sealed.",
+        "The Diwan-i-Aam houses a museum with Mughal-era weapons, coins, and paintings.",
+        "The mosque inside the fort is still used for daily prayers.",
+        "The fort is surrounded by a massive wall with several imposing gateways.",
+        "Lalbagh Fort is one of the most visited tourist sites in Dhaka."
+      ]
+    },
+    {
+      "id": "ahsan-manzil-history-v2",
+      "descriptionAdvanced": "Ahsan Manzil, famously known as the 'Pink Palace,' was the official residential palace and seat of the Nawab of Dhaka. Situated on the banks of the Buriganga River, this magnificent Indo-Saracenic building was originally constructed in 1872 on the site of an old French factory. For decades, it served as the center of political and social life in East Bengal, hosting many historic meetings that shaped the future of the subcontinent. The palace is renowned for its grand dome, sweeping staircases, and beautiful riverside gardens. After falling into ruin, it was extensively renovated in the late 20th century and now serves as a national museum. Ahsan Manzil remains a powerful symbol of Dhaka's aristocratic past and its architectural transition during the British colonial period. History K8 — Colonial Era and Aristocratic Heritage.",
+      "factsAdvanced": [
+        "Ahsan Manzil was the first building in Dhaka to have electricity, installed in 1901.",
+        "The palace was the site where the All India Muslim League was proposed in 1906.",
+        "Lord Curzon stayed at Ahsan Manzil during his visits to East Bengal.",
+        "The building features 23 galleries showcasing the lifestyle of the Nawabs.",
+        "The palace was severely damaged by a tornado in 1888 and later rebuilt.",
+        "Its distinctive pink color was restored during the 1980s renovation.",
+        "The grand staircase leading to the river is one of the palace's most iconic features."
+      ]
+    },
+    {
+      "id": "sixty-dome-mosque-history-v2",
+      "descriptionAdvanced": "The Sixty Dome Mosque (Shat Gombuj Masjid) in Bagerhat is the largest and most impressive Sultanate-era mosque in Bangladesh and a UNESCO World Heritage site. Built in the mid-15th century by the saint-warrior Khan Jahan Ali, the mosque is a masterpiece of Tughlaq-influenced architecture. Despite its name, the mosque actually features 77 low domes and 4 corner towers, supported by a forest of 60 stone pillars inside. The thick walls and circular towers give it the appearance of a fortress. This historic structure was the centerpiece of the ancient city of Khalifatabad, which Khan Jahan Ali established in the dense mangroves of the Sundarbans. The mosque's unique design and its survival for over five centuries make it a cornerstone of Islamic heritage in Bengal. History K8 — Sultanate Period and Islamic Civilizations.",
+      "factsAdvanced": [
+        "The Sixty Dome Mosque was inscribed as a UNESCO World Heritage Site in 1985.",
+        "It was built around 1459 AD by Ulugh Khan Jahan Ali.",
+        "The mosque actually has 77 domes in the main hall and 4 at the corners.",
+        "The walls are made of tapered brick and are over 6 feet thick.",
+        "Inside, the roof is supported by 60 slender stone columns.",
+        "It is part of the Mosque City of Bagerhat, which contains several other historic structures.",
+        "The architecture is unique for its lack of a central courtyard, typical of Bengal's humid climate."
+      ]
+    },
+    {
+      "id": "mahasthangarh-history-v2",
+      "descriptionAdvanced": "Mahasthangarh is the earliest urban archaeological site in Bangladesh, dating back to at least the 3rd century BC. Located on the banks of the Karatoya River in Bogra, it was the ancient capital of the Pundravardhana region, known as Pundranagara. The site consists of a massive fortified citadel and numerous surrounding mounds that have yielded artifacts from the Mauryan, Gupta, Pala, and Sultanate periods. Mahasthangarh was a major center for Buddhism, Hinduism, and later Islam, reflecting the diverse religious history of Bengal. Excavations have uncovered ancient inscriptions, coins, terracotta plaques, and remains of grand temples and monasteries. Today, Mahasthangarh is a vital site for understanding the early history and urbanization of the Ganges Delta. History K8 — Ancient Civilizations and Urbanization.",
+      "factsAdvanced": [
+        "Mahasthangarh is the oldest city ever discovered in Bangladesh.",
+        "A Mauryan-era Brahmi inscription found here is one of the oldest in South Asia.",
+        "The citadel covers an area of about 1.5 square kilometers.",
+        "The Karatoya River was once a major trade route connecting the city to the sea.",
+        "The site contains the shrine of Shah Sultan Balkhi Mahisawar, a famous Sufi saint.",
+        "Excavations have revealed layers of civilization spanning over 2,000 years.",
+        "The Mahasthangarh Museum houses a vast collection of artifacts found at the site."
+      ]
+    },
+    {
+      "id": "mainamati-ruins-history-v2",
+      "descriptionAdvanced": "The Mainamati ruins in Comilla represent one of the most important centers of Buddhist civilization in ancient Bengal, flourishing between the 7th and 12th centuries. This archaeological site comprises a series of hills (the Lalmai-Mainamati range) where over 50 ancient Buddhist settlements have been identified. The most prominent structures include Shalban Vihara, Kutila Mura, and Itakhola Mura. These sites were centers of learning and spirituality, attracting students and monks from across Asia. The architecture is characterized by grand stupas, cruciform temples, and extensive monastic cells. Excavations have yielded thousands of terracotta plaques, bronze statues, and coins that provide insights into the Deva and Chandra dynasties. Mainamati remains a testament to the sophisticated culture and religious tolerance of ancient South Asia. History K8 — Buddhist Kingdoms and Ancient Learning.",
+      "factsAdvanced": [
+        "Shalban Vihara is the largest and most well-preserved monastery in Mainamati.",
+        "The site was a major center for the Deva and Chandra dynasties.",
+        "Over 400 terracotta plaques were found in situ at Shalban Vihara.",
+        "The Mainamati Museum houses rare bronze sculptures and ancient copperplate inscriptions.",
+        "Kutila Mura features three unique stupas representing the Three Jewels of Buddhism.",
+        "The ruins are spread across a 18-kilometer long range of low hills.",
+        "Mainamati was a significant stop on the ancient trade routes between India and Southeast Asia."
+      ]
+    },
+    {
+      "id": "national-martyrs-monument-history-v2",
+      "descriptionAdvanced": "The National Martyrs' Memorial (Jatiyo Smriti Soudho) in Savar is the national monument of Bangladesh, dedicated to those who sacrificed their lives during the 1971 Liberation War. Designed by architect Syed Mainul Hosain, the monument is a powerful architectural symbol consisting of seven pairs of triangular wall-shaped structures. These seven planes represent the seven stages of the independence movement, from the 1952 Language Movement to the final victory in 1971. The structure rises to a height of 150 feet and is surrounded by a serene landscape of green lawns, a lake, and mass graves. Every year on Independence Day and Victory Day, thousands of people gather here to pay their respects. The monument is not only a site of national mourning but also a symbol of the country's resilience and birth. History K8 — Liberation War and National Identity.",
+      "factsAdvanced": [
+        "The monument was inaugurated on December 16, 1982.",
+        "The seven pairs of walls represent seven major milestones in the struggle for freedom.",
+        "The highest point of the monument reaches 45 meters (150 feet).",
+        "The entire complex covers an area of about 84 acres.",
+        "A beautiful reflecting pool in front of the monument symbolizes the tears of the nation.",
+        "The monument's unique design appears different depending on the viewer's angle.",
+        "World leaders often visit the memorial to pay tribute during official state visits."
+      ]
+    },
+    {
+      "id": "shaheed-minar-history-v2",
+      "descriptionAdvanced": "The Central Shaheed Minar in Dhaka is a national monument established to commemorate those killed during the Language Movement demonstrations of 1952. It stands as a powerful symbol of Bengali nationalism and the right to speak one's mother tongue. The original monument was designed by sculptor Hamidur Rahman and features a central structure representing a mother with her fallen children. Every year on February 21st (International Mother Language Day), the site becomes a sea of flowers as people pay their respects. The Shaheed Minar has played a central role in all political and cultural movements in Bangladesh's history. Its simple yet profound architecture captures the soul of the nation and its struggle for identity and linguistic freedom. History K8 — Language Movement and Cultural Identity.",
+      "factsAdvanced": [
+        "The first Shaheed Minar was built overnight on February 23, 1952, but was soon destroyed by police.",
+        "The current monument was completed in 1963 and later expanded.",
+        "February 21st is now recognized by UNESCO as International Mother Language Day.",
+        "The design represents a mother standing with her four children on a platform.",
+        "The red sun behind the monument symbolizes the dawn of a new era.",
+        "It is located on the grounds of the Dhaka Medical College, where the 1952 shootings occurred.",
+        "The monument is a focal point for cultural festivals and national protests."
+      ]
+    },
+    {
+      "id": "kantajew-temple-history-v2",
+      "descriptionAdvanced": "Kantajew Temple, located in Dinajpur, is a stunning 18th-century Hindu temple and one of the finest examples of terracotta architecture in the world. Built by Maharaja Pran Nath and his son between 1704 and 1752, the temple is dedicated to Lord Krishna and Radha. Every square inch of the temple's exterior is covered with intricate terracotta plaques depicting scenes from the Ramayana, Mahabharata, and the daily life of the Mughal era. Originally, the temple featured nine spires (nava-ratna), but these were destroyed during the great earthquake of 1897. The temple's unique style combines traditional Bengali motifs with subtle Persian influences. Today, Kantajew Temple remains a significant site of worship and a major attraction for those interested in South Asian art and history. History K8 — Hindu Architecture and Terracotta Art.",
+      "factsAdvanced": [
+        "The temple was originally a nine-spired (nava-ratna) structure.",
+        "Over 15,000 terracotta plaques decorate the exterior walls of the temple.",
+        "The plaques depict everything from mythological battles to European soldiers and hunting scenes.",
+        "The temple is built on a high square plinth made of brick.",
+        "It took nearly 48 years to complete the construction of the temple.",
+        "The temple is situated near the banks of the Dhepa River.",
+        "Every year, a massive month-long fair is held here during the Rash Purnima festival."
+      ]
+    },
+    {
+      "id": "tajhat-palace-history-v2",
+      "descriptionAdvanced": "Tajhat Palace is a magnificent early 20th-century estate in Rangpur, considered one of the most beautiful colonial-era palaces in Bangladesh. It was built by Maharaja Kumar Gopal Lal Roy, a descendant of a wealthy diamond merchant. The palace's architecture is a grand blend of Mughal and European styles, featuring a massive central dome, sweeping marble staircases, and dozens of ornate rooms. The U-shaped building is surrounded by lush gardens and large ponds. After the abolition of the zamindari system, the palace served various purposes before being converted into a museum by the Department of Archaeology. Today, it houses a rich collection of artifacts, including ancient manuscripts, terracotta plaques, and statues. Tajhat Palace stands as a testament to the opulence of the Bengali aristocracy during the British Raj. History K8 — Colonial Estates and Zamindari Heritage.",
+      "factsAdvanced": [
+        "The palace was completed in the early 1910s.",
+        "The design was inspired by the grand neoclassical buildings of Europe.",
+        "It features a 76-meter long front facade with a majestic central dome.",
+        "The name 'Tajhat' originates from the diamond-studded 'Taj' (crown) of the owner's ancestors.",
+        "The palace houses a rare collection of manuscripts by the poet Rabindranath Tagore.",
+        "The grand staircase is made entirely of high-quality white marble.",
+        "The palace complex includes several large 'dighis' (ponds) and a mosque."
+      ]
+    },
+    {
+      "id": "panam-city-history-v2",
+      "descriptionAdvanced": "Panam City, located in Sonargaon, is an abandoned 19th-century merchant town and one of the most haunted yet beautiful historic sites in Bangladesh. Once a thriving center for the textile trade, particularly fine muslin, it was home to wealthy Hindu merchants during the British colonial period. The city consists of a single street lined with 52 derelict mansions that showcase a unique blend of Indo-Saracenic and European architectural styles. The houses feature intricate brickwork, grand columns, and colorful tiles. Panam City was abandoned during the communal riots of the mid-20th century and has since become a 'lost city.' It is part of the larger Sonargaon historic zone, which was the ancient capital of Bengal. Today, efforts are being made to preserve these crumbling masterpieces as a vital part of the country's urban heritage. History K8 — Merchant Towns and Textile Trade.",
+      "factsAdvanced": [
+        "Panam City was once a major hub for the world-famous Muslin trade.",
+        "The city contains 52 historic houses built along a single narrow street.",
+        "The architecture is a unique blend of colonial British and traditional Bengali styles.",
+        "Sonargaon, where Panam is located, was the capital of Bengal for several centuries.",
+        "The World Monuments Fund listed Panam City as one of the 100 most endangered sites in 2006.",
+        "Most of the houses were built between the late 19th and early 20th centuries.",
+        "The city is surrounded by a moat which once served as a defense and transport route."
+      ]
+    },
+    {
+      "id": "star-mosque-history-v2",
+      "descriptionAdvanced": "The Star Mosque (Tara Masjid) in Old Dhaka is a stunning example of decorative Islamic architecture, famous for its thousands of shimmering star motifs. Originally built in the early 19th century by Mirza Golam Pir, the mosque was extensively remodeled in the early 20th century using a technique called 'Chinitikri' (mosaic of broken porcelain). The exterior and interior are covered with colorful pieces of Chinese and Japanese porcelain, depicting stars, floral patterns, and even Mount Fuji. The mosque originally had three domes, but more were added during later renovations. Its unique aesthetic and brilliant craftsmanship make it one of the most beautiful and photographed mosques in Dhaka. The Star Mosque is a living monument to the artistic creativity and cultural influences of the Mughal and colonial periods in Bengal. History K8 — Islamic Art and Chinitikri Craftsmanship.",
+      "factsAdvanced": [
+        "The mosque is decorated with thousands of blue stars made of broken porcelain.",
+        "The 'Chinitikri' mosaic technique was a popular decorative style in 20th-century Dhaka.",
+        "The mosque originally featured three domes and was built in the Mughal style.",
+        "One of the interior walls features a mosaic depicting Mount Fuji.",
+        "The mosque is located in the Armanitola area of Old Dhaka.",
+        "The current five-dome structure was completed during a major renovation in the 1920s.",
+        "The mosque's brilliant white and blue aesthetic is especially striking at sunrise."
+      ]
+    }
+  ]
+}

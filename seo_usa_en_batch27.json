@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "willis-tower-landmarks-v2",
+      "descriptionAdvanced": "The Willis Tower in Chicago, Illinois—formerly known as the Sears Tower—was the world's tallest building for 25 years after its completion in 1974. Representing the pinnacle of Chicago's structural engineering tradition, the tower was designed as a 'bundled tube' structure by architect Bruce Graham and structural engineer Fazlur Rahman Khan, a revolutionary design that maximized stability while minimizing material usage. Standing as a monument to Chicago’s role as the architectural capital of the American Midwest, it remains one of the most significant skyscrapers in global history. Today, the building serves as a major commercial center and features the 'Skydeck,' providing a globally famous glass-bottomed ledge that allows visitors to look straight down toward the street over 1,300 feet below. Architektur K8 — Structural engineering innovation and skyscraper verticality.",
+      "factsAdvanced": [
+        "Former Sears Tower, the tallest building in the world for 25 years.",
+        "Revolutionary 'bundled tube' design by Fazlur Rahman Khan.",
+        "Stands as a centerpiece of Chicago’s legendary architectural history.",
+        "Features the 'Skydeck,' famous for its glass-bottomed viewing ledge.",
+        "A monumental example of mid-20th-century structural engineering.",
+        "Remains a premier commercial anchor of the Chicago skyline."
+      ]
+    },
+    {
+      "id": "kennedy-space-center-landmarks-v2",
+      "descriptionAdvanced": "The John F. Kennedy Space Center on Merritt Island, Florida, is the historic site of America’s most ambitious achievements in space exploration, including the launch sites for the Apollo program and the Space Shuttle era. It stands as a profound symbol of the mid-century Space Race, reflecting the nation’s mobilization to land humans on the moon and explore the final frontier. Today, it operates as a multi-user spaceport where private and public missions continue to launch into orbit, linking the historic legacy of the 1960s with the modern era of commercial spaceflight and deep-space exploration. The center is a global beacon for science education and the persistent human drive to understand the universe. Technik K8 — Space Race history and modern orbital flight.",
+      "factsAdvanced": [
+        "Primary launch site for the historic Apollo moon missions.",
+        "Served as the operational home for the entire Space Shuttle era.",
+        "Profound symbol of the mid-century Space Race achievements.",
+        "Operates today as a major multi-user spaceport for modern orbital missions.",
+        "Links early human exploration history with modern commercial spaceflight.",
+        "A global beacon for scientific achievement and space exploration education."
+      ]
+    },
+    {
+      "id": "grand-central-terminal-landmarks-v2",
+      "descriptionAdvanced": "Grand Central Terminal in New York City is not merely a train station; it is a monumental work of Beaux-Arts architecture that serves as one of the world's most significant transportation hubs. Completed in 1913, the terminal's magnificent main concourse, with its celestial ceiling mural and iconic four-faced clock, has been a central heartbeat of New York City for generations. Beyond its transit role, the building was a masterpiece of urban planning, integrated into Manhattan's midtown growth. Saved from demolition in the 1970s through major landmark preservation efforts—a victory for architectural conservation—the terminal stands today as a testament to the grand era of rail travel and the enduring importance of public space in urban life. Architektur K7 — Beaux-Arts design and urban transit history.",
+      "factsAdvanced": [
+        "Monumental Beaux-Arts transportation hub completed in 1913.",
+        "Famous main concourse features a celestial ceiling and iconic four-faced clock.",
+        "Stands as a masterpiece of early 20th-century urban integration.",
+        "Saved from demolition in the 1970s by landmark preservation movements.",
+        "Essential transit heartbeat of Manhattan for generations of travelers.",
+        "A landmark of architectural conservation and public space design."
+      ]
+    }
+  ]
+}

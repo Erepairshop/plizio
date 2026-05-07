@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fachi-salt-works-economic-v2",
+      "descriptionAdvanced": "Fachi oázisának sólepárlói évezredek óta a szaharai túlélés és gazdaság fontos pillérei. A Ténéré sivatag szívében fekvő település lakói a felszín alatti sós vizekből párologtatják ki a natront, amelyet aztán kézzel tömörítenek szilárd tömbökké. Ezek a sótéglák elengedhetetlenek a déli régiók állattenyésztésében. Fachi elszigeteltsége miatt a kitermelt sót ma is szinte kizárólag tevekaravánok viszik a piacokra. Kémia K6 — természetes sólepárlás.",
+      "factsAdvanced": [
+        "A Ténéré sivatag közepén található, elszigetelt sókitermelő hely.",
+        "A natront hagyományos, kézi párologtatásos módszerrel nyerik ki.",
+        "A kész sót jellegzetes tömbökké formálják az állatok számára.",
+        "Kizárólag a napenergiára és a sivatagi hőségre támaszkodik.",
+        "A szállítás javarészt ma is tevekaravánokkal történik.",
+        "Évezredek óta biztosítja az oázis lakóinak megélhetését."
+      ]
+    },
+    {
+      "id": "zinder-tannery-economic-v2",
+      "descriptionAdvanced": "A történelmi Zinder városának bőrcserző és bőrfeldolgozó negyede országos hírű a kézműves hagyományairól. A helyi kézművesek generációk óta használják a helyben fellelhető természetes anyagokat, például az akáciafa magvait és különféle ásványokat a kecske- és báránybőrök kikészítéséhez, színezéséhez. Az itt készült magas minőségű bőráruk, mint a cipők, táskák és lószerszámok a nigériai piacokon is keresettek. Kémia K7 — hagyományos cserzőanyagok.",
+      "factsAdvanced": [
+        "Országos hírű kézműves bőrfeldolgozó központ Zinder városában.",
+        "A cserzéshez természetes anyagokat és helyi növényeket használnak.",
+        "A kecske- és báránybőr magas minőségű kikészítésére specializálódtak.",
+        "A hagyományos technikák évszázadok óta változatlanok.",
+        "A termékeket (táskák, nyergek) Nigériába is exportálják.",
+        "Fontos helyi munkáltató a történelmi városrészben."
+      ]
+    },
+    {
+      "id": "niamey-abattoir-economic-v2",
+      "descriptionAdvanced": "A niameyi központi vágóhíd (Abattoir Frigorifique de Niamey) az ország legnagyobb húsfeldolgozó üzeme. A létesítmény naponta több ezer állatot – szarvasmarhát, kecskét, juhot és tevét – dolgoz fel, nemcsak a főváros friss hússal való ellátására, hanem jelentős exportra is. Az állattenyésztés Niger gazdaságának egyik fő tartópillére, így a vágóhíd modernizációja kulcsfontosságú volt a higiéniai és hűtési lánc biztosításához. Biológia K6 — élelmiszer-biztonság és húsipar.",
+      "factsAdvanced": [
+        "Niger legnagyobb és legmodernebb húsfeldolgozó üzeme.",
+        "Naponta több ezer állat vágását és hűtését végzi.",
+        "Közvetlen szerepe van a hústermékek (főleg marha) exportjában.",
+        "Az állattenyésztés az ország második legnagyobb bevételi forrása.",
+        "Jelentős nemzetközi (főleg arab) beruházások érkeztek ide.",
+        "Gondoskodik az egymilliós főváros élelmiszer-biztonságáról."
+      ]
+    },
+    {
+      "id": "galmi-onion-processing-economic-v2",
+      "descriptionAdvanced": "A \"Galmi lilahagyma\" Niger egyik legismertebb mezőgazdasági exportcikke, és a Galmi környéki feldolgozó központ az iparág szíve. A rendkívül erős, fűszeres ízű hagymafajtát Nyugat-Afrika szerte keresik. A helyi gazdák esős és száraz évszakban egyaránt termesztik, majd a város piaca köré épült hálózat begyűjti, osztályozza és hatalmas zsákokban szállítja a tengerparti országokba (például Elefántcsontpartra). Földrajz K7 — afrikai agrár-export.",
+      "factsAdvanced": [
+        "A \"Galmi lilahagyma\" Nyugat-Afrika egyik legkeresettebb fűszernövénye.",
+        "A termelést intenzív, egész éves öntözéssel biztosítják.",
+        "Hatalmas zsákokban exportálják a környező tengerparti országokba.",
+        "Több ezer helyi gazdának nyújt stabil, magas megélhetést.",
+        "A hagyma szárítása és tárolása speciális helyi technikákkal történik.",
+        "A régió gazdasági felemelkedésének fő mozgatórugója."
+      ]
+    },
+    {
+      "id": "teguidda-salt-extraction-economic-v2",
+      "descriptionAdvanced": "Teguidda-n-Tessoumt sóbányái vizuálisan az egyik leglátványosabb ipari tájat alkotják Észak-Nigerben. A kerek, vörös és barna agyagmedencék százai úgy néznek ki a sivatagból, mint egy idegen bolygó felszíne. A sót itt nem vízlepárlással, hanem sós talaj és víz iszapossá keverésével, majd annak szűrésével és napon szárításával nyerik. A termelést hagyományosan az asszók (tuareg asszonyok) irányítják, a sót pedig nomád pásztoroknak adják el. Kémia K6 — iszapos sólepárlás.",
+      "factsAdvanced": [
+        "Egyedi, sár és sós víz keverésén alapuló sókinyerő módszer.",
+        "A vörös, narancs és barna lepárló medencék ikonikus látványt nyújtanak.",
+        "A munkát hagyományosan a helyi nők (tuaregek) végzik.",
+        "A termék elsősorban állatok sóellátására szolgál.",
+        "Nincs állandó édesvízforrás a közelben, így az élet zord.",
+        "A termelés kizárólag a sivatagi hőségre építkezik."
+      ]
+    },
+    {
+      "id": "maradi-dry-port-project-economic-v2",
+      "descriptionAdvanced": "A Maradi szárazkikötő a nigériai határ közelében épülő hatalmas logisztikai csomópont, amely Niger gazdasági fellendülésének egyik kulcsa. Mivel Maradi az ország kereskedelmi fővárosa, ez a terminál lehetővé teszi, hogy a tengeren érkező importárukat már itt vámkezeljék a Lagosból (Nigéria) érkező teherautókról. A projekt óriási raktárkapacitást és modern hűtőházakat is magában foglal, ami forradalmasítja a helyi kereskedelmet. Gazdaságföldrajz K7 — modern afrikai logisztika.",
+      "factsAdvanced": [
+        "Modern logisztikai terminál Niger kereskedelmi fővárosában.",
+        "Közvetlen kereskedelmi összeköttetést biztosít a lagosi kikötővel.",
+        "Helyben történik az import áruk vámkezelése és elosztása.",
+        "Csökkenti az ország kiszolgáltatottságát az elavult határokon.",
+        "Hatalmas hűtőházakat építenek az élelmiszer-biztonság érdekében.",
+        "Jelentős magán- és állami befektetésekből valósul meg."
+      ]
+    },
+    {
+      "id": "diffa-oil-exploration-economic-v2",
+      "descriptionAdvanced": "A Diffa régióban zajló kőolajkutatás és kitermelés az elmúlt évtizedben radikálisan átalakította ezt a korábban elszigetelt, sivatagi és tóvidéki területet. A kínai olajvállalatok (CNPC) mély fúrásokat végeztek a Csád-tó medencéjének peremén, új infrastruktúrát, utakat és hatalmas kempingeket hozva létre. Bár a fekete arany jelentős nemzeti bevételt generál, a helyi közösségek gyakran panaszkodnak a környezeti károkra és arra, hogy a bevételekből keveset látnak. Társadalomtudomány K8 — olajipar és helyi közösségek.",
+      "factsAdvanced": [
+        "A Csád-tó medencéjének kiterjedt olajkutatási és fúrási zónája.",
+        "Főként kínai vállalatok (CNPC) vezetik a kitermelést.",
+        "Hatalmas, lezárt ipari táborok (bázisok) épültek a sivatagban.",
+        "A térség infrastruktúrája jelentősen fejlődött az ipar miatt.",
+        "Állandó feszültséget okoz a környezetkárosítás a helyiek körében.",
+        "A kőolajat csővezetéken juttatják el a zinderi finomítóba."
+      ]
+    },
+    {
+      "id": "koma-bangou-gold-economic-v2",
+      "descriptionAdvanced": "Koma Bangou a nyugati Tillabéri régió egyik leghíresebb és legveszélyesebb kézműves aranybányája. A település néhány év alatt sátortáborból egy nyüzsgő, kaotikus várossá nőtte ki magát a \"zöldkő\" övezetben talált aranyereknek köszönhetően. A bányászok életveszélyes, keskeny aknákban dolgoznak, míg a felszínen asszonyok zúzzák a kőzetet higany segítségével. A helyszín rávilágít az afrikai informális bányászat gazdasági fontosságára és drámai emberi árnyoldalaira. Társadalomtudomány K8 — informális aranybányászat.",
+      "factsAdvanced": [
+        "Niger legnagyobb kézműves aranybányászati központja nyugaton.",
+        "Több tízezer ember él és dolgozik itt informális körülmények között.",
+        "A bányászok gyakran tíz méternél is mélyebb, instabil aknákba szállnak.",
+        "A kőzet kinyeréséhez veszélyes, mérgező higanyt használnak.",
+        "Sátortáborból kaotikus, állandó településsé nőtte ki magát.",
+        "A hatóságok nehezen tudják szabályozni vagy megadóztatni."
+      ]
+    },
+    {
+      "id": "ayorou-livestock-market-economic-v2",
+      "descriptionAdvanced": "Ayorou állatpiaca nemcsak gazdasági esemény, hanem kulturális intézmény is a Niger folyó partján. Minden vasárnap a környező régiók és Mali nomád pásztorai ide terelik hatalmas zebu és tevecsordáikat. A folyón átkelő állatok látványa ikonikus. A piac nemcsak a húsellátást biztosítja a déli városok számára, hanem központi szerepet játszik az információk cseréjében, a házasságkötésekben és a társadalmi kapcsolatok ápolásában. Társadalomföldrajz K7 — nomád piacok társadalmi szerepe.",
+      "factsAdvanced": [
+        "A Niger folyó menti régió egyik legfontosabb vasárnapi állatpiaca.",
+        "Mali nomádjai is idehozzák eladni szarvasmarha- és tevecsordáikat.",
+        "A folyón átúsztatott állatok látványosságnak számítanak.",
+        "Kulcsszerepet játszik Dél-Niger és Niamey húsellátásában.",
+        "A gazdasági funkció mellett kiemelkedő társadalmi találkozóhely.",
+        "Élénk kereskedelem zajlik kézműves bőr- és fémtárgyakkal is."
+      ]
+    },
+    {
+      "id": "zinder-peanut-processing-economic-v2",
+      "descriptionAdvanced": "Zinder a 20. század közepén Nyugat-Afrika egyik legnagyobb földimogyoró-feldolgozó központja volt, és bár az iparág az aszályok miatt visszaszorult, ma újra reneszánszát éli. A város körüli agyagos, homokos talaj tökéletes a mogyorótermesztéshez. A helyi kisüzemek és modern gyárak a mogyoróból étolajat, állati takarmányt és fűszerpasztákat (például a híres kuli-kulit) állítanak elő, amelyeket belföldön és a szomszédos Nigériában értékesítenek. Gazdaságföldrajz K7 — afrikai élelmiszer-feldolgozás.",
+      "factsAdvanced": [
+        "A történelmi földimogyoró-ipar újjáéledő központja.",
+        "A helyi homokos talaj ideális a mogyoró termesztéséhez.",
+        "Fő termékeik a mogyoróolaj és az állati takarmány (pogácsa).",
+        "A hagyományos \"kuli-kuli\" mogyorópaszta fontos helyi élelmiszer.",
+        "Helyi női szövetkezetek is aktívan részt vesznek a feldolgozásban.",
+        "A termékek nagy része a nigériai piacra kerül."
+      ]
+    },
+    {
+      "id": "tahoua-phosphate-mining-economic-v2",
+      "descriptionAdvanced": "Tahoua régió eldugott foszfátbányái stratégiai jelentőségűek a jövő mezőgazdasága szempontjából. A Tahoua (és a közeli Bouza) környékén felszínre hozott nyers foszfátkőzetből szerves műtrágyát állítanak elő, amely elengedhetetlen a Száhel-övezet kimerült, homokos talajainak feljavításához. Bár a kitermelés még kisebb léptékű, a kormányzat kiemelten támogatja, hogy csökkentse az ország drága importműtrágyától való függőségét. Kémia K8 — foszfátok és talajjavítás.",
+      "factsAdvanced": [
+        "Fontos helyi foszfátlelőhely Tahoua régió sivatagos határán.",
+        "A kőzetből olcsó és hatékony mezőgazdasági műtrágyát készítenek.",
+        "Kritikus szerepe van a kimerült afrikai talajok feljavításában.",
+        "Célja a drága import műtrágyáktól való nemzeti függetlenedés.",
+        "A kitermelés nagy része még mindig félig gépesített.",
+        "Közvetlen hatással van a helyi élelmezésbiztonságra."
+      ]
+    },
+    {
+      "id": "agadez-logistics-hub-economic-v2",
+      "descriptionAdvanced": "Agadez a modern korban egy hatalmas informális és logisztikai bázissá alakult a Szahara kapujában. A városból indulnak a homokdűnéken átkelő kamionkonvojok Líbia és Algéria felé, szállítva árukat, élelmiszert és gyakran migránsokat is. A logisztikai iparág (szerelők, sofőrök, csempészek és szállásadók) a város fő megélhetési forrásává vált a turizmus összeomlása után. Ez a hub a transzszaharai gazdaság igazi idegközpontja. Gazdaságföldrajz K8 — transzszaharai kereskedelem.",
+      "factsAdvanced": [
+        "A Szahara átszelésére induló kamionkonvojok fő bázisa.",
+        "A turizmus összeomlása után a tranzitlogisztika vette át a főszerepet.",
+        "Kiterjedt javítóműhelyek és alkatrészpiacok találhatók itt.",
+        "A Líbia és Algéria felé tartó áru- és személyszállítás központja.",
+        "Gazdasága erősen függ az informális (feketepiaci) kereskedelemtől.",
+        "Az utazás a sivatagon keresztül gyakran heteket vesz igénybe."
+      ]
+    },
+    {
+      "id": "ne-agadez-historic-centre-history-v2",
+      "descriptionAdvanced": "Agadez történelmi központja a sivatagi építészet mesterműve, amely a 15. és 16. században épült ki az Air Szultanátus virágzásakor. Az agyagból épült, labirintusszerű utcák, díszes portálok és belső udvaros házak nemcsak esztétikusak, hanem zseniálisan védenek a sivatagi hőség ellen. A városrész évszázadokon át a tuareg karavánok és a muszlim tudósok találkozóhelye volt, 2013-ban pedig egyedülálló értéke miatt megkapta az UNESCO Világörökség címet. Történelem K7 — szaharai iszlám építészet.",
+      "factsAdvanced": [
+        "A 15. századi Air Szultanátus idején épült ki.",
+        "Kizárólag vályogtéglát (banco) és fát használtak az építkezéshez.",
+        "A labirintusszerű utcák árnyékot adnak a sivatagi nap ellen.",
+        "Történelmileg a tuareg karavánok legfőbb gyülekezőhelye volt.",
+        "2013-ban hivatalosan felkerült az UNESCO Világörökség listájára.",
+        "Ma is élénk lakó- és kézművesnegyedként funkcionál."
+      ]
+    },
+    {
+      "id": "ne-agadez-mosque-history-v2",
+      "descriptionAdvanced": "Az Agadezi Nagymecset Nyugat-Afrika egyik legikonikusabb épülete, amely egy 27 méter magas, piramis alakú agyagminarettel büszkélkedhet. Az eredetileg 1515-ben épült mecsetet fából készült állványzat borítja, amely nemcsak díszítőelem, hanem lehetővé teszi a helyi kőművesek számára, hogy minden esős évszak után újra tapaszzák és megerősítsék az agyagfalakat. A minaret évszázadokon át világítótoronyként mutatta az irányt a sivatagból érkező karavánoknak. Történelem K6 — afrikai minaretek és vallás.",
+      "factsAdvanced": [
+        "Eredetileg 1515-ben épült, a szaharai iszlám építészet remeke.",
+        "Minaretje 27 méter magas, teljes egészében agyagból készült.",
+        "A kiálló fagerendák állványzatként szolgálnak a karbantartáshoz.",
+        "A világ legmagasabb agyagból (banco) épült építményei közé tartozik.",
+        "A sivatagi karavánok tájékozódási pontjaként is szolgált.",
+        "Minden évben közösségi munkával tatározzák a falait."
+      ]
+    },
+    {
+      "id": "ne-djado-ruins-history-v2",
+      "descriptionAdvanced": "A Djado-fennsíkon található kísértetvárosok romjai a Ténéré sivatag északi részén az egykori szaharai élet mementói. Ezeket a sziklára épült, megerősített településeket (ksarokat) valószínűleg a toubou törzsek vagy a Kanem-Bornu birodalom lakói építették a középkorban, hogy védjék az oázist a nomád rablóktól. A kiszáradás, a maláriát terjesztő szúnyogok és a kereskedelmi útvonalak eltolódása miatt a városokat évszázadokkal ezelőtt elhagyták, ma csak a szél formálja omladozó falaikat. Történelem K8 — elhagyott szaharai civilizációk.",
+      "factsAdvanced": [
+        "Középkori erődített oázisvárosok romjai a kietlen sivatagban.",
+        "Sziklaszirtekre épültek a nomád támadások elleni védekezésül.",
+        "A területet a kiszáradás és a betegségek miatt hagyták el.",
+        "A Kanem-Bornu birodalom és a Kanuri nép történelmi emléke.",
+        "A romok csak rendkívül nehezen, terepjárós expedíciókkal elérhetők.",
+        "Az utóbbi időben az illegális aranyásók veszélyeztetik a maradványokat."
+      ]
+    },
+    {
+      "id": "ne-zinder-birni-history-v2",
+      "descriptionAdvanced": "A Birni negyed Zinder városának ősi, erődített magja, amely a Damagaram Szultanátus hatalmi központja volt a 19. században. A girbegurba utcákat vastag, domborművekkel (hausza motívumokkal) díszített agyagfalú házak szegélyezik, amelyek hűvösen tartják a belső tereket. A negyed egykor rabszolgakereskedők, nemesek és karavánvezetők otthona volt, és a francia hódításig a régió legfontosabb politikai központjaként működött. Történelem K8 — a haúsza városállamok és szultanátusok.",
+      "factsAdvanced": [
+        "Zinder ősi, egykor vastag agyagfalakkal védett városrésze.",
+        "A 19. századi erős Damagaram Szultanátus központja.",
+        "A házakat jellegzetes, geometrikus haúsza domborművek díszítik.",
+        "Történelmileg a transzszaharai kereskedelem kulcspontja volt.",
+        "Sok épület több száz éves és generációk óta ugyanazon családé.",
+        "A francia gyarmatosításig független államként működött."
+      ]
+    },
+    {
+      "id": "ne-damagaram-palace-history-v2",
+      "descriptionAdvanced": "A zinderi Szultáni Palota a Damagaram Szultanátus monumentális rezidenciája, amely a 19. század közepén épült. A komplexum a haúsza építészet klasszikus elemeit vonultatja fel: vaskos agyagfalakat, árnyékos belső udvarokat és faragott faportálokat. Bár a szultanátus politikai hatalmát a franciák megtörték, a mindenkori szultán ma is a palotában él, és jelentős vallási, valamint morális tekintélyt gyakorol a térség haúsza lakossága felett. Társadalomtudomány K7 — tradicionális uralkodók szerepe.",
+      "factsAdvanced": [
+        "A 19. század közepén épült hagyományos haúsza stílusban.",
+        "A zinderi szultán mai napig hivatalos rezidenciája.",
+        "A komplexum több belső udvart és tanácskozótermet foglal magába.",
+        "A szultán ma is jelentős társadalmi és bírói tekintélyt élvez.",
+        "Az épület falait helyi mesterek évente újratapasztják.",
+        "A palotaőrség ma is színes, hagyományos egyenruhát visel."
+      ]
+    },
+    {
+      "id": "ne-assode-ruins-history-v2",
+      "descriptionAdvanced": "Assodé az Air-hegység legrégebbi városának romja, amelyet a feltételezések szerint a 11. században alapítottak. Évszázadokon át a tuareg szultánok fővárosaként és a sivatagi kereskedelem egyik leggazdagabb megállójaként szolgált. A várost a 20. század elején, a tuaregek franciák elleni lázadása (Kaocen-felkelés) során pusztították el és hagyták el végleg. Ma a kiterjedt kő- és agyagromok némán tanúskodnak az egykori szaharai jólétről. Történelem K8 — tuareg ellenállás és gyarmatosítás.",
+      "factsAdvanced": [
+        "Az Air-hegység legrégebbi, 11. században alapított tuareg városa.",
+        "Évszázadokig a régió politikai és kereskedelmi központja volt.",
+        "Az 1916-os Kaocen-lázadás (franciaellenes felkelés) során elpusztult.",
+        "Ma kiterjedt kő- és agyagromok találhatók a völgyben.",
+        "A transzszaharai luxuscikkek (arany, só) csomópontja volt.",
+        "Régészetileg kiemelten fontos, de feltáratlan terület."
+      ]
+    },
+    {
+      "id": "ne-fachi-fort-history-v2",
+      "descriptionAdvanced": "A fachi Ksar (erőd) a Ténéré sivatag közepén egy lenyűgöző középkori agyagépítmény. Ezt az ablaktalan, magas falakkal körülvett komplexumot a helyi kanuri lakosság építette, hogy menedéket találjanak a folyamatosan fosztogató tuareg és tubu nomádok ellen. Veszély esetén az oázis teljes lakossága az erődbe húzódott élelemkészleteikkel együtt. A Ksar ma is viszonylag épségben áll, emlékeztetve a szaharai élet brutalitására. Történelem K7 — védelmi építészet a sivatagban.",
+      "factsAdvanced": [
+        "Ablaktalan, magas agyagfalakkal rendelkező erőd (ksar).",
+        "A fachi oázis lakosságának nyújtott védelmet a nomád támadások ellen.",
+        "A falakon belül magtárak és víztartalékok kaptak helyet.",
+        "Kizárólag a sivatagi talaj (banco) felhasználásával épült.",
+        "Több száz éves, és ma is meghatározza a falu arculatát.",
+        "Élő példája a sivatagi túlélés építészeti zsenialitásának."
+      ]
+    },
+    {
+      "id": "ne-bilma-salt-history-v2",
+      "descriptionAdvanced": "A Bilma-oázis évszázadok óta a \"fehér arany\", azaz a só kitermelésének afrikai központja. A középkorban a bilmai só olyan értékes volt, hogy délen aranyra, gabonára és rabszolgákra cserélték. A híres Azalai karavánok – amelyek egykor ezer tevéből is álltak – innen indultak Agadez, Kano és a Száhel távolabbi vidékei felé. A helyszín történelme elválaszthatatlan a transzszaharai kereskedelmi hálózatok kialakulásától. Történelem K8 — sókereskedelem és az Azalai.",
+      "factsAdvanced": [
+        "A középkori transzszaharai sókereskedelem legfőbb forrása.",
+        "A bilmai sót délen egykor aranyra és rabszolgákra cserélték.",
+        "Itt volt a kiindulópontja az ezertevés Azalai karavánoknak.",
+        "A sólepárló medencéket (kawar) több ezer éve használják.",
+        "A Kanem-Bornu birodalom hatalmának egyik gazdasági oszlopa volt.",
+        "A hagyományos termelés a modern időkben is fennmaradt."
+      ]
+    },
+    {
+      "id": "ne-dirkou-outpost-history-v2",
+      "descriptionAdvanced": "Dirkou történelmi végvárként és helyőrségként szolgált az iszlám hódítók, a helyi birodalmak, majd a francia gyarmatosítók számára. Elhelyezkedése a Kawar-oázisrendszerben ideális ellenőrzőponttá tette a Líbiából érkező karavánok megadóztatására. A 20. században a franciák egy erős katonai erődöt (Fort Dirkou) építettek itt, hogy biztosítsák fennhatóságukat az engedetlen sivatagi törzsek felett. Ma az ősi romok és a katonai bázisok egymás mellett állnak. Történelem K8 — gyarmati előretörés a Szaharában.",
+      "factsAdvanced": [
+        "Történelmi végvár és ellenőrzőpont a Kawar-völgy északi részén.",
+        "Célpontja volt az afrikai birodalmaknak és a francia hódítóknak.",
+        "A Líbia felől érkező kereskedők legfontosabb vámszedő helye.",
+        "A franciák katonai erődöt építettek a nomádok kontrollálására.",
+        "Rabszolgapiaca a 19. századig aktívan működött.",
+        "Az ősi karavánutak katonai védelmére specializálódott."
+      ]
+    },
+    {
+      "id": "ne-arbre-tenere-history-v2",
+      "descriptionAdvanced": "A Ténéré Fája (Arbre du Ténéré) a világ legelszigeteltebb fájaként volt ismert; egy magányos akácia, amely a 400 kilométeres sugarú körben az egyetlen élőlény volt a kietlen sivatagban. Évszázadokon át szentként tisztelték és tájékozódási pontként használták a tuareg karavánok, akik sosem vágtak le róla ágat tűzifának. Tragikus módon 1973-ban egy eltévedt líbiai teherautó kidöntötte. Ma egy fémszobor áll a helyén, míg az eredeti fát a niameyi múzeumban őrzik. Történelem K6 — szaharai legendák és tájékozódás.",
+      "factsAdvanced": [
+        "Évtizedekig hivatalosan a világ legelszigeteltebb fájának számított.",
+        "Egy magányos akáciafa volt 400 kilométeres körzetben.",
+        "A sókaravánok legfontosabb szaharai navigációs pontja volt.",
+        "Gyökerei több mint 30 méter mélyre nyúltak a talajvízért.",
+        "1973-ban egy teherautó letarolta; helyén ma fémszobor áll.",
+        "Az eredeti fa maradványait a Niameyi Nemzeti Múzeumban állították ki."
+      ]
+    },
+    {
+      "id": "ne-dosso-palace-history-v2",
+      "descriptionAdvanced": "A Djermakoye Palota Dosso városában a zarma (djerma) népcsoport történelmi és kulturális szíve. Az 1904-ben jelenlegi formájában megépült palota az iszlám és az afrikai építészet ötvözete, amelyet a helyi uralkodó, a Djermakoye rezidenciájaként emeltek. A palota falai között dőltek el a gyarmati idők kompromisszumai a franciákkal, ami lehetővé tette, hogy a régió megőrizze bizonyos fokú autonómiáját. Az épület 2006 óta az UNESCO világörökségi javaslati listáján szerepel. Történelem K7 — zarma történelem és diplomácia.",
+      "factsAdvanced": [
+        "A zarma nép tradicionális vezetőjének (Djermakoye) palotája.",
+        "1904-ben épült hagyományos afrikai és iszlám stílusjegyekkel.",
+        "Jelképe a franciákkal kötött sikeres diplomáciai egyezségeknek.",
+        "Hatalmas, díszített kapuk és audienciatermek jellemzik.",
+        "UNESCO világörökségi várományos helyszín.",
+        "Kulturális és vallási központként ma is aktívan működik."
+      ]
+    },
+    {
+      "id": "ne-maradi-history-v2",
+      "descriptionAdvanced": "Maradi történelmileg a \"Katsinawa\" (Katsina állam haúsza menekültjei) által alapított város volt a 19. század elején, miután a fulani dzsihád kiszorította őket Nigériából. Az erődített település ellenállt a fulani inváziónak, és önálló, erős haúsza államként maradt fenn. Története szorosan összefügg a védekezéssel és a kereskedelemmel, amelynek köszönhetően Maradi ma is Niger legfontosabb gazdasági és kulturális központja a déli határon. Történelem K8 — a fulani dzsihád és haúsza ellenállás.",
+      "factsAdvanced": [
+        "A nigériai Katsina államból elmenekült haúszák alapították a 19. században.",
+        "Sikeresen ellenállt a fulani birodalom (Sokoto Kalifátus) hódításának.",
+        "Történelmileg egy erős, független haúsza katonai állam volt.",
+        "Stratégiai fekvése miatt gyorsan hatalmas kereskedelmi központtá vált.",
+        "A városvédő falak romjai ma is fellelhetők néhány helyen.",
+        "Az ellenállás öröksége ma is büszkeség a helyiek számára."
+      ]
+    },
+    {
+      "id": "ne-ouallam-capital-history-v2",
+      "descriptionAdvanced": "Ouallam a történelmi Zarmaganda (a zarma nép őshazája) északi peremén helyezkedik el. A település a zarma harcosok fontos gyülekezőhelye és védelmi bázisa volt a nomád tuareg és fulani törzsek folyamatos betörései ellen a prekoloniális korban. A régió története tele van hősi eposzokkal és csatákkal, amelyeket a helyi \"griot\"-ok (mesemondók) a mai napig énekelnek a falu főterén. Történelem K7 — afrikai szájhagyomány és védelem.",
+      "factsAdvanced": [
+        "A történelmi Zarmaganda (Zarma őshaza) egyik északi bástyája.",
+        "Katonai védvonal volt a tuareg és fulani betörések ellen.",
+        "A helyi történelem megőrzését a griot-ok (mesemondók) végzik.",
+        "Kulturálisan a harcos hagyományok jellemzik.",
+        "Több prekoloniális csata színhelye a régió ellenőrzéséért.",
+        "Építészete a zárt, védekezésre berendezkedett falvakat tükrözi."
+      ]
+    }
+  ]
+}

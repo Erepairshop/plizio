@@ -1,0 +1,506 @@
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(28,6): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(28,25): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(29,8): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(29,10): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(30,5): error TS1137: Expression or comma expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(31,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(32,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(33,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(33,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(36,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(37,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(38,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(39,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(40,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(40,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(43,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(44,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(45,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(46,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(48,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(49,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(50,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(51,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(54,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(55,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(56,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(57,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(60,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(61,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(62,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(63,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(66,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(67,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(68,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(69,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(69,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(72,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(73,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(74,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(75,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(76,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(76,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(79,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(80,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(81,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(82,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(84,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(85,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(86,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(87,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(90,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(91,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(92,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(93,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(96,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(97,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(98,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(99,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(102,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(103,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(104,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(105,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(105,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(108,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(109,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(110,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(111,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(112,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(112,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(115,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(116,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(117,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(118,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(120,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(121,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(122,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(123,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(126,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(127,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(128,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(129,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(132,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(133,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(134,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(135,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(138,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(139,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(140,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(141,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(141,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(144,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(145,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(146,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(147,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(148,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(148,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(151,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(152,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(153,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(154,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(156,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(157,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(158,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(159,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(162,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(163,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(164,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(165,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(168,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(169,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(170,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(171,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(174,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(175,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(176,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(177,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(177,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(180,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(181,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(182,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(183,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(184,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(184,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(187,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(188,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(189,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(190,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(192,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(193,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(194,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(195,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(198,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(199,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(200,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(201,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(204,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(205,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(206,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(207,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(210,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(211,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(212,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(213,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(213,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(216,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(217,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(218,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(219,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(220,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(220,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(223,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(224,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(225,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(226,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(228,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(229,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(230,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(231,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(234,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(235,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(236,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(237,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(240,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(241,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(242,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(243,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(246,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(247,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(248,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(249,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(249,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(252,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(253,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(254,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(255,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(256,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(256,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(259,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(260,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(261,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(262,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(264,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(265,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(266,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(267,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(270,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(271,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(272,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(273,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(276,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(277,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(278,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(279,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(282,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(283,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(284,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(285,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(285,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(288,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(289,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(290,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(291,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(292,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(292,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(295,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(296,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(297,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(298,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(300,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(301,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(302,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(303,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(306,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(307,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(308,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(309,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(312,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(313,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(314,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(315,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(318,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(319,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(320,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(321,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(321,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(324,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(325,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(326,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(327,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(328,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(328,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(331,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(332,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(333,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(334,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(336,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(337,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(338,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(339,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(342,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(343,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(344,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(345,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(348,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(349,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(350,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(351,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(354,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(355,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(356,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(357,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(357,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(360,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(361,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(362,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(363,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(364,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(364,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(367,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(368,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(369,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(370,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(372,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(373,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(374,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(375,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(378,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(379,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(380,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(381,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(384,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(385,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(386,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(387,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(390,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(391,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(392,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(393,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(393,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(396,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(397,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(398,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(399,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(400,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(400,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(403,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(404,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(405,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(406,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(408,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(409,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(410,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(411,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(414,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(415,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(416,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(417,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(420,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(421,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(422,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(423,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(426,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(427,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(428,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(429,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(429,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(432,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(433,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(434,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(435,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(436,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(436,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(439,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(440,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(441,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(442,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(444,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(445,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(446,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(447,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(450,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(451,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(452,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(453,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(456,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(457,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(458,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(459,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(462,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(463,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(464,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(465,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(465,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(468,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(469,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(470,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(471,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(472,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(472,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(475,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(476,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(477,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(478,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(480,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(481,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(482,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(483,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(486,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(487,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(488,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(489,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(492,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(493,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(494,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(495,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(498,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(499,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(500,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(501,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(501,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(504,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(505,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(506,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(507,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(508,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(508,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(511,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(512,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(513,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(514,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(516,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(517,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(518,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(519,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(522,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(523,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(524,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(525,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(528,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(529,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(530,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(531,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(534,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(535,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(536,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(537,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(537,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(540,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(541,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(542,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(543,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(544,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(544,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(547,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(548,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(549,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(550,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(552,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(553,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(554,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(555,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(558,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(559,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(560,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(561,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(564,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(565,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(566,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(567,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(570,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(571,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(572,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(573,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(573,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(576,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(577,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(578,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(579,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(580,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(580,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(583,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(584,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(585,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(586,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(588,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(589,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(590,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(591,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(594,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(595,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(596,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(597,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(600,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(601,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(602,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(603,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(606,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(607,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(608,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(609,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(609,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(612,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(613,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(614,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(615,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(616,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(616,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(619,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(620,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(621,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(622,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(624,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(625,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(626,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(627,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(630,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(631,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(632,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(633,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(636,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(637,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(638,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(639,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(642,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(643,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(644,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(645,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(645,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(648,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(649,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(650,5): error TS1109: Expression expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(651,5): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(652,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(652,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(655,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(656,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(657,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(658,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(660,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(661,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(662,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(663,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(666,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(667,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(668,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(669,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(672,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(673,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(674,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(676,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(679,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(680,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(681,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(682,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(684,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(685,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(686,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(687,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(690,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(691,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(692,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(693,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(696,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(697,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(698,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraJapanEconomicV2.ts(701,1): error TS1128: Declaration or statement expected.

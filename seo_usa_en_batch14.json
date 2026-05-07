@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "plymouth-rock-history-v2",
+      "descriptionAdvanced": "Plymouth Rock is the traditional site of disembarkation for the Pilgrims who arrived on the Mayflower in 1620, establishing the Plymouth Colony. While its historical accuracy as the precise spot is widely debated, the rock serves as a potent cultural symbol for the early English settlement of New England. The Pilgrims, seeking religious freedom, navigated a difficult first winter and relied on the aid of the Wampanoag people to survive. This settlement represents a cornerstone in the foundational mythos of the United States, illustrating early colonial efforts to establish autonomy and their complex relationships with the Indigenous populations of the region. History K7 — Pilgrim migration and the foundations of New England colonies.",
+      "factsAdvanced": [
+        "Symbolic traditional site of the Pilgrims' arrival in 1620.",
+        "Marks the founding of the Plymouth Colony in Massachusetts.",
+        "Pilgrims sought religious freedom from English state authorities.",
+        "Native Wampanoag people provided crucial assistance to the surviving colonists.",
+        "Serves as a foundational cultural site in American history.",
+        "The historical accuracy of the specific rock as the landing site remains debated."
+      ]
+    },
+    {
+      "id": "colonial-williamsburg-history-v2",
+      "descriptionAdvanced": "Colonial Williamsburg is a large-scale living-history museum that recreates the political and social atmosphere of the 18th-century capital of the Virginia Colony. Serving as a hub for colonial thought, the city hosted pivotal debates and revolutionary ideas that would lead to the independence of the American colonies, with figures like Patrick Henry and Thomas Jefferson frequenting its public spaces. Today, the restored and reconstructed town serves as an educational destination, providing visitors with immersive experiences into the lives of colonial residents, the enslaved individuals whose labor underpinned the economy, and the radical political transitions of the era. History K8 — Revolutionary intellectual thought and colonial society.",
+      "factsAdvanced": [
+        "Served as the vibrant capital of the Virginia Colony in the 18th century.",
+        "Key center for revolutionary ideas and debates leading to independence.",
+        "Restored and reconstructed as a massive living-history museum.",
+        "Features influential historical figures including Thomas Jefferson.",
+        "Educates visitors on both colonial elite society and enslaved laborers.",
+        "Preserves the architectural and political landscape of pre-Revolutionary America."
+      ]
+    },
+    {
+      "id": "valley-forge-history-v2",
+      "descriptionAdvanced": "Valley Forge, Pennsylvania, was the site of the Continental Army's winter encampment from 1777 to 1778, during the American Revolutionary War. Under the leadership of George Washington, the army faced starvation, disease, and freezing temperatures. Despite these extreme hardships, the encampment served as a turning point for military organization and training, significantly improved by the efforts of Baron von Steuben. Through rigorous drills and standardized training, the previously fractured army emerged as a more professional and unified fighting force. The survival and transformation of the army at Valley Forge remain a powerful symbol of resilience, sacrifice, and the enduring commitment to American independence. History K8 — Military transformation and resilience during the Revolutionary War.",
+      "factsAdvanced": [
+        "Site of the Continental Army's winter encampment, 1777–1778.",
+        "Faced extreme hardships, including starvation, disease, and harsh weather.",
+        "Baron von Steuben provided essential, modernized military training.",
+        "The army emerged as a more professional and unified fighting force.",
+        "Remains a powerful symbol of resilience in the fight for independence.",
+        "George Washington’s leadership during this crisis was crucial."
+      ]
+    }
+  ]
+}

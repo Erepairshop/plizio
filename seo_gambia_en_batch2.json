@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sibanor-cities-v2",
+      "descriptionAdvanced": "Sibanor is a prominent town located in the Foni Bintang Karanai district within the West Coast Region. Straddling the vital South Bank Road, it serves as a critical junction for rural transport and local agricultural commerce. The town is highly regarded locally as an educational hub, hosting key schools that serve the surrounding agricultural villages. Historically rooted in Jola traditions, Sibanor maintains strong community ties through annual cultural festivals and communal farming practices. Its proximity to the dense forests and tributaries of the Foni region makes it an essential center for sustainable timber harvesting and rural healthcare clinics. (Geography K6 — rural administrative towns and transport routes)",
+      "factsAdvanced": [
+        "Located in the Foni Bintang Karanai district on the South Bank Road.",
+        "Serves as an important educational and healthcare hub for rural villages.",
+        "Culturally significant as a traditional center for the Jola ethnic group.",
+        "Acts as a major collection point for agricultural produce in the region.",
+        "Maintains strong traditions of communal farming and harvesting.",
+        "Surrounded by the characteristic dense woodland savanna of the Foni area."
+      ]
+    },
+    {
+      "id": "sanyang-cities-v2",
+      "descriptionAdvanced": "Sanyang is a sprawling coastal town renowned for having one of the most stunning shorelines in The Gambia, often affectionately referred to as Paradise Beach. Located in the Kombo South district, the town's economy is uniquely balanced between large-scale traditional fishing and a booming eco-tourism sector. Daily life converges at the beachfront where hundreds of colorful pirogues land their daily catches, sustaining a massive local fish processing industry. Inland from the beach, Sanyang is surrounded by fertile horticultural gardens and expansive mango orchards, reflecting its deep agricultural roots. (Economics K6 — tourism and artisanal fisheries)",
+      "factsAdvanced": [
+        "Home to the famous stretch of coastline known locally as Paradise Beach.",
+        "Features one of the most active and productive fishing ports in the Kombo region.",
+        "The economy balances traditional artisanal fishing with growing eco-tourism.",
+        "Inland areas are characterized by vast mango orchards and vegetable gardens.",
+        "A major center for traditional fish smoking and drying industries.",
+        "Maintains a strong, traditional community structure distinct from the tourist resorts."
+      ]
+    },
+    {
+      "id": "busumbala-cities-v2",
+      "descriptionAdvanced": "Busumbala is a rapidly expanding suburban town situated along the main Brikama Highway, connecting the bustling Serekunda metropolis to the administrative center of Brikama. Historically an important Mandinka settlement, it has transformed into a critical residential and commercial corridor due to immense urban sprawl. The town is home to significant local markets, sprawling mechanic workshops, and numerous small-scale manufacturing businesses. Despite the intense urbanization, Busumbala retains patches of its historic communal lands and remains an essential transit point for both passenger transport and goods moving towards the capital. (Social Studies K6 — urban expansion and suburban commercial zones)",
+      "factsAdvanced": [
+        "Strategically located on the busy highway between Serekunda and Brikama.",
+        "Experiencing rapid population growth and intense suburban development.",
+        "Historically a traditional Mandinka village that has urbanized significantly.",
+        "Features a prominent local market serving the expanding residential areas.",
+        "A major hub for local transport, mechanic workshops, and light manufacturing.",
+        "Serves as a critical transit corridor for goods heading to the capital region."
+      ]
+    },
+    {
+      "id": "bijilo-cities-v2",
+      "descriptionAdvanced": "Bijilo is an upscale coastal settlement located just south of the lively Senegambia tourist strip. The town is famous for the Bijilo Forest Park, a protected coastal reserve colloquially known as the 'Monkey Park', which preserves the last remaining patch of indigenous coastal woodland in the area. Over recent years, Bijilo has evolved into a premier residential and luxury hotel district, offering a more serene alternative to the nightlife-heavy areas to the north. Its pristine beaches and close proximity to critical environmental reserves make it a focal point for high-end eco-tourism and diplomatic residences. (Geography K7 — coastal environments and luxury tourism)",
+      "factsAdvanced": [
+        "Located on the Atlantic coast, immediately south of Kololi.",
+        "Home to the renowned Bijilo Forest Park, widely known as the Monkey Park.",
+        "Characterized by high-end residential neighborhoods and luxury eco-resorts.",
+        "Offers a quieter, more upscale beach experience compared to northern areas.",
+        "The forest park protects a rare stretch of native coastal gallery forest.",
+        "A popular location for diplomatic missions and expatriate residences."
+      ]
+    },
+    {
+      "id": "kololi-cities-v2",
+      "descriptionAdvanced": "Kololi is the undisputed epicenter of The Gambia's tourism industry, situated along the prime stretches of the Atlantic coast. The town's heart is the vibrant Senegambia Strip, a bustling avenue lined with the country's largest resort hotels, international restaurants, craft markets, and nightclubs. Originally a small coastal village, Kololi has been entirely transformed by decades of international tourism, making it the most cosmopolitan and economically dynamic town in the coastal region. Despite the intense commercialization, it remains a critical source of employment for thousands of Gambians in the hospitality and service sectors. (Economics K8 — international tourism and hospitality industries)",
+      "factsAdvanced": [
+        "The epicenter of the Gambian international tourism and hospitality industry.",
+        "Home to the famous Senegambia Strip, packed with resorts and restaurants.",
+        "Features the highest concentration of hotel beds in the country.",
+        "Transformed from a quiet village into a bustling cosmopolitan hub.",
+        "A primary driver of national employment in the service sector.",
+        "Hosts numerous craft markets specifically catering to international visitors."
+      ]
+    },
+    {
+      "id": "kanifing-cities-v2",
+      "descriptionAdvanced": "Kanifing forms the industrial and administrative core of the Greater Banjul Area. Often designated as a municipality of its own, it serves as the beating heart of Gambian manufacturing, hosting the country's primary industrial estate where food processing, brewing, and light manufacturing take place. Beyond industry, Kanifing is the educational epicenter of the nation, being the home of the University of The Gambia and several major technical colleges. Its highly urbanized landscape bridges the gap between the administrative capital of Banjul and the sprawling commercial markets of Serekunda, making it arguably the most economically vital zone in the country. (Economics K8 — industrial zones and higher education)",
+      "factsAdvanced": [
+        "The primary industrial and manufacturing hub of The Gambia.",
+        "Home to the Kanifing Industrial Estate, hosting breweries and factories.",
+        "Serves as the main campus location for the University of The Gambia.",
+        "A major municipality linking Banjul with the Serekunda urban sprawl.",
+        "Hosts the headquarters of numerous national corporations and media outlets.",
+        "A critical center for national technical and vocational education."
+      ]
+    },
+    {
+      "id": "bundung-cities-v2",
+      "descriptionAdvanced": "Bundung is one of the most densely populated and vibrant suburban neighborhoods within the sprawling Serekunda urban area. Known for its intense, labyrinthine streets and vibrant street commerce, the community reflects the rapid, largely unplanned urban growth of The Gambia's coastal region. Bundung is critical for its prominent maternal and child hospital, which serves an immense local population. The neighborhood is highly diverse, bringing together people from every ethnic group in the country, and its daily life revolves around numerous small-scale markets, informal businesses, and community-led religious centers. (Social Studies K7 — urban density and neighborhood infrastructure)",
+      "factsAdvanced": [
+        "One of the most densely populated suburban districts in the Serekunda area.",
+        "Characterized by rapid, intense urban expansion and informal commerce.",
+        "Home to the Bundung Maternal and Child Health Hospital.",
+        "Features a highly diverse population representing all Gambian ethnic groups.",
+        "Contains numerous vital, small-scale community markets.",
+        "A prime example of modern West African urban sprawl and community living."
+      ]
+    },
+    {
+      "id": "tallinding-cities-v2",
+      "descriptionAdvanced": "Tallinding is a major urban settlement situated within the Kanifing Municipality, seamlessly blending into the Greater Banjul Area. It serves as a crucial residential and commercial zone for thousands of commuters working in nearby Kanifing and Banjul. The town is locally famous for its vibrant community spirit and is a stronghold of traditional Mandinka and Jola urban culture. Tallinding boasts significant local markets and a prominent Islamic institute, making it a center of religious education. Its location along the main highway to the airport makes it highly connected and continuously bustling with transit traffic. (Social Studies K6 — suburban growth and urban cultures)",
+      "factsAdvanced": [
+        "A densely populated urban settlement within the Kanifing Municipality.",
+        "Acts as a major residential area for workers commuting to the industrial zones.",
+        "Known for its strong community networks and vibrant local markets.",
+        "Hosts important local Islamic educational institutes.",
+        "Strategically located along the main transport corridors leading to the airport.",
+        "Exhibits a rich blend of urbanized traditional Gambian cultures."
+      ]
+    },
+    {
+      "id": "fajikunda-cities-v2",
+      "descriptionAdvanced": "Fajikunda is a bustling, densely populated neighborhood on the eastern edge of the Serekunda urban agglomeration, heavily focused on light industry and informal trade. Historically, the area was known for agricultural plots and sprawling wetlands, but rapid urbanization has transformed it into a critical residential sector. Fajikunda is distinguished by its major health center, which alleviates pressure on the main hospitals in Banjul, and its sprawling network of artisanal workshops handling metalwork and carpentry. The community is vibrant and tightly knit, facing the typical challenges and dynamism of rapid West African urban expansion. (Geography K6 — urban planning and light industry)",
+      "factsAdvanced": [
+        "A high-density residential and commercial suburb east of Serekunda.",
+        "Features a significant concentration of informal artisanal and mechanic workshops.",
+        "Home to the Fajikunda Major Health Centre, a vital regional facility.",
+        "Transformed from historic agricultural wetlands into a sprawling urban zone.",
+        "A critical hub for light metalworking and carpentry businesses.",
+        "Characterized by a vibrant, complex network of community markets."
+      ]
+    },
+    {
+      "id": "dippa-kunda-cities-v2",
+      "descriptionAdvanced": "Dippa Kunda is one of the oldest and most established neighborhoods within the greater Serekunda municipality. Named after a prominent founding family, the area maintains a distinct sense of historical identity despite being entirely engulfed by urban sprawl. It is widely recognized for its vibrant local market and a high concentration of tailoring, batik dyeing, and traditional craft workshops. The neighborhood serves as a cultural anchor within the chaotic urban environment, preserving traditional societal structures and hosting significant local cultural events, making it a microcosm of traditional Gambian life adapted to the modern city. (Social Studies K5 — neighborhood heritage and urban crafts)",
+      "factsAdvanced": [
+        "One of the oldest established neighborhoods within the Serekunda area.",
+        "Maintains a strong sense of historical identity amid rapid urban sprawl.",
+        "Famous for numerous traditional batik dyeing and tailoring workshops.",
+        "Named after its traditional founding family, retaining local cultural leadership.",
+        "A bustling commercial zone with a highly active community market.",
+        "Successfully blends traditional social structures with dense city living."
+      ]
+    },
+    {
+      "id": "abuko-cities-v2",
+      "descriptionAdvanced": "Abuko is a critical town located on the southern edge of the Kanifing Municipality, globally renowned for its proximity to the Abuko Nature Reserve, The Gambia's oldest protected wildlife area. Originally a quiet rural settlement bordering a massive water catchment area, the town has urbanized rapidly due to its location along the main highway leading to Brikama. Besides eco-tourism drawn by the reserve's primate and bird populations, Abuko is a vital commercial hub featuring the country's largest livestock market. Here, cattle, sheep, and goats from the interior and neighboring countries are traded daily, feeding the urban coast. (Economics K6 — livestock trade and wildlife conservation)",
+      "factsAdvanced": [
+        "Located on the southern boundary of the Kanifing Municipality.",
+        "Famous worldwide as the gateway to the Abuko Nature Reserve, established in 1968.",
+        "Home to The Gambia's largest and most active central livestock market.",
+        "Urbanized rapidly due to its position on the main Brikama Highway.",
+        "The nearby reserve protects a critical water catchment and gallery forest.",
+        "A major transit point for agricultural goods entering the coastal urban zone."
+      ]
+    },
+    {
+      "id": "batokunku-cities-v2",
+      "descriptionAdvanced": "Batokunku is a progressive coastal village in the Kombo South district, notable for its unique approach to renewable energy. Set slightly back from the Atlantic cliffs, this small, peaceful community gained international recognition when it installed a massive wind turbine that not only powers the entire village but also feeds surplus electricity back into the national grid. Beyond its green energy credentials, Batokunku boasts pristine, largely deserted beaches and a slow-paced lifestyle heavily reliant on sustainable fishing and agriculture. The village has become a model for eco-friendly rural development in West Africa. (Science K7 — renewable energy and sustainable villages)",
+      "factsAdvanced": [
+        "A coastal village located in the Kombo South district.",
+        "Renowned for operating a community-owned wind turbine.",
+        "The turbine supplies the village and sells excess power to the national grid.",
+        "Characterized by quiet, pristine beaches with dramatic coastal cliffs.",
+        "Maintains a sustainable economy based on agriculture and artisanal fishing.",
+        "Serves as a pioneering model for renewable energy projects in The Gambia."
+      ]
+    },
+    {
+      "id": "tujereng-cities-v2",
+      "descriptionAdvanced": "Tujereng is a rapidly expanding settlement located on the coastal road south of Tanji, blending traditional village life with modern residential development. Historically a farming and fishing community, its vast stretches of undeveloped land have recently made it a hotspot for real estate and diaspora investments. Despite this growth, Tujereng retains a deep cultural heritage, frequently hosting large traditional wrestling (Laamb) matches that draw crowds from across the region. The town is bordered by beautiful, quiet stretches of coastline and extensive cashew and mango orchards, maintaining a balance between rural tranquility and suburban expansion. (Geography K6 — suburban expansion and cultural sports)",
+      "factsAdvanced": [
+        "Located along the coastal highway south of the Tanji fishing village.",
+        "Experiencing a boom in real estate and diaspora residential investments.",
+        "Famous regionally for hosting massive traditional Gambian wrestling tournaments.",
+        "Surrounded by expansive agricultural lands, particularly mango and cashew orchards.",
+        "Features long, relatively undeveloped stretches of Atlantic coastline.",
+        "Balances rapid modern development with deep traditional community roots."
+      ]
+    },
+    {
+      "id": "kalagi-cities-v2",
+      "descriptionAdvanced": "Kalagi is a strategically important transit town situated in the Foni Jarrol district, located on the major South Bank Road where the highway crosses the impressive Bintang Bolong river tributary. Due to its geography, the town functions as a crucial bottleneck and commercial rest stop for travelers and heavy trucks moving between the coastal cities and the rural interior. Kalagi's economy is highly dependent on this transit traffic, featuring numerous eateries and markets. The adjacent mangrove-lined tributary also supports a vibrant local fishing community and small-scale river transport, highlighting its dual identity as a road and river hub. (Geography K6 — transit corridors and river tributaries)",
+      "factsAdvanced": [
+        "Located in the Foni Jarrol district along the primary South Bank Road.",
+        "Strategically positioned where the highway crosses the Bintang Bolong tributary.",
+        "Functions as a major transit and rest stop for cross-country travelers and freight.",
+        "Economy is heavily reliant on roadside commerce and hospitality services.",
+        "The adjacent river tributary supports an active local fishing industry.",
+        "Acts as a gateway between the western coastal regions and the lower river interior."
+      ]
+    },
+    {
+      "id": "faraba-banta-cities-v2",
+      "descriptionAdvanced": "Faraba Banta is a historic and increasingly significant town located in the Kombo East district, known for its sprawling agricultural lands and dense surrounding forests. Traditionally reliant on extensive peanut farming and timber harvesting, the town has recently gained national prominence as the site of the massive new campus for the University of The Gambia. This development is rapidly transforming Faraba Banta from a quiet rural farming community into a modern educational city, bringing unprecedented infrastructure and urban expansion to the area while attempting to preserve its rich Mandinka cultural heritage and natural landscapes. (Social Studies K7 — educational infrastructure and rural transformation)",
+      "factsAdvanced": [
+        "Located in the Kombo East district, historically a rural agricultural hub.",
+        "The site of the expansive, newly developed campus for the University of The Gambia.",
+        "Traditionally reliant on large-scale groundnut farming and forestry.",
+        "Undergoing rapid transformation from a village into a modern educational city.",
+        "Surrounded by significant tracts of natural woodland and farmlands.",
+        "Maintains deep roots in traditional Mandinka culture and community structures."
+      ]
+    },
+    {
+      "id": "yundum-cities-v2",
+      "descriptionAdvanced": "Yundum is a critical infrastructural hub in The Gambia, globally recognized as the home of the Banjul International Airport. Split into Old Yundum and New Yundum, the town has seen massive urban development directly linked to aviation, military, and transport logistics. Beyond the airport, Yundum is vital to national security, hosting the largest military barracks in the country. Before the airport's expansion, the area was renowned for its immense agricultural output, and parts of New Yundum still feature prominent agricultural research stations. Today, it is a bustling, fast-paced town acting as the primary gateway for international visitors. (Economics K7 — aviation infrastructure and national security)",
+      "factsAdvanced": [
+        "Home to Banjul International Airport, the only international airport in the country.",
+        "Divided into two distinct settlements: Old Yundum and New Yundum.",
+        "Hosts the primary and largest military barracks of the Gambian Armed Forces.",
+        "A critical hub for international logistics, transport, and aviation services.",
+        "Contains important national agricultural research and development stations.",
+        "Functions as the primary entry point for the nation's international tourism sector."
+      ]
+    },
+    {
+      "id": "kotu-cities-v2",
+      "descriptionAdvanced": "Kotu is a premier coastal resort town renowned for its stunning, wide sandy beaches and upscale tourism infrastructure. Unlike the chaotic energy of neighboring Kololi, Kotu offers a more relaxed, family-oriented tourist experience characterized by large, interconnected hotel complexes and manicured golf courses. The Kotu Stream gently meanders through the town before emptying into the ocean, creating a unique micro-habitat rich in birdlife right next to luxury resorts. This area is highly favored by birdwatchers, making it a perfect blend of high-end hospitality and accessible eco-tourism, supported by a bustling local craft market. (Geography K6 — coastal resorts and accessible eco-tourism)",
+      "factsAdvanced": [
+        "A major coastal resort town known for its wide, pristine sandy beaches.",
+        "Offers a quieter, family-oriented atmosphere compared to the Senegambia Strip.",
+        "Features a prominent 18-hole golf course integrated with luxury hotels.",
+        "The Kotu Stream creates a rich wetland habitat highly popular with birdwatchers.",
+        "Hosts a highly active craft market dedicated to tourists and expatriates.",
+        "A prime location demonstrating the integration of eco-tourism and large resorts."
+      ]
+    },
+    {
+      "id": "manjai-kunda-cities-v2",
+      "descriptionAdvanced": "Manjai Kunda is a lively, rapidly growing residential suburb located just inland from the major coastal tourist resorts. It acts as a crucial housing and commercial zone for thousands of Gambians working in the nearby hospitality sectors of Kotu and Kololi. The town is intensely urbanized, featuring a labyrinth of sandy streets packed with informal businesses, vibrant local eateries, and small markets. Manjai Kunda is deeply culturally vibrant, known for its active community centers and popular local football fields where regional tournaments draw massive crowds, reflecting the energetic pulse of modern Gambian urban life. (Social Studies K6 — urban residential zones and community sports)",
+      "factsAdvanced": [
+        "A densely populated residential suburb situated inland from the main coastal resorts.",
+        "Provides vital housing for workers in the nearby Kololi and Kotu tourism sectors.",
+        "Characterized by a vibrant, informal street economy and bustling local markets.",
+        "Renowned for its passionate local football culture and community tournaments.",
+        "Exhibits a chaotic but highly energetic urban growth pattern.",
+        "Functions as an authentic cultural counterpoint to the nearby tourist strips."
+      ]
+    },
+    {
+      "id": "bakoteh-cities-v2",
+      "descriptionAdvanced": "Bakoteh is a prominent suburban district in the Kanifing Municipality, known for its bustling markets and critical civic infrastructure. It serves as a major transport and commercial corridor linking the coastal resorts with the dense Serekunda urban center. Bakoteh is nationally recognized as the location of the SOS Children's Village, a massive charitable organization providing crucial housing, education, and healthcare. Historically, the area has struggled with the presence of the massive Bakoteh dumpsite, a focal point for national debates on urban waste management and environmental health, driving recent massive recycling and sanitation initiatives in the town. (Social Studies K7 — urban waste management and civic institutions)",
+      "factsAdvanced": [
+        "A busy suburban district connecting Serekunda to the coastal areas.",
+        "Home to the expansive SOS Children's Village, a major charitable institution.",
+        "Features one of the most active commercial and transport hubs in the municipality.",
+        "Historically dominated by the massive Bakoteh dumpsite, the country's largest landfill.",
+        "A central focus for national campaigns regarding urban waste management and recycling.",
+        "Hosts numerous local schools and community health initiatives."
+      ]
+    },
+    {
+      "id": "old-jeshwang-cities-v2",
+      "descriptionAdvanced": "Old Jeshwang is one of the most historic settlements in the Greater Banjul Area, situated on the edge of the expansive Tanbi Wetland Complex. Before the massive urban sprawl of Serekunda, it was a distinct, quiet coastal village reliant on fishing and oyster harvesting from the nearby mangroves. Today, it retains a unique identity with narrow, winding streets and historic family compounds. The town is famous for the Old Jeshwang Cemetery, one of the largest and oldest resting places in the urban area. Its proximity to the wetlands continues to influence its local economy, blending dense city living with traditional estuarine foraging. (History K6 — historical urban settlements and wetland economies)",
+      "factsAdvanced": [
+        "One of the oldest distinct historical settlements in the Greater Banjul Area.",
+        "Situated directly on the boundary of the expansive Tanbi Wetland Complex.",
+        "Home to the Old Jeshwang Cemetery, a massive and historically significant site.",
+        "Maintains a strong tradition of oyster harvesting from the adjacent mangroves.",
+        "Features older, traditional family compound architecture amid modern sprawl.",
+        "Functions as a transitional zone between dense urban development and protected wetlands."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "centre-edu-agriculture-miragoane-life-v2",
+      "descriptionAdvanced": "A Miragoâne (Nippes megye) közelében működő mezőgazdasági oktatóközpontok (Centre d'Éducation Agricole) létfontosságúak a délnyugati régió gazdái számára. Ezek az intézmények – gyakran nemzetközi NGO-k és a haiti Agrárminisztérium közös fenntartásában – a modern és a hagyományos technikák ötvözését tanítják. Mivel a régiót a heves esőzések okozta erózió és az aszályos időszakok váltakozása sújtja, a központok főként a teraszos földművelésre, az esővíz-gazdálkodásra és az ellenállóbb vetőmagok használatára fókuszálnak. Emellett gyakorlati képzést nyújtanak a jószágok (főleg kecskék és baromfi) oltásában és betegségmegelőzésében. A központ kísérleti parcelláin a diákok élőben tanulmányozhatják, hogyan növelhető a terméshozam a fenntarthatóság feláldozása nélkül. Az ilyen központok a vidékfejlesztés szellemi bázisai Haitin. Sachkunde K6 — agrárképzés és vidékfejlesztés.",
+      "factsAdvanced": [
+        "A Nippes megye székhelye, Miragoâne vonzáskörzetében található oktatási létesítmény.",
+        "Középpontjában a fenntartható hegyvidéki mezőgazdaság (teraszos művelés) áll.",
+        "Gyakorlati képzést nyújt a helyi parasztoknak az erózió megállításáról.",
+        "Nemzetközi agrárszervezetek és az állam közös projektjeként működik.",
+        "Állategészségügyi alapokat (oltások, higiénia) is tanítanak a jószágtartóknak.",
+        "A központ saját kísérleti földekkel (parcelles de démonstration) rendelkezik."
+      ]
+    },
+    {
+      "id": "parc-naturel-riviere-froide-life-v2",
+      "descriptionAdvanced": "A Parc Naturel de la Rivière Froide (Hideg-folyó Természeti Park) egy nem hivatalos, de ökológiailag kiemelt zóna a Port-au-Prince-től délre fekvő kanyonokban (Carrefour hegyvidéke). A Rivière Froide vize a főváros vízellátásának egyik fontos forrása, így a környező növényzet védelme szó szerint életbe vágó. A meredek, sziklás falakkal határolt folyóvölgyben a víz egész évben szokatlanul hűvös marad, innen ered a neve is. A völgy gazdag páfrányokban és epifitonokban, amelyek a párás mikroklímát kedvelik. A terület egyben népszerű, de veszélyes (a villámárvizek miatt) kirándulóhely és zarándokhely a városi lakosság számára, akik a tiszta vízben végzett rituális mosakodásra érkeznek. A folyó menti kavicsbányászat azonban súlyosan fenyegeti a meder stabilitását. Földrajz K7 — városi vízgyűjtők és folyóvölgyek.",
+      "factsAdvanced": [
+        "A Port-au-Prince-t (Carrefour) határoló déli hegyvidék kanyonrendszere.",
+        "A Rivière Froide ('Hideg-folyó') völgye kulcsfontosságú a főváros vízellátásában.",
+        "A szűk, meredek falak sajátos, párás és hűvös mikroklímát hoznak létre.",
+        "A helyiek gyakran látogatják rituális, vallási célú fürdőzések miatt.",
+        "Az esős évszakban a völgy fokozottan ki van téve a pusztító villámárvizeknek.",
+        "A mederben zajló ellenőrizetlen homok- és kavicsbányászat ökológiai probléma."
+      ]
+    },
+    {
+      "id": "jardin-education-haiti-life-v2",
+      "descriptionAdvanced": "A Jardin d'Éducation (Oktatási Kert) koncepció egyre több haiti iskolában és közösségi központban jelenik meg, gyakran külföldi segélyszervezetek (pl. WFP, helyi NGO-k) támogatásával. Ezek nem hagyományos parkok, hanem az iskolaudvarokon kialakított kisméretű konyhakertek. Céljuk kettős: egyrészt friss zöldséget (paradicsom, spenót, paprika) biztosítanak az iskolai étkeztetéshez, javítva a gyerekek táplálkozását; másrészt pedagógiai eszközként szolgálnak. A diákok maguk vetik el a magokat, gondozzák és szüretelik a növényeket, miközben gyakorlati ismereteket szereznek a biológiáról, a környezetvédelemről és a felelős vízhasználatról. Egy olyan országban, ahol a lakosság jelentős része az agráriumból él, de a modern technológiákhoz nehéz hozzáférni, ezek az apró 'oktatókertek' a fenntartható jövő magvait vetik el a legfiatalabb generációban. Sachkunde K5 — iskolakertek és környezeti nevelés.",
+      "factsAdvanced": [
+        "Iskolaudvarokon vagy közösségi tereken kialakított kisméretű zöldségeskertek.",
+        "Kettős cél: az iskolai menzák ellátása és a diákok gyakorlati oktatása.",
+        "A diákok saját maguk felelnek a növények ültetéséért és gondozásáért.",
+        "Támogatják az egészséges étkezést egy gyakran alultápláltsággal küzdő közegben.",
+        "Bemutatják az alapvető komposztálási és víztakarékossági (csepegtetéses) módszereket.",
+        "Gyakran az ENSZ Világélelmezési Programja (WFP) vagy NGO-k finanszírozzák."
+      ]
+    },
+    {
+      "id": "plantation-cafe-kenskoff-life-v2",
+      "descriptionAdvanced": "A Kenscoff (Ouest megye) környéki hegyoldalak a haiti kávétermesztés történelmi és modern központjai. Az 1500 méter körüli tengerszint feletti magasság, a hűvös éjszakák és a gyakori hegyvidéki köd tökéletes feltételeket teremt a magas minőségű, 'strictly high-grown' Arabica kávé számára. A nagy gyarmati ültetvények felbomlása óta a kávét itt ezer meg ezer apró, teraszos parcellán termesztik a helyi családok (paysans). A kávécserjéket gyakran banánfák vagy hatalmas őshonos fák árnyékában nevelik, ami elősegíti a lassan érő, komplex ízvilágú szemek kialakulását, és egyben védi a hegyoldalt az eróziótól. A szüret (novembertől februárig) intenzív kézi munkát igényel. Bár a kenscoffi kávé világhírű lehetne, a gazdák gyakran küzdenek a felvásárlási árak ingadozásával és a növénybetegségekkel (pl. kávérozsda). Földrajz K7 — magaslati kávétermesztés és árnyékoló fák.",
+      "factsAdvanced": [
+        "Kenscoff hegyvidéke (Port-au-Prince felett) az egyik prémium haiti kávétermő vidék.",
+        "A kávé 1500 méter körüli magasságban, hűvös és párás mikroklímában érik.",
+        "Szinte kizárólag a kiváló minőségű Arabica fajtát termesztik a régióban.",
+        "A cserjéket nagyobb fák árnyékában ('shade-grown') nevelik a minőség érdekében.",
+        "A termesztés és a kézi szüret évezredek óta a helyi családok apró parcelláin zajlik.",
+        "Az agrár-erdészeti módszer kulcsfontosságú a meredek hegyoldalak védelmében."
+      ]
+    },
+    {
+      "id": "parc-enfants-port-de-paix-life-v2",
+      "descriptionAdvanced": "Port-de-Paix Gyermekparkja (Nord-Ouest megye) egyike a kevés strukturált rekreációs övezetnek az északnyugati régió elszigetelt, porlepte központjában. A város sűrű, kereskedelmi forgataga és az aszfaltozatlan utcák között ez a tér – általában egy kerítéssel védett, fákkal beültetett terület – biztonságos oázist jelent a családoknak. A park nem csupán a játék helyszíne, hanem közösségi fórum is: itt tartják a helyi ünnepeket, az iskolai évzárókat, és a felnőttek is ide húzódnak be a trópusi nap elől beszélgetni. Az infrastruktúra, mint a libikókák és csúszdák, gyakran mutatják az elhasználódás és a sós tengeri levegő okozta korrózió nyomait, a karbantartás pedig többnyire adományokból vagy helyi gyűjtésekből valósul meg. Az ilyen terek alapvető fontosságúak a normális gyermekkor megéléséhez egy kihívásokkal teli környezetben. Sachkunde K5 — vidéki városok közösségi infrastruktúrája.",
+      "factsAdvanced": [
+        "Port-de-Paix (Nord-Ouest megye székhelye) egyik ritka dedikált gyermekjátszótere.",
+        "Biztonságos, zárt környezetet nyújt a városi forgalom és a por elől.",
+        "Gyakran szolgál helyi iskolai rendezvények és kisebb fesztiválok helyszínéül.",
+        "A játékokat a tenger közelsége miatti sós pára gyorsan korrodálja.",
+        "A park karbantartását gyakran a helyi közösség vagy a diaszpóra finanszírozza.",
+        "A fák árnyéka a felnőttek (szülők, nagyszülők) számára is fontos szociális tér."
+      ]
+    },
+    {
+      "id": "ferme-experimentale-artibonite-life-v2",
+      "descriptionAdvanced": "A Kísérleti Farm az Artibonite-völgyben (Ferme Expérimentale de l'Artibonite) a haiti mezőgazdasági innováció egyik motorja. Mivel az Artibonite-völgy biztosítja az ország rizstermelésének zömét, a tajvani vagy dél-koreai agrárszakemberek gyakran hoznak létre itt kísérleti parcellákat a haiti Agrárminisztériummal együttműködve. Ezeken a farmokon új, rövidebb tenyészidejű, szárazság- vagy sóbírású rizsfajtákat tesztelnek, amelyek jobban alkalmazkodnak a klímaváltozás hatásaihoz és a talaj romlásához. Emellett a kísérleti központok a vetésforgó optimalizálását (például rizs után bab ültetését a nitrogénpótlás érdekében) és a természetes kártevőirtó módszereket is kutatják. Az eredményeket később megosztják a környező rizstermesztő szövetkezetekkel, így próbálva csökkenteni a kisgazdák kiszolgáltatottságát az import élelmiszerekkel szemben. Földrajz K8 — agrármodernizáció és rizstermesztési technológiák.",
+      "factsAdvanced": [
+        "Az Artibonite-síkságon található, a rizstermesztés fejlesztésére fókuszáló központ.",
+        "Gyakran ázsiai (tajvani, koreai) agrármérnökök bevonásával működtetik.",
+        "Fő célja új, ellenállóbb és bővebben termő rizsfajták nemesítése és tesztelése.",
+        "Kutatják a talaj szikesedésének megállítását és az optimális vetésforgót.",
+        "A bevált módszereket és vetőmagokat megosztják a helyi gazdaszövetkezetekkel.",
+        "Kiemelt fontosságú a haiti nemzeti élelmiszerbiztonság javítása szempontjából."
+      ]
+    },
+    {
+      "id": "ht-riviere-grise-nature-v2",
+      "descriptionAdvanced": "A Rivière Grise (Szürke-folyó) az Ouest megye egyik legfontosabb vízfolyása, amely a Chaîne de la Selle hegyeiben ered, és a Cul-de-Sac síkságon átfolyva a Port-au-Prince-i öbölbe ömlik. Nevét az iszapos, esőzések idején szürkéskék vizéről kapta. A folyó vízgyűjtő területe kritikusan fontos a sűrűn lakott síkság mezőgazdasága (öntözés) és a főváros vízellátása szempontjából. Ugyanakkor a hegyvidéki erdőirtás miatt a folyó vízjárása szélsőségessé vált: a száraz évszakban alig csörgedezik a kavicsos mederben, míg a hurrikánok idején hatalmas villámárvizeket (crues) okoz, amelyek rendszeresen elmossák a parti nyomornegyedeket és az utakat (például a Tabarre-i hidat). A meder mentén intenzív, gyakran illegális homok- és kavicsbányászat folyik, ami tovább rontja az eróziós helyzetet. Földrajz K8 — hegyi folyók vízjárása és a villámárvizek.",
+      "factsAdvanced": [
+        "A Chaîne de la Selle-ben ered és a Port-au-Prince-i öbölbe torkollik.",
+        "Nevét a hordaléktól elszíneződött, szürkés vizéről kapta.",
+        "A Cul-de-Sac síkság öntözésének egyik elsődleges vízforrása.",
+        "Az erdőirtások miatt az esős évszakban pusztító villámárvizeket okoz.",
+        "Mederéből hatalmas mennyiségű homokot és kavicsot bányásznak építkezésekhez.",
+        "Vízszintje a száraz időszakokban gyakran kritikus minimumra apad."
+      ]
+    },
+    {
+      "id": "ht-lac-de-peligre-nature-v2",
+      "descriptionAdvanced": "A Lac de Péligre (Péligre-tó) Haiti legnagyobb mesterséges víztározója, amely a Centre (Középső) megyében, Mirebalais közelében található. A tavat az 1950-es években alakították ki az Artibonite-folyó felduzzasztásával, eredetileg az Artibonite-völgy árvízvédelme és öntözése céljából, majd később vízierőművet is építettek hozzá, amely Port-au-Prince áramellátásának jelentős részét biztosította. A zöldellő hegyekkel körülvett tó lenyűgöző látványt nyújt, meredek partjai mentén apró halászfalvak sorakoznak. Az elmúlt évtizedekben a környező hegyoldalak intenzív erdőirtása miatt hatalmas mennyiségű iszap és hordalék került a tóba, ami drámaian csökkentette a víztározó kapacitását és az erőmű hatásfokát. A tó ma a megújuló energia és az erózió káros hatásainak kettősségét szimbolizálja Haitin. Földrajz K8 — víztározók eliszaposodása és a vízenergia.",
+      "factsAdvanced": [
+        "Haiti legnagyobb kiterjedésű mesterséges tava a Centre (Középső) megyében.",
+        "Az Artibonite-folyó 1950-es évekbeli gátépítésével (Peligre-gát) jött létre.",
+        "Fő funkciója a főváros áramellátása (vízierőmű) és a völgy árvízvédelme.",
+        "Környezetét meredek, festői, de erdőirtás sújtotta hegyoldalak alkotják.",
+        "A masszív talajerózió miatt a tó medre folyamatosan és veszélyesen feltöltődik iszappal.",
+        "A helyi lakosság számára fontos édesvízi halászati terület."
+      ]
+    },
+    {
+      "id": "ht-chaine-de-la-selle-nature-v2",
+      "descriptionAdvanced": "A Chaîne de la Selle Haiti délkeleti részén (Sud-Est és Ouest megyék) végighúzódó hatalmas, karsztos hegyvonulat, amely dominálja a régió domborzatát. Itt található az ország legmagasabb pontja, a 2680 méter magas Pic la Selle. A hegység klímája a magasságtól függően drasztikusan változik: míg az alacsonyabb, tengerparti lejtők forrók és szárazak, a gerincek közelében hűvös, gyakran fagyos, alpesi jellegű időjárás uralkodik. Ez a régió rejti a sziget utolsó megmaradt hispaniolai fenyőerdeinek egy részét (pl. La Visite és Forêt des Pins). A karsztos mészkő alapkőzet miatt a víz gyorsan a mélybe szivárog, barlangokat és földalatti folyókat alakítva ki, ami paradox módon komoly felszíni vízhiányt okoz az itt élő hegyi parasztoknak, akik gyakran kilométereket gyalogolnak a forrásokig. Földrajz K8 — magashegységek karsztformái és mikroklímák.",
+      "factsAdvanced": [
+        "Haiti legmagasabb hegyvonulata, amely a déli félsziget keleti felén húzódik.",
+        "Itt emelkedik az ország legmagasabb csúcsa, a 2680 méteres Pic la Selle.",
+        "Jelentős része porózus karsztos mészkő, mély barlangrendszerekkel.",
+        "Magaslati régióiban (2000m felett) hűvös, ködös, fenyőerdős mikroklíma uralkodik.",
+        "A hegyvonulat drámai esőárnyék-hatást (foehn) hoz létre a Cul-de-Sac síkságon.",
+        "A masszív erdőirtás ellenére a biodiverzitás egyik utolsó menedéke."
+      ]
+    },
+    {
+      "id": "ht-massif-de-la-hotte-nature-v2",
+      "descriptionAdvanced": "A Massif de la Hotte a Tiburon-félsziget (a déli 'farok') nyugati végén, a Grand'Anse és Sud megyék területén magasodó elszigetelt, robusztus hegytömb. Legmagasabb pontja a 2347 méteres Pic Macaya. Evolúciós és ökológiai szempontból a Massif de la Hotte a bolygó egyik legfontosabb és legveszélyeztetettebb területe: évmilliókig egy különálló szigetet alkotott Hispaniolától, így flórája és faunája egyedülálló úton fejlődött. Ennek köszönhetően a hegytömb ad otthont a legtöbb haiti endémikus (csak itt élő) növénynek, valamint a világ legritkább kétéltűinek (például fán lakó apró békáknak). A meredek, sűrű trópusi dzsungellel borított lejtők nehezen járhatók, de a túlélésért küzdő lakosság faszénégetése mára a csúcsok közelébe is felért, drasztikusan szűkítve ezt a globális jelentőségű bioszférát. Földrajz K8 — földrajzi izoláció és az endemizmus kialakulása.",
+      "factsAdvanced": [
+        "A Tiburon-félsziget legnyugatibb, elszigetelt hegytömbje.",
+        "Legmagasabb csúcsa a 2347 méteres Pic Macaya.",
+        "Földtörténetileg sokáig különálló sziget volt, ami egyedi evolúcióhoz vezetett.",
+        "Globális 'hotspot': rengeteg faj (különösen kétéltűek és orchideák) csak itt él.",
+        "Sűrű, nehezen áthatolható trópusi köderdők borítják a csúcsok környékét.",
+        "Az erdőirtás és a klímaváltozás közvetlen kihalással fenyegeti az itteni élővilágot."
+      ]
+    },
+    {
+      "id": "ht-ile-de-la-gonave-nature-v2",
+      "descriptionAdvanced": "Az Île de la Gonâve (Gonâve-sziget) Haiti legnagyobb szigete, amely a hatalmas Gonâve-öböl közepén helyezkedik el, mint egy természetes hullámtörő a főváros és a nyílt óceán között. A közel 60 kilométer hosszú és 15 kilométer széles sziget domborzata zord, sziklás karsztvidék, amely meredeken emelkedik ki a tengerből. Gonâve legnagyobb természeti kihívása a krónikus édesvízhiány: a mészkőzet elnyeli a csapadékot, felszíni folyók szinte nincsenek, a talajvíz pedig sok helyen sós. Emiatt a sziget növényzete ritkás, tüskés bozótos, amely alkalmazkodott a félsivatagos körülményekhez. A szigetlakók hagyományosan az esővíz összegyűjtésére, a part menti halászatra, valamint az amúgy is ritka fák faszénné égetésére támaszkodnak. Bár gyönyörű, elhagyatott korallzátonyok és fehér homokos partok övezik, az infrastruktúra hiánya miatt szinte elzárt a külvilágtól. Földrajz K7 — szigeti karsztok és vízhiányos környezetek.",
+      "factsAdvanced": [
+        "Haiti és a Hispaniola-sziget legnagyobb tengeri mellékszigete a Gonâve-öbölben.",
+        "A domborzat karsztos mészkő, legmagasabb pontja meghaladja a 770 métert.",
+        "Súlyos felszíni édesvízhiánnyal küzd a kőzet porózussága miatt.",
+        "A növényzet nagyrészt szárazságtűrő, tüskés cserjékből és kaktuszokból áll.",
+        "Partjait kiterjedt, biológiailag gazdag korallzátonyok és mangrove-foltok szegélyezik.",
+        "Elszigeteltsége miatt a lakosság szoros közösségi (gyakran vudu-alapú) struktúrában él."
+      ]
+    },
+    {
+      "id": "ht-baie-de-port-au-prince-nature-v2",
+      "descriptionAdvanced": "A Baie de Port-au-Prince (Port-au-Prince-i öböl) a hatalmas Gonâve-öböl legbelső, védett keleti nyúlványa, amelynek partján a haiti metropolisz és a sűrűn lakott Cul-de-Sac síkság terül el. Természeti szempontból az öböl történelmileg gazdag volt mangroveerdőkben és halállományban, azonban a többmilliós város felrobbanásszerű növekedése ökológiai katasztrófához vezetett. Mivel a főváros nem rendelkezik modern csatorna- vagy hulladékkezelő rendszerrel, a hegyi folyók (mint a Rivière Grise) és a nyílt csatornák (ravines) hatalmas mennyiségű műanyag hulladékot, iszapot és szennyvizet mosnak közvetlenül az öbölbe minden esőzéskor. Ez a masszív szennyezés elpusztította a part menti élővilág nagy részét. Ugyanakkor a vízrajzi (bathymetrikus) viszonyok itt teszik lehetővé a mélyvízi hajózást és a nemzetközi teherforgalmat. Az öböl tisztítása az ország egyik legnagyobb környezetvédelmi kihívása. Földrajz K8 — városi tengerszennyezés és öbölrendszerek.",
+      "factsAdvanced": [
+        "A Gonâve-öböl legkeletibb, védett, U-alakú bemélyedése a főváros partjainál.",
+        "Természetes mélyvízi kikötő, amely évszázadok óta vonzza a tengeri kereskedelmet.",
+        "Rendkívül súlyos környezeti terhelés alatt áll a fővárosi kezeletlen hulladék miatt.",
+        "Minden trópusi esőzés ('averse') több tonna műanyagot és sarat mos a vizébe.",
+        "Az eredeti parti mangroveerdők nagyrészt elpusztultak a terjeszkedés miatt.",
+        "Az iszaposodás (erózió) folyamatosan csökkenti az öböl vízmélységét a partoknál."
+      ]
+    },
+    {
+      "id": "ht-parc-national-la-visite-nature-v2",
+      "descriptionAdvanced": "A Parc National La Visite a Chaîne de la Selle hegység szívében, a magaslati fennsíkok és meredek szakadékok drámai táján fekszik. Ez a természetvédelmi terület (több mint 2000 méteres magasságban) Haiti egyik utolsó menedéke a magashegyi fenyveseknek (Pinus occidentalis) és a széles, füves havasi legelőknek. A karsztos terepet látványos dolinák és búvópatakok szabdalják. A park kulcsfontosságú a biodiverzitás szempontjából, mintegy 80 madárfajnak ad otthont, köztük az ország endemikus, színes todi-jainak és papagájainak. A terület ökológiai szerepe felbecsülhetetlen Port-au-Prince vízbiztonsága szempontjából, mivel az itt lehulló és a talajba szivárgó csapadék táplálja a főváros artézi kútjait. Ennek ellenére a favágók és a pásztorok folyamatos behatolása egyre jobban erodálja a park határait, sivatagosodással fenyegetve a hegytetőket. Földrajz K8 — magashegyi vízbázisok védelme.",
+      "factsAdvanced": [
+        "A Chaîne de la Selle hegyvonulat magaslati, 2000m feletti karsztos fennsíkján terül el.",
+        "A hispaniolai fenyő és az alpesi jellegű füves szavannák dominálják a tájat.",
+        "Ez a hegyvidék Haiti fővárosának és a Cul-de-Sac síkságnak a legfőbb víztározója.",
+        "Rendkívül gazdag az endemikus madárfajokban (pl. feketesapkás viharmadár).",
+        "A karsztos felszín mély szakadékokat és látványos víznyelőket formált.",
+        "Az illegális mezőgazdaság (földégetés) és fakitermelés kritikus fenyegetést jelent."
+      ]
+    },
+    {
+      "id": "ht-parc-national-pic-macaya-nature-v2",
+      "descriptionAdvanced": "A Parc National Pic Macaya a délnyugati Tiburon-félsziget (Massif de la Hotte) legelzártabb, zord hegycsúcsait foglalja magában, a 2347 méter magas Pic Macaya vezetésével. Ez a terület egy érintetlen, elsődleges trópusi köderdő, amelyet állandóan felhők és sűrű pára borít. A meredek, áthatolhatatlan lejtőkön a fák ágait vastagon borítják az epifitonok, orchideák, broméliák és mohák. Macaya geológiailag karsztos mészkőből és vulkáni bazaltból áll, amely egy bonyolult, vízesésekkel teli hasadékrendszert alkot. A park globális fontosságát az adja, hogy a világon az egyik legnagyobb arányban élnek itt kizárólag egyetlen hegyen megtalálható (mikro-endémikus) kétéltűek, hüllők és növények. Az itteni fák kitermelése nemcsak a fajok kihalását, hanem a déli partvidéket öntöző folyók elapadását is okozná. Földrajz K8 — a trópusi köderdők (cloud forests) mikroklímája.",
+      "factsAdvanced": [
+        "A Massif de la Hotte hegység legmagasabb részét (Pic Macaya, 2347m) védi.",
+        "Elsődleges trópusi köderdő borítja, amelyet folyamatos pára és felhőzet jellemez.",
+        "A fák roskadoznak a nedvességkedvelő epifiton növényektől (orchideák, broméliák).",
+        "Világszinten egyedülálló 'hotspot' a mikro-endémikus békafajok számára.",
+        "A karsztos és vulkanikus alapkőzet meredek szakadékokat és vízeséseket formál.",
+        "Létfontosságú vízgyűjtő, amely a déli félsziget legfontosabb folyóit táplálja."
+      ]
+    }
+  ]
+}

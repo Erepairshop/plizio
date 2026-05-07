@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ly-villa-silin-history-v2",
+      "descriptionAdvanced": "Die Villa Silin ist eine außergewöhnlich gut erhaltene römische Villa direkt an der Mittelmeerküste nahe der antiken Stadt Leptis Magna. Die luxuriöse Anlage gehörte einst wohlhabenden römischen Patriziern und ist berühmt für ihre atemberaubenden, detaillierten Bodenmosaike, die Gladiatorenkämpfe, Wagenrennen und maritime Szenen darstellen. Geschichte K7 — Römisches Alltagsleben.",
+      "factsAdvanced": [
+        "Antike römische Villa direkt am Mittelmeer",
+        "Liegt nahe der Stadt Al Khums",
+        "Gehörte byzantinischen und römischen Elitefamilien",
+        "Herausragend erhaltene Bodenmosaike",
+        "Wunderschöne Gärten und private Thermenanlagen",
+        "Bietet tiefen Einblick in römischen Luxus"
+      ]
+    },
+    {
+      "id": "ly-qasr-libya-history-v2",
+      "descriptionAdvanced": "Qasr Libya ist ein wichtiges byzantinisches archäologisches Zentrum in der Kyrenaika, das ursprünglich als antike Stadt Olbia bekannt war. Der Höhepunkt der Anlage ist ein Museum, das rund fünfzig bemerkenswerte frühchristliche byzantinische Mosaike beherbergt, die bei der Ausgrabung der Basilika gefunden wurden. Geschichte K7 — Byzantinische Kunst.",
+      "factsAdvanced": [
+        "Bedeutendes byzantinisches Zentrum im Osten",
+        "Ehemals als antike Stadt Olbia bekannt",
+        "Weltberühmt für frühchristliche Mosaike",
+        "Museum zeigt 50 Meisterwerke der Mosaikkunst",
+        "Liegt im Dschabal al-Achdar-Gebirge",
+        "Erbaut im sechsten Jahrhundert n. Chr."
+      ]
+    },
+    {
+      "id": "ly-tripoli-medina-history-v2",
+      "descriptionAdvanced": "Die ummauerte Medina von Tripolis bildet das pulsierende historische Herz der Hauptstadt und ist geprägt von einem Labyrinth aus engen Gassen. Die Altstadt beherbergt architektonische Juwelen aus der römischen Antike (wie den Marcus-Aurelius-Bogen), der osmanischen Herrschaft und der italienischen Kolonialzeit. Geschichte K8 — Urbane Geschichte.",
+      "factsAdvanced": [
+        "Historische Altstadt der Hauptstadt Tripolis",
+        "Umgeben von massiven Verteidigungsmauern",
+        "Enge, verwinkelte Gassen und Souks",
+        "Beherbergt den römischen Marcus-Aurelius-Bogen",
+        "Zahlreiche prächtige osmanische Moscheen",
+        "Jahrhundertealtes Zentrum des Mittelmeerhandels"
+      ]
+    },
+    {
+      "id": "ly-gharyan-troglodyte-history-v2",
+      "descriptionAdvanced": "Die faszinierenden Troglodyten-Höhlen in Gharyan wurden von den einheimischen Berbern (Amazigh) tief in den weichen Fels der Nafusa-Berge gegraben. Diese traditionellen, unterirdischen Wohnanlagen bieten durch ihre Bauweise eine natürliche Klimatisierung, die im Sommer kühlt und im harten Bergwinter wärmt. Geschichte K6 — Indigene Architektur.",
+      "factsAdvanced": [
+        "Unterirdische Berberwohnungen im Nafusa-Gebirge",
+        "Aus dem weichen Bergfels gehauen",
+        "Natürliche Klimatisierung (kühl im Sommer, warm im Winter)",
+        "Traditionelles Erbe der indigenen Amazigh",
+        "Zentraler offener Innenhof für Licht und Luft",
+        "Dienten oft auch als Speicher für Olivenöl"
+      ]
+    },
+    {
+      "id": "ly-zawiya-jaghbub-history-v2",
+      "descriptionAdvanced": "Die Zawiya von Al Jaghbub ist ein abgelegenes, aber historisch immens wichtiges religiöses Zentrum tief in der östlichen Sahara. Im 19. Jahrhundert wurde sie vom Gründer des mächtigen islamischen Senussi-Ordens, Sayyid Muhammad ibn Ali as-Senussi, erbaut und diente als theologische Universität und Hauptquartier der Bruderschaft. Geschichte K8 — Islamische Reformbewegungen.",
+      "factsAdvanced": [
+        "Historisches Hauptquartier des Senussi-Ordens",
+        "Erbaut tief in der Sahara nahe der ägyptischen Grenze",
+        "Grabstätte von Sayyid Muhammad ibn Ali as-Senussi",
+        "Ehemaliges Zentrum für theologische Studien",
+        "Zentraler Knotenpunkt alter Sahararouten",
+        "Prägte die moderne libysche Geschichte"
+      ]
+    },
+    {
+      "id": "ly-fort-capuzzo-history-v2",
+      "descriptionAdvanced": "Fort Capuzzo war eine massiv befestigte italienische Grenzstation in der östlichen Wüste Libyens, direkt an der Demarkationslinie zu Ägypten. Während der Nordafrika-Feldzüge im Zweiten Weltkrieg war das Fort Schauplatz erbitterter Kämpfe zwischen britischen und Achsenmächte-Truppen und wechselte mehrfach den Besitzer. Geschichte K8 — Nordafrika im WW2.",
+      "factsAdvanced": [
+        "Ehemaliges italienisches Grenzfort",
+        "Liegt an der libysch-ägyptischen Grenze",
+        "Errichtet in den 1920er Jahren",
+        "Schauplatz schwerer Kämpfe im Zweiten Weltkrieg",
+        "Wechselte mehrfach zwischen Briten und Italienern",
+        "Heute größtenteils eine Ruine"
+      ]
+    },
+    {
+      "id": "ly-tobruk-war-cemetery-history-v2",
+      "descriptionAdvanced": "Der Tobruk War Cemetery ist eine feierliche und ergreifende Gedenkstätte für die britischen, australischen, neuseeländischen und polnischen Soldaten, die während des Zweiten Weltkriegs in Nordafrika fielen. Er erinnert insbesondere an die Opfer der epischen, achtmonatigen Belagerung von Tobruk im Jahr 1941 durch die Truppen von Erwin Rommel. Geschichte K8 — Gedenkkultur des WW2.",
+      "factsAdvanced": [
+        "Militärfriedhof für Soldaten der Alliierten",
+        "Erinnert an die Belagerung von Tobruk (1941)",
+        "Beherbergt über 2.000 Commonwealth-Gräber",
+        "Gepflegt von der Commonwealth War Graves Commission",
+        "Wichtiger historischer Pilgerort in Ostlibyen",
+        "Symbol für den Kampf in Nordafrika"
+      ]
+    },
+    {
+      "id": "ly-malta-castle-history-v2",
+      "descriptionAdvanced": "Das sogenannte Malteserkastell in Tripolis ist Teil der massiven Assaraya al-Hamra (Rote Burg). Nachdem Kaiser Karl V. den Johanniterorden (Malteserorden) im Jahr 1530 mit der Verteidigung der Stadt beauftragte, bauten diese die alte Befestigung am Hafen stark aus, bevor sie 1551 von den Osmanen vertrieben wurden. Geschichte K7 — Ritterorden und Osmanen.",
+      "factsAdvanced": [
+        "Teil der Roten Burg in Tripolis",
+        "Ausgebaut durch den Johanniterorden (1530-1551)",
+        "Erbaut zur Verteidigung des Hafens",
+        "Mischung aus spanischer und lokaler Festungsarchitektur",
+        "Wurde 1551 von osmanischen Truppen erobert",
+        "Strategische Festung im 16. Jahrhundert"
+      ]
+    },
+    {
+      "id": "ly-murzuq-fort-history-v2",
+      "descriptionAdvanced": "Das historische Fort von Murzuq ist eine gewaltige Befestigungsanlage im tiefen Süden Libyens, die während der osmanischen Herrschaft über die Fezzan-Region errichtet wurde. Mit seinen dicken, von der Wüstensonne gebackenen Lehmwänden dominierte das Fort die Stadt und sicherte den immens lukrativen transsaharischen Karawanenhandel. Geschichte K8 — Osmanisches Reich in Afrika.",
+      "factsAdvanced": [
+        "Massives Fort in der Wüstenstadt Murzuq",
+        "Erbaut während der osmanischen Epoche",
+        "Zentrum der militärischen Kontrolle im Fezzan",
+        "Klassische saharische Lehmziegelarchitektur",
+        "Sicherte den Handel mit Gold und Sklaven",
+        "Eindrucksvolles Zeugnis militärischer Wüstenarchitektur"
+      ]
+    },
+    {
+      "id": "ly-awjila-mosque-history-v2",
+      "descriptionAdvanced": "Die Große Moschee von Awjila, erbaut im 12. Jahrhundert, gilt als die älteste durchgehend genutzte Moschee in ganz Nordafrika. Das beeindruckende Bauwerk in der isolierten Sahara-Oase zeichnet sich durch einzigartige, konische Lehmziegelkuppeln aus, die nicht nur spirituelle Bedeutung haben, sondern auch als natürliche Klimaanlage dienen. Geschichte K7 — Frühe islamische Architektur.",
+      "factsAdvanced": [
+        "Erbaut im 12. Jahrhundert",
+        "Älteste Moschee Nordafrikas",
+        "Berühmt für 21 konische Lehmkuppeln",
+        "Architektur sorgt für natürliche Kühlung",
+        "Gelegen in der extrem abgelegenen Oase Awjila",
+        "Aus rotem Wüstenlehm gefertigt"
+      ]
+    },
+    {
+      "id": "ly-gurgi-mosque-history-v2",
+      "descriptionAdvanced": "Die prächtige Gurgi-Moschee im Herzen der Medina von Tripolis wurde 1834 vom Seeoffizier Mustafa Gurgi in Auftrag gegeben. Sie ist landesweit berühmt für ihre exquisiten osmanischen Kacheln aus Iznik, den kunstvoll geschnitzten Marmor und ihren eleganten achteckigen Minarettturm, der über der Altstadt aufragt. Geschichte K7 — Osmanische Kunst.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1834 in Tripolis",
+        "Gestiftet vom georgischen Seeoffizier Mustafa Gurgi",
+        "Berühmt für türkische Iznik-Kacheln",
+        "Höchstes Minarett in der Medina (achteckig)",
+        "Böden aus feinem italienischem Marmor",
+        "Typischer klassisch-osmanischer Baustil"
+      ]
+    },
+    {
+      "id": "ly-karamanli-mosque-history-v2",
+      "descriptionAdvanced": "Die Karamanli-Moschee, erbaut in den 1730er Jahren von Ahmed Karamanli, dem Gründer der gleichnamigen Dynastie, ist eines der schönsten historischen Gebäude in Tripolis. Das Bauwerk verbindet maurische, europäische und lokale Baustile und enthält in seinem angrenzenden Mausoleum die opulenten Gräber der Karamanli-Herrscher. Geschichte K8 — Karamanli-Dynastie.",
+      "factsAdvanced": [
+        "Erbaut im 18. Jahrhundert von Ahmed Karamanli",
+        "Gründungsbau der Karamanli-Dynastie",
+        "Mischung aus maurischer und osmanischer Architektur",
+        "Beherbergt die königlichen Karamanli-Gräber",
+        "Wunderschöne Stuckarbeiten und Fliesen",
+        "Liegt markant im Herzen der Altstadt"
+      ]
+    },
+    {
+      "id": "ly-al-naga-mosque-history-v2",
+      "descriptionAdvanced": "Die Al-Naga-Moschee gilt als das älteste islamische Gebetshaus in Tripolis, dessen Wurzeln vermutlich bis ins 10. Jahrhundert zurückreichen. Die Moschee zeichnet sich durch eine sehr niedrige, authentische Lehmziegelstruktur und den markanten Einsatz antiker römischer und byzantinischer Säulen aus, die beim Bau wiederverwendet wurden. Geschichte K7 — Wiederverwendung antiker Baustoffe.",
+      "factsAdvanced": [
+        "Älteste noch existierende Moschee in Tripolis",
+        "Ursprünge vermutlich aus dem 10. Jahrhundert",
+        "Verwendet antike römische Säulen als Stützen",
+        "Einfache, flache Lehmarchitektur",
+        "Stark von andalusischen Elementen geprägt",
+        "Überstand die Belagerungen der Johanniter"
+      ]
+    },
+    {
+      "id": "ly-bir-hakeim-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Bir Hakeim in der libyschen Wüste wurde im Mai und Juni 1942 weltberühmt, als freifranzösische Streitkräfte den Vormarsch von Erwin Rommels Afrikakorps tagelang erbittert aufhielten. Diese heldenhafte Verteidigung ermöglichte es den Alliierten, sich sicher nach Ägypten zurückzuziehen und die Schlacht von El Alamein vorzubereiten. Geschichte K8 — Wendepunkte des WW2.",
+      "factsAdvanced": [
+        "Schauplatz der epischen Schlacht von Bir Hakeim (1942)",
+        "Verteidigt durch freifranzösische Streitkräfte",
+        "Verzögerte Rommels Vormarsch erheblich",
+        "Ehemaliger osmanischer Brunnen in der Wüste",
+        "Geprägt von extrem rauen Wüstenbedingungen",
+        "Entscheidend für den britischen Rückzug nach Ägypten"
+      ]
+    },
+    {
+      "id": "ly-hospitaller-fort-benghazi-history-v2",
+      "descriptionAdvanced": "Die historische Festung von Bengasi, oft mit späteren osmanischen und italienischen Strukturen überbaut, diente über Jahrhunderte der Kontrolle des strategisch wichtigen Hafens in der Kyrenaika. Das massive Bollwerk zeugt von den zahlreichen Belagerungen, die die Stadt zwischen osmanischen Eroberern und lokalen Stämmen erlebte. Geschichte K8 — Küstenverteidigung.",
+      "factsAdvanced": [
+        "Altes Festungswerk am Hafen von Bengasi",
+        "Überwiegend aus osmanischer Zeit erhalten",
+        "Sicherte die See- und Landwege der Kyrenaika",
+        "Mehrfach von italienischen Truppen umgebaut",
+        "Erlitt starke Schäden in Kriegen und Revolten",
+        "Zeugnis osmanischer Militärarchitektur"
+      ]
+    },
+    {
+      "id": "ly-benghazi-cathedral-history-v2",
+      "descriptionAdvanced": "Die gewaltige Kathedrale von Bengasi wurde zwischen 1929 und 1939 während der italienischen Kolonialherrschaft erbaut und war einst die größte katholische Kirche in ganz Nordafrika. Mit ihren markanten, massiven Zwillingskuppeln dominierte sie die Skyline der Stadt, bis sie nach der Revolution 1969 aufgegeben wurde. Geschichte K8 — Italienischer Kolonialismus.",
+      "factsAdvanced": [
+        "Einst größte katholische Kirche in Nordafrika",
+        "Erbaut während der italienischen Kolonialzeit (1929-1939)",
+        "Berühmt für zwei riesige Kuppeln",
+        "Verlassenes Wahrzeichen im Zentrum von Bengasi",
+        "Erlitt während der Unruhen 2014 schwere Schäden",
+        "Neoklassizistische und maurische Elemente"
+      ]
+    },
+    {
+      "id": "ly-jalu-old-fort-history-v2",
+      "descriptionAdvanced": "Das alte Wüstenfort der Jalu-Oase im Osten Libyens zeugt von der strategischen und militärischen Bedeutung der Region für den Schutz von Handelskarawanen. Das aus Lehm und Palmholz gebaute Bauwerk diente sowohl osmanischen als auch späteren italienischen Garnisonen als sicherer Rückzugsort gegen Aufstände aus der Wüste. Geschichte K7 — Karawanenschutz.",
+      "factsAdvanced": [
+        "Traditionelles Lehmfort in der Oase Jalu",
+        "Diente dem Schutz transsaharischer Handelsrouten",
+        "Genutzt von osmanischen und italienischen Truppen",
+        "Stark durch Witterung und Sandstürme gezeichnet",
+        "Beherbergte Garnisonen in einer feindlichen Umgebung",
+        "Überblickte wichtige Wasserressourcen"
+      ]
+    },
+    {
+      "id": "ly-qasr-al-haj-history-v2",
+      "descriptionAdvanced": "Das majestätische Qasr Al-Haj ist eine der spektakulärsten Speicherburgen der Amazigh (Berber) im gesamten Nafusa-Gebirge. Das gewaltige, kreisrunde Gebäude aus dem 12. Jahrhundert enthält über 100 wabenförmige Vorratskammern, die früher zur sicheren Einlagerung von Olivenöl und Getreide der Dorfbevölkerung dienten. Geschichte K7 — Kollektive Speicherarchitektur.",
+      "factsAdvanced": [
+        "Gigantische kreisrunde Speicherburg der Berber",
+        "Gelegen in den westlichen Nafusa-Bergen",
+        "Erbaut im späten 12. Jahrhundert",
+        "Beherbergt 114 separate Vorratskammern",
+        "Aus Lehm, Steinen und Palmholz gefertigt",
+        "Diente der kollektiven Sicherung von Ernten"
+      ]
+    },
+    {
+      "id": "tripoli-tower-landmarks-v2",
+      "descriptionAdvanced": "Der Tripoli Tower (ehemals Burj Al Fatah) ist ein hochmodernes, markantes Wahrzeichen im Geschäftsviertel der Hauptstadt. Als eines der höchsten Gebäude des Landes beherbergt der Wolkenkratzer internationale Unternehmen, Ministerien und bietet von seiner Spitze aus einen weiten Panoramablick über das Mittelmeer und die Medina. Geografie K7 — Moderne Stadtentwicklung.",
+      "factsAdvanced": [
+        "Eines der höchsten Gebäude in Libyen",
+        "Bekannt als Tripoli Tower (früher Burj Al Fatah)",
+        "Sitz internationaler Konzerne und Ministerien",
+        "Befindet sich im zentralen Geschäftsviertel",
+        "Panoramablick auf die Medina und das Meer",
+        "Symbol für das moderne Libyen"
+      ]
+    },
+    {
+      "id": "corinthia-hotel-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Das Corinthia Hotel Tripolis ist ein ikonisches, luxuriöses Fünf-Sterne-Hotel direkt am Rand der historischen Altstadt und dem Hafen. Aufgrund seiner hohen Sicherheitsstandards und internationalen Klientel war das markante Doppel-Turm-Gebäude häufig Treffpunkt für internationale Diplomaten, Geschäftsleute und Politiker in Tripolis. Geografie K8 — Moderner Tourismus und Diplomatie.",
+      "factsAdvanced": [
+        "Luxuriöses 5-Sterne-Hotel in der Hauptstadt",
+        "Besteht aus zwei markanten gläsernen Türmen",
+        "Liegt direkt am Mittelmeer und der Medina",
+        "Wichtiger Treffpunkt für internationale Diplomaten",
+        "Schauplatz eines tragischen Angriffs im Jahr 2015",
+        "Symbol für ausländische Investitionen in Libyen"
+      ]
+    }
+  ]
+}

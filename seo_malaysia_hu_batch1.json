@@ -1,0 +1,309 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kuala-lumpur-cities-v2",
+      "descriptionAdvanced": "Kuala Lumpur Malajzia vibráló fővárosa, amely egy 1850-es évekbeli kis ónbányász településből nőtte ki magát a világ egyik legfejlettebb metropoliszává. A város híres a Petronas-ikertornyokról, amelyek 1998-tól 2004-ig a világ legmagasabb épületei voltak, és a 452 méteres magasságukkal ma is lenyűgözik a látogatókat. A település nevét a Klang és Gombak folyók összefolyásáról kapta, ami malájul "iszapos torkolatot" jelent. A város történelmi negyedeiben, mint a kínai negyed vagy a Little India, a látogatók bepillantást nyerhetnek az ország gazdag kulturális sokszínűségébe. A Merdeka tér a nemzeti függetlenség jelképe, ahol 1957. augusztus 31-én először vonták fel a maláj zászlót. Ez a helyszín földrajz és történelem tantárgyakhoz kapcsolódik, bemutatva egy ázsiai nagyváros modernizációját.",
+      "factsAdvanced": [
+        "1857-ben alapították ónbányász településként.",
+        "A Petronas-ikertornyok magassága eléri a 452 métert.",
+        "Területe megközelítőleg 243 négyzetkilométer.",
+        "Lakossága 2020-ban meghaladta az 1,9 millió főt.",
+        "Az 1957-es függetlenség kikiáltásának helyszíne.",
+        "A Klang és a Gombak folyók találkozásánál fekszik."
+      ]
+    },
+    {
+      "id": "george-town-penang-cities-v2",
+      "descriptionAdvanced": "George Town Penang szigetének fővárosa és az ország egyik legfontosabb kulturális központja, melyet 1786-ban alapított Francis Light kapitány a Brit Kelet-indiai Társaság számára. A város neve III. György brit királyra utal. Különleges építészeti öröksége miatt 2008-ban az UNESCO Világörökség részévé nyilvánították, hiszen itt a brit gyarmati stílus harmonikusan ötvöződik az ázsiai, különösen a kínai és indiai építészeti elemekkel. A város utcáit híres modern falfestmények és interaktív street art alkotások díszítik, amelyeket Ernest Zacharevic litván művész készített 2012-ben. A település egy igazi élő múzeum, amely kiválóan alkalmas a történelem tantárgy kiegészítésére, bemutatva a gyarmati kereskedelem hatásait.",
+      "factsAdvanced": [
+        "1786-ban Francis Light kapitány alapította.",
+        "Nevét III. György brit uralkodóról kapta.",
+        "2008-ban került fel az UNESCO Világörökség listájára.",
+        "Penang szigetének legnagyobb városa.",
+        "A híres street art alkotások nagy része 2012-ben készült.",
+        "Több mint 12 000 történelmi épület található a városban."
+      ]
+    },
+    {
+      "id": "johor-bahru-cities-v2",
+      "descriptionAdvanced": "Johor Bahru a Maláj-félsziget legdélebbi részén helyezkedik el, Szingapúrral szemben, mellyel a forgalmas Johor-Szingapúr töltésút köti össze. A várost 1855-ben alapította Temenggong Daeng Ibrahim, és ma az ország egyik legdinamikusabban fejlődő ipari és kereskedelmi központja. A település nevét 1866-ban változtatták Tanjung Puteriről Johor Bahru-ra Abu Bakar szultán uralkodása alatt, aki a modern Johor atyjaként ismert. Az 1990-es évektől kezdve a régió hatalmas beruházások célpontja lett az Iskandar Malaysia projekt révén. A Sultan Abu Bakar Állami Mecset a város egyik legismertebb épülete, mely a brit viktoriánus és mór stílusjegyeket ötvözi. A földrajz és gazdaság tantárgyak keretében a város a határon átnyúló kereskedelem kiváló példája.",
+      "factsAdvanced": [
+        "1855-ben alapította Temenggong Daeng Ibrahim.",
+        "Eredeti neve Tanjung Puteri volt.",
+        "1866-ban kapta a jelenlegi Johor Bahru nevet.",
+        "A Szingapúrba vezető Causeway töltésutat 1923-ban nyitották meg.",
+        "A Sultan Abu Bakar Mecset 1892 és 1900 között épült.",
+        "A régió az Iskandar Malaysia gazdasági zóna központja."
+      ]
+    },
+    {
+      "id": "ipoh-cities-v2",
+      "descriptionAdvanced": "Ipoh Perak állam fővárosa, mely a 19. század végén indult gyors növekedésnek a világ leggazdagabb ónmezőinek felfedezése révén. A város a nevét a helyi ipoh fáról kapta, amelynek mérgező nedvét az őslakosok vadászathoz használták. Az 1880-as évekbeli bányászati bumnak köszönhetően Ipoh hatalmas gazdasági központtá vált, ahová rengeteg kínai bevándorló érkezett, ami a mai napig meghatározza a város kulturális és gasztronómiai arculatát. A város a Kinta-völgyben fekszik, és különleges mészkőhegyek ölelik körül, amelyekben számos lenyűgöző barlangtemplom épült. Ipoh gyarmati építészete, például az 1917-ben elkészült vasútállomás, gyakran a 'maláj Taj Mahal' néven is ismert. Történelem és földrajz oktatásban a nyersanyagok gazdaságformáló szerepét lehet itt bemutatni.",
+      "factsAdvanced": [
+        "A Kinta-völgyben helyezkedik el, gazdag mészkőhegyek között.",
+        "A 19. század végén a világ legnagyobb ónkitermelője volt.",
+        "A várost az ipoh fa nevű helyi növényről nevezték el.",
+        "A híres Ipoh-i vasútállomás 1917-ben épült brit stílusban.",
+        "A települést gyakran a 'Milliomosok városaként' emlegették a bányászat idején.",
+        "Perak állam fővárosi rangját 1937-ben kapta meg."
+      ]
+    },
+    {
+      "id": "kuching-cities-v2",
+      "descriptionAdvanced": "Kuching, Sarawak állam fővárosa, Borneó szigetének északnyugati partvidékén, a Sarawak-folyó mentén terül el. A várost gyakran 'Macskák városaként' emlegetik, mivel neve malájul macskát jelent, amit számos macskaszobor és a világ első Macskamúzeuma is hirdet. A település történelme szorosan kötődik a Fehér Radzsák, vagyis a Brooke család uralmához, akik 1841-től több mint egy évszázadon át irányították a régiót. Az ő örökségüket őrzi a Fort Margherita erőd és az Astana palota. A város különlegessége a multikulturális lakosság, ahol a maláj, kínai és a dayak őslakos csoportok hagyományai keverednek. Földrajz és társadalomismeret szempontjából egyedi példa a trópusi városfejlődésre és a kulturális sokszínűségre.",
+      "factsAdvanced": [
+        "Sarawak állam legnagyobb városa, a Sarawak-folyó partján.",
+        "1841-től a brit Brooke-dinasztia (Fehér Radzsák) irányította.",
+        "Nevének jelentése a maláj nyelvben 'macska'.",
+        "A Fort Margherita erőd 1879-ben épült a folyó védelmére.",
+        "A város ad otthont a világ első Macskamúzeumának (1993).",
+        "A lakosság jelentős részét a dayak őslakosok teszik ki."
+      ]
+    },
+    {
+      "id": "kota-kinabalu-cities-v2",
+      "descriptionAdvanced": "Kota Kinabalu, korábbi nevén Jesselton, Sabah állam lüktető központja a Dél-kínai-tenger és a fenséges Kinabalu-hegy között. A várost eredetileg a Brit Észak-Borneó Társaság alapította az 1890-es évek végén. A második világháború során a település szinte teljesen megsemmisült a bombázások következtében, ezért a mai épületek nagyrészt modern, háború utáni konstrukciók. Jelenlegi nevét 1967-ben kapta a közeli, 4095 méter magas Kinabalu-hegyről, amely Délkelet-Ázsia egyik legmagasabb csúcsa. A város kiindulópontja számos természeti túrának és tengeri expedíciónak, így tökéletes helyszíne a környezetismeret és biológia oktatásának. A helyi piacok és a kikötői élet a térség tengeri kultúrájának alapvető részei.",
+      "factsAdvanced": [
+        "Korábbi neve Jesselton volt, alapítása 1899-re tehető.",
+        "1967. december 22-én kapta a Kota Kinabalu nevet.",
+        "A Dél-kínai-tenger partján fekszik, a Crocker-hegység lábánál.",
+        "A második világháború alatt szinte teljesen elpusztult.",
+        "A városhoz közeli Kinabalu-hegy magassága 4095 méter.",
+        "Sabah állam fővárosa és gazdasági központja."
+      ]
+    },
+    {
+      "id": "shah-alam-cities-v2",
+      "descriptionAdvanced": "Shah Alam Selangor állam modern fővárosa, amely az ország első tervezett városaként jött létre az 1963-as függetlenség után. A várost 1978-ban avatták az állam új fővárosává, átvéve Kuala Lumpur korábbi szerepét. A település legismertebb jelképe a hatalmas Sultan Salahuddin Abdul Aziz Királyi Mecset, más néven a Kék Mecset, amelynek minaretjei 142 méter magasak, és a világ legnagyobb vallási kupoláinak egyikével büszkélkedhet. A várostervezés során nagy hangsúlyt fektettek a zöldterületekre, számos mesterséges tavat és kiterjedt parkrendszert hoztak létre, amelyek csökkentik a trópusi hőséget. Az ipar és az oktatás fontos központja, ahol a PROTON autógyár is működik. Ez a város a modern várostervezés és a mérnöki ismeretek oktatásához szolgáltat kiváló példát.",
+      "factsAdvanced": [
+        "1978. december 7-én lett Selangor állam fővárosa.",
+        "Malajzia első függetlenség utáni tervezett városa (1963).",
+        "A Kék Mecset minaretjei 142 méter magasak.",
+        "A mecset kupolájának átmérője eléri az 51 métert.",
+        "A városban működik az ország első autógyára, a PROTON (1983-tól).",
+        "Területének jelentős részét közparkok és mesterséges tavak alkotják."
+      ]
+    },
+    {
+      "id": "malakka-stadt-cities-v2",
+      "descriptionAdvanced": "Malakka városa a maláj történelem legfontosabb kikötővárosa, amely 2008-ban felkerült az UNESCO Világörökség listájára gazdag múltja és építészeti sokszínűsége miatt. A várost 1400 körül Parameswara, egy szumátrai herceg alapította, és hamar a Délkelet-Ázsia legforgalmasabb fűszerkereskedelmi központjává vált. A stratégiai jelentőségű települést egymás után hódították meg a portugálok (1511), a hollandok (1641) és a britek (1824). E gyarmati időszakok nyomai máig láthatók az A Famosa erőd romjaiban és a piros színű holland Stadthuys épületén. A városban a peranakán, vagyis a tengeri-szorosokbeli kínai kultúra is egyedülálló módon maradt fenn. Történelem és társadalomismeret tantárgyak keretében az európai gyarmatosítás ázsiai hatásainak tanulmányozására a legalkalmasabb helyszín.",
+      "factsAdvanced": [
+        "Alapítása az 1400-as évek elejére tehető, Parameswara által.",
+        "1511-ben a portugálok Alfonso de Albuquerque vezetésével elfoglalták.",
+        "1641 és 1824 között holland fennhatóság alatt állt.",
+        "A piros Stadthuys épület 1650-ben épült.",
+        "2008-ban az UNESCO Világörökség részévé választották.",
+        "A Malakka-szoros a világ egyik legfontosabb hajózási útvonala."
+      ]
+    },
+    {
+      "id": "kuantan-cities-v2",
+      "descriptionAdvanced": "Kuantan Pahang állam központja és a Maláj-félsziget keleti partvidékének legnagyobb települése, amely a Kuantan-folyó torkolatánál fekszik. A város fejlődése a 19. század végén gyorsult fel a környező ón- és aranybányászat hatására, és 1955-ben vette át az állami főváros rangját Kuala Lipistől. A gazdaság napjainkban a petrolkémiai iparra, a fafeldolgozásra és a turizmusra épül, utóbbit a híres Teluk Cempedak homokos strandja vonzza. A település fontos közlekedési csomópont is, tengeri kikötője jelentős szerepet játszik az ipari exportban a Dél-kínai-tenger felé. Kuantan természeti környezete és ipari fejlődése a földrajz és a környezetismeret témakörében kínál bepillantást a part menti gazdaságok működésébe.",
+      "factsAdvanced": [
+        "Pahang állam fővárosává 1955-ben nevezték ki.",
+        "A város a Kuantan-folyó Dél-kínai-tengeri torkolatánál fekszik.",
+        "A Teluk Cempedak nevű strandja mindössze 5 kilométerre van a központtól.",
+        "A város jelentős petrolkémiai és faipari központ.",
+        "A 19. század végén az ón- és aranybányászat indította el fejlődését.",
+        "A keleti part legnagyobb városa lakosságszám alapján."
+      ]
+    },
+    {
+      "id": "seremban-cities-v2",
+      "descriptionAdvanced": "Seremban Negeri Sembilan állam adminisztratív központja, amely a Linggi-folyó völgyében épült. A település eredeti neve Sungei Ujong volt, és az 1870-es években az ónbányászat fellendülésével vált kulcsfontosságú gazdasági csomóponttá. A város építészetére és kultúrájára mély hatást gyakoroltak a szumátrai Minangkabau bevándorlók, ami a felfelé ívelő tetőszerkezetekben is megmutatkozik, mint például a helyi állami múzeum és az adminisztratív épületek esetében. A város híres a Siew Pau nevű töltött péksüteményéről is, amely a helyi kínai gasztronómia remeke. A település történelme és társadalma a kulturális antropológia és a földrajz oktatásban az indonéz migráció malajziai hatásainak remek példája.",
+      "factsAdvanced": [
+        "Eredeti neve Sungei Ujong volt a gyarmati idők előtt.",
+        "A város építészetében dominál a minangkabau stílus.",
+        "A 19. század végén fontos ónbányászati központként funkcionált.",
+        "Negeri Sembilan állam fővárosaként szolgál.",
+        "A város központjától 30 km-re található a híres Port Dickson tengerpart.",
+        "A helyi konyha ikonikus étele a Seremban Siew Pau."
+      ]
+    },
+    {
+      "id": "kota-bharu-cities-v2",
+      "descriptionAdvanced": "Kota Bharu Kelantan állam kulturális és adminisztratív szíve a Maláj-félsziget északkeleti sarkában, közel a thaiföldi határhoz. A várost 1844-ben alapította II. Muhammad szultán, és neve maláj nyelven 'Új Várat' vagy 'Új Várost' jelent. A település egyedülállóan őrzi a tradicionális maláj kultúrát, ideértve a gasing (óriás pörgettyű) játékot, a wau (hagyományos sárkány) készítést és az árnyékszínházat (wayang kulit). A második világháború csendes-óceáni hadszíntere itt kezdődött meg, amikor a japán erők 1941. december 8-án partra szálltak a város közelében, mindössze másfél órával a Pearl Harbor elleni támadás előtt. A hagyományok megőrzése miatt a történelem és művészetoktatás fontos hivatkozási pontja a régióban.",
+      "factsAdvanced": [
+        "1844-ben alapította II. Muhammad kelantani szultán.",
+        "A város neve malájul 'Új Várat' vagy 'Új Várost' jelent.",
+        "A Kelantan-folyó torkolatának közelében található.",
+        "A japán hadsereg itt szállt partra 1941. december 8-án.",
+        "A város a hagyományos maláj művészetek (pl. wau sárkány) központja.",
+        "A thaiföldi határ mindössze 15 kilométerre van a várostól."
+      ]
+    },
+    {
+      "id": "kuala-terengganu-cities-v2",
+      "descriptionAdvanced": "Kuala Terengganu Terengganu állam parti fővárosa, mely a Dél-kínai-tenger és a Terengganu-folyó találkozásánál terül el. A település a történelem során fontos kikötője volt a Kína és Délkelet-Ázsia közötti kereskedelemnek, melyet a kínai feljegyzések már a 12. században említenek. A város napjainkban a hagyományos hajóépítésről, a batikfestésről és a selyemszövésről híres. Az 1970-es évektől kezdve a part menti olaj- és gázkitermelés óriási gazdasági fejlődést hozott a régiónak. Építészetének egyik ékköve a Kristály Mecset (Masjid Kristal), amely üvegből és acélból épült egy mesterséges szigeten. Ez a helyszín a modern technológia és a hagyományos vallási építészet földrajzi bemutatására szolgál.",
+      "factsAdvanced": [
+        "A települést már a 12. századi kínai kereskedők is ismerték.",
+        "Terengganu állam fővárosa és legfőbb kikötője.",
+        "A Kristály Mecset 2008-ban készült el a Wan Man szigeten.",
+        "Gazdaságát a 70-es évektől a tengeri olajkitermelés határozza meg.",
+        "Híres a hagyományos, fából készült halászhajók építéséről.",
+        "2008 januárjában kapott hivatalos városi (City) státuszt."
+      ]
+    },
+    {
+      "id": "alorsetar-cities-v2",
+      "descriptionAdvanced": "Alor Setar Kedah állam ősi fővárosa, amelyet 1735-ben alapított Muhammad Jiwa szultán, és ez teszi a Maláj-félsziget egyik legrégebbi folyamatosan lakott központjává. A város az ország 'rizses táljaként' ismert síkságon fekszik, melynek gazdasága máig erősen kötődik a mezőgazdasághoz. A városképet uralja a 165,5 méter magas Alor Setar-torony, amely telekommunikációs központ és kilátó is egyben. A történelmi épületek között kiemelkedik a lenyűgöző Zahir Mecset, amely 1912-ben épült, és az ország egyik legszebb iszlám építészeti alkotása. A város egyben két korábbi maláj miniszterelnök, köztük Mahathir Mohamad szülőhelye is. Földrajz és mezőgazdaság tanulmányozásához a környező hatalmas rizsföldek kitűnő példát szolgáltatnak.",
+      "factsAdvanced": [
+        "1735-ben alapította Muhammad Jiwa Zainal Adilin szultán.",
+        "Kedah állam adminisztratív és uralkodói székhelye.",
+        "Az Alor Setar telekommunikációs torony 165,5 méter magas.",
+        "A Zahir Mecset 1912-ben készült el mór stílusban.",
+        "A régió Malajzia legfontosabb rizstermelő területe.",
+        "Mahathir Mohamad korábbi miniszterelnök szülővárosa."
+      ]
+    },
+    {
+      "id": "kangar-cities-v2",
+      "descriptionAdvanced": "Kangar Perlis állam, Malajzia legkisebb államának nyugodt és mezőgazdaságáról híres fővárosa, mely az ország északnyugati határán fekszik. A város nevét egy helyi fafajtáról (kangkok fáról) kapta a legenda szerint, és története évszázadokon át szorosan összefonódott a környező rizstermesztéssel. Kangar a Perlis-folyó partján épült, ami korábban a fakitermelésből származó áruk szállítási útvonala volt. A település megőrizte kisvárosi báját, mentes a nagyvárosok zsúfoltságától, építészetében és életmódjában a tradicionális maláj vidék hangulata dominál. A határ közelsége miatt fontos szerepet játszik a Thaifölddel folytatott szárazföldi kereskedelemben is. Földrajzórák keretében a mikrorégiók és a határ menti mezőgazdaság vizsgálatára tökéletes helyszín.",
+      "factsAdvanced": [
+        "Malajzia legkisebb államának, Perlisnek a fővárosa.",
+        "Lakossága 2020-ban körülbelül 50 000 fő volt.",
+        "A Perlis-folyó mentén terül el egy hatalmas síkságon.",
+        "Nevét valószínűleg a kangkok nevű helyi fafajról kapta.",
+        "Gazdasága főként a mezőgazdaságra, különösen a rizstermesztésre épül.",
+        "Thaiföld határa kevesebb mint 40 kilométerre fekszik a várostól."
+      ]
+    },
+    {
+      "id": "putrajaya-cities-v2",
+      "descriptionAdvanced": "Putrajaya Malajzia szövetségi közigazgatási központja, egy hatalmas, zöldterületekkel és tavakkal tarkított mesterséges 'okosváros', amelyet a túlzsúfolt Kuala Lumpur tehermentesítésére hoztak létre. A város építését az 1990-es évek végén kezdték meg Mahathir Mohamad miniszterelnök kezdeményezésére. A mintegy 49 négyzetkilométeres területet úgy tervezték, hogy a modern iszlám építészet és a környezettudatos városfejlesztés szimbóluma legyen. A központban található a mesterséges Putrajaya-tó, amely körül a legfontosabb kormányzati épületek, köztük a rózsaszín kupolájú Putra Mecset és a Perdana Putra (a miniszterelnöki hivatal) állnak. Az urbanisztika és a földrajz oktatásában a tervezett fővárosok és az ökováros koncepciójának nemzetközi szinten is kiemelkedő példája.",
+      "factsAdvanced": [
+        "A város építése az 1990-es évek közepén indult el.",
+        "2001. február 1-jén kapott szövetségi terület státuszt.",
+        "Teljes területe körülbelül 49 négyzetkilométer.",
+        "A mesterséges Putrajaya-tó a város területének jelentős részét teszi ki.",
+        "Nevét Tunku Abdul Rahman Putra Al-Hajról, az első miniszterelnökről kapta.",
+        "A város egy intelligens ökováros koncepciójára épült fel."
+      ]
+    },
+    {
+      "id": "subang-jaya-cities-v2",
+      "descriptionAdvanced": "Subang Jaya a Klang-völgy egyik legnépesebb és leggyorsabban fejlődő külvárosa Selangor államban, amely az 1970-es években egy hatalmas pálmaolaj-ültetvény helyén jött létre. Eredetileg lakónegyednek szánták Kuala Lumpur növekvő népességének befogadására, de az elmúlt évtizedekben jelentős felsőoktatási és kereskedelmi csomóponttá nőtte ki magát. A város ad otthont számos neves malajziai egyetemnek és nemzetközi főiskolának, amelyek diákok tízezreit vonzzák évente. A Sunway Pyramid bevásárlóközpont egyiptomi témájú építészete a város egyik legismertebb modern nevezetessége. Az urbanizáció, az elővárosi terjeszkedés és a szolgáltatóipar oktatása során a város a metropoliszok agglomerációjának klasszikus délkelet-ázsiai modellje.",
+      "factsAdvanced": [
+        "A városfejlesztés 1974-ben kezdődött egy volt pálmaolaj-ültetvényen.",
+        "2020 októberében kapta meg hivatalosan a City (város) státuszt.",
+        "A lakossága a környező területekkel együtt meghaladja a 700 ezer főt.",
+        "Számos nemzetközi főiskola és egyetemi kampusz központja.",
+        "Kuala Lumpur és Shah Alam között stratégiai helyen fekszik.",
+        "Az ország egyik legkiterjedtebb elővárosi vasúti hálózatával rendelkezik."
+      ]
+    },
+    {
+      "id": "klang-cities-v2",
+      "descriptionAdvanced": "Klang egy történelmi jelentőségű királyi város Selangor államban, és az egyik legrégebbi közigazgatási központ a Maláj-félszigeten. A település a Klang-folyó partján fekszik, és már a 15. században is a Majapahit Birodalom egyik fontos vazallusa volt. Gazdasági motorja a hatalmas Port Klang (Klang kikötő), amely Délkelet-Ázsia második legforgalmasabb tengeri kikötője és a világ húsz legnagyobb konténertermináljának egyike. A város híres a gazdag kulturális örökségéről is, többek között a 'Bak Kut Teh' nevű kínai gyógynövényes sertéslevesről, amely innen származik. A történelem, a tengeri kereskedelem és a gazdaságföldrajz tanulmányozása során a város a globális ellátási láncok működésébe enged betekintést.",
+      "factsAdvanced": [
+        "Selangor állam királyi székhelye és egykori fővárosa.",
+        "A Klang kikötő (Port Klang) a világ egyik legforgalmasabb teherkikötője.",
+        "A város története jóval a gyarmati időszak előtti korra, a 15. századra nyúlik vissza.",
+        "A Klang-folyó kettészeli a várost észak és dél felé.",
+        "A helyi legenda szerint itt találták fel a Bak Kut Teh ételt.",
+        "1890-ben kapta meg az első modern városi tanácsi adminisztrációját."
+      ]
+    },
+    {
+      "id": "petaling-jaya-cities-v2",
+      "descriptionAdvanced": "Petaling Jaya, gyakran csak 'PJ' néven emlegetik, Malajzia első megtervezett műholdvárosa, amelyet 1952-ben alapítottak Kuala Lumpur túlzsúfoltságának enyhítésére. Eredetileg brit gyarmati tisztek és helyi lakosok számára hoztak létre lakóövezeteket ezen az egykori gumiültetvényen. A település mára Selangor állam egyik legfontosabb kereskedelmi és ipari központjává fejlődött, ahol számtalan nemzetközi vállalat malajziai központja található. Hatalmas bevásárlóközpontjai, mint például az 1 Utama – a világ egyik legnagyobb plázája – a régió kereskedelmi súlypontját is jelentik. Földrajz tantárgy keretében Petaling Jaya tökéletes példája a sikeres szuburbanizációnak és a függetlenedő elővárosi növekedésnek.",
+      "factsAdvanced": [
+        "1952-ben alapították Malajzia első tervezett műholdvárosaként.",
+        "Eredetileg egy hatalmas gumiültetvény helyén épült fel.",
+        "2006 júniusában emelték hivatalosan városi (City) rangra.",
+        "Itt található az 1 Utama, a világ egyik legnagyobb bevásárlóközpontja.",
+        "A lakossága napjainkban meghaladja a 600 000 főt.",
+        "Az ország legfontosabb ipari parkjainak és tech-cégeinek ad otthont."
+      ]
+    },
+    {
+      "id": "miri-cities-v2",
+      "descriptionAdvanced": "Miri Sarawak állam második legnagyobb városa, melynek történetét és fejlődését az 1910-ben felfedezett kőolaj határozta meg. A 'Grand Old Lady' nevű első olajkút a Kanada-dombon ma emlékműként tiszteleg az iparág előtt, amely beindította a régió gazdasági robbanását. Miri a kőolaj- és földgázkitermelésen túl a természeti turizmus egyik legfontosabb malajziai kapuja. Innen indulnak a túrák a híres Gunung Mulu Nemzeti Park világörökségi barlangrendszereihez és a Niah Nemzeti Park őskori lelőhelyeihez. A város lakossága rendkívül sokszínű, számos borneói őslakos népcsoport, kínaiak és külföldi olajipari szakemberek élnek itt együtt. A földrajz oktatásban az energiahordozók szerepét és az ipari fejlődés természeti hatásait mutatja be.",
+      "factsAdvanced": [
+        "1910-ben itt fúrták Malajzia első sikeres olajkútját.",
+        "Az első olajkút, a 'Grand Old Lady' 1972-ig üzemelt.",
+        "Sarawak állam második legnépesebb városa.",
+        "2005-ben kapta meg hivatalosan a City (város) rangot.",
+        "A Gunung Mulu Nemzeti Parkba induló turizmus fő tranzitpontja.",
+        "Jelentős offshore kőolaj- és földgáziparral rendelkezik."
+      ]
+    },
+    {
+      "id": "sibu-cities-v2",
+      "descriptionAdvanced": "Sibu egy különleges folyami város Sarawak államban, amely a hatalmas Rajang-folyó és az Igan-folyó összefolyásánál épült fel. A várost leginkább a fafeldolgozó ipar és a folyami kereskedelem tette naggyá. Sibu különlegessége a jelentős Fuzhou-i kínai közösség, akiket a 20. század elején telepítettek be mezőgazdasági céllal, ezért a várost gyakran 'Új Fuzhou' néven is ismerik. A település az ország legkiterjedtebb folyami hajóhálózatának központja, az úgynevezett 'express boat' hajók innen szállítják az utasokat és árukat a szárazföld belsejében található elzárt borneói falvakba. Ez a helyszín a gazdaságföldrajz tantárgyhoz kapcsolódóan kiváló példát mutat a belvízi hajózás és a trópusi faipar összefüggéseire.",
+      "factsAdvanced": [
+        "A Rajang-folyó, Malajzia leghosszabb folyója mentén fekszik.",
+        "A város lakosságának nagy része a kínai Fuzhou régióból származik.",
+        "Jelentős fafeldolgozó és hajóépítő központ Sarawakban.",
+        "A Sibu Központi Piac (Central Market) Malajzia legnagyobb fedett piaca.",
+        "A város az ország legfontosabb folyami közlekedési csomópontja.",
+        "1901-ben kezdődött meg a kínai mezőgazdasági munkások szervezett betelepítése."
+      ]
+    },
+    {
+      "id": "sandakan-cities-v2",
+      "descriptionAdvanced": "Sandakan Sabah állam történelmi kikötővárosa a Sulu-tenger partján, amely a fakitermelésből és az európai kereskedelemből gazdagodott meg. Az 1800-as évek végétől a második világháborúig a Brit Észak-Borneó Társaság fővárosa volt. A település történelmének sötét fejezete a japán megszállás, valamint a hírhedt sandakani halálmenet, melynek emlékét a Sandakan Emlékpark őrzi. Ma a város a vadvédelmi turizmus globális központja, ahonnan könnyen elérhető a Sepilok Orángután Rehabilitációs Központ és a maláj medvék menedékhelye. A történelem és a biológia tantárgyak keretében az emberi pusztítás és a természetvédelem egyensúlyának kihívásait lehet itt a leginkább szemléltetni.",
+      "factsAdvanced": [
+        "1883 és 1946 között Brit Észak-Borneó fővárosa volt.",
+        "A második világháború alatt a sandakani halálmenet kiindulópontja volt.",
+        "A Sulu-tenger partján fekvő jelentős kikötő és halászati központ.",
+        "A Sepilok Orángután Rehabilitációs Központ 1964-ben létesült a közelében.",
+        "A város korábban a trópusi fakitermelés egyik világközpontja volt.",
+        "Lakossága meghaladja a 400 000 főt, ezzel Sabah második legnagyobb városa."
+      ]
+    },
+    {
+      "id": "tawau-cities-v2",
+      "descriptionAdvanced": "Tawau Sabah állam délkeleti partvidékének gazdasági bástyája, amely közvetlenül az indonéziai határ mellett terül el a Celebesz-tenger partján. A várost az 1890-es években alapították, és a vulkanikus eredetű termékeny talajnak köszönhetően gyorsan a kakaó, a pálmaolaj és a kávé termesztésének központjává vált. A térség a tengeri ételeiről, különösen a hatalmas tigrisrákokról híres, amelyek a helyi halászati ipar alapját adják. Tawau emellett tranzitpontként szolgál a búvárok számára, akik a világhírű Sipadan és Mabul szigetek korallzátonyai felé tartanak. A földrajz és a mezőgazdaság oktatásában a vulkanikus talajok gazdasági hasznosításának bemutatására kiváló helyszín.",
+      "factsAdvanced": [
+        "A Celebesz-tenger partján fekszik, az indonéz határ közvetlen közelében.",
+        "A régió vulkanikus talaja ideális a kakaó és a pálmaolaj termesztésére.",
+        "Malajzia egyik legnagyobb kakaótermelő központja.",
+        "Az 1890-es években alapították brit fennhatóság alatt.",
+        "A város tranzitállomás a Sipadan-sziget felé tartó búvárok számára.",
+        "Jelentős indonéz migráns lakossággal rendelkezik a határ közelsége miatt."
+      ]
+    },
+    {
+      "id": "bintulu-cities-v2",
+      "descriptionAdvanced": "Bintulu Sarawak állam partvidékének ipari gigásza, amely egy apró halászfaluból nőtte ki magát a világ egyik legfontosabb cseppfolyósított földgáz (LNG) termelő központjává. A város fejlődése 1979-ben gyorsult fel az offshore földgázmezők felfedezésével és a hatalmas Bintulu LNG komplexum megépítésével. Történelmileg is jelentős helyszín, hiszen 1867-ben itt ült össze először a Sarawak Állami Törvényhozó Gyűlés, amely a legidősebb ilyen intézmény Malajziában. Az ipari parkok és a hatalmas mélyvízi kikötő a nemzeti gazdaság alapköveit jelentik. A kémia, a gazdaság és a földrajz tantárgyak keretében a fosszilis energiahordozók ipari feldolgozásának léptékét szemlélteti a régió.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb cseppfolyósított földgáz (LNG) előállító komplexuma itt működik.",
+        "1867-ben itt tartották az első Sarawak Állami Törvényhozó Gyűlést.",
+        "A hatalmas ipari fejlődés 1979-ben indult meg a gázmezők felfedezésével.",
+        "Jelentős mélyvízi kikötővel rendelkezik a Dél-kínai-tengeren.",
+        "Lakossága a 70-es évek 14 ezréről több mint 200 ezerre nőtt.",
+        "A város környéki Samalaju Ipari Park a fémkohászat központja."
+      ]
+    },
+    {
+      "id": "muar-cities-v2",
+      "descriptionAdvanced": "Muar, más néven Bandar Maharani, egy elegáns és történelmi jelentőségű királyi város Johor államban, a Muar-folyó torkolatánál. A település 1884-ben kapta nevét Abu Bakar szultántól, és híres a brit gyarmati korszakból származó gyönyörű, megőrzött épületeiről. A város kulináris hírneve kiemelkedő: a Muar Otak-Otak, a banánlevélben grillezett fűszeres halpaszta országos hírnévnek örvend. A helyi gazdaság hagyományosan a mezőgazdaságra épül, különösen a kávé- és orchideatermesztésre, ám a bútoripar is regionális szinten meghatározó. A folyó menti földrajzi elhelyezkedés és a hagyományőrzés a történelem és a kulturális ismeretek oktatásához kínál autentikus délkelet-ázsiai környezetet.",
+      "factsAdvanced": [
+        "A várost hivatalosan 1884-ben alapította Abu Bakar szultán.",
+        "A település hivatalos királyi címe Bandar Maharani.",
+        "A Muar-folyó torkolatánál, a Malakka-szoros partján fekszik.",
+        "A Muar Otak-Otak nevű étel a város leghíresebb gasztronómiai exportcikke.",
+        "A régió Malajzia egyik legfontosabb bútorgyártó központja.",
+        "2012-ben hivatalosan is Johor állam Királyi Városává nyilvánították."
+      ]
+    },
+    {
+      "id": "sungai-petani-cities-v2",
+      "descriptionAdvanced": "Sungai Petani Kedah állam legnépesebb városa és legfontosabb ipari központja, amely az észak-malajziai régió gazdasági motorja. A település neve a helyi gazdálkodók és a folyó kapcsolatára utal, és eredetileg a gumi- és pálmaolaj-ültetvények szolgáltató központjaként működött. A város történeti jelentőségét növeli, hogy a közelben található a Bujang-völgy (Lembah Bujang), amely Délkelet-Ázsia egyik leggazdagabb régészeti lelőhelye, egykori hindu-buddhista királyságok romjaival. Az 1990-es évektől a könnyűipar és a feldolgozóipar vette át a gazdaság vezetését. Történelem és társadalomismeret tantárgyak keretében a város az ősi indiai civilizációs hatások és a modern iparosodás találkozását szemlélteti.",
+      "factsAdvanced": [
+        "Kedah állam legnépesebb települése, megelőzve a fővárost, Alor Setart.",
+        "Nevének jelentése szó szerint 'Gazda Folyó'.",
+        "A város közelében található a Bujang-völgy jelentős régészeti lelőhelye.",
+        "Az 1990-es évektől jelentős ipari parkok épültek a területén.",
+        "Történelmileg hatalmas gumi- és pálmaolaj-ültetvények vették körül.",
+        "A híres óratornyát 1936-ban építették V. György brit király emlékére."
+      ]
+    }
+  ]
+}

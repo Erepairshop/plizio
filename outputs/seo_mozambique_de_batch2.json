@@ -1,0 +1,296 @@
+
+{
+  "lang": "de",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marromeu-ebene-relief-v2",
+      "descriptionAdvanced": "Die Marromeu-Ebene ist Teil des südlichen Sambesi-Deltas und ein riesiges, flaches Überschwemmungsgebiet. Sie ist ökologisch äußerst wichtig und als Teil des Marromeu-Wildreservats geschützt. Die Ebene ist bekannt für ihre riesigen Graslandschaften, Papyrussümpfe und Wasserflächen, die eine der größten Populationen von afrikanischen Büffeln und Wasservögeln in Afrika beherbergen. Die Region ist auch ein Zentrum für die Zuckerrohrproduktion, was zu einem komplexen Zusammenspiel von Naturschutz und Landwirtschaft führt. Ökologie K8 – Feuchtgebiete und Wildtiermanagement.",
+      "factsAdvanced": [
+        "Das Marromeu-Reservat umfasst eine Fläche von etwa 1.500 km².",
+        "Es ist ein Ramsar-Schutzgebiet von internationaler Bedeutung.",
+        "Die Büffelpopulation wurde auf über 50.000 Tiere geschätzt, hat aber unter Wilderei gelitten.",
+        "Die Ebene ist ein wichtiger Rastplatz für Zugvögel auf der afrikanisch-eurasischen Flugroute.",
+        "Die Zuckerplantage von Marromeu wurde bereits 1894 gegründet.",
+        "Die Region ist durch den Bau von Staudämmen am Sambesi und durch Dürren bedroht.",
+        "Das Ökosystem ist für die Regulation des Wasserflusses im unteren Sambesi entscheidend.",
+        "Wiedereinführungsprogramme für Löwen und andere Raubtiere waren erfolgreich."
+      ]
+    },
+    {
+      "id": "lugenda-tal-relief-v2",
+      "descriptionAdvanced": "Das Tal des Lugenda-Flusses durchzieht das riesige Niassa-Wildreservat im Norden Mosambiks. Es ist eine der unberührtesten und abgelegensten Regionen des Landes. Das Tal ist geprägt von Miombo-Wäldern, Flusswäldern und spektakulären Granit-Inselbergen. Der Lugenda-Fluss selbst ist die Lebensader des Reservats und beherbergt große Populationen von Krokodilen und Flusspferden. Das Tal ist ein Kerngebiet für die Elefanten des Reservats und ein wichtiger Lebensraum für Wildhunde und Löwen. Die landschaftliche Schönheit und die Wildnis machen es zu einem einzigartigen Naturerlebnis. Geographie K7 – Flusstäler und Schutzgebiete.",
+      "factsAdvanced": [
+        "Der Lugenda-Fluss ist ein Hauptzufluss des Rovuma-Flusses.",
+        "Das Tal erstreckt sich über Hunderte von Kilometern durch das Niassa-Reservat.",
+        "Charakteristisch für das Tal sind die 'Mecula'-Inselberge.",
+        "Im Fluss leben drei endemische Fischarten.",
+        "Das Tal ist nur über unbefestigte Pisten erreichbar und weitgehend unerschlossen.",
+        "Es ist ein wichtiges Gebiet für die Bekämpfung der Elefantenwilderei.",
+        "Die jährliche Kanu-Safari auf dem Lugenda ist ein exklusives touristisches Highlight.",
+        "Die Vegetation wechselt saisonal stark zwischen Trocken- und Regenzeit."
+      ]
+    },
+    {
+      "id": "cherimane-kuesten-relief-v2",
+      "descriptionAdvanced": "Die Cheringoma-Küste in der Provinz Sofala ist eine wilde und unberührte Küstenlandschaft südlich des Sambesi-Deltas. Sie ist Teil des Marromeu-Komplexes und zeichnet sich durch lange, unberührte Sandstrände, Küstendünen und ausgedehnte Mangrovenwälder aus. Die Region ist von großer ökologischer Bedeutung als Brut- und Nahrungsgebiet für Fische, Krebstiere und Vögel. Die Küste ist sehr dünn besiedelt und touristisch kaum entwickelt, was ihr einen Ruf als eine der letzten echten Wildnisküsten im südlichen Afrika eingebracht hat. Ökologie K9 – Küstenschutz.",
+      "factsAdvanced": [
+        "Die Küste liegt an der Grenze des Gorongosa-Nationalparks.",
+        "Die Mangrovenwälder hier sind entscheidend für den Schutz der Küste vor Stürmen.",
+        "Die Region ist bekannt für ihre großen Garnelenpopulationen.",
+        "Meeresschildkröten, darunter die Lederschildkröte, nisten an diesen Stränden.",
+        "Die Mündung des Buzi-Flusses bildet ein wichtiges Ästuar in der Region.",
+        "Der Zugang zur Küste ist schwierig und erfolgt meist über unbefestigte Wege.",
+        "Es gibt Bemühungen, die Region in ein umfassenderes Meeresschutzgebiet zu integrieren.",
+        "Historisch war die Region ein wichtiger Ort für den Swahili-Handel."
+      ]
+    },
+    {
+      "id": "angoche-kuesten-relief-v2",
+      "descriptionAdvanced": "Die Küste von Angoche in der Provinz Nampula ist eine historisch bedeutsame Region mit einer reichen Swahili-Vergangenheit. Die Küstenlinie ist durch eine Reihe von Inseln, Buchten und Ästuarien gegliedert. Die Region war einst das Zentrum des unabhängigen Angoche-Sultanats, das über Jahrhunderte ein wichtiger Handelskonkurrent der Portugiesen war. Heute ist die Küste von der handwerklichen Fischerei geprägt. Die Gewässer sind reich an Fisch und Meeresfrüchten. Die nahegelegenen Moma-Schwermineralsandminen haben die wirtschaftliche Bedeutung der Region erhöht. Geschichte K7 – Handelsreiche.",
+      "factsAdvanced": [
+        "Das Angoche-Sultanat wurde im 15. Jahrhundert gegründet.",
+        "Die Küste ist Teil des Swahili-Kulturraums, der sich von Somalia bis Mosambik erstreckt.",
+        "Die Inseln vor der Küste, wie Angoche Island, waren wichtige Handelsposten.",
+        "Die lokale Bevölkerung spricht hauptsächlich Varianten der Makua-Sprache.",
+        "Der handwerkliche Fischfang ist die Haupteinnahmequelle für Tausende von Menschen.",
+        "Die Küste ist durch den Anstieg des Meeresspiegels und die Zerstörung von Mangroven bedroht.",
+        "In der Nähe befinden sich bedeutende Vorkommen von Ilmenit und Zirkon.",
+        "Die Architektur in den alten Teilen von Angoche zeigt arabische und Swahili-Einflüsse."
+      ]
+    },
+    {
+      "id": "vilanculos-kuesten-relief-v2",
+      "descriptionAdvanced": "Die Küste von Vilanculos in der Provinz Inhambane ist das Tor zum weltberühmten Bazaruto-Archipel. Die Küstenlinie selbst ist von langen, weißen Sandstränden, Palmenhainen und ruhigem, türkisfarbenem Wasser geprägt. Die Stadt Vilanculos ist das touristische Zentrum der Region und bietet zahlreiche Lodges und Aktivitäten wie Tauchen, Schnorcheln und Dhausafaris. Die flachen Küstengewässer sind ein wichtiger Lebensraum für Seegraswiesen, die die bedrohten Dugongs (Seekühe) ernähren. Die Kombination aus atemberaubender Naturschönheit und reicher Meeresfauna macht diese Küste zu einem Top-Reiseziel. Tourismus K9.",
+      "factsAdvanced": [
+        "Vilanculos ist der Hauptausgangspunkt für Touren zum Bazaruto-Archipel.",
+        "Die Küste ist durch das Archipel vor den rauen Wellen des offenen Ozeans geschützt.",
+        "Die Seegraswiesen hier sind entscheidend für das Überleben der Dugong-Population.",
+        "Die traditionellen Dhaus werden immer noch für Fischerei und Tourismus eingesetzt.",
+        "Der Vilankulo International Airport verbindet die Region mit Südafrika.",
+        "Der Fischmarkt in Vilanculos bietet einen Einblick in das lokale Leben.",
+        "Die Region ist bekannt für ihre hervorragenden Bedingungen zum Kitesurfen.",
+        "Die Küste hat eine entspannte, kosmopolitische Atmosphäre."
+      ]
+    },
+    {
+      "id": "zambezi-river-nature-v2",
+      "descriptionAdvanced": "Der Sambesi ist mit einer Länge von 2.574 Kilometern der viertlängste Fluss Afrikas und der längste, der in den Indischen Ozean fließt. Er entspringt in Sambia, durchquert Angola, bildet Grenzen zu Namibia, Botswana und Simbabwe, bevor er Mosambik auf seinem Weg zum Meer durchquert. In Mosambik wird er von zwei der größten Staudämme Afrikas, Cahora Bassa und Kariba, aufgestaut. Der Fluss ist eine Lebensader für Millionen von Menschen und eine Quelle für Wasserkraft, Fischerei und Landwirtschaft. Sein Delta ist ein ökologisch wertvolles Feuchtgebiet von internationaler Bedeutung. Geographie K8 – Flusssysteme Afrikas.",
+      "factsAdvanced": [
+        "Der Sambesi durchfließt sechs Länder.",
+        "Seine Gesamtlänge beträgt 2.574 km.",
+        "Die Victoriafälle, eines der sieben Naturwunder der Welt, sind Teil des Sambesi.",
+        "Das Einzugsgebiet des Flusses umfasst eine Fläche von 1,39 Millionen km².",
+        "Der Cahora-Bassa-Staudamm in Mosambik ist einer der größten Stromerzeuger Afrikas.",
+        "Der Fluss beherbergt eine große Population von Flusspferden und Krokodilen.",
+        "Der Name 'Sambesi' bedeutet in der Sprache der Tonga 'Großer Fluss'.",
+        "Die Sambesi-Haispezies (Bullenhai) kann Hunderte von Kilometern flussaufwärts schwimmen."
+      ]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "descriptionAdvanced": "Der Limpopo-Fluss ist der zweitgrößte Fluss, der von Afrika in den Indischen Ozean mündet. Er entspringt in Südafrika und bildet auf seinem 1.750 Kilometer langen Weg zum Meer Grenzen zu Botswana, Simbabwe und schließlich Mosambik. In Mosambik durchfließt er die trockene Provinz Gaza und bildet eine breite, fruchtbare Schwemmlandebene, die für die Landwirtschaft entscheidend ist. Der Fluss ist bekannt für seine unregelmäßige Wasserführung, die zu extremen Dürren und verheerenden Überschwemmungen führen kann. Das Limpopo-Tal ist reich an Wildtieren und Teil des Great Limpopo Transfrontier Park. Hydrologie K7 – Wasserressourcenmanagement.",
+      "factsAdvanced": [
+        "Der Limpopo ist 1.750 km lang.",
+        "Er durchfließt vier Länder: Südafrika, Botswana, Simbabwe und Mosambik.",
+        "Der Great Limpopo Transfrontier Park verbindet Nationalparks in diesen drei Ländern.",
+        "Rudyard Kipling nannte ihn den 'großen, graugrünen, schlammigen Limpopo-Fluss' in seinen 'Just So Stories'.",
+        "Die Überschwemmungen im Jahr 2000 waren eine der schlimmsten Naturkatastrophen in der Geschichte Mosambiks.",
+        "Der Massingir-Staudamm am Olifants-Fluss, einem Nebenfluss, reguliert den Wasserfluss.",
+        "Das Tal ist ein wichtiges Anbaugebiet für Zuckerrohr und Reis.",
+        "Der Fluss ist Lebensraum für Flusspferde, Krokodile und eine vielfältige Vogelwelt."
+      ]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "descriptionAdvanced": "Der Rovuma-Fluss (in Tansania Ruvuma genannt) bildet über den größten Teil seines Verlaufs die natürliche Grenze zwischen Mosambik und Tansania. Er entspringt in den Bergen östlich des Malawisees und fließt über 800 Kilometer in den Indischen Ozean. Der Fluss ist weitgehend unberührt und fließt durch einige der abgelegensten Wildnisgebiete Afrikas, darunter das Niassa-Reservat in Mosambik. Er ist nicht schiffbar und hat eine stark schwankende Wasserführung. Der Bau einer Brücke, der Unity Bridge, hat die Verbindung zwischen den beiden Ländern erheblich verbessert. Geopolitik K9 – Grenzflüsse.",
+      "factsAdvanced": [
+        "Der Rovuma ist etwa 800 km lang.",
+        "Er bildet die Grenze zwischen Mosambik und Tansania.",
+        "Die Unity Bridge (Ponte da Unidade) wurde 2010 eröffnet und ist 720 Meter lang.",
+        "Der Fluss fließt durch das Selous Game Reserve in Tansania und das Niassa-Reservat in Mosambik.",
+        "Er ist Lebensraum für Flusspferde, Krokodile und eine reiche Vogelwelt.",
+        "Das Einzugsgebiet ist dünn besiedelt.",
+        "Während der deutschen Kolonialzeit war er als 'Rowuma' bekannt.",
+        "Der Fluss ist für seine großen Sandbänke und wechselnden Kanäle bekannt."
+      ]
+    },
+    {
+      "id": "lugenda-river-nature-v2",
+      "descriptionAdvanced": "Der Lugenda ist ein bedeutender Fluss im Norden Mosambiks und der größte Nebenfluss des Rovuma. Er entspringt in der Nähe des Chilwa-Sees und schlängelt sich über Hunderte von Kilometern durch das riesige Niassa-Wildreservat. Der Fluss ist die Hauptlebensader dieses riesigen Schutzgebiets und sorgt für das Überleben unzähliger Wildtiere, darunter Elefanten, Löwen und Flusspferde. Seine Ufer sind von dichten Galeriewäldern gesäumt, während die umliegende Landschaft von Miombo-Wäldern und Granitfelsen geprägt ist. Der Lugenda ist ein Symbol für die unberührte Wildnis Nordmosambiks. Ökosysteme K8.",
+      "factsAdvanced": [
+        "Der Lugenda ist ein Nebenfluss des Rovuma.",
+        "Er ist die wichtigste Wasserquelle im Niassa-Wildreservat.",
+        "Der Name 'Lugenda' bedeutet in der Yao-Sprache 'der große Fluss'.",
+        "Spektakuläre Granit-Inselberge, wie der Mecula-Felsen, säumen das Flusstal.",
+        "Im Fluss gibt es große Populationen von Flusspferden und Nilkrokodilen.",
+        "Der Fluss ist nicht schiffbar und hat eine stark saisonale Wasserführung.",
+        "Kanufahren auf dem Lugenda ist eine exklusive Möglichkeit, die Wildnis zu erleben.",
+        "Die Artenvielfalt im und am Fluss ist extrem hoch."
+      ]
+    },
+    {
+      "id": "save-river-nature-v2",
+      "descriptionAdvanced": "Der Save-Fluss (portugiesisch: Rio Save) entspringt in Simbabwe und fließt durch Mosambik in den Indischen Ozean. Mit einer Länge von etwa 735 Kilometern ist er ein wichtiger Fluss im zentralen Mosambik. Er bildet historisch und ökologisch eine bedeutende Trennlinie im Land. Südlich des Save ist das Klima trockener und die Kultur stärker von südafrikanischen Einflüssen geprägt. Der Fluss selbst ist von Sandbänken durchzogen und seine Wasserführung ist sehr variabel. Das Save-Tal ist ein wichtiger Lebensraum für Wildtiere und Teil eines grenzüberschreitenden Schutzgebiets. Biogeographie K7 – Ökologische Grenzen.",
+      "factsAdvanced": [
+        "Der Save ist etwa 735 km lang.",
+        "Er gilt als Trennlinie zwischen dem südlichen und zentralen Mosambik.",
+        "Das Zinave-Nationalpark liegt im Save-Tal.",
+        "Der Fluss ist wichtig für die lokale Fischerei und kleinbäuerliche Landwirtschaft.",
+        "Sein Einzugsgebiet ist anfällig für Dürren.",
+        "Der Zusammenfluss mit seinem Nebenfluss, dem Runde, ist ein wichtiger ökologischer Punkt.",
+        "In der Vergangenheit wurde der Fluss für den Transport von Gold aus dem Munhumutapa-Reich genutzt.",
+        "Große Teile des Flusstals sind dünn besiedelt."
+      ]
+    },
+    {
+      "id": "buzi-river-nature-v2",
+      "descriptionAdvanced": "Der Buzi-Fluss entspringt im östlichen Hochland von Simbabwe und mündet in der Nähe der Stadt Beira in Mosambik in den Indischen Ozean. In Mosambik bildet er eine breite, flache Schwemmlandebene, die sehr fruchtbar, aber auch extrem überschwemmungsgefährdet ist. Der Fluss und sein Einzugsgebiet sind von entscheidender Bedeutung für die Landwirtschaft in der Provinz Sofala, insbesondere für den Anbau von Reis und Zuckerrohr. Die häufigen Überschwemmungen, die oft durch tropische Wirbelstürme verschärft werden, stellen eine ständige Herausforderung für die lokale Bevölkerung dar. Katastrophenmanagement K9.",
+      "factsAdvanced": [
+        "Der Buzi hat eine Länge von etwa 250 km in Mosambik.",
+        "Er mündet zusammen mit dem Pungwe-Fluss in einem gemeinsamen Ästuar bei Beira.",
+        "Das Buzi-Tal ist sehr fruchtbar, aber anfällig für schwere Überschwemmungen.",
+        "Der Zyklon Idai im Jahr 2019 verursachte eine katastrophale Flut des Buzi.",
+        "Die Landwirtschaft im Tal ist auf den saisonalen Rhythmus des Flusses angewiesen.",
+        "Der Fluss ist ein wichtiger Transportweg für lokale Gemeinschaften.",
+        "Krokodile und Flusspferde sind im Fluss heimisch.",
+        "Es gibt Pläne für den Bau von Staudämmen, um die Überschwemmungen zu kontrollieren."
+      ]
+    },
+    {
+      "id": "pungwe-river-nature-v2",
+      "descriptionAdvanced": "Der Pungwe-Fluss entspringt im Inyangani-Berg in Simbabwe und fließt durch Mosambik, um bei der Stadt Beira in den Indischen Ozean zu münden. Er ist eine wichtige Wasserquelle für die Städte Mutare in Simbabwe und Beira in Mosambik. In Mosambik durchquert der Fluss den Gorongosa-Nationalpark, wo er für das Ökosystem von entscheidender Bedeutung ist. Das untere Pungwe-Tal ist eine fruchtbare Ebene, die intensiv für die Landwirtschaft genutzt wird, aber auch stark von Überschwemmungen bedroht ist. Der Fluss ist ein Beispiel für die Herausforderungen der grenzüberschreitenden Wassernutzung. Wasserwirtschaft K8.",
+      "factsAdvanced": [
+        "Der Pungwe ist etwa 400 km lang.",
+        "Er versorgt die Millionenstadt Beira mit Trinkwasser.",
+        "Eine Pipeline transportiert Wasser vom Pungwe nach Mutare in Simbabwe.",
+        "Der Fluss bildet die südliche Grenze des Gorongosa-Nationalparks.",
+        "Sein Ästuar bei Beira ist ein wichtiger Lebensraum für Mangroven.",
+        "Die Pungwe Flats sind ein wichtiges Gebiet für Wasservögel.",
+        "Die Verwaltung des Flusses wird durch ein gemeinsames Abkommen zwischen Mosambik und Simbabwe geregelt.",
+        "Goldwaschen im Oberlauf des Flusses führt zu Sedimentation und Umweltproblemen."
+      ]
+    },
+    {
+      "id": "incomati-river-nature-v2",
+      "descriptionAdvanced": "Der Incomati-Fluss, auch als Komati bekannt, ist ein bedeutender Fluss im südlichen Afrika, der durch Südafrika, Eswatini und Mosambik fließt. In Mosambik durchquert er die Provinz Maputo und schafft ein breites, fruchtbares Tal, das für die Landwirtschaft, insbesondere den Zuckerrohranbau, von großer Bedeutung ist. Die Region ist jedoch auch sehr anfällig für Überschwemmungen. Der Fluss ist eine wichtige Wasserquelle für die Hauptstadt Maputo. Die Verwaltung seiner Ressourcen ist komplex, da sie die Koordination zwischen drei Ländern erfordert. Internationale Beziehungen K9 – Grenzüberschreitende Ressourcen.",
+      "factsAdvanced": [
+        "Der Incomati ist etwa 480 km lang.",
+        "Er durchfließt drei Länder, was die Wasserverwaltung zu einer Herausforderung macht.",
+        "Die Zuckerplantagen von Xinavane und Maragra sind von seinem Wasser abhängig.",
+        "Der Fluss mündet nördlich von Maputo in den Indischen Ozean.",
+        "Er ist Lebensraum für Krokodile, Flusspferde und den Bullenhai.",
+        "Das Incomati-Becken ist von Dürreperioden und starken Überschwemmungen betroffen.",
+        "Der Driekoppies-Staudamm in Südafrika reguliert einen Teil seines Abflusses.",
+        "Historisch gesehen war das Tal ein wichtiger Siedlungsraum."
+      ]
+    },
+    {
+      "id": "messalo-river-nature-v2",
+      "descriptionAdvanced": "Der Messalo ist einer der wichtigsten Flüsse in der nördlichen Provinz Cabo Delgado. Er entspringt im Landesinneren und fließt ostwärts in den Indischen Ozean. Der Fluss durchquert eine abgelegene und dünn besiedelte Region, die von Miombo-Wäldern und kleinen landwirtschaftlichen Betrieben geprägt ist. Er ist eine wichtige Wasserquelle für die lokale Bevölkerung und die Tierwelt. In jüngerer Zeit hat der Fluss an strategischer Bedeutung gewonnen, da sein Tal eine wichtige Achse in der Region darstellt, die von Konflikten betroffen ist. Geographie K7 – Regionale Entwicklung.",
+      "factsAdvanced": [
+        "Der Messalo ist über 500 km lang.",
+        "Er ist der zweitgrößte Fluss in der Provinz Cabo Delgado.",
+        "Sein Einzugsgebiet ist weitgehend unberührt und ökologisch wertvoll.",
+        "Der Fluss hat eine stark saisonale Wasserführung und ist nicht schiffbar.",
+        "An seinen Ufern wird Subsistenzlandwirtschaft betrieben (Mais, Maniok).",
+        "Der Fluss durchquert den Quirimbas-Nationalpark in seinem Unterlauf.",
+        "In den letzten Jahren war das Tal Schauplatz von Aufstandsbekämpfungsoperationen.",
+        "Traditionelle Fischer nutzen den Fluss für ihren Lebensunterhalt."
+      ]
+    },
+    {
+      "id": "lurio-river-nature-v2",
+      "descriptionAdvanced": "Der Lúrio-Fluss bildet die Grenze zwischen den Provinzen Nampula und Cabo Delgado im Norden Mosambiks. Er entspringt nahe dem Malawisee und fließt über 500 Kilometer zum Indischen Ozean. Der Fluss ist von großer Bedeutung für die regionale Entwicklung und die Landwirtschaft. An seinen Ufern gibt es Projekte zum Anbau von Baumwolle und Nahrungsmitteln. Die Lúrio-Wasserfälle sind ein landschaftliches Highlight. Der Fluss ist auch eine wichtige soziokulturelle Grenze zwischen den Makua-Völkern im Süden und den Makonde-Völkern im Norden. Anthropologie K6 – Ethnische Grenzen.",
+      "factsAdvanced": [
+        "Der Lúrio ist etwa 500 km lang.",
+        "Er markiert die Grenze zwischen den Provinzen Nampula und Cabo Delgado.",
+        "Die Lúrio-Brücke ist eine wichtige Verkehrsverbindung an der Hauptküstenstraße (N1).",
+        "Das Potenzial für Wasserkraft am Lúrio-Fluss wird derzeit evaluiert.",
+        "Das Tal ist fruchtbar und hat Potenzial für eine erweiterte landwirtschaftliche Nutzung.",
+        "Historisch gesehen war der Fluss eine Barriere für die Ausbreitung von Völkern und Kulturen.",
+        "Kleine Goldvorkommen werden im Fluss handwerklich abgebaut.",
+        "Die Vegetation entlang des Flusses besteht aus dichten Galeriewäldern."
+      ]
+    },
+    {
+      "id": "tengani-river-nature-v2",
+      "descriptionAdvanced": "Der Tengani-Fluss ist ein kleinerer, aber bedeutender Fluss im Süden Mosambiks. Er ist ein Nebenfluss des Save-Flusses und durchfließt eine trockene Savannenlandschaft. Der Fluss ist für die lokale Bevölkerung und die Tierwelt von großer Bedeutung, da er in einer ansonsten wasserarmen Region eine verlässliche Wasserquelle darstellt. Sein Tal ist ein wichtiger Korridor für Wildtiere, die sich zwischen den Nationalparks Zinave und Banhine bewegen. Die Erhaltung des Flusstals ist entscheidend für den Erfolg der grenzüberschreitenden Schutzgebietsinitiativen in der Region. Naturschutzbiologie K8.",
+      "factsAdvanced": [
+        "Der Tengani ist ein Nebenfluss des Save-Flusses.",
+        "Er fließt durch den Zinave-Nationalpark.",
+        "Das Flusstal ist ein wichtiger Wanderkorridor für Elefanten.",
+        "Die Wasserführung ist stark saisonabhängig.",
+        "Der Fluss ist entscheidend für die Wiederherstellung der Wildtierpopulationen im Zinave-Park.",
+        "Die Ufer sind von Akazien und anderen trockenheitstoleranten Pflanzen gesäumt.",
+        "Die menschliche Besiedlung im Tal ist sehr spärlich.",
+        "Das Gebiet ist Teil des Great Limpopo Transfrontier Conservation Area."
+      ]
+    },
+    {
+      "id": "chire-river-nature-v2",
+      "descriptionAdvanced": "Das Shire-Flusstal ist der einzige Abfluss des Malawisees und fließt nach Süden durch Malawi, bevor er in Mosambik in den Sambesi mündet. Obwohl der größte Teil seines Laufs in Malawi liegt, ist sein Unterlauf in Mosambik von großer Bedeutung. Er durchfließt die Ndinde-Sümpfe, ein ausgedehntes Feuchtgebiet, das reich an Vögeln und anderen Wildtieren ist. Das Tal ist dicht besiedelt und wird intensiv für die Landwirtschaft genutzt. Die Verbindung zum Sambesi macht es zu einem wichtigen Teil des regionalen hydrologischen Systems. Geographie K7 – Internationale Flüsse.",
+      "factsAdvanced": [
+        "Der Shire ist der einzige Abfluss des Malawisees.",
+        "Er mündet in der Nähe der Stadt Sena in den Sambesi.",
+        "In Malawi wird der Fluss intensiv zur Stromerzeugung genutzt.",
+        "Die Ndinde-Sümpfe in Mosambik sind ein wichtiges Feuchtgebiet.",
+        "Das Tal ist anfällig für Überschwemmungen, die oft durch Rückstau vom Sambesi verursacht werden.",
+        "Der Fluss ist historisch ein wichtiger Transportweg gewesen.",
+        "Die Elephant Marsh (Elefantensumpf) ist ein berühmtes Gebiet am Oberlauf des Flusses in Malawi.",
+        "Die Wasserqualität wird durch landwirtschaftliche Abflüsse beeinträchtigt."
+      ]
+    },
+    {
+      "id": "mvunguti-river-nature-v2",
+      "descriptionAdvanced": "Der Mvunguti-Fluss ist ein kleiner, aber ökologisch wichtiger Fluss, der in den Indischen Ozean mündet. Sein Ästuar und die umliegenden Feuchtgebiete sind ein wertvolles Ökosystem. Es bietet Lebensraum für eine Vielzahl von Wasservögeln und ist eine wichtige Kinderstube für viele Fisch- und Garnelenarten. Die Mangrovenwälder entlang des Ästuars schützen die Küste vor Erosion und den Auswirkungen von Stürmen. Die Erhaltung dieses kleinen, aber vollständigen Flusssystems ist ein Beispiel für die Bedeutung lokaler Ökosysteme für die Küstenresilienz. Lokale Ökologie K5.",
+      "factsAdvanced": [
+        "Das Mvunguti-Ästuar ist ein Beispiel für ein gesundes Mangroven-Ökosystem.",
+        "Es ist ein wichtiges Gebiet für die handwerkliche Fischerei.",
+        "Mangrovenwälder sind extrem effiziente Kohlenstoffspeicher.",
+        "Solche kleinen Ästuare sind durch die Entwicklung der Küste und die Verschmutzung bedroht.",
+        "Sie dienen als Pufferzone zwischen Land und Meer.",
+        "Die Artenvielfalt an Krabben und Weichtieren ist hier besonders hoch.",
+        "Wasservögel wie der Mangrovenliest nutzen das Gebiet zur Nahrungssuche.",
+        "Die lokale Gemeinschaft ist stark von der Gesundheit des Ästuars abhängig."
+      ]
+    },
+    {
+      "id": "licungo-river-nature-v2",
+      "descriptionAdvanced": "Der Licungo-Fluss ist ein bedeutender Fluss in der Provinz Zambezia, der in den Bergen des Landesinneren entspringt und in den Indischen Ozean mündet. Er durchfließt eine dicht besiedelte und landwirtschaftlich intensiv genutzte Region. Das Tal ist bekannt für seine Kokospalmen- und Teeplantagen. Die Stadt Mocuba liegt an seinen Ufern. Der Fluss ist anfällig für schwere Überschwemmungen, die regelmäßig große Schäden anrichten. Die Bewirtschaftung des Flusses und der Schutz der Bevölkerung vor Hochwasser sind zentrale Herausforderungen für die Regionalentwicklung. Hydrologie K8 – Flussmanagement.",
+      "factsAdvanced": [
+        "Der Licungo ist einer der Hauptflüsse der Provinz Zambezia.",
+        "Er hat eine Länge von etwa 400 km.",
+        "Das Tal ist ein wichtiges Zentrum für den Anbau von Kokosnüssen.",
+        "Die Stadt Mocuba ist ein wichtiger Verkehrsknotenpunkt am Fluss.",
+        "Schwere Überschwemmungen in den Jahren 2015 und 2020 verursachten enorme Schäden.",
+        "Der Fluss transportiert eine große Menge an Sedimenten, was seine Mündung ständig verändert.",
+        "Die Wälder in seinem Einzugsgebiet sind durch Abholzung bedroht.",
+        "Der Bau von Brücken, die hochwassersicher sind, ist eine Priorität."
+      ]
+    },
+    {
+      "id": "meluli-river-nature-v2",
+      "descriptionAdvanced": "Der Meluli-Fluss ist ein Fluss im Norden Mosambiks in der Provinz Nampula. Obwohl er kleiner ist als andere große Flüsse der Region, ist er für die lokale Bevölkerung von großer Bedeutung. Er liefert Wasser für die Landwirtschaft und den Hausgebrauch in einer Region, die von der Subsistenzwirtschaft geprägt ist. Sein Tal ist repräsentativ für die typische Landschaft Nampulas, mit Miombo-Wäldern und verstreuten landwirtschaftlichen Flächen. Der Schutz solcher kleinerer Flusssysteme ist entscheidend für die Sicherung der Lebensgrundlagen der ländlichen Bevölkerung. Regionale Geographie K6.",
+      "factsAdvanced": [
+        "Der Meluli ist ein Fluss in der bevölkerungsreichen Provinz Nampula.",
+        "Er mündet in der Nähe der Stadt Angoche in den Indischen Ozean.",
+        "Der Fluss ist eine wichtige Wasserquelle für Dutzende von Dörfern.",
+        "Sein Wasserstand schwankt stark zwischen Regen- und Trockenzeit.",
+        "Die Ufervegetation ist wichtig, um die Bodenerosion zu kontrollieren.",
+        "Kleinbauern nutzen das Flusstal für den Anbau von Maniok, Mais und Bohnen.",
+        "Die Wasserqualität ist durch fehlende sanitäre Einrichtungen und landwirtschaftliche Praktiken gefährdet.",
+        "Der Fluss spielt eine Rolle in den lokalen Traditionen und der Kultur der Makua."
+      ]
+    }
+  ]
+}

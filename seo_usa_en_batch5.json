@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "baton-rouge-cities-v2",
+      "descriptionAdvanced": "Baton Rouge is the capital of Louisiana, strategically positioned on the eastern bank of the Mississippi River. The city's geography is highly significant; it sits on the first set of bluffs north of the river's delta, effectively protecting it from most seasonal flooding and historically making it a crucial inland port. Today, the Port of Greater Baton Rouge is one of the largest by volume in the United States, driving a massive petrochemical and manufacturing industry along the river corridor. Beyond its industrial power, Baton Rouge boasts a rich French Creole cultural heritage and is home to Louisiana State University (LSU), a major public research institution whose massive campus and athletic programs heavily influence the city's identity. Geography K7 — river bluffs and petrochemical logistics.",
+      "factsAdvanced": [
+        "The name 'Baton Rouge' translates to 'red stick' in French, referring to a red cypress pole used as a Native American boundary marker.",
+        "The Louisiana State Capitol is the tallest state capitol building in the United States, standing 450 feet high.",
+        "The Port of Greater Baton Rouge connects the deep-water Mississippi River to the expansive Gulf Intracoastal Waterway.",
+        "Louisiana State University's Tiger Stadium consistently seats over 100,000 spectators for college football games.",
+        "The city was the site of the only major Revolutionary War battle fought outside the original Thirteen Colonies.",
+        "Baton Rouge's petrochemical corridor, stretching south toward New Orleans, is one of the densest industrial regions in the world."
+      ]
+    },
+    {
+      "id": "spokane-cities-v2",
+      "descriptionAdvanced": "Spokane is the second-largest city in Washington state, located in the eastern part of the state near the Idaho border, acting as the economic and cultural center of the vast 'Inland Northwest' region. The city is bisected by the Spokane River, featuring the dramatic Spokane Falls located directly within the downtown core. Historically, Spokane's economy was built on resource extraction, serving as a critical supply hub for the massive silver, lead, and zinc mines of the nearby Coeur d'Alene region, as well as the surrounding timber and agricultural industries. The city hosted the 1974 World's Fair, Expo '74, which catalyzed a massive environmental cleanup and redevelopment of the riverfront into the expansive Riverfront Park. Geography K7 — inland regional hubs and river restoration.",
+      "factsAdvanced": [
+        "Expo '74, hosted in Spokane, was the first environmentally themed World's Fair.",
+        "The Spokane River features a series of striking waterfalls directly within the city's central business district.",
+        "The city's historic economy was heavily dependent on the massive Coeur d'Alene mining district located just to the east.",
+        "Spokane is officially recognized as the birthplace of Father's Day, first celebrated there in 1910.",
+        "The region is part of the sprawling Columbia Plateau, characterized by rolling hills and semi-arid conditions.",
+        "The city operates an extensive skywalk system, one of the largest in the country, connecting downtown buildings."
+      ]
+    },
+    {
+      "id": "birmingham-al-cities-v2",
+      "descriptionAdvanced": "Birmingham is a major city in the north-central region of Alabama, nestled within the Jones Valley. Uniquely in the world, the region possessed all three raw ingredients required to make iron and steel—iron ore, coal, and limestone—in incredibly close proximity. This geological anomaly fueled explosive industrial growth following the Civil War, earning Birmingham the nicknames 'The Magic City' and the 'Pittsburgh of the South'. During the mid-20th century, Birmingham became internationally recognized as a primary battleground of the Civil Rights Movement, marked by intense struggles and pivotal events, including the tragic 16th Street Baptist Church bombing. Today, while heavy industry remains, the economy has diversified significantly into healthcare and finance, anchored by the University of Alabama at Birmingham (UAB). History K8 — industrial geoeconomics and the Civil Rights Movement.",
+      "factsAdvanced": [
+        "Birmingham is the only place globally where iron ore, coal, and limestone naturally occur within a ten-mile radius.",
+        "The city was founded in 1871, significantly later than most major Southern cities, built specifically around the railroads.",
+        "The Vulcan statue, overlooking the city, is the largest cast-iron statue in the world, symbolizing its industrial roots.",
+        "The Birmingham Civil Rights Institute is located at the historic site of the A.G. Gaston Motel.",
+        "The University of Alabama at Birmingham (UAB) operates one of the largest academic medical centers in the US.",
+        "Dr. Martin Luther King Jr. wrote his famous 'Letter from Birmingham Jail' while incarcerated there in 1963."
+      ]
+    },
+    {
+      "id": "rochester-ny-cities-v2",
+      "descriptionAdvanced": "Rochester is a prominent city in western New York, located on the southern shore of Lake Ontario at the mouth of the Genesee River. The city's early prosperity was driven by the numerous waterfalls on the Genesee, which powered massive flour mills, earning it the nickname 'The Flour City'. In the late 19th and 20th centuries, Rochester transformed into a global hub for technological innovation and precision manufacturing, serving as the birthplace and headquarters for giants like Eastman Kodak, Bausch & Lomb, and Xerox. While facing significant challenges due to the decline of traditional film photography and manufacturing, the city has leveraged its highly skilled workforce and institutions like the Rochester Institute of Technology (RIT) and the University of Rochester to transition toward optics, photonics, and biotechnology. Geography K7 — technological transitions and Great Lakes geography.",
+      "factsAdvanced": [
+        "George Eastman founded the Eastman Kodak Company in Rochester in 1888, revolutionizing photography.",
+        "The city's nickname transitioned from 'The Flour City' to 'The Flower City' due to its extensive public gardens and nurseries.",
+        "Susan B. Anthony, a pivotal leader of the women's suffrage movement, lived and was arrested in Rochester.",
+        "The High Falls of the Genesee River drop 96 feet within the city's historic industrial downtown.",
+        "The University of Rochester is home to the massive Laboratory for Laser Energetics, a major federal research facility.",
+        "Rochester is a leading global center for optics and photonics research and manufacturing."
+      ]
+    },
+    {
+      "id": "aurora-co-cities-v2",
+      "descriptionAdvanced": "Aurora is the third-most populous city in Colorado, located immediately east of Denver and forming a massive portion of the Denver-Aurora metropolitan area. Originally established as a small military town, Aurora experienced explosive suburban growth in the late 20th century. Today, it possesses a highly diversified economy significantly anchored by the healthcare and bioscience sectors, most notably at the expansive Anschutz Medical Campus, a massive redevelopment of a former Army hospital that now houses the University of Colorado's medical schools and several major hospitals. The city is also home to Buckley Space Force Base, ensuring a strong aerospace and defense presence. Aurora's vast footprint features over 100 parks and numerous reservoirs, providing extensive outdoor recreation. Geography K6 — suburban redevelopment and medical campuses.",
+      "factsAdvanced": [
+        "Aurora spans over 150 square miles, making it geographically larger than the neighboring city of Denver.",
+        "The Anschutz Medical Campus is one of the largest and most advanced biomedical research campuses in the United States.",
+        "Buckley Space Force Base, located in Aurora, supports global missile warning operations and space communications.",
+        "The city was originally named 'Fletcher' when founded in 1891, before being renamed Aurora in 1907.",
+        "Aurora is frequently noted as one of the most culturally and ethnically diverse cities in the state of Colorado.",
+        "The city operates an extensive park system, including the massive Cherry Creek State Park on its western border."
+      ]
+    },
+    {
+      "id": "little-rock-cities-v2",
+      "descriptionAdvanced": "Little Rock is the capital and most populous city of Arkansas, located in the central part of the state on the southern bank of the Arkansas River. The city acts as the primary cultural, economic, and transportation hub for the state. Little Rock holds profound historical significance related to the American Civil Rights Movement; in 1957, the 'Little Rock Nine' forcefully integrated Little Rock Central High School following a highly publicized confrontation with the state government, an event recognized globally as a critical turning point in the desegregation of public schools. Today, the city boasts a diversified economy encompassing healthcare, aerospace, and finance, and hosts the William J. Clinton Presidential Library and Museum. History K8 — school desegregation and the Civil Rights era.",
+      "factsAdvanced": [
+        "The city derives its name from a small rock formation on the river, 'La Petite Roche', noted by a French explorer in 1722.",
+        "President Dwight D. Eisenhower federalized the Arkansas National Guard to enforce the integration of Central High School.",
+        "The William J. Clinton Presidential Library, extending over the Arkansas River, holds over 80 million pages of documents.",
+        "Little Rock is a major center for the healthcare industry in the region, anchored by the University of Arkansas for Medical Sciences.",
+        "The city's River Market District underwent massive revitalization, transforming historic warehouses into a vibrant commercial zone.",
+        "Little Rock is situated near the geographical center of the state, uniquely positioned where the Ouachita Mountains meet the Mississippi Delta."
+      ]
+    },
+    {
+      "id": "columbia-sc-cities-v2",
+      "descriptionAdvanced": "Columbia is the capital and second-largest city of South Carolina, centrally located within the state at the confluence of the Saluda and Broad Rivers, which merge to form the Congaree River. The city was remarkably the first fully planned capital in the United States, intentionally placed in the geographic center of the state in 1786 to bridge the political divide between the wealthy 'Lowcountry' elites and the 'Upcountry' farmers. Today, Columbia's economy is solidly anchored by state government employment and the massive presence of the University of South Carolina, the state's flagship public research institution. Furthermore, the nearby Fort Jackson, the United States Army's largest and most active initial entry training center, injects massive federal spending into the local economy. Geography K7 — planned capitals and military economics.",
+      "factsAdvanced": [
+        "Columbia was specifically designed in 1786 with an extensive grid of extraordinarily wide, 100-foot and 150-foot streets.",
+        "The city was largely destroyed by fire during the American Civil War in 1865 under the occupation of Union General William T. Sherman.",
+        "Fort Jackson in Columbia trains roughly 50 percent of all soldiers entering the United States Army.",
+        "The University of South Carolina was established in 1801 and heavily influences the city's culture and economy.",
+        "The South Carolina State House features a distinct copper dome and still bears visible scars from Union artillery fire.",
+        "Congaree National Park, located just southeast of the city, preserves the largest intact expanse of old-growth bottomland hardwood forest in the US."
+      ]
+    },
+    {
+      "id": "jackson-ms-cities-v2",
+      "descriptionAdvanced": "Jackson is the capital and most populous city of Mississippi, situated on the Pearl River in the south-central portion of the state. Established in 1821, the city was named in honor of General Andrew Jackson and explicitly planned in a grid pattern by architect Peter Vandorn to serve as the new state capital. Jackson played a profound and deeply turbulent role during the American Civil Rights Movement, marked by intense protests, sit-ins, and the tragic 1963 assassination of civil rights leader Medgar Evers. The city's rich cultural heritage is heavily defined by its contributions to blues, gospel, and soul music, earning it the moniker 'The City with Soul'. Today, the economy relies heavily on state administration, manufacturing, and healthcare. History K8 — the Civil Rights Movement and musical heritage.",
+      "factsAdvanced": [
+        "Jackson sits atop an extinct volcano, an incredibly rare geological feature for a major North American city.",
+        "The Mississippi Civil Rights Museum in Jackson comprehensively details the state's profound history regarding the movement.",
+        "The city's original layout was designed using a distinctive 'checkerboard' plan featuring alternating park and building squares.",
+        "Medgar Evers, a prominent NAACP field secretary, was assassinated in the driveway of his Jackson home in 1963.",
+        "Jackson is home to several Historically Black Colleges and Universities (HBCUs), including Jackson State University and Tougaloo College.",
+        "The state Capitol building in Jackson, completed in 1903, features an impressive Beaux-Arts architectural design."
+      ]
+    },
+    {
+      "id": "providence-cities-v2",
+      "descriptionAdvanced": "Providence is the capital and most populous city of Rhode Island, situated at the head of Narragansett Bay. Founded in 1636 by Roger Williams, a religious exile from the Massachusetts Bay Colony, Providence is one of the oldest cities in the United States and was uniquely established as a haven for religious freedom and tolerance. During the 19th and early 20th centuries, it grew into an industrial titan, particularly renowned for jewelry and silverware manufacturing. Following a period of severe post-industrial decline, Providence executed a massive urban renaissance, notably uncovering its downtown rivers and establishing the WaterFire art installation. Today, the city is a major educational and cultural hub, anchored by Brown University and the prestigious Rhode Island School of Design (RISD). Geography K7 — historic preservation and post-industrial urban renewal.",
+      "factsAdvanced": [
+        "Providence was one of the first cities in the American colonies to formally industrialize, driven by early textile and jewelry mills.",
+        "The First Baptist Church in America was established in Providence by Roger Williams in 1638.",
+        "Brown University, an Ivy League institution founded in 1764, profoundly influences the city's academic and cultural landscape.",
+        "WaterFire, a prominent environmental art installation, features over eighty braziers burning on the downtown rivers.",
+        "The city boasts one of the highest concentrations of preserved colonial-era houses in the United States.",
+        "Providence is colloquially known as the 'Creative Capital' due to its robust arts community and educational institutions."
+      ]
+    },
+    {
+      "id": "hartford-cities-v2",
+      "descriptionAdvanced": "Hartford is the capital of Connecticut, located along the Connecticut River in the central part of the state. Historically one of the wealthiest cities in the United States following the Civil War, Hartford earned the moniker 'Insurance Capital of the World' due to the massive concentration of major insurance companies headquartered there, a legacy that continues to define its modern economy. The city is also deeply associated with literary history; it was the longtime residence of author Mark Twain, whose incredibly ornate Victorian Gothic home remains a major tourist destination. Despite facing modern urban challenges, Hartford maintains a robust corporate sector, significant historical architecture, and prominent cultural institutions like the Wadsworth Atheneum Museum of Art. Geography K7 — corporate headquarters and specialized regional economies.",
+      "factsAdvanced": [
+        "Hartford is considered the historic birthplace of the American insurance industry, with companies operating there since the 1700s.",
+        "Mark Twain wrote several of his most famous novels, including 'The Adventures of Tom Sawyer', while living in Hartford.",
+        "The Wadsworth Atheneum, founded in 1842, is the oldest continuously operating public art museum in the United States.",
+        "The Fundamental Orders of Connecticut, adopted in Hartford in 1639, is considered by some historians as the first written constitution.",
+        "Hartford's Bushnell Park, designed by Frederick Law Olmsted, is the oldest publicly funded park in the nation.",
+        "The city's historic Colt Armory was a major center of American firearms manufacturing during the 19th and 20th centuries."
+      ]
+    },
+    {
+      "id": "salt-lake-city-cities-v2",
+      "descriptionAdvanced": "Salt Lake City is the capital and most populous municipality in Utah, uniquely situated in a high-elevation valley between the Wasatch Range and the expansive Great Salt Lake. The city's history is inextricably linked to the Church of Jesus Christ of Latter-day Saints (LDS Church); it was founded in 1847 by Brigham Young and a group of Mormon pioneers seeking a remote religious sanctuary. The city's immense, grid-based street system was meticulously planned around Temple Square, the global headquarters of the LDS Church. Today, Salt Lake City boasts a robust, highly diversified economy spanning finance, technology, and outdoor recreation tourism, bolstered by its proximity to world-class ski resorts. The region's geography also makes it a critical logistical 'Crossroads of the West'. Geography K7 — religious migration and high-elevation basins.",
+      "factsAdvanced": [
+        "Salt Lake City hosted the Winter Olympic Games in 2002, driving massive regional infrastructure improvements.",
+        "The city's incredibly wide streets were originally designed to allow a wagon team to turn around without backing up.",
+        "The Great Salt Lake, located northwest of the city, is the largest saltwater lake in the Western Hemisphere.",
+        "Temple Square in downtown Salt Lake City is one of the most heavily visited tourist attractions in the state of Utah.",
+        "The city operates as a massive industrial banking center, hosting numerous specialized financial institutions.",
+        "Salt Lake City lies at an elevation of approximately 4,327 feet, bordered by mountains rising over 11,000 feet."
+      ]
+    },
+    {
+      "id": "charleston-sc-cities-v2",
+      "descriptionAdvanced": "Charleston is the largest city in South Carolina, situated on a peninsula forming a deep, protected harbor at the confluence of the Ashley and Cooper rivers. Founded in 1670, Charleston is one of the oldest cities in the United States and possesses an incredibly rich, complex history. It was a major, exceptionally wealthy port during the colonial and antebellum periods, driven entirely by a massive plantation economy reliant on enslaved African labor. The city is the site of the beginning of the American Civil War, marked by the Confederate bombardment of Fort Sumter in 1861. Today, Charleston is globally renowned for its meticulously preserved historic architecture, cobblestone streets, and booming tourism industry, alongside a massive modern commercial shipping port. History K8 — colonial port cities and the origins of the Civil War.",
+      "factsAdvanced": [
+        "Charleston's historic district enforces extraordinarily strict architectural preservation laws to maintain its colonial aesthetic.",
+        "The first shots of the American Civil War were fired upon Fort Sumter in Charleston Harbor on April 12, 1861.",
+        "The city was historically a major center for the importation of enslaved Africans into North America.",
+        "The Port of Charleston is consistently ranked as one of the most productive and rapidly growing ports on the East Coast.",
+        "The city features the 'Battery', a historic defensive seawall and promenade lined with massive antebellum mansions.",
+        "Charleston frequently ranks as the top tourist city in the United States in various major travel publications."
+      ]
+    },
+    {
+      "id": "savannah-cities-v2",
+      "descriptionAdvanced": "Savannah is the oldest city in Georgia and a highly significant coastal seaport on the Savannah River. Established in 1733 by General James Oglethorpe, the city is internationally renowned for its unique, meticulously preserved original town plan, featuring an extensive grid interspersed with 22 shaded public squares draped in Spanish moss. Historically, Savannah generated immense wealth through the export of cotton and rice, supported by an enslaved workforce. Spared from destruction during the Civil War, its massive collection of antebellum architecture makes it one of the premier historical tourism destinations in the country. Simultaneously, the modern Port of Savannah is a massive economic engine, ranking among the busiest container ports in North America. Geography K7 — colonial urban planning and coastal ports.",
+      "factsAdvanced": [
+        "The historic district of Savannah is one of the largest National Historic Landmark Districts in the United States.",
+        "The city was intentionally spared from burning by Union General William T. Sherman during his 'March to the Sea' in 1864.",
+        "Savannah's 22 historic squares were originally designed by James Oglethorpe for military drilling and community use.",
+        "The Port of Savannah operates the largest single-terminal container facility of its kind in North America.",
+        "The city's Forsyth Park is a massive 30-acre public park featuring a famous ornate fountain erected in 1858.",
+        "The Girl Scouts of the USA were founded in Savannah in 1912 by Juliette Gordon Low."
+      ]
+    },
+    {
+      "id": "santa-fe-cities-v2",
+      "descriptionAdvanced": "Santa Fe is the capital of New Mexico and uniquely holds the title of the oldest state capital in the United States, founded by Spanish colonists in 1610. Nestled in the foothills of the Sangre de Cristo Mountains at an elevation over 7,000 feet, the city possesses an unparalleled historic and cultural aesthetic. Santa Fe is globally renowned for its strict zoning laws that mandate the preservation of its distinctive Pueblo Revival and Territorial Revival architectural styles, characterized by flat roofs and earth-colored stucco. The city is a premier international center for the arts, boasting a massive concentration of galleries, particularly along Canyon Road, and hosting major cultural events showcasing Native American and Hispanic arts. Geography K7 — historic preservation and high-elevation capitals.",
+      "factsAdvanced": [
+        "Santa Fe sits at an elevation of 7,199 feet, making it the highest state capital in the United States.",
+        "The city's Palace of the Governors, built in 1610, is the oldest continuously occupied public building in the US.",
+        "Santa Fe's strict architectural zoning codes, implemented in 1957, ensure the city maintains its unique adobe aesthetic.",
+        "The city is widely considered the third-largest art market in the United States, despite its relatively small population.",
+        "Santa Fe operates as a major hub for tourism and historical research related to the Southwest.",
+        "The city's name translates to 'Holy Faith' in Spanish."
+      ]
+    },
+    {
+      "id": "juneau-cities-v2",
+      "descriptionAdvanced": "Juneau is the capital city of Alaska, uniquely situated on the Gastineau Channel in the state's southeastern panhandle. It is remarkably distinct among US capitals due to its extreme geographical isolation; it is entirely landlocked by massive mountains, glaciers, and water, making it accessible only by boat or airplane, with no roads connecting it to the rest of the state or the continent. Founded in 1880 during a gold rush, the city transitioned its economy to government administration, fishing, and a massive summer tourism industry, primarily driven by cruise ships visiting the nearby spectacular scenery, notably the Mendenhall Glacier. Juneau's vast municipal boundary actually makes it the second-largest city in the United States by land area. Geography K7 — isolated capitals and glacial environments.",
+      "factsAdvanced": [
+        "Juneau is the only state capital in the United States that is completely inaccessible by road.",
+        "The city and borough of Juneau covers a massive land area of over 2,700 square miles.",
+        "The Mendenhall Glacier, a massive 13-mile-long river of ice, is located just 12 miles from downtown Juneau.",
+        "Juneau receives heavy precipitation, averaging over 60 inches of rain and 80 inches of snow annually.",
+        "The city's economy is heavily bolstered by the arrival of over one million cruise ship passengers each summer.",
+        "Juneau was established as a gold mining camp and produced massive amounts of gold before the mines closed in 1944."
+      ]
+    },
+    {
+      "id": "montgomery-cities-v2",
+      "descriptionAdvanced": "Montgomery is the capital city of Alabama, situated on the Alabama River in the state's Gulf Coastal Plain. The city occupies a profoundly complex place in American history; it briefly served as the first capital of the Confederate States of America in 1861, and a century later, it became the epicenter of the American Civil Rights Movement. The 1955 Montgomery bus boycott, sparked by Rosa Parks and led by Dr. Martin Luther King Jr., and the 1965 Selma to Montgomery marches fundamentally changed the nation. Today, Montgomery's economy is driven by state government, a massive United States Air Force presence at Maxwell Air Force Base, and growing manufacturing sectors. History K8 — the Civil Rights Movement and state capitals.",
+      "factsAdvanced": [
+        "The Montgomery bus boycott lasted for 381 days and successfully led to the desegregation of the city's public transit.",
+        "The city served as the capital of the Confederacy from February to May of 1861 before it was moved to Richmond.",
+        "Maxwell Air Force Base in Montgomery is the headquarters of Air University, the Air Force's center for professional military education.",
+        "The Rosa Parks Museum is located at the exact site where she was arrested for refusing to give up her bus seat.",
+        "The National Memorial for Peace and Justice in Montgomery is the nation's first memorial dedicated to the legacy of enslaved Black people.",
+        "Montgomery features the Alabama State Capitol, a striking Greek Revival building completed in 1851."
+      ]
+    },
+    {
+      "id": "annapolis-cities-v2",
+      "descriptionAdvanced": "Annapolis is the capital of Maryland and a highly significant historic seaport located on the Chesapeake Bay. Founded in 1649, the city briefly served as the capital of the newly independent United States following the Revolutionary War. Annapolis is renowned for its impeccably preserved colonial architecture and its distinct 18th-century street layout, featuring circles from which narrow streets radiate. The city's modern identity is overwhelmingly dominated by the presence of the United States Naval Academy, established in 1845, which trains officers for the Navy and Marine Corps. The local economy relies heavily on state government administration, the Naval Academy, and a robust tourism and recreational sailing industry, earning it the moniker 'Sailing Capital of the World'. History K7 — colonial seaports and military academies.",
+      "factsAdvanced": [
+        "The Treaty of Paris, which officially ended the American Revolutionary War, was ratified by Congress in Annapolis in 1784.",
+        "The United States Naval Academy campus spans over 300 acres along the Severn River in Annapolis.",
+        "The Maryland State House in Annapolis is the oldest state capitol building in continuous legislative use, dating back to 1772.",
+        "Annapolis possesses one of the highest concentrations of 18th-century brick structures in the United States.",
+        "The city hosts the massive United States Sailboat Show, one of the largest in the world.",
+        "Annapolis operates as a major center for the maritime industry, particularly recreational boating and yachting."
+      ]
+    },
+    {
+      "id": "albany-ny-cities-v2",
+      "descriptionAdvanced": "Albany is the capital of New York state, strategically located on the west bank of the Hudson River. As one of the oldest surviving European settlements from the original thirteen colonies, founded by the Dutch as Fort Orange in 1614, Albany's geography made it a critical transportation nexus. It served as the eastern terminus of the monumental Erie Canal, completed in 1825, which connected the Great Lakes to the Atlantic Ocean and drove massive economic expansion. Today, Albany's economy is anchored by state government operations, higher education, and an expanding high-tech sector, notably in nanotechnology and semiconductor research at the massive Albany NanoTech Complex. The city's skyline is dominated by the striking, modernist architecture of the Empire State Plaza. Geography K7 — transportation canals and state capitals.",
+      "factsAdvanced": [
+        "Albany is the oldest continuously chartered city in the United States, receiving its charter in 1686.",
+        "The Empire State Plaza, a massive complex of state government buildings, features stark Brutalist and International Style architecture.",
+        "The opening of the Erie Canal transformed Albany into a massive hub for exporting Midwestern agricultural goods.",
+        "The Albany NanoTech Complex is one of the most advanced semiconductor research and development facilities in the world.",
+        "The New York State Capitol building in Albany took over 30 years to build and features intricate stone carvings.",
+        "Albany's location on the Hudson River made it a critical center for lumber and iron trades in the 19th century."
+      ]
+    },
+    {
+      "id": "harrisburg-cities-v2",
+      "descriptionAdvanced": "Harrisburg is the capital city of Pennsylvania, situated on the eastern bank of the broad Susquehanna River. The city's central location within the state made it a vital transportation hub during the 19th century, serving as a major nexus for the Pennsylvania Canal and extensive railroad networks, which drove heavy industrialization, particularly in steel and iron production. Following post-industrial decline, Harrisburg's economy transitioned to become heavily reliant on state and federal government operations, alongside a growing service and healthcare sector. The city's skyline is defined by the massive, ornate Pennsylvania State Capitol Complex, and the region includes notable historical sites, such as the nearby Gettysburg battlefield, and significant agricultural areas in the surrounding Cumberland Valley. Geography K7 — river transportation and capital cities.",
+      "factsAdvanced": [
+        "The Pennsylvania State Capitol in Harrisburg features a magnificent dome inspired by St. Peter's Basilica in Rome.",
+        "During the American Civil War, Harrisburg was a massive training center for Union troops, notably at Camp Curtin.",
+        "The city was a critical node in the massive Pennsylvania Railroad system during the industrial era.",
+        "Harrisburg is located just a few miles downstream from the Three Mile Island Nuclear Generating Station.",
+        "The city hosts the annual Pennsylvania Farm Show, the largest indoor agricultural exposition in the United States.",
+        "Harrisburg's Broad Street Market is one of the oldest continuously operating farmers' markets in the country."
+      ]
+    },
+    {
+      "id": "trenton-cities-v2",
+      "descriptionAdvanced": "Trenton is the capital city of New Jersey, situated on the Delaware River near the border with Pennsylvania. The city holds profound historical significance from the American Revolutionary War; George Washington's critical victory at the Battle of Trenton in 1776, following his famous crossing of the Delaware River, proved to be a major turning point in the conflict. In the late 19th and early 20th centuries, Trenton became a massive manufacturing powerhouse, famous for producing steel, rubber, ceramics, and wire rope—notably supplying the cables for the Brooklyn Bridge. Following severe industrial decline, modern Trenton's economy is overwhelmingly dominated by state government operations and administration, though it retains significant historical monuments and architecture. History K8 — the American Revolution and industrial decline.",
+      "factsAdvanced": [
+        "Trenton briefly served as the capital of the United States in 1784 under the Articles of Confederation.",
+        "The 'Lower Trenton Bridge' famously features a massive illuminated sign reading: 'Trenton Makes The World Takes'.",
+        "John A. Roebling's Sons Company in Trenton produced the massive wire ropes used in numerous iconic suspension bridges.",
+        "The Battle of Trenton Monument stands 150 feet tall, commemorating Washington's pivotal 1776 victory.",
+        "Trenton's industrial era was heavily defined by its massive production of fine ceramics and pottery.",
+        "The New Jersey State House in Trenton is uniquely distinguished by its shining, gold-leafed dome."
+      ]
+    }
+  ]
+}

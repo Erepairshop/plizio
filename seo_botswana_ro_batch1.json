@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalahari-desert-relief-v2",
+      "descriptionAdvanced": "Deșertul Kalahari acoperă aproximativ 70% din suprafața Botswanei, formând un bazin vast de nisip care nu este un deșert în sensul tradițional, ci o savană aridă. Acesta găzduiește o faună adaptată condițiilor extreme, cum ar fi antilopele oryx și suricatele, și reprezintă o parte esențială a ecosistemului african, fiind crucial pentru biodiversitatea locală. Faptul că nu există cursuri de apă permanente face ca animalele să depindă de resursele sezoniere și de rădăcinile plantelor. Geografie K7 — regiuni aride și deșerturi.",
+      "factsAdvanced": [
+        "Ocupă aproximativ 900.000 km² în sudul Africii.",
+        "Altitudinea variază între 900 și 1.000 metri.",
+        "Precipitațiile anuale sunt sub 250 mm în zonele cele mai aride.",
+        "Este renumit pentru solurile sale roșiatice de nisip.",
+        "Găzduiește populații indigene San de mii de ani.",
+        "Temperaturile pot varia extrem între zi și noapte."
+      ]
+    },
+    {
+      "id": "okavango-delta-relief-v2",
+      "descriptionAdvanced": "Delta Okavango este una dintre puținele delte interioare din lume, unde râul Okavango se varsă în nisipurile deșertului Kalahari în loc să ajungă la ocean. Această oază complexă creează un ecosistem unic, renumit pentru viața sălbatică bogată, inclusiv hipopotami, crocodili și sute de specii de păsări. În fiecare an, inundațiile sezoniere transformă peisajul arid într-un labirint de canale și lagune, fiind un punct de atracție major pentru conservarea naturii. Biologie K6 — ecosisteme acvatice.",
+      "factsAdvanced": [
+        "Aria inundată poate ajunge la 15.000 km².",
+        "Râul provine din munții Angolei.",
+        "A fost desemnat Patrimoniu Mondial UNESCO în 2014.",
+        "Apa se pierde aproape în întregime prin evaporare și transpirație.",
+        "Este un habitat critic pentru elefanții africani.",
+        "Inundațiile ating vârful în perioada iunie-august."
+      ]
+    },
+    {
+      "id": "makgadikgadi-pans-relief-v2",
+      "descriptionAdvanced": "Makgadikgadi Pans reprezintă una dintre cele mai mari zone cu depresiuni saline din lume, rămășița unui fost lac imens care a acoperit regiunea în urmă cu milenii. Acum, acest peisaj selenar oferă priveliști spectaculoase, devenind verde și plin de viață în timpul sezonului ploios, când atrage mii de păsări flamingo și mamifere migratoare. Este un loc de o frumusețe austeră, care oferă o perspectivă asupra schimbărilor climatice istorice din Botswana. Földrajz K8 — formarea lacurilor.",
+      "factsAdvanced": [
+        "Sistemul de depresiuni acoperă peste 16.000 km².",
+        "Este unul dintre cele mai mari bazine saline de pe Pământ.",
+        "A fost parte din fostul lac Makgadikgadi.",
+        "Atrage a doua cea mai mare migrație de zebre din Africa.",
+        "Salinitatea solului previne creșterea vegetației mari.",
+        "Situate la o altitudine de aproximativ 900 metri."
+      ]
+    },
+    {
+      "id": "tsodilo-hills-mountain-v2",
+      "descriptionAdvanced": "Dealurile Tsodilo, cunoscute drept 'Louvrul Deșertului', găzduiesc una dintre cele mai mari concentrații de artă rupestră din lume, cu peste 4.500 de picturi realizate de-a lungul a mii de ani. Aceste formațiuni geologice proeminente sunt considerate sacre de către poporul San, care crede că aici s-au născut primii oameni. Tsodilo Hills reprezintă o conexiune culturală profundă între istoria umană timpurie și peisajul arid al Botswanei. Istorie K6 — arta preistorică.",
+      "factsAdvanced": [
+        "Conțin peste 4.500 de picturi rupestre.",
+        "Sunt incluse în Patrimoniul Mondial UNESCO din 2001.",
+        "Cel mai înalt punct atinge 1.489 metri.",
+        "Situate în nord-vestul Botswanei.",
+        "Au o semnificație spirituală majoră pentru poporul San.",
+        "Artefactele găsite datează de peste 100.000 de ani."
+      ]
+    },
+    {
+      "id": "limpopo-river-relief-v2",
+      "descriptionAdvanced": "Râul Limpopo servește ca graniță naturală între Botswana și Africa de Sud, jucând un rol vital în irigarea terenurilor agricole din regiunea Tuli Block. Este un curs de apă major al Africii de Sud, care străbate peisaje diverse, de la zone împădurite la savane, oferind un habitat crucial pentru animalele sălbatice pe tot parcursul anului. Deși debitul său variază semnificativ în funcție de anotimp, râul rămâne o sursă de viață esențială pentru comunitățile locale și ecosistemele riverane. Földrajz K7 — râuri transfrontaliere.",
+      "factsAdvanced": [
+        "Are o lungime totală de aproximativ 1.750 km.",
+        "Se varsă în Oceanul Indian în Mozambic.",
+        "Bazinul hidrografic acoperă 415.000 km².",
+        "Debitul scade drastic în perioadele de secetă.",
+        "Susține activități agricole intensive pe malurile sale.",
+        "Este un important coridor pentru viața sălbatică."
+      ]
+    }
+  ]
+}

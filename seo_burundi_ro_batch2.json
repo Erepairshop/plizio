@@ -1,0 +1,135 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gishora-drum-sanctuary-history-v2",
+      "descriptionAdvanced": "Sanctuarul tobelor de la Gishora este unul dintre cele mai importante locuri culturale din Burundi, fiind dedicat păstrării tradiției milenare a tobelor regale, un element esențial al identității naționale. Această formă de artă, care combină muzica, dansul și ritualurile, a fost recunoscută oficial ca patrimoniu imaterial de către UNESCO, subliniind importanța sa globală. Gishora oferă vizitatorilor posibilitatea de a înțelege semnificația spirituală și socială a tobelor în istoria monarhică a țării. Istorie K6 — patrimoniul UNESCO și muzica tradițională.",
+      "factsAdvanced": [
+        "Sanctuarul se află pe un deal pitoresc lângă Gitega.",
+        "Tobele regale erau folosite pentru ceremonii oficiale și încoronări.",
+        "Tradiția tobelor este transmisă din generație în generație în familii specifice.",
+        "UNESCO a inclus tradiția tobelor burundeze în lista patrimoniului imaterial.",
+        "Ritualul include o succesiune de bătăi ritmice și dansuri acrobatice.",
+        "În trecut, tobele simbolizau puterea și unitatea statului Burundi."
+      ]
+    },
+    {
+      "id": "muramvya-ancient-palace-history-v2",
+      "descriptionAdvanced": "Muramvya a servit ca una dintre capitalele istorice ale regatului Burundi, fiind un sit deosebit de important pentru înțelegerea modului în care monarhia își exercita autoritatea asupra regiunilor centrale. Orașul este înconjurat de situri sacre și locații unde regii (Mwami) obișnuiau să oficieze ritualuri de importanță națională, consolidând unitatea poporului. Importanța istorică a orașului este marcată de prezența unor vestigii ale structurilor de putere tradiționale, oferind o perspectivă rară asupra vieții politice de odinioară. Istorie K7 — structuri de putere în Africa pre-colonială.",
+      "factsAdvanced": [
+        "Muramvya a fost capitala regală pentru perioade lungi în istoria Burundului.",
+        "Orașul este situat într-o zonă muntoasă cu semnificație spirituală.",
+        "Situl găzduiește ruinele palatelor regale tradiționale.",
+        "Regiunea este bogată în tradiții legate de încoronările regale.",
+        "Muramvya a jucat un rol cheie în politica internă a regatului.",
+        "Este considerat unul dintre locurile fondatoare ale identității statale."
+      ]
+    },
+    {
+      "id": "unabhaengigkeitsmonument-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Independenței din Bujumbura celebrează momentul istoric al eliberării Burundiului de sub administrația colonială belgiană, obținută pe 1 iulie 1962. Structura monumentului reflectă dorința națiunii de suveranitate și unitate, fiind un loc central pentru ceremoniile oficiale de comemorare a evenimentelor care au dus la formarea statului modern. Poziția sa în inima orașului Bujumbura îl face un punct de reper recunoscut, amintind tuturor de sacrificiile făcute pentru libertatea națională. Istorie K8 — mișcări de decolonizare în Africa.",
+      "factsAdvanced": [
+        "Inaugurat pentru a celebra independența obținută în 1962.",
+        "Situat în piața centrală a capitalei economice Bujumbura.",
+        "Simbolizează unitatea și suveranitatea poporului burundez.",
+        "Este locul principal pentru ceremoniile naționale anuale.",
+        "Arhitectura monumentului pune accent pe verticalitate și simbolism.",
+        "A fost ridicat ca parte a proiectelor de consolidare a identității post-coloniale."
+      ]
+    },
+    {
+      "id": "denkmal-der-einheit-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Unității din Bujumbura a fost ridicat pentru a promova pacea și coeziunea socială între diferitele grupuri etnice din Burundi, fiind un simbol al dorinței de a depăși conflictele istorice. Acesta servește ca un memento vizual al importanței reconcilierii și al eforturilor de a construi o societate unită, bazată pe respect reciproc și colaborare. Amplasat într-o zonă vizibilă a capitalei, monumentul invită cetățenii la reflecție asupra viitorului comun al țării. Istorie K8 — procese de pace și reconciliere.",
+      "factsAdvanced": [
+        "Scopul principal al monumentului este promovarea unității naționale.",
+        "Este situat pe un deal oferind o vedere panoramică asupra orașului.",
+        "A fost construit în contextul eforturilor de pace post-conflict.",
+        "Simbolizează aspirațiile cetățenilor pentru o țară stabilă.",
+        "Locul este folosit pentru manifestări publice dedicate păcii.",
+        "Designul său minimalist reflectă speranța pentru un viitor pașnic."
+      ]
+    },
+    {
+      "id": "prince-louis-rwagasore-stadion-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Prințul Louis Rwagasore din Bujumbura poartă numele eroului național al independenței Burundiului, fiind un punct central pentru viața sportivă și culturală a capitalei. Arena găzduiește meciuri de fotbal naționale și internaționale, concerte și evenimente oficiale, servind drept loc de adunare pentru comunitatea locală. Dincolo de funcția sa sportivă, stadionul păstrează vie memoria lui Rwagasore, figura politică care a unit țara în lupta pentru libertate. Geografie K6 — infrastructura urbană și sport.",
+      "factsAdvanced": [
+        "Poartă numele prințului Louis Rwagasore, lider al independenței.",
+        "Este principala arenă sportivă din Burundi.",
+        "Capacitatea stadionului permite găzduirea a zeci de mii de spectatori.",
+        "Gazdă frecventă a echipei naționale de fotbal a Burundiului.",
+        "Stadionul a fost martorul multor evenimente istorice importante.",
+        "Este un punct de reper ușor de identificat în Bujumbura."
+      ]
+    },
+    {
+      "id": "intwari-stadion-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Intwari este o facilitate modernă destinată competițiilor sportive de amploare, reprezentând un progres semnificativ în dezvoltarea infrastructurii recreative din Burundi. Denumirea de 'Intwari' (erou) subliniază valorile de curaj și performanță pe care autoritățile doresc să le cultive în rândul tinerelor generații de atleți. Stadionul este o piesă cheie a modernizării urbane, facilitând organizarea de evenimente internaționale și contribuind la vizibilitatea țării pe harta sportivă a Africii. Geografie K7 — dezvoltarea infrastructurii moderne.",
+      "factsAdvanced": [
+        "Inaugurat pentru a satisface standardele sportive internaționale.",
+        "Numele 'Intwari' face referire la eroii naționali și curaj.",
+        "Construcția include facilități pentru diverse discipline sportive.",
+        "Este situat în Bujumbura, centrul activităților naționale.",
+        "A fost conceput pentru a încuraja dezvoltarea talentelor sportive locale.",
+        "Arena este o investiție majoră în sectorul recreativ național."
+      ]
+    },
+    {
+      "id": "zentralmarkt-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Piața Centrală din Bujumbura a fost mult timp considerată centrul nervos al comerțului local, oferind o gamă incredibilă de produse, de la alimente proaspete până la produse manufacturate și obiecte de artizanat. Deși structura originală a suferit transformări majore în urma unor evenimente, spiritul pieței persistă, fiind locul unde se observă cel mai bine interacțiunile sociale și dinamica economică a populației urbane. Aceasta continuă să fie un punct de referință esențial pentru aprovizionarea zilnică a locuitorilor capitalei. Geografie K6 — economii urbane și piețe locale.",
+      "factsAdvanced": [
+        "A fost cea mai mare piață comercială din Bujumbura.",
+        "Locul unde se concentrau schimburi comerciale diverse.",
+        "Piața era esențială pentru aprovizionarea întregului oraș.",
+        "A jucat un rol vital în economia de subzistență a multor familii.",
+        "Reprezintă o parte din istoria comercială a capitalei.",
+        "O zonă cu un trafic uman foarte ridicat zilnic."
+      ]
+    },
+    {
+      "id": "melchior-ndadaye-flughafen-landmarks-v2",
+      "descriptionAdvanced": "Aeroportul Internațional Melchior Ndadaye din Bujumbura este principala poartă de intrare aeriană în Burundi, facilitând conexiunile naționale și internaționale necesare pentru turism și afaceri. Aeroportul poartă numele primului președinte democratic ales al țării, Melchior Ndadaye, simbolizând speranța pentru un viitor democratic și stabil. Infrastructura sa modernizată permite gestionarea unui flux constant de călători, fiind esențial pentru dezvoltarea economică și legătura țării cu restul lumii. Geografie K7 — transportul aerian și conectivitatea.",
+      "factsAdvanced": [
+        "Aeroportul este situat la câțiva kilometri de centrul Bujumburei.",
+        "Poartă numele președintelui Melchior Ndadaye.",
+        "Este singurul aeroport internațional cu trafic comercial regulat în Burundi.",
+        "Terminalele au fost modernizate pentru a îmbunătăți experiența călătorilor.",
+        "Joacă un rol critic pentru misiunile diplomatice și agențiile internaționale.",
+        "Punctul de plecare pentru majoritatea vizitatorilor străini."
+      ]
+    },
+    {
+      "id": "leuchtturm-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Farul din Bujumbura, situat în apropierea portului, este un simbol al navigației pe lacul Tanganyika, având o istorie strâns legată de dezvoltarea comerțului maritim din regiune. Deși tehnologiile de navigație s-au schimbat considerabil, farul rămâne o structură iconică, oferind o perspectivă asupra epocii în care lacul Tanganyika reprezenta principala arteră de transport pentru exploratori și comercianți. Astăzi, locul este apreciat pentru valoarea sa istorică și pentru peisajul oferit asupra apelor lacului. Geografie K6 — navigația pe lacuri.",
+      "factsAdvanced": [
+        "Situat strategic pentru siguranța navigației pe lacul Tanganyika.",
+        "Reprezintă istoria transportului maritim pe lac.",
+        "Structura este un reper vizual important în zona portuară.",
+        "Zona înconjurătoare oferă panorame frumoase asupra apelor.",
+        "A servit timp de decenii drept punct de orientare pentru vapoare.",
+        "Este o atracție pentru turiștii interesați de infrastructura istorică."
+      ]
+    },
+    {
+      "id": "musee-vivant-life-v2",
+      "descriptionAdvanced": "Musée Vivant (Muzeul Viu) din Bujumbura este o instituție unică în Burundi, care combină aspectele unui muzeu tradițional cu cele ale unei grădini zoologice și ale unui centru de conservare a meșteșugurilor. Vizitatorii pot observa fauna locală, inclusiv crocodili și diverse specii de păsări, dar pot, de asemenea, să interacționeze cu artizani care păstrează vii tehnicile tradiționale burundeze. Această combinație oferă o experiență educațională completă despre mediul natural și cultural al țării. Sachkunde K4 — plante, animale și cultură.",
+      "factsAdvanced": [
+        "Este o atracție populară în Bujumbura pentru educație și agrement.",
+        "Găzduiește crocodili, hipopotami și diverse specii de păsări.",
+        "Include ateliere de artizanat tradițional pentru vizitatori.",
+        "Muzeul este un centru de conservare a patrimoniului cultural și natural.",
+        "Oferește o perspectivă unică asupra biodiversității locale.",
+        "Locul este ideal pentru familii și vizitatori curioși."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+[
+  {
+    "id": "san-jose-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "San José"
+  },
+  {
+    "id": "albuquerque-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Albuquerque"
+  },
+  {
+    "id": "tucson-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Tucson"
+  },
+  {
+    "id": "fresno-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Fresno"
+  },
+  {
+    "id": "sacramento-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Sacramento"
+  },
+  {
+    "id": "kansas-city-mo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Kansas City (Missouri)"
+  },
+  {
+    "id": "long-beach-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Long Beach"
+  },
+  {
+    "id": "mesa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Mesa"
+  },
+  {
+    "id": "atlanta-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Atlanta"
+  },
+  {
+    "id": "colorado-springs-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Colorado Springs"
+  },
+  {
+    "id": "virginia-beach-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Virginia Beach"
+  },
+  {
+    "id": "raleigh-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Raleigh"
+  },
+  {
+    "id": "omaha-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Omaha"
+  },
+  {
+    "id": "miami-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Miami"
+  },
+  {
+    "id": "oakland-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Oakland"
+  },
+  {
+    "id": "minneapolis-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Minneapolis"
+  },
+  {
+    "id": "tulsa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Tulsa"
+  },
+  {
+    "id": "arlington-tx-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Arlington (Texas)"
+  },
+  {
+    "id": "new-orleans-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "New Orleans"
+  },
+  {
+    "id": "wichita-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Wichita"
+  },
+  {
+    "id": "cleveland-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Cleveland"
+  },
+  {
+    "id": "tampa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Tampa"
+  },
+  {
+    "id": "honolulu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Honolulu"
+  },
+  {
+    "id": "anaheim-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Anaheim"
+  },
+  {
+    "id": "orlando-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Orlando"
+  },
+  {
+    "id": "pittsburgh-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Pittsburgh"
+  },
+  {
+    "id": "st-louis-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "St. Louis"
+  },
+  {
+    "id": "riverside-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Riverside"
+  },
+  {
+    "id": "santa-ana-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Santa Ana"
+  },
+  {
+    "id": "cincinnati-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Cincinnati"
+  },
+  {
+    "id": "lexington-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Lexington"
+  },
+  {
+    "id": "anchorage-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Anchorage"
+  },
+  {
+    "id": "stockton-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Stockton"
+  },
+  {
+    "id": "toledo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Toledo"
+  },
+  {
+    "id": "st-paul-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Saint Paul"
+  },
+  {
+    "id": "newark-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Newark"
+  },
+  {
+    "id": "henderson-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Henderson"
+  },
+  {
+    "id": "plano-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Plano"
+  },
+  {
+    "id": "irvine-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Irvine"
+  },
+  {
+    "id": "durham-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Durham"
+  },
+  {
+    "id": "st-petersburg-fl-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "St. Petersburg (Florida)"
+  },
+  {
+    "id": "jersey-city-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Jersey City"
+  },
+  {
+    "id": "chandler-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Chandler"
+  },
+  {
+    "id": "laredo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Laredo"
+  },
+  {
+    "id": "norfolk-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Norfolk"
+  },
+  {
+    "id": "reno-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Reno"
+  },
+  {
+    "id": "buffalo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Buffalo"
+  },
+  {
+    "id": "fort-wayne-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Fort Wayne"
+  },
+  {
+    "id": "boise-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Boise"
+  },
+  {
+    "id": "richmond-va-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Richmond (Virginia)"
+  },
+  {
+    "id": "des-moines-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Des Moines"
+  },
+  {
+    "id": "baton-rouge-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Baton Rouge"
+  },
+  {
+    "id": "spokane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Spokane"
+  },
+  {
+    "id": "birmingham-al-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Birmingham (Alabama)"
+  },
+  {
+    "id": "rochester-ny-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Rochester (New York)"
+  },
+  {
+    "id": "aurora-co-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Aurora (Colorado)"
+  },
+  {
+    "id": "little-rock-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Little Rock"
+  },
+  {
+    "id": "columbia-sc-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Columbia (Dél-Karolina)"
+  },
+  {
+    "id": "jackson-ms-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Jackson (Mississippi)"
+  },
+  {
+    "id": "providence-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Providence"
+  },
+  {
+    "id": "hartford-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Hartford"
+  },
+  {
+    "id": "salt-lake-city-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Salt Lake City"
+  },
+  {
+    "id": "charleston-sc-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Charleston (Dél-Karolina)"
+  },
+  {
+    "id": "savannah-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Savannah"
+  },
+  {
+    "id": "santa-fe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Santa Fe"
+  },
+  {
+    "id": "juneau-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Juneau"
+  },
+  {
+    "id": "montgomery-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Montgomery"
+  },
+  {
+    "id": "annapolis-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Annapolis"
+  },
+  {
+    "id": "albany-ny-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Albany (New York)"
+  },
+  {
+    "id": "harrisburg-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Harrisburg"
+  },
+  {
+    "id": "trenton-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Trenton"
+  },
+  {
+    "id": "dover-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Dover"
+  },
+  {
+    "id": "augusta-me-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Augusta (Maine)"
+  },
+  {
+    "id": "concord-nh-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Concord (New Hampshire)"
+  },
+  {
+    "id": "montpelier-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Montpelier"
+  },
+  {
+    "id": "helena-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Helena"
+  },
+  {
+    "id": "bismarck-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Bismarck"
+  },
+  {
+    "id": "pierre-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Pierre"
+  },
+  {
+    "id": "springfield-il-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Springfield (Illinois)"
+  },
+  {
+    "id": "jefferson-city-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Jefferson City"
+  },
+  {
+    "id": "frankfort-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Frankfort"
+  },
+  {
+    "id": "lansing-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Lansing"
+  },
+  {
+    "id": "madison-wi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Madison (Wisconsin)"
+  },
+  {
+    "id": "tallahassee-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Tallahassee"
+  },
+  {
+    "id": "charleston-wv-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Charleston (Nyugat-Virginia)"
+  },
+  {
+    "id": "salem-or-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Salem (Oregon)"
+  },
+  {
+    "id": "olympia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Olympia"
+  },
+  {
+    "id": "carson-city-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Carson City"
+  },
+  {
+    "id": "lincoln-ne-cities-v2",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "nameHu": "Lincoln (Nebraska)"
+  }
+]

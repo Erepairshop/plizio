@@ -1,0 +1,129 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "washington-dc-cities-v2",
+      "descriptionAdvanced": "Washington, D.C., the capital of the United States, is the seat of the federal government and home to iconic monuments, museums, and institutions of power. Planned and built along the Potomac River, its design reflects neoclassical architecture and is defined by landmarks like the White House, the U.S. Capitol, and the Washington Monument. D.C. is not just the political center of the nation, but also a major cultural hub with the renowned Smithsonian Institution. The city’s history is deeply intertwined with the development of the United States. Its unique status as a federal district rather than a state provides a singular governance structure. Geography K8 — political centers and historical foundation of nations.",
+      "factsAdvanced": [
+        "Washington, D.C. was established by the U.S. Constitution in 1790 as the permanent capital.",
+        "The city was designed by French architect Pierre Charles L'Enfant.",
+        "The Smithsonian Institution, established in 1846, is the world's largest museum and research complex.",
+        "The Washington Monument is the world's tallest stone structure, standing at 555 feet.",
+        "D.C. is located between the states of Maryland and Virginia along the Potomac River.",
+        "The city is home to over 170 foreign embassies."
+      ]
+    },
+    {
+      "id": "boston-cities-v2",
+      "descriptionAdvanced": "Boston, the capital of Massachusetts, is one of the oldest cities in the United States and a central player in the American Revolution. Famous for the Freedom Trail and sites like the Boston Tea Party ships, the city's rich history is visible throughout its streets. Boston is also a leading academic and medical center, home to prestigious universities like Harvard and MIT in the surrounding area. Its vibrant neighborhoods, such as Beacon Hill and the North End, offer a blend of history, culture, and cuisine. Boston’s harbor is a critical maritime hub, and the city’s economy is deeply rooted in education, research, and finance. Geography K8 — colonial history and academic excellence.",
+      "factsAdvanced": [
+        "Boston was founded in 1630 by Puritan colonists from England.",
+        "The Freedom Trail is a 2.5-mile path that leads visitors to 16 historical sites.",
+        "Boston is home to one of the highest concentrations of universities in the world.",
+        "The first public school in the United States, Boston Latin School, was opened in Boston in 1635.",
+        "Boston Harbor was the site of the famous Boston Tea Party, a key event in the American Revolution.",
+        "Fenway Park, the oldest ballpark in Major League Baseball, is located in Boston."
+      ]
+    },
+    {
+      "id": "el-paso-cities-v2",
+      "descriptionAdvanced": "El Paso, located on the far western tip of Texas, is a major border city on the Rio Grande, directly across from Ciudad Juárez, Mexico. This unique binational setting makes it a critical center for international trade, commerce, and cultural exchange. El Paso's history is deeply shaped by Spanish, Native American, and Western influences. The city is famous for its vibrant culinary scene, desert landscape, and the scenic Franklin Mountains, which run directly through the city. The military is a significant part of the economy, with Fort Bliss, one of the largest U.S. Army bases, located here. Geography K7 — binational cities and desert topography.",
+      "factsAdvanced": [
+        "El Paso is situated on the Rio Grande, forming an international border with Mexico.",
+        "The Franklin Mountains are the largest urban park in the U.S. located entirely within city limits.",
+        "Fort Bliss is one of the oldest and largest military bases in the U.S. Army.",
+        "The city has a strong binational identity due to its proximity to Ciudad Juárez, Mexico.",
+        "El Paso is often referred to as the 'Sun City' for its abundant sunshine.",
+        "The city was a vital stop on early westward expansion routes and railroads."
+      ]
+    },
+    {
+      "id": "detroit-cities-v2",
+      "descriptionAdvanced": "Detroit, Michigan, is globally recognized as the center of the American automotive industry and a city with a profound history of industrial innovation and music. Known as 'Motor City', it was the birthplace of assembly-line manufacturing and is still home to the headquarters of the 'Big Three' automakers: Ford, General Motors, and Stellantis. Detroit also holds a legendary status in music history, particularly for its contribution to Motown, rock, and techno. The city is undergoing a significant urban revitalization, focusing on infrastructure, new businesses, and cultural venues. Despite its industrial past, Detroit is a city of resilience, culture, and ongoing evolution. Geography K7 — industrial hubs and economic adaptation.",
+      "factsAdvanced": [
+        "Detroit was founded in 1701 by French explorer Antoine de la Mothe Cadillac.",
+        "The city is famously known as 'Motor City' due to its central role in the automotive industry.",
+        "Motown Records, founded in Detroit in 1959, revolutionized American popular music.",
+        "Detroit is connected to Windsor, Ontario, by the Ambassador Bridge and the Detroit-Windsor Tunnel.",
+        "The city has a massive art scene, with the Detroit Institute of Arts being one of the largest in the U.S.",
+        "Henry Ford introduced the moving assembly line for mass production of automobiles in 1913."
+      ]
+    },
+    {
+      "id": "nashville-cities-v2",
+      "descriptionAdvanced": "Nashville, the capital of Tennessee, is world-famous as the heart of the country music industry and is known as 'Music City'. It is home to the Grand Ole Opry, the Ryman Auditorium, and the Country Music Hall of Fame, which celebrate its profound impact on global music. Nashville is also a major educational and healthcare center, with several prestigious universities and a significant concentration of healthcare corporations. The city has experienced rapid growth, becoming a cultural and economic powerhouse in the Southeast. Nashville's vibrant downtown, with its honky-tonk bars and live music scene, is an iconic American destination. Geography K7 — music history and regional urban growth.",
+      "factsAdvanced": [
+        "Nashville is often called 'Music City' for its dominant role in the country music scene.",
+        "The Grand Ole Opry is the world's longest-running radio broadcast and a country music landmark.",
+        "Nashville is the capital city of Tennessee and is situated on the Cumberland River.",
+        "The city has a massive healthcare industry concentration, with over 300 healthcare companies headquartered here.",
+        "Nashville is known for its replicas of historical buildings, including a full-scale Parthenon.",
+        "The city's vibrant downtown music district is known for its historic 'honky-tonk' music clubs."
+      ]
+    },
+    {
+      "id": "portland-or-cities-v2",
+      "descriptionAdvanced": "Portland, Oregon, is known for its scenic beauty, liberal culture, commitment to sustainability, and thriving microbrewery scene. Located near the confluence of the Willamette and Columbia rivers, it is surrounded by lush forests and is a short drive from the Pacific coast and Mount Hood. Portland is famous for its parks, such as Washington Park, which houses the International Rose Test Garden. The city is a hub for innovation, particularly in the apparel and sustainable energy sectors. Its vibrant urban atmosphere is defined by unique neighborhoods, coffee culture, and a deep appreciation for the outdoors. Geography K7 — sustainable urban planning and Pacific Northwest ecosystems.",
+      "factsAdvanced": [
+        "Portland was named after Portland, Maine, through a coin toss in 1845.",
+        "The city is known for its extensive park system and focus on urban planning and sustainability.",
+        "Portland is home to the world's smallest park, Mill Ends Park, measuring two feet in diameter.",
+        "The city is a major center for apparel design, including headquarters for companies like Nike.",
+        "Portland's location offers easy access to mountains, rivers, and the Pacific coastline.",
+        "The city is world-renowned for its thriving microbrewery and coffee roaster culture."
+      ]
+    },
+    {
+      "id": "memphis-cities-v2",
+      "descriptionAdvanced": "Memphis, Tennessee, located on the Mississippi River, is known for its profound influence on blues, soul, and rock 'n' roll music. It is home to Sun Studio, where Elvis Presley began his career, and Graceland, which draws millions of visitors annually. Memphis is also a significant logistics and transportation center, serving as the global headquarters for FedEx, which relies on the city's strategic location. The city has a rich, complex history, and is known for its barbecue cuisine, which is celebrated as some of the best in the nation. Memphis plays a central role in the cultural and economic life of the Mississippi Delta region. Geography K7 — logistics, river trade, and cultural icons.",
+      "factsAdvanced": [
+        "Memphis is located on the Mississippi River, which has been crucial for trade and transportation throughout its history.",
+        "Sun Studio, in Memphis, is where blues, soul, and rock 'n' roll legends, including Elvis Presley, recorded.",
+        "Graceland, the home of Elvis Presley, is one of the most visited private homes in the United States.",
+        "Memphis is the global headquarters for FedEx, leveraging the city's strategic central location.",
+        "The city is internationally famous for its barbecue, with the World Championship Barbecue Cooking Contest held annually.",
+        "Memphis played a pivotal role in the Civil Rights movement, including the tragic 1968 assassination of Martin Luther King Jr."
+      ]
+    },
+    {
+      "id": "oklahoma-city-cities-v2",
+      "descriptionAdvanced": "Oklahoma City, the capital of Oklahoma, is a major center for energy, aerospace, and government services. Originally established during the 1889 Land Run, the city has evolved from an oil-rich boomtown into a diverse metropolitan area. It features a unique blend of Western heritage and modern urban development, with landmarks such as the Bricktown entertainment district. Oklahoma City has invested significantly in the revitalization of its downtown, including the addition of public canals and parks. The city's economy is strongly supported by the energy industry, federal government operations, and agriculture. Geography K7 — oil industry history and regional urban growth.",
+      "factsAdvanced": [
+        "Oklahoma City was established in 1889 during the famous 'Land Run' of the Unassigned Lands.",
+        "The city is the capital and largest city in Oklahoma.",
+        "Oklahoma City is home to one of the largest livestock markets in the world.",
+        "The Bricktown entertainment district was once a wholesale warehouse district, now a vibrant center for nightlife.",
+        "Energy production, particularly oil and natural gas, has been a cornerstone of the city’s economy for over a century.",
+        "The city hosts the Oklahoma City National Memorial, dedicated to the victims of the 1995 federal building bombing."
+      ]
+    },
+    {
+      "id": "las-vegas-cities-v2",
+      "descriptionAdvanced": "Las Vegas, Nevada, is a world-renowned destination for gaming, entertainment, and hospitality. Situated in the Mojave Desert, it was transformed from a remote rail stop into a global urban center driven by the tourism and convention industries. The Las Vegas Strip is famous for its massive resort-hotels, intricate themed architecture, and endless entertainment options. Las Vegas is also a major hub for business conferences and international travel. The city's growth has been phenomenal, and it continues to evolve with new sports, entertainment, and infrastructure projects. Despite its reputation for excess, the city plays a vital role in regional economic activity. Geography K7 — tourism-driven urban development and desert geography.",
+      "factsAdvanced": [
+        "Las Vegas was founded in 1905 and incorporated in 1911.",
+        "The Las Vegas Strip is one of the most visited tourist destinations in the world.",
+        "The city was transformed into a gaming and tourism powerhouse in the mid-20th century.",
+        "Las Vegas is one of the largest convention destinations globally.",
+        "The city's climate is extremely hot and arid, typical of the Mojave Desert region.",
+        "Las Vegas continues to expand as a sports hub, with professional teams like the Raiders and Golden Knights."
+      ]
+    },
+    {
+      "id": "louisville-cities-v2",
+      "descriptionAdvanced": "Louisville, Kentucky, is widely known as the home of the Kentucky Derby, the oldest continuous sporting event in the U.S., and for its bourbon industry. Located on the Ohio River, the city serves as a major hub for shipping and logistics. Louisville is home to major companies like UPS, which operates its global air hub at the Louisville International Airport. The city is rich in history and culture, with notable landmarks like Churchill Downs. Louisville's economy is well-diversified, with strengths in healthcare, food, and manufacturing. Its blend of Southern charm and urban progress makes it an essential center in the region. Geography K7 — transportation logistics and Southern cultural traditions.",
+      "factsAdvanced": [
+        "The Kentucky Derby, held at Churchill Downs, is the longest-running sporting event in the U.S.",
+        "Louisville is known as the 'Bourbon Capital of the World', with many distilleries located in the area.",
+        "The city is situated on the Ohio River, which has historically been critical for transportation and shipping.",
+        "UPS operates its primary global air cargo hub at Louisville International Airport.",
+        "Louisville was founded in 1778 and named in honor of King Louis XVI of France.",
+        "The city's diverse economy includes significant sectors in medicine, food production, and manufacturing."
+      ]
+    }
+  ]
+}

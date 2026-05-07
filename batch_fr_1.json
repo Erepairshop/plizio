@@ -1,0 +1,242 @@
+[
+  {
+    "id": "FR",
+    "de_desc": "",
+    "de_facts": [
+      "Frankreich ist mit rund 89 Millionen ausländischen Besuchern pro Jahr das meistbesuchte Land der Welt.",
+      "Das Land verfügt über 12 verschiedene Zeitzonen, mehr als jedes andere Land der Welt, dank seiner Überseegebiete.",
+      "Die französische Eisenbahn (SNCF) betreibt das TGV-Netz, dessen Züge im kommerziellen Betrieb Geschwindigkeiten von bis zu 320 km/h erreichen.",
+      "In Frankreich werden jährlich mehr als 1.200 verschiedene Käsesorten hergestellt, was die enorme gastronomische Vielfalt unterstreicht."
+    ]
+  },
+  {
+    "id": "FR-ARA",
+    "de_desc": "",
+    "de_facts": [
+      "Die Region beherbergt den Mont Blanc, den höchsten Berg der Alpen und der Europäischen Union mit 4.807 Metern.",
+      "Lyon, die Hauptstadt der Region, wurde 1998 wegen ihrer historischen Architektur zum UNESCO-Weltkulturerbe erklärt.",
+      "In der Auvergne befindet sich die Kette der Puys, ein 40 Kilometer langes vulkanisches Gebiet mit 80 erloschenen Vulkanen.",
+      "Evian-les-Bains in dieser Region ist der Ursprungsort des weltberühmten Evian-Mineralwassers."
+    ]
+  },
+  {
+    "id": "FR-BFC",
+    "de_desc": "",
+    "de_facts": [
+      "Die Weinberge des Burgund (Climats) gehören seit 2015 zum UNESCO-Weltkulturerbe.",
+      "In Dijon, der historischen Hauptstadt des Herzogtums Burgund, wird traditionell seit dem Mittelalter der berühmte Dijonsenf hergestellt.",
+      "Das Jura-Gebirge in dieser Region ist Namensgeber für das geologische Zeitalter des Jura.",
+      "Das Hospices de Beaune, gegründet 1443, ist bekannt für sein markantes farbig glasiertes Ziegeldach und seine jährliche Weinauktion."
+    ]
+  },
+  {
+    "id": "FR-BRE",
+    "de_desc": "",
+    "de_facts": [
+      "Die Bretagne hat die längste Küstenlinie aller französischen Festlandregionen, die sich über 2.700 Kilometer erstreckt.",
+      "Die Steinreihen von Carnac bilden die größte megalithische Stätte der Welt mit über 3.000 prähistorischen stehenden Steinen.",
+      "Die traditionelle keltische Sprache, das Bretonische, wird heute noch von rund 200.000 Menschen aktiv gesprochen.",
+      "Die Region ist berühmt für die Herstellung von Crêpes und Galettes, die ihren Ursprung im 13. Jahrhundert haben."
+    ]
+  },
+  {
+    "id": "FR-CVL",
+    "de_desc": "Die Region Centre-Val de Loire, im Herzen Frankreichs gelegen, ist berühmt für ihre unvergleichliche Konzentration an prachtvollen Renaissance-Schlössern, die majestätisch an den Ufern der Loire thronen. Dieses 'Tal der Könige' erstreckt sich entlang des längsten Flusses Frankreichs und wurde wegen seiner kulturellen und historischen Bedeutung in die Liste des UNESCO-Weltkulturerbes aufgenommen. Historisch war die Region der bevorzugte Rückzugsort des französischen Adels, was zu einem Boom von Kunst und Architektur im 15. und 16. Jahrhundert führte. Die Landschaft zeichnet sich durch fruchtbare Ebenen, ausgedehnte Wälder wie die Sologne und malerische Weinbaugebiete aus, die hervorragende Weine wie Sancerre und Vouvray hervorbringen. Großstädte wie Orléans und Tours verbinden diese reiche königliche Vergangenheit mit moderner Dynamik. Hier verflechten sich französische Geschichte, exquisite Gastronomie und idyllische Natur zu einem unvergleichlichen kulturellen Erbe.",
+    "de_facts": [
+      "Das Loiretal zwischen Sully-sur-Loire und Chalonnes wurde im Jahr 2000 zum UNESCO-Weltkulturerbe erklärt.",
+      "Die Stadt Tours, das Zentrum der Region, ist eng mit dem Heiligen Martin von Tours verbunden, dessen Grab im Mittelalter ein wichtiger Wallfahrtsort war.",
+      "Die Region ist ein bedeutendes landwirtschaftliches Zentrum und wird oft als der 'Garten Frankreichs' bezeichnet.",
+      "Orléans ist berühmt für seine Befreiung durch Jeanne d'Arc im Jahr 1429 während des Hundertjährigen Krieges."
+    ]
+  },
+  {
+    "id": "FR-COR",
+    "de_desc": "Korsika, im Mittelmeer gelegen, wird wegen seiner atemberaubenden landschaftlichen Schönheit oft als 'L'Île de Beauté' (Insel der Schönheit) bezeichnet. Die Region ist eine faszinierende Mischung aus französischem Einfluss und einer stark ausgeprägten, stolzen korsischen Identität mit eigenen Traditionen und einer eigenen Sprache. Geografisch wird die Insel von einem massiven Gebirgszug dominiert, der bis auf über 2.700 Meter ansteigt und ein Paradies für Wanderer bietet, insbesondere durch den berühmten Fernwanderweg GR20. Entlang der über 1.000 Kilometer langen Küstenlinie wechseln sich dramatische Klippen, versteckte Buchten und weiße Sandstrände ab. Die Geschichte der Insel reicht bis in die Antike zurück, und sie ist weltweit bekannt als der Geburtsort von Napoleon Bonaparte in der Stadt Ajaccio. Die unberührte Natur, gepaart mit malerischen Bergdörfern und einer rustikalen Küche auf Basis von Kastanien, Käse und Wildschwein, macht Korsika zu einem einzigartigen Reiseziel.",
+    "de_facts": [
+      "Napoleon Bonaparte wurde 1769 in Ajaccio, der Hauptstadt der Insel, geboren.",
+      "Der Monte Cinto ist mit 2.706 Metern der höchste Berg der Insel und oft bis in den Frühsommer schneebedeckt.",
+      "Etwa 20 Prozent der Insel sind von der 'Macchia' bedeckt, einem dichten, immergrünen Buschwald, der der Insel ihren charakteristischen Duft verleiht.",
+      "Das Naturschutzgebiet Scandola an der Westküste ist UNESCO-Weltnaturerbe und kann nur per Boot oder zu Fuß erreicht werden."
+    ]
+  },
+  {
+    "id": "FR-GES",
+    "de_desc": "Grand Est, im Nordosten Frankreichs, ist eine geopolitisch und historisch stark geprägte Region, die eine lange Grenze mit vier europäischen Staaten teilt, darunter Deutschland und Belgien. Diese Grenzlage hat zu einer einzigartigen kulturellen Verschmelzung geführt, die sich in der Architektur, dem lokalen Dialekt und der herzhaften Küche – wie Flammkuchen und Sauerkraut – widerspiegelt. Die Region umfasst die weltberühmte Champagne, Heimat des exklusivsten Schaumweins der Welt, sowie das Elsass mit seiner romantischen Weinstraße und pittoresken Fachwerkhäusern. Historische Städte wie Straßburg, das Sitz vieler europäischer Institutionen ist, und Reims, wo jahrhundertelang die französischen Könige gekrönt wurden, zeugen von der immensen Bedeutung der Region. Auch die schmerzhafte Geschichte des Ersten Weltkriegs ist hier tief verwurzelt, insbesondere durch die Schlachtfelder von Verdun. Grand Est bietet somit eine faszinierende Reise durch europäische Geschichte, exzellente Weinkultur und dichte Waldlandschaften wie die der Vogesen.",
+    "de_facts": [
+      "In der Kathedrale von Reims wurden über 30 französische Könige gekrönt, beginnend im 11. Jahrhundert.",
+      "Die Region Grand Est ist das einzige Gebiet der Welt, das gesetzlich berechtigt ist, den Namen 'Champagner' für seine Schaumweine zu verwenden.",
+      "Straßburg beherbergt das Europäische Parlament und den Europarat und gilt als Symbol der deutsch-französischen Aussöhnung.",
+      "Der elsässische Weihnachtsmarkt in Straßburg ('Christkindelsmärik'), der seit 1570 stattfindet, ist der älteste in Frankreich."
+    ]
+  },
+  {
+    "id": "FR-HDF",
+    "de_desc": "Die Region Hauts-de-France im äußersten Norden Frankreichs ist eine Gegend voller Charakter, geprägt von ihrer industriellen Vergangenheit und einer reichen flämischen Kultur. Die Landschaft erstreckt sich von der spektakulären Opalküste mit ihren weißen Kreidefelsen am Ärmelkanal bis hin zu ausgedehnten landwirtschaftlichen Ebenen und dichten Wäldern. Historisch war dies ein zentraler Schauplatz großer europäischer Konflikte, von der Schlacht von Azincourt im Mittelalter bis zu den verheerenden Grabenkämpfen des Ersten Weltkriegs in der Somme. Die regionale Architektur ist unverwechselbar, geprägt von roten Backsteinhäusern, prächtigen gotischen Kathedralen in Amiens und Beauvais sowie den ikonischen Glockentürmen ('Beffrois'), die zum UNESCO-Weltkulturerbe gehören. Lille, die pulsierende Hauptstadt, ist ein Zentrum für Kunst und Handel, bekannt für ihren großen jährlichen Flohmarkt, die Braderie de Lille. Heute vollzieht die Region einen bemerkenswerten Wandel von einem ehemaligen Zentrum des Kohlebergbaus zu einem Hotspot für Innovation und Tourismus.",
+    "de_facts": [
+      "Die Kathedrale von Amiens ist die größte gotische Kirche Frankreichs; ihr Innenraum fasst ein Volumen von 200.000 Kubikmetern.",
+      "Der Eurotunnel, der Frankreich unter dem Ärmelkanal mit Großbritannien verbindet, beginnt in Coquelles bei Calais in dieser Region.",
+      "Im Département Somme fanden 1916 während des Ersten Weltkriegs einige der blutigsten Schlachten der Geschichte statt.",
+      "Die 'Braderie de Lille' ist der größte Flohmarkt Europas und zieht jedes Jahr am ersten Septemberwochenende rund zwei Millionen Besucher an."
+    ]
+  },
+  {
+    "id": "FR-IDF",
+    "de_desc": "Die Île-de-France ist das pulsierende politische, wirtschaftliche und kulturelle Zentrum Frankreichs und eine der wohlhabendsten Regionen Europas. Sie umschließt die Metropole Paris und ist dicht besiedelt, beherbergt jedoch überraschenderweise auch riesige Staatswälder und bemerkenswerte landwirtschaftliche Gebiete an ihren Rändern. Die Region ist übersät mit monumentalen Wahrzeichen der französischen Monarchie, darunter das unvergleichliche Schloss Versailles, das Schloss Fontainebleau und die königliche Nekropole in Saint-Denis. Historisch war die Île-de-France das Kerngebiet der französischen Könige, von dem aus das moderne Frankreich geschmiedet wurde. Die Architektur ist geprägt durch die prächtigen Haussmann-Boulevards in Paris und majestätische gotische Baukunst. Mit führenden Universitäten, weltbekannten Museen und einer immensen wirtschaftlichen Macht ist die Region das Herz, das den Rhythmus der gesamten Nation vorgibt.",
+    "de_facts": [
+      "Obwohl die Region nur 2 Prozent der Landfläche Frankreichs ausmacht, leben hier etwa 19 Prozent der gesamten französischen Bevölkerung.",
+      "Die Île-de-France erwirtschaftet über 30 Prozent des nationalen Bruttoinlandsprodukts und gehört zu den stärksten Wirtschaftsräumen der Welt.",
+      "Das Schloss Versailles, ursprünglich ein kleines Jagdschloss, wurde von Ludwig XIV. zum größten Palast Europas mit über 2.300 Räumen ausgebaut.",
+      "Der Wald von Fontainebleau umfasst mehr als 25.000 Hektar und war früher das bevorzugte königliche Jagdrevier."
+    ]
+  },
+  {
+    "id": "FR-NOR",
+    "de_desc": "Die Normandie im Nordwesten Frankreichs ist eine Region von tiefgreifender historischer Bedeutung und landschaftlicher Idylle. Berühmt für ihre grüne, sanft hügelige Bocage-Landschaft, Apfelplantagen und die dramatischen Klippen der Alabasterküste, bietet sie eine malerische Kulisse. Die Geschichte der Region ist episch: Im 10. Jahrhundert war sie die Heimat der Wikinger (Nordmänner), die von hier aus unter Wilhelm dem Eroberer 1066 England eroberten. Im 20. Jahrhundert wurde sie zum Schauplatz der Landung der Alliierten (D-Day) im Jahr 1944, einem Wendepunkt des Zweiten Weltkriegs. Neben den geschichtsträchtigen Stränden zieht das architektonische Wunder des Mont-Saint-Michel, das sich aus einer weitläufigen Bucht erhebt, Millionen von Besuchern an. Kulinarisch besticht die Normandie durch hervorragende Milchprodukte wie den Camembert-Käse und köstliche Apfelgetränke wie Cidre und Calvados.",
+    "de_facts": [
+      "Der Mont-Saint-Michel und seine Bucht gehören seit 1979 zum UNESCO-Weltkulturerbe und weisen den stärksten Tidenhub Europas auf (bis zu 14 Meter).",
+      "Am 6. Juni 1944 landeten über 150.000 alliierte Soldaten an den fünf normannischen Stränden Utah, Omaha, Gold, Juno und Sword.",
+      "Der weltberühmte Camembert-Käse wurde der Legende nach 1791 von der Bäuerin Marie Harel im normannischen Dorf Camembert erfunden.",
+      "Der Teppich von Bayeux, ein 70 Meter langes Stickwerk aus dem 11. Jahrhundert, dokumentiert die Eroberung Englands durch die Normannen."
+    ]
+  },
+  {
+    "id": "FR-NAQ",
+    "de_desc": "Nouvelle-Aquitaine ist die flächenmäßig größte Region Frankreichs und erstreckt sich im Südwesten von den Weinbergen des Bordeaux bis hin zu den schneebedeckten Gipfeln der Pyrenäen. Sie zeichnet sich durch eine enorme geografische Vielfalt aus, darunter die Atlantikküste mit Europas höchster Sanddüne, der Dune du Pilat, und die unberührten Wälder der Landes de Gascogne. Historisch stark durch das Herzogtum Aquitanien geprägt, war diese Region im Mittelalter eng mit der englischen Krone verbunden, insbesondere durch Eleonore von Aquitanien. Die Hauptstadt Bordeaux ist ein globales Zentrum der Weinproduktion und besticht durch elegante klassizistische Architektur aus dem 18. Jahrhundert. Im Inland bieten das Dordogne-Tal und die prähistorischen Höhlenmalereien von Lascaux tiefe Einblicke in die frühe Menschheitsgeschichte. Die Region ist auch ein Paradies für Surfer und Feinschmecker, bekannt für Austern, Foie Gras und erstklassige Trüffel.",
+    "de_facts": [
+      "Nouvelle-Aquitaine ist mit einer Fläche von 84.061 Quadratkilometern größer als Österreich.",
+      "Die Höhle von Lascaux im Vézère-Tal beherbergt einige der berühmtesten prähistorischen Malereien der Welt, die rund 20.000 Jahre alt sind.",
+      "Die Dune du Pilat in der Nähe von Arcachon ist mit einer Höhe von etwa 110 Metern die höchste Sanddüne Europas.",
+      "Der Wald der Landes de Gascogne ist das größte künstlich angelegte Waldgebiet in Westeuropa und umfasst rund eine Million Hektar."
+    ]
+  },
+  {
+    "id": "FR-OCC",
+    "de_desc": "Occitanie, im sonnigen Süden Frankreichs gelegen, ist eine weite Region, die für ihr mildes mediterranes Klima und ihr tiefes historisches Erbe geschätzt wird. Die Landschaft reicht von den Stränden des Mittelmeers über die zerklüfteten Schluchten der Cevennen bis hin zu den hohen Gipfeln der Pyrenäen an der spanischen Grenze. Diese Region ist stark von der okzitanischen Kultur und Sprache geprägt, was ihr einen einzigartigen, vom restlichen Frankreich abweichenden Charakter verleiht. Hier findet man monumentale historische Bauwerke wie die imposante mittelalterliche Festungsstadt Carcassonne, das römische Aquädukt Pont du Gard und das majestätische Albi. Die dynamische Hauptstadt Toulouse ist das Zentrum der europäischen Luft- und Raumfahrtindustrie und bringt moderne Technologie in diese traditionsreiche Landschaft. Die Weinbaugebiete des Languedoc machen Occitanie zudem zum größten zusammenhängenden Weinanbaugebiet der Welt.",
+    "de_facts": [
+      "Das Languedoc-Roussillon in Occitanie ist das größte Weinanbaugebiet der Welt mit einer Anbaufläche von rund 240.000 Hektar.",
+      "Toulouse ist der Hauptsitz des europäischen Flugzeugherstellers Airbus und ein Zentrum der Raumfahrtforschung.",
+      "Die Zitadelle von Carcassonne wurde im 19. Jahrhundert von Eugène Viollet-le-Duc aufwendig restauriert und ist ein Meisterwerk der Festungsarchitektur.",
+      "Der Pont du Gard ist ein antikes römisches Aquädukt aus dem 1. Jahrhundert n. Chr. und war mit einer Höhe von 49 Metern eines der höchsten des Römischen Reiches."
+    ]
+  },
+  {
+    "id": "FR-PDL",
+    "de_desc": "Die Region Pays de la Loire im Westen Frankreichs vereint das majestätische Ende des Loire-Tals mit einer langen, abwechslungsreichen Atlantikküste. Die Landschaft ist geprägt von salzigen Sumpflandschaften wie Guérande, fruchtbaren landwirtschaftlichen Ebenen und dem Mündungsgebiet der Loire, das reich an Artenvielfalt ist. Historisch war die Region stark maritim geprägt, mit Nantes als florierender Hafenstadt im 18. Jahrhundert, die sich heute zu einem Zentrum für Kunst und Kultur entwickelt hat, symbolisiert durch die mechanischen Skulpturen der 'Machines de l’île'. Weiter landeinwärts zeugen zahlreiche historische Schlösser von der einstigen Präsenz des französischen Adels. Die Region ist sportlich weltweit für das legendäre 24-Stunden-Autorennen in Le Mans bekannt. Mit ihrem starken Agrarsektor, herausragenden Fischereihäfen und blühenden Tourismus ist Pays de la Loire eine dynamische und wirtschaftlich starke Region.",
+    "de_facts": [
+      "Das 24-Stunden-Rennen von Le Mans ('24 Heures du Mans'), das seit 1923 ausgetragen wird, ist das älteste noch aktive Sportwagen-Langstreckenrennen der Welt.",
+      "In Saint-Nazaire an der Loire-Mündung befinden sich die Chantiers de l'Atlantique, eine der größten Werften Europas, auf der riesige Kreuzfahrtschiffe gebaut werden.",
+      "Die Salzgärten von Guérande produzieren das berühmte Meersalz 'Fleur de Sel', das auf traditionelle Weise per Hand geerntet wird.",
+      "Nantes, die größte Stadt der Region, war bis ins 20. Jahrhundert historisch Teil der Bretagne und war der Sitz der bretonischen Herzöge."
+    ]
+  },
+  {
+    "id": "FR-PAC",
+    "de_desc": "Provence-Alpes-Côte d'Azur (PACA) ist eine der malerischsten und berühmtesten Regionen Frankreichs, die den Glamour des Mittelmeers mit der rauen Schönheit der Alpen verbindet. Im Süden zieht die Côte d'Azur mit Orten wie Nizza, Cannes und Saint-Tropez die Reichen und Berühmten an, gesäumt von azurblauem Wasser und luxuriösen Yachten. Im Landesinneren verströmt die Provence mit ihren endlosen Lavendelfeldern, Olivenhainen und provenzalischen Bergdörfern einen rustikalen, idyllischen Charme, der Künstler wie Cézanne, Van Gogh und Picasso tief inspirierte. Im Norden erheben sich die südlichen französischen Alpen, die herausragende Möglichkeiten für den Wintersport und das Bergsteigen bieten. Die Region ist auch die Wiege der weltweiten Parfümindustrie, zentriert in der Stadt Grasse. PACA verkörpert den perfekten mediterranen Traum und verbindet antikes römisches Erbe mit modernem Luxus und spektakulärer Natur.",
+    "de_facts": [
+      "Grasse in der Provence gilt als die Welthauptstadt des Parfüms und blickt auf eine Duftstoffproduktion seit dem 16. Jahrhundert zurück.",
+      "Die Verdonschlucht in dieser Region ist eine der größten Schluchten Europas, bis zu 700 Meter tief und ein Paradies für Kletterer und Kajakfahrer.",
+      "Die Filmfestspiele von Cannes, die seit 1946 stattfinden, gehören zu den renommiertesten und einflussreichsten Filmfestivals der Welt.",
+      "Der Hafen von Marseille, gegründet von den Griechen um 600 v. Chr., ist der größte Handelshafen Frankreichs und einer der größten im Mittelmeer."
+    ]
+  },
+  {
+    "id": "paris",
+    "de_desc": "Paris, die Hauptstadt Frankreichs, ist eine globale Metropole, die für ihre Kunst, Mode, Gastronomie und Kultur weltberühmt ist. Entlang der Seine, die von historischen Brücken überspannt wird, prägen majestätische Bauwerke wie der Eiffelturm, der Louvre und die Kathedrale Notre-Dame die unverwechselbare Skyline. Die Stadtstruktur wurde im 19. Jahrhundert von Georges-Eugène Haussmann radikal neu gestaltet, was die charakteristischen breiten Boulevards und eleganten cremefarbenen Steingebäude hervorbrachte. Paris war das Epizentrum zentraler historischer Ereignisse, einschließlich der Französischen Revolution, und ein Treffpunkt der Aufklärung. Heute ist die 'Stadt der Lichter' eines der wichtigsten Finanz- und Kulturzentren Europas und zieht jährlich Millionen von Besuchern an. Von gemütlichen Cafés im Quartier Latin bis zu den Luxusboutiquen der Champs-Élysées bietet Paris eine unübertroffene Mischung aus Romantik und kosmopolitischer Dynamik.",
+    "de_facts": [
+      "Paris ist die am dichtesten besiedelte Großstadt in der Europäischen Union, mit über 20.000 Einwohnern pro Quadratkilometer im Stadtzentrum.",
+      "Das U-Bahn-Netz der Stadt, die Pariser Métro, transportiert täglich mehr als 4 Millionen Passagiere und hat 304 Stationen.",
+      "Der Louvre ist das meistbesuchte Kunstmuseum der Welt und beherbergt über 35.000 Kunstwerke, darunter die weltberühmte Mona Lisa.",
+      "Die erste öffentliche Vorführung des Kinos fand 1895 in Paris durch die Brüder Lumière statt."
+    ]
+  },
+  {
+    "id": "marseille",
+    "de_desc": "Marseille ist die zweitgrößte Stadt Frankreichs und ein pulsierender, multikultureller Schmelztiegel an der Mittelmeerküste. Als wichtigster Hafen des Landes hat Marseille eine raue, authentische Identität bewahrt, die stark vom Seehandel und Einwanderungswellen aus Nordafrika und Südeuropa geprägt ist. Der historische Alte Hafen (Vieux-Port) ist das Herzstück der Stadt, umgeben von engen Gassen, farbenfrohen Märkten und Festungen, die die Einfahrt bewachen. Hoch über der Stadt thront die Basilika Notre-Dame de la Garde, ein architektonisches Juwel im romanisch-byzantinischen Stil, das den Seeleuten als Schutzsymbol dient. Südlich der Stadt erstrecken sich die atemberaubenden Calanques, tief eingeschnittene Buchten mit kristallklarem Wasser und weißen Kalksteinfelsen. Marseille ist eine dynamische Stadt im stetigen Wandel, die Tradition und Moderne auf faszinierende Weise verwebt.",
+    "de_facts": [
+      "Marseille ist die älteste Stadt Frankreichs, gegründet um 600 v. Chr. von griechischen Seefahrern aus Phokaia unter dem Namen Massalia.",
+      "Die Bouillabaisse, ein reichhaltiger Fischeintopf, ist das berühmteste kulinarische Gericht der Stadt und entstand ursprünglich aus den unverkäuflichen Beifängen der lokalen Fischer.",
+      "Die Inselbastion Château d'If vor der Küste von Marseille diente als Schauplatz in Alexandre Dumas' berühmtem Roman 'Der Graf von Monte Christo'.",
+      "Im Jahr 2013 war Marseille die Europäische Kulturhauptstadt, was zu einer massiven städtebaulichen und kulturellen Wiederbelebung führte."
+    ]
+  },
+  {
+    "id": "lyon",
+    "de_desc": "Lyon, am Zusammenfluss von Rhône und Saône gelegen, ist die drittgrößte Stadt Frankreichs und ein herausragendes Zentrum für Gastronomie, Geschichte und Wirtschaft. Die Stadt blickt auf eine über 2.000-jährige Geschichte zurück, beginnend als römische Hauptstadt Galliens, Lugdunum. Das historische Zentrum von Lyon, Vieux Lyon, mit seinen geheimen Passagen, den sogenannten Traboules, gehört zum UNESCO-Weltkulturerbe. Im 19. Jahrhundert florierte die Stadt als europäisches Zentrum der Seidenweberei, was den Wohlstand und das architektonische Erbe der Stadt maßgeblich prägte. Heute ist Lyon für seine traditionellen 'Bouchons', rustikalen Restaurants mit lokaler Küche, weltberühmt und gilt vielen als die gastronomische Hauptstadt Frankreichs. Zudem spielt die Stadt eine Vorreiterrolle in Hochtechnologie und Forschung und richtet jährlich das faszinierende Lichterfest 'Fête des Lumières' aus.",
+    "de_facts": [
+      "Das römische Amphitheater in Lyon, gebaut um 15 v. Chr., bot Platz für bis zu 10.000 Zuschauer und wird heute noch für Konzerte genutzt.",
+      "Die Brüder Auguste und Louis Lumière erfanden 1895 in Lyon den Cinématographen, womit die Stadt als Geburtsort des Kinos gilt.",
+      "Es gibt rund 400 'Traboules' in Lyon – versteckte Passagen durch Gebäude und Höfe, die ursprünglich von Seidenwebern genutzt wurden, um Stoffe trocken zu transportieren.",
+      "Interpol, die Internationale Kriminalpolizeiliche Organisation, hat ihren globalen Hauptsitz in Lyon."
+    ]
+  },
+  {
+    "id": "toulouse",
+    "de_desc": "Toulouse, im Südwesten Frankreichs am Ufer der Garonne gelegen, ist als 'La Ville Rose' (Die rosarote Stadt) bekannt, aufgrund der charakteristischen rosafarbenen Terrakotta-Ziegelsteine ihrer Altstadt. Diese sonnenverwöhnte Metropole bietet eine perfekte Synthese aus einem enorm reichen architektonischen Erbe und modernster Spitzenforschung. Im historischen Zentrum dominieren prachtvolle Patrizierhäuser aus der Renaissance und die Basilika Saint-Sernin, das größte noch erhaltene romanische Bauwerk Europas. Auf der anderen Seite ist Toulouse das stolze Zentrum der europäischen Luft- und Raumfahrtindustrie und beherbergt den Hauptsitz von Airbus sowie führende Raumfahrtforschungseinrichtungen. Mit einer der größten Studentenpopulationen Frankreichs strahlt die Stadt eine unglaubliche Lebendigkeit aus, die sich in belebten Plätzen und erstklassiger okzitanischer Gastronomie, wie dem herzhaften Cassoulet, widerspiegelt.",
+    "de_facts": [
+      "Die Basilika Saint-Sernin in Toulouse ist nicht nur ein architektonisches Meisterwerk, sondern war auch eine wichtige Station auf dem Jakobsweg nach Santiago de Compostela.",
+      "Der Canal du Midi, der im 17. Jahrhundert erbaut wurde und Toulouse mit dem Mittelmeer verbindet, gehört zum UNESCO-Weltkulturerbe.",
+      "Toulouse ist der Montageort des Airbus A380 und A350, der größten Passagierflugzeuge der Welt.",
+      "Das Universitätsklinikum und die Universitäten in Toulouse bilden eines der größten akademischen Zentren Frankreichs mit über 100.000 Studierenden."
+    ]
+  },
+  {
+    "id": "nice",
+    "de_desc": "Nizza, majestätisch an der Baie des Anges (Engelsbucht) gelegen, ist die inoffizielle Hauptstadt der glamourösen Côte d'Azur und ein Magnet für Touristen aus aller Welt. Die Stadt zeichnet sich durch ihr außergewöhnlich mildes Mikroklima aus, das sie bereits im 19. Jahrhundert zum bevorzugten Winterkurort der britischen und russischen Aristokratie machte. Die legendäre Promenade des Anglais, gesäumt von Palmen und prächtigen Belle-Époque-Hotels, spiegelt diesen historischen Reichtum wider. Die farbenfrohe Altstadt, Vieux Nice, mit ihren schmalen Gassen, ockerfarbenen Fassaden und lebhaften Märkten wie dem Cours Saleya, verströmt ein unverkennbares italienisches Flair. Nizza war auch ein Zufluchtsort für zahlreiche Künstler, darunter Marc Chagall und Henri Matisse, deren Werke in erstklassigen Museen der Stadt bewundert werden können. Es ist eine Stadt der Kunst, des Lichts und des mediterranen Lebensstils.",
+    "de_facts": [
+      "Die ikonische 'Promenade des Anglais' wurde 1822 von englischen Aristokraten finanziert, die Arbeit für Bettler in der Stadt schaffen wollten.",
+      "Nizza gehörte bis 1860 zum Königreich Sardinien-Piemont und fiel erst durch den Vertrag von Turin dauerhaft an Frankreich.",
+      "Die Stadt beherbergt das Musée Marc Chagall, das die größte öffentliche Sammlung von Chagalls Werken der Welt besitzt.",
+      "Der Karneval von Nizza, der im Februar stattfindet, gehört mit seinen riesigen Blumenkorsos zu den größten Karnevalsveranstaltungen der Welt."
+    ]
+  },
+  {
+    "id": "nantes",
+    "de_desc": "Nantes, nahe der Mündung der Loire gelegen, ist eine Stadt, die sich auf brillante Weise neu erfunden hat, von einem historischen Handels- und Industriehafen zu einem zukunftsweisenden Zentrum für Kunst, Kultur und grüne Stadtentwicklung. Die Stadt besitzt eine tiefgreifende historische Verbindung zur Bretagne, was sich im prachtvollen Schloss der Herzöge der Bretagne mitten im Stadtzentrum manifestiert. Im 18. und 19. Jahrhundert erlangte Nantes enormen Reichtum durch Schiffbau und internationalen Handel. Heute ist dieses industrielle Erbe die Bühne für außergewöhnliche Kunstprojekte, allen voran die 'Machines de l'île', ein visionäres Projekt, das riesige mechanische Tiere, inspiriert von Jules Verne, zum Leben erweckt. Als 'Grüne Hauptstadt Europas' ausgezeichnet, bietet Nantes seinen Bewohnern eine außergewöhnlich hohe Lebensqualität mit zahlreichen Parks, innovativer Architektur und einem exzellenten öffentlichen Nahverkehr.",
+    "de_facts": [
+      "Der berühmte Schriftsteller Jules Verne, Autor von '20.000 Meilen unter dem Meer', wurde 1828 in Nantes geboren und stark von der maritimen Atmosphäre der Stadt inspiriert.",
+      "Die mechanische Hauptattraktion der Stadt, der 12 Meter hohe 'Grand Éléphant', kann bis zu 50 Passagiere tragen und versprüht Wasser.",
+      "Im Jahr 1598 unterzeichnete König Heinrich IV. das Edikt von Nantes, das den protestantischen Hugenotten Toleranz und Rechte im katholischen Frankreich gewährte.",
+      "Das Passage Pommeraye ist eine dreistöckige, reich verzierte überdachte Einkaufspassage aus dem 19. Jahrhundert, die zu den schönsten in Europa zählt."
+    ]
+  },
+  {
+    "id": "strasbourg",
+    "de_desc": "Straßburg, an der Grenze zu Deutschland gelegen, ist eine Brückenstadt zwischen zwei Kulturen und das Herzstück des Elsass. Die Stadtkrone bildet das imposante Straßburger Münster, ein Meisterwerk gotischer Baukunst aus rosa Sandstein mit einem markanten asymmetrischen Turm. Das malerische Viertel 'Petite France' an den Ufern der Ill verzaubert mit seinen jahrhundertealten Fachwerkhäusern, überdachten Brücken und verwinkelten Gassen. Aufgrund seiner historischen Stellung als Schnittpunkt europäischer Strömungen ist Straßburg heute einer der Hauptsitze der Europäischen Union, wo das Europäische Parlament und der Europarat residieren. Diese diplomatische Bedeutung verleiht der Stadt eine kosmopolitische Atmosphäre, die harmonisch mit traditionellen elsässischen Weinstuben (Winstubs) und rustikaler Gemütlichkeit verschmilzt. Straßburg ist nicht nur ein Symbol des geeinten Europas, sondern auch ein architektonisches und kulturelles Juwel.",
+    "de_facts": [
+      "Das Straßburger Münster war von 1647 bis 1874 mit seinem 142 Meter hohen Turm das höchste Gebäude der Welt.",
+      "Die historische Altstadt auf der Grande Île (Große Insel) war 1988 das erste gesamte Stadtzentrum Frankreichs, das zum UNESCO-Weltkulturerbe erklärt wurde.",
+      "Die Universität Straßburg, gegründet 1538, gehört zu den renommiertesten Forschungsstätten Europas und brachte mehrere Nobelpreisträger hervor.",
+      "Der 'Christkindelsmärik', der Straßburger Weihnachtsmarkt, existiert seit 1570 und ist der älteste in Frankreich und einer der ältesten in Europa."
+    ]
+  },
+  {
+    "id": "lille",
+    "de_desc": "Lille, nahe der belgischen Grenze gelegen, ist eine dynamische Metropole, die für ihr unverkennbares flämisches Erbe und ihre warme, gastfreundliche Atmosphäre bekannt ist. Die Architektur der Stadt, mit ihren kunstvoll verzierten Backsteinfassaden und dem grandiosen Grand Place, erinnert stark an belgische oder niederländische Städte. Einst ein industrielles Zentrum der Textilproduktion, hat sich Lille nach einem wirtschaftlichen Abschwung erfolgreich zu einer modernen Dienstleistungs- und Universitätsstadt gewandelt. Im Jahr 2004 wurde die Stadt Europäische Kulturhauptstadt, was zu einer tiefgreifenden Erneuerung führte, bei der alte Fabriken in avantgardistische Kulturzentren wie die 'Maisons Folie' umgewandelt wurden. Lille besticht durch erstklassige Museen, wie den Palais des Beaux-Arts, und ein pulsierendes Studentenleben. Die Stadt ist der Beweis, dass Industriekultur und modernes Savoir-vivre perfekt harmonieren können.",
+    "de_facts": [
+      "Die Braderie de Lille, die jeden September stattfindet, ist der größte Flohmarkt in Europa und zieht bis zu 2 Millionen Besucher an.",
+      "Das U-Bahn-System in Lille war 1983 das weltweit erste vollautomatische und fahrerlose Metro-System, bekannt als VAL.",
+      "Der Palais des Beaux-Arts in Lille ist nach dem Louvre das zweitgrößte Kunstmuseum in Frankreich hinsichtlich der Sammlungsgröße.",
+      "Die Zitadelle von Lille wurde im 17. Jahrhundert von Vauban, dem berühmten Militäringenieur König Ludwigs XIV., erbaut und wird bis heute militärisch genutzt."
+    ]
+  },
+  {
+    "id": "versailles",
+    "de_desc": "Versailles, ein wohlhabender Vorort südwestlich von Paris, ist weltweit ein Synonym für königliche Opulenz und das absolute Königtum. Ursprünglich ein kleines Dorf, das von Ludwig XIV. für seinen epochalen Palastbau ausgewählt wurde, wuchs die Stadt im 17. Jahrhundert zur inoffiziellen Hauptstadt des französischen Reiches heran. Das Schloss von Versailles, umgeben von meisterhaft gestalteten französischen Gärten, ist das Herzstück der Stadt und beeindruckt mit seinen vergoldeten Toren, der Spiegelgalerie und den königlichen Gemächern. Die Stadtarchitektur selbst spiegelt diese Epoche wider, mit breiten, streng symmetrischen Alleen, die auf das Schloss ausgerichtet sind. Auch nach dem Fall der Monarchie behielt Versailles eine immense historische Bedeutung bei, unter anderem als Schauplatz der Unterzeichnung des Vertrags von Versailles 1919. Heute bietet die Stadt eine reiche Kulturszene und historische Pracht abseits des Pariser Trubels.",
+    "de_facts": [
+      "Der Palast von Versailles hat über 2.300 Räume, 67 Treppen und beherbergt eine Sammlung von über 6.000 Gemälden.",
+      "Der Vertrag von Versailles, der den Ersten Weltkrieg formell beendete, wurde 1919 in der prunkvollen Spiegelgalerie des Schlosses unterzeichnet.",
+      "Die Gärten von Versailles umfassen 800 Hektar Land, geschmückt mit 200.000 Bäumen, 50 Brunnen und einem großen künstlichen Kanal.",
+      "Die Stadt Versailles diente während des Deutsch-Französischen Krieges (1870-1871) als Hauptquartier der preußischen Armee."
+    ]
+  },
+  {
+    "id": "mont-saint-michel",
+    "de_desc": "Der Mont Saint-Michel, das 'Wunder des Abendlandes', ist eine atemberaubende Felseninsel in der Normandie, gekrönt von einer mächtigen mittelalterlichen Abtei. Diese ikonische Silhouette, die sich dramatisch aus den weiten Sandbänken einer riesigen Bucht erhebt, ist eines der berühmtesten Wahrzeichen Frankreichs. Die Geschichte der Insel reicht in das 8. Jahrhundert zurück, als nach einer angeblichen Vision des Erzengels Michael ein kleines Oratorium erbaut wurde, das im Laufe der Jahrhunderte zu einer architektonisch brillanten gotischen Klosterfestung heranwuchs. Der Mont Saint-Michel trotzt den stärksten Gezeiten Europas, die ihn bei Flut vollständig vom Festland abschneiden, was ihm lange Zeit den Ruf einer uneinnehmbaren Festung einbrachte. Trotz seiner winzigen Fläche hat das Dorf am Fuße der Abtei eine charmante Struktur mit engen, steilen Gassen und historischen Steinhäusern, die heute Millionen von Pilgern und Touristen magisch anziehen.",
+    "de_facts": [
+      "Der Gezeitenunterschied in der Bucht des Mont Saint-Michel kann bis zu 14 Meter betragen, wobei das Wasser angeblich 'mit der Geschwindigkeit eines galoppierenden Pferdes' hereinströmt.",
+      "Während der Französischen Revolution und bis 1863 wurde die Abtei als Gefängnis für politische Gegner und Geistliche genutzt.",
+      "Eine neue Brücke wurde 2014 fertiggestellt, die den alten Damm ersetzte und sicherstellt, dass der Mont Saint-Michel wieder zu einer echten Insel wird.",
+      "Die Insel und die umliegende Bucht wurden 1979 in die allererste Liste des UNESCO-Weltkulturerbes aufgenommen."
+    ]
+  }
+]

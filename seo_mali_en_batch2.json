@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMaliHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts",
+    "lib/visualLab/data/poiExtraMaliReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "goundam-cities-v2",
+      "descriptionAdvanced": "Goundam is a historic and strategic town in northern Mali, situated near the western edge of the Inner Niger Delta and the Faguibine Lake system. Historically, it was a major administrative and defensive post during both the Songhai Empire and the colonial period. The town serves as a vital market for the diverse ethnic groups of the region, including the Songhai, Tuareg, and Peul. Goundam's economy is uniquely centered on flood-recession agriculture and livestock herding, which depend on the seasonal fluctuations of the nearby lakes and Niger River branches. It is a critical hub for regional stability and trade in the Timbuktu Region. Geography K7 — Lake systems and northern trade.",
+      "factsAdvanced": [
+        "Strategically located near the Faguibine Lake system",
+        "Historical administrative hub in the Timbuktu Region",
+        "Key market town for Songhai, Tuareg, and Peul ethnic groups",
+        "Center for traditional flood-recession agriculture and herding",
+        "Known for its proximity to the Sahara-Sahel transition zone",
+        "Features a mix of traditional Sudano-Sahelian architecture",
+        "Important transit point for desert caravans and river trade",
+        "Significant center for Islamic scholarship in the north"
+      ]
+    },
+    {
+      "id": "kita-cities-v2",
+      "descriptionAdvanced": "Kita is a prominent town in western Mali, located at the foot of the scenic Kita Mountain (Kita Kourou). Known as the 'Capital of Peanut Production,' the city is a vital agricultural and industrial hub in the Kayes Region. Kita is also a major cultural and religious center, famous for its annual Catholic pilgrimage and its deep-rooted Manding musical traditions. Historically, it served as a key post on the Dakar-Niger Railway, facilitating trade between the coast and the interior. The town's vibrant markets and its strategic location on the road to Senegal make it one of the most dynamic urban centers in western Mali. Economy K6 — Peanuts and regional transport.",
+      "factsAdvanced": [
+        "Mali's leading center for groundnut (peanut) production",
+        "Located at the foot of the sacred Kita Kourou mountain",
+        "Famous for the annual Catholic pilgrimage to its shrine",
+        "Strategic stop on the historic Dakar-Niger Railway line",
+        "Major center for traditional Manding music and griot culture",
+        "Administrative capital of the fertile Kita Cercle",
+        "Known for its distinctive red-brick and colonial architecture",
+        "Key transport junction for trade with the Senegal border"
+      ]
+    },
+    {
+      "id": "kenieba-cities-v2",
+      "descriptionAdvanced": "Kéniéba is a rapidly growing town in the far west of Mali, situated in the heart of the gold-rich Birimian rock formations near the borders with Senegal and Guinea. Often called the 'Golden City,' it is the administrative center for a region that hosts several of West Africa's largest industrial gold mines, including Loulo and Gounkoto. The town's economy is driven by mining and artisanal gold panning, attracting a diverse population of workers from across the region. Kéniéba is also surrounded by lush, hilly landscapes and dramatic waterfalls, representing the natural beauty of the western highlands. Economy K6 — Mining and international borders.",
+      "factsAdvanced": [
+        "Known as the center of Mali's industrial gold mining industry",
+        "Strategically located near the borders of Senegal and Guinea",
+        "Administrative capital of the resource-rich Kéniéba Cercle",
+        "Surrounded by some of Africa's most productive gold mines",
+        "Economy is heavily influenced by mining and artisanal panning",
+        "Located in the scenic and high-rainfall western highlands",
+        "Key hub for international logistics and mining support services",
+        "Famous for the nearby beautiful Gouina and Félou waterfalls"
+      ]
+    },
+    {
+      "id": "bafoulabe-cities-v2",
+      "descriptionAdvanced": "Bafoulabé is a historic town in western Mali, famously located at the 'confluence of the waters' where the Bafing and Bakoy Rivers meet to form the Senegal River. This strategic location has made it a vital node for transport and trade since the colonial era. Bafoulabé was the first administrative post established by the French in the interior of West Africa, and its architecture still reflects this colonial past. The town is also known for the legend of 'Mali-Sadi,' a story of a friendly hippopotamus that symbolizes the deep connection between the local community and the river. Its economy is centered on river-based trade and agriculture. Geography K7 — Confluences and river systems.",
+      "factsAdvanced": [
+        "Located at the confluence where the Senegal River is formed",
+        "First French administrative post in the interior of West Africa",
+        "Home to the famous 'Mali-Sadi' hippopotamus legend",
+        "Strategic stop on the historic Dakar-Niger Railway line",
+        "Administrative capital of the Bafoulabé Cercle",
+        "Known for its unique colonial-era administrative buildings",
+        "Major center for local river-based trade and fishing",
+        "Surrounded by the scenic landscapes of the Kayes Region"
+      ]
+    },
+    {
+      "id": "diema-cities-v2",
+      "descriptionAdvanced": "Diéma is a strategic crossroads town located in western Mali, serving as a vital link between Bamako, Kayes, and the border with Mauritania. Its position at the junction of several major highways has transformed it into a bustling transit and commercial hub. Diéma is the administrative center of a region characterized by Sahelian landscapes, where livestock herding and dryland agriculture are the primary livelihoods. The town's markets are famous for their livestock trade and traditional handicrafts. As a gateway between the southern savannas and the northern deserts, Diéma reflects the cultural diversity and economic resilience of the Kayes Region. Geography K7 — Transport junctions and Sahelian trade.",
+      "factsAdvanced": [
+        "Crucial transport junction connecting Bamako, Kayes, and Nara",
+        "Strategic gateway for trade with southern Mauritania",
+        "Major center for the regional livestock and grain trade",
+        "Administrative capital of the Sahelian Diéma Cercle",
+        "Known for its vibrant and busy daily road-side markets",
+        "Important logistics stop for trans-national truck traffic",
+        "Reflects a blend of sedentary and nomadic cultural traditions",
+        "Surrounded by diverse landscapes of the western Sahel"
+      ]
+    },
+    {
+      "id": "kolokani-cities-v2",
+      "descriptionAdvanced": "Kolokani is a prominent town in the Koulikoro Region, located about 120 kilometers north of Bamako on the main road to the Mauritanian border. It is a vital agricultural center, specializing in the production of millet, sorghum, and peanuts, which supply the capital's markets. Kolokani is also a historical stronghold of the Bélédougou region, known for its tradition of resistance against colonial rule. The town's culture is deeply rooted in Bambara traditions, and it serves as an important administrative and educational hub for the surrounding rural area. Its strategic location makes it a key point for both internal trade and transit to the north. Geography K7 — Agricultural supply chains and regional history.",
+      "factsAdvanced": [
+        "Major agricultural hub supplying grain and peanuts to Bamako",
+        "Located in the heart of the historic Bélédougou region",
+        "Strategic stop on the main highway to Nara and Mauritania",
+        "Known for its historic 1915 revolt against colonial conscription",
+        "Administrative capital of the productive Kolokani Cercle",
+        "Center for traditional Bambara cultural and social life",
+        "Vibrant market town for local livestock and crops",
+        "Key educational center for the northern Koulikoro Region"
+      ]
+    },
+    {
+      "id": "kangaba-cities-v2",
+      "descriptionAdvanced": "Kangaba is a historic and spiritual town located in southwestern Mali, regarded as the symbolic heart of the Manding world. It was a key province of the medieval Mali Empire and remains a vital center for preserving Mande traditions. The town is home to the 'Kamablon,' a sacred mud-brick hut that is rebuilt every seven years in a ritual ceremony listed by UNESCO as Intangible Cultural Heritage. This event involves the recitation of the empire's history by the griots of the Diabaté clan. Kangaba's economy is centered on agriculture along the Niger River and its proximity to the Guinea border makes it a significant commercial node. History K8 — Mande traditions and the Mali Empire.",
+      "factsAdvanced": [
+        "Spiritual center of the Manding people and the Mali Empire",
+        "Home to the UNESCO-listed 'Kamablon' sacred hut",
+        "Site of the ritual septennial roof-recovering ceremony",
+        "Custodial center for the Diabaté clan of traditional griots",
+        "Strategically located near the international border with Guinea",
+        "Important agricultural hub on the upper Niger River",
+        "Preserves the oral history and laws of the Mali Empire",
+        "Famous for its vibrant traditional music and dance culture"
+      ]
+    },
+    {
+      "id": "fana-cities-v2",
+      "descriptionAdvanced": "Fana is a dynamic industrial and agricultural town located in the Koulikoro Region, midway between Bamako and Ségou. It is best known as one of Mali's premier centers for cotton processing, hosting a massive ginning plant operated by the CMDT. The town's economic life is centered on the 'white gold' of the region, which supports thousands of local farmers. Fana is also a major transport hub on the nation's busiest highway, making its markets a focal point for regional trade. Its rapid growth has transformed it from a small village into a bustling urban center, reflecting the industrialization of Mali's southern agricultural belt. Economy K6 — Industrial processing and cotton.",
+      "factsAdvanced": [
+        "One of Mali's largest industrial centers for cotton processing",
+        "Hosts a major CMDT (Compagnie Malienne pour le Développement des Textiles) plant",
+        "Strategic stop on the vital Bamako–Ségou highway",
+        "Key center for the production of grain and livestock",
+        "Known for its rapid urban growth and economic dynamism",
+        "Major market for agricultural supplies and fertilizers",
+        "Vital node in the national cotton export supply chain",
+        "Supports a large population of industrial and farm workers"
+      ]
+    },
+    {
+      "id": "kadiolo-cities-v2",
+      "descriptionAdvanced": "Kadiolo is a strategic border town in the extreme south of Mali, situated in the Sikasso Region near the boundaries with Ivory Coast and Burkina Faso. Due to its high rainfall and fertile soils, it is one of the most productive agricultural districts in the country, specializing in cotton, maize, and tropical fruits. Kadiolo serves as a vital gateway for regional trade and migration, with a bustling marketplace that reflects its multi-ethnic and international character. The town is also a cultural hub where Senufo and Bambara traditions meet. Its position on the southern trade routes makes it an essential node for Mali's integration into the West African economy. Geography K7 — Cross-border trade and tropical agriculture.",
+      "factsAdvanced": [
+        "Located in the fertile 'Three Borders' region of southern Mali",
+        "Major producer of cotton, maize, and tropical fruits (mangoes, cashews)",
+        "Strategic international gateway to Ivory Coast and Burkina Faso",
+        "Administrative capital of the productive Kadiolo Cercle",
+        "Known for its humid Sudano-Guinean climate and lush greenery",
+        "Vibrant commercial hub for cross-border transit and trade",
+        "Center for Senufo and Bambara cultural exchange",
+        "Home to one of the busiest regional markets in southern Mali"
+      ]
+    },
+    {
+      "id": "yanfolila-cities-v2",
+      "descriptionAdvanced": "Yanfolila is a picturesque town in southern Mali, located in the Sikasso Region near the Selingue Dam and the border with Guinea. It is the heart of the Wassoulou region, world-famous for its unique musical style and traditional hunters' culture. The area is exceptionally fertile, supporting a diverse range of crops including cotton, citrus, and mangoes. Yanfolila is also a growing mining center with several industrial and artisanal gold mines in the vicinity. The town's proximity to the Sankarani River and its lush, hilly terrain make it a center for both agriculture and emerging eco-tourism. Culture K7 — Wassoulou music and hunters' traditions.",
+      "factsAdvanced": [
+        "Cultural capital of the world-famous Wassoulou music region",
+        "Center for the traditional hunters' brotherhoods (Donzo)",
+        "Emerging hub for industrial gold mining in southern Mali",
+        "Major producer of mangoes, citrus fruits, and cotton",
+        "Located near the scenic Sankarani River and Selingue Lake",
+        "Administrative capital of the fertile Yanfolila Cercle",
+        "Known for its lush, forested hills and diverse wildlife",
+        "Strategic gateway for trade with the Republic of Guinea"
+      ]
+    },
+    {
+      "id": "yorosso-cities-v2",
+      "descriptionAdvanced": "Yorosso is a significant agricultural town in the Sikasso Region, located near the border with Burkina Faso. It is situated in the heart of Mali's 'cotton belt,' where the fertile plains support intensive cultivation of cotton, maize, and millet. Yorosso serves as an important administrative and commercial center, facilitating trade between the farmers of southern Mali and the markets of Burkina Faso. The town's population is primarily composed of the Minianka and Bambara ethnic groups, known for their rich agricultural traditions and complex social structures. Yorosso's economic vitality is closely tied to the seasonal cycles of the cotton harvest. Economy K6 — The cotton belt and cross-border trade.",
+      "factsAdvanced": [
+        "Major hub in Mali's highly productive cotton-growing belt",
+        "Strategically located near the border with Burkina Faso",
+        "Administrative capital of the agricultural Yorosso Cercle",
+        "Center for the Minianka ethnic group's culture and traditions",
+        "Key producer of maize, millet, and sorghum for the region",
+        "Vibrant market town for agricultural goods and livestock",
+        "Connected to the regional transport network of southern Mali",
+        "Supports several cotton processing and storage facilities"
+      ]
+    },
+    {
+      "id": "bla-cities-v2",
+      "descriptionAdvanced": "Bla is a vital crossroads town in the Ségou Region, strategically located at the intersection of the highways connecting Bamako, Mopti, and Sikasso. This 'Golden Triangle' position has made Bla one of the most important transport and logistics hubs in Mali. The town is surrounded by a highly productive agricultural region known for its cotton and grain production, particularly millet and sorghum. Bla's markets are exceptionally busy, serving as a primary collection point for goods being moved across the country. Its rapid development reflects its role as a bridge between the industrial south and the commercial north of Mali. Geography K7 — Transport hubs and the Golden Triangle.",
+      "factsAdvanced": [
+        "Critical highway junction connecting southern and northern Mali",
+        "Located in the 'Golden Triangle' of Bamako, Mopti, and Sikasso",
+        "Major center for the cotton and grain trade in Ségou",
+        "Administrative capital of the dynamic Bla Cercle",
+        "Strategic logistics stop for long-distance trucks and buses",
+        "Home to one of the largest regional markets in central Mali",
+        "Key node in the national agricultural distribution network",
+        "Known for its rapid urban and commercial expansion"
+      ]
+    },
+    {
+      "id": "tominian-cities-v2",
+      "descriptionAdvanced": "Tominian is an important town in the Ségou Region, located in the heart of the Bobo (Bwa) ethnic territory near the Burkina Faso border. It is a major agricultural center specializing in the production of millet, fonio, and peanuts. Tominian is also culturally significant as a center for the Bobo people, renowned for their intricate mask-making and unique musical traditions. The town serves as an administrative capital for a region that blends Sahelian agriculture with rich cultural heritage. Its proximity to the international border makes it a significant node for local trade and cultural exchange between Mali and Burkina Faso. Culture K7 — Bobo traditions and Sahelian crops.",
+      "factsAdvanced": [
+        "Cultural center for the Bobo (Bwa) ethnic group in Mali",
+        "Major producer of millet, peanuts, and traditional fonio grain",
+        "Located near the international border with Burkina Faso",
+        "Administrative capital of the agricultural Tominian Cercle",
+        "Renowned for traditional mask festivals and Bobo music",
+        "Key market for regional agricultural products and livestock",
+        "Features a mix of traditional and modern Sahelian architecture",
+        "Important center for rural development and education"
+      ]
+    },
+    {
+      "id": "bankass-cities-v2",
+      "descriptionAdvanced": "Bankass is a historic town in central Mali, situated at the base of the Bandiagara Escarpment in the Gondo Plain. It is a vital gateway to the Dogon Country and a major center for the Dogon and Fulani peoples. Bankass is famous for its vibrant weekly market, which is one of the largest in the region, attracting traders from across central Mali and northern Burkina Faso. The town's economy is centered on onion production, livestock trade, and agriculture. Architecturally, it features a magnificent Great Mosque built in the traditional Sudano-Sahelian style, reflecting the town's religious and cultural importance in the Mopti Region. Geography K7 — The Dogon Country and the Gondo Plain.",
+      "factsAdvanced": [
+        "Strategic gateway to the southern Dogon Country",
+        "Home to a spectacular Sudano-Sahelian Great Mosque",
+        "Hosts one of central Mali's largest weekly livestock markets",
+        "Major regional center for onion and grain production",
+        "Located on the sandy Gondo Plain below the cliff",
+        "Administrative capital of the historic Bankass Cercle",
+        "Cultural meeting point for the Dogon and Fulani peoples",
+        "Strategically located on the road to Burkina Faso"
+      ]
+    },
+    {
+      "id": "koro-cities-v2",
+      "descriptionAdvanced": "Koro is a strategic border town in central Mali, located in the Mopti Region on the main road to Burkina Faso. Situated at the southern edge of the Dogon Country, it serves as a critical commercial and administrative hub for the Gondo Plain. Koro is particularly known for its diverse agricultural output, including millet, onions, and livestock. The town's vibrant international market is a major node for trade between Mali and its southern neighbor, making it an essential point for regional integration. Koro's population is a blend of Dogon, Fulani, and Samogo peoples, creating a rich cultural environment centered on trade and agriculture. Geography K7 — International trade and the Gondo Plain.",
+      "factsAdvanced": [
+        "Last major Malian town on the highway to Burkina Faso",
+        "Strategic commercial hub for the southern Gondo Plain",
+        "Major center for livestock trade and agricultural export",
+        "Administrative capital of the productive Koro Cercle",
+        "Cultural crossroads for Dogon, Fulani, and Samogo peoples",
+        "Key producer of millet, sorghum, and dry-season onions",
+        "Located in the semi-arid transition zone of the Sahel",
+        "Vital stop for international bus and truck traffic"
+      ]
+    },
+    {
+      "id": "douentza-cities-v2",
+      "descriptionAdvanced": "Douentza is a strategic and picturesque town in central Mali, located at the junction of the Niger River valley and the Gourma desert region. It is famously situated at the foot of the dramatic Dyoundé mountains, which provide a stunning backdrop to the city. Douentza is a vital transport node on the 'Route du Poisson' (Fish Road) connecting Mopti to Gao. The town is a major center for the Fulani (Peul) and Dogon peoples, serving as a hub for livestock trade and desert commerce. It is also well-known for being near the migration routes of Mali's unique desert elephants. Geography K7 — Desert mountains and transport routes.",
+      "factsAdvanced": [
+        "Strategic junction between the Niger valley and the Gourma",
+        "Located at the foot of the scenic Dyoundé mountain range",
+        "Key logistics stop on the main highway to Gao",
+        "Major center for Fulani livestock trade and herding",
+        "Known for its proximity to the Gourma desert elephant habitat",
+        "Administrative capital of the historic Douentza Cercle",
+        "Features a mix of traditional mud-brick and stone architecture",
+        "Important cultural bridge between central and northern Mali"
+      ]
+    },
+    {
+      "id": "tenenkou-cities-v2",
+      "descriptionAdvanced": "Ténenkou is a historic and strategic town located in the heart of the Inner Niger Delta in central Mali. It is a major center for the Fulani (Peul) people and was historically a key province of the Massina Empire. The town's economy is intimately tied to the seasonal flooding of the Niger, which supports vast pastures for livestock and productive rice fields. Ténenkou is also renowned for its traditional Sudano-Sahelian architecture, most notably its beautiful Great Mosque. Access to the town is often limited to river transport or dyke-roads during the flood season, highlighting its unique position within Mali's 'internal sea.' History K8 — The Inner Niger Delta and Fulani culture.",
+      "factsAdvanced": [
+        "Major center for Fulani culture in the Inner Niger Delta",
+        "Historical province of the 19th-century Massina Empire",
+        "Economy is based on transhumant herding and rice farming",
+        "Home to a magnificent traditional Sudano-Sahelian mosque",
+        "Located in one of Africa's most important wetland regions",
+        "Administrative capital of the strategic Ténenkou Cercle",
+        "Frequently accessible only by water during the flood season",
+        "Known for its high-quality traditional hand-woven textiles"
+      ]
+    },
+    {
+      "id": "youwarou-cities-v2",
+      "descriptionAdvanced": "Youwarou is a remote and culturally rich town located in the northern reaches of the Inner Niger Delta, near Lake Débo. It is a vital administrative and commercial center for the water-bound communities of the Mopti Region. Youwarou's life is defined by the rhythm of the Niger River, with its economy centered on fishing, rice cultivation, and livestock herding. The town is primarily inhabited by the Bozo and Fulani peoples, whose traditional lifestyles are perfectly adapted to the seasonal floods. Youwarou is also a significant site for biodiversity, serving as a gateway to the vast wetlands that host millions of migratory birds. Geography K7 — Wetlands and the Inner Niger Delta.",
+      "factsAdvanced": [
+        "Strategically located near Lake Débo in the Inner Niger Delta",
+        "Major center for the Bozo fishing and Fulani herding communities",
+        "Economy is based on fishing, rice, and seasonal pastures",
+        "Administrative capital of the remote Youwarou Cercle",
+        "Key gateway to some of West Africa's most important wetlands",
+        "Accessible primarily by riverboat (pinasse) for most of the year",
+        "Home to diverse wildlife and millions of migratory birds",
+        "Features traditional mud-brick architecture adapted to the delta"
+      ]
+    },
+    {
+      "id": "niafunke-cities-v2",
+      "descriptionAdvanced": "Niafunké is a world-famous town in northern Mali, situated on the Niger River between Mopti and Timbuktu. It gained international renown as the home of the legendary musician Ali Farka Touré, who served as the town's mayor. Niafunké is a vital agricultural and commercial hub for the region, where the river's floodwaters support rice and tobacco farming in an arid landscape. The town is a cultural crossroads for the Songhai, Fulani, and Tuareg peoples, and its river port is a busy terminal for the transit of goods across the north. It remains a symbol of Mali's rich musical heritage and its agricultural resilience. Culture K7 — Desert blues and river agriculture.",
+      "factsAdvanced": [
+        "Home and burial place of the legendary musician Ali Farka Touré",
+        "Major river port on the route between Mopti and Timbuktu",
+        "Strategic center for rice and tobacco production in the north",
+        "Administrative capital of the historic Niafunké Cercle",
+        "Cultural hub for the Songhai, Fulani, and Tuareg peoples",
+        "Hosts the annual 'Niafunké Cultural Festival' in honor of its music",
+        "Located in the transition zone between the Delta and the Sahara",
+        "Famous for its traditional leatherwork and desert crafts"
+      ]
+    },
+    {
+      "id": "gourma-rharous-cities-v2",
+      "descriptionAdvanced": "Gourma-Rharous is a strategic town in northern Mali, located on the right bank of the Niger River at the gateway to the Gourma desert region. It is an important administrative and commercial center for nomadic and semi-nomadic communities, particularly the Tuareg and Peul. The town's economy is centered on livestock herding and river-based trade, serving as a vital node for caravans crossing the desert. Gourma-Rharous is also known for its proximity to the Gourma elephant sanctuary, where Africa's most northerly elephant population resides. It is a city of resilience, bridging the life of the river with the vastness of the Sahara. Geography K7 — Desert terminals and nomadic livestock.",
+      "factsAdvanced": [
+        "Administrative capital of the vast Gourma-Rharous Cercle",
+        "Strategically located on the southern banks of the Niger River",
+        "Major center for Tuareg and Fulani nomadic livestock trade",
+        "Key gateway to the Gourma desert elephant sanctuary",
+        "Important terminal for riverboat traffic and desert caravans",
+        "Located in the arid transition zone between the river and Sahara",
+        "Known for its traditional desert crafts and leatherwork",
+        "Historical point of contact between sedentary and nomadic cultures"
+      ]
+    }
+  ]
+}

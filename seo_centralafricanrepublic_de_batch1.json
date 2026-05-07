@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "centralafricanrepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLifeV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicNatureV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangui-cities-v2",
+      "descriptionAdvanced": "Bangui, am Nordufer des Ubangi gelegen, ist das Herz der Zentralafrikanischen Republik. Die Stadt wurde 1889 von den Franzosen als Militärposten gegründet. Heute ist sie ein zentraler Umschlagplatz für den Binnenhandel des Landes. Fällt die Ubangi-Quelle in den Bergen, schwillt der Fluss bei Bangui an und ermöglicht den Warenverkehr bis zum Kongo. Bangui verbindet koloniale Geschichte mit einer lebendigen, afrikanischen Handelsstruktur. Geografie K7 – Flusssysteme und wirtschaftliche Zentren.",
+      "factsAdvanced": [
+        "Geografische Lage: ca. 340 m über dem Meeresspiegel.",
+        "Gründung: 1889 als 'Bangui' französischer Posten.",
+        "Wichtigster Hafen für Binnenschifffahrt.",
+        "Bevölkerungszentrum mit über 800.000 Einwohnern.",
+        "Verbindung zum Kongo-Flusssystem.",
+        "Temperaturen ganzjährig zwischen 20 °C und 35 °C."
+      ]
+    },
+    {
+      "id": "bimbo-cities-v2",
+      "descriptionAdvanced": "Bimbo liegt strategisch günstig südwestlich der Hauptstadt Bangui und dient als wichtiges wirtschaftliches Einzugsgebiet. Als Zentrum der Präfektur Ombella-M'Poko profitiert die Stadt von der unmittelbaren Nähe zum Regierungssitz und der zentralen Verkehrsanbindung. Bimbo hat sich in den letzten Jahrzehnten schnell von einer kleineren Siedlung zu einer urbanen Drehscheibe entwickelt, die vor allem durch lokale Handelsaktivitäten geprägt ist. Erdkunde K7 – Urbanisierung in Zentralafrika.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt der Zentralafrikanischen Republik.",
+        "Hauptstadt der Präfektur Ombella-M'Poko.",
+        "Dichte Besiedlung durch Nähe zu Bangui.",
+        "Wichtiger Standort für den Regionalhandel.",
+        "Klima: tropisch mit ausgeprägter Regenzeit.",
+        "Wichtiger Verkehrsknotenpunkt für die Region Südwest."
+      ]
+    },
+    {
+      "id": "berberati-cities-v2",
+      "descriptionAdvanced": "Berbérati ist die drittgrößte Stadt des Landes und ein wirtschaftlich bedeutender Knotenpunkt in der Region Mambéré-Kadéï. Sie ist bekannt für den Handel mit Diamanten und landwirtschaftlichen Produkten. Die Geschichte der Stadt ist eng mit dem Kolonialismus und der Entwicklung des Handelsnetzwerkes im Südwesten verknüpft. Heute ist sie ein Schmelztiegel verschiedener ethnischer Gruppen, die die wirtschaftliche Dynamik des Zentrums bestimmen. Erdkunde K7 – Rohstoffabbau und lokaler Handel.",
+      "factsAdvanced": [
+        "Zentrum der Diamantenindustrie in Zentralafrika.",
+        "Hauptstadt der Präfektur Mambéré-Kadéï.",
+        "Wichtiger Stützpunkt für die holzverarbeitende Industrie.",
+        "Verkehrsanbindung durch das nationale Straßennetz.",
+        "Geografische Lage: Region Südwest des Landes.",
+        "Sitz eines katholischen Bistums seit 1952."
+      ]
+    },
+    {
+      "id": "carnot-cities-v2",
+      "descriptionAdvanced": "Carnot liegt in der Nähe von Berbérati in der Präfektur Mambéré-Kadéï und spielt eine entscheidende Rolle in der Rohstoffwirtschaft der Zentralafrikanischen Republik. Benannt nach dem französischen Ingenieur Sadi Carnot, war die Stadt schon früh ein Zentrum der industriellen Erschließung durch die Kolonialmächte. Ihre Wirtschaft stützt sich auf den Bergbau und den Abbau von Bodenschätzen. Geografie K7 – Geologie und Bodenschätze Afrikas.",
+      "factsAdvanced": [
+        "Bekannt für den Abbau von Industriediamanten.",
+        "Lage an der Handelsroute nach Kamerun.",
+        "Historisch durch Bergbau geprägte Entwicklung.",
+        "Wichtige Stadt der Präfektur Mambéré-Kadéï.",
+        "Klima: tropisches Savannenklima.",
+        "Wachstum durch informellen Rohstoffhandel."
+      ]
+    },
+    {
+      "id": "bambari-cities-v2",
+      "descriptionAdvanced": "Bambari liegt am Ufer des Ouaka-Flusses und fungiert als unverzichtbarer Handelsknoten im Zentrum der Zentralafrikanischen Republik. Als Hauptstadt der Präfektur Ouaka war Bambari schon vor Jahrzehnten ein bedeutender Markt für landwirtschaftliche Erzeugnisse wie Baumwolle und Kaffee. Die Stadt ist ein symbolträchtiger Ort für die Zentralregion, da sie klimatische Vorteile für den Anbau tropischer Früchte bietet. Erdkunde K7 – Agrarregionen und Flusswirtschaft.",
+      "factsAdvanced": [
+        "Gelegen an der Ouaka, einem Nebenfluss der Ubangi.",
+        "Hauptstadt der Präfektur Ouaka.",
+        "Zentrum für den Baumwollhandel des Landes.",
+        "Verkehrsknotenpunkt zwischen Nord und Süd.",
+        "Bevölkerung besteht aus mehreren ethnischen Gruppen.",
+        "Klima: ganzjährig feucht-tropisch."
+      ]
+    },
+    {
+      "id": "bouar-cities-v2",
+      "descriptionAdvanced": "Bouar, gelegen im Nordwesten der Zentralafrikanischen Republik, ist die Hauptstadt der Präfektur Nana-Mambéré. Die Stadt ist bekannt für ihre prähistorischen Megalithanlagen, die als monumentale Steinmonolithen in der Landschaft ragen und touristisches sowie historisches Interesse wecken. Geografisch liegt sie auf einem Plateau, was ihr ein milderes Klima als in den Tieflandgebieten verleiht. Geschichte K5 – Megalithkulturen und Altertum.",
+      "factsAdvanced": [
+        "Berühmt für die Megalith-Anlagen (Steinkreise).",
+        "Hauptstadt der Präfektur Nana-Mambéré.",
+        "Höhere Lage: Plateau der Mambéré-Region.",
+        "Wichtiger Militärstützpunkt in der Geschichte.",
+        "Handelsstadt an der Route nach Kamerun.",
+        "Entwicklung des lokalen Kleingewerbes."
+      ]
+    },
+    {
+      "id": "bossangoa-cities-v2",
+      "descriptionAdvanced": "Bossangoa ist eine zentrale Stadt in der Präfektur Ouham und dient als wirtschaftliches Zentrum des agrarisch geprägten Nordwestens. Sie liegt am Fluss Ouham, der die Region fruchtbar macht und eine wichtige Wasserquelle darstellt. Die Stadt hat eine bedeutende Rolle im Baumwoll- und Kaffeeanbau gespielt, was sie zu einem historischen Stützpunkt für die koloniale Landwirtschaft machte. Erdkunde K7 – Agrarsysteme in den Tropen.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Ouham.",
+        "Wichtiger Produzent von Baumwolle und Kaffee.",
+        "Gelegen an der Ouham-Flusslandschaft.",
+        "Kulturelles Zentrum der Gbaya-Bevölkerung.",
+        "Wichtig für den regionalen Getreidehandel.",
+        "Tropisches Klima mit ausgeprägter Regenzeit."
+      ]
+    },
+    {
+      "id": "bria-cities-v2",
+      "descriptionAdvanced": "Bria liegt im Osten der Zentralafrikanischen Republik und fungiert als Hauptstadt der Präfektur Haute-Kotto. Die Region um Bria is reich an Diamantvorkommen, was die wirtschaftliche Bedeutung der Stadt seit ihrer Entdeckung des Rohstoffabbaus geprägt hat. Bria ist ein isolierter, aber wichtiger Außenposten für den Diamantenhandel und die damit verbundene wirtschaftliche Infrastruktur im Landesinneren. Erdkunde K7 – Rohstoffabbau in abgelegenen Gebieten.",
+      "factsAdvanced": [
+        "Zentrum der Diamantenproduktion in Haute-Kotto.",
+        "Hauptstadt der Präfektur Haute-Kotto.",
+        "Wichtige Stadt im Osten des Landes.",
+        "Bedeutung durch den Bergbausektor.",
+        "Klima: tropische Feuchtsavanne.",
+        "Infrastrukturell schwierig erreichbare Lage."
+      ]
+    },
+    {
+      "id": "bangassou-cities-v2",
+      "descriptionAdvanced": "Bangassou liegt am Mbomou-Fluss an der Grenze zur Demokratischen Republik Kongo und dient als administratives Zentrum der Präfektur Mbomou. Die Stadt ist ein wichtiger Knotenpunkt für den Handel zwischen beiden Ländern und nutzt den Mbomou-Fluss als Transportweg. Bangassou ist bekannt für seine natürliche Lage in einer Region, die durch dichte Wälder und Flusslandschaften geprägt ist. Erdkunde K7 – Grenzregionen und Flusshandel.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Mbomou.",
+        "Grenzübergang zur Demokratischen Republik Kongo.",
+        "Gelegen am Mbomou-Flusslauf.",
+        "Zentrum der tropischen Holzindustrie.",
+        "Kultureller Schmelztiegel am Grenzfluss.",
+        "Tropisches Klima with hoher Luftfeuchtigkeit."
+      ]
+    },
+    {
+      "id": "nola-cities-v2",
+      "descriptionAdvanced": "Nola befindet sich im Südwesten der Zentralafrikanischen Republik und ist die Hauptstadt der Präfektur Sangha-Mbaéré. Die Stadt ist ein Zentrum der Forstwirtschaft und des Diamantenhandels, da sie in einer dicht bewaldeten Region liegt. Durch ihre Lage nahe der Grenze zu Kamerun und der Republik Kongo hat Nola eine besondere strategische Bedeutung für den Handel in der Region Sangha. Erdkunde K7 – Forstwirtschaft und nachhaltige Landnutzung.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Sangha-Mbaéré.",
+        "Wichtig für die lokale Holzindustrie.",
+        "Handelsposten für Diamanten.",
+        "Geografisch in einer dicht bewaldeten Zone.",
+        "Strategische Grenzregion nahe Kamerun.",
+        "Tropisches Klima des Kongobeckens."
+      ]
+    },
+    {
+      "id": "mbaiki-cities-v2",
+      "descriptionAdvanced": "Mbaiki, Hauptstadt der Präfektur Lobaye, ist ein wichtiges Zentrum der Kaffee- und Holzproduktion südwestlich der Hauptstadt Bangui. Die Region Lobaye ist für ihre üppige Vegetation und den Regenwald bekannt, der den wirtschaftlichen Fokus der Stadt auf Agrar- und Forstwirtschaft legt. Mbaiki dient als lokaler Handelsplatz für die umliegenden Dörfer und ist ein wichtiger Akteur in der landwirtschaftlichen Exportwirtschaft des Landes. Erdkunde K7 – Agrarwirtschaft im Regenwald.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Lobaye.",
+        "Zentrum des Kaffeeanbaus.",
+        "Wichtiger Standort für Tropenholz.",
+        "Gelegen in der Region des tropischen Regenwaldes.",
+        "Regionaler Markt für landwirtschaftliche Produkte.",
+        "Klima: ganzjährig feucht und warm."
+      ]
+    },
+    {
+      "id": "kaga-bandoro-cities-v2",
+      "descriptionAdvanced": "Kaga-Bandoro ist die Hauptstadt der Präfektur Nana-Gribizi und ein bedeutender Handelsort in der nördlichen Zentralregion. Die Stadt liegt verkehrsgünstig an den Verbindungsstraßen zwischen Bangui und dem Norden des Landes. Als lokales Marktzentrum ist Kaga-Bandoro von entscheidender Bedeutung für den Austausch von Waren zwischen den agrarischen Gebieten des Nordens und den urbanen Märkten im Süden. Erdkunde K7 – Verkehrsknotenpunkte und Regionalmärkte.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Nana-Gribizi.",
+        "Wichtiger Verkehrsknotenpunkt für Zentral-Nord.",
+        "Marktplatz für regionale Agrarprodukte.",
+        "Handelsstadt an der Route Richtung Bangui.",
+        "Tropisches Savannenklima.",
+        "Wichtiger Ort für den Vieh- und Getreidehandel."
+      ]
+    },
+    {
+      "id": "sibut-cities-v2",
+      "descriptionAdvanced": "Sibut ist eine bedeutende Stadt in der Präfektur Kémo, die eine zentrale Lage auf der Verkehrsachse nach Bangui einnimmt. Als administratives Zentrum spielt Sibut eine Schlüsselrolle bei der Verwaltung der Region und der Organisation des lokalen Handels. Die Stadt ist vor allem als Durchgangsstation bekannt, die den Warenfluss aus den nördlichen Präfekturen in Richtung der Hauptstadt koordiniert. Erdkunde K7 – Zentralorte und Infrastruktur.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Kémo.",
+        "Zentrale Lage an der Verkehrsachse nach Bangui.",
+        "Administratives Zentrum der Kémo-Region.",
+        "Handelsplatz für regionale Agrargüter.",
+        "Tropisches Klima der zentralen Savanne.",
+        "Verbindungspunkt für nördliche Provinzen."
+      ]
+    },
+    {
+      "id": "bozoum-cities-v2",
+      "descriptionAdvanced": "Bozoum, die Hauptstadt der Präfektur Ouham-Pendé, liegt strategisch im Nordwesten der Zentralafrikanischen Republik. Die Region ist von einer vielfältigen Hügellandschaft geprägt, die den Ackerbau begünstigt. Bozoum dient als lokales Handels- und Verwaltungszentrum, das die landwirtschaftliche Produktion der Region koordiniert. Die Stadt ist eng mit der Geschichte der dort lebenden Gbaya-Bevölkerung verknüpft. Erdkunde K7 – Regionalwirtschaft und Verwaltung.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Ouham-Pendé.",
+        "Regionaler Handelsplatz im Nordwesten.",
+        "Zentrum der agrarischen Verwaltung.",
+        "Kulturelles Zentrum der Gbaya-Region.",
+        "Geografisch in einer Hügellandschaft.",
+        "Klima: Übergang zur tropischen Savanne."
+      ]
+    },
+    {
+      "id": "ndele-cities-v2",
+      "descriptionAdvanced": "N'Délé ist die Hauptstadt der Präfektur Bamingui-Bangoran im Norden der Zentralafrikanischen Republik. Die Stadt liegt in einer Region, die für ihre Nationalparks und eine reiche Tierwelt bekannt ist. Als Verwaltungszentrum ist N'Délé von Bedeutung für die Überwachung und den Schutz der umliegenden Naturgebiete, während sie gleichzeitig als lokaler Handelsknotenpunkt für den Norden fungiert. Erdkunde K7 – Naturschutz und Nationalparks.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Bamingui-Bangoran.",
+        "Nähe zu großen Nationalparks.",
+        "Zentrum für die Verwaltung der Nordregion.",
+        "Handelsplatz für den entlegenen Norden.",
+        "Klima: tropisches Savannenklima.",
+        "Wichtiger Standort für ökologische Studien."
+      ]
+    },
+    {
+      "id": "birao-cities-v2",
+      "descriptionAdvanced": "Birao liegt im äußersten Nordosten der Zentralafrikanischen Republik und ist die Hauptstadt der Präfektur Vakaga. Aufgrund ihrer isolierten Lage nahe der Grenze zum Sudan ist die Stadt ein wichtiger Vorposten für die staatliche Verwaltung und den regionalen Handel im extremen Norden. Die Region ist geprägt von einer trockeneren Savannenlandschaft, die sich stark von den üppigen Regenwäldern des Südens unterscheidet. Erdkunde K7 – Klimazonen und Grenzgebiete.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Vakaga.",
+        "Nördlichster Punkt der staatlichen Verwaltung.",
+        "Grenznähe zum Sudan.",
+        "Lage in trockenerer Savannenlandschaft.",
+        "Isolierte geografische Position.",
+        "Wichtiger Ort für grenzüberschreitenden Handel."
+      ]
+    },
+    {
+      "id": "mobaye-cities-v2",
+      "descriptionAdvanced": "Mobaye liegt am Ufer des Ubangi-Flusses im Südosten des Landes und dient als wichtiges Zentrum der Präfektur Basse-Kotto. Der Fluss dient hier sowohl als Transportweg für Waren als auch als natürliche Grenze zum Nachbarstaat. Mobaye war historisch ein bedeutender Stützpunkt für den Handel entlang des Ubangi und bleibt bis heute ein wichtiger lokaler Markt für Fischer und Händler der Region. Erdkunde K7 – Flusslauf-Städte und Grenzhandel.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Basse-Kotto.",
+        "Wichtiger Binnenhafen am Ubangi.",
+        "Grenze zur Demokratischen Republik Kongo.",
+        "Zentrum für den Fischereihandel am Fluss.",
+        "Klima: feucht-tropisches Flussklima.",
+        "Historisch bedeutsame Handelsstation."
+      ]
+    },
+    {
+      "id": "obo-cities-v2",
+      "descriptionAdvanced": "Obo befindet sich im äußersten Südosten der Zentralafrikanischen Republik und ist die Hauptstadt der Präfektur Haut-Mbomou. Die Stadt ist von weiten Savannen und Wäldern umgeben und aufgrund ihrer Abgeschiedenheit ein wichtiger Außenposten für die Verwaltung im Südosten. Obo fungiert zudem als Drehkreuz für die Kommunikation und den lokalen Warenaustausch in einem weiten, dünn besiedelten Gebiet nahe der Grenze zum Südsudan und zur DR Kongo. Erdkunde K7 – Peripherie und Grenzgebiete.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Haut-Mbomou.",
+        "Abgelegene Lage im Südosten.",
+        "Wichtiger administrativer Stützpunkt.",
+        "Grenzgebiet zu Südsudan und DR Kongo.",
+        "Region der ausgedehnten Savannen.",
+        "Wichtiger Ort für regionale Kommunikation."
+      ]
+    },
+    {
+      "id": "paoua-cities-v2",
+      "descriptionAdvanced": "Paoua ist die Hauptstadt der Präfektur Lim-Pendé im Nordwesten der Zentralafrikanischen Republik. Die Stadt dient als Zentrum für die landwirtschaftliche Produktion in einer Region, die für den Anbau von Getreide und Baumwolle bekannt ist. Als Verwaltungszentrum koordiniert Paoua die wirtschaftlichen Aktivitäten des Nordwestens und ist ein bedeutender Marktort für die lokale Bevölkerung, die vor allem von der kleinbäuerlichen Landwirtschaft lebt. Erdkunde K7 – Agrarregionen und Verwaltung.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur Lim-Pendé.",
+        "Zentrum des Getreideanbaus.",
+        "Wichtiger Ort für den regionalen Handel.",
+        "Verwaltungszentrum für den Nordwesten.",
+        "Klima: tropische Feuchtsavanne.",
+        "Standort für lokale Agrarmärkte."
+      ]
+    },
+    {
+      "id": "batangafo-cities-v2",
+      "descriptionAdvanced": "Batangafo liegt am Ufer des Ouham-Flusses in der Präfektur Ouham und ist ein bedeutender Ort im Norden des Landes. Die Lage am Fluss macht die Region besonders fruchtbar und begünstigt den Anbau von Feldfrüchten, die den lokalen Markt versorgen. Batangafo spielt eine wichtige Rolle bei der Verbindung der nördlichen Präfekturen mit dem Zentrum des Landes und dient als administrativer Ankerpunkt für die Region. Erdkunde K7 – Flusssysteme und regionale Versorgung.",
+      "factsAdvanced": [
+        "Wichtige Stadt an der Ouham-Flusslandschaft.",
+        "Gelegen in der Präfektur Ouham.",
+        "Versorgungszentrum für umliegende Dörfer.",
+        "Durchgangsstation für den Handel nach Norden.",
+        "Klima: tropisch-feucht.",
+        "Zentrum für lokalen Getreidehandel."
+      ]
+    },
+    {
+      "id": "bossembele-cities-v2",
+      "descriptionAdvanced": "Bossembélé ist eine strategisch wichtige Stadt im Südwesten der Zentralafrikanischen Republik, gelegen an der Hauptverkehrsachse von Bangui nach Kamerun. Aufgrund ihrer Lage ist die Stadt ein zentraler Anlaufpunkt für den Transit von Waren und Reisenden, was ihre Bedeutung als lokales Handelszentrum unterstreicht. Bossembélé dient als wichtiger Verbindungspunkt für den wirtschaftlichen Austausch und ist ein wesentlicher Bestandteil des nationalen Logistiknetzes. Erdkunde K7 – Infrastruktur und Logistikknotenpunkte.",
+      "factsAdvanced": [
+        "Wichtiger Logistikknotenpunkt im Südwesten.",
+        "Lage an der Hauptroute nach Kamerun.",
+        "Zentrum für den regionalen Warenhandel.",
+        "Transitstadt zwischen Bangui und dem Westen.",
+        "Klima: tropische Savanne.",
+        "Wichtiger Ort für den Straßenverkehr."
+      ]
+    },
+    {
+      "id": "yaloke-cities-v2",
+      "descriptionAdvanced": "Yaloké liegt westlich der Hauptstadt Bangui und ist bekannt für seine bedeutenden Diamantenminen und als wichtiger Ort für die regionale Wirtschaft der Präfektur Ombella-M'Poko. Der Abbau von Rohstoffen ist eine Hauptbeschäftigung der lokalen Bevölkerung, wobei der Ort sowohl kleine als auch größere Bergbauaktivitäten beherbergt. Die strategische Lage macht Yaloké zudem zu einem Bindeglied für den Handel zwischen der Hauptstadt und den westlichen Regionen. Erdkunde K7 – Rohstoffabbau und Wirtschaft.",
+      "factsAdvanced": [
+        "Bedeutendes Zentrum für den Diamantenabbau.",
+        "Gelegen in der Präfektur Ombella-M'Poko.",
+        "Wichtiger Handelsplatz im Südwesten.",
+        "Standort für den informellen Bergbau.",
+        "Klima: tropisch, feucht-warm.",
+        "Bindeglied für den Handel in den Westen."
+      ]
+    },
+    {
+      "id": "bouca-cities-v2",
+      "descriptionAdvanced": "Bouca liegt im Norden der Zentralafrikanischen Republik in der Präfektur Ouham. Die Stadt dient als lokaler Mittelpunkt für die landwirtschaftliche Produktion und den Austausch von Waren in einer Region, die durch ihre weiten Savannen charakterisiert ist. Die Bewohner der Stadt sind stark mit der bäuerlichen Tradition verbunden, und Bouca fungiert als wichtiges Zentrum für die Versorgung der umliegenden ländlichen Gebiete mit notwendigen Gütern und Dienstleistungen. Erdkunde K7 – Landwirtschaftliche Siedlungsmuster.",
+      "factsAdvanced": [
+        "Wichtiger Ort in der Präfektur Ouham.",
+        "Zentrum für den ländlichen Handel.",
+        "Versorgungspunkt für umliegende Agrarflächen.",
+        "Lage in der zentralafrikanischen Savanne.",
+        "Klima: tropisch mit Regenzeit.",
+        "Traditionell geprägte Handelsstrukturen."
+      ]
+    },
+    {
+      "id": "kabo-cities-v2",
+      "descriptionAdvanced": "Kabo liegt im hohen Norden der Zentralafrikanischen Republik nahe der Grenze zum Tschad und ist ein bedeutender Handelsort der Präfektur Ouham. Die Stadt dient als Transitstation für den grenzüberschreitenden Handel und ist ein wichtiger Umschlagplatz für Waren, die zwischen der Zentralafrikanischen Republik und dem Tschad ausgetauscht werden. Ihre geografische Position in einer Savannenregion macht Kabo zu einem entscheidenden Ort für die regionale wirtschaftliche Integration. Erdkunde K7 – Grenzen und wirtschaftliche Interaktion.",
+      "factsAdvanced": [
+        "Handelsstadt nahe der tschadischen Grenze.",
+        "Gelegen in der Präfektur Ouham.",
+        "Transitpunkt für den grenzüberschreitenden Handel.",
+        "Zentrum für den Vieh- und Gütertausch.",
+        "Klima: trocken-tropische Savanne.",
+        "Wichtiger Ort für den nordregionalen Markt."
+      ]
+    },
+    {
+      "id": "bocaranga-cities-v2",
+      "descriptionAdvanced": "Bocaranga ist eine bedeutende Stadt im Nordwesten des Landes, gelegen in der Präfektur Ouham-Pendé. Die Stadt ist bekannt als Zentrum für den Getreideanbau und ist ein wichtiger Knotenpunkt für den Handel in einer Region, die für ihre fruchtbaren Böden und günstigen klimatischen Bedingungen geschätzt wird. Als administrativer Stützpunkt spielt Bocaranga eine zentrale Rolle bei der Organisation des wirtschaftlichen Lebens in einer der wichtigsten Agrarpräfekturen der Zentralafrikanischen Republik. Erdkunde K7 – Agrarstrukturen in Zentralafrika.",
+      "factsAdvanced": [
+        "Zentrum für Getreideanbau im Nordwesten.",
+        "Hauptstadt-ähnliche Funktion für Ouham-Pendé.",
+        "Marktplatz für regionale Agrarprodukte.",
+        "Wichtiger Ort für die lokale Verwaltung.",
+        "Geografisch in einer fruchtbaren Hügelzone.",
+        "Klima: Übergangssavanne."
+      ]
+    }
+  ]
+}

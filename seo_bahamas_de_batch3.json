@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cephas-cities-v2",
+      "descriptionAdvanced": "Cephas ist eine kleine, malerische Siedlung auf Little Exuma, die tief in der Geschichte der Insel verwurzelt ist. Der Ort ist bekannt für seine Ruhe und die enge Verbundenheit seiner Bewohner mit dem Meer. Die Architektur ist schlicht und zweckmäßig, wobei die Häuser oft in traditionellen bahamaischen Farben gestrichen sind. In der Umgebung finden sich üppige Gärten, in denen lokale Früchte und Gemüse angebaut werden. Cephas bietet einen authentischen Einblick in das Leben auf den kleineren Inseln der Bahamas, wo Gemeinschaft und gegenseitige Hilfe noch großgeschrieben werden. Die nahegelegenen Strände sind unberührt und bieten ideale Bedingungen für einsame Spaziergänge und Naturbeobachtungen.",
+      "factsAdvanced": [
+        "Ruhige Siedlung auf Little Exuma",
+        "Traditionelle bahamaische Architektur und Farbgebung",
+        "Starker Fokus auf lokale Landwirtschaft und Fischerei",
+        "Unberührte Natur und einsame Küstenabschnitte",
+        "Enger Zusammenhalt innerhalb der Gemeinschaft",
+        "Ideal für Ruhe- und Erholungssuchende"
+      ]
+    },
+    {
+      "id": "the-ferry-cities-v2",
+      "descriptionAdvanced": "The Ferry ist eine geschichtsträchtige Siedlung an der schmalen Meerenge zwischen Great Exuma und Little Exuma. Bevor die moderne Ferry Bridge gebaut wurde, war dies der einzige Punkt, an dem Menschen und Waren per Boot zwischen den Inseln transportiert wurden. Heute ist es eine charmante Gemeinde, die für ihre exzellenten Angelplätze und die malerische Aussicht auf das kristallklare Wasser bekannt ist. Die Siedlung hat eine entspannte Atmosphäre und beherbergt einige der besten lokalen Restaurants, die frische Meeresfrüchte servieren. The Ferry ist ein Symbol für die Verbindung der Inseln und bewahrt die Geschichten der Zeit, als der Transport noch mühsamer war.",
+      "factsAdvanced": [
+        "Historischer Verbindungspunkt zwischen Great und Little Exuma",
+        "Benannt nach dem ehemaligen Fährbetrieb vor dem Brückenbau",
+        "Bekannt für erstklassige Angelmöglichkeiten",
+        "Standort beliebter lokaler Fischrestaurants",
+        "Malerische Lage an der Meerenge",
+        "Wichtiger Punkt der lokalen Seefahrtsgeschichte"
+      ]
+    },
+    {
+      "id": "rolletown-cities-v2",
+      "descriptionAdvanced": "Rolletown ist eine bedeutende Siedlung auf Great Exuma, deren Geschichte eng mit der Familie Rolle verknüpft ist. Nach der Emanzipation hinterließ Lord Rolle sein Land seinen ehemaligen Sklaven, die den Namen Rolle annahmen. Heute ist der Ort eine stolze Gemeinde, die dieses Erbe pflegt. Besonders sehenswert sind die historischen Gräber aus der Loyalistenzone, die sich in der Nähe befinden. Rolletown bietet zudem einen fantastischen Blick auf Elizabeth Harbour und die umliegenden Cays. Die Bewohner sind für ihre herzliche Gastfreundschaft und ihre Bewahrung lokaler Traditionen bekannt. Ein Besuch in Rolletown bietet tiefe Einblicke in die soziale und koloniale Geschichte der Bahamas.",
+      "factsAdvanced": [
+        "Historisch bedeutende Siedlung der Familie Rolle",
+        "Gegründet auf Land, das ehemals Versklavten vermacht wurde",
+        "Standort bedeutender Loyalistengräber",
+        "Panoramablick auf den Elizabeth Harbour",
+        "Starkes Bewusstsein für das kulturelle Erbe",
+        "Wichtiger Halt für Geschichtsinteressierte auf Great Exuma"
+      ]
+    },
+    {
+      "id": "hartswell-cities-v2",
+      "descriptionAdvanced": "Hartswell ist eine malerische Gemeinde im Osten von Great Exuma, die für ihre außergewöhnliche natürliche Schönheit bekannt ist. Die Siedlung liegt an einer flachen Bucht, die bei Ebbe weite Sandbänke freigibt – ein Paradies zum Waten und Beobachten von Rochen und Schildkröten. Hartswell ist ein ruhiger Wohnort, der vor allem von Menschen geschätzt wird, die die Stille der Natur suchen. In der Nähe befindet sich die Moriah Harbour Cay National Park, ein geschütztes Gebiet von unermesslichem ökologischem Wert. Die Bewohner von Hartswell sind eng mit dem Meer verbunden und setzen sich aktiv für den Schutz ihrer einzigartigen Küstenumwelt ein. Es ist ein Ort der Kontemplation und der reinen Naturerfahrung.",
+      "factsAdvanced": [
+        "Idyllische Siedlung an einer flachen Lagune",
+        "Direkte Nähe zum Moriah Harbour Cay National Park",
+        "Bekannt für exzellente Naturbeobachtungen bei Ebbe",
+        "Ruhige Wohnatmosphäre abseits der Hauptorte",
+        "Zentrum für ökologisches Bewusstsein auf der Insel",
+        "Ideal zum Kajakfahren und Schnorcheln"
+      ]
+    },
+    {
+      "id": "williamstown-cities-v2",
+      "descriptionAdvanced": "Williamstown ist die südlichste Siedlung auf Little Exuma und markiert den Endpunkt des Queen's Highway. Der Ort ist berühmt für seine historische Salzsäule (Salt Beacon), die einst den Schiffen den Weg zu den Salzpfannen wies. Die Salzgewinnung war im 18. und 19. Jahrhundert die tragende Säule der lokalen Wirtschaft, und die Überreste der riesigen Salzpfannen sind noch heute sichtbar. In Williamstown befinden sich auch die Ruinen der Hermitage-Plantage, die von der loyalistischen Vergangenheit zeugen. Heute ist es eine friedliche Gemeinde mit spektakulären Ausblicken auf den Atlantik. Ein Besuch in Williamstown bietet eine faszinierende Mischung aus Industriegeschichte und natürlicher Schönheit am Rande der Exumas.",
+      "factsAdvanced": [
+        "Südlichster bewohnter Ort auf Little Exuma",
+        "Standort der historischen 9 Meter hohen Salzsäule (Beacon)",
+        "Einstiges Zentrum der bahamaischen Salzindustrie",
+        "Nähe zu den Ruinen der Hermitage-Plantage",
+        "Spektakuläre Klippen und Meeresaussichten",
+        "Endpunkt der Hauptverkehrsstraße der Exumas"
+      ]
+    },
+    {
+      "id": "true-blue-cities-v2",
+      "descriptionAdvanced": "True Blue ist eine charmante Kleinsiedlung auf Crooked Island, die für ihre Abgeschiedenheit und ihre unberührte Natur bekannt ist. Der Name spiegelt die unglaubliche Farbe des umgebenden Meeres wider, das in allen Nuancen von Blau erstrahlt. True Blue ist ein idealer Ort für Reisende, die absolute Ruhe und eine authentische Out-Island-Erfahrung suchen. Die Bewohner leben traditionell vom Fischfang und dem Kleinanbau. Die Umgebung bietet hervorragende Bedingungen zum Bonefishing und für Entdeckungsreisen entlang der unerschlossenen Küste. True Blue bewahrt den Geist der alten Bahamas, wo die Zeit keine Rolle spielt und die Gastfreundschaft von Herzen kommt. Es ist ein verstecktes Juwel in den südlichen Bahamas.",
+      "factsAdvanced": [
+        "Abgelegene Siedlung auf Crooked Island",
+        "Namensgebung durch die intensive Farbe des Meeres",
+        "Zentrum für authentische Out-Island-Kultur",
+        "Top-Revier für passioniertes Bonefishing",
+        "Sehr geringe Bevölkerungsdichte für maximale Ruhe",
+        "Unberührte Strände und ökologische Vielfalt"
+      ]
+    },
+    {
+      "id": "church-grove-cities-v2",
+      "descriptionAdvanced": "Church Grove ist eine ruhige Binnensiedlung auf Crooked Island, die für ihren landwirtschaftlichen Charakter und ihre starke religiöse Gemeinschaft bekannt ist. Der Ort liegt inmitten einer fruchtbaren Gegend, in der Obstbäume und kleine Farmen das Bild bestimmen. Church Grove ist das spirituelle Herz der Region und beherbergt mehrere historische Kirchen, die als soziale Treffpunkte dienen. Das Leben hier ist einfach und gemeinschaftsorientiert. Besucher finden in Church Grove eine friedliche Atmosphäre und die Möglichkeit, mehr über die Flora und Fauna der Inselmitte zu erfahren. Die Bewohner sind stolz auf ihre Selbstversorger-Traditionen und pflegen eine tiefe Verbindung zum Land ihrer Vorfahren.",
+      "factsAdvanced": [
+        "Traditionelle Binnensiedlung auf Crooked Island",
+        "Zentrum des religiösen Lebens der Insel",
+        "Starker Fokus auf Landwirtschaft und Gartenbau",
+        "Bekannt für historische Kirchenarchitektur",
+        "Ruhige Lage abseits der Küstenwinde",
+        "Inbegriff bahamaischer ländlicher Kultur"
+      ]
+    },
+    {
+      "id": "salina-point-cities-v2",
+      "descriptionAdvanced": "Salina Point ist die südlichste Siedlung auf Acklins Island und markiert den Übergang zu den wilden, unbewohnten Gebieten der Insel. Der Ort liegt an einer flachen Salzwasserlagune, die ihm seinen Namen gab. Salina Point ist eine isolierte, aber lebendige Gemeinde, in der der Fischfang die wichtigste Lebensgrundlage ist. Die Gegend ist weltberühmt für ihre Bonefish-Bestände, die Angler aus aller Welt anziehen. Die Landschaft ist geprägt von weiten Ebenen, Mangroven und spektakulären Sonnenuntergängen. Ein Besuch in Salina Point ist eine Reise an den Rand der Zivilisation, wo die Natur noch die Oberhand hat und die Menschen in bewundernswerter Harmonie mit ihrer Umwelt leben.",
+      "factsAdvanced": [
+        "Südlichste Siedlung auf Acklins Island",
+        "Gelegen an einer ausgedehnten Salzlagune",
+        "Weltklasse-Destination für das Bonefishing",
+        "Zentrum für handwerklichen Küstenfischfang",
+        "Sehr abgelegene Lage mit einzigartiger Flora",
+        "Bekannt für seine weiten, unberührten Landschaften"
+      ]
+    },
+    {
+      "id": "lovely-bay-cities-v2",
+      "descriptionAdvanced": "Lovely Bay ist eine malerische Siedlung an der Nordspitze von Acklins Island, direkt gegenüber von Crooked Island gelegen. Der Ort ist bekannt für seine atemberaubenden Ausblicke auf den Crooked Island Passage und die flachen, schimmernden Gewässer der Umgebung. Lovely Bay dient als wichtiger Verbindungspunkt für Bewohner, die zwischen den beiden Inseln reisen. Die Siedlung hat eine entspannte Atmosphäre und ist geprägt von freundlichen Menschen und kleinen Fischerbooten. Die Strände in der Umgebung sind makellos und bieten ideale Bedingungen zum Schnorcheln und Muschelsammeln. Lovely Bay ist ein wunderbarer Ort, um die Ruhe der südlichen Bahamas zu genießen und die maritime Verbundenheit der Inseln zu spüren.",
+      "factsAdvanced": [
+        "Nördliche Siedlung auf Acklins Island",
+        "Strategischer Verbindungspunkt zu Crooked Island",
+        "Panoramablick auf die Meeresstraße (Passage)",
+        "Traditionelle Fischergemeinde mit maritimem Charme",
+        "Exzellente Bedingungen zum Schnorcheln",
+        "Sehr ruhige und einladende Atmosphäre"
+      ]
+    },
+    {
+      "id": "hard-bargain-cities-v2",
+      "descriptionAdvanced": "Hard Bargain ist die wichtigste Siedlung auf Moore's Island, einer kleinen Insel westlich von Abaco. Der Ort ist bekannt für seine zähen Bewohner und seine erstklassige Sporttradition, insbesondere in der Leichtathletik. Hard Bargain ist eine lebendige Fischergemeinde, die für ihren großen Fang an Muscheln (Conch) und Langusten bekannt ist. Die Siedlung bietet grundlegende Infrastruktur und ist das soziale Herz der Insel. Moore's Island ist ein Geheimtipp für Bonefishing-Enthusiasten, da die umliegenden Flats weitgehend unberührt sind. Trotz seiner geringen Größe hat Hard Bargain einen starken Gemeinschaftsgeist und eine reiche lokale Kultur, die bei Sportfesten und Regatten zum Ausdruck kommt.",
+      "factsAdvanced": [
+        "Hauptsiedlung auf Moore's Island (Abaco-Cays)",
+        "Zentrum für professionellen Muschel- und Fischfang",
+        "Überproportional erfolgreich in der Leichtathletik",
+        "Geheimtipp für exklusives Bonefishing",
+        "Sehr enge und stolze Inselgemeinschaft",
+        "Wichtiger Logistikknotenpunkt der kleinen Insel"
+      ]
+    },
+    {
+      "id": "port-st-george-cities-v2",
+      "descriptionAdvanced": "Port St. George liegt im Norden von Long Island und ist ein Ort, der große Visionen für die Zukunft der Insel verkörpert. Die Gegend ist bekannt für ihre spektakuläre Küstenlinie, wo ruhige Buchten auf schroffe Atlantikklippen treffen. In den letzten Jahren wurden hier ambitionierte Projekte für umweltfreundlichen Luxustourismus gestartet, die Port St. George zu einem Modell für nachhaltige Entwicklung machen sollen. Die Umgebung bietet hervorragende Bedingungen zum Segeln und für den Wassersport. Trotz der modernen Planungen bewahrt der Ort seinen Bezug zur traditionellen Kultur von Long Island. Für Besucher bietet Port St. George eine faszinierende Mischung aus natürlicher Schönheit und zukunftsweisenden Architekturkonzepten im Einklang mit der Umwelt.",
+      "factsAdvanced": [
+        "Zukunftsweisender Standort für Öko-Luxustourismus",
+        "Gelegen an der malerischen Nordküste von Long Island",
+        "Fokus auf nachhaltige Energiegewinnung und Bauweise",
+        "Hervorragendes Revier für Yachten und Segler",
+        "Einzigartige Kombination aus Karibik- und Atlantikküste",
+        "Wichtiger Impulsgeber für die regionale Wirtschaft"
+      ]
+    },
+    {
+      "id": "old-bight-cities-v2",
+      "descriptionAdvanced": "Old Bight ist eine geschichtsträchtige Siedlung im zentralen Teil von Cat Island. Der Ort ist berühmt für seine gut erhaltene koloniale Architektur, insbesondere für die St. Jude's Anglican Church, die im frühen 19. Jahrhundert erbaut wurde. Old Bight war einst ein bedeutendes Zentrum für den Baumwollanbau und beherbergt mehrere Ruinen alter Plantagenhäuser. Die Gemeinde ist bekannt für ihre tiefe Verwurzelung in der bahamaischen Folklore und Musik, insbesondere dem Rake 'n' Scrape. Die Landschaft um Old Bight ist geprägt von sanften Hügeln und fruchtbarem Land, das noch heute landwirtschaftlich genutzt wird. Ein Besuch bietet eine Reise in die Vergangenheit und eine authentische Begegnung mit der Seele von Cat Island.",
+      "factsAdvanced": [
+        "Historisches Zentrum auf Cat Island",
+        "Standort der historischen St. Jude's Anglican Church",
+        "Zentrum für traditionelle Rake 'n' Scrape Musik",
+        "Reich an Ruinen aus der Baumwollplantagen-Ära",
+        "Traditionelle Landwirtschaftsgemeinde",
+        "Wichtiger Ort für bahamaische Volkskunde"
+      ]
+    },
+    {
+      "id": "new-bight-cities-v2",
+      "descriptionAdvanced": "New Bight ist das administrative Zentrum von Cat Island und liegt am Fuße des berühmten Mount Alvernia, dem höchsten Punkt der Bahamas. Der Ort beherbergt das Regierungsgebäude, die Post und mehrere kleine Gästehäuser. New Bight ist der wichtigste Knotenpunkt der Insel und dient als Ausgangspunkt für Wanderungen zum Hermitage, dem Kloster von Pater Jerome. Der Ort liegt an einer wunderschönen Bucht mit kristallklarem Wasser, die ideal zum Schwimmen und Ankern ist. Jedes Jahr am Unabhängigkeitstag findet hier eine große Regatta statt, die Segler und Besucher von allen Inseln anzieht. New Bight verbindet administrative Bedeutung mit entspanntem Inselflair und religiöser Geschichte.",
+      "factsAdvanced": [
+        "Administratives Hauptquartier von Cat Island",
+        "Gelegen am Fuße des Mount Alvernia (63 Meter)",
+        "Wichtigster Ausgangspunkt zum Hermitage-Kloster",
+        "Austragungsort der jährlichen Cat Island Regatta",
+        "Regionales Zentrum für Handel und Dienstleistungen",
+        "Malerische Lage am kristallklaren Bight of Cat Island"
+      ]
+    },
+    {
+      "id": "hawkes-nest-cities-v2",
+      "descriptionAdvanced": "Hawke's Nest liegt an der abgeschiedenen Südspitze von Cat Island und ist ein exklusives Refugium für Sportfischer und Privatpiloten. Der Ort verfügt über einen eigenen privaten Flugplatz und eine erstklassige Marina, die für ihre Fänge von Blue Marlin und Thunfisch berühmt ist. Hawke's Nest bietet eine einzigartige Mischung aus Luxus und Wildnis, umgeben von unberührten Mangroven und spektakulären Korallenriffen. Die Atmosphäre ist privat und entspannt, ideal für Gäste, die dem Alltag entfliehen wollen. Die Küste hier bietet einige der besten Tauchgründe der Bahamas, mit steil abfallenden Wänden (Drop-offs) und einer enormen marinen Artenvielfalt. Hawke's Nest ist der Inbegriff des exklusiven Out-Island-Abenteuers.",
+      "factsAdvanced": [
+        "Exklusiver Rückzugsort an der Südspitze Cat Islands",
+        "Eigener privater Flugplatz und Tiefwasser-Marina",
+        "Top-Adresse für Big Game Fishing (Marline, Thunfische)",
+        "Nähe zu spektakulären Tauchplätzen und Drop-offs",
+        "Ruhige Lage inmitten unberührter Natur",
+        "Beliebtes Ziel für Privatflieger aus aller Welt"
+      ]
+    },
+    {
+      "id": "burrows-cities-v2",
+      "descriptionAdvanced": "Burrows ist eine kleine, traditionelle Siedlung auf Long Island, die für ihre herzliche Gemeinschaft und ihre tiefen Wurzeln in der Landwirtschaft bekannt ist. Der Ort liegt im zentralen Teil der Insel und ist geprägt von üppigen Gärten und kleinen Farmen, auf denen traditionelle Anbaumethoden gepflegt werden. Burrows bietet einen authentischen Einblick in das bahamaische Landleben, wo die Nachbarn sich gegenseitig unterstützen und das Leben im Rhythmus der Natur verläuft. Die Architektur ist schlicht und farbenfroh, was der Siedlung einen freundlichen Charakter verleiht. Für Reisende ist Burrows ein Ort der Ruhe, an dem man die Gastfreundschaft der 'Long Islanders' hautnah erleben und lokale Produkte direkt vom Erzeuger probieren kann.",
+      "factsAdvanced": [
+        "Traditionelle Landwirtschaftsgemeinde auf Long Island",
+        "Zentrum für lokalen Obst- und Gemüseanbau",
+        "Bekannt für starken Gemeinschaftszusammenhalt",
+        "Authentisches bahamaisches Alltagsleben",
+        "Malerische Lage im Inselinneren",
+        "Typische bunte Out-Island-Architektur"
+      ]
+    },
+    {
+      "id": "gaitors-cities-v2",
+      "descriptionAdvanced": "Gaitor's ist eine geschichtsträchtige Siedlung im nördlichen Teil von Long Island, die für ihren starken familiären Zusammenhalt und ihre Seefahrertradition bekannt ist. Viele der heutigen Bewohner tragen den Namen Gaitor und können ihre Wurzeln bis zu den frühen Siedlern zurückverfolgen. Der Ort liegt in einer landschaftlich reizvollen Gegend mit sanften Hügeln und Blick auf das Meer. Gaitor's ist bekannt für seine handwerklichen Traditionen, insbesondere den Schiffbau und die Herstellung von Fischernetzen. Die Gemeinde pflegt ein ruhiges Leben, das eng mit den Gezeiten und den Jahreszeiten verbunden ist. Für Besucher bietet Gaitor's eine Atmosphäre der Beständigkeit und einen tiefen Einblick in das kulturelle Erbe der nördlichen Bahamas.",
+      "factsAdvanced": [
+        "Traditionelle Familiensiedlung auf Long Island",
+        "Starke Wurzeln in der Seefahrt und im Schiffbau",
+        "Malerische Hügellage mit Meerblick",
+        "Zentrum für lokales Kunsthandwerk",
+        "Bewahrung jahrhundertealter Familientraditionen",
+        "Ruhige und authentische Inselatmosphäre"
+      ]
+    },
+    {
+      "id": "anderson-cities-v2",
+      "descriptionAdvanced": "Anderson ist eine kleine, idyllische Siedlung auf Long Island, die für ihre Ruhe und ihre landwirtschaftliche Tradition bekannt ist. Der Ort liegt abseits der Hauptwege und hat sich dadurch einen sehr ursprünglichen Charakter bewahrt. Die Bewohner von Anderson leben primär von der Landwirtschaft und der Kleinfischerei, wobei sie großen Wert auf Unabhängigkeit und Selbstversorgung legen. Die Siedlung ist umgeben von einer üppigen Vegetation und bietet Zugang zu unberührten Naturgebieten. In Anderson scheint die Zeit stehen geblieben zu sein, was den Ort zu einer perfekten Zuflucht für Menschen macht, die dem modernen Stress entfliehen wollen. Die Gastfreundschaft der wenigen Bewohner ist ehrlich und macht jeden Besuch zu einem persönlichen Erlebnis.",
+      "factsAdvanced": [
+        "Ursprüngliche Kleinsiedlung auf Long Island",
+        "Zentrum für nachhaltige Selbstversorgung",
+        "Abgelegene Lage für maximale Privatsphäre",
+        "Traditionelle bahamaische Gartenkultur",
+        "Umgeben von unberührter tropischer Flora",
+        "Sehr ruhige und entschleunigte Lebensweise"
+      ]
+    },
+    {
+      "id": "bs-nassau-cargo-port-economic-v2",
+      "descriptionAdvanced": "Der Nassau Cargo Port ist die wichtigste logistische Lebensader der Bahamas und schlägt einen Großteil der auf die Inseln importierten Waren um. Gelegen auf Arawak Cay, wurde der Hafen umfassend modernisiert, um die wachsende Nachfrage der Hauptstadt und des gesamten Archipels zu decken. Als zentraler Knotenpunkt für Containerschiffe und Frachttransporte spielt er eine entscheidende Rolle für die wirtschaftliche Stabilität des Landes. Die Anlage umfasst modernste Lagereinrichtungen und effiziente Abfertigungsprozesse, die den Warenfluss von Lebensmitteln bis zu Baumaterialien sicherstellen. Der Hafen ist nicht nur ein Wirtschaftsfaktor, sondern auch ein Symbol für die moderne Infrastruktur der Bahamas, die die Verbindung zur globalen Weltwirtschaft aufrechterhält.",
+      "factsAdvanced": [
+        "Zentraler Frachthafen der Bahamas auf Arawak Cay",
+        "Logistische Lebensader für die Versorgung Nassaus",
+        "Modernste Containerterminals der Region",
+        "Umschlagplatz für über 90% der Importwaren",
+        "Wichtiger Arbeitgeber für Logistik- und Zollexperten",
+        "Sicherstellt den Warenfluss zwischen den Inseln"
+      ]
+    },
+    {
+      "id": "bs-prince-george-wharf-economic-v2",
+      "descriptionAdvanced": "Die Prince George Wharf in Nassau ist einer der geschäftigsten Kreuzfahrthäfen der Welt und das Herzstück des bahamaischen Tourismussektors. Direkt im Stadtzentrum gelegen, ermöglicht der Hafen das gleichzeitige Anlegen mehrerer gigantischer Kreuzfahrtschiffe der modernsten Klassen. Jährlich strömen Millionen von Besuchern über diese Kaianlagen in die Stadt, was enorme Einnahmen für den lokalen Handel, Restaurants und Ausflugsziele generiert. Die Wharf wurde kürzlich durch das Nassau Cruise Port Projekt umfangreich erweitert und modernisiert, einschließlich neuer Unterhaltungsbereiche und eines authentischen Marktplatzes für bahamaisches Kunsthandwerk. Sie ist das Tor, durch das die meisten internationalen Gäste ihren ersten Eindruck von der Schönheit und Gastfreundschaft der Bahamas gewinnen.",
+      "factsAdvanced": [
+        "Einer der weltweit führenden Kreuzfahrthäfen",
+        "Zentraler Motor der bahamaischen Tourismuswirtschaft",
+        "Kapazität für die größten Kreuzfahrtschiffe der Welt",
+        "Tor zu Nassaus historischem Stadtzentrum",
+        "Standort des neuen, modernen Nassau Cruise Ports",
+        "Umschlagplatz für Millionen von Touristen jährlich"
+      ]
+    },
+    {
+      "id": "bs-arawak-cay-fish-port-economic-v2",
+      "descriptionAdvanced": "Arawak Cay, auch bekannt als 'Fish Fry', ist weit mehr als nur ein kulinarischer Hotspot; es ist ein wichtiger ökonomischer Stützpunkt für die lokale Fischereiindustrie in Nassau. Hier landet ein bedeutender Teil des täglichen Fangs, insbesondere von Conch (Strombus gigas) und verschiedenen Riff-Fischen, direkt an. Der Ort dient als direkter Marktplatz zwischen Fischern und Gastronomen und sichert die Existenzgrundlage hunderter Familien. Die wirtschaftliche Bedeutung von Arawak Cay liegt in der Wertschöpfungskette vom Fang über die Verarbeitung bis zum Verkauf an Touristen und Einheimische. Es ist ein lebendiges Beispiel für kleinteilige, nachhaltige Meereswirtschaft, die eng mit der kulturellen Identität und der Ernährungssicherheit der Hauptstadt verknüpft ist.",
+      "factsAdvanced": [
+        "Zentraler Anlandepunkt für Kleinfischer in Nassau",
+        "Wirtschaftliches Herz der lokalen Conch-Industrie",
+        "Direkte Verbindung von Produktion und Gastronomie",
+        "Sichert Hunderte von Arbeitsplätzen im Fischereisektor",
+        "Wichtiger Faktor für den kulinarischen Tourismus",
+        "Zentrum für traditionelle Fischverarbeitungstechniken"
+      ]
+    },
+    {
+      "id": "bs-clifton-pier-industrial-economic-v2",
+      "descriptionAdvanced": "Clifton Pier ist das industrielle Energiezentrum von New Providence und spielt eine kritische Rolle für die Stromversorgung und Treibstofflogistik der gesamten Insel. Hier befinden sich das größte Kraftwerk der Bahamas sowie umfangreiche Terminals für die Anlandung und Lagerung von Mineralölprodukten. Der Hafen ist speziell für Tankschiffe ausgelegt, die Benzin, Diesel und Flugkraftstoff für den nationalen Bedarf liefern. Aufgrund seiner Lage an der tiefen Westküste der Insel bietet der Pier ideale Bedingungen für schwere Industrieschifffahrt. Clifton Pier ist die Basis für die Energieunabhängigkeit und Mobilität des Landes, wobei in jüngster Zeit vermehrt in modernere und umweltfreundlichere Technologien investiert wurde, um die industrielle Effizienz zu steigern.",
+      "factsAdvanced": [
+        "Energiezentrum der Insel New Providence",
+        "Standort des Hauptkraftwerks der Bahamas",
+        "Zentrales Terminal für Öl- und Treibstoffimporte",
+        "Kritische Infrastruktur für die nationale Sicherheit",
+        "Spezialisierter Hafen für schwere Industrieschifffahrt",
+        "Basis der Stromversorgung für die Hauptstadt Nassau"
+      ]
+    },
+    {
+      "id": "bs-carmichael-road-business-economic-v2",
+      "descriptionAdvanced": "Carmichael Road, oft als 'City 2000' bezeichnet, ist eines der am schnellsten wachsenden Geschäftsviertel in Nassau und ein Motor für die lokale Binnenwirtschaft. Dieses Gebiet hat sich von einer ländlichen Gegend zu einem pulsierenden Zentrum für Einzelhandel, Bankwesen und Dienstleistungen entwickelt. Hier finden sich zahlreiche Einkaufszentren, Supermärkte und lokale Unternehmen, die die wachsende Bevölkerung im Südwesten von New Providence versorgen. Carmichael Road ist ein Paradebeispiel für bahamaisches Unternehmertum und bietet Tausenden von Menschen Arbeitsplätze abseits des Tourismussektors. Die wirtschaftliche Vitalität dieses Viertels spiegelt die Entstehung einer starken lokalen Mittelschicht und die Dezentralisierung der Wirtschaft von der Innenstadt Nassaus wider.",
+      "factsAdvanced": [
+        "Am schnellsten wachsendes Geschäftsviertel Nassaus",
+        "Zentrum des lokalen Einzelhandels und Dienstleistungswesens",
+        "Bekannt als 'City 2000' aufgrund rasanter Entwicklung",
+        "Wichtiger Standort für nationale Banken und Versicherungen",
+        "Motor für Beschäftigung abseits des Tourismus",
+        "Zentraler Versorgungsknotenpunkt für Südwest-Nassau"
+      ]
+    },
+    {
+      "id": "bs-cowpen-road-industrial-economic-v2",
+      "descriptionAdvanced": "Cowpen Road im Süden von New Providence ist ein wichtiges Zentrum für Leichtindustrie, Landwirtschaft und Bauwesen. Die Gegend beherbergt zahlreiche Lagerhäuser, Werkstätten und lokale Produktionsstätten, die für den Binnenmarkt der Bahamas produzieren. Ein besonderes Merkmal sind die verbliebenen landwirtschaftlichen Flächen, die eine der wenigen Quellen für lokal produziertes Geflügel und Gemüse auf der Insel darstellen. Die wirtschaftliche Bedeutung der Cowpen Road liegt in ihrer Rolle als Zulieferer für den Bausektor und als Logistikstandort für lokale Gewerbetreibende. Die Gegend ist geprägt von einer pragmatischen Arbeitsatmosphäre und ist ein wesentlicher Bestandteil der industriellen Basis, die das physische Wachstum der Hauptstadt unterstützt.",
+      "factsAdvanced": [
+        "Zentrum für Leichtindustrie und Produktion",
+        "Wichtiger Standort für das lokale Bauhauptgewerbe",
+        "Einer der wenigen landwirtschaftlichen Gürtel New Providences",
+        "Knotenpunkt für Lagerlogistik und Handwerk",
+        "Basis für lokale Geflügel- und Gemüseproduktion",
+        "Wesentlicher Faktor für die industrielle Diversifizierung"
+      ]
+    },
+    {
+      "id": "bs-lynden-pindling-cargo-economic-v2",
+      "descriptionAdvanced": "Das Cargo-Terminal am Lynden Pindling International Airport (LPIA) ist das wichtigste Luftfrachtdrehkreuz der Bahamas und verbindet den Archipel mit globalen Lieferketten. Hier werden zeitkritische Güter, Postsendungen und hochwertige Waren abgewickelt, die für den Handel und den Tourismus von entscheidender Bedeutung sind. Das Terminal wurde modernisiert, um den steigenden Anforderungen des E-Commerce und des internationalen Warenverkehrs gerecht zu werden. Als zentraler Knotenpunkt für Fluggesellschaften wie Bahamasair und internationale Frachtführer spielt das LPIA Cargo-Zentrum eine Schlüsselrolle bei der schnellen Versorgung der Out Islands. Es ist ein hochmoderner Wirtschaftsbereich, der Effizienz und Konnektivität für das moderne bahamaische Geschäftswesen garantiert.",
+      "factsAdvanced": [
+        "Hauptdrehkreuz für Luftfracht der Bahamas",
+        "Kritischer Punkt für den Import zeitkritischer Güter",
+        "Zentrum für internationale Post- und Kurierdienste",
+        "Wichtigster Logistikknoten für den E-Commerce-Umschlag",
+        "Anbindung an alle großen internationalen Märkte",
+        "Versorgungsbasis für die gesamte Inselkette per Luftweg"
+      ]
+    },
+    {
+      "id": "bs-port-lucaya-marina-economic-v2",
+      "descriptionAdvanced": "Die Port Lucaya Marina auf Grand Bahama ist ein ökonomischer Eckpfeiler des Tourismus im Norden der Bahamas. Diese erstklassige Marina bietet Kapazitäten für Superyachten und ist das Herzstück des Port Lucaya Marketplace. Ihre wirtschaftliche Bedeutung erstreckt sich weit über die bloßen Liegeplätze hinaus, da sie Tausende von kaufkräftigen Besuchern direkt in das kommerzielle Zentrum der Insel bringt. Die Marina sichert zahlreiche Arbeitsplätze im Bereich Schiffsservice, Gastronomie und Einzelhandel. Sie ist ein Symbol für den Wiederaufbau und die Resilienz der Wirtschaft von Grand Bahama. Durch internationale Segelveranstaltungen und den Status als Luxus-Yachthafen trägt sie maßgeblich zur Devisengenerierung und zum internationalen Prestige des Landes als führende maritime Destination bei.",
+      "factsAdvanced": [
+        "Premium-Marina für Superyachten auf Grand Bahama",
+        "Wirtschaftliches Herz des Port Lucaya Marketplace",
+        "Motor für den Luxustourismus im Norden der Bahamas",
+        "Zentrum für maritime Dienstleistungen und Reparaturen",
+        "Wichtiger Standort für internationale Segel-Regatten",
+        "Hauptarbeitgeber für den lokalen Dienstleistungssektor"
+      ]
+    }
+  ]
+}

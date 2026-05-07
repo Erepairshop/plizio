@@ -1,0 +1,127 @@
+[
+  {
+    "id": "mangoro-river-nature-v2",
+    "name": "Mangoro River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-mitseo-nature-v2",
+    "name": "Nosy Mitsio",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "montagne-ambre-nature-v2",
+    "name": "Montagne d'Ambre",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "baie-de-bombetoka-nature-v2",
+    "name": "Bombetoka Bay",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-anivorano-nature-v2",
+    "name": "Lake Anivorano",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-tanikely-nature-v2",
+    "name": "Nosy Tanikely",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "massif-des-makay-nature-v2",
+    "name": "Makay Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsaratanana-massif-relief-v2",
+    "name": "Tsaratanana Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "maromokotro-peak-relief-v2",
+    "name": "Maromokotro",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "ankaratra-mountains-relief-v2",
+    "name": "Ankaratra Mountains",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "tsiafajavona-peak-relief-v2",
+    "name": "Tsiafajavona",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "andringitra-massif-relief-v2",
+    "name": "Andringitra Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "pic-boby-relief-v2",
+    "name": "Pic Boby",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "bemaraha-plateau-relief-v2",
+    "name": "Bemaraha Plateau",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "central-highlands-relief-v2",
+    "name": "Central Highlands",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "isalo-plateau-relief-v2",
+    "name": "Isalo Plateau",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "analavelona-forest-relief-v2",
+    "name": "Analavelona Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "sahafary-forest-relief-v2",
+    "name": "Sahafary Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "montagne-dambre-relief-v2",
+    "name": "Montagne d'Ambre",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "makay-massif-relief-v2",
+    "name": "Makay Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "karambony-peak-relief-v2",
+    "name": "Karambony",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "analamera-relief-v2",
+    "name": "Analamera",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "marojejy-massif-relief-v2",
+    "name": "Marojejy Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "boby-peak-foothills-relief-v2",
+    "name": "Pic Boby Foothills",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "manongarivo-massif-relief-v2",
+    "name": "Manongarivo Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  }
+]

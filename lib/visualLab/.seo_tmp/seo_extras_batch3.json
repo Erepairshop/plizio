@@ -1,0 +1,221 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraHondurasHistoryV2.ts"],
+  "items": [
+    {
+      "id": "hebraeischer-friedhof-tegucigalpa-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hebräische Friedhof in Tegucigalpa ist ein stilles Zeugnis der jüdischen Präsenz und Geschichte in Honduras. Er wurde im späten 19. und frühen 20. Jahrhundert angelegt, um der kleinen, aber wirtschaftlich bedeutenden jüdischen Gemeinde der Hauptstadt eine würdige Ruhestätte zu bieten. Die Grabsteine, viele davon mit Inschriften in Hebräisch, Deutsch und Spanisch, erzählen die Geschichten von Einwandererfamilien, die vor allem aus Europa kamen und zur Modernisierung des Landes beitrugen. Der Friedhof ist ein Ort von großer kultureller Bedeutung und spiegelt die religiöse Vielfalt wider, die Tegucigalpa trotz seiner überwiegend katholischen Tradition prägt. Die Architektur der Grabmäler variiert von schlichten Steinen bis hin zu aufwendiger gestalteten Monumenten. Es ist einer der wenigen Orte in Honduras, an denen das jüdische Erbe physisch greifbar ist. Heute wird der Friedhof von der jüdischen Gemeinde gepflegt und ist ein wichtiges Denkmal für die Integration und den Beitrag von Minderheiten zur honduranischen Gesellschaft. Geschichte K8 — a modern Honduras kialakulása",
+        "hu": "A tegucigalpai Héber Temető a hondurasi zsidó jelenlét és történelem csendes tanúja. A 19. század végén és a 20. század elején hozták létre, hogy méltó nyughelyet biztosítsanak a főváros kicsi, de gazdaságilag jelentős zsidó közössége számára. A sírkövek, amelyek közül sok héber, német és spanyol nyelvű felirattal rendelkezik, az elsősorban Európából érkezett bevándorló családok történeteit mesélik el, akik hozzájárultak az ország modernizációjához. A temető nagy kulturális jelentőségű hely, és tükrözi azt a vallási sokszínűséget, amely Tegucigalpát a túlnyomórészt katolikus hagyomány ellenére jellemzi. A síremlékek építészete az egyszerű kövektől a bonyolultabb kialakítású monumentumokig terjed. Ez azon kevés helyek egyike Hondurasban, ahol a zsidó örökség fizikailag is kézzelfogható. Ma a zsidó közösség gondozza a temetőt, amely a kisebbségek integrációjának és a hondurasi társadalomhoz való hozzájárulásának fontos emlékműve. Történelem K8 — a modern Honduras kialakulása",
+        "ro": "Cimitirul Evreiesc din Tegucigalpa este o mărturie tăcută a prezenței și istoriei evreiești în Honduras. A fost înființat la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea pentru a oferi un loc de odihnă demn micii, dar semnificativei comunități evreiești din capitală. Pietrele funerare, multe cu inscripții în ebraică, germană și spaniolă, spun poveștile familiilor de imigranți venite în principal din Europa, care au contribuit la modernizarea țării. Cimitirul este un loc de mare importanță culturală și reflectă diversitatea religioasă care caracterizează Tegucigalpa, în ciuda tradiției sale predominant catolice. Arhitectura monumentelor funerare variază de la pietre simple la monumente elaborate. Este unul dintre puținele locuri din Honduras unde moștenirea evreiască este tangibilă fizic. Astăzi, cimitirul este îngrijit de comunitatea evreiască și reprezintă un monument important al integrării minorităților în societatea honduriană. Istorie K8 — formarea Hondurasului modern",
+        "en": "The Hebrew Cemetery in Tegucigalpa is a quiet testament to the Jewish presence and history in Honduras. Established in the late 19th and early 20th centuries, it was created to provide a final resting place for the capital's small but economically influential Jewish community. The headstones, many bearing inscriptions in Hebrew, German, and Spanish, recount the stories of immigrant families who primarily arrived from Europe and played a key role in the nation's modernization. The cemetery is a site of significant cultural value, reflecting the religious diversity of Tegucigalpa despite its deeply rooted Catholic traditions. Grave designs range from simple, unadorned stones to more elaborate monuments. It is one of the few physical sites in Honduras where Jewish heritage remains visible. Today, the cemetery is maintained by the local Jewish community and stands as a monument to the integration and contributions of minorities to Honduran society. History K8 — development of modern Honduras"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im späten 19. Jahrhundert für jüdische Einwanderer.",
+          "Grabinschriften in Hebräisch, Deutsch und Spanisch vorhanden.",
+          "Spiegelt die Einwanderungswellen aus Europa nach Honduras wider.",
+          "Wichtiger Ort des jüdischen kulturellen Erbes in Mittelamerika.",
+          "Wird privat von der jüdischen Gemeinde Tegucigalpas gepflegt.",
+          "Enthält Gräber bedeutender Geschäftsleute und Pioniere."
+        ],
+        "hu": [
+          "A 19. század végén alapították zsidó bevándorlók számára.",
+          "Héber, német és spanyol nyelvű sírfeliratok is találhatók.",
+          "Tükrözi az Európából Hondurasba irányuló bevándorlási hullámokat.",
+          "A zsidó kulturális örökség fontos helyszíne Közép-Amerikában.",
+          "A tegucigalpai zsidó közösség magánúton gondozza.",
+          "Jelentős üzletemberek és úttörők sírjait tartalmazza."
+        ],
+        "ro": [
+          "Înființat la sfârșitul secolului al XIX-lea pentru imigranții evrei.",
+          "Inscripții funerare prezente în ebraică, germană și spaniolă.",
+          "Reflectă valurile de imigrație din Europa către Honduras.",
+          "Loc important al moștenirii culturale evreiești în America Centrală.",
+          "Îngrijit privat de comunitatea evreiască din Tegucigalpa.",
+          "Conține morminte ale unor oameni de afaceri și pionieri importanți."
+        ],
+        "en": [
+          "Established in the late 19th century for Jewish immigrants.",
+          "Headstones feature inscriptions in Hebrew, German, and Spanish.",
+          "Reflects the waves of European immigration to Honduras.",
+          "A significant site of Jewish cultural heritage in Central America.",
+          "Privately maintained by the Jewish community of Tegucigalpa.",
+          "Contains the graves of notable business leaders and pioneers."
+        ]
+      }
+    },
+    {
+      "id": "carias-bruecke-tegucigalpa-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Carías-Brücke (Puente Carías) in Tegucigalpa ist ein bedeutendes architektonisches Wahrzeichen aus der Mitte des 20. Jahrhunderts. Sie wurde während der Amtszeit von Präsident Tiburcio Carías Andino in den 1930er Jahren erbaut und verbindet die Stadtteile Tegucigalpa und Comayagüela über den Fluss Choluteca. Die Brücke ist bekannt für ihr markantes Design mit großen Bögen und Art-Déco-Elementen, die den Fortschrittsglauben jener Zeit widerspiegeln. Als eine der ersten modernen Brücken der Hauptstadt verbesserte sie die Infrastruktur und den Handel zwischen den beiden wichtigsten Sektoren der Stadt erheblich. Trotz zahlreicher Überschwemmungen durch den Fluss Choluteca, insbesondere während des Hurrikans Mitch im Jahr 1998, hat die Brücke ihre strukturelle Integrität bewahrt. Sie ist nicht nur ein Verkehrsweg, sondern auch ein Denkmal für die politische Ära von Carías, die durch monumentale Bauprojekte geprägt war. Heute ist sie ein unverzichtbarer Teil des Stadtbildes und ein Zeugnis der Stadtentwicklung im 20. Jahrhundert. Földrajz K8 — közlekedés és infrastruktúra",
+        "hu": "A tegucigalpai Carías-híd (Puente Carías) a 20. század közepének jelentős építészeti jelképe. Az 1930-as években épült Tiburcio Carías Andino elnök hivatali ideje alatt, és a Choluteca-folyón keresztül köti össze Tegucigalpa és Comayagüela városrészeket. A híd jellegzetes, nagy ívű kialakításáról és art deco elemeiről ismert, amelyek a korszak haladásba vetett hitét tükrözik. A főváros egyik első modern hídjaként jelentősen javította az infrastruktúrát és a kereskedelmet a város két legfontosabb szektora között. Annak ellenére, hogy a Choluteca-folyó számos áradása érte, különösen az 1998-as Mitch hurrikán idején, a híd megőrizte szerkezeti épségét. Nemcsak közlekedési útvonal, hanem a Carías-korszak politikai emlékműve is, amelyet monumentális építkezési projektek jellemeztek. Ma a városkép elengedhetetlen része és a 20. századi városfejlesztés tanúja. Földrajz K8 — közlekedés és infrastruktúra",
+        "ro": "Podul Carías (Puente Carías) din Tegucigalpa este un reper arhitectural semnificativ de la mijlocul secolului al XX-lea. Construit în anii 1930, în timpul mandatului președintelui Tiburcio Carías Andino, acesta leagă districtele Tegucigalpa și Comayagüela peste râul Choluteca. Podul este cunoscut pentru designul său distinctiv cu arcuri mari și elemente Art Deco, care reflectă credința în progres a acelei epoci. Fiind unul dintre primele poduri moderne ale capitalei, a îmbunătățit considerabil infrastructura și comerțul între cele două sectoare principale ale orașului. În ciuda numeroaselor inundații ale râului Choluteca, în special în timpul uraganului Mitch din 1998, podul și-a păstrat integritatea structurală. Nu este doar o cale de transport, ci și un monument al erei politice Carías, caracterizată prin proiecte monumentale de construcție. Astăzi este o parte indispensabilă a peisajului urban. Földrajz K8 — közlekedés és infrastruktúra",
+        "en": "The Carías Bridge (Puente Carías) in Tegucigalpa is a significant architectural landmark dating from the mid-20th century. Constructed during the administration of President Tiburcio Carías Andino in the 1930s, it spans the Choluteca River, linking the districts of Tegucigalpa and Comayagüela. The bridge is recognized for its striking arched design and Art Deco aesthetic, reflecting the era's focus on national progress. As one of the capital's first modern bridges, it drastically improved infrastructure and commerce between the city's two primary sectors. Despite facing numerous catastrophic floods from the Choluteca River, most notably during Hurricane Mitch in 1998, the bridge has maintained its structural integrity. It remains not only a vital transit route but a monument to the Carías political era, marked by grand public works. Today, it is an essential part of the city's skyline and a witness to 20th-century urban development. Geography K8 — transportation and infrastructure"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut in den 1930er Jahren unter Tiburcio Carías Andino.",
+          "Verbindet Tegucigalpa mit dem Stadtteil Comayagüela.",
+          "Überquert den historisch bedeutsamen Fluss Choluteca.",
+          "Architektur im Art-Déco-Stil mit markanten Betonbögen.",
+          "Überstand die schweren Fluten des Hurrikans Mitch 1998.",
+          "Eines der bekanntesten Symbole der Hauptstadt-Infrastruktur."
+        ],
+        "hu": [
+          "Az 1930-as években épült Tiburcio Carías Andino alatt.",
+          "Összeköti Tegucigalpát Comayagüela negyedével.",
+          "A történelmi jelentőségű Choluteca-folyón ível át.",
+          "Art deco stílusú építészet jellegzetes betonívekkel.",
+          "Túlélte az 1998-as Mitch hurrikán súlyos áradásait.",
+          "A fővárosi infrastruktúra egyik legismertebb szimbóluma."
+        ],
+        "ro": [
+          "Construit în anii 1930 sub Tiburcio Carías Andino.",
+          "Leagă Tegucigalpa de cartierul Comayagüela.",
+          "Traversează râul Choluteca, de importanță istorică.",
+          "Arhitectură în stil Art Deco cu arcuri de beton distinctive.",
+          "A rezistat inundațiilor severe ale uraganului Mitch din 1998.",
+          "Unul dintre cele mai cunoscute simboluri ale infrastructurii capitalei."
+        ],
+        "en": [
+          "Built during the 1930s under President Tiburcio Carías Andino.",
+          "Connects the Tegucigalpa historic center with Comayagüela.",
+          "Spans the historically and hydrologically significant Choluteca River.",
+          "Features Art Deco architecture with prominent concrete arches.",
+          "Survived the catastrophic flooding caused by Hurricane Mitch in 1998.",
+          "One of the most recognized symbols of the capital's infrastructure."
+        ]
+      }
+    },
+    {
+      "id": "kirche-unbefleckte-empfaengnis-danli-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kirche der Unbefleckten Empfängnis (Iglesia Inmaculada Concepción) ist das religiöse und historische Herz der Stadt Danlí im Osten von Honduras. Die im 18. und frühen 19. Jahrhundert im spanischen Kolonialstil errichtete Kirche dominiert den zentralen Platz der Stadt. Ihre Fassade ist ein schönes Beispiel für den barocken Klassizismus der Region, mit klaren Linien und kunstvollen Verzierungen. Im Inneren beeindruckt die Kirche durch ihre hohen Decken und wertvollen religiösen Statuen. Danlí, bekannt als 'Stadt der Hügel' und berühmt für sein jährliches Maisfestival, hat in dieser Kirche ein Symbol seiner Identität und seines Glaubens. Das Gebäude war über Jahrhunderte Schauplatz wichtiger sozialer und religiöser Ereignisse und hat Kriege sowie Naturkatastrophen überstanden. Die Kirche spielt eine zentrale Rolle bei den Feierlichkeiten zur Unbefleckten Empfängnis im Dezember, die Gläubige aus der ganzen Region anziehen. Die Architektur spiegelt den Wohlstand wider, den der Tabak- und Agraranbau der Region in der Kolonialzeit brachte. Geschichte K7 — koloniális építészet",
+        "hu": "A Szeplőtelen Fogantatás temploma (Iglesia Inmaculada Concepción) a kelet-hondurasi Danlí városának vallási és történelmi szíve. A 18. és 19. század elején spanyol gyarmati stílusban épült templom a város központi terét uralja. Homlokzata a régió barokk klasszicizmusának szép példája, letisztult vonalakkal és művészi díszítésekkel. Belül a templom magas mennyezeteivel és értékes vallási szobraival nyűgözi le a látogatókat. Danlí, amelyet a 'dombok városaként' ismernek és éves kukoricafesztiváljáról híres, ebben a templomban találta meg identitásának és hitének szimbólumát. Az épület évszázadokon át fontos társadalmi és vallási események helyszíne volt, háborúkat és természeti katasztrófákat is túlélt. A templom központi szerepet játszik a decemberi Szeplőtelen Fogantatás ünnepségeken, amelyek az egész régióból vonzzák a hívőket. Az építészet tükrözi azt a jólétet, amelyet a dohány- és mezőgazdasági termesztés hozott a régiónak a gyarmati korszakban. Történelem K7 — koloniális építészet",
+        "ro": "Biserica Imaculatei Concepții (Iglesia Inmaculada Concepción) este inima religioasă și istorică a orașului Danlí din estul Hondurasului. Construită în stil colonial spaniol în secolul al XVIII-lea și începutul secolului al XIX-lea, biserica domină piața centrală a orașului. Fațada sa este un exemplu frumos de clasicism baroc regional, cu linii clare și decorațiuni artistice. În interior, biserica impresionează prin tavanele sale înalte și statuile religioase valoroase. Danlí, cunoscut ca „orașul dealurilor” și faimos pentru festivalul anual al porumbului, are în această biserică un simbol al identității și credinței sale. Clădirea a fost scena unor evenimente sociale și religioase importante timp de secole, supraviețuind războaielor și dezastrelor naturale. Biserica joacă un rol central în sărbătorile Imaculatei Concepții din decembrie, care atrag credincioși din întreaga regiune. Arhitectura reflectă prosperitatea pe care cultivarea tutunului și agricultura au adus-o regiunii în perioada colonială. Istorie K7 — arhitectură colonială",
+        "en": "The Church of the Immaculate Conception (Iglesia Inmaculada Concepción) is the religious and historical heart of Danlí in eastern Honduras. Built in the Spanish colonial style during the 18th and early 19th centuries, the church dominates the town's central plaza. Its facade is a fine example of regional Baroque-Classicism, featuring clean lines and intricate plasterwork. Inside, the church impresses with its high vaulted ceilings and a collection of precious religious statuary. Danlí, known as the 'City of Hills' and famous for its annual Corn Festival, finds a symbol of its identity and faith in this church. The building has served as the site for major social and religious events for centuries, surviving both conflicts and natural disasters. It plays a pivotal role during the Feast of the Immaculate Conception in December, drawing pilgrims from across the region. The architecture reflects the prosperity that tobacco and agricultural trade brought to the area during the late colonial period. History K7 — colonial architecture"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bedeutendstes Bauwerk in Danlí, Departement El Paraíso.",
+          "Bauzeit erstreckte sich über das 18. und frühe 19. Jahrhundert.",
+          "Architektonischer Stil ist der späte spanische Barock.",
+          "Zentrum der religiösen Feierlichkeiten während des Maisfestivals.",
+          "Beherbergt wertvolle sakrale Kunstwerke aus der Kolonialzeit.",
+          "Liegt am Parque Central, dem Treffpunkt der Gemeinde."
+        ],
+        "hu": [
+          "Danlí legjelentősebb építménye, El Paraíso megyében.",
+          "Az építkezés a 18. és a 19. század elejére nyúlt.",
+          "Építészeti stílusa a késő spanyol barokk.",
+          "A kukoricafesztivál alatti vallási ünnepségek központja.",
+          "Értékes szakrális műalkotásoknak ad otthont a gyarmati korból.",
+          "A Parque Central mellett található, a közösség találkozóhelyén."
+        ],
+        "ro": [
+          "Cea mai importantă structură din Danlí, departamentul El Paraíso.",
+          "Perioada de construcție s-a întins pe secolul XVIII și începutul sec. XIX.",
+          "Stilul arhitectural este barocul spaniol târziu.",
+          "Centrul celebrărilor religioase în timpul Festivalului Porumbului.",
+          "Găzduiește opere de artă sacră valoroase din perioada colonială.",
+          "Situată lângă Parque Central, locul de întâlnire al comunității."
+        ],
+        "en": [
+          "The most prominent building in Danlí, El Paraíso Department.",
+          "Construction spanned the 18th and early 19th centuries.",
+          "Architectural style is late Spanish Baroque.",
+          "Center of religious activities during the annual Corn Festival.",
+          "Houses precious sacred artworks from the colonial era.",
+          "Located at the Parque Central, the heart of the community."
+        ]
+      }
+    },
+    {
+      "id": "kirche-san-matias-la-campa-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kirche San Matías in La Campa, Lempira, ist eine der fotogensten und kunstvollsten Kolonialkirchen in Honduras. Sie ist berühmt für ihre prachtvolle Barockfassade, die mit detaillierten Stuckarbeiten und religiösen Motiven verziert ist. Die Kirche wurde im 18. Jahrhundert erbaut und ist das Wahrzeichen dieses kleinen Dorfes, das für seine traditionelle Lenca-Keramik bekannt ist. Die leuchtend weiße Fassade bildet einen starken Kontrast zu den grünen Bergen der Region Lempira. San Matías ist ein wichtiges Pilgerzentrum, besonders während des Festes des Schutzpatrons im Februar, wenn Tausende von Gläubigen kommen, um den 'Santisimo' zu verehren. Das Dorf La Campa liegt in der Nähe von Gracias und ist ein Zentrum der Lenca-Kultur, was der Kirche eine besondere spirituelle Atmosphäre verleiht. Die Architektur zeigt den Einfluss der lokalen Handwerkskunst auf die spanischen Bauformen. Ein Besuch in La Campa bietet nicht nur architektonische Schönheit, sondern auch einen tiefen Einblick in die lebendigen Traditionen des westlichen Honduras. Geschichte K7 — koloniális építészet",
+        "hu": "A Lempira megyei La Campában található Szent Mátyás-templom Honduras egyik legfotogénebb és legművészibb gyarmati temploma. Híres pompás barokk homlokzatáról, amelyet részletgazdag stukkómunkák és vallási motívumok díszítenek. A templom a 18. században épült, és ennek a kis falunak a jelképe, amely hagyományos lenca kerámiájáról ismert. A ragyogó fehér homlokzat éles kontrasztot alkot Lempira régió zöld hegyeivel. Szent Mátyás temploma fontos zarándokközpont, különösen a februári védőszent-ünnep idején, amikor hívők ezrei érkeznek a 'Santisimo' tiszteletére. La Campa falu Gracias közelében található, és a lenca kultúra egyik központja, ami a templomnak különleges spirituális hangulatot kölcsönöz. Az építészet a helyi kézművesség hatását tükrözi a spanyol építészeti formákra. La Campa meglátogatása nemcsak építészeti szépséget kínál, hanem mély betekintést is nyújt Nyugat-Honduras élő hagyományaiba. Történelem K7 — koloniális építészet",
+        "ro": "Biserica San Matías din La Campa, Lempira, este una dintre cele mai fotogenice și artistice biserici coloniale din Honduras. Este faimoasă pentru fațada sa barocă magnifică, decorată cu lucrări detaliate în stuc și motive religioase. Biserica a fost construită în secolul al XVIII-lea și este simbolul acestui mic sat, cunoscut pentru ceramica sa tradițională Lenca. Fațada albă strălucitoare creează un contrast puternic cu munții verzi ai regiunii Lempira. San Matías este un centru important de pelerinaj, în special în timpul sărbătorii patronului spiritual din februarie, când mii de credincioși vin să-l cinstească pe „Santisimo”. Satul La Campa este situat lângă Gracias și este un centru al culturii Lenca, ceea ce conferă bisericii o atmosferă spirituală deosebită. Arhitectura arată influența meșteșugului local asupra formelor de construcție spaniole. O vizită în La Campa oferă nu doar frumusețe arhitecturală, ci și o perspectivă profundă asupra tradițiilor vii din vestul Hondurasului. Istorie K7 — arhitectură colonială",
+        "en": "The San Matías Church in La Campa, Lempira, is widely considered one of the most photogenic and artistically significant colonial churches in Honduras. It is renowned for its magnificent Baroque facade, adorned with intricate stucco work and religious motifs. Built in the 18th century, the church is the landmark of this small village, which is also famous for its traditional Lenca pottery. The brilliant white facade stands in stark contrast to the verdant mountains of the Lempira region. San Matías is a vital pilgrimage center, particularly during the patronal feast in February, when thousands of the faithful gather to venerate the 'Santisimo.' Located near Gracias, La Campa is a heartland of Lenca culture, imbuing the church with a unique spiritual atmosphere. Its architecture demonstrates the fusion of local craftsmanship with Spanish structural designs. A visit to La Campa offers both architectural splendor and a deep connection to the living traditions of western Honduras. History K7 — colonial architecture"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im 18. Jahrhundert im Departement Lempira.",
+          "Bekannt für seine hochdekorative Barockfassade.",
+          "Wichtiges Pilgerzentrum für die Verehrung des 'Santisimo'.",
+          "Das Dorf ist ein Zentrum der traditionellen Lenca-Töpferei.",
+          "Liegt etwa 15 km von der Stadt Gracias entfernt.",
+          "Eines der am besten erhaltenen Beispiele ländlicher Kolonialkunst."
+        ],
+        "hu": [
+          "A 18. században épült Lempira megyében.",
+          "Híres gazdagon díszített barokk homlokzatáról.",
+          "Fontos zarándokközpont a 'Santisimo' tiszteletére.",
+          "A falu a hagyományos lenca fazekasság központja.",
+          "Körülbelül 15 km-re található Gracias városától.",
+          "A vidéki gyarmati művészet egyik legjobban megőrzött példája."
+        ],
+        "ro": [
+          "Construită în secolul al XVIII-lea în departamentul Lempira.",
+          "Cunoscută pentru fațada sa barocă extrem de decorativă.",
+          "Centru important de pelerinaj pentru venerarea lui „Santisimo”.",
+          "Satul este un centru al olăritului tradițional Lenca.",
+          "Situată la aproximativ 15 km de orașul Gracias.",
+          "Unul dintre cele mai bine conservate exemple de artă colonială rurală."
+        ],
+        "en": [
+          "Constructed in the 18th century in Lempira Department.",
+          "Renowned for its highly decorative Baroque facade.",
+          "A major pilgrimage site for the veneration of the 'Santisimo.'",
+          "The village is a hub for traditional Lenca pottery production.",
+          "Located approximately 15 km from the town of Gracias.",
+          "One of the best-preserved examples of rural colonial art."
+        ]
+      }
+    },
+    {
+      "id": "gualjoquito-archaeology-history-v2",
+      "descriptionAdvanced": {
+        "de": "Gualjoquito ist eine bedeutende archäologische Stätte am Ufer des Flusses Ulúa im Departement Santa Bárbara. Die Siedlung erlebte ihre Blütezeit zwischen 400 und 900 n. Chr. und fungierte als strategischer Kontrollpunkt für den Handel zwischen dem Maya-Tiefland und dem zentralen Hochland von Honduras. Die Anlage umfasst mehrere zeremonielle Plattformen, Wohngebiete und Strukturen, die eine Mischung aus Maya- und Lenca-Einflüssen zeigen. Archäologische Funde in Gualjoquito, darunter polychrome Keramik und Obsidianwerkzeuge, belegen die weitreichenden Handelsbeziehungen der Bewohner. Die Lage im fruchtbaren Tal des Ulúa-Flusses ermöglichte eine intensive Landwirtschaft und eine stabile Bevölkerungsbasis. Gualjoquito ist besonders für Forscher interessant, die die Interaktionen zwischen den verschiedenen vorspanischen Kulturen Zentralamerikas untersuchen. Obwohl die Stätte weniger bekannt ist als Copán, bietet sie wertvolle Einblicke in die regionale politische Organisation und den Austausch von Gütern in der klassischen Periode. Geschichte K6 — régészeti lelőhelyek",
+        "hu": "Gualjoquito egy jelentős régészeti lelőhely az Ulúa-folyó partján, Santa Bárbara megyében. A település i.sz. 400 és 900 között élte fénykorát, és stratégiai ellenőrző pontként szolgált a maja alföld és Honduras központi felföldje közötti kereskedelemben. A lelőhely számos szertartási platformot, lakóövezetet és olyan építményeket foglal magában, amelyek a maja és lenca hatások keveredését mutatják. A Gualjoquitóban talált régészeti leletek, köztük polikróm kerámiák és obszidián eszközök, bizonyítják a lakosok kiterjedt kereskedelmi kapcsolatait. Az Ulúa-folyó termékeny völgyében való elhelyezkedés lehetővé tette az intenzív mezőgazdaságot és a stabil népességet. Gualjoquito különösen érdekes a kutatók számára, akik a Közép-Amerika különböző spanyol hódítás előtti kultúrái közötti interakciókat tanulmányozzák. Bár a lelőhely kevésbé ismert, mint Copán, értékes betekintést nyújt a klasszikus kori regionális politikai szerveződésbe és az árucsere folyamatokba. Történelem K6 — régészeti lelőhelyek",
+        "ro": "Gualjoquito este un sit arheologic important situat pe malul râului Ulúa, în departamentul Santa Bárbara. Așezarea a înflorit între anii 400 și 900 d.Hr. și a funcționat ca punct strategic de control pentru comerțul dintre zonele joase mayașe și zonele muntoase centrale din Honduras. Situl cuprinde mai multe platforme ceremoniale, zone rezidențiale și structuri care prezintă un amestec de influențe Maya și Lenca. Descoperirile arheologice din Gualjoquito, inclusiv ceramica policromă și uneltele din obsidian, atestă relațiile comerciale extinse ale locuitorilor. Locația în valea fertilă a râului Ulúa a permis o agricultură intensivă și o bază stabilă a populației. Gualjoquito este deosebit de interesant pentru cercetătorii care studiază interacțiunile dintre diversele culturi prehispanice din America Centrală. Deși situl este mai puțin cunoscut decât Copán, acesta oferă perspective valoroase asupra organizației politice regionale și schimbului de bunuri în perioada clasică. Istorie K6 — situri arheologice",
+        "en": "Gualjoquito is a significant archaeological site located on the banks of the Ulúa River in the Santa Bárbara Department. The settlement thrived between 400 and 900 AD, serving as a strategic checkpoint for trade between the Maya lowlands and the central highlands of Honduras. The site includes several ceremonial platforms, residential zones, and structures that exhibit a blend of Maya and Lenca cultural influences. Archaeological finds at Gualjoquito, including polychrome ceramics and obsidian tools, prove the extensive trade networks maintained by its inhabitants. Its position in the fertile Ulúa River valley supported intensive agriculture and a stable population base. Gualjoquito is of particular interest to researchers investigating the interactions between various pre-Hispanic cultures in Central America. Although less famous than Copán, it offers invaluable insights into regional political organization and commodity exchange during the Classic period. History K6 — archaeological sites"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Blütezeit zwischen 400 und 900 n. Chr. (Klassik).",
+          "Strategische Lage am Ufer des Ulúa-Flusses.",
+          "Wichtiger Handelsplatz zwischen Maya- und Lenca-Gebieten.",
+          "Funde von hochwertiger polychromer Ulúa-Keramik.",
+          "Enthält zeremonielle Hügel und Wohnplattformen.",
+          "Liegt im Departement Santa Bárbara, West-Honduras."
+        ],
+        "hu": [
+          "Fénykora i.sz. 400 és 900 közé tehető (klasszikus kor).",
+          "Stratégiai elhelyezkedés az Ulúa-folyó partján.",
+          "Fontos kereskedelmi helyszín a maja és lenca területek között.",
+          "Kiváló minőségű Ulúa polikróm kerámia leletek.",
+          "Szertartási halmokat és lakóplatformokat foglal magában.",
+          "Nyugat-Hondurasban, Santa Bárbara megyében található."
+        ],
+        "ro": [
+          "Perioada de glorie între anii 400 și 900 d.Hr. (Perioada Clasică).",
+          "Locație strategică pe malul râului Ulúa.",
+          "Post comercial important între zonele Maya și Lenca.",
+          "Descoperiri de ceramică policromă Ulúa de înaltă calitate.",
+          "Conține monticule ceremoniale și platforme rezidențiale.",
+          "Situat în departamentul Santa Bárbara, vestul Hondurasului."
+        ],
+        "en": [
+          "Flourished during the Classic period, between 400 and 900 AD.",
+          "Strategically located on the banks of the Ulúa River.",
+          "Key trading post between Maya and Lenca cultural spheres.",
+          "Yielded high-quality finds of Ulúa polychrome ceramics.",
+          "Features ceremonial mounds and residential platforms.",
+          "Located in the Santa Bárbara Department of western Honduras."
+        ]
+      }
+    }
+  ]
+}

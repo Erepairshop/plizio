@@ -1,0 +1,365 @@
+{
+  "lang": "ro",
+  "country": "senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "thiès-cities-v2",
+      "descriptionAdvanced": "Thiès este al treilea oraș ca mărime din Senegal și un nod de transport crucial, situat la aproximativ 70 de kilometri est de capitala Dakar. Orașul s-a dezvoltat istoric ca un centru major al industriei feroviare, fiind punctul de legătură între coasta Atlanticului și interiorul continentului prin linia Dakar-Niger. Thiès este renumit la nivel mondial pentru „Manufactures Sénégalaises des Arts Décoratifs”, o manufactură de stat înființată la inițiativa președintelui Léopold Sédar Senghor, care produce tapiserii artistice de o calitate excepțională. Orașul are o identitate politică puternică, fiind leagănul multor mișcări sindicale, în special după greva istorică a feroviarilor din 1947. Astăzi, Thiès beneficiază de proximitatea față de noul aeroport internațional Blaise Diagne, devenind un centru atractiv pentru afaceri, educație militară și minerit, în special datorită zăcămintelor de fosfați din zonele învecinate, precum Lam-Lam. Clima sa este ceva mai blândă decât cea a capitalei, ceea ce îl face un loc de locuit preferat pentru multí profesioniști.",
+      "factsAdvanced": [
+        "Este al treilea cel mai populat oraș din Senegal, după Dakar și Touba.",
+        "A fost fondat în 1864 ca post militar francez strategic.",
+        "Găzduiește Manufactura Națională de Tapiserie, celebră în întreaga lume.",
+        "Orașul este cunoscut sub numele de „Cité du Rail” (Orașul Căii Ferate).",
+        "A fost scena grevei feroviarilor din 1947, un punct de cotitură social.",
+        "Se află la intersecția drumurilor către regiunile Saint-Louis și Kaolack.",
+        "Este un centru educațional major, cu numeroase academii militare.",
+        "Minele de fosfați din apropiere reprezintă o sursă economică vitală."
+      ]
+    },
+    {
+      "id": "rufisque-cities-v2",
+      "descriptionAdvanced": "Rufisque este un oraș portuar istoric situat la poarta de intrare a peninsulei Cap-Vert, având rădăcini care coboară până în secolul al XVI-lea, când a fost un punct de tranzit portughez numit Rio Fresco. În secolul al XIX-lea, orașul a devenit una dintre cele patru „communes” originale ale Senegalului francez, bucurându-se de aceleași drepturi cetățenești ca orașele din Franța. În perioada sa de glorie colonială, Rufisque a fost principalul port de export pentru arahide, motorul economiei senegaleze, fapt care a dus la construirea unor depozite și clădiri administrative impunătoare în stil colonial, care pot fi văzute și astăzi în cartierul vechi. În prezent, orașul s-a transformat dintr-un centru comercial într-unul industrial, găzduind SOCOCIM, cea mai mare fabrică de ciment din Africa de Vest. Deși urbanizarea rapidă și eroziunea costieră reprezintă provocări majore pentru conservarea patrimoniului său, Rufisque rămâne un martor esențial al istoriei economice a Africii de Est și un punct logistic vital între Dakar și restul țării.",
+      "factsAdvanced": [
+        "Numele orașului derivă din portughezul „Rio Fresco”, însemnând râu proaspăt.",
+        "În 1880, a primit statutul de comună franceză cu drepturi depline.",
+        "Până în anii 1920, a dominat piața mondială de export al arahidelor.",
+        "Găzduiește fabrica de ciment SOCOCIM, un pilon industrial național.",
+        "Orașul este renumit pentru arhitectura sa colonială și casele Lebou.",
+        "Se află la doar 25 de kilometri est de centrul capitalei Dakar.",
+        "Stadionul Ngalandou Diouf este centrul vieții sportive locale.",
+        "Eroziunea mării amenință structurile istorice de pe linia țărmului."
+      ]
+    },
+    {
+      "id": "kaolack-cities-v2",
+      "descriptionAdvanced": "Kaolack, situat pe malul râului Saloum, este inima economică și religioasă a regiunii centrale a Senegalului, fiind adesea numit capitala „bazinului de arahide”. Orașul a servit istoric ca un port fluvial strategic pentru exportul culturilor agricole și al sării extrase din salinele imense din apropiere. Dincolo de importanța sa comercială, Kaolack este un punct de referință spiritual global, găzduind cartierul Medina Baye, sediul ramurii Niassene a frăției Tijaniyya, fondată de șeicul Ibrahima Niass. Marea Moschee din Kaolack, cu minaretele sale albastre, este una dintre cele mai mari și mai frumoase din Africa de Vest, atrăgând anual mii de pelerini din întreaga lume. Piața orașului este renumită pentru vitalitatea sa, fiind un loc unde se întâlnesc comercianți din tot Sahelul pentru a vinde textile colorate, cereale și produse artizanale. Deși se confruntă cu temperaturi extrem de ridicate și provocări legate de salinitatea solului, Kaolack rămâne un centru vital de tranzit și cultură în inima țării.",
+      "factsAdvanced": [
+        "Găzduiește una dintre cele mai mari piețe acoperite din întreaga Africă de Vest.",
+        "Este centrul principal de producție și prelucrare a arahidelor din Senegal.",
+        "Regiunea este responsabilă pentru o mare parte din producția de sare a țării.",
+        "Cartierul Medina Baye este un centru mondial pentru frăția Tijaniyya.",
+        "Orașul are unul dintre cele mai fierbinți climate din întreaga regiune Sahel.",
+        "Portul fluvial se află la aproximativ 100 km în amonte de Oceanul Atlantic.",
+        "Marea Moschee a fost începută în anii 1930 de Ibrahima Niass.",
+        "Este un nod rutier esențial pentru călătoriile spre Gambia și Casamance."
+      ]
+    },
+    {
+      "id": "port-autonome-de-dakar-economic-v2",
+      "descriptionAdvanced": "Portul Autonom Dakar (PAD) reprezintă coloana vertebrală a economiei senegaleze și unul dintre cele mai avansate porturi de mare adâncime din Africa de Vest. Situat strategic în cel mai vestic punct al continentului, la intersecția marilor rute maritime dintre Europa, America și Africa, acesta oferă un avantaj logistic inegalabil. Portul este dotat cu terminale specializate pentru containere, cereale, produse petroliere și minerale, fiind operat parțial de gigantul global DP World. PAD nu este vital doar pentru Senegal, ci servește drept principală poartă de acces la mare pentru țările fără ieșire la ocean din hinterland, în special pentru Mali, prin coridorul Dakar-Bamako. În ultimii ani, portul a trecut prin procese masive de modernizare și digitalizare pentru a fluidiza traficul de mărfuri și a reduce timpii de așteptare. Pe lângă activitățile comerciale, portul găzduiește și un sector pescăresc industrial foarte activ, contribuind semnificativ la securitatea alimentară și la exporturile de fructe de mare ale țării.",
+      "factsAdvanced": [
+        "A fost fondat oficial în anul 1862, având o istorie de peste un secol.",
+        "Peste 90% din comerțul exterior al Senegalului trece prin acest port.",
+        "Are un pescaj de până la 13 metri, permițând accesul navelor mari.",
+        "Gestionează anual peste 20 de milioane de tone de mărfuri diverse.",
+        "Este cel mai mare angajator din sectorul public din întreaga țară.",
+        "Terminalul de containere este unul dintre cele mai moderne din regiune.",
+        "Servește ca hub de realimentare (bunkering) pentru navele transatlantice.",
+        "Portul pescăresc din Dakar este printre cele mai importante din Africa."
+      ]
+    },
+    {
+      "id": "sabodala-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina de aur Sabodala, situată în regiunea muntoasă Kédougou din sud-estul Senegalului, este prima și cea mai mare exploatare auriferă industrială a țării. De la începerea producției comerciale în 2009, mina a transformat radical profilul economic al Senegalului, propulsând sectorul minier ca un pilon major al produsului intern brut. Exploatarea se realizează prin metode de suprafață și utilizează facilități de procesare de ultimă generație pentru a extrage metalul prețios din roci vulcanice vechi de miliarde de ani (Birimian). Operată de Endeavour Mining, mina nu aduce doar venituri statului, ci investește și în dezvoltarea comunităților locale prin construirea de școli, clinici și sisteme de irigații. Sabodala face parte dintr-o strategie națională de diversificare economică, reducând dependența de agricultură. Cu toate acestea, exploatarea impune standarde stricte de mediu pentru a proteja biodiversitatea bogată din regiunea Kédougou, inclusiv habitatele cimpanzeilor și ale altor specii protejate din apropierea Parcului Național Niokolo-Koba.",
+      "factsAdvanced": [
+        "Este cea mai mare mină de aur din Senegal și una dintre cele mai importante din regiune.",
+        "Producția anuală depășește adesea pragul de 200.000 de uncii de aur.",
+        "Mina a început operațiunile comerciale la scară industrială în anul 2009.",
+        "Angajează peste 1.000 de persoane, marea majoritate fiind cetățeni senegalezi.",
+        "Se află la aproximativ 650 de kilometri distanță de capitala Dakar.",
+        "Sectorul minier, condus de aur, contribuie cu aproximativ 4% la PIB-ul național.",
+        "Zăcămintele se află în centura Birimian, cunoscută pentru bogăția în minerale.",
+        "Exploatarea utilizează tehnologii moderne de levigare pentru recuperarea aurului."
+      ]
+    },
+    {
+      "id": "port-ziguinchor-economic-v2",
+      "descriptionAdvanced": "Portul din Ziguinchor este principala poartă de acces maritim și fluvial pentru regiunea Casamance, situat în sudul Senegalului, la aproximativ 60 de kilometri de gura de vărsare a râului Casamance în Oceanul Atlantic. Acest port joacă un rol vital în integrarea economică a sudului țării, fiind punctul terminus pentru linia de feribot care leagă Ziguinchor de Dakar, transportând pasageri și mărfuri esențiale prin mare. Portul este un hub major pentru exportul de produse agricole locale, în special fructe (mango), nuci de caju și pește procesat. În ultimii ani, infrastructura portuară a fost modernizată pentru a primi nave de marfă mai mari și pentru a facilita tranzitul către țările vecine, precum Guineea-Bissau. Activitatea sa este esențială pentru spargerea izolării geografice a regiunii Casamance față de restul țării. Pe lângă funcția comercială, portul este centrul vieții sociale a orașului, fiind locul unde sosesc navele de pasageri Aline Sitoé Diatta, devenite un simbol al unității naționale.",
+      "factsAdvanced": [
+        "Este cel mai important port fluvial și maritim din sudul Senegalului.",
+        "Este situat strategic pe malul stâng al râului Casamance.",
+        "Asigură legătura vitală de pasageri cu Dakar prin feriboturi moderne.",
+        "Principalul hub de export pentru nucile de caju din întreaga regiune.",
+        "Infrastructura a fost modernizată recent pentru a spori capacitatea de marfă.",
+        "Portul se află la o distanță de 15 ore de navigație de capitala Dakar.",
+        "Găzduiește facilități de depozitare la rece pentru industria pescuitului.",
+        "Este un motor de creștere pentru economia locală și comerțul transfrontalier."
+      ]
+    },
+    {
+      "id": "port-kaolack-economic-v2",
+      "descriptionAdvanced": "Portul fluvial din Kaolack este situat pe râul Saloum și reprezintă un centru istoric al comerțului din inima Senegalului, fiind esențial pentru transportul produselor din „bazinul de arahide”. Deși este situat la peste 100 de kilometri în interiorul continentului față de ocean, portul permite accesul navelor de dimensiuni medii datorită dragajului canalului Saloum. Activitatea sa principală este legată de exportul de sare marină, extrasă în cantități masive din salinele învecinate, și de transportul uleiului și semințelor de arahide către piețele internaționale. În perioada colonială, portul Kaolack a fost unul dintre cele mai active din Africa de Vest, iar astăzi autoritățile fac eforturi pentru revitalizarea sa ca parte a strategiei naționale de descentralizare economică. Importanța sa este amplificată de conexiunile rutiere care leagă orașul de Mali și de restul Africii de Vest, transformându-l într-un punct de tranzit regional pentru mărfurile care evită portul aglomerat din Dakar.",
+      "factsAdvanced": [
+        "Este un port fluvial strategic situat în interiorul regiunii Saloum.",
+        "Principalul punct de plecare pentru exporturile de sare ale Senegalului.",
+        "Joacă un rol istoric crucial în comercializarea mondială a arahidelor.",
+        "Accesul navelor este permis prin estuarul Saloum, pe o distanță de 100 km.",
+        "Portul este conectat la axele rutiere care duc spre Mali și Gambia.",
+        "Infrastructura portuară include silozuri și zone de depozitare masivă.",
+        "Autoritățile au demarat proiecte de dragaj pentru a permite nave cu pescaj mai mare.",
+        "A fost unul dintre cele mai importante centre de export în epoca colonială."
+      ]
+    },
+    {
+      "id": "gco-diogo-mine-economic-v2",
+      "descriptionAdvanced": "Mina Diogo, operată de Grande Côte Opérations (GCO), este una dintre cele mai mari exploatări de nisipuri mineralizate din lume, situată de-a lungul coastei de nord-vest a Senegalului. Proiectul se întinde pe o fâșie lungă de dune de nisip și utilizează o tehnologie avansată de dragaj pe apă pentru a extrage minerale prețioase precum zirconul, ilmenitul, rutilul și leucoxenul. Aceste minerale sunt esențiale în industriile globale de ceramică, pigmenți și producție de titan. GCO a construit o infrastructură impresionantă pentru a susține mina, inclusiv o centrală electrică proprie, o linie ferată privată de 100 de kilometri și un terminal dedicat în portul Dakar. Mina reprezintă un succes al parteneriatului între statul senegalez și investitorii străini, contribuind semnificativ la exporturile țării și la crearea de locuri de muncă în regiunile rurale. Pe lângă impactul economic, compania implementează programe de reabilitare a dunelor după exploatare, plantând mii de copaci pentru a stabiliza nisipul și a proteja ecosistemul fragil al zonei Niayes.",
+      "factsAdvanced": [
+        "Este una dintre cele mai mari mine de zircon din lume după capacitate.",
+        "Mineralele extrase includ zircon, ilmenit, rutil și leucoxen.",
+        "Utilizează o dragă plutitoare gigantică într-un bazin artificial mobil.",
+        "Dispune de o linie ferată proprie de 100 km pentru transportul concentratelor.",
+        "Proiectul Grande Côte (GCO) este un parteneriat franco-senegalez (Eramet).",
+        "A creat peste 1.000 de locuri de muncă directe în nordul Senegalului.",
+        "Zirconul extras este exportat în principal pentru industria ceramicii fine.",
+        "Compania are o politică strictă de reabilitare a mediului prin reîmpădurire."
+      ]
+    },
+    {
+      "id": "sococim-rufisque-economic-v2",
+      "descriptionAdvanced": "SOCOCIM Industries, situată în Rufisque, este prima și cea mai importantă fabrică de ciment din Senegal, reprezentând un pilon fundamental al sectorului industrial național. Fondată în 1948, fabrica a însoțit dezvoltarea infrastructurii țării, furnizând materialele necesare pentru marile proiecte de construcții, autostrăzi și clădiri rezidențiale. Astăzi, parte a grupului francez Vicat, SOCOCIM este cea mai mare unitate de producție de ciment din Africa de Vest, având o capacitate de producție de câteva milioane de tone pe an. Fabrica utilizează zăcămintele locale de calcar din zona Rufisque-Bargny și a investit masiv în tehnologii sustenabile, inclusiv o centrală solară de mari dimensiuni pentru a-și reduce amprenta de carbon. SOCOCIM nu este doar un producător industrial, ci și un angajator major, susținând economia locală și dezvoltarea socială a orașului Rufisque. Modernizarea constantă a cuptoarelor și a liniilor de măcinare permite fabricii să exporte ciment de înaltă calitate în țările vecine, contribuind la balanța comercială a Senegalului.",
+      "factsAdvanced": [
+        "Este prima fabrică de ciment construită în Senegal, în anul 1948.",
+        "Cea mai mare unitate de producție de ciment din întreaga regiune ECOWAS.",
+        "Aparține grupului internațional Vicat din anul 1999.",
+        "Găzduiește una dintre cele mai mari centrale solare private din țară.",
+        "Folosește zăcămintele locale de calcar din regiunea Rufisque.",
+        "Capacitatea sa de producție depășește 3,5 milioane de tone pe an.",
+        "Furnizează materialele de bază pentru aproape toate proiectele majore de infrastructură.",
+        "Este unul dintre cei mai mari contribuabili la bugetul statului senegalez."
+      ]
+    },
+    {
+      "id": "ics-darou-khoudoss-economic-v2",
+      "descriptionAdvanced": "Industriile Chimice ale Senegalului (ICS), cu principala lor exploatare la Darou Khoudoss, reprezintă cel mai mare complex industrial din țară, axat pe valorificarea resurselor de fosfați. Zăcămintele de fosfați de la Taïba și Mboro sunt transformate în acid fosforic și îngrășăminte chimice, produse esențiale pentru agricultura mondială. ICS operează o infrastructură integrată care include mine de suprafață, uzine chimice complexe și o conexiune feroviară dedicată către portul Dakar. Complexul a jucat un rol istoric în industrializarea Senegalului, fiind pentru mult timp principala sursă de valută din exporturi. În prezent, sub controlul grupului Indorama, complexul a beneficiat de investiții masive pentru revitalizarea producției și îmbunătățirea standardelor de siguranță. Pe lângă impactul economic major, ICS este profund implicată în viața socială a regiunii Thiès, furnizând apă și servicii medicale comunităților miniere, deși activitatea sa impune o monitorizare atentă a impactului asupra mediului înconjurător.",
+      "factsAdvanced": [
+        "Cel mai mare complex industrial și minier din Senegal.",
+        "Transformă fosfații bruti în acid fosforic pentru export global.",
+        "Minele de bază sunt situate la Taïba, în regiunea Thiès.",
+        "Grupul Indorama este acționarul majoritar actual al companiei.",
+        "Produsele ICS sunt vitale pentru industria mondială a îngrășămintelor.",
+        "Deține o flotă feroviară privată pentru transportul către port.",
+        "Complexul include uzine de producție a acidului sulfuric și fosforic.",
+        "Este unul dintre cei mai mari consumatori de energie electrică din țară."
+      ]
+    },
+    {
+      "id": "ciments-du-sahel-economic-v2",
+      "descriptionAdvanced": "Ciments du Sahel (CDS) este o fabrică de ciment modernă situată în localitatea Kirène, în regiunea Thiès, reprezentând unul dintre cele mai mari succese ale antreprenoriatului privat senegalez. Fondată de omul de afaceri Layousse, fabrica a spart monopolul istoric din sectorul cimentului și a contribuit la scăderea prețurilor materialelor de construcții în Senegal și în regiune. Cu o capacitate de producție impresionantă, CDS utilizează tehnologii europene de ultimă generație pentru a produce un ciment de înaltă calitate, foarte apreciat atât pe piața internă, cât și pentru exportul către Mali și Gambia. Fabrica este situată strategic lângă zăcăminte bogate de calcar și are propria sa centrală electrică, asigurându-și autonomia energetică. Ciments du Sahel joacă un rol crucial în Planul Senegal Emergent, furnizând cimentul necesar pentru dezvoltarea noului pol urban de la Diamniadio și pentru extinderea rețelei de autostrăzi, fiind totodată un exemplu de succes industrial sută la sută african.",
+      "factsAdvanced": [
+        "Este una dintre cele mai mari fabrici de ciment cu capital privat din Senegal.",
+        "Situată în Kirène, beneficiază de zăcăminte masive de calcar și marnă.",
+        "Exportă o parte considerabilă din producție către Mali, Gambia și Guineea.",
+        "Dispune de o centrală electrică proprie de peste 60 MW pentru autonomie.",
+        "Utilizează tehnologii germane și daneze pentru o eficiență sporită.",
+        "A fost inaugurată în anul 2002, schimbând piața construcțiilor din țară.",
+        "Contribuie major la dezvoltarea polului urban Diamniadio.",
+        "Fabrica angajează direct și indirect mii de persoane din regiunea Thiès."
+      ]
+    },
+    {
+      "id": "dangote-cement-pout-economic-v2",
+      "descriptionAdvanced": "Fabrica Dangote Cement din Pout este cea mai recentă și mai modernă adiție la sectorul de ciment din Senegal, fiind o investiție majoră a grupului nigerian Dangote Industries. Situată între regiunile Thiès și Dakar, această unitate de producție folosește tehnologii avansate pentru a produce ciment de înaltă rezistență, destinat în special marilor proiecte de infrastructură și construcțiilor industriale. Dangote Cement a introdus standarde ridicate de eficiență și mediu, utilizând filtre de ultimă generație și o centrală electrică pe cărbune pentru a asigura o producție constantă. Intrarea sa pe piața senegaleză a stimulat competiția, ducând la o mai bună disponibilitate a materialelor de construcții la nivel național. Fabrica este un nod logistic important, fiind conectată la principalele rute rutiere către interiorul țării și statele vecine. Prin programele sale de responsabilitate socială, compania sprijină comunitățile locale din Pout prin proiecte de educație și sănătate, integrându-se în peisajul economic local.",
+      "factsAdvanced": [
+        "Este o investiție a grupului Dangote, aparținând celui mai bogat om din Africa.",
+        "Situată strategic în Pout, la intersecția marilor rute comerciale.",
+        "A început producția în anul 2015, fiind cea mai nouă fabrică de profil.",
+        "Utilizează o centrală electrică proprie de 30 MW pentru a evita întreruperile.",
+        "Producția este axată pe ciment de înaltă calitate de tip 42.5.",
+        "Se concentrează pe piața internă senegaleză și pe exportul către Mali.",
+        "Fabrica a implementat sisteme moderne de reducere a prafului și emisiilor.",
+        "Contribuie semnificativ la diversificarea sectorului industrial senegalez."
+      ]
+    },
+    {
+      "id": "sar-refinery-mbao-economic-v2",
+      "descriptionAdvanced": "Societatea Africană de Rafinare (SAR), situată la Mbao, în apropiere de Dakar, este singura rafinărie de petrol din Senegal și una dintre cele mai vechi din Africa de Vest. Înființată în 1961, rafinăria joacă un rol strategic vital în securitatea energetică a țării, procesând țiței importat pentru a produce benzină, motorină, combustibil pentru avioane (Jet A1) și gaz butan (GPL) pentru consumul casnic. Recent, SAR a trecut printr-un proces masiv de modernizare și extindere pentru a-și crește capacitatea de rafinare și pentru a se adapta la prelucrarea viitoarei producții autohtone de petrol din zăcămintele Sangomar. Rafinăria este conectată prin conducte direct la portul Dakar, facilitând recepția materiei prime și distribuția produselor finite. Importanța sa este crucială nu doar pentru transporturi, ci și pentru producția de energie electrică, furnizând combustibil centralelor termice ale SENELEC. Ca pilon al suveranității energetice, SAR asigură disponibilitatea constantă a produselor petroliere pe piața națională, protejând economia de fluctuațiile bruște ale ofertei internaționale.",
+      "factsAdvanced": [
+        "Este singura rafinărie de petrol din Senegal, fondată în anul 1961.",
+        "Situată în Mbao, la periferia estică a capitalei Dakar.",
+        "Asigură cea mai mare parte a necesarului național de gaz butan (GPL).",
+        "Produce combustibil special Jet A1 pentru aeroportul internațional.",
+        "Este în curs de modernizare pentru a procesa petrolul extras din Senegal.",
+        "Statul senegalez este acționarul majoritar prin intermediul PETROSEN.",
+        "Capacitatea sa a fost extinsă recent la 1,5 milioane de tone pe an.",
+        "Este o infrastructură critică pentru funcționarea centralelor electrice."
+      ]
+    },
+    {
+      "id": "taiba-ndiaye-wind-farm-economic-v2",
+      "descriptionAdvanced": "Parcul Eolian Taïba Ndiaye (PETN) este cel mai mare proiect de energie eoliană din Africa de Vest, reprezentând un salt uriaș în strategia Senegalului de tranziție către energia verde. Situat în regiunea Thiès, acest parc este compus din 46 de turbine eoliene gigantice, furnizate de Vestas, care generează o putere totală de 158,7 MW. Proiectul furnizează aproximativ 15% din energia electrică a țării către rețeaua națională SENELEC, alimentând peste 2 milioane de oameni cu energie curată și regenerabilă. Inaugurat în 2020, parcul a redus semnificativ dependența țării de importurile de combustibili fosili și a evitat emisia a sute de mii de tone de dioxid de carbon anual. Pe lângă impactul ecologic, proiectul a adus beneficii comunității locale din Taïba Ndiaye prin crearea de locuri de muncă, modernizarea infrastructurii rurale și sprijinirea agriculturii locale. Este un simbol al modernității și al angajamentului Senegalului față de obiectivele climatice globale, plasând țara în fruntea liderilor africani în domeniul energiilor regenerabile.",
+      "factsAdvanced": [
+        "Este cel mai mare parc eolian din întreaga regiune a Africii de Vest.",
+        "Compus din 46 de turbine cu o capacitate totală de 158,7 megawați.",
+        "Furnizează aproximativ 15% din necesarul de electricitate al Senegalului.",
+        "Proiectul a fost dezvoltat de compania internațională Lekela Power.",
+        "Turbinele au o înălțime de 117 metri, fiind vizibile de la mare distanță.",
+        "A fost inaugurat oficial de președintele Senegalului în februarie 2020.",
+        "Reduce emisiile de CO2 cu peste 300.000 de tone în fiecare an.",
+        "A generat investiții masive în infrastructura socială a regiunii Thiès."
+      ]
+    },
+    {
+      "id": "cap-des-biches-power-station-economic-v2",
+      "descriptionAdvanced": "Centrala electrică de la Cap des Biches, situată în apropiere de Rufisque, este cel mai mare și mai important complex de producție de energie electrică din Senegal. Acest hub energetic găzduiește mai multe unități de producție, inclusiv turbine cu gaz și motoare diesel, care funcționează cu păcură grea și gaze naturale. Importanța sa este vitală pentru stabilitatea rețelei naționale, furnizând energia necesară pentru zona metropolitană a Dakarului și pentru marile zone industriale. Recent, complexul a beneficiat de adăugarea centralei de ciclu combinat West African Energy, o investiție masivă care utilizează gazul natural pentru a produce energie mai eficient și cu emisii reduse. Cap des Biches este inima sistemului de furnizare a energiei electrice gestionat de SENELEC, asigurând fluxul continuu de curent pentru economie și populație. Modernizarea sa este strâns legată de strategia națională „Gas-to-Power”, care vizează utilizarea resurselor autohtone de gaz natural descoperite recent în largul coastelor Senegalului pentru a reduce costurile de producție ale electricității.",
+      "factsAdvanced": [
+        "Este principalul centru de producție de energie electrică pentru regiunea Dakar.",
+        "Găzduiește unități de producție de tip ciclu combinat de ultimă generație.",
+        "Este o componentă cheie a strategiei naționale „Gas-to-Power”.",
+        "Capacitatea totală instalată la Cap des Biches depășește 450 MW.",
+        "Funcționează în principal cu păcură grea și, recent, cu gaze naturale.",
+        "Complexul este administrat și operat de SENELEC și parteneri privați.",
+        "Situat strategic pe coastă, facilitând răcirea și accesul la combustibil.",
+        "Energia produsă aici este esențială pentru funcționarea industriei din Rufisque."
+      ]
+    },
+    {
+      "id": "css-richard-toll-economic-v2",
+      "descriptionAdvanced": "Compania Zahărului din Senegal (CSS), situată în orașul Richard Toll, este unul dintre cei mai mari angajatori privați din țară și inima industriei agroalimentare din nordul Senegalului. Compania operează o plantație imensă de peste 12.000 de hectare de trestie de zahăr în valea fluviului Senegal, irigată prin sisteme complexe de canale care preiau apa din fluviu. CSS controlează întregul proces de producție, de la cultivarea trestiei până la rafinarea zahărului și producția de etanol. Această unitate industrială a transformat Richard Toll dintr-un mic post colonial într-un oraș industrial vibrant, susținând viața a zeci de mii de oameni. CSS joacă un rol crucial în suveranitatea alimentară a țării, acoperind aproape întregul necesar național de zahăr. Pe lângă activitatea principală, compania a investit în producerea de energie regenerabilă din biomasă (bagasul rămas de la trestie), asigurându-și autonomia energetică și reducând impactul asupra mediului înconjurător.",
+      "factsAdvanced": [
+        "Este singurul mare producător de zahăr din Senegal, fondat în 1970.",
+        "Plantațiile de trestie de zahăr se întind pe mai mult de 12.000 de hectare.",
+        "Richard Toll a devenit un oraș industrial major datorită activității CSS.",
+        "Utilizează apele fluviului Senegal pentru un sistem de irigații gigant.",
+        "Angajează direct peste 6.000 de persoane și mii de sezonieri.",
+        "Produce peste 140.000 de tone de zahăr rafinat în fiecare an.",
+        "Deține o uzină modernă de distilare pentru producția de etanol.",
+        "Produce energie electrică proprie din reziduurile de trestie de zahăr."
+      ]
+    },
+    {
+      "id": "sn-dk-house-slaves-history-v2",
+      "descriptionAdvanced": "Casa Sclavilor (Maison des Esclaves) de pe insula Gorée este unul dintre cele mai puternice simboluri ale istoriei sclaviei transatlantice și un loc de pelerinaj pentru memoria umanității. Construită de olandezi în 1776 și reconstruită ulterior de francezi, această clădire roz cu scări duble emblematice a servit drept loc de detenție pentru bărbații, femeile și copiii africani înainte de a fi îmbarcați pe navele care îi duceau spre Americi. Cel mai emoționant punct al vizitei este „Poarta fără întoarcere” (Porte du non-retour), o deschidere îngustă spre ocean prin care sclavii treceau direct pe corăbii, părăsindu-și definitiv pământul natal. Conservată ca muzeu, Casa Sclavilor a fost condusă timp de decenii de legendarul custode Boubacar Joseph Ndiaye, care a dedicat viața sa educării vizitatorilor despre ororile sclaviei. UNESCO a recunoscut insula Gorée ca Patrimoniu Mondial în 1978, subliniind importanța acestui loc ca un avertisment etern împotriva încălcării drepturilor omului.",
+      "factsAdvanced": [
+        "Clădirea actuală a fost finalizată în 1776 pe insula vulcanică Gorée.",
+        "Este faimoasă pentru „Poarta fără întoarcere” care dă direct spre mare.",
+        "A fost vizitată de lideri mondiali precum Nelson Mandela și Barack Obama.",
+        "Simbolizează suferința a milioane de africani în timpul traficului transatlantic.",
+        "Insula Gorée a fost inclusă în Patrimoniul Mondial UNESCO în 1978.",
+        "Muzeul conține celule de detenție păstrate în starea lor originală.",
+        "Este situată la doar 20 de minute de mers cu feribotul de Dakar.",
+        "Casa Sclavilor servește drept centru de cercetare asupra diasporei africane."
+      ]
+    },
+    {
+      "id": "sn-sl-historic-centre-history-v2",
+      "descriptionAdvanced": "Centrul istoric al orașului Saint-Louis, situat pe o insulă îngustă la gura de vărsare a fluviului Senegal, a fost prima capitală a Africii Occidentale Franceze și rămâne un giuvaier al arhitecturii coloniale. Fondat în 1659, orașul a servit drept centru strategic pentru comerțul cu gumă arabică, aur și sclavi, devenind ulterior un far cultural și politic al regiunii. Insula este caracterizată de străzile sale rectilinii, casele cu fațade colorate și balcoane din fier forjat, care amintesc de cartierul francez din New Orleans. Saint-Louis este celebru pentru Podul Faidherbe, o capodoperă metalică proiectată de birourile Eiffel, care leagă insula de continent. Orașul a fost un model de multiculturalism, unde comunitatea „Signares” – femei metise cu o mare influență economică și socială – a jucat un rol definitoriu. Astăzi, înscris în Patrimoniul Mondial UNESCO, Saint-Louis este un centru artistic vibrant, gazda celebrului Festival Internațional de Jazz, deși se confruntă cu amenințarea serioasă a creșterii nivelului mării.",
+      "factsAdvanced": [
+        "A fost prima așezare franceză permanentă în Africa de Vest (1659).",
+        "A servit drept capitală a Senegalului până în anul 1957.",
+        "Centrul istoric este situat pe o insulă lungă de 2 km și lată de 400 m.",
+        "Podul Faidherbe, lung de 500 m, este simbolul ingineriei orașului.",
+        "Este inclus în lista Patrimoniului Mondial UNESCO din anul 2000.",
+        "Găzduiește anual cel mai mare Festival de Jazz din Africa de Vest.",
+        "Cultura locală este marcată de eleganța tradițională a femeilor Signare.",
+        "Orașul este numit „Veneția Africii” datorită locației sale fluviale."
+      ]
+    },
+    {
+      "id": "sn-ka-sine-ngayene-history-v2",
+      "descriptionAdvanced": "Cercurile megalitice de la Sine Ngayene fac parte dintr-un ansamblu transfrontalier unic, inclus în Patrimoniul Mondial UNESCO, care se întinde între Senegal și Gambia. Acest sit este cel mai mare și mai complex dintre cele patru situri protejate, cuprinzând 52 de cercuri formate din peste 1.100 de pietre de laterit sculptate cu mare precizie. Monumentele datează dintr-o perioadă cuprinsă între secolele al III-lea î.Hr. și secolul al XVI-lea d.Hr., reprezentând o realizare tehnologică și socială remarcabilă a societăților preistorice locale. Cercetările arheologice au relevat că aceste structuri aveau o funcție funerară, fiind ridicate peste morminte colective, și reflectă o organizare socială complexă și o înțelegere avansată a prelucrării pietrei. Sine Ngayene include, de asemenea, o carieră de piatră în apropiere, oferind indicii prețioase despre modul în care aceste coloane masive au fost extrase și transportate. Situl rămâne o mărturie tăcută a unei civilizații africane străvechi despre care încă se cunosc puține detalii, dar a cărei moștenire monumentală este comparabilă cu marile situri megalitice ale lumii.",
+      "factsAdvanced": [
+        "Situl cuprinde 52 de cercuri megalitice și peste 1.100 de pietre individuale.",
+        "Face parte din Patrimoniul Mondial UNESCO sub numele „Cercurile Megalitice din Senegambia”.",
+        "Pietrele sunt cioplite din laterit, o rocă roșiatică dură tipică regiunii.",
+        "Cea mai mare piatră din sit are o greutate de câteva tone.",
+        "Monumentele au o vechime estimată la peste 1.500 de ani.",
+        "Este cel mai mare complex megalitic din întreaga Africă de Vest.",
+        "Situl include o carieră antică de unde au fost extrase pietrele.",
+        "Se află în regiunea Kaolack, aproape de frontiera cu Gambia."
+      ]
+    },
+    {
+      "id": "sn-ka-wanar-history-v2",
+      "descriptionAdvanced": "Situl megalitic de la Wanar, situat în regiunea Kaolack din Senegal, este unul dintre cele mai fascinante elemente ale complexului arheologic din Senegambia protejat de UNESCO. Wanar se distinge prin forma și finisajul excepțional al pietrelor sale lateritice, multe dintre ele având o formă de liră sau de „Y”, care sunt unice în peisajul megalitic african. Situl cuprinde 21 de cercuri de piatră, înconjurate adesea de pietre „frontale” plasate la exterior, care indică direcția răsăritului. Excavațiile recente au dezvăluit detalii despre ritualurile funerare sofisticate, indicând faptul că monumentele au fost ridicate în mai multe etape, peste mormintele unor lideri sau grupuri familiale importante. Wanar oferă o perspectivă rară asupra religiozității și artei popoarelor care au trăit în valea fluviului Saloum în urmă cu mai bine de un mileniu. Precizia cu care au fost tăiate aceste coloane monolitice, fără unelte de fier avansate, rămâne un subiect de admirație pentru arheologi și vizitatori deopotrivă.",
+      "factsAdvanced": [
+        "Cuprinde 21 de cercuri de piatră cu o arhitectură funerară complexă.",
+        "Pietrele în formă de liră de la Wanar sunt simboluri arheologice naționale.",
+        "Situl este inclus pe lista Patrimoniului Mondial UNESCO din 2006.",
+        "Monumentele funerare au fost construite între secolele VII și XIV.",
+        "Wanar este considerat un „laborator” arheologic pentru studiul megalitismului.",
+        "Pietrele „frontale” sunt întotdeauna aliniate spre est, spre soarele răsare.",
+        "Situl păstrează urme ale unor depuneri rituale de ceramică veche.",
+        "Lateritul folosit pentru pietre a fost sculptat cât timp era încă moale în carieră."
+      ]
+    },
+    {
+      "id": "sn-tc-fort-bakel-history-v2",
+      "descriptionAdvanced": "Fortul Bakel, situat strategic pe un deal care domină fluviul Senegal, a fost unul dintre cele mai importante posturi militare și comerciale franceze din interiorul continentului în secolul al XIX-lea. Fondat în 1818, fortul a servit drept bază pentru explorarea și controlul regiunii Galam, bogată în aur, gumă arabică și resurse agricole. Bakel a fost un punct de confruntare istorică între armatele franceze și mișcările de rezistență locale, în special în timpul asediului condus de șeicul mistic Mamadou Lamine Drame în 1886. Arhitectura fortului, cu zidurile sale groase de piatră și bastioanele de apărare, oferă o imagine clară a metodelor de fortificație colonială din acea epocă. Astăzi, de pe platforma fortului, vizitatorii pot admira o panoramă spectaculoasă asupra fluviului și a orașului Bakel, care păstrează atmosfera unui centru comercial de frontieră. Situl este un loc esențial pentru înțelegerea modului în care s-a realizat penetrarea colonială în adâncimea Africii de Vest și a rezistenței pe care a întâmpinat-o.",
+      "factsAdvanced": [
+        "A fost construit de francezi în 1818 pe malul fluviului Senegal.",
+        "Situat pe un deal strategic care oferă control asupra navigației fluviale.",
+        "A fost scena unui asediu celebru în 1886 condus de Mamadou Lamine.",
+        "Bakel a fost capitala istorică a regatului Galam în perioada precolonială.",
+        "Fortul păstrează zidurile originale și tunurile de epocă.",
+        "A servit drept depozit central pentru guma arabică extrasă din regiune.",
+        "Este un simbol al rezistenței popoarelor Soninke împotriva colonizării.",
+        "Orașul Bakel este situat la granița triplă dintre Senegal, Mali și Mauritania."
+      ]
+    },
+    {
+      "id": "sn-dakar-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Catedrala Maicii Domnului a Victoriilor din Dakar este un edificiu religios impresionant situat în cartierul Plateau, reprezentând inima spirituală a comunității catolice din Senegal. Inaugurată în 1936 pe locul unui vechi cimitir european, catedrala a fost construită în stil neobizantin și maur, reflectând influențele culturale diverse ale Africii de Vest. Edificiul este remarcabil pentru dimensiunile sale generoase, cupola centrală masivă și cele două minarete stilizate care flanchează fațada, o alegere arhitecturală rară care simbolizează dialogul dintre creștinism și islam în Senegal. Interiorul este decorat cu fresce vibrante și vitralii care ilustrează scene biblice în context african. Catedrala este locul unde se desfășoară marile ceremonii religioase ale capitalei și servește drept sediu pentru Arhiepiscopia de Dakar. În ciuda faptului că Senegalul este o țară cu o majoritate musulmană covârșitoare, catedrala stă ca un monument al toleranței și al coexistenței pașnice, fiind vizitată atât de credincioși, cât și de turiști atrași de arhitectura sa eclectică.",
+      "factsAdvanced": [
+        "A fost sfințită în anul 1936 de Cardinalul Verdier.",
+        "Arhitectura sa îmbină elemente neo-bizantine, art deco și stil maur.",
+        "Situată în inima centrului istoric și administrativ al orașului Dakar.",
+        "Cupola centrală este una dintre cele mai înalte structuri din Plateau.",
+        "Frescele interioare au fost restaurate recent pentru a-și păstra strălucirea.",
+        "Găzduiește anual slujba solemnă de Crăciun și de Paște a capitalei.",
+        "Este un simbol al modelului senegalez de coexistență interreligioasă.",
+        "Numele său oficial este „Cathédrale Notre-Dame des Victoires”."
+      ]
+    },
+    {
+      "id": "sn-abdoulaye-wade-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Președinte Abdoulaye Wade, situat în noul oraș Diamniadio de la periferia Dakarului, este cea mai modernă bijuterie sportivă a Senegalului și unul dintre cele mai avansate stadioane din Africa. Inaugurat în februarie 2022, în prezența multor lideri de stat și vedete ale fotbalului, stadionul are o capacitate de 50.000 de locuri și îndeplinește toate standardele internaționale ale FIFA. Designul său futurist, cu o structură metalică impunătoare și un sistem de iluminat de ultimă generație, a fost conceput pentru a găzdui competiții de rang mondial, fiind noua „casă” a echipei naționale de fotbal a Senegalului, „Leii din Teranga”. Arena include un muzeu al fotbalului senegalez, numeroase loje VIP și facilități de presă de elită. Construcția stadionului face parte dintr-un plan vast de descentralizare a capitalei către polul Diamniadio, stimulând dezvoltarea urbană și sportivă a țării. Acesta a fost rapid integrat în cultura populară ca un simbol al mândriei naționale, mai ales după victoria istorică a Senegalului la Cupa Africii pe Națiuni.",
+      "factsAdvanced": [
+        "Are o capacitate de 50.000 de locuri, fiind cel mai modern stadion din țară.",
+        "A fost inaugurat oficial pe 22 februarie 2022 în prezența FIFA.",
+        "Este singurul stadion din Senegal omologat pentru meciuri internaționale FIFA.",
+        "Găzduiește Muzeul Național al Fotbalului Senegalez în interiorul complexului.",
+        "A fost construit în timp record, în mai puțin de 18 luni.",
+        "Se află în inima noului oraș inteligent (Smart City) Diamniadio.",
+        "Designul exterior este inspirat de peisajele și resursele naturale ale țării.",
+        "Arena dispune de facilități hibride pentru fotbal, rugby și evenimente culturale."
+      ]
+    },
+    {
+      "id": "sn-leopold-sedar-senghor-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Léopold Sédar Senghor, numit în onoarea primului președinte și poet al Senegalului, a fost timp de decenii principala arenă sportivă a țării și una dintre cele mai mari din Africa de Vest. Construit în 1985 cu ajutorul Chinei, stadionul are o arhitectură unică în formă de „vâslă” sau amfiteatru deschis, având o capacitate oficială de 60.000 de locuri. Situat strategic în cartierul Grand Yoff din Dakar, complexul a găzduit momente istorice ale fotbalului senegalez, dar și mari evenimente religioase și politice. De-a lungul anilor, a fost locul unde s-au desfășurat meciurile legendare ale echipei naționale și numeroase competiții internaționale de atletism. Pe lângă fotbal, stadionul dispune de o pistă de atletism de nivel olimpic și facilități pentru alte sporturi. Deși în prezent a fost parțial eclipsat de noul stadion din Diamniadio, el rămâne un reper geografic și sentimental major în peisajul urban al Dakarului, fiind în curs de renovare pentru a găzdui Jocurile Olimpice de Tineret din 2026.",
+      "factsAdvanced": [
+        "Inaugurat în 1985, a fost cel mai mare stadion din Senegal timp de 37 de ani.",
+        "Capacitatea maximă de 60.000 de locuri îl face ideal pentru marile evenimente.",
+        "Arhitectura sa a fost inspirată din designul stadioanelor olimpice asiatice.",
+        "Este situat în cartierul Grand Yoff, un punct central al traficului din Dakar.",
+        "Găzduiește mormântul simbolic al sportului național senegalez.",
+        "Va fi una dintre locațiile principale pentru Jocurile Olimpice de Tineret din 2026.",
+        "A fost scena Campionatului African de Fotbal din 1992.",
+        "Include o pistă de atletism și numeroase săli de antrenament multifuncționale."
+      ]
+    },
+    {
+      "id": "sn-national-theatre-daniel-sorano-landmarks-v2",
+      "descriptionAdvanced": "Teatrul Național Daniel Sorano din Dakar este instituția culturală de referință a Senegalului, fondată în 1965 la inițiativa președintelui Léopold Sédar Senghor, marele promotor al „Negritudinii”. Situat în centrul capitalei, teatrul poartă numele celebrului actor franco-senegalez Daniel Sorano și a fost conceput ca un spațiu pentru exprimarea identității africane prin arte spectacolului. Clădirea găzduiește trei secțiuni majore: Compania Națională de Teatru, Baletul Național „La Linguère” și Ansamblul Liric Tradițional. De-a lungul deceniilor, Sorano a fost scena unde s-au cristalizat cele mai importante piese de teatru, dansuri și creații muzicale care au definit cultura senegaleză post-independență. Arhitectura sa elegantă și acustica excelentă îl fac un loc privilegiat pentru premiere teatrale, concerte simfonice și recepții oficiale de stat. Teatrul Daniel Sorano nu este doar o clădire, ci un simbol viu al diplomației culturale a Senegalului, promovând valorile africane pe marile scene ale lumii.",
+      "factsAdvanced": [
+        "Inaugurat de președintele Senghor pe 17 iulie 1965.",
+        "Poartă numele ilustrului actor Daniel Sorano (1920–1962).",
+        "Găzduiește Baletul Național „La Linguère”, mândria dansului senegalez.",
+        "Este situat pe Bulevardul Republicii, în inima administrativă a orașului.",
+        "Capacitatea sălii principale este de aproximativ 1.100 de locuri.",
+        "A fost un pilon central al Festivalului Mondial al Artelor Negre (FESMAN).",
+        "Ansamblul Liric Tradițional de aici păstrează tradiția griot-ilor.",
+        "Este considerat „Templul Culturii” și al identității naționale senegaleze."
+      ]
+    }
+  ]
+}

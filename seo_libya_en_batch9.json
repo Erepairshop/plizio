@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "homsh-city-park-life-v2",
+      "descriptionAdvanced": "Homs City Park is a vibrant, beautifully landscaped green space located in the center of the bustling coastal city. It provides a much-needed recreational respite from the dense urban and industrial environment surrounding the nearby port. The park features shaded walking paths, expansive lawns, and modern children's play areas, making it heavily frequented by local families during the cooler evening hours. Its proximity to the sea ensures a pleasant, salty breeze year-round. Sociology K6 — urban recreational infrastructure.",
+      "factsAdvanced": [
+        "A major public recreational park located centrally in the city of Khoms.",
+        "Provides a vital green contrast to the city's heavy port and industrial zones.",
+        "Features well-maintained lawns, shaded walkways, and children's playgrounds.",
+        "Highly utilized by local families, especially during summer evenings.",
+        "Benefits from a cooling, natural sea breeze from the nearby Mediterranean.",
+        "Frequently hosts small community gatherings and local food vendors."
+      ]
+    },
+    {
+      "id": "sirte-family-life-v2",
+      "descriptionAdvanced": "The Sirte Family Center represents the resilient effort to restore normal civic life to a city heavily scarred by recent conflicts. This multi-use public space provides safe playgrounds, shaded seating, and community halls designed specifically to foster social cohesion. By focusing on family-oriented recreation, the center plays a crucial psychological role in the city's post-war recovery. It stands as a beacon of hope and normalcy amid the surrounding damaged infrastructure. Sociology K8 — post-conflict community rehabilitation.",
+      "factsAdvanced": [
+        "A dedicated, multi-use family recreational center located in Sirte.",
+        "Built to provide safe, enclosed play areas and community gathering spaces.",
+        "Plays a critical psychological role in the city's post-conflict recovery.",
+        "Features shaded seating, manicured gardens, and small event halls.",
+        "Serves as a powerful local symbol of civic resilience and returning normalcy.",
+        "Funded through a mix of local municipal efforts and national rehabilitation grants."
+      ]
+    },
+    {
+      "id": "murzuq-oasis-life-v2",
+      "descriptionAdvanced": "The Murzuq Oasis is a massive, life-sustaining agricultural zone situated in the deep southwestern Fezzan region. Dominated by dense, towering date palms, it represents a triumph of traditional Saharan water management over one of the harshest environments on Earth. The canopy provides the essential shade needed to grow smaller crops, sustaining the local population for centuries. The intense, deep green of the oasis stands in incredible visual contrast to the towering, golden dunes of the surrounding Erg Murzuq. Agriculture K8 — deep desert oasis farming.",
+      "factsAdvanced": [
+        "Located in the deep southwestern Sahara within the Fezzan region.",
+        "Features a massive, dense canopy of highly productive date palms.",
+        "Relies entirely on ancient, complex subterranean water extraction techniques.",
+        "The palm canopy provides crucial shade for growing secondary crops.",
+        "Historically sustained the massive trans-Saharan caravan networks.",
+        "Provides a stunning visual contrast to the surrounding golden sand dunes."
+      ]
+    },
+    {
+      "id": "ghat-oasis-life-v2",
+      "descriptionAdvanced": "Ghat Oasis Farming represents the traditional, deeply indigenous agricultural practices of the Tuareg people in the far southwest of Libya. Situated near the Algerian border, the oasis utilizes a highly intricate system of communal water sharing to sustain its ancient palm groves. Because of its extreme isolation, the farming here is largely for local subsistence, producing dates, hardy vegetables, and small amounts of grain. The survival of this oasis is intrinsically tied to the survival of the unique Tuareg culture itself. Sociology K7 — indigenous agriculture and water rights.",
+      "factsAdvanced": [
+        "Located in the extreme southwest near the border with Algeria.",
+        "Maintained primarily by the indigenous Tuareg population.",
+        "Utilizes a highly traditional, communal system for water distribution.",
+        "Focuses primarily on subsistence farming rather than commercial export.",
+        "Produces dates, hardy desert vegetables, and small amounts of grain.",
+        "The agricultural system is a core component of local Tuareg cultural identity."
+      ]
+    },
+    {
+      "id": "zwara-green-belt-life-v2",
+      "descriptionAdvanced": "The Zwara Green Belt is a critical environmental and agricultural barrier located near the coastal city of Zuwara. Designed to combat desertification and stabilize the sandy coastal soil, it consists of dense plantings of hardy eucalyptus, pine, and olive trees. Beyond its environmental purpose, the belt provides essential windbreaks for local farmers cultivating the sensitive Jafara plain. It represents a successful fusion of ecological engineering and practical agricultural support. Biology K8 — combating desertification and windbreaks.",
+      "factsAdvanced": [
+        "Located near the coastal, predominantly Amazigh city of Zuwara.",
+        "Designed specifically to halt desertification and stabilize coastal sands.",
+        "Planted with thousands of hardy, drought-resistant eucalyptus and pine trees.",
+        "Functions as a massive, critical windbreak for adjacent agricultural lands.",
+        "Provides a secondary economic benefit through controlled timber harvesting.",
+        "A prime example of successful ecological engineering in North Africa."
+      ]
+    },
+    {
+      "id": "darj-oasis-life-v2",
+      "descriptionAdvanced": "The Darj Oasis Gardens are a hidden, lush agricultural marvel located east of Ghadames, nestled in the stark Hamada al Hamra (Red Desert). Unlike massive commercial farms, Darj is characterized by small, intensely cultivated family plots fed by natural artesian springs. The gardens produce a vibrant mix of dates, figs, and pomegranates. Because it lies off the main coastal routes, the farming techniques and traditional community structure have remained remarkably preserved for generations. Agriculture K7 — isolated family oasis farming.",
+      "factsAdvanced": [
+        "Located in the harsh Hamada al Hamra, east of the city of Ghadames.",
+        "Characterized by small, intensely managed family agricultural plots.",
+        "Sustained by local, natural artesian springs rather than deep drilling.",
+        "Produces a diverse mix of dates, figs, pomegranates, and vegetables.",
+        "Maintains highly traditional, generations-old farming techniques.",
+        "Remains largely isolated from modern, industrial commercial agriculture."
+      ]
+    },
+    {
+      "id": "nalut-terrace-life-v2",
+      "descriptionAdvanced": "Nalut Terrace Farming is an incredible display of agricultural engineering located on the steep, rocky slopes of the western Nafusa Mountains. To prevent soil erosion and capture scarce winter rainfall, local Amazigh farmers have built and maintained complex stone terraces for centuries. These terraces are primarily planted with hardy olive and almond trees, whose deep roots further stabilize the mountainside. This system represents a perfect, sustainable adaptation to a highly challenging, arid mountain environment. Agriculture K8 — mountain terracing and soil conservation.",
+      "factsAdvanced": [
+        "Located on the steep, arid slopes of the western Nafusa Mountains near Nalut.",
+        "Features ancient, meticulously maintained dry-stone agricultural terraces.",
+        "Designed specifically to capture scarce rainfall and prevent severe soil erosion.",
+        "Primarily utilized for cultivating hardy, deep-rooted olive and almond trees.",
+        "A masterpiece of traditional, sustainable indigenous agricultural engineering.",
+        "Maintained communally by the local Amazigh (Berber) population."
+      ]
+    },
+    {
+      "id": "jufra-orchard-life-v2",
+      "descriptionAdvanced": "The Jufra Palm Groves form a massive, contiguous agricultural zone encompassing the central oasis towns of Hun, Waddan, and Sokna. This region is considered the absolute premier date-producing area in Libya, known for cultivating highly prized, premium date varieties. The groves are sustained by massive subterranean aquifers, turning the harsh central desert into a brilliant green depression. The annual date harvest here is not just an economic event, but a massive cultural festival drawing traders from across the nation. Economics K7 — premium agricultural exports.",
+      "factsAdvanced": [
+        "A massive, contiguous agricultural zone in the central Al Jufra district.",
+        "Considered the premier region for high-quality date production in Libya.",
+        "Sustained by extracting water from deep, ancient subterranean aquifers.",
+        "Encompasses the historic oasis towns of Hun, Waddan, and Sokna.",
+        "The annual harvest is celebrated with a massive, nationally famous festival.",
+        "A critical, non-oil economic pillar for the central Libyan desert."
+      ]
+    },
+    {
+      "id": "tarhuna-nursery-life-v2",
+      "descriptionAdvanced": "The Tarhuna Seedling Center is a massive, state-backed agricultural facility located in the fertile hills southeast of Tripoli. It specializes in germinating millions of olive, almond, and fruit tree saplings for nationwide distribution. By producing climate-adapted, high-yield plant stock, the center is crucial to Libya's efforts to achieve agricultural self-sufficiency. The facility utilizes vast greenhouse networks and modern horticultural techniques, representing the industrialization of the nation's farming sector. Biology K8 — industrial horticulture and national food security.",
+      "factsAdvanced": [
+        "A massive, state-supported agricultural facility located in Tarhuna.",
+        "Specializes in the mass germination of olive, almond, and fruit saplings.",
+        "Produces millions of seedlings annually for nationwide distribution.",
+        "Utilizes vast networks of modern, climate-controlled greenhouses.",
+        "Crucial to national efforts aiming for broader agricultural self-sufficiency.",
+        "Focuses on developing highly resilient, drought-adapted plant varieties."
+      ]
+    },
+    {
+      "id": "msallata-olive-life-v2",
+      "descriptionAdvanced": "The Msallata Olive Plantations are legendary across North Africa, blanketing the rolling coastal hills east of Tripoli. The region features thousands of ancient, gnarled olive trees, some of which have been producing fruit for centuries. The microclimate of the hills, offering cooler nights and slightly higher rainfall than the plains, is perfectly suited for dry-farming olives. The resulting olive oil is intensely flavorful, forming the absolute backbone of the local economy and traditional Tripolitanian cuisine. Agriculture K7 — ancient dry-farming and premium olive oil.",
+      "factsAdvanced": [
+        "Located in the coastal hills of the Msallata region, east of Tripoli.",
+        "Features thousands of ancient, historically significant olive trees.",
+        "Considered the absolute premier olive oil producing region in Libya.",
+        "Relies entirely on traditional, sustainable dry-farming techniques.",
+        "The hilly microclimate provides ideal conditions for optimal fruit yield.",
+        "The olive harvest dictates the entire social and economic calendar of the city."
+      ]
+    },
+    {
+      "id": "ghat-family-life-v2",
+      "descriptionAdvanced": "Ghat Family Square is the vibrant, bustling cultural epicenter of this historic southwestern oasis town. Located near the ancient mud-brick Medina, the square serves as the primary gathering place for the local Tuareg population. During the famous annual Ghat Festival, this square transforms into a massive, colorful stage for traditional music, camel racing, and artisanal markets. Even on normal days, it is a vital social hub where elders share tea and stories under the intense Saharan sky. Sociology K7 — indigenous cultural festivals.",
+      "factsAdvanced": [
+        "The primary, central public gathering square in the oasis town of Ghat.",
+        "Located directly adjacent to the town's historic mud-brick Medina.",
+        "The central stage for the massive, nationally famous annual Ghat Festival.",
+        "A vital social hub for the local, indigenous Tuareg community.",
+        "Frequently hosts traditional music performances and artisanal craft markets.",
+        "Provides a rare, open communal space in the densely built desert town."
+      ]
+    },
+    {
+      "id": "bin-jawad-park-life-v2",
+      "descriptionAdvanced": "Bin Jawad Leisure Park is a modest but highly appreciated public green space located in a town heavily dominated by the nearby central oil terminals. The park was developed to provide a safe, pleasant environment for the families of oil workers and local residents. Featuring hardy, salt-tolerant trees and basic recreational facilities, it offers a stark visual contrast to the surrounding arid, industrial coastal plain. It is a prime example of civic investment intended to improve the quality of life in harsh industrial zones. Sociology K6 — industrial town civic improvements.",
+      "factsAdvanced": [
+        "A modest, vital public recreational park in the coastal town of Bin Jawad.",
+        "Provides recreational space for families associated with the nearby oil terminals.",
+        "Features hardy, salt-tolerant landscaping suited for the arid coastal climate.",
+        "Offers a sharp, green visual contrast to the surrounding heavy industrial zones.",
+        "Includes essential civic amenities like children's playgrounds and shaded seating.",
+        "Funded heavily by civic investments tied to the regional oil economy."
+      ]
+    },
+    {
+      "id": "al-azizia-agri-life-v2",
+      "descriptionAdvanced": "The Al-Azizia Farmland sits on the Jafara plain south of Tripoli and is historically famous for recording some of the highest ambient temperatures on Earth. Despite the brutal summer heat, the region is highly agriculturally productive, utilizing deep wells to irrigate massive fields of grains, citrus, and vegetables. The intense solar radiation actually benefits certain crops when water is consistently supplied. The area demonstrates the extreme measures and deep groundwater reliance required to farm the Libyan interior. Geography K8 — extreme weather agriculture and fossil water.",
+      "factsAdvanced": [
+        "Located on the Jafara plain, approximately 40 kilometers south of Tripoli.",
+        "Historically famous for recording one of the highest temperatures on Earth.",
+        "Highly productive agricultural zone despite the extreme summer heat.",
+        "Relies heavily on deep subterranean wells for massive irrigation needs.",
+        "Produces significant commercial quantities of grains, citrus, and vegetables.",
+        "A prime example of the heavy reliance on groundwater in Libyan farming."
+      ]
+    },
+    {
+      "id": "zintan-orchard-life-v2",
+      "descriptionAdvanced": "The Zintan Orchards are terraced into the high, rugged elevations of the Nafusa Mountains, benefiting from a significantly cooler climate than the coastal plains below. The farmers here specialize in hardy fruit trees, particularly figs, almonds, and unique mountain olive varieties. The rocky, limestone-rich soil gives the produce a highly distinct, localized flavor. Cultivating these steep orchards requires immense physical labor and traditional knowledge, making them a source of fierce local pride for the Zintan community. Agriculture K7 — mountain horticulture and terroir.",
+      "factsAdvanced": [
+        "Located high in the rugged terrain of the western Nafusa Mountains.",
+        "Benefits from a significantly cooler, more temperate climate than the coast.",
+        "Specializes in the cultivation of hardy figs, almonds, and mountain olives.",
+        "Planted on steep, meticulously maintained traditional stone terraces.",
+        "The limestone-rich soil provides a distinct, highly sought-after flavor.",
+        "Requires immense physical labor, representing deep local agricultural pride."
+      ]
+    },
+    {
+      "id": "wadi-al-hayat-nature-v2",
+      "descriptionAdvanced": "Wadi al-Hayat, translating to the 'Valley of Life', is a massive, ancient depression running through the heart of the Fezzan region. For thousands of years, this valley has supported human civilization due to its relatively accessible shallow groundwater. It is flanked by the towering dunes of the Ubari Sand Sea to the north and the harsh Messak Settafet plateau to the south. The wadi contains a continuous string of lush palm oases and the ruins of the ancient Garamantian empire, making it a critical ecological and historical corridor. Geography K8 — ancient Saharan river valleys.",
+      "factsAdvanced": [
+        "A massive, ancient linear depression located in the southwestern Fezzan region.",
+        "Historically known as Wadi al-Ajal, now translating to the 'Valley of Life'.",
+        "Sustains a continuous, 150-kilometer string of lush date palm oases.",
+        "Flanked by the massive dunes of the Ubari Sand Sea to the immediate north.",
+        "The historical heartland of the ancient, powerful Garamantian civilization.",
+        "Relies on relatively shallow, highly accessible subterranean groundwater."
+      ]
+    },
+    {
+      "id": "jebel-akhdar-nature-v2",
+      "descriptionAdvanced": "The Jebel Akhdar, or 'Green Mountains', is a stunning, fertile highland region in northeastern Libya that completely contradicts the typical Saharan landscape. Rising directly from the Mediterranean coast, it captures significant rainfall, supporting dense forests of juniper, pine, and cypress. The region is deeply incised by massive, dramatic wadis (valleys) that channel water to the sea. Its unique microclimate not only supports incredible biodiversity but also makes it the absolute premier agricultural zone in the country. Geography K7 — mountain microclimates and biodiversity.",
+      "factsAdvanced": [
+        "A massive, elevated, heavily forested mountain range in eastern Cyrenaica.",
+        "Receives the highest annual rainfall of any geographical region in Libya.",
+        "Supports dense, natural forests of Mediterranean cypress, pine, and juniper.",
+        "Features dramatic, deeply incised river valleys known as wadis.",
+        "The unique, cool microclimate makes it the premier national agricultural zone.",
+        "Provides a stark, brilliant green contrast to the surrounding national deserts."
+      ]
+    },
+    {
+      "id": "lake-gaberoun-nature-v2",
+      "descriptionAdvanced": "Lake Gaberoun is an absolutely breathtaking, hyper-saline lake completely surrounded by the towering golden dunes of the Ubari Sand Sea. The water is significantly saltier than the ocean, making swimmers extremely buoyant, and is naturally heated by subterranean geothermal activity. The lake is fringed by a dense ring of palm trees and the crumbling ruins of an abandoned Bedouin village. It is arguably the most famous and visually stunning natural landmark in the Libyan interior, drawing intrepid desert travelers. Geography K8 — hyper-saline desert lakes and geothermal activity.",
+      "factsAdvanced": [
+        "A stunning, hyper-saline lake located deep in the Ubari Sand Sea.",
+        "The water is significantly saltier than the ocean, creating high buoyancy.",
+        "Naturally heated year-round by underlying geothermal activity.",
+        "Completely surrounded by massive, towering golden sand dunes.",
+        "Fringed by a dense, green ring of date palms and an abandoned village.",
+        "Considered one of the most visually spectacular natural landmarks in the Sahara."
+      ]
+    },
+    {
+      "id": "mandara-lakes-nature-v2",
+      "descriptionAdvanced": "The Mandara Lakes form a cluster of highly saline, intensely colorful desert lakes located near Gaberoun in the Ubari Sand Sea. Due to fluctuating water levels and varying concentrations of unique minerals and algae, the lakes often appear in striking shades of red, green, or blue. Unfortunately, several of these shallow lakes frequently dry up completely during the intense summer heat, leaving behind a stark crust of white salt. They represent a fragile, highly unique, and beautiful micro-ecosystem within the deep Sahara. Biology K8 — extremophile algae and seasonal desert hydrology.",
+      "factsAdvanced": [
+        "A cluster of highly saline desert lakes located in the Ubari Sand Sea.",
+        "Famous for exhibiting striking colors like red, green, and blue due to algae.",
+        "Extremely shallow, frequently drying up completely during the peak summer.",
+        "Leave behind a stark, brilliant white crust of mineral salt when dry.",
+        "Surrounded by towering sand dunes and sparse, hardy desert vegetation.",
+        "Represent a highly fragile, unique extremophile ecosystem."
+      ]
+    },
+    {
+      "id": "jebel-nafusa-nature-v2",
+      "descriptionAdvanced": "The Jebel Nafusa is a massive, crescent-shaped limestone escarpment that abruptly separates the coastal Jafara plain from the vast Hamada al Hamra desert plateau. Rising to elevations of nearly 1,000 meters, it features a rugged, heavily eroded landscape characterized by deep ravines and stark cliffs. The mountains capture enough winter moisture to support hardy scrubland and ancient terraced agriculture. It is the geographic and cultural heartland of Libya's indigenous Amazigh (Berber) population, offering immense natural defensive advantages. Geography K7 — limestone escarpments and cultural geography.",
+      "factsAdvanced": [
+        "A massive, crescent-shaped limestone escarpment in northwestern Libya.",
+        "Abruptly separates the coastal plains from the deep southern desert plateau.",
+        "Reaches maximum elevations of nearly 1,000 meters above sea level.",
+        "Characterized by a highly rugged, deeply eroded, and rocky landscape.",
+        "The geographic and cultural stronghold of the indigenous Amazigh people.",
+        "Historically provided massive natural defensive advantages against invasion."
+      ]
+    },
+    {
+      "id": "gar-al-marah-nature-v2",
+      "descriptionAdvanced": "Gar al-Marah, located deep in the chaotic, volcanic landscape of the Black Haruj, is a striking geological formation and ancient crater. The surrounding terrain is a brutal, jagged expanse of black basaltic rock that makes travel incredibly difficult. The harshness of the black rock absorbs the intense Saharan sun, making it one of the hottest surface environments in the country. Despite its hostility, the area is a treasure trove for geologists studying ancient Saharan volcanism. Earth Science K8 — ancient volcanic fields and basaltic terrain.",
+      "factsAdvanced": [
+        "A striking geological crater formation located in the central Libyan desert.",
+        "Situated within the massive, extinct volcanic field known as the Black Haruj.",
+        "Surrounded by a brutal, jagged expanse of black basaltic rock.",
+        "The black rock absorbs intense solar radiation, creating extreme surface heat.",
+        "The terrain is notoriously difficult to traverse, even with specialized vehicles.",
+        "A highly significant site for the study of ancient Saharan volcanic activity."
+      ]
+    }
+  ]
+}

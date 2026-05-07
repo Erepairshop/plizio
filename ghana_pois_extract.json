@@ -1,0 +1,942 @@
+[
+  {
+    "id": "accra-cities-v2",
+    "name": "Accra"
+  },
+  {
+    "id": "kumasi-cities-v2",
+    "name": "Kumasi"
+  },
+  {
+    "id": "tamale-cities-v2",
+    "name": "Tamale"
+  },
+  {
+    "id": "takoradi-cities-v2",
+    "name": "Takoradi"
+  },
+  {
+    "id": "ashaiman-cities-v2",
+    "name": "Ashaiman"
+  },
+  {
+    "id": "tema-cities-v2",
+    "name": "Tema"
+  },
+  {
+    "id": "teshie-cities-v2",
+    "name": "Teshie"
+  },
+  {
+    "id": "cape-coast-cities-v2",
+    "name": "Cape Coast"
+  },
+  {
+    "id": "sekondi-cities-v2",
+    "name": "Sekondi"
+  },
+  {
+    "id": "obuasi-cities-v2",
+    "name": "Obuasi"
+  },
+  {
+    "id": "madina-cities-v2",
+    "name": "Madina"
+  },
+  {
+    "id": "koforidua-cities-v2",
+    "name": "Koforidua"
+  },
+  {
+    "id": "wa-cities-v2",
+    "name": "Wa"
+  },
+  {
+    "id": "techiman-cities-v2",
+    "name": "Techiman"
+  },
+  {
+    "id": "nungua-cities-v2",
+    "name": "Nungua"
+  },
+  {
+    "id": "tema-new-town-cities-v2",
+    "name": "Tema New Town"
+  },
+  {
+    "id": "sunyani-cities-v2",
+    "name": "Sunyani"
+  },
+  {
+    "id": "ho-cities-v2",
+    "name": "Ho"
+  },
+  {
+    "id": "bawku-cities-v2",
+    "name": "Bawku"
+  },
+  {
+    "id": "dome-cities-v2",
+    "name": "Dome"
+  },
+  {
+    "id": "bolgatanga-cities-v2",
+    "name": "Bolgatanga"
+  },
+  {
+    "id": "lashibi-cities-v2",
+    "name": "Lashibi"
+  },
+  {
+    "id": "taifa-cities-v2",
+    "name": "Taifa"
+  },
+  {
+    "id": "gbawe-cities-v2",
+    "name": "Gbawe"
+  },
+  {
+    "id": "agona-swedru-cities-v2",
+    "name": "Agona Swedru"
+  },
+  {
+    "id": "ejura-cities-v2",
+    "name": "Ejura"
+  },
+  {
+    "id": "berekum-cities-v2",
+    "name": "Berekum"
+  },
+  {
+    "id": "tafo-cities-v2",
+    "name": "Tafo"
+  },
+  {
+    "id": "suhum-cities-v2",
+    "name": "Suhum"
+  },
+  {
+    "id": "tarkwa-cities-v2",
+    "name": "Tarkwa"
+  },
+  {
+    "id": "nsawam-cities-v2",
+    "name": "Nsawam"
+  },
+  {
+    "id": "kasoa-cities-v2",
+    "name": "Kasoa"
+  },
+  {
+    "id": "yendi-cities-v2",
+    "name": "Yendi"
+  },
+  {
+    "id": "winneba-cities-v2",
+    "name": "Winneba"
+  },
+  {
+    "id": "mampong-cities-v2",
+    "name": "Mampong"
+  },
+  {
+    "id": "navrongo-cities-v2",
+    "name": "Navrongo"
+  },
+  {
+    "id": "akim-oda-cities-v2",
+    "name": "Akim Oda"
+  },
+  {
+    "id": "prestea-cities-v2",
+    "name": "Prestea"
+  },
+  {
+    "id": "effiakuma-cities-v2",
+    "name": "Effiakuma"
+  },
+  {
+    "id": "agogo-cities-v2",
+    "name": "Agogo"
+  },
+  {
+    "id": "dunkwa-on-offin-cities-v2",
+    "name": "Dunkwa-on-Offin"
+  },
+  {
+    "id": "begoro-cities-v2",
+    "name": "Begoro"
+  },
+  {
+    "id": "kintampo-cities-v2",
+    "name": "Kintampo"
+  },
+  {
+    "id": "aflao-cities-v2",
+    "name": "Aflao"
+  },
+  {
+    "id": "nkoranza-cities-v2",
+    "name": "Nkoranza"
+  },
+  {
+    "id": "oduponkpehe-cities-v2",
+    "name": "Oduponkpehe"
+  },
+  {
+    "id": "saltpond-cities-v2",
+    "name": "Saltpond"
+  },
+  {
+    "id": "akwatia-cities-v2",
+    "name": "Akwatia"
+  },
+  {
+    "id": "apam-cities-v2",
+    "name": "Apam"
+  },
+  {
+    "id": "salaga-cities-v2",
+    "name": "Salaga"
+  },
+  {
+    "id": "bibiani-cities-v2",
+    "name": "Bibiani"
+  },
+  {
+    "id": "somanya-cities-v2",
+    "name": "Somanya"
+  },
+  {
+    "id": "foso-cities-v2",
+    "name": "Foso"
+  },
+  {
+    "id": "wenchi-cities-v2",
+    "name": "Wenchi"
+  },
+  {
+    "id": "mumford-cities-v2",
+    "name": "Mumford"
+  },
+  {
+    "id": "duayaw-nkwanta-cities-v2",
+    "name": "Duayaw Nkwanta"
+  },
+  {
+    "id": "bekwai-cities-v2",
+    "name": "Bekwai"
+  },
+  {
+    "id": "bechem-cities-v2",
+    "name": "Bechem"
+  },
+  {
+    "id": "denu-cities-v2",
+    "name": "Denu"
+  },
+  {
+    "id": "anloga-cities-v2",
+    "name": "Anloga"
+  },
+  {
+    "id": "ghana-tema-port",
+    "name": "Tema Port"
+  },
+  {
+    "id": "ghana-takoradi-port",
+    "name": "Takoradi Port"
+  },
+  {
+    "id": "ghana-anglogold-ashanti",
+    "name": "AngloGold Ashanti Mine"
+  },
+  {
+    "id": "ghana-tarkwa-mine",
+    "name": "Gold Fields Tarkwa Mine"
+  },
+  {
+    "id": "ghana-awaso-bauxite",
+    "name": "Awaso Bauxite Mine"
+  },
+  {
+    "id": "ghana-nsuta-manganese",
+    "name": "Nsuta Manganese Mine"
+  },
+  {
+    "id": "ghana-akwatia-diamonds",
+    "name": "Akwatia Diamond Field"
+  },
+  {
+    "id": "ghana-jubilee-oil",
+    "name": "Jubilee Oil Field"
+  },
+  {
+    "id": "ghana-tema-oil-refinery",
+    "name": "Tema Oil Refinery"
+  },
+  {
+    "id": "ghana-valco-aluminum",
+    "name": "VALCO Aluminum Smelter"
+  },
+  {
+    "id": "ghana-takoradi-thermal",
+    "name": "Takoradi Power Station"
+  },
+  {
+    "id": "ghana-chirano-gold",
+    "name": "Chirano Gold Mine"
+  },
+  {
+    "id": "ghana-iduapriem-gold",
+    "name": "Iduapriem Gold Mine"
+  },
+  {
+    "id": "ghana-bogoso-gold",
+    "name": "Bogoso Gold Mine"
+  },
+  {
+    "id": "ghana-ahafo-gold",
+    "name": "Ahafo Gold Mine"
+  },
+  {
+    "id": "ghana-akyem-gold",
+    "name": "Akyem Gold Mine"
+  },
+  {
+    "id": "ghana-damang-gold",
+    "name": "Damang Gold Mine"
+  },
+  {
+    "id": "ghana-asanko-gold",
+    "name": "Asanko Gold Mine"
+  },
+  {
+    "id": "ghana-edikan-gold",
+    "name": "Edikan Gold Mine"
+  },
+  {
+    "id": "ghana-nzema-gold",
+    "name": "Nzema Gold Mine"
+  },
+  {
+    "id": "ghana-prestea-underground",
+    "name": "Prestea Gold Mine"
+  },
+  {
+    "id": "ghana-buipe-cement",
+    "name": "Buipe Cement Plant"
+  },
+  {
+    "id": "ghana-ghacem-tema",
+    "name": "Ghacem Cement Plant Tema"
+  },
+  {
+    "id": "ghana-ghacem-takoradi",
+    "name": "Ghacem Cement Plant Takoradi"
+  },
+  {
+    "id": "ghana-blue-skies",
+    "name": "Blue Skies Juice Factory"
+  },
+  {
+    "id": "ghana-twifo-oil-palm",
+    "name": "Twifo Oil Palm Plant"
+  },
+  {
+    "id": "ghana-cargill-cocoa",
+    "name": "Cargill Cocoa Processing"
+  },
+  {
+    "id": "ghana-cpc-cocoa",
+    "name": "CPC Cocoa Processing Company"
+  },
+  {
+    "id": "ghana-atuabo-gas",
+    "name": "Atuabo Gas Processing Plant"
+  },
+  {
+    "id": "ghana-kantanka-auto",
+    "name": "Kantanka Automobile Plant"
+  },
+  {
+    "id": "cape-coast-castle-history-v2",
+    "name": ""
+  },
+  {
+    "id": "elmina-castle-history-v2",
+    "name": ""
+  },
+  {
+    "id": "osu-castle-history-v2",
+    "name": ""
+  },
+  {
+    "id": "larabanga-mosque-history-v2",
+    "name": ""
+  },
+  {
+    "id": "kumasi-fort-history-v2",
+    "name": ""
+  },
+  {
+    "id": "manhyia-palace-history-v2",
+    "name": ""
+  },
+  {
+    "id": "assin-manso-slave-river-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-prinzenstein-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-san-sebastian-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-apollonia-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-metal-cross-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-amsterdam-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-william-anomabu-history-v2",
+    "name": ""
+  },
+  {
+    "id": "kwame-nkrumah-mausoleum-history-v2",
+    "name": ""
+  },
+  {
+    "id": "w-e-b-du-bois-centre-history-v2",
+    "name": ""
+  },
+  {
+    "id": "independence-square-accra-history-v2",
+    "name": ""
+  },
+  {
+    "id": "yaa-asantewaa-museum-history-v2",
+    "name": ""
+  },
+  {
+    "id": "salaga-slave-market-history-v2",
+    "name": ""
+  },
+  {
+    "id": "gwollu-defence-wall-history-v2",
+    "name": ""
+  },
+  {
+    "id": "nalerigu-defence-wall-history-v2",
+    "name": ""
+  },
+  {
+    "id": "pikworo-slave-camp-history-v2",
+    "name": ""
+  },
+  {
+    "id": "bono-manso-history-v2",
+    "name": ""
+  },
+  {
+    "id": "begho-ancient-city-history-v2",
+    "name": ""
+  },
+  {
+    "id": "kintampo-complex-history-v2",
+    "name": ""
+  },
+  {
+    "id": "prempeh-ii-museum-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-st-jago-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-victoria-cape-coast-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-mccarthy-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-good-hope-history-v2",
+    "name": ""
+  },
+  {
+    "id": "fort-patience-history-v2",
+    "name": ""
+  },
+  {
+    "id": "kwame-nkrumah-mausoleum-landmarks-v2",
+    "name": "Kwame Nkrumah Mausoleum"
+  },
+  {
+    "id": "independence-arch-landmarks-v2",
+    "name": "Independence Arch"
+  },
+  {
+    "id": "black-star-gate-landmarks-v2",
+    "name": "Black Star Gate"
+  },
+  {
+    "id": "accra-sports-stadium-landmarks-v2",
+    "name": "Accra Sports Stadium"
+  },
+  {
+    "id": "national-museum-ghana-landmarks-v2",
+    "name": "National Museum of Ghana"
+  },
+  {
+    "id": "osu-castle-landmarks-v2",
+    "name": "Osu Castle"
+  },
+  {
+    "id": "elmina-castle-landmarks-v2",
+    "name": "Elmina Castle"
+  },
+  {
+    "id": "cape-coast-castle-landmarks-v2",
+    "name": "Cape Coast Castle"
+  },
+  {
+    "id": "larabanga-mosque-landmarks-v2",
+    "name": "Larabanga Mosque"
+  },
+  {
+    "id": "baba-yara-stadium-landmarks-v2",
+    "name": "Baba Yara Stadium"
+  },
+  {
+    "id": "manhyia-palace-landmarks-v2",
+    "name": "Manhyia Palace"
+  },
+  {
+    "id": "kejetia-market-landmarks-v2",
+    "name": "Kejetia Market"
+  },
+  {
+    "id": "jubilee-house-landmarks-v2",
+    "name": "Jubilee House"
+  },
+  {
+    "id": "national-theatre-ghana-landmarks-v2",
+    "name": "National Theatre of Ghana"
+  },
+  {
+    "id": "jamestown-lighthouse-landmarks-v2",
+    "name": "Jamestown Lighthouse"
+  },
+  {
+    "id": "holy-trinity-cathedral-accra-landmarks-v2",
+    "name": "Holy Trinity Cathedral"
+  },
+  {
+    "id": "national-mosque-ghana-landmarks-v2",
+    "name": "Ghana National Mosque"
+  },
+  {
+    "id": "fort-metal-cross-landmarks-v2",
+    "name": "Fort Metal Cross"
+  },
+  {
+    "id": "fort-batenstein-landmarks-v2",
+    "name": "Fort Batenstein"
+  },
+  {
+    "id": "fort-san-sebastian-landmarks-v2",
+    "name": "Fort San Sebastian"
+  },
+  {
+    "id": "adomi-bridge-landmarks-v2",
+    "name": "Adomi Bridge"
+  },
+  {
+    "id": "akosombo-dam-landmarks-v2",
+    "name": "Akosombo Dam"
+  },
+  {
+    "id": "aliu-mahama-stadium-landmarks-v2",
+    "name": "Aliu Mahama Sports Stadium"
+  },
+  {
+    "id": "ndewura-jakpa-tomb-landmarks-v2",
+    "name": "Ndewura Jakpa Tomb"
+  },
+  {
+    "id": "wesley-methodist-cathedral-landmarks-v2",
+    "name": "Wesley Methodist Cathedral"
+  },
+  {
+    "id": "fort-saint-anthony-landmarks-v2",
+    "name": "Fort Saint Anthony"
+  },
+  {
+    "id": "fort-gross-friedrichsburg-landmarks-v2",
+    "name": "Fort Gross-Friedrichsburg"
+  },
+  {
+    "id": "navrongo-cathedral-landmarks-v2",
+    "name": "Navrongo Cathedral"
+  },
+  {
+    "id": "essipong-stadium-landmarks-v2",
+    "name": "Essipong Stadium"
+  },
+  {
+    "id": "villaggio-vistas-landmarks-v2",
+    "name": "Villaggio Vistas"
+  },
+  {
+    "id": "kumasi-zoo-kid-life-v2",
+    "name": "Kumasi Zoo"
+  },
+  {
+    "id": "accra-botanical-kid-life-v2",
+    "name": "Aburi Botanical Gardens"
+  },
+  {
+    "id": "legon-botanical-kid-life-v2",
+    "name": "Legon Botanical Gardens"
+  },
+  {
+    "id": "kakum-walkway-kid-life-v2",
+    "name": "Kakum Canopy Walkway"
+  },
+  {
+    "id": "cocoa-farm-tafo-agri-life-v2",
+    "name": "Tafo Cocoa Farm"
+  },
+  {
+    "id": "tamale-shea-agri-life-v2",
+    "name": "Tamale Shea Cooperative"
+  },
+  {
+    "id": "koforidua-market-agri-life-v2",
+    "name": "Koforidua Market"
+  },
+  {
+    "id": "butterfly-sanctuary-kid-life-v2",
+    "name": "Bobiri Butterfly Sanctuary"
+  },
+  {
+    "id": "mole-safari-kid-life-v2",
+    "name": "Mole Safari"
+  },
+  {
+    "id": "monkey-sanctuary-boabeng-animal-life-v2",
+    "name": "Boabeng Fiema Monkey Sanctuary"
+  },
+  {
+    "id": "crocodile-pond-paga-animal-life-v2",
+    "name": "Paga Crocodile Pond"
+  },
+  {
+    "id": "ostrich-farm-shai-animal-life-v2",
+    "name": "Shai Ostrich Farm"
+  },
+  {
+    "id": "bird-watching-pulibu-animal-life-v2",
+    "name": "Northern Bird Sanctuary"
+  },
+  {
+    "id": "cocoa-plantation-asant-agri-life-v2",
+    "name": "Ashanti Cocoa Plantation"
+  },
+  {
+    "id": "rubber-plantation-western-agri-life-v2",
+    "name": "Western Rubber Plantation"
+  },
+  {
+    "id": "pineapple-farm-akw-agri-life-v2",
+    "name": "Akwapim Pineapple Farm"
+  },
+  {
+    "id": "fishing-village-elmina-kid-life-v2",
+    "name": "Elmina Fishing Village"
+  },
+  {
+    "id": "wetland-sakumono-animal-life-v2",
+    "name": "Sakumono Wetlands"
+  },
+  {
+    "id": "crocodile-sanctuary-hapa-animal-life-v2",
+    "name": "Hapa Crocodile Sanctuary"
+  },
+  {
+    "id": "agric-college-farm-life-v2",
+    "name": "Agriculture College Farm"
+  },
+  {
+    "id": "acacia-forest-savanna-animal-life-v2",
+    "name": "Acacia Savanna Wildlife"
+  },
+  {
+    "id": "honey-farm-central-agri-life-v2",
+    "name": "Central Honey Farm"
+  },
+  {
+    "id": "wildlife-rescue-accra-animal-life-v2",
+    "name": "Accra Wildlife Rescue"
+  },
+  {
+    "id": "rice-field-north-agri-life-v2",
+    "name": "Northern Rice Fields"
+  },
+  {
+    "id": "aquarium-accra-kid-life-v2",
+    "name": "Accra Aquarium"
+  },
+  {
+    "id": "mangrove-forest-ada-animal-life-v2",
+    "name": "Ada Mangrove Forest"
+  },
+  {
+    "id": "maize-farm-east-agri-life-v2",
+    "name": "Eastern Maize Farm"
+  },
+  {
+    "id": "animal-shelter-tamale-animal-life-v2",
+    "name": "Tamale Animal Shelter"
+  },
+  {
+    "id": "zoo-takoradi-kid-life-v2",
+    "name": "Takoradi Zoo"
+  },
+  {
+    "id": "citrus-orchard-central-agri-life-v2",
+    "name": "Central Citrus Orchard"
+  },
+  {
+    "id": "volta-lake-nature-v2",
+    "name": "Lake Volta"
+  },
+  {
+    "id": "kakum-forest-nature-v2",
+    "name": "Kakum National Park"
+  },
+  {
+    "id": "mole-forest-nature-v2",
+    "name": "Mole National Park"
+  },
+  {
+    "id": "wli-waterfalls-nature-v2",
+    "name": "Wli Waterfalls"
+  },
+  {
+    "id": "bui-national-forest-nature-v2",
+    "name": "Bui National Park"
+  },
+  {
+    "id": "digya-forest-nature-v2",
+    "name": "Digya National Park"
+  },
+  {
+    "id": "kyabobo-forest-nature-v2",
+    "name": "Kyabobo National Park"
+  },
+  {
+    "id": "ankasa-forest-nature-v2",
+    "name": "Ankasa National Park"
+  },
+  {
+    "id": "nini-suhien-forest-nature-v2",
+    "name": "Nini-Suhien National Park"
+  },
+  {
+    "id": "bia-forest-nature-v2",
+    "name": "Bia National Park"
+  },
+  {
+    "id": "shai-hills-mountain-nature-v2",
+    "name": "Shai Hills Resource Reserve"
+  },
+  {
+    "id": "atiwa-mountain-nature-v2",
+    "name": "Atewa Range"
+  },
+  {
+    "id": "akwapim-mountain-nature-v2",
+    "name": "Akwapim-Togo Range"
+  },
+  {
+    "id": "fosu-lake-nature-v2",
+    "name": "Fosu Lagoon"
+  },
+  {
+    "id": "keta-lake-nature-v2",
+    "name": "Keta Lagoon"
+  },
+  {
+    "id": "white-volta-river-nature-v2",
+    "name": "White Volta"
+  },
+  {
+    "id": "black-volta-river-nature-v2",
+    "name": "Black Volta"
+  },
+  {
+    "id": "pra-river-nature-v2",
+    "name": "Pra River"
+  },
+  {
+    "id": "offin-river-nature-v2",
+    "name": "Offin River"
+  },
+  {
+    "id": "ankobra-river-nature-v2",
+    "name": "Ankobra River"
+  },
+  {
+    "id": "tano-river-nature-v2",
+    "name": "Tano River"
+  },
+  {
+    "id": "oti-river-nature-v2",
+    "name": "Oti River"
+  },
+  {
+    "id": "busua-beach-nature-v2",
+    "name": "Busua Beach"
+  },
+  {
+    "id": "labadi-beach-nature-v2",
+    "name": "Labadi Beach"
+  },
+  {
+    "id": "ada-foah-sea-nature-v2",
+    "name": "Ada Foah"
+  },
+  {
+    "id": "cape-three-points-sea-nature-v2",
+    "name": "Cape Three Points"
+  },
+  {
+    "id": "gulf-of-guinea-sea-nature-v2",
+    "name": "Gulf of Guinea"
+  },
+  {
+    "id": "kakum-canopy-forest-nature-v2",
+    "name": "Kakum Forest Reserve"
+  },
+  {
+    "id": "bui-dam-lake-nature-v2",
+    "name": "Bui Reservoir"
+  },
+  {
+    "id": "shai-hills-savanna-nature-v2",
+    "name": "Shai Hills Savanna"
+  },
+  {
+    "id": "akwapim-togo-relief-v2",
+    "name": "Akwapim-Togo Range"
+  },
+  {
+    "id": "mount-afadja-relief-v2",
+    "name": "Mount Afadja"
+  },
+  {
+    "id": "kwae-escarpment-relief-v2",
+    "name": "Kwae Escarpment"
+  },
+  {
+    "id": "kwahu-plateau-relief-v2",
+    "name": "Kwahu Plateau"
+  },
+  {
+    "id": "volta-basin-relief-v2",
+    "name": "Volta Basin"
+  },
+  {
+    "id": "bui-gorge-relief-v2",
+    "name": "Bui Gorge"
+  },
+  {
+    "id": "ashanti-uplands-relief-v2",
+    "name": "Ashanti Uplands"
+  },
+  {
+    "id": "denu-coastal-plain-relief-v2",
+    "name": "Denu Coastal Plain"
+  },
+  {
+    "id": "gambo-hills-relief-v2",
+    "name": "Gambo Hills"
+  },
+  {
+    "id": "akuapem-ridge-relief-v2",
+    "name": "Akuapem Ridge"
+  },
+  {
+    "id": "tano-basin-relief-v2",
+    "name": "Tano Basin"
+  },
+  {
+    "id": "kintampo-plateau-relief-v2",
+    "name": "Kintampo Plateau"
+  },
+  {
+    "id": "white-volta-valley-relief-v2",
+    "name": "White Volta Valley"
+  },
+  {
+    "id": "fanteakwa-escarpment-relief-v2",
+    "name": "Fanteakwa Escarpment"
+  },
+  {
+    "id": "akwapim-plains-relief-v2",
+    "name": "Akwapim Plains"
+  },
+  {
+    "id": "nsuta-hills-relief-v2",
+    "name": "Nsuta Hills"
+  },
+  {
+    "id": "bongo-hills-relief-v2",
+    "name": "Bongo Hills"
+  },
+  {
+    "id": "dagbon-plateau-relief-v2",
+    "name": "Dagbon Plateau"
+  },
+  {
+    "id": "akposso-hills-relief-v2",
+    "name": "Akposso Hills"
+  },
+  {
+    "id": "buem-escarpment-relief-v2",
+    "name": "Buem Escarpment"
+  },
+  {
+    "id": "shai-hills-relief-v2",
+    "name": "Shai Hills"
+  },
+  {
+    "id": "kweku-hills-relief-v2",
+    "name": "Kweku Hills"
+  },
+  {
+    "id": "oti-plain-relief-v2",
+    "name": "Oti Plain"
+  },
+  {
+    "id": "nkawkaw-escarpment-relief-v2",
+    "name": "Nkawkaw Escarpment"
+  },
+  {
+    "id": "gambia-hills-relief-v2",
+    "name": "Gambia Hills"
+  }
+]

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-albert-town-cities-v2",
+      "descriptionAdvanced": "Albert Town serves as the largest settlement in southern Trelawny Parish, acting as the primary gateway to the rugged Cockpit Country. This remote, hilly region is famous for its unique karst limestone geology, characterized by deep sinkholes and dense forests. Historically, Albert Town developed as a crucial trading outpost where Maroon communities from the interior would exchange agricultural goods with coastal merchants. The town experiences higher rainfall and cooler temperatures than the coast, making it highly suitable for cultivating root crops, particularly yams. A massive annual yam festival is held nearby to celebrate this vital local industry. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Largest settlement in southern Trelawny Parish.",
+        "Primary gateway to the rugged Cockpit Country.",
+        "Historically a trading post for interior Maroon communities.",
+        "Surrounded by unique karst limestone geography.",
+        "A major center for cultivating Jamaican yams.",
+        "Experiences cooler temperatures and high rainfall."
+      ]
+    },
+    {
+      "id": "jm-chapelton-cities-v2",
+      "descriptionAdvanced": "Chapelton is a historic inland town located in the northern hills of Clarendon Parish. Originally an estate, the town grew around a chapel built by the Anglican church, which gave the settlement its name. During the late 19th and early 20th centuries, Chapelton thrived as an agricultural hub due to the extension of the national railway, which allowed for the efficient transport of citrus, bananas, and coffee grown in the surrounding hills. The town is notable for its old Victorian-style clock tower erected in the early 20th century to honor local soldiers who fought in World War I. This location connects directly to History K8 – colonial trade and urban development.",
+      "factsAdvanced": [
+        "Located in the northern hills of Clarendon Parish.",
+        "Named after an early Anglican chapel built on an estate.",
+        "Grew rapidly after being connected to the national railway.",
+        "Historically exported citrus, bananas, and coffee.",
+        "Features a clock tower memorializing World War I soldiers.",
+        "Maintains historic Victorian-style architectural elements."
+      ]
+    },
+    {
+      "id": "jm-discovery-bay-cities-v2",
+      "descriptionAdvanced": "Discovery Bay is a geographically stunning inlet on the northern coast of St. Ann Parish, steeped in immense historical significance. It is widely recognized as the location where Christopher Columbus first set foot on Jamaican soil in 1494, originally naming it 'Puerto Seco' (Dry Harbour) due to the absence of a fresh water river. Today, the town is a bustling tourist destination, featuring a popular public beach and an open-air museum detailing the island's pre-Columbian Taino history. The local economy is also supported by the nearby Port Rhoades, a major bauxite shipping facility. The deep, sheltered waters make it ideal for marine research and export operations. This location connects directly to History K8 – early colonial settlements and prominent historical figures.",
+      "factsAdvanced": [
+        "Located on the northern coast of St. Ann Parish.",
+        "The site where Columbus first landed in Jamaica in 1494.",
+        "Originally named 'Puerto Seco' (Dry Harbour) by the Spanish.",
+        "Home to an open-air museum detailing Taino history.",
+        "Features Port Rhoades, a major bauxite shipping facility.",
+        "Known for its deep, naturally sheltered waters."
+      ]
+    },
+    {
+      "id": "jm-oracabessa-cities-v2",
+      "descriptionAdvanced": "Oracabessa is a picturesque coastal town in St. Mary Parish, famous for its cultural legacy and natural beauty. The town's name derives from the Spanish 'Oro de Cabeza' (Golden Head), reflecting the brilliant sunsets over the bay. In the 20th century, it became an exclusive retreat for artists and writers, most notably Ian Fleming, who wrote all of his James Bond novels at his Goldeneye estate located here. The town also boasts the James Bond Beach, a popular spot for locals and tourists alike. Today, the local economy is a mix of high-end boutique tourism and an active commercial fishing industry. This location connects directly to History K8 – modern cultural developments.",
+      "factsAdvanced": [
+        "Located on the northern coast in St. Mary Parish.",
+        "Name translates to 'Golden Head' from Spanish.",
+        "Home to Ian Fleming's Goldeneye estate.",
+        "Location where all the original James Bond novels were written.",
+        "Features the popular James Bond Beach.",
+        "Economy based on boutique tourism and commercial fishing."
+      ]
+    },
+    {
+      "id": "jm-annotto-bay-cities-v2",
+      "descriptionAdvanced": "Annotto Bay is a significant coastal town in St. Mary Parish, situated at the mouth of the Wag Water River. Historically, it was a highly prosperous port during the 18th and 19th centuries, exporting vast quantities of logwood, sugar, and bananas from the island's fertile interior. The town features a unique geographic layout, heavily bisected by rivers and streams which make it prone to flooding. The Baptist Church in the town center, built in 1894, remains one of its most prominent historical landmarks. The construction of a major coastal highway in the modern era has shifted its economy from an export port to a bustling transit and commercial hub. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located at the mouth of the Wag Water River in St. Mary.",
+        "Historically a major port for logwood and banana exports.",
+        "Geography is bisected by multiple rivers and streams.",
+        "Features a prominent historic Baptist Church built in 1894.",
+        "Historically prone to severe coastal and river flooding.",
+        "Transitioned into a major transit hub along the coastal highway."
+      ]
+    },
+    {
+      "id": "jm-highgate-cities-v2",
+      "descriptionAdvanced": "Highgate is a thriving agricultural town located in the interior hills of St. Mary Parish. Benefiting from regular rainfall and fertile soils, the town is a major center for cocoa, banana, and coconut production. Highgate is perhaps most famous for housing the island's oldest continuously operating chocolate factory, producing the beloved Pioneer Chocolate brand for decades. The town has a bustling local market that serves the surrounding farming communities. During the late 19th century, it experienced rapid growth as a trade junction connecting the coastal ports to the deeper interior regions. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in the fertile interior hills of St. Mary Parish.",
+        "A major center for cocoa, banana, and coconut production.",
+        "Home to Jamaica's oldest continuously operating chocolate factory.",
+        "Features a bustling market serving local agricultural communities.",
+        "Grew as a key trade junction in the late 19th century.",
+        "Benefits from high rainfall and rich volcanic soils."
+      ]
+    },
+    {
+      "id": "jm-buff-bay-cities-v2",
+      "descriptionAdvanced": "Buff Bay is a rugged coastal town situated in Portland Parish, nestled between the Caribbean Sea and the foothills of the towering Blue Mountains. It acts as the primary starting point for the spectacular mountain road that crosses the island's highest peaks, connecting the north coast directly to Kingston. Historically, Buff Bay was a major center for the banana trade, though the industry declined in the mid-20th century due to disease and economic shifts. Today, the town remains a vibrant commercial center for the parish, heavily reliant on small-scale agriculture and fishing. Its proximity to pristine rivers and waterfalls makes it an emerging spot for eco-tourism. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located on the rugged coast of Portland Parish.",
+        "Gateway to the mountain road crossing the Blue Mountains.",
+        "Historically a major center for the banana export trade.",
+        "Positioned between the Caribbean Sea and steep mountains.",
+        "Economy now relies on small-scale farming and fishing.",
+        "Emerging as a destination for river and waterfall eco-tourism."
+      ]
+    },
+    {
+      "id": "jm-hope-bay-cities-v2",
+      "descriptionAdvanced": "Hope Bay is a small, historically significant coastal settlement in Portland Parish. Established in the late 18th century, it served as a vital shipping point for the massive sugar and coffee estates that blanketed the nearby Rio Grande valley. The town is situated on a narrow coastal strip, heavily constrained by the steep slopes of the Blue Mountains directly behind it. During the 19th century, it boasted a bustling railway station that transported agricultural goods to larger ports. Today, Hope Bay is a quiet fishing village, retaining a few crumbling stone structures from its colonial past. This location connects directly to History K8 – colonial trade and urban development.",
+      "factsAdvanced": [
+        "Located on a narrow coastal strip in Portland Parish.",
+        "Served as a shipping point for 18th-century sugar estates.",
+        "Geographically constrained by the steep Blue Mountains.",
+        "Historically featured a bustling agricultural railway station.",
+        "Currently operates primarily as a quiet fishing village.",
+        "Retains ruins of historic colonial stone structures."
+      ]
+    },
+    {
+      "id": "jm-golden-grove-cities-v2",
+      "descriptionAdvanced": "Golden Grove is a prominent agricultural settlement located in the easternmost parish of St. Thomas. The town developed alongside the massive Golden Grove Sugar Estate, which was one of the largest and most productive sugar plantations in Jamaica during the 18th and 19th centuries. The landscape is incredibly flat and fertile, watered by the Plantain Garden River, making it ideal for large-scale agriculture. Even after the decline of sugar, the area transitioned into large-scale banana cultivation. Today, it remains an important agricultural hub, though it frequently faces severe challenges from hurricanes passing close to the eastern tip of the island. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in the easternmost parish of St. Thomas.",
+        "Developed around the massive Golden Grove Sugar Estate.",
+        "Situated on an extremely flat and fertile coastal plain.",
+        "Watered by the prominent Plantain Garden River.",
+        "Transitioned from sugar to large-scale banana cultivation.",
+        "Frequently impacted by hurricanes near the eastern coast."
+      ]
+    },
+    {
+      "id": "jm-seaforth-cities-v2",
+      "descriptionAdvanced": "Seaforth is an inland town located in St. Thomas Parish, positioned along the banks of the Johnson River. The town originated as an estate established by Lord Seaforth in the early 19th century. After the emancipation of slavery, the area saw the rapid development of free villages as newly freed individuals purchased small plots of land in the surrounding hills. Historically, the local economy thrived on the cultivation of sugar cane and bananas. Today, Seaforth is a bustling residential and commercial center for the interior of the parish, though it occasionally faces flooding issues due to the volatile nature of the nearby river systems during heavy rains. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located inland along the Johnson River in St. Thomas.",
+        "Named after an estate established by Lord Seaforth.",
+        "Surrounded by historic post-emancipation free villages.",
+        "Economy historically based on sugar cane and bananas.",
+        "Serves as a residential and commercial center for the interior.",
+        "Prone to flooding from volatile local river systems."
+      ]
+    },
+    {
+      "id": "jm-rocky-point-cities-v2",
+      "descriptionAdvanced": "Rocky Point is a vital coastal settlement in southern Clarendon Parish, widely recognized as one of Jamaica's most productive fishing villages. The town sits on a flat, sandy peninsula extending into the Caribbean Sea. The local economy is overwhelmingly dependent on the commercial fishing industry, with hundreds of boats operating from the bay daily. In addition to fishing, the area hosts a massive bauxite loading facility operated by Jamalco, where alumina refined inland is loaded onto massive cargo ships for international export. This dual nature makes Rocky Point a crucial engine for both the local food supply and national industrial exports. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located on a sandy peninsula in southern Clarendon Parish.",
+        "Recognized as one of Jamaica's largest fishing villages.",
+        "Hosts a major bauxite and alumina shipping facility.",
+        "Critical hub for both local food supply and national exports.",
+        "Economy relies heavily on commercial maritime activities.",
+        "Features an extremely flat and exposed coastal geography."
+      ]
+    },
+    {
+      "id": "jm-alley-cities-v2",
+      "descriptionAdvanced": "Alley is a highly historic village situated in the southern plains of Clarendon Parish. It is most notable for being one of the earliest English settlements in Jamaica, established shortly after the British conquest in 1655. The village features the historic St. Peter's Church, one of the oldest Anglican churches on the island, constructed in 1671. The surrounding region is characterized by expansive, flat agricultural plains that were historically dominated by vast sugar estates, most notably the nearby Monymusk plantation. Today, Alley is a quiet residential community that preserves a deep sense of colonial history amid modern agricultural developments. This location connects directly to History K8 – early colonial settlements and prominent historical figures.",
+      "factsAdvanced": [
+        "Located on the southern agricultural plains of Clarendon.",
+        "One of the earliest English settlements in Jamaica.",
+        "Established shortly after the British conquest in 1655.",
+        "Home to the historic St. Peter's Church, built in 1671.",
+        "Historically surrounded by massive sugar cane estates.",
+        "Preserves deep colonial history in a quiet residential setting."
+      ]
+    },
+    {
+      "id": "jm-monymusk-cities-v2",
+      "descriptionAdvanced": "Monymusk is an industrial and agricultural settlement in southern Clarendon Parish, inextricably linked to the massive sugar industry. The area is dominated by the Monymusk Sugar Factory, which has been one of the largest and most critical sugar processing facilities in Jamaica since the 19th century. The surrounding flat plains are meticulously irrigated to support the intensive cultivation of sugar cane required to feed the factory. The settlement itself was largely developed to house the thousands of workers employed by the estate and the refinery. While the sugar industry has faced modern economic challenges, Monymusk remains a central pillar of Clarendon's agricultural identity. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in southern Clarendon Parish.",
+        "Dominated by the massive Monymusk Sugar Factory.",
+        "Surrounded by extensively irrigated sugar cane plains.",
+        "Settlement developed to house estate and factory workers.",
+        "Historically one of Jamaica's largest sugar processing hubs.",
+        "Central to the agricultural economy of the southern region."
+      ]
+    },
+    {
+      "id": "jm-frankfield-cities-v2",
+      "descriptionAdvanced": "Frankfield is a prominent agricultural town situated in the northern mountainous interior of Clarendon Parish. Historically, it served as the northern terminus of the Jamaica Railway system, making it a critical hub for transporting agricultural goods like citrus, coffee, and bananas to the coast for export. The town sits in a steep valley surrounded by lush, forested hills, providing a cooler climate than the southern plains. While the railway ceased operations in the late 20th century, Frankfield remains a bustling commercial center and market town, serving the remote farming communities scattered throughout the central mountain range. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in the mountainous interior of northern Clarendon.",
+        "Historically the northern terminus of the Jamaica Railway.",
+        "Crucial hub for transporting citrus, coffee, and bananas.",
+        "Situated in a steep, lush valley with a cooler climate.",
+        "Remains a bustling market town for remote farming communities.",
+        "Railway operations to the town ceased in the late 20th century."
+      ]
+    },
+    {
+      "id": "jm-spaldings-cities-v2",
+      "descriptionAdvanced": "Spaldings is a rapidly growing inland town situated on the border between Clarendon and Manchester parishes. Positioned at a high elevation, it enjoys a cool, misty climate that is highly favorable for cultivating ginger, Irish potatoes, and yams. The town has expanded significantly over recent decades, becoming a major commercial and educational center for the surrounding highland communities. Spaldings is noted for its high concentration of retail stores, banks, and schools, drawing traffic from multiple parishes. The hilly terrain makes urban expansion challenging, resulting in a densely packed and vibrant town center. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Situated on the border of Clarendon and Manchester parishes.",
+        "Located at a high elevation with a cool, misty climate.",
+        "Major center for cultivating ginger and Irish potatoes.",
+        "Rapidly expanding commercial and educational hub.",
+        "Features a densely packed town center due to hilly terrain.",
+        "Draws economic traffic from multiple surrounding parishes."
+      ]
+    },
+    {
+      "id": "jm-williamsfield-cities-v2",
+      "descriptionAdvanced": "Williamsfield is an important industrial and transit town located in Manchester Parish. Established in the mid-19th century, its significance skyrocketed when the railway reached it in 1890, connecting the interior directly to Kingston. The town later became a critical nexus for the bauxite industry, hosting massive loading facilities where raw bauxite from surrounding mines is transferred to trains heading to the coast. It is also the junction where the main highway splits, branching off toward Mandeville or heading west toward St. Elizabeth. Today, Williamsfield balances heavy industrial operations with robust commercial activities. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in Manchester Parish.",
+        "Significance skyrocketed with the arrival of the railway in 1890.",
+        "A critical nexus for Jamaica's bauxite mining industry.",
+        "Hosts massive facilities for loading bauxite onto trains.",
+        "Serves as a major junction for the island's highway system.",
+        "Balances heavy industrial operations with commercial trade."
+      ]
+    },
+    {
+      "id": "jm-cross-keys-cities-v2",
+      "descriptionAdvanced": "Cross Keys is a quiet, elevated rural community located in the southern hills of Manchester Parish. The area is renowned for its spectacular panoramic views overlooking the southern coastal plains and the Caribbean Sea. The settlement is heavily agricultural, with farmers taking advantage of the cool climate and rich bauxite soils to cultivate cash crops like tomatoes, peppers, and sweet potatoes. Due to its remote location and high altitude, Cross Keys maintains a strong, traditional community structure with a slower pace of life compared to nearby Mandeville. The area is also notable for the unique red dirt characteristic of the island's bauxite belt. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in the southern hills of Manchester Parish.",
+        "Features panoramic views of the southern coastal plains.",
+        "Economy is heavily reliant on cultivating cash crops.",
+        "Notable for the stark red dirt of the bauxite belt.",
+        "Maintains a cool climate due to its high elevation.",
+        "A quiet, traditional rural farming community."
+      ]
+    },
+    {
+      "id": "jm-junction-cities-v2",
+      "descriptionAdvanced": "Junction is one of the fastest-growing commercial towns in St. Elizabeth Parish, located in the southeastern highlands. The town earned its name because it sits exactly at the crossroads where the main routes connecting the agricultural communities of southern St. Elizabeth meet. Fueled by remittances and robust local farming, Junction has transformed over recent decades from a small crossroads into a sprawling hub filled with multi-story shopping plazas, banks, and modern infrastructure. It serves as the primary commercial engine for the prosperous 'breadbasket' farmers of the region, bustling with activity on weekends. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located in the southeastern highlands of St. Elizabeth.",
+        "Named for its position at a major regional crossroads.",
+        "One of the fastest-growing commercial towns in the parish.",
+        "Fueled economically by robust local farming and remittances.",
+        "Features multi-story shopping plazas and modern infrastructure.",
+        "Primary commercial engine for the region's 'breadbasket' farmers."
+      ]
+    },
+    {
+      "id": "jm-balaclava-cities-v2",
+      "descriptionAdvanced": "Balaclava is a historic railway town situated in the northern reaches of St. Elizabeth Parish, bordering the Cockpit Country. During the late 19th and early 20th centuries, the town was a vital transit hub, heavily reliant on the railway to export timber, logwood, and agricultural goods from the deep interior. The town gained tragic notoriety in 1938 when it was the site of the worst train derailment in Jamaican history, which claimed numerous lives and left a lasting mark on the community. Today, with the railway no longer functioning, Balaclava has returned to its roots as a quiet, rural agricultural center focused on yam and fruit cultivation. This location connects directly to History K8 – colonial trade and urban development.",
+      "factsAdvanced": [
+        "Located in northern St. Elizabeth, bordering the Cockpit Country.",
+        "Historically a vital railway transit hub for timber and logwood.",
+        "Site of the tragic 1938 train derailment, Jamaica's worst.",
+        "Returned to a quiet agricultural center after the railway closed.",
+        "Economy focused on yam and tropical fruit cultivation.",
+        "Features remnants of historic 19th-century railway infrastructure."
+      ]
+    },
+    {
+      "id": "jm-mavis-bank-cities-v2",
+      "descriptionAdvanced": "Mavis Bank is an iconic mountain village nestled high in the Blue Mountains within St. Andrew Parish. It is world-renowned as the primary processing center for the incredibly rare and expensive Blue Mountain Coffee. The village is home to the historic Mavis Bank Coffee Factory, established in 1923, which processes the beans grown by thousands of small local farmers in the surrounding steep, misty hills. The settlement is only accessible via winding, treacherous mountain roads, offering a cool, damp microclimate completely distinct from the sweltering coastal capital below. This location connects directly to Geography K7 – human settlements and resource extraction.",
+      "factsAdvanced": [
+        "Located high in the Blue Mountains in St. Andrew Parish.",
+        "World-renowned center for processing Blue Mountain Coffee.",
+        "Home to the historic Mavis Bank Coffee Factory, built in 1923.",
+        "Accessible only via winding, steep mountain roads.",
+        "Features a cool, damp microclimate distinct from the coast.",
+        "Economy relies almost entirely on coffee cultivation and processing."
+      ]
+    }
+  ]
+}

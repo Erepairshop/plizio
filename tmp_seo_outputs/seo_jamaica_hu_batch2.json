@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-albert-town-cities-v2",
+      "descriptionAdvanced": "Albert Town egy kisváros Trelawny megye déli részén, a Cockpit Country, Jamaica legvadregényesebb és legnehezebben megközelíthető karsztvidékének peremén. A város a 19. században alakult ki, és fontos helyi központként szolgált a környező mezőgazdasági közösségek számára. A település a nevét Viktória királynő férjéről, Albert hercegről kapta. A város ma is a jamgyökér (yam), a gyömbér és más gyökérzöldségek termesztésének egyik központja. A közeli Cockpit Country egyedülálló biológiai sokféleségének és a maroon (szökött rabszolgák leszármazottai) kultúrájának köszönhetően a terület ökoturisztikai potenciállal rendelkezik. Történelem K7 – Települések a vadon peremén.",
+      "factsAdvanced": [
+        "A város a Cockpit Country déli kapujaként ismert.",
+        "A Trelawny Yam Festival (Jamgyökér Fesztivál) gyakran a közelben kerül megrendezésre.",
+        "A területen számos barlang és karsztképződmény található.",
+        "A maroon közösségek történelmileg nagy befolyással voltak a régióban.",
+        "A mezőgazdaság a helyi gazdaság gerince, különösen a jamgyökér exportja.",
+        "A város egykor fontos szerepet játszott a gyömbér világpiaci kereskedelmében.",
+        "Az Albert Town High School a környék középfokú oktatási központja.",
+        "A város elhelyezkedése miatt kevésbé érintett a part menti turizmus által."
+      ]
+    },
+    {
+      "id": "jm-chapelton-cities-v2",
+      "descriptionAdvanced": "Chapelton egy történelmi város Clarendon megye északi részén, a Rio Minho folyó völgyében. A város a 18. században Clarendon megye fővárosa volt, mielőtt a közigazgatási központot May Penbe helyezték át. Nevét egy régi kápolnáról kapta. A város megőrizte gyarmati hangulatát, a St. Paul's anglikán templom és a történelmi bíróság épülete a brit múlt tanúi. Chapelton a nemzeti hős, Alexander Bustamante, Jamaica első miniszterelnökének egyik fontos politikai bázisa volt. Ma a város a környező kávé- és citrusültetvények kereskedelmi központja. Történelem K8 – Gyarmati közigazgatás és politikai örökség.",
+      "factsAdvanced": [
+        "1700 és 1800 között Chapelton volt Clarendon megye adminisztratív központja.",
+        "A Clarendon College, az egyik legnevesebb jamaicai középiskola, 1942-ben itt alakult.",
+        "A város ad otthont a Chapelton Kórháznak, amely a régió egészségügyi ellátásában játszik fontos szerepet.",
+        "A környék a kiváló minőségű kávéjáról is ismert.",
+        "A St. Paul's anglikán templom az 1660-as években épült, és a sziget egyik legrégebbi temploma.",
+        "A város a Rio Minho folyó áradásainak van kitéve.",
+        "A helyi gazdaság szorosan kötődik a mezőgazdasághoz, különösen a kávé, a kakaó és a citrusfélék termesztéséhez.",
+        "A városban egykor nyüzsgő piac működött, amely a régió központja volt."
+      ]
+    },
+    {
+      "id": "jm-discovery-bay-cities-v2",
+      "descriptionAdvanced": "Discovery Bay egy történelmi és ipari jelentőségű tengerparti város Saint Ann megyében. A hagyomány szerint Kolumbusz Kristóf 1494-ben itt szállt partra először Jamaicában, bár a pontos helyszín vitatott. A város ad otthont a Discovery Bay Marine Laboratory-nak, a Nyugat-indiai Egyetem tengerbiológiai kutatóközpontjának, amely a közeli korallzátonyokat tanulmányozza. A város gazdaságát a bauxitipar határozza meg; a Noranda Bauxite vállalat itt működteti egyik legnagyobb kikötőjét, ahonnan a timföldet exportálják. A város ötvözi a történelmi emlékhelyeket, a tudományos kutatást és a nehézipart. Földrajz K8 – Ipar és környezet kapcsolata.",
+      "factsAdvanced": [
+        "Kolumbusz eredetileg 'Puerto Seco' (Száraz Kikötő) néven emlegette a helyet a vízhiány miatt.",
+        "A Columbus Park egy szabadtéri múzeum, amely a sziget történelmét mutatja be, de jelenleg felújítás alatt áll.",
+        "A kikötő mély vize ideális a nagy teherhajók fogadására.",
+        "A közeli Green Grotto Caves egy népszerű turisztikai látványosság.",
+        "A tengeri laboratórium fontos szerepet játszik a Karib-tenger korallzátonyainak védelmében.",
+        "A bauxitkitermelés jelentős környezeti hatással van a régióra.",
+        "A Puerto Seco Beach Park egy népszerű, modernizált strand a helyiek és a turisták számára.",
+        "A város a turizmus és az ipar kettősségét mutatja be Jamaica északi partján."
+      ]
+    },
+    {
+      "id": "jm-oracabessa-cities-v2",
+      "descriptionAdvanced": "Oracabessa egy kisváros Saint Mary megye partvidékén, amely a 20. században a banánexport egyik központja volt. A város neve spanyolul 'arany fej'-et jelent, ami utalhat a naplementére vagy a terület egykori gazdagságára. Oracabessa világhírnevét Ian Flemingnek, a James Bond-regények írójának köszönheti, aki itt építette fel a Goldeneye villát. A villa ma egy exkluzív üdülőhely, amely vonzza a hírességeket. A város a halászat és a turizmus felé fordult a banánipar hanyatlása után. Az Oracabessa Bay Fish Sanctuary egy helyi kezdeményezés a tengeri élővilág és a korallzátonyok védelmére. Kultúra K8 – Irodalom és turizmus.",
+      "factsAdvanced": [
+        "Ian Fleming 14 James Bond-regényt írt a Goldeneye villában.",
+        "A James Bond Beach a város egyik népszerű strandja, ahol gyakran rendeznek koncerteket.",
+        "A Goldeneye birtok egykor Sir Noël Coward, a híres drámaíró tulajdonában is volt egy rövid ideig.",
+        "Az Oracabessa-öböl Tengeri Védett Terület több mint 400 hektáron védi a zátonyokat.",
+        "A város egykor forgalmas kikötő volt, ahonnan a Fyffes vállalat banánt szállított.",
+        "A halászat ma is fontos megélhetési forrás a helyi közösség számára.",
+        "A város hangulata csendesebb és autentikusabb, mint a nagyobb üdülőközpontoké.",
+        "Sting zenész a 'Every Breath You Take' című slágerét a Goldeneye villában írta."
+      ]
+    },
+    {
+      "id": "jm-annotto-bay-cities-v2",
+      "descriptionAdvanced": "Annotto Bay egy történelmi tengerparti város Saint Mary megye keleti részén, a Blue Mountains lábánál. A város a nevét a környéken bőségesen termő annatto (orleánfa) cserjéről kapta, amelynek magjaiból piros ételfestéket nyernek. A 19. században a város a banán- és kókuszexport egyik virágzó központja volt. Az Annotto Bay-i vasútállomás a sziget északi partján futó vasútvonal fontos állomása volt. Ma a város egy csendesebb kereskedelmi központ, amely a környező mezőgazdasági területeket szolgálja ki. Az Annotto Bay Kórház a régió egészségügyi ellátásának kulcsfontosságú intézménye. Gazdaságtörténet K7 – Exportcikkek és közlekedés.",
+      "factsAdvanced": [
+        "Az annatto festéket a taino indiánok is használták testfestésre.",
+        "A városban egykor egy nagy skót presbiteriánus közösség élt.",
+        "Az 1907-es nagy kingstoni földrengés itt is jelentős károkat okozott.",
+        "A közeli Gray's Inn cukorgyár egykor a helyi gazdaság motorja volt.",
+        "A Wag Water és a Pencar folyók a város mellett ömlenek a tengerbe.",
+        "A város megőrzött néhányat a 19. századi 'gingerbread' stílusú faépületei közül.",
+        "A helyi gazdaság ma a mezőgazdaságon és a kiskereskedelmen alapul.",
+        "A város fontos összekötő pont a part menti út és a hegyekbe vezető utak között."
+      ]
+    },
+    {
+      "id": "jm-highgate-cities-v2",
+      "descriptionAdvanced": "Highgate egy szárazföldi város Saint Mary megyében, a partvidéki városok, Port Maria és Annotto Bay között félúton. A város fontos kereskedelmi és oktatási központ a környező vidéki közösségek számára. Itt található a St. Mary High School, a megye egyik legnevesebb középiskolája. Highgate a vallási élet központja is, a Friends (kvékerek) egyházközösségnek itt van az egyik legfontosabb találkozóhelye Jamaicában. A város a mezőgazdaságra épül, a környéken banánt, kakaót és pimentót termesztenek. A város hűvösebb, hegyvidéki fekvése kellemesebb klímát biztosít a part menti forrósághoz képest. Társadalomföldrajz K7 – Vidéki központok.",
+      "factsAdvanced": [
+        "A Friends (kvékerek) 1891-ben alapították a Highgate-i missziójukat.",
+        "A 'Quaker Hill'-en található a közösség iskolája és temploma.",
+        "A város a Richmond és a Palmetto Grove banánültetvények közelében fekszik.",
+        "A helyi piac a gazdák fontos értékesítési pontja.",
+        "A város a fő közlekedési útvonalon fekszik, amely összeköti a megye különböző részeit.",
+        "A közeli Esher a banántermesztés egyik történelmi központja volt.",
+        "A városban található egy rendőrőrs és egy postahivatal is, amelyek a környéket szolgálják ki.",
+        "A lakosság nagy része a mezőgazdaságból vagy a közeli városokban való munkavégzésből él."
+      ]
+    },
+    {
+      "id": "jm-buff-bay-cities-v2",
+      "descriptionAdvanced": "Buff Bay egy tengerparti város Portland megyében, a Blue Mountains és a Karib-tenger között. A város a Buff Bay folyó torkolatánál fekszik, amely gyakran megárad a hegyekből lezúduló esőzések miatt. A város a kávé- és banántermesztő vidék központja. A közeli Blue Mountains-ben termesztett kiváló minőségű kávét gyakran itt dolgozzák fel és exportálják. Buff Bay egykor forgalmas kikötő volt, de ma már inkább a helyi kereskedelemre és a mezőgazdaságra összpontosít. A város a környező természeti szépségek, például a vízesések és a hegyi túraútvonalak kiindulópontja. Természetföldrajz K8 – Folyótorkolatok és emberi települések.",
+      "factsAdvanced": [
+        "A Buff Bay folyó Jamaica egyik leggyorsabb folyású folyója.",
+        "A város neve ('buff' - sárgásbarna) a folyó által hordott üledék színére utalhat.",
+        "Az 1944-es nagy hurrikán jelentős pusztítást végzett a városban.",
+        "A közeli Charles Town az egyik legjelentősebb maroon (szökött rabszolgák leszármazottai) település.",
+        "A városban több történelmi templom és egy óratorony is található.",
+        "A Crystal Springs egy népszerű helyi pihenőhely és botanikus kert a város mellett.",
+        "A Buff Bay-völgy a sziget egyik legfestőibb, de egyben legveszélyeztetettebb területe.",
+        "A helyi gazdaság szorosan kötődik a Blue Mountains kávétermeléséhez."
+      ]
+    },
+    {
+      "id": "jm-hope-bay-cities-v2",
+      "descriptionAdvanced": "Hope Bay egy festői halászfalu Portland megye partvidékén, a Swift River torkolatánál. A falu egy gyönyörű, félhold alakú öbölben fekszik, amelyről a nevét kapta. A helyiek főként a halászatból és a mezőgazdaságból élnek. A falu megőrizte autentikus, nyugodt hangulatát, távol a nagy üdülőközpontok nyüzsgésétől. A közeli Somerset Falls vízesés a környék egyik legnépszerűbb természeti látványossága. A Swift River tiszta, hűvös vize a helyiek kedvelt fürdőhelye. Hope Bay a természetkedvelők és a csendes pihenésre vágyók ideális célpontja. Vidékföldrajz K6 – Halászfalvak élete.",
+      "factsAdvanced": [
+        "A falu a 'remény öblének' nevezték el a hajósok, akik menedéket találtak itt a viharok elől.",
+        "A partot gyakran használják a halászok csónakjaik tárolására és hálóik javítására.",
+        "A közeli St. Margaret's Bay szintén egy népszerű strand és halászfalu.",
+        "A falu a Portland-völgyben fekszik, amely a sziget egyik legtermékenyebb területe.",
+        "A helyi konyha a frissen fogott halra és a helyben termesztett zöldségekre épül.",
+        "A falu jó példája a fenntartható, közösségi alapú turizmusnak.",
+        "A Swift River raftingolásra és bambusztutajozásra is alkalmas.",
+        "A környéken számos kisebb vendégház és apartman kínál szállást."
+      ]
+    },
+    {
+      "id": "jm-golden-grove-cities-v2",
+      "descriptionAdvanced": "Golden Grove egy mezőgazdasági város Saint Thomas megye keleti részén, a Plantain Garden River völgyében. A város Jamaica egyik legfontosabb cukornádtermesztő vidékének központja. A közeli Duckenfield cukorgyár évtizedekig a régió legnagyobb munkáltatója volt. A város neve a környék gazdagságára és termékenységére utal. A Plantain Garden River, amely a sziget egyetlen keleti irányba folyó jelentős folyója, öntözi a kiterjedt cukornád- és banánültetvényeket. A város egy erős, összetartó közösségnek ad otthont, amelynek élete szorosan összefonódik a cukoripar hullámvölgyeivel. Agrárföldrajz K7 – Ültetvényes gazdálkodás.",
+      "factsAdvanced": [
+        "A Duckenfield cukorgyár a 17. század óta működött, de a 21. században bezárták.",
+        "A Plantain Garden River völgy Jamaica egyik legtermékenyebb alluviális síksága.",
+        "A városban egykor virágzó indiai (indentured) közösség élt, akiket a cukorültetvényekre hoztak dolgozni.",
+        "A közeli Holland ültetvény szintén egy fontos történelmi cukorbirtok volt.",
+        "A város a Morant Point világítótoronyhoz, a sziget legkeletibb pontjához vezető út mentén fekszik.",
+        "A halászat szintén fontos szerepet játszik a közeli part menti részeken.",
+        "A városnak van egy középiskolája, a Paul Bogle High School.",
+        "A terület gyakran ki van téve a trópusi viharoknak és áradásoknak."
+      ]
+    },
+    {
+      "id": "jm-seaforth-cities-v2",
+      "descriptionAdvanced": "Seaforth egy kisváros Saint Thomas megyében, a Blue Mountains déli lábánál. A város a 19. században alakult ki a környező cukor- és kávéültetvények központjaként. Nevét valószínűleg egy skót nemesi címről, a Seaforth grófjáról kapta. A város egy fontos folyó, a Johnson River partján fekszik. Seaforth egy tipikus vidéki jamaicai város, ahol a piac és a helyi üzletek szolgálják ki a környező falvak lakosságát. A közeli hegyekben számos túraútvonal és vízesés található. A város a főváros, Kingston és a megyeszékhely, Morant Bay között helyezkedik el. Földrajz K6 – Települések a hegységek lábánál.",
+      "factsAdvanced": [
+        "A város közelében található a Serge Island tejgazdaság, az egyik legnagyobb Jamaicában.",
+        "A Blue Mountain Peakre vezető túraútvonalak egy része a közelből indul.",
+        "A város egykor a rabszolgaság eltörlése után felszabadítottak által alapított 'szabad falvak' egyike volt.",
+        "A helyi gazdaság ma a mezőgazdaságra, különösen a banán- és gyökérzöldség-termesztésre épül.",
+        "A városban egy középiskola és egy egészségügyi központ is működik.",
+        "A Johnson River gyakran megárad az esős évszakban.",
+        "A környéken számos kisebb, független baptista és pünkösdi gyülekezet található.",
+        "A város hangulata nyugodt és barátságos."
+      ]
+    },
+    {
+      "id": "jm-rocky-point-cities-v2",
+      "descriptionAdvanced": "Rocky Point egy halászfalu Clarendon megye déli partján, a Portland Bight védett öblében. A falu Jamaica egyik legfontosabb halászati központja, ahol a halászok naponta friss fogással látják el a sziget piacait. A partot színes halászbárkák szegélyezik, és a levegőt a sós tenger és a sült hal illata tölti be. A falu mellett található a Jamalco timföldgyár kikötője, ami kontrasztot teremt a hagyományos halászfalu és a nehézipar között. A közeli mangrovés területek fontos ívóhelyei a halaknak és menedéket nyújtanak a tengeri madaraknak. Rocky Point autentikus betekintést nyújt a jamaicai halászközösségek életébe. Gazdaságföldrajz K6 – Halászat és ipar.",
+      "factsAdvanced": [
+        "A falu a 'pot fishing' (varsás halászat) egyik központja.",
+        "A helyi strandok, mint a 'Barnswell Beach', népszerűek a helyiek körében.",
+        "A 'Little Goat Island' és a 'Great Goat Island' a faluval szemben, az öbölben található.",
+        "A Portland Bight Védett Terület része, amely a sziget legnagyobb védett tengeri övezete.",
+        "A falu ki van téve a hurrikánok és a tengerszint-emelkedés veszélyeinek.",
+        "A helyi konyha alapja a friss hal, különösen az 'escoveitch fish' (ecetes, sült hal).",
+        "A közösség szorosan kötődik a tengerhez, a legtöbb család megélhetése a halászatból származik.",
+        "A falu egyike azon helyeknek, ahol a karibi lamantin (tengeri tehén) is megfigyelhető."
+      ]
+    },
+    {
+      "id": "jm-alley-cities-v2",
+      "descriptionAdvanced": "Alley, más néven Lionel Town, egy kisváros Clarendon megye déli síkságain. A város a Monymusk cukorgyár közelsége miatt fontos település, amely a környék legnagyobb munkáltatója. Alley a 17. században Clarendon megye fővárosa volt, mielőtt a közigazgatási központot Chapeltonba, majd May Penbe helyezték át. A város történelmi központjában áll a Szent Péter-templom, amely a sziget egyik legrégebbi anglikán temploma, 1671-ben alapították. A város ma egy csendes mezőgazdasági központ, amelynek élete szorosan összefonódik a cukornádtermesztéssel. Történelem K7 – Gyarmati fővárosok és gazdasági változások.",
+      "factsAdvanced": [
+        "A Szent Péter-templom sírkertjében számos 17. és 18. századi sírkő található.",
+        "A Monymusk cukorgyár a Wisco (West Indies Sugar Company) tulajdonában van.",
+        "A város egykor forgalmas kikötő volt a Rio Minho folyón, mielőtt az eliszaposodott.",
+        "A város neve egy helyi ültetvényes, a Ballards Valley birtokosának nevéből származhat.",
+        "A Lionel Town Kórház a régió fontos egészségügyi intézménye.",
+        "A környék sík, alluviális talaja ideális a cukornádtermesztéshez.",
+        "A városban egykor virágzó indiai közösség élt, akiket a cukorültetvényekre hoztak.",
+        "A közeli Carlisle Bay volt a Rio Minho folyó torkolata és a régió fő kikötője."
+      ]
+    },
+    {
+      "id": "jm-monymusk-cities-v2",
+      "descriptionAdvanced": "Monymusk egy ültetvényes település Clarendon megye déli részén, amely Jamaica egyik legnagyobb és legrégebbi cukorgyáráról, a Monymusk Sugar Factory-ról ismert. A település gyakorlatilag a gyár köré épült, és a lakosok élete generációk óta összefonódik a cukoriparral. A Monymusk név egy skót birtokról származik. Az ültetvény a 18. század óta termel cukrot és rumot. A kiterjedt cukornádültetvények, amelyeket öntözőcsatornák hálóznak be, meghatározzák a tájképet. A Monymusk rum a sziget egyik legismertebb márkája. A település jól példázza azokat a 'gyárvárosokat', amelyek egyetlen iparág köré szerveződtek. Ipartörténet K8 – Cukoripar.",
+      "factsAdvanced": [
+        "A Monymusk birtokot a 18. században alapították.",
+        "A gyár a National Sugar Company of Jamaica része.",
+        "A rumlepárló a Clarendon Distillers Limited üzemeltetésében áll.",
+        "A településen saját iskola, klinika és sportklub is működik a munkások számára.",
+        "A cukornádat a betakarítási szezonban éjjel-nappal szállítják a gyárba.",
+        "A gyár melléktermékét, a melaszt, a rumgyártáshoz és állati takarmányként használják fel.",
+        "A terület öntözőrendszere a Rio Minho folyóból nyeri a vizet.",
+        "A gyár modernizálása és privatizációja folyamatos kihívást jelent a közösség számára."
+      ]
+    },
+    {
+      "id": "jm-frankfield-cities-v2",
+      "descriptionAdvanced": "Frankfield egy vidéki város Clarendon megye északi, hegyvidéki részén. Fontos közlekedési csomópont, amely összeköti a megyét a szomszédos Saint Ann és Trelawny megyékkel. A város a környező gazdálkodó közösségek kereskedelmi központja, ahol a jamgyökér, a banán, a kávé és a citrusfélék cserélnek gazdát. A Frankfield-i vasútállomás egykor a Kingstonból a sziget belsejébe tartó vasútvonal végállomása volt, ami hozzájárult a város fejlődéséhez. Ma a város egy csendesebb, de továbbra is fontos helyi központ, amely a mezőgazdaságra és a kiskereskedelemre támaszkodik. A közeli hegyek lenyűgöző tájat és túrázási lehetőségeket kínálnak. Közlekedésföldrajz K7 – Vasútvonalak hatása a településekre.",
+      "factsAdvanced": [
+        "A vasútvonalat 1925-ben hosszabbították meg Frankfieldig, de ma már nem működik.",
+        "Az Edwin Allen Comprehensive High School a város neves oktatási intézménye.",
+        "A város a Rio Minho felső folyásánál található.",
+        "A környék a 'sárga jamgyökér' (yellow yam) termesztéséről híres.",
+        "A Frankfield-i piac a régió gazdáinak fő értékesítési helye.",
+        "A város a Cockpit Country peremén fekszik, ami egyedi természeti környezetet biztosít.",
+        "A területen bauxitbányászat is folyik, ami gazdasági lehetőségeket és környezeti kihívásokat is jelent.",
+        "A város lakossága erős közösségi szellemről ismert."
+      ]
+    },
+    {
+      "id": "jm-spaldings-cities-v2",
+      "descriptionAdvanced": "Spaldings egy forgalmas hegyvidéki város, amely Clarendon és Manchester megyék határán fekszik. Magas, körülbelül 900 méteres tengerszint feletti magassága miatt a klímája hűvös és csapadékos. A város fontos oktatási központ, itt található a Knox College, egy neves bentlakásos iskola, valamint a Spaldings High School. Kereskedelmi csomópontként is jelentős, a környező gazdálkodók itt értékesítik termékeiket, különösen a zöldségeket, gyökérféléket és a kávét. A Spaldings-i kórház a régió egészségügyi ellátásának fontos része. A város elhelyezkedése miatt fontos összekötő kapocs a sziget középső részének települései között. Társadalomföldrajz K8 – Oktatási központok a hegyvidéken.",
+      "factsAdvanced": [
+        "A Knox College-ot a skót presbiteriánus egyház alapította 1947-ben.",
+        "A város két parlamenti választókerület határán fekszik.",
+        "A hűvös éghajlat ideális az 'ír burgonya' és a káposztafélék termesztéséhez.",
+        "A város forgalmas piacán a hét minden napján pezseg az élet.",
+        "A közeli Christiana és Frankfield városokkal együtt egy fontos hegyvidéki gazdasági zónát alkot.",
+        "A városban egy rendőrőrs és egy postahivatal is működik.",
+        "A terület gazdag vörös, bauxittartalmú talajban.",
+        "A Spaldings név valószínűleg egy angol vagy skót helységnévből származik."
+      ]
+    },
+    {
+      "id": "jm-williamsfield-cities-v2",
+      "descriptionAdvanced": "Williamsfield egy kisváros Manchester megyében, Mandeville közvetlen szomszédságában. A város leginkább a Kirkvine bauxitfinomítóról ismert, amely évtizedekig a régió gazdasági motorja és legnagyobb munkáltatója volt. A finomító a Windalco (West Indies Alumina Company) tulajdonában állt, és a bauxitot timfölddé dolgozta fel. A gyár működése jelentősen hozzájárult a környék infrastruktúrájának fejlődéséhez, beleértve az utakat és a vasutat is. A finomító bezárása súlyos gazdasági következményekkel járt a közösség számára. Williamsfield ma egy csendesebb település, amely próbál új utakat találni a gazdasági fennmaradásra. Ipartörténet K8 – Bauxitipar és hatásai.",
+      "factsAdvanced": [
+        "A Kirkvine Works finomítót 1952-ben nyitották meg.",
+        "A timföldet vasúton szállították a Port Esquivel kikötőbe.",
+        "A bányászat a környező területeken vörös 'tavakat' és tájsebeket hagyott maga után.",
+        "A városban található a West Indies College, amely ma a Northern Caribbean University része.",
+        "A 'Marlborough Great House' egy történelmi ültetvényes ház a város közelében.",
+        "Williamsfield a Kingston-Montego Bay vasútvonal egyik fontos állomása volt.",
+        "A közösség sportélete, különösen a krikett, szorosan kötődött a bauxitcég támogatásához.",
+        "A finomító többszöri tulajdonosváltáson és bezáráson ment keresztül az elmúlt évtizedekben."
+      ]
+    },
+    {
+      "id": "jm-cross-keys-cities-v2",
+      "descriptionAdvanced": "Cross Keys egy kis, hegyvidéki település Manchester megye déli részén. A közösség egy festői, dombos vidéken fekszik, ahonnan lenyűgöző kilátás nyílik a déli partvidékre és a Karib-tengerre. A terület a mezőgazdaságról ismert, a helyi gazdák elsősorban citrusféléket, kávét és gyökérzöldségeket termesztenek. Cross Keys egy csendes, összetartó közösség, amely megőrizte a hagyományos vidéki jamaicai életformát. A hűvösebb éghajlat kellemes menedéket nyújt a part menti hőség elől. A település a Mandeville és a déli parti Alligator Pond közötti úton található. Vidékföldrajz K6 – Hegyvidéki gazdálkodás.",
+      "factsAdvanced": [
+        "A közeli Alligator Pond híres a tenger gyümölcseit kínáló éttermeiről.",
+        "A területen számos kisebb, független templom működik, amelyek a közösségi élet központjai.",
+        "A 'kulcs' név a földrajzi elhelyezkedésre utalhat, mint egy fontos átjáróra.",
+        "A helyi gazdálkodás nagymértékben függ az esőzésektől, mivel az öntözés kevésbé kiépített.",
+        "A közösségben erős a sport iránti szeretet, különösen a krikett népszerű.",
+        "Az utak kanyargósak és meredekek, ami a hegyvidéki terep sajátossága.",
+        "A lakosok közül sokan a közeli Mandeville-be vagy a tengerparti üdülőhelyekre ingáznak dolgozni.",
+        "A táj szépsége és a csend vonzza azokat, akik a városi nyüzsgés elől menekülnek."
+      ]
+    },
+    {
+      "id": "jm-junction-cities-v2",
+      "descriptionAdvanced": "Junction egy forgalmas kereskedelmi város St. Elizabeth megye délkeleti részén. A neve onnan ered, hogy fontos utak találkozási pontja, amelyek összekötik a déli partot a sziget belsejével, többek között Mandeville-lel és Santa Cruzzal. A város a környező mezőgazdasági területek, különösen a Bull Savannah 'éléskamra' régió központja. A Junction-i piac a helyi gazdák fő értékesítési helye, ahol a dinnyétől a paradicsomon át a fűszerekig mindent árulnak. A város gyorsan fejlődik, számos új üzlet, bank és szolgáltatás telepedett le itt, hogy kiszolgálja a növekvő lakosságot és a környező településeket. Közlekedésföldrajz K7 – Csomópont-települések.",
+      "factsAdvanced": [
+        "Junction St. Elizabeth megye egyik leggyorsabban növekvő városa.",
+        "A város a Santa Cruz-hegység lábánál fekszik.",
+        "A közeli Lovers' Leap szikla a környék egyik leghíresebb turisztikai látványossága.",
+        "A bauxitbányászat is jelen van a régióban, ami gazdasági lehetőségeket teremt.",
+        "A városban egy nagy, modern rendőrőrs működik.",
+        "A Munro College, Jamaica egyik legrégebbi és legnevesebb fiúiskolája, a közelben található.",
+        "A 'Junction' elnevezés a 19. század óta használatos.",
+        "A város klímája száraz és meleg, ami jellemző a déli parti síkságokra."
+      ]
+    },
+    {
+      "id": "jm-balaclava-cities-v2",
+      "descriptionAdvanced": "Balaclava egy történelmi város St. Elizabeth megye északi részén, a Cockpit Country peremén. A város a nevét a krími háborúban (1853-1856) lezajlott balaklavai csatáról kapta. A 19. században a város a Kingstonból Montego Baybe vezető vasútvonal egyik fontos állomása volt, ami fellendítette a helyi gazdaságot. A vasút bezárása után a város jelentősége csökkent, de továbbra is a környező mezőgazdasági közösségek központja maradt. A környék a gyömbér és a citrusfélék termesztéséről ismert. A történelmi vasútállomás épülete ma is áll, emlékeztetve a város aranykorára. Történelem K8 – A vasút hatása.",
+      "factsAdvanced": [
+        "A vasútállomás épülete a jamaicai György-korabeli vasúti építészet szép példája.",
+        "A közeli Appleton Estate rumlepárló a környék egyik legnagyobb munkáltatója.",
+        "A Maggotty vízerőmű a közelben található a Black River folyón.",
+        "A város egy völgyben fekszik, amelyet hegyek vesznek körül.",
+        "A helyi gazdaság alapja a mezőgazdaság, különösen a cukornád és a citrusfélék.",
+        "A város neve a katonai veteránoknak juttatott földekre utalhat a krími háború után.",
+        "A Balaclava-i Szent Lukács anglikán templom a 19. században épült.",
+        "A város a St. Elizabeth és a Manchester megyék határán fekszik."
+      ]
+    },
+    {
+      "id": "jm-mavis-bank-cities-v2",
+      "descriptionAdvanced": "Mavis Bank egy hegyi falu Saint Andrew megyében, a Blue Mountains szívében. A falu a világhírű jamaicai Blue Mountain kávé termesztésének és feldolgozásának központja. Itt található a Mavis Bank Coffee Factory, a sziget legnagyobb és legrégebbi kávégyára, amely a régió kistermelőitől vásárolja fel a kávészemeket. A falu egy meredek, kanyargós úton közelíthető meg, ahonnan lélegzetelállító kilátás nyílik a környező hegycsúcsokra és völgyekre. Az élet itt szorosan kötődik a kávétermelés ciklusaihoz. Mavis Bank a Blue Mountain Peakre vezető túrák egyik népszerű kiindulópontja. Agrárföldrajz K8 – Világhírű termékek és termőhelyeik.",
+      "factsAdvanced": [
+        "A Mavis Bank Coffee Factory-t 1923-ban alapították.",
+        "A Blue Mountain kávé a világ egyik legdrágább és legkeresettebb kávéfajtája.",
+        "A kávét 1000 és 1700 méter közötti magasságban termesztik.",
+        "A kávészemeket kézzel szedik, majd a gyárban mossák, szárítják és válogatják.",
+        "A falu a Yallahs folyó völgyében fekszik.",
+        "A túrázók gyakran itt szállnak meg, mielőtt megmásznák a Blue Mountain Peaket napfelkeltekor.",
+        "A helyi közösség élete a kávé köré szerveződik, a legtöbb család a kávétermesztésből él.",
+        "A 'Mavis' név egy skót énekesmadár neve, ami a terület természeti szépségére utalhat."
+      ]
+    }
+  ]
+}

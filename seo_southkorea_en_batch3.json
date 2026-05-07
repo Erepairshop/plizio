@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gyeongbokgung-palace-history-v2",
+      "descriptionAdvanced": "Gyeongbokgung Palace is the primary royal palace of the Joseon Dynasty and the most iconic symbol of Korean monarchical history. Built in 1395, just three years after the founding of the dynasty by King Taejo, its name translates to 'Palace Greatly Blessed by Heaven.' Located in the heart of Seoul with Bugaksan Mountain as its backdrop, the palace served as the main residence for kings and the center of government for centuries. Although much of the complex was destroyed during the Japanese invasions of the late 16th century and again during the colonial occupation in the early 20th century, exhaustive restoration efforts have brought its architectural grandeur back to life. Landmarks such as the Geonjeongjeon Throne Hall and the Gyeonghoeru Pavilion, which stands majestically over a lotus pond, reflect the sophisticated aesthetic and political philosophy of the Joseon era, making it a cornerstone of Korean cultural identity.",
+      "factsAdvanced": [
+        "Gyeongbokgung is the largest and oldest of the 'Five Grand Palaces' in Seoul.",
+        "The palace was originally constructed in 1395 and rebuilt in 1867 after centuries of ruin.",
+        "Geonjeongjeon, the main throne hall, is the largest wooden structure in South Korea.",
+        "The Gyeonghoeru Pavilion was used for state banquets and was built on 48 stone pillars.",
+        "The palace complex originally consisted of over 500 buildings and roughly 7,700 rooms.",
+        "The National Palace Museum and the National Folk Museum are both located within its grounds.",
+        "Gyeongbokgung follows the principles of 'Pungsu-jiri' (Feng Shui), with mountains behind and water in front.",
+        "The Changing of the Royal Guard ceremony is a meticulously preserved historical reenactment performed daily."
+      ]
+    },
+    {
+      "id": "dmz-panmunjom-history-v2",
+      "descriptionAdvanced": "Panmunjom, officially known as the Joint Security Area (JSA), is the most famous and historically significant point within the Korean Demilitarized Zone (DMZ). Located in the 'truce village' of Panmunjom, this is where the 1953 Armistice Agreement was signed, ending the active hostilities of the Korean War. It remains the only place on the peninsula where soldiers from North and South Korea stand face-to-face across a military demarcation line. The site has been the venue for numerous historic summits and high-level diplomatic talks, symbolizing both the tragic division of the nation and the ongoing hope for peace and reunification. Key landmarks include the iconic blue negotiation barracks and the Freedom House. Panmunjom is a place of intense tension and profound historical gravity, offering a visceral glimpse into the Cold War's enduring legacy in East Asia.",
+      "factsAdvanced": [
+        "Panmunjom is the only place in the DMZ where North and South Korean forces stand in direct sight of each other.",
+        "The Armistice Agreement was signed here on July 27, 1953.",
+        "The site is officially designated as the Joint Security Area (JSA) and is managed by the UN Command.",
+        "The Bridge of No Return was used for the exchange of POWs after the Korean War.",
+        "The 'Axe Murder Incident' of 1976 took place here, leading to a near-resumption of full-scale war.",
+        "In 2018, Panmunjom hosted the historic summit between President Moon Jae-in and Kim Jong-un.",
+        "The blue barracks (T1, T2, T3) straddle the border, allowing visitors to technically step into North Korea.",
+        "Panmunjom is located roughly 60 kilometers north of Seoul."
+      ]
+    },
+    {
+      "id": "bulguksa-temple-history-v2",
+      "descriptionAdvanced": "Bulguksa Temple is a masterpiece of Buddhist architecture and the spiritual crown jewel of Gyeongju, the ancient capital of the Silla Kingdom. Commissioned by Prime Minister Kim Dae-seong in 751 AD during the reign of King Gyeongdeok, the temple was designed to represent the Buddhist utopia on Earth. Its structures, including the majestic granite stairs and the intricately designed stone pagodas Dabotap and Seokgatap, showcase the peak of Silla's artistic and mathematical precision. Bulguksa survived for over 800 years until it was largely destroyed by fire during the Japanese invasion of 1592. The modern complex, meticulously restored in the 1970s, remains a UNESCO World Heritage site and a primary site of national pride. It serves as a living museum of Korea's golden age of Buddhism, blending stone and wood in a harmonious balance that has inspired generations of Koreans.",
+      "factsAdvanced": [
+        "Bulguksa Temple was designated a UNESCO World Heritage site in 1995 along with Seokguram Grotto.",
+        "The Dabotap Pagoda is featured on the South Korean 10-won coin.",
+        "The temple's name means 'Temple of the Buddha Land'.",
+        "It contains seven of South Korea's National Treasures within its grounds.",
+        "The stone bridges leading into the temple, Cheon-gung and Baek-ung, symbolize the passage into the spiritual realm.",
+        "Seokgatap Pagoda is known for its elegant simplicity and was built in 751 AD.",
+        "The temple was originally designed to represent three aspects of the Buddhist paradise.",
+        "The granite foundation of the temple is a miracle of ancient engineering, resisting earthquakes for over 1,200 years."
+      ]
+    },
+    {
+      "id": "hwaseong-fortress-history-v2",
+      "descriptionAdvanced": "Hwaseong Fortress, located in Suwon, is an 18th-century military masterpiece that represents the pinnacle of Joseon Dynasty architecture and engineering. Built between 1794 and 1796 by King Jeongjo, the fortress was designed to protect the king's father's tomb and served as a secondary capital. The fortress is unique for its integration of Eastern and Western military theories, utilizing advanced construction techniques like the 'Geojunggi' pulley system designed by scholar Jeong Yak-yong. Its walls stretch for nearly six kilometers, punctuated by 48 defensive structures including gates, watchtowers, and fire-signal platforms. As a UNESCO World Heritage site, Hwaseong is celebrated not only for its defensive prowess but also for its aesthetic beauty and the 'Uigwe' (Royal Protocols) which documented its construction in unprecedented detail. It stands as a symbol of King Jeongjo's filial piety and his vision for a modernized, scientifically advanced Korea.",
+      "factsAdvanced": [
+        "Hwaseong Fortress was built in just 34 months, an incredibly short time for its scale.",
+        "The 'Hwaseong Seong-yeok Uigwe' is a detailed 10-volume archive of every aspect of the fortress's construction.",
+        "King Jeongjo used the fortress to demonstrate his military power and to move the center of politics away from Seoul.",
+        "The fortress walls utilize both stone and bricks, a revolutionary choice at the time.",
+        "The Paldalmun Gate is the southern entrance and remains a major landmark in central Suwon.",
+        "Hwaseong was heavily damaged during the Korean War but was restored based on the original Uigwe records.",
+        "The fortress was designated a UNESCO World Heritage site in 1997.",
+        "The Janganmun Gate is the largest gate of its kind in South Korea."
+      ]
+    },
+    {
+      "id": "seokguram-grotto-history-v2",
+      "descriptionAdvanced": "Seokguram Grotto is a sublime sanctuary of Buddhist art and a crowning achievement of the Silla Kingdom's cultural zenith. Built in the mid-8th century alongside Bulguksa Temple, this artificial grotto was carved into the granite slopes of Mount Tohamsan, overlooking the East Sea. Its centerpiece is a monumental, serene statue of the Shakyamuni Buddha, surrounded by meticulously carved bas-reliefs of disciples, deities, and guardians. The grotto was engineered with extraordinary mathematical precision, utilizing a dome structure that allows for natural ventilation and specific lighting during the sunrise to illuminate the Buddha's forehead. Seokguram represents the perfect union of religious devotion, artistic finesse, and scientific ingenuity. After centuries of neglect, its rediscovery in the early 20th century led to its recognition as a UNESCO World Heritage site, affirming its status as one of the most significant Buddhist shrines in all of Asia.",
+      "factsAdvanced": [
+        "The Buddha statue in Seokguram is 3.5 meters high and was carved from a single block of granite.",
+        "The grotto was designed to capture the first rays of the sun at the winter solstice.",
+        "Seokguram is National Treasure No. 24 of South Korea.",
+        "The grotto is an 'artificial' structure, built with hundreds of granite blocks without mortar.",
+        "It was designated as a UNESCO World Heritage site in 1995.",
+        "The 12 guardians and 10 disciples carved on the walls are considered masterpieces of Silla sculpture.",
+        "Restoration efforts during the Japanese occupation and the 1960s were controversial due to the use of concrete.",
+        "The cave's design incorporates a sophisticated moisture control system that was ahead of its time."
+      ]
+    },
+    {
+      "id": "changdeokgung-palace-history-v2",
+      "descriptionAdvanced": "Changdeokgung Palace is the most favored and best-preserved of the five Joseon-era palaces in Seoul. Built in 1405 as a secondary palace to Gyeongbokgung, it eventually served as the primary royal residence for 258 years after the main palace was destroyed in the late 16th century. Unlike other palaces that follow a rigid, symmetrical layout, Changdeokgung is celebrated for its 'unstructured' design that flows naturally with the surrounding topography. Its most famous feature is the Huwon, or 'Secret Garden,' a vast and tranquil sanctuary originally created for the royal family's relaxation and education. The palace's architecture, including the Injeongjeon Throne Hall and the Buyongjeong Pavilion, represents the quintessence of Korean aesthetic philosophy\u2014harmony between man-made structures and the natural world. In 1997, it was the first Korean palace to be designated as a UNESCO World Heritage site for its unique architectural and landscape values.",
+      "factsAdvanced": [
+        "Changdeokgung was the primary palace for the Joseon kings for over 250 years.",
+        "The Huwon (Secret Garden) makes up about 60% of the entire palace grounds.",
+        "Injeongjeon, the throne hall, is the most spectacular building in the complex and was rebuilt in 1804.",
+        "The palace was the last residence of the Korean imperial family, until 1989.",
+        "UNESCO designated Changdeokgung as a World Heritage site in 1997.",
+        "The 'Dancheong' (traditional multicolored paint) on the palace buildings is exceptionally well-preserved.",
+        "The Geumcheongyo Bridge is the oldest bridge in Seoul, dating back to 1411.",
+        "The palace was carefully placed to maintain the natural spirit (Gi) of the mountain behind it."
+      ]
+    },
+    {
+      "id": "gochang-dolmen-sites-history-v2",
+      "descriptionAdvanced": "The Gochang Dolmen Sites offer a fascinating window into the prehistoric culture of the Korean Peninsula, boasting the highest density and variety of dolmens in the world. Dating back to the Bronze Age (approximately 1st millennium BC), these megalithic tombs served as the final resting places for the ruling elite and as centers for ancestral rituals. The Gochang area alone contains over 400 dolmens, ranging from massive table-style structures to smaller capstones. This site is part of the 'Gochang, Hwasun, and Ganghwa Dolmen Sites' UNESCO World Heritage designation, which recognizes Korea as the world's leading region for megalithic monuments. The sheer concentration of these ancient stones provides invaluable archaeological evidence regarding the social stratification, spiritual beliefs, and technological capabilities of early Korean society, making it a globally significant site for the study of human prehistory.",
+      "factsAdvanced": [
+        "The Gochang Dolmen Sites contain 447 individual dolmens, the most in a single area globally.",
+        "South Korea contains approximately 40% of all dolmens found on Earth.",
+        "The dolmens were built during the Korean Bronze Age (roughly 1,000 to 300 BC).",
+        "The largest dolmen in Gochang weighs approximately 300 tons.",
+        "The site was designated as a UNESCO World Heritage site in 2000.",
+        "Archaeologists believe the construction of a single large dolmen required the labor of hundreds of people.",
+        "There are several different styles of dolmens in Gochang: Northern, Southern, and Capstone types.",
+        "The Gochang Dolmen Museum nearby provides detailed scientific analysis of the megaliths."
+      ]
+    },
+    {
+      "id": "jongmyo-shrine-history-v2",
+      "descriptionAdvanced": "Jongmyo Shrine is the oldest and most authentic royal Confucian shrine in the world, dedicated to the ancestral tablets of the kings and queens of the Joseon Dynasty. Built in 1394, the shrine is a solemn and majestic complex designed to embody the principles of Confucian filial piety and the continuity of the royal bloodline. The architecture of the main hall, Jeongjeon, is characterized by its stark, horizontal simplicity and monumental scale, reflecting a profound sense of reverence and timelessness. For over 600 years, the 'Jongmyo Jerye' (Royal Ancestral Ritual) has been performed here, accompanied by traditional court music and dance (Jerye-ak). This ritual, recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity, is a rare example of a living tradition that connects the modern nation with its royal past, making Jongmyo the ultimate spiritual sanctuary of the Joseon era.",
+      "factsAdvanced": [
+        "Jongmyo is the world's oldest surviving royal Confucian shrine, first built in 1394.",
+        "Jeongjeon, the main hall, is the longest wooden building in South Korea.",
+        "The shrine houses 19 chambers containing the spirit tablets of 49 kings and queens.",
+        "The 'Jongmyo Jerye' ritual has been performed annually since the 14th century.",
+        "Jongmyo was designated as a UNESCO World Heritage site in 1995.",
+        "The paths in the shrine are slightly raised in the center for the spirits to walk on.",
+        "The architecture avoids any flashy decorations to maintain a solemn atmosphere for the ancestors.",
+        "The Jongmyo Jerye-ak is the oldest court music in Korea, preserved for over 500 years."
+      ]
+    },
+    {
+      "id": "war-memorial-of-korea-history-v2",
+      "descriptionAdvanced": "The War Memorial of Korea in Seoul is one of the largest and most comprehensive military history museums in the world, dedicated to the preservation of records and artifacts related to the numerous conflicts that have shaped the nation. Established on the site of a former army headquarters, the memorial's primary mission is to honor the sacrifices of those who fought to defend the country, particularly during the Korean War (1950-1953). The vast outdoor exhibition features hundreds of real aircraft, tanks, and naval vessels, while the six indoor galleries cover everything from ancient prehistoric battles to modern peacekeeping missions. A centerpiece of the memorial is the War History Room and the Memorial Hall, where the names of every South Korean and UN soldier killed in the Korean War are inscribed on granite plaques. It serves as a somber educational space that highlights both the tragedy of war and the resilience of the Korean people.",
+      "factsAdvanced": [
+        "The War Memorial of Korea covers an area of 20,000 square meters on the former site of the ROK Army HQ.",
+        "It houses over 13,000 historical items across six different exhibition rooms.",
+        "The outdoor display includes B-52 bombers, T-34 tanks, and a replica of the PKM-357 patrol boat.",
+        "The names of 32,925 UN soldiers who died in the Korean War are engraved in the 'Corridor of Honor'.",
+        "The 'Statue of Brothers' depicts two brothers meeting on the battlefield as enemies, a true story.",
+        "The museum offers free admission to the public to promote national history and education.",
+        "It features a special room dedicated to Admiral Yi Sun-shin and the Turtle Ships.",
+        "The memorial was officially opened on June 10, 1994."
+      ]
+    },
+    {
+      "id": "haedong-yonggungsa-temple-history-v2",
+      "descriptionAdvanced": "Haedong Yonggungsa is a rare and stunning Buddhist temple located on the coast of Busan, offering a unique departure from the typical mountain-based monasteries of Korea. Originally built in 1376 by the great monk Naong during the Goryeo Dynasty, the temple was dedicated to the Sea-Gwaneum (Goddess of Mercy). Its position on the rocky shoreline allows visitors to experience the profound spiritual connection between the sound of the ocean waves and Buddhist chanting. Although the original structures were destroyed during the Japanese invasions in the 1590s, the temple was meticulously rebuilt starting in the 1930s. Today, it is famous for its 108-step staircase, its large zodiac statues, and its motto: 'At least one of your wishes will be answered through sincere prayers here.' As one of the few temples in Korea to directly face the sea, it remains a powerful symbol of maritime spirituality and natural beauty.",
+      "factsAdvanced": [
+        "Haedong Yonggungsa is one of the few Buddhist temples in South Korea built on the coast.",
+        "The temple was founded in 1376 by Naong, the teacher of King Gongmin of Goryeo.",
+        "The 108 steps represent the 108 worldly desires in Buddhist philosophy.",
+        "A large golden statue of Haesu Gwaneum Daebul (Sea Goddess of Mercy) stands on the rocks.",
+        "It is one of the most popular spots in Korea to witness the first sunrise of the New Year.",
+        "The temple complex includes a shrine dedicated to the Dragon King of the sea.",
+        "The bridge leading to the main hall is known as the 'Half-Moon Bridge'.",
+        "It is famous for its beautiful cherry blossoms in April and lotus lanterns on Buddha's birthday."
+      ]
+    },
+    {
+      "id": "seodaemun-prison-history-v2",
+      "descriptionAdvanced": "Seodaemun Prison History Hall is a somber and powerful memorial to Korea's struggle for independence and its journey toward democracy. Built in 1908 by the Japanese colonial government, the prison was used to incarcerate, torture, and execute thousands of Korean independence activists during the early 20th century. Key figures of the resistance, such as Ryu Gwan-sun and An Chang-ho, were held within its red-brick walls. After the colonial era, the prison continued to be used to hold political dissidents during South Korea's periods of authoritarian rule. Today, the site has been preserved as a museum, with its original cell blocks, interrogation rooms, and execution house serving as a stark reminder of the sacrifices made for national sovereignty. It stands as a sacred site of remembrance, educating visitors about the dark history of imperialism and the unyielding spirit of the Korean independence movement.",
+      "factsAdvanced": [
+        "Seodaemun Prison was established in 1908 and was originally called Gyeongseong Prison.",
+        "Ryu Gwan-sun, a young symbol of the independence movement, died here after torture in 1920.",
+        "The prison was the largest of its kind in Korea during the Japanese colonial period.",
+        "The site was designated as a National Historic Site in 1988 and opened as a museum in 1998.",
+        "The original red-brick architecture is an example of early 20th-century Western-style prison design.",
+        "Visitors can see the narrow, lightless 'solitary cells' used to break the spirit of activists.",
+        "The Execution House and the secret tunnel used to carry out bodies remain on the site.",
+        "The museum holds an annual 'Independence Democracy Festival' to honor the activists."
+      ]
+    },
+    {
+      "id": "independence-hall-korea-history-v2",
+      "descriptionAdvanced": "The Independence Hall of Korea, located in Cheonan, is the premier national museum dedicated to documenting and honoring the history of the Korean people's resistance against foreign invasion and the quest for national sovereignty. Established in 1987, the massive complex covers over 4 million square meters and features seven large exhibition halls that tell the story of Korea from the prehistoric era to the end of the Japanese colonial period. The 'Grand House of the Nation,' modeled after a traditional palace roof, is the central landmark and a symbol of national spirit. Through lifelike dioramas, historical artifacts, and interactive displays, the Independence Hall serves as a vital educational center that instills a sense of pride and historical awareness. It is not only a museum but a sacred park where the collective memory of the independence movement is preserved for future generations.",
+      "factsAdvanced": [
+        "Independence Hall was funded entirely by public donations from the Korean people.",
+        "The 'Grand House of the Nation' is one of the largest traditional-style buildings in the world.",
+        "The complex features the 'Monument to the Nation,' a 51-meter tall sculpture of wings.",
+        "It houses over 90,000 historical items related to the independence movement.",
+        "The seven exhibition halls cover themes like 'National Heritage' and 'Trial of the Nation'.",
+        "The hall was officially opened on August 15, 1987, the 42nd anniversary of liberation.",
+        "It includes a massive outdoor space called the 'Garden of the Unified Nation'.",
+        "The museum is a major destination for school trips and patriotic education."
+      ]
+    },
+    {
+      "id": "mireuksa-temple-site-history-v2",
+      "descriptionAdvanced": "The Mireuksa Temple Site in Iksan is one of the most important archaeological treasures of the Baekje Kingdom, representing the pinnacle of East Asian Buddhist architecture. Established during the reign of King Mu in the early 7th century, Mireuksa was the largest temple in Baekje and a symbol of the kingdom's religious and political ambitions. The site is most famous for the Mireuksa Stone Pagoda, which is the oldest and largest stone pagoda remaining in Korea. This pagoda is a revolutionary structure that reflects the transition from wooden to stone masonry, meticulously mimicking the style of wooden buildings. Recent excavations led to the discovery of a spectacular sarira reliquary, providing definitive evidence of the temple's founding date and royal patronage. As a UNESCO World Heritage site, Mireuksa offers profound insights into the sophisticated artistry and spiritual depth of the Baekje people.",
+      "factsAdvanced": [
+        "Mireuksa was the largest temple in the Baekje Kingdom and featured three massive pagodas.",
+        "The Mireuksa Stone Pagoda was National Treasure No. 11 and underwent a 20-year restoration.",
+        "Excavations in 2009 revealed a gold plate proving the temple was commissioned by the queen in 639 AD.",
+        "The site is part of the 'Baekje Historic Areas' UNESCO World Heritage designation.",
+        "A second massive stone pagoda was reconstructed in the 1990s based on historical records.",
+        "The temple was uniquely designed with three parallel sections, each with its own pagoda and hall.",
+        "Mireuksa is located in Iksan, which served as a secondary capital for the late Baekje era.",
+        "The pagoda is considered a 'textbook' of ancient East Asian stone engineering."
+      ]
+    },
+    {
+      "id": "royal-tombs-joseon-dynasty-history-v2",
+      "descriptionAdvanced": "The Royal Tombs of the Joseon Dynasty are a collection of 40 tombs scattered across Gyeonggi Province and Seoul, serving as the final resting places for the kings and queens of Korea's last dynasty. Established over five centuries (1392-1910), these tombs are celebrated for their exceptional preservation and their harmonious integration with the surrounding natural landscape. Each tomb complex follows a standardized layout based on Confucian and Pungsu-jiri (geomancy) principles, featuring a sacred gate, a T-shaped wooden shrine for ancestral rites, and a grassy burial mound surrounded by stone statues of guardians and scholars. These sites are not merely cemeteries but sacred ritual spaces where ancestral ceremonies are still performed today. As a UNESCO World Heritage site, the Royal Tombs represent a unique tradition of funerary architecture and ancestral worship that has remained virtually intact for over half a millennium.",
+      "factsAdvanced": [
+        "The Joseon Royal Tombs were designated as a UNESCO World Heritage site in 2009.",
+        "There are 40 tombs in South Korea, and 2 tombs of the same dynasty are located in North Korea.",
+        "The tombs follow strict Confucian protocols for ancestral worship, which continue to this day.",
+        "Donggu-reung in Guri is the largest cluster, containing nine royal tombs.",
+        "Stone figures of civil and military officials stand guard in front of the burial mounds.",
+        "The T-shaped wooden shrine (Jeongjagak) is where the annual memorial rites take place.",
+        "The tombs were strategically placed to have a mountain behind and a stream in front.",
+        "Geonwolleung, the tomb of the founder King Taejo, is covered in reeds brought from his hometown."
+      ]
+    },
+    {
+      "id": "naganeupseong-folk-village-history-v2",
+      "descriptionAdvanced": "Naganeupseong Folk Village is a remarkably well-preserved walled town from the Joseon Dynasty, located in Suncheon, South Jeolla Province. Built in 1397 to defend against coastal pirates, the village is unique because it is not a museum but a living community where nearly 300 residents still live in traditional thatched-roof houses (Chogajib). The town's stone wall, stretching for 1.4 kilometers, encloses a world that looks exactly as it did hundreds of years ago, featuring original administrative buildings, guesthouses, and a communal well. The village represents the social structure of the era, where the military and administrative functions of an 'Eupseong' (fortress town) coexisted with the daily lives of commoners. Visitors can walk along the fortress walls for a panoramic view of the round, mushroom-like roofs, offering an authentic glimpse into Korea's pre-modern rural history and communal lifestyle.",
+      "factsAdvanced": [
+        "Naganeupseong is the only walled town in Korea where people still reside in original thatched houses.",
+        "The fortress wall was originally built of earth in 1397 and rebuilt with stone in the 17th century.",
+        "The village contains over 100 households and 280 traditional straw-roofed rooms.",
+        "It is a frequent filming location for Korean historical movies and dramas like 'Dae Jang Geum'.",
+        "The residents re-thatch their roofs every year using fresh rice straw after the harvest.",
+        "The Nangmin-nu Pavilion was the office where the local magistrate handled civil affairs.",
+        "The village was added to the UNESCO World Heritage Tentative List in 2011.",
+        "Naganeupseong has survived wars and modernization projects due to its remote and strategic location."
+      ]
+    },
+    {
+      "id": "cheomseongdae-observatory-history-v2",
+      "descriptionAdvanced": "Cheomseongdae is a small but globally significant monument in Gyeongju, recognized as the oldest surviving astronomical observatory in East Asia. Built in the 7th century during the reign of Queen Seondeok of the Silla Kingdom, this elegant bottle-shaped structure was used to observe the stars to forecast the weather and determine the best times for agricultural activities. The observatory is a marvel of mathematical and symbolic design: it consists of 362 stone blocks, representing the days of a lunar year, and has 27 layers of stone, possibly honoring Queen Seondeok as the 27th monarch. Its design has allowed it to withstand countless earthquakes and invasions over the past 1,300 years. As a National Treasure and a key part of the Gyeongju Historic Areas UNESCO site, Cheomseongdae stands as a testament to the advanced scientific knowledge and architectural prowess of the ancient Silla people.",
+      "factsAdvanced": [
+        "Cheomseongdae was built during the reign of Queen Seondeok (632-647 AD), Korea's first reigning queen.",
+        "It is the oldest surviving astronomical observatory in East Asia and possibly the world.",
+        "The structure's name means 'Star-Gazing Tower'.",
+        "It is 9.17 meters tall and consists of 362 stones, corresponding to the number of days in a lunar year.",
+        "There are 12 stone layers below the window and 12 above, representing the months of the year.",
+        "The square base represents the earth, and the round body represents the sky.",
+        "Cheomseongdae has survived over 1,300 years in its original form without collapse.",
+        "It is National Treasure No. 31 of South Korea."
+      ]
+    },
+    {
+      "id": "turtle-ship-replica-history-v2",
+      "descriptionAdvanced": "The Geobukseon, or Turtle Ship, is perhaps the most famous naval vessel in Korean history, representing the military genius of Admiral Yi Sun-shin and the technological innovation of the Joseon Dynasty. Originally developed in the late 16th century to counter the Japanese invasions (Imjin War), the ship featured a protective roof covered in iron spikes to prevent boarding and a dragon-shaped head that emitted toxic smoke. Its design was revolutionary, combining the speed of a galley with the defensive armor of a fortress. Although no original turtle ships survive today, highly accurate replicas found in places like Tongyeong, Yeosu, and the War Memorial of Korea allow visitors to explore their unique internal structure and weaponry. The Turtle Ship remains a powerful national icon of resilience, ingenuity, and the naval dominance that saved Korea from total occupation.",
+      "factsAdvanced": [
+        "The first modern Turtle Ship was built in 1592, just before the start of the Imjin War.",
+        "The dragon head on the bow was used to fire cannons and emit sulfurous smoke as a screen.",
+        "The ship's roof was covered with iron plates and sharp spikes to stop enemy sailors from boarding.",
+        "Turtle Ships were primarily used as 'assault vessels' to charge into the center of the enemy fleet.",
+        "Admiral Yi Sun-shin is credited with perfecting the design and tactics of the ship.",
+        "The ship was powered by both sails and oars, making it highly maneuverable in narrow channels.",
+        "A full-scale replica is moored at the Yi Sun-shin Plaza in Yeosu.",
+        "The ship's internal deck was divided into two levels to separate the oarsmen and the soldiers."
+      ]
+    },
+    {
+      "id": "battle-of-myeongnyang-site-history-v2",
+      "descriptionAdvanced": "The Myeongnyang Strait, located between Jindo Island and the mainland in South Jeolla Province, is the site of one of the most miraculous naval victories in world history. In 1597, during the Imjin War, Admiral Yi Sun-shin led a fleet of just 13 ships to defeat a massive Japanese force of over 300 vessels. Yi utilized the unique 'Ul-dol-mok' (roaring water) whirlpools and the treacherous currents of the narrow strait to trap and devastate the enemy fleet. This victory, achieved when Korea's naval power was at its lowest, turned the tide of the war and saved the nation from imminent collapse. Today, the site is commemorated by the Uldolmok Skywalk and the Battle of Myeongnyang Memorial Park, where visitors can witness the powerful, turbulent waters that played a decisive role in this legendary conflict. It remains a site of immense national pride and a study in military strategy and leadership.",
+      "factsAdvanced": [
+        "Admiral Yi Sun-shin defeated 333 Japanese ships with only 13 Korean Panokseon ships.",
+        "The strait's name 'Uldolmok' means 'the water that makes a crying sound' due to its speed.",
+        "The current in the Myeongnyang Strait can reach speeds of up to 24 kilometers per hour.",
+        "Yi's famous quote before the battle was: 'Those who seek death shall live; those who seek life shall die.'",
+        "The battle is the subject of the 2014 movie 'The Admiral: Roaring Currents,' the highest-grossing film in Korea.",
+        "A 30-meter high statue of Admiral Yi Sun-shin stands at the Jindo-side of the bridge.",
+        "The site features an underwater sonar exhibit that allows visitors to hear the 'roaring' currents.",
+        "The victory at Myeongnyang prevented the Japanese from reaching the Han River via the West Sea."
+      ]
+    },
+    {
+      "id": "goryeo-celadon-museum-history-v2",
+      "descriptionAdvanced": "The Goryeo Celadon Museum in Gangjin is a dedicated center for the study and preservation of Korea's most refined ceramic heritage: the pale-green celadon of the Goryeo Dynasty. Gangjin was the premier site for celadon production for over 500 years, housing the majority of the nation's kilns due to its high-quality clay and abundant wood for fuel. Goryeo celadon is world-renowned for its 'Sanggam' (inlay) technique and its unique 'Jade' color, which was highly prized by Chinese emperors and aristocrats. The museum is located in the heart of a massive kiln site complex where visitors can see the remains of ancient ovens and participate in pottery-making workshops. It serves as a vital cultural hub that bridges the gap between the artistic splendor of the Goryeo era and modern ceramic art, ensuring that the 'mysterious' techniques of the past are passed down to future generations.",
+      "factsAdvanced": [
+        "Gangjin was home to 188 of the 400 total Goryeo celadon kilns found in South Korea.",
+        "The museum is the only one in the world dedicated entirely to Goryeo celadon.",
+        "Goryeo celadon is famous for its unique bluish-green color, often described as 'the color of the sky after rain'.",
+        "The 'Sanggam' inlay technique is a uniquely Korean invention in ceramic history.",
+        "The museum site is a National Historic Site and part of the UNESCO Tentative List.",
+        "Every year, the Gangjin Celadon Festival is held on the museum grounds.",
+        "Pieces produced in Gangjin were historically exported throughout East Asia via the nearby port.",
+        "Visitors can see National Treasure-level artifacts and the original kilns from the 10th-14th centuries."
+      ]
+    },
+    {
+      "id": "hansan-island-history-v2",
+      "descriptionAdvanced": "Hansando is a historically sacred island in the Hallyeosudo Marine National Park, famously known as the site of the Battle of Hansando, one of the three great land and sea victories of the Imjin War. In 1592, Admiral Yi Sun-shin used the 'Crane-Wing Formation' (Hak-ik-jin) here to surround and annihilate a massive Japanese fleet, effectively cutting off their supply lines to the north. After the victory, Yi moved his naval headquarters to Hansando, where he stayed for over three years. The island is home to the Jeseungdang Shrine, where the Admiral formulated his brilliant strategies and wrote his famous war diaries (Nanjung Ilgi). Visitors to the island can see the Suru Pavilion, where Yi composed his most famous poems, and the ancient naval shooting range. Hansando is not just a scenic retreat but a monument to the strategic brilliance and patriotic devotion that saved Korea from total conquest.",
+      "factsAdvanced": [
+        "The Battle of Hansando (1592) is considered one of the four most important naval battles in world history.",
+        "Jeseungdang was the first naval headquarters of the Three Provinces established by Admiral Yi.",
+        "The island is reachable by a 25-minute ferry ride from Tongyeong Port.",
+        "The Suru Pavilion offers a commanding view of the strait where the battle took place.",
+        "Admiral Yi's 'Nanjung Ilgi' (War Diary) was designated as a UNESCO Memory of the World.",
+        "The island features the Hansan-dae-cheop (Great Victory) monument.",
+        "The navy's archery range on the island is the only one in the world where arrows are shot across the sea.",
+        "The island is part of the scenic Hallyeosudo Marine National Park."
+      ]
+    },
+    {
+      "id": "gyeongbokgung-palace-landmarks-v2",
+      "descriptionAdvanced": "Gyeongbokgung Palace is the grandest landmark of the Joseon Dynasty and the cultural heart of Seoul. Established in 1395, it was the first and largest palace built by the new dynasty, designed to be the epicenter of royal power and Confucian governance. Its architecture is characterized by a majestic scale and a harmonious integration with the surrounding mountains, primarily Bugaksan. The Gwanghwamun Gate, with its three stone arches and double-roofed pavilion, serves as the monumental entrance to this royal world. Inside, the Geonjeongjeon Throne Hall stands as a symbol of royal authority, while the Gyeonghoeru Pavilion appears to float on a vast artificial pond, providing a space for royal banquets. Despite being destroyed during the Japanese invasions and the colonial era, the palace has been painstakingly restored, making it the premier destination for anyone seeking to experience the regal elegance and historical depth of Korea.",
+      "factsAdvanced": [
+        "Gyeongbokgung is the largest of the five grand palaces in Seoul, covering over 40 hectares.",
+        "The name 'Gyeongbok' means 'Greatly Blessed' or 'Prosperous'.",
+        "The palace was the seat of government from its founding until 1592 and again from 1867 to 1910.",
+        "The Insa-dong and Bukchon areas nearby were once the residential quarters for Joseon officials.",
+        "The Hyangwonjeong Pavilion is a hexagonal structure on a small island, known for its romantic beauty.",
+        "Gyeongbokgung is a major center for cultural preservation, hosting the National Folk Museum.",
+        "The changing of the guard ceremony at Gwanghwamun is the most popular tourist reenactment in Korea.",
+        "Night tours of the palace offer a spectacular view of the illuminated traditional architecture."
+      ]
+    },
+    {
+      "id": "n-seoul-tower-landmarks-v2",
+      "descriptionAdvanced": "The N Seoul Tower, perched atop Namsan Mountain in the center of the capital, is the most recognizable modern landmark of Seoul. Standing at a total height of 480 meters above sea level, the tower offers unparalleled 360-degree panoramic views of the entire Seoul Metropolitan Area. Built in 1969 as a radio and television transmitter, it opened to the public in 1980 and has since become a beloved symbol of urban romance and modern culture. The tower is famous for its 'Locks of Love' terrace, where thousands of couples attach colorful padlocks to signify their devotion. At night, the tower is illuminated with digital art shows and colors that often reflect the city's air quality. With its rotating restaurant, themed museums, and scenic cable car access, N Seoul Tower is an essential destination that captures the vibrant, high-tech, and romantic spirit of contemporary Korea.",
+      "factsAdvanced": [
+        "The N Seoul Tower is the second-highest point in Seoul after the Lotte World Tower.",
+        "The tower's height is 236 meters, but its location on Namsan mountain adds another 243 meters of elevation.",
+        "The digital art illumination on the tower can be seen from almost anywhere in central Seoul.",
+        "The tower uses different colors to indicate air quality: Blue is for good, Green for average, and Red for poor.",
+        "The 'N Grill' rotating restaurant completes one full rotation every 48 minutes.",
+        "Over 1.5 million 'love locks' have been attached to the fences at the base of the tower.",
+        "The Namsan Cable Car, built in 1962, was the first passenger cable car in Korea.",
+        "The tower is surrounded by Namsan Park, a major green space in the city center."
+      ]
+    },
+    {
+      "id": "bukchon-hanok-village-landmarks-v2",
+      "descriptionAdvanced": "Bukchon Hanok Village is a picturesque and historic residential district in Seoul, located on a hill between Gyeongbokgung and Changdeokgung palaces. It is one of the few places in the capital where hundreds of 'hanok' (traditional Korean houses) have been preserved in their original urban setting. Historically, Bukchon was the neighborhood of high-ranking government officials and nobility during the Joseon Dynasty. Today, the village is a vibrant cultural hub where traditional architecture meets contemporary creativity. Its narrow, winding alleys offer stunning views of the curved tile roofs contrasting with the modern skyscrapers of the Seoul skyline. Many of these historic homes have been converted into tea houses, guesthouses, art galleries, and workshops, allowing visitors to experience the refined aesthetics and quiet elegance of traditional Korean living in the heart of a modern megalopolis.",
+      "factsAdvanced": [
+        "Bukchon means 'Northern Village' because it is located north of the Cheonggyecheon stream.",
+        "The village contains approximately 900 traditional hanok houses.",
+        "Many of the hanoks date back over 600 years to the early Joseon Dynasty.",
+        "The '8 Views of Bukchon' are designated photo spots that offer the best perspectives of the village.",
+        "Bukchon is a real residential neighborhood, so visitors are asked to respect the 'Slow and Quiet' policy.",
+        "The village is famous for the 'Ondol' underfloor heating system, a unique feature of Korean architecture.",
+        "It is a popular location for filming historical dramas and modern romantic comedies.",
+        "The Bukchon Cultural Center offers hands-on experiences in traditional crafts and tea ceremonies."
+      ]
+    },
+    {
+      "id": "dmz-korea-landmarks-v2",
+      "descriptionAdvanced": "The Korean Demilitarized Zone (DMZ) is a 250-kilometer-long buffer zone that has separated North and South Korea since the end of the Korean War in 1953. Far from being just a military border, the DMZ has become a globally recognized landmark of the Cold War and a unique ecological sanctuary. As a place of intense historical gravity, it features landmarks such as the Third Infiltration Tunnel, discovered in 1978, and the Dora Observatory, which allows visitors to look directly into North Korean territory. Ironically, the absence of human interference for over 70 years has turned the DMZ into a haven for rare wildlife, including endangered cranes and mountain goats. A visit to the DMZ is a sobering and educational experience that highlights the tragic division of the peninsula while serving as a powerful symbol of the longing for peace and eventual reunification.",
+      "factsAdvanced": [
+        "The DMZ is 4 kilometers wide (2km on each side of the Military Demarcation Line).",
+        "It is the most heavily fortified border in the world.",
+        "The Third Tunnel is 1,635 meters long and was designed for a surprise attack on Seoul.",
+        "Dorasan Station is the northernmost stop on the South Korean rail line, symbolizing the hope for a Trans-Siberian link.",
+        "The DMZ is home to over 5,000 species, including 100 that are protected or endangered.",
+        "The Joint Security Area (JSA) in Panmunjom is the only place where the two sides meet.",
+        "Tours to the DMZ are strictly controlled and require a passport for all visitors.",
+        "The Imjingak Park near the entrance features the 'Freedom Bridge' and monuments to war refugees."
+      ]
+    },
+    {
+      "id": "haedong-yonggungsa-temple-landmarks-v2",
+      "descriptionAdvanced": "Haedong Yonggungsa is an exceptionally beautiful and rare Buddhist temple situated on the rugged coastline of Busan. While most Korean temples are hidden deep in the mountains, Haedong Yonggungsa offers a dramatic maritime setting where pagodas and shrines are built directly on the cliffs overlooking the East Sea. Originally founded in 1376, the temple is dedicated to the Goddess of Mercy (Gwaneum), who is believed to reside in the ocean. The approach to the temple is marked by 108 stone steps that represent the 108 worldly desires, leading down to a bridge with spectacular views of the crashing waves. The complex features a massive golden Buddha statue and intricate stone carvings of the twelve zodiac animals. Known as the 'most beautiful temple in Korea' due to its unique location, it is a spiritual haven that blends the tranquility of Zen Buddhism with the raw power of the Pacific Ocean.",
+      "factsAdvanced": [
+        "Haedong Yonggungsa is one of the few seaside Buddhist temples in South Korea.",
+        "The temple's motto is 'At least one of your wishes will come true if you pray here'.",
+        "The statue of Haesu Gwaneum Daebul stands 10 meters tall and faces the sea.",
+        "The temple is a premier spot for viewing the first sunrise of the year in Busan.",
+        "It was rebuilt in the 20th century after being destroyed during the Imjin War.",
+        "The 12 zodiac stone statues at the entrance are meant to protect the temple's visitors.",
+        "The temple features a unique underground sanctuary and a shrine to the Sea Dragon King.",
+        "During Buddha's birthday in May, the temple is decorated with thousands of colorful lanterns."
+      ]
+    }
+  ]
+}

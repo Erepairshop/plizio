@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "volta-lake-nature-v2",
+      "descriptionAdvanced": "Der Volta-See ist mit einer unglaublichen Oberfläche von 8.502 Quadratkilometern der flächenmäßig größte künstliche Stausee der Welt. Entstanden durch den Bau des Akosombo-Staudamms in den 1960er Jahren, verschlang er unzählige Dörfer und veränderte die Geografie Ghanas massiv. Heute ist er nicht nur ein gigantisches Reservoir für die Stromerzeugung, sondern auch ein lebenswichtiger Transportweg für Schiffe und die Heimat Tausender Fischer, die den See auf der Suche nach Tilapia und Wels durchkämmen. Geografie K7 — künstliche Gewässer.",
+      "factsAdvanced": ["Flächenmäßig größter künstlicher Stausee der Welt", "8.502 Quadratkilometer Oberfläche", "Entstanden in den 1960er Jahren durch Akosombo-Damm", "Veränderte die Geografie Ghanas massiv", "Lebenswichtiger Transportweg für Binnenschiffe", "Heimat tausender Fischer (Tilapia, Wels)"]
+    },
+    {
+      "id": "kakum-forest-nature-v2",
+      "descriptionAdvanced": "Der Kakum-Nationalpark in der Central Region ist eines der am besten zugänglichen Regenwaldreservate in Westafrika und schützt ein riesiges Stück primären Dschungel. Das dichte Kronendach des Waldes beherbergt über 250 verschiedene Vogelarten, darunter extrem seltene Hornvögel, sowie Waldelefanten und Colobus-Affen. Der Wald ist berühmt für seinen Canopy Walkway, aber für Forscher ist er vor allem als grüne Lunge wichtig, die das Mikroklima der umliegenden Küstenebene stabilisiert. Biologie K8 — Regenwald-Ökosysteme.",
+      "factsAdvanced": ["Am besten zugängliches Regenwaldreservat Westafrikas", "Schützt primären Dschungel in der Central Region", "Beherbergt über 250 Vogelarten", "Heimat von Waldelefanten und Colobus-Affen", "Stabilisiert das Mikroklima der Küste", "Wirkt als grüne Lunge"]
+    },
+    {
+      "id": "mole-forest-nature-v2",
+      "descriptionAdvanced": "Der Mole-Nationalpark ist das größte Wildtierreservat Ghanas und liegt in der trockenen Savannenlandschaft der Northern Region. Anstatt von dichtem Dschungel ist die Natur hier geprägt von hoch gewachsenem Elefantengras, knorrigen Baobab-Bäumen und Galeriewäldern entlang der Flüsse Lowi und Mole. Diese weite, offene Landschaft ist perfekt an lange Trockenperioden angepasst und bietet Lebensraum für über 90 Säugetierarten, darunter große Herden von afrikanischen Savannenelefanten, Rotschweinen und scheuen Leoparden. Umwelt K7 — Savannen-Habitate.",
+      "factsAdvanced": ["Größtes Wildtierreservat in Ghana", "Liegt in der nördlichen Savannenlandschaft", "Geprägt von Elefantengras und Baobab-Bäumen", "Perfekt an Trockenperioden angepasst", "Lebensraum für Savannenelefanten und Leoparden", "Galeriewälder entlang der Flüsse Mole und Lowi"]
+    },
+    {
+      "id": "wli-waterfalls-nature-v2",
+      "descriptionAdvanced": "Die majestätischen Wli-Wasserfälle (lokal Agumatsa-Wasserfälle genannt) in der Volta-Region nahe der togolesischen Grenze sind die höchsten Wasserfälle Westafrikas. Aus einer schwindelerregenden Höhe von rund 80 Metern stürzt das Wasser über steile, moosbedeckte Klippen in ein kühles Becken. Die steilen, dicht bewaldeten Schluchten rund um den Wasserfall beherbergen riesige Kolonien von Tausenden Flughunden (Fruchtfledermäusen), die bei Dämmerung in gewaltigen Schwärmen den Himmel verdunkeln. Geografie K6 — Wasserfälle und Erosion.",
+      "factsAdvanced": ["Höchste Wasserfälle Westafrikas (ca. 80m)", "Auch Agumatsa-Wasserfälle genannt", "Liegt in der Volta-Region nahe Togo", "Steile, dicht bewaldete Schluchten", "Heimat riesiger Flughund-Kolonien", "Wasser stürzt über moosbedeckte Klippen"]
+    },
+    {
+      "id": "bui-national-forest-nature-v2",
+      "descriptionAdvanced": "Der Bui-Nationalpark im Westen Ghanas ist bekannt für seine dramatische Flusslandschaft, durch die sich der Black Volta schneidet. Der Park wurde ursprünglich gegründet, um eine der größten Flusspferd-Populationen Ghanas zu schützen, die in den ruhigen Seitenarmen des Flusses lebt. Der Bau des jüngsten Bui-Staudamms im Jahr 2013 hat jedoch Teile des Parks überflutet, was Biologen dazu zwang, massenhaft Tiere umzusiedeln, und eine ständige Diskussion über den Preis der modernen Energiegewinnung auslöste. Biologie K8 — Konflikt zwischen Natur und Technik.",
+      "factsAdvanced": ["Bekannt für Flusspferd-Populationen", "Dramatische Flusslandschaft am Black Volta", "Gegründet zum Schutz bedrohter Arten", "Teilweise überflutet durch Bui-Staudamm (2013)", "Tiere mussten massenhaft umgesiedelt werden", "Zentrum der Debatte Natur vs. Energie"]
+    },
+    {
+      "id": "digya-forest-nature-v2",
+      "descriptionAdvanced": "Der Digya-Nationalpark, gelegen auf einer Halbinsel am westlichen Ufer des Volta-Sees, ist das älteste Schutzgebiet Ghanas, ausgewiesen im Jahr 1900. Er ist ein seltenes Übergangsökosystem, in dem dichter, feuchter Laubwald nahtlos in trockene Guinea-Savanne übergeht. Aufgrund seiner schweren Zugänglichkeit (oft nur per Boot über den See erreichbar) bleibt der Park ein fast unberührtes Refugium für Seekühe (Manatis) in den seichten Ufergewässern und Leoparden im tiefen Hinterland. Umwelt K7 — Übergangsökosysteme.",
+      "factsAdvanced": ["Ältestes Schutzgebiet Ghanas (1900 ausgewiesen)", "Liegt auf einer Halbinsel im Volta-See", "Seltener Übergang von Wald zu Savanne", "Extrem schwer zugänglich (oft nur per Boot)", "Heimat seltener afrikanischer Seekühe (Manatis)", "Rückzugsort für scheue Leoparden"]
+    },
+    {
+      "id": "kyabobo-forest-nature-v2",
+      "descriptionAdvanced": "Der Kyabobo-Nationalpark liegt extrem abgelegen an der Grenze zu Togo und ist berühmt für seine dramatischen, zerklüfteten Berglandschaften. Die Natur hier wird dominiert von schroffen Felsen, steilen Wasserfällen und einer rauen Savannenvegetation, die sich an die Berghänge klammert. Dieser fast unberührt Park ist eines der letzten Rückzugsgebiete für wilde Löwen, afrikanische Wildhunde und Buschböcke in Ghana, was ihn zu einem wichtigen, aber wenig besuchten Brennpunkt für Naturschützer macht. Geografie K8 — Bergökologie.",
+      "factsAdvanced": ["Extrem abgelegener Park an Grenze zu Togo", "Dramatische, zerklüftete Berglandschaften", "Schroffe Felsen und steile Wasserfälle", "Eines der letzten Rückzugsgebiete für wilde Löwen", "Rückzugsort afrikanischer Wildhunde", "Wenig besuchter Brennpunkt für Naturschützer"]
+    },
+    {
+      "id": "ankasa-forest-nature-v2",
+      "descriptionAdvanced": "Das Ankasa Conservation Area im Südwesten ist der einzige vollständig intakte primäre, feuchte immergrüne Regenwald Ghanas. Mit einer jährlichen Niederschlagsmenge, die in Ghana ihresgleichen sucht, ist der Wald so feucht, dass der Boden oft komplett von dicken Moos- und Farnschichten bedeckt ist. Hier wachsen einige der höchsten und ältesten Bäume Westafrikas (Mahagoni und Makore), und die extrem dichte Vegetation macht Ankasa zu einem der artenreichsten botanischen Hotspots des afrikanischen Kontinents. Biologie K8 — Primärwälder.",
+      "factsAdvanced": ["Einziger intakter primärer, immergrüner Regenwald Ghanas", "Extrem hohe jährliche Niederschlagsmengen", "Boden von dicken Moos- und Farnschichten bedeckt", "Bäume wie Mahagoni und Makore heimisch", "Liegt im Südwesten Ghanas", "Einer der artenreichsten Hotspots Afrikas"]
+    },
+    {
+      "id": "nini-suhien-forest-nature-v2",
+      "descriptionAdvanced": "Der Nini-Suhien-Nationalpark bildet zusammen mit dem Ankasa-Waldreservat eine riesige grüne Schutzfläche. Die Natur ist hier extrem wild, durchzogen von kristallklaren, ungezähmten Bächen und winzigen Wasserfällen, die durch das dichte Unterholz rauschen. Die nahezu konstante Dunkelheit am Waldboden zwingt die Pflanzen zu massiven Wachstumsschüben Richtung Sonne, während sich an den gigantischen Baumstämmen Epiphyten (Aufsitzerpflanzen) ansiedeln, die einen großen Teil der Tierwelt des Dschungels ernähren. Umwelt K6 — Tropische Waldstrukturen.",
+      "factsAdvanced": ["Bildet Schutzfläche mit dem Ankasa-Reservat", "Durchzogen von ungezähmten Bächen und Wasserfällen", "Nahezu konstante Dunkelheit am Waldboden", "Gigantische Baumstämme voller Epiphyten (Aufsitzerpflanzen)", "Extrem wildes, unberührtes Ökosystem", "Pflanzen wachsen massiv Richtung Sonne"]
+    },
+    {
+      "id": "bia-forest-nature-v2",
+      "descriptionAdvanced": "Der Bia-Nationalpark, nahe der ivorischen Grenze, ist ein internationales Biosphärenreservat, das einen kritischen Rest des ursprünglichen westafrikanischen Guineawalds schützt. Die Landschaft zeichnet sich durch extrem hohe, hoch aufragende Bäume aus, die ein dichtes geschlossenes Kronendach bilden. Obwohl der Park in den 1970er Jahren massiv durch Holzfäller bedroht war, konnte er gerettet werden und dient heute als eines der wichtigsten Refugien für vom Aussterben bedrohte Waldelefanten und seltene Schimpansen-Unterarten. Biologie K7 — Biosphärenreservate.",
+      "factsAdvanced": ["Internationales Biosphärenreservat nahe ivorischer Grenze", "Schützt Reste des ursprünglichen Guineawalds", "Bäume bilden extrem dichtes, geschlossenes Kronendach", "In den 1970ern fast durch Holzfäller zerstört", "Heimat vom Aussterben bedrohter Waldelefanten", "Schützt seltene Schimpansen-Unterarten"]
+    },
+    {
+      "id": "shai-hills-mountain-nature-v2",
+      "descriptionAdvanced": "Die Shai Hills erheben sich dramatisch als massive, inselartige Gesteinsformationen (Inselberge) aus der völlig flachen Küstenebene in der Nähe von Accra. Diese Granithügel, die Millionen Jahre alt sind, formen eine spektakuläre geologische Landschaft, die stark mit der umliegenden flachen Savanne kontrastiert. Die tiefen Höhlen und rauen Klippen dieser Berge bieten natürlichen Schutz für große Paviankolonien und hunderte von Fledermäusen, die in den kühlen Spalten nisten. Geografie K6 — Geologie von Inselbergen.",
+      "factsAdvanced": ["Inselartige Gesteinsformationen (Inselberge)", "Millionen Jahre alte Granithügel", "Erheben sich massiv aus flacher Küstenebene", "Kontrast zur umliegenden Savanne", "Höhlen bieten Schutz für Paviankolonien", "Heimat hunderter Fledermäuse"]
+    },
+    {
+      "id": "atiwa-mountain-nature-v2",
+      "descriptionAdvanced": "Die Atiwa-Bergkette in der Eastern Region ist eines der wichtigsten Wassereinzugsgebiete Ghanas, aus dem drei große Flüsse (Densu, Ayensu, Birim) entspringen. Die Berge sind bedeckt von einem seltenen Upland Evergreen Forest (immergrüner Bergwald), der aufgrund der Höhenlage oft in dichten Nebel gehüllt ist. Die einzigartige Flora der Atiwa-Berge ist massiv bedroht, da tief unter den Wurzeln der Bäume riesige, unberührte Bauxitvorkommen lagern, was einen konstanten Kampf zwischen Bergbauinteressen und Umweltschützern befeuert. Umwelt K8 — Wassereinzugsgebiete und Bergbau.",
+      "factsAdvanced": ["Wichtiges Wassereinzugsgebiet (Densu, Ayensu, Birim)", "Liegt in der Eastern Region", "Seltener immergrüner Bergwald", "Oft in dichten Nebel gehüllt", "Flora bedroht durch unberührte Bauxitvorkommen", "Konstanter Konflikt zwischen Bergbau und Naturschutz"]
+    },
+    {
+      "id": "akwapim-mountain-nature-v2",
+      "descriptionAdvanced": "Die Akwapim-Bergkette zieht sich als markanter grüner Rücken vom Osten Accras bis tief ins Landesinnere. Sie fängt die feuchten Meereswinde ab, was dazu führt, dass die Berge deutlich mehr Niederschlag erhalten als die trockene Küstenebene an ihrem Fuß. Diese sanften, bewaldeten Hügel sind berühmt für ihr frisches Mikroklima und beherbergen aufgrund ihrer fruchtbaren Hänge eine reiche Mischung aus natürlichen Waldresten und traditionellen Kakao- und Obstplantagen. Geografie K7 — Gebirgsklima und Niederschlag.",
+      "factsAdvanced": ["Grüner Rücken vom Osten Accras ins Landesinnere", "Fängt feuchte Meereswinde ab", "Berge erhalten mehr Niederschlag als Küste", "Sanfte, bewaldete Hügel mit frischem Mikroklima", "Reiche Mischung aus Naturwald und Plantagen", "Zentrum traditionellen Kakao- und Obstanbaus"]
+    },
+    {
+      "id": "fosu-lake-nature-v2",
+      "descriptionAdvanced": "Der flache Fosu-See in Cape Coast ist eine klassische Küstenlagune, die durch eine schmale Sandbank vom tosenden Atlantik getrennt ist. Die Natur rund um den See ist geprägt von salztoleranten Gräsern und dichter Sumpfvegetation, die als essenzieller Puffer gegen Ozeanfluten dient. Leider ist die natürliche Zirkulation des Sees oft blockiert, was zu massivem Algenwachstum führt; dennoch feiert die lokale Gemeinde hier jeden September das Fetu-Afa-Festival, um den See rituell zu reinigen und den Segen der Wassergötter zu erbitten. Umwelt K6 — Küstenlagunen.",
+      "factsAdvanced": ["Klassische Küstenlagune in Cape Coast", "Durch Sandbank vom Atlantik getrennt", "Geprägt von salztoleranten Gräsern", "Dient als Puffer gegen Ozeanfluten", "Zirkulation oft durch Algenwachstum blockiert", "Rituell gereinigt beim jährlichen Fetu-Afa-Festival"]
+    },
+    {
+      "id": "keta-lake-nature-v2",
+      "descriptionAdvanced": "Die Keta-Lagune, ein riesiges Feuchtgebiet in der Volta-Region, ist die größte Lagune Ghanas und erstreckt sich über Hunderte von Quadratkilometern. Dieses seichte, von Mangroven und Schilf gesäumte Gewässer mischt Süßwasser aus dem Volta-Fluss mit Salzwasser aus dem Ozean und bildet so ein perfektes Brackwasserökosystem. Es ist ein Paradies für unzählige Fischarten und Schalentiere und fungiert als einer der wichtigsten Rastplätze an der afrikanischen Küste für riesige Schwärme von Zugvögeln aus Europa. Biologie K8 — Brackwasserökosysteme.",
+      "factsAdvanced": ["Größte Lagune Ghanas (Volta-Region)", "Riesiges, seichtes Brackwasserökosystem", "Süßwasser des Volta mischt sich mit Salzwasser", "Gesäumt von dichten Mangroven und Schilf", "Paradies für Fischarten und Schalentiere", "Wichtiger afrikanischer Rastplatz für Zugvögel"]
+    },
+    {
+      "id": "white-volta-river-nature-v2",
+      "descriptionAdvanced": "Der Weiße Volta (White Volta), auch Nakambe genannt, ist der wichtigste Quellfluss des gigantischen Volta-Sees. Er entspringt im trockenen Burkina Faso und schlängelt sich durch die karge, nördliche Savanne Ghanas. Seine Natur ist unberechenbar: Während der langen Trockenzeit schrumpft er oft zu einem trägen, flachen Bach zusammen, um sich dann während der kurzen Regenzeit im August in einen reißenden Strom zu verwandeln, der weite Teile der angrenzenden Überflutungsebenen unter Wasser setzt. Geografie K7 — Flussdynamik in der Savanne.",
+      "factsAdvanced": ["Wichtigster Quellfluss des Volta-Sees", "Auch Nakambe genannt", "Entspringt im trockenen Burkina Faso", "Schlängelt sich durch nördliche Savanne Ghanas", "Im Sommer oft nur ein flacher Bach", "Wird bei Regenzeit zum reißenden Strom"]
+    },
+    {
+      "id": "black-volta-river-nature-v2",
+      "descriptionAdvanced": "Der Schwarze Volta (Black Volta) bildet über weite Strecken die natürliche, gewundene Grenze zwischen Ghana, Burkina Faso und der Elfenbeinküste. Im Gegensatz zu seinem hellen Bruder fließt er durch etwas feuchtere, bewaldete Gebiete im Westen, was ihm eine tiefere, dunklere Färbung durch organische Materialien aus dem Wald verleiht. Seine ruhigen Gewässer sind besonders berühmt als einer der letzten großen natürlichen Lebensräume für freilebende Flusspferde in ganz Westafrika, insbesondere rund um das Wechiau-Schutzgebiet. Biologie K6 — natürliche Flussgrenzen.",
+      "factsAdvanced": ["Natürliche Grenze zu Burkina Faso und Elfenbeinküste", "Fließt durch bewaldete Gebiete im Westen", "Dunklere Färbung durch organisches Material", "Einer der letzten großen Lebensräume für Flusspferde", "Bekannt für das Wechiau-Schutzgebiet", "Ruhiges, wildes Gewässer"]
+    },
+    {
+      "id": "pra-river-nature-v2",
+      "descriptionAdvanced": "Der Pra-Fluss ist einer der längsten Flüsse im stark bewaldeten Süden Ghanas und fließt unerbittlich aus der Kwahu-Hochebene bis in den Golf von Guinea. In seiner natürlichen Form ist er ein majestätischer, klarer Strom, der einst für den Transport riesiger Mahagoni-Holzstämme zur Küste genutzt wurde. Bedauerlicherweise hat die Natur des Flusses in den letzten zwei Jahrzehnten massiv gelitten, da wilder Goldabbau (Galamsey) das Wasser tiefbraun und giftig gefärbt und viele der natürlichen Fischbestände vernichtet hat. Umwelt K8 — Flussverschmutzung.",
+      "factsAdvanced": ["Fließt von der Kwahu-Hochebene in den Golf von Guinea", "Einer der längsten Flüsse im Süden Ghanas", "Einst Transportweg für riesige Mahagoni-Stämme", "Massiv verschmutzt durch illegalen Goldabbau (Galamsey)", "Wasser tiefbraun und giftig gefärbt", "Natürliche Fischbestände fast vernichtet"]
+    },
+    {
+      "id": "offin-river-nature-v2",
+      "descriptionAdvanced": "Der Offin, ein wichtiger Nebenfluss des Pra, schlängelt sich durch die tiefsten und fruchtbarsten Teile der Ashanti-Region. Historisch gesehen war das Flussbett extrem reich an alluvialem (angeschwemmtem) Gold, was die umliegenden Dschungelgebiete schon vor Jahrhunderten zu Zentren des Ashanti-Reichtums machte. Die dichten Uferwälder des Offin bieten noch heute perfekten Lebensraum für zahlreiche Affenarten und seltene Schmetterlinge, stehen aber in konstantem Konflikt mit der unersättlichen Expansion von Kakaofarmen. Geografie K7 — Flüsse und Goldvorkommen.",
+      "factsAdvanced": ["Wichtiger Nebenfluss des Pra in der Ashanti-Region", "Flussbett war extrem reich an alluvialem Gold", "Machte die Ashanti-Gebiete historisch extrem reich", "Dichte Uferwälder beheimaten zahlreiche Affenarten", "Heimat vieler seltener Schmetterlinge", "In Konflikt mit der Expansion von Kakaofarmen"]
+    },
+    {
+      "id": "ankobra-river-nature-v2",
+      "descriptionAdvanced": "Der Ankobra-Fluss windet sich malerisch durch die extrem feuchte Western Region und mündet nahe Axim in den Ozean. Da er fast ausschließlich durch dichtes, immergrünes Dschungelgebiet fließt, hat er in seinem Unterlauf ein komplexes, weit verzweigtes Gezeiten-Ästuar ausgebildet. Die Ufer sind von tief verwurzelten Sumpfpflanzen und Mangroven gesäumt, die Schlammspringer und eine Vielzahl von Krabben beherbergen, die sich perfekt an den ständigen Wechsel von Salz- und Süßwasser angepasst haben. Biologie K6 — Ästuar-Ökosysteme.",
+      "factsAdvanced": ["Mündet nahe Axim in den Ozean (Western Region)", "Komplexes Gezeiten-Ästuar im Unterlauf", "Ufer gesäumt von Mangroven und Sumpfpflanzen", "Heimat von Schlammspringern und Mangroven-Krabben", "Ständiger Wechsel von Salz- und Süßwasser", "Fließt extrem feuchtes Dschungelgebiet"]
+    },
+    {
+      "id": "tano-river-nature-v2",
+      "descriptionAdvanced": "Der Tano-Fluss entspringt in den Bono-Bergen und fließt tief in den Südwesten, wo er kurz vor seiner Mündung die Grenze zur Elfenbeinküste bildet. Der Fluss ist in der Akan-Mythologie extrem heilig, da er als irdische Form der höchsten Wassergottheit verehrt wird; aus diesem Grund ist es in vielen Uferdörfern bis heute ein strenges Tabu, Frauen während ihrer Menstruation das Überqueren zu erlauben. Im Mündungsgebiet bildet er die Tano-Ehy-Lagune, ein Paradies für kleine Krokodile und seltene Wasservögel. Kultur K8 — heilige Flüsse.",
+      "factsAdvanced": ["Fließt tief in den Südwesten (Grenze zur Elfenbeinküste)", "Entspringt in den Bono-Bergen", "Gilt in der Akan-Mythologie als extrem heilig", "Heiliges Tabu: Menstruierende Frauen dürfen nicht überqueren", "Bildet Tano-Ehy-Lagune im Mündungsgebiet", "Paradies für kleine Krokodile und Wasservögel"]
+    },
+    {
+      "id": "oti-river-nature-v2",
+      "descriptionAdvanced": "Der Oti-Fluss entspringt im fernen Benin und bahnt sich seinen Weg durch die östlichen Gebirge Ghanas, bevor er den Volta-See speist. Seine Natur ist geprägt durch dramatische Schluchten und Felsformationen, da er sich tief in das harte Gestein des Akwapim-Togo-Gebirges gefressen hat. Das raue, schnell fließende Wasser des Oti macht ihn weitgehend unschiffbar, schützt aber gleichzeitig seine Ufer vor starker industrieller Bebauung, wodurch seltene Pflanzenarten der Savanne an seinen Ufern überleben. Geografie K7 — Flusserosion in Gebirgen.",
+      "factsAdvanced": ["Entspringt in Benin, speist den Volta-See", "Geprägt von dramatischen Schluchten", "Frisst sich ins harte Akwapim-Togo-Gebirge", "Raues, schnell fließendes, unschiffbares Wasser", "Schützt Ufer vor industrieller Bebauung", "Erhält seltene Savannenpflanzen am Ufer"]
+    },
+    {
+      "id": "busua-beach-nature-v2",
+      "descriptionAdvanced": "Der Busua Beach in der Western Region gilt als einer der natürlichsten und sichersten Strände in ganz Westafrika. Im Gegensatz zur stürmischen Ostküste brechen die atlantischen Wellen hier an einer vorgelagerten kleinen Insel, was eine sanfte Brandung und eine ruhige, weit geschwungene Bucht aus feinstem Sand schafft. Umgeben von unberührtem Küstenwald und Kokospalmen, zieht Busua heute neben Schildkröten, die nachts hier nisten, vor allem die wachsende ghanaische Surfer-Community an. Biologie K6 — Küstenlinien und Riffe.",
+      "factsAdvanced": ["Einer der natürlichsten Strände Westafrikas", "Liegt in einer ruhigen, weit geschwungenen Bucht", "Wellen brechen an vorgelagerter kleiner Insel", "Umgeben von unberührtem Küstenwald", "Nistplatz für nächtliche Meeresschildkröten", "Zentrum der ghanaischen Surfer-Community"]
+    },
+    {
+      "id": "labadi-beach-nature-v2",
+      "descriptionAdvanced": "Labadi Beach, direkt am Rande der Hauptstadt Accra, ist eine raue, windgepeitschte Küstenlandschaft, die täglich den extremen Kräften des Golfs von Guinea ausgesetzt ist. Die Strömungen hier sind oft brutal, und die natürliche Küstenlinie verschiebt sich durch den massiven Sandtransport der Ozeanwellen fast täglich. Während der Strand tagsüber ein von tausenden Krebsen bevölkertes Habitat ist, verwandelt er sich an Wochenenden in ein pulsierendes Zentrum menschlichen Lebens mit afrikanischen Trommlern und Reitern. Geografie K8 — Meeresströmungen.",
+      "factsAdvanced": ["Raue Küstenlandschaft am Rand von Accra", "Den extremen Kräften des Golfs von Guinea ausgesetzt", "Brutale Strömungen verschieben die Sandmassen", "Natürliches Habitat von tausenden Krebsen", "Wochenends pulsierendes Zentrum menschlichen Lebens", "Bekannt für Reiter am Strand"]
+    },
+    {
+      "id": "ada-foah-sea-nature-v2",
+      "descriptionAdvanced": "Die Küstenlandschaft bei Ada Foah ist ein spektakuläres natürliches Dreieck, in dem der gewaltige Volta-Fluss endlich in den tobenden Atlantik mündet. Dieses einzigartige marine Mündungsgebiet ist geprägt von riesigen, sich ständig verändernden Sandbänken und starken Strudeln, wo braunes Flusswasser auf blaue Meereswellen trifft. Die abgelegenen, windigen Strände von Ada sind einer der kritischsten Nistplätze Westafrikas für stark bedrohte Oliv-Bastardschildkröten, die jedes Jahr aus den Tiefen des Ozeans zurückkehren. Umwelt K7 — Mündungsgebiete und Schildkröten.",
+      "factsAdvanced": ["Mündungsgebiet des Volta-Flusses in den Atlantik", "Geprägt von riesigen, wandelbaren Sandbänken", "Braunes Flusswasser trifft auf blaues Meer", "Starke Strudel machen Gewässer wild", "Kritischer Nistplatz für bedrohte Oliv-Bastardschildkröten", "Liegt bei der Stadt Ada Foah"]
+    },
+    {
+      "id": "cape-three-points-sea-nature-v2",
+      "descriptionAdvanced": "Cape Three Points, markiert durch einen historischen Leuchtturm, ist der absolut südlichste Punkt Ghanas und ragt wie ein spitzer Finger weit in den Golf von Guinea hinein. Die See ist hier extrem wild, geprägt von starken Klippen, scharfen Felsenriffen und tückischen Unterwasserströmungen, die im Laufe der Jahrhunderte unzählige Schiffe zerschmetterten. Diese raue marine Umgebung ist jedoch ein Segen für die Tierwelt und dient zwischen Juli und Dezember als primäre Route für riesige Gruppen von Buckelwalen und Delfinen. Biologie K8 — marine Migrationen.",
+      "factsAdvanced": ["Absolut südlichster Punkt Ghanas", "Ragt wie ein spitzer Finger in den Golf von Guinea", "See geprägt von Klippen und scharfen Riffen", "Tückische Strömungen zerschmetterten viele Schiffe", "Historischer Leuchtturm markiert die Landspitze", "Primäre Route für Buckelwale und Delfine"]
+    },
+    {
+      "id": "gulf-of-guinea-sea-nature-v2",
+      "descriptionAdvanced": "Der Golf von Guinea ist der riesige, tiefblaue Teil des Atlantischen Ozeans, der die gesamte, über 500 Kilometer lange Südküste Ghanas umspült. Seine Natur wird stark von warmen tropischen Strömungen dominiert, die eine unglaubliche Vielzahl pelagischer Fische (wie Thunfisch und Barrakuda) an die Oberfläche treiben. Diese nährstoffreiche Ozeanfläche ist seit Jahrtausenden die Lebensader der ghanaischen Küstenvölker, leidet heute jedoch massiv unter Überfischung und der sich ausbreitenden Ölförderung am Meeresgrund. Umwelt K7 — Ozeanografie und Überfischung.",
+      "factsAdvanced": ["Umspült über 500 Kilometer ghanaische Südküste", "Tiefblauer Atlantik mit warmen Tropenströmungen", "Lebensader der ghanaischen Küstenvölker", "Heimat pelagischer Fische wie Thunfisch und Barrakuda", "Massiv bedroht durch Überfischung", "Leidet unter Ausweitung der Offshore-Ölförderung"]
+    },
+    {
+      "id": "kakum-canopy-forest-nature-v2",
+      "descriptionAdvanced": "Das tiefe Innere des Kakum-Waldes unterhalb des Canopy Walkways ist ein klassischer äquatorialer Tropenwald, der durch ein extremes Maß an Dunkelheit und Feuchtigkeit charakterisiert ist. Die gigantischen, wurzelgeschwungenen Ceiba- und Odum-Bäume werfen so dichte Schatten, dass auf dem Waldboden kaum Sonnenlicht ankommt. Diese Architektur der Natur erzwingt eine unglaubliche Spezialisierung der Lebewesen; viele der hier lebenden Baumfrösche, Zwergflusspferde und leuchtend grünen Schlangen verlassen das Blätterdach nie in ihrem Leben. Biologie K6 — Tropenwald-Stockwerke.",
+      "factsAdvanced": ["Klassischer äquatorialer Tropenwald unterhalb des Walkways", "Extreme Dunkelheit und Feuchtigkeit", "Gigantische Ceiba- und Odum-Bäume werfen tiefe Schatten", "Baumfrösche und Zwergflusspferde heimisch", "Tiere verlassen das Blätterdach nie im Leben", "Beispiel extremer biologischer Spezialisierung"]
+    },
+    {
+      "id": "bui-dam-lake-nature-v2",
+      "descriptionAdvanced": "Der Bui-Stausee, der jüngste Großsee Ghanas, entstand durch die Überflutung des Bui-Gorge im Black Volta Fluss. Diese riesige, von kargen Hügeln umgebene Wasserfläche hat das Mikroklima der umliegenden Savanne drastisch verändert, indem sie Luftfeuchtigkeit und lokale Niederschläge erhöhte. Aus dem einst wilden, felsenreichen Flusslauf ist ein tiefes, ruhiges Gewässer geworden, in dessen flachen neuen Uferbereichen Vögel brüten, während tief unten noch die ertrunkenen Bäume des ehemaligen Nationalparks stehen. Geografie K8 — klimatische Folgen von Staudämmen.",
+      "factsAdvanced": ["Jüngster Großsee Ghanas durch Bui-Damm", "Veränderte das Mikroklima der Savanne drastisch", "Erhöhte lokale Niederschläge und Luftfeuchtigkeit", "Flache neue Uferbereiche locken brütende Vögel", "Ertrukene Bäume stehen im tiefen Wasser", "Aus wildem Fluss wurde ruhiger Stausee"]
+    },
+    {
+      "id": "shai-hills-savanna-nature-v2",
+      "descriptionAdvanced": "Umgeben von massiven Felsformationen erstreckt sich die Shai Hills Savanne als eine weite, grasbewachsene Ebene an der Nahtstelle zwischen der trockenen Küste und den östlichen Hügeln. Diese Küstensavanne ist eine faszinierende ökologische Anomalie in einer Region, die eigentlich stark bewaldet sein sollte, verursacht durch ein mikroklimatisches Phänomen, bei dem der Regen an der Küste blockiert wird. Das trockene Grasland brennt in der heißen Jahreszeit oft lichterloh ab, nur um mit den ersten Tropfen der Regenzeit in leuchtendem Grün zu explodieren. Umwelt K7 — feuerangepasste Ökosysteme.",
+      "factsAdvanced": ["Grasbewachsene Ebene bei den Shai Hills", "Nahtstelle zwischen Küste und östlichen Hügeln", "Ökologische Anomalie in bewaldeter Region", "Entstanden durch mikroklimatische Regenblockade", "Brennt in der Trockenzeit oft lichterloh ab", "Explodiert zur Regenzeit in leuchtendem Grün"]
+    }
+  ]
+}

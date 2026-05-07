@@ -1,0 +1,207 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "alantika-berge-relief-v2",
+      "descriptionAdvanced": "Die Alantika-Berge bilden die südliche Fortsetzung der Mandara-Kette und sind ein Relief von extremer Abgeschiedenheit. Diese schroffe, vulkanische Bergkette an der Grenze zu Kamerun ist so wild und steil, dass sie in der Geschichte als nahezu unbetretbar galt. Das raue Relief bot den Koma, einem indigenen Bergvolk, perfekten Schutz. Bis in die späten 1980er Jahre lebten die Koma in völliger Isolation auf den Bergrücken und pflegten einen animistischen Lebensstil, weit entfernt von den islamischen oder christlichen Einflüssen des restlichen Nigerias. Die steilen Hänge, die mit dichtem Savannengras und knorrigen Bäumen bewachsen sind, machen moderne Landwirtschaft unmöglich. Geografie K7 — Isolation durch Gebirgsbarrieren.",
+      "factsAdvanced": [
+        "Eine vulkanische Gebirgskette im südlichen Adamawa-Staat an der Grenze zu Kamerun.",
+        "Das Relief ist geprägt von steilen, oft unzugänglichen Felsvorsprüngen.",
+        "Berühmt als Rückzugsgebiet des Koma-Volkes, das bis 1986 fast völlig isoliert lebte.",
+        "Die Berge wirken als Barriere gegen die islamische Expansion aus dem Norden.",
+        "Verhindern durch ihre extreme Steilheit den Bau von Verkehrs- und Handelsrouten.",
+        "Bieten ein raues, schwer berechenbares Mikroklima mit starken Winden."
+      ]
+    },
+    {
+      "id": "shere-hills-relief-v2",
+      "descriptionAdvanced": "Die Shere Hills auf dem Jos-Plateau sind ein Lehrstück in Wollsackverwitterung. Dieses Relief besteht nicht aus gefalteten Bergen, sondern aus massiven, runden Granitblöcken, die scheinbar wahllos aufeinandergestapelt wurden. Auf einer Basis von über 1.200 Metern ragt der höchste Felsengipfel (Gog and Magog) auf 1.829 Meter auf. Das Gestein ist extrem hart und zwingt das Regenwasser in rasante, kleine Wasserfälle, die tiefe Risse in den Fels schneiden. Wegen der glatten, steilen Granitoberflächen ist dieses Relief ein Albtraum für Landwirte, aber ein absolutes Paradies für Extremsportler und das militärische Führungstraining der nigerianischen Armee. Erdkunde K8 — Wollsackverwitterung und Granitdome.",
+      "factsAdvanced": [
+        "Ein massiv zerklüftetes Granit-Relief auf dem Jos-Plateau (Plateau State).",
+        "Der höchste Felsgipfel erreicht etwa 1.829 Meter über dem Meeresspiegel.",
+        "Entstanden durch extreme, jahrtausendelange chemische und physikalische Verwitterung.",
+        "Das Gestein ('Younger Granites') ist extrem hart und oft reich an Zinnerzen.",
+        "Dient als offizielles Ausbildungs-Relief für das 'Citizenship and Leadership Training Centre'.",
+        "Die glatten Felswände heizen sich tagsüber stark auf und kühlen nachts extrem ab."
+      ]
+    },
+    {
+      "id": "kogi-hügel-relief-v2",
+      "descriptionAdvanced": "Das Hügelland von Kogi ist das steinerne Herzband, das Nigeria zusammenhält. In diesem Relief, genau dort, wo die Flüsse Niger und Benue zusammenfließen, schieben sich raue, oft flachkuppige Hügel ('Mesas') in die Höhe. Der Mount Patti in Lokoja ist das bekannteste Beispiel dieses Reliefs – ein tischförmiger Berg, der die Täler überragt. Das Relief ist extrem eisen- und kohlehaltig, was zur Planung massiver Industrieanlagen wie dem Ajaokuta-Stahlwerk in dieser Region führte. Die Hügelketten zwingen den gewaltigen Fluss Niger in enge Schleifen und bilden natürliche, strategische Überwachungspunkte, die von europäischen Kolonialherren intensiv genutzt wurden. Geografie K7 — Tafelberge und Flusskontrolle.",
+      "factsAdvanced": [
+        "Ein ausgedehntes Relief aus oft abgeflachten Hügeln (Tafelberge) im Zentrum Nigerias.",
+        "Bestimmt die geologische Struktur rund um den Zusammenfluss von Niger und Benue.",
+        "Der Mount Patti (458 m) in Lokoja ist das markanteste Beispiel dieses Reliefs.",
+        "Extrem reich an Bodenschätzen, insbesondere Eisenerz, Kohle und Kalkstein.",
+        "Die Hügel dienten historisch als natürliche Wachtürme zur Kontrolle der Flussschifffahrt.",
+        "Die rote, lateritische Erde wird stark von intensiver Wasser-Erosion bedroht."
+      ]
+    },
+    {
+      "id": "ekiti-hügel-relief-v2",
+      "descriptionAdvanced": "Das Relief von Ekiti trägt seinen Charakter bereits im Namen: 'Okiti' bedeutet in der Yoruba-Sprache grob übersetzt 'Hügel'. Der gesamte Bundesstaat ist ein endloses, welliges Labyrinth aus dichten, bewaldeten Hügeln und tiefen, eingeschnittenen Tälern. Diese raue, zerklüftete Topografie machte die Region in vorkolonialen Zeiten fast uneinnehmbar für Kavallerie-Angriffe aus dem Norden. Das Relief zwingt die Landwirte zu anstrengendem Terrassen- und Hangbau für Yams und Kakao. Im Zentrum dieses Hügellandes finden sich oft spektakuläre geologische Formationen wie die Ikogosi Warm Springs, wo heißes und kaltes Wasser aus demselben felsigen Hügel entspringt. Erdkunde K6 — Hügellandschaften und natürliche Verteidigungslinien.",
+      "factsAdvanced": [
+        "Ein massiv welliges und zerklüftetes Relief im Südwesten Nigerias (Ekiti State).",
+        "Der Name der Region leitet sich direkt von ihrer hügeligen Topografie ab.",
+        "Die steilen, bewaldeten Hänge verhinderten historisch Kavallerie-Angriffe der Fulani.",
+        "Die Täler zwischen den Hügeln sind extrem fruchtbar, aber schwer maschinell zu bewirtschaften.",
+        "Beherbergt geologische Wunder wie die Ikogosi Warm Springs in einem engen Bergtal.",
+        "Das Relief verursacht eigene Mikroklimata mit starken, lokalen Regenfällen."
+      ]
+    },
+    {
+      "id": "osun-relief-relief-v2",
+      "descriptionAdvanced": "Die Osun-Landschaft ist ein geologisches Übergangsgebiet. Sie beginnt im Norden mit den harten, felsigen Ausläufern des Ekiti-Hügellandes und flacht nach Süden hin zu weiten, fruchtbaren Ebenen ab. Dieses Relief ist charakterisiert durch tiefe, rotbraune Lateritböden, die extrem gut Wasser speichern können. Die Landschaft wird vom Osun-Fluss zerschnitten, der sanfte, breite Täler geformt hat. Diese topografische Ruhe im Süden machte die Region historisch zum perfekten Zentrum für gewaltige landwirtschaftliche Siedlungen und die Ausbreitung der klassischen Yoruba-Städte. Auf den wenigen felsigen Erhebungen (Inselbergen) in der Region bauten Kriegsherren früher ihre Befestigungen. Geografie K7 — Lateritböden und Flussebenen.",
+      "factsAdvanced": [
+        "Ein sanft abfallendes Übergangsrelief vom Ekiti-Hochland in die Küstenebene.",
+        "Wird dominiert von extrem dicken, fruchtbaren und rotbraunen Laterit-Erdschichten.",
+        "Das Relief ist sanft genug, um großflächige landwirtschaftliche Urbanisierung zu erlauben.",
+        "Gelegentlich ragen harte Granit-Inselberge aus der Ebene hervor.",
+        "Der Osun-Fluss hat ein tiefes, aber breites und sanftes Tal in das Relief geschnitten.",
+        "In der Regenzeit neigen die flacheren Bereiche zu starker Sumpfbildung."
+      ]
+    },
+    {
+      "id": "cross-river-tal-relief-v2",
+      "descriptionAdvanced": "Das Tal des Cross River ist ein gewaltiger, feuchter Graben im Südosten Nigerias. Das Relief hier ist wie ein Kessel geformt: Umgeben von den steilen Klippen des Obudu-Plateaus und den Oban-Hügeln, sammelt dieses Tal das Wasser unzähliger Bergflüsse. Die Talsohle ist extrem flach und von uralten, dichten Regenwäldern bewachsen. Diese topografische Isolation, eingekesselt von Bergen auf drei Seiten und dem Atlantik im Süden, sorgte dafür, dass das Relief nie durch Dürren austrocknete, selbst während der letzten Eiszeit nicht. Die steilen Talränder verursachen gewaltige Wasserfälle, wie die Agbokim-Fälle, die das Wasser in den feuchten Dschungelboden des Tals hämmern. Erdkunde K8 — Flusstäler, Isolation und Eiszeit-Refugien.",
+      "factsAdvanced": [
+        "Ein extrem tiefes und feuchtes Flusstal, umschlossen von massiven Gebirgszügen.",
+        "Das Relief wirkt wie ein Sammelbecken für Niederschläge aus dem Obudu- und Kamerun-Massiv.",
+        "Die steilen Talränder bilden perfekte Bedingungen für zahlreiche Wasserfälle (Agbokim).",
+        "Die topografische Isolation schützte das Tal vor historischen eiszeitlichen Dürren.",
+        "Die Talsohle (Schwemmland) ist extrem nährstoffreich, aber durch dichten Dschungel schwer nutzbar.",
+        "Öffnet sich im Süden zu einem massiven, sehr breiten Ästuar am Atlantik."
+      ]
+    },
+    {
+      "id": "ondo-relief-relief-v2",
+      "descriptionAdvanced": "Das Hügelland von Ondo (Ondo-Relief) ist dramatisch und abrupt. Während der Süden des Bundesstaates in flache, oft sumpfige Lagunen übergeht, bäumt sich der Norden (insbesondere um Idanre) in Form von massiven, fast senkrechten Granitdomen auf. Diese 'Inselberge' sind keine sanften Hügel, sondern glatte Felsgiganten, die extrem schwer zu besteigen sind. Das Relief zwingt Wolken zum Aufstieg, was zu sehr hohen Niederschlagsmengen führt, die den dichten, weltberühmten Kakao-Regenwald an den Füßen der Berge nähren. Dieses brutale Relief aus steilem Fels und dichtem Wald war historisch der beste Schutzschild gegen feindliche Armeen im Yorubaland. Geografie K7 — Granitdome und Kakao-Regenwald.",
+      "factsAdvanced": [
+        "Zeichnet sich durch extreme Gegensätze aus: Sumpf im Süden, Granitberge im Norden.",
+        "Die Idanre-Hügel sind das markanteste Beispiel für das Inselberg-Relief in Ondo.",
+        "Die Felsen (Inselberge) ragen oft Hunderte Meter fast senkrecht aus dem Wald empor.",
+        "Das Relief zwingt den Regenwald zu starkem, vertikalem Wachstum an den Hängen.",
+        "Bietet das mikroklimatische Fundament für die größte Kakao-Produktion Nigerias.",
+        "Wurde aufgrund seiner Steilheit und Unzugänglichkeit erst sehr spät kolonisiert."
+      ]
+    },
+    {
+      "id": "nassarawa-relief-relief-v2",
+      "descriptionAdvanced": "Die Nassarawa-Ebene ist ein Relief, das durch seine harte Unterwelt definiert wird. Auf der Oberfläche präsentiert sich diese Region als flache, ausgedehnte Guinea-Savanne mit wenigen sanften Wellen. Doch unter dieser unscheinbaren Erdschicht verbirgt sich ein massives, extrem dichtes Gesteinsnetz aus Pegmatiten und Quarzgängen. Dieses unsichtbare Relief macht Nasarawa zum 'Zentrum der festen Mineralien' in Nigeria. Tourmalin, Baryt und sogar Saphire werden hier aus dem flachen Boden gegraben. Weil es kaum steile Berge gibt, die Regenwolken abfangen, ist das Klima trockener und die Landschaft ideal für die großflächige maschinelle Kultivierung von Sesam und Yams, was jedoch massive Bergbaunarben im Boden hinterlässt. Erdkunde K8 — Savannen-Ebenen und Feststoffmineralien.",
+      "factsAdvanced": [
+        "Eine ausgedehnte, relativ flache Savannen-Ebene südlich des Jos-Plateaus.",
+        "Das Relief verbirgt gigantische Mengen an Edelsteinen, Baryt und Quarz unter der Oberfläche.",
+        "Fehlende Gebirgsbarrieren sorgen für ein sehr gleichmäßiges, sonniges Savannenklima.",
+        "Das flache Relief wird intensiv für maschinellen Ackerbau (Olam Farms) genutzt.",
+        "Die Landschaft wird zunehmend durch tiefe, oft informelle Minenschächte geprägt.",
+        "Geologisch ist der Boden eine Übergangszone (Basement Complex) mit alten Gesteinsformationen."
+      ]
+    },
+    {
+      "id": "kaduna-tal-relief-v2",
+      "descriptionAdvanced": "Das Tal des Kaduna-Flusses ist ein V-förmiger Schnitt durch das harte Gestein des nordnigerianischen Schildes. Bevor das Tal sich zur Ebene hin öffnet, fräst sich der Fluss durch enge, felsige Schluchten. Dieses raue Relief machte den Fluss für den Bau von Staudämmen, wie dem riesigen Shiroro-Damm, perfekt: Das steile, enge Tal ermöglichte es, mit einer relativ kurzen Staumauer gigantische Wassermassen zu blockieren und zur Stromgewinnung zu nutzen. Das Tal zwingt die Straßen- und Eisenbahn-Infrastruktur zu massiven Brückenbauten. Wo das Tal in der Regenzeit überflutet wird, lagert sich fruchtbarer Schlamm ab, der die traditionelle Landwirtschaft der Gwari-Bevölkerung an den Uferhängen sichert. Geografie K7 — V-Täler und Wasserkraft-Topografie.",
+      "factsAdvanced": [
+        "Ein felsiges, enges Flusstal, das tief in das nördliche Basisgestein (Basement Complex) geschnitten ist.",
+        "Das V-förmige Relief an bestimmten Stellen ist ideal für den Bau von Staudämmen (Shiroro).",
+        "Der Kaduna-Fluss erzeugt durch das steile Relief eine sehr hohe Strömungsgeschwindigkeit.",
+        "Das Tal wirkte historisch oft als geografische und kulturelle Grenze zwischen Ethnien.",
+        "Die steilen Hänge (Gorges) minimieren die nutzbare Ackerfläche auf schmale Uferstreifen.",
+        "Die massiven Brücken über das Tal waren strategische Ziele im nigerianischen Bürgerkrieg."
+      ]
+    },
+    {
+      "id": "yobe-becken-relief-v2",
+      "descriptionAdvanced": "Das Yobe-Tiefland (Yobe-Becken) ist das trockenste, flachste und bedrohlichste Relief Nigerias. Diese riesige Ebene im äußersten Nordosten fällt sanft in Richtung des Tschadsees ab. Das Relief ist hier so flach, dass Flüsse wie der Yobe keine tiefen Täler graben, sondern sich auf einer enormen Breite ausbreiten und in der Sonne verdunsten. Ohne Berge, die den Wüstenwind bremsen, fegen massive Sandstürme (Harmattan) ungehindert über diese Ebene und begraben fruchtbaren Boden unter Wanderdünen. Dieses Relief gleicht im Sommer einem Backofen. Früher ermöglichte die Flachheit den schnellen Ritt der Kanem-Bornu-Kavallerie, heute macht sie das Gebiet anfällig für schnelle Wüstenbildung und extreme Dürren. Erdkunde K8 — Wüstenbecken, Harmattan und Desertifikation.",
+      "factsAdvanced": [
+        "Eine gigantische, extrem flache Senke im äußersten Nordosten (Sahelzone).",
+        "Das Relief fällt kaum merklich nach Osten in Richtung des Tschadsees ab.",
+        "Die extreme Flachheit begünstigt die Bildung von Wanderdünen und Wüstenbildung.",
+        "Fehlende topografische Barrieren erlauben extrem heftige Sandstürme (Harmattan).",
+        "Flüsse im Becken (wie der Komadugu Yobe) breiten sich extrem flach aus und verdunsten stark.",
+        "Das Relief erschwert den Bau von tiefen Wasserspeichern oder Staudämmen in der Region massiv."
+      ]
+    },
+    {
+      "id": "sokoto-ebene-relief-v2",
+      "descriptionAdvanced": "Die Sokoto-Ebene im extremen Nordwesten Nigerias ist ein geologisches Waschbecken voller Sand. Dieses riesige Relief, das als Iullemmeden-Becken bekannt ist, besteht aus dicken Sedimentschichten, die sich über Millionen von Jahren angesammelt haben. Im Gegensatz zum harten Granitboden Zentralnigerias ist dieser Boden extrem durchlässig, weshalb Regenwasser sofort versickert. Das macht das Leben auf der Oberfläche extrem hart, führt aber zu riesigen unterirdischen Grundwasserspeichern (Aquiferen). Das fast völlig flache Relief wird nur durch die weiten, oft ausgetrockneten Rima- und Sokoto-Flusstäler (Fadamas) unterbrochen, die wie grüne Adern durch das gelbe, heiße Staubland schneiden. Geografie K7 — Sedimentbecken, Aquifere und Fadamas.",
+      "factsAdvanced": [
+        "Eine gigantische Sedimentebene, die Teil des riesigen Iullemmeden-Beckens ist.",
+        "Das flache Relief besteht aus extrem wasserdurchlässigen, sandigen Bodenschichten.",
+        "Tief unter dem Relief liegen immense, lebenswichtige Grundwasserleiter (Aquifere).",
+        "Das Fehlen harter Gesteine zwingt Flüsse zu weiten, extrem flachen Tälern ('Fadamas').",
+        "Das Relief heizt sich in der Sahel-Sonne oft auf lebensfeindliche 45 Grad Celsius auf.",
+        "Wichtiger Schauplatz für internationale Projekte zur Aufforstung ('Great Green Wall')."
+      ]
+    },
+    {
+      "id": "adamawa-hochland-relief-v2",
+      "descriptionAdvanced": "Das Adamawa-Hochland ist ein geologischer Gigant, der Ostnigeria von Kamerun trennt. Dieses massive Relief ist eine vulkanische Hochebene, die stark zerklüftet und von tiefen Kratern durchzogen ist. Die durchschnittliche Höhe liegt bei knapp 1.000 Metern, aber unzählige Vulkankegel und Spitzen ragen weit darüber hinaus. Das Relief ist extrem rau; es ist geprägt von erstarrten Lavaströmen und Basaltfelsen. Für den Straßenbau ist dieses Terrain ein Albtraum, aber es bildet ein massives Wasserschloss: Die Niederschläge, die in diesen Bergen fallen, speisen den Benue-Fluss und garantieren so die landwirtschaftliche Existenz von Millionen Menschen in den Ebenen tief darunter. Erdkunde K8 — Vulkanische Hochebenen und Wasserscheiden.",
+      "factsAdvanced": [
+        "Ein gigantisches vulkanisches Hochland an der östlichen Grenze Nigerias zu Kamerun.",
+        "Das Relief ist geprägt durch raue Basaltformationen und alte Vulkankegel.",
+        "Die durchschnittliche Höhe des Hochlands liegt bei knapp über 1.000 Metern.",
+        "Bildet eine der wichtigsten natürlichen Wasserscheiden (Quellgebiete) für das Benue-Becken.",
+        "Das schroffe Terrain verhindert den Bau durchgehender, großer Transportachsen.",
+        "Die verwitterten vulkanischen Böden in den Tälern sind extrem fruchtbar."
+      ]
+    },
+    {
+      "id": "benue-tal-relief-v2",
+      "descriptionAdvanced": "Das Benue-Tal ist ein massiver Riss quer durch das Herz Afrikas. Geologisch als der Benue-Trog (Benue Trough) bekannt, ist dieses Relief eigentlich der gescheiterte Arm (Aulakogen) eines gigantischen kontinentalen Riss-Systems, das vor 100 Millionen Jahren beim Auseinanderbrechen von Südamerika und Afrika entstand. Das Tal ist extrem breit – oft über hundert Kilometer – und sehr flach, was dem Benue-Fluss erlaubt, in der Regenzeit gigantische Schwemmebenen zu bilden. Dieses breite, trichterförmige Relief mit dicken Sedimentschichten ist der Hauptgrund für die unfassbare landwirtschaftliche Fruchtbarkeit des mittleren Nigerias und beherbergt große, noch nicht voll erschlossene Kohle- und Kalksteinreserven. Geografie K8 — Grabenbrüche, Aulakogene und Schwemmland.",
+      "factsAdvanced": [
+        "Das Benue-Tal (Benue Trough) ist eine massive tektonische Grabensenke (Aulakogen).",
+        "Entstand während der Kontinentalverschiebung zwischen Südamerika und Afrika.",
+        "Das Relief ist extrem breit und flach, geprägt durch extrem dicke Sedimentschichten.",
+        "Die Flachheit des Tals verursacht in der Regenzeit oft katastrophale Überschwemmungen.",
+        "Die dicken Sedimente im Tal bergen gewaltige Kohle-, Kalkstein- und Barytvorkommen.",
+        "Die weiten Schwemmebenen machen das Tal zur fruchtbarsten Region (Food Basket) Nigerias."
+      ]
+    },
+    {
+      "id": "gongola-tal-relief-v2",
+      "descriptionAdvanced": "Das Gongola-Tal ist eine geografische Verrücktheit in Nordostnigeria. Das Relief dieses Tals zwingt den Gongola-Fluss in einen gewaltigen U-Turn. Das Tal beginnt in den Höhen des Jos-Plateaus und schneidet sich scharf nach Norden, bevor es von tektonischen Hebungen abrupt gestoppt wird. Das Wasser wird gezwungen, das Tal in einem scharfen Bogen nach Süden zu durchschneiden, um in den Benue zu fließen. Das Relief hier ist stark zerfurcht und bildet eine raue, trockene Schlucht-Landschaft in der Savanne. Beim Dadin-Kowa-Damm nutzt man die enge V-Form des Tals, um das Wasser für die Wasserkraft massiv aufzustauen, was das Tal in einen künstlichen, blauen See inmitten von staubigem Gelb verwandelt. Erdkunde K7 — Flussumkehr, Talformen und Stauseen.",
+      "factsAdvanced": [
+        "Das Tal des Gongola-Flusses weist einen geologisch kuriosen, umgekehrten (U-förmigen) Verlauf auf.",
+        "Das Relief wird stark von den harten Gesteinsformationen des Jos-Plateaus im Westen diktiert.",
+        "Die steilen, felsigen Hänge des Tals eignen sich perfekt für die Wasserkraft (Dadin-Kowa-Damm).",
+        "In der Trockenzeit zeigt das Tal oft gewaltige, ausgetrocknete Schluchten.",
+        "Bildet eine scharfe topografische Barriere im nordöstlichen Bundesstaat Gombe.",
+        "Die Böden im Tal sind extrem trocken, stark erodiert und schwer agrarisch nutzbar."
+      ]
+    },
+    {
+      "id": "kano-ebene-relief-v2",
+      "descriptionAdvanced": "Die Kano-Ebene ('Kano Plains') ist das endlose, flache landwirtschaftliche Fließband Nordnigerias. Dieses Relief, auf fast 500 Metern Höhe gelegen, ist eine weite, leicht wellige Hochebene (Peneplain), die über Jahrmillionen durch Erosion fast komplett flachgeschliffen wurde. Nur gelegentlich durchbrechen nackte, abgerundete Granitfelsen (Inselberge) die flache Horizontlinie. Die Flachheit dieses Reliefs ist ein Segen für die Bevölkerung: Sie erlaubt die einfache, schachbrettartige Anlage riesiger Felder für Erdnüsse und Baumwolle sowie den leichten Bau kilometerlanger Bewässerungskanäle. Auf dieser weiten, hindernisfreien Ebene konnte sich die Millionenmetropole Kano ohne jegliche topografischen Schranken sternförmig in alle Himmelsrichtungen ausbreiten. Geografie K6 — Rumpfflächen, Peneplains und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Eine gigantische, geologisch alte und fast komplett flache Rumpffläche (Peneplain).",
+        "Liegt durchschnittlich auf etwa 500 Metern über dem Meeresspiegel (Hochlandebene).",
+        "Wird nur gelegentlich von einzelnen, harten Granitkuppen (Inselbergen) unterbrochen.",
+        "Das völlig hindernisfreie Relief begünstigte das massenhafte Wachstum der Stadt Kano.",
+        "Die topografische Flachheit ist ideal für großflächige künstliche Bewässerungssysteme (KRIP).",
+        "Historisch ein perfektes Gelände für den schnellen Vormarsch von Kavallerie-Armeen."
+      ]
+    },
+    {
+      "id": "biu-plateau-relief-v2",
+      "descriptionAdvanced": "Das Biu-Plateau im Bundesstaat Borno ist ein vulkanischer Fremdkörper mitten in der flachen Sahelzone. Während die Umgebung aus Sand und Sedimenten besteht, ragt das Plateau mit etwa 700 Metern Höhe schroff empor und besteht aus alten Basaltlavaströmen und Vulkankratern. Dieses harte vulkanische Relief hat eine extrem mineralreiche, schwarze Erde geschaffen, die viel fruchtbarer ist als der Sand des Tschadbeckens daneben. Das Plateau ist von steilen Steilstufen umgeben, was es im 19. Jahrhundert zu einer perfekten natürlichen Festung für die Pabir- und Bura-Völker machte, die sich hier erfolgreich gegen die mächtigen Truppen des Kanem-Bornu-Reiches verteidigten. Heute speist das vulkanische Relief einige der wenigen ganzjährigen Flüsse der Region. Erdkunde K8 — Vulkanplateaus, Basaltböden und Rückzugsgebiete.",
+      "factsAdvanced": [
+        "Ein massives vulkanisches Plateau (ca. 700 m Höhe) mitten im extrem flachen Bundesstaat Borno.",
+        "Besteht aus erstarrten Basaltströmen, alten Vulkankegeln und Kratern.",
+        "Das vulkanische Relief schuf extrem fruchtbare, wasserhaltende schwarze Böden.",
+        "Diente den indigenen Völkern (Pabir, Bura) als sichere Festung gegen Invasionen.",
+        "Die Steilstufen (Escarpments) des Plateaus sind oft von dichten Waldstreifen bewachsen.",
+        "Trotz seiner Lage im trockenen Nordosten ist das Mikroklima hier deutlich kühler."
+      ]
+    }
+  ]
+}

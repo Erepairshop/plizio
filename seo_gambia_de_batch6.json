@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fajikunda-cities-v2",
+      "descriptionAdvanced": "Fajikunda ist ein schnell wachsendes Wohnviertel innerhalb der Metropolregion Serekunda, das in den letzten Jahren einen massiven Zuzug erlebt hat. Die Stadt hat sich von einer eher ländlich geprägten Siedlung zu einem zentralen städtischen Wohnraum gewandelt, der viele junge Familien und Berufstätige anzieht. Mit einer Fülle an lokalen kleinen Unternehmen, die vom stetigen Bevölkerungswachstum profitieren, ist Fajikunda ein Paradebeispiel für die Dezentralisierung und Ausbreitung von Gambias urbanen Zentren. Die Stadt bietet eine Mischung aus traditioneller Nachbarschaft und aufstrebendem Kleingewerbe. Wirtschaft K7 — Urbanes Kleingewerbe und Stadtentwicklung.",
+      "factsAdvanced": ["Stark wachsendes Wohnviertel.", "Teil der Serekunda-Metropolregion.", "Anziehungspunkt für junge Familien.", "Wichtiger Hub für lokales Kleingewerbe.", "Wandel von ländlicher zu urbaner Struktur.", "Wachsende Bedeutung für die Region.", "Typisches Beispiel für gambische Urbanisierung."]
+    },
+    {
+      "id": "dippa-kunda-cities-v2",
+      "descriptionAdvanced": "Dippa Kunda ist ein belebter Stadtteil von Serekunda, der als kommerzieller Knotenpunkt bekannt ist. Durch den großen Markt und das dichte Netzwerk an kleinen Geschäften und Werkstätten, die das Straßenbild prägen, spielt der Ort eine vitale Rolle im täglichen Wirtschaftsleben der Metropole. Die geschäftige Atmosphäre spiegelt die Energie wider, die den gesamten Großraum Serekunda auszeichnet. Dippa Kunda ist ein Ort, an dem sich Handel und soziales Leben eng miteinander verflechten und in dem die lokale Wirtschaft einen direkten Einfluss auf die Lebensqualität der Bewohner hat. Wirtschaft K6 — Lokale Marktdynamik.",
+      "factsAdvanced": ["Lebhafter Teil der Serekunda-Handelszone.", "Großer lokaler Markt.", "Wichtiger Ort für kleinteiligen Handel.", "Geschäftige Straßenstruktur.", "Vitaler Punkt der städtischen Wirtschaft.", "Starker Austausch zwischen Händlern und Bewohnern.", "Charakteristisch für die kommerzielle Energie Serekundas."]
+    },
+    {
+      "id": "abuko-cities-v2",
+      "descriptionAdvanced": "Abuko ist berühmt für das Abuko Nature Reserve, das erste und älteste Naturschutzgebiet Gambias. Dieses Reservat ist ein lebendiges Beispiel für die reiche Artenvielfalt der Region und spielt eine entscheidende Rolle für den Naturschutz und die Umweltbildung. Abuko ist jedoch mehr als nur ein Schutzgebiet; es ist auch ein wichtiger Standort für Viehhandel, der eine Verbindung zwischen ländlicher landwirtschaftlicher Tradition und der Nähe zum städtischen Raum herstellt. Die Kombination aus Naturschutz, Bildung und Handel macht Abuko zu einem einzigartigen Ort in der Nähe der Metropole. Biologie K6 — Artenschutz.",
+      "factsAdvanced": ["Erstes Naturschutzgebiet Gambias.", "Wichtiges Zentrum für Bildung und Artenschutz.", "Zentraler Viehhandelsplatz.", "Enge Verbindung von Naturschutz und Landwirtschaft.", "Heimat für eine Vielzahl seltener Tierarten.", "Wichtiger Ort für ökologische Bildung.", "Beispiel für erfolgreiche Schutzgebietsarbeit."]
+    },
+    {
+      "id": "batokunku-cities-v2",
+      "descriptionAdvanced": "Batokunku ist ein ruhiges, an der Küste gelegenes Dorf, das durch sein innovatives Engagement im Bereich der erneuerbaren Energien bekannt wurde. Als Standort der ersten Windkraftanlage Gambias setzt der Ort ein wichtiges Zeichen für nachhaltige Entwicklung. Die Kombination aus ruhigen, kaum überlaufenen Stränden und dem Fokus auf Ökotourismus zieht Reisende an, die abseits der großen Touristenhochburgen Entspannung suchen. Batokunku ist ein bemerkenswertes Beispiel dafür, wie eine kleine Gemeinschaft durch ökologische Innovation und Naturbewusstsein eine eigene Identität als attraktive Reise- und Lebensdestination schafft. Technik K7 — Erneuerbare Energien.",
+      "factsAdvanced": ["Standort der ersten Windkraftanlage Gambias.", "Fokus auf nachhaltige Entwicklung.", "Friedliche Küstenlage.", "Attraktive, ruhige Strände.", "Ziel für bewussten Ökotourismus.", "Innovative lokale Energieprojekte.", "Vorreiter für umweltfreundliche Technologien."]
+    },
+    {
+      "id": "tujereng-cities-v2",
+      "descriptionAdvanced": "Tujereng ist eine aufstrebende Küstengemeinde in der West Coast Region, deren Identität maßgeblich durch die Landwirtschaft und die stetig wachsende touristische Anziehungskraft geprägt wird. Die fruchtbaren Böden in der Umgebung bilden die Basis für einen florierenden Gemüseanbau, der zur Versorgung der Metropolregion beiträgt. Parallel dazu entdeckt eine wachsende Anzahl an Reisenden und Expatriates die idyllische Lage an der Küste für sich. Tujereng ist ein Ort im Wandel, der den Spagat zwischen traditioneller Landwirtschaft und der Entwicklung als moderne touristische Nische meistert. Erdkunde K7 — Landwirtschaftliche Versorgung.",
+      "factsAdvanced": ["Bedeutendes Zentrum für den Gemüseanbau.", "Stetig wachsendes touristisches Interesse.", "Gemeinde von Expatriates.", "Fruchtbare Böden.", "Wichtige Rolle für die Versorgung der Region.", "Idyllische Küstenlage.", "Wandel von Agrar- zur Mischwirtschaft."]
+    }
+  ]
+}

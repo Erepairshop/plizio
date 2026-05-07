@@ -1,0 +1,365 @@
+{
+  "lang": "ro",
+  "country": "senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "plaine-du-ferlo-nature-v2",
+      "descriptionAdvanced": "Câmpia Ferlo reprezintă inima regiunii Sahel din Senegal, o zonă vastă și semiaridă care ocupă centrul-nord al țării. Această câmpie este caracterizată de o vegetație de savană uscată, dominată de arbori de akác și de ierburi care devin aurii în timpul sezonului secetos. Natura în Ferlo este marcată de ritmul nomadismului pastoral, fiind tărâmul tradițional al păstorilor Peul. Rezervațiile naturale din această zonă, precum Ferlo-Nord și Ferlo-Sud, sunt cruciale pentru conservarea speciilor adaptate la condiții extreme, inclusiv gazela Oryx care a fost reintrodusă recent. În ciuda aspectului său aparent dezolant, câmpia deține resurse hidrice subterane importante, accesate prin puțuri adânci care sunt adevărate centre de viață în deșert. Peisajul deschis și cerul infinit oferă o imagine autentică a rezilienței vieții în Africa sub-sahariană.",
+      "factsAdvanced": [
+        "Cea mai mare zonă de savană aridă din Senegal, acoperind regiunea Louga și Matam.",
+        "Vegetația dominantă este formată din Acacia senegal, sursa gumei arabice.",
+        "Include rezervații de faună de importanță națională pentru protejarea antilopelor.",
+        "Climatul este de tip sahelian, cu un sezon ploios foarte scurt.",
+        "Solurile sunt predominant nisipoase, formând dune fosilizate vechi.",
+        "Este zona principală de transhumanță pentru cirezile de bovine zebu.",
+        "Rețeaua de foraje (forages) este singura sursă permanentă de apă.",
+        "Fauna include hienă dungată, struți și numeroase reptile adaptate la secetă."
+      ]
+    },
+    {
+      "id": "lac-kassack-nature-v2",
+      "descriptionAdvanced": "Lacul Kassack, situat în delta fluviului Senegal, lângă granița cu Mauritania, este un ecosistem acvatic vital integrat în vasta rețea de zone umede din nordul țării. Acest lac joacă un rol fundamental în gestionarea apelor în timpul viiturilor fluviului, servind drept bazin de retenție și habitat pentru numeroase specii de pești și păsări. Natura în jurul lacului Kassack este marcată de prezența culturilor irigate de orez, fiind un exemplu de transformare a zonelor sălbatice în poli de producție agricolă. Cu toate acestea, lacul păstrează zone de vegetație luxuriantă unde păsările migratoare palearctice găsesc hrană și adăpost în timpul iernii europene. Ecosistemul este fragil și depinde de echilibrul dintre debitul fluviului și nevoile comunităților locale de fermieri și pescari, fiind un punct focal pentru conservarea biodiversității în regiunea Saint-Louis.",
+      "factsAdvanced": [
+        "Parte a complexului de zone umede din delta inferioară a fluviului Senegal.",
+        "Este o sursă importantă de pește de apă dulce pentru piețele locale.",
+        "Lacul este înconjurat de perimetre mari de orezării moderne.",
+        "Constituie un coridor ecologic între Sanctuarul Djoudj și valea fluviului.",
+        "Monitorizat pentru impactul salinității solului asupra biodiversității acvatice.",
+        "Oferă condiții ideale pentru cuibăritul stârcilor și egretelor.",
+        "Accesul la lac se face prin drumuri de pământ prin câmpurile de orez.",
+        "Nivelul apei este reglat prin sistemele de ecluze ale barajului Diama."
+      ]
+    },
+    {
+      "id": "zone-maritime-atlantic-nature-v2",
+      "descriptionAdvanced": "Zona Maritimă Atlantică a Senegalului este una dintre cele mai productive regiuni oceanice din lume, datorită fenomenului de „upwelling” (ascensiunea apelor reci, bogate în nutrienți) care are loc de-a lungul coastelor sale. Această natură marină exuberantă susține o biodiversitate uluitoare, de la marii prădători pelagici precum tonul și rechinii, până la specii bentonice delicioase cum sunt langustele și creveții. Coasta senegaleză, care se întinde pe mai mult de 700 de kilometri, variază de la dunele nisipoase din nord la estuarele verzi cu mangrove din sud. Oceanul Atlantic nu este doar o resursă economică vitală prin pescuit, ci și un factor climatic esențial, briza marină moderând temperaturile ridicate din hinterland. Protejarea acestei zone împotriva poluării și a pescuitului excesiv este o prioritate strategică pentru a asigura viitorul comunităților de pescari artizanali și echilibrul ecologic al Africii de Vest.",
+      "factsAdvanced": [
+        "Senegalul are o Zonă Economică Exclusivă (ZEE) de peste 212.000 km².",
+        "Fenomenul de upwelling aduce nutrienți esențiali din adâncurile oceanului.",
+        "Apele găzduiesc migrații sezoniere de balene și delfini.",
+        "Este una dintre zonele cu cea mai mare densitate de pește de pe planetă.",
+        "Curentul Canarelor influențează direct temperatura apelor de coastă.",
+        "Pescuitul industrial și cel artizanal sunt pilonii principali ai exporturilor.",
+        "Include arii marine protejate (AMP) pentru conservarea biodiversității.",
+        "Coasta este marcată de variații mari de maree în regiunea de sud."
+      ]
+    },
+    {
+      "id": "vallee-du-fleuve-senegal-nature-v2",
+      "descriptionAdvanced": "Valea Fluviului Senegal este o fâșie fertilă și strategică ce traversează nordul arid al țării, formând un contrast puternic cu savanele înconjurătoare. Această regiune, modelată de depunerile aluvionare de-a lungul mileniilor, este „grânarul” Senegalului, unde natura a fost îmblânzită prin sisteme complexe de irigații. Peisajul natural include păduri de akác (Acacia nilotica) și zone inundabile care adăpostesc o faună bogată, inclusiv numeroase specii de păsări acvatice. Valea este, de asemenea, centrul istoric al multor civilizații vest-africane, fiind populată dens de etnii care trăiesc în armonie cu ritmul râului. Gestionarea acestui ecosistem este complexă, implicând echilibrul dintre producția de energie hidroelectrică, nevoile agriculturii intensive și conservarea biodiversității deltei. Frumusețea văii este dată de reflexiile apei sub soarele arzător și de pânza verde de orezării care se întinde până la orizont.",
+      "factsAdvanced": [
+        "Constituie axa principală de dezvoltare agricolă a nordului Senegalului.",
+        "Include regiunile administrative Saint-Louis, Matam și Tambacounda.",
+        "Solurile alluviale sunt extrem de bogate în minerale și materie organică.",
+        "Este principala regiune producătoare de orez și roșii din țară.",
+        "Biodiversitatea include crocodili de Nil și varani de apă.",
+        "Valea este traversată de drumul național N2, legătura spre Mauritania.",
+        "Sistemele tradiționale de cultură de „decrue” (după retragerea apelor) încă persistă.",
+        "Ecosistemul este influențat de marile baraje de la Diama și Manantali."
+      ]
+    },
+    {
+      "id": "foret-classee-de-thiès-nature-v2",
+      "descriptionAdvanced": "Pădurea Clasată de la Thiès este o arie protejată situată pe platoul cu același nume, având o importanță ecologică deosebită pentru centrul-vestul Senegalului. Această pădure reprezintă un bastion al biodiversității într-o zonă unde presiunea agricolă și industrială (în special bányászat-ul fosfaților) este foarte ridicată. Natura aici este compusă dintr-un amestec de specii de savană și resturi de pădure uscată, oferind un habitat vital pentru reptile, păsări și mici mamifere. Pădurea joacă un rol crucial în protejarea solului împotriva eroziunii pe pantele platoului și contribuie la reîncărcarea pânzei freatice locale. Fiind situată în proximitatea orașului Thiès, pădurea servește și ca laborator natural pentru universitatea locală și ca zonă de recreere pentru locuitori. Conservarea ei este esențială pentru menținerea echilibrului climatic regional și pentru protejarea speciilor de arbori indigeni amenințați.",
+      "factsAdvanced": [
+        "Situată pe un platou calcaros la aproximativ 70 km de Dakar.",
+        "Acoperă o zonă unde pânza freatică este colectată pentru orașul Thiès.",
+        "Găzduiește specii de Acacia, Adansonia (baobab) și Combretum.",
+        "Este protejată prin statut de „pădure clasată” încă din epoca colonială.",
+        "Barieră naturală împotriva prafului adus de vânturile Harmattan.",
+        "Situl este monitorizat pentru a preveni tăierile ilegale pentru cărbune.",
+        "Oferă un microclimat mai răcoros decât zonele urbane înconjurătoare.",
+        "Este un punct important pentru observarea păsărilor de savană."
+      ]
+    },
+    {
+      "id": "fleuve-gambie-nature-v2",
+      "descriptionAdvanced": "Fluviul Gambia este unul dintre cele mai pitorești și sălbatice cursuri de apă din Senegal, traversând regiunea de sud-est (Kédougou și Tambacounda). Natura râului în această porțiune este spectaculoasă, cu albii stâncoase, cascade mici și păduri-galerie dense care umbresc malurile. Spre deosebire de fluviul Senegal din nord, Gambia are un caracter mult mai tropical și accidentat în amonte. Râul este artera vitală a Parcului Național Niokolo-Koba, oferind apă întregii faune sălbatice în timpul lungului sezon secetos. Apele sale sunt limpezi în timpul iernii și devin roșiatice în sezonul ploios din cauza lateritului antrenat de pe versanți. Fluviul este, de asemenea, un spațiu sacru pentru popoarele Bassari și Bedik, care își au așezările pe dealurile din apropiere, integrând resursele râului în tradițiile lor ancestrale.",
+      "factsAdvanced": [
+        "Izvorăște din munții Fouta Djallon și are un curs foarte sinuos.",
+        "Găzduiește populații mari de hipopotami și crocodili africani.",
+        "Cascada Dindefelo se află pe unul dintre afluenții săi direcți.",
+        "Este navigabil pentru bărci mici pe sute de kilometri în Senegal.",
+        "Constituie granița sudică a multor arii protejate din regiune.",
+        "Apele sale sunt bogate în specii de pești tigru (Hydrocynus).",
+        "Pădurile de pe maluri adăpostesc diverse specii de primate.",
+        "Valea râului este o zonă de o frumusețe peisagistică inegalabilă în West Africa."
+      ]
+    },
+    {
+      "id": "foret-de-patar-nature-v2",
+      "descriptionAdvanced": "Pădurea Patar, situată în regiunea Kaffrine, este un exemplu rar de pădure de savană bine conservată în inima „Bazinului de Arahide” din Senegal. Această zonă naturală protejată oferă un refugiu critic pentru biodiversitatea locală, într-un peisaj dominat altfel de monocultura agricolă. Natura din Patar este caracterizată prin prezența arborilor de baobab masivi și a diverse specii de Combretum, care creează un coronament dens în timpul sezonului ploios. Pădurea joacă un rol vital în lupta împotriva desertificării și în reglarea regimului hidric al solurilor lateritice din jur. De asemenea, reprezintă o sursă importantă de produse forestiere nelemnoase, cum ar fi fructele de baobab (bouye) și plantele medicinale, colectate în mod sustenabil de comunitățile rurale vecine. Pădurea de la Patar este un martor viu al vegetației originale a centrului Senegalului, înainte de expansiunea masivă a culturilor de mogyoró.",
+      "factsAdvanced": [
+        "Situată în inima regiunii istorice Saloum-Kaffrine.",
+        "Una dintre ultimele bariere forestiere naturale împotriva vântului uscat.",
+        "Include specii rare de păsări de savană și insecte polenizatoare.",
+        "Situl este un model pentru gestionarea forestieră comunitară.",
+        "Adăpostește numeroși baobabi care au o valoare sacră pentru localnici.",
+        "Oferă protecție pânzei freatice împotriva evaporării excesive.",
+        "Este traversată de trasee tradiționale de păstorit.",
+        "Vegetația sa se regenerează rapid după primele ploi din luna iunie."
+      ]
+    },
+    {
+      "id": "lac-de-panal-nature-v2",
+      "descriptionAdvanced": "Lacul de Panal, situat în regiunea centrală-nordică a Senegalului, este o zonă umedă sezonieră care devine un centru de biodiversitate crucial în timpul și după sezonul ploios. Acest lac temporar, format în depresiunile naturale ale platoului Ferlo, atrage mii de păsări acvatice și servește drept punct de adăpare pentru fauna sălbatică și cirezile nomazilor. Natura din jurul lacului este adaptată la ciclurile extreme de umiditate și secetă, plantele acvatice înflorind rapid odată cu sosirea apelor. Lacul Panal este o componentă esențială a rețelei ecologice a Sahelului, oferind un habitat rar de apă dulce într-o regiune aridă. Deși suprafața sa scade drastic în sezonul uscat, sedimentele bogate lăsate în urmă favorizează creșterea unei ierburi nutritive, foarte apreciată de crescătorii de animale. Protejarea acestui lac este fundamentală pentru menținerea echilibrului ecologic al zonei de stepă senegaleze.",
+      "factsAdvanced": [
+        "Lac sezonier dependent direct de intensitatea ploilor anuale.",
+        "Situat în zona de tranziție între savană și semi-deșert.",
+        "Punct strategic pentru păsările migratoare care traversează centrul țării.",
+        "Monitorizat de direcția parcurilor naționale ca zonă de conservare.",
+        "Apele sale sunt colectate pentru nevoile de subzistență ale satelor Peul.",
+        "Include o vegetație specifică de amfibii și plante de mlaștină.",
+        "Contribuie la microclimatul umed al micro-regiunii Panal.",
+        "În anii ploioși, suprafața lacului poate crește considerabil, inundând văile vecine."
+      ]
+    },
+    {
+      "id": "monts-de-casamance-nature-v2",
+      "descriptionAdvanced": "Munții (sau mai degrabă dealurile) din Casamance reprezintă o zonă de relief ondulat din sudul extrem al Senegalului, la frontiera cu Guineea și Guineea-Bissau. Această regiune este marcată de o natură exuberantă, fiind zona cu cele mai înalte precipitații din țară, ceea ce permite dezvoltarea unor păduri tropicale dense și a unor păduri-galerie impresionante. Dealurile sunt formate din soluri de laterit roșu care creează un contrast vizual spectaculos cu verdele intens al vegetației. Munții de Casamance adăpostesc o biodiversitate unică, incluzând specii de arbori gigantici (fromagers), liane și o multitudine de primate. Relieful fragmentat a favorizat crearea unor văi izolate unde se practică cultura tradițională a orezului și unde comunitățile locale și-au păstrat intacte tradițiile animiste și pădurile sacre. Această regiune este adesea numită „perla verde” a Senegalului, oferind peisaje care amintesc mai mult de Africa Centrală decât de Sahelul din nord.",
+      "factsAdvanced": [
+        "Regiunea cu cel mai mare grad de împădurire naturală din Senegal.",
+        "Include platouri de laterit cu înălțimi de până la 100-150 metri.",
+        "Găzduiește arbori sacri uriași folosiți în ritualurile Diola.",
+        "Este habitatul cimpanzeilor de sud și al multor specii de păsări tropicale.",
+        "Constituie un rezervor hidrografic major pentru brațele râului Casamance.",
+        "Plantele epifite și orhideele sălbatice sunt frecvente în aceste păduri.",
+        "Relieful accidentat a conservat o biodiversitate nealterată de mecanizarea agricolă.",
+        "Oferă cele mai umede și răcoroase condiții de mediu din întreaga țară."
+      ]
+    },
+    {
+      "id": "foret-de-tamba-nature-v2",
+      "descriptionAdvanced": "Pădurea Clasată de la Tambacounda este o zonă forestieră vastă situată în estul Senegalului, reprezentând un ecosistem critic de tranziție între savana guineeană și stepa saheliană. Această natură protejată este dominată de specii de arbori rezistenți la secetă, dar care formează o pădure densă și umbroasă în timpul verii. Pădurea de la Tamba este vitală pentru economia regională, oferind resurse esențiale precum lemnul de foc și produsele forestiere nelemnoase (fructe de baobab, miere sălbatică). Ecologic, pădurea servește drept coridor de migrație pentru fauna care se deplasează între Parcul Național Niokolo-Koba și văile râului Senegal. Statutul său de pădure clasată impune reguli stricte de exploatare pentru a preveni degradarea solului și pierderea habitatelor. Pentru vizitatori, pădurea oferă o imagine a măreției savanei africane, cu arbori monumentali care se ridică peste un covor de iarbă înaltă, fiind un simbol al bogăției naturale a estului senegalez.",
+      "factsAdvanced": [
+        "Una dintre cele mai mari zone forestiere gestionate din estul țării.",
+        "Include specii de valoare comercială și ecologică precum Pterocarpus erinaceus.",
+        "Este o barieră importantă împotriva avansului deșertului dinspre nord-est.",
+        "Găzduiește colonii importante de păsări de pradă și vulturi africani.",
+        "Solurile sunt predominant feruginoase, de o culoare brun-roșiatică.",
+        "Serviciul Silvic are aici baze de monitorizare împotriva braconajului forestier.",
+        "Este un sit tradițional de vânătoare reglementată și colectare de plante medicinale.",
+        "Contribuie major la reglarea regimului ploilor la nivel regional."
+      ]
+    },
+    {
+      "id": "delta-du-senegal-nature-v2",
+      "descriptionAdvanced": "Delta Fluviului Senegal, situată la granița de nord a țării, este un complex ecosistem de mlaștini, lagune și dune care se întâlnesc cu Oceanul Atlantic. Această natură protejată este faimoasă la nivel mondial pentru Sanctuarul Djoudj, dar delta în ansamblul ei reprezintă o unitate biologică inseparabilă. Formată prin depunerile de nisip și aluviuni pe parcursul mileniilor, delta a creat un labirint de apă dulce și sărată care susține o viață acvatică uluitoare. Este locul unde milioane de păsări migratoare își găsesc refugiul după traversarea Saharei, făcând din acest loc un punct critic pe ruta de migrație est-atlantică. Delta este, de asemenea, o zonă de intensă activitate umană, unde agricultura irigată coexistă cu pescuitul tradițional. Protejarea deltei este o provocare majoră, implicând combaterea speciilor invazive precum salvinia și gestionarea atentă a barajelor fluviale pentru a menține echilibrul salin necesar vieții sălbatice.",
+      "factsAdvanced": [
+        "Include Sanctuarul Djoudj, sit de Patrimoniu Mondial UNESCO.",
+        "Ecosistemul este unul dintre cele mai importante zone umede din Africa.",
+        "Delta este „poarta de intrare” în Africa pentru păsările din Europa.",
+        "Prezența manatului african (lamantinul) este documentată în canalele deltei.",
+        "Dunele „Langue de Barbarie” protejează interiorul deltei de forța oceanului.",
+        "Vegetația include păduri de mangrove de apă dulce și papirus.",
+        "Este un motor economic pentru nordul Senegalului prin turism și agricultură.",
+        "Delta este un sit de importanță internațională sub Convenția Ramsar."
+      ]
+    },
+    {
+      "id": "foret-de-dakar-nature-v2",
+      "descriptionAdvanced": "Pădurea de la Dakar, cunoscută și sub numele de Pădurea Mbao, este ultimul bastion natural din peninsula Cap-Vert, situată la intrarea în capitală. Într-o metropolă dominată de beton și asfalt, această pădure oferă o natură esențială pentru sănătatea locuitorilor, acționând ca un filtru pentru poluare și un regulator de temperatură. Pădurea păstrează caracteristicile ecosistemului original al coastei centrale, cu arbori de baobab, palmieri și akác adaptate solului nisipos. Deși este fragmentată de infrastructura modernă de transport, pădurea rămâne un refugiu pentru păsări și mici reptile, oferind totodată un spațiu de cercetare ornitologică. Eforturile actuale ale statului senegalez se concentrează pe stoparea urbanizării în interiorul pădurii și pe transformarea acesteia într-un parc urban protejat, unde natura să poată coexista cu nevoile de recreere ale cetățenilor. Această zonă verde este vitală pentru reziliența Dakarului în fața schimbărilor climatice.",
+      "factsAdvanced": [
+        "Singura zonă forestieră majoră rămasă în zona metropolitană Dakar.",
+        "Acționează ca un scut împotriva inundațiilor urbane prin absorbția apelor.",
+        "Găzduiește o diversitate surprinzătoare de specii de păsări rezidente.",
+        "Include pepiniere pentru producerea puieților destinați programului „Marea Mură Verde”.",
+        "Pădurea este traversată de autostrada A1, dar rămâne sub protecție silvică.",
+        "Este un simbol al luptei ecologiste împotriva urbanizării necontrolate.",
+        "Microclimatul pădurii este cu 2-3 grade mai răcoros decât centrul orașului.",
+        "Comunitățile locale sunt implicate în proiecte de reîmpădurire participativă."
+      ]
+    },
+    {
+      "id": "zone-sableuse-cotiere-nature-v2",
+      "descriptionAdvanced": "Zona Nisipoasă Costieră, cunoscută sub numele de „Grande Côte”, se întinde pe sute de kilometri între Dakar și Saint-Louis. Această natură litorală este dominată de dune de nisip mișcătoare și de faimoasele „Niayes” – depresiuni fertile între dune unde pânza freatică iese la suprafață. Peisajul este unul de o frumusețe aspră, unde vânturile alizee modelează constant relieful și unde vegetația este formată din plante halofite și arbuști rezistenți la sare. Zona costieră este crucială pentru economia Senegalului, fiind locul unde se desfășoară pescuitul artizanal intens și unde se cultivă cea mai mare parte a legumelor țării. De asemenea, dunele conțin zăcăminte prețioase de minerale grele (zircon, ilmenit), a căror exploatare trebuie echilibrată cu necesitatea protejării ecosistemului fragil. Această fâșie de nisip alb, mângâiată de valurile Atlanticului, reprezintă una dintre cele mai iconice imagini ale geografiei senegaleze.",
+      "factsAdvanced": [
+        "Include cel mai lung sector de plaje neîntrerupte din West Africa.",
+        "Depresiunile Niayes permit agricultura de tip oază în plin deșert costier.",
+        "Dunele pot ajunge la înălțimi de peste 20-30 de metri.",
+        "Este o zonă bogată în nisipuri mineralizate exploatate industrial (GCO).",
+        "Linia țărmului este supusă unei eroziuni puternice din cauza curentului Canarelor.",
+        "Vegetația include plantații de Casuarina fixate pentru stabilizarea nisipului.",
+        "Este zona principală pentru turismul de aventură cu 4x4.",
+        "Oferă un habitat esențial pentru broaștele țestoase marine care vin să depună ouă."
+      ]
+    },
+    {
+      "id": "fouta-djallon-relief-v2",
+      "descriptionAdvanced": "Relieful format de nyúlványok-ul Masivului Fouta Djallon în Senegal reprezintă cea mai spectaculoasă și accidentată zonă a țării, situată în regiunea sud-estică Kédougou. Deși inima masivului se află în Guineea, prezența acestor munți vechi pe teritoriul senegalez transformă peisajul într-un mozaic de platouri înalte de gresie, faleze verticale și văi adânci sculptate de eroziune. Relieful atinge aici altitudini de peste 400 de metri, oferind puncte de observație panoramice asupra întregii savane sud-sudaneze. Geologia zonei este dominată de roci vulcanice și sedimentare pre-cambriene, care au permis formarea unor cascade impunătoare, precum Dindefelo. Această configurație a terenului a jucat un rol istoric de refugiu pentru comunitățile Bassari și Bedik, care și-au construit satele pe culmi inaccesibile pentru a se proteja. Pentru călători, relieful de la Fouta Djallon oferă cele mai bune oportunități de drumeție și explorare a naturii sălbatice din Senegal.",
+      "factsAdvanced": [
+        "Singura zonă cu relief montan veritabil din întregul Senegal.",
+        "Altitudinea maximă în zona Kédougou depășește pragul de 500 m.",
+        "Relieful este compus din gresie preistorică și bazalt negru.",
+        "Formează o barieră orografică ce atrage precipitații abundente.",
+        "Include canioane adânci și peșteri neexplorate complet.",
+        "Pantele abrupte sunt acoperite de o vegetație tropicală montană.",
+        "Satele tradiționale sunt construite strategic pe marginile platourilor.",
+        "Relieful fragmentează rețeaua hidrografică, creând numeroase cascade."
+      ]
+    },
+    {
+      "id": "ferlo-plateau-v2",
+      "descriptionAdvanced": "Podișul Ferlo este o vastă unitate de relief care ocupă centrul-nordul Senegalului, caracterizată printr-o uniformitate aparentă și un aspect de câmpie ușor vălurită. Acest podiș se află la o altitudine medie de 40-100 de metri și este format din depozite sedimentare vechi acoperite de nisipuri eoliene. Relieful este tipic pentru zona Sahelului, unde orizontul este întrerupt doar de rare dealuri reziduale sau de văi secate (vadi-uri) care se umplu cu apă doar în timpul ploilor torențiale scurte. Podișul Ferlo reprezintă „stepa” senegaleză, unde eroziunea eoliană joacă un rol major în modelarea micro-reliefului. În ciuda aridității sale, podișul deține resurse minerale și hidrice subterane vaste, fiind esențial pentru viața nomadă a păstorilor Peul. Această unitate de relief este fundamentală pentru înțelegerea geografiei fizice a Senegalului, marcând tranziția către bazinul fluviului Senegal.",
+      "factsAdvanced": [
+        "Acoperă aproximativ o treime din suprafața totală a țării.",
+        "Relief de stepă semiaridă cu forme de acumulare nisipoasă.",
+        "Subsolul podișului găzduiește una dintre cele mai mari pânze freatice (Maastrichtian).",
+        "Eroziunea solului este o problemă majoră din cauza vântului Harmattan.",
+        "Include zone de dune „moarte” fixate de vegetația de savană.",
+        "Altitudinea crește ușor de la vest la est, spre regiunea Matam.",
+        "Relieful permite vizibilitate pe distanțe foarte mari (până la 20 km).",
+        "Este una dintre cele mai puțin populate regiuni din cauza reliefului arid."
+      ]
+    },
+    {
+      "id": "niayes-relief-v2",
+      "descriptionAdvanced": "Relieful Niayes este o formă de teren unică și specifică zonei de coastă nord-vestice a Senegalului, situată între Dakar și Saint-Louis. Acesta constă dintr-o succesiune de dune de nisip costiere paralele cu țărmul și depresiuni inter-dunare, adesea inundate sau cu umiditate ridicată. Numele „Niayes” provine din limba wolof și descrie aceste văi umede unde apa freatică este foarte aproape de suprafață. Din punct de vedere al reliefului, această zonă funcționează ca un micro-sistem de oaze costiere, protejate de dunele înalte împotriva vânturilor marine sărate. Relieful Niayes a permis dezvoltarea unei agriculturi horticole intensive, fiind singura zonă din nordul țării unde se pot cultiva legume în plin sezon secetos. Acest relief este fragil, fiind amenințat de înaintarea dunelor de nisip mobile și de urbanizarea galopantă a peninsulei Cap-Vert, necesitând măsuri stricte de conservare geologică și biologică.",
+      "factsAdvanced": [
+        "Relief format din alternanța dunelor galbene și a depresiunilor umede.",
+        "Se întinde pe o fâșie lată de 5-10 km de-a lungul Oceanului Atlantic.",
+        "Depresiunile conțin adesea mici lacuri cu apă dulce sau sălcie.",
+        "Dunele de protecție ating înălțimi de până la 20 de metri.",
+        "Relieful creează un microclimat propice pentru palmieri și konyhakert-uri.",
+        "Niayes este considerat un „coridor verde” strategic pentru Senegal.",
+        "Structura solului este predominant nisipoasă, dar bogată în umiditate.",
+        "Este o formă de relief rară în contextul zonelor aride de coastă."
+      ]
+    },
+    {
+      "id": "casamance-tal-v2",
+      "descriptionAdvanced": "Valea Casamance reprezintă unitatea de relief cea mai joasă și mai fertilă din sudul Senegalului, fiind modelată de cursul lent al râului Casamance și de numeroasele sale brațe. Acest relief de câmpie alluvională este situat aproape la nivelul mării, ceea ce face ca mareele să influențeze cursul apei pe sute de kilometri în amonte. Valea este caracterizată printr-o fragmentare extremă a terenului, cu mii de mici insule și peninsule formate prin eroziunea fluvială și depunerea de sedimente în zonele de mangrove. Relieful de aici este dominat de apă și vegetație luxuriantă, creând un peisaj de „amfibie” unde pământul și râul se întrepătrund constant. Solurile argiloase și bogate din valea Casamance sunt ideale pentru cultura tradițională a orezului, transformând regiunea într-un tablou verde imens în timpul sezonului ploios. Această configurație a terenului a definit modul de viață al populației Diola, bazat pe navigația cu piroga și managementul ingenios al inundațiilor.",
+      "factsAdvanced": [
+        "Altitudinea medie a văii este de sub 20 de metri deasupra mării.",
+        "Relief tipic de estuar ramificat cu mii de canale (bolongs).",
+        "Valea este mărginită de platouri lateritice acoperite de păduri tropicale.",
+        "Inundațiile sezoniere sunt fundamentale pentru fertilizarea orezăriilor.",
+        "Include zone de mlaștini sărate și mangrove gigantice.",
+        "Este cea mai bogată zonă în sedimente fluviale din Senegal.",
+        "Relieful permite transportul naval de mare capacitate până la Ziguinchor.",
+        "Configurația văii creează un habitat ideal pentru fauna acvatică tropicală."
+      ]
+    },
+    {
+      "id": "faleme-relief-v2",
+      "descriptionAdvanced": "Relieful Falémé, situat la granița de est a Senegalului cu Mali, este unul dintre cele mai variate și stâncoase peisaje ale țării. Valea râului Falémé a tăiat adânc în formațiunile de gresie și roci cristaline vechi, creând versanți abrupți, defilee înguste și terase alluviale spectaculoase. Din punct de vedere geologic, acest relief face parte din scutul vest-african, fiind bogat în zăcăminte minerale, în special aur și fier. Terenul este marcat de prezența unor inselberguri (dealuri izolate de piatră) care se ridică deasupra savanei, oferind un aspect dramatic orizontului. Relieful Falémé este un loc al contrastelor, unde malurile râului sunt verzi și umbroase, în timp ce platourile înconjurătoare sunt aride și stâncoase. Această regiune este greu accesibilă, ceea ce a permis conservarea unor forme de relief virgine și a unor situri arheologice preistorice de o importanță deosebită.",
+      "factsAdvanced": [
+        "Relief modelat de cel mai important afluent al fluviului Senegal.",
+        "Prezintă cele mai vechi formațiuni geologice de pe teritoriul Senegalului.",
+        "Cunoscut pentru „platourile de fier” care domină peisajul de est.",
+        "Include praguri stâncoase care formează cascade mici în sezonul ploios.",
+        "Relieful este presărat cu mine artizanale de aur vechi de secole.",
+        "Valea râului servește drept coridor natural între masivul Fouta Djallon și nord.",
+        "Versanții sunt supuși unei eroziuni hidrice intense în timpul iernii.",
+        "Oferă un peisaj de o sălbăticie rară, neatins de urbanizare."
+      ]
+    },
+    {
+      "id": "saloum-delta-relief-v2",
+      "descriptionAdvanced": "Relieful Deltei Saloum este o structură complexă de câmpie costieră joasă, situată la sud de peninsula Cap-Vert, unde acțiunea râurilor Sine și Saloum se combină cu forța mareelor Oceanului Atlantic. Această unitate de relief este un labirint geofizic compus din sute de insule nisipoase, lagune de mică adâncime și canale întortocheate numite „bolongs”. Un element distinctiv al reliefului sunt movilele de scoici (amas coquilliers), structuri de relief antropogen create de-a lungul a peste două milenii de către populațiile locale, care acum formează insulițe solide acoperite de baobabi. Relieful deltei este în continuă schimbare, fiind modelat de transportul de sedimente și de variațiile nivelului mării. Este un relief „moale”, dominat de păduri de mangrove care stabilizează malurile împotriva eroziunii marine, creând un peisaj unic în Senegal unde linia țărmului este imposibil de definit cu precizie.",
+      "factsAdvanced": [
+        "Înscris în Patrimoniul Mondial UNESCO pentru valoarea sa naturală și culturală.",
+        "Relieful include peste 200 de insule, dintre care multe sunt nelocuite.",
+        "Movilele de scoici ating înălțimi de până la 10 metri deasupra apei.",
+        "Dunele de nisip de la exterior protejează deltă de valurile Atlanticului.",
+        "Este un relief de submersie unde mareele pătrund adânc în interior.",
+        "Canalele (bolongs) au adâncimi variate, permițând doar navigația cu piroga.",
+        "Include zone de „tannes” – câmpii sărate sterile formate prin evaporare.",
+        "Relieful deltei joacă un rol vital în protecția costieră regională."
+      ]
+    },
+    {
+      "id": "kolda-hochebene-v2",
+      "descriptionAdvanced": "Podișul Kolda, situat în regiunea Haute Casamance din sudul Senegalului, reprezintă un relief de platou lankás și fertil, care face tranziția între văile adânci ale sudului și savanele estice. Acest relief este caracterizat prin soluri alluviale și feruginoase profunde, care rețin bine umiditatea, făcând din Kolda una dintre cele mai bune zone agricole ale țării. Platoul nu prezintă altitudini mari, dar este marcat de o succesiune de dealuri joase și văi largi unde se acumulează apa de ploaie. Din punct de vedere geologic, relieful este format din gresii și laterit, oferind culori calde pământului. Această configurație a terenului este ideală pentru creșterea animalelor la scară mare și pentru culturile de cereale și bumbac. Relieful podișului Kolda, cu pășunile sale verzi și pădurile de akác, oferă o imagine de prosperitate și belșug natural, fiind „inima verde” a economiei rurale din sudul Senegalului.",
+      "factsAdvanced": [
+        "Unul dintre cele mai fertile platouri sedimentare din West Africa.",
+        "Relieful susține o activitate zootehnică intensă (bovine Ndama).",
+        "Altitudinea medie variază între 50 și 100 de metri.",
+        "Este străbătut de numeroși afluenți ai râului Casamance.",
+        "Podișul beneficiază de un regim pluviometric generos.",
+        "Relieful permite mecanizarea agriculturii mai ușor decât în deltele din vest.",
+        "Include zone de savană împădurită cu valoare ecologică ridicată.",
+        "Satele sunt dispuse liniar de-a lungul principalelor axe de relief."
+      ]
+    },
+    {
+      "id": "thies-plateau-v2",
+      "descriptionAdvanced": "Podișul Thiès este o formă de relief dominantă în vestul Senegalului, ridicându-se ca o treaptă abruptă deasupra câmpiei de coastă. Acest platou calcaros și marno-lateritic culminează la aproximativ 130 de metri altitudine, oferind o barieră naturală între peninsula Cap-Vert și interiorul țării. Relieful este marcat de o faleză impunătoare (Falaise de Thiès) care privește spre vest, oferind vederi spectaculoase spre Dakar. Platoul este bogat în resurse minerale, în special fosfați, a căror exploatare a modelat micro-relieful prin mari cariere la suprafață. Configurația sa plană la partea superioară a favorizat dezvoltarea nodului de transport de la Thiès și a numeroaselor instalații militare. Din punct de vedere climatic, relieful podișului Thiès creează o zonă mai răcoroasă și mai vântoasă decât câmpiile învecinate, influențând agricultura locală și oferind un cadru natural distinctiv în peisajul senegalez.",
+      "factsAdvanced": [
+        "Cea mai importantă formă de relief din vestul țării, după mamelle-le vulcanice.",
+        "Relieful este format în principal din calcare eocene.",
+        "Include depozite masive de fosfați de alumină și calciu.",
+        "Faleza de la Thiès este o ruptură geologică spectaculoasă.",
+        "Relieful a permis instalarea primelor linii de cale ferată spre interior.",
+        "Constituie un rezervor hidrologic important pentru regiunea Dakar.",
+        "Platoul este parțial acoperit de păduri clasate protejate.",
+        "Configurația sa oferă un avantaj strategic militar istoric."
+      ]
+    },
+    {
+      "id": "sine-ebene-v2",
+      "descriptionAdvanced": "Câmpia Sine este o unitate de relief situată în centrul-vestul Senegalului, reprezentând nucleul istoric al Regatului Sine. Acest relief este o câmpie nisipoasă alluvională, ușor vălurită, care se întinde de-a lungul cursului inferior al râului Sine. Caracteristica principală a reliefului este prezența masivă a baobabilor monumentali, care dau câmpiei un aspect de savană de parc natural. Solurile sunt ușoare și bine drenate, fiind perfect adaptate culturii arahidelor și a köles-ului (meiului). Relieful câmpiei Sine este marcat de o prezență umană străveche, vizibilă prin numeroasele movile și situri megalitice care punctează peisajul. Deși altitudinea este redusă, variațiile subtile ale terenului determină zonele de acumulare a apei, esențiale pentru satele Serer care au modelat acest relief prin practici agricole durabile timp de secole. Este o câmpie care emană liniște și o legătură profundă între pământ și cultura locală.",
+      "factsAdvanced": [
+        "Inima regiunii agricole Fatick, celebră pentru arahide.",
+        "Relief de câmpie de acumulare cu dune vechi fixate.",
+        "Cunoscută pentru densitatea record de Adansonia digitata (baobab).",
+        "Relieful este modelat de inundațiile periodice ale râului Sine.",
+        "Include numeroase zone de pășunat pentru cirezile transhumante.",
+        "Geografia locului a favorizat conservarea siturilor megalitice UNESCO.",
+        "Este o regiune cu un potențial turistic cultural și peisagistic ridicat.",
+        "Altitudinea scăzută face zona vulnerabilă la salinizarea solului dinspre deltă."
+      ]
+    },
+    {
+      "id": "gambia-niederung-v2",
+      "descriptionAdvanced": "Depresiunea sau Lunca râului Gambia în Senegal este o unitate de relief alluvională joasă, situată în sud-estul și centrul-sudul țării. Acest relief este format dintr-o fâșie de teren inundabil care însoțește cursul maiestuos al râului Gambia, fiind delimitat de platourile lateritice învecinate prin versanți lankáși. Natura reliefului este marcată de depuneri bogate de mâl și nisip, care creează o fertilitate naturală excepțională. Lunca râului Gambia este o zonă de mlaștini, păduri-galerie și pajiști umede, care funcționează ca un rezervor de biodiversitate în perioadele de secetă. Relieful se lărgește considerabil în zona de câmpie, formând meandre spectaculoase și brațe moarte (oxbow lakes). Această formă de relief este esențială pentru agricultura de subzistență a regiunii, oferind condiții ideale pentru cultura orezului și a legumelor de sezon, fiind totodată inima ecologică a sudului Senegalului.",
+      "factsAdvanced": [
+        "Relief format prin eroziunea și sedimentarea unuia dintre marile râuri africane.",
+        "Include zone de pădure tropicală umedă pe malurile cele mai joase.",
+        "Lunca este inundată periodic, oferind nutrienți solului agricol.",
+        "Altitudinea este semnificativ mai mică decât a platourilor din jur.",
+        "Găzduiește ecosisteme unice de apă dulce și zonă intertidale.",
+        "Relieful este un coridor vital pentru deplasarea mamiferelor mari.",
+        "Formează bazine naturale de pescuit artizanal foarte productive.",
+        "Este un sit de o frumusețe sălbatică, dominat de arbori giganți de kapok."
+      ]
+    },
+    {
+      "id": "senegal-delta-ebene-v2",
+      "descriptionAdvanced": "Câmpiile Deltei Senegal reprezintă cea mai nordică unitate de relief a țării, fiind o zonă de o orizontalitate aproape perfectă unde fluviul Senegal se divide într-o rețea complexă de brațe înainte de a se vărsa în ocean. Acest relief este compus din mlaștini, lagune, lacuri (precum Djoudj) și „tannes” – zone de pământ sărat și golaș. Geneza reliefului este legată de fluctuațiile nivelului mării în cuaternar și de acumularea masivă de aluviuni fluviale. Delta este protejată de forța oceanului prin cordoane litorale nisipoase, precum faimoasa Langue de Barbarie. Relieful jos a permis realizarea unor mari proiecte de hidro-amenajare, transformând delta într-un sistem controlat de diguri și canale pentru cultura orezului. Este un relief extrem de fragil, sensibil la schimbările climatice și la intruziunea salină, reprezentând totodată unul dintre cele mai importante sanctuare naturale pentru păsările migratoare din lume.",
+      "factsAdvanced": [
+        "Relief tipic de deltă de submersie, extrem de plat.",
+        "Altitudinea maximă depășește rareori 5-10 metri.",
+        "Include cel mai mare sanctuar ornitologic din Africa de Vest (Djoudj).",
+        "Formațiunile de „tannes” sunt specifice acestui relief arid și sărat.",
+        "Relieful este modelat continuu de vânturile alizee și de curentul râului.",
+        "Barajul Diama a modificat fundamental dinamica reliefului deltaic.",
+        "Este o zonă de importanță strategică pentru securitatea alimentară.",
+        "Delta Senegalului este recunoscută ca Rezervație a Biosferei UNESCO."
+      ]
+    },
+    {
+      "id": "lompoul-relief-v2",
+      "descriptionAdvanced": "Relieful Lompoul este o formațiune geologică spectaculoasă, reprezentând singurul sit de deșert de dune active din Senegal. Situat între regiunile Dakar și Saint-Louis, acest relief de tip „erg” se întinde pe o suprafață relativ mică, dar impresionează prin înălțimea și culoarea dunelor sale. Nisipul fin, de o nuanță ocru-portocalie, este modelat de vânturile atlantice în creste ascuțite și văi line, oferind un peisaj tipic saharian în inima regiunii costiere. Din punct de vedere geomorfologic, Lompoul este un martor al perioadelor mai aride din istoria Africii, fiind un sistem de dune mobile care se deplasează spre sud-vest. Relieful oferă un contrast izbitor cu savana de akác din jur, creând o experiență vizuală unică. Depresiunile dintre dune rețin adesea o umiditate reziduală, permițând creșterea unor tufe izolate care stabilizează parțial nisipul, făcând din acest loc un punct de atracție major pentru ecoturism.",
+      "factsAdvanced": [
+        "Relief de dune vii, mobile, cu nisip bogat în cuarț și oxizi.",
+        "Altitudinea dunelor poate atinge 40 de metri deasupra nivelului de bază.",
+        "Se întinde pe aproximativ 18 kilometri pătrați de-a lungul coastei.",
+        "Relieful este într-o transformare zilnică sub acțiunea alizeelor.",
+        "Nisipul portocaliu este o caracteristică rară în peisajul costier senegalez.",
+        "Formează o barieră naturală între ocean și interiorul agricol.",
+        "Accesul este limitat la vehicule speciale din cauza pantei dunelor.",
+        "Este considerat „Micul Sahara” al Senegalului datorită reliefului său."
+      ]
+    }
+  ]
+}

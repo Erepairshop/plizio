@@ -1,0 +1,20 @@
+{
+  "lang": "en",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEthiopiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dembidolo-cities-v2",
+      "descriptionAdvanced": "Dembidolo is a growing market town in western Ethiopia and serves as the administrative capital of the Kellem Welega Zone in the Oromia Region. Situated in a coffee-producing area, the town benefits from the fertile highlands, facilitating local trade. It has seen significant development through the establishment of Dembidolo University, which has spurred educational growth and local infrastructure improvements. The town also functions as a transportation hub for the western border regions. Geography K7 — administrative centers and agricultural trade.",
+      "factsAdvanced": ["Capital of the Kellem Welega Zone.", "Home to Dembidolo University.", "Regional coffee trading hub.", "Essential transportation link for western regions.", "Surrounded by fertile agricultural land.", "Rapidly developing educational center."]
+    }
+  ]
+}

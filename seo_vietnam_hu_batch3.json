@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "phu-ly-cities-v2",
+      "descriptionAdvanced": "Phủ Lý Hà Nam tartomány székhelye, amely a Đáy-folyó partján fekszik, és stratégiai közlekedési csomópontként köti össze az ország északi részét a délebbi területekkel. A város a vietnámi háború pusztításai utáni újjáépítés szimbóluma, amely ma modern infrastruktúrával és a közeli, világhírű Tam Chúc-pagodakomplexummal vonzza a látogatókat. Történelem K8 — újjáépítés és vallási turizmus.",
+      "factsAdvanced": [
+        "Hà Nam tartomány közigazgatási központja",
+        "A Đáy-folyó és a vizek városa",
+        "A Tam Chúc-pagoda a világ egyik legnagyobb komplexuma",
+        "Központi csomópont az észak-déli közlekedési tengelyen",
+        "Gyors ipari növekedés az elmúlt évtizedben",
+        "A helyi konyha híres a különleges folyami halételeiről"
+      ]
+    },
+    {
+      "id": "ninh-binh-cities-v2",
+      "descriptionAdvanced": "Ninh Bình a 'szárazföldi Halong-öbölként' emlegetett régió központja, amely lenyűgöző karsztformációival és gazdag történelmi emlékeivel Vietnám egyik leglátogatottabb turisztikai célpontja. A várost körülvevő Tràng An tájegység az UNESCO Világörökség része, ahol a folyóparti barlangok, pagodák és rizsföldek egyedülálló ökoszisztémát alkotnak. Földrajz K7 — karsztvidékek és világörökség.",
+      "factsAdvanced": [
+        "A Tràng An világörökségi terület kapuja",
+        "Hoa Lư volt az ország fővárosa a 10. században",
+        "A Bái Đính-pagoda Délkelet-Ázsia egyik legnagyobbja",
+        "Látványos mészkő-hegységek és folyami barlangok övezik",
+        "Népszerű forgatási helyszín nemzetközi filmekhez",
+        "Gazdag biodiverzitás a vizes élőhelyeken"
+      ]
+    },
+    {
+      "id": "bac-giang-cities-v2",
+      "descriptionAdvanced": "Bắc Giang a Hanoitól északkeletre fekvő tartomány székhelye, amely dinamikus fejlődésen megy keresztül az ipari és mezőgazdasági termelés integrációjával. A város a hegyvidéki régiók és az alföld határán fekszik, amely különleges földrajzi adottságokat és változatos kultúrát biztosít a lakosságnak. Földrajz K6 — ipari fejlődés a hegyvidék peremén.",
+      "factsAdvanced": [
+        "Bắc Giang tartomány gazdasági központja",
+        "Híres a kiváló minőségű licsi-termesztésről (Lục Ngạn)",
+        "Az ipari parkok egyik leggyorsabb fejlődésű régiója",
+        "A tartomány területének jelentős része hegyvidéki",
+        "Fontos kereskedelmi útvonal Kína irányába",
+        "Élénk helyi kulturális fesztiválok jellemzik"
+      ]
+    }
+  ]
+}

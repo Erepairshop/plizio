@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts",
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "br-amazon-river-nature-v2",
+      "descriptionAdvanced": "Der Amazonas ist der wasserreichste Fluss der Erde und bildet das Herzstück des größten Regenwaldgebiets unseres Planeten. Sein komplexes System aus Nebenflüssen durchzieht den gesamten Norden Brasiliens und beherbergt eine unübertroffene Artenvielfalt. Der Fluss ist eine Lebensader für Millionen Menschen und spielt eine entscheidende Rolle für das Weltklima. Sachkunde K4 – tropische Ökosysteme.",
+      "factsAdvanced": [
+        "Größter Wasserabfluss weltweit",
+        "Wichtigstes Regenwald-Ökosystem",
+        "Länge: ca. 6.400 km",
+        "Enorme Artenvielfalt",
+        "Wichtiger Klimaregulator",
+        "Bedeutende Lebensader im Norden"
+      ]
+    },
+    {
+      "id": "br-iguazu-river-nature-v2",
+      "descriptionAdvanced": "Der Iguaçu-Fluss ist weltbekannt für die spektakulären Wasserfälle an der Grenze zwischen Brasilien und Argentinien, die zu den größten der Welt gehören. Das Flusssystem schlängelt sich durch subtropischen Wald und bildet eine der beeindruckendsten Naturschönheiten Südamerikas. Die Wasserfälle sind seit 1984 Teil des UNESCO-Welterbes. Erdkunde K7 – Flusssysteme und Naturmonumente.",
+      "factsAdvanced": [
+        "Bekannt für Iguaçu-Wasserfälle",
+        "UNESCO-Welterbe seit 1984",
+        "Grenzfluss zu Argentinien",
+        "Subtropisches Waldökosystem",
+        "Enorme Wassermengen",
+        "Wichtiges Tourismusziel"
+      ]
+    },
+    {
+      "id": "br-mount-roraima-nature-v2",
+      "descriptionAdvanced": "Der Berg Roraima ist ein Tafelberg an der Grenze von Brasilien, Venezuela und Guyana und gehört zu den ältesten geologischen Formationen der Erde. Seine markante, flache Gipfelform und steilen Felswände beherbergen eine Vielzahl an endemischen Pflanzenarten, die es nirgendwo sonst gibt. Er ist ein geologisches Wunder und eine wichtige Forschungsstätte. Erdkunde K7 – Geologie und Gebirgsbildung.",
+      "factsAdvanced": [
+        "Tafelberg (Tepui)",
+        "Grenzpunkt (Brasilien, Ven, Guy)",
+        "Geologisch sehr alt",
+        "Hohe Zahl endemischer Arten",
+        "Steile Felswände",
+        "Markante flache Gipfelform"
+      ]
+    },
+    {
+      "id": "br-rj-cristo-redentor-landmarks-v2",
+      "descriptionAdvanced": "Die Christusstatue 'Cristo Redentor' thront auf dem Berg Corcovado in Rio de Janeiro und ist eines der modernen Weltwunder. Die 30 Meter hohe Statue wurde 1931 fertiggestellt und gilt als das bedeutendste Wahrzeichen Brasiliens. Sie bietet einen unvergleichlichen Blick über die Stadt und die Bucht und ist ein Symbol für die kulturelle und religiöse Identität des Landes. Geschichte K8 – Bauwerke des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Eines der modernen Weltwunder",
+        "Bauzeit: 1922–1931",
+        "Standort: Corcovado-Berg",
+        "Höhe der Statue: 30 m",
+        "Material: Beton und Speckstein",
+        "Symbol für Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "br-rj-maracana-landmarks-v2",
+      "descriptionAdvanced": "Das Maracanã-Stadion in Rio de Janeiro ist eine der legendärsten Sportstätten der Welt und ein Symbol für die brasilianische Leidenschaft für Fußball. Es wurde für die Weltmeisterschaft 1950 gebaut und hat bei zahlreichen historischen Finalspielen als Bühne gedient. Mit seiner monumentalen Architektur ist es ein fester Bestandteil der Sportgeschichte und der Identität Rios. Geschichte K8 – Sporthistorie des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Eröffnung: 1950",
+        "Legendäres Fußballstadion",
+        "Austragungsort zahlreicher WM-Spiele",
+        "Monumentale Architektur",
+        "Symbol für brasilianische Leidenschaft",
+        "Wichtiger Standort in Rio"
+      ]
+    }
+  ]
+}

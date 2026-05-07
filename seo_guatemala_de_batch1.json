@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gt-mixco-cities-v2",
+      "descriptionAdvanced": "Mixco ist die zweitgrößte Stadt in Guatemala und liegt direkt neben der Hauptstadt, weshalb sie stark in die Metropolregion eingebunden ist. Gegründet wurde sie im Jahr 1526 von den spanischen Konquistadoren nach dem Fall der alten Maya-Stadt Zaculeu. Heute ist Mixco vor allem als Wohnstadt für viele Pendler bekannt, besitzt aber eine eigene dynamische Wirtschaft, insbesondere im Dienstleistungssektor und Einzelhandel. Ein kulturelles Highlight der Stadt ist das jährliche Fest der Schutzpatronin Virgen del Rosario de Morenos, das im Januar gefeiert wird. Kulinarisch berühmt ist Mixco im ganzen Land für seine traditionellen 'Chicharrones' (frittierte Schweineschwarte) und Schokolade. Die Nähe zu Guatemala-Stadt sorgt für eine dichte Besiedlung und stark befahrene Verkehrsachsen, die das tägliche Leben prägen. Geografie K7 — Zentralamerika.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1526 nach der Eroberung der Region gegründet.",
+        "Sie ist die zweitbevölkerungsreichste Stadt Guatemalas mit über 500.000 Einwohnern.",
+        "Mixco liegt auf einer durchschnittlichen Höhe von etwa 1.700 Metern über dem Meeresspiegel.",
+        "Im Januar feiert die Stadt ihr wichtigstes Patronatsfest zu Ehren der Jungfrau des Rosenkranzes.",
+        "Die Stadt ist national berühmt für die Produktion von Chicharrones.",
+        "Zusammen mit Villa Nueva und anderen Vororten bildet Mixco die größte Metropolregion Zentralamerikas."
+      ]
+    },
+    {
+      "id": "gt-puerto-barrios-cities-v2",
+      "descriptionAdvanced": "Puerto Barrios ist der wichtigste karibische Seehafen Guatemalas und die Hauptstadt des Departamentos Izabal. Die Stadt wurde am 19. Juli 1895 vom damaligen Präsidenten Justo Rufino Barrios gegründet, um dem Land einen Zugang zum Atlantischen Ozean zu verschaffen. Jahrelang wurde die Entwicklung der Stadt stark durch die amerikanische United Fruit Company geprägt, die hier einen Umschlagplatz für Bananen aufbaute. Noch heute ist der Hafen von entscheidender Bedeutung für den Export von Agrargütern und den Import von Industriewaren. Das tropische Klima und die Lage an der Bucht von Amatique verleihen der Stadt ein einzigartiges, von karibischen Einflüssen geprägtes Flair. Neben der Schifffahrt gewinnt auch der Tourismus an Bedeutung, da Puerto Barrios als Ausgangspunkt für Bootsfahrten nach Livingston oder Belize dient. Geografie K8 — Häfen und Welthandel.",
+      "factsAdvanced": [
+        "Die offizielle Gründung der Stadt erfolgte am 19. Juli 1895.",
+        "Der Hafen wurde nach dem Präsidenten Justo Rufino Barrios benannt.",
+        "Die Stadt liegt an der Bucht von Amatique, einem Teil des Golfs von Honduras.",
+        "Im frühen 20. Jahrhundert baute die United Fruit Company hier massive Infrastruktur auf.",
+        "Heute gehört der benachbarte Hafen Santo Tomás de Castilla administrativ zu Puerto Barrios.",
+        "Die Region verzeichnet ein tropisches Regenwaldklima mit hohen Niederschlägen."
+      ]
+    },
+    {
+      "id": "gt-huehuetenango-cities-v2",
+      "descriptionAdvanced": "Huehuetenango liegt im Nordwesten Guatemalas und ist die Hauptstadt des gleichnamigen Departamentos. Die Stadt befindet sich am Fuße der gewaltigen Cuchumatanes-Gebirgskette und ist historisch eng mit der Mam-Maya-Kultur verbunden. Nur wenige Kilometer vom Zentrum entfernt liegen die präkolumbischen Ruinen von Zaculeu, der alten Hauptstadt des Mam-Reiches, die 1525 nach einer langen Belagerung durch die Spanier fiel. Heute ist Huehuetenango ein wichtiges Handelszentrum, vor allem für den Kaffeemarkt, da die umgebenden Hochländer einige der besten Kaffeesorten der Welt hervorbringen. Die Stadt ist ein wichtiger Verkehrsknotenpunkt für Reisen nach Mexiko und ins tiefe Hochland. Durch die Höhe herrscht ein gemäßigtes, angenehmes Klima, das Landwirtschaft und Tourismus begünstigt. Geschichte K8 — Maya-Kultur und Konquista.",
+      "factsAdvanced": [
+        "Die Stadt liegt auf einer Höhe von 1.901 Metern über dem Meeresspiegel.",
+        "Die benachbarten Ruinen von Zaculeu wurden im 20. Jahrhundert teilweise rekonstruiert.",
+        "Der Name stammt aus dem Nahuatl und bedeutet übersetzt etwa 'Ort der Alten'.",
+        "Die Region produziert international anerkannten Hochlandkaffee (SHB - Strictly Hard Bean).",
+        "Huehuetenango grenzt an Mexiko und ist ein zentraler Durchgangsort auf der Panamericana.",
+        "Das gleichnamige Departamento hat die höchste Anzahl an gesprochenen indigenen Sprachen im Land."
+      ]
+    },
+    {
+      "id": "gt-santa-cruz-del-quiche-cities-v2",
+      "descriptionAdvanced": "Santa Cruz del Quiché ist die lebhafte Hauptstadt des Departamentos Quiché und liegt im zentralen Hochland Guatemalas. Die Stadt wurde 1539 von den Spaniern unweit der zerstörten K'iche'-Hauptstadt Q'umarkaj (Utatlán) gegründet. Diese historischen Ruinen liegen nur wenige Kilometer entfernt und zeugen von der einstigen Macht des K'iche'-Reiches vor der Ankunft der Europäer. Das heutige Stadtbild ist durch einen großen zentralen Markt geprägt, auf dem indigene Bauern aus der gesamten Region ihre landwirtschaftlichen Produkte und traditionellen Textilien anbieten. Die mehrheitliche Bevölkerung gehört der K'iche'-Ethnie an, was die Erhaltung alter Bräuche und Traditionen im Alltag deutlich sichtbar macht. In der großen Kathedrale am Hauptplatz spiegelt sich die koloniale Vergangenheit der Stadt wider. Sachkunde K5 — Traditionelle Märkte.",
+      "factsAdvanced": [
+        "Die Stadt wurde im Jahr 1539 nach der Zerstörung von Q'umarkaj gegründet.",
+        "Sie liegt auf einer beachtlichen Höhe von rund 2.021 Metern.",
+        "Der Großteil der Einwohner spricht K'iche' als Muttersprache.",
+        "Die nahegelegenen Ruinen von Q'umarkaj waren einst das politische Zentrum des K'iche'-Reiches.",
+        "Im Zentrum der Stadt steht ein markanter, aus Stein erbauter Uhrenturm.",
+        "Die lokale Wirtschaft stützt sich auf Subsistenzlandwirtschaft und Kunsthandwerk."
+      ]
+    },
+    {
+      "id": "gt-chimaltenango-cities-v2",
+      "descriptionAdvanced": "Chimaltenango ist eine strategisch wichtige Stadt im zentralen Hochland von Guatemala und Hauptstadt des gleichnamigen Departamentos. Sie wurde 1526 durch den spanischen Eroberer Pedro de Portocarrero gegründet. Dank ihrer Lage an der Panamericana-Autobahn ist sie ein essenzieller Handelsknotenpunkt zwischen der Hauptstadt und dem westlichen Hochland. Die Stadt ist stark landwirtschaftlich geprägt; die umliegenden Täler sind berühmt für den Anbau von Gemüse, Mais und Bohnen, die auch nach El Salvador exportiert werden. Eine Besonderheit der Stadt ist der koloniale Brunnen auf dem zentralen Platz, der exakt auf der kontinentalen Wasserscheide liegt: Eine Seite fließt in den Pazifik, die andere in den Atlantik. In der Region um Chimaltenango wird zudem eine florierende Textil- und Ziegelindustrie betrieben. Geografie K7 — Kontinentale Wasserscheiden.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1526 kurz nach der spanischen Eroberung gegründet.",
+        "Sie liegt auf 1.800 Metern Höhe an einer kontinentalen Wasserscheide.",
+        "Ein großer Teil des zentralamerikanischen Gemüses wird in diesem Departamento angebaut.",
+        "Der Name stammt aus dem Nahuatl und bedeutet 'Ort des Schildes'.",
+        "Die Panamericana (CA-1) durchschneidet das Stadtzentrum und sorgt für enormen Verkehr.",
+        "Die Region ist auch ein Zentrum für die Ziegel- und Dachziegelherstellung."
+      ]
+    },
+    {
+      "id": "gt-mazatenango-cities-v2",
+      "descriptionAdvanced": "Mazatenango ist die pulsierende Hauptstadt des Departamentos Suchitepéquez und liegt in der warmen pazifischen Küstenebene Guatemalas. Die Stadt ist das wichtigste kommerzielle Zentrum der Region und lebt von der intensiven Landwirtschaft im Umland, wo Zuckerrohr, Kaffee, Kautschuk und Kakao angebaut werden. Bekannt ist Mazatenango landesweit vor allem für seinen farbenfrohen Karneval im Februar, der Tausende von Besuchern mit Umzügen, Musik und Tanzveranstaltungen anzieht. Das Klima ist tropisch heiß und feucht, was der Stadt eine üppige, grüne Umgebung verleiht. Die koloniale Architektur vermischt sich heute mit modernen Geschäftshäusern und einem quirligen Markt, der die Bedeutung als Handelsdrehscheibe für den Süden des Landes unterstreicht. Sachkunde K6 — Landwirtschaft in den Tropen.",
+      "factsAdvanced": [
+        "Mazatenango liegt auf einer relativ niedrigen Höhe von 370 Metern.",
+        "Der Name bedeutet in der Nahuatl-Sprache 'Ort der Hirsche'.",
+        "Die Stadt feiert im Februar einen der größten und berühmtesten Karnevale des Landes.",
+        "Das Umland ist ein Zentrum für den kommerziellen Anbau von Zuckerrohr und Kautschuk.",
+        "Die Stadt dient als wichtiger Knotenpunkt für den Verkehr zur Pazifikküste.",
+        "Kakao aus dieser Region wurde schon zu Zeiten der Maya hoch geschätzt."
+      ]
+    },
+    {
+      "id": "gt-retalhuleu-cities-v2",
+      "descriptionAdvanced": "Retalhuleu, von den Einheimischen oft liebevoll 'Reu' genannt, ist die Hauptstadt des gleichnamigen Departamentos im Südwesten Guatemalas. Die Region zeichnet sich durch ein heißes, tropisches Klima aus und ist ein wichtiges Zentrum für die Agrarindustrie, insbesondere für den Anbau von Zuckerrohr, Macadamia und afrikanischer Palme. In den letzten Jahrzehnten hat sich die Stadt zu einem der wichtigsten touristischen Ziele Guatemalas entwickelt, da sich hier große Vergnügungs- und Wasserparks wie Xetulul und Xocomil befinden. Die koloniale Vergangenheit der 1549 gegründeten Stadt ist noch im gut erhaltenen historischen Zentrum mit dem malerischen Zentralpark und dem neoklassizistischen Regierungsgebäude sichtbar. Retalhuleu bietet somit eine einzigartige Mischung aus historischem Erbe und modernem Tourismus. Wirtschaft K7 — Tourismus und Agrarindustrie.",
+      "factsAdvanced": [
+        "Die Stadt wurde offiziell im Jahr 1549 während der Kolonialzeit gegründet.",
+        "Retalhuleu liegt in der pazifischen Tiefebene bei etwa 240 Metern über dem Meeresspiegel.",
+        "Die Freizeitparks Xocomil und Xetulul ziehen jährlich über eine Million Besucher an.",
+        "Der Name der Stadt bedeutet in der K'iche'-Sprache etwa 'Zeichen auf der Erde'.",
+        "Die lokale Wirtschaft profitiert stark vom Anbau von Zuckerrohr und Palmöl.",
+        "Die Stadt besitzt ein historisches Zentrum, das zum nationalen Kulturerbe gehört."
+      ]
+    },
+    {
+      "id": "gt-jalapa-cities-v2",
+      "descriptionAdvanced": "Jalapa ist die Hauptstadt des gleichnamigen Departamentos und liegt in einem fruchtbaren Tal im Südosten Guatemalas. Wegen ihres ausgeglichenen und angenehmen Klimas trägt die Stadt den Spitznamen 'La Morena Climatológica de Oriente' (Die klimatologische Brünette des Ostens). Die Wirtschaft der Region basiert stark auf der Landwirtschaft, wobei Mais, Bohnen, Kaffee und Viehzucht dominieren. Über der Stadt thront der erloschene Vulkan Jumay, der mit über 2.100 Metern Höhe das Landschaftsbild prägt. Jalapa ist weniger stark indigen geprägt als das westliche Hochland; hier dominiert die Ladino-Kultur. Die friedliche Atmosphäre und die umliegenden Naturwunder, wie der nahegelegene Pino-Dulce-Ökopark, machen die Stadt zu einem reizvollen Ort für Naturliebhaber. Geografie K7 — Vulkane und Täler.",
+      "factsAdvanced": [
+        "Die Stadt trägt den Beinamen 'La Morena Climatológica de Oriente'.",
+        "Jalapa liegt auf einer Höhe von rund 1.362 Metern.",
+        "Der Vulkan Jumay ist mit 2.176 Metern die höchste Erhebung in der direkten Umgebung.",
+        "Die Landwirtschaft konzentriert sich auf Kaffee, Mais und Milchproduktion.",
+        "Das Departamento Jalapa wurde 1873 offiziell gegründet.",
+        "Der Name stammt aus dem Nahuatl und bedeutet 'Ort des sandigen Wassers'."
+      ]
+    },
+    {
+      "id": "gt-chiquimula-cities-v2",
+      "descriptionAdvanced": "Chiquimula wird im ganzen Land als 'La Perla de Oriente' (Die Perle des Ostens) bezeichnet und ist das wirtschaftliche Zentrum des östlichen Guatemalas. Die Stadt liegt in einem heißen und trockenen Tal, was das Leben und die Kultur stark beeinflusst. Als Verkehrsknotenpunkt für Reisende und Waren nach Honduras und El Salvador hat Chiquimula eine florierende Handelswirtschaft entwickelt. Trotz des semiariden Klimas wird in der Region Landwirtschaft betrieben, oft mit Hilfe von Bewässerungssystemen. Die Bewohner, zumeist Ladinos, sind bekannt für ihre direkte Art und die starke Cowboy-Kultur, die sich in Festen und Rodeos widerspiegelt. Eine architektonische Sehenswürdigkeit ist die alte Kirche aus der Kolonialzeit, die bei einem Erdbeben zerstört und deren Ruinen teilweise erhalten blieben. Geografie K8 — Klimazonen und Trockenkorridore.",
+      "factsAdvanced": [
+        "Chiquimula ist landesweit als 'La Perla de Oriente' bekannt.",
+        "Die Stadt liegt im sogenannten 'Trockenkorridor' Zentralamerikas.",
+        "Die durchschnittliche Jahrestemperatur ist eine der höchsten in Guatemala.",
+        "Die Stadt dient als wichtiger Transitpunkt in die Nachbarländer Honduras und El Salvador.",
+        "Ein starkes Erdbeben zerstörte 1765 weite Teile der ursprünglichen kolonialen Stadt.",
+        "Die Kultur ist stark von der Landwirtschaft und der Viehzucht geprägt."
+      ]
+    },
+    {
+      "id": "gt-salamá-cities-v2",
+      "descriptionAdvanced": "Salamá ist die ruhige Hauptstadt des Departamentos Baja Verapaz und liegt eingebettet in ein langes, weites Tal. Die Stadt ist berühmt für die Brücke über den Rio Salamá und die Nähe zu wichtigen kolonialen Stätten. Nur wenige Kilometer entfernt befindet sich die Hacienda San Jerónimo, die einst von Dominikanermönchen betrieben wurde und im 16. Jahrhundert die erste Wein- und Zuckerrohrproduktion der Region beheimatete. Das Klima in Salamá ist deutlich trockener als im benachbarten Alta Verapaz, was den Anbau von Tomaten, Mais und Erdnüssen begünstigt. Die Kirche im Stadtzentrum beeindruckt mit wunderschönen, vergoldeten Barockaltären, die zu den besterhaltenen des Landes zählen. Salamá dient auch als Tor zu den feuchteren Nebelwäldern weiter nördlich. Geschichte K7 — Koloniale Missionen.",
+      "factsAdvanced": [
+        "Salamá liegt auf einer Höhe von 940 Metern über dem Meeresspiegel.",
+        "Die koloniale Kirche beherbergt prächtige Barockaltäre aus dem 17. und 18. Jahrhundert.",
+        "In der Nähe liegt San Jerónimo, wo die ersten Zuckermühlen Zentralamerikas standen.",
+        "Das Tal von Salamá markiert den Übergang zwischen trockenem und feuchtem Klima.",
+        "Der Name leitet sich aus der indigenen Sprache ab und bedeutet 'Fluss der Bretter'.",
+        "Die Landwirtschaft konzentriert sich auf Tomaten und Erdnüsse."
+      ]
+    },
+    {
+      "id": "gt-zacapa-cities-v2",
+      "descriptionAdvanced": "Zacapa ist eine heiße, sonnenverwöhnte Stadt im Osten Guatemalas und liegt im Herzen des sogenannten Trockenkorridors. Weltweite Bekanntheit erlangte der Name der Stadt durch den exquisiten Rum 'Ron Zacapa Centenario', der zwar hier seinen Ursprung hat, dessen Reifung jedoch im kühleren Hochland stattfindet. Die regionale Wirtschaft ist stark von der Viehzucht, der Herstellung von hervorragenden Käsesorten und dem Anbau von Tabak und Melonen geprägt. Zacapa war historisch ein wichtiger Knotenpunkt für die guatemaltekische Eisenbahn, woran heute noch ein kleines Eisenbahnmuseum im alten Bahnhof erinnert. Die lokale Kultur ist rustikal, spanisch geprägt und stark mit dem Image tapferer Reiter und Viehzüchter verbunden. Wirtschaft K8 — Exportprodukte und Landwirtschaft.",
+      "factsAdvanced": [
+        "Die Stadt liegt tief im heißen Tal des Motagua-Flusses auf etwa 120 Metern Höhe.",
+        "Zacapa ist international bekannt als Namensgeber für einen der weltbesten Rums.",
+        "Der alte Bahnhof zeugt von der einstigen Bedeutung für die Eisenbahnstrecke zum Atlantik.",
+        "Die Region ist berühmt für die Herstellung traditioneller Käsesorten, insbesondere 'Queso Zacapaneco'.",
+        "Zacapa gehört zum zentralamerikanischen Trockenkorridor mit sehr wenig Niederschlag.",
+        "Große Plantagen um die Stadt produzieren Exportmelonen für den US-Markt."
+      ]
+    },
+    {
+      "id": "gt-jutiapa-cities-v2",
+      "descriptionAdvanced": "Jutiapa trägt den Spitznamen 'La Cuna del Sol' (Die Wiege der Sonne) und ist die östlichste Departamento-Hauptstadt Guatemalas, nahe der Grenze zu El Salvador. Die bergige, aber trockene Landschaft wird landwirtschaftlich intensiv für Viehzucht und den Anbau von Sesam, Bohnen und Sorghum genutzt. Kulturell ist Jutiapa besonders, da es eine starke Ladino-Identität besitzt und die indigene Kultur im Vergleich zu anderen Regionen kaum sichtbar ist. Die Stadt ist ein geschäftiger Handelsort für Grenzgänger und Händler. In der Umgebung befinden sich mehrere erloschene Vulkane wie der Suchitán, die ein raues, aber faszinierendes Landschaftsbild bieten. Die lokale Gastronomie ist berühmt für ihre Milchprodukte, insbesondere Käse und saure Sahne. Geografie K7 — Grenzregionen.",
+      "factsAdvanced": [
+        "Die Stadt wird wegen ihres sonnigen Klimas 'La Cuna del Sol' genannt.",
+        "Jutiapa grenzt direkt an die Republik El Salvador.",
+        "Der Anbau von Sesam und der Handel mit Vieh sind wirtschaftliche Säulen.",
+        "Der Vulkan Suchitán (2.042 m) ist eine der markantesten Erhebungen der Region.",
+        "Jutiapa ist stark von der Mestizen- bzw. Ladino-Kultur geprägt.",
+        "Das Departamento Jutiapa wurde im Jahr 1852 offiziell gegründet."
+      ]
+    },
+    {
+      "id": "gt-santa-lucia-cotzumalguapa-cities-v2",
+      "descriptionAdvanced": "Santa Lucía Cotzumalguapa liegt in der flachen Pazifikebene im Departamento Escuintla und ist ein wahres Kraftzentrum der guatemaltekischen Zuckerindustrie. Rund um die Stadt erstrecken sich schier endlose Zuckerrohrplantagen und mehrere große Zuckermühlen (Ingenios) verarbeiten die Ernte. Historisch und archäologisch ist die Gegend von herausragender Bedeutung, da sie das Zentrum der Pipil-Kultur war. In und um die Stadt, unter anderem in den Ruinen von El Baúl, finden sich eindrucksvolle monumentale Steinskulpturen und Stelen aus der späten klassischen Periode, die eine einzigartige Mischung aus Maya- und mexikanischen Einflüssen zeigen. Das Klima ist extrem heiß und feucht, was das Pflanzenwachstum extrem begünstigt. Geschichte K8 — Präkolumbische Kulturen.",
+      "factsAdvanced": [
+        "Die Stadt ist eines der größten Zentren der Zuckerrohrproduktion in Guatemala.",
+        "Die nahegelegenen Ruinen von El Baúl zeigen faszinierende präkolumbische Steingesichter.",
+        "Die archäologischen Funde der Cotzumalhuapa-Kultur weisen mexikanische Einflüsse auf.",
+        "Santa Lucía liegt auf etwa 350 Metern Höhe in der pazifischen Tiefebene.",
+        "In den Zuckermühlen der Umgebung arbeiten tausende von saisonalen Arbeitern.",
+        "Die Stadt besitzt ein kleines archäologisches Museum (Museo Cultura Cotzumalguapa)."
+      ]
+    },
+    {
+      "id": "gt-puerto-san-jose-cities-v2",
+      "descriptionAdvanced": "Puerto San José war über ein Jahrhundert lang der wichtigste Hafen Guatemalas am Pazifischen Ozean, bevor der moderne Nachbarhafen Puerto Quetzal diese Rolle übernahm. Die 1853 gegründete Hafenstadt zeichnet sich durch ihren markanten schwarzen Vulkansandstrand aus, der ein beliebtes Wochenendziel für die Einwohner von Guatemala-Stadt ist. Obwohl die große Handelsschifffahrt größtenteils abgewandert ist, bleibt Puerto San José ein wichtiges Zentrum für die kommerzielle Fischerei und den Tourismus. In den Gewässern vor der Küste florieren das Sportfischen (insbesondere auf Fächerfisch) und die Krabbenfischerei. Das tropisch-heiße Klima und die entspannte Küstenatmosphäre ziehen zahlreiche nationale Touristen an, die in Strandhäusern und Resorts Erholung suchen. Wirtschaft K7 — Fischerei und Küstentourismus.",
+      "factsAdvanced": [
+        "Puerto San José wurde im Jahr 1853 als Haupthafen am Pazifik gegründet.",
+        "Der Strand der Stadt besteht aus dunklem, eisenhaltigem Vulkansand.",
+        "Der nahegelegene moderne Hafen Puerto Quetzal hat San José im Frachtverkehr abgelöst.",
+        "Die Stadt ist ein weltbekanntes Zentrum für das Sportfischen (Sailfish).",
+        "Der Chiquimulilla-Kanal, eine wichtige Wasserstraße, verläuft in der Nähe der Stadt.",
+        "Die lokale Wirtschaft stützt sich heute vor allem auf Tourismus und Fischerei."
+      ]
+    },
+    {
+      "id": "gt-flores-cities-v2",
+      "descriptionAdvanced": "Flores ist die charmante, auf einer kleinen Insel im Petén-Itzá-See gelegene Hauptstadt des riesigen Dschungel-Departamentos Petén. Die Inselstadt ist über einen Damm mit den Zwillingsstädten Santa Elena und San Benito auf dem Festland verbunden. Flores hat eine tiefgreifende historische Bedeutung: Sie war die letzte unabhängige Maya-Stadt (Tayasal), die erst 1697 – über 150 Jahre nach dem Rest Guatemalas – von den Spaniern erobert wurde. Heute besticht die Stadt durch ihre farbenfrohen Häuser mit roten Dächern, enge Gassen und koloniale Architektur. Sie dient als touristischer Hauptausgangspunkt für Expeditionen zu den berühmten Maya-Ruinen von Tikal, Yaxhá und El Mirador. Das ruhige Inselleben zieht Touristen aus aller Welt an. Geschichte K8 — Die letzte Maya-Festung.",
+      "factsAdvanced": [
+        "Die Inselstadt war als Tayasal bekannt und fiel erst 1697 an die Spanier.",
+        "Flores liegt malerisch auf einer Insel im Petén-Itzá-See.",
+        "Die Stadt ist das touristische Tor zum Tikal-Nationalpark und anderen Maya-Stätten.",
+        "Sie ist durch eine künstliche Dammstraße mit dem Festland verbunden.",
+        "Das Departamento Petén macht etwa ein Drittel der Fläche Guatemalas aus.",
+        "Die Architektur der Insel zeichnet sich durch pastellfarbene, koloniale Gebäude aus."
+      ]
+    },
+    {
+      "id": "gt-totonicapan-cities-v2",
+      "descriptionAdvanced": "Totonicapán, im kühlen westlichen Hochland gelegen, ist eine Stadt mit einer tief verwurzelten indigenen K'iche'-Kultur. Die Stadt ist landesweit berühmt für ihr herausragendes Kunsthandwerk; hier werden wunderschöne glasierte Töpferwaren, bunte Textilien und traditionelle Holzmasken für Folkloretänze hergestellt. Totonicapán hat auch einen wichtigen Platz in der nationalen Geschichte: Im Jahr 1820 führte der indigene Anführer Atanasio Tzul hier einen großen Aufstand gegen die spanischen Steuern an und krönte sich kurzzeitig zum König. Diese rebellische und stolze Haltung spiegelt sich noch heute in den starken kommunalen Organisationen der Stadt wider, die unter anderem die umliegenden Wälder und Wasserquellen selbst verwalten. Das Klima ist aufgrund der Höhe oft kalt und neblig. Geschichte K8 — Indigene Widerstandsbewegungen.",
+      "factsAdvanced": [
+        "Die Stadt liegt auf einer beträchtlichen Höhe von fast 2.500 Metern.",
+        "Im Jahr 1820 führte Atanasio Tzul einen historischen indigenen Aufstand in der Stadt an.",
+        "Totonicapán ist ein landesweites Zentrum für Töpferei und Maskenschnitzerei.",
+        "Die Bevölkerung besteht fast ausschließlich aus Maya K'iche'.",
+        "Die indigenen Gemeinden verwalten ihre eigenen großen Kiefernwälder nachhaltig.",
+        "Das Theater der Stadt gilt als eines der schönsten im Land."
+      ]
+    },
+    {
+      "id": "gt-coatepeque-cities-v2",
+      "descriptionAdvanced": "Coatepeque ist eine der dynamischsten Handelsstädte im Südwesten Guatemalas, gelegen im Departamento Quetzaltenango. Durch die Nähe zur mexikanischen Grenze (Tecún Umán) ist die Stadt zu einem florierenden Umschlagplatz für Waren aller Art geworden. Die Wirtschaft profitiert massiv vom intensiven Kaffeeanbau an den Hängen der umliegenden Vulkane sowie von der Viehzucht und dem Bananenanbau in den tieferen Lagen. Im Zentrum herrscht eine chaotische, aber lebendige Atmosphäre mit riesigen Märkten, auf denen Produkte aus dem In- und Ausland gehandelt werden. Coatepeque, dessen Name aus dem Nahuatl stammt und 'Schlangenberg' bedeutet, verzeichnet aufgrund seiner wirtschaftlichen Bedeutung ein rasantes Bevölkerungswachstum. Geografie K7 — Handelszentren und Grenzökonomie.",
+      "factsAdvanced": [
+        "Coatepeque liegt auf etwa 500 Metern Höhe am Übergang vom Hochland zur Küstenebene.",
+        "Der Stadtname leitet sich aus dem Nahuatl ab und bedeutet 'Schlangenberg'.",
+        "Die Stadt ist ein zentraler Handelsknotenpunkt für Kaffee und landwirtschaftliche Güter.",
+        "Die Nähe zur mexikanischen Grenze befeuert den lokalen und internationalen Handel.",
+        "Coatepeque hat eines der größten Handelsvolumen außerhalb der Hauptstadtregion.",
+        "Im Juli feiert die Stadt ihr farbenfrohes Patronatsfest zu Ehren von Santiago Apóstol."
+      ]
+    },
+    {
+      "id": "gt-san-pedro-carcha-cities-v2",
+      "descriptionAdvanced": "San Pedro Carchá liegt im regenreichen Departamento Alta Verapaz und ist eine der bevölkerungsreichsten Gemeinden des Landes. Die Stadt ist das kulturelle und wirtschaftliche Zentrum der Q'eqchi'-Maya, die hier die absolute Bevölkerungsmehrheit stellen. Carchá wächst rasant und ist stark vom Handel mit Kardamom, Kaffee und Holz geprägt. Durch das Stadtgebiet fließt der Cahabón-Fluss, einer der wichtigsten Flüsse der Region, der nicht nur der Wasserversorgung dient, sondern weiter flussabwärts auch zur Stromerzeugung durch Wasserkraftwerke genutzt wird. Im Zentrum prägt die koloniale Kirche das Bild, während die ständigen Wolken und der feuchte Nieselregen ('chipi chipi') das typische neblige Klima der Verapaces-Region erzeugen. Geografie K7 — Nebelwälder und Landwirtschaft.",
+      "factsAdvanced": [
+        "San Pedro Carchá hat die größte indigene Q'eqchi'-Bevölkerung des Landes.",
+        "Die Wirtschaft basiert stark auf dem Export von Kardamom und Kaffee.",
+        "Die Stadt liegt auf einer Höhe von etwa 1.282 Metern in der Alta Verapaz.",
+        "Der Cahabón-Fluss, der hier vorbeifließt, ist entscheidend für Wasserkraftprojekte.",
+        "Die Region ist berühmt für ihren ständigen, feinen Nieselregen namens 'chipi chipi'.",
+        "In der Nähe befindet sich das Erholungsgebiet und die Stromschnellen von Las Islas."
+      ]
+    },
+    {
+      "id": "gt-san-marcos-cities-v2",
+      "descriptionAdvanced": "San Marcos ist die am höchsten gelegene Departamento-Hauptstadt in Mittelamerika und liegt in einer malerischen Senke des westlichen Hochlands. Gemeinsam mit der unmittelbar angrenzenden Zwillingsstadt San Pedro Sacatepéquez bildet sie ein wichtiges städtisches Zentrum. San Marcos wird stark von seiner Nähe zum Tajumulco, dem höchsten Vulkan Zentralamerikas, geprägt. Die Kälte des Hochlands erfordert den Anbau von Kartoffeln, Weizen und Kälte-resistenten Gemüsesorten. Das Stadtbild ist ruhiger und kolonialer als in der geschäftigen Nachbarstadt San Pedro. Die Einwohner sind eine Mischung aus Ladinos und indigenen Mam. San Marcos erlangte 2012 traurige Berühmtheit, als ein schweres Erdbeben Teile der historischen Infrastruktur zerstörte, die jedoch stetig wieder aufgebaut wird. Geografie K8 — Leben im Hochgebirge.",
+      "factsAdvanced": [
+        "Die Stadt liegt auf einer Höhe von 2.398 Metern, der höchsten aller Departamento-Hauptstädte.",
+        "Der Vulkan Tajumulco (4.220 m), der höchste Punkt Mittelamerikas, liegt in der Region.",
+        "San Marcos bildet mit San Pedro Sacatepéquez eine große urbane Agglomeration.",
+        "Ein schweres Erdbeben der Stärke 7,4 richtete im November 2012 große Schäden an.",
+        "Das kühle Klima begünstigt den Anbau von Kartoffeln und Wollerzeugung.",
+        "Die Stadt wurde am 25. April 1533 von den spanischen Eroberern gegründet."
+      ]
+    },
+    {
+      "id": "gt-barberena-cities-v2",
+      "descriptionAdvanced": "Barberena ist die wichtigste und wirtschaftlich stärkste Stadt im Departamento Santa Rosa, gelegen im südöstlichen Guatemala. Die Stadt ist landesweit bekannt als die 'Hauptstadt der Ananas', da die umliegenden sanften Hügel perfekte Bedingungen für den Anbau dieser süßen Frucht sowie für hochwertigen Kaffee bieten. Durch ihre Lage an der gut ausgebauten Autobahn CA-1 (Panamericana) hat sich Barberena zu einem wichtigen Transit- und Handelsort zwischen Guatemala-Stadt und El Salvador entwickelt. Das Klima ist tropisch bis gemäßigt, was eine sehr diverse Landwirtschaft zulässt. Im Stadtzentrum findet man ein lebhaftes Geschäftstreiben, das von der Agrarindustrie und lokalen Kleinunternehmen angetrieben wird. Sachkunde K5 — Tropische Früchte.",
+      "factsAdvanced": [
+        "Barberena wird in Guatemala oft als 'La Capital de la Piña' (Ananashauptstadt) bezeichnet.",
+        "Die Stadt profitiert enorm von ihrer Lage an der strategischen Panamericana.",
+        "Neben Ananas ist der Anbau von Kaffee eine der wichtigsten Einnahmequellen.",
+        "Die Stadt liegt auf einer Höhe von 1.140 Metern.",
+        "Ursprünglich war der Ort unter dem Namen 'Corral de Piedra' (Steinkorral) bekannt.",
+        "Barberena ist das kommerzielle Herz des Departamentos Santa Rosa."
+      ]
+    },
+    {
+      "id": "gt-jacaltenango-cities-v2",
+      "descriptionAdvanced": "Jacaltenango ist eine faszinierende Stadt im abgelegenen nordwestlichen Hochland des Departamentos Huehuetenango. Sie ist das kulturelle und sprachliche Zentrum der Jacalteco-Maya, die ihre eigene Sprache (Popti') und ihre tief verwurzelten Traditionen bewahren. Die Stadt liegt dramatisch auf einem Plateau, umgeben von tiefen Schluchten und den Ausläufern der Cuchumatanes-Berge. Aufgrund der isolierten Lage hat Jacaltenango eine sehr eigenständige Identität entwickelt. Die Wirtschaft basiert auf dem Anbau von hervorragendem Hochlandkaffee, der an den steilen Hängen gedeiht, sowie auf Mais und Bohnen für den Eigenbedarf. Die lokale Musik, insbesondere die Marimba, und farbenprächtige traditionelle Feste spielen eine zentrale Rolle im gesellschaftlichen Leben. Geografie K7 — Isolierte Berggemeinden.",
+      "factsAdvanced": [
+        "Jacaltenango ist das Herz der Popti'-sprachigen (Jacalteco) Maya-Kultur.",
+        "Die Stadt liegt auf einem Hochplateau etwa 1.438 Meter über dem Meeresspiegel.",
+        "Der Anbau von Qualitätskaffee an den Berghängen ist die wichtigste Einnahmequelle.",
+        "Aufgrund der Abgeschiedenheit haben sich viele uralte Maya-Bräuche hier erhalten.",
+        "Die Region grenzt im Norden an den mexikanischen Bundesstaat Chiapas.",
+        "Im Februar feiert die Stadt die Virgen de Candelaria mit traditionellen Tänzen."
+      ]
+    },
+    {
+      "id": "gt-momostenango-cities-v2",
+      "descriptionAdvanced": "Momostenango ist eine hoch gelegene, kühle Stadt im Departamento Totonicapán, die berühmt ist für ihr handwerkliches und geologisches Erbe. Im ganzen Land schätzt man die hier hergestellten 'Ponchos' (dicke Wolldecken) und andere Wolltextilien, die in heißen Quellen gewaschen und an der Sonne getrocknet werden. Eine außergewöhnliche Naturattraktion sind die 'Los Riscos', bizarre, durch Winderosion geformte Erdsäulen, die aussehen wie versteinerte Miniaturwälder. Die Stadt ist auch ein wichtiges spirituelles Zentrum der Maya-K'iche', wo Hunderte von traditionellen Altären in den umliegenden Hügeln genutzt werden, um nach dem Maya-Kalender Zeremonien abzuhalten. Der Name bedeutet 'Ort der Altäre', was die tiefe Religiosität der Gemeinde unterstreicht. Geschichte K8 — Maya-Spiritualität.",
+      "factsAdvanced": [
+        "Momostenango ist berühmt für die Produktion von hochwertigen Wolldecken (Ponchos).",
+        "Die geologische Formation 'Los Riscos' am Stadtrand ist ein nationales Naturdenkmal.",
+        "Der Name der Stadt stammt aus dem Nahuatl und bedeutet 'Ort der Altäre'.",
+        "Die Stadt ist eines der wichtigsten Zentren für spirituelle Maya-Zeremonien.",
+        "Momostenango liegt auf einer Höhe von über 2.200 Metern im kühlen Hochland.",
+        "In der Gemeinde wird bis heute strikt der 260-tägige Tzolk'in-Maya-Kalender beobachtet."
+      ]
+    },
+    {
+      "id": "gt-solola-cities-v2",
+      "descriptionAdvanced": "Sololá liegt auf einem steilen Bergrücken hoch über dem majestätischen Atitlán-See und ist die Hauptstadt des gleichnamigen Departamentos. Im Gegensatz zu den stark touristischen Dörfern direkt am Seeufer ist Sololá eine authentische indigene Marktstadt, in der die Kaqchikel-Maya die Mehrheit bilden. Die Stadt ist bekannt für ihre traditionelle Kleidung (Traje), die hier von Frauen und Männern gleichermaßen stolz getragen wird. Jeden Dienstag und Freitag findet ein riesiger, farbenfroher Markt statt, der Menschen aus dem gesamten Hochland anzieht, um Gemüse, Stoffe und Alltagsgegenstände zu tauschen. Auf dem Hauptplatz der Stadt kann man die beeindruckende koloniale Architektur bewundern, während man im Hintergrund die Vulkane des Sees erblickt. Sachkunde K5 — Traditionelle Kleidung und Märkte.",
+      "factsAdvanced": [
+        "Sololá liegt auf über 2.100 Metern Höhe mit einem spektakulären Blick auf den Atitlán-See.",
+        "Die Stadt ist eines der wenigen Zentren, wo auch Männer noch traditionell gewebte Hosen tragen.",
+        "Jede Woche finden dienstags und freitags riesige traditionelle Märkte statt.",
+        "Die Bevölkerung besteht mehrheitlich aus indigenen Kaqchikel.",
+        "Im Jahr 1547 wurde das Gebiet offiziell von den Spaniern als Sololá gegründet.",
+        "Die Gemeindeführer (Cofradías) haben großen politischen und spirituellen Einfluss."
+      ]
+    },
+    {
+      "id": "gt-panajachel-cities-v2",
+      "descriptionAdvanced": "Panajachel ist das lebhafteste und touristischste Zentrum am Nordufer des Atitlán-Sees. Die Stadt dient als Hauptknotenpunkt für Reisende, die mit Booten die vielen kleinen Maya-Dörfer rund um den See besuchen. Bereits in den 1960er Jahren wurde 'Pana', wie es liebevoll genannt wird, ein beliebter Zufluchtsort für Hippies und Aussteiger, was ihr den Spitznamen 'Gringotenango' einbrachte. Heute mischen sich hier indigene Händler, die bunte Textilien auf der Calle Santander verkaufen, mit internationalen Touristen. Die Wirtschaft der Stadt basiert fast vollständig auf dem Tourismus, der Gastronomie und dem Kunsthandwerk. Panajachel bietet zudem einen unvergleichlichen Blick auf die drei markanten Vulkane, die den See umrahmen: San Pedro, Tolimán und Atitlán. Geografie K8 — Tourismus an Seenlandschaften.",
+      "factsAdvanced": [
+        "Panajachel ist das wichtigste touristische Tor zum berühmten Atitlán-See.",
+        "Die Calle Santander ist die bekannteste Einkaufsstraße für Kunsthandwerk und Textilien.",
+        "In den 1960er Jahren wurde die Stadt zu einem beliebten Treffpunkt für Hippies.",
+        "Von den Hafenanlagen starten die 'Lanchas' (Boote) zu den anderen Seegemeinden.",
+        "Die Stadt liegt auf rund 1.500 Metern Höhe und genießt ein mildes Klima.",
+        "Der Tourismus und der Verkauf von Souvenirs sind die Haupteinnahmequellen der Einwohner."
+      ]
+    },
+    {
+      "id": "gt-santiago-atitlan-cities-v2",
+      "descriptionAdvanced": "Santiago Atitlán ist die größte indigene Gemeinde am Ufer des Atitlán-Sees und das kulturelle Herz der Tz'utujil-Maya. Die Stadt liegt malerisch eingebettet zwischen den Vulkanen Tolimán und San Pedro an einer Bucht im Süden des Sees. Weltbekannt ist der Ort für den Kult um Maximón (oder San Simón), eine synkretistische Gottheit, die Maya-Glauben und Katholizismus vereint und der täglich Opfergaben wie Rum und Tabak dargebracht werden. Die Bewohner, insbesondere die Frauen, tragen aufwendig gewebte traditionelle Kleidung, bei der violette und gestreifte Muster dominieren. Während des Bürgerkriegs litt die Stadt schwer unter militärischer Repression, wehrte sich jedoch 1990 erfolgreich und zwang die Armee zum Abzug, was Santiago zu einem Symbol für indigenen Widerstand machte. Geschichte K8 — Synkretismus und Bürgerkrieg.",
+      "factsAdvanced": [
+        "Santiago Atitlán ist die Heimat des einzigartigen Maya-Heiligen Maximón.",
+        "Die Stadt wird mehrheitlich von der ethnischen Gruppe der Tz'utujil bewohnt.",
+        "Sie liegt am Südufer des Atitlán-Sees zwischen zwei großen Vulkanen.",
+        "1990 war die Stadt Schauplatz eines Massakers, das den Abzug der Armee erzwang.",
+        "Die Frauen tragen charakteristische Kopfbedeckungen, die wie ein Heiligenschein gewickelt werden.",
+        "Die Wirtschaft basiert auf Kunsthandwerk, Fischerei und dem Anbau von Kaffee."
+      ]
+    }
+  ]
+}

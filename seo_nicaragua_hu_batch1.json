@@ -1,0 +1,309 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jinotega-cities-v2",
+      "descriptionAdvanced": "Jinotega egy hegyvidéki város Nicaragua északi részén, melyet gyakran a "Köd Városának" (Ciudad de las Brumas) neveznek hűvös, felhős klímája miatt. A tengerszint felett mintegy 1000 méteres magasságban fekvő település az ország egyik legfontosabb kávétermelő régiójának központja, amely a nicaraguai kávétermés jelentős részét adja. A város gazdag történelmi múlttal rendelkezik, és a környező Isabelia-hegység lenyűgöző természeti szépséget nyújt. A közeli Apanás-tó fontos hidroelektromos energiaforrás. Földrajz K6 — hegyvidéki éghajlat és mezőgazdaság.",
+      "factsAdvanced": [
+        "Tengerszint feletti magassága körülbelül 1004 méter.",
+        "A várost 1891-ben alapították hivatalosan.",
+        "Lakossága meghaladja az 50 000 főt.",
+        "A régió adja Nicaragua kávétermelésének mintegy 65%-át.",
+        "Gyakran borítja sűrű köd a környező völgyeket.",
+        "A San Juan-katedrális a város egyik fő építészeti nevezetessége."
+      ]
+    },
+    {
+      "id": "rivas-cities-v2",
+      "descriptionAdvanced": "Rivas Nicaragua délnyugati részén, a Csendes-óceán és a Nicaragua-tó közötti keskeny földszoroson fekszik. Stratégiai elhelyezkedése miatt fontos kereskedelmi és közlekedési csomópont a Costa Rica felé tartó forgalom számára. A város környéke gazdag mezőgazdasági terület, ahol elsősorban cukornádat, banánt és dohányt termesztenek. Történelmileg Rivas jelentős szerepet játszott az 1856-os első rivasi csatában, ahol a nicaraguai erők megütköztek William Walker amerikai zsoldoscsapataival. A térség turisztikai szempontból is vonzó a közeli San Juan del Sur strandjai miatt. Történelem K8 — közép-amerikai konfliktusok.",
+      "factsAdvanced": [
+        "A várost 1736-ban alapították Villa de la Purísima Concepción de Rivas néven.",
+        "Körülbelül 30 kilométerre fekszik a Costa Rica-i határtól.",
+        "Az 1856. április 11-i rivasi csata színhelye.",
+        "A város Szent Péter-katedrálisa 1820-ban épült.",
+        "A régió fontos papajatermelő központ.",
+        "A Nicaragua-tó partvidéke csupán néhány kilométerre található keleti irányban."
+      ]
+    },
+    {
+      "id": "juigalpa-cities-v2",
+      "descriptionAdvanced": "Juigalpa Chontales megye székhelye, amely Nicaragua középső részén, a Nicaragua-tó északkeleti partvidékének közelében helyezkedik el. A város az ország egyik legjelentőserősebb állattenyésztő és tejtermelő régiójának gazdasági központja, amit gyakran a szarvasmarha-kereskedelem fővárosaként is emlegetnek. A települést meredek dombok és zöldellő legelők veszik körül, éghajlata trópusi szavannai. A helyi régészeti múzeum gazdag prekolumbián leletanyaggal, köztük ősi kőszobrokkal büszkélkedhet. Földrajz K7 — mezőgazdaság és állattenyésztés.",
+      "factsAdvanced": [
+        "1668-ban alapították spanyol telepesek.",
+        "1879-ben kapott hivatalos városi rangot.",
+        "A Gregorio Aguilar Barea Régészeti Múzeum több mint 100 ősi kőszobrot őriz.",
+        "Gazdasága 70%-ban a szarvasmarha-tenyésztésen alapul.",
+        "Körülbelül 117 kilométerre fekszik a fővárostól, Managuától.",
+        "A Chontales név ősi navatl eredetű, jelentése 'idegenek'."
+      ]
+    },
+    {
+      "id": "boaco-cities-v2",
+      "descriptionAdvanced": "Boaco, melyet a "Kétszintes Városnak" (Ciudad de Dos Pisos) is hívnak, Nicaragua középső részén egy meredek hegyoldalra épült. A különleges topográfia miatt a település utcái teraszosan helyezkednek el, festői kilátást nyújtva a környező völgyekre. A város gazdasága elsősorban a mezőgazdaságra, különösen az állattenyésztésre és a tejfeldolgozásra épül. A térség híres a sajtkészítésről és a hagyományos bőrdíszművességről. A környékbeli hegyek és vízesések vonzóak a természetkedvelők számára. Földrajz K6 — hegyvidéki településszerkezet.",
+      "factsAdvanced": [
+        "A "Kétszintes Város" elnevezést Armando Incer Barquero költő adta a településnek.",
+        "A várost 1895-ben alapították hivatalosan.",
+        "Tengerszint feletti magassága megközelíti az 550 métert.",
+        "Híres a hagyományos 'queso chontaleño' sajt helyi változatáról.",
+        "Évente megrendezik a Szent Jakab apostol tiszteletére tartott lovas fesztivált.",
+        "A város körüli hegyekben számos kisebb vízesés található."
+      ]
+    },
+    {
+      "id": "somoto-cities-v2",
+      "descriptionAdvanced": "Somoto a hondurasi határ közelében, Madriz megyében található történelmi város, amely szűk, kanyargós utcáival és gyarmati építészetével tűnik ki. A település nevét világszerte ismertté tette a közeli Somoto-kanyon (Cañón de Somoto), egy lenyűgöző geológiai képződmény, amelyet a Coco-folyó vájt a sziklákba évmilliók alatt. A város emellett híres a 'rosquillas' nevű, hagyományos kukoricalisztes süteményéről, amely a nicaraguai konyha ikonikus része. A térség klímája szárazabb, mint az ország délebbi részei. Földrajz K7 — kanyonok és vízi erózió.",
+      "factsAdvanced": [
+        "A várost 1589-ben alapították Tepecsomoto néven.",
+        "A híres Somoto-kanyont csak 2004-ben térképezték fel tudományosan cseh és nicaraguai geológusok.",
+        "A kanyon falai néhol elérik a 120-150 méteres magasságot.",
+        "A hagyományos 'rosquillas somoteñas' gyártása több száz helyi családnak ad munkát.",
+        "Az 1661-ben épült Szent Jakab-templom a város legrégebbi épülete.",
+        "A Coco-folyó, Közép-Amerika leghosszabb folyója itt ered."
+      ]
+    },
+    {
+      "id": "ocotal-cities-v2",
+      "descriptionAdvanced": "Ocotal Nueva Segovia megye központja Nicaragua északnyugati részén, csupán 21 kilométerre a hondurasi határtól. A város fenyőerdőkkel borított dombok között fekszik, nevét is a helyi fenyőfafajtáról (ocote) kapta. A régió története során fontos aranybányászati központ volt, ma elsősorban minőségi kávétermesztéséről és fafeldolgozó iparáról ismert. Ocotal történelmi jelentőségű az 1927-es csata okán, amely során Augusto C. Sandino lázadói megütköztek az amerikai tengerészgyalogosokkal. Történelem K8 — 20. századi függetlenségi mozgalmak.",
+      "factsAdvanced": [
+        "A várost 1543-ban alapították spanyol gyarmatosítók.",
+        "Nevét a navatl 'ocotl' szóból kapta, ami gyantás fenyőt jelent.",
+        "Az 1927. július 16-i ocotali csata volt az egyik első eset a történelemben, ahol szervezett zuhanóbombázást hajtottak végre.",
+        "A térség tengerszint feletti magassága nagyjából 600 méter.",
+        "Gazdaságának motorja a magaslati kávé termesztése.",
+        "A La Asunción-templom a 18. század végén épült."
+      ]
+    },
+    {
+      "id": "san-carlos-cities-v2",
+      "descriptionAdvanced": "San Carlos stratégiai elhelyezkedésű kikötőváros, ahol a Nicaragua-tó hatalmas víztömege a Karib-tenger felé tartó San Juan-folyóba ömlik. A város fontos átrakóhelyként szolgált a 19. században a kaliforniai aranyláz idején, amikor az utazók a folyón és a tavon keresztül szelték át Közép-Amerikát. Ma elsősorban ökoturisztikai központ, ahonnan a látogatók a Solentiname-szigetekre vagy az Indio Maíz Biológiai Rezervátumba indulnak. A trópusi klíma és a gazdag vízi élővilág egyedülálló biológiai sokféleséget biztosít a régiónak. Földrajz K6 — folyótorkolatok és trópusi ökoszisztémák.",
+      "factsAdvanced": [
+        "A települést 1526-ban alapították Nueva Jaén néven.",
+        "Az 1550-es években spanyol erődöt építettek itt a kalózok ellen.",
+        "A San Juan-folyó mintegy 192 kilométer hosszan kanyarog a Karib-tengerig.",
+        "A város környéki vizekben édesvízi cápák is előfordultak.",
+        "1977-ben a nicaraguai forradalom egyik kulcsfontosságú bázisa volt.",
+        "Az éves horgászverseny jelentős nemzetközi érdeklődést vonz."
+      ]
+    },
+    {
+      "id": "tipitapa-cities-v2",
+      "descriptionAdvanced": "Tipitapa Managua és a Nicaragua-tó között, a Managua-tó keleti partján helyezkedik el. A várost átszeli a Tipitapa-folyó, amely a két nagy tó közötti kapcsolatot biztosítja, bár aszályos időszakokban gyakran kiszárad. A település termálvizes forrásairól is ismert, amelyek népszerű célpontok a kikapcsolódásra vágyók körében. Stratégiai elhelyezkedése miatt Tipitapa jelentős ipari és logisztikai központtá fejlődött a főváros közelségének köszönhetően. Történelem K8 — közép-amerikai diplomáciai egyezmények.",
+      "factsAdvanced": [
+        "1755-ben alapították spanyol telepesek.",
+        "Az 1927-es Espino Negro-i paktumot itt írták alá, amely véget vetett az alkotmányos háborúnak.",
+        "A Tipitapa-folyó mindössze 35 kilométer hosszú, összekötve a két tavat.",
+        "A helyi Baños Termales a vulkáni tevékenységnek köszönhetően alakult ki.",
+        "A város gazdaságát a maquiladorák (összeszerelő üzemek) is erősítik.",
+        "Népessége meghaladja a 130 000 főt."
+      ]
+    },
+    {
+      "id": "el-viejo-cities-v2",
+      "descriptionAdvanced": "El Viejo történelmi település Chinandega megyében, amely a Szeplőtelen Fogantatás Nemzeti Szentélyéről híres, ami Nicaragua egyik legfontosabb katolikus zarándokhelye. A város gazdasága hagyományosan az agráriumra épül, különös tekintettel a cukornád- és banántermesztésre, amelyeket a termékeny vulkáni talajon termesztenek. A város nyugodt, gyarmati hangulatú, keskeny utcáival és hagyományos házaival. A közeli Cosigüina-vulkán és a Csendes-óceáni partvidék lenyűgöző természeti hátteret biztosítanak. Történelem K7 — gyarmati építészet és vallási hagyományok.",
+      "factsAdvanced": [
+        "A település neve szó szerint 'Az Öreg'-et jelent.",
+        "A híres Szűz Mária szobrot állítólag 1562-ben hozta a városba egy spanyol nemes.",
+        "A szentély 1996-ban kapott Basilica Minor rangot II. János Pál pápától.",
+        "A régióban a 19. század óta nagyüzemi cukornádtermesztés zajlik.",
+        "Nicaragua egyik legkorábban, a 16. században alapított települése.",
+        "Minden év december 6-án tartják a hagyományos 'Lavada de la Plata' tisztítószertartást."
+      ]
+    },
+    {
+      "id": "chichigalpa-cities-v2",
+      "descriptionAdvanced": "Chichigalpa Chinandega megye déli részén fekszik, és leginkább a nicaraguai cukor- és rumipar fellegváraként ismert. Itt található a San Antonio cukorgyár és a világhírű Flor de Caña rumlepárló üzem, amelyek a város gazdaságának gerincét alkotják. A kiterjedt cukornádültetvények meghatározzák a tájképet, míg a közeli San Cristóbal vulkán aktív gőzölgése állandó természeti látványosságot nyújt. A város a mezőgazdasági ipar köré épült fel, lakosságának nagy része a feldolgozóüzemekben dolgozik. Földrajz K8 — ipari mezőgazdaság és vulkáni talajok.",
+      "factsAdvanced": [
+        "A várost 1839-ben alapították, és 1894-ben kapott városi rangot.",
+        "A San Antonio cukorgyár (Ingenio San Antonio) Közép-Amerika egyik legnagyobbja.",
+        "A Flor de Caña rumot 1890 óta készítik a településen.",
+        "A települést hatalmas, több ezer hektáros cukornádültetvények veszik körül.",
+        "A város közelében fekszik Nicaragua legmagasabb vulkánja, a San Cristóbal (1745 m).",
+        "A Chichigalpa név eredete vitatott, valószínűleg pipil nyelven 'nagy tökök földjét' jelenti."
+      ]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "descriptionAdvanced": "Diriamba a Carazo-fennsíkon található, kellemes, hűvös éghajlatú város, amely gazdag kulturális hagyományairól és folklórjáról híres. A város a nicaraguai szatirikus dráma és tánc, az El Güegüense szülőhazája, amelyet az UNESCO a szellemi kulturális örökség részévé nyilvánított. Diriamba történelmileg fontos kávétermelő központ volt, a kávébárók gyönyörű gyarmati kúriái ma is láthatók a belvárosban. A központi parkban álló ikonikus óratorony a település egyik legfőbb nevezetessége. Történelem K8 — szellemi kulturális örökség.",
+      "factsAdvanced": [
+        "A várost 1894-ben nyilvánították hivatalosan várossá.",
+        "Az El Güegüense fesztivált minden év januárjában tartják Szent Sebestyén tiszteletére.",
+        "A Diriamba név Diriangén cacique (törzsfőnök) nevéből ered.",
+        "A város jelképének számító óratornyot 1935-ben építették.",
+        "Tengerszint feletti magassága mintegy 580 méter.",
+        "A 20. század elején a nicaraguai kávéexport jelentős része innen származott."
+      ]
+    },
+    {
+      "id": "jinotepe-cities-v2",
+      "descriptionAdvanced": "Jinotepe Carazo megye közigazgatási központja, amely a csendes-óceáni partvidék és a nagy tavak közötti fennsíkon fekszik. Hűvös klímája és termékeny vulkáni talaja miatt a 19. század óta a minőségi kávétermesztés egyik legfőbb központja Nicaraguában. A város modernizálódott, de megőrizte hangulatos történelmi központját, melynek domináns épülete a neoklasszicista stílusú Szent Jakab-plébániatemplom. Jinotepe fontos kereskedelmi csomópont is, amely összeköti a déli mezőgazdasági régiókat a fővárossal. Földrajz K6 — vulkáni talajok és ültetvények.",
+      "factsAdvanced": [
+        "1883-ban kapott hivatalos városi rangot.",
+        "Nevének jelentése navatl nyelven 'a kukorica hegye'.",
+        "A Santiago (Szent Jakab) templomot 1860-ban kezdték építeni.",
+        "Tengerszint feletti magassága megközelítőleg 569 méter.",
+        "Híres az évente megrendezett, heteken át tartó júliusi városi fiestájáról.",
+        "A város és környéke az 'aranyháromszög' (kávétermelő zóna) része."
+      ]
+    },
+    {
+      "id": "el-rama-cities-v2",
+      "descriptionAdvanced": "El Rama az ország keleti részén, a Karib-tengeri partvidék felé vezető útvonal kulcsfontosságú kikötővárosa. A település az Escondido-, a Siquia- és a Rama-folyók találkozásánál fekszik, így évtizedeken át a Csendes-óceáni és a Karib-tengeri partvidék közötti áruforgalom legfőbb logisztikai elosztóközpontja volt. A város lakossága sokszínű, mestizo, afro-karibi és bennszülött közösségek élnek itt együtt. Klímája párás, trópusi esőerdei, amit a környező sűrű dzsungelek is tükröznek. Földrajz K7 — folyami hajózás és esőerdők.",
+      "factsAdvanced": [
+        "A várost az 1800-as évek végén alapították kikötőhelyként.",
+        "Az Escondido-folyó innen hajózható mintegy 100 kilométeren át a Karib-tengerig.",
+        "A város nevét a rama őslakos törzsről kapta.",
+        "Az 1988-as Joan hurrikán szinte teljesen elpusztította a települést.",
+        "Az évi csapadékmennyiség gyakran meghaladja a 3000 millimétert.",
+        "A Managuát és El Ramát összekötő aszfaltozott út megépítése forradalmasította a szállítmányozást."
+      ]
+    },
+    {
+      "id": "nueva-guinea-cities-v2",
+      "descriptionAdvanced": "Nueva Guinea egy viszonylag fiatal város a nicaraguai Karib-tengeri autonóm régió déli részén, amelyet mezőgazdasági telepesek alapítottak az 1960-as években. A trópusi esőerdőből kiirtott területen létrejött település gyorsan az ország egyik legfontosabb agrárium-központjává vált, ahol elsősorban kukoricát, babot, gyökérnövényeket és marhahúst termelnek. A város történetét a pionír szellem és a dzsungel meghódítása jellemezte, amit azonban komoly erdőirtás kísért. Földrajz K8 — belső migráció és erdőirtás.",
+      "factsAdvanced": [
+        "A települést hivatalosan 1965-ben alapították, nagyrészt Managuából északról érkező telepesek.",
+        "1981-ben nyilvánították független önkormányzattá.",
+        "Nicaragua legnagyobb yuca (manióka) és malanga termelő régiója.",
+        "Éghajlata forró és rendkívül csapadékos, évi esőzése megközelíti a 3000 mm-t.",
+        "Nevét egy korábbi misszionárius adta, Új-Guinea szigetére asszociálva.",
+        "Az 1980-as évek konfliktusaiban stratégiai jelentőségű ütközőzóna volt."
+      ]
+    },
+    {
+      "id": "somotillo-cities-v2",
+      "descriptionAdvanced": "Somotillo Chinandega megye északi részén található határváros, amely a guasaulei nemzetközi határátkelőhely közelsége miatt fontos logisztikai és kereskedelmi tranzitállomás Honduras felé. A települést száraz trópusi klíma és sík szavannás vidék jellemzi, ahol az állattenyésztés és a szezám, valamint a földimogyoró termesztése a fő gazdasági tevékenység. A városon áthaladó teherforgalom miatt számos szolgáltatás és kereskedelmi egység épült ki az elmúlt évtizedekben. Földrajz K6 — nemzetközi kereskedelem és határvárosok.",
+      "factsAdvanced": [
+        "A Guasaule határátkelőhely kevesebb mint 10 kilométerre található a várostól.",
+        "A várost a 16. században alapították spanyol telepesek.",
+        "Nevének jelentése valószínűleg 'kis Somoto' (hegyek közötti falu).",
+        "A térség nagyon sérülékeny az aszályokkal szemben a Közép-Amerikai Száraz Folyosó (Corredor Seco) részeként.",
+        "A helyi gazdaság 1998-ban, a Mitch hurrikán pusztítása után lassan állt helyre.",
+        "Évente nagy lovas felvonulást (hípica) rendeznek augusztusban."
+      ]
+    },
+    {
+      "id": "la-paz-centro-cities-v2",
+      "descriptionAdvanced": "La Paz Centro León megye egyik történelmi települése, amely elsősorban hagyományos tetőcserép- és téglagyártásáról híres. A város határában található a Momotombo-vulkán és a Managua-tó, melyek fenséges, de veszélyes természeti környezetet alkotnak, hiszen a vulkán kitörése pusztította el a régi Leónt (León Viejo) 1610-ben. A település agráriumának gerincét az állattenyésztés és a gyapottermesztés adja. A város kulináris jellegzetessége a 'quesillo', egy sajttal töltött kukoricatortilla, melyet hagymával és tejföllel tálalnak. Földrajz K7 — vulkanizmus és hagyományos kézművesség.",
+      "factsAdvanced": [
+        "A várost hivatalosan 1610-ben alapították, a Momotombo kitörése elől menekülők.",
+        "Körülbelül 56 kilométerre fekszik a fővárostól, Managuától.",
+        "A híres történelmi León Viejo romjai alig 20 kilométerre vannak innen.",
+        "Nicaragua legfőbb tetőcserép- és téglagyártó központja.",
+        "A 'quesillo' étel nicaraguai gasztronómiai szimbóluma lett, melynek eredetét e városnak tulajdonítják.",
+        "A közelben működik a Momotombo geotermikus erőmű."
+      ]
+    },
+    {
+      "id": "nagarote-cities-v2",
+      "descriptionAdvanced": "Nagarote egy tiszta, fásított utcáiról ismert város a Managua-tó délnyugati partvidékén, amelyet gyakran Nicaragua legtisztább településének választanak. A város gazdaságát évtizedeken át az állattenyésztés és a földimogyoró termesztése határozta meg, de egy nagy cementgyár jelenléte az ipart is fellendítette. A település központjában áll a híres 'Genizaro fa', egy több száz éves, terebélyes fa, amely a város történelmének néma tanúja. Nagarote, La Paz Centróhoz hasonlóan, hevesen verseng a legjobb quesillo készítőjének címéért. Földrajz K6 — környezetvédelem és helyi ipar.",
+      "factsAdvanced": [
+        "1548-ban említik először spanyol adóösszeírásokban.",
+        "Több mint tíz egymást követő évben nyerte el a 'Legtisztább Város' díjat Nicaraguában.",
+        "A központban álló Genizaro fa (Samanea saman) állítólag több mint 500 éves.",
+        "A város nevét a chorotega nyelvből eredeztetik, jelentése 'az utak ura'.",
+        "A település közelében épült fel az ország egyik legfontosabb szélerőműparkja.",
+        "A helyi Holcim cementgyár a régió egyik legnagyobb munkaadója."
+      ]
+    },
+    {
+      "id": "san-marcos-cities-v2",
+      "descriptionAdvanced": "San Marcos egy csendes, hűvös éghajlatú egyetemváros a Carazo-fennsíkon, amely történelmileg a kávétermesztésből gazdagodott meg. A városkép a hagyományos gyarmati stílust ötvözi a modern oktatási intézmények pezsgő életével, hiszen itt működik a Keoish Egyetem kampuszának otthont adó volt San Marcos Katonai Akadémia épülete is. A települést zöld kávéültetvények és árnyékot adó fák veszik körül. Áprilisban tartott patrónus ünnepe a környék legfontosabb népi vallási eseményei közé tartozik, ahol a híres 'Toro Huaco' táncot is bemutatják. Történelem K7 — agrártörténet és felsőoktatás.",
+      "factsAdvanced": [
+        "A várost 1905-ben alapították önálló közigazgatási egységként.",
+        "1993 óta ad otthont az amerikai kötődésű Keiser University latin-amerikai kampuszának.",
+        "Tengerszint feletti magassága mintegy 535 méter.",
+        "A San Marcos-napi ünnepségeken (április 25.) találkoznak a szomszédos városok védőszentjeinek szobrai (El Tope).",
+        "A 20. század elején a nicaraguai kávéexport jelentős részét az itteni 'aranyháromszög' adta.",
+        "Az éves átlaghőmérséklet kellemes 24-26 Celsius-fok."
+      ]
+    },
+    {
+      "id": "ciudad-sandinocities-v2",
+      "descriptionAdvanced": "Ciudad Sandino Managua egyik legnagyobb és legnépesebb elővárosa, amely a fővárostól északnyugatra helyezkedik el. A település az 1969-es pusztító managuai árvíz és az 1972-es földrengés menekültjeinek áttelepítésével indult növekedésnek, eredetileg OPEN-3 néven. A gyors urbanizáció során jelentős ipari zónák és szabadkereskedelmi övezetek épültek ki, melyek a helyi lakosság ezreit foglalkoztatják. A város éghajlata forró és száraz, környezetében alacsony dombok találhatók. Földrajz K8 — urbanizáció és belső migráció.",
+      "factsAdvanced": [
+        "Eredetileg egy pamutültetvény helyén alakították ki 1969-ben.",
+        "Mai nevét 1979-ben kapta Augusto C. Sandino tiszteletére.",
+        "Lakossága ma már meghaladja a 120 000 főt.",
+        "2000-ben vált független önkormányzattá, kiválva Managuából.",
+        "A város gazdaságát a 'maquiladora' típusú textilüzemek dominálják.",
+        "A település határán található a Chiltepe-félsziget vulkanikus természetvédelmi területe."
+      ]
+    },
+    {
+      "id": "condega-cities-v2",
+      "descriptionAdvanced": "Condega Estelí megye egy dombos vidéken fekvő, mezőgazdasági jellegű városa, amelyet "A Fazekasok Városának" is neveznek a hagyományos agyagművesség okán. A város gazdasága a dohány-, kávé- és babtermesztésre épül, és az északi prémium szivarok gyártásának egyik fontos logisztikai központja. A környék gazdag régészeti emlékekben, számos prekolumbián kerámialelet került elő a Panamerikai főútvonal építése során. Condega békés hangulata és a zöldellő hegyek vonzóvá teszik a vidéket. Történelem K6 — prekolumbián kultúrák és kézművesség.",
+      "factsAdvanced": [
+        "A települést az 1700-as évek végén alapították.",
+        "A Condega név navatl nyelven 'agyagkorsók földjét' jelenti.",
+        "1962-ben kapott hivatalos városi rangot.",
+        "A helyi régészeti múzeum több mint 300 indián kerámia és kőleletet állít ki.",
+        "Körülbelül 560 méteres tengerszint feletti magasságban fekszik.",
+        "Egy repülőgép roncsát állították ki a központban, melyet az 1979-es harcok során lőttek le."
+      ]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "descriptionAdvanced": "Sébaco Matagalpa megye egyik legfontosabb mezőgazdasági és kereskedelmi központja, amely a termékeny Sébaco-völgyben fekszik. Stratégiai elhelyezkedése a Panamerikai főútvonalon egy igazi logisztikai elosztóközponttá teszi; innen ágazik el az út észak felé (Honduras) és kelet felé (Matagalpa, Jinotega). A völgy bőséges vízellátása és meleg klímája miatt a rizstől kezdve a hagymán át a zöldségekig hatalmas mennyiségű élelmiszert termelnek itt az ország számára. Földrajz K7 — közlekedési csomópontok és intenzív mezőgazdaság.",
+      "factsAdvanced": [
+        "A város neve a navatl 'Cihuatl Coatl' kifejezésből származik, ami Kígyóasszonyt jelent.",
+        "A település a spanyol hódítás előtt fontos őslakos kereskedelmi csomópont volt.",
+        "A Sébaco-völgy Nicaragua egyik legtermékenyebb öntözött mezőgazdasági területe.",
+        "A városon halad át a Río Grande de Matagalpa.",
+        "A rizs és hagyma feldolgozására számos nagyüzem települt ide.",
+        "A város hivatalos rangját csak 1996-ban kapta meg."
+      ]
+    },
+    {
+      "id": "nandaime-cities-v2",
+      "descriptionAdvanced": "Nandaime Granada megyében, a Mombacho-vulkán délnyugati lábánál elhelyezkedő történelmi kisváros. Híres a gazdag kulturális hagyományairól és koloniális stílusú, neoklasszicista Szent Anna templomáról. A település gazdasága a földimogyoró, a rizs és a cukornád termesztésén, valamint a szarvasmarha-tenyésztésen alapul. A város történelmi jelentőségű a José Dolores Estrada tábornok születési helyeként, aki a rivasi csatában vezetett győztes csapatokat az amerikai zsoldosok ellen 1856-ban. Történelem K8 — nemzeti hősök és 19. századi hadtörténet.",
+      "factsAdvanced": [
+        "A település neve a chorotega 'Nanda' (patak) és 'Ime' (sok) szavakból ered, vagyis Bővizű patakok.",
+        "A Santa Ana plébániatemplomot 1859-ben kezdték építeni egy földrengés után.",
+        "José Dolores Estrada nicaraguai nemzeti hős 1792-ben itt született.",
+        "Körülbelül 67 kilométerre délre fekszik Managuától.",
+        "A környéken kiterjedt földimogyoró-mezők találhatók.",
+        "Minden év júliusában rendezik meg a híres Szent Anna védőszent-ünnepet."
+      ]
+    },
+    {
+      "id": "jalapa-cities-v2",
+      "descriptionAdvanced": "Jalapa egy viszonylag elszigetelt, de termékeny völgyben fekvő határváros Nueva Segovia megyében, a hondurasi határ közelében. A "Kukorica Városának" is hívják, mivel a hűvös, csapadékos klímájú Jalapa-völgy Nicaragua egyik legfőbb gabonatermesztő régiója, emellett a kiváló minőségű dohányáról is ismert. A város fekvése fenyőerdőkkel borított magas hegyek ölelésében lenyűgöző, bár az 1980-as évek kontraháborúja alatt súlyos harcok színtere volt az elszigeteltsége miatt. Földrajz K7 — határ menti mezőgazdaság és mikroklímák.",
+      "factsAdvanced": [
+        "A várost 1891-ben alapították hivatalosan.",
+        "Nevének jelentése navatl nyelven 'homokos vizek helye'.",
+        "A város tengerszint feletti magassága kb. 680 méter.",
+        "Minden év szeptemberében megrendezik a Nemzeti Kukorica Fesztivált.",
+        "A Jalapa-völgy hossza mintegy 40 kilométer, szélessége pedig 8-10 kilométer.",
+        "Az 1980-as években az ország egyik legkatonásítottabb övezete volt a kontra támadások miatt."
+      ]
+    },
+    {
+      "id": "el-sauce-cities-v2",
+      "descriptionAdvanced": "El Sauce León megye északi, dombos részén fekszik, mely híres zarándokhely a Fekete Krisztus (Señor de los Milagros) szentélye miatt. A várost eredetileg a gazdag arany- és ezüstbányászat hívta életre, de ma már a mezőgazdaság és a méhészet a fő bevételi forrás. Különösen ismert az itt termelt organikus méz és szezám. Az 1800-as évek végén épült neoklasszicista templomot 1997-ben egy tűzvész súlyosan megrongálta, de később újjáépítették, megőrizve a szent faszobrot. Történelem K6 — vallási zarándoklatok és mezőgazdaság.",
+      "factsAdvanced": [
+        "A várost 1723-ban alapították Valle del Guayabal néven.",
+        "Nevét (A fűzfa) egy hatalmas fűzfáról kapta, amely alatt állítólag a Fekete Krisztus szobrot megtalálták.",
+        "Az éves januári zarándoklatra zarándokok tízezrei érkeznek gyalogosan vagy lovon.",
+        "Jelentős közép-amerikai méztermelő központ.",
+        "A vasút 1932-ben ért el a városba, de az 1990-es években a hálózatot felszámolták.",
+        "A régi vasútállomás ma történelmi emlékműként szolgál."
+      ]
+    },
+    {
+      "id": "larreynaga-malpaisillo-cities-v2",
+      "descriptionAdvanced": "Larreynaga, gyakrabban használt nevén Malpaisillo, León megye sík és meleg éghajlatú részén található. A település neve a sötét, vulkanikus "rossz föld" (mal país) kifejezésből ered, ami a közeli Cerro Negro vulkán kitöréseinek bazaltos lávamezőire utal. A száraz környezet ellenére a régió gazdasága a gyapottermesztésen alapult, majd áttért a szezám, cirok és földimogyoró termesztésére, valamint a szarvasmarha-tenyésztésre. A Cerro Negro vulkán fekete lejtői népszerű célponttá tették az extrém sportok kedvelői körében. Földrajz K8 — vulkanikus kőzetek és mezőgazdasági adaptáció.",
+      "factsAdvanced": [
+        "A települést az 1930-as években alapították a Cerro Negro lábánál.",
+        "1944-ben nyilvánították független önkormányzattá Larreynaga néven.",
+        "A város tengerszint feletti magassága alig 100 méter.",
+        "A közelben található a Cerro Negro vulkán, Közép-Amerika legfiatalabb vulkánja (1850).",
+        "A 'Volcano boarding' extrém sport innen indult hódító útjára.",
+        "A területen korábban jelentős aranybányászati tevékenység (Mina El Limón) zajlott."
+      ]
+    }
+  ]
+}

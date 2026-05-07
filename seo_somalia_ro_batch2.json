@@ -1,0 +1,365 @@
+{
+  "lang": "ro",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qoryoley-cities-v2",
+      "descriptionAdvanced": "Qoryoley este un oraș agricol prosper situat în regiunea Lower Shabelle din sudul Somaliei, pe malul fluviului Shebelle. Orașul este inima producției de cereale din țară, beneficiind de un sistem complex de canale de irigații care transformă terenurile aride în zone verzi productive. Qoryoley a fost istoric un centru experimental pentru culturi noi, fiind renumit pentru producția sa de porumb, fasole și orez. Datorită fertilității solului și accesului constant la apă, orașul joacă un rol crucial în securitatea alimentară a Somaliei. Viața urbană este strâns legată de ciclurile agricole ale fluviului, piața locală fiind un furnizor major pentru regiunea Banadir. Földrajz K7 — irigații și sisteme agricole fluviale.",
+      "factsAdvanced": [
+        "Este situat la aproximativ 120 km sud-vest de Mogadishu.",
+        "Fluviul Shebelle asigură apa necesară pentru mii de hectare.",
+        "Producția de sorg și mei este principala ocupație a localnicilor.",
+        "Orașul are un sistem de ecluze pentru controlul inundațiilor.",
+        "Este considerat unul dintre cele mai fertile locuri din Somalia.",
+        "Numele orașului are rădăcini în tradițiile agricole locale.",
+        "Qoryoley servește ca hub de colectare pentru produsele din Shabelle.",
+        "Regiunea este cunoscută pentru varietatea sa de păsări de apă."
+      ]
+    },
+    {
+      "id": "balcad-cities-v2",
+      "descriptionAdvanced": "Balcad este un oraș strategic și industrial situat în regiunea Middle Shabelle, la doar 36 de kilometri nord de Mogadishu. Orașul este traversat de fluviul Shebelle și este faimos pentru istoria sa industrială, găzduind odinioară una dintre cele mai mari fabrici textile din Cornul Africii. Balcad funcționează ca o poartă de acces către capitală și este un centru vital pentru prelucrarea bumbacului și a produselor lactate. Rezervația de viață sălbatică din apropiere, situată de-a lungul fluviului, adăpostește numeroase specii de animale, fiind un reper ecologic important. Proximitatea sa față de capitală îl face un nod logistic și de transport esențial. Geografia K8 — zone industriale și suburbii strategice.",
+      "factsAdvanced": [
+        "Fabrica de textile Balcad a fost un motor al economiei naționale.",
+        "Fluviul Shebelle oferă o barieră naturală și o resursă vitală.",
+        "Este situat pe drumul principal care leagă Mogadishu de Jowhar.",
+        "Rezervația naturală Balcad este celebră pentru hipopotami.",
+        "Orașul are o istorie lungă de producție agricolă diversificată.",
+        "Podul peste Shebelle este un obiectiv strategic cheie.",
+        "Balcad este renumit pentru lăptăriile sale care aprovizionează capitala.",
+        "Clima este tropical-aridă, moderată de influența fluviului."
+      ]
+    },
+    {
+      "id": "eyl-cities-v2",
+      "descriptionAdvanced": "Eyl este un oraș istoric și portuar situat în regiunea Nugaal din statul Puntland, pe coasta Oceanului Indian. Orașul este faimos pentru fortul său derviș construit de Sayyid Mohammed Abdullah Hassan la începutul secolului al XX-lea, servind ca bază pentru rezistența împotriva puterilor coloniale. Eyl este împărțit în două secțiuni: orașul istoric situat pe un platou înalt și zona portuară de la baza falezei. Deși a fost asociat cu activități de piraterie în trecutul recent, Eyl are un potențial turistic imens datorită arhitecturii sale antice, peisajelor costiere spectaculoase și resurselor bogate de pescuit. Földrajz K7 — fortificații istorice și așezări de coastă.",
+      "factsAdvanced": [
+        "Fortul derviș din Eyl este un monument național protejat.",
+        "Orașul este situat la gura de vărsare a văii Nugaal în ocean.",
+        "A fost una dintre capitalele Statului Derviș între 1905 și 1920.",
+        "Falezele de calcar oferă o protecție naturală unică orașului.",
+        "Economia locală este bazată pe pescuitul de homari și pești.",
+        "Eyl găzduiește ruine ale unor structuri administrative italiene.",
+        "Este una dintre cele mai vechi așezări de pe coasta Oceanului Indian.",
+        "Plajele din zonă sunt renumite pentru frumusețea lor sălbatică."
+      ]
+    },
+    {
+      "id": "el-afweyn-cities-v2",
+      "descriptionAdvanced": "El Afweyn este un oraș important situat în regiunea Sanaag din Somaliland, fiind un centru vital pentru comunitățile pastorale din nordul Somaliei. Numele său înseamnă 'Puțul cel Mare', reflectând importanța resurselor de apă într-o zonă dominată de platouri aride. Orașul joacă un rol crucial ca nod de transport și piață pentru animalele vii care sunt trimise spre portul Berbera. El Afweyn a fost locul unor eforturi semnificative de reconciliere între clanuri, demonstrând importanța stabilității sociale pentru dezvoltarea regională. Geografia K8 — resurse de apă și managementul conflictelor pastorale.",
+      "factsAdvanced": [
+        "Este situat la aproximativ 280 de kilometri est de Hargeisa.",
+        "Orașul este un punct de oprire esențial pe drumul spre Erigavo.",
+        "Economia se bazează aproape exclusiv pe creșterea cămilelor și oilor.",
+        "Puțurile de apă de aici sunt printre cele mai adânci din regiune.",
+        "A cunoscut o dezvoltare rapidă datorită investițiilor diasporei.",
+        "Vegetația înconjurătoare este formată din tufișuri de salcâm.",
+        "Orașul are un climat arid, cu vânturi puternice sezoniere.",
+        "Este centrul administrativ al districtului El Afweyn din Sanaag."
+      ]
+    },
+    {
+      "id": "taleh-cities-v2",
+      "descriptionAdvanced": "Taleh este un oraș de o importanță istorică excepțională, situat în regiunea Sool din nordul Somaliei. Acesta a servit drept capitală a Statului Derviș condus de Sayyid Mohammed Abdullah Hassan la începutul secolului al XX-lea. Complexul fortificat de la Taleh, cunoscut sub numele de Silsilat, a fost una dintre cele mai mari și mai avansate structuri defensive din Africa de Est la acea vreme. Orașul a fost ținta primului bombardament aerian britanic din Africa în 1920, eveniment care a dus la căderea mișcării dervișilor. Astăzi, ruinele impresionante ale forturilor rămân un simbol al rezistenței și un sit de patrimoniu de importanță națională. Földrajz K7 — monumente istorice și rezistența anticolonială.",
+      "factsAdvanced": [
+        "Complexul Silsilat includea patru forturi masive și o moschee.",
+        "Taleh a fost capitala mișcării dervișilor între 1910 și 1920.",
+        "Bombardamentul RAF din 1920 a marcat sfârșitul mișcării dervișe.",
+        "Orașul este situat într-o zonă izolată, protejată de terenul arid.",
+        "Ruinele de la Taleh sunt propuse pentru lista Patrimoniului Mondial.",
+        "Sayyid Abdullah Hassan este considerat tatăl naționalismului somalez.",
+        "Infrastructura modernă este limitată, păstrând aspectul istoric.",
+        "Piața locală deservește triburile nomade din platoul Sool."
+      ]
+    },
+    {
+      "id": "oodweyne-cities-v2",
+      "descriptionAdvanced": "Oodweyne este un oraș pitoresc situat în regiunea Daadmadheedh din Somaliland, fiind situat strategic între marile centre Hargeisa și Burao. Orașul se află într-o vale fertilă înconjurată de dealuri, fiind renumit pentru agricultura sa și pentru producția de lapte. Oodweyne a fost istoric un centru educațional și cultural, mulți poeți și intelectuali somalezi provenind din această zonă. Datorită pământului său arabil, orașul atrage numeroase familii de agricultori și pastori care își vând produsele în piețele regionale. Comunitatea locală este recunoscută pentru coeziunea sa și pentru sprijinul acordat dezvoltării școlilor locale. Geografia K8 — văi fertile și centre culturale rurale.",
+      "factsAdvanced": [
+        "Este situat pe drumul principal care leagă capitala de estul țării.",
+        "Valea Oodweyne este una dintre cele mai verzi zone din Somaliland.",
+        "Orașul este faimos pentru tradițiile sale în poezia somaleză.",
+        "Agricultura se bazează pe colectarea apelor de ploaie.",
+        "Producția de pepeni și legume este în continuă creștere.",
+        "Găzduiește un număr mare de instituții de învățământ primar.",
+        "Populația este formată din agricultori sedentari și nomazi.",
+        "Clima este mai temperată datorită altitudinii și vegetației."
+      ]
+    },
+    {
+      "id": "lughaya-cities-v2",
+      "descriptionAdvanced": "Lughaya este un oraș de coastă situat în regiunea Awdal din nord-vestul Somalilandului, pe malul Golfului Aden. Orașul este cunoscut pentru plajele sale întinse și pentru potențialul său enorm în domeniul pescuitului și al exploatării resurselor de sare. Lughaya are o istorie lungă ca punct de tranzit pentru comerțul cu Etiopia, fiind situat într-o câmpie costieră aridă, dar strategică. Deși infrastructura portuară este în prezent subdezvoltată, planurile de modernizare vizează transformarea sa într-un punct nodal pentru exportul de minerale. Orașul oferă o perspectivă asupra vieții tradiționale de pe coasta somaleză, unde pescuitul rămâne principala sursă de subzistență. Földrajz K7 — resurse de sare și economii de coastă.",
+      "factsAdvanced": [
+        "Este situat în Câmpia Guban, una dintre cele mai calde zone.",
+        "Resursele de sare gemă din zonă sunt printre cele mai bogate.",
+        "Pescuitul artizanal este motorul economic al comunității.",
+        "Orașul este locuit în principal de sub-clanuri ale grupului Gadabuursi.",
+        "Lughaya are un mare potențial pentru energia eoliană costieră.",
+        "Se află la aproximativ 200 de kilometri nord de Hargeisa.",
+        "Granița cu Djibouti este relativ aproape spre nord-vest.",
+        "Zona este renumită pentru diverse specii de rechini și pești exotici."
+      ]
+    },
+    {
+      "id": "zeila-cities-v2",
+      "descriptionAdvanced": "Zeila este unul dintre cele mai vechi și mai încărcate de istorie orașe din Cornul Africii, situat pe coasta regiunii Awdal, lângă granița cu Djibouti. În secolele IX-XVI, Zeila a fost capitala puternicului Sultanat Adal și un centru major al Islamului în Africa de Est. Ruinele Moscheii celor Două Qibla (Masjid al-Qiblatayn) stau mărturie a vechimii sale, fiind una dintre puținele moschei din lume cu două direcții de rugăciune. Orașul a fost un port vital pe Drumul Mătăsii maritime, legând Africa de Peninsula Arabică și India. Astăzi, deși a pierdut din importanța comercială de odinioară, Zeila rămâne un sit istoric fascinant, cu o arhitectură care amintește de epoca sa de aur. Geografia K8 — porturi medievale și răspândirea culturii.",
+      "factsAdvanced": [
+        "A fost principala poartă de intrare a Islamului în Somalia.",
+        "Moscheea al-Qiblatayn datează din secolul al VII-lea.",
+        "A servit drept capitală pentru Sultanatele Ifat și Adal.",
+        "Marco Polo a menționat Zeila în scrierile sale de călătorie.",
+        "Arhitectura sa este un mix de stiluri otomane și somaleze.",
+        "Orașul este înconjurat de insule de corali și ape puțin adânci.",
+        "În prezent, este un centru important pentru pescuitul tradițional.",
+        "Este situat la doar 25 de kilometri de granița cu Djibouti."
+      ]
+    },
+    {
+      "id": "gabiley-cities-v2",
+      "descriptionAdvanced": "Gabiley este capitala agricolă a Somalilandului, situată în regiunea Maroodi Jeex, la vest de Hargeisa. Orașul este renumit drept 'Coșul de pâine' al regiunii, datorită solului său fertil și precipitațiilor mai abundente, care permit cultivarea pe scară largă a grâului, porumbului și a legumelor. Gabiley joacă un rol vital în economia locală, fiind principalul furnizor de produse proaspete pentru capitala Hargeisa. Orașul este, de asemenea, un nod de transport strategic pe drumul care leagă Somaliland de Etiopia prin punctul de frontieră Wajaale. Comunitatea din Gabiley este recunoscută pentru spiritul său muncitor și pentru dezvoltarea rapidă a infrastructurii școlare. Földrajz K7 — productivitate agricolă și securitate regională.",
+      "factsAdvanced": [
+        "Produce peste 60% din legumele consumate în Hargeisa.",
+        "Este situat la o altitudine de 1.450 metri, pe un platou fertil.",
+        "Găzduiește Universitatea din Gabiley, axată pe studii agricole.",
+        "Economia este impulsionată de comerțul transfrontalier cu Etiopia.",
+        "Regiunea este celebră pentru livezile de guava și portocali.",
+        "Gabiley este un centru administrativ în creștere rapidă.",
+        "Fermele din zonă utilizează tehnici moderne de rotație a culturilor.",
+        "Orașul este locuit de o comunitate de agricultori sedentari."
+      ]
+    },
+    {
+      "id": "baki-cities-v2",
+      "descriptionAdvanced": "Baki este un oraș situat în inima munților regiunii Awdal din Somaliland, fiind recunoscut pentru peisajele sale naturale spectaculoase și resursele sale minerale. Orașul se află într-o vale muntoasă adâncă, fiind înconjurat de vârfuri care oferă o barieră naturală și o climă mai răcoroasă. Baki este renumit pentru depozitele sale de pietre prețioase și minerale rare, fiind o zonă de interes major pentru geologi și mineri artizanali. De asemenea, valea Baki este una dintre puținele zone din nordul Somaliei unde se practică agricultura de terasă, producând fructe și cereale de calitate. Accesul la oraș este o provocare, dar frumusețea sa naturală îl face o bijuterie ascunsă a regiunii. Geografia K8 — relief montan și resurse minerale.",
+      "factsAdvanced": [
+        "Este situat în Munții Ogo, oferind un peisaj de tip alpin.",
+        "Valea este renumită pentru depozitele sale de smaralde și rubine.",
+        "Baki beneficiază de izvoare naturale de apă pe tot parcursul anului.",
+        "Agricultura de munte include culturi de cafea și tutun.",
+        "Este unul dintre cele mai vechi districte din regiunea Awdal.",
+        "Populația este formată din mineri și agricultori de munte.",
+        "Relieful accidentat a conservat flora și fauna locală.",
+        "Orașul servește ca centru administrativ pentru comunitățile montane."
+      ]
+    },
+    {
+      "id": "badhan-cities-v2",
+      "descriptionAdvanced": "Badhan este cel mai mare oraș din regiunea Sanaag din estul Somalilandului / Puntland, situat într-o zonă de platou strategic. Orașul a cunoscut o creștere fulminantă în ultimii ani, devenind un centru educațional și comercial major pentru întregul nord-est al Somaliei. Badhan găzduiește universități moderne și spitale care deservesc o populație vastă de pastori și orășeni. Orașul este situat în valea Nugaal, beneficiind de rute comerciale care leagă coasta de interiorul țării. Stabilitatea sa relativă a atras numeroase investiții din partea diasporei, transformându-l într-un pol de dezvoltare urbană într-o regiune altfel izolată. Földrajz K7 — urbanizare rapidă și infrastructură socială.",
+      "factsAdvanced": [
+        "Este centrul universitar principal pentru regiunea Sanaag.",
+        "Universitatea Maakhir din Badhan este o instituție de elită.",
+        "Populația a crescut de la câteva mii la peste 150.000 în două decenii.",
+        "Orașul este situat pe un platou arid, la o altitudine de 1.100 m.",
+        "Badhan este un nod comercial pentru tămâie și animale.",
+        "Beneficiază de numeroase puțuri de apă modernizate recent.",
+        "Economia este susținută masiv de remitențele din străinătate.",
+        "Clima este aridă, cu nopți răcoroase și zile fierbinți."
+      ]
+    },
+    {
+      "id": "las-khorey-cities-v2",
+      "descriptionAdvanced": "Las Khorey este un oraș de coastă istoric situat în regiunea Sanaag, fiind faimos pentru industria sa de prelucrare a peștelui și istoria sa ca port al Sultanatului Warsangali. Orașul se află la baza munților Cal Madow, oferind un peisaj dramatic unde muntele întâlnește marea. Las Khorey a fost unul dintre puținele orașe din Somalia cu o fabrică de conserve de pește funcțională (tuna), care a exportat produse în întreaga lume. Deși portul a fost afectat de trecerea timpului, orașul rămâne un centru vital pentru pescuit și pentru comerțul cu tămâie care provine din munții din hinterland. Geografia K8 — industrii extractive și peisaje de contact munte-mare.",
+      "factsAdvanced": [
+        "A fost capitala istorică a Sultanatului Warsangali.",
+        "Fabrica de conserve de ton a fost construită în perioada sovietică.",
+        "Munții Cal Madow se ridică abrupt în spatele orașului.",
+        "Este un punct major de colectare pentru guma arabică și tămâie.",
+        "Pescuitul marin este principala sursă de hrană și venit.",
+        "Orașul are ruine ale unor fortificații antice și clădiri coloniale.",
+        "Plajele din Las Khorey sunt bogate în resurse de rechini.",
+        "Infrastructura rutieră către oraș este una dintre cele mai dificile."
+      ]
+    },
+    {
+      "id": "dhahar-cities-v2",
+      "descriptionAdvanced": "Dhahar este un oraș strategic situat în inima regiunii Haylaan, fiind un punct de legătură între regiunile Sanaag și Bari. Orașul se află în valea fertilă Dharoor, o zonă cunoscută pentru pășunile sale bogate care susțin mii de capete de animale în timpul sezonului ploios. Dhahar a devenit recent capitala regiunii Haylaan (sub administrarea Puntland), ceea ce a dus la o creștere a investițiilor în clădiri guvernamentale și servicii publice. Orașul este un centru pentru pastorii nomazi, oferind puțuri de apă esențiale și piețe de schimb. Geografia K7 — văi de pășunat și reorganizare administrativă.",
+      "factsAdvanced": [
+        "Valea Dharoor este renumită pentru biodiversitatea sa pastorală.",
+        "Este capitala administrativă a regiunii Haylaan din statul Puntland.",
+        "Economia depinde în proporție de 90% de creșterea cămilelor.",
+        "Orașul este situat la o altitudine de aproximativ 950 de metri.",
+        "Dhahar a cunoscut o urbanizare rapidă în ultimul deceniu.",
+        "Puțurile de apă din zonă sunt vitale pentru supraviețuirea animalelor.",
+        "Este un nod rutier pentru caravanele care merg spre Bossaso.",
+        "Clima este semi-aridă, cu vânturi puternice dinspre est."
+      ]
+    },
+    {
+      "id": "iskushuban-cities-v2",
+      "descriptionAdvanced": "Iskushuban este un oraș istoric și turistic situat în regiunea Bari din Puntland, faimos pentru cascadele sale sezoniere spectaculoase. Orașul se află într-o vale adâncă străbătută de un râu care creează o oază de verdeață într-un peisaj altfel deșertic. Iskushuban a fost un centru important al Sultanatului Majeerteen, păstrând numeroase structuri vechi și un stil de viață tradițional. Cascadele, care apar după ploile abundente, atrag vizitatori din întreaga regiune, fiind una dintre puținele atracții naturale de acest fel din Somalia. Orașul este, de asemenea, renumit pentru producția de curmale de calitate, beneficiind de solul bogat al văii. Földrajz K8 — oaze, cascade și istoria sultanatelor.",
+      "factsAdvanced": [
+        "Cascadele Iskushuban sunt printre cele mai mari din Somalia.",
+        "A fost o fortăreață cheie a Sultanatului Majeerteen.",
+        "Grădinile de curmali de aici datează de sute de ani.",
+        "Orașul este situat la aproximativ 150 km est de Bossaso.",
+        "Numele se referă la locul unde se adună apele.",
+        "Este o destinație populară pentru turismul intern în Puntland.",
+        "Valea râului oferă un microclimat propice agriculturii.",
+        "Găzduiește numeroase morminte antice și ruine istorice."
+      ]
+    },
+    {
+      "id": "qandala-cities-v2",
+      "descriptionAdvanced": "Qandala este un oraș de coastă antic situat în regiunea Bari din Puntland, pe malul Golfului Aden. Orașul este situat într-un cadru natural spectaculos, fiind cocoțat pe faleze care domină marea, la baza munților Karkar. Qandala a fost istoric un port major pentru exportul de tămâie și mir, produse care cresc din abundență în munții din apropiere. Orașul are o arhitectură istorică unică, cu clădiri din piatră de coral care reflectă bogăția sa comercială din trecut. Deși accesul pe uscat este extrem de dificil din cauza terenului muntos, Qandala rămâne un centru vital pentru pescuit și un simbol al istoriei maritime somaleze. Geografia K7 — porturi de tămâie și relief litoral accidentat.",
+      "factsAdvanced": [
+        "A fost un port strategic pentru Drumul Mirodeniilor.",
+        "Este renumit pentru tămâia de tip 'Maydi', cea mai scumpă din lume.",
+        "Munții Karkar se ridică abrupt direct din Oceanul Indian.",
+        "Accesul principal la oraș se face tradițional pe cale maritimă.",
+        "Găzduiește numeroase peșteri marine și formațiuni stâncoase.",
+        "Economia se bazează pe pescuit și recoltarea rășinilor naturale.",
+        "Orașul a fost un centru administrativ în perioada italiană.",
+        "Este situat la aproximativ 75 de kilometri est de Bossaso."
+      ]
+    },
+    {
+      "id": "alula-cities-v2",
+      "descriptionAdvanced": "Alula este orașul cel mai nordic al Somaliei, situat chiar la 'vârful' Cornului Africii, în regiunea Bari. Localizat pe coasta Golfului Aden, Alula servește drept punct strategic pentru monitorizarea navigației prin strâmtoarea Bab-el-Mandeb. Orașul are o istorie bogată, fiind capitala Sultanatului Majeerteen în secolul al XIX-lea, și păstrează ruine ale castelelor și forturilor sultanilor. Alula este înconjurată de lagune și recife de corali, fiind o zonă bogată în resurse marine. Datorită poziției sale geografice extreme, orașul se confruntă cu provocări logistice, dar rămâne un punct esențial pentru identitatea maritimă a țării. Földrajz K8 — puncte extreme și istorie maritimă.",
+      "factsAdvanced": [
+        "Este situat în cel mai nordic punct geografic al Somaliei.",
+        "A servit drept capitală principală pentru sultanul Osman Mahamuud.",
+        "Castelul Alula este un simbol al puterii sultanatului de odinioară.",
+        "Laguna Guardafui din apropiere este un ecosistem marin unic.",
+        "Economia locală depinde de pescuitul de mari dimensiuni.",
+        "Este un punct de observație crucial pentru rutele maritime globale.",
+        "Clima este aridă-oceanică, cu vânturi puternice tot anul.",
+        "Se află la vest de Capul Guardafui, unde se întâlnesc două mări."
+      ]
+    },
+    {
+      "id": "bandar-beyla-cities-v2",
+      "descriptionAdvanced": "Bandar Beyla este un oraș de coastă situat în regiunea Bari din Puntland, pe malul Oceanului Indian. Orașul este recunoscut pentru poziția sa izolată și pentru frumusețea sălbatică a plajelor sale, fiind un centru major pentru pescuitul artizanal. Bandar Beyla a fost grav afectat de tsunami-ul din 2004, dar s-a reconstruit cu ajutorul comunității și al organizațiilor internaționale. Orașul este situat într-o zonă unde platoul muntos întâlnește oceanul, creând faleze impresionante. Este un loc ideal pentru a observa viața marină și tradițiile pescarilor somalezi care folosesc tehnici ancestrale pentru a naviga în apele adânci ale oceanului. Geografia K7 — dezastre naturale și reziliență costieră.",
+      "factsAdvanced": [
+        "A fost una dintre zonele cele mai afectate de tsunami în 2004.",
+        "Numele 'Bandar' indică statutul său istoric de port comercial.",
+        "Se află pe coasta de est, direct expus Oceanului Indian.",
+        "Economia se bazează pe exportul de pește uscat și homari.",
+        "Drumul către Bandar Beyla traversează zone deșertice spectaculoase.",
+        "Orașul are o populație de pescari extrem de experimentați.",
+        "Falezele din apropiere adăpostesc numeroase păsări marine.",
+        "Este un punct de tranzit pentru navele mici de cabotaj."
+      ]
+    },
+    {
+      "id": "jariban-cities-v2",
+      "descriptionAdvanced": "Jariban este un oraș situat în regiunea Mudug din statul Puntland, servind drept centru administrativ și comercial pentru o zonă vastă de platou arid. Orașul este un nod vital pentru rutele comerciale care leagă interiorul Somaliei de coasta Oceanului Indian, în special de portul istoric Garacad. Jariban este renumit pentru rezistența comunității sale și pentru spiritul antreprenorial, locuitorii fiind implicați activ în comerțul cu animale și în dezvoltarea infrastructurii locale prin proiecte de auto-ajutorare. Orașul beneficiază de puțuri de apă care sunt esențiale pentru miile de nomazi care traversează regiunea Mudug. Földrajz K8 — piețe regionale și dezvoltare comunitară.",
+      "factsAdvanced": [
+        "Este centrul administrativ al celui mai mare district din Mudug.",
+        "Se află la jumătatea distanței între Galkayo și Oceanul Indian.",
+        "Economia este dominată de comerțul cu cămile și ovine.",
+        "Orașul a construit numeroase școli prin contribuția diasporei.",
+        "Este un punct de sprijin pentru noul port construit la Garacad.",
+        "Jariban este situat pe un platou calcaros cu vegetație rară.",
+        "Apa potabilă este extrasă din acvifere adânci.",
+        "Clima este marcată de secete ciclice și vânturi fierbinți."
+      ]
+    },
+    {
+      "id": "hobyo-cities-v2",
+      "descriptionAdvanced": "Hobyo este un oraș portuar cu o istorie glorioasă, situat în regiunea Mudug din statul Galmudug. Fondat în secolul al XIII-lea, Hobyo a devenit capitala Sultanatului Hobyo în secolul al XIX-lea, controlând rutele comerciale dintre Oceanul Indian și interiorul continentului. Orașul este renumit pentru arhitectura sa istorică și pentru rolul său de centru cultural islamic. Hobyo beneficiază de o poziție strategică, fiind în prezent subiectul unor planuri majore de reconstrucție a portului pentru a servi ca poartă economică pentru centrul Somaliei. Dunele de nisip alb care înconjoară orașul și plajele sale neatinse oferă un peisaj unic, unde istoria se întâlnește cu natura sălbatică. Geografia K7 — sultanate istorice și geoeconomie maritimă.",
+      "factsAdvanced": [
+        "A fost capitala puternicului Sultanat Hobyo fondat de Yusuf Ali Kenadid.",
+        "Este unul dintre cele mai vechi porturi de pe coasta centrală.",
+        "Orașul este înconjurat de dune de nisip mișcătoare spectaculoase.",
+        "Hobyo a fost un centru major pentru exportul de tămâie și cai.",
+        "Planurile moderne includ construcția unui port de adâncime.",
+        "Arhitectura veche include moschei și case ale nobilimii.",
+        "Este situat la aproximativ 500 km nord de Mogadishu.",
+        "Populația locală păstrează tradiții maritime și comerciale vechi."
+      ]
+    },
+    {
+      "id": "harardhere-cities-v2",
+      "descriptionAdvanced": "Harardhere este un oraș situat în regiunea Mudug din centrul Somaliei, fiind un punct strategic important pe coasta Oceanului Indian. Orașul a fost istoric un centru pentru comerțul cu animale și un nod de transport pentru regiunile interioare ale statului Galmudug. Harardhere este înconjurat de pășuni care susțin o populație pastorală semnificativă, fiind renumit pentru calitatea vitelor sale. Deși a fost afectat de conflicte în deceniile trecute, orașul rămâne un centru de influență regională și un punct cheie pentru controlul administrativ al zonei de coastă centrale. Proximitatea față de mare îi conferă un potențial ridicat pentru dezvoltarea pescuitului comercial. Földrajz K8 — control teritorial și economii pastorale.",
+      "factsAdvanced": [
+        "Este situat pe o rută strategică de coastă în regiunea Mudug.",
+        "Piața de animale este una dintre cele mai active din centrul țării.",
+        "Orașul are un climat arid moderat de briza oceanului.",
+        "Harardhere este înconjurat de câmpii vaste de iarbă și arbuști.",
+        "Economia se bazează pe comerțul cu produse de origine animală.",
+        "Găzduiește un amestec de populații sedentare și nomade.",
+        "Este un punct focal pentru politica regională a statului Galmudug.",
+        "Resursele de apă sunt esențiale pentru dezvoltarea urbană viitoare."
+      ]
+    },
+    {
+      "id": "abudwak-cities-v2",
+      "descriptionAdvanced": "Abudwak este un oraș în plină expansiune situat în regiunea Galgaduud din centrul Somaliei, foarte aproape de granița cu Etiopia. Orașul este cel mai mare centru urban din nordul statului Galmudug și un hub comercial major pentru comunitățile transfrontaliere. Abudwak este renumit pentru spiritul său antreprenorial, având una dintre cele mai active piețe de animale și bunuri de consum din regiune. Stabilitatea sa relativă și investițiile masive ale diasporei au transformat orașul într-un centru modern, cu universități, spitale și o rețea de telecomunicații avansată. Este un punct vital pentru logistica și comerțul dintre Somalia centrală și regiunea Ogaden din Etiopia. Geografia K7 — frontiere comerciale și investiții ale diasporei.",
+      "factsAdvanced": [
+        "Se află la doar câțiva kilometri de granița cu Etiopia.",
+        "Este cel mai populat oraș din nordul regiunii Galgaduud.",
+        "Găzduiește universitatea Abudwak, un centru educațional regional.",
+        "Aeroportul din Abudwak deservește numeroase zboruri comerciale.",
+        "Economia este impulsionată de comerțul transfrontalier intens.",
+        "Orașul este un model de dezvoltare urbană prin auto-guvernare.",
+        "Beneficiază de un sistem modern de alimentare cu apă și electricitate.",
+        "Este centrul cultural al comunității Marehan din centrul Somaliei."
+      ]
+    },
+    {
+      "id": "el-bur-cities-v2",
+      "descriptionAdvanced": "El Bur este un oraș istoric situat în regiunea Galgaduud din centrul Somaliei, fiind celebru pentru tradiția sa seculară în prelucrarea pietrei meerschaum. Artizanii din El Bur sunt renumiți pentru fabricarea lulelelor și a vaselor ornamentale din această piatră albă rară, exportându-le în tot Cornul Africii. Orașul are o importanță strategică majoră, fiind situat la intersecția unor rute vechi de caravane care leagă coasta de interior. El Bur a fost un centru administrativ important în perioadele pre-coloniale și coloniale, păstrând o identitate culturală puternică. Geografia sa este marcată de un relief de platou, fiind un punct de supraviețuire vital datorită puțurilor sale adânci. Földrajz K8 — meșteșuguri tradiționale și geografie istorică.",
+      "factsAdvanced": [
+        "Este capitala mondială a prelucrării pietrei meerschaum.",
+        "A fost un centru administrativ cheie în timpul Somaliei Italiene.",
+        "Numele orașului se referă la 'puțul din deal'.",
+        "Lulelele din El Bur sunt obiecte de colecție recunoscute internațional.",
+        "Este situat în centrul geografic al regiunii Galgaduud.",
+        "Orașul a servit istoric ca fortăreață defensivă.",
+        "Economia se bazează pe artizanat și creșterea animalelor.",
+        "Relieful este dominat de un platou stâncos cu puțuri adânci."
+      ]
+    },
+    {
+      "id": "el-dher-cities-v2",
+      "descriptionAdvanced": "El Dher este un oraș situat în regiunea Galgaduud, în apropierea coastei Oceanului Indian. Orașul este un centru religios și educațional important, fiind renumit pentru numeroasele sale școli coranice și pentru comunitatea sa stabilă. El Dher beneficiază de o poziție geografică favorabilă, situându-se între zonele de pășunat din interior și resursele marine ale coastei. Orașul joacă un rol de hub pentru satele din jur, oferind piețe pentru produsele lactate și animale. Deși este o așezare mai liniștită, El Dher este esențial pentru menținerea legăturilor sociale și comerciale în estul regiunii Galgaduud, fiind un simbol al tradiției somaleze. Geografia K7 — centre religioase și comunități rurale.",
+      "factsAdvanced": [
+        "Este un centru recunoscut pentru studiile islamice tradiționale.",
+        "Se află la mică distanță de coasta centrală a Somaliei.",
+        "Economia locală gravitează în jurul agriculturii și creșterii vitelor.",
+        "Piața din El Dher este renumită pentru produsele din piele.",
+        "Orașul este înconjurat de o vegetație de savană aridă.",
+        "A fost un punct de oprire pentru caravanele de coastă.",
+        "Comunitatea este cunoscută pentru rezistența sa în fața secetei.",
+        "Beneficiază de resurse de apă subterană de bună calitate."
+      ]
+    },
+    {
+      "id": "mahaday-cities-v2",
+      "descriptionAdvanced": "Mahaday este un oraș situat în regiunea Middle Shabelle, pe malul fluviului Shebelle, la nord de Jowhar. Orașul este un centru agricol vital, făcând parte din inima productivă a văii Shebelle. Mahaday este faimos pentru pământurile sale irigate care produc mari cantități de orez, trestie de zahăr și diverse fructe tropicale. În perioada colonială, Mahaday a fost un punct cheie pentru logistica transportului pe fluviu și pentru exploatarea resurselor agricole. Astăzi, orașul continuă să aprovizioneze piețele naționale cu alimente de bază, fiind un element cheie în lanțul de aprovizionare al capitalei Mogadishu. Geografia K8 — agricultură intensivă și văi fluviale.",
+      "factsAdvanced": [
+        "Este situat la aproximativ 115 km nord de Mogadishu.",
+        "Fluviul Shebelle este principala sursă de viață pentru oraș.",
+        "Producția de orez din Mahaday este una dintre cele mai mari din țară.",
+        "Găzduiește numeroase mori de cereale și facilități de depozitare.",
+        "Orașul este un nod rutier spre regiunea centrală Hiiraan.",
+        "Se bucură de un sol aluvionar extrem de fertil.",
+        "Infrastructura de irigații datează parțial din perioada italiană.",
+        "Mahaday este un centru important pentru comerțul cu bumbac."
+      ]
+    },
+    {
+      "id": "adale-cities-v2",
+      "descriptionAdvanced": "Adale este un oraș istoric de coastă situat în regiunea Middle Shabelle, la nord-est de Mogadishu. Orașul are o istorie lungă ca punct de contact între exploratorii europeni și sultanatele locale, fiind unul dintre primele locuri unde italienii au stabilit o prezență comercială. Adale este renumit pentru plajele sale frumoase și pentru resursele sale bogate de pescuit, servind ca bază pentru numeroase comunități de pescari. Proximitatea sa față de ocean îi oferă o climă mai plăcută, iar importanța sa strategică este dată de controlul asupra rutei de coastă. Orașul reprezintă o destinație cu potențial turistic ridicat datorită patrimoniului său istoric și peisajului marin. Földrajz K7 — contacte coloniale și resurse halieutice.",
+      "factsAdvanced": [
+        "A fost un port comercial important încă din secolul al XIX-lea.",
+        "Este situat la aproximativ 120 km de capitala Mogadishu.",
+        "Economia se bazează pe pescuit și creșterea animalelor de coastă.",
+        "Adale este înconjurat de recife de corali și ape cristaline.",
+        "Orașul a servit drept reședință pentru oficiali coloniali italieni.",
+        "Pescarii locali exportă pește uscat către piețele din interior.",
+        "Este o zonă cunoscută pentru diversitatea țestoaselor marine.",
+        "Clima este tropicală, moderată de briza constantă a oceanului."
+      ]
+    }
+  ]
+}

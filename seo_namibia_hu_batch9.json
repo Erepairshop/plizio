@@ -1,0 +1,394 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "descriptionAdvanced": "A Guinas-tó (Lake Guinas) az Otjikoto-tóhoz hasonlóan egy beomlott tetejű, karsztos mészkőbarlang (víznyelő) Tsumebtől nyugatra. Az Otjikotónál ugyan valamivel kisebb átmérőjű, de mélysége megdöbbentő: egyes helyeken eléri a 130 métert, és a víz alatt egy hatalmas, még teljesen felderítetlen barlangrendszer nyílik. A tó vizének hihetetlenül tiszta, sötétkék színe szürreális kontrasztot alkot a meredek, világos mészkőfalakkal, amelyeken babuinok (páviánok) és aloék kapaszkodnak meg. Biológiai szempontból is páratlan: itt él eredetileg az Otjikoto-tílápiaként (Tilapia guinasana) ismert ritka, endemikus sügérfaj, amelynek ez az egyetlen természetes otthona a világon. Geológia K8 — karsztforrások és endemikus fajok",
+      "factsAdvanced": [
+        "Geológiailag egy hatalmas, vízzel telt karsztos dolina (doline) Észak-Namíbiában",
+        "Testvértavával, az Otjikotóval ellentétben egyáltalán nincs sekély partja",
+        "A kristálytiszta, mélykék víz mélysége helyenként meghaladja a 130 métert",
+        "Namíbia legnagyobb ismert földalatti tava, amely kiterjedt barlangrendszerrel rendelkezik",
+        "Kizárólagos élőhelye a súlyosan veszélyeztetett Guinas-tílápiának (Tilapia guinasana)",
+        "Búvárok számára népszerű, de extrém mélysége és a barlangok miatt veszélyes helyszín"
+      ]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "descriptionAdvanced": "A Nylon-medence (Nylon Pool) egy különleges és viszonylag elszigetelt, vízzel telt természeti képződmény Namíbia északi karsztvidékén, a Tsumeb-Grootfontein régióban. Hasonlóan az Otjikoto és Guinas tavakhoz, ez is a dolomit kőzet repedéseibe beszivárgó, majd az üregeket kimosó felszín alatti vizek által létrehozott karsztos víznyelő (cenote). Bár kevésbé ismert és turisztikailag kevésbé kiépített, a Nylon-medence fontos vízbázisa a helyi növény- és állatvilágnak. Meredek falai és nehezen megközelíthető, tiszta vizű medencéje misztikus hangulatot áraszt a sűrű szavannai bozótos (bushveld) közepén, távol a zajos turistautaktól. Földrajz K8 — rejtett karsztos vízforrások",
+      "factsAdvanced": [
+        "Egy kevésbé ismert, de mély karsztos víznyelő (dolina) az északi mészkővidéken",
+        "Az Otjikoto és Guinas tavak geológiai "kistestvére" a Tsumeb régióban",
+        "Meredek, sziklás falak övezik, így vize nagyon nehezen hozzáférhető",
+        "Fontos túlélési pont a helyi vadvilág (madarak, páviánok) számára",
+        "Vize kristálytiszta, mivel közvetlenül a felszín alatti vízbázis (aquifer) táplálja",
+        "Turisztikai infrastruktúrával nem rendelkezik, így megőrizte vadregényes jellegét"
+      ]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "descriptionAdvanced": "A Caprivi-ártér (Caprivi Floodplains) a Zambézi régió (korábban Caprivi-sáv) keleti felén terül el, ahol a Chobe és a Zambézi folyók hatalmas, mocsaras síkságokat hoznak létre. Amikor a nyári (angolai és zambiai) esők nyomán a folyók megáradnak, a terület ezer négyzetkilométereken át egy hatalmas, sekély, lassan mozgó víztükörré (vizes élőhellyé) változik. Ez a dinamikus, évente változó ökoszisztéma Namíbia legbujább és biológiailag legdiverzebb területe. Az ártereket sűrű papiruszsás és vízikecskefű borítja, amely tökéletes élőhelyet nyújt a vörös lechwe antilopoknak, vízilovaknak, krokodiloknak, valamint több százezer költöző madárnak. A helyiek (pl. a Masubia nép) élete teljesen ehhez a vízszintingadozáshoz alkalmazkodott. Földrajz K8 — trópusi árterek és vizes élőhelyek",
+      "factsAdvanced": [
+        "A Zambézi és Chobe folyók által kialakított hatalmas kiterjedésű, lapos ártéri rendszer",
+        "Az éves áradások (flood pulse) határozzák meg a terület ökológiai ritmusát",
+        "Afrika egyik legfontosabb (Ramsari-jellegű) édesvízi élőhelye",
+        "Hatalmas papirusz- (Cyperus papyrus) és sásmezők borítják a víz alatt álló részeket",
+        "Kiemelkedő ornitológiai célpont, különösen a vízhez kötődő madarak megfigyelésére",
+        "A falvakat és termőföldeket gyakran csak evezős csónakokkal (mokoro) lehet megközelíteni"
+      ]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "descriptionAdvanced": "A Chobe folyó a Caprivi-sáv keleti csücskében folyik, és természetes határt képez Namíbia és Botswana (a híres Chobe Nemzeti Park) között. A folyó különlegessége a rendkívül lassú, kanyargós folyás és a hatalmas, zöldellő árterületek. Bár a botswanai oldal a legismertebb az óriási elefántcsordákról, a namíbiai partvidék – különösen a Kasikili/Sedudu-sziget környéke – szintén hemzseg az elefántoktól, a kafferbivalyoktól és a vízilovaktól. A Chobe folyó medre és vízállása érdekes módon kapcsolatban áll a szomszédos Zambézi folyóval; amikor a Zambézi megárad, képes visszaduzzasztani a Chobe vizét, megfordítva annak folyásirányát. Földrajz K7 — ártéri folyók és vadvándorlás",
+      "factsAdvanced": [
+        "Namíbia (Zambézi régió) és Botswana közötti természetes határfolyó",
+        "Rendkívül lassú sodrású, mocsaras, szigetekkel (pl. Impalila-sziget) szabdalt vízfolyás",
+        "Az elefántok hatalmas, határokon átívelő (KAZA) vándorlásának egyik legfőbb színtere",
+        "A folyóban hemzsegnek a nílusi krokodilok és a vízilovak",
+        "Különleges hidrológiai jelenség: a megáradó Zambézi képes megfordítani a Chobe áramlását",
+        "A folyami szafarik (hajós vadlesek) a turizmus legnépszerűbb formái itt"
+      ]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "descriptionAdvanced": "A Kwando folyó egy vad, trópusi szépségű folyó, amely az angolai hegyekből ered, és észak-dél irányban metszi át a Caprivi-sávot (Zambézi régiót), mielőtt Linyanti, majd Chobe néven folytatná útját kelet felé. A folyó mentén húzódnak Namíbia legérintetlenebb és legkevésbé látogatott vadvédelmi területei, a Bwabwata (nyugaton) és a Mudumu, illetve Nkasa Rupara (keleten) nemzeti parkok. A Kwando vizét sűrű, sötétzöld galériaerdők és kiterjedt nádasok kísérik, miközben kristálytiszta lagúnákat és kanyargós mellékágakat hoz létre. A folyó híres arról, hogy az elefántok és bivalyok kedvelt átkelőhelye, valamint a ritka ragadozók, köztük az afrikai vadkutya és a leopárd kiváló vadászterülete. Földrajz K8 — érintetlen galériaerdők és folyók",
+      "factsAdvanced": [
+        "Észak-déli irányban szeli át a Caprivi-sávot (Zambézi régiót)",
+        "Alsóbb szakaszain a folyó neve Linyanti, majd Chobe folyóra változik",
+        "Sűrű, sötét galériaerdők (riverine woodlands) és magas papiruszsás borítja partjait",
+        "Természetes határt képez a Bwabwata és a Mudumu Nemzeti Parkok között",
+        "Vize rendkívül tiszta és kanyargós mederben (meanderezve) folyik",
+        "A folyó elengedhetetlen a helyi khwe-san közösségek halászata szempontjából"
+      ]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "descriptionAdvanced": "A Zambézi folyó (Zambezi River) Afrika negyedik leghosszabb folyója, amely Namíbia legkeletibb csücskében, a Zambézi régió (korábban Caprivi) határánál érinti az országot, mielőtt a Viktória-vízesés felé hömpölyögne. Ahol Namíbiát érinti – Katima Mulilo városánál –, a folyó hatalmas, széles, erős sodrású trópusi víztömeggé válik. Évente ismétlődő, hatalmas áradásai (mukuro) több kilométer szélesen öntik el az alacsonyan fekvő, keleti ártéri síkságokat, tápanyagban gazdag iszapot hátrahagyva. Ez a folyószakasz híres a sport horgászok körében, akik a félelmetes, éles fogú tigrishalra (Tigerfish) vadásznak. A Zambézi a régió kereskedelmének és vízellátásának legfőbb artériája. Földrajz K7 — kontinenseket átszelő óriásfolyók",
+      "factsAdvanced": [
+        "Afrika negyedik leghosszabb folyója, Namíbia északkeleti határfolyója (Zambiával közös)",
+        "Katima Mulilo városánál a folyó hatalmas (kb. 900 méter hosszú) híddal szelhető át",
+        "Minden évben masszív áradásokkal (flood) árasztja el a keleti Caprivi síkságokat",
+        "Az intenzív sporthorgászat (különösen a tigrishal / Hydrocynus vittatus) nemzetközi központja",
+        "Partjait sűrű, árnyékos folyóparti erdőségek (pl. jackalberry, baobab) övezik",
+        "A folyó zambiai és zimbabwei szakaszán található a híres Viktória-vízesés"
+      ]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "descriptionAdvanced": "Az Erongo-hegység (Erongo Mountains) egy masszív, kör alakú, vulkáni eredetű hegylánc a Damaraland és a Namíb-sivatag találkozásánál. A hegység egy hatalmas, mintegy 130 millió évvel ezelőtt beomlott ősi vulkán (kaldera) lepusztult maradványa, amely ma hatalmas gránit tömbökként (boulders) és meredek sziklafalakként magasodik a síkság fölé. A gránit repedéseiben elképesztő gazdagságú ásvány- és kristálylelőhelyek (pl. akvamarin, turmalin) bújnak meg, amelyek a helyi bányászok fő célpontjai. A hegység belseje a sivatagi elefántok, orrszarvúk és leopárdok menedéke, emellett híres a Paula-barlangban található ősi, San (busman) sziklafestményekről is. Földrajz K8 — beszakadt kalderák és ásványkincsek",
+      "factsAdvanced": [
+        "Egy óriási, 130 millió éves beomlott vulkáni kráter (kaldera) maradványa",
+        "A hegylánc átmérője mintegy 30-40 kilométert tesz ki Omaruru és Karibib között",
+        "Világhírű a pegmatit kőzetekben található ritka féldrágakövekről (fekete turmalin, akvamarin)",
+        "Az Erongo Mountain Nature Conservancy nevű privát vadvédelmi rezervátum védi a hegy belsejét",
+        "Számos barlangjában (pl. Paula Cave) jelentős busman sziklaművészeti leletek találhatók",
+        "Meredek gránitfalai a sziklamászók és természetjárók kedvelt úti célja"
+      ]
+    },
+    {
+      "id": "namib-desert-relief-v2",
+      "descriptionAdvanced": "A Namíb-sivatag (Namib Desert) Namíbia nyugati peremén, az Atlanti-óceán partvidékén végighúzódó, egyedülálló geológiai és domborzati formáció. Földrajzilag három markáns zónára osztható: a déli, vörös homokdűnék tengerére (Erg), a középső és északi részek sík, kietlen, kavicsos és sziklás kősivatagjára, valamint az északnyugati Skeleton Coast viharos, hűvös parti sávjára. A sivatagot keletről a Nagy-lépcső (Great Escarpment) hatalmas hegyvonulatai zárják el a belső fennsíktól, míg nyugaton egyenesen az óceánba szakad. Ez a zord, száraz, mégis ködös (fog-driven) ökoszisztéma formálta Namíbia nevét és ikonikus arculatát, mely az űrből is azonnal felismerhető. Földrajz K8 — sivatagi formációk és a Nagy-lépcső",
+      "factsAdvanced": [
+        "Több mint 2 000 kilométer hosszan nyúlik el a partvidéken, szélessége 50-160 km közötti",
+        "A világ egyik legősibb (kb. 55-80 millió éves) sivatagi (hiperarid) környezete",
+        "Déli felét a Kuiseb folyóig hatalmas, homoktenger (dune sea/erg) uralja",
+        "Az északi rész (Damaralandtól a Kunenéig) inkább lapos, kavicsos kősivatag",
+        "A hideg óceáni Benguela-áramlat akadályozza meg a csapadékfelhők kialakulását",
+        "A part menti köd az egyetlen állandó nedvességforrás az endemikus élővilág számára"
+      ]
+    },
+    {
+      "id": "kalahari-desert-relief-v2",
+      "descriptionAdvanced": "A Kalahári-medence (Kalahari Basin) Namíbia keleti, Botswanával határos részét foglalja el. Bár a köztudatban 'sivatagként' él, geomorfológiai szempontból egy hatalmas, homokkal feltöltött fosszilis medence (fossil erg), amelyet ritkás füves-fás szavanna borít. A domborzatot rendkívül jellegzetes, alacsony (10-30 méter magas), de hosszan elnyúló, párhuzamos vörös homokdűnék (linear dunes) uralják, amelyek között úgynevezett 'dűnevölgyek' (streets) húzódnak. A talaj magas vas-oxid tartalma miatt a homok perzselő vörös színű. Mivel a homok gyorsan elnyeli a csapadékot, felszíni vízfolyások nincsenek, a vadvilág a növényzetből és ritka, időszakos tócsákból (pans) fedezi vízigényét. Földrajz K7 — fosszilis homokdűnék és félsivatagok",
+      "factsAdvanced": [
+        "Hatalmas kiterjedésű, homokkal teli geológiai medence (Kalahari Basin) nyugati széle",
+        "Nem valódi sivatag; a magasabb csapadék (100-250 mm) miatt füves szavannának számít",
+        "Domborzatát a hosszan (több tíz kilométeren) elnyúló, párhuzamos lineáris dűnék adják",
+        "A homok mélyvörös színét az oxidálódott vas-ásványok (rozsda) biztosítják",
+        "A felszínen nincs állandó folyóvíz, a víz nagyrészt a vastag homokréteg alá szivárog",
+        "Kiterjedt mészköves (calcrete) rétegek találhatók a homokdűnék alatt"
+      ]
+    },
+    {
+      "id": "brandberg-mountain-relief-v2",
+      "descriptionAdvanced": "A Brandberg-hegység (Brandberg Massif) Namíbia legmagasabb és talán leginkább tiszteletet parancsoló hegye, amely Damaraland kopár síkságából tör a magasba. A hatalmas, közel kör alakú gránittömb a földkéreg mélyéből nyomult fel több mint 120 millió évvel ezelőtt, vulkáni tevékenység (plutonizmus) révén, majd az évmilliók eróziója hámozta le róla a puhább kőzeteket. Legmagasabb csúcsa, a Königstein 2 573 méter magas. A hegyet mély, sziklás kanyonok (pl. Tsisab-szurdok) és katlanok szabdalják, amelyek egyedi, a környező sivatagnál hűvösebb és nedvesebb mikroklímát tartanak fenn, endemikus növényeknek és rovaroknak adva otthont. Geológia K8 — intruzív gránittömbök és mikroklíma",
+      "factsAdvanced": [
+        "Namíbia legmagasabb pontja (Königstein, 2 573 méter)",
+        "Egy óriási, kb. 30 km átmérőjű gránit szigethegy (pluton/inselberg)",
+        "A kora krétakori vulkanizmus során (Gondwana szétválása) keletkezett",
+        "Nevét (Tűzhegy) arról kapta, hogy a gránitfalak lángvörösen izzanak a lemenő nap fényében",
+        "Rendkívül tagolt domborzatú, mély kanyonokkal és meredek sziklafalakkal",
+        "A zord külső mögött a szurdokokban egyedi, nedvesebb mikroklíma uralkodik"
+      ]
+    },
+    {
+      "id": "spitzkoppe-relief-v2",
+      "descriptionAdvanced": "A Spitzkoppe (Grosse Spitzkoppe) a Namíbia középső-nyugati részén (Erongo régió) található, lélegzetelállító szépségű, kopasz gránithegység. A magányosan álló inzelberg (szigethegy) meredeken, több mint 700 méterrel emelkedik ki a végtelen Namíb-síkságból, elérve az 1 728 méteres magasságot. Kialakulása a Brandbergéhez hasonló: magma nyomult a földkéregbe (kb. 120 millió éve), amely az évmilliók során a felszíni erózió és a szélsőséges hőingadozás miatti 'hagymahéjszerű' leválás (exfoliation) révén vette fel mai sima, kerekded vagy éppen éles, csúcsos formáit. A Spitzkoppe Namíbia leghíresebb sziklamászó terepe, valamint egy gigantikus természetes kőszobor-park. Geológia K7 — exfoliatív erózió és szigethegyek",
+      "factsAdvanced": [
+        "Egy izolált, éles csúcsú gránit szigethegy (inselberg) a sík sivatag közepén",
+        "Az inzelberg formát a lágyabb kőzetek lepusztulása (eróziója) hozta létre",
+        "A jellegzetes kerekded gránittömböket a hőingadozás miatti lehámlás (exfoliation) formálta",
+        "Gyakran hivatkoznak rá 'Namíbia Matterhornjáként' a hegyes formája miatt",
+        "A hegységben található a leghíresebb természetes kőhíd (Rock Arch)",
+        "A környező síkság (Namíbiai fennsík) tengerszint feletti magassága itt kb. 1000 méter"
+      ]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "descriptionAdvanced": "Az Erongo-hegység (Erongo Massif) Namíbia egyik legérdekesebb geológiai képződménye, Omaruru és Karibib városai között. Domborzatilag a hegység egy hatalmas, beszakadt vulkáni kráter (kaldera) maradványa, amely a kora krétakorban, Gondwana őskontinens feldarabolódásakor jött létre. A kaldera külső gyűrűje ma meredek gránit- és bazaltfalakból, kerekded sziklatömbökből (boulders) és mély, rejtett völgyekből áll. A peremvidék a kíméletlen sivatag felé nyitott, míg a belső medence védett mikroklímát és bőségesebb növényzetet rejt. A hegység arról is híres, hogy a gránit és pegmatit telérekben gazdag ritka ásvány- és féldrágakő-lelőhelyek (turmalin, berill) húzódnak. Geológia K8 — kalderák és pegmatit-képződés",
+      "factsAdvanced": [
+        "Egy óriási (kb. 30-40 km átmérőjű), ősi vulkáni kaldera erodált maradványa",
+        "A vulkánkamra beszakadása és az erózió formálta jelenlegi gyűrű alakú (ring-complex) domborzatát",
+        "Külső peremén meredek gránitsziklák (Erongo granite) magasodnak a síkság fölé",
+        "A belső (erodált) medence síkabb, védett élőhelyet biztosít a vadállatoknak",
+        "A hegység kőzetei világhírűek a bennük lévő pegmatitos ásványzárványokról",
+        "Több ezer éves, sziklák alatti barlangokban San (busman) festmények találhatók"
+      ]
+    },
+    {
+      "id": "auas-mountains-relief-v2",
+      "descriptionAdvanced": "Az Auas-hegység (Auas Mountains) Namíbia központi felföldjének legjelentősebb hegylánca, amely éppen a fővárostól, Windhoektól délkeletre húzódik, védelmező falként magasodva a város fölé. A hegység több mint 2 400 méteres magasságot is elér – itt található Namíbia második legmagasabb csúcsa, a Moltkeblick (2 479 m). A hegylánc főként kvarcitból és palából épül fel, amely a tektonikai gyűrődések során emelkedett ki. Az Auas-hegység kulcsfontosságú vízválasztó (watershed) Namíbiában: a hegygerinctől északra hulló csapadék a Swakop folyó vízgyűjtőjébe áramlik (az Atlanti-óceán felé), míg a délre hulló víz a Fish folyó rendszerébe, a hatalmas Oranje folyó irányába indul el. Földrajz K8 — hegységképződés és vízválasztó vonalak",
+      "factsAdvanced": [
+        "Namíbia második legmagasabb hegylánca (a Moltkeblick csúcs 2 479 m magas)",
+        "Windhoek városát dél-délkeleti irányból egy természetes falként öleli körbe",
+        "Kőzettanilag főleg ellenálló kvarcitból és gyűrődött palákból áll (Damara szekvencia)",
+        "Namíbia legfontosabb belföldi vízválasztó vonala (észak-dél irányban)",
+        "A hegység északi és déli lejtői teljesen eltérő vízgyűjtő rendszerekbe vezetik az esővizet",
+        "A meredek lejtők és a magaslati klíma kedvez a hegyi zebrák és leopárdok számára"
+      ]
+    },
+    {
+      "id": "khomas-hochland-relief-v2",
+      "descriptionAdvanced": "A Khomas-felföld (Khomas Hochland) egy kiterjedt, magaslati fennsík Közép-Namíbiában, amely magában foglalja a fővárost, Windhoeket is. A fennsík átlagos tengerszint feletti magassága 1 700 és 2 000 méter között mozog, ez adja Windhoek meglepően hűvös, hegyvidéki (karoo/szavanna) klímáját. A felföld felszíne rendkívül tagolt: mélyen bevágódott, kanyargós száraz folyóvölgyek (pl. a Kuiseb és a Swakop felső folyása) és lankás dombvidékek hálózata jellemzi, amit a gyűrődött (Damara) kőzetlemezek évmilliós eróziója formált. Ez a zord, tüskés bozótosokkal borított hegyvidék hagyományosan a szarvasmarha- és karakuljuh-tenyésztők, valamint a leopárdok vadászterülete. Földrajz K8 — erodált fennsíkok és magaslati klíma",
+      "factsAdvanced": [
+        "Egy kiterjedt, tagolt domborzatú központi fennsík Namíbia szívében",
+        "Tengerszint feletti magassága (kb. 1700-2000 m) hűvösebb, mérsékelt klímát biztosít",
+        "A tájat sűrű fás-bokros szavanna (bushveld) és lankás dombok uralják",
+        "Több jelentős időszakos folyó (Kuiseb, Swakop) mély völgye szabdalja fel a felszínét",
+        "Geológiailag a Damara Orogén (hegységképződés) ősi, lekopott gyűrődéseiből áll",
+        "Neve a Khoekhoe nyelvjárásból származik, valószínűleg a dombos, völgyes tájra utalva"
+      ]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "descriptionAdvanced": "A Waterberg-fennsík (Waterberg Plateau) Namíbia legkiemelkedőbb táblahegye (mesa), amely a központi síkságokból emelkedik ki Otjiwarongo városától keletre. A mintegy 50 kilométer hosszú és meredek, csaknem függőleges sziklafalakkal határolt homokkő hegytömb 200 méterrel magasodik a szavanna fölé. A porózus Etjo homokkő (a jura korból származik) hatalmas szivacsként szívja magába az esővizet, ami a mélyebb, vízzáró agyagrétegen megakadva kristálytiszta forrásokként bukkan a felszínre a hegy lábánál. Ez a geomorfológiai adottság egyedülálló, sűrű növényzetű, hűvös oázist teremtett az amúgy aszályos, lapos bozótosvidék közepén, lenyűgöző téglavörös sziklafalakkal övezve. Geológia K8 — táblahegyek és vízzáró rétegek (aquiferek)",
+      "factsAdvanced": [
+        "Masszív, meredek falú, lapos tetejű homokkő táblahegy (mesa) Közép-Namíbiában",
+        "A vörös Etjo homokkő az egykori (200 millió éves) hatalmas sivatagi dűnék megkövesedett maradványa",
+        "A porózus kőzetből átszivárgó víz állandó forrásokat hoz létre a hegy lábánál",
+        "A csaknem függőleges sziklafalak szinte bevehetetlen természeti erőddé teszik a fennsíkot",
+        "Az erózió hatalmas, leszakadt homokkő tömböket hagyott a hegyoldalakon (scree slopes)",
+        "Délnyugati peremén találhatók a híres kora-jura kori dinoszaurusz lábnyomok"
+      ]
+    },
+    {
+      "id": "fish-river-canyon-relief-v2",
+      "descriptionAdvanced": "A Fish River Kanyon (Fish River Canyon) Afrika legnagyobb és a világ második legnagyobb tektonikus/eróziós szurdokvölgye, amely Namíbia mélydéli, sivatagos Karoo régióját szabdalja ketté. A kanyon kialakulása mintegy 500 millió éve kezdődött földkéregmozgások (árokbeszakadások/grábenek) révén, majd a hatalmas jégkorszaki gleccserek, legvégül pedig a Fish folyó időszakos áradásai vájták egyre mélyebbre. A kanyon több mint 160 km hosszú, helyenként eléri az 550 méteres mélységet és a 27 km-es szélességet. Felső szintje egy lapos, mészköves-dolomitos fennsík (plató), míg a kanyon mélyén ősi, több mint egymilliárd éves, sötét gneisz és metamorf kőzetek kerültek a felszínre. Geológia K8 — kanyonképződés és stratigráfia",
+      "factsAdvanced": [
+        "Világviszonylatban a Grand Canyon után a második legnagyobb kanyonrendszer",
+        "Kialakulása tektonikus beszakadással (árokképződés) kezdődött, amit a folyami erózió formált tovább",
+        "A kanyon falai a Föld történetének több mint egymilliárd évét fedik fel (stratigráfiai metszet)",
+        "Felső pereme lapos dolomit fennsík, a völgytalp pedig sötét metamorf kőzet",
+        "Hossza kb. 160 kilométer, a legszélesebb pontján pedig 27 kilométer",
+        "A kanyon alján, a kőzetrepedések mentén forró vizű termálforrások (Ais-Ais) fakadnak"
+      ]
+    },
+    {
+      "id": "aus-mountains-relief-v2",
+      "descriptionAdvanced": "Az Aus-hegység (Aus Mountains) a Namíb-sivatag és a belső fennsík (Great Escarpment) határán emelkedik, Namíbia délnyugati részén. A kietlen, sötét kőzetből álló, sziklás hegylánc élesen kiemelkedik a sárgás-fehéres sivatagi síkságból (Garub Plains). A hegyvidék domborzata rendkívül zord, meredek gerincekkel és mély, vízmosások szabdalta katlanokkal (völgyekkel), amelyek télen menedéket nyújtanak a jéghideg szelek elől. Az Aus-hegység geomorfológiai jelentősége abban rejlik, hogy egyfajta 'szélárnyékot' (klimatikus választóvonalat) képez a part felől érkező homokviharok és az óceáni köd előtt. Kőzetei főleg ősi, erősen metamorfizálódott pre-kambriumi gneiszből állnak. Földrajz K8 — a Nagy-lépcső (Great Escarpment) geomorfológiája",
+      "factsAdvanced": [
+        "A dél-namíbiai 'Nagy Lépcső' (Great Escarpment) peremén elhelyezkedő sziklás hegység",
+        "A zord, sötét színű metamorf (gneisz) hegyek élesen emelkednek ki a homokos síkságból",
+        "Klimatikus határvonalat képez az óceáni Namíb-sivatag és a belső fennsík között",
+        "Meredek völgyei és szakadékai télen jelentős fagyoknak is ki vannak téve",
+        "A hegyek lábánál fekvő Garub-síkság ad otthont a híres vadlovaknak",
+        "Történelmileg az I. világháború alatt nehezen bevehető természetes erődítményként (és fogolytáborként) szolgált"
+      ]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "descriptionAdvanced": "A Tsau //Khaeb (korábban Sperrgebiet, azaz 'Lezárt Terület') Nemzeti Park domborzata az Atlanti-óceán partvidékének egyik legelszigeteltebb és legszélsőségesebb geológiai térsége Namíbia délnyugati részén. A terület domborzati formáit az erős, szinte állandó délnyugati szelek alakították: a tájat deflációs (szélfútta) kősivatagok, félig betemetett, ősi szigethegyek (inzelbergek, mint pl. a Klinghardt-hegység) és hatalmas, északra vándorló, mozgó barchán homokdűnék jellemzik. A part mentén az óceán hullámai drámai mészkő és dolomit sziklaíveket formáltak – a leghíresebb a Bogenfels nevű, 55 méter magas kőív, amely úgy magasodik a habok fölé, mint egy gigantikus híd. Geológia K8 — defláció és partmenti erózió",
+      "factsAdvanced": [
+        "Egy több mint 26 000 km²-es, gyémántbányászat miatt lezárt (Sperrgebiet) sivatagi táj",
+        "Domborzatát az extrém erejű szelek eróziója (defláció) és a vándorló homokdűnék alakítják",
+        "A parti sávban a tengeri erózió alakította ki a híres Bogenfels sziklaívet (55 m magas)",
+        "A sík homoktengerből hirtelen kiemelkedő, sziklás szigethegyek (inzelbergek) szabdalják",
+        "A szárazföld belsejében holdbéli, kavicsos és sziklás síkságok terülnek el",
+        "Talajában rejtőznek a világ leggazdagabb alluviális (hordalékos) gyémántlerakatai"
+      ]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "descriptionAdvanced": "A Huns-hegység (Huns Mountains) egy rendkívül kietlen, elszigetelt és szaggatott hegyvonulat a Fish River Canyon nyugati peremén, Namíbia legdélebbi régiójában. A hegylánc a Nama-Karoo sivatagi ökoszisztéma része, és kőzeteit sekély tengeri üledékek (főleg fekete mészkő és pala) alkotják, amelyeket a tektonikai erők az évmilliók során drámaian meggyűrtek és összetörtek. A Huns-hegység formavilágát a mély, V-alakú völgyek, meredek gerincek és a csaknem teljes növényhiány jellemzi, ami miatt a geológiai rétegek és vetődések (fault lines) szabad szemmel, nyitott könyvként olvashatók. Itt található a világhírű Apollo 11 barlang is, amely Afrika legrégebbi sziklaművészeti leleteit őrzi. Geológia K8 — tektonikai gyűrődések és karsztosodás",
+      "factsAdvanced": [
+        "Dél-Namíbia egyik legbarátságtalanabb, erősen erodált mészkő- és palahegysége",
+        "Közvetlenül a hatalmas Fish River Kanyon nyugati szomszédságában (azzal párhuzamosan) húzódik",
+        "A tektonikai gyűrődések és törésvonalak a növénytelen hegyoldalakon tökéletesen megfigyelhetők",
+        "Az idősödő mészkőben barlangrendszerek alakultak ki, pl. az Apollo 11 barlang",
+        "A hegyvidék szinte teljesen víztelen (arid), csak a legellenállóbb szukkulensek élnek itt meg",
+        "A Richtersveld-Ais-Ais határokon átnyúló Természetvédelmi Park szigorúan védett magzónája"
+      ]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "descriptionAdvanced": "A Naukluft-hegység a Namib-Naukluft Nemzeti Park keleti felét alkotó masszív, meredek mészkő és dolomit hegytömb (massif). A domborzat elképesztően vadregényes: a magas, lapos fennsíkokat mély, meredek falú szurdokok (kloofok) vágják ketté, amelyeket a tavaszi esőzések során kialakuló zúgó patakok mélyítettek ki az évmilliók alatt. A 'Naukluft' név is erre, a 'szűk szurdokra' utal. A porózus dolomit kőzet nagy mennyiségű vizet képes magába szívni és tárolni, amely állandó, kristálytiszta hegyi forrásokban és smaragdzöld medencékben (pools) tör a felszínre a kanyonok mélyén, életben tartva a hegyi zebrákat és páviánokat a sivatag peremén. Geológia K7 — karsztos dolomithegységek és szurdokok",
+      "factsAdvanced": [
+        "Egy izolált, masszív mészkő és dolomit hegylánc a Namíb-sivatag és a belső fennsík határán",
+        "A hegytömböt mély, keskeny szurdokvölgyek (kloofok) szabdalják szét",
+        "A karsztos kőzet kiváló víztározó képessége miatt egész évben csobogó forrásokkal rendelkezik",
+        "A hegy teteje egy viszonylag lapos, de nehezen megközelíthető, kavicsos fennsík",
+        "Kiváló természetes erődítményként szolgált a Nama nép számára (pl. Hendrik Witbooi) a németek elleni harcokban",
+        "A hegység a világ legkeményebb gyalogtúráinak (Naukluft Hiking Trail) egyik helyszíne"
+      ]
+    },
+    {
+      "id": "tiras-mountains-relief-v2",
+      "descriptionAdvanced": "A Tiras-hegység (Tiras Mountains) egy festői és viszonylag kevésbé ismert hegylánc a Namíb-sivatag és a belső fennsík (Great Escarpment) találkozásánál, a Namib-Naukluft Parktól délre. A domborzat itt az egyik legszebb kontrasztot kínálja Namíbiában: a sötét, vaskos vörösgránit sziklák lábánál hullámzik az élénkvörös Kalahári homok, amelyet a hegyek fogtak fel a vándorlása során. A tájat lankás medencék, hatalmas legömbölyödött gránittömbök (boulders) és a rajtuk megkapaszkodó tegezfák (Quiver trees) jellemzik. A hegyvidék magánkézben lévő természetvédelmi terület (Tirasberg Conservancy), amely a fenntartható tájhasználatra és az ökoturizmusra fókuszál. Földrajz K7 — gránithegységek és dűne-találkozások",
+      "factsAdvanced": [
+        "A Nagy-lépcső (Great Escarpment) része, amely átmenetet képez a sivatag és a fennsík között",
+        "Dramatikus vörös gránit formációkból áll, amelyek kontrasztban állnak az alatta lévő vörös homokdűnékkel",
+        "A hegyek felfogják a nyugatról keletre tartó (deflációs) sivatagi homokot",
+        "A régió szigorúan magán (farmerek által fenntartott) természetvédelmi koncesszióként működik",
+        "Jellemző növénye a sziklák repedéseiben megkapaszkodó óriás aloé (Aloe dichotoma / Quiver tree)",
+        "Az erózió hatalmas, egyensúlyozó sziklatömböket (balancing rocks) hozott létre a hegyoldalakon"
+      ]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "descriptionAdvanced": "A Khomas-hegység (amely része a tágabb Khomas Hochland hegyvidéknek) Windhoektól nyugatra fekszik, és egy kiterjedt, sűrűn gyűrődött metamorf hegylánc. Domborzatát a több százmillió évvel ezelőtti Damara hegységképződés (orogeny) alakította ki, amikor ősi kontinensek ütköztek, gigantikus hullámokba gyűrve a tengeri üledéket (palát, kvarcitot és csillámpalát). Ma a hegység profilja erősen erodált, de még mindig rendkívül tagolt: meredek gerincek, V-alakú völgyek és kanyargós száraz folyómedrek (például a Kuiseb folyó felső szakasza) hálózzák be. Ez a hegyvidék a Khomas régió gerince, egyben Namíbia egyik legfontosabb vízválasztó vonala a tenger felé tartó folyók számára. Geológia K8 — orogén (hegységképző) gyűrődések és metamorf kőzetek",
+      "factsAdvanced": [
+        "A Khomas-felföld (Hochland) nyugati, erősen gyűrődött (folded) gerincét alkotja",
+        "Kőzettanilag a csillámpala (mica schist) és kvarcit a meghatározó",
+        "A Damara hegységképződés (orogeny) drámai tektonikai lenyomata Namíbiában",
+        "Rendkívül tagolt, erodált domborzat, amely megnehezíti a közlekedést (pl. meredek hágók: Gamsberg, Spreetshoogte)",
+        "Mély völgyeiben erednek Namíbia legfontosabb nyugati (időszakos) folyói",
+        "Az ásványokban (pl. réz, arany) gazdag zóna történelmileg fontos bányászati terület (Matchless bánya)"
+      ]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "descriptionAdvanced": "Az Otavi-hegység (Otavi Mountains) Észak-Namíbiában helyezkedik el, Tsumeb, Grootfontein és Otavi 'rézháromszöge' felett. A hegység mészkőből és dolomitból épül fel, és kiemelkedő példája az úgynevezett karsztos domborzatnak (Karstveld). A kőzetben az esővíz oldó hatására hatalmas barlangrendszerek, földalatti tavak (például a Lélegző Sárkány barlangja) és víznyelők (mint a Guinas és Otjikoto tavak) jöttek létre. A hegylánc nem különösebben magas – csúcsai ritkán haladják meg a 2000 métert –, de völgyei sűrűn fásítottak és Namíbia legcsapadékosabb területei közé tartoznak. A mészköves alapkőzet világhírű és egyedülálló réz- és ólomásvány (pl. dioptáz) lelőhelyeket is rejt. Geológia K8 — karsztosodás és dolomit hegyvidékek",
+      "factsAdvanced": [
+        "A namíbiai karsztvidék (Karstveld) meghatározó dolomit és mészkő hegylánca",
+        "A kőzet oldódása (karsztosodás) kiterjedt barlangokat és víznyelő tavakat (cenotes) hozott létre",
+        "Egyik barlangjában (Dragon's Breath Cave) található a világ legnagyobb ismert földalatti tava",
+        "A hegyvidék a namíbiai átlagnál lényegesen több esőt kap, ezért dúsabb az erdőborítottsága",
+        "Világhírű a hegység mélyén rejlő páratlan ásványkincsekről (Tsumeb bányászat)",
+        "Az első világháború namíbiai frontjának utolsó ütközetei e hegyek között zajlottak (Khorab)"
+      ]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "descriptionAdvanced": "A Zebra-hegység (Zebra Mountains) a zord Kaokoveld (Kunene régió) egyik leglenyűgözőbb geológiai látványossága Északnyugat-Namíbiában. Nevét nem a rajta élő zebrákról kapta, hanem a hegyoldalak egyedülálló, csíkos mintázatáról. Ez a vizuális illúzió a kőzetrétegek eltérő összetételéből (vassal és mangánnal dúsított sötét vulkáni bazalt, illetve világosabb üledékes és kvarcit sávok) fakad, amelyeket az erózió párhuzamos vonalakként tárt fel a meredek lejtőkön. A hegyvidék hihetetlenül kopár, éles gerincekkel (razor-sharp ridges) és mély, vízmosásos szakadékokkal tűzdelt, ahol a túlélés csak a legkeményebb, sziklamászó antilopoknak és sivatagi ragadozóknak adatik meg. Geológia K8 — rétegtani (stratigráfiai) sávok és vulkáni bazalt",
+      "factsAdvanced": [
+        "Észak-Namíbiában, a Kaokoland elszigetelt, sziklás régiójában található",
+        "Nevét a hegyoldalak fekete (bazalt) és világos (üledékes/kvarcit) 'zebra-szerű' csíkozásáról kapta",
+        "A sötét vulkáni kőzet az Etendeka formációból származik, ami Gondwana felbomlásakor ömlött a felszínre",
+        "Domborzata rendkívül zord, éles, fűrészfog-szerű gerincekkel (ridges) és meredek lejtőkkel (V-völgyek)",
+        "Növényzete rendkívül gyér, szinte kizárólag a legellenállóbb pozsgások élnek meg a sziklákon",
+        "A hegyvidék teljesen kiépítetlen, utak nincsenek, csak gyalogszerrel vagy nehéz terepjáróval közelíthető meg"
+      ]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "descriptionAdvanced": "A Baynes-hegység (Baynes Mountains) Namíbia legészakibb, legvadabb hegyvonulata, amely a Kunene folyó felett magasodik, meredek falakkal az angolai határon. A hegylánc több mint 2 000 méteres magasságot is eléri, és szinte megközelíthetetlen, tornyosuló kvarcit- és homokkősziklákból (cliff faces) áll. A folyó felé néző, csaknem függőleges hegyoldalak Afrika legmélyebb és legszűkebb kanyonjait (pl. Baynes Gorge) hozzák létre a Kunene áttörésénél. A hegység olyannyira elzárt a külvilágtól, hogy csak az őslakos nomád Himba népcsoport ismeri a rejtett hágókat. A régió egy tervezett (és vitatott) gátépítési projekt helyszíne is, amely a folyó erejét fogná be az éles völgyekben. Földrajz K8 — áttöréses völgyek és izolált hegyrendszerek",
+      "factsAdvanced": [
+        "Namíbia legészakibb hegylánca, amely hatalmas falként kíséri a Kunene folyót",
+        "A Kunene folyó a hegység meredek sziklái között alakította ki a keskeny Baynes-kanyont (Gorge)",
+        "Kőzettanilag ősi kvarcitból és ellenálló homokkőből épül fel, éles hegygerincekkel",
+        "Megközelítése aszfaltozott utak hiányában az ország egyik legnagyobb logisztikai kihívása",
+        "Tervek szerint a szurdokvölgy ideális (bár ökológiailag vitatott) helyszín lenne egy hatalmas vízerőmű (gát) építésére",
+        "A meredek hegyoldalakon csak elszórtan nőnek sivatagi növények (pl. palackfák, baobabok)"
+      ]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "descriptionAdvanced": "A Hartmann-hegység (Hartmann Mountains) és az azonos nevű völgy (Hartmann Valley) a Kaokoveld (Skeleton Coast északi része) egyik legszürreálisabb, holdbéli tája. A kietlen, fekete és sötétvörös vulkáni sziklákból felépülő hegyvonulat drámai kontrasztot képez a völgyeket kitöltő világos, sárgás sivatagi homokkal. Ez az úgynevezett Hartmann-völgy fokozatosan süllyed a Kunene folyó zöldellő oázisa felé. A hegységet az extrém szél- és hőingadozásos erózió koptatta durva, törmelékes (scree) lejtőkké. Érintetlensége miatt Namíbia egyik legutolsó valódi vadonja, ahol egyedül a túlélőművész oryxok, struccok és olykor a nomád Himba pásztorok fordulnak meg a végtelen, fátlan síkságokon. Földrajz K8 — vulkáni hegységek eróziója sivatagi környezetben",
+      "factsAdvanced": [
+        "A Kaokoveld legészaknyugatibb, szinte teljesen fátlan, kősivatagos hegysége",
+        "A sötét vulkáni és metamorf kőzetek élesen elválnak a völgyeket kitöltő világos homoktól",
+        "A hegység a Hartmann-völgy (Hartmann Valley) keleti határát képezi a Kunene folyó felé",
+        "Domborzatára a durva, éles törmelékkel (scree) borított, meredek hegyoldalak a jellemzőek",
+        "Gépjárművel csak a legprofibb sivatagi (4x4) expedíciókkal lehet behatolni a hegyek közé",
+        "Itt érvényesül a legjobban a Namíb-sivatag partvidéki, kietlen klímája (hiperariditás)"
+      ]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "descriptionAdvanced": "A Grootberg ('Nagy Hegy') Damaraland északi részének emblematikus táblahegye (mesa), egy gigantikus, U-alakú vulkáni plató, amely egy kanyon fölé magasodik. A hegy lapos teteje a Gondwana kontinens szétválásakor, mintegy 130 millió éve a felszínre ömlő hatalmas (Etendeka) bazaltfolyamokból jött létre. Az évmilliók során a puha alsóbb rétegek koptak, míg a kemény bazaltsapka (caprock) megmaradt, így kialakítva a meredek, sziklafalakkal letörő fennsíkot. A hegygerincről (ahol a közösségi fenntartású Grootberg Lodge is található) elképesztő, több tucat kilométeres panoráma nyílik a Klip folyó kanyonjára és a végtelen, vörös damaralandi szavannára. Geológia K7 — vulkáni bazalttakarók és táblahegyek",
+      "factsAdvanced": [
+        "Hatalmas, U-alakú táblahegy (mesa) a damaralandi síkságok felett",
+        "Kialakulását az Etendeka vulkánosság során a felszínre ömlő masszív bazaltlávának köszönheti",
+        "A lapos tetőt (plateau) egy kemény bazaltréteg (caprock) védi a további lepusztulástól",
+        "A hegy tetejéről (a Grootberg-hágóról) drámai kilátás nyílik a Klip folyó völgyére",
+        "A hegyvidék a ritka sivatagi oroszlánok és a fekete orrszarvúk fontos menedéke",
+        "A domborzat nagy kihívást jelentett a korai utazóknak; ma meredek 4x4-es út vezet a csúcsra"
+      ]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "descriptionAdvanced": "Az Epupa-vízesés (Epupa Falls) a Kunene folyó lélegzetelállító zuhatagrendszere Namíbia északi határán, Angola szomszédságában. Bár hidrológiai képződmény, domborzati szempontból is kiemelkedő: a folyó egy tektonikus törésvonal mentén mintegy 1,5 kilométer szélességben szétágazik, majd 37 méter mélyen a sziklás kanyonrendszerbe (gorge) zuhan. Az erózió itt a kemény, pre-kambriumi kőzeteket (főleg amfibolit és kvarcit) is megformálta, mély, szűk szakadékokat és apró, dús baobabfákkal borított kőszigeteket hagyva hátra a vízesések peremén. A zubogó víz mély gödröket (potholes) vájt az alapkőzetbe, elképesztő karszt-szerű formákat alkotva a kanyon peremén. Földrajz K8 — tektonikus vízesések és folyami erózió",
+      "factsAdvanced": [
+        "A Kunene folyó egy éles tektonikai törésvonal mentén zuhan alá (37 méter mélyre)",
+        "A vízesés nem egyetlen zuhatag, hanem sziklaszigetekkel tagolt, 1,5 km széles rendszer",
+        "Az alapkőzet ősi amfibolit és kvarcit, amelybe a víz mély kerek medencéket (potholes) vájt",
+        "A kanyon falai meredekek és csúszósak az állandó vízpermet miatt",
+        "A sziklás peremeken gigantikus, ősi majomkenyérfák (baobabok) kapaszkodnak",
+        "Az Epupa név a Herero nyelvből származik, a lezúduló víz keltette 'fehér habra' utal"
+      ]
+    },
+    {
+      "id": "khoe-khoe-mountains-relief-v2",
+      "descriptionAdvanced": "A Khoe-Khoe-hegység (amely gyakran beleolvad az Erongo régió nagyobb láncaiba) a közép-namíbiai szavannából kiemelkedő meredek, lekerekített gránit és pala formációk gyűjteménye. Bár kevésbé ismert, mint a Spitzkoppe vagy a Brandberg, domborzata éppolyan jellegzetes: a hosszan elnyúló, gyűrődött hegygerincek az egykori (Damara) hegységképződés kopott tanúi. A hegyoldalakat sűrű tüskés bozótos (bushveld) borítja, ami nehezen áthatolhatóvá teszi a területet. Geomorfológiailag az úgynevezett 'ruins' (rom-hegységek) kategóriájába tartozik, ahol az erózió már nagyrészt elhordta a hegytetőt, mély vízmosásokkal (gullies) barázdálva a lankákat. Földrajz K7 — ősi gyűrődések és romhegységek",
+      "factsAdvanced": [
+        "Közép-Namíbia (Erongo régió) gyűrődött, kopott 'romhegységeinek' (eroded mountains) egyike",
+        "A felszín a Damara Orogén (hegységképződés) ősi, több százmillió éves metamorf kőzeteiből áll",
+        "A hegygerincek általában párhuzamosak, a tektonikai feszültség vonalait követve",
+        "Lejtőit sűrű szavannai bozótos fedi, amely nehezíti a megközelítést",
+        "A vízmosások (gullies) és kanyonok az időszakos, heves nyári esőzések (flash floods) művei",
+        "Gyakori menedéke az apróbb hegyi antilopoknak (pl. klipspringer) és a leopárdoknak"
+      ]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "descriptionAdvanced": "Az Ongongo-forrás (Ongongo Waterfall/Spring) a Damaraland és Kaokoland határvidékén, a kietlen Warmquelle közelében megbúvó domborzati csoda. Kialakulását a régió karsztos mészkő- és dolomit-rétegeinek köszönheti. A porózus kőzetbe szivárgott víz itt tör a felszínre, egy kis patakot hozva létre, amely egy meredek sziklafalon aláömlik, belezuhanva egy mély, természetes mészkő-medencébe (rock pool). A vízesés környezete egy klasszikus 'tufa' (mésztufa) formáció, ahol a vízből kicsapódó mész évezredek alatt barlangszerű üregeket és sziklaperemeket épített a zuhatag köré. Ez a mikro-domborzat lenyűgöző kontraszt a körülötte elterülő száraz, vörös sivatagi sziklákkal. Geológia K8 — karsztforrások és mésztufa képződés",
+      "factsAdvanced": [
+        "Egy rejtett mészkő-medence (rock pool) és forrás a meleg, kietlen Damaralandban",
+        "A vízesés egy dolomit/mészkő kőzetrétegből (karsztforrásként) tör a felszínre",
+        "A folyamatosan lecsorgó, mészben gazdag víz 'mésztufa' (tufa) sziklaperemeket épített",
+        "A medence vize egész évben tiszta és állandó hőmérsékletű (bár nem termálvíz)",
+        "A völgy katlanként zárja körbe a vizet, létrehozva egy apró, buja trópusi mikroklímát",
+        "A helyszínt meredek sziklafalak veszik körül, ahová csak 4x4-es járművel vagy gyalog lehet lejutni"
+      ]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "descriptionAdvanced": "A Palmwag-koncesszió egy óriási, vadregényes hegyvidéki és félsivatagi terület Damaraland északi részén. A táj domborzata lenyűgözően változatos: az Etendeka vulkánosság során keletkezett sötét, lapos tetejű bazalthegyek (táblahegyek) omlanak alá a végtelen, vörös homokos és kavicsos síkságokba, amelyeket száraz, időszakos folyómedrek (pl. a Uniab és a Hoanib mellékágai) hálóznak be. A hegyoldalakat borító éles bazalttörmelék miatt a vidék az ember számára nehezen járható, ám a vadvilág (sivatagi elefántok, fekete orrszarvúk, hegyi zebrák) tökéletesen alkalmazkodott ehhez a kőkemény 'holdbéli' domborzathoz. A Palmwag a világ egyik legsikeresebb közösségi vadvédelmi (conservancy) programjának helyszíne. Földrajz K8 — vulkáni platók és sivatagi vadon",
+      "factsAdvanced": [
+        "Hatalmas, több mint 5 000 km²-es kietlen, vulkáni bazalttal borított hegyvidék (Etendeka plató)",
+        "A domborzatot lapos tetejű táblahegyek és éles, vulkáni kőzettörmelékkel (scree) fedett lejtők uralják",
+        "Vörös talaját az oxidált vulkáni hamu és homok keveréke adja",
+        "Időszakos (ephemer) folyók mély, zöldellő kanyonokat vájtak a kopár sziklák közé",
+        "Kerítések nélküli, természetes vándorlási útvonal a sivatagi elefántok és orrszarvúk számára",
+        "A területen található az ősi (századokig élő) Welwitschia mirabilis növény több hatalmas példánya"
+      ]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "descriptionAdvanced": "Az Urichab-hegység egy kevésbé feltérképezett, zord és elszigetelt hegyvonulat a Namib-Naukluft Nemzeti Park és a belső fennsík (Khomas Hochland) pereménél. Mint a Namíbiát észak-dél irányban átszelő Nagy-lépcső (Great Escarpment) része, az Urichab domborzata erősen aszimmetrikus: a nyugati (óceán felé néző) lejtői meredeken zuhannak a sivatagi síkság felé, míg keleti oldala fokozatosabban olvad bele a fennsíkba. Kőzettanilag erősen meggyűrt palákból és kvarcitokból áll. A mély, sziklás vízmosások és az extrém száraz klíma miatt az Urichab-hegység szinte teljesen érintetlen az emberi jelenléttől, kizárólag geológiai expedíciók és a legedzettebb vadállatok (leopárdok, hegyi zebrák) járják gerinceit. Geológia K8 — aszimmetrikus hegyvonulatok a Nagy-lépcsőn",
+      "factsAdvanced": [
+        "A 'Nagy-lépcső' (Great Escarpment) geomorfológiai rendszerének izolált része",
+        "Aszimmetrikus profilú: nyugatra (a sivatag felé) meredek, keletre (a fennsík felé) lankásabb",
+        "Ősi (prekambriumi) palákból és ellenálló kvarcitból felépülő gyűrődéses (folded) hegy",
+        "Felszínét a szélsőséges szárazság és a termikus aprózódás (hőingadozás miatti repedezés) koptatja",
+        "Szinte teljesen fátlan, csak a legszívósabb szukkulens növények maradnak meg a sziklákon",
+        "Megközelíthetetlensége miatt az emberi behatás (utak, farmok) szinte nulla ezen a területen"
+      ]
+    }
+  ]
+}

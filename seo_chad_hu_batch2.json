@@ -1,0 +1,75 @@
+{
+  "lang": "hu",
+  "country": "chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadLifeV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "koumra-cities-v2",
+      "descriptionAdvanced": "Koumra a déli Csád fontos mezőgazdasági központja, amely a Mandoul régió szívében helyezkedik el. A város gazdasága döntően a gyapottermesztésre és az élelmiszer-feldolgozásra épül, amely a környező közösségek számára is megélhetést biztosít. A város folyamatos fejlődését az oktatási intézmények és az egyre növekvő kereskedelmi szerep mutatja a régióban. Földrajz K5 — Mezőgazdaság és települések.",
+      "factsAdvanced": [
+        "A Mandoul régió központja",
+        "Kiemelkedő gyapottermesztő központ",
+        "Fontos mezőgazdasági élelmiszer-feldolgozó ipar",
+        "A déli régiók növekvő kereskedelmi csomópontja",
+        "Központi szerep a Mandoul gazdasági életében",
+        "Folyamatosan bővülő oktatási infrastruktúra"
+      ]
+    },
+    {
+      "id": "pala-cities-v2",
+      "descriptionAdvanced": "Pala a nyugat-csádi Mayo-Kebbi Ouest régió székhelye, amely az ország egyik legfontosabb bányászati és mezőgazdasági központja. A város környéke gazdag ásványi kincsekben, ami fontos gazdasági lehetőségeket teremt a térség számára. A mezőgazdaság mellett Pala a kereskedelemben is jelentős szerepet játszik a kameruni határ közelsége miatt. Városi élete a modern közigazgatás és a hagyományos kultúra ötvözete. Gazdaságtan K9 — Bányászat és határon túli kereskedelem.",
+      "factsAdvanced": [
+        "A Mayo-Kebbi Ouest régió székhelye",
+        "Jelentős ásványi kincsek a környéken",
+        "Központi mezőgazdasági csomópont",
+        "A kameruni határhoz közeli kereskedelmi központ",
+        "Modern közigazgatási és kereskedelmi központ",
+        "A régió egyik legnagyobb települése"
+      ]
+    },
+    {
+      "id": "am-timan-cities-v2",
+      "descriptionAdvanced": "Am-Timan Csád keleti részének központi települése, a Salamat régió székhelye. A város a Száhel-övezet és a sivatagi területek közötti kereskedelem fontos állomása. A környék állattenyésztése és mezőgazdasága alapvetően meghatározza a város gazdaságát, amely a nomád kultúrák és a letelepedett közösségek találkozási pontja. Am-Timan kulcsszerepet játszik a keleti régiók áruellátásában és közigazgatásában. Földrajz K6 — Száhel-övezet és állattenyésztés.",
+      "factsAdvanced": [
+        "A Salamat régió székhelye",
+        "Fontos állattenyésztési központ",
+        "Kereskedelmi csomópont a keleti Száhel-övezetben",
+        "Nomád és letelepedett kultúrák találkozási pontja",
+        "Kulcsfontosságú közigazgatási szerep a Salamat régióban",
+        "Az áruellátás biztosítása a keleti régiók számára"
+      ]
+    },
+    {
+      "id": "bongor-cities-v2",
+      "descriptionAdvanced": "Bongor Csád délnyugati részén, a Logone folyó partján fekvő város, a Mayo-Kebbi Est régió központja. Stratégiai elhelyezkedése a határfolyó mellett lehetővé teszi az intenzív kereskedelmet Kamerunnal. A város gazdasága főként az öntözéses mezőgazdaságra épül, amely biztosítja a régió élelmiszerellátását. Bongor az oktatás és a közigazgatás terén is fontos szerepet tölt be a régióban. Földrajz K5 — Határmenti települések és mezőgazdaság.",
+      "factsAdvanced": [
+        "A Mayo-Kebbi Est régió központja",
+        "A Logone folyó partján, kameruni határon",
+        "Intenzív kereskedelem Kamerunnal",
+        "Az öntözéses mezőgazdaság központja",
+        "Fontos oktatási és közigazgatási központ",
+        "A régió élelmiszerellátásának biztosítója"
+      ]
+    },
+    {
+      "id": "mongo-cities-v2",
+      "descriptionAdvanced": "Mongo Csád központi részén, a Guéra régió székhelye, amely a hegyvidéki és sivatagi tájak határán fekszik. A város kereskedelmi központ a nomádok és a kereskedők számára, akik a központi területeken keresztül közlekednek. A Guéra-hegység közelsége különleges földrajzi adottságokat kölcsönöz a városnak. A mezőgazdaság és a kereskedelem az alapja a város fejlődésének, amely a központi régió legfontosabb állomása. Földrajz K6 — Hegyvidéki régiók és kereskedelem.",
+      "factsAdvanced": [
+        "A Guéra régió székhelye",
+        "Kereskedelmi központ a központi régióban",
+        "A Guéra-hegység közelsége",
+        "Fontos állomás a sivatagi kereskedők számára",
+        "A nomád és letelepedett közösségek központja",
+        "A központi régió egyik fő közlekedési állomása"
+      ]
+    }
+  ]
+}

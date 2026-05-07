@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "space-needle-landmarks-v2",
+      "descriptionAdvanced": "The Space Needle in Seattle, Washington, was constructed as the centerpiece for the 1962 World's Fair, themed 'The Age of Space.' Designed with a visionary, futuristic aesthetic, it was built to withstand high winds and earthquakes, reflecting the mid-century obsession with rapid technological progress and the Space Race. From its observation deck, visitors gain unparalleled views of the Seattle skyline, the Olympic Mountains, and Mount Rainier. Today, the Space Needle is the definitive architectural symbol of Seattle, representing the city’s identity as a global hub for innovation, technology, and visionary urban planning. Its longevity as a landmark highlights the enduring power of forward-looking design. Architektur K7 — Mid-century visionary design and Space Race culture.",
+      "factsAdvanced": [
+        "Constructed as the centerpiece for the 1962 World’s Fair.",
+        "Symbolizes the mid-century Space Race and cultural future-optimism.",
+        "Engineering designed to survive high-speed winds and intense earthquakes.",
+        "Provides 360-degree views of the Seattle skyline and Cascade mountain range.",
+        "Definitive architectural symbol of Seattle’s modern innovation hub identity.",
+        "The observation deck offers a gateway to understanding regional geography."
+      ]
+    },
+    {
+      "id": "hoover-dam-landmarks-v2",
+      "descriptionAdvanced": "Hoover Dam, spanning the Colorado River on the border of Nevada and Arizona, is a towering feat of 20th-century civil engineering. Constructed during the Great Depression, the dam was built to control the wild Colorado River, provide vital hydroelectric power, and supply irrigation water to the arid Southwest, essentially enabling the rapid growth of cities like Las Vegas and Los Angeles. Its massive Art Deco architectural details and sheer scale represent the industrial ambition and resilience of an era struggling to overcome economic catastrophe. Today, the dam remains a critical source of clean energy and water management, while serving as a globally studied example of how large-scale infrastructure can radically transform human settlement patterns in a desert environment. Ingenieurwesen K8 — Infrastructure transformation and Depression-era ambition.",
+      "factsAdvanced": [
+        "Massive hydroelectric dam spanning the Colorado River between NV and AZ.",
+        "Built during the Great Depression to manage water and power for the Southwest.",
+        "Art Deco architectural elements reflect the industrial ambition of its time.",
+        "Critical enabler for the explosive growth of Southern California and Las Vegas.",
+        "Provides essential hydroelectricity and water to a massive regional population.",
+        "A monumental globally studied example of large-scale water management."
+      ]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "descriptionAdvanced": "Faneuil Hall in Boston, Massachusetts, has served as a central meeting place for civic discourse and political debate since it was built in 1742. Known as the 'Cradle of Liberty,' it was the stage for fiery speeches by Revolutionary figures such as Samuel Adams and James Otis, advocating for colonial autonomy against British taxation. The site later continued its tradition of hosting debates on issues ranging from the abolition of slavery to the women's suffrage movement. Today, the hall is the anchor of a vibrant marketplace and historical district, continuing its legacy as a site of civic engagement. Its preserved halls offer a tangible link to the radical political arguments that shaped the birth of American independence. History K8 — Revolutionary civic debate and American freedom.",
+      "factsAdvanced": [
+        "Known as the 'Cradle of Liberty' for its role in pre-Revolutionary debates.",
+        "Built in 1742 as a public marketplace and central civic meeting hall.",
+        "Hosted historic speeches by key revolutionaries like Samuel Adams.",
+        "Long-standing history of debating abolition and women's suffrage movements.",
+        "Acts as a central anchor for the historical marketplace district in Boston.",
+        "Preserves the physical site where foundational political arguments took place."
+      ]
+    }
+  ]
+}

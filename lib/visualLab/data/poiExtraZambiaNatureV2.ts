@@ -66,7 +66,14 @@ export const poiExtraZambiaNatureV2: POI[] = [
       hu: ["Gazdag élővilág", "Cipőscsőrű madár otthona", "Szezonális árvizek", "Nagy biológiai sokféleség"],
       ro: ["Bogată în faună", "Habitat pentru barza-pantof", "Inundații sezoniere", "Diversitate mare de specii"],
       en: ["Rich in wildlife", "Habitat for shoebill", "Seasonal flooding", "High biodiversity"]
-    }, image: "/poi-images/bangweulu-swamp-nature-v2.webp"},
+    }, image: "/poi-images/bangweulu-swamp-nature-v2.webp",
+    descriptionAdvanced: {
+      en: "The Bangweulu Swamp, part of the larger basin, is one of the most significant wetland systems in Africa. Characterized by dense vegetation, papyrus beds, and open water channels, it supports a unique array of biodiversity, including the rare shoebill stork. The swamp's water level fluctuations significantly impact the local ecosystem, providing breeding grounds for numerous fish species that sustain the local fishing industry. It remains a remote and largely untouched wilderness area, essential for studying wetland ecology and carbon sequestration. Sachkunde K3 — animal habitats and ecosystems."
+    },
+    factsAdvanced: {
+      en: ["Home to the rare and elusive shoebill stork", "System spans approximately 3,000 square kilometers", "Key breeding area for indigenous fish species", "Essential for local artisanal fishing communities", "Designated as an important bird area globally", "Experience extreme seasonal flooding dynamics"]
+    }
+  },
   {
     id: "luangwa-river-nature-v2",
     type: "river",
@@ -264,7 +271,14 @@ export const poiExtraZambiaNatureV2: POI[] = [
       hu: ["Látványos zuhatagok", "Szent hely", "Erdővel körülvéve", "Turisztikai célpont"],
       ro: ["Cascade spectaculoase", "Loc sfânt", "Înconjurat de pădure", "Destinație turistică"],
       en: ["Spectacular cascades", "Sacred site", "Surrounded by forest", "Tourist destination"]
-    }, image: "/poi-images/chishimba-falls-nature-v2.webp"},
+    }, image: "/poi-images/chishimba-falls-nature-v2.webp",
+    descriptionAdvanced: {
+      en: "Chishimba Falls, located near Kasama in Northern Zambia, is a series of three spectacular cascades on the Luombe River. It is a popular destination for both local recreation and nature enthusiasts, celebrated for its natural beauty and lush riverine surroundings. The falls have cultural and historical significance to the local Bemba people, who have traditionally considered the site sacred. The constant spray and mist from the cascades support a unique micro-ecosystem at the base of the falls, creating a cool and humid environment even in the drier seasons. Sachkunde K3 — natural wonders and river ecosystems."
+    },
+    factsAdvanced: {
+      en: ["Consists of three separate cascades on the Luombe River", "Located in Northern Province near Kasama", "Historically considered sacred by the Bemba people", "Supports diverse flora in the moist riverine environment", "Popular destination for eco-tourism and nature walks", "Constant flow maintained by perennial river discharge"]
+    }
+  },
   {
     id: "kalambo-falls-nature-v2",
     type: "river",
@@ -381,7 +395,14 @@ export const poiExtraZambiaNatureV2: POI[] = [
       hu: ["Miombo erdők", "Természetközeli élőhely", "Helyi élővilág", "Gazdag növényzet"],
       ro: ["Păduri de Miombo", "Habitat natural", "Faună locală", "Vegetație bogată"],
       en: ["Miombo woodlands", "Natural habitat", "Local fauna", "Rich vegetation"]
-    }, image: "/poi-images/chisamba-forest-nature-v2.webp"},
+    }, image: "/poi-images/chisamba-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      en: "The forests of the Chisamba area are remnant sections of the miombo woodland that once covered large parts of central Zambia. These ecosystems are vital for maintaining soil health, supporting local pollinators, and providing resources such as wild fruits and medicinal plants for local communities. The forests also offer refuge to various native bird and small mammal species, making them important pockets of biodiversity amidst expanding farmland. Protecting these woodland patches is crucial for ensuring the long-term sustainability of the local environment. Geography K7 — forest conservation and miombo ecosystems."
+    },
+    factsAdvanced: {
+      en: ["Dominated by miombo woodland vegetation (Brachystegia spp.)", "Key refuge for local avian and small mammal species", "Source of traditional medicines and wild food", "Vital for carbon sequestration in the region", "Fragmented by agricultural expansion in Chisamba", "Important habitat for native pollinators"]
+    }
+  },
   {
     id: "luangwa-swamps-nature-v2",
     type: "forest",

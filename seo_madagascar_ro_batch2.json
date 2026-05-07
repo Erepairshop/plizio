@@ -1,0 +1,309 @@
+{
+  "lang": "ro",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "farafangana-cities-v2",
+      "descriptionAdvanced": "Farafangana, o destinație liniștită pe coasta sud-estică, este capitala regiunii Atsimo-Atsinanana, așezată ideal între Oceanul Indian și mlaștinile complexe ale Canalului Pangalanes. Orașul este recunoscut pentru economia sa agrară orientată spre export, dominată istoric de plantațiile de cafea robusta, piper negru și, mai recent, de exploatările forestiere. Localitatea servește drept centru cultural principal pentru grupurile etnice Antefasy, Zafisoro și Rabiby, ale căror tradiții animiste guvernează încă viața cotidiană. Piețele aglomerate ale orașului, adesea umbrite de palmieri imenși, sunt vitale pentru pescarii din estuar care își vând prada, aducând laolaltă comorile oceanului și produsele solului vulcanic înconjurător. Geografie K6 — economii costiere tropicale.",
+      "factsAdvanced": [
+        "Aparține administrativ de regiunea Atsimo-Atsinanana.",
+        "Un producător major la nivel național de cafea, piper negru și cuișoare.",
+        "Cultura locală este marcată de coexistența pașnică a etniilor Antefasy și Zafisoro.",
+        "Are acces direct la Canalul navigabil Pangalanes.",
+        "Farafangana se bucură de un climat de pădure tropicală, cu precipitații intense.",
+        "În apropierea orașului se află Rezervația Specială Manombo, protejând lemurieni endemici."
+      ]
+    },
+    {
+      "id": "maroantsetra-cities-v2",
+      "descriptionAdvanced": "Maroantsetra este cel mai umed și poate cel mai sălbatic oraș portuar de pe coasta estică a Madagascarului, ascuns la capătul nordic al Golfului Antongil. Este poarta de acces supremă către fabulosul Parc Național Masoala, cel mai mare și mai intact ecosistem de pădure tropicală primară din țară. Din pricina infrastructurii terestre precare (Route Nationale 5 fiind legendar de greu practicabilă), orașul depinde enorm de navele de marfă maritime care transportă vanilia de primă clasă cultivată în regiune. Călătorii sunt copleșiți de umiditatea constantă, de culorile verzi vii ale junglei care parcă se revarsă în ocean și de ritmul vieții dictat de ciclul musonic. Biologie K8 — pădurile tropicale umede.",
+      "factsAdvanced": [
+        "Punctul logistic de lansare către masivul Parc Național Masoala.",
+        "Înregistrează unele dintre cele mai mari cantități anuale de precipitații din Madagascar (peste 3000 mm).",
+        "Situat în nordul adânc al impresionantului Golf Antongil.",
+        "Economia este puternic ancorată în cultivarea vaniliei și a cuișoarelor.",
+        "Izolarea geografică impune transportul masiv de mărfuri prin ambarcațiuni (boutres).",
+        "Insula Nosy Mangabe, faimoasă pentru populația de aye-aye, este accesibilă de aici."
+      ]
+    },
+    {
+      "id": "vangaindrano-cities-v2",
+      "descriptionAdvanced": "Amplasat în regiunea Atsimo-Atsinanana, Vangaindrano este ultimul mare oraș din sud-est înainte de a pătrunde în sălbăticia regiunii Anosy. Este centrul spiritual și istoric al poporului Antaisaka, fiind situat în mod strategic în zona fertilă formată de revărsarea impresionantului râu Mananara. Aceste condiții hidrologice favorabile permit o abundență rară de culturi diversificate, inclusiv orezării uriașe, plantații de cafea și mirodenii. Vangaindrano este recunoscut pentru ceremoniile sale tradiționale masive, în special riturile funerare grandioase și competițiile de lupte malgașe tradiționale (Moraingy), care atrag mii de tineri din satele învecinate. Istorie K7 — tradiții și identitate etnică sud-estică.",
+      "factsAdvanced": [
+        "Reprezintă nucleul teritorial al puternicului grup etnic Antaisaka.",
+        "Traversat de râul masiv Mananara, al cărui estuar este aproape de oraș.",
+        "Se află la poalele Rezervației Speciale Midongy du Sud.",
+        "Este renumit pentru găzduirea unor mari competiții tradiționale de lupte (Moraingy).",
+        "Agricultura beneficiază de bogatele terenuri aluvionare lăsate de inundațiile râului.",
+        "Calea ferată nu a ajuns niciodată în acest sud îndepărtat, depinzând doar de rutier."
+      ]
+    },
+    {
+      "id": "ambalavao-cities-v2",
+      "descriptionAdvanced": "Ambalavao, supranumit "Poarta Sudului", este o așezare muntoasă excepțional de pitorească din inima regiunii Haute Matsiatra. Faimos la nivel global, aici se fabrică manual hârtia tradițională Antemoro din scoarță de dud sălbatic (Avoha), infuzată cu flori uscate, o tehnică unică păstrată de secole. Orașul este de asemenea gazda celei mai mari piețe de zebu din țară, o adunare săptămânală spectaculoasă unde mii de vite sunt vândute, atrăgând păstori din întregul sud. Arhitectura din Ambalavao este captivantă, dominată de casele rurale ale etniei Betsileo, cu balcoane magnifice din lemn sculptat, profilate pe un fundal spectaculos al crestei muntoase Boby. Geografie K7 — meșteșuguri tradiționale și comerțul cu vite.",
+      "factsAdvanced": [
+        "Cunoscut drept centrul unic de producție a faimoasei hârtii malgașe Antemoro.",
+        "Adăpostește cea mai mare piață săptămânală de vite (zebu) din întregul Madagascar.",
+        "Punct de tranziție atmosferică între platourile centrale reci și sudul arid.",
+        "Arhitectura urbană prezintă celebrele case din cărămidă roșie cu verande elaborate din lemn.",
+        "Este poarta principală de acces către Parcul Național Andringitra (cu Vârful Boby).",
+        "La periferia orașului se află Rezervația Anja, celebră pentru lemurienii catta."
+      ]
+    },
+    {
+      "id": "moramanga-cities-v2",
+      "descriptionAdvanced": "Poziționat strategic pe platoul împădurit dintre capitala Antananarivo și coasta de est, Moramanga este considerat inima istorică a luptei de rezistență malgașe. Aici, în noaptea de 29 martie 1947, a început marea rebeliune anticolonială, eveniment tragic ce a modelat definitiv drumul țării spre independență; astăzi un monument impresionant comemorează martirii. Din punct de vedere economic, Moramanga este un nod crucial de cale ferată (unde linia principală TCE se întâlnește cu ramificația MLA spre Lacul Alaotra) și un centru de exploatare forestieră uriaș, dominat de rețeaua Fanalamanga. Pădurile sale dese de pini au transformat peisajul, furnizând lemn și locuri de muncă pentru mii de oameni. Istorie K8 — rebeliunile anticoloniale și independența.",
+      "factsAdvanced": [
+        "Punctul de pornire istoric al marii Răscoale Malgașe din 29 martie 1947.",
+        "Orașul găzduiește un muzeu dedicat rebeliunii împotriva regimului francez.",
+        "Este principalul nod feroviar dintre capitală, coasta de est și zona lacului Alaotra.",
+        "Înconjurat de zeci de mii de hectare de plantații comerciale de pini (compania Fanalamanga).",
+        "La doar o scurtă distanță se află Parcul Național Andasibe-Mantadia.",
+        "Numele orașului se traduce pitoresc prin "Acolo unde mango este ieftin"."
+      ]
+    },
+    {
+      "id": "ambanja-cities-v2",
+      "descriptionAdvanced": "Ambanja este un oraș efervescent din nord-vestul tropic, care strălucește prin plantațiile uriașe de cacao din bogata Vale a râului Sambirano. Supranumit capitala malgașă a ciocolatei, orașul exportă boabe de cacao premium, intens căutate de maeștrii ciocolatieri din Europa pentru calitatea și finețea aromelor. Datorită ploilor dese și soarelui intens, microclimatul din bazinul Sambirano permite creșterea arborilor de cacao la umbra copacilor ylang-ylang, a bananierilor și a arborilor de cafea, creând un sistem agroforestier uluitor. Populația vibrantă combină stilul de viață relaxat cu ritmurile energice de muzică salegy, orașul fiind și stația de pornire pentru insulele de nord. Geografie K6 — microclimate și agricultura de cacao.",
+      "factsAdvanced": [
+        "Recunoscut drept centrul incontestabil al producției de cacao (ciocolată) din Madagascar.",
+        "Beneficiază de fertilul bazin hidrografic al râului Sambirano.",
+        "Este un nod de transport major pentru călătorii ce se îndreaptă spre Nosy Be via Ankify.",
+        "Cacaoa din zonă este certificată frecvent ca fiind printre cele mai fine din lume ("Fine Cacao").",
+        "Regiunea produce și cantități semnificative de ulei esențial de ylang-ylang.",
+        "Ritmul tradițional al muzicii locale salegy este deosebit de popular în acest oraș."
+      ]
+    },
+    {
+      "id": "antalaha-cities-v2",
+      "descriptionAdvanced": "Antalaha se înalță maiestuos pe coasta de est ca unul dintre giganții globali ai industriei de vanilie. Împreună cu vecina sa Sambava, acest oraș marin dictează fluxurile internaționale ale acestui condiment esențial, fiind locul unde marii prelucrători usucă și fermentează păstăile scumpe. Spre deosebire de alte orașe, Antalaha are un profund caracter artizanal tradițional maritim, fiind celebru pentru fabricarea manuală a ambarcațiunilor "boutres" (goelete uriașe din lemn cu vele, folosite pentru transportul de coastă pe apele învolburate ale oceanului). De asemenea, prosperitatea generată de vanilie a modelat o infrastructură surprinzător de modernă și vile grandioase pentru baronii comerțului. Economie K8 — comerțul internațional și construcțiile navale tradiționale.",
+      "factsAdvanced": [
+        "Unul dintre cele două orașe care formează inima producției globale de vanilie (din regiunea SAVA).",
+        "Este cel mai important centru malgaș pentru construcția manuală de vase maritime (boutres).",
+        "Numele orașului sugerează "Locul de unde se ia apa" sau "Acolo unde este multă apă".",
+        "Are o istorie îndelungată de a rezista și de a fi reconstruit după cicloane devastatoare.",
+        "Averea baronilor vaniliei a creat un stil arhitectural impresionant în zonele centrale.",
+        "Din Antalaha se organizează adesea expediții pe traseele estice dificile ale Capului Masoala."
+      ]
+    },
+    {
+      "id": "ihosy-cities-v2",
+      "descriptionAdvanced": "Ihosy este capitala tărâmului arid din sud-vestul interior al țării și leagănul administrativ al poporului păstoresc Bara, faimos pentru conexiunea lor culturală mistică și profundă cu turmele de vite zebu. Aflat la umbra platourilor inospitale Horombe, orașul se desfășoară sub forma unei oaze de tranzit pe aglomerata Route Nationale 7, unde șoferii și comercianții se opresc înainte de a coborî spre deșertul de coastă. Clima aspră și peisajele stâncoase au obligat comunitățile să se bazeze pe transhumanță, o viață pastorală dură în care numărul de vite denotă atât averea, cât și statutul spiritual. Frecvent, în zonă se raportează confruntări istorice și actuale cu faimoșii hoți de vite (dahalo). Istorie K7 — societăți pastorale și transhumanță.",
+      "factsAdvanced": [
+        "Capitala regiunii Ihorombe și centrul cultural al puternicei etnii Bara.",
+        "Cultura poporului Bara se axează exclusiv pe creșterea vitelor zebu ca simbol al prestigiului.",
+        "Situat pe platoul arid și vast Horombe, o barieră naturală impunătoare.",
+        "Infracționalitatea istorică asociată furtului tradițional de vite (dahalo) este prezentă în zonă.",
+        "Orașul traversează râul Ihosy, o resursă esențială de apă în timpul secetei.",
+        "Se află la intrarea sudică către grandiosul Parc Național Isalo, celebru pentru gresiile sale."
+      ]
+    },
+    {
+      "id": "maevatanana-cities-v2",
+      "descriptionAdvanced": "Renumit ca fiind unul dintre cele mai fierbinți orașe din Madagascar (dacă nu chiar cel mai fierbinte), Maevatanana se află amplasat pe drumul național principal RN4. Din cauza poziționării sale într-o depresiune care captează aerul cald departe de briza mării, temperaturile trec frecvent de pragul sufocant de 35°C. Dincolo de faima sa meteorologică, localitatea se bucură de o prosperitate îndelungată derivată din minerit. Albiile râurilor, în special Ikopa, sunt presărate de sute de căutători artizanali de aur care filtrează aluviunile în goana după minereu, generând o piață locală informală substanțială. Peisajul său este dominat de dealuri erodate sever de culoarea sângelui, tipice terenurilor lateritice africane. Geografie K6 — minerit artizanal și fenomene de temperatură.",
+      "factsAdvanced": [
+        "Deține reputația națională de a fi printre cele mai călduroase orașe din Madagascar.",
+        "Numele orașului se traduce prin "Acolo unde este un sat frumos".",
+        "Situat pe cursul superior al enormului fluviu Ikopa.",
+        "În zonă, orpaillage-ul (extragerea manuală a aurului din aluviuni) este o activitate majoră.",
+        "Este înconjurat de un relief roșu puternic erodat, prezentând falii adânci (lavaka).",
+        "Reprezintă o oprire tradițională pentru transportatorii care coboară din munți spre Mahajanga."
+      ]
+    },
+    {
+      "id": "betroka-cities-v2",
+      "descriptionAdvanced": "Situat în extremitatea sudică a zonei muntoase centrale, Betroka este un avanpost izolat și dur, cu o istorie impregnată de conflicte și o economie centrată pe supraviețuire. Considerat granița simbolică între teritoriul Betsileo, axat pe agricultură, și ținuturile deșertice ale poporului Bara, axat pe păstorit, orașul este esențial pentru siguranța regională a tranzacțiilor cu vite zebu. Regiunea a intrat în atenția publică națională pentru a fi epicentrul luptei forțelor de ordine împotriva brigăzilor armate de "dahalo" (hoți de vite). Izolarea sa teritorială, amplificată de starea dezastruoasă a drumului Route Nationale 13, transformă Betroka într-un bastion rural unde justiția tradițională a satelor joacă adesea un rol mai mare decât statul. Sociologie K8 — justiția rurală și criminalitatea pastorală.",
+      "factsAdvanced": [
+        "Se află la intersecția dintre cultura pastorală (Bara) și cea agricolă.",
+        "Este baza strategică principală pentru jandarmeria care combate fenomenul Dahalo (hoții de zebu).",
+        "Zona a fost izolată rutier din cauza degradării avansate a Route Nationale 13.",
+        "Clima variază masiv între veri fierbinți și ierni montane aspre și reci.",
+        "Orașul este dominat de piețe de schimb agrar unde trocul este încă frecvent.",
+        "La est de oraș începe urcarea spre inaccesibilul și spectaculosul Masiv Andringitra."
+      ]
+    },
+    {
+      "id": "fenoarivo-atsinanana-cities-v2",
+      "descriptionAdvanced": "Fenoarivo Atsinanana, adesea numit simplu Fénérive-Est, este perla coastei de est, având statutul de capitală a regiunii forestiere Analanjirofo. Fost centru prosper al piraților europeni din secolul al XVIII-lea, orașul păstrează fortăreața veche pe promontoriul Vohimasina, amintind de regalitatea regatului Betsimisaraka care s-a unificat aici sub regele Ratsimilaho. Astăzi, localitatea se bucură de statutul de capitală agricolă a unuia dintre cele mai cerute condimente: cuișoarele. În timpul recoltei, mireasma pătrunzătoare a mugurilor la uscat plutește prin toate colțurile orașului, o mare parte a economiei familiilor fiind dependentă de această producție sezonieră și de pescuitul costier tradițional. Istorie K7 — regatele de coastă și epoca de aur a pirateriei.",
+      "factsAdvanced": [
+        "Capitala administrativă a regiunii Analanjirofo (care înseamnă "Regiunea Ferigilor/Cuișoarelor").",
+        "În apropiere se află fostul fort Vohimasina al regelui piraților, Ratsimilaho.",
+        "Populația aparține istoric și predominant grupului etnic Betsimisaraka.",
+        "A fost unul dintre primele orașe care a adoptat cultivarea masivă a cuișoarelor.",
+        "Pe malul oceanului se află Manda, un sanctuar natural respectat de localnici.",
+        "Este un nod vital pentru comerțul care merge din nord (Sainte-Marie) spre portul Toamasina."
+      ]
+    },
+    {
+      "id": "tsiroanomandidy-cities-v2",
+      "descriptionAdvanced": "Aflat la vest de munții centrali, Tsiroanomandidy funcționează de secole drept o "frontieră de vest" care conectează civilizațiile fermierilor de pe platourile înalte cu păstorii vastelor stepe din teritoriul Sakalava. Recunoscut pentru găzduirea celei mai colosale piețe de bovine din vestul Madagascarului, orașul primește săptămânal zeci de turme de zebu conduse de păstori nomazi pe rute prăfuite care durează săptămâni întregi. Cumpărătorii vin aici din însăși Antananarivo pentru a-și securiza carnea pentru piața internă a capitalei. Numele orașului, ce poartă moștenirea glorioasă a regelui Merina Radama I, reamintește vizitatorilor de dominația centrală într-un peisaj marcat de câmpii aurii nesfârșite și dealuri sălbatice greu accesibile. Geografie K7 — frontiere agricole și piețe nomadice.",
+      "factsAdvanced": [
+        "Numele orașului se traduce istoric "Acolo unde nu judecă doi (regi)", amintind de victoria lui Radama I.",
+        "Este capitala regiunii administrative Bongolava.",
+        "Deține cea mai mare piață vestică pentru comerțul național cu vite zebu.",
+        "Orașul este poarta de acces spre masivul misterios și accidentat, Munții Bongolava.",
+        "Păstorii parcurg pe jos distanțe de sute de kilometri din sud-vest pentru a-și vinde aici vitele.",
+        "Zona se distinge printr-un relief plat, acoperit de savană, excelent pentru pășunat."
+      ]
+    },
+    {
+      "id": "miarinarivo-cities-v2",
+      "descriptionAdvanced": "Miarinarivo, o localitate grațioasă din munții centrali și capitala administrativă a regiunii Itasy, emană un calm și o curățenie de invidiat. În ciuda rolului său administrativ cheie, orașul se simte ca o așezare agricolă gigantă cu străzi frumos aliniate și case masive de cărămidă ce domină dealurile terasate. Datorită pământului vulcanic excepțional de fertil din Itasy, economia localității depinde de culturile excelente de porumb, arahide și tutun negru. Vizibil influențat de misiunile religioase istorice, Miarinarivo are o catedrală impunătoare care este o piesă arhitecturală remarcabilă în peisajul rural. Comunitatea prețuiește un trai tihnit, în mare contrast cu forfota capitalei naționale aflate la doar câteva zeci de kilometri distanță. Istorie K6 — misiuni religioase și arhitectura rurală de munte.",
+      "factsAdvanced": [
+        "Are statutul de reședință administrativă a importantei regiuni vulcanice Itasy.",
+        "Numele Miarinarivo înseamnă în mod poetic "O mie stau împreună".",
+        "Se bucură de un climat temperat extrem de favorabil pentru diversitatea agricolă.",
+        "Catedrala sa catolică Christ-Roi domină arhitectural întregul centru al orașului.",
+        "Teritoriul înconjurător produce recolte masive de roșii și cereale pentru piața capitalei.",
+        "Spre deosebire de alte capitale regionale, a evitat industrializarea grea, rămânând axat pe agricultură."
+      ]
+    },
+    {
+      "id": "ambatolampy-cities-v2",
+      "descriptionAdvanced": "La doar câteva ore sud de capitală pe legendarul traseu RN7, Ambatolampy este faimos ca fiind orașul meșterilor în aluminiu și cupru. Profitând de apropierea de Masivul Ankaratra, o sursă inepuizabilă de lemne și cărbune, comunitatea și-a dezvoltat ateliere artizanale unde metalul este topit în creuzete primitive de pământ și turnat cu măiestrie în forme de nisip pentru a crea celebrele tigăi malgașe tipice ("marmite"), dar și ornamente complicate sau suveniruri lucitoare. Generații întregi de turnători își transmit cu mândrie abilitățile de la tată la fiu. Orașul este mereu răcoros, adesea învăluit de o ceață muntoasă matinală densă, o caracteristică definitorie a climatului său de tranziție montană. Științe Tehnologice K6 — turnătoria de metale preindustriale.",
+      "factsAdvanced": [
+        "Reprezintă polul național artizanal al topirii manuale și prelucrării aluminiului reciclat.",
+        "Ambatolampy se găsește la o altitudine impresionantă de circa 1.644 de metri.",
+        "Peisajul orașului este adesea marcat de fumul atelierelelor de turnătorie familiale.",
+        "Numele orașului sugerează ideea de "La stânca plată/lucioasă".",
+        "Climatul rece permite de asemenea cultivarea viței de vie și prezența păstrăvăriilor.",
+        "Așezarea a fost un punct major de luptă pe vremea expansiunii istorice a regatului Merina."
+      ]
+    },
+    {
+      "id": "arivonimamo-cities-v2",
+      "descriptionAdvanced": "Istoria modernă a orașului Arivonimamo a fost pentru mult timp legată de unicul aeroport internațional care a deservit capitala națională până în anii 1960. După mutarea curselor aeriene internaționale la Ivato, așezarea și-a redescoperit rădăcinile ancestrale ca hub masiv de prelucrare a mătăsii sălbatice endemice a Madagascarului, produsă de viermii "Tapia" (Borocera cajani). Femeile de aici dețin secretul extragerii firelor din gogoșile aspre colectate din rezervațiile forestiere de tapia înconjurătoare, pentru a crea faimoasa pânză brută de mătase "lambamena", folosită în special la confecționarea giulgiurilor funerare sacre de o valoare inestimabilă. Dincolo de artizanat, platourile fertile găzduiesc importante orezării tradiționale terasate. Tehnologie K7 — prelucrarea mătăsii sălbatice și sericicultura.",
+      "factsAdvanced": [
+        "A deținut primul aeroport internațional din Madagascar (activ până în anul 1967).",
+        "Este centrul inegalabil al țeserii fibrelor de mătase sălbatică endemică ("landy").",
+        "Pânzele speciale de mătase ("lambamena") sunt utilizate în principal la ceremoniile funerare "Famadihana".",
+        "În apropierea orașului există printre ultimele păduri originale de arbori Tapia (Uapaca bojeri).",
+        "Arivonimamo este clasificat drept district al regiunii centrale Itasy.",
+        "Numele său evocă imaginea "Celui cu o mie de soldați" (Arivo-nimamo)."
+      ]
+    },
+    {
+      "id": "andapa-cities-v2",
+      "descriptionAdvanced": "Situată adânc în interiorul regiunii nord-estice SAVA, Andapa este o depresiune vulcanică remarcabil de fertilă, un vast vas agricol protejat de masive muntoase colosale, inclusiv uluitorul Marojejy și Munții Anjanaharibe-Sud. Această "bazină verde" beneficiază de un climat superumed care o face unul dintre cele mai bogate grânare naturale ale țării. Dincolo de plantațiile excepționale de orez pluvial, aici se procesează un procent impresionant din producția mondială de vanilie de top. Izolarea sa relativă conferă așezării o prosperitate liniștită, orașul reflectând un amestec curios de averi câștigate din exporturi mondiale și un stil de viață strict agricol ce nu a fost alterat de trecerea secolelor. Geografie K7 — bazine vulcanice și izolarea agricolă.",
+      "factsAdvanced": [
+        "Amplasat într-o depresiune structurală, supranumită uneori "Bolul Andapa".",
+        "Depinde în mare măsură de cultivarea extensivă a vaniliei și a orezului irigat intens.",
+        "Reprezintă poarta vestică preferată de eco-turiști pentru escaladarea masivului Marojejy.",
+        "Regiunea este renumită pentru biodiversitatea forestieră, deținând multiple rezerve naturale alăturate.",
+        "Climatul hiper-umed local generează un minim de peste 200 de zile ploioase anual.",
+        "Zona a beneficiat masiv din punct de vedere arhitectural în urma exploziei globale a prețului vaniliei."
+      ]
+    },
+    {
+      "id": "ankazoabo-cities-v2",
+      "descriptionAdvanced": "Ankazoabo-Atsimo se remarcă drept un avanpost izolat și stoic, aflat în imensitatea regiunii de sud-vest, fiind asaltat constant de soarele nemilos al preriei semi-aride. Tradițional considerat inima geografică a poporului semi-nomad Bara, economia localității se sprijină aproape exclusiv pe efectivele masive de zebu, cu o populație care navighează provocările terenurilor crăpate de secetă și a savanelor deseori pârjolite de incendii sezoniere. Lipsa apei constante face din râul Sikily (și din fluviul apropiat Mangoky) o arteră vitală în jurul căreia se concentrează orice activitate. Mai mult, Ankazoabo suferă istoric de o securitate precară generată de fenomenul dahalo, adăugând un element de precauție severă existenței rurale de aici. Istorie K8 — ecosisteme semi-aride și insecuritatea rutelor.",
+      "factsAdvanced": [
+        "Un nod esențial pentru poporul semi-nomad pastoral Bara.",
+        "Izolarea este exacerbată de o rețea rutieră degradată masiv în sezonul de uscăciune.",
+        "În apropierea estică se întind teritoriile de un relief extraordinar ale masivului stâncos Makay.",
+        "Activitatea economică primară depinde de rutele de tranzit pentru miile de vite zebu.",
+        "Denumirea localității se referă la imaginea "Lemnului înalt/Copacilor înalți" din peisaj.",
+        "Așezarea este puternic dependentă de puțurile adânci și râurile sezoniere din regiunea Atsimo-Andrefana."
+      ]
+    },
+    {
+      "id": "belo-sur-tsiribihina-cities-v2",
+      "descriptionAdvanced": "Aflată pe malurile inferioare ale monumentalului râu Tsiribihina din vestul Madagascarului, localitatea Belo sur Tsiribihina combină un rol istoric regal profund cu importanța contemporană în eco-turism. Odinioară un puternic oraș sacru unde conducătorii regatului Sakalava din regiunea Menabe erau omagiați (aici se desfășoară faimosul ritual tradițional de spălare a relicvelor regale "Fitampoha"), astăzi așezarea pulsează din pricina sutelor de ambarcațiuni turistice care finalizează o excursie pitorească pe râu ce durează mai multe zile. Este de asemenea stația de tranzit inevitabilă pentru călătorii pe patru roți care se îndreaptă spre misterioasele rezervații Tsingy de Bemaraha, depinzând total de un enorm feribot improvizat, lipsind podurile. Istorie K8 — regatele vestice antice și ecoturism fluvial.",
+      "factsAdvanced": [
+        "Localitatea este capitala spirituală a relicvelor sacre aparținând regatului Menabe (Sakalava).",
+        "Găzduiește ceremonia de "Fitampoha" (spălarea moaștelor regale) ce se desfășoară odată la câțiva ani.",
+        "Punctul de sosire preferat al tururilor fluviale masive cu barja de-a lungul râului Tsiribihina.",
+        "Tranzit rutier critic, traversarea fluviului bazându-se doar pe un bac/feribot de mici dimensiuni.",
+        "Majoritatea economiei provine din ecoturismul îndreptat spre Parcul Național Tsingy de Bemaraha.",
+        "Orașul devine extrem de prăfuit și sufocant în timpul sezonului secetos vestic."
+      ]
+    },
+    {
+      "id": "fandriana-cities-v2",
+      "descriptionAdvanced": "Înconjurat de dealurile înverzite și de orezăriile pitorești sub formă de amfiteatru din regiunea Amoron'i Mania, Fandriana este considerat un veritabil centru al inteligenței și educației. Odinioară orașul a fost puternic favorizat de curtea regală Merina, trimițând de aici nenumărați funcționari, profesori și miniștri la Antananarivo. Această moștenire intelectuală se reflectă în numărul neobișnuit de mare de instituții de învățământ, biserici din cărămidă solidă și o rată ridicată de alfabetizare pentru un oraș muntos. Tradiția locală celebrează, de asemenea, industria țesutului și tâmplăria artizanală din lemn de esență nobilă. În afara peisajului său intelectual, locuitorii Fandrianei dețin abilități agro-forestiere avansate menite să combată eroziunea solului de pantă. Istorie K7 — sistemul educațional și funcționarii regatului.",
+      "factsAdvanced": [
+        "Este renumit la nivel național ca sursă pentru mulți profesori, intelectuali și oficiali de stat.",
+        "Cultura locală (din zona Betsileo de nord) se axează masiv pe educația formală și prezența religioasă.",
+        "Peisajul înconjurător e dominat de faimoasele orezării în terase etajate cu măiestrie.",
+        "Orașul are o istorie de alianțe puternice cu fosta monarhie din Imerina.",
+        "Economia include plantații substanțiale de lemn prețios de palisandru și de pin.",
+        "Arhitectura specifică abundă de imobile cu mai multe etaje, din cărămidă nearsă și verande ample."
+      ]
+    },
+    {
+      "id": "vatomandry-cities-v2",
+      "descriptionAdvanced": "Situat pe o faleză deschisă la imprevizibilul Ocean Indian, Vatomandry a fost, cu mult înainte de ridicarea actualului port Toamasina, cel mai mare nod maritim comercial al țării. "Orașul rocilor adormite" — cum se traduce numele său — servea drept punct final al caravanelor montane de hamali ce aduceau produse tocmai din Antananarivo pentru a fi trimise către rutele navale europene. Astăzi, vechiul far colonial și depozitele degradate trădează apogeul său comercial pierdut. Orașul atrage locuitorii din capitală (fiind stațiunea de litoral accesibilă cel mai rapid cu mașina), devenind locul ideal pentru escapade la plajă pe țărmuri întinse, chiar dacă recifele coraliere lipsesc, iar valurile bariei se sparg brutal. Economie K8 — declinul orașelor portuare istorice.",
+      "factsAdvanced": [
+        "A fost cel mai important port comercial și diplomatic al regatului malgaș în secolul al XIX-lea.",
+        "În limba malgașă, Vatomandry se traduce prin "Pietre care adorm" (un șir de stânci din larg).",
+        "Este destinația balneară de pe coasta estică cea mai apropiată de Antananarivo.",
+        "A fost locul nașterii primului lider malgaș contemporan, Didier Ratsiraka.",
+        "Regiunea este străbătută longitudinal de ruta navigabilă internă a Canalului Pangalanes.",
+        "Orașul este frecvent vizat de efectele distructive ale cicloanelor tropicale mari."
+      ]
+    },
+    {
+      "id": "hell-ville-cities-v2",
+      "descriptionAdvanced": "Hell-Ville, a cărei denumire completă contemporană este Andoany, deține statutul de capitală administrativă a insulei turistice Nosy Be (supranumită "Insula Parfumurilor"). Numit istoric după un ofițer naval francez din 1841, amiralul de Hell, orașul posedă un caracter colonial intens, cu alei protejate de bolți gigantice ale copacilor și fâșii lungi de clădiri părăginite dar rafinate de-a lungul falezei cu tunuri. Hell-Ville este inima economică a regiunii insulare, dominată de tranzacțiile de port și activitățile logistice care sprijină uriașa industrie hotelieră a insulei. Zgomotul omniprezent al ricșelor motorizate (tuk-tuk-uri galbene), piețele imense care comercializează vanilie, rom local și raci gigantici transformă acest oraș într-o explozie de senzații tropicale. Geografie K7 — capitală de arhipelag și ecoturism.",
+      "factsAdvanced": [
+        "Capitala administrativă a marii insule de atol vulcanic Nosy Be (din limba malgașă, Insula Mare).",
+        "Numele provine din perioada colonială, de la amiralul francez Anne Chrétien Louis de Hell (înființat în 1841).",
+        "Clădirile falezei portuare încă au instalate vechile tunuri militare cu orientare spre mare.",
+        "Piața sa municipală acoperită este renumită pentru abundența de mirodenii, crabi și fructe exotice.",
+        "Orașul poartă și denumirea autohtonă malgașă Andoany.",
+        "Spre deosebire de plajele izolate de nord ale Nosy Be, are caracteristici urbane și logistice puternice."
+      ]
+    },
+    {
+      "id": "ambilobe-cities-v2",
+      "descriptionAdvanced": "Aflat la confluența câmpiilor tropicale de nord, Ambilobe este un pol agrar enorm care excelează printr-o resursă inconfundabilă: vastele plantații de trestie de zahăr (supranumite SIRAMA) deținută inițial de stat. Mirosul dulce, fermentat de melasă, învelește orașul la final de an, când se derulează tăierea masei vegetale bogate. Poziționarea orașului îl face principala răscruce a nordului — despărțind traficul dintre coasta vestică, portul nordic Diego Suarez și zonele de producție a vaniliei (regiunea SAVA). Mai mult decât un simplu centru de zahăr și rom artizanal (toaka gasy), așezarea a capătat rezonanță turistică pentru că deservește uluitoarea Rezevație Ankarana, cu masivele sale peșteri și formațiunile ascuțite, de neînțeles din calcar tsingy. Geografie K6 — culturi industriale de trestie de zahăr și transport rutier.",
+      "factsAdvanced": [
+        "Centrul național istoric al fabricării zahărului cristalin din imensele câmpuri de trestie din jur.",
+        "Este considerat punctul de separare terestră (nod rutier) dintre nord-est, nord-vest și extremitatea nordică.",
+        "Populația aparține în majoritate tribului nordic Antankarana.",
+        "Găzduiește ceremonia complexă tradițională de regenerare numită Tsangatsaingy.",
+        "Este orașul situat la ușa Parcului Național Ankarana, recunoscut internațional pentru masivele "Tsingy".",
+        "Traversat de marele râu Mahavavy-Nord, care fertilizează zonele adiacente orașului."
+      ]
+    },
+    {
+      "id": "vohemar-cities-v2",
+      "descriptionAdvanced": "Într-un fundal istoric excepțional, Iharana (cunoscut internațional drept Vohemar) stă mărturie istoriei unice islamice a Madagascarului. Excavațiile realizate aici au dezvăluit cimitire și urme ale unei străvechi civilizații arabe antice prosperă de pe coasta nord-estică (denumită "Civilizația Rasikajy"), recunoscută pentru bijuterii sofisticate și veselă rafinată importată din Persia și China, cu mult înainte de apariția colonialiștilor europeni. În epoca contemporană, micul oraș port servește ca un hub valoros în nord pentru comerțul regional de animale și ca un nod minor pentru vanilie, profitând de apele sale protejate de o uriașă barieră de corali care facilitează ancorarea navelor comerciale mai mici și aduc o stare de izolare pașnică într-o regiune plină de agitație. Istorie K8 — vechile civilizații arabo-islamice costiere.",
+      "factsAdvanced": [
+        "A găzduit legendara, dar dispăruta civilizație arabico-malgașă antică (Rasikajy), înfloritoare în secolele XIII-XV.",
+        "Orașul este în mod frecvent referit pe plan intern cu numele tradițional malgaș Iharana.",
+        "Zidul extins de recife de corali crează un port natural liniștit și adânc.",
+        "A constituit primul port de export pe mare al vitelor zebu trimise în țările din estul Africii.",
+        "Climatul e caracterizat prin influențe medii ale alizeelor oceanice pe tot parcursul anului.",
+        "Păstrează urme esențiale ale ruinelor mormintelor cu incripții din epocile medievale pre-europene."
+      ]
+    },
+    {
+      "id": "ambodifotatra-cities-v2",
+      "descriptionAdvanced": "Ambodifotatra, agitatul dar seducătorul sat care servește drept capitală pentru fascinanta Insulă Sainte-Marie (Nosy Boraha), respiră pur și simplu poveștile epocii de aur ale piraților europeni din secolul al XVIII-lea. Străduțele sale sunt marcate simbolic de prima și cea mai veche biserică catolică din piatră din țară (construită în 1857). Locul abundă în ecourile unor legendari corsari precum William Kidd sau Thomas Tew, insula fiind refugiul global suprem al acestora. Portul său primește la intervale orare regulate turme de feriboturi care descarcă vizitatori și aprovizionări esențiale, fiind vital din iulie până în septembrie pentru flotilele dedicate urmăririi balenelor cu cocoașă în zona canalului liniștit al insulei. Istorie K7 — istoria pirateriei pe insulele izolate.",
+      "factsAdvanced": [
+        "Constituie unica așezare urbană reală și poarta portuară de pe Insula Sainte-Marie.",
+        "Deține cea mai veche biserică permanentă cu structură din piatră din Madagascar (biserica catolică ridicată în 1857).",
+        "Zonă principală asociată cu taberele secrete și viața faimoșilor corsari (secolele XVII - XVIII).",
+        "Apare ca un culoar vital la nivel național pentru observația migrației anuale a balenelor cu cocoașă (Megaptera novaeangliae).",
+        "Într-un mic golf din port se află "Insula Forbanilor" (Île aux Forbans).",
+        "Are o istorie strânsă legată de deciziile reginei locale Bety, care a cerut protectoratul francez în anii 1750."
+      ]
+    },
+    {
+      "id": "miandrivazo-cities-v2",
+      "descriptionAdvanced": "Miandrivazo este sinonim național cu epuizarea sufocantă a unui climat în care temperaturile adesea ating maxime extreme pentru statul insular, cu un aer care parcă fierbe, blocat adânc într-o depresiune înconjurată de dealuri golașe. Denumirea sa, purtând sensul "Unde eu aștept o soție", este o mențiune la celebra așteptare a suveranului Merina Radama I a reginei sale din est. Orașul este astăzi celebru nu doar pentru climă, ci deoarece reprezintă punctul absolut de lansare și logistica supremă pentru grupurile de eco-turiști care încep fabuloasa lor expediție fluviatilă de coborâre de zile în șir pe râul Mahajilo, spre mărețul fluviu Tsiribihina. Izolarea sa face din creșterea intensivă a vitelor și comerțul mic un colac de salvare economic. Geografie K6 — efectele depresiunilor asupra microclimatelor calde.",
+      "factsAdvanced": [
+        "Adesea clasificat drept cel mai cald și sufocant oraș, pe tot parcursul anului, din întreg teritoriul malgaș.",
+        "Constituie punctul principal istoric și modern de îmbarcare în cursele fluviale pe râurile vestice Tsiribihina și Mahajilo.",
+        "Numele orașului omagiază așteptarea regelui unificator Radama I a reginei sale Sakalava (Rasálala).",
+        "Aparține zonei administrative și influenței culturale a regiunii Menabe.",
+        "În apropierea sa, economia domină masiv prin creșterea a numeroase turme de vite, într-o zonă afectată sever de defrișări.",
+        "Nu se bucură de prezența vânturilor marine (alizee) din pricina masivelor muntoase care îl îngrădesc."
+      ]
+    }
+  ]
+}

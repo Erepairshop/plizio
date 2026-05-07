@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "habitation-du-caille-history-v2",
+      "descriptionAdvanced": "Az Habitation Du Caille egyike azon kevésbé ismert, de történelmileg fontos francia gyarmati kávéültetvény-romoknak, amelyek Haiti hegyvidékein, különösen a Sud (Déli) és Grand'Anse megyék határvidékén szóródtak szét. A 18. század közepén Saint-Domingue a világ kávétermelésének több mint felét adta, és ennek a termelésnek a gerincét a Du Caille-hoz hasonló, rabszolgákat dolgoztató nagybirtokok jelentették. A komplexum maradványai között ma is felismerhetők a kávébabok szárítására szolgáló hatalmas teraszok (glacis), valamint a vízelvezető és öntözőrendszerek kőcsatornái. Az 1791-ben kirobbant haiti forradalom során ezeket az elszigetelt birtokokat a fellázadt rabszolgák szinte kivétel nélkül felgyújtották. Ma az egykori ültetvény területe ismét trópusi erdővé és kisebb helyi parcellákká alakult, miközben a kőfalak lassan az enyészeté lesznek. Geschichte K8 — a gyarmati kávéültetvények szerkezete.",
+      "factsAdvanced": [
+        "Francia gyarmati kori kávéültetvény (habitation) romjai.",
+        "A kávébab szárítására használt széles, lapos teraszok (glacis) a legismertebb elemei.",
+        "A vízellátást fejlett kőből épült csatornarendszerek biztosították.",
+        "A birtok az 1791-ben kezdődő haiti forradalom során pusztult el.",
+        "Tengerszint feletti magassága jellemzően 500 méter feletti, ideális a kávénak.",
+        "Saint-Domingue a 18. században a globális kávépiac vezetője volt az ilyen birtokok révén."
+      ]
+    },
+    {
+      "id": "fort-brossard-history-v2",
+      "descriptionAdvanced": "A Fort Brossard egy történelmi francia tüzérségi erőd maradványa, amely a haiti partvidéket, különösen a fontosabb öblöket hivatott védeni a brit és spanyol hajók támadásaitól a 18. században. Az erőd stratégiailag egy dombtetőn helyezkedik el, ahonnan tiszta kilátás nyílik a tengerre és a környező ültetvényekre. Bár méreteiben elmarad az olyan óriásoktól, mint a Fort Dauphin (Fort Liberté), a gyarmati védelmi láncolat kritikus eleme volt. Az erőd vastag, mészhabarccsal és korallkövekkel erősített falai még a mai napig ellenállnak az időjárás viszontagságainak. A haiti forradalom alatt a francia csapatok többször is innen próbálták visszaverni a felkelők támadásait, mielőtt a létesítmény végleg a haiti erők kezére került. Ma elhagyatott történelmi emlékhely. Geschichte K7 — karibi gyarmati erődítményrendszerek.",
+      "factsAdvanced": [
+        "A 18. század folyamán épült francia tüzérségi bázis.",
+        "Célja a rivális európai flották (brit, spanyol) támadásainak elhárítása volt.",
+        "Építéséhez helyi korallköveket és erős mészhabarcsot használtak.",
+        "A stratégiai kilátás érdekében egy partmenti magaslatra építették.",
+        "A haiti forradalom alatt többször is gazdát cserélt a franciák és a felkelők között.",
+        "Ma nagyrészt feltáratlan és a trópusi növényzet által benőtt rom."
+      ]
+    },
+    {
+      "id": "ruines-de-saint-michel-history-v2",
+      "descriptionAdvanced": "A Ruines de Saint-Michel egy kiterjedt, 18. századi francia cukor- és indigóültetvény maradványait foglalja magában, amely az Artibonite-síkság vagy a Cul-de-Sac síkság termékeny vidékein terült el. Ez a komplexum kiváló példája a 'habitation sucrerie' (cukorgyártó ültetvény) szerkezetének: a romok között még mindig kivehetők az egykori hatalmas vízkerékkel hajtott nádzúzó malmok (moulin à eau), a forralóházak (sucrerie) és a rabszolgák negyedének (cases à nègres) alapjai. Saint-Domingue gyarmati gazdagságának alapja az itteni embertelen rabszolgamunka volt, amelynek során több száz afrikait dolgoztattak halálra a cukornád betakarítása és feldolgozása során. Az 1791-es Bois Caïman-i vudu ceremóniát követő első hetekben az ilyen birtokokat a lázadók módszeresen elpusztították, véget vetve a francia elit uralmának. Geschichte K8 — a karibi cukoripar és a rabszolgaság.",
+      "factsAdvanced": [
+        "Egy 18. századi francia 'habitation sucrerie' (cukorültetvény) romjai.",
+        "Láthatóak az egykori nádzúzó vízimalom és a forralóüzem kőalapjai.",
+        "Több száz afrikai rabszolgát zsákmányoltak ki a komplexum területén.",
+        "Az 1791-es rabszolgalázadás első heteiben a felkelők porig égették.",
+        "A cukor mellett gyakran indigót (kék festékanyag) is feldolgoztak itt.",
+        "Haiti történetének fontos helyszíne, amely a gyarmati elnyomásra emlékeztet."
+      ]
+    },
+    {
+      "id": "fort-de-la-riviere-froide-history-v2",
+      "descriptionAdvanced": "A Fort de la Rivière Froide egy kevésbé ismert, de annál fontosabb katonai támaszpont volt az Ouest megyében, a Rivière Froide (Hideg-folyó) kanyonja felett. Az erődöt a korai 19. században, Jean-Jacques Dessalines és Henri Christophe uralkodása alatt építették vagy erősítették meg, a főváros, Port-au-Prince déli és nyugati hegyi megközelítési útvonalainak védelmére. A fiatal független állam vezetői rettegtek Napóleon seregének visszatérésétől, ezért a hegyvidéki szűkületeket, folyóvölgyeket masszív kőerődökkel zárták le. Az építmény nehezen megközelíthető terepe önmagában is természetes védelmet nyújtott. Bár a várt francia invázió sosem következett be, az erőd a későbbi 19. századi haiti polgárháborúk és regionális konfliktusok során (pl. észak és dél szakadása) is stratégiai szerepet kapott. Geschichte K7 — posztkoloniális hegyi erődítmények.",
+      "factsAdvanced": [
+        "A Rivière Froide (Hideg-folyó) stratégiai völgyében, Port-au-Prince közelében épült.",
+        "A 19. század eleji haiti függetlenségi vezetők (Dessalines, Christophe) építtették.",
+        "Elsődleges célja egy újabb francia invázió szárazföldi megállítása volt.",
+        "A kanyon szűk keresztmetszete ideális védelmi pontot biztosított az ágyúknak.",
+        "A 19. századi belső haiti konfliktusokban is katonai támaszpontként szolgált.",
+        "Romjai ma is láthatók, de a sűrű növényzet miatt nehezen látogathatók."
+      ]
+    },
+    {
+      "id": "habitation-le-clerc-history-v2",
+      "descriptionAdvanced": "Az Habitation Leclerc egy rendkívül híres és történelmileg terhelt terület Port-au-Prince Martissant negyedében. A birtok eredetileg Pauline Bonaparte, Napóleon húga és Charles Leclerc tábornok (a francia expedíciós sereg parancsnoka) rezidenciája volt 1802-es haiti tartózkodásuk idején. A pazar trópusi kertekkel körülvett luxusvillában a francia elit fényűző életet élt, miközben Leclerc csapatai véres háborút vívtak a haiti forradalmárokkal (és a sárgalázzsal, amely végül Leclerc-t is elvitte). Később, a 20. század közepén a birtokon egy exkluzív luxusszálloda működött, amely a nemzetközi jet-set (pl. Mick Jagger, Aristoteles Onassis) kedvelt célpontja volt a Duvalier-korszakban. Mára azonban a hajdani dicsőség teljesen eltűnt; a területet a környező nyomornegyedek bekebelezték, a pálmafák alatti romok pedig a politikai és társadalmi összeomlás néma tanúi. Geschichte K8 — a francia elit bukása és a 20. századi luxusturizmus vége.",
+      "factsAdvanced": [
+        "A 19. század elején Pauline Bonaparte és Charles Leclerc tábornok birtoka volt.",
+        "Port-au-Prince Martissant negyedének hegyoldalán található.",
+        "Leclerc tábornok innen irányította a haiti forradalom leverését célzó (sikertelen) hadjáratot.",
+        "Az 1970-es években világhírű, exkluzív luxushotelként működött.",
+        "A komplexum a 20. század végi politikai zavargások során hanyatlásnak indult.",
+        "Ma az egykori birtokot sűrűn lakott, szegény városi negyedek vették körül."
+      ]
+    },
+    {
+      "id": "fort-de-la-presquile-sud-history-v2",
+      "descriptionAdvanced": "A Fort de la Presqu'île Sud egy régi tengerészeti erődítmény, amely a Tiburon-félsziget, azaz a 'Déli Félsziget' (Presqu'île du Sud) egy stratégiai tengerfokán állt. Ezt a létesítményt a 18. század végi francia mérnökök tervezték a part menti kereskedelem és az értékes indigó- valamint cukorszállítmányok védelmére a brit kapersihajókkal és kalózokkal szemben. Az erőd jellegzetes, félköríves bástyái úgy lettek kialakítva, hogy a nehéz tüzérség széles szögben tudja lőni a tenger felől érkező támadókat. Az 1804-es függetlenség kikiáltása után az erődöt a haiti hadsereg vette át, de mivel az állam fókusza a szárazföldi és hegyvidéki védelemre tolódott, az épület fokozatosan elvesztette jelentőségét. Ma a sós tengeri levegő és a hurrikánok alaposan megkoptatták a mészkőfalakat, de még mindig lenyűgöző kilátást nyújtanak a Karib-tengerre. Geschichte K7 — gyarmati tengerészeti hadviselés.",
+      "factsAdvanced": [
+        "A Tiburon-félsziget tengerparti szikláin elhelyezkedő 18. századi erőd.",
+        "Francia mérnökök tervezték a brit kapersihajók (corsaires) elleni védelemre.",
+        "Félköríves bástyái széles lőteret biztosítottak a nehéztüzérségnek.",
+        "Haiti függetlenné válása után a partvédelmi hangsúly csökkenésével elhagyatottá vált.",
+        "A falak építőanyaga nagy részben helyben bányászott korallmészkő.",
+        "A hurrikánok és a sósvízi erózió jelentős károkat okoztak a szerkezetben."
+      ]
+    },
+    {
+      "id": "habitation-des-lauriers-history-v2",
+      "descriptionAdvanced": "Az Habitation des Lauriers egyike Saint-Domingue legjövedelmezőbb kávé- és fűszerültetvényeinek, amely a Nord (Északi) megye hűvös, termékeny hegyoldalain feküdt. A birtokot a 18. században alapították, és nevét a környéken őshonos babérfákról (lauriers) vagy más fűszernövényekről kaphatta. Az ültetvény különlegessége a rendkívül komplex vízvezeték-hálózat (aqueduc) volt, amely a hegyi patakok vizét a kávébab-feldolgozó medencékbe és a hatalmas kerekű zúzómamokba vezette. A rabszolgák itt is kegyetlen körülmények között éltek, napi 14-16 órát dolgozva a meredek lejtőkön. Az 1791-es északi felkelés során az Habitation des Lauriers az elsők között lángolt fel, amikor a rabszolgák Boukman Dutty hívó szavára fegyvert fogtak. A hatalmas kőmedencék és boltívek maradványai még ma is dacolnak az esőerdővel. Geschichte K8 — északi hegyvidéki ültetvények és a rabszolgalázadás.",
+      "factsAdvanced": [
+        "Jelentős 18. századi francia kávé- és fűszerültetvény (habitation) a Nord megyében.",
+        "A birtok egy lenyűgöző hegyi vízvezeték-hálózattal (aqueduc) rendelkezett.",
+        "A vízimalmok és a kávéfeldolgozó medencék romjai máig fennmaradtak.",
+        "Több száz rabszolga dolgozott itt extrém fizikai megterhelés alatt.",
+        "Az 1791. augusztusi északi rabszolgafelkelés egyik első célpontja volt.",
+        "Nevét a környező babérerdőkről vagy fűszernövényekről kapta."
+      ]
+    },
+    {
+      "id": "fort-drouet-v2-history-v2",
+      "descriptionAdvanced": "A Fort Drouet (vagy Drouet erődítmény) egy történelmi magaslati támaszpont a Chaîne des Matheux hegységben, Arcahaie városának hátországában. Ezt a kisebb, de annál zseniálisabban elhelyezett védelmi pontot eredetileg a gyarmati kávéültetvényesek építették, hogy megvédjék hatalmas birtokaikat a hegyekben bujkáló marroonoktól (szökött rabszolgáktól). Később, a forradalom éveiben a sziget őslakosai és afrikai felkelői vették át felette az irányítást. Jean-Jacques Dessalines katonai stratégiájában az ilyen típusú, szinte bevehetetlen hegycsúcsokra épült erődök (mint a Drouet is) képezték a fiatal állam védelmi vonalát a síkságokkal szemben. Ma az erőd kőfalai a sűrű növényzet alatt rejtőznek, de a környék történelmi túráinak fontos megállója a helyiek és a kutatók számára. Geschichte K7 — marroon közösségek és hegyvidéki ellenállás.",
+      "factsAdvanced": [
+        "A Chaîne des Matheux hegység magaslataiban található, Arcahaie felett.",
+        "Eredetileg a francia ültetvényesek építették a szökött rabszolgák elleni védekezésül.",
+        "A haiti forradalom során a felkelők fontos hegyvidéki bázisává vált.",
+        "A Dessalines-féle belső, hegyi védelmi stratégia egyik fontos eleme volt.",
+        "A magaslati fekvés miatt kiváló rálátást biztosított a parti síkságra.",
+        "Jelenleg a természet által benőtt, nehezen megközelíthető történelmi emlék."
+      ]
+    },
+    {
+      "id": "habitation-val-fleury-history-v2",
+      "descriptionAdvanced": "Az Habitation Val-Fleury ('Virágos Völgy' Birtok) egy egykori fényűző francia gyarmati birtok volt, valószínűleg a Cul-de-Sac síkság lankásabb területein. Nevét a birtokot egykor díszítő egzotikus trópusi kertekről és a virágzó cukornádtáblákról kapta. A 18. század végén ez a 'sucrerie' (cukorültetvény) a modern proto-indusztriális termelés megtestesítője volt: hatalmas forralóüstök (équipage), raktárak (purgerie) és fejlett állati vontatású malmok működtek a területen. A gazdagság árát azonban a nagyszámú rabszolgasereg fizette meg, akiket gyakran a legkegyetlenebb büntetésekkel tartottak rettegésben. Az 1791-es forradalmi hullám elsöpörte a Val-Fleury-t is; az épületek leégtek, a tulajdonosok elmenekültek. A romok között ma a helyi földművesek kisebb parcellákat művelnek, és a hajdani forralóüzem kőfalai szürreális hátteret adnak a modern mindennapoknak. Geschichte K8 — a proto-indusztriális cukorgyártás ára.",
+      "factsAdvanced": [
+        "Egy korábbi francia 'sucrerie' (cukorültetvény), feltehetően a Cul-de-Sac síkságon.",
+        "A birtokon a korabeli csúcstechnológiát jelentő forralóüstrendszer működött.",
+        "Nevét ('Virágos Völgy') a gazdag trópusi környezet ihlette.",
+        "A termelés több száz afrikai rabszolga rendkívüli kizsákmányolására épült.",
+        "Az 1791-es rabszolgalázadás következtében a komplexum teljesen megsemmisült.",
+        "Ma a kőalapzatok között a helyi lakosság önfenntartó mezőgazdaságot folytat."
+      ]
+    },
+    {
+      "id": "fort-de-la-poudriere-history-v2",
+      "descriptionAdvanced": "A Fort de la Poudrière (Lőporraktár Erőd) történelmileg egy speciális rendeltetésű katonai építmény volt, amely gyakran egy nagyobb város (például Cap-Haïtien vagy Port-au-Prince) védelmi hálózatának részeként szolgált. Mint a neve is mutatja, elsődleges funkciója a puskapor és a tüzérségi muníció biztonságos tárolása volt. Éppen ezért a falait extrém vastagságúra építették, és távolabb helyezték el a sűrűn lakott területektől, hogy egy esetleges robbanás ne pusztítsa el a várost. A haiti forradalom éveiben a puskapor megszerzése kulcsfontosságú volt; a felkelők számos véres rohamot indítottak a francia 'poudrière'-ek ellen. Miután a haiti hadsereg elfoglalta, az erődöt megerősítették és a független állam arzenáljaként használták a 19. század folyamán. Ma a vastag, robbanásbiztos falak mementóként állnak. Geschichte K7 — lőfegyverek és arzenálok a gyarmati háborúkban.",
+      "factsAdvanced": [
+        "A gyarmati és a függetlenségi kor speciális lőszer- és lőporraktára volt.",
+        "Extrém vastag kőfalakkal épült, hogy megelőzze a lőporrobbanás pusztítását.",
+        "A lakott területektől tudatosan távolabb (dombtetőn vagy peremvidéken) helyezték el.",
+        "A haiti felkelők számára a lőpor megszerzése miatt elsődleges katonai célpont volt.",
+        "A függetlenség után is hosszú ideig nemzeti fegyverarzenálként funkcionált.",
+        "Jellegzetes, ablaktalan, masszív építészeti stílusa ma is felismerhető a romokon."
+      ]
+    },
+    {
+      "id": "ruines-de-l-aqueduc-history-v2",
+      "descriptionAdvanced": "A Ruines de l'Aqueduc egy elképesztő mérnöki teljesítmény maradványa a francia gyarmati korszakból. Ezek az akvaduktok (vízvezetékek) behálózták Saint-Domingue gazdagabb síkságait, különösen az Arcahaie és a Cul-de-Sac régiókban. Céljuk az volt, hogy a hegyi patakokból (gullies) friss vizet szállítsanak az alacsonyabban fekvő hatalmas cukornád- és indigóültetvényekre, meghajtva a cukorzúzó malmok hatalmas fakerekeit és biztosítva az ipari folyamatokhoz szükséges vízmennyiséget. Az íves, római stílust idéző tégla- és kővezetékeket az afrikai rabszolgák építették fel hihetetlen emberáldozatok árán. A függetlenségi háború és az azt követő földrengések a legtöbb ilyen vízvezetéket lerombolták. A természetbe olvadó mohás boltívek ma a gyarmati elnyomás és a korabeli infrastruktúra lenyűgöző és egyben komor bizonyítékai. Sachkunde K6 — gyarmati vízgazdálkodás és mérnöki építészet.",
+      "factsAdvanced": [
+        "Francia gyarmati vízvezetékrendszer (akvadukt) romjai, gyakori az Ouest megyében.",
+        "Elsődleges funkciója a cukor- és indigóültetvények malmainak meghajtása volt.",
+        "A boltíves szerkezeteket (római mintára) kőből és téglából, rabszolgamunkával emelték.",
+        "Kulcsszerepet játszott Saint-Domingue ipari léptékű mezőgazdaságában.",
+        "A 18. század végi forradalom és a későbbi földrengések nagyrészt megsemmisítették.",
+        "Néhány masszívabb kőboltív még ma is áll a trópusi erdőségekben."
+      ]
+    },
+    {
+      "id": "fort-du-grand-riviere-history-v2",
+      "descriptionAdvanced": "A Fort du Grand Rivière egy jelentős védelmi támaszpont volt a Nord (Északi) megyében, a Grande Rivière du Nord (Nagy Északi Folyó) stratégiai fontosságú völgyében. Ez a régió a haiti történelem egyik legfontosabb forradalmi központja, számos híres felkelő, köztük Jean-Jacques Dessalines szülőföldje. A franciák eredetileg azért építették az erődöt a folyó kanyarulatában, hogy ellenőrizzék a hegyvidékről a tengerparti Cap-Haïtien felé tartó utakat. Az 1791-es rabszolgalázadás során a régió heves harcok színtere volt, és az erőd többször is gazdát cserélt. A függetlenség elnyerése után a haiti hadsereg a hegyvidéki védelmi gyűrű (az ún. 'citadella-hálózat') részévé tette az építményt. Ma a romok a folyó partján, nehezen járható terepen találhatók, emléket állítva az északi hadjáratoknak. Geschichte K8 — folyóvölgyi ütközetek az északi megyében.",
+      "factsAdvanced": [
+        "A Nord (Északi) megyében, a Grande Rivière du Nord folyó völgyében épült.",
+        "Célja a hegyvidék és Cap-Haïtien városa közötti stratégiai útvonal védelme volt.",
+        "A régió történelmileg a haiti forradalom egyik legaktívabb epicentruma volt.",
+        "Eredetileg a francia hadsereg emelte a rabszolgafelkelések visszaszorítására.",
+        "Később integrálták a Dessalines-féle nemzeti hegyvidéki erődrendszerbe.",
+        "Tengerszint feletti magassága kb. 200 méter, a folyóparti magaslaton."
+      ]
+    },
+    {
+      "id": "habitation-sylvain-history-v2",
+      "descriptionAdvanced": "Az Habitation Sylvain egyike azon egykori gazdag gyarmati birtokoknak, amelyek története összefonódik a mulatt (gens de couleur) elit és a francia telepesek komplex társadalmi viszonyaival Saint-Domingue-ban. A Sylvain (vagy Silvain) név a 18. században egy kiterjedt földbirtokos családhoz tartozott, akik a déli megyékben, feltehetően Les Cayes vagy Jacmel vonzáskörzetében rendelkeztek indigó- és kávéültetvényekkel. Bár az ilyen birtokokon a szabad színesbőrűek gyakran maguk is tartottak rabszolgákat, a forradalom kitörésekor az osztályuk a teljes egyenjogúságért küzdött a fehér telepesekkel szemben, ami polgárháborús (Dél vs. Észak) konfliktusokhoz vezetett. Az ültetvény kúriájának és a termelőegységeknek a romjai ma az enyészeté, de nevük a helyi dűlőnevekben (toponímiában) máig fennmaradt, emlékeztetve a gyarmati korszak bonyolult társadalmi hierarchiájára. Sachkunde K8 — a 'gens de couleur libres' és a gyarmati társadalom.",
+      "factsAdvanced": [
+        "Déli fekvésű 18. századi gyarmati ültetvény (valószínűleg kávé és indigó).",
+        "A tulajdonos Sylvain család története tükrözi a szabad színesbőrű elit helyzetét.",
+        "Az ilyen birtokok is jelentős rabszolga-munkaerővel működtek.",
+        "A birtok elpusztult a forradalmat követő faji és politikai konfliktusokban (Pl. Kések Háborúja).",
+        "A korabeli kúria (grand'case) és a gazdasági épületek alapjai ma is megtalálhatók.",
+        "A név ma is él Haiti lokális földrajzi elnevezéseiben."
+      ]
+    },
+    {
+      "id": "fort-saint-michel-history-v2",
+      "descriptionAdvanced": "A Fort Saint-Michel a haiti partvonal védelmének egyik fontos eleme volt a gyarmati korban, feltételezhetően Cap-Haïtien vagy egy másik jelentős északi kikötőváros (például a Baie de l'Acul) védelmi gyűrűjében. Az erődöt Szent Mihály arkangyalról, a katonák védőszentjéről nevezték el. Fő feladata az volt, hogy kereszttűz alá vegye azokat az ellenséges hajókat, amelyek megpróbáltak áttörni a zátonyokon és lehorgonyozni a védett öblökben. Bár a francia tüzérség büszkesége volt, a szárazföldi támadások ellen kevésbé volt védve, ami sebezhetővé tette a hátulról támadó felkelőkkel szemben 1791 és 1803 között. Ma az erődítmény vastag, lőrésekkel ellátott kőfalai a tengerbe omladoznak, a viharok és a tengeri sós pára évszázados munkájának eredményeként. Története a haiti nemzet születésének és az európai hatalmak karibi versengésének sűrítménye. Geschichte K7 — parti erődök a Karib-térségben.",
+      "factsAdvanced": [
+        "Francia építésű tüzérségi erőd, jellemzően az északi partvonal (Nord megye) egy szirtjén.",
+        "Szent Mihály arkangyalról nevezték el, aki a katonaság védőszentje.",
+        "Kereszttűz biztosítására építették a kikötőbe igyekvő brit vagy spanyol hajók ellen.",
+        "A tenger felől erős, de a szárazföldi felkelők támadásaival szemben sebezhető volt.",
+        "A haiti forradalom végén a nemzeti erők (Dessalines hadserege) elfoglalták.",
+        "Falai jelenleg erősen erodálódtak az óceáni viharok és a só miatt."
+      ]
+    },
+    {
+      "id": "habitation-mornay-history-v2",
+      "descriptionAdvanced": "Az Habitation Mornay egy hatalmas, a 18. századból származó cukornád-ültetvény maradványa a termékeny Plaine du Cul-de-Sac területén, Port-au-Prince közelében. Ez az ültetvény tökéletes példája a francia gyarmati agráripari komplexumnak, amely Saint-Domingue-ot a világ leggazdagabb gyarmatává tette, elképesztő emberi szenvedés árán. A birtokot eredetileg egy befolyásos francia nemesi család (a de Mornay-k) birtokolta, akik hatalmas vagyonokat halmoztak fel az itt megtermelt fehér aranyból (cukorból). A romok között feltárhatók az egykori pazar 'Grand'Case' (tulajdonosi kúria) alapjai, a hatalmas kőből épült forralóüzem, valamint a rabszolgák nyomorúságos sorházainak nyomai. Az 1791-es forradalmi események és a főváros körüli ostromok során az Habitation Mornay is lángokba borult. Ma a terület egy része beépült a gyorsan növekvő főváros peremvidékébe, de a föld alatti maradványok fontos régészeti értéket képviselnek. Geschichte K8 — a Cul-de-Sac síkság cukorbárói.",
+      "factsAdvanced": [
+        "Hatalmas 18. századi francia cukorültetvény a Plaine du Cul-de-Sac síkságon.",
+        "Nevét az egykori francia tulajdonos nemesi családról (de Mornay) kapta.",
+        "Komplex agráripari létesítmény volt forralóüzemmel és rabszolganegyedekkel.",
+        "A haiti forradalom harcai (Port-au-Prince ostromai) során felgyújtották.",
+        "A termelés kizárólag a rabszolgamunkán (napi 16 óra fizikai megterhelés) alapult.",
+        "Területének nagy részét mára bekebelezte Port-au-Prince városiasodása."
+      ]
+    },
+    {
+      "id": "fort-des-anglais-history-v2",
+      "descriptionAdvanced": "A Fort des Anglais ('Az Angolok Erődje') név a haiti partvidéken több helyen is felbukkan (például a déli Les Anglais város közelében vagy az északi parton), és általában azokra a rövid ideig tartó periódusokra utal, amikor a brit királyi haditengerészet vagy brit kalózok elfoglalták és megerősítették a területet. A 18. század végén, a haiti forradalom káoszát kihasználva a britek megpróbálták megszerezni Saint-Domingue gyarmatát a franciáktól, bázisokat építve a parton. Ezek az erődök ideiglenes brit hídfőállások voltak, amelyeket végül a sárgaláz és Toussaint Louverture feltörekvő forradalmi serege vert vissza. Az építmények gyakran csak földsáncokból és gyorsan felhúzott kőfalakból álltak. Ma az 'Angolok Erődje' név a haiti történelem azon fontos fejezetét őrzi, amikor a függetlenségért küzdők nemcsak a franciákat, hanem a brit birodalom seregeit is legyőzték. Geschichte K8 — a brit inváziós kísérletek Haiti ellen (1793-1798).",
+      "factsAdvanced": [
+        "A név a brit hadsereg vagy brit kalózok által emelt partmenti erődökre utal.",
+        "A brit invázió célja Saint-Domingue gyarmatának megszerzése volt az 1790-es években.",
+        "Az erődök gyakran földsáncokból és sietve emelt kőfalakból álltak.",
+        "Toussaint Louverture forradalmi serege és a sárgaláz végül kiűzte a briteket.",
+        "Jelképezi a haitiak kettős győzelmét a francia és a brit gyarmati birodalmak felett.",
+        "A romok helyzete általában stratégiai öblök vagy félszigetek csücskében van."
+      ]
+    },
+    {
+      "id": "habitation-la-ferriere-history-v2",
+      "descriptionAdvanced": "Az Habitation La Ferrière egy történelmi gyarmati birtok volt a Nord (Északi) megyében, a Pic La Ferrière hegycsúcs lábánál. Ez a név leginkább arról ismert, hogy Henri Christophe észak-haiti uralkodója erre az egykori birtokra és a fölé magasodó 900 méteres hegycsúcsra építtette fel a monumentális Citadelle Laferrière-t, a nyugati félteke legnagyobb erődítményét. Maga az eredeti 'Habitation' (ültetvény) egy jövedelmező francia kávé- vagy cukorbirtok volt, amelyet a forradalom idején felégettek. A helyválasztás szimbolikus jelentőséggel is bírt: a rabszolgaság egykori helyszínét a felszabadult, független haitiak a szabadság bevehetetlen bástyájává (a Citadellává) alakították át. Bár a lenti ültetvény romjai ma eltörpülnek a hegytetőn álló világörökségi erőd mellett, történelmi szerepük elvitathatatlan az ország narratívájában. Geschichte K8 — az elnyomás helyszínéből a szabadság szimbóluma.",
+      "factsAdvanced": [
+        "Egykori gyarmati birtok a Nord megyében, a Pic La Ferrière hegy lábánál.",
+        "Közvetlen kapcsolatban áll a híres Citadelle Laferrière erőd építésével.",
+        "Henri Christophe király (Henri I.) választotta ki ezt a stratégiai helyszínt az erődhöz.",
+        "A korábbi ültetvényt a forradalmárok elpusztították az 1790-es évek elején.",
+        "Az itteni domborzat miatt valószínűleg kávét vagy indigót termesztettek a meredek lejtőkön.",
+        "A név ('A Vasmű') esetleges korai vaskitermelésre vagy kovácsműhelyre is utalhat."
+      ]
+    },
+    {
+      "id": "fort-la-crete-history-v2",
+      "descriptionAdvanced": "A Fort La Crète (gyakran Crête-à-Pierrot néven ismert) a haiti történelem talán legdicsőségesebb és legikonikusabb hegyvidéki erődje, amely az Artibonite megyei Petite-Rivière-de-l'Artibonite városa felett magasodik. 1802 márciusában ez a kisméretű, de zseniálisan védett sáncrendszer volt a helyszíne az epikus Crête-à-Pierrot-i csatának. Itt Jean-Jacques Dessalines parancsnoksága alatt néhány száz haiti katona és velük harcoló nő hősiesen verte vissza Charles Leclerc francia tábornok több ezres, elit európai seregének sorozatos rohamait. Amikor a lőszer és az élelem elfogyott, a haiti védők egy éjszakai szuronyrohammal áttörték a francia ostromgyűrűt, és bevetették magukat a hegyekbe. Bár a franciák végül elfoglalták az üres erődöt, a csata bebizonyította, hogy a függetlenségi sereget nem lehet nyílt harcban megsemmisíteni. Ma a helyszín nemzeti zarándokhely. Geschichte K8 — a Crête-à-Pierrot-i csata és a függetlenség ára.",
+      "factsAdvanced": [
+        "Petite-Rivière-de-l'Artibonite közelében, egy stratégiai dombgerincen (crête) áll.",
+        "Az 1802-es híres Crête-à-Pierrot-i ostrom helyszíne volt.",
+        "Dessalines és védői itt verték vissza Napóleon elit csapatainak többszörös túlerejét.",
+        "A védők a végsőkig kitartottak, majd éjszaka sikeresen kitörtek az ostromgyűrűből.",
+        "A csata a haiti hadsereg morális győzelmeként vonult be a történelembe.",
+        "Ma nemzeti emlékhely, az ország egyik legfontosabb függetlenségi szimbóluma."
+      ]
+    },
+    {
+      "id": "habitation-bellevue-history-v2",
+      "descriptionAdvanced": "Az Habitation Bellevue egy széles körben használt név volt Saint-Domingue idején; tucatnyi gyarmati birtok kapta a 'Szép Kilátás' nevet a lenyűgöző hegyvidéki vagy tengerparti panorámák miatt. Ezek közül a leghíresebbek Port-au-Prince (Kenscoff környéke) vagy a Nord megye hegyoldalain feküdtek. A Bellevue birtokok általában magaslati, hűvös mikroklímában működő kávéültetvények voltak, ahol a francia tulajdonosok próbáltak menekülni a partvidéki sárgaláz és hőség elől. A teraszos földművelés és a pazar kúriák fenntartása a rabszolgák napi küzdelmét követelte meg a köves, meredek terepen. A függetlenség kivívása után ezek a területek felaprózódtak (lakou-rendszer), és a korábbi kávéültetvények helyét gyakran a lakosság önellátó zöldség- és gyümölcstermesztése vette át. A dűlőnevek és néhány mohás kőfal ma is őrzi a múltat. Geschichte K7 — a hegyvidéki kávéültetvények topográfiája.",
+      "factsAdvanced": [
+        "A 'Bellevue' (Szép Kilátás) gyakori név volt a gyarmati hegyvidéki ültetvényeknél.",
+        "Fő profiljuk a magaslati (500m feletti) árnyékos kávétermesztés volt.",
+        "A tulajdonosok az egészségesebb hegyi klíma miatt építettek ide kúriákat.",
+        "A terepviszonyok miatt a rabszolgák munkája fizikailag rendkívül megterhelő volt.",
+        "A forradalom után a nagy birtokokat a parasztok apró parcellákra osztották fel.",
+        "A területen ma is láthatók az egykori teraszos művelés (glacis) nyomai."
+      ]
+    },
+    {
+      "id": "fort-moulin-history-v2",
+      "descriptionAdvanced": "A Fort Moulin (Malom Erőd) egy kettős funkciójú történelmi helyszín, amely egyaránt szolgált ipari és katonai célokat. A francia gyarmati korszakban a cukor- és kávétermelés központjaiban a hatalmas, kőből épült vízimalmok (moulins) stratégiai értéket képviseltek az élelmiszer- és nyersanyag-feldolgozásban. A forradalom és az azutáni évek káoszában – különösen északon és a Cul-de-Sac síkságon – a haiti vezetők (mint Christophe) gyakran alakították át ezeket a masszív malomépületeket hevenyészett katonai erődítményekké. A vastag, víznek is ellenálló kőfalak tökéletes védelmet nyújtottak a lövedékek ellen, a tornyokból pedig kiválóan lehetett ellenőrizni a síkságot. A Fort Moulin romjai a karibi ipari forradalom és a felszabadító háborúk kreatív hadmérnöki munkájának találkozását jelképezik, ahol a mezőgazdasági eszköz fegyverré vált. Geschichte K8 — az ipari épületek katonai konverziója.",
+      "factsAdvanced": [
+        "A gyarmati korban masszív vízimalomként épült a cukor- vagy kávéültetvényeken.",
+        "A haiti forradalom során stratégiai jelentősége miatt erőddé alakították.",
+        "Vastag, robusztus kőfalai kiváló védelmet nyújtottak a tüzérségi tűz ellen.",
+        "A malom tornyát (vagy magasabb pontjait) őrtoronyként használták a felkelők.",
+        "Kiváló példája annak, hogyan integrálta a haiti sereg az agráripari struktúrákat a védelembe.",
+        "Ma a kőkerék-aljzatok és a lőrésekkel ellátott falak együtt láthatók a romoknál."
+      ]
+    }
+  ]
+}

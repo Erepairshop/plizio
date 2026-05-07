@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "warmbad-cities-v2",
+      "descriptionAdvanced": "Warmbad is a deeply historical settlement located in the deep south of the //Kharas Region, close to the Orange River. It is famous for its natural hot springs, which have attracted human habitation for thousands of years. The London Missionary Society established a station here in 1805, making it one of the earliest colonial settlements in Namibia. Today, the town is attempting to revive its economy through community-based tourism centered around the restored hot spring baths and local Nama culture. Geschichte K8 — pre-colonial settlements and hot springs.",
+      "factsAdvanced": [
+        "Located in the deep south of the //Kharas Region.",
+        "Famous for its natural geothermal hot springs.",
+        "A London Missionary Society station was established in 1805.",
+        "One of the oldest colonial settlements in Namibia.",
+        "Currently focusing on community-based tourism.",
+        "Significant cultural center for the local Nama people."
+      ]
+    },
+    {
+      "id": "rosh-pinah-cities-v2",
+      "descriptionAdvanced": "Rosh Pinah is a relatively young mining town located in the remote southwestern corner of the //Kharas Region. It was established in 1969 following the discovery of significant zinc and lead deposits by a geologist named Mosi Eliason. The town essentially functions as a private settlement, heavily dependent on the operations of the Rosh Pinah and Skorpion Zinc mines. Due to the high water demands of mining in the desert, the town pumps water directly from the nearby Orange River. Earth Science K6 — zinc and lead mining.",
+      "factsAdvanced": [
+        "Located in the remote southwestern //Kharas Region.",
+        "Established in 1969 to support local mining.",
+        "Economy is entirely reliant on zinc and lead extraction.",
+        "Supported by the Rosh Pinah and Skorpion Zinc mines.",
+        "Functions largely as a private mining settlement.",
+        "Draws its water supply from the nearby Orange River."
+      ]
+    },
+    {
+      "id": "noordoewer-cities-v2",
+      "descriptionAdvanced": "Noordoewer is a crucial border settlement located on the northern banks of the Orange River, acting as the primary border crossing between Namibia and South Africa along the B1 highway. Its name translates to 'North Bank' in Afrikaans. The town is famous for two things: being a major transit hub for commercial freight, and its surprisingly lush riverside environment, which supports massive grape and fruit vineyards that rely on intensive irrigation from the river. Geography K7 — border crossings and irrigation.",
+      "factsAdvanced": [
+        "Located on the northern banks of the Orange River.",
+        "Primary border crossing with South Africa on the B1 highway.",
+        "The name translates from Afrikaans to 'North Bank'.",
+        "Major transit hub for international commercial freight.",
+        "Features massive irrigated grape and fruit vineyards.",
+        "Known for extreme summer temperatures often exceeding 40°C."
+      ]
+    },
+    {
+      "id": "aussenkehr-cities-v2",
+      "descriptionAdvanced": "Aussenkehr is an extraordinary agricultural settlement located along the banks of the Orange River in the remote //Kharas Region. It is renowned for hosting some of the largest table grape vineyards in the Southern Hemisphere, stretching over 3,000 hectares. Because the climate is exceptionally hot and dry, the grapes ripen earlier here than in South Africa, giving local farmers a lucrative early-market advantage in Europe. The settlement relies heavily on thousands of seasonal migrant workers who flock here during the harvest season. Geography K7 — intensive agriculture.",
+      "factsAdvanced": [
+        "Located along the Orange River in the //Kharas Region.",
+        "Hosts massive table grape vineyards covering 3,000 hectares.",
+        "Exceptionally hot climate allows for early grape ripening.",
+        "Provides an early-market advantage for European export.",
+        "Relies heavily on a massive influx of seasonal migrant workers.",
+        "Functions almost exclusively as an agricultural enclave."
+      ]
+    },
+    {
+      "id": "aus-cities-v2",
+      "descriptionAdvanced": "Aus is a small village in the //Kharas Region nestled within the rocky Aus Mountains above the plains of the Namib Desert. Historically, it was the site of a World War I prisoner-of-war camp where over 1,500 German soldiers and police were held by South African forces after their surrender in 1915. Today, Aus is most famous for the wild horses of the Namib, a feral population that roams the arid plains nearby and draws significant tourist interest. The village serves as a vital stopover on the B4 highway towards Lüderitz. Geschichte K8 — World War I camps.",
+      "factsAdvanced": [
+        "Located in the Aus Mountains of the //Kharas Region.",
+        "Housed a WWI prisoner-of-war camp in 1915.",
+        "Over 1,500 German prisoners were held here.",
+        "Famous for the nearby population of feral Namib desert horses.",
+        "Serves as a key stopover on the B4 highway to Lüderitz.",
+        "Experiences harsh, cold winds during the winter months."
+      ]
+    },
+    {
+      "id": "uis-cities-v2",
+      "descriptionAdvanced": "Uis is a former mining town situated in the Erongo Region, sitting in the shadow of the imposing Brandberg Mountain, Namibia's highest peak. Established in 1958 to exploit local tin deposits, the mine was once the largest hard-rock tin mine in the world before global tin prices crashed, forcing its closure in 1990. While recent years have seen a small-scale revival in mining, the town survives largely by providing services, fuel, and accommodation for tourists heading to the Brandberg to view the famous 'White Lady' rock painting. Geography K7 — mining boom and bust.",
+      "factsAdvanced": [
+        "Located in the Erongo Region near Brandberg Mountain.",
+        "Established in 1958 as a major tin mining settlement.",
+        "Once home to the world's largest hard-rock tin mine.",
+        "The original large-scale mine closed in 1990.",
+        "Provides crucial services for tourists visiting Brandberg.",
+        "A base for exploring the famous 'White Lady' rock painting."
+      ]
+    },
+    {
+      "id": "okombahe-cities-v2",
+      "descriptionAdvanced": "Okombahe is an administrative settlement located on the Omaruru River in the Erongo Region. It is deeply historically significant to the Damara people, serving as the traditional capital of the region. The town hosts the annual Damara Cultural Festival in November, bringing together thousands to celebrate their heritage, language, and traditional leadership. Situated in an arid landscape, the community relies heavily on communal farming of goats and cattle, supported by ephemeral river groundwater. Geschichte K8 — Damara heritage.",
+      "factsAdvanced": [
+        "Located on the Omaruru River in the Erongo Region.",
+        "Recognized as the traditional capital of the Damara people.",
+        "Hosts the prominent annual Damara Cultural Festival in November.",
+        "Economy is based on communal goat and cattle farming.",
+        "Relies heavily on groundwater from the ephemeral river.",
+        "Maintains strong cultural ties to traditional leadership."
+      ]
+    },
+    {
+      "id": "omatjete-cities-v2",
+      "descriptionAdvanced": "Omatjete is a rural settlement located in the Erongo Region, northwest of Omaruru. The community is predominantly agrarian, relying on subsistence and small-scale commercial cattle farming. Water scarcity is a significant challenge in this semi-arid environment, with the village depending entirely on local boreholes. Despite its remote location, Omatjete serves as an important gathering point for the local Herero communities, providing a clinic, a school, and basic administrative services. Geography K7 — rural communities and water scarcity.",
+      "factsAdvanced": [
+        "Located in the Erongo Region, northwest of Omaruru.",
+        "Predominantly an agrarian and communal farming settlement.",
+        "Relies entirely on local boreholes for its water supply.",
+        "An important cultural and administrative point for local Herero.",
+        "Economy is centered around cattle and livestock farming.",
+        "Features basic amenities including a clinic and school."
+      ]
+    },
+    {
+      "id": "kalkfeld-cities-v2",
+      "descriptionAdvanced": "Kalkfeld is a small settlement situated halfway between Omaruru and Otjiwarongo in the Otjozondjupa Region. Originally developed as a railway station and farming hub during the German colonial era, the town's prominence declined significantly following independence as commercial farming dynamics shifted. Today, Kalkfeld is known primarily as the turnoff point to visit the nearby Otjihaenamaparero dinosaur tracks, an incredible geological site featuring well-preserved footprints left in sandstone roughly 190 million years ago. Earth Science K6 — paleontology and fossils.",
+      "factsAdvanced": [
+        "Located between Omaruru and Otjiwarongo.",
+        "Originally developed as a German colonial railway station.",
+        "Situated in the Otjozondjupa Region.",
+        "Acts as the turnoff for the Otjihaenamaparero dinosaur tracks.",
+        "The nearby dinosaur footprints are roughly 190 million years old.",
+        "Economy relies on local farming and passing traffic."
+      ]
+    },
+    {
+      "id": "hochfeld-cities-v2",
+      "descriptionAdvanced": "Hochfeld is an agricultural settlement located in the Otjozondjupa Region, serving as a minor hub amidst the expansive commercial cattle farms of central Namibia. Its name, meaning 'High Field' in German, references its elevated position on the central plateau. The settlement provides essential basic services, such as a police station and a small clinic, to the sparsely populated surrounding farm network. The area's relatively good rainfall compared to the south makes it one of the premier beef-producing regions in the country. Geography K7 — central plateau agriculture.",
+      "factsAdvanced": [
+        "Located in the Otjozondjupa Region of central Namibia.",
+        "Name translates to 'High Field' in German.",
+        "Serves as a minor hub for extensive commercial cattle farms.",
+        "Located on the elevated central Namibian plateau.",
+        "Provides basic services like a police station and clinic.",
+        "Known as one of Namibia's premier beef-producing areas."
+      ]
+    },
+    {
+      "id": "witvlei-cities-v2",
+      "descriptionAdvanced": "Witvlei is a small village situated on the B6 national highway in the Omaheke Region, roughly 150 kilometers east of Windhoek. It originated as a settlement around a natural pan (vlei) that held water after good rains. The village is heavily dependent on the beef industry, historically hosting a major meat processing abattoir that provided critical local employment. While the abattoir has faced operational challenges, Witvlei remains a crucial transit and service stop for farmers moving cattle between the eastern regions and the capital. Geography K7 — cattle industry hubs.",
+      "factsAdvanced": [
+        "Located on the B6 highway in the Omaheke Region.",
+        "Situated roughly 150 kilometers east of Windhoek.",
+        "Originated around a natural water-holding pan (vlei).",
+        "Historically hosted a major regional meat processing abattoir.",
+        "Economy is heavily dependent on the local beef industry.",
+        "Crucial transit stop between the eastern regions and the capital."
+      ]
+    },
+    {
+      "id": "leonardville-cities-v2",
+      "descriptionAdvanced": "Leonardville is a rural settlement located in the Omaheke Region, deep within the Kalahari scrubland. It is named after the reverend Leonard, a prominent early figure in the local community. The town functions as the main administrative and commercial center for the surrounding communal and commercial sheep and cattle farmers. Like much of the Omaheke, the community faces challenges with water scarcity and relies on groundwater extraction, making it highly vulnerable to prolonged periods of drought. Geography K7 — Kalahari agriculture.",
+      "factsAdvanced": [
+        "Located in the Omaheke Region within the Kalahari scrubland.",
+        "Named after the early reverend Leonard.",
+        "Main administrative center for surrounding local farmers.",
+        "Economy focuses on sheep and cattle production.",
+        "Relies entirely on local groundwater extraction.",
+        "Highly vulnerable to the region's frequent droughts."
+      ]
+    },
+    {
+      "id": "epukiro-cities-v2",
+      "descriptionAdvanced": "Epukiro is a dispersed settlement situated in the eastern reaches of the Omaheke Region, established originally as a Catholic mission station in 1903 by Father Hermann Bücking. Following the Herero-German War of 1904-1907, the area became a designated reserve for the Herero people. Today, it remains a vital center for the Herero and Mbanderu communities, heavily reliant on traditional cattle farming. The settlement is isolated, characterized by sandy roads, thornbush savanna, and deep-rooted cultural traditions. Geschichte K8 — post-war resettlements.",
+      "factsAdvanced": [
+        "Located in the eastern Omaheke Region.",
+        "Established as a Catholic mission station in 1903.",
+        "Founded by Father Hermann Bücking.",
+        "Became a designated reserve for the Herero people post-1907.",
+        "Vital cultural center for the Herero and Mbanderu communities.",
+        "Economy is based entirely on traditional cattle farming."
+      ]
+    },
+    {
+      "id": "aminuis-cities-v2",
+      "descriptionAdvanced": "Aminuis is a settlement and political constituency in the Omaheke Region, located south of Gobabis near the Botswana border. It is situated on a massive, flat salt pan that historically provided a crucial source of salt for indigenous populations and wildlife. The area holds immense historical significance as it was established as a Herero reserve by the South African administration in the 1920s. Aminuis is also the resting place of several prominent Herero leaders, making it an important site for cultural gatherings. Geschichte K8 — indigenous reserves.",
+      "factsAdvanced": [
+        "Located in the Omaheke Region near the Botswana border.",
+        "Situated near a massive, historically significant salt pan.",
+        "Established as a Herero reserve in the 1920s.",
+        "Resting place for several prominent Herero leaders.",
+        "Important site for traditional cultural gatherings.",
+        "Local economy relies on communal livestock farming."
+      ]
+    },
+    {
+      "id": "oshikuku-cities-v2",
+      "descriptionAdvanced": "Oshikuku is a bustling town in the Omusati Region of northern Namibia, located along the main road connecting Oshakati and Outapi. It is famous for its deep historical ties to the Catholic Church, having been established as the first Catholic mission station in Ovamboland in 1924. The town is home to a prominent hospital and several large schools founded by the missionaries, making it a critical healthcare and educational hub for the surrounding rural villages. It was officially upgraded to town status in 2011. Geschichte K8 — Catholic missions in the north.",
+      "factsAdvanced": [
+        "Located in the Omusati Region of northern Namibia.",
+        "Established as the first Catholic mission in Ovamboland in 1924.",
+        "Officially upgraded to a town in September 2011.",
+        "Home to a prominent local hospital founded by missionaries.",
+        "Crucial healthcare and educational hub for the region.",
+        "Situated on the main road between Oshakati and Outapi."
+      ]
+    },
+    {
+      "id": "okahao-cities-v2",
+      "descriptionAdvanced": "Okahao is a town in the Omusati Region, located approximately 70 kilometers west of Oshakati. It is of profound historical importance as the birthplace of Sam Nujoma, the founding father and first President of Namibia. The town has expanded rapidly since independence, supported by local government investment in infrastructure and agriculture. Okahao is situated in the Cuvelai drainage basin, a unique wetland ecosystem that supports seasonal fishing and subsistence farming for the local population during the rainy season. Geography K7 — notable birthplaces and local ecosystems.",
+      "factsAdvanced": [
+        "Located in the Omusati Region, west of Oshakati.",
+        "Famous as the birthplace of Sam Nujoma, Namibia's first president.",
+        "Has experienced rapid infrastructural growth since independence.",
+        "Situated within the unique Cuvelai drainage basin.",
+        "Relies on seasonal wetland fishing and subsistence agriculture.",
+        "Elevated to official town status following independence."
+      ]
+    },
+    {
+      "id": "tsandi-cities-v2",
+      "descriptionAdvanced": "Tsandi is a town and constituency capital in the Omusati Region, recognized as the traditional seat of the Uukwaluudhi royal family. The town is home to the Uukwaluudhi Royal Homestead, a functioning palace and museum that offers tourists and locals an authentic look at traditional Oshiwambo architecture and royal customs. The settlement relies heavily on small-scale commerce, regional administration, and agriculture, specifically the cultivation of pearl millet (mahangu), which forms the staple diet of the local population. Geschichte K8 — traditional kingdoms.",
+      "factsAdvanced": [
+        "Located in the Omusati Region of northern Namibia.",
+        "Traditional seat of the Uukwaluudhi royal family.",
+        "Home to the Uukwaluudhi Royal Homestead and museum.",
+        "Economy is supported by agriculture and local administration.",
+        "Key area for the cultivation of pearl millet (mahangu).",
+        "Functions as an important center for traditional Oshiwambo culture."
+      ]
+    },
+    {
+      "id": "bukalo-cities-v2",
+      "descriptionAdvanced": "Bukalo is an emerging town in the Zambezi Region, situated approximately 40 kilometers east of Katima Mulilo. It is best known as the traditional headquarters of the Masubia people, hosting the royal palace (Khuta) of the Masubia King. The town was proclaimed a village council in 2013, sparking a wave of modern development including a massive shopping complex and improved road networks connecting it to the Ngoma border post with Botswana. The local economy is driven by flood-plain agriculture and cross-border trade. Geography K7 — traditional authority and border trade.",
+      "factsAdvanced": [
+        "Located in the Zambezi Region, east of Katima Mulilo.",
+        "Traditional headquarters of the local Masubia people.",
+        "Hosts the Khuta (royal palace) of the Masubia King.",
+        "Officially proclaimed as a village council in 2013.",
+        "Situated near the Ngoma border post with Botswana.",
+        "Economy is driven by flood-plain agriculture and trade."
+      ]
+    },
+    {
+      "id": "walvis-bay-hafen-economic-v2",
+      "descriptionAdvanced": "The Port of Walvis Bay is Namibia's largest commercial port, strategically located on the Atlantic coast. Protected naturally by the Pelican Point sand spit, it provides a safe, deep-water harbor that operates year-round without the risk of severe weather delays. It handles around 5 million tonnes of cargo annually, serving not just Namibia, but acting as a vital, highly efficient gateway for landlocked SADC nations like Botswana, Zambia, and Zimbabwe via the Walvis Bay Corridors. Recent expansions include a massive new container terminal built on reclaimed land. Geography K7 — maritime trade infrastructure.",
+      "factsAdvanced": [
+        "Namibia's largest and busiest commercial port.",
+        "Handles approximately 5 million tonnes of cargo annually.",
+        "Provides a naturally protected deep-water harbor.",
+        "Vital gateway for landlocked SADC countries.",
+        "Features a new container terminal built on reclaimed land.",
+        "Connects to the interior via the Walvis Bay Corridors."
+      ]
+    },
+    {
+      "id": "luederitz-hafen-economic-v2",
+      "descriptionAdvanced": "The Port of Lüderitz is Namibia's second-largest port, located in the southern //Kharas Region. Built on a shallow, rocky coastline, the port is smaller and has shallower draft limits compared to Walvis Bay, making it unsuitable for massive container ships. However, it is an absolutely critical hub for the local fishing industry, particularly the lucrative rock lobster and hake fleets. It also exports zinc and lead from the mines in the southern interior. The port is famous for facing extremely strong coastal winds. Geography K7 — specialized ports and fishing.",
+      "factsAdvanced": [
+        "Namibia's second-largest commercial port.",
+        "Located in the southern //Kharas Region.",
+        "Critical operational hub for the local fishing industry.",
+        "Major base for rock lobster and hake fishing fleets.",
+        "Exports zinc and lead from southern Namibian mines.",
+        "Has a shallower draft compared to the Port of Walvis Bay."
+      ]
+    }
+  ]
+}

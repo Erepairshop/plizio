@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "idanre-hill-history-v2",
+      "descriptionAdvanced": "Idanre Hill, located in Ondo State, is a breathtaking natural and historical wonder, featuring massive, steep-sided granite domes that tower over the surrounding landscape. For over 800 years, the ancient city of Idanre was located high atop these hills, providing the community with a virtually impenetrable natural fortress against invaders. The historic settlement remains exceptionally well-preserved, featuring the ancient Oba's palace, shrines, and the legendary Agbooogun footprint. Visitors must climb exactly 682 concrete steps to reach the summit, which offers stunning panoramic views of the forested valleys below. It is a profound monument to human adaptation and defense. Geography K7 — natural fortresses and ancient settlements.",
+      "factsAdvanced": [
+        "Located in Idanre, Ondo State, featuring massive, steep-sided granite domes.",
+        "Housed the ancient city of Idanre for over eight centuries.",
+        "Provided an impenetrable natural defense during the Yoruba civil wars.",
+        "Access to the summit requires climbing a steep staircase of 682 steps.",
+        "The site contains the ancient Oba's palace and deeply revered traditional shrines.",
+        "Currently listed on the tentative list for UNESCO World Heritage status."
+      ]
+    },
+    {
+      "id": "gidan-rumfa-history-v2",
+      "descriptionAdvanced": "Gidan Rumfa is the magnificent, sprawling palace of the Emir of Kano, standing as the cultural and political epicenter of the Kano Emirate. Built in the late 15th century by Emir Muhammad Rumfa, it fundamentally revolutionized traditional Hausa architecture and statecraft. The massive complex covers over 33 acres and is surrounded by high mud-brick walls, containing audience halls, a grand mosque, residential quarters, and extensive gardens. It remains a living institution, hosting the spectacular Durbar festival where hundreds of horsemen pay homage to the Emir. The palace is an architectural masterpiece of the Sahel. History K8 — Hausa emirates and traditional palaces.",
+      "factsAdvanced": [
+        "The traditional seat of the Emir of Kano, located in Kano State.",
+        "Constructed in the late 15th century under the reign of Emir Muhammad Rumfa.",
+        "The sprawling complex covers approximately 33 acres within the ancient city.",
+        "Surrounded by massive, fortified mud-brick walls reaching up to 15 feet high.",
+        "Serves as the focal point for the spectacular annual Durbar festival.",
+        "Introduced major architectural innovations to Hausa palace design."
+      ]
+    },
+    {
+      "id": "zaria-city-walls-history-v2",
+      "descriptionAdvanced": "The ancient Zaria City Walls are a massive system of earthen fortifications constructed to protect the historic Zazzau Emirate, one of the original seven Hausa city-states. Built primarily between the 13th and 14th centuries, and famously expanded by the legendary warrior Queen Amina in the 16th century, these walls once spanned over 15 kilometers in circumference. They were designed to enclose the city's residential districts, farmlands, and the Emir's palace, protecting against both sieges and famine. Although significantly eroded by modern urbanization and weathering, the surviving remnants stand as powerful symbols of pre-colonial military engineering. History K7 — defensive earthworks and the Zazzau Emirate.",
+      "factsAdvanced": [
+        "Massive earthen defensive walls protecting the ancient city of Zaria (Zazzau).",
+        "Construction and massive expansion are closely associated with Queen Amina in the 16th century.",
+        "Originally spanned a circumference of over 15 kilometers.",
+        "Enclosed not only residential areas but crucial farmlands to survive long sieges.",
+        "Featured multiple heavily guarded gates controlling trade and access.",
+        "Currently heavily degraded due to natural erosion and urban expansion."
+      ]
+    },
+    {
+      "id": "igbo-ukwu-history-v2",
+      "descriptionAdvanced": "Igbo-Ukwu is an archaeological site of profound global importance located in Anambra State, shattering previous assumptions about early West African metallurgy. Accidental discoveries in the mid-20th century revealed an astonishing cache of bronze artifacts dating back to the 9th century AD. These intricately detailed objects, which include ceremonial vessels, staffs, and jewelry, were created using the complex 'lost-wax' casting technique, predating the famous bronzes of Ife and Benin by centuries. The discoveries indicate that a highly sophisticated, wealthy, and socially stratified society existed in southeastern Nigeria long before European contact. History K8 — ancient metallurgy and the lost-wax technique.",
+      "factsAdvanced": [
+        "An archaeological site located in Anambra State, southeastern Nigeria.",
+        "Yielded the oldest known bronze artifacts in West Africa, dating to the 9th century AD.",
+        "The artifacts were produced using the highly complex 'lost-wax' casting method.",
+        "The discoveries fundamentally altered historical timelines of West African metallurgy.",
+        "Artifacts included highly intricate ceremonial vessels, staffs, and beads.",
+        "Indicates the existence of a wealthy, highly organized pre-colonial society."
+      ]
+    },
+    {
+      "id": "oduduwa-shrine-history-v2",
+      "descriptionAdvanced": "The Oduduwa Shrine and Grove, located in the ancient city of Ile-Ife, is the most revered spiritual site in traditional Yoruba religion. It marks the mythological landing spot and burial place of Oduduwa, the legendary progenitor and first king of the Yoruba race. The sacred site is steeped in deep mysticism and is strictly guarded by traditional priests; access to its inner sanctums is highly restricted. It serves as the ultimate pilgrimage destination for Yoruba monarchs and devotees from across the globe, particularly during the annual Olojo festival. The shrine acts as the spiritual anchor of the entire Yoruba diaspora. History K8 — origin myths and traditional religion.",
+      "factsAdvanced": [
+        "Located in Ile-Ife, Osun State, the spiritual capital of the Yoruba people.",
+        "Dedicated to Oduduwa, the mythological progenitor of the Yoruba race.",
+        "Believed by traditionalists to be the exact site of Oduduwa's descent from heaven.",
+        "Strictly managed by high-ranking traditional priests with restricted public access.",
+        "The focal point of global Yoruba spiritual pilgrimage, especially during the Olojo festival.",
+        "Symbolizes the unbroken spiritual lineage of all Yoruba monarchs."
+      ]
+    },
+    {
+      "id": "kofar-mata-dyeing-pits-history-v2",
+      "descriptionAdvanced": "The Kofar Mata Dyeing Pits in Kano represent a spectacular, living legacy of the trans-Saharan trade era. Established in 1498, these pits have been in continuous operation for over five centuries, utilizing traditional methods to dye fabrics in deep, rich indigo. The site consists of over a hundred deep, circular pits dug into the earth, where artisans soak fabrics in a natural mixture of indigo plant extract, ash, and potassium. The resulting vibrant cloth was historically a major export commodity, highly prized by Tuareg nomads and traders across North Africa. The pits remain a bustling, functioning center of indigenous Hausa artisanship. History K7 — traditional crafts and indigo dyeing.",
+      "factsAdvanced": [
+        "Located in the ancient city of Kano, established in 1498.",
+        "Features over 100 deep, circular pits used for traditional fabric dyeing.",
+        "Utilizes a completely natural mixture of indigo plant extract, ash, and potassium.",
+        "Has been in continuous, uninterrupted operation for over 500 years.",
+        "The indigo cloth was a massive export commodity during the trans-Saharan trade.",
+        "The site remains fully functional, operated by descendants of the original artisans."
+      ]
+    },
+    {
+      "id": "esie-museum-history-v2",
+      "descriptionAdvanced": "The Esie Museum, located in Kwara State, holds the profound distinction of being the very first museum established in Nigeria, opened in 1945. It was built specifically to house an astonishing collection of over 1,000 mysterious soapstone (steatite) figures discovered accidentally by locals. The sculptures, which depict men, women, and animals in highly intricate hairstyles and facial markings, represent the largest collection of soapstone images in the world. The origins and creators of the Esie figures remain one of West Africa's greatest archaeological mysteries, as local legends claim they were once living people turned to stone. History K7 — archaeological mysteries and early museums.",
+      "factsAdvanced": [
+        "Located in Esie, Kwara State, and established in 1945.",
+        "The very first national museum established in Nigeria.",
+        "Houses the world's largest collection of soapstone (steatite) sculptures.",
+        "Contains over 1,000 intricately carved figures depicting humans and animals.",
+        "The exact origins and creators of the sculptures remain a major archaeological mystery.",
+        "Local mythology claims the statues are the petrified remains of ancient settlers."
+      ]
+    },
+    {
+      "id": "dufuna-canoe-history-v2",
+      "descriptionAdvanced": "The Dufuna Canoe Discovery Site in Yobe State is the location of one of the most astonishing archaeological finds in African history. In 1987, a Fulani herdsman digging a well accidentally uncovered an ancient, fully intact dugout canoe buried deep in the earth. Radiocarbon dating astonishingly placed the canoe at approximately 8,000 years old, making it the oldest known boat in Africa and the third oldest in the world. The exceptionally sophisticated design of the canoe proves that complex nautical engineering and extensive water navigation existed in the Lake Chad basin thousands of years before previously believed. History K8 — ancient nautical engineering and the Lake Chad basin.",
+      "factsAdvanced": [
+        "Discovered in 1987 near the village of Dufuna in Yobe State.",
+        "Radiocarbon dating places the canoe at approximately 8,000 years old.",
+        "Officially the oldest known boat in Africa and the third oldest globally.",
+        "Carved from a single massive trunk of African mahogany.",
+        "Features a highly sophisticated, hydrodynamic design indicating advanced engineering.",
+        "Proves the existence of early, complex water navigation in the prehistoric Lake Chad basin."
+      ]
+    },
+    {
+      "id": "mbari-cultural-centre-history-v2",
+      "descriptionAdvanced": "The Mbari Cultural Centre in Owerri, Imo State, serves as an open-air museum and a vibrant tribute to the traditional Mbari art form of the Igbo people. Historically, Mbari houses were spectacular, temporary mud shrines built collectively by a community to appease Ala, the earth goddess, following major disasters or periods of crisis. The structures were filled with brightly painted, life-sized clay sculptures depicting deities, animals, and scenes of daily life. The modern center preserves and showcases these intricate sculptural styles, serving as a vital link to indigenous Igbo religious practices and communal artistic expression. History K7 — indigenous art forms and earth goddess shrines.",
+      "factsAdvanced": [
+        "Located in Owerri, Imo State, serving as an open-air cultural museum.",
+        "Dedicated to preserving the traditional Igbo Mbari art form.",
+        "Historically, Mbari shrines were built to appease Ala, the earth goddess.",
+        "Features highly intricate, life-sized painted clay sculptures.",
+        "Traditional Mbari houses were intentionally left to decay after construction.",
+        "The center provides crucial insight into pre-colonial Igbo cosmology and communal art."
+      ]
+    },
+    {
+      "id": "surame-cultural-landscape-history-v2",
+      "descriptionAdvanced": "The Surame Cultural Landscape in Sokoto State contains the massive, awe-inspiring ruins of the capital of the ancient Kebbi Kingdom. Thriving in the 15th and 16th centuries under the legendary King Kanta of Kebbi, the city was heavily fortified with unique defensive walls constructed entirely from dry stone and earth, a rarity in the region. Surame was a massive center of Islamic scholarship and military power that successfully resisted the might of the Songhai Empire. Today, the extensive ruins cover over 900 hectares, offering profound archaeological insights into the grand scale of early Hausa-affiliated states. History K8 — ancient kingdoms and dry-stone architecture.",
+      "factsAdvanced": [
+        "Located in Sokoto State, representing the ruins of the ancient Kebbi Kingdom.",
+        "Served as the capital during the 15th and 16th centuries under King Kanta.",
+        "Features unique defensive walls constructed using dry-stone masonry.",
+        "The ancient city was a massive center of military power and Islamic scholarship.",
+        "The kingdom famously and successfully resisted the expansion of the Songhai Empire.",
+        "The archaeological site covers an immense area of over 900 hectares."
+      ]
+    },
+    {
+      "id": "mary-slessor-house-history-v2",
+      "descriptionAdvanced": "Mary Slessor's House, located in Okoyong near Calabar in Cross River State, is the historic residence of the legendary Scottish Presbyterian missionary. Arriving in Nigeria in 1876, Slessor gained immense respect among the local Efik and Okoyong people by immersing herself entirely in their culture, speaking their language fluently, and living simply. She is most profoundly remembered for her successful, relentless campaign to abolish the traditional practice of infanticide against twins, whom locals believed carried an evil curse. The preserved house stands as a monument to her profound humanitarian impact and the complex history of early colonial missions. History K7 — missionary history and humanitarian impact.",
+      "factsAdvanced": [
+        "Located in Okoyong, near Calabar, Cross River State.",
+        "The historic home of Mary Slessor, a Scottish Presbyterian missionary.",
+        "Slessor is celebrated for successfully abolishing the ritual killing of twins.",
+        "She gained immense influence by deeply integrating into the local Efik culture.",
+        "The house was constructed in the late 19th century using imported Scottish materials.",
+        "Serves as a major historical site regarding early colonial humanitarian efforts."
+      ]
+    },
+    {
+      "id": "lugard-hall-history-v2",
+      "descriptionAdvanced": "Lugard Hall, located in the heart of Kaduna, is a monumental colonial building that served as the legislative and administrative center for the Northern Region of Nigeria. Named after Lord Frederick Lugard, the British colonial administrator who amalgamated the country, the building's striking architecture blends traditional Islamic motifs with British colonial design, featuring sweeping domes and wide verandas. It housed the Northern House of Assembly and the House of Chiefs, witnessing many of the critical political debates that shaped Nigeria's independence and early republic. Today, it remains a profound symbol of the political history of Northern Nigeria. History K8 — colonial administration and regional parliaments.",
+      "factsAdvanced": [
+        "Located in Kaduna, the historic administrative capital of Northern Nigeria.",
+        "Named after Lord Frederick Lugard, the architect of Nigeria's amalgamation.",
+        "The architecture is a deliberate blend of Islamic design and British colonial styles.",
+        "Served as the seat of the Northern House of Assembly and House of Chiefs.",
+        "The site of massive political debates leading up to Nigerian independence in 1960.",
+        "Currently serves as the Kaduna State House of Assembly."
+      ]
+    },
+    {
+      "id": "mount-patti-history-v2",
+      "descriptionAdvanced": "Mount Patti is a striking, 1,500-foot-high flat-topped hill towering over the city of Lokoja in Kogi State. The mountain holds a unique and profound place in the nation's history; it was from this exact vantage point, offering sweeping views of the confluence of the Niger and Benue rivers, that Flora Shaw, the future wife of Lord Lugard, allegedly coined the name 'Nigeria' (Niger-area) in the late 19th century. Lord Lugard subsequently utilized the hilltop as his administrative retreat, enjoying the cooler microclimate. Today, visitors can still see the remains of his rest house and the massive baobab trees that dominate the summit. History K7 — the naming of Nigeria and colonial outposts.",
+      "factsAdvanced": [
+        "A 1,500-foot-high flat-topped hill towering over Lokoja, Kogi State.",
+        "The historical site where the name 'Nigeria' was allegedly coined by Flora Shaw.",
+        "Provides a spectacular, panoramic view of the confluence of the Niger and Benue rivers.",
+        "Served as a cooler administrative retreat for Lord Frederick Lugard.",
+        "Features the historic remains of Lord Lugard's hilltop rest house.",
+        "The summit is uniquely characterized by a high concentration of massive baobab trees."
+      ]
+    },
+    {
+      "id": "gobirau-minaret-history-v2",
+      "descriptionAdvanced": "The Gobarau Minaret, located in the ancient city of Katsina, is a spectacular, 50-foot-tall mud-brick tower that dates back to the 14th century. Originally constructed as the central minaret for Katsina's grand mosque during the reign of King Sarkin Katsina, it later evolved into a massive center for Islamic scholarship and higher learning. It served as a critical intellectual hub, drawing scholars from across the Sahel and North Africa, functioning similarly to the universities of Timbuktu. Today, this towering, tapering earthen structure stands as one of the finest surviving examples of indigenous Hausa-Islamic architecture. History K8 — Islamic scholarship and medieval mud-brick architecture.",
+      "factsAdvanced": [
+        "Located in the ancient city of Katsina, built entirely of traditional mud-brick.",
+        "Constructed in the 14th century, towering approximately 50 feet high.",
+        "Originally served as the central minaret for the grand mosque of Katsina.",
+        "Evolved into a major, internationally recognized center for Islamic higher education.",
+        "Attracted renowned scholars from across the Sahel, similar to Timbuktu.",
+        "Considered a masterpiece of indigenous Hausa-Islamic architectural design."
+      ]
+    },
+    {
+      "id": "slave-history-museum-history-v2",
+      "descriptionAdvanced": "The Slave History Museum, located in the historic port city of Calabar, Cross River State, is a deeply immersive and harrowing institution dedicated to preserving the tragic history of the transatlantic slave trade. Located on the exact site of a 15th-century slave-trading warehouse, the museum utilizes stark, life-sized dioramas, authentic artifacts, and immersive audio exhibits to vividly depict the brutal realities of capture, holding, and the horrifying Middle Passage. It specifically details Calabar's role as a major export hub where millions of captives from the interior were sold. The museum stands as a critical center for historical memory and education. History K8 — the Middle Passage and historical memory.",
+      "factsAdvanced": [
+        "Located in Calabar, a historically massive export hub for the transatlantic slave trade.",
+        "Built on the exact site of a 15th-century slave-trading warehouse.",
+        "Features harrowing, life-sized dioramas depicting the capture and holding of slaves.",
+        "Preserves authentic artifacts including chains, shackles, and trading currencies.",
+        "Provides detailed exhibits specifically focusing on the horrors of the Middle Passage.",
+        "Serves as a crucial site for historical education and diaspora reflection."
+      ]
+    },
+    {
+      "id": "chief-ekpo-bassey-house-history-v2",
+      "descriptionAdvanced": "Chief Ekpo Bassey's House is a beautifully preserved piece of colonial-era architecture located in the historic city of Calabar. Built in the late 19th century, it was the residence of Chief Ekpo Bassey, a highly influential traditional leader and prominent political figure who served on the Legislative Council of Southern Nigeria. The house was entirely imported from the United Kingdom in pre-fabricated sections and assembled on-site, a massive display of wealth and status during the era of the palm oil trade. Today, it stands as a national monument, perfectly encapsulating the lifestyle of the wealthy merchant class in pre-colonial and early colonial Calabar. History K7 — colonial merchant classes and pre-fabricated architecture.",
+      "factsAdvanced": [
+        "Located in the historic port city of Calabar, Cross River State.",
+        "The former residence of Chief Ekpo Bassey, a highly influential traditional and political leader.",
+        "Constructed in the late 19th century entirely from imported, pre-fabricated British materials.",
+        "Represents the immense wealth generated during the transition to the palm oil trade.",
+        "Chief Bassey was a prominent member of the Legislative Council of Southern Nigeria.",
+        "Currently protected and maintained as a highly significant national historical monument."
+      ]
+    },
+    {
+      "id": "amalgamation-house-history-v2",
+      "descriptionAdvanced": "The Amalgamation House in Ikot Abasi, Akwa Ibom State, is the exact, historic building where the modern nation of Nigeria was legally born. It was in this modest, timber-framed colonial building that Lord Frederick Lugard, the British Governor-General, officially signed the document amalgamating the Northern and Southern Protectorates into a single entity on January 1, 1914. Situated near the estuary of the Imo River, the building served as Lugard's administrative headquarters during the process. Today, despite its immense historical weight, the building is relatively quiet, serving as a solemn monument to the arbitrary colonial borders that forged the country. History K8 — colonial amalgamation and national borders.",
+      "factsAdvanced": [
+        "Located in Ikot Abasi, Akwa Ibom State, near the Imo River estuary.",
+        "The exact building where Lord Lugard signed the amalgamation document in 1914.",
+        "Legally fused the British Northern and Southern Protectorates into the single nation of Nigeria.",
+        "A modest, timber-framed structure serving as the colonial administrative headquarters.",
+        "Represents the arbitrary drawing of colonial borders that shaped modern West Africa.",
+        "Maintained as a national historical monument of profound political significance."
+      ]
+    },
+    {
+      "id": "alok-ikom-monoliths-history-v2",
+      "descriptionAdvanced": "The Alok Ikom Stone Monoliths are an astonishing collection of over 300 intricately carved volcanic stones located in Cross River State. Scattered across several communities in circular formations, these phallic-shaped stones, known locally as Akwanshi, feature stylized human faces, geometric patterns, and intricate inscriptions. Archaeologists believe they were carved between the 2nd and 16th centuries, though their exact origins and the tools used to carve the hard basalt remain highly debated. They are generally believed to represent revered ancestors of the local Ekoi people. These enigmatic stones are currently on the tentative list for UNESCO World Heritage status. History K8 — ancient stone carving and ancestral shrines.",
+      "factsAdvanced": [
+        "Located in the Ikom region of Cross River State, southeastern Nigeria.",
+        "Consists of over 300 carved volcanic basalt stones, known locally as Akwanshi.",
+        "Features highly stylized human faces, beards, and complex geometric inscriptions.",
+        "Estimated to have been carved between the 2nd and 16th centuries AD.",
+        "Traditionally believed to represent the spirits of revered community ancestors.",
+        "Currently listed on the tentative list for UNESCO World Heritage status."
+      ]
+    },
+    {
+      "id": "national-mosque-abuja-landmarks-v2",
+      "descriptionAdvanced": "The Nigerian National Mosque, centrally located in the capital city of Abuja, is one of the most magnificent and visually striking architectural landmarks in West Africa. Completed in 1984, the complex was designed to symbolize the unity of Nigerian Muslims. The structure is immediately recognizable by its massive, gleaming golden dome, which is flanked by four towering minarets standing 120 meters tall. The sprawling complex includes a vast prayer hall capable of holding thousands of worshippers, a library, and an Islamic conference center. The mosque is situated near the National Christian Centre, deliberately highlighting the religious diversity of the nation's capital. Geography K7 — national monuments and modern Islamic architecture.",
+      "factsAdvanced": [
+        "Located in the central business district of Abuja, Nigeria's capital.",
+        "Completed in 1984, representing modern Islamic architectural design.",
+        "Features a massive, iconic golden dome visible from across the city.",
+        "Surrounded by four towering minarets, each reaching a height of 120 meters.",
+        "Includes a massive prayer hall, a comprehensive library, and a conference center.",
+        "Strategically located near the National Christian Centre to symbolize religious tolerance."
+      ]
+    },
+    {
+      "id": "national-christian-centre-abuja-landmarks-v2",
+      "descriptionAdvanced": "The National Christian Centre, formerly known as the National Church of Nigeria, is a breathtaking architectural masterpiece located in Abuja. Characterized by its striking, soaring neo-gothic design, the building features massive copper roofs, intricate stained glass windows, and a series of dramatic, interlocking arches. Although construction began in the late 1980s, the complex sat unfinished for decades until a major push allowed it to be completed in 2005, just in time for Nigeria's 45th independence anniversary. It serves as the primary interdenominational center for Christian worship in the capital and acts as the structural counterpart to the nearby National Mosque. Geography K7 — neo-gothic architecture and national monuments.",
+      "factsAdvanced": [
+        "Located in Abuja, serving as the primary interdenominational Christian center.",
+        "Features a highly dramatic, soaring neo-gothic architectural design.",
+        "Construction began in the 1980s but was stalled and finally completed in 2005.",
+        "Characterized by massive copper roofing and intricate, colorful stained glass windows.",
+        "Dedicated on the 45th anniversary of Nigeria's independence.",
+        "Located in close proximity to the National Mosque, symbolizing national religious unity."
+      ]
+    },
+    {
+      "id": "national-arts-theatre-lagos-landmarks-v2",
+      "descriptionAdvanced": "The National Arts Theatre in Lagos is the premier cultural and architectural landmark for the performing arts in Nigeria. Constructed in 1976 in preparation for the monumental Festival of Arts and Culture (FESTAC '77), the building's exterior is instantly recognizable, designed to resemble a peaked military hat. The massive complex contains a 3,000-seat main hall with a collapsible stage, alongside numerous galleries, cinema halls, and exhibition spaces. For decades, it stood as the beating heart of Nigerian theater, music, and art. Despite periods of neglect, it is currently undergoing a massive, multi-million-dollar rehabilitation to restore it to its former global glory. Geography K8 — modern cultural landmarks and event spaces.",
+      "factsAdvanced": [
+        "Located in Iganmu, Lagos State, serving as the national center for performing arts.",
+        "Constructed in 1976 specifically to host the global FESTAC '77 arts festival.",
+        "The exterior architecture is uniquely designed to resemble a peaked military hat.",
+        "Features a massive main hall with a seating capacity of 3,000 and a collapsible stage.",
+        "Contains extensive art galleries, exhibition spaces, and cinema halls.",
+        "Currently undergoing a massive, private-sector-led rehabilitation project."
+      ]
+    },
+    {
+      "id": "tafawa-balewa-square-landmarks-v2",
+      "descriptionAdvanced": "Tafawa Balewa Square (TBS) is a massive, historically profound ceremonial ground located in the heart of Lagos Island. Originally a colonial racecourse, the sprawling 14.5-hectare square was completely redesigned to host the official celebration of Nigeria's independence from Britain on October 1, 1960. The square is framed by monumental architecture, including massive concrete horses and eagles symbolizing strength and dignity, and the towering Independence House. For decades, TBS was the focal point for all major national parades and political rallies. Today, it remains a bustling commercial and event space, heavily embedded in the historical memory of the nation. History K7 — independence monuments and ceremonial squares.",
+      "factsAdvanced": [
+        "A massive 14.5-hectare ceremonial square located on Lagos Island.",
+        "The exact site where Nigeria officially celebrated its independence on October 1, 1960.",
+        "Historically operated as an elite horse racing course during the British colonial era.",
+        "The entrances feature massive sculptures of horses and eagles symbolizing strength.",
+        "Framed by the towering Independence House and the National Assembly building.",
+        "Currently utilized as a major venue for commercial exhibitions and political rallies."
+      ]
+    },
+    {
+      "id": "third-mainland-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Third Mainland Bridge, officially named the Ibrahim Babangida Boulevard, is an astonishing feat of civil engineering and the critical logistical artery of Lagos. Spanning exactly 11.8 kilometers across the Lagos Lagoon, it held the title of the longest bridge in Africa for decades until 1996. Completed in 1990, the bridge was constructed to drastically reduce the crippling traffic congestion between the affluent islands and the heavily populated mainland suburbs. Carrying hundreds of thousands of vehicles daily, the bridge is legendary for its massive rush-hour gridlock. It remains the most essential, heavily utilized piece of transportation infrastructure in Nigeria. Geography K8 — monumental bridges and urban logistics.",
+      "factsAdvanced": [
+        "Spans exactly 11.8 kilometers across the massive Lagos Lagoon.",
+        "Connects the commercial hub of Lagos Island to the heavily populated mainland.",
+        "Was the longest bridge in Africa from its completion in 1990 until 1996.",
+        "Officially named the Ibrahim Babangida Boulevard, after the military president.",
+        "Carries hundreds of thousands of vehicles daily, causing legendary traffic gridlock.",
+        "A critical engineering project designed to relieve the older Carter and Eko bridges."
+      ]
+    },
+    {
+      "id": "lekki-ikoyi-link-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Lekki-Ikoyi Link Bridge is a stunning, ultra-modern piece of infrastructure that has quickly become the most photographed architectural landmark in 21st-century Lagos. Commissioned in 2013, it is the first cable-stayed bridge ever built in Nigeria, spanning 1.36 kilometers across the Five Cowries Creek. The bridge was constructed to provide a direct, high-speed link between the affluent residential district of Ikoyi and the rapidly expanding commercial zone of Lekki, bypassing severe traffic bottlenecks. Its towering, beautifully illuminated central pylon dominates the skyline at night, making the bridge a popular location for fitness enthusiasts, film shoots, and tourism. Geography K8 — cable-stayed bridges and modern urban aesthetics.",
+      "factsAdvanced": [
+        "A 1.36-kilometer bridge connecting the affluent districts of Ikoyi and Lekki in Lagos.",
+        "Commissioned in 2013 as the very first cable-stayed bridge built in Nigeria.",
+        "Features a towering, 90-meter-high central pylon that is heavily illuminated at night.",
+        "Designed to alleviate severe traffic congestion in the Victoria Island corridor.",
+        "Operates as a fully electronic toll bridge.",
+        "Has become a highly popular, iconic location for runners, photographers, and filmmakers."
+      ]
+    },
+    {
+      "id": "necom-house-lagos-landmarks-v2",
+      "descriptionAdvanced": "NECOM House, located in the bustling Marina district of Lagos Island, holds the commanding title of the tallest building in Nigeria and all of West Africa. Completed in 1979, the striking, modernist skyscraper rises 160 meters into the air, dominating the city's skyline. The building was originally constructed to serve as the headquarters of the Nigerian External Telecommunications company, symbolizing the country's rapid modernization during the oil boom. Its most distinctive architectural feature is the massive, illuminated communications spire at its peak, which also serves as a navigational beacon for ships entering the Lagos harbor. It is a true monument to 1970s commercial power. Geography K7 — towering skyscrapers and urban skylines.",
+      "factsAdvanced": [
+        "Located in the Marina district of Lagos Island, completed in 1979.",
+        "Stands as the tallest building in Nigeria and West Africa, at 160 meters high.",
+        "Features 32 floors of commercial office space.",
+        "Originally built as the headquarters for the Nigerian External Telecommunications company.",
+        "Topped with a massive communications spire that acts as a harbor lighthouse.",
+        "Survived severe fire incidents in 1983 and 2015 without structural collapse."
+      ]
+    }
+  ]
+}

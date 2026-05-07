@@ -1,0 +1,321 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "desaru-coast-adventure-waterpark-life-v2",
+      "descriptionAdvanced": "A Desaru Coast Adventure Waterpark Johor állam délkeleti partvidékén, a Maláj-félsziget csücskében található, és a régió egyik legnagyobb turisztikai fejlesztésének számít. A 2018-ban megnyitott, tengerparti dzsungelbe ágyazott hatalmas vízipark öt tematikus zónával várja a látogatókat. Fő attrakciója a világ egyik legnagyobb mesterséges hullámmedencéje (Tidal Wave Beach), ahol a szörfözésre is alkalmas hullámok akár a három méteres magasságot is elérhetik. A park büszkesége továbbá a 'Kraken's Revenge', a régió első olyan hullámvasútja, amely egy vízi csúszdába torkollik. A létesítmény egy integrált üdülőközpont része, amely luxusszállodákat, golfpályákat és konferenciaközpontokat foglal magában, célja pedig a szingapúri és nemzetközi turisták idevonzása. Földrajz és gazdaságtan oktatásában a part menti területek komplex turisztikai revitalizációjának modern példája.",
+      "factsAdvanced": [
+        "A vízipark 2018-ban nyílt meg a Desaru Coast integrált turisztikai projekt részeként.",
+        "Itt található a világ egyik legnagyobb mesterséges hullámmedencéje (Tidal Wave Beach).",
+        "A hullámmedence közel 16 millió liter vízzel működik, és 3 méteres hullámokat generál.",
+        "Délkelet-Ázsia első integrált vizes hullámvasútja, a 'Kraken's Revenge' is itt kapott helyet.",
+        "Körülbelül 21 hektáron terül el a trópusi tájba ágyazva.",
+        "A komplexum stratégiai fekvésű, mindössze rövid kompútra található Szingapúrtól."
+      ]
+    },
+    {
+      "id": "gunung-mulu-nationalpark-life-v2",
+      "descriptionAdvanced": "A Gunung Mulu Nemzeti Park a biológiai sokféleség és a karsztgeológia világszintű fellegvára Sarawak állam sűrű esőerdeiben, az egyenlítő közelében. Ez az UNESCO Világörökségi terület nemcsak a föld alatti barlangrendszereiről híres, hanem a felszíni trópusi élet páratlan gazdagságáról is. A parkban több mint 20 000 állatfaj él, köztük 81 emlősfaj, 270 madárfaj (például a ritka szarvascsőrű madarak) és több mint 3000 különféle növényfaj, ami a Föld egyik legbiodiverzebb területévé teszi. A helyszín legismertebb biológiai látványossága a Deer-barlangból minden este kirepülő mintegy hárommillió denevér (főként ráncosajkú denevér), amelyek spirális formációban vadásznak a dzsungel feletti rovarokra, miközben ragadozó madarak, például denevérsólymok próbálják elkapni őket. A biológia és környezetismeret oktatásában a barlangi és esőerdei táplálékláncok interakciójának tökéletes esettanulmánya.",
+      "factsAdvanced": [
+        "A park területe hatalmas, 52 864 hektáron őrzi az egyenlítői trópusi esőerdőt.",
+        "A biológusok több mint 20 000 gerinctelen állatfajt azonosítottak a parkban.",
+        "Több mint 3000 növényfaj él itt, köztük egyedülálló, 17 zónára oszló hegyvidéki flóra.",
+        "Minden naplemente idején denevérek milliói (főleg ráncosajkú denevérek) repülnek ki a barlangokból.",
+        "A területen ritka ragadozó madarak, mint a denevérsólyom (bat hawk) is megfigyelhetők.",
+        "A park az őslakos Penan törzs hagyományos vadász-gyűjtögető területe."
+      ]
+    },
+    {
+      "id": "klcc-park-life-v2",
+      "descriptionAdvanced": "A KLCC Park (Kuala Lumpur City Centre Park) egy 20 hektáros trópusi tájkert a Petronas-ikertornyok tövében, amelyet a neves brazil építész, Roberto Burle Marx tervezett. Az 1998-ban átadott park egy hatalmas mesterséges zöldterület a sűrű betondzsungel közepén, amelynek célja a városi mikroklíma hűtése és a lakosok rekreációja. A park fókuszpontjában a 10 000 négyzetméteres Lake Symphony (Szimfónia-tó) áll, amelynek számítógép-vezérelt szökőkútjai esténként látványos zene- és fény-show-t (vízibalettet) adnak elő, a vízoszlopok pedig akár 42 méter magasra is kilövellhetnek. A területen mintegy 1900 őshonos trópusi fát ültettek el, amelyek mágnesként vonzzák a helyi madárvilágot. Várostervezés és földrajz keretében a modern ázsiai nagyvárosok zöldítésének és a 'fenntartható felhőkarcoló-komplexumok' létrehozásának szép példája.",
+      "factsAdvanced": [
+        "A 20 hektáros parkot a világhírű brazil tájépítész, Roberto Burle Marx tervezte.",
+        "Több mint 1900 fát, köztük 74 különböző őshonos fajt telepítettek a parkba.",
+        "A Lake Symphony szökőkútjai esténként 42 méteres magasságba is fellövellnek.",
+        "A park része egy 1,3 kilométeres gumírozott futópálya is a sportolni vágyóknak.",
+        "A közepén egy hatalmas, nyilvános, mozaikkal kirakott gyermekpancsoló található.",
+        "1998-ban, a Petronas-tornyokkal egy időben nyitották meg a nagyközönség előtt."
+      ]
+    },
+    {
+      "id": "entopia-by-penang-butterfly-farm-life-v2",
+      "descriptionAdvanced": "Az Entopia by Penang Butterfly Farm a Penang-sziget északnyugati részén (Teluk Bahang) található, és a világ első trópusi pillangó- és rovarrezervátuma. Az eredeti lepkefarmot 1986-ban alapította egy helyi entomológus, David Goh, de 2016-ban egy nagyszabású átépítés után 'Entopia' néven nyitott újra, egy hatalmas, üvegkupolás bioklimatikus dómként. A komplexumban mintegy 15 000 szabadon repkedő pillangó (több mint 60 faj) található, amelyek sűrű esőerdei növényzet, vízesések és mesterséges barlangok között élnek ('Natureland'). A föld alatti rész ('The Cocoon') interaktív kiállításokkal mutatja be a rovarok anatómiáját és metamorfózisát, hangsúlyt fektetve a szentjánosbogarakra, skorpiókra és óriás ezerlábúakra. A biológia és környezetismeret oktatásában az ízeltlábúak ökológiai fontosságának és a rovartan (entomológia) vizuális bemutatásának tökéletes színtere.",
+      "factsAdvanced": [
+        "1986-ban alapították a világ legelső trópusi pillangófarmjaként.",
+        "2016-ban 'Entopia' néven teljesen újjáépült egy modern bioklimatikus kupolával.",
+        "Folyamatosan mintegy 15 000 élő pillangó repked szabadon a bejárható dómban.",
+        "Több mint 60 maláj endemikus lepkefajt, köztük a védett Rajah Brooke pillangót is tenyésztik.",
+        "A föld alatti 'The Cocoon' zóna hatalmas interaktív rovartani (entomológiai) kiállítás.",
+        "A farm jelentős kutatóbázis, amely évente több százezer bábbal lát el külföldi állatkerteket."
+      ]
+    },
+    {
+      "id": "penang-nationalpark-life-v2",
+      "descriptionAdvanced": "A Penang Nemzeti Park, amely a sziget északnyugati csücskében fekszik, Malajzia legkisebb, mindössze 25 négyzetkilométeres nemzeti parkja, ugyanakkor biológiailag az egyik legsokszínűbb. Ez a park büszkélkedhet Malajzia egyetlen 'meromiktikus' tavával (Pantai Kerachut), ahol a felső édesvíz-réteg nem keveredik az alatta lévő, melegebb sós vízzel, egyedi ökoszisztémát teremtve. A sűrű dipterokarp erdőkön átvezető túraútvonalak eldugott, hófehér homokos tengerpartokhoz vezetnek (mint a Monkey Beach), amelyek a zöld levesteknősök és a ritka cserepesteknősök fontos fészkelőhelyei. A park területén található a történelmi Muka Head világítótorony is, amelyet a britek építettek 1883-ban a Malakka-szoros hajózásának biztosítására. Biológia és földrajz tanulmányozásában a meromiktikus tavak ritka hidrológiai jelenségének és a part menti esőerdők védelmének kiváló példája.",
+      "factsAdvanced": [
+        "A maga 25 négyzetkilométerével Malajzia legkisebb területű nemzeti parkja.",
+        "2003-ban kapott hivatalos nemzeti parki státuszt.",
+        "Itt található az ország egyetlen meromiktikus tava, ahol a sós és édesvíz nem keveredik.",
+        "Fontos fészkelőhelye a veszélyeztetett zöld levesteknősöknek (Pantai Kerachut part).",
+        "A dzsungelben található az 1883-ban épült Muka Head világítótorony (227 m magasan).",
+        "A parkba nincsenek kiépített autóutak, csak gyalogösvényeken és csónakkal járható."
+      ]
+    },
+    {
+      "id": "felda-sahabat-palmoelplantage-life-v2",
+      "descriptionAdvanced": "A FELDA Sahabat Sabah állam keleti részén, a Dent-félszigeten található, és Malajzia legnagyobb egybefüggő mezőgazdasági telepe, amely gigantikus pálmaolaj-ültetvényeket foglal magában. A projektet a Szövetségi Földfejlesztési Hatóság (FELDA) indította el a 70-es évek végén a vidéki szegénység felszámolására; a dzsungelt kiirtották, és több ezer nincstelen telepest hoztak ide, hogy földet és munkát adjanak nekik. Ma az ültetvény mintegy 100 000 hektáron terül el, minivárosokkal, saját gyárakkal és kikötővel. 2013-ban a terület globális figyelmet kapott, amikor a fülöp-szigeteki Sulu-szultanátus fegyveresei betörtek a régióba, hetekig tartó véres fegyveres konfliktust (Lahad Datu-incidens) okozva a maláj hadsereggel. A gazdaságföldrajz és társadalomismeret oktatásában a pálmaolaj-ipar agrárexpanziójának, az esőerdők irtásának és a modern vidékfejlesztési programoknak a megkerülhetetlen példája.",
+      "factsAdvanced": [
+        "Malajzia legnagyobb mezőgazdasági betelepítési projektje (kb. 100 000 hektár).",
+        "A FELDA (Szövetségi Földfejlesztési Hatóság) irányítja az olajpálma-termelést.",
+        "Több ezer vidéki telepes (settler) dolgozik és él a kiépített komplexumokban.",
+        "A pálmaolaj-ipar az ország egyik legfőbb exportcikke és GDP-motorja.",
+        "A hatalmas monokultúrás ültetvények komoly ökológiai kritikát (erdőirtás) kapnak.",
+        "2013-ban súlyos fegyveres konfliktus színhelye volt a Fülöp-szigetekről beszivárgó fegyveresek miatt."
+      ]
+    },
+    {
+      "id": "kuala-lumpur-vogelpark-life-v2",
+      "descriptionAdvanced": "A Kuala Lumpur-i Madárpark (KL Bird Park) a városközponti Perdana Botanikus Kertben található, és 8,5 hektáros területével a világ egyik legnagyobb szabadtéri, szabadon repülő madárröpdéje (free-flight aviary). Az 1991-ben megnyílt park különlegessége, hogy a madarak nincsenek szűk ketrecekbe zárva; a hatalmas völgyet egyetlen óriási, fákat és vízeséseket is magában foglaló háló borítja, amely alatt az állatok szabadon repülhetnek és természetes módon szaporodhatnak. A park több mint 3000 madárnak ad otthont mintegy 200 fajból, melyek 90%-a helyi, délkelet-ázsiai faj. Fő attrakciói közé tartozik a hatalmas szarvascsőrű madár (hornbill) rezervátum és a pompás indiai pávák. A biológia és környezetismeret oktatásában az ex-situ (természetes élőhelyen kívüli) állatvédelem és a mesterséges ökoszisztémák fenntartásának lenyűgöző példája.",
+      "factsAdvanced": [
+        "1991-ben adták át, és 8,5 hektáros kiterjedésével a világ egyik legnagyobb szabad madárröpdéje.",
+        "A park négy fő zónából áll, melyből háromban a madarak teljesen szabadon repülnek.",
+        "Több mint 3000 madár él itt, mintegy 200 különböző fajból (főként ázsiai endemikus fajok).",
+        "A park híres a maláj állami madár, a rinocérosz szarvascsőrű madár sikeres tenyésztéséről.",
+        "A hatalmas röpdét tartó hálószerkezet oszlopait az eredeti dzsungelfák közé illesztették be.",
+        "Oktatási központként évente madárfiókák százait nevelik fel az inkubátor-állomáson."
+      ]
+    },
+    {
+      "id": "farm-in-the-city-life-v2",
+      "descriptionAdvanced": "A Farm In The City (Városi Farm) Selangor államban, Seri Kembanganban található, és egy egyedülálló, interaktív állatkert, amely a hagyományos maláj falvak (kampungok) környezetét modellezi a nagyvárosi dzsungel peremén. A hagyományos állatkertekkel ellentétben itt a fókusz a közvetlen érintkezésen van: nincsenek fémketrecek, az állatok (többnyire szelíd, nem ragadozó fajok) tágas kifutókban, gyakran a látogatók között szabadon sétálva élnek. A látogatók kézből etethetik az alpakákat, az óriásteknősöket, a kapibarákat (vízidisznókat) és a tucatnyi madárfajt. A farm egyben oktatási központ is, amely egzotikus gyümölcsös- és veteményeskertekkel rendelkezik, bemutatva a városi gyerekeknek az élelmiszer eredetét. A biológia és környezeti nevelés tantárgyakban az állat-ember kapcsolat, az állatjólét (animal welfare) és a városi mezőgazdaság oktatására szolgál.",
+      "factsAdvanced": [
+        "Interaktív, érintésen alapuló (petting zoo) állatkert, ketrecek nélküli koncepcióval.",
+        "Kialakítása egy tradicionális maláj falu (Kampung) építészetét és környezetét utánozza.",
+        "A területen több mint 100 szelíd vagy félszelíd állatfaj él (pl. alpaka, kapibara).",
+        "A park otthont ad az ország egyik legnagyobb szárazföldi óriásteknős-gyűjteményének.",
+        "Rendszeres zöldség- és gyümölcstermesztő bemutatókat tartanak városi gyerekeknek.",
+        "Az intézmény szigorú állatjóléti és 'szabad mozgástérért' (free-roaming) díjakat nyert."
+      ]
+    },
+    {
+      "id": "royal-belum-state-park-life-v2",
+      "descriptionAdvanced": "A Royal Belum Állami Park Perak állam északi részén, a thai határon fekszik, és a hatalmas Belum-Temenggor erdei komplexum része. Ez az 130 millió éves, háborítatlan őserdő régebbi, mint az Amazonas, és 2003-ban nyilvánították hivatalosan védett nemzeti örökséggé (Perak szultánja adta neki a 'Royal' címet). A park csak hajóval, a Temenggor-tó vizén keresztül közelíthető meg. A terület biológiai jelentőségét növeli, hogy itt él a világ mind a 10 malajziai szarvascsőrű madár faja, és ez a világ egyik legnagyobb gyülekezőhelye a Rafflesia virágnak. Emellett a vadon élő ázsiai elefántok és a kritikusan veszélyeztetett maláj tigris egyik utolsó menedéke. A biológia és földrajz oktatásában a trópusi esőerdők biodiverzitásának, a megafauna (nagytestű állatok) védelmének és az érintetlen ökoszisztémák kutatásának elsőrangú példája.",
+      "factsAdvanced": [
+        "Az őserdő becsült kora 130 millió év, ezzel a világ egyik legöregebb szárazföldi ökoszisztémája.",
+        "2003-ban kapta meg az Állami Park minősítést és a 'Royal' előtagot Perak szultánjától.",
+        "A park területén Malajzia mind a 10 szarvascsőrű madárfaja (hornbill) megtalálható.",
+        "A világ egyik legfontosabb élőhelye a hatalmas, élősködő Rafflesia virágnak.",
+        "A sűrű dzsungel otthont ad az őslakos, izoláltan élő 'Jahai' törzsnek (Orang Asli).",
+        "Csak a mesterséges Temenggor-tó vízi útjain, csónakkal lehet megközelíteni."
+      ]
+    },
+    {
+      "id": "durian-plantagen-in-raub-life-v2",
+      "descriptionAdvanced": "Raub körzete Pahang államban található, és Malajzia 'Durian Fővárosaként' (Musang King Capital) vált világhírűvé. Az egykor hanyatló ónbányász település hegyes, humuszban gazdag lejtőit az elmúlt évtizedekben átalakították a világ legértékesebb és legkeresettebb durianfajtájának, a 'Musang King' (Mao Shan Wang) termesztésére. A gyümölcsöt erős, megosztó illata, krémes állaga és intenzív keserédes íze teszi különlegessé. Az itteni ültetvények ('orchards') komoly agrárturisztikai vonzerővé váltak; a látogatók a szüret idején (június-augusztus) a farmokon frissen, egyenesen a fáról leesve kóstolhatják a gyümölcsöt. A megnövekedett kínai importkereslet miatt a durian mára az egyik legértékesebb mezőgazdasági termék lett. A gazdaságföldrajz oktatásában az agrárváltás (cash crop transition) és az exportvezérelt prémium mezőgazdaság hatásainak kiváló példája.",
+      "factsAdvanced": [
+        "Raub városát hivatalosan is a maláj duriantermesztés fővárosának tartják.",
+        "A terület a legdrágább és legkeresettebb fajta, a 'Musang King' (D197) otthona.",
+        "A dombos, humuszos talaj és a megfelelő csapadék ideális a durianfák ('Gyümölcsök Királya') számára.",
+        "A jó minőségű Musang King durian jelentős részét gyorsfagyasztva exportálják Kínába.",
+        "A durianfák csak 6-10 év után fordulnak termőre, és a gyümölcsöt hálókkal védik a lezuhanástól.",
+        "A megnövekedett nemzetközi kereslet komoly erdőirtási vitákat (esőerdők durianfarmokká alakítása) is szült."
+      ]
+    },
+    {
+      "id": "aquaria-klcc-life-v2",
+      "descriptionAdvanced": "Az Aquaria KLCC Délkelet-Ázsia egyik legnagyobb és legkorszerűbb fedett oceanáriuma, amely közvetlenül a Petronas-ikertornyok alatti Kuala Lumpur-i Konferenciaközpontban található. A 2005-ben átadott, közel 5600 négyzetméteres létesítmény egyedülálló koncepciója, hogy egy képzeletbeli utazáson vezeti végig a látogatókat a maláj felföldi esőerdők folyóitól, a mangrove mocsarakon át egészen a mélytengeri zátonyokig. Fő attrakciója egy 90 méter hosszú, átlátszó víz alatti alagút, amely egy hatalmas, hárommillió literes sós vizű medencén halad keresztül. Itt a látogatók feje felett úszkálnak a homoki tigriscápák, a hatalmas tengeri ráják és az óriási tengeri teknősök. A biológia és környezetismeret tantárgyak keretében az édesvízi és tengeri ökoszisztémák összefüggéseinek, valamint a vízi élővilág (marine conservation) védelmének oktatására szolgál.",
+      "factsAdvanced": [
+        "A létesítmény 5600 négyzetméteren terül el a Kuala Lumpur Konferenciaközpont alagsorában.",
+        "Több mint 5000 vízi és szárazföldi élőlénynek ad otthont (kb. 250 faj).",
+        "Központi medencéje közel 3 millió liter sós vizet tartalmaz.",
+        "Legnagyobb attrakciója a 90 méter hosszú akrilüveges víz alatti mozgójárdás alagút.",
+        "A kiállítás a hegyi folyók, a mocsarak és a mélytenger egybefüggő ökoszisztémáját mutatja be.",
+        "Aktívan részt vesznek a cápák és ráják tengerbiológiai megőrzési programjaiban."
+      ]
+    },
+    {
+      "id": "zoo-negara-malaysia-life-v2",
+      "descriptionAdvanced": "A Zoo Negara (Malajzia Nemzeti Állatkertje) Selangor államban, Kuala Lumpur peremvidékén, a Klang-völgyben található. Az 1963-ban megnyitott, mintegy 45 hektáros parkot a Maláj Zoológiai Társaság, egy független civil szervezet üzemelteti, amely jelentős mértékben támaszkodik a lakossági adományokra. Az állatkert az úgynevezett 'nyitott koncepció' (open concept) jegyében épült át, amely a szűk ketreceket tágas, természethű kifutókkal és vizesárkokkal helyettesítette. A park több mint 5000 állatot mutat be (470 fajból), legfőbb nevezetessége azonban az Óriáspanda Konzervációs Központ, amelyet a Kínával kötött diplomáciai megállapodás (panda-diplomácia) keretében építettek 2014-ben. A biológia és környezetismeret tantárgyak oktatásában az ex-situ fajmegőrzés és az állatkertek modern, oktatási és kutatási funkcióváltásának klasszikus helyszíne.",
+      "factsAdvanced": [
+        "A 45 hektáros állatkertet 1963. november 14-én nyitotta meg Malajzia első miniszterelnöke.",
+        "A park fenntartását egy civil szervezet, a Maláj Zoológiai Társaság végzi (NGO).",
+        "Több mint 5000 egyedet gondoznak a világ 470 különböző állatfajából.",
+        "Az állatkert több mint 90%-a 'nyitott koncepció' (open concept) alapján épült.",
+        "2014-ben nyílt meg a komplex Óriáspanda Konzervációs Központ.",
+        "Sikeres tenyészprogramot folytatnak a kihalás szélén álló maláj tigris számára."
+      ]
+    },
+    {
+      "id": "lost-world-of-tambun-life-v2",
+      "descriptionAdvanced": "A Lost World of Tambun egy különleges, dzsungelbe ágyazott integrált vidámpark és termálfürdő Ipoh városában, Perak államban. A 2004-ben nyílt, 16 hektáros komplexum egyedülállóságát a lenyűgöző geológiai környezet adja: a parkot a Kinta-völgy 400 millió éves, zöld növényzettel benőtt mészkőhegyei ölelik körül. A létesítmény magában foglal egy víziparkot, egy állatkertet és egy kalandparkot is. Legfontosabb természeti kincse azonban a mélyből feltörő természetes melegvizes hőforrások (Hot Springs), amelyek ásványi anyagokban gazdag medencéit sötétedés után fényshow-kkal világítják meg. A parkban egy korábbi ónbánya másolata is helyet kapott, tisztelegve a régió történelme előtt. Földrajz és gazdaságtan oktatásában a karsztos tájak (mészkőhegyek és termálvizek) turisztikai revitalizációjának és a geológiai adottságok gazdasági kiaknázásának ragyogó példája.",
+      "factsAdvanced": [
+        "A 16 hektáros vidámparkot 2004-ben nyitotta meg a Sunway Group.",
+        "Közvetlenül a 400 millió éves, hatalmas mészkőhegyek ('karst') lábánál épült Ipoh mellett.",
+        "Természetes, geotermikus hőforrásokkal (Hot Springs) rendelkezik, amelyek este is nyitva tartanak.",
+        "A 'Tin Valley' részleg bemutatja az ónbányászat ('dulang washing') történelmi módszereit.",
+        "A park részét képezi egy kiterjedt petting zoo (állatsimogató) és tigrisfenntartó rezervátum is.",
+        "A mészkőbarlangokat is integrálták a park látványosságai és kávézói közé."
+      ]
+    },
+    {
+      "id": "pulau-payar-marine-park-life-v2",
+      "descriptionAdvanced": "A Pulau Payar Tengeri Nemzeti Park a Malakka-szoros északi részén található, Langkawi és Penang szigetei között. Ez Malajzia nyugati partvidékének legfontosabb és legrégebbi (1985-ben alapított) tengeri rezervátuma. A park valójában négy kisebb, lakatlan szigetből áll, melyek közül Pulau Payar a legnagyobb. Mivel a nyugati parton a víz gyakran zavaros az iszapos torkolatok miatt, ez a mészkősziget-csoport az egyetlen hely a környéken, ahol a korallzátonyok épek és a víz kristálytiszta. A park egyik legkülönlegesebb attrakciója, hogy a látogatók a partközeli sekély vizekben etethetik a szelíd, vadon élő feketeúszójú szirticápákat (blacktip reef sharks). Szigorú védelmi előírások vannak érvényben, az éjszakai tartózkodás és a halászat szigorúan tilos. Biológia és ökológia tantárgyak keretében a tengeri biodiverzitás szigetszerű megőrzésének (marine sanctuaries) vizsgálatára alkalmas terület.",
+      "factsAdvanced": [
+        "1985-ben alapították Malajzia nyugati partjának első tengeri rezervátumaként.",
+        "A park négy lakatlan szigetből áll (Payar, Kaca, Lembu, Segantang).",
+        "A Malakka-szorosban ez az egyetlen kiterjedt, jó állapotú sekélyvízi korallzátony.",
+        "Népszerű a látogatók körében a feketeúszójú szirticápák (blacktip reef shark) közelsége miatt.",
+        "Kizárólag nappali látogatás (day-trip) engedélyezett, szálláshelyek nincsenek a szigeten.",
+        "A part menti ökoszisztémát megfigyelő vízalatti kamra és ponton is működik itt."
+      ]
+    },
+    {
+      "id": "matang-wildlife-centre-life-v2",
+      "descriptionAdvanced": "A Matang Vadvédelmi Központ Sarawak államban, a Kubah Nemzeti Park szélén, Kuchingtól mintegy 35 kilométerre fekszik. A központ eltér a közeli Semenggoh-tól, mert a fókusz nemcsak a félig vadon élő állatok kiegészítő etetésén van, hanem egy intenzív rehabilitációs és oktatási létesítmény az illegális fogságból kimentett, súlyosan traumatizált vagy emberhez szokott vadállatok számára. Fő profiljuk a borneói orángutánok újraerdősítési tréningje (a 'dzsungel-iskola'), ahol a fiatal majmokat fára mászni és táplálékot keresni tanítják. Ezen kívül a központ a ritka maláj medvék (Sun Bear), a binturongok (nyestmedve), szarvascsőrű madarak és krokodilok menedéke is, amelyek sérülésük miatt már nem engedhetők vissza a vadonba. A biológia és környezeti etika oktatásában az illegális kisállat-kereskedelem hatásainak és az ex-situ vadvédelem nehézségeinek komor, de fontos bemutatóhelye.",
+      "factsAdvanced": [
+        "A Kubah Nemzeti Park részét képezi, egy trópusi őserdő mélyén helyezkedik el.",
+        "Kifejezetten az illegális kisállat-kereskedelemből kimentett állatok rehabilitációjára fókuszál.",
+        "Intenzív 'dzsungel-iskola' programot tart fenn az árva orángutánok számára.",
+        "A maláj medvék (Sun Bear), krokodilok és binturongok (nyestmedve) fontos menedéke.",
+        "Azokat az állatokat is gondozzák, amik a sérüléseik miatt sosem térhetnek vissza a vadonba.",
+        "A park önkéntes programokat (volunteer program) kínál nemzetközi diákok számára."
+      ]
+    },
+    {
+      "id": "rainforest-discovery-centre-sepilok-life-v2",
+      "descriptionAdvanced": "A Rainforest Discovery Centre (RDC) a kabili-sepiloki erdőrezervátum szélén található Sabah államban, alig néhány kilométerre a híres orángután menedékhelytől. Az 1996-ban alapított központot a Sabah-i Erdészeti Minisztérium hozta létre azzal a céllal, hogy növelje a nyilvánosság (különösen az iskolások) környezettudatosságát a trópusi esőerdők védelmével kapcsolatban. A létesítmény leglátványosabb eleme egy 347 méter hosszú, tömör acélból épült Canopy Walkway (lombkorona-sétány), amely 25 méter magasan vezet a dipterokarp fák koronái között, egyedülálló lehetőséget biztosítva a madárfigyelőknek – többek között a ritka borneói sörtésfejű madár (Bornean Bristlehead) megfigyelésére. A komplexumban kiterjedt botanikus kert és éjszakai dzsungeltúrák is várják a látogatókat. A biológia és környezetismeret oktatásában az erdei ökoszisztémák rétegződésének (stratifikáció) és a botanikai környezeti nevelésnek az elsőrangú helyszíne.",
+      "factsAdvanced": [
+        "1996-ban alapította a Sabah Erdészeti Minisztérium környezeti nevelési céllal.",
+        "A Kabili-Sepilok erdőrezervátum szélén, Borneó északi részén található.",
+        "A 347 méter hosszú, 25 méter magas Canopy Walkway az egyik legmasszívabb acél lombkorona-sétány.",
+        "Nemzetközileg elismert madármegfigyelő (birdwatching) helyszín (pl. a borneói sörtésfejű otthona).",
+        "Rendszeres éjszakai túrákat (Night Walks) szerveznek az éjszakai vadvilág (tarsier, repülő mókus) bemutatására.",
+        "Több mint 250 különböző helyi orchideafajt bemutató botanikus kertje van."
+      ]
+    },
+    {
+      "id": "tunku-abdul-rahman-national-park-life-v2",
+      "descriptionAdvanced": "A Tunku Abdul Rahman Nemzeti Park (TARP) egy öt apró, lakatlan trópusi szigetből (Gaya, Manukan, Sapi, Sulug és Mamutik) álló tengeri rezervátum a Dél-kínai-tengerben, alig 3-8 kilométerre Kota Kinabalu (Sabah) partjaitól. Az 1974-ben alapított, 50 négyzetkilométeres tengeri park megközelíthetősége miatt Borneó egyik legkedveltebb merülő- és sznorkelező helye. Nevét Malajzia első miniszterelnökéről kapta. A sekély vizek lenyűgöző korallzátonyoknak adnak otthont, míg a legnagyobb sziget (Gaya) sűrű, érintetlen dipterokarp erdővel rendelkezik, ahonnan több kilométer hosszú túraútvonalak indulnak. A területen található a híres Coral Flyer, a világ egyik leghosszabb szigetek közötti drótkötélpályája (zipline). A biológia és gazdaságföldrajz tantárgyak keretében a tengeri rezervátumok, a tömegturizmus és a korallvédelem egyensúlyozásának modern ázsiai példája.",
+      "factsAdvanced": [
+        "1974-ben alapították, és öt szigetből (Gaya, Sapi, Manukan, Sulug, Mamutik) áll.",
+        "Nevét Malajzia legelső miniszterelnökéről, Tunku Abdul Rahmanról kapta.",
+        "Alig 15-20 perces motorcsónakútra fekszik Kota Kinabalu belvárosától.",
+        "Gaya szigetén mintegy 20 kilométernyi kiépített dzsungel-túraútvonal található.",
+        "Itt található a 'Coral Flyer', a világ egyik leghosszabb szigetek közötti drótkötélpályája (zipline).",
+        "A sekély, meleg vízi korallzátonyok a tömeges sznorkelezés (snorkeling) központjai."
+      ]
+    },
+    {
+      "id": "uk-agro-farm-johor-life-v2",
+      "descriptionAdvanced": "A UK Agro Farm Johor államban (Kluang körzet) található, és mintegy 40 hektáros kiterjedésével Malajzia legnagyobb szabad tartású (free-roaming) juh- és kecskefarmja. A 2003-ban alapított agrárturisztikai komplexum célja, hogy a modern, fenntartható gazdálkodást ötvözze a turizmussal. A farmon több mint 4000 birka és kecske él, melyek tartása során a modern technológiákat alkalmazzák az állatjólét és a magas minőségű tej- és hústermelés érdekében. A látogatók részt vehetnek az állatok etetésében, megtekinthetik a tejelőüzemet, és bejárhatják az organikus gyümölcs- és gombatermesztő területeket is. A komplexum a halal (iszlám előírásoknak megfelelő) élelmiszer-feldolgozás egyik regionális központja is. Földrajz és mezőgazdaság oktatásban a fenntartható agrárturizmus és a maláj állattenyésztési szektor modernizációjának kiváló bemutatóhelye.",
+      "factsAdvanced": [
+        "A mintegy 40 hektáros komplexum Malajzia legnagyobb szabad tartású juh- és kecskefarmja.",
+        "2003-ban alapították a fenntartható mezőgazdaság és az agrárturizmus fellendítésére.",
+        "Több mint 4000 birkát és kecskét tartanak modern, állatjóléti szabályok szerint.",
+        "A farm rendelkezik saját, modern tejfeldolgozó és palackozó üzemmel.",
+        "A komplexum teljes egészében a 'Halal' élelmiszer-feldolgozási sztenderdeket követi.",
+        "Organikus passiógyümölcs-ültetvénnyel és zöldségfarmmal (hydroponic) is kiegészült."
+      ]
+    },
+    {
+      "id": "borneo-sun-bear-conservation-centre-life-v2",
+      "descriptionAdvanced": "A Borneói Malájmedve Védelmi Központ (BSBCC) Sabah államban, közvetlenül a sepiloki orángután-központ mellett található, és a világ egyetlen olyan intézménye, amely kizárólag a maláj medvék (Sun Bears) megmentésével foglalkozik. Az 1990-es évek végén Dr. Wong Siew Te biológus által megálmodott, majd 2008-ban alapított központ célja, hogy a világ legkisebb, ám egyben egyik leginkább veszélyeztetett medvefaját megvédje az orvvadászoktól és az illegális kisállat-kereskedelemtől. A kimentett medvéket természetes erdei karámokban rehabilitálják, ahol megtanulnak újra fára mászni és táplálékot keresni (főleg termeszeket és mézet). A látogatók a fák közé épített magasított hidakról figyelhetik meg az állatokat. Biológia és etika tantárgyak keretében az illegális vadvilág-kereskedelem pusztításainak, a kevéssé ismert endémikus fajok megőrzésének (conservation) egyik legfontosabb oktatási helyszíne.",
+      "factsAdvanced": [
+        "2008-ban alapította Dr. Wong Siew Te, a borneói vadvédelem elismert biológusa.",
+        "A világ egyetlen, kifejezetten a maláj medvék (Sun Bears) megmentésére létrehozott központja.",
+        "A maláj medve a világ legkisebb, és az egyik leginkább veszélyeztetett (orvvadászat) medvefaja.",
+        "Közvetlenül a Sepilok Orángután Központ mellett, az esőerdőben található.",
+        "Több mint 40 kimentett medvét gondoznak természetes erdei kifutókban.",
+        "A látogatók magasított fa- és acélhidakról (boardwalks) figyelhetik az állatok rehabilitációját."
+      ]
+    },
+    {
+      "id": "labuk-bay-proboscis-monkey-sanctuary-life-v2",
+      "descriptionAdvanced": "A Labuk Bay Nagyorrúmajom-Menedékhely Sabah államban, Sandakantól nem messze, egy hatalmas, sűrű mangroveerdő közepén található. A rezervátum története a 90-es évekre nyúlik vissza, amikor egy helyi pálmaolaj-ültetvény tulajdonosa felfedezte, hogy birtokának mangrove sávjában egy ritka, nagyorrú majmokból (Proboscis monkeys) álló populáció él, amelyet az erdőirtás fenyeget. Ahelyett, hogy kivágta volna a fákat, egy magánrezervátumot hozott létre a megmentésükre. A borneói endémikus, hatalmas, húsos orral rendelkező majmok szabadon élnek az erdőben, de a kiépített platformokon napi kiegészítő etetéseket kapnak, ahová félelem nélkül merészkednek közel a látogatókhoz. Biológia és gazdaságföldrajz oktatásában a privát szektor által támogatott természetvédelem, valamint a monokultúrás mezőgazdaság és az ökoszisztémák konfliktusainak és kompromisszumainak bemutatóhelye.",
+      "factsAdvanced": [
+        "A 90-es évek közepén hozta létre egy helyi pálmaolaj-ültetvény (Lee-család) tulajdonosa.",
+        "Egy mangrove erdősávban található, amely elválasztja az ültetvényeket a tengertől.",
+        "Kizárólag Borneó szigetén őshonos nagyorrú majmok (Proboscis) menedéke.",
+        "A majmok szabadon élnek, de naponta kapnak kiegészítő táplálékot (víz és palacsinta).",
+        "A hím nagyorrú majmok jellegzetes, lecsüngő, húsos orral és domináns testalkattal rendelkeznek.",
+        "A területen ritka ezüstös langurok (Silvered Leaf Monkeys) és szarvascsőrű madarak is élnek."
+      ]
+    },
+    {
+      "id": "kidzania-kuala-lumpur-life-v2",
+      "descriptionAdvanced": "A KidZania Kuala Lumpur egy díjnyertes, interaktív 'edutainment' (oktatva szórakoztató) központ Selangor államban (Mutiara Damansara), amely egy gyermekekre méretezett, teljesen működőképes beltéri minivárost modellez. A mintegy 7500 négyzetméteres létesítményben a 4 és 14 év közötti gyermekek valós szakmákat (több mint 90 különböző hivatást) próbálhatnak ki a kórháztól a repülőgép-pilótafülkén át a tűzoltóállomásig. A városnak saját gazdasága és fizetőeszköze ('kidZos') van; a gyerekek munkájukért fizetést kapnak, amit a helyi bankban elhelyezhetnek, vagy elkölthetnek a város boltjaiban. A környezet hiperrealisztikus: valódi globális és maláj márkák szponzorálják a boltokat és a kórházakat. A társadalomismeret és a közgazdaságtan alapjainak, a pénzügyi tudatosságnak és a munkaerőpiac működésének modellezésére a leginnovatívabb gyermekpedagógiai eszköz Délkelet-Ázsiában.",
+      "factsAdvanced": [
+        "A létesítmény 2012-ben nyílt meg egy hatalmas bevásárlóközpont (Curve NX) belsejében.",
+        "A gyerekek több mint 90 különböző valós szakmát próbálhatnak ki (orvos, pilóta, újságíró).",
+        "A park saját belső valutával ('kidZos') és működő bankrendszerrel rendelkezik.",
+        "A helyszínek kialakítását valódi, létező világmárkák és maláj cégek szponzorálják.",
+        "A 'város' méretarányát a 4-14 éves gyerekek fizikai adottságaihoz igazították.",
+        "A mexikói székhelyű KidZania franchise globális hálózatának része."
+      ]
+    },
+    {
+      "id": "skytrex-adventure-life-v2",
+      "descriptionAdvanced": "A Skytrex Adventure Malajzia első és legnépszerűbb szabadtéri dzsungel-kalandparkja, amely az esőerdők lombkoronájába ('canopy') épített drótkötélpályákból és akadálypályákból áll. Eredetileg a Shah Alam-i botanikus kertben nyílt meg, ma pedig már több helyszínen, többek között Langkawi szigetén (Gunung Machinchang erdejében) és Melakában is üzemel. Az akadálypályák (lengőhidak, Tarzan-hinták, drótkötélcsúszdák) három nehézségi szintre vannak osztva, lehetővé téve, hogy a látogatók a fák tetején, 15-20 méter magasban navigáljanak anélkül, hogy a talajt érintenék. A parkok szigorúan a fákat nem károsító, fúrásmentes kötözési technikákat ('tree-hugging') alkalmaznak a szerkezetek rögzítésénél. A biológia és a testnevelés tantárgyak metszéspontjában az ökoturizmus, az állóképesség és a lombkorona-ökoszisztémák (canopy ecology) fenntartható kihasználását demonstrálja.",
+      "factsAdvanced": [
+        "Malajzia első fák koronájába épített, drótkötelekre alapozott erdei kalandparkja.",
+        "A hálózatnak jelenleg három fő parkja van (Langkawi, Melaka, Sungai Congkak).",
+        "A pályák (pl. Flying Fox) magassága a dzsungelben eléri a 15-20 métert.",
+        "Az akadályok fákhoz rögzítésénél szigorúan fúrásmentes, környezetbarát technológiát használnak.",
+        "Három különböző nehézségi szintű pályarendszert kínál a kezdőtől az extrémig.",
+        "A park az ökoturizmus és a szabadtéri testnevelés (outdoor education) úttörője az országban."
+      ]
+    },
+    {
+      "id": "penang-tropical-spice-garden-life-v2",
+      "descriptionAdvanced": "A Penang Tropical Spice Garden (Trópusi Fűszerkert) egy több mint 3 hektáros buja völgyben terül el George Town partvidékénél, Teluk Bahang közelében. Az egykori elhagyatott gumiültetvényen 2003-ban létesített bio-rezervátum Ázsia egyetlen kifejezetten fűszerekre és gyógynövényekre specializálódott ökológiai kertje. Több mint 500 ritka és egzotikus növény-, fűszer- és gyógynövényfaj él itt, amelyek egykor beindították a globális fűszerkereskedelmet (mint a szerecsendió, a szegfűszeg, a fahéj és a bors). A kertben kanyargó dzsungelösvények ('Spice Trails') mellett főzőiskola is működik, ahol a látogatók a frissen szedett fűszerekből tanulhatják meg a hagyományos maláj és peranakan ételek elkészítését. A történelem, biológia és földrajz oktatásában a gyarmati kor fűszerkereskedelmének (Spice Route) biológiai és kulturális gyökereit mutatja be élő környezetben.",
+      "factsAdvanced": [
+        "2003-ban nyitották meg egy elhagyatott, hegyvidéki gumiültetvény helyén.",
+        "Délkelet-Ázsia legnagyobb kifejezetten fűszerekre fókuszáló botanikus kertje.",
+        "A háromhektáros területen több mint 500 trópusi gyógy- és fűszernövény él.",
+        "A parkban egy elismert szabadtéri ázsiai főzőiskola (Cooking School) is működik.",
+        "A területen található több száz éves dzsungelfákat (dipterokarp) érintetlenül hagyták.",
+        "A kert felidézi Penang 18. századi szerepét a globális fűszerkereskedelemben."
+      ]
+    },
+    {
+      "id": "frim-forest-research-institute-malaysia-life-v2",
+      "descriptionAdvanced": "A FRIM (Forest Research Institute Malaysia) egy 600 hektáros, hatalmas trópusi erdei kutatóbázis és rekreációs terület Selangor államban, közvetlenül Kuala Lumpur határában. A világ egyik legrégebbi (1929-ben alapított) és legelismertebb trópusi erdészetkutató intézete, amely egyedülálló módon egy korábbi, lecsupaszított ónbánya területének teljes és mesterséges újraerdősítésével (reforestation) jött létre. A park hatalmas fagyűjteményekkel (arboretum) büszkélkedhet, és itt látható a 'koronafélénység' (crown shyness) ritka biológiai jelensége, amikor a hatalmas kámforfák lombkoronái nem érnek egymáshoz, repedésszerű mintázatot hagyva az égen. A park az erdészeti kutatások mellett túraútvonalakat és egy híres lombkorona-sétányt is kínál. Biológia és környezetismeret tanulmányozásában a tönkretett ipari tájak biológiai helyreállításának globális sikertörténete.",
+      "factsAdvanced": [
+        "A világ egyik legrégebbi (1929) és legnagyobb trópusi erdészetkutató intézete.",
+        "A 600 hektáros dzsungel teljes egészében egy tönkretett ónbánya mesterséges újraerdősítése.",
+        "A parkban figyelhető meg a 'koronafélénység' (crown shyness) különleges természeti jelensége.",
+        "1931 óta működik a területén egy speciális famag- és herbárium-kutatóközpont.",
+        "2012-ben Malajzia hivatalos Nemzeti Örökségévé (National Heritage) nyilvánították.",
+        "Több mint 15 millió egyedet ültettek el a rehabilitáció csaknem egy évszázada alatt."
+      ]
+    },
+    {
+      "id": "kl-forest-eco-park-life-v2",
+      "descriptionAdvanced": "A KL Forest Eco Park (korábbi nevén Bukit Nanas Forest Reserve) egy igazi ökológiai csoda: egy 9 hektáros, eredeti, érintetlen trópusi esőerdő, amely Kuala Lumpur sűrűn beépített betondzsungelének legközepén, a Menara KL (KL Torony) lábánál fekszik. Ez Malajzia egyik legrégebbi védett erdeje, melyet 1906-ban nyilvánítottak rezervátummá. A park egyedülálló lehetőséget nyújt a látogatóknak, hogy a 200 méter hosszú lombkorona-sétányon (Canopy Walk) lépdelve egyszerre csodálják meg a fák között ugráló ezüstös langurokat és a háttérben magasodó modern felhőkarcolókat. Ez a parányi ökoszisztéma létfontosságú szerepet játszik a metropolisz levegőjének tisztításában. A városföldrajz és környezetismeret oktatásában az urbanizáció és az ősi természeti környezet megőrzésének drámai, egymás mellett élését mutatja be.",
+      "factsAdvanced": [
+        "1906-ban nyilvánították védetté, ezzel az egyik legrégebbi erdőrezervátum az országban.",
+        "Az egyetlen megmaradt, természetes egyenlítői esőerdő Kuala Lumpur belvárosában.",
+        "A park fókuszpontja a 200 méter hosszú, fák közé épített Canopy Walk (lombkorona-híd).",
+        "Gyakori lakói az ezüstös langur majmok és a különféle trópusi madárfajok.",
+        "A területből egykor fákat vágtak ki a közeli Menara KL (KL Torony) építéséhez.",
+        "A 9 hektáros erdő fontos zöld tüdőként működik a környező felhőkarcolók szmogjában."
+      ]
+    },
+    {
+      "id": "johor-zoo-life-v2",
+      "descriptionAdvanced": "A Johor Zoo, amely Johor Bahru szívében található, Malajzia, sőt az egész délkelet-ázsiai régió egyik legrégebbi állatkertje. 1928-ban alapította Ibrahim maláj szultán (Abu Bakar fia), eredetileg a királyi család magánállatkertjeként ('Kebun Binatang'), majd 1962-ben megnyitották a nagyközönség előtt is. Bár területe a modern szafariparkokhoz képest viszonylag kicsi, mintegy 12,5 hektár, több mint 100 állatfajnak (oroszlánok, tevék, krokodilok, vízilovak és gorillák) ad otthont. Történelmi bája, árnyékos sétányai és a közeli szultáni palotához (Istana Besar) fűződő viszonya teszi egyedivé az intézményt. Jelenleg komoly modernizációs törekvések zajlanak a ketreces tartás fejlesztésére. A történelem és biológia oktatásában az ázsiai uralkodói menazsériák fejlődésének és a modern állatkertekké válás folyamatának korai példája.",
+      "factsAdvanced": [
+        "1928-ban alapították, ezzel Malajzia és Ázsia egyik legrégebbi állatkertje.",
+        "Eredetileg a néhai Ibrahim johori szultán privát királyi menazsériája volt.",
+        "A 12,5 hektáros parkot 1962-ben adta át a királyi család az állami kormánynak.",
+        "Körülbelül 100 különböző állatfaj (köztük csimpánzok és indokínai tigrisek) él itt.",
+        "Az állatkert közvetlenül a szultáni palota (Istana Besar) szomszédságában található.",
+        "A régi, gyarmati időkből származó elrendezése miatt folyamatos modernizáció alatt áll."
+      ]
+    }
+  ]
+}

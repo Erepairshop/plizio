@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gabu-baumwolle-life-v2",
+      "descriptionAdvanced": "A Gabú régió száraz, szavannás éghajlata ideális a pamuttermesztés számára. Bár a kesudió dominálja az országos exportot, Gabú és Bafatá környékén a pamut továbbra is fontos készpénztermő növény maradt a helyi gazdák, különösen a fula etnikum számára. A pamutot részben exportra szánják, részben pedig a helyi kézműves takácsok használják fel a híres 'pano de pinti' (hagyományos guineai szőttes) és más ruházati cikkek elkészítéséhez. A betakarítás kézzel történik a száraz évszakban, ami rendkívül munkaigényes folyamat. Az elmúlt években nemzetközi agrárszervezetek próbálják fenntarthatóbb, kevesebb rovarirtót igénylő fajtákkal segíteni a helyi termelőket. Mezőgazdaság K7 — textilipari nyersanyagok.",
+      "factsAdvanced": [
+        "A Gabú régió szárazabb klímája kiváló a pamuttermesztéshez.",
+        "Fontos készpénztermő növény, amely kiegészíti a kesudió-bevételeket.",
+        "A helyi kézműves takácsok a pamutot hagyományos szőttesekhez (pano de pinti) használják.",
+        "A pamut betakarítása szinte kizárólag kézi erővel történik.",
+        "Az extenzív rovarirtó-használat komoly környezeti kihívást jelent a régióban.",
+        "A pamutot feldolgozatlanul gyakran a szomszédos Szenegálba is exportálják."
+      ]
+    },
+    {
+      "id": "bambadinca-bewaesserung-life-v2",
+      "descriptionAdvanced": "Bambadinca környékén, a Geba-folyó völgyében található az ország egyik legfejlettebb öntözéses mezőgazdasági rendszere. Az aszályos időszakok áthidalására és a rizshozamok növelésére a helyi gazdák, részben nemzetközi (kínai és brazil) fejlesztési segélyekből, kiterjedt csatornahálózatot és szivattyúállomásokat építettek ki. Ez a rendszer lehetővé teszi, hogy az ártéri területeken (bolanha) évente kétszer is betakarítsanak, szemben a hagyományos esővízre hagyatkozó egyszeri aratással. Az öntözéses gazdálkodás nemcsak rizst, hanem jelentős mennyiségű zöldséget és gyümölcsöt is biztosít a bafatai és bissaui piacok számára. Fizika K8 — vízügyi mérnöki megoldások a mezőgazdaságban.",
+      "factsAdvanced": [
+        "A Geba-folyó vizét használják kiterjedt öntözőcsatorna-rendszereken keresztül.",
+        "Lehetővé teszi az évi kétszeri rizstermelést az ártéri (bolanha) területeken.",
+        "Nemzetközi agrárfejlesztési programok támogatásával épült ki.",
+        "A rizs mellett zöldségek (paradicsom, hagyma) termesztését is biztosítja a száraz évszakban.",
+        "Jelentősen növeli a régió élelmezésbiztonságát és a gazdák bevételeit.",
+        "A szivattyúk működtetését gyakran nehezíti az üzemanyaghiány."
+      ]
+    },
+    {
+      "id": "bissau-zoo-life-v2",
+      "descriptionAdvanced": "A bissaui Állatkert és Botanikus Kert egykor a főváros egyik legnépszerűbb családi látványossága volt, ám a polgárháború és az azt követő gazdasági nehézségek miatt ma már csak árnyéka régi önmagának. A zöld terület eredetileg az ország gazdag biodiverzitásának (majmok, hüllők, trópusi madarak) bemutatására szolgált, de az állatok ellátása és a ketrecek karbantartása súlyos hiányosságokkal küzd. Ennek ellenére a park megmaradt hatalmas fáival és árnyékos ösvényeivel az egyik utolsó nyugodt, zöld menedék a poros és zajos városban. Civil szervezetek és ifjúsági csoportok folyamatosan küzdenek a park revitalizációjáért és oktatási központtá alakításáért. Biológia K6 — állatkertek és természetvédelem.",
+      "factsAdvanced": [
+        "Bissau egyik ritka, nagy kiterjedésű zöld, parkosított területe.",
+        "Eredetileg a guineai fauna bemutatására hozták létre.",
+        "A karbantartás és az állatok ellátása komoly pénzügyi akadályokba ütközik.",
+        "Hatalmas, öreg fái miatt népszerű pihenőhely a helyiek számára.",
+        "A helyi iskolák gyakran szerveznek ide botanikai sétákat.",
+        "Civil kezdeményezések zajlanak a park teljes rehabilitációjára."
+      ]
+    },
+    {
+      "id": "praca-herois-spielplatz-life-v2",
+      "descriptionAdvanced": "A Praça dos Heróis Nacionais (Nemzeti Hősök Tere) környéki parkok Bissau szívében a városi gyerekek és családok kedvelt gyülekezőhelyei. Bár az országban kevés a modern, jól felszerelt játszótér, ezen a hatalmas, nyitott téren a délutáni órákban rengeteg gyerek focizik, fogócskázik, a szülők pedig az árnyékos padokon pihennek. A tér közelsége az Elnöki Palotához és a fontosabb minisztériumokhoz különleges atmoszférát teremt, ahol a politikai élet és a civil mindennapok találkoznak. Ünnepek idején a tér vásári forgataggá alakul, ahol vattacukrot, sült földimogyorót és jéghideg hibiszkuszitalt (bissap) árulnak a gyerekeknek. Társadalomismeret K6 — városi közösségi terek.",
+      "factsAdvanced": [
+        "A főváros legfontosabb és legbiztonságosabb központi közösségi tere.",
+        "A gyerekek körében a legnépszerűbb szabadidős tevékenység a rögtönzött futball.",
+        "Körbeveszik Bissau legfontosabb állami és történelmi épületei.",
+        "Késő délutánonként és hétvégente telik meg családokkal.",
+        "Kevés az épített játék, a hatalmas nyílt tér biztosítja a mozgásteret.",
+        "Helyi utcai árusok hagyományos édességeket és italokat kínálnak itt."
+      ]
+    },
+    {
+      "id": "franco-guineen-kinder-life-v2",
+      "descriptionAdvanced": "A Francia-Guineai Kulturális Központ (Centro Cultural Franco-Bissau-Guineense) kiemelt figyelmet fordít a gyermekek és fiatalok oktatására és szórakoztatására. A központ lenyűgöző gyerekkönyvtárral rendelkezik, amely az egyik legjobban felszerelt az egész országban, rengeteg színes francia és portugál nyelvű mesekönyvvel és ismeretterjesztő irodalommal. A hétvégéken a központ udvara bábszínházi előadásoknak, kézműves foglalkozásoknak és interaktív afrikai mesemondó délutánoknak ad otthont. Ez a biztonságos és intellektuálisan stimuláló környezet felbecsülhetetlen értékű a bissaui családok számára a hiányos állami oktatási rendszer mellett. Kulturális antropológia K6 — gyermekirodalom és kulturális nevelés.",
+      "factsAdvanced": [
+        "A kulturális központ rendelkezik az ország egyik legjobb gyerekkönyvtárával.",
+        "Rendszeres hétvégi programokat: bábszínházat, mesemondást szerveznek.",
+        "Francia és portugál nyelvű gyermekirodalmat egyaránt kínálnak.",
+        "Kreatív kézműves és rajzműhelyeket biztosítanak a fiataloknak.",
+        "Biztonságos, kulturálisan gazdag környezet Bissau szívében.",
+        "Pótolja a hiányos állami művészeti és olvasásösztönző programokat."
+      ]
+    },
+    {
+      "id": "bubaque-strand-spiel-life-v2",
+      "descriptionAdvanced": "Bubaque szigetének strandjai, különösen a híres Praia de Bruce, a helyi és a Bissauból érkező gyerekek paradicsoma. Amikor beköszönt a száraz évszak és az óceán lecsillapodik, a széles, fehér homokos partok hatalmas, természetes játszótérré változnak. A gyerekek rákásznak a sekély vizű pocsolyákban, homokvárakat építenek, és a vízparton rögtönzött futballbajnokságokat rendeznek, ahol a kapufákat uszadékfákból alakítják ki. A strandok biztonságosak, mentesek a nagyvárosi szennyezéstől, és a sziget ritmusához igazodva a természetközeli gyermekkor tökéletes színterei. Az árapály miatt a partvonal naponta kétszer drasztikusan megváltozik, új felfedeznivalókat hagyva hátra. Földrajz K6 — tengerparti rekreáció.",
+      "factsAdvanced": [
+        "A Praia de Bruce Bubaque szigetének leghíresebb és legtisztább strandja.",
+        "A széles, finom homokos part ideális a biztonságos gyerekjátékokhoz.",
+        "A tengerparti futball (beach soccer) a legnépszerűbb sport a helyiek körében.",
+        "Az árapály visszahúzódásakor a gyerekek rákokat és kagylókat gyűjtenek.",
+        "Mentes a fővárosi zajtól és környezetszennyezéstől.",
+        "A sziget természettel harmonikus életmódjának központi helyszíne."
+      ]
+    },
+    {
+      "id": "biblioteca-infantil-life-v2",
+      "descriptionAdvanced": "A Bissau-i Gyermekkönyvtár (Biblioteca Infantil de Bissau) egy civil szervezetek és nemzetközi adományozók által fenntartott apró, de annál fontosabb kulturális oázis a fővárosban. Mivel az országban a könyvek luxuscikknek számítanak, és sok iskola még tankönyvekkel sem rendelkezik, ez az intézmény a tudás egyetlen forrása sok hátrányos helyzetű gyermek számára. A könyvtár nemcsak olvasótermet biztosít, hanem írás-olvasás fejlesztő foglalkozásokat, korrepetálást és higiéniai oktatást is tart. A színesre festett falak között a gyerekek biztonságban tanulhatnak, és a könyveken keresztül megismerhetik a Guineán túli világot. Társadalomismeret K7 — írástudatlanság elleni küzdelem.",
+      "factsAdvanced": [
+        "Kritikus szerepet tölt be az írástudatlanság elleni küzdelemben Bissauban.",
+        "A könyvek (különösen a mesekönyvek) ritka kincsnek számítanak az országban.",
+        "Civil kezdeményezésből és nemzetközi adományokból tartják fenn.",
+        "Olvasásösztönző és iskola-előkészítő foglalkozásokat is tartanak.",
+        "Nyugodt és biztonságos tanulási környezetet nyújt a zsúfolt városban.",
+        "A tudáshoz való egyenlő hozzáférés szimbolikus helyszíne."
+      ]
+    },
+    {
+      "id": "rio-cacheu-nature-v2",
+      "descriptionAdvanced": "A Cacheu-folyó (Rio Cacheu) Bissau-Guinea egyik legfontosabb és leghosszabb vízfolyása, amely az ország északi részén kanyarog az Atlanti-óceán felé. A folyó alsó szakasza hatalmas, sós tölcsértorkolattá szélesedik, amelyet Nyugat-Afrika legnagyobb egybefüggő mangrove-erdeje kísér (Tarrafes do Rio Cacheu Nemzeti Park). Ez a sűrű, mocsaras vidék felbecsülhetetlen ökológiai értékkel bír: a mangrovegyökerek bölcsődeként szolgálnak a tengeri halak és rákok számára, a nyugodt vizek pedig a ritka nyugat-afrikai manátuszok (tengeri tehenek) menedékei. A folyó története is sötét: a 16-18. században ez volt a rabszolga-kereskedelem egyik legforgalmasabb vízi útvonala. Biológia K8 — torkolati ökoszisztémák.",
+      "factsAdvanced": [
+        "Bissau-Guinea északi részének legjelentősebb folyója és vízgyűjtője.",
+        "Alsó folyását Nyugat-Afrika legnagyobb mangrove-erdeje kíséri.",
+        "A torkolatvidék a veszélyeztetett manátuszok (tengeri tehenek) fontos élőhelye.",
+        "A mangrove-gyökérzet a tengeri halfajok kulcsfontosságú ívóhelye.",
+        "Történelmileg a rabszolga-kereskedelem egyik legfőbb tranzitútvonala volt.",
+        "Az erős árapály a torkolattól több tíz kilométerre is érezteti hatását a folyón."
+      ]
+    },
+    {
+      "id": "rio-corubal-nature-v2",
+      "descriptionAdvanced": "A Corubal-folyó (Rio Corubal) Bissau-Guinea legjelentősebb édesvizű folyója, amely a guineai Fouta Djallon hegyvidéken ered, és keletről nyugatra szeli át az országot, mielőtt a Rio Geba torkolatába ömlik. A folyó vízhozama drasztikusan ingadozik: a száraz évszakban sekély és békés, míg a monszun idején hatalmas, pusztító víztömeggé duzzad, lenyűgöző zuhatagokat (például a Saltinho vízesést) hozva létre. A Corubal menti erdők és szavannák gazdag állatvilágnak, köztük vízilovaknak, krokodiloknak és ritka madárfajoknak adnak otthont. A folyó vizét nagymértékben használják öntözéses mezőgazdaságra, és hatalmas hidroelektromos potenciállal is rendelkezik. Földrajz K7 — trópusi vízgyűjtő rendszerek.",
+      "factsAdvanced": [
+        "A guineai Fouta Djallon fennsíkon ered, és átszeli Bissau-Guineát.",
+        "A legismertebb természeti látványossága a Saltinho vízesés (Cusselinta).",
+        "Jelentős krokodil- és vízilópopuláció él a folyó csendesebb szakaszaiban.",
+        "A monszun idején (június-október) vízhozama a sokszorosára duzzad.",
+        "Vize létfontosságú az ország belső területeinek öntözéses mezőgazdaságában.",
+        "Nagy kiaknázatlan vízenergia-potenciállal rendelkezik."
+      ]
+    },
+    {
+      "id": "bijagos-archipelago-nature-v2",
+      "descriptionAdvanced": "A Bijagós-szigetcsoport (Arquipélago dos Bijagós) Nyugat-Afrika partjainál fekvő 88 szigetből álló labirintus, amelyből mindössze 23 lakott. A terület 1996 óta az UNESCO Bioszféra Rezervátumok Hálózatának része, köszönhetően kivételes ökológiai gazdagságának. A szigetvilágot hatalmas árapály-ingadozás jellemzi, amely kiterjedt iszapmezőket és sűrű mangrove-erdőket hoz létre, ideális feltételeket biztosítva a fészkelő tengeri teknősöknek, vándormadarak millióinak és a ritka sós vízi vízilovaknak. A természeti szépség szorosan összefonódik a bijagó nép ősi, matriarchális és animista kultúrájával, akiknek szigorú rituális törvényei évezredek óta védik ezt a törékeny ökoszisztémát a pusztulástól. Biológia K8 — bioszféra-rezervátumok.",
+      "factsAdvanced": [
+        "88 szigetből és apró sziklából áll, amelyek közül csak 23 lakott.",
+        "1996 óta az UNESCO globális Bioszféra Rezervátumának része.",
+        "Nyugat-Afrika egyik legfontosabb tengeri és partmenti ökoszisztémája.",
+        "Az árapály-ingadozás akár a 6-7 métert is elérheti a csatornákban.",
+        "Otthont ad a világ egyik legritkább állatának, a sós vízi vízilónak.",
+        "A bijagó nép animista hitvilága biztosítja a természet szigorú védelmét."
+      ]
+    },
+    {
+      "id": "bolama-island-nature-v2",
+      "descriptionAdvanced": "Bolama szigete a Bijagós-szigetcsoport legkeletibb és a szárazföldhöz legközelebb eső tagja. A sziget egyedülálló, trópusi mikroklímával rendelkezik, ami a portugál gyarmatosítókat is vonzotta; egykor itt terültek el a legvirágzóbb földimogyoró- és kávéültetvények. Mára a természet visszahódította a területet. Bolama szigetén hatalmas majomkenyérfák (baobabok), sűrű pálmaerdők és elvadult trópusi gyümölcsöskertek (papaya, mangó) találhatók. A partvonalat sűrű mangrove szegélyezi, ami kiváló búvóhelyet jelent a madarak és a rákok számára. A sziget természete és a romos, lianókkal átszőtt gyarmati főváros melankolikus kontrasztot alkot. Földrajz K6 — szigeti mikroklímák.",
+      "factsAdvanced": [
+        "A szárazföldhöz (Bissauhoz) legközelebb eső nagy Bijagós-sziget.",
+        "Párás, trópusi klímája kedvez az elvadult gyümölcsöskertek burjánzásának.",
+        "Hatalmas majomkenyérfák (baobabok) és olajpálmák uralják a tájat.",
+        "A természet lassan teljesen bekebelezi az egykori gyarmati ültetvényeket és épületeket.",
+        "Gazdag madárvilággal és jelentős majompopulációval rendelkezik.",
+        "A szigetet sekély, iszapos, mangrovéval sűrűn benőtt csatornák választják el a kontinenstől."
+      ]
+    },
+    {
+      "id": "bubaque-island-nature-v2",
+      "descriptionAdvanced": "Bubaque a Bijagós-szigetcsoport legismertebb és leginkább látogatott szigete, amely tökéletes egyensúlyt teremt a lenyűgöző természeti értékek és a helyi kultúra között. A sziget keleti oldalán találhatók az ország legszebb fehér homokos partjai (mint a Praia de Bruce), amelyeket pálmafák szegélyeznek, míg a nyugati partokat áthatolhatatlan mangrove-dzsungel borítja. A sziget belső területein olajpálma-erdők és elszórt kesudió-ültetvények húzódnak. Bubaque az UNESCO Bioszféra Rezervátum adminisztratív bázisa is, ahonnan a környező szigetek vadvilágának védelmét koordinálják. A tengerpartokon gyakran láthatók ívóhelyet kereső tengeri teknősök. Biológia K7 — trópusi ökoszisztémák.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport turisztikai és adminisztratív központja.",
+        "A Praia de Bruce nevű strand fehér homokjáról és érintetlenségéről híres.",
+        "Az UNESCO Bioszféra Rezervátum helyi kutatóközpontja itt működik.",
+        "A sziget belső részein sűrű olajpálma- és kesudióerdők találhatók.",
+        "A part menti vizek gazdagok sporthalászatra is alkalmas nagytestű halakban.",
+        "A szigeten szigorú szabályok védik a fészkelő tengeri teknősöket."
+      ]
+    },
+    {
+      "id": "rubane-island-nature-v2",
+      "descriptionAdvanced": "A mindössze egy rövid csónakútra fekvő Bubaque-tól, Rubane-sziget egy apró, exkluzív zöld ékszerdoboz. A sziget szinte teljesen lakatlan, leszámítva egy maroknyi környezetbarát luxus ökolodge-ot. Rubane érintetlen természeti környezete egyedülálló: hatalmas, árnyékos pamutfák és baobabok nőnek egészen a fehér homokos tengerpartig. A sűrű növényzet miatt a sziget mikroklímája hűvösebb, mint a környező területeké. A sekély vizekben, a tengerifű-mezőkön gyakran tűnnek fel tengeri tehenek (manátuszok) és játékos palackorrú delfinek. Ez a sziget a fenntartható afrikai ökoturizmus egyik legsikeresebb példája, ahol a turizmus bevételeit a környezet megóvására fordítják. Környezetismeret K8 — ökoturizmus és fenntarthatóság.",
+      "factsAdvanced": [
+        "Bubaque szigetével szemben, egy szűk tengeri csatorna túloldalán fekszik.",
+        "Szinte lakatlan, kizárólag néhány környezetbarát ökolodge található itt.",
+        "Trópusi növényzete (pamutfák, baobabok) egészen a tengerpartig húzódik.",
+        "A sekély parti vizek a manátuszok (tengeri tehenek) táplálkozóhelyei.",
+        "Gyakori errefelé a palackorrú delfinek és a zöld teknősök jelenléte.",
+        "Az ország legsikeresebb fenntartható luxus-ökoturisztikai célpontja."
+      ]
+    },
+    {
+      "id": "poilao-island-nature-v2",
+      "descriptionAdvanced": "A Poilão-sziget, a João Vieira és Poilão Tengeri Nemzeti Park legdélebbi pontja, egy mindössze 43 hektáros, apró, de biológiailag gigantikus jelentőségű sziget. Ez a földdarab Afrika nyugati partvidékének legnagyobb közönséges levesteknős (Chelonia mydas) fészkelőhelye, és globálisan a harmadik legfontosabb ilyen terület. Évente (júliustól novemberig) több tízezer nőstény teknős mászik partra éjszakánként, hogy lerakja tojásait a puha homokba. A sziget szent hely a bijagó animista vallásban; a hagyomány szigorúan tiltja az itteni vadászatot és vérontást, ami évszázadokon át garantálta a teknősök túlélését. A sziget sűrű erdejében szürke papagájok ezrei fészkelnek. Biológia K8 — globális fajmegőrzés és szaporodás.",
+      "factsAdvanced": [
+        "A közönséges levesteknős (Chelonia mydas) legfontosabb afrikai fészkelőhelye.",
+        "A mindössze 43 hektáros lakatlan szigeten tízezrével költenek a teknősök.",
+        "A helyi bijagó etnikum szent területnek tekinti, ahol tilos a vadászat.",
+        "A tojásrakás fő szezonja júliustól novemberig tart.",
+        "A Tengeri Nemzeti Park legszigorúbban védett (no-take) zónája.",
+        "A sziget fáinak lombkoronája a ritka afrikai szürke papagáj fészkelőhelye."
+      ]
+    },
+    {
+      "id": "lagoa-de-cufada-nature-v2",
+      "descriptionAdvanced": "A Cufada-tó (Lagoa de Cufada) Nemzeti Park a Quinara régióban Bissau-Guinea legnagyobb édesvízi tava, és az ország legelső nemzetközileg elismert (Ramsar) vizes élőhelye. A 890 négyzetkilométeres park három nagyobb tavat foglal magában, amelyeket mocsarak, szavannák és sűrű galériaerdők vesznek körül. Ez az ökoszisztéma az egyik legváltozatosabb az országban: több mint 250 regisztrált madárfaj, ritka csimpánzok, erdei bivalyok, krokodilok és törpevízilovak otthona. Az esős évszakban a tómeder hatalmasra duzzad, valóságos belső tengerré változtatva a tájat, amelyet tündérrózsák ezrei borítanak. A terület komoly nyomás alatt áll a helyi rizstermelés és fakitermelés miatt. Biológia K7 — édesvízi biodiverzitás.",
+      "factsAdvanced": [
+        "Bissau-Guinea legnagyobb édesvízi tavát védi a Quinara régióban.",
+        "Az ország első, Ramsar-egyezmény hatálya alá tartozó vizes élőhelye.",
+        "Rendkívül gazdag madárvilág (több mint 250 faj) és hüllőpopuláció jellemzi.",
+        "A park területén csimpánzok, törpevízilovak és krokodilok is élnek.",
+        "Az esős évszakban a víztükör drasztikusan megnő, tündérrózsák borítják.",
+        "A park ökológiáját veszélyezteti a környékbeli erdőirtás és agrárbővítés."
+      ]
+    },
+    {
+      "id": "cantanhez-forest-nature-v2",
+      "descriptionAdvanced": "A Cantanhez Nemzeti Park (Parque Nacional de Cantanhez) mélyen a Tombali régió déli csücskében található, és Bissau-Guinea utolsó megmaradt elsődleges trópusi esőerdeit őrzi. A 105 ezer hektáros terület egy buja, szinte áthatolhatatlan dzsungel, hatalmas fákkal, kúszónövényekkel és gazdag aljnövényzettel. A park legfőbb vonzereje a világ egyik legjelentősebb és legkönnyebben megfigyelhető nyugat-afrikai csimpánzpopulációja. Emellett erdei elefántok, különböző kolobuszmajmok, ritka madarak és erdei bivalyok menedéke. A park kezelése úttörő: a helyi falvak bevonásával, közösségi alapú természetvédelemként működik, ahol a turizmusból származó bevételek közvetlenül a helyieket támogatják az illegális fakitermelés helyett. Biológia K8 — esőerdők és főemlőskutatás.",
+      "factsAdvanced": [
+        "Bissau-Guinea utolsó érintetlen trópusi esőerdeit foglalja magába.",
+        "A Tombali régió déli részén, a guineai határ közelében helyezkedik el.",
+        "Globálisan jelentős, kutatott nyugat-afrikai csimpánzpopuláció él itt.",
+        "Ritka erdei elefántok, kolobuszmajmok és leopárdok is előfordulnak.",
+        "A park a közösségi alapú természetvédelem (eco-tourism) afrikai modellje.",
+        "A terület folyamatos küzdelmet folytat az illegális fakitermelés (rózsafa) ellen."
+      ]
+    },
+    {
+      "id": "dulombi-forest-nature-v2",
+      "descriptionAdvanced": "A Dulombi-Boe Nemzeti Park az ország keleti, legmagasabban fekvő és legszárazabb régióját, a Fouta Djallon fennsík lábánál elterülő szavannákat és erdőket védi. A Dulombi erdőség egy ritka átmeneti zóna a trópusi esőerdők és a száhel-övezet szavannái között. Ez a változatos táj ad otthont Bissau-Guinea legnagyobb nagytestű emlősállományának. Itt él az ország egyetlen életképes oroszlánpopulációja, valamint kafferbivalyok, paviánok, varacskos disznók és számos antilopfaj. A park határokon átnyúló folyosót képez a szomszédos guineai védett területekkel, lehetővé téve a nagytestű állatok szabad vándorlását. A régió arany- és bauxitbányászati tervei azonban komoly veszélyt jelentenek a park jövőjére. Földrajz K8 — szavannai ökoszisztémák és vadvándorlás.",
+      "factsAdvanced": [
+        "A keleti Gabú régióban található kiterjedt szavannai és erdei rezervátum.",
+        "Az ország egyetlen életképes nyugat-afrikai oroszlánpopulációjának élőhelye.",
+        "Átmeneti ökológiai zónát képez a trópusi erdők és a száhel szavannák között.",
+        "Határokon átnyúló zöld folyosót alkot a guineai nemzeti parkokkal.",
+        "Nagytestű antilopok, kafferbivalyok és majomcsapatok (paviánok) otthona.",
+        "A tervezett bauxit- és aranybányászat súlyos környezeti kockázatot jelent."
+      ]
+    },
+    {
+      "id": "boe-hills-nature-v2",
+      "descriptionAdvanced": "A Boé-hegység (Colinas de Boé) Bissau-Guinea egyetlen dombvidéki régiója az ország délkeleti szegletében, Gabú tartományban. A szelíd, fűvel és ritkás erdőkkel borított dombok egy geológiailag ősi, vasban és bauxitban gazdag fennsík maradványai, amelyek drasztikus vizuális kontrasztot alkotnak az ország 90%-át kitevő lapos, folyóvölgyek szabdalta partmenti síkságokkal. A területen kanyarog a Corubal-folyó, mély völgyeket és látványos vízeséseket vájva a sziklákba. A Boé-hegység az ország történelmi bölcsője is, de természeti szempontból is kiemelkedő, mivel ritka szavannai állatfajoknak (köztük csimpánzoknak és hiénakutyáknak) nyújt életteret a nehezen járható, elszigetelt vidéken. Földrajz K7 — domborzati formák és bányászat.",
+      "factsAdvanced": [
+        "Bissau-Guinea egyetlen jelentős dombvidéki (hegyvidéki) területe a délkeleti határon.",
+        "Geológiailag ősi, rendkívül magas vas- és bauxittartalmú kőzetekből áll.",
+        "Élesen elüt az ország többi részére jellemző alacsonyan fekvő, lapos síkságoktól.",
+        "A területet a Corubal-folyó völgyei és látványos zuhatagai tagolják.",
+        "Elszigeteltsége miatt gazdag az élővilága, beleértve a szavannai csimpánzokat is.",
+        "A külszíni bauxitbányászat beindulása a legnagyobb jövőbeli környezeti fenyegetés."
+      ]
+    },
+    {
+      "id": "rio-mansoa-nature-v2",
+      "descriptionAdvanced": "A Mansôa-folyó (Rio Mansôa) az Oio és Biombo régiókat választja el, és egy széles, iszapos tölcsértorkolatban ömlik az Atlanti-óceánba Bissau-tól északra. A folyó jellegzetessége a rendkívül erős árapály-hatás, amely miatt a víz folyásiránya naponta kétszer megfordul, és a tenger sós vize mélyen behatol a szárazföld belsejébe. A folyó partjait áthatolhatatlan, ősi mangrove-erdők szegélyezik, amelyek az ország legfontosabb rák- és halbölcsődéi közé tartoznak. A belföldi, édesvizű szakaszokon a helyi balanta földművesek a folyó vizét használják a hagyományos ártéri rizstermesztéshez. A folyón átívelő híd (Mansôa híd) kulcsfontosságú az északi közlekedésben. Földrajz K6 — árapály-folyók dinamikája.",
+      "factsAdvanced": [
+        "Fontos árapály-folyó az ország északnyugati részén (Oio és Biombo régió).",
+        "A tengeri árapály hatása több tíz kilométerre behatol a folyómederbe.",
+        "Partjait sűrű mangrove-erdők övezik, amelyek gazdag tengeri élőhelyek.",
+        "Az édesvizű szakaszok kulcsfontosságúak az ártéri (bolanha) rizstermesztésben.",
+        "A folyó sós és édesvízének keveredése speciális ökoszisztémát hoz létre.",
+        "A rajta átívelő híd köti össze a fővárost az északi területekkel."
+      ]
+    },
+    {
+      "id": "formosa-island-nature-v2",
+      "descriptionAdvanced": "A Formosa-sziget, amelynek neve portugálul 'Gyönyörű'-t jelent, a Bijagós-szigetcsoport egyik legnagyobb és biológiailag legaktívabb tagja. A sziget az Urok-szigetek Tengeri Védett Terület (MPA) magját alkotja. A táj rendkívül változatos: a hófehér, elhagyatott tengerpartokat hirtelen váltják fel a sűrű, mocsaras mangrove-erdők és a belső szavannák. Formosa az afrikai manátuszok (tengeri tehenek), krokodilok és számtalan vándormadár fontos menedéke. A helyi bijagó közösség példaértékű módon, hagyományos animista szabályrendszerük (amely szent helyekre és tabukra épül) segítségével integrálta a modern természetvédelmet a mindennapi halászatba és mezőgazdaságba. Biológia K7 — tengeri védett területek kezelése.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport egyik legnagyobb, változatos domborzatú szigete.",
+        "Az Urok-szigetek Tengeri Védett Terület (MPA) központi része.",
+        "Kiterjedt mangrove-erdők, szavannák és hófehér homokos partok jellemzik.",
+        "Kiemelt élőhelye a tengeri teheneknek, tengeri teknősöknek és vándormadaraknak.",
+        "A helyi bijagó animista kultúra szorosan összefonódik a természetvédelemmel.",
+        "Kiváló példája a közösség által irányított, fenntartható tengeri erőforrás-kezelésnek."
+      ]
+    }
+  ]
+}

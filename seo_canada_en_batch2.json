@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "richmond-cities-v2",
+      "descriptionAdvanced": "Richmond is a unique island city located south of Vancouver, serving as the gateway to the region through the Vancouver International Airport. The city is noted for its high immigrant population and rich cultural heritage, particularly in the Steveston area, a historic fishing village that is now a popular tourist destination. Geography K7 — coastal cities.",
+      "factsAdvanced": [
+        "Home to Vancouver International Airport (YVR).",
+        "Highest proportion of immigrant residents in Canada.",
+        "Renowned for diverse Asian cuisine and shopping centers.",
+        "Features the historic Steveston fishing village.",
+        "Geography is dominated by flat, island terrain.",
+        "Significant focus on flood protection due to its location."
+      ]
+    },
+    {
+      "id": "coquitlam-cities-v2",
+      "descriptionAdvanced": "Coquitlam is a vibrant city in Metro Vancouver, nestled against the mountains and providing a gateway to outdoor recreation. It features a blend of suburban residential areas and urban development, with significant cultural venues and ongoing infrastructure improvements aimed at supporting a growing population. Geography K7 — mountain-adjacent urban areas.",
+      "factsAdvanced": [
+        "Situated at the base of the Coast Mountains.",
+        "Home to the Coquitlam Centre, a major regional shopping mall.",
+        "Provides extensive access to parks and forest trails.",
+        "Served by the Evergreen Extension of the SkyTrain system.",
+        "Historically settled by the Kwikwetlem First Nation.",
+        "Rapidly evolving into a transit-oriented urban center."
+      ]
+    },
+    {
+      "id": "kelowna-cities-v2",
+      "descriptionAdvanced": "Kelowna, the largest city in the Okanagan Valley, is famous for its mild climate, stunning lakefront, and burgeoning wine industry. Surrounded by mountains, it serves as a central hub for agriculture and tourism in British Columbia, attracting visitors throughout the year. Geography K7 — agricultural hubs.",
+      "factsAdvanced": [
+        "Largest city in the Okanagan Valley.",
+        "Major center for Canadian viticulture and wine production.",
+        "Situated on the eastern shore of Okanagan Lake.",
+        "Famous for its relatively mild, dry climate.",
+        "Tourism is a major driver of the local economy.",
+        "Home to the University of British Columbia Okanagan campus."
+      ]
+    },
+    {
+      "id": "laval-cities-v2",
+      "descriptionAdvanced": "Laval is the third-largest city in Quebec and occupies the entirety of Île Jésus, located just north of Montreal. It serves as a significant residential and industrial hub, well-connected to its neighbor by major highway and public transit systems, including the Metro. Geography K7 — island-based urban areas.",
+      "factsAdvanced": [
+        "Third-most populous municipality in Quebec.",
+        "Located on Île Jésus, north of Montreal Island.",
+        "Major residential and industrial hub in the Greater Montreal Area.",
+        "Connected to Montreal by multiple bridges and Metro lines.",
+        "Diverse economy including life sciences and technology.",
+        "Features large suburban shopping and entertainment districts."
+      ]
+    },
+    {
+      "id": "gatineau-cities-v2",
+      "descriptionAdvanced": "Gatineau is located in western Quebec, across the Ottawa River from the nation's capital, Ottawa. It is a vital part of the National Capital Region, featuring unique cultural institutions and proximity to the Gatineau Park, a massive wilderness area. The city plays a key role in the federal administrative landscape. Geography K7 — capital regions.",
+      "factsAdvanced": [
+        "Located directly across the river from Ottawa.",
+        "Part of the National Capital Region (NCR).",
+        "Includes the Canadian Museum of History.",
+        "Gatineau Park, a vast conservation area, lies just north of the city.",
+        "Significant portion of the population works for the federal government.",
+        "Home to the Conservatoire de musique du Québec."
+      ]
+    },
+    {
+      "id": "longueuil-cities-v2",
+      "descriptionAdvanced": "Longueuil is a major city in the Montérégie region of Quebec, located on the south shore of the Saint Lawrence River across from Montreal. As a key residential, commercial, and transportation hub, it connects the south shore to the metropolitan center via numerous bridges and transit corridors. Geography K7 — urban transit.",
+      "factsAdvanced": [
+        "Largest city on the South Shore of Montreal.",
+        "Important transportation hub with Metro access to Montreal.",
+        "Includes diverse neighborhoods like Vieux-Longueuil.",
+        "Strong presence of aerospace and technology companies.",
+        "Features extensive parkland along the Saint Lawrence River.",
+        "Economic center for the Montérégie region."
+      ]
+    },
+    {
+      "id": "sherbrooke-cities-v2",
+      "descriptionAdvanced": "Sherbrooke is the principal city of the Eastern Townships region in Quebec, positioned at the confluence of the Saint-François and Magog Rivers. Known for its strong academic sector and vibrant cultural scene, it serves as a central hub for health services and education in its regional territory. Geography K7 — regional hubs.",
+      "factsAdvanced": [
+        "Chief city of the Eastern Townships region.",
+        "At the confluence of the Saint-François and Magog rivers.",
+        "Major regional hub for healthcare and university education.",
+        "Home to the Université de Sherbrooke.",
+        "Rich architectural history in the downtown core.",
+        "Known for its prominent murals depicting local history."
+      ]
+    },
+    {
+      "id": "saguenay-cities-v2",
+      "descriptionAdvanced": "Saguenay is a unique city in Quebec formed by the amalgamation of several smaller municipalities, centered along the Saguenay River. It is a major industrial and logistics base, known for its deep-water port and proximity to the stunning Saguenay Fjord, a major Canadian natural landmark. Geography K7 — regional landscapes.",
+      "factsAdvanced": [
+        "Formed through the merger of multiple cities and towns.",
+        "Industrial hub centered on pulp, paper, and aluminum production.",
+        "Deep-water port on the Saguenay River.",
+        "Gateway to the Saguenay Fjord, a major tourist attraction.",
+        "Large geographic area covering multiple river valleys.",
+        "Regional hub for commerce in northern Quebec."
+      ]
+    },
+    {
+      "id": "levis-cities-v2",
+      "descriptionAdvanced": "Lévis is located on the south shore of the Saint Lawrence River, directly opposite Quebec City, to which it is connected by a major bridge and a historic ferry service. It serves as a major commercial and residential center, maintaining a distinct identity while being deeply integrated with the capital. Geography K7 — city development.",
+      "factsAdvanced": [
+        "Directly across the river from Quebec City.",
+        "Connected to the capital by a historic ferry and bridge.",
+        "Home to the Desjardins Group, a major credit union.",
+        "Features historic architecture reflecting its French-Canadian roots.",
+        "Key commercial hub for the South Shore region.",
+        "Significant portion of the population commutes to Quebec City."
+      ]
+    },
+    {
+      "id": "trois-rivieres-cities-v2",
+      "descriptionAdvanced": "Trois-Rivières is located in Quebec at the confluence of the Saint Lawrence and Saint-Maurice rivers. Historically significant as one of the oldest cities in Canada, it has transitioned from a fur-trading and lumber center to a hub for education, research, and culture in the Mauricie region. Geography K7 — historical geography.",
+      "factsAdvanced": [
+        "Founded in 1634, one of the oldest cities in Canada.",
+        "Situated at the mouth of the Saint-Maurice River.",
+        "Historically known as a fur-trading and logging center.",
+        "Regional hub for the Mauricie area.",
+        "Features a prominent historic center known for its colonial architecture.",
+        "Home to the Université du Québec à Trois-Rivières."
+      ]
+    },
+    {
+      "id": "lethbridge-cities-v2",
+      "descriptionAdvanced": "Lethbridge is the primary commercial and transportation hub in southern Alberta, situated near the Canadian Rockies. The city is easily identified by its iconic High Level Bridge over the Oldman River valley, which serves as a vital infrastructure and cultural landmark. Geography K7 — infrastructure and regional hubs.",
+      "factsAdvanced": [
+        "Largest city in southern Alberta.",
+        "Features the iconic Lethbridge Viaduct (High Level Bridge).",
+        "Economic hub for agricultural and logistics sectors.",
+        "Home to the University of Lethbridge.",
+        "Located in a unique prairie landscape carved by the Oldman River.",
+        "Known for its strong winds and proximity to the Rocky Mountains."
+      ]
+    },
+    {
+      "id": "red-deer-cities-v2",
+      "descriptionAdvanced": "Red Deer is positioned centrally between Alberta's two largest cities, Calgary and Edmonton, serving as a critical regional logistics and business center. The city's location on the Red Deer River makes it a natural focal point for regional transportation, retail, and manufacturing industries. Geography K7 — central hubs.",
+      "factsAdvanced": [
+        "Centrally located between Edmonton and Calgary.",
+        "Primary service hub for the central Alberta economy.",
+        "Situated on the Red Deer River.",
+        "Economy driven by oilfield services, manufacturing, and retail.",
+        "Home to Red Deer College.",
+        "Includes the popular Bower Ponds recreational area."
+      ]
+    },
+    {
+      "id": "st-albert-cities-v2",
+      "descriptionAdvanced": "St. Albert is a vibrant community located just northwest of Edmonton, Alberta. Historically an important Métis settlement, it has evolved into a modern, family-oriented suburban city with a strong focus on parks, festivals, and civic life, frequently earning recognition for its quality of life. Geography K7 — urban development.",
+      "factsAdvanced": [
+        "Historically significant Métis settlement.",
+        "Modern suburb northwest of Edmonton.",
+        "Features an extensive network of park trails.",
+        "Host of the annual St. Albert International Children's Festival.",
+        "Strong focus on community and family-friendly infrastructure.",
+        "One of Alberta's most historic municipalities."
+      ]
+    },
+    {
+      "id": "medicine-hat-cities-v2",
+      "descriptionAdvanced": "Medicine Hat is a city in southeastern Alberta, known historically for its vast natural gas reserves, which once led to its nickname as 'The Gas City'. The city is situated in the South Saskatchewan River valley, featuring a distinctive landscape and a strong heritage in ceramics and clay manufacturing. Geography K7 — natural resources.",
+      "factsAdvanced": [
+        "Historically known as 'The Gas City' for its natural resources.",
+        "Features unique Badlands-like topography.",
+        "Located in the South Saskatchewan River valley.",
+        "Strong industrial heritage in clay and pottery manufacturing.",
+        "Home to the Saamis Tepee, a major local landmark.",
+        "Known for its mild, sunny climate in southeastern Alberta."
+      ]
+    },
+    {
+      "id": "grande-prairie-cities-v2",
+      "descriptionAdvanced": "Grande Prairie is the largest city in northwestern Alberta, serving as a vital regional hub for the resource extraction, agricultural, and service industries in the Peace River Country. Its rapid economic growth is driven by its strategic role in northern development and logistics. Geography K7 — frontier economic hubs.",
+      "factsAdvanced": [
+        "Largest city in northwestern Alberta.",
+        "Strategic hub for the Peace River country's development.",
+        "Economy based on forestry, oil, and agriculture.",
+        "Serving as a key logistics hub for Northern Alberta.",
+        "Home to Grande Prairie Regional College.",
+        "Known for its resilient, resource-driven local economy."
+      ]
+    },
+    {
+      "id": "moncton-cities-v2",
+      "descriptionAdvanced": "Moncton is the largest city in New Brunswick, acting as the economic and transportation heart of the province. Located at the geographic center of the Maritime provinces, it is famously known for its bilingualism, welcoming environment, and the fascinating Tidal Bore phenomenon on the Petitcodiac River. Geography K7 — regional transit hubs.",
+      "factsAdvanced": [
+        "Largest city in New Brunswick.",
+        "Economic center of the Maritime provinces.",
+        "Known for its unique Tidal Bore on the Petitcodiac River.",
+        "Strong emphasis on bilingualism and francophone culture.",
+        "Major hub for rail and road transportation in the region.",
+        "Home to the Université de Moncton."
+      ]
+    },
+    {
+      "id": "saint-john-cities-v2",
+      "descriptionAdvanced": "Saint John is the oldest incorporated city in Canada, situated on the spectacular Bay of Fundy. Its history is deeply tied to its port and shipyards, and it is world-renowned for the Reversing Falls, a natural phenomenon caused by the massive tidal range of the Bay of Fundy. Geography K7 — coastal geography.",
+      "factsAdvanced": [
+        "Oldest incorporated city in Canada.",
+        "Located on the Bay of Fundy, home to the world's highest tides.",
+        "Famous for the Reversing Falls rapids.",
+        "Historic port and shipbuilding center.",
+        "Deeply rooted in maritime and colonial history.",
+        "Major industrial player in Atlantic Canada."
+      ]
+    },
+    {
+      "id": "cape-breton-cities-v2",
+      "descriptionAdvanced": "Cape Breton, often referring to the Cape Breton Regional Municipality, encompasses a vast area known for its breathtaking landscapes, including the Cabot Trail. The area is a hub for culture and history in Nova Scotia, blending industrial roots with a deeply cherished Celtic and Acadian heritage. Geography K7 — regional landscapes.",
+      "factsAdvanced": [
+        "Encompasses the Cape Breton Regional Municipality.",
+        "Home to the world-famous Cabot Trail coastal drive.",
+        "Renowned for its deep Celtic and Acadian musical culture.",
+        "Includes the Fortress of Louisbourg, a National Historic Site.",
+        "Strong history of coal mining and steel production.",
+        "Geography characterized by mountains and the rugged Atlantic coast."
+      ]
+    },
+    {
+      "id": "barrie-cities-v2",
+      "descriptionAdvanced": "Barrie is a rapidly growing city on the shores of Kempenfelt Bay on Lake Simcoe, located north of the Greater Toronto Area. Its location has made it a popular destination for both tourism and permanent residency, serving as a bridge between the northern cottage country and the urban south. Geography K7 — suburban development.",
+      "factsAdvanced": [
+        "Located on the scenic Kempenfelt Bay, Lake Simcoe.",
+        "Significant population growth in recent decades.",
+        "Gateway to Ontario's 'cottage country' districts.",
+        "Key residential city for commuters to the GTA.",
+        "Host to the Barrie Waterfront Festival.",
+        "Economy focused on retail, tourism, and services."
+      ]
+    },
+    {
+      "id": "oshawa-cities-v2",
+      "descriptionAdvanced": "Oshawa is an industrial city east of Toronto, known historically as the headquarters of General Motors of Canada. It has evolved into an educational and research hub, anchored by institutions like Ontario Tech University and Durham College, all while maintaining its long-standing automotive legacy. Geography K7 — industrial transitions.",
+      "factsAdvanced": [
+        "Known as the Automotive Capital of Canada (historical).",
+        "Home to the headquarters of General Motors Canada.",
+        "Transitioned into an educational and research hub.",
+        "Includes Ontario Tech University and Durham College.",
+        "Features the historic Parkwood Estate.",
+        "Strategically located in the Durham Region."
+      ]
+    }
+  ]
+}

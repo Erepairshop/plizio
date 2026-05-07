@@ -1,0 +1,56 @@
+{
+  "MD-001-briceni-city": {
+    "desc": "Briceni este un oraș așezat în nordul pitoresc al Republicii Moldova, cunoscut ca un important centru agricol al regiunii. Orașul este adesea denumit 'capitala merelor', datorită livezilor vaste care domină peisajul înconjurător și susțin economia locală. Multiculturalitatea sa istorică este vizibilă în arhitectura caselor vechi și a lăcașurilor de cult, cu influențe evreiești, ucrainene și moldovenești. Deși liniștit, Briceni joacă un rol esențial ca punct de tranzit aproape de frontiera cu Ucraina. Geografie clasa a 7-a — agricultura și așezările umane.",
+    "facts": [
+      "A fost atestat documentar pentru prima dată la mijlocul secolului al XVI-lea.",
+      "Până în cel de-Al Doilea Război Mondial, a avut o comunitate evreiască majoritară înfloritoare.",
+      "Regiunea produce o mare parte din fructele destinate exportului național.",
+      "Aici se desfășoară anual un festival tradițional dedicat mărului."
+    ]
+  },
+  "MD-001-criva-cave": {
+    "desc": "Peștera Emil Racoviță, situată lângă localitatea Criva, este una dintre cele mai spectaculoase comori speologice din Europa. Această peșteră în ipsos este un labirint subteran vast, plin de săli uriașe și galerii sinuoase care se întind pe zeci de kilometri. Formațiunile sale cristaline unice, bazinele subterane cu apă limpede și structurile argiloase o fac o destinație fascinantă pentru cercetători. Mediul său fragil și lipsit de lumină este un laborator natural excelent pentru studierea geologiei carstice. Geografie clasa a 6-a — forme de relief carstic.",
+    "facts": [
+      "Este a treia cea mai lungă peșteră de gips (ipsos) din întreaga lume.",
+      "A fost descoperită accidental în 1959, în timpul unor lucrări de exploatare minieră.",
+      "Cele mai mari cavități interioare se numesc 'Sala celor o sută de metri' și 'Sala Daciei'.",
+      "Accesul turiștilor este restricționat pentru a proteja microclimatul sensibil."
+    ]
+  },
+  "MD-002-edinet-city": {
+    "desc": "Edineț este un oraș dinamic și verde situat în nordul țării, recunoscut pentru activitatea sa industrială și peisajele sale îngrijite. De-a lungul istoriei, localitatea a evoluat dintr-un mic târg de meșteșugari într-un important nod de transport și comerț. Parcul central din Edineț, unul dintre cele mai frumoase din țară, oferă un refugiu liniștit cu lacuri, alei pitorești și sculpturi tradiționale. Orașul reflectă un echilibru armonios între dezvoltarea modernă și conservarea patrimoniului cultural. Geografie clasa a 7-a — dezvoltarea urbană.",
+    "facts": [
+      "Orașul a fost menționat pentru prima dată în documente în anul 1431.",
+      "Muzeul de istorie locală deține o colecție bogată de artă populară și meșteșuguri.",
+      "Populația este o combinație diversă de moldoveni, ucraineni și romi.",
+      "Parcul 'Vasile Alecsandri' din Edineț include și o mică grădină zoologică."
+    ]
+  },
+  "MD-002-fetesti-nature": {
+    "desc": "Rezervația peisajistică Fetești, deseori numită și 'Mica Elveție' a Moldovei, este un loc de o frumusețe rară din nordul țării. Relieful stâncos, brăzdat de chei adânci și râul Draghiște, formează un peisaj dramatic și neașteptat pentru această regiune plată. Pădurile dense și stâncile abrupte ascund peșteri și izvoare minerale, făcând din acest loc un sanctuar perfect pentru drumeții. Bogăția florei și faunei locale face din Fetești o zonă de un interes ecologic major. Geografie clasa a 6-a — relieful carstic și rezervațiile.",
+    "facts": [
+      "Formațiunile stâncoase au fost sculptate de râu de-a lungul a sute de mii de ani.",
+      "Pădurile de aici adăpostesc specii rare de plante, incluzând ferigi și orhidee de pădure.",
+      "Atrage pasionați de alpinism datorită pereților calcaroși abrupți.",
+      "Legendele locale vorbesc despre haiduci care se ascundeau în peșterile de aici."
+    ]
+  },
+  "MD-003-riscani-city": {
+    "desc": "Rîșcani este un oraș primitor, așezat de-a lungul râului Copăceanca, ce funcționează ca inima administrativă a raionului omonim. Cu rădăcini care se întind până în perioada medievală, orașul a crescut pe baza comerțului și a agriculturii bogate din împrejurimi. Astăzi, este un centru educațional local și un punct de întâlnire pentru fermierii din regiune. Atmosfera sa calmă, marcată de bisericuțe vechi și piețe agricole pline de viață, reflectă farmecul tradițional al nordului moldovenesc. Geografie clasa a 6-a — așezări riverane.",
+    "facts": [
+      "Orașul poartă numele boierului Egor Rîșcanu, care a deținut moșii în această zonă.",
+      "Biserica Adormirii Maicii Domnului din localitate este un monument arhitectural notabil.",
+      "În timpul perioadei sovietice, a avut o fabrică importantă de uleiuri esențiale.",
+      "Lacurile din apropierea orașului sunt populare pentru pescuitul de agrement."
+    ]
+  },
+  "MD-003-costesti-dam": {
+    "desc": "Barajul Costești-Stînca este o megastructură impresionantă situată pe râul Prut, operată în comun de Republica Moldova și România. Acest proiect ingineresc masiv a transformat complet peisajul hidrografic al regiunii, formând cel mai mare lac de acumulare din țară. Dincolo de producerea energiei hidroelectrice, barajul este crucial pentru irigații și pentru prevenirea inundațiilor devastatoare care afectau anterior valea Prutului. Malurile lacului creat au devenit destinații populare pentru odihnă și sporturi nautice. Fizică clasa a 8-a — producerea energiei electrice.",
+    "facts": [
+      "Construcția barajului a fost finalizată în anul 1978, după cinci ani de lucrări.",
+      "Este a doua cea mai mare centrală hidroelectrică de pe teritoriul Republicii Moldova.",
+      "Suprafața lacului de acumulare se întinde pe aproximativ 59 de kilometri pătrați.",
+      "Centrala asigură energie electrică și ajută la reglarea debitului ecologic al râului Prut."
+    ]
+  }
+}

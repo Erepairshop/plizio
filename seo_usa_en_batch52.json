@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gulf-of-alaska-nature-v2",
+      "descriptionAdvanced": "The Gulf of Alaska is a massive, productive marine basin characterized by the dynamic interaction of deep ocean currents and the rugged, glaciated coastline of southern Alaska. This interaction creates one of the most nutrient-rich marine environments in the world, fostering massive populations of fish, whales, and seabirds. The Gulf is an essential indicator of Arctic-Pacific oceanographic interaction, currently undergoing rapid transformation due to shifting thermal currents and receding coastal glaciers, which change salinity levels and marine nutrient dynamics. Today, the region serves as a critical laboratory for studying subarctic marine science, the resilience of commercial fisheries against rapid oceanic change, and the complex biological responses to atmospheric warming in high-latitude marine environments. Biologie K8 — High-latitude marine ecology and oceanographic change.",
+      "factsAdvanced": [
+        "A highly productive marine basin where deep ocean currents meet the rugged Alaskan coast.",
+        "Crucial marine ecosystem that supports massive fish, whale, and seabird populations.",
+        "Dynamic environment defined by the confluence of Arctic and Pacific current systems.",
+        "Undergoing rapid transformation driven by shifting thermal currents and melting glaciers.",
+        "Essential laboratory for monitoring marine biodiversity in high-latitude environments.",
+        "Critical study site for managing sustainable fisheries amid extreme environmental change."
+      ]
+    },
+    {
+      "id": "ohio-river-nature-v2",
+      "descriptionAdvanced": "The Ohio River, flowing 981 miles from Pittsburgh to the Mississippi River, is a central artery of American industrial and ecological history. Once a vital waterway for frontier expansion and later the backbone of the American industrial heartland's shipping, the river’s legacy is defined by a century of heavy manufacturing and industrial pollutant discharge. Today, the Ohio is the focus of immense, ongoing ecological restoration efforts aimed at cleaning up legacy contaminants, improving water quality for the millions who rely on it for drinking, and restoring aquatic biodiversity. The river stands as a significant case study in the evolution of American environmental management, representing the complex challenge of revitalizing a historically industrial river system to support a sustainable, ecologically functional future. Geografie K7 — Industrial history and river-system restoration.",
+      "factsAdvanced": [
+        "Major 981-mile artery flowing from Pittsburgh to the Mississippi River.",
+        "Historically functioned as the backbone of American industrial and frontier expansion.",
+        "Centuries of industrial legacy led to widespread water and sediment contamination.",
+        "The focus of massive ongoing environmental efforts for pollution remediation.",
+        "Crucial source of drinking water for millions of residents in the region.",
+        "Significant case study in revitalizing and balancing historically industrial river ecosystems."
+      ]
+    },
+    {
+      "id": "sawtooth-national-forest-nature-v2",
+      "descriptionAdvanced": "The Sawtooth National Forest in Idaho is a sprawling, high-mountain wilderness known for its dramatic, jagged granitic peaks, high-alpine lakes, and expansive, preserved natural landscape. Characterized by severe, mountainous terrain and extreme seasonal temperature ranges, the forest provides a vital, high-elevation habitat for diverse species, including gray wolves, mountain goats, and rare migratory bird populations. Because of its rugged, relatively untouched nature, the Sawtooth Forest serves as a premier wilderness classroom for studying high-altitude ecosystem stability, the impact of climate-driven snowpack loss on mountain watersheds, and the ongoing conservation of Western wilderness areas. Today, it remains a beloved destination for outdoor recreation and an essential anchor for regional biodiversity conservation. Biologie K7 — Alpine biodiversity and wilderness preservation.",
+      "factsAdvanced": [
+        "Features dramatic, jagged granitic mountain peaks and high-alpine lakes.",
+        "Rugged wilderness representing some of the most pristine terrain in Idaho.",
+        "Critical habitat for high-elevation species like gray wolves and mountain goats.",
+        "Provides a vital, untouched natural laboratory for high-altitude ecological research.",
+        "Highly sensitive to climate-driven changes in seasonal snowpack and watershed levels.",
+        "Essential anchor for wilderness recreation and regional biodiversity conservation."
+      ]
+    }
+  ]
+}

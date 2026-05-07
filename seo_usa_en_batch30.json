@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "madison-square-garden-landmarks-v2",
+      "descriptionAdvanced": "Madison Square Garden in New York City is the world's most famous arena, serving as a premier venue for professional sports, massive concerts, and cultural events. Located above the bustling Penn Station in Manhattan, the current arena—the fourth iteration—opened in 1968. It is the iconic home court for the NBA's New York Knicks and the NHL's New York Rangers, and has hosted legendary boxing matches, political conventions, and music legends from Frank Sinatra to global pop stars. Beyond its sporting role, MSG is a global center for live performance and a symbol of New York's cultural prominence. Its unique position as a major arena in a dense urban core continues to make it the 'World’s Most Famous Arena.' Wirtschaft K8 — Sports entertainment economics and venue history.",
+      "factsAdvanced": [
+        "World’s most famous arena for sports, concerts, and major events.",
+        "Located directly above New York City’s central Penn Station.",
+        "Home to the New York Knicks (NBA) and New York Rangers (NHL).",
+        "The current arena, the fourth iteration, has been active since 1968.",
+        "Historically significant site for legendary boxing matches and concerts.",
+        "A cultural icon reflecting New York’s central role in global entertainment."
+      ]
+    },
+    {
+      "id": "national-september-11-memorial-landmarks-v2",
+      "descriptionAdvanced": "The National September 11 Memorial in New York City is a solemn site of remembrance and tribute at the location of the former World Trade Center towers. Comprising two massive, recessed twin pools located within the footprints of the original towers, the memorial honors the nearly 3,000 victims of the terrorist attacks on September 11, 2001, as well as the responders and all who were affected. The site is a profound space for reflection on the impact of the attacks, the resilience of the city, and the national unity that followed the tragic day. It serves as an essential place for ongoing commemoration, ensuring that the legacy of those lost is never forgotten in the landscape of the rebuilt city. Geschichte K8 — September 11 tragedy and modern memorialization.",
+      "factsAdvanced": [
+        "Solemn site of remembrance at the footprints of the original Twin Towers.",
+        "Honors nearly 3,000 victims of the terrorist attacks of September 11, 2001.",
+        "Features two massive, recessed twin pools for reflection.",
+        "Serves as a powerful tribute to first responders and all those affected.",
+        "Essential place for ongoing national commemoration and remembrance.",
+        "Stands as a profound symbol of resilience in the heart of rebuilt Manhattan."
+      ]
+    },
+    {
+      "id": "us-capitol-landmarks-v2",
+      "descriptionAdvanced": "The United States Capitol in Washington, D.C., is the iconic seat of the legislative branch of the federal government, housing both the House of Representatives and the Senate. Since its completion in the early 19th century, it has been the stage for the most pivotal legislative debates, political milestones, and the inauguration ceremonies of U.S. presidents. With its massive white dome, Neo-classical design, and elaborate interior art, the Capitol is globally recognized as the architectural center of American democracy. It functions as the place where the nation's laws are debated, formed, and passed, serving as a powerful, living symbol of the principles of republican governance and political debate in the United States. Geschichte K8 — Legislative history and symbols of democracy.",
+      "factsAdvanced": [
+        "Iconic seat of the US legislative branch (House and Senate).",
+        "Globally recognized as the architectural center of American democracy.",
+        "Site of crucial legislative debates, political milestones, and presidential inaugurations.",
+        "Features an iconic white dome and elaborate Neo-classical architectural design.",
+        "Functions as the active center for debating and passing national laws.",
+        "A living, powerful symbol of American republican governance."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kaur-cities-v2",
+      "descriptionAdvanced": "Kaur ist ein historischer Handelsort am Nordufer des Gambia-Flusses, der für seinen einst blühenden Erdnusshandel bekannt war. In der Kolonialzeit war Kaur einer der wichtigsten Häfen für die Verschiffung dieses bedeutenden Exportguts. Heute präsentiert sich Kaur als eine Stadt, die ihre Vergangenheit in einer malerischen Hügellandschaft bewahrt. Obwohl der frühere industrielle Glanz verblasst ist, bleibt die Stadt ein wichtiger Bezugspunkt für die lokale Wirtschaft der North Bank Region. Geographie K8 — Wirtschaftshistorische Entwicklung von Agrarzentren.",
+      "factsAdvanced": ["Bedeutender ehemaliger Erdnuss-Verladehafen.", "Liegt in einer malerischen Hügellandschaft.", "Historische Handelsstadt am Nordufer.", "Wichtiger Bezugspunkt für die lokale Wirtschaft.", "Architektonische Spuren der Kolonialzeit.", "Einst florierender Handelsplatz.", "Kulturelles Erbe des Erdnussanbaus."]
+    },
+    {
+      "id": "kuntaur-cities-v2",
+      "descriptionAdvanced": "Kuntaur liegt strategisch am Gambia-Fluss und dient als Tor zum River Gambia National Park. Die Stadt war historisch gesehen ein Zentrum für den Erdnusshandel und hat sich heute zu einem beliebten Ausgangspunkt für Reisende entwickelt, die in den Nationalpark wollen. Die atemberaubende Natur entlang des Flusses macht Kuntaur zu einem wichtigen Ort für ökologischen Tourismus. Als Standort großer Handelsaktivitäten bietet die Stadt Einblicke in die logistischen Prozesse des Binnenschifffahrtstransports auf einem der wichtigsten Flüsse Afrikas. Ökologie K7 — Schutzgebiete und Flussökosysteme.",
+      "factsAdvanced": ["Tor zum River Gambia National Park.", "Großer Erdnuss-Großhandelspunkt.", "Startpunkt für Flusssafaris.", "Bedeutendes Zentrum für den Binnenschifffahrtshandel.", "Nähe zur geschützten Flussnatur.", "Wichtige logistische Rolle im Landesinneren.", "Attraktion für Naturtouristen."]
+    },
+    {
+      "id": "bwiam-cities-v2",
+      "descriptionAdvanced": "Bwiam ist eine wichtige Stadt in der West Coast Region und dient als zentrales Bildungs- und Gesundheitszentrum für die umliegende ländliche Bevölkerung. Das St. Edward's Krankenhaus in Bwiam ist eine unverzichtbare medizinische Einrichtung, die Patienten aus einem weiten Einzugsgebiet betreut. Die Stadt spielt zudem eine wichtige Rolle im Bildungssektor der Region, indem sie Bildungsangebote für die Jugend aus den umliegenden Dörfern bereitstellt. Mit seiner Kombination aus medizinischer Versorgung und Bildungsinfrastruktur ist Bwiam ein Stabilitätsanker für die gesamte Foni-Region. Sozialkunde K7 — Soziale Infrastruktur in ländlichen Räumen.",
+      "factsAdvanced": ["Standort des St. Edward's Krankenhauses.", "Zentrales Bildungszentrum für die Region.", "Wichtiger Stabilitätsanker für die Foni-Region.", "Medizinische Versorgung für weites Einzugsgebiet.", "Zentraler Anlaufpunkt für Bildungsfragen.", "Wichtige soziale Infrastruktur.", "Verkehrsgünstige Anbindung innerhalb der Region."]
+    },
+    {
+      "id": "sibanor-cities-v2",
+      "descriptionAdvanced": "Sibanor ist ein zentraler Handelsort entlang der South Bank Road und fungiert als Knotenpunkt für den Distrikt Foni Bintang-Karanai. Bekannt ist der Ort vor allem für seine medizinischen Einrichtungen, insbesondere die Sibanor Health Clinic, die für die Anwohner von großer Bedeutung ist. Durch die Lage an einer der wichtigsten Verkehrsachsen Gambias profitiert Sibanor von regem Handel und dem ständigen Austausch von Waren zwischen der Küste und den östlichen Landesteilen. Der Ort ist ein Beispiel für eine moderne Siedlungsstruktur, die Dienstleistungen und lokalen Handel erfolgreich miteinander verbindet. Gesundheit K6 — Regionale Gesundheitsversorgung.",
+      "factsAdvanced": ["Zentrum des Distrikts Foni Bintang-Karanai.", "Standort der Sibanor Health Clinic.", "Wichtiger Handelsort an der South Bank Road.", "Knotenpunkt für lokale Dienstleistungen.", "Profitiert vom Fernverkehr zwischen Küste und Osten.", "Wichtige Anlaufstelle für Patienten aus der Region.", "Moderne Siedlungsstruktur."]
+    },
+    {
+      "id": "busumbala-cities-v2",
+      "descriptionAdvanced": "Busumbala ist eine rasant wachsende Siedlung in der West Coast Region, die aufgrund ihrer günstigen Lage an der Hauptstraße nach Brikama immer mehr an Bedeutung gewinnt. Die Stadt beherbergt die Busumbala Football Academy, was die wachsende Begeisterung für den Sport in Gambia widerspiegelt und die lokale Jugend fördert. Durch die enorme urbane Expansion der letzten Jahre ist Busumbala zu einem integralen Teil der Metropolregion geworden, in der Menschen leben, die in Serekunda oder Banjul arbeiten. Busumbala ist ein Symbol für die moderne urbane Entwicklung Gambias. Sport/Soziales K5 — Jugendarbeit und Sportförderung.",
+      "factsAdvanced": ["Heimat der Busumbala Football Academy.", "Symbol für modernes urbanes Wachstum.", "Wichtiger Standort für Pendler.", "Günstige Lage an der Hauptverkehrsstraße.", "Dynamische Entwicklung der letzten Jahre.", "Wichtiger Ort für Jugendförderung durch Sport.", "Infrastruktureller Wandel in der Region."]
+    }
+  ]
+}

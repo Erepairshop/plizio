@@ -24,7 +24,14 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Zsiráfok otthona", "Fontos védett terület Maliban", "Nyugat-afrikai vadon élő állatok", "Változatos ökoszisztéma"],
       ro: ["Acasă pentru girafe", "Zonă protejată importantă în Mali", "Animale sălbatice din Africa de Vest", "Ecosistem diversificat"],
       en: ["Home to giraffes", "Important protected area in Mali", "West African wildlife", "Diverse ecosystem"]
-    }, image: "/poi-images/boucle-du-baoule-life-v2.webp"},
+    }, image: "/poi-images/boucle-du-baoule-life-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Baoulé-kanyar Nemzeti Park (Boucle du Baoulé) Mali egyik legfontosabb természetvédelmi területe, amely a Baoulé folyó kanyarulatában fekszik Bamakótól északnyugatra. A park különlegessége a változatos ökoszisztémája, ahol a száraz szavannák és a folyóparti erdők találkoznak, menedéket nyújtva antilopoknak, zsiráfoknak és számos madárfajnak. A terület nemcsak természeti, hanem régészeti szempontból is kiemelkedő, hiszen több mint 200 prehisztorikus sziklarajz és barlangrajz található itt, amelyek az ősi közösségek életéről tanúskodnak. A park az UNESCO Bioszféra-rezervátum része, és kulcsfontosságú a Száhel-övezet biodiverzitásának megőrzésében. Természetismeret K7 — nemzeti parkok és bioszféra-rezervátumok."
+    },
+    factsAdvanced: {
+      hu: ["Mali egyik legnagyobb nemzeti parkja és bioszféra-rezervátuma", "A Baoulé folyó kanyarulatában fekszik", "Híres a prehisztorikus sziklarajzairól", "Változatos szavannai és folyóparti élőhelyek", "Veszélyeztetett fajok, mint a nyugat-afrikai zsiráf otthona", "UNESCO védelmet élvező terület", "Fontos kutatóhely a régészek és biológusok számára"]
+    }
+  },
   {
     id: "office-du-niger-life-v2",
     type: "agriculture",
@@ -47,7 +54,14 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Rizstermesztési központ", "Nagy öntözőrendszer", "Fontos az élelmezésbiztonság szempontjából", "A Niger folyónál fekszik"],
       ro: ["Centrul cultivării orezului", "Sistem mare de irigații", "Important pentru securitatea alimentară", "Situat pe râul Niger"],
       en: ["Rice cultivation center", "Large irrigation system", "Important for food security", "Located on the Niger River"]
-    }, image: "/poi-images/office-du-niger-life-v2.webp"},
+    }, image: "/poi-images/office-du-niger-life-v2.webp",
+    descriptionAdvanced: {
+      hu: "Az Office du Niger Nyugat-Afrika egyik legnagyobb és legambiciózusabb öntözési projektje, amely a Niger folyó vizét használja fel a sivatagi területek mezőgazdasági hasznosítására. A francia gyarmati időkben indított vállalkozás ma Mali 'éléskamrája', ahol több tízezer hektáron rizst, cukornádat és zöldségeket termesztenek. A projekt egy bonyolult csatornahálózatra épül, amelynek központja a Markala-gát. Az Office du Niger nemcsak gazdasági egység, hanem egy különleges életforma is, ahol a gazdák generációi tanulták meg a vízszabályozás és a modern földművelés fortélyait, biztosítva az ország élelmezését. Mezőgazdaság K6 — nagyméretű öntözési rendszerek."
+    },
+    factsAdvanced: {
+      hu: ["Nyugat-Afrika legnagyobb öntözőrendszere", "Mali rizstermelésének fő forrása", "A Niger folyó vizét hasznosító csatornahálózat", "A gyarmati időkben, 1932-ben alapították", "Több mint 100 000 hektárnyi megművelt terület", "Ségou régió gazdaságának alapköve", "Kulcsszerepet játszik Mali élelmiszer-önrendelkezésében"]
+    }
+  },
   {
     id: "bamako-zoo-life-v2",
     type: "kid-landmark",
@@ -70,7 +84,14 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Családbarát hely", "Mali őshonos élővilága", "Oktatási lehetőségek gyerekeknek", "Zöld oázis a városban"],
       ro: ["Popular în rândul familiilor", "Fauna nativă a Maliului", "Oportunități educaționale pentru copii", "Oază verde în oraș"],
       en: ["Popular with families", "Mali's native wildlife", "Educational offerings for kids", "Green oasis in the city"]
-    }, image: "/poi-images/bamako-zoo-life-v2.webp"},
+    }, image: "/poi-images/bamako-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Bamakói Állatkert (Parc Zoologique de Bamako) a főváros szívében, a Nemzeti Park és a botanikus kert szomszédságában található, és fontos szerepet játszik a környezeti nevelésben és a szabadidő eltöltésében. A modernizált állatkertben Mali és a környező régiók jellegzetes állatfajai láthatók, többek között oroszlánok, vízilovak, krokodilok és számtalan egzotikus madár. A zoo tágas és természetközeli kifutói igyekeznek bemutatni az afrikai vadvilág szépségét a városi környezetben. Az állatkert a családok és iskolás csoportok kedvelt célpontja, ahol a gyerekek megismerhetik országuk természeti örökségét és a vadon élő állatok védelmének fontosságát. Természetismeret K7 — állatkertek és fajmegőrzés."
+    },
+    factsAdvanced: {
+      hu: ["Mali legfontosabb állatkertje a fővárosban", "A Nemzeti Park területén, dús vegetációban fekszik", "Bemutatja Nyugat-Afrika jellegzetes vadvilágát", "Fontos oktatási és fajmegőrzési központ", "Modernizált kifutók és látogatói központ", "Közösségi és szabadidős találkozóhely Bamakóban", "A biológiai sokféleség népszerűsítésének színhelye"]
+    }
+  },
   {
     id: "delta-interieur-niger-life-v2",
     type: "animal-habitat",
@@ -93,7 +114,14 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Fontos a költözőmadaraknak", "Gigantikus vizes élőhely", "Halban gazdag ökoszisztéma", "Szezonális áradások"],
       ro: ["Important pentru păsările migratoare", "Zonă umedă gigantică", "Ecosistem bogat în pești", "Inundații sezoniere"],
       en: ["Important for migratory birds", "Gigantic wetland", "Fish-rich ecosystem", "Seasonal floods"]
-    }, image: "/poi-images/delta-interieur-niger-life-v2.webp"},
+    }, image: "/poi-images/delta-interieur-niger-life-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Niger belső deltája a világ egyik legnagyobb és legkülönlegesebb vizes élőhelye Mali középső részén, ahol a folyó számtalan ágra, mocsárra és tóra válik szét. Ez a hatalmas terület az esős évszakban víz alá kerül, létrehozva egy 'belső tengert', amely alapvetően meghatározza a régió életmódját. A delta a halászat, a rizstermesztés és az állattenyésztés (transzhumálás) paradicsoma, ahol a bozo halászok és fulani pásztorok évezredes ritmusban követik az áradásokat. Mint Ramsari terület, a delta világszinten is kiemelkedő fontosságú a vándormadarak számára, és Mali biodiverzitásának legfőbb őrzője. Földrajz K7 — vizes élőhelyek és ártéri gazdálkodás."
+    },
+    factsAdvanced: {
+      hu: ["A világ egyik legnagyobb belső folyódeltája", "UNESCO Ramsari vizes élőhely", "Kulcsfontosságú a halászat és az állattenyésztés szempontjából", "Milliárdnyi vándormadár pihenőhelye", "Évente bekövetkező hatalmas áradások alakítják", "Bozo, fulani és bambara közösségek otthona", "Mali gazdasági és ökológiai motorja"]
+    }
+  },
   {
     id: "bafing-faunal-reserve-life-v2",
     type: "animal-habitat",
@@ -116,7 +144,14 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Csimpánzok védelme", "Fontos védett terület", "Nyugat-afrikai növényvilág", "Természetközeli vadon"],
       ro: ["Protecție pentru cimpanzei", "Zonă protejată importantă", "Floră vest-africană", "Sălbăticie naturală"],
       en: ["Protection for chimpanzees", "Important protected area", "West African flora", "Natural wilderness"]
-    }, image: "/poi-images/bafing-faunal-reserve-life-v2.webp"},
+    }, image: "/poi-images/bafing-faunal-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Bafing Vadrezervátum Mali nyugati részén, a Bafing folyó felső folyásánál található, és az ország egyik legfontosabb menedékhelye a veszélyeztetett nyugat-afrikai csimpánzok számára. A rezervátum dús galériaerdői és sziklás hegyei háborítatlan élőhelyet biztosítanak a főemlősöknek és más vadon élő állatoknak, mint a leopárdoknak és antilopoknak. A terület része a nemzetközi természetvédelmi hálózatnak, és kulcsszerepet játszik a Maliban még fennmaradt erdős ökoszisztémák megőrzésében. A Bafing-rezervátum látogatása komoly kalandot jelent, és rávilágít az ember és a természet közötti kényes egyensúly fenntartásának szükségességére. Természetismeret K7 — csimpánzok és erdővédelem Afrikában."
+    },
+    factsAdvanced: {
+      hu: ["A nyugat-afrikai csimpánzok egyik utolsó menedéke", "A Bafing folyó mentén, Kayes régióban fekszik", "Fontos erdős és hegyvidéki vadrezervátum", "Nemzetközi jelentőségű fajmegőrzési terület", "Gazdag biodiverzitású galériaerdők jellemzik", "A Manantali-gát vízbázisának védelmét is szolgálja", "Kiemelkedő szerepe van a környezeti nevelésben"]
+    }
+  },
   {
     id: "gourma-elephant-habitat-life-v2",
     type: "animal-habitat",
@@ -139,7 +174,14 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Ritka sivatagi elefántok", "Túlélés száraz területeken", "Erős alkalmazkodóképesség", "Tudományosan jelentős"],
       ro: ["Elefanți deșertici rari", "Supraviețuire în zone aride", "Adaptabilitate puternică", "Semnificație științifică"],
       en: ["Rare desert elephants", "Survival in arid regions", "Strong adaptability", "Scientifically significant"]
-    }, image: "/poi-images/gourma-elephant-habitat-life-v2.webp"},
+    }, image: "/poi-images/gourma-elephant-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      hu: "A Gourma-elefántok élőhelye Mali északi részén, a Szahara szélén található, és a világ legészakibb elefántpopulációjának ad otthont. Ezek a különleges állatok évente több száz kilométert vándorolnak a sivatagi kutak és időszakos tavak között, ami az egyik leghosszabb rögzített elefántvándorlás a világon. Az elefántok alkalmazkodtak a szélsőséges szárazsághoz és hőséghez, de fennmaradásukhoz elengedhetetlen a helyi tuareg és fulani közösségekkel való békés együttélés. A Gourma-régió védelme nemzetközi prioritás, mivel az elefántok jelenléte a sivatagi ökoszisztéma egészségének legfőbb indikátora. Természetismeret K7 — sivatagi állatvilág és vándorlási útvonalak."
+    },
+    factsAdvanced: {
+      hu: ["A világ legészakibb vadon élő elefántpopulációja", "Évente több mint 600 kilométeres vándorutat tesznek meg", "A Szahara és a Száhel találkozásánál élnek", "Alkalmazkodtak a szélsőséges hőséghez és vízhiányhoz", "Nemzetközi természetvédelmi programok fókusza", "Gao és Timbuktu régiók határán található", "Az elefántok és a pásztorok békés együttélésének példája"]
+    }
+  },
   {
     id: "sibi-agricultural-zone-life-v2",
     type: "agriculture",

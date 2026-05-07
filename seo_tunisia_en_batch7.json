@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "carthage-cities-v2",
+      "descriptionAdvanced": "Carthage is an iconic historical metropolis that once stood as the rival of Rome and a dominant maritime power in the Mediterranean. Today, it is an upscale suburb of Tunis, where modern villas blend with spectacular Punic and Roman archaeological ruins. The site is a UNESCO World Heritage area, attracting visitors eager to walk through history, from the Punic ports to the Antonine Baths. Carthage remains a symbol of North African maritime ambition and enduring historical legacy. Geography K6: The rise and fall of ancient maritime empires and their impact on modern landscape patterns.",
+      "factsAdvanced": [
+        "Former dominant maritime power of antiquity",
+        "UNESCO World Heritage archaeological site",
+        "Now an upscale residential suburb of Tunis",
+        "Home to the ancient Punic harbor remains",
+        "Famous for the Roman Antonine Baths",
+        "Eternal rival of ancient Rome"
+      ]
+    },
+    {
+      "id": "sidi-bou-said-cities-v2",
+      "descriptionAdvanced": "Sidi Bou Said is a picturesque village situated on a high cliff overlooking the Mediterranean, renowned for its stunning blue-and-white architecture. Its narrow streets and vibrant bougainvillea have long attracted artists, writers, and musicians from around the world, earning it the reputation as a sanctuary for North African bohemia. The village offers unparalleled views of the Gulf of Tunis and represents the height of traditional Tunisian seaside aesthetics. It is a quintessential destination for visitors seeking historical charm and aesthetic beauty. Geography K7: The role of aesthetic landscapes and artistic communities in tourism-led urban preservation.",
+      "factsAdvanced": [
+        "Famous for iconic blue-and-white architecture",
+        "Perched high on a cliff overlooking the sea",
+        "Renowned sanctuary for international artists",
+        "Offers unparalleled views of Gulf of Tunis",
+        "Quintessential historic seaside village",
+        "Center of traditional Tunisian aesthetics"
+      ]
+    },
+    {
+      "id": "rads-cities-v2",
+      "descriptionAdvanced": "Radès is a significant coastal city and port located near the capital, Tunis, playing a crucial role in the country’s maritime logistics and industrial infrastructure. As the primary port for container traffic, it is the logistical heart of the greater metropolitan area. Radès also features urban residential districts and modern industrial zones, showcasing the practical side of North African economic growth. It represents the functional, industrial backbone that supports the trade and development of the national capital. Geography K7: The study of port-city functionality and industrial logistics in modern metropolitan areas.",
+      "factsAdvanced": [
+        "Vital center for maritime logistics",
+        "Primary port for Tunisian container traffic",
+        "Logistical backbone of Greater Tunis",
+        "Combines urban living with industrial zones",
+        "Key driver of regional commercial trade",
+        "Supports the capital's modern growth"
+      ]
+    },
+    {
+      "id": "la-goulette-cities-v2",
+      "descriptionAdvanced": "La Goulette is the historic harbor of Tunis, famously known for its vibrant multicultural history, bustling seafood restaurants, and as the traditional port for ferry travel between Tunisia and Europe. The city has long been a culinary destination, celebrated for its Mediterranean cuisine and lively coastal atmosphere. With its mix of historic fortifications and maritime energy, La Goulette acts as the primary maritime gateway connecting the capital to the wider world. Geography K7: Examining the cultural significance of maritime gateways and their evolution into culinary tourism centers.",
+      "factsAdvanced": [
+        "Historic harbor town serving Tunis",
+        "Famous culinary destination for seafood",
+        "Primary ferry gateway to Europe",
+        "Multicultural historic atmosphere",
+        "Features remnants of ancient harbor defenses",
+        "Lively coastal leisure destination"
+      ]
+    },
+    {
+      "id": "hammam-lif-cities-v2",
+      "descriptionAdvanced": "Hammam-Lif is a charming seaside town located at the foot of Boukornine mountain, known for its mild coastal climate and historic thermal baths. Historically a vacation spot for the Tunisian aristocracy and elite, the city preserves a nostalgic, relaxed coastal character. Its proximity to the mountain and the sea creates a unique microclimate that has been prized for centuries. Hammam-Lif remains a pleasant residential and leisure destination within the greater metropolitan orbit of Tunis. Geography K8: The evolution of coastal leisure towns and the legacy of therapeutic tourism infrastructure.",
+      "factsAdvanced": [
+        "Located between mountain and sea",
+        "Famous for historic therapeutic thermal baths",
+        "Former aristocratic vacation retreat",
+        "Preserves a nostalgic coastal character",
+        "Gateway to Boukornine National Park",
+        "Pleasant residential seaside town"
+      ]
+    }
+  ]
+}

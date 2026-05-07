@@ -1,0 +1,12 @@
+{
+  "lang": "ro",
+  "country": "angola",
+  "files": ["lib/visualLab/data/poiExtraAngolaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "luanda-cities-v2",
+      "descriptionAdvanced": "TEST ROMANIAN TEXT FOR LUANDA",
+      "factsAdvanced": ["FACT 1", "FACT 2"]
+    }
+  ]
+}

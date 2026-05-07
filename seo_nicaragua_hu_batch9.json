@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-el-chile-coffee-farm-life-v2",
+      "descriptionAdvanced": "Az El Chile kávéfarm és falu Matagalpa hegyei között fekszik, és egyedülálló módon ötvözi a kávétermesztést az őslakos kézművességgel. A település lakói főként az ősi matagalpa etnikum leszármazottai. Míg a férfiak a meredek hegyoldalakon a kávécserjéket gondozzák, a nők egy csoportja (Grupo de Mujeres Tehedoras de El Chile) a hagyományos szövés művészetét élesztette újjá. Hátipántos szövőszékeken (telar de cintura) készítenek gyönyörű, színes pamut táskákat, hátizsákokat és ruhákat, amelyeket a kávéfarm látogatóinak értékesítenek, így biztosítva a közösség gazdasági függetlenségét. Történelem K6 — őslakos kézművesség és női szövetkezetek.",
+      "factsAdvanced": [
+        "A hagyományos szövés mesterségét az 1980-as években argentin önkéntesek segítségével támasztották fel.",
+        "A falu mintegy 900 méteres tengerszint feletti magasságban, hűvös klímában fekszik.",
+        "A kávét apró parcellákon, vegyszerek nélkül (organikusan) termesztik.",
+        "A helyiek által beszélt matagalpa nyelv (Cacaopera) sajnos a 19. század végén kihalt.",
+        "A szövetkezet női tagjai maguk festik a pamutfonalakat természetes anyagokkal.",
+        "A farmra vezető út nehezen járható, gyakran sár és köd nehezíti a megközelítést."
+      ]
+    },
+    {
+      "id": "hacienda-merida-ometepe-life-v2",
+      "descriptionAdvanced": "A Hacienda Mérida az Ometepe-szigeten, a Maderas vulkán lábánál fekvő történelmi birtok, amely egykor Nicaragua legnagyobb kávé- és szarvasmarha-haciendája volt a Somoza-család tulajdonában. A forradalom után az elhagyatott birtokot egy nicaraguai család vásárolta meg, és az ország egyik legismertebb ökoturisztikai központjává alakította. A Hacienda híres a társadalmi felelősségvállalásról: saját kétnyelvű (angol-spanyol) iskolát (Ometepe Bilingual School) működtet a helyi gyerekeknek, amit a turizmusból és az önkéntesek munkájából tartanak fenn. Épületeik egy részét műanyag palackokba tömött szemétből (ecobricks) építették. Földrajz K7 — fenntartható turizmus és oktatás.",
+      "factsAdvanced": [
+        "Az 1950-es években a birtokon saját repülőtér és kikötő is volt a kávé szállítására.",
+        "A műanyag palackokból épült falak (ecobricks) szigetelése és földrengés-állósága kiváló.",
+        "A Hacienda közvetlenül a Nicaragua-tó partján fekszik, kajakozási lehetőséget nyújtva a Rio Istián mangrovéihoz.",
+        "A helyi iskola több mint 200 vidéki gyereknek biztosít ingyenes oktatást és étkezést.",
+        "A birtokon tartják a híres Ometepe-i holdséta (Full Moon Walk) rendezvényeket.",
+        "Saját, farmon termesztett élelmiszereket (macadamia dió, méz) szolgálnak fel a vendégeknek."
+      ]
+    },
+    {
+      "id": "parque-saurio-nindiri-life-v2",
+      "descriptionAdvanced": "A Nindirí Dinoszaurusz Park (Parque Saurio) egy egyedülálló, családok és gyerekek számára épült témapark Masaya megyében, Nindirí kisvárosában. A 2016-ban megnyitott szabadtéri park egy trópusi ligetben helyezkedik el, ahol több mint tucatnyi, életnagyságú (és olykor mozgó, hangot adó) dinoszauruszszobrot (T-Rex, Triceratops, Brontosaurus) állítottak fel. A park nemcsak szórakoztatási célokat szolgál, hanem oktatási funkciója is van az őslénytan (paleontológia) iránt érdeklődő fiatalok számára. A szépen parkosított terület, a biztonság és az ingyenes belépés miatt a környékbeliek kedvenc hétvégi kirándulóhelye. Földrajz K6 — közösségi terek és tematikus parkok.",
+      "factsAdvanced": [
+        "A parkot Nindirí önkormányzata finanszírozta a helyi turizmus fellendítése érdekében.",
+        "Több mint 300 fát ültettek el a szobrok köré, hogy 'jura kori' dzsungelhangulatot teremtsenek.",
+        "A szobrok egy részét üvegszálból (fiberglass) készítették helyi nicaraguai művészek.",
+        "A park éjszakai kivilágítást is kapott, így sötétedés után is látogatható.",
+        "A belépés teljesen ingyenes a látogatók számára.",
+        "Nindirí városának főterétől mindössze néhány sarokra található."
+      ]
+    },
+    {
+      "id": "el-ojo-de-agua-ometepe-life-v2",
+      "descriptionAdvanced": "Az Ojo de Agua (A Víz Szeme) egy kristálytiszta vizű, természetes medence az Ometepe-szigeten, a Concepción és a Maderas vulkánok közötti földszoroson. A medencét földalatti, vulkanikus források táplálják; a víz folyamatosan áramlik a földből a közeli Nicaragua-tó felé, így mindig tiszta és frissítő. A sűrű trópusi erdővel (főleg platán- és mangófákkal) körülvett, kövekkel kirakott medencék a sziget legnépszerűbb fürdőzőhelyei. A víz ásványi anyagokban (különösen magnéziumban) gazdag, amit a helyiek gyógyító hatásúnak tartanak. Földrajz K6 — vulkanikus források és ökoturizmus.",
+      "factsAdvanced": [
+        "A medence vízhőmérséklete egész évben kellemes 24-26 °C között mozog.",
+        "A terület magántulajdonban van (Finca Ojo de Agua), és belépődíjat szednek.",
+        "A víz folyamatos cserélődése miatt sosem algásodik el a medence.",
+        "A környező fák ágain gyakran láthatók ugráló kapucinus majmok (monos carablanca).",
+        "A medencék alját vulkáni homok és kövek borítják.",
+        "A helyiek úgy tartják, a víz megfiatalít (a fiatalság forrása)."
+      ]
+    },
+    {
+      "id": "reserva-silvestre-privada-el-tesoro-life-v2",
+      "descriptionAdvanced": "Az El Tesoro (A Kincs) Magán Vadvédelmi Terület egy viszonylag új ökológiai projekt a csendes-óceáni partvidék száraz trópusi erdeiben. Hasonlóan a Domitila rezervátumhoz, ez is egy magánkézben lévő farm, amelyet a tulajdonosok visszaadtak a természetnek. A terület célja a végveszélybe került csendes-óceáni száraz erdők növény- és állatvilágának megőrzése, különös tekintettel a ritka madárfajokra és a kisméretű ragadozókra (ocelotok, margayok). A rezervátumban madármegfigyelő túrákat, éjszakai szafarikat és környezetvédelmi oktatást tartanak a helyi iskolásoknak, hogy felhívják a figyelmet az erdőirtás veszélyeire. Földrajz K7 — magán természetvédelem és száraz erdők.",
+      "factsAdvanced": [
+        "A csendes-óceáni száraz erdők Közép-Amerika legveszélyeztetettebb ökoszisztémái (az eredeti terület kevesebb mint 2%-a maradt fenn).",
+        "A fák a hat hónapos száraz évszakban ledobják leveleiket, így az erdő 'halottnak' tűnik, majd az első esőre kizöldül.",
+        "A terület fenntartását az ökoturizmusból származó bevételekből finanszírozzák.",
+        "A vadkamerák (cámaras trampa) rendszeresen rögzítenek ritka ragadozókat a területen.",
+        "Számos olyan gyógynövény található itt, amelyet az őslakosok évszázadok óta használnak.",
+        "A rezervátum határain belül tilos a vadászat és a favágás."
+      ]
+    },
+    {
+      "id": "finca-el-paraiso-boaco-life-v2",
+      "descriptionAdvanced": "A Finca El Paraíso egy hagyományos mezőgazdasági birtok (hacienda) Boaco megye dombvidékén, amely az elmúlt években megnyitotta kapuit az agroturizmus előtt. A birtok a 'Kétszintes Város' (Boaco) közelében fekszik, és bemutatja a nicaraguai tanyasi élet (vida campestre) minden aspektusát. A látogatók részt vehetnek a hajnali tehénfejésben, a hagyományos chontalesi sajt (queso) és cuajada (túró) elkészítésében, valamint a lovaglásban. A farmot buja, zöld legelők, gyümölcsfák és kisebb folyók övezik, valódi paradicsomi nyugalmat kínálva a városból érkezőknek. Földrajz K6 — tejipari tanyák és agroturizmus.",
+      "factsAdvanced": [
+        "Boaco és Chontales megyék adják Nicaragua tej- és hústermelésének nagy részét.",
+        "A sajtkészítés folyamata generációk óta szinte változatlan a régióban.",
+        "A farmon a vendégek megkóstolhatják a friss, meleg tejből készült 'leche agria'-t.",
+        "A birtokon számos lovas ösvény (senderos ecuestres) található a dombok között.",
+        "A tengerszint feletti magasság (kb. 500m) miatt a reggelek frissek és hűvösek.",
+        "A tradicionális nicaraguai reggeli (gallo pinto, sajt, tortilla) a farm mindennapjainak része."
+      ]
+    },
+    {
+      "id": "centro-turistico-xiloa-life-v2",
+      "descriptionAdvanced": "A Xiloá Turisztikai Központ (Centro Turístico Xiloá) Managuától mindössze 20 kilométerre északnyugatra található. A központ a festői, kör alakú Xiloá krátertó (Laguna de Xiloá) partján fekszik, az Apoyeque vulkáni komplexumban. Kénes, tiszta vize miatt – amely a közhiedelem szerint gyógyhatású – a tó a fővárosiak (capitalinos) legnépszerűbb hétvégi fürdőhelye, különösen a forró, száraz hónapokban. A partot éttermek (comedores), piknikezőhelyek és bárok szegélyezik. Mélysége és meredek vulkáni falai miatt a tó kedvelt a búvárok körében is, akik különleges, endemikus (csak itt élő) sügérfajokat (cichlids) tanulmányozhatnak. Földrajz K7 — krátertavak és belföldi turizmus.",
+      "factsAdvanced": [
+        "A Xiloá-lagúna az Apoyeque vulkán egyik robbanási kráterében (maar) alakult ki.",
+        "A tó vize enyhén sós és kénes, de teljesen fürdésre alkalmas.",
+        "Maximális mélysége eléri a 89 métert.",
+        "Több mint tucatnyi endemikus (csak ebben a tóban élő) halfaj (cichlidae) található benne.",
+        "Az 1970-es években az 'El Cachorro' étterem volt a tópart leghíresebb találkozóhelye.",
+        "Húsvét (Semana Santa) alatt a látogatók száma megsokszorozódik, hatalmas partikat tartanak."
+      ]
+    },
+    {
+      "id": "parque-acuatico-salvador-allende-life-v2",
+      "descriptionAdvanced": "A Salvador Allende Vízipark a Managua-tó partján elterülő, népszerű Paseo Xolotlán / Puerto Salvador Allende komplexum legújabb és legmodernebb családi attrakciója. A színes vízicsúszdákkal, kalózhajókkal és hatalmas, leboruló vizesvödrökkel felszerelt sekély medencék tökéletes menedéket nyújtanak Managua állandó hősége ellen. A parkot a nemzetközi szabványoknak megfelelően építették, víztisztító rendszerekkel, mivel a szomszédos tó vize egyelőre nem alkalmas fürdésre. A létesítmény hozzájárult ahhoz, hogy a korábban elkerült tópart a főváros legnyüzsgőbb közösségi és rekreációs központjává váljon. Földrajz K6 — városi rekreáció és víziparkok.",
+      "factsAdvanced": [
+        "A park megépítése a kormányzat átfogó, a Managua-tó (Xolotlán) partját rehabilitáló projektjének része volt.",
+        "Kapacitása mintegy 1000 látogató egyidejű fogadása.",
+        "A vízmélység szándékosan alacsony (0,5 méter alatt), hogy biztonságos legyen a kisgyerekek számára.",
+        "Az éjszakai kivilágításnak köszönhetően sötétedés után is nyitva tart.",
+        "A belépődíj erősen támogatott, hogy a szegényebb családok számára is elérhető legyen.",
+        "A medencékből közvetlen kilátás nyílik a Momotombo vulkánra a tó túlpartján."
+      ]
+    },
+    {
+      "id": "finca-san-juan-de-la-isla-ometepe-life-v2",
+      "descriptionAdvanced": "A Finca San Juan de la Isla egy gyönyörűen restaurált, 19. századi agrár-birtok az Ometepe-szigeten, közvetlenül a Nicaragua-tó (Cocibolca) partján, a Santo Domingo-i földszoros mentén. A birtok több mint száz éven át a sziget egyik legfontosabb kávé- és gyümölcstermelő farmja volt. Ma luxus ökolodge, de a birtok egy részén (közel 160 hektáron) továbbra is organikus módon termesztenek banánt és tartanak szarvasmarhákat. A hagyományos gyarmati stílusú faépületek, a hosszú, pálmafás, homokos strand és az elképesztő kilátás a Concepción vulkánra a sziget egyik legelegánsabb szálláshelyévé teszik. Földrajz K7 — tóparti haciendák és ökoturizmus.",
+      "factsAdvanced": [
+        "Az eredeti fa hacienda-épületet (La Casona) gondosan restaurálták a 19. századi stílusban.",
+        "A farmhoz tartozó Santo Domingo strand Ometepe leghosszabb vulkáni homokos partja.",
+        "A birtok egy része érintetlen dzsungel, tele bőgőmajmokkal és trópusi madarakkal.",
+        "A tó ezen a részén gyakran tapasztalható erős hullámzás, ami majdnem tengerparti élményt nyújt.",
+        "A farmon a látogatók lóháton járhatják be az ültetvényeket.",
+        "Saját bio-kertet (huerto) tartanak fenn, amely a farm éttermét látja el zöldségekkel."
+      ]
+    },
+    {
+      "id": "reserva-natural-volcan-cosiguina-fauna-life-v2",
+      "descriptionAdvanced": "A Cosigüina Vulkán Természetvédelmi Terület Chinandega megye legészakibb, a Fonseca-öbölbe nyúló félszigetén található. A vulkán 1835-ben a történelem egyik legnagyobb kitörését produkálta, aminek következtében a hegy felső harmada megsemmisült. Ma az alacsony, széles kráter pereméről három ország (Nicaragua, Honduras, El Salvador) látható. A vulkán lankáin az ország egyik legfontosabb száraz trópusi erdeje regenerálódott, amely gazdag állatvilágnak – köztük pókmajmoknak, pumáknak és a ritka sárgatarkójú amazon (lora nuca amarilla) papagájnak – ad otthont. A kráter alján egy smaragdzöld tó alakult ki. Földrajz K8 — vulkáni katasztrófák és száraz erdők élővilága.",
+      "factsAdvanced": [
+        "Az 1835-ös kitörés hamuja Mexikóig és Kolumbiáig is eljutott (Krakatau-léptékű robbanás volt).",
+        "A hegy eredeti magassága becslések szerint meghaladta a 2000 métert, ma csak 872 méter.",
+        "A krátertó megközelíthetetlen, 500 méter mély, meredek sziklafalak veszik körül.",
+        "A terület Nicaragua legmelegebb és legszárazabb régiói közé tartozik.",
+        "Az illegális papagájbefogás és erdőirtás a rezervátum legnagyobb veszélyforrásai.",
+        "A csúcsra vezető meredek ösvény megtétele sűrű dzsungelen keresztül vezet."
+      ]
+    },
+    {
+      "id": "tortugas-marinas-isla-juan-venado-life-v2",
+      "descriptionAdvanced": "A Juan Venado-sziget (Isla Juan Venado) Természetvédelmi Terület egy 22 kilométer hosszú, keskeny (gyakran csak 200 méter széles) lakatlan sziget a csendes-óceáni partvidéken, León megyében, Poneloya és Salinas Grandes között. A sziget és a szárazföld között húzódó mangrove-lagúna Közép-Amerika egyik legfontosabb vizes élőhelye, krokodilok, iguanák és vízimadarak (gémek, kócsagok) ezreinek otthona. A sziget igazi vonzereje azonban a tengerpartja, ahol augusztustól decemberig ezrével rakják le tojásaikat az olajzöld fattyúteknősök. A helyi közösségek keltetőket (viveros) tartanak fenn, hogy megvédjék a tojásokat az orvvadászoktól és a dagálytól. Földrajz K7 — mangrove szigetek és teknősmentés.",
+      "factsAdvanced": [
+        "A szigeten nincsenek épületek, csak hajóval vagy kajakkal látogatható a lagúnán keresztül.",
+        "A teknőstojásokat (huevos de paslama) helyiek gyűjtik be és védett keltetőkbe ássák el újra.",
+        "A kikelő kisteknősök 45-50 nap után bújnak ki, és a turisták segíthetnek a tengerbe juttatásukban.",
+        "A sziget nevét egy Juan Venado nevű 19. századi szarvasvadászról kapta.",
+        "A mangrove-csatorna (estero) vizében több méteres amerikai krokodilok élnek.",
+        "A sziget természetes hullámtörőként védi a part menti falvakat a szökőáraktól és viharoktól."
+      ]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "descriptionAdvanced": "A granadai Központi Park (Parque Central, más néven Parque Colón) nemcsak a város történelmi központja, hanem a helyi gyerekek és családok kedvenc találkozóhelye is. A parkot évszázados, terebélyes mangó- és mahagónifák árnyékolják be, megvédve a látogatókat a trópusi naptól. A gyerekek itt futkároznak a zenepavilon (kiosko) körül, vagy lovaskocsikáznak (coches de caballos) a tér körül. A park igazi gasztronómiai élmény is: a helyi árusoknál megkóstolhatják a híres 'vigorónt' (főtt manióka, káposztasaláta és sült disznóbőr banánlevélen) és a tradicionális raspadót (zúzott jég édes sziruppal). Földrajz K6 — gyarmati terek és városi folklór.",
+      "factsAdvanced": [
+        "A park közepén található zenepavilon a 19. századból származik.",
+        "A vigorón állítólag Granadából, egy 'La Loca' nevű asszonytól származik az 1900-as évek elejéről.",
+        "A teret az impozáns sárga-piros katedrális és a Palacio Episcopal (Püspöki Palota) öleli körül.",
+        "Több mint 20 lovaskocsi (coche) áll a park szélén, amelyek turistákat és helyieket szállítanak.",
+        "A park fái között számos mókus és trópusi madár él.",
+        "A tér 1856-ban heves tűzharcok színtere volt a kalózháborúk során."
+      ]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "descriptionAdvanced": "A Finca El Platanal egy kisméretű, hagyományos kakaófarm (cacaotal) a Matagalpa és Waslala közötti esőerdős vidéken. Nicaragua híres a magas minőségű, 'trinitario' és 'criollo' fajtájú kakaóbabjairól, amelyekből a világ legfinomabb kézműves csokoládéit készítik Európában és Amerikában. A farmon a látogatók a 'bablótól a tábláig' (bean to bar) élményt tapasztalhatják meg: megfigyelhetik a kakaógyümölcsök fakörzön (fatörzsön) való növekedését, a babok többnapos fakádakban történő erjesztését (fermentáció), majd a napon történő szárítását és pörkölését. A farm a fenntartható agrárium mintapéldája. Földrajz K7 — kakaótermesztés és kézműves csokoládé.",
+      "factsAdvanced": [
+        "Nicaragua a világ 17 országa között van, amelyet a Nemzetközi Kakaószervezet (ICCO) 100%-ban 'finom aromájú kakaó' (cacao fino de aroma) termelőjeként ismer el.",
+        "A kakaófát mindig magasabb árnyékoló fák (pl. banánfa) alá ültetik.",
+        "Az erjesztés (fermentación) során nyeri el a kakaóbab a jellegzetes csokoládé ízt.",
+        "A nyers kakaóbabokat a helyiek 'fresco de cacao' ital készítésére is használják.",
+        "A farm trópusi, esős klímája elengedhetetlen a kakaócserjék virágzásához.",
+        "A kakaóbab az őslakosok idején (a spanyolok előtt) pénzhelyettesítő eszközként funkcionált."
+      ]
+    },
+    {
+      "id": "hertylandia-amusement-park-life-v2",
+      "descriptionAdvanced": "A Hertylandia Vidámpark Jinotepe (Carazo megye) határában található, és egykor az ország egyik legismertebb szórakoztató központja volt. A parkot a 20. század végén Herty Lewites, a híres nicaraguai politikus és üzletember (Managua volt polgármestere) alapította. A komplexum ötvözte a hagyományos vidámparki elemeket (hullámvasút, körhinták) egy nagy kiterjedésű állatkerttel és víziparkkal. Bár a park az elmúlt évtizedekben veszített egykori fényéből és csillogásából az elmaradt felújítások miatt, a helyiek körében még mindig nosztalgikus emlékeket ébreszt, és a családok kedvelt célpontja a nyári szünetekben. Földrajz K6 — szórakoztatóipar és nosztalgia.",
+      "factsAdvanced": [
+        "A parkot az 1990-es évek elején, a háborús időszak lezárulta után építették fel.",
+        "Nevét alapítójáról, a karizmatikus Herty Lewitesről kapta.",
+        "A komplexum hűvös (Carazo-fennsík) klímája miatt a nyári hónapokban volt a legnépszerűbb.",
+        "Saját, meglehetősen kiterjedt állatkerttel rendelkezett, majmokkal, tigrisekkel és madarakkal.",
+        "A park ikonikus eleme volt a bejáratnál álló nagy kastélyszerű építmény.",
+        "Az üzemeltetési nehézségek ellenére a vízipark része nyaranta ma is gyakran kinyit."
+      ]
+    },
+    {
+      "id": "el-chocoyero-el-brujo-reserve-life-v2",
+      "descriptionAdvanced": "Az El Chocoyero - El Brujo Természetvédelmi Terület Managuától mindössze 30 kilométerre délre fekszik, és egy rejtett, trópusi dzsungel-oázis egy szűk, vulkáni kanyonban. A park nevét két dologról kapta: az 'El Brujo' (A Boszorkánymester) vízesésről, amely a föld alól bukkan elő és gyorsan el is tűnik; valamint a 'chocoyos' (zöld papagájok) hatalmas populációjáról. Minden nap kora reggel és késő délután (naplementekor) zöld papagájok (Chocoyo fensző) ezrei térnek vissza a sziklafalakba vájt fészkeikbe hangos rikoltozással. A park rendkívül fontos vízgyűjtő terület, amely Managua egy részét is ellátja vízzel. Földrajz K7 — vulkáni kanyonok és madárrezervátumok.",
+      "factsAdvanced": [
+        "A rezervátum kiterjedése mindössze 164 hektár, de hihetetlenül gazdag biodiverzitású.",
+        "A sziklafal, ahol a papagájok fészkelnek, vulkáni tufából (puha kőzet) áll, ami megkönnyíti a fészekásást.",
+        "A parkban több mint 100 madárfaj és három majomfaj él.",
+        "Két fő vízesése van: az El Chocoyero és az El Brujo, melyekhez sűrű dzsungelösvények vezetnek.",
+        "A park fő vízforrásai (manantiales) sosem száradnak ki a nyári aszályok idején sem.",
+        "Az éjszakai szafarikon gyakran megfigyelhetők kinkajouk (mézmedvék) és agutik."
+      ]
+    },
+    {
+      "id": "aventura-las-nubes-zipline-life-v2",
+      "descriptionAdvanced": "Az Aventura Las Nubes Zipline (Canopy Tour) Managua legközelebbi és legnépszerűbb extrém kalandparkja, amely a Las Nubes birtokon (El Crucero) helyezkedik el. A drótkötélpálya-hálózat a hűvös hegyvidéki köderdő lombkoronája felett ível át. A kalandorok magas platformokról indulva siklanak a fák között, gyakran szó szerint a felhőkben vagy a sűrű ködben (neblina), miközben alattuk a dús trópusi növényzet és a kávéültetvények húzódnak. Tiszta időben a drótköteleken csúszva páratlan panoráma nyílik a Managua-tóra, a Momotombo vulkánra és a Csendes-óceán partvidékére is. Földrajz K6 — kalandturizmus és erdei rekreáció.",
+      "factsAdvanced": [
+        "A kötélpálya (canopy) mintegy 11 platformot és 10 drótkötelet foglal magába.",
+        "A leghosszabb csúszás több mint 300 méter hosszú a fák felett.",
+        "El Crucero magassága miatt (kb. 900 m) a levegő friss, így a túra a nyári kánikulában is kellemes.",
+        "A pályát svájci és Costa Rica-i biztonsági szabványok szerint építették.",
+        "A túra során az útmutatók bemutatják az erdőben élő bőgőmajmokat és lajhárokat.",
+        "A parkban hagyományos nicaraguai ételeket kínáló étterem (comedor) is üzemel a fák alatt."
+      ]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "descriptionAdvanced": "A La Bomba Ökofarm (Finca Ecológica La Bomba) egy kis léptékű, de annál elkötelezettebb fenntartható mezőgazdasági közösség Matagalpa hegyvidékén. A farm különlegessége a teljes 'off-grid' (hálózatfüggetlen) életmód és a permakultúrás gazdálkodás (permacultura). A tulajdonosok az organikus kávétermesztés mellett olyan kísérleti technikákat alkalmaznak, mint az élelmiszer-erdők (food forests) telepítése, a komposzt-vécék és a szürkevíz-újrahasznosítás. A farm önkénteseket fogad a világ minden tájáról, akik megtapasztalhatják a nicaraguai hegyi életet, tanulhatnak az agroökológiáról, és részt vehetnek az oktatási programokban. Földrajz K7 — permakultúra és hálózatfüggetlen gazdálkodás.",
+      "factsAdvanced": [
+        "A farm nevét ('A Bomba') egy forradalom alatt itt talált, fel nem robbant repülőgépbombáról kapta.",
+        "Az áramot napelemek, a vizet pedig esővízgyűjtők biztosítják.",
+        "Az organikus kávét és kakaót 'sintra' (vegyszermentes) minősítéssel értékesítik a helyi piacokon.",
+        "A farm területén az eredeti köderdőt teljesen érintetlenül hagyták a vízgyűjtés érdekében.",
+        "A házakat helyi vályogból (adobe) és bambuszból építették a tradicionális nicaraguai stílusban.",
+        "Gyakran tartanak kurzusokat a környező falvak (campesinos) gazdáinak a vegyszermentes növényvédelemről."
+      ]
+    },
+    {
+      "id": "rio-coco-nature-v2",
+      "descriptionAdvanced": "A Coco-folyó (Río Coco vagy Wangki) Közép-Amerika leghosszabb (Nicaraguában teljes egészében folyó) vízfolyása. Hondurasi határon, a Somoto-kanyonnál ered, és 680 kilométeren át kanyarog kelet felé, míg végül a Karib-tengerbe (Cabo Gracias a Dios) ömlik. A folyó nem csupán geográfiai, hanem kulturális határ is, amely a miszkító és mayangna őslakosok (a Wangki népe) legfőbb éltetője, közlekedési útvonala és spirituális központja évezredek óta. Történelmileg az ország egyik legelzártabb és legkonfliktusosabb zónája volt, ma az érintetlen, mély dzsungelek és az ősi kultúrák szimbóluma. Földrajz K8 — folyórendszerek és őslakos határok.",
+      "factsAdvanced": [
+        "Teljes hossza meghaladja a 680 kilométert, ezzel Közép-Amerika leghosszabb folyója.",
+        "Felső szakaszán vájta ki a világhírű Somoto-kanyont (Cañón de Somoto).",
+        "A folyó teljes középső és alsó szakasza alkotja a határt Nicaragua és Honduras között.",
+        "Az 1980-as évek kontraháborúja alatt a folyó menti falvakat szinte teljesen evakuálták.",
+        "Partjain nagyrészt a miszkító indiánok élnek, akik a folyót 'Wangki'-nak nevezik.",
+        "A folyótorkolat (Cabo Gracias a Dios) a hurrikánok egyik leggyakoribb belépési pontja a térségben."
+      ]
+    },
+    {
+      "id": "lago-de-nicaragua-nature-v2",
+      "descriptionAdvanced": "A Nicaragua-tó (Lago Cocibolca) a közép-amerikai földhíd legnagyobb, és Latin-Amerika 10. legnagyobb édesvizű tava. A spanyol hódítók mérete és erős hullámzása miatt 'Édes Tengernek' (Mar Dulce) nevezték el. A tó geológiai csoda, mivel egykor egy óceáni öböl volt, amely a vulkáni aktivitás miatt záródott el. Ez magyarázza a tó egyedülálló, endemikus faunáját, beleértve a világ egyetlen édesvízi cápáját (Carcharhinus leucas), fűrészhalakat és tarponokat. A tóban található az Ometepe-sziget (két vulkánjával), a Zapatera-sziget és a 365 kis szigetből álló Granadai Isletas. Földrajz K7 — tektonikus tavak és édesvízi tengeri állatok.",
+      "factsAdvanced": [
+        "Felszíne 8264 négyzetkilométer, hossza 161 km, szélessége 71 km.",
+        "Közép-Amerika ivóvíz-készletének legnagyobb természetes tározója.",
+        "A San Juan-folyón keresztül a Karib-tengerbe ömlik.",
+        "Az édesvízi cápa populáció az 1970-es évekbeli túlhalászás és a folyószabályozás miatt szinte eltűnt.",
+        "Folyamatosan fújnak felette az erős keleti passzátszelek (Papagayos), ami viharos hullámokat kelt.",
+        "A tervezett, de soha meg nem épült nicaraguai óceánközi csatorna fő útvonala lett volna."
+      ]
+    },
+    {
+      "id": "lago-de-managua-nature-v2",
+      "descriptionAdvanced": "A Managua-tó (Lago Xolotlán) Nicaragua második legnagyobb tava, amelynek déli partján a főváros, Managua terül el. A tavat a Momotombo és a Chiltepe vulkánok fenséges sziluettje uralja. A múlt század folyamán a tó rendkívül súlyos környezeti károkat szenvedett a kezeletlen városi szennyvíz és az ipari (például higany) hulladék miatt. Az elmúlt évtizedben azonban a kormány jelentős lépéseket tett a rehabilitációra (pl. a managuai szennyvíztisztító megépítésével), és a partmenti Paseo Xolotlán kiépítése újra népszerűvé tette a területet a lakosság körében. Bár fürdésre még mindig nem alkalmas, a tó ökológiai állapota lassan javul. Földrajz K8 — környezetszennyezés és tórehabilitáció.",
+      "factsAdvanced": [
+        "Felszíne 1024 négyzetkilométer, maximális mélysége csupán 20 méter.",
+        "A Tipitapa-folyón keresztül kapcsolódik a nagyobb Nicaragua-tóhoz, de a folyó szárazság idején kiszárad.",
+        "Az 1927-től a 2000-es évek végéig a város teljes szennyvize közvetlenül a tóba ömlött.",
+        "Egy egykori vegyipari üzem (Pennwalt) a 70-es években súlyos higanyszennyezést okozott benne.",
+        "Gyakran sújtják pusztító áradások (pl. az 1998-as Mitch hurrikán alatt), amelyek elöntik Managua partjait.",
+        "A tóban ma is jelentős halászat zajlik, de a halak fogyasztása egészségügyi kockázatokat rejt."
+      ]
+    },
+    {
+      "id": "solentiname-archipelago-nature-v2",
+      "descriptionAdvanced": "A Solentiname-szigetcsoport 36 buja, trópusi szigetből áll a Nicaragua-tó délkeleti szegletében, Río San Juan megyében. A szigetek a primitivista (naiv) művészet és az Ernesto Cardenal költő és pap által alapított közösség révén váltak világhírűvé. Cardenal a felszabadítási teológia (teología de la liberación) szellemében bátorította a helyi halászokat és farmereket (campesinos), hogy élénk színekkel, egyszerű formákkal fessék meg mindennapi életüket és a trópusi élővilágot, valamint balzsamfából faragjanak állatfigurákat. A szigetek (Mancarron, San Fernando, La Venada) nyugodt, érintetlen környezetet, gazdag madárvilágot (kócsagok, kárókatonák) és spirituális menedéket kínálnak. Földrajz K7 — naiv művészet és szigeti közösségek.",
+      "factsAdvanced": [
+        "A szigetcsoport vulkanikus eredetű, a harmadidőszakban alakult ki.",
+        "Ernesto Cardenal 1966-ban érkezett a szigetekre, hogy kontemplatív közösséget alapítson.",
+        "A Somoza-gárda 1977-ben lerombolta a közösséget Cardenal sandinista kapcsolatai miatt.",
+        "A solentinamei naiv festmények a világ számos modern művészeti múzeumában megtalálhatók.",
+        "A szigeteken több ősi (prekolumbián) petroglifát és kőszobrot találtak.",
+        "Nincs kiépített úthálózat, csak gyalogösvények és csónakok biztosítják a közlekedést."
+      ]
+    },
+    {
+      "id": "pearl-cays-nature-v2",
+      "descriptionAdvanced": "A Pearl Cays (Perlas-szigetek vagy Cayos Perlas) 18 apró, fehér homokos, pálmafákkal borított korallszigetcsoport a Karib-tengeren, körülbelül 35 kilométerre Laguna de Perlas (Pearl Lagoon) partjaitól. Ezek az idilli, poszterbe illő szigetek a Karib-térség utolsó érintetlen paradicsomai közé tartoznak. A szigetek körüli zátonyok a kritikusan veszélyeztetett cserepesteknősök (Hawksbill turtle) legfontosabb fészkelőhelyei Nicaraguában. A terület nemzetközi vadvédelmi zóna, ahol szigorúan őrzik a fészkeket az orvvadászok elől. A szigetek egy része magántulajdonban van, de nyitottak az ökoturisták és a búvárok előtt. Földrajz K8 — korallzátonyok és cserepesteknősök védelme.",
+      "factsAdvanced": [
+        "A szigetek lakatlanok (nincs állandó lakosság), csak ideiglenes halászkunyhók és néhány lodge található rajtuk.",
+        "A WCS (Wildlife Conservation Society) több évtizedes programot működtet itt a teknősök védelmére.",
+        "A szigetek a Karib-tengeri sekély (platform) vizekből emelkednek ki.",
+        "Az 1990-es években heves jogi viták folytak a szigetek illegális eladása miatt külföldi befektetőknek.",
+        "A zátonyokon elképesztő gazdagságban élnek languszták és korallhalak.",
+        "A hajóút Laguna de Perlas-ból gyakran hullámos és megközelítőleg egy órát vesz igénybe."
+      ]
+    },
+    {
+      "id": "rio-escondido-nature-v2",
+      "descriptionAdvanced": "Az Escondido-folyó (Río Escondido - Rejtett folyó) a Siquia, a Mico és a Rama folyók összefolyásából keletkezik El Rama városánál, majd sűrű trópusi esőerdőkön és lagúnákon keresztül 88 kilométert kanyarogva Bluefields-nél ömlik a Karib-tengerbe. Ez a folyó az ország legfontosabb kereskedelmi vízi útja az Atlanti-óceán felé (ahol az Arlen Siu kikötő is található). Neve ('Rejtett') onnan ered, hogy a kanyargós mangrovecsatornák miatt torkolata nehezen volt észrevehető a tenger felől, így a 17-18. században ideális búvóhelyet jelentett az angol kalózok számára. A folyó rendkívül gazdag tengeri és édesvízi faunában, beleértve a manátuszokat is. Földrajz K7 — hajózható folyók és mangrove torkolatok.",
+      "factsAdvanced": [
+        "A folyó elég mély ahhoz, hogy közepes méretű óceánjáró teherhajók (uszályok) is felhajózzanak rajta El Ramáig.",
+        "Rendszeres motorcsónak-járatok (pangas) kötik össze El Ramát Bluefields városával, a két órás út sűrű dzsungelen át vezet.",
+        "Évente gyakoriak a súlyos áradások a heves esőzések (hurrikánok) miatt.",
+        "A spanyol hódítás idején a folyót nem tudták ellenőrizni, így brit kalózok és miszkító indiánok uralták.",
+        "Partjait hatalmas, mocsaras pálma- és mangrovierdők szegélyezik.",
+        "Az Escondido vízrendszere biztosítja a Bluefields-öböl (lagúna) édesvíz-utánpótlását."
+      ]
+    },
+    {
+      "id": "indio-maiz-reserve-nature-v2",
+      "descriptionAdvanced": "Az Indio Maíz Biológiai Rezervátum (Reserva Biológica Indio Maíz) a San Juan-folyó mentén, Nicaragua délkeleti csücskében fekszik, és Közép-Amerika egyik legkiterjedtebb és legérintetlenebb trópusi esőerdeje ('A dél tüdeje'). A több mint 3000 négyzetkilométeres terület a biológiai sokféleség fellegvára: otthona jaguároknak, hárpiáknak, tapíroknak és a mérgező nyílméregbékáknak (dendrobatidae). A rezervátum belsejébe tilos a belépés a turisták és a telepesek számára (csak a folyók peremén szerveznek túrákat), a belső területeken csak a Rama és a Kriol őslakos közösségek élhetnek hagyományos életmódot. A területet folyamatosan fenyegeti az illegális fakitermelés és az agrárexpanzió. Földrajz K8 — elsődleges esőerdők és őslakos rezervátumok.",
+      "factsAdvanced": [
+        "A park területe nagyobb, mint El Salvador egész erdeinek kiterjedése.",
+        "Egy 2018-as hatalmas erdőtűz (amely közel 5000 hektárt pusztított el) országos politikai tiltakozásokat váltott ki a kormány környezetvédelmi politikája ellen.",
+        "A területen több halfaj, rovar és madár él, mint egész Európában.",
+        "A területre évente átlagosan 4000-5000 mm csapadék hullik, így igazi mély trópusi őserdő.",
+        "Az Indio- és a Maíz-folyók érintetlen vízgyűjtő medencéit foglalja magában.",
+        "Nicaragua leginkább védett és legkevésbé feltérképezett természetvédelmi területe."
+      ]
+    },
+    {
+      "id": "peninsula-de-chiltepe-nature-v2",
+      "descriptionAdvanced": "A Chiltepe-félsziget a Managua-tóba nyúló hatalmas vulkanikus képződmény, amely közvetlenül a főváros északnyugati határában található. A félszigetet az Apoyeque vulkáni komplexum alkotja, amely két látványos krátertavat is magában foglal: a nagyobb Apoyeque-tavat (Laguna de Apoyeque) egy mély kráter alján, és a kisebb, könnyebben megközelíthető Xiloá-tavat. Az Apoyeque a történelem előtti időkben az egyik legpusztítóbb vulkánkitörést (VEI 6 erősségű) produkálta a világon. Ma a félsziget Természeti Rezervátum, sűrű, száraz trópusi erdőkkel, amelyek zöldellő menedéket nyújtanak iguánáknak, majmoknak és rengeteg madárfajnak, közvetlenül Managua szomszédságában. Földrajz K7 — vulkáni félszigetek és krátertavak.",
+      "factsAdvanced": [
+        "A félsziget csúcsa (Apoyeque vulkán) mintegy 518 méterrel magasodik a Managua-tó fölé.",
+        "Az Apoyeque krátertava mintegy 400 méter mélyen helyezkedik el a kráter pereméhez képest.",
+        "A vulkán legutóbbi nagy kitörése kb. i.e. 50-ben zajlott, amely globális éghajlati hatásokkal járt.",
+        "A félsziget 2001 óta hivatalos Természeti Rezervátum.",
+        "Népszerű túrázóhely a managuaiak körében a kráterperemre vezető meredek ösvény miatt.",
+        "A vulkán alatt jelentős geotermikus potenciál rejlik."
+      ]
+    }
+  ]
+}

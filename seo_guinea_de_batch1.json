@@ -1,0 +1,359 @@
+{
+  "lang": "de",
+  "country": "guinea",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "labe-cities-v2",
+      "descriptionAdvanced": "Labé ist die zweitgrößte Stadt Guineas und das kulturelle sowie wirtschaftliche Zentrum der Region Fouta Djallon. Die Stadt liegt auf einem Hochplateau in etwa 1.000 Metern Höhe und ist für ihr angenehmes, kühles Klima bekannt. Historisch gesehen war Labé ein bedeutendes religiöses Zentrum des Islam in Westafrika und Sitz des Karamoko Alpha, der das Imamat von Fouta Djallon mitbegründete. Heute ist die Stadt ein wichtiger Knotenpunkt für den Handel mit Agrarprodukten, insbesondere Vieh und Kartoffeln, und beherbergt eine Universität. Die Webtraditionen der Peul (Fulbe), insbesondere die Herstellung indigoblauer Stoffe, sind in der Region tief verwurzelt. Geographie K7 — Hochlandregionen und Kulturzentren.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt Guineas mit über 200.000 Einwohnern.",
+        "Gelegen in der Region Fouta Djallon auf 1.026 m Höhe.",
+        "Historisches Zentrum der Gelehrsamkeit und des Islam.",
+        "Wichtiger Handelsplatz für Vieh und landwirtschaftliche Erzeugnisse.",
+        "Heimat der Universität Labé, einer führenden Bildungseinrichtung.",
+        "Berühmt für die traditionelle Indigo-Färberei der Fulbe.",
+        "Verfügt über einen regionalen Flughafen (Tata Airport).",
+        "Zentrum des Widerstands gegen die Kolonialherrschaft im 19. Jahrhundert."
+      ]
+    },
+    {
+      "id": "kissidougou-cities-v2",
+      "descriptionAdvanced": "Kissidougou, oft einfach Kissi genannt, ist eine strategisch wichtige Stadt im südlichen Guinea, die als Tor zur Waldregion (Guinée Forestière) fungiert. Die Stadt liegt am Zusammenfluss mehrerer Handelsrouten und ist das Zentrum des Kissi-Volkes. Wirtschaftlich ist Kissidougou stark von der Landwirtschaft geprägt, wobei Kaffee, Kakao und Kolanüsse die wichtigsten Exportgüter darstellen. In den letzten Jahrzehnten war die Stadt ein wichtiger Zufluchtsort für Flüchtlinge aus den Bürgerkriegen in den Nachbarländern Sierra Leone und Liberia, was die soziale Struktur und die Infrastruktur der Stadt nachhaltig geprägt hat. Die umliegende Landschaft ist von sanften Hügeln und Galeriewäldern charakterisiert. Geographie K6 — Agrarwirtschaft und Migrationsbewegungen.",
+      "factsAdvanced": [
+        "Zentrum der Kissi-Kultur und Sprache im südlichen Guinea.",
+        "Wichtiger Umschlagplatz für Kaffee und Kakao.",
+        "Bevölkerung von etwa 100.000 Einwohnern (Stand 2014).",
+        "Gelegen am Übergang von der Savanne zum tropischen Regenwald.",
+        "Bedeutender Zufluchtsort für regionale Flüchtlinge seit den 1990ern.",
+        "Besitzt ein regionales Museum für Kissi-Kultur und Geschichte.",
+        "Verfügt über eine Landepiste für Kleinflugzeuge.",
+        "Knotenpunkt der Nationalstraße N1, die den Osten mit dem Westen verbindet."
+      ]
+    },
+    {
+      "id": "gueckedou-cities-v2",
+      "descriptionAdvanced": "Guéckédou liegt im äußersten Süden Guineas, direkt am Dreiländereck mit Sierra Leone und Liberia. Die Stadt ist vor allem für ihren riesigen Wochenmarkt bekannt, der zu den bedeutendsten Handelsplätzen in ganz Westafrika zählt und Händler aus den Nachbarstaaten anzieht. Traurige Berühmtheit erlangte Guéckédou im Jahr 2013, als im nahegelegenen Dorf Meliandou der verheerende Ebola-Ausbruch in Westafrika seinen Ursprung nahm. Trotz dieser Herausforderungen bleibt die Stadt ein vitales Zentrum für den Handel mit Reis, Kaffee und Palmöl. Die Region ist von dichtem Sekundärwald und fruchtbaren Böden geprägt, was sie zu einer der Kornkammern des Landes macht. Geographie K8 — Grenzüberschreitender Handel und Gesundheitsgeographie.",
+      "factsAdvanced": [
+        "Strategische Lage am Dreiländereck (Guinea, Liberia, Sierra Leone).",
+        "Beherbergt einen der größten periodischen Märkte Westafrikas.",
+        "Ursprungsregion der westafrikanischen Ebola-Epidemie von 2013.",
+        "Wichtiges Anbaugebiet für Reis, Kaffee und Palmkerne.",
+        "Die Stadt hat etwa 66.000 Einwohner (Volkszählung 2014).",
+        "Stark von grenzüberschreitenden Migrationsströmen beeinflusst.",
+        "Zentrum der lokalen Verwaltung der Präfektur Guéckédou.",
+        "Geprägt von einer ethnisch vielfältigen Bevölkerung (Kissi, Malinke, Toma)."
+      ]
+    },
+    {
+      "id": "mamou-cities-v2",
+      "descriptionAdvanced": "Mamou wird oft als die 'Stadt der Kreuzwege' bezeichnet, da sie am entscheidenden Knotenpunkt der Nationalstraßen liegt, die Conakry mit dem Osten des Landes und dem Norden in Richtung Labé verbinden. Die Stadt wurde zu Beginn des 20. Jahrhunderts als wichtiger Bahnhof an der Eisenbahnlinie Conakry-Niger gegründet. Aufgrund ihrer Lage am Rande des Fouta-Djallon-Hochlands genießt Mamou ein gemäßigtes Klima, was den Anbau von Gemüse und Obst begünstigt. Als Handelszentrum spielt die Stadt eine Schlüsselrolle bei der Versorgung der Hauptstadt mit Fleisch und Agrarprodukten aus dem Hinterland. Die Eisenbahngeschichte ist in der Architektur und Stadtplanung noch immer präsent. Geographie K7 — Infrastruktur und städtische Entwicklung.",
+      "factsAdvanced": [
+        "Gegründet 1908 als wichtiger Stützpunkt an der Conakry-Niger-Bahn.",
+        "Strategischer Verkehrsknotenpunkt zwischen Conakry, Labé und Kankan.",
+        "Bekannt als Handelszentrum für Fleisch und Gemüse aus dem Fouta Djallon.",
+        "Liegt auf einer Höhe von etwa 700 Metern über dem Meeresspiegel.",
+        "Bevölkerung von ca. 88.000 Einwohnern (2014).",
+        "Sitz eines bedeutenden Instituts für Landwirtschaft und Tiermedizin.",
+        "Wichtiger Standort für die Verarbeitung von Zitrusfrüchten.",
+        "Wahrzeichen ist das historische Bahnhofsgebäude aus der Kolonialzeit."
+      ]
+    },
+    {
+      "id": "boke-cities-v2",
+      "descriptionAdvanced": "Boké ist das unbestrittene Zentrum der guineischen Bergbauindustrie und liegt im Nordwesten des Landes am Fluss Rio Nuñez. Die Stadt blickt auf eine lange Geschichte als ehemaliger Sklaven- und Handelsposten zurück, woran das Fort Galliéni aus dem 19. Jahrhundert erinnert. Heute ist Boké der administrative Sitz der gleichnamigen Region, in der sich die weltweit größten Bauxitvorkommen befinden. Die Stadt hat in den letzten Jahren ein explosionsartiges Wachstum erlebt, da internationale Bergbaukonzerne hier ihre Logistikzentren und Verladeterminals errichtet haben. Trotz des industriellen Booms bleibt die Region für ihre Mangrovenwälder und den Fischfang entlang der Küste bekannt. Geographie K8 — Rohstoffwirtschaft und industrielle Transformation.",
+      "factsAdvanced": [
+        "Hauptstadt der Bauxitregion Guineas mit massiven Vorkommen.",
+        "Sitz des historischen Fort Galliéni (heute ein Museum).",
+        "Strategische Lage am schiffbaren Unterlauf des Rio Nuñez.",
+        "Schnell wachsende Bevölkerung von über 60.000 Einwohnern.",
+        "Zentrum für Logistik und Verwaltung der CBG und SMB-Winning.",
+        "Historisch bedeutender Handelsposten für Erdnüsse und Kautschuk.",
+        "Heimat der École Nationale des Mines de Boké.",
+        "Umgeben von ökologisch wertvollen Mangrovenlandschaften."
+      ]
+    },
+    {
+      "id": "macenta-cities-v2",
+      "descriptionAdvanced": "Macenta liegt tief in der Waldregion Guineas, nahe der Grenze zu Liberia, und ist von dichtem tropischem Regenwald und den Ausläufern des Ziama-Massivs umgeben. Die Stadt ist ein bedeutendes Zentrum für die Agrarindustrie, insbesondere für den Anbau und die Verarbeitung von Tee, Chinarinde (für Chinin) und Kaffee. Das feuchte, tropische Klima begünstigt eine enorme biologische Vielfalt in der Umgebung. Kulturell ist Macenta die Heimat der Toma (Loma), deren Traditionen und Maskentänze tief in der lokalen Gesellschaft verwurzelt sind. Die Stadt dient als wichtiger Markt für Waldprodukte und ist ein Ausgangspunkt für Exkursionen in das nahegelegene Biosphärenreservat. Geographie K6 — Tropischer Regenwald und Plantagenwirtschaft.",
+      "factsAdvanced": [
+        "Zentrum der guineischen Teeproduktion mit einer großen Plantage.",
+        "Heimat der Toma-Ethnie und ihrer traditionellen Kultur.",
+        "Gelegen in unmittelbarer Nähe zum Ziama-Biosphärenreservat.",
+        "Wichtiger Standort für die Forschung an Heilpflanzen (Chinarinde).",
+        "Bevölkerung von ca. 65.000 Einwohnern (Stand 2014).",
+        "Umgeben von Berggipfeln, die bis zu 1.300 Meter hoch ragen.",
+        "Bedeutender Handelsplatz für Kaffee, Kakao und Palmöl.",
+        "Klima ist geprägt von hohen Niederschlagsmengen (über 2.500 mm jährlich)."
+      ]
+    },
+    {
+      "id": "coyah-cities-v2",
+      "descriptionAdvanced": "Coyah liegt nur etwa 50 Kilometer nordöstlich von Conakry und fungiert zunehmend als Vorstadt und wichtiger Verkehrsknotenpunkt der Hauptstadtregion. Die Stadt ist landesweit für ihre Mineralwasserquelle 'Coyah' bekannt, die in Flaschen abgefüllt und überall in Guinea verkauft wird. Geografisch liegt Coyah am Fuße des Kakoulima-Massivs, was der Stadt eine malerische Kulisse und reichlich Niederschlag beschert. Aufgrund der Nähe zur Hauptstadt haben sich hier viele Industriebetriebe und Lagerhäuser angesiedelt, während die Umgebung noch immer intensiv landwirtschaftlich genutzt wird. Die Stadt ist ein unverzichtbarer Durchgangspunkt für alle Landtransporte, die Conakry in Richtung Inland verlassen. Geographie K5 — Urbanisierung und Ressourcenmanagement.",
+      "factsAdvanced": [
+        "Heimat der bekanntesten Mineralwassermarke Guineas (Eau de Coyah).",
+        "Strategischer Verkehrsknotenpunkt an der Gabelung nach Kindia und Forécariah.",
+        "Liegt am Fuße des markanten Mont Kakoulima.",
+        "Bevölkerungswachstum durch die Ausdehnung der Hauptstadt Conakry.",
+        "Einwohnerzahl von etwa 77.000 (Volkszählung 2014).",
+        "Wichtiger Standort für Handwerk und kleine Industriebetriebe.",
+        "Zentrum für den Anbau von Obst und Gemüse für den Conakry-Markt.",
+        "Bekannt für seine Steinbrüche, die Baumaterial für die Hauptstadt liefern."
+      ]
+    },
+    {
+      "id": "forecariah-cities-v2",
+      "descriptionAdvanced": "Forécariah liegt im Südwesten Guineas, nahe der Grenze zu Sierra Leone, in einer region, die von Küstenebenen und Flussmündungen geprägt ist. Die Stadt ist ein wichtiges Zentrum für den Reisanbau und den Handel mit landwirtschaftlichen Produkten. Historisch war die Region ein Ort intensiven kulturellen Austauschs zwischen den Soussou- und Temne-Völkern. In jüngerer Zeit hat die Entdeckung von Eisenerzvorkommen in der Umgebung das Interesse internationaler Investoren geweckt. Die Landschaft ist von weitläufigen Reisfeldern, Mangroven und kleinen Wasserläufen charakterisiert, die teilweise schiffbar sind. Forécariah dient auch als administratives Zentrum für die Präfektur und als Stützpunkt für den grenzüberschreitenden Handel. Geographie K5 — Küstenlandwirtschaft und Rohstoffpotential.",
+      "factsAdvanced": [
+        "Zentrum des intensiven Reisanbaus in Niederguinea.",
+        "Strategische Nähe zur Grenze von Sierra Leone (Handelsroute).",
+        "Bevölkerung von ca. 20.000 Einwohnern in der Kernstadt.",
+        "Wichtiger Markt für Salz, Fisch und landwirtschaftliche Erzeugnisse.",
+        "Region verfügt über unerschlossene Eisenerzvorkommen.",
+        "Heimat des Soussou-Volkes mit reicher musikalischer Tradition.",
+        "Liegt am Fluss Forécariah, der in den Atlantik mündet.",
+        "Administrative Hauptstadt der Präfektur Forécariah."
+      ]
+    },
+    {
+      "id": "kamsar-cities-v2",
+      "descriptionAdvanced": "Kamsar ist eine reine Industriestadt an der Mündung des Rio Nuñez und bildet das logistische Herz des guineischen Bauxit-Exports. Die Stadt wurde gezielt ausgebaut, um als Endpunkt der Eisenbahnlinie von den Sangarédi-Minen und als Tiefwasserhafen für große Erzschiffe zu dienen. Kamsar ist in zwei Bereiche unterteilt: die moderne Werkssiedlung für die Angestellten der Bergbaugesellschaft (CBG) mit vergleichsweise guter Infrastruktur und die schnell wachsende, informelle Stadt der Zuwanderer. Das wirtschaftliche Leben dreht sich fast ausschließlich um den Hafen und die Aluminiumoxid-Verarbeitung. Trotz der industriellen Dominanz ist die Umgebung von ökologisch sensiblen Mangrovenwäldern geprägt. Geographie K8 — Hafenlogistik und Industriegesellschaft.",
+      "factsAdvanced": [
+        "Wichtigster Exporthafen für Bauxit in Westafrika.",
+        "Endstation der 135 km langen Sangarédi-Eisenbahnlinie.",
+        "Standort einer riesigen Bauxit-Trocknungs- und Verladeanlage.",
+        "Bevölkerung von etwa 113.000 Einwohnern (Stand 2014).",
+        "Verfügt über eine der besten Infrastrukturen des Landes (in der Cité).",
+        "Strategische Lage an der Mündung des Rio Nuñez in den Atlantik.",
+        "Zentrum des SMB-Winning und CBG Bergbau-Ökosystems.",
+        "Wichtiger Standort für die handwerkliche Fischerei neben der Industrie."
+      ]
+    },
+    {
+      "id": "fria-cities-v2",
+      "descriptionAdvanced": "Fria ist als 'Aluminiumstadt' bekannt und beherbergt die erste Aluminiumoxid-Raffinerie Afrikas, die im Jahr 1960 in Betrieb genommen wurde. Die Stadt liegt etwa 160 Kilometer nördlich von Conakry und ist über eine eigene Eisenbahnlinie mit dem Hafen der Hauptstadt verbunden. Das gesamte städtische Leben wurde um die Fabrik herum geplant, was Fria zu einem einzigartigen Beispiel für industrielle Stadtplanung in Westafrika macht. Nach einer Phase des wirtschaftlichen Niedergangs und der vorübergehenden Schließung der Fabrik erlebt die Stadt seit 2018 eine Wiederbelebung. Die Landschaft ist von lateritischen Plateaus geprägt, die reich an Bauxit sind und im Tagebau abgebaut werden. Geographie K8 — Industriegeschichte und Stadtplanung.",
+      "factsAdvanced": [
+        "Standort der ersten Aluminiumoxid-Raffinerie auf dem afrikanischen Kontinent.",
+        "Gegründet und entwickelt um den Bergbaukomplex herum.",
+        "Verbunden mit Conakry durch eine spezialisierte Industrie-Eisenbahn.",
+        "Bevölkerung von ca. 62.000 Einwohnern (Stand 2014).",
+        "Hauptarbeitgeber ist die Rusal-Friguia Aluminiumoxid-Raffinerie.",
+        "Modellstadt für koloniale und postkoloniale Industriearchitektur.",
+        "Liegt in einer bauxitreichen Zone der Präfektur Fria.",
+        "Wiederaufnahme der Produktion im Jahr 2018 nach jahrelangem Stillstand."
+      ]
+    },
+    {
+      "id": "siguiri-cities-v2",
+      "descriptionAdvanced": "Siguiri liegt im Nordosten Guineas am Ufer des Niger und ist das pulsierende Zentrum der Goldgräberregion des Landes. Die Stadt ist von einer jahrhundertealten Bergbautradition geprägt, wobei heute sowohl industrielle Großminen (wie die der AngloGold Ashanti) als auch tausende handwerkliche Kleinschürfer (Orpailleurs) aktiv sind. Aufgrund des Goldrausches hat Siguiri ein enormes Bevölkerungswachstum erlebt und zieht Glückssucher aus ganz Westafrika an. Die Stadt liegt in einer halbtrockenen Savannenlandschaft, die während der Regenzeit vom Niger überflutet wird. Neben Gold ist Siguiri ein wichtiger Markt für Getreide und Vieh sowie ein kulturelles Zentrum des Malinke-Volkes. Geographie K7 — Goldbergbau und Savannenökonomie.",
+      "factsAdvanced": [
+        "Zentrum des industriellen und handwerklichen Goldbergbaus in Guinea.",
+        "Strategische Lage am Oberlauf des Niger-Flusses.",
+        "Bevölkerung von über 180.000 Einwohnern (Stand 2014).",
+        "Heimat einer der größten Goldminen Afrikas (AngloGold Ashanti).",
+        "Wichtiger Handelsknotenpunkt nahe der Grenze zu Mali.",
+        "Zentrum der traditionellen Malinke-Kultur und Musik.",
+        "Geprägt von einem heißen Savannenklima mit ausgeprägter Trockenzeit.",
+        "Berüchtigt für die ökologischen Herausforderungen des Kleinstbergbaus."
+      ]
+    },
+    {
+      "id": "telimele-cities-v2",
+      "descriptionAdvanced": "Télimélé liegt in einer spektakulären Gebirgslandschaft am westlichen Rand des Fouta-Djallon-Hochlands. Die Stadt ist durch ihre isolierte Lage auf einem Plateau geprägt, das von tiefen Schluchten und steilen Klippen umgeben ist, was die Erreichbarkeit erschwert, aber eine atemberaubende Naturkulisse bietet. Die Region ist ein wichtiges Anbaugebiet für Erdnüsse, Hirse und Viehzucht, wobei die Landwirtschaft die Haupterwerbsquelle der Bevölkerung darstellt. Historisch war Télimélé ein Rückzugsort während verschiedener Konflikte und bewahrte so seine kulturelle Eigenständigkeit. Die Umgebung ist reich an Wasserfällen und Höhlen, die Potenzial für den Ökotourismus bieten. In den letzten Jahren wurden in der Präfektur bedeutende Bauxitvorkommen entdeckt. Geographie K6 — Gebirgsgeographie und ländliche Entwicklung.",
+      "factsAdvanced": [
+        "Gelegen am westlichen Steilabfall des Fouta-Djallon-Massivs.",
+        "Zentrum eines bedeutenden Anbaugebiets für Erdnüsse und Zitrusfrüchte.",
+        "Bevölkerung von ca. 15.000 Einwohnern im städtischen Zentrum.",
+        "Bekannt für seine schwierigen, aber landschaftlich reizvollen Zufahrtswege.",
+        "Wichtiger Standort für die traditionelle Viehzucht der Fulbe.",
+        "Region verfügt über unerschlossene, hochwertige Bauxitreserven.",
+        "Heimat zahlreicher natürlicher Quellen und kleiner Wasserfälle.",
+        "Administrative Hauptstadt der weitläufigen Präfektur Télimélé."
+      ]
+    },
+    {
+      "id": "kouroussa-cities-v2",
+      "descriptionAdvanced": "Kouroussa ist eine historische Stadt am Ufer des Niger in Oberguinea und gilt als eines der kulturellen Herzstücke des Mandinka-Volkes. Weltberühmt wurde die Stadt durch den Schriftsteller Camara Laye, der in seinem autobiografischen Roman 'L'Enfant noir' (Der schwarze Junge) das Leben und die Traditionen seiner Kindheit in Kouroussa beschrieb. Wirtschaftlich ist die Stadt ein wichtiger Umschlagplatz für landwirtschaftliche Produkte wie Reis und Erdnüsse sowie ein Zentrum für den handwerklichen Goldbergbau. Die Eisenbahnlinie Conakry-Niger führt durch die Stadt, was früher ihre Bedeutung als Handelsstation festigte. Die Architektur ist teilweise noch von traditionellen Lehmbauten und kolonialen Überresten geprägt. Geographie K7 — Literaturgeschichte und Flusslandschaften.",
+      "factsAdvanced": [
+        "Geburtsort des berühmten guineischen Schriftstellers Camara Laye.",
+        "Wichtiger Hafen am schiffbaren Teil des oberen Niger.",
+        "Zentrum der Malinke-Traditionen und der Schmiedekunst.",
+        "Bevölkerung von etwa 40.000 Einwohnern (Stand 2014).",
+        "Knotenpunkt der Eisenbahnlinie Conakry-Niger.",
+        "Wichtiger Markt für Gold aus den umliegenden alluvialen Lagerstätten.",
+        "Liegt in einer weitläufigen Savannenebene mit Reisanbau.",
+        "Sitz eines regionalen Zentrums für landwirtschaftliche Entwicklung."
+      ]
+    },
+    {
+      "id": "dubreka-cities-v2",
+      "descriptionAdvanced": "Dubréka liegt nördlich der Hauptstadt Conakry und hat sich in den letzten Jahren rasant zu einem urbanen Zentrum entwickelt, das eng mit der Metropolregion verflochten ist. Die Stadt liegt in einer fruchtbaren Küstenebene am Fuße des Mont Kakoulima und ist für ihren Gartenbau sowie die Produktion von Obst und Gemüse bekannt. Touristisch ist Dubréka attraktiv durch die Nähe zu den 'Soumba-Wasserfällen', einem beliebten Ausflugsziel. Die Region ist auch ein Zentrum für die Salzgewinnung in den Mangrovensümpfen entlang der Küste. Durch die verbesserte Infrastruktur siedeln sich zunehmend Pendler und Industrieunternehmen an, was die Stadt zu einem dynamischen Wachstumspol macht. Geographie K5 — Küstenökosysteme und Stadterweiterung.",
+      "factsAdvanced": [
+        "Dynamisches urbanes Zentrum im Einzugsgebiet von Conakry.",
+        "Bekannt für die nahegelegenen Soumba-Wasserfälle.",
+        "Wichtiger Standort für die handwerkliche Salzgewinnung.",
+        "Bevölkerung von ca. 170.000 Einwohnern in der Präfektur (2014).",
+        "Zentrum des Gemüse- und Obstanbaus (Ananas, Bananen).",
+        "Liegt an der strategischen Verkehrsachse nach Norden.",
+        "Heimat des Instituts für Künste 'Mory Kanté'.",
+        "Geprägt von einer Mischung aus Mangrovensümpfen und Gebirgsausläufern."
+      ]
+    },
+    {
+      "id": "boffa-cities-v2",
+      "descriptionAdvanced": "Boffa ist eine historische Hafenstadt an der Mündung des Rio Pongo, etwa 150 Kilometer nordwestlich von Conakry. Die Stadt war im 18. und 19. Jahrhundert ein berüchtigter Knotenpunkt des transatlantischen Sklavenhandels und später ein Zentrum des Kautschukexports. Heute ist Boffa das administrative Zentrum einer Region, die einen massiven Wandel durch den Bauxitbergbau erlebt. Große internationale Konsortien haben hier neue Häfen und Verladestationen errichtet. Die Umgebung von Boffa ist jedoch auch für ihre wunderschönen Sandstrände wie Bel Air und ihre reichen Fischgründe bekannt. Die Stadt bewahrt ein ruhiges, fast verschlafenes Ambiente mit kolonialen Gebäuden und Kirchen. Geographie K8 — Maritimer Handel und Transformation.",
+      "factsAdvanced": [
+        "Ehemaliges Zentrum des Sklavenhandels am Rio Pongo.",
+        "Heimat der ältesten christlichen Mission Guineas (gegründet 1875).",
+        "Standort neuer, moderner Bauxit-Exporthäfen.",
+        "Bevölkerung von ca. 30.000 Einwohnern im städtischen Bereich.",
+        "Bekannt für den Tourismus am nahegelegenen Bel-Air-Strand.",
+        "Wichtiger Standort für die handwerkliche und industrielle Fischerei.",
+        "Berühmt für das jährliche christliche Pilgerfest (Pèlerinage de Boffa).",
+        "Umgeben von ausgedehnten Mangrovenwäldern und Ästuaren."
+      ]
+    },
+    {
+      "id": "beyla-cities-v2",
+      "descriptionAdvanced": "Beyla liegt im tiefen Südosten Guineas und ist die Hauptstadt der gleichnamigen Präfektur in der Waldregion. Die Stadt erlangte internationale Aufmerksamkeit als logistisches Zentrum für das Simandou-Projekt, eines der größten unerschlossenen Eisenerzvorkommen der Welt, das sich in den nahegelegenen Bergen befindet. Traditionell ist Beyla ein wichtiges Zentrum für den Anbau von Reis, Tabak und Kaffee sowie für die Viehzucht der Malinke-Händler. Die Landschaft ist geprägt von bewaldeten Hügeln und Savannenausläufern. Die kulturelle Vielfalt ist groß, da die Stadt an der Schnittstelle verschiedener ethnischer Gruppen liegt. Die geplante Eisenbahnverbindung für den Erzexport wird die Bedeutung der Stadt in Zukunft massiv steigern. Geographie K8 — Bergbau-Megaprojekte und Regionalentwicklung.",
+      "factsAdvanced": [
+        "Tor zum Simandou-Gebirge, dem Standort gewaltiger Eisenerzvorkommen.",
+        "Wichtiges landwirtschaftliches Zentrum für Tabak und Kaffee.",
+        "Bevölkerung von ca. 32.000 Einwohnern (Stand 2014).",
+        "Strategischer Standort für die geplante Trans-Guinean-Eisenbahn.",
+        "Administrative Hauptstadt der Präfektur Beyla.",
+        "Kultureller Schmelztiegel zwischen Waldregion und Oberguinea.",
+        "Bekannt für seine traditionellen Märkte und den Viehhandel.",
+        "Liegt in einer zone mit hohem Potential für den Agrobusiness."
+      ]
+    },
+    {
+      "id": "dabola-cities-v2",
+      "descriptionAdvanced": "Dabola liegt exakt im geografischen Zentrum Guineas und markiert den Übergang zwischen dem Hochland des Fouta Djallon und den Savannen Oberguineas. Die Stadt wurde als wichtiger Stützpunkt an der Conakry-Niger-Bahn gegründet und ist heute ein bedeutender Verkehrsknotenpunkt für Reisende und Güter. Wirtschaftlich ist Dabola vor allem für seine Speiseölfabrik bekannt, die Erdnüsse aus der Region verarbeitet. Die Umgebung ist von sanften Hügeln und weiten Ebenen geprägt, die ideal für den Anbau von Erdnüssen und Getreide sowie für die Viehzucht sind. Die strategische Lage macht Dabola zu einem wichtigen administrativen und logistischen Zentrum für das Landesinnere. Geographie K6 — Agrarverarbeitung und zentrale Lage.",
+      "factsAdvanced": [
+        "Geografisches Zentrum Guineas an der Schnittstelle von drei Regionen.",
+        "Wichtiger Bahnknotenpunkt an der historischen Conakry-Niger-Linie.",
+        "Standort einer bedeutenden Fabrik zur Erdnussöl-Produktion.",
+        "Bevölkerung von etwa 38.000 Einwohnern (Stand 2014).",
+        "Bedeutender Markt für Getreide, Erdnüsse und Vieh.",
+        "Liegt am Oberlauf des Tinkisso-Flusses, einem Nebenfluss des Niger.",
+        "Wichtiger Kreuzungspunkt der Nationalstraßen N1 und N30.",
+        "Geprägt von einem Klima, das Merkmale von Hochland und Savanne vereint."
+      ]
+    },
+    {
+      "id": "dinguiraye-cities-v2",
+      "descriptionAdvanced": "Dinguiraye ist eine Stadt von herausragender historischer und religiöser Bedeutung im Norden Guineas. Sie wurde um 1850 von El Hadj Umar Tall gegründet, dem Begründer des Tukulor-Reiches, der sie als Stützpunkt für seinen Dschihad und als heilige Stadt konzipierte. Die große Moschee von Dinguiraye, ein imposanter traditioneller Bau mit Reetdach, ist ein nationales Denkmal und Ziel vieler Pilger. Die Stadt liegt in einer trockenen Savannenlandschaft und ist ein Zentrum der islamischen Gelehrsamkeit. Wirtschaftlich dominiert die Landwirtschaft, insbesondere der Anbau von Hirse und Erdnüssen sowie die Viehzucht. Dinguiraye bewahrt bis heute eine tiefe Verbundenheit mit seiner heroischen Vergangenheit. Geschichte K7 — Westafrikanische Reiche und islamische Tradition.",
+      "factsAdvanced": [
+        "Gegründet um 1850 von El Hadj Umar Tall als heilige Stadt.",
+        "Beherbergt die berühmte Große Moschee (UNESCO-Tentativliste).",
+        "Historisches Zentrum des Tukulor-Reiches in Guinea.",
+        "Wichtiger Wallfahrtsort für Muslime in Westafrika.",
+        "Bevölkerung von ca. 45.000 Einwohnern in der Präfektur.",
+        "Zentrum der Gelehrsamkeit und des Sufismus (Tidshani-Orden).",
+        "Gelegen in einer regenarmen Savannenzone Nordguineas.",
+        "Bekannt für seine traditionelle Architektur und Stadtstruktur."
+      ]
+    },
+    {
+      "id": "gaoual-cities-v2",
+      "descriptionAdvanced": "Gaoual liegt im Nordwesten Guineas in einer Region, die geografisch zum Boke-Becken und den Ausläufern des Fouta Djallon gehört. Die Stadt ist das Zentrum einer Präfektur, die traditionell von nomadischer Viehzucht und Ackerbau geprägt ist. In den letzten Jahren hat Gaoual durch die Entdeckung von Goldvorkommen in der Umgebung einen rasanten Wandel und einen massiven Zuzug von Schürfern erlebt. Die Landschaft ist durch weite Savannen, markante Tafelberge und saisonale Flüsse charakterisiert. Die Stadt dient als wichtiger Markt für Rinder und landwirtschaftliche Erzeugnisse und ist ein strategischer Punkt auf der Route nach Guinea-Bissau und Senegal. Geographie K6 — Ressourcenboom und Savannenlandwirtschaft.",
+      "factsAdvanced": [
+        "Zentrum einer bedeutenden Region für die Rinderzucht der Fulbe.",
+        "Jüngster Goldrausch hat die lokale Wirtschaft und Demografie verändert.",
+        "Wichtiger Transitpunkt für den Handel mit Guinea-Bissau.",
+        "Bevölkerung von ca. 20.000 Einwohnern in der Stadt (2014).",
+        "Geografisch geprägt durch die markanten Plateaus der Region.",
+        "Bedeutender Handelsplatz für landwirtschaftliche Erzeugnisse (Erdnüsse).",
+        "Liegt am Fluss Tominé, der in den Rio Corubal mündet.",
+        "Administrative Hauptstadt der weitläufigen Präfektur Gaoual."
+      ]
+    },
+    {
+      "id": "kerouane-cities-v2",
+      "descriptionAdvanced": "Kérouané liegt im Osten Guineas am Fuße des Simandou-Gebirges und ist historisch eng mit dem Widerstand von Samory Touré gegen die französische Kolonisation verknüpft. Die Stadt war eine wichtige Festung des Wassoulou-Reiches im späten 19. Jahrhundert. Heute ist Kérouané vor allem als Zentrum der Diamantenförderung bekannt, wobei sowohl industrieller Abbau als auch handwerkliche Suche in den alluvialen Ablagerungen der Flüsse betrieben wird. Die Region ist auch reich an Eisenerz, was durch das Simandou-Projekt eine massive wirtschaftliche Zukunft verspricht. Die Umgebung ist von einer Mischung aus Bergen, Waldinseln und Savannen geprägt, was eine vielfältige Landwirtschaft ermöglicht. Geschichte K8 — Widerstand gegen Kolonialismus und Rohstoffreichtum.",
+      "factsAdvanced": [
+        "Historische Hauptstadt und Festung von Samory Touré.",
+        "Zentrum der guineischen Diamantenförderung (Banankoro-Gebiet).",
+        "Liegt unmittelbar am mineralreichen Simandou-Gebirgszug.",
+        "Bevölkerung von etwa 35.000 Einwohnern (Stand 2014).",
+        "Wichtiger Markt für Edelsteine und landwirtschaftliche Produkte.",
+        "Administrative Hauptstadt der Präfektur Kérouané.",
+        "Region mit enormem Potential für den großflächigen Eisenerzbergbau.",
+        "Geprägt durch die kulturellen Einflüsse der Malinke."
+      ]
+    },
+    {
+      "id": "koubia-cities-v2",
+      "descriptionAdvanced": "Koubia liegt im Herzen des Fouta-Djallon-Hochlands im Norden Guineas und ist eine der abgelegensten Präfekturhauptstädte des Landes. Die Stadt ist tief in den Traditionen der Fulbe-Kultur verwurzelt und für ihre Viehzucht sowie die Produktion von Honig und lokalem Handwerk bekannt. Die Landschaft um Koubia ist spektakulär, geprägt von tiefen Tälern, Wasserfällen und massiven Granitformationen. Aufgrund der schwierigen Straßenverhältnisse ist die Stadt wirtschaftlich eher autark und auf regionale Märkte ausgerichtet. Koubia gilt als Zentrum der religiösen Bildung mit zahlreichen traditionellen Koranschulen. Die unberührte Natur bietet großes Potenzial für nachhaltigen Wandertourismus. Geographie K7 — Hochlandtraditionen und Abgeschiedenheit.",
+      "factsAdvanced": [
+        "Abgelegene Präfekturhauptstadt im nördlichen Fouta Djallon.",
+        "Zentrum der traditionellen Rinderzucht und Imkerei.",
+        "Bekannt für seine zahlreichen Koranschulen und religiöse Bildung.",
+        "Bevölkerung von ca. 22.000 Einwohnern in der Stadtgemeinde.",
+        "Spektakuläre Natur mit Wasserfällen und Wanderwegen.",
+        "Wichtiger Standort für handwerkliche Lederverarbeitung.",
+        "Geprägt von einem kühlen, angenehmen Hochlandklima.",
+        "Administrative Hauptstadt der Präfektur Koubia."
+      ]
+    },
+    {
+      "id": "koundara-cities-v2",
+      "descriptionAdvanced": "Koundara liegt im äußersten Nordwesten Guineas, nahe der Grenze zu Senegal und Guinea-Bissau, in einer flachen Savannenlandschaft. Die Stadt ist als der 'heißeste Ort Guineas' bekannt, da sie in einer Senke liegt, die im Sommer extrem hohe Temperaturen erreicht. Als strategische Grenzstadt ist Koundara ein unverzichtbarer Knotenpunkt für den grenzüberschreitenden Handel und Verkehr. Sie dient als Tor zum Badiar-Nationalpark, der Teil des grenzüberschreitenden Niokolo-Koba-Badiar-Ökosystems ist. Wirtschaftlich dominieren der Handel, die Viehzucht und der Anbau von Erdnüssen und Baumwolle. Die ethnische Vielfalt ist durch die Lage am Dreiländereck besonders ausgeprägt. Geographie K6 — Grenzhandel und Savannenökosysteme.",
+      "factsAdvanced": [
+        "Nördlichste Stadt Guineas am Dreiländereck zu Senegal und Guinea-Bissau.",
+        "Gilt als einer der heißesten Orte des Landes aufgrund seiner Kessellage.",
+        "Wichtigstes Tor zum Badiar-Nationalpark (Ökotourismus).",
+        "Strategischer Handelsknotenpunkt für Waren aus Dakar und Bissau.",
+        "Bevölkerung von ca. 27.000 Einwohnern (Stand 2014).",
+        "Zentrum für den Anbau von Baumwolle und Erdnüssen.",
+        "Wichtiger Stützpunkt für die Grenzkontrolle und Verwaltung.",
+        "Schmelztiegel verschiedener Ethnien (Fulbe, Bassari, Coniagui)."
+      ]
+    },
+    {
+      "id": "lelouma-cities-v2",
+      "descriptionAdvanced": "Lélouma liegt im malerischen Fouta-Djallon-Hochland und ist berühmt für seine dramatischen Landschaften, insbesondere die steilen Felswände und zahlreichen Höhlen. Die Stadt ist ein bedeutendes Zentrum des Handwerks, vor allem für die Herstellung von traditionellen Webstoffen (Leppi) und Töpferwaren. Landwirtschaftlich ist die Region für den Anbau von Zitrusfrüchten, Bananen und Kaffee bekannt, begünstigt durch das kühle Klima und die fruchtbaren Gebirgsböden. Historisch war Lélouma ein Ort des Rückzugs und des spirituellen Lebens. Die Umgebung bietet einige der schönsten Wanderrouten Guineas, vorbei an versteckten Dörfern und spektakulären Aussichtspunkten. Geographie K7 — Gebirgslandwirtschaft und Kunsthandwerk.",
+      "factsAdvanced": [
+        "Zentrum der traditionellen Webkunst (Leppi-Stoffe) im Fouta Djallon.",
+        "Bekannt für seine außergewöhnlichen Höhlen und Felsformationen.",
+        "Wichtiger Produzent von Orangen und anderen Zitrusfrüchten.",
+        "Bevölkerung von ca. 15.000 Einwohnern im städtischen Zentrum.",
+        "Gelegen in einer der regenreichsten Zonen des Hochlands.",
+        "Administrative Hauptstadt der Präfektur Lélouma.",
+        "Heimat zahlreicher historischer Moscheen und Gelehrtenstätten.",
+        "Beliebtes Ziel für Trekking- und Naturtourismus."
+      ]
+    },
+    {
+      "id": "lola-cities-v2",
+      "descriptionAdvanced": "Lola liegt im äußersten Südosten Guineas, am Fuße der beeindruckenden Nimba-Berge, die zum UNESCO-Welterbe gehören. Die Stadt ist ein vitales Handelszentrum nahe der Grenze zur Elfenbeinküste und zu Liberia. Die Umgebung von Lola ist von einer einzigartigen Biodiversität geprägt, darunter die berühmten lebendgebärenden Kröten und Schimpansen, die Werkzeuge benutzen. Wirtschaftlich ist die Region von der Landwirtschaft (Kaffee, Kakao, Reis) und zunehmend vom Bergbaupotential der Nimba-Berge geprägt. Kulturell ist Lola ein Schmelztiegel, in dem die Einflüsse der Waldregion auf den Handel der Nachbarstaaten treffen. Die Stadt dient als Basis für Forscher und Naturschützer, die im Nimba-Reservat arbeiten. Geographie K8 — Biodiversität und UNESCO-Welterbe.",
+      "factsAdvanced": [
+        "Hauptstadt der Präfektur am Fuße des Nimba-Massivs (1.752 m).",
+        "Wichtiger Handelsknotenpunkt nahe der Elfenbeinküste und Liberia.",
+        "Basis für den Schutz des UNESCO-Weltnaturerbes Mount Nimba.",
+        "Bevölkerung von ca. 48.000 Einwohnern (Stand 2014).",
+        "Zentrum für den Handel mit Kaffee, Kakao und Kolanüssen.",
+        "Heimat seltener Tierarten (z.B. Nimba-Otterspitzmaus).",
+        "Kulturell vielfältig durch grenzüberschreitende Migrationsströme.",
+        "Zunehmende Bedeutung durch geplante Bergbauprojekte (Eisenerz)."
+      ]
+    },
+    {
+      "id": "mali-cities-v2",
+      "descriptionAdvanced": "Mali (oft Mali-ville genannt, um es vom Nachbarland zu unterscheiden) ist die höchstgelegene Stadt Guineas und liegt auf etwa 1.450 Metern Höhe im Norden des Fouta Djallon. Die Stadt ist berühmt für den Mont Loura, den höchsten Gipfel der Region, und die markante Felsformation 'Dame de Mali', die wie das Profil einer Frau aussieht. Aufgrund der Höhe ist das Klima fast europäisch kühl, was den Anbau von Kartoffeln und Zwiebeln in großem Stil ermöglicht. Mali ist ein Zentrum der Fulbe-Kultur und bekannt für seine traditionelle Architektur und religiöse Bildung. Die spektakuläre Gebirgslandschaft macht die Stadt zu einem der wichtigsten Ziele für den Ökotourismus in Westafrika. Geographie K7 — Hochgebirge und Agrarspezialisierung.",
+      "factsAdvanced": [
+        "Höchstgelegene Stadt Guineas (ca. 1.450 m über dem Meeresspiegel).",
+        "Heimat des Mont Loura (1.515 m) und der 'Dame de Mali'.",
+        "Hauptzentrum für den Kartoffelanbau in Guinea.",
+        "Bevölkerung von etwa 40.000 Einwohnern in der Gemeinde.",
+        "Bekannt für sein kühles Klima, das nachts unter 10°C fallen kann.",
+        "Wichtiger Standort für die religiöse Bildung der Fulbe.",
+        "Beliebtester Ausgangspunkt für Wanderungen im Fouta Djallon.",
+        "Administrative Hauptstadt der Präfektur Mali."
+      ]
+    }
+  ]
+}

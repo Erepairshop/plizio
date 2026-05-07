@@ -1,0 +1,375 @@
+{
+  "lang": "hu",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sadiqabad-cities-v2",
+      "descriptionAdvanced": "Sadiqabad városa Pandzsáb tartomány legdélebbi részén található, szinte a Szindh tartomány határánál. Fontos mezőgazdasági és ipari központ, amely stratégiai elhelyezkedésének köszönhetően összeköti Pakisztán déli és északi részét. A település nevét Sadiq Muhammad Khan Abbasi, a bahawalpur-i állam uralkodója tiszteletére kapta. A város körül elterülő termékeny földek kiválóan alkalmasak a gyapot és a cukornád termesztésére, míg a helyi iparágak közül a műtrágyagyártás a legjelentősebb. A Fatima Fertilizer Company, Pakisztán egyik legnagyobb műtrágyagyára is itt működik. Földrajz K7 — mezőgazdasági és ipari központok hálózata.",
+      "factsAdvanced": [
+        "A település hivatalosan 1948-ban jött létre a terület fejlesztése során.",
+        "Nevét az egykori bahawalpuri nawabról, V. Sadiq Muhammad Khanról kapta.",
+        "A város területén működik az ország egyik legnagyobb műtrágyagyára.",
+        "Sadiqabad az országos N-5-ös főút egyik kulcsfontosságú állomása.",
+        "Kiemelkedő a helyi cukornád- és gyapottermesztés volumene.",
+        "A vasútállomása fontos összekötő kapocs Pandzsáb és Szindh között."
+      ]
+    },
+    {
+      "id": "mirpur-khas-cities-v2",
+      "descriptionAdvanced": "Mirpur Khas a mangóiról híres dél-pakisztáni város Szindh tartományban. A település a Luni-folyó ősi medréhez közel épült fel a 19. század elején. A város neve szó szerint Mir városát jelenti, amelyet a Talpur-dinasztia alapított. Ma Mirpur Khas egy pezsgő agrárközpont, ahol minden nyáron hatalmas fesztivált rendeznek a több száz fajta helyi mangó tiszteletére. A város történelmi jelentőségét tovább növeli az ókori buddhista sztúpa romja (Kahu Jo Daro), amely mintegy 2000 éves múltra tekint vissza. Földrajz K7 — mezőgazdasági specializáció és történelmi kereskedelem.",
+      "factsAdvanced": [
+        "A várost Mir Ali Murad Talpur alapította 1806-ban.",
+        "Minden évben itt rendezik meg Pakisztán legnagyobb mangófesztiválját.",
+        "A közeli Kahu Jo Daro buddhista sztúpa a Kr. u. 4. századból származik.",
+        "A Jamrao-csatorna kiépítése 1900-ban lendítette fel a mezőgazdaságot.",
+        "Pakisztán legfinomabb 'Sindhri' mangóit ebben a régióban termesztik.",
+        "A város történelmileg fontos pihenőhely volt India és Szindh között."
+      ]
+    },
+    {
+      "id": "kamoke-cities-v2",
+      "descriptionAdvanced": "Kamoke, Pandzsáb tartomány egy rohamosan iparosodó városa, a híres Grand Trunk Road (N-5) mentén fekszik, Lahor és Gujranwala között. A város leginkább a hatalmas rizspiacáról ismert; a környéken termesztett kiváló minőségű Basmati rizst innen szállítják Pakisztán többi részébe és a nemzetközi piacokra is. Az utóbbi évtizedekben Kamoke ipara jelentősen kibővült, a rizsmalmok mellett számos textilipari és gépgyártó üzem is megjelent a területen. A város kiváló közlekedési hálózata miatt ideális logisztikai csomóponttá vált a régióban. Földrajz K8 — agrárexport és ipari agglomeráció.",
+      "factsAdvanced": [
+        "A város a történelmi Grand Trunk Road mentén helyezkedik el.",
+        "Kamoke rendelkezik Pakisztán egyik legjelentősebb rizspiacával.",
+        "A környék földjei elsősorban a prémium Basmati rizs termesztésére alkalmasak.",
+        "Lakossága a 2017-es népszámlálás szerint megközelíti a 250 ezer főt.",
+        "A rizshántolás mellett a helyi malomipar és textilipar is meghatározó.",
+        "A város Lahor és Gujranwala között fekszik, stratégiai logisztikai ponton."
+      ]
+    },
+    {
+      "id": "hafizabad-cities-v2",
+      "descriptionAdvanced": "Hafizabad, melyet gyakran a 'Rizs Városaként' is emlegetnek, Északkelet-Pandzsábban található, a Chenab-folyó közelében. A várost Akbar mogul császár uralkodása alatt alapította egy Hafiz nevű nemes. Ma a világ egyik legnagyobb központja a minőségi rizs feldolgozásának és exportjának. A város mezőgazdasági jelentőségét az 1892-ben épült Alsó-Chenab csatorna alapozta meg, amely hatalmas területeket tett öntözhetővé. Hafizabad nemcsak gazdasági, hanem oktatási és kulturális központ is a régióban. Földrajz K7 — mezőgazdasági központok és öntözéses gazdálkodás.",
+      "factsAdvanced": [
+        "A települést a 16. században alapították Akbar mogul császár idején.",
+        "A várost gyakran Pakisztán 'Rizs Fővárosának' (Shiraz-ul-Mashriq) hívják.",
+        "A környék öntözését az Alsó-Chenab csatorna biztosítja.",
+        "A rizsipar több száz exportáló cégnek ad itt otthont.",
+        "Hafizabad gazdasága szinte teljes egészében az agrárexportra épül.",
+        "A történelmi városrész ma is őrzi a mogul korszak egyes építészeti elemeit."
+      ]
+    },
+    {
+      "id": "kohat-cities-v2",
+      "descriptionAdvanced": "Kohat egy ősi város a Hajber-Pahtunhva (Khyber Pakhtunkhwa) tartományban, a Kohat-hágó déli lábánál. Földrajzi fekvése évezredek óta fontos katonai és kereskedelmi állomássá tette az Afganisztán és az indiai szubkontinens közötti útvonalakon. A brit gyarmati uralom idején a város köré jelentős helyőrséget építettek, melynek katonai bázisa ma is működik. A régió büszkélkedhet a Kohat-alagúttal, amely jelentősen lerövidítette a pesavari utat. A helyi kézműiparban a tradicionális lábbelik és a finom szőtteshálók készítése emelkedik ki. Geschichte K8 — a gyarmati korszak és a határvidéki helyőrségek.",
+      "factsAdvanced": [
+        "A várostól északra húzódik a történelmileg fontos Kohat-hágó.",
+        "A város egy jelentős katonai helyőrségnek ad otthont a brit korszak óta.",
+        "Az 1.9 kilométer hosszú Kohat-alagutat a 2000-es évek elején építették.",
+        "A térség ismert a guáva gyümölcs termesztéséről.",
+        "Történelmileg Nagy Sándor hadserege is elhaladt a régió közelében.",
+        "A város környékén jelentős szén- és olajmezők is találhatók."
+      ]
+    },
+    {
+      "id": "jhelum-city-cities-v2",
+      "descriptionAdvanced": "Jhelum a Jhelum-folyó jobb partján fekvő észak-pandzsábi város, amely híres katonai hagyományairól és gazdag történelméről. A várost gyakran a 'Katonák Városának' is nevezik, mivel a brit hadsereg és a modern pakisztáni haderő számára is kiemelkedően sok katonát adott. Történelme egészen Nagy Sándorig nyúlik vissza, aki a Kr. e. 326-ban vívott hüdaszpészi csatában itt győzte le Pórosz királyt. A közelben található az ősi Rohtasz-erőd és a Khevrai sóbánya, amelyek Jhelumot turisztikai csomóponttá is teszik. Geschichte K8 — az ókori csaták és a helyi hadtörténet.",
+      "factsAdvanced": [
+        "A várost gyakran 'Katonák Városa' néven emlegetik (City of Soldiers).",
+        "A Kr. e. 326-ban vívott hüdaszpészi csata a város közelében zajlott.",
+        "A híres Rohtasz-erőd Jhelum városától mindössze 16 kilométerre fekszik.",
+        "Nagy Sándor itt alapította meg Bukephala városát szeretett lova emlékére.",
+        "A város gazdaságát a fafeldolgozás és a márványipar is erősíti.",
+        "A 19. században a brit hadsereg egyik legfontosabb toborzóbázisa volt."
+      ]
+    },
+    {
+      "id": "sahiwal-cities-v2",
+      "descriptionAdvanced": "Sahiwal (korábban Montgomery) egy nyüzsgő város Pandzsáb szívében, amely a mezőgazdaság és az állattenyésztés központja. A várost 1865-ben alapították a Lahor és Karacsi közötti vasútvonal építésekor, és sokáig Sir Robert Montgomery brit kormányzó nevét viselte. A régió világhírű a Sahiwal nevű szarvasmarha-fajtáról, amely a trópusi klímát is jól tűrő, kiváló tejelő fajta. A várostól nem messze található az ókori Harappa, az Indus-völgyi civilizáció egyik legfontosabb régészeti lelőhelye. Földrajz K7 — állattenyésztés, tejipar és történelmi lelőhelyek.",
+      "factsAdvanced": [
+        "A várost 1865-ben alapították Montgomery néven.",
+        "A jelenlegi Sahiwal nevet 1966-ban kapta vissza.",
+        "Az innen származó Sahiwal szarvasmarha-fajta világszerte ismert magas tejhozamáról.",
+        "A Harappa régészeti lelőhely mintegy 24 kilométerre délnyugatra fekszik.",
+        "A város egyike Pakisztán leggyorsabban növekvő agrár-ipari csomópontjainak.",
+        "Sahiwal ad otthont a pakisztáni széntüzelésű Sahiwal Erőműnek."
+      ]
+    },
+    {
+      "id": "khanewal-cities-v2",
+      "descriptionAdvanced": "Khanewal egy jelentős közlekedési és agráripari csomópont Pandzsáb tartományban. A település a brit uralom alatt nőtt nagyra, miután megépült a vasútállomása, amely mára Pakisztán egyik legforgalmasabb vasúti kereszteződésévé fejlődött. Khanewal régiója kifejezetten termékeny, az öntözőcsatornáknak köszönhetően nagy mennyiségű gyapotot, búzát és cukornádat termesztenek itt. A város történelmi érdekessége, hogy a közelben vívták meg az indiai szubkontinens egyik leghíresebb csatáját Tulambánál. Földrajz K8 — a vasúti logisztika és az öntözéses földművelés hatása a városiasodásra.",
+      "factsAdvanced": [
+        "A khanewali vasútállomás a második legforgalmasabb vasúti csomópont Pakisztánban.",
+        "A város a brit vasútépítési hullám idején, a 19. század végén alakult ki.",
+        "Gazdasága elsősorban a gyapotfeldolgozásra és a malomiparra épül.",
+        "A közelben található a történelmi Tulamba erődítmény romja.",
+        "Khanewal környéke adja az ország gyapottermelésének egy jelentős részét.",
+        "A várost érinti az országot átszelő N-5-ös főútvonal is."
+      ]
+    },
+    {
+      "id": "gojra-cities-v2",
+      "descriptionAdvanced": "Gojra város Pandzsáb tartomány Toba Tek Singh körzetében található, melyet az 1890-es évek végén alapítottak a brit öntözési projektek nyomán. A várost gyakran Pakisztán gyeplabda-fővárosaként ismerik, mivel évtizedek óta ontja magából az ország legjobb és legsikeresebb olimpiai és világbajnok gyeplabdázóit. Bár a város iparát és mezőgazdaságát tekintve viszonylag kis méretű, jelentős cukornád- és búzaültetvények övezik. Gojra gazdasága a környező mezőgazdasági termények feldolgozására támaszkodik. Sachkunde K5 — a sport helyi jelentősége és a mezőgazdasági kisvárosok élete.",
+      "factsAdvanced": [
+        "Gojra 1896-ban alakult ki a csatornahálózat kiépítésének köszönhetően.",
+        "A város több tucat olimpikon gyeplabdázót adott Pakisztánnak.",
+        "Gazdaságának alapja a gabona- és a cukornád-termesztés.",
+        "A település 1904-ben vált hivatalosan is piaccá (Mandi).",
+        "A helyi vasútállomás az 1899-es évben épült meg.",
+        "Gojra lakossága a 2017-es népszámláláskor meghaladta a 170 ezer főt."
+      ]
+    },
+    {
+      "id": "mandi-bahauddin-cities-v2",
+      "descriptionAdvanced": "Mandi Bahauddin a Chenab és Jhelum folyók között elterülő Chaj Doab régió egyik központi városa. A város neve szó szerint 'Bahauddin piacát' jelenti, amely Bahauddin nevű helyi szufi szentre utal. A város kiemelkedő mezőgazdasági jelentőséggel bír, különösen a kiváló minőségű búza és a finom rizs termesztésében. A közeli Rasul Barrage (gát) biztosítja a régió öntözővíz-ellátását és hidroelektromos energiát termel. Mandi Bahauddin környéke számos történelmi esemény, köztük Nagy Sándor híres csatájának (hüdaszpészi csata) színhelye volt. Földrajz K8 — a folyóközök (doabok) mezőgazdasági szerepe.",
+      "factsAdvanced": [
+        "A város a Chenab és Jhelum folyók közötti területen fekszik.",
+        "Nevét Bahauddin helyi aszkétáról és a virágzó piacról (mandi) kapta.",
+        "A közelben zajlott a Kr. e. 326-os hüdaszpészi csata Nagy Sándor és Pórosz között.",
+        "A közeli Rasul-gátat 1968-ban építették az öntözés javítására.",
+        "A helyi gazdaság legfontosabb exportcikke a jó minőségű Basmati rizs.",
+        "A város az egyik legmagasabb műveltségi rátával rendelkezik Pandzsábban."
+      ]
+    },
+    {
+      "id": "muridke-cities-v2",
+      "descriptionAdvanced": "Muridke gyorsan fejlődő ipari város a Grand Trunk Road mentén, nem messze Lahortól. Földrajzi közelsége Lahorhoz ideális hellyé tette a nehéz- és könnyűipari befektetések számára, így mára számos acélmű, üveggyár és textilipari komplexum otthona lett. Történelmileg a várost a Szikh Birodalom idején kezdték jelentősebb településként elismerni, de az igazi fellendülést a 20. század végi iparosítás hozta el. Bár ipari fellegvár, a várost körülvevő földeken a mai napig búzát és rizst termesztenek. Földrajz K8 — az ipari agglomeráció és a nagyvárosok vonzáskörzete.",
+      "factsAdvanced": [
+        "Muridke körülbelül 30 kilométerre fekszik Lahortól északra.",
+        "A város közvetlenül a történelmi N-5 (Grand Trunk Road) útvonalán található.",
+        "Számos pakisztáni multinacionális vállalat hozott létre itt gyárakat.",
+        "Az iparosítás révén az elmúlt két évtizedben a lakossága megduplázódott.",
+        "Az ipar mellett nagy jelentősége van az északi rizstermesztésnek is.",
+        "A város híres az évente megrendezett nagy vallási és közösségi gyűléseiről."
+      ]
+    },
+    {
+      "id": "tando-adam-cities-v2",
+      "descriptionAdvanced": "Tando Adam Khan, közismertebb nevén Tando Adam, a pakisztáni Szindh tartomány egyik jelentős ipari és mezőgazdasági városa. A várost a 18. század végén alapította Mir Adam Khan Mari. Tando Adam a textilipar egyik szindhi fellegvára, számos pamut- és textilmalommal rendelkezik, és a környező pamutföldek termését dolgozza fel. Emellett hatalmas banán- és mangóültetvények övezik. Közlekedési csomópontként is kiemelkedő, hiszen az országos vasúthálózat fontos megállója. Földrajz K7 — a gyapotipar és a mezőgazdaság együttélése Szindhben.",
+      "factsAdvanced": [
+        "A várost Mir Adam Khan Mari alapította a Talpur-uralom alatt.",
+        "Tando Adam rendelkezik Pakisztán legnagyobb pamutpiacainak egyikével.",
+        "A város hatalmas szövőiparral és textilmalmokkal büszkélkedhet.",
+        "A környék a mangó, a banán és a gyapot elsődleges termőterülete.",
+        "A város a Karacsi és Lahor közötti fő vasútvonal egyik fontos állomása.",
+        "A lakosság túlnyomórészt szindhi és urdu nyelven beszél."
+      ]
+    },
+    {
+      "id": "tando-allahyar-cities-v2",
+      "descriptionAdvanced": "Tando Allahyar Szindh tartomány egyik történelmi városa, amelyet a 18. században alapította Allahyar Khan Talpur. A város kezdetben agyagerődként indult, amelyet a kereskedelmi útvonalak védelmére építettek. Ma a mezőgazdaságáról, különösen a cukornád- és mangótermesztéséről híres. Tando Allahyar az ország egyik legnagyobb cukorfinomító üzemével rendelkezik, és számos fesztiválnak, így a szufi szentek emlékére rendezett Mela (vásár) eseményeknek ad otthont, amelyek a kulturális élet mozgatórugói. Geschichte K8 — az erődvárosok átalakulása ipari-agrár központokká.",
+      "factsAdvanced": [
+        "A települést 1709-ben alapították agyagerődítmény formájában.",
+        "Tando Allahyar neve Allahyar Khan Talpur alapító nevét őrzi.",
+        "A város Pakisztán egyik legnagyobb cukornád-feldolgozójával büszkélkedhet.",
+        "A Watayo Faqir nevű szufi szent szentélye is itt található.",
+        "A környék gyümölcstermesztése, különösen a mangó kiemelkedő fontosságú.",
+        "2005-ben a város önálló kerületi státuszt (District) kapott."
+      ]
+    },
+    {
+      "id": "chiniot-cities-v2",
+      "descriptionAdvanced": "Chiniot történelmi városa a Chenab folyó partján fekszik Pandzsáb tartományban. A település elsősorban lenyűgöző faművességéről, kézzel faragott bútorairól és építészeti csodáiról híres világszerte. A leghíresebb látványossága az Omar Hayat Mahal, egy 19. századi faragott fa palota, amely a helyi asztalosmesterség csúcspontja. Chiniot domborzatilag is különleges, a síkságból kiemelkedő sziklái ősiek, a folyó pedig kettészeli a hegyeket. A város a pakisztáni iszlám építészet egyik gyöngyszeme a Badshahi mecsethez hasonló helyi Shahi mecsettel. Kunst K8 — a helyi kézművesség, fafaragás és az építészeti örökség.",
+      "factsAdvanced": [
+        "A város világszerte ismert mesteri fafaragóiról és bútorairól.",
+        "Az Omar Hayat Mahal a 19. század végén épült fából és stukkóból.",
+        "A 17. században épült Shahi-mecset a helyi mogul stílusú építészet példája.",
+        "A város melletti sziklák geológiailag nagyon ősiek, a síkságból törnek fel.",
+        "Történelmileg Chiniot a selyemút egyik leágazásának pihenőhelye volt.",
+        "A Riwaz híd (1893) Chiniotnál köti össze a Chenab két partját."
+      ]
+    },
+    {
+      "id": "khuzdar-cities-v2",
+      "descriptionAdvanced": "Khuzdar városa Beludzsisztán tartomány központjában fekszik, és a tartomány második legnagyobb városa. Stratégiai fontosságát a hegyek közötti fekvése adja az N-25-ös (RCD) autópálya mentén, amely összeköti Karacsit Kvetta városával, majd Afganisztánnal. A térség történelme során az arab hódítások és a helyi brahmi királyságok fontos csomópontja volt. A város gazdasága ma a bányászatra (barit, fluorit) és a környék oázisaiban folytatott mezőgazdaságra épül. A nyüzsgő helyi piacokon a nomád pásztorok cserélik ki terményeiket. Földrajz K8 — hegyi városok, bányászat és sivatagi kereskedelem.",
+      "factsAdvanced": [
+        "Khuzdar Beludzsisztán második legnépesebb városa Kvetta után.",
+        "A város az RCD autópálya (N-25) fontos logisztikai központja.",
+        "A 7. században az iszlám seregek egyik első állomása volt a régióban.",
+        "A környékbeli bányákban jelentős barit- és ónkészleteket bányásznak.",
+        "Khuzdar 1974-ben vált a Kalat kerületből önálló adminisztratív központtá.",
+        "Az 1990-ben alapított Balochistan UET egyetem jelentős oktatási intézménye."
+      ]
+    },
+    {
+      "id": "vehari-cities-v2",
+      "descriptionAdvanced": "Vehari egy dél-pandzsábi mezőgazdasági város, amelyet gyakran az ország 'Gyapot Fővárosának' is neveznek. A város a Sutlej-folyótól északra terül el, ahol a 20. század elején épült csatornarendszerek varázsolták a sivatagos tájat dús termőfölddé. Vehari ma Pakisztán textilipari gépezetének egyik legfontosabb alapanyag-beszállítója, mivel kiváló minőségű gyapotot termel. A modern városiasodás gyorsan átformálta a települést, de gazdaságának szíve ma is a helyi mezőgazdasági termelőszövetkezetekben és a piacokon dobog. Földrajz K7 — az öntözéses gazdálkodás transzformáló ereje.",
+      "factsAdvanced": [
+        "Vehari a pakisztáni gyapottermesztés egyik legfőbb központja.",
+        "A település 1976-ban kapott önálló kerületi (District) státuszt.",
+        "Az 1920-as évek brit öntözési programjai alapozták meg mezőgazdaságát.",
+        "A városon keresztülhalad a Pakisztáni Vasút egy fontos szárnyvonala.",
+        "Bár a nyarak rendkívül forrók, a fejlett öntözés fenntartja a termést.",
+        "A helyi gazdaság kiterjedt cukornád- és mangótermesztést is folytat."
+      ]
+    },
+    {
+      "id": "daska-cities-v2",
+      "descriptionAdvanced": "Daska egy dinamikus ipari és kereskedelmi város Pandzsábban, a híres 'Ipari Háromszög' (Sialkot, Gujranwala, Gujrat) szomszédságában. Történelmileg a várost állítólag a 17. században alapították, és a neve a szanszkrit eredetű 'tíz' szóból eredhet, mivel régen tíz falu alkotta. Daska modern gazdasága a gépgyártásról ismert, különösen a mezőgazdasági gépek, vízszivattyúk és traktoralkatrészek gyártásában jeleskedik. A város hozzájárulása a pakisztáni agrártechnika gépesítéséhez kiemelkedő fontosságú. Wirtschaft K8 — a helyi nehézipar és a gépgyártás fejlődése.",
+      "factsAdvanced": [
+        "A várost állítólag egy Shah Jahan uralkodása alatti földbirtokos alapította.",
+        "Daska a pakisztáni mezőgazdasági gépgyártás egyik központja.",
+        "Évente több ezer vízszivattyút és traktoralkatrészt gyártanak itt.",
+        "Sialkottól mindössze 26 kilométerre helyezkedik el.",
+        "Az 1906-ban épült Bambawali-Ravi-Bedian csatorna szeli ketté a várost.",
+        "Daska kézművesei rézművességükről is ismertek voltak a 19. században."
+      ]
+    },
+    {
+      "id": "mansehra-cities-v2",
+      "descriptionAdvanced": "Mansehra egy festői hegyvidéki város Hajber-Pahtunhva (Khyber Pakhtunkhwa) tartományban, a Himalája lábánál. A várost a szikh uralom alatt alapította Mahan Singh Mirpuri kormányzó az 1820-as években. Mansehra a Karakorum Highway, azaz a legendás KKH útvonalának fontos kapuja, így a Gilgit-Baltisztánba és Kínába tartó utazók és kereskedők elengedhetetlen pihenőhelye. A város közelében találhatók a híres Asóka-feliratok, amelyeket az i.e. 3. században véstek három nagy sziklára. Geschichte K8 — az ókori Maurja Birodalom és a modern hegyi utak kapcsolata.",
+      "factsAdvanced": [
+        "A várost az 1820-as években alapította a szikh Mahan Singh Mirpuri.",
+        "Itt találhatók a híres, kharósthí írással készült Asóka-sziklafeliratok (Kr. e. 3. sz.).",
+        "A település a Karakorum Highway (N-35) egyik kiindulópontja.",
+        "Mansehra egy rendkívül fontos turisztikai tranzitváros a Kaghan-völgy felé.",
+        "A város környéke hatalmas fenyőerdőkkel és teraszos földműveléssel bír.",
+        "A 2005-ös kasmíri földrengés komoly károkat okozott a régióban."
+      ]
+    },
+    {
+      "id": "toba-tek-singh-cities-v2",
+      "descriptionAdvanced": "Toba Tek Singh város Pandzsáb tartomány szívében helyezkedik el. A város nevét egy szikh vallási személyiségről, Tek Singh-ről kapta, aki egy tó (toba) mellett ingyen vízzel látta el a fáradt utazókat a 19. században. A település irodalmi hírnevet szerzett magának Saadat Hasan Manto azonos című híres novellájával, amely az 1947-es India-Pakisztán felosztás abszurditásait mutatja be. Toba Tek Singh mezőgazdaságilag rendkívül termékeny, főként citrusféléket és búzát termesztenek. Földrajz K7 — a csatornarendszerek története és az irodalmi emlékezet.",
+      "factsAdvanced": [
+        "A várost egy szikh remete, Tek Singh után nevezték el.",
+        "A település egy 19. századi mesterséges csatornahálózat köré épült.",
+        "Híressé tette Saadat Hasan Manto 1955-ös 'Toba Tek Singh' című novellája.",
+        "A környék exportminőségű narancsot és mandarint (Kinnow) termeszt.",
+        "1982-ben nyert önálló kerületi (District) státuszt.",
+        "A város a Pandzsábi-síkság egyik legintenzívebben művelt területén fekszik."
+      ]
+    },
+    {
+      "id": "shikarpur-cities-v2",
+      "descriptionAdvanced": "Shikarpur az egyik legjelentősebb történelmi kereskedőváros Szindh tartományban. A 17. század elején alapított város évszázadokon keresztül Közép-Ázsia és Dél-Ázsia kereskedelmének pénzügyi fővárosa volt. A híres Bolan- és Khojak-hágókon keresztül érkező karavánok mind itt álltak meg, és a shikarpuri bankárok hitellevelei (hundi) eljutottak egészen Asztrahánig és Moszkváig. A város híres történelmi bazárjáról, a fedett Dhak-bazárról és lenyűgöző faragott faerkélyes, brit és szindhi stílusú épületeiről. Geschichte K8 — a történelmi pénzügyi központok és a selyemút kereskedelme.",
+      "factsAdvanced": [
+        "A várost a Daudpota törzs alapította 1617-ben.",
+        "A 18-19. században Shikarpur az ázsiai kereskedelem pénzügyi központja volt.",
+        "A Dhak Bazaar egy hagyományos fedett piac, amely a város közepén áll.",
+        "A shikarpuri bankárok hitelleveleit (Hundi) Közép-Ázsia-szerte elfogadták.",
+        "A város építészetére jellemzők a gazdagon faragott fa erkélyek és ajtók.",
+        "Ma a város az ország egyik fontos rizstermelő vidékének központja."
+      ]
+    },
+    {
+      "id": "jacobabad-cities-v2",
+      "descriptionAdvanced": "Jacobabad városa a szindh és a beludzsisztáni határvidéken fekszik, és leginkább extrém klímájáról ismert. A várost John Jacob brit tiszt alapította 1847-ben egy korábbi Khangarh nevű falu helyén. A nyári hónapokban a hőmérséklet gyakran meghaladja az 50 Celsius-fokot, így Jacobabad Ázsia egyik legforróbb városa. Ennek ellenére a város fontos agráripari és közlekedési csomópont, amelyet John Jacob csatornarendszer-építései virágoztattak fel a 19. században. A városban jelentős katonai repülőtér is működik. Földrajz K8 — az extrém időjárási körülmények és a sivatagi alkalmazkodás.",
+      "factsAdvanced": [
+        "A várost John Jacob kelet-indiai társasági tábornok alapította 1847-ben.",
+        "Nyáron a hőmérséklet rendszeresen átlépi a pokoli 50°C-ot (122°F).",
+        "A várost történelmileg Khangarh néven ismerték a brit korszak előtt.",
+        "Jacobabad ad otthont a Shahbaz légibázisnak, egy fontos repülőtérnek.",
+        "Az extrém hőség ellenére a helyi mezőgazdaság búzát és rizst termeszt.",
+        "John Jacob mérnöki munkája révén a terület öntözhetővé vált a sivatagban."
+      ]
+    },
+    {
+      "id": "khairpur-cities-v2",
+      "descriptionAdvanced": "Khairpur egy történelmi jelentőségű város Szindh tartományban, amely a Khairpur Fejedelemség fővárosa volt 1783-tól egészen Pakisztánba olvadásáig, 1955-ig. A várost a Talpur-dinasztia alapította, és lenyűgöző palotákat építettek benne, mint például a csodálatos Faiz Mahal. Ma a régió Pakisztán egyik legnagyobb datolyatermelője; Khairpur pálmaligetei adják az ország datolyaexportjának döntő részét. A város emellett jelentős oktatási központ is, itt található a tekintélyes Shah Abdul Latif Egyetem. Geschichte K8 — a fejedelemségek kora és a sivatagi oázisok mezőgazdasága.",
+      "factsAdvanced": [
+        "A Khairpur Fejedelemséget a Talpur dinasztia alapította 1783-ban.",
+        "A fejedelemség csak 1955-ben olvadt be teljesen Pakisztánba.",
+        "Itt található a lenyűgöző Faiz Mahal palota, az uralkodók egykori otthona.",
+        "Khairpur termeli Pakisztán datolyájának több mint felét.",
+        "A Shah Abdul Latif Egyetem a térség legfontosabb oktatási intézménye.",
+        "A város környéke hatalmas kiterjedésű történelmi pálmaligetekkel bír."
+      ]
+    },
+    {
+      "id": "burewala-cities-v2",
+      "descriptionAdvanced": "Burewala Dél-Pandzsáb egy gyorsan fejlődő ipari-mezőgazdasági városa, a Sutlej folyó ősi árterületén fekszik. A 20. század közepén még csak kis piacváros volt, ám a csatornarendszerek bővülésével hatalmas textilközponttá vált. A 'Burewala Textile Mills', mely egykor Ázsia egyik legnagyobb textilipari vállalata volt, jelentősen meghatározta a település növekedését. Emellett a város sportélete is kiemelkedő, Burewala adta Pakisztán leghíresebb krikettjátékosainak egyikét, Waqar Younist is. Földrajz K7 — a helyi ipar fellendülése és a gyapotfeldolgozás hatása.",
+      "factsAdvanced": [
+        "A település hivatalos önkormányzati státuszt 1967-ben kapott.",
+        "Az egykori Burewala Textile Mills a kontinens legnagyobbjai közé tartozott.",
+        "A város körül hatalmas gyapot- és gabonaföldek terülnek el.",
+        "Híres szülötte Waqar Younis, a legendás pakisztáni krikettjátékos.",
+        "Burewala az első számú pamutpiac (Mandi) a Vehari körzetben.",
+        "A település gyors növekedését az országos N-5-ös úthoz való közelsége segíti."
+      ]
+    },
+    {
+      "id": "pakpattan-cities-v2",
+      "descriptionAdvanced": "Pakpattan, ősi nevén Ajodhan, Pakisztán egyik legszentebb városa, amely a szufi zarándoklatok központja. Itt nyugszik a 12. századi nagy szufi szent és költő, Baba Fariduddin Ganjshakar, akinek a pandzsábi nyelvű irodalom kialakulásában is kulcsszerepe volt. A település neve, mely 'Tiszta Rév'-et jelent, arra utal, hogy a zarándokok a Sutlej folyón keltek át ide érkezve. Pakpattan minden évben több százezer zarándokot fogad az Urs fesztivál idején, így gazdasága a vallási turizmusra és a helyi mezőgazdaságra épül. Geschichte K8 — a szufizmus hatása az indiai szubkontinens vallási életére.",
+      "factsAdvanced": [
+        "A város eredeti ősi neve Ajodhan volt.",
+        "A 'Pakpattan' név szó szerinti jelentése: 'Tiszta Rév' vagy kikötő.",
+        "Itt található Baba Farid 13. században épült sírja és szentélye.",
+        "Minden évben a Muharram hónapban tartják a hatalmas Urs fesztivált.",
+        "A zarándokok a szentély híres Mennyei Ajtaján (Bahishti Darwaza) haladnak át.",
+        "Történelmileg fontos átkelőhely volt a Sutlej folyón hódítók számára is."
+      ]
+    },
+    {
+      "id": "charsadda-cities-v2",
+      "descriptionAdvanced": "Charsadda történelmi város Hajber-Pahtunhva (Khyber Pakhtunkhwa) tartományban, amely ősi időkben Pushkalavati néven a Gandhara királyság fővárosa volt. A terület mintegy 3000 éve folyamatosan lakott, és Nagy Sándor hadserege is ostrom alá vette Kr. e. 327-ben. Ma a város a mezőgazdaság fellegvára, három folyó – a Swat, a Kabul és a Jindi – termékennyé teszi a földjeit. Charsadda kiemelkedő a cukornád- és lótuszgyökér-termesztésben, emellett híres a hagyományos, kézzel varrt bőr szandálok (Charsadda Chappal) és a barna nádcukor (Gur) előállításáról. Geschichte K8 — a Gandhara kultúra és Nagy Sándor hódításai.",
+      "factsAdvanced": [
+        "Az ókorban Pushkalavati néven ismerték, mely a 'Lótuszok Városát' jelenti.",
+        "A Gandhara királyság egyik legelső fővárosa volt az i.e. 1. évezredben.",
+        "Nagy Sándor csapatai heves ostrom után foglalták el Kr. e. 327-ben.",
+        "Bala Hisar, az ősi erőd romjai a mai napig megtekinthetők a város szélén.",
+        "A település rendkívül híres a hagyományos Charsadda Chappal lábbeliről.",
+        "Három folyó, a Kabul, a Swat és a Jindi találkozik a város környékén."
+      ]
+    },
+    {
+      "id": "wazirabad-cities-v2",
+      "descriptionAdvanced": "Wazirabad ipari város Pandzsábban, a Chenab folyó partján, mely az indiai szubkontinens egyik legfontosabb evőeszköz- és fegyvergyártó központja. A várost Wazir Khan alapította a 17. században. Később a szikh uralom alatt, különösen az olasz Avitabile tábornok irányítása alatt, modernizálták. Ma Wazirabad exportálja a világ egyik legjobb minőségű késeit, sebészeti eszközeit és hagyományos tőreit. Emellett fontos közlekedési csomópont is, hiszen a híres, britek által 1876-ban épített Alexandra híd köti össze a Chenab két partját. Wirtschaft K8 — a fémfeldolgozás és a specializált iparágak globális piaca.",
+      "factsAdvanced": [
+        "A várost a 17. században a mogul tisztviselő, Wazir Khan alapította.",
+        "Világszerte híres a kiváló minőségű zsebkések és evőeszközök gyártásáról.",
+        "Paolo Avitabile olasz tábornok a szikh korszakban tervezte újra a várost.",
+        "Itt épült 1876-ban az Alexandra híd a Chenab folyó felett.",
+        "A helyi ipar naponta több ezer tonna acélt dolgoz fel exportra.",
+        "Wazirabad a Pandzsáb tartomány egyik kulcsfontosságú vasúti elágazása."
+      ]
+    },
+    {
+      "id": "nowshera-cities-v2",
+      "descriptionAdvanced": "Nowshera egy forgalmas katonai és kereskedelmi város a Kabul-folyó partján Hajber-Pahtunhva tartományban. Földrajzi fekvése Pesavar és Pandzsáb között, a Grand Trunk Road mentén stratégiai fontosságúvá tette évszázadokon át. A brit gyarmati időkben kiépítették hatalmas katonai helyőrségét, amely ma is a Pakisztáni Hadsereg egyik legfontosabb logisztikai és kiképző központja. A város ipara a papír- és dohánygyártásáról is ismert, míg a történelmi emlékek között az 1920-as évekből származó, britek által épített vashidak a legmeghatározóbbak. Geschichte K8 — katonai helyőrségvárosok a gyarmati korban.",
+      "factsAdvanced": [
+        "Nowshera a Grand Trunk Road és a Kabul-folyó kereszteződésében fekszik.",
+        "A város egy gigantikus katonai kantonment (helyőrség) köré épült.",
+        "1823-ban jelentős csata zajlott itt a szikhek és az afgán seregek között.",
+        "Itt működik a Pakisztáni Páncélos Erők központja (Armoured Corps Centre).",
+        "A város gyakran küzd a Kabul-folyó tavaszi, pusztító áradásaival.",
+        "Gazdaságában a papírgyártás és a Virginia dohány feldolgozása is jelentős."
+      ]
+    },
+    {
+      "id": "mingora-cities-v2",
+      "descriptionAdvanced": "Mingora a festői Szvát-völgy legnagyobb kereskedelmi központja Hajber-Pahtunhva tartományban. Bár a szomszédos Saidu Sharif az adminisztratív központ, Mingora a mindennapi élet, a turizmus és a helyi gazdaság lüktető szíve. A város ősi buddhista múlttal rendelkezik; a közelben található a Butkara-sztúpa és számtalan Gandhara-kori kőfaragvány, amelyeket Nagy Asóka idejéből származtatnak. Ma Mingora híres bazárjairól, a helyi smaragdbányászatról, a finom fafaragásokról és a hagyományos hímzésekről, valamint a síterepek kapujaként is szolgál. Földrajz K8 — hegyi turizmus, ásványkincsek és kézművesség.",
+      "factsAdvanced": [
+        "Mingora a Szvát-völgy (Swat Valley) kereskedelmi és kulturális fővárosa.",
+        "A város közelében lévő Butkara I sztúpát az i.e. 3. században építették.",
+        "A térségben található Ázsia egyik legjelentősebb smaragdlelőhelye.",
+        "A város Malala Yousafzai Nobel-békedíjas aktivista szülővárosa.",
+        "Mingora több ezer Gandhara-kori buddhista régészeti emlékkel van körülvéve.",
+        "Magas hegyi elhelyezkedése miatt népszerű nyári turisztikai központ."
+      ]
+    },
+    {
+      "id": "turbat-cities-v2",
+      "descriptionAdvanced": "Turbat Beludzsisztán tartomány déli, Makrán régiójának legfontosabb városa, amely a Kech-folyó mentén egy sivatagi oázisban fekszik. A város Pakisztán egyik legforróbb pontja, nyáron a hőmérséklet tartósan 50 Celsius-fok körül ingadozik. Turbat az ország egyik legnagyobb datolyatermelője, több mint 100 különböző datolyafajtát termesztenek a környező pálmaligetekben. Történelmileg Turbat volt a régió hatalmi központja, a makráni állam fővárosa, mielőtt 1955-ben Pakisztánhoz csatlakozott. Ma Gwadar közelsége miatt fontos logisztikai összekötő a Kína-Pakisztán Gazdasági Folyosón (CPEC). Földrajz K8 — oázisok, sivatagi klíma és datolyatermesztés.",
+      "factsAdvanced": [
+        "Turbat a történelmi Makrán Fejedelemség központja volt.",
+        "Ázsia egyik legforróbb városa; 2017-ben 53,5 °C-ot mértek itt.",
+        "A város datolyatermesztése nemzetközileg ismert, 100+ fajtával.",
+        "A Kech-folyó, bár gyakran kiszárad, az oázis éltető ereje.",
+        "A városból származik a híres, szomorú sorsú balucsi népi hős, Punnu (Sassi Punnu legendája).",
+        "A Gwadar-kikötő építése miatt stratégiai logisztikai gócponttá vált."
+      ]
+    },
+    {
+      "id": "gwadar-cities-v2",
+      "descriptionAdvanced": "Gwadar egy gyorsan növekvő mélyvízi kikötőváros Beludzsisztán tartomány makráni partvidékén, az Arab-tenger partján. Érdekesség, hogy a város egészen 1958-ig az Ománi Szultanátus exklávéja volt, ekkor vásárolta meg tőlük Pakisztán. Ma Gwadar a Kína-Pakisztán Gazdasági Folyosó (CPEC) ékköve, amely a globális tengeri kereskedelem új központjává válhat. Bár a modern infrastruktúra hatalmas ütemben épül, az eredeti város őrzi egyedi beludzsi és ománi kulturális keveredését, melynek hagyományos halászhajói (dhow) máig a tengeren ringatóznak. Földrajz K8 — mélyvízi kikötők, geopolitika és a tengeri kereskedelem.",
+      "factsAdvanced": [
+        "A terület 1783-tól 1958-ig hivatalosan Ománhoz tartozott.",
+        "Pakisztán 1958-ban 3 millió dollárért vásárolta vissza a szultanátustól.",
+        "Gwadar Pakisztán legnagyobb és legmélyebb tengeri kikötője.",
+        "A város a több milliárd dolláros CPEC projekt legfontosabb végpontja.",
+        "Földrajzilag egy pörölyölyv formájú félszigeten (tomboló) fekszik.",
+        "A hagyományos gazdaság alapja évszázadokig a halászat és hajóépítés volt."
+      ]
+    }
+  ]
+}

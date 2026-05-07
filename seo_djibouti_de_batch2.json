@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "djibouti",
+  "files": [
+    "lib/visualLab/data/poiExtraDjiboutiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiLifeV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiNatureV2.ts",
+    "lib/visualLab/data/poiExtraDjiboutiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "moulhoule-cities-v2",
+      "descriptionAdvanced": "Moulhoule ist ein isoliertes Küstendorf im Norden Dschibutis, das für seine raue, unberührte Landschaft und seine traditionelle Salzgewinnung bekannt ist. Gelegen in einer extrem ariden Region, leben die Bewohner hier in enger Abstimmung mit den Gezeiten und den spärlichen Ressourcen des Meeres. Der Ort dient als kleiner, aber wichtiger Stützpunkt für lokale Fischer und Hirten, die die nahegelegenen Salzpfannen nutzen. Die Umgebung von Moulhoule ist geprägt von vulkanischem Gestein und einer kargen Küstenlinie, was die Herausforderungen des Lebens an diesem entlegenen Außenposten verdeutlicht. Geografie K7 — Küstenressourcen und Isolation.",
+      "factsAdvanced": [
+        "Isoliertes Küstendorf im Norden der Region Obock.",
+        "Bekannt für die traditionelle Gewinnung von Meersalz.",
+        "Befindet sich in einer extrem trockenen und heißen Klimazone.",
+        "Wichtiger Bezugspunkt für lokale Fischergemeinschaften.",
+        "Umgebung besteht primär aus vulkanischem Gestein.",
+        "Nur über anspruchsvolle Pisten durch die Wüste erreichbar."
+      ]
+    },
+    {
+      "id": "sagallou-cities-v2",
+      "descriptionAdvanced": "Sagallou ist ein geschichtsträchtiges Küstendorf am Golf von Tadjoura, das im späten 19. Jahrhundert kurzzeitig internationale Aufmerksamkeit erregte. Im Jahr 1889 war es Schauplatz des sogenannten 'Sagallo-Vorfalls', einer gescheiterten russischen Kolonialmission unter Nikolai Aschinow. Heute sind die Ruinen einer alten ägyptischen Festung stille Zeugen dieser bewegten Vergangenheit. Das Dorf ist heute ein friedlicher Ort, der durch seine historische Bedeutung und den weiten Blick über den Ozean besticht. Es bietet einen faszinierenden Einblick in die geopolitischen Ambitionen der Kolonialmächte am Horn von Afrika. Geschichte K8 — Koloniale Rivalitäten und lokale Stützpunkte.",
+      "factsAdvanced": [
+        "Schauplatz einer versuchten russischen Kolonialgründung 1889.",
+        "Beheimatet Ruinen einer Festung aus der Zeit des Khedivats Ägypten.",
+        "Strategisch gelegen am nördlichen Ufer des Golfs von Tadjoura.",
+        "Historisch bedeutsam für die Erforschung kolonialer Expansion.",
+        "Ruhiges Fischerdorf mit tief verwurzelten Traditionen.",
+        "Bietet archäologische Spuren aus verschiedenen Epochen."
+      ]
+    },
+    {
+      "id": "as-eyla-cities-v2",
+      "descriptionAdvanced": "As Eyla ist ein bedeutendes Dorf im Süden der Region Dikhil, das strategisch günstig am Eingang zum Goba'ad-Becken liegt. Inmitten einer weiten und flachen Wüstenlandschaft gelegen, dient der Ort als zentraler Treffpunkt und Markt für die nomadischen Hirten der Region. As Eyla ist bekannt für die außergewöhnliche Gastfreundschaft seiner Bewohner und seine Rolle als logistisches Bindeglied nahe der äthiopischen Grenze. Die Umgebung ist geprägt von arider Vegetation und bietet einen authentischen Einblick in das Leben der Afar-Nomaden, deren Kultur hier tief verwurzelt ist. Sozialkunde K6 — Nomadische Gesellschaften und regionale Märkte.",
+      "factsAdvanced": [
+        "Strategisches Tor zum ökologisch wichtigen Goba'ad-Becken.",
+        "Zentraler Handelsplatz für Vieh und lokale Waren.",
+        "Liegt in einer weiten, ariden Tiefebene im Süden Dschibutis.",
+        "Bekannt für die Bewahrung traditioneller Afar-Gastfreundschaft.",
+        "Wichtiger Versorgungspunkt für Reisende Richtung Äthiopien.",
+        "Umgebung beheimatet an Trockenheit angepasste Tierarten."
+      ]
+    },
+    {
+      "id": "beyadde-cities-v2",
+      "descriptionAdvanced": "Beyadde ist eine Siedlung im Osten der Region Ali Sabieh, die sich durch ihre markante felsige Umgebung und ihre strategische Nähe zur Grenze von Somalia auszeichnet. Der Ort spielt eine wichtige Rolle für die regionale Sicherheit und Überwachung der Grenzbewegungen in diesem kargen Gelände. Umgeben von schroffen Hügeln und trockenen Plateaus, spiegelt Beyadde die harten Lebensbedingungen im dschibutischen Hinterland wider. Trotz seiner geringen Größe ist es ein essenzieller Außenposten, der die staatliche Präsenz in den entlegenen Grenzgebieten sichert. Geografie K7 — Grenzgeografie und Sicherheit.",
+      "factsAdvanced": [
+        "Siedlung im östlichen Teil der Region Ali Sabieh.",
+        "Positioniert in unmittelbarer Nähe zur somalischen Grenze.",
+        "Gelände ist geprägt von felsigen Hügeln und Plateaus.",
+        "Wichtiger Standort für Sicherheits- und Grenzschutzkräfte.",
+        "Klima ist extrem trocken mit sehr spärlicher Vegetation.",
+        "Dient als Stützpunkt für die Überwachung regionaler Routen."
+      ]
+    },
+    {
+      "id": "dakka-cities-v2",
+      "descriptionAdvanced": "Dakka ist ein kleiner, aber dynamischer Ort unweit der Stadt Ali Sabieh, dessen Entwicklung eng mit der angrenzenden Eisenbahnlinie verknüpft ist. Die Siedlung fungiert als lokales Zentrum für den Kleinhandel und bietet den umliegenden ländlichen Gemeinschaften wichtige Dienstleistungen. Viele Bewohner pflegen noch die traditionelle Bauweise, was Dakka ein authentisches Erscheinungsbild verleiht. Als Stopp für regionale Züge sichert der Ort die Mobilität der Bevölkerung und den Austausch von Gütern in der südlichen Region Dschibutis. Wirtschaft K7 — Regionaler Handel und Transportwesen.",
+      "factsAdvanced": [
+        "Ortschaft mit direktem Bezug zur Eisenbahninfrastruktur.",
+        "Zentrum für den lokalen Handel in der Region Ali Sabieh.",
+        "Bewahrt traditionelle architektonische Merkmale der Region.",
+        "Wichtiger Punkt für den Austausch ländlicher Erzeugnisse.",
+        "Profitiert von der logistischen Anbindung an die Hauptstadt.",
+        "Umgeben von markanten Tafelbergen und Trockenebenen."
+      ]
+    },
+    {
+      "id": "gaggade-cities-v2",
+      "descriptionAdvanced": "Gaggade ist ein abgelegener Wüstenort am Rande der gleichnamigen Gaggade-Ebene, die für ihre extremen geologischen und klimatischen Bedingungen bekannt ist. Die Region ist von großem Interesse für die geologische Forschung, da sie seltene Wüstenpflanzen und faszinierende Felsformationen beherbergt. Die Bewohner von Gaggade haben ihren Lebensstil perfekt an die raue Umgebung angepasst, wobei die nomadische Viehzucht die einzige dauerhafte Lebensgrundlage bildet. In den heißen Sommermonaten steigen die Temperaturen hier oft auf Rekordwerte, was Gaggade zu einem der extremsten bewohnten Orte des Landes macht. Geografie K8 — Extremhabitate und geologische Formationen.",
+      "factsAdvanced": [
+        "Liegt am Rand der geologisch aktiven Gaggade-Ebene.",
+        "Beheimatet spezialisierte Flora, die an extreme Hitze angepasst ist.",
+        "Zentrum für nomadische Familien der westlichen Wüstenregion.",
+        "Wichtiger Standort für wissenschaftliche Wüstenforschung.",
+        "Klima ist geprägt von extrem hohen Sommertemperaturen.",
+        "Gelände zeigt beeindruckende vulkanische und tektonische Spuren."
+      ]
+    },
+    {
+      "id": "garba-daba-cities-v2",
+      "descriptionAdvanced": "Garba-Daba ist ein ländliches Dorf im Herzen des Dikhil-Bezirks, dessen Existenz unmittelbar von den saisonalen Wasserläufen der Region abhängt. In dieser trockenen Gegend ist der Zugang zu Wasser der entscheidende Faktor für die sesshaften Bauern, die hier subsistente Landwirtschaft betreiben. Das Dorf zeichnet sich durch seine klassische Wüstenarchitektur aus, die darauf ausgelegt ist, die Bewohner vor der intensiven Sonneneinstrahlung zu schützen. Garba-Daba dient zudem als wichtiger Treffpunkt für den sozialen Austausch zwischen den verstreut lebenden Gemeinschaften der Zentralebene. Sachkunde K4 — Wasser und Landwirtschaft in der Wüste.",
+      "factsAdvanced": [
+        "Dorf mit Fokus auf kleinteilige, subsistente Landwirtschaft.",
+        "Stark abhängig von saisonalen Regenfällen und Wadis.",
+        "Zeigt typische Merkmale traditioneller Wüstenarchitektur.",
+        "Zentraler sozialer Knotenpunkt im Dikhil-Bezirk.",
+        "Umgebung ist geprägt von arider Steppe und Basaltgestein.",
+        "Gemeinschaft lebt in engem Einklang mit natürlichen Zyklen."
+      ]
+    },
+    {
+      "id": "gourabous-cities-v2",
+      "descriptionAdvanced": "Gourabous ist ein kleiner und äußerst entlegener Ort im Westen Dschibutis, der für seine beeindruckende Stille und die weiten, unverbauten Horizonte bekannt ist. In dieser Region scheint die Zeit stillzustehen, da die moderne Infrastruktur nur minimal vorhanden ist und das tägliche Leben noch immer weitgehend von traditionellen Stammesrechten bestimmt wird. Von Gourabous aus bietet sich ein majestätischer Blick auf ferne Bergketten, die die Grenze zu Äthiopien markieren. Für die wenigen Besucher und die dort lebenden nomadischen Gemeinschaften ist Gourabous ein Symbol für die unberührte Wildnis des Horns von Afrika. Sozialkunde K7 — Traditionelles Recht und soziale Isolation.",
+      "factsAdvanced": [
+        "Einer der entlegensten und ruhigsten Orte im Westen des Landes.",
+        "Verfügt nur über grundlegendste infrastrukturelle Einrichtungen.",
+        "Traditionelle Afar-Stammesgesetze regeln das soziale Leben.",
+        "Bietet weite Panoramablicke auf die äthiopischen Hochlandketten.",
+        "Wichtiger Orientierungspunkt in der westlichen Wüste.",
+        "Lebensweise ist fast vollständig autark und pastoral geprägt."
+      ]
+    },
+    {
+      "id": "guistir-cities-v2",
+      "descriptionAdvanced": "Guistir ist ein bedeutendes Grenzdorf im Südosten Dschibutis, das eine zentrale Rolle im kulturellen und wirtschaftlichen Austausch mit den somalischen Nachbarregionen spielt. Aufgrund seiner Lage fungiert Guistir als wichtiger Grenzposten und Sicherheitsbollwerk, das den Personen- und Warenverkehr in diesem strategischen Korridor überwacht. Der Ort ist ein lebendiges Zentrum für den Viehhandel, wobei Märkte regelmäßig Nomaden aus einem weiten Umkreis anziehen. Die harten klimatischen Bedingungen werden durch die dynamische Atmosphäre des Grenzortes ausgeglichen. Geografie K7 — Grenzdynamik und regionaler Warenverkehr.",
+      "factsAdvanced": [
+        "Strategisch wichtiger Grenzposten an der Grenze zu Somalia.",
+        "Bedeutendes Zentrum für den regionalen Handel mit Vieh.",
+        "Sichert staatliche Kontrolle über wichtige Transitrouten.",
+        "Schmelztiegel verschiedener kultureller Einflüsse der Grenzregion.",
+        "Umgeben von einer kargen, felsigen Wüstenlandschaft.",
+        "Wichtiger Standort für Militär- und Polizeikräfte."
+      ]
+    },
+    {
+      "id": "hanle-cities-v2",
+      "descriptionAdvanced": "Hanle ist ein zentraler Ort inmitten der weiten Hanle-Ebene, einer der wenigen Regionen Dschibutis, die aufgrund ihrer Bodenbeschaffenheit und Wasserverfügbarkeit Potenzial für die Landwirtschaft bieten. Hier werden verschiedene Forschungsprojekte zur Bewässerung durchgeführt, um die Ernährungssicherheit des Landes zu verbessern. Die Ebene ist zudem ein wichtiger Migrationsweg für Wildtiere, was Hanle zu einem ökologisch sensiblen Standort macht. Die dortigen agro-pastoralen Gemeinschaften verbinden traditionelle Viehzucht mit ersten Ansätzen des Ackerbaus, was Hanle zu einem Modellprojekt für die zukünftige Entwicklung des Landes macht. Biologie K7 — Landwirtschaftliche Entwicklung in Trockengebieten.",
+      "factsAdvanced": [
+        "Liegt in der fruchtbaren Hanle-Ebene im Zentrum Dschibutis.",
+        "Standort für innovative Bewässerungs- und Agrarprojekte.",
+        "Wichtiger Korridor für die Wanderungen lokaler Wildtiere.",
+        "Zentrum für die Entwicklung sesshafter Landwirtschaft.",
+        "Umgeben von Grasland, das ideal für die Viehzucht ist.",
+        "Kombiniert traditionelle Pastoralwirtschaft mit modernem Ackerbau."
+      ]
+    },
+    {
+      "id": "karta-cities-v2",
+      "descriptionAdvanced": "Karta ist ein malerisches Dorf in der Region Arta, das aufgrund seiner erhöhten Lage und der damit verbundenen angenehmen Temperaturen als Ruhepol bekannt ist. Es ist ein beliebtes Ziel für Tagesausflügler aus der Hauptstadt, die hier die frische Bergluft und den weiten Blick über das Hochland genießen. Die Region um Karta ist besonders reich an lokaler Flora, die an die speziellen Bedingungen des Hochplateaus angepasst ist. Die entspannte Atmosphäre und die natürliche Schönheit machen Karta zu einem wichtigen Bestandteil des dschibutischen Erholungstourismus. Biologie K6 — Flora der Hochlandregionen.",
+      "factsAdvanced": [
+        "Bekannt für sein mildes Klima und die erholsame Atmosphäre.",
+        "Beliebtes Naherholungsgebiet für Bewohner der Hauptstadt.",
+        "Bietet spektakuläre Ausblicke über das dschibutische Hochland.",
+        "Beheimatet eine vielfältige und oft endemische Pflanzenwelt.",
+        "Infrastruktur ist auf kleine Touristengruppen ausgelegt.",
+        "Liegt strategisch günstig nahe der Straße zwischen Küste und Inland."
+      ]
+    },
+    {
+      "id": "medeho-cities-v2",
+      "descriptionAdvanced": "Medeho ist ein faszinierendes Gebirgsdorf im schroffen Mabla-Massiv, das für eine ganz besondere Ressource bekannt ist: Weihrauch. Die Bewohner von Medeho ernten seit Generationen das wertvolle Harz der Weihrauchbäume, die an den steilen Felshängen der Region gedeihen. Die isolierte Lage des Dorfes hat dazu beigetragen, dass die einzigartige Bergvegetation und die traditionellen Erntemethoden bis heute erhalten geblieben sind. Medeho bietet einen seltenen Einblick in eine spezialisierte Form der Landnutzung, die perfekt auf die extremen Bedingungen des dschibutischen Nordens abgestimmt ist. Geschichte K8 — Traditioneller Handel mit Naturharzen.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum für die Weihrauchgewinnung in Dschibuti.",
+        "Eingebettet in die steilen Hänge des Mabla-Gebirges.",
+        "Traditionelle Ernte von Harzen ist die Haupteinnahmequelle.",
+        "Beheimatet eine weltweit seltene und geschützte Bergflora.",
+        "Der Ort ist nur schwer über steile Bergpfade erreichbar.",
+        "Bewahrt jahrhundertealte Techniken der Harzverarbeitung."
+      ]
+    },
+    {
+      "id": "petit-bara-cities-v2",
+      "descriptionAdvanced": "Petit Bara ist ein Ort am Rande der gleichnamigen Petit Bara-Wüste, die durch ihre vollkommen flache und harte Lehmoberfläche besticht. Diese geografische Besonderheit macht den Ort zu einem idealen Schauplatz für außergewöhnliche sportliche Aktivitäten wie Strandsegel-Wettbewerbe. Neben seiner Bedeutung für den Freizeitsport dient Petit Bara aufgrund der weiten, hindernisfreien Ebene auch als wichtiger Übungsplatz für nationale und internationale Militärverbände. Die karge Schönheit der Wüste und die geometrische Perfektion der Ebene verleihen dem Ort eine fast surreale Atmosphäre. Geografie K7 — Wüstenformen und Freizeitnutzung.",
+      "factsAdvanced": [
+        "Bekannt für seine extrem flache, verhärtete Lehmwüste.",
+        "Internationaler Austragungsort für Strandsegel-Wettbewerbe.",
+        "Wichtiger Stützpunkt für militärische Manöver und Übungen.",
+        "Liegt an der strategischen Route zwischen Arta und Ali Sabieh.",
+        "Gelände ist fast völlig frei von Vegetation.",
+        "Bietet ideale Bedingungen für Hochgeschwindigkeits-Wüstensport."
+      ]
+    },
+    {
+      "id": "ribta-cities-v2",
+      "descriptionAdvanced": "Ribta ist ein kleiner, beschaulicher Küstenort, der Besuchern eine ruhige und authentische Alternative zu den geschäftigen Hafenstädten Dschibutis bietet. Mit direktem Zugang zum glitzernden Wasser des Golfs von Tadjoura leben die Bewohner hier noch primär vom traditionellen Fischfang. Da der Ort bisher kaum touristisch erschlossen ist, hat sich Ribta seinen ursprünglichen Charakter bewahrt. Die Kombination aus karger Küstenlandschaft und dem tiefblauen Meer macht Ribta zu einem Ort der Stille, der die tiefe Verbundenheit der dschibutischen Küstenbewohner mit ihrer maritimen Umwelt widerspiegelt. Sachkunde K4 — Leben am Meer.",
+      "factsAdvanced": [
+        "Ruhige Küstensiedlung am Golf von Tadjoura.",
+        "Wirtschaft basiert fast ausschließlich auf traditioneller Fischerei.",
+        "Weitgehend unberührt vom modernen Massentourismus.",
+        "Bietet direkten Zugang zu fischreichen Küstengewässern.",
+        "Umgeben von einer typischen ariden Küstenlandschaft.",
+        "Idealer Ort zur Beobachtung traditioneller Bootsbautechniken."
+      ]
+    },
+    {
+      "id": "we-a-cities-v2",
+      "descriptionAdvanced": "We'a ist eine strategisch wichtige Siedlung an der Hauptverkehrsader Dschibutis, die die Hauptstadt mit dem Landesinneren und dem Westen verbindet. Aufgrund dieser Lage fungiert der Ort als ein bedeutender Transitpunkt für den nationalen Warenverkehr und beheimatet lebendige lokale Märkte. Die Nähe zu den Arta-Bergen verleiht We'a ein etwas milderes Klima als der Küstenebene, was den Ort zu einem wichtigen Rastplatz für Fernfahrer und Reisende macht. Die Siedlung wächst stetig und spiegelt die zunehmende Bedeutung der logistischen Anbindung Dschibutis an seine Nachbarländer wider. Geografie K7 — Verkehrsknotenpunkte und Infrastruktur.",
+      "factsAdvanced": [
+        "Zentraler Transitpunkt an der Hauptstraße zum Landesinneren.",
+        "Wichtiger Rast- und Versorgungspunkt für den Fernverkehr.",
+        "Verfügt über dynamische Märkte für lokale Erzeugnisse.",
+        "Liegt in den klimatisch begünstigten Ausläufern der Arta-Berge.",
+        "Strategischer Standort für Logistik- und Dienstleistungsunternehmen.",
+        "Sichert die Verbindung zwischen der Hauptstadt und den Westregionen."
+      ]
+    },
+    {
+      "id": "kontali-cities-v2",
+      "descriptionAdvanced": "Kontali ist eine Siedlung im weitläufigen Dikhil-Bezirk, die vor allem für ihre spektakulären Ausblicke auf die Gaggade-Ebene bekannt ist. Inmitten von dunklem vulkanischem Gestein gelegen, dient der Ort als wichtiger Halt für nomadische Gemeinschaften auf ihren Wanderungen durch den Westen des Landes. Die extremen Sommertemperaturen fordern den Bewohnern viel ab, doch die strategische Lage an den traditionellen Routen sichert das Überleben der Gemeinschaft. Kontali ist ein Beispiel für die karge Schönheit der dschibutischen Vulkanlandschaft und die Widerstandsfähigkeit der dort lebenden Menschen. Geografie K8 — Vulkanismus und nomadische Routen.",
+      "factsAdvanced": [
+        "Siedlung inmitten markanter vulkanischer Gesteinsformationen.",
+        "Bietet Panoramablicke über die weite Gaggade-Ebene.",
+        "Wichtiger Ruhepunkt für Nomaden auf dem Weg zum Assalsee.",
+        "Klima ist geprägt von extremer Hitze und Trockenheit.",
+        "Wirtschaft basiert auf der Betreuung von Transit-Nomaden.",
+        "Zeigt eindrucksvoll die geologische Aktivität der Region."
+      ]
+    },
+    {
+      "id": "mouloud-cities-v2",
+      "descriptionAdvanced": "Mouloud ist ein kleines, traditionsreiches Dorf im Osten der Region Dikhil, das für seinen starken Gemeinschaftssinn und seine Spezialisierung auf die Viehzucht bekannt ist. Die Siedlung ist geprägt von den traditionellen Rundhütten der Afar und liegt direkt an der wichtigen Verbindungsstraße in den Süden. Der Fokus der lokalen Wirtschaft liegt auf der Zucht von Ziegen und Schafen, die an die karge Vegetation der Umgebung angepasst sind. Mouloud dient als ein wichtiger sozialer Ankerpunkt in einer ansonsten dünn besiedelten Steppenlandschaft und bewahrt das kulturelle Erbe der Region. Sozialkunde K7 — Ländliche Gemeinschaften und Tradition.",
+      "factsAdvanced": [
+        "Traditionelles Dorf mit Fokus auf Schaf- und Ziegenzucht.",
+        "Gekennzeichnet durch klassische Rundhüttenarchitektur der Afar.",
+        "Liegt an der strategischen Transitroute in den Süden des Landes.",
+        "Wichtiger Standort für lokale Viehmärkte.",
+        "Die Gemeinschaft bewahrt aktiv traditionelle Bräuche.",
+        "Umgeben von einer typischen ariden Dornsavanne."
+      ]
+    },
+    {
+      "id": "ali-adde-cities-v2",
+      "descriptionAdvanced": "Ali Adde ist ein Ort in einer abgelegenen Gegend der Region Ali Sabieh, der international vor allem als Standort eines der größten und am längsten bestehenden Flüchtlingslager Dschibutis bekannt ist. Inmitten einer halbtrockenen, schroffen Landschaft gelegen, ist der Ort zu einem humanitären Zentrum geworden, das Menschen aus der gesamten Region Schutz bietet. Die Präsenz internationaler Hilfsorganisationen hat die Infrastruktur des Ortes geprägt und Ali Adde zu einem Symbol für die Rolle Dschibutis als stabiler Anker in einer unruhigen Region gemacht. Politische Bildung K8 — Flucht, Migration und humanitäre Hilfe.",
+      "factsAdvanced": [
+        "Beheimatet eines der bedeutendsten Flüchtlingslager Ostafrikas.",
+        "Wichtiger Standort für internationale humanitäre Organisationen.",
+        "Liegt in einer isolierten, halbtrockenen Gebirgslandschaft.",
+        "Symbol für die regionale Stabilität und Aufnahmebereitschaft.",
+        "Infrastruktur ist stark auf die Versorgung von Geflüchteten ausgerichtet.",
+        "Fördert den kulturellen Austausch zwischen verschiedenen Ethnien."
+      ]
+    },
+    {
+      "id": "dasbiyo-cities-v2",
+      "descriptionAdvanced": "Dasbiyo ist ein kleiner, geschichtsträchtiger Ort im Osten von Ali Sabieh, dessen Identität untrennbar mit der Ära der Kolonialeisenbahn verbunden ist. Der alte Bahnhof aus der französischen Zeit steht noch immer als Monument der industriellen Erschließung des Horns von Afrika. Umgeben von markanten Tafelbergen und entlang traditioneller Nomadenrouten gelegen, bietet Dasbiyo eine faszinierende Mischung aus kolonialem Erbe und jahrtausendealter Kultur. Heute ist der Ort ein ruhiger Außenposten, der vor allem von seiner Rolle als historischer Wegpunkt an der Strecke nach Äthiopien lebt. Geschichte K8 — Eisenbahnhistorie und Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Standort eines historischen Bahnhofs aus der französischen Kolonialzeit.",
+        "Geprägt durch die Lage an der alten Djibouti-Ethiopia-Bahnlinie.",
+        "Umgeben von spektakulären und markanten Tafelbergen.",
+        "Liegt an wichtigen traditionellen Wanderrouten der Issa-Nomaden.",
+        "Bewahrt architektonische Relikte des frühen 20. Jahrhunderts.",
+        "Wichtiger Punkt für die Erforschung der regionalen Verkehrsgeschichte."
+      ]
+    },
+    {
+      "id": "damerjog-cities-v2",
+      "descriptionAdvanced": "Damerjog ist ein strategisch bedeutender Küstenort südlich der Hauptstadt, der sich derzeit zu einem der wichtigsten Industrie- und Logistikzentren Dschibutis entwickelt. Durch massive Investitionen entstehen hier neue Hafenanlagen, die speziell auf den Export von Vieh und Flüssiggütern ausgerichtet sind. Die Anbindung an die nationale Freihandelszone macht Damerjog zu einem Magneten für internationale Unternehmen und sichert die wirtschaftliche Zukunft der Region. Trotz des industriellen Aufschwungs bleibt der Ort ein wichtiges Tor zum Meer für die ländlichen Gemeinschaften des Südostens. Wirtschaft K8 — Industrielle Entwicklung und Welthandel.",
+      "factsAdvanced": [
+        "Zukünftiges Schwergewicht der dschibutischen Industrie und Logistik.",
+        "Standort hochmoderner Hafenprojekte für den Viehexport.",
+        "Direkt an die nationale Freihandelszone angebunden.",
+        "Strategische Lage südlich des Hauptstadthafens.",
+        "Zentrum für neue Energieinfrastrukturen und Flüssiggut-Terminals.",
+        "Wesentlicher Motor für die wirtschaftliche Diversifizierung des Landes."
+      ]
+    },
+    {
+      "id": "omar-jagaa-cities-v2",
+      "descriptionAdvanced": "Omar Jagaa ist ein stetig wachsender Vorort westlich der Hauptstadt Dschibuti, der primär als Wohngebiet für die arbeitende Bevölkerung dient. Aufgrund seiner Nähe zum internationalen Flughafen und zu den neuen Industriezonen hat der Ort in den letzten Jahren einen deutlichen Bevölkerungszuwachs erfahren. Die Infrastruktur ist einfach, entwickelt sich aber stetig weiter, um den Bedürfnissen der Bewohner gerecht zu werden. Omar Jagaa ist ein typisches Beispiel für den urbanen Speckgürtel der Hauptstadt, in dem sich modernes Stadtleben mit traditionellen Gemeinschaftsstrukturen vermischt. Geografie K7 — Stadtrandsiedlungen und Pendlerwesen.",
+      "factsAdvanced": [
+        "Wachsender Vorort mit primärer Funktion als Wohngebiet.",
+        "Strategische Nähe zum internationalen Flughafen von Dschibuti.",
+        "Beherbergt eine diverse Bevölkerung aus allen Landesteilen.",
+        "Wichtiger Standort für lokale Kleingewerbe und Märkte.",
+        "Profitiert von der Expansion der nahen Hauptstadt.",
+        "Infrastruktur wird schrittweise an das urbane Niveau angepasst."
+      ]
+    },
+    {
+      "id": "khor-ambado-cities-v2",
+      "descriptionAdvanced": "Khor Ambado ist ein beliebter Küstenort westlich der Hauptstadt, der vor allem für seinen wunderschönen Strand und seine erstklassigen Freizeitmöglichkeiten bekannt ist. Die geschützte Bucht mit ihrem klaren Wasser ist ein Paradies für Schnorchler und bietet einen spektakulären Blick auf den Golf von Tadjoura. Für die Bewohner der Hauptstadt ist Khor Ambado das bevorzugte Ziel für Wochenendausflüge, um der Hitze und dem Lärm der Stadt zu entfliehen. Die Kombination aus natürlicher Schönheit und der Nähe zum urbanen Zentrum macht den Ort zu einem der wichtigsten touristischen Highlights an der Küste. Sport K6 — Wassersport und Naherholung.",
+      "factsAdvanced": [
+        "Einer der populärsten Strände in der Nähe von Dschibuti-Stadt.",
+        "Erstklassiges Ziel für Schnorchler und Taucher am Golf von Tadjoura.",
+        "Wichtigstes Naherholungsgebiet für die städtische Bevölkerung.",
+        "Bietet malerische Korallenriffe direkt vor der Küste.",
+        "Bekannt für seine entspannte Atmosphäre und Wochenend-Resorts.",
+        "Wichtiger Standort für die Entwicklung des lokalen Tourismus."
+      ]
+    },
+    {
+      "id": "galileh-cities-v2",
+      "descriptionAdvanced": "Galileh ist ein abgelegenes Dorf im tiefen Süden Dschibutis, das eng mit den nomadischen Traditionen der Region verbunden ist. Inmitten eines kargen und herausfordernden Wüstenterrains gelegen, dient der Ort als essenzieller Treffpunkt für den regionalen Austausch zwischen den Hirtenstämmen. Das Leben in Galileh wird von der ständigen Suche nach Weideland und Wasser bestimmt, wobei die Bewohner eine beeindruckende Widerstandsfähigkeit gegenüber den Elementen zeigen. Der Ort bewahrt eine ursprüngliche Form der sozialen Organisation, die tief in den Wurzeln der dschibutischen Wüstenkultur verankert ist. Sozialkunde K7 — Traditionelle Lebensformen in der Wüste.",
+      "factsAdvanced": [
+        "Abgelegener Außenposten im südlichen Grenzgebiet.",
+        "Enge Verbindung zur nomadischen Viehwirtschaft der Issa.",
+        "Gelegen in einem extrem trockenen und unwirtlichen Terrain.",
+        "Wichtiger Ort für den sozialen Austausch zwischen Nomadenfamilien.",
+        "Infrastruktur ist auf das absolute Minimum beschränkt.",
+        "Symbol für die Bewahrung traditioneller Wüstenkultur."
+      ]
+    },
+    {
+      "id": "negad-cities-v2",
+      "descriptionAdvanced": "Negad ist eine strategisch wichtige Siedlung südlich der Hauptstadt, die als einer der bedeutendsten Verkehrs- und Logistikstandorte Dschibutis fungiert. Hier befindet sich der moderne Hauptbahnhof für den Güterverkehr, der das Land mit Äthiopien verbindet. Negad ist das Herzstück des dschibutischen LKW-Transportwesens und liegt in unmittelbarer Nähe zur internationalen Freihandelszone. Die ständige Bewegung von Waren und Fahrzeugen prägt das Gesicht des Ortes und macht ihn zu einem entscheidenden Motor für die nationale Wirtschaft und den regionalen Handel. Wirtschaft K8 — Logistikzentren und Güterverkehr.",
+      "factsAdvanced": [
+        "Standort des zentralen Güterbahnhofs der Bahnstrecke nach Addis Abeba.",
+        "Wichtigster Logistik-Hub für den grenzüberschreitenden LKW-Verkehr.",
+        "Unmittelbar an die großen Freihandelszonen Dschibutis angrenzend.",
+        "Drehscheibe für den Import und Export von Massengütern.",
+        "Beheimatet zahlreiche Lagerhäuser und Logistikunternehmen.",
+        "Essenzieller Punkt für die Versorgung des Binnenlandes Äthiopien."
+      ]
+    },
+    {
+      "id": "chabelley-cities-v2",
+      "descriptionAdvanced": "Chabelley ist eine kleine Siedlung inmitten der Wüste, die internationale Bekanntheit vor allem durch ihren strategisch bedeutenden Flugplatz erlangt hat. Das Gelände wird intensiv für militärische Operationen genutzt und beherbergt eine der wichtigsten Basen für Drohneneinsätze in der gesamten Region. Aufgrund seiner sensiblen Funktion ist der Ort streng bewacht und verfügt über eine hochspezialisierte Infrastruktur. Chabelley spiegelt die geopolitische Bedeutung Dschibutis als sicherheitspolitischer Ankerpunkt am Horn von Afrika wider und ist ein zentraler Ort für internationale Verteidigungskooperationen. Politische Bildung K8 — Internationale Sicherheit und Militärstützpunkte.",
+      "factsAdvanced": [
+        "Strategisch wichtiger Flugplatz mit militärischer Nutzung.",
+        "Zentraler Standort für internationale Drohnen- und Überwachungsmissionen.",
+        "Gelegen in einer isolierten und gesicherten Wüstenzone.",
+        "Kernstück der internationalen Sicherheitskooperationen in Dschibuti.",
+        "Infrastruktur ist auf höchste Sicherheitsstandards ausgelegt.",
+        "Spiegelt die globale geopolitische Relevanz des Landes wider."
+      ]
+    }
+  ]
+}

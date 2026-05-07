@@ -1,0 +1,273 @@
+{
+  "lang": "en",
+  "country": "bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chhota-sona-mosque-history-v2",
+      "descriptionAdvanced": "Chhota Sona Mosque, often called the 'Gem of the Sultanate,' is a stunning 15th-century mosque located in Chapai Nawabganj. Built during the reign of Sultan Alauddin Husain Shah, the mosque is famous for its fifteen domes that were once covered with gold leaf, earning it the name 'Small Golden Mosque.' Its architecture is a fine example of the Bengali Sultanate style, featuring intricate stone carvings and floral motifs on the exterior walls. The mosque's unique design, with its low domes and lack of a central courtyard, was perfectly adapted to the tropical climate of Bengal. Today, Chhota Sona Mosque remains one of the most beautiful and well-preserved Islamic monuments in the country, reflecting the prosperity and artistic brilliance of the independent Sultanate of Bengal. History K8 — Sultanate Architecture and Islamic Heritage.",
+      "factsAdvanced": [
+        "The mosque was built between 1493 and 1519 by Wali Muhammad.",
+        "It originally had fifteen domes, all gilded with gold.",
+        "The exterior is faced with black basalt stone, rare for mosques in Bengal.",
+        "The stone carvings feature beautiful lotus and bell motifs.",
+        "Two historic tombs are located within the mosque complex.",
+        "It was a major religious center in the ancient capital of Gaur.",
+        "The mosque's architecture influenced several later structures in the region."
+      ]
+    },
+    {
+      "id": "puthia-temple-complex-history-v2",
+      "descriptionAdvanced": "The Puthia Temple Complex in Rajshahi hosts the largest number of historic Hindu temples in Bangladesh. Built by the philanthropic Zamindars of Puthia between the 16th and 19th centuries, the complex features several architectural masterpieces, including the Shiva Temple, the Govinda Temple, and the Jagannath Temple. The Govinda Temple is particularly famous for its exquisite terracotta plaques depicting scenes from the Hindu epics and the life of Krishna. The Shiva Temple, built in the 'five-spire' (pancha-ratna) style, is the largest of its kind in the country. The complex reflects a unique blend of traditional Bengali 'do-chala' and 'char-chala' roof styles with subtle Mughal influences. These temples stand as a testament to the rich cultural and religious heritage of the Rajshahi region and the patronage of its former rulers. History K8 — Hindu Temple Architecture and Zamindari Patronage.",
+      "factsAdvanced": [
+        "The complex contains some of the best examples of terracotta art in Bengal.",
+        "The Shiva Temple is the largest dedicated to Lord Shiva in Bangladesh.",
+        "The temples were built by the Puthia Raj family, one of the oldest estates in Bengal.",
+        "The Govinda Temple's terracotta work is considered a pinnacle of 19th-century art.",
+        "The complex is situated around a large ceremonial pond (dighi).",
+        "The Jagannath Temple features a unique hut-shaped roof design.",
+        "The Puthia Rajbari (palace) is also part of this historic complex."
+      ]
+    },
+    {
+      "id": "wari-bateshwar-ruins-history-v2",
+      "descriptionAdvanced": "Wari-Bateshwar is an extraordinary archaeological site in Narsingdi that reveals the remains of an ancient fortified city dating back to the 5th century BC. This discovery has significantly shifted the understanding of Bangladesh's early history, proving the existence of a sophisticated urban civilization during the Mauryan period. The site has yielded thousands of artifacts, including semi-precious stone beads, punch-marked silver coins, and unique iron implements. Archaeologists believe Wari-Bateshwar was a major center for international trade, connected to the Roman Empire and Southeast Asia via the Old Brahmaputra River. The site features a well-planned city layout with defensive walls and ditches. Wari-Bateshwar remains a vital link to the country's ancient past and its role in the early Indian Ocean trade network. History K8 — Ancient Urbanization and Early Trade Networks.",
+      "factsAdvanced": [
+        "Wari-Bateshwar dates back to at least the 5th century BC (approx. 2,500 years ago).",
+        "It is considered part of the ancient kingdom of Samatata or Gangaridai.",
+        "Thousands of semi-precious stone beads found here suggest a thriving local industry.",
+        "The punch-marked coins indicate a sophisticated early monetary system.",
+        "The site is located on the Pleistocene terrace of the Old Brahmaputra River.",
+        "Archaeologists have discovered a 2.5 kilometer-long earthen wall surrounding the city.",
+        "The discovery was first brought to light by local schoolteacher Hanif Pathan in the 1930s."
+      ]
+    },
+    {
+      "id": "bagha-mosque-history-v2",
+      "descriptionAdvanced": "Bagha Mosque, located in Rajshahi, is a magnificent 16th-century mosque and a premier example of terracotta architecture from the Sultanate period. Built in 1523 by Sultan Nusrat Shah, the mosque is famous for its ten domes and the exquisite terracotta decorations that cover its exterior walls. The carvings feature a variety of motifs, including lotuses, floral scrolls, and geometric patterns, reflecting the artistic peak of the independent Sultanate of Bengal. The mosque is situated on a high plinth and is surrounded by a large pond and several smaller historic structures. Its image is famously featured on the fifty-taka note of Bangladesh. Bagha Mosque remains a significant religious site and a testament to the grand architectural tradition that flourished in the Rajshahi region during the late medieval period. History K8 — Sultanate Era Art and Architecture.",
+      "factsAdvanced": [
+        "Bagha Mosque was built in 1523 AD during the reign of Sultan Nusrat Shah.",
+        "The mosque originally featured ten domes, which were rebuilt after an earthquake.",
+        "The terracotta work at Bagha is among the most detailed and well-preserved in the country.",
+        "The mosque is featured on the back of the current 50-taka banknote.",
+        "It is situated within a large walled complex that includes a massive 'dighi' (pond).",
+        "The mosque's Mihrabs (prayer niches) are decorated with exceptionally fine stone carvings.",
+        "Every year, a traditional fair (mela) is held here during the Eid festivals."
+      ]
+    },
+    {
+      "id": "bara-katra-history-v2",
+      "descriptionAdvanced": "Bara Katra is one of the oldest and grandest Mughal-era structures in Dhaka, originally built as a palatial caravanserai for traveling merchants and dignitaries. Constructed in 1644 by Mir Abul Qasim, the chief architect of Prince Shah Shuja, it is located in the heart of Old Dhaka near the Buriganga River. The building originally featured a massive central courtyard surrounded by dozens of rooms, grand gateways, and corner towers. Its architecture is characterized by its scale and the use of classic Mughal elements like arched niches and vaulted ceilings. Although much of the original structure has been lost to urban encroachment, the remaining grand southern gateway still reflects its former glory. Bara Katra stands as a reminder of Dhaka's significance as a major center for trade and administration during the peak of the Mughal Empire. History K8 — Mughal Urbanism and Caravanserais.",
+      "factsAdvanced": [
+        "Bara Katra was built in 1644 AD as a residence for Prince Shah Shuja.",
+        "The term 'Katra' originates from the Arabic word for a caravan or merchant inn.",
+        "The building was originally so grand that it was compared to the palaces of Persia.",
+        "It is located in the Choto Katra area, which was once the commercial heart of Dhaka.",
+        "The southern gateway features a beautiful Persian inscription commemorating its construction.",
+        "The structure once had several imposing domes and high arched entrances.",
+        "Today, the remains of Bara Katra are surrounded by bustling markets and narrow streets."
+      ]
+    },
+    {
+      "id": "mujibnagar-monument-history-v2",
+      "descriptionAdvanced": "The Mujibnagar Memorial is a historic monument in Meherpur that marks the site where the first provisional government of Bangladesh took oath on April 17, 1971. The monument complex is an architectural masterpiece designed by Tanveer Naquib, featuring a massive circular structure with 23 triangular walls. These walls represent the 23 years of struggle and oppression under Pakistani rule. The site also includes a map of Bangladesh made of mosaic and several sculptures depicting the historic events of the Liberation War. Mujibnagar serves as a powerful symbol of the birth of the nation and the strategic leadership that guided the independence movement. Every year, thousands of people visit the memorial to pay tribute to the leaders who established the country's first administration during its darkest hour. History K8 — Birth of the Nation and Political History.",
+      "factsAdvanced": [
+        "Mujibnagar was the temporary capital of the provisional government of Bangladesh in 1971.",
+        "The 23 walls of the monument represent the period from 1948 to 1971.",
+        "The monument is built on the exact spot where the oath-taking ceremony occurred.",
+        "The complex features a unique 3D map of the country showing the wartime sectors.",
+        "The name 'Mujibnagar' was given to the village of Baidyanathtala in honor of Sheikh Mujibur Rahman.",
+        "The site is located very close to the international border with India.",
+        "The memorial complex includes a museum and a guest house for visitors."
+      ]
+    },
+    {
+      "id": "hussaini-dalan-history-v2",
+      "descriptionAdvanced": "Hussaini Dalan is a magnificent 17th-century Imambara located in Old Dhaka, serving as the primary center for the Shia Muslim community in Bangladesh. Built during the reign of Emperor Shah Jahan in 1642, the structure was originally constructed as a house for the Imam. Its architecture is a unique blend of Mughal and later European styles, featuring grand domes, arched gateways, and a beautiful reflecting pool. The building is most famous for hosting the annual mourning ceremonies of Muharram, which attract thousands of people from all walks of life. The interior is decorated with intricate chandeliers and religious calligraphy. Hussaini Dalan has undergone several renovations over the centuries, particularly after the 1897 earthquake, but it remains a cornerstone of religious and cultural life in Dhaka. History K8 — Shia Traditions and Indo-Islamic Architecture.",
+      "factsAdvanced": [
+        "Hussaini Dalan was originally built in 1642 by Mir Murad.",
+        "It is the largest and most famous Imambara in Bangladesh.",
+        "The current neoclassical facade was added after the 1897 earthquake.",
+        "The building features a large 'Shirni' (sweet) distribution area and several courtyards.",
+        "The central hall is used for the recitation of 'Marsiyas' (elegies) during Muharram.",
+        "A large pond in front of the building provides a beautiful reflection of the structure.",
+        "The complex includes a library and a traditional Shia graveyard."
+      ]
+    },
+    {
+      "id": "rose-garden-palace-history-v2",
+      "descriptionAdvanced": "The Rose Garden Palace is a stunning late 19th-century mansion in Old Dhaka, famous for its association with the birth of the Awami League, the party that led Bangladesh to independence. Built in 1899 by a wealthy landlord named Hrishikesh Das, the palace is a masterpiece of colonial-era architecture, featuring grand Corinthian columns, ornate statues, and beautiful stained-glass windows. The mansion was originally surrounded by a lush garden filled with rare roses and featured a large pond with a marble pavilion. In 1949, the historic meeting that formed the Awami Muslim League was held in this palace. The building's interior is equally grand, with intricate woodwork and imported European furniture. Recently, the palace was acquired by the government to be preserved as a national museum, standing as a witness to the country's political and social evolution. History K8 — Colonial Mansions and Political Milestones.",
+      "factsAdvanced": [
+        "The Rose Garden Palace was built in 1899 as a garden house.",
+        "It was the birthplace of the Bangladesh Awami League in 1949.",
+        "The architecture is a blend of European Neoclassical and traditional Bengali styles.",
+        "The palace features a grand hall with high ceilings and intricate plasterwork.",
+        "It is located in the Tikatuly area of Old Dhaka.",
+        "The mansion has been used as a location for numerous Bangladeshi films.",
+        "The government of Bangladesh officially declared it a national museum in 2018."
+      ]
+    },
+    {
+      "id": "bd-national-parliament-house-landmarks-v2",
+      "descriptionAdvanced": "The Jatiya Sangsad Bhaban, or National Parliament House, in Dhaka is widely considered one of the greatest architectural masterpieces of the 20th century. Designed by the world-renowned American architect Louis Kahn, the complex is a powerful symbol of Bangladesh's sovereignty and stability. Its architecture is based on primary geometric forms—circles, triangles, and squares—cut into massive walls of raw concrete. The building appears to float on a large artificial lake, a direct reference to the country's riverine geography. Kahn succeeded in creating a structure that is both modern and deeply spiritual, capturing natural light through spectacular geometric openings. The Parliament is not only the seat of legislative power but also an emblem of national identity, recognized worldwide for its structural genius and poetic use of space. Geography K7 — Modern Architecture and National Symbols.",
+      "factsAdvanced": [
+        "Construction began in 1961 and was finally completed in 1982.",
+        "The parliament complex covers an area of over 200 acres in the heart of Dhaka.",
+        "The concrete walls are inlaid with white marble strips for decoration and joints.",
+        "There are no conventional windows; instead, large geometric openings provide light.",
+        "The artificial lake represents the riverine heritage of the Bengal region.",
+        "Louis Kahn considered this project to be his most significant work.",
+        "The interior features a massive circular structure that houses the parliamentary chamber.",
+        "It is frequently listed among the top 10 most important buildings in the world."
+      ]
+    },
+    {
+      "id": "bd-baitul-mukarram-landmarks-v2",
+      "descriptionAdvanced": "Baitul Mukarram is the National Mosque of Bangladesh and one of the largest mosques in the world, located in the heart of the capital city, Dhaka. Designed by architect Abdulhusein M. Thariani and completed in 1968, its architecture is unique for its lack of a dome, with its cubic form being directly inspired by the Kaaba in Mecca. The minimalist design is complemented by modern and traditional elements, featuring high windows that allow for excellent natural ventilation. The mosque serves as a place of prayer for up to 40,000 worshippers and also functions as a massive community center, with markets, libraries, and offices within its premises. Baitul Mukarram is the focal point of religious life in Bangladesh, being the site where thousands gather for the great Eid prayers and national religious observances. Geography K7 — Modern Islamic Architecture and Urban Planning.",
+      "factsAdvanced": [
+        "Baitul Mukarram was completed in 1968 and is the 10th largest mosque in the world.",
+        "The cubic design is a tribute to the Holy Kaaba in Mecca, Saudi Arabia.",
+        "The mosque is built on a high platform with multiple levels for prayer.",
+        "It features several large courtyards and beautiful gardens within the complex.",
+        "The ground floor houses a massive market, making it a unique religious-commercial hub.",
+        "The mosque is the center for the national moon-sighting committee.",
+        "The library inside houses a vast collection of Islamic literature and rare manuscripts.",
+        "The prayer hall is designed to minimize acoustic echo despite its massive size."
+      ]
+    },
+    {
+      "id": "bd-dhakeshwari-temple-landmarks-v2",
+      "descriptionAdvanced": "The Dhakeshwari National Temple is the most important Hindu place of worship in Bangladesh and the source of the name 'Dhaka.' Originally built in the 12th century by King Ballal Sen of the Sena Dynasty, the temple has been a center of religious life for nearly a millennium. The current structure, which features several distinctive domes and arched gateways, reflects multiple periods of renovation and reconstruction. The temple is dedicated to Dhakeshwari, an incarnation of Goddess Durga and the protector of the city. Every year, the temple becomes the focal point for the grand Durga Puja celebrations, attracting thousands of devotees and visitors from across the country. As a national temple, it symbolizes the religious diversity and cultural heritage of Bangladesh. The temple complex also includes several smaller shrines and a beautiful pond. History K8 — Ancient Temples and Urban Identity.",
+      "factsAdvanced": [
+        "The name 'Dhakeshwari' means 'Goddess of Dhaka'.",
+        "It was officially declared the National Temple of Bangladesh in 1988.",
+        "The temple complex features a unique blend of Sena, Mughal, and colonial architectural styles.",
+        "Historically, the temple was a major center for the Shakti tradition of Hinduism.",
+        "The main idol of the goddess is believed to be over 800 years old.",
+        "The temple is located in the historic area of Lalbagh in Old Dhaka.",
+        "It hosts the largest Janmashtami procession in the country every year."
+      ]
+    },
+    {
+      "id": "bd-bangabandhu-museum-landmarks-v2",
+      "descriptionAdvanced": "The Bangabandhu Memorial Museum in Dhanmondi, Dhaka, is one of the most significant historic sites in Bangladesh, being the former residence of the nation's founding father, Sheikh Mujibur Rahman. It was in this house that much of the struggle for independence was planned and where Bangabandhu and most of his family were tragically assassinated on August 15, 1975. The house has been preserved exactly as it was on that day, including the bullet holes in the walls and the personal belongings of the family. The museum provides a deeply moving insight into the life, leadership, and sacrifice of the man who led the country to freedom. For many Bangladeshis, the museum is a site of pilgrimage and a powerful reminder of the nation's turbulent birth and the high cost of liberty. History K8 — Modern Leadership and the Independence Struggle.",
+      "factsAdvanced": [
+        "The house was built in 1961 and served as the center of the 1971 movement.",
+        "It was converted into a museum in 1994 by the Bangabandhu Memorial Trust.",
+        "The museum displays personal items such as Bangabandhu's famous pipe and spectacles.",
+        "The stairs where Bangabandhu was killed have been preserved with glass casing.",
+        "The site attracts thousands of visitors on National Mourning Day (August 15).",
+        "The museum features a detailed gallery documenting the 1971 Liberation War.",
+        "The residence is commonly known by its address, 'Dhanmondi 32'."
+      ]
+    },
+    {
+      "id": "bd-padma-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Padma Bridge is the most significant infrastructure project in the history of Bangladesh, connecting the southwestern districts with the rest of the country. This 6.15-kilometer-long multipurpose bridge is the longest in the country and one of the most challenging engineering feats in the world, spanning the mighty and unpredictable Padma River. Opened in 2022, the bridge features a two-level structure with a four-lane highway on the top and a railway line on the bottom. It has fundamentally transformed the nation's economy by reducing travel time and facilitating the transport of goods, contributing significantly to the GDP growth. The Padma Bridge is a source of immense national pride, having been built entirely with the country's own resources. It stands as a symbol of modern Bangladesh's engineering capability and economic resilience. Geography K7 — Infrastructure and Economic Integration.",
+      "factsAdvanced": [
+        "The Padma Bridge is 6.15 kilometers long, making it the longest in Bangladesh.",
+        "It is a double-decker bridge made of steel trusses.",
+        "The bridge's piles are driven 122 meters deep, the deepest in the world for a bridge.",
+        "It connects Mawa in Munshiganj to Janjira in Shariatpur.",
+        "The project was funded entirely by the Government of Bangladesh.",
+        "The bridge is expected to increase the country's GDP by 1.2 percent.",
+        "It is the first major fixed crossing over the lower Padma River."
+      ]
+    },
+    {
+      "id": "bd-jamuna-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Bangabandhu Bridge, also known as the Jamuna Multi-purpose Bridge, is a landmark structure that connects the eastern and western parts of Bangladesh over the Jamuna River. Completed in 1998, it was the first major fixed link over one of the world's most dynamic and widest rivers. The 4.8-kilometer-long bridge features a highway, a railway, and essential utility lines for gas and electricity. Its construction was a monumental engineering challenge due to the Jamuna's powerful currents and constant bed erosion. The bridge has played a critical role in integrating the national economy, particularly by opening up the northern districts to trade and industrialization. It is a vital artery for the country's transport network and stands as a testament to the successful collaboration between Bangladesh and international development partners. Geography K7 — Transport Networks and National Integration.",
+      "factsAdvanced": [
+        "The Jamuna Bridge was the 11th longest bridge in the world at the time of its completion.",
+        "It is 4.8 kilometers long and features 47 spans.",
+        "The bridge carries a dual-gauge railway line and a 230kV power transmission line.",
+        "It was the first bridge in the world to be designed for 100 years of service life.",
+        "The project involved massive river training works to keep the river under the bridge.",
+        "It significantly reduced the transport cost of agricultural products from North Bengal.",
+        "The bridge is named after the founding father of the nation, Bangabandhu Sheikh Mujibur Rahman."
+      ]
+    },
+    {
+      "id": "bd-kaptai-dam-landmarks-v2",
+      "descriptionAdvanced": "The Kaptai Dam, located in the Rangamati Hill District, is the only hydroelectric power plant in Bangladesh and one of the most significant engineering projects in the Chittagong Hill Tracts. Completed in 1962 on the Karnaphuli River, the dam created the Kaptai Lake, the largest man-made lake in the country. While the project is a major source of renewable energy for the nation, its creation led to the displacement of thousands of people and the submergence of a vast area of fertile land. The dam's architecture is a massive earthen structure with a powerful spillway and a power station. Today, Kaptai Lake is a major center for fishing and tourism, offering breathtaking views of the surrounding hills. The dam remains a critical component of the national grid, providing clean energy to millions. Geography K7 — Renewable Energy and Environmental Impacts.",
+      "factsAdvanced": [
+        "The Kaptai Dam is an earth-fill dam with a height of 45.7 meters.",
+        "The resulting Kaptai Lake covers an area of approximately 655 square kilometers.",
+        "The power plant has a total generating capacity of 230 megawatts.",
+        "The creation of the lake submerged about 22,000 hectares of arable land.",
+        "The project was originally funded by the United States and built by an American firm.",
+        "The dam is a vital source of water for the Chittagong port city.",
+        "The lake is a major hub for freshwater fish production in the region."
+      ]
+    },
+    {
+      "id": "bd-hatirjheel-landmarks-v2",
+      "descriptionAdvanced": "Hatirjheel is a spectacular urban revitalisation project in Dhaka that has transformed a once-polluted swamp into one of the city's most popular recreational and transport hubs. Completed in 2013, the project features a series of interconnected lakes, beautifully designed bridges, and over 16 kilometers of scenic walkways and roads. It serves as a vital drainage basin for the city, helping to prevent flooding during the monsoon. Hatirjheel is famous for its colorful water fountains, evening lighting, and the water taxi service that provides a scenic commute for residents. The area is a favorite spot for evening walks, family outings, and cultural events, offering a rare open space in the heart of the crowded metropolis. It stands as a model for modern urban planning and environmental restoration in South Asia. Geography K7 — Urban Planning and Environmental Restoration.",
+      "factsAdvanced": [
+        "Hatirjheel was originally used as a waste dumping ground before its restoration.",
+        "The project was executed by the Bangladesh Army and RAJUK.",
+        "The name 'Hatirjheel' means 'The Lake of Elephants,' where elephants once bathed.",
+        "It features the largest musical water fountain in South Asia.",
+        "The project has significantly improved the traffic flow between central and northern Dhaka.",
+        "Hatirjheel covers a total area of about 302 acres.",
+        "The amphitheater at Hatirjheel is a popular venue for concerts and cultural shows."
+      ]
+    },
+    {
+      "id": "bd-foys-lake-landmarks-v2",
+      "descriptionAdvanced": "Foy's Lake is a picturesque man-made lake in Chittagong, nestled within a lush valley surrounded by rolling green hills. Created in 1924 by the Assam-Bengal Railway, the lake was originally designed to provide water for the railway colony. Today, it is the premier amusement and eco-tourism destination in the port city, featuring a theme park, a water park, and a resort. Visitors can enjoy boat rides on the serene lake, offering stunning views of the surrounding forest and wildlife. The area is a haven for nature lovers and birdwatchers, providing a peaceful escape from the industrial hustle of Chittagong. Foy's Lake is a unique blend of historical engineering and modern recreation, making it a must-visit landmark for families and tourists alike. Geography K7 — Recreational Landscapes and Eco-Tourism.",
+      "factsAdvanced": [
+        "Foy's Lake was named after Mr. Foy, a railway engineer who oversaw its construction.",
+        "The lake is situated at Pahartali, right in the heart of Chittagong city.",
+        "The complex features 'Sea World,' the largest water park in the country.",
+        "The surrounding hills are part of the Batali Hill range, the highest in the city.",
+        "The area is home to diverse species of flora and several types of migratory birds.",
+        "A cable car service provides panoramic views of the lake and the city.",
+        "The lake remains a primary source of water for the nearby railway facilities."
+      ]
+    },
+    {
+      "id": "bd-hazrat-shahjalal-shrine-landmarks-v2",
+      "descriptionAdvanced": "The Shrine of Hazrat Shah Jalal in Sylhet is the most sacred and influential Islamic site in Bangladesh. Hazrat Shah Jalal was a 14th-century Sufi saint who played a pivotal role in spreading Islam in the Bengal region. The shrine complex, which includes a mosque, several ancient buildings, and a famous pond filled with sacred catfish, attracts millions of pilgrims and tourists from all over the world. The atmosphere at the shrine is deeply spiritual, especially during the evening prayers and the annual Urs festival. The architecture reflects multiple periods of Islamic history in Bengal, with beautiful tile work and arched gateways. For many, the shrine is the soul of Sylhet and a symbol of the country's rich Sufi heritage and religious harmony. History K8 — Sufi Traditions and the Spread of Islam.",
+      "factsAdvanced": [
+        "Hazrat Shah Jalal arrived in Sylhet in 1303 with 360 disciples.",
+        "The shrine is visited by people of all faiths, seeking spiritual blessings.",
+        "A collection of Shah Jalal's personal weapons and belongings is preserved at the site.",
+        "The 'Gajar' fish in the shrine's pond are considered sacred and are fed by pilgrims.",
+        "The complex features a grand mosque that has been renovated over the centuries.",
+        "The Urs festival at the shrine is one of the largest religious gatherings in the country.",
+        "The shrine has been visited by many historic figures, including the traveler Ibn Battuta."
+      ]
+    },
+    {
+      "id": "bd-bayazid-bostami-shrine-landmarks-v2",
+      "descriptionAdvanced": "The Shrine of Bayazid Bostami in Chittagong is a famous religious landmark dedicated to the great 9th-century Persian Sufi saint. Although there is no historical evidence that the saint himself is buried here, the site has been a center of spiritual devotion for centuries. The shrine is most famous for its large pond inhabited by a unique species of prehistoric-looking turtles, locally known as 'Mazari turtles.' These turtles are considered sacred by devotees, who often feed them as part of their visit. The architecture of the shrine features a beautiful mosque built during the Mughal era. The site reflects the deep-rooted Sufi traditions of Chittagong and serves as a peaceful retreat for those seeking spiritual solace. Geography K7 — Sacred Sites and Urban Biodiversity.",
+      "factsAdvanced": [
+        "The black soft-shell turtles in the pond are found only at this site in the wild.",
+        "Devotees believe the turtles are descendants of jinns who were transformed by the saint.",
+        "The Mughal-era mosque at the shrine was built during the reign of Aurangzeb.",
+        "The shrine is located on a small hill in the Nasirabad area of Chittagong.",
+        "It is one of the most visited pilgrimage sites in the port city.",
+        "The turtles are a protected species and are of great interest to biologists.",
+        "The site hosts a massive fair every year during the annual Urs festival."
+      ]
+    },
+    {
+      "id": "bd-central-railway-building-landmarks-v2",
+      "descriptionAdvanced": "The Central Railway Building (CRB) in Chittagong is a magnificent colonial-era landmark and the headquarters of the Bangladesh Railway's eastern zone. Built in 1872 by the British, the red-brick building is a classic example of Victorian-influenced colonial architecture, featuring grand arched windows and long corridors. The CRB is situated on a lush green hill, surrounded by centuries-old trees and scenic walkways, making it one of the most beautiful spots in Chittagong. The area is a favorite for local residents for morning walks and cultural festivals, particularly during the Bengali New Year. The building stands as a testament to the development of the railway network in the subcontinent and remains a vital hub for the country's transport administration. History K8 — British Colonial Architecture and Railway History.",
+      "factsAdvanced": [
+        "The CRB was established in 1872 as the headquarters for the Assam Bengal Railway.",
+        "The building is famous for its distinct red-brick facade and colonial design.",
+        "The surrounding area, known as 'Shirishtala,' is famous for its ancient Shirish trees.",
+        "The CRB hill provides a panoramic view of the port city of Chittagong.",
+        "It is a major center for cultural activities, including the 'Boli Khela' wrestling match.",
+        "The building houses a museum documenting the history of railways in Bengal.",
+        "The CRB area is considered a vital green lung for the industrial city of Chittagong."
+      ]
+    }
+  ]
+}

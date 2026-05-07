@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fachi-salt-works-economic-v2",
+      "descriptionAdvanced": "Die Salinen von Fachi bilden neben Bilma eine der wichtigsten Oasen für die Salzgewinnung tief in der lebensfeindlichen Ténéré-Wüste. Die Wirtschaft dieses stark isolierten Dorfes ist fast ausschließlich auf die traditionelle Salzproduktion ausgerichtet, die hier seit Jahrhunderten in mühsamer Handarbeit in flachen Lehmbecken erfolgt. Fachi dient als unverzichtbarer Zwischenstopp für die legendären Azalai-Kamelkarawanen, die das hochwertige Steinsalz in die südlicheren Sahel-Regionen transportieren. Das Überleben der Gemeinschaft hängt gänzlich vom erfolgreichen Tausch des Salzes gegen lebenswichtiges Getreide wie Hirse ab, wodurch Fachi ein lebendes Denkmal des historischen Transsaharahandels bleibt.",
+      "factsAdvanced": [
+        "Wichtige Salz-Oase tief in der Ténéré-Wüste.",
+        "Wirtschaft basiert ausschließlich auf traditioneller Salzgewinnung.",
+        "Salz wird in mühsamer Handarbeit in Lehmbecken produziert.",
+        "Unverzichtbarer Zwischenstopp für Azalai-Kamelkarawanen.",
+        "Überleben hängt vom Salz-gegen-Hirse-Tauschhandel ab.",
+        "Lebendes Denkmal des historischen Transsaharahandels."
+      ]
+    },
+    {
+      "id": "zinder-tannery-economic-v2",
+      "descriptionAdvanced": "Die Gerbereien von Zinder repräsentieren einen der traditionsreichsten und wirtschaftlich wertvollsten Handwerkszweige der alten Hauptstadt Nigers. In diesen teils historischen, teils semi-industriellen Anlagen verarbeiten hochspezialisierte Handwerker Ziegen-, Schaf- und Kamelhäute zu extrem feinem und haltbarem Leder. Zinder-Leder, oft in leuchtenden Naturfarben wie Rot und Indigo gefärbt, ist weit über die Landesgrenzen hinaus bekannt und wird intensiv nach Nigeria und Nordafrika exportiert. Die Gerbereien, deren beißender Geruch die umliegenden Viertel prägt, bieten Tausenden Familien in Zinder ein stetiges Einkommen und bewahren ein uraltes Hausa-Handwerkserbe.",
+      "factsAdvanced": [
+        "Traditionsreichster Handwerkszweig der alten Hauptstadt Zinder.",
+        "Verarbeitet Ziegen-, Schaf- und Kamelhäute zu feinstem Leder.",
+        "Leder wird oft in leuchtenden Naturfarben gefärbt.",
+        "Starkes Exportgut nach Nigeria und ganz Nordafrika.",
+        "Bietet Tausenden Familien ein stetiges, verlässliches Einkommen.",
+        "Bewahrt ein uraltes, hochspezialisiertes Hausa-Handwerkserbe."
+      ]
+    },
+    {
+      "id": "niamey-abattoir-economic-v2",
+      "descriptionAdvanced": "Der industriell angelegte Schlachthofkomplex von Niamey ist das absolute Nervenzentrum der nationalen Fleischverarbeitung und ein entscheidender Motor der städtischen Versorgung. Die Anlage wurde in den letzten Jahren umfangreich modernisiert, um strengere Hygiene- und Qualitätsstandards zu erfüllen, was auch den Export von Premium-Rindfleisch in benachbarte Länder und den Nahen Osten ermöglicht hat. Frühmorgens herrscht hier eine unglaubliche Dynamik, wenn Hunderte von Viehzüchtern ihre Rinder, Schafe und Ziegen anliefern. Der Schlachthof garantiert nicht nur die Ernährungssicherheit der rasant wachsenden Millionenmetropole, sondern stabilisiert auch die Preise für die nomadischen Viehbauern des Landes.",
+      "factsAdvanced": [
+        "Nervenzentrum der nationalen und städtischen Fleischverarbeitung.",
+        "Kürzlich modernisiert, um internationale Hygienestandards zu erfüllen.",
+        "Ermöglicht den Export von Premium-Rindfleisch in den Nahen Osten.",
+        "Verarbeitet täglich riesige Mengen Rinder, Schafe und Ziegen.",
+        "Garantiert die Ernährungssicherheit der Hauptstadt Niamey.",
+        "Stabilisiert die Viehpreise für landesweite, nomadische Züchter."
+      ]
+    },
+    {
+      "id": "galmi-onion-processing-economic-v2",
+      "descriptionAdvanced": "Galmi ist das unbestrittene Epizentrum des Zwiebelanbaus in Westafrika und stolze Heimat der berühmten Sorte 'Violette de Galmi'. Diese intensiv schmeckende, rot-violette Zwiebel ist so gefragt, dass sie von hier aus bis an die Elfenbeinküste und nach Ghana exportiert wird. Die Verarbeitung in Galmi umfasst das Trocknen, Sortieren und die massenhafte Abfüllung in charakteristische, grobmaschige Jutesäcke. Während der Haupterntezeit gleicht die Region einem riesigen, duftenden Meer aus Zwiebelfeldern. Die durch dörfliche Kooperativen organisierte Vermarktung der Galmi-Zwiebel ist ein herausragendes Beispiel für die wirtschaftliche Macht spezialisierter landwirtschaftlicher Nischen im Niger.",
+      "factsAdvanced": [
+        "Epizentrum des westafrikanischen Zwiebelanbaus.",
+        "Heimat der begehrten Zwiebelsorte 'Violette de Galmi'.",
+        "Wird intensiv bis an die Elfenbeinküste und Ghana exportiert.",
+        "Umfasst Sortierung und Abfüllung in grobmaschige Jutesäcke.",
+        "Wird stark durch dörfliche Kooperativen vermarktet.",
+        "Herausragendes Beispiel wirtschaftlicher Nischen in der Landwirtschaft."
+      ]
+    },
+    {
+      "id": "teguidda-salt-extraction-economic-v2",
+      "descriptionAdvanced": "Teguidda-n-Tessoumt ist eine wahrlich einzigartige und visuell atemberaubende Stätte der Salzgewinnung am westlichen Rand des Aïr-Gebirges. Im Gegensatz zu den Minen in Bilma wird das Salz hier nicht aus Steinsalzblöcken, sondern aus stark salzhaltiger Tonerde extrahiert. Die einheimischen Frauen waschen die Tonerde in Tausenden von bunten, runden Verdunstungsbecken, die aus der Vogelperspektive wie eine gigantische Palette von Pastellfarben aussehen. Das hier gewonnene braun-rötliche Salz ist weniger für den menschlichen Verzehr, sondern als hoch geschätztes Mineralstoffsupplement für Kamel- und Zebuherden in ganz Niger gedacht.",
+      "factsAdvanced": [
+        "Einzigartige Salzgewinnungsstätte am Rand des Aïr-Gebirges.",
+        "Salz wird aus stark salzhaltiger Tonerde extrahiert.",
+        "Arbeit erfolgt in Tausenden runden, bunten Verdunstungsbecken.",
+        "Visuell atemberaubend, sieht aus wie eine Pastellfarben-Palette.",
+        "Produziert ein spezielles, braun-rötliches Tiersalz.",
+        "Hoch geschätztes Supplement für Kamel- und Zebuherden."
+      ]
+    },
+    {
+      "id": "maradi-dry-port-project-economic-v2",
+      "descriptionAdvanced": "Das ambitionierte Trockenhafen-Projekt in Maradi wurde konzipiert, um den massiven grenzüberschreitenden Handel zwischen dem rohstoffreichen Süd-Niger und den nordnigerianischen Wirtschaftszentren wie Kano radikal zu beschleunigen. Als topmodernes Logistikzentrum bietet die Anlage großflächige Containerterminals, effiziente Zollabfertigungen vor Ort und großzügige Lagerhallen für Agrargüter. Ziel des Trockenhafens ist es, die extremen bürokratischen Verzögerungen an den traditionellen Grenzübergängen zu eliminieren und Maradi als primären Handelsknotenpunkt für Importe aus den Seehäfen von Lagos (Nigeria) fest zu etablieren. Dies stärkt Maradis Ruf als heimliche Wirtschaftshauptstadt Nigers.",
+      "factsAdvanced": [
+        "Ambitioniertes Logistikzentrum für den grenzüberschreitenden Handel.",
+        "Fokussiert auf den Warenaustausch mit Nordnigeria (v.a. Kano).",
+        "Bietet Containerterminals und Zollabfertigungen vor Ort.",
+        "Eliminiert bürokratische Verzögerungen an den Grenzen.",
+        "Primärer Handelsknotenpunkt für Importe aus Lagos.",
+        "Stärkt Maradis Ruf als heimliche Wirtschaftshauptstadt Nigers."
+      ]
+    },
+    {
+      "id": "diffa-oil-exploration-economic-v2",
+      "descriptionAdvanced": "Die Erdölexploration in der Region Diffa markiert ein neues, hochprofitables Kapitel in der jüngeren Wirtschaftsgeschichte Nigers. Tief im Tschadbecken gelegen, zieht dieses Gebiet enorme internationale Investitionen von Ölkonzernen an, die seismische Untersuchungen durchführen und erste Explorationsbohrungen abteufen. Die geologischen Formationen hier weisen erstaunliche Ähnlichkeiten mit den ertragreichen Feldern des benachbarten Tschad auf. Trotz massiver logistischer und sicherheitspolitischer Herausforderungen durch die geopolitische Instabilität der Tschadsee-Region setzt die Regierung große Hoffnungen in Diffa, um die nationale Erdölförderung neben dem Agadem-Feld auf ein zweites starkes Standbein zu stellen.",
+      "factsAdvanced": [
+        "Neues, hochprofitables Kapitel der nigrischen Erdölwirtschaft.",
+        "Gelegen im geologisch vielversprechenden Tschadbecken.",
+        "Zieht enorme Investitionen von internationalen Ölkonzernen an.",
+        "Bohrungen erfolgen trotz geopolitischer Sicherheitsrisiken.",
+        "Soll als zweites starkes Standbein neben Agadem dienen.",
+        "Formationen ähneln den ertragreichen Ölfeldern im Tschad."
+      ]
+    },
+    {
+      "id": "koma-bangou-gold-economic-v2",
+      "descriptionAdvanced": "Das Goldfeld von Koma Bangou in der Region Tillabéri ist einer der wichtigsten und berüchtigtsten Orte für den handwerklichen Goldabbau in Niger. In einer mondähnlichen Landschaft suchen hier Zehntausende von Menschen unter oft extrem schwierigen und gefährlichen Bedingungen in tiefen, ungesicherten Schächten nach dem wertvollen Edelmetall. Die Siedlung gleicht einer wilden Boomtown, deren Wirtschaft völlig vom Tagespreis für Gold bestimmt wird. Während der Abbau für viele verzweifelte Migranten aus der Region den einzigen Weg aus der Armut darstellt, ist die Stätte durch schwere ökologische Probleme und die mangelnde Arbeitssicherheit hoch umstritten.",
+      "factsAdvanced": [
+        "Berüchtigter Ort für handwerklichen Goldabbau in Tillabéri.",
+        "Zehntausende arbeiten unter extrem schwierigen Bedingungen.",
+        "Gefährlicher Abbau erfolgt in tiefen, ungesicherten Schächten.",
+        "Siedlung gleicht einer wilden Boomtown in mondähnlicher Landschaft.",
+        "Bietet vielen armen Migranten die einzige Überlebenschance.",
+        "Hoch umstritten wegen fehlender Sicherheit und Umweltproblemen."
+      ]
+    },
+    {
+      "id": "ayorou-livestock-market-economic-v2",
+      "descriptionAdvanced": "Der Viehmarkt von Ayorou ist nicht nur ein spektakuläres optisches Ereignis, sondern auch einer der wichtigsten wirtschaftlichen Termine in der westlichen Sahelzone. Jeden Sonntag verwandelt sich die Flussstadt am Niger in ein gigantisches Handelszentrum, auf dem Tausende von kräftigen Rindern, wüstenresistenten Schafen und majestätischen Kamelen gehandelt werden. Züchter der Fulani und Tuareg verhandeln hier mit Käufern, die die Tiere bis an die westafrikanische Küste exportieren. Der Markt sichert das Überleben der pastoralen Wirtschaft in der Region Tillabéri und stärkt die interethnischen Handelsbeziehungen zwischen Flussbauern und nomadischen Hirten.",
+      "factsAdvanced": [
+        "Einer der wichtigsten sonntäglichen Viehmärkte der Sahelzone.",
+        "Handelsplatz für Tausende Rinder, Schafe und Kamele.",
+        "Treffpunkt für Züchter der Fulani und Tuareg.",
+        "Viele Tiere werden für den Export an die Küste gehandelt.",
+        "Sichert das Überleben der pastoralen Wirtschaft in Tillabéri.",
+        "Stärkt interethnische Handelsbeziehungen in der Region."
+      ]
+    },
+    {
+      "id": "zinder-peanut-processing-economic-v2",
+      "descriptionAdvanced": "Zinder blickt auf eine glorreiche Vergangenheit als das unangefochtene Erdnuss-Zentrum Nigers zurück. Während der Kolonial- und frühen Unabhängigkeitszeit bildeten riesige Pyramiden aus geernteten Erdnüssen (die berühmten 'Pyramides d'Arachides') das Stadtbild und begründeten den Reichtum der Region. Auch heute noch spielt die Verarbeitung von Erdnüssen zu Öl und nahrhafter Erdnusspaste eine zentrale Rolle in der städtischen Wirtschaft. Die lokale Agrarindustrie bemüht sich derzeit, durch die Einführung trockenresistenterer Erdnuss-Sorten an alte Exporterfolge anzuknüpfen und die starke Position von Zinder auf den Märkten Nordnigerias wiederherzustellen.",
+      "factsAdvanced": [
+        "Unangefochtenes historisches Erdnuss-Zentrum Nigers.",
+        "Bekannt für die historischen riesigen 'Erdnuss-Pyramiden'.",
+        "Erdnussverarbeitung zu Öl und Paste ist heute noch zentral.",
+        "Begründete einst den enormen historischen Reichtum Zinders.",
+        "Nutzt heute zunehmend trockenresistentere Erdnuss-Sorten.",
+        "Zielt auf Export-Märkte im bevölkerungsreichen Nordnigeria."
+      ]
+    },
+    {
+      "id": "tahoua-phosphate-mining-economic-v2",
+      "descriptionAdvanced": "Das Gebiet um Tahoua birgt riesige und strategisch enorm wichtige Phosphatvorkommen, die den Schlüssel zur langfristigen landwirtschaftlichen Entwicklung Nigers darstellen. Der Abbau dieser Mineralien, primär aus der Lagerstätte Tahoua-Abalak, wird vor Ort zu hochwertigem Naturphosphat-Dünger verarbeitet, der speziell auf die übersäuerten und nährstoffarmen Böden der Sahelzone abgestimmt ist. Durch die verstärkte Nutzung der lokalen Phosphate hat Niger begonnen, seine drückende Abhängigkeit von teuren importierten Kunstdüngern zu reduzieren, was die Ernteerträge tausender Kleinbauern bei Hirse und Sorghum deutlich stabilisiert und das Einkommen in ländlichen Regionen gesichert hat.",
+      "factsAdvanced": [
+        "Birgt riesige, strategisch wichtige Phosphatvorkommen.",
+        "Schlüssel zur langfristigen landwirtschaftlichen Entwicklung.",
+        "Dient der Produktion von lokalem Naturphosphat-Dünger.",
+        "Dünger ist speziell für nährstoffarme Sahel-Böden optimiert.",
+        "Reduziert drastisch die Abhängigkeit von teuren Düngerimporten.",
+        "Stabilisiert Ernteerträge von Hirse und Sorghum bei Kleinbauern."
+      ]
+    },
+    {
+      "id": "agadez-logistics-hub-economic-v2",
+      "descriptionAdvanced": "Agadez fungiert seit Jahrhunderten als der wichtigste Umschlagplatz zwischen Schwarzafrika und der mediterranen Welt, und hat sich heute in ein hochmodernes Logistikzentrum verwandelt. Die Stadt steuert den kompletten Güterverkehr in den Norden, zu den Uranminen von Arlit und über die brutale Wüstenroute nach Libyen. Täglich brechen hier schwer beladene LKW-Konvois auf, um Treibstoff, Maschinenteile und Lebensmittel in die abgelegensten Winkel der Sahara zu transportieren. Die logistische Infrastruktur von Agadez stützt sich auf ein tiefes, historisches Wissen der Tuareg über Wüstenrouten, das heute mit GPS-Tracking und modernen Schwerlasttransportern kombiniert wird.",
+      "factsAdvanced": [
+        "Wichtigster logistischer Umschlagplatz zwischen Sahel und Nordafrika.",
+        "Steuert den Güterverkehr zu den Uranminen in Arlit.",
+        "Startpunkt der extremen Wüstenroute nach Süd-Libyen.",
+        "Umschlagplatz für Treibstoff, Maschinenteile und Lebensmittel.",
+        "Kombiniert historisches Wüstenwissen der Tuareg mit GPS-Technik.",
+        "Täglicher Aufbruch riesiger, schwer beladener LKW-Konvois."
+      ]
+    },
+    {
+      "id": "ne-agadez-historic-centre-history-v2",
+      "descriptionAdvanced": "Das historische Zentrum von Agadez, ein stolzes UNESCO-Weltkulturerbe, fasziniert als herausragend erhaltenes Beispiel traditioneller Lehmarchitektur am Rande der Wüste. Die Stadt entstand im 15. Jahrhundert als Knotenpunkt transsaharischer Karawanen und wurde zum Sitz des Tuareg-Sultanats des Aïr. Die verwinkelten, ockerfarbenen Gassen des Viertels sind so konzipiert, dass sie maximalen Schatten spenden und den Sandstürmen trotzen. Die prachtvollen Paläste und alten Kaufmannshäuser zeugen vom immensen Reichtum, der einst durch den Handel mit Gold, Salz und feinen Stoffen zwischen dem Mittelmeer und Kano (Nigeria) angehäuft wurde.",
+      "factsAdvanced": [
+        "Stolzes UNESCO-Weltkulturerbe am Rande der Sahara.",
+        "Herausragendes Beispiel traditioneller ockerfarbener Lehmarchitektur.",
+        "Entstand im 15. Jahrhundert als transsaharisches Karawanenzentrum.",
+        "Historischer Sitz des mächtigen Tuareg-Sultanats des Aïr.",
+        "Verwinkelte Gassen spenden Schatten und trotzen Wüstenstürmen.",
+        "Alte Kaufmannshäuser zeugen von früherem immensem Handelsreichtum."
+      ]
+    },
+    {
+      "id": "ne-agadez-mosque-history-v2",
+      "descriptionAdvanced": "Die Große Moschee von Agadez ist das unbestrittene architektonische Wahrzeichen der Stadt und das markanteste Gebäude der gesamten Region. Ihr beeindruckendes, 27 Meter hohes pyramidenförmiges Minarett wurde im frühen 16. Jahrhundert errichtet und dominiert die flache Wüstenlandschaft meilenweit. Das Bauwerk besteht vollständig aus luftgetrockneten Lehmziegeln ('Banco'), die durch ein Gerüst aus Palmholzstämmen stabilisiert werden. Diese Holzbalken dienen gleichzeitig als Trittbretter für die Handwerker, die die empfindliche Lehmschicht nach jeder Regenzeit in mühsamer Gemeindearbeit erneuern müssen. Die Moschee ist das spirituelle Zentrum der lokalen Tuareg-Gemeinschaft.",
+      "factsAdvanced": [
+        "Architektonisches Wahrzeichen und markantestes Gebäude von Agadez.",
+        "Besitzt ein 27 Meter hohes pyramidenförmiges Lehm-Minarett.",
+        "Errichtet im frühen 16. Jahrhundert aus 'Banco' (luftgetrockneter Lehm).",
+        "Stabilisiert durch ein sichtbares Gerüst aus Palmholzstämmen.",
+        "Fassade muss nach jeder Regenzeit in Gemeindearbeit erneuert werden.",
+        "Wichtigstes spirituelles Zentrum der lokalen Tuareg-Gemeinschaft."
+      ]
+    },
+    {
+      "id": "ne-djado-ruins-history-v2",
+      "descriptionAdvanced": "Die verlassene Stadt Djado, spektakulär gelegen auf einem Felsplateau tief in der unwirtlichen Ténéré-Wüste, ist eine der rätselhaftesten historischen Stätten der Sahara. Diese mittelalterliche befestigte Siedlung diente einst als florierender Kontrollposten und Rastplatz für die Salzkarawanen der Kanuri. Ihre gewaltigen Lehm- und Steinruinen zeugen von einer Zeit, als die Region deutlich feuchter und belebter war. Djado wurde vermutlich wegen zunehmender Trockenheit, dem Rückgang der Grundwasserspiegel und ständigen Überfällen nomadischer Krieger im 18. Jahrhundert endgültig aufgegeben. Heute bieten die Ruinen ein atemberaubendes, fast gespenstisches Fotomotiv inmitten purer Wüstenstille.",
+      "factsAdvanced": [
+        "Rätselhafte, mittelalterliche Ruinenstadt tief in der Ténéré-Wüste.",
+        "Einst florierender Kontrollposten für Kanuri-Salzkarawanen.",
+        "Spektakulär auf einem Felsplateau erbaut.",
+        "Gewaltige Lehm- und Steinruinen bezeugen eine feuchtere Epoche.",
+        "Vermutlich im 18. Jahrhundert wegen Dürre und Überfällen aufgegeben.",
+        "Bietet heute ein atemberaubendes Fotomotiv in purer Wüstenstille."
+      ]
+    },
+    {
+      "id": "ne-zinder-birni-history-v2",
+      "descriptionAdvanced": "Das historische Viertel Birni ist das Herzstück der alten Metropole Zinder und birgt das kulturelle Erbe der reichen Hausa-Zivilisation. Ein Spaziergang durch die labyrinthartigen, engen Gassen von Birni ist eine Reise in die Blütezeit des 19. Jahrhunderts, als Zinder ein wichtiges Handelszentrum war. Die massiven Lehmhäuser sind bekannt für ihre aufwendigen, reliefartigen Fassadendekorationen, die geometrische Muster und islamische Symbole zeigen. Viele Häuser sind noch immer im Besitz der alten Kaufmannsfamilien, die stolz die handwerklichen und baulichen Traditionen bewahren. Das Viertel versprüht eine zeitlose, mystische Atmosphäre fernab der modernen Welt.",
+      "factsAdvanced": [
+        "Historisches Herzstück der alten Metropole Zinder.",
+        "Birgt das architektonische Erbe der reichen Hausa-Zivilisation.",
+        "Labyrinthartige Gassen erinnern an die Blütezeit im 19. Jahrhundert.",
+        "Lehmhäuser besitzen aufwendige, geometrische Relief-Fassaden.",
+        "Wird noch immer von alten, stolzen Kaufmannsfamilien bewohnt.",
+        "Versprüht eine zeitlose, authentisch mystische Atmosphäre."
+      ]
+    },
+    {
+      "id": "ne-damagaram-palace-history-v2",
+      "descriptionAdvanced": "Der Sultanspalast von Zinder, im Zentrum des Viertels Birni gelegen, ist die historische und noch heute genutzte Residenz der Sultane von Damagaram. Das im 19. Jahrhundert erbaute Gebäude-Ensemble ist ein Monument der regionalen Macht und verkörpert die architektonische Meisterschaft der Hausa-Baumeister. Die imposanten Mauern umschließen einen Komplex aus Höfen, Empfangssälen und Privatgemächern, die mit kräftigen Farben und traditionellen Symbolen verziert sind. Der Sultan fungiert heute zwar nur noch zeremoniell, bleibt aber eine tief respektierte moralische und religiöse Autorität, die als Vermittler bei lokalen Konflikten in der gesamten Region auftritt.",
+      "factsAdvanced": [
+        "Historische und heute noch genutzte Residenz der Sultane von Damagaram.",
+        "Erbaute im 19. Jahrhundert als Monument regionaler Macht.",
+        "Verkörpert die architektonische Meisterschaft der Hausa-Baumeister.",
+        "Komplex aus Höfen, Sälen und Gemächern mit traditionellen Symbolen.",
+        "Sultan agiert heute als respektierte moralische und religiöse Autorität.",
+        "Dient als wichtiger Vermittlungsort bei regionalen Konflikten."
+      ]
+    },
+    {
+      "id": "ne-assode-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Assodé liegen dramatisch inmitten der vulkanischen Gipfel des Aïr-Gebirges und markieren die Überreste der einst ältesten und wichtigsten Stadt der Tuareg in der Region. Gegründet im 11. Jahrhundert, war Assodé ein wohlhabendes Zentrum für islamische Gelehrsamkeit und den Handel mit Kupfer und Salz, lange bevor Agadez seine Vorrangstellung einnahm. Die Stadt wurde Anfang des 20. Jahrhunderts während der gewaltsamen Kaocen-Revolte gegen die französische Kolonialherrschaft nahezu vollständig zerstört. Heute zeugen nur noch ausgedehnte Fundamente, zerfallene Moscheen und Friedhöfe von der einstigen Größe dieser verlorenen Tuareg-Metropole.",
+      "factsAdvanced": [
+        "Überreste der einst ältesten und wichtigsten Tuareg-Stadt im Aïr-Gebirge.",
+        "Gegründet im 11. Jahrhundert als Zentrum für Gelehrsamkeit und Handel.",
+        "Florierte durch den Handel mit Kupfer und Ténéré-Salz.",
+        "Wurde Anfang des 20. Jh. während der Kaocen-Revolte zerstört.",
+        "Heute nur noch Fundamente, zerfallene Moscheen und Friedhöfe sichtbar.",
+        "Liegt dramatisch eingebettet zwischen vulkanischen Gipfeln."
+      ]
+    },
+    {
+      "id": "ne-fachi-fort-history-v2",
+      "descriptionAdvanced": "Das Karawanen-Fort von Fachi ist eine massive, historische Festung, die wie eine Sandburg aus der weiten Wüste emporragt. Erbaut von der Kanuri-Bevölkerung der Oase, diente die Anlage dem lebenswichtigen Zweck, die wertvollen Salz-Ernten und die Dorfbewohner vor den plötzlichen, berüchtigten Razzien (Überfällen) der nomadischen Tuareg- und Tubu-Krieger zu schützen. Die hohen Lehmwände der Festung boten im Inneren ausreichend Platz, um während einer Belagerung das gesamte Dorf mitsamt Vorräten aufzunehmen. Heute ist das Fort ein stummer, aber eindrucksvoller Zeuge der gefährlichen, kriegerischen Realität des vorkolonialen Transsaharahandels.",
+      "factsAdvanced": [
+        "Massive, historische Lehmfestung in der Wüsten-Oase Fachi.",
+        "Erbaut von Kanuri zum Schutz vor Tuareg- und Tubu-Kriegern.",
+        "Schützte wertvolle Salz-Ernten und Dorfbewohner vor Razzien.",
+        "Bot bei Belagerung Platz für das gesamte Dorf und Vorräte.",
+        "Eindrucksvoller Zeuge der gefährlichen Realität des Transsaharahandels.",
+        "Ragt optisch wie eine riesige Sandburg aus der Wüste empor."
+      ]
+    },
+    {
+      "id": "ne-bilma-salt-history-v2",
+      "descriptionAdvanced": "Die historischen Salzminen von Bilma sind ein lebendiges Stück afrikanischer Geschichte und waren über Jahrhunderte das entscheidende Rückgrat des weitreichenden Transsaharahandels. Bereits mittelalterliche arabische Geografen beschrieben die Bedeutung dieses Ortes, an dem das Grundwasser durch salzhaltige Gesteinsschichten an die Oberfläche tritt. Die Produktionstechniken haben sich seit 500 Jahren kaum verändert: Das Salz wird in Verdunstungsbecken kristallisiert und in hohle Palmstämme gepresst, um die berühmten, transportfähigen 'Kantu'-Salzkegel zu formen. Ohne das Salz aus Bilma wäre das Überleben der gigantischen Viehherden in der Sahelzone historisch nicht möglich gewesen.",
+      "factsAdvanced": [
+        "Lebendiges afrikanisches Geschichtsdenkmal in der Ténéré-Wüste.",
+        "Jahrhundertelanges Rückgrat des weitreichenden Transsaharahandels.",
+        "Produktionstechniken haben sich seit über 500 Jahren nicht verändert.",
+        "Salz wird in charakteristische 'Kantu'-Kegel aus Palmholz gepresst.",
+        "Essenziell für das Überleben gigantischer Viehherden in der Sahelzone.",
+        "Bedeutung wurde bereits von mittelalterlichen arabischen Geografen dokumentiert."
+      ]
+    },
+    {
+      "id": "ne-dirkou-outpost-history-v2",
+      "descriptionAdvanced": "Der historische Vorposten Dirkou, eine vitale Oase im extrem trockenen Kaouar-Tal, bietet Karawanen und Reisenden seit der Antike sichere Zuflucht und frisches Wasser. Aufgrund seiner isolierten Lage auf der Route zwischen dem Tschadsee und den libyschen Küstenstädten war Dirkou immer ein Ort von hoher strategischer und militärischer Bedeutung. Im 19. Jahrhundert errichteten hier sowohl osmanische Händler als auch später französische Kolonialtruppen Befestigungsanlagen, um die lukrativen Handelswege zu kontrollieren. Heute sind die Ruinen der alten Zollhäuser und Garnisonen noch sichtbar und erzählen von einer Zeit, als Dirkou der Schlüssel zur Wüste war.",
+      "factsAdvanced": [
+        "Vitale, historische Oase im extrem trockenen Kaouar-Tal.",
+        "Bietet Karawanen seit der Antike Zuflucht und frisches Wasser.",
+        "Strategisch wichtige Lage auf der Route Tschadsee-Libyen.",
+        "Historisch kontrolliert von osmanischen Händlern und Franzosen.",
+        "Besitzt noch heute Ruinen alter Zollhäuser und Garnisonen.",
+        "Galt in der Kolonialzeit als entscheidender Schlüssel zur Sahara."
+      ]
+    },
+    {
+      "id": "ne-arbre-tenere-history-v2",
+      "descriptionAdvanced": "Das Denkmal des 'Arbre du Ténéré' erinnert an einen einsamen, knorrigen Akazienbaum, der jahrzehntelang als der isolierteste Baum der Welt galt. Umgeben von 400 Kilometern purem Sand in jede Richtung, fungierte er als überlebenswichtiger Orientierungspunkt für die Karawanen auf dem Weg nach Bilma. Seine Wurzeln reichten über 30 Meter tief in den Wüstenboden, um Grundwasser zu erreichen. Tragischerweise wurde der Baum 1973 von einem orientierungslosen Lkw-Fahrer umgefahren. Heute markiert eine baumförmige Metallskulptur diese historische Stelle, während die Überreste der ursprünglichen Akazie ehrenvoll im Nationalmuseum in Niamey ausgestellt sind.",
+      "factsAdvanced": [
+        "Erinnert an eine Akazie, die als isoliertester Baum der Welt galt.",
+        "Fungierte als überlebenswichtiger Orientierungspunkt für Karawanen.",
+        "Wurzeln reichten über 30 Meter tief bis zum Grundwasser.",
+        "Stand im Umkreis von 400 Kilometern völlig allein im Wüstensand.",
+        "Wurde 1973 tragischerweise von einem Lkw-Fahrer zerstört.",
+        "Markiert heute durch eine Skulptur; Originalbaum im Museum in Niamey."
+      ]
+    },
+    {
+      "id": "ne-dosso-palace-history-v2",
+      "descriptionAdvanced": "Der historische Palast von Dosso ist das unbestrittene Machtzentrum des traditionellen Zarma-Königreichs und prägte die Geschichte der gesamten südwestlichen Region Nigers. Im späten 19. Jahrhundert während der Herrschaft des bedeutenden Djermakoye (Titel des Zarma-Herrschers) erbaut, zeichnet sich der Palast durch seine farbenfrohe, in strahlendem Weiß und Rot gehaltene Architektur aus. Das Gebäude ist nicht nur ein Wohnsitz, sondern das spirituelle Zentrum der Ethnie, in dem die königlichen Trommeln, die als heilig gelten, aufbewahrt werden. Der Djermakoye von Dosso spielte eine Schlüsselrolle bei der diplomatischen Vermittlung während der Ankunft der französischen Kolonialmacht.",
+      "factsAdvanced": [
+        "Unbestrittenes Machtzentrum des traditionellen Zarma-Königreichs.",
+        "Sitz des 'Djermakoye', des hochrespektierten Zarma-Herrschers.",
+        "Erbaut im späten 19. Jahrhundert mit farbenfroher Architektur.",
+        "Aufbewahrungsort der heiligen, zeremoniellen königlichen Trommeln.",
+        "Djermakoye vermittelte diplomatisch bei Ankunft der Franzosen.",
+        "Prägt bis heute tiefgreifend die kulturelle Identität von Dosso."
+      ]
+    },
+    {
+      "id": "ne-maradi-history-v2",
+      "descriptionAdvanced": "Das historische Königreich Katsina-Maradi ist ein faszinierendes Beispiel für Widerstand und Neuerfindung im 19. Jahrhundert. Nachdem das ursprüngliche Emirat Katsina in Nigeria von den vordringenden Fulani-Dschihadisten erobert wurde, flüchteten die Hausa-Herrscher nach Norden und gründeten in Maradi eine neue, stark befestigte Hauptstadt im Exil. Von Maradi aus führten sie jahrzehntelang erbitterte Kriege zur Rückeroberung ihrer alten Ländereien, was die Stadt zu einem hoch militarisierten und kulturell stolzen Zentrum machte. Dieses Erbe des Widerstands ist noch heute im Selbstbewusstsein der Bevölkerung von Maradi spürbar, das sich als Bewahrer der reinen Hausa-Kultur betrachtet.",
+      "factsAdvanced": [
+        "Gegründet im 19. Jahrhundert von Hausa-Flüchtlingen aus Katsina.",
+        "Entstand als stark befestigte Hauptstadt im Exil in Maradi.",
+        "Zentrum des erbitterten Widerstands gegen Fulani-Dschihadisten.",
+        "Wurde zu einem hoch militarisierten und kulturell stolzen Ort.",
+        "Führte jahrzehntelange Kriege zur Rückeroberung alter Ländereien.",
+        "Bevölkerung betrachtet sich als Bewahrer der reinen Hausa-Kultur."
+      ]
+    },
+    {
+      "id": "ne-ouallam-capital-history-v2",
+      "descriptionAdvanced": "Die alte Zarma-Hauptstadt Ouallam ist eine bedeutende historische Siedlung nördlich von Niamey, die eine entscheidende Rolle bei der Abwehr von feindlichen Invasionen im vorkolonialen Niger spielte. Im 18. und 19. Jahrhundert diente Ouallam als massive militärische Barriere gegen die Raubzüge der nordischen Tuareg-Nomaden, die regelmäßig versuchten, die fruchtbaren Zarma-Ländereien zu plündern. Die Stadt war umgeben von tiefen Gräben und dichten Dornenhecken, einer traditionellen Zarma-Verteidigungstechnik. Die Krieger aus Ouallam waren im ganzen Land für ihren unerschrockenen Mut berühmt. Heute erinnert die stolze, mündliche Dichtkunst der lokalen Griots (Geschichtenerzähler) an diese epischen Verteidigungsschlachten.",
+      "factsAdvanced": [
+        "Bedeutende historische Militärsiedlung der Zarma nördlich von Niamey.",
+        "Diente als Barriere gegen Raubzüge der nordischen Tuareg-Nomaden.",
+        "Verteidigt durch tiefe Gräben und dichte Dornenhecken.",
+        "Krieger aus Ouallam waren historisch für ihren Mut berühmt.",
+        "Spielt eine entscheidende Rolle im vorkolonialen Verteidigungssystem.",
+        "Lokale Griots bewahren die epischen Schlachten in mündlicher Dichtkunst."
+      ]
+    }
+  ]
+}

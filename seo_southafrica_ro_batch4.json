@@ -1,0 +1,295 @@
+{
+  "lang": "ro",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-of-cape-town-economic-v2",
+      "descriptionAdvanced": "Portul Cape Town, situat la poalele Muntelui Table, este una dintre cele mai emblematice și strategice porți maritime ale Africii de Sud. Deși este mai mic decât portul Durban, acesta joacă un rol crucial în exportul produselor agricole proaspete, în special fructe de foioase și vinuri din regiunea Western Cape. Portul este un hub major pentru reparația navelor, deservind platformele petroliere de pe coasta de vest a Africii. De asemenea, găzduiește o industrie de pescuit vibrantă și este o destinație de top pentru navele de croazieră internaționale. Waterfront-ul V&A, situat în interiorul portului, este cel mai vizitat obiectiv turistic al țării, demonstrând o integrare reușită între funcțiile comerciale și cele turistice. Geografie K7 — Transportul maritim și exportul produselor perisabile.",
+      "factsAdvanced": [
+        "Principalul port de export pentru fructele și vinurile din Africa de Sud.",
+        "Găzduiește cea mai mare instalație de reparații navale de pe coasta de vest a Africii.",
+        "Situat strategic pe una dintre cele mai aglomerate rute comerciale din lume.",
+        "V&A Waterfront din incinta portului atrage peste 24 de milioane de vizitatori anual.",
+        "Portul are 34 de dane de operare și facilități moderne de depozitare la rece.",
+        "Este un nod vital pentru industria de pescuit pelagic și de adâncime.",
+        "Terminalul de containere poate gestiona nave de până la 8.000 TEU.",
+        "Baza logistică principală pentru expedițiile științifice către Antarctica."
+      ]
+    },
+    {
+      "id": "port-of-gqeberha-economic-v2",
+      "descriptionAdvanced": "Portul Gqeberha, situat în Golful Algoa, este unul dintre cele mai vechi porturi comerciale din Africa de Sud și un pilon central al economiei Eastern Cape. Acesta este recunoscut drept cel mai mare terminal de export de mangan din Africa, transportând minereul extras din minele din Northern Cape către piețele globale. De asemenea, portul este esențial pentru industria auto regională, gestionând importurile de componente și exporturile de vehicule finite pentru producători precum Volkswagen și Ford. Cu o istorie de peste un secol, portul se află într-un proces de transformare, mutând activitățile grele către noul port Ngqura pentru a permite dezvoltarea turistică și urbană a zonei de mal din Gqeberha. Geografie K7 — Logistica minereurilor și industria automobilistică.",
+      "factsAdvanced": [
+        "Cel mai mare port de export pentru minereul de mangan din Africa.",
+        "Hub logistic crucial pentru producătorii de automobile Volkswagen și Isuzu.",
+        "Situat în inima orașului Gqeberha (Port Elizabeth).",
+        "Terminalul de containere are o capacitate anuală de peste 400.000 TEU.",
+        "Găzduiește un terminal specializat pentru exportul de fructe citrice.",
+        "Infrastructura feroviară conectează portul direct cu minele de mangan din interior.",
+        "Cunoscut pentru 'The Bellbuoy', un punct de referință istoric pentru navigație.",
+        "Portul a fost inaugurat oficial în forma sa modernă în 1933."
+      ]
+    },
+    {
+      "id": "port-of-saldanha-economic-v2",
+      "descriptionAdvanced": "Portul Saldanha, situat pe coasta de vest, este singurul port din Africa de Sud dedicat aproape exclusiv exportului de minereu de fier. Acesta deține recordul pentru cel mai adânc port natural din țară, fiind capabil să primească nave masive de tip Ore Carrier de peste 200.000 de tone. Portul este punctul terminus al liniei ferate Sishen-Saldanha, o realizare inginerească de 861 km care transportă trenuri cu mii de vagoane încărcate cu fier. Pe lângă fier, portul găzduiește și un terminal petrolier major și facilități pentru stocarea gazelor naturale lichefiate. Saldanha este un motor economic pentru provincia Western Cape, integrând logistica feroviară grea cu transportul maritim de mare tonaj. Geografie K7 — Exploatarea resurselor metalurgice și transportul de mare capacitate.",
+      "factsAdvanced": [
+        "Cel mai adânc port natural din Africa de Sud (adâncime de până la 23 metri).",
+        "Exportă peste 60 de milioane de tone de minereu de fier anual.",
+        "Linia ferată Sishen-Saldanha transportă trenuri lungi de 3,7 km.",
+        "Găzduiește un terminal de stocare a petrolului cu o capacitate de 45 milioane barili.",
+        "Portul a fost special construit pentru exportul de fier în anii 1970.",
+        "Situat într-un golf protejat natural, de trei ori mai mare decât portul Cape Town.",
+        "Eficiența încărcării minereului atinge 8.000 de tone pe oră.",
+        "Zona portuară este o zonă economică specială (IDZ) în plină expansiune."
+      ]
+    },
+    {
+      "id": "port-of-east-london-economic-v2",
+      "descriptionAdvanced": "Portul East London este singurul port fluvial comercial din Africa de Sud, fiind situat la gura de vărsare a râului Buffalo. Acesta joacă un rol vital în economia regiunii Buffalo City, fiind principalul nod de export pentru fabrica Mercedes-Benz situată în vecinătate. Portul este specializat în logistica vehiculelor și a componentelor auto, având un terminal de mașini modern și eficient. De asemenea, gestionează volume importante de cereale prin cel mai mare siloz de export din țară. Deși dimensiunile sale sunt limitate de geografia râului, portul East London este un model de operare specializată, fiind esențial pentru conectarea industriei din Eastern Cape cu piețele din Europa și Asia. Geografie K7 — Navigația fluvială și logistica industrială.",
+      "factsAdvanced": [
+        "Singurul port fluvial comercial operațional din Africa de Sud.",
+        "Punct de export strategic pentru fabrica de automobile Mercedes-Benz.",
+        "Găzduiește cel mai mare siloz de cereale din Africa de Sud (76.000 tone).",
+        "Are singurul doc uscat graving din țară capabil să ridice nave mari pentru reparații.",
+        "Terminalul de mașini poate procesa peste 50.000 de unități anual.",
+        "Situat pe râul Buffalo, necesită dragare constantă pentru menținerea adâncimii.",
+        "Inaugurat oficial în 1848, este unul dintre cele mai vechi porturi active.",
+        "Portul este un centru important pentru industria locală de procesare a alimentelor."
+      ]
+    },
+    {
+      "id": "port-of-ngqura-economic-v2",
+      "descriptionAdvanced": "Portul Ngqura, situat la 20 km nord-est de Gqeberha, este cel mai nou și mai modern port de adâncime din Africa de Sud. Inaugurat în 2009, acesta a fost proiectat special pentru a gestiona nave de containere de ultimă generație și pentru a servi drept hub de transbordare pentru întreaga regiune sub-sahariană. Ngqura face parte din zona economică specială Coega, fiind integrat cu parcuri industriale masive. Portul se mândrește cu standarde de mediu ridicate, fiind construit într-o zonă sensibilă din punct de vedere ecologic. Capacitatea sa de a primi nave Post-Panamax îl face o piesă centrală în strategia Africii de Sud de a deveni un lider logistic pe rutele comerciale est-vest. Geografie K7 — Terminale maritime moderne și zone economice speciale.",
+      "factsAdvanced": [
+        "Cel mai modern port de adâncime din Africa de Sud, inaugurat în 2009.",
+        "Capabil să primească nave de containere uriașe (peste 12.000 TEU).",
+        "Parte integrantă a Zonei Economice Speciale Coega (IDZ).",
+        "Proiectat ca un port 'verde', cu sisteme avansate de monitorizare a mediului.",
+        "Terminalul de containere este operat cu tehnologie de ultimă oră.",
+        "Adâncimea de 16-18 metri permite accesul celor mai mari nave comerciale.",
+        "Găzduiește facilități pentru importul și stocarea gazelor naturale lichefiate (GNL).",
+        "Are rolul de a prelua traficul greu de la vechiul port Gqeberha."
+      ]
+    },
+    {
+      "id": "mponeng-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina de aur Mponeng, situată în provincia Gauteng, deține recordul mondial pentru cea mai adâncă mină excavată de om, atingând adâncimi de peste 4 kilometri sub suprafața pământului. Operată de Harmony Gold, mina extrage minereu din bogatul recif Ventersdorp Contact. La aceste adâncimi extreme, temperaturile rocii pot ajunge la 60°C, necesitând sisteme de răcire și ventilație gigantice care pompează gheață și aer rece în subteran. Mponeng este o mină de înaltă tehnologie unde mii de mineri lucrează zilnic pentru a extrage metalul prețios. Aceasta reprezintă culmea ingineriei miniere sud-africane, demonstrând capacitatea de a opera în condiții de presiune și căldură extreme pentru a accesa cele mai bogate rezerve de aur ale planetei. Geografie K7 — Resurse minerale și provocări tehnice la adâncimi mari.",
+      "factsAdvanced": [
+        "Cea mai adâncă mină din lume, coborând la peste 4.000 de metri.",
+        "Temperatura rocii la fundul minei atinge 66°C.",
+        "Minerii au nevoie de peste o oră pentru a ajunge de la suprafață la locul de muncă.",
+        "Produce anual cantități masive de aur (aproximativ 250.000 uncii).",
+        "Sistemul de răcire funcționează ca un aparat de aer condiționat gigantic pentru întreaga mină.",
+        "Numele Mponeng înseamnă 'privește-mă' în limba Sesotho.",
+        "Găzduiește bacterii unice (Desulforudis audaxviator) care trăiesc izolate de lumina soarelui.",
+        "Utilizează lifturi care circulă cu viteze de până la 16 metri pe secundă."
+      ]
+    },
+    {
+      "id": "south-deep-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina South Deep, situată în bazinul Witwatersrand, este una dintre cele mai mari și mai moderne mine de aur din lume. Spre deosebire de minele tradiționale înguste, South Deep exploatează un zăcământ masiv de aur care permite utilizarea metodelor miniere mecanizate la scară largă. Operată de Gold Fields, mina reprezintă viitorul mineritului de aur în Africa de Sud, punând un accent major pe siguranță și eficiență prin tehnologie robotizată. Zăcământul este atât de vast încât mina are o durată de viață estimată la peste 70 de ani. South Deep este un pilon al economiei naționale, demonstrând tranziția de la mineritul manual intens la procese automatizate care pot opera la adâncimi de aproape 3 kilometri. Geografie K7 — Modernizarea industriei miniere și mecanizarea.",
+      "factsAdvanced": [
+        "A treia cea mai mare rezervă de aur din lume deținută de o singură mină.",
+        "Mecanizată aproape integral, folosind utilaje masive în subteran.",
+        "Adâncimea maximă de operare este de aproximativ 2.995 metri.",
+        "Deține rezerve estimate la peste 32 de milioane de uncii de aur.",
+        "Durata de viață a minei este proiectată până în anul 2090.",
+        "Sistemul de puțuri Twin Shaft este unul dintre cele mai adânci din lume.",
+        "Utilizează tehnologia de umplere cu pastă pentru a stabiliza zonele excavate.",
+        "Centru de excelență pentru formarea inginerilor minieri moderni."
+      ]
+    },
+    {
+      "id": "cullinan-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Mina de diamante Cullinan, situată lângă Pretoria, este celebră în întreaga lume pentru producerea unor diamante de dimensiuni și culori excepționale. Aici a fost descoperit în 1905 cel mai mare diamant brut din lume, 'Cullinan', care face acum parte din Bijuteriile Coroanei Britanice. Mina este, de asemenea, principala sursă mondială de diamante albastre rare. Deși este o mină istorică, Cullinan utilizează metode moderne de exploatare prin 'block caving', permițând extragerea diamantelor dintr-un horn de kimberlit masiv. Vizitatorii pot explora suprafața minei și pot învăța despre procesul complex de separare a pietrelor prețioase din rocă, Cullinan rămânând un simbol al bogăției geologice unice a Africii de Sud. Geografie K7 — Resurse de pietre prețioase și istorie minieră.",
+      "factsAdvanced": [
+        "Locul unde a fost găsit diamantul Cullinan (3.106 carate) în 1905.",
+        "Singura sursă semnificativă de diamante albastre rare de pe Pământ.",
+        "Operată în prezent de Petra Diamonds prin metode subterane avansate.",
+        "Diamantul 'Golden Jubilee', cel mai mare diamant tăiat din lume, provine de aici.",
+        "Hornul de kimberlit de la Cullinan are o suprafață de 32 de hectare la nivelul solului.",
+        "Mina a produs peste 750 de diamante de peste 100 de carate.",
+        "Orașul minier adiacent păstrează un farmec istoric victorian.",
+        "Sistemul de procesare a minereului este unul dintre cele mai eficiente din lume."
+      ]
+    },
+    {
+      "id": "venetia-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Mina Venetia, situată în provincia Limpopo, este cea mai mare mină de diamante din Africa de Sud în ceea ce privește producția anuală. Operată de De Beers, mina se află în interiorul Rezervației Naturale Venetia Limpopo, demonstrând un echilibru între exploatarea resurselor și protecția biodiversității. Deși a început ca o mină de suprafață, Venetia trece în prezent printr-o transformare majoră către mineritul subteran, o investiție de miliarde de dolari care îi va prelungi durata de viață cu zeci de ani. Venetia este renumită pentru eficiența sa operațională și pentru contribuția masivă la veniturile grupului De Beers, fiind o componentă esențială a lanțului global de aprovizionare cu diamante de înaltă calitate. Geografie K7 — Managementul resurselor prețioase și sustenabilitatea minieră.",
+      "factsAdvanced": [
+        "Cea mai mare producătoare de diamante din Africa de Sud (peste 4 milioane carate/an).",
+        "Trece printr-o conversie istorică de la mină de suprafață la mină subterană.",
+        "Investiția pentru proiectul subteran depășește 2 miliarde de dolari.",
+        "Situată în apropierea sitului de patrimoniu mondial Mapungubwe.",
+        "Utilizează tehnologii avansate de sortare cu raze X pentru recuperarea diamantelor.",
+        "Mina are propria sa rezervație naturală privată de 32.000 de hectare.",
+        "Descoperită în 1980, producția a început oficial în 1992.",
+        "Reciclează peste 60% din apa folosită în procesele de spălare."
+      ]
+    },
+    {
+      "id": "finsch-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Mina Finsch, situată în provincia Northern Cape, este a doua cea mai mare mină de diamante din Africa de Sud și una dintre cele mai importante mine subterane de pe continent. Hornul de kimberlit de la Finsch este cunoscut pentru producerea unor diamante de o claritate excepțională și dimensiuni considerabile. Operată în prezent de Petra Diamonds, mina a făcut tranziția de la o carieră de suprafață uriașă la o operațiune subterană complexă. Finsch este un motor economic pentru comunitatea locală Lime Acres și un furnizor constant pentru piața internațională de diamante. Utilizarea tehnologiei de monitorizare seismică și a metodelor automate de transport al minereului asigură o eficiență ridicată într-un mediu geologic stabil. Geografie K7 — Geologia kimberlitului și metode de extracție subterană.",
+      "factsAdvanced": [
+        "A doua cea mai mare mină de diamante din țară după Venetia.",
+        "Descoperită în 1961, mina a funcționat inițial ca o carieră de suprafață de 500 m adâncime.",
+        "Produce diamante de înaltă calitate, inclusiv pietre rare de tip IIa.",
+        "Mina utilizează metode avansate de 'sublevel caving' pentru extracție.",
+        "Situată la aproximativ 160 km vest de Kimberley.",
+        "Contribuie semnificativ la veniturile provinciei Northern Cape.",
+        "Sistemul de ventilatie este unul dintre cele mai performante din industrie.",
+        "Durata de viață estimată a minei se întinde dincolo de anul 2030."
+      ]
+    },
+    {
+      "id": "sishen-iron-ore-mine-economic-v2",
+      "descriptionAdvanced": "Mina Sishen, situată lângă orașul Kathu în Northern Cape, este una dintre cele mai mari mine de fier de suprafață din lume. Operată de Kumba Iron Ore (parte a grupului Anglo American), mina extrage minereu de fier de o puritate excepțională, foarte căutat de oțelăriile globale din China și Europa. Dimensiunile minei sunt colosale, cariera având o lungime de peste 14 km. Sishen este coloana vertebrală a economiei provinciale și punctul de plecare al liniei ferate dedicate de 861 km care transportă minereul spre portul Saldanha. Utilizarea unor camioane de transport gigantice și a sistemelor automate de încărcare face din Sishen un lider tehnologic în mineritul de suprafață la scară largă. Geografie K7 — Extracția fierului și infrastructura logistică de mare distanță.",
+      "factsAdvanced": [
+        "Una dintre cele mai mari mine de fier de suprafață de pe glob.",
+        "Minereul de aici are un conținut de fier de peste 60%.",
+        "Produce aproximativ 30 de milioane de tone de minereu de fier anual.",
+        "Utilizează unele dintre cele mai mari camioane de tip 'haul truck' din lume (300 tone).",
+        "Cariera este atât de mare încât este vizibilă din spațiu.",
+        "Linia ferată Sishen-Saldanha este vitală pentru exportul producției sale.",
+        "Găzduiește una dintre cele mai mari stații de sortare și procesare a fierului.",
+        "Asigură mii de locuri de muncă în regiunea aridă a Northern Cape."
+      ]
+    },
+    {
+      "id": "palabora-copper-mine-economic-v2",
+      "descriptionAdvanced": "Mina Palabora, situată în provincia Limpopo, este cea mai mare mină de cupru din Africa de Sud și găzduiește cea mai adâncă gaură minieră excavată manual de pe continent. Complexul minier extrage nu doar cupru, ci și magnetit, vermiculit și nichel, fiind un centru metalurgic integrat. Palabora Mining Company operează atât o topitorie, cât și o rafinărie la fața locului, producând tije de cupru de înaltă puritate pentru piața internă și internațională. Mina este situată într-o locație unică, la marginea Parcului Național Kruger, necesitând o gestionare riguroasă a mediului. Trecerea de la mineritul de suprafață la cel subteran prin metoda 'block caving' a fost o premieră tehnică în regiune, prelungind viața minei cu succes. Geografie K7 — Metalurgia cuprului și managementul impactului ambiental.",
+      "factsAdvanced": [
+        "Cea mai mare sursă de cupru din Africa de Sud.",
+        "Cariera originală are o lățime de 2 km și o adâncime de peste 800 de metri.",
+        "Produce peste 60.000 de tone de cupru rafinat pe an.",
+        "Este singurul producător de tije de cupru din țară.",
+        "Mina produce și 80% din vermiculitul utilizat la nivel mondial.",
+        "Utilizează metoda 'block caving' pentru a extrage minereu de la 1.200 m adâncime.",
+        "Situată strategic lângă orașul Phalaborwa și Parcul Kruger.",
+        "Topitoria include sisteme avansate de captare a emisiilor de sulf."
+      ]
+    },
+    {
+      "id": "grootegeluk-coal-mine-economic-v2",
+      "descriptionAdvanced": "Mina Grootegeluk, situată în bazinul carbonifer Waterberg din provincia Limpopo, este cea mai mare mină de cărbune de suprafață din Africa de Sud. Operată de Exxaro, mina este esențială pentru securitatea energetică a țării, fiind principalul furnizor de cărbune pentru uriașele centrale electrice Matimba și Medupi. Grootegeluk utilizează un sistem complex de benzi transportoare și utilaje de excavare masive pentru a muta milioane de tone de steril și cărbune. De asemenea, mina produce cărbune metalurgic de înaltă calitate pentru export. Importanța sa va crește pe măsură ce bazinele carbonifere tradiționale din Mpumalanga se epuizează, făcând din regiunea Waterberg noul hub energetic al națiunii. Geografie K7 — Resurse de cărbune și independența energetică.",
+      "factsAdvanced": [
+        "Cea mai mare mină de cărbune de suprafață din Africa de Sud.",
+        "Furnizează peste 14 milioane de tone de cărbune anual centralei Medupi.",
+        "Deține cele mai mari instalații de spălare și procesare a cărbunelui din lume.",
+        "Mina operează 24 de ore pe zi, 365 de zile pe an.",
+        "Waterberg conține aproximativ 40% din rezervele de cărbune rămase ale țării.",
+        "Utilizează un sistem de transport al minereului prin benzi de peste 7 km lungime.",
+        "Eficiența sa este crucială pentru funcționarea rețelei electrice Eskom.",
+        "Produce și cărbune specializat pentru industria siderurgică."
+      ]
+    },
+    {
+      "id": "kusile-power-station-economic-v2",
+      "descriptionAdvanced": "Centrala electrică Kusile, situată în provincia Mpumalanga, este una dintre cele mai mari centrale termoelectrice pe cărbune din lume și cea mai modernă din portofoliul Eskom. Proiectată pentru a genera 4.800 MW, Kusile este prima centrală din Africa de Sud care utilizează tehnologia de desulfurare a gazelor de ardere (FGD) pentru a reduce emisiile poluante. Centrala este un gigant tehnologic, folosind cazane supercritice pentru o eficiență sporită. Construcția sa a fost unul dintre cele mai mari proiecte de infrastructură din istoria țării, având ca scop rezolvarea deficitului energetic național. Kusile reprezintă vârful tehnologiei bazate pe cărbune, încercând să echilibreze nevoia masivă de electricitate cu standardele moderne de protecție a aerului. Geografie K7 — Producția de energie și tehnologii de reducere a poluării.",
+      "factsAdvanced": [
+        "A patra cea mai mare centrală pe cărbune din lume la finalizare.",
+        "Capacitate totală instalată de 4.800 Megawați (6 unități de 800 MW).",
+        "Prima centrală din Africa care utilizează sisteme avansate de spălare a gazelor (FGD).",
+        "Utilizează tehnologia de răcire uscată pentru a economisi resurse prețioase de apă.",
+        "Construcția a implicat mii de tone de oțel și kilometri de cabluri electrice.",
+        "Alimentată cu cărbune prin benzi transportoare direct de la minele din apropiere.",
+        "Fiecare cazan are înălțimea unei clădiri de 30 de etaje.",
+        "Piesă centrală a strategiei energetice a Africii de Sud pentru secolul XXI."
+      ]
+    },
+    {
+      "id": "medupi-power-station-economic-v2",
+      "descriptionAdvanced": "Centrala electrică Medupi, situată în Lephalale, provincia Limpopo, este o componentă vitală a infrastructurii energetice a Africii de Sud. Fiind cea mai mare centrală pe cărbune cu răcire uscată de pe glob, Medupi a fost construită pentru a profita de vastele rezerve de cărbune din bazinul Waterberg. Cu o capacitate de 4.764 MW, centrala utilizează tehnologie supercritică pentru a opera la temperaturi și presiuni ridicate, obținând o eficiență mai mare și emisii de CO2 mai scăzute per unitate de energie produsă față de centralele vechi. Medupi este un simbol al eforturilor de industrializare a nordului țării, fiind esențială pentru susținerea rețelei electrice naționale și a marilor operațiuni miniere din regiune. Geografie K7 — Sisteme energetice și managementul apei în zone aride.",
+      "factsAdvanced": [
+        "Cea mai mare centrală termică cu răcire uscată din lume.",
+        "Capacitate totală de 4.764 MW, generată de 6 unități masive.",
+        "Situată strategic lângă mina Grootegeluk în bazinul Waterberg.",
+        "Numele Medupi înseamnă 'ploaie ușoară' în limba Sepedi.",
+        "Sistemul de răcire uscată economisește milioane de litri de apă zilnic.",
+        "Tehnologia supercritică permite o ardere mai eficientă a cărbunelui.",
+        "Turnurile de răcire și coșurile de fum sunt repere vizibile de la mare distanță.",
+        "Investiția masivă a stimulat dezvoltarea rapidă a orașului Lephalale."
+      ]
+    },
+    {
+      "id": "kendal-power-station-economic-v2",
+      "descriptionAdvanced": "Centrala electrică Kendal, situată în provincia Mpumalanga, a deținut mult timp recordul pentru cea mai mare centrală termică cu răcire uscată din lume înainte de construcția Medupi. Kendal este un pilon istoric al rețelei Eskom, fiind proiectată să funcționeze într-o zonă unde resursele de apă sunt limitate. Centrala utilizează un sistem de răcire indirectă în circuit închis, care reduce consumul de apă cu peste 90% față de sistemele tradiționale. Kendal este alimentată de mina de cărbune Khutala prin benzi transportoare, formând un complex minier-energetic integrat. Eficiența sa operațională și capacitatea de a genera energie constantă au făcut din Kendal una dintre cele mai fiabile și importante unități de producție din Africa de Sud. Geografie K7 — Ingineria energetică și conservarea resurselor de apă.",
+      "factsAdvanced": [
+        "A fost cea mai mare centrală cu răcire uscată din lume la momentul inaugurării în 1993.",
+        "Capacitate instalată de 4.116 Megawați.",
+        "Fiecare dintre cele 6 unități produce 686 MW de electricitate.",
+        "Sistemul de răcire uscată este vital în regiunea Highveld, săracă în apă.",
+        "Consumă aproximativ 1,4 milioane de tone de cărbune pe lună.",
+        "Conectată prin benzi transportoare direct la mina de cărbune Khutala.",
+        "Coșurile de fum ating înălțimi spectaculoase pentru dispersia emisiilor.",
+        "Reprezintă o realizare majoră a ingineriei sud-africane din anii '80."
+      ]
+    },
+    {
+      "id": "sasol-secunda-economic-v2",
+      "descriptionAdvanced": "Complexul Sasol Secunda este cea mai mare unitate de producție a combustibililor sintetici din lume, reprezentând inima tehnologică a procesului de transformare a cărbunelui în lichid (CTL). Situat în Mpumalanga, complexul utilizează tehnologia brevetată Sasol Fischer-Tropsch pentru a produce benzină, motorină și o gamă largă de produse chimice din cărbunele extras din minele adiacente. Secunda este un gigant industrial care asigură o parte semnificativă din necesarul de combustibil al Africii de Sud, jucând un rol strategic în securitatea energetică națională. Rafinăria este vizibilă de la zeci de kilometri datorită coloanelor sale de fracționare imense, fiind un simbol al inovației chimice care a permis țării să utilizeze resursele sale vaste de cărbune în lipsa rezervelor majore de petrol. Geografie K7 — Industria petrochimică și combustibili sintetici.",
+      "factsAdvanced": [
+        "Cea mai mare fabrică de obținere a petrolului din cărbune de pe glob.",
+        "Produce peste 150.000 de barili de combustibil sintetic pe zi.",
+        "Utilizează procesul avansat Fischer-Tropsch pentru sinteza hidrocarburilor.",
+        "Găzduiește cele mai mari fabrici de oxigen din lume.",
+        "Include o unitate masivă de producție a îngrășămintelor și polimerilor.",
+        "Alimentată de minele de cărbune subterane ale Sasol (cele mai mari din lume).",
+        "Pilon central al economiei sud-africane, contribuind masiv la PIB.",
+        "Angajează peste 20.000 de persoane direct și indirect."
+      ]
+    },
+    {
+      "id": "sasol-sasolburg-economic-v2",
+      "descriptionAdvanced": "Unitatea Sasol din Sasolburg este locul unde a început istoria producției de combustibili sintetici în Africa de Sud în 1950. Deși inițial concentrată pe lichefierea cărbunelui, uzina s-a transformat astăzi într-un hub chimic modern care utilizează gazul natural importat din Mozambic ca materie primă principală (GTL - Gas-to-Liquids). Sasolburg este centrul diviziei de produse chimice de specialitate, producând ceară, solvenți, îngrășăminte și polimeri exportați în întreaga lume. Această unitate reprezintă capacitatea industriei sud-africane de a se adapta și evolua tehnologic, trecând de la cărbune la gaz pentru a îmbunătăți eficiența și a reduce amprenta de mediu, rămânând un motor economic vital pentru regiunea Vaal Triangle. Geografie K7 — Evoluția materiilor prime industriale și chimie fină.",
+      "factsAdvanced": [
+        "Locul de naștere al companiei Sasol în anul 1950.",
+        "A trecut de la procesarea cărbunelui la cea a gazului natural (GTL).",
+        "Cel mai mare producător mondial de ceară sintetică de înaltă calitate.",
+        "Gazul natural este transportat printr-o conductă de 865 km din Mozambic.",
+        "Include unitatea Sasol One, un sit istoric al ingineriei chimice.",
+        "Produce materii prime esențiale pentru industria plasticului și cosmetică.",
+        "Unitatea este integrată în ecosistemul industrial al Triunghiului Vaal.",
+        "Centru major de cercetare și dezvoltare pentru noi procese catalitice."
+      ]
+    },
+    {
+      "id": "bmw-rosslyn-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica BMW din Rosslyn, situată lângă Pretoria, este prima unitate de producție a grupului BMW stabilită în afara Germaniei, fiind un simbol al calității industriale sud-africane. Inaugurată în 1973, fabrica a evoluat într-o unitate de clasă mondială, producând peste un milion de unități ale Seriei 3 pentru piața globală. Astăzi, fabrica Rosslyn este specializată în producția modelului BMW X3, exportând peste 90% din producția sa către Europa, Asia și America. Rosslyn este recunoscută pentru implementarea tehnologiilor de 'Industrie 4.0' și pentru utilizarea energiei regenerabile din biogaz, demonstrând că industria auto din Africa de Sud poate fi competitivă, sustenabilă și integrată perfect în lanțul de valoare global al unei mărci premium. Geografie K7 — Producția industrială globalizată și exportul de bunuri de lux.",
+      "factsAdvanced": [
+        "Prima fabrică BMW construită în afara Germaniei (1973).",
+        "Produce modelele BMW X3 pentru export pe piețele internaționale.",
+        "A produs peste 1,6 milioane de vehicule de la înființare.",
+        "Utilizează energie verde generată de o centrală de biogaz din apropiere.",
+        "Peste 95% din mașinile produse la Rosslyn sunt destinate exportului.",
+        "Un angajator major în regiunea Pretoria, cu peste 2.500 de salariați direcți.",
+        "Deține recorduri interne BMW pentru eficiența proceselor de vopsire.",
+        "Inima parcului industrial Rosslyn, un hub auto de prim rang."
+      ]
+    },
+    {
+      "id": "vw-kariega-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica Volkswagen din Kariega (Uitenhage) este cea mai mare fabrică de automobile de pe continentul african și o piatră de temelie a sectorului manufacturier din Africa de Sud. Operând din 1948, fabrica a produs modele legendare precum Beetle și Golf, iar astăzi este singura fabrică din lume care produce modelul Polo pentru toate piețele cu volan pe dreapta, precum și pentru export în Europa. Unitatea este un oraș în sine, cu linii de asamblare robotizate, o unitate proprie de producție a motoarelor și un centru logistic masiv. VW Kariega este motorul economic al provinciei Eastern Cape, susținând sute de furnizori locali și demonstrând excelența ingineriei auto sud-africane pe scena mondială. Geografie K7 — Centre de asamblare auto și lanțuri de furnizori regionali.",
+      "factsAdvanced": [
+        "Cea mai mare fabrică de automobile din Africa.",
+        "Singura producătoare mondială de modele Polo pentru anumite piețe globale.",
+        "A produs peste 4 milioane de vehicule de la inaugurarea în 1948.",
+        "Include o fabrică de motoare de ultimă generație exportate în toată lumea.",
+        "Capacitate de producție de peste 160.000 de mașini pe an.",
+        "Unul dintre cei mai mari angajatori privați din provincia Eastern Cape.",
+        "Utilizează peste 400 de roboți în procesele de sudură și asamblare.",
+        "Exportă vehicule prin porturile Gqeberha și Ngqura."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "roessing-uranmine-economic-v2",
+      "descriptionAdvanced": "The Rössing Uranium Mine, situated in the Namib Desert near Arandis, is one of the oldest and largest open-pit uranium mines in the world. Discovered in 1928, commercial operations began in 1976. The mine is a massive contributor to the Namibian economy, historically accounting for a significant portion of the nation's exports. Due to its immense size, the open pit is visible from space. Over the decades, it has produced hundreds of thousands of tonnes of uranium oxide, cementing Namibia as a leading global supplier of nuclear fuel. Earth Science K6 — uranium extraction.",
+      "factsAdvanced": [
+        "One of the largest open-pit uranium mines globally.",
+        "Located in the Namib Desert near the town of Arandis.",
+        "The initial uranium deposit was discovered in 1928.",
+        "Commercial mining operations commenced in 1976.",
+        "Produced over 130,000 tonnes of uranium oxide by 2018.",
+        "The massive open pit is large enough to be seen from space."
+      ]
+    },
+    {
+      "id": "husab-uranmine-economic-v2",
+      "descriptionAdvanced": "The Husab Uranium Mine is a colossal mining operation located in the Erongo Region, just south of the Rössing mine. Developed with an investment exceeding $2 billion by the China General Nuclear Power Group, it represents one of the largest single foreign direct investments in African history. Production began in 2016, and the mine quickly ramped up to become the third-largest uranium mine in the world by output. The site boasts state-of-the-art processing facilities designed to operate efficiently within the water-scarce environment of the Namib Desert. Earth Science K6 — modern mining investments.",
+      "factsAdvanced": [
+        "Located in the Erongo Region, south of Rössing.",
+        "Developed with a massive $2 billion foreign investment.",
+        "Represents one of the largest investments in African history.",
+        "Commercial production officially commenced in 2016.",
+        "Currently ranks as the third-largest uranium mine globally.",
+        "Operated primarily by China General Nuclear Power Group."
+      ]
+    },
+    {
+      "id": "langer-heinrich-mine-economic-v2",
+      "descriptionAdvanced": "The Langer Heinrich Mine is a significant uranium operation situated at the foot of the Langer Heinrich mountain in the Erongo Region. The deposit was discovered in 1973, but commercial production only started in 2006. The mine utilizes a unique surficial calcrete uranium deposit, which requires different processing techniques compared to the hard-rock mining at Rössing. Though operations were placed on care and maintenance in 2018 due to low global uranium prices, rising demand for nuclear energy has prompted plans to restart full-scale production. Earth Science K6 — calcrete uranium deposits.",
+      "factsAdvanced": [
+        "Located at the foot of the Langer Heinrich mountain.",
+        "The uranium deposit was discovered in 1973.",
+        "Commercial production commenced in 2006.",
+        "Extracts uranium from a unique surficial calcrete deposit.",
+        "Placed on care and maintenance in 2018 due to low prices.",
+        "Operated primarily by the Australian company Paladin Energy."
+      ]
+    },
+    {
+      "id": "trekkopje-uranmine-economic-v2",
+      "descriptionAdvanced": "The Trekkopje Uranium Mine, located in the Erongo Region roughly 70 kilometers from Swakopmund, is one of the largest shallow uranium deposits in the world. Developed by the French company Orano (formerly Areva), the project required the construction of a massive desalination plant near Wlotzkasbaken to supply the immense amount of water needed for the heap-leaching process. Despite enormous investment, the mine was placed on care and maintenance in 2012 before reaching full production, due to the global crash in uranium prices following the Fukushima disaster. Earth Science K6 — market impacts on mining.",
+      "factsAdvanced": [
+        "Located roughly 70 kilometers northeast of Swakopmund.",
+        "One of the largest shallow uranium deposits globally.",
+        "Developed primarily by the French nuclear company Orano.",
+        "Required the construction of a massive coastal desalination plant.",
+        "Placed on care and maintenance in 2012 due to low prices.",
+        "Utilizes a water-intensive heap-leaching extraction process."
+      ]
+    },
+    {
+      "id": "ohorongo-zementwerk-economic-v2",
+      "descriptionAdvanced": "The Ohorongo Cement Plant, located near the town of Otavi, is Namibia's first and largest commercial cement factory. Opened in 2011 following an investment of N$ 2.5 billion, it is recognized as one of the most modern and environmentally friendly cement plants in Africa. The facility utilizes alternative energy sources, including locally harvested encroacher bush (wood chips), to fire its kilns, significantly reducing its carbon footprint. Capable of producing over a million tonnes of high-quality cement annually, it plays a vital role in national infrastructure development. Earth Science K6 — industrial manufacturing.",
+      "factsAdvanced": [
+        "Located on the farm Sargberg near the town of Otavi.",
+        "Namibia's first and largest commercial cement factory.",
+        "Officially opened in 2011 with a N$ 2.5 billion investment.",
+        "Capable of producing over 1 million tonnes of cement annually.",
+        "Utilizes local encroacher bush as an alternative kiln fuel.",
+        "Recognized as one of Africa's most modern cement plants."
+      ]
+    },
+    {
+      "id": "skorpion-zinkmine-economic-v2",
+      "descriptionAdvanced": "The Skorpion Zinc Mine is located near the town of Rosh Pinah in the //Kharas Region. Operational since 2003, it is unique globally because it mines and processes a complex oxide zinc deposit directly on site, yielding ultra-pure Special High Grade (SHG) zinc. The facility includes an integrated refinery that utilizes a specialized solvent extraction and electrowinning process. While the open pit has reached the end of its life, the refinery is being converted to process sulfide ores from other regional mines. Earth Science K6 — zinc extraction and refining.",
+      "factsAdvanced": [
+        "Located near Rosh Pinah in the southern //Kharas Region.",
+        "Commenced commercial zinc production in 2003.",
+        "Mines a highly unique complex oxide zinc deposit.",
+        "Produces ultra-pure Special High Grade (SHG) zinc.",
+        "Features a fully integrated on-site zinc refinery.",
+        "Currently transitioning to process alternative sulfide ores."
+      ]
+    },
+    {
+      "id": "rosh-pinah-zinkmine-economic-v2",
+      "descriptionAdvanced": "The Rosh Pinah Zinc Mine, located in the deep south of the //Kharas Region, is an underground mining operation that has been active since 1969. It primarily produces zinc and lead concentrates, which are exported via the Port of Lüderitz. The mine has been the economic backbone of the Rosh Pinah settlement for decades. Operating deep beneath the harsh desert surface, the mine utilizes mechanized trackless mining methods and continues to expand through the 'RP2.0' project, which aims to significantly increase milling capacity and extend the mine's lifespan. Earth Science K6 — underground mining.",
+      "factsAdvanced": [
+        "Underground mine located in the //Kharas Region.",
+        "Has been continuously active since 1969.",
+        "Primarily produces high-quality zinc and lead concentrates.",
+        "Products are exported globally via the Port of Lüderitz.",
+        "Utilizes highly mechanized trackless underground mining methods.",
+        "Currently undergoing the RP2.0 expansion to increase output."
+      ]
+    },
+    {
+      "id": "navachab-goldmine-economic-v2",
+      "descriptionAdvanced": "The Navachab Gold Mine is located near Karibib in the Erongo Region and stands as Namibia's oldest continuously operating gold mine. Discovered in 1984, the open-pit mine produced its first gold bullion in 1989. The deposit is situated within the complex geological structures of the Damara Belt, requiring sophisticated extraction and milling techniques. Over the decades, Navachab has produced millions of ounces of gold, serving as a critical employer for the town of Karibib and a major contributor to the national treasury. Earth Science K6 — gold extraction.",
+      "factsAdvanced": [
+        "Located roughly 10 kilometers southwest of Karibib.",
+        "Namibia's oldest continuously operating gold mine.",
+        "The gold deposit was discovered in 1984.",
+        "Poured its first official gold bullion in 1989.",
+        "Situated within the geologically complex Damara Belt.",
+        "Operates as a massive conventional open-pit mine."
+      ]
+    },
+    {
+      "id": "otjikoto-goldmine-economic-v2",
+      "descriptionAdvanced": "The Otjikoto Gold Mine is a highly productive open-pit gold mine located in the Oshikoto Region, between the towns of Otjiwarongo and Otavi. Developed by B2Gold Corp, it poured its first gold in December 2014, achieving commercial production rapidly. The mine is notable for its innovative hybrid solar-heavy fuel oil (HFO) power plant, which drastically reduces its carbon emissions and operating costs. The mine has consistently produced over 150,000 ounces of gold annually, establishing itself as a modern benchmark for efficient and responsible mining in Namibia. Earth Science K6 — modern gold mining.",
+      "factsAdvanced": [
+        "Located in the Oshikoto Region between Otjiwarongo and Otavi.",
+        "Poured its first official gold bullion in December 2014.",
+        "Developed and operated by the Canadian company B2Gold.",
+        "Features a massive 7-megawatt hybrid solar power plant.",
+        "Consistently produces over 150,000 ounces of gold annually.",
+        "Recognized for highly efficient and sustainable operations."
+      ]
+    },
+    {
+      "id": "tschudi-kupfermine-economic-v2",
+      "descriptionAdvanced": "The Tschudi Copper Mine, located near Tsumeb in the Oshikoto Region, is an open-pit copper operation renowned for producing pure refined copper cathodes directly on site. Unlike older mines in the area that produced concentrates requiring smelting, Tschudi employs an innovative heap leach, solvent extraction, and electrowinning (SX-EW) process. Commencing operations in 2015, it takes advantage of oxidized copper ore near the surface. The operation represents a modernized approach to extracting value from the historic, mineral-rich 'Otavi Triangle'. Earth Science K6 — copper processing.",
+      "factsAdvanced": [
+        "Located near Tsumeb in the mineral-rich Oshikoto Region.",
+        "Commenced full commercial operations in 2015.",
+        "Produces pure, refined copper cathodes directly on site.",
+        "Utilizes modern solvent extraction and electrowinning (SX-EW).",
+        "Avoids the need for traditional, highly polluting smelting.",
+        "Operates as a conventional open-pit mining operation."
+      ]
+    },
+    {
+      "id": "matchless-kupfermine-economic-v2",
+      "descriptionAdvanced": "The Matchless Copper Mine is a historic underground mine located just outside Windhoek in the Khomas Hochland. Its history dates back to the 1850s when early prospectors discovered surface copper deposits, making it one of the oldest mining sites in Namibia. It operated intermittently over the decades, most notably supplying copper ore to the Tsumeb smelter in the 1970s and 1980s. Alongside the nearby Otjihase mine, it represents the heart of the Khomas copper belt, though production frequently fluctuates based on global copper prices. Earth Science K6 — historic copper belts.",
+      "factsAdvanced": [
+        "Located west of Windhoek in the Khomas Hochland.",
+        "One of the oldest known copper mining sites in Namibia.",
+        "Initial surface discoveries date back to the 1850s.",
+        "Operates as a specialized underground copper mine.",
+        "Historically supplied copper ore to the massive Tsumeb smelter.",
+        "Forms a critical part of the central Khomas copper belt."
+      ]
+    },
+    {
+      "id": "otjihase-kupfermine-economic-v2",
+      "descriptionAdvanced": "The Otjihase Copper Mine is an underground mine located roughly 18 kilometers northeast of Windhoek. Discovered in 1970, it began production in 1976. The mine extracts copper from a massive massive sulfide deposit deep within the Khomas trough. The extracted ore is typically processed on-site into a copper concentrate, which also contains valuable by-products like gold and silver. Like the Matchless mine, Otjihase's operations have seen multiple closures and reopenings, heavily dictated by the volatility of international base metal markets. Earth Science K6 — sulfide ore mining.",
+      "factsAdvanced": [
+        "Located roughly 18 kilometers northeast of Windhoek.",
+        "The significant sulfide deposit was discovered in 1970.",
+        "Commercial underground production began in 1976.",
+        "Produces a copper concentrate containing gold and silver.",
+        "Operations have frequently paused due to volatile copper prices.",
+        "Historically the largest copper producer in the Khomas region."
+      ]
+    },
+    {
+      "id": "namdeb-oranjemund-economic-v2",
+      "descriptionAdvanced": "Namdeb Diamond Corporation, headquartered in Oranjemund, oversees one of the world's most spectacular alluvial diamond mining operations. Formed as a joint venture between the Namibian government and De Beers, the company extracts ultra-high-quality gem diamonds that were washed down the Orange River millions of years ago. The operations span vast stretches of the treacherous Atlantic coastline, requiring massive sea-walls to push back the ocean and expose the bedrock where the heavy diamonds settled. This operation remains a cornerstone of the national economy. Earth Science K6 — alluvial diamonds.",
+      "factsAdvanced": [
+        "Headquartered in the historically restricted town of Oranjemund.",
+        "A 50/50 joint venture between Namibia and De Beers.",
+        "Extracts diamonds washed down the Orange River over millions of years.",
+        "Builds massive sea-walls to hold back the Atlantic Ocean.",
+        "Produces almost entirely high-value, gem-quality diamonds.",
+        "Remains one of the largest contributors to Namibia's GDP."
+      ]
+    },
+    {
+      "id": "elizabeth-bay-mine-economic-v2",
+      "descriptionAdvanced": "The Elizabeth Bay Mine is a historic diamond mining site located 25 kilometers south of Lüderitz. First operational between 1926 and 1935, the original German settlement was abandoned and became a famous ghost town slowly swallowed by the desert sands. In 1991, modern technology allowed Namdeb to successfully reopen the mine, processing millions of tonnes of wind-blown sand and coastal gravels to extract fine diamonds. The mine was recently sold to a local consortium, highlighting the ongoing viability of specialized alluvial mining. Earth Science K6 — historic diamond towns.",
+      "factsAdvanced": [
+        "Located 25 kilometers south of the port of Lüderitz.",
+        "Originally operated by German miners between 1926 and 1935.",
+        "The original settlement is a well-known desert ghost town.",
+        "Successfully reopened by Namdeb in 1991 using new technology.",
+        "Extracts fine diamonds from wind-blown desert sands.",
+        "Recently acquired by a wholly Namibian-owned mining consortium."
+      ]
+    },
+    {
+      "id": "bogenfels-diamantenmine-economic-v2",
+      "descriptionAdvanced": "The Bogenfels Diamond Mine is an extremely remote coastal mining area located near the famous Bogenfels rock arch in the Sperrgebiet. Discovered during the early 1900s diamond rush, the area saw rapid, intense mining activity before being largely abandoned as richer deposits were found further south. Today, mining in this area is highly specialized, often employing high-tech marine vessels and coastal crawlers to suction diamond-bearing gravels from the treacherous surf zone. It represents the extreme lengths required to extract Namibia's coastal wealth. Earth Science K6 — marine diamond mining.",
+      "factsAdvanced": [
+        "Located near the 55-meter-high Bogenfels coastal rock arch.",
+        "Situated within the highly restricted Sperrgebiet national park.",
+        "First mined extensively during the early 1900s diamond rush.",
+        "Modern operations focus heavily on near-shore marine extraction.",
+        "Uses specialized crawler vehicles in the treacherous surf zone.",
+        "An extremely remote and ecologically sensitive mining environment."
+      ]
+    },
+    {
+      "id": "salzgewinnung-swakopmund-economic-v2",
+      "descriptionAdvanced": "The Swakopmund Salt Works, situated just north of the city, is a major solar evaporation facility producing high-quality salt for the chemical industry and human consumption. Established in 1936, the vast, shallow evaporation pans rely on the cold Atlantic water and the intense desert sun. The pans are famous for their vibrant pink and red hues, caused by extreme halophile bacteria and algae thriving in the hyper-saline water. Furthermore, the massive pans serve as an artificial wetland, providing a critical sanctuary for thousands of migratory birds. Earth Science K6 — solar evaporation and ecology.",
+      "factsAdvanced": [
+        "Located just north of the coastal city of Swakopmund.",
+        "Established as a commercial solar evaporation facility in 1936.",
+        "Relies on Atlantic seawater and intense Namib Desert sun.",
+        "Evaporation pans feature striking, vibrant pink and red colors.",
+        "Produces high-quality salt for industry and consumption.",
+        "Acts as a vital artificial wetland for migratory bird species."
+      ]
+    },
+    {
+      "id": "walvis-bay-salzgewinnung-economic-v2",
+      "descriptionAdvanced": "The Walvis Bay Salt Holdings facility is one of the largest solar evaporation salt works in sub-Saharan Africa, covering over 5,000 hectares of the Kuiseb delta. It produces roughly one million tonnes of industrial and fine salt annually, exporting bulk shipments globally via the nearby port. The incredibly efficient operation pumps seawater into vast concentration ponds where the harsh desert sun evaporates the water over an 18-month cycle. The massive, crystal-white salt mountains surrounding the facility are a prominent feature of the local landscape. Earth Science K6 — industrial salt production.",
+      "factsAdvanced": [
+        "One of the largest solar salt works in sub-Saharan Africa.",
+        "Covers over 5,000 hectares of the Kuiseb River delta.",
+        "Produces approximately one million tonnes of salt annually.",
+        "The complete solar evaporation cycle takes about 18 months.",
+        "Exports bulk industrial salt globally via the Port of Walvis Bay.",
+        "Characterized by massive, highly visible salt mountains."
+      ]
+    },
+    {
+      "id": "namwater-hauptsitz-economic-v2",
+      "descriptionAdvanced": "The NamWater Headquarters in Windhoek acts as the nerve center for the Namibia Water Corporation, the state-owned enterprise responsible for bulk water supply across the driest country in sub-Saharan Africa. NamWater manages an incredibly complex network of dams, pipelines, canals, and massive desalination plants to ensure water reaches remote towns and critical mining operations. The headquarters coordinates the vital 'Eastern National Water Carrier' and monitors the delicate levels of the country's main reservoirs, balancing industrial demands with human survival. Geography K7 — national water infrastructure.",
+      "factsAdvanced": [
+        "Headquarters located in the capital city of Windhoek.",
+        "Nerve center for the state-owned Namibia Water Corporation.",
+        "Manages bulk water supply for the driest country in sub-Saharan Africa.",
+        "Oversees a complex national network of dams and pipelines.",
+        "Coordinates the massive Eastern National Water Carrier system.",
+        "Balances critical water demands for mining, agriculture, and cities."
+      ]
+    },
+    {
+      "id": "van-eck-kraftwerk-economic-v2",
+      "descriptionAdvanced": "The Van Eck Power Station, located in the northern industrial area of Windhoek, is a 120-megawatt coal-fired power plant commissioned in 1972. It is notable for utilizing a dry-cooling system, a technological necessity given the severe water scarcity in the capital. While Namibia imports much of its electricity, Van Eck serves as a crucial standby facility, firing up to stabilize the national grid during regional power shortages or peak winter demand. It remains the only coal-fired power station operating within the country. Earth Science K6 — power generation.",
+      "factsAdvanced": [
+        "Located in the northern industrial zone of Windhoek.",
+        "A 120-megawatt coal-fired thermal power station.",
+        "Officially commissioned by NamPower in 1972.",
+        "Utilizes a specialized dry-cooling system to save water.",
+        "Functions primarily as a standby facility for grid stability.",
+        "The only operating coal-fired power station in Namibia."
+      ]
+    },
+    {
+      "id": "ruacana-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "The Ruacana Hydroelectric Power Station is the cornerstone of Namibia's domestic electricity generation, located deep underground near the spectacular Ruacana Falls on the Kunene River. Commissioned in 1978, the massive facility houses four 85-megawatt turbine generators. The power station relies entirely on the seasonal flow of the Kunene River, generating maximum output during the rainy season to drastically reduce the nation's reliance on imported power from South Africa. It represents an incredible feat of engineering in an extremely remote location. Earth Science K6 — hydroelectric engineering.",
+      "factsAdvanced": [
+        "Located on the Kunene River near the Angolan border.",
+        "Built deep underground near the Ruacana Falls.",
+        "Officially commissioned in 1978.",
+        "Houses four powerful 85-megawatt turbine generators.",
+        "Provides the majority of Namibia's domestically generated electricity.",
+        "Output is highly dependent on seasonal river flow."
+      ]
+    }
+  ]
+}

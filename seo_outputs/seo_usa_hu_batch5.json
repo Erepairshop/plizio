@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "frankfort-cities-v2",
+      "descriptionAdvanced": "Frankfort Kentucky állam fővárosa, amely a Kentucky folyó partján, a Bluegrass régió szívében fekszik. A várost 1786-ban alapították, és híres békés, dombos környezetéről és történelmi épületeiről. Frankfort leglátványosabb épülete az állami Capitolium, amelyet a 20. század elején építettek klasszicista stílusban, és dómja a washingtoni mintájára készült. A város világszerte ismert a bourbon whisky gyártásáról, itt található a történelmi Buffalo Trace lepárló, az ország egyik legrégebbi folyamatosan működő szeszfőzdéje. Frankfort büszke kulturális örökségére, itt nyugszik a legendás pionír, Daniel Boone is. Történelem K6 — az első telepesek és a nyugati terjeszkedés a 18. században.",
+      "factsAdvanced": [
+        "Kentucky állam fővárosa 1792 óta",
+        "Itt található a Buffalo Trace, az USA egyik legrégebbi bourbon lepárlója",
+        "Daniel Boone, a híres felfedező a frankforti temetőben nyugszik",
+        "A Kentucky-folyó szeli ketté a várost",
+        "Az Old State Capitol gótikus stílusú épülete ma múzeum",
+        "A várost Stephen Frank pionírról nevezték el",
+        "Itt található a Liberty Hall, egy 18. századi gyarmati kúria"
+      ]
+    },
+    {
+      "id": "lansing-cities-v2",
+      "descriptionAdvanced": "Lansing Michigan állam fővárosa, amely az állam középső részén, a Grand folyó és a Red Cedar folyó összefolyásánál fekszik. A várost 1847-ben választották meg fővárosnak, felváltva Detroitot, hogy egy biztonságosabb, központi helyen legyen az államigazgatás. Lansing az amerikai autóipar egyik szülőhelye is, hiszen itt alapította meg Ransom E. Olds az Oldsmobile vállalatot 1897-ben. Ma a város az állami adminisztráció, az oktatás és a technológia központja. Itt található a Michigan State University (MSU) hatalmas kampusza, valamint a lenyűgöző neoklasszicista Capitolium épülete. A folyóparti sétányok és a Potter Park Állatkert kedvelt kikapcsolódási helyek a lakók és a turisták számára. Történelem K8 — az autóipar hajnala és a nagyvállalatok kialakulása.",
+      "factsAdvanced": [
+        "Michigan állam fővárosa 1847 óta",
+        "Itt alapították az Oldsmobile autógyárat 1897-ben",
+        "A Michigan State University (MSU) a város közvetlen szomszédságában, East Lansingben van",
+        "A Capitolium dómja 81 méter magas és öntöttvasból készült",
+        "Itt található a R.E. Olds Transportation Museum",
+        "A Grand-folyó keresztülfolyik a város központján",
+        "Lansing az egyetlen amerikai állami főváros, amely nem megyeszékhely"
+      ]
+    },
+    {
+      "id": "madison-wi-cities-v2",
+      "descriptionAdvanced": "Madison Wisconsin állam fővárosa, amely egy egyedülálló földrajzi környezetben, két tó (Mendota és Monona) közötti földnyelven fekszik. A várost 1836-ban alapították, és James Madisonról, az USA negyedik elnökéről nevezték el. Madison egyszerre az állami politika és a felsőoktatás fellegvára, itt található a tekintélyes University of Wisconsin-Madison központi kampusza. A város jelképe a hófehér gránitból épült Capitolium, amelynek dómja csak néhány méterrel alacsonyabb a washingtoniénál. Madison híres liberális szelleméről, kerékpárútjairól és a vibráló kulturális életéről, amit a State Street sétálóutcája fog össze. A város rendszeresen az USA legélhetőbb városai között szerepel. Földrajz K6 — tavi tájak és tervezett városi struktúrák.",
+      "factsAdvanced": [
+        "Wisconsin állam fővárosa és a University of Wisconsin otthona",
+        "Két nagy tó, a Mendota és a Monona közötti földnyelven fekszik",
+        "A Capitolium dómja csak 1 méterrel alacsonyabb a washingtoniénál",
+        "Itt található a Frank Lloyd Wright által tervezett Monona Terrace",
+        "Madisonban található az ország egyik legnagyobb termelői piaca (Farmers' Market)",
+        "A várost James Madison elnökről nevezték el",
+        "Híres a sűrű kerékpárút-hálózatáról és zöldfelületeiről"
+      ]
+    },
+    {
+      "id": "tallahassee-cities-v2",
+      "descriptionAdvanced": "Tallahassee Florida állam fővárosa, amely az állam északi részén, dombos vidéken fekszik, távol a tengerparti üdülőhelyektől. A várost 1824-ben választották fővárosnak, mivel félúton helyezkedett el a két korábbi központ, St. Augustine és Pensacola között. Tallahassee neve az apalachee indián nyelvből származik, jelentése 'régi mezők'. A város hangulata inkább emlékeztet a klasszikus déli államokra a spanyol mohával borított tölgyfáival és történelmi kúriáival. Tallahassee fontos oktatási központ, itt található a Florida State University (FSU) és a Florida A&M University. A város büszke modern, felhőkarcoló-szerű Capitoliumára és a régi, klasszikus stílusú épületre, amely ma múzeum. Földrajz K7 — belső szárazföldi központok és politikai földrajz.",
+      "factsAdvanced": [
+        "Florida állam fővárosa 1824 óta",
+        "A neve az indián apalachee nyelvből ered, jelentése 'régi város' vagy 'régi mezők'",
+        "Itt található az FSU (Florida State University) központi kampusza",
+        "Az új Capitolium épülete egy 22 emeletes modern torony",
+        "A város dombosabb, mint Florida legtöbb más része",
+        "Itt látható a Mission San Luis, egy rekonstruált 17. századi spanyol misszió",
+        "Tallahassee közelében van a Wakulla Springs, a világ egyik legnagyobb és legmélyebb édesvízi forrása"
+      ]
+    },
+    {
+      "id": "charleston-wv-cities-v2",
+      "descriptionAdvanced": "Charleston Nyugat-Virginia állam fővárosa és legnagyobb városa, amely a Kanawha folyó partján, az Appalache-hegység lábánál fekszik. A várost 1794-ben alapították, és a 19. században vált az állami adminisztráció központjává, miután Nyugat-Virginia kivált Virginiából a polgárháború alatt. Charleston híres az impozáns állami Capitoliumáról, amelynek aranyozott dómja az egyik legszebb az országban. A város gazdasága történelmileg a szénbányászathoz, a sókitermeléshez és a vegyiparhoz kapcsolódott, ma pedig az egészségügy és az oktatás is meghatározó. A folyóparti parkok (Magic Island) és a pezsgő kulturális élet, mint a Mountain Stage rádióműsor, a város közösségi szívét alkotják. Földrajz K8 — hegyvidéki bányavárosok és állami közigazgatás.",
+      "factsAdvanced": [
+        "Nyugat-Virginia állam fővárosa 1885 óta",
+        "Az állami Capitolium dómja valódi aranylemez borítást kapott",
+        "A Kanawha-folyó mentén fekszik, ami fontos szállítási útvonal",
+        "Itt található a West Virginia State Museum az állam történetével",
+        "Charleston egykor a világ egyik legnagyobb sótermelő vidéke volt",
+        "Itt készül a híres Mountain Stage nemzetközi rádióműsor",
+        "A város közelében találhatók az Appalache-hegység legszebb túraútvonalai"
+      ]
+    },
+    {
+      "id": "salem-or-cities-v2",
+      "descriptionAdvanced": "Salem Oregon állam fővárosa, amely a Willamette-völgy szívében, a Willamette folyó partján fekszik. A várost 1842-ben alapították mormon misszionáriusok, és nevét a bibliai 'Shalom' (béke) szó után kapta. Salem híres a környező gazdag mezőgazdasági területekről, különösen a borászatról és a gyümölcstermesztésről. A város jelképe az Oregon State Capitol, egy modern, art deco stílusú épület, amelynek tetején egy aranyozott pionír szobor (Oregon Pioneer) áll, jelképezve a nyugati irányú terjeszkedést. Salem fontos oktatási központ, itt található a Willamette University, a Nyugati Part legrégebbi egyeteme. A folyóparti parkok és a történelmi negyedek békés, élhető környezetet biztosítanak a lakók számára. Földrajz K7 — mezőgazdasági völgyek és a pionírok útja.",
+      "factsAdvanced": [
+        "Oregon állam fővárosa 1859 óta",
+        "A neve a héber 'Shalom' (béke) szóból származik",
+        "A Capitolium tetején egy 7 méter magas aranyozott pionír szobor áll",
+        "Itt található a Willamette University, alapítva 1842-ben",
+        "A Willamette-völgy híres a Pinot Noir szőlőfajtájáról és borairól",
+        "A városban található a Riverfront City Park a folyó partján",
+        "Salem Oregon második legnépesebb városa Portland után"
+      ]
+    },
+    {
+      "id": "olympia-cities-v2",
+      "descriptionAdvanced": "Olympia Washington állam fővárosa, amely a Puget Sound legdélebbi öblénél, a Deschutes folyó torkolatánál fekszik. A várost 1850-ben alapították, és nevét a közeli Olimpiai-hegység lenyűgöző csúcsairól kapta. Olympia egyszerre az állami politika központja és egy vibráló művészeti, zenei város, híres az alternatív szubkultúráiról. A város legmeghatározóbb épülete a neoklasszicista stílusú állami Capitolium, amely egy dombon állva uralja a városképet. Olympia gazdag természeti látnivalókban, a közeli Percival Landing sétány és a környező erdők kiváló kikapcsolódást nyújtanak. A város gazdasága az államigazgatásra, a tengeri kereskedelemre és a környezetvédelmi kutatásokra épül. Földrajz K6 — tengeröblök és hegyvidéki panoráma.",
+      "factsAdvanced": [
+        "Washington állam fővárosa 1889 óta",
+        "A Capitolium dómja 87 méter magas, az USA egyik legnagyobb kődómja",
+        "Nevét az Olympic-hegységről kapta, amely tiszta időben jól látható",
+        "A Puget Sound legdélebbi csücskénél fekszik",
+        "Híres az alternatív zenei életéről és a 'Riot Grrrl' mozgalomról",
+        "Itt található az Evergreen State College, egy innovatív liberális művészeti egyetem",
+        "A Percival Landing egy népszerű tengerparti sétány és park"
+      ]
+    },
+    {
+      "id": "carson-city-cities-v2",
+      "descriptionAdvanced": "Carson City Nevada állam fővárosa, amely a Sierra Nevada hegység lábánál, a Tahoe-tó közvetlen közelében fekszik. A várost 1858-ban alapították, és a közeli Comstock Lode ezüstbányáinak köszönhetően vált jelentős központtá. Nevét Christopher 'Kit' Carsonról, a híres felfedezőről és katonáról kapta. Carson City megőrizte vadnyugati báját, amit a történelmi belváros téglaépületei és a neoklasszicista Capitolium hirdetnek. Egykor itt működött az amerikai pénzverde egyik ága is, amely az ezüstpénzek veréséért volt felelős. Ma a város az állami közigazgatás és a turizmus központja, kiváló kiindulópont a Sierra Nevada túraútvonalaihoz és a világhírű síparadicsomokhoz. Történelem K6 — az ezüstláz és a bányavárosok fejlődése.",
+      "factsAdvanced": [
+        "Nevada állam fővárosa 1864 óta",
+        "Kit Carsonról, a legendás felfedezőről nevezték el",
+        "Itt működött az USA pénzverdéje (Carson City Mint) 1870 és 1893 között",
+        "A Comstock Lode ezüstláz idején lett az állam központja",
+        "A Capitolium ezüsttel bevont dómja az állam bányászati múltjára utal",
+        "Mindössze 20 kilométerre fekszik a gyönyörű Tahoe-tótól",
+        "A V&T (Virginia & Truckee) történelmi vasútvonal egyik végállomása"
+      ]
+    },
+    {
+      "id": "lincoln-ne-cities-v2",
+      "descriptionAdvanced": "Lincoln Nebraska állam fővárosa, amelyet 1856-ban alapították Lancaster néven, majd Abraham Lincoln tiszteletére nevezték át 1867-ben, amikor az állam csatlakozott az Unióhoz. A város arculatának legdominánsabb eleme az 1932-ben befejezett állami Capitolium, amely egy 122 méter magas torony, tetején az 'Arató' szobrával, és az ország egyik legjelentősebb építészeti alkotása. Lincoln fontos oktatási és technológiai központ, itt található a University of Nebraska-Lincoln (UNL) központi kampusza. A város híres a pezsgő Haymarket negyedéről, ahol régi raktárépületekben galériák, éttermek és üzletek kaptak helyet. Lincoln folyamatosan az USA legélhetőbb és legegészségesebb városai között szerepel. Történelem K8 — az állami székhelyek kialakulása és az elnöki névörökség.",
+      "factsAdvanced": [
+        "Nebraska állam fővárosa 1867 óta",
+        "Abraham Lincoln elnökről nevezték el a polgárháború után",
+        "A Capitolium tornya 122 méter magas, tetején egy vető szobrával",
+        "Itt található a University of Nebraska központi kampusza",
+        "A történelmi Haymarket negyed a város kulturális és szórakoztató központja",
+        "Itt található az International Quilt Museum, a világ legnagyobb foltvarró gyűjteménye",
+        "Lincoln híres az egyetemi amerikai futball csapatáról, a Huskers-ről"
+      ]
+    },
+    {
+      "id": "jamestown-settlement-history-v2",
+      "descriptionAdvanced": "Jamestown az első állandó angol település az Észak-Amerikai kontinensen, amelyet 1607 májusában alapított a Virginia Company of London. A település a James-folyó partján épült fel, és bár a korai évek az éhínség, a betegségek és a helyi powhatan indiánokkal való konfliktusok miatt rendkívül nehezek voltak, a dohánytermesztés sikere végül biztosította a kolónia fennmaradását. Itt alakult meg 1619-ben az első választott törvényhozó testület Amerikában. Ma a terület két részből áll: a Historic Jamestowne régészeti lelőhelyből és a Jamestown Settlement élő történeti múzeumból, ahol az erőd, a hajók és az indián falu rekonstrukciói láthatók. Történelem K6 — az angol gyarmatosítás kezdete Amerikában.",
+      "factsAdvanced": [
+        "1607. május 14-én alapították az első állandó angol kolóniaként",
+        "Itt alakult meg az első amerikai parlament, a House of Burgesses 1619-ben",
+        "A település a James-folyó egyik mocsaras szigetén épült fel",
+        "Pocahontas, az indián hercegnő itt kötött házasságot John Rolfe-fal",
+        "A korai időszakot a 'Starving Time' (éhínség kora) néven ismerik",
+        "A dohány lett a kolónia első nyereséges exportterméke",
+        "Ma rekonstruált hajók (Susan Constant, Godspeed, Discovery) látogathatók"
+      ]
+    },
+    {
+      "id": "plymouth-rock-history-v2",
+      "descriptionAdvanced": "A Plymouth Rock az amerikai hagyomány szerint az a hely, ahol a Mayflower hajó utasaiként érkező zarándokok (Pilgrims) 1620-ban partra szálltak, hogy megalapítsák a Plymouth-kolóniát. Bár nincs egyértelmű történelmi bizonyíték arra, hogy valóban ezen a sziklán léptek volna először szárazföldre, a kő a vallásszabadság és az amerikai nemzet születésének egyik legfontosabb szimbólumává vált. A szikla ma a massachusettsi Plymouth tengerpartján látható, egy klasszicista stílusú kőpavilon alatt védve. Az idők folyamán a kő többször eltört és darabokat vágtak le belőle, de ma is zarándokhely a látogatók számára, akik az alapító atyák bátorságára emlékeznek. Történelem K6 — a Mayflower útja és az első telepesek hitvallása.",
+      "factsAdvanced": [
+        "A hagyomány szerint itt szálltak partra a zarándokok 1620 decemberében",
+        "A sziklán az 1620-as évszám látható bevésve",
+        "Ma egy görög dór stílusú gránit pavilon védi a tengerparton",
+        "A Mayflower 102 utasa alapította meg itt a Plymouth-kolóniát",
+        "A szikla az idők során többször eltört szállítás közben",
+        "Itt kötötték meg a híres Mayflower Compact egyezményt",
+        "A közelben található a Mayflower II, az eredeti hajó hű másolata"
+      ]
+    },
+    {
+      "id": "colonial-williamsburg-history-v2",
+      "descriptionAdvanced": "Colonial Williamsburg a világ legnagyobb élő történeti múzeuma, amely Virginia állam egykori gyarmati fővárosát mutatja be az 1700-as évek hangulatában. A több mint 120 hektáros területen eredeti és rekonstruált 18. századi épületek, kormányzói paloták és műhelyek találhatók. A látogatók korhű ruhákba öltözött szereplőkkel találkozhatnak, akik bemutatják a kovácsok, nyomdászok és jogászok mindennapi életét. Williamsburg kulcsszerepet játszott az amerikai forradalom előestéjén, olyan vezetők vitatkoztak itt a szabadságról, mint Thomas Jefferson és Patrick Henry. A város ma a történelemoktatás interaktív központja, ahol a látogatók közvetlenül átélhetik a gyarmati Amerika mindennapjait. Történelem K7 — a gyarmati élet és az amerikai forradalom eszméi.",
+      "factsAdvanced": [
+        "A világ legnagyobb szabadtéri élő történeti múzeuma",
+        "1699 és 1780 között Virginia gyarmat fővárosa volt",
+        "Több mint 500 épület található a történelmi negyedben",
+        "A Kormányzói Palota (Governor's Palace) a brit hatalom jelképe volt",
+        "Itt található a William & Mary College, az USA második legrégebbi egyeteme",
+        "A helyszínt John D. Rockefeller Jr. támogatásával állították helyre",
+        "A látogatók kipróbálhatják a gyarmati kori mesterségeket és ételeket"
+      ]
+    },
+    {
+      "id": "valley-forge-history-v2",
+      "descriptionAdvanced": "Valley Forge az amerikai függetlenségi háború egyik legkritikusabb és legszimbolikusabb helyszíne. 1777 és 1778 telén George Washington itt állomásozott a kontinentális hadsereggel, miközben a brit erők a közeli Philadelphiát tartották megszállva. Bár nem vívtak itt csatát, a katonák rendkívüli nélkülözéseket szenvedtek el az éhezés, a hideg és a betegségek miatt. Ez az időszak azonban a hadsereg újjászületését is jelentette: Von Steuben báró vezetésével a katonák professzionális kiképzést kaptak, és fegyelmezett erőként hagyták el a tábort tavasszal. Valley Forge ma nemzeti történelmi park, ahol a rekonstruált rönkházak és Washington főhadiszállása emlékeztet az amerikai katonák kitartására. Történelem K6 — a függetlenségi háború fordulópontjai és a katonai kiképzés.",
+      "factsAdvanced": [
+        "A kontinentális hadsereg téli táborhelye volt 1777-78-ban",
+        "Bár nem volt csata, mintegy 2000 katona halt meg betegségekben",
+        "Von Steuben báró itt vezette be a modern katonai kiképzést",
+        "George Washington itt erősítette meg parancsnoki tekintélyét",
+        "Mintegy 12 000 katona épített itt 1500 rönkházat a semmiből",
+        "Ma 3500 hektáros nemzeti történelmi parkként látogatható",
+        "Itt található az impozáns Nemzeti Emlékmű Ív (National Memorial Arch)"
+      ]
+    },
+    {
+      "id": "yorktown-battlefield-history-v2",
+      "descriptionAdvanced": "A yorktowni csatamező az amerikai függetlenségi háború végső győzelmének helyszíne. 1781 októberében itt kényszerült fegyverletételre Lord Cornwallis brit tábornok serege, miután George Washington amerikai és Rochambeau francia erői, valamint a francia flotta blokádja alá vette őket. Ez a győzelem gyakorlatilag véget vetett a harcoknak és biztosította az Egyesült Államok függetlenségét. A látogatók ma bejárhatják a sáncokat, megtekinthetik az ostromvonalakat és azt a házat (Moore House), ahol a megadási feltételeket kidolgozták. A yorktowni győzelmi emlékmű méltóságteljesen magasodik a folyó felett, hirdetve a szabadság és a nemzetközi szövetség diadalát. Történelem K7 — a függetlenségi háború lezárása és a nemzetközi segítség.",
+      "factsAdvanced": [
+        "Itt zajlott a függetlenségi háború utolsó nagy csatája 1781-ben",
+        "Lord Cornwallis brit tábornok itt adta meg magát Washingtonnak",
+        "A győzelemben kulcsszerepe volt a francia flottának és hadseregnek",
+        "A Moore-házban írták alá a megadási okmányokat",
+        "A csatamezőn ma is láthatók az eredeti és rekonstruált sáncok",
+        "A Yorktown Victory Monument a szabadság tiszteletére épült",
+        "A terület a Colonial National Historical Park része"
+      ]
+    },
+    {
+      "id": "monticello-history-v2",
+      "descriptionAdvanced": "Monticello Thomas Jeffersonnak, az Egyesült Államok harmadik elnökének és a Függetlenségi Nyilatkozat szerzőjének ikonikus otthona Virginia államban. Jefferson saját maga tervezte az épületet palladiánus stílusban, és élete nagy részét a tökéletesítésével töltötte. A ház és a környező birtok nemcsak építészeti remekmű, hanem Jefferson sokoldalú érdeklődésének — a botanikának, a technológiának és a filozófiának — a lenyomata is. Monticello ugyanakkor a rabszolgaság bonyolult és fájdalmas történetét is őrzi, hiszen a birtokot rabszolgák működtették. Ma a helyszín az UNESCO Világörökség része, ahol a látogatók megismerhetik Jefferson látnoki elméjét és a korszak társadalmi ellentmondásait is. Történelem K7 — Thomas Jefferson öröksége és a felvilágosodás Amerikában.",
+      "factsAdvanced": [
+        "Thomas Jefferson saját tervezésű háza és birtoka",
+        "Az épület neve olaszul 'kis hegyet' jelent",
+        "Az USA 2 dolláros bankjegyének hátoldalán is Monticello látható",
+        "Jefferson kertjeiben több száz növényfajtát kísérletezett ki",
+        "A birtok egykor több mint 100 rabszolgának adott otthont",
+        "Az UNESCO Világörökség része a Virginiai Egyetemmel együtt",
+        "A házban számos Jefferson által feltalált technikai eszköz látható"
+      ]
+    },
+    {
+      "id": "fort-mchenry-history-v2",
+      "descriptionAdvanced": "Fort McHenry egy csillag alakú erőd Baltimore kikötőjében, amely az 1812-es háború során vált világhírűvé. 1814 szeptemberében a brit flotta heves ágyútűz alá vette az erődöt, de az amerikai védők kitartottak, és reggelre a hatalmas amerikai zászló még mindig ott lobogott a bástyán. Ennek a látványnak a hatására írta meg Francis Scott Key a 'The Star-Spangled Banner' (A csillagos-sávos lobogó) című versét, amely később az Egyesült Államok nemzeti himnusza lett. Az erőd ma nemzeti emlékhely és történelmi park, ahol a látogatók bejárhatják a kazamatákat, láthatják az ágyúkat és megismerhetik a himnusz születésének drámai körülményeit. Történelem K6 — az 1812-es háború és a nemzeti jelképek születése.",
+      "factsAdvanced": [
+        "Az 1812-es háború híres ostromhelyszíne 1814-ben",
+        "Itt született az amerikai nemzeti himnusz szövege",
+        "Az erőd különleges ötágú csillag alakzatban épült fel",
+        "Francis Scott Key egy brit hajó fedélzetéről nézte végig az ostromot",
+        "Az erőd védői megakadályozták Baltimore elfoglalását",
+        "A 'Star-Spangled Banner' eredeti, hatalmas zászlaja ma Washingtonban van",
+        "Ma nemzeti emlékhelyként és parkként látogatható"
+      ]
+    },
+    {
+      "id": "pearl-harbor-history-v2",
+      "descriptionAdvanced": "Pearl Harbor a hawaii Oahu szigetén található tengerészeti bázis, amely a 20. századi történelem egyik legsorsfordítóbb eseményének helyszíne. 1941. december 7-én a Japán Császári Haditengerészet váratlan légitámadást intézett az amerikai csendes-óceáni flotta ellen, ami az Egyesült Államok belépését okozta a második világháborúba. A támadás során több hajó elsüllyedt, köztük a USS Arizona, amelynek roncsa felett ma egy méltóságteljes fehér emlékmű áll. A látogatók megtekinthetik a USS Missouri csatahajót is, amelynek fedélzetén írták alá a háborút lezáró megadási nyilatkozatot. Pearl Harbor ma a hősök előtti tisztelgés és a béke fontosságának nemzeti emlékhelye. Történelem K8 — a második világháború és az USA globális szerepvállalása.",
+      "factsAdvanced": [
+        "A váratlan japán támadás 1941. december 7-én érte a bázist",
+        "A USS Arizona Memorial az elsüllyedt csatahajó roncsa felett áll",
+        "A támadásban több mint 2400 amerikai katona vesztette életét",
+        "A USS Missouri fedélzetén ért véget hivatalosan a II. világháború",
+        "Franklin D. Roosevelt elnök a gyalázat napjaként hivatkozott rá",
+        "A roncsokból ma is szivárog az olaj, amit 'az Arizona könnyeinek' neveznek",
+        "A bázis ma is az USA Csendes-óceáni Flottájának központja"
+      ]
+    },
+    {
+      "id": "little-bighorn-battlefield-history-v2",
+      "descriptionAdvanced": "A Little Bighorn-i csatatér Montana államban található, ahol 1876 júniusában az amerikai történelem egyik leghíresebb összecsapása zajlott le. Itt győzték le az egyesült lakota, sájen és arapaho törzsek — Ülő Bika és Őrült Ló vezetésével — George A. Custer ezredes 7. lovasezredét. A csata, amelyet 'Custer utolsó bástyájaként' is emlegetnek, az indián ellenállás legnagyobb, de egyben utolsó jelentős katonai sikere volt a nyugati terjeszkedés ellen. A nemzeti emlékhely ma mindkét oldal áldozatai előtt tiszteleg: a fehéren világító sírkövek mellett ma már az indián harcosok emlékére emelt emlékmű is hirdeti a történelem összetettségét. Történelem K6 — az indián háborúk és a préri kultúrák küzdelme.",
+      "factsAdvanced": [
+        "1876. június 25-26-án zajlott a híres összecsapás",
+        "Custer ezredes és egész egysége (több mint 200 ember) itt esett el",
+        "Ülő Bika és Őrült Ló vezette az indián győzelmet",
+        "Ez volt az amerikai hadsereg legsúlyosabb veresége az indián háborúkban",
+        "Ma nemzeti emlékhely Montana füves síkságain",
+        "Itt található az Indian Memorial, amely az őslakos áldozatokra emlékezik",
+        "A csatát 'Greasy Grass-i csata' néven is ismerik az indiánok"
+      ]
+    },
+    {
+      "id": "ellis-island-history-v2",
+      "descriptionAdvanced": "Ellis Island a remény szimbóluma és az 'amerikai álom' kapuja volt milliók számára. 1892 és 1954 között ez volt az Egyesült Államok legforgalmasabb bevállandó-ellenőrző állomása, ahol több mint 12 millió ember lépett be az országba. A New York-i kikötőben található szigeten a bevándorlóknak orvosi és jogi vizsgálatokon kellett átesniük, mielőtt engedélyt kaptak volna a letelepedésre. Ma az épületben a Bevándorlási Múzeum működik, ahol a látogatók megismerhetik az érkezők drámai történeteit, és sokan itt kereshetik fel őseik nevét a Becsületfalon. Ellis Island kulcsszerepet játszott Amerika modern etnikai arculatának kialakulásában. Történelem K8 — a nagy bevándorlási hullám és az amerikai nemzet születése.",
+      "factsAdvanced": [
+        "1892 és 1954 között több mint 12 millió bevándorló haladt át itt",
+        "Beceneve az 'Aranykapu' vagy a 'Könnyek Szigete' volt",
+        "Ma az amerikai lakosság közel 40%-ának van legalább egy őse, aki itt lépett be",
+        "Az állomáson orvosi és jogi ellenőrzést végeztek",
+        "Itt található az American Immigrant Wall of Honor (Becsületfal)",
+        "Annie Moore volt az első bevándorló, aki 1892-ben itt regisztrált",
+        "Ma nemzeti múzeumként látogatható a Szabadság-szobor közelében"
+      ]
+    },
+    {
+      "id": "fort-sumter-history-v2",
+      "descriptionAdvanced": "Fort Sumter egy szigeten épült erőd Charleston kikötőjében, amely örökre beírta magát az amerikai történelembe mint a polgárháború kiindulópontja. 1861. április 12-én itt dördültek el az első ágyúlövések, amikor a Konföderáció csapatai bombázni kezdték az Uniós erők által tartott erődöt. A 34 órás ostrom után az Uniós védők feladták a helyszínt, ami elindította a négy évig tartó véres testvérháborút. Az erőd később is fontos szerepet játszott, a háború végéig a déliek tartották az Uniós blokád ellenére. Ma Fort Sumter nemzeti emlékhely, amely csak hajóval érhető el, és ahol a látogatók megtekinthetik az eredeti falmaradványokat és ágyúkat. Történelem K7 — az amerikai polgárháború kezdete és okai.",
+      "factsAdvanced": [
+        "Itt kezdődött az amerikai polgárháború 1861 áprilisában",
+        "Az erődöt Robert Anderson őrnagy vezette az ostrom idején",
+        "34 órán át tartott az első bombázás, ami után az Uniós erők kivonultak",
+        "Az erőd nevét Thomas Sumter tábornokról kapta",
+        "Ma Charleston kikötőjéből induló hajókkal látogatható",
+        "Az erőd falai jelentősen megsérültek a háborús évek alatt",
+        "Ez volt az első alkalom, hogy amerikaiak lőttek amerikaiakra egy szisztematikus ostromban"
+      ]
+    }
+  ]
+}

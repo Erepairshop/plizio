@@ -1,0 +1,227 @@
+[
+  {
+    "id": "gemenc-arter-b2",
+    "nameEn": "Gemenc Floodplain",
+    "descEn": "Unique floodplain forest along the Danube with rich fauna."
+  },
+  {
+    "id": "debreceni-allatkert",
+    "nameEn": "Debrecen Zoo",
+    "descEn": "Hungary's first provincial zoo, located in the Great Forest."
+  },
+  {
+    "id": "nyiregyhazi-allatkert",
+    "nameEn": "Nyíregyháza Zoo",
+    "descEn": "Award-winning zoo with natural habitats and an oceanarium."
+  },
+  {
+    "id": "tropicarium-budapest",
+    "nameEn": "Tropicarium Budapest",
+    "descEn": "The 'shark zoo' in Budapest with a massive glass tunnel."
+  },
+  {
+    "id": "miskolctapolca-barlangfurdo",
+    "nameEn": "Miskolctapolca Cave Bath",
+    "descEn": "Unique thermal bath located in a natural cave system."
+  },
+  {
+    "id": "mohacsi-busojaras-poi",
+    "nameEn": "Mohács Busójárás Site",
+    "descEn": "Site of the famous winter expulsion ritual with scary masks."
+  },
+  {
+    "id": "zsolnay-negyed",
+    "nameEn": "Zsolnay Cultural Quarter",
+    "descEn": "Beautifully restored factory area with world-famous ceramics."
+  },
+  {
+    "id": "szegedi-dom",
+    "nameEn": "Votive Church of Szeged",
+    "descEn": "Monumental Neo-Romanesque cathedral on Szeged's Dome Square."
+  },
+  {
+    "id": "pannonhalmi-leveltar",
+    "nameEn": "Pannonhalma Abbey Archives",
+    "descEn": "Significant archive with the oldest Hungarian written record."
+  },
+  {
+    "id": "magyar-nemzeti-galeria-poi",
+    "nameEn": "Hungarian National Gallery",
+    "descEn": "The largest collection of Hungarian fine arts in Buda Castle."
+  },
+  {
+    "id": "corvin-negyed-poi",
+    "nameEn": "Corvin Quarter",
+    "descEn": "Modern urban district with historical heritage in Budapest."
+  },
+  {
+    "id": "hatvan",
+    "nameEn": "Hatvan",
+    "descEn": "City on the Zagyva river, known for the Grassalkovich Castle."
+  },
+  {
+    "id": "tapolca",
+    "nameEn": "Tapolca",
+    "descEn": "City on the edge of the Balaton Uplands, famous for its lake cave."
+  },
+  {
+    "id": "kazincbarcika",
+    "nameEn": "Kazincbarcika",
+    "descEn": "Industrial city in the Sajó Valley, known as the 'City of Colors'."
+  },
+  {
+    "id": "ozd",
+    "nameEn": "Ózd",
+    "descEn": "Former center of Hungarian heavy industry in northern Hungary."
+  },
+  {
+    "id": "szigliget",
+    "nameEn": "Szigliget",
+    "descEn": "Picturesque village on the northern shore of Lake Balaton, known for its castle."
+  },
+  {
+    "id": "herend",
+    "nameEn": "Herend",
+    "descEn": "World-famous for its porcelain manufactory, operating since 1826."
+  },
+  {
+    "id": "mezokovesd",
+    "nameEn": "Mezőkövesd",
+    "descEn": "Center of the Matyó culture, known for its colorful embroideries."
+  },
+  {
+    "id": "hajos",
+    "nameEn": "Hajós",
+    "descEn": "City in the plains, famous for its unique wine cellar village."
+  },
+  {
+    "id": "szentgotthard",
+    "nameEn": "Szentgotthárd",
+    "descEn": "Hungary's westernmost city at the Austrian border."
+  },
+  {
+    "id": "lenti",
+    "nameEn": "Lenti",
+    "descEn": "Southwestern city, known for its thermal bath and energy park."
+  },
+  {
+    "id": "karcag",
+    "nameEn": "Karcag",
+    "descEn": "Capital of the Greater Cumania region, preserving Cuman traditions."
+  },
+  {
+    "id": "jaszapati",
+    "nameEn": "Jászapáti",
+    "descEn": "Small town in Jászság, known for its thermal bath and Baroque church."
+  },
+  {
+    "id": "tiszaujvaros",
+    "nameEn": "Tiszaújváros",
+    "descEn": "Modern industrial city on the Tisza, known for chemistry and sports."
+  },
+  {
+    "id": "komlo",
+    "nameEn": "Komló",
+    "descEn": "Former mining town in the Mecsek Mountains with beautiful natural surroundings."
+  },
+  {
+    "id": "szazhalombatta",
+    "nameEn": "Százhalombatta",
+    "descEn": "Industrial city on the Danube, known for its refinery and archaeological park."
+  },
+  {
+    "id": "monor",
+    "nameEn": "Monor",
+    "descEn": "City at the edge of the Gödöllő Hills, known for its cellar village."
+  },
+  {
+    "id": "nagykoros",
+    "nameEn": "Nagykőrös",
+    "descEn": "Historic city in the plains, famous for agriculture and Arany János."
+  },
+  {
+    "id": "marcali",
+    "nameEn": "Marcali",
+    "descEn": "Small town south of Lake Balaton with a modern thermal bath."
+  },
+  {
+    "id": "barcs",
+    "nameEn": "Barcs",
+    "descEn": "Border city on the Drava river, gateway to the Danube-Drava National Park."
+  },
+  {
+    "id": "celldomolk",
+    "nameEn": "Celldömölk",
+    "descEn": "City at the foot of Ság Mountain, known for the Kemenesalja pilgrimage site."
+  },
+  {
+    "id": "kormend",
+    "nameEn": "Körmend",
+    "descEn": "City on the Rába river, famous for the Batthyány-Strattmann Castle."
+  },
+  {
+    "id": "jaki-templom",
+    "nameEn": "Church of Ják",
+    "descEn": "A masterpiece of Romanesque architecture in Hungary with its famous portal."
+  },
+  {
+    "id": "nyirbatori-templom",
+    "nameEn": "Nyírbátor Reformed Church",
+    "descEn": "Late Gothic hall church with an impressive net vault."
+  },
+  {
+    "id": "edelenyi-kastely",
+    "nameEn": "Edelény Palace",
+    "descEn": "One of the largest and most magnificent Baroque palaces in Hungary."
+  },
+  {
+    "id": "csakvari-kastely",
+    "nameEn": "Csákvár Esterházy Palace",
+    "descEn": "Neoclassical palace of the Esterházy family at the foot of the Vértes."
+  },
+  {
+    "id": "nadasdy-kastely",
+    "nameEn": "Nádasdy Mansion",
+    "descEn": "Unique Neo-Gothic Tudor-style mansion in Nádasdladány."
+  },
+  {
+    "id": "deg-kastely",
+    "nameEn": "Dég Festetics Palace",
+    "descEn": "One of the most significant Neoclassical palaces with the largest English garden."
+  },
+  {
+    "id": "tiszadob-kastely",
+    "nameEn": "Tiszadob Andrássy Castle",
+    "descEn": "Fairytale-like Historicist castle on the Tisza with a labyrinth."
+  },
+  {
+    "id": "fuzerradvany-kastely",
+    "nameEn": "Füzérradvány Károlyi Palace",
+    "descEn": "Magnificent eclectic-style palace with a huge landscape park in Zemplén."
+  },
+  {
+    "id": "szabadkigyos-kastely",
+    "nameEn": "Szabadkígyós Wenckheim Palace",
+    "descEn": "A masterpiece by Miklós Ybl in eclectic and Neo-Renaissance style."
+  },
+  {
+    "id": "zsambek-romtemplom",
+    "nameEn": "Zsámbék Church Ruins",
+    "descEn": "Impressive ruins of a late Romanesque and Gothic basilica."
+  },
+  {
+    "id": "szentendre-varazshegy",
+    "nameEn": "Varázsciki Valley",
+    "descEn": "A hidden fairytale park and adventure trail in Szentendre."
+  },
+  {
+    "id": "balatonalmadi-strand",
+    "nameEn": "Balatonalmádi Beach",
+    "descEn": "Well-kept beach on the northeastern shore of Lake Balaton."
+  },
+  {
+    "id": "keszthely-strand",
+    "nameEn": "Keszthely City Beach",
+    "descEn": "Historic beach with the iconic Szigetfürdő island bath building."
+  }
+]

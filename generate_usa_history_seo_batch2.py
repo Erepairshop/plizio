@@ -1,0 +1,73 @@
+import json
+
+items = [
+    {
+        "id": "harpers-ferry-history-v2",
+        "descriptionAdvanced": "Harpers Ferry a polgárháború egyik legfontosabb stratégiai pontja volt, mivel a Potomac és a Shenandoah folyók találkozásánál fekszik. John Brown 1859-es rajtaütése a szövetségi fegyvertárra itt az egyik katalizátora volt a polgárháborúnak. A város többször is gazdát cserélt az északiak és a déliek között a háború folyamán. A történelmi park a 19. századi ipari és katonai építészetet mutatja be. Történelem K7 — harcok a határvidéken.",
+        "factsAdvanced": [
+            "John Brown 1859-ben támadta meg a fegyvertárat.",
+            "A város West Virginia területén fekszik, de közel van Maryland és Virginia államokhoz.",
+            "A polgárháború alatt az erődítményt nyolcszor foglalták el.",
+            "A terület az 1944-ben alapított történelmi nemzeti park része.",
+            "Fontos közlekedési csomópont volt a vasútnak köszönhetően.",
+            "A várost 1763-ban alapította Robert Harper."
+        ]
+    },
+    {
+        "id": "promontory-summit-history-v2",
+        "descriptionAdvanced": "Promontory Summit a helyszíne az első transzkontinentális vasút befejezésének 1869-ben, amely összekötötte az Egyesült Államok keleti és nyugati partját. Az 'Aranyszög' (Golden Spike) ünnepélyes beverése a vasútépítés korszakos mérföldköve volt, amely forradalmasította a szállítást és a kereskedelmet. A terület ma nemzeti történelmi emlékhely, amely bemutatja a korszak vasúti technológiáját. Történelem K7 — ipari forradalom és közlekedés.",
+        "factsAdvanced": [
+            "A vasútvonalakat a Union Pacific és a Central Pacific építette.",
+            "A találkozás 1869. május 10-én történt Utah államban.",
+            "Az Arany Szög (Golden Spike) szimbolizálta az egységet.",
+            "A beruházás 6 évet vett igénybe.",
+            "A transzkontinentális vasút csökkentette az utazási időt hónapokról napokra.",
+            "A helyszínen ma korabeli gőzmozdony-rekonstrukciók láthatók."
+        ]
+    },
+    {
+        "id": "chaco-canyon-history-v2",
+        "descriptionAdvanced": "Chaco Canyon az ősi Pueblo-kultúra egyik legjelentősebb ceremoniális és kulturális központja volt az 9. és 12. század között. A lenyűgöző kőépületek, vagy 'Nagy Házak' csillagászati precizitással épültek, ami az itt élők fejlett matematikai és csillagászati tudásáról tanúskodik. A régészeti park a mai napig titkokat rejt az ősi amerikai civilizációról. Történelem K8 — ősi amerikai csillagászat és építészet.",
+        "factsAdvanced": [
+            "A terület 1987-ben lett UNESCO Világörökség.",
+            "A Pueblo Bonito a legnagyobb kőépület a területen.",
+            "A lakók fejlett öntözőrendszereket fejlesztettek ki.",
+            "Az épületek elhelyezkedése igazodik a napfordulókhoz.",
+            "Chaco Canyon központi kereskedelmi csomópont volt a régióban.",
+            "Az itt található kőzetművészet (petroglifek) betekintést nyújt az életükbe."
+        ]
+    },
+    {
+        "id": "serpent-mound-history-v2",
+        "descriptionAdvanced": "Serpent Mound egy monumentális kígyó formájú földhalom Ohio államban, amelyet feltehetően az Adena-kultúra vagy a Fort Ancient-kultúra népei építettek. Ez a világ legnagyobb kígyó alakú ősi földműve, amelynek pontos rendeltetése még ma is viták tárgya. A kígyó teste és feje csillagászati jelenségekhez, például a napfordulókhoz igazodik. Történelem K7 — ősi földépítmények.",
+        "factsAdvanced": [
+            "A kígyó alakú halom hossza körülbelül 400 méter.",
+            "A domb egy ősi becsapódási kráter peremén fekszik.",
+            "Kutatók szerint naptárként is használhatták.",
+            "A helyszín pontos építési ideje a mai napig bizonytalan.",
+            "A Serpent Mound egy állami védettségű történelmi emlékhely.",
+            "Az ősi népek a földhalmokat spirituális célokra használták."
+        ]
+    },
+    {
+        "id": "taos-pueblo-history-v2",
+        "descriptionAdvanced": "Taos Pueblo egy több mint 1000 éve folyamatosan lakott ősi pueblo-település Új-Mexikóban. A vörösesbarna agyagtéglából épült többszintes házak a középkori amerikai délnyugat építészeti hagyományait őrzik. A település a mai napig a Taos indián közösség otthona, akik megőrizték hagyományos életmódjukat és spirituális gyakorlataikat. Történelem K8 — élő történelem és építészet.",
+        "factsAdvanced": [
+            "Az UNESCO Világörökség része 1992 óta.",
+            "A házakat 'adobe' (napon szárított vályog) technikával építették.",
+            "A pueblo az ősi indián kultúra egyik legjobban megőrzött példája.",
+            "A település a Taos folyó két partján épült fel.",
+            "Az itt élők saját kormányzati rendszerrel rendelkeznek.",
+            "A település központjában található a szent San Geronimo templom."
+        ]
+    }
+]
+
+data = {
+    "lang": "hu",
+    "country": "usa",
+    "files": ["lib/visualLab/data/poiExtraUsaHistoryV2.ts"],
+    "items": items
+}
+with open("seo_usa_hu_history_batch2.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)

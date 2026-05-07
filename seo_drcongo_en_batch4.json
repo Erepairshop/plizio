@@ -1,0 +1,40 @@
+{
+  "lang": "en",
+  "country": "drcongo",
+  "files": [
+    "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoLifeV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoNatureV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cd-kabongo-cities-v2",
+      "descriptionAdvanced": "Kabongo is a significant town in the Haut-Lomami province, historically serving as a center of the Luba Kingdom. The town and its surrounding region are rich in historical narratives and cultural heritage, marking them as important sites for understanding the pre-colonial history of the Congo. Today, it serves as a local agricultural and administrative center, maintaining its role as a focal point for the Luba people in the area. History K8 — pre-colonial African kingdoms and cultural history.",
+      "factsAdvanced": ["Historically linked to the Luba Kingdom.", "Administrative and commercial center in the Haut-Lomami province.", "Rich in cultural heritage and traditional history.", "Located in a region with significant agricultural potential.", "Serves as a focal point for local community life.", "Provides insights into the historical development of the Luba society."]
+    },
+    {
+      "id": "cd-kalemie-cities-v2",
+      "descriptionAdvanced": "Kalemie is a major port city on the western shore of Lake Tanganyika in the Tanganyika province. It serves as the most important gateway for transport and trade across the lake, connecting the Democratic Republic of the Congo with Tanzania and the East African Community. The city is a bustling center for regional commerce, fishing, and transit, playing a critical role in the country's eastern trade connectivity. Geography K7 — lake ports and regional trade networks.",
+      "factsAdvanced": ["Located on the western shore of Lake Tanganyika.", "Major port connecting DRC to Tanzania.", "Key hub for regional trade and lake-based logistics.", "Significant center for the fishing industry in Lake Tanganyika.", "Capital of the Tanganyika province.", "Gateway for eastern trade and regional economic interaction."]
+    },
+    {
+      "id": "cd-kongolo-cities-v2",
+      "descriptionAdvanced": "Kongolo is a town in the Tanganyika province, situated at a strategic point along the Lualaba River. It is famous for being the location of the 'Gates of Hell', a series of powerful rapids on the river that have been a subject of historical exploration and navigational challenge. Beyond its geographical fame, the town serves as an essential local node for river transport and trade in the northern Tanganyika province. Geography K7 — river navigation and regional centers.",
+      "factsAdvanced": ["Situated on the Lualaba River.", "Famous for the 'Gates of Hell' river rapids.", "Historic site for river exploration and navigation challenges.", "Essential local node for river transport and commerce.", "Regional center for agricultural and service activities in Tanganyika.", "Known for its strategic position on the river's upper course."]
+    },
+    {
+      "id": "cd-manono-cities-v2",
+      "descriptionAdvanced": "Manono is a mining town in the Tanganyika province, recognized for its substantial deposits of tin, tantalum, and lithium. The town has historically been a key site for mineral extraction, particularly associated with the Kitotolo mine complex, which continues to attract significant geological and industrial interest. Manono's identity is inextricably linked to its mineral wealth and the industrial history of the Tanganyika region. Geography K8 — mining industry and resource geography.",
+      "factsAdvanced": ["Renowned for significant tin, tantalum, and lithium deposits.", "Associated with the historic Kitotolo mine complex.", "Key site for mineral extraction in Tanganyika province.", "Focus of ongoing international geological exploration.", "Serves as an industrial hub within the region.", "Population linked to the mining and service sectors."]
+    },
+    {
+      "id": "cd-bukavu-cities-v2",
+      "descriptionAdvanced": "Bukavu is a major city and the capital of the South Kivu province, located on the southern shore of Lake Kivu. Known for its stunning lakeside scenery and hilly terrain, Bukavu is a central hub for trade, education, and administration in the eastern Democratic Republic of the Congo. The city is also a vital entry point for cross-border interaction with neighboring Rwanda, facilitating substantial local and regional trade. Geography K7 — lake landscapes and regional trade hubs.",
+      "factsAdvanced": ["Capital of the South Kivu province.", "Strategically located on the southern shores of Lake Kivu.", "Significant regional center for education and healthcare.", "Gateway for cross-border trade with Rwanda.", "Known for its picturesque hilly landscape and lakeside views.", "Crucial administrative and commercial hub in eastern DRC."]
+    }
+  ]
+}

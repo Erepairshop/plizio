@@ -1,0 +1,129 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "baltimore-cities-v2",
+      "descriptionAdvanced": "Baltimore, Maryland, is a historic port city on the Chesapeake Bay, renowned for its rich maritime history and role in the American Revolution. The city is home to the famous Inner Harbor, which underwent a major urban revitalization that has become a national model for waterfront redevelopment. Baltimore is a leading center for education and medicine, with institutions like Johns Hopkins University and Hospital setting global standards in healthcare research. Its cultural scene is diverse, reflecting the city's complex history as a key industrial and shipping hub. The city's architecture and unique neighborhoods, such as Fells Point, make it an essential part of the Atlantic region. Geography K8 — urban renewal and coastal shipping traditions.",
+      "factsAdvanced": [
+        "Baltimore was founded in 1729 and became one of the most important ports in the United States.",
+        "The Inner Harbor is a major tourist and cultural center and a model for waterfront urban renewal.",
+        "Johns Hopkins University and Hospital are globally recognized centers for research and medical innovation.",
+        "The city’s harbor was the site of the Battle of Baltimore during the War of 1812, inspiring the 'Star-Spangled Banner'.",
+        "Baltimore is known for its history in the steel industry and maritime shipping.",
+        "The city is divided into hundreds of distinct neighborhoods, each with its own cultural identity."
+      ]
+    },
+    {
+      "id": "milwaukee-cities-v2",
+      "descriptionAdvanced": "Milwaukee, Wisconsin, is a major industrial and cultural center on the shores of Lake Michigan. Historically known for its massive brewing industry, Milwaukee has transformed into a diversified metropolitan hub with strengths in manufacturing, technology, and health care. The city is famous for its vibrant summer festival scene, including Summerfest, the world's largest music festival. Its architecture, notably the Milwaukee Art Museum designed by Santiago Calatrava, is a landmark in the urban landscape. Milwaukee is also known for its strong community identity and commitment to the preservation of industrial heritage. Geography K7 — industrial transitions and urban festivals on the Great Lakes.",
+      "factsAdvanced": [
+        "Milwaukee was once home to the world's largest breweries, earning it the nickname 'Brew City'.",
+        "Summerfest, held annually in Milwaukee, is recognized as the world's largest music festival.",
+        "The city is situated on the western shore of Lake Michigan.",
+        "The Milwaukee Art Museum, featuring an iconic kinetic structure, is a major regional landmark.",
+        "Milwaukee's economy is highly diversified, including major sectors in manufacturing and healthcare.",
+        "The city was a center for early American socialism, which influenced its local politics and social programs."
+      ]
+    },
+    {
+      "id": "albuquerque-cities-v2",
+      "descriptionAdvanced": "Albuquerque, New Mexico, is the largest city in the state, located in the high desert at the foot of the Sandia Mountains. It is internationally famous for the Albuquerque International Balloon Fiesta, the largest hot-air balloon festival in the world. The city has a deep history that blends Native American, Spanish, and Mexican cultures, visible in its Old Town and local cuisine. Albuquerque is also a significant center for high-technology, aerospace, and research, with institutions like the Sandia National Laboratories driving innovation. Its unique geography, with the Rio Grande flowing through the city, and its high-altitude setting make it a distinct landscape. Geography K7 — desert cultures and scientific research.",
+      "factsAdvanced": [
+        "Albuquerque was founded in 1706 as a Spanish colonial outpost.",
+        "The Albuquerque International Balloon Fiesta is the world's largest hot-air balloon festival.",
+        "The Sandia Mountains, located east of the city, offer significant recreational space and a unique mountain tramway.",
+        "The city is a hub for research in science and engineering, anchored by the Sandia National Laboratories.",
+        "Old Town Albuquerque retains the city’s historic Spanish colonial architecture and cultural flavor.",
+        "The Rio Grande traverses the city, providing a vital riparian corridor in the high desert."
+      ]
+    },
+    {
+      "id": "tucson-cities-v2",
+      "descriptionAdvanced": "Tucson, Arizona, located in the Sonoran Desert, is known for its beautiful desert landscapes, unique biodiversity, and rich cultural history. It is the home of the University of Arizona and a major hub for optical science and aerospace research. Tucson's historic downtown, with the Barrio Historico district, reflects its Spanish and Mexican roots. The city is surrounded by iconic saguaro cactus forests, and the Saguaro National Park is located nearby. Tucson's culture is a fascinating mix of indigenous traditions, colonial Spanish heritage, and modern Southwestern living. Geography K7 — arid biomes and specialized optical science research.",
+      "factsAdvanced": [
+        "Tucson was the first city in the United States to be designated a UNESCO City of Gastronomy.",
+        "The University of Arizona is a major public research university in the city.",
+        "Saguaro National Park is renowned for its vast forests of iconic giant saguaro cacti.",
+        "Tucson is a significant global center for optical science research and manufacturing.",
+        "The city's history includes periods of Spanish, Mexican, and American governance.",
+        "Tucson is located in the Sonoran Desert, the most biodiverse desert in North America."
+      ]
+    },
+    {
+      "id": "fresno-cities-v2",
+      "descriptionAdvanced": "Fresno, California, is located in the heart of the San Joaquin Valley and is one of the most productive agricultural regions in the world. As the anchor of California’s Central Valley, the city is a major hub for agricultural innovation, processing, and distribution. Fresno serves as a gateway to three national parks: Yosemite, Kings Canyon, and Sequoia, which feature the world's largest trees and most spectacular mountain scenery. Its economy is deeply tied to farming, though it is also growing as a regional hub for education, healthcare, and retail. Fresno’s culture is a reflection of the diverse agricultural workforce that powers the region's productivity. Geography K5 — agricultural systems and gateway to national parks.",
+      "factsAdvanced": [
+        "Fresno County is the most productive agricultural county in the United States.",
+        "The city is a major gateway to Yosemite, Kings Canyon, and Sequoia National Parks.",
+        "Fresno was founded in 1872 as a railway station for the Central Pacific Railroad.",
+        "The economy is driven by large-scale agricultural production, including almonds, grapes, and dairy.",
+        "Fresno State University is a major public university, known for its strong agricultural science program.",
+        "The city is situated in the San Joaquin Valley, part of the larger Central Valley of California."
+      ]
+    },
+    {
+      "id": "sacramento-cities-v2",
+      "descriptionAdvanced": "Sacramento, the capital of California, is located at the confluence of the Sacramento and American rivers. It served as a critical hub during the Gold Rush era and has since become a major center for state government, healthcare, and education. The city is known for its historic Old Sacramento district, which preserves the architecture and atmosphere of the Gold Rush period. Sacramento is a major agricultural hub, situated in the fertile Central Valley, and is often referred to as the 'Farm-to-Fork Capital'. The city has grown as a significant cultural and residential center, known for its diverse communities and mild Mediterranean climate. Geography K7 — state administration and agricultural trade.",
+      "factsAdvanced": [
+        "Sacramento became the capital of California in 1854.",
+        "The city was a major staging ground during the 1849 California Gold Rush.",
+        "Old Sacramento is a historic district featuring restored Gold Rush-era buildings and museums.",
+        "Sacramento is located at the confluence of the Sacramento and American rivers.",
+        "The city is known as the 'Farm-to-Fork Capital' for its deep commitment to regional agricultural produce.",
+        "Sacramento State University and the University of California, Davis, located nearby, shape the city's intellectual life."
+      ]
+    },
+    {
+      "id": "kansas-city-mo-cities-v2",
+      "descriptionAdvanced": "Kansas City, Missouri, is a vibrant city known for its famous barbecue, deep roots in jazz, and extensive boulevard system. Straddling the Missouri and Kansas border, it serves as a central hub for logistics, commerce, and animal science research. The city features a rich cultural landscape with numerous fountains, earning it the nickname 'City of Fountains', second only to Rome globally. Kansas City’s architecture, including its many historic buildings, reflects its importance as a center of commerce in the American Midwest. The city is a major contributor to the regional economy and a leader in agricultural services. Geography K7 — central trade routes and regional cultural identity.",
+      "factsAdvanced": [
+        "Kansas City is known for its unique 'Kansas City Style' barbecue, a global culinary favorite.",
+        "The city features more fountains than any city in the world, except Rome.",
+        "The 18th & Vine district is internationally recognized for its historic importance in jazz and blues.",
+        "Kansas City is a major logistics and distribution hub in the heart of the U.S.",
+        "The city was a major frontier town during the mid-19th century expansion.",
+        "Kansas City is a center for animal science research, including the National Bio and Agro-Defense Facility nearby."
+      ]
+    },
+    {
+      "id": "long-beach-cities-v2",
+      "descriptionAdvanced": "Long Beach, California, is a major coastal city with one of the busiest deep-water ports in the world, the Port of Long Beach. Located just south of Los Angeles, it is an essential hub for international trade and the gateway for cargo entering North America from Asia. Long Beach is also known for its historic Queen Mary ocean liner, which serves as a major tourist attraction, and its beautiful beachfront. The city is a leader in marine research and sustainable maritime operations. Long Beach's vibrant cultural landscape and proximity to the ocean contribute to its high quality of life. Geography K7 — global trade and maritime infrastructure.",
+      "factsAdvanced": [
+        "Long Beach is home to one of the world's busiest container ports.",
+        "The Queen Mary, a legendary ocean liner, is permanently docked in Long Beach harbor.",
+        "Long Beach is located in the Los Angeles metropolitan area.",
+        "The city is a significant leader in marine research and sustainable port technology.",
+        "Long Beach has been a major center for aerospace and defense manufacturing for decades.",
+        "The city hosts the Grand Prix of Long Beach, a world-famous street race."
+      ]
+    },
+    {
+      "id": "mesa-cities-v2",
+      "descriptionAdvanced": "Mesa, Arizona, located in the Phoenix metropolitan area, is a rapidly growing city known for its desert landscape, arts scene, and historic focus. It has evolved from a small agricultural town into a major suburban and business center. Mesa is famous for the Mesa Arts Center, a prominent venue for performing and visual arts. The city's geography, situated on a desert plateau, offers opportunities for hiking, biking, and other outdoor sports. Mesa plays an important role in the regional economy through its focus on education, retail, and tech services. The city’s history is rooted in the prehistoric Hohokam canal system, which modern irrigation reflects. Geography K7 — suburban growth and desert recreation.",
+      "factsAdvanced": [
+        "Mesa is located in the Phoenix metropolitan area, one of the fastest-growing regions in the U.S.",
+        "The Mesa Arts Center is the largest comprehensive arts facility in the state of Arizona.",
+        "The city's history is linked to the prehistoric Hohokam irrigation canal systems.",
+        "Mesa is a major hub for aviation education and training in the Southwest.",
+        "The city is situated on a desert plateau, providing unique access to mountain and desert recreation.",
+        "Mesa's economy is highly focused on suburban services, education, and light manufacturing."
+      ]
+    },
+    {
+      "id": "atlanta-cities-v2",
+      "descriptionAdvanced": "Atlanta, the capital of Georgia, is the primary economic and cultural engine of the Southeastern United States. As the global headquarters for companies like Coca-Cola and Delta Air Lines, Atlanta is a hub for global commerce, finance, and transportation. The city played a pivotal role in the American Civil Rights movement and is the birthplace of Martin Luther King Jr., with his home and church becoming a national historical park. Atlanta is a thriving center for higher education, home to prestigious institutions like Georgia Tech and Emory University. Its modern infrastructure, including the world’s busiest airport, underpins its status as a major player in the global economy. Geography K8 — economic hubs and civil rights history.",
+      "factsAdvanced": [
+        "Atlanta is the capital of Georgia and the central hub of the Southeast U.S. economy.",
+        "The Hartsfield-Jackson Atlanta International Airport is consistently the world's busiest airport by passenger traffic.",
+        "Atlanta is the birthplace of the Civil Rights movement, with sites such as the Martin Luther King Jr. National Historical Park.",
+        "Coca-Cola and Delta Air Lines are major corporations headquartered in Atlanta.",
+        "The city is a key center for higher education, home to Georgia Tech and Emory University.",
+        "Atlanta hosted the 1996 Summer Olympic Games."
+      ]
+    }
+  ]
+}

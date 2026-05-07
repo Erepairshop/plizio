@@ -96,13 +96,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["Inland loading station", "Bauxite logistics hub", "Important regional employer"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Hafen von Katougouma ist ein spezialisierter Binnenhafen am Rio Nuñez in der Region Boké, der eine Schlüsselrolle beim rasanten Aufstieg Guineas zum weltweit führenden Bauxit-Exporteur spielt. Er wurde vom SMB-Winning Consortium errichtet, um das Erz aus den umliegenden Tagebauen effizient auf Leichter zu verladen, die es dann zu den auf Reede liegenden Hochseeschiffen im Atlantik transportieren. Der Hafen ist ein Beispiel für moderne, zweckgebundene Infrastruktur, die in Rekordzeit hochgezogen wurde, um die globale Nachfrage nach Aluminiumrohstoffen zu bedienen. Die logistischen Abläufe sind hoch automatisiert und für den Massengutumschlag optimiert. Geographie K8 — Flussbasierte Logistik und globaler Rohstoffhandel.",
       hu: "",
       ro: "",
       en: "The Port of Katougouma is a specialized, modern river port located on the Nuñez River in the Boké region, developed specifically to handle the massive export of Guinean bauxite. Constructed and operated by the SMB-Winning Consortium, the port represents a major shift in Guinea's mining infrastructure, utilizing a complex system of barges to transport ore down the river to deep-water transshipment points in the Atlantic Ocean. Opened in 2015, the facility dramatically increased the country's export capacity, turning Guinea into the world's leading exporter of bauxite. The port features extensive stockpiling yards, conveyor systems, and loading terminals, operating 24 hours a day. While it is a marvel of modern logistics, the intense industrial activity has raised significant concerns regarding river water quality, dust pollution, and the disruption of local artisanal fishing communities. Geography K8 — riverine bulk ports and global mineral logistics."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Strategischer Binnenhafen am schiffbaren Rio Nuñez.", "Eigens für den Bauxit-Export des SMB-Winning Consortiums entwickelt.", "Nutzt ein effizientes System aus Leichtern für den Weitertransport zum Meer.", "Inbetriebnahme im Jahr 2015 markierte den Beginn des Exportbooms.", "Umschlagkapazität von mehreren Millionen Tonnen Erz pro Jahr.", "Wichtiger Standort für Wartung und Logistik der Flussschifffahrt.", "Zentrum für die wirtschaftliche Entwicklung der Präfektur Boké.", "Ein Meilenstein der industriellen Infrastruktur im Nordwesten Guineas."],
       hu: [],
       ro: [],
       en: ["A major specialized bauxite export port on the Nuñez River.", "Developed and operated by the massive SMB-Winning Consortium.", "Utilizes a massive fleet of barges for river-to-ocean transshipment.", "Began operations in 2015, revolutionizing Guinean bauxite exports.", "Capable of handling tens of millions of tons of ore annually.", "Has significantly impacted the local riverine environment and fishing."]
@@ -131,13 +131,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["World-class bauxite deposit", "Large-scale open-pit mine", "Primary source of foreign exchange"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Bauxitmine von Sangarédi gilt als eine der qualitativ hochwertigsten und reichsten Lagerstätten der Welt. Das hier abgebaute Erz zeichnet sich durch einen extrem hohen Aluminiumoxid-Gehalt und minimale Verunreinigungen aus, was es auf dem Weltmarkt besonders begehrt macht. Die Mine wird von der Compagnie des Bauxites de Guinée (CBG) im Tagebau betrieben, wobei gewaltige Bagger die lateritischen Plateaus abtragen. Sangarédi ist das Herzstück der guineischen Bergbauwirtschaft und über eine eigene, 135 km lange Schwerlast-Eisenbahn direkt mit dem Hafen von Kamsar verbunden. Die Dimensionen des Abbaus haben die Landschaft nachhaltig verändert und machen die Mine zu einem industriellen Wahrzeichen. Geographie K8 — Tagebau und globale Wertschöpfungsketten.",
       hu: "",
       ro: "",
       en: "The Sangarédi Bauxite Mine is one of the largest and highest-grade bauxite mining complexes in the world, located in the Boké region of northwestern Guinea. Operated by the Compagnie des Bauxites de Guinée (CBG) since 1973, the mine targets a massive lateritic plateau where the aluminum ore sits just below the surface, allowing for extensive open-pit extraction. The scale of the operation is staggering, utilizing massive draglines, excavators, and a dedicated 135-kilometer heavy-haul railway to transport the crushed ore directly to the Atlantic port of Kamsar. For decades, the Sangarédi mine has been the primary engine of the Guinean economy, generating a massive portion of the nation's export revenue. However, the sprawling open pits have resulted in severe deforestation, habitat destruction, and the displacement of local communities, highlighting the complex trade-offs of mega-mining projects. Geography K8 — open-pit mega-mines and national economic drivers."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Weltweit führend bei der Qualität des abgebauten Bauxiterzes.", "Operiert seit 1973 durch die Compagnie des Bauxites de Guinée (CBG).", "Gelegen auf dem Sangarédi-Plateau in der Präfektur Boké.", "Verfügt über eine dedizierte Eisenbahnverbindung zum Atlantik.", "Hauptquelle für die Exporterlöse des guineischen Staates.", "Großflächiger Tagebaubetrieb mit modernster Fördertechnik.", "Zentrum einer spezialisierten Bergbausiedlung für Tausende Arbeiter.", "Symbol für den Reichtum Guineas an strategischen Bodenschätzen."],
       hu: [],
       ro: [],
       en: ["One of the largest and richest bauxite mining operations globally.", "Operated by the Compagnie des Bauxites de Guinée (CBG) since 1973.", "Features massive open-pit extraction across a lateritic plateau.", "Connects to the port of Kamsar via a dedicated 135 km railway.", "Historically the single largest contributor to Guinea's export revenue.", "Faces significant scrutiny over deforestation and habitat destruction."]
@@ -167,13 +167,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["Cooperation with RUSAL", "Large reserves", "Dedicated railway link"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Bauxitmine Debele, gelegen in der Präfektur Kindia, ist ein bedeutendes Zentrum der Aluminiumindustrie, das primär von der Compagnie des Bauxites de Kindia (CBK), einer Tochter des russischen Rusal-Konzerns, betrieben wird. Im Gegensatz zu den Plateauminen im Norden wird hier in einer hügeligen Landschaft abgebaut, wobei das Erz über eine eigene Eisenbahnlinie direkt zum Hafen von Conakry transportiert wird. Die Mine ist ein wichtiger Pfeiler der wirtschaftlichen Beziehungen zwischen Guinea und Russland. Die Produktion in Debele sichert die Versorgung internationaler Raffinerien und trägt maßgeblich zur regionalen Beschäftigung bei. Trotz der wirtschaftlichen Bedeutung steht der Betrieb aufgrund der Staubbelastung in der Nähe von Siedlungen unter ökologischer Beobachtung. Geographie K8 — Regionale Bergbaunetzwerke und Landnutzung.",
       hu: "",
       ro: "",
       en: "The Debele Bauxite Mine is a critical mining operation located in the Kindia Prefecture, operated primarily by the Compagnie des Bauxites de Kindia (CBK), a subsidiary of the Russian giant Rusal. The mine has been operational since the early 2000s, extracting high-quality bauxite from the rolling hills surrounding the city of Kindia. Unlike the massive plateau mines of Boké, Debele's operations are spread across numerous smaller pits, utilizing a dedicated railway line to transport the raw ore directly to the port facilities in Conakry for global export. The mine is a major employer in the Kindia region, driving significant local economic activity and infrastructure development. However, its close proximity to agricultural lands and population centers has led to ongoing friction regarding land use, water contamination, and the pervasive red dust that blankets nearby communities. Geography K8 — regional mining networks and land use conflicts."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Betrieben durch die Compagnie des Bauxites de Kindia (CBK/Rusal).", "Wichtigste Bauxitquelle in der Region Niederguinea.", "Eigene Eisenbahnanbindung für den Transport zum Hafen Conakry.", "Sichert die Versorgung russischer Aluminiumschmelzen.", "Bedeutender Arbeitgeber in der Präfektur Kindia.", "Tagebau in einer landschaftlich reizvollen Hügelregion.", "Inbetriebnahme des modernisierten Komplexes in den frühen 2000ern.", "Zentrum für technologischen Austausch im Bergbausektor."],
       hu: [],
       ro: [],
       en: ["A major bauxite mining operation located in the Kindia Prefecture.", "Operated by the Compagnie des Bauxites de Kindia (CBK/Rusal).", "Extracts ore from numerous pits across the regional hills.", "Connects directly to the port of Conakry via a dedicated railway.", "A primary employer and economic driver for the Kindia region.", "Often experiences friction with local communities over dust and land use."]
@@ -202,13 +202,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["Gigantic resource project", "High-grade iron ore", "Extensive infrastructure planning"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Simandou-Projekt im Südosten Guineas ist das ehrgeizigste Industrieprojekt in der Geschichte des Landes und gilt als das weltweit größte unerschlossene Vorkommen von hochgradigem Eisenerz. Mit einem Metallgehalt von oft über 65 % könnte Simandou den globalen Stahlmarkt revolutionieren. Die Erschließung erfordert den Bau einer über 600 km langen Eisenbahnlinie (Trans-Guinean) quer durch das Land sowie eines neuen Tiefseehafens. Das Projekt ist ein gewaltiges Joint Venture zwischen internationalen Bergbaukonzernen und dem guineischen Staat. Es verspricht eine massive Steigerung des Bruttoinlandsprodukts, stellt aber gleichzeitig enorme Anforderungen an die Infrastruktur und den Umweltschutz in der sensiblen Waldregion. Geographie K8 — Bergbau-Megaprojekte und nationale Entwicklung.",
       hu: "",
       ro: "",
       en: "The Simandou iron ore project in southeast Guinea is considered the world's largest untapped deposit of high-purity iron ore. With a metal content often exceeding 65%, the project has the potential to permanently change the global steel production market. Due to the enormous infrastructure requirements  —  including the construction of hundreds of kilometers of railway and a new deep-sea port  —  it is one of Africa's most ambitious industrial projects. Geography K8  —  Large projects."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes unerschlossenes Eisenerzvorkommen der Welt mit Top-Qualität.", "Erzgehalt von über 65 % ermöglicht effiziente Stahlproduktion.", "Erfordert den Bau einer 600 km langen Eisenbahnlinie zum Atlantik.", "Joint Venture unter Beteiligung von Rio Tinto und chinesischen Partnern.", "Potenzial, das BIP Guineas innerhalb weniger Jahre zu verdoppeln.", "Strategische Bedeutung für den globalen Stahlmarkt und die Dekarbonisierung.", "Standort in den abgelegenen Simandou-Bergen im Südosten.", "Enorme logistische und ökologische Herausforderungen bei der Umsetzung."],
       hu: [],
       ro: [],
       en: ["World's largest untapped iron ore deposit.", "Ore quality: often over 65% metal content.", "Requires construction of over 600 km of railway.", "Planning for a new deep-sea port for export.", "One of Africa's most ambitious industrial projects.", "Potential for significant contribution to GDP."]
@@ -237,13 +237,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["240 megawatt capacity", "On the Konkouré River", "Symbol of energy self-sufficiency"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Kaléta-Wasserkraftwerk am Fluss Konkouré ist ein Meilenstein für die Energieversorgung Guineas und ein Symbol für die Modernisierung der nationalen Infrastruktur. Mit einer installierten Leistung von 240 Megawatt hat es bei seiner Inbetriebnahme im Jahr 2015 die verfügbare Strommenge des Landes fast verdoppelt. Es wurde primär gebaut, um die chronischen Stromengpässe in der Hauptstadt Conakry zu lindern und die Industrie in Niederguinea zu unterstützen. Das Projekt wurde in Zusammenarbeit mit China realisiert und gilt als Paradebeispiel für die Nutzung des enormen guineischen Wasserkraftpotenzials. Kaléta ist ein zentraler Baustein für die wirtschaftliche Unabhängigkeit und industrielle Entwicklung des Landes. Geographie K8 — Energiewende und Infrastrukturinvestitionen.",
       hu: "",
       ro: "",
       en: "The Kaléta hydropower plant marks a turning point in Guinea's energy history. Built on the Konkouré River, it produces clean energy with an installed capacity of 240 megawatts, supplying both the rapidly growing capital Conakry and the country's energy-hungry mining industry. It symbolizes Guinea's step towards energy independence and sustainable economic development. History K8  —  Modernization."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Installierte Leistung von 240 Megawatt am Konkouré-Fluss.", "Inbetriebnahme im Jahr 2015 durch die Regierung Condé.", "Hauptstromlieferant für die Metropolregion Conakry.", "Finanziert und gebaut in Kooperation mit China (CWE).", "Reduzierte die Abhängigkeit von teuren thermischen Kraftwerken massiv.", "Wichtiger Standort für die Ausbildung guineischer Wasserkraft-Experten.", "Zentraler Knotenpunkt des nationalen Verbundnetzes.", "Teil einer Kaskade von Kraftwerken zur optimalen Flussnutzung."],
       hu: [],
       ro: [],
       en: ["Installed capacity of 240 megawatts.", "Most important energy source on the Konkouré.", "Supply for Conakry and mining industry.", "Symbol of energy independence.", "Successful example of infrastructure investment.", "Stable power supply as economic engine."]
@@ -272,13 +272,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["Largest power plant in the country", "Huge reservoir", "Energy export potential"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Souapiti ist das größte Wasserkraftprojekt Guineas und eines der bedeutendsten Energievorhaben in Westafrika. Der gewaltige Staudamm am Fluss Konkouré hat eine installierte Leistung von 450 Megawatt und dient gleichzeitig als regulierendes Speicherbecken für das flussabwärts gelegene Kaléta-Kraftwerk. Durch die Schaffung eines riesigen Stausees ermöglicht Souapiti eine stabile Stromproduktion auch während der Trockenzeit, was für die guineische Wirtschaft von entscheidender Bedeutung ist. Das Kraftwerk soll Guinea nicht nur energieautark machen, sondern auch den Export von grünem Strom in die Nachbarländer des West African Power Pool ermöglichen. Die Umsiedlung tausender Menschen und der Verlust von Waldflächen markieren jedoch die ökologischen und sozialen Kosten dieses Megaprojekts. Geographie K8 — Wasserkraft und regionale Energieintegration.",
       hu: "",
       ro: "",
       en: "With an installed capacity that far exceeds the Kaléta project, the Souapiti hydropower plant is the largest energy project in Guinea's history. Through the construction of a massive dam, not only is power generation drastically increased, but the flow of the Konkouré River is regulated, which improves the efficiency of downstream power plants. It is a central tool of the Guinean government to promote industrialization and secure power exports to neighboring countries. Geography K8  —  Energy infrastructure."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größtes Wasserkraftwerk Guineas mit 450 Megawatt Leistung.", "Gewaltiger Staudamm zur Regulierung des Konkouré-Flusssystems.", "Ermöglicht stabilen Betrieb flussabwärts gelegener Kraftwerke.", "Zentrales Projekt für den Export von Strom in Nachbarstaaten.", "Schaffung eines riesigen Stausees mit strategischen Wasserreserven.", "Inbetriebnahme der ersten Turbinen im Jahr 2020.", "Finanzierung durch ein innovatives Darlehensmodell mit China.", "Symbol für Guineas Anspruch als 'Wasserschloss Westafrikas'."],
       hu: [],
       ro: [],
       en: ["Guinea's largest hydropower project.", "Massive increase in national power generation.", "Regulation of the Konkouré River to increase efficiency.", "Enables electricity exports to neighboring regions.", "Central instrument of industrialization.", "Huge reservoir for strategic energy reserves."]
@@ -307,13 +307,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["Historic energy project", "On the upper Konkouré", "Vital for aluminum production"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Garafiri-Wasserkraftwerk am Oberlauf des Konkouré war das erste große Staudammprojekt, das nach der Unabhängigkeit Guineas mit massiver nationaler Beteiligung realisiert wurde. Es wurde Ende der 1990er Jahre eingeweiht und galt lange Zeit als Stolz der Nation und Symbol für den Aufbruch in eine technologische Zukunft. Mit einer Leistung von 75 Megawatt legte Garafiri den Grundstein für das moderne Stromnetz des Landes. Das Kraftwerk spielt eine wichtige Rolle bei der Versorgung der Bergbaustädte in der Region und trägt zur Stabilisierung des Netzes in Niederguinea bei. Trotz der Konkurrenz durch neuere, größere Anlagen bleibt Garafiri ein wesentlicher Bestandteil des Energiemixes und ein Zeugnis guineischen Pioniergeistes. Geschichte K7 — Industrieller Aufbau und nationale Identität.",
       hu: "",
       ro: "",
       en: "As the first major dam project after Guinea's independence, the Garafiri hydropower plant symbolizes pioneering work in utilizing the hydropower resources of the Konkouré River. Although it is now surpassed by newer power plants like Souapiti, it remains an essential component of the national power grid. It laid the foundation for understanding large-scale energy infrastructure and is particularly important for the continuous operation of the energy-intensive aluminum industry. History K7  —  Industrial development."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Erstes großes nationales Staudammprojekt (eingeweiht 1999).", "Installierte Leistung von 75 Megawatt.", "Gelegen in einer malerischen Gebirgsregion am Konkouré.", "Wichtiger Energielieferant für die Bergbau- und Aluminiumindustrie.", "Symbol der nationalen Eigenständigkeit unter Präsident Lansana Conté.", "Ermöglichte die erste signifikante Ausweitung des Stromnetzes.", "Wichtiger Standort für ökologisches Monitoring im Flusssystem.", "Teil der strategischen Wasserkraft-Kaskade in Niederguinea."],
       hu: [],
       ro: [],
       en: ["Historic first major power plant after independence.", "Essential component of the national power grid.", "Important for energy-intensive aluminum production.", "Pioneer project on the upper Konkouré River.", "Cornerstone of modern energy infrastructure.", "Continuous contribution to national stability."]
@@ -342,13 +342,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       en: ["Major gold producer", "Operated by AngloGold Ashanti", "Key regional employer"]
         },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Siguiri-Goldmine im Nordosten des Landes ist der bedeutendste industrielle Goldproduzent Guineas und wird mehrheitlich vom Weltmarktführer AngloGold Ashanti betrieben. Die Mine ist ein riesiger Tagebaukomplex, der jährlich Hunderttausende Unzen Gold aus den lateritischen Böden gewinnt. Neben der industriellen Großanlage ist die gesamte Region Siguiri ein Zentrum für den traditionellen Kleinstbergbau, was zu einer komplexen sozio-ökonomischen Dynamik führt. Das Gold aus Siguiri leistet einen wesentlichen Beitrag zum Staatshaushalt und macht Guinea zu einem wichtigen Akteur auf dem afrikanischen Goldmarkt. Die Mine setzt modernste Extraktionstechnologien ein, um auch aus niedriggradigen Erzen wirtschaftlich Gold zu gewinnen. Geographie K7 — Goldbergbau und regionale Wirtschaftsentwicklung.",
       hu: "",
       ro: "",
       en: "The Siguiri Gold Mine in northeast Guinea is one of West Africa's largest open-pit operations and is managed by global industry leader AngloGold Ashanti. This mine is not only an important economic factor for gold exports, but also acts as a center for regional development. By using modern extraction and processing technologies, the site produces large quantities of gold annually, which contributes significantly to the state budget and local employment in Siguiri. Geography K6  —  Mining and economy."
     },
     factsAdvanced: {
-      de: [],
+      de: ["Größte industrielle Goldmine Guineas (AngloGold Ashanti).", "Jährliche Produktion von über 200.000 Unzen Gold.", "Großflächiger Tagebau in der halbtrockenen Savanne.", "Wichtigster Arbeitgeber und Steuerzahler in Oberguinea.", "Einsatz von Haufenlaugung und modernen Verarbeitungsanlagen.", "Zentrum eines massiven regionalen Goldbooms.", "Strategische Partnerschaft zwischen dem Staat und internationalen Konzernen.", "Fokus auf soziale Investitionsprojekte in der lokalen Gemeinschaft."],
       hu: [],
       ro: [],
       en: ["Operated by world market leader AngloGold Ashanti.", "Large-scale open-pit mine in the northeast.", "Produces significant quantities of gold annually.", "Important contribution to the Guinean state budget.", "Employment for thousands in the Siguiri region.", "Use of modern processing technologies."]
@@ -375,7 +375,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Ultramodern kinyerő üzem", "Jelentős aranytartalékok", "Nemzetközi befektetések"],
       ro: ["Instalație de extracție ultramodernă", "Rezerve semnificative de aur", "Investiții internaționale"],
       en: ["State-of-the-art extraction plant", "Significant gold reserves", "International investment"]
-    }, image: "/poi-images/goldmine-lefa-economic-v2.webp"},
+    }, image: "/poi-images/goldmine-lefa-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lefa-Goldmine, gelegen in der Präfektur Faranah, gehört zu den größten und technologisch fortschrittlichsten Goldminen Westafrikas. Betrieben von der Nordgold-Gruppe, nutzt die Mine effiziente Tagebauverfahren, um Gold aus mehreren Erzkörpern zu gewinnen. Lefa ist ein entscheidender Wirtschaftsfaktor für das ländliche Guinea und bietet Tausende von Arbeitsplätzen in einer ansonsten strukturschwachen Region. Die Mine verfügt über einen eigenen, hochmodernen Aufbereitungskomplex, der Goldbarren für den Weltmarkt produziert. Durch Investitionen in die Exploration konnten die Reserven der Mine in den letzten Jahren stetig erweitert werden, was den Standort langfristig sichert. Lefa ist zudem bekannt für sein umfassendes Umweltmanagement und soziale Programme für die umliegenden Dörfer. Geographie K6 — Moderne Bergbauverfahren und ländliche Entwicklung."
+    },
+    factsAdvanced: {
+      de: ["Eine der größten Goldminen Westafrikas (Nordgold-Gruppe).", "Gelegen in einer abgelegenen Zone zwischen Faranah und Kouroussa.", "Jährliche Goldproduktion auf konstant hohem Niveau.", "Eigener Kraftwerkspark zur autarken Energieversorgung der Mine.", "Modernste Laboratorien zur Erzanalyse vor Ort.", "Bedeutender Beitrag zur Diversifizierung des guineischen Bergbausektors.", "Umfangreiches Programm zur Rekultivierung ehemaliger Abbauflächen.", "Strategisch wichtiger Exportstandort für den nationalen Haushalt."]
+    }
+  },
   {
     id: "goldmine-kiniero-economic-v2",
     type: "industry",
@@ -398,7 +405,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["A bánya újranyitása", "Felső-guineai bányászati központ", "Aranyexport helyszín"],
       ro: ["Redeschiderea minei", "Centru minier în Guineea Superioară", "Locație de export de aur"],
       en: ["Reopening of the mine", "Upper Guinea mining center", "Gold export site"]
-    }, image: "/poi-images/goldmine-kiniero-economic-v2.webp"},
+    }, image: "/poi-images/goldmine-kiniero-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kiniero-Goldmine in der Präfektur Kouroussa ist ein geschichtsträchtiger Standort, der in den letzten Jahren durch neue Investitionen revitalisiert wurde. Die Mine liegt in einer Region, die seit Jahrhunderten für ihren Goldreichtum bekannt ist, und bildet heute eine Brücke zwischen traditioneller Bedeutung und moderner industrieller Nutzung. Nach einer Phase der Stilllegung wurde der Betrieb modernisiert, um tiefer liegende Erzvorkommen effizienter zu erschließen. Kiniero trägt zur wirtschaftlichen Wiederbelebung Oberguineas bei und dient als Modell für die Sanierung älterer Bergbaustandorte. Die Mine fördert nicht nur Gold, sondern investiert auch massiv in die lokale Infrastruktur, wie Straßen und Schulen, um die Akzeptanz in der Bevölkerung zu stärken. Geographie K6 — Revitalisierung von Bergbaustandorten."
+    },
+    factsAdvanced: {
+      de: ["Historisch bedeutender Goldbergbaustandort in Oberguinea.", "Erfolgreiche Wiederbelebung durch neue internationale Investoren.", "Fokus auf die Exploration neuer, tieferer Goldadern.", "Wichtiger Motor für die lokale Wirtschaft in Kouroussa.", "Kombination aus Tagebau und modernisierter Aufbereitung.", "Starke Einbindung lokaler Fachkräfte in den Betrieb.", "Vorbild für ökologische Sanierung in der Bergbaubranche.", "Sichert langfristige Exporterlöse für die Region."]
+    }
+  },
   {
     id: "aluminiumwerk-fria-economic-v2",
     type: "industry",
@@ -421,7 +435,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Afrika első finomítója", "Bauxit feldolgozása", "Nagyipari komplexum"],
       ro: ["Prima rafinărie din Africa", "Prelucrarea bauxitei", "Complex industrial de mari dimensiuni"],
       en: ["Africa's first refinery", "Bauxite processing", "Large industrial complex"]
-    }, image: "/poi-images/aluminiumwerk-fria-economic-v2.webp"},
+    }, image: "/poi-images/aluminiumwerk-fria-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Aluminiumoxid-Werk in Fria ist eine industrielle Legende in Afrika und war bei seiner Eröffnung im Jahr 1960 die erste Anlage ihrer Art auf dem Kontinent. Die Raffinerie verarbeitet das vor Ort abgebaute Bauxit direkt zu Aluminiumoxid (Tonerde), dem Vorprodukt für die Aluminiumschmelze. Das Werk bildet das wirtschaftliche Rückgrat der Stadt Fria und hat die gesamte Region infrastrukturell geprägt. Nach einer schwierigen Phase und zeitweisen Schließungen wurde die Anlage unter der Leitung von Rusal modernisiert und wieder in Betrieb genommen. Fria steht beispielhaft für den Versuch Guineas, nicht nur Rohstoffe zu exportieren, sondern die Wertschöpfung durch industrielle Verarbeitung im eigenen Land zu steigern. Geschichte K8 — Industrielle Meilensteine und postkoloniale Entwicklung."
+    },
+    factsAdvanced: {
+      de: ["Älteste Aluminiumoxid-Raffinerie auf dem afrikanischen Kontinent.", "Zentrum der integrierten Bauxit-Verarbeitung in Guinea.", "Hauptarbeitgeber und Wirtschaftsfaktor der Region Fria.", "Betrieben von Rusal (Friguia-Komplex).", "Produziert hochwertiges Aluminiumoxid für den Weltmarkt.", "Verbunden mit dem Hafen Conakry durch eine eigene Erzbahn.", "Erfolgreiche Wiederinbetriebnahme nach Modernisierung im Jahr 2018.", "Symbol für die industrielle Tradition und Ambition des Landes."]
+    }
+  },
   {
     id: "eisenerzmine-zogota-economic-v2",
     type: "industry",
@@ -444,7 +465,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Kiváló minőségű vasérc", "Délkelet-guineai bányászat", "Export a szomszédos országokon keresztül"],
       ro: ["Minereu de fier de înaltă calitate", "Minerit în sud-estul Guineei", "Export planificat prin țările vecine"],
       en: ["High-grade iron ore", "Southeast Guinea mining", "Export via neighboring countries planned"]
-    }, image: "/poi-images/eisenerzmine-zogota-economic-v2.webp"},
+    }, image: "/poi-images/eisenerzmine-zogota-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zogota-Eisenerzmine liegt in der bewaldeten Hügellandschaft Südostguineas und ist ein wichtiger Bestandteil der nationalen Strategie zur Erschließung der gewaltigen Eisenerzreserven des Landes. Die Mine verfügt über hochwertiges Erz, das aufgrund seiner Reinheit international gefragt ist. Da die Region geografisch isoliert ist, spielt die Logistik eine entscheidende Rolle; Pläne sehen den Export über das benachbarte Liberia vor, um den Transportweg zum Meer zu verkürzen. Zogota ist ein Testfall für die grenzüberschreitende infrastrukturelle Zusammenarbeit in Westafrika. Die Mine verspricht der Waldregion wirtschaftlichen Aufschwung, erfordert aber ein sensibles Management, um die einzigartige Biodiversität der Umgebung zu schützen. Geographie K8 — Grenzüberschreitende Logistik und Rohstoffexport."
+    },
+    factsAdvanced: {
+      de: ["Vorkommen von Eisenerz mit extrem hohem Metallgehalt.", "Gelegen in der mineralreichen Waldregion Guineas.", "Strategische Planung für Exportrouten über liberianische Häfen.", "Wichtiger Standort für internationale Bergbau-Investitionen.", "Soll Tausende Arbeitsplätze in Südostguinea schaffen.", "Teil des größeren Bergbau-Ökosystems am Simandou-Massiv.", "Fokus auf nachhaltige Entwicklung in sensiblen Waldökosystemen.", "Administrative Bedeutung für die Präfektur Nzérékoré."]
+    }
+  },
   {
     id: "bauxitmine-bel-air-economic-v2",
     type: "industry",
@@ -467,7 +495,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Partközeli bányászat", "Saját rakodóterminál", "Modern bányászati technológia"],
       ro: ["Minerit de coastă", "Terminal de încărcare propriu", "Tehnologie modernă de extracție"],
       en: ["Coastal mining operation", "Private loading terminal", "Modern extraction technology"]
-    }, image: "/poi-images/bauxitmine-bel-air-economic-v2.webp"},
+    }, image: "/poi-images/bauxitmine-bel-air-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bel-Air-Bauxitmine, betrieben von Alufer Mining, ist ein Vorzeigeprojekt für küstennahen Bergbau in Guinea. Gelegen in der Präfektur Boffa, zeichnet sich die Mine durch ihre unmittelbare Nähe zum Atlantik aus, was den Bau langer Eisenbahnlinien überflüssig macht. Das Erz wird über eine kurze Förderstraße direkt zu einem eigens gebauten Verladeterminal transportiert, von wo aus es mit Leichtern zu Hochseeschiffen gebracht wird. Bel-Air ist für seine hohe Effizienz und die schnelle Umsetzung von der Exploration zur Produktion bekannt. Das Projekt hat die Region Boffa wirtschaftlich transformiert und neue Standards für die Integration von Bergbau und lokalem Umweltschutz gesetzt. Geographie K8 — Küstennahe Rohstoffförderung und Logistikeffizienz."
+    },
+    factsAdvanced: {
+      de: ["Küstennahe Bauxitmine mit minimalem Logistikaufwand.", "Eigens errichteter Verladeterminal am Kap Verga.", "Hocheffiziente Produktion durch Alufer Mining.", "Strategische Lage ermöglicht schnellen Marktzugang.", "Wichtiger Impulsgeber für die Entwicklung der Präfektur Boffa.", "Fokus auf Umweltschutz in der Nähe von touristischen Gebieten.", "Einsatz moderner Surface-Miner-Technologie im Tagebau.", "Sichert langfristige Lieferverträge mit internationalen Partnern."]
+    }
+  },
   {
     id: "hafen-konta-economic-v2",
     type: "port",
@@ -490,7 +525,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Regionális exportkikötő", "Közel a Sierra Leone-i határhoz", "Fejlesztési terület"],
       ro: ["Port regional de export", "Aproape de granița cu Sierra Leone", "Sit în dezvoltare"],
       en: ["Regional export port", "Near Sierra Leone border", "Development site"]
-    }, image: "/poi-images/hafen-konta-economic-v2.webp"},
+    }, image: "/poi-images/hafen-konta-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Konta in der Präfektur Forécariah ist ein spezialisierter Exporthafen, der primär für den Umschlag von Eisenerz und anderen Rohstoffen aus dem Südwesten Guineas konzipiert wurde. Er dient als strategischer Endpunkt für die Logistikketten, die das Hinterland mit dem Weltmarkt verbinden. Trotz seiner geringeren Größe im Vergleich zu Conakry spielt Konta eine entscheidende Rolle bei der Entlastung der Hauptstadt und der Erschließung neuer Bergbaugebiete. Die Entwicklung des Hafens ist eng mit dem Ausbau der Schienen- und Straßenverbindungen in der Region verknüpft. Konta symbolisiert die Bemühungen des Staates, die Exportinfrastruktur zu dezentralisieren und die wirtschaftliche Aktivität entlang der gesamten Küste zu fördern. Geographie K5 — Hafenentwicklung und regionale Erschließung."
+    },
+    factsAdvanced: {
+      de: ["Spezialisierter Terminal für den Rohstoffexport im Südwesten.", "Entlastet den Hauptstadthafen von Conakry bei Massengut.", "Wichtiger Standort für die Verladung von Eisenerz.", "Gelegen an der Küste der Präfektur Forécariah.", "Strategische Bedeutung für die grenzüberschreitende Logistik.", "Teil eines integrierten Infrastrukturprogramms der Regierung.", "Fördert die lokale Beschäftigung im maritimen Sektor.", "Wichtiger Anlaufpunkt für Küstenschifffahrt und Logistik."]
+    }
+  },
   {
     id: "diamantenmine-banankoro-economic-v2",
     type: "industry",
@@ -513,7 +555,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["A drágakő-kereskedelem központja", "Hordalékos lelőhelyek", "Fontos Kérouané régió számára"],
       ro: ["Centrul comerțului cu pietre prețioase", "Zăcăminte aluvionare", "Important pentru regiunea Kérouané"],
       en: ["Center of gemstone trade", "Alluvial deposits", "Crucial for the Kérouané region"]
-    }, image: "/poi-images/diamantenmine-banankoro-economic-v2.webp"},
+    }, image: "/poi-images/diamantenmine-banankoro-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bergbaugebiet um Banankoro in der Präfektur Kérouané ist das Epizentrum der guineischen Diamantenförderung. Hier befinden sich gewaltige alluviale Vorkommen, die seit Jahrzehnten sowohl von großen Industriegesellschaften als auch von tausenden handwerklichen Schürfern ausgebeutet werden. Die Region ist bekannt für die hohe Qualität ihrer Edelsteine, die weltweit in der Schmuckindustrie begehrt sind. Banankoro fungiert als zentraler Handelsplatz, an dem internationale Käufer auf lokale Produzenten treffen. Die Diamantenförderung hat der Region zu erheblichem Wohlstand verholfen, stellt sie aber auch vor Herausforderungen bezüglich der Transparenz und der ökologischen Folgen des weitflächigen Schürfens in Flussbetten. Geographie K7 — Edelsteinressourcen und informeller Sektor."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der guineischen Diamantenproduktion in Kérouané.", "Reichste alluviale Diamantenvorkommen Westafrikas.", "Sitz des bedeutenden Diamantenzentrums Banankoro.", "Zusammenwirken von industriellem und handwerklichem Bergbau.", "Wichtiger Standort für den internationalen Edelsteinhandel.", "Sichert den Lebensunterhalt für Tausende von Familien.", "Geprägt von intensiver Schürftätigkeit entlang der Flusssysteme.", "Bedeutender Beitrag zum Deviseneinkommen des Landes."]
+    }
+  },
   {
     id: "kalksteinwerk-sougueta-economic-v2",
     type: "industry",
@@ -536,7 +585,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Fontos építőanyag-beszállító", "Kindia régióban található", "Az építőipar kiszolgálása"],
       ro: ["Furnizor important de materiale de construcții", "În regiunea Kindia", "Aprovizionarea industriei construcțiilor"],
       en: ["Key construction material supplier", "In Kindia region", "Serving the construction industry"]
-    }, image: "/poi-images/kalksteinwerk-sougueta-economic-v2.webp"},
+    }, image: "/poi-images/kalksteinwerk-sougueta-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kalksteinwerk Souguéta in der Präfektur Kindia ist eine der wichtigsten Anlagen für die Produktion von Baustoffen in Guinea. Es nutzt die massiven lokalen Kalksteinvorkommen, um Kalk für die Landwirtschaft, die Bauindustrie und die Wasseraufbereitung herzustellen. Das Werk ist ein Paradebeispiel für die industrielle Nutzung nicht-metallischer Rohstoffe zur Unterstützung der nationalen Entwicklung. Aufgrund seiner Lage an der Hauptverkehrsachse Conakry-Mamou ist es logistisch bestens angebunden und versorgt Baustellen im ganzen Land. Die Anlage trägt zur Reduzierung von Importen bei und stärkt die guineische Eigenständigkeit im Bausektor. Souguéta ist zudem ein wichtiger Arbeitgeber für die lokale Bevölkerung am Rande des Fouta-Djallon-Hochlands. Geographie K6 — Industrielle Baustoffgewinnung."
+    },
+    factsAdvanced: {
+      de: ["Hauptproduzent von Kalksteinprodukten in Niederguinea.", "Strategische Lage an der Nationalstraße N1 bei Kindia.", "Wichtiger Zulieferer für den Straßenbau und die Bauwirtschaft.", "Modernisierte Verarbeitungsanlage zur Steigerung der Kapazität.", "Nutzt großflächige, hochwertige Kalksteinbrüche vor Ort.", "Sichert die nationale Versorgung mit wichtigen Industrierohstoffen.", "Bedeutender Beitrag zur lokalen Wertschöpfung.", "Arbeitgeber für Hunderte von Fachkräften aus der Region."]
+    }
+  },
   {
     id: "zementwerk-conakry-economic-v2",
     type: "industry",
@@ -559,7 +615,14 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Vezető cementgyártó", "Conakry ipari negyedében", "Fontos az infrastruktúra számára"],
       ro: ["Producător lider de ciment", "Zona industrială Conakry", "Important pentru infrastructură"],
       en: ["Leading cement producer", "Conakry industrial zone", "Vital for infrastructure"]
-    }, image: "/poi-images/zementwerk-conakry-economic-v2.webp"},
+    }, image: "/poi-images/zementwerk-conakry-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Werk von Ciments de Guinée in Conakry ist der führende Produzent von Baustoffen des Landes und ein Pfeiler der nationalen Infrastrukturentwicklung. Die Fabrik liegt strategisch günstig im Industriegebiet der Hauptstadt, was den schnellen Import von Klinker über den Hafen und die Distribution des fertigen Zements im ganzen Land ermöglicht. Mit einer hohen Produktionskapazität deckt das Werk den Großteil des guineischen Zementbedarfs, der durch den anhaltenden Bauboom in den Städten und bei großen Infrastrukturprojekten stetig steigt. Die Anlage setzt moderne Standards in der Produktion und Logistik und ist ein Symbol für das industrielle Wachstum Guineas. Das Werk ist unverzichtbar für die Realisierung von Wohnungsbauprogrammen und Kraftwerksprojekten. Geographie K8 — Industriebau und Urbanisierung."
+    },
+    factsAdvanced: {
+      de: ["Größte und modernste Zementfabrik in Guinea.", "Zentrale Lage im Industriehafen-Viertel von Conakry.", "Hauptlieferant für nationale Megaprojekte (Dämme, Brücken).", "Hohe jährliche Produktionskapazität von über einer Million Tonnen.", "Wichtiger Arbeitgeber in der Hauptstadtregion.", "Setzt auf modernste Filtertechnik zur Emissionsreduzierung.", "Rückgrat der guineischen Bauindustrie und Stadtentwicklung.", "Effiziente Anbindung an die nationalen Distributionskanäle."]
+    }
+  },
   {
     id: "bauxitmine-koumbia-economic-v2",
     type: "industry",
@@ -582,6 +645,12 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Új bányászati projekt", "Nagy termelési kapacitás", "Csatlakozás a bokéi folyosóhoz"],
       ro: ["Proiect minier nou", "Capacitate mare de producție", "Conectat la coridorul Boké"],
       en: ["New mining project", "High production capacity", "Connected to the Boké corridor"]
+    },
+    descriptionAdvanced: {
+      de: "Die Koumbia-Bauxitmine in der Präfektur Gaoual ist eines der neuesten Großprojekte im guineischen Bergbausektor und Teil der massiven Expansionsstrategie des Landes. Das Projekt wird von Alliance Mining Commodities (AMC) entwickelt und erschließt eine Region, die bisher weniger industriell geprägt war. Koumbia verfügt über riesige Reserven an erstklassigem Bauxit, die über eine neue Logistikinfrastruktur zum Atlantik transportiert werden sollen. Die Mine ist ein Symbol für die Dezentralisierung des Bergbaubooms weg vom klassischen Zentrum in Boké hin zu neuen Regionen im Nordwesten. Das Projekt verspricht der bisher vernachlässigten Präfektur Gaoual wirtschaftlichen Aufschwung und modernisierte Infrastruktur. Geographie K8 — Expansion der Rohstoffförderung."
+    },
+    factsAdvanced: {
+      de: ["Großangelegtes neues Bauxitprojekt in der Präfektur Gaoual.", "Riesige Reserven mit hohem Aluminiumgehalt.", "Teil der strategischen Erschließung Nordwest-Guineas.", "Umfangreiche Planungen für neue Transportwege zur Küste.", "Wichtiger Impuls für die Regionalentwicklung in Gaoual.", "Joint Venture mit internationaler Beteiligung (AMC).", "Einsatz modernster Explorationstechniken.", "Langfristig angelegter Tagebaubetrieb mit hoher Kapazität."]
     }
   }
 ];

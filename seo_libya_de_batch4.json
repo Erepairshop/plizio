@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sharara-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Sharara-Ölfeld liegt im produktiven Murzuq-Becken in der südwestlichen Wüste Libyens und ist das größte Ölfeld des Landes. Die immense Produktionskapazität von rund 300.000 Barrel pro Tag macht es zu einer entscheidenden Säule der libyschen Wirtschaft und zu einem geopolitischen Schwerpunkt. Geografie K8 — Energieressourcen.",
+      "factsAdvanced": [
+        "Größtes Ölfeld in Libyen",
+        "Gelegen im Murzuq-Becken im Südwesten",
+        "Produktionskapazität von ca. 300.000 Barrel/Tag",
+        "Betrieben als Joint Venture (Akakus Oil)",
+        "Zentral für die libysche Staatswirtschaft",
+        "Oft von Streiks und Blockaden betroffen"
+      ]
+    },
+    {
+      "id": "el-feel-oil-field-economic-v2",
+      "descriptionAdvanced": "Das El Feel-Ölfeld, wörtlich das 'Elefanten-Ölfeld', ist ein weiteres riesiges Erdölvorkommen im Murzuq-Becken tief in der Sahara. Es wird als Joint Venture zwischen der libyschen NOC und der italienischen Eni betrieben und liefert erhebliche Mengen Öl, das per Pipeline zur Küste gepumpt wird. Geografie K8 — Globale Rohstoffmärkte.",
+      "factsAdvanced": [
+        "Großes Ölfeld im Murzuq-Becken",
+        "Wörtlich übersetzt 'Elefanten-Ölfeld'",
+        "Joint Venture zwischen NOC und Eni",
+        "Täglich über 70.000 Barrel Kapazität",
+        "Wichtig für Exporte nach Europa",
+        "Extrem isolierte Lage in der Wüste"
+      ]
+    },
+    {
+      "id": "waha-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Waha-Ölfeld ist ein weitläufiges und historisch extrem wichtiges Fördergebiet im Sirte-Becken, dem ertragreichsten Erdölbecken Libyens. Die geförderten Mengen werden größtenteils zum massiven Es Sider Ölterminal an der Mittelmeerküste transportiert, um dort verschifft zu werden. Geografie K8 — Rohstoffketten.",
+      "factsAdvanced": [
+        "Befindet sich im fruchtbaren Sirte-Becken",
+        "Betrieben von der Waha Oil Company",
+        "Öl fließt direkt zum Es Sider Terminal",
+        "Eines der ältesten produzierenden Felder",
+        "Wichtiger Beitrag zur libyschen Wirtschaft",
+        "Produziert begehrtes, leichtes Rohöl"
+      ]
+    },
+    {
+      "id": "zelten-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Zelten-Ölfeld, oft auch Nasser-Feld genannt, war der Ort der ersten wirklich massiven Erdölfunde in Libyen im Jahr 1959. Diese historische Entdeckung im Sirte-Becken transformierte Libyen fast über Nacht von einer armen Agrargesellschaft zu einem der wichtigsten Erdölproduzenten der Welt. Geschichte K8 — Wirtschaftsgeschichte.",
+      "factsAdvanced": [
+        "Ort des ersten großen Ölfundes in Libyen (1959)",
+        "Transformierte die Wirtschaft des Landes",
+        "Gelegen im Sirte-Becken",
+        "Auch bekannt als Nasser-Ölfeld",
+        "Fördert hauptsächlich süßes, leichtes Rohöl",
+        "Öl wird nach Marsa el Brega gepumpt"
+      ]
+    },
+    {
+      "id": "sarir-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Sarir-Ölfeld ist flächenmäßig eines der größten Ölfelder Nordafrikas und befindet sich im östlichen Sirte-Becken. Entdeckt in den frühen 1960er Jahren, produzierte es auf seinem Höhepunkt enorme Mengen Rohöl, die über Pipelines zum Hafen von Tobruk am Mittelmeer exportiert wurden. Geografie K8 — Öl-Extraktion.",
+      "factsAdvanced": [
+        "Eines der größten Ölfelder Nordafrikas",
+        "Gelegen im östlichen Sirte-Becken",
+        "Entdeckt im Jahr 1961",
+        "Öl wird zum Hafen von Tobruk geleitet",
+        "Historisch gigantische Fördermengen",
+        "Betrieben von der Arabian Gulf Oil Company"
+      ]
+    },
+    {
+      "id": "bouri-offshore-field-economic-v2",
+      "descriptionAdvanced": "Das Bouri Offshore-Feld liegt im Mittelmeer, nördlich der libyschen Küste, und ist das größte in Produktion befindliche Offshore-Ölfeld im gesamten Mittelmeerraum. Die enormen Plattformen fördern Öl aus tiefen Gewässern und demonstrieren die technische Komplexität der libyschen Erdölindustrie. Geografie K8 — Offshore-Ökonomie.",
+      "factsAdvanced": [
+        "Größtes Offshore-Ölfeld im Mittelmeer",
+        "Entdeckt im Jahr 1976",
+        "Liegt nordwestlich der Küste von Tripolis",
+        "Block 38 Offshore",
+        "Betrieben von Eni und NOC",
+        "Förderung durch riesige Bohrplattformen"
+      ]
+    },
+    {
+      "id": "al-jurf-offshore-field-economic-v2",
+      "descriptionAdvanced": "Das Al Jurf Offshore-Feld liegt im offenen Meer nahe der Seegrenze zwischen Libyen und Tunesien. Die Produktion erfolgt unter schwierigen maritimen Bedingungen durch moderne FPSO-Schiffe (Floating Production Storage and Offloading), die das Rohöl direkt auf dem Meer aufnehmen und verarbeiten. Geografie K8 — Maritime Technologie.",
+      "factsAdvanced": [
+        "Offshore-Ölfeld nahe der tunesischen Grenze",
+        "Nutzt moderne FPSO-Schiffe zur Verladung",
+        "Block C des libyschen Offshore-Gebiets",
+        "Wichtiger Beitrag zur Offshore-Produktion",
+        "Fernab der von Konflikten betroffenen Festland-Felder",
+        "Betrieben von Mabruk Oil Operations"
+      ]
+    },
+    {
+      "id": "mabruk-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Mabruk-Ölfeld befindet sich in der zentralen Sirte-Wüste und ist ein wichtiges mittelgroßes Produktionsgebiet. In den letzten Jahren erlebte das Feld schwere Zerstörungen durch Sabotage während des Bürgerkriegs, weshalb massive Investitionen für den Wiederaufbau der Förderanlagen nötig waren. Geschichte K8 — Infrastruktur im Krieg.",
+      "factsAdvanced": [
+        "Ölfeld im Sirte-Becken",
+        "Wurde im Bürgerkrieg schwer beschädigt",
+        "Aufwendige Wiederaufbauarbeiten nötig",
+        "Betrieben von Mabruk Oil Operations",
+        "Gemeinschaftsprojekt mit TotalEnergies",
+        "Beispiel für die Verwundbarkeit der Industrie"
+      ]
+    },
+    {
+      "id": "amal-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Amal-Feld im Sirte-Becken zeichnet sich durch seine extrem komplexe Geologie und tiefe Ölreservoirs aus. Trotz der technischen Herausforderungen bei der Förderung liefert das Feld kontinuierlich große Mengen an leichtem, hochwertigem Rohöl, das an der Küste von Ras Lanuf exportiert wird. Geografie K8 — Erdölgeologie.",
+      "factsAdvanced": [
+        "Liegt im Sirte-Becken",
+        "Bekannt für komplexe geologische Strukturen",
+        "Fördert leichtes, süßes Rohöl",
+        "Öl fließt zum Hafen Ras Lanuf",
+        "Betrieben von Harouge Oil Operations",
+        "Eines der älteren, stabilen Förderfelder"
+      ]
+    },
+    {
+      "id": "nafoora-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Nafoora-Ölfeld ist ein bedeutendes Cluster von Förderanlagen im östlichen Sirte-Becken, nahe der Oase Jalu. Die Anlagen sind tief in der Wüste isoliert, tragen jedoch maßgeblich zur nationalen Förderung bei und stützen sich stark auf die Logistik- und Wasserinfrastruktur der nahen Oasen. Geografie K8 — Wüstenindustrie.",
+      "factsAdvanced": [
+        "Bedeutendes Ölfeld im östlichen Sirte-Becken",
+        "Liegt in der Nähe der Oase Jalu",
+        "Betrieben von der Arabian Gulf Oil Company",
+        "Verfügt über ein weites Pipelinenetz",
+        "Fördert Öl und assoziiertes Gas",
+        "Stark abhänging von logistischen Zentren"
+      ]
+    },
+    {
+      "id": "messla-oil-field-economic-v2",
+      "descriptionAdvanced": "Das Messla-Ölfeld im tiefen Südosten Libyens wurde vergleichsweise spät entdeckt, entwickelte sich aber schnell zu einem der wichtigsten Felder des Landes. Das hier geförderte Rohöl wird über Hunderte von Kilometern nach Norden gepumpt und bildet eine tragende Säule der Produktion der Arabian Gulf Oil Company (AGOCO). Geografie K8 — Pipelinenetzwerke.",
+      "factsAdvanced": [
+        "Wichtiges Ölfeld im Südosten Libyens",
+        "Entdeckt in den späten 1970er Jahren",
+        "Betrieben von AGOCO",
+        "Hauptversorger für das Terminal Tobruk",
+        "Produziert große Mengen an Rohöl",
+        "Extrem isoliert in der Sandwüste"
+      ]
+    },
+    {
+      "id": "abu-attifel-oil-field-economic-v2",
+      "descriptionAdvanced": "Abu Attifel ist das erste libysche Ölfeld, das vom italienischen Energieriesen Eni entdeckt wurde. Es befindet sich tief im Sirte-Becken und ist bekannt für sein charakteristisches 'wachshaltiges' Rohöl, das beim Transport spezielle beheizte Pipelines erfordert, um nicht in den Leitungen zu erstarren. Geografie K8 — Chemische Eigenschaften von Rohstoffen.",
+      "factsAdvanced": [
+        "Erstes von Eni in Libyen entdecktes Feld (1960)",
+        "Liegt in der östlichen Sahara",
+        "Fördert stark wachshaltiges Rohöl",
+        "Erfordert beheizte Pipelines zum Transport",
+        "Bedeutendes Joint-Venture-Projekt",
+        "Wichtiges Zentrum für assoziiertes Gas"
+      ]
+    },
+    {
+      "id": "zawiya-refinery-economic-v2",
+      "descriptionAdvanced": "Die Ölraffinerie in Zawiya ist die mit Abstand größte und wichtigste Raffinerie im Westen Libyens. Sie deckt einen Großteil des enormen inländischen Treibstoffbedarfs, insbesondere für die Metropolregion Tripolis, weshalb die Kontrolle über die Anlage oft im Zentrum politischer und militärischer Machtkämpfe stand. Geografie K8 — Energieversorgung.",
+      "factsAdvanced": [
+        "Größte aktive Ölraffinerie in Westlibyen",
+        "Kapazität von 120.000 Barrel pro Tag",
+        "Hauptversorger für die Region Tripolis",
+        "Produziert Benzin, Diesel und Kerosin",
+        "Strategische Bedeutung für den Binnenmarkt",
+        "Direkt mit dem Hafen von Zawiya verbunden"
+      ]
+    },
+    {
+      "id": "ras-lanuf-refinery-economic-v2",
+      "descriptionAdvanced": "Die Ras Lanuf Raffinerie ist ein gewaltiger petrochemischer Komplex am Golf von Sidra, der ursprünglich für den Export von veredelten Produkten konzipiert wurde. Trotz ihrer enormen Kapazität von über 200.000 Barrel am Tag war die Anlage aufgrund von Wartungsproblemen und Konflikten in den letzten Jahren oft nur eingeschränkt in Betrieb. Geografie K8 — Industrielle Herausforderungen.",
+      "factsAdvanced": [
+        "Größte Ölraffinerie Libyens nach Kapazität",
+        "Theoretisch über 200.000 Barrel pro Tag",
+        "Teil eines riesigen petrochemischen Komplexes",
+        "Gelegen am strategischen Golf von Sidra",
+        "Fokus auf Export raffinierter Erdölprodukte",
+        "Häufige Produktionsausfälle seit 2011"
+      ]
+    },
+    {
+      "id": "lisco-misrata-steel-economic-v2",
+      "descriptionAdvanced": "Die Libyan Iron and Steel Company (LISCO) in Misrata ist einer der größten nicht-ölbezogenen Industriebetriebe Nordafrikas. Das riesige, direkt am Meer gelegene Werk produziert Millionen Tonnen Eisen und Stahl, die sowohl für den Wiederaufbau der heimischen Infrastruktur als auch für den Export essenziell sind. Geografie K8 — Schwerindustrie.",
+      "factsAdvanced": [
+        "Größtes Eisen- und Stahlwerk in Libyen",
+        "Eines der größten in Nordafrika",
+        "Ansässig in der Freihandelszone von Misrata",
+        "Wichtigste Industrie außerhalb des Ölsektors",
+        "Großer Arbeitgeber in der Region",
+        "Produktion von Walzstahl und Eisen"
+      ]
+    },
+    {
+      "id": "zliten-cement-plant-economic-v2",
+      "descriptionAdvanced": "Das Zementwerk in Zliten ist ein massiver Industriekomplex und ein wesentlicher Lieferant für Baumaterial in Libyen. Aufgrund des massiven nationalen Bedarfs an Zement für den Wiederaufbau nach den Konflikten arbeitet das Werk an seiner Kapazitätsgrenze und nutzt die reichen Kalksteinvorkommen der Region. Geografie K8 — Baumaterialien und Wiederaufbau.",
+      "factsAdvanced": [
+        "Riesige Zementproduktionsanlage",
+        "Zentraler Lieferant für den Wiederaufbau Libyens",
+        "Gelegen in der Küstenstadt Zliten",
+        "Nutzt lokale Kalksteinvorkommen",
+        "Produziert Millionen Tonnen Zement jährlich",
+        "Wichtige Einnahmequelle für die Gemeinde"
+      ]
+    },
+    {
+      "id": "mellitah-gas-plant-economic-v2",
+      "descriptionAdvanced": "Die Mellitah Gas Plant ist eine der modernsten industriellen Verarbeitungsanlagen Afrikas, gelegen westlich von Sabratha. Sie reinigt und komprimiert das aus der Wüste und aus dem Meer gewonnene Erdgas, um es in die 520 Kilometer lange Greenstream-Unterseepipeline nach Sizilien zu pressen. Geografie K8 — Transnationale Energieflüsse.",
+      "factsAdvanced": [
+        "Zentrum der libyschen Erdgasaufbereitung",
+        "Ausgangspunkt der Greenstream-Pipeline",
+        "Verarbeitet Onshore- und Offshore-Gas",
+        "Joint Venture (Mellitah Oil & Gas)",
+        "Direkter Exportmarkt ist Italien",
+        "Liegt westlich der Küstenstadt Sabratha"
+      ]
+    },
+    {
+      "id": "khoms-power-plant-economic-v2",
+      "descriptionAdvanced": "Das Kraftwerk Khoms ist eine der zentralen Anlagen zur Stromerzeugung an der libyschen Mittelmeerküste. Es verbrennt Erdgas und Heizöl, um das nationale Stromnetz zu stabilisieren, hat jedoch wie viele andere Anlagen des Landes mit veralteter Infrastruktur und den Folgen jahrelanger Vernachlässigung zu kämpfen. Geografie K8 — Energieinfrastruktur.",
+      "factsAdvanced": [
+        "Wichtiges Kraftwerk für das nationale Stromnetz",
+        "Gelegen an der Küste in Al Khums",
+        "Kann mit Gas und Öl betrieben werden",
+        "Kampf mit ständigen Stromausfällen im Netz",
+        "Benötigt massive internationale Investitionen",
+        "Strategisch wichtige Infrastruktur"
+      ]
+    },
+    {
+      "id": "ly-leptis-magna-history-v2",
+      "descriptionAdvanced": "Leptis Magna gilt als eine der am besten erhaltenen antiken römischen Städte der Welt, deren monumentale Ruinen direkt am Mittelmeer liegen. Als Geburtsort des Kaisers Septimius Severus wurde sie prachtvoll mit Amphitheatern, riesigen Thermen und Triumphbögen ausgebaut und gehört heute zum UNESCO-Weltkulturerbe. Geschichte K7 — Römisches Kaiserreich.",
+      "factsAdvanced": [
+        "Eine der best-erhaltenen Römerstädte weltweit",
+        "UNESCO-Weltkulturerbe seit 1982",
+        "Geburtsort des römischen Kaisers Septimius Severus",
+        "Verfügt über ein riesiges Amphitheater und Thermen",
+        "Liegt an der Küste nahe der Stadt Khoms",
+        "Spektakuläre Bögen und Mosaike erhalten"
+      ]
+    },
+    {
+      "id": "ly-sabratha-history-v2",
+      "descriptionAdvanced": "Die archäologische Stätte von Sabratha fasziniert Besucher mit ihrem majestätischen römischen Theater, dessen dreistöckige Bühnenwand direkt vor dem azurblauen Mittelmeer aufragt. Die Stadt war ursprünglich ein phönizischer Handelsposten, bevor sie unter römischer Herrschaft florierte und durch den Handel mit afrikanischen Tieren reich wurde. Geschichte K7 — Antiker Handel.",
+      "factsAdvanced": [
+        "Ehemaliger phönizischer Handelsposten",
+        "Weltberühmtes dreistöckiges römisches Theater",
+        "UNESCO-Weltkulturerbe",
+        "Wichtiger Umschlagplatz für exotische Tiere im alten Rom",
+        "Wunderschöne byzantinische und römische Mosaike",
+        "Liegt direkt am Mittelmeerstrand"
+      ]
+    }
+  ]
+}

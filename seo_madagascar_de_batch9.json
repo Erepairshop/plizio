@@ -1,0 +1,310 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mangoro-river-nature-v2",
+      "descriptionAdvanced": "Der Mangoro-Fluss ist einer der wichtigsten Flüsse der madagassischen Ostküste. Er entspringt im zentralen Hochland und durchschneidet die steile östliche Abbruchkante (die Falaise) in tiefen, unzugänglichen Schluchten, bevor er südlich von Mahanoro in den Indischen Ozean mündet. Wegen seines starken Gefälles und der ganzjährigen hohen Niederschläge im Einzugsgebiet führt der Fluss gewaltige Wassermassen. Der Mangoro ist bekannt für seine starken Stromschnellen, die ihn zu einem beliebten, aber gefährlichen Revier für extremes Wildwasser-Rafting machen. Geografie K6 — Flusssysteme der Ostküste.",
+      "factsAdvanced": [
+        "Einer der wasserreichsten Flüsse an der Ostküste Madagaskars",
+        "Entspringt im zentralen Hochland und mündet bei Mahanoro in den Ozean",
+        "Durchschneidet die Ostküstenberge in tiefen, steilen Schluchten",
+        "Berüchtigt für extreme Stromschnellen und unberechenbare Wasserstände",
+        "Ein beliebtes Revier für professionelles Wildwasser-Rafting",
+        "Führt wegen der Regenwälder weniger lateritroten Schlamm als Flüsse im Westen"
+      ]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "descriptionAdvanced": "Nosy Mitsio ist die Hauptinsel des gleichnamigen Archipels im äußersten Nordwesten Madagaskars. Die Natur hier ist geprägt von vulkanischen Basaltfelsen, einsamen Traumstränden und einer extrem reichen Unterwasserwelt. Eine der markantesten geologischen Besonderheiten der Inselgruppe sind «Les Orgues», gigantische, geometrisch perfekte Basaltsäulen, die wie riesige Orgelpfeifen aus dem Meer ragen. Die Insel ist von tiefem, klarem Wasser umgeben, was sie zu einem perfekten Rückzugsort für Delfine, Walhaie und Meeresschildkröten macht. Geografie K7 — Vulkanische Geologie und Meeresfauna.",
+      "factsAdvanced": [
+        "Hauptinsel des isolierten Mitsio-Archipels im Indischen Ozean",
+        "Berühmt für die «Les Orgues» (Basaltorgeln) aus sechseckigen Säulen",
+        "Insel ist vulkanischen Ursprungs und größtenteils bewaldet",
+        "Extrem isoliert, was die Unterwasserwelt vor Überfischung schützt",
+        "Wichtiger Lebensraum für Meeresschildkröten und wandernde Walhaie",
+        "Nur per Boot von Nosy Be oder dem Festland aus erreichbar"
+      ]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "descriptionAdvanced": "Der Montagne d'Ambre (Amber-Berg) ist ein isoliertes, vulkanisches Bergmassiv nahe Antsiranana im Norden Madagaskars. Er ragt wie eine grüne Insel aus den trockenen Baobab-Savannen der Umgebung hervor. Aufgrund seiner Höhe von fast 1.500 Metern fängt er die Wolken ein und ist von einem dichten, üppigen Bergregenwald bedeckt, der sein eigenes Mikroklima schafft. Der Park ist berühmt für seine spektakulären Wasserfälle, tiefen Kraterseen und eine enorme Dichte an Chamäleons, darunter das winzige Brookesia-Chamäleon. Er liefert zudem das Trinkwasser für die gesamte Nordregion. Biologie K8 — Mikroklima und Vulkanberge.",
+      "factsAdvanced": [
+        "Isoliertes, vulkanisches Bergmassiv im trockenen Norden Madagaskars",
+        "Erzeugt sein eigenes feuchtes Mikroklima und fängt Regenwolken ab",
+        "Beherbergt dichten Bergregenwald, Wasserfälle und alte Kraterseen",
+        "Lebensraum des winzigen, bodenlebenden Brookesia-Chamäleons",
+        "Wichtigstes Trinkwasser-Reservoir für die Großstadt Antsiranana",
+        "Name (Bernstein-Berg) stammt angeblich von bernsteinfarbenem Harz lokaler Bäume"
+      ]
+    },
+    {
+      "id": "baie-de-bombetoka-nature-v2",
+      "descriptionAdvanced": "Die Baie de Bombetoka ist das Mündungsgebiet des Betsiboka-Flusses an der Nordwestküste, nahe Mahajanga. Aus der Luft bietet die Bucht einen spektakulären Anblick: Das tiefrote, laterithaltige Flusswasser verästelt sich in ein Labyrinth aus smaragdgrünen Mangroveninseln und gelben Sandbänken, bevor es in den blauen Mosambik-Kanal fließt. Die riesigen Mangrovenwälder dienen unzähligen Krebstieren, Fischen und Wasservögeln als Kinderstube. Das Ökosystem ist von entscheidender Bedeutung für die madagassische Krabbenfischerei, ist jedoch stark durch die rasch voranschreitende Verlandung bedroht. Geografie K7 — Ästuare und Mangroven.",
+      "factsAdvanced": [
+        "Riesige Bucht und Mündungsgebiet des roten Betsiboka-Flusses",
+        "Spektakulärer Farbkontrast aus rotem Wasser und grünen Mangroven",
+        "Eines der wichtigsten Mangroven-Ökosysteme Madagaskars",
+        "Zentrale «Kinderstube» für die lukrative Garnelen- und Krabbenfischerei",
+        "Heimat von zahlreichen seltenen Watvögeln und Reihern",
+        "Massiv bedroht durch fortschreitende Verlandung (Erosion im Hochland)"
+      ]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "descriptionAdvanced": "Der Anivorano-See (Lac Antanavo), südlich von Antsiranana, ist ein See vulkanischen Ursprungs mit einer tiefen kulturellen Bedeutung. Einer lokalen Legende nach war hier einst ein Dorf, dessen unbarmherzige Bewohner von einem Zauberer bestraft wurden, indem er das Dorf überflutete und die Menschen in Krokodile verwandelte. Aus diesem Grund gelten die massiven Nilkrokodile im See der lokalen Antakarana-Bevölkerung als reinkarnierte Ahnen. Sie sind streng fady (tabu) zu jagen und werden bei traditionellen Zeremonien sogar mit Zebu-Fleisch gefüttert, worauf sie zahm ans Ufer kommen. Anthropologie K6 — Heilige Seen und Tiertabus.",
+      "factsAdvanced": [
+        "Vulkanischer See in der Nähe von Antsiranana im Norden",
+        "Berühmt für seine Population extrem zutraulicher Nilkrokodile",
+        "Krokodile gelten bei den Antakarana als reinkarnierte menschliche Ahnen",
+        "Das Töten der Krokodile ist durch starke Tabus (Fady) streng verboten",
+        "Tiere werden bei Ritualen oft von Hand mit Zebu-Fleisch gefüttert",
+        "Der madagassische Name Lac Antanavo bedeutet oft Heiliger See"
+      ]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "descriptionAdvanced": "Die Natur von Nosy Tanikely (übersetzt die «Insel der kleinen Erde») ist der Inbegriff eines marinen Paradieses. Die winzige Insel südlich von Nosy Be hat selbst keine großen Wälder oder Süßwasserquellen, doch ihr wahrer Schatz liegt unter der Wasseroberfläche. Umgeben von flachen, leicht zugänglichen Korallengärten, ist die Insel ein wichtiges Schutzgebiet für Karettschildkröten und Grüne Meeresschildkröten, die hier oft zwischen dichten Schwärmen von Fledermausfischen und Süßlippen grasen. Strenge Anker- und Fischereiverbote haben die Korallen vor Zerstörung gerettet. Biologie K6 — Unterwasserschutzgebiete.",
+      "factsAdvanced": [
+        "Kleine Vulkaninsel, deren Wert fast ausschließlich im Korallenriff liegt",
+        "Eines der erfolgreichsten marinen Schutzgebiete (Marine Park) des Landes",
+        "Exzellenter Lebensraum für Suppenschildkröten und Karettschildkröten",
+        "Strenge Fischereiverbote haben eine extrem hohe Fischdichte erhalten",
+        "Ankern von Booten ist zum Schutz der Korallen strengstens untersagt",
+        "Ein altes Leuchtturmwärter-Haus markiert den höchsten Punkt der Insel"
+      ]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "descriptionAdvanced": "Das Makay-Massiv im mittleren Westen ist eines der isoliertesten und am wenigsten erforschten Naturgebiete Madagaskars. Es besteht aus gigantischen, leuchtend gelben Sandsteinblöcken, die von einem Labyrinth aus extrem tiefen, unzugänglichen Schluchten durchzogen sind. Diese Canyons, in denen das ganze Jahr über Wasser fließt, haben völlig isolierte Mikroklimata geschaffen, in denen Pflanzen- und Tierarten über Jahrtausende von der Außenwelt abgeschnitten waren. Erst in jüngster Zeit haben wissenschaftliche Expeditionen das Massiv betreten und sofort Dutzende neuer, endemischer Arten entdeckt. Geografie K8 — Sandsteinlabyrinthe und unentdeckte Arten.",
+      "factsAdvanced": [
+        "Extrem isoliertes Sandsteinmassiv im zentral-westlichen Madagaskar",
+        "Besteht aus tiefen, wasserführenden Schluchten und riesigen Felsplateaus",
+        "Canyons fungieren als isolierte «Tresore» der Evolution (Mikro-Habitate)",
+        "Gilt als eine der letzten großen «weißen Flecken» der wissenschaftlichen Landkarte",
+        "Wurde erst im 21. Jahrhundert systematisch durch Expeditionen erforscht",
+        "Zahlreiche neue Primaten-, Insekten- und Pflanzenarten wurden hier entdeckt"
+      ]
+    },
+    {
+      "id": "tsaratanana-massif-relief-v2",
+      "descriptionAdvanced": "Das Tsaratanana-Massiv ist der höchste und mächtigste Gebirgszug Madagaskars. Es befindet sich im abgelegenen Norden der Insel. Das Massiv ist vulkanischen Ursprungs und formt eine riesige, schwer durchdringliche Festung aus dichtem Regenwald und steilen Basaltfelsen. Das Relief ist durch tiefe, V-förmige Täler gekennzeichnet, die von extrem starken Niederschlägen gewaschen wurden. Dieses komplexe Bergrelief fängt die Wolken vom Indischen Ozean ab und ist die Hauptquelle der meisten großen Flüsse im Norden und Nordwesten Madagaskars. Geografie K7 — Vulkanische Hochgebirge.",
+      "factsAdvanced": [
+        "Das höchste zusammenhängende Gebirgsmassiv der gesamten Insel",
+        "Geologisch vulkanischen Ursprungs (Basalt und andere Eruptivgesteine)",
+        "Bildet ein massives, steiles Relief mit tief eingeschnittenen Tälern",
+        "Wirkt als gewaltige klimatische Barriere und Wasserscheide",
+        "Landschaft ist fast vollständig von dichtem, unzugänglichem Wald bedeckt",
+        "Extrem schwer zugänglich, weshalb es lange ein Rückzugsort für Rebellen war"
+      ]
+    },
+    {
+      "id": "maromokotro-peak-relief-v2",
+      "descriptionAdvanced": "Der Maromokotro ist mit 2.876 Metern der höchste Berg Madagaskars und liegt zentral im Tsaratanana-Massiv. Sein Gipfel ist kein spitzer Bergsteiger-Traum, sondern eher ein abgerundeter, vulkanischer Kegel, der oft von dichten Wolken und Nebel umhüllt ist. Aufgrund des rauen Terrains und des fehlenden Wegenetzes gibt es kaum Expeditionen, die den Gipfel erreichen. Das Relief an den Flanken ist extrem zerklüftet. In den madagassischen Wintermonaten können die Temperaturen auf dem Gipfel unter den Gefrierpunkt fallen. Geografie K6 — Höchste Erhebungen und Extremklima.",
+      "factsAdvanced": [
+        "Mit 2.876 Metern der höchste Berg Madagaskars",
+        "Gelegen tief im unzugänglichen Tsaratanana-Bergmassiv im Norden",
+        "Gipfel besteht aus vulkanischem Gestein und ist oft in Nebel gehüllt",
+        "Temperatur auf dem Gipfel kann im Südwinter unter 0°C fallen",
+        "Keine ausgebauten Wege vorhanden; Besteigung erfordert lange Expedition",
+        "Gilt bei den umliegenden ethnischen Gruppen als heiliger Ort (Fady)"
+      ]
+    },
+    {
+      "id": "ankaratra-mountains-relief-v2",
+      "descriptionAdvanced": "Die Ankaratra-Berge bilden das Rückgrat des zentralen Hochlandes, südlich von Antananarivo. Es handelt sich um ein massives, erloschenes Vulkanmassiv, das die Landschaft über Hunderte von Kilometern dominiert. Das Relief ist charakterisiert durch abgerundete, karge Grasberge, tiefe Aschekegel und Thermalquellen, die von der einstigen vulkanischen Aktivität zeugen. Die Höhenlage von oft über 2.000 Metern macht die Ankaratra-Region zu einer der kältesten auf Madagaskar. Das Relief ist zudem stark durch menschliche Eingriffe wie Terrassenfeldbau und massive Abholzung geprägt. Geografie K7 — Erloschene Vulkane und Hochplateaus.",
+      "factsAdvanced": [
+        "Erloschenes vulkanisches Gebirgsmassiv im zentralen Hochland",
+        "Dominierendes Reliefmerkmal südlich der Hauptstadt Antananarivo",
+        "Geprägt durch abgerundete Bergrücken und alte Vulkankrater",
+        "Eine der kältesten Regionen des Landes mit regelmäßigem Frost im Winter",
+        "Zahlreiche heiße Thermalquellen (wie in Antsirabe) entspringen dem Massiv",
+        "Große Teile des Massivs sind heute baumlos und von Grasland bedeckt"
+      ]
+    },
+    {
+      "id": "tsiafajavona-peak-relief-v2",
+      "descriptionAdvanced": "Der Tsiafajavona («Dort, wo der Nebel niemals weicht») ist mit 2.643 Metern die dritthöchste Erhebung Madagaskars und der höchste Gipfel der Ankaratra-Berge. Das Relief des Berges ist massiv, aber weniger schroff als die Granitberge im Süden. Der Gipfel ist eine weite, oft von kalten Winden gepeitschte Graslandschaft, aus der gelegentlich dunkle Basaltfelsen ragen. Wanderer und Pilger (der Berg ist eine wichtige Stätte der Ahnenverehrung) kämpfen hier oft mit extremem Nebel und eisigen Temperaturen. Geografie K6 — Vulkanische Gipfel und Höhenwetter.",
+      "factsAdvanced": [
+        "Dritthöchster Gipfel Madagaskars (2.643 m) im Ankaratra-Massiv",
+        "Name bedeutet passend «Dort, wo der Nebel niemals weicht»",
+        "Gipfelregion ist karg, baumlos und oft von starkem Wind gepeitscht",
+        "Klima ist alpin-tropisch mit häufigen Frostnächten im Juli/August",
+        "Wichtiger spiritueller Ort für Opferrituale der Merina-Bevölkerung",
+        "Beliebtes Ziel für Wanderer, die von der Stadt Ambatolampy starten"
+      ]
+    },
+    {
+      "id": "andringitra-massif-relief-v2",
+      "descriptionAdvanced": "Das Andringitra-Massiv im Süden Madagaskars bietet das dramatischste und schroffste Relief der Insel. Es besteht aus riesigen, prätkambrischen Granitblöcken, die durch tektonische Verwerfungen steil nach oben gedrückt wurden. Gigantische vertikale Felswände (Big Walls), die teils fast 1.000 Meter senkrecht abfallen, machen das Massiv zu einem weltweiten Ziel für Extremkletterer. Das Relief wird durch tiefe Gletschertäler durchschnitten, was darauf hindeutet, dass die Region während der letzten Eiszeit vergletschert war. Geografie K8 — Granitmassive und Tektonik.",
+      "factsAdvanced": [
+        "Gewaltiges Gebirgsmassiv aus altem, präkambrischem Granitgestein",
+        "Verfügt über einige der höchsten senkrechten Felswände Afrikas (Big Walls)",
+        "Relief weist Spuren historischer Vergletscherung (Eiszeit) auf",
+        "Landschaft ist durch extreme tektonische Verwerfungen stark zerklüftet",
+        "Beherbergt den zweithöchsten Berg der Insel (Pic Boby)",
+        "Zählt zu den weltweit anspruchsvollsten Zielen für Extrem-Felskletterer"
+      ]
+    },
+    {
+      "id": "pic-boby-relief-v2",
+      "descriptionAdvanced": "Der Pic Boby (offiziell Imarivolanitra) ist mit 2.658 Metern der höchste besteigbare Gipfel Madagaskars und liegt im Andringitra-Massiv. Sein Profil ist von gigantischen, glattgeschliffenen Granitplatten geprägt. Der Aufstieg führt über ein stufenförmiges Relief aus felsigen Hochebenen, das von Bergbächen und kleinen Wasserfällen durchzogen ist. Die Spitze selbst ist ein massiver Felsbrocken, der atemberaubende Ausblicke über die Wolkendecke bis hin zu den Savannen des Südens bietet. Der Berg ist für sein unvorhersehbares Mikroklima berüchtigt. Geografie K6 — Alpinismus in den Tropen.",
+      "factsAdvanced": [
+        "Zweithöchster Berg Madagaskars (2.658 m) im Andringitra-Nationalpark",
+        "Offizieller madagassischer Name lautet Imarivolanitra",
+        "Höchster Gipfel der Insel, der regelmäßig von Touristen bestiegen wird",
+        "Gipfel besteht aus massiven, nackten Granitblöcken",
+        "Relief ist stufenförmig mit weiten alpinen Hochebenen",
+        "Wetter kann extrem schnell umschlagen (Nebel, starker Regen, Frost)"
+      ]
+    },
+    {
+      "id": "bemaraha-plateau-relief-v2",
+      "descriptionAdvanced": "Das Bemaraha-Plateau im Westen ist eines der eindrucksvollsten Karstreliefs der Erde. Das riesige Kalksteinplateau hebt sich wie eine Festung aus der umliegenden Savanne. Im Laufe von Millionen Jahren hat sich Regenwasser durch Schwachstellen im Kalkstein gefressen und das Relief tief zertrennt. Das Ergebnis ist ein Labyrinth aus messerscharfen, bis zu 100 Meter hohen Steinnadeln (Tsingy), tiefen Schluchten, Einsturzdolinen und riesigen unterirdischen Höhlensystemen. Es ist ein Musterbeispiel für fortgeschrittene chemische Verwitterung in den Tropen. Geografie K8 — Karstgeomorphologie.",
+      "factsAdvanced": [
+        "Gigantisches Kalksteinplateau in der westlichen Region Melaky",
+        "Relief besteht aus einem dichten Wald scharfer Steinnadeln (Tsingy)",
+        "Entstanden durch chemische Verwitterung (Auflösung) des Kalksteins durch Regen",
+        "Durchzogen von bis zu 100 Meter tiefen Canyons und Schluchten",
+        "Beherbergt gewaltige, oft unerforschte unterirdische Flusssysteme",
+        "Ein großer Teil des Plateaus ist als UNESCO-Weltnaturerbe geschützt"
+      ]
+    },
+    {
+      "id": "central-highlands-relief-v2",
+      "descriptionAdvanced": "Die zentralen Hochländer (Hautes Terres) bilden das geologische Rückgrat Madagaskars und nehmen einen Großteil der Inselmitte ein. Das Relief ist ein komplexes Mosaik aus abgerundeten, kargen Hügeln, tief eingeschnittenen Tälern und erloschenen Vulkankratern. Die Durchschnittshöhe liegt zwischen 1.000 und 1.500 Metern. Nach Osten bricht das Plateau in der sogenannten «Falaise» extrem steil zum Indischen Ozean ab, während es im Westen sanfter in die Ebenen abfällt. Die intensive rote Farbe des Lateritbodens, oft freigelegt durch Lavaka-Erosion, dominiert die Landschaft. Geografie K6 — Rumpfgebirge und Laterit.",
+      "factsAdvanced": [
+        "Geologisches Herzstück Madagaskars mit Höhen von 1.000 bis 1.500 m",
+        "Bricht im Osten schroff ab (Falaise) und fällt im Westen sanft ab",
+        "Geprägt durch abgerundete Hügelketten (Tanety) und tiefe Täler",
+        "Böden bestehen fast ausschließlich aus eisenreichem, rotem Laterit",
+        "Landschaft ist extrem anfällig für Lavaka (tiefe Erosionsrinnen)",
+        "Beherbergt die am dichtesten besiedelten Regionen der Insel"
+      ]
+    },
+    {
+      "id": "isalo-plateau-relief-v2",
+      "descriptionAdvanced": "Das Isalo-Plateau im südlichen Madagaskar ist ein spektakuläres Relikt aus der Jurazeit. Das Relief besteht aus weichen Sandsteinschichten, die im Laufe von Jahrmillionen durch heftige Regenfälle und Winde skulptiert wurden. Das Ergebnis ist eine Landschaft aus isolierten Tafelbergen (Mesas), tiefen Schluchten, Felstoren und fantastischen Steinformationen, die oft Tiergestalten ähneln. Dieses rissige Sandsteinrelief speichert Grundwasser und ermöglicht die Existenz versteckter grüner Oasen in den tiefen Canyons inmitten der Wüstenlandschaft. Geografie K7 — Sandstein-Verwitterung und Tafelberge.",
+      "factsAdvanced": [
+        "Massives Sandstein-Plateau aus der Jurazeit im Süden Madagaskars",
+        "Relief gleicht einer Westernlandschaft mit Tafelbergen (Mesas) und Schluchten",
+        "Stark geformt durch Wind- und Wassererosion über Millionen Jahre",
+        "Bekannt für kuriose Steinformationen (z.B. «La Reine de l'Isalo»)",
+        "Gestein ist porös und leitet Wasser in die tiefen Canyons ab",
+        "Landschaft ist extrem trocken, felsig und vegetationsarm"
+      ]
+    },
+    {
+      "id": "analavelona-forest-relief-v2",
+      "descriptionAdvanced": "Das Analavelona-Massiv ist ein isolierter, stark bewaldeter Bergzug im ansonsten flachen und trockenen Südwesten Madagaskars (nahe Toliara). Das Relief erhebt sich abrupt als Horst aus der umliegenden Halbwüste. Aufgrund seiner Höhe zwingt das Massiv die spärlichen Wolken zum Abregnen, was die Existenz eines einzigartigen Höhen-Trockenwaldes ermöglicht, der von Quellen und Bächen durchzogen ist. Diese isolierte Gebirgsinsel ist ein heiliger Ort für die lokale Bara-Ethnie und dient als Zufluchtsort für Tiere in der heißen Trockenzeit. Geografie K7 — Inselberge und Orographischer Niederschlag.",
+      "factsAdvanced": [
+        "Isoliertes Gebirgsmassiv (Horst) im trockenen Südwesten",
+        "Erhebt sich markant aus der umliegenden flachen Halbwüste",
+        "Relief zwingt Wolken zum Aufsteigen, was zu lokalem Niederschlag führt",
+        "Beherbergt einen der wenigen intakten Wälder der Atsimo-Andrefana-Region",
+        "Wichtiger Wasserspeicher, der kleine Flüsse in der Wüste speist",
+        "Gilt bei den Bara als heiliger Berg und Zufluchtsort"
+      ]
+    },
+    {
+      "id": "sahafary-forest-relief-v2",
+      "descriptionAdvanced": "Das Sahafary-Plateau liegt im äußersten Norden Madagaskars und ist ein kalksteinbasiertes Relief, das an die berühmten Tsingy erinnert. Es zeichnet sich durch scharfe, zerfurchte Kalksteinblöcke, Risse und flache Höhlen aus. Die Region ist von dichtem Trockenwald überwachsen. Dieses raue, stark strukturierte Relief schützt die dort vorkommende Fauna (wie seltene Lemuren und Reptilien) vor menschlichen Eingriffen, da das Durchqueren der scharfen Felsen extrem beschwerlich ist. Geografisch bildet es einen Übergang zwischen der flachen Küste und dem Montagne d'Ambre. Geografie K6 — Karstplateaus.",
+      "factsAdvanced": [
+        "Zerklüftetes Kalksteinplateau im extremen Norden Madagaskars",
+        "Relief besteht aus scharfen Felskanten und tiefen Rissen",
+        "Schwer durchdringlich, was den lokalen Trockenwald vor Rodung schützt",
+        "Teil der geologischen Übergangszone zum Montagne d'Ambre",
+        "Verfügt über kleine, unterirdische Hohlräume und Karstquellen",
+        "Wichtiger Lebensraum für stark endemische Kriechtiere und Lemuren"
+      ]
+    },
+    {
+      "id": "montagne-dambre-relief-v2",
+      "descriptionAdvanced": "Der Montagne d'Ambre im Norden ist ein stratovulkanisches Massiv mit einem sehr komplexen, sanft ansteigenden Relief, das sich bis auf fast 1.500 Meter erhebt. Die vulkanische Vergangenheit ist an den zahlreichen tiefen Kratern erkennbar, die heute oft als Kraterseen (wie der Lac Grand) existieren. Die basaltischen Böden sind extrem fruchtbar, und das Relief ist von tiefen, durch Erosion entstandenen Tälern durchzogen, in denen spektakuläre Wasserfälle wie der Antomboka-Wasserfall in die Tiefe stürzen. Geografie K6 — Stratovulkane und Kraterseen.",
+      "factsAdvanced": [
+        "Großes, erloschenes Stratovulkan-Massiv im Norden Madagaskars",
+        "Relief ist geprägt von sanften, aber massiven vulkanischen Hängen",
+        "Besitzt zahlreiche tiefe, wassergefüllte Vulkankrater (z.B. Lac Grand)",
+        "Hänge sind von tiefen Tälern und spektakulären Wasserfällen durchschnitten",
+        "Basaltische Struktur macht die Böden extrem fruchtbar",
+        "Höhe des Massivs bewirkt regelmäßige, ergiebige Regenfälle"
+      ]
+    },
+    {
+      "id": "makay-massif-relief-v2",
+      "descriptionAdvanced": "Das Makay-Massiv ist eines der spektakulärsten Sandsteinreliefs des afrikanischen Kontinents. Gelegen im Westen Madagaskars, gleicht die Landschaft aus der Luft einem gigantischen Gehirn. Die weichen Sandsteinschichten wurden im Laufe der Äonen tief eingeschnitten, wodurch Hunderte von extrem engen, oft hunderte Meter tiefen Canyons entstanden sind. Dazwischen ragen schwer erreichbare Plateaus auf. Dieses stark zerfurchte Relief hat das Massiv praktisch unangreifbar gemacht und als perfekte ökologische Festung gedient, in der die Natur ungestört überleben konnte. Geografie K8 — Komplexe Canyonsysteme.",
+      "factsAdvanced": [
+        "Massives, extrem zerklüftetes Sandsteingebirge im Westen",
+        "Aus der Luft gleicht das komplexe Relief einem menschlichen Gehirn",
+        "Durchzogen von hunderten, oft nur wenige Meter breiten, extrem tiefen Schluchten",
+        "Canyons wurden durch Jahrmillionen andauernde Wassererosion geschaffen",
+        "Hochplateaus zwischen den Canyons sind fast unzugänglich",
+        "Relief wirkt als unüberwindbare geologische und ökologische Festung"
+      ]
+    },
+    {
+      "id": "karambony-peak-relief-v2",
+      "descriptionAdvanced": "Der Karambony (auch Tsaranoro genannt) ist ein atemberaubender Granitmonolith im Tsaranoro-Tal, das zum Andringitra-Massiv im südlichen Madagaskar gehört. Das Relief dieses Felsens ist weltberühmt: Er stürzt auf einer Seite in einer fast perfekt glatten, senkrechten Wand (Big Wall) über 800 Meter in die Tiefe. Solche geologischen Formationen zeugen von enormen tektonischen Kräften und anschließender extremer Winderosion. Der Fels wird aufgrund seiner Form und Schwierigkeit oft als «Yosemite Afrikas» bezeichnet und zieht Extremkletterer aus aller Welt an. Geografie K7 — Monolithen und Steilwände.",
+      "factsAdvanced": [
+        "Massiver Granit-Monolith im Tsaranoro-Tal (Andringitra-Massiv)",
+        "Besitzt eine über 800 Meter fast senkrecht abfallende Felswand (Big Wall)",
+        "Eines der berühmtesten und schwierigsten Felskletterziele Afrikas",
+        "Entstanden durch tektonische Hebung und Jahrtausende andauernde Erosion",
+        "Oberfläche der Granitwand ist extrem glatt und von Winden geschliffen",
+        "Wird in der Kletterszene oft als das «Yosemite Afrikas» bezeichnet"
+      ]
+    },
+    {
+      "id": "analamera-relief-v2",
+      "descriptionAdvanced": "Das Analamera-Reservat im Norden Madagaskars ist durch ein raues, stark strukturiertes Kalksteinplateau geprägt, das sich zwischen dem Ozean und dem Ankarana-Karst erhebt. Das Relief zeichnet sich durch scharfe Risse, Einsturzdolinen und dichten, trockenen Laubwald aus. Die steilen Abbruchkanten des Plateaus machen den Zugang extrem schwierig, was die Region zu einem sicheren Rückzugsort für den extrem seltenen schwarzen Perrier-Sifaka macht. Das Karstgestein lässt Oberflächenwasser sofort versickern, weshalb die Landschaft oberirdisch fast völlig trocken ist. Geografie K6 — Karstplateaus und Dolinen.",
+      "factsAdvanced": [
+        "Raues, stark zerklüftetes Kalksteinplateau im nördlichen Madagaskar",
+        "Relief ist geprägt durch tiefe Spalten, Dolinen und steile Kanten",
+        "Oberflächenwasser versickert im porösen Kalkstein sofort",
+        "Geologisch eng verwandt mit den nahegelegenen Tsingy von Ankarana",
+        "Das unwegsame Gelände schützt die Flora und Fauna vor Abholzung",
+        "Exklusiver Lebensraum für den vom Aussterben bedrohten Perrier-Sifaka"
+      ]
+    },
+    {
+      "id": "marojejy-massif-relief-v2",
+      "descriptionAdvanced": "Das Marojejy-Massiv im Nordosten Madagaskars ist eines der beeindruckendsten Gebirge der Insel. Das Relief erhebt sich dramatisch und extrem steil von der Küstenebene auf über 2.100 Meter Höhe. Die Granitgipfel sind oft als scharfe, nackte Zinnen geformt, die aus dem dichten Urwald ragen («Trekking in the clouds»). Dieses abrupte Relief führt zu einer schnellen Abfolge von vier verschiedenen Klimazonen auf kleinstem Raum — vom feuchten Tieflandregenwald bis zum alpinen Buschland auf dem Gipfel. Geografie K8 — Höhenzonierung und Steilgebirge.",
+      "factsAdvanced": [
+        "Extrem steiles Granitgebirge im Nordosten (Sava-Region)",
+        "Gipfel erreicht eine Höhe von 2.132 Metern (Pic Marojejy)",
+        "Relief steigt abrupt aus der flachen Küstenebene in große Höhen auf",
+        "Steilheit erzeugt eine extrem deutliche und schnelle Klimazonierung",
+        "Besitzt schroffe, nackte Felsnadeln, die über die Regenwaldkronen ragen",
+        "Wegen der Steilheit lange von landwirtschaftlicher Zerstörung verschont"
+      ]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "descriptionAdvanced": "Die Ausläufer (Foothills) des Pic Boby im Andringitra-Massiv bilden eine einzigartige Übergangslandschaft. Das Relief stürzt hier nicht senkrecht ab, sondern fällt in Form riesiger, glatter Granitplatten (Slabs) in ein weites Hochtal ab. Zwischen diesen gigantischen Steinflächen haben Bäche kleine Kanäle und tiefe Pools in den Stein gefräst. Das Gelände ist übersät mit hausgroßen Granitblöcken, die in vergangenen Erdbeben von den Gipfeln gestürzt sind. Diese Landschaft wirkt wie ein riesiger Steingarten und ist bei Trekking-Touristen äußerst beliebt. Geografie K6 — Granitverwitterung und Talbildung.",
+      "factsAdvanced": [
+        "Übergangszone an den Flanken des Pic Boby im Andringitra-Massiv",
+        "Relief besteht aus gigantischen, vom Wasser glattgeschliffenen Granitplatten",
+        "Landschaft ist übersät mit massiven Felsbrocken von alten Felsstürzen",
+        "Bergbäche haben kleine Canyons und natürliche Pools in den Stein gegraben",
+        "Bildet ein weites, alpin wirkendes Hochtal voller Heidekrautgewächse",
+        "Beliebtes Terrain für mehrtägige Trekkingtouren"
+      ]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "descriptionAdvanced": "Das Manongarivo-Massiv im Nordwesten Madagaskars ist ein stark zerklüfteter Bergrücken vulkanischen und kristallinen Ursprungs. Das Relief ist extrem unregelmäßig, gekennzeichnet durch scharfe Grate, tief eingeschnittene Schluchten und steile Abhänge. Das Massiv wirkt als natürliche Barriere gegen die feuchten Monsunwinde aus dem Nordwesten, was zu enormen Niederschlagsmengen an seinen Westhängen führt. Diese extrem steile Topografie macht den dichten Wald fast unzugänglich, bewahrt ihn aber auch vor der weit verbreiteten Brandrodung. Geografie K7 — Orographische Barrieren.",
+      "factsAdvanced": [
+        "Massives, stark zerklüftetes Gebirge im Nordwesten (Sambirano-Region)",
+        "Relief ist extrem unregelmäßig mit steilen Hängen und scharfen Graten",
+        "Fungiert als wichtige klimatische Barriere (orographischer Niederschlag)",
+        "Tiefe Schluchten sammeln gewaltige Wassermengen während der Regenzeit",
+        "Steilheit des Geländes erschwert landwirtschaftliche Nutzung (Brandrodung)",
+        "Geologisch eine komplexe Mischung aus Vulkanit und kristallinem Gestein"
+      ]
+    }
+  ]
+}

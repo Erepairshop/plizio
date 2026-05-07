@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "komadougou-yobe-relief-v2",
+      "descriptionAdvanced": "Albia meandrată și adânc lutoasă a râului de graniță Komadougou Yobé modelează extrem de precis granița sud-estică a Nigerului, formând un relief depresionar de luncă argiloasă fertilă ce contrastează masiv cu stepa aridă din jur. Această tăietură fluvială joasă acționează ca un veritabil canal de drenaj pentru inundațiile sezoniere, reținând o peliculă prețioasă de noroi nutritiv care susține economia regiunii Diffa. Fără această falie lutoasă adâncă, expansiunea dunelor sahariene ar fi cucerit de mult zona limitrofă a marelui lac. (Geografie K7 — dinamica albiilor hidrologice și tranziția lutoasă de luncă sud-estică africană).",
+      "factsAdvanced": ["Albia râului este sculptată profund într-un sol argilos lutos care absoarbe masiv umiditatea de inundație musonică africane scurte.", "Valea depresiunii servește drept ultimul mare bastion natural umbros al statului Niger în calea deșertului.", "Relieful său lutos argilos reține vital apa, creând bălți reziduale pentru animalele nomazilor după sezonul secetos."]
+    },
+    {
+      "id": "dallol-fogha-relief-v2",
+      "descriptionAdvanced": "Valea fosilă estică Dallol Fogha, un defileu lat și aparent oprit în timp, expune clar urmele geologice masive ale vechilor râuri tropicale ce brăzdau zona în preistorie. Relieful său în formă de albie secată lată, cu maluri laterale line stâncoase roșiatice, protejează stratul freatic vital la doar câțiva metri adâncime de soarele fierbinte saharian. Scufundarea sa naturală în raport cu platoul stâncos din jur creează un scut protector lutos împotriva vânturilor uscate tăioase harmattan. (Geografie K7 — conservarea pânzei freatice în văile oarbe deșertice lutoase africane africane uscat cald prăfuit).",
+      "factsAdvanced": ["Reprezintă una dintre cele mai late depresiuni oarbe fosile uscate care fragmentează platoul sud-vestic stâncos nigerian.", "Micro-relieful lutos al văii oferă o protecție eoliană naturală culturilor reziliente de orez cald mândru sudanez.", "Baza sa lutoasă reține pânza freatică faimoasă la suprafață, permițând forarea complet artizanală ieftină noroioasă caldă."]
+    },
+    {
+      "id": "goulbi-kaba-relief-v2",
+      "descriptionAdvanced": "Reticulul uscat sezonier al văii Goulbi Kaba prezintă un profil geomorfologic izbitor de tip canion efemer care taie brusc câmpiile argiloase ale departamentului Maradi. Malurile sale sfărâmicioase, erodate brusc de viiturile fulgerătoare ale musonului de august, expun straturi complexe de aluviuni lutoase și nisip roșiatic. După retragerea apelor violente, relieful fundului văii rămâne plin de cicatrici mlăștinoase esențiale pentru agricultura irigată tradițională Hausa. (Geografie K7 — eroziunea hidrologică de viitură și sedimentarea văilor sezoniere calde noroioase roșiatice africane lutoase).",
+      "factsAdvanced": ["Malurile sculptate brusc ale văii demonstrează forța eroziunii masive de inundație sezonieră africane noroioase lutoase.", "Fundul său argilos lutos acționează ca un burete imens stocând umezeală pentru sezonul secetos africane torid uscat.", "Eroziunea tăioasă de mal necesită intervenția țăranilor prin consolidare manuală lutoasă stâncoasă a digurilor artizanale."]
+    },
+    {
+      "id": "ife-massif-relief-v2",
+      "descriptionAdvanced": "Masivul izolat prăfuit Iférouane (Ife Massif) din nordul nigerian vulcanic adânc prezintă o arhitectură stâncoasă neagră uluitoare, cu vârfuri golașe abrupte și defileuri adânci tăiate de canioanele temporare uscate stâncoase lutoase. Ca o insulă stâncoasă colosală de rezistență, masivul atrage precipitații efemere creând ochiuri vitale de apă în depresiunile de piatră reci umbroase, cunoscute drept gueltas. Aceste stânci aspre au oferit dintotdeauna refugiu natural defensiv triburilor nomade. (Geografie K7 — topografia masivelor stâncoase izolate saheliene și capcanele de apă umbroase stâncoase).",
+      "factsAdvanced": ["Rocile negre masive de origine vulcanică absorb extrem de puternic soarele saharian formând curenți ascendenți calzi uscați.", "Pantele sale uluitor de abrupte sunt impracticabile pentru vehicule, păstrând sanctuarul natural complet intact ecologic stâncos.", "Cavitățile adânci umbrite ale masivului conservă pânze de apă izolate faimoase vitale pentru viața nomadice rari africane."]
+    },
+    {
+      "id": "goulbi-goulbi-relief-v2",
+      "descriptionAdvanced": "Profilul albiei secate a Goulbi Goulbi reprezintă o caracteristică definitorie a peisajului agricol arid sudic din Niger. Tăietura lutoasă joasă a reliefului funcționează ca un lighean uriaș hidrologic sezonier care captează inundațiile torențiale. Relieful său plan post-viitură lasă un sediment fin, noroios, extrem de fertil, unde populația cultivă febril fasole tradițională de ochi-negru pe toată durata sezonului arid. (Geografie K7 — relieful albiilor oarbe temporare africane sezoniere calde noroioase lutoase).",
+      "factsAdvanced": ["Relieful de bază constă într-un culoar argilos larg care facilitează drenajul rapid și brutal musonic noroios cald.", "Sedimentarea sa anuală post-inundație creează un sol aluvionar noroios ideal pentru agricultură intensă rurală sudaneză lutoasă.", "Protejează satele limitrofe de furtunile directe de nisip fiind încadrat de maluri stâncoase lutoase consolidate."]
+    },
+    {
+      "id": "er-erg-tenere-relief-v2",
+      "descriptionAdvanced": "Marea faimoasă de dune a Ergului Ténéré reprezintă cel mai clasic, pur și terifiant peisaj geomorfologic eolian hiper-arid al planetei. Dunele sale masive, curbate în semiluni ascuțite și paralele de vântul constant nord-estic, migrează lent înghițind absolut tot relieful anterior. Înălțimea dunelor uriașe, care pot depăși uimitor zeci de metri de nisip prăfuit fin absolut galben-roșiatic, transformă topografia într-un haos navigabil exclusiv pe baza cunoașterii seculare tuarege stelare. (Geografie K7 — dinamica reliefului dunelor de nisip sahariene eoliene masive izolate africane uscate letale hiper aride absolute).",
+      "factsAdvanced": ["Ergul este compus din sute de kilometri neîntrerupți de dune masive mobile uimitor de perfect sculptate eolian.", "Morfologia dunelor reflectă direcția dominantă constantă a vânturilor uscate harmattan africane sahariene uscate calde tăioase letale.", "Relieful se schimbă vizual complet în mod regulat pe decenii ascunzând sub nisip resturi preistorice fosile izbitoare africane."]
+    },
+    {
+      "id": "gourma-lowland-relief-v2",
+      "descriptionAdvanced": "Câmpiile joase stâncoase și lutoase din regiunea Gourma de dincolo de fluviul Niger prezintă o monotonie aparentă tăiată brusc de platouri lateritice roșiatice dure. Aici, solul este îmbibat cu minerale și fier care se solidifică pe timpul secetei extreme, formând cruste aspre care împiedică agricultura extensivă sudaneză. E un peisaj aspru creat exclusiv pentru ierbivore și pentru viața pastorală neîngrădită nomad, presărat cu tufișuri ghimpoase dure care domină stepa. (Geografie K7 — pedologia solurilor lateritice africane uscate africane stâncoase lutoase aride sud-vestice).",
+      "factsAdvanced": ["Câmpia este dominată structural de o crustă masivă lateritică roșiatică africană foarte dură imposibil de arat manual.", "Relieful plat permite vizibilitatea completă pe distanțe lungi favorizând păstoritul extins de vite zebu africane mari.", "Crustele lutoase atrag izbitor acumulări temporare superficiale de apă dulce care se evaporă complet extrem de curând."]
+    },
+    {
+      "id": "eastern-damagaram-relief-v2",
+      "descriptionAdvanced": "Relieful aspru al Damagaramului de est face trecerea subită și violentă de la savana fertilă a regiunii Zinder la stepa deșertificată extremă nordică. Presărat cu bolovani de cuarț și inselberguri izolate de granit roșiatic înnegrit de soare, terenul este imposibil pentru o agricultură productivă. Relieful sălbatic oferă însă protecție temporară turmelor nomade și conservă rezerve fosile mici de apă stâncoasă esențiale păstorilor Toubou. (Geografie K7 — tranziția geomorfologică stâncoasă estică saheliană africană caldă deșertificată).",
+      "factsAdvanced": ["Caracterizat de prezența unor mici inselberguri vulcanice rotunjite complet de eroziunea colosal eoliană africane prăfuită sudică.", "Solul este puternic erodat de lipsa protecției forestiere rari africane, devenind o stepă pietroasă uscată caldă africană.", "Nu prezintă depresiuni majore lutoase care să poată susține vreo pânză freatică dulce potabilă superficială africane lutoasă."]
+    },
+    {
+      "id": "goulbi-kane-relief-v2",
+      "descriptionAdvanced": "Tăietura lutoasă adâncă a albiei oarbe Goulbi Kane marchează un profil de relief canalizat absolut esențial sudului agrar Maradi. Ca și vecinii săi hidrologici temporari, valea Goulbi Kane are maluri abrupte ce expun istoria stratificată a inundațiilor trecute. Structura concavă a albiei concentrează rezervele de umiditate, creând un microcosmos verde efemer unde pânza freatică menține viața horticulturii de lux tradiționale. (Geografie K7 — morfologia și pedologia văilor efemere sezoniere irigate africane oarbe lutoase calde noroioase).",
+      "factsAdvanced": ["Albia este compusă din straturi masive alternative de nisip curat și argilă extrem de noroioasă sedimentară faimoasă.", "Lățimea văii stâncoase variază brusc, restrângând furios apele musonice sezoniere scurte creând eroziuni periculoase maluri calde.", "Structura bazinului ocroteste complet freatic plantele cu rădăcini scurte, făcând cultivarea cepei africane o industrie masivă."]
+    },
+    {
+      "id": "tchad-basin-relief-v2",
+      "descriptionAdvanced": "Marginea vestică a colosalului Bazin Ciad expune probabil cea mai dramatică retragere a unui relief hidrologic din epoca modernă. Fostul fund al marelui lac dulce s-a transformat complet astăzi într-un peisaj plat arid stâncos acoperit de fisuri masive poligonale de noroi uscat. Dunele de nisip saharian avansează agresiv, îngropând fostele insule papirus mândre izbitoare africane, lăsând un tablou vizual dezolant unde faimoase așezări pescărești se regăsesc ireal în mijlocul deșertului prăfuit. (Geografie K7 — evoluția dramatică geomorfologică a bazinelor endoreice secate africane estice masiv prăfuite uscate noroioase).",
+      "factsAdvanced": ["Relieful este complet masiv prăfuit presărat de uriașe crăpături uscate de argilă sedimentară de la evaporarea fostelor ape dulci.", "Fostele depresiuni de insule sunt astupate zilnic de dune letale de nisip migrator colosale africane uscate tăioase vânt.", "Fostul țărm al lacului a devenit o suprafață plană neospitalieră dominată vizual exclusiv de tufe aspre de mărăcini saharieni."]
+    },
+    {
+      "id": "air-massif-relief-v2",
+      "descriptionAdvanced": "Sistemul muntos vulcanic al Masivului Aïr ridică o barieră colosală de roci vulcanice magmatice dure în mijlocul platourilor uscate nisipoase sahariene nordice. Străpuns de râpe, defileuri abrupte canioane mari ascunse (kori) tăioase, relieful de o asprime infernală acționează ca o fabrică izolată de umbră. Masivul prinde vânturile purtătoare de umezeală și le transformă complet în ochiuri secrete de apă stâncoasă freatică. (Geografie K7 — topografia vulcanică și rolul de adăpost climatic al munților insulari izolați africane prăfuiți cald aride).",
+      "factsAdvanced": ["Masivul este brăzdat de canioane geologice faimoase abrupte cu versanți letali imposibili urcușului pentru mari turme deșertice stâncoase.", "Rocile negre atrag absolut masiv arșița fierbinte ziua, creând faimos microclimate uluitor nocturne extrem reci uriaș izolante.", "Structura aspră previne absolut total complet accesul vehiculelor protejând flora stâncoasă nativă antică izolată africane protejată pur."]
+    },
+    {
+      "id": "bilma-escarpment-relief-v2",
+      "descriptionAdvanced": "Faleza prăpăstioasă stâncoasă neagră din oaza Bilma constituie o limită colosală spectaculoasă geologică a depresiunii Kaouar. Atingând zeci de metri de cădere verticală brutală roșiatică africană, această faleză reprezintă scutul absolut esențial care protejează oaza de furtunile furioase hiper-aride ale deșertului nordic. Umbra sa masivă reține umezeala din faliile geologice subterane, permițând extracția antică a sării brute stâncoase. (Geografie K7 — faliile de escarpament protectoare oaziene deșertice africane izolate stâncoase estice prăfuite calde noroioase letale).",
+      "factsAdvanced": ["Faleza acționează direct oficial curajos ca un baraj ecologic vestic uriaș colosal stâncos contra mișcărilor dunelor letale prăfuite africane.", "Căderea verticală abruptă a rocii este erodată vizual eolian, expunând straturi arhaice geologice masiv africane colorate stâncoase.", "Sub umbra escarpamentului izvoarele arteziene stâncoase curg permanent menținând marea palmerie umbroasă faimoasă curmali Bilma izbitoare africane."]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "descriptionAdvanced": "Imensa faleză Kaouar se desfășoară masiv pe zeci de kilometri ca un zid stâncos neîntrerupt de-a lungul deșertului nigerian nord-estic izolat arid prăfuit lutos. Această barieră geomorfologică imensă protejează la baza sa un șirag de oaze legendare vitale, blocând vânturile uscate sahariene letale. Această minune topografică este responsabilă de crearea singurei rute sigure (pentru caravanele Azalai) complet protejate prin oceanul altfel hiper-arid absolut africane prăfuit torid estic de nisip roșu. (Geografie K7 — escarpamentele de falie lungi geologice oaziene protectoare de rute comerciale africane stâncoase uscate aride lutoase cald).",
+      "factsAdvanced": ["Este cel mai lung perete de faleză neîntrerupt de protecție geologică complet faimos din estul republicii Niger aride stâncoase.", "Relieful abrupt a apărat istoric rutele comerciale de jefuitorii deșertului oferind avanposturi militare ridicate perfect de observație.", "Baza sa adăpostește linia de emergență a izvorului freatic fosil curat african noroios lutos cald izolat subteran sudic."]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "descriptionAdvanced": "Mica colină stâncoasă din depresiunea uscată Fachi reprezintă singurul punct de ridicătură mândră geologică fermă din inima mării nemiloase de dune Ténéré. Deși abia ridicată cu câțiva metri peste platoul nisipos, a fost de ajuns pentru a proteja fundația așezării oaziene izolate. Această ancoră stâncoasă solidă a susținut și faimosul fort medieval din noroi construit pentru apărarea oazei. (Geografie K7 — structurile insulare de rezistență geologică bazală în mediul de erg nisipos sahelian african cald uscat).",
+      "factsAdvanced": ["Colina funcționează ca ancoră geologică curată absolut solidă pentru fundațiile de lut ale așezării urbane oaziene izolate stâncoase.", "Formațiunea este un martor de eroziune, ultima stâncă rămasă neconsumată de marea letală uriașă sahariană de nisip eolian.", "A oferit protecție istorică prin înălțimea sa pentru observarea caravanelor africane izbitoare stâncoase arabe letale nomade africane rari."]
+    },
+    {
+      "id": "koutous-east-relief-v2",
+      "descriptionAdvanced": "Pintenul estic stâncos prăfuit al Masivului Koutous delimitează brutal și asimetric platoul, tăind stepa aridă roșiatică africană caldă deșertificată de-a lungul departamentului Zinder. Această formațiune aspră este complet scrijelită de ravenele uscate adânci care înmagazinează o umbră scurtă, fiind ultimul reper sigur de navigație nord-sud înainte de a păși în câmpiile prăfuite goale. (Geografie K7 — eroziunea ravenelor de pantă și limitele masivelor izolate saheliene africane calde prăfuite noroioase stâncoase aride).",
+      "factsAdvanced": ["Pintenul estic izbitor masiv acționează ca un reper stâncos vizual imens uriaș tradițional caravanier cald stâncos deșertic sahelian.", "Versanții săi abrupți stâncoși africane aride sunt lipsiți complet de un strat fertil fiind spălați de viiturile calde africane.", "Cavitățile pietroase din baza pintenului servesc ca fântâni reci secrete adânci ascunse africane pentru ovis africane caprine."]
+    }
+  ]
+}

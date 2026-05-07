@@ -1,0 +1,25 @@
+{
+  "lang": "ro",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "surrey-cities-v2",
+      "descriptionAdvanced": "Surrey este un oraș în expansiune rapidă în cadrul regiunii metropolitane Vancouver, fiind al doilea oraș ca mărime din Columbia Britanică. Acesta servește drept centru comercial pentru Fraser Valley, beneficiind de investiții majore în infrastructura de transport și facilități civice, ceea ce îl face un punct cheie pentru dezvoltarea suburbană. Geografie K7 — expansiune urbană.",
+      "factsAdvanced": ["Al doilea cel mai mare oraș din Columbia Britanică după populație", "Parte a districtului regional Metro Vancouver", "Include cartiere diverse precum Newton și Whalley", "Centru în dezvoltare pentru servicii guvernamentale locale", "Conectat prin rețeaua de transport rapid SkyTrain", "Cunoscut pentru suprafețele mari de teren agricol din sud"]
+    },
+    {
+      "id": "burnaby-cities-v2",
+      "descriptionAdvanced": "Burnaby este situat în centrul geografic al regiunii metropolitane Vancouver, servind drept punte de legătură între orașul Vancouver și suburbiile estice. Este un centru major pentru afaceri, tehnologie și învățământ superior, găzduind instituții semnificative precum Universitatea Simon Fraser și Institutul de Tehnologie din Columbia Britanică. Geografie K7 — dezvoltare orientată spre tranzit.",
+      "factsAdvanced": ["Centrul geografic al regiunii Metro Vancouver", "Găzduiește Universitatea Simon Fraser", "Gazdă a Institutului de Tehnologie din Columbia Britanică (BCIT)", "Include parcuri mari precum Burnaby Mountain și Deer Lake Park", "Nod comercial major pentru regiune", "Excelentă conectivitate prin liniile de SkyTrain"]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "lang": "de",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nong-khai-cities-v2",
+      "descriptionAdvanced": "Nong Khai ist eine charmante Grenzstadt am Ufer des Mekong im Nordosten Thailands, die direkt gegenüber der laotischen Hauptstadt Vientiane liegt. Die Stadt ist bekannt für ihre entspannte Atmosphäre am Fluss und die 'Erste Thailändisch-Laotische Freundschaftsbrücke', die ein wichtiges Symbol für die Verbindung zwischen beiden Ländern darstellt. Ein bizarres und faszinierendes Highlight ist der Sala Keoku Skulpturenpark, in dem riesige, fantastische Betonstatuen aus der hinduistischen und buddhistischen Mythologie thronen. Nong Khai dient als bedeutendes Tor für den Handel und Tourismus nach Laos und ist durch eine Eisenbahnlinie direkt mit Bangkok verbunden. Besucher geniessen die Uferpromenade mit ihren zahlreichen Restaurants, in denen frischer Mekong-Fisch serviert wird. Die Stadt ist zudem für ihre Textilproduktion und den lebhaften Indochina-Markt bekannt, wo Waren aus der gesamten Region angeboten werden. Nong Khai bietet eine perfekte Mischung aus kultureller Vielfalt und ländlicher Ruhe am mächtigen Mekong.",
+      "factsAdvanced": [
+        "Liegt direkt am Mekong-Fluss gegenüber von Laos.",
+        "Beherbergt die Erste Thailändisch-Laotische Freundschaftsbrücke (eröffnet 1994).",
+        "Berühmt für den Sala Keoku Skulpturenpark.",
+        "Wichtiger Endpunkt der Nordost-Eisenbahnlinie aus Bangkok.",
+        "Der Tha Sadet Markt (Indochina Markt) ist ein Handelszentrum.",
+        "Bekannt für die 'Naga-Feuerbälle' am Ende der Fastenzeit im Oktober.",
+        "Ein bedeutender Grenzübergang für den internationalen Güterverkehr.",
+        "Liegt etwa 615 Kilometer nordöstlich von Bangkok."
+      ]
+    },
+    {
+      "id": "hua-hin-cities-v2",
+      "descriptionAdvanced": "Hua Hin ist das älteste und exklusivste Seebad Thailands und liegt an der Westküste des Golfs von Thailand. Ursprünglich ein ruhiges Fischerdorf, gewann es an Bedeutung, als die thailändische Königsfamilie in den 1920er Jahren hier den Palast 'Klai Kangwon' errichtete, was Hua Hin zum bevorzugten Ferienort der Elite machte. Die Stadt bewahrt eine vornehme und entspannte Atmosphäre mit einem langen Sandstrand, erstklassigen Golfplätzen und exzellenten Fischrestaurants am Pier. Ein architektonisches Juwel ist der historische Bahnhof von Hua Hin, einer der schönsten des Landes, mit seinem königlichen Wartesaal im traditionellen Thai-Stil. Im Gegensatz zu Pattaya ist Hua Hin eher ruhig und familienfreundlich, bietet aber dennoch ein lebhaftes Nachtleben und moderne Einkaufszentren. Die Stadt ist auch bekannt für ihre Nachtmärkte, auf denen lokales Kunsthandwerk und kulinarische Köstlichkeiten angeboten werden. Dank der guten Erreichbarkeit von Bangkok aus ist Hua Hin ein beliebtes Ziel für Wochenendausflügler und Langzeiturlauber gleichermaßen.",
+      "factsAdvanced": [
+        "Ältester Badeort Thailands, populär seit den 1920er Jahren.",
+        "Sitz des königlichen Sommerpalastes Klai Kangwon ('Fern von Sorgen').",
+        "Der historische Bahnhof wurde im Jahr 1926 fertiggestellt.",
+        "Bekannt für einige der besten Golfplätze in Südostasien.",
+        "Liegt etwa 200 Kilometer südwestlich von Bangkok.",
+        "Der fünf Kilometer lange Sandstrand ist das Herzstück des Ortes.",
+        "Berühmt für den Hua Hin Night Market im Stadtzentrum.",
+        "Austragungsort des jährlichen Hua Hin Jazz Festivals."
+      ]
+    },
+    {
+      "id": "krabi-cities-v2",
+      "descriptionAdvanced": "Krabi Town ist die Hauptstadt der gleichnamigen Provinz an der Andamanenküste und besticht durch ihre malerische Lage an der Mündung des Krabi-Flusses. Während die meisten Reisenden sofort zu den spektakulären Kalksteinfelsen von Railay oder den vorgelagerten Inseln wie Koh Phi Phi weiterziehen, bietet die Stadt selbst einen authentischen Einblick in das südthailändische Leben. Wahrzeichen der Stadt sind die 'Khao Khanab Nam', zwei markante, bewaldete Kalksteinhügel, die majestätisch aus dem Wasser ragen. Besucher können über die Uferpromenade schlendern, den farbenfrohen Nachtmarkt besuchen oder den Wat Kaew Korawaram besichtigen, einen modernen Tempel mit beeindruckender weisser Architektur. Krabi Town ist ein wichtiger Logistikknotenpunkt mit einem internationalen Flughafen und regelmässigen Fährverbindungen in die gesamte Region. Die Stadt hat sich ihren gemütlichen Charakter bewahrt und bietet eine hervorragende Gastronomie mit frischen Meeresfrüchten und würzigen südlichen Currys, die man in einfachen Strassenrestaurants geniessen kann.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Krabi im Südwesten Thailands.",
+        "Wahrzeichen sind die Felstürme Khao Khanab Nam.",
+        "Wichtiger Fährhafen zu den Inseln der Andamanensee.",
+        "Besitzt den Krabi International Airport (KBV).",
+        "Der Wat Kaew Korawaram ist der bedeutendste Tempel der Stadt.",
+        "Berühmt für die 'Höhle der Tiger' (Wat Tham Suea) in der Nähe.",
+        "Ein bedeutender Standort für die Fischerei und den Tourismus.",
+        "Die Stadt liegt etwa 800 Kilometer südlich von Bangkok."
+      ]
+    },
+    {
+      "id": "tak-cities-v2",
+      "descriptionAdvanced": "Tak ist eine geschichtsträchtige Provinzstadt im Westen Thailands, die malerisch am Ufer des Ping-Flusses liegt und als Tor zum gebirgigen Grenzland nach Myanmar dient. Die Stadt blickt auf eine lange Historie zurück, da sie bereits in der Sukhothai-Ära eine strategische Rolle als Verteidigungsposten spielte und der Geburtsort von König Taksin dem Grossen war, der das Land nach dem Fall von Ayutthaya wiedervereinte. Tak bietet eine ruhige Atmosphäre mit wunderschönen Parks am Flussufer und historischen Gebäuden, die den Charme vergangener Zeiten versprühen. In der Umgebung finden sich spektakuläre Naturschätze, darunter der Bhumibol-Staudamm, der grösste des Landes, und der Thi Lo Su Wasserfall, einer der beeindruckendsten ganz Asiens. Die Region ist geprägt von dichten Wäldern und Nationalparks, die ideal für Trekking und Ökotourismus sind. Tak ist zudem ein wichtiger Knotenpunkt für den Handel mit Myanmar über die Freundschaftsbrücke bei Mae Sot, was der Provinz eine multikulturelle Note verleiht.",
+      "factsAdvanced": [
+        "Gegründet vor über 2.000 Jahren, historisch eng mit Sukhothai verbunden.",
+        "Geburtsort von König Taksin dem Grossen (reg. 1767–1782).",
+        "Beherbergt den Bhumibol-Staudamm, den ersten Beton-Bogenstaudamm Thailands.",
+        "Thi Lo Su, einer der grössten Wasserfälle Südostasiens, liegt in der Provinz.",
+        "Wichtiger Grenzübergang nach Myanmar im Bezirk Mae Sot.",
+        "Die Stadt liegt an der 'Asian Highway' Verbindung nach Westen.",
+        "Bekannt für das 'Loi Krathong Sai' Festival auf dem Ping-Fluss.",
+        "Region mit grossen Teakholzvorkommen und Forstwirtschaft."
+      ]
+    },
+    {
+      "id": "ratchaburi-cities-v2",
+      "descriptionAdvanced": "Ratchaburi ist eine bedeutende Provinzhauptstadt westlich von Bangkok, die für ihre reiche Kunstszene, ihre historische Bedeutung und ihre vielfältige Natur bekannt ist. Die Stadt liegt am Ufer des Mae Klong Flusses und hat sich zu einem Zentrum für zeitgenössische thailändische Kunst entwickelt, was sich in Galerien wie dem Tao Hong Tai d'kunat zeigt. Ratchaburi blickt auf eine Geschichte zurück, die bis in die Dvaravati-Zeit reicht, wovon antike Tempel und Ruinen zeugen. Weltberühmt ist die Provinz für den schwimmenden Markt von Damnoen Saduak, der Touristen aus aller Welt anzieht. Neben dem kulturellen Reichtum bietet Ratchaburi beeindruckende Landschaften, von den Kalksteinbergen im Khao Ngu Stone Park bis hin zu den malerischen Hügeln von Suan Phueng, die oft als 'Schweiz Thailands' bezeichnet werden. Die Region ist zudem ein Zentrum der Keramikproduktion, insbesondere für die ikonischen Wassergefässe mit Drachenmotiven. Ratchaburi verbindet ländliche Idylle mit künstlerischer Kreativität und historischer Tiefe, was sie zu einem lohnenswerten Ziel für Entdecker macht.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Ratchaburi in Zentralthailand.",
+        "Gegründet in der Dvaravati-Zeit (6. bis 11. Jahrhundert).",
+        "Berühmt für die Herstellung von 'Dragon Jars' (Keramikgefässe).",
+        "Beherbergt den Damnoen Saduak Floating Market.",
+        "Khao Ngu Stone Park bietet spektakuläre Kalksteinformationen.",
+        "Region Suan Phueng ist bekannt für Schafsfarmen und kühleres Klima.",
+        "Wichtiger Standort für Kraftwerke zur Energieversorgung Bangkoks.",
+        "Liegt etwa 80 Kilometer westlich der Hauptstadt."
+      ]
+    },
+    {
+      "id": "laem-chabang-port-economic-v2",
+      "descriptionAdvanced": "Laem Chabang ist der bedeutendste Tiefseehafen Thailands und einer der verkehrsreichsten Containerhäfen der Welt. Er liegt in der Provinz Chonburi, etwa 25 Kilometer nördlich von Pattaya, und bildet das logistische Herzstück des Eastern Economic Corridor (EEC). Der Hafen wurde in den 1990er Jahren in Betrieb genommen, um den Hafen von Bangkok zu entlasten, da dieser für moderne Grosscontainerschiffe nicht tief genug war. Heute werden hier über 80 % des thailändischen Containerverkehrs abgewickelt, was ihn zu einem entscheidenden Faktor für den Export von Automobilen, Elektronik und Agrarprodukten macht. Der Hafen verfügt über modernste Terminals und ist hervorragend an das Schienen- und Strassennetz angebunden. Um den Hafen herum hat sich eine riesige Industriezone entwickelt, in der zahlreiche internationale Grosskonzerne ihre Produktionsstätten unterhalten. Laem Chabang ist nicht nur ein Symbol für Thailands wirtschaftliche Ambitionen, sondern auch ein wichtiger Anlaufpunkt für internationale Kreuzfahrtschiffe, die Bangkok und die Ostküste besuchen.",
+      "factsAdvanced": [
+        "Grösster Tiefseehafen Thailands, eröffnet im Jahr 1991.",
+        "Gehört zu den Top 20 der grössten Containerhäfen weltweit.",
+        "Abwicklungsort für den Grossteil der thailändischen Autoexporte.",
+        "Verfügt über spezielle Terminals für Container, Schüttgut und Fahrzeuge.",
+        "Logistisches Zentrum des Eastern Economic Corridor (EEC).",
+        "Wichtiger Anlegepunkt für internationale Kreuzfahrtschiffe.",
+        "Hafentiefe beträgt bis zu 16 Meter, was Grossschiffen die Einfahrt ermöglicht.",
+        "Verfügt über einen eigenen Bahnhof für den direkten Güterzugverkehr."
+      ]
+    },
+    {
+      "id": "eastern-seaboard-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Die Eastern Seaboard Industrial Zone ist das industrielle Kraftzentrum Thailands und umfasst Teile der Provinzen Chonburi und Rayong. Seit ihrer Gründung in den 1980er Jahren hat sie das Land von einer Agrargesellschaft zu einer modernen Industrienation transformiert. Die Region ist besonders als 'Detroit des Ostens' bekannt, da sie einer der weltweit wichtigsten Standorte für die Automobilproduktion ist, wo Marken wie Toyota, Ford und Mitsubishi Millionen von Fahrzeugen für den Weltmarkt fertigen. Neben der Autoindustrie beherbergt die Zone gigantische Komplexe der Petrochemie, Elektronikfertigung und Schwerindustrie. Die strategische Lage in der Nähe des Hafens Laem Chabang und eine erstklassige Infrastruktur machen die Region zu einem Magneten für ausländische Direktinvestitionen. Mit der Weiterentwicklung zum Eastern Economic Corridor (EEC) setzt Thailand hier verstärkt auf Hochtechnologie und digitale Innovation, um die wirtschaftliche Wettbewerbsfähigkeit langfristig zu sichern. Die Eastern Seaboard ist somit der Motor des thailändischen Wirtschaftswachstums.",
+      "factsAdvanced": [
+        "Entwickelt ab 1982 als Teil des 5. Nationalen Wirtschaftsplans.",
+        "Zentrum der thailändischen Automobilindustrie ('Detroit of the East').",
+        "Umfasst zahlreiche Industrieparks wie Amata City und Eastern Seaboard IP.",
+        "Wichtigster Standort für die petrochemische Industrie Südostasiens.",
+        "Zieht den Grossteil der ausländischen Direktinvestitionen (FDI) an.",
+        "Hervorragende Anbindung an Tiefseehäfen und Flughäfen.",
+        "Trägt massgeblich zum Bruttoinlandsprodukt (BIP) Thailands bei.",
+        "Kerngebiet des aktuellen Eastern Economic Corridor (EEC) Projekts."
+      ]
+    },
+    {
+      "id": "map-ta-phut-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Map Ta Phut in der Provinz Rayong ist der grösste Industriepark Thailands und einer der bedeutendsten Standorte für die petrochemische Industrie weltweit. Er wurde in den 1980er Jahren als Teil der Erschliessung von Erdgasfeldern im Golf von Thailand gegründet und bildet heute die Basis für die thailändische Kunststoff- und Chemieproduktion. Der Komplex beherbergt gigantische Raffinerien, Stahlwerke und Fabriken internationaler Grosskonzerne. Map Ta Phut verfügt über einen eigenen spezialisierten Hafen für Flüssiggüter und Rohstoffe, was die Logistikkosten minimiert. Trotz seines enormen wirtschaftlichen Erfolgs steht der Standort aufgrund von Umweltbelastungen und gesundheitlichen Auswirkungen auf die umliegenden Gemeinden immer wieder in der Kritik, was zu strengeren Umweltvorschriften und einer verstärkten Fokussierung auf 'Green Industry' geführt hat. Die Zone ist ein entscheidender Pfeiler für die Energiesicherheit und die industrielle Rohstoffversorgung Thailands und spielt eine Schlüsselrolle in der Wertschöpfungskette zahlreicher Branchen von der Verpackung bis zur Medizin.",
+      "factsAdvanced": [
+        "Grösster Industriepark des Landes, gegründet im Jahr 1989.",
+        "Weltweit einer der grössten Zentren für Petrochemie.",
+        "Verfügt über einen Tiefseehafen für Chemikalien und Flüssiggas (LNG).",
+        "Hauptstandort für PTT, Thailands staatliches Energieunternehmen.",
+        "Wichtiger Produzent von Kunststoffen, Düngemitteln und Stahl.",
+        "Umfasst eine Fläche von über 10.000 Rai (ca. 16 km²).",
+        "Strenge Umweltauflagen durch den 'Eco Industrial Town' Plan.",
+        "Logistisch direkt mit den Gasfeldern im Golf von Thailand verbunden."
+      ]
+    },
+    {
+      "id": "sriracha-tiger-zoo-economic-v2",
+      "descriptionAdvanced": "Der Sriracha Tiger Zoo in der Provinz Chonburi war über Jahrzehnte eine der bekanntesten touristischen Attraktionen Thailands und ein bedeutender Wirtschaftsfaktor für die Region Sriracha. Der Zoo war berühmt für seine grosse Anzahl an Tigern und Krokodilen sowie für seine spektakulären Shows, die Besucher aus aller Welt anlockten. Eine Besonderheit war die Zucht und Aufzucht der Tiere, wobei oft ungewöhnliche Allianzen zwischen verschiedenen Tierarten präsentiert wurden, wie etwa Tigerbabys, die von Säuen gesäugt wurden. Neben seiner Rolle als Unterhaltungszentrum war der Zoo auch ein bedeutender Zuchtbetrieb für Krokodile, deren Leder und Fleisch kommerziell verwertet wurden. Aufgrund der Auswirkungen der COVID-19-Pandemie und wirtschaftlicher Herausforderungen musste der Zoo im Jahr 2021 dauerhaft schliessen, was eine Zäsur für den lokalen Tourismus darstellte. Dennoch bleibt der Name Sriracha eng mit der Geschichte dieser Attraktion und der kommerziellen Tierhaltung in Thailand verbunden, die sowohl wirtschaftlichen Nutzen als auch kontroverse Diskussionen über den Tierschutz hervorbrachte.",
+      "factsAdvanced": [
+        "Eröffnet im Jahr 1997 in Sriracha, Provinz Chonburi.",
+        "War Heimat von über 200 Tigern und 10.000 Krokodilen.",
+        "Bekannt für Tiger-Shows, Elefanten-Shows und Krokodil-Wrestling.",
+        "Ein wichtiger Lieferant für die Krokodilleder-Industrie.",
+        "Zog jährlich hunderttausende internationale Touristen an.",
+        "Musste im Juli 2021 aufgrund der Pandemie endgültig schliessen.",
+        "Präsentierte ungewöhnliche 'Tier-Freundschaften' als Attraktion.",
+        "Wirtschaftlicher Motor für Gastronomie und Hotels in Sriracha."
+      ]
+    },
+    {
+      "id": "mae-moh-lignite-mine-economic-v2",
+      "descriptionAdvanced": "Die Mae Moh Mine in der Provinz Lampang ist der grösste Tagebau Thailands und eine der bedeutendsten Quellen für die Energieerzeugung des Landes. Hier wird seit den 1950er Jahren Braunkohle (Lignit) abgebaut, die direkt vor Ort im angrenzenden Mae Moh Kraftwerk zur Stromgewinnung verbrannt wird. Das Kraftwerk deckt einen erheblichen Teil des thailändischen Elektrizitätsbedarfs, insbesondere für Nordthailand und die Metropolregion Bangkok. Der Abbauprozess ist gigantisch dimensioniert und hat die Landschaft der Region massgeblich verändert. Um die Umweltauswirkungen zu mindern, wurden grosse Flächen der Mine rekultiviert und in öffentliche Parks und Aussichtspunkte umgewandelt, die heute sogar Touristen anlocken, besonders während der Blütezeit der mexikanischen Sonnenblumen. Mae Moh ist ein Symbol für Thailands Streben nach energetischer Unabhängigkeit, steht jedoch auch im Zentrum von Debatten über Luftqualität und den Übergang zu saubereren Energiequellen. Die Mine und das Kraftwerk sind der wichtigste Arbeitgeber in der Provinz Lampang.",
+      "factsAdvanced": [
+        "Grösster Kohletagebau in Südostasien.",
+        "Abbau von Lignit (Braunkohle) seit dem Jahr 1955.",
+        "Das Mae Moh Kraftwerk wird von der EGAT (Electricity Generating Authority of Thailand) betrieben.",
+        "Produziert etwa 10-15 % des gesamten Stroms in Thailand.",
+        "Die Mine ist etwa 4 km breit und 8 km lang.",
+        "Jährlich werden Millionen Tonnen Braunkohle gefördert.",
+        "Bekannt für den 'Mae Moh Festival' Aussichtspunkt mit Blumenfeldern.",
+        "Zentrum für Forschung zur sauberen Kohletechnologie in Thailand."
+      ]
+    },
+    {
+      "id": "bangkok-port-khlong-toei-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Bangkok, besser bekannt als Khlong Toei Hafen, ist der historische und traditionsreiche Binnenhafen der thailändischen Hauptstadt am Ufer des Chao Phraya Flusses. Er wurde in den 1940er Jahren in Betrieb genommen und war über Jahrzehnte das einzige Tor Thailands für den internationalen Seehandel. Aufgrund seiner Lage mitten in der Stadt und der begrenzten Wassertiefe des Flusses können heute nur noch kleinere Containerschiffe und Feederschiffe den Hafen anlaufen. Dennoch spielt er weiterhin eine wichtige Rolle für die Versorgung der Metropolregion mit Konsumgütern und für den regionalen Handel. Khlong Toei ist nicht nur ein Wirtschaftszentrum, sondern auch bekannt für das angrenzende, weitläufige Wohnviertel, das eines der ältesten und grössten der Stadt ist. Es gibt Pläne, Teile des Hafengeländes umzugestalten, um mehr Grünflächen und moderne Gewerbegebiete zu schaffen, während der Schwerlastverkehr zunehmend nach Laem Chabang verlagert wurde. Der Hafen bleibt ein markantes Wahrzeichen für Bangkoks Geschichte als Handelsmetropole.",
+      "factsAdvanced": [
+        "Offiziell als Bangkok Port bekannt, im Bezirk Khlong Toei gelegen.",
+        "Inbetriebnahme des ersten Terminals im Jahr 1947.",
+        "Wichtigster Binnenhafen Thailands am Chao Phraya Fluss.",
+        "Abwicklung von etwa 1,5 Millionen TEU (Containereinheiten) pro Jahr.",
+        "Begrenzte Tiefe von ca. 8,2 Metern erlaubt nur kleinere Schiffe.",
+        "Umschlagplatz für landwirtschaftliche Produkte und Importgüter.",
+        "Wichtiger Logistikknotenpunkt direkt im Zentrum der Hauptstadt.",
+        "Wird von der Port Authority of Thailand (PAT) verwaltet."
+      ]
+    },
+    {
+      "id": "chatuchak-weekend-market-economic-v2",
+      "descriptionAdvanced": "Der Chatuchak-Wochenendmarkt in Bangkok ist der grösste Markt Thailands und einer der grössten Freiluftmärkte der Welt. Mit über 15.000 Marktständen, die in 27 Sektionen unterteilt sind, bietet er eine schier unglaubliche Auswahl an Waren – von Kleidung, Accessoires und Kunsthandwerk über Pflanzen und Antiquitäten bis hin zu exotischen Haustieren und Streetfood. Jeden Samstag und Sonntag strömen bis zu 200.000 Besucher auf das Gelände, um zu feilschen und Schätze zu entdecken. Chatuchak ist nicht nur ein Einkaufsparadies, sondern auch ein bedeutender Wirtschaftsfaktor für tausende Kleinunternehmer und Handwerker aus dem ganzen Land, die hier ihre Produkte direkt an nationale und internationale Käufer vertreiben. Der Markt spiegelt die Vielfalt und Dynamik der thailändischen Kultur wider und ist ein unverzichtbares Erlebnis für jeden Bangkok-Besucher. Trotz der Hitze und der Menschenmassen herrscht eine faszinierende Energie, die Chatuchak zu einem der pulsierendsten Orte der Metropole macht.",
+      "factsAdvanced": [
+        "Grösster Markt Thailands mit über 15.000 Ständen.",
+        "Umfasst eine Fläche von etwa 14 Hektar (ca. 70 Rai).",
+        "Wird an einem durchschnittlichen Wochenende von 200.000 Menschen besucht.",
+        "Unterteilt in 27 thematische Sektionen zur besseren Orientierung.",
+        "Ein wichtiges Zentrum für den Export von thailändischem Kunsthandwerk.",
+        "Einer der besten Orte für authentisches thailändisches Streetfood.",
+        "Hervorragend erreichbar über BTS Mo Chit und MRT Chatuchak Park.",
+        "Wurde ursprünglich in den 1940er Jahren von Feldmarschall Phibunsongkhram gegründet."
+      ]
+    },
+    {
+      "id": "bo-sang-umbrella-village-economic-v2",
+      "descriptionAdvanced": "Bo Sang, ein Dorf in der Nähe von Chiang Mai, ist weltberühmt für seine jahrhundertealte Tradition der handgefertigten Papierschirme. Die Kunstfertigkeit der Handwerker in Bo Sang hat das Dorf zu einem bedeutenden Zentrum für traditionelles Kunsthandwerk und zu einem beliebten Touristenziel in Nordthailand gemacht. Die Schirme werden aus Sa-Papier (hergestellt aus der Rinde des Maulbeerbaums), Seide oder Baumwolle gefertigt und anschliessend mit farbenfrohen Blumen- und Landschaftsmotiven von Hand bemalt. Besucher können den gesamten Herstellungsprozess beobachten, von der Fertigung der Bambusgestelle bis hin zum filigranen Bemalen. Die Schirmproduktion ist das wirtschaftliche Rückgrat des Dorfes und sichert den Lebensunterhalt vieler Familien über Generationen hinweg. Jedes Jahr im Januar findet das 'Bo Sang Umbrella & Sankamphaeng Handicrafts Festival' statt, bei dem die Strassen prachtvoll mit tausenden bunten Schirmen geschmückt sind. Bo Sang ist ein hervorragendes Beispiel dafür, wie traditionelles Erbe und moderner Tourismus erfolgreich miteinander verknüpft werden können.",
+      "factsAdvanced": [
+        "Liegt im Bezirk San Kamphaeng, etwa 9 km östlich von Chiang Mai.",
+        "Berühmt für bunte Papierschirme aus Maulbeerbaumrinde (Sa-Papier).",
+        "Die Tradition soll vor über 200 Jahren durch einen Mönch aus Myanmar eingeführt worden sein.",
+        "Jeder Schirm ist ein Unikat, handgefertigt und handbemalt.",
+        "Wichtiger Exportartikel für thailändisches Kunsthandwerk weltweit.",
+        "Das jährliche Schirmfestival findet am dritten Januarwochenende statt.",
+        "Zentrum der lokalen Wirtschaft und Identität.",
+        "Schirme dienen heute primär als Dekorations- und Sonnenschutzartikel."
+      ]
+    },
+    {
+      "id": "songkhla-deep-sea-port-economic-v2",
+      "descriptionAdvanced": "Der Tiefseehafen von Songkhla ist der wichtigste Überseehafen im Süden Thailands und spielt eine entscheidende Rolle für den Export regionaler Produkte in den Weltmarkt. Er liegt an der Mündung des Songkhla-Sees in den Golf von Thailand und ist strategisch günstig positioniert, um den Handel mit Malaysia, Singapur und anderen Ländern Ostasiens abzuwickeln. Der Hafen ist spezialisiert auf den Umschlag von Kautschuk, gefrorenen Meeresfrüchten und konservierten Lebensmitteln, die die Hauptpfeiler der Wirtschaft in Südthailand bilden. Durch moderne Terminaleinrichtungen und eine gute Anbindung an das Strassennetz ermöglicht der Hafen eine effiziente Logistik für die lokale Industrie. Neben seiner wirtschaftlichen Bedeutung ist der Hafen auch ein wichtiger Standort für die Energieversorgung, da er als Basis für die Offshore-Aktivitäten zur Gas- und Ölförderung im Golf von Thailand dient. Der Ausbau und die Modernisierung des Hafens sind ständige Prioritäten, um der wachsenden wirtschaftlichen Dynamik der Region gerecht zu werden.",
+      "factsAdvanced": [
+        "Bedeutendster Überseehafen Südthailands.",
+        "Liegt an der strategisch wichtigen Mündung des Songkhla-Sees.",
+        "Haupthandelstor für thailändische Kautschukexporte.",
+        "Wichtiger Logistikknotenpunkt für die Fischerei- und Lebensmittelindustrie.",
+        "Unterstützungsbasis für die Offshore-Öl- und Gasförderung.",
+        "Verfügt über moderne Container- und Stückgutterminals.",
+        "Abwicklung von Importen für die Region südlich von Kra-Isthmus.",
+        "Geführt von der Port Authority of Thailand (PAT)."
+      ]
+    },
+    {
+      "id": "gulf-of-thailand-gas-fields-economic-v2",
+      "descriptionAdvanced": "Die Gasfelder im Golf von Thailand sind das energetische Herzstück des Landes und von fundamentaler Bedeutung für die thailändische Wirtschaft. Seit der Entdeckung grosser Erdgasvorkommen in den 1970er Jahren hat die Offshore-Förderung Thailand dabei geholfen, seinen rasant wachsenden Energiehunger zu stillen und die Abhängigkeit von Importen zu verringern. Gigantische Förderplattformen, wie in den Feldern Bongkot und Erawan, pumpen täglich Millionen Kubikmeter Erdgas durch ein weitverzweigtes Netz von Unterwasserpipelines an die Küste, vor allem nach Rayong und Khanom. Dieses Gas treibt den Grossteil der thailändischen Kraftwerke an und liefert die Rohstoffe für die petrochemische Industrie. Die Branche ist einer der grössten Beitragszahler zum thailändischen Staatshaushalt und bietet hochqualifizierte Arbeitsplätze für tausende Ingenieure und Techniker. Da die Reserven in den bestehenden Feldern langsam abnehmen, investiert Thailand verstärkt in Exploration, Effizienzsteigerung und den Import von Flüssigerdgas (LNG), um die langfristige Versorgungssicherheit zu gewährleisten.",
+      "factsAdvanced": [
+        "Entdeckung der ersten bedeutenden Gasvorkommen im Jahr 1973.",
+        "Bongkot und Erawan sind die grössten Gasfelder der Region.",
+        "Erdgas liefert über 60 % des thailändischen Strombedarfs.",
+        "Pipelines führen direkt zu den Industriezentren in Rayong.",
+        "Basis für die weltweit wettbewerbsfähige Petrochemie Thailands.",
+        "Gesteuert massgeblich durch das Staatsunternehmen PTT Exploration and Production (PTTEP).",
+        "Wichtiger Faktor für die nationale Energiesicherheit.",
+        "Förderung erfolgt primär durch Offshore-Plattformen."
+      ]
+    },
+    {
+      "id": "damnoen-saduak-floating-market-economic-v2",
+      "descriptionAdvanced": "Der schwimmende Markt von Damnoen Saduak in der Provinz Ratchaburi ist der wohl ikonischste und bekannteste seiner Art in Thailand. Er bietet ein farbenprächtiges Spektakel, bei dem Händler in traditionellen schmalen Holzbooten ihre Waren – von frischem Obst und Gemüse über duftende Blumen bis hin zu frisch zubereiteten Speisen – direkt auf den Kanälen (Khlongs) anbieten. Der Markt wurde ursprünglich im 19. Jahrhundert unter König Rama IV. angelegt, um die Landwirtschaft in der Region zu fördern, und hat sich heute zu einem weltweiten Touristenmagneten entwickelt. Für die lokale Wirtschaft ist der Markt von immenser Bedeutung, da er nicht nur den Händlern, sondern auch Bootsvermietern, Restaurantbesitzern und Kunsthandwerkern ein Einkommen sichert. Besucher schätzen das geschäftige Treiben und die Möglichkeit, authentisches 'Boat Food' wie Nudelsuppen oder Mango-Sticky-Rice direkt vom Wasser aus zu probieren. Damnoen Saduak bleibt ein lebendiges Symbol für das traditionelle thailändische Leben am Wasser, auch wenn es heute stark touristisch geprägt ist.",
+      "factsAdvanced": [
+        "Berühmtester schwimmender Markt Thailands, ca. 100 km von Bangkok entfernt.",
+        "Der Kanal Damnoen Saduak ist etwa 32 Kilometer lang.",
+        "Angelegt im Jahr 1866 unter der Herrschaft von König Rama IV.",
+        "Die Hauptaktivität findet zwischen 8:00 und 11:00 Uhr morgens statt.",
+        "Ein wichtiges Zentrum für den Verkauf von lokalem Obst wie Kokosnüssen und Malako.",
+        "Dient als Kulisse für zahlreiche internationale Filmproduktionen.",
+        "Wirtschaftlicher Motor für die gesamte Provinz Ratchaburi.",
+        "Wird oft per Langboot (Long-tail boat) von Touristen erkundet."
+      ]
+    },
+    {
+      "id": "phatthalung-bird-nest-industry-economic-v2",
+      "descriptionAdvanced": "Die Vogelmutter-Industrie in Phatthalung, insbesondere rund um den Songkhla-See, ist ein hochspezialisierter und äusserst lukrativer Wirtschaftszweig im Süden Thailands. In den Kalksteinhöhlen der Inseln wie Koh Si und Koh Ha bauen Segler (Swiftlets) ihre Nester aus gehärtetem Speichel, die als 'weisses Gold' gelten und in der traditionellen chinesischen Medizin als Heilmittel und Delikatesse hochgeschätzt werden. Das Sammeln dieser Nester ist eine gefährliche Arbeit, die grosses Geschick und Erfahrung erfordert, da die Sammler oft an schwindelerregenden Bambusgerüsten in den Höhlen emporsteigen müssen. Die Lizenzen für das Sammeln werden streng kontrolliert und für hohe Summen an private Unternehmen versteigert, was erhebliche Einnahmen für die lokale Verwaltung generiert. In den letzten Jahren hat sich zudem die Zucht von Seglern in speziellen 'Vogelhäusern' in den Städten der Region verbreitet, was die Produktion erhöht hat. Phatthalung bleibt das historische Zentrum dieser exklusiven Branche, die Thailand zu einem der weltweit führenden Exporteure von essbaren Vogelnestern macht.",
+      "factsAdvanced": [
+        "Zentrum der thailändischen Produktion von essbaren Vogelnestern.",
+        "Vogelnester bestehen primär aus dem Speichel von Seglern (Aerodramus).",
+        "Wichtigste Sammelgebiete sind die Kalksteinhöhlen im Songkhla-See.",
+        "Kilogrammpreise für hochwertige Nester können mehrere tausend Euro erreichen.",
+        "Chinesische Medizin schreibt den Nestern verjüngende Wirkungen zu.",
+        "Die Konzessionen für die Ernte sind streng staatlich reglementiert.",
+        "Wichtiger Exportartikel nach China, Hongkong und Taiwan.",
+        "Zunehmende Bedeutung von künstlichen 'Nest-Häusern' in der Region."
+      ]
+    },
+    {
+      "id": "chachoengsao-solar-farm-economic-v2",
+      "descriptionAdvanced": "Die Solarfarmen in Chachoengsao sind ein Paradebeispiel für Thailands ambitionierten Weg hin zu erneuerbaren Energien und einer nachhaltigen Wirtschaft. Die Provinz, östlich von Bangkok gelegen, beherbergt einige der grössten Photovoltaik-Anlagen Südostasiens, die tausende von Haushalten mit sauberem Strom versorgen. Diese Projekte sind Teil des nationalen Energieentwicklungsplans, der darauf abzielt, die Abhängigkeit von fossilen Brennstoffen zu verringern und die CO2-Emissionen zu senken. Die weiten, sonnenverwöhnten Flächen der Region bieten ideale Bedingungen für den Betrieb grossflächiger Solarparks. Neben der Stromerzeugung fördern diese Anlagen auch die technologische Entwicklung und schaffen Arbeitsplätze im Bereich der grünen Energie. Chachoengsao hat sich somit von einer primär landwirtschaftlich geprägten Provinz zu einem wichtigen Standort für moderne Energietechnologie gewandelt. Die Integration von Solarenergie in das nationale Stromnetz ist ein entscheidender Schritt für Thailands Ziel, bis 2050 klimaneutral zu werden und seine Position als Vorreiter für Nachhaltigkeit in der Region zu festigen.",
+      "factsAdvanced": [
+        "Beherbergt eine der grössten Solaranlagen Thailands (Lopburi Solar Project).",
+        "Ein entscheidender Teil des thailändischen Alternative Energy Development Plan (AEDP).",
+        "Reduziert den CO2-Ausstoss um zehntausende Tonnen pro Jahr.",
+        "Photovoltaik-Module bedecken hunderte Hektar Land.",
+        "Wichtiger Beitrag zur Diversifizierung des thailändischen Energiemixes.",
+        "Technologischer Vorreiter für Solarenergie in Südostasien.",
+        "Zieht Investitionen im Bereich der 'Clean Tech' Industrie an.",
+        "Direkte Einspeisung der Energie in das nationale Hochspannungsnetz."
+      ]
+    },
+    {
+      "id": "sadao-border-crossing-economic-v2",
+      "descriptionAdvanced": "Der Grenzübergang Sadao in der Provinz Songkhla ist der geschäftigste Landgrenzübergang Thailands und ein vitaler wirtschaftlicher Korridor nach Malaysia und Singapur. Er ist das wichtigste Tor für den grenzüberschreitenden Handel und Tourismus im Süden des Landes, über den täglich tausende Lastwagen und Fahrzeuge verkehren. Für die thailändische Exportwirtschaft ist Sadao von entscheidender Bedeutung, da über diesen Weg ein Grossteil der Agrarprodukte, Kautschukwaren und Industriekomponenten auf den malaysischen Markt und zu den Häfen von Penang und Port Klang gelangt. Um den enormen Verkehrsfluss zu bewältigen, wurde in den letzten Jahren massiv in die Erweiterung der Infrastruktur und die Digitalisierung der Zollabwicklung investiert. In der unmittelbaren Umgebung des Grenzübergangs hat sich eine florierende Dienstleistungswirtschaft mit Hotels, Duty-Free-Shops und Logistikzentren entwickelt. Sadao ist somit nicht nur eine einfache Grenze, sondern ein dynamisches Wirtschaftszentrum, das die regionale Integration innerhalb der ASEAN-Gemeinschaft massgeblich vorantreibt.",
+      "factsAdvanced": [
+        "Verkehrsreichster Landgrenzübergang zwischen Thailand und Malaysia.",
+        "Wichtigstes Handelstor für den Export in Richtung Kuala Lumpur und Singapur.",
+        "Liegt am Ende der thailändischen Nationalstrasse 4 (Phet Kasem Road).",
+        "Umschlagplatz für Milliarden von Baht an Warenwerten pro Jahr.",
+        "Knotenpunkt für den grenzüberschreitenden Tourismus (Bustourismus).",
+        "Besitzt moderne Zoll- und Immigrationsanlagen (eröffnet 2019).",
+        "Ein strategischer Punkt innerhalb der Indonesia-Malaysia-Thailand Growth Triangle (IMT-GT).",
+        "Logistisches Zentrum für die Kautschukindustrie Südthailands."
+      ]
+    },
+    {
+      "id": "siam-cement-group-hq-economic-v2",
+      "descriptionAdvanced": "Das Hauptquartier der Siam Cement Group (SCG) in Bangkok ist das administrative Zentrum eines der ältesten und grössten Industriekonzerne Thailands und ganz Südostasiens. SCG wurde 1913 durch ein königliches Dekret von König Rama VI. gegründet, um die Abhängigkeit von Zementimporten zu beenden und die Infrastrukturentwicklung des Landes voranzutreiben. Heute ist die Gruppe ein diversifizierter Gigant, der in den Bereichen Baustoffe, Chemikalien und Verpackungen weltweit agiert. Das Hauptquartier im Bezirk Bang Sue ist nicht nur ein Symbol für thailändische Wirtschaftskraft und Beständigkeit, sondern auch ein Vorreiter für modernes Management und Nachhaltigkeit. SCG ist bekannt für seine strengen Umweltstandards und investiert massiv in Forschung und Entwicklung für 'grüne' Baumaterialien und Kreislaufwirtschaft. Als eines der wertvollsten Unternehmen an der thailändischen Börse (SET) spielt SCG eine Schlüsselrolle bei grossen Infrastrukturprojekten des Landes und geniesst aufgrund seiner engen Verbindung zum Königshaus höchstes Ansehen. Der Konzern gilt als Benchmark für thailändische Unternehmensführung.",
+      "factsAdvanced": [
+        "Gründungsjahr: 1913 durch König Rama VI.",
+        "Ältestes und grösstes Zementunternehmen in Thailand.",
+        "Hauptquartier befindet sich im Bezirk Bang Sue, Bangkok.",
+        "Einer der grössten Mischkonzerne (Conglomerates) in Südostasien.",
+        "Führend in den Sparten Cement-Building Materials, Chemicals und Packaging.",
+        "Grossaktionär ist das Bureau of the Crown Property (Königshaus).",
+        "Pionier in Thailand für ESG-Kriterien (Umwelt, Soziales, Unternehmensführung).",
+        "Beherbergt ein bedeutendes Innovationszentrum für neue Materialien."
+      ]
+    }
+  ]
+}

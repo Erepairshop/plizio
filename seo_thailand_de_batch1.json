@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangkok-cities-v2",
+      "descriptionAdvanced": "Bangkok, die pulsierende Hauptstadt Thailands, ist eine faszinierende Megastadt am Chao Phraya Fluss, die Tradition und Moderne auf einzigartige Weise verbindet. Als politisches, wirtschaftliches und kulturelles Zentrum des Landes beherbergt die Stadt prächtige Tempelanlagen wie den Wat Phra Kaeo und glitzernde Wolkenkratzer, die eine beeindruckende Skyline bilden. Besucher tauchen ein in ein Labyrinth aus Kanälen, die der Stadt einst den Namen 'Venedig des Ostens' einbrachten, und erleben das geschäftige Treiben auf den Strassenmärkten. Die Metropole ist bekannt für ihre kulinarische Vielfalt, die von Garküchen am Strassenrand bis hin zu exklusiven Gourmetrestaurants reicht. Mit einer Mischung aus spiritueller Ruhe in den Tempeln und der unbändigen Energie des modernen Stadtlebens bietet Bangkok ein unvergleichliches Erlebnis für Reisende aus aller Welt. Die Stadt ist zudem ein wichtiger Knotenpunkt für den internationalen Flugverkehr in Südostasien.",
+      "factsAdvanced": [
+        "Fläche der Metropolregion beträgt etwa 1.568 km².",
+        "Einwohnerzahl der Kernstadt übersteigt 10 Millionen.",
+        "Gegründet wurde die Stadt im Jahr 1782 von König Rama I.",
+        "Der zeremonielle Name der Stadt ist einer der längsten der Welt.",
+        "Der Chao Phraya Fluss teilt die Stadt in zwei Hälften.",
+        "Beherbergt den Sitz der thailändischen Regierung und Monarchie.",
+        "Knotenpunkt für das Schnellbahnsystem BTS Skytrain und MRT.",
+        "Über 400 buddhistische Tempel (Wats) befinden sich im Stadtgebiet."
+      ]
+    },
+    {
+      "id": "chiang-mai-cities-v2",
+      "descriptionAdvanced": "Chiang Mai, die 'Rose des Nordens', liegt eingebettet in die bergige Landschaft Nordthailands und war einst die Hauptstadt des Lan Na Königreichs. Die Stadt ist berühmt für ihre gut erhaltene Altstadt, die von einer historischen Mauer und einem Wassergraben umgeben ist und zahlreiche ehrwürdige Tempel wie den Wat Phra Singh beherbergt. Im Gegensatz zum hektischen Bangkok herrscht hier eine entspanntere Atmosphäre, die besonders Kulturliebhaber und Naturburschen anzieht. Die umliegenden Berge bieten spektakuläre Aussichten und sind Heimat verschiedener Bergvölker sowie dichter Regenwälder. Chiang Mai hat sich zu einem Zentrum für Kunsthandwerk, Wellness und digitale Nomaden entwickelt, ohne seinen traditionellen Charme zu verlieren. Besonders bekannt ist die Stadt für das alljährliche Lichterfest Loy Krathong, bei dem tausende Laternen den Himmel erleuchten. Ein Ausflug zum nahegelegenen Bergtempel Wat Phra That Doi Suthep gehört zum Pflichtprogramm jedes Besuchers.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1296 durch König Mengrai.",
+        "Liegt auf einer durchschnittlichen Höhe von 310 Metern.",
+        "Die Stadtmauer der Altstadt bildet ein Quadrat von 1,5 km Seitenlänge.",
+        "Über 300 Tempelanlagen befinden sich in und um die Stadt.",
+        "Hauptstadt der Provinz Chiang Mai im Norden Thailands.",
+        "Bekannt für den Nachtmarkt 'Night Bazaar' im Stadtzentrum.",
+        "Zentrum des thailändischen Kunsthandwerks (Silber, Seide, Schirme).",
+        "Austragungsort des Blumenfestivals am ersten Februarwochenende."
+      ]
+    },
+    {
+      "id": "phuket-city-cities-v2",
+      "descriptionAdvanced": "Phuket City, das administrative Zentrum der gleichnamigen Insel im Süden Thailands, besticht durch seine charmante Altstadt mit gut erhaltener sino-portugiesischer Architektur. Die farbenfrohen Ladenhäuser und schmalen Gassen erzählen die Geschichte des einstigen Zinnbooms, der Reichtum und verschiedene kulturelle Einflüsse in die Region brachte. Während die meisten Touristen die Strände der Insel bevorzugen, bietet die Stadt eine authentische Atmosphäre mit lokalen Märkten, Kunstgalerien und einer exzellenten Gastronomieszene, die 2011 von der UNESCO zur 'City of Gastronomy' ernannt wurde. Besucher können den Panrang Hill erklimmen, um einen Panoramablick über die Bucht und die Stadt zu geniessen, oder in die spirituelle Welt der chinesischen Schreine eintauchen, die besonders während des vegetarischen Festivals im Mittelpunkt stehen. Phuket City dient als Tor zu den umliegenden Inseln der Andamanensee und ist ein wichtiger Verkehrsknotenpunkt mit einem modernen Hafen und Busbahnhof.",
+      "factsAdvanced": [
+        "Hauptstadt der grössten Insel Thailands, Phuket.",
+        "Architekturstil ist als sino-portugiesisch bekannt.",
+        "UNESCO Creative City of Gastronomy seit dem Jahr 2011.",
+        "Das vegetarische Festival im Oktober ist ein kultureller Höhepunkt.",
+        "Liegt an der südöstlichen Küste der Insel Phuket.",
+        "War im 19. Jahrhundert ein bedeutendes Zentrum des Zinnhandels.",
+        "Thalang Road ist die bekannteste historische Strasse der Altstadt.",
+        "Besitzt einen wichtigen Tiefseehafen für den regionalen Handel."
+      ]
+    },
+    {
+      "id": "pattaya-cities-v2",
+      "descriptionAdvanced": "Pattaya hat sich von einem verschlafenen Fischerdorf zu einem der bekanntesten und lebhaftesten Ferienorte Thailands an der Ostküste des Golfs von Thailand entwickelt. Die Stadt ist berühmt für ihr buntes Nachtleben, insbesondere rund um die Walking Street, bietet aber auch eine Vielzahl an Freizeitaktivitäten für Familien und Sportbegeisterte. Die Bucht von Pattaya ist gesäumt von Hotels, Einkaufszentren und Wasserparks, während die nahegelegenen Inseln wie Koh Larn klares Wasser und Sandstrände bieten. Neben dem Trubel finden sich kulturelle Schätze wie das Sanctuary of Truth, ein riesiges, kunstvoll geschnitztes Holzgebäude direkt am Meer. Pattaya ist zudem ein bedeutendes Zentrum für den thailändischen Immobilienmarkt und beherbergt eine grosse internationale Gemeinschaft. In den letzten Jahren wurde verstärkt in die Infrastruktur investiert, um das Image der Stadt zu verbessern und sie als Ziel für den anspruchsvollen Tourismus und für Kongresse zu positionieren.",
+      "factsAdvanced": [
+        "Liegt etwa 150 Kilometer südöstlich von Bangkok.",
+        "Der Aufstieg zum Tourismuszentrum begann während des Vietnamkriegs.",
+        "Pattaya hat einen Sonderstatus als selbstverwaltete Stadt.",
+        "Beherbergt das höchste Gebäude Thailands ausserhalb Bangkoks.",
+        "Jomtien Beach im Süden ist für Wassersport und Ruhe bekannt.",
+        "Das Sanctuary of Truth ist komplett aus Holz ohne Metallnägel gebaut.",
+        "Der Pattaya Floating Market ist eine beliebte Touristenattraktion.",
+        "Einwohnerzahl beträgt offiziell etwa 120.000, real deutlich höher."
+      ]
+    },
+    {
+      "id": "nonthaburi-cities-v2",
+      "descriptionAdvanced": "Nonthaburi ist die zweitgrösste Stadt Thailands und grenzt im Norden direkt an die Metropole Bangkok, wodurch sie Teil der weitläufigen Metropolregion ist. Trotz der Nähe zur Hauptstadt hat sich die Stadt ihren eigenen Charakter bewahrt, der stark durch den Chao Phraya Fluss geprägt wird, der sie durchfliesst. Ein markantes Wahrzeichen ist das historische Rathaus, ein prachtvoller Holzbau aus der Zeit von König Rama VI., der heute als Museum dient. Die Stadt ist bekannt für ihre Keramikproduktion auf der Flussinsel Koh Kret, wo die Mon-Minderheit traditionelle Töpferkunst pflegt. Nonthaburi bietet eine Mischung aus modernen Wohnvierteln, grossen Einkaufszentren und traditionellen Märkten am Flussufer. Dank des gut ausgebauten Linienbootverkehrs auf dem Chao Phraya ist die Stadt bequem mit dem Zentrum von Bangkok verbunden, was sie zu einem beliebten Wohnort für Pendler macht. Auch für Feinschmecker hat Nonthaburi einiges zu bieten, insbesondere frisches Obst und traditionelle thailändische Desserts.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Nonthaburi in Zentralthailand.",
+        "Gegründet Mitte des 17. Jahrhunderts in der Ayutthaya-Zeit.",
+        "Bekannt für den Anbau der teuersten Durian-Früchte der Welt.",
+        "Das historische Rathaus wurde im Jahr 1910 erbaut.",
+        "Koh Kret ist eine künstliche Flussinsel im Chao Phraya.",
+        "Wichtiger Endpunkt der Chao Phraya Express Boote (Anleger N30).",
+        "Anschluss an das Metronetz von Bangkok über die Purple Line.",
+        "Beherbergt den Wat Chalerm Phra Kiat, einen königlichen Tempel."
+      ]
+    },
+    {
+      "id": "udon-thani-cities-v2",
+      "descriptionAdvanced": "Udon Thani ist ein bedeutendes Wirtschaftszentrum in der Region Isan im Nordosten Thailands und dient als wichtiges Tor nach Laos. Die Stadt erlebte während des Vietnamkriegs einen rasanten Aufstieg, da sie einen grossen Luftwaffenstützpunkt der USA beherbergte, was bis heute Spuren in der lokalen Kultur und Infrastruktur hinterlassen hat. Besucher schätzen den Nong Prajak Park mit seinem grossen See, der als grünes Herz der Stadt gilt und zum Entspannen einlädt. In der Umgebung von Udon Thani befindet sich die archäologische Ausgrabungsstätte Ban Chiang, die zum UNESCO-Weltkulturerbe gehört und Einblicke in eine prähistorische Bronzezeit-Zivilisation bietet. Die Stadt selbst ist modern und verfügt über lebhafte Märkte, moderne Einkaufszentren und eine vielfältige Gastronomie, die den würzigen Geschmack der Isan-Küche widerspiegelt. Udon Thani ist zudem ein wichtiger Verkehrsknotenpunkt mit einem internationalen Flughafen, der die Region mit Bangkok und anderen grossen Städten verbindet.",
+      "factsAdvanced": [
+        "Hauptstadt der gleichnamigen Provinz Udon Thani.",
+        "Liegt etwa 560 Kilometer nordöstlich von Bangkok.",
+        "Ban Chiang (UNESCO-Welterbe) liegt ca. 50 km östlich der Stadt.",
+        "Der Bahnhof von Udon Thani liegt an der Bahnstrecke Bangkok-Nong Khai.",
+        "Bekannt für den 'Red Lotus Sea' (Talay Bua Daeng) in der Nähe.",
+        "Wichtiger Standort für den Handel mit dem Nachbarland Laos.",
+        "Udon Thani International Airport (UTH) ist einer der verkehrsreichsten.",
+        "Beherbergt eine bedeutende chinesisch-thailändische Gemeinschaft."
+      ]
+    },
+    {
+      "id": "nakhon-ratchasima-cities-v2",
+      "descriptionAdvanced": "Nakhon Ratchasima, oft einfach Korat genannt, ist die drittgrösste Stadt Thailands und das administrative sowie wirtschaftliche Zentrum des Nordostens, des Isan. Als historisches Bollwerk gegen Kambodscha verfügt die Stadt über eine reiche Geschichte, die in den Überresten der alten Stadtmauern und Tore sichtbar ist. Das Herz der Stadt ist das Denkmal der Thao Suranari, einer lokalen Heldin, die 1826 eine Revolte gegen laotische Invasoren anführte und von der Bevölkerung tief verehrt wird. Korat ist ein idealer Ausgangspunkt für Erkundungen der umliegenden Nationalparks wie Khao Yai und der beeindruckenden Khmer-Ruinen in Phimai. Die Stadt selbst bietet eine moderne Infrastruktur mit grossen Malls, Universitäten und einem lebendigen Nachtmarkt. Korat ist zudem ein bedeutender Verkehrsknotenpunkt, an dem sich die Eisenbahnlinien und Autobahnen teilen, die den Isan mit Zentralthailand verbinden. Die lokale Wirtschaft wird durch Landwirtschaft, Industrie und den Bildungssektor geprägt.",
+      "factsAdvanced": [
+        "Wird traditionell as 'Tor zum Isan' bezeichnet.",
+        "Gegründet während der Herrschaft von König Narai (1656–1688).",
+        "Thao Suranari (Ya Mo) ist die Schutzpatronin der Stadt.",
+        "Beherbergt den Korat Zoo, einen der grössten Zoos Thailands.",
+        "Wichtiger Standort der thailändischen Luftwaffe (RTAF).",
+        "Endstation der geplanten Hochgeschwindigkeitsstrecke von Bangkok.",
+        "Die Stadt liegt am Fluss Mun, einem Nebenfluss des Mekong.",
+        "Bekannt für die Produktion von Korat-Seide und Keramik."
+      ]
+    },
+    {
+      "id": "hat-yai-cities-v2",
+      "descriptionAdvanced": "Hat Yai ist die grösste Stadt im Süden Thailands und ein bedeutendes Handels-, Logistik- und Bildungszentrum nahe der Grenze zu Malaysia. Obwohl sie nicht die Provinzhauptstadt ist, überstrahlt sie Songkhla wirtschaftlich und ist ein Magnet für Touristen aus dem Nachbarland Malaysia und Singapur, die vor allem zum Einkaufen und wegen der Gastronomie kommen. Die Stadt bietet eine quirlige Atmosphäre mit zahlreichen Märkten wie dem Kim Yong Market, wo man alles von Kleidung bis zu getrockneten Früchten findet. Ein Highlight ist der Hat Yai Municipal Park, von dem aus eine Seilbahn zum Gipfel eines Hügels führt, der eine goldene Buddha-Statue und einen grossartigen Blick über die Stadt beherbergt. Hat Yai ist auch für seine religiöse Vielfalt bekannt, mit bedeutenden buddhistischen Tempeln und Moscheen. Als Verkehrsknotenpunkt verfügt die Stadt über einen internationalen Flughafen und einen wichtigen Bahnhof an der Strecke nach Malaysia.",
+      "factsAdvanced": [
+        "Grösste Stadt in der Provinz Songkhla im Süden Thailands.",
+        "Bedeutendstes Wirtschaftszentrum südlich von Bangkok.",
+        "Liegt etwa 30 Kilometer von der malaysischen Grenze entfernt.",
+        "Der Kim Yong Market ist berühmt für importierte Waren.",
+        "Hat Yai Municipal Park bietet die einzige Seilbahn Thailands.",
+        "Wichtiger Eisenbahnknotenpunkt für Züge nach Padang Besar.",
+        "Beherbergt die Prince of Songkla University, die grösste im Süden.",
+        "Besitzt den Hat Yai International Airport (HDY)."
+      ]
+    },
+    {
+      "id": "ayutthaya-cities-v2",
+      "descriptionAdvanced": "Ayutthaya, die ehemalige glanzvolle Hauptstadt des Königreichs Siam, ist heute eine beeindruckende Ruinenstadt und ein UNESCO-Weltkulturerbe, nur etwa 80 Kilometer nördlich von Bangkok gelegen. Im Jahr 1350 gegründet, entwickelte sich Ayutthaya zu einer der grössten und reichsten Metropolen der Welt, bevor sie 1767 von den Birmanen zerstört wurde. Die heutigen Ruinen der monumentalen Tempelanlagen wie Wat Mahathat, bekannt für den im Baum eingewachsenen Buddhakopf, und Wat Chaiwatthanaram zeugen von der einstigen Pracht. Die Stadt liegt auf einer Insel, die von drei Flüssen umschlossen wird, was ihr strategische und wirtschaftliche Vorteile verschaffte. Besucher können die historische Stätte per Fahrrad, Tuk-Tuk oder bei einer Bootstour erkunden. Ayutthaya ist nicht nur ein Ort für Geschichtsliebhaber, sondern auch ein lebendiges religiöses Zentrum, in dem viele Tempel noch aktiv genutzt werden. Die Kombination aus historischer Erhabenheit und spiritueller Tiefe macht Ayutthaya zu einem der wichtigsten kulturellen Ziele Thailands.",
+      "factsAdvanced": [
+        "Offizieller Name: Phra Nakhon Si Ayutthaya.",
+        "War von 1350 bis 1767 die Hauptstadt von Siam.",
+        "Wurde 1991 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+        "Die Ruinenstadt liegt auf einer Insel zwischen Chao Phraya, Pa Sak und Lopburi.",
+        "Wat Phra Si Sanphet war der bedeutendste Tempel der Stadt.",
+        "Die Stadt hatte zur Blütezeit über eine Million Einwohner.",
+        "Bekannt für den 'Buddha-Kopf in den Baumwurzeln' im Wat Mahathat.",
+        "Ein wichtiger Binnenhafen für den Handel mit Europa und Asien."
+      ]
+    },
+    {
+      "id": "khon-kaen-cities-v2",
+      "descriptionAdvanced": "Khon Kaen ist ein dynamisches Bildungs- und Verwaltungszentrum im Herzen des Isan, dem thailändischen Nordosten. Die Stadt beherbergt eine der grössten Universitäten des Landes, die Khon Kaen University, was ihr eine jugendliche und innovative Atmosphäre verleiht. Ein architektonisches Wahrzeichen ist der Wat Phra Mahathat Kaen Nakhon, ein neunstöckiger Tempel am Ufer des Bueng Kaen Nakhon Sees, von dessen Spitze man einen weiten Blick über die Stadt hat. Khon Kaen ist bekannt für seine hochwertige Seidenproduktion, insbesondere die berühmte Mudmee-Seide aus dem nahegelegenen Bezirk Chonnabot. Die Stadt verfügt über eine moderne Infrastruktur mit einem Flughafen, grossen Einkaufszentren und einer lebendigen Musikszene, die tief in der Isan-Kultur verwurzelt ist. Für Naturinteressierte bieten die nahegelegenen Nationalparks wie Phu Wiang faszinierende Einblicke in prähistorische Fundstätten, da die Region als einer der reichsten Dinosaurier-Fundorte Thailands gilt.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Khon Kaen im zentralen Isan.",
+        "Ein bedeutender Knotenpunkt des 'East-West Economic Corridor'.",
+        "Beherbergt das Sirindhorn Dinosaur Museum in der Nähe.",
+        "Zentrum für die Produktion von Mudmee-Seide.",
+        "Der Bueng Kaen Nakhon See ist der soziale Mittelpunkt der Stadt.",
+        "Khon Kaen International Airport (KKC) verbindet die Stadt mit Bangkok.",
+        "Wichtiger Standort für Konferenzen und Ausstellungen (MICE).",
+        "Die Stadt hat ein modernes Bussystem namens Khon Kaen City Bus."
+      ]
+    },
+    {
+      "id": "surat-thani-cities-v2",
+      "descriptionAdvanced": "Surat Thani, die 'Stadt der guten Menschen', ist das administrative Zentrum der gleichnamigen Provinz im Süden Thailands und fungiert primär als wichtiges Tor zu den berühmten Ferieninseln im Golf von Thailand. Von hier aus starten die meisten Fähren nach Koh Samui, Koh Phangan und Koh Tao. Die Stadt selbst liegt am Ufer des Tapee-Flusses und bietet eine authentische thailändische Atmosphäre abseits der grossen Touristenströme. Besucher können den lebhaften Nachtmarkt geniessen, der für seine frischen Meeresfrüchte und lokalen Spezialitäten bekannt ist, oder einen Ausflug in die umliegenden Mangrovenwälder unternehmen. Surat Thani ist zudem ein bedeutendes Zentrum für die Produktion von Kokosnüssen und Kautschuk, was das Umland prägt. In der Nähe befindet sich auch das Surat Thani City Pillar Shrine, ein kunstvolles Gebäude im Srivijaya-Stil, das als spiritueller Schutzpunkt der Stadt gilt. Die Stadt ist durch einen internationalen Flughafen und einen Bahnhof gut an das nationale Verkehrsnetz angebunden.",
+      "factsAdvanced": [
+        "Hauptstadt der grössten Provinz in Südthailand.",
+        "Name bedeutet übersetzt 'Stadt der guten Menschen'.",
+        "Wichtiger Verkehrsknotenpunkt für Reisende zu den Golfinseln.",
+        "Liegt an der Mündung des Tapee-Flusses in den Golf von Thailand.",
+        "Bekannt für den Anbau von Kokospalmen und Ölpalmen.",
+        "Beherbergt die Surat Thani Rajabhat University.",
+        "Der Bahnhof von Surat Thani liegt im Vorort Phunphin.",
+        "Der Srivijaya-Stil prägt viele historische Gebäude der Region."
+      ]
+    },
+    {
+      "id": "chiang-rai-cities-v2",
+      "descriptionAdvanced": "Chiang Rai, die nördlichste Grossstadt Thailands, ist bekannt für ihre entspannte Atmosphäre und ihre aussergewöhnliche moderne Sakralarchitektur. Das berühmteste Wahrzeichen ist der Wat Rong Khun, auch als 'Weisser Tempel' bekannt, ein surrealistisches Meisterwerk ganz aus weissem Gips und Glasmosaiken. Ein weiteres Highlight ist der Wat Rong Suea Ten, der 'Blaue Tempel', der durch seine intensive Farbgebung besticht. Die Stadt war im 13. Jahrhundert die erste Hauptstadt des Lan Na Königreichs, bevor Chiang Mai diese Rolle übernahm. Chiang Rai ist ein idealer Ausgangspunkt für Touren in das Goldene Dreieck, wo Thailand, Laos und Myanmar aufeinandertreffen. Die Region ist geprägt von hohen Bergen, Nebelwäldern und Teeplantagen, insbesondere am Mae Salong Berg. In der Stadt selbst laden der lebhafte Nachtmarkt und der kunstvolle Uhrenturm, der abends farbenprächtig beleuchtet wird, zum Verweilen ein. Die lokale Kultur wird stark von den Einflüssen der verschiedenen Bergvölker der Region bereichert.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1262 von König Mengrai.",
+        "Nördlichste Provinzhauptstadt Thailands.",
+        "Berühmt für den 'Weissen Tempel' (Wat Rong Khun) von Chalermchai Kositpipat.",
+        "Tor zur Region des Goldenen Dreiecks am Mekong.",
+        "Beherbergt die Mae Fah Luang University, eine der schönsten des Landes.",
+        "Der 'Blaue Tempel' (Wat Rong Suea Ten) ist ein modernes Wahrzeichen.",
+        "Zentrum für Teeanbau (Oolong-Tee) in Thailand.",
+        "Besitzt einen internationalen Flughafen (CEI)."
+      ]
+    },
+    {
+      "id": "rayong-cities-v2",
+      "descriptionAdvanced": "Rayong ist eine wichtige Industriestadt an der Ostküste Thailands, die für ihre Strände, Meeresfrüchte und als bedeutendes Zentrum der Öl- und Gasindustrie bekannt ist. Die Stadt liegt im Herzen des thailändischen Industriegürtels und beherbergt den Map Ta Phut Industrial Estate, einen der grössten Industrieparks Südostasiens. Trotz der starken industriellen Prägung bietet Rayong auch reizvolle Natur, darunter den Khao Laem Ya-Mu Ko Samet Nationalpark, der die beliebte Urlaubsinsel Koh Samet umfasst. In der Umgebung der Stadt befinden sich ausgedehnte Obstplantagen, auf denen Rambutan, Mangostan und die berühmte Rayong-Durian angebaut werden. Jedes Jahr im Mai lockt ein grosses Obstfestival Besucher an. Die Stadt selbst bietet eine Mischung aus modernem Komfort und traditionellem thailändischem Leben, mit Tempeln wie dem Wat Pa Pradu, der für seine ungewöhnliche liegende Buddha-Statue bekannt ist. Rayong ist ein wichtiges wirtschaftliches Standbein Thailands und ein bedeutender Steuerzahler des Landes.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Rayong an der Ostküste des Golfs von Thailand.",
+        "Zentrum der thailändischen Petrochemie und Automobilindustrie.",
+        "Wichtigster Produzent von thailändischer Fischsauce (Nam Pla).",
+        "Tor zur Ferieninsel Koh Samet.",
+        "Beherbergt den Wat Pa Pradu mit einem links-liegenden Buddha.",
+        "Wirtschaftliches Zentrum innerhalb des Eastern Economic Corridor (EEC).",
+        "Berühmt für hochwertiges Obst wie Durian und Ananas.",
+        "Besitzt eine Küstenlinie von etwa 100 Kilometern Länge."
+      ]
+    },
+    {
+      "id": "ubon-ratchathani-cities-v2",
+      "descriptionAdvanced": "Ubon Ratchathani, oft einfach Ubon genannt, ist eine der grössten Städte im Osten des Isan und liegt am Ufer des Mun-Flusses. Die Stadt ist tief in der buddhistischen Tradition verwurzelt und berühmt für ihr prachtvolles Kerzenfestival im Juli, das den Beginn der buddhistischen Fastenzeit markiert. Dabei werden riesige, kunstvoll aus Wachs geschnitzte Figuren in einer Parade durch die Stadt gezogen. Ubon bietet eine ruhige und authentische Atmosphäre mit vielen ehrwürdigen Tempeln wie dem Wat Phra That Nong Bua, der dem Mahabodhi-Tempel in Indien nachempfunden ist. Die Umgebung der Stadt ist geprägt von spektakulären Naturformationen, darunter der Pha Taem Nationalpark mit seinen prähistorischen Felsmalereien und die bizarren Sandsteinformationen von Sam Phan Bok, dem 'Grand Canyon von Thailand'. Als Tor nach Laos bietet Ubon wichtige Handelsverbindungen und ist durch einen internationalen Flughafen und eine Bahnlinie gut mit dem Rest Thailands verbunden.",
+      "factsAdvanced": [
+        "Name bedeutet übersetzt 'Königliche Stadt der Lotusblume'.",
+        "Hauptstadt der Provinz Ubon Ratchathani im Osten des Isan.",
+        "Das Kerzenfestival (Candle Festival) ist das bekannteste Event der Region.",
+        "Liegt am Mun-Fluss, unweit der Mündung in den Mekong.",
+        "Beherbergt den Tempel Wat Phra That Nong Bua mit seiner goldenen Pagode.",
+        "Wichtiger Bildungsstandort mit der Ubon Ratchathani University.",
+        "Besitzt einen internationalen Flughafen (UBP) mit militärischer Mitnutzung.",
+        "Tor zum Grenzübergang Chong Mek nach Laos."
+      ]
+    },
+    {
+      "id": "nakhon-sawan-cities-v2",
+      "descriptionAdvanced": "Nakhon Sawan, auch bekannt als 'Pak Nam Pho', ist eine strategisch wichtige Stadt in Zentralthailand, wo die Flüsse Ping und Nan zusammenfliessen und den mächtigen Chao Phraya bilden. Diese Lage machte die Stadt historisch zu einem bedeutenden Handelsplatz und Verkehrsknotenpunkt zwischen Nord- und Zentralthailand. Die Stadt ist besonders bekannt für ihre grosse chinesischstämmige Gemeinschaft, was sich jedes Jahr im spektakulären Drachen- und Löwentanzfestival während des chinesischen Neujahrs zeigt. Ein markantes Wahrzeichen ist der Phornthep-Turm auf dem Hügel des Wat Khiriwong, der einen Panoramablick über den Zusammenfluss der Flüsse und die Stadt bietet. In der Nähe befindet sich Bueng Boraphet, der grösste Süsswassersee Thailands, ein Paradies für Vogelbeobachter und Naturliebhaber. Nakhon Sawan ist ein Zentrum der Agrarindustrie, insbesondere für Reis und Zuckerrohr, und spielt eine Schlüsselrolle in der thailändischen Logistik.",
+      "factsAdvanced": [
+        "Name bedeutet übersetzt 'Himmlische Stadt'.",
+        "Ort, an dem der Chao Phraya Fluss offiziell seinen Ursprung nimmt.",
+        "Das chinesische Neujahrsfest wird hier besonders prunkvoll gefeiert.",
+        "Beherbergt den Bueng Boraphet, den grössten Süsswassersee des Landes.",
+        "Wichtiger Eisenbahnknotenpunkt an der Nordstrecke (Bangkok-Chiang Mai).",
+        "Zentrum der thailändischen Zuckerrohr- und Reisproduktion.",
+        "Wat Khiriwong bietet den besten Aussichtspunkt über die Stadt.",
+        "Pak Nam Pho ist die Bezeichnung für das historische Viertel am Fluss."
+      ]
+    },
+    {
+      "id": "nakhon-si-thammarat-cities-v2",
+      "descriptionAdvanced": "Nakhon Si Thammarat ist eine der ältesten und historisch bedeutendsten Städte Südthailands. Sie war einst das Zentrum des buddhistischen Srivijaya-Königreichs und spielt bis heute eine zentrale Rolle in der thailändischen Religionsgeschichte. Das wichtigste Wahrzeichen ist der Wat Phra Mahathat Woramahawihan, einer der heiligsten Tempel des Landes, dessen markante weisse Pagode mit einer goldenen Spitze den Horizont dominiert. Die Stadt ist zudem berühmt für das traditionelle Schattentheater 'Nang Talung', eine Kunstform, die hier ihren Ursprung hat und bis heute gepflegt wird. Neben ihrem kulturellen Reichtum bietet die Umgebung von Nakhon Si Thammarat beeindruckende Naturlandschaften, von den unberührten Bergen des Khao Luang Nationalparks bis hin zu einsamen Küstenabschnitten. Die Stadt hat sich eine sehr authentische, traditionsbewusste Atmosphäre bewahrt, abseits der grossen touristischen Zentren des Südens. Die lokale Wirtschaft wird durch Landwirtschaft, insbesondere Obstbau und Fischerei, sowie durch den aufstrebenden Ökotourismus geprägt.",
+      "factsAdvanced": [
+        "Eine der ältesten Städte Thailands mit einer über 1.000-jährigen Geschichte.",
+        "Wat Phra Mahathat steht auf der vorläufigen Liste zum UNESCO-Weltkulturerbe.",
+        "Heimat der traditionellen Schattenspielkunst 'Nang Talung'.",
+        "Zentrum für die Herstellung von hochwertigem Niellowerk (Silberschmuck).",
+        "Beherbergt den Khao Luang, den höchsten Berg in Südthailand (1.835 m).",
+        "Wichtiger Standort der Walailak University.",
+        "Berühmt für Spezialitäten wie die Mangostan-Frucht und scharfe Süd-Currys.",
+        "Besitzt einen Flughafen (NST) mit Verbindungen nach Bangkok."
+      ]
+    },
+    {
+      "id": "phitsanulok-cities-v2",
+      "descriptionAdvanced": "Phitsanulok ist eine historisch bedeutsame Stadt im unteren Norden Thailands und ein wichtiger Verkehrsknotenpunkt zwischen Bangkok und den nördlichen Provinzen. Die Stadt liegt am Ufer des Nan-Flusses und ist berühmt für den Wat Phra Si Rattana Mahathat, der die Phra Buddha Chinnarat beherbergt, eine der schönsten und am meisten verehrten Buddha-Statuen Thailands. Als Geburtsort von König Naresuan dem Grossen, der Siam im 16. Jahrhundert von der birmanischen Vorherrschaft befreite, nimmt die Stadt einen besonderen Platz im Herzen der Thailänder ein. Phitsanulok ist zudem ein Zentrum für Bildung und Verwaltung und beherbergt die Naresuan University. Eine Besonderheit der Stadt ist der Hausbootverkehr auf dem Nan-Fluss, der einen Einblick in traditionelle Lebensweisen am Wasser bietet. Die Umgebung lädt zu Ausflügen in Nationalparks mit spektakulären Wasserfällen und dichten Wäldern ein. Dank seiner zentralen Lage ist Phitsanulok ein idealer Stopover für Reisende auf dem Weg nach Sukhothai oder Chiang Mai.",
+      "factsAdvanced": [
+        "Gegründet vor über 600 Jahren während der Sukhothai-Ära.",
+        "Heimat der berühmten Phra Buddha Chinnarat Statue.",
+        "Geburtsort von König Naresuan (reg. 1590–1605).",
+        "Liegt am Nan-Fluss, der die Stadt in zwei Teile teilt.",
+        "Wichtiger Standort der Naresuan University.",
+        "Bekannt für das 'Flying Morning Glory' Gericht in den Nachtmärkten.",
+        "Wichtiger Eisenbahnknotenpunkt der Nordstrecke.",
+        "Phitsanulok Airport (PHS) bedient die Region."
+      ]
+    },
+    {
+      "id": "kanchanaburi-cities-v2",
+      "descriptionAdvanced": "Kanchanaburi, westlich von Bangkok gelegen, ist weltberühmt für die Brücke am Kwai und die dunkle Geschichte der 'Todesbahn' aus dem Zweiten Weltkrieg. Die Stadt liegt malerisch am Zusammenfluss der Flüsse Kwai Noi und Kwai Yai, die hier zum Mae Klong verschmelzen. Besucher kommen oft, um die historischen Stätten zu besichtigen, darunter das JEATH War Museum und den Ehrenfriedhof der Alliierten. Doch jenseits der tragischen Vergangenheit ist Kanchanaburi ein Paradies für Naturliebhaber, umgeben von Kalksteinbergen, dichten Dschungeln und spektakulären Nationalparks. Ein Highlight ist der Erawan Nationalpark mit seinen siebenstufigen, smaragdgrünen Wasserfällen. Viele Unterkünfte in der Region sind schwimmende Hausflösse auf dem Fluss, die ein naturnahes Erlebnis bieten. Die Stadt selbst hat eine entspannte Atmosphäre mit vielen Cafés am Flussufer und ist ein beliebter Ausgangspunkt für Trekkingtouren, Elefantenbegegnungen und Bootsfahrten. Kanchanaburi verbindet auf einzigartige Weise historisches Gedenken mit beeindruckender Naturvielfalt.",
+      "factsAdvanced": [
+        "Liegt etwa 130 Kilometer westlich von Bangkok.",
+        "Die echte Brücke am Kwai wurde im Zweiten Weltkrieg von Zwangsarbeitern erbaut.",
+        "Beherbergt den Erawan Nationalpark mit seinen berühmten Wasserfällen.",
+        "Fluss Mae Klong beginnt hier am Zusammenfluss der Kwai-Flüsse.",
+        "Der Hellfire Pass (Konyu Cutting) ist ein wichtiges Mahnmal in der Nähe.",
+        "Bekannt für den Anbau von Edelsteinen, insbesondere Saphiren.",
+        "Die Bahnstrecke wird heute noch teilweise für touristische Fahrten genutzt.",
+        "Einer der beliebtesten Orte für Wochenendausflügler aus Bangkok."
+      ]
+    },
+    {
+      "id": "songkhla-cities-v2",
+      "descriptionAdvanced": "Songkhla ist eine ruhige und charmante Küstenstadt am Golf von Thailand, die im Gegensatz zu ihrer quirligen Schwesterstadt Hat Yai eine entspannte, historische Atmosphäre bewahrt hat. Die Stadt liegt auf einer schmalen Landzunge zwischen dem Meer und dem Songkhla-See, dem grössten Lagunensee Thailands. Berühmt ist der Samila Beach mit seiner goldenen Meerjungfrau-Statue, die zum Wahrzeichen der Stadt geworden ist. Die Altstadt von Songkhla besticht durch sino-portugiesische Architektur und kunstvolle Wandmalereien, die die lokale Kultur und Geschichte lebendig halten. Als Provinzhauptstadt beherbergt sie wichtige Verwaltungsgebäude, Museen und Universitäten. Die Gastronomie in Songkhla ist exzellent und bietet eine Mischung aus thailändischen, chinesischen und malaysischen Einflüssen, wobei frische Meeresfrüchte im Mittelpunkt stehen. Die Stadt ist zudem ein bedeutendes Fischereizentrum und verfügt über einen Hafen, der für die regionale Wirtschaft von grosser Bedeutung ist. Die Nähe zum See ermöglicht Ausflüge zur Vogelinsel oder zur historischen Insel Koh Yo.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Songkhla im tiefen Süden Thailands.",
+        "Liegt an der grössten natürlichen Lagune Thailands, dem Songkhla-See.",
+        "Samila Beach ist bekannt für die 'Golden Mermaid' Statue.",
+        "Die Altstadt wurde im 19. Jahrhundert massgeblich geprägt.",
+        "Besitzt ein bedeutendes Nationalmuseum in einem ehemaligen Palast.",
+        "Koh Yo ist bekannt für hochwertige handgewebte Baumwolle.",
+        "Wichtiger Standort für die thailändische Marine und Fischerei.",
+        "Songkhla ist ein bedeutendes Bildungszentrum im Süden."
+      ]
+    },
+    {
+      "id": "chonburi-cities-v2",
+      "descriptionAdvanced": "Chonburi ist die Hauptstadt der gleichnamigen Provinz und ein wichtiges wirtschaftliches Kraftzentrum an der thailändischen Ostküste. Nur etwa 80 Kilometer von Bangkok entfernt, ist die Stadt eng mit der Industrie und dem Seehandel verbunden, beherbergt jedoch auch kulturelle Schätze und bietet einen Einblick in das authentische Leben am Meer. Ein jährlicher Höhepunkt ist das berühmte Büffelrennen (Wing Khwai), das seit over 100 Jahren stattfindet und Zuschauer aus dem ganzen Land anlockt. Die Stadt ist zudem für ihren Ang Sila Fischmarkt bekannt, wo frische Meeresfrüchte und die berühmten Mörser aus Granit verkauft werden. In der Umgebung von Chonburi finden sich beeindruckende Tempel wie der Wat Yansangwararam und natürliche Sehenswürdigkeiten wie der Bang Saen Beach, der besonders bei einheimischen Ausflüglern beliebt ist. Die lokale Wirtschaft wird massgeblich durch den Hafen von Laem Chabang und zahlreiche Industrieparks geprägt, was Chonburi zu einer der wohlhabendsten Provinzen Thailands macht. Trotz der Industrialisierung bleibt die Stadt ein Zentrum für thailändische Traditionen und Küstenkultur.",
+      "factsAdvanced": [
+        "Liegt an der östlichen Spitze der Bucht von Bangkok.",
+        "Das Büffelrennen (Wing Khwai) findet jährlich im Oktober statt.",
+        "Ang Sila ist berühmt für die Herstellung von Steinmörsern.",
+        "In der Nähe liegt der Bang Saen Beach, ein populäres lokales Ziel.",
+        "Wirtschaftliches Zentrum des Eastern Economic Corridor (EEC).",
+        "Beherbergt die Burapha University, eine der führenden im Osten.",
+        "Die Provinz Chonburi umfasst auch den bekannten Ferienort Pattaya.",
+        "Wichtiger Standort für die Automobil- und Elektronikindustrie."
+      ]
+    },
+    {
+      "id": "trang-cities-v2",
+      "descriptionAdvanced": "Trang ist eine charmante und friedliche Stadt im Südwesten Thailands, die für ihre exzellente Gastronomie, ihre koloniale Architektur und als Tor zu den unberührten Inseln der Andamanensee bekannt ist. Die Stadt hat eine starke chinesische Prägung, was sich besonders in der kulinarischen Szene widerspiegelt; das berühmte 'Trang Roast Pork' und das traditionelle Dim Sum Frühstück sind überregional bekannt. Besucher schätzen die entspannte Atmosphäre der Stadt, die sich ihren authentischen Charakter abseits der grossen Touristenmassen bewahrt hat. Ein architektonisches Highlight sind die historischen Gebäude in der Altstadt und der markante Uhrenturm. Trang ist ein idealer Ausgangspunkt für Ausflüge zu Inseln wie Koh Kradan oder Koh Mook mit der spektakulären Smaragdhöhle (Tham Morakot). In der Umgebung finden sich zudem dichte Regenwälder, Wasserfälle und Höhlen, die zum Entdecken einladen. Die Region ist auch ein wichtiges Zentrum für den Kautschukanbau, da hier 1899 die ersten Gummibäume Thailands gepflanzt wurden.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Trang an der Andamanenküste.",
+        "Bekannt als 'Stadt der Feinschmecker' (City of Gastronomy).",
+        "Der erste Kautschukbaum Thailands wurde 1899 in Trang gepflanzt.",
+        "Berühmt für das knusprige Röstschweinefleisch (Mu Yang Trang).",
+        "Trang hat einen markanten Uhrenturm im Stadtzentrum.",
+        "Tor zur Emerald Cave (Tham Morakot) auf Koh Mook.",
+        "Besitzt einen Flughafen (TST) mit täglichen Flügen nach Bangkok.",
+        "Die Region ist Heimat der seltenen Seekühe (Dugongs)."
+      ]
+    },
+    {
+      "id": "lampang-cities-v2",
+      "descriptionAdvanced": "Lampang, oft die 'Stadt der Pferdekutschen' genannt, liegt im malerischen Wang-Flusstal in Nordthailand und ist eine der wenigen Städte des Landes, in denen Pferdekutschen noch als offizielles Verkehrsmittel für Touristen dienen. Diese Tradition verleiht der Stadt eine nostalgische und gemütliche Atmosphäre, die an vergangene Zeiten erinnert. Lampang verfügt über eine reiche Geschichte als wichtiges Handelszentrum der Teakholzindustrie, was in den prächtigen, alten Holzhäusern wie dem Baan Sao Nak sichtbar ist. Der bedeutendste Tempel der Region, Wat Phra That Lampang Luang, gilt als eines der schönsten Beispiele für die Lan Na Architektur und beherbergt einen Smaragd-Buddha. Die Stadt ist zudem landesweit bekannt für ihre Keramikproduktion, insbesondere für die handbemalten 'Hahnen-Schalen', die in fast jedem thailändischen Haushalt zu finden sind. In der Umgebung von Lampang befindet sich das Thai Elephant Conservation Center, das sich dem Schutz und der Pflege der thailändischen Elefanten widmet. Die Stadt ist ein idealer Ort für Reisende, die das authentische Nordthailand ohne den Trubel von Chiang Mai erleben möchten.",
+      "factsAdvanced": [
+        "Einzige Stadt Thailands mit Pferdekutschen als Verkehrsmittel.",
+        "Gegründet im 7. Jahrhundert während der Dvaravati-Zeit.",
+        "Zentrum der thailändischen Keramikindustrie (Rooster Bowls).",
+        "Wat Phra That Lampang Luang ist ein Juwel der Lan Na Architektur.",
+        "Beherbergt das Thai Elephant Conservation Center.",
+        "Baan Sao Nak ist ein historisches Haus mit 116 Teakholz-Säulen.",
+        "Wichtiger Standort für die Lignit-Gewinnung (Mae Moh Mine).",
+        "Liegt an der Eisenbahnstrecke von Bangkok nach Chiang Mai."
+      ]
+    },
+    {
+      "id": "samut-prakan-cities-v2",
+      "descriptionAdvanced": "Samut Prakan, oft als 'Pak Nam' (Flussmündung) bezeichnet, liegt direkt südlich von Bangkok an der Mündung des Chao Phraya in den Golf von Thailand. Die Stadt ist ein integraler Bestandteil der Metropolregion Bangkok und beherbergt wichtige Infrastruktureinrichtungen wie den internationalen Flughafen Suvarnabhumi. Trotz ihrer starken Industrialisierung bietet die Stadt faszinierende kulturelle Sehenswürdigkeiten, allen voran die 'Ancient City' (Muang Boran), das weltweit grösste Freilichtmuseum, das Nachbildungen bedeutender thailändischer Baudenkmäler in Originalgrösse oder verkleinert zeigt. Ein weiteres Highlight ist das Erawan-Museum mit seiner riesigen, dreiköpfigen Elefantenstatue aus Bronze. Die Küstenregion Bang Pu ist bekannt für ihre Seevögel, insbesondere die tausenden von Möwen, die hier im Winter Rast machen. Samut Prakan ist zudem ein bedeutendes Zentrum für Logistik und Produktion, mit zahlreichen Fabriken und Hafenanlagen, die den Puls der thailändischen Wirtschaft mitbestimmen. Die Stadt ist über die BTS-Skytrain-Linie hervorragend mit dem Zentrum von Bangkok verbunden.",
+      "factsAdvanced": [
+        "Liegt direkt an der Mündung des Chao Phraya Flusses.",
+        "Beherbergt den Suvarnabhumi International Airport (BKK).",
+        "Muang Boran (Ancient City) ist das grösste Freilichtmuseum der Welt.",
+        "Das Erawan-Museum ist berühmt für seine 250 Tonnen schwere Elefantenstatue.",
+        "Wichtiger Standort für die thailändische Marine (Royal Thai Navy).",
+        "Bang Pu Recreation Center ist ein bekannter Ort zur Vogelbeobachtung.",
+        "Direkter Anschluss an den BTS Skytrain (Sukhumvit Line).",
+        "Bedeutendes Industrie- und Logistikzentrum südlich von Bangkok."
+      ]
+    },
+    {
+      "id": "sakon-nakhon-cities-v2",
+      "descriptionAdvanced": "Sakon Nakhon ist eine geschichtsträchtige Stadt im oberen Nordosten Thailands, eingebettet in die wunderschöne Landschaft rund um den Nong Han See, den grössten natürlichen See des Isan. Die Stadt ist ein bedeutendes spirituelles Zentrum und bekannt für den Wat Phra That Choeng Chum, einen ehrwürdigen Tempel mit einer markanten weissen Pagode. Sakon Nakhon spielt eine zentrale Rolle in der Geschichte des thailändischen Buddhismus der Waldtradition, da viele berühmte Mönche wie Ajahn Mun hier lebten und wirkten. Kulturell ist die Stadt für ihre Indigo-Färberei und die Herstellung von handgewebten Indigo-Stoffen berühmt, die weltweit geschätzt werden. Jedes Jahr im Oktober findet das beeindruckende Wachsschloss-Festival (Wax Castle Festival) statt, bei dem kunstvoll gestaltete Gebäude aus Wachs zu Ehren des Endes der Fastenzeit präsentiert werden. In den nahegelegenen Phu Phan Bergen finden sich zudem prähistorische Fundstätten und Naturschutzgebiete. Die Stadt bietet eine friedliche und traditionelle Atmosphäre, die tief in den Wurzeln der Isan-Kultur verankert ist.",
+      "factsAdvanced": [
+        "Liegt am Ufer des Nong Han Sees, Thailands grösstem natürlichen See.",
+        "Zentrum der thailändischen Indigo-Textilkunst.",
+        "Wat Phra That Choeng Chum ist das wichtigste religiöse Monument.",
+        "Das Wachsschloss-Festival (Wax Castle Festival) ist ein jährlicher Höhepunkt.",
+        "Die Region war ein Rückzugsort für Widerstandskämpfer im 20. Jahrhundert.",
+        "Beherbergt den Phu Phan Palast, eine königliche Residenz.",
+        "Bekannt für hochwertiges Rindfleisch der Rasse Pon Yang Kham.",
+        "Besitzt einen Inlandsflughafen (SNK) mit Verbindungen nach Bangkok."
+      ]
+    },
+    {
+      "id": "lopburi-cities-v2",
+      "descriptionAdvanced": "Lopburi ist eine der ältesten Städte Thailands und berühmt für ihre faszinierende Mischung aus antiken Khmer-Ruinen und einer ungewöhnlich grossen Population von Javaneraffen, die das Stadtzentrum bevölkern. Diese 'Affencity' bietet ein einzigartiges Schauspiel, da die Tiere frei in den Tempeln wie dem Prang Sam Yod, einem dreitürmigen Khmer-Heiligtum, und sogar auf den Strassen leben. Einmal im Jahr wird zu Ehren der Tiere das 'Monkey Buffet Festival' veranstaltet, bei dem tonnenweise Obst für die Affen aufgetischt wird. Neben den tierischen Bewohnern ist Lopburi historisch bedeutsam als zweite Hauptstadt des Ayutthaya-Königreichs unter König Narai, dessen prächtiger Palast, der Phra Narai Ratchaniwet, heute als Museum dient. Die Architektur der Stadt zeigt Einflüsse aus verschiedenen Epochen, von der Khmer-Zeit bis zum europäischen Barock des 17. Jahrhunderts. Lopburi ist zudem ein wichtiges militärisches Zentrum und liegt inmitten einer fruchtbaren Agrarregion, die besonders für ihre Sonnenblumenfelder bekannt ist. Die Stadt ist bequem mit dem Zug von Bangkok oder Ayutthaya aus zu erreichen.",
+      "factsAdvanced": [
+        "Eine der ältesten durchgehend bewohnten Städte Thailands.",
+        "Prang Sam Yod ist ein beeindruckendes Beispiel für Khmer-Architektur.",
+        "Berühmt für das jährliche 'Monkey Buffet Festival' im November.",
+        "War unter König Narai im 17. Jahrhundert die Residenzstadt von Siam.",
+        "Der Königspalast Phra Narai Ratchaniwet zeigt europäische Einflüsse.",
+        "Zentrum der thailändischen Artillerie und Spezialeinheiten.",
+        "Bekannt für die weiten Sonnenblumenfelder in der Umgebung.",
+        "Liegt an der Nordbahnstrecke, etwa 150 km von Bangkok entfernt."
+      ]
+    }
+  ]
+}

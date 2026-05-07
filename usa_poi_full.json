@@ -38,7 +38,7 @@ export const usaCities: POI[] = [
     descriptionAdvanced: {
       de: "New York City ist eine globale Metropole und ein weltweit führendes Zentrum für Finanzen, hu: "New York City a világ pénzügyi, kulturális és média központja, a 'Nagy Alma' jellegzetes felhőkarcolóival és élettel teli utcáival. Manhattan, Brooklyn és a többi kerület világszinten is meghatározó gazdasági és művészeti hatással bír.", ist 'The Big Apple' berühmt für seine ikonische Skyline, den Times Square und den riesigen Central Park im Herzen von Manhattan.",
       hu: "New York City egy globális metropolisz, a pénzügyi világ, a kultúra és a média egyik legfontosabb központja. Az öt kerületből álló 'Nagy Alma' híres ikonikus felhőkarcolóiról, a Times Square-ről és a Manhattan szívében elterülő hatalmas Central Parkról.",
-      ro: "New York City este o metropolă globală și un centru lider mondial în finanțe, cultură și mass-media. Format din cinci cartiere, „Marele Măr” este faimos pentru orizontul său iconic, Times Square și vastul Central Park din inima Manhattanului.",
+      ro: "New York City este o metropolă globală și un centru lider mondial în finanțe, cultură și mass-media. Format din cinci cartiere, "Marele Măr" este faimos pentru orizontul său iconic, Times Square și vastul Central Park din inima Manhattanului.",
       en: "New York City is a global powerhouse and a leading center for finance, culture, and media. Comprising five boroughs, 'The Big Apple' is world-famous for its iconic skyline, Times Square, and the massive Central Park at the heart of Manhattan."
     },
     facts: {
@@ -142,7 +142,7 @@ export const usaCities: POI[] = [
     descriptionAdvanced: {
       de: "Phoenix, hu: "Phoenix a Nap völgyében fekvő, gyorsan növekvő metropolisz, amely a sivatagi életmód és a modern városfejlesztés egyedülálló kombinációját nyújtja. Arizona állam fővárosa a napsütéses napok magas száma miatt az egyik legnépszerűbb célpont.", liegt im 'Tal der Sonne' und ist bekannt für ihr heißes Wüstenklima und ihre rasant wachsende Bevölkerung. Die Stadt verbindet moderne Architektur mit der rauen Schönheit der Sonora-Wüste und ist ein Zentrum für High-Tech und Tourismus.",
       hu: "Phoenix, Arizona fővárosa a 'Nap völgyében' fekszik, híres forró sivatagi éghajlatáról és gyorsan növekvő lakosságáról. A város ötvözi a modern építészetet a Sonora-sivatag vad szépségével, emellett a technológia és a turizmus központja.",
-      ro: "Phoenix, capitala Arizonei, se află în „Valea Soarelui” și este cunoscut pentru climatul său deșertic fierbinte și populația în creștere rapidă. Orașul îmbină arhitectura modernă cu frumusețea aspră a deșertului Sonora, fiind un centru pentru high-tech și turism.",
+      ro: "Phoenix, capitala Arizonei, se află în "Valea Soarelui" și este cunoscut pentru climatul său deșertic fierbinte și populația în creștere rapidă. Orașul îmbină arhitectura modernă cu frumusețea aspră a deșertului Sonora, fiind un centru pentru high-tech și turism.",
       en: "Phoenix, the capital of Arizona, is located in the 'Valley of the Sun' and is famous for its hot desert climate and rapid urban growth. The city blends modern living with the rugged beauty of the Sonoran Desert and serves as a hub for technology and tourism."
     },
     facts: {
@@ -168,7 +168,7 @@ export const usaCities: POI[] = [
     descriptionAdvanced: {
       de: "Philadelphia ist eine geschichtsträchtige Stadt, hu: "Philadelphia az amerikai függetlenségi törekvések bölcsője, ahol az alkotmányt és a függetlenségi nyilatkozatot is aláírták. A város történelmi jelentőségét a mai napig megőrizte, emellett oktatási és kulturális központként is ismert.",
       hu: "Philadelphia történelmi jelentőségű város, itt írták alá a Függetlenségi Nyilatkozatot és az Alkotmányt. A 'testvéri szeretet városa' a gyarmati idők emlékeit ötvözi a pezsgő modern kultúrával és a híres gasztronómiával.",
-      ro: "Philadelphia este un oraș plin de istorie, unde au fost semnate Declarația de Independență și Constituția SUA. „Orașul iubirii frățești” îmbină siturile coloniale importante cu o cultură modernă vibrantă și o scenă culinară celebră.",
+      ro: "Philadelphia este un oraș plin de istorie, unde au fost semnate Declarația de Independență și Constituția SUA. "Orașul iubirii frățești" îmbină siturile coloniale importante cu o cultură modernă vibrantă și o scenă culinară celebră.",
       en: "Philadelphia is a city steeped in history, where the Declaration of Independence and the US Constitution were signed. The 'City of Brotherly Love' blends historic colonial sites with a vibrant modern culture and a world-famous food scene."
     },
     facts: {
@@ -298,7 +298,7 @@ export const usaCities: POI[] = [
     descriptionAdvanced: {
       de: "Austin, hu: "Austin a 'világ élőzenei fővárosa', amely a texasi kormányzati élet mellett a startup kultúráról és a kreatív iparágakról ismert. A város élhető és fiatalos légköre az egész Egyesült Államokban vonzza a tehetségeket.", ist bekannt für seine lebendige Musikszene, seine progressive Kultur und seine Rolle als schnell wachsendes Technologiezentrum ('Silicon Hills'). Die Stadt bietet eine einzigartige Mischung aus Regierungszentrum, Studentenstadt und Festival-Hotspot.",
       hu: "Austin, Texas fővárosa híres pezsgő zenei életéről, haladó szellemiségű kultúrájáról és gyorsan fejlődő technológiai központjáról ('Silicon Hills'). A város a kormányzati központ, az egyetemi város és a fesztiválok különleges elegyét nyújtja.",
-      ro: "Austin, capitala Texasului, este cunoscut pentru scena sa muzicală vibrantă, cultura progresistă și rolul său de centru tehnologic în creștere rapidă („Silicon Hills”). Orașul oferă un amestec unic de centru administrativ, oraș universitar și hotspot de festivaluri.",
+      ro: "Austin, capitala Texasului, este cunoscut pentru scena sa muzicală vibrantă, cultura progresistă și rolul său de centru tehnologic în creștere rapidă ("Silicon Hills"). Orașul oferă un amestec unic de centru administrativ, oraș universitar și hotspot de festivaluri.",
       en: "Austin, the capital of Texas, is famous for its vibrant live music scene, progressive culture, and role as a booming technology hub ('Silicon Hills'). The city offers a unique blend of a government center, university town, and major festival destination."
     },
     facts: {
@@ -376,7 +376,7 @@ export const usaCities: POI[] = [
     descriptionAdvanced: {
       de: "Columbus ist die Hauptstadt und größte Stadt Ohios, bekannt für eine der größten Universitäten des Landes und eine vielfältige Wirtschaft. Die Stadt besticht durch ihr 'German Village', eine blühende Kunstszene und ihre Rolle als wichtiges Forschungszentrum.",
       hu: "Columbus Ohio fővárosa és legnagyobb városa, amely az ország egyik legnagyobb egyeteméről és sokszínű gazdaságáról ismert. A várost a 'German Village' negyed, a virágzó művészeti élet és a kutatási központként betöltött szerepe teszi vonzóvá.",
-      ro: "Columbus este capitala și cel mai mare oraș din Ohio, cunoscut pentru una dintre cele mai mari universități din țară și o economie diversificată. Orașul impresionează prin „German Village”, o scenă artistică înfloritoare și rolul său de centru important de cercetare.",
+      ro: "Columbus este capitala și cel mai mare oraș din Ohio, cunoscut pentru una dintre cele mai mari universități din țară și o economie diversificată. Orașul impresionează prin "German Village", o scenă artistică înfloritoare și rolul său de centru important de cercetare.",
       en: "Columbus is the capital and largest city of Ohio, known for hosting one of the nation's largest universities and a highly diverse economy. The city features a historic German Village, a vibrant arts scene, and serves as a major hub for research and development."
     },
     facts: {
@@ -402,7 +402,7 @@ export const usaCities: POI[] = [
     descriptionAdvanced: {
       de: "Charlotte ist die größte Stadt in North Carolina und ein bedeutendes Finanzzentrum der USA. Die 'Queen City' ist zudem das Herz des Motorsports in Amerika, hu: "Charlotte Észak-Karolina pénzügyi központja és az amerikai autóversenyzés, a NASCAR szíve. A dinamikusan fejlődő 'Királynő városa' a modern banki szektor és a sportrajongók számára egyaránt fontos úti cél.",
       hu: "Charlotte Észak-Karolina legnagyobb városa és az USA egyik meghatározó pénzügyi központja. A 'Királynő városa' emellett az amerikai autóversenyzés szíve, a NASCAR Hall of Fame és számos versenycsapat otthona.",
-      ro: "Charlotte este cel mai mare oraș din Carolina de Nord și un centru financiar major în SUA. „Queen City” este, de asemenea, inima sporturilor cu motor din America, găzduind NASCAR Hall of Fame și numeroase echipe de curse.",
+      ro: "Charlotte este cel mai mare oraș din Carolina de Nord și un centru financiar major în SUA. "Queen City" este, de asemenea, inima sporturilor cu motor din America, găzduind NASCAR Hall of Fame și numeroase echipe de curse.",
       en: "Charlotte is the largest city in North Carolina and a major financial hub in the US. The 'Queen City' is also the heart of American motorsports, home to the NASCAR Hall of Fame and numerous racing teams."
     },
     facts: {
@@ -623,7 +623,7 @@ export const usaGeography: POI[] = [
     descriptionAdvanced: {
       de: "Die Everglades sind ein einzigartiges subtropisches Ökosystem im Süden Floridas, das oft als 'Fluss aus Gras' bezeichnet wird. Dieses weite Sumpfgebiet beherbergt eine außergewöhnliche Artenvielfalt, darunter den bedrohten Florida-Panther und den Amerikanischen Alligator.",
       hu: "Az Everglades egyedülálló szubtrópusi ökoszisztéma Dél-Floridában, amelyet gyakran 'fűfolyónak' is neveznek. Ez a hatalmas mocsárvidék rendkívüli biológiai sokféleségnek ad otthont, beleértve a veszélyeztetett floridai pantert és az amerikai aligátort.",
-      ro: "Everglades este un ecosistem subtropical unic din sudul Floridei, adesea numit „râul de iarbă”. Această zonă mlăștinoasă vastă găzduiește o biodiversitate excepțională, inclusiv pantera de Florida, aflată în pericol, și aligatorul american.",
+      ro: "Everglades este un ecosistem subtropical unic din sudul Floridei, adesea numit "râul de iarbă". Această zonă mlăștinoasă vastă găzduiește o biodiversitate excepțională, inclusiv pantera de Florida, aflată în pericol, și aligatorul american.",
       en: "The Everglades is a unique subtropical wetland ecosystem in Southern Florida, often described as a 'River of Grass.' This vast wilderness supports an extraordinary array of species, including the endangered Florida panther and the American alligator."
     },
     facts: {
@@ -1007,7 +1007,7 @@ export const usaGeography: POI[] = [
     factsAdvanced: {
       de: ["Teilweise ein Ästuar (Gezeitenfluss)", "Verbindet NYC mit dem Eriesee (über Kanal)", "Berühmt für die 'Palisades' Klippen", "Zentrum der amerikanischen Romantik"],
       hu: ["Részben tölcsértorkolat (árapály-folyó)", "Összeköti New Yorkot az Erie-tóval (csatornán át)", "Híres a 'Palisades' sziklafalakról", "Az amerikai romantika központja"],
-      ro: ["Parțial un estuar cu maree", "Leagă NYC de Lacul Erie prin canal", "Faimos pentru falezele „Palisades”", "Centrul romantismului american"],
+      ro: ["Parțial un estuar cu maree", "Leagă NYC de Lacul Erie prin canal", "Faimos pentru falezele "Palisades"", "Centrul romantismului american"],
       en: ["Lower half is a tidal estuary", "Linked to the Great Lakes via the Erie Canal", "Features the dramatic Palisades cliffs", "Designated an American Heritage River"]
     },
     length: 507
@@ -1195,7 +1195,7 @@ export const usaLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Die Space Needle ist das futuristische Wahrzeichen von Seattle und bietet einen Panoramablick auf die Stadt, den Puget Sound und den Mount Rainier. Mit ihrem ikonischen 'UFO'-Design symbolisiert sie den Optimismus des Weltraumzeitalters der 1960er Jahre.",
       hu: "A Space Needle Seattle futurisztikus jelképe, amely panorámás kilátást nyújt a városra, a Puget-öbölre és a Mount Rainierre. Ikonikus 'UFO' kialakítása az 1960-as évek űrkorszaki optimizmusát jelképezi.",
-      ro: "Space Needle este reperul futurist al orașului Seattle, oferind o vedere panoramică asupra orașului, Puget Sound și Mount Rainier. Cu designul său iconic de „OZN”, simbolizează optimismul erei spațiale din anii 1960.",
+      ro: "Space Needle este reperul futurist al orașului Seattle, oferind o vedere panoramică asupra orașului, Puget Sound și Mount Rainier. Cu designul său iconic de "OZN", simbolizează optimismul erei spațiale din anii 1960.",
       en: "The Space Needle is Seattle's most recognizable landmark, offering panoramic views of the city, Puget Sound, and Mount Rainier. Its futuristic 'flying saucer' design embodies the Space Age optimism of the early 1960s."
     },
     facts: {
@@ -1344,7 +1344,7 @@ export const usaLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Ideal für Wein durch mediterranes Klima", "Berühmt durch das 'Urteil von Paris' 1976", "Besitzt zahlreiche Michelin-Sterne Restaurants", "Bedeutender Wirtschaftsfaktor für Kalifornien"],
       hu: ["A mediterrán klíma ideális a szőlőnek", "Az 1976-os 'párizsi ítélet' tette híressé", "Számos Michelin-csillagos étteremmel büszkélkedhet", "Kalifornia jelentős gazdasági tényezője"],
-      ro: ["Climat mediteranean ideal pentru vița de vie", "Consacrat prin „Judecata de la Paris” din 1976", "Deține numeroase restaurante cu stele Michelin", "Factor economic major pentru California"],
+      ro: ["Climat mediteranean ideal pentru vița de vie", "Consacrat prin "Judecata de la Paris" din 1976", "Deține numeroase restaurante cu stele Michelin", "Factor economic major pentru California"],
       en: ["Unique microclimate perfect for grapes", "Gained global fame at the 1976 Judgment of Paris", "Home to world-renowned 'The French Laundry' restaurant", "Produces 4% of California's wine by volume but 20% by value"]
     },
     historyYear: 1839, historyPeriod: "Modern"
@@ -1360,7 +1360,7 @@ export const usaLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Iowa ist der führende US-Bundesstaat in der Produktion von Mais und Sojabohnen und bildet das Herzstück des amerikanischen 'Corn Belt'. Die fruchtbaren Böden und die moderne Agrartechnologie machen die Region zu einer der produktivsten landwirtschaftlichen Flächen der Erde.",
       hu: "Iowa az USA vezető állama a kukorica- és szójababtermelésben, az amerikai 'Corn Belt' (kukoricaövezet) központja. A termékeny talaj és a modern agrártechnológia a Föld egyik legproduktívabb mezőgazdasági területévé teszi a régiót.",
-      ro: "Iowa este liderul SUA în producția de porumb și soia, formând inima regiunii „Corn Belt”. Solurile fertile și tehnologia agricolă modernă fac din această regiune una dintre cele mai productive zone agricole de pe Pământ.",
+      ro: "Iowa este liderul SUA în producția de porumb și soia, formând inima regiunii "Corn Belt". Solurile fertile și tehnologia agricolă modernă fac din această regiune una dintre cele mai productive zone agricole de pe Pământ.",
       en: "Iowa is the leading US state for corn and soybean production, serving as the core of the American Corn Belt. Its deep, fertile soils and advanced farming technology make it one of the most productive agricultural landscapes on the planet."
     },
     facts: {
@@ -1387,7 +1387,7 @@ export const usaLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Georgia ist als 'The Peach State' bekannt und berühmt für die Qualität und den süßen Geschmack seiner Pfirsiche. Obwohl andere Staaten mehr produzieren, bleibt der Pfirsich das kulturelle Symbol Georgias und ein Zeichen für die landwirtschaftliche Tradition des tiefen Südens.",
       hu: "Georgia 'The Peach State' (az őszibarack állam) néven ismert, híres gyümölcseinek minőségéről és édes ízéről. Bár más államok többet termelnek, az őszibarack Georgia kulturális szimbóluma és a déli állam mezőgazdasági hagyományainak jelképe.",
-      ro: "Georgia este cunoscută sub numele de „The Peach State” și este faimoasă pentru calitatea și gustul dulce al piersicilor sale. Deși alte state produc mai mult, piersica rămâne simbolul cultural al Georgiei și al tradiției agricole din Sud.",
+      ro: "Georgia este cunoscută sub numele de "The Peach State" și este faimoasă pentru calitatea și gustul dulce al piersicilor sale. Deși alte state produc mai mult, piersica rămâne simbolul cultural al Georgiei și al tradiției agricole din Sud.",
       en: "Georgia is officially known as 'The Peach State,' celebrated for the superior quality and sweet flavor of its produce. While other states may harvest more by volume, the peach remains Georgia's primary cultural and agricultural icon."
     },
     facts: {
@@ -1454,7 +1454,7 @@ export const usaLandmarks: POI[] = [
     factsAdvanced: {
       de: ["Čltestes noch genutztes Hollywood-Studio", "Erbaut auf einer ehemaligen Farm", "Berühmter 'Weißer Hai' Set", "Bietet Blick auf das San Fernando Valley"],
       hu: ["A legrégebbi, ma is használt hollywoodi stúdió", "Egy egykori farm területén épült", "Híres a 'Cápa' (Jaws) díszlete", "Kilátást nyújt a San Fernando-völgyre"],
-      ro: ["Cel mai vechi studio de la Hollywood încă în uz", "Construit pe o fostă fermă", "Faimosul set din filmul „Fălci”", "Oferă vedere spre Valea San Fernando"],
+      ro: ["Cel mai vechi studio de la Hollywood încă în uz", "Construit pe o fostă fermă", "Faimosul set din filmul "Fălci"", "Oferă vedere spre Valea San Fernando"],
       en: ["Oldest continuously operating Hollywood studio", "Originally opened as a film production site in 1915", "Features the iconic Bates Motel set from Psycho", "Includes the massive CityWalk entertainment district"]
     },
     historyYear: 1915, historyPeriod: "Modern"
@@ -1497,7 +1497,7 @@ export const usaLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Detroit, bekannt als 'Motor City', ist das Herz der amerikanischen Automobilindustrie und Heimat der 'Big Three': Ford, General Motors und Chrysler. Die Stadt war der Geburtsort des Fließbandes, was die moderne Massenproduktion weltweit revolutionierte.",
       hu: "Detroit, a 'Motor City', az amerikai autóipar szíve, a 'Nagy Három' (Ford, General Motors és Chrysler) otthona. Itt született meg a futószalagos gyártás, amely világszerte forradalmasította a modern tömegtermelést.",
-      ro: "Detroit, cunoscut sub numele de „Motor City”, este inima industriei auto americane și sediul „Celor Trei Mari”: Ford, General Motors și Chrysler. Orașul a fost locul de naștere al liniei de asamblare, revoluționând producția de masă.",
+      ro: "Detroit, cunoscut sub numele de "Motor City", este inima industriei auto americane și sediul "Celor Trei Mari": Ford, General Motors și Chrysler. Orașul a fost locul de naștere al liniei de asamblare, revoluționând producția de masă.",
       en: "Detroit, famously known as 'Motor City,' is the historic heart of the American automotive industry and headquarters for the 'Big Three': Ford, GM, and Chrysler. It was here that Henry Ford pioneered the assembly line, forever changing global manufacturing."
     },
     facts: {
@@ -1603,7 +1603,7 @@ export const usaLandmarks: POI[] = [
     descriptionAdvanced: {
       de: "Die Golden Gate Bridge ist eine der bekanntesten Hängebrücken der Welt und verbindet San Francisco mit dem Marin County. Mit ihrer charakteristischen Farbe 'International Orange' und ihrem oft nebelumspielten Design ist sie ein architektonisches Meisterwerk und das Symbol Kaliforniens.",
       hu: "A Golden Gate híd a világ egyik legismertebb függőhídja, amely San Franciscót köti össze Marin megyével. Jellegzetes 'nemzetközi narancs' színével és gyakran ködbe burkolózó alakjával építészeti remekmű és Kalifornia jelképe.",
-      ro: "Podul Golden Gate este unul dintre cele mai cunoscute poduri suspendate din lume, legând San Francisco de comitatul Marin. Cu culoarea sa distinctivă „portocaliu internațional” și designul adesea învăluit în ceață, este o capodoperă a ingineriei.",
+      ro: "Podul Golden Gate este unul dintre cele mai cunoscute poduri suspendate din lume, legând San Francisco de comitatul Marin. Cu culoarea sa distinctivă "portocaliu internațional" și designul adesea învăluit în ceață, este o capodoperă a ingineriei.",
       en: "The Golden Gate Bridge is one of the world's most famous suspension bridges, spanning the strait between San Francisco and Marin County. Its distinctive 'International Orange' color and Art Deco details make it a global icon of architectural beauty."
     },
     facts: {

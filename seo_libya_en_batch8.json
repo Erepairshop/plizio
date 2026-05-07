@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tobruk-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Tobruk Grand Mosque is the spiritual center of the far eastern Cyrenaica region, standing as a prominent landmark in the city's historic center. Known for its elegant, slender minarets and brilliant white facade, it provides a striking contrast to the dusty, arid environment typical of the Tobruk area. The mosque is not just a place of worship but a critical community center where local tribal and civic leaders frequently gather. Its sweeping courtyard can accommodate thousands during major Islamic holidays. Sociology K7 — urban religious architecture.",
+      "factsAdvanced": [
+        "The largest and most important Islamic worship center in Tobruk.",
+        "Features a brilliant white facade and multiple slender minarets.",
+        "Serves as the primary communal gathering space for local civic leaders.",
+        "Located in the heart of Tobruk's historic commercial district.",
+        "Can accommodate thousands of worshippers during Eid and Friday prayers.",
+        "Provides a stark visual contrast to the surrounding arid desert landscape."
+      ]
+    },
+    {
+      "id": "misrata-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "The Misrata Airport Terminal is a vital civilian and logistical hub that underscores the city's status as Libya's commercial capital. Originally a military airbase, the civilian terminal was rapidly expanded to handle international business flights, primarily connecting to Turkey, Tunisia, and Egypt. The architecture is highly functional, designed to process large volumes of commercial travelers efficiently. During times when Tripoli's airport has been compromised, Misrata often takes over as the primary international gateway for western Libya. Geography K8 — commercial aviation infrastructure.",
+      "factsAdvanced": [
+        "A critical commercial aviation hub for the city of Misrata.",
+        "Originally functioned primarily as a military airbase before civilian expansion.",
+        "Handles frequent international flights to Turkey, Tunisia, and Egypt.",
+        "Features functional, high-capacity terminal architecture.",
+        "Frequently acts as the main western gateway when Tripoli's airports are closed.",
+        "Directly supports the massive international trade flowing through the city."
+      ]
+    },
+    {
+      "id": "al-kish-square-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Al-Kish Square Mosque is a highly recognizable religious structure located in one of Benghazi's most politically significant public spaces. The mosque's modern, expansive design accommodates the massive crowds that often gather in the adjacent square for protests, celebrations, and civic events. It gained profound national prominence during the 2011 revolution, serving as a rallying point for initial uprisings. The mosque remains deeply intertwined with the modern political identity of Benghazi's residents. Sociology K8 — religious spaces and political activism.",
+      "factsAdvanced": [
+        "Located on the highly prominent Al-Kish Square in Benghazi.",
+        "Features a modern, expansive architectural design to hold large crowds.",
+        "Gained massive historical significance during the 2011 Libyan revolution.",
+        "Served as a primary rallying point for early political uprisings.",
+        "The adjacent square is frequently used for massive civic gatherings.",
+        "Deeply tied to the modern political identity of eastern Libya."
+      ]
+    },
+    {
+      "id": "benghazi-great-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Benghazi Great Mosque, historically known as the Atik Mosque, is the oldest existing Islamic structure in the city. Located in the historic Medina, its deeply traditional architecture reflects centuries of North African Islamic design, featuring a modest, unadorned exterior and a serene internal courtyard. Unlike the massive, modern mosques built during the oil boom, this structure offers a quiet, profound link to Benghazi's pre-colonial past. It remains a beloved, active place of worship for the city's oldest families. History K7 — historic urban mosques.",
+      "factsAdvanced": [
+        "The oldest continuously functioning mosque in the city of Benghazi.",
+        "Located within the historic, narrow streets of the city's Medina.",
+        "Also widely known locally as the Atik Mosque.",
+        "Features deeply traditional, unpretentious North African architecture.",
+        "Provides a serene, quiet central courtyard for worshippers.",
+        "A profound surviving link to Benghazi's pre-colonial history."
+      ]
+    },
+    {
+      "id": "tripoli-zoo-life-v2",
+      "descriptionAdvanced": "The Tripoli Zoo, located within the expansive Abu Sitta park complex, was historically one of the largest zoological and botanical gardens in North Africa. Before periods of severe national conflict, it housed a massive collection of African wildlife, including lions, elephants, and diverse bird species. The dense canopy of eucalyptus and pine trees within the park offers a massive 'green lung' for the densely populated capital. Although the animal population has suffered in recent decades, the park itself remains a vital recreational space for families. Biology K6 — urban zoological parks.",
+      "factsAdvanced": [
+        "Located within the massive Abu Sitta park complex in Tripoli.",
+        "Historically one of the largest and most diverse zoos in North Africa.",
+        "Housed extensive collections of native African and exotic wildlife.",
+        "Features a massive, dense canopy of mature eucalyptus and pine trees.",
+        "Serves as a critical 'green lung' for the densely populated capital.",
+        "Currently struggling with rehabilitation efforts after years of conflict."
+      ]
+    },
+    {
+      "id": "benghazi-zoo-life-v2",
+      "descriptionAdvanced": "The Benghazi Zoo, often referred to as Al-Bosco, is a sprawling recreational park and zoological garden located near the city center. It has long been a beloved weekend destination for local families, offering shaded walkways, small lakes, and various animal exhibits. Like many civic institutions in Libya, it faced severe challenges and structural damage during the intense urban warfare of 2014. Recent community-driven efforts have focused on rehabilitating the park's greenery and ensuring the welfare of its remaining animal residents. Sociology K6 — urban recreation and civic rehabilitation.",
+      "factsAdvanced": [
+        "A large public park and zoological garden located centrally in Benghazi.",
+        "Locally referred to affectionately as 'Al-Bosco'.",
+        "Historically featured shaded walkways, small lakes, and diverse animal enclosures.",
+        "Suffered significant neglect and damage during the 2014 urban conflicts.",
+        "Has been the focus of recent, passionate community rehabilitation efforts.",
+        "A highly nostalgic recreational space for generations of Benghazi residents."
+      ]
+    },
+    {
+      "id": "misrata-park-life-v2",
+      "descriptionAdvanced": "Misrata City Park is a beautifully landscaped, expansive public space that provides a sharp, green contrast to the city's heavy industrial zones. Designed to offer recreational relief for the city's booming population, the park features extensive manicured lawns, children's playgrounds, and shaded seating areas. It is particularly vibrant in the late evenings, when families gather to escape the summer heat and enjoy local street food vendors. The park represents the civic wealth generated by Misrata's robust commercial sector. Sociology K6 — urban green spaces and civic wealth.",
+      "factsAdvanced": [
+        "A massive, manicured public park located in the commercial city of Misrata.",
+        "Provides a stark, green contrast to the city's extensive heavy industry.",
+        "Features large lawns, modern playgrounds, and extensive shaded seating.",
+        "Heavily utilized by local families during the cooler evening hours.",
+        "Funded by the civic wealth generated through the city's massive port.",
+        "Hosts numerous local street food vendors and small community events."
+      ]
+    },
+    {
+      "id": "djebel-nafusa-agri-life-v2",
+      "descriptionAdvanced": "The olive groves of the Jebel Nafusa (Nafusa Mountains) are among the most ancient and productive agricultural landscapes in North Africa. Cultivated by indigenous Amazigh farmers for millennia, the terraced mountainsides are covered in hardy, drought-resistant olive trees that thrive in the rocky soil. The oil produced here is renowned across Libya for its intense, peppery flavor and high quality. This agricultural system is a masterpiece of sustainable, traditional dry-farming, relying entirely on seasonal mountain rainfall and deep root systems. Agriculture K7 — traditional dry-farming techniques.",
+      "factsAdvanced": [
+        "Located on the terraced slopes of the western Nafusa Mountains.",
+        "Cultivated continuously by indigenous Amazigh farmers for thousands of years.",
+        "Produces olive oil highly renowned across Libya for its intense flavor.",
+        "Relies entirely on sustainable, traditional dry-farming techniques.",
+        "Trees feature massive, deep root systems to survive in rocky soil.",
+        "A critical economic and cultural pillar for the mountain communities."
+      ]
+    },
+    {
+      "id": "gadamis-oasis-life-v2",
+      "descriptionAdvanced": "The Ghadames Oasis is a brilliant, emerald-green sanctuary entirely surrounded by the brutal, barren expanse of the Sahara Desert. This highly managed agricultural zone is sustained by a complex, ancient system of underground water channels that distribute water from a central artesian spring. The oasis is densely packed with date palms, which provide the necessary canopy shade to grow secondary crops like citrus, pomegranates, and vegetables below. The meticulous, communal management of water here is a testament to historic Saharan survival strategies. Agriculture K8 — oasis multi-canopy agriculture.",
+      "factsAdvanced": [
+        "A highly managed, lush agricultural zone surrounding the historic town of Ghadames.",
+        "Sustained entirely by a complex, ancient network of water distribution channels.",
+        "Utilizes a multi-canopy farming system with date palms providing crucial shade.",
+        "Produces high-quality dates, citrus fruits, pomegranates, and vegetables.",
+        "Water distribution is managed communally based on strict historical traditions.",
+        "Provides a brilliant green contrast to the surrounding hyper-arid Sahara."
+      ]
+    },
+    {
+      "id": "kufra-orchard-life-v2",
+      "descriptionAdvanced": "The Kufra Orchards represent one of the most extreme and fascinating agricultural experiments on Earth, located in the absolute depths of the Libyan Sahara. Historically reliant on traditional oasis farming, the region now features massive center-pivot irrigation circles that tap directly into the ancient Nubian Sandstone Aquifer System. This allows for the cultivation of massive quantities of wheat, barley, and fruits in an area that receives effectively zero rainfall. The bright green circular fields are so massive they are easily visible from space. Geography K8 — extreme desert agriculture and aquifers.",
+      "factsAdvanced": [
+        "Located in the highly remote southeastern desert region of Kufra.",
+        "Utilizes massive center-pivot irrigation systems to grow crops in the sand.",
+        "Draws water directly from the ancient, fossilized Nubian Sandstone Aquifer.",
+        "Produces massive yields of wheat, barley, and various orchard fruits.",
+        "The bright green, circular fields are massive enough to be visible from space.",
+        "Represents an extreme, technologically driven approach to desert farming."
+      ]
+    },
+    {
+      "id": "zawia-farm-life-v2",
+      "descriptionAdvanced": "The Zawia Agricultural Zone is a highly productive, densely farmed strip of land located on the Jafara plain just west of Tripoli. Benefiting from coastal aquifers and a relatively mild Mediterranean climate, this area is a primary supplier of fresh produce for the capital. The landscape is a patchwork of citrus orchards, olive groves, and massive greenhouses growing tomatoes and cucumbers year-round. However, the intensive farming has led to concerns over the depletion and salinization of the local groundwater resources. Agriculture K7 — coastal plain farming and groundwater.",
+      "factsAdvanced": [
+        "Located on the fertile Jafara plain, immediately west of Tripoli.",
+        "A massive supplier of fresh produce, citrus, and olives for the capital.",
+        "Features extensive use of modern greenhouses for year-round cultivation.",
+        "Benefits from a mild Mediterranean climate and coastal aquifers.",
+        "Intensive water extraction has led to severe concerns over groundwater salinization.",
+        "Characterized by a dense, highly subdivided patchwork of family-owned farms."
+      ]
+    },
+    {
+      "id": "gharyan-nursery-life-v2",
+      "descriptionAdvanced": "The Gharyan Nursery region, located at the edge of the Nafusa Mountains, is a specialized agricultural zone famous for producing high-quality fruit tree saplings and ornamental plants. The cooler mountain elevation provides an ideal climate for germinating species that would struggle in the intense heat of the coastal plains. Farmers across Tripolitania travel to Gharyan to purchase young olive, almond, and fig trees. The nurseries here play a critical, foundational role in sustaining the broader agricultural economy of western Libya. Agriculture K7 — specialized horticultural nurseries.",
+      "factsAdvanced": [
+        "Located at the transitional edge of the Nafusa Mountains in western Libya.",
+        "Specializes in the germination and cultivation of fruit tree saplings.",
+        "Produces high-quality young olive, almond, fig, and citrus trees.",
+        "Benefits from a cooler, more temperate climate due to its elevation.",
+        "Supplies essential agricultural stock to farmers across the Tripolitania region.",
+        "Plays a critical, foundational role in the national agricultural supply chain."
+      ]
+    },
+    {
+      "id": "sebha-park-life-v2",
+      "descriptionAdvanced": "The Sebha Family Park is a crucial public recreational space located in the capital of the harsh, southern Fezzan region. In a city dominated by dust, extreme heat, and sprawling concrete, the park offers a rare, highly valued canopy of shade trees and irrigated lawns. It serves as a central gathering point for families in the evenings, offering children's playgrounds and open spaces for socializing. Maintaining the greenery requires constant, dedicated irrigation drawn from deep Saharan aquifers. Sociology K6 — desert urban recreation.",
+      "factsAdvanced": [
+        "A highly valued public recreational park in the southern desert city of Sabha.",
+        "Provides a rare, vital canopy of shade in a notoriously hot, dusty environment.",
+        "Features irrigated lawns, walking paths, and children's playgrounds.",
+        "Requires constant, dedicated watering from deep subterranean aquifers.",
+        "Serves as the primary evening gathering space for local families.",
+        "Highlights the intense civic effort required to maintain greenery in the Sahara."
+      ]
+    },
+    {
+      "id": "tubruq-garden-life-v2",
+      "descriptionAdvanced": "The Tobruk City Garden is a modest but deeply appreciated public square located near the historic center of the eastern coastal city. Characterized by hardy, salt-tolerant palm trees and Mediterranean shrubs, the garden offers a quiet respite from the bustling port and commercial traffic nearby. It frequently serves as a quiet meeting place for elders and a safe play area for children. The garden's resilience mirrors the city itself, maintaining life and color in a notably dry and arid coastal environment. Sociology K6 — coastal civic spaces.",
+      "factsAdvanced": [
+        "A modest, well-maintained public garden located in central Tobruk.",
+        "Landscaped with hardy, salt-tolerant palms and Mediterranean shrubs.",
+        "Offers a quiet, shaded respite from the busy nearby commercial port.",
+        "Frequently utilized as a gathering space for local elders and families.",
+        "Maintains greenery despite the highly arid, dry coastal climate of the extreme east.",
+        "A localized symbol of civic pride and urban resilience."
+      ]
+    },
+    {
+      "id": "al-baida-zoo-life-v2",
+      "descriptionAdvanced": "The Al-Baida Zoo, located in the lush, elevated environment of the Jabal al Akhdar, is one of the more unique recreational facilities in Libya. The cooler mountain climate allows the zoo to house species that would otherwise perish in the coastal or desert heat. Historically, it served as both a recreational park and a minor botanical garden, showcasing the unique flora of the Green Mountains alongside its animal exhibits. It remains a popular educational and weekend destination for families across Cyrenaica. Biology K6 — mountain zoological parks.",
+      "factsAdvanced": [
+        "Located in the city of Al Bayda, high in the Jabal al Akhdar mountains.",
+        "Benefits from a cool, Mediterranean climate unique to the region.",
+        "Houses animal species that require lower temperatures than the desert can offer.",
+        "Historically functioned as a combined zoological and botanical garden.",
+        "Showcases the unique, natural flora native to the 'Green Mountains'.",
+        "A major educational and recreational destination for eastern Libyan families."
+      ]
+    },
+    {
+      "id": "djebel-akhdar-farm-life-v2",
+      "descriptionAdvanced": "The Jebel Akhdar (Green Mountains) Fruit Farming region is the most fertile and naturally productive agricultural zone in all of Libya. Blessed with the highest annual rainfall in the country and rich, red Mediterranean soil, the area produces massive quantities of apples, grapes, peaches, and honey. The landscape is intensely green, featuring rolling hills and deep valleys that look entirely out of place in North Africa. The traditional, family-owned farms here form the absolute backbone of eastern Libya's food supply. Agriculture K7 — high-rainfall Mediterranean farming.",
+      "factsAdvanced": [
+        "Located in the highly fertile Jabal al Akhdar mountains of Cyrenaica.",
+        "Receives the highest annual rainfall of any region in Libya.",
+        "Produces massive commercial quantities of apples, grapes, and peaches.",
+        "Features rich, distinctively red Mediterranean soil.",
+        "The landscape is characterized by deeply green, rolling hills and valleys.",
+        "Acts as the primary, critical food basket for the entire eastern region."
+      ]
+    },
+    {
+      "id": "slonta-nursery-life-v2",
+      "descriptionAdvanced": "The Slonta Nursery is a highly specialized agricultural center situated in the dense forests of the Jabal al Akhdar, south of Al Bayda. It is dedicated to the propagation of native Mediterranean flora, including juniper, cypress, and various fruit-bearing trees. The facility plays a crucial role in local reforestation efforts and supplies commercial farmers with robust, climate-adapted saplings. The dense, cool forest environment surrounding the nursery provides the perfect natural conditions for germinating delicate seedlings. Biology K7 — native flora propagation and reforestation.",
+      "factsAdvanced": [
+        "A highly specialized plant nursery located in the village of Slonta.",
+        "Situated within the dense, natural forests of the Jabal al Akhdar.",
+        "Dedicated to propagating native Mediterranean trees like juniper and cypress.",
+        "Supplies robust, climate-adapted saplings to regional commercial farmers.",
+        "Plays a critical role in local environmental conservation and reforestation.",
+        "Benefits from the cool, shaded, and moist mountain environment."
+      ]
+    },
+    {
+      "id": "jalu-oasis-farm-life-v2",
+      "descriptionAdvanced": "Jalu Oasis Farming represents the pinnacle of traditional Saharan date palm cultivation, located deep in the eastern desert depression. The oasis is dominated by an absolute sea of towering palm trees that provide deep shade for a complex, multi-tiered agricultural system below. Farmers utilize ancient, meticulously maintained irrigation trenches drawing from shallow fossil aquifers to water the groves. The dates produced in Jalu are renowned for their exceptional sweetness and form the core of the local export economy. Agriculture K8 — traditional oasis hydrology and cultivation.",
+      "factsAdvanced": [
+        "Located in the highly isolated Jalu depression in the eastern Libyan desert.",
+        "Dominated by a massive, dense forest of highly productive date palms.",
+        "Utilizes a traditional, multi-tiered farming system under the palm canopy.",
+        "Irrigation is managed via ancient trenches drawing from shallow fossil aquifers.",
+        "The locally produced dates are highly prized across Libya for their sweetness.",
+        "The farming system is deeply intertwined with local tribal traditions."
+      ]
+    },
+    {
+      "id": "awjila-orchard-life-v2",
+      "descriptionAdvanced": "The Awjila Date Grove is one of the oldest continuously farmed agricultural sites in North Africa, intrinsically linked to the survival of this ancient desert community. The grove relies on an incredibly delicate balance of subterranean water extraction and careful canopy management to protect crops from the brutal Saharan sun. Beyond dates, the farmers here cultivate small quantities of hardy grains and vegetables for subsistence. The preservation of these orchards is synonymous with the preservation of the unique Awjila culture itself. Sociology K8 — agricultural heritage and cultural survival.",
+      "factsAdvanced": [
+        "One of the oldest continuously cultivated oasis groves in North Africa.",
+        "Located in the eastern desert, closely associated with the unique Awjila community.",
+        "Relies on highly precise, traditional subterranean water management.",
+        "The dense palm canopy is essential for protecting secondary crops from the sun.",
+        "Produces subsistence quantities of hardy desert grains and vegetables.",
+        "The agricultural practices are vital to the survival of the local culture."
+      ]
+    },
+    {
+      "id": "tauergha-park-life-v2",
+      "descriptionAdvanced": "Tauergha Park is a deeply symbolic and historical green space located in the town of Tawergha, just south of Misrata. Historically, the area was known for its dense, natural palm groves and dark, fertile soil, which supported a unique local agricultural community. The town and its green spaces suffered catastrophic destruction and total depopulation during the 2011 revolution. Today, the slow, agonizing process of rehabilitating the park serves as a poignant symbol for the hopeful return and reconciliation of the Tawergha people. Sociology K8 — post-conflict rehabilitation and reconciliation.",
+      "factsAdvanced": [
+        "Located in the historically prominent agricultural town of Tawergha.",
+        "Historically known for dense, highly productive natural palm groves.",
+        "The entire town, including the park, was devastated and depopulated in 2011.",
+        "Currently the focus of highly sensitive, slow post-conflict rehabilitation efforts.",
+        "Features dark, uniquely fertile soil compared to the surrounding coastal plains.",
+        "Serves as a powerful, poignant symbol for national reconciliation and return."
+      ]
+    }
+  ]
+}

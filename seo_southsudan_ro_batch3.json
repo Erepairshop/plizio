@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "thar-jath-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Thar Jath este un centru major de extracție situat în statul Unity, operat în principal de consorții internaționale. Această facilitate joacă un rol crucial în volumul total de export al Sudanului de Sud, extrăgând țiței de înaltă calitate din bazinele sedimentare ale regiunii. Dezvoltarea câmpului a adus atât provocări de mediu, cât și oportunități economice semnificative pentru infrastructura locală. Geografie K8 – Extracția resurselor și piețele globale.",
+      "factsAdvanced": [
+        "Situat în statul Unity",
+        "Operat de consorțiul SPOC",
+        "Extrage țiței de tip Nile Blend",
+        "Sursă majoră de venituri naționale",
+        "Include stații de procesare a gazului",
+        "Conectat la conducta principală"
+      ]
+    },
+    {
+      "id": "unity-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Unity este unul dintre cele mai vechi și mai emblematice centre de extracție din Sudanul de Sud, fiind pilonul istoric al industriei petroliere naționale. Situat la nord de Bentiu, acest câmp a fost printre primele explorate și a rămas o facilitate strategică de importanță vitală. Infrastructura sa complexă include numeroase sonde conectate la un centru de colectare central. Geografie K8 – Istoria explorării resurselor naturale.",
+      "factsAdvanced": [
+        "Unul dintre primele câmpuri explorate",
+        "Situat la nord de Bentiu",
+        "Include stații de pompare strategice",
+        "Produce mii de barili pe zi",
+        "Vital pentru economia statului Unity",
+        "Punct cheie pe harta energetică"
+      ]
+    },
+    {
+      "id": "juba-river-port-economic-v2",
+      "descriptionAdvanced": "Portul fluvial Juba este principala poartă de acces pe apă către capitala Sudanului de Sud, fiind situat pe malul vestic al Nilului Alb. Acest port este vital pentru logistica națională, permițând transportul barjelor încărcate cu alimente, combustibil și materiale de construcție dinspre nord. Capacitatea sa de descărcare și depozitare a fost modernizată constant pentru a susține creșterea rapidă a orașului. Geografie K7 – Transportul fluvial și aprovizionarea urbană.",
+      "factsAdvanced": [
+        "Principalul port al capitalei",
+        "Situat pe malul Nilului Alb",
+        "Capacitate mare de descărcare barje",
+        "Hub logistic pentru combustibil",
+        "Conectează Juba cu nordul țării",
+        "Punct de vămuire a mărfurilor"
+      ]
+    },
+    {
+      "id": "bor-river-port-economic-v2",
+      "descriptionAdvanced": "Portul fluvial Bor servește ca un nod strategic de distribuție în statul Jonglei, facilitând accesul către vastele regiuni inundabile ale Sudd-ului. Portul este esențial pentru transportul de pasageri și mărfuri către zonele izolate din centrul țării care nu sunt accesibile pe cale rutieră. De asemenea, este un centru major pentru comerțul cu pește și produse agricole din bazinul Nilului. Geografie K7 – Infrastructura în zonele mlaștoase.",
+      "factsAdvanced": [
+        "Nod strategic în statul Jonglei",
+        "Poartă către regiunea Sudd",
+        "Centru major pentru transport barje",
+        "Punct de colectare a peștelui",
+        "Vital pentru aprovizionarea statului",
+        "Situat pe o curbă majoră a Nilului"
+      ]
+    },
+    {
+      "id": "malakal-river-port-economic-v2",
+      "descriptionAdvanced": "Portul fluvial Malakal este un punct de infrastructură critic în nord-estul țării, situat la confluența Nilului Alb cu râul Sobat. Acest port facilitează comerțul transfrontalier și distribuția resurselor în statul Nilul Superior, fiind un punct de tranzit obligatoriu pentru navele care circulă între Juba și granița cu Sudanul. Importanța sa economică este dublată de rolul său în sprijinirea industriei petroliere din apropiere. Geografie K8 – Importanța strategică a porturilor de confluență.",
+      "factsAdvanced": [
+        "Situat lângă confluența cu râul Sobat",
+        "Port vital pentru nord-est",
+        "Capacitate mare de depozitare",
+        "Punct de realimentare pentru barje",
+        "Hub pentru comerțul cu cereale",
+        "Servit de drumuri regionale cheie"
+      ]
+    },
+    {
+      "id": "mangalla-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de zahăr Mangalla reprezintă o componentă importantă a potențialului industrial agro-industrial al Sudanului de Sud. Situată la nord de Juba, fabrica a fost concepută pentru a procesa trestia de zahăr cultivată pe plantațiile irigate din valea Nilului Alb. Acest complex industrial vizează reducerea dependenței țării de importurile de zahăr și crearea de locuri de muncă în sectorul procesării. Sachkunde K3 – De unde vine zahărul?",
+      "factsAdvanced": [
+        "Complex industrial lângă Juba",
+        "Procesează trestie de zahăr locală",
+        "Folosește irigații din Nil",
+        "Proiect major de substituire importuri",
+        "Include stații de rafinare",
+        "Angajator regional important"
+      ]
+    },
+    {
+      "id": "nzara-cotton-ginnery-economic-v2",
+      "descriptionAdvanced": "Fabrica de bumbac din Nzara este un simbol al istoriei industriale a Sudanului de Sud, fiind piesa centrală a Schema Nzara din statul Equatoria de Vest. Această facilitate a fost renumită pentru calitatea prelucrării bumbacului și a asigurat prosperitatea regiunii timp de decenii. Deși infrastructura necesită modernizare, ea rămâne un punct focal pentru speranțele de revitalizare a sectorului textil național. Istorie K8 – Dezvoltarea industrială post-colonială.",
+      "factsAdvanced": [
+        "Piesa centrală a Schemei Nzara",
+        "Specializată în egrenarea bumbacului",
+        "Fondată în perioada colonială",
+        "Simbol al industriei ușoare",
+        "Situată în centura verde a țării",
+        "Punct de procesare a fibrelor"
+      ]
+    },
+    {
+      "id": "renk-river-port-economic-v2",
+      "descriptionAdvanced": "Portul fluvial Renk este cea mai nordică facilitate portuară a Sudanului de Sud pe Nilul Alb, fiind situat la granița cu Sudanul. Portul este specializat în exportul de cereale, în special sorg și mei, provenite din vastele ferme mecanizate din regiunea Renk. Poziția sa strategică îl face un punct cheie pentru colectarea taxelor vamale și pentru comerțul formal între cele două țări. Geografie K8 – Porturile și exportul agricol.",
+      "factsAdvanced": [
+        "Cel mai nordic port al țării",
+        "Hub major pentru exportul de sorg",
+        "Punct vamal de frontieră",
+        "Situat pe malul estic al Nilului",
+        "Vital pentru economia statului Nilul Superior",
+        "Stație terminală pentru barje mari"
+      ]
+    },
+    {
+      "id": "kapoeta-gold-mines-economic-v2",
+      "descriptionAdvanced": "Minele de aur din Kapoeta sunt centrul activității extractive din statul Equatoria de Est, unde aurul este extras atât prin metode artizanale, cât și industriale. Această zonă atrage mii de mineri și comercianți, aurul fiind o sursă vitală de venituri pentru populația locală Toposa. Guvernul lucrează la reglementarea acestui sector pentru a asigura o exploatare durabilă și beneficii economice naționale. Geografie K8 – Mineritul și resursele geologice.",
+      "factsAdvanced": [
+        "Centru major de extracție a aurului",
+        "Minerit predominant artizanal",
+        "Sursă de venit pentru poporul Toposa",
+        "Zăcăminte aluvionare bogate",
+        "Piață vibrantă de metale prețioase",
+        "Reglementare în curs de desfășurare"
+      ]
+    },
+    {
+      "id": "bentiu-oil-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria de petrol din Bentiu a fost construită pentru a oferi Sudanului de Sud capacitatea de a produce combustibili rafinați la nivel local, reducând costurile de import. Situată în inima statului Unity, rafinăria procesează țițeiul extras din câmpurile adiacente pentru a produce motorină și păcură. Această facilitate este esențială pentru securitatea energetică a regiunilor de nord ale țării. Geografie K8 – Procesarea resurselor energetice.",
+      "factsAdvanced": [
+        "Prima rafinărie modernă a țării",
+        "Produce motorină pentru uz domestic",
+        "Situată lângă câmpurile din Unity",
+        "Reduce dependența de importuri",
+        "Include unități de distilare",
+        "Punct strategic de infrastructură"
+      ]
+    },
+    {
+      "id": "shambe-river-port-economic-v2",
+      "descriptionAdvanced": "Portul fluvial Shambe este o facilitate vitală situată pe o ramificație a Nilului Alb în statul Lakes, servind ca punct de legătură între râul principal și zonele interioare. Portul este renumit pentru comerțul cu pește uscat și vite, fiind punctul de plecare pentru mărfurile care alimentează orașul Rumbek. Importanța sa logistică crește în sezonul ploios, când drumurile devin impracticabile. Geografie K7 – Rețelele de transport multimodal.",
+      "factsAdvanced": [
+        "Port interior în statul Lakes",
+        "Conexiune rutieră spre Rumbek",
+        "Centru major pentru pește uscat",
+        "Situat într-o zonă bogată în faună",
+        "Punct de tranzit pentru vite",
+        "Vital pentru aprovizionarea centrală"
+      ]
+    },
+    {
+      "id": "aweil-rice-mill-economic-v2",
+      "descriptionAdvanced": "Moara de orez din Aweil este facilitatea industrială care procesează producția masivă din Schema de Orez Aweil, cea mai mare de acest fel din țară. Situată în statul Bahr el Ghazal de Nord, moara transformă orezul brut în produs finit gata pentru piață, susținând securitatea alimentară regională. Această unitate reprezintă succesul agriculturii mecanizate și al procesării integrate în Sudanul de Sud. Sachkunde K3 – De la câmp la farfurie: Orezul.",
+      "factsAdvanced": [
+        "Cea mai mare moară de orez din țară",
+        "Procesează producția Schemei Aweil",
+        "Situată în statul Bahr el Ghazal de Nord",
+        "Susține fermierii locali",
+        "Tehnologie de procesare industrială",
+        "Pilon al securității alimentare"
+      ]
+    },
+    {
+      "id": "fula-rapids-hydro-economic-v2",
+      "descriptionAdvanced": "Proiectul hidroelectric de la Cascadele Fula vizează utilizarea puterii imense a Nilului Alb lângă Nimule pentru a genera energie curată. Cascadele Fula sunt unul dintre cele mai potrivite locuri pentru hidroenergie datorită căderii mari de apă și debitului constant. Odată finalizat, acest proiect va furniza electricitate capitalei Juba și zonelor înconjurătoare, stimulând dezvoltarea industrială. Geografie K8 – Energia regenerabilă și dezvoltarea.",
+      "factsAdvanced": [
+        "Situat pe Nilul Alb lângă Nimule",
+        "Cel mai bun sit hidroenergetic",
+        "Energie pentru Juba și regiune",
+        "Utilizează cascadele naturale",
+        "Proiect major de infrastructură",
+        "Reduce emisiile de carbon"
+      ]
+    },
+    {
+      "id": "yirol-sesame-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica de procesare a susanului din Yirol utilizează bogata producție agricolă a statului Lakes pentru a produce ulei de susan și produse derivate. Susanul este o cultură de export majoră pentru Sudanul de Sud, iar procesarea sa locală adaugă valoare semnificativă economiei. Fabrica susține mii de mici fermieri din regiune, oferindu-le o piață stabilă pentru recoltele lor. Sachkunde K4 – Culturile de ulei și procesarea lor.",
+      "factsAdvanced": [
+        "Situată în statul Lakes",
+        "Procesează susan de înaltă calitate",
+        "Produce ulei pentru piața locală",
+        "Hub agricol pentru micii fermieri",
+        "Tehnologii de presare la rece",
+        "Susține exporturile ne-petroliere"
+      ]
+    },
+    {
+      "id": "kuajok-meat-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica de procesare a cărnii din Kuajok este situată în inima statului Warrap, o regiune faimoasă pentru numărul imens de vite. Facilitatea a fost construită pentru a profesionaliza sectorul zootehnic, oferind procesare igienică și facilități de refrigerare pentru produsele din carne. Această unitate industrială ajută la transformarea bogăției tradiționale în vite în venituri monetare pentru comunitățile pastorale. Geografie K7 – Modernizarea zootehniei tradiționale.",
+      "factsAdvanced": [
+        "Situată în capitala statului Warrap",
+        "Procesează carne de vită și capră",
+        "Include facilități de refrigerare",
+        "Modernizează comerțul cu vite",
+        "Standarde de igienă industrială",
+        "Susține economia pastorală"
+      ]
+    },
+    {
+      "id": "terekeka-fish-center-economic-v2",
+      "descriptionAdvanced": "Centrul de procesare a peștelui din Terekeka este o facilitate modernă menită să valorifice potențialul piscicol imens al Nilului Alb în teritoriul Mundari. Centrul oferă servicii de colectare, curățare, sărare și afumare a peștelui, asigurând păstrarea calității acestuia pentru transportul către piețele din Juba. Este un exemplu de succes al investițiilor în resursele regenerabile ale fluviului. Sachkunde K4 – Resursele regenerabile ale râului.",
+      "factsAdvanced": [
+        "Hub major pentru pescuitul pe Nil",
+        "Facilități de refrigerare și uscare",
+        "Situat în Terekeka, Equatoria Centrală",
+        "Aprovizionează piețele din capitală",
+        "Susține comunitatea de pescari Mundari",
+        "Promovează tehnici de pescuit durabil"
+      ]
+    },
+    {
+      "id": "adar-yale-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Adar Yale este unul dintre pilonii producției de țiței în Bazinul Melut, situat în statul Nilul Superior. Acesta face parte din Complexul Marii Linii de Sus (Great Nile Pipeline) și produce țiței greu dar valoros, cunoscut sub numele de Dar Blend. Infrastructura sa masivă include zeci de puțuri active și stații de tratare a apei și a gazului asociat. Geografie K8 – Peisajul industrial al câmpurilor petroliere.",
+      "factsAdvanced": [
+        "Parte a Bazinului Melut",
+        "Produce țiței de tip Dar Blend",
+        "Situat în statul Nilul Superior",
+        "Conectat la conducta de export",
+        "Facilități masive de tratare",
+        "Vital pentru bugetul național"
+      ]
+    },
+    {
+      "id": "melut-basin-oil-complex-economic-v2",
+      "descriptionAdvanced": "Complexul petrolier din Bazinul Melut este centrul de coordonare pentru extracția la scară largă în nord-estul țării. Acest complex vast supraveghează mai multe câmpuri, inclusiv Paloch și Adar Yale, asigurând fluxul constant de petrol prin conductele principale. Include facilități administrative, centre logistice și unități de mentenanță care susțin mii de angajați și operațiuni tehnice complexe. Geografie K8 – Managementul marilor complexe industriale.",
+      "factsAdvanced": [
+        "Centru de control pentru Bazinul Melut",
+        "Supraveghează câmpul Paloch",
+        "Infrastructură logistică masivă",
+        "Găzduiește mii de specialiști",
+        "Hub pentru exportul spre Port Sudan",
+        "Centru tehnologic petrolier"
+      ]
+    },
+    {
+      "id": "mala-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Mala este o facilitate de extracție importantă situată în Blocul Unity, cunoscută pentru stabilitatea producției sale pe termen lung. Deși mai mic decât Paloch, Mala contribuie constant la mixul de export al țării și reprezintă o verigă importantă în rețeaua de conducte din statul Unity. Facilitatea utilizează tehnologii avansate pentru a menține presiunea în rezervoare și a maximiza recuperarea țițeiului. Geografie K8 – Tehnologia extracției de hidrocarburi.",
+      "factsAdvanced": [
+        "Situat în Blocul Unity",
+        "Cunoscut pentru producția stabilă",
+        "Parte a rețelei Greater Nile",
+        "Utilizează tehnici de injecție de apă",
+        "Contribuitor constant la export",
+        "Hub regional de extracție"
+      ]
+    },
+    {
+      "id": "fashoda-history-v2",
+      "descriptionAdvanced": "Fashoda (astăzi Kodok) este locul unuia dintre cele mai celebre evenimente diplomatice din secolul al XIX-lea, 'Incidentul Fashoda'. În 1898, expediția franceză condusă de căpitanul Marchand și forțele britanice sub Lord Kitchener s-au întâlnit aici, aducând cele două puteri în pragul războiului pentru controlul Nilului. Fashoda este, de asemenea, centrul spiritual milenar al Regatului Shilluk. Istorie K8 – Rivalități coloniale în Africa.",
+      "factsAdvanced": [
+        "Locul incidentului anglo-francez (1898)",
+        "Centru spiritual al poporului Shilluk",
+        "Sediul tradițional al Regelui (Reth)",
+        "Situat pe malul Nilului Alb",
+        "Punct de cotitură în diplomația europeană",
+        "Sit istoric de importanță mondială"
+      ]
+    },
+    {
+      "id": "rejaf-fort-history-v2",
+      "descriptionAdvanced": "Fortul Rejaf este o așezare istorică situată la sud de Juba, pe un deal care domină cursul Nilului Alb. A fost un punct strategic crucial în timpul epocii coloniale și a servit ca post de frontieră și centru administrativ. Fortul a jucat un rol important în campaniile împotriva sclaviei și a fost o stație cheie pentru exploratorii care călătoreau spre izvoarele Nilului. Istorie K8 – Fortificații și explorări pe Nil.",
+      "factsAdvanced": [
+        "Situat pe un deal strategic",
+        "Fost post colonial și militar",
+        "Bază pentru lupta anti-sclavie",
+        "Stație pentru exploratorii Nilului",
+        "Oferă vedere panoramică asupra râului",
+        "Istorie legată de Emin Pasha"
+      ]
+    },
+    {
+      "id": "lado-enclave-history-v2",
+      "descriptionAdvanced": "Enclava Lado a fost un teritoriu unic din punct de vedere politic, situat pe malul vestic al Nilului Alb, care a făcut parte din Statul Liber Congo între 1894 și 1910 sub Leopold al II-lea. Această regiune a fost un punct de dispută între imperiile britanic, belgian și francez. Astăzi, amintirea enclavei persistă prin numele unor localități și prin poveștile vânătorilor de elefanți din acea epocă. Istorie K8 – Granițele coloniale schimbătoare.",
+      "factsAdvanced": [
+        "Teritoriu administrat de Regele Leopold al II-lea",
+        "Parte a Statului Liber Congo (1894-1910)",
+        "Situată pe malul vestic al Nilului",
+        "Faimoasă pentru vânătoarea de fildeș",
+        "Transferată Sudanului după 1910",
+        "Punct de conflict imperial"
+      ]
+    },
+    {
+      "id": "gondokoro-trading-post-history-v2",
+      "descriptionAdvanced": "Gondokoro a fost cel mai important punct de tranzit și explorare din secolul al XIX-lea în Sudanul de Sud, situat la nord de Juba actuală. A fost locul unde exploratorii Samuel și Florence Baker s-au întâlnit cu Speke și Grant în căutarea izvoarelor Nilului. Ca centru major pentru comerțul cu fildeș și sclavi, Gondokoro a fost punctul final al navigației pe Nil înainte de pragurile muntoase. Istorie K8 – Era marilor explorări africane.",
+      "factsAdvanced": [
+        "Hub istoric pentru exploratorii Nilului",
+        "Loc de întâlnire Speke-Grant-Baker",
+        "Capăt de navigație pentru barje mari",
+        "Fost centru major de comerț",
+        "Numit 'Ismailia' de Samuel Baker",
+        "Situat lângă orașul Juba modern"
+      ]
+    },
+    {
+      "id": "dufile-fort-history-v2",
+      "descriptionAdvanced": "Ruinele Fortului Dufile reprezintă una dintre puținele fortificații de piatră rămase din secolul al XIX-lea în regiune, fiind construit de Emin Pasha în anii 1870. Fortul a fost un avanpost cheie al Provinciei Ecuatoria, menit să asigure controlul asupra transportului pe Nil și să oprească raidurile sclavagiste. Situl păstrează încă urme ale zidurilor și șanțurilor de apărare originale. Istorie K8 – Provincia Ecuatoria și Emin Pasha.",
+      "factsAdvanced": [
+        "Construit de Emin Pasha (anii 1870)",
+        "Fortificație strategică de piatră",
+        "Situat pe Nil lângă Nimule",
+        "Bază a Provinciei Ecuatoria",
+        "Sit istoric protejat",
+        "Urme de tunuri și șanțuri vizibile"
+      ]
+    },
+    {
+      "id": "fort-berkeley-history-v2",
+      "descriptionAdvanced": "Fort Berkeley a fost un avanpost militar britanic stabilit la sfârșitul secolului al XIX-lea pe malul Nilului pentru a securiza regiunea împotriva forțelor Mahdiste din nord. Situat într-o poziție dominantă, fortul asigura supravegherea navigației și proteja liniile de aprovizionare ale expedițiilor coloniale. Astăzi, situl oferă o perspectivă asupra strategiei militare a perioadei 'Scramble for Africa'. Istorie K8 – Securitatea militară pe Nil.",
+      "factsAdvanced": [
+        "Post colonial britanic strategic",
+        "Stabilit împotriva forțelor Mahdiste",
+        "Situat pe o poziție înaltă lângă Nil",
+        "Punct de control al navigației",
+        "Parte a rețelei de forturi din sud",
+        "Sit istoric de interes militar"
+      ]
+    }
+  ]
+}

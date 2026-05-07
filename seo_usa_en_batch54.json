@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cascade-range-relief-v2",
+      "descriptionAdvanced": "The Cascade Range is a north-south chain of volcanic peaks extending from British Columbia through Washington and Oregon into northern California. Formed by the subduction of the Pacific Plate beneath the North American Plate, the range is home to some of the most active and dangerous volcanoes in the United States, including Mount St. Helens. The range serves as a climatic divide, capturing massive amounts of Pacific precipitation that fuels dense temperate rain forests on the western slopes and creates significant rain shadows on the east. As a center for both significant volcanic hazard research and high-altitude water-tower hydrology, the Cascades remain a critical study site for understanding how tectonic activity and climate-driven snowpack loss shape the long-term ecological stability of the Pacific Northwest. Geografie K8 — Volcanic arc formation and climatic rain-shadow effects.",
+      "factsAdvanced": [
+        "A volcanic chain stretching from British Columbia to northern California.",
+        "Formed by the subduction of the Pacific Plate beneath the North American Plate.",
+        "Home to some of the most active and hazardous stratovolcanoes in the US.",
+        "Acts as a climatic divide between western rain forests and eastern rain shadows.",
+        "Crucial high-altitude water tower for Pacific Northwest ecosystems and agriculture.",
+        "Critical study site for volcanic hazards, glaciology, and alpine hydrology."
+      ]
+    },
+    {
+      "id": "basin-and-range-relief-v2",
+      "descriptionAdvanced": "The Basin and Range province is a massive, unique physiographic region covering much of Nevada, western Utah, and parts of the surrounding states. It is characterized by an extensive series of parallel, fault-block mountain ranges separated by flat, arid basins, formed by the literal stretching—or 'extension'—of the North American crust over the last 20 million years. This extreme geological landscape is a natural laboratory for studying arid-land hydrology, crustal thinning, and the survival strategies of high-desert ecosystems that must cope with sparse water and intense evaporation. Today, the Basin and Range remains a critical site for researching the limits of high-desert groundwater stability and the enduring ecological impacts of long-term arid landscape formation. Geografie K8 — Crustal extension and arid-basin hydrology.",
+      "factsAdvanced": [
+        "Massive region defined by parallel fault-block mountains and flat, arid basins.",
+        "Formed by the long-term 'extension' (stretching) of the North American crust.",
+        "Physiographic province covering most of Nevada and western Utah.",
+        "Natural laboratory for studying crustal thinning and high-desert hydrology.",
+        "Species within this region exhibit specialized survival adaptations for extreme aridity.",
+        "Critical research site for regional groundwater management in arid environments."
+      ]
+    },
+    {
+      "id": "ozark-plateau-relief-v2",
+      "descriptionAdvanced": "The Ozark Plateau, spanning parts of Missouri, Arkansas, and Oklahoma, is a unique, deeply eroded highland region that serves as an ecological and geological island in the American mid-continent. Unlike the younger, higher peaks of the Rockies, the Ozarks were formed through the gradual uplift of a massive, ancient geological plateau, which has been carved over time by powerful river systems into deep valleys, steep ridges, and extensive karst cave landscapes. This diverse topography supports a surprisingly varied temperate forest ecosystem, fostering high levels of regional biodiversity and endemic species. Today, the Ozarks serve as a critical site for studying the hydrological health of karst water systems, the long-term resilience of temperate forest biomes, and the management of high-biodiversity ecosystems in an increasingly impacted landscape. Geografie K7 — Karst topography and highland plateau ecology.",
+      "factsAdvanced": [
+        "Deeply eroded highland plateau region across Missouri, Arkansas, and Oklahoma.",
+        "Formed by the gradual uplift and subsequent river-carved erosion of an ancient plateau.",
+        "Features distinctive karst landscapes, including complex cave and spring systems.",
+        "Diverse topography supports high levels of regional biodiversity and endemic species.",
+        "Critical study site for managing fragile karst water resources.",
+        "Represents a unique, stable geological island within the American mid-continent."
+      ]
+    }
+  ]
+}

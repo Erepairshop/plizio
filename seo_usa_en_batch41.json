@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zion-national-park-life-v2",
+      "descriptionAdvanced": "Zion National Park in southwestern Utah is defined by its deep, narrow canyons carved by the Virgin River into vast, multi-colored Navajo Sandstone cliffs. This dramatic, high-desert landscape provides a unique habitat for a variety of species, from desert bighorn sheep to peregrine falcons, and its sheer diversity of plant life—ranging from desert scrub to mountain conifers—makes it a vital site for studying high-desert biodiversity. Because of its intense geological activity and vulnerability to water-flow changes, Zion is a critical laboratory for understanding erosion processes and the fragile interdependence of water and life in an arid environment. Today, it stands as a popular, globally recognized monument to the striking, persistent power of geological transformation and the resilient spirit of desert ecosystems. Biologie K7 — High-desert ecology and geological erosion processes.",
+      "factsAdvanced": [
+        "Features dramatic, narrow canyons carved by the Virgin River.",
+        "Home to desert-adapted megafauna, including bighorn sheep and raptors.",
+        "Significant biological diversity ranging from desert scrub to montane conifer forests.",
+        "A critical site for studying the power of geological erosion in arid environments.",
+        "Provides a vital example of the fragile interdependence of water and life.",
+        "Globally recognized for its stunning, multi-colored Navajo Sandstone formations."
+      ]
+    },
+    {
+      "id": "iowa-corn-fields-life-v2",
+      "descriptionAdvanced": "Iowa is internationally recognized as the agricultural heart of the American Midwest, famously serving as the world's most productive region for corn cultivation. The state’s rich, glacial-deposited soils and a favorable continental climate create an ideal environment for large-scale, high-yield corn production. This industry is a foundational economic pillar, influencing national food policy, the production of ethanol for biofuels, and the international distribution of livestock feed. Today, the endless, highly mechanized fields of Iowa are a definitive landscape of American agriculture, representing both the success of modern industrial farming and the evolving challenges of soil conservation, sustainable land management, and the impacts of large-scale monoculture in the heartland of the United States. Landwirtschaft K8 — Industrial corn production and agricultural landscape management.",
+      "factsAdvanced": [
+        "Internationally recognized as the most productive agricultural region for corn.",
+        "Success is driven by rich glacial soils and an ideal continental climate.",
+        "Massive production base for domestic food, livestock feed, and biofuel ethanol.",
+        "Definitive landscape representing the core of American industrial agriculture.",
+        "Represents both high-efficiency production and modern soil conservation challenges.",
+        "Critical driver of national food policy and international agricultural trade."
+      ]
+    },
+    {
+      "id": "busch-gardens-tampa-bay-life-v2",
+      "descriptionAdvanced": "Busch Gardens Tampa Bay in Florida is a unique theme park that integrates high-thrill roller coaster entertainment with extensive zoological exhibits focused on African wildlife. Originally established as a park showcase for Anheuser-Busch products, it has evolved into a premier destination for studying animal husbandry in a warm, subtropical climate. The park’s diverse animal collection—which includes large-scale African savanna exhibits featuring rhinos, zebras, and giraffes—is deeply committed to global wildlife conservation research and captive-breeding programs. Today, it stands as a multifaceted destination that successfully bridges the gap between high-adrenaline entertainment and the serious work of zoological science and public conservation advocacy, serving as a landmark for Florida's vibrant, multi-dimensional tourism sector. Biologie K7 — Zoological exhibition and interactive wildlife advocacy.",
+      "factsAdvanced": [
+        "Premier theme park integrating roller coaster thrills with African wildlife conservation.",
+        "Features extensive, immersive habitats for large-scale savanna species.",
+        "A foundational partner in international conservation research and breeding programs.",
+        "Historically rooted in the corporate history of Anheuser-Busch.",
+        "Multifaceted destination bridging high-intensity entertainment with zoological science.",
+        "Major landmark for Florida's diverse, multi-dimensional tourism sector."
+      ]
+    }
+  ]
+}

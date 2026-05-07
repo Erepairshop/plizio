@@ -1,0 +1,335 @@
+{
+  "lang": "ro",
+  "country": "lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLesothoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ls-thabana-ntlenyana-nature-v2",
+      "descriptionAdvanced": "Thabana Ntlenyana, cu numele său înșelător de modest care înseamnă 'micul munte frumos', este de fapt cel mai înalt vârf din Africa la sud de Kilimanjaro. Atingând o altitudine uluitoare de 3.482 de metri, acest vârf face parte din lanțul muntos Maloti-Drakensberg și este un far pentru alpiniștii și exploratorii extremi. Datorită pantei sale domoale pe partea dinspre Lesotho, escaladarea nu necesită echipament tehnic de alpinism, dar vremea aspră, care aduce adesea ninsori bruște chiar și vara, reprezintă un pericol constant. Baza muntelui este acoperită de pășuni alpine rare și roci de bazalt vulcanic. Dincolo de faima sa geografică, Thabana Ntlenyana este o sursă crucială de apă pentru râurile care străbat valea Senqu. Geografie K7 — vârfuri majore și climat alpin.",
+      "factsAdvanced": [
+        "Cel mai înalt vârf montan din Africa de Sud la 3.482 de metri.",
+        "Numele se traduce ironic prin 'micul munte frumos'.",
+        "Adesea acoperit de zăpadă în timpul lunilor de iarnă.",
+        "Se află în apropierea faimoasei trecători Sani Pass.",
+        "Ascensiunea nu necesită corzi, dar necesită o condiție fizică excelentă.",
+        "Rocile de suprafață sunt predominant din bazalt vulcanic dur.",
+        "Găzduiește vegetație alpină endemică extrem de rară."
+      ]
+    },
+    {
+      "id": "ls-maloti-mountains-nature-v2",
+      "descriptionAdvanced": "Munții Maloti reprezintă 'coloana vertebrală' stâncoasă a regatului Lesotho, o prelungire spectaculoasă a sistemului Drakensberg. Acești munți acoperă mai mult de două treimi din suprafața țării, creând un peisaj unic de văi săpate adânc de râuri și platouri bătute de vânt. Culoarea specifică a munților se schimbă sezonier, trecând de la un verde crud primăvara la un auriu arid și, în cele din urmă, la un alb orbitor în iernile înghețate. Munții ascund zeci de peșteri împodobite cu picturi străvechi aparținând triburilor San, fiind o adevărată galerie de artă preistorică în aer liber. Această rețea montană este esențială pentru reținerea apei, care este apoi exportată, fiind de facto motorul economic al națiunii. Geografie K7 — lanțuri montane și ecosisteme.",
+      "factsAdvanced": [
+        "Sistemul muntos ocupă peste 70% din teritoriul național.",
+        "Constituie sursa principală pentru sistemul hidrologic regional.",
+        "Ascund numeroase picturi rupestre inestimabile ale poporului San.",
+        "Roca dominantă din acești munți este gresia și bazaltul.",
+        "Sunt predispuși la înghețuri severe și zăpezi abundente iarna.",
+        "Altitudinile medii ale vârfurilor depășesc constant 2.500 de metri.",
+        "Conțin Parcul Național Tsehlanyane în nordul lor."
+      ]
+    },
+    {
+      "id": "ls-senqu-river-nature-v2",
+      "descriptionAdvanced": "Râul Senqu, recunoscut pe plan internațional drept Râul Orange, este cea mai lungă și importantă arteră hidrografică din Africa de Sud, iar călătoria sa epică începe chiar aici, în munții înalți ai Lesotho-ului. Izvorând din estul țării, râul a sculptat de-a lungul mileniilor unele dintre cele mai profunde și spectaculoase defileuri din Africa, vizibile chiar și din spațiu. Comunitățile locale sunt profund legate de cursul său capricios, folosind luncile fertile pentru pășunatul oilor și cailor în sezonul secetos. În mod uimitor, deși începe la altitudini înghețate, apa râului susține viața pe tot parcursul continentului sud-african până se varsă în Oceanul Atlantic. Este coloana vertebrală a vieții sălbatice și agriculturii naționale. Geografie K6 — cursuri de apă majore și defileuri.",
+      "factsAdvanced": [
+        "Râul Senqu este cursul superior al faimosului râu Orange.",
+        "Izvorăște din estul țării și traversează întregul continent.",
+        "Săpează cel mai mare și mai adânc defileu din statul Lesotho.",
+        "Bazinul său de recepție reprezintă o resursă esențială pentru regiune.",
+        "Este un râu extrem de periculos din cauza curenților ascunși.",
+        "Nu are poduri rutiere majore pe porțiuni lungi ale cursului său.",
+        "Susține mici comunități de pescari tradiționali și păstori."
+      ]
+    },
+    {
+      "id": "ls-katse-dam-nature-v2",
+      "descriptionAdvanced": "Barajul Katse este o minune a ingineriei umane și un peisaj modificat colosal, fiind piesa de rezistență a Proiectului Apelor din Lesotho. Terminat în anul 1996, zidul său curbat cu o înălțime de 185 de metri blochează râul Malibamat'so, creând un lac de acumulare uriaș de culoare albastru-închis care șerpuiește printre munții dezgoliți. Acest rezervor masiv are o adâncime de peste 100 de metri și pompează anual milioane de metri cubi de apă dulce printr-un tunel de 45 de kilometri lungime direct către Africa de Sud. Astăzi, suprafața netedă a apei atrage turiști și susține ferme inovatoare de păstrăvi. Impactul său a adus dezvoltare economică, transformând văile liniștite într-un mediu industrial izolat. Geografie K8 — baraje hidroelectrice și infrastructură.",
+      "factsAdvanced": [
+        "Construcția barajului s-a finalizat în anul 1996.",
+        "Are o înălțime de 185 de metri, fiind cel mai înalt din Africa.",
+        "Generează venituri substanțiale prin exportul apei potabile.",
+        "Găzduiește un centru de vizitatori care atrage mii de turiști.",
+        "Apele reci și adânci sunt folosite pentru creșterea păstrăvului.",
+        "A necesitat strămutarea mai multor sate mici de păstori.",
+        "Include un tunel subteran care traversează munții direct."
+      ]
+    },
+    {
+      "id": "ls-maletsunyane-falls-nature-v2",
+      "descriptionAdvanced": "Cascada Maletsunyane este una dintre cele mai captivante atracții naturale ale continentului, renumită pentru căderea sa neîntreruptă de 192 de metri, fiind cea mai înaltă cascadă dintr-un singur salt din Africa de Sud. Aflată în apropierea orașului Semonkong, apele râului Maletsunyane se prăbușesc într-un canion spectaculos, formând o ceață densă care umple aerul. Această perdea de vapori reflectă frecvent curcubee strălucitoare, creând o priveliște de basm care atrage fotografi din toate colțurile lumii. Pasionații de adrenalină pot experimenta cel mai lung rapel comercial din lume, atestat de Guinness, coborând direct pe lângă cascada asurzitoare. Pe timp de iarnă, marginea cascadei se poate transforma parțial în gheață, adăugând un strat suplimentar de mister. Geografie K6 — cascade și fenomene naturale.",
+      "factsAdvanced": [
+        "Are o cădere dintr-un singur salt de 192 de metri.",
+        "Este situată în districtul central Maseru, aproape de Semonkong.",
+        "Ceața generată dă numele orașului Semonkong ('locul fumului').",
+        "Aici se organizează cel mai lung rapel comercial la nivel mondial.",
+        "Sunetul cascadei este amplificat de forma canionului îngust.",
+        "Poate îngheța la margini în timpul lunilor geroase de iarnă.",
+        "Legendele locale vorbesc despre duhuri de apă care trăiesc în defileu."
+      ]
+    },
+    {
+      "id": "ls-thaba-putsoa-nature-v2",
+      "descriptionAdvanced": "Thaba Putsoa, tradus ca 'muntele albastru-cenușiu', este un masiv spectaculos situat în partea sud-vestică a țării, care atinge o înălțime impresionantă de aproximativ 3.096 de metri. Numele său reflectă felul în care lumina amurgului cade pe stâncile dezgolite de bazalt, conferindu-le o nuanță rece, inconfundabilă. Muntele servește ca un ecran meteorologic natural, blocând precipitațiile din est și modelând microclimatul văilor alăturate. Thaba Putsoa este rar vizitat de turiști datorită lipsei de trasee amenajate, rămânând o destinație exclusivă pentru aventurierii experimentați care se bazează pe busole și hărți topografice. Vegetația aspră de la înălțime susține doar rozătoare mici de stâncă și păsări răpitoare majore precum vulturul cu barbă. Geografie K7 — masive muntoase și faună alpină.",
+      "factsAdvanced": [
+        "Numele înseamnă 'muntele albastru-cenușiu' în limba Sesotho.",
+        "Atinge o altitudine formidabilă de 3.096 metri.",
+        "Este vizibil din capitala Maseru în zilele deosebit de clare.",
+        "Habitat important pentru faimosul vultur cu barbă (lammergeier).",
+        "Nu are drumuri de acces pavate sau trasee marcate.",
+        "Are o temperatură medie anuală mult inferioară celei din văi.",
+        "Bazinul său captează apă pentru mai multe cursuri fluviale mici."
+      ]
+    },
+    {
+      "id": "ls-sehlabathebe-nature-v2",
+      "descriptionAdvanced": "Parcul Național Sehlabathebe este cel mai vechi parc natural din Lesotho, înființat în 1969, și parte a sitului Patrimoniului Mondial UNESCO Maloti-Drakensberg. Caracterizat printr-un peisaj bizar, mistic, plin de formațiuni de gresie cu arcade și stâlpi sculptați de vânt de-a lungul a milioane de ani, parcul pare de pe altă planetă. Se întinde pe un platou înalt de peste 2.400 de metri și conține o serie de iazuri mici și curate care găzduiesc specii de pești care nu se găsesc nicăieri altundeva pe Pământ. Este o zonă sălbatică unde doar caii puternici și vulturii domină cerul tăcut. Primăvara aduce o explozie de flori galbene ('red hot pokers') care luminează altfel pajiștile aurii, atragând pasionați de botanică rară. Geografie K7 — parcuri naționale și biodiversitate rară.",
+      "factsAdvanced": [
+        "Este cel mai vechi parc național, fondat în 1969.",
+        "Inclus în situl Patrimoniului Mondial UNESCO datorită biodiversității.",
+        "Găzduiește formațiuni spectaculoase din gresie erodată eolian.",
+        "Aici trăiește peștele endemic Maloti minnow, aflat pe cale de dispariție.",
+        "Este cunoscut pentru lipsa totală de poluare fonică.",
+        "Flora include numeroase specii de flori de munte unice în lume.",
+        "Este accesibil doar cu vehicule 4x4 robuste sau pe călare."
+      ]
+    },
+    {
+      "id": "ls-thaba-bosiu-nature-v2",
+      "descriptionAdvanced": "Muntele Thaba Bosiu nu este doar o fortăreață istorică, ci și un reper natural impresionant de gresie. De la baza sa și până la vârf se desfășoară un platou complet plat, o anomalie geologică în peisajul plin de văi adânci. Vegetația muntelui a oferit izolație naturală și pășune pentru turmele regești în perioadele de asediu, dovedind capacitatea remarcabilă a ecosistemului local de a susține viața sub presiune. Stâncile abrupte sunt acoperite cu mici crăpături în care își fac cuib sute de rândunici de stâncă, iar ecoul acestora însuflețește pereții goi de piatră. Geologic, este format din straturi dure de rocă care au rezistat eroziunii mult mai bine decât câmpiile moi de jur împrejur, devenind astfel un sanctuar invincibil. Istorie K7 — topografie și strategie defensivă.",
+      "factsAdvanced": [
+        "Este un munte cu vârf complet plat (mesa) din gresie.",
+        "A servit drept reședință militară și culturală pentru zeci de ani.",
+        "Pantele sale laterale sunt practic verticale în mai multe puncte.",
+        "Are surse naturale de apă pe platoul cel mai înalt.",
+        "Apare ca o fortăreață naturală izolată de lanțul muntos principal.",
+        "Este acoperit de un strat dens de iarbă rezistentă la secetă.",
+        "Găzduiește specii de păsări mici adaptate la cuibărit în crăpături."
+      ]
+    },
+    {
+      "id": "ls-tsehlanyane-nature-v2",
+      "descriptionAdvanced": "Parcul Național Ts'ehlanyane este o bijuterie subestimată a sistemului montan nordic, fondat pentru a proteja una dintre puținele zone forestiere indigene din regat. Numele său provine de la un tip de bambus de munte endemic (ts'ehlanyane), care are o importanță istorică profundă în riturile culturale locale. Parcul este așezat la intersecția a două văi sălbatice, unde pâraiele curate de munte creează numeroase cascade și bazine limpezi perfecte pentru înot în verile scurte. Fauna este diversificată, incluzând antilope rhebok, șacali și babuini care cutreieră pantele stâncoase. Datorită pazei riguroase, această rezervație a reușit să oprească tăierile ilegale de copaci, păstrând o oază luxuriantă într-o țară definită în general de pășuni golașe. Geografie K7 — păduri indigene și ecosisteme.",
+      "factsAdvanced": [
+        "Numele se referă la bambusul endemic care crește în zonă.",
+        "Protejează cel mai mare petic de pădure nativă rămasă în țară.",
+        "Este o destinație esențială pentru ecoturismul bazat pe drumeții.",
+        "Sunt prezente specii rare de antilope, precum elandul și rhebokul.",
+        "Se află la o altitudine situată între 2.000 și 3.000 de metri.",
+        "Multe dintre plantele de aici au utilizări medicale tradiționale.",
+        "Izvoarele parcului asigură debit constant chiar și în iernile secetoase."
+      ]
+    },
+    {
+      "id": "ls-caledon-river-nature-v2",
+      "descriptionAdvanced": "Râul Caledon, cunoscut de populația Basotho sub numele de Mohokare, acționează ca o frontieră naturală, culturală și politică masivă, separând vestul statului Lesotho de teritoriile sud-africane. Acest curs de apă șerpuitor izvorăște din munții nordici și coboară brusc, creând lunci fertile care reprezintă cel mai bun pământ agricol din ambele țări. Istoric vorbind, Caledon a fost scena numeroaselor tratate de pace și lupte teritoriale din secolul al XIX-lea. Astăzi, deși nivelul său scade drastic în anotimpul cald și arid, râul este supus unor irigații intensive pentru fermele de grâu și porumb. Este linia vieții care definește limitele regatului și leagă economic comunitățile transfrontaliere. Geografie K8 — granițe fluviale și agricultură.",
+      "factsAdvanced": [
+        "Numele indigen este râul Mohokare.",
+        "Formează peste jumătate din granița de vest a țării.",
+        "Luncile sale sunt inima agricolă a statului Lesotho.",
+        "Izvorăște din masivul Mont-aux-Sources, în nord.",
+        "Poate inunda dramatic în timpul musonului estival.",
+        "A fost un punct cheie în delimitarea teritoriilor post-coloniale.",
+        "Susține orașe mari precum Maseru, Ficksburg și Ladybrand."
+      ]
+    },
+    {
+      "id": "ls-letsie-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Letsie este o bijuterie ascunsă de importanță majoră, fiind cel mai mare corp natural de apă dulce din Lesotho, o adevărată raritate într-un mediu dominat de râuri zgomotoase. Situat în regiunea izolată Quthing, lacul a fost desemnat sit Ramsar datorită rolului său de zonă umedă crucială pentru cuibăritul păsărilor de apă migratoare și a celor montane. Aici, liniștea este deranjată doar de zborul stolurilor de rațe sălbatice și cocori albaștri, o pasăre rară și elegantă. Dimensiunea lacului variază enorm în funcție de cantitatea de zăpadă care se topește din munții din jur primăvara. Vizitatorii aventuroși sunt fascinați de pajiștile înmlăștinite și flora măruntă, care creează un ecosistem mistic, foarte diferit de ariditatea tipică a țării. Geografie K6 — zone umede montane și avifaună.",
+      "factsAdvanced": [
+        "Este singurul lac natural de mari dimensiuni din Lesotho.",
+        "Recunoscut internațional ca zonă umedă de importanță Ramsar.",
+        "Servește ca un paradis pentru ornitologi și specii de păsări.",
+        "Este locul preferat de cuibărit pentru cocorul albastru.",
+        "Se găsește în districtul îndepărtat Quthing.",
+        "Mărimea lacului depinde complet de ciclul topirii zăpezilor.",
+        "Nu are structuri turistice majore, favorizând ecologia pură."
+      ]
+    },
+    {
+      "id": "ls-makhaleng-river-nature-v2",
+      "descriptionAdvanced": "Râul Makhaleng tăie munții vestici și centrali printr-un canion colosal, având un debit furios în sezonul ploios. Acest râu este definitoriu pentru topografia din vestul țării, contribuind semnificativ la resursele de apă înainte de a se vărsa spectaculos în cursul gigantic al râului Orange (Senqu). Numele său face referire la un trib local care a populat văile sale înainte de perioada consolidării naționale. Malurile sale pietroase sunt marcate de cascade ascunse și de mici vaduri folosite de sute de ani de păstori pentru a-și trece animalele în siguranță. Pentru temerari, apele limpezi și reci ale Makhalengului oferă un mediu deosebit pentru practicarea pescuitului cu muscă, adăpostind o faună acvatică rezilientă. Geografie K7 — dinamica apelor curgătoare și eroziune.",
+      "factsAdvanced": [
+        "Afluent major care se varsă direct în faimosul râu Orange (Senqu).",
+        "Este vital pentru sistemul hidrologic din vestul țării.",
+        "Parcurge un defileu adânc, marcat de sate împrăștiate.",
+        "Cunoscut pentru oportunitățile izolate de pescuit sportiv.",
+        "Apele sale provin direct din izvoare glaciare reci.",
+        "Inundațiile estivale pot bloca temporar rutele de transport local.",
+        "Numele se trage de la un vechi trib indigen care locuia în zonă."
+      ]
+    },
+    {
+      "id": "ls-mohale-dam-nature-v2",
+      "descriptionAdvanced": "Barajul Mohale este a doua piesă gigantică din spectaculosul Proiect de Apă Highlands, finalizat pentru a sprijini eforturile masivului Baraj Katse. Cu o structură impunătoare acoperită cu piatră – un design ingenios de dig de arocament – Mohale oferă o imagine puternică, contrastând izbitor cu canioanele abrupte ale râului Senqunyane. Apele acestui lac de acumulare cristalin sunt trimise printr-un labirint de tuneluri de interconectare care trec pe sub munte direct către rezervorul principal Katse. Pe lângă importanța sa tehnică, lacul a devenit un centru de recreere în creștere, atrăgând plimbări cu barca și turiști uimiți de puritatea aerului alpin. Impactul său ecologic a fost atent monitorizat, dar, inevitabil, a remodelat fața munților. Geografie K8 — megastructuri și rețele subterane.",
+      "factsAdvanced": [
+        "Face parte integrantă din Lesotho Highlands Water Project.",
+        "Are o structură distinctă din arocament (rocă spartă compactată).",
+        "Conectat de barajul Katse printr-un tunel masiv inter-montan.",
+        "A fost inaugurat în faza a doua a uriașului proiect național.",
+        "Înghite fluxul puternic al râului Senqunyane.",
+        "Oferă facilități excelente pentru plimbări turistice cu barca.",
+        "Construcția a durat mai mulți ani și a necesitat drumuri speciale."
+      ]
+    },
+    {
+      "id": "ls-malibamatso-river-nature-v2",
+      "descriptionAdvanced": "Râul Malibamat'so, al cărui nume prevestește 'apele întunecate', este o forță sălbatică care își croiește drum prin inima nordului stâncos. Timp de milenii, a curs neîmblânzit, până când cursul său a fost oprit brutal de pereții Barajului Katse, schimbându-i peisajul din defileuri într-un lac adânc și liniștit. Partea superioară a râului, care a rămas neatinsă de baraj, este faimoasă pentru cursurile reci și bogate în oxigen, fiind unul dintre habitatele predilecte ale păstrăvului curcubeu. Apele sale sunt hrănite exclusiv din ploi de munte și din topirea zăpezilor din masivul Oxbow. Acest râu ilustrează perfect contrastul modern al Lesotho-ului: natura liberă montană pusă să lucreze pentru dezvoltarea națiunii. Geografie K6 — cursuri superioare și intervenții umane.",
+      "factsAdvanced": [
+        "Numele 'Malibamat'so' se traduce literar prin 'ape întunecate'.",
+        "Acest curs este sursa primară de alimentare pentru Barajul Katse.",
+        "Este renumit pentru puritatea extremă a apei din izvoare.",
+        "A fost un loc frecvent de extracție a diamantelor aluvionare mici.",
+        "Sectoarele neîndiguite sunt paradisuri ale pescuitului cu muscă.",
+        "Izvorăște din bazinul masiv al regiunii Oxbow.",
+        "Traseul râului creează unele dintre cele mai reci microclimate."
+      ]
+    },
+    {
+      "id": "ls-matsoku-river-nature-v2",
+      "descriptionAdvanced": "Râul Matsoku este un curs de apă mai puțin cunoscut, dar esențial, care traversează zonele de pășunat din centrul muntos înainte de a se intersecta cu sistemul masiv de baraje. Curgerea sa viguroasă a fost redirecționată parțial printr-un baraj de deviere remarcabil și tuneluri subterane pentru a suplimenta rezerva de apă a barajului Katse în perioadele de secetă. Peisajul din jurul râului Matsoku este un paradis liniștit al păstorilor, o vale presărată cu mici colibe din piatră (motebong) folosite iarna. Flora din această vale este formată din graminee aspre și arbuști răzleți, rezistenți la gerurile care pot transforma apele de suprafață ale râului într-o sticlă perfectă timp de săptămâni. Geografie K7 — devieri hidraulice și păstorit.",
+      "factsAdvanced": [
+        "Afluent vital implicat în managementul apelor la scară națională.",
+        "Fluxul său a fost parțial deviat spre marele baraj Katse.",
+        "Structura de deviere Matsoku este o operă hidrotehnică izolată.",
+        "Străbate o vale cunoscută pentru practicile intense de transhumanță.",
+        "Vremea extremă face ca râul să înghețe superficial aproape anual.",
+        "Nu are așezări urbane mari de-a lungul întregului său curs.",
+        "Protejează ecosisteme de ierburi alpine aspre și reziliente."
+      ]
+    },
+    {
+      "id": "ls-quthing-river-nature-v2",
+      "descriptionAdvanced": "Valea râului Quthing sculptează sudul țării, prezentând unele dintre cele mai pitorești și geologice bogate regiuni din regat. Râul se varsă liniștit din zonele muntoase înalte în cursul vijelios al râului Senqu. De-a lungul istoriei, malurile sale nisipoase și grotele stâncoase au oferit adăpost triburilor rătăcitoare, inclusiv San, care și-au lăsat amprenta sub formă de desene ocru. În preajma râului au fost descoperite amprente fosilizate de dinozauri, conservate perfect pe malul expus. Debitul său sprijină o comunitate rurală mândră, unde culturile de cereale mici și creșterea cailor Basotho prosperă alături de murmurele nesfârșite ale apei muntoase. Geografie K6 — văi fluviale și arheologie.",
+      "factsAdvanced": [
+        "Afluent masiv care alimentează râul Orange (Senqu) în sud.",
+        "Bazinul hidrografic acoperă întregul district sudic Quthing.",
+        "Sunt prezente amprente excelente de dinozauri fosilizați.",
+        "Zona susține multiple sate cu o bogată moștenire culturală.",
+        "Vegetația de luncă oferă pășuni premium pentru caii locali.",
+        "Groțile din defileu sunt decorate cu artă rupestră rară.",
+        "Inundațiile estivale aduc sol fertil (aluviuni) fermierilor."
+      ]
+    },
+    {
+      "id": "ls-tsoelike-river-nature-v2",
+      "descriptionAdvanced": "Ascuns în peisajul sălbatic al estului îndepărtat, râul Tsoelike taie pantele dramatice ale munților Drakensberg, devenind o verigă esențială în ecosistemul național. Accesul uman în această vale este limitat de drumuri dificile, presărate cu bolovani uriași și curbe în ac de păr, menținând natura râului aproape neatinsă de industrializare. Apele reci ale Tsoelike reprezintă un paradis nepoluat, găzduind populații de pești endemici și insecte acvatice specifice apelor limpezi. Satul omonim din apropiere are un ponton istoric acționat manual, care încă mai este folosit de navetiști și comercianți cu mărfuri ușoare, o imagine a tehnologiei coloniale rurale încă în funcțiune pe un râu cu curenți imprevizibili. Geografie K7 — ecosisteme curate și transport tradițional.",
+      "factsAdvanced": [
+        "Un râu izolat care taie pantele abrupte din zona estică extremă.",
+        "Un faimos pod pietonal acționat manual traversează apele sale.",
+        "Face parte integrantă din bazinul vast al fluviului Senqu.",
+        "Apele sale reci sunt renumite pentru claritatea și puritatea lor.",
+        "Este un sanctuar nepoluat, departe de centrele industriale majore.",
+        "Infrastructura rutieră de-a lungul râului este extrem de rudimentară.",
+        "Zona susține păsări pescăruș rari și amfibieni de mare altitudine."
+      ]
+    },
+    {
+      "id": "ls-mokhotlong-river-nature-v2",
+      "descriptionAdvanced": "Râul Mokhotlong, al cărui nume derivă din prezența păsărilor Ibis pleșuv care se adunau aici, curge prin 'Acoperișul Africii', fiind unul dintre sistemele fluviale situate la cea mai mare altitudine de pe continent. Râul își are izvoarele printre mlaștinile înghețate și vârfurile montane pustii, unde aerul este rarefiat. Din cauza altitudinii uriașe, malurile sunt golașe, dominate de plante perene dure și iarbă scurtă care tolerează înghețurile nocturne. Apele sale sunt incredibil de bogate în oxigen, motiv pentru care guvernul a introdus păstrăvul curcubeu, transformând cursul râului într-un punct de interes sportiv major pentru pescarii experimentați. Vara, ploile transformă acest pârâu liniștit într-o forță destructivă care spală totul în calea sa. Geografie K6 — râuri de mare altitudine.",
+      "factsAdvanced": [
+        "Unul dintre râurile africane cu cel mai înalt punct de origine.",
+        "Numele amintește de ibisul pleșuv, pasăre endemică rară.",
+        "Curge prin regiunea izolată și recunoscută drept 'Acoperișul Africii'.",
+        "Apele sale sunt saturate cu oxigen și preferate de păstrăvi.",
+        "Străbate terenuri aride și mlaștini muntoase permafrost.",
+        "Malurile sale nu susțin arbori mari, doar ierburi alpine dure.",
+        "Joacă un rol esențial pentru irigarea minoră de vară."
+      ]
+    },
+    {
+      "id": "ls-khubelu-river-nature-v2",
+      "descriptionAdvanced": "Râul Khubelu este un curs montan excepțional, izolat, care a câștigat notorietate recent datorită calității perfecte a apei sale, o resursă râvnită pentru viitoarele etape ale proiectelor hidroenergetice din zonă. Acesta curge într-o vale protejată de vânturi extreme, susținând o diversitate surpinzătoare de arbuști de luncă. În contrast cu alte râuri, Khubelu prezintă nuanțe de jad datorită mineralelor din rocă. Păstorii care trăiesc temporar de-a lungul Khubelu se bazează complet pe izvoarele sale de pe pantă pentru supraviețuirea turmelor de capre. Zona este lipsită de poduri comerciale mari, izolând satele de pe malul estic de restul lumii atunci când râul devine prea puternic pentru a fi traversat cu caii. Geografie K7 — resurse hidrologice strategice.",
+      "factsAdvanced": [
+        "Identificat ca sursă de apă extrem de pură pentru viitoare baraje.",
+        "Curge printre formațiuni geologice de rocă magmatică veche.",
+        "Nu are conexiuni de poduri grele, ci doar vaduri perculoase.",
+        "Valoarea apei sale depășește calitatea multor altor afluenți.",
+        "Susține una dintre cele mai dense populații de păstori temporari.",
+        "Culoarea apei ia deseori o tentă verzuie minerală (jad).",
+        "Ploaia de vară îl transformă într-un curent izolat și fatal."
+      ]
+    },
+    {
+      "id": "ls-hlotse-river-nature-v2",
+      "descriptionAdvanced": "Râul Hlotse, aflat în partea de nord-vest a Lesotho-ului, este o sursă vitală de apă care hrănește districtele dens populate înainte de a deveni un tributar crucial al râului Caledon. Spre deosebire de râurile estice rebele, Hlotse străbate treptat câmpii care permit o agricultură intensivă și mecanizată. Aici au loc adesea ritualuri tradiționale de inițiere pentru tinere, bazate pe apele râului pentru purificare și curățare simbolică. De-a lungul cursului său inferior pot fi vizitate amprente vechi de dinozauri, care au ieșit la suprafață după secole de eroziune ușoară. Râul ilustrează legătura stabilă dintre viața spirituală, supraviețuirea agricolă și istoria profundă a continentului. Geografie K6 — lunci fertile și semnificație culturală.",
+      "factsAdvanced": [
+        "Alimentează regiunile agricole bogate din districtul Leribe.",
+        "Afluent cheie al marelui râu frontalier Caledon (Mohokare).",
+        "Apele sale sunt folosite intens pentru inițieri culturale tradiționale.",
+        "Pe rocile spălate de râu se află urme fosilizate vizibile de dinozaur.",
+        "Este mult mai blând ca debit decât râurile estice montane.",
+        "Satele de pe malul său practică agricultura comercială, nu doar de subzistență.",
+        "Albia râului conține nisipuri exploatate frecvent pentru construcții."
+      ]
+    },
+    {
+      "id": "ls-phuthiatsana-river-nature-v2",
+      "descriptionAdvanced": "Râul Phuthiatsana are o semnificație istorică și strategică uriașă, deoarece curge prin inima regatului și spală poalele muntelui legendar Thaba Bosiu, cetatea fondatorului Moshoeshoe I. Există două cursuri numite Phuthiatsana (de Nord și de Sud), ambele acționând ca ziduri naturale de apăre împotriva armatelor invadatoare în secolul al XIX-lea. Astăzi, valea râului este presărată cu unele dintre cele mai dezvoltate așezări și universități, beneficiind de peisajele sale fertile, luncile înverzite și solul bogat în sedimente aduse din munți. Din păcate, utilizarea agricolă intensivă și presiunea demografică crescută au dus la un nivel ridicat de eroziune a malurilor în unele sectoare. Geografie K8 — ecologie urbanizată și istorie.",
+      "factsAdvanced": [
+        "Străbate zona central-vestică extrem de populată a țării.",
+        "Curge pe la baza muntelui sacru și istoric Thaba Bosiu.",
+        "A constituit o barieră naturală de apărare în timpul războaielor.",
+        "Excesul de agricultură provoacă eroziuni vizibile ale malurilor (dongas).",
+        "Are două ramuri distincte majore (Nord și Sud).",
+        "Este un tributar masiv al sistemului hidrologic Caledon.",
+        "Satele folosesc apa râului pentru manufactura tradițională a cărămizilor."
+      ]
+    },
+    {
+      "id": "ls-bokong-river-nature-v2",
+      "descriptionAdvanced": "Râul Bokong traversează tărâmul montan spectaculos spre nord, alimentând în cele din urmă rezervorul masiv al barajului Katse, și se bucură de un statut protejat prin Rezervația Naturală Bokong. Această rezervație, amplasată la altitudini amețitoare, este celebră pentru iazurile glaciare, pășunile umede acoperite de gheață pe timpul iernii și mlaștinile bogate în care trăiesc amfibieni unici. Centrul de vizitatori este atârnat pe marginea unei stânci uluitoare, oferind o priveliște amețitoare asupra întregii văi a râului. Bokong este locul de întâlnire al vulturilor negri și al antilopelor Rhebok, oferind un habitat crucial nealterat de păstorit excesiv. Este un laborator viu de ecologie montană înaltă. Geografie K7 — rezervații ecologice și habitate montane.",
+      "factsAdvanced": [
+        "Râul curge direct printr-o rezervație naturală protejată omonimă.",
+        "Alimentează masiv Barajul Katse prin cursul său nepoluat.",
+        "Zona adiacentă prezintă o mare bogăție de mlaștini afro-alpine.",
+        "Găzduiește populații de babuini și rarele antilope rhebok.",
+        "Centrul de vizitare a rezervației este suspendat pe o faleză amețitoare.",
+        "Cunoscut pentru zăpezile frecvente și înghețurile de pe iazuri.",
+        "Habitat perfect pentru numeroase specii de păsări prădătoare mari."
+      ]
+    },
+    {
+      "id": "ls-mont-aux-sources-nature-v2",
+      "descriptionAdvanced": "Masivul Mont-aux-Sources, tradus direct ca 'muntele izvoarelor', este un gigant bazaltic formidabil și inima hidrografică a continentului, unde se naște nu doar râul Orange, ci și masivul Tugela, care se prăbușește înspre Africa de Sud. Acest amfiteatru natural uriaș, cu o fațadă de stâncă ce domină cerul pe kilometri întregi, servește drept linia de graniță impunătoare în nordul extrem al regatului Lesotho. Este una dintre cele mai spectaculoase și dificile destinații pentru alpiniști, fiind măturat de furtuni dramatice. Platoul său lipsit de copaci adăpostește turme răzlețe de capre și floră minusculă. Aici natura demonstrează o putere neîmblânzită, iar priveliștea deasupra norilor este incomparabilă. Geografie K7 — amfiteatre naturale și surse hidrologice.",
+      "factsAdvanced": [
+        "Un masiv masiv bazaltic, inima hidrografică a Africii de Sud.",
+        "Izvorul principal pentru râurile majore Tugela, Caledon și Vaal.",
+        "Numele francez 'muntele izvoarelor' reflectă clar rolul său geografic.",
+        "Prezintă o fațadă de stâncă absolut dramatică cunoscută sub numele de Amfiteatru.",
+        "Servește ca frontieră naturală abruptă în nord-estul țării.",
+        "Este renumit pentru vânturile violente și furtunile imprevizibile.",
+        "Accesul la vârf implică scări pe lanțuri suspendate dinspre Africa de Sud."
+      ]
+    },
+    {
+      "id": "ls-drakensberg-lesotho-nature-v2",
+      "descriptionAdvanced": "Lanțul muntos Drakensberg (cunoscut ca uKhahlamba, 'bariera de sulițe') formează un arc de apărare invincibil la frontiera de est a națiunii Lesotho, constând din sute de vârfuri ascuțite de bazalt și platouri izolate. Este o regiune cu frumusețe sălbatică supremă, protejată de UNESCO pentru peisajele sale neatinse și sanctuarul excepțional al artei San ascunse în zeci de adăposturi din piatră. Aerul rarefiat și curenții puternici sprijină o avifaună rară, inclusiv vulturul pleșuv al Capului, o specie periclitată. Peisajul, format acum peste 180 de milioane de ani, funcționează ca o burete natural ce reține precipitațiile musonice. Aici trăiește și legendara comunitate de ghizi ecveștri care oferă o privire fascinantă asupra supraviețuirii umane la 3.000 de metri. Geografie K8 — ecosisteme transfrontaliere UNESCO.",
+      "factsAdvanced": [
+        "Zidul natural masiv se întinde de-a lungul întregii granițe estice.",
+        "Recunoscut ca sit al Patrimoniului Mondial mixt UNESCO.",
+        "Se remarcă prin densitatea uluitoare de picturi rupestre preistorice.",
+        "Numele Zulu 'uKhahlamba' înseamnă 'bariera de sulițe'.",
+        "Aici trăiește faimosul vultur pleșuv al Capului (Gyps coprotheres).",
+        "Altitudinea amețitoare asigură izolare față de urbanizarea de orice fel.",
+        "Vremea aici trece deseori de la o extremă de căldură la ninsori."
+      ]
+    },
+    {
+      "id": "ls-central-highlands-nature-v2",
+      "descriptionAdvanced": "Podisul Central (Highlands) este nucleul geografic, cultural și economic al națiunii, ocupând cea mai mare suprafață din teritoriul statului Lesotho. Este o întindere vastă, golașă și severă de pășuni africane care stau deasupra altitudinii de 2.000 de metri, fiind tăiate brusc de canioane misterioase. Aceasta este 'țara cerului larg', unde distanțele sunt uriașe și păstorii încălțați în cizme de cauciuc și înveliți în pături groase conduc mii de oi și capre Angora, o resursă esențială de lână și mohair pentru exportul mondial. Aerul este mereu rece și subțire, iar comunitățile s-au adaptat perfect lipsei de copaci, construind exclusiv din gresie locală. În inima acestui platou s-au ridicat capodopere hidrotehnice, schimbând echilibrul dintre viața arhaică și modernitate. Geografie K8 — regiuni de mare altitudine și cultură pastorală.",
+      "factsAdvanced": [
+        "Reprezintă zona geografică majoritară a statului, centrul său absolut.",
+        "Se află aproape în întregime deasupra nivelului de 2.000 de metri.",
+        "Este hubul global de producție a unora dintre cele mai fine lânuri de mohair.",
+        "Peisajul nu permite creșterea copacilor de talie mare din cauza vântului și frigului.",
+        "Conține sistemul complex de mega-baraje naționale.",
+        "Pastoritul transhumant sezonier este regula de supraviețuire comunitară.",
+        "Cultura și îmbrăcămintea păturii tradiționale Basotho s-au născut aici."
+      ]
+    }
+  ]
+}

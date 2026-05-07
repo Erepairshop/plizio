@@ -1,0 +1,375 @@
+{
+  "lang": "hu",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "quaids-tomb-mausoleum-monument-history-v2",
+      "descriptionAdvanced": "A Mazar-e-Quaid, azaz Muhammad Ali Jinnah mauzóleuma Karacsi közepén áll, és a pakisztáni nemzetalapító végső nyughelye. A hófehér márványból épült, puritán, de erőt sugárzó emlékművet a híres indiai származású építész, Yahya Merchant tervezte az 1960-as években. Az épület stílusa az ősi szamanida mauzóleumokra épül, modern, minimalista vonalvezetéssel ötvözve. A 43 méter magas kupola alatt Jinnah és húga, Fatima Jinnah, valamint Pakisztán első miniszterelnöke, Liaquat Ali Khan nyugszik. Az emlékmű a függetlenség kivívásának legfontosabb zarándokhelye. Geschichte K8 — a függetlenségi mozgalmak vezéralakjai és a nemzeti emlékezet.",
+      "factsAdvanced": [
+        "A mauzóleum építését 1960-ban kezdték el, és 1970-ben fejezték be.",
+        "Az emlékművet Yahya Merchant építész tervezte modernista-iszlám stílusban.",
+        "Teljes egészében ragyogó fehér tharparkari márványból épült.",
+        "A sírkamrában egy hatalmas kristálycsillár lóg, amelyet Kína ajándékozott.",
+        "Itt nyugszik Fatima Jinnah, az 'Umm-ul-Millat' (a nemzet anyja) is.",
+        "A komplexum körüli hatalmas kertet egy mérnöki csatornarendszer látja el vízzel."
+      ]
+    },
+    {
+      "id": "katas-raj-temples-historical-site-v2",
+      "descriptionAdvanced": "A Katasz Rádzs-templomok egy ősi, misztikus hindu zarándokhely Pandzsáb tartomány északi részén, a Só-hegység (Salt Range) lankáin. A komplexum hét fő templomból (Satgraha) és több kisebb szentélyből áll, amelyek egy szent vizű tó köré épültek. A hindu mitológia szerint a tó az isteni pusztító, Siva könnyeiből fakadt, amikor felesége, Szati halálát gyászolta. A legkorábbi építmények a Kr. u. 6-7. századból, a kasmíri hindu királyságok idejéből származnak, és kiválóan megőrizték a klasszikus észak-indiai templomépítészet stílusjegyeit. A komplexum a vallási szinkretizmus emléke Pakisztánban. Geschichte K8 — az indiai szubkontinens ősi vallásai és a zarándokutak.",
+      "factsAdvanced": [
+        "A komplexum a hindu hagyomány szerint Siva könnyeiből született szent tó köré épült.",
+        "A legősibb fennmaradt épületei a Kr. u. 6. századból, a hindu Sahi dinasztia idejéből valók.",
+        "A hely a Mahábhárata eposzban is szerepel; a Pandava fivérek állítólag itt töltötték száműzetésüket.",
+        "A templomok építészetileg a kasmíri stílust képviselik boltíves kapukkal és hornyolt oszlopokkal.",
+        "A komplexum területén buddhista sztúparomokat is feltártak.",
+        "A zarándokhelyet mind a mai napig látogatják indiai hindu hívők is."
+      ]
+    },
+    {
+      "id": "baltit-fort-historical-site-v2",
+      "descriptionAdvanced": "A Baltit erőd a festői Hunza-völgy ikonikus erődítménye, amely egy sziklaszirt tetejéről uralja a Karimabad nevű települést Gilgit-Baltisztánban. Az erődöt több mint 700 évvel ezelőtt alapították, a hagyomány szerint egy baltisztáni hercegnő hozta magával a tibeti stílusú építőmestereket, amikor a hunza uralkodóhoz, a Mírhoz ment feleségül. Az erőd favázas, kővel kitöltött (cribbage) szerkezete rendkívül ellenálló a hegyi földrengésekkel szemben. Az évszázadok során a hunza uralkodók központjaként funkcionált egészen 1945-ig, amikor a Mír egy modernebb palotába költözött. Geschichte K8 — a himalájai királyságok és a magashegyi építészet.",
+      "factsAdvanced": [
+        "Az erődítmény alapjai több mint 700 évesek.",
+        "A hunza uralkodók, a Mírek rezidenciájaként szolgált egészen 1945-ig.",
+        "Az épület tibeti-ladakhi építészeti stílusjegyeket hordoz.",
+        "Az Aga Khan Trust for Culture az 1990-es években teljesen restaurálta.",
+        "A favázas építési technika (cribbage) földrengésbiztossá teszi az erődöt.",
+        "A teraszokról lenyűgöző kilátás nyílik az 7388 méter magas Ultar Sar csúcsra."
+      ]
+    },
+    {
+      "id": "ranikot-fort-historical-site-v2",
+      "descriptionAdvanced": "A Ranikot erőd, amelyet 'Szindh Nagy Falának' is neveznek, a világ egyik legnagyobb, legrejtélyesebb erődítménye. Szindh tartomány kietlen Kirthar-hegységében található, falai közel 32 kilométer hosszan kanyarognak a hegygerinceken és a kanyonokon keresztül. Bár a szénizotópos kormeghatározás szerint a jelenlegi kapukat és falak egy részét a Talpur-dinasztia idején, a 18-19. században építették, az erőd alapjainak eredete máig vita tárgya. A hatalmas kiterjedésű falakon belül kisebb erődök (például a Miri Qila) is helyet kaptak. Monumentális mérete és kihalt, sivatagi környezete misztikus atmoszférát teremt. Geschichte K8 — rejtélyes katonai infrastruktúrák és a sivatagi topográfia.",
+      "factsAdvanced": [
+        "Kerülete eléri a 32 kilométert, ezzel a világ egyik legnagyobb erődje.",
+        "A köznyelv gyakran a 'Szindh Nagy Falaként' is emlegeti.",
+        "Eredete ismeretlen, de a legutóbbi nagyobb bővítés a Talpur-uralom alatt (18. sz.) történt.",
+        "Az erődfalon belül három kisebb belső erőd is található (pl. Miri és Shergarh).",
+        "A falak helyenként a természetes homokkő sziklafalakba olvadnak bele.",
+        "1993 óta szerepel az UNESCO Világörökségi Várományosok listáján."
+      ]
+    },
+    {
+      "id": "chaukhandi-tombs-historical-site-v2",
+      "descriptionAdvanced": "A Csaukhandi sírok egy páratlan, kora iszlám kori temetkezési komplexum Karacsi külvárosában. A 15. és 18. század között épült síremlékek a helyi szindhi és balucsi törzsek (főként a Jokhio és Baloch törzsek) előkelőségeinek állítanak emléket. A sárgás homokkőből faragott, toronyszerű sírkövek ('chaukhandi' jelentése: négy sarkú) elképesztő részletgazdagsággal vannak díszítve: a férfiak sírjain fegyverek, kardok és lovak, a nőkén pedig gazdag ékszerek és nyakláncok kőbe vésett másai láthatók. A geometriai minták és az emberábrázolás kerülése melletti tárgyi szimbólumok az iszlám előtti törzsi szokások túlélését is mutatják. Kunst K8 — a törzsi temetkezési szokások és a kőfaragás szimbolikája.",
+      "factsAdvanced": [
+        "A síremlékeket a 15. és 18. század között faragták helyi szindhi kőművesek.",
+        "A sárga oolitikus homokkőből készült sírok ember nagyságúak és többszintesek.",
+        "A férfiak sírkövein turbánokat, fegyvereket és lovakat ábrázoló domborművek találhatók.",
+        "A nők sírjait karkötőkkel, fülbevalókkal és finom ékszermintákkal díszítették.",
+        "A 'Chaukhandi' elnevezés a sírkövek négy sarkos, pavilon-szerű kialakítására utal.",
+        "A terület elsősorban a Jokhio és a Burfat törzsek ősi temetkezési helye."
+      ]
+    },
+    {
+      "id": "mehrgarh-ruins-history-v2",
+      "descriptionAdvanced": "Mehrgarh a dél-ázsiai emberi civilizáció egyik legősibb bölcsője, amely Beludzsisztán tartományban, a Bolan-hágó lábánál található. A francia régészek által az 1970-es években felfedezett lelőhely forradalmasította a történelemfelfogást, hiszen bebizonyította, hogy az indiai szubkontinensen a földművelés (búza és árpa) és az állatháziasítás már Kr. e. 7000 körül elkezdődött. Mehrgarh lakói vályogtéglás házakban éltek, kezdetleges fogászatot alkalmaztak, és kiváló minőségű cserépedényeket készítettek. A település folyamatosan fejlődött, amíg fel nem váltotta a fejlettebb, városias Indus-völgyi civilizáció Kr. e. 2500 környékén. Geschichte K8 — a neolitikus forradalom és az agrárközösségek kialakulása.",
+      "factsAdvanced": [
+        "Mehrgarh az egyik legkorábbi ismert mezőgazdasági település Dél-Ázsiában (Kr. e. 7000).",
+        "A helyszínt 1974-ben egy Jean-François Jarrige vezette francia régészcsapat fedezte fel.",
+        "Itt találták meg a világ legősibb ismert in vivo fogászati beavatkozásának bizonyítékait (fúrt fogak).",
+        "A lakók búzát és árpát termesztettek, valamint juhokat, kecskéket és zebut háziasítottak.",
+        "A leletek között rengeteg terrakotta termékenység-istennő szobrocska is előkerült.",
+        "Kr. e. 2500 körül hagyták el a várost, valószínűleg a szárazság miatt."
+      ]
+    },
+    {
+      "id": "pakistan-monument-monument-history-v2",
+      "descriptionAdvanced": "A Pakisztán Emlékmű Iszlámábád egyik leglátogatottabb nemzeti jelképe, amely a Shakarparian-domb tetején áll, tisztelegve azok előtt, akik életüket adták a független Pakisztán megteremtéséért. A 2007-ben felavatott gránit emlékmű építészeti formája egy virágzó virágot idéz: a négy nagy, boltíves szirom a négy fő tartományt (Pandzsáb, Szindh, Beludzsisztán, Hajber-Pahtunhva), míg a három kisebb szirom az autonóm területeket (Gilgit-Baltisztán, FATA és Azad Kasmír) jelképezi. A szirmok belső falát gyönyörű, domborműves falfestmények díszítik, amelyek a pakisztáni mozgalom legfontosabb történelmi pillanatait örökítik meg. Geschichte K8 — a nemzeti integráció és a modern állami szimbólumok.",
+      "factsAdvanced": [
+        "Az emlékművet Arif Masoud pakisztáni építész tervezte egy országos pályázat nyerteseként.",
+        "Építését 2004-ben kezdték és 2007-ben adták át a nagyközönségnek.",
+        "A négy fő gránit szirom a négy alapító tartomány egységét szimbolizálja.",
+        "Felülnézetből a szirmok egy csillagot, a középső tér pedig egy félholdat formáz.",
+        "A belső falakat a pakisztáni történelem hőseit ábrázoló mozaikok díszítik.",
+        "Az épületkomplexumban működik a Pakisztán Történelmi Múzeum is."
+      ]
+    },
+    {
+      "id": "faisal-mosque-monument-history-v2",
+      "descriptionAdvanced": "A Faisal-mecset Iszlámábád modern vallási és építészeti szimbóluma, amely a Margalla-hegység zöld lábánál fekszik. Történelmi jelentőségét az adja, hogy megépítését Szaúd-Arábia egykori királya, Faisal bin Abdulaziz finanszírozta a két nemzet közötti erős iszlám szolidaritás jeleként a 1970-es években. A török építész, Vedat Dalokay által tervezett épület radikálisan szakított a klasszikus iszlám kupolás formákkal; helyette egy beduin sátrat idéző, éles szögekkel és nyolcszögletű betonhéjjal rendelkező modern struktúrát alkotott. A komplexum a pakisztáni iszlám identitás és a modernitás találkozásának történelmi emléke. Geschichte K8 — a pániszlám szolidaritás és a 20. századi vallási építészet.",
+      "factsAdvanced": [
+        "A mecset névadója, Faisal szaúdi király mintegy 120 millió dollárral támogatta a projektet.",
+        "1986 és 1993 között a világ legnagyobb mecsetje volt befogadóképességét tekintve.",
+        "Az építészeti tervet 43 ország 17 pályázata közül választották ki 1969-ben.",
+        "A mecset négy minaretje egyenként 90 méter (300 láb) magas.",
+        "Az épületnek nincs hagyományos kupolája; egy modern, beton beduin sátorra hasonlít.",
+        "A belső imaterem akár 10 000, az udvar pedig további 100 000 hívőt tud befogadni."
+      ]
+    },
+    {
+      "id": "wazir-khan-mosque-monument-history-v2",
+      "descriptionAdvanced": "A Wazir Khan-mecset a mogul korszak csempeművészetének legkiválóbb fennmaradt példája, amely Lahore sűrűn lakott, történelmi Várfalas Városában bújik meg. A 17. században (1634-ben) építtette Ilam-ud-din Ansari, akit Wazir Khan néven ismertek mint Lahore kormányzóját. A mecset falait szinte minden centiméteren lenyűgöző kashi-kari (mázas csempe) és freskófestészet borítja, amelyek perzsa virágmotívumokat, kalligráfiát és geometriai formákat ábrázolnak. A történelmi Delhi Kaputól az erődig vezető egykori királyi útvonal legfontosabb megállójaként ez volt az udvari elit imádkozóhelye. Kunst K8 — a mogul udvari művészet, a freskók és a csempemozaikok.",
+      "factsAdvanced": [
+        "A mecsetet 1634-ben, Shah Jahan császár uralkodása alatt alapították.",
+        "Névadója, Wazir Khan a mogul birodalom udvari orvosa és pandzsábi kormányzója volt.",
+        "A falakat bonyolult freskók és kék-sárga 'kashi-kari' csempemozaikok borítják.",
+        "Az udvar alatti pincében egy 14. századi szufi szent, Syed Muhammad Ishaq Gazruni sírja található.",
+        "A mecset a történelmi királyi útvonalon, a Delhi Kapu közelében fekszik.",
+        "Négy nyolcszögletű, díszes minaretje sarkítja a téglalap alakú komplexumot."
+      ]
+    },
+    {
+      "id": "derawar-fort-historical-site-v2",
+      "descriptionAdvanced": "A Derawar erőd egy hatalmas, lenyűgöző téglavár, amely a kegyetlen Cholistan-sivatag közepén emelkedik ki délibábként. A 9. században hindu rajput uralkodók alapították, de a ma látható, hatalmas kerek bástyákkal megerősített falait a Bahawalpur-i Nawabok (az Abbasi dinasztia) építették újjá a 18. század elején. A 40 monumentális, dob formájú bástya kerülete eléri az 1500 métert, és akár 30 méter magasan is tornyosulhat a homokdűnék fölé. Évszázadokon keresztül ez volt az Abbasi Nawabok védelmi és uralkodói központja, védve őket a sivatagi invázióktól és a rivális törzsektől. Geschichte K8 — a rajput várak, a sivatagi fejedelemségek és a Bahawalpur állam.",
+      "factsAdvanced": [
+        "A várat eredetileg Rai Jajja Bhati, egy hindu rajput király építette a 9. században.",
+        "1732-ben a bahawalpuri Abbasi dinasztia (Sadeq Muhammad Khan) teljesen újjáépítette.",
+        "A falakat negyven, egyenként 30 méter magas kerek bástya erősíti.",
+        "Az erődítmény 1500 méter (közel egy mérföld) kerületű falrendszerrel bír.",
+        "Közvetlenül az erőd mellett található az Abbasi Nawabok fehér márvány mauzóleuma.",
+        "Az épülethez több ezer köbméter agyagtéglát szállítottak át a sivatagon keresztül."
+      ]
+    },
+    {
+      "id": "faisal-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Faisal-mecset nemcsak történelmi, hanem építészeti szempontból is Pakisztán legkülönlegesebb látványossága. A Margalla-hegység kontúrjait követő épület modern turisztikai és vallási mérföldkő. A török Vedat Dalokay által tervezett épület formavilága a sivatagi beduin sátrak funkcionalizmusát ötvözi a modern vasbeton brutalizmusával. Az óriási, nyolcszögletű imaterem oszlopok nélkül épült, terhét négy gigantikus betonárbóc viseli. A kupola hiánya és a négy ceruzavékony, török stílusú minaret éles, geometrikus megjelenést kölcsönöz az épületnek, amely este, kivilágítva Iszlámábád legfényesebb csillagaként ragyog a hegyoldalban. Kunst K8 — a modern iszlám építészet és a betonstruktúrák.",
+      "factsAdvanced": [
+        "A mecset belső mennyezetét Sadeqain, a legendás pakisztáni művész kalligráfiái díszítik.",
+        "A fő imaterem teljesen mentes a tartóoszlopoktól a speciális mérnöki megoldásnak köszönhetően.",
+        "Az épület területe és udvara összesen mintegy 5000 négyzetmétert foglal el.",
+        "A tetőszerkezet aranyozott alumínium lemezekből készült részei a napfényben csillognak.",
+        "A mecset a város fő sugárútjának, a Faisal Avenue-nak az északi végpontja.",
+        "Az alagsorban korábban a Nemzetközi Iszlám Egyetem (IIUI) könyvtára működött."
+      ]
+    },
+    {
+      "id": "minar-e-pakistan-landmarks-v2",
+      "descriptionAdvanced": "A Minar-e-Pakisztán Lahore városképének legkiemelkedőbb vizuális tájékozódási pontja. A Greater Iqbal Park közepén álló gigantikus torony a modern pakisztáni építészet mesterműve. A talapzat lépcsőzetes medencéit és durva kőburkolatait fokozatosan sima, polírozott márvány váltja fel ahogy a torony magasodik, szimbolizálva a pakisztáni nemzet nehéz kezdetektől a sikerig tartó útját. A látogatók lifttel vagy lépcsőn juthatnak fel a kilátóteraszig, ahonnan lélegzetelállító körpanoráma nyílik az óvárosra, a közeli Badshahi mecsetre és a Lahore-i erődre. Ez a park és a torony a pakisztáni politikai nagygyűlések és ünnepségek legfontosabb színtere. Földrajz K8 — a városi parkok és a nemzeti szimbólumok integrációja.",
+      "factsAdvanced": [
+        "A torony egy ötágú csillag alakú, virágszirmokat mintázó platformon nyugszik.",
+        "A talapzat négy különböző kőburkolata a függetlenségi harc négy szakaszát jelképezi.",
+        "A belső lifttel a látogatók a torony csúcsához közeli panoráma kilátóba juthatnak.",
+        "A medencék és szökőkutak a mogul kertépítészet modern interpretációi.",
+        "A lépcsőház pontosan 162 fokból áll a kilátóig.",
+        "Az emlékmű körül elterülő Iqbal Park Pakisztán legnagyobb városi zöldterületeinek egyike."
+      ]
+    },
+    {
+      "id": "lahore-fort-landmarks-v2",
+      "descriptionAdvanced": "A Lahore-i erőd komplexuma a pakisztáni városnéző turizmus csúcspontja. Mint építészeti mérföldkő, az erőd egy hatalmas, fallal körülvett park és palotaváros, amely több mint négy mogul uralkodó stílusát sűríti egybe. A látogatókat lenyűgözi a Naulakha pavilon filigrán fehér márványa, amely a féldrágakövekkel díszített pietra dura technika egyik legszebb dél-ázsiai példája. A Diwan-e-Aam (Közönségcsarnok) negyven oszlopa és az óriási Elefánt Lépcső, ahol a királyi udvartartás elefántháton közlekedett, a korabeli hatalom fizikai megtestesülései. A hatalmas kapuk és a robusztus falak ma a városi szmogtól elzárt történelmi oázist alkotnak. Kunst K8 — a palotaépítészet evolúciója, a márványfaragás és a pietra dura technika.",
+      "factsAdvanced": [
+        "A 'Naulakha Pavilon' neve azt jelenti, hogy 9 százezer (900 ezer) rúpiába került az építése.",
+        "A pavilon díszítése féldrágakövekkel (pietra dura) történt a fehér márványba ágyazva.",
+        "Az 'Elefánt Lépcsőt' (Hathi Paer) a királyi hárem hölgyei használták elefántháton.",
+        "A 'Diwan-e-Khas' (Magáncsarnok) Shah Jahan császár legbensőbb fogadóterme volt.",
+        "Az erőd falain lévő 'Picture Wall' a világ legnagyobb, több mint 116 színben pompázó külső mozaikfala.",
+        "A területen található Moti Masjid (Gyöngymecset) egy ritka, tiszta fehér márványból faragott kis mecset."
+      ]
+    },
+    {
+      "id": "badshahi-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Badshahi-mecset Lahore leggyakrabban fotózott épülete és a város vizuális identitásának alapja. Mint építészeti látványosság, az épület monumentalitása lenyűgöző: a központi boltíves főbejárat (Iwan) önmagában egy többszintes palota méretével vetekszik. Az udvart szegélyező vörös homokkő árkádsorok szimmetriája a végtelenbe vész. A belső imatermet sűrű, domborműves stukkók és finom, levélmotívumos freskók díszítik, amelyeket a legapróbb részletekig restauráltak. Esténként, amikor a sárgás fényű reflektorok megvilágítják a három márványkupolát és a négy magasba törő minaretet, a mecset egy varázslatos Ezeregyéjszaka-hangulatot áraszt magából. Kunst K8 — a vizuális szimmetria, a stukkódíszítés és az iszlám díszítőművészet.",
+      "factsAdvanced": [
+        "Az épület homlokzata és minaretjei Radzsasztánból (Indiából) származó vörös kőből épültek.",
+        "A főbejáratnál (Iwan) található faragott lépcsőzetes boltozat (muqarnas) egyedülálló a régióban.",
+        "A belső termeket sűrű, virágos gipsz-stukkó domborművek (Manbatkari) borítják.",
+        "A mecset akusztikája olyan, hogy a központi mihrábnál elmondott ima mikrofon nélkül is felerősödik.",
+        "A főbejárat tetején egy kis múzeum található az iszlám ereklyék számára.",
+        "A Badshahi mecset árkádjai közvetlenül a Lahore-i erőd Alamgiri kapujára néznek."
+      ]
+    },
+    {
+      "id": "mohenjo-daro-landmarks-v2",
+      "descriptionAdvanced": "Mohendzsodáro, mint régészeti látványosság, Szindh tartomány legfontosabb turisztikai célpontja. A látogatók egy gondosan ásott, kiterjedt rommezőn sétálhatnak, ahol a mintegy 4500 éves égetett téglafalak még mindig egyenesen állnak. A terület két fő részből áll: a magasabban fekvő 'Citadella' (ahol a vallási és középületek, köztük a Nagy Fürdő található) és a tágas 'Alsóváros', ahol az átlagemberek házai, a bonyolult zárt csatornarendszer és az utcai kutak hálózata tekinthető meg. Az egykori életet a helyi múzeum kiállításai keltik életre, ahol a híres 'Pap-király' mellszobor másolata és a 'Táncoló lány' bronzszobrocska is bemutatásra kerül. Földrajz K7 — a régészeti parkok turizmusa és az ókori infrastruktúra maradványai.",
+      "factsAdvanced": [
+        "A látogatók több kilométernyi feltárt, nyílegyenes ókori utca mentén sétálhatnak.",
+        "A házak kizárólag szabványosított, napon szárított és égetett téglákból épültek.",
+        "Több mint 700 épségben maradt, mély, téglával bélelt vízkutat tártak fel a területen.",
+        "A 'Nagy Magtár' egy fa felépítményes, alulról szellőző hatalmas raktárépület volt.",
+        "A leletek nagy része a közeli Mohendzsodáro Régészeti Múzeumban van kiállítva.",
+        "A romokat a talajvízszint emelkedése miatti sókivirágzás (salinization) erősen veszélyezteti."
+      ]
+    },
+    {
+      "id": "taxila-ruins-landmarks-v2",
+      "descriptionAdvanced": "A Takszila Régészeti Park több tucat négyzetkilométeres területet ölel fel Iszlámábád közelében, amely három ókori város (Bhir Mound, Sirkap és Sirsukh) maradványaiból tevődik össze. A látványosságok közül kiemelkedik Sirkap, amelyet a baktriai görögök építettek egyértelmű hellenisztikus, sakktábla-szerű alaprajzzal. Itt látható a híres 'Kétfejű Sas Sztúpa', amely a görög, a hindu és a buddhista motívumok tökéletes keveréke. A park másik fő ékköve a Jaulian kolostor, amelynek épségben maradt gipsz domborművei Buddha életét mesélik el. A helyi Takszila Múzeum Dél-Ázsia egyik leggazdagabb kő- és stukkószobor-gyűjteményével büszkélkedhet. Kunst K8 — a hellenisztikus építészet Ázsiában és a Gandhara szobrászat.",
+      "factsAdvanced": [
+        "Sirkap városa nyílegyenes utcákkal és görög stílusú piactérrel (agora) rendelkezik.",
+        "A 'Kétfejű Sas Sztúpa' a görög, a parthian és a hindu építészet ritka ötvözete.",
+        "A Jaulian kolostor a dombtetőn található, és gyönyörű, megmaradt gyógyító Buddha szobrokat rejt.",
+        "A Takszila Múzeumot a britek építették 1928-ban, görög oszlopos stílusban.",
+        "A Bhir Mound a legrégebbi feltárt városrész, keskeny, kanyargós ősi utcákkal.",
+        "A területen található Jandial templom a görög jón oszloprend korai ázsiai példája."
+      ]
+    },
+    {
+      "id": "pakistan-monument-landmarks-v2",
+      "descriptionAdvanced": "A Pakisztán Emlékmű a modern Iszlámábád legfőbb kilátópontja, amely a Shakarparian-dombról tekint le a Margalla-hegységre és a Fővárosi Területre. Építészeti különlegessége a muqarnas (lépcsőzetes arab boltív) szerkezetek modern, absztrakt újraértelmezése a négy gigantikus gránitszirom formájában. Az építmény körül egy tágas, teraszos tér (plaza) található, amely kiváló akusztikájú szabadtéri amfiteátrumként is szolgál. A komplexum mellett egy ötágú csillagot formázó fém alkotás áll, a talapzatban pedig egy hipermodern történeti és kulturális múzeum kapott helyet, viaszbábukkal és digitális kijelzőkkel bemutatva a pakisztáni kultúrát. Földrajz K7 — a panorámás kilátópontok, a városi turizmus és a modern térépítészet.",
+      "factsAdvanced": [
+        "A komplexum magában foglal egy nagy szabadtéri amfiteátrumot kulturális előadásokhoz.",
+        "Az emlékmű teraszáról 360 fokos panoráma nyílik Iszlámábádra és a Rawal-tóra.",
+        "A gránitszirmok közötti rések úgy vannak tájolva, hogy beengedjék a lenyugvó nap fényét.",
+        "A szirmok belsejét a pakisztáni művész, Zarar Babari 3D-s domborművei díszítik.",
+        "A Múzeum kiállításai részletes viaszbábukkal mutatják be a függetlenségi mozgalmat.",
+        "Az építményhez több ezer köbméter brazil barna gránitot használtak fel."
+      ]
+    },
+    {
+      "id": "shah-jahans-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Thatta-i Sáh Dzsahán-mecset Pakisztán legkáprázatosabb kerámiaművészeti alkotása. Szemben a lahore-i vagy delhi mogul mecsetek vörös homokkőből és fehér márványból készült homlokzataival, ez a mecset sárgás-piros égetett téglából épült, amelyet a szindhi kézművesek a híres Hala-csempék (kék és türkizkék mázas kerámia) tízezreivel borítottak be. A 93 kupola, melyek belülről csillag alakú csempemozaikokkal vannak kirakva, az éjszakai égboltot szimbolizálják. A mecset belső árkádsorain sétálva a kék fény és a vörös tégla kontrasztja hűvös és nyugtató oázist teremt a forró szindhi nyárban. Kunst K8 — a csempemozaikok (Kashi-kari), a geometriai tervezés és az iszlám díszítőelemek.",
+      "factsAdvanced": [
+        "A belső kupolákat csillag alakú kék csempemozaikok díszítik, az eget szimbolizálva.",
+        "A fő imaterem kupolája eléri a 20 méteres magasságot.",
+        "A Hala-stílusú csempékhez a kobalt és a réz oxidjait használták a kék színek eléréséhez.",
+        "Az épületnek összesen öt bejárata van, a főbejárat gazdagon faragott téglaívekből áll.",
+        "A komplexum hűtését a vastag téglafalak és a kupolák által keltett kereszthuzat biztosítja.",
+        "A mecset az UNESCO Világörökségi Várományosok listáján is szerepel."
+      ]
+    },
+    {
+      "id": "derawar-fort-landmarks-v2",
+      "descriptionAdvanced": "A Derawar erőd nemcsak történelmi, hanem lenyűgöző vizuális mérföldkő is, amely mérföldekről látható a Cholistan-sivatag sivár síkságán. A hatalmas kerek bástyák agyagtéglából (mud-brick) épültek, amelyeket helyi sivatagi homokkal és agyaggal kevert habarcs tart össze, így színük tökéletesen beleolvad a dűnék vörösesbarnájába. A bástyák díszítéseként finom vakolat- és téglamintákat használtak. A várfalakon belül ma is láthatók az egykori emírek és a nawabok (uralkodók) omladozó luxuslakosztályai, a háremrészek, valamint egy fehér márvány mecset, amely a Delhi-i Gyöngymecset tökéletes kicsinyített mása. Földrajz K8 — a sivatagi építészet, az agyagtéglák és az oázisok erődítményei.",
+      "factsAdvanced": [
+        "Az erőd negyven kerek bástyája úgy fest, mintha hatalmas agyaghordók lennének sorbakötve.",
+        "A vár udvarán található egy lenyűgöző fehér márvány mecset (Moti Masjid).",
+        "A bástyák tetejére eredetileg nehéz ágyúkat (zamzama) telepítettek a sivatagi portyázók ellen.",
+        "A belső paloták (mahalok) falain még láthatók az eredeti freskók és stukkók maradványai.",
+        "Az épületkomplexum súlyos állagromlással küzd a sivatagi szél és az elhanyagoltság miatt.",
+        "A vár a híres Cholistan Jeep Rally egyik legfőbb találkozási pontja és háttere."
+      ]
+    },
+    {
+      "id": "baltit-fort-landmarks-v2",
+      "descriptionAdvanced": "A Baltit erőd a Hunza-völgy kiemelkedő építészeti látványossága, amely drámai sziklaszirten egyensúlyoz Karimabad felett. Az Aga Khan Alapítvány által megmentett és felújított erőd ma egy fantasztikus néprajzi múzeumként működik. A többemeletes, masszív építmény faborítású teraszairól és gazdagon faragott ablakkereteiből árad a közép-ázsiai hegyi kultúra. Belül a látogatók bejárhatják az ősi fegyverraktárakat, a sötét, füstös téli konyhákat, a faragott faoszlopos fogadótermeket és a királyi lakosztályokat, miközben eredeti fegyvereket, szőnyegeket és a Hunza-uralkodók hagyatékait csodálhatják meg. Kunst K8 — a faépítészet (cribbage) és a himalájai múzeumok.",
+      "factsAdvanced": [
+        "Az erőd egy éles mészkősziklára épült, uralva az alatta elterülő teraszos völgyet.",
+        "A tetőteraszon lévő fa pavilonból csodálatos kilátás nyílik a Rakaposhi hegycsúcsra.",
+        "A felújítás során egy titkos, ősi vízgyűjtő rendszert is feltártak a vár alatt.",
+        "A belső múzeumban tibeti eredetű réztárgyak, szőnyegek és ősi vadászfegyverek láthatók.",
+        "Az erőd ajtóit és oszlopait finom, lótuszmotívumokat ábrázoló fafaragások díszítik.",
+        "Az épület télen a meleg bent tartására, nyáron pedig a kereszthuzatra optimalizált."
+      ]
+    },
+    {
+      "id": "khewra-salt-mine-landmarks-v2",
+      "descriptionAdvanced": "A Khevrai sóbánya Pakisztán egyik legbizarrabb és leglátványosabb természeti-ipari attrakciója. A föld alatti járatokban egy valóságos sószoborpark várja a látogatókat. A helyi bányászok és művészek a rózsaszín, narancssárga és fehér himalájai sóból kifaragták a Badshahi-mecset, a Kínai Nagy Fal és a Minar-e-Pakisztán miniatűr mását. Ezeket belülről világítják meg, amitől az egész bánya meleg, borostyánszínű fényben fürdik. A barlangrendszerben sós vizű medencék (amelyeken átívelő sóhidak vezetnek), egy 1930-as évekből származó, ma is működő kisvasút, valamint egy asztmás betegek számára kialakított sóterápiás klinika (speleoterápia) is helyet kapott. Földrajz K8 — az ipari turizmus, a geológiai látványosságok és a speleoterápia.",
+      "factsAdvanced": [
+        "A bányában egy kisvasút működik, amely még az 1930-as években épült a turisták szállítására.",
+        "A Badshahi-mecset kicsinyített, sóból faragott mása (Chandni Chowk) kivilágítva látható.",
+        "A járatokban több sós vizű tavacska is található, amelyek felett sóból épült hidak ívelnek át.",
+        "A bányafalak vastag, természetes sókristályai miatt a levegő asztmát gyógyító hatású.",
+        "A 'Sheesh Mahal' (Tükörpalota) teremben a sókristályok visszaverik a fényt a plafonról.",
+        "A bányászati szint alatt egy teljes 20 ágyas kórházi részleg (sóklinika) van kialakítva."
+      ]
+    },
+    {
+      "id": "wazir-khan-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Wazir Khan-mecset Lahore Várfalas Városának legélénkebb vizuális ékköve, amely egy forgalmas bazár közepén, egy szűk kapun keresztül közelíthető meg. A mecset egyediségét a 'kashi-kari' kerámiaművészet páratlan gazdagsága adja: a falakat borító csempéken kék, türkiz, citromsárga, lila és zöld színekben pompáznak a bonyolult ciprusfa-, virág- és csillagmotívumok. A belső imatermet egyedülálló, szinte a padlótól a plafonig érő kalligrafikus freskók díszítik, amelyek a Korán verseit arab és perzsa betűtípusokkal írják le. A mecset elülső árkádsorában a mai napig apró boltok és kalligráfusok műhelyei találhatók. Kunst K8 — a kalligráfia, a perzsa virágmotívumok és a városi bazárok.",
+      "factsAdvanced": [
+        "A mecset bejárata fölött (Iwan) egy elképesztően részletes, stukkós arabeszk boltozat található.",
+        "A 'kashi-kari' csempemozaikok geometriai és virágos (arabeszk) mintákat ábrázolnak.",
+        "A négy minaret erkélyeiről (chhatri) festői kilátás nyílik a sűrű Várfalas Városra.",
+        "A mecset belső falain alkalmazott freskótechnika a ritka 'fresco-buono' stílust követi.",
+        "Az árkádok (hujrák) alatt történelmileg könyvkötők, kalligráfusok és árusok dolgoztak.",
+        "A mecset előtti teret (Chowk Wazir Khan) nedvesen tartották, hogy enyhítsék a nyári hőséget."
+      ]
+    },
+    {
+      "id": "hiran-minar-landmarks-v2",
+      "descriptionAdvanced": "A Hiran Minar egy kivételes szépségű, vízen lebegő pavilonkomplexum Pandzsábban. Fő látványossága nemcsak a 30 méteres, lyukacsos torony, hanem a hatalmas, közel négyzet alakú (270x210 méteres) mesterséges medence is, amelynek közepén egy nyolcszögletű, kétszintes pihenőpavilon (Baradari) magasodik. Ezt a pavilonhoz egy 100 méter hosszú, elegáns boltíves híd köti össze a parttal. A csendes víztükör, a körülötte elterülő egykori vadászerdő és a pavilon szimmetriája a nyugalom oázisává teszi a helyet. A pavilon alatti kis pincékben egykor a nyári hőség elől kerestek menedéket a mogul uralkodók. Kunst K8 — a vízi pavilonok, a baradari építészet és a víz szerepe a mogul kertekben.",
+      "factsAdvanced": [
+        "A tó közepén álló pavilon egy úgynevezett 'Baradari' (tizenkét ajtós/íves) építmény.",
+        "A pavilonhoz vezető nyitott, árkádos híd több mint 100 méter hosszú.",
+        "A tavat egy gondosan megtervezett földalatti csatornarendszer táplálta vízzel.",
+        "A pavilon tetején lévő chhatri (kupolás erkély) a császár pihenőhelye volt.",
+        "A víztározó szélein lévő széles lépcsőket az állatok itatására is használták.",
+        "A pavilon alatt hűs pincék (tahkhana) találhatók a nyári pihenéshez."
+      ]
+    },
+    {
+      "id": "mausoleum-of-quaid-e-azam-landmarks-v2",
+      "descriptionAdvanced": "A Mazar-e-Quaid (Quaid-e-Azam mauzóleuma) Karacsi legismertebb vizuális jelképe, egy gigantikus, makulátlan fehér márványkocka, amelyen egy lapított rézkupola nyugszik. Az emlékmű egy hatalmas, zöld park és lépcsőzetes vízmedencék középpontjában áll, kiemelkedve a poros és nyüzsgő nagyvárosból. A 75 méter széles és 43 méter magas épület puritánsága szándékos: a modern pakisztáni állam racionális, tiszta iszlám értékeit hivatott sugározni. Éjszakánként az épületet erős reflektorokkal világítják meg, így az fénylő fehér oázisként tündököl a sötétben, tiszteletet parancsolva az országalapítónak. Kunst K8 — a modern minimalizmus és a monumentális márványépítészet.",
+      "factsAdvanced": [
+        "Az emlékmű körüli parkot és teraszokat 15 összefüggő, lépcsőzetes szökőkút díszíti.",
+        "A mauzóleum négy oldalán hatalmas, csúcsíves, maór (mór) stílusú rézkapuk találhatók.",
+        "A belső kripta (amely a közönség számára zárt) rejti a tényleges sírokat a díszsírhely (kenotáfium) alatt.",
+        "Az épület körüli sétautakat úgy tervezték, hogy a látogatók a zarándoklat érzését éljék át.",
+        "A mauzóleum parkja gyakran szolgál állami díszünnepségek és katonai tiszteletadások helyszínéül.",
+        "Az emlékmű építészetében felismerhetők a buharai Szamanida-mauzóleum arányai."
+      ]
+    },
+    {
+      "id": "ranikot-fort-landmarks-v2",
+      "descriptionAdvanced": "A Ranikot erőd Szindh tartomány legvadregényesebb építészeti és természeti látványossága. A hegycsúcsokon kígyózó, végeláthatatlan kőfalak leginkább a Kínai Nagy Falra emlékeztetnek, és fantasztikus túrázási lehetőséget nyújtanak a kietlen sivatagi környezetben. A látogatók leggyakrabban a Sann Kapun (Sann Gate) lépnek be az erőd területére, ahonnan a Mohan folyó kiszáradt medre szeli ketté a völgyet. A belső, kisebb erőd, a Miri Qila a Talpur uralkodók szálláshelye volt, és a falairól lenyűgöző sivatagi panoráma tárul az utazó elé. A hely izoláltsága, a holdbéli táj és a hatalmas, elhagyatott falak kombinációja életre szóló élmény. Földrajz K8 — az extrém turizmus, a sivatagi várak és a topográfia.",
+      "factsAdvanced": [
+        "A Sann Kapu az erőd legfőbb, épségben maradt monumentális bejárata.",
+        "A falak helyi sárgás-barna homokkőből és mészhabarcsból épültek, így beleolvadnak a hegyekbe.",
+        "A belső Miri Qila erőd egy magaslaton fekszik, és saját védművekkel (bástyákkal) rendelkezik.",
+        "Az erődön belül található egy apró, csodálatos oázis (Pariyan Jo Jabal), ahol források fakadnak.",
+        "A látogatóknak négykerék-meghajtású járműre van szükségük a nehezen megközelíthető kapukhoz.",
+        "Télen a terület népszerű kempingező- és csillagvizsgáló hely a pakisztáni fiatalok körében."
+      ]
+    },
+    {
+      "id": "shalimar-gardens-lahore-landmarks-v2",
+      "descriptionAdvanced": "A lahori Shalimar-kertek a perzsa-mogul kertépítészet (chahar bagh) csúcsteljesítményei, amelyeket Shah Jahan császár építtetett 1641-ben. Az UNESCO Világörökség részét képező, 16 hektáros téglalap alakú komplexum három, egyre mélyülő teraszra tagolódik, amelyeket a folyó víz és a vízesések kötnek össze. A kerteket egykor több mint 400 lenyűgöző szökőkút és márvány vízmedence ékesítette, amelyeket egy bonyolult, több tíz kilométeres csatornarendszer táplált. A parkot díszítő faragott pavilonok (baradari), árnyas fák és geometriai pontossággal megtervezett virágágyások a földi paradicsom mogul vízióját testesítik meg. Kunst K8 — a perzsa kertépítészet, a hidraulikus mérnöki munka és a mikroklíma.",
+      "factsAdvanced": [
+        "A kerteket 1641-ben építtette Shah Jahan császár, a Tádzs Mahal építtetője.",
+        "A park három terasza a Farah Baksh (Öröm), Faiz Baksh (Jóság) és Hayat Baksh (Élet) neveket viseli.",
+        "A komplexumban eredetileg 410 vizet szóró, márványból faragott szökőkút működött.",
+        "A vizet a több mint 160 kilométer hosszú 'Shah Nahar' (Királyi Csatorna) hozta a hegyekből.",
+        "A középső terasz közepén egy hatalmas fehér márvány vízmedence (hauz) található.",
+        "Az 1981-ben UNESCO Világörökséggé nyilvánított kerteket magas, pártázatos téglafal veszi körül."
+      ]
+    },
+    {
+      "id": "katas-raj-temples-landmarks-v2",
+      "descriptionAdvanced": "A Katasz Rádzs-templomok nemcsak történelmi, hanem lenyűgöző természeti látványosságot is kínálnak. A völgy katlanjában megbújó kőtemplomok egy türkizkék vizű szent tó (Katas) köré épültek, amely drámai kontrasztot alkot a Só-hegység vörösesbarna szikláival. Az épületek bonyolult kőfaragásai, a kupolás tetők és az oszlopos erkélyek labirintusszerű hálózatot alkotnak. A látogatók a meredek, kőből faragott lépcsőkön sétálva bejárhatják az ősi szentélyeket, felfedezhetik a sötét, boltíves meditációs cellákat és élvezhetik a csendet, amit csak a tó vizének tükröződése tör meg. Földrajz K8 — a vallási oázisok, a szakrális tavak és a kőfaragás turizmusa.",
+      "factsAdvanced": [
+        "A szent tó vize rendkívül tiszta és kékes-zöld színű a magas ásványianyag-tartalom miatt.",
+        "A legnagyobb templom (Shiva-templom) többszintes, és egy teraszról néz a tó felé.",
+        "A komplexumban található egy 'Baoli' (lépcsős kút), amely mélyen a földbe nyúlik.",
+        "Egyes romok között ősi freskók halvány nyomai láthatók a falakon.",
+        "A hely a brit korszakban is kedvelt kirándulóhely volt festői környezete miatt.",
+        "A pakisztáni kormány az utóbbi években felújította a tó körüli sétautakat a turisták számára."
+      ]
+    },
+    {
+      "id": "takht-i-bahi-landmarks-v2",
+      "descriptionAdvanced": "A Takht-i-Bahi buddhista kolostora az ország egyik leghangulatosabb régészeti parkja. A látogatóknak egy meredek hegyi ösvényen kell felmászniuk a mintegy 150 méter magasan fekvő sziklateraszra, de a látvány kárpótol a fáradalmakért: a hegyoldalba vágott, precízen faragott kőépületekből álló komplexum egy ókori erődvárosra hasonlít. A legimpozánsabb rész a 'Sztúpa Udvara', amelyet 35 apró fogadalmi sztúpa vesz körül fülkékben. A magasabban fekvő szerzetesi cellák és a hatalmas, nyitott tanácsterem a korabeli, szigorúan szabályozott szerzetesi életbe enged bepillantást. A fenséges kilátás a Swat-folyó zöldellő völgyére tovább fokozza a hely spiritualitását. Földrajz K8 — a hegyi turizmus, a sziklába vájt építészet és a Gandhara művészet.",
+      "factsAdvanced": [
+        "A komplexumhoz egy több száz lépcsőfokból álló meredek gyalogút vezet fel a hegyoldalban.",
+        "A kőfalak építéséhez a 'diaper masonry' technikát használták (szabályos kövek és apró kavicsok keveréke).",
+        "A Fő Sztúpa (Main Stupa) udvarát régen hatalmas, aranyozott Buddha-szobrok díszítették.",
+        "A szerzetesi cellák (vihara) kicsik, ablaktalanok, és csak kis falifülkékkel rendelkeztek a mécseseknek.",
+        "A hegy tetején lévő épületek valószínűleg a kolostor apátjának (vezetőjének) lakosztályai voltak.",
+        "A terület kiterjedt földalatti vízvezeték-rendszerrel rendelkezett az esővíz összegyűjtésére."
+      ]
+    },
+    {
+      "id": "frere-hall-landmarks-v2",
+      "descriptionAdvanced": "A Frere Hall Karacsi egyik legszebb brit gyarmati kori épülete, amely a modern metropolisz szívében, egy hatalmas pálmafás parkban (Jinnah Gardens) áll. Az 1865-ben, velencei-gótikus stílusban épült sárgás mészkő palota eredetileg a város közösségi csarnokaként (town hall) szolgált. Különlegessége a hegyes ívű ablakok, az elegáns oszlopcsarnokok és a faragott kőerkélyek finom kidolgozása. Az épület felső emeletének mennyezetét Sadequain, Pakisztán leghíresebb festője díszítette egy gigantikus, szürrealista kalligráfia-freskóval az 1980-as években. Ma az épületben egy könyvtár és galéria működik. Kunst K8 — a gyarmati gótika, az építészeti fúzió és Sadequain művészete.",
+      "factsAdvanced": [
+        "Az épületet Sir Henry Bartle Frere, Szindh egykori brit főbiztosa tiszteletére nevezték el.",
+        "A velencei-gótikus dizájn tervezője a brit Henry Saint Clair Wilkins volt.",
+        "Az építéshez használt sárgás mészkövet (Gizri stone) a közeli bányákból hozták.",
+        "Sadequain 1986-ban kezdte el festeni a mennyezeti freskót ('Arz-o-Samawat'), de halála miatt befejezetlen maradt.",
+        "Az épület körüli Bagh-e-Jinnah park a karacsi lakosok egyik kedvenc pihenőhelye.",
+        "A földszinten található a történelmi Liaquat Nemzeti Könyvtár gazdag gyűjteménye."
+      ]
+    },
+    {
+      "id": "noor-mahal-landmarks-v2",
+      "descriptionAdvanced": "A Noor Mahal (Fény Palotája) a bahawalpur-i fejedelemség legfényűzőbb királyi palotája, amely az itáliai chateaux és a brit neoklasszikus építészet káprázatos ötvözete a Cholistan-sivatag peremén. A palotát 1872-ben építtette Nawab Sadeq Muhammad Khan a feleségének. A pazar belső tereket Angliából és Olaszországból hozatott kristálycsillárok, kézi csomózású szőnyegek, intarziás bútorok és kardgyűjtemények díszítik. A hatalmas, boltíves csarnokok és a falfestmények a 19. századi indiai fejedelmek mesés gazdagságát tükrözik. Ma a pakisztáni hadsereg gondozásában lévő épület egy része múzeumként várja a látogatókat. Kunst K8 — a neoklasszicizmus Dél-Ázsiában és a fejedelmi gyűjtemények.",
+      "factsAdvanced": [
+        "A palota egy olaszországi chateau (kastély) alaprajzát és stílusát másolja.",
+        "A legenda szerint a feleség, akinek épült, egy éjszaka után elhagyta, mert közel volt a temető.",
+        "A palota fűtését és hűtését egy bonyolult, falba rejtett alagútrendszer biztosította.",
+        "A belső dekorációk zöme, köztük a kristálycsillárok, közvetlenül Európából érkeztek a 19. században.",
+        "A palota előtt egy széles, pázsitos park terül el, ami kiemeli a főépület szimmetriáját.",
+        "1999-ben a pakisztáni hadsereg vásárolta meg és restaurálta a pusztuló épületet."
+      ]
+    }
+  ]
+}

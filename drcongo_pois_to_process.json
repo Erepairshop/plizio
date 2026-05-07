@@ -1,0 +1,930 @@
+[
+  {
+    "id": "cd-boma-cities-v2",
+    "name": "Boma"
+  },
+  {
+    "id": "cd-muanda-cities-v2",
+    "name": "Muanda"
+  },
+  {
+    "id": "cd-mbanza-ngungu-cities-v2",
+    "name": "Mbanza-Ngungu"
+  },
+  {
+    "id": "cd-lubumbashi-cities-v2",
+    "name": "Lubumbashi"
+  },
+  {
+    "id": "cd-likasi-cities-v2",
+    "name": "Likasi"
+  },
+  {
+    "id": "cd-kipushi-cities-v2",
+    "name": "Kipushi"
+  },
+  {
+    "id": "cd-kasumbalesa-cities-v2",
+    "name": "Kasumbalesa"
+  },
+  {
+    "id": "cd-kolwezi-cities-v2",
+    "name": "Kolwezi"
+  },
+  {
+    "id": "cd-fungurume-cities-v2",
+    "name": "Fungurume"
+  },
+  {
+    "id": "cd-mutshatsha-cities-v2",
+    "name": "Mutshatsha"
+  },
+  {
+    "id": "cd-kamina-cities-v2",
+    "name": "Kamina"
+  },
+  {
+    "id": "cd-bukama-cities-v2",
+    "name": "Bukama"
+  },
+  {
+    "id": "cd-kabongo-cities-v2",
+    "name": "Kabongo"
+  },
+  {
+    "id": "cd-kalemie-cities-v2",
+    "name": "Kalemie"
+  },
+  {
+    "id": "cd-kongolo-cities-v2",
+    "name": "Kongolo"
+  },
+  {
+    "id": "cd-manono-cities-v2",
+    "name": "Manono"
+  },
+  {
+    "id": "cd-bukavu-cities-v2",
+    "name": "Bukavu"
+  },
+  {
+    "id": "cd-uvira-cities-v2",
+    "name": "Uvira"
+  },
+  {
+    "id": "cd-baraka-cities-v2",
+    "name": "Baraka"
+  },
+  {
+    "id": "cd-kamituga-cities-v2",
+    "name": "Kamituga"
+  },
+  {
+    "id": "cd-goma-cities-v2",
+    "name": "Goma"
+  },
+  {
+    "id": "cd-beni-cities-v2",
+    "name": "Beni"
+  },
+  {
+    "id": "cd-butembo-cities-v2",
+    "name": "Butembo"
+  },
+  {
+    "id": "cd-oicha-cities-v2",
+    "name": "Oicha"
+  },
+  {
+    "id": "cd-bunia-cities-v2",
+    "name": "Bunia"
+  },
+  {
+    "id": "cd-mahagi-cities-v2",
+    "name": "Mahagi"
+  },
+  {
+    "id": "cd-aru-cities-v2",
+    "name": "Aru"
+  },
+  {
+    "id": "cd-isiro-cities-v2",
+    "name": "Isiro"
+  },
+  {
+    "id": "cd-watsa-cities-v2",
+    "name": "Watsa"
+  },
+  {
+    "id": "cd-kisangani-cities-v2",
+    "name": "Kisangani"
+  },
+  {
+    "id": "cd-bafwasende-cities-v2",
+    "name": "Bafwasende"
+  },
+  {
+    "id": "cd-buta-cities-v2",
+    "name": "Buta"
+  },
+  {
+    "id": "cd-bondo-cities-v2",
+    "name": "Bondo"
+  },
+  {
+    "id": "cd-gbadolite-cities-v2",
+    "name": "Gbadolite"
+  },
+  {
+    "id": "cd-businga-cities-v2",
+    "name": "Businga"
+  },
+  {
+    "id": "cd-lisala-cities-v2",
+    "name": "Lisala"
+  },
+  {
+    "id": "cd-bumba-cities-v2",
+    "name": "Bumba"
+  },
+  {
+    "id": "cd-gemena-cities-v2",
+    "name": "Gemena"
+  },
+  {
+    "id": "cd-zongo-cities-v2",
+    "name": "Zongo"
+  },
+  {
+    "id": "cd-mbandaka-cities-v2",
+    "name": "Mbandaka"
+  },
+  {
+    "id": "cd-basankusu-cities-v2",
+    "name": "Basankusu"
+  },
+  {
+    "id": "cd-bikoro-cities-v2",
+    "name": "Bikoro"
+  },
+  {
+    "id": "cd-boende-cities-v2",
+    "name": "Boende"
+  },
+  {
+    "id": "cd-ikela-cities-v2",
+    "name": "Ikela"
+  },
+  {
+    "id": "cd-tshikapa-cities-v2",
+    "name": "Tshikapa"
+  },
+  {
+    "id": "cd-ilebo-cities-v2",
+    "name": "Ilebo"
+  },
+  {
+    "id": "cd-mweka-cities-v2",
+    "name": "Mweka"
+  },
+  {
+    "id": "cd-kananga-cities-v2",
+    "name": "Kananga"
+  },
+  {
+    "id": "cd-tshimbulu-cities-v2",
+    "name": "Tshimbulu"
+  },
+  {
+    "id": "cd-demba-cities-v2",
+    "name": "Demba"
+  },
+  {
+    "id": "cd-mbuji-mayi-cities-v2",
+    "name": "Mbuji-Mayi"
+  },
+  {
+    "id": "cd-tshilenge-cities-v2",
+    "name": "Tshilenge"
+  },
+  {
+    "id": "cd-kabinda-cities-v2",
+    "name": "Kabinda"
+  },
+  {
+    "id": "cd-mwene-ditu-cities-v2",
+    "name": "Mwene-Ditu"
+  },
+  {
+    "id": "cd-lusambo-cities-v2",
+    "name": "Lusambo"
+  },
+  {
+    "id": "cd-lodja-cities-v2",
+    "name": "Lodja"
+  },
+  {
+    "id": "cd-kole-cities-v2",
+    "name": "Kole"
+  },
+  {
+    "id": "cd-mine-tenke-fungurume-economic-v2",
+    "name": "Tenke-Fungurume bánya"
+  },
+  {
+    "id": "cd-mine-kibali-economic-v2",
+    "name": "Kibali aranybánya"
+  },
+  {
+    "id": "cd-mine-ruashi-economic-v2",
+    "name": "Ruashi bánya"
+  },
+  {
+    "id": "cd-mine-mutanda-economic-v2",
+    "name": "Mutanda bánya"
+  },
+  {
+    "id": "cd-mine-kamoto-economic-v2",
+    "name": "Kamoto rézbánya"
+  },
+  {
+    "id": "cd-mine-kamoa-kakula-economic-v2",
+    "name": "Kamoa-Kakula bánya"
+  },
+  {
+    "id": "cd-mine-kipushi-economic-v2",
+    "name": "Kipushi bánya"
+  },
+  {
+    "id": "cd-mine-kinsevere-economic-v2",
+    "name": "Kinsevere bánya"
+  },
+  {
+    "id": "cd-mine-bisie-economic-v2",
+    "name": "Bisie ónbánya"
+  },
+  {
+    "id": "cd-mine-miba-mbuji-mayi-economic-v2",
+    "name": "MIBA gyémántbánya"
+  },
+  {
+    "id": "cd-mine-tshikapa-economic-v2",
+    "name": "Tshikapa gyémántbányái"
+  },
+  {
+    "id": "cd-oil-perenco-economic-v2",
+    "name": "Perenco olajlétesítmények"
+  },
+  {
+    "id": "cd-dam-inga-economic-v2",
+    "name": "Inga-gátak"
+  },
+  {
+    "id": "cd-industry-maluku-economic-v2",
+    "name": "Maluku acélmű"
+  },
+  {
+    "id": "cd-industry-cilu-economic-v2",
+    "name": "CILU cementgyár"
+  },
+  {
+    "id": "cd-port-matadi-economic-v2",
+    "name": "Matadi kikötője"
+  },
+  {
+    "id": "cd-port-banana-economic-v2",
+    "name": "Banana kikötője"
+  },
+  {
+    "id": "cd-port-boma-economic-v2",
+    "name": "Boma kikötője"
+  },
+  {
+    "id": "cd-port-kinshasa-economic-v2",
+    "name": "Kinshasa folyami kikötője"
+  },
+  {
+    "id": "cd-port-kisangani-economic-v2",
+    "name": "Kisangani folyami kikötője"
+  },
+  {
+    "id": "cd-port-ilebo-economic-v2",
+    "name": "Ilebo folyami kikötője"
+  },
+  {
+    "id": "cd-port-kalemie-economic-v2",
+    "name": "Kalemie kikötője"
+  },
+  {
+    "id": "cd-mine-zongo-ii-economic-v2",
+    "name": "Zongo II vízerőmű"
+  },
+  {
+    "id": "cd-mine-kamituga-economic-v2",
+    "name": "Kamituga aranybányái"
+  },
+  {
+    "id": "cd-industry-bralima-economic-v2",
+    "name": "Bralima Sörfőzde Kinshasa"
+  },
+  {
+    "id": "cd-industry-shinkolobwe-economic-v2",
+    "name": "Történelmi Shinkolobwe bánya"
+  },
+  {
+    "id": "cd-mine-twangiza-economic-v2",
+    "name": "Twangiza aranybánya"
+  },
+  {
+    "id": "cd-mine-namoya-economic-v2",
+    "name": "Namoya aranybánya"
+  },
+  {
+    "id": "cd-port-mbandaka-economic-v2",
+    "name": "Mbandaka folyami kikötője"
+  },
+  {
+    "id": "cd-mine-luiswishi-economic-v2",
+    "name": "Luiswishi bánya"
+  },
+  {
+    "id": "bunkeya-yeke-capital",
+    "name": "Bunkeya (Yeke Birodalom fővárosa)"
+  },
+  {
+    "id": "mushenge-kuba-capital",
+    "name": "Nsheng (Kuba főváros)"
+  },
+  {
+    "id": "nyangwe-swahili-arab-post",
+    "name": "Nyangwe"
+  },
+  {
+    "id": "kasongo-tippu-tip",
+    "name": "Kasongo"
+  },
+  {
+    "id": "boma-first-capital",
+    "name": "Boma (Egykori főváros)"
+  },
+  {
+    "id": "vivi-stanley-outpost",
+    "name": "Vivi"
+  },
+  {
+    "id": "fort-de-shinkakasa",
+    "name": "Fort de Shinkakasa"
+  },
+  {
+    "id": "jadotville-likasi",
+    "name": "Jadotville (Likasi)"
+  },
+  {
+    "id": "shinkolobwe-mine",
+    "name": "Shinkolobwe uránbánya"
+  },
+  {
+    "id": "ishango-archaeological-site",
+    "name": "Ishango régészeti lelőhely"
+  },
+  {
+    "id": "sanga-kisale-graves",
+    "name": "Sanga temető"
+  },
+  {
+    "id": "kolwezi-battle-1978",
+    "name": "Kolwezi (1978-as csata)"
+  },
+  {
+    "id": "stanley-falls-station",
+    "name": "Stanley Falls Station (Kisangani)"
+  },
+  {
+    "id": "mbandaka-coquilhatville",
+    "name": "Coquilhatville (Mbandaka)"
+  },
+  {
+    "id": "lovanium-university-site",
+    "name": "Lovanium Egyetem"
+  },
+  {
+    "id": "baudouinville-moba",
+    "name": "Baudouinville (Moba)"
+  },
+  {
+    "id": "albertville-kalemie",
+    "name": "Albertville (Kalemie)"
+  },
+  {
+    "id": "uvira-swahili-post",
+    "name": "Történelmi Uvira"
+  },
+  {
+    "id": "banza-manteke-mission",
+    "name": "Banza-Manteke misszió"
+  },
+  {
+    "id": "kamina-military-base",
+    "name": "Kamina katonai bázis"
+  },
+  {
+    "id": "matupi-cave",
+    "name": "Matupi-barlang"
+  },
+  {
+    "id": "dimba-cave",
+    "name": "Dimba-barlang"
+  },
+  {
+    "id": "mount-mangengenge",
+    "name": "Mont Mangengenge"
+  },
+  {
+    "id": "kongo-dia-vwa",
+    "name": "Kongo-Dia-Vwa"
+  },
+  {
+    "id": "yumbi-historical-trade",
+    "name": "Yumbi (Történelmi kereskedőhely)"
+  },
+  {
+    "id": "kimpese-mission",
+    "name": "Kimpese misszió"
+  },
+  {
+    "id": "businga-colonial-post",
+    "name": "Businga gyarmati állomás"
+  },
+  {
+    "id": "ruvubu-valley-historical",
+    "name": "Történelmi Ruvubu-völgy"
+  },
+  {
+    "id": "ruvubu-valley-historical-2",
+    "name": "Uvira partvidéke"
+  },
+  {
+    "id": "zongo-falls-historical",
+    "name": "Történelmi Zongo-vízesés"
+  },
+  {
+    "id": "cd-stade-des-martyrs-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-palais-du-peuple-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-echangeur-de-limete-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-musee-national-rdc-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-nd-congo-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-mausolee-kabila-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-academie-beaux-arts-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-gare-centrale-kinshasa-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-monument-independance-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-stade-tata-raphael-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-eglise-sainte-anne-kinshasa-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-pont-marechal-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-baobab-de-stanley-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-assomption-boma-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-chukudu-monument-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-saint-joseph-goma-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-musee-national-lubumbashi-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-stade-tp-mazembe-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-palais-de-justice-lubumbashi-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-paix-bukavu-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-college-alfajiri-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-rosaire-kisangani-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-universite-kisangani-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-place-de-la-femme-kisangani-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-cathedrale-christ-roi-kalemie-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-gare-de-kalemie-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-pont-de-kongolo-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-barrage-inga-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "cd-palais-de-la-nation-landmarks-v2",
+    "name": "Unknown"
+  },
+  {
+    "id": "virunga-national-park-life-v2",
+    "name": "Virunga Nemzeti Park"
+  },
+  {
+    "id": "kahuzi-biega-national-park-life-v2",
+    "name": "Kahuzi-Biega Nemzeti Park"
+  },
+  {
+    "id": "okapi-wildlife-reserve-life-v2",
+    "name": "Okapi Vadrezervátum"
+  },
+  {
+    "id": "salonga-national-park-life-v2",
+    "name": "Salonga Nemzeti Park"
+  },
+  {
+    "id": "garamba-national-park-life-v2",
+    "name": "Garamba Nemzeti Park"
+  },
+  {
+    "id": "upemba-national-park-life-v2",
+    "name": "Upemba Nemzeti Park"
+  },
+  {
+    "id": "kundelungu-national-park-life-v2",
+    "name": "Kundelungu Nemzeti Park"
+  },
+  {
+    "id": "lomami-national-park-life-v2",
+    "name": "Lomami Nemzeti Park"
+  },
+  {
+    "id": "maiko-national-park-life-v2",
+    "name": "Maiko Nemzeti Park"
+  },
+  {
+    "id": "mangroves-national-park-life-v2",
+    "name": "Mangrove Nemzeti Park"
+  },
+  {
+    "id": "kongo-kakaoplantage-v2",
+    "name": "Kongói kakaóültetvény"
+  },
+  {
+    "id": "kinshasa-kinderpark-v2",
+    "name": "Kinshasa Gyermekpark"
+  },
+  {
+    "id": "kongo-kaffeeplantage-v2",
+    "name": "Kongói kávéültetvény"
+  },
+  {
+    "id": "kongo-palmoelplantage-v2",
+    "name": "Kongói pálmaolaj-ültetvény"
+  },
+  {
+    "id": "lubumbashi-kinderpark-v2",
+    "name": "Lubumbashi Gyermekpark"
+  },
+  {
+    "id": "kongo-erdnussfeld-v2",
+    "name": "Kongói földimogyoró-föld"
+  },
+  {
+    "id": "kongo-zuckerrohrplantage-v2",
+    "name": "Kongói cukornád-ültetvény"
+  },
+  {
+    "id": "goma-kinderpark-v2",
+    "name": "Goma Gyermekpark"
+  },
+  {
+    "id": "kongo-bananenplantage-v2",
+    "name": "Kongói banánültetvény"
+  },
+  {
+    "id": "kisangani-kinderpark-v2",
+    "name": "Kisangani Gyermekpark"
+  },
+  {
+    "id": "kongo-reisfeld-v2",
+    "name": "Kongói rizsföld"
+  },
+  {
+    "id": "bukavu-kinderpark-v2",
+    "name": "Bukavu Gyermekpark"
+  },
+  {
+    "id": "kongo-manjokfeld-v2",
+    "name": "Kongói maniókamező"
+  },
+  {
+    "id": "kongo-teebau-v2",
+    "name": "Kongói teatermesztés"
+  },
+  {
+    "id": "matadi-kinderpark-v2",
+    "name": "Matadi Gyermekpark"
+  },
+  {
+    "id": "kongo-ananasplantage-v2",
+    "name": "Kongói ananászültetvény"
+  },
+  {
+    "id": "mbandaka-kinderpark-v2",
+    "name": "Mbandaka Gyermekpark"
+  },
+  {
+    "id": "kongo-mais-feld-v2",
+    "name": "Kongói kukoricaföld"
+  },
+  {
+    "id": "kongo-gummibaumplantage-v2",
+    "name": "Kongói gumifa-ültetvény"
+  },
+  {
+    "id": "kolwezi-kinderpark-v2",
+    "name": "Kolwezi Gyermekpark"
+  },
+  {
+    "id": "congo-river-nature-v2",
+    "name": "Kongó"
+  },
+  {
+    "id": "tanganyika-lake-nature-v2",
+    "name": "Tanganyika-tó"
+  },
+  {
+    "id": "ituri-forest-nature-v2",
+    "name": "Ituri-erdő"
+  },
+  {
+    "id": "virunga-mountains-nature-v2",
+    "name": "Virunga-hegység"
+  },
+  {
+    "id": "maiko-forest-nature-v2",
+    "name": "Maiko-esőerdő"
+  },
+  {
+    "id": "lualaba-river-nature-v2",
+    "name": "Lualaba folyó"
+  },
+  {
+    "id": "kivu-lake-nature-v2",
+    "name": "Kivu-tó"
+  },
+  {
+    "id": "kasai-river-nature-v2",
+    "name": "Kasai folyó"
+  },
+  {
+    "id": "upemba-lake-nature-v2",
+    "name": "Upemba-tó"
+  },
+  {
+    "id": "ruwenzori-mountains-nature-v2",
+    "name": "Ruwenzori-hegység"
+  },
+  {
+    "id": "congo-basin-nature-v2",
+    "name": "Kongó-medence"
+  },
+  {
+    "id": "salonga-forest-nature-v2",
+    "name": "Salonga Nemzeti Park"
+  },
+  {
+    "id": "lukuga-river-nature-v2",
+    "name": "Lukuga folyó"
+  },
+  {
+    "id": "edward-lake-nature-v2",
+    "name": "Edward-tó"
+  },
+  {
+    "id": "ubangi-river-nature-v2",
+    "name": "Ubangi folyó"
+  },
+  {
+    "id": "niari-river-nature-v2",
+    "name": "Niari folyó"
+  },
+  {
+    "id": "albert-lake-nature-v2",
+    "name": "Albert-tó"
+  },
+  {
+    "id": "lomami-river-nature-v2",
+    "name": "Lomami folyó"
+  },
+  {
+    "id": "kwango-river-nature-v2",
+    "name": "Kwango folyó"
+  },
+  {
+    "id": "tshuapa-river-nature-v2",
+    "name": "Tshuapa folyó"
+  },
+  {
+    "id": "mweru-lake-nature-v2",
+    "name": "Mweru-tó"
+  },
+  {
+    "id": "sankuru-river-nature-v2",
+    "name": "Sankuru folyó"
+  },
+  {
+    "id": "kwilu-river-nature-v2",
+    "name": "Kwilu folyó"
+  },
+  {
+    "id": "sangha-river-nature-v2",
+    "name": "Sangha folyó"
+  },
+  {
+    "id": "luapula-river-nature-v2",
+    "name": "Luapula folyó"
+  },
+  {
+    "id": "ituri-river-nature-v2",
+    "name": "Ituri folyó"
+  },
+  {
+    "id": "wamba-river-nature-v2",
+    "name": "Wamba folyó"
+  },
+  {
+    "id": "lufira-river-nature-v2",
+    "name": "Lufira folyó"
+  },
+  {
+    "id": "luapula-river-2-nature-v2",
+    "name": "Luapula folyó"
+  },
+  {
+    "id": "lukenie-river-nature-v2",
+    "name": "Lukenie folyó"
+  },
+  {
+    "id": "congo-basin-relief-v2",
+    "name": "Kongó-medence"
+  },
+  {
+    "id": "mitumba-mountains-relief-v2",
+    "name": "Mitumba-hegység"
+  },
+  {
+    "id": "virunga-mountains-relief-v2",
+    "name": "Virunga-hegység"
+  },
+  {
+    "id": "rwenzori-mountains-relief-v2",
+    "name": "Rwenzori-hegység"
+  },
+  {
+    "id": "tanganyika-trough-relief-v2",
+    "name": "Tanganyika-árok"
+  },
+  {
+    "id": "kivu-basin-relief-v2",
+    "name": "Kivu-medence"
+  },
+  {
+    "id": "plateau-of-katanga-relief-v2",
+    "name": "Katanga-fennsík"
+  },
+  {
+    "id": "ubangi-plateau-relief-v2",
+    "name": "Ubangi-fennsík"
+  },
+  {
+    "id": "mount-kahuzi-relief-v2",
+    "name": "Kahuzi-hegy"
+  },
+  {
+    "id": "mount-nyiragongo-relief-v2",
+    "name": "Nyiragongo"
+  },
+  {
+    "id": "mount-nyamuragira-relief-v2",
+    "name": "Nyamuragira"
+  },
+  {
+    "id": "mount-karisimbi-relief-v2",
+    "name": "Karisimbi-hegy"
+  },
+  {
+    "id": "mount-mikeno-relief-v2",
+    "name": "Mikeno-hegy"
+  },
+  {
+    "id": "ituri-forest-relief-v2",
+    "name": "Ituri-esőerdő"
+  },
+  {
+    "id": "mayombe-forest-relief-v2",
+    "name": "Mayombe-erdő"
+  },
+  {
+    "id": "mount-visoke-relief-v2",
+    "name": "Bisoke-hegy"
+  },
+  {
+    "id": "mount-sabyinyo-relief-v2",
+    "name": "Sabyinyo-hegy"
+  },
+  {
+    "id": "mount-gahinga-relief-v2",
+    "name": "Gahinga-hegy"
+  },
+  {
+    "id": "mount-goma-relief-v2",
+    "name": "Goma-vulkáni terület"
+  },
+  {
+    "id": "luama-plateau-relief-v2",
+    "name": "Luama-fennsík"
+  },
+  {
+    "id": "boyoma-falls-relief-v2",
+    "name": "Boyoma-vízesés"
+  },
+  {
+    "id": "marungu-mountains-relief-v2",
+    "name": "Marungu-hegység"
+  },
+  {
+    "id": "kundelungu-plateau-relief-v2",
+    "name": "Kundelungu-fennsík"
+  },
+  {
+    "id": "biano-plateau-relief-v2",
+    "name": "Biano-fennsík"
+  },
+  {
+    "id": "lowland-forest-relief-v2",
+    "name": "Kongó-medencei alföldi esőerdő"
+  }
+]

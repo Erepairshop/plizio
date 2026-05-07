@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "descriptionAdvanced": "The Bazaruto Archipelago National Park is a spectacular marine protected area located off the coast of Vilankulo in Inhambane Province. Consisting of five pristine, sandy islands, the park protects one of the most vital and biodiverse marine ecosystems in the western Indian Ocean. It is globally renowned for hosting the largest remaining population of the highly endangered dugong in East Africa. The archipelago's brilliant turquoise waters, extensive coral reefs, and massive shifting sand dunes attract high-end eco-tourism and scuba divers, playing a critical role in generating conservation revenue while sustaining local artisanal fishing communities. Geography K8 — Marine protected areas, endangered species, and eco-tourism.",
+      "factsAdvanced": [
+        "Consists of five main islands, with Bazaruto being the largest.",
+        "Established as a marine national park in 1971.",
+        "Protects the largest remaining dugong population in East Africa.",
+        "Features extensive, pristine coral reef systems.",
+        "Accessible primarily via boat or light aircraft from Vilankulo.",
+        "The islands are characterized by massive, shifting sand dunes."
+      ]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "descriptionAdvanced": "The Quirimbas Archipelago is a breathtaking, 250-kilometer-long chain of 32 coral islands stretching along the coast of Cabo Delgado Province. A significant portion of these islands is protected within the Quirimbas National Park, which safeguards a vast array of marine life, including sea turtles, dolphins, and migrating whales, alongside extensive mangrove forests. The archipelago is deeply intertwined with ancient Swahili and Portuguese maritime history, particularly on the historically rich Ibo Island. The park represents a complex intersection of vital marine conservation, extreme geographic isolation, and the preservation of deeply rooted coastal cultures. Geography K8 — Coral archipelagos, coastal conservation, and marine biodiversity.",
+      "factsAdvanced": [
+        "A massive chain of 32 coral islands stretching north from Pemba.",
+        "A large portion is protected within the Quirimbas National Park, established in 2002.",
+        "Protects vital nesting grounds for endangered sea turtles.",
+        "Features extensive coastal mangrove and seagrass ecosystems.",
+        "The historic Ibo Island is a key cultural and tourist destination within the chain.",
+        "The area has faced severe challenges from recent regional conflicts."
+      ]
+    },
+    {
+      "id": "maputo-special-reserve-life-v2",
+      "descriptionAdvanced": "The Maputo Special Reserve (Reserva Especial de Maputo), formerly known as the Maputo Elephant Reserve, is a critical conservation area located in the extreme south of Mozambique. Covering a vast mosaic of inland lakes, dense coastal forests, and expansive grasslands, it was originally established to protect the region's coastal elephant population. Today, as a key component of the Lubombo Transfrontier Conservation Area linking Mozambique, South Africa, and Eswatini, the reserve has seen massive wildlife translocations, restoring populations of zebras, giraffes, and antelope. It offers a spectacular, rugged wilderness experience just a few hours' drive from the capital. Geography K8 — Coastal forests, elephant conservation, and transfrontier parks.",
+      "factsAdvanced": [
+        "Located in the Matutuíne District, south of Maputo Bay.",
+        "Originally established in 1932 specifically to protect coastal elephants.",
+        "Part of the massive Lubombo Transfrontier Conservation Area.",
+        "Features a highly diverse landscape of lakes, wetlands, and coastal dunes.",
+        "Has experienced successful, large-scale wildlife reintroductions.",
+        "Connects directly to the Ponta do Ouro Partial Marine Reserve."
+      ]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "descriptionAdvanced": "Zinave National Park is a vast wilderness area located in the incredibly remote interior of Inhambane Province. Situated between the Save and Sanangoé rivers, it is a crucial component of the Great Limpopo Transfrontier Conservation Area. The park's wildlife was almost totally eradicated during the civil war, leaving the landscape eerily empty. However, recent aggressive rewilding efforts led by the Peace Parks Foundation have successfully reintroduced thousands of animals, including elephants, leopards, and rhinos, sparking a dramatic ecological revival. Zinave stands as a powerful testament to the resilience of African ecosystems when given aggressive conservation support. Geography K8 — Rewilding, transfrontier conservation, and interior savannahs.",
+      "factsAdvanced": [
+        "Located in the remote Mabote District of Inhambane Province.",
+        "Forms a vital link in the Great Limpopo Transfrontier Conservation Area.",
+        "Suffered near-total wildlife depletion during the Mozambican Civil War.",
+        "Currently undergoing one of Africa's most ambitious rewilding projects.",
+        "Thousands of animals, including the 'Big Five', have been reintroduced.",
+        "Characterized by dense mopane woodlands and riverine forests."
+      ]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "descriptionAdvanced": "Banhine National Park is a highly unique and remote protected area located in the arid interior of Gaza Province. Often referred to as the 'Serengeti of Mozambique', it features vast, open, seasonally flooded grasslands that are absolutely critical for the historical migration routes of large herbivores moving between the Limpopo and Zinave national parks. The harsh, dry environment supports specialized wildlife adapted to extreme arid conditions, including ostriches and massive flocks of migrating birds. Banhine represents a challenging but vital ecological corridor in the broader southern African conservation landscape. Geography K8 — Wetland corridors, arid savannahs, and wildlife migration.",
+      "factsAdvanced": [
+        "Located in the arid interior of Gaza Province.",
+        "Features an extensive internal wetland system that floods seasonally.",
+        "A critical ecological corridor connecting Limpopo and Zinave National Parks.",
+        "Supports specialized arid-adapted wildlife, including ostriches.",
+        "Considered one of the most remote and least-visited parks in the country.",
+        "Crucial for restoring historical regional migration routes."
+      ]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "descriptionAdvanced": "The Pomene National Reserve is a small but incredibly scenic protected area located on the coast of Inhambane Province. Centered around a massive, pristine mangrove estuary and an isolated peninsula, the reserve protects vital marine breeding grounds and a fragile coastal dune forest ecosystem. The area is renowned for its wild, sweeping beaches, world-class surfing breaks, and the evocative ruins of the 'Old Pomene Hotel', a former colonial luxury resort abandoned during the civil war. It is a prime destination for rugged, off-grid coastal exploration and marine conservation. Geography K7 — Mangrove estuaries, coastal dunes, and eco-tourism.",
+      "factsAdvanced": [
+        "Located on the coastline of the Massinga District in Inhambane.",
+        "Protects a massive, highly intact mangrove estuary system.",
+        "Known for excellent surfing and pristine, isolated beaches.",
+        "Features the prominent ruins of a colonial-era luxury hotel.",
+        "Accessible only by a challenging, deep-sand 4x4 track.",
+        "Critical habitat for nesting sea turtles and diverse birdlife."
+      ]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "descriptionAdvanced": "The Nampula agricultural region is the undisputed breadbasket of northern Mozambique. Blessed with highly fertile soils and reliable tropical rainfall, the province's interior plains are intensely cultivated by both massive commercial agribusinesses and hundreds of thousands of smallholder farmers. The region is the national leader in the production of high-value cash crops, particularly cashew nuts, cotton, and tobacco, alongside staple foods like cassava and maize. This massive agricultural output drives the regional economy, utilizing the Nacala Logistics Corridor to transport crops from the interior districts directly to international markets. Geography K7 — Cash crops, regional breadbaskets, and agricultural logistics.",
+      "factsAdvanced": [
+        "Nampula Province is the most populous and agriculturally productive region in the north.",
+        "The national center for cashew nut and cotton production.",
+        "Relies heavily on both commercial estates and smallholder (family) farming.",
+        "Connects directly to the Nacala port via the regional railway network.",
+        "Produces vast quantities of staple crops, ensuring regional food security.",
+        "Agriculture represents the primary source of employment in the province."
+      ]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "descriptionAdvanced": "The Zambezia sugarcane region, centered around the fertile river valleys and coastal plains of central Mozambique, is a historic powerhouse of plantation agriculture. During the colonial era, the region was dominated by vast prazeiro estates producing copra, tea, and sugar. Today, massive commercial sugar operations leverage the abundant water resources of the region's dense river networks to irrigate thousands of hectares of cane. The sugar mills here are massive industrial employers, acting as the economic anchors for entire districts, and their output is heavily focused on export to international markets. Geography K7 — Plantation economies, irrigated agriculture, and rural industry.",
+      "factsAdvanced": [
+        "Located in the fertile river plains of Zambezia Province.",
+        "Historically dominated by massive, colonial-era plantation estates.",
+        "Current operations rely heavily on extensive river irrigation systems.",
+        "The regional sugar mills are primary sources of formal rural employment.",
+        "Production is geared strongly toward European and regional export markets.",
+        "The industry is highly vulnerable to the region's frequent cyclones and flooding."
+      ]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "descriptionAdvanced": "The Manica coffee region is nestled in the cool, high-altitude Eastern Highlands bordering Zimbabwe. While historically known for tea and citrus, the region's unique microclimate—characterized by cool temperatures, rich soils, and frequent mist—has spurred a recent, highly successful revival of premium Arabica coffee production. Driven by sustainable, community-focused agribusiness models, the coffee grown in the shadow of Mount Vumba and the Chimanimani mountains is gaining international recognition. This burgeoning industry provides high-value, sustainable income for local farmers while encouraging the protection of the fragile highland forest ecosystems. Geography K8 — Highland microclimates, premium agriculture, and sustainable farming.",
+      "factsAdvanced": [
+        "Located in the high-altitude Eastern Highlands of Manica Province.",
+        "The cool, misty climate is perfectly suited for premium Arabica coffee.",
+        "Production is often tied to sustainable, community-driven agricultural projects.",
+        "Provides a high-value cash crop alternative for local highland farmers.",
+        "The region is also famous for its scenic beauty and eco-tourism.",
+        "Coffee cultivation helps protect against the deforestation of highland slopes."
+      ]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "descriptionAdvanced": "The Niassa tobacco region, located on the vast, elevated plateaus of northwestern Mozambique, is a critical center for the country's cash crop economy. The cool, temperate climate and specific soil profiles of the Lichinga Plateau create ideal conditions for cultivating high-grade tobacco. Driven largely by international tobacco conglomerates, the industry relies on a massive network of contracted smallholder farmers who produce the crop. While highly lucrative and a major source of regional income, the intensive farming practices raise ongoing environmental and socioeconomic concerns regarding deforestation and food crop displacement. Geography K8 — Contract farming, cash crop economies, and plateau agriculture.",
+      "factsAdvanced": [
+        "Centered around the high-altitude Lichinga Plateau in Niassa Province.",
+        "One of the premier regions for cultivating high-grade export tobacco.",
+        "Operations are heavily driven by international agricultural conglomerates.",
+        "Relies on thousands of contracted local smallholder farmers.",
+        "Provides critical cash income in a highly remote, impoverished province.",
+        "The intensive cultivation raises concerns regarding local deforestation."
+      ]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "descriptionAdvanced": "The Maputo Botanical Garden, officially known as the Tunduru Gardens, is a lush, sprawling oasis in the very center of the bustling capital. Designed in 1885 by the esteemed British landscape architect Thomas Honney, who also designed gardens for the Sultan of Turkey, the park is a masterpiece of Victorian-era tropical landscaping. It features an incredible array of towering indigenous trees, exotic palms, and a massive, ancient cycad collection. Surrounded by iconic colonial architecture and the city's modern skyscrapers, the gardens provide a vital, shaded recreational sanctuary for Maputo's residents. Geography K7 — Urban green spaces, botanical history, and landscape architecture.",
+      "factsAdvanced": [
+        "Located in downtown Maputo, immediately behind the iconic Iron House.",
+        "Designed in 1885 by British landscape architect Thomas Honney.",
+        "Originally named the Vasco da Gama Gardens.",
+        "Features a highly valuable collection of ancient, slow-growing cycads.",
+        "Provides a massive, shaded recreational space for city residents.",
+        "Includes a historic tennis club and a statue of Mozambique's first president."
+      ]
+    },
+    {
+      "id": "beira-marine-park-life-v2",
+      "descriptionAdvanced": "The Beira Marine Park is a vital coastal conservation initiative located near the bustling port city of Beira. Designed to protect the fragile and highly productive mangrove ecosystems of the Pungwe River estuary, the park balances the intense pressures of urban expansion, industrial shipping, and the livelihoods of thousands of artisanal fishermen. The dense mangrove forests act as critical nurseries for regional fish and prawn populations, while also providing a crucial natural barrier against the devastating storm surges that frequently batter the central coastline. Geography K7 — Estuary conservation, urban ecology, and mangrove ecosystems.",
+      "factsAdvanced": [
+        "Situated around the Pungwe River estuary near the city of Beira.",
+        "Focused on protecting and rehabilitating critical coastal mangrove forests.",
+        "The mangroves act as essential nurseries for the local prawn fishing industry.",
+        "Provides a vital natural buffer against severe cyclonic storm surges.",
+        "Aims to balance heavy industrial port activity with ecological preservation.",
+        "Supports the livelihoods of numerous local artisanal fishing communities."
+      ]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "descriptionAdvanced": "Ilha de Moçambique is like a giant, real-life pirate and explorer playground! Imagine walking across a super-long bridge to a tiny island packed with old stone forts, ancient cannons, and hidden alleyways. Hundreds of years ago, ships filled with spices, gold, and sailors from all over the world stopped here. Kids can explore the massive Fort of São Sebastião, pretending to defend the walls against pirate ships, or wander through the brightly painted streets of Stone Town. It's a place where history isn't just in a book; it's right under your feet! Sachkunde K3 — Historical exploration and old forts.",
+      "factsAdvanced": [
+        "The island is small enough to walk across in just 20 minutes.",
+        "It was once the most important trading city in the whole region.",
+        "The big fort has a secret underground pool for catching rainwater.",
+        "The streets are made of bright white coral stones.",
+        "People here speak a mix of African, Portuguese, and Arabic languages.",
+        "You get to the island by driving over a bridge that is almost 4 kilometers long!"
+      ]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "descriptionAdvanced": "Tofo Beach is the ultimate ocean adventure spot for kids! Located on the sunny coast of Inhambane, it has wide, soft sandy beaches perfect for building massive sandcastles. But the real magic is in the water. Tofo is world-famous because it's one of the best places on Earth to see gigantic, gentle whale sharks and massive manta rays swimming right near the shore! Kids can watch the colorful fishing boats come in with their daily catch or take safe surfing lessons in the warm, rolling waves. It's a sunny, salty paradise for ocean lovers. Sachkunde K3 — Ocean animals and beach environments.",
+      "factsAdvanced": [
+        "Tofo is famous for its huge, friendly manta rays.",
+        "Whale sharks, the biggest fish in the sea, swim right off the beach.",
+        "The water is warm almost all year round.",
+        "It is a very popular place for people to learn how to surf.",
+        "Local fishermen use traditional wooden boats called 'dhows'.",
+        "The beach is shaped like a giant, sweeping crescent moon."
+      ]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "descriptionAdvanced": "The Limpopo wildlife school is a super exciting place where kids can learn all about the amazing animals that live in the wild African savannah! Located near the edge of the massive Limpopo National Park, it teaches visitors how elephants, lions, and zebras survive in the hot, dry wilderness. Kids can learn how to track animal footprints in the dirt, discover what different birds sound like, and understand why it is so important to protect the forests. It's like an outdoor classroom where nature is the teacher, turning every visitor into a junior park ranger! Sachkunde K3 — Wild animals and tracking.",
+      "factsAdvanced": [
+        "Located near the vast Limpopo National Park.",
+        "Teaches kids how to identify different animal tracks.",
+        "Explains the importance of protecting the hot, dry savannah environment.",
+        "Visitors can learn about the huge elephants that migrate through the area.",
+        "Shows how park rangers work to keep the wild animals safe.",
+        "Helps kids understand the connection between local villages and wildlife."
+      ]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "descriptionAdvanced": "The Natural History Museum in Maputo is like stepping into a giant treasure chest of animal wonders! The building itself is beautiful, but inside, it is packed with amazing exhibits. The absolute coolest part for kids is the massive, world-famous collection of elephant fetuses, showing how baby elephants grow before they are born! There are also huge displays of mounted lions, rhinos, and weird sea creatures. Exploring the museum feels like going on a safari right in the middle of the city, learning about all the wild creatures that call Mozambique home. Sachkunde K3 — Museum exhibits and animal biology.",
+      "factsAdvanced": [
+        "Located in a beautiful, old building right in Maputo city.",
+        "Famous for its unique collection showing how baby elephants grow.",
+        "Features hundreds of mounted animals from all over Mozambique.",
+        "Has exhibits of giant insects and strange ocean fish.",
+        "A great place to learn about animals without leaving the city.",
+        "The museum garden has cool, large statues and shady trees."
+      ]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "descriptionAdvanced": "The Gondola playground is a fun, green space in the middle of the busy transit town of Gondola, perfect for a break after a long car ride! Imagine a place with lots of shade from big, leafy trees where kids can run, climb, and play on swings and slides. Because Gondola is a town where huge trucks and trains are always passing by, the playground is a quiet, safe spot to relax. It's a great place to meet local kids, share a snack, and burn off energy before continuing an adventure across central Mozambique. Sachkunde K3 — Parks and taking breaks on a journey.",
+      "factsAdvanced": [
+        "A fun, shaded park located in the busy town of Gondola.",
+        "Gondola is on a major highway, so it's a perfect rest stop.",
+        "Features big trees that provide lots of cool shade from the hot sun.",
+        "A great place for kids to run and stretch their legs after traveling.",
+        "Located near the famous railway line that crosses the country.",
+        "A safe, green space in the middle of a bustling transport hub."
+      ]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "descriptionAdvanced": "Pemba beach play is all about splashing in the warm, calm waters of one of the biggest natural bays in the world! Wimbe Beach in Pemba is famous for its super soft, white sand and water that looks like blue glass. Kids can hunt for beautiful seashells, watch tiny crabs scuttle along the shoreline, or play in the gentle waves. Local artists sometimes carve amazing statues out of dark Makonde wood right near the beach. It's a picture-perfect tropical playground where you can swim all day under the bright African sun! Sachkunde K3 — Tropical beaches and seashells.",
+      "factsAdvanced": [
+        "Wimbe Beach in Pemba has incredibly soft, bright white sand.",
+        "The water in the bay is very calm, making it super safe for swimming.",
+        "Pemba Bay is one of the largest natural bays on the whole planet.",
+        "You can often see local artists carving wood right by the sand.",
+        "The water is so clear you can see tiny fish swimming by your feet.",
+        "The beach is lined with tall, shady palm trees."
+      ]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "descriptionAdvanced": "The Niassa safari experience is a true wilderness adventure for brave young explorers! The Niassa Special Reserve is absolutely massive—bigger than some whole countries! It is one of the wildest places left in Africa, where huge herds of elephants, wild dogs, and even lions roam free among giant, strange-looking granite rock mountains called inselbergs. Kids on a safari here feel like they are exploring a secret, lost world. You sleep under a sky packed with millions of stars and wake up to the sounds of the real, untamed African bush. Sachkunde K3 — Wilderness safaris and stargazing.",
+      "factsAdvanced": [
+        "The Niassa Reserve is one of the largest protected wilderness areas in Africa.",
+        "It is famous for giant, round rock mountains called inselbergs.",
+        "Home to huge herds of wild elephants and endangered African wild dogs.",
+        "The area is so remote that there are almost no city lights, making stargazing amazing.",
+        "You travel around in tough 4x4 safari trucks to see the animals.",
+        "It feels like exploring an ancient, untouched world."
+      ]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "descriptionAdvanced": "Zambezia river fun is an awesome adventure along the muddy, mighty rivers of central Mozambique! The region is full of wide rivers that flow through giant coconut palm forests. Kids can take boat rides in traditional wooden canoes, spotting colorful kingfisher birds diving for fish or monkeys playing in the trees on the riverbanks. It's a place to learn how important rivers are for watering massive farms and providing fish for local villages. It's a wet, wild, and muddy adventure right in the heart of the tropical countryside! Sachkunde K3 — River exploration and tropical birds.",
+      "factsAdvanced": [
+        "Zambezia Province is famous for its many wide, flowing rivers.",
+        "The rivers are lined with millions of tall coconut palm trees.",
+        "People travel the rivers in cool, traditional wooden boats.",
+        "It is a great place to spot brightly colored birds and playful monkeys.",
+        "The river water is used to grow huge fields of rice and sugarcane.",
+        "The riverbanks are great for exploring and learning about nature."
+      ]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "descriptionAdvanced": "The Tete community park is a vibrant, green oasis in one of the hottest cities in Mozambique! Because Tete can get super hot, this park is the perfect place to cool down under the shade of giant Baobab trees. It's a lively spot where local families gather, kids play football on the grass, and vendors sell sweet, ice-cold treats. From the park, you can often see the massive Samora Machel suspension bridge crossing the Zambezi River. It's a fun, energetic place to experience how people in a busy African city relax and have fun together. Sachkunde K3 — City parks and cooling down in hot climates.",
+      "factsAdvanced": [
+        "Tete is known as one of the hottest cities in Mozambique.",
+        "The park has huge, thick Baobab trees that provide excellent shade.",
+        "A great place to watch local kids play fast-paced games of football.",
+        "You can see the giant Zambezi River bridge right near the park.",
+        "Local vendors sell cold drinks and snacks to beat the heat.",
+        "A busy, happy place where the whole community comes to relax."
+      ]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Inchope wildlife refuge is a special protected area located right near a major highway junction. It acts as a safe haven for animals moving through the busy central corridor of Mozambique. Kids visiting the refuge can learn how conservationists protect animals like small antelopes, monkeys, and beautiful birds from the dangers of busy roads and farms. It's an awesome place to see how nature and humans try to live together safely. You can walk along quiet nature trails and try to spot animals hiding in the thick, green bushes! Sachkunde K3 — Animal rescue and nature trails.",
+      "factsAdvanced": [
+        "Located near Inchope, where Mozambique's two biggest highways meet.",
+        "Helps protect animals that live near busy human areas.",
+        "A safe place for monkeys, birds, and small forest deer.",
+        "Features quiet walking trails right off the busy road.",
+        "Teaches visitors how humans and wild animals can share the land safely.",
+        "A cool, green spot to look for hidden creatures."
+      ]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "descriptionAdvanced": "The Chimoio green park is a peaceful, flowery escape in the middle of a bustling farming city! Chimoio is surrounded by mountains and has a cooler climate, making its parks incredibly green and beautiful. Kids can run on the wide lawns, have a family picnic, or look up at the town's crazy, mushroom-shaped water tower! It's a perfect place to relax, eat some of the super sweet local oranges or bananas grown on nearby farms, and enjoy the fresh mountain air before heading off on another adventure. Sachkunde K3 — Parks and local fruits.",
+      "factsAdvanced": [
+        "Chimoio has a cooler climate, so the grass and trees are very green.",
+        "The park is a favorite spot for family picnics and playing games.",
+        "You can easily see the town's famous, funny-shaped water tower from here.",
+        "A great place to eat fresh, sweet citrus fruits from local farms.",
+        "The park is surrounded by beautiful, distant mountains.",
+        "Provides a quiet break from the busy, noisy city streets."
+      ]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "descriptionAdvanced": "Vilankulo coastal fun is the perfect launchpad for a marine adventure! The beaches here are the starting point to visit the amazing Bazaruto islands. Kids can watch the busy harbor where traditional wooden dhow boats with big white sails are loaded up for island trips. The shallow, warm water is perfect for safe splashing, and at low tide, the ocean pulls back to reveal huge sandbanks perfect for running on and hunting for cool shells or starfish. It's a busy, sunny beach town where every day feels like a holiday! Sachkunde K3 — Harbors, boats, and low tide.",
+      "factsAdvanced": [
+        "Vilankulo is the gateway to the famous Bazaruto Archipelago.",
+        "The harbor is full of traditional sailing boats called dhows.",
+        "At low tide, massive sandbanks appear, perfect for exploring.",
+        "The water is shallow, warm, and very safe for playing.",
+        "You can often spot bright, colorful starfish in the shallow pools.",
+        "It is a bustling town full of tourists and local fishermen."
+      ]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "descriptionAdvanced": "The Inhambane explorer park is an awesome adventure right in one of the oldest cities in the country! Kids can walk along the historic waterfront, imagining the ancient Arab sailors and Portuguese explorers who landed here hundreds of years ago. The bay is full of life, and you can watch the ferries zipping across the water to the next town. With wide, safe paths and cool old buildings to look at, it feels like an outdoor history museum where you can run, play, and discover the secrets of the 'Land of the Good People'. Sachkunde K3 — Exploring historic waterfronts.",
+      "factsAdvanced": [
+        "Inhambane is one of the oldest settlements in Mozambique.",
+        "The waterfront is a great place to watch ferries crossing the bay.",
+        "Explorer Vasco da Gama called this the 'Land of the Good People'.",
+        "There are wide, safe walking paths right next to the ocean.",
+        "The area is full of old, colorful historical buildings.",
+        "A fun place to imagine being an ancient sailor arriving by ship."
+      ]
+    }
+  ]
+}

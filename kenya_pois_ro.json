@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "kisumu-cities-v2",
+    "name": "Kisumu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "nakuru-cities-v2",
+    "name": "Nakuru",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "eldoret-cities-v2",
+    "name": "Eldoret",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "thika-cities-v2",
+    "name": "Thika",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "malindi-cities-v2",
+    "name": "Malindi",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kitale-cities-v2",
+    "name": "Kitale",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "garissa-cities-v2",
+    "name": "Garissa",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kakamega-cities-v2",
+    "name": "Kakamega",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "nyeri-cities-v2",
+    "name": "Nyeri",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "machakos-cities-v2",
+    "name": "Machakos",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "meru-cities-v2",
+    "name": "Meru",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "embu-cities-v2",
+    "name": "Embu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "bungoma-cities-v2",
+    "name": "Bungoma",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "naivasha-cities-v2",
+    "name": "Naivasha",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kericho-cities-v2",
+    "name": "Kericho",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "lamu-cities-v2",
+    "name": "Lamu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "isiolo-cities-v2",
+    "name": "Isiolo",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "homa-bay-cities-v2",
+    "name": "Homa Bay",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "migori-cities-v2",
+    "name": "Migori",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kajiado-cities-v2",
+    "name": "Kajiado",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "wajir-cities-v2",
+    "name": "Wajir",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "narok-cities-v2",
+    "name": "Narok",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "lodwar-cities-v2",
+    "name": "Lodwar",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "busia-cities-v2",
+    "name": "Busia",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "voi-cities-v2",
+    "name": "Voi",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "ruiru-cities-v2",
+    "name": "Ruiru",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kilifi-cities-v2",
+    "name": "Kilifi",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "mumias-cities-v2",
+    "name": "Mumias",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kapenguria-cities-v2",
+    "name": "Kapenguria",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "nanyuki-cities-v2",
+    "name": "Nanyuki",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kikuyu-cities-v2",
+    "name": "Kikuyu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "nyahururu-cities-v2",
+    "name": "Nyahururu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "siaya-cities-v2",
+    "name": "Siaya",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "bomet-cities-v2",
+    "name": "Bomet",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "athi-river-cities-v2",
+    "name": "Athi River",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "vihiga-cities-v2",
+    "name": "Vihiga",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "chuka-cities-v2",
+    "name": "Chuka",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kiambu-cities-v2",
+    "name": "Kiambu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "mandera-cities-v2",
+    "name": "Mandera",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "marsabit-cities-v2",
+    "name": "Marsabit",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "nyamira-cities-v2",
+    "name": "Nyamira",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kwale-cities-v2",
+    "name": "Kwale",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kangundo-cities-v2",
+    "name": "Kangundo",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "gilgil-cities-v2",
+    "name": "Gilgil",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kapsabet-cities-v2",
+    "name": "Kapsabet",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "limuru-cities-v2",
+    "name": "Limuru",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "molo-cities-v2",
+    "name": "Molo",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "ngong-cities-v2",
+    "name": "Ngong",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kisii-cities-v2",
+    "name": "Kisii",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "hola-cities-v2",
+    "name": "Hola",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "webuye-cities-v2",
+    "name": "Webuye",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "kimilili-cities-v2",
+    "name": "Kimilili",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "makuyu-cities-v2",
+    "name": "Makuyu",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "runyenjes-cities-v2",
+    "name": "Runyenjes",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "mariakani-cities-v2",
+    "name": "Mariakani",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "awendo-cities-v2",
+    "name": "Awendo",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "litein-cities-v2",
+    "name": "Litein",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "oyugis-cities-v2",
+    "name": "Oyugis",
+    "file": "lib/visualLab/data/poiExtraKenyaCitiesV2.ts"
+  },
+  {
+    "id": "mombasa-port-economic-v2",
+    "name": "Port of Mombasa",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "kisumu-port-economic-v2",
+    "name": "Port of Kisumu",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "lamu-port-economic-v2",
+    "name": "Lamu Port (LAPSSET)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "athi-river-epz-economic-v2",
+    "name": "Athi River Export Processing Zone",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "magadi-soda-ash-economic-v2",
+    "name": "Magadi Soda Ash Plant",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "ol-karia-geothermal-economic-v2",
+    "name": "Olkaria Geothermal Power Station",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "thika-pineapple-cannery-economic-v2",
+    "name": "Del Monte Pineapple Cannery Thika",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "bamburi-cement-factory-economic-v2",
+    "name": "Bamburi Cement Factory",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "webuye-panpaper-economic-v2",
+    "name": "Pan Paper Mills Webuye",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "muhoroni-sugar-factory-economic-v2",
+    "name": "Muhoroni Sugar Factory",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "kenyatta-international-convention-centre-economic-v2",
+    "name": "Kenyatta International Convention Centre (Business Hub)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "eldoret-textile-mills-economic-v2",
+    "name": "Eldoret Textile Mills (Rivatex)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "turkana-oil-fields-economic-v2",
+    "name": "Turkana Oil Fields (Ngamia)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "kwale-titanium-mine-economic-v2",
+    "name": "Kwale Titanium Mine",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "machakos-epz-economic-v2",
+    "name": "Machakos Export Processing Zone",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "kericho-tea-factories-economic-v2",
+    "name": "Kericho Tea Factories",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "lake-turkana-wind-power-economic-v2",
+    "name": "Lake Turkana Wind Power",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "naivasha-flower-farms-economic-v2",
+    "name": "Naivasha Flower Farms (Processing Facilities)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "nairobi-industrial-area-economic-v2",
+    "name": "Nairobi Industrial Area",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "tatu-city-industrial-park-economic-v2",
+    "name": "Tatu City Industrial Park",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "mombasa-oil-refinery-economic-v2",
+    "name": "Mombasa Oil Refinery (KPRL)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "nzoia-sugar-company-economic-v2",
+    "name": "Nzoia Sugar Company",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "isuzu-east-africa-assembly-economic-v2",
+    "name": "Isuzu East Africa Assembly Plant",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "east-african-breweries-economic-v2",
+    "name": "East African Breweries Limited (Ruaraka)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "mombasa-apparel-epz-economic-v2",
+    "name": "Mombasa Apparel EPZ",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "twiga-chemicals-plant-economic-v2",
+    "name": "Twiga Chemicals Plant",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "kenya-meat-commission-economic-v2",
+    "name": "Kenya Meat Commission (Athi River)",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "brooksides-dairy-processing-economic-v2",
+    "name": "Brookside Dairy Processing Ruiru",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "base-titanium-port-facility-economic-v2",
+    "name": "Base Titanium Loading Facility Likoni",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "pepsi-cola-plant-ruaraka-economic-v2",
+    "name": "Pepsi Bottling Plant Ruaraka",
+    "file": "lib/visualLab/data/poiExtraKenyaEconomicV2.ts"
+  },
+  {
+    "id": "gedi-ruins-history-v2",
+    "name": "Gedi Ruins",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "thimlich-ohinga-history-v2",
+    "name": "Thimlich Ohinga",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "koobi-fora-history-v2",
+    "name": "Koobi Fora",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "lamu-old-town-history-v2",
+    "name": "Lamu Old Town",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "vasco-da-gama-pillar-history-v2",
+    "name": "Vasco da Gama Pillar",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "jumba-la-mtwana-history-v2",
+    "name": "Jumba la Mtwana",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "siyu-fort-history-v2",
+    "name": "Siyu Fort",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "takwa-ruins-history-v2",
+    "name": "Takwa Ruins",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "kapenguria-museum-history-v2",
+    "name": "Kapenguria Museum",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "karen-blixen-museum-history-v2",
+    "name": "Karen Blixen Museum",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "mnarani-ruins-history-v2",
+    "name": "Mnarani Ruins",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "pate-island-ruins-history-v2",
+    "name": "Pate Island Ruins",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "shanga-ruins-history-v2",
+    "name": "Shanga Ruins",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "uhuru-gardens-history-v2",
+    "name": "Uhuru Gardens",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "olorgesailie-history-v2",
+    "name": "Olorgesailie",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "kariandusi-history-v2",
+    "name": "Kariandusi",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "hyrax-hill-history-v2",
+    "name": "Hyrax Hill",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "kenyatta-house-maralal-history-v2",
+    "name": "Kenyatta House Maralal",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "rabai-museum-history-v2",
+    "name": "Rabai Museum",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "krapf-memorial-history-v2",
+    "name": "Krapf Memorial",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "fort-ternan-history-v2",
+    "name": "Fort Ternan",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "songhor-history-v2",
+    "name": "Songhor",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "italian-war-memorial-church-history-v2",
+    "name": "Italian War Memorial Church",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "lokitaung-gorge-history-v2",
+    "name": "Lokitaung Gorge",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "wajir-fort-history-v2",
+    "name": "Wajir Fort",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "nandi-hills-history-v2",
+    "name": "Nandi Hills",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "makupa-causeway-history-v2",
+    "name": "Makupa Causeway",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "pwani-mosque-history-v2",
+    "name": "Pwani Mosque",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "fort-smith-history-v2",
+    "name": "Fort Smith",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "ishakani-ruins-history-v2",
+    "name": "Ishakani Ruins",
+    "file": "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  },
+  {
+    "id": "ke-kenyatta-international-convention-centre-landmarks-v2",
+    "name": "Kenyatta International Convention Centre",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-times-tower-landmarks-v2",
+    "name": "Times Tower",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-britam-tower-landmarks-v2",
+    "name": "Britam Tower",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-uap-old-mutual-tower-landmarks-v2",
+    "name": "UAP Old Mutual Tower",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-global-trade-centre-landmarks-v2",
+    "name": "Global Trade Centre Nairobi",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-nyayo-national-stadium-landmarks-v2",
+    "name": "Nyayo National Stadium",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-kasarani-stadium-landmarks-v2",
+    "name": "Moi International Sports Centre",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-jamia-mosque-landmarks-v2",
+    "name": "Jamia Mosque Nairobi",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-all-saints-cathedral-landmarks-v2",
+    "name": "All Saints' Cathedral Nairobi",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-holy-family-basilica-landmarks-v2",
+    "name": "Holy Family Minor Basilica",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-baps-shri-swaminarayan-mandir-landmarks-v2",
+    "name": "BAPS Shri Swaminarayan Mandir",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-kenya-national-theatre-landmarks-v2",
+    "name": "Kenya National Theatre",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-parliament-buildings-landmarks-v2",
+    "name": "Parliament Buildings Kenya",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-supreme-court-kenya-landmarks-v2",
+    "name": "Supreme Court of Kenya",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-nairobi-railway-station-landmarks-v2",
+    "name": "Nairobi Railway Station",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-mombasa-tusks-landmarks-v2",
+    "name": "Mombasa Tusks",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-nyali-bridge-landmarks-v2",
+    "name": "Nyali Bridge",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-mandhry-mosque-landmarks-v2",
+    "name": "Mandhry Mosque",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-kilifi-bridge-landmarks-v2",
+    "name": "Kilifi Bridge",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-nairobi-terminus-sgr-landmarks-v2",
+    "name": "Nairobi Terminus (SGR)",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-mombasa-terminus-sgr-landmarks-v2",
+    "name": "Mombasa Terminus (SGR)",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-prism-tower-landmarks-v2",
+    "name": "Prism Tower",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-lemac-towers-landmarks-v2",
+    "name": "Le'mac Towers",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-cbk-pension-tower-landmarks-v2",
+    "name": "CBK Pension Tower",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-i-m-bank-tower-landmarks-v2",
+    "name": "I&M Bank Tower",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-city-market-nairobi-landmarks-v2",
+    "name": "City Market Nairobi",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-macmillan-memorial-library-landmarks-v2",
+    "name": "Macmillan Memorial Library",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-kenya-national-archives-landmarks-v2",
+    "name": "Kenya National Archives",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-dedan-kimathi-statue-landmarks-v2",
+    "name": "Dedan Kimathi Statue",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "ke-tom-mboya-monument-landmarks-v2",
+    "name": "Tom Mboya Monument",
+    "file": "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  },
+  {
+    "id": "masai-mara-habitat-life-v2",
+    "name": "Maasai Mara National Reserve",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "amboseli-habitat-life-v2",
+    "name": "Amboseli National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "tsavo-east-habitat-life-v2",
+    "name": "Tsavo-East National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "lake-nakuru-habitat-life-v2",
+    "name": "Lake Nakuru National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "hells-gate-habitat-life-v2",
+    "name": "Hell's Gate National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "mount-kenya-habitat-life-v2",
+    "name": "Mount Kenya National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "tsavo-west-habitat-life-v2",
+    "name": "Tsavo-West National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "meru-habitat-life-v2",
+    "name": "Meru National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "arabuko-sokoke-habitat-life-v2",
+    "name": "Arabuko-Sokoke Forest",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "shimba-hills-habitat-life-v2",
+    "name": "Shimba Hills National Reserve",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "mount-elgon-habitat-life-v2",
+    "name": "Mount Elgon National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "tsavo-conservation-agri-v2",
+    "name": "Tsavo Region \u2013 Cultivation Areas",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "kericho-tea-agri-v2",
+    "name": "Kericho \u2013 Tea Plantations",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "western-kenya-sugarcane-agri-v2",
+    "name": "Western Kenya \u2013 Sugarcane Growing",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "central-kenya-coffee-agri-v2",
+    "name": "Central Kenya \u2013 Coffee Growing",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "rift-valley-vegetable-agri-v2",
+    "name": "Rift Valley \u2013 Vegetable Growing",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "nairobi-giraffe-centre-kid-v2",
+    "name": "Giraffe Centre Nairobi",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "nairobi-animal-orphanage-kid-v2",
+    "name": "Nairobi Animal Orphanage",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "mombasa-marine-park-kid-v2",
+    "name": "Mombasa Marine National Park",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "diani-beach-kid-v2",
+    "name": "Diani Beach",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "karura-forest-kid-v2",
+    "name": "Karura Forest Nairobi",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "nairobi-safari-walk-kid-v2",
+    "name": "Nairobi Safari Walk",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "butterfly-centre-kid-v2",
+    "name": "Kipepeo Butterfly Project",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "bomas-of-kenya-kid-v2",
+    "name": "Bomas of Kenya",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "fort-jesus-kid-v2",
+    "name": "Fort Jesus Mombasa",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "heller-garden-kid-v2",
+    "name": "Heller Garden",
+    "file": "lib/visualLab/data/poiExtraKenyaLifeV2.ts"
+  },
+  {
+    "id": "lake-turkana-nature-v2",
+    "name": "Lake Turkana",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "mount-kenya-nature-v2",
+    "name": "Mount Kenya",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-victoria-nature-v2",
+    "name": "Lake Victoria",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "tsavo-forest-nature-v2",
+    "name": "Tsavo Forest",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "athiriver-nature-v2",
+    "name": "Athi River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "tana-river-nature-v2",
+    "name": "Tana River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-nakuru-nature-v2",
+    "name": "Lake Nakuru",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-bogoria-nature-v2",
+    "name": "Lake Bogoria",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "cherangani-hills-nature-v2",
+    "name": "Cherangani Hills",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "laikipia-plateau-nature-v2",
+    "name": "Laikipia Plateau",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-naivasha-nature-v2",
+    "name": "Lake Naivasha",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "aberdare-range-nature-v2",
+    "name": "Aberdare Range",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-magadi-nature-v2",
+    "name": "Lake Magadi",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "mara-river-nature-v2",
+    "name": "Mara River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-elementaita-nature-v2",
+    "name": "Lake Elementaita",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "elgon-mountain-nature-v2",
+    "name": "Mount Elgon",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "yala-river-nature-v2",
+    "name": "Yala River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-ol-bolossat-nature-v2",
+    "name": "Lake Ol Bolossat",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "nzoia-river-nature-v2",
+    "name": "Nzoia River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-baringo-nature-v2",
+    "name": "Lake Baringo",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "mt-kulal-nature-v2",
+    "name": "Mount Kulal",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-kamnarok-nature-v2",
+    "name": "Lake Kamnarok",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "mt-longonot-nature-v2",
+    "name": "Mount Longonot",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "galana-river-nature-v2",
+    "name": "Galana River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-ol-oropil-nature-v2",
+    "name": "Lake Ol Oropil",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "mt-nyiru-nature-v2",
+    "name": "Mount Nyiru",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "turkwel-river-nature-v2",
+    "name": "Turkwel River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "lake-ole-nado-nature-v2",
+    "name": "Lake Ole Nado",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "kerio-river-nature-v2",
+    "name": "Kerio River",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "mt-satima-nature-v2",
+    "name": "Mount Satima",
+    "file": "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  },
+  {
+    "id": "rift-valley-kenya-relief-v2",
+    "name": "Great Rift Valley",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mount-kenya-massif-relief-v2",
+    "name": "Mount Kenya Massif",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "aberdare-range-relief-v2",
+    "name": "Aberdare Range",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "cherangani-hills-relief-v2",
+    "name": "Cherangani Hills",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mount-elgon-relief-v2",
+    "name": "Mount Elgon",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "laikipia-plateau-relief-v2",
+    "name": "Laikipia Plateau",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "nyambene-hills-relief-v2",
+    "name": "Nyambene Hills",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "ndoto-mountains-relief-v2",
+    "name": "Ndoto Mountains",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mathews-range-relief-v2",
+    "name": "Mathews Range",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mount-kulal-relief-v2",
+    "name": "Mount Kulal",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mount-nyiru-relief-v2",
+    "name": "Mount Nyiru",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mount-longonot-relief-v2",
+    "name": "Mount Longonot",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "menengai-crater-relief-v2",
+    "name": "Menengai Crater",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "tsavo-plains-relief-v2",
+    "name": "Tsavo Plains",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "tana-delta-relief-v2",
+    "name": "Tana River Delta",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "loldaika-hills-relief-v2",
+    "name": "Loldaika Hills",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "chalbi-desert-relief-v2",
+    "name": "Chalbi Desert",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "susswa-volcano-relief-v2",
+    "name": "Mount Suswa",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "kerio-valley-relief-v2",
+    "name": "Kerio Valley",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "yatta-plateau-relief-v2",
+    "name": "Yatta Plateau",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "uganda-escarpment-relief-v2",
+    "name": "Uganda Escarpment",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "kinangop-plateau-relief-v2",
+    "name": "Kinangop Plateau",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "mount-satima-relief-v2",
+    "name": "Mount Satima",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "ndere-island-relief-v2",
+    "name": "Ndere Island",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  },
+  {
+    "id": "kacheliba-plains-relief-v2",
+    "name": "Kacheliba Plains",
+    "file": "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  }
+]

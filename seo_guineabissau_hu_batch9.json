@@ -1,0 +1,75 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bafata-hills-relief-v2",
+      "descriptionAdvanced": "A Bafatá régió domborzatát enyhén hullámzó, szavannával és ritkás erdőkkel borított laterit dombság jellemzi, amely fokozatos átmenetet képez az alacsony partvidék és a keleti Gabú-fennsík között. Ezek a szelíd kiemelkedések — amelyek ritkán haladják meg az 50 méteres magasságot — a Geba-folyó vízgyűjtő területének fontos részei. A dombhátakon a talaj kemény, tápanyagban szegény, és a száraz évszakban jellegzetes vörös porrá szárad. Ez a lankás, jól lecsapolt domborzat ideális a hatalmas kiterjedésű kesudió-ültetvények és a gyapottermesztés számára, míg az alacsonyabban fekvő völgyekben (bolanhas) rizst termesztenek. Földrajz K6 — laterit dombságok.",
+      "factsAdvanced": [
+        "Enyhén hullámzó laterit dombvidék Bissau-Guinea középső részén.",
+        "Átmeneti zónát alkot a lapos partvidék és a keleti fennsíkok között.",
+        "A dombhátakon kemény, vörös színű, vasban gazdag laterittalaj dominál.",
+        "A jól lecsapolt lejtők kiválóak a kesudió és a gyapot termesztésére.",
+        "A dombok közötti sekély völgyeket (bolanhas) rizstermesztésre használják.",
+        "A legmagasabb pontok is ritkán haladják meg az 50 méteres magasságot."
+      ]
+    },
+    {
+      "id": "farim-depression-relief-v2",
+      "descriptionAdvanced": "A Farim-medence az Oio régió északi részén, a Cacheu-folyó vonalát követő sekély, süllyedékes terület. Ez a geológiai mélyedés hatalmas, mintegy 110 millió tonnára becsült kiváló minőségű foszfátkészletet rejt a felszín alatt. A domborzat itt rendkívül lapos, az esős évszakban a víz gyakran megreked, kiterjedt sekély mocsarakat és időszakos tavakat hozva létre. A medence alacsony fekvése és a folyó közelsége történelmileg fontos mezőgazdasági területté tette a régiót, ugyanakkor a jövőbeli tervezett külszíni foszfátbányászat drasztikusan és visszafordíthatatlanul átalakíthatja ezt a lapos, nyugodt tájat. Földrajz K8 — üledékes medencék és ásványkincsek.",
+      "factsAdvanced": [
+        "A Cacheu-folyó mentén elterülő, alacsony fekvésű üledékes medence.",
+        "Hatalmas, mintegy 110 millió tonnás, kiváló minőségű foszfátkészletet rejt.",
+        "Rendkívül lapos domborzat, rossz természetes vízelvezetéssel.",
+        "Az esős évszakban jelentős része kiterjedt sekély mocsárrá válik.",
+        "Hagyományosan mezőgazdasági (földimogyoró, rizs) hasznosítású terület.",
+        "A tervezett külszíni bányászat véglegesen átrendezheti a tájképet."
+      ]
+    },
+    {
+      "id": "biombo-coastal-swamp-relief-v2",
+      "descriptionAdvanced": "A Biombo régió partvidéke szinte tökéletesen sík, iszapos árapály-síkságokból (mocsarakból) és mangrove-erdőkből álló tagolt domborzat. A szárazföld és az óceán határa itt nem éles vonal, hanem egy folyamatosan változó, több kilométer széles átmeneti zóna. A felszín sűrűn át van szőve kis kanyargós sós vizű csatornákkal (marigots). Ez a lapos, mocsaras domborzat kiváló természetes védelmet nyújt a partmenti falvaknak a viharok ellen, ugyanakkor megnehezíti az infrastruktúra (utak, hidak) kiépítését. Apály idején a síkság szinte járhatatlan sártengerré változik, amelyet csak a helyi halászok ismernek biztonságosan. Földrajz K6 — partmenti mocsárvidékek.",
+      "factsAdvanced": [
+        "Tökéletesen sík, mangrove-erdőkkel borított iszapos partvidék.",
+        "A szárazföld és az óceán határa folyamatosan változó, mocsaras zóna.",
+        "A tájat sós vizű, kanyargós árapály-csatornák ('marigots') tagolják.",
+        "Lapos domborzata természetes viharvédelmet biztosít a belső területeknek.",
+        "Az útépítést és az infrastruktúra fejlesztését a puha iszap szinte lehetetlenné teszi.",
+        "Apálykor a sártenger kiterjedése akár több kilométert is elérhet."
+      ]
+    },
+    {
+      "id": "oio-plateau-relief-v2",
+      "descriptionAdvanced": "Az Oio-fennsík az ország északi részén található enyhén kiemelkedő, hatalmas kiterjedésű homokos-laterites síkság. A tengerszint feletti magassága csupán 30-60 méter, de még így is markánsan elkülönül a déli mocsaras partvidékektől. A domborzat rendkívül egyhangú, szinte teljesen lejtésmentes, amit csak ritkán tör meg egy-egy sekély folyómeder vagy eróziós árok. Ez a tágas, jól lecsapolt, nyílt szavannás és ligeterdős síkság tette lehetővé Bissau-Guinea legnagyobb egybefüggő kesudió- és földimogyoró-ültetvényeinek kialakítását. A felszín a száraz évszakban poros és repedezett, míg a monszun idején hirtelen kizöldül. Földrajz K7 — homokos fennsíkok és mezőgazdaság.",
+      "factsAdvanced": [
+        "Enyhén kiemelkedő (30-60 m), hatalmas kiterjedésű északi síkság.",
+        "Felszínét homokos és laterites (vörösföldes) üledék alkotja.",
+        "Rendkívül egyhangú, szinte lejtésmentes, nyílt szavannás domborzat.",
+        "Az ország legnagyobb egybefüggő kesudió- és földimogyoró-termő területe.",
+        "Jól lecsapolt felszíne élesen elkülönül a partvidék mocsaras tájaitól.",
+        "A száraz évszakban a felső homokos talajréteg porviharokat okozhat."
+      ]
+    },
+    {
+      "id": "galinhas-forest-relief-v2",
+      "descriptionAdvanced": "A Galinhas-sziget (Tyúk-sziget) domborzata lankás és egyenletes, a Bijagós-szigetcsoport belső tagjaihoz hasonlóan mentes a drasztikus szintkülönbségektől. A sziget központi része enyhén, pajzsszerűen kiemelkedik, ami elegendő ahhoz, hogy a heves trópusi esőzések vizét elvezesse, megakadályozva a mocsarak kialakulását a belső területeken. Ezt a kedvező, jól lecsapolt, vastag humusztakaróval borított domborzatot sűrű, őshonos trópusi erdő nőtte be. A partvonal felé haladva az erdős domborzat szelíden simul bele a homokos tengerpartokba és a sekély sziklazátonyokba. Ez a harmonikus tájkép tette egykor ideálissá a portugál mezőgazdasági kísérletek (ültetvények) számára. Földrajz K6 — szigeti domborzat és talaj.",
+      "factsAdvanced": [
+        "A sziget domborzata pajzsszerűen, nagyon enyhén emelkedik a középpont felé.",
+        "A szintkülönbségek hiánya ellenére a természetes vízelvezetés kiváló.",
+        "Belső területeit vastag humusztakaró és sűrű trópusi erdő borítja.",
+        "A partvonal lassan és fokozatosan lejt a homokos strandok felé.",
+        "Mentes a mély vízmosásoktól és a kiterjedt belső mocsárvidékektől.",
+        "Ideális domborzati és talajadottságokkal rendelkezik az agrártermesztéshez."
+      ]
+    }
+  ]
+}

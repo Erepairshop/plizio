@@ -1,0 +1,818 @@
+[
+  {
+    "id": "gaborone-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "francistown-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "molepolole-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "maun-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mogoditshane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "serowe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "kanye-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mahalapye-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mochudi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "palapye-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "tlokweng-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "ramotswa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "letlhakane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "tonota-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "moshupa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "thamaga-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "jwaneng-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "bobonong-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "orapa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "ghanzi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "kasane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "letlhakeng-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "tutume-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "gabane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "kopong-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "tsabong-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "gumare-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "shoshong-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "lentsweletau-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mmopane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "metsimotlhabe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mmadinare-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "shakawe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "rakops-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "radisele-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "nata-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "lerala-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "machaneng-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "sefhare-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mathangwane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "sebina-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "marapong-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "nokaneng-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "charles-hill-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "kang-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "hukuntsi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "sefhophe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mmathethe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "goodhope-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "mabutsane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "otse-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "pitsane-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "ramatlabama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "tati-siding-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "masunga-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "ntlhantlhe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "gweta-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "odi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "bokaa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "morwa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaCitiesV2.ts"
+  },
+  {
+    "id": "jwaneng-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "orapa-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "morupule-coal-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "morupule-power-station-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "selebi-phikwe-copper-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "sowa-pan-soda-ash-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "letlhakane-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "karowe-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "gaborone-dry-port-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "bmc-lobatse-abattoir-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "khoemacau-copper-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "ghaghoo-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "lerala-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "tati-nickel-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "damtshaa-diamond-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "francistown-dry-port-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "palapye-glass-manufacturing-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "gaborone-diamond-hub-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "masama-wellfield-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "botswana-vaccine-institute-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "walvis-bay-dry-port-bw-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "boseto-copper-project-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "gaborone-brewery-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "mowana-copper-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "francistown-abattoir-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "shumba-energy-coal-project-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "gaborone-garment-factory-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "tuli-block-agro-industry-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "maun-airport-logistics-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "matsitama-minerals-economic-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  },
+  {
+    "id": "tsodilo-hills-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "domboshaba-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "toutswemogala-hill-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "matsieng-footprints-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "kolobeng-mission-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "old-palapye-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "khama-iii-memorial-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "phuthadikobo-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "three-dikgosi-monument-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "botswana-national-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "kgosi-sechele-i-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "supa-ngwao-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "nhabe-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "lepokole-hills-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "mamuno-monument-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "dimawe-battlefield-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "manyana-rock-paintings-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "livingstones-tree-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "shoshong-historic-site-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "gcwihaba-caves-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "moremi-gorge-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "motlhabaneng-rock-paintings-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "serowe-royal-cemetery-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "mochudi-kgotla-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "ntsweng-heritage-site-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "kanye-kgotla-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "francistown-old-gold-mines-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "orapa-diamond-mine-monument-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "baratani-hill-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "kasane-baobab-history-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  },
+  {
+    "id": "gaborone-three-dikgosi-monument-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-sadc-headquarters-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-itowers-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "kazungula-bridge-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "francistown-obed-itani-chilume-stadium-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-national-assembly-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-innovation-hub-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-christ-the-king-cathedral-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-orapa-house-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-gicc-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "lobatse-high-court-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-national-museum-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "moeng-college-historic-building-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "old-palapye-church-ruins-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "mochudi-phuthadikobo-museum-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-masa-square-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-hindu-temple-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "francistown-supa-ngwao-museum-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "kolobeng-livingstone-memorial-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-dam-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-botswana-craft-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-bureau-of-standards-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "serowe-royal-cemetery-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "maun-nhabe-museum-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-sun-international-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-princess-marina-hospital-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "gaborone-university-admin-block-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "bank-of-botswana-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "francistown-railway-station-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "seretse-khama-statue-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  },
+  {
+    "id": "okavango-delta-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "chobe-national-park-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "kalahari-desert-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "makgadikgadi-pans-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "tsodilo-hills-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "gaborone-game-reserve-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "mokolodi-nature-reserve-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "northern-tulifarm-agriculture-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "boteti-river-region-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "central-kalahari-game-reserve-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "moremi-game-reserve-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "nxai-pan-national-park-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "kubu-island-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "khama-rhino-sanctuary-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "gaborone-dam-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "maun-education-center-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "tuli-block-cattle-farming-agriculture-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "limpopo-river-wildlife-corridor-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "gaborone-botanical-garden-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "okavango-wetlands-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "serowe-rhino-sanctuary-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "kalahari-savanna-agriculture-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "gaborone-zoo-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "makgadikgadi-zebra-migration-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "chobe-floodplains-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "boteti-river-birdwatching-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "tuli-wildlife-sanctuary-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "kalahari-wildlife-corridor-animal-habitat-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "gaborone-nature-trail-kid-landmark-life-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaLifeV2.ts"
+  },
+  {
+    "id": "kalahari-desert-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "okavango-delta-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "makgadikgadi-pans-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "tsodilo-hills-mountain-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "limpopo-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "chobe-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "kwebe-hills-mountain-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "notwane-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "boteti-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "shashe-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "tati-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "moshaweng-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "okwa-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "nossob-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "molopo-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "kwando-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "linyanti-swamp-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "selinda-spillway-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "mababe-depression-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "matloutse-river-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "xudum-delta-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "goma-sand-ridge-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "jwaneng-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "serowe-hills-mountain-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  },
+  {
+    "id": "letlhakane-depression-relief-v2",
+    "file": "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  }
+]

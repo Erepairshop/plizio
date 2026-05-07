@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pearl-harbor-history-v2",
+      "descriptionAdvanced": "Pearl Harbor, located in Oahu, Hawaii, is the site of the devastating surprise Japanese attack on December 7, 1941, which directly propelled the United States into World War II. The strike decimated the U.S. Pacific Fleet, destroying numerous battleships—most famously the USS Arizona—and resulting in thousands of American deaths. This event profoundly reshaped American foreign policy, ending its period of isolationism and launching the nation into a global industrial and military mobilization of unprecedented scale. Today, the USS Arizona Memorial serves as a solemn tribute to those lost, acting as a place of reflection on the costs of global conflict and the sudden shift that defined the 20th-century American experience. History K8 — WWII entry and Pacific conflict dynamics.",
+      "factsAdvanced": [
+        "Site of the Japanese surprise attack on December 7, 1941.",
+        "The attack forced the United States to abandon isolationism and enter WWII.",
+        "The USS Arizona was one of the battleships destroyed in the surprise strike.",
+        "Results in profound American industrial and military mobilization.",
+        "USS Arizona Memorial is a solemn tribute to the thousands who died.",
+        "An defining event in 20th-century American history and Pacific warfare."
+      ]
+    },
+    {
+      "id": "little-bighorn-battlefield-history-v2",
+      "descriptionAdvanced": "Little Bighorn Battlefield National Monument in Montana preserves the site of the 1876 Battle of the Little Bighorn, often called 'Custer’s Last Stand.' The confrontation pitted the U.S. Army’s 7th Cavalry under Lt. Col. George Armstrong Custer against a coalition of Lakota Sioux, Northern Cheyenne, and Arapaho forces. The U.S. forces suffered a devastating defeat, marking one of the most famous conflicts in the Great Sioux War. This historic site offers a dual perspective, honoring both the U.S. soldiers who fell and the Indigenous tribes fighting to preserve their land and way of life. It serves as a poignant space for understanding the deep tensions and tragic history that defined the expansion of the American frontier. History K8 — Great Sioux War and frontier conflict.",
+      "factsAdvanced": [
+        "Site of the 1876 Battle of the Little Bighorn, also known as 'Custer’s Last Stand'.",
+        "Confrontation between the US Army's 7th Cavalry and Indigenous coalition forces.",
+        "Indigenous coalition included Lakota Sioux, Northern Cheyenne, and Arapaho warriors.",
+        "The battle resulted in a significant and famous defeat for US forces.",
+        "Monument honors both the U.S. soldiers and the Indigenous warriors involved.",
+        "Central to understanding the deep tensions of the American frontier expansion."
+      ]
+    },
+    {
+      "id": "ellis-island-history-v2",
+      "descriptionAdvanced": "Ellis Island, located in New York Harbor, served as the primary federal immigration processing center for the United States between 1892 and 1954. During this era, over 12 million immigrants arrived, seeking new lives, opportunity, and freedom, fundamentally reshaping the demographic and cultural character of the American nation. After enduring long journeys and medical screenings in the island's facilities, millions successfully processed their entry, becoming part of the immigrant narrative that defines the US as a 'nation of immigrants.' Today, it serves as an educational museum documenting this historic migration, honoring the millions of diverse stories, trials, and contributions of those who entered the United States through this port. History K7 — Migration patterns and American identity.",
+      "factsAdvanced": [
+        "Served as the primary US immigration processing center, 1892–1954.",
+        "Over 12 million immigrants passed through Ellis Island facilities.",
+        "Fundamental site for understanding US demographic and cultural history.",
+        "Symbolizes the 'nation of immigrants' narrative.",
+        "Millions processed after enduring arduous journeys to the US.",
+        "Now serves as a museum dedicated to honoring immigrant narratives."
+      ]
+    }
+  ]
+}

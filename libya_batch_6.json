@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ly-benghazi-cathedral-history-v2",
+    "name": "Benghazi Cathedral",
+    "desc": "A monumental abandoned building from the Italian colonial era, formerly the largest church in North Africa."
+  },
+  {
+    "id": "ly-jalu-old-fort-history-v2",
+    "name": "Jalu Old Fort",
+    "desc": "A traditional desert bastion that protected the important trade junction of Jalu."
+  },
+  {
+    "id": "ly-qasr-al-haj-history-v2",
+    "name": "Qasr Al-Haj",
+    "desc": "A huge circular fortified Berber granary, used to store the harvests of nomadic families."
+  },
+  {
+    "id": "tripoli-tower-landmarks-v2",
+    "name": "Tripoli Tower",
+    "desc": "One of the tallest buildings in Tripoli, originally known as the Al-Fateh Tower."
+  },
+  {
+    "id": "corinthia-hotel-tripoli-landmarks-v2",
+    "name": "Corinthia Hotel Tripoli",
+    "desc": "A 28-story five-star luxury hotel in the city center, a landmark of modern architecture."
+  },
+  {
+    "id": "dat-el-imad-landmarks-v2",
+    "name": "Dat El Imad Towers",
+    "desc": "A complex of five high-rise towers located in the central business district of Tripoli."
+  },
+  {
+    "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+    "name": "Gamal Abdel Nasser Mosque",
+    "desc": "A large mosque in Tripoli that was originally built as a Catholic cathedral during the colonial era."
+  },
+  {
+    "id": "martyrs-square-tripoli-landmarks-v2",
+    "name": "Martyrs",
+    "desc": "The central square and a historic landmark in Tripoli, site of numerous political events."
+  },
+  {
+    "id": "tripoli-stadium-landmarks-v2",
+    "name": "Tripoli Stadium",
+    "desc": "A large multi-purpose stadium used for football matches and athletics competitions."
+  },
+  {
+    "id": "benina-airport-terminal-landmarks-v2",
+    "name": "Benina Airport Terminal",
+    "desc": "The main terminal of Benina International Airport serving the Benghazi region."
+  },
+  {
+    "id": "tibesti-hotel-benghazi-landmarks-v2",
+    "name": "Tibesti Hotel",
+    "desc": "One of the most famous and largest hotels in Benghazi, named after the Tibesti Mountains."
+  },
+  {
+    "id": "benghazi-lighthouse-landmarks-v2",
+    "name": "Benghazi Lighthouse",
+    "desc": "A historic lighthouse in Benghazi, built during the Italian colonial period."
+  },
+  {
+    "id": "al-sahaba-mosque-derna-landmarks-v2",
+    "name": "Al-Sahaba Mosque",
+    "desc": "A prominent mosque in Derna, housing the graves of several companions of the Prophet Muhammad."
+  },
+  {
+    "id": "misrata-central-mosque-landmarks-v2",
+    "name": "Misrata Central Mosque",
+    "desc": "The main mosque of Misrata, known for its modern minarets and large prayer hall."
+  },
+  {
+    "id": "ouagadougou-conference-center-landmarks-v2",
+    "name": "Ouagadougou Conference Center",
+    "desc": "A massive architectural complex in Sirte, built to host international African summits."
+  },
+  {
+    "id": "zawiya-grand-mosque-landmarks-v2",
+    "name": "Zawiya Grand Mosque",
+    "desc": "A significant Islamic structure and religious center in the coastal city of Zawiya."
+  },
+  {
+    "id": "al-khums-lighthouse-landmarks-v2",
+    "name": "Al Khums Lighthouse",
+    "desc": "A prominent lighthouse at the port of Al Khums, guiding shipping along the historic coast."
+  },
+  {
+    "id": "brega-oil-terminal-landmarks-v2",
+    "name": "Brega Oil Terminal",
+    "desc": "A massive and economically vital industrial facility and port for Libya"
+  },
+  {
+    "id": "ras-lanuf-refinery-landmarks-v2",
+    "name": "Ras Lanuf Refinery",
+    "desc": "One of Libya"
+  },
+  {
+    "id": "fortezza-margherita-sabha-landmarks-v2",
+    "name": "Fortezza Margherita",
+    "desc": "An Italian colonial-era fortress on a hill overlooking Sabha, currently used as a military facility."
+  },
+  {
+    "id": "sabha-airport-terminal-landmarks-v2",
+    "name": "Sabha Airport Terminal",
+    "desc": "The main building of Sabha International Airport, serving as a key aviation hub for southern Libya."
+  },
+  {
+    "id": "al-asmarya-mosque-zliten-landmarks-v2",
+    "name": "Al-Asmariya Mosque",
+    "desc": "An important spiritual center in Zliten dedicated to Islamic scholarship."
+  },
+  {
+    "id": "shahat-grand-mosque-landmarks-v2",
+    "name": "Shahat Grand Mosque",
+    "desc": "The modern central mosque located near the ancient ruins of Cyrene."
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "thala-cities-v2",
+      "descriptionAdvanced": "Thala ist eine bedeutende Stadt im westlichen tunesischen Hinterland, die eine lange Geschichte vom antiken Numidien bis zur Gegenwart vorweisen kann. Die Region ist bekannt für ihre raue, bergige Landschaft und ihre Bedeutung in der Geschichte des Widerstands gegen verschiedene Eroberer. Heute dient Thala als lokales Zentrum für die umliegende Landwirtschaft und Viehzucht. Aufgrund seiner Höhenlage ist das Klima hier deutlich kühler als in den Küstenregionen, was eine spezielle Flora begünstigt. In der Geografie-Klasse K6 erkunden Schüler, wie Höhenlage und Geschichte die städtische Entwicklung prägen.",
+      "factsAdvanced": [
+        "Thala war in der Antike als Telepte bekannt.",
+        "Die Stadt liegt in einer der höchstgelegenen Regionen Tunesiens.",
+        "In der Umgebung findet man archäologische Überreste römischer Bauten.",
+        "Thala ist ein Zentrum für die traditionelle Schafzucht.",
+        "Der Winter kann hier mit Temperaturen unter dem Gefrierpunkt sehr kalt sein.",
+        "Die Stadt hat eine strategische Lage nahe der algerischen Grenze."
+      ]
+    },
+    {
+      "id": "makthar-cities-v2",
+      "descriptionAdvanced": "Makthar, das antike Maktaris, ist eine Stadt von historischer Tragweite, die besonders für ihre außergewöhnlich gut erhaltenen römischen Denkmäler bekannt ist. Das heutige Makthar liegt auf einem Hochplateau, was ihm eine markante klimatische Stellung verleiht. Die Stadt ist ein Paradebeispiel für die Integration antiker Ruinen in ein modernes städtisches Umfeld. Archäologische Funde aus der numidischen und römischen Zeit machen Makthar zu einem wichtigen Ort für die historische Forschung in K8. Schüler lernen hier, wie Geschichte die Identität einer Stadt über Jahrtausende hinweg prägt.",
+      "factsAdvanced": [
+        "Makthar besitzt eines der besterhaltenen römischen Foren Tunesiens.",
+        "Die Stadt liegt auf einem Hochplateau etwa 900 Meter über dem Meeresspiegel.",
+        "Hier findet man eine seltene numidisch-römische Inschriftensammlung.",
+        "Der römische Triumphbogen von Trajan ist ein Wahrzeichen der Stadt.",
+        "Das regionale Museum beherbergt eine Sammlung aus der antiken Zeit.",
+        "Die Landwirtschaft ist der wichtigste Wirtschaftszweig der Region."
+      ]
+    },
+    {
+      "id": "rades-commercial-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Radès ist der wichtigste Knotenpunkt für den Containerumschlag in Tunesien und spielt eine Schlüsselrolle in der nationalen Wirtschaft. Fast der gesamte Seefrachtverkehr, der für die tunesische Industrie bestimmt ist, läuft über diese Anlage im Golf von Tunis. Die Modernisierung des Hafens war ein zentrales Projekt, um die Wettbewerbsfähigkeit des Landes gegenüber internationalen Märkten zu steigern. Radès ist damit das logistische Rückgrat des Großraums Tunis. Schüler der Klasse K7 analysieren in diesem Wirtschaftsbeispiel die Bedeutung globaler Lieferketten für kleine Nationalökonomien.",
+      "factsAdvanced": [
+        "Über 80% des tunesischen Außenhandels erfolgt über den Hafen von Radès.",
+        "Der Hafen umfasst spezialisierte Terminals für Container und Stückgut.",
+        "Die Anlage ist rund um die Uhr in Betrieb, um Lieferketten zu sichern.",
+        "Radès dient als Hauptdrehkreuz für Importe aus Europa.",
+        "Ständige Erweiterungsprojekte sollen die Kapazitäten weiter erhöhen.",
+        "Der Hafen hat eine entscheidende Bedeutung für die Versorgung der Industrie."
+      ]
+    },
+    {
+      "id": "bizerte-commercial-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Bizerte ist aufgrund seiner strategischen Lage am nördlichsten Punkt des Landes ein bedeutender maritimer Standort mit langer Geschichte. Er fungiert heute als vielseitiger Handelsplatz für den Import von Rohstoffen und den Export von Industrieprodukten. Durch den direkten Kanal zum Mittelmeer bietet er exzellente Bedingungen für die Schifffahrt. Bizerte verbindet wirtschaftliche Aktivität mit touristischer Attraktivität an der malerischen Küste. In der Wirtschaftskunde lernen Schüler, wie historische Hafenanlagen an moderne logistische Bedürfnisse angepasst werden.",
+      "factsAdvanced": [
+        "Bizerte ist eine der ältesten Städte Nordafrikas.",
+        "Der Hafen verbindet das Mittelmeer mit dem See von Bizerte.",
+        "Er bietet exzellente Bedingungen für die Schiffswartung.",
+        "Die Lage macht ihn zum idealen Umschlagplatz für den Norden Tunesiens.",
+        "Bizerte spielt eine wichtige Rolle in der nationalen Fischereiindustrie.",
+        "Der Kanal von Bizerte ist ein markantes geografisches Merkmal."
+      ]
+    },
+    {
+      "id": "sousse-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Sousse ist ein bedeutender Wirtschaftsfaktor für das tunesische Sahel-Gebiet und ein Zentrum für den Handel sowie die Fischerei. Er dient nicht nur dem industriellen Güterverkehr, sondern auch als wichtiger Standort für die maritime Infrastruktur im östlichen Tunesien. Sousse verbindet als drittgrößte Stadt des Landes Hafenaktivitäten nahtlos mit einem florierenden Tourismussektor. Die wirtschaftliche Stärke der Stadt basiert auf einer Diversifizierung von Industrie, Landwirtschaft und Dienstleistungen. Schüler lernen in K7, wie Häfen in touristischen Regionen zur regionalen Wertschöpfung beitragen.",
+      "factsAdvanced": [
+        "Sousse ist ein zentraler Handelsplatz im tunesischen Sahel.",
+        "Der Hafen unterstützt sowohl industrielle als auch touristische Aktivitäten.",
+        "Die Stadt hat eine über 2.000-jährige Geschichte als Handelszentrum.",
+        "Der Fischereihafen von Sousse gehört zu den wichtigsten des Landes.",
+        "Die Infrastruktur wird kontinuierlich zur Logistikoptimierung ausgebaut.",
+        "Der Hafen ist essenziell für die Versorgung der Industriezone Sousse."
+      ]
+    }
+  ]
+}

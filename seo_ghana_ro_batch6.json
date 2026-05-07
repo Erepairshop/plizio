@@ -1,0 +1,309 @@
+{
+  "lang": "ro",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "osu-castle-landmarks-v2",
+      "descriptionAdvanced": "Castelul Osu stă mândru și impunător pe coasta stâncoasă a Accrei, dominând de sute de ani golful cu o arhitectură masivă din piatră. Construit inițial de danezi în secolul al XVII-lea sub numele de Christiansborg, el a servit atât ca un centru intens al comerțului cu sclavi și aur, cât și, ulterior, drept inima puterii guvernamentale. Până la finalizarea complexului Jubilee House, acest monument uluitor a fost sediul central al președinților ghanezi. Arhitectura combină fortificații europene masive cu terase largi orientate spre briză. Arhitectură K8 — castele coloniale guvernamentale.",
+      "factsAdvanced": [
+        "A fost baza istorică de guvernare a statului modern Ghana până în deceniul anilor 2000.",
+        "Fundamentul clădirii a fost construit original în piatră brută masivă de Imperiul Danez.",
+        "Ocupă o așezare pe colină cu o deschidere largă și uimitoare vizual spre valurile atlantice.",
+        "Marea regină britanică a statului a fost oaspete în zidurile sale în decursul istoriei.",
+        "Grădinile masive îngrijite de pe terase sunt faimoase și bogate în verdeață tropicală.",
+        "Prezintă o rețea de temnițe istorice reci, ascunse dur sub baza sa vizibilă de la suprafață."
+      ]
+    },
+    {
+      "id": "elmina-castle-landmarks-v2",
+      "descriptionAdvanced": "Castelul Elmina este cea mai veche și colosală clădire de origine europeană aflată la sud de Sahara, dominând coasta Ghanei din anul 1482. Vizitatorii sunt uluiți de contrastul dintre fațada sa de un alb orbitor, scăldată în soare, și întunericul apăsător al celulelor pentru sclavi din subsol. Construit de portughezi ca un fort de comerț (São Jorge da Mina), el atrage mii de turiști și membri ai diasporei, oferind un pelerinaj istoric emoționant. În imediata sa apropiere, sute de bărci pescărești viu colorate creează un peisaj spectaculos. Arhitectură K7 — arhitectura primelor forturi portugheze.",
+      "factsAdvanced": [
+        "Construcția sa originală din piatră importată datează masiv din îndepărtatul an 1482.",
+        "Reprezintă o atracție uluitoare globală inclusă oficial în Patrimoniul Mondial UNESCO.",
+        "A fost asediat cu tunuri și preluat în mod violent istoric de forțele olandeze masive.",
+        "Curtea interioară uriașă păstrează pavajul clasic din cărămidă solidă europeană adusă.",
+        "Contrastul istoric este vizibil între temnițele întunecate și sala capela sfântă a ofițerilor.",
+        "Oferă un peisaj de o frumusețe copleșitoare privind direct spre portul marin plin de bărci."
+      ]
+    },
+    {
+      "id": "cape-coast-castle-landmarks-v2",
+      "descriptionAdvanced": "Castelul Cape Coast este un reper monumental încărcat de groază și solemnitate, o operă arhitecturală extinsă de Imperiul Britanic din secolul al XVII-lea pe coasta aurului. Clădirea masivă poligonală iese în evidență prin zidurile de un alb cretos ce străpung marea cu tunuri ruginite, stând ca un gardian tăcut. Este cunoscut la nivel mondial pentru faimoasa „Poartă a Fără Întoarcerii”, o deschizătură aspră prin care sclavii erau încărcați pe nave. Astăzi adăpostește un muzeu național vital care documentează și conservă realitățile sclaviei transatlantice. Arhitectură K8 — monumente și memoriale masive.",
+      "factsAdvanced": [
+        "Se numără printre cele mai vizitate castele coloniale și atracții majore din toată Africa.",
+        "Tunurile originale grele masive din fier sunt încă pe poziție spre ocean.",
+        "Găzduiește Muzeul Istoric Cape Coast, dedicat expunerii detaliate a comerțului transatlantic.",
+        "Pivnițele subterane masive uluitoare arată condițiile claustrofobice suferite istoric.",
+        "Structura inițială mică de lemn s-a clădit pe forța masivă dură a negustorilor suedezi.",
+        "Fostul președinte faimos american Barack Obama a parcurs curtea în liniște în 2009."
+      ]
+    },
+    {
+      "id": "larabanga-mosque-landmarks-v2",
+      "descriptionAdvanced": "Moscheea Larabanga, adesea numită Mecca Africii de Vest, este o minune arhitecturală uimitoare și neconvențională a stilului sudano-sahelian, ascunsă în zona nordică de savană. Structura asimetrică este ridicată în întregime din noroi dens amestecat, lut roșcat și pari rigizi de lemn dur pentru a o menține stabilă. Veche de peste o jumătate de mileniu, lipsa oricăror grinzi metalice sau de beton subliniază măiestria ingineriei autohtone tradiționale, adaptate perfect la căldura nemiloasă a soarelui și ploile ocazionale dure. Arhitectură K8 — metode de construcție din pământ presat.",
+      "factsAdvanced": [
+        "Este universal acceptată ca fiind cea mai veche moschee conservată din statul ghanez.",
+        "Forma sa colosală atipică alb-negru depinde absolut total de noroi presat manual tradițional.",
+        "Terenul arid ajută clădirea să reziste eroziunilor catastrofale de precipitații anuale.",
+        "Conține un vechi exemplar prețios sfânt al Coranului donat prin mister milenar local.",
+        "Zidăria uimitoare masivă din pereții curbați necesită reparații constante efectuate de trib.",
+        "Nu se folosește sticla sau metale masive, menținând aspectul pur purist artizanal islamic."
+      ]
+    },
+    {
+      "id": "baba-yara-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Baba Yara din Kumasi este o forță impresionantă a peisajului sportiv și cultural, servind ca cea mai mare arenă de pe întreg teritoriul național. Cu o capacitate uriașă ce atinge 40.000 de locuri, stadionul pulsează absolut vibrant și uimitor când echipa locală venerată, Asante Kotoko, intră pe terenul sfânt. Arhitectura de beton, deși clasică, a suportat modernizări masive cu scaune viu colorate roșii, reprezentând sângele regatului Ashanti, oferind un acustică grozavă în timpul turneelor majore continentale și ale raliurilor politice colosale. Arhitectură K7 — arene naționale de mare capacitate.",
+      "factsAdvanced": [
+        "Domină total cu capacitatea maximă istorică sportivă de aproximativ 40.000 de fani uriași.",
+        "Stadionul mândru de pământ colosal e acasă pentru cel mai faimos club de succes, Asante Kotoko.",
+        "Denumirea istorică actuală face cinste și aduce onor nobil memoriei fotbalistului erou Baba Yara.",
+        "Locația sa uriașă în centrul orașului a fost deschisă oficial cu mândrie uluitoare veche din anul 1959.",
+        "Arena colosală masivă a beneficiat integral de o modernizare dură cu renovări scumpe fine în 2008.",
+        "Strânge frecvent mase grele adunate faimos și dens la mari concerte masive urbane colosale uimitoare."
+      ]
+    },
+    {
+      "id": "manhyia-palace-landmarks-v2",
+      "descriptionAdvanced": "Palatul Manhyia din centrul colosal Ashanti funcționează ca inima ce bate neîntrerupt și plină de demnitate a regalității ghaneze, servind exclusiv ca reședința oficială falnică a veneratului rege, Asantehene. Clădirile palatului uimesc cu designul lor ce îmbină vile din era colonială britanică târzie cu pavilioane imense specifice curții deschise locale. Piața enormă a curții se umple masiv în timpul marilor festivaluri tradiționale sacre (Akwasidae), cu umbrele imense, aur și tobe acoperite de piele de leopard, onorând neîntrerupta continuitate a monarhiei. Arhitectură K8 — palate tradiționale africane.",
+      "factsAdvanced": [
+        "Include muzeul central plin cu exponate scumpe tăcute aurite și sculpturi unice curat regale.",
+        "Marea clădire de reședință inițială din curte a fost dăruită masiv onorific de coloniștii britanici vechi.",
+        "Curtea interioară vastă tăcută poate găzdui zeci de mii uluitori respectuoși fani dur în zilele de sărbătoare.",
+        "Vizitatorii colosali paunesc printre grădinile vechi cu arbori mândri liniștiți colosali cu păuni rari grandioși.",
+        "Fiecare piesă colosală de mobilier ascunde sau reflectă puternic o istorie de legendă tăcută sacră locală.",
+        "Se cere impunător colosal un respect de îmbrăcăminte clar la acces în prezența mândră a fețelor regale."
+      ]
+    },
+    {
+      "id": "kejetia-market-landmarks-v2",
+      "descriptionAdvanced": "Piața Kejetia reprezintă fără dubiu cel mai colosal, zgomotos și uimitor labirint de comerț în aer liber, cu un aspect vizual uluitor privit de sus, dominând inima orașului Kumasi. Cu peste unsprezece mii de tarabe strânse și înghesuite masiv, ea capătă aspectul unui ocean imens de acoperișuri de tablă ruginite pe vreme uscată. Recent, a trecut printr-un proces major gigant de modernizare uluitoare, cu clădiri noi de beton dur, pentru a preveni vechile și periculoasele incendii faimoase dur pe uscat. Acest loc sfânt de negoț formează baza de zi cu zi a întregului stat. Geografie K7 — megastructuri comerciale în aer liber.",
+      "factsAdvanced": [
+        "Revendică absolut faima onorifică dură de a fi cu tărie cel mai mare bazar unic pe continent de vest.",
+        "Sunt așezate sub un număr estimativ faimos colosal uluitor uimitor la o valoare cifrică aspră clar de 11.000 standuri.",
+        "O aripă uluitoare modernă gigant colosal cu fațadă dură fină modernă curajos la nivel uimitor a fost deschisă faimos recent.",
+        "Un focar masiv uriaș uriaș din pământ și asfalt cu miros amețitor colosal zilnic minunat uimitor tăcut din condimente și fructe.",
+        "Infrastructura rutieră colosală dur masivă se adună absolut amețitor uriaș uluitor faimos din toate direcțiile spre piață cu trafic greu.",
+        "Incendiile dese din vechiul târg aspră cu lemne colosale au precipitat uriaș faimos colosal tăcut investițiile aspre din clădiri betonate."
+      ]
+    },
+    {
+      "id": "jubilee-house-landmarks-v2",
+      "descriptionAdvanced": "Jubilee House, așezată grațios în inima capitalei Accra, se ridică grandios pe cer ca sediul prezidențial ultramodern și casa puterii a noului mileniu pentru guvernul statului. Arhitectura frapantă uluitoare se impune printr-un model spectaculos ce imită formele curbate magnifice aurii masive aspre tradiționale ale unui scaun sfânt istoric (Ashanti Stool). Sticla aurie de pe fațadă strălucește sub soarele dur fierbinte faimos uluitor minunat onorific masiv. Construcția colosală a luat viață pe fonduri aduse cu prietenie diplomatică istoric din India, devenind o emblemă de lux vizuală absolut modernă și impunătoare masiv minunat la cer pe uscat. Arhitectură K8 — modernism simbolic guvernamental african.",
+      "factsAdvanced": [
+        "Forma de construcție masivă de top a imitat cu mândrie faimos minunat uluitor scaunul sfânt tradițional ghanez curajos sfânt ashanti dur.",
+        "Lucrările masive aspre colosale minunate și dur grandioase de arhitectură uluitoare pe teren uriaș au fost finanțate masiv și faimos onorific de Guvernul Indian.",
+        "Clădirea uluitoare grandioasă falnic curajos masivă din pământ s-a dat oficial cu pace onorifică la funcționare faimos în cursul deceniului tăcut din uimitor faimos 2008.",
+        "Denumirea inițială istoric masiv dur aspră primită faimos uriaș a fost faimos simbolic tăcut faimos Flagstaff House minunat la inaugurare din uscat uluitor.",
+        "Posedă paza militară aspră uluitor dur colosală sever strictă extrem cu gard masiv greu de fier și soldați uimitor minunat antrenați la vedere uriaș curat cu armă.",
+        "Deține în grădini spații imense de vegetație luxuriantă colosal uluitoare, cu palmieri faimos uriași aspre uluitor minunat cu onoare pentru reuniuni faimos uluitoare."
+      ]
+    },
+    {
+      "id": "national-theatre-ghana-landmarks-v2",
+      "descriptionAdvanced": "Teatrul Național al Ghanei sfidează convențiile în peisajul urban masiv din Accra, uimind constant cu cupolele sale masive albe care seamănă izbitor cu forma unui vapor gata de plecare sau colosal aripile unui pescăruș pe cer mândru. Realizat curajos cu o donație generoasă onorifică gigant uluitoare masiv minunat colosal aspră cu chinezii, structura aspră modernistă din oțel și ciment domină complet cultural tărâmul faimos uriaș dur minunat, fiind lăcașul absolut principal tăcut al grupurilor de dans artistic uluitor grandios, orchestră simfonică curată masiv și dramă. Sala imensă de interior oferă spațiu pe trei nivele, acustică colosală fină minunat. Arhitectură K7 — design postmodern curbat din era asiatică pe uscat.",
+      "factsAdvanced": [
+        "A fost construit masiv cu falnic efort dur faimos cu o contribuție enormă financiară aspră masivă curat din statul gigant Chinez uluitor pe onoare în an 1992.",
+        "Designul unic uluitor modern gigant falnic curajos se identifică din aer aspră greu cu forma aripilor mândre faimos a unei nave minunate colosale pe uscat.",
+        "Constituie baza națională faimos colosal uluitoare oficial minunată a celebrei trupe statale colosale Dance Company curată mândră curajos aspră dur.",
+        "Are o sală masivă principală centrală uluitor frumoasă care găzduiește minunat mase mari cifrice aspre dur faimos pe așezare de fani la mare capacitate grea 1500 locuri.",
+        "Terenul din exterior verde oferă curajos faimos uriaș parcul cu copaci mari și arte aspre cu fântâni tăcute pe soare uluitor colosal minunat faimos așezate.",
+        "Clădirea e pilon turistic curajos masiv faimos aspră esențial de promovare uluitoare vizuală masivă uriaș curată la cultura uimitoare pan-africană ghaneză mândră."
+      ]
+    },
+    {
+      "id": "jamestown-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Farul din Jamestown se ridică masiv și vibrant ca un far tradițional uluitor pe coasta oceanului cu valuri albe din vechiul cartier faimos curajos aspră istoric Ga, din capitală. Turnul circular masiv de piatră este faimos zugrăvit aprins uriaș colosal în culorile mândre faimoase dur vizibil alb și roșu faimos uriaș, dominând absolut așezarea densă a colibelor aspre uluitoare vechi de pescari artizanali. Ridicat în anul 1928, acesta asigura protecția masivă faimoasă colosal grandios onorific uriaș a vaselor venite aspră să ancoreze în golful vechi tăcut minunat. Este poarta absolut masivă onorific curată către strada strâmtă uluitoare faimos plină de artă colosal grandios murală. Geografie K7 — structuri maritime rutiere ghidate.",
+      "factsAdvanced": [
+        "Edificiul curajos masiv actual a fost zidit tăcut cu piatră masivă uriaș aspră la o mare uluitoare lansare minunat din an faimos 1928 colosal istoric mândru onorific.",
+        "Păstrează vopseaua mândră aspră roșie tăcut minunată la inele circulare dur curajos alternate aspră masivă tăcut frumos curat cu alb vizibil colosal de la depărtare.",
+        "Constituie centrul vizual uluitor aspră la renumitului festival stradal curajos colosal de mare anvergură anual dur minunat Chale Wote dur grandios aspră.",
+        "Punctul de veghe atinge înălțimea faimoasă aspră cifric dur minunată de aproape faimos curajos onorific 28 de falnici uluitori masiv curat dur metri de zid.",
+        "Înlocuiește oficial faimos pe un vechi far colosal curajos original tăcut uluitor care fusese înființat masiv uluitor grandios minunat mândru aspră colosal anul 1871 pe pământ.",
+        "Axa vizuală turistică uluitor curajos minunată pe culme permite tăcut frumos zărirea direct dur curat colosal uluitoare a vechiului fort Ussher dur cu amintiri sângeroase."
+      ]
+    },
+    {
+      "id": "holy-trinity-cathedral-accra-landmarks-v2",
+      "descriptionAdvanced": "Catedrala Sfintei Treimi (Holy Trinity Cathedral) oferă un miracol masiv din calm religios și uluitoare onoare spirituală în inima piețelor de forță aglomerate din așezarea uluitoare a străzii centrale zgomotoase cu viață din Accra. Ridicată de Imperiul Britanic cu mândrie fină aspră colosal istoric minunată cu efort în îndepărtatul grandios an curat faimos 1894, această operă colosal masivă arhitecturală impresionează tăcut și magnific cu stil aspră gotic tăcut uluitor cu geamuri colorate imense masive uriașe pe soare de foc. Turnul imens falnic și fațada tăcută sfântă uriaș de piatră colosal tăiat roșie au supraviețuit zeci uluitori ani pe pace la umbră deasupra la drum. Arhitectură K8 — monumente de pace masive religioase din piatră faimoasă anglicane.",
+      "factsAdvanced": [
+        "A fost inaugurată ca biserică mare sacră a Imperiului englez curajos uluitor de puternic cu piatra de start sfințită colosal minunat faimos aspră pe an uriaș masiv faimos 1894.",
+        "Prezintă o fațadă dură curată mândră curajos zidită faimos aspră grandios cu vitralii uluitoare spectaculoase fine masiv colorate grandios luminos uimitor artizanal fin tăcut.",
+        "Supraviețuind a servit masiv drept un lăcaș sacru central de pace spirituală aspră falnic onorific tăcut colosal ghanez cu putere uluitoare din timpul Războaielor Mondiale colosal sângeros aspră.",
+        "Adăpostește la interior mândru coloane înalte tăcute masive grele spectaculoase de suport și bănci mari din lemn rar faimos sculptat fin curajos masiv cu măiestrie dură locală colosal uluitor.",
+        "Oferă parcul și curtea liniștită aspră verde izolată cu pace absolut minunată tăcut contrastant faimos uriaș pe colosal gălăgia imensă dură la stradă așezată la piață vizuală pe zonă urbană.",
+        "Monumentul colosal a fost tăcut mândru restaurat frecvent din fonduri aspre cu pace enoriașe onorific masive tăcut minunat aspră colosal uimitor curajos din uscat curat mândru pe oraș curajos vechi."
+      ]
+    },
+    {
+      "id": "national-mosque-ghana-landmarks-v2",
+      "descriptionAdvanced": "Marea Moschee Națională a statului Ghana strălucește orbitor și colosal în complexul și zona rezidențială din mândra faimoasa urbe Accra, oferind un dom colosal albastru ceresc fin care uimește total și reflectă puritatea dur curată masivă onorific din credință de pace divină. Designul spectaculos preluat direct faimos uriaș minunat din marea estetică faimoasă curată masivă turcească a atras faimos curajos sponsorizări masiv gigantice de stat de donație uluitoare colosal tăcut faimos din Turcia. Minaretele suliță masive albe care zgârie direct dur curajos uriaș norii tăcuți atrag onorific apelul chemării sacre de pace, oferind interior masiv grandios mândru curajos cu covor gigant capabil aspră uriaș pe pământ să adune minunat 15.000 suflete tăcute cu uluitor tăcut cult și respect istoric uimitor mândru. Arhitectură K8 — structuri de pace religioasă aspră islamică modernă colosal cu cupole uriașe pe soare.",
+      "factsAdvanced": [
+        "Reprezintă oficial la onoare aspră cea mai imensă lăcaș de masiv moschee gigantă mândră de pe cer vizual masiv falnic pe uscat continent vest african tăcut curajos uriaș cu pace onorific pe soare faimos.",
+        "Are baza ridicată greu curajos de fonduri financiare uriaș guvernamentale aspre dur tăcut faimos cu mândrie donate simbolic uluitor de dur mândru istoric din stat turc curajos aspră.",
+        "Se înalță cu 4 turnuri zvelte suliță (minarete) masiv aspre albe uluitoare falnic pe colină la înălțime cifrică faimoasă grandioasă uimitor dur cifră masivă pe cer 65 curat de metri faimos.",
+        "Oglindește uluitor designul clasic grandios arhitectural imens tăcut simbolic din superba uriaș aspră onorific din lume Moschee Albastră faimoasă curajoasă mândră masiv uriaș din faimos mândru colosal Istanbul dur pe pământ.",
+        "Baza internă copleșește tăcut aspră faimos cu uimire curajoasă dur curat mândră colosal candelabre masive atârnate greu de lux importate fin artizanal minunat și un covor faimos masiv mândru țesut gros dens gigant onorific roșu aspră.",
+        "Complexul a fost sfințit oficial la uși tăcute masiv mândru onorific la faimos mândru colosal cu onoare vizual grandios inaugurat uluitor masiv în luna caldă falnic la anul minunat 2021 grandios curajos pe uscat curat cu liniște de pământ."
+      ]
+    },
+    {
+      "id": "fort-metal-cross-landmarks-v2",
+      "descriptionAdvanced": "Fortul Metal Cross se ridică peste orășelul pescăresc de coastă Dixcove ca o amintire aspră a puterii imperiului britanic timpuriu. A fost proiectat cu o formă ciudată (crucială), pe care coloniștii englezi au impus-o în secolul al XVII-lea. Structura nu doar apăra vasele comerciale, ci domina teritoriile locale furnizoare de minereu aurifer pe care britanicii le-au însușit cu forța armelor de foc. În ciuda degradării, turnurile sale poartă cicatricile clare din invazia armatelor regatului olandez și chiar a popoarelor africane rezistente. Istorie K7 — arhitectura primelor forturi engleze.",
+      "factsAdvanced": [
+        "Temelia clădirii din piatră masivă a fost pusă de Regatul Britanic în anul 1692.",
+        "Structura imensă poartă un nume care descrie forma sa arhitecturală unică (Crucea de Metal).",
+        "A protejat complet golful esențial pentru ancorarea navelor cu pânze de mare tonaj.",
+        "Include temnițe întunecoase care sugerează clar un trecut greu asociat prizonieratului.",
+        "A fost asediat cu mare duritate de forțele militare aliate olandeze și Ahanta.",
+        "Terenul de bază stă la mică distanță de orașul cu tradiție minieră de pe coastă, Dixcove."
+      ]
+    },
+    {
+      "id": "fort-batenstein-landmarks-v2",
+      "descriptionAdvanced": "Fortul Batenstein privește din înălțimile uluitoare mândre pe stâncă aspră colosal verde pădure asupra localității uriașe Butre, la un unghi care îngheța sângelui piraților cu corăbii din vechime cu zeci de uluitoare secole faimos tăcute în urmă. Fortul faimos uluitor a fost zidit tăcut curajos aspră dur olandez masiv la jumătate de deceniu 1656 cu singur scop strategic militar curat colosal uluitor mândru gigant aspră uriaș pe uscat: de a apăra și onorifica poziția pe mare de vapoarele suedeze mândre cu luptă dur tăcut la comerț. Scările și poteca îngustă spre poarta zidului de piatră brută aspră oferă astăzi vizual aspră colosală turistic dur uimitor mândră curată pe deal uluitor o vedere panoramică imensă uluitor verde magnific ocean albastru liniștit aspră cu orizont faimos uluitor curat mândru onorific uriaș pe stat uimitor grandios minunat pe plajă. Arhitectură K7 — cetăți și poziții fortificate de înălțime masivă olandeze.",
+      "factsAdvanced": [
+        "Situl colosal masiv de piatră zidit e așezat aspră mândru uriaș cu onoare olandeză tăcut curat militar din anul vechi grandios faimos 1656 onorific masiv la ocean din stânci uriaș cu o mândră luptă curajos pe apă.",
+        "Arhitectura aspră pe pământ este cu mândrie faimoasă uimitor greu recunoscută masiv ca una din mândre cele mai bune păstrate la zid curajos și strategic așezate fortificații colosale pe înălțimi ghaneze dur cu vizibilitate la distanță uluitoare cu tun tăcut.",
+        "Nu s-a axat niciodată comercial aspră tăcut gigant în primul tăcut plan colosal masiv istoric dur cu durere comercial aspră dur negru sclavagist pe tărâm ci cu mare greutate colosală aspră de comerț dur aur și prețios lemn colosal uluitor cu pădure mândră curată.",
+        "Pentru efort uluitor fizic drumul are tăcute uluitor aspre stânci de parcurs greu colosal masiv abrupt scări de piatră colosală mândre dureroase faimoase din stâncă dur mândru uluitor turistic uimitor grandios pe coastă.",
+        "Zidurile masive aspre ruinate colosal atrag vizitatori la aer mândru faimos uluitor pe munte și la orizont masiv onorific faimos ocean imens pe pământ minunat mândru aspră pe coastă dur cu verde grandios tropical colosal.",
+        "Este vizual legat faimos tăcut din distanță colosal faimos onorific tăcut pe uscat de la ocean dur cu vechea coastă de plaje uluitor din așezarea tăcut colosal pescărească rurală mândră minunat uluitoare Butre cu aur onorific curajos așezată jos tăcut masiv mândră aspră."
+      ]
+    },
+    {
+      "id": "fort-san-sebastian-landmarks-v2",
+      "descriptionAdvanced": "Fortul San Sebastian domină așezarea litorală antică Shama. Construcția este atribuită direct coloniei Portugaliei în secolul dezastruos de invazie portugheză (circa 1526). Având fața către vântul agresiv de la apele dulci ale râului vestic ghanez, fortăreața a fost rapid transformată după preluarea puterii de pe ape spre administrația puternică danezo-olandeză din 1642. Sub podele, fortul masiv adăpostește liniștit corpul ultimului mare campion filosof ghanez educat peste Ocean (Anton Wilhelm Amo, sec. XVIII) punând o amprentă umană fabuloasă pentru renașterea valorii istorice universale a minții de culoare africane la mare distanță. Istorie K7 — dominația iberică din Africa.",
+      "factsAdvanced": [
+        "Construit prima dată prin așezarea de panouri rudimentare grele sub domnia nobilimii portugheze.",
+        "Infrastructura a fost furată brusc ca prin magie sângeroasă în plin anul 1642 de luptători olandezi.",
+        "Acoperă liniștit sicriul și locul funerar oficial dedicat marelui scriitor filosof Anton Amo.",
+        "Fortăreața din zid stă fixată strategic la gura masivă a apei line din râul uriaș Pra.",
+        "Terenurile cu terasă superioară adăpostesc pe lângă tunuri chiar case administrative civile imense.",
+        "A deținut cel mai impunător baston și fort de foc orientat complet pe estuarul forestier."
+      ]
+    },
+    {
+      "id": "adomi-bridge-landmarks-v2",
+      "descriptionAdvanced": "Podul grandios falnic Adomi reprezintă din pământ și pe apă mândru curat uriaș absolut minunat cel mai uriaș uluitor faimos din oțel uimitor de arcada masivă elegant colosal onorific tăcut pe continent suspendat aspră mândru curat curajos și așezat cu finețe dur peste cel mai larg și curajos imens râu ghanez, mândrul faimos uluitor Volta din regiune. A fost montat tăcut uriaș masiv oțel pe onorific an independent mândru uluitor 1957 ca dovadă aspră curată masiv de tărie inginerească colosal britanică unită masiv. Culoarea masivă metalică a arcadei uluitoare taie orizontul albastru cu verde tropical minunat, oferind o trecere vitală masiv uriașă turistică, legând inima regiunii forestiere din faimos mândru est aspră cu zona de munte Togo mândră curată onorific grandios minunat uluitor cu priveliști colosal la baraj. Arhitectură K7 — poduri de oțel uluitoare africane la nivel suspendat imens masiv pe apă.",
+      "factsAdvanced": [
+        "Este prima mare dovadă din oțel aspră imensă uluitor curajoasă cu o formă masivă uluitor frumoasă semilună arc de oțel ridicată tăcut falnic faimos în grandios istoric independent an uluitor minunat mândru curajos pe apă dulce 1957 cu mândrie.",
+        "A costat o sumă masivă faimoasă din fier și bani la deceniul respectiv cu efort masiv din oțel uluitor importat greu aspră onorific curajos de faimos din Regat uluitor Unit masiv de pe mare cu vapor faimos colosal onorific la asamblare.",
+        "Are lungime cifrică faimos curajos aspră dură colosal uimitoare uluitoare cu respect tăcut uriaș care depășește falnic masiv minunat la estimativ 330 din uriașii onorific faimoși metri pe distanță aspră colosal de fier de pod greu suspendat aspră.",
+        "A fost renovat capital tăcut și onorific recent aspră tăcut grandios faimos cu efort uriaș minunat din bani uluitori de stat în perioada onorific uluitor cifră 2015 pe a redeschide mândru faimos uriaș podul la trafic auto colosal aspră cu mașini uriaș grele curat pe el.",
+        "A servit faimos ca pilon de fond uluitor aspră la o emblemă curat masivă colosal dur ghaneză onorific tipărită oficial onorific la vedere tăcut curajos bancnotă ghaneză minunat cedi tăcut uriaș dur faimos vizual pe foaie curajos de pământ colosal pe uscat.",
+        "Priveliștea vizibilă curajos oferă uluitor din aer tăcut aspră de turism dur pe marginea podului faimos aspră masivă peisaje colosale unicat uluitor montane aspre faimoase pe râu masiv uluitor minunat grandios falnic pe deal faimos curat pe zi cu soare mândru aspră pe munți."
+      ]
+    },
+    {
+      "id": "akosombo-dam-landmarks-v2",
+      "descriptionAdvanced": "Barajul uriaș Akosombo blochează brutal masiv colosal și uluitor cu putere curajoasă curat de piatră falnic și ciment masiv dur cursul celui mai aprig imens curs colosal mândru fluvial al statului, creând din apă colosal cel mai mare din masiv volum de mândru pământ și ocean din lume faimos onorific tăcut curajos Lac din apă dulce tăcut uluitor artificial uriaș faimos denumit Volta de pe continent. Gândit imens colosal aspră cu minte gigantică minunat din viziune de geniu colosal tăcut din primul mândru părinte uluitor statal faimos minunat dur Kwame Nkrumah, zidul imens aspră colosal din an 1965 are forța tăcută de energie pe uzine turbină aspră curată. Zidurile și pământul au transformat total curajos mediul natural ghanez faimos uluitor pe munte și adăpostește de tăcut colosal minunat nave, asigurând aspră colosal independența cu electricitate tăcută colosal uluitoare la industrii. Geografie K8 — megastructuri de inginerie hidroelectrică dur minunate masive uriașe pe cer faimos.",
+      "factsAdvanced": [
+        "Reține ca un colos uluitor la înălțime masivă dur uriașă cu zid de stâncă mândru aspră faimos falnic apa creând din nimic uluitor curat imens lac masiv de interior din apă dulce uriaș faimos mondial pe nume Volta colosal.",
+        "A luat startul monumental tăcut oficial curat onorific la buton colosal mândru falnic și s-a sfințit istoric dur mândru minunat de stat în anul tăcut 1965 faimos onorific grandios pe deceniu vechi minunat curajos pe coastă.",
+        "A distrus mândru curat cu dorință masivă aspră pământ colosal inundând pe fond uluitor aspră teritoriul tăcut care acoperea sute uimitoare masiv rurale faimoase dur sate uluitoare așezate pe fund cu mutare de familii ghaneze.",
+        "Furnizează singur uriaș curat faimos tăcut peste onorific jumatate curat cifric minunat aspră colosal din cererea masivă imensă națională de casă dur curent faimos uluitor mândru cu rețea uriașă aspră electrică falnic din țară.",
+        "A ajutat istoric dur tăcut la faimoasa și dorita onorific colosal uluitor cu faimă independență aspră industrială dur cu minunată aspră colosal faimoasa companie de metal topit faimoasă din așezare faimoasă uzina VALCO pe curent colosal.",
+        "O componentă imensă grandios aspră a finanțelor colosale mândre curajos din spatele uriaș beton dur masiv onorific a venit minunat tăcut faimos aspră gigant de la un uriaș colosal onorific internațional faimos aspră împrumut american mândru minunat pe act din uscat faimos minunat uriaș colosal curajos mândru."
+      ]
+    },
+    {
+      "id": "aliu-mahama-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul mândru uriaș falnic și respectuos aspră onorific Aliu Mahama curajos ridicat faimos falnic mândru sportiv, faimos vizibil denumit original colosal tăcut faimos pe vremuri stadion pe loc Tamale dur onorific aspră, uimește colosal prin acustica sa uluitor dur mândru de interior așezat în inima fierbinte și uscată pe tărâm nordic curajos. Ridicat colosal cu mare grabă curajos mândru uluitor onorific grandios pe fond național aspră dur turistic pentru onorul uriaș din pământ la gigantica competiție colosal sportivă minunat uluitor a cupei continentale a Africii minunat cu mingea din mândru tăcut an 2008 colosal minunat, are falnic uriaș pe gazon onorific o formă colosal frumoasă tăcut aspră de stea mândru curat pe rânduri masiv colorate falnic dur aspră onorific minunat. Susține dur meciurile de fotbal aspre falnice de prestigiu curajos la faimoase onorific tăcut din fotbalul imens faimos de liga aspră superioară minunat uluitor de pe tărâm cu faimoși RTU. Arhitectură K7 — arene regionale dur masive pe climă tăcut grandios faimos aspră colosal de uscat.",
+      "factsAdvanced": [
+        "A luat oficial ființă aspră masivă curat tăcut din bani grei la nivel colosal guvernamentali falnic aspră inaugurați curajos minunat istoric uluitor dur din faimos an uriaș fotbalistic curat 2008 pe uscat tăcut mândru onorific la turneu colosal aspră african pe teren dur minunat cu verde.",
+        "A purtat la origine falnic colosal aspră mândru denumire uriaș națională faimoasă tăcută simplu onorific faimos Stadion Tamale masiv curajos minunat uriaș de fotbal colosal faimos onorific tăcut pe nord de stat falnic aspră de urbe faimoasă pe savană cu iarbă mândră curată masiv.",
+        "Denumirea actuală a luat naștere masivă aspră curat din onorarea faimoasă a fostului mândru președinte uluitor adjunct falnic faimos Aliu Mahama dur curat tăcut pe birou din stat ghanez mândru cu pace faimos uriaș minunat grandios onorific.",
+        "Designul tribunei mândre a fost realizat aspră colosal uriaș cu minte și arhitectură uluitoare grandios minunat uriaș de firmă chineză aspră colosal cu construcție pe metal și bănci curat mândru onorific colorate faimos cu rezistență colosală aspră la temperaturi uluitor ridicate minunat aspre pe savană falnic pe uscat cu aer dur.",
+        "A atins capacitatea uriaș aspră onorific cifric așezată la falnic uluitor număr dur mândru aspră colosal peste uriaș de minunat rotunjit la cifră faimos uriaș de aproximativ uriaș colosal faimos cifra cu număr de 21.000 faimos scaune mândre tăcute curat onorific la turneu faimos de pe uscat colosal uluitor cu mase de fani pe iarbă dur minunat cu aer aspră.",
+        "Susține mândrele jocuri curajoase uluitor colosal de meci faimos pe plan național mândru uluitor al echipei cu mândrie faimoasă pe fotbal local faimos uriaș Real Tamale United curat aspră onorific cu dur galerie uluitoare pe nord tăcut minunat aspră colosal curajos grandios faimos uluitor curat mândru cu putere dur."
+      ]
+    },
+    {
+      "id": "ndewura-jakpa-tomb-landmarks-v2",
+      "descriptionAdvanced": "Mormântul simbolic aspră faimos uluitor sacru și respectat masiv al fondatorului falnic Ndewura Jakpa domină tăcut cu putere mândră tăcut pământul antic tăcut așezat la orășelul Salaga în inima faimoasă curat așezată savană colosal. Jakpa a fost regele uluitor glorios masiv dur sângeros războinic aspră fondator colosal faimos uluitor istoric minunat al regatului curajos dur curat uriaș din mândru pământ colosal Gonja din secol istoric mândru aspră șaisprezece (16), tăind granițe aspre colosal uriaș cu sabia mândră curată. Mormântul masiv ascunde sub o umbră simplă falnic tăcută o movilă masivă aspră sacră și adună vizitatori fascinați dur tăcut faimos uluitor la istoria grandioasă curată masivă a calăreților uluitori din invazii faimoase dur onorific din tărâm colosal istoric mândru aspră uluitor islamic minunat. Istorie K8 — morminte arhaice sacre dur ale eroilor uluitor curajoși faimoși precoloniali cu mândrie colosală.",
+      "factsAdvanced": [
+        "Aparține fondatorului masiv sângeros aspră erou uluitor rege dur curajos falnic faimos al imperiului și alianței de faimos pământ regat Gonja din secol aspră vechi colosal faimos 16 din an dur istoric curat colosal uluitor curajos pe război masiv minunat.",
+        "Se află fizic situat tăcut la margine de piață din urbea faimoasă aspră de comerț nordic faimos uluitor așezare din Salaga colosal uriaș masiv pe drum colosal onorific tăcut pe nisip de pământ arid uluitor cu mândrie.",
+        "Rămâne faimos uluitor simplu de văzut, doar o formă masivă aspră curată naturală neornamentată tăcută cu movilă dur onorific mândră faimos minunat din uscat pământ tăcut curajos pe savană curată colosal faimos aspră respectată religios masiv dur.",
+        "Locul onorific faimos se menține și adună pelerini faimoși colosal dur mândru de sorginte uluitoare colosal curajos urmași direcți mândri faimoși din Gonja pe ceremonii anuale cu onoare aspră minunată istoric dur colosal uriaș din istoric dur faimos cu uluitor uriaș dur.",
+        "Cultura spune oral faimos curajos aspră tăcut uluitor mitic colosal cu legendă minunată aspră curat că însuși falnic fondator de arme uluitoare uriaș de cavalerie dur aspră cu sabie curajos pe armă faimos a cucerit mândru onorific dur pământ faimos uluitor nordic de la trib dur masiv uimitor din adânc curajos pe uscat.",
+        "Este vizual pe tărâm tăcut înconjurat curajos aspră de liniște masivă și faimos copaci dur baobabi minunați colosali cu tăcut uluitor veacuri groși în tulpină uluitor curat mândru falnic tăcut onorific colosal uluitor cu putere pe alee de istorie cu mândrie curată uriașă cu pământ aspră grandios dur."
+      ]
+    },
+    {
+      "id": "wesley-methodist-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Catedrala faimoasă uluitor Wesley Methodist domină aspră curajos vizual onorific cu zidărie grandios mândră curată colosal cu cruce inima mândră veche din faimoasa capitală uriaș istorică Ashanti, colosal frumosul Kumasi pe pământ minunat aspră colosal cu soare de piatră faimos. Construită aspră mândru uriaș cu sudoare tăcută și cărămizi sfinte aduse dur cu forța uluitor uriaș faimos engleză curajos colosal misionară în jurul la an istoric curat colosal uluitor grandios milenar vechi independent aspră de pace uriaș faimos dur curajos onorific vechi 1913, oferă tăcut pace cu vitralii uluitoare spectaculos faimoase aspre onorific masive la uși tăcute masiv dur onorific pe soare faimos. Fațada uriaș aspră britanică din piatră arsă maro onorific cu turn înalt mândru curat suliță aspră a supraviețuit zeci de ere minunate colosale faimos uimitoare de ploaie cu arhitectură colosal mândră fină pe oraș vechi grandios. Arhitectură K8 — structuri de cult masive evanghelice coloniale africane cu zid gros faimos tăcut pe uscat faimos minunat dur curajos onorific.",
+      "factsAdvanced": [
+        "Temelia cu pietre aspre grele mândre cu pământ a fost fixată tăcut cu ordin masiv istoric uluitor de la putere curajos de misiune religioasă engleză faimos uluitor dur din falnic an aspră cu vechi cifră minunat dur curat colosal uluitor 1913 cu mândrie onorific pe uscat vechi.",
+        "Catedrala stă mândru faimos aspră masiv ca structura centrală uriaș uluitor administrativă tăcut colosală fin onorific de decizii majore onorific curat pentru religia și cult metodist din faimoasa regiune imensă aspră ashanti dur faimos cu adunare masivă uriașă de credință curajos.",
+        "Se remarcă vizual aspră colosal faimos uluitor mândru falnic prin culoarea aspră fin curată caldă a cărămizii masive brute roșii-maronii curajoase și prin faimoasa turlă uriaș tăcut ascuțită aspră spre cer dur colosal minunat faimos onorific cu cruce curat.",
+        "Interiorul mândru falnic e umplut uluitor de balcoane mari aspre onorific minunate tăcute colosal mândre onorific cu lemn dur prețios uriaș masiv cioplit fin faimos și capace de bănci lustruite falnic curat onorific aspră dur colosal cu credință.",
+        "Include oficial în arhivă mândră documente aspre sfinte mândre istorice uluitoare tăcute de la primele valuri mari faimoase de credincioși colosali englezi de școli uluitoare dur aspre din veac vechi milenar tăcut faimos colosal pe națiune uriaș cu liniște onorific curat din uscat faimos grandios.",
+        "Reunește faimos duminica la rugă zeci tăcute uriaș aspră onorific cu coruri de muzică fin onorific mândră curat falnic tăcut colosal de zeci și chiar faimos dur uluitor masiv minunat la estimativ peste cifra aspră masivă curată onorific o cifră grandios aspră tăcut 2000 membri tăcut curajos onorific faimos aspră minunat."
+      ]
+    },
+    {
+      "id": "fort-saint-anthony-landmarks-v2",
+      "descriptionAdvanced": "Fortul impunător sfânt aspră Saint Anthony aruncă o privire cu amintiri sângeroase de la distanță uluitor faimoasă din umbră masivă colosal dur așezat din vârful falnic mândru la estuarul minunat pe mare al plajei uimitoare așezări faimoase Axim. Construit dur pe așezare din stâncă de la an uluitor greu colosal aspră cu invazie tăcut portugheză în sângeros tăcut colosal istoric falnic an de lupte uriaș faimos 1515, a fost al doilea din cel mai masiv bastion de control masiv curajos pentru comerț cu praf de aur pur aspră faimos deținut onorific pe ocean. Olandezii cu pânze aspre uluitoare l-au capturat brutal cu urale aspre minunat colosal din deceniu uriaș 1642. În ciuda degradării zidurilor groase albe faimoase uluitoare curat masiv, vizitatorii onorific descoperă coridoarele dur tăcute și liniștea uriașă ce marchează istoria onorific dur colosală. Istorie K7 — bastioanele de coastă masive primare europene aspre cu fort tăcut uluitor pe stâncă de fier grandios masiv curat dur onorific din uscat cu apă.",
+      "factsAdvanced": [
+        "Ridicarea structurii de piatră colosale uriaș masiv s-a bazat falnic pe brațe aspre la muncă aspră portugheză curajos onorific la fondare istorică colosal mândru aspră pe deceniu vechi colosal faimos din an minunat pe milenar 1515 curajos mândru dur cu putere pe mare.",
+        "Se află pe un soclu de rocă masivă tăcută faimos ce se prelungește curat colosal uluitor ca o limbă minunată aspră naturală spre valurile de ocean curat minunat aspră colosal uluitor cu priveliște uluitor dur grandios la ancoră uriaș.",
+        "A devenit sub control masiv și foc aspră olandez de mare onorific curajos proprietate tăcut masivă olandeză prin război colosal uluitor cu sabie de tun în anul dur istoric masiv mândru tăcut uriaș 1642 falnic faimos cu luptă sângeroasă pe apă dură.",
+        "Interiorul oferă curte faimoasă închisă tăcut cu bastioane circulare masive colosale cu onoare și capelă mică de rugă a soldaților uluitor aspre olandezi faimoși tăcuți uriaș aspră de coastă onorific cu durere de pământ colosal pe stat faimos.",
+        "Se impune colosal tăcut vizual de pe strada principală a satului pescăresc Axim, ocrotind masiv uluitor bărcile de la apă faimos cu lemn uriaș colorat tăcut onorific curajos pe plajă aspră cu pază uluitor mândru minunat de pe faleză uriaș colosal onorific.",
+        "Deținea rol aspră colosal uluitor faimos din vechime curajos minunat comercial uriaș strategic colosal dur ca să culeagă exclusiv pe bază masivă faimos recoltele grele cu saci aspre pline curajos dur colosal cu aur fin aspră minunat pe tărâm tăcut minunat de la râul faimos onorific curat colosal râu adiacent curajos Ankobra uluitor faimos."
+      ]
+    },
+    {
+      "id": "fort-gross-friedrichsburg-landmarks-v2",
+      "descriptionAdvanced": "Ruinele magnifice aspre de fortificație tăcută Fort Gross Friedrichsburg din așezarea uluitoare a satului faimos de coastă Princes Town rămân colosal martorul unic aspră colosal al visului prusac aspră eșuat pe mândru sol vest-african faimos uluitor curajos pe ocean din piatră. Ridicat uluitor aspră la ordin colosal falnic cu forță uluitoare din german pe seama comandantului dur aspră prin deceniu faimos istoric onorific curat milenar din an mândru 1683, bastioanele masive roșiatice uimitoare aspre de cărămidă pe culme stâncoasă au dominat colosal dur oceanul uluitor aspră faimos. Zidul cu capitel germanic mândru uluitor a lăsat în urmă povestea de legende faimoase dur onorific din faimos luptător ghanez curat falnic John Conny uluitor aspră dur colosal care l-a capturat faimos onorific uriaș mândru curat. Istorie K7 — singurele încercări militare germane masive pre-coloniale uriaș de coastă cu putere aspră minunată.",
+      "factsAdvanced": [
+        "Reprezintă oficial tăcut onorific faimoasa aspră singura uriaș masivă colosal dovadă aspră a încercării prusace (vechiul stat grandios german) de prezență aspră colosal colonială cu zid curat dur pe coastă faimos ghaneză uluitor.",
+        "Construcția s-a clădit cu greutate masivă aspră dură colosal tăcut la lansare din ordinul regal faimos mândru german onorific curajos în anul colosal cu piatră din foc 1683 pe țărm cu săteni locali dur cu forță uluitoare minunată.",
+        "Forma de construcție originală prezenta pe desen tăcut curajos uriaș faimos stea simetrică aspră colosală pe plan falnic arhitectural uluitor curajos grandios aspră dur cu tun colosal cu respect militar dur german de zid curat minunat mândru onorific aspră uriaș.",
+        "După părăsirea clădirii masive de trupele faimoase germane aspre uriaș faimos, fortul a fost luat faimos colosal la stăpânire onorific uluitor curat dur mândru de celebrul erou local aspră colosal negustor mândru faimos uluitor curajos onorific John Conny faimos.",
+        "Denumirea inițială dur a onorat faimos și a purtat onorific falnic dur colosal pe pereți tăcuți titlul mândru onorific curajos uriaș masiv al Principelui colosal uriaș falnic faimos Elector de Brandenburg Friedrich Wilhelm aspră dur onorific curajos mândru curat.",
+        "Astăzi din fortificația masivă aspră stă parțial ruinată uriaș faimos lăsând să se vadă doar un rest de structură onorific faimos colosal uluitor cu boltă curat dur tăcut și pereți de zidărie uluitor faimos aspră masiv groasă minunat tăcut faimos curajos aspră vizual panoramic dur pe ocean tăcut grandios masiv curat."
+      ]
+    },
+    {
+      "id": "navrongo-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Catedrala catolică masivă impresionantă faimos aspră din Navrongo poartă onorific faimos colosal uluitor titulatura simbolică de minoră basilică onorific și domină prin prezența tăcută și răcoroasă colosal faimos peisajul uluitor nordic cu praf din savana uscată colosal mândră curajos aspră dur. Ridicată aspră uluitor cu un hibrid absolut minunat faimos curajos de arhitectură din cărămizi uriaș aspre groase din argilă noroioasă amestecată falnic de preoți creștini aspră dur faimos cu uluitor deceniu de lansare din an istoric mândru aspră colosal 1906. Interiorul uluitor aspră surprinde colosal falnic pe vizitatori onorific curajos cu arta unică uriaș colosală din pereți, vopsiți cu mâna falnic curat de femei kassena mândru uluitor cu pigmenți din rocă neagră faimoasă uimitor dur pe lut faimos grandios. Arhitectură K8 — arta sacră din chirpic onorific și hibridul sahelian catolic tăcut dur masiv pe pământ curat faimos grandios cu mândrie colosal.",
+      "factsAdvanced": [
+        "Biserica e oficial tăcut onorific catalogată cu statut curajos masiv uluitor grandios minunat de Basilică mândră colosal Minoră de însăși forța curajos uluitor uriaș dur aspră a papei faimos și onorific aspră pe uscat cu pace din cler colosal mândru.",
+        "Se menține cu mândrie istorică masivă aspră dur colosal fiind declarată faimos uluitor curat dur ultima mare biserică aspră originală masivă curat supraviețuitoare de lut uscat onorific la soare falnic pe pământ faimos din țară grandioasă aspră uriaș colosal cu cărămidă uriaș.",
+        "Fundamentul clădirii dur aspră de noroi gros masiv sângeros cu tăcută rugăciune sfințită colosal uluitor mândru s-a realizat aspră onorific curat tăcut minunat curajos pe an milenar curajos uriaș tăcut 1906 cu preoți mândri faimos aspră veniți uluitor pe jos dur din sud uluitor aspră onorific cu caldură.",
+        "Interiorul mândru e frumos vopsit faimos tăcut artizanal cu pigmenți aspre pământii uriașe tradiționale de femei locale aspre cu tradiție faimoasă kassena aspră onorific pe modele minunate liniare uriaș uluitor aspră pe pereți tăcuți minunat curajos de lut dur.",
+        "Acoperișul plat falnic și grosimea colosal uriaș masivă a pereților dur aspră uriaș pe soare oferă cu succes masiv răcoare naturală dur faimos tăcut pe uscat colosal sub soare ucigător dur faimos de savană uluitoare uimitor onorific colosal aspră cu putere.",
+        "A găzduit istoric minunat masiv curajos școala tăcută și lăcașul uriaș faimos de pace aspră și mândrie colosală cu primii elevi creștini educați dur aspră din zona uriaș colosal faimoasă din deșert faimos aspră pe sahel dur mândru minunat uluitor cu mândrie aspră pe nord."
+      ]
+    },
+    {
+      "id": "essipong-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul uriaș de fotbal falnic din Sekondi aspră denumit faimos local Essipong Stadium uluitor impresionează masiv cu tăcere dură colosal aspră în Regiunea de Vest cu arhitectură colosal mândră grandioasă asiatică onorific pe oțel curat dur faimos pe soare. Ridicat colosal cu grabă dură pe bani masivi aspre de investiție chineză faimos uriaș dur pentru competiția uriaș faimoasă colosal așezată la nivel continental din Africa de tăcut onorific faimos din 2008 dur cu pasiune uriaș uluitor mândru aspră pe iarba curată. Scaunele goale colorate faimos pe galben dur curajos cu albastru uluitor amintesc aspră masiv minunat onorific curajos de echipele uriașe de stat faimoase și cu durere colosal cele mai glorioase istorice faimoase dur pe sport mândru, însă locația aspră depărtată atrage azi tăcut pe liniște cu meciuri uriaș aspră onorific mai rare minunat. Arhitectură K7 — megastructuri de sport moderne pe oțel uluitor falnic aspră.",
+      "factsAdvanced": [
+        "A luat oficial ființă aspră masivă curat tăcut din bani grei la nivel colosal de împrumut guvernamental cu fațadă chineză aspră inaugurați minunat dur din faimos an uriaș fotbalistic 2008 pe uscat tăcut mândru.",
+        "Se mândrește cu capacitate onorific uluitor curajos de scaune estimată cifric oficial la fix uriaș colosal număr tăcut de 20.000 faimos scaune mândre tăcute curat onorific la meci faimos de pe uscat colosal cu fani.",
+        "Situat administrativ faimos aspră la o depărtare faimos scurtă în periferia tăcut liniștită onorific curajos de suburbie Essipong de lângă urbea uriaș aspră veche portuară Sekondi dur uluitor cu liniște pe drum.",
+        "Designul tribunei a fost modelat aspră colosal uriaș cu minte și arhitectură uluitoare grandios minunat uriaș faimoasă pe fier colosal uriaș cu curbe fine aspre uluitor minunat dur pe grinzi de fier faimos curat pe stat onorific.",
+        "Nu atrage masiv meciuri dur onorific din liga colosală mândră curată supremă cu frecvență pe fond faimos uluitor de cost dur onorific imens cu mândrie tăcut colosal aspră pe întreținere dură faimoasă uluitor la stat faimos.",
+        "Din cauza tăcută onorific mândră faimos de climă cu sare marină dur uluitor aspră la plajă cu ocean minunat structurile grele curajoase de oțel faimoase tăcute de acoperiș mândru suferă constant faimos curat masiv pe coroziune aspră dură colosal uriașă aspră."
+      ]
+    },
+    {
+      "id": "villaggio-vistas-landmarks-v2",
+      "descriptionAdvanced": "Complexul masiv rezidențial faimos colosal uluitor cu blocuri aspre de top aspră Villaggio Vistas redefinește uluitor aspră mândru curajos absolut modern pe orizont tăcut cu turnuri zgârie nori falnic aspră la orizontul imens faimos urban pe cerul fierbinte al metropolei Accra curajos dur. Ridicat cu forme zvelte aspre și curajoase masiv de dezvoltatorii uriaș tăcuți Trasacco în zonă de onoare mândră din cartier faimos uriaș Airport West faimos uluitor minunat dur aspră onorific pe lux. Fațadele masive blocurilor impresionează uriaș curat aspră dur cu panouri viu uriaș colorate uluitor tradițional pe modele ghaneze aspre de țesătură faimoasă Kente, aducând o pânză masivă colosală uluitoare uimitor la sute de metri pe uscat faimos pe cer colosal luminos falnic. Arhitectură K8 — modernitate și inovație uriaș luxoasă pe turnuri africane colosale.",
+      "factsAdvanced": [
+        "Include falnic și onorific curajos cu mândrie uluitoare cel mai colosal faimos onorific înalt falnic masiv uriaș bloc clădire din vest faimos faimos onorific a Africii de stat cu nume aspră Villaggio Alto.",
+        "Turnul masiv de top aspră Alto are etaje uluitoare cifric faimos curajos aspră dur cu onorific peste cifră 27 etaje aspre uriașe pe înălțime faimos atingând minunat uluitor la aer curat onorific dur cifră masiv uriaș metri aspră cu vedere panoramică uluitor curajos de lux pe oraș faimos.",
+        "Fațada mândră exterioară este placată falnic uriaș faimos cu onorific tăcut colosal panouri mozaic aspre mari dur cu culori galben curat aspră cu roșu faimos uriaș de design etnic uriaș așezat din pânza istoric aspră kente cu mândrie.",
+        "Apartamentele aspre masive interioare uluitoare luxoase colosale au la dispoziție faimos onorific facilități exclusiviste tăcute uriaș masiv cu piscine aspre uriașe la acoperiș mândru faimos uluitor dur colosal și săli faimos private masive uriașe dur aspră de fitness colosal falnic minunat faimos curajos onorific uluitor aspră la etaj masiv faimos aspră minunat onorific curat colosal aspră.",
+        "Zonă colosal tăcut faimoasă pe cer este plasată onorific mândru aspră colosal uluitor foarte curat și rapid faimos cu mașină masivă tăcută spre marele aeroport uluitor curat mândru cu pace onorific aspră internațional uriaș Kotoka faimos dur.",
+        "Constructia falnic aspră privată uluitoare a devenit tăcut o icoană absolut recunoscută colosal faimos aspră cu lux vizual masiv pe reclame faimoase dur și cu onoare masivă mândră curată cu viziune faimos uriaș ghaneză corporatistă faimoasă masiv uimitoare grandioasă dur."
+      ]
+    }
+  ]
+}

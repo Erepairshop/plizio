@@ -1,0 +1,36 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"],
+  "items": [
+    {
+      "id": "harare-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Harare ist die pulsierende Hauptstadt Simbabwes und ein wichtiges wirtschaftliches Zentrum im Süden Afrikas. Gegründet im Jahr 1890 als Fort Salisbury, hat sich die Stadt zu einer modernen Metropole mit über 1,5 Millionen Einwohnern entwickelt. Sie dient als politisches Herz und Bildungszentrum, wobei das Harare Institute of Technology und die Universität von Simbabwe prägende Institutionen sind. Geografie K7 — städtische Räume und wirtschaftliche Knotenpunkte.",
+        "hu": "Harare Zimbabwe lüktető fővárosa és Dél-Afrika egyik fontos gazdasági központja. Az 1890-ben Fort Salisbury néven alapított város mára egy modern nagyvárossá fejlődött, több mint 1,5 millió lakossal. Harare az ország politikai szíve és oktatási központja, ahol a Harare Institute of Technology és a Zimbabwei Egyetem meghatározó intézmények. Földrajz K7 — városi terek és gazdasági csomópontok.",
+        "ro": "Harare este capitala vibrantă a statului Zimbabwe și un centru economic important în sudul Africii. Fondat în 1890 sub numele de Fort Salisbury, orașul a devenit o metropolă modernă cu peste 1,5 milioane de locuitori. Harare servește drept inimă politică și centru educațional, unde Institutul de Tehnologie din Harare și Universitatea din Zimbabwe sunt instituții emblematice. Geografie K7 — spații urbane și noduri economice.",
+        "en": "Harare is the vibrant capital of Zimbabwe and a major economic hub in Southern Africa. Founded in 1890 as Fort Salisbury, the city has grown into a modern metropolis with over 1.5 million residents. Harare serves as the political heart and educational center, with the Harare Institute of Technology and the University of Zimbabwe being key institutions. Geography K7 — urban spaces and economic hubs."
+      },
+      "factsAdvanced": {
+        "de": ["Harare liegt auf etwa 1490 Metern über dem Meeresspiegel.", "Die Stadt wurde 1890 von der Pioneer Column gegründet.", "Das Klima ist ein subtropisches Hochlandklima.", "Der National Botanic Garden in Harare beherbergt Tausende Pflanzenarten.", "Harare beherbergt den größten Markt des Landes, den Mbare Musika.", "Der Flughafen Robert Gabriel Mugabe International ist das Luftverkehrszentrum."],
+        "hu": ["Harare körülbelül 1490 méteres tengerszint feletti magasságban fekszik.", "A várost 1890-ben alapította a Pioneer Column.", "Az éghajlat szubtrópusi hegyvidéki jellegű.", "A hararei Nemzeti Botanikus Kert több ezer növényfajnak ad otthont.", "Itt található az ország legnagyobb piaca, a Mbare Musika.", "A Robert Gabriel Mugabe Nemzetközi Repülőtér a légiforgalmi központ."],
+        "ro": ["Harare este situat la o altitudine de aproximativ 1490 de metri.", "Orașul a fost fondat în 1890 de către Pioneer Column.", "Climatul este unul subtropical montan.", "Grădina Botanică Națională din Harare găzduiește mii de specii de plante.", "Harare găzduiește cea mai mare piață din țară, Mbare Musika.", "Aeroportul Internațional Robert Gabriel Mugabe este nodul traficului aerian."],
+        "en": ["Harare is situated at an altitude of approximately 1490 meters.", "The city was founded in 1890 by the Pioneer Column.", "The climate is a subtropical highland climate.", "The National Botanic Garden in Harare hosts thousands of plant species.", "Harare hosts the country's largest market, Mbare Musika.", "Robert Gabriel Mugabe International Airport is the aviation hub."]
+      }
+    },
+    {
+      "id": "bulawayo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt als die 'Stadt der Könige'. Mit ihrer reichen Geschichte als ehemalige Hauptstadt des Ndebele-Königreiches unter Lobengula, bewahrt sie eine einzigartige kulturelle Identität im Südwesten des Landes. Die breiten Straßen, die ursprünglich für Ochsengespanne konzipiert wurden, prägen das architektonische Stadtbild. Geografie K7 — historische Zentren und infrastrukturelle Erbschaften.",
+        "hu": "Bulawayo Zimbabwe második legnagyobb városa, amelyet gyakran 'Királyok városának' is neveznek. Gazdag történelme van, mint Lobengula uralma alatt az Ndebele Királyság egykori fővárosa, így egyedülálló kulturális identitást őriz az ország délnyugati részén. A széles utcák, amelyeket eredetileg ökrös szekerek számára terveztek, meghatározzák a város építészeti jellegét. Földrajz K7 — történelmi központok és infrastrukturális örökségek.",
+        "ro": "Bulawayo este al doilea oraș ca mărime din Zimbabwe și este cunoscut drept 'Orașul Regilor'. Cu o istorie bogată ca fostă capitală a Regatului Ndebele sub Lobengula, acesta păstrează o identitate culturală unică în sud-vestul țării. Străzile largi, concepute inițial pentru căruțele trase de boi, definesc peisajul arhitectural al orașului. Geografie K7 — centre istorice și moșteniri infrastructurale.",
+        "en": "Bulawayo is the second largest city in Zimbabwe and known as the 'City of Kings'. With its rich history as the former capital of the Ndebele Kingdom under Lobengula, it maintains a unique cultural identity in the southwest of the country. The wide streets, originally designed for ox wagons, define the city's architectural character. Geography K7 — historical centers and infrastructural legacies."
+      },
+      "factsAdvanced": {
+        "de": ["Bulawayo wurde im 19. Jahrhundert von König Lobengula gegründet.", "Die Stadt liegt etwa 440 km südwestlich von Harare.", "Das Natural History Museum in Bulawayo ist eines der größten in Afrika.", "Bulawayo war ein Zentrum des Eisenbahnwesens in der Region.", "Khami Ruins, ein UNESCO-Weltkulturerbe, liegen in der Nähe.", "Die Stadt ist bekannt für ihre gut erhaltene Architektur aus der Kolonialzeit."],
+        "hu": ["Bulawayót a 19. században alapította Lobengula király.", "A város körülbelül 440 km-re délnyugatra fekszik Hararetől.", "A bulawayói Természettudományi Múzeum az egyik legnagyobb Afrikában.", "Bulawayo a régió vasúti közlekedésének központja volt.", "A Khami-romok, az UNESCO Világörökség része, a közelben találhatók.", "A város jól megőrzött koloniális építészetéről ismert."],
+        "ro": ["Bulawayo a fost fondat în secolul al XIX-lea de către regele Lobengula.", "Orașul este situat la aproximativ 440 km sud-vest de Harare.", "Muzeul de Istorie Naturală din Bulawayo este unul dintre cele mai mari din Africa.", "Bulawayo a fost un centru al rețelei feroviare din regiune.", "Ruinele Khami, un sit al Patrimoniului Mondial UNESCO, se află în apropiere.", "Orașul este renumit pentru arhitectura sa bine conservată din perioada colonială."],
+        "en": ["Bulawayo was founded in the 19th century by King Lobengula.", "The city is located about 440 km southwest of Harare.", "The Natural History Museum in Bulawayo is one of the largest in Africa.", "Bulawayo was a hub for the regional railway network.", "Khami Ruins, a UNESCO World Heritage site, are located nearby.", "The city is renowned for its well-preserved colonial architecture."]
+      }
+    }
+  ]
+}

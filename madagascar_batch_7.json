@@ -1,0 +1,127 @@
+[
+  {
+    "id": "kirindy-wald-life-v2",
+    "name": "Kirindy Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tsingy-bemaraha-park-life-v2",
+    "name": "Bemaraha National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "sahambavy-tee-plantage-life-v2",
+    "name": "Sahambavy Tea Plantation",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "antsirabe-kinderpark-life-v2",
+    "name": "Antsirabe Children's Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "andasibe-orchid-park-life-v2",
+    "name": "Andasibe Orchid Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "vakona-lemuren-insel-life-v2",
+    "name": "Vakona Lemur Island",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "ampefy-geyser-park-life-v2",
+    "name": "Ampefy Geyser Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tamatave-stadtpark-life-v2",
+    "name": "Tamatave City Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "maroantsetra-vanille-farm-life-v2",
+    "name": "Maroantsetra Vanilla Farm",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-be-korallenriff-life-v2",
+    "name": "Nosy Be Coral Reef",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "ranomafana-zoo-bereich-life-v2",
+    "name": "Ranomafana Zoo Area",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "lakato-lemuren-schutz-life-v2",
+    "name": "Lakato Lemur Conservation",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "antsirabe-reis-felder-life-v2",
+    "name": "Antsirabe Rice Fields",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-tanikely-marine-life-v2",
+    "name": "Nosy Tanikely Marine Reserve",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "toliara-botanischer-garten-life-v2",
+    "name": "Toliara Botanical Garden",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "manakara-kanal-life-v2",
+    "name": "Manakara Canal",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "mahajanga-strand-life-v2",
+    "name": "Mahajanga Beach",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "andohahela-nationalpark-life-v2",
+    "name": "Andohahela National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tsingy-namoroka-park-life-v2",
+    "name": "Tsingy of Namoroka Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "fianarantsoa-weingut-life-v2",
+    "name": "Fianarantsoa Winery",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-komba-lemuren-life-v2",
+    "name": "Nosy Komba Lemur Peninsula",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "zombitse-vohibasia-park-life-v2",
+    "name": "Zombitse-Vohibasia National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "antsirabe-thermalbad-life-v2",
+    "name": "Antsirabe Thermal Baths",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "ankarafantsika-vogelbeobachtung-life-v2",
+    "name": "Ankarafantsika Bird Watching",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-mitsio-tauchen-life-v2",
+    "name": "Nosy Mitsio Diving",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  }
+]

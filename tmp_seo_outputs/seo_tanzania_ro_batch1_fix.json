@@ -1,0 +1,23 @@
+{
+  "lang": "ro",
+  "country": "tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tz-tongoni-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele Tongoni reprezintă unul dintre cele mai importante situri arheologice de pe coasta Swahili, situat la aproximativ 20 de kilometri sud de Tanga. Această așezare prosperă a înflorit în secolul al XV-lea, fiind un centru comercial strategic controlat de dinastia Shirazi. Vizitatorii pot explora rămășițele unei mari moschei de piatră și peste 40 de morminte cu stâlpi, care sunt printre cele mai mari concentrații de acest tip din Africa de Est. Situl oferă o perspectivă fascinantă asupra arhitecturii medievale swahili și a influențelor persane în regiune. Istoria povestită de zidurile de coral de aici reflectă declinul orașului după sosirea portughezilor și schimbarea rutelor comerciale. Geografie K7 — Civilizații medievale și comerțul în Oceanul Indian.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată de coloniști Shirazi în secolul al X-lea.",
+        "Situl găzduiește cea mai mare concentrație de morminte Shirazi din Tanzania.",
+        "Marea Moschee din Tongoni datează din prima jumătate a secolului al XV-lea.",
+        "Vasco da Gama a vizitat așezarea în 1499, în timpul primei sale călătorii spre India.",
+        "Zidurile sunt construite din blocuri de coral tăiate cu precizie.",
+        "Situl a fost abandonat la sfârșitul secolului al XVIII-lea.",
+        "A fost declarat monument național sub protecția Departamentului de Antichități.",
+        "Cercetările arheologice au scos la iveală porțelan chinezesc și ceramică persană."
+      ]
+    }
+  ]
+}

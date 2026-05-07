@@ -1,0 +1,298 @@
+{
+  "lang": "de",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haiti-jardin-botanique-cayes-landmarks-v2",
+      "descriptionAdvanced": "Der Botanische Garten von Les Cayes ist ein unverzichtbares Zentrum für den Erhalt der biologischen Vielfalt in der südlichen Karibik. Er präsentiert eine enorme Auswahl an endemischen und seltenen Pflanzen Haitis und fungiert gleichzeitig als eine lebendige Bildungseinrichtung für die lokale Bevölkerung. Biologie K7 — Botanische Schutzgebiete.",
+      "factsAdvanced": [
+        "Einer der wichtigsten botanischen Gärten des Landes.",
+        "Beherbergt seltene und vom Aussterben bedrohte Pflanzenarten.",
+        "Dient der Umweltbildung für Schulen und Universitäten.",
+        "Verfügt über ein eigenes Herbarium für wissenschaftliche Forschung.",
+        "Spezialisiert auf Pflanzen des Département Sud.",
+        "Fördert aktiv nachhaltige Landwirtschaft in der Region."
+      ]
+    },
+    {
+      "id": "haiti-mairie-cap-haitien-landmarks-v2",
+      "descriptionAdvanced": "Das Rathaus (Mairie) von Cap-Haïtien besticht durch seine elegante, koloniale und viktorianische Architektur. Als politisches Herzstück der nördlichen Metropole hat das Gebäude über Jahrhunderte hinweg unzählige Machtwechsel und historische Umbrüche miterlebt. Architektur K6 — Historische Verwaltungsgebäude.",
+      "factsAdvanced": [
+        "Im Herzen des historischen Zentrums von Cap-Haïtien gelegen.",
+        "Die Fassade zeigt klassische karibische Architektur-Elemente.",
+        "Schauplatz vieler politischer Demonstrationen.",
+        "Teilweise aus robustem lokalem Kalkstein gebaut.",
+        "Verfügt über einen repräsentativen zentralen Balkon.",
+        "Gilt als architektonisches Symbol der nördlichen Hauptstadt."
+      ]
+    },
+    {
+      "id": "haiti-fort-bousquet-landmarks-v2",
+      "descriptionAdvanced": "Fort Bousquet ist ein stiller militärischer Wächter aus dem 19. Jahrhundert, der zur Verteidigung der inneren Wasserwege erbaut wurde. Seine strategische Platzierung verhinderte einst, dass feindliche Truppen über die Flussnetzwerke tief ins Landesinnere vordringen konnten. Geschichte K7 — Binnenverteidigung.",
+      "factsAdvanced": [
+        "Erbaut im frühen 19. Jahrhundert nach der Unabhängigkeit.",
+        "Kontrollierte wichtige Kreuzungen der Binnenschifffahrt.",
+        "Besteht aus einer sternförmigen, kompakten Anlage.",
+        "Wurde oft von haitianischen Rebellen als Versteck genutzt.",
+        "Die Steinmauern sind heute stark verwittert.",
+        "Bietet Archäologen wichtige Funde militärischer Ausrüstung."
+      ]
+    },
+    {
+      "id": "haiti-hotel-oleander-landmarks-v2",
+      "descriptionAdvanced": "Das Hotel Oleander war einst ein florierendes Zentrum für internationale Diplomaten und wohlhabende Reisende, bekannt für seine üppigen, von Oleanderblüten gesäumten Gärten. Heute zeugen seine Ruinen von den goldenen, aber auch turbulenten Zeiten des haitianischen Tourismus. Tourismus K8 — Die Geschichte der Hotellerie.",
+      "factsAdvanced": [
+        "Einst ein prestigeträchtiges Hotel für die Elite.",
+        "Namensgeber sind die blühenden Oleanderbüsche im Garten.",
+        "Beherbergte in den 1950ern viele internationale Stars.",
+        "Verfügte über einen der ersten großen Hotelpools der Region.",
+        "Wurde während politischer Unruhen stark beschädigt.",
+        "Die Ruinen werden heute teilweise von Künstlern genutzt."
+      ]
+    },
+    {
+      "id": "haiti-place-bover-landmarks-v2",
+      "descriptionAdvanced": "Die Place Bover ist ein kleiner, aber kulturell bedeutender Stadtplatz, der oft als sozialer Knotenpunkt für lokale Händler und Künstler dient. Umgeben von historischen Gebäuden, ist er ein lebendiges Beispiel für das pulsierende, tägliche Straßenleben in Haitis Städten. Geographie K5 — Urbane Treffpunkte.",
+      "factsAdvanced": [
+        "Zentraler Knotenpunkt für lokale Straßenhändler.",
+        "Die umliegenden Gebäude weisen oft Lebkuchenhaus-Elemente auf.",
+        "Oft Austragungsort für kleine Straßenfeste.",
+        "Der Platz ist nach einem lokalen Philanthropen benannt.",
+        "Geprägt von großen, schattenspendenden Mangobäumen.",
+        "Beliebter Treffpunkt für Diskussionen nach dem Gottesdienst."
+      ]
+    },
+    {
+      "id": "haiti-fort-du-grand-riviere-landmarks-v2",
+      "descriptionAdvanced": "Dieses monumentale Fort überwachte die Ufer der Grand Rivière und war ein zentraler Schauplatz heftiger Gefechte zwischen Rebellen und Kolonialmächten. Seine Kontrolle bedeutete die unumstrittene Herrschaft über den wichtigsten Binnenwasserweg der gesamten nördlichen Region. Geschichte K8 — Strategische Flussfestungen.",
+      "factsAdvanced": [
+        "Sicherte den wichtigsten Wasserweg im Norden.",
+        "Schauplatz intensiver Artillerie-Duelle.",
+        "Besitzt Kanonen, die direkt auf die Furt gerichtet sind.",
+        "Wurde mehrfach zwischen Franzosen und Rebellen erobert.",
+        "Heute ein wichtiges nationales Geschichtsdenkmal.",
+        "Das Mauerwerk ist ein Mix aus Koralle und Ziegeln."
+      ]
+    },
+    {
+      "id": "haiti-gare-maritime-cayes-landmarks-v2",
+      "descriptionAdvanced": "Der Maritime Bahnhof von Les Cayes war das pulsierende logistische Zentrum des Südens, durch das Tonnen von Kaffee und Vetiver in die ganze Welt verschifft wurden. Die Hafenanlagen erinnern an die Zeit, als Les Cayes eine der wichtigsten Exportstädte der Karibik war. Wirtschaft K7 — Seehandel und Export.",
+      "factsAdvanced": [
+        "War das wichtigste Exportzentrum im Département Sud.",
+        "Hauptumschlagplatz für Kaffee, Kakao und Vetiver.",
+        "Die alten Lagerhäuser bestehen aus massivem Eisen und Stein.",
+        "Verband die Südküste mit europäischen Märkten.",
+        "Heute wird der Hafen vor allem für lokale Fischerei genutzt.",
+        "Soll in Zukunft für Kreuzfahrtschiffe modernisiert werden."
+      ]
+    },
+    {
+      "id": "haiti-lycee-philippe-guerrier-landmarks-v2",
+      "descriptionAdvanced": "Das Lycée Philippe Guerrier in Cap-Haïtien ist eine der ältesten und renommiertesten Bildungseinrichtungen des Landes. Benannt nach einem ehemaligen Präsidenten, hat die Schule Generationen von haitianischen Intellektuellen, Politikern und Schriftstellern hervorgebracht. Bildung K6 — Historische Schulen.",
+      "factsAdvanced": [
+        "Gegründet in der Mitte des 19. Jahrhunderts.",
+        "Benannt nach dem Präsidenten Philippe Guerrier (Amtszeit 1844-1845).",
+        "Gilt als intellektuelle Schmiede des Nordens.",
+        "Das Gebäude verbindet klassizistische und koloniale Stile.",
+        "Hat zahlreiche namhafte Politiker hervorgebracht.",
+        "Verfügt über eine der ältesten Bibliotheken der Region."
+      ]
+    },
+    {
+      "id": "haiti-fort-biche-landmarks-v2",
+      "descriptionAdvanced": "Fort Biche ist ein verstecktes militärisches Relikt, das tief in den bewaldeten Hügeln verborgen liegt. Es diente als wichtiges Späh- und Warnzentrum, um größere Festungen wie die Zitadelle vor überraschenden Truppenbewegungen im Tal zu warnen. Geschichte K6 — Taktische Spähposten.",
+      "factsAdvanced": [
+        "Fungierte primär als militärischer Frühwarnposten.",
+        "Wurde von den Truppen König Henri Christophes besetzt.",
+        "Kaum sichtbare Steinarchitektur im dichten Dschungel.",
+        "Besaß ein komplexes System für Signalfeuer.",
+        "Konnte nur von einer kleinen Einheit Soldaten gehalten werden.",
+        "Gilt als Geheimtipp für abenteuerlustige Wanderer."
+      ]
+    },
+    {
+      "id": "haiti-place-bowen-landmarks-v2",
+      "descriptionAdvanced": "Die Place Bowen ist ein kleiner, gepflegter Park, der der städtischen Bevölkerung einen ruhigen Rückzugsort bietet. Historisch war der Platz oft ein Ausgangspunkt für lokale Zivilproteste und bürgerliche Versammlungen, was ihm eine tiefe politische Bedeutung verleiht. Gesellschaft K7 — Zivile Versammlungsorte.",
+      "factsAdvanced": [
+        "Bekannt für seine alten, tief verwurzelten Bäume.",
+        "Oft als Treffpunkt für politische Diskussionen genutzt.",
+        "Benannt zu Ehren eines lokalen Gemeindeführers.",
+        "Umgeben von kleinen Cafés und Kunsthandwerkern.",
+        "Das Zentrum ziert ein kleiner, oft trockener Brunnen.",
+        "Schauplatz friedlicher Demonstrationen in der Vergangenheit."
+      ]
+    },
+    {
+      "id": "haiti-maison-dufresne-landmarks-v2",
+      "descriptionAdvanced": "Die Maison Dufresne ist ein Paradebeispiel für die berühmte haitianische Lebkuchenhaus-Architektur (Gingerbread Style). Mit ihren aufwendigen Holzverzierungen und steilen Dächern repräsentiert sie den eleganten Wohnstil der haitianischen Oberschicht am Ende des 19. Jahrhunderts. Architektur K8 — Der Gingerbread-Stil.",
+      "factsAdvanced": [
+        "Ein klassisches Beispiel der haitianischen Gingerbread-Architektur.",
+        "Gebaut Ende des 19. Jahrhunderts von wohlhabenden Händlern.",
+        "Verfügt über komplexe, handgeschnitzte Holzverzierungen.",
+        "Die Holzkonstruktion machte es extrem erdbebenresistent.",
+        "Verfügt über ein typisch steiles, spitzes Dach.",
+        "Wurde in mehrere internationale Architekturbücher aufgenommen."
+      ]
+    },
+    {
+      "id": "haiti-fort-bel-air-landmarks-v2",
+      "descriptionAdvanced": "Fort Bel-Air ist ein historisches Verteidigungswerk, das strategisch auf einem Hügel erbaut wurde, um den Zugang zur Küstenebene zu kontrollieren. Es zeugt von den ständigen militärischen Anstrengungen der frühen Republik, ihre hart erkämpfte Unabhängigkeit zu schützen. Geschichte K7 — Die Sicherung der Republik.",
+      "factsAdvanced": [
+        "Erbaut auf einer strategischen Anhöhe (Bel-Air).",
+        "Diente der Abwehr von landeinwärts rückenden Feinden.",
+        "Die Mauern bestehen aus einem dicken Kalk-Stein-Gemisch.",
+        "Verfügte über Kasematten für bis zu 100 Soldaten.",
+        "Wurde im 20. Jahrhundert als lokales Gefängnis genutzt.",
+        "Heute von der Natur fast vollständig zurückerobert."
+      ]
+    },
+    {
+      "id": "haiti-kiosque-occitant-landmarks-v2",
+      "descriptionAdvanced": "Der Kiosque Occitant ist ein wunderschöner Musikpavillon auf einem der Hauptplätze der Stadt, der einst das kulturelle Zentrum für Sonntagszeremonien und Militärkapellen war. Er symbolisiert die enge Verbindung von Musik und öffentlichem Leben in der karibischen Kultur. Kunst K6 — Musik im öffentlichen Raum.",
+      "factsAdvanced": [
+        "Ein klassischer gusseiserner Musikpavillon.",
+        "Wurde im späten 19. Jahrhundert aus Europa importiert.",
+        "Zentrum für Sonntags-Konzerte der lokalen Militärkapelle.",
+        "Die filigranen Verzierungen sind im Jugendstil gehalten.",
+        "Dient heute oft als Schattenspender für Spaziergänger.",
+        "Wichtiger Treffpunkt während nationaler Feiertage."
+      ]
+    },
+    {
+      "id": "haiti-monument-pétion-landmarks-v2",
+      "descriptionAdvanced": "Das Pétion Denkmal ehrt Alexandre Pétion, den ersten Präsidenten der südlichen Republik Haiti und einen Verfechter demokratischer Ideale. Es steht als Symbol für die Spaltung, aber auch für den visionären Geist der frühen haitianischen Staatsgründer. Geschichte K8 — Die Gründer der Nation.",
+      "factsAdvanced": [
+        "Ehrt Alexandre Pétion, den Gründer der Süd-Republik.",
+        "Pétion unterstützte auch Simón Bolívar in Südamerika.",
+        "Das Denkmal zeigt ihn in würdevoller ziviler Kleidung.",
+        "Es befindet sich auf dem Place Pétion in Port-au-Prince.",
+        "Ein Ort großer politischer und historischer Bedeutung.",
+        "Symbolisiert die demokratischen Wurzeln des Landes."
+      ]
+    },
+    {
+      "id": "haiti-fort-brossard-landmarks-v2",
+      "descriptionAdvanced": "Fort Brossard ist ein massives Küstenfort, das zur Sicherung der Bucht vor Piraten und rivalisierenden Kolonialmächten errichtet wurde. Die verrosteten Kanonen, die noch immer auf das offene Meer gerichtet sind, erzählen von einer Zeit permanenter maritimer Bedrohung. Geschichte K7 — Küstenschutz im 18. Jahrhundert.",
+      "factsAdvanced": [
+        "Sicherte eine der tiefsten Buchten der Region.",
+        "Erbaut von französischen Militäringenieuren.",
+        "War mit mehreren Reihen schwerer Artillerie bestückt.",
+        "Wurde während der Revolution teilweise gesprengt.",
+        "Einige der originalen Bronzekanonen sind noch vorhanden.",
+        "Die Festungsmauern fallen direkt steil ins Meer ab."
+      ]
+    },
+    {
+      "id": "haiti-place-toussaint-landmarks-v2",
+      "descriptionAdvanced": "Die Place Toussaint Louverture ist einer der bedeutendsten öffentlichen Plätze des Landes, gewidmet dem großen Vorreiter der haitianischen Unabhängigkeit. Der weitläufige Platz ist das Herzstück vieler politischer Reden und ein ewiges Symbol für den Freiheitskampf. Geschichte K6 — Öffentliches Gedenken.",
+      "factsAdvanced": [
+        "Gewidmet dem Helden Toussaint Louverture.",
+        "Zentraler Veranstaltungsort für den Unabhängigkeitstag.",
+        "Oft Startpunkt für politische Demonstrationen.",
+        "Umgeben von wichtigen Regierungsgebäuden.",
+        "Die Statue in der Mitte zeigt Louverture mit dem Unabhängigkeitsdekret.",
+        "Wurde nach dem Erdbeben umfassend restauriert."
+      ]
+    },
+    {
+      "id": "haiti-fort-st-joseph-landmarks-v2",
+      "descriptionAdvanced": "Fort St. Joseph war eine abgelegene, aber entscheidende Bergfestung, die die Schmuggelrouten und Pässe zur Dominikanischen Republik kontrollierte. Seine Ruinen sind ein Zeugnis der komplexen Grenzkonflikte, die die Insel Hispaniola über Jahrhunderte geprägt haben. Geschichte K7 — Grenzkontrolle und Befestigung.",
+      "factsAdvanced": [
+        "Erbaut in der Nähe der dominikanischen Grenze.",
+        "Kontrollierte wichtige Bergpässe und Schmuggelrouten.",
+        "Benannt nach dem Schutzheiligen der Zimmerleute.",
+        "Wurde oft von rivalisierenden Truppenverbänden belagert.",
+        "Die Mauern weisen Einschusslöcher aus dem 19. Jahrhundert auf.",
+        "Heute ein wenig besuchtes, aber wichtiges historisches Areal."
+      ]
+    },
+    {
+      "id": "parc-national-macaya-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Pic Macaya im Massif de la Hotte ist eines der letzten Rückzugsgebiete für Haitis primären Nebelwald. Die dichte Vegetation beherbergt eine unglaubliche Vielfalt an endemischen Orchideen, seltenen Fröschen und bedrohten Säugetieren wie dem Zagouti. Ökologie K8 — Tropische Nebelwälder.",
+      "factsAdvanced": [
+        "Einer der beiden größten Nationalparks Haitis.",
+        "Heimat des stark gefährdeten Haiti-Hutia (Zagouti).",
+        "Der Pic Macaya erreicht eine Höhe von 2.347 Metern.",
+        "Beherbergt über 100 endemische Orchideenarten.",
+        "Ist ein wichtiger Wasserspeicher für den gesamten Süden.",
+        "Das Biosphärenreservat ist stark durch illegale Abholzung bedroht."
+      ]
+    },
+    {
+      "id": "parc-national-la-visite-life-v2",
+      "descriptionAdvanced": "Der Nationalpark La Visite, südlich von Port-au-Prince gelegen, ist berühmt für seine weiten Hispaniola-Kiefernwälder und tiefen Karsthöhlen. Trotz starker Entwaldung in den Randgebieten bleibt der Park ein unverzichtbarer Lebensraum für bedrohte Vogelarten und seltene Reptilien. Ökologie K7 — Bergökosysteme.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1983 zum Schutz der Bergwälder.",
+        "Teil des Gebirgszugs Massif de la Selle.",
+        "Die Hispaniola-Kiefer ist die dominierende Baumart.",
+        "Heimat des extrem seltenen Schwarzscheitel-Palmtangare (Vogel).",
+        "Befindet sich auf einer durchschnittlichen Höhe von über 2.000 Metern.",
+        "Die tiefen Schluchten im Park sind bei Höhlenforschern bekannt."
+      ]
+    },
+    {
+      "id": "foret-des-pins-life-v2",
+      "descriptionAdvanced": "Das Forêt des Pins Reservat an der östlichen Grenze ist Haitis größtes zusammenhängendes Nadelwaldgebiet. Die kühle, neblige Luft und der Duft von Kiefernnadeln bilden einen scharfen Kontrast zum tropischen Tiefland und unterstützen ein einzigartiges, isoliertes Ökosystem. Biologie K6 — Alpine Nadelwälder.",
+      "factsAdvanced": [
+        "Haitis größtes zusammenhängendes Kiefernwaldgebiet.",
+        "Das Mikroklima ist oft feucht und sehr kühl.",
+        "Leidet stark unter illegaler Holzkohleproduktion.",
+        "Wichtiger Lebensraum für den Hispaniola-Kreuzschnabel.",
+        "Dient als natürliche Barriere zur Dominikanischen Republik.",
+        "Internationale Projekte versuchen, den Wald hier aufzuforsten."
+      ]
+    },
+    {
+      "id": "plaine-artibonite-agri-life-v2",
+      "descriptionAdvanced": "Die Artibonite-Ebene ist die wichtigste Kornkammer Haitis, geprägt durch das gigantische Bewässerungssystem des Artibonite-Flusses. Hier wird der Großteil des haitianischen Reises angebaut, was die Region zur Lebensader für die Ernährungssicherheit des gesamten Landes macht. Landwirtschaft K8 — Reisanbau und Bewässerung.",
+      "factsAdvanced": [
+        "Die größte und fruchtbarste Ebene in Haiti.",
+        "Zentrum der nationalen Reisproduktion.",
+        "Wird vom längsten Fluss der Insel, dem Artibonite, bewässert.",
+        "Der Peligre-Staudamm reguliert die Wasserversorgung der Region.",
+        "Die Böden sind extrem reich an Schwemmland-Nährstoffen.",
+        "Konkurriert oft mit billigen Reisimporten aus dem Ausland."
+      ]
+    },
+    {
+      "id": "cotes-de-fer-agri-life-v2",
+      "descriptionAdvanced": "Côtes-de-Fer ist nicht nur für seine raue Küste bekannt, sondern auch für den intensiven Anbau von robustem Kaffee und seltenen Heilkräutern im hügeligen Hinterland. Die Landwirte hier nutzen traditionelle agroforstwirtschaftliche Methoden, um dem trockenen Klima zu trotzen. Landwirtschaft K6 — Agroforstwirtschaft.",
+      "factsAdvanced": [
+        "Die Kaffeepflanzen werden unter großen Schattenbäumen angebaut.",
+        "Die Region leidet oft unter längeren Dürreperioden.",
+        "Wichtiger Produzent von Rizinusöl und traditionellen Heilkräutern.",
+        "Lokale Kooperativen dominieren den Kaffeehandel.",
+        "Die Ernte wird fast ausschließlich per Hand durchgeführt.",
+        "Ein Großteil der Ernte wird direkt in den Export gegeben."
+      ]
+    },
+    {
+      "id": "jardin-botanique-cayes-life-v2",
+      "descriptionAdvanced": "Der Botanische Garten in Les Cayes dient als ökologische Arche Noah für die Pflanzenwelt der Tiburon-Halbinsel. Er schützt nicht nur seltene Palmen und Heilpflanzen, sondern dient auch als Versuchslabor für nachhaltige landwirtschaftliche Techniken in Zeiten des Klimawandels. Umweltkunde K7 — Pflanzenschutz und Forschung.",
+      "factsAdvanced": [
+        "Fungiert als Samenbank für bedrohte haitianische Pflanzen.",
+        "Besitzt eine große Sammlung von Heil- und Aromapflanzen.",
+        "Fördert das Wissen über traditionelle haitianische Pflanzenmedizin.",
+        "Zieht Forscher aus der ganzen Welt an.",
+        "Organisiert Baum-Pflanz-Initiativen in der umliegenden Region.",
+        "Ein wichtiges Projekt zur Bekämpfung der Entwaldung."
+      ]
+    },
+    {
+      "id": "ferme-ecologique-jacmel-life-v2",
+      "descriptionAdvanced": "Der Ökologische Bauernhof bei Jacmel ist ein Vorzeigeprojekt für nachhaltige Landwirtschaft in der Karibik. Hier werden Permakultur, organische Kompostierung und der Anbau von Kakao in Mischkulturen kombiniert, um die ausgelaugten Böden zu regenerieren. Ökologie K8 — Nachhaltige Permakultur.",
+      "factsAdvanced": [
+        "Ein Modellprojekt für organische Landwirtschaft in Haiti.",
+        "Nutzt Mischkulturen aus Kakao, Bananen und Edelhölzern.",
+        "Verzichtet komplett auf chemische Pestizide und Dünger.",
+        "Schult lokale Bauern in Techniken der Permakultur.",
+        "Die Kakaoernte wird zu hochwertiger organischer Schokolade verarbeitet.",
+        "Fördert die Rückkehr von bedrohten Insekten und Vögeln auf die Felder."
+      ]
+    }
+  ]
+}

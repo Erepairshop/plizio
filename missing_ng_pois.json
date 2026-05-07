@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "ng-lagos-city-cities-v2",
+    "name": "Lagos",
+    "type": "city",
+    "description": "Lagos is the most populous city in Nigeria and the largest financial and economic center in West Africa.",
+    "facts": "\"Former capital of Nigeria.\", \"Located on the coast of the Gulf of Guinea.\""
+  },
+  {
+    "id": "ng-kano-city-cities-v2",
+    "name": "Kano",
+    "type": "state-capital",
+    "description": "The metropolis of Kano is the historical trading center of Northern Nigeria with centuries-old city walls.",
+    "facts": "\"One of the oldest emirates.\", \"Center of leather and textile production.\""
+  },
+  {
+    "id": "ng-ibadan-cities-v2",
+    "name": "Ibadan",
+    "type": "state-capital",
+    "description": "Ibadan is a vast Yoruba city famous for the Cocoa House and the country's first university.",
+    "facts": "\"Third largest city by land area.\", \"Major agricultural trading point.\""
+  },
+  {
+    "id": "ng-port-harcourt-cities-v2",
+    "name": "Port Harcourt",
+    "type": "state-capital",
+    "description": "Port Harcourt, often called the Garden City, is the heart of the Nigerian oil industry in the Niger Delta.",
+    "facts": "\"Founded in 1912.\", \"Has a major seaport.\""
+  },
+  {
+    "id": "ng-benin-city-cities-v2",
+    "name": "Benin City",
+    "type": "state-capital",
+    "description": "Benin City is the center of the historical Benin Kingdom, globally appreciated for its bronze artwork.",
+    "facts": "\"Known for the Benin Bronzes.\", \"Center of the rubber industry.\""
+  },
+  {
+    "id": "ng-kaduna-city-cities-v2",
+    "name": "Kaduna",
+    "type": "state-capital",
+    "description": "The strategically located settlement of Kaduna is a major riverside trade hub connecting the North and South.",
+    "facts": "\"Major northern industrial center.\", \"Named after the crocodiles in the river.\""
+  },
+  {
+    "id": "ng-jos-cities-v2",
+    "name": "Jos",
+    "type": "state-capital",
+    "description": "Located on a cool high plateau, Jos developed into a multicultural mining city due to tin extraction.",
+    "facts": "\"Popular destination for domestic tourism.\", \"Center of the mining industry.\""
+  },
+  {
+    "id": "ng-ilorin-cities-v2",
+    "name": "Ilorin",
+    "type": "state-capital",
+    "description": "Ilorin serves as a bridge between the Yoruba culture in the south and the Islamic influences from the north.",
+    "facts": "\"Large central mosque.\", \"Center of traditional pottery.\""
+  },
+  {
+    "id": "ng-maiduguri-cities-v2",
+    "name": "Maiduguri",
+    "type": "state-capital",
+    "description": "Maiduguri is the gateway to the Lake Chad region and a major historical Islamic center of learning.",
+    "facts": "\"Capital of Borno State.\", \"Terminus of the northern railway line.\""
+  },
+  {
+    "id": "ng-enugu-city-cities-v2",
+    "name": "Enugu",
+    "type": "state-capital",
+    "description": "The coal city of Enugu was formerly the colonial coal mining center and is today an Igbo cultural hub.",
+    "facts": "\"Former capital of the Republic of Biafra.\", \"Center of the Nollywood film industry.\""
+  },
+  {
+    "id": "ng-zaria-cities-v2",
+    "name": "Zaria",
+    "type": "city",
+    "description": "Zaria is an ancient Hausa city and home to Ahmadu Bello University, the largest university in Northern Nigeria.",
+    "facts": "\"One of the original seven Hausa city-states.\", \"Traditional agricultural region.\""
+  },
+  {
+    "id": "ng-aba-cities-v2",
+    "name": "Aba",
+    "type": "city",
+    "description": "Aba is the most productive commercial and industrial center of the southeast, known for its huge markets and textiles.",
+    "facts": "\"Known as the 'Taiwan of Africa'.\", \"Famous for the Ariaria market.\""
+  },
+  {
+    "id": "ng-onitsha-cities-v2",
+    "name": "Onitsha",
+    "type": "city",
+    "description": "Onitsha hosts what is arguably West Africa's largest open-air market and is a vital river port on the Niger.",
+    "facts": "\"Main transit hub for goods.\", \"Located directly on the Niger River.\""
+  },
+  {
+    "id": "ng-warri-cities-v2",
+    "name": "Warri",
+    "type": "city",
+    "description": "The coastal center of Warri benefits massively from the petrochemical industry and port facilities in the Niger Delta.",
+    "facts": "\"Home to a major oil refinery.\", \"Traditional kingdom of the Itsekiri people.\""
+  },
+  {
+    "id": "ng-sokoto-city-cities-v2",
+    "name": "Sokoto",
+    "type": "state-capital",
+    "description": "As the seat of the Sultan, Sokoto is the spiritual center for Nigerian Muslims and a historical caliphate.",
+    "facts": "\"Headquarters of the Sokoto Caliphate.\", \"Located in a hot, arid zone.\""
+  },
+  {
+    "id": "ng-calabar-cities-v2",
+    "name": "Calabar",
+    "type": "state-capital",
+    "description": "Calabar charms visitors with its clean air, colonial architecture, and colorful annual street carnival.",
+    "facts": "\"Former capital of the protectorate.\", \"Hub of Nigerian tourism.\""
+  },
+  {
+    "id": "ng-uyo-cities-v2",
+    "name": "Uyo",
+    "type": "state-capital",
+    "description": "Uyo presents itself as one of the fastest-growing and cleanest cities in the oil-rich south of Nigeria.",
+    "facts": "\"Known for the Godswill Akpabio Stadium.\", \"Rapidly growing infrastructure.\""
+  },
+  {
+    "id": "ng-ado-ekiti-cities-v2",
+    "name": "Ado Ekiti",
+    "type": "state-capital",
+    "description": "Ado-Ekiti is the historical center of the Ekiti people, surrounded by rugged hills and a vibrant academic community.",
+    "facts": "\"Center of Yoruba culture.\", \"Significant agricultural production of yams.\""
+  },
+  {
+    "id": "ng-akure-cities-v2",
+    "name": "Akure",
+    "type": "state-capital",
+    "description": "Akure owes its wealth to cocoa farming and combines village charm with urban expansion.",
+    "facts": "\"Major cocoa trading center.\", \"Rapid population growth.\""
+  },
+  {
+    "id": "ng-abeokuta-cities-v2",
+    "name": "Abeokuta",
+    "type": "state-capital",
+    "description": "The rock city of Abeokuta is dominated by the massive Olumo Rock, which served as a historical fortress.",
+    "facts": "\"Name translates to 'Refuge under rocks'.\", \"Center of traditional Adire textiles.\""
+  },
+  {
+    "id": "ng-osogbo-cities-v2",
+    "name": "Osogbo",
+    "type": "state-capital",
+    "description": "Osogbo is world-famous for its sacred grove, a UNESCO World Heritage site dedicated to the goddess Osun.",
+    "facts": "\"Hosts the annual Osun-Osogbo festival.\", \"Center for Yoruba art and culture.\""
+  },
+  {
+    "id": "ng-bauchi-city-cities-v2",
+    "name": "Bauchi",
+    "type": "state-capital",
+    "description": "The peaceful city of Bauchi serves as the gateway to the Yankari National Park and has a rich Islamic heritage.",
+    "facts": "\"Tomb of the first prime minister.\", \"Center of agriculture in the northeast.\""
+  },
+  {
+    "id": "ng-owerri-cities-v2",
+    "name": "Owerri",
+    "type": "state-capital",
+    "description": "Owerri is known as the entertainment capital of Nigeria, offering an immense density of hotels and nightlife.",
+    "facts": "\"High concentration of educational institutions.\", \"Heart of the Igbo culture.\""
+  },
+  {
+    "id": "ng-yola-cities-v2",
+    "name": "Yola",
+    "type": "state-capital",
+    "description": "Located on the Benue River, Yola is the administrative heart of Adamawa State and home to the American University.",
+    "facts": "\"Twin city with Jimeta.\", \"Important agricultural area.\""
+  },
+  {
+    "id": "ng-umuahia-cities-v2",
+    "name": "Umuahia",
+    "type": "state-capital",
+    "description": "Umuahia is an important transport hub for palm oil and agricultural products from the surrounding tropical forest.",
+    "facts": "\"War museum of the Biafran War.\", \"Centrally located in South East Nigeria.\""
+  },
+  {
+    "id": "ng-awka-cities-v2",
+    "name": "Awka",
+    "type": "state-capital",
+    "description": "Awka was historically known for its outstanding ironsmiths and has transformed into a vibrant administrative center.",
+    "facts": "\"Center of Igbo technology.\", \"Seat of Nnamdi Azikiwe University.\""
+  },
+  {
+    "id": "ng-yenagoa-cities-v2",
+    "name": "Yenagoa",
+    "type": "state-capital",
+    "description": "The water-rich city of Yenagoa lies amidst the mangrove swamps and coordinates the oil production of the Ijaw people.",
+    "facts": "\"Deeply rooted in fishing.\", \"Bordered by numerous creeks.\""
+  },
+  {
+    "id": "ng-makurdi-cities-v2",
+    "name": "Makurdi",
+    "type": "state-capital",
+    "description": "Makurdi is a major military base and the epicenter for the massive agricultural yields of the Benue plains.",
+    "facts": "\"Home to a major Air Force base.\", \"Located on the banks of the River Benue.\""
+  },
+  {
+    "id": "ng-asaba-cities-v2",
+    "name": "Asaba",
+    "type": "state-capital",
+    "description": "Asaba offers a grand view of the Niger River and acts as the western gateway to the Igbo heartland.",
+    "facts": "\"Site of a tragic massacre in 1967.\", \"Connected to Onitsha by a bridge.\""
+  },
+  {
+    "id": "ng-abakaliki-cities-v2",
+    "name": "Abakaliki",
+    "type": "state-capital",
+    "description": "Thanks to modern infrastructure projects, Abakaliki has transformed from an agricultural center into a rapidly modernizing metropolis.",
+    "facts": "\"Center of rice cultivation.\", \"Known for limestone deposits.\""
+  },
+  {
+    "id": "ng-gombe-city-cities-v2",
+    "name": "Gombe",
+    "type": "state-capital",
+    "description": "Gombe acts as a commercial hub for the surrounding savanna region and links agricultural communities.",
+    "facts": "\"Often called the 'Jewel in the Savannah'.\", \"Important producer of groundnuts.\""
+  },
+  {
+    "id": "ng-dutse-cities-v2",
+    "name": "Dutse",
+    "type": "state-capital",
+    "description": "Dutse is surrounded by striking rocky hills that give the city its name and shape the cityscape.",
+    "facts": "\"Name means 'rock' in Hausa.\", \"Has a growing federal university.\""
+  },
+  {
+    "id": "ng-katsina-city-cities-v2",
+    "name": "Katsina",
+    "type": "state-capital",
+    "description": "The walled city of Katsina looks back on a long tradition as a center for Islamic scholarship and trade.",
+    "facts": "\"Host of Durbar festivals.\", \"A significant northern emirate.\""
+  },
+  {
+    "id": "ng-birnin-kebbi-cities-v2",
+    "name": "Birnin Kebbi",
+    "type": "state-capital",
+    "description": "Birnin Kebbi benefits from the Argungu fishing festival and the heavy agricultural use of the river plains.",
+    "facts": "\"Historical center of the Kebbi Empire.\", \"Strong rice production.\""
+  },
+  {
+    "id": "ng-lokoja-cities-v2",
+    "name": "Lokoja",
+    "type": "state-capital",
+    "description": "Lokoja marks the geographical junction of Nigeria where the mighty Niger and Benue rivers merge.",
+    "facts": "\"First administrative capital of Nigeria.\", \"Important river port.\""
+  },
+  {
+    "id": "ng-lafia-cities-v2",
+    "name": "Lafia",
+    "type": "state-capital",
+    "description": "Lafia acts as an agricultural collection point for the fertility of Nasarawa State and has a busy railway connection.",
+    "facts": "\"Founded in the 19th century.\", \"Center of local yam trade.\""
+  },
+  {
+    "id": "ng-minna-cities-v2",
+    "name": "Minna",
+    "type": "state-capital",
+    "description": "The quiet city of Minna is favored by former military presidents and is situated on a central railway line.",
+    "facts": "\"Home to many retired generals.\", \"Important hub for cattle rearing.\""
+  },
+  {
+    "id": "ng-jalingo-cities-v2",
+    "name": "Jalingo",
+    "type": "state-capital",
+    "description": "Nestled in hilly landscapes, Jalingo administers the multi-faceted Taraba State, known for the Mambilla Plateau.",
+    "facts": "\"Gateway to tea production in Nigeria.\", \"Center of the Muri Emirate culture.\""
+  },
+  {
+    "id": "ng-damaturu-cities-v2",
+    "name": "Damaturu",
+    "type": "state-capital",
+    "description": "Damaturu is located on the edge of the Sahel and is an important market center for herders in Northeast Nigeria.",
+    "facts": "\"Capital since 1991.\", \"Located on the highway to Maiduguri.\""
+  },
+  {
+    "id": "ng-gusau-cities-v2",
+    "name": "Gusau",
+    "type": "state-capital",
+    "description": "Gusau is the agrarian heart of Zamfara, whose economy is heavily influenced by agriculture and emerging mining.",
+    "facts": "\"Significant center for gold mining.\", \"First state to introduce Sharia law.\""
+  },
+  {
+    "id": "ng-sapele-cities-v2",
+    "name": "Sapele",
+    "type": "city",
+    "description": "Known for its plywood industry and river ports, Sapele is an economically active logging town in the delta.",
+    "facts": "\"Home to African Timber and Plywood.\", \"Important for timber export.\""
+  },
+  {
+    "id": "ng-ughelli-cities-v2",
+    "name": "Ughelli",
+    "type": "city",
+    "description": "Ughelli functions as a power plant hub in the delta, supplying electricity to large parts of the country from gas reserves.",
+    "facts": "\"Major power plant on site.\", \"Shaped by Urhobo culture.\""
+  },
+  {
+    "id": "ng-gboko-cities-v2",
+    "name": "Gboko",
+    "type": "city",
+    "description": "Cement production and a thriving agricultural trade make Gboko the unofficial capital of the Tiv people.",
+    "facts": "\"Large Dangote cement factory.\", \"Center of Tiv traditions.\""
+  },
+  {
+    "id": "ng-okene-cities-v2",
+    "name": "Okene",
+    "type": "city",
+    "description": "Okene is deeply rooted in Ebira culture and historically known for its artistic woven fabrics and textiles.",
+    "facts": "\"Home of the Ebira people.\", \"Known for the traditional loom.\""
+  },
+  {
+    "id": "ng-ijebu-ode-cities-v2",
+    "name": "Ijebu-Ode",
+    "type": "city",
+    "description": "This old trading center boasts the Ojude Oba festival, celebrating Yoruba elegance and community spirit.",
+    "facts": "\"Historical capital of the Ijebu Kingdom.\", \"Major annual Muslim festival.\""
+  },
+  {
+    "id": "ng-sagamu-cities-v2",
+    "name": "Sagamu",
+    "type": "city",
+    "description": "As a kola nut capital, Sagamu dominates the local agricultural market, complemented by a thriving cement production.",
+    "facts": "\"Largest market for kola nuts.\", \"Location of the Lafarge WAPCO factory.\""
+  },
+  {
+    "id": "ng-ogbomosho-cities-v2",
+    "name": "Ogbomosho",
+    "type": "city",
+    "description": "The sprawling city of Ogbomosho combines rich agricultural traditions with the academic life of a university.",
+    "facts": "\"Known for cashew nut cultivation.\", \"Seat of the Ladoke Akintola University.\""
+  },
+  {
+    "id": "ng-oyo-city-cities-v2",
+    "name": "Oyo",
+    "type": "city",
+    "description": "Oyo was once the center of the powerful Oyo Empire and still preserves the Alaafin's palace today.",
+    "facts": "\"Successor to Old Oyo.\", \"Traditional ruler is the Alaafin.\""
+  },
+  {
+    "id": "ng-iseyin-cities-v2",
+    "name": "Iseyin",
+    "type": "city",
+    "description": "Famous for the production of traditional Aso Oke fabrics, Iseyin is a cultural treasure of Yoruba weaving art.",
+    "facts": "\"Center of cotton processing.\", \"Situated in a picturesque hilly landscape.\""
+  },
+  {
+    "id": "ng-ilesa-cities-v2",
+    "name": "Ilesa",
+    "type": "city",
+    "description": "Ilesa is the historical heartland of the Ijesha people and was influential during the ancient wars.",
+    "facts": "\"Known for beer production.\", \"Gold deposits nearby.\""
+  },
+  {
+    "id": "ng-ife-cities-v2",
+    "name": "Ife",
+    "type": "city",
+    "description": "Ile-Ife is considered the spiritual birthplace of the Yoruba people and is world-renowned for its realistic ancient bronze heads.",
+    "facts": "\"Site of Obafemi Awolowo University.\", \"The Ooni of Ife is the spiritual head.\""
+  },
+  {
+    "id": "ng-owo-cities-v2",
+    "name": "Owo",
+    "type": "city",
+    "description": "Owo is located exactly between Edo and Yoruba cultures and has a rich archaeological and architectural heritage.",
+    "facts": "\"Significant excavation center.\", \"Influenced by the Benin Kingdom.\""
+  },
+  {
+    "id": "ng-ondo-city-cities-v2",
+    "name": "Ondo",
+    "type": "city",
+    "description": "Ondo City flourishes thanks to timber trade and cocoa plantations that sustainably support local economic growth.",
+    "facts": "\"Has a medical university.\", \"Center of the Ondo Kingdom.\""
+  },
+  {
+    "id": "ng-uromi-cities-v2",
+    "name": "Uromi",
+    "type": "city",
+    "description": "Uromi is the most populous city in the Esan area and an important trade hub for farmers.",
+    "facts": "\"Center of Esan culture.\", \"Agricultural focus on rubber.\""
+  },
+  {
+    "id": "ng-kafanchan-cities-v2",
+    "name": "Kafanchan",
+    "type": "city",
+    "description": "Thanks to its location, Kafanchan developed into the most important railway junction for passengers and goods in central Nigeria.",
+    "facts": "\"Convergence of multiple railway lines.\", \"Cool climate similar to Jos.\""
+  },
+  {
+    "id": "ng-jimeta-cities-v2",
+    "name": "Jimeta",
+    "type": "city",
+    "description": "Jimeta shares urban functions with Yola and houses most of the administration and markets.",
+    "facts": "\"Port on the Benue River.\", \"Became an independent municipality in 1980.\""
+  },
+  {
+    "id": "ng-mubi-cities-v2",
+    "name": "Mubi",
+    "type": "city",
+    "description": "Mubi serves as a crucial trade hub on the border with Cameroon and processes regional agricultural products.",
+    "facts": "\"Large cattle market.\", \"Home to several tertiary educational institutions.\""
+  },
+  {
+    "id": "ng-bida-cities-v2",
+    "name": "Bida",
+    "type": "city",
+    "description": "The craftsmen of Bida are known throughout Nigeria for their exceptional skills in producing glass and brass work.",
+    "facts": "\"Center of the Nupe Kingdom.\", \"Famous for molten glass (Masaga).\""
+  },
+  {
+    "id": "apapa-port-complex-economic-v2",
+    "name": "Apapa Port Complex",
+    "type": "port",
+    "description": "The largest and most important port in Nigeria, handling a large portion of the country's international trade.",
+    "facts": "\"Located in Lagos.\", \"Main container terminal.\""
+  },
+  {
+    "id": "tin-can-island-port-economic-v2",
+    "name": "Tin Can Island Port",
+    "type": "port",
+    "description": "A major seaport in Lagos that relieves the Apapa port and handles many RoRo ships.",
+    "facts": "\"Founded in 1997.\", \"Significant for vehicle imports.\""
+  },
+  {
+    "id": "onne-port-economic-v2",
+    "name": "Onne Port",
+    "type": "port",
+    "description": "A specialized port for the oil and gas industry, featuring one of the largest free trade zones for this sector in the world.",
+    "facts": "\"Focus on oil and gas.\", \"Located in the Onne Oil and Gas Free Zone.\""
+  },
+  {
+    "id": "port-harcourt-port-economic-v2",
+    "name": "Port of Port Harcourt",
+    "type": "port",
+    "description": "An important port in the Niger Delta, central to the export of petroleum products and import of industrial goods.",
+    "facts": "\"Located on the Bonny River.\", \"Opened in 1913.\""
+  },
+  {
+    "id": "calabar-port-economic-v2",
+    "name": "Calabar Port",
+    "type": "port",
+    "description": "A port that mainly serves eastern Nigeria and the neighboring landlocked countries.",
+    "facts": "\"In the Calabar Free Trade Zone.\", \"Historic slave port.\""
+  },
+  {
+    "id": "warri-port-economic-v2",
+    "name": "Warri Port",
+    "type": "port",
+    "description": "A river port in Warri that plays an important role in supporting the local oil industry.",
+    "facts": "\"Important for oil exports.\", \"On the Warri River.\""
+  },
+  {
+    "id": "lekki-deep-sea-port-economic-v2",
+    "name": "Lekki Deep Sea Port",
+    "type": "port",
+    "description": "Nigeria's most modern and deepest seaport, designed to handle large container ships.",
+    "facts": "\"Opened in 2023.\", \"One of the largest in West Africa.\""
+  },
+  {
+    "id": "koko-port-economic-v2",
+    "name": "Koko Port",
+    "type": "port",
+    "description": "A smaller port in Delta State that was historically significant and today primarily handles niche cargoes.",
+    "facts": "\"On the Benin River.\", \"Was a significant export port.\""
+  },
+  {
+    "id": "sapele-port-economic-v2",
+    "name": "Sapele Port",
+    "type": "port",
+    "description": "An inland port historically known for timber exports and today handles agricultural goods.",
+    "facts": "\"Historic logging port.\", \"Located in the Sapele region.\""
+  },
+  {
+    "id": "burutu-port-economic-v2",
+    "name": "Burutu Port",
+    "type": "port",
+    "description": "An old inland port founded by the Royal Niger Company, today primarily used locally.",
+    "facts": "\"Former headquarters of the Royal Niger Company.\", \"Important for local logistics.\""
+  },
+  {
+    "id": "escravos-terminal-economic-v2",
+    "name": "Escravos Terminal",
+    "type": "port",
+    "description": "A major oil and gas terminal in the Bight of Benin, operated by large multinational energy companies.",
+    "facts": "\"Important GTL (Gas-to-Liquids) project.\", \"Direct ocean export.\""
+  },
+  {
+    "id": "forcados-terminal-economic-v2",
+    "name": "Forcados Terminal",
+    "type": "port",
+    "description": "One of Nigeria's largest crude oil export terminals, shipping large volumes of oil to the global market.",
+    "facts": "\"Crude oil export.\", \"Located in the Niger Delta.\""
+  },
+  {
+    "id": "bonny-oil-terminal-economic-v2",
+    "name": "Bonny Oil Terminal",
+    "type": "port",
+    "description": "A massive transfer point for petroleum and liquefied natural gas (LNG), playing a key role in the Nigerian economy.",
+    "facts": "\"Center of LNG production.\", \"Large export port.\""
+  },
+  {
+    "id": "qua-iboe-terminal-economic-v2",
+    "name": "Qua Iboe Terminal",
+    "type": "port",
+    "description": "A major oil export facility in Akwa Ibom State where crude oil from offshore fields is collected.",
+    "facts": "\"Oil export.\", \"Collects offshore resources.\""
+  },
+  {
+    "id": "brass-terminal-economic-v2",
+    "name": "Brass Terminal",
+    "type": "port",
+    "description": "A historically important and still relevant oil terminal in the Brass region of the Niger Delta.",
+    "facts": "\"Formerly a palm oil port.\", \"Today crude oil export.\""
+  },
+  {
+    "id": "dangote-refinery-economic-v2",
+    "name": "Dangote Refinery",
+    "type": "industry",
+    "description": "The largest single-train oil refinery in the world, designed to drastically reduce Nigeria's reliance on fuel imports.",
+    "facts": "\"Located in the Lekki Free Zone.\", \"Capacity of 650,000 barrels/day.\""
+  },
+  {
+    "id": "port-harcourt-refinery-economic-v2",
+    "name": "Port Harcourt Refinery",
+    "type": "industry",
+    "description": "A complex of two refineries in Port Harcourt that is crucial for Nigeria's domestic fuel supply.",
+    "facts": "\"Oldest plant built in 1965.\", \"Comprises two main plants.\""
+  },
+  {
+    "id": "warri-refinery-economic-v2",
+    "name": "Warri Refinery",
+    "type": "industry",
+    "description": "A large oil refinery in Delta State that, in addition to gasoline and diesel, also produces petrochemical products.",
+    "facts": "\"Commissioned in 1978.\", \"Capacity of 125,000 barrels/day.\""
+  },
+  {
+    "id": "kaduna-refinery-economic-v2",
+    "name": "Kaduna Refinery",
+    "type": "industry",
+    "description": "The only oil refinery in northern Nigeria, designed to process heavy and light crude oil.",
+    "facts": "\"Opened in 1980.\", \"Supplies northern Nigeria.\""
+  },
+  {
+    "id": "ajaokuta-steel-mill-economic-v2",
+    "name": "Ajaokuta Steel Mill",
+    "type": "industry",
+    "description": "Nigeria's largest unfinished industrial project, a massive steel complex intended to drive the country's industrialization.",
+    "facts": "\"Construction began in 1979.\", \"Was never fully completed.\""
+  },
+  {
+    "id": "delta-steel-company-economic-v2",
+    "name": "Delta Steel Company",
+    "type": "industry",
+    "description": "A large steel plant in Aladja that uses direct reduction technology and is important for the construction sector.",
+    "facts": "\"Located in Aladja.\", \"Produces iron and steel.\""
+  },
+  {
+    "id": "obajana-cement-plant-economic-v2",
+    "name": "Obajana Cement Plant",
+    "type": "industry",
+    "description": "One of the largest cement plants in the world and the largest in Africa, operated by Dangote Cement.",
+    "facts": "\"Belongs to Dangote Cement.\", \"Huge production capacity.\""
+  },
+  {
+    "id": "ibese-cement-plant-economic-v2",
+    "name": "Ibese Cement Plant",
+    "type": "industry",
+    "description": "Another large Dangote cement plant in southwestern Nigeria that serves the high construction demand.",
+    "facts": "\"Located in Ogun.\", \"Expansions have doubled capacity.\""
+  },
+  {
+    "id": "gboko-cement-plant-economic-v2",
+    "name": "Gboko Cement Plant",
+    "type": "industry",
+    "description": "A centrally located cement plant in Benue State, important for the cement market in the middle regions of Nigeria.",
+    "facts": "\"Formerly Benue Cement Company.\", \"Produces for the Middle Belt.\""
+  },
+  {
+    "id": "mfamosing-cement-plant-economic-v2",
+    "name": "Mfamosing Cement Plant",
+    "type": "industry",
+    "description": "A state-of-the-art cement production facility in Cross River State, operated by LafargeHolcim.",
+    "facts": "\"Part of Lafarge Africa.\", \"Supplies eastern Nigeria.\""
+  },
+  {
+    "id": "bua-cement-sokoto-economic-v2",
+    "name": "BUA Cement Sokoto",
+    "type": "industry",
+    "description": "A major cement plant in northwestern Nigeria that plays a key role in the region's infrastructure development.",
+    "facts": "\"Belongs to BUA Group.\", \"Important for northwestern Nigeria.\""
+  },
+  {
+    "id": "lafarge-ashaka-cement-economic-v2",
+    "name": "Ashaka Cement Plant",
+    "type": "industry",
+    "description": "Known as 'The Star of the North', this plant supplies cement to northeastern Nigeria.",
+    "facts": "\"Located in Gombe State.\", \"Main supplier in the northeast.\""
+  },
+  {
+    "id": "ewekoro-cement-plant-economic-v2",
+    "name": "Ewekoro Cement Plant",
+    "type": "industry",
+    "description": "Nigeria's oldest cement plant still in operation, playing an important historical role in the construction industry.",
+    "facts": "\"Founded in 1959.\", \"The first in Nigeria.\""
+  },
+  {
+    "id": "okpella-cement-plant-economic-v2",
+    "name": "Okpella Cement Plant",
+    "type": "industry",
+    "description": "A cement plant in Edo State that has been revitalized and modernized in recent years.",
+    "facts": "\"Expanded by BUA and Dangote.\", \"In Edo State.\""
+  },
+  {
+    "id": "alscon-smelter-economic-v2",
+    "name": "ALSCON Smelter",
+    "type": "industry",
+    "description": "A large aluminum plant in Ikot Abasi designed to industrially utilize the region's vast natural gas reserves.",
+    "facts": "\"Located in Ikot Abasi.\", \"Uses local natural gas.\""
+  },
+  {
+    "id": "benin-city-walls-history-v2",
+    "name": "Benin City Walls",
+    "type": "historical",
+    "description": "A massive network of earthworks that once surrounded and protected the Kingdom of Benin.",
+    "facts": "\"Built starting in the 13th century.\", \"Partially destroyed by the British in 1897.\", \"One of the largest earthworks in the world.\""
+  },
+  {
+    "id": "sukur-cultural-landscape-history-v2",
+    "name": "Sukur Cultural Landscape",
+    "type": "historical",
+    "description": "A historic terraced landscape featuring the Palace of the Hidi, ritual terraced fields, and ancient architecture.",
+    "facts": "\"UNESCO World Heritage site since 1999.\", \"Famous for its iron smelting industry.\", \"Showcases traditions preserved over centuries.\""
+  },
+  {
+    "id": "osun-osogbo-sacred-grove-history-v2",
+    "name": "Osun-Osogbo Sacred Grove",
+    "type": "historical",
+    "description": "One of the last remnants of primary high forest in southern Nigeria, regarded as the abode of the goddess of fertility.",
+    "facts": "\"UNESCO World Heritage site since 2005.\", \"Contains numerous shrines and sculptures.\", \"Center of the annual Osun-Osogbo festival.\""
+  },
+  {
+    "id": "kano-city-walls-history-v2",
+    "name": "Kano City Walls",
+    "type": "historical",
+    "description": "Ancient defensive walls constructed to protect the inhabitants of the historical city of Kano.",
+    "facts": "\"Originally built in the 11th century.\", \"Expanded in the 16th century.\", \"Once over 14 kilometers long.\""
+  },
+  {
+    "id": "sungbos-eredo-history-v2",
+    "name": "Sungbo's Eredo",
+    "type": "historical",
+    "description": "A massive system of defensive walls and ditches built in the Ijebu Kingdom.",
+    "facts": "\"Built between 800 and 1000 AD.\", \"Covers a length of 160 kilometers.\", \"Associated with the Queen of Sheba in local legends.\""
+  },
+  {
+    "id": "olumo-rock-history-v2",
+    "name": "Olumo Rock",
+    "type": "historical",
+    "description": "A massive outcrop of granite rocks that served as a fortress for the Egba people during 19th-century intertribal wars.",
+    "facts": "\"Reaches a height of 137 meters.\", \"Means 'God has ended our troubles'.\", \"Important historical site in Abeokuta.\""
+  },
+  {
+    "id": "badagry-slave-port-history-v2",
+    "name": "Badagry Slave Port",
+    "type": "historical",
+    "description": "A historic port and route that served as a major transit point during the transatlantic slave trade.",
+    "facts": "\"Known as the 'Point of No Return'.\", \"Founded in the early 15th century.\", \"Preserves relics from the slavery era.\""
+  },
+  {
+    "id": "first-storey-building-history-v2",
+    "name": "First Storey Building",
+    "type": "historical",
+    "description": "The oldest storey building in Nigeria, built by Christian missionaries in Badagry.",
+    "facts": "\"Built in 1845.\", \"Served as residence for missionaries.\", \"Where the Bible was translated into Yoruba.\""
+  },
+  {
+    "id": "arochukwu-long-juju-history-v2",
+    "name": "Arochukwu Long Juju Shrine",
+    "type": "historical",
+    "description": "A temple and cave system that served as a shrine to Ibn Ukpabi and an oracle of judgment for the Aro people.",
+    "facts": "\"Important religious center of the Igbo people.\", \"Was destroyed during the colonial era.\", \"Features an underground flow of water.\""
+  },
+  {
+    "id": "national-war-museum-history-v2",
+    "name": "National War Museum",
+    "type": "historical",
+    "description": "A museum in Umuahia that preserves relics and history from the Nigerian Civil War.",
+    "facts": "\"Established in 1985.\", \"Exhibits the famous 'Ogbunigwe' bomb.\", \"Documents Biafra's military inventions.\""
+  },
+  {
+    "id": "nok-village-history-v2",
+    "name": "Nok Village",
+    "type": "historical",
+    "description": "The archaeological site where the first terracotta sculptures of the ancient Nok culture were discovered.",
+    "facts": "\"Artifacts date back to 1000 BC.\", \"Famous for highly developed clay figures.\", \"The Nok culture vanished around 300 AD.\""
+  },
+  {
+    "id": "owo-palace-history-v2",
+    "name": "Owo Palace",
+    "type": "historical",
+    "description": "The palace of the Olowo of Owo, which was once the largest palace in Africa with over 100 courtyards.",
+    "facts": "\"Built in the 14th century.\", \"Occupies a massive area of several hectares.\", \"Features complex traditional architecture.\""
+  },
+  {
+    "id": "idanre-hill-history-v2",
+    "name": "Idanre Hill",
+    "type": "historical",
+    "description": "A historical hill settlement that housed the ancient city of Idanre for over 800 years.",
+    "facts": "\"Requires climbing 682 steps.\", \"Houses the palace of the Owa.\", \"Inhabitants only moved down in the 20th century.\""
+  },
+  {
+    "id": "gidan-rumfa-history-v2",
+    "name": "Gidan Rumfa",
+    "type": "historical",
+    "description": "The historic palace of the Emir of Kano, an architectural masterpiece in the heart of the city.",
+    "facts": "\"Built in the late 15th century.\", \"Commissioned by Emir Muhammad Rumfa.\", \"Still serves as the royal residence today.\""
+  },
+  {
+    "id": "zaria-city-walls-history-v2",
+    "name": "Zaria City Walls",
+    "type": "historical",
+    "description": "Historical earthworks constructed for the defense of the ancient Zazzau Emirate.",
+    "facts": "\"Associated with the warrior Queen Amina.\", \"Date back to the 16th century.\", \"Feature several historical gates.\""
+  },
+  {
+    "id": "igbo-ukwu-history-v2",
+    "name": "Igbo-Ukwu Archaeological Site",
+    "type": "historical",
+    "description": "The discovery site of the oldest bronze artifacts in West Africa, indicating a highly developed ancient society.",
+    "facts": "\"Artifacts date to the 9th century.\", \"Bronze-casting technique was highly advanced.\", \"Shows no link to Arab influences.\""
+  },
+  {
+    "id": "oduduwa-shrine-history-v2",
+    "name": "Oduduwa Shrine",
+    "type": "historical",
+    "description": "A revered site in Ile-Ife dedicated to the mythical progenitor of the Yoruba people, Oduduwa.",
+    "facts": "\"Center of Yoruba mythology.\", \"Ile-Ife is considered the cradle of mankind in myth.\", \"Features ancient stone monuments.\""
+  },
+  {
+    "id": "kofar-mata-dyeing-pits-history-v2",
+    "name": "Kofar Mata Dyeing Pits",
+    "type": "historical",
+    "description": "Historic pits in Kano used for traditional indigo dyeing for over five centuries.",
+    "facts": "\"Established in 1498.\", \"Uses natural dyes from indigo plants.\", \"Was a vital part of the trans-Saharan trade.\""
+  },
+  {
+    "id": "esie-museum-history-v2",
+    "name": "Esie Museum",
+    "type": "historical",
+    "description": "The first museum in Nigeria, known for housing thousands of mysterious soapstone figures.",
+    "facts": "\"Opened in 1945.\", \"Houses the largest collection of soapstone images in the world.\", \"The origin of the figures remains a mystery.\""
+  },
+  {
+    "id": "dufuna-canoe-history-v2",
+    "name": "Dufuna Canoe Discovery Site",
+    "type": "historical",
+    "description": "The location where the oldest known boat in Africa, dating back approximately 8,000 years, was discovered.",
+    "facts": "\"Was found by a Fulani herdsman in 1987.\", \"Is the third oldest canoe in the world.\", \"Made from African mahogany wood.\""
+  },
+  {
+    "id": "mbari-cultural-centre-history-v2",
+    "name": "Mbari Cultural Centre",
+    "type": "historical",
+    "description": "An open-air shrine of the Igbo people decorated with traditional art and sculptures honoring earth goddesses.",
+    "facts": "\"Center of Igbo cultural heritage.\", \"Exhibits mud sculptures of local deities.\", \"Used not as a dwelling but as a monument.\""
+  },
+  {
+    "id": "surame-cultural-landscape-history-v2",
+    "name": "Surame Cultural Landscape",
+    "type": "historical",
+    "description": "The ruins of an ancient kingdom featuring unique stone walls and a rich Islamic history.",
+    "facts": "\"Considered one of the wonders of ancient settlement structure.\", \"Possesses complex defensive walls.\", \"Flourished in the 15th and 16th centuries.\""
+  },
+  {
+    "id": "mary-slessor-house-history-v2",
+    "name": "Mary Slessor's House",
+    "type": "historical",
+    "description": "The historic home of Scottish missionary Mary Slessor, who stopped the practice of killing twins.",
+    "facts": "\"Built in the 19th century.\", \"Mary Slessor lived in Calabar for many years.\", \"An important monument of colonial history.\""
+  },
+  {
+    "id": "lugard-hall-history-v2",
+    "name": "Lugard Hall",
+    "type": "historical",
+    "description": "A colonial government building that served as the seat of the historic House of Assembly of Northern Nigeria.",
+    "facts": "\"Named after Lord Frederick Lugard.\", \"Center of Northern Nigeria's political history.\", \"Architecture in the British colonial style.\""
+  },
+  {
+    "id": "mount-patti-history-v2",
+    "name": "Mount Patti",
+    "type": "historical",
+    "description": "A mountain in Lokoja where Lord Lugard stood and coined the name Nigeria for the region.",
+    "facts": "\"Lokoja was the first administrative capital.\", \"Offers a view of the confluence of the Niger and Benue rivers.\", \"Historic colonial base.\""
+  },
+  {
+    "id": "gobirau-minaret-history-v2",
+    "name": "Gobirau Minaret",
+    "type": "historical",
+    "description": "A historic towering minaret in Katsina that serves as a symbol of early Islamic education in the region.",
+    "facts": "\"Built in the 14th century using mud bricks.\", \"Part of Katsina's first central mosque.\", \"Once stood at 15 meters tall.\""
+  },
+  {
+    "id": "slave-history-museum-history-v2",
+    "name": "Slave History Museum",
+    "type": "historical",
+    "description": "A museum in Calabar dedicated to documenting the dark history of the slave trade in the region.",
+    "facts": "\"Located at the Marina Resort.\", \"Contains artifacts and replicas of slave ships.\", \"Commemorates the suffering of the enslaved.\""
+  },
+  {
+    "id": "chief-ekpo-bassey-house-history-v2",
+    "name": "Chief Ekpo Bassey's House",
+    "type": "historical",
+    "description": "A colonial building in Calabar that once belonged to the influential Chief and political leader Ekpo Bassey.",
+    "facts": "\"Built in 1882.\", \"An important national monument.\", \"Reflects the architecture of the pre-colonial elite.\""
+  },
+  {
+    "id": "amalgamation-house-history-v2",
+    "name": "Amalgamation House",
+    "type": "historical",
+    "description": "The historic building in Ikot Abasi where Northern and Southern Nigeria were officially amalgamated by Lord Lugard in 1914.",
+    "facts": "\"Site of the signing of the amalgamation document.\", \"Important milestone in Nigeria's history.\", \"Today a tourist destination in Akwa Ibom.\""
+  },
+  {
+    "id": "alok-ikom-monoliths-history-v2",
+    "name": "Alok Ikom Stone Monoliths",
+    "type": "historical",
+    "description": "Over 300 carved volcanic stones bearing human facial features, arranged in circles, serving as ancestral shrines.",
+    "facts": "\"Date back to around 200 AD.\", \"Feature inscriptions that have not yet been deciphered.\", \"On the UNESCO World Heritage tentative list.\""
+  },
+  {
+    "id": "national-mosque-abuja-landmarks-v2",
+    "name": "Nigerian National Mosque",
+    "type": "landmark",
+    "description": "The Nigerian National Mosque in the capital Abuja is one of the country's most visually striking buildings, featuring a golden dome and four minarets.",
+    "facts": "\"Built in 1984\", \"Features a golden main dome\", \"Can accommodate thousands of worshippers\", \"Also includes a library\""
+  },
+  {
+    "id": "national-christian-centre-abuja-landmarks-v2",
+    "name": "National Christian Centre",
+    "type": "landmark",
+    "description": "The National Christian Centre in Abuja, formerly known as the National Church of Nigeria, is a striking neo-gothic building and the center of Christian faith in the country.",
+    "facts": "\"Completed in 2005\", \"Neo-gothic architectural style\", \"Features colorful stained glass windows\", \"Located near the National Mosque\""
+  },
+  {
+    "id": "national-arts-theatre-lagos-landmarks-v2",
+    "name": "National Arts Theatre",
+    "type": "landmark",
+    "description": "The National Arts Theatre in Lagos is the primary center for the performing arts in Nigeria. The distinctive building is designed in the shape of a military hat.",
+    "facts": "\"Built in 1976 for the FESTAC festival\", \"Architecture resembles a military hat\", \"Main hall seats about 3,000 people\", \"Cultural landmark in Lagos\""
+  },
+  {
+    "id": "tafawa-balewa-square-landmarks-v2",
+    "name": "Tafawa Balewa Square",
+    "type": "landmark",
+    "description": "Tafawa Balewa Square in central Lagos is a historic square where Nigeria's independence was celebrated in 1960. It is surrounded by large monuments and buildings.",
+    "facts": "\"Named after the first Prime Minister\", \"Site of the 1960 independence celebration\", \"Can accommodate 50,000 people\", \"Known for its horse statues\""
+  },
+  {
+    "id": "third-mainland-bridge-landmarks-v2",
+    "name": "Third Mainland Bridge",
+    "type": "landmark",
+    "description": "The Third Mainland Bridge in Lagos is the longest bridge in Nigeria, measuring 11.8 kilometers in length. It connects Lagos Island to the mainland and is a masterpiece of engineering.",
+    "facts": "\"11.8 kilometers long\", \"Opened in 1990 by President Babangida\", \"Was once the longest bridge in Africa\", \"Major transportation artery in Lagos\""
+  },
+  {
+    "id": "lekki-ikoyi-link-bridge-landmarks-v2",
+    "name": "Lekki-Ikoyi Link Bridge",
+    "type": "landmark",
+    "description": "The Lekki-Ikoyi Link Bridge in Lagos is the first cable-stayed bridge in Nigeria. With its modern design, it has quickly become an iconic landmark of the city.",
+    "facts": "\"1.36 kilometers long\", \"First cable-stayed bridge in Nigeria\", \"Opened in 2013\", \"Popular spot for joggers in Lagos\""
+  },
+  {
+    "id": "necom-house-lagos-landmarks-v2",
+    "name": "NECOM House",
+    "type": "landmark",
+    "description": "NECOM House in Lagos is the tallest building in Nigeria. The distinctive skyscraper originally served as the headquarters of the Nigerian Telecommunications company.",
+    "facts": "\"160 meters tall\", \"32 stories\", \"Tallest building in Nigeria\", \"Completed in 1979\""
+  },
+  {
+    "id": "godswill-akpabio-stadium-landmarks-v2",
+    "name": "Godswill Akpabio Stadium",
+    "type": "landmark",
+    "description": "The Godswill Akpabio International Stadium in Uyo is an ultra-modern sports facility in Nigeria. It is also known as the 'Nest of Champions' due to its innovative net-like exterior design.",
+    "facts": "\"Seats 30,000 spectators\", \"Opened in the year 2014\", \"Design inspired by the Allianz Arena\", \"Home of the Nigerian national team\""
+  },
+  {
+    "id": "moshood-abiola-stadium-landmarks-v2",
+    "name": "Moshood Abiola National Stadium",
+    "type": "landmark",
+    "description": "The Moshood Abiola National Stadium in Abuja is one of the largest multi-purpose stadiums in Africa. It was built to host the 2003 All-Africa Games.",
+    "facts": "\"Seats over 60,000 people\", \"Opened in 2003\", \"Host of the All-Africa Games\", \"Renamed in 2019 after Moshood Abiola\""
+  },
+  {
+    "id": "central-bank-of-nigeria-hq-landmarks-v2",
+    "name": "Central Bank of Nigeria Headquarters",
+    "type": "landmark",
+    "description": "The Central Bank of Nigeria Headquarters in Abuja is a monumental office building and one of the tallest buildings in the capital, symbolizing Nigeria's economic power.",
+    "facts": "\"100-meter tall building\", \"Consists of four towers\", \"Completed in 2002\", \"Center of Nigerian financial policy\""
+  },
+  {
+    "id": "cathedral-church-of-christ-landmarks-v2",
+    "name": "Cathedral Church of Christ Lagos",
+    "type": "landmark",
+    "description": "The Cathedral Church of Christ on the Marina in Lagos is one of the oldest and most well-known Anglican cathedrals in Nigeria, famous for its classic architecture.",
+    "facts": "\"Foundation stone laid in 1925\", \"Seat of the Archbishop of Lagos\", \"Built in Norman Gothic style\", \"Houses a large pipe organ\""
+  },
+  {
+    "id": "ship-house-abuja-landmarks-v2",
+    "name": "Ministry of Defence (Ship House)",
+    "type": "landmark",
+    "description": "The Ship House in Abuja, which houses the Nigerian Ministry of Defence, is a unique architectural building shaped like a giant naval ship.",
+    "facts": "\"Shape resembles a ship\", \"Headquarters of the Ministry of Defence\", \"One of the landmarks of Abuja\", \"Shows Nigeria's military might\""
+  },
+  {
+    "id": "independence-house-lagos-landmarks-v2",
+    "name": "Independence House Lagos",
+    "type": "landmark",
+    "description": "The Independence House in Lagos was the first high-rise building constructed after Nigeria's independence in 1960. It stands as a symbol of national sovereignty.",
+    "facts": "\"Completed in 1961\", \"25 stories high\", \"Former Ministry of Defence headquarters\", \"Historic monument in Lagos\""
+  },
+  {
+    "id": "cocoa-house-ibadan-landmarks-v2",
+    "name": "Cocoa House Ibadan",
+    "type": "landmark",
+    "description": "The Cocoa House in Ibadan was financed in the 1960s from the proceeds of cocoa exports. It was the first skyscraper in tropical Africa.",
+    "facts": "\"105 meters tall\", \"26 stories\", \"Opened in 1965\", \"First skyscraper in West Africa\""
+  },
+  {
+    "id": "great-mosque-of-kano-landmarks-v2",
+    "name": "Great Mosque of Kano",
+    "type": "landmark",
+    "description": "The Great Mosque of Kano is an important religious building in northern Nigeria. The original mosque was built in the 15th century, with the current structure dating from the 1950s.",
+    "facts": "\"Current building from 1951\", \"Can hold 50,000 people\", \"Close to the Emir's Palace\", \"Center of Islam in Kano\""
+  },
+  {
+    "id": "mapo-hall-ibadan-landmarks-v2",
+    "name": "Mapo Hall",
+    "type": "landmark",
+    "description": "Mapo Hall in Ibadan is a historic colonial-style city hall built on Mapo Hill. It is a prominent landmark and symbol of local administration.",
+    "facts": "\"Completed in 1929\", \"Built in colonial style\", \"Seat of local government\", \"Offers views over all of Ibadan\""
+  },
+  {
+    "id": "mary-slessor-house-landmarks-v2",
+    "name": "Mary Slessor House",
+    "type": "landmark",
+    "description": "The Mary Slessor House in Calabar is a historic building where Scottish missionary Mary Slessor lived, known for advocating for women's rights and stopping the killing of twins.",
+    "facts": "\"Built in the late 19th century\", \"Residence of Mary Slessor\", \"A monument to her mission\", \"Important historical site\""
+  },
+  {
+    "id": "tinapa-resort-calabar-landmarks-v2",
+    "name": "Tinapa Resort",
+    "type": "landmark",
+    "description": "Tinapa Resort in Calabar is a massive business and leisure resort developed to boost trade and tourism in the region. It includes modern shopping centers and studios.",
+    "facts": "\"Opened in 2007\", \"Located in a free trade zone\", \"Features large film studios\", \"Was intended to be the Dubai of Africa\""
+  },
+  {
+    "id": "first-storey-building-badagry-landmarks-v2",
+    "name": "First Storey Building",
+    "type": "landmark",
+    "description": "This building in Badagry is considered the first two-story building in Nigeria. Built in 1845 by missionaries, it is now a popular historic tourist attraction.",
+    "facts": "\"Built in 1845 by missionaries\", \"Site of the first Bible translation\", \"First multi-story house in Nigeria\", \"Important colonial heritage\""
+  },
+  {
+    "id": "badagry-heritage-museum-landmarks-v2",
+    "name": "Badagry Heritage Museum",
+    "type": "landmark",
+    "description": "The Badagry Heritage Museum is housed in an old colonial building. It preserves the dark history of the transatlantic slave trade in the region.",
+    "facts": "\"Building from 1863\", \"Former District Officer's office\", \"Documents the slave trade\", \"Exhibits historical artifacts\""
+  },
+  {
+    "id": "oba-of-benin-palace-landmarks-v2",
+    "name": "Oba of Benin Palace",
+    "type": "landmark",
+    "description": "The Palace of the Oba of Benin in Benin City is the official residence of the traditional ruler of the Benin Kingdom. The grounds house a rich collection of art and history.",
+    "facts": "\"UNESCO World Heritage site\", \"Destroyed by British in 1897 and later rebuilt\", \"Center of Edo culture\", \"Preserves traditional bronze art\""
+  },
+  {
+    "id": "aso-villa-abuja-landmarks-v2",
+    "name": "Aso Villa",
+    "type": "landmark",
+    "description": "Aso Villa, also known as the State House, is the workplace and official residence of the President of Nigeria. It lies in the shadow of the impressive Aso Rock in Abuja.",
+    "facts": "\"Completed in 1991\", \"Residence of the President\", \"Heavily secured complex\", \"Named after Aso Rock\""
+  },
+  {
+    "id": "abuja-city-gate-landmarks-v2",
+    "name": "Abuja City Gate",
+    "type": "landmark",
+    "description": "The Abuja City Gate is a monumental arch that welcomes visitors on the main highway to the center of Abuja. It symbolizes the entrance to the Nigerian capital.",
+    "facts": "\"Monumental welcoming arch\", \"Located on the airport road\", \"Often illuminated at night\", \"Popular photo opportunity\""
+  },
+  {
+    "id": "gidan-rumfa-landmarks-v2",
+    "name": "Emir of Kano's Palace",
+    "type": "landmark",
+    "description": "Gidan Rumfa is the traditional palace of the Emir of Kano, built in the 15th century. It is a masterpiece of traditional Hausa architecture.",
+    "facts": "\"Built in the 15th century by Muhammad Rumfa\", \"Covers an area of 33 hectares\", \"Center of Kano traditions\", \"Houses thousands of residents\""
+  },
+  {
+    "id": "gidan-makama-museum-landmarks-v2",
+    "name": "Gidan Makama Museum",
+    "type": "landmark",
+    "description": "The Gidan Makama Museum in Kano is housed in a 500-year-old building that formerly served as a palace. It documents the long and rich history of the Kano Empire.",
+    "facts": "\"Located in a 15th-century building\", \"National monument of Nigeria\", \"Has 11 galleries\", \"Exhibits Hausa weapons and art\""
+  },
+  {
+    "id": "freedom-park-lagos-landmarks-v2",
+    "name": "Freedom Park Lagos",
+    "type": "landmark",
+    "description": "Freedom Park in Lagos was built on the site of the former colonial Broad Street Prison. Today, it is a memorial and a venue for cultural events.",
+    "facts": "\"Stands on the ruins of an old prison\", \"Opened as a park in 2010\", \"Architect was Theo Lawson\", \"Honors the Nigerian struggle for freedom\""
+  },
+  {
+    "id": "civic-centre-lagos-landmarks-v2",
+    "name": "Civic Centre Lagos",
+    "type": "landmark",
+    "description": "The Civic Centre on Victoria Island, Lagos, is a masterpiece of modern waterfront architecture. It serves as a premier venue for business and social events.",
+    "facts": "\"Located right on the waterfront\", \"Features modern conference rooms\", \"Futuristic style architecture\", \"Popular for luxurious weddings\""
+  },
+  {
+    "id": "jaekel-house-lagos-landmarks-v2",
+    "name": "Jaekel House",
+    "type": "landmark",
+    "description": "Jaekel House is a classic colonial-era mansion in Lagos that now houses a railway museum. It offers insights into the early transportation history of Nigeria.",
+    "facts": "\"Built in 1898\", \"Former residence of the Railway General Manager\", \"Now a railway museum\", \"Restored by the Legacy collective\""
+  },
+  {
+    "id": "teslim-balogun-stadium-landmarks-v2",
+    "name": "Teslim Balogun Stadium",
+    "type": "landmark",
+    "description": "The Teslim Balogun Stadium in Lagos is a major multi-purpose sports facility named after a famous Nigerian footballer. It is a hub for sporting competitions in Lagos State.",
+    "facts": "\"Opened in 2007\", \"Can seat nearly 25,000 people\", \"Named after footballer Teslim Balogun\", \"Located opposite the National Stadium\""
+  },
+  {
+    "id": "gobarau-minaret-katsina-landmarks-v2",
+    "name": "Gobarau Minaret",
+    "type": "landmark",
+    "description": "The Gobarau Minaret in Katsina is a 15-meter-high historical structure made of mud-brick. Built in the 14th century, it is one of the oldest surviving buildings in Nigeria.",
+    "facts": "\"Built in the 14th century\", \"Made of traditional mud-bricks\", \"15-meter-high historical structure\", \"Was also used as a watchtower\""
+  },
+  {
+    "id": "ng-yankari-safari-life-v2",
+    "name": "Yankari National Park",
+    "type": "animal-habitat",
+    "description": "A significant game reserve known for its elephants and warm water springs.",
+    "facts": "\"Home to over 50 elephant species\", \"Famous for Wikki Warm Springs\", \"Nigeria's largest protected area\", \"Established in 1956\""
+  },
+  {
+    "id": "ng-gashaka-gumti-life-v2",
+    "name": "Gashaka Gumti National Park",
+    "type": "animal-habitat",
+    "description": "Nigeria's largest national park with diverse wildlife in the mountains.",
+    "facts": "\"Includes Chappal Waddi, Nigeria's highest peak\", \"Diverse primate populations\", \"Spans over 6,000 square kilometers\", \"Important hotspot for biodiversity\""
+  },
+  {
+    "id": "ng-olumene-farm-life-v2",
+    "name": "Olumene Cocoa Farm",
+    "type": "agriculture",
+    "description": "One of the historic cocoa plantations in the Oyo region.",
+    "facts": "\"Focus on sustainable cocoa farming\", \"Offers visitors insight into the process\", \"Important regional economic asset\", \"Traditional farming methods\""
+  },
+  {
+    "id": "ng-jos-wildlife-life-v2",
+    "name": "Jos Wildlife Park",
+    "type": "kid-landmark",
+    "description": "A popular family park with a variety of animals in Jos.",
+    "facts": "\"Ideal for family outings\", \"Home to lions and baboons\", \"Beautiful scenic surroundings\", \"Educational for children\""
+  },
+  {
+    "id": "ng-lekkiconservation-life-v2",
+    "name": "Lekki Conservation Centre",
+    "type": "animal-habitat",
+    "description": "A protected wetland in Lagos featuring a famous canopy walkway.",
+    "facts": "\"Longest canopy walkway in Africa\", \"Home to monkeys and rare birds\", \"Haven of peace in the middle of Lagos\", \"Promotes environmental education\""
+  },
+  {
+    "id": "ng-ibadan-cocoa-life-v2",
+    "name": "Ibadan Cocoa Centre",
+    "type": "agriculture",
+    "description": "An agricultural research and cultivation center for cocoa.",
+    "facts": "\"Historic center of cocoa export\", \"Research on high-yield varieties\", \"Important role in the Nigerian economy\", \"Trainings for farmers\""
+  },
+  {
+    "id": "ng-calabar-monkey-life-v2",
+    "name": "Calabar Monkey Sanctuary",
+    "type": "animal-habitat",
+    "description": "Sanctuary for endangered primate species near Calabar.",
+    "facts": "\"Focus on species conservation\", \"Offers guided tours\", \"Important habitat for Drill monkeys\", \"Education for local schools\""
+  },
+  {
+    "id": "ng-crossriver-nat-life-v2",
+    "name": "Cross River National Park",
+    "type": "animal-habitat",
+    "description": "One of the last large primary forests in West Africa.",
+    "facts": "\"Enormously high biodiversity\", \"Home to rare gorillas\", \"UNESCO Biosphere Reserve candidate\", \"Dense tropical rainforest\""
+  },
+  {
+    "id": "ng-kano-zoo-life-v2",
+    "name": "Kano Zoo",
+    "type": "kid-landmark",
+    "description": "A popular urban zoo for families in Kano.",
+    "facts": "\"Diverse African animal species\", \"Large play areas for children\", \"Important educational center\", \"Centrally located in Kano\""
+  },
+  {
+    "id": "ng-ekiti-agri-life-v2",
+    "name": "Ekiti Agricultural Centre",
+    "type": "agriculture",
+    "description": "A center for cultivation of grains and vegetables in the Ekiti region.",
+    "facts": "\"Promotes modern agriculture\", \"Region for corn and yam farming\", \"Supports local small-scale farmers\", \"Demonstration farm for techniques\""
+  },
+  {
+    "id": "ng-omo-reserve-life-v2",
+    "name": "Omo Forest Reserve",
+    "type": "animal-habitat",
+    "description": "A significant forest reserve with rich flora and fauna.",
+    "facts": "\"Home to forest elephants\", \"Large research area\", \"Dense rainforest\", \"Protection of endangered wood species\""
+  },
+  {
+    "id": "ng-kaduna-zoo-life-v2",
+    "name": "Kaduna Zoo",
+    "type": "kid-landmark",
+    "description": "A well-known zoo with botanical gardens for the whole family.",
+    "facts": "\"Combines zoo and botanical gardens\", \"Educational exhibits for children\", \"Relaxing place for families\", \"Native and exotic species\""
+  },
+  {
+    "id": "ng-kwara-farm-life-v2",
+    "name": "Kwara Agricultural Project",
+    "type": "agriculture",
+    "description": "A large agricultural development project in Kwara.",
+    "facts": "\"Promotion of modern farming techniques\", \"Focus on cereal production\", \"Provides jobs in the region\", \"Collaboration with international partners\""
+  },
+  {
+    "id": "ng-imo-zoo-life-v2",
+    "name": "Imo State Zoo",
+    "type": "kid-landmark",
+    "description": "A smaller zoo in Imo State for recreation.",
+    "facts": "\"Popular destination for schools\", \"Focus on education\", \"Protection of local fauna\", \"Well-maintained facilities\""
+  },
+  {
+    "id": "ng-enugu-park-life-v2",
+    "name": "Enugu Recreational Park",
+    "type": "kid-landmark",
+    "description": "A central recreational park in the city of Enugu.",
+    "facts": "\"Many playgrounds for children\", \"Green spaces for relaxing\", \"Place for family picnics\", \"Cultural events\""
+  },
+  {
+    "id": "ng-borno-safari-life-v2",
+    "name": "Borno Safari",
+    "type": "animal-habitat",
+    "description": "A safari park in the Sahel region of Borno.",
+    "facts": "\"Unique Sahel flora and fauna\", \"Experience of desert ecosystems\", \"Tourism initiative in the region\", \"Educational trips about drylands\""
+  },
+  {
+    "id": "ng-delta-nature-life-v2",
+    "name": "Delta Nature Conservation Zone",
+    "type": "animal-habitat",
+    "description": "A protected area in the Niger Delta for aquatic fauna.",
+    "facts": "\"Important habitats for mangrove species\", \"Protection of fish breeding grounds\", \"Research on delta ecosystems\", \"Local conservation initiatives\""
+  },
+  {
+    "id": "ng-abia-agri-life-v2",
+    "name": "Abia Agricultural Hub",
+    "type": "agriculture",
+    "description": "A significant hub for oil palm cultivation.",
+    "facts": "\"Focus on palm oil production\", \"Modern processing methods\", \"Economic hub in Abia\", \"Support for farmers\""
+  },
+  {
+    "id": "ng-anambra-forest-life-v2",
+    "name": "Anambra Forest Reserve",
+    "type": "animal-habitat",
+    "description": "A protected forest area for preserving local tree species.",
+    "facts": "\"Conservation of native flora\", \"Refuge for local wildlife\", \"Regional educational center\", \"Dense tree population\""
+  },
+  {
+    "id": "ng-sokoto-zoo-life-v2",
+    "name": "Sokoto Zoo",
+    "type": "kid-landmark",
+    "description": "A small zoo in Sokoto for families.",
+    "facts": "\"Showcases local animal species\", \"Recreational activities for families\", \"Educational trips\", \"Conservation efforts in the region\""
+  },
+  {
+    "id": "ng-bauchi-orchard-life-v2",
+    "name": "Bauchi Orchard",
+    "type": "agriculture",
+    "description": "A large orchard with a focus on citrus fruits.",
+    "facts": "\"Production of various citrus fruits\", \"Regional economic strengthening\", \"Research on cultivation methods\", \"Popular destination for school trips\""
+  },
+  {
+    "id": "ng-benue-farm-life-v2",
+    "name": "Benue Agricultural Community",
+    "type": "agriculture",
+    "description": "An agricultural region known as the 'food basket of Nigeria'.",
+    "facts": "\"Main region for yam farming\", \"Fertile soils\", \"Support for large-scale farmers\", \"Economic motor of the state\""
+  },
+  {
+    "id": "ng-ondo-cacao-life-v2",
+    "name": "Ondo Cocoa Cooperative",
+    "type": "agriculture",
+    "description": "A leading cooperative for cocoa production.",
+    "facts": "\"Promotes sustainable farming\", \"Quality control for export\", \"Fair prices for farmers\", \"Trainings to improve yield\""
+  },
+  {
+    "id": "ng-ebonyi-rice-life-v2",
+    "name": "Ebonyi Rice Farm",
+    "type": "agriculture",
+    "description": "A large center for cultivation of high-quality rice.",
+    "facts": "\"Main region for rice farming\", \"Modern irrigation systems\", \"Economic contribution to the state\", \"Training programs for farming\""
+  },
+  {
+    "id": "ng-ekiti-bird-life-v2",
+    "name": "Ekiti Birdwatching Zone",
+    "type": "animal-habitat",
+    "description": "A zone for protecting and observing rare bird species.",
+    "facts": "\"Home to rare migratory birds\", \"Educational site\", \"Undisturbed habitat\", \"Tourism and research project\""
+  },
+  {
+    "id": "ng-jigawa-farm-life-v2",
+    "name": "Jigawa Agricultural Project",
+    "type": "agriculture",
+    "description": "A large project for cultivation of millet and sorghum.",
+    "facts": "\"Focus on dryland farming\", \"Supporting local food security\", \"Use of adapted varieties\", \"Trainings for small farms\""
+  },
+  {
+    "id": "ng-kebbi-rice-life-v2",
+    "name": "Kebbi Rice Hub",
+    "type": "agriculture",
+    "description": "A leading center of rice production.",
+    "facts": "\"High-quality rice production\", \"Important employer\", \"Research on cultivation methods\", \"Modern processing technology\""
+  },
+  {
+    "id": "ng-nasarawa-farm-life-v2",
+    "name": "Nasarawa Agricultural Park",
+    "type": "agriculture",
+    "description": "A park to promote agricultural innovations.",
+    "facts": "\"Research for sustainable agriculture\", \"Testing ground for new techniques\", \"Educational offers\", \"Promotes regional productivity\""
+  },
+  {
+    "id": "ng-taraba-nature-life-v2",
+    "name": "Taraba Wildlife Sanctuary",
+    "type": "animal-habitat",
+    "description": "A wildlife sanctuary in the Taraba region.",
+    "facts": "\"Observation of wildlife\", \"Natural protected areas\", \"Tourism in the region\", \"Important part of the ecosystem\""
+  },
+  {
+    "id": "niger-river-nature-v2",
+    "name": "Niger",
+    "type": "river",
+    "description": "The third-longest river in Africa, flowing through Nigeria.",
+    "facts": "\"Originates in the Guinea Highlands.\", \"Empties into the Gulf of Guinea.\""
+  },
+  {
+    "id": "benue-river-nature-v2",
+    "name": "Benue",
+    "type": "river",
+    "description": "The most important tributary of the Niger River.",
+    "facts": "\"Flows through Cameroon and Nigeria.\", \"Is about 1400 km long.\""
+  },
+  {
+    "id": "chad-lake-nature-v2",
+    "name": "Lake Chad",
+    "type": "lake",
+    "description": "A significant lake in the Chad Basin that touches Nigeria.",
+    "facts": "\"Is an endorheic lake.\", \"Its surface area varies greatly.\""
+  },
+  {
+    "id": "jos-plateau-mountain-nature-v2",
+    "name": "Jos Plateau",
+    "type": "mountain",
+    "description": "A highland area in central Nigeria.",
+    "facts": "\"Consists of volcanic rock.\", \"Has a cooler climate than the surroundings.\""
+  },
+  {
+    "id": "chappal-waddi-mountain-nature-v2",
+    "name": "Chappal Waddi",
+    "type": "mountain",
+    "description": "The highest mountain in Nigeria.",
+    "facts": "\"Located on the border with Cameroon.\", \"Height of approx. 2419 meters.\""
+  },
+  {
+    "id": "cross-river-nature-v2",
+    "name": "Cross River",
+    "type": "river",
+    "description": "A significant river in southeastern Nigeria.",
+    "facts": "\"Flows through tropical rainforest.\", \"Empties into the Atlantic.\""
+  },
+  {
+    "id": "ogun-river-nature-v2",
+    "name": "Ogun",
+    "type": "river",
+    "description": "A river in southwestern Nigeria that empties into the Lagos Lagoon.",
+    "facts": "\"Feeds the Oyan Dam.\", \"Important water source for Lagos.\""
+  },
+  {
+    "id": "kainji-lake-nature-v2",
+    "name": "Kainji Lake",
+    "type": "lake",
+    "description": "A large reservoir in northwestern Nigeria.",
+    "facts": "\"Created by the construction of the Kainji Dam.\", \"Used for electricity generation.\""
+  },
+  {
+    "id": "lekki-lagoon-nature-v2",
+    "name": "Lekki Lagoon",
+    "type": "sea",
+    "description": "A lagoon near the coast near Lagos.",
+    "facts": "\"Is a brackish water area.\", \"Rich in fish resources.\""
+  },
+  {
+    "id": "niger-delta-nature-v2",
+    "name": "Niger Delta",
+    "type": "river",
+    "description": "An extensive river delta on the Gulf of Guinea.",
+    "facts": "\"Very rich in biodiversity.\", \"An important ecosystem.\""
+  },
+  {
+    "id": "shere-hills-mountain-nature-v2",
+    "name": "Shere Hills",
+    "type": "mountain",
+    "description": "A mountain range on the Jos Plateau.",
+    "facts": "\"Known for hiking opportunities.\", \"High rock formations.\""
+  },
+  {
+    "id": "obudu-plateau-mountain-nature-v2",
+    "name": "Obudu Plateau",
+    "type": "mountain",
+    "description": "A high plateau with a pleasant climate.",
+    "facts": "\"A popular destination for tourists.\", \"Lush vegetation.\""
+  },
+  {
+    "id": "osun-river-nature-v2",
+    "name": "Osun",
+    "type": "river",
+    "description": "A spiritually significant river in southwestern Nigeria.",
+    "facts": "\"Flows through the Osun-Osogbo Grove.\", \"An important cultural heritage.\""
+  },
+  {
+    "id": "chad-basin-nature-v2",
+    "name": "Chad Basin",
+    "type": "forest",
+    "description": "A vast area located in the northeast of Nigeria.",
+    "facts": "\"Arid to semi-arid climate.\", \"Significant for agriculture.\""
+  },
+  {
+    "id": "gashaka-gumti-forest-nature-v2",
+    "name": "Gashaka-Gumti National Park",
+    "type": "forest",
+    "description": "Nigeria's largest national park with vast forest areas.",
+    "facts": "\"Home to numerous species.\", \"Mountainous landscape.\""
+  },
+  {
+    "id": "kano-river-nature-v2",
+    "name": "Kano",
+    "type": "river",
+    "description": "A river that irrigates the region around Kano.",
+    "facts": "\"Important for agriculture.\", \"Feeds irrigation systems.\""
+  },
+  {
+    "id": "kaduna-river-nature-v2",
+    "name": "Kaduna",
+    "type": "river",
+    "description": "An important tributary of the Niger River.",
+    "facts": "\"Flows through central Nigeria.\", \"Creates important floodplains.\""
+  },
+  {
+    "id": "sokoto-river-nature-v2",
+    "name": "Sokoto",
+    "type": "river",
+    "description": "A tributary of the Niger in the northwest.",
+    "facts": "\"Important water source in the drier north.\", \"Supports local agriculture.\""
+  },
+  {
+    "id": "hadejia-river-nature-v2",
+    "name": "Hadejia",
+    "type": "river",
+    "description": "A river that feeds the Hadejia-Nguru wetlands.",
+    "facts": "\"Important wetland for migratory birds.\", \"Very biodiverse.\""
+  },
+  {
+    "id": "gongola-river-nature-v2",
+    "name": "Gongola",
+    "type": "river",
+    "description": "A significant tributary of the Benue.",
+    "facts": "\"Flows through northeastern Nigeria.\", \"Creates vast river landscapes.\""
+  },
+  {
+    "id": "yobe-river-nature-v2",
+    "name": "Yobe",
+    "type": "river",
+    "description": "A river on the border between Nigeria and Niger.",
+    "facts": "\"Empties into Lake Chad.\", \"Important for the border region.\""
+  },
+  {
+    "id": "ogun-forest-nature-v2",
+    "name": "Ogun Forest Area",
+    "type": "forest",
+    "description": "A forest area in southwestern Nigeria.",
+    "facts": "\"Home to tropical trees.\", \"Important for timber.\""
+  },
+  {
+    "id": "osun-forest-nature-v2",
+    "name": "Osun Forest",
+    "type": "forest",
+    "description": "A forest area around the sacred Osun river.",
+    "facts": "\"Protected area.\", \"High ecological importance.\""
+  },
+  {
+    "id": "kainji-forest-nature-v2",
+    "name": "Kainji National Park Forest",
+    "type": "forest",
+    "description": "A significant forest area within the national park.",
+    "facts": "\"Habitat for many wild animals.\", \"Important buffer zone.\""
+  },
+  {
+    "id": "cross-river-forest-nature-v2",
+    "name": "Cross River Rainforest",
+    "type": "forest",
+    "description": "An extensive rainforest in the southeast.",
+    "facts": "\"Extremely biodiverse.\", \"A biodiversity hotspot.\""
+  },
+  {
+    "id": "buea-mountain-nature-v2",
+    "name": "Obudu Mountains",
+    "type": "mountain",
+    "description": "A mountain range near the border with Cameroon.",
+    "facts": "\"Spectacular mountain landscapes.\", \"Very green and humid.\""
+  },
+  {
+    "id": "mandara-mountains-nature-v2",
+    "name": "Mandara Mountains",
+    "type": "mountain",
+    "description": "A volcanic mountain range between Nigeria and Cameroon.",
+    "facts": "\"Strongly eroded peaks.\", \"Historically inhabited area.\""
+  },
+  {
+    "id": "guinea-gulf-sea-nature-v2",
+    "name": "Gulf of Guinea",
+    "type": "sea",
+    "description": "The coastal sea in the south of Nigeria.",
+    "facts": "\"Important for shipping.\", \"Rich in oil reserves.\""
+  },
+  {
+    "id": "kainji-dam-nature-v2",
+    "name": "Kainji Reservoir Shore",
+    "type": "lake",
+    "description": "The shore zone of the large reservoir.",
+    "facts": "\"Important for birds.\", \"Popular for observations.\""
+  },
+  {
+    "id": "niger-river-delta-nature-v2",
+    "name": "Niger Delta Mangroves",
+    "type": "river",
+    "description": "A significant mangrove ecosystem.",
+    "facts": "\"Protects the coast.\", \"High biodiversity.\""
+  },
+  {
+    "id": "mambilla-plateau-relief-v2",
+    "name": "Mambilla Plateau",
+    "type": "mountain",
+    "description": "The Mambilla Plateau is a highland region in eastern Nigeria with an average elevation of over 1500 meters.",
+    "facts": "\"Highest point in Nigeria\", \"Cool climate year-round\", \"Pastureland and tea plantations\""
+  },
+  {
+    "id": "gashaka-hills-relief-v2",
+    "name": "Gashaka Hills",
+    "type": "mountain",
+    "description": "The Gashaka Hills are part of the Gashaka-Gumti National Park and offer a rugged mountain landscape.",
+    "facts": "\"Part of the national park\", \"Protected area for primates\", \"Steep hillsides\""
+  },
+  {
+    "id": "obudu-mountains-relief-v2",
+    "name": "Obudu Mountains (new)",
+    "type": "mountain",
+    "description": "A spectacular mountain range near the border with Cameroon, known for its lush grasslands.",
+    "facts": "\"Popular tourist destination\", \"Misty mountain ridges\", \"Rich ecosystem\""
+  },
+  {
+    "id": "uadi-niger-relief-v2",
+    "name": "Niger Valley",
+    "type": "relief",
+    "description": "The fertile valley along the Niger River is a central geographical feature of Nigeria.",
+    "facts": "\"Main artery of Nigeria\", \"Agricultural heartland\", \"Floodplains\""
+  },
+  {
+    "id": "plateau-jos-relief-v2",
+    "name": "Jos Plateau (v2)",
+    "type": "relief",
+    "description": "A prominent highland region in central Nigeria that rises significantly above its surroundings.",
+    "facts": "\"Cool highland climate\", \"Tin deposits in the region\", \"Rocky formations\""
+  },
+  {
+    "id": "kainji-becken-relief-v2",
+    "name": "Kainji Basin",
+    "type": "relief",
+    "description": "A basin shaped by the Kainji Reservoir, which has an important ecological function.",
+    "facts": "\"Artificial reservoir\", \"Fish-rich waters\", \"Important energy source\""
+  },
+  {
+    "id": "delta-niger-relief-v2",
+    "name": "Niger Delta (relief)",
+    "type": "relief",
+    "description": "A massive marshland and delta region at the mouth of the Niger River into the Gulf of Guinea.",
+    "facts": "\"Oil-rich region\", \"Mangrove forests\", \"Complex river network\""
+  },
+  {
+    "id": "biu-plateau-relief-v2",
+    "name": "Biu Plateau",
+    "type": "relief",
+    "description": "A volcanic highland region in northeastern Nigeria with basaltic soils.",
+    "facts": "\"Volcanic origin\", \"Fertile soils\", \"Elevation 700m\""
+  },
+  {
+    "id": "mandara-berge-relief-v2",
+    "name": "Mandara Mountains (relief)",
+    "type": "mountain",
+    "description": "A mountain range that forms the border between Nigeria and Cameroon.",
+    "facts": "\"Border ridge\", \"Traditional settlements\", \"Granite formations\""
+  },
+  {
+    "id": "shebshi-berge-relief-v2",
+    "name": "Shebshi Mountains",
+    "type": "mountain",
+    "description": "A robust mountain region in east-central Nigeria.",
+    "facts": "\"Untouched nature\", \"High relief energy\", \"Important watershed\""
+  },
+  {
+    "id": "alantika-berge-relief-v2",
+    "name": "Alantika Mountains",
+    "type": "mountain",
+    "description": "These mountains form a wild, remote part of the highlands on the Cameroonian border.",
+    "facts": "\"Remote mountain world\", \"Natural barrier\", \"Rocky paths\""
+  },
+  {
+    "id": "shere-hills-relief-v2",
+    "name": "Shere Hills (relief)",
+    "type": "mountain",
+    "description": "A spectacular, rugged mountain landscape known for trekking.",
+    "facts": "\"Challenging terrain\", \"Trekking destination\", \"Rocky cliffs\""
+  },
+  {
+    "id": "kogi-h\u00fcgel-relief-v2",
+    "name": "Kogi Hills",
+    "type": "relief",
+    "description": "A rolling hilly landscape at the confluence of the Niger and Benue rivers.",
+    "facts": "\"River confluence\", \"Gentle relief\", \"Green hills\""
+  },
+  {
+    "id": "ekiti-h\u00fcgel-relief-v2",
+    "name": "Ekiti Hills",
+    "type": "relief",
+    "description": "A picturesque hilly region in southwestern Nigeria.",
+    "facts": "\"Forested slopes\", \"Tropical climate\", \"Agricultural terraces\""
+  },
+  {
+    "id": "osun-relief-relief-v2",
+    "name": "Osun Landscape",
+    "type": "relief",
+    "description": "A slightly hilly landscape crisscrossed by rivers.",
+    "facts": "\"River landscape\", \"Fertile\", \"Forest remnants\""
+  },
+  {
+    "id": "cross-river-tal-relief-v2",
+    "name": "Cross River Valley",
+    "type": "relief",
+    "description": "A deeply incised river valley in the humid forest zone in the southeast.",
+    "facts": "\"Humid climate\", \"Dense forest\", \"Deep valleys\""
+  },
+  {
+    "id": "ondo-relief-relief-v2",
+    "name": "Ondo Hills",
+    "type": "relief",
+    "description": "A region of rolling hills typical for the southwest.",
+    "facts": "\"Forest area\", \"Fertile\", \"Gentle relief\""
+  },
+  {
+    "id": "nassarawa-relief-relief-v2",
+    "name": "Nasarawa Plains",
+    "type": "relief",
+    "description": "A vast, flat to gently rolling plain in central Nigeria.",
+    "facts": "\"Savanna landscape\", \"Vast\", \"Open relief\""
+  },
+  {
+    "id": "kaduna-tal-relief-v2",
+    "name": "Kaduna Valley",
+    "type": "relief",
+    "description": "The valley of the Kaduna River, which meanders through the northern Nigerian savanna.",
+    "facts": "\"Savanna river\", \"Fertile surroundings\", \"Meander landscape\""
+  },
+  {
+    "id": "yobe-becken-relief-v2",
+    "name": "Yobe Lowlands",
+    "type": "relief",
+    "description": "A low-lying basin in northeastern Nigeria near the Chad Basin.",
+    "facts": "\"Arid climate\", \"Sandy plains\", \"Desert fringe location\""
+  },
+  {
+    "id": "sokoto-ebene-relief-v2",
+    "name": "Sokoto Plains",
+    "type": "relief",
+    "description": "An extensive plain in the far northwest of Nigeria.",
+    "facts": "\"Dry\", \"Semi-desert\", \"Sandy soils\""
+  },
+  {
+    "id": "adamawa-hochland-relief-v2",
+    "name": "Adamawa Highlands",
+    "type": "relief",
+    "description": "A significant highland in the east that forms the link to the Cameroonian Highlands.",
+    "facts": "\"High plateau\", \"Mountain climate\", \"Wilderness\""
+  },
+  {
+    "id": "benue-tal-relief-v2",
+    "name": "Benue Valley (relief)",
+    "type": "relief",
+    "description": "A significant, vast river valley in central Nigeria.",
+    "facts": "\"Main tributary of Niger\", \"Broad valley\", \"Floodplain\""
+  },
+  {
+    "id": "gongola-tal-relief-v2",
+    "name": "Gongola Valley",
+    "type": "relief",
+    "description": "A region in the basin of the Gongola River in the northeast.",
+    "facts": "\"River landscape\", \"Semi-arid\", \"Savanna\""
+  },
+  {
+    "id": "kano-ebene-relief-v2",
+    "name": "Kano Plains",
+    "type": "relief",
+    "description": "An extensive, flat region in the heart of northern Nigeria.",
+    "facts": "\"Lowland\", \"Dense population\", \"Dry season\""
+  }
+]

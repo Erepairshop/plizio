@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "les-anglais-cities-v2",
+      "descriptionAdvanced": "Les Anglais egy tengerparti település Haiti Sud (Déli) megyéjének délnyugati partján. Bár a falu neve franciául 'az angolok'-at jelent, története szorosan kapcsolódik a francia és spanyol gyarmati időszakokhoz is, amikor a régió fontos kikötő volt az európai csempészek és kalózok számára, akik gyakran angol zászló alatt hajóztak. A falut sűrű pálmafák és trópusi növényzet veszi körül, gyönyörű, elhagyatott tengerpartjaival pedig idilli látványt nyújt. A helyiek életvitele nagyrészt a hagyományos, kisüzemi halászaton és a kókuszdió-feldolgozáson alapul. Az 1963-as Flora hurrikán pusztítása után sok épületet újjá kellett építeni. Ma a település nehezen megközelíthető, mivel az ide vezető utak heves esőzések idején gyakran járhatatlanokká válnak. Geschichte K7 — gyarmati csempészet és karibi tengerészet.",
+      "factsAdvanced": [
+        "A Sud (Déli) megye Chardonnières járásához tartozik.",
+        "A név ('az angolok') valószínűleg a 17. századi angol kalózok itteni jelenlétére utal.",
+        "Gazdasága a halászatra, valamint a banán és kókusz termesztésére támaszkodik.",
+        "Tengerszint feletti magassága 0 és 15 méter között mozog.",
+        "Az 1963-as Flora hurrikán komoly pusztítást okozott a faluban.",
+        "Az infrastruktúra, különösen a kövezett utak hiánya hátráltatja a fejlődést."
+      ]
+    },
+    {
+      "id": "chardonniere-cities-v2",
+      "descriptionAdvanced": "Chardonnières egy festői tengerparti város a Sud (Déli) megyében, amely a Tiburon-félsziget déli oldalán fekszik. A település neve a bogáncs (chardon) szóból ered, amely a gyarmati időkben bőségesen nőtt a közeli hegyoldalakon. Chardonnières az egyik legszebb homokos partszakasszal rendelkezik a térségben, amelyet meredek, zöldellő hegyek ölelnek körül. A helyi gazdaság gerincét a halászat, a kávé és a kakaó termesztése, valamint a fakitermelés adja, bár ez utóbbi a környező hegyek eróziójához vezetett. A város viszonylagos elszigeteltsége miatt a haiti vudu és a katolikus vallás sajátos, helyi szinkretizmusa alakult ki, amely különösen az éves védőszent-ünnepek során (pl. Szent Anna napja) figyelhető meg. Földrajz K6 — tengerparti települések és erózió.",
+      "factsAdvanced": [
+        "A Sud (Déli) megye azonos nevű járásának (Chardonnières) központja.",
+        "A település neve a bogáncs francia megfelelőjére (chardon) utal.",
+        "Főbb agrártermékei a kakaó, kávé és a különféle trópusi gyümölcsök.",
+        "A tengerszint feletti magassága a part mentén kb. 10 méter.",
+        "Híres a minden július 26-án tartott Szent Anna napi vallási ünnepségekről.",
+        "Az erdőirtás miatti hegyoldali erózió komoly veszélyt jelent a városra."
+      ]
+    },
+    {
+      "id": "arnaud-cities-v2",
+      "descriptionAdvanced": "Arnaud egy viszonylag fiatal, 2002-ben önállóvá vált település Haiti Nippes megyéjében. A város az Anse-à-Veau járáshoz tartozik, és elsősorban a félsziget északi, dombos vidékén terül el. A terület kiválóan alkalmas a hagyományos haiti mezőgazdaságra; a helyi gazdák jamgyökeret, babot és plantánt termesztenek, amelyeket a közeli Miragoâne piacain értékesítenek. Arnaud történelmileg egy csendes agrárközösség volt, ám a közigazgatási függetlenedés felgyorsította a helyi infrastruktúra kiépítését, bár az utak nagy része még mindig burkolatlan. A település nevét valószínűleg egy korai francia ültetvényes tulajdonosról kapta. A közösség élete erős rokoni és vallási kötelékeken alapul. Sachkunde K5 — közigazgatási határok és új települések.",
+      "factsAdvanced": [
+        "A Nippes megye Anse-à-Veau járásának része.",
+        "2002-ben nyerte el az önálló települési (commune) rangot.",
+        "Gazdasága túlnyomórészt az önellátó és piacra termelő mezőgazdaságra épül.",
+        "Tengerszint feletti magassága a dombvidéken átlagosan 150 méter.",
+        "Főbb terményei a jamgyökér, a plantán és a különféle babfélék.",
+        "A legközelebbi nagy kereskedelmi központ Miragoâne városa."
+      ]
+    },
+    {
+      "id": "lazarre-cities-v2",
+      "descriptionAdvanced": "Lazarre egy kevésbé ismert, apró település vagy agglomerációs körzet a déli félsziget belső területein. Bár önálló városi rangja gyakran beleolvad a nagyobb szomszédos településekébe, a helyi dűlők és falvak egy jellegzetes rurális közösséget alkotnak. A tájat itt a sűrű növényzet, apró patakok és a mezőgazdasági művelés alatt álló kis parcellák határozzák meg. A lakosság nagy része napi szinten a konbit rendszerében dolgozik, ami egy tradicionális közösségi munkamegosztás a földek megművelésére. Az áramellátás és a vezetékes víz hiánya miatt a helyiek életmódja szorosan alkalmazkodik a természeti ciklusokhoz, az esővízgyűjtéshez és a napenergiához, ahol az elérhető. Sachkunde K5 — rurális falvak önfenntartó rendszerei.",
+      "factsAdvanced": [
+        "Jellegzetes, apró rurális település a déli országrészben.",
+        "Az infrastruktúra (víz, villany) sok helyen hiányzik a környéken.",
+        "A földművelés hagyományosan közösségi (konbit) alapon történik.",
+        "Főbb élelmiszerforrások a kukorica, a manióka és a kecsketej.",
+        "Az utak nagyrészt földutak, amelyeket esőzéskor sár borít.",
+        "A társadalmi élet központját a helyi piacok és a vallási gyülekezetek adják."
+      ]
+    },
+    {
+      "id": "belle-anse-cities-v2",
+      "descriptionAdvanced": "Belle-Anse (korábban Saltrou) egy varázslatos szépségű tengerparti város a Sud-Est (Délkeleti) megyében. Nevét (amely franciául 'Szép Öböl'-t jelent) nem véletlenül kapta: a várost övező mészkősziklák és a Karib-tenger mélykék vize drámai kontrasztot alkotnak. A település az 1960-as évekig a Saltrou nevet viselte. Belle-Anse gazdaságát a tengeri halászat és a környező hegyoldalakon termesztett kiváló minőségű kávé határozza meg, amelyet a helyi gazdák exportra termelnek. Annak ellenére, hogy jelentős turisztikai potenciállal bír a festői táj és a gazdag helyi kultúra miatt, az ország többi részétől elválasztó zord hegyvidéki utak – különösen a Chaîne de la Selle meredek hágói – gátolják a turizmus fellendülését. Földrajz K7 — turisztikai potenciál és infrastrukturális akadályok.",
+      "factsAdvanced": [
+        "A Sud-Est (Délkeleti) megye Belle-Anse járásának központja.",
+        "Korábbi neve Saltrou volt, az 1960-as években nevezték át.",
+        "Híres az arabica kávé termesztéséről a közeli hegyoldalakon.",
+        "Tengerszint feletti magassága 0 és 20 méter között van a parton.",
+        "A szárazföldi megközelítése rendkívül nehéz a meredek hegyi utak miatt.",
+        "Gazdaságának alappillére a part menti halászat és a kávéexport."
+      ]
+    },
+    {
+      "id": "thiotte-cities-v2",
+      "descriptionAdvanced": "Thiotte az egyik legmagasabban fekvő és leghidegebb klímájú település Haiti Sud-Est (Délkeleti) megyéjében. A város a Chaîne de la Selle hegység sűrű, egykori fenyőerdőségeinek ölelésében fekszik, és kiváló kávétermő vidék. A helyi 'Café Thiotte' a nemzetközi piacon is keresett, testes és aromás íze miatt. A hűvös, gyakran ködös hegyi levegő éles kontrasztot alkot a karibi térség trópusi hőségével, így az ide látogatóknak érdemes meleg ruházattal készülniük. A város ugyanakkor kulcsfontosságú határközeli piaccal is rendelkezik, ahol a dominikai és haiti kereskedők találkoznak, hogy cseréljenek mezőgazdasági cikkeket. Az 1990-es évek óta az erdőirtás itt is komoly aggodalomra ad okot, veszélyeztetve a kávéültetvényeket védő mikroklímát. Földrajz K8 — hegyvidéki mikroklímák és kávétermesztés.",
+      "factsAdvanced": [
+        "A Sud-Est (Délkeleti) megye Belle-Anse járásában található.",
+        "Haiti egyik legmagasabb települése, tengerszint felett kb. 1000 méteren.",
+        "Országos hírű a kiváló minőségű 'Café Thiotte' fajtájú kávéjáról.",
+        "Klíma viszonyai hegyvidékiek, gyakran hűvösek és ködösek.",
+        "Jelentős határ menti kereskedelmi forgalmat bonyolít a Dominikai Köztársasággal.",
+        "A környékbeli hispaniolai fenyőerdők maradványai övezik."
+      ]
+    },
+    {
+      "id": "anse-a-pitres-cities-v2",
+      "descriptionAdvanced": "Anse-à-Pitres a legdélibb határváros Haitin, a Sud-Est (Délkeleti) megyében, közvetlenül a dominikai Pedernales városával szemben, a Pedernales-folyó partján. A település az utóbbi években egyre nagyobb nemzetközi figyelmet kapott, mivel a határ két oldala közti élénk, bi-nacionális piac egyedülálló gazdasági központtá tette. Minden héten piacnapokon ezrek kelnek át a sekély folyón vagy az újonnan épült hídon, hogy ruházati cikkekkel, élelmiszerekkel és használati tárgyakkal kereskedjenek. A város klímája rendkívül száraz, szinte félsivatagos, amit a kaktuszok és az alacsony cserjék dominanciája is jelez. Az elmúlt évtizedekben jelentős számú dominikai területen dolgozó haiti vendégmunkás tért vissza ide, ami növelte a város lakosságát és kulturális sokszínűségét. Földrajz K8 — binacionális piacok és száraz éghajlatok.",
+      "factsAdvanced": [
+        "A Sud-Est megyében, a dominikai Pedernales városával határos.",
+        "A természetes határt a Pedernales-folyó (Rivière des Pédernales) alkotja.",
+        "Tengerszint feletti magassága a parti sávon átlagosan 5 méter.",
+        "Hetente tartanak hatalmas binacionális piacot a folyó partján.",
+        "Klíma viszonyai szárazak, a vegetációban a kaktuszok dominálnak.",
+        "A város gyors népességnövekedést tapasztalt a hazatérő munkások miatt."
+      ]
+    },
+    {
+      "id": "fond-des-negres-cities-v2",
+      "descriptionAdvanced": "Fond-des-Nègres egy pezsgő kereskedelmi csomópont Haiti Nippes megyéjében. A város az RN2-es nemzeti főútvonal mentén terül el, és az ország egyik legnagyobb szabadtéri mezőgazdasági piacának ad otthont. A szombati piacnapokon a környékbeli hegyekből és a környező megyékből több ezer ember érkezik ide, hogy zöldségeket, gyümölcsöket, állatokat és kézműves termékeket cseréljen. A név ('Feketék völgye') a gyarmati időkbe nyúlik vissza, és a korabeli marroon (szökött rabszolga) közösségek itteni menedékeire utalhat. Földrajzilag a város egy termékeny mélyedésben, az úgynevezett 'fond'-ban fekszik, amelyet dombok vesznek körül. A város gazdasága egyértelműen a kereskedelemre épül, logisztikai hidat képezve a déli félsziget (Sud, Grand'Anse) és Port-au-Prince között. Földrajz K7 — kereskedelmi csomópontok és logisztika.",
+      "factsAdvanced": [
+        "A Nippes megyében, a Miragoâne járásban helyezkedik el.",
+        "Keresztülhalad rajta az országos fontosságú Route Nationale 2 (RN2).",
+        "A déli országrész egyik legnagyobb és legforgalmasabb mezőgazdasági piaca.",
+        "Tengerszint feletti magassága megközelítőleg 180 méter.",
+        "A település neve a gyarmati időkből és a szökött rabszolgáktól eredhet.",
+        "Kulcsfontosságú elosztó központ a Port-au-Prince felé tartó élelmiszereknek."
+      ]
+    },
+    {
+      "id": "paillant-cities-v2",
+      "descriptionAdvanced": "Paillant egy hűvös, hegyvidéki falu Haiti Nippes megyéjében, amely híres a bauxitbányászat történelmi örökségéről és a mezőgazdaságáról. Az 1950-es évektől az 1980-as évekig az amerikai Reynolds cég jelentős bauxitbányászati műveleteket folytatott a szomszédos Miragoâne közelében, és e tevékenység hatásai Paillant domborzatát és infrastruktúráját is formálták. Ma a bányák már rég bezártak, és a vörös földet az erózió nyomai csúfítják, de a közösség visszatért a mezőgazdasághoz. A település a Miragoâne fölé magasodó hegyekben fekszik, így a klíma itt jóval hűvösebb és csapadékosabb, mint a partvidéken, ami kiválóan alkalmassá teszi a területet káposzta, póréhagyma és más zöldségfélék termesztésére. Geschichte K8 — a külföldi nyersanyagkitermelés utóélete.",
+      "factsAdvanced": [
+        "A Nippes megye Miragoâne járásának hegyvidéki részén található.",
+        "Tengerszint feletti magassága a Miragoâne feletti dombokon kb. 600 méter.",
+        "A 20. század közepén az amerikai Reynolds cég bauxitbányászata határozta meg a régiót.",
+        "A bányászat megszűnése után a lakosság főleg zöldségtermesztésre váltott.",
+        "Hűvösebb klímája miatt a káposzta és a hagyma kedvelt termény.",
+        "A területen még ma is láthatók az egykori bányászat okozta vörösföld-hegek."
+      ]
+    },
+    {
+      "id": "port-au-prince-port-economic-v2",
+      "descriptionAdvanced": "A Port-au-Prince-i nemzetközi kikötő (Autorité Portuaire Nationale - APN) Haiti legfontosabb tengeri kapuja, az ország nemzetközi kereskedelmének éltető ereje. A kikötő bonyolítja le az ország importjának és exportjának több mint 80%-át, beleértve az élelmiszert, üzemanyagot, építőanyagokat és a textilipari termékeket. A 2010-es pusztító földrengés során a kikötői infrastruktúra jelentős része, köztük az északi móló is a tengerbe omlott, megbénítva a nemzetközi segélyszállítmányok érkezését. Azóta nagyszabású nemzetközi finanszírozású újjáépítési munkálatok zajlottak, amelyek modernizálták a konténerterminálokat és a darurendszereket. A kikötő a főváros északi részén, a La Saline ipari negyed és a Cité Soleil nyomornegyed szomszédságában található, ami gyakran logisztikai és biztonsági kihívásokat jelent a szállítmányozók számára. Földrajz K8 — nemzetközi kereskedelem és logisztikai központok.",
+      "factsAdvanced": [
+        "Haiti tengeri import- és exportforgalmának több mint 80%-át bonyolítja le.",
+        "A 2010-es földrengésben az eredeti mólók és daruk nagy része megsemmisült.",
+        "Az APN (Autorité Portuaire Nationale) állami hatóság felügyelete alatt áll.",
+        "A kikötő konténerterminálokkal és ömlesztettáru-fogadó részekkel is rendelkezik.",
+        "Közvetlen szomszédságában található a La Saline és a Cité Soleil negyed.",
+        "Az újjáépítés során modernizálták az amerikai és európai segélyalapokból."
+      ]
+    },
+    {
+      "id": "cap-haitien-port-economic-v2",
+      "descriptionAdvanced": "A Cap-Haïtien Nemzetközi Kikötő Haiti második legfontosabb tengeri csomópontja, amely az északi országrész (Nord megye) és az ipari parkok kereskedelmét szolgálja ki. A kikötő létfontosságú az ország decentralizációs törekvéseiben, mivel tehermentesíti a gyakran zsúfolt Port-au-Prince-i kikötőt. Kiemelt szerepet játszik a közeli Caracol Ipari Parkban előállított textiltermékek exportjában, amelyek nagyrészt az amerikai piacra tartanak a HOPE (Haitian Hemispheric Opportunity through Partnership Encouragement) törvény kedvezményei révén. Emellett jelentős az élelmiszer- és építőanyag-import is. Az utóbbi években az USAID és az Inter-American Development Bank (IDB) jelentős összegeket fektetett be a kikötő mélyítésébe és kapacitásának növelésébe, hogy a nagyobb konténerszállító hajókat (Panamax) is fogadhassa. Földrajz K8 — decentralizáció és exportvezérelt ipar.",
+      "factsAdvanced": [
+        "Haiti második legnagyobb és legforgalmasabb tengeri kikötője.",
+        "A Nord (Északi) megyében, Cap-Haïtien város partvonalán fekszik.",
+        "Kiemelt szerepe van a Caracol Ipari Park textiltermékeinek exportjában.",
+        "Az USAID és az IDB jelentős modernizációs projekteket finanszírozott itt.",
+        "Képes közepes méretű nemzetközi konténerszállító hajók fogadására.",
+        "Tehermentesíti a fővárost az északi és északkeleti megyék ellátásával."
+      ]
+    },
+    {
+      "id": "caracol-industrial-park-economic-v2",
+      "descriptionAdvanced": "A Caracol Ipari Park (Parc Industriel de Caracol - PIC) Haiti legnagyobb és legmodernebb feldolgozóipari komplexuma, amely a 2010-es földrengés utáni gazdasági újjáépítés zászlóshajójaként jött létre az északi Nord-Est megyében. A 2012-ben megnyitott parkot az amerikai kormány, az IDB és a haiti állam közösen finanszírozta, célja pedig több tízezer munkahely teremtése volt a decentralizáció jegyében. A több mint 250 hektáros területen főként külföldi (dél-koreai, dominikai) tulajdonú textil- és ruhaipari vállalatok működnek, amelyek a HOPE/HELP amerikai vámtörvények adta előnyöket kihasználva vámmentesen exportálhatnak az USA-ba. A park saját független áramfejlesztő erőművel és víztisztító teleppel rendelkezik, bár a kezdeti beígért 65 000 munkahelynek eddig csak egy része (kb. 15 000) valósult meg, és gyakran érik kritikák az alacsony bérek miatt. Földrajz K8 — globális ellátási láncok és ipari parkok.",
+      "factsAdvanced": [
+        "A Nord-Est megyében található, Caracol település közelében.",
+        "2012 októberében nyitotta meg kapuit amerikai és IDB támogatással.",
+        "Területe meghaladja a 250 hektárt (kb. 600 acre).",
+        "A fő bérlők ázsiai és karibi textil- és ruhagyártó vállalatok.",
+        "A park saját, független 10 megawattos hőerőművel rendelkezik.",
+        "Körülbelül 15 000 helyi lakosnak biztosít közvetlen munkahelyet."
+      ]
+    },
+    {
+      "id": "miragoane-port-economic-v2",
+      "descriptionAdvanced": "Miragoâne kikötője a Nippes megye és az egész délnyugati régió gazdasági központja, amely egy mély vizű, természetesen védett öbölben fekszik. A 20. század közepén, az 1950-es évektől a 80-as évekig ez a kikötő az amerikai Reynolds Metals Company exkluzív bauxit-exportáló állomásaként szolgált; ebből az időszakból származnak az öböl partján rozsdásodó ipari mementók. Miután a bányászat megszűnt, a kikötő szerepe visszaesett, és ma leginkább használt autók, építőanyagok (főleg cement és vas) és fogyasztási cikkek importjára használják a déli megyék ellátására. Bár a dokkok infrastruktúrája elavult, a kikötő stratégiai elhelyezkedése miatt kulcsfontosságú alternatívát jelent Port-au-Prince-szel szemben a déli áruszállításban. Földrajz K7 — kikötői infrastruktúra és a bányászat utóélete.",
+      "factsAdvanced": [
+        "A Nippes megye székhelyén, Miragoâne városában található.",
+        "Természetes mélyvízi öböllel rendelkezik a Gonâve-csatorna partján.",
+        "A 20. században az amerikai bauxit-export fő helyszíne volt.",
+        "Ma elsősorban használt járművek és építőanyagok importját kezeli.",
+        "Az infrastruktúra nagyrészt elavult, az egykori bányászati idők mementóival.",
+        "Fontos szerepe van a déli félsziget (Sud, Grand'Anse) ellátásában."
+      ]
+    },
+    {
+      "id": "saint-marc-port-economic-v2",
+      "descriptionAdvanced": "Saint-Marc kikötője az Artibonite megye tengeri kereskedelmi központja, mintegy 100 kilométerre északra Port-au-Prince-től. A kikötő kulcsfontosságú tranzitpont a közép-haiti mezőgazdasági termékek, különösen a rizs, valamint az importált fogyasztási cikkek számára. A kikötő infrastruktúrája viszonylag fejletlen a fővárosihoz képest, azonban a fővárosi krízisek és útblaszok idején (mint amilyenek a politikai zavargások során gyakoriak) Saint-Marc felértékelődik, mint biztonságosabb árufogadó pont. A kikötőben nagyrészt ömlesztett árut, használt ruházatot (pèpè) és élelmiszert raknak ki Miamiból és a szomszédos karibi szigetekről érkező kisebb teherhajókról. A város gazdasága erősen függ ettől a tengeri kapcsolattól, amely jelentős vámmunkahelyeket biztosít. Földrajz K7 — regionális kikötők és élelmiszerellátás.",
+      "factsAdvanced": [
+        "Haiti Artibonite megyéjében, a Saint-Marc-öböl partján fekszik.",
+        "Az ország harmadik legforgalmasabb teherkikötője a főváros és Cap-Haïtien után.",
+        "Fő profilja a fogyasztási cikkek, élelmiszerek és használt ruházat importja.",
+        "A kikötő fontossága megnő, amikor a fővárosi utak blokkolva vannak.",
+        "A leggyakoribb partnerek a floridai kikötőkből érkező kisebb hajók.",
+        "A kikötő bevételei a helyi önkormányzat fontos forrását képezik."
+      ]
+    },
+    {
+      "id": "jeremie-port-economic-v2",
+      "descriptionAdvanced": "Jérémie kikötője a Grand'Anse megye történelmi tengeri bejárata a Tiburon-félsziget északi oldalán. A várost gyakran 'a költők városának' hívják, de gazdasági szempontból is kiemelkedő volt a 19. és a kora 20. században mint a kávé, kakaó, nyersbőr és rönkfa exportközpontja. Mivel a megye a szárazföldön rendkívül nehezen és lassan megközelíthető az aszfaltozatlan utak miatt, a tengeri áruszállítás és a kompközlekedés Port-au-Prince felé évtizedekig a régió egyetlen megbízható kapcsolata volt a külvilággal. A modern időkben a kikötő elvesztette korábbi dicsőségét az eliszaposodás és a 2016-os Matthew hurrikán pusztításai miatt, amely megsemmisítette a mólók egy részét. Jelenleg leginkább kisebb helyi halászhajók és szenet szállító vitorlások (chaloupes) használják. Geschichte K7 — a délnyugati kávéexport hanyatlása.",
+      "factsAdvanced": [
+        "A Grand'Anse megye azonos nevű székhelyén található.",
+        "A 19. században Haiti egyik leggazdagabb exportkikötője volt (kávé, kakaó).",
+        "Az infrastruktúrát súlyosan megrongálta a 2016-os Matthew hurrikán.",
+        "A rossz szárazföldi utak miatt a tengeri szállítás sokáig elsődleges volt.",
+        "Jelenleg a sekély víz és az eliszaposodás miatt nagy hajókat nem tud fogadni.",
+        "Főként faszén, helyi agrártermékek és halászok használják a mólókat."
+      ]
+    },
+    {
+      "id": "port-de-paix-port-economic-v2",
+      "descriptionAdvanced": "A Port-de-Paix-i kikötő az északnyugati régió (Nord-Ouest megye) gazdasági szíve, amely közvetlenül a Tortuga-szigettel (Île de la Tortue) szemben, a Tortuga-csatorna partján helyezkedik el. Bár nevének jelentése 'Béke Kikötője', a város tengeri történelme a 17. századi kalózok és flibustier-k koráig nyúlik vissza. Manapság a kikötő elsősorban a Miamiból és a Bahamákról érkező áruk – főleg elektronikai cikkek, élelmiszerek és kerékpárok – fogadóállomása. A kikötő infrastruktúrája rendkívül elmaradott, hivatalos mólók és daruk hiányában a nagyobb hajóknak a nyílt vízen kell horgonyozniuk, ahonnan kisebb csónakokkal rakodják ki az árut. Emellett a kikötő fontos kiindulópontja a Tortuga-szigetre közlekedő utasszállító vitorlásoknak is. Földrajz K7 — infrastrukturális kihívások és szigeti közlekedés.",
+      "factsAdvanced": [
+        "A Nord-Ouest (Északnyugati) megye adminisztratív székhelyén található.",
+        "Közvetlen tengeri kapcsolatot biztosít a szemközti Tortuga-szigettel.",
+        "A 17. században alapították a Tortugáról áttelepült francia kalózok.",
+        "A mélyvízi mólók hiánya miatt az árut csónakokkal (chaloupes) kell partra vinni.",
+        "Jelentős az informális import Floridából és a Bahamákról.",
+        "A város körüli rossz úthálózat felértékeli a tengeri áruszállítás szerepét."
+      ]
+    },
+    {
+      "id": "aux-cayes-port-economic-v2",
+      "descriptionAdvanced": "Les Cayes (vagy Aux Cayes) kikötője a Sud (Déli) megye legfontosabb tengeri létesítménye a Tiburon-félsziget déli partján. A gyarmati korban Saint-Domingue egyik legvirágzóbb kikötője volt, ahonnan tonnaszámra szállították Európába a cukrot, indigót és kávét. Ma a kikötő főként a belföldi áruszállítást (cabotage) szolgálja ki, különösen az Île-à-Vache (Tehén-sziget) felé, valamint kisebb karibi importszállítmányokat fogad. Bár a város gazdasága viszonylag stabil a mezőgazdaságnak és a hazautalásoknak köszönhetően, a kikötői infrastruktúra fejlesztésre szorul, mivel a sekély vizek korlátozzák a nagyobb teherhajók belépését. Les Cayes kulcsszerepet játszik a déli megyék élelmiszer-biztonságában, és a kikötő környéke nyüzsgő kereskedelmi élet színtere. Geschichte K7 — a déli gyarmati kikötők átalakulása.",
+      "factsAdvanced": [
+        "A Sud (Déli) megye székhelyének, Les Cayes-nek a kikötője.",
+        "A történelem során a cukor és indigó kivitelének központja volt.",
+        "Jelentős forgalmat bonyolít le az Île-à-Vache szigettel.",
+        "A kikötő vizének sekélysége nem engedi a nagy nemzetközi teherhajók fogadását.",
+        "Kulcsfontosságú bázis volt Simón Bolívar hajórajának felszereléséhez 1815-ben.",
+        "Jelenleg főleg cementet, élelmiszert és belföldi árut forgalmaz."
+      ]
+    },
+    {
+      "id": "fort-liberte-port-economic-v2",
+      "descriptionAdvanced": "Fort-Liberté öble egyedülálló geológiai képződmény a Nord-Est (Északkeleti) megyében, amely egy szűk csatornán keresztül kapcsolódik az Atlanti-óceánhoz, de belül tágas, palack alakú, természetesen védett mélyvízi kikötőt alkot. Bár történelmileg – a francia gyarmati időkben Fort-Dauphin néven – hatalmas stratégiai és haditengerészeti jelentőséggel bírt (amit a bejáratnál őrködő erődromok is jeleznek), ma a kikötő kereskedelmi forgalma elhanyagolható a szomszédos Cap-Haïtien miatt. Az elmúlt évtizedekben többször felmerült a terület turisztikai fejlesztése vagy egy nemzetközi mélyvízi kikötő építése a közeli Caracol Ipari Park kiszolgálására, de ezek a tervek eddig nem valósultak meg környezetvédelmi (mangrove erdők) és pénzügyi okok miatt. A helyiek ma leginkább halászatból élnek. Földrajz K8 — mélyvízi öblök és környezetvédelmi dilemmák.",
+      "factsAdvanced": [
+        "A Nord-Est (Északkeleti) megye székhelyén található, természetes öbölben.",
+        "Az öblöt a nyílt óceántól egy keskeny, alig 1 kilométeres csatorna választja el.",
+        "A francia gyarmati időkben Fort-Dauphin néven jelentős hadikikötő volt.",
+        "Mély vize ellenére a modern teherforgalom minimális a területen.",
+        "Az öblöt kiterjedt és ökológiailag fontos mangrove erdők szegélyezik.",
+        "A Caracol Ipari Park közelsége miatt többször tervezték modern kikötővé alakítását."
+      ]
+    },
+    {
+      "id": "la-gonave-port-economic-v2",
+      "descriptionAdvanced": "A Gonâve-sziget (Île de la Gonâve) kikötője, amely főként a székhelyen, Anse-à-Galets-ben található, a sziget egyetlen kapuja a haiti szárazföld felé. A kikötő infrastruktúrája szinte csak egy fából és betonból tákolt mólóból áll, ahol a színes, faszénnel és utasokkal megrakott vitorlások (chaloupes) és motorcsónakok horgonyoznak. Minden áru, ami a mintegy 80 ezer lakosú szigetre érkezik – az ivóvíztől és az élelmiszertől kezdve az építőanyagokig – ezen a kikötőn keresztül halad át a szárazföldi Arcahaie vagy Port-au-Prince irányából. A kikötő környékét gyakran jellemzi a káosz és a túlzsúfoltság, mivel az utazás veszélyes és az időjárás kiszámíthatatlan a Gonâve-csatornában. Ez a logisztikai vonal kritikus a vízhiányos sziget túlélése szempontjából. Földrajz K7 — szigeti izoláció és tengeri teherszállítás.",
+      "factsAdvanced": [
+        "A sziget fő kikötője az Ouest megyéhez tartozó Anse-à-Galets városában van.",
+        "A teljes szigeti lakosság (kb. 80 000 fő) ellátása ettől a kikötőtől függ.",
+        "Nincsenek modern daruk, az árut kézi erővel pakolják fel a kishajókra.",
+        "A fő célállomások a szárazföldi Arcahaie, Montrouis és Port-au-Prince.",
+        "A legfontosabb exportcikk a szigetről a faszén és a tengeri só.",
+        "A Gonâve-csatornán való átkelés gyakran veszélyes a túlzsúfolt csónakok miatt."
+      ]
+    },
+    {
+      "id": "cite-soleil-manufacturing-economic-v2",
+      "descriptionAdvanced": "Cité Soleil eredetileg 'Cité Simone' néven épült a 20. század közepén Duvalier felesége után, azzal a céllal, hogy a Port-au-Prince körüli Export Feldolgozó Zónák (EPZ) olcsó munkaerejét elszállásolja. A kikötő és az ipari parkok közelében fekvő területen a 80-as és 90-es években virágzott a könnyűipar, főként a sporteszközök (baseball-labdák), elektronikai alkatrészek és ruházati cikkek összeszerelése az amerikai piacra. Az 1991-es embargó és az azt követő politikai instabilitás azonban a gyárak bezárásához vezetett, a negyed pedig a nyugati félteke egyik leghírhedtebb és legszegényebb nyomornegyedévé vált. Ma a gyártóipar töredéke működik csak a peremvidékeken, miközben a lakosság nagy része a közeli nemzetközi kikötő informális gazdaságából, fémhulladék-újrahasznosításból és kiskereskedelemből él. Geschichte K8 — az exportfeldolgozó zónák tündöklése és bukása.",
+      "factsAdvanced": [
+        "Port-au-Prince északi peremén, közvetlenül a nemzetközi kikötő mellett fekszik.",
+        "Eredetileg Cité Simone néven építették a gyári munkások számára az 1960-as években.",
+        "Az 1980-as években a világ egyik legnagyobb baseball-labda gyártó központja volt.",
+        "Az 1990-es évek gazdasági embargói miatt a gyárak szinte mind bezártak.",
+        "Ma több százezer ember él itt extrém szegénységben, alapvető infrastruktúra nélkül.",
+        "A megmaradt könnyűipari tevékenység (textil) a negyed szélén, a SONAPI ipari parkban összpontosul."
+      ]
+    }
+  ]
+}

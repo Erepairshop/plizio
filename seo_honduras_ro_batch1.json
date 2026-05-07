@@ -1,0 +1,340 @@
+{
+  "lang": "ro",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marcovia-cities-v2",
+      "descriptionAdvanced": "Marcovia este un municipiu important în departamentul Choluteca, din sudul Hondurasului, recunoscut pentru activitățile sale agricole și peisajele de coastă. Situată în apropierea Golfului Fonseca, această zonă beneficiază de un climat cald, propice pentru cultivarea trestiei de zahăr, a pepenilor și creșterea creveților, fiind un pilon al economiei regionale. În trecut, teritoriul a fost locuit de comunități indigene înainte de colonizarea spaniolă, iar astăzi combină tradițiile rurale cu dezvoltarea agricolă modernă. Atracțiile sale includ zonele umede de coastă și plajele din apropiere, unde pescuitul artizanal joacă un rol vital. De asemenea, Marcovia se remarcă prin festivitățile sale locale care reflectă patrimoniul cultural bogat și viața comunității din sudul țării.",
+      "factsAdvanced": [
+        "Populație estimată la peste 46.000 de locuitori",
+        "Fondată oficial în anul 1882",
+        "Altitudinea medie este de aproximativ 15 metri deasupra nivelului mării",
+        "Economia se bazează pe cultivarea trestiei de zahăr, pepenilor verzi și acvacultură",
+        "Este situată la o distanță scurtă de coasta Golfului Fonseca",
+        "Regiunea găzduiește ecosisteme importante de mangrove",
+        "Unul dintre principalele centre de producție de creveți din Honduras"
+      ]
+    },
+    {
+      "id": "la-paz-cities-v2",
+      "descriptionAdvanced": "La Paz, capitala departamentului omonim, este un oraș istoric situat în regiunea sud-vestică a Hondurasului. Fondat în secolul al XVIII-lea, orașul este înconjurat de munți pitorești și peisaje verzi care definesc această zonă a țării. Economia locală se sprijină puternic pe agricultură, în special pe cultivarea cafelei de înaltă calitate, care este apreciată la nivel internațional, alături de porumb și fasole. La Paz este recunoscut și pentru moștenirea sa arhitecturală colonială, incluzând Biserica Parohială Nuestra Señora de los Dolores, o emblemă a orașului. În plus, orașul a fost locul de naștere al mai multor președinți și personalități politice honduriene, având un rol semnificativ în istoria națională, fiind un centru cultural și administrativ cheie în regiune.",
+      "factsAdvanced": [
+        "Fondat în 1750 sub numele de El Valle de las Piedras",
+        "Devine oficial oraș și capitală departamentală în anul 1869",
+        "Altitudinea medie este de aproximativ 750 de metri",
+        "Populație urbană estimată la peste 16.000 de locuitori",
+        "Regiunea este recunoscută pentru producția de cafea de altitudine și cereale",
+        "Păstrează numeroase clădiri cu arhitectură de epocă colonială spaniolă",
+        "Biserica Nuestra Señora de los Dolores este principalul monument istoric"
+      ]
+    },
+    {
+      "id": "amapala-cities-v2",
+      "descriptionAdvanced": "Amapala este un oraș-port pitoresc și plin de istorie, situat pe Insula El Tigre în Golful Fonseca, pe coasta pacifică a Hondurasului. Timp de multe decenii, la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, a servit drept principalul port la Oceanul Pacific al țării, fiind un nod crucial pentru comerțul internațional. Astăzi, deși traficul comercial a fost redirecționat spre portul San Lorenzo, Amapala și-a păstrat farmecul prin străzile sale liniștite, arhitectura victoriană și colonială din lemn și panoramele spectaculoase asupra vulcanilor din regiune. Turismul, pescuitul și agricultura la scară mică sunt esențiale pentru economia actuală a insulei. Izolarea sa relativă oferă o atmosferă unică, atrăgând vizitatori interesați de istoria navală, plaje vulcanice și ecosisteme marine intacte.",
+      "factsAdvanced": [
+        "Fondat în anul 1833 pe insula vulcanică El Tigre",
+        "A fost principalul port la Pacific al Hondurasului până în anii 1970",
+        "Altitudinea maximă a insulei atinge 783 de metri",
+        "Accesibil doar prin intermediul bărcilor dinspre continent",
+        "Păstrează clădiri istorice din perioada de glorie a exportului de minerale",
+        "Populația este de aproximativ 13.000 de locuitori",
+        "A găzduit temporar guvernul hondurian în perioada de criză din 1895"
+      ]
+    },
+    {
+      "id": "intibuca-cities-v2",
+      "descriptionAdvanced": "Intibucá este un oraș situat în zona montană înaltă din vestul Hondurasului, renumit pentru clima sa răcoroasă și moștenirea puternică a culturii Lenca. Formează o aglomerație urbană unică împreună cu orașul învecinat La Esperanza, cele două fiind separate de străzi invizibile administrativ, dar unite geografic. Regiunea se mândrește cu tradițiile indigene vii, reflectate în artizanatul local, textilele colorate și practicile agricole tradiționale. Datorită altitudinii ridicate, solurile sunt ideale pentru cultivarea cartofilor, căpșunilor și a altor culturi de climă temperată, care sunt esențiale pentru economia locală. Turiștii sunt atrași de atmosfera autentică, piețele vibrante și festivalurile locale, cum ar fi Festivalul Cartofului, care celebrează producția agricolă și identitatea indigenă a zonei.",
+      "factsAdvanced": [
+        "Situat la o altitudine impresionantă de aproximativ 1.700 de metri",
+        "Este unul dintre cele mai reci orașe din Honduras",
+        "Formează un oraș geamăn împreună cu La Esperanza",
+        "Populația este predominant de origine indigenă Lenca",
+        "Economia se bazează pe cultivarea cartofilor, pomicultură și țesături tradiționale",
+        "Găzduiește anual faimosul Festival Național al Cartofului",
+        "Orașul a primit statutul de municipiu în anul 1883"
+      ]
+    },
+    {
+      "id": "puerto-lempira-cities-v2",
+      "descriptionAdvanced": "Puerto Lempira este cel mai mare oraș și capitala departamentului Gracias a Dios, situat în izolata regiune La Mosquitia din nord-estul Hondurasului. Amplasat pe malul lagunei Caratasca, orașul servește drept principal centru administrativ și comercial pentru această zonă vastă de păduri tropicale, mlaștini și savane. Accesul se face predominant pe calea aerului sau pe apă, regiunea nefiind conectată la rețeaua națională de autostrăzi. Orașul este un mozaic cultural fascinant, găzduind comunități Miskito, Pech, Tawahka, precum și populații Garifuna și ladino. Economia locală se bazează pe pescuitul comercial (în special pe scufundările pentru homari), agricultură de subzistență și comerț regional. Puerto Lempira este poarta de intrare către ecosistemele virgine din Rezervația Biosferei Río Plátano, o destinație esențială pentru ecoturism.",
+      "factsAdvanced": [
+        "Populație estimată la peste 50.000 de locuitori",
+        "Situat pe țărmul lagunei Caratasca, una dintre cele mai mari din America Centrală",
+        "Accesibil în principal prin aeroportul local sau prin bărci",
+        "Este centrul cultural și economic al populației indigene Miskito",
+        "Economia este puternic dependentă de pescuitul de homari și comerțul maritim",
+        "Regiunea din jur face parte din vasta Rezervație a Biosferei Río Plátano",
+        "Clima este tropical-umedă, caracteristică coastelor caraibiene"
+      ]
+    },
+    {
+      "id": "la-entrada-cities-v2",
+      "descriptionAdvanced": "La Entrada este un oraș dinamic și un important nod comercial situat în departamentul Copán din vestul Hondurasului. Numele său, care se traduce prin „Intrarea”, reflectă poziția sa strategică ca punct de tranzit obligatoriu pentru călătorii și mărfurile care se îndreaptă spre faimoasele Ruine Mayașe din Copán, precum și către frontierele cu Guatemala. Orașul cunoaște o creștere rapidă, bazată pe comerț, servicii și agricultură, fiind un centru de colectare pentru regiunile cultivatoare de cafea și tutun din jur. Deși nu este la fel de vechi sau istoric precum alte orașe din regiune, dezvoltarea sa modernă l-a transformat într-un pol economic vital, oferind facilități esențiale și servicii de transport pentru departament. Agitația străzilor sale și piețele active reflectă spiritul antreprenorial al locuitorilor săi.",
+      "factsAdvanced": [
+        "Situat la intersecția principalelor drumuri către Copán Ruinas și frontiera guatemaleză",
+        "Face parte administrativ din municipiul Nueva Arcadia",
+        "Este unul dintre cele mai importante centre comerciale din departamentul Copán",
+        "Economia depinde de comerțul cu amănuntul, agricultură și transport",
+        "A cunoscut o creștere demografică și urbană semnificativă în ultimele decenii",
+        "Se află la o altitudine de aproximativ 400 de metri deasupra nivelului mării",
+        "Servește drept punct major de distribuție pentru bunurile din regiunea de vest a țării"
+      ]
+    },
+    {
+      "id": "valle-de-angeles-cities-v2",
+      "descriptionAdvanced": "Valle de Ángeles este un oraș pitoresc, cu un farmec colonial bine conservat, situat la mică distanță de capitala Tegucigalpa, în departamentul Francisco Morazán. Datorită proximității sale față de capitală și climei răcoroase de munte, a devenit o destinație turistică de top, preferată pentru evadările de weekend. Orașul este celebru în tot Hondurasul pentru meșteșugurile sale autentice, în special pentru sculptura în lemn, prelucrarea pielăriei, olărit și textile. Străzile sale pietruite, străjuite de case tradiționale cu acoperișuri din țiglă roșie, găzduiesc numeroase galerii de artă, cafenele și restaurante care servesc preparate locale. De asemenea, Valle de Ángeles oferă acces la trasee de drumeții spectaculoase în Parcul Național La Tigra, subliniind legătura sa strânsă cu natura și eforturile de conservare ecologică.",
+      "factsAdvanced": [
+        "Situat la doar 22 de kilometri distanță de capitala Tegucigalpa",
+        "Aflat la o altitudine confortabilă de aproximativ 1.300 de metri",
+        "Cunoscut la nivel național ca un centru principal al meșteșugurilor și artizanatului",
+        "Fondat în secolul al XIX-lea, inițial ca o mică așezare minieră",
+        "În apropiere se află Parcul Național La Tigra, prima rezervație naturală a țării",
+        "Populația municipiului este de aproximativ 20.000 de locuitori",
+        "Atrage anual mii de turiști locali și internaționali"
+      ]
+    },
+    {
+      "id": "santa-rita-cities-v2",
+      "descriptionAdvanced": "Santa Rita este un oraș agricol important situat în departamentul Yoro, în nordul Hondurasului, de-a lungul fertilului bazin al râului Ulúa. Economia orașului este profund ancorată în agricultură, fiind un producător major de banane, palmieri de ulei, citrice și trestie de zahăr, culturi esențiale pentru exporturile naționale. Regiunea beneficiază de o infrastructură dezvoltată datorită companiilor agroindustriale care au operat aici de-a lungul timpului. Orașul se caracterizează printr-o atmosferă caldă, tipică regiunilor de câmpie tropicală, și o populație activă, implicată în diverse ramuri ale sectorului primar. Apropierea de El Progreso și San Pedro Sula îi oferă avantaje logistice semnificative, facilitând transportul produselor agricole către porturile de pe coasta Mării Caraibelor.",
+      "factsAdvanced": [
+        "Așezat pe malurile râului Ulúa, unul dintre cele mai mari din țară",
+        "Recunoscut ca un centru vital al producției de banane și ulei de palmier",
+        "Populație estimată la aproximativ 21.000 de locuitori în zona urbană",
+        "Orașul a primit titlul oficial de municipiu în anul 1959",
+        "Altitudinea este joasă, fiind de aproximativ 40 de metri deasupra nivelului mării",
+        "Joacă un rol cheie în economia departamentului Yoro datorită agrobusinessului",
+        "Se bucură de un climat tropical umed pe tot parcursul anului"
+      ]
+    },
+    {
+      "id": "potrerillos-cities-v2",
+      "descriptionAdvanced": "Potrerillos este un municipiu strategic situat în departamentul Cortés, în regiunea de nord-vest a Hondurasului. Amplasarea sa pe coridorul rutier principal care leagă capitala Tegucigalpa de capitala industrială, San Pedro Sula, îl face un punct nodal esențial pentru transportul de mărfuri și persoane. Istoric, a fost un terminal important pentru rețeaua feroviară a companiilor bananiere, facilitând exportul fructelor către porturile din nord. În prezent, economia sa s-a diversificat, incluzând comerțul, serviciile, sectorul manufacturier (maquilas) și agricultura de pe văile din apropiere. Comunitatea a fost frecvent testată de inundațiile râului Ulúa în timpul sezonului ploios, ceea ce a dus la eforturi continue pentru dezvoltarea unor infrastructuri reziliente și a planurilor de apărare împotriva dezastrelor naturale.",
+      "factsAdvanced": [
+        "Situat în apropierea intersecției marilor râuri Ulúa și Comayagua",
+        "A servit în trecut drept principal nod feroviar pentru transportul de mărfuri",
+        "Fondat la sfârșitul secolului al XIX-lea în timpul expansiunii bananiere",
+        "Populație de aproximativ 25.000 de locuitori",
+        "Economia combină industria manufacturieră cu serviciile logistice",
+        "Altitudinea medie este foarte redusă, de doar 30 de metri",
+        "Este vulnerabil la inundații majore din cauza topografiei"
+      ]
+    },
+    {
+      "id": "morazan-cities-v2",
+      "descriptionAdvanced": "Morazán este un oraș înfloritor din departamentul Yoro, localizat în valea fertilă Aguán, una dintre cele mai productive regiuni agricole din Honduras. Orașul este dedicat în principal sectorului agricol și zootehnic, cu suprafețe extinse cultivate cu porumb, fasole, arbori de cafea în zonele deluroase și ferme de creștere a bovinelor. Numele său a fost dat în onoarea eroului național Francisco Morazán, o figură centrală a istoriei central-americane. Comunitatea din Morazán își păstrează puternicele tradiții rurale, iar piețele locale sunt centre de schimb vivace pentru produsele obținute din agricultură. Datorită investițiilor recente în infrastructură, orașul cunoaște o modernizare progresivă, atrăgând mici întreprinderi care sprijină sectorul agro-industrial și oferă noi oportunități economice locuitorilor.",
+      "factsAdvanced": [
+        "Inițial numit Cataguana, a fost redenumit în onoarea lui Francisco Morazán în 1943",
+        "Situat în departamentul Yoro, cu o populație urbană de peste 13.000 de locuitori",
+        "Altitudinea orașului este de aproximativ 190 de metri",
+        "Economia este dominată de cultivarea cerealelor de bază și creșterea vitelor",
+        "Bazinul hidrografic local sprijină o agricultură diversificată",
+        "Regiunea are un climat tropical umed și uscat, specific văilor nordice",
+        "Dispune de resurse naturale valoroase, incluzând zone împădurite în vecinătate"
+      ]
+    },
+    {
+      "id": "talanga-cities-v2",
+      "descriptionAdvanced": "Talanga este un oraș comercial animat și un important nod de comunicații în departamentul Francisco Morazán, situat la nord de capitala Tegucigalpa, pe drumul principal spre departamentul Olancho. Economia orașului se bazează pe o combinație robustă de agricultură, creșterea animalelor și un comerț activ, facilitat de tranzitul rutier intens. Valea în care este situat oferă terenuri fertile pentru producția de trestie de zahăr, cereale și lactate. Talanga se mândrește cu o comunitate unită și o istorie care datează din perioada colonială, având o biserică tradițională în centrul așezării. Creșterea urbană a adus servicii moderne și o diversificare a afacerilor locale, transformând orașul într-unul dintre centrele cu cea mai rapidă dezvoltare din afara zonei metropolitane a capitalei.",
+      "factsAdvanced": [
+        "Recunoscut oficial ca municipiu încă din anul 1829",
+        "Situat pe autostrada strategică RN-15, care leagă Tegucigalpa de Olancho",
+        "Populația municipiului depășește 35.000 de locuitori",
+        "Altitudinea medie se situează în jurul valorii de 800 de metri",
+        "Un producător semnificativ de zahăr, lactate și cereale pentru piața națională",
+        "Orașul găzduiește anual festivalul patronal în cinstea Sfântului Diego",
+        "Terenurile fertile din Valea Talanga sprijină economia agricolă"
+      ]
+    },
+    {
+      "id": "cofradia-cities-v2",
+      "descriptionAdvanced": "Cofradía este o localitate importantă și dens populată care face parte din jurisdicția administrativă a orașului San Pedro Sula, situată în departamentul Cortés, pe un coridor vital către regiunea de vest. Având o creștere accelerată, așezarea servește în mare parte ca zonă rezidențială și industrială pentru forța de muncă din industria maquila și pentru afacerile din valea Sula. Deși este integrată în dinamica economică a metropolei din apropiere, Cofradía își păstrează o identitate comunitară distinctă, cu cartiere aglomerate și activități comerciale proprii la scară mică. Locația sa la poalele munților Merendón îi oferă peisaje frumoase, dar impune și provocări legate de managementul dezvoltării urbane și protecția mediului. Istoric, a fost o așezare precolumbiană, devenind ulterior un centru important în perioada colonială.",
+      "factsAdvanced": [
+        "Situată pe ruta principală care conectează San Pedro Sula de vestul țării (CA-4)",
+        "Acționează ca un centru rezidențial major pentru San Pedro Sula",
+        "Populația sa estimată depășește 100.000 de locuitori",
+        "Istoria sa datează dinaintea colonizării, fiind un sat indigen important",
+        "Biserica locală, una dintre cele mai vechi din regiune, atestă trecutul său colonial",
+        "Economia depinde puternic de zonele industriale din Sula Valley",
+        "Aflată la o altitudine de doar 130 de metri"
+      ]
+    },
+    {
+      "id": "sonaguera-cities-v2",
+      "descriptionAdvanced": "Sonaguera este un municipiu agricol situat în inima departamentului Colón, renumit la nivel național ca „Capitala citricelor” a Hondurasului. Economia sa este aproape exclusiv dependentă de cultivarea și procesarea portocalelor, lămâilor și altor citrice, care alimentează piața internă și industria sucurilor naturale. Valea fertilă a râului Aguán, unde este amplasat orașul, este un mediu perfect pentru agricultură la scară largă, incluzând, de asemenea, plantații de palmieri de ulei și creșterea bovinelor. Orașul reflectă o istorie lungă, fiind una dintre primele așezări coloniale spaniole din regiune, fondată inițial ca zonă de misiune. Dincolo de agricultură, comunitatea își menține festivitățile tradiționale care celebrează producția agricolă și moștenirea culturală a nordului hondurian.",
+      "factsAdvanced": [
+        "Cunoscut oficial în Honduras sub numele de „Capitala Citricelor”",
+        "Produce o mare parte din portocalele comercializate pe piața națională",
+        "A fost fondată de exploratorii spanioli în anul 1536",
+        "Altitudinea localității este de aproximativ 100 de metri deasupra mării",
+        "Populația municipiului este de aproximativ 45.000 de locuitori",
+        "Face parte din fertila vale a râului Aguán",
+        "Pe lângă citrice, cultivarea palmierului de ulei joacă un rol major"
+      ]
+    },
+    {
+      "id": "cane-cities-v2",
+      "descriptionAdvanced": "Cane este un mic oraș situat în departamentul La Paz, remarcabil pentru atmosfera sa liniștită și eforturile recente de modernizare urbană și culturală. Spre deosebire de alte comunități rurale din regiune, Cane s-a distins printr-un plan de dezvoltare remarcabil, îmbunătățindu-și infrastructura stradală, parcurile și centrele culturale, ceea ce i-au adus titlul de unul dintre cele mai curate și organizate municipii din țară. Economia este bazată pe agricultura tradițională și remitențele din străinătate, care au sprijinit dezvoltarea afacerilor locale. Atracția principală este statuia monumentală „Cristo Rey” de pe dealul cu vedere spre oraș, un loc de pelerinaj și un punct de atracție turistică ce oferă o panoramă superbă asupra văii La Paz.",
+      "factsAdvanced": [
+        "Deține distincția de a fi recunoscut ca unul dintre cele mai curate orașe din Honduras",
+        "Obține statutul oficial de municipiu la 2 mai 1932",
+        "Altitudinea medie este de aproximativ 650 de metri deasupra nivelului mării",
+        "Monumentul „El Cristo de Cane” este cel mai important punct de atracție",
+        "Populația municipiului este mică, având sub 5.000 de locuitori",
+        "Economia locală beneficiază substanțial din sprijinul remitențelor",
+        "Promovează activ educația și arta prin bibliotecă și centre culturale moderne"
+      ]
+    },
+    {
+      "id": "gualaco-cities-v2",
+      "descriptionAdvanced": "Gualaco este un municipiu vast situat în departamentul Olancho, cunoscut pentru frumusețea sa naturală nealterată și geografia sa muntoasă spectaculoasă. Orașul, înconjurat de păduri masive de pini și ecosisteme diverse, servește drept poartă de acces către Parcul Național Sierra de Agalta și peșterile de la Susmay, atracții naturale remarcabile care atrag iubitorii de ecoturism și aventură. Economia regiunii se bazează puternic pe creșterea vitelor, o industrie tradițională în Olancho, precum și pe cultivarea cafelei de altitudine și pe silvicultură. Gualaco are o istorie veche, fondat în secolul al XVII-lea, și păstrează o arhitectură colonială simplă în centrul său istoric. Viața comunității este marcată de un profund respect pentru tradițiile rurale și de o legătură strânsă cu natura sălbatică înconjurătoare.",
+      "factsAdvanced": [
+        "Situat în vastul departament Olancho, având o istorie care datează din 1657",
+        "Populația întregului municipiu este de aproximativ 22.000 de locuitori",
+        "În apropiere se află faimoasele peșteri de calcar de la Susmay",
+        "Reprezintă unul dintre punctele principale de acces pentru Parcul Național Sierra de Agalta",
+        "Altitudinea orașului este de 580 de metri, dar relieful din jur este accidentat",
+        "Creșterea bovinelor și agricultura extensivă constituie baza economiei",
+        "Găzduiește zone bogate în biodiversitate, protejate prin reglementări"
+      ]
+    },
+    {
+      "id": "la-union-cities-v2",
+      "descriptionAdvanced": "La Unión este un oraș activ din estul departamentului Olancho, înconjurat de văi largi și păduri de pini, o caracteristică definitorie a peisajului din această regiune a Hondurasului. Economia orașului a fost dintotdeauna stimulată de silvicultură, datorită vastelor resurse forestiere disponibile, precum și de creșterea intensivă a bovinelor și agricultura tradițională cu cereale. Mai recent, descoperirile de resurse minerale și cultivarea cafelei au diversificat sursele de venit ale comunității. Orașul s-a format prin unirea mai multor așezări mici, de unde derivă și numele său („Unirea”). La Unión oferă acces la Rezervația Biologică La Muralla, un sanctuar esențial pentru fauna și flora montană neotropicală, ceea ce îi conferă și un potențial ecoturistic semnificativ.",
+      "factsAdvanced": [
+        "Numele provine de la decizia istorică de a uni mai multe sate mici",
+        "Fondat oficial în anul 1852",
+        "Este situat la o altitudine aproximativă de 740 de metri",
+        "Populație estimată la peste 25.000 de locuitori",
+        "Silvicultura și producția de lemn reprezintă o parte importantă din istoria sa",
+        "Oferă acces facil spre Rezervația Biologică La Muralla",
+        "Găzduiește anual festivaluri care celebrează cultura rurală olanchană"
+      ]
+    },
+    {
+      "id": "marcala-cities-v2",
+      "descriptionAdvanced": "Marcala este un oraș renumit, situat în departamentul La Paz, recunoscut pe plan mondial pentru cafeaua sa excepțională, cultivată la mare altitudine. Zona a obținut prima Denumire de Origine Protejată din America Centrală pentru „Café de Marcala”, o recunoaștere a calității deosebite a boabelor produse aici, datorită climei și solurilor perfecte. Orașul este situat într-o regiune cu tradiții indigene Lenca puternice, fapt reflectat în festivalurile locale, arta artizanală și practicile agricole durabile. Turismul a luat o amploare semnificativă, vizitatorii fiind atrași atât de „traseele cafelei”, unde pot învăța despre procesul de cultivare și prăjire, cât și de atracțiile naturale impresionante din împrejurimi, precum cascadele El Chiflador și La Estanzuela.",
+      "factsAdvanced": [
+        "Regiunea deține prima Denumire de Origine pentru cafea din America Centrală",
+        "Orașul se află la o altitudine ridicată, de aproximativ 1.300 de metri",
+        "Fondat oficial în secolul al XIX-lea, zona a fost locuită istoric de populația Lenca",
+        "Este principalul centru economic și comercial din sudul departamentului La Paz",
+        "În apropiere se găsesc cascade spectaculoase precum El Chiflador",
+        "Populația municipiului depășește 30.000 de locuitori",
+        "Găzduiește anual Festivalul Național al Cafelei"
+      ]
+    },
+    {
+      "id": "ocotepeque-cities-v2",
+      "descriptionAdvanced": "Ocotepeque, cunoscut frecvent sub numele de Nueva Ocotepeque, este capitala departamentului omonim, situat în colțul extrem vestic al Hondurasului, aproape de granița cu El Salvador și Guatemala. Orașul original, Antigua Ocotepeque, a fost distrus de o inundație masivă în 1934, ceea ce a dus la reconstrucția sa într-o locație nouă, mai sigură. Această poziție trifrontalieră îi conferă o importanță comercială și logistică esențială, fiind un punct nevralgic pentru comerțul internațional din America Centrală. Economia este diversificată, bazându-se pe comerțul transfrontalier, cultivarea cafelei de înaltă calitate, a cepei și a altor produse agricole. Orașul servește, de asemenea, ca bază pentru vizitarea Rezervației Biologice Güisayote, un ecosistem vital de pădure de nori.",
+      "factsAdvanced": [
+        "Cunoscut drept „Nueva Ocotepeque” după mutarea orașului în anul 1934",
+        "Este capitala departamentului Ocotepeque, cu o populație urbană de peste 16.000 locuitori",
+        "Situat la o altitudine de aproximativ 820 de metri deasupra nivelului mării",
+        "Aflat într-un punct strategic de comerț, la granița cu Guatemala și El Salvador",
+        "A fost scena principală a conflictelor în timpul „Războiului Fotbalului” din 1969",
+        "Regiunea este un important producător național de ceapă, varză și cafea",
+        "Rezervația Biologică Güisayote din apropiere protejează păduri tropicale"
+      ]
+    },
+    {
+      "id": "la-libertad-cities-v2",
+      "descriptionAdvanced": "La Libertad este un municipiu liniștit și muncitor, situat în regiunea nordică a departamentului Comayagua. Deși este mai puțin cunoscut la nivel național, orașul joacă un rol important în producția agricolă a departamentului, fiind un centru de cultivare a cafelei, care este sursa principală de venit pentru majoritatea familiilor din zonă. Așezat pe un teren deluros și acoperit de vegetație luxuriantă, clima sa favorizează dezvoltarea unor soiuri de cafea de înaltă calitate, recunoscute în regiune. Istoria orașului începe în secolul al XIX-lea, numele său, „Libertatea”, reflectând spiritul independent al locuitorilor săi. Viața comunității este profund rurală și centrată pe ciclurile agricole, sărbătorind cu entuziasm recoltele și festivitățile patronale anuale.",
+      "factsAdvanced": [
+        "Primește statutul oficial de municipiu la 12 martie 1876",
+        "Numele anterior a fost „Portillo de la Criba” înainte de a fi redenumit",
+        "Altitudinea orașului este de aproximativ 800 de metri",
+        "Populație estimată la peste 27.000 de locuitori",
+        "Economia este dominată de cultivarea cafelei, porumbului și fasolei",
+        "Este înconjurat de păduri tropicale și zone montane abrupte",
+        "Infrastructura rutieră modernizată a facilitat accesul către piețele mari"
+      ]
+    },
+    {
+      "id": "san-marcos-de-colon-cities-v2",
+      "descriptionAdvanced": "San Marcos de Colón este un oraș pitoresc din departamentul Choluteca, situat la o altitudine neobișnuit de ridicată pentru sudul Hondurasului, aproape de frontiera cu Nicaragua. Datorită altitudinii sale de aproape 1.000 de metri, beneficiază de un climat temperat extrem de plăcut, care contrastează puternic cu căldura extremă a câmpiei din sud. Această climă a favorizat dezvoltarea agriculturii de înaltă calitate, inclusiv cafea, și a unei industrii a lactatelor renumite la nivel național. Datorită bogăției sale ecologice, zona a fost declarată Rezervație a Biosferei de către UNESCO. Orașul păstrează o arhitectură colonială fermecătoare, străzi curate și un ritm de viață liniștit, devenind o destinație populară atât pentru ecoturism, cât și pentru iubitorii de cultură tradițională.",
+      "factsAdvanced": [
+        "Recunoscută de UNESCO ca Rezervație a Biosferei în 2017",
+        "Altitudinea de 960 de metri îi conferă un climat răcoros atipic regiunii sudice",
+        "Orașul a fost fondat la sfârșitul secolului al XIX-lea",
+        "Este un centru renumit pentru producția de lactate și brânzeturi tradiționale",
+        "Populația municipiului este de aproximativ 29.000 de locuitori",
+        "Situat pe autostrada panamericană, lângă frontiera La Fraternidad",
+        "Păstrează numeroase conace tradiționale, fiind un oraș sigur și curat"
+      ]
+    },
+    {
+      "id": "sabanagrande-cities-v2",
+      "descriptionAdvanced": "Sabanagrande este un municipiu istoric situat în departamentul Francisco Morazán, poziționat pe autostrada sudică care leagă capitala Tegucigalpa de departamentul Choluteca. Orașul este celebru în tot Hondurasul pentru produsele sale de patiserie tradițională, în special „rosquillas” și „tustacas”, care sunt preparate din porumb și brânză. Mii de călători se opresc zilnic aici pentru a achiziționa aceste delicii locale, care reprezintă o sursă esențială de venit și mândrie pentru comunitate. Din punct de vedere istoric, orașul are rădăcini adânci în perioada colonială, servind drept punct de oprire pentru comerțul cu metale prețioase din sud. Peisajul său este definit de dealuri ondulate și un climat uscat, tipic zonei de tranziție spre regiunea sudică.",
+      "factsAdvanced": [
+        "Cunoscut la nivel național drept capitala gastronomică a rosquillas",
+        "Așezat strategic pe principala rută rutieră (CA-5 Sur)",
+        "Fondat ca așezare permanentă în secolul al XVIII-lea",
+        "Altitudinea medie este de aproximativ 1.000 de metri deasupra nivelului mării",
+        "Are o populație de peste 20.000 de locuitori",
+        "Economia combină micile afaceri culinare cu cultivarea cerealelor de bază",
+        "Biserica Nuestra Señora del Rosario datează din perioada colonială"
+      ]
+    },
+    {
+      "id": "el-nispero-cities-v2",
+      "descriptionAdvanced": "El Níspero este un municipiu pitoresc din departamentul Santa Bárbara, recunoscut pentru peisajele sale montane spectaculoase și un angajament profund față de agricultura durabilă. Situat într-o vale luxuriantă, orașul depinde economic în principal de cultivarea cafelei, un produs de bază care susține o mare parte din familiile locale. Datorită climei răcoroase și altitudinii optime, cafeaua produsă aici este de înaltă calitate. În ultimii ani, zona a atras atenția și pentru potențialul său ecoturistic și pentru producția de artizanat local. Numele său, care provine de la fructul tropical de nespru, reflectă abundența naturală a regiunii. Comunitatea menține tradițiile vii prin festivaluri patronale și piețe de duminică vibrante, unde produsele locale sunt expuse.",
+      "factsAdvanced": [
+        "Economia este aproape în întregime dedicată cultivării cafelei de umbră",
+        "Numele orașului este inspirat de un arbore fructifer (Eriobotrya japonica)",
+        "Populația este de aproximativ 10.000 de locuitori",
+        "Este așezat la o altitudine de 760 de metri în munții din Santa Bárbara",
+        "A primit statutul de municipiu independent în anul 1932",
+        "Regiunea este străbătută de multiple râuri care sprijină biodiversitatea",
+        "Orașul sărbătorește fiesta patronală în onoarea Sfântului Antonie de Padova"
+      ]
+    },
+    {
+      "id": "trinidad-cities-v2",
+      "descriptionAdvanced": "Trinidad este un oraș plin de viață și cultură situat în departamentul Santa Bárbara, renumit la nivel național și internațional pentru tradițiile sale artistice spectaculoase. Cea mai notabilă este „Paseo Real de las Chimeneas Gigantes”, un eveniment anual în decembrie în care comunitatea creează și ulterior arde sculpturi masive de artă efemeră din hârtie și sârmă, atrăgând mii de turiști. Dincolo de artă, economia orașului este ancorată în cultivarea cafelei, fabricarea meșteșugurilor și agricultură de subzistență. Istoria sa datează de la sfârșitul secolului al XVIII-lea, orașul păstrând un centru vechi caracterizat de arhitectură simplă, dar fermecătoare. Comunitatea din Trinidad se remarcă prin spiritul său antreprenorial, menținând în același timp un profund respect pentru moștenirea sa culturală unică.",
+      "factsAdvanced": [
+        "Fondat de spanioli și criolli în anul 1794",
+        "Găzduiește anual festivalul de artă „Paseo Real de las Chimeneas Gigantes”",
+        "Situat la o altitudine de aproximativ 300 de metri deasupra nivelului mării",
+        "Populația municipiului este de aproximativ 16.000 de locuitori",
+        "Este un producător semnificativ de cafea pentru departamentul Santa Bárbara",
+        "Economia este impulsionată de ecoturismul cultural și producția agricolă",
+        "Tinerii locali joacă un rol central în susținerea tradițiilor de sculptură stradală"
+      ]
+    },
+    {
+      "id": "piraera-cities-v2",
+      "descriptionAdvanced": "Piraera este un municipiu izolat și profund tradițional din sudul departamentului Lempira, o regiune marcată de un relief accidentat și peisaje dramatice de munte. Este una dintre cele mai vechi așezări din Honduras, cu rădăcini care coboară adânc în epoca precolumbiană, fiind locuită de grupurile indigene Lenca, a căror cultură încă influențează puternic viața de zi cu zi. Accesul dificil a menținut comunitatea relativ ferită de modernizarea rapidă, păstrând stiluri de viață rurale autentice. Economia se bazează pe agricultura de subzistență, cultivarea porumbului și a fasolei, precum și pe mica producție de cafea. Deși confruntată cu provocări economice, Piraera este un loc de o reziliență remarcabilă, cu un patrimoniu istoric reprezentat de bisericile sale coloniale vechi și festivalurile sale indigene.",
+      "factsAdvanced": [
+        "Așezare veche, atestată documentar încă din anul 1589",
+        "Comunitatea păstrează o influență indigenă Lenca foarte puternică",
+        "Este situat la o altitudine de 720 de metri, înconjurat de vârfuri înalte",
+        "Populație estimată la aproximativ 14.000 de locuitori",
+        "Accesul rutier poate fi extrem de dificil pe parcursul sezonului ploios",
+        "Economia este dominată de agricultura de subzistență la scară mică",
+        "Deține biserici rustice și arhitectură vernaculată din epoca colonială spaniolă"
+      ]
+    },
+    {
+      "id": "ojojona-cities-v2",
+      "descriptionAdvanced": "Ojojona este un municipiu istoric și pitoresc situat în departamentul Francisco Morazán, la sud de Tegucigalpa, celebru pentru moștenirea sa colonială și pentru producția artizanală de ceramică Lenca. Fondat ca așezare minieră în perioada dominației spaniole, orașul impresionează prin străzile sale înguste, pietruite, și casele de adobe cu acoperișuri de țiglă, elemente care i-au adus titlul de Patrimoniu Istoric Național. Astăzi, principala activitate a locuitorilor este crearea de vase ceramice decorative și utilitare, precum și suveniruri din lemn și piele, care sunt vândute turiștilor și exportate. Peisajul montan care înconjoară Ojojona, acoperit de păduri de pini, oferă oportunități excelente pentru drumeții și ecoturism, făcându-l o destinație favorită pentru vizitatorii din capitală care caută o escapadă culturală și relaxantă.",
+      "factsAdvanced": [
+        "Fondat în anul 1579 ca o așezare minieră pentru extragerea argintului",
+        "Declarat Monument Național de Istorie datorită arhitecturii coloniale",
+        "Cel mai renumit centru pentru olărit și ceramică Lenca lângă capitală",
+        "Situat la o altitudine ridicată de 1.500 de metri",
+        "Populația municipiului este de aproximativ 11.000 de locuitori",
+        "Păstrează trei biserici coloniale vechi, inclusiv Biserica San Juan Bautista",
+        "Pădurile de pini înconjurătoare protejează micro-bazine hidrografice vitale"
+      ]
+    }
+  ]
+}

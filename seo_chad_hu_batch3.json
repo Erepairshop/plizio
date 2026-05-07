@@ -1,0 +1,75 @@
+{
+  "lang": "hu",
+  "country": "chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadLifeV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "doba-cities-v2",
+      "descriptionAdvanced": "Doba a dél-csádi Logone Oriental régió központja, amely az ország olajkitermelésének kulcsfontosságú városa. Az olajipar megjelenése alapjaiban változtatta meg a város gazdaságát és infrastruktúráját. A mezőgazdaság továbbra is jelentős, de az olajhoz kapcsolódó szolgáltatások és kereskedelem vált a város meghatározó elemévé. Doba a régió egyik leggyorsabban fejlődő települése. Gazdaságtan K9 — Ipari fejlődés és olajipar.",
+      "factsAdvanced": [
+        "A Logone Oriental régió központja",
+        "Csád olajkitermelésének kulcsfontosságú városa",
+        "Az olajipar által generált gyors fejlődés",
+        "Jelentős mezőgazdasági múlt és jelen",
+        "Központi szerep az olajhoz kapcsolódó szolgáltatásokban",
+        "A régió egyik legdinamikusabban növekvő városa"
+      ]
+    },
+    {
+      "id": "ati-cities-v2",
+      "descriptionAdvanced": "Ati, a Batha régió székhelye, Csád központi részén fekszik, a nomád és letelepedett közösségek közötti kereskedelmi útvonalakon. A város a régió közigazgatási és kereskedelmi központja, ahol a hagyományos állattenyésztés és a piacozás dominál. A sivatagi környezet miatt az áruellátás és a közlekedési csomópontként való szerep meghatározó Ati fejlődésében. Földrajz K6 — Száhel-övezet és kereskedelem.",
+      "factsAdvanced": [
+        "A Batha régió székhelye",
+        "Kereskedelmi csomópont a nomád útvonalakon",
+        "Hagyományos állattenyésztési központ",
+        "Közigazgatási központ a régióban",
+        "Fontos állomás az áruellátásban",
+        "A sivatagi régiók kereskedelmi találkozópontja"
+      ]
+    },
+    {
+      "id": "mao-cities-v2",
+      "descriptionAdvanced": "Mao a Kanem régió központja, Csád északnyugati részén, nem messze a Csád-tótól. A város sivatagi környezetben fekszik, gazdasága a nomád állattenyésztésre és a sivatagi kereskedelemre épül. A hagyományos életforma megőrzése mellett Mao fontos közigazgatási központ, amely a régió távoli közösségeit köti össze. A sivatagi kereskedelem fontos állomása az ország északnyugati részén. Földrajz K6 — Sivatagi régiók és nomád állattenyésztés.",
+      "factsAdvanced": [
+        "A Kanem régió székhelye",
+        "Közel a Csád-tóhoz",
+        "Központja a nomád állattenyésztésnek",
+        "Fontos állomás a sivatagi kereskedelemben",
+        "Közigazgatási szerep a régióban",
+        "Az északnyugati régió közösségeinek összekötője"
+      ]
+    },
+    {
+      "id": "faya-largeau-cities-v2",
+      "descriptionAdvanced": "Faya-Largeau Csád északi részének legfontosabb városa, a Borkou régió székhelye, amely mélyen a Szahara szívében fekszik. A város oázis jellegű település, amely a sivatagi karavánutak fontos állomása volt. Gazdasága a datolyatermesztésre, a sivatagi mezőgazdaságra és a kereskedelemre épül. Faya-Largeau az északi területek közigazgatási és közlekedési központja, amely a sivatagi környezetben biztosítja az életet. Földrajz K8 — Sivatagi oázisok és kereskedelem.",
+      "factsAdvanced": [
+        "A Borkou régió székhelye",
+        "Mélyen a Szaharában fekvő oázis",
+        "Történelmi karavánút-állomás",
+        "Datolyatermesztés és sivatagi mezőgazdaság",
+        "Az északi területek közigazgatási központja",
+        "Közlekedési csomópont a sivatagi környezetben"
+      ]
+    },
+    {
+      "id": "massakory-cities-v2",
+      "descriptionAdvanced": "Massakory a Hadjer-Lamis régió székhelye, Csád központi részén, N'Djamena közelében. A város mezőgazdasági és kereskedelmi központ, amely a főváros és a vidéki területek közötti kereskedelemben játszik fontos szerepet. Gazdasága az élelmiszer-termelésre és a helyi piacokra épül, biztosítva a régió áruellátását. Massakory a központi régió egyik meghatározó települése. Földrajz K5 — Mezőgazdaság és települések.",
+      "factsAdvanced": [
+        "A Hadjer-Lamis régió székhelye",
+        "Közelség N'Djamenához",
+        "Fontos mezőgazdasági központ",
+        "Kereskedelmi csomópont a régióban",
+        "Áruellátás biztosítása a helyi piacokon",
+        "Meghatározó település a központi régióban"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "lang": "en",
+  "country": "benin",
+  "files": ["lib/visualLab/data/poiExtraBeninCitiesV2.ts"],
+  "items": [
+    {
+      "id": "cotonou-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cotonou ist die größte Stadt und das wirtschaftliche Zentrum Benins, gelegen an der Atlantikküste. Sie beherbergt den riesigen Dantokpa-Markt, einen der größten Handelsplätze Westafrikas, der traditionellen und modernen Handel verbindet. Die Stadt dient als das primäre maritime Tor, das die Nation mit globalen Handelsrouten verbindet und seit den 1960er Jahren eine schnelle städtische Entwicklung fördert.",
+        "hu": "Cotonou Benin gazdasági központja, amely az Atlanti-óceán partján fekszik. Itt található a hatalmas Dantokpa piac, Nyugat-Afrika egyik legnagyobb szabadtéri kereskedelmi csomópontja, amely ötvözi a hagyományos és modern kereskedelmet. A város a legfontosabb tengeri kapu, amely összeköti az országot a globális kereskedelmi útvonalakkal, és az 1960-as évek óta elősegíti a gyors városfejlődést.",
+        "ro": "Cotonou este motorul economic al Beninului, situat pe coasta Atlanticului. Găzduiește piața Dantokpa, unul dintre cele mai mari centre comerciale în aer liber din Africa de Vest, îmbinând comerțul tradițional cu cel modern. Orașul servește drept poartă maritimă principală, conectând națiunea la rutele comerciale globale și favorizând dezvoltarea urbană rapidă din anii 1960.",
+        "en": "Cotonou is Benin's economic powerhouse, situated on the Atlantic coast. It is home to the massive Dantokpa market, one of West Africa's largest outdoor commercial hubs, blending traditional and modern commerce. The city serves as the primary maritime gateway, connecting the nation to global trade routes and fostering rapid urban development since the 1960s. Geography K7 — urban development and regional economic hubs."
+      },
+      "factsAdvanced": {
+        "de": ["Cotonou ist Benins größte Stadt und wirtschaftliches Herz.", "Der Dantokpa-Markt umfasst über 20 Hektar und ist ein bedeutender regionaler Handelsknotenpunkt.", "Der Hafen von Cotonou dient als kritischer Transitpunkt für Binnenstaaten in der Region.", "Schnelles städtisches Wachstum prägt die Ausdehnung der Stadt seit der Unabhängigkeit.", "Das tropische Klima mit zwei ausgeprägten Regenzeiten beeinflusst das tägliche Leben.", "Hier befinden sich die Hauptsitze zahlreicher regionaler und internationaler Finanzinstitute."],
+        "hu": ["Cotonou Benin legnagyobb városa és elsődleges gazdasági központja.", "A Dantokpa piac több mint 20 hektáron terül el, és jelentős regionális kereskedelmi központ.", "A Cotonou-i kikötő kritikus tranzitpont a szárazfölddel elzárt szomszédos országok számára.", "A gyors városi növekedés jellemezte a város terjeszkedését a függetlenség óta.", "A trópusi éghajlat két különálló esős évszakkal befolyásolja a helyi életet.", "Számos regionális és nemzetközi pénzügyi intézmény központja."],
+        "ro": ["Cotonou servește drept cel mai mare centru urban și inimă economică a Beninului.", "Piața Dantokpa se întinde pe peste 20 de hectare și este un hub comercial regional major.", "Portul Cotonou acționează ca un punct de tranzit critic pentru vecinii fără ieșire la mare.", "Creșterea urbană rapidă a caracterizat expansiunea orașului de la independență încoace.", "Climatul tropical cu două sezoane ploioase distincte influențează viața locală.", "Găzduiește sediile numeroaselor instituții financiare regionale și internaționale."],
+        "en": ["Cotonou serves as Benin's largest urban center and primary economic heart.", "The Dantokpa Market spans over 20 hectares and serves as a major regional trade hub.", "The Port of Cotonou acts as a critical transit point for landlocked neighbors.", "Rapid urban growth has characterized the city's expansion since independence.", "The tropical climate features two distinct rainy seasons, influencing local life.", "It hosts the headquarters of numerous regional and international financial institutions."]
+      }
+    }
+  ]
+}

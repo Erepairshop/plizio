@@ -1,0 +1,33 @@
+{
+  "lang": "en",
+  "country": "venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "venezuela-panteon-nacional-landmark-v2",
+      "descriptionAdvanced": "The National Pantheon stands as a monumental landmark in Caracas, embodying Venezuela's historical legacy and national pride. Originally constructed as a church in the 18th century, it was later repurposed to serve as a mausoleum for the nation's most revered heroes. Its striking neoclassical architecture and the presence of Simón Bolívar's tomb make it one of the most significant sites for understanding the country's republican narrative. Geography K8 — History and Landmarks.",
+      "factsAdvanced": [
+        "Major historical monument in Caracas.",
+        "Final resting place of Simón Bolívar.",
+        "Repurposed from an 18th-century church.",
+        "Represents national republican identity.",
+        "Neoclassical architectural style.",
+        "Designated as a national heritage site."
+      ]
+    },
+    {
+      "id": "venezuela-museo-bellas-artes-landmark-v2",
+      "descriptionAdvanced": "The Museum of Fine Arts (MBA) in Caracas is an iconic cultural institution, celebrated for its extensive collection of Venezuelan and international art. Located near the National Gallery and the Science Museum, it forms part of the city's primary cultural complex. The museum plays a pivotal role in preserving and showcasing the country's artistic heritage, ranging from colonial paintings to contemporary avant-garde works. Its architectural design and surrounding parkland reflect the museum's status as a central pillar of Venezuelan artistic expression. Geography K7 — Culture and Arts.",
+      "factsAdvanced": [
+        "Major art museum located in Caracas.",
+        "Extensive collection of national and international art.",
+        "Situated in the central cultural complex of the city.",
+        "Preserves colonial to contemporary artistic works.",
+        "Iconic cultural institution of Venezuela.",
+        "Architecturally integrated into the city park system."
+      ]
+    }
+  ]
+}

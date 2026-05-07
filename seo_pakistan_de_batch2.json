@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wazirabad-cities-v2",
+      "descriptionAdvanced": "Wazirabad, oft als die 'Stadt der Messer' bezeichnet, liegt im Herzen des Punjab und hat sich einen weltweiten Ruf für die Herstellung von Besteck und chirurgischen Instrumenten erworben. Seit über einem Jahrhundert konzentrieren sich lokale Handwerker und kleine Manufakturen auf die Produktion von hochwertigen Messern, Scheren und Schwertern, die in viele Länder exportiert werden. Die Stadt liegt strategisch günstig am Ufer des Chenab-Flusses. Historisch wurde sie von Wazir Khan im 17. Jahrhundert während der Mogulzeit gegründet. Wazirabad bietet ein faszinierendes Beispiel für eine hochspezialisierte handwerkliche Industrie, die sich erfolgreich an globale Märkte angepasst hat, ideal für den Geografieunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Wazirabad ist weltweit bekannt für die Herstellung von Besteck und Messern.",
+        "Die Stadt exportiert eine große Menge an hochwertigen chirurgischen Instrumenten.",
+        "Sie wurde im 17. Jahrhundert von dem Mogul-Gouverneur Wazir Khan gegründet.",
+        "Wazirabad liegt strategisch am Ufer des großen Flusses Chenab.",
+        "Kleine und mittlere Manufakturen dominieren die lokale handwerkliche Wirtschaft.",
+        "Ein großer Teil der produzierten Klingenwaren wird auf internationale Märkte exportiert."
+      ]
+    },
+    {
+      "id": "nowshera-cities-v2",
+      "descriptionAdvanced": "Nowshera ist eine strategisch wichtige Stadt und ein Kantonnement im Distrikt Peshawar im Herzen von Khyber Pakhtunkhwa. Historisch diente es während der britischen Kolonialzeit als wichtige militärische Basis und behält auch heute noch eine starke militärische Präsenz. Die Stadt liegt am nördlichen Ufer des Kabul-Flusses. Nowshera hat in den letzten Jahren ein starkes industrielles Wachstum erlebt, insbesondere im Bereich der Marmorverarbeitung, der Papierproduktion und der Textilien. Aufgrund seiner Lage am Highway N-5 ist es ein wichtiger Handelsknotenpunkt, der den Punjab mit den nördlichen Grenzgebieten verbindet. Nowshera illustriert die Entwicklung von einem militärischen Vorposten zu einem industriellen Zentrum, spannend für den Sozialkundeunterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Nowshera beherbergt eines der größten militärischen Kantonnements in Pakistan.",
+        "Die Stadt liegt strategisch wichtig am nördlichen Ufer des Flusses Kabul.",
+        "Während der Kolonialzeit war es eine wichtige britische Garnison.",
+        "Marmorverarbeitung und Papierproduktion sind wachsende Industriezweige.",
+        "Nowshera verbindet den Punjab über den N-5 Highway mit den Grenzgebieten.",
+        "Die Region hat durch den Ausbau der Industrie einen wirtschaftlichen Aufschwung erlebt."
+      ]
+    },
+    {
+      "id": "mingora-cities-v2",
+      "descriptionAdvanced": "Mingora ist die größte Handels- und Geschäftsstadt im malerischen Swat-Tal in der Provinz Khyber Pakhtunkhwa. Oft als das Tor zum 'Schweizer Tal Pakistans' bezeichnet, ist die Stadt ein wichtiger Anlaufpunkt für Touristen, die in die Bergregionen reisen. Mingora hat eine tief verwurzelte Geschichte und nahegelegene archäologische Stätten weisen auf eine reiche buddhistische Vergangenheit hin, wie das Butkara Stupa, das im 3. Jahrhundert v. Chr. erbaut wurde. Die lokale Wirtschaft stützt sich auf Tourismus, Landwirtschaft, Handwerk und den Handel mit Edelsteinen, insbesondere Smaragden, die in den nahegelegenen Bergen abgebaut werden. Mingora ist ein wertvolles Studienobjekt für die Kultur- und Wirtschaftsgeografie der Berggebiete in der 7. Klasse.",
+      "factsAdvanced": [
+        "Mingora ist das kommerzielle Herzstück des malerischen Swat-Tals.",
+        "Die Stadt dient als Haupttor für Touristen, die in die nördlichen Bergregionen reisen.",
+        "In der Nähe befindet sich das historische Butkara Stupa aus dem 3. Jahrhundert v. Chr.",
+        "Der Handel mit lokal abgebauten Smaragden ist ein wichtiger Wirtschaftszweig.",
+        "Traditionelles Handwerk und Landwirtschaft spielen ebenfalls eine große Rolle.",
+        "Die Region blickt auf eine reiche vorislamische, buddhistische Geschichte zurück."
+      ]
+    },
+    {
+      "id": "turbat-cities-v2",
+      "descriptionAdvanced": "Turbat ist die zweitgrößte Stadt in der weiten, trockenen Provinz Belutschistan und fungiert als das kulturelle und kommerzielle Zentrum der historischen Region Makran. Die Stadt liegt am linken Ufer des Kech-Flusses. Turbat ist berühmt für seinen Anbau von erstklassigen Datteln, die als einige der besten in Pakistan gelten. Die Region ist von einer zerklüfteten, felsigen Landschaft geprägt und das Klima ist eines der heißesten in ganz Südasien. Turbat hat aufgrund seiner Nähe zur Küstenstadt Gwadar und zum Iran stark an geopolitischer und wirtschaftlicher Bedeutung gewonnen. Für den Erdkundeunterricht der 9. Klasse bietet Turbat faszinierende Einblicke in das Leben in extrem trockenen, halbwüstenartigen Umgebungen.",
+      "factsAdvanced": [
+        "Turbat ist die zweitgrößte Stadt in der ausgedehnten Provinz Belutschistan.",
+        "Die Stadt ist das Zentrum für den Anbau von hochwertigen Datteln in der Makran-Region.",
+        "Sie liegt am linken Ufer des meist trockenen Flusses Kech.",
+        "Turbat verzeichnet im Sommer oft Temperaturen weit über 45 Grad Celsius.",
+        "Die Stadt profitiert von der wachsenden geopolitischen Bedeutung des nahen Gwadar.",
+        "Die Region ist das Herzstück der historischen und kulturellen Makran-Region."
+      ]
+    },
+    {
+      "id": "gwadar-cities-v2",
+      "descriptionAdvanced": "Gwadar, eine Küstenstadt am Arabischen Meer in der Provinz Belutschistan, steht im Zentrum eines der ambitioniertesten geopolitischen Projekte Pakistans. Bis 1958 ein omanisches Überseegebiet, entwickelt sich die Stadt heute rapide zu einem Megahafen, stark gefördert durch den China-Pakistan Economic Corridor (CPEC). Der Tiefseehafen soll eine direkte Handelsroute von Westchina zum Arabischen Meer etablieren und den Welthandel transformieren. Neben den enormen Infrastrukturprojekten hat Gwadar wunderschöne Strände und eine dramatische Küstenlandschaft. Der Wandel von einem verschlafenen Fischerdorf zu einem globalen Handelszentrum macht Gwadar zu einem herausragenden Fallbeispiel für globale Wirtschaftsgeografie und internationale Beziehungen in der 10. Klasse.",
+      "factsAdvanced": [
+        "Gwadar war bis zum Jahr 1958 ein Überseegebiet des Staates Oman.",
+        "Die Küstenstadt wird durch das CPEC-Projekt zu einem massiven Tiefseehafen ausgebaut.",
+        "Der Hafen soll den Handel zwischen Westchina und dem Nahen Osten drastisch verkürzen.",
+        "Gwadar verfügt über atemberaubende, noch weitgehend unberührte Strände.",
+        "Ein großes Netzwerk von Autobahnen wird gebaut, um den Hafen zu verbinden.",
+        "Die Stadt wandelt sich rapide von einem kleinen Fischerdorf zu einer Handelsmetropole."
+      ]
+    },
+    {
+      "id": "karachi-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Karatschi (Karachi Port) ist der größte und geschäftigste Seehafen Pakistans und gilt als das wirtschaftliche Tor des Landes zur Welt. Er wickelt etwa 60 Prozent der gesamten Seefracht der Nation ab und liegt strategisch günstig am Arabischen Meer in der Nähe wichtiger internationaler Schifffahrtsrouten. Der Hafen ist entscheidend für den Export von Textilien, landwirtschaftlichen Erzeugnissen und den Import von Erdöl, Maschinen und Industriewaren. Durch kontinuierliche Modernisierung, einschließlich neuer Containerterminals, wird die Kapazität ständig erweitert. Die enorme Bedeutung des Hafens für die pakistanische Wirtschaft macht ihn zu einem perfekten Thema für den Wirtschaftsunterricht der 9. Klasse über internationalen Handel.",
+      "factsAdvanced": [
+        "Der Karachi Port schlägt etwa 60 Prozent der gesamten Seefracht Pakistans um.",
+        "Es ist der größte und geschäftigste Seehafen des Landes am Arabischen Meer.",
+        "Der Hafen ist entscheidend für den Export von Textilien und Agrarprodukten.",
+        "Die Terminals werden kontinuierlich modernisiert, um riesige Containerschiffe abzufertigen.",
+        "Der Hafen fungiert als primäres Tor für den internationalen Handel Pakistans.",
+        "Ein großer Teil des importierten Erdöls kommt über den Karachi Port ins Land."
+      ]
+    },
+    {
+      "id": "gwadar-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Gwadar (Gwadar Port) ist ein tiefes, warmwasser Hafenprojekt von enormer geopolitischer Bedeutung in der Provinz Belutschistan. Als Kronjuwel des China-Pakistan Economic Corridor (CPEC) soll er eine neue, kürzere Handelsroute von der chinesischen Provinz Xinjiang zum Arabischen Meer schaffen. Dies reduziert Chinas Abhängigkeit von der Straße von Malakka erheblich. Der Hafen soll zukünftig nicht nur den Handel Pakistans revolutionieren, sondern als Transit-Hub für Zentralasien und den Nahen Osten dienen. Gwadar Port ist ein erstklassiges Beispiel für strategische Infrastrukturinvestitionen und transnationale Wirtschaftskooperationen, ideal für den fortgeschrittenen Sozialkundeunterricht der 10. Klasse.",
+      "factsAdvanced": [
+        "Der Gwadar Port ist ein Tiefseehafenprojekt im Rahmen des CPEC-Abkommens.",
+        "Er bietet eine direkte maritime Handelsroute vom Arabischen Meer nach Westchina.",
+        "Der Hafen verringert Chinas strategische Abhängigkeit von der Straße von Malakka.",
+        "Er soll sich zu einem Hauptumschlagplatz für Zentralasien entwickeln.",
+        "Das Projekt beinhaltet den massiven Ausbau von Autobahnen und Eisenbahnen.",
+        "Der Hafen wird von chinesischen und pakistanischen Unternehmen gemeinsam entwickelt."
+      ]
+    },
+    {
+      "id": "faisalabad-textile-industry-economic-v2",
+      "descriptionAdvanced": "Die Textilindustrie in Faisalabad, oft als das 'Manchester Pakistans' bezeichnet, bildet das industrielle Rückgrat des Landes. Die Stadt beherbergt Hunderte von großen Textilmühlen, Spinnereien, Webereien und Veredelungsanlagen, die zusammen den Großteil der pakistanischen Textilproduktion für den Inlands- und Exportmarkt generieren. Textilien sind Pakistans größter Exportsektor, und Faisalabad profitiert von seiner Nähe zu den baumwollreichen Feldern des Punjab. Die Textilbranche bietet Hunderttausenden von Arbeitern Beschäftigung. Die ständige Anpassung an globale Modetrends und Qualitätsstandards macht die Textilindustrie von Faisalabad zu einem faszinierenden Fallbeispiel für Produktionsökonomie im Geografieunterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Faisalabad ist aufgrund seiner Textilindustrie als das 'Manchester Pakistans' bekannt.",
+        "Die Stadt beherbergt Hunderte von Textilmühlen und verarbeitenden Betrieben.",
+        "Textilien sind der bei weitem größte Exportsektor Pakistans.",
+        "Die Industrie profitiert von der direkten Nähe zu den Baumwollfeldern des Punjab.",
+        "Hunderttausende Arbeiter sind direkt oder indirekt in der Textilbranche beschäftigt.",
+        "Die Stadt exportiert Kleidung und Stoffe in zahlreiche Länder weltweit."
+      ]
+    },
+    {
+      "id": "sialkot-surgical-instruments-economic-v2",
+      "descriptionAdvanced": "Sialkot in Punjab ist weltweit berühmt als eines der führenden Zentren für die Herstellung von chirurgischen Instrumenten, Sportartikeln und Lederwaren. Insbesondere die Produktion von handgefertigten und maschinell präzisen chirurgischen Werkzeugen wird international für ihre Qualität und Langlebigkeit geschätzt, wobei ein Großteil direkt nach Nordamerika und Europa exportiert wird. Bemerkenswert ist, dass die Industrie stark auf mittelständischen Unternehmen und hochqualifizierten Handwerkern basiert, die Wissen über Generationen weitergeben. Sialkot verfügt sogar über einen privat finanzierten internationalen Flughafen, um den Export zu erleichtern. Dies ist ein hervorragendes Studienobjekt für die Exportwirtschaft im Wirtschaftsunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Sialkot exportiert weltweit hochwertige, präzise chirurgische Instrumente.",
+        "Die lokale Industrie basiert stark auf qualifizierten mittelständischen Handwerksbetrieben.",
+        "Ein Großteil der Instrumente geht an Krankenhäuser in Europa und Nordamerika.",
+        "Die Stadt finanzierte und baute ihren eigenen internationalen Flughafen für den Export.",
+        "Sialkot ist auch weltberühmt für die Produktion von Fußbällen und Sportartikeln.",
+        "Das handwerkliche Wissen wird oft seit Generationen in Familien weitergegeben."
+      ]
+    },
+    {
+      "id": "thar-coalfield-mine-economic-v2",
+      "descriptionAdvanced": "Das Thar-Kohlefeld in der Wüste Thar in der Provinz Sindh ist eines der größten Braunkohlevorkommen der Welt. Die Entdeckung und jüngste Entwicklung dieser massiven Reserven hat das Potenzial, die Energiesicherheit Pakistans grundlegend zu verändern. Mit geschätzten Reserven von über 175 Milliarden Tonnen Braunkohle werden riesige Kohlekraftwerke im Rahmen des CPEC-Projekts errichtet, um bezahlbaren Strom für das Land zu erzeugen. Der Bergbau im offenen Tagebau ist jedoch auch mit großen ökologischen und sozialen Herausforderungen verbunden, einschließlich der Auswirkungen auf die lokale Wüstenbevölkerung. Das Thar-Projekt ist ein wichtiges Thema für den Geografieunterricht der 9. Klasse über natürliche Ressourcen und Umweltschutz.",
+      "factsAdvanced": [
+        "Das Thar-Kohlefeld beherbergt eines der größten Braunkohlevorkommen weltweit.",
+        "Die Reserven werden auf über 175 Milliarden Tonnen geschätzt.",
+        "Große Kohlekraftwerke werden gebaut, um die Energieknappheit Pakistans zu lindern.",
+        "Die Entwicklung wird maßgeblich durch den China-Pakistan Economic Corridor gefördert.",
+        "Der Abbau der Kohle erfolgt hauptsächlich im riesigen offenen Tagebau.",
+        "Das Projekt steht vor der Herausforderung, ökologische Auswirkungen in der Wüste zu minimieren."
+      ]
+    },
+    {
+      "id": "khewra-salt-mine-economic-v2",
+      "descriptionAdvanced": "Die Khewra-Salzmine in der Provinz Punjab ist die zweitgrößte und älteste Salzmine der Welt. Der Legende nach wurden die gigantischen Salzvorkommen bereits 326 v. Chr. von den Pferden Alexanders des Großen entdeckt. Jährlich produziert die Mine Hunderttausende Tonnen von Halit, besser bekannt als das berühmte rosa Himalaya-Salz. Neben ihrer massiven wirtschaftlichen Bedeutung als Salzproduzent hat sich die Mine zu einer wichtigen Touristenattraktion entwickelt, in der Besucher durch kilometerlange beleuchtete Tunnel, vorbei an unterirdischen Moscheen und aus Salz geschnitzten Monumenten spazieren können. Die Mine illustriert die Verbindung von Rohstoffabbau und Tourismus im Geografieunterricht der 7. Klasse hervorragend.",
+      "factsAdvanced": [
+        "Die Khewra-Salzmine ist die zweitgrößte und älteste Salzmine der Welt.",
+        "Der Legende nach entdeckten die Truppen Alexanders des Großen die Vorkommen im Jahr 326 v. Chr.",
+        "Die Mine ist der Hauptproduzent des berühmten rosa Himalaya-Salzes.",
+        "Im Inneren befinden sich aus Salz geschnitzte Monumente und sogar eine Moschee.",
+        "Die Mine ist ein massiver Wirtschaftsfaktor und gleichzeitig eine große Touristenattraktion.",
+        "Über Hunderte von Kilometern an Tunneln erstrecken sich tief in das Gebirge."
+      ]
+    },
+    {
+      "id": "sui-gas-field-economic-v2",
+      "descriptionAdvanced": "Das Sui-Gasfeld im Distrikt Dera Bugti, Belutschistan, ist das größte Erdgasfeld in Pakistan und wurde 1952 entdeckt. Seitdem bildet es das Rückgrat der nationalen Energieversorgung und liefert Erdgas, das in Pipelines bis nach Karatschi und in den Punjab transportiert wird. Obwohl das Feld in den letzten Jahren aufgrund jahrzehntelanger massiver Förderung einen leichten Produktionsrückgang verzeichnete, deckt es noch immer einen beträchtlichen Teil des pakistanischen Energiebedarfs ab. Die Infrastruktur, die um dieses Gasfeld herum aufgebaut wurde, trieb die Industrialisierung des ganzen Landes an. Das Sui-Feld ist ein hervorragendes Beispiel für die Bedeutung fossiler Brennstoffe für die wirtschaftliche Entwicklung im Geografieunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Das Sui-Gasfeld ist das größte und historisch wichtigste Erdgasfeld Pakistans.",
+        "Die Entdeckung im Jahr 1952 startete die Nutzung von Erdgas auf nationaler Ebene.",
+        "Riesige Pipelines transportieren das Gas in die Industriezentren im Süden und Norden.",
+        "Das Feld in Belutschistan lieferte über Jahrzehnte den Großteil der Energie für das Land.",
+        "Die intensive Förderung hat langsam zu einem leichten Rückgang der Reserven geführt.",
+        "Sui-Gas wurde zum Synonym für Erdgas in pakistanischen Haushalten."
+      ]
+    },
+    {
+      "id": "tarbela-dam-energy-economic-v2",
+      "descriptionAdvanced": "Der Tarbela-Staudamm am mächtigen Indus in der Provinz Khyber Pakhtunkhwa ist der größte erdfüllte Staudamm der Welt und ein monumentales Meisterwerk der Ingenieurskunst. Der 1976 fertiggestellte Damm erfüllt zwei kritische Funktionen für Pakistan: Er erzeugt riesige Mengen an sauberer Wasserkraft und speichert massiv Wasser zur Bewässerung der landwirtschaftlichen Flächen im trockenen Punjab und Sindh. Das Wasserkraftwerk des Damms produziert Tausende von Megawatt Strom, was es zu einer der wichtigsten Energiequellen Pakistans macht. Die saisonalen Wasserabflüsse aus den schneebedeckten Bergen werden hier für die Trockenzeiten gesammelt. Ein großartiges Studienobjekt für Wasserwirtschaft und erneuerbare Energien in der 8. Klasse.",
+      "factsAdvanced": [
+        "Der Tarbela-Staudamm ist der weltweit größte erdfüllte Staudamm.",
+        "Er staut das Wasser des mächtigen Indus-Flusses in Khyber Pakhtunkhwa.",
+        "Der Damm wurde 1976 fertiggestellt, um Überschwemmungen zu kontrollieren und Energie zu erzeugen.",
+        "Er liefert Tausende Megawatt an erneuerbarer Wasserkraft für das nationale Netz.",
+        "Sein riesiges Reservoir speichert dringend benötigtes Wasser für die Landwirtschaft.",
+        "Die Regulierung des Wassers ist überlebenswichtig für den Anbau in Punjab und Sindh."
+      ]
+    },
+    {
+      "id": "lahore-knowledge-park-economic-v2",
+      "descriptionAdvanced": "Der Lahore Knowledge Park (LKP) ist eine zukunftsweisende Initiative der Regierung von Punjab, um Lahore als wichtigstes IT- und Innovationszentrum Pakistans zu etablieren. Ziel des Parks ist es, die Zusammenarbeit zwischen Universitäten, Forschungseinrichtungen und der Hightech-Industrie zu fördern. Durch die Bereitstellung moderner Infrastruktur, Steueranreize und Forschungszentren soll der Park ausländische Investitionen in Softwareentwicklung, Biotechnologie und erneuerbare Energien anziehen. Das Projekt zielt darauf ab, den Wandel Pakistans von einer agrar- und textilbasierten Wirtschaft hin zu einer wissensbasierten, digitalen Ökonomie voranzutreiben. LKP ist ein hervorragendes Beispiel für Stadtplanung und Technologieentwicklung für den Wirtschaftsunterricht der 10. Klasse.",
+      "factsAdvanced": [
+        "Der Lahore Knowledge Park soll ein neues IT- und Innovationszentrum in Punjab werden.",
+        "Das Projekt fördert gezielt die enge Zusammenarbeit zwischen Universitäten und der Industrie.",
+        "Es zielt darauf ab, Pakistans Übergang zu einer wissensbasierten Wirtschaft zu beschleunigen.",
+        "Schwerpunkte liegen auf Softwareentwicklung, Biotechnologie und angewandter Forschung.",
+        "Der Park bietet moderne Infrastruktur und finanzielle Anreize für Tech-Unternehmen.",
+        "Das Projekt soll hochqualifizierte Arbeitsplätze für IT-Absolventen im Land schaffen."
+      ]
+    },
+    {
+      "id": "gawadar-special-economic-zone-economic-v2",
+      "descriptionAdvanced": "Die Gwadar Special Economic Zone (SEZ) ist ein gigantisches Industrieprojekt, das direkt an den Tiefseehafen von Gwadar angrenzt. Als integraler Bestandteil des China-Pakistan Economic Corridor (CPEC) bietet diese Freihandelszone enorme Steuervergünstigungen und Zollbefreiungen, um sowohl chinesische als auch internationale Investoren anzulocken. Die Pläne umfassen den Bau von Produktionsanlagen für Elektronik, Petrochemie, Automobilmontage und Logistikparks. Diese Zone soll Gwadar von einem reinen Umschlaghafen zu einem blühenden industriellen Mega-Hub transformieren. Die Entwicklung der SEZ ist ein perfektes Thema für den Geografieunterricht der 10. Klasse, um die Bedeutung von Sonderwirtschaftszonen im globalen Handel zu diskutieren.",
+      "factsAdvanced": [
+        "Die Gwadar SEZ bietet Investoren weitreichende Steuerbefreiungen und Zollvergünstigungen.",
+        "Sie ist ein zentraler Eckpfeiler des massiven China-Pakistan Economic Corridor (CPEC).",
+        "Geplante Industrien umfassen Petrochemie, Elektronikfertigung und Logistikdienstleistungen.",
+        "Die Zone soll den Tiefseehafen von Gwadar in ein globales industrielles Zentrum verwandeln.",
+        "Internationale Investitionen, insbesondere aus China, finanzieren den Bau der Infrastruktur.",
+        "Die SEZ zielt darauf ab, Hunderttausende neue Arbeitsplätze in der Region zu schaffen."
+      ]
+    },
+    {
+      "id": "chashma-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "Das Chashma Nuclear Power Plant (CHASNUPP) in der Provinz Punjab ist ein entscheidender Bestandteil des pakistanischen Nuklearenergieprogramms, das in enger Kooperation mit der Volksrepublik China entwickelt wurde. Der Komplex besteht aus mehreren Druckwasserreaktoren, die kontinuierlich große Mengen an stabiler und emissionsarmer Energie in das nationale Stromnetz einspeisen. Durch den Ausbau von Chashma strebt Pakistan an, seine chronischen Energieengpässe zu verringern und die Abhängigkeit von teuren importierten fossilen Brennstoffen zu reduzieren. Die Nuklearanlage ist streng reguliert und unterliegt den Sicherheitsstandards der IAEA. Chashma ist ein wichtiges Studienobjekt im Physik- und Geografieunterricht der 9. Klasse über alternative und nukleare Energiequellen.",
+      "factsAdvanced": [
+        "Das Chashma-Kraftwerk wurde in enger Partnerschaft mit China errichtet und ausgebaut.",
+        "Der Komplex besteht aus mehreren aktiven Druckwasserreaktoren zur Stromerzeugung.",
+        "Die Anlage hilft maßgeblich, Pakistans Abhängigkeit von importiertem Öl zu reduzieren.",
+        "Es liefert große Mengen stabiler Grundlastenergie für das nationale Stromnetz.",
+        "Der Betrieb des Kraftwerks unterliegt den internationalen Sicherheitsstandards der IAEA.",
+        "Chashma ist ein zentraler Pfeiler von Pakistans wachsendem Nuklearenergieprogramm."
+      ]
+    },
+    {
+      "id": "gujranwala-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Die Gujranwala Industrial Estate (GIE) im Punjab ist eines der pulsierendsten Produktionszentren in Pakistan. Gujranwala ist berühmt für sein industrielles Ökosystem, das sich auf die Herstellung von Keramik, Sanitärkeramik, Ventilatoren, Haushaltsgeräten und Elektromotoren spezialisiert hat. Im Gegensatz zu den textildominierten Städten wird Gujranwala oft als Zentrum der Leicht- und Schwerindustrie für Haushaltsgüter angesehen. Die Industrial Estate bietet Tausenden von mittelständischen Unternehmen die notwendige Infrastruktur, um effizient zu produzieren und sowohl Inlands- als auch Exportmärkte zu bedienen. GIE verdeutlicht hervorragend die Diversifizierung der Industrie, ein spannendes Thema für die Wirtschaftsgeografie der 8. Klasse.",
+      "factsAdvanced": [
+        "Gujranwala ist ein führendes Zentrum für die Produktion von Haushaltsgeräten in Pakistan.",
+        "Die Stadt ist landesweit bekannt für die Herstellung von Keramik und Sanitärwaren.",
+        "Die Gujranwala Industrial Estate beherbergt Tausende von mittelständischen Unternehmen.",
+        "Elektromotoren, Ventilatoren und Küchengeräte gehören zu den Hauptprodukten.",
+        "Die Industrie in Gujranwala bedient sehr stark den riesigen pakistanischen Inlandsmarkt.",
+        "Das Industriegebiet ist ein Motor für das wirtschaftliche Wachstum im zentralen Punjab."
+      ]
+    },
+    {
+      "id": "saindak-copper-gold-mine-economic-v2",
+      "descriptionAdvanced": "Die Saindak Kupfer- und Goldmine befindet sich in der wüstenhaften Region des Distrikts Chagai in Belutschistan, in der Nähe der iranischen Grenze. Es war das erste bedeutende Metallbergbauprojekt Pakistans, das in den 1990er Jahren in Betrieb genommen wurde. Die Mine produziert hauptsächlich Blisterkupfer, das beträchtliche Mengen an Gold und Silber enthält. Seit Anfang der 2000er Jahre wird das Projekt erfolgreich durch ein chinesisches Konsortium gepachtet und betrieben. Trotz ihrer isolierten Lage in einem extrem rauen und trockenen Klima stellt die Saindak-Mine eine wichtige Einnahmequelle ausländischer Devisen dar. Das Projekt verdeutlicht eindrücklich die logistischen Herausforderungen des Bergbaus in extremen Umgebungen für den Geografieunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Saindak war Pakistans erstes großes Metallbergbauprojekt für Kupfer und Gold.",
+        "Die Mine befindet sich in einer extrem trockenen und isolierten Region in Belutschistan.",
+        "Das geförderte Blisterkupfer enthält wirtschaftlich wertvolles Gold und Silber.",
+        "Das Projekt wird seit Anfang der 2000er Jahre von einem chinesischen Konsortium betrieben.",
+        "Die Mine ist eine wertvolle Quelle für ausländische Devisen durch den Export der Erze.",
+        "Logistik und Wasserversorgung sind in dieser Wüstenregion eine ständige Herausforderung."
+      ]
+    },
+    {
+      "id": "port-qasim-economic-v2",
+      "descriptionAdvanced": "Port Qasim in Karatschi ist der zweitgrößte und am schnellsten wachsende Tiefseehafen Pakistans, gelegen an den Ufern des Arabischen Meeres. Er wurde in den 1970er Jahren speziell gebaut, um den überlasteten Hafen von Karatschi zu entlasten und wurde gezielt um eine massiv angelegte Industriezone erweitert. Port Qasim hat sich als wichtigster Umschlagplatz für Schüttgüter wie Kohle, Eisenerz und Getreide sowie für Flüssigerdgas (LNG) etabliert, wofür eigene Terminals errichtet wurden. Angrenzende Schwerindustrien, darunter die Pakistan Steel Mills, profitieren enorm vom direkten Zugang zum Hafen. Port Qasim ist ein exzellentes Lehrbeispiel für integrierte Hafen- und Industrieplanung im Wirtschaftsunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "Port Qasim ist der zweitgrößte und am stärksten wachsende Seehafen in ganz Pakistan.",
+        "Der Hafen wurde gebaut, um den massiven Frachtverkehr vom alten Karachi Port zu entlasten.",
+        "Er verfügt über hochmoderne Terminals, speziell für den Import von Flüssigerdgas (LNG).",
+        "Schüttgüter wie Kohle, Eisenerz und Agrarprodukte dominieren den Güterumschlag.",
+        "Direkt an den Hafen angeschlossen ist eine der größten Industriezonen des Landes.",
+        "Die riesigen Pakistan Steel Mills wurden strategisch in der Nähe von Port Qasim gebaut."
+      ]
+    },
+    {
+      "id": "reko-diq-mine-project-economic-v2",
+      "descriptionAdvanced": "Das Reko-Diq-Projekt im rohstoffreichen Distrikt Chagai, Belutschistan, birgt eine der weltweit größten unerschlossenen Kupfer- und Goldlagerstätten. Der Name 'Reko Diq' bedeutet in der lokalen Balochi-Sprache 'Sandgipfel', ein passender Name für diese extrem trockene Region. Das Projekt stand jahrelang im Zentrum komplexer internationaler Rechtsstreitigkeiten, die die Erschließung verzögerten. Erst kürzlich wurden neue Abkommen mit internationalen Bergbauunternehmen unterzeichnet, um den Abbau Milliarden-Dollar-schwerer Erze voranzutreiben. Wenn voll entwickelt, könnte Reko Diq die Wirtschaft Pakistans massiv stärken. Dieses gigantische Projekt bietet exzellenten Lernstoff für Wirtschaftsgeografie und internationale Wirtschaftsabkommen in der 10. Klasse.",
+      "factsAdvanced": [
+        "Reko Diq gilt als eine der größten unerschlossenen Kupfer- und Goldlagerstätten der Welt.",
+        "Das Projektgebiet befindet sich im extrem trockenen Distrikt Chagai in Belutschistan.",
+        "Internationale rechtliche Streitigkeiten blockierten die Entwicklung über viele Jahre hinweg.",
+        "Das Potenzial der Mine wird auf Hunderte Milliarden US-Dollar an Rohstoffen geschätzt.",
+        "Neu unterzeichnete Verträge sollen nun endlich den Beginn des massiven Bergbaus ermöglichen.",
+        "Das Projekt hat das Potenzial, die Wirtschaft von Belutschistan tiefgreifend zu verändern."
+      ]
+    },
+    {
+      "id": "karachi-expo-centre-economic-v2",
+      "descriptionAdvanced": "Das Karachi Expo Centre ist das bedeutendste Zentrum für Fachmessen, Ausstellungen und Geschäftskonferenzen in Pakistan. Gelegen im kommerziellen Herzen von Karatschi, bietet der riesige Komplex hochmoderne Ausstellungshallen für nationale und internationale Unternehmen, um ihre Produkte zu präsentieren. Zu den bekanntesten Veranstaltungen gehört die 'Expo Pakistan', eine Mega-Messe, die Tausende ausländischer Käufer anzieht, um pakistansche Exporte wie Textilien, chirurgische Instrumente und Lederwaren zu fördern. Das Expo Centre fungiert als entscheidender Katalysator für ausländische Direktinvestitionen und Exportförderung. Das Zentrum verdeutlicht die Mechanismen des internationalen Marketings und Handels für den Wirtschaftsunterricht der 8. Klasse.",
+      "factsAdvanced": [
+        "Das Karachi Expo Centre ist Pakistans wichtigste Einrichtung für internationale Fachmessen.",
+        "Es beherbergt regelmäßig die Mega-Messe 'Expo Pakistan' für ausländische Käufer.",
+        "Der Komplex ist entscheidend für die globale Vermarktung pakistanischer Exportgüter.",
+        "Moderne Ausstellungshallen bieten Platz für Tausende von internationalen Ausstellern.",
+        "Das Zentrum spielt eine Schlüsselrolle bei der Anwerbung von ausländischen Direktinvestitionen.",
+        "Messen für Textilien, IT, Automobil und Landwirtschaft finden hier das ganze Jahr über statt."
+      ]
+    },
+    {
+      "id": "pakistan-stock-exchange-economic-v2",
+      "descriptionAdvanced": "Die Pakistan Stock Exchange (PSX) in Karatschi ist das finanzielle Nervenzentrum des Landes. Sie entstand 2016 durch die historische Fusion der Börsen von Karatschi, Lahore und Islamabad zu einer einzigen, effizienten nationalen Börse. Hunderte von großen pakistanischen Unternehmen aus Sektoren wie Zement, Energie, Banken und Textil sind hier gelistet. Die Performance der PSX gilt oft als wichtiges Barometer für die wirtschaftliche Gesundheit und das Investorenvertrauen in Pakistan. Mit ausländischen Investitionen, insbesondere durch den Kauf von Anteilen durch chinesische Konsortien, hat sich die PSX modernisiert. Ein tiefer Einblick in die PSX ist essentiell für den Wirtschaftskundeunterricht der 10. Klasse über Kapitalmärkte.",
+      "factsAdvanced": [
+        "Die PSX entstand 2016 durch die Fusion der Börsen in Karatschi, Lahore und Islamabad.",
+        "Sie befindet sich in Karatschi und ist das zentrale Finanzzentrum Pakistans.",
+        "Die Börse ist ein entscheidendes Barometer für die wirtschaftliche Gesundheit des Landes.",
+        "Hunderte von führenden Unternehmen aus allen wichtigen Industriesektoren sind hier gelistet.",
+        "Ein chinesisches Finanzkonsortium hält einen signifikanten Anteil an der Pakistan Stock Exchange.",
+        "Die PSX spielt eine Schlüsselrolle bei der Kapitalbeschaffung für groß angelegte Industrieprojekte."
+      ]
+    },
+    {
+      "id": "sialkot-international-airport-economic-v2",
+      "descriptionAdvanced": "Der Sialkot International Airport (SIAL) ist eine außergewöhnliche Errungenschaft, da er der erste privat finanzierte, öffentliche internationale Flughafen in Pakistan und sogar in ganz Südasien ist. Frustriert über logistische Engpässe und fehlende staatliche Unterstützung, sammelte die lokale Handels- und Industriekammer von Sialkot Millionen, um den Flughafen selbst zu bauen. Heute ist er ein immenser wirtschaftlicher Katalysator, der es der Region ermöglicht, ihre wertvollen Exportgüter – insbesondere chirurgische Instrumente und Sportartikel – schnell und effizient in die ganze Welt zu verschiffen. Der Flughafen ist ein Lehrbuchbeispiel für unternehmerische Eigeninitiative und Infrastrukturentwicklung im Wirtschaftsunterricht der 9. Klasse.",
+      "factsAdvanced": [
+        "SIAL ist der erste vollständig privat finanzierte öffentliche Flughafen in Südasien.",
+        "Er wurde von der einflussreichen Handels- und Industriekammer Sialkot initiiert und gebaut.",
+        "Der Flughafen ist entscheidend für den schnellen globalen Export der lokalen Industrieprodukte.",
+        "Regelmäßige Frachtflüge transportieren chirurgische Instrumente und Sportwaren weltweit.",
+        "Das Projekt zeigt eindrucksvoll die Kraft von unternehmerischer Initiative im Infrastrukturbereich.",
+        "SIAL bietet mittlerweile auch zahlreiche Passagierflüge zu internationalen Zielen im Nahen Osten an."
+      ]
+    },
+    {
+      "id": "mangla-dam-energy-economic-v2",
+      "descriptionAdvanced": "Der Mangla-Staudamm am Jhelum-Fluss in Azad Kaschmir ist Pakistans zweitgrößtes Wasser- und Energieprojekt. Erbaut in den 1960er Jahren als Kernstück des Indus-Wasser-Vertrags, sichert er die Wasserversorgung für Millionen von Bauern im östlichen Punjab. Der Damm staut einen gigantischen, malerischen See, der auch als Erholungsgebiet beliebt ist. Die riesigen Turbinen des Damms erzeugen einen wesentlichen Teil der pakistanischen Wasserkraft. Kürzlich wurde die Dammkrone massiv angehoben, um die Wasserspeicherkapazität weiter zu erhöhen und noch mehr Strom zu erzeugen. Der Mangla-Damm ist ein herausragendes Thema für den Erdkundeunterricht der 8. Klasse über Flussmanagement und erneuerbare Energien.",
+      "factsAdvanced": [
+        "Der Mangla-Staudamm ist das zweitgrößte Wasserkraft- und Staudammprojekt Pakistans.",
+        "Er wurde in den 1960er Jahren im Rahmen des historischen Indus-Wasser-Vertrags gebaut.",
+        "Der Damm am Jhelum-Fluss generiert über Tausend Megawatt saubere elektrische Energie.",
+        "Seine Hauptaufgabe ist die Bereitstellung von Bewässerungswasser für die Landwirtschaft im Punjab.",
+        "Ein massives Projekt zur Erhöhung des Damms hat die Speicherkapazität kürzlich deutlich vergrößert.",
+        "Der durch den Damm entstandene riesige Stausee ist auch eine beliebte Touristenattraktion."
+      ]
+    },
+    {
+      "id": "quetta-fruit-market-economic-v2",
+      "descriptionAdvanced": "Der Fruchtmarkt von Quetta fungiert als das riesige, pulsierende Handelszentrum für die reiche Obstproduktion der Provinz Belutschistan, die oft als der 'Obstgarten Pakistans' bezeichnet wird. Quettas Klima ist ideal für den Anbau von hochwertigen Äpfeln, Kirschen, Pfirsichen, Trauben und Aprikosen. Nach der Ernte in den kühlen Tälern strömen täglich tausende Tonnen frisches Obst auf diesen Markt. Von hier aus werden die Früchte verpackt und in Lastwagen durch das ganze Land, bis nach Karatschi und Lahore, sowie in benachbarte Exportmärkte transportiert. Der Markt ist ein exzellentes Beispiel für Agrarlogistik und die wirtschaftliche Bedeutung der Landwirtschaft im Geografieunterricht der 7. Klasse.",
+      "factsAdvanced": [
+        "Quettas Fruchtmarkt ist das zentrale Handels-Hub für das reiche Obst aus Belutschistan.",
+        "Belutschistan wird wegen seiner hohen Obstproduktion oft als der 'Obstgarten Pakistans' bezeichnet.",
+        "Der Markt schlägt gewaltige Mengen an lokal angebauten Äpfeln, Kirschen und Pfirsichen um.",
+        "Von hier aus wird das Obst in Lastwagen in alle Großstädte Pakistans transportiert.",
+        "Der Obsthandel ist eine der wichtigsten wirtschaftlichen Säulen für die Region um Quetta.",
+        "Das kalte Klima in den Bergen Belutschistans bietet perfekte Bedingungen für diesen Obstanbau."
+      ]
+    }
+  ]
+}

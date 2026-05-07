@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "palast-der-nation-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Palatul Națiunii din Bujumbura reprezintă sediul oficial al președinției Burundiului, fiind un simbol al autorității statale și al structurii politice a țării. Clădirea găzduiește birouri guvernamentale esențiale și este locul unde se iau deciziile strategice pentru dezvoltarea națională. Arhitectura sa impunătoare și rolul său administrativ îl fac un punct central în peisajul politic al capitalei, fiind martorul multor evenimente care au modelat traiectoria politică a Burundiului în era modernă. Istorie K8 — rolul palatelor guvernamentale.",
+      "factsAdvanced": [
+        "Sediul oficial al președintelui statului Burundi.",
+        "Simbolizează continuitatea și puterea executivă.",
+        "Este o clădire cu o mare importanță politică națională.",
+        "Locația găzduiește întâlniri diplomatice de nivel înalt.",
+        "Arhitectura clădirii reflectă autoritatea statului post-colonial.",
+        "Poziționat strategic în inima centrului administrativ din Bujumbura."
+      ]
+    },
+    {
+      "id": "hafen-von-bujumbura-landmarks-v2",
+      "descriptionAdvanced": "Portul din Bujumbura este principala poartă de acces naval a statului Burundi, jucând un rol crucial în schimburile comerciale internaționale pe lacul Tanganyika. Prin acest port trece majoritatea importurilor și exporturilor țării, facilitând conexiunile economice cu Republica Democrată Congo, Tanzania și Zambia. Infrastructura portuară este vitală pentru logistica națională, asigurând transportul de mărfuri care susțin industria și consumul intern. Geografie K7 — rolul porturilor în economiile fără ieșire la mare.",
+      "factsAdvanced": [
+        "Principalul nod de transport maritim pentru Burundi.",
+        "Conectează Burundi cu porturile de pe lacul Tanganyika.",
+        "Esențial pentru importul de combustibil și materii prime.",
+        "Portul a beneficiat de investiții pentru modernizarea facilităților.",
+        "Este un punct cheie pentru comerțul regional din Africa de Est.",
+        "Activitatea portuară influențează direct prețurile mărfurilor în țară."
+      ]
+    },
+    {
+      "id": "rusizi-delta-life-v2",
+      "descriptionAdvanced": "Delta râului Rusizi este o zonă ecologică de o importanță majoră, situată la vărsarea râului în lacul Tanganyika, fiind un habitat natural esențial pentru o diversitate impresionantă de floră și faună. Această regiune joacă un rol critic în menținerea echilibrului ecologic al bazinului lacului, oferind adăpost pentru hipopotami, crocodili și nenumărate specii de păsări migratoare. Protejarea deltei este fundamentală pentru păstrarea biodiversității locale și pentru susținerea comunităților umane care depind de resursele naturale ale acestei zone. Sachkunde K5 — ecosisteme și biodiversitate.",
+      "factsAdvanced": [
+        "Zona este caracterizată printr-o bogată vegetație acvatică.",
+        "Habitat critic pentru fauna locală (hipopotami și crocodili).",
+        "Punct de oprire esențial pentru păsările migratoare.",
+        "Joacă un rol în filtrarea apei înainte de vărsarea în Tanganyika.",
+        "Este o zonă de interes pentru cercetările ecologice.",
+        "Regiunea este monitorizată pentru conservarea resurselor naturale."
+      ]
+    },
+    {
+      "id": "imbo-plain-rice-life-v2",
+      "descriptionAdvanced": "Câmpia Imbo este principala regiune agricolă a Burundiului destinată cultivării orezului, profitând de condițiile climatice favorabile și de accesul la irigații oferit de râul Rusizi. Producția de orez din această zonă este esențială pentru asigurarea necesarului de hrană al populației urbane din Bujumbura, fiind un pilon al securității alimentare naționale. Agricultura din câmpia Imbo susține mii de familii de fermieri, fiind un exemplu de utilizare eficientă a terenurilor arabile pentru dezvoltarea sustenabilă. Geografie K6 — culturi agricole și securitate alimentară.",
+      "factsAdvanced": [
+        "Imbo este considerată 'coșul de pâine' pentru orez al țării.",
+        "Condițiile climatice sunt ideale pentru cultivarea orezului.",
+        "Sistemele de irigații sunt vitale pentru randamentul culturilor.",
+        "Orezul produs aici susține consumul urban din capitale.",
+        "Regiunea este un centru important pentru economia agrară.",
+        "Fermierii utilizează metode tradiționale și moderne pentru cultivare."
+      ]
+    },
+    {
+      "id": "mugamba-tea-life-v2",
+      "descriptionAdvanced": "Regiunea Mugamba este faimoasă pentru producția de ceai de înaltă calitate, datorită climatului răcoros și altitudinii ridicate care oferă condiții optime pentru această cultură. Ceaiul din Burundi, în special cel din Mugamba, este apreciat pe piețele internaționale, aducând venituri importante în valută pentru economia națională. Această ramură agricolă oferă locuri de muncă pentru comunitățile rurale din regiune și reprezintă o componentă vitală a strategiei de export a țării. Economie K7 — produse agricole de export.",
+      "factsAdvanced": [
+        "Altitudinea oferă condiții climatice excelente pentru ceai.",
+        "Ceaiul produs aici este exportat pe piețele internaționale.",
+        "Sectorul ceaiului este unul dintre pilonii agriculturii de export.",
+        "Comunitățile rurale din Mugamba depind de această activitate.",
+        "Procesarea ceaiului are loc în fabrici locale specializate.",
+        "Calitatea ceaiului este susținută de solul fertil și umiditatea ridicată."
+      ]
+    }
+  ]
+}

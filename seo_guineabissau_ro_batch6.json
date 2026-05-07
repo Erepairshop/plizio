@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "quinara-oelpalm-life-v2",
+      "descriptionAdvanced": "Crângurile de Palmier de Ulei din Quínara sunt plămânul agricol secundar al regiunii sudice, o mare de arbori de Elaeis guineensis care domină orizontul estuarelor. Spre deosebire de plantațiile masive deținute de corporații în Asia de Sud-Est, aici palmierii cresc adesea sălbatic sau semi-sălbatic în mici petice deținute de familiile Beafada și Balanta. Obținerea uleiului este o artă brută, desfășurată aproape exclusiv de femei. Fructele roșii tăiate din vârfurile pomilor sunt fierte în butoaie mari de fier pe foc de lemne și presate manual. Uleiul roșu de palmier nefiltrat, gros și bogat în vitamina A, obținut aici stă la baza preparatelor tradiționale din Guineea-Bissau (precum 'caldo de chabéu'). Datorită lipsei mașinăriilor, eficiența extracției este scăzută, iar efortul fizic necesar este enorm. Biologie K7 — plante oleaginoase tradiționale.",
+      "factsAdvanced": [
+        "Aria Quínara produce o treime din uleiul de palmier neprelucrat al țării.",
+        "Aici palmierul de ulei este o specie indigenă, nu introdusă artificial ca în Asia.",
+        "Sute de femei își câștigă independența financiară vânzând acest produs în Bissau.",
+        "Ciorchinele de fructe trebuie tăiate periculos, manual, folosind frânghii și macete.",
+        "Uleiul menține o culoare roșu închis datorită cantităților masive de beta-caroten.",
+        "O mare parte din trunchiurile uscate de palmier sunt folosite ulterior ca lemne de foc."
+      ]
+    },
+    {
+      "id": "biombo-mango-life-v2",
+      "descriptionAdvanced": "Livezile de Mango din Peninsula Biombo sunt printre cele mai roditoare din toată Africa de Vest, transformând această regiune costieră animistă într-un paradis galben-portocaliu la începutul sezonului ploios (luna mai-iunie). Arborele de mango, adaptat perfect la căldura și solul argilos, crește deseori la dimensiuni monumentale, umbrind sate întregi ale poporului Papel. Varietatea și dulceața fructelor de aici sunt legendare. Totuși, abundența este o binecuvântare amară: din cauza lipsei infrastructurii de uscare sau refrigerare și a drumurilor de acces deficitare, peste 60% din recolta națională de mango ajunge să putrezească sub copaci, stârnind nori denși de musculițe. Guvernul caută disperat investitori pentru a construi prima fabrică de suc și pulpă de fructe, pentru a salva această resursă prețioasă. Geografie K8 — risipa alimentară și prelucrarea fructelor.",
+      "factsAdvanced": [
+        "Peninsula Biombo găzduiește cea mai densă concentrare de manghieri din țară.",
+        "Recolta atinge punctul culminant în doar șase săptămâni (mai-iunie), blocând piețele.",
+        "Marea majoritate a livezilor nu sunt irigate, depinzând total de ploaia naturală.",
+        "Peste jumătate din fructele proaspete sunt pierdute din lipsa fabricilor de procesare.",
+        "Localnicii usucă adesea feliile de mango la soare pentru a le prelungi durata de viață.",
+        "Exportul internațional este cvasi-inexistent, limitându-se la piețele informale senegaleze."
+      ]
+    },
+    {
+      "id": "bolama-obst-life-v2",
+      "descriptionAdvanced": "Livezile de Fructe Tropicale de pe Insula Bolama ilustrează cel mai bine reziliența naturii asupra așezărilor umane. După ce portughezii au abandonat insula în 1941, marile grădini experimentale plantate în jurul vechilor case coloniale au crescut sălbatic. Astăzi, insula Bolama produce o abundență uimitoare de citrice (lămâi și portocale dulci), papaya, fructul pasiunii și, mai presus de toate, mango, adesea culese chiar dintre ruinele invadate de liane ale vechilor vile. Agricultorii indigeni recoltează fructele și le încarcă săptămânal pe feriboturi fragile de lemn (pirogues) cu destinația Bissau. Totuși, din pricina vremii imprevizibile a oceanului și a ambarcațiunilor periculoase, o cantitate imensă din marfa perisabilă ajunge zdrobită înainte de vânzare. Economie K6 — agricultura insulară de subzistență.",
+      "factsAdvanced": [
+        "Insula beneficiază de soluri neobișnuit de bogate pentru cultivarea citricelor.",
+        "Multe livezi actuale își au originea în plantele aduse de botaniștii portughezi.",
+        "Portocalele și fructul pasiunii (maracujá) sunt surse esențiale de bani lichizi (cash crop).",
+        "Transportul marfii perisabile pe apă durează de obicei o zi întreagă spre capitală.",
+        "Îngrijirea pomilor este complet organică, fără utilizarea vreunui îngrășământ chimic.",
+        "Resturile fructelor neculese ajută la susținerea unei mari populații de lilieci de fructe."
+      ]
+    },
+    {
+      "id": "gabu-baumwolle-life-v2",
+      "descriptionAdvanced": "Câmpurile de Bumbac din Gabú reprezintă o încercare modestă, dar semnificativă, de diversificare a agriculturii în estul dominat de secetă al Guineei-Bissau. Într-un climat caracterizat de luni întregi de soare arzător urmate de ploi concentrate scurte, bumbacul este una dintre puținele culturi comerciale capabile să reziste. Fermierii de etnie Fula plantează manual rândurile în solurile nisipoase roșii. Deși calitatea fibrei extrase aici este extrem de apreciată (folosită adesea pentru țeserea tradiționalelor panos di pinti, haine groase cu modele complexe geometrice), lipsa mașinilor de egrenare industriale limitează drastic expansiunea, obligând prelucrarea manuală greoaie. Concurența zdrobitoare a hainelor second-hand importate din vest a marginalizat această cultură antică. Economie K7 — culturi textile și concurența pieței.",
+      "factsAdvanced": [
+        "Arealul Gabú este singura regiune din țară unde bumbacul prosperă natural.",
+        "Fibra sa este materialul de bază pentru pânzele sacre și ceremoniale ('panos').",
+        "Egrenarea (separarea semințelor de fibră) se face frecvent cu unelte mici, manuale.",
+        "Agricultura cu bumbac suferă puternic de pe urma lipsei pesticidelor accesibile.",
+        "Importurile masive de haine ieftine ('fardo') au distrus industria textilă locală.",
+        "O singură recoltă pe an poate fi garantată datorită scurtei ferestre de ploi."
+      ]
+    },
+    {
+      "id": "bambadinca-bewaesserung-life-v2",
+      "descriptionAdvanced": "Proiectele de Irigații din Bambadinca transformă o regiune altfel uscată și fierbinte din centrul țării într-o oază de un verde crud chiar și în mijlocul verii. Centrul acestui efort este canalizarea apei din afluenții Râului Geba prin rețele de mici diguri, adesea echipate cu pompe solare achiziționate prin programe de dezvoltare internațională. Acest sistem permite comunităților Mandinka și Fula să spargă tiparul unei singure culturi pe an și să obțină a doua recoltă de orez, plus legume vitale (ceapă, tomate) în plin sezon uscat. Aceste grădini irigate nu asigură doar supraviețuirea calorică a familiilor, ci generează surplus vândut pe piețele mari din Bafatá și Bissau, ridicând nivelul de viață, mai ales al femeilor fermier. Biologie K7 — controlul apei și agricultura intensivă.",
+      "factsAdvanced": [
+        "Include zeci de kilometri de canale de pământ săpate în preajma Râului Geba.",
+        "Utilizează din ce în ce mai mult pompe de apă acționate prin panouri fotovoltaice.",
+        "A permis trecerea la dubla cultură a orezului pe același teren într-un singur an.",
+        "Culturile de legume (tomate, ceapă) asigură un venit vital de numerar (cash crop).",
+        "Femeile controlează masiv majoritatea vânzărilor de legume obținute din irigații.",
+        "Modelele experimentale de aici sunt adesea studiate de studenții agronomi din capitală."
+      ]
+    },
+    {
+      "id": "bissau-zoo-life-v2",
+      "descriptionAdvanced": "Grădina Zoologică din Bissau (adesea denumită neoficial 'Parcul Primăriei' sau anexă a centrului) nu este o grădină zoologică în sensul occidental, ci mai degrabă o mică și modestă menajerie de recuperare a animalelor salvate, situată în apropierea centrului capitalei. De-a lungul deceniilor de război civil, vechea infrastructură a parcului a fost complet distrusă. Astăzi, voluntarii și fondurile reduse mențin mici incinte pentru specii locale adesea confiscate de la vânzătorii ilegali (maimuțe verzi, babuini, pitoni și unele specii de păsări tropicale). Deși condițiile sunt spartane, centrul servește drept principal punct de contact educațional pentru copiii din Bissau care nu au părăsit niciodată mediul urban pentru a vedea fauna nativă din pădurile Guineei, stârnind primele scântei ale conștiinței ecologice. Educație K5 — protejarea animalelor și conștientizare.",
+      "factsAdvanced": [
+        "A fost complet ruinată în timpul luptelor masive din capitală din anul 1998.",
+        "Funcționează ca adăpost neoficial pentru animale confiscate de la braconieri urbani.",
+        "Găzduiește preponderent primate mici, crocodili tineri și specii aviare (papagali).",
+        "Sponsorizată neregulat de asociații expatriate și mici donații locale.",
+        "Pentru 90% din copiii din oraș, este singura șansă de a vedea un crocodil viu.",
+        "Lipsește expertiza veterinară permanentă, bazându-se pe eforturile studenților biologi."
+      ]
+    },
+    {
+      "id": "praca-herois-spielplatz-life-v2",
+      "descriptionAdvanced": "Terenul de Joacă din Praça dos Heróis Nacionais ocupă un loc mic dar simbolic la baza celui mai solemn monument național din Bissau (Obeliscul independenței). Deși dotările sale sunt precare – câteva leagăne de metal ruginit, anvelope de mașină pe post de trambulină și nisip – locul pulsează de viață la apusul soarelui. Familiile din cartierele centrale, mai ales clasa de mijloc emergentă, își aduc copiii aici pentru a se bucura de puținele spații publice verzi deschise din capitală (ferite de traficul haotic al străzilor prăfuite). Este un contrast izbitor între austeritatea solemnă a obeliscului alb (dedicat celor căzuți în război) și râsetele pure ale generației tinere care reprezintă viitorul națiunii, crescând la umbra sacrificiului bunicilor lor. Sociologie K5 — spații publice și petrecerea timpului liber.",
+      "factsAdvanced": [
+        "Este unul dintre extrem de puținele locuri de joacă publice necomerciale din Bissau.",
+        "Așezat direct la umbra Monumentului Eroilor, centrul giratoriului principal al națiunii.",
+        "Echipamentele (leagăne/tobogane) sunt adesea meșterite din piese metalice sudate local.",
+        "Nisipul moale ajută la prevenirea rănilor într-un oraș dominat de beton și roci dure.",
+        "Deveni adesea un punct de socializare intensă pentru mame în serile sufocante.",
+        "Siguranța perimetrului este asigurată de poliția care patrulează clădirile ministeriale din jur."
+      ]
+    },
+    {
+      "id": "franco-guineen-kinder-life-v2",
+      "descriptionAdvanced": "Parcul pentru Copii din cadrul Centrului Cultural Franco-Guineean (Bissau) este probabil cea mai bine întreținută și sigură zonă de joacă și recreere educativă din țară. Umbrit de copaci tropicali bătrâni (arbori de mătase și mango) și izolat de vacarmul motocicletelor 'toca-toca' de afară printr-un zid înalt, parcul oferă un refugiu pașnic. Aici, copiii au acces nu doar la structuri de cățărat moderne importate, ci și la ateliere regulate de lectură bilingvă, desen, și muzică Kora susținute de artiști locali și francofoni. Este un spațiu intercultural excelent unde copiii diplomaților străini și exparților se amestecă liber cu copiii localnicilor, spărgând barierele sociale și economice prin limbajul universal al jocului. Educație K5 — incluziune prin cultură și joc.",
+      "factsAdvanced": [
+        "Oferă standarde de siguranță europene pentru echipamentele de joacă de exterior.",
+        "Protejat de poluarea și zgomotul străzilor (praf roșu) datorită vegetației dense interne.",
+        "Adesea locația unor ateliere gratuite de lectură în limba franceză pentru prichindei.",
+        "Utilizat intens de comunitatea de expatriați și de clasa guineeană intelectuală.",
+        "Găzduiește mici spectacole de păpuși și teatru de umbre pe teme de ecologie.",
+        "Intrarea este controlată, ceea ce îl face o zonă lipsită total de aglomerație."
+      ]
+    },
+    {
+      "id": "bubaque-strand-spiel-life-v2",
+      "descriptionAdvanced": "Zona de Joacă de pe Plaja Bubaque (Praia de Bruce) ilustrează spiritul pur, neîngrădit al copilăriei insulare în arhipelagul Bijagós. Fără niciun echipament de plastic sau oțel cumpărat din magazin, locul de joacă este un vast teren natural: zeci de kilometri de nisip imaculat expus la reflux și valuri blânde ale oceanului Atlantic. Tinerii Bijagós își construiesc propriile jucării din ceea ce le oferă natura, meșterind bărci miniaturale din bucăți de nucă de cocos și frunze de palmier sau angajându-se în concursuri de lupte pe nisip moale. La apus, plaja devine terenul unor partide masive, neoficiale, de fotbal pe plajă. Libertatea acestui loc de joacă se opune puternic urbanizării claustrofobe, dezvoltând la copii un atașament profund față de ocean și ciclul mereelor. Educație K5 — jocul nestructurat în natură.",
+      "factsAdvanced": [
+        "Plaja Bruce (Praia de Bruce) oferă peste 15 km ininterrupți de nisip sigur pentru joc.",
+        "Nu există instalații metalice, jocul fiind exclusiv bazat pe obiecte din mediul înconjurător.",
+        "Apele de aici sunt calde și lipsite de curenții de scufundare periculoși ai oceanului deschis.",
+        "Copiii practică intens fotbalul desculț pe nisip umed (beach soccer).",
+        "Jucăriile făcute manual din nuci de palmier și plute de bambus sunt o mândrie locală.",
+        "Este un spațiu complet imun la penele de curent care afectează alte forme de divertisment."
+      ]
+    },
+    {
+      "id": "biblioteca-infantil-life-v2",
+      "descriptionAdvanced": "Biblioteca pentru Copii din Bissau (o inițiativă susținută frecvent de organizația locală pentru educație și de portughezi, cum ar fi Fundația Calouste Gulbenkian) este o redută crucială în lupta împotriva analfabetismului masiv. Într-o națiune unde școlile publice au rareori cărți și clasele sunt suprapopulate, această mică bibliotecă colorată, cu perne pe jos și rafturi accesibile, deschide ușa spre universul imaginației. Colecția include basme africane tradiționale (griot) traduse în portugheză simplă și enciclopedii vizuale. Voluntarii organizează sesiuni de citire cu voce tare (storytelling), captivând zeci de copii care nu au acasă nicio singură carte tipărită. Impactul social al acestui spațiu mic este uriaș, formând următoarea generație de cititori și studenți critici ai statului. Educație K6 — eradicarea analfabetismului infantil.",
+      "factsAdvanced": [
+        "Aproape 40% din copiii din Guineea-Bissau nu termină complet ciclul de educație primară.",
+        "Biblioteca deține colecții bogate de basme și folclor african (Amdé, Anansi) tipărit.",
+        "Furnizează singurul mediu liniștit pentru studiul temelor copiilor din familii defavorizate.",
+        "Baza sa materială este menținută prin masive donații de cărți sosite din Portugalia.",
+        "Introduce copiii în conceptele de bază ale științei prin enciclopedii viu colorate.",
+        "Folosește lectura cu voce tare ca instrument de asimilare rapidă a limbii portugheze."
+      ]
+    },
+    {
+      "id": "orango-island-nature-v2",
+      "descriptionAdvanced": "Insula Orango este epicentrul sălbatic al Parcului Național Orango (Arhipelagul Bijagós). Având o suprafață enormă de plaje aurii, păduri dense de palmieri sălbatici și estuare labirintice, insula pare complet neîmblânzită. Faima sa globală este asigurată de singura populație de hipopotami cu adaptare marină cunoscuți pe Pământ, care fac baie în valurile oceanului. Mai mult, fauna insulei include crocodili africani pitici pitulându-se în lagune și specii rare de papagali cenușii africani. Teritoriul este guvernat spiritual de tradițiile ancestrale ale poporului Bijagós, care prin legea lor animistă au păstrat insula neatinsă de agricultura modernă destructivă, impunând limite stricte asupra locurilor unde se poate pescui sau defrișa. Geografie K7 — ecologia insulelor și adaptarea.",
+      "factsAdvanced": [
+        "Cea mai mare dintre insulele protejate oficial care formează Parcul Național Orango.",
+        "Singurul loc documentat vizual unde hipopotamii intră benevol în oceanul sărat.",
+        "Găzduiește mormântul reginei legendare Okinka Pampa (Mausoleul din Eticoga).",
+        "Savana de coastă a insulei se aprinde frecvent din cauze naturale în timpul uscat.",
+        "Micul trib Bijagós menține un sanctuar nealterat datorită respectului pentru tabuuri (ira).",
+        "Nu există drumuri asfaltate, ci doar poteci de pământ parcurse la picior de ghizi."
+      ]
+    },
+    {
+      "id": "rio-geba-nature-v2",
+      "descriptionAdvanced": "Râul Geba (Rio Geba) este artera vitală și principalul ax hidrologic din inima Guineei-Bissau, scindând relieful plat al țării în două de la est la vest. Izvorând tocmai din munții Fouta Djallon din Senegalul vecin, râul își croiește un drum lent și măreț spre ocean, transformându-se într-un estuar gigantic și nămolos la Bissau, lat de până la 15 kilometri. Importanța sa istorică și economică este enormă: a reprezentat principala cale de penetrare colonială și este și astăzi sursa de apă care irigă vastele terenuri argiloase unde etniile Fula și Balanta cultivă orezul națiunii. Regimul său este supus brutal variațiilor de debit, ieșind masiv din matcă în luna august, inundând pădurile riverane (galerii), dar scăzând la un pârâu navigabil cu greu pe timp de secetă. Geografie K8 — sisteme fluviale ecuatoriale și debite.",
+      "factsAdvanced": [
+        "Are o lungime totală de circa 550 de km (inclusiv cursul din țara vecină Senegal).",
+        "La vărsarea în ocean (lângă Bissau), estuarul său depășește lățimea uriașă de 15 kilometri.",
+        "Fluxul oceanului Atlantic împinge apă sărată zeci de kilometri în amonte pe râu (intruziune salină).",
+        "Nivelul debitului variază cu mii de metri cubi pe secundă între sezonul uscat și muson.",
+        "Susține marea majoritate a plantațiilor comerciale de irigații din sectorul Bambadinca.",
+        "Fauna sa include crocodili, mici rechini (în estuar) și o varietate de cichlide africane."
+      ]
+    },
+    {
+      "id": "rio-cacheu-nature-v2",
+      "descriptionAdvanced": "Râul Cacheu, brăzdează regiunile nordice ale Guineei-Bissau (Cacheu și Oio), formând una dintre cele mai dramatice și intacte rețele de mangrove din Africa. Cursul său de apă, care se lărgește considerabil spre Atlantic, oferă cel mai lung tronson de fluviu navigabil în siguranță din interiorul țării. Datorită pajiștilor inundabile abundente și rădăcinilor gigantice aeriene ale mangrovelor roșii (Rhizophora), bazinul său formează Parcul Național al Mangrovelor. Aici trăiește, pe lângă mii de păsări de apă, misteriosul lamantin vest-african. De-a lungul timpului, Cacheu a fost 'autostrada' principală a comerțului cu arahide și ceară, iar apele sale adânci și limpezi în sezonul secetos oferă capturi zilnice de pește (mullet și somn) esențiale pentru dieta poporului Manjaco. Biologie K7 — mangrovele litorale ca creșe oceanice.",
+      "factsAdvanced": [
+        "Măsoară 257 de kilometri lungime de la izvorul din nord-est până în Oceanul Atlantic.",
+        "Parcul Național de pe estuar acoperă un procent uriaș de 8,5% din suprafața de mangrove a țării.",
+        "Apele sale superioare sunt neobișnuit de limpezi în timpul lunilor uscate de primăvară.",
+        "Navigabil pentru nave comerciale de dimensiuni medii pe o lungime de aproape 160 km spre Farim.",
+        "Reprezintă casa a numeroase comunități de lamantini vest-africani și delfini de estuar.",
+        "Găzduiește pescuitul intens al stridiilor sălbatice, culese direct de pe rădăcinile expuse de mangrove."
+      ]
+    },
+    {
+      "id": "rio-corubal-nature-v2",
+      "descriptionAdvanced": "Râul Corubal (Rio Corubal), cel mai impetuos curs de apă al țării, taie adânc prin estul sălbatic al Guineei-Bissau, făcând adesea granița naturală sudică cu statul Guineea (Conakry). Spre deosebire de râurile estuarine leneșe din vest, Corubal coboară alert din masivul Fouta Djallon, formând cascade și repezișuri (precum cascada Cusselinta), fiind singurul râu cu un imens potențial pentru hidroenergie, încă complet neexploatat (proiectul barajului Saltinho). Râul curge printr-o savană împădurită dură, habitat pentru bivoli de apă, și ajunge în cele din urmă să conflueze spectaculos cu râul Geba. Trecerea sa în sezonul musonic este o aventură extremă din cauza torentelor copleșitoare, impunând deseori feriboturi primitive remorcate manual prin cabluri. Geografie K8 — hidroenergie și debite torențiale.",
+      "factsAdvanced": [
+        "Singurul râu major din Guineea-Bissau ce prezintă praguri stâncoase rapide și cascade abrupte.",
+        "Prezintă cel mai ridicat potențial național pentru dezvoltarea hidroelectricității (Barajul Saltinho).",
+        "Acționează ca o frontieră fizică sinuoasă între Guineea-Bissau și Guineea-Conakry la est.",
+        "Cursul său inferior devine extrem de lat și noroios la întâlnirea cu bazinul Râului Geba.",
+        "Feriboturile mecanice vechi utilizate pentru traversare au fost adesea spălate de curenții de muson.",
+        "Fauna acvatică bogată atrage sute de crocodili mari și specii unice de somn african uriaș."
+      ]
+    },
+    {
+      "id": "bijagos-archipelago-nature-v2",
+      "descriptionAdvanced": "Arhipelagul Bijagós (sau Bissagos) este un tezaur geografic colosal, un labirint de 88 de insule și insulițe vulcanice și nisipoase împrăștiate în apele limpezi ale Atlanticului (dintre care doar vreo 20 sunt populate constant). Recunoscut ca Rezervație a Biosferei de către UNESCO, el conține o biodiversitate rară: pajiști marine extinse hrănesc lamantini evazivi, bancurile de nisip expuse adăpostesc rechini asistent (nurse sharks) și peste un milion de păsări migratoare eurasiatice iernează anual aici. Întregul sistem este protejat paradoxal tocmai de absența infrastructurii moderne, de navigația coșmarescă printre curenții extrem de iuți și schimbările brutale ale mareelor. Populația băștinașă, Bijagó, guvernată de sfaturi matriarhale, refuză asimilarea occidentală, păstrând insulele exact așa cum erau acum sute de ani. Biologie K8 — rezervații ale biosferei și biodiversitate marină.",
+      "factsAdvanced": [
+        "Include un număr enorm de 88 de insule, grupate într-un arhipelag de coasta oceanică dens.",
+        "Declarat Rezervație oficială a Biosferei (Boloma-Bijagós) de către UNESCO în anul 1996.",
+        "Amplitudinea mareei de aici (diferența dintre flux și reflux) este printre cele mai mari din Africa.",
+        "Peste un milion de păsări europene (limicole) folosesc zonele intertidale ca hrană iarna.",
+        "Peste 60 de insule din sistem sunt complet neatinse și nepopulate de oameni moderni.",
+        "Sistemul matriarhal Bijagó aplică reguli stricte (tabuuri) ce previn pescuitul în zone sacre."
+      ]
+    },
+    {
+      "id": "bolama-island-nature-v2",
+      "descriptionAdvanced": "Insula Bolama oferă un studiu de caz perfect al modului în care jungla tropicală își revendică terenul atunci când efortul uman se retrage. Pe lângă orașul colonial fantomă care îi dă numele, ecologia insulei este formată dintr-un platou fertil dominat de soluri argiloase bogate, acoperit o treime de savană de coastă și două treimi de palmieri și livezi în paragină. Vegetația abundentă oferă casă unor zeci de mii de lilieci mari de fructe (Pteropodidae) care își iau zborul exact la apus, întunecând vizual cerul, pentru a se hrăni cu sutele de fructe de mango coapte netăiate din fosta capitală. Bolama este separată de restul continentului (regiunea Quinara) printr-un canal maritim îngust, ceea ce menține protejată micro-fauna sa forestieră de vânătoarea intensivă continentală. Geografie K6 — re-sălbăticirea și mamifere zburătoare.",
+      "factsAdvanced": [
+        "Reprezintă insula arhipelagului cea mai apropiată fizic de uscatul african (canal extrem de îngust).",
+        "Aproape 40% din suprafața terestră s-a reîmpădurit spontan după părăsirea capitalei (1941).",
+        "Coloniile gigantice de lilieci frugivori se hrănesc noaptea cu livezile uriașe lăsate în urmă.",
+        "Pădurile de mangrove înconjoară complet marginea estică și nordică, ancorând solul în apă.",
+        "Terenul nu are diferențe majore de elevație, fiind un platou calcaros/lateritic relativ drept.",
+        "Insula este o sursă vitală de lemn dulce de palisandru și mahon african protejat."
+      ]
+    },
+    {
+      "id": "bubaque-island-nature-v2",
+      "descriptionAdvanced": "Insula Bubaque funcționează ca poarta principală de intrare naturală spre întregul arhipelag sudic, fiind singura insulă relativ dezvoltată. În pofida unei oarecare modernizări la docuri, inima și estul insulei rămân o sălbăticie tropicală spectaculoasă. O potecă neasfaltată de 18 kilometri taie direct prin pădurile dense de palmieri sălbatici și baobabi, legând portul aglomerat de imaculata plajă Praia de Bruce din sud. Relieful său plat, cu plaje de nisip vulcanic închis la culoare care se continuă zeci de metri în mare, este extrem de favorabil pescuitului sportiv (Tarpon, Barracuda) și adăpostește maimuțe verzi vervet care fac raiduri prin culturile de porumb și mei ale sătenilor. Din lipsa resurselor de apă curgătoare permanente, flora de aici s-a adaptat lunilor brutale de secetă stocând apa masiv. Biologie K7 — adaptarea florei și maimuțelor oportuniste.",
+      "factsAdvanced": [
+        "Servește ca sediu natural și administrativ pentru întreaga Biosferă UNESCO Bijagós.",
+        "Arealul forestier este traversat de un singur drum lung de pământ (18 km până la plaja Bruce).",
+        "Pădurea interioară este dens populată de trupe mari de maimuțe verzi cu fața neagră (Vervet).",
+        "Apele de coastă oferă cele mai renumite puncte de prindere mondială a peștelui Tarpon gigantic.",
+        "Solul insulei nu deține nici măcar un singur pârâu de suprafață permanent.",
+        "Plajele estice (sălbatice) expun o faună marină invizibilă la flux (stele de mare și crabi vioară)."
+      ]
+    },
+    {
+      "id": "rubane-island-nature-v2",
+      "descriptionAdvanced": "Insula Rubane, situată chiar vizavi de aglomerata Bubaque (despărțite printr-un canal oceanic periculos de rapid numit 'Canal de Rubane'), este definită de pădurile sale absolut luxuriante care ajung până pe linia plajei de nisip alb perlat. Este una dintre cele mai exclusiviste piese ale naturii guineene, preferată de micile lodge-uri eco-turistice internaționale grație lipsei totale de vehicule și drumuri. Interiorul insulei este o boltă deasă de arbori kapok giganți și palmieri, care filtrează lumina solară și asigură un refugiu excelent pentru păsările cântătoare din vestul Africii și reptile. Mareea extremă din jurul insulei schimbă dramatic lățimea plajelor la fiecare șase ore, forțând hotelurile să folosească ambarcațiuni speciale doar în perioade stricte ale zilei. Ecologie K6 — ecoturismul și medii insulare.",
+      "factsAdvanced": [
+        "Așezată direct peste un canal cu curenți mortali ('Canal de Rubane') față de vecina Bubaque.",
+        "Peisajul nu include absolut niciun drum asfaltat, și nici măcar mașini (doar biciclete rar).",
+        "Găzduiește cele mai spectaculoase și scumpe rezervații private eco-turistice europene din țară.",
+        "Sute de copaci de mătase cu rădăcini evantai (Kapok) domină pădurile din mijlocul insulei.",
+        "Flotația de bărci turistice trebuie calibrată atent pe diferența masivă de 3+ metri a mareei.",
+        "Lipsa vânătorii a permis supraviețuirea unei mari varietăți de specii de șerpi piton și monitori."
+      ]
+    },
+    {
+      "id": "poilao-island-nature-v2",
+      "descriptionAdvanced": "Insula Poilão reprezintă perla izolată a eforturilor de conservare ecologică ale Africii Occidentale. O insulă de buzunar – acoperind doar 43 de hectare de nisip și vegetație uscată – este recunoscută ca o 'insulă sacră' nepopulată, fiind sanctuarul suprem de depunere a ouălor pentru peste 10.000 de țestoase marine verzi. Poziția sa depărtată în fața furiei oceanului deschis, lipsită de luminile urbane sau așezările permanente umane, oferă țestoaselor de coastă un habitat lipsit de intruziunea bărcilor. Un pâlc masiv de arbori în mijlocul insulei ascunde un mic altar animist unde înțelepții Bijagós oficiază rar ceremonii secrete; ei sunt de facto gardienii spirituali ai țestoaselor. Acest petec vulcanic este o dovadă clară că sistemele de credințe indigene pot oferi o protecție a speciilor mult mai eficientă decât forțele polițienești moderne. Biologie K8 — protecția siturilor sacre și specii ovi-pare.",
+      "factsAdvanced": [
+        "Teren minuscul, cu doar aproximativ 43 de hectare suprafață vulcanică și plajă pură.",
+        "Declarat teritoriu exclusiv de cuibărire, fără nicio prezență umană constantă.",
+        "Poporul Bijagós aplică aici legea 'Ira' (Tabu), interzicând vărsarea oricărui strop de sânge.",
+        "Găzduiește în centrul său forestier un mic altar vizitat doar de preoții de sex masculin vârstnici.",
+        "Nisipul insulei reține la perfecție temperatura necesară incubării naturale a miilor de ouă.",
+        "Monitorizarea recentă folosește drone discrete, plătite din granturile fundațiilor științifice de conservare."
+      ]
+    },
+    {
+      "id": "lagoa-de-cufada-nature-v2",
+      "descriptionAdvanced": "Laguna Cufada (Lagoa de Cufada) este bijuteria ascunsă a rețelei continentale de ape dulci, formând cel mai bogat sistem hidrologic nenavigabil (interior) din Guineea-Bissau. Aflată într-o vale imensă la sud de Râul Corubal, laguna permanentă atrage mamifere masive precum bivolul de apă african (Syncerus caffer nanus) și cimpanzeul în lunile brutale de uscăciune, acționând ca un punct de salvare (oază de apă curată) când restul râurilor scad. Datorită vegetației masive plutitoare și stufului, lacul nu are valuri, suprafața sa netedă ca oglinda reflectând perfect siluetele zecilor de berze albe (marabu) care pescuiesc broaște direct din mal. Guvernul menține aici o zonă de tampon protejată, deși așezările agricole ilegale se apropie amenințător de malurile sudice. Geografie K7 — conservarea lacurilor și specii dependente de apă.",
+      "factsAdvanced": [
+        "Acoperă corpul central și cel mai mare al apei dulci statice din Guineea-Bissau.",
+        "Declarat oficial Primul Sit Natural Ramsar protejat internațional din cadrul națiunii.",
+        "Baza alimentară principală pentru supraviețuirea speciilor de crocodil pitic din estuar.",
+        "Vegetația de nămol blochează folosirea ambarcațiunilor cu motor, doar canoanele manuale trec.",
+        "Formează o rețea comună cu mai mici lacuri vecine (Bionra și Bedasse) în timpul inundațiilor.",
+        "Populațiile mici de bivoli de pădure beau strict de aici când savana interioară arde (aprilie)."
+      ]
+    },
+    {
+      "id": "cantanhez-forest-nature-v2",
+      "descriptionAdvanced": "Pădurea Cantanhez (Parque Nacional de Cantanhez) reprezintă colțul vestic extrem al marilor păduri tropicale seculare care acopereau odată marginea continentului african. Situată în regiunea extremă Tombali, cu un nivel ridicat de umiditate musonică (2500-3000 mm anual), pădurea creează un ecosistem întunecat, extrem de umed, dens și cu o canopie ce depășește adesea 30 de metri înălțime. Supraviețuirea acestui bloc masiv de foioase tropicale se datorează în principal sistemului agricol comunitar al etniei Nalu, care cultivă fără defrișare de nivel mare ('agro-forestry'). În afară de cimpanzeii faimoși, pădurea este căminul unor porci sălbatici de râu, maimuțe Colobus rare cu blană neagră și albă, și zeci de specii unice de fluturi exotici uriași. Este ultima linie de apărare împotriva deșertificării de la nord spre sud. Biologie K8 — canopia tropicală și biodiversitate.",
+      "factsAdvanced": [
+        "Reprezintă unul dintre ultimele 'blocuri' de pădure tropicală virgină de mare densitate din zonă.",
+        "Primește cantități monstruoase de precipitații ecuatoriale anuale, ajutând arboreții uriași (mahon).",
+        "Ecosistemul găzduiește și speciile rare de Maimuța Colobus, cu un regim alimentar folivor special.",
+        "Pădurea include mici enclave de ferme (agro-silvicultură) vechi de secole ascunse la umbră.",
+        "Protejează ecosistemul solurilor feruginoase de eroziunea care ar rezulta printr-o tăiere rasă.",
+        "În timpul nopții, sunetul este dominat exclusiv de speciile de broaște arboricole gigantice și liliac."
+      ]
+    },
+    {
+      "id": "dulombi-forest-nature-v2",
+      "descriptionAdvanced": "Pădurea (Parcul Național) Dulombi se întinde la limita estică muntoasă a Guineei-Bissau, făcând legătura verde (coridor ecologic) spre rezervațiile vaste din statul Guineea vecin. Spre deosebire de pădurea umedă din sud, Dulombi este o pădure uscată (savană forestieră cu ierburi masive), dominată de baobabi de o sută de ani și salcâmi, loc adaptat supraviețuirii unor veri dogoritoare. Aici este singura regiune a țării unde mamiferele mari de savană se avântă ocazional (cum ar fi elefantul forestier și diverse antilope), vânate aproape la extincție în timpul războaielor din deceniile trecute. Pentru animalele migratoare, coridorul Dulombi oferă esențiala siguranță de tranzit, ferindu-le de așezările umane de pe drumul rutier dinspre orașul Gabú spre graniță. Biologie K6 — coridoare ecologice și savana uscată.",
+      "factsAdvanced": [
+        "Constituie un coridor ecologic vital cu lanțul de rezervații forestiere din Guineea (Conakry).",
+        "Aici domină o floră de savană uscată și arbuști de salcâm spinoși rezistenți la uscăciune.",
+        "Oferă o rută ocazională pentru migrațiile sezoniere ale elefanților africani de pădure (Loxodonta).",
+        "Sistemul său vegetal previne direct înaintarea fatală a prafului de deșert din Sahel (vântul Harmattan).",
+        "Se estimează că mai multe specii de mari antilope (bovidee) rarisime încă se ascund aici.",
+        "Incendiile de tufișuri (Bushfires) regulate natural în martie ajută reînnoirea solului de savană."
+      ]
+    },
+    {
+      "id": "boe-hills-nature-v2",
+      "descriptionAdvanced": "Colinele Boé (Masivul Boé), ridicându-se abrupt la peste 300 de metri în colțul de sud-est, reprezintă cel mai spectaculos și stâncos accident geografic într-o țară renumită pentru câmpiile sale joase și noroioase de coastă. Acest relief terasat este format din laterit roșu bogat în oxid de aluminiu (bauxită) și tăiat de prăpăstiile abrupte provocate de afluentele care curg spre Râul Corubal. Vegetația rară și dură ce crește pe rocile expuse la temperaturi sufocante sprijină comunitățile agile de babuini și șerpi de stâncă mari. Lipsa drumurilor auto a transformat Boé într-o fortăreață naturală izolată, motiv pentru care luptătorii anticoloniali și-au ales acest masiv misterios drept cartierul general inaccesibil pentru a fonda Republica (1973). Fizică K8 — oxidarea metalelor în sol și relief accidentat.",
+      "factsAdvanced": [
+        "Reprezintă zona cu cele mai înalte cote de altitudine din teritoriul predominant plat al țării.",
+        "Formația deluroasă conține cel mai pur și mare procentaj de rezerve naționale de bauxită brută.",
+        "Canioanele mici ale zonei au adăpostit cartierul general al forțelor armatei PAIGC (Războiul Colonial).",
+        "Precipitațiile scăzute definesc aici o floră dură dominată exclusiv de tufișuri dese stâncoase.",
+        "Rocile masivului devin fierbinți ca niște sobe din cauza absorbției căldurii solare uriașe din aprilie.",
+        "Nu există căi ferate sau rute auto, doar trecători de picior utilizate istoric de crescătorii Fula."
+      ]
+    },
+    {
+      "id": "rio-mansoa-nature-v2",
+      "descriptionAdvanced": "Râul Mansoa desparte regiunile nordice centrale (Oio și Cacheu) într-un traseu meandrat spectaculos, debușând în apropiere de Peninsula Bissau. El reprezintă granița istorică și culturală dintre triburile Mandinka la nord și Balanta la sud. Estuarul său inferior este enorm și dominat de o mișcare tidală masivă a oceanului; la reflux, râul își trage apele lăsând un perete lateral uriaș de mâl gri din care crabi uriași ies la vânătoare. De o importanță capitală este rolul de navigație pe care râul îl joacă: transportul pe barcă de la așezările din interior precum Encheia spre mare este esențială într-o regiune lipsită de asfalt. Deși apele devin extrem de noroioase în muson din cauza eroziunii solului lăsat expus prin agricultură agresivă (anacard), râul pulsează cu viață acvatică bogată. Geografie K7 — estuare de mâl și eroziune hidrologică.",
+      "factsAdvanced": [
+        "Creează cel mai lat sistem estuarin de noroi adânc chiar la granița periferiei capitalei Bissau.",
+        "La faza sa superioară în Oio traversează peisajul de culturi cerealiere tradiționale Balanta.",
+        "Lățimea râului fluctuează colosal, cu câțiva metri adâncime reduși strict în faza de reflux.",
+        "Rutele de canoane fluviale preiau 40% din traficul comercial al satelor de coastă vecine.",
+        "Malurile sunt flancate constant de întinderi de mangrove roșii pe sectorul inferior sărat.",
+        "Eroziunea solurilor lateritice din muson pompează milioane de tone de sediment roșu în apă anual."
+      ]
+    },
+    {
+      "id": "formosa-island-nature-v2",
+      "descriptionAdvanced": "Insula Formosa este inima culturală și a doua masă terestră ca mărime din Arhipelagul vulcanic Bijagós. O adevărată utopie a biodiversității, peisajul este un amestec de orezării mlăștinoase cultivate cu măiestrie tradițională și o vastă suprafață de pădure de foioase ecuatorială umedă, protejată de un perete de mangrove. Fauna de aici a trăit sute de ani fără intervenția prădătorilor continentali (leoparzi sau câini sălbatici), favorizând populațiile de păsări rinocer zgomotoase și specii rare de șerpi mamba verde care prosperă în coronament. Triburile locale refuză complet utilizarea pesticidelor sau substanțelor chimice, un fapt care transformă întreaga suprafață a Formosei într-un paradis organic care oferă cercetătorilor o priveliște neprețuită asupra ecologiei agrare pre-industriale din Africa de Vest. Biologie K7 — agricultura organică indigenă și păsări.",
+      "factsAdvanced": [
+        "Are al doilea areal terestru masiv după dimensiune din vasta arie biosferică a Arhipelagului Bijagós.",
+        "Fermierii indigeni mențin tehnica ancestrală agricolă pur organică (zero aditivi chimici).",
+        "Aria sa verde adăpostește cele mai multe colonii de pasărea rinocer (Hornbill) din insule.",
+        "Lipsa agresivă a prădătorilor mari a generat specii insulare foarte relaxate și vizibile de turiști.",
+        "Apele estuariilor adiacente Formosei sunt bogate în bancuri de calmar (sepie) și bărci tradiționale.",
+        "Bariera groasă a mangrovelor apără satele de furtunile feroce ale lunilor august și septembrie."
+      ]
+    }
+  ]
+}

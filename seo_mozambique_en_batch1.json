@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nampula-cities-v2",
+      "descriptionAdvanced": "Serving as the commercial hub of northern Mozambique, Nampula is the capital of Nampula Province and the country's third-largest city. Founded during the Portuguese colonial era and elevated to city status in 1956, it features distinct modernist architecture such as the Cathedral of Our Lady of the Conception. The city thrives on agricultural trade, processing cashew nuts, cotton, and tobacco from the surrounding fertile plains. Connected to the coast by the Nacala Railway, Nampula plays a vital role in regional transport and logistics. Its vibrant markets reflect a blend of Makua culture and contemporary urban development. Geography K7 — Trade routes and urban centers in Africa.",
+      "factsAdvanced": [
+        "Elevated to city status on August 22, 1956.",
+        "Third-largest city in Mozambique with a population over 745,000.",
+        "Home to the Cathedral of Our Lady of the Conception, built in 1956.",
+        "Major stop on the 912 km Nacala Railway corridor.",
+        "Lurio University was established here in 2006.",
+        "Serves as the main processing center for the region's cashew nut industry."
+      ]
+    },
+    {
+      "id": "beira-cities-v2",
+      "descriptionAdvanced": "Located at the mouth of the Pungwe River in the central region of Mozambique, Beira is a crucial port city connecting landlocked African nations to the Indian Ocean. Established in 1890 by the Mozambique Company, it rapidly grew due to its railway link to Rhodesia (now Zimbabwe). Despite facing significant challenges, including severe damage from Cyclone Idai in 2019, Beira remains a resilient economic engine. The city is characterized by its historic Grande Hotel, vibrant waterfront, and bustling cargo terminals handling exports like coal and agricultural products. Geography K7 — Port cities, trade logistics, and coastal geography.",
+      "factsAdvanced": [
+        "Founded in 1890 by the Portuguese-owned Mozambique Company.",
+        "The Beira Railway connects the port to Zimbabwe and Malawi.",
+        "Struck by Category 4 Cyclone Idai in March 2019.",
+        "Second-largest city in Mozambique, population exceeding 530,000.",
+        "Macuti Lighthouse, a prominent landmark, was built in 1904.",
+        "The port handles over 3 million tons of cargo annually."
+      ]
+    },
+    {
+      "id": "chimoio-cities-v2",
+      "descriptionAdvanced": "Nestled in the Manica Province, Chimoio is a major agricultural and transport center situated along the Beira corridor. Originally named Vila Pery under Portuguese administration, it serves as the capital of the province and is surrounded by lush farmlands producing maize, citrus, and tobacco. The city's landscape is dominated by the 'Cabeça do Velho' (Old Man's Head), a striking natural rock formation resembling a human face. Chimoio plays a crucial role in Mozambique's trade with neighboring Zimbabwe due to its strategic position on the EN6 highway and the railway line. Geography K7 — Transport corridors and agricultural hubs.",
+      "factsAdvanced": [
+        "Originally named Vila Pery, renamed Chimoio in 1975.",
+        "Located 95 km from the Zimbabwean border at Machipanda.",
+        "Famous for the Cabeça do Velho rock formation nearby.",
+        "Capital of Manica Province, population around 370,000.",
+        "A key stop on the 317 km Beira-Bulawayo railway.",
+        "Surrounding areas are major producers of citrus and maize."
+      ]
+    },
+    {
+      "id": "nacala-cities-v2",
+      "descriptionAdvanced": "Nacala is renowned for having the deepest natural harbor on the eastern coast of Africa. Located in Nampula Province, this deep-water port is the terminal of the Nacala Railway, which extends into landlocked Malawi. Originally established as a small settlement, it developed significantly in the mid-20th century to serve as a major logistical hub for the region's agricultural and mining exports, including coal from the Moatize basin. The surrounding coastline offers pristine beaches and coral reefs, increasingly attracting eco-tourism to complement its industrial focus. Geography K8 — Natural harbors, logistics, and marine environments.",
+      "factsAdvanced": [
+        "Recognized as the deepest natural port on the East African coast.",
+        "Terminal of the 912 km long Nacala railway line.",
+        "Granted city status by the colonial administration in 1971.",
+        "Handles significant coal exports from the Moatize basin.",
+        "Located in Nampula Province, population approx 220,000.",
+        "The port can accommodate Capesize vessels up to 200,000 DWT."
+      ]
+    },
+    {
+      "id": "quelimane-cities-v2",
+      "descriptionAdvanced": "Situated on the Rio dos Bons Sinais, Quelimane is an ancient port city with a history dating back to early Swahili and Arab trading settlements before Vasco da Gama's arrival in 1498. As the capital of Zambezia Province, it is surrounded by expansive coconut palm plantations and plays a key role in the regional fishing and agricultural sectors. The city's colonial past is visible in landmarks like the Old Cathedral and governor's palace. Today, it remains a vital center for exporting copra and tea from the interior highlands. History K8 — Early Indian Ocean trade networks and Portuguese exploration.",
+      "factsAdvanced": [
+        "Vasco da Gama reached the area in 1498, naming the river 'Bons Sinais'.",
+        "Capital of the Zambezia Province, population around 340,000.",
+        "Historically one of the largest centers for copra (dried coconut) production.",
+        "The Old Cathedral of Quelimane was built in the 18th century.",
+        "Located about 20 km inland from the Indian Ocean.",
+        "Connected to the interior by the historic 145 km Shire Highlands Railway."
+      ]
+    },
+    {
+      "id": "tete-cities-v2",
+      "descriptionAdvanced": "Positioned on the banks of the Zambezi River, Tete is one of Mozambique's oldest urban settlements and a critical crossroads for southern Africa. Established as a Swahili trading post, it became a key center for Portuguese ivory and gold trade in the 16th century. Today, Tete is the administrative capital of Tete Province and has experienced rapid growth driven by extensive coal mining operations in the Moatize basin. The city is connected by the iconic Samora Machel Bridge, a vital suspension bridge spanning the Zambezi. Geography K8 — River settlements, mineral extraction, and trade routes.",
+      "factsAdvanced": [
+        "Founded as a Swahili trade center before the 16th century.",
+        "Capital of Tete Province, known for extreme summer temperatures often exceeding 40°C.",
+        "The Samora Machel Bridge, built in 1973, spans 762 meters across the Zambezi.",
+        "A major hub for the nearby Moatize coal fields.",
+        "Historically a center for the gold and ivory trade.",
+        "Located just 150 km from the Cahora Bassa Dam."
+      ]
+    },
+    {
+      "id": "xai-xai-cities-v2",
+      "descriptionAdvanced": "Xai-Xai, the capital of Gaza Province, is situated near the mouth of the Limpopo River. Formerly known as João Belo during the colonial era, the city serves as a bustling agricultural and administrative center for the fertile Limpopo Valley, producing rice, maize, and cashew nuts. Just 10 kilometers away lies the stunning Praia do Xai-Xai, a popular beach destination protected by an offshore coral reef, offering calm waters and tidal pools. The city was severely affected by the massive Limpopo floods of 2000 but has since rebuilt its infrastructure. Geography K7 — River valleys, floodplains, and coastal tourism.",
+      "factsAdvanced": [
+        "Known as João Belo until Mozambique's independence in 1975.",
+        "Capital of the Gaza Province, population roughly 116,000.",
+        "Located near the mouth of the Limpopo River, 200 km north of Maputo.",
+        "Severely inundated during the devastating 2000 Mozambique flood.",
+        "Praia do Xai-Xai is a major tourist beach featuring a massive coral reef.",
+        "Surrounding Limpopo Valley is a key agricultural zone for rice production."
+      ]
+    },
+    {
+      "id": "maxixe-cities-v2",
+      "descriptionAdvanced": "Maxixe is the largest city in Inhambane Province and serves as a major commercial transit point along the primary EN1 highway. Situated directly across the bay from the historic city of Inhambane, the two are closely linked by frequent traditional dhow ferries and modern passenger boats. Maxixe's economy revolves around retail, transport services, and local agriculture, acting as the primary distribution hub for the province. The bustling waterfront and constant flow of travelers make it one of the most vibrant transport nodes in southern Mozambique. Geography K6 — Transport nodes and commercial geography.",
+      "factsAdvanced": [
+        "Largest city in Inhambane Province with over 105,000 residents.",
+        "Separated from Inhambane city by a 3 km wide bay.",
+        "Traditional dhows provide regular ferry service across the bay.",
+        "Serves as the main stopover on the EN1 national highway.",
+        "Economic hub for distributing goods throughout the province.",
+        "Granted city status in 1969 under Portuguese rule."
+      ]
+    },
+    {
+      "id": "inhambane-cities-v2",
+      "descriptionAdvanced": "Inhambane is one of the oldest continually inhabited settlements on the eastern African coast. Originally frequented by Arab dhows trading in pearls, ambergris, and slaves, Vasco da Gama famously dubbed it 'Terra de Boa Gente' (Land of the Good People) in 1498. Today, it is a sleepy but charming provincial capital characterized by narrow streets, a 170-year-old Cathedral, and the striking green-domed Mosque. The city is the gateway to the world-renowned beaches of Tofo and Barra, making it a crucial center for eco-tourism and scuba diving in Mozambique. History K8 — Swahili Coast trade networks and early Portuguese encounters.",
+      "factsAdvanced": [
+        "Visited by Vasco da Gama in 1498, who called it 'Terra de Boa Gente'.",
+        "The Cathedral of Our Lady of the Conception was built in 1840.",
+        "Capital of the Inhambane Province.",
+        "Historically a major trading port for ivory and ambergris.",
+        "Located on a peninsula facing Maxixe across the bay.",
+        "Serves as the gateway to the popular Tofo and Barra beaches."
+      ]
+    },
+    {
+      "id": "pemba-cities-v2",
+      "descriptionAdvanced": "Pemba, the capital of Cabo Delgado Province, is built on a peninsula extending into the massive Pemba Bay, one of the world's largest natural harbors. Founded as Porto Amélia in 1904 by the Niassa Company, the city is a striking blend of Portuguese colonial architecture and local Makonde culture. Pemba is a renowned destination for pristine beaches like Wimbe Beach and serves as the primary jumping-off point for the spectacular Quirimbas Archipelago. In recent years, it has become a strategic logistical hub for massive offshore natural gas projects in the Rovuma Basin. Geography K8 — Natural harbors, offshore resources, and coastal tourism.",
+      "factsAdvanced": [
+        "Founded in 1904 as Porto Amélia by the Niassa Company.",
+        "Located on the shores of Pemba Bay, one of the largest natural bays globally.",
+        "Capital of the northernmost province, Cabo Delgado.",
+        "Gateway to the Quirimbas Archipelago and National Park.",
+        "A key logistical center for Rovuma Basin natural gas exploration.",
+        "Famous for Wimbe Beach and local Makonde wood carving."
+      ]
+    },
+    {
+      "id": "lichinga-cities-v2",
+      "descriptionAdvanced": "Perched on the high Lichinga Plateau at an elevation of nearly 1,400 meters, Lichinga is the capital of Mozambique's vast and sparsely populated Niassa Province. Founded as Vila Cabral in 1931, the city experiences a distinctly cooler, temperate climate compared to the rest of the country, surrounded by extensive pine plantations. Its remote location makes it an isolated administrative center, serving as a gateway to Lake Niassa (Lake Malawi) and the massive Niassa Special Reserve, one of Africa's largest and most rugged protected areas. Geography K7 — Plateau settlements, climate zones, and remote administration.",
+      "factsAdvanced": [
+        "Founded in 1931 as Vila Cabral, renamed Lichinga in 1975.",
+        "Located at an elevation of 1,360 meters on the Lichinga Plateau.",
+        "Capital of the vast Niassa Province.",
+        "Features a temperate climate and extensive pine forests.",
+        "Connected by a branch railway line to the Nacala corridor at Cuamba.",
+        "Gateway city to the eastern shores of Lake Niassa."
+      ]
+    },
+    {
+      "id": "cuamba-cities-v2",
+      "descriptionAdvanced": "Cuamba is a critical railway junction and agricultural market town located in the southern part of Niassa Province. Established during the colonial era as Nova Freixo, it serves as the vital intersection where the railway line from Lichinga joins the main Nacala corridor connecting Malawi to the deep-water port of Nacala. The town's economy is heavily dependent on the transport sector and local agriculture, facilitating the movement of crops like maize, cotton, and tobacco from the interior highlands to coastal markets. Geography K7 — Transport networks, rail junctions, and agricultural logistics.",
+      "factsAdvanced": [
+        "Historically known as Nova Freixo until 1976.",
+        "A major railway junction connecting Lichinga to the Nacala corridor.",
+        "Located in the southern region of Niassa Province.",
+        "Facilitates transit for goods moving between Malawi and the Indian Ocean.",
+        "Population is approximately 110,000.",
+        "Key local crops traded include cotton, tobacco, and maize."
+      ]
+    },
+    {
+      "id": "mocuba-cities-v2",
+      "descriptionAdvanced": "Mocuba is a rapidly growing urban center situated on the banks of the Licungo River in Zambezia Province. Historically, it served as an important hub for sisal and tea plantations during the colonial era. Today, the city is a key transit point connecting the northern provinces with the central and southern regions of Mozambique via the EN1 highway. The fertile surrounding lands support a vibrant agricultural economy, while the city itself acts as an administrative and educational focal point for the interior districts of Zambezia. Geography K7 — Riverine settlements, agricultural hubs, and highway transit.",
+      "factsAdvanced": [
+        "Located on the Licungo River in the Zambezia Province.",
+        "A critical junction on the EN1 national highway.",
+        "Historically a center for sisal and tea production.",
+        "Population has grown to over 100,000 residents.",
+        "Hosts the agricultural faculty of Zambeze University.",
+        "Elevated to city status in 1971."
+      ]
+    },
+    {
+      "id": "gurue-cities-v2",
+      "descriptionAdvanced": "Nestled in the lush, mountainous highlands of northern Zambezia Province, Gurúè is the undisputed tea capital of Mozambique. Founded as Vila Junqueiro by the Portuguese, the town is enveloped by spectacular peaks, including Mount Namuli, the country's second-highest mountain. The cool, high-altitude climate and rich soils make it the perfect environment for vast, sprawling tea estates that have defined the local economy since the 1920s. Besides tea, the region produces coffee and macadamia nuts, offering some of the most breathtaking highland scenery in the country. Geography K8 — Highland climates, plantation agriculture, and mountain geography.",
+      "factsAdvanced": [
+        "Known as Vila Junqueiro until independence in 1975.",
+        "The primary center for tea production in Mozambique since the 1920s.",
+        "Located near Mount Namuli, which rises to 2,419 meters.",
+        "Characterized by a cool, high-altitude tropical climate.",
+        "Also a producer of macadamia nuts and coffee.",
+        "Population is around 145,000 in the greater district."
+      ]
+    },
+    {
+      "id": "dondo-cities-v2",
+      "descriptionAdvanced": "Located just 30 kilometers northwest of Beira, Dondo is an industrial and logistical center in Sofala Province. It is strategically positioned at the critical junction where the railway from Malawi merges with the line from Zimbabwe before heading into the port of Beira. The city is highly industrialized compared to its neighbors, hosting a major cement factory and facilities for timber processing. Dondo serves as a vital suburban and industrial extension of the Beira economic corridor, facilitating heavy freight and manufacturing. Geography K7 — Industrial geography, rail junctions, and suburban expansion.",
+      "factsAdvanced": [
+        "Situated 30 km inland from the coastal port of Beira.",
+        "Hosts one of Mozambique's major cement manufacturing plants.",
+        "A critical railway junction where the Sena and Machipanda lines meet.",
+        "Elevated to city status in 1998.",
+        "Suffered significant damage from Cyclone Idai in 2019.",
+        "Population is approximately 70,000."
+      ]
+    },
+    {
+      "id": "macomia-cities-v2",
+      "descriptionAdvanced": "Macomia is a strategic district capital located in the heart of Cabo Delgado Province in northern Mozambique. Positioned along the main north-south highway, it acts as a vital commercial and transit hub connecting the provincial capital, Pemba, with the northern districts bordering Tanzania. The area is characterized by dense coastal woodlands and serves as a gateway to the Quirimbas National Park. Recently, Macomia has gained geopolitical significance due to regional security challenges and its proximity to major offshore natural gas infrastructure. Geography K7 — Strategic transit hubs and regional administration.",
+      "factsAdvanced": [
+        "Located centrally in the Cabo Delgado Province.",
+        "Serves as a key transit point on the route between Pemba and Mocímboa da Praia.",
+        "Gateway to portions of the Quirimbas National Park.",
+        "Economy is based on agriculture, timber, and transit trade.",
+        "Has been a focal point for security and humanitarian efforts since 2017.",
+        "Lies approximately 200 km north of Pemba."
+      ]
+    },
+    {
+      "id": "montepuez-cities-v2",
+      "descriptionAdvanced": "Montepuez is the second-largest city in Cabo Delgado Province and has garnered global attention as the site of one of the world's most significant ruby deposits. Discovered in 2009, the Montepuez ruby mines have transformed the local economy, drawing international mining conglomerates and artisanal miners alike. Beyond gemstones, the city is a robust agricultural center producing cotton and timber. Its inland location on the fertile plateau makes it a crucial administrative and commercial hub for the province's interior districts. Geography K8 — Mineral extraction, gemstone mining, and economic transformation.",
+      "factsAdvanced": [
+        "Home to one of the largest known ruby deposits in the world, discovered in 2009.",
+        "Second most populous city in Cabo Delgado Province.",
+        "The Montepuez Ruby Mining (MRM) company operates a massive concession here.",
+        "Also a significant center for cotton and timber production.",
+        "Elevated to city status in 1961 as Vila Pery.",
+        "Located on a plateau approximately 200 km inland from Pemba."
+      ]
+    },
+    {
+      "id": "angoche-cities-v2",
+      "descriptionAdvanced": "Angoche is a historic coastal city in Nampula Province, deeply influenced by centuries of Arab and Swahili maritime trade. Formerly known as António Enes, it was a major center for the Angoche Sultanate, which dominated regional trade routes in the 15th and 16th centuries. The city is surrounded by complex estuarine systems and mangrove forests, supporting a massive artisanal fishing industry. Historically significant for its cashew nut and copra exports, Angoche remains a culturally rich urban center blending colonial architecture with traditional Islamic coastal heritage. History K8 — Swahili sultanates, maritime trade, and coastal cultures.",
+      "factsAdvanced": [
+        "Historically the center of the influential Angoche Sultanate.",
+        "Known as António Enes during the Portuguese colonial period.",
+        "Located on a coastal estuary in Nampula Province.",
+        "Economy heavily relies on artisanal fishing and cashew processing.",
+        "Features a strong Islamic cultural heritage dating back centuries.",
+        "Population is over 80,000."
+      ]
+    },
+    {
+      "id": "monapo-cities-v2",
+      "descriptionAdvanced": "Monapo is a bustling agricultural and industrial town situated in Nampula Province, along the primary transport corridor between Nampula city and the deep-water port of Nacala. It is highly regarded as one of Mozambique's premier cashew nut producing and processing centers. The town also hosts a branch railway line heading north to the historic island of Mozambique (Ilha de Moçambique). Monapo's strategic location ensures it plays a vital role in aggregating agricultural products from the fertile hinterland for export. Geography K7 — Agricultural processing, transport corridors, and logistics.",
+      "factsAdvanced": [
+        "Located on the main railway line between Nampula and Nacala.",
+        "A major hub for cashew nut processing in Mozambique.",
+        "Features a railway junction connecting to Lumbo and Ilha de Moçambique.",
+        "Located in Nampula Province.",
+        "The local economy is heavily based on agriculture, including cotton and maize.",
+        "Population of the town is approximately 60,000."
+      ]
+    },
+    {
+      "id": "mocimboa-da-praia-cities-v2",
+      "descriptionAdvanced": "Mocímboa da Praia is a northern coastal town in Cabo Delgado Province, situated near the Tanzanian border. Historically a quiet fishing and agricultural center, it gained significant prominence due to its proximity to the massive Afungi peninsula natural gas projects in the Rovuma Basin. The town features a deep-water bay and an airport, making it a critical logistical node for offshore exploration. Its strategic position has also made it a focal point in the recent regional security conflicts, heavily impacting its development and population. Geography K8 — Offshore energy logistics, border towns, and geopolitics.",
+      "factsAdvanced": [
+        "Located on the coast of Cabo Delgado Province, north of Pemba.",
+        "Historically significant during the Mozambican War of Independence.",
+        "Serves as a logistical hub for the Rovuma Basin LNG projects.",
+        "Features a local airport and a natural deep-water bay.",
+        "Has faced significant security challenges and conflict since 2017.",
+        "Positioned roughly 80 km south of the Tanzanian border."
+      ]
+    },
+    {
+      "id": "vilankulo-cities-v2",
+      "descriptionAdvanced": "Vilankulo is a vibrant coastal town in Inhambane Province, internationally famous as the gateway to the stunning Bazaruto Archipelago. The town has evolved from a traditional fishing village into one of Mozambique's premier tourism destinations, featuring pristine white sand beaches, clear aquamarine waters, and world-class scuba diving spots. The local economy is driven by a mix of high-end eco-tourism and artisanal fishing. Vilankulo's bustling harbor is filled with traditional dhows taking visitors out to the protected marine national park islands. Geography K7 — Coastal tourism, marine parks, and island gateways.",
+      "factsAdvanced": [
+        "The primary gateway to the Bazaruto Archipelago National Park.",
+        "Named after local tribal chief Gamala Vilankulo Mukoke.",
+        "Located in Inhambane Province along the central coastline.",
+        "Hosts an international airport to facilitate regional tourism.",
+        "A premier destination for scuba diving, snorkeling, and deep-sea fishing.",
+        "The Bazaruto islands are visible from the town's coastline."
+      ]
+    },
+    {
+      "id": "chibuto-cities-v2",
+      "descriptionAdvanced": "Chibuto is an important agricultural and administrative city located in Gaza Province, situated on a plateau overlooking the Limpopo River valley. It serves as a vital commercial center for the surrounding farming communities that produce maize, beans, and cattle. In recent years, Chibuto has gained international attention due to massive heavy mineral sands mining projects in the district, extracting titanium and zircon. This industrial development is gradually transforming the city's economic landscape, creating a blend of traditional agriculture and large-scale mining operations. Geography K8 — Mineral sands extraction, agricultural plateaus, and economic shifts.",
+      "factsAdvanced": [
+        "Located in Gaza Province, overlooking the Limpopo valley.",
+        "Home to one of the world's largest known heavy mineral sands deposits.",
+        "Mining operations extract ilmenite, rutile, and zircon.",
+        "Acts as a regional commercial hub for agriculture and cattle trading.",
+        "Historically an important center during the colonial administration of Gaza.",
+        "Population is approximately 60,000."
+      ]
+    },
+    {
+      "id": "moamba-cities-v2",
+      "descriptionAdvanced": "Moamba is a key transit and agricultural town in Maputo Province, strategically positioned along the EN4 toll highway and the railway line connecting Maputo to South Africa. The town is a major producer of sugarcane and citrus, utilizing the fertile soils and irrigation systems of the Incomati River basin. Because of its proximity to the border, Moamba is heavily integrated into the Maputo Development Corridor, facilitating massive cross-border trade. It also serves as the administrative center for a vast district stretching to the Lebombo Mountains. Geography K7 — Transport corridors, border proximity, and irrigated agriculture.",
+      "factsAdvanced": [
+        "Situated on the EN4 highway linking Maputo to South Africa.",
+        "Located on the banks of the Incomati River.",
+        "A major center for irrigated sugarcane and citrus farming.",
+        "Part of the strategic Maputo Development Corridor.",
+        "Connected to Maputo by a 60 km railway journey.",
+        "The district borders both South Africa and Eswatini."
+      ]
+    },
+    {
+      "id": "manhica-cities-v2",
+      "descriptionAdvanced": "Manhiça is a rapidly expanding town in Maputo Province, located on the EN1 highway leading north from the capital. Surrounded by the fertile floodplains of the Incomati River, it is a powerhouse of agricultural production, notably boasting large-scale sugar estates and processing mills like Maragra. Manhiça is also globally recognized in the medical science community for hosting the Manhiça Health Research Centre (CISM), a leading institution in tropical disease research, particularly for malaria vaccine trials. Geography K7 — Health research hubs, river floodplains, and sugar production.",
+      "factsAdvanced": [
+        "Located about 80 km north of Maputo on the EN1 highway.",
+        "Home to the internationally renowned Manhiça Health Research Centre (CISM).",
+        "A major agricultural center known for the Maragra sugar estate.",
+        "Situated near the fertile banks of the Incomati River.",
+        "Elevated to municipality status in 1998.",
+        "The town plays a critical role in global malaria research."
+      ]
+    },
+    {
+      "id": "marracuene-cities-v2",
+      "descriptionAdvanced": "Marracuene is a historic riverside town in Maputo Province, located just 30 kilometers north of the capital along the Incomati River. Famous as the site of the 1895 Battle of Marracuene during the Gaza Empire's resistance against Portuguese colonial expansion, the town retains deep historical significance. Today, it is a popular weekend getaway for Maputo residents, serving as the gateway to the beautiful Macaneta Beach via a newly constructed bridge. The town's economy relies on agriculture, local tourism, and small-scale fishing. History K8 — Colonial expansion, African resistance, and riverside tourism.",
+      "factsAdvanced": [
+        "Site of the historic Battle of Marracuene on February 2, 1895.",
+        "Located on the banks of the Incomati River.",
+        "Serves as the gateway to the popular Macaneta peninsula and beaches.",
+        "A major bridge over the Incomati was completed here in 2016.",
+        "Only 30 km north of central Maputo, making it a growing suburb.",
+        "Hosts the annual Gwaza Muthini festival commemorating the 1895 battle."
+      ]
+    }
+  ]
+}

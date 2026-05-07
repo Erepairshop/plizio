@@ -1,0 +1,70 @@
+{
+  "lang": "en",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kayanza-cities-v2",
+      "descriptionAdvanced": "Kayanza is the capital of Kayanza Province in northern Burundi. Known for its high-quality coffee and rolling tea plantations, it acts as a critical agricultural processing hub. Földrajz K7 — mezőgazdasági központok.",
+      "factsAdvanced": [
+        "Situated at approximately 1,800 meters in the northern highlands.",
+        "A major contributor to Burundi's national coffee export volume.",
+        "The hilly terrain is ideal for both tea and coffee production.",
+        "Serves as an important local administrative and market center.",
+        "Surrounded by lush vegetation due to high annual rainfall patterns."
+      ]
+    },
+    {
+      "id": "bururi-cities-v2",
+      "descriptionAdvanced": "Bururi, capital of the Bururi Province, is located in the southern part of the country. It is famous for being near one of Burundi's most significant nature reserves, providing a mix of urban activity and conservation efforts. Sachkunde K5 — élőhelyvédelem.",
+      "factsAdvanced": [
+        "Located in the southern highlands of Burundi.",
+        "Proximity to the Bururi Forest Nature Reserve, a key biodiversity hotspot.",
+        "High altitude provides a temperate climate beneficial for agriculture.",
+        "Historically significant as a regional educational hub.",
+        "Serves as the administrative seat for the southern province."
+      ]
+    },
+    {
+      "id": "rutana-cities-v2",
+      "descriptionAdvanced": "Rutana serves as the capital of Rutana Province, located in southeastern Burundi. It is known for its dramatic landscapes, including notable waterfalls, and a strong connection to agricultural livelihoods. Földrajz K8 — domborzat és vízesések.",
+      "factsAdvanced": [
+        "Home to the spectacular Karera Waterfalls, a major national landmark.",
+        "The province features a varied topography including plateaus and river valleys.",
+        "Economy is heavily reliant on subsistence farming and livestock.",
+        "Located at an elevation of roughly 1,600 meters.",
+        "Known for its cultural heritage and traditional music history."
+      ]
+    },
+    {
+      "id": "muramvya-cities-v2",
+      "descriptionAdvanced": "Muramvya is the capital of the Muramvya Province, nestled in the central-western highlands. It holds deep historical importance as a former royal residence during the pre-colonial era of the Kingdom of Burundi. Geschichte K8 — királyságok.",
+      "factsAdvanced": [
+        "Historically one of the royal capitals of the Kingdom of Burundi.",
+        "Located in a region characterized by mountainous terrain.",
+        "Important site for traditional cultural ceremonies and rituals.",
+        "Agriculture is the main economic driver, especially vegetable farming.",
+        "Strategically located between Gitega and the western lowlands."
+      ]
+    },
+    {
+      "id": "makamba-cities-v2",
+      "descriptionAdvanced": "Makamba is the capital of Makamba Province, in the extreme south of Burundi near the Tanzanian border. Its location plays a vital role in regional cross-border trade and connectivity. Földrajz K8 — határmenti régiók.",
+      "factsAdvanced": [
+        "Major town for cross-border trade with Tanzania.",
+        "Located on the central plateau of southern Burundi.",
+        "The region is known for a mix of agricultural production and livestock.",
+        "Important hub for regional transport logistics.",
+        "Serves as the main administrative and commercial center in the south."
+      ]
+    }
+  ]
+}

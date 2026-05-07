@@ -1,0 +1,37 @@
+[
+  {
+    "id": "siofok-strand",
+    "nameEn": "Siófok Great Beach",
+    "descEn": "The largest and busiest beach on the southern shore with a club atmosphere."
+  },
+  {
+    "id": "gyor-gyerekvonat",
+    "nameEn": "Győr Children's Train",
+    "descEn": "Small park railway, a favorite for families in Győr."
+  },
+  {
+    "id": "budakeszi-vadaspark",
+    "nameEn": "Budakeszi Wildlife Park",
+    "descEn": "Wildlife park near Budapest featuring native species."
+  },
+  {
+    "id": "veszpremi-allatkert",
+    "nameEn": "Veszprém Zoo",
+    "descEn": "One of the most beautiful zoos in Hungary with spacious enclosures and a dino park."
+  },
+  {
+    "id": "szegedi-vadaspark",
+    "nameEn": "Szeged Wildlife Park",
+    "descEn": "Large-scale wildlife park focused on the protection of rare species."
+  },
+  {
+    "id": "tihany-levendulamezo",
+    "nameEn": "Tihany Lavender Fields",
+    "descEn": "Beautiful lavender fields that turn the peninsula purple in June."
+  },
+  {
+    "id": "megyer-hegyi-tengerszem",
+    "nameEn": "Megyer-hegy Tarn",
+    "descEn": "Impressive mountain lake in a former millstone quarry."
+  }
+]

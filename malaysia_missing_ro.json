@@ -1,0 +1,837 @@
+[
+  {
+    "id": "kuala-lumpur-cities-v2",
+    "name": "Kuala Lumpur",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "george-town-penang-cities-v2",
+    "name": "George Town",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "johor-bahru-cities-v2",
+    "name": "Johor Bahru",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "ipoh-cities-v2",
+    "name": "Ipoh",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kuching-cities-v2",
+    "name": "Kuching",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kota-kinabalu-cities-v2",
+    "name": "Kota Kinabalu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "shah-alam-cities-v2",
+    "name": "Shah Alam",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "malakka-stadt-cities-v2",
+    "name": "Malacca",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kuantan-cities-v2",
+    "name": "Kuantan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "seremban-cities-v2",
+    "name": "Seremban",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kota-bharu-cities-v2",
+    "name": "Kota Bharu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kuala-terengganu-cities-v2",
+    "name": "Kuala Terengganu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "alorsetar-cities-v2",
+    "name": "Alor Setar",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kangar-cities-v2",
+    "name": "Kangar",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "putrajaya-cities-v2",
+    "name": "Putrajaya",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "subang-jaya-cities-v2",
+    "name": "Subang Jaya",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "klang-cities-v2",
+    "name": "Klang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "petaling-jaya-cities-v2",
+    "name": "Petaling Jaya",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "miri-cities-v2",
+    "name": "Miri",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "sibu-cities-v2",
+    "name": "Sibu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "sandakan-cities-v2",
+    "name": "Sandakan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "tawau-cities-v2",
+    "name": "Tawau",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "bintulu-cities-v2",
+    "name": "Bintulu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "muar-cities-v2",
+    "name": "Muar",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "sungai-petani-cities-v2",
+    "name": "Sungai Petani",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "labuan-cities-v2",
+    "name": "Victoria",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "batu-pahat-cities-v2",
+    "name": "Batu Pahat",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "kulim-cities-v2",
+    "name": "Kulim",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "taiping-cities-v2",
+    "name": "Taiping",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "lahad-datu-cities-v2",
+    "name": "Lahad Datu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  },
+  {
+    "id": "port-klang-trade-hub-economic-v2",
+    "name": "Portul Klang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "tanjung-pelepas-port-trade-hub-economic-v2",
+    "name": "Portul Tanjung Pelepas",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "bayan-lepas-ftez-industry-economic-v2",
+    "name": "Zona Industrială Liberă Bayan Lepas",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "rawang-automotive-industry-economic-v2",
+    "name": "Clusterul Auto Rawang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "kerteh-petrochemical-complex-energy-economic-v2",
+    "name": "Complexul Petrochimic Kerteh",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "pasir-gudang-heavy-industry-economic-v2",
+    "name": "Zona Industrială Grea Pasir Gudang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "bintulu-lng-complex-energy-economic-v2",
+    "name": "Complexul GNL Bintulu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "penang-port-trade-hub-economic-v2",
+    "name": "Portul Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "mamut-copper-mine-mine-economic-v2",
+    "name": "Mina de Cupru Mamut",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "kulim-hitech-park-industry-economic-v2",
+    "name": "Parcul Tehnologic Kulim",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "klia-aeropolis-trade-hub-economic-v2",
+    "name": "KLIA Aeropolis",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "bukit-beruntung-industrial-park-industry-economic-v2",
+    "name": "Parcul Industrial Bukit Beruntung",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "manjung-power-plant-energy-economic-v2",
+    "name": "Centrala Electrică Manjung",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "johor-port-trade-hub-economic-v2",
+    "name": "Portul Johor",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "sungai-besi-mine-mine-economic-v2",
+    "name": "Mina Sungai Besi",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "gebeng-industrial-estate-industry-economic-v2",
+    "name": "Zona Industrială Gebeng",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "bakun-hydroelectric-dam-energy-economic-v2",
+    "name": "Hidrocentrala Bakun",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "bukit-ibam-mine-mine-economic-v2",
+    "name": "Mina Bukit Ibam",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "cyberjaya-trade-hub-economic-v2",
+    "name": "Cyberjaya",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "kuantan-port-trade-hub-economic-v2",
+    "name": "Portul Kuantan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  },
+  {
+    "id": "batu-caves-history-v2",
+    "name": "Peșterile Batu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "a-famosa-fort-history-v2",
+    "name": "Fortăreața A Famosa",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "lembah-bujang-history-v2",
+    "name": "Valea Bujang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "tugu-negara-history-v2",
+    "name": "Tugu Negara (Monumentul Național)",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "kellies-castle-history-v2",
+    "name": "Castelul lui Kellie",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "fort-cornwallis-history-v2",
+    "name": "Fort Cornwallis",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "sandakan-memorial-park-history-v2",
+    "name": "Parcul Memorial Sandakan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "stadthuys-history-v2",
+    "name": "Stadthuys",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "istana-negara-lama-history-v2",
+    "name": "Vechiul Istana Negara",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "sun-yat-sen-museum-penang-history-v2",
+    "name": "Muzeul Sun Yat-sen Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "fort-margherita-history-v2",
+    "name": "Fort Margherita",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "bukit-kepong-incident-monument-history-v2",
+    "name": "Monumentul Incidentului Bukit Kepong",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "cheng-hoon-teng-temple-history-v2",
+    "name": "Templul Cheng Hoon Teng",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "dataran-merdeka-history-v2",
+    "name": "Dataran Merdeka (Piața Independenței)",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "niah-caves-archaeological-site-history-v2",
+    "name": "Situl Arheologic Peșterile Niah",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "kampung-kling-mosque-history-v2",
+    "name": "Moscheea Kampung Kling",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "merdeka-stadium-history-v2",
+    "name": "Stadionul Merdeka",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "battle-of-penang-site-history-v2",
+    "name": "Locul Bătăliei de la Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "agnes-keith-house-history-v2",
+    "name": "Casa Agnes Keith",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "sultan-abdul-samad-building-history-v2",
+    "name": "Clădirea Sultan Abdul Samad",
+    "file": "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts"
+  },
+  {
+    "id": "petronas-twin-towers-landmarks-v2",
+    "name": "Turnurile Gemene Petronas",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "menara-kuala-lumpur-landmarks-v2",
+    "name": "Menara Kuala Lumpur (Turnul KL)",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "langkawi-sky-bridge-landmarks-v2",
+    "name": "Podul Suspendat Langkawi",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "gunung-kinabalu-landmarks-v2",
+    "name": "Muntele Kinabalu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "gunung-mulu-nationalpark-landmarks-v2",
+    "name": "Parcul Național Gunung Mulu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "sultan-salahuddin-abdul-aziz-moschee-landmarks-v2",
+    "name": "Moscheea Sultan Salahuddin Abdul Aziz",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "christ-church-melaka-landmarks-v2",
+    "name": "Biserica Hristos din Malacca",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "thean-hou-tempel-landmarks-v2",
+    "name": "Templul Thean Hou",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "kek-lok-si-tempel-landmarks-v2",
+    "name": "Templul Kek Lok Si",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "langkawi-adler-platz-landmarks-v2",
+    "name": "Piața Vulturului (Dataran Lang)",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "taman-negara-landmarks-v2",
+    "name": "Taman Negara",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "putra-moschee-landmarks-v2",
+    "name": "Moscheea Putra",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "kapitan-keling-moschee-landmarks-v2",
+    "name": "Moscheea Kapitan Keling",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "gurney-drive-landmarks-v2",
+    "name": "Gurney Drive",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "cameron-highlands-landmarks-v2",
+    "name": "Platourile Cameron",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "penang-hill-landmarks-v2",
+    "name": "Dealul Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "sipadan-island-landmarks-v2",
+    "name": "Insula Sipadan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "perhentian-islands-landmarks-v2",
+    "name": "Insulele Perhentian",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "genting-highlands-landmarks-v2",
+    "name": "Platourile Genting",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "istana-budaya-landmarks-v2",
+    "name": "Istana Budaya (Palatul Culturii)",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts"
+  },
+  {
+    "id": "taman-negara-nationalpark-life-v2",
+    "name": "Parcul Național Taman Negara",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "bako-nationalpark-life-v2",
+    "name": "Parcul Național Bako",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "cameron-highlands-teeplantagen-life-v2",
+    "name": "Plantațiile de ceai din Cameron Highlands",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "legoland-malaysia-life-v2",
+    "name": "Legoland Malaezia",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "semenggoh-wildlife-centre-life-v2",
+    "name": "Centrul pentru animale sălbatice Semenggoh",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "perdana-botanical-gardens-life-v2",
+    "name": "Grădinile Botanice Perdana",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "kinabalu-park-life-v2",
+    "name": "Parcul Kinabalu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "sunway-lagoon-theme-park-life-v2",
+    "name": "Parcul tematic Sunway Lagoon",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "paddy-felder-von-kedah-life-v2",
+    "name": "Câmpurile de orez din Kedah",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "kuala-gandah-elefanten-waisenhaus-life-v2",
+    "name": "Orfelinatul de elefanți Kuala Gandah",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "desaru-coast-adventure-waterpark-life-v2",
+    "name": "Parcul acvatic de aventură Desaru Coast",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "gunung-mulu-nationalpark-life-v2",
+    "name": "Parcul Național Gunung Mulu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "klcc-park-life-v2",
+    "name": "Parcul KLCC",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "entopia-by-penang-butterfly-farm-life-v2",
+    "name": "Entopia by Penang Butterfly Farm",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "penang-nationalpark-life-v2",
+    "name": "Parcul Național Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "felda-sahabat-palmoelplantage-life-v2",
+    "name": "Plantația de ulei de palmier FELDA Sahabat",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "kuala-lumpur-vogelpark-life-v2",
+    "name": "Parcul de Păsări Kuala Lumpur",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "farm-in-the-city-life-v2",
+    "name": "Ferma din oraș",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "royal-belum-state-park-life-v2",
+    "name": "Parcul Statal Royal Belum",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "durian-plantagen-in-raub-life-v2",
+    "name": "Plantațiile de durian din Raub",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "aquaria-klcc-life-v2",
+    "name": "Aquaria KLCC",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "zoo-negara-malaysia-life-v2",
+    "name": "Grădina Zoologică Națională din Malaezia",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "lost-world-of-tambun-life-v2",
+    "name": "Lost World of Tambun",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "pulau-payar-marine-park-life-v2",
+    "name": "Parcul Marin Pulau Payar",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "matang-wildlife-centre-life-v2",
+    "name": "Centrul pentru animale sălbatice Matang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "rainforest-discovery-centre-sepilok-life-v2",
+    "name": "Centrul de Descoperire a Pădurii Tropicale, Sepilok",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "tunku-abdul-rahman-national-park-life-v2",
+    "name": "Parcul Național Tunku Abdul Rahman",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "uk-agro-farm-johor-life-v2",
+    "name": "Ferma Agricolă UK, Johor",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "borneo-sun-bear-conservation-centre-life-v2",
+    "name": "Centrul de Conservare a Ursului Soare din Borneo",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "labuk-bay-proboscis-monkey-sanctuary-life-v2",
+    "name": "Sanctuarul de maimuțe Proboscis din Golful Labuk",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "kidzania-kuala-lumpur-life-v2",
+    "name": "KidZania Kuala Lumpur",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "skytrex-adventure-life-v2",
+    "name": "Aventura Skytrex",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "penang-tropical-spice-garden-life-v2",
+    "name": "Grădina Tropicală de Condimente Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "frim-forest-research-institute-malaysia-life-v2",
+    "name": "FRIM (Institutul de Cercetare Forestieră din Malaezia)",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "kl-forest-eco-park-life-v2",
+    "name": "Parcul Ecologic Forestier KL",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "johor-zoo-life-v2",
+    "name": "Grădina Zoologică Johor",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "desaru-fruit-farm-life-v2",
+    "name": "Ferma de Fructe Desaru",
+    "file": "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  },
+  {
+    "id": "gunung-mulu-national-park-nature-v2",
+    "name": "Parcul Național Gunung Mulu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "taman-negara-national-park-nature-v2",
+    "name": "Parcul Național Taman Negara",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "kinabalu-park-nature-v2",
+    "name": "Parcul Kinabalu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "lake-kenyir-nature-v2",
+    "name": "Lacul Kenyir",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "beras-basah-island-nature-v2",
+    "name": "Insula Beras Basah",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "cameron-highlands-forest-nature-v2",
+    "name": "Pădurile din Cameron Highlands",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "kinabatangan-river-nature-v2",
+    "name": "Râul Kinabatangan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "mount-kinabalu-nature-v2",
+    "name": "Muntele Kinabalu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "bako-national-park-nature-v2",
+    "name": "Parcul Național Bako",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "pulau-tioman-nature-v2",
+    "name": "Insula Tioman",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "tasik-chini-nature-v2",
+    "name": "Lacul Chini",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "gunung-ledang-national-park-nature-v2",
+    "name": "Parcul Național Gunung Ledang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "perhentian-islands-nature-v2",
+    "name": "Insulele Perhentian",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "belump-temenggor-forest-reserve-nature-v2",
+    "name": "Rezervația forestieră Belum-Temenggor",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "danum-valley-conservation-area-nature-v2",
+    "name": "Zona de conservare Valea Danum",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "semporna-islands-park-nature-v2",
+    "name": "Parcul Insulelor Semporna",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "pahang-river-nature-v2",
+    "name": "Râul Pahang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "mount-trusmadi-nature-v2",
+    "name": "Muntele Trusmadi",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "tasik-bera-nature-v2",
+    "name": "Lacul Bera",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "endau-rompin-national-park-nature-v2",
+    "name": "Parcul Național Endau-Rompin",
+    "file": "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts"
+  },
+  {
+    "id": "jerai-mountain-kedah-relief-v2",
+    "name": "Muntele Jerai",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "santubong-mountain-sarawak-relief-v2",
+    "name": "Muntele Santubong",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "harau-valley-pahang-relief-v2",
+    "name": "Valea Harau",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "kapas-island-coast-relief-v2",
+    "name": "Coasta Insulei Kapas",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "fraser-hill-plateau-relief-v2",
+    "name": "Dealul Fraser",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "murud-mountain-sarawak-relief-v2",
+    "name": "Muntele Murud",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "teluk-cempedak-coast-relief-v2",
+    "name": "Coasta Teluk Cempedak",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "tambunan-valley-sabah-relief-v2",
+    "name": "Valea Tambunan",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "berembun-mountain-pahang-relief-v2",
+    "name": "Muntele Berembun",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "kenong-rimba-park-coast-relief-v2",
+    "name": "Parcul Kenong Rimba",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "tanjung-datu-national-park-coast-relief-v2",
+    "name": "Coasta Parcului Național Tanjung Datu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "datu-mountain-sarawak-relief-v2",
+    "name": "Muntele Datu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "cherating-coast-pahang-relief-v2",
+    "name": "Coasta Cherating",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "jelebu-valley-negeri-sembilan-relief-v2",
+    "name": "Valea Jelebu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "korbu-mountain-perak-relief-v2",
+    "name": "Muntele Korbu",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "rancangan-penempatan-semula-sahabat-plateau-relief-v2",
+    "name": "Platoul de Relocare Sahabat",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "papar-sabah-coast-relief-v2",
+    "name": "Coasta Papar",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "seri-menanti-valley-negeri-sembilan-relief-v2",
+    "name": "Valea Seri Menanti",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "penang-island-west-coast-relief-v2",
+    "name": "Coasta de Vest a Insulei Penang",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  },
+  {
+    "id": "ulu-gombak-forest-reserve-valley-relief-v2",
+    "name": "Valea Rezervației Forestiere Ulu Gombak",
+    "file": "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  }
+]

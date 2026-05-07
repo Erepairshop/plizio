@@ -1,0 +1,309 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "puerto-arlen-siu-economic-v2",
+      "descriptionAdvanced": "Az Arlen Siu kikötő (Puerto Arlen Siu) El Rama városában található, mélyen a szárazföld belsejében, az Escondido-folyó mentén. Stratégiai fontosságát az adja, hogy ez Nicaragua legfőbb vízi összeköttetése a Karib-tengerrel és az Atlanti-óceánnal. Az árukat Managuából kamionokon szállítják ide, majd uszályokra és kisebb tengerjáró hajókra rakodják, amelyek mintegy 100 kilométert tesznek meg a folyón a tengerig. Ez az útvonal létfontosságú az ország nemzetközi kereskedelme, különösen az Egyesült Államok keleti partja felé irányuló export (pl. rák, hús, kávé) szempontjából. Földrajz K7 — folyami hajózás és logisztikai láncok.",
+      "factsAdvanced": [
+        "A kikötő egy 1970-es években élt fiatal nicaraguai forradalmár lányról, Arlen Siuról kapta a nevét.",
+        "Körülbelül 290 kilométerre fekszik Managuától keleti irányban.",
+        "A hajók átlagosan 6-8 óra alatt teszik meg az utat a kikötőből a Karib-tengerig.",
+        "Nicaragua atlanti-óceáni teherforgalmának közel 80%-a itt halad át.",
+        "Képes legfeljebb 3000 tonnás, kisebb merülésű hajók fogadására.",
+        "A kikötő jelentősége nőtt, mivel Nicaraguának nincs mélyvízi karibi kikötője."
+      ]
+    },
+    {
+      "id": "puerto-san-juan-del-sur-economic-v2",
+      "descriptionAdvanced": "A San Juan del Sur kikötő a csendes-óceáni partvidék egyik legismertebb pontja, amely történelmileg kereskedelmi kikötőként (különösen a 19. századi aranyláz idején) és halászbázisként szolgált. Ma azonban elsősorban a turizmus motorja; az öböl az ország legnépszerűbb tengerparti üdülőhelye, és a nemzetközi luxushajók (cruises) fő megállóhelye Nicaraguában. A hatalmas utasszállítók horgonyoznak az öbölben, ahonnan a turistákat csónakokkal viszik a partra, hogy meglátogassák Rivas, Granada és Masaya látványosságait. Földrajz K6 — tengeri turizmus és átalakuló kikötők.",
+      "factsAdvanced": [
+        "Az 1850-es években az amerikai Cornelius Vanderbilt tranzitútvonalának végpontja volt Kalifornia felé.",
+        "Évente több tucat nagy óceánjáró luxushajó horgonyoz le az öbölben.",
+        "A klasszikus teherforgalmat szinte teljesen átvette tőle Corinto és Sandino kikötője.",
+        "A kikötőből számos sport-horgász (marlin, vitorlás hal) és bálnaleső túra indul.",
+        "Körülbelül 140 kilométerre délre fekszik Managuától.",
+        "A halászflotta ma is aktív, főleg helyi éttermeket lát el friss tengeri halakkal."
+      ]
+    },
+    {
+      "id": "puerto-potosi-economic-v2",
+      "descriptionAdvanced": "A Potosí kikötő a Fonseca-öböl nicaraguai partszakaszán, a Cosigüina-félszigeten található, a hondurasi és salvadori határok közelében. Bár mérete kicsi, stratégiai elhelyezkedése miatt kulcsfontosságú a három ország közötti regionális kereskedelem és az utasforgalom szempontjából. A kikötőből rendszeres kishajó- és kompjáratok indulnak a salvadori La Unión kikötőjébe, ami jelentősen lerövidíti az utazási és szállítási időt a szárazföldi határátkelőkhöz képest. Gazdaságilag a part menti hagyományos halászat és rákászat központja. Földrajz K7 — öblök és határon átnyúló vízi közlekedés.",
+      "factsAdvanced": [
+        "A Fonseca-öböl vizét három ország: Nicaragua, Honduras és El Salvador osztja meg.",
+        "A Potosí-La Unión hajóút körülbelül 2 órát vesz igénybe a tengeren.",
+        "Jelentős állomás a hátizsákos turisták számára a közép-amerikai körút során.",
+        "A kikötőt körülvevő vizekben gyakran látni tengeri teknősöket és delfineket.",
+        "A partvonal itt sötét színű vulkáni homokból áll.",
+        "A térségben a sólepárlás és a mangrovierdők is gazdasági/ökológiai jelentőséggel bírnak."
+      ]
+    },
+    {
+      "id": "zona-franca-las-mercedes-economic-v2",
+      "descriptionAdvanced": "A Las Mercedes Szabadkereskedelmi Övezet (Zona Franca Las Mercedes) Nicaragua egyik legrégebbi és legnagyobb ipari parkja, közvetlenül az Augusto C. Sandino Nemzetközi Repülőtér mellett, Managuában. A komplexum a nicaraguai exportorientált gyártás (maquila) fellegvára, ahol több tízezer munkás – nagyrészt nők – dolgozik ruhaipari, cipő- és autóalkatrész-összeszerelő üzemekben. Az itt gyártott termékek (például ismert amerikai ruhamárkák) vámmentesen kerülnek a nemzetközi piacokra, hatalmas devizabevételt generálva az országnak. Földrajz K8 — globalizáció és szabadkereskedelmi övezetek.",
+      "factsAdvanced": [
+        "A komplexumot még az 1970-es években alapították, de az 1990-es években indult igazi fejlődésnek.",
+        "A parkban több mint 30 különböző külföldi (főleg koreai, tajvani és amerikai) vállalat üzemel.",
+        "Közvetlen közelében helyezkedik el az ország egyetlen nemzetközi repülőtere.",
+        "Nicaragua textil- és ruhaipari exportjának jelentős része innen származik.",
+        "A dolgozók száma a csúcsidőszakokban meghaladja a 20 000 főt.",
+        "A terület saját vámszabályozással és adókedvezményekkel rendelkezik."
+      ]
+    },
+    {
+      "id": "ingenio-san-antonio-economic-v2",
+      "descriptionAdvanced": "A San Antonio cukorgyár (Ingenio San Antonio) Chichigalpa határában, Chinandega megyében működik, és a Pellas-csoport tulajdonában lévő Közép-Amerika egyik legnagyobb agrár-ipari komplexuma. Az 1890 óta üzemelő gyár nemcsak finomított és nyerscukrot állít elő hatalmas mennyiségben, hanem a cukornád melléktermékéből (bagasz) bioáramot (biomassza energia) és etanolt is termel. A gyár a világhírű Flor de Caña rum alapanyagául szolgáló melaszt is biztosítja. Az üzem több ezer hektáros, öntözött cukornádültetvények központjában fekszik. Földrajz K7 — agrár-ipar és biomassza energia.",
+      "factsAdvanced": [
+        "1890-ben alapította Don Francisco Alfredo Pellas.",
+        "Nicaragua cukortermelésének több mint felét ez az egyetlen üzem adja.",
+        "A cukornád rostjából (bagasz) előállított áram fedezi a gyár energiaszükségletét, a felesleget az országos hálózatba táplálják.",
+        "A betakarítási szezonban (zafra) novembertől májusig éjjel-nappal üzemel.",
+        "A vállalat saját kórházat és iskolát is fenntart a dolgozók számára.",
+        "Gyakori kritikák érik a munkások körében elterjedt krónikus vesebetegség (CKDnT) miatt."
+      ]
+    },
+    {
+      "id": "ingenio-monte-rosa-economic-v2",
+      "descriptionAdvanced": "A Monte Rosa cukorgyár El Viejo önkormányzatában található, és a Pantaleon cégcsoport tulajdonában állva az ország második legnagyobb cukoripari központja. Hasonlóan a San Antonióhoz, a Monte Rosa is a vertikális integráció mintapéldája: a cukorgyártás mellett jelentős mennyiségű tiszta, megújuló villamos energiát termelnek biomassza elégetésével, amivel az országos elektromos hálózat fontos beszállítói. A gyár kiterjedt cukornádmezőket művel a termékeny vulkáni talajon, és modern, gépesített betakarítási technikákat alkalmaz a hatékonyság növelése érdekében. Földrajz K7 — monokultúrás mezőgazdaság és energiatermelés.",
+      "factsAdvanced": [
+        "A guatemalai székhelyű Pantaleon csoport 1998-ban vásárolta meg az üzemet.",
+        "Évente több mint 2,5 millió tonna cukornádat dolgoznak fel a létesítményben.",
+        "Több tucat megawatt zöld energiát (áramot) táplálnak a nicaraguai országos hálózatba.",
+        "A cég jelentős erdősítési programokat (reforestación) támogat a környező vízgyűjtőkön.",
+        "Több mint 5000 közvetlen és közvetett munkahelyet biztosít a régióban.",
+        "Nagy hangsúlyt fektetnek a 'zöld zafra' bevezetésére, ami a cukornád égetés nélküli betakarítását jelenti."
+      ]
+    },
+    {
+      "id": "mina-el-limon-economic-v2",
+      "descriptionAdvanced": "Az El Limón aranybánya León megye északnyugati hegyvidékén található, Nicaragua egyik legrégebbi, ma is folyamatosan üzemelő ipari bányája. A bányászat több mint 70 éve zajlik ezen a vulkanikus eredetű területen, főként mélyszíni (föld alatti) kitermeléssel, bár nyílt színi részei is vannak. A bánya – mely jelenleg a Calibre Mining tulajdonában van – a helyi közösség gazdaságának egyetlen tartópillére; egész generációk nőttek fel az aknákban dolgozva. Az arany mellett jelentős mennyiségű ezüstöt is finomítanak a helyszínen. Földrajz K8 — föld alatti bányászat és ásványkincsek.",
+      "factsAdvanced": [
+        "A modern, ipari léptékű bányászat 1941-ben kezdődött a településen.",
+        "A bánya fennállása során eddig több mint 3 millió uncia aranyat termelt ki.",
+        "A helyi gazdaság és az infrastruktúra majdnem teljesen a bányavállalat adóiból és támogatásaiból működik.",
+        "Nicaragua második legtermelékenyebb aranybányája a la libertad-i után.",
+        "A föld alatti járatok hálózata több tucat kilométert tesz ki a vulkáni kőzetekben.",
+        "2015-ben heves bányászsztrájkok hívták fel a figyelmet a munkakörülményekre."
+      ]
+    },
+    {
+      "id": "mina-la-libertad-economic-v2",
+      "descriptionAdvanced": "A La Libertad aranybánya Chontales megyében az ország legnagyobb aranytermelő létesítménye. A kanadai B2Gold, majd később a Calibre Mining által üzemeltetett komplexum hatalmas nyílt színi fejtésekkel (tajo abierto) működik, amelyek drámaian megváltoztatták a környező tájat. A kibányászott kőzetet modern, cianidos kioldásos technológiával (CIP) dolgozzák fel a helyszínen, hogy kivonják az aranyat. A bánya jelentős adóbevételeket és exportjövedelmet hoz az országnak, miközben folyamatos viták tárgya a környezetvédők részéről a folyók és a talajvíz esetleges szennyezése miatt. Földrajz K8 — nyílt színi bányászat és környezeti hatások.",
+      "factsAdvanced": [
+        "Nicaragua teljes aranyexportjának több mint egyharmadát ez az egyetlen bánya adja.",
+        "A bányaüzem kapacitása naponta több mint 6000 tonna érc feldolgozása.",
+        "1855-ben fedezték fel az első aranyrögöket a Mico-folyó vizében ezen a helyen.",
+        "A nyílt színi kráterek (pit) több száz méter szélesek és mélyek.",
+        "Jelentős közösségi beruházásokat (utak, iskolák) finanszíroznak La Libertad városában.",
+        "A cég szigorú hulladéktározó (tailings dam) rendszert tart fenn a mérgező iszap kezelésére."
+      ]
+    },
+    {
+      "id": "mina-bonanza-economic-v2",
+      "descriptionAdvanced": "A Bonanza aranybánya a Karib-tengeri Bányászati Háromszög (Triángulo Minero) legészakibb ipari központja. A HEMCO vállalat által irányított bánya különlegessége az úgynevezett 'Bonanza-modell', amely integrálja az ipari nagyüzemi bányászatot a helyi, engedéllyel rendelkező kisipari bányászok (güiriseros) munkájával. A cég felvásárolja és feldolgozza a kisbányászok által kitermelt ércet, így csökkentve a higanyhasználatot a dzsungelben. A komplexum a sűrű esőerdők közepén fekszik, és saját vízerőművekkel biztosítja az energiaellátását. Földrajz K8 — bányászati modellek és esőerdők védelme.",
+      "factsAdvanced": [
+        "A HEMCO (kolumbiai tulajdon) az egyik legnagyobb munkaadó a Karib-parti régióban.",
+        "A 'Bonanza-modell' révén több ezer helyi kisbányász értékesíti legálisan az ércét a gyárnak.",
+        "A bánya több mint egy évszázada, 1889 óta megszakítás nélkül üzemel (különböző tulajdonosokkal).",
+        "A komplexum fenntartja az ország egyik legnagyobb ipari erdősítési programját.",
+        "A Salto Grande nevű saját vízerőmű fedezi a bánya energiaigényét.",
+        "A területen az évi csapadékmennyiség elérheti a 3500-4000 millimétert."
+      ]
+    },
+    {
+      "id": "zona-franca-saratoga-economic-v2",
+      "descriptionAdvanced": "A Saratoga Szabadkereskedelmi Övezet egy modern, Managua északnyugati határában, Ciudad Sandino közelében található ipari park. A létesítmény főként nemzetközi ruha- és textilipari vállalatoknak, valamint kábelköteg-összeszerelő üzemeknek (autóipar) ad otthont. Kialakítása modern infrastrukturális szabványokat követ, saját víztisztítóval, energiaellátással és logisztikai központtal. A Saratoga ipari park fontos szerepet játszik a főváros peremvidékén élő fiatalok foglalkoztatásában, és része Nicaragua stratégiájának, amellyel a külföldi működőtőkét (FDI) vonzza. Földrajz K8 — külföldi működőtőke és ipari parkok.",
+      "factsAdvanced": [
+        "Több mint 5000 közvetlen munkahelyet teremt a Ciudad Sandino-i és managuai lakosoknak.",
+        "A park területén szigorú biztonsági és vámellenőrzés (customs) működik.",
+        "Számos itt gyártott textiltermék közvetlenül az USA kiskereskedelmi láncaiba kerül.",
+        "Az autóipari kábelkötegeket (arneses) gyártó üzemek magasabb hozzáadott értéket képviselnek.",
+        "A befektetők nagy része amerikai, dél-koreai és hondurasi vállalat.",
+        "Az ipari park saját egészségügyi klinikát működtet a dolgozók részére."
+      ]
+    },
+    {
+      "id": "zona-franca-astro-economic-v2",
+      "descriptionAdvanced": "Az Astro Szabadkereskedelmi Övezet (Astro Packing / Astro Nicaragua) Tipitapa városának határában elhelyezkedő kulcsfontosságú ipari és logisztikai komplexum. Stratégiai elhelyezkedése a Panamerikai útvonalon ideálissá teszi a Honduras és Costa Rica felé tartó teherforgalom számára. A park kezdetben kartondobozok és csomagolóanyagok gyártásáról (Astro Packing) volt híres, amelyek kiszolgálták a többi szabadkereskedelmi övezetet, majd ruhaipari és könnyűipari gyártókkal bővült. Hatalmas raktárbázisai a nicaraguai exportlánc elengedhetetlen láncszemei. Földrajz K8 — logisztika és csomagolóipar.",
+      "factsAdvanced": [
+        "A Tipitapa régió iparosításának egyik legfontosabb bázisa.",
+        "Az Astro Packing az ország egyik legnagyobb hullámkarton- és csomagolóanyag-gyártója.",
+        "Több mint tucatnyi nemzetközi vállalat bérel itt ipari csarnokokat (naves industriales).",
+        "A park a Managua-tó és a Tipitapa-folyó közelében sík, könnyen fejleszthető területen fekszik.",
+        "Több ezer ingázó munkást foglalkoztat Managuából, Tipitapából és Masayából.",
+        "A komplexum jelentős mennyiségű napenergiát is felhasznál működése során."
+      ]
+    },
+    {
+      "id": "parque-industrial-portezuelo-economic-v2",
+      "descriptionAdvanced": "A Portezuelo Ipari Park Managua keleti ipari zónájában, a Norte (Északi) főútvonal mentén található. Ez az egyik leginkább beágyazott ipari létesítmény a főváros szövetébe, amely a hagyományos gyártóipar és a modern logisztika keverékének ad otthont. Itt találhatók nagy élelmiszer-feldolgozó üzemek, műanyaggyártók és elosztó raktárak. Bár nem klasszikus vámmentes övezet (maquila), a nicaraguai belső piac és a közép-amerikai regionális export ellátásának fő bázisa. Az itt működő üzemek erősítik a nicaraguai élelmiszer- és italgyártó szektort. Földrajz K7 — városi ipari zónák és feldolgozóipar.",
+      "factsAdvanced": [
+        "Managua egyik legforgalmasabb ipari és kereskedelmi ütőerén (Carretera Norte) fekszik.",
+        "Több helyi (nemzeti tőkéjű) vállalat központja is egyben.",
+        "Nagy kapacitású hűtőraktárak működnek itt a mezőgazdasági termékek (hús, tej) számára.",
+        "A közlekedési dugók gyakoriak a kamionforgalom és a gyári műszakváltások miatt.",
+        "Közvetlen közelében található a Companía Cervecera (CCN) hatalmas sörgyára.",
+        "A terület infrastruktúráját az elmúlt évtizedben jelentősen korszerűsítették."
+      ]
+    },
+    {
+      "id": "compania-cervecera-de-nicaragua-economic-v2",
+      "descriptionAdvanced": "A Nicaraguai Sörgyár (Compañía Cervecera de Nicaragua - CCN) Managua keleti ipari övezetében helyezkedik el, és az ország legnagyobb italgyártó konglomerátuma. Az 1926-ban alapított vállalat állítja elő a nicaraguai nemzeti identitás részévé vált Toña és Victoria söröket, valamint ásványvizeket és üdítőket. A gyár modernizált létesítményei hatalmas erjesztőtartályokkal és palackozó sorokkal rendelkeznek. A cég jelentős hangsúlyt fektet a környezetvédelemre, víztisztító telepeket és erdősítési programokat üzemeltet. Földrajz K6 — élelmiszeripar és nemzeti márkák.",
+      "factsAdvanced": [
+        "A gyárat 1926-ban alapította egy nicaraguai és külföldi befektetőkből álló csoport.",
+        "A Toña sör (Cerveza Toña) Közép-Amerika egyik legtöbbet exportált sörmárkája az USA felé.",
+        "A CCN komplexum saját, csúcstechnológiás szennyvíztisztító teleppel (PTAR) rendelkezik.",
+        "Naponta több millió palack és doboz italt képesek előállítani.",
+        "A vállalat a Grupo Pellas, Nicaragua egyik leggazdagabb családjának érdekeltsége.",
+        "A gyár Managua Norte (Északi) főútvonala mentén, a repülőtér közelében fekszik."
+      ]
+    },
+    {
+      "id": "destileria-flor-de-cana-economic-v2",
+      "descriptionAdvanced": "A Flor de Caña Szeszfőzde Chichigalpa városában, a San Antonio cukorgyár komplexumán belül működik. Ez a lepárló a forrása Nicaragua legismertebb nemzetközi termékének, a Flor de Caña rumnak, amelyet több mint 40 országba exportálnak. A rum készítése során a vulkáni klímát és a San Cristóbal vulkán közelségét használják ki az ital érleléséhez, amit tölgyfahordókban végeznek, hozzáadott cukor nélkül ('Slow Aged' eljárás). A lepárló modern turisztikai látogatóközpontot is fenntart, ahol bemutatják a rumkészítés 130 éves történetét. Történelem K7 — agrárexport és nicaraguai rumtörténelem.",
+      "factsAdvanced": [
+        "A szeszfőzdét 1890-ben alapították, és öt generáció óta ugyanannak a családnak a kezében van.",
+        "A Flor de Caña Közép-Amerika legtöbb nemzetközi díjával elismert rumja.",
+        "Több tízezer fehér tölgyfahordóban (korábban bourbon hordókban) érlelik az italt a raktárakban.",
+        "A rum 100%-ban megújuló energiával készül a cukorgyár biomassza-erőművének köszönhetően.",
+        "A gyár 2018-ban 'Fair Trade' és karbonsemleges minősítést is kapott.",
+        "A lepárlás során kristálytiszta vulkáni vizet használnak a hegyekből."
+      ]
+    },
+    {
+      "id": "planta-geotermica-momotombo-economic-v2",
+      "descriptionAdvanced": "A Momotombo geotermikus erőmű a Managua-tó északi partján, a fenséges Momotombo-vulkán lábánál épült fel, La Paz Centro közelében. Ez volt Nicaragua (és Közép-Amerika egyik) legelső geotermikus létesítménye, amely az 1980-as évek elején kezdte meg működését, hogy kihasználja a Föld mélyéből feltörő vulkáni gőzt áramtermelésre. Az erőmű az évről évre változó föld alatti nyomás ellenére a nicaraguai tiszta energia (renovables) stratégiájának úttörő szimbóluma. Kútjai mélyen a vulkáni kőzetekbe fúrva hozzák felszínre a több száz fokos gőzt a turbinák hajtásához. Földrajz K7 — vulkáni energia és geotermia.",
+      "factsAdvanced": [
+        "Az első áramfejlesztő egységét (turbináját) 1983-ban helyezték üzembe.",
+        "Építésében olasz és japán mérnökök, valamint nemzetközi hitelek vettek részt.",
+        "A komplexum teljes kiépített kapacitása eredetileg 70 megawatt felett volt.",
+        "A terület magas szeizmikus aktivitású (gyakoriak a kisebb földrengések).",
+        "Közvetlenül a történelmi León Viejo romjai és a tópart szomszédságában fekszik.",
+        "A kiürült, lehűlt vizet (geotermikus folyadékot) visszasajtolják a föld alá a fenntarthatóság érdekében."
+      ]
+    },
+    {
+      "id": "planta-geotermica-san-jacinto-tizate-economic-v2",
+      "descriptionAdvanced": "A San Jacinto-Tizate geotermikus erőmű Telica város közelében, a Telica-vulkán komplexum geológiailag aktív zónájában működik, León megyében. Ez Nicaragua legmodernebb és legnagyobb geotermikus létesítménye, amelyet a Polaris Energy üzemeltet. Az erőmű hozzájárult ahhoz, hogy Nicaragua jelentősen csökkentse az importált kőolajtól való függőségét az áramtermelésben. A felszín alatt keringő vulkáni vizet és gőzt fejlett kútrendszereken keresztül csapolják meg. Az erőmű közelében lévő természetes iszapvulkánok és gőzölgő kürtők (Los Hervideros) népszerű turisztikai célpontok. Földrajz K8 — megújuló energia és energiaszuverenitás.",
+      "factsAdvanced": [
+        "A Polaris Infrastructure kanadai cég irányítja a projektet a 2000-es évek eleje óta.",
+        "Beépített kapacitása eléri a 72 megawattot, ami az országos fogyasztás közel 10%-át is fedezheti.",
+        "A termelőkutak némelyike eléri a 2000-3000 méteres mélységet is a vulkáni kőzetben.",
+        "Az erőmű jelentős karbonkredit (szén-dioxid-kvóta) bevételekkel rendelkezik a tiszta termelés miatt.",
+        "A San Jacinto 'Hervideros' (bugyogó sárgödrök) mutatja a felszínen a geotermikus potenciált.",
+        "A létesítmény modern, zárt hurkú visszasajtolási technológiát alkalmaz."
+      ]
+    },
+    {
+      "id": "planta-hidroelectrica-centroamerica-economic-v2",
+      "descriptionAdvanced": "A Centroamérica vízerőmű (Planta Hidroeléctrica Centroamérica) Jinotega megyében, az Apanás-tó gátjára építve található. Ez Nicaragua egyik legrégebbi és legjelentősebb vízerőműve, amely 1964-es átadása óta stabil és olcsó energiát biztosít az országnak. Az Apanás-tó, amely az ország első nagy mesterséges tava, a Tuma- és a Jinotega-folyó felduzzasztásával jött létre. A turbinák hajtásán túl a tó mikroklímát teremtett, és fontos halászati, valamint ökológiai (Ramsar-terület) jelentőséggel is bír. Földrajz K7 — vízerőművek és mesterséges tavak.",
+      "factsAdvanced": [
+        "Az erőművet 1964-ben adták át, kezdetben 50 megawattos kapacitással.",
+        "Az Apanás-tó felülete esős évszakban meghaladhatja az 50 négyzetkilométert.",
+        "A vízerőmű a nicaraguai állami ENEL (Empresa Nicaragüense de Electricidad) tulajdonában van.",
+        "A gátrendszer a Karib-tenger felé folyó vizek (Tuma) energiáját hasznosítja.",
+        "Az erőművet a 2010-es években korszerűsítették a hatékonyság növelése érdekében.",
+        "Az Apanás-tó 2001 óta nemzetközi Ramsar vadvédelmi terület."
+      ]
+    },
+    {
+      "id": "planta-hidroelectrica-carlos-fonseca-economic-v2",
+      "descriptionAdvanced": "A Carlos Fonseca vízerőmű (korábbi nevén Santa Bárbara) Matagalpa és Jinotega határán található, és a Centroamérica vízerőmű 'párja'. Ez a létesítmény is az Apanás-tó vízhálózatához, pontosabban az Asturias mesterséges tóhoz kapcsolódik. A hegyvidéki folyók szintkülönbségét kihasználva a víz hosszú alagutakon és nyomócsöveken zuhan alá a turbinákig. Az erőművet a sandinista forradalom egyik alapítójáról, Carlos Fonsecáról nevezték el. Az 1970-es években épült komplexum elengedhetetlen a nicaraguai villamosenergia-rendszer stabilitásához az esős évszakban. Földrajz K7 — folyószabályozás és hegyi vízenergia.",
+      "factsAdvanced": [
+        "Eredetileg Planta Santa Bárbara néven helyezték üzembe az 1970-es évek elején.",
+        "Beépített kapacitása 50 megawatt, két egyforma turbinával működik.",
+        "A víz az Apanás-tóból a kisebb Asturias-tavon keresztül jut el a hegyi nyomócsövekbe.",
+        "A létesítményt a 80-as évek kontraháborúja alatt komoly katonai védelem alatt állt.",
+        "Környezetét sűrű kávéültetvények és hegyvidéki köderdők alkotják.",
+        "Az ENEL (állami vállalat) tartja karban és üzemelteti."
+      ]
+    },
+    {
+      "id": "parque-eolico-amayo-economic-v2",
+      "descriptionAdvanced": "Az Amayo szélerőműpark Rivas megyében, a Nicaragua-tó és a Csendes-óceán partja között elterülő síkságon található. Ez volt Közép-Amerika egyik első és legnagyobb szélfarmja, amely forradalmasította Nicaragua energiaiparát. Az erőműpark hatalmas szélturbinái a híres 'Papagayo-szelek' erejét hasznosítják, amelyek a Karib-tenger felől a sík tavon keresztül zavartalanul, állandó erővel fújnak át az óceán felé. Az Amayo I. és II. fázisai révén Rivas megye Nicaragua zöld energia-fővárosává vált. Földrajz K8 — szélenergia és passzátszelek.",
+      "factsAdvanced": [
+        "A projekt első fázisát (Amayo I) 2009-ben adták át, a másodikat 2010-ben.",
+        "A komplexum teljes beépített kapacitása eléri a 63 megawattot.",
+        "Több mint 30 darab, egyenként közel 100 méter magas Suzlon szélturbinából áll.",
+        "A szél sebessége ezen a szűk földszoroson gyakran eléri a 8-10 m/s-t.",
+        "A turbinák közvetlenül a Panamerikai főútvonal mentén sorakoznak, ikonikus látványt nyújtva.",
+        "Kanadai, amerikai és közép-amerikai magántőke finanszírozta a megépítését."
+      ]
+    },
+    {
+      "id": "parque-eolico-camilo-ortega-economic-v2",
+      "descriptionAdvanced": "A Camilo Ortega szélerőműpark (Eolo de Nicaragua) szintén a Rivas megyei szélenergia-folyosón, az Amayo park szomszédságában épült fel. A modern, masszív szélturbinákkal felszerelt farm tovább növelte az ország szélenergia-kapacitását, kihasználva a Nicaragua-tó felett felgyorsuló természetes légáramlatokat (Papagayo-szelek). A park megépítése megerősítette Nicaragua pozícióját a globális megújulóenergia-térképen, csökkentve a fosszilis tüzelőanyag-importot. Éjszaka a turbinák piros villogó fényei szürreális látványt nyújtanak a Rivas felé utazóknak. Földrajz K7 — tiszta energia fejlesztések.",
+      "factsAdvanced": [
+        "Az Eolo de Nicaragua (Globeleq tulajdon) parkot 2012 végén helyezték üzembe.",
+        "Kapacitása 44 megawatt, 22 darab Gamesa gyártmányú turbinával.",
+        "A nevét Camilo Ortega Saavedra nicaraguai forradalmárról (Daniel Ortega testvére) kapta.",
+        "Az erőmű által termelt energia a becslések szerint a teljes nicaraguai áramszükséglet mintegy 7%-át adja.",
+        "A szélerőművek megépítése szigorú madár- és denevérvédelmi tanulmányokat igényelt.",
+        "A rivasi szélfolyosó a világ egyik legoptimálisabb helyszíne a szélenergia hasznosítására."
+      ]
+    },
+    {
+      "id": "matadero-san-martin-economic-v2",
+      "descriptionAdvanced": "A San Martín vágóhíd (Matadero San Martín) Nandaime város közelében, Granada megyében működik. Ez Nicaragua egyik legnagyobb és legmodernebb húsfeldolgozó és exportáló létesítménye. A cég felvásárolja a Chontalesből és Matagalpából származó szarvasmarhákat, majd szigorú nemzetközi higiéniai szabványok (USDA, HACCP) szerint dolgozza fel azokat. A nicaraguai minőségi marhahús legfőbb piaca az Egyesült Államok, Tajvan és Közép-Amerika. Az ipartelep a környék egyik legfőbb munkaadója, amely nemcsak húst, hanem bőr- és csontliszt melléktermékeket is előállít. Földrajz K7 — húsipar és agrár-export.",
+      "factsAdvanced": [
+        "1975-ben alapították, és a 90-es évek óta az egyik vezető exportőr Nicaraguában.",
+        "Naponta több mint ezer szarvasmarhát képes feldolgozni (vágókapacitás).",
+        "Rendelkezik minden fontos nemzetközi élelmiszerbiztonsági tanúsítvánnyal.",
+        "A vállalat saját biogáz üzemmel rendelkezik, amely a szerves hulladékot energiává alakítja.",
+        "Közvetlenül a Panamerikai útvonal (Carretera Panamericana Sur) mellett található.",
+        "Több ezer helyi állattenyésztő gazda (ganaderos) áll kapcsolatban a gyárral."
+      ]
+    },
+    {
+      "id": "cemex-san-rafael-del-sur-economic-v2",
+      "descriptionAdvanced": "A CEMEX cementgyár San Rafael del Sur-ban a nicaraguai építőipar egyik legfontosabb motorja. A mexikói multinacionális óriásvállalat (CEMEX) által üzemeltetett komplexum kihasználja a régió gazdag, felszínközeli mészkő- és vulkánihamu-készleteit a klinker és a cement gyártásához. A gyár folyamatosan ontja magából az építőanyagot, amely az ország útépítéseinek, hídjainak és urbanizációs projektjeinek alapja. A létesítmény kiterjedt nyílt színi mészkőbányákkal (canteras) rendelkezik, amelyek a környező dombvidéket formálják. Földrajz K8 — építőipar és nyersanyag-kitermelés.",
+      "factsAdvanced": [
+        "A gyárat eredetileg az 1940-es években alapították Canal (Cementos Nacionales) néven.",
+        "A mexikói CEMEX vállalat a 2000-es évek elején vette át és modernizálta a termelést.",
+        "Éves termelési kapacitása meghaladja a 600 000 tonna cementet.",
+        "A gyár kemencéit részben alternatív tüzelőanyagokkal (pl. biomassza) fűtik a szén mellett.",
+        "San Rafael del Sur lakosságának jelentős része a gyárhoz kötődő szektorokban dolgozik.",
+        "A cég beton- és előregyártott elemeket is gyárt az üzemben."
+      ]
+    },
+    {
+      "id": "holcim-nagarote-economic-v2",
+      "descriptionAdvanced": "A Holcim (LafargeHolcim) cementgyár Nagarote közelében, León megyében működik. Míg a CEMEX az ország déli és középső részét látja el, a svájci bázisú Holcim a nyugati és északi régiók építőanyag-ellátásáért felel. A nagarotei üzem modern, környezetbarát technológiákat alkalmaz, jelentősen csökkentve a cementgyártás amúgy magas szén-dioxid-kibocsátását (például vulkáni pozzolán hozzáadásával a cementhez). A gyár közelében található mészkőbányák biztosítják az alapanyagot a folyamatos termeléshez. Földrajz K7 — környezettudatos ipar és építőanyagok.",
+      "factsAdvanced": [
+        "A Holcim Nicaragua az 1990-es évek végén lépett a piacra egy őrlőüzem megépítésével.",
+        "Az üzem fő termékei közé tartozik a vulkáni hamuval (pozzolán) kevert környezetbarát cement.",
+        "Többször nyertek el országos díjakat a munkahelyi biztonságért és a környezetvédelmi programokért.",
+        "Nagarote város gazdaságának fontos pillére a mezőgazdaság mellett.",
+        "A vállalat kiterjedt beton-szállító (mixer) flottát üzemeltet országszerte.",
+        "Az üzem a Managua-tó és a vulkáni hegylánc közötti síkságon helyezkedik el."
+      ]
+    },
+    {
+      "id": "planta-lactea-centrolac-economic-v2",
+      "descriptionAdvanced": "A Centrolac (Lácteos Centroamericanos S.A.) egy ultramodern tejfeldolgozó üzem, amely Tipitapa városában, a Panamerikai út mentén található. A gyár forradalmasította a nicaraguai tejipart azzal, hogy bevezette az UHT (ultramagas hőmérsékleten kezelt), hosszú lejáratú dobozos tejek nagyüzemi gyártását az országban. A Centrolac felvásárolja a Boaco, Chontales és Matagalpa farmjain termelt nyerstejet, és exportképes, csomagolt termékké (tej, csokoládés tej, tejszín) alakítja, amelyet Közép-Amerika szinte minden országába, sőt a Karib-térségbe is szállítanak. Földrajz K6 — tejipar és UHT technológia.",
+      "factsAdvanced": [
+        "Az üzemet 2007-ben adták át, Közép-Amerika egyik legmodernebb tejgyáraként.",
+        "Feldolgozási kapacitása eléri a napi 200 000 liter nyerstejet.",
+        "A Tetra Pak technológiát használják, amely lehetővé teszi a hűtés nélküli tárolást hónapokig.",
+        "Szoros minőségellenőrzési programot működtetnek a beszállító gazdákkal (rutas lecheras).",
+        "Több mint tucatnyi különféle tejterméket gyártanak nemzeti és export piacra.",
+        "A gyár napenergiát is felhasznál működése során."
+      ]
+    },
+    {
+      "id": "planta-lactea-eskimo-economic-v2",
+      "descriptionAdvanced": "Az Eskimo (ma a Grupo Lala része) Nicaragua legikonikusabb és legrégebbi jégkrém- és tejtermékgyártója, amelynek központi üzeme Managuában található. Generációk óta a nicaraguai gyerekek kedvence a "Paleta Eskimo" (Eskimo pálcikás jégkrém). Bár a vállalat egy kis családi vállalkozásként indult az 1940-es években, mára hatalmas ipari komplexummá vált, amely joghurtokat, sajtokat és tejet is előállít. 2014-ben a mexikói tejipari óriás, a Grupo Lala felvásárolta, de a történelmi Eskimo márkanév továbbra is uralja a hazai piacot. Földrajz K6 — élelmiszeripar és nemzeti márkák.",
+      "factsAdvanced": [
+        "A céget 1942-ben alapította Mario Salvo és felesége, egy kézi jégkrémkészítő géppel.",
+        "A mexikói Grupo Lala 2014-ben vásárolta fel a vállalatot a regionális terjeszkedés részeként.",
+        "Az Eskimo az ország egyik legkiterjedtebb hűtött-logisztikai hálózatát működteti (hűtőkocsik és fagyasztóládák).",
+        "Több mint 2000 tejtermelő gazdaságtól vásárolnak fel nyerstejet naponta.",
+        "Termékeiket Salvadorba, Hondurasba és Costa Ricába is exportálják.",
+        "Az üzem Managua forgalmas Montoya kerületének közelében épült ki."
+      ]
+    }
+  ]
+}

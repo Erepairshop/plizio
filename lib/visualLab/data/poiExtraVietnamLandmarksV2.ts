@@ -24,7 +24,16 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["Jelentése 'a leszálló sárkány öble'.", "Körülbelül 1,969 szigetet és szigetecskét foglal magában.", "Népszerű a kajakozás és a dzsunkán való utazás."],
       ro: ["Înseamnă 'Golful Dragonului care coboară'.", "Include aproximativ 1.969 de insule și insulițe.", "Popular pentru caiac-canoe și croaziere cu jonci."],
       en: ["Means 'Descending Dragon Bay'.", "Includes some 1,969 islands and islets.", "Popular for kayaking and junk boat cruises."]
-    }, image: "/poi-images/ha-long-bay-landmarks-v2.webp"},
+    }, image: "/poi-images/ha-long-bay-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ha-Long-Bucht ist eines der ikonischsten Naturwunder Vietnams und beeindruckt mit ihren über 1.900 steil aus dem Golf von Tonkin ragenden Karstfelsformationen. Diese geologische Einzigartigkeit schafft eine surreale Landschaft, die seit 1994 zum UNESCO-Weltnaturerbe zählt. Die Region ist nicht nur ein Hotspot für den Tourismus, sondern auch ein hochkomplexes maritimes Ökosystem, das von der Anpassung der lokalen Bevölkerung an die Bedingungen des Meeres zeugt. Geografie K5 — Naturdenkmäler und Geologie.",
+      ro: "Golful Ha Long este o minune naturală inclusă în patrimoniul UNESCO, celebră pentru miile sale de insule și stânci de calcar care se ridică din apele turcoaz, fiind un simbol incontestabil al frumuseții Vietnamului."
+    },
+    factsAdvanced: {
+      de: ["Mehr als 1.969 Inseln und Kalksteinformationen", "Geologisch vor etwa 20-30 Millionen Jahren entstanden", "UNESCO-Welterbe seit 1994, Erweiterung 2000", "Die Region beherbergt zahlreiche Höhlen und Grotten", "Ein wichtiger Lebensraum für eine reiche marine Biodiversität", "Der Name Ha Long bedeutet 'Bucht des herabsteigenden Drachen'"],
+      ro: ["Include peste 1.600 de insule și insulițe", "Declarat patrimoniu UNESCO în 1994", "Formațiuni geologice vechi de sute de milioane de ani", "Numele înseamnă 'Golful Dragonului Descendent'", "Regiune bogată în peșteri impresionante", "Destinație turistică principală din Vietnam"]
+    }
+  },
   {
     id: "golden-bridge-landmarks-v2",
     type: "landmark",
@@ -47,7 +56,16 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["1400 méterrel a tengerszint felett található.", "Panorámás kilátást nyújt a környező tájra.", "A Sun World Bà Nà Hills üdülőhely része."],
       ro: ["Situat la 1.400 de metri deasupra nivelului mării.", "Oferă vederi panoramice ale peisajului înconjurător.", "Parte a stațiunii Sun World Bà Nà Hills."],
       en: ["Located 1,400 meters above sea level.", "Offers panoramic views of the surrounding landscape.", "Part of the Sun World Bà Nà Hills resort."]
-    }, image: "/poi-images/golden-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/golden-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Goldene Brücke (Cầu Vàng) ist ein architektonisches Highlight auf dem Gipfel des Berges Bà Nà, das sich zu einem modernen Wahrzeichen Vietnams entwickelt hat. Die Fußgängerbrücke erweckt durch ihre markante Konstruktion den Anschein, als würden zwei monumentale, gealtert wirkende Hände aus dem Fels emporragen, um den goldenen Pfad zu stützen. Sie ist ein Meisterwerk der touristischen Architektur, das Kunst, Konstruktion und die spektakuläre Aussicht auf die Bergwelt verbindet. Geografie K6 — moderne touristische Wahrzeichen.",
+      ro: "Podul de Aur (Cau Vang) din Ba Na Hills este o capodoperă modernă de arhitectură, susținută de două mâini uriașe din piatră, oferind o priveliște panoramică uluitoare asupra munților din regiunea Da Nang."
+    },
+    factsAdvanced: {
+      de: ["Eröffnung der Brücke erfolgte im Jahr 2018", "Länge der Brücke beträgt etwa 150 Meter", "Befindet sich auf ca. 1.400 Meter Höhe in den Annamit-Bergen", "Konstruiert aus Glasfaser und Stahl mit einer Stein-Optik", "Wurde weltweit zu einem viralen Symbol für moderne Architektur", "Zentrales Element des Sun World Bà Nà Hills Parks"],
+      ro: ["Inaugurat în 2018", "Lungime de 150 de metri", "Susținut de două mâini gigantice din piatră", "Situat la o altitudine de 1.400 de metri", "Arhitectură modernă integrată în natură", "A devenit un reper turistic global instantaneu"]
+    }
+  },
   {
     id: "hoi-an-ancient-town-landmarks-v2",
     type: "landmark",
@@ -70,6 +88,12 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["Az UNESCO Világörökség része.", "Híres a lampionfesztiváljairól.", "A Japán híd híres nevezetessége."],
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Renumit pentru festivalurile sale cu felinare.", "Podul Japonez este un punct de reper celebru."],
       en: ["UNESCO World Heritage site.", "Known for its lantern festivals.", "The Japanese Bridge is a famous landmark."]
+    },
+    descriptionAdvanced: {
+      ro: "Hoi An este un oraș-port istoric, un sit UNESCO unde arhitectura vietnameză, chineză și japoneză se împletesc perfect, păstrând atmosfera secolelor trecute prin străzile sale pline de felinare colorate."
+    },
+    factsAdvanced: {
+      ro: ["Inclus în patrimoniul UNESCO în 1999", "Port comercial major între secolele XV-XIX", "Celebru pentru felinarele sale tradiționale", "Arhitectură eclectică: stiluri asiatice și coloniale", "Recunoscut pentru croitoriile artizanale", "Oraș pitoresc fără trafic auto în centru"]
     }
   },
   {
@@ -94,7 +118,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["A világ legnagyobb barlangjának, a Sơn Đoòng-barlangnak ad otthont.", "Ázsia legrégebbi karsztképződményeit tartalmazza.", "Változatos növény- és állatvilág."],
       ro: ["Găzduiește peștera Sơn Đoòng, cea mai mare din lume.", "Conține cele mai vechi formațiuni carstice din Asia.", "Floră și faună diversă."],
       en: ["Home to Sơn Đoòng Cave, the world's largest.", "Contains the oldest karst formations in Asia.", "Diverse flora and fauna."]
-    }, image: "/poi-images/phong-nha-ke-bang-park-landmarks-v2.webp"},
+    }, image: "/poi-images/phong-nha-ke-bang-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul Național Phong Nha-Ke Bang adăpostește cele mai vechi formațiuni carstice din Asia și cea mai mare peșteră din lume, Hang Son Doong, fiind o lume subterană de o complexitate extraordinară."
+    },
+    factsAdvanced: {
+      ro: ["Inclus în patrimoniul UNESCO în 2003", "Găzduiește Hang Son Doong, cea mai mare peșteră", "Formațiuni carstice vechi de 400 milioane ani", "Ecosistem subteran divers și unic", "Rețea vastă de râuri subterane", "Paradis pentru speologie și explorare"]
+    }
+  },
   {
     id: "japanese-covered-bridge-landmarks-v2",
     type: "monument",
@@ -117,7 +148,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["Egy kis templom található a hídon belül.", "Összeköti a japán negyedet a kínai negyeddel.", "Hội An szimbóluma."],
       ro: ["Prezintă un mic templu în interiorul podului.", "Leagă cartierul japonez de cel chinezesc.", "Un simbol al orașului Hội An."],
       en: ["Features a small temple inside the bridge.", "Connects the Japanese quarter with the Chinese quarter.", "A symbol of Hoi An."]
-    }, image: "/poi-images/japanese-covered-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/japanese-covered-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Podul Japonez Acoperit din Hoi An este un simbol istoric al orașului, construit în secolul al XVII-lea de comunitatea japoneză pentru a lega cartierul lor de cel chinezesc, fiind un exemplu rafinat de arhitectură est-asiatică."
+    },
+    factsAdvanced: {
+      ro: ["Construit în secolul al XVII-lea", "Simbol emblematic al orașului Hoi An", "Arhitectură de inspirație japoneză", "Găzduiește un mic templu în interior", "A supraviețuit mai multor inundații majore", "Loc vizitat de majoritatea turiștilor"]
+    }
+  },
   {
     id: "thien-mu-pagoda-landmarks-v2",
     type: "monument",
@@ -140,7 +178,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["Vietnám legmagasabb pagodája.", "1601-ben épült.", "Itt található Thích Quảng Đức szerzetes autója, aki 1963-ban felgyújtotta magát."],
       ro: ["Cea mai înaltă pagodă din Vietnam.", "Construită în 1601.", "Găzduiește mașina călugărului Thích Quảng Đức care s-a auto-incendiat în 1963."],
       en: ["The tallest pagoda in Vietnam.", "Built in 1601.", "Houses the car of monk Thích Quảng Đức who self-immolated in 1963."]
-    }, image: "/poi-images/thien-mu-pagoda-landmarks-v2.webp"},
+    }, image: "/poi-images/thien-mu-pagoda-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Pagoda Thien Mu din Hue, cu turnul său octogonal, este cel mai înalt monument religios din oraș și un simbol spiritual profund, legat de istoria budismului în Vietnamul imperial."
+    },
+    factsAdvanced: {
+      ro: ["Construită inițial în 1601", "Turnul octogonal are șapte etaje", "Simbol spiritual al orașului Hue", "Situată pe malul Râului Parfumului", "Legată de istoria Dinastiei Nguyen", "Punct de atracție culturală și religioasă"]
+    }
+  },
   {
     id: "one-pillar-pagoda-landmarks-v2",
     type: "monument",
@@ -163,7 +208,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["Lý Thái Tông császár építtette a 11. században.", "Úgy tervezték, hogy egy lótuszvirágra hasonlítson.", "Vietnám egyik legikonikusabb nevezetessége."],
       ro: ["Construită de împăratul Lý Thái Tông în secolul al XI-lea.", "Proiectată să semene cu o floare de lotus.", "Unul dintre cele mai iconice repere ale Vietnamului."],
       en: ["Built by Emperor Lý Thái Tông in the 11th century.", "Designed to resemble a lotus blossom.", "One of Vietnam's most iconic temples."]
-    }, image: "/poi-images/one-pillar-pagoda-landmarks-v2.webp"},
+    }, image: "/poi-images/one-pillar-pagoda-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Pagoda cu un singur stâlp din Hanoi este o construcție budistă unică, ridicată pe o coloană de piatră în mijlocul unui iaz, fiind un monument istoric și spiritual esențial, simbolizând floarea de lotus."
+    },
+    factsAdvanced: {
+      ro: ["Construită în 1049 de Împăratul Ly Thai Tong", "Arhitectură ce imită o floare de lotus", "Situată în inima orașului Hanoi", "Monument istoric și cultural național", "A suferit reconstrucții de-a lungul timpului", "Simbol al purității în budism"]
+    }
+  },
   {
     id: "fansipan-mountain-landmarks-v2",
     type: "landmark",
@@ -186,7 +238,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["3,143 méter magas.", "A Hoàng Liên Sơn-hegység része.", "Nehéz túrával vagy felvonóval érhető el."],
       ro: ["Altitudine de 3.143 de metri.", "Parte a lanțului montan Hoàng Liên Sơn.", "Accesibil printr-o drumeție dificilă sau cu telecabina."],
       en: ["Height of 3,143 meters (10,312 ft).", "Part of the Hoàng Liên Sơn range.", "Accessible by a challenging trek or a cable car."]
-    }, image: "/poi-images/fansipan-mountain-landmarks-v2.webp"},
+    }, image: "/poi-images/fansipan-mountain-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Muntele Fansipan, cel mai înalt vârf din Indochina, este o destinație provocatoare pentru alpiniști, oferind priveliști spectaculoase asupra munților din nord-vestul Vietnamului."
+    },
+    factsAdvanced: {
+      ro: ["Cel mai înalt vârf din Indochina (3.143 m)", "Supranumit 'Acoperișul Indochinei'", "Situat în provincia Lao Cai", "Accesibil și cu telecabina modernă", "Regiune cu floră montană diversă", "Destinație populară pentru drumeții"]
+    }
+  },
   {
     id: "nui-ba-den-landmarks-v2",
     type: "landmark",
@@ -209,7 +268,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["Délkelet-Vietnám legmagasabb hegye.", "Jelentős zarándokhely.", "Modern felvonórendszerrel rendelkezik."],
       ro: ["Cel mai înalt munte din sud-estul Vietnamului.", "Important loc de pelerinaj.", "Dispune de un sistem modern de telecabină."],
       en: ["Highest mountain in southeastern Vietnam.", "A major pilgrimage site.", "Features a modern cable car system."]
-    }, image: "/poi-images/nui-ba-den-landmarks-v2.webp"},
+    }, image: "/poi-images/nui-ba-den-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Muntele Ba Den din provincia Tay Ninh este cel mai înalt vârf din sudul Vietnamului, un centru de pelerinaj și turism renumit pentru templele sale budiste și priveliștea asupra regiunii Mekong."
+    },
+    factsAdvanced: {
+      ro: ["Cel mai înalt vârf din sudul Vietnamului", "Centru religios și de pelerinaj", "Situat în provincia Tay Ninh", "Găzduiește temple budiste renumite", "Accesibil prin sistem de telecabină", "Vederea panoramică asupra câmpiilor Mekong"]
+    }
+  },
   {
     id: "ban-gioc-detian-falls-landmarks-v2",
     type: "landmark",
@@ -232,7 +298,14 @@ export const poiExtraVietnamLandmarksV2: POI[] = [
       hu: ["A negyedik legnagyobb vízesés egy országhatár mentén.", "Két fő vízesésből és több kisebből áll.", "Lenyűgöző természeti látvány."],
       ro: ["A patra cea mai mare cascadă de-a lungul unei frontiere naționale.", "Compusă din două cascade principale și mai multe cascade secundare.", "Un peisaj natural impresionant."],
       en: ["The fourth largest waterfall along a national border.", "Comprised of two main falls and several smaller ones.", "An impressive natural spectacle."]
-    }, image: "/poi-images/ban-gioc-detian-falls-landmarks-v2.webp"},
+    }, image: "/poi-images/ban-gioc-detian-falls-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Cascada Ban Gioc, situată la granița dintre Vietnam și China, este una dintre cele mai spectaculoase căderi de apă din Asia, fiind un magnet pentru iubitorii de natură și peisaje dramatice."
+    },
+    factsAdvanced: {
+      ro: ["Situată la granița dintre Vietnam și China", "Una dintre cele mai mari cascade de frontieră", "Peisaj natural spectaculos și dramatic", "Formată pe râul Quay Son", "Destinație populară pentru fotografie", "Regiunea este bogată în vegetație"]
+    }
+  },
   {
     id: "perfume-pagoda-landmarks-v2",
     type: "tourist-attraction",

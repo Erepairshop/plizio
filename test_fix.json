@@ -1,0 +1,26 @@
+{
+  "lang": "hu",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bordj-bou-arreridj-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bordj Bou Arreridj az algériai elektronikai ipar fellegvára, egy dinamikusan fejlődő város a keleti Magas-fennsíkokon. A település stratégiai elhelyezkedése Algír és Constantine között tette lehetővé a gyors iparosodást. A városban számos hazai és nemzetközi technológiai cég működik, ami miatt gyakran nevezik 'Algéria Szilícium-völgyének'. Bordj Bou Arreridj környéke termékeny mezőgazdasági terület is, ahol a gabonatermesztés dominál. A város építészete modern és praktikus, tükrözve a gazdasági növekedést. Földrajz K7 — ipari fejlesztés és városi növekedés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost egy 18. századi oszmán erőd (bordj) körül alakították ki.",
+          "Itt gyártják az országos elektronikai termékek jelentős részét.",
+          "A város tengerszint feletti magassága 900 méter.",
+          "Bordj Bou Arreridj híres a korszerű ipari parkjairól.",
+          "A tartományban található a Bibans-hegység, híres szorosával (Iron Gates).",
+          "A város lakossága az utóbbi évtizedekben robbanásszerűen nőtt.",
+          "Híres a kiváló minőségű hús- és tejtermékeiről."
+        ]
+      }
+    }
+  ]
+}

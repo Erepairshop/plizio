@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "angel-island-immigration-station-history-v2",
+      "descriptionAdvanced": "Angel Island Immigration Station, located in San Francisco Bay, served as the primary immigration hub for the West Coast between 1910 and 1940. While often called the 'Ellis Island of the West,' its purpose was profoundly different: it functioned as a site for the rigorous enforcement of exclusionary policies, most notably the Chinese Exclusion Act. Thousands of immigrants, primarily from Asia, were subjected to intensive interrogations and long, often indefinite detentions while attempting to enter the United States. Today, the station serves as a poignant educational site, documenting the history of discriminatory immigration policies and the resilience of those who navigated the facility's complex and often harsh processing hurdles. History K8 — Immigration history and racial exclusionary policy.",
+      "factsAdvanced": [
+        "Served as the West Coast immigration hub between 1910 and 1940.",
+        "Functioned as a site for enforcing harsh exclusionary immigration policies.",
+        "Primary facility for implementing the Chinese Exclusion Act.",
+        "Thousands of Asian immigrants endured intensive interrogation and detention.",
+        "Historically contrasted with the more welcoming image of Ellis Island.",
+        "Now documents the legacy of systemic discrimination in U.S. immigration."
+      ]
+    },
+    {
+      "id": "shiloh-national-military-park-history-v2",
+      "descriptionAdvanced": "Shiloh National Military Park, in Tennessee, preserves the site of the 1862 Battle of Shiloh, one of the earliest and deadliest engagements of the American Civil War. Fought in April 1862, the battle shocked both North and South with its unprecedented scale of violence and casualties, signaling that the war would be a long, brutal, and bloody struggle rather than a quick conflict. The Union victory solidified control of the Tennessee River, opening the path for future campaigns into the Deep South. Today, the battlefield is a meticulously maintained national military park that serves as a memorial to the thousands of soldiers who lost their lives in a battle that fundamentally altered the nation's perspective on the war's true cost. History K8 — Civil War escalation and casualty shock.",
+      "factsAdvanced": [
+        "Site of the 1862 Battle of Shiloh, a key Civil War engagement.",
+        "Battle shocked the nation with its unprecedented scale of casualties.",
+        "Solidified Union control over the strategic Tennessee River.",
+        "Signaled the war would be a long, brutal, and bloody struggle.",
+        "Opened the strategic path for future Union campaigns into the Deep South.",
+        "Preserved as a national military park honoring the thousands of fallen soldiers."
+      ]
+    },
+    {
+      "id": "vicksburg-national-military-park-history-v2",
+      "descriptionAdvanced": "Vicksburg National Military Park in Mississippi preserves the site of the Siege of Vicksburg, a critical turning point in the American Civil War that concluded on July 4, 1863. After a prolonged campaign and months of bombardment, the Confederate surrender gave the Union total control of the Mississippi River, effectively splitting the Confederacy in two and isolating its western states. This victory, coupled with the contemporary success at Gettysburg, shifted the war’s momentum permanently in favor of the North. The park’s vast, preserved landscape and its many monuments serve as a powerful testament to the military strategies of the 19th century and the strategic collapse of the Confederate defense. History K8 — The strategic victory for control of the Mississippi River.",
+      "factsAdvanced": [
+        "Siege concluded on July 4, 1863, providing a pivotal Union victory.",
+        "Gave the Union total control over the strategic Mississippi River.",
+        "Effectively split the Confederacy in two, isolating its western territories.",
+        "Shifted the American Civil War’s momentum permanently toward the North.",
+        "One of the most significant strategic triumphs of the war.",
+        "Vast preserved military landscape serves as a testament to Civil War strategy."
+      ]
+    }
+  ]
+}

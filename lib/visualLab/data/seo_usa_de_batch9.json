@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "white-house-landmarks-v2",
+      "descriptionAdvanced": "Das Weiße Haus (The White House) an der Pennsylvania Avenue in Washington D.C. ist der offizielle Amts- und Wohnsitz des Präsidenten der Vereinigten Staaten. Entworfen vom irisch-amerikanischen Architekten James Hoban in einem palladianischen neoklassizistischen Stil, begann der Bau 1792. George Washington hat das Gebäude nie bewohnt; John Adams war 1800 der erste Präsident, der einzog. Im Krieg von 1812 wurde das Gebäude von britischen Truppen massiv niedergebrannt und anschließend mit seiner ikonischen weißen Farbe gestrichen. Neben den privaten Wohnräumen im Mittelteil (Executive Residence) umfasst der Komplex den berühmten West Wing (mit dem Oval Office und dem Cabinet Room) für die Regierungsarbeit sowie den East Wing für die First Lady. Architektur K8 — Residenzen von Staatsoberhäuptern und der West Wing.",
+      "factsAdvanced": [
+        "Seit dem Jahr 1800 (Präsident John Adams) der offizielle Wohnsitz jedes US-Präsidenten",
+        "Wurde 1814 im Krieg von 1812 von britischen Truppen massiv niedergebrannt",
+        "Der weltberühmte 'West Wing' und das Oval Office wurden erst 1902 massiv angebaut",
+        "Beherbergt 132 Räume, 35 Badezimmer und 28 Kamine auf sechs Ebenen",
+        "Erhielt seinen Namen offiziell erst 1901 durch Präsident Theodore Roosevelt",
+        "Verfügt über einen Bunker, eine Bowlingbahn, ein Kino und einen Tennisplatz im Untergeschoss"
+      ]
+    },
+    {
+      "id": "independence-hall-landmarks-v2",
+      "descriptionAdvanced": "Die Independence Hall in Philadelphia, Pennsylvania, ist die absolute Wiege der Vereinigten Staaten von Amerika. Das schlichte, aus rotem Backstein im georgianischen Stil errichtete Gebäude wurde 1753 ursprünglich als 'Pennsylvania State House' fertiggestellt. Im berühmten Assembly Room trafen sich im späten 18. Jahrhundert die Gründerväter ('Founding Fathers'). Hier debattierten und unterzeichneten sie am 4. Juli 1776 die Unabhängigkeitserklärung (Declaration of Independence), was die Trennung von Großbritannien besiegelte. Elf Jahre später, im extrem heißen Sommer 1787, wurde am exakt selben Ort die Verfassung der Vereinigten Staaten (US Constitution) verfasst. Heute ist die Halle ein UNESCO-Weltkulturerbe und das Herzstück des Independence National Historical Park, umgeben von weiteren historischen Stätten. Geschichte K8 — Die Gründungsdokumente der Vereinigten Staaten.",
+      "factsAdvanced": [
+        "Ursprünglich 1753 als Regierungsgebäude ('State House') von Pennsylvania errichtet",
+        "Ort der Unterzeichnung der US-Unabhängigkeitserklärung am 4. Juli 1776",
+        "Hier wurde 1787 in monatelanger, geheimer Debatte die US-Verfassung entworfen",
+        "Das Gebäude ist auf der Rückseite der amerikanischen 100-Dollar-Note abgebildet",
+        "Der 'Assembly Room' wurde mit historischen Originalmöbeln präzise restauriert",
+        "Die Liberty Bell hing ursprünglich im hölzernen Turm dieses Gebäudes"
+      ]
+    },
+    {
+      "id": "liberty-bell-landmarks-v2",
+      "descriptionAdvanced": "Die Liberty Bell (Freiheitsglocke) in Philadelphia ist eines der erhabensten Symbole für die amerikanische Unabhängigkeit und Freiheit. Ursprünglich 1752 in London gegossen, hing sie im Turm der Independence Hall. Weltweite Berühmtheit erlangte sie nicht durch ihren Klang, sondern durch ihren markanten, massiven Riss. Obwohl die Legende besagt, sie sei am 4. Juli 1776 geläutet worden, machten erst Abolitionisten (Gegner der Sklaverei) im 19. Jahrhundert die Glocke zu einem massiven politischen Symbol für die absolute Freiheit aller Menschen. Die markante Inschrift 'Proclaim LIBERTY Throughout all the Land unto all the Inhabitants Thereof' (Verkündet Freiheit im ganzen Land für alle seine Bewohner) stammt aus der Bibel (Levitikus). Heute hängt die stumme, gerissene Glocke im modernen Liberty Bell Center. Geschichte K7 — Symbole der Unabhängigkeit und des Abolitionismus.",
+      "factsAdvanced": [
+        "Wurde ursprünglich 1752 in der berühmten Whitechapel-Gießerei in London gegossen",
+        "Der berühmte, breite Riss entstand im frühen 19. Jahrhundert und konnte nie repariert werden",
+        "Die Inschrift auf der Glocke stammt aus dem 3. Buch Mose (Levitikus) der Bibel",
+        "Wurde im späten 19. Jahrhundert von Anti-Sklaverei-Gruppen als Symbol massiv popularisiert",
+        "Der letzte dokumentierte Klang ertönte am Geburtstag von George Washington im Jahr 1846",
+        "Wiegt rund 940 Kilogramm (2080 Pfund) und besteht zu über 70 Prozent aus Kupfer"
+      ]
+    },
+    {
+      "id": "st-patricks-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die St. Patrick's Cathedral an der Fifth Avenue in Midtown Manhattan ist die prachtvollste römisch-katholische Kathedrale der Vereinigten Staaten. Entworfen vom Architekten James Renwick Jr. im opulenten Stil der Neugotik (stark inspiriert von Kathedralen in Frankreich und Deutschland), wurde der Bau 1878 nach jahrzehntelanger Verzögerung durch den Bürgerkrieg und finanzielle Engpässe eröffnet. Die massiven, über 100 Meter hohen Zwillingstürme aus weißem Marmor ragten einst weit über New York hinaus, werden heute jedoch völlig von gigantischen modernen Wolkenkratzern umrahmt. Die Kathedrale, direkt gegenüber dem Rockefeller Center gelegen, fasst über 2.000 Menschen und ist berühmt für ihre riesige, 7.855 Pfeifen starke Orgel und die strahlenden Buntglasfenster. Architektur K7 — Neugotik in modernen Megametropolen.",
+      "factsAdvanced": [
+        "Die größte im neugotischen Stil erbaute katholische Kathedrale in ganz Nordamerika",
+        "Erbaut aus massivem, weißen Marmor aus Massachusetts und New York",
+        "Die beiden hoch aufragenden Turmspitzen erreichen eine Höhe von exakt 100,5 Metern",
+        "Der Bau dauerte 21 Jahre (1858-1879), unterbrochen durch den Amerikanischen Bürgerkrieg",
+        "Das gigantische Rosettenfenster (Rose Window) hat einen Durchmesser von 8 Metern",
+        "Bietet Sitzplätze für bis zu 2.400 Gläubige inmitten der geschäftigen Fifth Avenue"
+      ]
+    },
+    {
+      "id": "brooklyn-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Brooklyn Bridge in New York City, die über den East River spannt und Manhattan mit Brooklyn verbindet, ist ein unübertroffenes technisches und architektonisches Wunderwerk des 19. Jahrhunderts. Bei ihrer Eröffnung im Jahr 1883 war sie die längste Hängebrücke der Erde und die erste Brücke, die Stahlseile (erfunden von John A. Roebling) für die Aufhängung verwendete. Die massiven neugotischen Granittürme waren damals mit Abstand die höchsten Gebäude der westlichen Hemisphäre. Der Bau war von massiven Tragödien geprägt: John Roebling starb früh, sein Sohn Washington Roebling erkrankte durch die riskante Caisson-Arbeit schwer, sodass seine Frau Emily Warren Roebling die Bauleitung heroisch übernahm. Heute überqueren täglich über 100.000 Fahrzeuge sowie unzählige Fußgänger und Radfahrer dieses National Historic Landmark. Technik K8 — Stahlseil-Hängebrücken und Pioniere des Brückenbaus.",
+      "factsAdvanced": [
+        "Erbaut von 1869 bis 1883 und war damals die längste Hängebrücke der Welt",
+        "Die allererste Hängebrücke, die verzinkte Stahlseile als Tragwerk nutzte",
+        "Die massiven Granittürme im neugotischen Stil ragen 84 Meter in die Höhe",
+        "Emily Warren Roebling übernahm die Bauleitung, nachdem ihr Ehemann bettlägerig erkrankte",
+        "P.T. Barnum führte 1884 eine Herde von 21 Elefanten über die Brücke, um ihre Stabilität zu beweisen",
+        "Ein massives Fußgänger-Netzwerk verläuft über den Fahrspuren für den Autoverkehr"
+      ]
+    },
+    {
+      "id": "hollywood-bowl-landmarks-v2",
+      "descriptionAdvanced": "Die Hollywood Bowl ist ein weltberühmtes Amphitheater im Freien, das idyllisch in einer natürlichen Senke (dem Bolton Canyon) der Hollywood Hills in Los Angeles liegt. Seit ihrer Eröffnung im Jahr 1922 ist sie die wichtigste Open-Air-Konzerthalle Südkaliforniens. Das absolut markanteste architektonische Merkmal ist die weiße, konzentrische Bogenschale über der Bühne (die 'Bandshell'), deren Design im Laufe der Jahrzehnte mehrfach akustisch optimiert wurde (das berühmteste Design stammte von Frank Lloyd Wright im Jahr 1928, obwohl es danach ersetzt wurde). Mit einer Kapazität von fast 17.500 Zuschauern ist sie die Sommerresidenz des Los Angeles Philharmonic Orchestras. Neben klassischer Musik haben hier auch die Beatles, Frank Sinatra und The Doors legendäre Pop- und Rockkonzerte gegeben. Architektur K7 — Akustik und das Design von Open-Air-Amphitheatern.",
+      "factsAdvanced": [
+        "Eröffnet 1922 als das größte natürliche Amphitheater der Vereinigten Staaten",
+        "Bietet Platz für unglaubliche 17.500 Zuschauer unter dem Himmel Südkaliforniens",
+        "Die weiße, bogenförmige Bühnenschale ('Shell') ist ein weltweit anerkanntes ikonisches Design",
+        "Dient als offizielle Sommerheimat für das renommierte Los Angeles Philharmonic Orchestra",
+        "Die Beatles brachen hier 1964 Kassenrekorde und nahmen ein legendäres Live-Album auf",
+        "Zuschauer bringen traditionell oft extrem aufwendige Picknicks vor den Konzerten mit"
+      ]
+    },
+    {
+      "id": "san-diego-zoo-life-v2",
+      "descriptionAdvanced": "Der San Diego Zoo im Balboa Park in Südkalifornien gilt weltweit als einer der wegweisendsten und einflussreichsten zoologischen Gärten. Gegründet 1916 durch Dr. Harry Wegeforth aus Tierbeständen, die nach der Panama-Kalifornien-Ausstellung zurückgelassen wurden, revolutionierte der Zoo die Tierhaltung. Er war einer der absoluten Vorreiter des Konzepts gitterloser, offener Freigehege, bei denen Tiere durch tiefe Gräben statt durch Eisenstäbe vom Publikum getrennt wurden, um den natürlichen Lebensraum exakter zu imitieren. Heute beherbergt der 40 Hektar große Zoo fast 4.000 Tiere aus 650 Arten und betreibt intensive weltweite Arterhaltungsprogramme (San Diego Zoo Wildlife Alliance), darunter äußerst erfolgreiche Zuchtprogramme für vom Aussterben bedrohte Kondore und einst die symbolträchtigen Großen Pandas. Biologie K7 — Zoologische Freigehege und Arterhaltung.",
+      "factsAdvanced": [
+        "Wurde 1916 gegründet und war ein absoluter Pionier der gitterlosen, offenen Freigehege",
+        "Beherbergt auf über 40 Hektar rund 4.000 Tiere aus mehr als 650 Spezies",
+        "Weltbekannt für extreme Erfolge bei der Zucht von bedrohten Großen Pandas (bis zur Rückgabe an China)",
+        "Besitzt eines der massivsten und erfolgreichsten Arterhaltungsprogramme der Welt",
+        "Der Park ist gleichzeitig ein akkreditierter botanischer Garten mit über 700.000 exotischen Pflanzen",
+        "Ein gigantisches Skyfari-Seilbahnsystem transportiert Besucher über die dichten Baumkronen des Zoos"
+      ]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "descriptionAdvanced": "Der Yellowstone-Nationalpark, der sich massiv über die Grenzen von Wyoming, Montana und Idaho erstreckt, ist das unangefochtene Kronjuwel des amerikanischen Naturschutzes. Im Jahr 1872 von Präsident Ulysses S. Grant gegründet, ist er der historisch allererste Nationalpark der Erde. Yellowstone liegt im gewaltigen Krater (Caldera) eines ruhenden Supervulkans, was die weltweit größte Konzentration von geothermischen Phänomenen erklärt. Hier brodeln mehr als 10.000 heiße Quellen, Schlammtöpfe (wie das farbenprächtige Grand Prismatic Spring) und hunderte Geysire, von denen 'Old Faithful' der berühmteste ist. Zudem ist der Park eines der intaktesten Ökosysteme der gemäßigten Zone auf der Nordhalbkugel, berühmt für seine riesigen frei umherziehenden Bisonherden, Grizzlybären und die 1995 extrem erfolgreich wiederangesiedelten grauen Wölfe. Biologie K8 — Geothermie und komplexe Megaökosysteme.",
+      "factsAdvanced": [
+        "Gegründet am 1. März 1872 als der absolut erste offizielle Nationalpark der Welt",
+        "Liegt direkt in der gewaltigen Caldera (Krater) eines ruhenden Supervulkans",
+        "Beherbergt über 50 Prozent aller existierenden hydrothermalen Geysire auf der Erde",
+        "Der Geysir 'Old Faithful' eruptiert extrem vorhersehbar alle 60 bis 110 Minuten",
+        "Der Park ist Zufluchtsort der ältesten und größten frei lebenden Bisonherde der USA",
+        "Die Wiedereinführung der Grauwölfe 1995 veränderte das Ökosystem massiv zum Positiven"
+      ]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "descriptionAdvanced": "Das Walt Disney World Resort in Orlando, Zentralflorida, ist mit einer unfassbaren Fläche von über 11.000 Hektar (fast die Größe von San Francisco) der unbestritten größte, meistbesuchte und wirtschaftlich dominanteste Freizeitparkkomplex der Welt. Eröffnet 1971 nach Plänen, die noch von Walt Disney selbst stammten (dem 'Florida Project'), umfasst das Gelände heute vier gigantische Haupt-Themenparks: Magic Kingdom (mit dem ikonischen Cinderella-Schloss), EPCOT (fokussiert auf Technologie und globale Kulturen), Disney's Hollywood Studios und Disney's Animal Kingdom. Disney World funktioniert als eine quasi eigenständige Stadt (Reedy Creek Improvement District) mit eigener Infrastruktur, eigener Feuerwehr, massiven Wasserwegen und einem eigenen Transportsystem aus Monorails und Bussen. Die enorme Sogwirkung des Resorts transformierte Zentralflorida radikal in eine globale Tourismusmetropole. Geographie K8 — Megatourismus und autonome Freizeitkomplexe.",
+      "factsAdvanced": [
+        "Eröffnet 1971, ist es heute der flächenmäßig größte Unterhaltungskomplex des Planeten",
+        "Zieht jährlich weit über 50 Millionen Besucher aus der ganzen Welt an",
+        "Besteht aus vier eigenständigen Themenparks, zwei Wasserparks und dutzenden Resorthotels",
+        "Verfügt über weitreichende autonome Regierungsrechte durch einen speziellen staatlichen Bezirk",
+        "Das Cinderella Castle verwendet 'erzwungene Perspektive', um optisch deutlich höher zu wirken",
+        "Mit rund 77.000 Mitarbeitern der größte Arbeitgeber an einem einzigen Standort in den USA"
+      ]
+    },
+    {
+      "id": "everglades-national-park-life-v2",
+      "descriptionAdvanced": "Der Everglades-Nationalpark schützt das untere Drittel des gigantischen, subtropischen Sumpfgebiets in Südflorida. Dieses einzigartige Ökosystem ist kein statischer Sumpf, sondern ein extrem breiter, extrem flacher, langsam fließender Fluss aus Gras ('River of Grass'), der vom Lake Okeechobee in Richtung Ozean kriecht. Gegründet 1947, ist er der absolut größte subtropische Wildnisbereich der USA. Die Everglades sind weltweit der einzige bekannte Ort, an dem Alligatoren (Süßwasser) und Krokodile (Salzwasser) im selben natürlichen Lebensraum koexistieren. Zudem bieten sie Zuflucht für massiv bedrohte Tierarten wie den Florida-Panther und die Rundschwanzseekuh (Manatee). Das Ökosystem ist jedoch durch die Wasserentnahme der landwirtschaftlichen Betriebe und den städtischen Ausbau in Südflorida extrem gefährdet, was zu massiven ökologischen Wiederherstellungsprojekten führt. Biologie K8 — Subtropische Feuchtgebiete und bedrohte Artenvielfalt.",
+      "factsAdvanced": [
+        "Oft beschrieben als ein 160 Kilometer langer, extrem flacher und langsam fließender 'Fluss aus Gras'",
+        "Der absolut einzige Ort der Welt, wo Alligatoren und Krokodile in der Natur direkt nebeneinander leben",
+        "Der Park ist gleichzeitig ein Weltnaturerbe, ein Biosphärenreservat und ein RAMSAR-Feuchtgebiet",
+        "Heimat des massiv vom Aussterben bedrohten Florida-Panthers",
+        "Extrem bedroht durch Wasserumleitungen für die Landwirtschaft (Zuckerrohr) und Städtebau",
+        "Schützt das absolut größte zusammenhängende Mangrovenwald-Ökosystem der westlichen Hemisphäre"
+      ]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "descriptionAdvanced": "Der Central Park Zoo liegt extrem prominent im südöstlichen Bereich des weltberühmten Central Parks in Manhattan, New York City. Er gehört zu den ältesten zoologischen Einrichtungen in den Vereinigten Staaten; seine Ursprünge gehen auf die 1860er Jahre zurück, als New Yorker Bürger begannen, exotische Tiere im Park zu spenden. In den 1980er Jahren wurde der einst stark kritisierte, veraltete Zoo mit seinen engen Käfigen komplett entkernt und von der Wildlife Conservation Society radikal umgestaltet. Heute bietet der relativ kleine (2,6 Hektar große), aber extrem intensive Zoo moderne, naturnahe Habitate, die in drei spezifische Klimazonen unterteilt sind: Tropischer Regenwald, Gemäßigte Zonen und Pinguin-Gehege (Polarregion). Bekanntheit in der modernen Popkultur erlangte der Zoo auch durch den Animationsfilm 'Madagascar'. Biologie K7 — Die Modernisierung städtischer Zoos.",
+      "factsAdvanced": [
+        "Einer der absolut ältesten städtischen Zoos in den Vereinigten Staaten (Ursprünge um 1864)",
+        "Liegt massiv eingebettet im südlichen Teil des weltberühmten Central Parks in Manhattan",
+        "In den 1980ern radikal renoviert, um enge Käfige durch moderne, tierfreundliche Habitate zu ersetzen",
+        "Verfügt über ein künstlich gekühltes Polargehege, das verschiedene Pinguinarten beherbergt",
+        "Die berühmte Delacorte Clock nahe dem Zoo verfügt über tanzende, bronzene Tierfiguren",
+        "Ist flächenmäßig extrem klein, zieht aber jährlich über eine Million Besucher an"
+      ]
+    },
+    {
+      "id": "napa-valley-vineyards-life-v2",
+      "descriptionAdvanced": "Die Weinberge des Napa Valley in Kalifornien bilden das unangefochtene Herzstück der amerikanischen Hochklasse-Weinproduktion. Geografisch erstreckt sich das schmale Tal knapp 50 Kilometer in Nord-Süd-Richtung und wird von extrem fruchtbaren vulkanischen und alluvialen Böden geprägt. Die klimatische Interaktion zwischen dem heißen kalifornischen Festland und dem kühlenden, dichten Nebel, der nachts aus der San Pablo Bay einströmt, schafft ein ideales Mikroklima ('Terroir') für die Reifung von komplexen Rebsorten, insbesondere Cabernet Sauvignon. Die Region ist von enormem landwirtschaftlichen Reichtum, aber auch von massiver Kommerzialisierung geprägt; über 400 hochpreisige Weingüter (Wineries) säumen den Highway 29. Die rigorose Erhaltung des Tals durch den 'Agricultural Preserve Act' (1968) hat die Weinfelder erfolgreich vor der städtischen Zersiedelung aus der nahen Bay Area geschützt. Landwirtschaft K8 — Mikroklima (Terroir) im kommerziellen Weinbau.",
+      "factsAdvanced": [
+        "Napa Valley produziert nur etwa vier Prozent des kalifornischen Weins, besitzt aber den höchsten Marktwert",
+        "Cabernet Sauvignon ist die absolute Leit-Rebsorte und besetzt mehr als die Hälfte der Anbaufläche",
+        "Der 'Agricultural Preserve Act' von 1968 rettete das Tal massiv vor der städtischen Bebauung",
+        "Der morgendliche Nebel aus der Bucht kühlt die Reben extrem ab, was für die Qualität entscheidend ist",
+        "Eine Weinrebe in Napa Valley hat aufgrund des Rufes weltweit mit die höchsten Grundstückspreise",
+        "Die Region erlitt in den letzten Jahren immer wieder massive und katastrophale Waldbrände"
+      ]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "descriptionAdvanced": "Der Denali-Nationalpark im Inneren von Alaska ist eine der massivsten und unberührtesten Wildnisregionen der Welt. Er schützt über 24.000 Quadratkilometer Taiga und subarktische Tundra, überragt vom kolossalen Denali (früher Mount McKinley), dem mit 6.190 Metern höchsten Berg Nordamerikas. Die ungeheure topografische Prominenz des Denali (er erhebt sich fast 5.500 Meter direkt aus der Ebene) ist optisch oft beeindruckender als der Mount Everest. Der Park ist ein Refugium für gigantische arktische Wildtiere, darunter Grizzlybären, Elche, Karibus, Dallschafe und Grauwölfe. Um diese empfindliche Wildnis massiv zu schützen, ist fast der gesamte Park für private Pkw absolut gesperrt; Touristen können die einzige, unbefestigte Straße tief ins Landesinnere nur mit speziellen Pendelbussen befahren. Biologie K8 — Subarktische Tundra und der Schutz von Megafauna.",
+      "factsAdvanced": [
+        "Beherbergt den massiven Denali (6.190 m), den absolut höchsten Berggipfel in Nordamerika",
+        "Der Park umfasst eine riesige Fläche von mehr als sechs Millionen Hektar reiner Wildnis",
+        "Die einzige 148 Kilometer lange Parkstraße ist für private Fahrzeuge extrem stark reglementiert",
+        "Ein gigantisches Schutzgebiet für 'The Big Five' von Alaska: Grizzly, Elch, Karibu, Dallschaf und Wolf",
+        "Der Name 'Denali' stammt aus der indigenen Koyukon-Sprache und bedeutet 'Der Große'",
+        "Der Berg ist berüchtigt dafür, dass er oft tagelang in massive, dichte Wolkensysteme gehüllt ist"
+      ]
+    },
+    {
+      "id": "cedar-point-amusement-park-life-v2",
+      "descriptionAdvanced": "Cedar Point, gelegen auf einer schmalen, sandigen Halbinsel im Eriesee in Ohio, ist einer der ältesten und extremsten Vergnügungsparks der Vereinigten Staaten. Gegründet 1870 als einfaches Sommerbadeparadies, hat sich der Park den weltweiten Ruf als die unbestrittene 'Achterbahn-Hauptstadt der Welt' (The Roller Coaster Capital of the World) erarbeitet. Mit oft über 15 massiven Achterbahnen, darunter bahnbrechende Weltrekordbrecher wie 'Magnum XL-200' (die erste Achterbahn über 60 Meter Höhe), 'Millennium Force' und 'Top Thrill Dragster' (über 120 Meter Höhe), zieht Cedar Point jährlich Millionen von Adrenalin-Junkies an. Die extrem begrenzte Fläche auf der Halbinsel zwingt die Parkarchitekten zu faszinierenden, ineinander verschlungenen Stahlkonstruktionen, was die optische Dichte der Fahrgeschäfte weltweit einzigartig macht. Physik K7 — G-Kräfte, Schwerkraft und Achterbahndesign.",
+      "factsAdvanced": [
+        "1870 eröffnet und damit der zweitälteste noch operierende Vergnügungspark Nordamerikas",
+        "Vermarktet sich selbst aggressiv und erfolgreich als 'Die Achterbahn-Hauptstadt der Welt'",
+        "War massiv Vorreiter beim Brechen von extremen Höhen- und Geschwindigkeitsrekorden bei Achterbahnen",
+        "Liegt eingequetscht auf einer winzigen, 147 Hektar großen Halbinsel im Eriesee",
+        "Die Achterbahn 'Millennium Force' (2000) war der weltweit erste sogenannte Giga-Coaster (über 90 Meter)",
+        "Besitzt eine extreme Dichte an Fahrgeschäften, die oft direkt übereinandergebaut werden müssen"
+      ]
+    },
+    {
+      "id": "california-central-valley-life-v2",
+      "descriptionAdvanced": "Das Central Valley (Zentraltal) in Kalifornien ist ein gigantisches, extrem flaches Tal, das sich über 700 Kilometer parallel zur Pazifikküste erstreckt und eine der ertragreichsten landwirtschaftlichen Regionen des gesamten Planeten ist. Obgleich das Tal nur ein Prozent der landwirtschaftlichen Nutzfläche der USA umfasst, produziert es massiv mehr als ein Viertel aller Lebensmittel des Landes, darunter fast die gesamte US-Ernte von Mandeln, Pistazien, Walnüssen, Tomaten und Trauben. Dieser agrikulturelle Supermotor ist in einem von Natur aus semi-ariden Wüstenklima angesiedelt und hängt absolut und existentiell von extrem komplexen staatlichen Bewässerungssystemen (Kanäle und Staudämme) ab, die Wasser aus Nordkalifornien und der Sierra Nevada umleiten. Diese intensive Nutzung hat in den letzten Jahren durch massive Dürren zu bedrohlicher Grundwassererschöpfung und Bodenabsenkungen geführt. Wirtschaft K8 — Industrielle Massenlandwirtschaft und Wasserknappheit.",
+      "factsAdvanced": [
+        "Produziert massiv über 250 verschiedene Feldfrüchte, mehr als 25 % der gesamten US-Lebensmittel",
+        "Wächst auf fast 100 Prozent der kommerziellen amerikanischen Mandeln, Walnüsse und Pistazien",
+        "Das Tal ist geografisch in das fruchtbarere San Joaquin Valley und das Sacramento Valley geteilt",
+        "Hängt existentiell von einem der größten künstlichen Bewässerungsnetzwerke der Menschheitsgeschichte ab",
+        "Der massive Grundwasserentzug durch Pumpen hat zu teils extremen Bodenabsenkungen geführt",
+        "Liefert fast 40 Prozent aller landwirtschaftlichen Exporteinnahmen des Bundesstaates Kalifornien"
+      ]
+    },
+    {
+      "id": "bronx-zoo-life-v2",
+      "descriptionAdvanced": "Der Bronx Zoo in New York City, durchflossen vom Bronx River, ist mit einer Fläche von 107 Hektar der größte städtische Zoo in den Vereinigten Staaten. 1899 von der Vorläuferorganisation der heutigen Wildlife Conservation Society (WCS) eröffnet, spielte der Zoo historisch eine absolut entscheidende Rolle bei der Erhaltung des Amerikanischen Bisons, dessen Zucht in der Bronx maßgeblich verhinderte, dass die Art im Westen völlig ausstarb. Der Bronx Zoo besticht durch gigantische, immersive Freigehege wie den 'Congo Gorilla Forest', der auf über zweieinhalb Hektar einen afrikanischen Regenwald extrem naturgetreu simuliert, oder 'Wild Asia', das Besucher mit einer Monorail durchleben. Der Zoo ist weniger ein reiner Ausstellungspark als vielmehr das globale Nervenzentrum für wissenschaftliche Naturschutzarbeit und Arterhaltungszucht der USA. Biologie K8 — Arterhaltung (Bisons) und immersive Habitatgestaltung.",
+      "factsAdvanced": [
+        "Mit einer enormen Fläche von 107 Hektar der absolut größte städtische Zoo der Vereinigten Staaten",
+        "Beherbergt über 4.000 Tiere aus rund 650 verschiedenen exotischen und lokalen Arten",
+        "Rettete den Amerikanischen Bison Anfang des 20. Jahrhunderts durch erfolgreiche Zucht massiv vor der Ausrottung",
+        "Das Habitat 'Congo Gorilla Forest' brachte eine der größten Investitionen in künstliche Zoogehege weltweit",
+        "Besucher können das gigantische 'Wild Asia'-Gehege ausschließlich aus einer erhöhten Monorail betrachten",
+        "Hauptquartier der global operierenden Wildlife Conservation Society (WCS)"
+      ]
+    },
+    {
+      "id": "kansas-wheat-fields-life-v2",
+      "descriptionAdvanced": "Die Weizenfelder in Kansas bilden das agrikulturelle Rückgrat der amerikanischen 'Breadbasket' (Brotkorb)-Region. Kansas ist der absolut unangefochtene Spitzenreiter in der Winterweizenproduktion (Hard Red Winter Wheat) der Vereinigten Staaten. Das feucht-kontinentale und oft raue Klima der weiten Great Plains – extrem kalte Winter und heiße, trockene Sommer – ist ideal für diese robuste Weizensorte, die im Herbst gepflanzt wird, im Schnee überwintert und im frühen Sommer geerntet wird. Gigantische, oft vollautomatisierte Mähdrescherflotten durchkämmen in der Erntezeit die endlosen, goldgelben Meere. Diese landwirtschaftliche Gigantomanie hängt jedoch stark von den oft instabilen Niederschlägen und dem enorm wichtigen Ogallala-Aquifer ab, einem gewaltigen unterirdischen Wasserspeicher, der massiv durch künstliche Bewässerung bedroht ist. Wirtschaft K7 — Der Getreidegürtel, Winterweizen und der Ogallala-Aquifer.",
+      "factsAdvanced": [
+        "Kansas produziert massiv mehr Winterweizen als jeder andere US-Bundesstaat (oft über 300 Millionen Scheffel)",
+        "Oft ehrfürchtig als der 'Brotkorb der Welt' (Breadbasket of the World) bezeichnet",
+        "Der 'Hard Red Winter Wheat' ist die dominante Sorte und überlebt extreme Winterfröste",
+        "Die massiven Anbauflächen hängen im Westen extrem stark vom schrumpfenden Ogallala-Aquifer ab",
+        "Die Weizenernte im Frühsommer gleicht oft einer gigantischen militärischen Logistikoperation",
+        "Die Böden erholten sich durch verbesserte landwirtschaftliche Techniken massiv seit der katastrophalen Dust Bowl (1930er)"
+      ]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "descriptionAdvanced": "Der Glacier-Nationalpark im zerklüfteten Nordwesten des Bundesstaates Montana ist eine der atemberaubendsten und unberührtesten Hochgebirgslandschaften Nordamerikas. Er grenzt direkt an Kanada, mit dem er den grenzüberschreitenden 'Waterton-Glacier International Peace Park' bildet. Benannt nach den massiven Gletschern, die während der letzten Eiszeit die tiefen Trogtäler (wie das McDonald Valley) gefräst haben, zieht der Park jährlich Millionen Touristen an. Das absolute infrastrukturelle Wunderwerk ist die 'Going-to-the-Sun Road', eine spektakuläre, teils extrem schmale Passstraße, die direkt über die kontinentale Wasserscheide führt. Tragischerweise ist der Park auch eines der dramatischsten sichtbaren Warnzeichen für den globalen Klimawandel; von den über 150 Gletschern im Jahr 1850 existieren heute nur noch etwa 25, und sie schmelzen extrem rapide weiter ab. Geographie K8 — Gletschererosion und der sichtbare Klimawandel.",
+      "factsAdvanced": [
+        "Trägt den ehrfürchtigen Titel 'Crown of the Continent' (Krone des Kontinents)",
+        "Bildet zusammen mit Kanada den allerersten internationalen Friedenspark der Welt (1932)",
+        "Die majestätische 'Going-to-the-Sun Road' durchquert den Park über den kontinentalen Hauptkamm",
+        "Ein massiv sichtbares Opfer des Klimawandels; die aktive Gletscheranzahl schrumpft extrem rasant",
+        "Ein extrem wichtiges und geschütztes intaktes Ökosystem für frei streifende Grizzlybären",
+        "Beherbergt weit über 130 namentlich erfasste, kristallklare eiszeitliche Bergseen"
+      ]
+    },
+    {
+      "id": "hersheypark-life-v2",
+      "descriptionAdvanced": "Hersheypark in der gleichnamigen Kleinstadt Hershey im Bundesstaat Pennsylvania ist ein einzigartiger amerikanischer Vergnügungspark, der extrem tief in der industriellen Schokoladenproduktion verwurzelt ist. Milton S. Hershey, der Gründer der The Hershey Company, eröffnete den Park 1906 ursprünglich als reines, kostenloses Naherholungsgebiet für die hart arbeitenden Angestellten seiner massiven Schokoladenfabrik. Aus dem kleinen Picknickpark mit Karussell wurde im 20. Jahrhundert ein gigantischer, kommerzieller Themenpark mit über einem Dutzend hochkarätiger Achterbahnen. Die Integration von Schokolade ist allgegenwärtig: Die Straßenlaternen im Ort haben die Form von Hershey's Kisses, und direkt neben dem Park bietet die Attraktion 'Hershey's Chocolate World' massiv interaktive Einblicke in die Süßwarenproduktion. Kultur K7 — Fabrikstädte, Arbeitervorsorge und moderne Themenparks.",
+      "factsAdvanced": [
+        "1906 vom Schokoladenmogul Milton S. Hershey exklusiv als Erholungspark für Fabrikarbeiter gegründet",
+        "Beherbergt heute fast 15 massive Achterbahnen, ist aber der Schokoladenthematik absolut treu geblieben",
+        "Die Fahrgeschäfte und Besuchergrößen sind nach bekannten Hershey-Süßigkeiten benannt (z.B. Twizzlers)",
+        "Die Stadt Hershey selbst ist eine geplante 'Company Town', deren Straßenlaternen wie Pralinen aussehen",
+        "Liegt in unmittelbarer Nachbarschaft zur gigantischen Attraktion 'Hershey's Chocolate World'",
+        "Im Gegensatz zu Disney oder Universal operiert der Park extrem saisonal (Schließung im Winter)"
+      ]
+    },
+    {
+      "id": "idaho-potato-farms-life-v2",
+      "descriptionAdvanced": "Die Kartoffelfarmen in Idaho sind der absolut dominierende Motor der amerikanischen Kartoffelindustrie; Idaho produziert konstant knapp ein Drittel aller in den USA angebauten Kartoffeln (insbesondere die berühmte Sorte Russet Burbank). Das Geheimnis dieses gigantischen landwirtschaftlichen Erfolgs liegt in der Snake River Plain, einer weiten Ebene im Süden des Bundesstaates. Die Kombination aus extrem fruchtbarem vulkanischem Ascheboden, kalten Nächten, sonnigen Tagen und einer massiven künstlichen Bewässerung aus dem Wasser des schmelzenden Schnees der Rocky Mountains bietet absolut ideale klimatische Bedingungen für das Knollengemüse. Ein gewaltiger Prozentsatz der extrem stärkehaltigen Idaho-Kartoffeln wird nicht frisch verkauft, sondern in gigantischen Fabriken direkt vor Ort zu gefrorenen Pommes frites (für Fast-Food-Ketten) oder Kartoffelpüreeflocken industriell weiterverarbeitet. Landwirtschaft K7 — Vulkangestein, Bewässerung und die industrielle Pommes-Produktion.",
+      "factsAdvanced": [
+        "Idaho ist der unangefochtene Spitzenreiter in der US-Kartoffelproduktion (fast ein Drittel der Ernte)",
+        "Die vulkanischen Ascheböden am Snake River bieten ein extrem perfektes Milieu für die Knollen",
+        "Die wichtigste angebaute Sorte ist die 'Russet Burbank', optimal für Pommes frites und Backkartoffeln",
+        "Wetterbedingungen wie heiße Tage und extrem kalte Nächte fördern den hohen Stärkegehalt der Pflanzen",
+        "Ein massiver Teil der Ernte wird sofort industriell für globale Fast-Food-Ketten verarbeitet",
+        "In der Ortschaft Blackfoot existiert sogar ein hochoffizielles 'Idaho Potato Museum'"
+      ]
+    },
+    {
+      "id": "monterey-bay-aquarium-life-v2",
+      "descriptionAdvanced": "Das Monterey Bay Aquarium, spektakulär direkt an der Kante des Pazifischen Ozeans in der ehemaligen Cannery Row (Cannery Row, bekannt durch John Steinbeck) von Monterey in Kalifornien errichtet, gehört zu den besten und wegweisendsten Meeresforschungsaquarien der Welt. 1984 eröffnet, war es das erste Aquarium weltweit, dem es gelang, einen massiven, intakten kalifornischen Kelpwald (Riesentang) in einem fast 10 Meter hohen, gigantischen Wassertank (mit extrem starker künstlicher Wellengenerierung) gedeihen zu lassen. Das Wasser für das Aquarium wird kontinuierlich direkt aus der angrenzenden Bucht gepumpt. Das Aquarium leistet massive Pionierarbeit beim Schutz von Seeottern, ist Vorreiter beim Verbot von Einwegplastik und betreibt das weltbekannte Programm 'Seafood Watch', das Konsumenten und Gastronomie extrem erfolgreich zu nachhaltigem Fischkonsum anleitet. Biologie K8 — Kelpwälder, marine Habitate und nachhaltige Fischerei.",
+      "factsAdvanced": [
+        "Gelegen in einer massiv umgebauten, historischen Sardinenfabrik an der Küste von Monterey",
+        "Das erste Aquarium der Welt, das einen gigantischen lebenden Kelpwald in einem Tank kultivierte",
+        "Das System pumpt unaufhörlich massenhaft frisches Meerwasser direkt aus der Monterey Bay in die Tanks",
+        "Betreibt das extrem einflussreiche Verbraucherprogramm 'Seafood Watch' für nachhaltigen Fischfang",
+        "Eine der wenigen Einrichtungen weltweit, die erfolgreich und oft massiv Weiße Haie und Seeotter rehabilitiert",
+        "War massiv Vorreiter in der extrem schwierigen Ausstellung von Quallen (Jellies)"
+      ]
+    },
+    {
+      "id": "olympic-national-park-life-v2",
+      "descriptionAdvanced": "Der Olympic-Nationalpark, gelegen auf der extrem abgelegenen Olympic-Halbinsel im äußersten Nordwesten des Bundesstaates Washington, ist einzigartig, da er drei fundamental unterschiedliche, massive Ökosysteme in sich vereint. Im Inneren ragen die vergletscherten, alpinen Gipfel der Olympic Mountains massiv in die Höhe. An den stark verregneten Westhängen, die jährlich unfassbare 3.500 bis 4.000 Millimeter Niederschlag abbekommen (oft vom Pazifik kommend), wuchern der Hoh und der Quinault Regenwald – die absolut größten gemäßigten Regenwälder der nördlichen Hemisphäre, charakterisiert durch gigantische Sitka-Fichten und meterhohen Moosbewuchs. Der dritte Bereich ist eine über 100 Kilometer lange, völlig unberührte, raue und extrem wilde Pazifikküste, deren Strände von massiven, gebleichten Treibholzstämmen dominiert werden. Biologie K8 — Gemäßigte Regenwälder und extreme mikroklimatische Zonen.",
+      "factsAdvanced": [
+        "Beherbergt die gigantischsten gemäßigten Regenwälder der Nordhalbkugel (z.B. den Hoh Rain Forest)",
+        "Verzeichnet extrem hohe Niederschlagsmengen von bis zu 4.000 Millimetern pro Jahr auf der Westseite",
+        "Ein Park, der drei massive Ökosysteme vereint: zerklüftete Pazifikküste, Regenwälder und vergletscherte Alpen",
+        "Das fast kreisrunde Gebirgsmassiv im Zentrum (Mount Olympus) fungiert als massive Regenbarriere",
+        "Ist seit langem offiziell sowohl ein Internationales Biosphärenreservat als auch ein UNESCO-Weltnaturerbe",
+        "Die Strände der extrem rauen Pazifikküste sind oft massiv mit riesigem gebleichtem Treibholz blockiert"
+      ]
+    },
+    {
+      "id": "florida-citrus-groves-life-v2",
+      "descriptionAdvanced": "Die Zitrusplantagen (Citrus Groves) in Florida stellen einen massiven und kulturell tief verwurzelten landwirtschaftlichen Industriezweig der USA dar. Das subtropische, feuchtwarme Klima im zentralen und südlichen Teil des Bundesstaates (dem 'Citrus Belt') bietet nahezu perfekte Bedingungen, insbesondere für Orangen (oft für die Saftherstellung) sowie für Grapefruits und Mandarinen. Historisch gesehen war Florida der mit Abstand dominanteste Produzent von Orangensaft für den gesamten US-Markt. In den letzten Jahrzehnten erlebte die extrem florierende Industrie jedoch katastrophale Rückschläge. Massive Kälteeinbrüche in den 1980ern zerstörten Plantagen, die zunehmende Urbanisierung fraß Ackerland, und vor allem die unheilbare, zerstörerische Bakterienkrankheit 'Citrus Greening' dezimierte die Erträge in den 2010er und 2020er Jahren drastisch. Landwirtschaft K8 — Monokulturen, Klimarisiken und bakterielle Pflanzenkrankheiten.",
+      "factsAdvanced": [
+        "Florida produziert historisch massiv Orangen, in der Regel überwiegend für die Orangensaftindustrie",
+        "Die Orangenblüte ist die offizielle Staatsblume und die Orange die offizielle Frucht Floridas",
+        "Die Industrie wird durch die extrem verheerende und unheilbare Bakterienkrankheit 'Citrus Greening' massiv bedroht",
+        "Riesige landwirtschaftliche Flächen in Zentralflorida sind in den letzten Jahrzehnten dem Städtebau (Orlando) gewichen",
+        "Starke Kaltfronten (Frost) im Winter können innerhalb von Stunden eine massive Ernte komplett zerstören",
+        "Geerntet wird oft weiterhin stark von Hand, da Orangen maschinell extrem leicht beschädigt werden"
+      ]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "descriptionAdvanced": "Das Shedd Aquarium, das sich prachtvoll in klassischer griechischer Architektur direkt am Ufer des Lake Michigan in Chicago erhebt, war bei seiner Eröffnung 1930 das größte überdachte Aquarium der Welt. Finanziert von John G. Shedd, einem Präsidenten des Kaufhauses Marshall Field's, setzte die Anlage schon früh massive Maßstäbe. Um exotische Meeresfische mitten im amerikanischen Binnenland zu zeigen, wurde spezielles Meerwasser in gigantischen Kesselwagen direkt per Eisenbahn aus dem Ozean nach Chicago transportiert. Das absolut markanteste Merkmal des originalen Gebäudes ist das kreisrunde 'Caribbean Reef' im Zentrum der Kuppel, wo Taucher manuell Fische füttern. In den 1990er Jahren wurde das gigantische, moderne 'Oceanarium' angefügt, das unter anderem Weißwale (Belugas) und pazifische Delfine in einer Anlage beherbergt, die den Lake Michigan als optischen Horizont nutzt. Biologie K7 — Die Architektur früher Aquarien und marine Mammalia.",
+      "factsAdvanced": [
+        "War bei seiner Eröffnung 1930 das absolut größte überdachte Meeres-Aquarium der gesamten Welt",
+        "Das Gebäude wurde im Beaux-Arts-Stil mit massiven griechischen Säulen direkt am Michigansee erbaut",
+        "Für die Eröffnung wurde Meerwasser in gewaltigen Kesselwagen per Zug extrem aufwendig aus dem Ozean importiert",
+        "Die moderne Erweiterung ('Oceanarium') beherbergt massive Meeresbewohner wie Belugawale",
+        "Das gigantische kreisrunde Riff-Aquarium ('Caribbean Reef') bildet das exakte Zentrum unter der großen Kuppel",
+        "Ist ein elementarer Bestandteil des extrem prestigeträchtigen Museum Campus von Chicago"
+      ]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "descriptionAdvanced": "Der Rocky-Mountain-Nationalpark im Norden des US-Bundesstaates Colorado ist eine der spektakulärsten alpinen Gebirgsregionen der Vereinigten Staaten. Mit über 60 Berggipfeln, die die extreme Höhe von 12.000 Fuß (ca. 3.650 Meter) übersteigen, wird die Landschaft vom gewaltigen Longs Peak (14.259 Fuß) absolut dominiert. Die Lebensräume im Park variieren massiv, von dichten montanen Wäldern bis hin zu extrem rauer, baumloser alpiner Tundra an den höchsten Pässen. Das technische Kronjuwel des Parks ist die 'Trail Ridge Road', die höchste durchgehend asphaltierte Passstraße Nordamerikas, die Fahrzeuge auf über 3.700 Meter bringt und atemberaubende Blicke auf vergletscherte Täler ermöglicht. Der Park beheimatet zudem die eigentlichen Quellen des mächtigen Colorado River und ist berühmt für die massiven Herden von nordamerikanischen Wapitis (Elk), die besonders während der herbstlichen Brunftzeit Besucher anziehen. Geographie K8 — Alpine Tundra und das kontinentale Wasserscheidensystem.",
+      "factsAdvanced": [
+        "Verfügt über die majestätische 'Trail Ridge Road', die extremste durchgehende Bergstraße Nordamerikas (über 3.700 m)",
+        "Beherbergt mehr als 60 massive Berggipfel mit einer Höhe von über 12.000 Fuß (ca. 3.650 Meter)",
+        "Das extrem fragile alpine Tundra-Ökosystem beginnt massiv oberhalb der Baumgrenze (ab ca. 3.500 Metern)",
+        "Ist die offizielle geografische Quelle des massiven und wasserreichen Colorado River",
+        "Eine gigantische Wapiti-Population (Elk) ist eines der absoluten Hauptmotive für Touristen im Herbst",
+        "Die Ost- und Westseite des Parks werden massiv durch die kontinentale Wasserscheide ('Continental Divide') getrennt"
+      ]
+    }
+  ]
+}

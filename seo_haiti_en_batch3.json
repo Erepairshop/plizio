@@ -1,0 +1,75 @@
+{
+  "lang": "en",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "peninsule-du-nord-ouest-relief-v2",
+      "descriptionAdvanced": "The North-West Peninsula is a distinct geographical region extending into the Windward Passage, separating the Atlantic Ocean from the Gulf of Gonâve. Characterized by its semi-arid climate, the peninsula receives significantly less rainfall than the rest of Haiti, resulting in a landscape dominated by xerophytic scrub, cacti, and resilient dry forests. The terrain is a mix of rugged coastal limestone terraces and central hilly uplands. Because of the challenging climate, agriculture is largely restricted to drought-resistant crops like sorghum and peanuts, alongside extensive goat herding. The peninsula's coastal edge, particularly around Môle-Saint-Nicolas, is historically significant as Christopher Columbus's first landing site on Hispaniola in 1492. Despite its isolation and harsh conditions, the region is a crucial center for the production of sea salt, harvested from expansive coastal evaporation flats. Geography K7 — semi-arid coastal zones.",
+      "factsAdvanced": [
+        "A distinct, semi-arid peninsula extending westward into the Windward Passage.",
+        "Receives significantly lower rainfall, supporting xerophytic scrub and dry forest landscapes.",
+        "Characterized by rugged coastal limestone terraces and dry central uplands.",
+        "Agriculture is limited to drought-resistant crops like sorghum and extensive goat herding.",
+        "Features expansive coastal evaporation flats critical for the national production of sea salt.",
+        "Includes Môle-Saint-Nicolas, the historical first landing site of Columbus on Hispaniola."
+      ]
+    },
+    {
+      "id": "foret-des-grands-bois-relief-v2",
+      "descriptionAdvanced": "The Grands Bois Forest, located in the remote mountainous region of the Grand'Anse department near the border with the Sud department, is one of the last remaining fragments of primary tropical moist forest in Haiti. This deeply isolated area is characterized by dense, ancient broadleaf trees, towering tree ferns, and an exceptionally high rate of endemism. It serves as a vital refuge for several critically endangered species, including the Hispaniolan trogon and rare endemic amphibians found nowhere else on the island. The challenging, steep topography and lack of formal roads have historically protected the forest from large-scale logging. However, encroaching slash-and-burn agriculture and small-scale charcoal production present severe, ongoing threats to its integrity. In recent years, international conservation groups have prioritized the Grands Bois for the establishment of a formally protected national park to save its irreplaceable biodiversity. Science K8 — primary tropical forests and endemism.",
+      "factsAdvanced": [
+        "Located in the remote, mountainous interior of the Grand'Anse department.",
+        "Considered one of the last remaining fragments of primary tropical moist forest in Haiti.",
+        "Characterized by ancient broadleaf canopies, tree ferns, and high biological endemism.",
+        "Serves as a critical refuge for endangered species like the Hispaniolan trogon and rare amphibians.",
+        "Historically protected from large-scale logging due to steep, inaccessible topography.",
+        "Currently targeted by international conservationists for designation as a protected national park."
+      ]
+    },
+    {
+      "id": "montagnes-trou-deau-relief-v2",
+      "descriptionAdvanced": "The Trou d'Eau Mountains form a prominent, rugged range extending along the eastern border between the Ouest and Centre departments, heavily characterized by highly porous limestone geology. The name 'Trou d'Eau' (Water Hole) derives from the extensive subterranean hydrological networks—including deep sinkholes, underwater caves, and aquifers—that define the region. While the surface appears dry and rocky due to rapid water percolation, the subterranean system acts as a massive reservoir, feeding major springs in the plains below, such as those that supply the capital's metropolitan area. The surface vegetation consists mainly of degraded scrub and secondary forest, heavily impacted by decades of intense charcoal production. Navigating the mountains is notoriously difficult due to the sharp, jagged karst formations. Protecting the recharge capability of this range is considered a critical national security issue for Haiti's long-term water supply. Geography K8 — karst hydrology and aquifers.",
+      "factsAdvanced": [
+        "A rugged limestone mountain range located between the Ouest and Centre departments.",
+        "Characterized by highly porous karst geology, including deep sinkholes and caves.",
+        "Features extensive subterranean hydrological networks acting as massive natural aquifers.",
+        "Feeds major downstream springs that provide essential water to the Port-au-Prince region.",
+        "Surface vegetation is heavily degraded due to rapid water percolation and charcoal harvesting.",
+        "Protecting its geological recharge zones is critical for the nation's long-term water security."
+      ]
+    },
+    {
+      "id": "plaine-des-cayes-relief-v2",
+      "descriptionAdvanced": "The Les Cayes Plain is a vast, highly productive alluvial lowland situated on the southern coast of the Sud department, bordered by the Caribbean Sea to the south and the Massif de la Hotte to the north. Formed by the deposition of rich sediment from the Ravine du Sud and other mountain rivers, it is one of Haiti's premier agricultural zones. The plain is internationally renowned for cultivating over 50% of the world's vetiver, a deep-rooted grass essential to the global perfume industry. Alongside vetiver, the fertile soils support extensive plantations of sugarcane, corn, and diverse fruit orchards. The low-lying topography makes the plain highly susceptible to seasonal flooding during hurricanes, requiring constant maintenance of intricate drainage canals. The agricultural output of the Plaine des Cayes is the primary economic engine driving the bustling commercial activity in the adjacent port city of Les Cayes. Geography K7 — fertile coastal lowlands.",
+      "factsAdvanced": [
+        "A vast, fertile alluvial plain located on the southern coast of the Sud department.",
+        "Formed by rich sediment deposited by rivers flowing from the Massif de la Hotte.",
+        "Internationally renowned for cultivating over 50% of the global supply of vetiver.",
+        "Supports extensive domestic agriculture including sugarcane, corn, and fruit orchards.",
+        "Highly susceptible to seasonal flooding, requiring the maintenance of intricate drainage canals.",
+        "Acts as the primary agricultural and economic engine for the region's main port city."
+      ]
+    },
+    {
+      "id": "pic-de-bonhomme-relief-v2",
+      "descriptionAdvanced": "Pic de Bonhomme is a distinctive, steep peak located within the rugged Massif du Nord range in the northern region of Haiti. Standing as a prominent geological feature in a landscape characterized by deep valleys and sharp ridges, the peak is primarily composed of ancient metamorphic and volcanic rock. Because of its challenging, near-vertical topography, the upper slopes of Pic de Bonhomme remain largely uncultivated and cover a mix of dense secondary forest and high-altitude scrub. The peak plays a significant role in the local microclimate, capturing moisture from the passing trade winds and contributing to the watershed of several small northern rivers. For the surrounding rural communities, the mountain serves both as a navigational landmark and a natural barrier limiting large-scale agricultural expansion, thereby inadvertently preserving small pockets of native biodiversity. Geography K7 — metamorphic peaks and watersheds.",
+      "factsAdvanced": [
+        "A distinctive, steep peak situated within the rugged Massif du Nord mountain range.",
+        "Primarily composed of ancient metamorphic and volcanic rock formations.",
+        "Upper slopes remain largely uncultivated due to the challenging, near-vertical topography.",
+        "Covered by a mix of dense secondary forest and resilient high-altitude scrub.",
+        "Captures moisture from passing trade winds, contributing to regional northern watersheds.",
+        "Acts as a natural barrier limiting agricultural expansion, preserving native biodiversity."
+      ]
+    }
+  ]
+}

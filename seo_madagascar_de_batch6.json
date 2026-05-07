@@ -1,0 +1,310 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "morondava-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die große Moschee von Morondava ist das auffälligste architektonische Wahrzeichen der Stadt an der Westküste. Mit ihren hohen Minaretten und der leuchtend weißen, oft grün abgesetzten Fassade spiegelt sie den starken historischen Einfluss arabischer und komorischer Einwanderer an diesem Küstenstreifen wider. Während das Landesinnere von Madagaskar mehrheitlich christlich oder animistisch geprägt ist, zeugen Gebäude wie diese Moschee vom jahrhundertelangen maritimen Austausch über den Kanal von Mosambik. Sie ist das spirituelle Zentrum der lokalen muslimischen Gemeinschaft. Architektur K6 — Islamische Einflüsse in Afrika.",
+      "factsAdvanced": [
+        "Wichtigstes islamisches Gotteshaus in Morondava an der Westküste",
+        "Spiegelt den starken historischen Einfluss komorischer Einwanderer wider",
+        "Auffällige Architektur in hellem Weiß mit markanten Minaretten",
+        "Befindet sich im Stadtzentrum nahe dem geschäftigen Marktgebiet",
+        "Zeugnis des jahrhundertelangen Handels über den Kanal von Mosambik",
+        "Dient als zentraler Versammlungsort beim Freitagsgebet (Jumu'ah)"
+      ]
+    },
+    {
+      "id": "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+      "descriptionAdvanced": "Die Cathédrale Saint-Joseph in Fianarantsoa ist eines der prächtigsten religiösen Gebäude im südlichen Hochland. Die massive, auf der Haute Ville (Altstadt) thronende Kathedrale wurde von Jesuitenmissionaren im späten 19. Jahrhundert im neoromanischen Stil aus charakteristisch rotem Backstein errichtet. Ihr massiver Uhrenturm ist das Wahrzeichen der Stadt. Die Kathedrale war ein wesentliches Instrument der Kolonisation und der Bekehrung der Betsileo-Bevölkerung zum Katholizismus. Heute ist sie nicht nur ein spirituelles Zentrum, sondern auch ein beliebtes Fotomotiv. Architektur K7 — Rote Backsteingotik.",
+      "factsAdvanced": [
+        "Prächtige römisch-katholische Kathedrale in der Altstadt von Fianarantsoa",
+        "Erbaut im späten 19. Jahrhundert durch französische Jesuiten",
+        "Architektur ist stark durch lokal gebrannten roten Ziegelstein geprägt",
+        "Der massive, quadratische Uhrenturm ist das Wahrzeichen der Stadt",
+        "Historisches Zentrum der katholischen Missionierung des Betsileo-Volkes",
+        "Bietet eine hervorragende Aussicht über das darunterliegende Tal"
+      ]
+    },
+    {
+      "id": "pont-kamoro-landmarks-v2",
+      "descriptionAdvanced": "Die Kamoro-Brücke an der Nationalstraße 4 (RN4) ist ein herausragendes ingenieurtechnisches Meisterwerk der französischen Kolonialzeit in Madagaskar. Die Hängebrücke wurde 1927 erbaut und überspannt mit einer Länge von 265 Metern den tiefen Kamoro-Fluss auf dem Weg nach Mahajanga im Nordwesten. Bis heute ist sie eine der längsten und wichtigsten Brücken des Landes. Ihre Stahlkonstruktion war revolutionär für das damalige Straßennetz und ist entscheidend für den Warentransport zwischen der Hauptstadt und der Nordwestküste. Technik K6 — Brückenbau und Verkehr.",
+      "factsAdvanced": [
+        "Historische Hängebrücke an der wichtigen Nationalstraße 4 (RN4)",
+        "Erbaut im Jahr 1927 während der französischen Kolonialzeit",
+        "Überspannt den Kamoro-Fluss mit einer Länge von 265 Metern",
+        "Entscheidendes Nadelöhr für den Transport zwischen Hauptstadt und Nordwesten",
+        "Konstruiert aus massivem Stahl mit großen charakteristischen Pylonen",
+        "Wurde kürzlich umfangreich saniert und modernisiert"
+      ]
+    },
+    {
+      "id": "university-of-antananarivo-landmarks-v2",
+      "descriptionAdvanced": "Die Universität Antananarivo, gelegen auf dem Hügel von Ambohitsaina (dem «Hügel der Gelehrten»), ist die älteste und bedeutendste Hochschuleinrichtung Madagaskars. Der weitläufige Campus wurde ab den 1950er Jahren konzipiert und vereint moderne funktionale Architektur mit madagassischen Landschaftselementen. Die Universität beherbergt das wichtigste akademische Wissen des Landes, darunter auch Observatorien und geologische Forschungseinrichtungen. Sie ist ein Zentrum der studentischen Kultur, war jedoch oft auch Schauplatz politischer Unruhen und Proteste. Architektur K7 — Akademische Institutionen.",
+      "factsAdvanced": [
+        "Älteste und renommierteste Universität auf Madagaskar",
+        "Campus liegt auf dem markanten Ambohitsaina-Hügel in der Hauptstadt",
+        "Gegründet in den 1950er Jahren, Architektur zeigt modernistische Einflüsse",
+        "Oft Schauplatz politischer und sozialer Studentenproteste",
+        "Beherbergt wichtige Forschungszentren für Geologie und Botanik",
+        "Zentrum der akademischen Elitenbildung des Landes"
+      ]
+    },
+    {
+      "id": "chateau-d-eau-amparibe-landmarks-v2",
+      "descriptionAdvanced": "Das Wasserturm-Gebäude (Château d'eau) in Amparibe ist ein unverwechselbares Wahrzeichen aus der französischen Kolonialzeit in Antananarivo. Der zylindrische, massive Backsteinturm wurde Anfang des 20. Jahrhunderts errichtet, um die Wasserversorgung der rasch wachsenden Hügelstadt zu sichern. Seine Architektur mit Rundbögen und Ziegelmustern macht ihn zu einem beliebten Fotomotiv im Herzen der Stadt, nahe dem Ministerienviertel. Er ist ein exzellentes Beispiel dafür, wie koloniale Ingenieure rein funktionale Infrastruktur mit ästhetischem Anspruch bauten. Technik K5 — Städtische Wasserversorgung.",
+      "factsAdvanced": [
+        "Historischer Wasserturm im Viertel Amparibe, Antananarivo",
+        "Erbaut im frühen 20. Jahrhundert zur Sicherung der Wasserversorgung",
+        "Charakteristische Architektur aus rotem Backstein mit Rundbögen",
+        "Repräsentiert die Verschmelzung von Ästhetik und städtischer Infrastruktur",
+        "Markantes Wahrzeichen nahe dem Präsidentenpalast und Ministerien",
+        "Ein wichtiges Denkmal der frühen kolonialen Stadtplanung"
+      ]
+    },
+    {
+      "id": "port-of-toamasina-landmarks-v2",
+      "descriptionAdvanced": "Der autonome Hafen von Toamasina ist nicht nur das wirtschaftliche Herz, sondern auch ein massives visuelles Wahrzeichen der Ostküste. Mit seinen riesigen Kränen, endlosen Reihen gestapelter bunter Seecontainer und den massiven Verladeanlagen dominiert er das Stadtbild von Toamasina. Der Hafen ist das Tor Madagaskars zur Welt und wickelt fast den gesamten internationalen Seehandel ab. Die gigantischen, oft von japanischen Firmen gebauten Infrastrukturprojekte zur Hafenerweiterung sind ein Zeugnis der zunehmenden Globalisierung und Anbindung des Inselstaates. Geografie K7 — Globale Logistikzentren.",
+      "factsAdvanced": [
+        "Das visuell und wirtschaftlich dominanteste Wahrzeichen von Toamasina",
+        "Größter Tiefwasserhafen und Containerterminal Madagaskars",
+        "Landschaft wird von massiven Verladekränen und Containerschiffen geprägt",
+        "Wickelt über 80 % des internationalen Seehandels der Insel ab",
+        "Anlage wurde zuletzt massiv durch japanische Investitionen erweitert",
+        "Sichert zehntausende Arbeitsplätze in der Region"
+      ]
+    },
+    {
+      "id": "tour-zital-landmarks-v2",
+      "descriptionAdvanced": "Der Tour Zital in Antananarivo, genauer im geschäftigen Viertel Ankorondrano, ist eines der wenigen echten modernen Hochhäuser der madagassischen Hauptstadt. Das mit blauen Glasscheiben verkleidete Bürogebäude steht im starken Kontrast zu den traditionellen Ziegelhäusern auf den Hügeln der Stadt. Es beherbergt internationale Unternehmen, Banken und diplomatische Vertretungen. Der Turm ist ein Symbol für das moderne, wirtschaftlich aufstrebende Antananarivo und markiert das neue Geschäftsviertel der Stadt, fernab der historischen Altstadt. Architektur K6 — Moderne Geschäftsviertel.",
+      "factsAdvanced": [
+        "Eines der markantesten modernen Hochhäuser in Antananarivo",
+        "Gelegen im neuen, florierenden Geschäftsviertel Ankorondrano",
+        "Architektur zeichnet sich durch eine auffällige blaue Glasfassade aus",
+        "Beherbergt Hauptsitze von Banken, Telecoms und internationalen Firmen",
+        "Symbolisiert den architektonischen Aufbruch in die Moderne",
+        "Steht im starken visuellen Kontrast zur traditionellen Backsteinarchitektur"
+      ]
+    },
+    {
+      "id": "tulear-sea-museum-landmarks-v2",
+      "descriptionAdvanced": "Das kleine, aber faszinierende Meeresmuseum (Musée de la Mer) der Universität von Toliara ist ein kulturelles und wissenschaftliches Wahrzeichen des Südwestens. Es widmet sich der reichen marinen Biodiversität des Kanal von Mosambik. Sein berühmtestes Ausstellungsstück ist ein präparierter Quastenflosser (Quastenflosser/Coelacanth), ein lebendes Fossil, dessen Entdeckung in diesen Gewässern eine wissenschaftliche Sensation war. Das Museum leistet wertvolle Bildungsarbeit, um die Küstenbevölkerung für den Schutz der drittgrößten Korallenriffe der Welt, die direkt vor der Haustür liegen, zu sensibilisieren. Biologie K7 — Marine Fossilien und Korallenriffe.",
+      "factsAdvanced": [
+        "Wichtiges naturhistorisches Museum in der Küstenstadt Toliara",
+        "Wird vom ozeanographischen Institut der Universität Toliara betrieben",
+        "Berühmtestes Exponat ist ein konservierter Quastenflosser (Coelacanth)",
+        "Stellt die extreme Biodiversität des südwestlichen Korallenriffs dar",
+        "Leistet wichtige Aufklärungsarbeit für den lokalen Naturschutz",
+        "Beherbergt auch Sammlungen seltener Muscheln und Korallen"
+      ]
+    },
+    {
+      "id": "ambalonamana-market-hall-landmarks-v2",
+      "descriptionAdvanced": "Die historische Markthalle von Ambalonamana in Fianarantsoa ist ein herausragendes Beispiel für koloniale Marktarchitektur. Die Struktur besteht aus massiven, mit Ziegeln verkleideten Pfeilern und einem kunstvoll geschmiedeten Eisendach. Sie wurde konzipiert, um Händlern und Käufern im oft regnerischen und kühlen Klima des Betsileo-Hochlandes Schutz zu bieten. Noch heute pulsiert hier das Leben: Bauern aus dem Umland verkaufen Reis, frisches Gemüse, Gewürze und handgewebte Textilien. Die Halle ist das soziale und wirtschaftliche Epizentrum der Unterstadt (Nouvelle Ville). Architektur K5 — Öffentliche Marktplätze.",
+      "factsAdvanced": [
+        "Historische, überdachte Markthalle im Zentrum von Fianarantsoa",
+        "Architektur kombiniert rotes Backsteinmauerwerk mit einer Eisen-Dachkonstruktion",
+        "Bietet Schutz vor den häufigen und kalten Regengüssen im Hochland",
+        "Zentraler Handelsplatz für Reis, Gemüse und lokales Handwerk",
+        "Trennt historisch die Unterstadt (Nouvelle Ville) von der Altstadt",
+        "Lebendiger Treffpunkt der Betsileo-Bevölkerung aus dem Umland"
+      ]
+    },
+    {
+      "id": "nosy-be-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Nosy Be (oft Phare de Hell-Ville oder Cap Miné genannt, je nach Position auf der Insel) ist ein unverzichtbares Navigationszeichen im Norden Madagaskars. Die Küstengewässer um die Insel sind tückisch und von Riffen durchzogen. Der während der Kolonialzeit errichtete Leuchtturm sicherte den lukrativen Export von Ylang-Ylang und Zucker. Heute ist das Bauwerk nicht nur nautisch wichtig, sondern auch ein beliebtes Ausflugsziel, von dem aus man bei Sonnenuntergang spektakuläre Blicke auf die kleinen Nachbarinseln (wie Nosy Komba) werfen kann. Technik K6 — Leuchttürme und Riffe.",
+      "factsAdvanced": [
+        "Historisches Navigationsbauwerk auf der Touristeninsel Nosy Be",
+        "Sicherte den gefährlichen Seeweg durch die lokalen Korallenriffe",
+        "Erbaut während der florierenden französischen Kolonialzeit",
+        "War essenziell für die Ausfuhr von Ylang-Ylang-Essenzen und Zucker",
+        "Heute ein beliebtes Fotomotiv und Aussichtspunkt für Touristen",
+        "Struktur ist klassisch weiß gestrichen und dominiert die Steilküste"
+      ]
+    },
+    {
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen des Fort Flacourt in Tôlanaro (Fort-Dauphin) sind die verwitterten steinernen Überreste einer der ersten europäischen Militäranlagen auf Madagaskar. Das im 17. Jahrhundert von der französischen Ostindien-Kompanie erbaute Fort sollte die Siedlung vor Angriffen der Antanosy und vor rivalisierenden europäischen Flotten schützen. Heute ragen die bemoosten Steinmauern, durchbrochen von rostigen Kanonen, aus dem Gras der Küstenklippe. Es ist ein melancholisches Wahrzeichen, das von den blutigen, oft gescheiterten frühen Kolonisationsversuchen Europas am Ende der Welt zeugt. Architektur K6 — Festungsbau im 17. Jahrhundert.",
+      "factsAdvanced": [
+        "Ruinen einer französischen Militärfestung aus dem 17. Jahrhundert",
+        "Gelegen auf einer strategischen Klippe in Tôlanaro (Fort-Dauphin)",
+        "Erbaut von der französischen Ostindien-Kompanie zur Verteidigung",
+        "Historische, verrostete Kanonen sind noch auf die Bucht gerichtet",
+        "Zeuge der blutigen Auseinandersetzungen mit der Antanosy-Bevölkerung",
+        "Gehört zu den ältesten kolonialen Baustrukturen auf Madagaskar"
+      ]
+    },
+    {
+      "id": "palais-justice-amboasary-landmarks-v2",
+      "descriptionAdvanced": "Der Justizpalast in Amboasary (oft auch auf andere regionale Zentren bezogen) ist typisch für die administrative Architektur Madagaskars in den späten Kolonial- und frühen Unabhängigkeitsjahren. Mit seinen strengen, symmetrischen Linien, kleinen vergitterten Fenstern und oft ockerfarbenem oder verblichen weißem Anstrich strahlt das Gebäude staatliche Autorität in einer oft sehr ländlichen, traditionell von Stammesstrukturen dominierten Region aus. Diese Gebäude sind zentrale Punkte des öffentlichen Lebens, wo staatliche Rechtsprechung auf lokales Gewohnheitsrecht (Dina) trifft. Architektur K6 — Verwaltungsgebäude.",
+      "factsAdvanced": [
+        "Typisches staatliches Verwaltungsgebäude im Süden Madagaskars",
+        "Architektur ist streng, symmetrisch und meist sehr funktional gehalten",
+        "Symbolisiert die Präsenz staatlicher Justiz in abgelegenen Gebieten",
+        "Oft Ort des Aufeinandertreffens von Staatsrecht und lokalem Dina-Recht",
+        "Baukörper ist an das heiße, trockene Klima der Androy/Anosy-Region angepasst",
+        "Gebäude wirkt oft kontrastreich zur umliegenden ländlichen Architektur"
+      ]
+    },
+    {
+      "id": "monument-aux-morts-diego-suarez-landmarks-v2",
+      "descriptionAdvanced": "Das Monument aux Morts (Gefallenendenkmal) auf der Place Joffre im Zentrum von Antsiranana (Diego Suarez) ist ein ergreifendes Zeugnis der militärischen Vergangenheit der Stadt. Es wurde zum Gedenken an die französischen und madagassischen Soldaten errichtet, die im Ersten Weltkrieg, aber auch bei lokalen Schlachten (wie 1942 gegen die Briten), ihr Leben ließen. Das massive Steindenkmal, gekrönt von einer patinierten Bronzefigur, steht auf einem Platz, der den Blick auf die gigantische Bucht von Diego Suarez freigibt und stark an ein südfranzösisches Hafenstadt-Idyll erinnert. Kunst K6 — Gedenkkultur.",
+      "factsAdvanced": [
+        "Militärisches Gefallenendenkmal im Zentrum von Antsiranana",
+        "Gelegen auf der berühmten Place Joffre mit Blick auf den Ozean",
+        "Errichtet zur Erinnerung an die Gefallenen beider Weltkriege",
+        "Dominante Steinstruktur mit charakteristischen Bronzeelementen",
+        "Erinnert auch an die britische Invasion (Operation Ironclad) von 1942",
+        "Beliebter abendlicher Treffpunkt für Einheimische und Touristen"
+      ]
+    },
+    {
+      "id": "gare-antsirabe-landmarks-v2",
+      "descriptionAdvanced": "Der Bahnhof von Antsirabe markiert das südliche Ende der historischen Eisenbahnstrecke (TA - Tananarive-Antsirabe). Das 1923 eröffnete Gebäude ist ein Paradebeispiel französischer Kolonialarchitektur mit seinem markanten, von roten Ziegeln eingefassten Haupteingang und einem großen Vordach für Passagiere. Obwohl der reguläre Personenverkehr in den letzten Jahrzehnten fast vollständig zum Erliegen kam, bleibt das Gebäude ein majestätisches Wahrzeichen der Stadt. Es dient oft als Kulisse für Fotos und ist ein Symbol für die Blütezeit der madagassischen Eisenbahn, die die Plantagenwirtschaft förderte. Architektur K6 — Bahnhofsarchitektur.",
+      "factsAdvanced": [
+        "Historischer Kopfbahnhof am südlichen Ende der TA-Eisenbahnlinie",
+        "Erbaut im Jahr 1923 im prunkvollen französischen Kolonialstil",
+        "Architektur nutzt intensiv lokale Materialien wie roten Backstein",
+        "Personenzugverkehr (z.B. der berühmte Michelin-Triebwagen) ist meist eingestellt",
+        "Gilt als eines der schönsten architektonischen Wahrzeichen in Antsirabe",
+        "Platz vor dem Bahnhof ist das Zentrum der lokalen Rikschas (Pousse-Pousse)"
+      ]
+    },
+    {
+      "id": "trano-gasy-architecture-landmarks-v2",
+      "descriptionAdvanced": "Das traditionelle «Trano Gasy» (madagassisches Haus) prägt als kollektives Wahrzeichen das gesamte zentrale Hochland. Diese Architekturform wurde im 19. Jahrhundert auf Betreiben der Königin Ranavalona II. entwickelt und populär gemacht. Die Häuser sind schmal, mehrstöckig und bestehen aus roten, luftgetrockneten Ziegeln, gestützt von Holzsäulen, oft mit umlaufenden, verzierten Balkonen und steilen Ziegeldächern. Sie sind strikt nach astrologischen Prinzipien (Vintana) ausgerichtet, wobei die Nordost-Ecke (die heiligste Ecke) dem Ahnenkult vorbehalten ist. Architektur K7 — Volksarchitektur und Astrologie.",
+      "factsAdvanced": [
+        "Kollektiver architektonischer Stil, der das Hochland dominiert",
+        "Gefördert im späten 19. Jahrhundert unter Königin Ranavalona II.",
+        "Charakteristisch sind mehrstöckige Bauweisen aus rotem Backstein",
+        "Oft ausgestattet mit kunstvoll geschnitzten, überdachten Holzbalkonen",
+        "Ausrichtung der Räume folgt strikten madagassischen Astrologie-Regeln (Vintana)",
+        "Der heiligste Teil des Hauses liegt immer in der Nordost-Ecke"
+      ]
+    },
+    {
+      "id": "ambatovy-plant-landmarks-v2",
+      "descriptionAdvanced": "Die Verarbeitungsanlage von Ambatovy südlich von Toamasina ist kein klassisches historisches Denkmal, sondern ein gigantisches modernes industrielles Wahrzeichen. Mit ihren gewaltigen Schornsteinen, die Tag und Nacht dampfen, endlosen Röhrensystemen und Lagertanks ist sie eine der komplexesten hydrometallurgischen Anlagen der Welt. Die Fabrik verarbeitet den aus dem Hochland per Pipeline herangepumpten Nickelschlamm in hochreine Nickel- und Kobalt-Briketts. Bei Nacht ist die hell erleuchtete Anlage von der RN2 aus ein surreales Bild, das die Industrialisierung Madagaskars symbolisiert. Technik K8 — Hydrometallurgie und Schwerindustrie.",
+      "factsAdvanced": [
+        "Gewaltige hydrometallurgische Aufbereitungsanlage nahe Toamasina",
+        "Verarbeitet den 350 km weit herangepumpten Nickelschlamm",
+        "Eines der komplexesten industriellen Bauwerke des afrikanischen Kontinents",
+        "Anlage dominiert die Küstenlandschaft mit großen Schornsteinen",
+        "Symbolisiert die massive ausländische Investition in den madagassischen Bergbau",
+        "Nachts hell erleuchtet, bildet sie einen starken Kontrast zur Umgebung"
+      ]
+    },
+    {
+      "id": "pont-betsiboka-landmarks-v2",
+      "descriptionAdvanced": "Die Brücke über den Fluss Betsiboka an der Nationalstraße RN4 ist ein markantes Bauwerk im Nordwesten. Sie überspannt den Fluss, der wegen extremer Bodenerosion (Lavaka) oft blutrot von weggespültem Laterit gefärbt ist. Die originale Stahlhängebrücke, ein Zwilling der Kamoro-Brücke aus der Kolonialzeit, wurde während politischer Unruhen (wie im Jahr 2002) oft strategisch zerstört oder beschädigt, um Truppenbewegungen zu stoppen. Heute ist die rehabilitierte Brücke ein lebenswichtiger Engpass für die Versorgung der Hauptstadt mit Treibstoff und Nahrungsmitteln aus Mahajanga. Technik K6 — Zerstörung und Wiederaufbau.",
+      "factsAdvanced": [
+        "Wichtige Hängebrücke an der Nationalstraße 4 (RN4) Richtung Mahajanga",
+        "Überspannt den meist durch Laterit rot gefärbten Fluss Betsiboka",
+        "Zwillingsbrücke der nahegelegenen historischen Kamoro-Brücke",
+        "Wurde in politischen Krisen (z.B. 2002) strategisch schwer beschädigt",
+        "Entscheidender Knotenpunkt für den Frachtverkehr im Nordwesten",
+        "Bietet dramatische Ausblicke auf die massive Erosionstrichter der Landschaft"
+      ]
+    },
+    {
+      "id": "hotel-de-ville-mahajanga-landmarks-v2",
+      "descriptionAdvanced": "Das Hôtel de Ville (Rathaus) von Mahajanga ist ein charmantes Kolonialgebäude, das direkt an der palmengesäumten Promenade am Meer (Bord de Mer) liegt. Mit seinen makellos weißen Wänden, geschwungenen Arkaden und roten Ziegeldächern spiegelt es den eleganten Verwaltungsstil der Franzosen in den Tropen wider. Vor dem Rathaus erstreckt sich ein großer Vorplatz, auf dem jeden Abend hunderte von Garküchen aufgebaut werden und das berühmte madagassische Street-Food (Mofo, Brochettes) verkauft wird, was das Gebäude zum abendlichen Zentrum der Stadt macht. Architektur K5 — Rathäuser und öffentliche Plätze.",
+      "factsAdvanced": [
+        "Markantes koloniales Rathaus an der Uferpromenade von Mahajanga",
+        "Architektur in strahlendem Weiß mit großen, schattenspendenden Arkaden",
+        "Repräsentiert die Eleganz der französischen Tropen-Architektur",
+        "Platz davor verwandelt sich abends in einen riesigen Street-Food-Markt",
+        "Beliebter Treffpunkt und Flaniermeile («Le Bord») für Einheimische",
+        "Liegt in unmittelbarer Nähe zum historischen Riesen-Baobab der Stadt"
+      ]
+    },
+    {
+      "id": "temple-ambatonakanga-landmarks-v2",
+      "descriptionAdvanced": "Der FJKM-Tempel Ambatonakanga in Antananarivo ist ein historisch hochbedeutendes Wahrzeichen. Er wurde 1864 als erste Steinkirche auf Madagaskar errichtet. Finanziert und entworfen wurde das massive Steingebäude von der London Missionary Society (LMS). Die Kirche steht an dem Ort, an dem in den Jahrzehnten zuvor unter der anti-christlichen Königin Ranavalona I. viele madagassische Christen gefangen gehalten oder hingerichtet worden waren. Das Gebäude symbolisiert somit den Triumph und die Rückkehr des Protestantismus in das Herz des Merina-Königreichs. Architektur K7 — Protestantische Steinkirchen.",
+      "factsAdvanced": [
+        "Die allererste aus Naturstein erbaute Kirche auf Madagaskar (1864)",
+        "Entworfen und errichtet durch die britische London Missionary Society (LMS)",
+        "Erbaut als «Märtyrerkirche» an einem historischen Gefängnisstandort",
+        "Solide, wuchtige Steinarchitektur dominierte das frühe Antananarivo",
+        "Markiert die offizielle Rückkehr des Christentums nach den Verfolgungen",
+        "Gehört heute zur FJKM, der größten protestantischen Kirche des Landes"
+      ]
+    },
+    {
+      "id": "tour-orange-antananarivo-landmarks-v2",
+      "descriptionAdvanced": "Der Orange-Turm (Tour Orange), oft auch Teil des modernen Ankorondrano-Komplexes, ist ein markantes neues Wahrzeichen in der Skyline von Antananarivo. Als Sitz eines der größten Telekommunikationsunternehmen des Landes ist das Gebäude ein Symbol für den digitalen Fortschritt und die Vernetzung der Insel im 21. Jahrhundert. Das hohe, moderne Bürogebäude hebt sich drastisch von den kleinen Boutiquen und informellen Werkstätten ab, die es in den unteren Straßen umgeben. Nachts oft beleuchtet, dient es als Orientierungspunkt im Verkehrschaos der unteren Stadtviertel. Technik K5 — Telekommunikation und Skyline.",
+      "factsAdvanced": [
+        "Modernes Hochhaus im Geschäftsviertel Ankorondrano (Antananarivo)",
+        "Sitz des bedeutenden internationalen Telekommunikationsanbieters Orange",
+        "Symbolisiert den Eintritt Madagaskars in das digitale Zeitalter",
+        "Architektonischer Kontrast zu den umliegenden traditionellen Vierteln",
+        "Wichtiger optischer Orientierungspunkt im tief gelegenen Stadtzentrum",
+        "Sinnbild für den wachsenden Dienstleistungssektor in der Hauptstadt"
+      ]
+    },
+    {
+      "id": "independance-avenue-arc-landmarks-v2",
+      "descriptionAdvanced": "Die Avenue de l'Indépendance im Zentrum von Antananarivo ist die breiteste und repräsentativste Prachtstraße Madagaskars. Sie wird flankiert von Kolonialbauten mit markanten Arkaden (Les Arcades), in denen Geschäfte, Cafés und Banken untergebracht sind. Diese Arkaden boten Fußgängern Schutz vor Sonne und Monsunregen. Historisch war die Avenue der Schauplatz für den riesigen Zoma-Markt. Heute ist die Straße ein Knotenpunkt des Verkehrs, der Politik und des Handels und endet optisch imposant am Bahnhof Soarano. Architektur K6 — Städtische Prachtstraßen.",
+      "factsAdvanced": [
+        "Breiteste und wichtigste Prachtstraße der Hauptstadt Antananarivo",
+        "Gesäumt von historischen Gebäuden mit charakteristischen überdachten Arkaden",
+        "Arkaden bieten Fußgängern Schutz vor extremem Sonnenlicht und Regen",
+        "War früher der Standort des weltberühmten Freitagsmarktes (Zoma)",
+        "Führt direkt auf das Gebäude des historischen Bahnhofs Soarano zu",
+        "Beliebter Treffpunkt und Handelszentrum im Stadtteil Analakely"
+      ]
+    },
+    {
+      "id": "katedraly-faravohitra-landmarks-v2",
+      "descriptionAdvanced": "Die Katedraly Ambohitantely in Faravohitra ist ein majestätisches Wahrzeichen aus rotem Backstein in Antananarivo. Das Viertel Faravohitra war traditionell die Wohngegend aristokratischer Familien, und die Kirche thront erhaben über dem nördlichen Teil der Hauptstadt. Wie Ambatonakanga ist sie eine der berühmten britischen Gedenkkirchen der LMS, die an die Märtyrer erinnert, die unter Ranavalona I. auf dem Scheiterhaufen verbrannt wurden. Ihr massiver, quadratischer Backsteinturm prägt die Skyline der Stadt fast so stark wie die Paläste des Rova. Architektur K7 — Märtyrerkirchen und Backstein.",
+      "factsAdvanced": [
+        "Historische protestantische Gedenkkirche (Märtyrerkirche) der LMS",
+        "Erbaut in den 1870er Jahren an einem Hinrichtungsort von Christen",
+        "Massive, weithin sichtbare Backsteinarchitektur mit großem Turm",
+        "Gelegen im aristokratischen Hügel-Viertel Faravohitra in Antananarivo",
+        "Spiegelt den enormen Einfluss britischer Missionare im 19. Jh. wider",
+        "Beliebter Aussichtspunkt auf den westlichen Teil der Stadt und den Anosy-See"
+      ]
+    },
+    {
+      "id": "pirate-cemetery-sainte-marie-landmarks-v2",
+      "descriptionAdvanced": "Der Piratenfriedhof von Sainte-Marie (Île aux Forbans) ist eines der romantischsten und zugleich geheimnisvollsten Wahrzeichen der Welt. Überwuchert von feuchtem Tropenwald und alten Mangroven, liegen hier die Überreste jener Seeräuber, die die Insel im 17. und 18. Jahrhundert zu ihrer Basis machten. Die verwitterten Grabsteine, manche verziert mit Piratensymbolen wie dem Totenkopf mit gekreuzten Knochen, ziehen jährlich Tausende Touristen an. Der Ort muss bei Flut über kleine Boote erreicht werden, was die geheimnisvolle, wilde Atmosphäre dieses letzten Ruheplatzes für Outlaws nur noch verstärkt. Kunst K6 — Grabsteine und Legenden.",
+      "factsAdvanced": [
+        "Weltberühmter historischer Piratenfriedhof aus dem 17./18. Jahrhundert",
+        "Versteckt in dichtem Dschungel an der Bucht von Ambodifotatra",
+        "Einige der ca. 30 Grabsteine tragen das bekannte Totenkopfsymbol",
+        "Ruhestätte zahlreicher berüchtigter Freibeuter des Indischen Ozeans",
+        "Zugang ist oft nur per Boot bei Flut oder über schlammige Pfade möglich",
+        "Zählt zu den wichtigsten touristischen Wahrzeichen der Insel Sainte-Marie"
+      ]
+    },
+    {
+      "id": "andasibe-mantadia-life-v2",
+      "descriptionAdvanced": "Der Andasibe-Mantadia-Nationalpark ist das zugänglichste und berühmteste Regenwaldreservat Madagaskars, nur wenige Autostunden von Antananarivo entfernt. Er ist die Heimat des Indri, des größten heute noch lebenden Lemuren, dessen ohrenbetäubende, walartige Gesänge den dichten Nebelwald am frühen Morgen erfüllen. Neben dem Indri beherbergt das Gebiet zahllose weitere Lemurenarten, farbenprächtige Chamäleons (wie das Parson-Chamäleon) und seltene Orchideen. Der Park ist ein unerlässliches Zentrum für den madagassischen Ökotourismus und finanziert viele lokale Gemeindeprojekte in der Region. Biologie K6 — Regenwaldökosysteme und Indris.",
+      "factsAdvanced": [
+        "Der meistbesuchte Regenwald-Nationalpark Madagaskars",
+        "Hauptlebensraum des größten Lemuren der Welt, dem Indri",
+        "Indris sind bekannt für ihre extrem lauten, heulenden Gesänge",
+        "Park beherbergt Dutzende seltener Chamäleon- und Froscharten",
+        "Nur etwa 3 bis 4 Autostunden (über RN2) von der Hauptstadt entfernt",
+        "Gefährdet durch illegale Abholzung (Tavy) an den Parkgrenzen"
+      ]
+    },
+    {
+      "id": "berenty-reservat-life-v2",
+      "descriptionAdvanced": "Das Berenty-Reservat ist ein privates Schutzgebiet im extremen Süden Madagaskars, das in den 1930er Jahren von einer französischen Familie um ihre Sisal-Plantagen herum gegründet wurde. Das kleine, aber berühmte Waldstück liegt am Fluss Mandrare und bewahrt einen Teil des bedrohten Galeriewaldes sowie des trockenen Dornenwaldes. Es ist weltberühmt für seine riesigen, sehr zutraulichen Populationen von Kattas (Ringelschwanzlemuren) und Larvensifakas, die oft tanzend über den Boden hüpfen. Es ist das Zentrum unzähliger Dokumentarfilme und langjähriger primatologischer Forschungen. Biologie K7 — Trockenwälder und Primatenforschung.",
+      "factsAdvanced": [
+        "Berühmtes privates Naturreservat im Süden nahe Amboasary",
+        "Gegründet in den 1930er Jahren von der französischen Familie de Heaulme",
+        "Schützt einen kritischen Rest von Galeriewald inmitten riesiger Sisalplantagen",
+        "Weltbekannt für äußerst zutrauliche Kattas (Ringelschwanzlemuren)",
+        "Heimat der Larvensifakas, die sich tanzend auf zwei Beinen fortbewegen",
+        "Seit Jahrzehnten ein globales Zentrum für Verhaltensforschung an Lemuren"
+      ]
+    }
+  ]
+}

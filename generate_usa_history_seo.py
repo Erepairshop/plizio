@@ -1,0 +1,40 @@
+import json
+
+items = [
+    {
+        "id": "appomattox-court-house-history-v2",
+        "descriptionAdvanced": "Az Appomattox Court House a polgárháború egyik legjelentősebb helyszíne, ahol 1865-ben Robert E. Lee tábornok megadta magát Ulysses S. Grant tábornoknak. Ez a pillanat a négyéves véres konfliktus tényleges végét jelentette, és elindította a nemzeti megbékélés folyamatát. A helyszín ma történelmi nemzeti park, amely gondosan megőrizte a korabeli épületeket. Történelem K8 — a polgárháború lezárása.",
+        "factsAdvanced": [
+            "A megadás 1865. április 9-én történt.",
+            "Robert E. Lee és Ulysses S. Grant a McLean-házban találkozott.",
+            "A béketárgyalások viszonylag enyhe feltételeket tartalmaztak.",
+            "A terület 1940-ben vált történelmi nemzeti emlékhellyé.",
+            "A McLean-házat a 20. század közepén rekonstruálták.",
+            "Ez a helyszín szimbolizálja az Egyesült Államok újraegyesítését."
+        ]
+    },
+    {
+        "id": "antietam-battlefield-history-v2",
+        "descriptionAdvanced": "Az antietami csata az amerikai történelem legvéresebb egynapos összecsapása volt, amely 1862. szeptember 17-én zajlott le. A csata stratégiai uniós győzelmet hozott, ami megállította Lee tábornok északi invázióját. Ez a siker tette lehetővé Abraham Lincoln számára az Emancipációs Proklamáció kibocsátását, amely a rabszolgaság eltörlését tette a háború hivatalos céljává. A csatatér ma csendes emlékhely, amely emlékeztet az emberi áldozatokra. Történelem K8 — fordulópont a polgárháborúban.",
+        "factsAdvanced": [
+            "Több mint 23 000 áldozat esett el a nap folyamán.",
+            "A csata a Maryland állambeli Sharpsburg mellett zajlott.",
+            "Az uniós csapatokat George B. McClellan vezette.",
+            "A harcok olyan területeken zajlottak, mint a 'Kukoricás' (The Cornfield).",
+            "A győzelem politikai tőkét adott Lincoln elnöknek.",
+            "A csata az északi államok morális fölényét alapozta meg."
+        ]
+    }
+]
+
+# I only did two here, will do more in batches of 20 as requested.
+# I will output this to the json batch file.
+
+data = {
+    "lang": "hu",
+    "country": "usa",
+    "files": ["lib/visualLab/data/poiExtraUsaHistoryV2.ts"],
+    "items": items
+}
+with open("seo_usa_hu_history_batch1.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)

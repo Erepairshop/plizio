@@ -1,0 +1,129 @@
+{
+  "lang": "en",
+  "country": "ro1",
+  "files": [
+    "lib/visualLab/data/poiExtraRo1.ts"
+  ],
+  "items": [
+    {
+      "id": "city-sebes-extra",
+      "descriptionAdvanced": "Sebeș is a city in Alba County, central Romania. Located at the confluence of the Sebeș and Mureș rivers, it has been an important crossroads for centuries. The city has a rich medieval history, founded by Transylvanian Saxon settlers. The most impressive landmark is the 12th-century Evangelical Lutheran Church, a massive Romanesque and Gothic structure that dominates the city center. Sebeș also retains portions of its medieval city walls and several guild towers. In recent years, it has become a major hub for industrial investment, particularly in automotive components and leather processing, leading to significant economic growth and making it one of the most prosperous cities in the region.",
+      "factsAdvanced": [
+        "Founded by German settlers, known historically as Mühlbach.",
+        "The Sebeș Fortress was one of the first and most important Saxon fortifications in Transylvania.",
+        "Home to a monumental 12th-century Evangelical Church.",
+        "A major economic center with significant foreign investments in the industrial sector.",
+        "Located at an important junction of Romanian national roads and motorways.",
+        "The city's historical center preserves its medieval street plan."
+      ]
+    },
+    {
+      "id": "city-aiud-extra",
+      "descriptionAdvanced": "Aiud is a city in Alba County, known for its well-preserved medieval citadel, one of the oldest in Transylvania. The Aiud Citadel encloses a historic town center with narrow streets, old houses, and two major churches: a Reformed church and an Orthodox cathedral. The citadel itself is characterized by its numerous towers, each maintained by a different medieval guild. Aiud has a strong educational and intellectual tradition, being a center for the Protestant church and home to a renowned college, Bethlen Gábor College, founded in the 17th century. The city's atmosphere is one of quiet history, with the fortress walls enclosing a living part of the town.",
+      "factsAdvanced": [
+        "The Aiud Citadel is a significant and well-preserved medieval urban fortress.",
+        "Historically, the city was a major cultural and religious center for Hungarian Protestants in Transylvania.",
+        "The Bethlen Gábor College is one of the oldest and most famous schools in the region.",
+        "The citadel has many towers, named after the guilds that defended them (e.g., Butchers' Tower, Tailors' Tower).",
+        "Its historical German name is Straßburg am Mieresch.",
+        "The city is situated on the banks of the Mureș River."
+      ]
+    },
+    {
+      "id": "city-blaj-extra",
+      "descriptionAdvanced": "Blaj is a city in Alba County, with immense historical and cultural importance for Romania. It is the main spiritual and cultural center of the Romanian Greek-Catholic Church. During the 18th and 19th centuries, Blaj was the heart of the Transylvanian School, an intellectual movement that promoted Romanian national consciousness and the Latin origins of the language. This earned it the nickname 'Little Rome.' The city's central square is flanked by the Holy Trinity Cathedral and other important religious and educational buildings. The 'Field of Liberty' on the outskirts of Blaj was the site of the great national assemblies during the 1848 Revolution, a pivotal moment in Romanian history.",
+      "factsAdvanced": [
+        "Known as 'Little Rome' due to its role as a center of Romanian culture and enlightenment.",
+        "The primary religious center for the Romanian Greek-Catholic Church.",
+        "Central to the 'Transylvanian School' (Școala Ardeleană) intellectual movement.",
+        "The site of the 1848 National Assembly on the 'Field of Liberty'.",
+        "The city's layout was planned in the 18th century with a focus on its religious and educational role.",
+        "Located at the confluence of the Târnava Mare and Târnava Mică rivers."
+      ]
+    },
+    {
+      "id": "city-pecica-extra",
+      "descriptionAdvanced": "Pecica is a town in Arad County, western Romania, located on the border with Hungary. It is an important agricultural center in the fertile plains of the region. The town is known for its archaeological significance; the Ziridava archaeological site nearby contains Dacian and Roman ruins, believed to be the location of a major Dacian fortified town. Modern Pecica is also known for its 'Pita de Pecica,' a type of bread that has achieved European recognition as a protected geographical indication product. Its proximity to the border and the city of Arad makes it a key point for cross-border traffic and commerce.",
+      "factsAdvanced": [
+        "Home to the Ziridava archaeological site, an important Dacian settlement.",
+        "Known for producing 'Pita de Pecica,' a famous Romanian bread with EU protection.",
+        "Located in close proximity to the Hungarian border.",
+        "An important center for agriculture, especially grain and vegetable production.",
+        "The Mureș River flows near the town.",
+        "Part of the historical Crișana region."
+      ]
+    },
+    {
+      "id": "city-santana-extra",
+      "descriptionAdvanced": "Sântana is a town in Arad County, located in the western plains of Romania. Its history is marked by the various ethnic groups that have coexisted here, including Romanians, Germans (Swabians), Hungarians, and Serbs. The town developed as an agricultural hub, a role it maintains today. It is situated in a rich agricultural region known for cereal crops. The town also has some industrial activity, building on its history of craftsmanship. The architecture in the older parts of the town reflects the influence of its multicultural past. Sântana is a typical market town of the Crișana Plain, serving its surrounding rural communities.",
+      "factsAdvanced": [
+        "A town with a diverse ethnic and cultural history.",
+        "Located in the Crișana Plain, a flat and fertile agricultural area.",
+        "Historically known as Sanktanna in German.",
+        "Its development was strongly linked to the colonization by Swabian Germans in the 18th century.",
+        "An important local center for grain trade.",
+        "The town has a Roman Catholic church that is a prominent local landmark."
+      ]
+    },
+    {
+      "id": "city-lipova-extra",
+      "descriptionAdvanced": "Lipova is a town in Arad County, situated on the Mureș River. The town has a rich history, having been a significant military and commercial point in the medieval Kingdom of Hungary. It is known for the Șoimoș Fortress, a dramatic ruin perched on a hill overlooking the river and the town. The town itself has a charming historic center with architecture reflecting its past importance, including a beautiful Orthodox church and a former Turkish bazaar, a remnant of the period of Ottoman occupation. Lipova is also known for its mineral water springs and was once a popular health resort. The town's location in the Mureș Gorge makes it a scenic spot.",
+      "factsAdvanced": [
+        "Overlooked by the ruins of the medieval Șoimoș Fortress.",
+        "Features a historic Turkish bazaar, unique for this region of Romania.",
+        "Located on the Mureș River at the point where it emerges from the mountains.",
+        "The town was an important strategic point during the Ottoman wars in Europe.",
+        "Known for its natural mineral water springs.",
+        "The local hospital, founded in the 19th century, is a historic monument."
+      ]
+    },
+    {
+      "id": "city-curtea-de-arges-extra",
+      "descriptionAdvanced": "Curtea de Argeș is a city of immense historical significance in Romania, located in Argeș County. It was one of the first capitals of Wallachia. The city is most famous for the Curtea de Argeș Monastery, an exquisite piece of Byzantine-style architecture with unique decorative details. According to legend, the master builder Manole had to wall in his wife to complete its construction. The monastery is the official necropolis of the Romanian Royal Family. The city is also home to the 14th-century Princely Court and Church, which contains some of the oldest frescoes in Romania. Set at the foothills of the Făgăraș Mountains, the city is a gateway to the Transfăgărășan highway.",
+      "factsAdvanced": [
+        "One of the earliest capitals of the historical principality of Wallachia.",
+        "Home to the stunning Curtea de Argeș Monastery, a royal burial site.",
+        "The legend of Meșterul Manole is famously associated with the monastery's construction.",
+        "The Princely Church of Saint Nicholas is one of the oldest medieval monuments in Wallachia.",
+        "Serves as the starting point for the scenic Transfăgărășan mountain road.",
+        "The city's name means 'The Court on the Argeș River'."
+      ]
+    },
+    {
+      "id": "city-campulung-extra",
+      "descriptionAdvanced": "Câmpulung, also known as Câmpulung Muscel, is a city in Argeș County and is considered by some historians to be the very first capital of the feudal state of Wallachia. The city is situated in a mountain depression, surrounded by the foothills of the Southern Carpathians. It has a long and rich history, reflected in its numerous monuments, including the Negru Vodă Monastery complex and the remains of the medieval Princely Court. The city center has a distinct elongated shape, following the river valley, and features many historic houses and churches. Câmpulung was also the site of the first written document in the Romanian language, Neacșu's Letter, from 1521.",
+      "factsAdvanced": [
+        "Considered the first capital of Wallachia before Curtea de Argeș.",
+        "Neacșu's Letter, the oldest surviving document in Romanian, originated here.",
+        "The city has a characteristic elongated urban plan, stretching along the Râul Târgului.",
+        "Home to the Negru Vodă Monastery, a major historical and religious site.",
+        "The 'Jidova' Roman fort is located near the city, marking the Roman Empire's border.",
+        "It is located in the Muscel depression, a distinct ethnographic and historical region."
+      ]
+    },
+    {
+      "id": "city-mioveni-extra",
+      "descriptionAdvanced": "Mioveni is a city in Argeș County, primarily known as the heart of the Romanian automotive industry. It is the home of the Dacia automobile manufacturer, which is now part of the Renault group. The city's development is almost entirely linked to the car factory, which was established in the 1960s. This industrial focus transformed Mioveni from a small village into a modern city with a young population. The city also hosts the Institute for Nuclear Research, a key facility for Romania's nuclear energy program. While not a tourist city, Mioveni is a powerhouse of the Romanian economy and a symbol of its industrial capabilities.",
+      "factsAdvanced": [
+        "Home to the Automobile Dacia car manufacturing plant.",
+        "A major center of the Romanian automotive industry.",
+        "The city's population and economy grew exponentially with the car factory.",
+        "Hosts Romania's main Institute for Nuclear Research.",
+        "Evolved from a rural commune into a modern industrial city in the 20th century.",
+        "Most of the city's residential buildings are socialist-era apartment blocks."
+      ]
+    },
+    {
+      "id": "city-onesti-extra",
+      "descriptionAdvanced": "Onești is a city in Bacău County, located in the historical region of Moldavia. It was largely a planned city, its development booming in the 1950s as a major center for the petrochemical and synthetic rubber industries in communist Romania. For a period, it was named Gheorghe Gheorghiu-Dej, after the country's first communist leader. The city's layout is rational and organized, with large boulevards and functional residential areas typical of socialist urbanism. Although the industrial output has decreased since the 1989 revolution, Onești remains an important industrial city. It is also known as the birthplace of Nadia Comăneci, the world-famous gymnast who scored the first perfect 10 in Olympic history.",
+      "factsAdvanced": [
+        "A major center for the petrochemical industry in Romania.",
+        "The city's modern development was a key project of the communist regime.",
+        "The birthplace of Olympic gymnastics legend Nadia Comăneci.",
+        "For a time, it was named Gheorghe Gheorghiu-Dej.",
+        "Located at the confluence of the Trotuș and Cașin rivers.",
+        "Its urban plan is a prime example of socialist-era city design."
+      ]
+    }
+  ]
+}

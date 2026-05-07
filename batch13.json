@@ -1,0 +1,195 @@
+{
+  "lang": "hu",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-de-las-minas-relief-v2",
+      "descriptionAdvanced": "A Sierra de las Minas Közép-Amerika egyik leglenyűgözőbb és biológiailag legdiverzebb hegylánca, amely Guatemala keleti részén, a Motagua- és a Polochic-folyók völgyei között húzódik több mint 130 kilométer hosszan. Mivel a hegység magassága drasztikusan emelkedik (a tengerszinttől egészen a 3000 métert meghaladó Cerro Raxón csúcsig), hihetetlenül változatos mikroklímákat rejt: a száraz, sivatagi trópusi cserjésektől a völgyekben, egészen Közép-Amerika legnagyobb kiterjedésű, ősi felhőerdejéig (bosque nuboso) a gerinceken. Ez a felhőerdő ad menedéket Guatemala egyik legnagyobb quetzal-populációjának. A hegy belseje rendkívül gazdag ásványkincsekben – innen kapta a nevét ('A Bányák Hegysége') –, évszázadokon át jáde-, márvány- és aranybányászat folyt itt. 1990 óta Bioszféra Rezervátum, és a guatemalai keleti régió legfontosabb ivóvízbázisa. Földrajz K8 — hegységek klimatikus övezetei és ásványkincsek.",
+      "factsAdvanced": [
+        "Több mint 130 km hosszú hegylánc, amely elválasztja a Motagua és a Polochic folyóvölgyeket.",
+        "Közép-Amerika legkiterjedtebb és legvédettebb egybefüggő felhőerdejét (bosque nuboso) rejti magában.",
+        "Legmagasabb pontja, a Cerro Raxón meghaladja a 3 010 méteres tengerszint feletti magasságot.",
+        "Nevét (Bányák Hegysége) a gazdag jáde-, márvány- és egyéb ásványianyag-lelőhelyekről kapta.",
+        "Otthont ad a guatemalai nemzeti madár, a quetzal egyik legfontosabb és legnagyobb populációjának.",
+        "A hegység vízgyüjtője (több mint 63 folyó ered innen) több mint félmillió ember vízellátását biztosítja."
+      ]
+    },
+    {
+      "id": "cerro-cucurucho-relief-v2",
+      "descriptionAdvanced": "A Cerro Cucurucho egy erdős, markáns kiemelkedés Sacatepéquez megyében, Antigua Guatemala völgyétől (Panchoy-völgy) délkeletre. A hegy nem vulkán, hanem a guatemalai vulkáni láncot (Eje Volcánico) összekötő, stabil tektonikus hegygerincek (sierra) része. Kiemelkedő stratégiai szerepe van a régió vízgazdálkodásában és ökológiájában, mivel sűrű ciprus-, fenyő- és tölgyerdői hatalmas mennyiségű csapadékot fognak fel és szűrnek a völgy alatti víztartó rétegekbe (acuíferos). A hegy csúcsa közel 2400 méter magasan fekszik, ahonnan tiszta napokon csodálatos kilátás nyílik az Agua vulkánra. Manapság egyre népszerűbb a hegyikerékpárosok (MTB) és a túrázók körében, bár a környező terjeszkedő kávéültetvények és az illegális fakitermelés folyamatosan fenyegetik az őshonos erdőket. Földrajz K7 — hegygerincek vízmegtartó szerepe és a hegységi ökoszisztémák.",
+      "factsAdvanced": [
+        "Egy stabil tektonikus (nem vulkáni) hegység Antigua Guatemala és Guatemalaváros között.",
+        "Tengerszint feletti magassága megközelíti a 2 400 métert, meredek, fásított lejtőkkel.",
+        "Sűrű fenyő- és tölgyerdői kulcsfontosságúak Antigua ivóvízellátásának (vízgyűjtő) biztosításában.",
+        "Népszerű célpontja a hegyikerékpáros (mountain bike) és terepfutó versenyeknek.",
+        "A hegy neve (Cucurucho) spanyolul a hagyományos kúpos csuklyát (vagy hegycsúcsot) jelenti.",
+        "Lejtőin számos kiváló, 'shade-grown' (fák árnyékában nevelt) kávéültetvény működik."
+      ]
+    },
+    {
+      "id": "sierra-madre-relief-v2",
+      "descriptionAdvanced": "A guatemalai Sierra Madre nem a mexikói Sierra Madre folytatása, hanem a Közép-amerikai Kordillerák gerince, amely a Csendes-óceánnal párhuzamosan szeli át Guatemalát északnyugatról délkelet felé. Ez a masszív, elsősorban vulkáni és kristályos kőzetekből álló hegylánc alkotja a guatemalai vulkáni ív (Eje Volcánico) alapját: ezen a vonulaton ül a Tajumulco (4220 m, Közép-Amerika legmagasabb pontja), a Fuego, az Agua és a Pacaya vulkán. A Sierra Madre drasztikus vízválasztót (divisoria de aguas) képez: a délre futó folyók rövidek, gyorsak és a Csendes-óceánba ömlenek, míg az északra tartó folyók (mint a Motagua) hatalmas távolságokat tesznek meg a Karib-tengerig. A hegylánc északi, belső medencéiben (Altiplano) él a guatemalai lakosság jelentős része. Földrajz K8 — vulkáni ívek és a fő kontinentális vízválasztók.",
+      "factsAdvanced": [
+        "A Csendes-óceán partjával párhuzamosan futó, a guatemalai vulkánokat hordozó fö hegylánc.",
+        "A hegység képezi Közép-Amerika fő kontinentális vízválasztóját (Atlanti vs. Csendes-óceáni vízgyüjto).",
+        "Ezen a vonulaton található a 4 220 méter magas Tajumulco, az egész közép-amerikai földhíd legmagasabb pontja.",
+        "Délesése rendkívül meredek a csendes-óceáni síkság felé, létrehozva a meleg, nedves 'Boca Costa' klímazónát.",
+        "Geológiailag a Kókusz-lemez és a Karib-lemez szubdukciója (alábukása) hozta létre és tartja aktívan.",
+        "Sűrűn lakott magaslati medencéiben (pl. Quetzaltenango, Guatemalaváros völgye) koncentrálódik az ország gazdasága."
+      ]
+    },
+    {
+      "id": "cuchumatanes-relief-v2",
+      "descriptionAdvanced": "A Sierra de los Cuchumatanes (vagy Cuchumatanes-hegység) Közép-Amerika legmagasabb és legkiterjedtebb nem vulkanikus hegyvonulata, amely nagyrészt Huehuetenango és El Quiché megyéket borítja be. Hatalmas, sok helyen 3000 méter (sőt a La Torre csúcsnál a 3800 méter) fölé magasodó karsztos és gránit mészkőfennsíkjai éles, dermesztően hideg és kopár holdbéli tájakat alkotnak, ahol gyakori a fagy és nyáron (véletlenszerűen) még a havazás is. A hegység neve a mam maja 'cuchuj' (egyesülni) és 'matán' (felsőbb erő) szavakból származik. A meredek, gyakran áthatolhatatlan szurdokokkal szabdalt (mint a Chixoy-szurdok) Cuchumatanes történelmileg tökéletes menedéket nyújtott az itt élő mam, chuj, ixil és q'anjob'al maja közösségeknek, hogy megőrizzék izolált nyelvüket és kultúrájukat a spanyol hódítás és a modernizáció ellen. Földrajz K8 — magashegyi mészkőfennsíkok és kulturális izoláció.",
+      "factsAdvanced": [
+        "Közép-Amerika legmagasabb (legfeljebb 3 837 méter) nem vulkanikus, gyűrődéses hegylánca.",
+        "Egy gigantikus mészkőfennsík, amely nagyrészt Huehuetenango és El Quiché megyékre terjed ki.",
+        "Tetején (az 'Altiplano' felett) zord, fagyos pampák és sziklás tundrák találhatók, ahol juhokat legeltetnek.",
+        "Meredek falai és szurdokai miatt a benne élő maja közösségek (pl. Ixil-háromszög) rendkívül elzártak maradtak.",
+        "Geológiai törésvonala a Polochic-Motagua árokhoz kapcsolódik.",
+        "Tiszta időben a legmagasabb pontjáról (Mirador Juan Diéguez Olaverri) szinte a teljes guatemalai vulkánsor látható."
+      ]
+    },
+    {
+      "id": "valle-del-motagua-relief-v2",
+      "descriptionAdvanced": "A Valle del Motagua (Motagua-völgy) egy kiterjedt, forró és száraz geológiai árok (graben), amelyet a hatalmas Motagua-folyó vájt ki és töltött fel hordalékkal Kelet-Guatemalában (El Progreso és Zacapa megyék). A völgy különlegessége a geológiájában rejlik: ez maga a Motagua-törésvonal, amely elválasztja az Észak-amerikai- és a Karib-kőzetlemezeket, és a történelem során pusztító földrengéseket okozott. Klimatikusan a völgy az úgynevezett 'Corredor Seco' (Száraz Folyosó) része: a Sierra de las Minas északról leárnyékolja a karibi esőket (esőárnyék-hatás), így a völgyben csupán kaktuszok, tüskés bokrok (zarzales) élnek meg, a nyári hőmérséklet pedig a 40 °C-ot is meghaladhatja. Ennek ellenére a folyó vizének kiterjedt öntözéses (csepegtetéses) felhasználásával a völgy ma Guatemala legnagyobb dinnye-, paradicsom- és dohánytermelő régiója. Földrajz K8 — tektonikus árkok (graben), esőárnyék-hatás és sivatagi öntözés.",
+      "factsAdvanced": [
+        "A völgy pontosan a Karib- és az Észak-amerikai-kőzetlemez találkozásánál (Motagua-törésvonal) húzódik.",
+        "Geológiailag Közép-Amerika legfobb forrása az értékes jáde ('Jadeita') ásványnak.",
+        "Az esőárnyék-hatás miatt ez Guatemala legforróbb és legszárazabb sivatagi régiója (Corredor Seco).",
+        "A csepegtető öntözés révén Közép-Amerika egyik legtermékenyebb export-dinnye termelő övezete.",
+        "A spanyol hódítás és a vasútépítés idején a fő közlekedési korridor volt az Atlanti-óceán (Karib-tenger) felé.",
+        "Területén egyedi, sivatagi élővilág (pl. a guatemalai mérges vipera fajok és kaktuszok) honos."
+      ]
+    },
+    {
+      "id": "reserva-biosfera-maya-relief-v2",
+      "descriptionAdvanced": "A Maya Bioszféra Rezervátum (Reserva de la Biosfera Maya, RBM) Közép-Amerika legnagyobb védett trópusi esőerdő-tömbje, amely Petén megye északi részén, több mint 21 000 négyzetkilométeren (Guatemala területének közel egyötödén) terül el. Az 1990-ben létrehozott hatalmas rezervátum egy alacsony, karsztos (mészköves) síkság, amely szoros ökológiai egységet alkot a mexikói Calakmul és a belize-i Rio Bravo rezervátumokkal ('Selva Maya'). A domborzatot sűrű esőerdők, mocsarak, lagúnák és láthatatlan földalatti folyórendszerek uralják. A rezervátum három zónára oszlik: az érintetlen magzónákra (mint a Tikal és a Mirador Nemzeti Parkok), a közösségi koncessziós erdőgazdálkodási zónákra (ahol fenntartható fakitermelés és chicle-gyűjtés folyik), valamint a pufferzónákra. Legnagyobb problémája az északnyugati régiók (Laguna del Tigre) illegális és masszív erdőirtása a narco-rancherek és a szarvasmarha-farmerek által. Földrajz K8 — a bioszféra rezervátumok zónázása és a trópusi karszt.",
+      "factsAdvanced": [
+        "A RBM Közép-Amerika legnagyobb, még egybefüggő trópusi esőerdeje, az Amazonas után a kontinens 2. legnagyobbja.",
+        "Több mint 21 600 négyzetkilométeres területe Guatemala északi határait (Petén) borítja.",
+        "Belsejében több ezer, nagyrészt még feltáratlan klasszikus maja romváros (pl. Tikal, El Mirador) rejtőzik.",
+        "Sikeres közösségi erdészeti koncessziókat ('concesiones forestales') muködtet a fenntartható mahagóni-kitermelésre.",
+        "A rezervátum az utolsó mentsvára Közép-Amerika jaguár-, tapír- és vörös arapapagáj-populációinak.",
+        "Az illegális betelepülők, drogkartellek és erdőtüzek folyamatosan pusztítják a rezervátum nyugati ('puffer') zónáit."
+      ]
+    },
+    {
+      "id": "altiplano-guatemalteco-relief-v2",
+      "descriptionAdvanced": "Az Altiplano Guatemalteco (Guatemalai Felföld) az ország földrajzi, kulturális és demográfiai gerince. Ez a 1500 és 3000 méter közötti, sűrűn lakott magaslati medencékből (pl. Quetzaltenango, Chimaltenango, Sololá) álló régió a Sierra Madre és a Cuchumatanes hegységek között terül el. A domborzatot drámai vulkáni kúpok, mély tektonikus szakadékok (barrancos) és a köztük megbúvó termékeny (vulkáni hamuból származó) termőföldek jellemzik. Az Altiplano a 'Örök Tavasz Országa' mítosz forrása: nappal a trópusi nap melegít, éjszaka pedig a magasság miatt lehűl a levegő (decemberben gyakori a fagy). Itt él a guatemalai maja lakosság (k'iche', kaqchikel, mam) túlnyomó többsége, akik a hegyoldalakat intenzíven megművelik (kukorica, burgonya, exportzöldségek), fenntartva az ország ezeréves agrár- és textil-kultúráját. Földrajz K7 — magasföldi medencék és a vulkáni mezőgazdaság.",
+      "factsAdvanced": [
+        "Az Altiplano 1 500 és 3 000 méter közötti vulkáni medencékbol és völgyekbol álló sűrűn lakott régió.",
+        "A hűvös, gyakran fagyos klímája miatt nevezik Guatemalát az 'Örök Tavasz Országának' (País de la Eterna Primavera).",
+        "Talaja rendkívül termékeny a folyamatos vulkáni hamuesoknek (ceniza) köszönhetoen.",
+        "Az őslakos maja népesség (k'iche', mam, kaqchikel) kulturális, nyelvi és gazdasági bázisa.",
+        "Gyakoriak a mély szakadékok ('barrancos'), amelyeket a patakok és az esővíz vágott a puha habkőbe.",
+        "Innen származik a guatemalai kézműves textíliák (cortes, huipiles) és friss exportzöldségek (pl. brokkoli) zöme."
+      ]
+    },
+    {
+      "id": "volcan-tacana-relief-v2",
+      "descriptionAdvanced": "A Volcán Tacaná Közép-Amerika második legmagasabb csúcsa (4 060 méter), amely egy masszív, inaktív stratovulkán San Marcos megyében. Különlegessége, hogy – a Chingóhoz hasonlóan – geopolitikai határként szolgál Guatemala és Mexikó (Chiapas állam) között, olyannyira, hogy a csúcsot ('La Cumbre') hivatalosan kettészelik a határkövek. A Tacaná nem egy hagyományos éles kúp, mint az Agua, hanem egy összetett, több egybeolvadt kalderából és dómokból álló hatalmas hegytömb. Lábánál sűrű, kávéültetvényekkel borított trópusi hegyoldalak (boca costa) találhatók, míg csúcsa felé haladva fagyos felhőerdők (bosque nuboso), és végül kopár, alpesi jellegű pampák (zacatonales) uralják a tájat. A guatemalai és mexikói hegymászók (andinisták) körében hagyomány, hogy húsvétkor (Semana Santa) tömegesen másszák meg a csúcsot, ahol egy közös (kétnemzetiségű) fesztivál alakul ki a fagyos kráterben. Földrajz K8 — határ-vulkánok és az alpesi vegetációs övezetek.",
+      "factsAdvanced": [
+        "A Tajumulco után ez a közép-amerikai földhíd második legmagasabb pontja (4 060 méter).",
+        "A vulkán csúcsa kettéosztja a guatemalai-mexikói nemzetközi határt (San Marcos és Chiapas között).",
+        "Inaktív stratovulkán, bár a hegy lábánál (mexikói oldalon) kénes hocsóvák és hőforrások találhatók.",
+        "A magasság miatt a csúcson alpesi jellegu (fátlan, füves) növényzet és gyakori fagy uralkodik.",
+        "Népszerű zarándok- és hegymászó célpont a 'Semana Santa' (Nagyhét) idején.",
+        "Alacsonyabb, guatemalai (déli) lejtőin terem az ország legjobb minőségű magaslati kávéinak (SHB) egy része."
+      ]
+    },
+    {
+      "id": "sierra-de-chuacus-relief-v2",
+      "descriptionAdvanced": "A Sierra de Chuacús egy hosszan elnyúló, közepes magasságú (átlagosan 2000-2500 méter) geológiai hegyvonulat Közép-Guatemalában, amely elválasztja az Altiplanót a Motagua-folyó völgyétől és Észak-Guatemalától (Verapaz régió). A hegység főként metamorf és kristályos kőzetekből (kvarc, pala) áll, nem pedig vulkáni eredetű. Ez a vonulat Baja Verapaz és Quiché megyéken fut keresztül, és éles vízválasztót képez a Csendes-óceán és a Karib-tenger vízgyűjtői között. A Chuacús hegység déli lejtői rendkívül meredekek és szárazak a Motagua-árok miatt, míg az északi lejtők (a Verapaz-völgyek felé) zöldebbek és termékenyebbek. Ez a zord hegylánc történelmileg hatalmas fizikai akadályt jelentett a főváros és a kávétermelő északi megyék (Cobán) között. Földrajz K7 — kristályos (metamorf) hegységek és aszimmetrikus lejtők.",
+      "factsAdvanced": [
+        "Nem vulkanikus, metamorf kőzetekbol álló hegylánc Guatemala középső részén.",
+        "Természetes és drámai falat (vízválasztót) képez a Motagua-völgy és a Verapaz régió (Alta/Baja Verapaz) között.",
+        "Legmagasabb pontjai alig haladják meg a 2 500 métert, de lejtői rendkívül meredekek.",
+        "Déli oldala kopár és sivatagos (esőárnyék a Motagua felett), északi oldala nedvesebb és sűrűn fásított.",
+        "Történelmileg hosszú ideig elzárta (izolálta) az északi Verapaz kávétermelő régióját a guatemalai fovírostól.",
+        "Keresztülszeli az ország egyik legfontosabb, kanyargós és veszélyes főútvonala (Ruta a las Verapaces, CA-14)."
+      ]
+    },
+    {
+      "id": "valle-de-almolonga-relief-v2",
+      "descriptionAdvanced": "A Valle de Almolonga ('A víz forrásának völgye' nahuatl nyelven) egy szűk, rendkívül termékeny és forgalmas völgy Quetzaltenango (Xela) szomszédságában. Geológiailag a völgy a hatalmas Almolonga-Cerro Quemado vulkáni rendszer kráterszerű mélyedéseiben terül el. A völgy két okból világhírű: egyrészt itt találhatóak az ország legforróbb, legbőségesebb vulkáni hőforrásai (pl. Los Baños, Aguas Amargas), amelyeket évszázadok óta használnak gőzfürdőzésre és terápiás célokra; másrészt ez Guatemala 'zöldségöskertje'. A mély, ásványokban gazdag vulkáni talaj, a rengeteg víz és a k'iche' maja gazdák (agricultores) szinte megszállott, intenzív teraszos gazdálkodása miatt a völgyben embermagasságú sárgarépák, hatalmas káposzták és retkek teremnek, amelyekkel egész Közép-Amerikát (és El Salvadort) ellátják. A völgy gazdái gyakran teherautókkal szállítják terményeiket határon túlra. Földrajz K8 — geotermikus zónák és szuperintenzív mezőgazdaság.",
+      "factsAdvanced": [
+        "A völgy neve nahuatl eredetű, jelentése 'Ahol a víz forr/bugyog', utalva a vulkáni hősforrásokra.",
+        "Az 'Amerikák Veteményeskertjének' (Hortaliza de las Américas) is hívják a gigantikus méretű exportzöldségek miatt.",
+        "A talaj különlegesen gazdag a Cerro Quemado vulkán kitöréseiből származó ásványi anyagokban.",
+        "A völgy tele van természetes, forró vulkáni vizu közfürdőkkel (pl. Los Baños, Fuentes Georginas a közelben).",
+        "Az intenzív mezogazdaságot a helyi evangéliumi (neo-pünkösdista) keresztény ébredéshez kötik sokan ('Csodák völgye').",
+        "A k'iche' gazdák teraszos parcelláikon olykor évente háromszor is betakarítanak a gazdag öntözés révén."
+      ]
+    },
+    {
+      "id": "cerro-cahabon-relief-v2",
+      "descriptionAdvanced": "A Cerro Cahabón (Cahabón-hegység) egy hosszan elnyúló, sűrű trópusi esőerdőkkel (selvas) és karsztos (mészkő) formációkkal jellemezhető alacsony hegylánc Alta Verapaz megye keleti felén, amely fokozatosan ereszkedik le az Izabal-tó (Polochic-folyó) és a Petén-síkság felé. Geológiailag ez a hegység felelős a Cahabón-folyó hatalmas vízhozamáért (vízválasztóként szolgál), és magában rejti Közép-Amerika leglátványosabb karsztbarlangjait (Lanquín, Rey Marcos). A mészkő alapkőzetet a rengeteg trópusi eső ('chipi-chipi') folyamatosan pusztítja, hatalmas földalatti barlangokat, búvópatakokat (mint Semuc Champey-nél) és cenote-szerű víznyelőket létrehozva. A hegyoldalakon élő q'eqchi' maják égetéses földművelése (milpas) és a közelmúltban elszaporodott fakitermelés (pálmaolaj) súlyosan veszélyezteti a hegyek egyedi orchidea- és fafajait. Földrajz K7 — karsztos hegységek és trópusi barlangrendszerek.",
+      "factsAdvanced": [
+        "Egy alacsony (1000-1500 m), sűrű esőerdővel borított, karsztos mészkő-hegylánc Alta Verapazban.",
+        "Hatalmas karszt-barlangrendszereket (pl. Grutas de Lanquín) és búvópatakokat (Semuc Champey) rejt magában.",
+        "Fő vízgyűjtője a sebes sodrású Cahabón-folyónak, amely a hegyekből a Polochic folyóba ömlik.",
+        "Trópusi, rendkívül párás klímája (esőerdő) gazdag orchidea- és bromélia-faunát tart életben.",
+        "A meredek mészkőlejtők (karst) rendkívül sérülékenyek az erdőirtás (roza y quema) okozta erózióval szemben.",
+        "A hegységet nagyrészt izolált q'eqchi' maja közösségek lakják."
+      ]
+    },
+    {
+      "id": "sierra-de-santa-cruz-relief-v2",
+      "descriptionAdvanced": "A Sierra de Santa Cruz (Szent Kereszt-hegység) egy elzárt, zord hegyvonulat Izabal megye északi részén, az Izabal-tótól (El Estor) északra és Petén megyétől délre. Ez a hegyvonulat – amely eléri az 1100 méteres magasságot – fizikai határt képez a Polochic-folyó torkolata és a Rio Sarstún (Belize határa) között. Geológiailag és biológiailag különleges: kőzetei jórészt ofiolitokból (ősi óceáni kéreg) és szerpentinitből állnak, ami magas nikkel- és krómtartalmat eredményez a talajban. Emiatt a hegy tövében (Fénix bánya) működik Guatemala legvitatottabb nyílt felszíni nikkelbányája. A hegység nehezen járható, sűrű 'széleslevelű' (latifoliado) trópusi esőerdővel borított, és számos, csak itt élő (endémikus) kétéltűnek és növénynek ad otthont; a fakitermelés és a bányászat azonban folyamatosan morzsolja le zöld határait. Földrajz K8 — ofiolit (óceáni kéreg) hegységek és a nikkelbányászat hatásai.",
+      "factsAdvanced": [
+        "Egy elszigetelt, sűrű trópusi erdővel borított hegylánc az Izabal-tó (Lago de Izabal) északi partja felett.",
+        "Geológiailag szerpentinit és ofiolit (ősi óceáni kéreg) kőzetekből áll, ami különleges növényvilágot eredményez.",
+        "A hegy kőzetei rendkívül gazdagok nikkelben, ami Guatemala legnagyobb (és legvitatottabb) bányászati projektjét (Fénix) fűti.",
+        "Fizikai gátat képez Guatemala karibi partvidéke (Rio Sarstún) és a belső régiók között.",
+        "Csúcsai ritkán haladják meg az 1 100 métert, de a meredekségük és az őserdő miatt nehezen járhatók.",
+        "Védett természeti terület (Refugio de Vida Silvestre) maradványai küzdenek az illegális fakitermelők (narco-ranchos) ellen."
+      ]
+    },
+    {
+      "id": "altiplano-occidental-relief-v2",
+      "descriptionAdvanced": "A Nyugati Felföld (Altiplano Occidental) Guatemala legszebb, de földrajzilag leginkább tagolt és zord régiója, amely Totonicapán, San Marcos, Quetzaltenango és Huehuetenango megyéket foglalja magában. Ezt a tájat a mély folyóvölgyek (mint a Samalá és a Cuilco) szabdalják fel szédítő magasságú, vulkáni kúpok (Tajumulco, Santa María) és kristályos hegygerincek (Cuchumatanes) között. Az Altiplano Occidental a 'maya vivo' (élő maja) kultúra igazi fellegvára, ahol a fagyos (gyakran 2500 méter feletti), vékony termőrétegű, teraszos hegyoldalakon ('terrazas') mam és k'iche' gazdák birkát legeltetnek és burgonyát, búzát termelnek. A régió élesen elszigetelt közösségekből áll a rossz minőségű, kanyargós hegyi utak miatt, és a kemény életfeltételek miatt innen (San Marcos, Huehuetenango) indul a legtöbb guatemalai kivándorló (migrante) az Egyesült Államok felé. Földrajz K7 — tagolt magashegyi domborzat és a migráció földrajza.",
+      "factsAdvanced": [
+        "Guatemala földrajzilag legmagasabban fekvő és leghidegebb régiója (sok település 2 500 m felett fekszik).",
+        "Magába foglalja az ország legnagyobb vulkánjait (Tajumulco, Tacaná) és a Cuchumatanes-hegységet.",
+        "A meredek hegyoldalakat (amelyeket az indiánok teraszos formában művelnek) mély kanyonok (barrancos) vágják át.",
+        "A hideg klíma és a gyenge vulkáni hamutalaj (bizonyos részeken) miatt a megélhetés rendkívül nehéz (búza, burgonya, birka).",
+        "Ebből a hegyvidéki (izolált) régióból indul a legtöbb guatemalai bevándorló (migrante) az USA-ba.",
+        "A helyi k'iche' és mam kultúra a domborzati izolációnak köszönhetően tudott ilyen autonóm maradni a hódítás után."
+      ]
+    },
+    {
+      "id": "volcan-san-pedro-relief-v2",
+      "descriptionAdvanced": "A San Pedro vulkán egy festői, 3020 méter magas, szimmetrikus, fával borított (inaktív) stratovulkán, amely az Atitlán-tó délnyugati medencéjét őrzi. Közvetlen lábánál fekszik San Pedro La Laguna nyüzsgő, turistákkal teli tz'utujil maja városa. A vulkán viszonylag 'fiatal' a geológiai időskálán (kb. 40 ezer éves), és krátere már sekély, beomlott. A San Pedro az Atitlán-tavat körülölelő 'Három Vulkán' (San Pedro, Tolimán, Atitlán) legkisebb, de legkönnyebben (és legbiztonságosabban) megmászható tagja. A mintegy 3-4 órás, meredek erdei túra az ökoturisták egyik kedvence; a csúcs felé haladva az ember végigsétál a kávéültetvényeken, a köderdőkön (ahol a fákról broméliák és mohák lógnak), és a csúcsról feltárul az Atitlán-tó mélykék krátermedencéjének teljes, lélegzetelállító panorámája. Földrajz K6 — inaktív vulkánok övezeti növényzete és az ökoturizmus.",
+      "factsAdvanced": [
+        "A 3 020 méter magas inaktív vulkán az Atitlán-tó (kaldera) délnyugati partján emelkedik.",
+        "Tövében fekszik a turisták ('mochileros') által kedvelt San Pedro La Laguna városa.",
+        "Az Atitlán-tavat körülölelő három nagy vulkán közül ez a legalacsonyabb és legnépszerűbb túracélpont.",
+        "Lejtőit egészen 2 000 méterig magas minőségű, árnyékolt ('shade-grown') tz'utujil kávéültetvények borítják.",
+        "Felsőbb szakaszain védett felhőerdő (bosque nuboso) található, gazdag madárvilággal.",
+        "A hegycsúcsot egy sekély, növényzettel benőtt, félig beomlott kráter alkotja."
+      ]
+    },
+    {
+      "id": "sierra-de-las-nubes-relief-v2",
+      "descriptionAdvanced": "A 'Sierra de las Nubes' (A Felhők Hegysége) egy poétikus földrajzi kifejezés, amelyet gyakran alkalmaznak az Alta Verapaz és Baja Verapaz megyéket elválasztó, kelet-nyugati irányú, rendkívül párás és ködös karszt-hegygerincekre (amelyek a Sierra de Chamá és részben a Sierra de las Minas északnyugati kiterjedéséhez tartoznak). Ez a zord, mészkőalapú hegyvidék, amelyet a Karib-tenger felől érkező meleg, nedves légtömegek állandóan ('chipi-chipi' szitáló esővel és sűrű köddel) áztatnak, Guatemala klasszikus felhőerdőinek (bosques nubosos) otthona. Ezek a hegyek kulcsfontosságúak az ország biodiverzitása (itt él a quetzal és számtalan orchidea) és vízgyűjtői szempontjából. A domborzat karsztos: a rengeteg esővíz barlangokat, földalatti folyókat (Lanquín, Semuc Champey vízgyűjtője) és rejtett cenotékat oldott ki a mészkőben évezredek alatt. Földrajz K8 — orografikus csapadék és karsztmorfológia.",
+      "factsAdvanced": [
+        "Alta Verapaz és Baja Verapaz hegyvidéki (karsztos) gerinceit illeti ez a költői, de földrajzilag is helytálló név.",
+        "Az állandó karibi passzátszelek a hegynek ütközve lehűlnek, folyamatos ködöt és esőt ('chipi-chipi') okozva (orografikus emelés).",
+        "A mészköves (karsztos) alapkőzetet a rengeteg csapadék kilyuggatta, létrehozva Közép-Amerika legnagyobb barlangrendszereit.",
+        "Ez a régió ad otthont Guatemala legfontosabb felhőerdeinek (pl. Biotopo del Quetzal).",
+        "A fák lombozata annyira dús a moháktól (epifitonok), hogy a napfény ritkán éri el a dzsungel talaját.",
+        "Földművelésre (a kávét és kardamomot leszámítva) kevésbé alkalmas a vékony talajréteg (rendzina) miatt."
+      ]
+    }
+  ]
+}

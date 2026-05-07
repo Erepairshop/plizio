@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nkue-cities-v2",
+      "descriptionAdvanced": "Nkue egy fontos közigazgatási és kereskedelmi központ a szárazföldi Egyenlítői-Guineában, Kie-Ntem tartományban. A város elhelyezkedése miatt stratégiai jelentőséggel bír a regionális logisztikában, összekötve a környező mezőgazdasági területeket a távolabbi központokkal. Nkue folyamatos infrastruktúra-fejlesztéseken megy keresztül, ami növeli a régió gazdasági potenciálját. A környező táj jellegzetes trópusi erdőkből és kisebb termőterületekből áll, amelyek fontosak az önellátás és a kereskedelem számára. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      "factsAdvanced": [
+        "Kie-Ntem tartomány fontos városa.",
+        "Regionális kereskedelmi központ.",
+        "Stratégiai logisztikai szerep.",
+        "Folyamatos infrastrukturális fejlesztések.",
+        "Trópusi erdős és mezőgazdasági környezet.",
+        "Hozzájárul a helyi gazdaság növekedéséhez."
+      ]
+    },
+    {
+      "id": "machinda-cities-v2",
+      "descriptionAdvanced": "Machinda a Río Muni régió egyik kisebb, de fontos kereskedelmi állomása, amely szorosan kapcsolódik a környék mezőgazdasági termeléséhez. A település életét a helyi gazdálkodók terményeinek cseréje határozza meg, így a piaci aktivitás a mindennapok részévé vált. Machinda elhelyezkedése révén kényelmes hozzáférést biztosít a környező falvak számára a kereskedelmi szolgáltatásokhoz. A város folyamatosan fejlődik, miközben környezete továbbra is a hagyományos életmód és a trópusi természeti adottságok ötvözetét mutatja. Tanterv: Földrajz K6, Szociális ismeretek K7.",
+      "factsAdvanced": [
+        "Río Muni régió kisvárosa.",
+        "Fontos mezőgazdasági kereskedelmi állomás.",
+        "A helyi piaci aktivitás központja.",
+        "Kényelmes kereskedelmi szolgáltatások.",
+        "A hagyományos és modern életmód ötvözete.",
+        "Erős kötődés a mezőgazdasági termelőkhöz."
+      ]
+    }
+  ]
+}

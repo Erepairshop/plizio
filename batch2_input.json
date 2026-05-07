@@ -1,0 +1,127 @@
+[
+  {
+    "id": "posoltega-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Posoltega"
+  },
+  {
+    "id": "san-rafael-del-sur-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Rafael del Sur"
+  },
+  {
+    "id": "masatepe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Masatepe"
+  },
+  {
+    "id": "niquinohomo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Niquinohomo"
+  },
+  {
+    "id": "la-concepcion-masaya-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "La Concepci\u00f3n"
+  },
+  {
+    "id": "telica-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Telica"
+  },
+  {
+    "id": "san-juan-de-limay-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Juan de Limay"
+  },
+  {
+    "id": "tola-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Tola"
+  },
+  {
+    "id": "moyogalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Moyogalpa"
+  },
+  {
+    "id": "altagracia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Altagracia"
+  },
+  {
+    "id": "wien-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Wiwil\u00ed de Nueva Segovia"
+  },
+  {
+    "id": "waspam-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Waspam"
+  },
+  {
+    "id": "rio-blanco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "R\u00edo Blanco"
+  },
+  {
+    "id": "siuna-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Siuna"
+  },
+  {
+    "id": "rosita-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Rosita"
+  },
+  {
+    "id": "bonanza-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Bonanza"
+  },
+  {
+    "id": "puerto-morazan-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Puerto Moraz\u00e1n"
+  },
+  {
+    "id": "el-jicaral-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Jicaral"
+  },
+  {
+    "id": "mateare-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Mateare"
+  },
+  {
+    "id": "waslala-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Waslala"
+  },
+  {
+    "id": "san-isidro-matagalpa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Isidro"
+  },
+  {
+    "id": "tecolostote-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Tecolostote"
+  },
+  {
+    "id": "san-lorenzo-boaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Lorenzo"
+  },
+  {
+    "id": "santo-tomas-chontales-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Santo Tom\u00e1s"
+  },
+  {
+    "id": "villa-sandino-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Villa Sandino"
+  }
+]

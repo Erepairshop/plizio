@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kayanza-coffee-life-v2",
+      "descriptionAdvanced": "Regiunea Kayanza este renumită pentru cultivarea uneia dintre cele mai apreciate cafele din lume, datorită altitudinii ridicate, solurilor vulcanice bogate și climatului montan care favorizează dezvoltarea unor arome complexe. Cafeaua din Kayanza a câștigat recunoaștere internațională, contribuind semnificativ la dezvoltarea economică a regiunii și la bunăstarea fermierilor locali. Această cultură agricolă nu este doar un produs de export de succes, ci și un simbol al mândriei naționale și al expertizei agricole a Burundiului pe piața globală. Economie K7 — agricultura de specialitate și comerțul exterior.",
+      "factsAdvanced": [
+        "Regiunea beneficiază de un climat ideal pentru soiul Arabica.",
+        "Cafeaua din Kayanza este căutată de prăjitorii artizanali din întreaga lume.",
+        "Altitudinea oferă o perioadă de maturare lentă a boabelor.",
+        "Sectorul cafelei este un motor principal al economiei în această provincie.",
+        "Fermierii cooperează pentru a menține standarde înalte de calitate.",
+        "Producția este un pilon esențial pentru veniturile din export ale Burundiului."
+      ]
+    },
+    {
+      "id": "tanganyika-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Tanganyika, unul dintre cele mai mari și mai adânci lacuri de apă dulce din lume, reprezintă o resursă naturală vitală pentru Burundi, fiind esențial pentru biodiversitate, transport și pescuit. Lacul găzduiește mii de specii de pești endemici și oferă un ecosistem complex care susține viața a milioane de oameni din regiune. Studiul acestui ecosistem oferă informații cruciale despre evoluția biologică și schimbările climatice, făcându-l un laborator natural de o importanță globală. Sachkunde K5 — lacuri și ecosisteme acvatice.",
+      "factsAdvanced": [
+        "Este al doilea cel mai adânc lac din lume (după Baikal).",
+        "Găzduiește sute de specii de pești care nu se găsesc nicăieri altundeva.",
+        "Lacul este o sursă principală de apă și hrană pentru Burundi.",
+        "Bazinul lacului a fost format prin activități tectonice în Riftul African.",
+        "Navigația pe lac este un element cheie pentru comerțul regional.",
+        "Ecosistemul este fragil și necesită eforturi comune de conservare."
+      ]
+    },
+    {
+      "id": "ruzizi-river-nature-v2",
+      "descriptionAdvanced": "Râul Ruzizi este o arteră hidrografică vitală care leagă lacul Kivu de lacul Tanganyika, jucând un rol crucial în hidrologia și economia Burundiului. Acesta oferă apă pentru irigații, potențial hidroenergetic și susține ecosisteme diverse de-a lungul cursului său. Importanța sa strategică este amplificată de rolul de frontieră naturală, dar și de capacitatea de a susține activități agricole intensive, fiind un pilon pentru dezvoltarea regiunii Imbo. Geografie K6 — sisteme fluviale și dezvoltare economică.",
+      "factsAdvanced": [
+        "Râul curge între lacurile Kivu și Tanganyika.",
+        "Este sursa principală de apă pentru irigații în câmpia Imbo.",
+        "Apele râului sunt utilizate pentru producția de energie hidroelectrică.",
+        "Ruzizi marchează parțial frontiera dintre Burundi și RDC.",
+        "Ecosistemele de pe malurile râului sunt bogate în faună.",
+        "Managementul resurselor râului este esențial pentru stabilitatea agricolă."
+      ]
+    },
+    {
+      "id": "kibira-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Național Kibira reprezintă unul dintre ultimele refugii ale forestelor tropicale montane din Burundi, protejând o biodiversitate remarcabilă, inclusiv specii rare de primate. Acest ecosistem este fundamental pentru reglarea climei locale, reținerea apelor și conservarea solului în zona montană a țării. Kibira servește drept 'turn de apă' pentru Burundi, hrănind numeroase cursuri de apă care susțin agricultura în văile din jur, și este o destinație esențială pentru ecoturismul responsabil. Sachkunde K6 — pădurile și protecția mediului.",
+      "factsAdvanced": [
+        "Este cel mai mare parc național din țară dedicat conservării pădurilor.",
+        "Habitat pentru cimpanzei și diverse alte primate.",
+        "Pădurea acționează ca un rezervor natural de apă pentru regiune.",
+        "Kibira a fost istoric o zonă sacră, păzită de regii Burundiului.",
+        "Parcul acoperă creasta Nil-Congo.",
+        "Biodiversitatea bogată face din Kibira un loc de cercetare ecologică."
+      ]
+    },
+    {
+      "id": "ruvubu-river-nature-v2",
+      "descriptionAdvanced": "Râul Ruvubu, un afluent major al fluviului Nil, traversează estul Burundiului, creând peisaje naturale spectaculoase și susținând ecosisteme diverse în parcul național care îi poartă numele. Această regiune este crucială pentru conservarea faunei sălbatice, inclusiv antilope, hipopotami și o mare diversitate de specii de păsări, oferind un refugiu natural într-o zonă intens folosită pentru agricultură. Ruvubu reprezintă o componentă vitală a patrimoniului natural burundez, punând în evidență importanța ariilor protejate. Geografie K7 — conservarea ariilor protejate și biodiversitate.",
+      "factsAdvanced": [
+        "Ruvubu este unul dintre principalele cursuri de apă din estul țării.",
+        "Parcul Național Ruvubu este cel mai întins parc din Burundi.",
+        "Râul este vital pentru supraviețuirea faunei în sezonul secetos.",
+        "Peisajul este caracterizat prin savane și păduri riverane.",
+        "Este un important habitat pentru antilope și specii acvatice.",
+        "Ruvubu face parte din bazinul hidrografic al Nilului."
+      ]
+    }
+  ]
+}

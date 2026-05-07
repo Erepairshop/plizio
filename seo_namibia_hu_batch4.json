@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "salzgewinnung-swakopmund-economic-v2",
+      "descriptionAdvanced": "A Swakopmundi Sólepárló Namíbia partvidékének egyik ikonikus, tájformáló ipari létesítménye. Az Atlanti-óceán hideg, ásványi anyagokban gazdag vizét hatalmas, sekély medencékbe szivattyúzzák, ahol a sivatagi nap és az erős szelek együttes erejével párologtatják el. Ahogy a só koncentrációja nő, bizonyos mikroalgák és sókedvelő baktériumok – például a Dunaliella salina – elszaporodnak, élénk rózsaszínre, vörösre és lilára festve a medencéket, ami lenyűgöző vizuális kontrasztot alkot a sárga sivataggal. Az itt előállított só minősége kiváló, és a belföldi piac ellátása mellett jelentős mennyiséget exportálnak Dél-Afrikába is. Kémia K7 — kristályosítás és lepárlás",
+      "factsAdvanced": [
+        "Swakopmund északi peremén helyezkedik el, a part mentén",
+        "A napenergia és a szél kombinációjával párologtatja a tengervizet",
+        "A rózsaszín és vörös színt a sókedvelő (halofil) baktériumok adják",
+        "A termelés elsősorban asztali és ipari só előállítására fókuszál",
+        "Környezete fontos táplálkozóhely az itteni flamingópopuláció számára",
+        "Gazdasági szerepe mellett népszerű fotós turistalátványosság is"
+      ]
+    },
+    {
+      "id": "walvis-bay-salzgewinnung-economic-v2",
+      "descriptionAdvanced": "A Walvis Bay-i Sólepárló (Walvis Bay Salt Refiners) egész Fekete-Afrika legnagyobb napenergiával működő sólepárló komplexuma. Az ipartelep egy gigantikus, több mint 4 500 hektáros mesterséges lagúnarendszert foglal magában a Kuiseb folyó deltája közelében. A termelés eléri az évi 900 000 tonnát is, amelyet nemcsak a közeli kikötőből szállítanak a tengeren, hanem szárazföldi úton a szomszédos dél-afrikai országokba is eljuttatnak, leginkább a vegyipar (klór- és lúggyártás) számára. Az ipari méretek ellenére a lepárló medencéi Namíbia egyik legfontosabb vizes élőhelyévé váltak (Ramsari egyezmény védi), ahol madarak milliói, köztük flamingók és kárókatonák találnak menedéket. Földrajz K8 — ipari ökológia és ramsari területek",
+      "factsAdvanced": [
+        "Fekete-Afrika legnagyobb szoláris (napenergiás) sólepárló üzeme",
+        "Éves termelése megközelítheti az egymillió tonnát",
+        "A teljes komplexum egy hatalmas, több mint 45 négyzetkilométeres területet ölel fel",
+        "A medencék a Walvis Bay-i Ramsari vizes élőhely szerves részét képezik",
+        "Az előállított sót nagyrészt a dél-afrikai vegyiparnak (klórgyártás) adják el",
+        "Több mint százezer madárnak – főleg flamingóknak – nyújt táplálékot és élőhelyet"
+      ]
+    },
+    {
+      "id": "namwater-hauptsitz-economic-v2",
+      "descriptionAdvanced": "A NamWater, Namíbia nemzeti vízszolgáltató vállalatának központja Windhoekban található, ahonnan az ország vízhálózatát – a Föld egyik legszárazabb klímájú országában – irányítják. A NamWater felelős a gátak (pl. Hardap, von Bach, Naute) karbantartásáért, a hatalmas földalatti víztározók (aquiferek) kiaknázásáért, valamint a sivatagon átszelő kilométeres vízvezetékrendszerek működtetéséért. Emellett feladatuk a partvidéki sótalanító üzemek működtetésének felügyelete is. Az éghajlatváltozás és a gyakori aszályok miatt a vállalat folyamatosan innovatív vízgazdálkodási technikákat vezet be, mint például a szennyvíz tisztítása és ivóvízként történő újrahasznosítása. Földrajz K8 — sivatagi vízgazdálkodás és infrastruktúra",
+      "factsAdvanced": [
+        "Namíbia állami tulajdonú, kizárólagos vízszolgáltató (bulk water) vállalata",
+        "Windhoekból irányítják az ország kiterjedt vízhálózatát és gátjait",
+        "Felelős a hatalmas felszín alatti víztartók (aquiferek) fenntartható kiaknázásáért",
+        "A klímaváltozás miatti vízhiány ellen alternatív stratégiákkal küzdenek",
+        "Szorosan együttműködik a bányaiparral, különösen az uránbányák vízellátásában",
+        "1997-ben alapították, átvéve a korábbi Vízügyi Minisztérium feladatait"
+      ]
+    },
+    {
+      "id": "van-eck-kraftwerk-economic-v2",
+      "descriptionAdvanced": "A Van Eck Erőmű egy történelmi, széntüzelésű hőerőmű Windhoek északi ipari külvárosában, amely 1972-ben kezdte meg működését. A NamPower által üzemeltetett létesítmény érdekessége, hogy a sivatagos, vízhiányos környezet miatt a világon az elsők között alkalmazott szárazhűtési (dry-cooling) technológiát, amivel drasztikusan csökkentették a működéshez szükséges vízmennyiséget. Mivel Namíbia nem rendelkezik jelentős szénkészlettel, a fűtőanyagot évtizedekig vasúton importálták Dél-Afrikából. Mára az erőmű elavulttá vált, és csak készenléti (stand-by) üzemmódban működik a téli csúcsfogyasztási időszakokban, miközben az ország egyre inkább a megújuló energiák felé fordul. Fizika K8 — termodinamika és erőművi hűtés",
+      "factsAdvanced": [
+        "1972-ben adták át, Namíbia egyetlen jelentős széntüzelésű hőerőműve",
+        "Úttörő szerepet játszott a szárazhűtési (dry-cooling) technológia alkalmazásában",
+        "Névleges kapacitása 120 megawatt (MW), négy egyenként 30 MW-os blokkal",
+        "A működéshez szükséges kőszenet Dél-Afrikából importálták",
+        "Jelenleg már csak 'készenléti' (stand-by) és csúcsra járatási célokat szolgál",
+        "A namíbiai NamPower nemzeti energiaszolgáltató tulajdonában van"
+      ]
+    },
+    {
+      "id": "ruacana-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "A Ruacana Vízerőmű Namíbia energiaellátásának legfontosabb pillére, egy gigantikus földalatti létesítmény a Kunene folyó völgyében, az angolai határon. A hatalmas, sziklába vájt csarnokokban négy óriási Francis-turbina kapott helyet, amelyek összesen 347 megawatt (MW) villamos energiát képesek előállítani, kihasználva a Ruacana-vízesés drámai, 134 méteres szintkülönbségét. Bár az erőmű kulcsfontosságú, termelése nagyban függ a Kunene folyó szezonális vízhozamától: a száraz, téli hónapokban a teljesítménye gyakran jelentősen visszaesik, míg a tavaszi áradások idején maximális kapacitáson pörög. Fizika K7 — mozgási energia és vízerőművek",
+      "factsAdvanced": [
+        "Namíbia legnagyobb energiatermelő létesítménye, 347 MW beépített kapacitással",
+        "A Kunene folyó völgyében, mélyen a föld alatt épült",
+        "1978-ban állították üzembe az első turbinákat (az utolsót 2012-ben adták hozzá)",
+        "Az angolai oldalon fekvő Calueque-gát szabályozza a vízhozamát",
+        "Működése rendkívül sebezhető az aszályos időszakokban",
+        "A megtermelt áramot az egész országban, több száz kilométeres távolságra továbbítják"
+      ]
+    },
+    {
+      "id": "kudu-gasfeld-economic-v2",
+      "descriptionAdvanced": "A Kudu gázmező Namíbia partjaitól mintegy 130 kilométerre, az Atlanti-óceán mélyén, 170 méteres vízmélységben található. Ezt a hatalmas földgázkészletet még 1974-ben fedezték fel, de a kitermelés évtizedeken át váratott magára a magas infrastrukturális költségek és az ingadozó energiaárak miatt. A tervek szerint a tengerfenéken megtermelt gázt egy tenger alatti csővezetéken (pipeline) keresztül juttatnák el a szárazföldre, Oranjemund közelébe, ahol egy nagy kapacitású CCGT (kombinált ciklusú) gázerőművet fűtenének vele. Bár a projekt ('Kudu Gas-to-Power') lassan halad, Namíbia számára hatalmas potenciált jelent, hogy függetlenné váljon az áramimporttól. Kémia K8 — fosszilis energiahordozók és gázmezők",
+      "factsAdvanced": [
+        "A Kudu gázmezőt 1974-ben fedezték fel az Oranje-medencében",
+        "A becsült földgázkészlet meghaladja a 1,3 billió köblábat",
+        "Körülbelül 130 kilométerre fekszik Oranjemundtól az óceánban",
+        "Tervek szerint egy 800 MW-os szárazföldi gázerőművet (Kudu Power Station) látna el",
+        "A kiépítés magas költségei miatt a fejlesztés többször is elakadt",
+        "Namíbia legígéretesebb projektje az energiafüggetlenség felé"
+      ]
+    },
+    {
+      "id": "omburu-solarkraftwerk-economic-v2",
+      "descriptionAdvanced": "Az Omburu Naperőmű egy mérföldkő Namíbia megújuló energia szektorában, amely Omaruru városa közelében épült fel 2015-ben. Az üzem az ország első nagyszabású (utility-scale), kereskedelmi célú napelemparkja volt, amelyet a francia InnoSun vállalat valósított meg. Az erőmű több mint 33 000 fotovoltaikus panellel rendelkezik, amelyek beépített napkövető (tracking) rendszerük révén egész nap a Nap felé fordulnak, mintegy 20%-kal megnövelve ezzel a hatékonyságukat a fix panelekhez képest. A létesítmény évi 13 500 megawattóra (MWh) tiszta energiát táplál be a NamPower hálózatába, csökkentve a drága dél-afrikai szénáram-importot. Fizika K7 — fotovoltaikus energia és napkövető rendszerek",
+      "factsAdvanced": [
+        "Omaruru közelében épült fel, és 2015 májusában adták át",
+        "Névleges beépített kapacitása 4,5 megawatt (MW)",
+        "Namíbia legelső hálózati szintű (utility-scale) független napenergia-projektje",
+        "Egytengelyes (single-axis) napkövető technológiát használ",
+        "Több mint 33 000 vékonyrétegű napelemes panelt telepítettek a területen",
+        "Körülbelül 20 000 namíbiai lakos éves áramszükségletét fedezi"
+      ]
+    },
+    {
+      "id": "erongo-entsalzungsanlage-economic-v2",
+      "descriptionAdvanced": "Az Erongo Sótalanító (Erongo Desalination Plant) Fekete-Afrika legnagyobb fordított ozmózissal (reverse osmosis) működő tengervíz-sótalanító üzeme, amely Swakopmundtól 30 kilométerre északra, Wlotzkasbaken közelében épült. Eredetileg a francia Areva cég (ma Orano) építette 2010-ben a Trekkopje uránbánya hatalmas vízigényének kielégítésére. Mivel a bánya sosem indult be teljesen, az üzem felesleges kapacitását felajánlották a NamWater állami vízszolgáltatónak, amely így képes friss ivóvízzel ellátni Swakopmund és Walvis Bay lakosságát, valamint a Rössing és Husab bányákat. A technológia kiváló minőségű, iható vizet állít elő a zord Atlanti-óceán vizéből. Kémia K8 — fordított ozmózis és víztisztítás",
+      "factsAdvanced": [
+        "A legnagyobb fordított ozmózist használó üzem Szubszaharai Afrikában",
+        "Kapacitása eléri az évi 20 millió köbméter sótalanított vizet",
+        "Eredetileg a Trekkopje uránbánya ellátására épült 2010-ben",
+        "Jelentős szerepet játszik az Erongo partvidék (pl. Swakopmund) ivóvízellátásában",
+        "A francia érdekeltségű Orano bányászati vállalat tulajdona",
+        "Technológiája három lépcsőből áll: szűrés, ozmózis és újra-ásványosítás"
+      ]
+    },
+    {
+      "id": "meatco-fleischfabrik-economic-v2",
+      "descriptionAdvanced": "A Meatco (Meat Corporation of Namibia) az ország legnagyobb, állami hátterű húsfeldolgozó és -exportáló vállalata, amelynek központi és legkorszerűbb gyára Windhoekban működik. Namíbiában a szarvasmarha-tenyésztés a mezőgazdaság gerince; a Meatco a természetes, hormonoktól mentes, szabadon legeltetett (free-range) marhahúst dolgozza fel. A gyár kiváló állat-egészségügyi és minőség-ellenőrzési sztenderdjeinek (pl. FAN Meat rendszer) köszönhetően a namíbiai marhahús keresett prémium termék az Európai Unióban és újabban Kínában is. A vállalat fontos szerepet játszik mind a nagy kereskedelmi farmerek, mind az északi kommunális gazdák megélhetésének biztosításában. Biológia K7 — élelmiszerbiztonság és állattenyésztés",
+      "factsAdvanced": [
+        "A Meat Corporation of Namibia a legnagyobb húsipari vállalat az országban",
+        "A Windhoeki feldolgozóüzem exportengedéllyel rendelkezik az Európai Unió felé",
+        "Kizárólag hormon- és antibiotikummentes, szabadtartású marhahúst dolgoz fel",
+        "A FAN (Farm Assured Namibian) Meat rendszer biztosítja a nyomonkövethetőséget",
+        "Fő profiljuk a marhahús, de vadhúst és birkát is feldolgoznak",
+        "Jelentős munkaadó és a namíbiai agrárexport egyik legfőbb motorja"
+      ]
+    },
+    {
+      "id": "namibia-brauereien-economic-v2",
+      "descriptionAdvanced": "A Namíbiai Sörfőzdék (Namibia Breweries Limited - NBL) az ország egyik legsikeresebb és legismertebb vállalata, amely Windhoekban található. A vállalatot még az 1920-as években alapították a korábbi kisebb német főzdék összevonásával. A NBL arról híres, hogy a sörfőzés során ma is szigorúan betartják az 1516-os német Tisztasági Törvényt (Reinheitsgebot), így termékeiket kizárólag vízből, malátázott árpából és komlóból készítik, mindenféle adalékanyag vagy kukoricakivonat nélkül. Leghíresebb márkájuk, a Windhoek Lager, nemcsak Afrikában, de Európában és Ausztráliában is elismert és díjnyertes prémium sör. Kémia K7 — erjedés és élelmiszeripar",
+      "factsAdvanced": [
+        "1920-ban alapították Carl List és Hermann Ohlthaver vezetésével",
+        "Szigorúan követik az 1516-os bajor Tisztasági Törvényt (Reinheitsgebot)",
+        "Az Ohlthaver & List (O&L) namíbiai cégcsoport zászlóshajója",
+        "Legismertebb nemzetközi márkájuk a Windhoek Lager és a Tafel Lager",
+        "A sörfőzde saját árpamalátát importál, nagyrészt Európából",
+        "Erős hangsúlyt fektetnek a fenntarthatóságra, saját napelemparkkal rendelkeznek"
+      ]
+    },
+    {
+      "id": "ebh-namibia-economic-v2",
+      "descriptionAdvanced": "Az EBH Namibia (Elgin Brown & Hamer) a Walvis Bay kikötőjében működő kulcsfontosságú hajójavító és karbantartó ipartelep. A vállalat jelentőségét a három hatalmas úszódokk (floating docks) adja, amelyek közül a legnagyobb, a Namdock 3, lenyűgöző méretű és kapacitású; képes akár hatalmas óceánjárókat és olajfúrótornyokat kiszolgáló platformokat (rigs) is kiemelni a vízből a hajótest karbantartásához. Az EBH Namibia révén Walvis Bay Afrika nyugati partvidékének egyik legfontosabb tengerészeti karbantartó központjává vált, kihasználva a Nyugat-Afrikai olajipar (pl. Angola, Nigéria) közelségét és a namíbiai politikai stabilitást. Fizika K8 — felhajtóerő és úszódokkok",
+      "factsAdvanced": [
+        "A legnagyobb hajójavító vállalat (ship repair) Namíbiában",
+        "Három nagyméretű úszódokkal (floating dock) rendelkezik Walvis Bay-ben",
+        "A Namdock 3 úszódokk akár 15 000 tonnás hajókat is képes a magasba emelni",
+        "Kiemelt partnere a nyugat-afrikai partoknál (offshore) működő olaj- és gáziparnak",
+        "A vállalat a Namport (Namíbiai Kikötői Hatóság) és magánbefektetők közös projektje",
+        "Képzett tengerészeti mérnököket és technikusokat foglalkoztat a régióból"
+      ]
+    },
+    {
+      "id": "namdia-diamantenhandel-economic-v2",
+      "descriptionAdvanced": "A Namdia (Namibian Desert Diamonds) a namíbiai kormány által 2016-ban létrehozott, 100%-ban állami tulajdonú vállalat, amelynek célja a namíbiai gyémántok független, nemzetközi piacon történő értékesítése. Korábban az ország gyémántjainak szinte egészét a De Beers (DTC) hálózatán keresztül adták el, de a Namdia megalapításával az állam jogot formált a Namdeb által kitermelt gyémántok évi 15%-ának ('purchase entitlement') közvetlen értékesítésére. A windhoeki székhelyű Namdia célja, hogy feltérképezze az árakat a világpiacon és maximalizálja az ország bevételeit Namíbia kivételes minőségű, alluviális gyémántjaiból. Földrajz K8 — nemzetközi kereskedelem és nyersanyagpiac",
+      "factsAdvanced": [
+        "2016-ban alapította a Namíbiai Kormány állami vállalatként",
+        "A Namdeb Holdings teljes gyémánttermelésének 15%-át vásárolhatja meg",
+        "Fő célja a gyémántok független (De Beers-en kívüli) globális értékesítése (price discovery)",
+        "Namíbia elsősorban rendkívül értékes ékszergyémántokat (gem quality) termel",
+        "Központja és szigorúan őrzött válogatóközpontja Windhoekban található",
+        "Az itt értékesített gyémántok többnyire tengeri (offshore) kitermelésből származnak"
+      ]
+    },
+    {
+      "id": "dundee-precious-metals-tsumeb-economic-v2",
+      "descriptionAdvanced": "A tsumebi rézkohó (Dundee Precious Metals Tsumeb) Namíbia egyik legrégebbi, még ma is működő nehézipari létesítménye. Eredetileg a helyi bányákból származó érc feldolgozására épült, ám manapság már komplex, globális szereplő: a világ minden tájáról (pl. Bulgáriából, Dél-Amerikából) importál olyan speciális, magas arzéntartalmú réz-koncentrátumokat, amelyeket más finomítók környezetvédelmi okokból nem tudnak feldolgozni. A kanadai tulajdonos az elmúlt években modernizálta az üzemet; kiépítettek egy kénsavgyárat, amely a mérgező gázokat értékes ipari savvá alakítja, drasztikusan javítva ezzel a város levegőminőségét és az ipari folyamat fenntarthatóságát. Kémia K8 — kohászat és kénsavgyártás",
+      "factsAdvanced": [
+        "A kanadai Dundee Precious Metals (DPM) vállalat tulajdonában áll",
+        "Képes rendkívül komplex, magas arzéntartalmú rézércek (blister copper) feldolgozására",
+        "Egy új kénsavüzem (sulphuric acid plant) telepítésével csökkentették a légszennyezést",
+        "Az itt előállított kénsavat a hazai urán- és cinkbányák számára értékesítik",
+        "A feldolgozandó réz-sűrítmény jelentős részét Bulgáriából (Chelopech) importálják",
+        "A kohó már 1962 óta meghatározza Tsumeb városának gazdaságát"
+      ]
+    },
+    {
+      "id": "kolmanskuppe-history-v2",
+      "descriptionAdvanced": "A Kolmanskuppe (Kolmanskop) a világ egyik leghíresebb és legfotogénebb szellemvárosa a Namíb-sivatag mélyén, Lüderitztől alig tíz kilométerre. A települést 1908-ban alapították, amikor a közeli vasútépítés során gyémántokat találtak a felszíni homokban. A hirtelen jött gazdagság hihetetlen luxust eredményezett: a kíméletlen sivatag közepén a város elegáns bajor stílusú villákkal, bálteremmel, tekepályával, sőt a déli félteke első röntgengépével felszerelt kórházzal büszkélkedhetett. Ahogy az első világháború után a leggazdagabb gyémántmezők kimerültek, a lakosok fokozatosan elhagyták, és 1956-ra teljesen elnéptelenedett. Ma a dűnék vándorló homokja nyeli el a szobákat, drámai és kísérteties látványt nyújtva a turistáknak. Történelem K8 — gyémántláz és elhagyott városok",
+      "factsAdvanced": [
+        "1908-ban alapították, miután Zacharias Lewala vasúti munkás gyémántot talált",
+        "A német gyarmati idők luxusát hozta el a Namíb-sivatag zord vidékére",
+        "Itt üzemeltették a déli félteke első röntgengépét (részben a gyémántlopások kiszűrésére)",
+        "Az 1920-as évektől, a délebbi gazdagabb lelőhelyek (Oranjemund) felfedezése után hanyatlani kezdett",
+        "1956-ra a városka utolsó lakója is távozott, teljesen szellemvárossá vált",
+        "Jelenleg Namíbia egyik legnépszerűbb, a Namdeb által kezelt turisztikai látványossága"
+      ]
+    },
+    {
+      "id": "twyfelfontein-history-v2",
+      "descriptionAdvanced": "Twyfelfontein (khoekhoe nevén: /Ui-//aes, azaz 'Ugráló Vízlyuk') egy hatalmas kiterjedésű, vöröses homokkő-völgy Damaraland területén, amely Namíbia egyik legfontosabb kulturális kincse. Ezen a kietlen vidéken több mint 2 500, a sziklába vésett (petroglifa) ősi ábrázolás található, amelyeket a vadászó-gyűjtögető san (busman) közösségek sámánjai készítettek az elmúlt 2 000 – 6 000 év során. A sziklarajzok orrszarvúkat, elefántokat, zsiráfokat, struccokat és emberi alakokat ábrázolnak; feltehetően rituális transzállapotban, az esőcsináló ceremóniák során készültek. A páratlanul gazdag gyűjtemény miatt a terület 2007-ben az ország első UNESCO Világörökségi helyszíne lett. Történelem K7 — afrikai őstörténet és sziklaművészet",
+      "factsAdvanced": [
+        "Namíbia legelső UNESCO Világörökségi helyszíne (2007-ben kapta meg a címet)",
+        "Több mint 2 500 katalogizált sziklavéset (petroglifa) található a területen",
+        "A véseteket elsősorban a san (busman) sámánok készítették rituális célokból",
+        "Az ábrázolások korát 2 000 és 6 000 év közé becsülik a kutatók",
+        "Az afrikaans 'Twyfelfontein' név jelentése 'Kétes Forrás', a helyi vízhozam bizonytalansága miatt",
+        "Legismertebb vésetei közé tartozik a 'Táncoló Kudu' és az 'Oroszlánember'"
+      ]
+    },
+    {
+      "id": "christuskirche-history-v2",
+      "descriptionAdvanced": "A windhoeki Krisztus-templom (Christuskirche) az ország legikonikusabb és legtöbbet fényképezett történelmi épülete, amely a főváros szívében, egy dombtetőn áll. A lutheránus templomot 1910-ben, a herero és nama háborúk lezárulta után szentelték fel a "béke templomaként". Az épület stílusa különleges keveréke a neoromán és az Art Nouveau (Jugendstil) építészetnek. A falakhoz a helyi Avis-hegységből származó kvarchomokkövet használtak, az építőanyagok és díszítőelemek nagy része – köztük a harangok, az orgona és az eredeti ólomüveg ablakok, amelyeket II. Vilmos császár adományozott – azonban egyenesen Németországból érkezett hajón. Történelem K8 — gyarmati építészet és szimbolizmus",
+      "factsAdvanced": [
+        "1910-ben szentelték fel, a herero és nama háborúk végét követően",
+        "Gottlieb Redecker német építész tervezte neoromán és szecessziós stílusban",
+        "Az oltár fölötti festett ólomüveg ablakokat II. Vilmos német császár adományozta",
+        "Az épület falait helyben bányászott homokkőből (quartz sandstone) emelték",
+        "A három bronzharang Németországból származik, nevük: Harmónia, Béke és Dicsőség",
+        "A templom ma is a németajkú lutheránus gyülekezet aktív központja"
+      ]
+    },
+    {
+      "id": "alte-feste-history-v2",
+      "descriptionAdvanced": "Az Alte Feste (Öreg Erőd) Windhoek legrégebbi máig álló épülete, amely a város modernkori történelmének kezdetét jelzi. Curt von François őrnagy, a német gyarmati erők (Schutztruppe) parancsnoka építtette 1890-ben, mint a német hatalom központját és egy biztonságos bázist, amely éket vert a viszálykodó nama és herero törzsek közé. Katonai bástyája vastag falakkal és tágas belső udvarral rendelkezik. A 20. század során az épület funkciója többször változott: volt katonai bázis, dél-afrikai iskolai kollégium, végül az 1960-as évektől múzeummá (National Museum of Namibia) alakították át. Udvarán sokáig állt az ikonikus Lovas Emlékmű (Reiterdenkmal), amit a 2010-es években áthelyeztek. Történelem K8 — gyarmati erődítmények Afrikában",
+      "factsAdvanced": [
+        "Windhoek városának legrégebbi fennmaradt kőépülete",
+        "1890. október 18-án tette le az alapkövét Curt von François német őrnagy",
+        "Eredetileg a német gyarmati haderő (Schutztruppe) főhadiszállása volt",
+        "1962-ben nemzeti műemlékké nyilvánították és múzeumként nyitott meg",
+        "Belső udvarán helyezték el a híres (és sokat vitatott) Reiterdenkmal lovasszobrot",
+        "Az épület egy stratégiai magaslaton áll, ahonnan belátni az egész városközpontot"
+      ]
+    },
+    {
+      "id": "heldenacker-history-v2",
+      "descriptionAdvanced": "A Hősök Tere (Heroes' Acre) egy grandiózus, észak-koreai építőipari cégek által tervezett és épített nemzeti emlékmű Windhoek déli határában, az Auas-hegység oldalában. A 2002-ben Sam Nujoma elnök által felavatott gigantikus komplexum célja, hogy örök emléket állítson a namíbiai függetlenségi háború mártírjainak és az ország hőseinek. A szimmetrikus, obeliszkkel, öröklánggal és egy hatalmas ismeretlen katonát ábrázoló bronzszoborral díszített építményhez hosszú lépcsősor vezet fel. Bár építészeti stílusa (szocialista realizmus) vitákat váltott ki, az emlékmű a független Namíbia nemzeti büszkeségének egyik legfőbb zarándokhelye. Történelem K8 — nemzeti emlékezet és emlékművek",
+      "factsAdvanced": [
+        "2002. augusztus 26-án (Hősök Napján) avatták fel Windhoek közelében",
+        "Az észak-koreai Mansudae Overseas Projects vállalat tervezte és kivitelezte",
+        "Középpontjában egy 8 méteres ismeretlen katona bronzszobra áll",
+        "Hatalmas, fehér márvánnyal borított obeliszkje 34 méter magas",
+        "Itt található számos jelentős namíbiai történelmi személy és szabadságharcos sírja",
+        "A projekt a becslések szerint több millió amerikai dollárba került"
+      ]
+    },
+    {
+      "id": "haifischinsel-history-v2",
+      "descriptionAdvanced": "A Cápa-sziget (Shark Island, a helyiek nyelvén Haifischinsel) Lüderitz öblében található; régen valódi sziget volt, ma már egy mesterséges gáton keresztül összeköttetésben áll a szárazfölddel. Festői, tengerparti szépsége mögött Namíbia történelmének egyik legsötétebb fejezete húzódik: az 1904–1908 közötti herero és nama felkelés idején a német gyarmatosítók itt működtették az egyik leghírhedtebb koncentrációs tábort (Cápa-szigeti haláltábor). A kíméletlen szél, az éhezés és a betegségek miatt a hadifoglyok többsége (több ezer ember) életét vesztette a szigeten. Ma népszerű kempingezőhely, ahol csupán néhány szerény emléktábla emlékeztet a sötét múltra. Történelem K8 — a namíbiai népirtás helyszínei",
+      "factsAdvanced": [
+        "Lüderitz öblében fekszik, 1906 óta mesterséges gát köti össze a szárazfölddel",
+        "1905 és 1907 között a németek hírhedt koncentrációs táborként használták",
+        "Főként Nama és Herero foglyokat, köztük nőket és gyermekeket tartottak itt fogva",
+        "Több ezer afrikai fogoly vesztette életét az extrém időjárás és a borzalmas körülmények miatt",
+        "Cornelius Frederiks nama vezető emlékművét is itt állították fel",
+        "Jelenleg a Namíbiai Vadvédelmi Hivatal (NWR) által üzemeltetett kempingként funkcionál"
+      ]
+    },
+    {
+      "id": "felsenkirche-history-v2",
+      "descriptionAdvanced": "A Sziklatemplom (Felsenkirche) Lüderitz egyik legikonikusabb épülete, amely a Gyémánt-hegy (Diamantberg) gránitsziklájára épült 1912-ben. Az épület angol gótikus (Perpendicular) stílusjegyekkel büszkélkedhet, amely eltér az akkori német gyarmati trendektől. A templomot javarészt a közeli kolmanskopi gyémántmezők bevételeiből finanszírozták az evangélikus lutheránus német telepesek. Meredek elhelyezkedése miatt lenyűgöző panorámát nyújt a városra és az Atlanti-óceánra. A templom különlegessége a gyönyörű ólomüveg ablak (amelyet szintén a német császár, II. Vilmos adományozott) és a kiváló akusztika. Történelem K7 — vallási építészet a gyarmatokon",
+      "factsAdvanced": [
+        "1912-ben épült a Diamantberg (Gyémánt-hegy) magaslatán, Lüderitzben",
+        "A német lutheránus gyülekezet támogatásával épült fel az angol gótika stílusában",
+        "Az oltár feletti, Jézust ábrázoló ólomüveg ablakot II. Vilmos császár küldte Németországból",
+        "Nevét (Sziklatemplom) arról kapta, hogy az alapokat a tömör gránitsziklába vájták",
+        "Albert Bause építész tervezte, aki számos más helyi épületet is megálmodott",
+        "1978-ban nemzeti műemlékké nyilvánították a történelmi épületet"
+      ]
+    },
+    {
+      "id": "schloss-duwisib-history-v2",
+      "descriptionAdvanced": "A Duwisib Kastély egy szürreális látványt nyújtó, vörös kőből épült erődítmény a Namíb-sivatag peremén, Maltahöhe városától nem messze. Ezt a német lovagvárakat idéző épületet 1909-ben építtette Hansheinrich von Wolf báró – a német Schutztruppe egykori tisztje – és amerikai felesége, Jayta Humphreys. A kastély berendezéséhez szükséges építőanyagokat, bútorokat és műtárgyakat hajón hozatták Németországból Lüderitzbe, ahonnan ökrösszekerekkel vontatták a sivatagon keresztül a helyszínre. A báró tragikus módon 1916-ban az I. világháború európai hadszínterén életét vesztette, és felesége soha nem tért vissza a kastélyba, amely ma állami múzeumként látogatható. Történelem K8 — európai arisztokrácia Afrikában",
+      "factsAdvanced": [
+        "1909-ben épült a Namíb-sivatag zord peremvidékén",
+        "Hansheinrich von Wolf báró és gazdag amerikai felesége álmodta meg",
+        "A tervek elkészítésével Wilhelm Sander híres német építészt bízták meg",
+        "Az összes bútort és a tetőcserepeket egyenesen Németországból importálták",
+        "Von Wolf a kastély mellett egy ménest (lófajtákat keresztezett) is alapított",
+        "A báró 1916-os halála óta a kastély funkcióját vesztette, ma múzeumként működik"
+      ]
+    },
+    {
+      "id": "weisse-dame-history-v2",
+      "descriptionAdvanced": "A Fehér Hölgy (White Lady) Namíbia legismertebb és legtöbbet vitatott ősi sziklafestménye a Brandberg-hegy (Tűzhegy) mélyén, a Maack-barlangban található. A festményt 1918-ban fedezte fel Reinhard Maack német felfedező. Az alak nevét Henri Breuil abbé, egy híres francia régész adta évtizedekkel később, aki úgy vélte, hogy a központi figura európai vagy mediterrán vonásokkal (görög vagy krétai) rendelkezik, ami vad elméleteket szült a korai kapcsolatokról. A modern régészek és antropológusok azonban egyetértenek abban, hogy a kép körülbelül 2000 éves, és valójában nem egy hölgyet, hanem egy san (busman) férfit (sámánt) ábrázol, akit testfestés vagy fehér hamu borít, egy rituális gyógyító tánc (trance dance) közben. Történelem K8 — régészeti tévhitek és sziklaművészet",
+      "factsAdvanced": [
+        "A hatalmas Brandberg-hegyegyüttes (Tsisab-szurdok) egyik barlangjában (Maack) található",
+        "Reinhard Maack földrajztudós és felfedező akadt rá véletlenül 1918-ban",
+        "Hosszú ideig tévesen egy európai női alaknak hitték a francia Henri Breuil elmélete nyomán",
+        "A modern tudomány szerint a központi figura egy san (busman) férfi sámán",
+        "A festményen látható alak íjat, nyilakat és talán egy botot (sámánbot) tart a kezében",
+        "A freskó megközelítőleg 2 000 éves lehet, és az esőhozó rituálékhoz kapcsolódik"
+      ]
+    },
+    {
+      "id": "hoba-meteorit-history-v2",
+      "descriptionAdvanced": "A Grootfontein mellett található Hoba-meteorit a maga nagyjából 60 tonnás becsült tömegével a Földön valaha felfedezett legnagyobb egyben maradt meteorit, egyúttal a legnagyobb ismert természetes vastömb bolygónkon. A csillagászati ritkaság körülbelül 80 000 évvel ezelőtt csapódott a térségbe, de szokatlanul lapos alakja miatt (olyan, mint egy pattogó kavics a vizen) feltehetően alacsony szögben ért földet, így nem hagyott maga után hatalmas krátert. A meteoritot 1920-ban egy farmer fedezte fel véletlenül szántás közben, amikor az ekéje megakadt a fémes kőzetben. Összetétele mintegy 82% vas, 16% nikkel, nyomokban kobaltot is tartalmaz. Csillagászat K8 — űrbéli eredetű objektumok a Földön",
+      "factsAdvanced": [
+        "A világ legnagyobb ismert, egyben maradt vasmeteoritja (tömege kb. 60 tonna)",
+        "Grootfonteintől 24 kilométerre nyugatra fekszik a Hoba West farmon",
+        "Körülbelül 80 000 évvel ezelőtt csapódott a namíbiai talajba",
+        "1920-ban egy afrikáner farmer, Jacobus Hermanus Brits találta meg szántás közben",
+        "Anyagösszetétele ritka (ataxit): 82,4% vas, 16,4% nikkel, 0,76% kobalt",
+        "1955-ben nyilvánították nemzeti műemlékké, hogy megakadályozzák a darabok letörését"
+      ]
+    },
+    {
+      "id": "franketurm-history-v2",
+      "descriptionAdvanced": "A Franke-torony (Franketurm) Omaruru városának legismertebb történelmi nevezetessége, amelyet 1908-ban emeltek a helyi német közösség finanszírozásában. A torony Victor Franke százados (későbbi parancsnok) dicsőségére épült, aki 1904 februárjában maroknyi csapata (a 2. Feldkompanie) élén felmentette az Omaruruban rekedt és herero harcosok által hetekig ostromlott német helyőrséget. Az erődítmény-jellegű, masszív kőtorony egykor fontos stratégiai megfigyelőpont volt az Omaruru folyó felett. Ma emlékműként és kilátóként funkcionál; a csúcsára vezető meredek falépcsők megmászása után kiváló kilátás nyílik az Erongo-hegység felé. Történelem K8 — a herero-német háborúk",
+      "factsAdvanced": [
+        "1908-ban emelték Omaruru városában a herero háborúk (1904) emlékére",
+        "Nevét Victor Franke századosról, a német gyarmati csapatok (Schutztruppe) tisztjéről kapta",
+        "Victor Franke csapatai 1904-ben törték át a várost védő herero ostromgyűrűt",
+        "A masszív kőtorony eredetileg katonai megfigyelő és védelmi funkciókat látott el",
+        "Az emlékművet a helyi német nyelvű lakosság adományaiból építették",
+        "1964 óta a namíbiai nemzeti örökség (National Monument) hivatalos része"
+      ]
+    },
+    {
+      "id": "fort-namutoni-history-v2",
+      "descriptionAdvanced": "A Namutoni Erőd a hatalmas Etosha Nemzeti Park keleti oldalának legfőbb turisztikai központja, amely eredetileg egy korai német gyarmati katonai helyőrség volt. A hófehér, bástyás, 'Beau Geste' stílusú építményt a 19. század végén emelték, elsősorban a rinderpest (marhavész) terjedésének megakadályozására és az északi owambo királyságok fegyverkereskedelmének ellenőrzésére. Leghíresebb ütközete 1904-ben zajlott, amikor 500 owambo harcos (Nehale király vezetésével) megtámadta a mindössze 7 fős német helyőrséget, akik az éjszaka leple alatt kénytelenek voltak elmenekülni. Az újjáépített erőd ma a nemzeti park egyik elegáns szafari tábora, kilátótornyaival és hangulatos belső udvarával. Történelem K7 — katonai erődökből turisztikai központok",
+      "factsAdvanced": [
+        "Az Etosha Nemzeti Park keleti bejárata közelében fekvő fehér, afrikai 'sivatagi erőd'",
+        "1896-ban épült elsősorban az állatjárványok (rinderpest) északról délre terjedésének kontrollálására",
+        "1904-ben az Ndonga királyság (owambo) harcosai sikeresen megostromolták",
+        "Az ostrom után a németek újjáépítették, és később rendőrőrsként is szolgált",
+        "A második világháború során brit hadifogolytáborként is funkcionált",
+        "Az 1950-es években újították fel, ma az Etosha park egyik legnépszerűbb turistatábora"
+      ]
+    }
+  ]
+}

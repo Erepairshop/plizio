@@ -1,0 +1,227 @@
+[
+  {
+    "id": "mako",
+    "nameEn": "Makó",
+    "descEn": "City near the Romanian border, famous for its onions."
+  },
+  {
+    "id": "szekesfehervar",
+    "nameEn": "Székesfehérvár",
+    "descEn": "Székesfehérvár, one of Hungary's oldest cities, served as the coronation and burial site for Hungarian kings during the Middle Ages. Located in central Hungary, it is now a major industrial and cultural hub. Visitors can explore the ruins of the coronation basilica in the Ruin Garden or admire the fairytale-like Bory Castle, built by an artist in the 20th century. The Baroque old town, with its monuments and museums, offers a journey through Hungarian history."
+  },
+  {
+    "id": "dunaujvaros",
+    "nameEn": "Dunaújváros",
+    "descEn": "Industrial city on the Danube, built in the 1950s."
+  },
+  {
+    "id": "gardony",
+    "nameEn": "Gárdony",
+    "descEn": "City on the shores of Lake Velence, a popular holiday destination."
+  },
+  {
+    "id": "gyor",
+    "nameEn": "Győr",
+    "descEn": "Győr, the 'City of Rivers,' is located in northwestern Hungary at the confluence of the Rába, Rábca, and Danube rivers. The city is a major economic hub, home to one of the world's largest Audi engine plants. Its historic center charms visitors with Baroque architecture, cozy alleys, and the majestic Basilica on Káptalan Hill. Győr is also a key transportation hub situated between Budapest, Vienna, and Bratislava."
+  },
+  {
+    "id": "sopron",
+    "nameEn": "Sopron",
+    "descEn": "Sopron, the 'Most Loyal City' of Hungary, is located in the far west of the country on the border with Austria. The city is famous for its exceptionally well-preserved medieval old town and its status as a major wine-growing region, particularly for the Kékfrankos (Blaufränkisch) variety. Its landmark is the Fire Tower, offering a magnificent view over the rooftops and surrounding vineyards. Sopron is also a symbol of European unity, as it hosted the Pan-European Picnic in 1989."
+  },
+  {
+    "id": "pannonhalma",
+    "nameEn": "Pannonhalma",
+    "descEn": "Historic Benedictine abbey on a hill, one of the oldest monuments in Hungary."
+  },
+  {
+    "id": "debrecen",
+    "nameEn": "Debrecen",
+    "descEn": "Debrecen is the second largest city in Hungary and the economic and cultural center of the Great Hungarian Plain. Historically, the city played a vital role in the Protestant Reformation and is often referred to as 'the Calvinist Rome.' At the heart of the city stands the imposing Reformed Great Church, a symbol of Hungarian Protestantism. Debrecen attracts visitors with its thermal baths, the famous Flower Carnival, and the nearby Hortobágy National Park."
+  },
+  {
+    "id": "hortobagy",
+    "nameEn": "Hortobágy",
+    "descEn": "Hungary's largest national park, protecting the traditional Puszta landscape."
+  },
+  {
+    "id": "hajduszoboszlo",
+    "nameEn": "Hajdúszoboszló",
+    "descEn": "Famous spa town with the largest bath complex in Europe."
+  },
+  {
+    "id": "eger",
+    "nameEn": "Eger",
+    "descEn": "Eger, one of Hungary's most beautiful Baroque cities, is located in the northeastern part of the country at the foot of the Bükk Mountains. The city is famous for its heroic castle, which withstood an Ottoman siege in 1552, and its world-class wines, particularly the 'Bull's Blood of Eger' (Egri Bikavér). Visitors can climb the northernmost minaret from the Turkish era or relax in the historic thermal baths. The picturesque old town, with its churches and museums, makes Eger one of Hungary's most popular travel destinations."
+  },
+  {
+    "id": "gyongyos",
+    "nameEn": "Gyöngyös",
+    "descEn": "City at the foot of the Mátra mountains, the 'Gateway to the Mátra'."
+  },
+  {
+    "id": "matra",
+    "nameEn": "Mátra",
+    "descEn": "Mountain range in northern Hungary, home to the country's highest peak."
+  },
+  {
+    "id": "szolnok",
+    "nameEn": "Szolnok",
+    "descEn": "Szolnok is located in the heart of Hungary at the confluence of the Zagyva and Tisza rivers, serving as a major transportation hub. The city is famous for its vibrant riverfront, the modern Tiszavirág Bridge, and its rich aviation heritage. Visitors can explore the impressive 'RepTár' aviation museum or relax in the city's thermal baths. Szolnok is also a significant cultural and sporting center in the Northern Great Plain region."
+  },
+  {
+    "id": "jaszbereny",
+    "nameEn": "Jászberény",
+    "descEn": "The cultural and economic center of the Jászság region."
+  },
+  {
+    "id": "kisujszallas",
+    "nameEn": "Kisújszállás",
+    "descEn": "City in the Nagykunság region with an agricultural character."
+  },
+  {
+    "id": "tatabanya",
+    "nameEn": "Tatabánya",
+    "descEn": "Tatabánya, located at the foot of the Gerecse Mountains, is a city with a strong industrial past that has evolved into a modern center. Its most iconic landmark is the Turul Monument, the largest bird statue in Europe, perched on a cliff high above the city. Nearby is the Szelim Cave, a significant archaeological site. Tatabánya also offers numerous opportunities for hiking and nature experiences in the surrounding mountains."
+  },
+  {
+    "id": "esztergom",
+    "nameEn": "Esztergom",
+    "descEn": "Esztergom, situated at the picturesque Danube Bend, is one of Hungary's most historically significant cities and the spiritual center of the country's Catholic Church. The city served as Hungary's first capital and was the birthplace of Saint Stephen, the first king. The cityscape is dominated by the monumental Basilica, the largest church in Hungary, which stands majestically on Castle Hill. Visitors can also explore the remains of the medieval Royal Palace and enjoy views across the Danube into Slovakia."
+  },
+  {
+    "id": "tata",
+    "nameEn": "Tata",
+    "descEn": "The 'City of Waters', known for its lakes and castle."
+  },
+  {
+    "id": "salgotarjan",
+    "nameEn": "Salgótarján",
+    "descEn": "City in a valley surrounded by mountains, former mining town."
+  },
+  {
+    "id": "balassagyarmat",
+    "nameEn": "Balassagyarmat",
+    "descEn": "Border town with Slovakia, known as the 'Bravest City'."
+  },
+  {
+    "id": "holloko",
+    "nameEn": "Hollókő",
+    "descEn": "A traditional Palóc village preserved as a living museum."
+  },
+  {
+    "id": "szentendre",
+    "nameEn": "Szentendre",
+    "descEn": "Szentendre, a picturesque town on the banks of the Danube north of Budapest, is famous for its vibrant artists' colony and Mediterranean atmosphere. The town was shaped in the 17th century by Serbian refugees, which is reflected in its Baroque architecture and numerous Orthodox churches. Today, Szentendre is a popular destination for art lovers, featuring countless galleries, museums, and charming craft shops. The nearby Skanzen, Hungary's largest open-air museum, provides deep insights into the country's traditional rural culture."
+  },
+  {
+    "id": "godollo",
+    "nameEn": "Gödöllő",
+    "descEn": "City near Budapest, famous for its royal palace."
+  },
+  {
+    "id": "vac",
+    "nameEn": "Vác",
+    "descEn": "Historic city at the Danube Bend with Baroque architecture."
+  },
+  {
+    "id": "visegrad",
+    "nameEn": "Visegrád",
+    "descEn": "Small town at the Danube Bend, famous for its medieval citadel."
+  },
+  {
+    "id": "kaposvar",
+    "nameEn": "Kaposvár",
+    "descEn": "Kaposvár, the 'City of Flowers and Painters,' is located in southwestern Hungary in the hilly Somogy region. The city is known for its well-kept parks, charming Neoclassical architecture, and rich cultural heritage. Kaposvár is the birthplace of the famous painter József Rippl-Rónai, whose legacy is preserved in the Rippl-Rónai Museum and his former villa. With its university and the renowned Csiky Gergely Theatre, the city serves as a major intellectual hub for the region."
+  },
+  {
+    "id": "siofok",
+    "nameEn": "Siófok",
+    "descEn": "The 'Capital of Lake Balaton', known for its vibrant nightlife and beaches."
+  },
+  {
+    "id": "balatonfoldvar",
+    "nameEn": "Balatonföldvár",
+    "descEn": "Popular resort town on the southern shore of Lake Balaton."
+  },
+  {
+    "id": "nyiregyhaza",
+    "nameEn": "Nyíregyháza",
+    "descEn": "Nyíregyháza, located in northeastern Hungary, is a dynamically growing city and the center of the Nyírség region. The city is best known for the Sóstó Zoo, widely regarded as one of the most beautiful and modern zoos in Europe. The Sóstógyógyfürdő district also features a popular thermal bath and an open-air museum showcasing the region's traditional rural architecture. Nyíregyháza is a significant educational hub and a gateway to the cultural treasures of the northeast."
+  },
+  {
+    "id": "mateszalka",
+    "nameEn": "Mátészalka",
+    "descEn": "City in eastern Hungary, known as the 'City of Light'."
+  },
+  {
+    "id": "vasarosnameny",
+    "nameEn": "Vásárosnamény",
+    "descEn": "The 'Heart of Bereg', a city on the Tisza river."
+  },
+  {
+    "id": "szekszard",
+    "nameEn": "Szekszárd",
+    "descEn": "The smallest county capital in Hungary, famous for its red wines."
+  },
+  {
+    "id": "paks",
+    "nameEn": "Paks",
+    "descEn": "City on the Danube, known for Hungary's only nuclear power plant."
+  },
+  {
+    "id": "bonyhad",
+    "nameEn": "Bonyhád",
+    "descEn": "The center of the Völgység region, known for its enamel factory."
+  },
+  {
+    "id": "szombathely",
+    "nameEn": "Szombathely",
+    "descEn": "Szombathely, the oldest city in Hungary, was founded by the Romans in 43 AD as Savaria. Located in the western part of the country, the city boasts a continuous history of nearly 2,000 years and was once the capital of the province of Pannonia Superior. Visitors can explore Roman ruins at the Iseum, a sanctuary dedicated to the goddess Isis, and in the Ruin Garden. Szombathely is also famous as the birthplace of Saint Martin of Tours and celebrates its heritage annually with the Savaria Historical Carnival."
+  },
+  {
+    "id": "koszeg",
+    "nameEn": "Kőszeg",
+    "descEn": "Historic city on the Austrian border, known for its castle."
+  },
+  {
+    "id": "sarvar",
+    "nameEn": "Sárvár",
+    "descEn": "Popular spa town with a famous thermal bath and a Renaissance castle."
+  },
+  {
+    "id": "veszprem-city",
+    "nameEn": "Veszprém",
+    "descEn": "Veszprém, the 'City of Queens,' is located on the picturesque hills of the Bakony Forest near Lake Balaton. The city boasts a rich history, traditionally serving as the site where Hungarian queens were crowned. The well-preserved Castle District, perched on a steep cliff, offers stunning views and houses numerous historic buildings and museums. Veszprém was a European Capital of Culture in 2023 and is renowned for its vibrant cultural scene and music festivals."
+  },
+  {
+    "id": "balatonfured",
+    "nameEn": "Balatonfüred",
+    "descEn": "The oldest resort on Lake Balaton, known for its healing springs."
+  },
+  {
+    "id": "tihany",
+    "nameEn": "Tihany",
+    "descEn": "Peninsula in Lake Balaton, famous for its Benedictine abbey and lavender fields."
+  },
+  {
+    "id": "zalaegerszeg",
+    "nameEn": "Zalaegerszeg",
+    "descEn": "Zalaegerszeg, located in western Hungary on the banks of the Zala River, is a green city surrounded by the gentle hills of the Zala region. The city is known for its rich cultural heritage and its connection to the Hungarian oil industry. A highlight is the Göcsej Open-Air Museum, the first of its kind in Hungary, showcasing the region's traditional rural architecture. With the nearby Lake Gébárti and the Aquacity water park, Zalaegerszeg offers diverse leisure opportunities for nature and water lovers."
+  },
+  {
+    "id": "nagykanizsa",
+    "nameEn": "Nagykanizsa",
+    "descEn": "Important transport hub in southwestern Hungary."
+  },
+  {
+    "id": "keszthely",
+    "nameEn": "Keszthely",
+    "descEn": "The largest city on Lake Balaton, known for the Festetics Palace."
+  },
+  {
+    "id": "harkany",
+    "nameEn": "Harkány",
+    "descEn": "Famous spa town in southern Hungary, known for its sulfurous thermal water."
+  }
+]

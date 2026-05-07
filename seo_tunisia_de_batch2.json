@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tunis-cities-v2",
+      "descriptionAdvanced": "Tunis ist die pulsierende Hauptstadt Tunesiens und vereint jahrtausendealte Geschichte mit moderner nordafrikanischer Urbanität. Die Stadt ist durch die berühmte Medina, ein UNESCO-Weltkulturerbe, und die koloniale Neustadt geprägt. Während die Medina mit verwinkelten Gassen und traditionellen Souks lockt, bietet die Avenue Habib Bourguiba breite Boulevards und europäische Architektur. Tunis ist heute das wirtschaftliche und kulturelle Herz des Landes. In der Plizio-Geografie-Klasse K6 lernen Schüler die Bedeutung von Metropolen in Nordafrika kennen.",
+      "factsAdvanced": [
+        "Tunis wurde im 9. Jahrhundert zur Hauptstadt des Aghlabiden-Reiches.",
+        "Die Medina von Tunis zählt über 700 historische Monumente.",
+        "Der Bahnhof Tunis-Marine verbindet die Stadt mit der Vorstadt La Marsa.",
+        "Die Zitouna-Moschee ist eine der ältesten und bedeutendsten Moscheen in Nordafrika.",
+        "Das moderne Tunis entstand primär während der französischen Protektoratszeit.",
+        "Die Stadt liegt strategisch günstig am Golf von Tunis."
+      ]
+    },
+    {
+      "id": "ariana-cities-v2",
+      "descriptionAdvanced": "Ariana ist eine bedeutende Stadt im Norden des Großraums Tunis und bekannt für ihre blühenden Gärten und modernen Wohnviertel. Der Name der Stadt leitet sich von den Gärten ab, die in der Vergangenheit für den Anbau von Rosen und anderen Blumen berühmt waren. Heute dient Ariana als wichtiges urbanes Zentrum, das eine Brücke zwischen der Hauptstadt und den ländlicheren Gebieten im Norden schlägt. Die Stadt hat sich stark entwickelt und beherbergt zahlreiche Bildungseinrichtungen und medizinische Zentren. Schüler in K5 entdecken hier die städtische Entwicklung im Kontext der zunehmenden Urbanisierung.",
+      "factsAdvanced": [
+        "Ariana ist berühmt für die Zucht der Damaszener-Rose.",
+        "Die Stadt ist ein dicht besiedeltes Vorortzentrum von Tunis.",
+        "Hier befindet sich eine der bekanntesten medizinischen Fakultäten des Landes.",
+        "Ariana wurde im 18. Jahrhundert von andalusischen Flüchtlingen mitgeprägt.",
+        "Die Stadtstruktur ist eine Mischung aus Altstadtkern und moderner Bebauung.",
+        "In der Nähe liegt der Flughafen Tunis-Carthage."
+      ]
+    },
+    {
+      "id": "ben-arous-cities-v2",
+      "descriptionAdvanced": "Ben Arous ist eine aufstrebende Industriestadt im Süden des Großraums Tunis und ein bedeutender Knotenpunkt für das tunesische Wirtschaftswachstum. Die Stadt hat sich in den letzten Jahrzehnten von einer kleinen Ortschaft zu einem industriellen Zentrum entwickelt, das von der Nähe zum Hafen und den Verkehrsverbindungen profitiert. Trotz der industriellen Prägung gibt es auch hier Wohnviertel, die das schnelle Bevölkerungswachstum widerspiegeln. In der Plizio-Klasse K7 untersuchen die Schüler, wie Industriestädte das wirtschaftliche Gefüge eines modernen Staates wie Tunesien verändern.",
+      "factsAdvanced": [
+        "Ben Arous ist ein wichtiges Zentrum der verarbeitenden Industrie.",
+        "Die Stadt hat in den letzten 30 Jahren ein enormes Wachstum erlebt.",
+        "Sie ist durch das Autobahnnetz hervorragend mit Tunis verbunden.",
+        "Der industrielle Sektor hier umfasst Textil und Elektronikkomponenten.",
+        "Ben Arous fungiert als Verwaltungszentrum für den gleichnamigen Gouvernorat.",
+        "Die Stadtstruktur zeigt typische Züge einer rapiden urbanen Entwicklung."
+      ]
+    },
+    {
+      "id": "manouba-cities-v2",
+      "descriptionAdvanced": "Manouba ist ein historisch gewachsener Vorort im Westen von Tunis, der heute ein wichtiges akademisches und administratives Zentrum darstellt. Die Stadt ist bekannt für ihre Universitätsgelände, darunter die Universität Manouba, die Tausende von Studierenden anzieht. Das Stadtbild ist geprägt von einer Mischung aus ehemaligen Palastgebäuden, die heute staatlich genutzt werden, und neuen Wohnkomplexen. Manouba verbindet die Geschichte des tunesischen Adels mit dem modernen Bildungssektor. Schüler der Klasse K8 lernen hier, wie der Bildungssektor zur regionalen Stadtentwicklung beiträgt.",
+      "factsAdvanced": [
+        "Die Universität Manouba ist eine der wichtigsten Hochschulen des Landes.",
+        "Im 19. Jahrhundert war Manouba Sommerresidenz für tunesische Herrscher.",
+        "Die Stadt beherbergt bedeutende staatliche Institutionen.",
+        "Die Metro-Linie verbindet Manouba effizient mit dem Stadtzentrum von Tunis.",
+        "Manouba hat eine lange landwirtschaftliche Tradition (insb. Viehzucht).",
+        "Historische Palastarchitektur prägt das Zentrum der Stadt."
+      ]
+    },
+    {
+      "id": "nabeul-cities-v2",
+      "descriptionAdvanced": "Nabeul ist die Hauptstadt des Gouvernorats Nabeul und ein weltbekanntes Zentrum für Töpferhandwerk sowie touristisches Ziel. Die Stadt liegt auf der Halbinsel Cap Bon und bietet eine Mischung aus Tradition, Kunst und mediterranem Lebensstil. Die Töpferkunst von Nabeul, die bis in die punische Zeit zurückreicht, ist tief in der lokalen Kultur verwurzelt. Nabeul zieht jährlich viele Besucher an, die die Mischung aus historischen Souks und modernen Stränden schätzen. In der Geografie-Klasse K5 lernen Kinder über lokale Wirtschaftsweisen und die Bedeutung von Handwerkstraditionen.",
+      "factsAdvanced": [
+        "Nabeul ist seit der Antike für seine bemalte Keramik bekannt.",
+        "Der traditionelle Freitagsmarkt von Nabeul ist eine lokale Attraktion.",
+        "Die Halbinsel Cap Bon ist bekannt für ihre Zitrusfrüchte-Plantagen.",
+        "Nabeul hat einen feinen Sandstrand, der im Sommer sehr beliebt ist.",
+        "Das Töpferhandwerk gehört zum immateriellen Kulturerbe Tunesiens.",
+        "In der Stadt gibt es ein eigenes Keramikmuseum."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "volcan-de-agua-nature-v2",
+      "descriptionAdvanced": "Der Volcán de Agua, ein perfekter, gigantischer Stratovulkan, dominiert die Landschaft südlich von Antigua Guatemala. Obwohl er in historischer Zeit nicht eruptiv aktiv war, ging von ihm 1541 eine massive Zerstörung aus: Ein gewaltiger Erdrutsch (Lahar) aus Schlamm und Wasser, das sich im Krater gesammelt hatte, raste die Hänge hinab und zerstörte die damalige Hauptstadt Ciudad Vieja, wobei auch die erste Gouverneurin Amerikas, Beatriz de la Cueva, getötet wurde. Dieser Katastrophe verdankt der Vulkan seinen Namen 'Wasser-Vulkan'. Die Hänge des Vulkans sind heute extrem fruchtbar und werden bis in schwindelerregende Höhen intensiv für den Anbau von exzellentem Antigua-Kaffee und Gemüse genutzt. Ein Aufstieg auf den 3.760 Meter hohen Gipfel bietet an klaren Tagen einen unvergleichlichen Blick bis zur Pazifikküste und zu den benachbarten, rauchenden Vulkanen Fuego und Acatenango. Geografie K7 — Stratovulkane und Lahare.",
+      "factsAdvanced": [
+        "Der Vulkan verdankt seinen Namen einem massiven Schlamm- und Wasser-Erdrutsch (Lahar) im Jahr 1541.",
+        "Der Volcán de Agua ist ein ruhender Stratovulkan mit einer Höhe von 3.760 Metern.",
+        "Die Zerstörung von Ciudad Vieja durch diesen Lahar zwang die Spanier zur Gründung von Antigua.",
+        "Die unteren Hänge des Vulkans sind eines der wertvollsten Kaffeeanbaugebiete der Welt.",
+        "Im Krater (Crater) des Vulkans befindet sich ein kleiner, windgeschützter Fußballplatz.",
+        "Der indigene Name des Vulkans in der Kaqchikel-Sprache lautet Hunapú."
+      ]
+    },
+    {
+      "id": "rio-cahabon-nature-v2",
+      "descriptionAdvanced": "Der Río Cahabón ist das wilde, türkisfarbene Herzstück des Departamentos Alta Verapaz. Er entspringt im feuchten Bergnebelwald nahe Cobán und gräbt sich rasend schnell durch das steile Kalksteingebirge in Richtung des Izabal-Sees. Seine Stromschnellen, die in der Regenzeit (Klasse III und IV) extrem anspruchsvoll sind, machen ihn zum berühmtesten Ziel für Wildwasser-Rafting in ganz Zentralamerika. Geologisch gesehen ist der Fluss für ein Meisterwerk der Natur verantwortlich: Er formte das atemberaubende Naturdenkmal Semuc Champey, indem er sich unter einer massiven Kalksteinbrücke hindurchfräste, auf der sich ruhige Naturpools bilden. Leider steht der Flusslauf heute im Zentrum massiver politischer und ökologischer Konflikte, da in den letzten Jahren mehrere große Staudämme ('Renace') erbaut wurden, was zu Protesten der indigenen Q'eqchi'-Gemeinden führte, deren Wasserversorgung abgeschnitten wurde. Geografie K8 — Wasserkraft vs. Ökologie.",
+      "factsAdvanced": [
+        "Der Río Cahabón ist der wichtigste und wildeste Fluss der Verapaz-Region.",
+        "Er durchfließt unterirdisch das berühmte Naturdenkmal Semuc Champey.",
+        "Der Fluss bietet einige der besten und anspruchsvollsten Rafting-Routen in Mittelamerika.",
+        "Ein massives Wasserkraftprojekt (Renace) leitet große Teile des Flusses in Rohre um.",
+        "Der Konflikt um die Staudämme gipfelte in der umstrittenen Inhaftierung von Q'eqchi'-Führern.",
+        "Die charakteristische türkise Farbe stammt aus den gelösten Kalkmineralien des Gebirges."
+      ]
+    },
+    {
+      "id": "laguna-lachua-nature-v2",
+      "descriptionAdvanced": "Versteckt im isolierten, tropischen Norden der Alta Verapaz liegt die Laguna Lachuá, ein absolut unberührtes Naturwunder. Der kreisrunde, tiefe See ist geologisch eine gewaltige Cenote (Karst-Einsturzdoline), die von undurchdringlichem, dichten Dschungel völlig umschlossen ist. Der See zeichnet sich durch seinen unangenehm schwefeligen Geruch aus – der Name 'Lachuá' bedeutet in Q'eqchi' passenderweise 'stinkendes Wasser'. Doch das Wasser selbst ist extrem klar, türkisfarben und voller neugieriger Fische. Da das Biotop strikt vor dem Holzeinschlag und Jägern geschützt ist, können Besucher hier Tapire, Jaguare und Heerscharen von Brüllaffen in ihrer natürlichen Umgebung antreffen. Um die Reinheit zu wahren, dürfen Besucher den See nur nach einer mehrstündigen Wanderung durch den Dschungel betreten; der Einsatz von Chemikalien wie Sonnencreme ist strikt verboten. Biologie K7 — Karst-Ökosysteme und strenge Schutzgebiete.",
+      "factsAdvanced": [
+        "Die Laguna Lachuá ist ein fast perfekt kreisrunder Karstsee (Cenote).",
+        "Der Name Lachuá bedeutet in der indigenen Q'eqchi'-Sprache wörtlich 'stinkendes Wasser'.",
+        "Das Wasser hat einen hohen Schwefelgehalt, ist aber sehr klar und badetauglich.",
+        "Um das empfindliche Ökosystem zu schützen, ist der See nur zu Fuß erreichbar (4 km Wanderung).",
+        "Der Nationalpark (Biotopo) ist einer der besterhaltenen Regenwälder Guatemalas.",
+        "Sonnencremes und Shampoos sind im Park verboten, um Wasserverunreinigungen zu verhindern."
+      ]
+    },
+    {
+      "id": "montanas-mayas-nature-v2",
+      "descriptionAdvanced": "Die Maya-Berge (Montañas Mayas) sind ein extrem raues, dicht bewaldetes und dünn besiedeltes Gebirgsmassiv, das den Südosten des Petén und Teile des Nachbarlandes Belize dominiert. Im Gegensatz zu den vulkanischen Kordilleren des Südens besteht diese Bergkette aus Millionen Jahre altem Quarzit und Kalkstein und gehört zu den ältesten geologischen Formationen Mittelamerikas. Der isolierte Dschungel der Maya-Berge beheimatet einige der letzten intakten Ökosysteme für stark bedrohte Tiere wie den Jaguar, den Harpyien-Adler und den Tapir. In den Tälern verbergen sich unzählige unerforschte Maya-Ruinen. Wegen der extremen Unzugänglichkeit gibt es hier kaum Straßen, stattdessen wird das Gebiet oft illegal von Plünderern von Edelhölzern (wie Mahagoni) und Goldsuchern betreten. Umweltschützer kämpfen an vorderster Front, um dieses unbezahlbare Biosphärenreservat vor dem Kollaps zu retten. Geografie K8 — Uralte Gebirgsformationen.",
+      "factsAdvanced": [
+        "Die Maya-Berge gehören geologisch zu den ältesten Gesteinsformationen Zentralamerikas.",
+        "Das Massiv erstreckt sich über den Osten des Petén und bildet eine natürliche Grenze zu Belize.",
+        "Im Gegensatz zu Süd-Guatemala gibt es in dieser Bergkette keine Vulkane.",
+        "Das Gebiet ist ein absolutes Kern-Schutzgebiet für den mittelamerikanischen Jaguar.",
+        "Tiefe, unzugängliche Kalksteinhöhlensysteme (wie die von Chiquibul) durchziehen das Gestein.",
+        "Illegale Goldwäscher und Holzfäller ('Madereros') bedrohen die Naturschutzgebiete massiv."
+      ]
+    },
+    {
+      "id": "biotopo-del-quetzal-nature-v2",
+      "descriptionAdvanced": "Das Biotopo del Quetzal (offiziell Biotopo Mario Dary Rivera) in der Baja Verapaz ist das wichtigste Schutzgebiet für den Nationalvogel Guatemalas, den majestätischen Quetzal. Dieses dichte, extrem feuchte Nebelwaldreservat liegt an den steilen Hängen entlang der Autobahn nach Cobán. Der Wald ist überzogen mit Bromelien, Orchideen und Riesenfarnen, die wie Schwämme die ständige Feuchtigkeit aus der Luft saugen. Der Quetzal ist für sein Überleben extrem abhängig von diesem intakten, wilden Primärwald, da er seine Nester in morschen Baumstümpfen baut und sich von den Früchten des Aguacatillo-Baums ernährt. Für Ornithologen und Naturliebhaber ist das Reservat ein Mekka, auch wenn der stark bedrohte Quetzal aufgrund seiner Scheu oft nur sehr schwer in den dichten, nebelverhangenen Wipfeln zu entdecken ist. Biologie K8 — Nebelwälder und Nationalvögel.",
+      "factsAdvanced": [
+        "Das Schutzgebiet wurde 1976 speziell zum Erhalt des vom Aussterben bedrohten Quetzals gegründet.",
+        "Der Quetzal ernährt sich in diesem Wald fast ausschließlich von kleinen wilden Avocados (Aguacatillos).",
+        "Der Nebelwald im Biotopo zeichnet sich durch fast 100 % Luftfeuchtigkeit aus.",
+        "Der Park ist nach dem Naturschützer und Akademiker Mario Dary Rivera benannt.",
+        "Zahlreiche Wasserfälle und extrem dichte Vegetation prägen die Wanderwege des Parks.",
+        "Der Quetzal galt bereits bei den alten Maya als heilig und symbolisiert die Freiheit."
+      ]
+    },
+    {
+      "id": "rio-la-pasion-nature-v2",
+      "descriptionAdvanced": "Der Río La Pasión ist das gewaltige, schlammbraune Adernnetz des südlichen Petén. Er schlängelt sich gemächlich und in weiten Kurven durch den flachen, feuchtheißen Tiefland-Dschungel, bis er sich schließlich mit dem Río Salinas zum Usumacinta vereinigt. Da viele Straßen in dieser abgelegenen Region noch immer unbefestigt sind, ist der Fluss die wichtigste Transportroute. In der Stadt Sayaxché muss sämtlicher Fahrzeugverkehr, vom Lkw bis zum Touristenbus, mit Pontonfähren den extrem breiten Fluss überqueren, da es keine Brücken gibt. Entlang seiner Ufer befinden sich einige der bedeutendsten klassischen Maya-Ruinen wie Ceibal, Cancuén und Dos Pilas, die alle strategisch erbaut wurden, um den lukrativen Kanu-Handel auf dem Río La Pasión zu kontrollieren. Krokodile und Flussschildkröten sind hier allgegenwärtig. Geografie K7 — Tropische Tieflandflüsse.",
+      "factsAdvanced": [
+        "Der Río La Pasión fließt ausschließlich im flachen, stark bewaldeten Departamento Petén.",
+        "Er ist eine der wichtigsten Verkehrsadern und wird am Ort Sayaxché durch Fähren überquert.",
+        "Zahlreiche große klassische Maya-Städte (Ceibal, Aguateca) nutzten ihn als Handelsroute.",
+        "Die Strömung ist meist sehr gemächlich, was das Gewässer ideal für die Flussschifffahrt macht.",
+        "Die Farbe des Flusses ist oft extrem braun (schlammig) aufgrund von Erosion durch Abholzung.",
+        "Im Jahr 2015 erlitt der Fluss eine ökologische Katastrophe durch Chemikalien aus einer Palmöl-Fabrik."
+      ]
+    },
+    {
+      "id": "sipacate-naranjo-national-park-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark Sipacate-Naranjo ist ein gewaltiges, ökologisch hochsensibles Mangrovengebiet an der zentralen Pazifikküste (Escuintla). Dieses Labyrinth aus Brackwasserkanälen und dichten, auf Stelzenwurzeln wachsenden Mangrovenwäldern ist eine der wichtigsten 'Kinderstuben' der marinen Tierwelt in Guatemala. Unzählige Arten von Fischen, Krebstieren und Garnelen finden hier Schutz vor Raubfischen. Das Gebiet ist auch ein wichtiges Überwinterungsziel für Zehntausende von Zugvögeln aus Nordamerika. Für Menschen, die abseits der großen Agrarbetriebe leben, bilden diese Mangroven durch traditionellen Fischfang und Salzgewinnung die wichtigste Lebensgrundlage. Gleichzeitig sind die Strände vor den Mangroven, insbesondere in 'El Paredón', aufgrund der massiven, konstanten Wellen zum absoluten Hotspot für internationale Surfer geworden. Biologie K7 — Das Ökosystem Mangroven.",
+      "factsAdvanced": [
+        "Der Nationalpark Sipacate-Naranjo schützt eines der größten Mangrovengebiete Guatemalas.",
+        "Das Mangroven-Labyrinth fungiert als biologische Kinderstube für Fische und Garnelen.",
+        "Die Region ist ein entscheidendes Schutzgebiet für zehntausende Zugvögel aus den USA.",
+        "Die Strände der Gegend (wie El Paredón) sind weltbekannte Ziele für Surfer.",
+        "Die Mangrovenwälder schützen die Küstenlinie vor schweren Stürmen und Flutwellen.",
+        "Bedroht wird das Gebiet oft durch illegale Abholzung der Mangrovenbäume als Feuerholz."
+      ]
+    },
+    {
+      "id": "laguna-brava-yolnabaj-nature-v2",
+      "descriptionAdvanced": "Die Laguna Brava, deren indigener Chuj-Name eigentlich 'Yolnabaj' lautet, ist ein spektakulärer Bergsee, versteckt an der Grenze zu Mexiko im äußersten Nordwesten des Departamentos Huehuetenango. Eingebettet in ein tiefes Tal des zerklüfteten Cuchumatanes-Gebirges, wird der See von steilen, dichten Kiefernwäldern umrahmt. Das extrem kalte, kristallklare Wasser schimmert je nach Sonneneinstrahlung intensiv türkis bis tiefblau. Seinen spanischen Namen 'Laguna Brava' (Der wütende See) erhielt das Gewässer, weil starke Bergwinde oft urplötzlich peitschende Wellen auf der Oberfläche erzeugen. Wegen der miserablen Straßen und der extremen Isolation der Region ist die Laguna Brava bis heute ein unberührtes Geheimnis geblieben. Die lokalen indigenen Gemeinden, die den Tourismus streng verwalten, setzen kleine Ruderboote ein, um Besucher über den See zu verborgenen Wasserfällen und Cenotes zu bringen. Geografie K8 — Alpine Bergseen.",
+      "factsAdvanced": [
+        "Die Laguna Brava (Yolnabaj) liegt extrem isoliert im Cuchumatanes-Gebirge nahe Mexiko.",
+        "Die Temperatur des tiefblauen Wassers liegt oft nur wenige Grad über dem Gefrierpunkt.",
+        "Starke, plötzliche Winde erzeugen hohe Wellen, was dem See seinen Namen 'Wütender See' gab.",
+        "Der See wird ausschließlich von den lokalen indigenen Gemeinden verwaltet und geschützt.",
+        "Der Zugang erfordert extrem fähige Allradfahrzeuge (4x4) über gefährliche Bergpisten.",
+        "Am Ufer gibt es keine Hotels, sondern nur einfaches Camping unter dem klaren Sternenhimmel."
+      ]
+    },
+    {
+      "id": "volcan-chingo-nature-v2",
+      "descriptionAdvanced": "Der Volcán Chingo ist ein nahezu perfekt geformter, konischer Schichtvulkan, der eine absolute geografische Besonderheit aufweist: Sein Gipfel markiert exakt die internationale Grenze zwischen Guatemala (Departamento Jutiapa) und El Salvador. Mit einer moderaten Höhe von rund 1.775 Metern dominiert er die ansonsten hügelige, heiße und semiaride Landschaft des östlichen Trockenkorridors. Ein Aufstieg zum Gipfel ist relativ einfach und wird oft von Wandergruppen durchgeführt. Oben angekommen, findet man in dem kleinen, grasbewachsenen Krater das offizielle Grenzmonument, das die beiden Nationen trennt. Der Vulkan ist nicht mehr aktiv, und seine sanften, bewaldeten Hänge werden intensiv für den Anbau von Kaffee und für die Viehzucht genutzt, die die Wirtschaft beiderseits der Grenze prägt. Geografie K7 — Grenzvulkane.",
+      "factsAdvanced": [
+        "Der Gipfel des Volcán Chingo bildet die exakte Grenze zwischen Guatemala und El Salvador.",
+        "Der Vulkan hat die perfekte Form eines Kegels (Estratovolcán) und ist nicht aktiv.",
+        "Im kleinen Krater auf 1.775 Metern Höhe steht das offizielle Grenzmarkierungsmonument.",
+        "Ein Aufstieg ist von der Ortschaft Zapotitlán (Guatemala) in wenigen Stunden machbar.",
+        "Die Hänge sind dicht mit Eichen- und Kiefernwäldern sowie Kaffeefincas bewachsen.",
+        "Das umliegende Klima ist das drückend heiße, trockene Klima des guatemaltekischen Ostens."
+      ]
+    },
+    {
+      "id": "caribbean-sea-coast-nature-v2",
+      "descriptionAdvanced": "Die guatemaltekische Karibikküste, gelegen im Departamento Izabal, ist kurz (nur etwa 148 Kilometer), aber ökologisch und kulturell von massiver Bedeutung. Sie erstreckt sich von der honduranischen Grenze bei Puerto Barrios, um die geschützte Bucht von Amatique, bis hin zur Belize-Grenze am Fluss Sarstún. Im Gegensatz zu den vulkanischen schwarzen Stränden am Pazifik, bietet die Karibikküste stellenweise weiße Sandstrände (wie Playa Blanca in Livingston) und kristallklares Wasser. Diese Küste ist das Epizentrum der afrokaribischen Garífuna-Kultur und die Heimat der einzigen nennenswerten Korallenriffe Guatemalas, insbesondere vor der geschützten Halbinsel Punta de Manabique. Die Küste dient als wichtigster Ausfuhrweg in den Atlantik, ist jedoch ironischerweise extrem vom Plastikmüll bedroht, den der Río Motagua vom Landesinneren direkt in die Bucht von Omoa spült. Ökologie K8 — Karibische Küstensysteme und Verschmutzung.",
+      "factsAdvanced": [
+        "Guatemala hat eine sehr kurze Küstenlinie zur Karibik von nur knapp 148 Kilometern.",
+        "Die wichtigste geologische Formation ist die riesige, seichte Bucht von Amatique.",
+        "Vor der Küste (Punta de Manabique) liegen die einzigen nennenswerten Korallenriffe des Landes.",
+        "Die Stadt Livingston ist die einzige Hafenstadt mit reinem Karibik-Flair und Garífuna-Kultur.",
+        "Hier befinden sich die beiden wichtigsten atlantischen Exporthäfen: Puerto Barrios und Santo Tomás.",
+        "Plastikmüll, der vom Río Motagua ins Meer gespült wird, bedroht massiv die Riffe und Strände."
+      ]
+    },
+    {
+      "id": "pacific-coast-guatemala-nature-v2",
+      "descriptionAdvanced": "Die Pazifikküste Guatemalas erstreckt sich über 250 Kilometer geradlinig von der mexikanischen bis zur salvadorianischen Grenze. Sie zeichnet sich durch endlose, offene Strände aus extrem feinem, kohlrabenschwarzem Vulkansand aus, der durch die Erosion der Vulkankette im Landesinneren dorthin getragen wird. Diese Küste ist wild, brandungsreich und gefährlich zum Schwimmen, was sie jedoch paradoxerweise (besonders Orte wie El Paredón) zu einem echten Paradies für internationale Surfer gemacht hat. Hinter den Stränden verläuft oft ein komplexes System aus Mangrovensümpfen und Lagunen (wie der Canal de Chiquimulilla), das als natürlicher Puffer dient und seltene Krokodile und Reiher beherbergt. Wirtschaftlich ist die Region durch kleine Fischereidörfer und riesige Salinen geprägt, die das Meersalz traditionell in großen Becken durch Sonnenwärme verdunsten lassen. Geografie K7 — Vulkanische Küstenlandschaften.",
+      "factsAdvanced": [
+        "Die Strände am Pazifik bestehen fast ausschließlich aus eisenhaltigem, schwarzem Vulkansand.",
+        "Der Sand wird in der tropischen Mittagssonne so heiß, dass man nicht barfuß darauf laufen kann.",
+        "Surferorte wie El Paredón sind aufgrund der perfekten pazifischen Wellen (Swells) weltberühmt.",
+        "Die Pazifikküste ist berüchtigt für extrem starke, oft tödliche Unterströmungen (Alfaques).",
+        "Ein großes, paralleles Mangrovensystem trennt das offene Meer oft vom Landesinneren.",
+        "Riesige Salinen in der Region extrahieren Meersalz durch natürliche Verdunstung."
+      ]
+    },
+    {
+      "id": "ceibal-forest-reserve-nature-v2",
+      "descriptionAdvanced": "Tief im Dschungel des Departamentos Petén, verborgen an den Ufern des Río La Pasión, liegt das Waldreservat und die archäologische Stätte Ceibal (oder Seibal). Ceibal war eine der größten Städte der Maya in der klassischen Periode und erlebte eine ungewöhnliche Blütezeit im späten 9. Jahrhundert, als viele andere Maya-Städte bereits im mysteriösen Zusammenbruch (dem sogenannten 'Kollaps') begriffen waren. Der dichte Wald schützt nicht nur die exquisiten, extrem detaillierten Stelen (Steinsäulen), die Herrscher mit fremdartigen (mexikanischen) Gesichtszügen zeigen, sondern ist auch ein wichtiges biologisches Refugium. Gewaltige Ceiba-Bäume (der Nationalbaum) und alte Mahagoni-Wälder bieten Lebensraum für laute Brüllaffen-Familien, Tukane und Pumas. Das Reservat verbindet so den Schutz prähispanischer Kunst mit der Bewahrung des Regenwald-Ökosystems entlang der Flussroute. Biologie K8 — Regenwald-Reservate.",
+      "factsAdvanced": [
+        "Das Ceibal-Reservat schützt sowohl eine wichtige Maya-Stätte als auch den umliegenden Primärwald.",
+        "Es liegt am Ufer des Río La Pasión und ist am besten per Boot von Sayaxché zu erreichen.",
+        "Der Name stammt von den gigantischen, heiligen Ceiba-Bäumen, die in der Region wachsen.",
+        "Ceibal erlebte seinen historischen Höhepunkt, als andere Maya-Städte bereits kollabierten (ca. 850 n. Chr.).",
+        "Der dichte Dschungel hier ist ein erstklassiger Ort zur Beobachtung von wilden Brüllaffen.",
+        "Das Gebiet kämpft ständig gegen illegale Eindringlinge, die Edelhölzer stehlen wollen."
+      ]
+    },
+    {
+      "id": "laguna-de-ayarza-nature-v2",
+      "descriptionAdvanced": "Die Laguna de Ayarza in den Bergen des Departamentos Santa Rosa ist ein geologisches Mysterium und eines der tiefsten Gewässer Mittelamerikas. Geformt wie eine gigantische 8, besteht der See aus zwei zusammengewachsenen Vulkankratern (Doppel-Caldera), die vor Tausenden von Jahren bei einer extrem gewaltigen Eruption entstanden sind. Das Wasser ist tief, unheimlich dunkelblau und sehr kalt, da der See auf einer Höhe von fast 1.400 Metern liegt. Lange Zeit mieden die Einheimischen den See, da Legenden behaupten, er sei bodenlos oder werde von großen Schlangenungeheuern bewohnt. Wegen der enormen Tiefe (schätzungsweise über 200 Meter) und der steilen, felsigen Ufer gibt es hier kaum konventionellen Tourismus, sondern der See wird oft für technisches Tauchen und geologische Forschungen genutzt. Kaffeeanbau prägt die Hänge rund um das Gewässer. Geografie K8 — Doppel-Calderen.",
+      "factsAdvanced": [
+        "Die Laguna de Ayarza ist eine Doppel-Caldera, entstanden aus dem Einsturz zweier Vulkankrater.",
+        "Mit einer geschätzten Tiefe von weit über 200 Metern ist es einer der tiefsten Seen Zentralamerikas.",
+        "Das Wasser hat aufgrund der extremen Tiefe eine unnatürlich dunkelblaue Farbe.",
+        "Der See liegt in Santa Rosa, einer Region, die sonst für Hitze und Landwirtschaft bekannt ist.",
+        "Steile Felswände fallen an vielen Stellen hunderte Meter tief fast senkrecht ins Wasser ab.",
+        "Lokale Mythen behaupten, dass der See bodenlos sei und eine versunkene Stadt verberge."
+      ]
+    },
+    {
+      "id": "rio-polochic-delta-nature-v2",
+      "descriptionAdvanced": "Das Delta des Río Polochic ('Bocas del Polochic') im Izabal-See ist das wichtigste geschützte Sumpfgebiet (Humedal) in ganz Guatemala. Wenn der mächtige Fluss nach seinem Weg aus dem Hochland hier in den See mündet, verlangsamt er sich massiv und verzweigt sich in ein endloses Labyrinth aus Kanälen, Sümpfen und Schilffeldern. Dieses riesige Feuchtgebiet wirkt wie eine natürliche Niere, die den Schmutz und die Sedimente aus dem Fluss filtert, bevor das Wasser den See erreicht. Die biologische Vielfalt ist schlichtweg überwältigend: Hier brüten tausende von schneeweißen Reihern, Kormoranen und tropischen Enten. Es ist auch das wichtigste Refugium für Brüllaffen und die extrem gefährdeten Manatis (Seekühe). Die einzige Bedrohung für das Reservat ist die stetige Expansion der gewaltigen afrikanischen Ölpalmenplantagen im angrenzenden Tal, die Wasser entnehmen und das Land entwässern. Biologie K7 — Flussdeltas und Filterökosysteme.",
+      "factsAdvanced": [
+        "Das Bocas del Polochic ist das wichtigste und größte geschützte Feuchtgebiet Guatemalas.",
+        "Das Mündungsdelta fungiert als natürlicher Filter für das Wasser, bevor es in den Izabal-See fließt.",
+        "Das Gebiet besteht aus überfluteten Sumpfwäldern, Wasserhyazinthen und dichten Mangroven.",
+        "Das Reservat ist eine der letzten sicheren Zufluchtsstätten für Manatis und Brüllaffen.",
+        "Im Winter migrieren zehntausende Vögel aus den USA und Kanada hierher.",
+        "Der Vormarsch der riesigen Palmölindustrie im Westen bedroht massiv die Wasserbilanz des Deltas."
+      ]
+    },
+    {
+      "id": "cerro-miramundo-nature-v2",
+      "descriptionAdvanced": "Der Cerro Miramundo ist ein markanter, steiler Berg, der oft in dichten Nebel gehüllt ist und im Departamento Zacapa die Grenze zur feuchteren Region um Jalapa bildet. Obwohl er nicht extrem hoch ist (knapp über 2.000 Meter), trägt er nicht umsonst den Namen 'Miramundo' (Schau die Welt an): An klaren Tagen bietet er einen absolut fesselnden, weiten Blick über das tiefe, knochentrockene Tal des Motagua-Flusses bis hin nach El Salvador. Oben auf dem Cerro Miramundo existiert ein eigenes Mikroklima. Während unten Wüste und Kakteen dominieren, stehen hier auf dem oft kühlen Berggipfel dichte, bemooste Eichen- und Kiefernwälder. Dieser krasse klimatische Kontrast ermöglicht auf der Rückseite des Berges den Anbau von exzellentem Kaffee und Kardamom. Der Berg ist für Naturliebhaber ein fantastisches Beispiel für die extremen Höhen-Klimazonen in Zentralamerika. Geografie K7 — Klimatische Kontraste und Mikroklimata.",
+      "factsAdvanced": [
+        "Der Cerro Miramundo bietet einen der weitesten Panoramablicke über den Osten Guatemalas.",
+        "Sein Name 'Miramundo' (Schau auf die Welt) leitet sich von dieser strategischen Aussicht ab.",
+        "Während das Tal unten eine Trockenwüste ist, herrscht am Gipfel oft kühles Nebelwaldklima.",
+        "Auf dem Berg gibt es riesige Kaffee- und Kardamom-Fincas, geschützt durch Eichenwälder.",
+        "Die Straße zum Gipfel ist extrem steil, kurvig und wird oft von schwerem Nebel geplagt.",
+        "Der Berg markiert eine scharfe geologische und klimatische Trennlinie zwischen Zacapa und Jalapa."
+      ]
+    },
+    {
+      "id": "isla-de-flores-nature-v2",
+      "descriptionAdvanced": "Die Isla de Flores ist ein postkartenperfektes, extrem dicht bebautes Eiland mitten im Petén-Itzá-See und die charmante Hauptstadt des Dschungel-Departamentos Petén. Die kleine, tropische Insel ist über einen künstlichen Damm mit dem Festland (Santa Elena) verbunden. Früher war dieser Ort als Tayasal bekannt, die letzte unabhängige Festung der Itzá-Maya, die sich bis 1697 der spanischen Eroberung widersetzte. Heute besticht die Insel durch ein Labyrinth aus engen Kopfsteinpflasterstraßen, pastellfarben bemalten Kolonialhäusern mit roten Ziegeldächern und unzähligen kleinen Hotels und Rooftop-Bars. Aufgrund ihrer Schönheit und der idyllischen Seepromenade (Malecón) ist Flores das absolute touristische Epizentrum und der perfekte Ausgangspunkt für Expeditionen zu den Ruinen von Tikal, Yaxhá oder für Bootsfahrten in den Sonnenuntergang auf dem See. Geografie K8 — Inselstädte und Tourismuszentren.",
+      "factsAdvanced": [
+        "Flores ist die administrativ wichtigste Stadt im gesamten Dschungel-Departamento Petén.",
+        "Die Inselstadt ist durch einen Damm mit den kommerziellen Festland-Städten verbunden.",
+        "Historisch befand sich auf der Insel die letzte Maya-Hauptstadt Tayasal.",
+        "Die kreisrunde Insel kann man zu Fuß an der Uferpromenade in knapp 20 Minuten umrunden.",
+        "Die pastellfarbene Architektur und der Seeblick machen sie zum Touristenmagneten.",
+        "Während der Regenzeit steigt der See oft an und überflutet den äußeren Ring der Promenade."
+      ]
+    },
+    {
+      "id": "rio-chixoy-negro-nature-v2",
+      "descriptionAdvanced": "Der Río Chixoy (im Oberlauf Río Negro genannt) ist der wichtigste Gebirgsfluss Guatemalas. Er entspringt hoch in den Bergen des Quiché und schneidet eine extrem tiefe, dramatische Schlucht ('Cañón des Chixoy') in das Relief, bevor er die Grenze zu Alta Verapaz bildet und später nach Norden in den Usumacinta fließt. Wegen seines enormen Gefälles und seiner massiven Wassermengen wurde in den 1980er Jahren ein gigantischer Staudamm errichtet (Hidroeléctrica Chixoy), der durch die Erschaffung eines riesigen, künstlichen Sees den Flusslauf für immer veränderte. Bevor das Tal überflutet wurde, war es Heimat hunderter isolierter Achi-Maya, was zu tragischen, massenhaften Vertreibungen führte. Weiter flussabwärts, jenseits des Staudamms, ist der Chixoy oft ruhiger und durchquert tiefe, schwüle Dschungelgebiete, wo er intensiv für Landwirtschaft und Bootsverkehr genutzt wird. Geografie K7 — Staudamm-Infrastruktur und Flusstäler.",
+      "factsAdvanced": [
+        "Der Chixoy entspringt im kühlen Hochland und fließt später in das heiße Tiefland des Usumacinta.",
+        "Im Oberlauf heißt der Fluss auch Río Negro ('Schwarzer Fluss').",
+        "Der Fluss wurde in den 80er Jahren gestaut, um das größte Kraftwerk des Landes anzutreiben.",
+        "Das Staudamm-Projekt veränderte das Ökosystem der tiefen Flussschlucht radikal.",
+        "Im Unterlauf markiert der Chixoy die Grenze zwischen Quiché und Alta Verapaz.",
+        "Die Talsenke des Chixoy war Schauplatz schwerster Menschenrechtsverletzungen während des Bürgerkriegs."
+      ]
+    },
+    {
+      "id": "volcan-santa-maria-nature-v2",
+      "descriptionAdvanced": "Der Volcán Santa María ist ein gewaltiger, imposanter Schichtvulkan, der wie eine gigantische Pyramide über der Stadt Quetzaltenango (Xela) aufragt. Im Jahr 1902 riss eine katastrophale, plinianische Eruption (VEI 6) fast die gesamte Südflanke des Vulkans weg, wobei ein Kraterriss von über einem Kilometer Breite entstand. Es war einer der drei größten Vulkanausbrüche des 20. Jahrhunderts weltweit. Die weiße Asche verfinsterte den Himmel über Tage und fiel bis nach San Francisco in den USA. Heute ist der 3.772 Meter hohe Vulkan ein extrem beliebtes und herausforderndes Ziel für Bergsteiger. Der Aufstieg beginnt meist nachts, um im Morgengrauen vom Gipfel aus nicht nur die umliegenden Hochlandtäler zu sehen, sondern vor allem direkt in den aktiven, noch immer ständig ausbrechenden Lavadom des Santiaguito hinabzublicken, der in dem gewaltigen Explosionskrater von 1902 heranwächst. Geografie K8 — Supereruptionen des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Die Eruption des Santa María 1902 gehört zu den stärksten Vulkanausbrüchen der modernen Geschichte.",
+        "Die Explosion sprengte ein gewaltiges Stück der gesamten Südflanke des Berges weg.",
+        "Der Gipfel des Vulkans ist mit 3.772 Metern ein eisiges und oft stürmisches Umfeld.",
+        "In der riesigen Explosionsnarbe des Vulkans wächst heute der aktive Lavadom Santiaguito heran.",
+        "Der Aufstieg ist extrem steil und gilt als klassischer Initiations-Test für guatemaltekische Bergsteiger.",
+        "An der Basis des Vulkans entspringen heiße Schwefelquellen wie die Fuentes Georginas."
+      ]
+    },
+    {
+      "id": "santiaguito-lava-dome-nature-v2",
+      "descriptionAdvanced": "Der Santiaguito ist kein Vulkan im klassischen Sinne, sondern ein extrem gefährlicher und hyperaktiver Lavadom-Komplex. Er begann 1922 exakt in der gigantischen, offenen Explosionsnarbe zu wachsen, die der Ausbruch des Vulkans Santa María (1902) hinterlassen hatte. Seit über hundert Jahren wächst der Santiaguito durch das beständige Herausdrücken von dicker, zähflüssiger Dazit-Lava unaufhörlich weiter. Fast täglich erschüttern ohrenbetäubende Explosionen den Dom, die dichte, graue Aschewolken kilometerweit in den Himmel schießen. Diese Asche regnet regelmäßig auf die Kaffeefincas in der Provinz Retalhuleu herab. Noch gefährlicher sind die pyroklastischen Ströme und die Schlammlawinen (Lahare), die während der Regenzeit in das Tal des Río Samalá stürzen und Brücken und Felder zerstören. Santiaguito ist eines der weltweit wichtigsten Freiluftlabore für Vulkanologen, da man seine täglichen Ausbrüche vom sicheren Gipfel des benachbarten Santa María hervorragend beobachten kann. Geografie K8 — Aktive Lavadome und Lahare.",
+      "factsAdvanced": [
+        "Santiaguito ist ein Domkomplex, der in der Ausbruchsnarbe des Vulkans Santa María wächst.",
+        "Seit seiner Geburt im Jahr 1922 bricht der Lavadom fast ununterbrochen täglich aus.",
+        "Er besteht aus extrem dickflüssiger (viskoser) Lava, die Gase festhält und explosive Eruptionen erzeugt.",
+        "Während der Regenzeit verursacht lose Asche massive Schlammlawinen ('Lahare') im Tal des Samalá-Flusses.",
+        "Santiaguito gehört zur Gruppe der weltweit am intensivsten von Wissenschaftlern überwachten Vulkane.",
+        "Ein direkter Aufstieg auf den Santiaguito ist aufgrund extremer Lebensgefahr streng verboten."
+      ]
+    },
+    {
+      "id": "rio-sarstun-nature-v2",
+      "descriptionAdvanced": "Der Río Sarstún (Sarstoon River) ist ein breiter, von dichtem Mangrovendschungel gesäumter Fluss, der die offizielle, natürliche, aber extrem konfliktbeladene Grenze zwischen Guatemala (Departamento Izabal) und dem Land Belize bildet. Auf seinem Weg ins Karibische Meer fließt er gemächlich durch eine atemberaubend schöne, unberührte Tropenlandschaft. Die biologische Vielfalt ist immens; Tapire, Krokodile und gelegentlich Jaguare durchstreifen die Ufer. Da es kaum Straßen gibt, bilden Fischer aus den Garífuna- und Q'eqchi'-Dörfern die einzigen menschlichen Gemeinschaften. Leider ist der Río Sarstún ständiger Schauplatz harter geopolitischer Spannungen. Da Guatemala territoriale Ansprüche auf Belize erhebt, kommt es auf dem Fluss regelmäßig zu Patrouillen und hitzigen Konfrontationen zwischen den Militärs beider Länder, was den Versuch, das Gebiet als grenzüberschreitenden Öko-Park zu etablieren, stark behindert. Geografie K7 — Grenzflüsse und Territorialstreitigkeiten.",
+      "factsAdvanced": [
+        "Der Río Sarstún bildet den südlichsten Grenzverlauf zwischen Guatemala und Belize.",
+        "Die Ufer des breiten, ruhigen Flusses sind fast durchgehend mit dichten Mangrovenwäldern bewachsen.",
+        "Der Fluss mündet im extremen Osten Guatemalas in den Golf von Honduras (Karibik).",
+        "Häufige Militärpatrouillen zeugen von dem anhaltenden territorialen Streit beider Länder.",
+        "Die Region beheimatet stark bedrohte Küsten-Ökosysteme und zahlreiche Seekühe (Manatis).",
+        "Wegen der Abgeschiedenheit leidet das Gebiet unter illegalem Holzeinschlag und Drogenschmuggel."
+      ]
+    },
+    {
+      "id": "laguna-del-tigre-national-park-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark Laguna del Tigre ist das größte geschützte Feuchtgebiet Zentralamerikas und nimmt den gesamten nordwestlichen Teil des Departamentos Petén ein. Diese riesige Landschaft aus Süßwasserseen, Savannen und dichtem Dschungel ist ein globales Biodiversitäts-Mekka. Es ist der wichtigste Lebensraum für den Jaguar in Mittelamerika sowie für Tapire, Brüllaffen und Hunderte von tropischen Vogelarten. Trotz seines Status als Kernzone der Maya-Biosphäre ist der Park ironischerweise eines der am stärksten bedrohten Gebiete des Landes. Drogenkartelle roden illegal massive Flächen für geheime Landebahnen und Rinderzucht (Narco-Ganadería), während die Regierung in einigen Gebieten die Ölförderung (Xan-Feld) erlaubt hat. Der tägliche Kampf der Parkranger gegen diese mächtigen Eindringlinge ist lebensgefährlich. Geografie K8 — Konflikte in Biosphärenreservaten.",
+      "factsAdvanced": [
+        "Laguna del Tigre ist das flächenmäßig größte Feuchtgebiet im gesamten zentralamerikanischen Raum.",
+        "Der Nationalpark ist Teil des grenzüberschreitenden Maya-Biosphärenreservats.",
+        "Das Reservat ist der wichtigste verbliebene Rückzugsort für wilde Jaguare.",
+        "Illegale Abholzung durch die Drogenmafia (Narco-Ganadería) vernichtet jährlich riesige Waldflächen.",
+        "Trotz des Schutzstatus befinden sich aktive Ölförderanlagen innerhalb der Parkgrenzen.",
+        "Die Flüsse und Lagunen sind überlebenswichtig für Krokodile und Flussschildkröten."
+      ]
+    },
+    {
+      "id": "cuevas-de-candelaria-nature-v2",
+      "descriptionAdvanced": "Die Cuevas de Candelaria im Norden der Alta Verapaz sind eines der größten, beeindruckendsten und längsten Höhlensysteme in ganz Lateinamerika. Geformt vom Río Candelaria, der sich kilometerweit durch das Kalksteingebirge gefräst hat, besteht das Netzwerk aus massiven Kavernen, unterirdischen Flüssen und riesigen natürlichen Sälen, die teilweise über 60 Meter hoch sind. Für die alten Maya waren diese dunklen, oft überfluteten Höhlen nicht nur ein geografisches Phänomen, sondern der buchstäbliche Eingang in die Unterwelt 'Xibalbá'. Daher finden Archäologen tief im Inneren regelmäßig zerbrochene Keramiken, die während prähispanischer Rituale dargebracht wurden. Heute wird die Candelaria-Höhle von indigenen Q'eqchi'-Gemeinschaften verwaltet, die Touristen auf 'Tubing'-Touren (in aufgepumpten Reifen) stundenlang mit Stirnlampen durch die spektakulären Tropfsteingewölbe führen. Geografie K7 — Karsthöhlen und die Maya-Unterwelt.",
+      "factsAdvanced": [
+        "Das Candelaria-Höhlensystem hat eine erforschte, zusammenhängende Länge von über 80 Kilometern.",
+        "Der unterirdische Verlauf des Flusses macht das System perfekt für dunkle Höhlen-Rafting-Touren.",
+        "Die klassischen Maya betrachteten diese Höhlen als heilige Portale in die Unterwelt (Xibalbá).",
+        "Teile der Höhlendecke sind eingestürzt, wodurch dramatische Lichtkegel tief in den Untergrund scheinen.",
+        "Das Gebiet wird nachhaltig von den lokalen indigenen Q'eqchi'-Gemeinschaften verwaltet.",
+        "In den trockenen Seitengalerien findet man unzählige, rituelle Maya-Tonscherben."
+      ]
+    },
+    {
+      "id": "parque-nacional-rio-dulce-nature-v2",
+      "descriptionAdvanced": "Der Parque Nacional Río Dulce schützt die atemberaubende, fast 40 Kilometer lange Schlucht, durch die das Wasser des Izabal-Sees ins Karibische Meer fließt. Diese majestätische Wasserstraße schneidet sich tief in massive, von urwaldüberzogene Kalksteinklippen. Die unzugänglichen Wände des Canyons sind mit Lianen, Tillandsien und Bromelien behangen, während in den ruhigen Seitengewässern weiße Seerosen blühen. Der Park ist ein unverzichtbares Reservat für exotische Vögel (wie Tukane und Kormorane) und die seltene mittelamerikanische Seekuh (Manatí), die in den warmen, trüben Golfgewässern grast. Historisch gesehen war diese Route der einzige Weg für die spanischen Silberflotten ins Landesinnere, weshalb am Eingang die Festung San Felipe errichtet wurde, um Piraten abzuwehren. Heute gleiten luxuriöse Segelyachten und kleine Holzboote der Q'eqchi' friedlich durch diese tropische Märchenlandschaft. Biologie K7 — Flusscanyons und Seekühe.",
+      "factsAdvanced": [
+        "Der Nationalpark wurde 1955 gegründet, um den einzigartigen Flusscanyon zu schützen.",
+        "Steile Kalksteinklippen säumen den Flusslauf, ähnlich wie in einem tropischen Fjord.",
+        "Die geschützten Biotope am Rande des Flusses dienen als Rückzugsort für Karibik-Manatis.",
+        "Thermische Quellen an den Felswänden leiten kochend heißes Wasser direkt in den Río Dulce.",
+        "Der Park ist die einzige Verbindung zwischen dem größten See Guatemalas und dem Meer.",
+        "Das Naturschutzgebiet kämpft stetig gegen Umweltverschmutzung durch illegale Feriensiedlungen am Ufer."
+      ]
+    },
+    {
+      "id": "laguna-chichoj-nature-v2",
+      "descriptionAdvanced": "Die Laguna Chichoj ist ein pittoresker, von Bergen umrahmter See direkt am Rande der Stadt San Cristóbal Verapaz (Departamento Alta Verapaz). Für die indigene Poqomchi'-Gemeinschaft ist der See von tiefer spiritueller und identitätsstiftender Bedeutung; zahlreiche Legenden ranken sich um ein versunkenes Dorf und Geister auf dem Grund des Gewässers. Trotz seiner unbestreitbaren Schönheit befand sich der See lange Zeit in einer ökologischen Krise: Die Einleitung von städtischen Abwässern und landwirtschaftlichen Düngemitteln führte zu einer massiven Eutrophierung, weshalb die Oberfläche regelmäßig komplett mit invasiven Wasserhyazinthen (Ninfa) zuwuchs, die dem See den Sauerstoff raubten. In den letzten Jahren haben lokale Umweltschutzgruppen und Studenten bemerkenswerte Anstrengungen unternommen, die Wasserpflanzen manuell zu entfernen und den See in ein Vorzeigemodell für erfolgreiche ökologische Rettung zu verwandeln. Geografie K7 — Eutrophierung und Seerettung.",
+      "factsAdvanced": [
+        "Die Laguna Chichoj liegt idyllisch in einem kühlen, nebeligen Tal der Alta Verapaz.",
+        "Der See litt über Jahrzehnte massiv unter Eutrophierung durch städtische Abwässer.",
+        "Invasive Wasserhyazinthen bedeckten zeitweise fast die gesamte Wasseroberfläche.",
+        "Lokale Gemeinden investieren viel ehrenamtliche Arbeit, um die Pflanzen von Hand zu beseitigen.",
+        "Ein kleiner, bewaldeter Uferpark (Parque Ecológico) dient als beliebtes Naherholungsgebiet.",
+        "Zahlreiche Poqomchi'-Legenden schreiben dem oft dunklen Wasser mystische Kräfte zu."
+      ]
+    },
+    {
+      "id": "cerro-de-la-cruz-nature-v2",
+      "descriptionAdvanced": "Der Cerro de la Cruz (Hügel des Kreuzes) ist ein steiler, bewaldeter Hügel direkt nördlich der Kolonialstadt Antigua Guatemala. Er ist landesweit bekannt als der absolute Premium-Aussichtspunkt, von dem aus man das klassische, perfekte Postkartenmotiv der Stadt bewundern kann. Ein massives, steinernes Kreuz auf dem Gipfel markiert den Ort, von dem aus sich die gesamte Stadt mit ihrem schachbrettartigen Straßenraster (Trazo en Damero), den zerbrochenen Kirchendächern und roten Ziegeln ausbreitet. Dahinter erhebt sich die fast symmetrische, dramatische Form des Volcán de Agua. Der kurze Aufstieg über Steintreppen durch den dichten Wald ist eine der beliebtesten Aktivitäten für Touristen. Historisch diente der Hügel in unruhigen Zeiten den Streitkräften als strategischer Überwachungsort für die Stadt; heute ist er glücklicherweise eine rein friedliche Oase für Fotografen und verliebte Paare. Geografie K7 — Topografische Stadtansichten.",
+      "factsAdvanced": [
+        "Der Cerro de la Cruz bietet das berühmteste Panoramabild auf Antigua und den Volcán de Agua.",
+        "Ein großes Steinkreuz aus dem Jahr 1930 krönt die Aussichtsplattform auf dem Gipfel.",
+        "Der Aufstieg erfolgt über sanfte Steintreppen direkt vom Zentrum der Stadt aus.",
+        "Aus dieser Höhe lässt sich das historische spanische Straßenraster (Quadratmuster) Antiguas gut erkennen.",
+        "In der Vergangenheit wurde der bewaldete Hügel durch eine Präsenz der Touristenpolizei sicherer gemacht.",
+        "An Feiertagen, wie in der Karwoche, ist der Aussichtspunkt komplett überfüllt."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "ben-arous-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ben Arous ist ein bedeutendes Industrie- und Wirtschaftszentrum südlich von Tunis, das eine zentrale Rolle in der Logistik und Produktion des Großraums der Hauptstadt spielt. Durch die Nähe zum Hafen von Tunis und die Anbindung an wichtige Infrastrukturnetze ist die Stadt ein Motor für die regionale Entwicklung und bietet zahlreiche Arbeitsplätze in der verarbeitenden Industrie. Geografie K7 — Wirtschaftsräume und Industriezentren.",
+        "hu": "Ben Arous jelentős ipari és gazdasági központ Tunisztól délre, amely központi szerepet játszik a fővárosi agglomeráció logisztikájában és termelésében. A tuniszi kikötő közelsége és a fontos infrastrukturális hálózatokhoz való kapcsolódás révén a város a regionális fejlődés motorja, számos munkahelyet biztosítva a feldolgozóiparban. Földrajz K7 — gazdasági térségek és ipari központok.",
+        "ro": "Ben Arous este un centru industrial și economic important la sud de Tunis, jucând un rol central în logistica și producția zonei metropolitane a capitalei. Datorită proximității față de portul Tunis și a conexiunii cu rețelele de infrastructură importante, orașul este un motor pentru dezvoltarea regională, oferind numeroase locuri de muncă în industria prelucrătoare. Geografie K7 — zone economice și centre industriale.",
+        "en": "Ben Arous is a major industrial and economic center south of Tunis, playing a central role in the logistics and production of the capital's metropolitan area. Due to its proximity to the port of Tunis and connections to major infrastructure networks, the city is an engine for regional development, offering numerous jobs in the manufacturing industry. Geography K7 — economic zones and industrial centers."
+      },
+      "factsAdvanced": {
+        "de": ["Zentraler Industriestandort", "Wichtiger Verkehrsknotenpunkt", "Teil des Großraums Tunis", "Motor der Regionalentwicklung", "Starke verarbeitende Industrie", "Logistikzentrum nahe der Küste"],
+        "hu": ["Központi ipari telephely", "Fontos közlekedési csomópont", "A tuniszi agglomeráció része", "A regionális fejlődés motorja", "Erős feldolgozóipar", "Logisztikai központ a part közelében"],
+        "ro": ["Centru industrial central", "Nod rutier important", "Parte a zonei metropolitane Tunis", "Motor al dezvoltării regionale", "Industrie prelucrătoare puternică", "Centru logistic aproape de coastă"],
+        "en": ["Central industrial location", "Important transport hub", "Part of the Tunis metropolitan area", "Engine of regional development", "Strong manufacturing industry", "Logistics center near the coast"]
+      }
+    }
+  ]
+}

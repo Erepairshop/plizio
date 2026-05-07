@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-abuja-cities-v2",
+      "descriptionAdvanced": "Stellen Sie sich eine Stadt vor, die buchstäblich auf dem Reißbrett entstand und mitten im Herzen Nigerias aus dem Nichts erschaffen wurde. Abuja ersetzte 1991 Lagos als Hauptstadt, weil man eine zentralere und neutralere Lage für die vielen ethnischen Gruppen des Landes suchte. Dominiert wird die Skyline vom imposanten Aso Rock, einem 400 Meter hohen Monolithen, der schützend über dem Regierungsviertel thront. Hier kreuzen sich modernste Architektur, wie die nigerianische Nationalmoschee mit ihrer goldenen Kuppel, und breite, von Bäumen gesäumte Boulevards. Geografie K7 — geplante Hauptstädte und Urbanisierung.",
+      "factsAdvanced": [
+        "1991 offiziell zur Hauptstadt Nigerias ernannt.",
+        "Der Aso Rock ist ein 400 Meter hoher Granitmonolith.",
+        "Entworfen vom japanischen Architekten Kenzo Tange.",
+        "Liegt im Federal Capital Territory (FCT).",
+        "Die Nationalmoschee fasst Tausende von Gläubigen.",
+        "Zentraler Punkt für alle großen ethnischen Gruppen Nigerias."
+      ]
+    },
+    {
+      "id": "ng-lagos-ikeja-cities-v2",
+      "descriptionAdvanced": "Ikeja ist das pulsierende Verwaltungszentrum des Bundesstaates Lagos und das logistische Herzstück der gesamten Metropolregion. Ursprünglich eine kleine landwirtschaftliche Siedlung, verwandelte sich Ikeja rasch in ein Industrie- und Handelszentrum, als hier der Murtala Muhammed International Airport gebaut wurde – das wichtigste Luftfahrttor Westafrikas. Heute rattern hier die Webstühle in Textilfabriken, während in den modernen Einkaufszentren wie der Ikeja City Mall das urbane Leben pulsiert. Es ist ein Ort, an dem sich traditionelle Yoruba-Kultur mit der rasanten Globalisierung vermischt. Wirtschaft K8 — Infrastruktur und Logistikzentren.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Lagos seit 1976.",
+        "Heimat des Murtala Muhammed International Airport.",
+        "Wichtiger Standort für Nigerias Textil- und Lebensmittelindustrie.",
+        "Beheimatet den berühmten Femi Kuti's New Afrika Shrine.",
+        "Ehemalige Agrarsiedlung, die zur Industriestadt wurde.",
+        "Wichtigster Verkehrsknotenpunkt für das nigerianische Festland."
+      ]
+    },
+    {
+      "id": "ng-lagos-city-cities-v2",
+      "descriptionAdvanced": "Lagos ist ein wahres urbanes Monster und mit über 20 Millionen Einwohnern eine der größten Megacitys der Welt. Früher war diese Stadt ein berüchtigter Sklavenhafen, doch heute ist sie das absolute Finanz- und Kulturzentrum Afrikas, bekannt für die boomende Nollywood-Filmindustrie und das Afrobeat-Musikgenre. Die Stadt erstreckt sich über ein Netz von Inseln, die durch riesige Brücken wie die Third Mainland Bridge verbunden sind. Wer in Lagos überlebt, so heißt es, kann überall auf der Welt bestehen – die Energie hier ist endlos, laut und absolut faszinierend. Erdkunde K8 — Megacitys und globale Finanzzentren.",
+      "factsAdvanced": [
+        "Mit über 20 Millionen Einwohnern größte Stadt Afrikas.",
+        "War bis 1991 die Hauptstadt Nigerias.",
+        "Zentrum der nigerianischen Filmindustrie (Nollywood).",
+        "Die Third Mainland Bridge ist 11,8 Kilometer lang.",
+        "Wichtiger Finanzplatz auf dem afrikanischen Kontinent.",
+        "Erstreckt sich über mehrere Inseln und das Festland."
+      ]
+    },
+    {
+      "id": "ng-kano-city-cities-v2",
+      "descriptionAdvanced": "Kano ist wie ein lebendiges Geschichtsbuch des Transsaharahandels, das seit über tausend Jahren geöffnet ist. Als zweitgrößte Stadt Nigerias ist sie das unbestrittene Zentrum des islamischen Nordens und der Hausa-Kultur. Wenn Sie durch die Altstadt schlendern, stoßen Sie auf die Überreste der gigantischen, alten Stadtmauern und die berühmten Kofar Mata Färbegruben, wo Stoffe noch heute nach 500 Jahre alten Methoden tiefblau gefärbt werden. Der Palast des Emirs ist ein architektonisches Wunderwerk und zeugt von der enormen Macht, die Kano einst über die Handelsrouten der Wüste ausübte. Geschichte K7 — Transsaharahandel und afrikanische Königreiche.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt Nigerias und Zentrum der Hausa-Kultur.",
+        "Die Kofar Mata Färbegruben existieren seit 1498.",
+        "Wichtiger historischer Knotenpunkt des Transsaharahandels.",
+        "Der Gidan Rumfa (Emir-Palast) wurde im 15. Jahrhundert erbaut.",
+        "Ehemaliges Zentrum eines mächtigen islamischen Emirats.",
+        "Berühmt für traditionelle Leder- und Textilproduktion."
+      ]
+    },
+    {
+      "id": "ng-ibadan-cities-v2",
+      "descriptionAdvanced": "Ibadan ist eine Stadt der Superlative, die oft als die größte einheimische Stadt Afrikas südlich der Sahara bezeichnet wird. Bei ihrer Gründung im 19. Jahrhundert diente sie als militärisches Lager für Yoruba-Krieger und wuchs schnell zu einem riesigen Handelszentrum für Kakao heran. Das Wahrzeichen der Stadt ist das Cocoa House, der erste Wolkenkratzer im tropischen Afrika, der vollständig aus den Profiten des Kakaoexports finanziert wurde. Heute ist Ibadan eine faszinierende Mischung aus alten, rotbraunen Blechdächern, die sich bis zum Horizont erstrecken, und modernen Universitätsgebäuden. Geografie K7 — Agrarwirtschaft und Urbanisierung in Westafrika.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1829 als Yoruba-Militärlager.",
+        "Das Cocoa House war der erste Wolkenkratzer Afrikas (1965).",
+        "Die Universität von Ibadan ist die älteste in Nigeria (1948).",
+        "Wichtiges historisches Zentrum für den Kakaoexport.",
+        "Bekannt für ihr endloses Meer aus rostbraunen Dächern.",
+        "Gilt als eine der flächenmäßig größten Städte Nigerias."
+      ]
+    },
+    {
+      "id": "ng-port-harcourt-cities-v2",
+      "descriptionAdvanced": "Port Harcourt wird oft die 'Gartenstadt' Nigerias genannt, auch wenn dieser Titel heute mit der gigantischen Ölindustrie der Region konkurriert. Die Stadt wurde 1912 von den Briten gegründet, um Kohle aus Enugu zu exportieren, doch die Entdeckung von Erdöl in den 1950er Jahren veränderte alles. Heute ist sie das schlagende Herz der nigerianischen Erdölförderung, ein Ort, an dem internationale Konzerne und lokale Gemeinschaften im Nigerdelta aufeinandertreffen. Trotz der industriellen Prägung pulsiert hier das Leben mit lebhaften Märkten und einer reichen Kultur der Ijaw- und Ikwerre-Völker. Wirtschaft K8 — Erdölförderung und Ressourcennutzung.",
+      "factsAdvanced": [
+        "Gegründet 1912 durch die britische Kolonialverwaltung.",
+        "Hauptstadt des ölreichen Bundesstaates Rivers.",
+        "Ursprünglich für den Export von Steinkohle gebaut.",
+        "Wichtigstes Zentrum der nigerianischen Erdölindustrie.",
+        "Beherbergt zwei der größten Ölraffinerien des Landes.",
+        "Wird aufgrund vieler Parks historisch 'Garden City' genannt."
+      ]
+    },
+    {
+      "id": "ng-benin-city-cities-v2",
+      "descriptionAdvanced": "Benin City ist ein Ort, an dem man förmlich über Geschichte stolpert. Als ehemalige Hauptstadt des mächtigen Königreichs Benin, das vom 13. bis zum 19. Jahrhundert existierte, war diese Stadt einst von einem der größten von Menschenhand geschaffenen Erdwall-Systeme der Welt umgeben. Die Stadt ist weltberühmt für ihre meisterhaften Bronzestatuen, von denen viele während der britischen Strafexpedition 1897 geplündert wurden. Heute ist der Palast des Oba (Königs) noch immer das spirituelle Herz der Stadt, und die Edo-Kultur lebt in den traditionellen Zeremonien und dem Kunsthandwerk weiter. Geschichte K7 — Afrikanische Königreiche und koloniale Konflikte.",
+      "factsAdvanced": [
+        "Zentrum des historischen Königreichs Benin (13.-19. Jh.).",
+        "Weltberühmt für die kunstvollen Benin-Bronzen.",
+        "1897 von britischen Truppen weitgehend zerstört.",
+        "Die Benin-Erdwälle waren riesige historische Befestigungsanlagen.",
+        "Der amtierende Oba hat noch heute großen kulturellen Einfluss.",
+        "Hauptstadt des heutigen nigerianischen Bundesstaates Edo."
+      ]
+    },
+    {
+      "id": "ng-kaduna-city-cities-v2",
+      "descriptionAdvanced": "Kaduna ist eine Stadt, die von den Briten Anfang des 20. Jahrhunderts als koloniale Verwaltungshauptstadt für Nordnigeria gegründet wurde. Ihr Name leitet sich vom Hausa-Wort für Krokodile ab, die einst zahlreich im gleichnamigen Kaduna-Fluss lebten. Die Stadt entwickelte sich zu einem massiven industriellen Zentrum, berühmt für ihre großen Textilfabriken und eine bedeutende Erdölraffinerie. Kaduna hat eine doppelte Identität: Sie ist sowohl militärischer Stützpunkt, der die Nigerian Defence Academy beherbergt, als auch ein kultureller Schmelztiegel, in dem Menschen aus allen nördlichen Bundesstaaten zusammenkommen. Erdkunde K8 — Industrielle Entwicklung und Kolonialstädte.",
+      "factsAdvanced": [
+        "Gegründet 1913 durch den britischen Gouverneur Lord Lugard.",
+        "Der Name 'Kaduna' bedeutet Krokodile auf Hausa.",
+        "Ehemalige Verwaltungshauptstadt der Northern Region.",
+        "Wichtiger Standort für die Textil- und Ölindustrie.",
+        "Heimat der renommierten Nigerian Defence Academy.",
+        "Ein wichtiger Eisenbahnknotenpunkt im Norden Nigerias."
+      ]
+    },
+    {
+      "id": "ng-jos-cities-v2",
+      "descriptionAdvanced": "Stellen Sie sich eine Oase der Kühle in einem ansonsten tropisch heißen Land vor – das ist Jos. Gelegen auf dem fast 1.300 Meter hohen Jos-Plateau, bietet die Stadt ein außergewöhnlich gemäßigtes Klima, das früher britische Kolonialbeamte als Erholungsort anzog. Die Stadt wuchs rasant während des Zinn-Rausches im frühen 20. Jahrhundert, als riesige Mengen an Zinnerz hier abgebaut wurden. Heute ist Jos nicht nur für seine atemberaubenden Felsformationen wie die Shere Hills bekannt, sondern auch als landwirtschaftliches Zentrum, das exotische Früchte wie Erdbeeren und Äpfel produziert, die sonst nirgends in Nigeria wachsen. Geografie K7 — Hochplateaus und Bergbau.",
+      "factsAdvanced": [
+        "Liegt auf einer Höhe von fast 1.300 Metern über dem Meeresspiegel.",
+        "Historisches Zentrum des nigerianischen Zinnbergbaus.",
+        "Bietet ein untypisch gemäßigtes, kühles Klima.",
+        "Bekannt für den Anbau von Erdbeeren und Gemüse.",
+        "Die nahegelegenen Shere Hills sind bis zu 1.829 Meter hoch.",
+        "Wurde als Erholungsort für britische Beamte genutzt."
+      ]
+    },
+    {
+      "id": "ng-ilorin-cities-v2",
+      "descriptionAdvanced": "Ilorin fungiert als faszinierendes kulturelles Scharnier zwischen dem islamisch geprägten Norden und dem von den Yoruba dominierten Süden Nigerias. Im 19. Jahrhundert war es ein wichtiges militärisches Zentrum des Fulani-Reiches, weshalb die Stadt heute von einem Emir regiert wird, obwohl die Mehrheit der Bevölkerung Yoruba spricht. Diese einzigartige Mischung zeigt sich in der Architektur, wo sich traditionelle Yoruba-Märkte mit beeindruckenden Moscheen abwechseln. Ilorin ist auch berühmt für seine traditionelle Töpferkunst, die seit Generationen in den Händen der Frauen liegt. Gesellschaft K6 — Kultureller Austausch und traditionelles Handwerk.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Kwara, dem 'State of Harmony'.",
+        "Einzigartige Mischung aus Yoruba- und Fulani-Kultur.",
+        "Wird traditionell von einem islamischen Emir regiert.",
+        "Ehemaliger militärischer Außenposten des Sokoto-Kalifats.",
+        "Zentrum für traditionelle, handgefertigte Töpferwaren.",
+        "Wichtiger Knotenpunkt zwischen Nord- und Südnigeria."
+      ]
+    },
+    {
+      "id": "ng-maiduguri-cities-v2",
+      "descriptionAdvanced": "Maiduguri liegt ganz im Nordosten Nigerias, unweit des schrumpfenden Tschadsees, und ist die historische Hauptstadt der Kanuri. Gegründet von den Briten im Jahr 1907, wuchs die Stadt rasch als wichtiges Handelszentrum an der Route nach Kamerun, Tschad und Niger. Das trockene Klima der Sahelzone prägt die Region, in der große Märkte wie der Monday Market den Takt vorgeben. Obwohl die Stadt in den letzten Jahren oft wegen geopolitischer Krisen in den Nachrichten war, bleibt sie das kulturelle Herz des alten Kanem-Bornu-Reiches, wo traditionelle Reiterfeste (Durbar) den Stolz der Bevölkerung zeigen. Geografie K8 — Sahelzone und Grenzwege in Afrika.",
+      "factsAdvanced": [
+        "Gegründet 1907 als Militärstützpunkt von den Briten.",
+        "Hauptstadt des Bundesstaates Borno und Zentrum der Kanuri.",
+        "Wichtiger Handelsknotenpunkt in die Nachbarländer.",
+        "Liegt in der trockenen Sahelzone nahe dem Tschadsee.",
+        "Heimat der University of Maiduguri (UNIMAID).",
+        "Traditionell bekannt für seine farbenfrohen Durbar-Feste."
+      ]
+    },
+    {
+      "id": "ng-enugu-city-cities-v2",
+      "descriptionAdvanced": "Enugu trägt den stolzen Spitznamen 'Coal City' (Kohlenstadt), und dieser Name ist absolut wörtlich gemeint. Als britische Geologen 1909 riesige Steinkohlevorkommen im Udi-Hügelzug entdeckten, entstand die Stadt förmlich aus dem Nichts, um diese wertvolle Ressource abzubauen. Später, während des tragischen nigerianischen Bürgerkriegs in den späten 1960er Jahren, diente Enugu als Hauptstadt der kurzlebigen Republik Biafra. Heute prägen nicht mehr rauchende Schlote das Bild, sondern eine dynamische Filmindustrie, die Enugu zu einem der wichtigsten Drehorte für Nollywood-Produktionen macht. Geschichte K8 — Ressourcenabbau und der Biafra-Krieg.",
+      "factsAdvanced": [
+        "Gegründet nach der Entdeckung von Kohle im Jahr 1909.",
+        "Bekannt unter dem Spitznamen 'Coal City'.",
+        "War von 1967 bis 1970 die Hauptstadt der Republik Biafra.",
+        "Die Udi-Hügel dominieren das Landschaftsbild der Stadt.",
+        "Heutzutage ein wichtiger Produktionsort für Nollywood-Filme.",
+        "Ehemalige Hauptstadt der historischen Ostregion Nigerias."
+      ]
+    },
+    {
+      "id": "ng-zaria-cities-v2",
+      "descriptionAdvanced": "Zaria ist eine der sagenhaften sieben echten Hausa-Staaten, deren Wurzeln bis ins 11. Jahrhundert zurückreichen. Die Legende besagt, dass die furchtlose Königin Amina, eine brillante Militärstrategin im 16. Jahrhundert, riesige Verteidigungsmauern um die Stadt bauen ließ, deren Überreste man noch heute bewundern kann. Zaria war immer ein Zentrum des Geistes und der Bildung, eine Tradition, die durch die Ahmadu Bello University – die größte Universität Nigerias – bis heute fortgesetzt wird. Die Stadt ist ein faszinierendes Labyrinth aus engen Gassen, Lehmarchitektur und jahrhundertealter islamischer Gelehrsamkeit. Geschichte K7 — Königin Amina und islamische Bildungszentren.",
+      "factsAdvanced": [
+        "Eine der ursprünglichen sieben Hausa-Stadtstaaten (Hausa Bakwai).",
+        "Berühmt für die Verteidigungsmauern von Königin Amina (16. Jh.).",
+        "Heimat der riesigen Ahmadu Bello University (gegründet 1962).",
+        "Ein wichtiges Zentrum islamischer Gelehrsamkeit.",
+        "Großer Produzent von Baumwolle und Tabak in der Kolonialzeit.",
+        "Traditionell regiert vom Emir von Zazzau."
+      ]
+    },
+    {
+      "id": "ng-aba-cities-v2",
+      "descriptionAdvanced": "Aba ist das unangefochtene Zentrum für Unternehmergeist und Massenproduktion in Südostnigeria, oft liebevoll das 'Japan Afrikas' genannt. Entstanden aus einem kleinen Igbo-Markt, verwandelten die britischen Kolonialherren die Stadt in einen wichtigen Eisenbahnknotenpunkt für Palmöl. Heute rattert die Stadt förmlich vor Energie: Im gigantischen Ariaria International Market werden Schuhe, Textilien und Lederwaren produziert, die in ganz West- und Zentralafrika verkauft werden. Die Marke 'Made in Aba' steht für unglaubliche handwerkliche Anpassungsfähigkeit und den eisernen Willen, aus wenig sehr viel zu machen. Wirtschaft K8 — Industrieproduktion und afrikanische Märkte.",
+      "factsAdvanced": [
+        "Bekannt als das wichtigste Handelszentrum der Igbo.",
+        "Der Ariaria International Market ist einer der größten Märkte Afrikas.",
+        "Wird wegen seiner starken Fertigungsindustrie 'Japan Afrikas' genannt.",
+        "Historisch ein britischer Militärstützpunkt (gegründet 1901).",
+        "Produziert massenhaft Schuhe, Textilien und Lederwaren.",
+        "War 1929 Schauplatz der berühmten 'Aba Women's Riot'."
+      ]
+    },
+    {
+      "id": "ng-onitsha-cities-v2",
+      "descriptionAdvanced": "Wenn Sie in Onitsha stehen, spüren Sie den Puls des Handels. Diese Stadt liegt strategisch perfekt am Ufer des gigantischen Flusses Niger und besitzt den wahrscheinlich größten Freiluftmarkt Westafrikas: den Onitsha Main Market. Die Stadt war einst der Endpunkt europäischer Handelsflotten, die den Niger hinauffuhren, um Palmöl zu erwerben. Mitte des 20. Jahrhunderts entstand hier die 'Onitsha Market Literature', eine Welle von billig gedruckten, moralischen Kurzgeschichten und Ratgebern, die die moderne afrikanische Popkultur nachhaltig prägte. Die Brücke über den Niger verbindet hier den Osten mit dem Westen des Landes. Wirtschaft K8 — Flusshandel und Populärkultur.",
+      "factsAdvanced": [
+        "Liegt strategisch am Ostufer des Flusses Niger.",
+        "Heimat des Onitsha Main Market, dem größten Markt Westafrikas.",
+        "Ursprungsort der berühmten 'Onitsha Market Literature'.",
+        "Die Niger-Brücke in Onitsha wurde 1965 fertiggestellt.",
+        "Wichtiger Binnenhafen während der britischen Kolonialzeit.",
+        "Gegründet im 16. Jahrhundert von Einwanderern aus dem Königreich Benin."
+      ]
+    },
+    {
+      "id": "ng-warri-cities-v2",
+      "descriptionAdvanced": "Warri ist eine Stadt, in der das schwarze Gold fließt. Eingebettet in die unzähligen Wasserstraßen des Nigerdeltas, war diese Stadt historisch ein wichtiges Zentrum für den Sklaven- und Palmölhandel, lange bevor das Erdöl entdeckt wurde. Heute ist Warri eine der reichsten Städte des Landes und das operative Zentrum vieler internationaler Ölkonzerne in Nigeria. Das Wasser prägt hier alles: Boote sind oft nützlicher als Autos, und die traditionellen Königreiche der Itsekiri, Urhobo und Ijaw wachen eifersüchtig über ihre vom Öl durchzogenen Ländereien. Wirtschaft K8 — Erdölindustrie im Nigerdelta.",
+      "factsAdvanced": [
+        "Zentraler Knotenpunkt der nigerianischen Erdölindustrie im Delta.",
+        "Die Stadt beherbergt eine wichtige Ölraffinerie (WRPC).",
+        "Historisch ein wichtiges Zentrum für den Palmölhandel.",
+        "Wichtiger Seehafen trotz der Lage im Landesinneren.",
+        "Die Bevölkerung besteht stark aus Urhobo, Itsekiri und Ijaw.",
+        "Wird vom Olu (König) von Warri spirituell geführt."
+      ]
+    },
+    {
+      "id": "ng-sokoto-city-cities-v2",
+      "descriptionAdvanced": "Sokoto ist nicht einfach nur eine Stadt, es ist das spirituelle Herz des islamischen Nigerias. Anfang des 19. Jahrhunderts gründete der Gelehrte Usman dan Fodio hier das Sokoto-Kalifat, eines der mächtigsten vorkolonialen Reiche Afrikas, das sich von Burkina Faso bis nach Kamerun erstreckte. Noch heute residiert hier der Sultan von Sokoto, der als geistliches Oberhaupt aller Muslime in Nigeria gilt. Die Stadt liegt in einer trockenen, heißen Region im Nordwesten, wo sich traditionelle Lehmziegelhäuser mit modernen Gebäuden mischen und das Leben stark vom Rhythmus der islamischen Gebetszeiten bestimmt wird. Geschichte K8 — Islamische Imperien und das Sokoto-Kalifat.",
+      "factsAdvanced": [
+        "Gegründet 1804 als Hauptstadt des mächtigen Sokoto-Kalifats.",
+        "Sitz des Sultans von Sokoto, dem spirituellen Führer Nigerias.",
+        "Liegt in einer extrem heißen und trockenen Region im Nordwesten.",
+        "Historisch ein Zentrum für islamische Rechtsgelehrte.",
+        "Bekannt für den Handel mit Ziegen- und Schafsleder.",
+        "Der Sokoto-Fluss ist die lebenswichtige Wasserquelle der Stadt."
+      ]
+    },
+    {
+      "id": "ng-calabar-cities-v2",
+      "descriptionAdvanced": "Calabar versprüht einen Charme, der an vergangene Epochen erinnert. Einst war die Stadt unter dem Namen 'Old Calabar' einer der berüchtigtsten Sklavenhäfen an der Bucht von Biafra, später verlagerte sich der Handel auf Palmöl. Im späten 19. Jahrhundert machten die Briten die Stadt zur ersten Hauptstadt ihres Protektorats in Südnigeria. Heute ist Calabar berühmt für seine unglaubliche Sauberkeit, das entspannte Tempo und das spektakuläre Calabar-Karneval-Festival, das jeden Dezember Zehntausende Besucher in farbenprächtigen Kostümen auf die Straßen lockt. Geschichte K7 — Kolonialgeschichte und afrikanische Festivals.",
+      "factsAdvanced": [
+        "War vom 17. bis 19. Jahrhundert ein massiver Sklavenhafen.",
+        "Erste Hauptstadt des britischen Protektorats Süd-Nigeria.",
+        "Austragungsort des größten Straßenkarnevals Afrikas im Dezember.",
+        "Gilt als eine der saubersten und grünsten Städte Nigerias.",
+        "Zentrum der Efik-Kultur und ihrer speziellen Küche (Edikang Ikong).",
+        "Heimat eines großen Seehafens und der Tinapa-Freihandelszone."
+      ]
+    },
+    {
+      "id": "ng-uyo-cities-v2",
+      "descriptionAdvanced": "Uyo ist eine Stadt, die sich im Eiltempo modernisiert hat. Als Hauptstadt des erdölreichen Bundesstaates Akwa Ibom profitiert Uyo massiv von den Öleinnahmen, was sich in der exzellenten Infrastruktur und den glatten, breiten Straßen zeigt. Ein architektonisches Highlight ist das Godswill Akpabio International Stadium, das wegen seiner futuristischen Form oft als 'Nest of Champions' bezeichnet wird. Trotz des Ölreichtums hat die Stadt ihre landwirtschaftlichen Wurzeln nicht vergessen; Palmöl und Yamswurzeln aus der Umgebung füllen weiterhin die lebhaften Märkte. Geografie K7 — Ökonomischer Aufschwung durch Ressourcen.",
+      "factsAdvanced": [
+        "Hauptstadt des ölreichen Bundesstaates Akwa Ibom.",
+        "Bekannt für eine der besten städtischen Infrastrukturen Nigerias.",
+        "Heimat des hochmodernen Godswill Akpabio International Stadium.",
+        "Wichtiger Produzent von Palmöl und Meeresfrüchten.",
+        "Zentrum des Ibibio-Volkes, einer großen ethnischen Gruppe.",
+        "Beherbergt die schnell wachsende University of Uyo."
+      ]
+    },
+    {
+      "id": "ng-ado-ekiti-cities-v2",
+      "descriptionAdvanced": "Ado-Ekiti, oft einfach Ado genannt, ist tief in den sanften, grünen Hügeln im Südwesten Nigerias verborgen. Die Stadt ist das historische und administrative Zentrum des Ekiti-Volkes, einer Untergruppe der Yoruba, die für ihre starke Unabhängigkeit und ihren Widerstand gegen Fremdherrschaft bekannt sind. Ado-Ekiti rühmt sich, die Stadt der Professoren zu sein, da eine außergewöhnlich hohe Anzahl an nigerianischen Akademikern von hier stammt. Umgeben von dichten Wäldern, ist die Region auch ein wichtiger Produzent von Kakao und Yams, was das ländliche Leben stark prägt. Gesellschaft K6 — Bildung und regionale Identität der Yoruba.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Ekiti im Südwesten Nigerias.",
+        "Gilt national als Zentrum der Akademiker und Professoren.",
+        "Die Stadt wird vom traditionellen Herrscher, dem Ewi, geführt.",
+        "Umschlossen von landschaftlich markanten grünen Hügeln.",
+        "Wichtiger agrarischer Produzent von Kakao, Yams und Maniok.",
+        "Die Afe Babalola University ist eine führende Privatuniversität vor Ort."
+      ]
+    },
+    {
+      "id": "ng-akure-cities-v2",
+      "descriptionAdvanced": "Akure ist eine rasch wachsende Stadt, die sich elegant am Rande der tropischen Regenwälder Nigerias ausbreitet. Als Hauptstadt des Bundesstaates Ondo ist sie das logistische Zentrum für eine der wichtigsten Kakao-Anbauregionen des Landes. Die Geschichte der Stadt reicht tief in die vorkoloniale Zeit der Yoruba zurück, und der prächtige Deji-Palast in der Stadtmitte erzählt Geschichten von alten Königen und Traditionen. Heute ist Akure auch ein technologischer Hub, da die renommierte Federal University of Technology junge, brillante Köpfe aus dem ganzen Land anzieht. Geografie K8 — Agrarhandel und Technologiezentren.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Ondo, Nigerias größtem Kakaoproduzenten.",
+        "Sitz der Federal University of Technology, Akure (FUTA).",
+        "Der traditionelle Herrscher der Stadt trägt den Titel 'Deji'.",
+        "Wichtiger Handelsknotenpunkt für landwirtschaftliche Produkte.",
+        "Funde alter Felsgravuren deuten auf sehr frühe Besiedlung hin.",
+        "Liegt in einer Übergangszone zwischen Savanne und Regenwald."
+      ]
+    },
+    {
+      "id": "ng-abeokuta-cities-v2",
+      "descriptionAdvanced": "Der Name Abeokuta bedeutet wörtlich 'Unter dem Felsen', und genau das beschreibt diese faszinierende Stadt. Sie wurde um 1830 von Egba-Flüchtlingen gegründet, die sich unter dem massiven Olumo-Felsen versteckten, um Sklavenjägern und Kriegern des Dahomey-Reiches zu entgehen. Dieser gigantische Granitfelsen dominiert noch heute das Stadtbild und ist das spirituelle Zentrum der Einwohner. Abeokuta ist zudem berühmt für die Herstellung von 'Adire', einem wunderschönen indigoblauen Stoff mit komplexen, handgemalten Mustern, der auf dem Itoku-Markt gehandelt wird. Geschichte K7 — Zufluchtsorte und traditionelles Textilhandwerk.",
+      "factsAdvanced": [
+        "Gegründet um 1830 als Zufluchtsort für das Egba-Volk.",
+        "Der Name bedeutet wörtlich 'Stadt unter dem Felsen'.",
+        "Der Olumo-Felsen diente früher als natürliche Festung.",
+        "Zentrum der Adire-Textilherstellung (indigogefärbte Stoffe).",
+        "Heimat des berühmten nigerianischen Schriftstellers Wole Soyinka.",
+        "Früher ein wichtiger Halt an der Eisenbahnlinie nach Lagos."
+      ]
+    },
+    {
+      "id": "ng-osogbo-cities-v2",
+      "descriptionAdvanced": "Osogbo ist eine Stadt, in der die Grenzen zwischen der physischen Welt und der Geisterwelt der Yoruba verschwimmen. Sie ist international berühmt für den heiligen Osun-Hain, ein dichtes Waldstück am Rande der Stadt, das der Flussgöttin Osun gewidmet ist. Jedes Jahr im August zieht das farbenprächtige Osun-Osogbo-Festival Tausende von Anhängern und Touristen an. Dank der österreichischen Künstlerin Susanne Wenger, die hier lebte und die Schreine zusammen mit lokalen Handwerkern im Stil der 'New Sacred Art' neu gestaltete, ist Osogbo auch ein absolutes Zentrum für zeitgenössische afrikanische Kunst. Gesellschaft K8 — Naturreligionen und Kunstbewegungen.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Osun im Südwesten.",
+        "Heimat des UNESCO-Welterbes Osun-Osogbo Sacred Grove.",
+        "Zentrum der Yoruba-Flussgöttin Osun.",
+        "Das jährliche Osun-Festival zieht Zehntausende Besucher an.",
+        "Wichtiger Entstehungsort der Oshogbo-Kunstschule (1960er Jahre).",
+        "Die österreichische Künstlerin Susanne Wenger prägte die Stadt."
+      ]
+    },
+    {
+      "id": "ng-bauchi-city-cities-v2",
+      "descriptionAdvanced": "Bauchi ist das Sprungbrett in die wilde Natur des nigerianischen Nordostens. Die Stadt selbst hat tiefe islamische Wurzeln, gegründet im frühen 19. Jahrhundert während der Dschihad-Kriege von Yakubu ibn Dadi. Was Bauchi jedoch heute so besonders macht, ist seine Nähe zum Yankari-Nationalpark, Nigerias bestem Wildschutzgebiet. Touristen strömen durch Bauchi, um in Yankari Elefanten, Paviane und die warmen Wikki-Quellen zu sehen. Die Stadt ist auch die letzte Ruhestätte des ersten nigerianischen Premierministers, Sir Abubakar Tafawa Balewa, dessen monumentales Grabmal hier steht. Geschichte K7 — Unabhängigkeitskämpfer und afrikanische Tierwelt.",
+      "factsAdvanced": [
+        "Gegründet 1809 von Yakubu, einem Kommandanten von Usman dan Fodio.",
+        "Wichtiger Ausgangspunkt für Safaris in den Yankari-Nationalpark.",
+        "Grabstätte des ersten nigerianischen Premierministers Tafawa Balewa.",
+        "Das Klima wechselt drastisch zwischen heißer Trocken- und Regenzeit.",
+        "Endstation einer historischen britischen Eisenbahnlinie zur Zinnförderung.",
+        "Traditionell regiert vom Emir von Bauchi."
+      ]
+    },
+    {
+      "id": "ng-owerri-cities-v2",
+      "descriptionAdvanced": "Owerri gilt als die inoffizielle Unterhaltungshauptstadt im Osten Nigerias. Es wird oft im Spaß gesagt, dass Owerri mehr Hotels und Clubs pro Quadratkilometer hat als jede andere Stadt des Landes. Aber Owerri ist auch das stolze kulturelle Herzstück des Igbo-Volkes im Imo-Staat. Während des nigerianischen Bürgerkriegs war es zeitweise die Hauptstadt der Republik Biafra, nachdem Enugu gefallen war. Heute dominieren Bildungseinrichtungen wie die Federal University of Technology und ein florierender Markt für handwerkliche Produkte das ruhige, aber beständige Wachstum dieser lebhaften Stadt. Wirtschaft K7 — Dienstleistungssektor und Igbo-Kultur.",
+      "factsAdvanced": [
+        "Hauptstadt des Bundesstaates Imo im Südosten Nigerias.",
+        "Bekannt für eine extrem hohe Dichte an Hotels und Freizeitorten.",
+        "War während des Bürgerkriegs 1969 kurzzeitig Hauptstadt von Biafra.",
+        "Zentrum des kulturellen Biri-Festivals für den neuen Yams.",
+        "Heimat der Federal University of Technology Owerri (FUTO).",
+        "Die Architektur ist stark von modernen christlichen Kirchen geprägt."
+      ]
+    }
+  ]
+}

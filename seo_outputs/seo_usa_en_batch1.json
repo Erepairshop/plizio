@@ -1,0 +1,115 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "new-york-city-cities-v2",
+      "descriptionAdvanced": "New York City, the most populous city in the United States, is a global epicenter of culture, finance, and innovation, known for its iconic skyline and vibrant diverse neighborhoods.",
+      "factsAdvanced": ["Home to the iconic Statue of Liberty and Times Square.", "Comprises five distinct boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island."]
+    },
+    {
+      "id": "los-angeles-cities-v2",
+      "descriptionAdvanced": "Los Angeles is a sprawling Southern California metropolis, famously known as the heart of the global film and television industry, offering a unique blend of coastal beauty and urban creativity.",
+      "factsAdvanced": ["Home to the legendary Hollywood sign and Griffith Observatory.", "Features world-renowned beaches like Santa Monica and Venice Beach."]
+    },
+    {
+      "id": "chicago-cities-v2",
+      "descriptionAdvanced": "Chicago, situated on the shores of Lake Michigan, is renowned for its bold architecture, rich jazz history, and deep-dish pizza, serving as a major economic and cultural hub in the Midwest.",
+      "factsAdvanced": ["Famous for its stunning skyline, including the Willis Tower.", "Home to Millennium Park and the iconic Cloud Gate sculpture."]
+    },
+    {
+      "id": "houston-cities-v2",
+      "descriptionAdvanced": "Houston is a diverse, sprawling Texas metropolis with deep ties to the energy industry and space exploration, boasting a world-class theater district and culinary scene.",
+      "factsAdvanced": ["Home to the NASA Johnson Space Center.", "Features one of the most culturally diverse populations in the country."]
+    },
+    {
+      "id": "phoenix-cities-v2",
+      "descriptionAdvanced": "Phoenix, the capital of Arizona, is known for its year-round sun, desert landscapes, and booming growth, offering access to stunning outdoor recreation and a vibrant metropolitan lifestyle.",
+      "factsAdvanced": ["Known as the Valley of the Sun for its high number of sunny days.", "Surrounded by mountain parks like South Mountain Park and Preserve."]
+    },
+    {
+      "id": "philadelphia-cities-v2",
+      "descriptionAdvanced": "Philadelphia, a historic city in Pennsylvania, is instrumental to American independence, celebrated for its colonial heritage, cultural institutions, and iconic cheesesteak sandwiches.",
+      "factsAdvanced": ["Home to the Liberty Bell and Independence Hall.", "Features the historic Art Museum steps famously climbed in the movie Rocky."]
+    },
+    {
+      "id": "san-antonio-cities-v2",
+      "descriptionAdvanced": "San Antonio is a rich cultural destination in Texas, best known for its historic missions, including The Alamo, and the picturesque River Walk that winds through the downtown area.",
+      "factsAdvanced": ["Home to the UNESCO World Heritage site, The Alamo.", "Famous for the San Antonio River Walk, an urban waterway lined with shops and restaurants."]
+    },
+    {
+      "id": "san-diego-cities-v2",
+      "descriptionAdvanced": "San Diego is a beautiful coastal city in Southern California, renowned for its ideal climate, pristine beaches, and world-class attractions like the San Diego Zoo.",
+      "factsAdvanced": ["Home to the historic Balboa Park and its many museums.", "Known for its laid-back atmosphere and deep maritime history."]
+    },
+    {
+      "id": "dallas-cities-v2",
+      "descriptionAdvanced": "Dallas is a major commercial and cultural hub in North Texas, known for its skyline, financial sector, and significant role in American history as a center of commerce and travel.",
+      "factsAdvanced": ["Features the historic West End district.", "Home to the Sixth Floor Museum at Dealey Plaza."]
+    },
+    {
+      "id": "san-jose-cities-v2",
+      "descriptionAdvanced": "San Jose is the heart of Silicon Valley, a technological center known for innovation, research, and high-tech industry growth, contributing significantly to the global tech economy.",
+      "factsAdvanced": ["Widely recognized as the capital of Silicon Valley.", "Home to the Tech Interactive and the Winchester Mystery House."]
+    },
+    {
+      "id": "austin-cities-v2",
+      "descriptionAdvanced": "Austin, the capital of Texas, is famously known for its live music scene, alternative culture, and vibrant tech sector, earning the nickname the Live Music Capital of the World.",
+      "factsAdvanced": ["Known for its vibrant South by Southwest (SXSW) festival.", "Features the scenic Lady Bird Lake and the Congress Avenue Bridge bat colony."]
+    },
+    {
+      "id": "jacksonville-cities-v2",
+      "descriptionAdvanced": "Jacksonville, the largest city by area in the contiguous United States, offers expansive park systems, miles of shoreline, and a growing coastal metropolitan appeal in Florida.",
+      "factsAdvanced": ["Home to some of the most extensive urban park systems in the country.", "Features beautiful Atlantic beaches and the St. Johns River."]
+    },
+    {
+      "id": "fort-worth-cities-v2",
+      "descriptionAdvanced": "Fort Worth embraces its western heritage while fostering a sophisticated arts district, serving as a distinct cultural anchor in the Dallas-Fort Worth metroplex.",
+      "factsAdvanced": ["Famous for the Fort Worth Stockyards National Historic District.", "Home to the Kimbell Art Museum and the Cultural District."]
+    },
+    {
+      "id": "columbus-cities-v2",
+      "descriptionAdvanced": "Columbus, the capital of Ohio, is a fast-growing city known for its vibrant downtown, major university, and innovative approach to urban development and sustainability.",
+      "factsAdvanced": ["Home to the sprawling Ohio State University campus.", "Features the historic German Village and the Scioto Mile."]
+    },
+    {
+      "id": "charlotte-cities-v2",
+      "descriptionAdvanced": "Charlotte is a major banking and financial hub in North Carolina, known for its rapid growth, professional sports, and a welcoming Southern urban culture.",
+      "factsAdvanced": ["One of the primary financial centers in the United States.", "Home to the NASCAR Hall of Fame and the U.S. National Whitewater Center."]
+    },
+    {
+      "id": "indianapolis-cities-v2",
+      "descriptionAdvanced": "Indianapolis is a central Midwestern city renowned for its automotive racing history, commitment to sports, and a revitalized downtown centered on major cultural venues.",
+      "factsAdvanced": ["Home to the legendary Indianapolis Motor Speedway and the Indy 500.", "Features the massive Indianapolis Children's Museum."]
+    },
+    {
+      "id": "seattle-cities-v2",
+      "descriptionAdvanced": "Seattle is a vibrant Pacific Northwest city framed by mountains and water, famously known as the home of global tech giants, coffee culture, and iconic music scenes.",
+      "factsAdvanced": ["Home to the historic Pike Place Market and the Space Needle.", "Known for its deep connection to the outdoors and the surrounding evergreen forests."]
+    },
+    {
+      "id": "denver-cities-v2",
+      "descriptionAdvanced": "Denver, the Mile High City, is the gateway to the Rocky Mountains, offering a unique blend of urban lifestyle, adventurous outdoor recreation, and a thriving craft brewery scene.",
+      "factsAdvanced": ["Located exactly one mile above sea level at the state capitol.", "Serves as the major hub for access to Rocky Mountain skiing and hiking."]
+    },
+    {
+      "id": "washington-dc-cities-v2",
+      "descriptionAdvanced": "Washington, D.C., the capital of the United States, is a monumental city showcasing the nation's political history, world-class museums, and iconic national landmarks.",
+      "factsAdvanced": ["Home to the White House, the U.S. Capitol, and the Supreme Court.", "Features the expansive National Mall and many Smithsonian Institution museums."]
+    },
+    {
+      "id": "boston-cities-v2",
+      "descriptionAdvanced": "Boston, a historic and intellectual center, is known for its prestigious academic institutions, revolutionary American history, and a charming mix of European style and modern innovation.",
+      "factsAdvanced": ["Home to the historic Freedom Trail and Fenway Park.", "Features world-renowned universities like Harvard and MIT in the surrounding area."]
+    }
+  ]
+}

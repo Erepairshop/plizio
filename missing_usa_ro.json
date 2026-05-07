@@ -1,0 +1,810 @@
+[
+  {
+    "id": "el-paso-cities-v2",
+    "name": "El Paso"
+  },
+  {
+    "id": "detroit-cities-v2",
+    "name": "Detroit"
+  },
+  {
+    "id": "nashville-cities-v2",
+    "name": "Nashville"
+  },
+  {
+    "id": "portland-or-cities-v2",
+    "name": "Portland, OR"
+  },
+  {
+    "id": "memphis-cities-v2",
+    "name": "Memphis"
+  },
+  {
+    "id": "oklahoma-city-cities-v2",
+    "name": "Oklahoma City"
+  },
+  {
+    "id": "las-vegas-cities-v2",
+    "name": "Las Vegas"
+  },
+  {
+    "id": "louisville-cities-v2",
+    "name": "Louisville"
+  },
+  {
+    "id": "baltimore-cities-v2",
+    "name": "Baltimore"
+  },
+  {
+    "id": "milwaukee-cities-v2",
+    "name": "Milwaukee"
+  },
+  {
+    "id": "albuquerque-cities-v2",
+    "name": "Albuquerque"
+  },
+  {
+    "id": "tucson-cities-v2",
+    "name": "Tucson"
+  },
+  {
+    "id": "fresno-cities-v2",
+    "name": "Fresno"
+  },
+  {
+    "id": "sacramento-cities-v2",
+    "name": "Sacramento"
+  },
+  {
+    "id": "kansas-city-mo-cities-v2",
+    "name": "Kansas City, MO"
+  },
+  {
+    "id": "long-beach-cities-v2",
+    "name": "Long Beach"
+  },
+  {
+    "id": "mesa-cities-v2",
+    "name": "Mesa"
+  },
+  {
+    "id": "atlanta-cities-v2",
+    "name": "Atlanta"
+  },
+  {
+    "id": "colorado-springs-cities-v2",
+    "name": "Colorado Springs"
+  },
+  {
+    "id": "virginia-beach-cities-v2",
+    "name": "Virginia Beach"
+  },
+  {
+    "id": "raleigh-cities-v2",
+    "name": "Raleigh"
+  },
+  {
+    "id": "omaha-cities-v2",
+    "name": "Omaha"
+  },
+  {
+    "id": "miami-cities-v2",
+    "name": "Miami"
+  },
+  {
+    "id": "oakland-cities-v2",
+    "name": "Oakland"
+  },
+  {
+    "id": "minneapolis-cities-v2",
+    "name": "Minneapolis"
+  },
+  {
+    "id": "tulsa-cities-v2",
+    "name": "Tulsa"
+  },
+  {
+    "id": "arlington-tx-cities-v2",
+    "name": "Arlington, TX"
+  },
+  {
+    "id": "new-orleans-cities-v2",
+    "name": "New Orleans"
+  },
+  {
+    "id": "wichita-cities-v2",
+    "name": "Wichita"
+  },
+  {
+    "id": "cleveland-cities-v2",
+    "name": "Cleveland"
+  },
+  {
+    "id": "tampa-cities-v2",
+    "name": "Tampa"
+  },
+  {
+    "id": "honolulu-cities-v2",
+    "name": "Honolulu"
+  },
+  {
+    "id": "anaheim-cities-v2",
+    "name": "Anaheim"
+  },
+  {
+    "id": "orlando-cities-v2",
+    "name": "Orlando"
+  },
+  {
+    "id": "pittsburgh-cities-v2",
+    "name": "Pittsburgh"
+  },
+  {
+    "id": "st-louis-cities-v2",
+    "name": "St. Louis"
+  },
+  {
+    "id": "riverside-cities-v2",
+    "name": "Riverside"
+  },
+  {
+    "id": "santa-ana-cities-v2",
+    "name": "Santa Ana"
+  },
+  {
+    "id": "cincinnati-cities-v2",
+    "name": "Cincinnati"
+  },
+  {
+    "id": "lexington-cities-v2",
+    "name": "Lexington"
+  },
+  {
+    "id": "anchorage-cities-v2",
+    "name": "Anchorage"
+  },
+  {
+    "id": "stockton-cities-v2",
+    "name": "Stockton"
+  },
+  {
+    "id": "toledo-cities-v2",
+    "name": "Toledo"
+  },
+  {
+    "id": "st-paul-cities-v2",
+    "name": "Saint Paul"
+  },
+  {
+    "id": "newark-cities-v2",
+    "name": "Newark"
+  },
+  {
+    "id": "henderson-cities-v2",
+    "name": "Henderson"
+  },
+  {
+    "id": "plano-cities-v2",
+    "name": "Plano"
+  },
+  {
+    "id": "irvine-cities-v2",
+    "name": "Irvine"
+  },
+  {
+    "id": "durham-cities-v2",
+    "name": "Durham"
+  },
+  {
+    "id": "st-petersburg-fl-cities-v2",
+    "name": "St. Petersburg, FL"
+  },
+  {
+    "id": "jersey-city-cities-v2",
+    "name": "Jersey City"
+  },
+  {
+    "id": "chandler-cities-v2",
+    "name": "Chandler"
+  },
+  {
+    "id": "laredo-cities-v2",
+    "name": "Laredo"
+  },
+  {
+    "id": "norfolk-cities-v2",
+    "name": "Norfolk"
+  },
+  {
+    "id": "reno-cities-v2",
+    "name": "Reno"
+  },
+  {
+    "id": "buffalo-cities-v2",
+    "name": "Buffalo"
+  },
+  {
+    "id": "fort-wayne-cities-v2",
+    "name": "Fort Wayne"
+  },
+  {
+    "id": "boise-cities-v2",
+    "name": "Boise"
+  },
+  {
+    "id": "richmond-va-cities-v2",
+    "name": "Richmond, VA"
+  },
+  {
+    "id": "des-moines-cities-v2",
+    "name": "Des Moines"
+  },
+  {
+    "id": "baton-rouge-cities-v2",
+    "name": "Baton Rouge"
+  },
+  {
+    "id": "spokane-cities-v2",
+    "name": "Spokane"
+  },
+  {
+    "id": "birmingham-al-cities-v2",
+    "name": "Birmingham, AL"
+  },
+  {
+    "id": "rochester-ny-cities-v2",
+    "name": "Rochester, NY"
+  },
+  {
+    "id": "aurora-co-cities-v2",
+    "name": "Aurora, CO"
+  },
+  {
+    "id": "little-rock-cities-v2",
+    "name": "Little Rock"
+  },
+  {
+    "id": "columbia-sc-cities-v2",
+    "name": "Columbia, SC"
+  },
+  {
+    "id": "jackson-ms-cities-v2",
+    "name": "Jackson, MS"
+  },
+  {
+    "id": "providence-cities-v2",
+    "name": "Providence"
+  },
+  {
+    "id": "hartford-cities-v2",
+    "name": "Hartford"
+  },
+  {
+    "id": "salt-lake-city-cities-v2",
+    "name": "Salt Lake City"
+  },
+  {
+    "id": "charleston-sc-cities-v2",
+    "name": "Charleston, SC"
+  },
+  {
+    "id": "savannah-cities-v2",
+    "name": "Savannah"
+  },
+  {
+    "id": "santa-fe-cities-v2",
+    "name": "Santa Fe"
+  },
+  {
+    "id": "juneau-cities-v2",
+    "name": "Juneau"
+  },
+  {
+    "id": "montgomery-cities-v2",
+    "name": "Montgomery"
+  },
+  {
+    "id": "annapolis-cities-v2",
+    "name": "Annapolis"
+  },
+  {
+    "id": "albany-ny-cities-v2",
+    "name": "Albany, NY"
+  },
+  {
+    "id": "harrisburg-cities-v2",
+    "name": "Harrisburg"
+  },
+  {
+    "id": "trenton-cities-v2",
+    "name": "Trenton"
+  },
+  {
+    "id": "dover-cities-v2",
+    "name": "Dover"
+  },
+  {
+    "id": "augusta-me-cities-v2",
+    "name": "Augusta, ME"
+  },
+  {
+    "id": "concord-nh-cities-v2",
+    "name": "Concord, NH"
+  },
+  {
+    "id": "montpelier-cities-v2",
+    "name": "Montpelier"
+  },
+  {
+    "id": "helena-cities-v2",
+    "name": "Helena"
+  },
+  {
+    "id": "bismarck-cities-v2",
+    "name": "Bismarck"
+  },
+  {
+    "id": "pierre-cities-v2",
+    "name": "Pierre"
+  },
+  {
+    "id": "springfield-il-cities-v2",
+    "name": "Springfield, IL"
+  },
+  {
+    "id": "jefferson-city-cities-v2",
+    "name": "Jefferson City"
+  },
+  {
+    "id": "frankfort-cities-v2",
+    "name": "Frankfort"
+  },
+  {
+    "id": "lansing-cities-v2",
+    "name": "Lansing"
+  },
+  {
+    "id": "madison-wi-cities-v2",
+    "name": "Madison, WI"
+  },
+  {
+    "id": "tallahassee-cities-v2",
+    "name": "Tallahassee"
+  },
+  {
+    "id": "charleston-wv-cities-v2",
+    "name": "Charleston, WV"
+  },
+  {
+    "id": "salem-or-cities-v2",
+    "name": "Salem, OR"
+  },
+  {
+    "id": "olympia-cities-v2",
+    "name": "Olympia"
+  },
+  {
+    "id": "carson-city-cities-v2",
+    "name": "Carson City"
+  },
+  {
+    "id": "lincoln-ne-cities-v2",
+    "name": "Lincoln, NE"
+  },
+  {
+    "id": "faneuil-hall-landmarks-v2",
+    "name": "Faneuil Hall"
+  },
+  {
+    "id": "hollywood-sign-landmarks-v2",
+    "name": "Hollywood Sign"
+  },
+  {
+    "id": "lincoln-memorial-landmarks-v2",
+    "name": "Lincoln Memorial"
+  },
+  {
+    "id": "washington-monument-landmarks-v2",
+    "name": "Washington Monument"
+  },
+  {
+    "id": "empire-state-building-landmarks-v2",
+    "name": "Empire State Building"
+  },
+  {
+    "id": "one-world-trade-center-landmarks-v2",
+    "name": "One World Trade Center"
+  },
+  {
+    "id": "chrysler-building-landmarks-v2",
+    "name": "Chrysler Building"
+  },
+  {
+    "id": "willis-tower-landmarks-v2",
+    "name": "Willis Tower"
+  },
+  {
+    "id": "kennedy-space-center-landmarks-v2",
+    "name": "Kennedy Space Center"
+  },
+  {
+    "id": "grand-central-terminal-landmarks-v2",
+    "name": "Grand Central Terminal"
+  },
+  {
+    "id": "gettysburg-battlefield-landmarks-v2",
+    "name": "Gettysburg Battlefield"
+  },
+  {
+    "id": "the-alamo-landmarks-v2",
+    "name": "The Alamo"
+  },
+  {
+    "id": "las-vegas-strip-landmarks-v2",
+    "name": "Las Vegas Strip"
+  },
+  {
+    "id": "times-square-landmarks-v2",
+    "name": "Times Square"
+  },
+  {
+    "id": "fenway-park-landmarks-v2",
+    "name": "Fenway Park"
+  },
+  {
+    "id": "wrigley-field-landmarks-v2",
+    "name": "Wrigley Field"
+  },
+  {
+    "id": "madison-square-garden-landmarks-v2",
+    "name": "Madison Square Garden"
+  },
+  {
+    "id": "national-september-11-memorial-landmarks-v2",
+    "name": "National September 11 Memorial"
+  },
+  {
+    "id": "us-capitol-landmarks-v2",
+    "name": "United States Capitol"
+  },
+  {
+    "id": "white-house-landmarks-v2",
+    "name": "White House"
+  },
+  {
+    "id": "independence-hall-landmarks-v2",
+    "name": "Independence Hall"
+  },
+  {
+    "id": "liberty-bell-landmarks-v2",
+    "name": "Liberty Bell"
+  },
+  {
+    "id": "st-patricks-cathedral-landmarks-v2",
+    "name": "St. Patrick's Cathedral"
+  },
+  {
+    "id": "brooklyn-bridge-landmarks-v2",
+    "name": "Brooklyn Bridge"
+  },
+  {
+    "id": "hollywood-bowl-landmarks-v2",
+    "name": "Hollywood Bowl"
+  },
+  {
+    "id": "san-diego-zoo-life-v2",
+    "name": "San Diego Zoo"
+  },
+  {
+    "id": "yellowstone-national-park-life-v2",
+    "name": "Yellowstone National Park"
+  },
+  {
+    "id": "disney-world-orlando-life-v2",
+    "name": "Walt Disney World"
+  },
+  {
+    "id": "everglades-national-park-life-v2",
+    "name": "Everglades National Park"
+  },
+  {
+    "id": "central-park-zoo-life-v2",
+    "name": "Central Park Zoo"
+  },
+  {
+    "id": "napa-valley-vineyards-life-v2",
+    "name": "Napa Valley Vineyards"
+  },
+  {
+    "id": "denali-national-park-life-v2",
+    "name": "Denali National Park"
+  },
+  {
+    "id": "cedar-point-amusement-park-life-v2",
+    "name": "Cedar Point"
+  },
+  {
+    "id": "california-central-valley-life-v2",
+    "name": "California's Central Valley"
+  },
+  {
+    "id": "bronx-zoo-life-v2",
+    "name": "Bronx Zoo"
+  },
+  {
+    "id": "kansas-wheat-fields-life-v2",
+    "name": "Kansas Wheat Fields"
+  },
+  {
+    "id": "glacier-national-park-life-v2",
+    "name": "Glacier National Park"
+  },
+  {
+    "id": "hersheypark-life-v2",
+    "name": "Hersheypark"
+  },
+  {
+    "id": "idaho-potato-farms-life-v2",
+    "name": "Idaho Potato Farms"
+  },
+  {
+    "id": "monterey-bay-aquarium-life-v2",
+    "name": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "olympic-national-park-life-v2",
+    "name": "Olympic National Park"
+  },
+  {
+    "id": "florida-citrus-groves-life-v2",
+    "name": "Florida Citrus Groves"
+  },
+  {
+    "id": "shedd-aquarium-chicago-life-v2",
+    "name": "Shedd Aquarium"
+  },
+  {
+    "id": "rocky-mountain-national-park-life-v2",
+    "name": "Rocky Mountain National Park"
+  },
+  {
+    "id": "wisconsin-dairy-farms-life-v2",
+    "name": "Wisconsin Dairy Farms"
+  },
+  {
+    "id": "legoland-california-life-v2",
+    "name": "Legoland California"
+  },
+  {
+    "id": "grand-teton-national-park-life-v2",
+    "name": "Grand Teton National Park"
+  },
+  {
+    "id": "georgia-peach-orchards-life-v2",
+    "name": "Georgia Peach Orchards"
+  },
+  {
+    "id": "seaworld-orlando-life-v2",
+    "name": "SeaWorld Orlando"
+  },
+  {
+    "id": "zion-national-park-life-v2",
+    "name": "Zion National Park"
+  },
+  {
+    "id": "iowa-corn-fields-life-v2",
+    "name": "Iowa Corn Fields"
+  },
+  {
+    "id": "busch-gardens-tampa-bay-life-v2",
+    "name": "Busch Gardens Tampa Bay"
+  },
+  {
+    "id": "great-smoky-mountains-life-v2",
+    "name": "Great Smoky Mountains National Park"
+  },
+  {
+    "id": "washington-apple-orchards-life-v2",
+    "name": "Washington Apple Orchards"
+  },
+  {
+    "id": "knott-s-berry-farm-life-v2",
+    "name": "Knott's Berry Farm"
+  },
+  {
+    "id": "lake-tahoe-nature-v2",
+    "name": "Lake Tahoe"
+  },
+  {
+    "id": "tongass-national-forest-nature-v2",
+    "name": "Tongass National Forest"
+  },
+  {
+    "id": "gulf-of-mexico-nature-v2",
+    "name": "Gulf of Mexico"
+  },
+  {
+    "id": "mount-desert-island-nature-v2",
+    "name": "Mount Desert Island"
+  },
+  {
+    "id": "colorado-river-nature-v2",
+    "name": "Colorado River"
+  },
+  {
+    "id": "crater-lake-nature-v2",
+    "name": "Crater Lake"
+  },
+  {
+    "id": "sequoia-national-forest-nature-v2",
+    "name": "Sequoia National Forest"
+  },
+  {
+    "id": "pikes-peak-nature-v2",
+    "name": "Pikes Peak"
+  },
+  {
+    "id": "great-salt-lake-nature-v2",
+    "name": "Great Salt Lake"
+  },
+  {
+    "id": "key-west-nature-v2",
+    "name": "Key West"
+  },
+  {
+    "id": "hudson-river-nature-v2",
+    "name": "Hudson River"
+  },
+  {
+    "id": "coconino-national-forest-nature-v2",
+    "name": "Coconino National Forest"
+  },
+  {
+    "id": "mauna-kea-nature-v2",
+    "name": "Mauna Kea"
+  },
+  {
+    "id": "bering-sea-nature-v2",
+    "name": "Bering Sea"
+  },
+  {
+    "id": "marthas-vineyard-nature-v2",
+    "name": "Martha's Vineyard"
+  },
+  {
+    "id": "lake-pontchartrain-nature-v2",
+    "name": "Lake Pontchartrain"
+  },
+  {
+    "id": "rio-grande-nature-v2",
+    "name": "Rio Grande"
+  },
+  {
+    "id": "white-mountain-national-forest-nature-v2",
+    "name": "White Mountain National Forest"
+  },
+  {
+    "id": "mount-shasta-nature-v2",
+    "name": "Mount Shasta"
+  },
+  {
+    "id": "lake-okeechobee-nature-v2",
+    "name": "Lake Okeechobee"
+  },
+  {
+    "id": "santa-catalina-island-nature-v2",
+    "name": "Santa Catalina Island"
+  },
+  {
+    "id": "missouri-river-nature-v2",
+    "name": "Missouri River"
+  },
+  {
+    "id": "pisgah-national-forest-nature-v2",
+    "name": "Pisgah National Forest"
+  },
+  {
+    "id": "mount-hood-nature-v2",
+    "name": "Mount Hood"
+  },
+  {
+    "id": "padre-island-nature-v2",
+    "name": "Padre Island"
+  },
+  {
+    "id": "gulf-of-alaska-nature-v2",
+    "name": "Gulf of Alaska"
+  },
+  {
+    "id": "ohio-river-nature-v2",
+    "name": "Ohio River"
+  },
+  {
+    "id": "sawtooth-national-forest-nature-v2",
+    "name": "Sawtooth National Forest"
+  },
+  {
+    "id": "sierra-nevada-usa-relief-v2",
+    "name": "Sierra Nevada (USA)"
+  },
+  {
+    "id": "cascade-range-relief-v2",
+    "name": "Cascade Range"
+  },
+  {
+    "id": "basin-and-range-relief-v2",
+    "name": "Basin and Range"
+  },
+  {
+    "id": "ozark-plateau-relief-v2",
+    "name": "Ozark Plateau"
+  },
+  {
+    "id": "cascades-volcanic-relief-v2",
+    "name": "Cascade Volcanoes"
+  },
+  {
+    "id": "blueridge-mountains-relief-v2",
+    "name": "Blue Ridge Mountains"
+  },
+  {
+    "id": "white-mountains-usa-relief-v2",
+    "name": "White Mountains"
+  },
+  {
+    "id": "adirondack-mountains-relief-v2",
+    "name": "Adirondack Mountains"
+  },
+  {
+    "id": "big-bend-relief-v2",
+    "name": "Big Bend"
+  },
+  {
+    "id": "black-hills-relief-v2",
+    "name": "Black Hills"
+  },
+  {
+    "id": "colorado-plateau-relief-v2",
+    "name": "Colorado Plateau"
+  },
+  {
+    "id": "great-basin-relief-v2",
+    "name": "Great Basin"
+  },
+  {
+    "id": "sierra-madre-occidental-relief-v2",
+    "name": "Sierra Madre Occidental (USA part)"
+  },
+  {
+    "id": "chisos-mountains-relief-v2",
+    "name": "Chisos Mountains"
+  },
+  {
+    "id": "wasatch-range-relief-v2",
+    "name": "Wasatch Range"
+  },
+  {
+    "id": "bighorn-mountains-relief-v2",
+    "name": "Bighorn Mountains"
+  },
+  {
+    "id": "olympic-mountains-relief-v2",
+    "name": "Olympic Mountains"
+  },
+  {
+    "id": "uinta-mountains-relief-v2",
+    "name": "Uinta Mountains"
+  },
+  {
+    "id": "tetons-relief-v2",
+    "name": "Teton Range"
+  },
+  {
+    "id": "sawtooth-mountains-relief-v2",
+    "name": "Sawtooth Mountains"
+  },
+  {
+    "id": "cascades-volcanic-north-relief-v2",
+    "name": "North Cascades"
+  }
+]

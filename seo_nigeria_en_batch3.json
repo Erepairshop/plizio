@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-ife-cities-v2",
+      "descriptionAdvanced": "Ile-Ife is profoundly revered as the spiritual and mythological cradle of the Yoruba people, widely believed to be the origin point of human existence in Yoruba cosmology. The city is internationally famous for its stunning archaeological discoveries, particularly the incredibly lifelike terracotta and bronze heads dating back to the 12th century. The Ooni of Ife serves as the preeminent traditional ruler, holding massive spiritual authority across Yorubaland. Today, Ife is a bustling university town, primarily driven by the presence of Obafemi Awolowo University (OAU), renowned for its striking modern architecture. History K8 — ancient African civilizations and art.",
+      "factsAdvanced": [
+        "Regarded as the mythological origin of humanity in Yoruba traditional religion.",
+        "The seat of the Ooni of Ife, one of the highest-ranking monarchs in Nigeria.",
+        "World-famous for highly realistic bronze and terracotta sculptures.",
+        "Hosts Obafemi Awolowo University (OAU), established in 1962.",
+        "Located in Osun State, surrounded by a rich agricultural hinterland.",
+        "The ancient city is celebrated annually during the Olojo festival."
+      ]
+    },
+    {
+      "id": "ng-owo-cities-v2",
+      "descriptionAdvanced": "Owo is a historically significant city in Ondo State, uniquely positioned geographically and culturally between the Yoruba to the west and the Edo (Benin) to the east. This cross-cultural influence is deeply visible in its traditional art, architecture, and the regalia of its monarch, the Olowo of Owo. The city is renowned for the largest known palace in Africa, a sprawling complex comprising over a hundred courtyards. Archaeologically, Owo gained international fame following excavations in the 1970s that uncovered exquisite terracotta sculptures bridging Ife and Benin styles. The local economy is driven by cocoa farming and timber processing. History K7 — cultural intersections and archaeology.",
+      "factsAdvanced": [
+        "Strategically located between the Yoruba and Edo cultural spheres.",
+        "The traditional ruler is the Olowo of Owo.",
+        "Features the Olowo's Palace, reputed to be the largest traditional palace in Africa.",
+        "Famous for the 1971 archaeological excavations uncovering unique terracotta figures.",
+        "A major regional center for the cultivation of cocoa and yams.",
+        "The city holds the annual Igogo festival, celebrating its martial history."
+      ]
+    },
+    {
+      "id": "ng-ondo-city-cities-v2",
+      "descriptionAdvanced": "Ondo City functions as the bustling commercial and educational heart of the Ondo Kingdom within Ondo State. The city experienced massive wealth generation during the 20th-century cocoa boom, leading to rapid urbanization and the establishment of prestigious educational institutions. It boasts a distinct, proud cultural identity, overseen by the Osemawe of Ondo, whose traditional authority remains highly respected. The city is surrounded by dense tropical rainforests, making it a critical hub for the logging and timber industry. Today, Ondo City features a rapidly growing medical education sector, anchoring its modern economy. Geography K7 — cash crops and forest resources.",
+      "factsAdvanced": [
+        "The cultural and traditional capital of the Ondo Kingdom.",
+        "The traditional ruler is known as the Osemawe of Ondo.",
+        "Historically built immense wealth through massive cocoa plantations.",
+        "Surrounded by dense rainforest, driving a lucrative timber and logging sector.",
+        "Home to the University of Medical Sciences, Ondo (UNIMED).",
+        "Known for its distinct dialect of the Yoruba language."
+      ]
+    },
+    {
+      "id": "ng-uromi-cities-v2",
+      "descriptionAdvanced": "Uromi stands as the largest and most populous city in the Esan-speaking region of Edo State, serving as its undisputed commercial center. Historically, it was a formidable military state that resisted the expansion of the neighboring Benin Empire. Today, Uromi is a bustling agrarian town, functioning as the primary collection point for palm produce, rubber, and cassava grown in the surrounding fertile plateau. The town is deeply rooted in traditional institutions, governed by the Ojuromi of Uromi. Despite modernization, it retains a distinct rural charm and a deep commitment to Esan cultural heritage. Geography K7 — agrarian centers and plateau settlements.",
+      "factsAdvanced": [
+        "The largest and most commercially active city in Esanland, Edo State.",
+        "The traditional monarch is the Ojuromi of Uromi.",
+        "Historically a fierce military state that resisted the Benin Empire.",
+        "A major agricultural collection center for palm oil, rubber, and cassava.",
+        "Features a slightly elevated plateau geography providing a moderate climate.",
+        "Home to a highly diverse and active local market system."
+      ]
+    },
+    {
+      "id": "ng-kafanchan-cities-v2",
+      "descriptionAdvanced": "Kafanchan is a critically important town in southern Kaduna State, historically defined by its strategic role as the central hub of the Nigerian Railway Corporation. During the mid-20th century, the town thrived as the intersection point connecting the northern, eastern, and western railway lines, drawing a highly diverse, multi-ethnic population. While railway traffic has declined, Kafanchan remains an essential agricultural market, famous for the trading of ginger, maize, and yams. The nearby Kagoro Hills offer spectacular scenery and a cooler climate. The town is the cultural capital for numerous indigenous ethnic groups of southern Kaduna. History K7 — railway history and multi-ethnic towns.",
+      "factsAdvanced": [
+        "Historically the most important railway junction in central Nigeria.",
+        "Located in southern Kaduna State, near the scenic Kagoro Hills.",
+        "Home to a highly diverse, multi-ethnic and multi-religious population.",
+        "A massive agricultural center, specifically noted for high-quality ginger production.",
+        "The traditional ruler is the Emir of Jama'a.",
+        "Experienced rapid growth in the 1920s directly due to railway expansion."
+      ]
+    },
+    {
+      "id": "ng-jimeta-cities-v2",
+      "descriptionAdvanced": "Jimeta serves as the bustling administrative and commercial twin city to the historic town of Yola in Adamawa State. Located on the southern bank of the Benue River, it was developed during the colonial era to handle river port trade and government administration, allowing old Yola to maintain its traditional sanctity. Today, Jimeta houses the state secretariat, the main commercial markets, and the regional airport, making it the practical economic engine of the state. The town experiences a tropical savanna climate and serves as a major transit point for agricultural goods moving down the river. Geography K7 — twin cities and river administration.",
+      "factsAdvanced": [
+        "Functions as the modern administrative and commercial twin city to Yola.",
+        "Located directly on the southern bank of the Benue River.",
+        "Houses the Adamawa State Government Secretariat and major markets.",
+        "Developed primarily during the colonial era as a river port and administrative center.",
+        "Home to the Yola International Airport.",
+        "A critical hub for regional trade in cattle, hides, and agricultural produce."
+      ]
+    },
+    {
+      "id": "ng-mubi-cities-v2",
+      "descriptionAdvanced": "Mubi is a vibrant border town in Adamawa State, serving as a critical commercial intersection between Nigeria and neighboring Cameroon. Often referred to as the commercial capital of the state, Mubi's massive cattle markets attract traders from across the Sahel region. The town is situated in a picturesque valley surrounded by the Mandara Mountains, resulting in a slightly cooler climate than the surrounding plains. It hosts the Federal Polytechnic Mubi and a state university, bringing a youthful energy to the bustling trade environment. Despite severe security challenges in the past decade, Mubi's cross-border trade economy remains resilient. Geography K8 — international border trade and valley towns.",
+      "factsAdvanced": [
+        "A major commercial border town located in Adamawa State.",
+        "Serves as a massive regional hub for the cross-border cattle trade with Cameroon.",
+        "Nestled in a valley bordered by the scenic Mandara Mountains.",
+        "Hosts the Federal Polytechnic Mubi and the Adamawa State University.",
+        "Historically part of the Northern Cameroons before joining Nigeria in 1961.",
+        "Has shown significant economic resilience following regional security crises."
+      ]
+    },
+    {
+      "id": "ng-bida-cities-v2",
+      "descriptionAdvanced": "Bida is the traditional capital of the Nupe people, located in the lush, low-lying plains of Niger State. The city is internationally renowned for its exceptional indigenous artisanship, particularly its master glassmakers (Masaga) and brass smiths, who utilize centuries-old techniques to create stunning jewelry and decorative items. The Etsu Nupe, the traditional ruler, holds significant cultural authority, residing in an expansive palace complex. Geographically, Bida benefits from the highly fertile floodplains of the Niger and Kaduna rivers, producing massive quantities of rice and melon. It represents an intact, thriving traditional economy. History K7 — indigenous artisanship and the Nupe Kingdom.",
+      "factsAdvanced": [
+        "The traditional and cultural capital of the Nupe people in Niger State.",
+        "The traditional ruler is the highly influential Etsu Nupe.",
+        "World-famous for indigenous glassmaking, specifically by the Masaga guild.",
+        "Renowned for traditional brass work, pottery, and intricate weaving.",
+        "Surrounded by highly fertile floodplains, making it a major rice-producing center.",
+        "Features distinct traditional architecture heavily influenced by Islamic design."
+      ]
+    },
+    {
+      "id": "apapa-port-complex-economic-v2",
+      "descriptionAdvanced": "The Apapa Port Complex, located in Lagos, stands as Nigeria's premier and busiest seaport, handling an overwhelming majority of the country's inbound and outbound non-oil cargo. Established in the early 20th century, it was significantly modernized in the 1970s and is now largely operated by private concessionaires. The massive facility covers hundreds of hectares, featuring specialized terminals for containers, bulk wheat, and petroleum products. Due to its enormous trade volume, the surrounding Apapa district frequently experiences severe traffic gridlock. It remains the critical lung of Nigeria's international trade and consumer goods supply chain. Geography K8 — international trade and maritime logistics.",
+      "factsAdvanced": [
+        "Nigeria's largest and most significant seaport, located in Lagos.",
+        "Handles the vast majority of the nation's imported containerized cargo.",
+        "Features highly specialized terminals for bulk grain, petroleum, and containers.",
+        "Underwent a major privatization and concession program in 2006.",
+        "The heavy truck traffic causes legendary gridlock in the surrounding Apapa district.",
+        "Originally established by the British colonial administration in the 1920s."
+      ]
+    },
+    {
+      "id": "tin-can-island-port-economic-v2",
+      "descriptionAdvanced": "Tin Can Island Port is a massive maritime facility in Lagos, constructed rapidly in 1977 to alleviate the severe congestion strangling the nearby Apapa Port during Nigeria's oil boom. It is exceptionally famous for its specialized Roll-on/Roll-off (RoRo) terminals, making it the primary gateway for imported vehicles into the country. The port's infrastructure was highly innovative for its time, built on a reclaimed island utilizing pre-fabricated materials. Today, it operates under private terminal operators and handles substantial container traffic. Like Apapa, it is a crucial artery for the national economy, albeit plagued by similar road access issues. Geography K8 — port expansion and automotive imports.",
+      "factsAdvanced": [
+        "Constructed in just 15 months in 1977 to relieve the Apapa Port 'cement armada' crisis.",
+        "Built on a reclaimed island in the Lagos lagoon.",
+        "The primary Nigerian gateway for Roll-on/Roll-off (RoRo) vehicle imports.",
+        "Operates under private concessionaires managing specialized container terminals.",
+        "Handles massive volumes of both dry and liquid bulk cargo.",
+        "Faces continuous logistical challenges regarding road access and truck parking."
+      ]
+    },
+    {
+      "id": "onne-port-economic-v2",
+      "descriptionAdvanced": "The Onne Port Complex, located near Port Harcourt in Rivers State, is uniquely designed to serve the massive demands of the Nigerian oil and gas industry. It hosts the sprawling Onne Oil and Gas Free Zone, which is one of the largest specialized free zones of its kind in the world. The port provides critical logistical support, equipment storage, and maintenance facilities for deep offshore drilling operations across the Gulf of Guinea. Its deep draft allows it to accommodate massive supply vessels and heavy lifting equipment. Onne serves as the nerve center for multinational energy logistics. Geography K8 — specialized free zones and offshore drilling.",
+      "factsAdvanced": [
+        "Located on the Ogu Creek near Port Harcourt in Rivers State.",
+        "Specifically designed to service the West African oil and gas industry.",
+        "Hosts the massive Onne Oil and Gas Free Zone.",
+        "Provides logistical support for deep offshore exploration and production.",
+        "Features specialized heavy-lift equipment for oil rig components.",
+        "Operates as a highly secure, private concession-driven port facility."
+      ]
+    },
+    {
+      "id": "port-harcourt-port-economic-v2",
+      "descriptionAdvanced": "The Port of Port Harcourt is an historic and vital maritime facility located directly on the Bonny River in the Niger Delta. Established in 1912, its original purpose was the export of coal mined in Enugu. Over the decades, its function has shifted dramatically; today, it is essential for the import of industrial machinery and the export of palm oil and refined petroleum products. While its draft limits the size of modern mega-ships compared to Onne or Lagos, it remains the primary gateway for goods destined for southeastern Nigeria. The port deeply influenced the rapid urbanization of the surrounding city. Geography K7 — river ports and regional supply chains.",
+      "factsAdvanced": [
+        "Established in 1912 primarily to export coal from the Enugu collieries.",
+        "Located along the Bonny River in Rivers State.",
+        "Handles a mix of general cargo, petroleum products, and agricultural exports.",
+        "Serves as the primary maritime gateway for the southeastern Nigerian market.",
+        "Operated through private terminal concessions since the 2006 port reforms.",
+        "Faces draft limitations, preventing the docking of ultra-large container vessels."
+      ]
+    },
+    {
+      "id": "calabar-port-economic-v2",
+      "descriptionAdvanced": "The Calabar Port is situated on the Calabar River in Cross River State, occupying a strategic corner of southeastern Nigeria near the Cameroon border. Historically one of the oldest trading ports in West Africa, it served during both the transatlantic slave trade and the subsequent palm oil boom. Today, the modern port complex operates a Free Trade Zone intended to stimulate industrial growth. Despite its excellent facilities, it has struggled with a shallow river channel requiring constant dredging to accommodate large vessels. It primarily serves local industries and aims to act as a transit port for landlocked neighbors like Chad. Geography K7 — historic ports and free trade zones.",
+      "factsAdvanced": [
+        "Located on the Calabar River, near the border with Cameroon.",
+        "Historically a major hub for the transatlantic slave and palm oil trades.",
+        "Hosts the Calabar Free Trade Zone, designed to attract foreign manufacturing.",
+        "Chronically affected by a shallow draft, requiring expensive river dredging.",
+        "Aims to serve as a transit port for landlocked countries like Chad and Niger.",
+        "Handles primarily bulk cargo, petroleum products, and general goods."
+      ]
+    },
+    {
+      "id": "warri-port-economic-v2",
+      "descriptionAdvanced": "The Warri Port is a critical inland river port located along the Warri River in Delta State, deeply embedded in the operations of the Niger Delta's oil industry. Originally a major hub for the export of rubber, timber, and palm produce, the port's focus shifted entirely following the discovery of crude oil. Today, it primarily handles specialized oilfield equipment, supply vessels, and general cargo supporting the local petrochemical and refining industries. Like Calabar, it faces severe challenges regarding the dredging of the Escravos bar to allow deeper draft vessels. It remains a vital logistical lifeline for the western Delta. Geography K8 — inland river navigation and oilfield logistics.",
+      "factsAdvanced": [
+        "Located along the Warri River in Delta State.",
+        "Historically significant for the export of rubber, timber, and palm oil.",
+        "Currently serves primarily as a logistics base for the regional oil and gas sector.",
+        "Handles supply vessels, heavy machinery, and refined petroleum products.",
+        "Severely impacted by the shallow depth of the Escravos river channel.",
+        "Operated by private concessionaires focusing on specialized oilfield services."
+      ]
+    },
+    {
+      "id": "lekki-deep-sea-port-economic-v2",
+      "descriptionAdvanced": "The Lekki Deep Sea Port represents the future of Nigeria's maritime industry, located in the Lekki Free Trade Zone on the eastern outskirts of Lagos. Commissioned in 2023, it is the country's first true deep-sea port and one of the most modern facilities in West Africa. With a massive draft of over 16 meters, it is specifically designed to accommodate the world's largest Post-Panamax container ships, drastically reducing the cost of shipping to Nigeria. The port is highly automated, minimizing the legendary delays associated with older Nigerian ports. It serves as a monumental leap forward in West African trade infrastructure. Geography K8 — deep-sea ports and automated logistics.",
+      "factsAdvanced": [
+        "Commissioned in 2023 as Nigeria's first true deep-sea port.",
+        "Located within the Lekki Free Trade Zone in Lagos State.",
+        "Features a draft of 16.5 meters, accommodating massive Post-Panamax vessels.",
+        "Built as a joint venture involving the Nigerian government, Lagos State, and foreign investors.",
+        "Highly automated, designed to eliminate the severe delays of older ports.",
+        "Expected to act as a major transshipment hub for the entire West African coast."
+      ]
+    },
+    {
+      "id": "koko-port-economic-v2",
+      "descriptionAdvanced": "Koko Port is a small, historically significant inland port situated on the Benin River in Delta State. During the colonial era and the mid-20th century, it was a bustling hub for the export of timber, rubber, and palm oil. However, the port gained infamous international notoriety in 1988 when it was discovered that toxic radioactive waste from Italy had been illegally dumped there, sparking a massive environmental scandal. Today, the port has been rehabilitated and serves as a niche facility, primarily handling refined petroleum products and supporting local logistics. It remains a quiet, specialized alternative to the larger Delta ports. Geography K8 — environmental history and niche ports.",
+      "factsAdvanced": [
+        "A small inland river port located on the Benin River in Delta State.",
+        "Historically a major center for the export of timber and agricultural produce.",
+        "Gained international infamy in 1988 due to the illegal dumping of Italian toxic waste.",
+        "Currently handles niche cargo, specifically refined petroleum products.",
+        "Operates as a relief facility for the more congested Warri and Sapele ports.",
+        "Features a relatively shallow draft, restricting access to smaller vessels."
+      ]
+    },
+    {
+      "id": "sapele-port-economic-v2",
+      "descriptionAdvanced": "Sapele Port is an historic freshwater port located on the Benin River in Delta State, deeply entwined with Nigeria's forestry and agricultural history. It was globally recognized in the mid-20th century as the operational base for the African Timber and Plywood company, exporting massive quantities of local hardwood. As the timber industry declined, the port shifted its focus and currently handles a mix of general cargo, agricultural produce, and petroleum support services. While overshadowed by the larger Delta ports, it remains an essential logistical hub for the local economy. The port represents the transition of the Delta economy over a century. Geography K7 — historic river trade and forestry exports.",
+      "factsAdvanced": [
+        "Located on the freshwater Benin River in Delta State.",
+        "Historically world-famous for massive timber and plywood exports.",
+        "The former base of operations for the African Timber and Plywood (AT&P) company.",
+        "Currently handles general cargo, agricultural goods, and coastal supply vessels.",
+        "Located further inland, restricting access to large ocean-going vessels.",
+        "Remains a vital source of local employment and regional logistics."
+      ]
+    },
+    {
+      "id": "burutu-port-economic-v2",
+      "descriptionAdvanced": "Burutu Port is one of the oldest and most historically fascinating inland ports in Nigeria, located deep within the creeks of the Niger Delta in Delta State. It was established in the late 19th century by the Royal Niger Company as a heavily fortified trading post and administrative headquarters. For decades, it was a thriving maritime hub equipped with extensive slipways and ship repair facilities. Today, isolated by a lack of road connectivity to the mainland, the port operates on a highly localized scale, primarily serving the riverine communities and supporting small-scale oil operations. It stands as a profound monument to colonial riverine trade. History K8 — the Royal Niger Company and isolated ports.",
+      "factsAdvanced": [
+        "Located deep within the riverine creeks of Delta State.",
+        "Founded in the late 19th century as a major base for the Royal Niger Company.",
+        "Historically featured massive ship repair and shipbuilding slipway facilities.",
+        "Geographically isolated, accessible only by water, lacking road connections.",
+        "Currently serves localized river trade and small-scale maritime operations.",
+        "Once a bustling, cosmopolitan hub during the height of the palm oil trade."
+      ]
+    },
+    {
+      "id": "escravos-terminal-economic-v2",
+      "descriptionAdvanced": "The Escravos Terminal is a colossal crude oil and natural gas export facility located at the mouth of the Escravos River in Delta State, directly facing the Bight of Benin. Operated primarily by Chevron, it is one of the most critical energy infrastructures in Nigeria. The terminal collects crude oil from numerous onshore and offshore fields via an extensive pipeline network, storing and loading it onto massive ocean-going tankers. It is also the site of the groundbreaking Escravos Gas-to-Liquids (EGTL) plant, designed to eliminate gas flaring by converting natural gas into premium diesel. The terminal is a cornerstone of global energy supply. Geography K8 — crude oil export and gas-to-liquids technology.",
+      "factsAdvanced": [
+        "A massive crude oil export terminal located in Delta State.",
+        "Operated by Chevron as part of a joint venture with the Nigerian government.",
+        "Features an extensive tank farm for the storage of crude before export.",
+        "Home to the innovative Escravos Gas-to-Liquids (EGTL) project.",
+        "Accessible to large ocean-going oil tankers via the Escravos bar.",
+        "A critical asset for the reduction of natural gas flaring in the Niger Delta."
+      ]
+    },
+    {
+      "id": "forcados-terminal-economic-v2",
+      "descriptionAdvanced": "The Forcados Terminal is a monumental crude oil export facility situated at the Forcados River estuary in Delta State. Built and operated primarily by Shell (SPDC), it is the premier outlet for the massive 'Forcados blend' of crude oil, highly prized on the global market for its low sulfur content. The terminal receives oil from a vast network of pipelines stretching deep into the western Niger Delta. Due to its strategic importance, it has occasionally been the target of militant attacks, causing significant disruptions to the global oil market. The terminal's offshore single point mooring (SPM) buoys allow ultra-large crude carriers to load safely. Geography K8 — crude oil blends and export infrastructure.",
+      "factsAdvanced": [
+        "A premier crude oil export terminal located at the Forcados River estuary.",
+        "Operated primarily by Shell Petroleum Development Company (SPDC).",
+        "Exports the 'Forcados blend', a highly valued light, sweet crude oil.",
+        "Connected to the western Niger Delta via the massive Trans Forcados Pipeline.",
+        "Utilizes Single Point Mooring (SPM) buoys for loading ultra-large crude carriers offshore.",
+        "A historically critical asset, highly sensitive to regional security issues."
+      ]
+    },
+    {
+      "id": "bonny-oil-terminal-economic-v2",
+      "descriptionAdvanced": "The Bonny Terminal complex, located on Bonny Island in Rivers State, is arguably the most economically critical piece of infrastructure in Nigeria. It comprises two massive operations: a sprawling crude oil export terminal operated by Shell, and the colossal Nigeria LNG (NLNG) plant. The NLNG facility captures natural gas from across the Delta, liquefies it through massive freezing trains, and exports it globally on specialized ships. This terminal alone accounts for a significant percentage of Nigeria's total foreign exchange earnings. The island itself is deeply historical, transforming from a 19th-century slave port to a 21st-century energy superpower. Geography K8 — liquefied natural gas and global energy markets.",
+      "factsAdvanced": [
+        "Located on the historic Bonny Island in Rivers State.",
+        "Houses both a massive crude oil export terminal and the Nigeria LNG (NLNG) plant.",
+        "The NLNG facility features six operational liquefaction trains (with a seventh under construction).",
+        "Exports massive quantities of Liquefied Natural Gas to global markets.",
+        "Accounts for a highly significant portion of Nigeria's national revenue.",
+        "The island transitioned from a major 19th-century trading port to an energy hub."
+      ]
+    },
+    {
+      "id": "qua-iboe-terminal-economic-v2",
+      "descriptionAdvanced": "The Qua Iboe Terminal (QIT) is a massive crude oil processing and export facility located in Ibeno, Akwa Ibom State. Operated primarily by ExxonMobil, it is dedicated to processing crude oil extracted from an extensive network of deep offshore platforms in the Bight of Bonny. The terminal receives the crude, removes water and impurities, stores it in a massive tank farm, and pumps it out to offshore loading buoys for export. The 'Qua Iboe blend' is one of Nigeria's flagship crude grades, highly sought after by global refineries. The terminal acts as the economic beating heart of Akwa Ibom State. Geography K8 — offshore oil production and flagship crude grades.",
+      "factsAdvanced": [
+        "Located in Ibeno, Akwa Ibom State, on the eastern edge of the Niger Delta.",
+        "Operated by ExxonMobil in a joint venture with the Nigerian government.",
+        "Processes crude oil primarily sourced from deep offshore drilling platforms.",
+        "Exports the 'Qua Iboe blend', a highly desirable light, sweet crude oil.",
+        "Features a massive onshore tank farm and offshore Single Point Mooring buoys.",
+        "Represents one of the largest single export streams of Nigerian crude."
+      ]
+    },
+    {
+      "id": "brass-terminal-economic-v2",
+      "descriptionAdvanced": "The Brass Terminal is an historic and crucial crude oil export facility located on Brass Island in Bayelsa State. Operated primarily by the local subsidiary of Eni (Agip), it serves as the central collection point for numerous onshore and swamp oil fields in the central Niger Delta. The island has profound historical significance, once serving as a major stronghold for British colonial administrators and the Royal Niger Company. Today, the terminal processes and exports the 'Brass River blend' of crude oil. The facility operates in a highly sensitive and ecologically fragile mangrove environment, highlighting the challenges of Delta oil production. Geography K8 — swamp oil fields and colonial islands.",
+      "factsAdvanced": [
+        "Located on Brass Island in the mangrove swamps of Bayelsa State.",
+        "Operated primarily by Nigerian Agip Oil Company (NAOC/Eni).",
+        "Exports the 'Brass River blend' of crude oil.",
+        "The island was historically a major administrative base for British colonial authorities.",
+        "Serves as a collection hub for highly challenging onshore and swamp oil fields.",
+        "Accessible primarily by water and helicopter due to the surrounding terrain."
+      ]
+    },
+    {
+      "id": "dangote-refinery-economic-v2",
+      "descriptionAdvanced": "The Dangote Refinery, located in the Lekki Free Zone of Lagos, is an industrial marvel and a game-changer for the African energy sector. Commissioned in 2023, it holds the title of the largest single-train refinery in the world, with a capacity to process 650,000 barrels of crude oil per day. For decades, Nigeria, despite being a massive crude exporter, relied heavily on imported refined fuels due to failing state-owned refineries. The Dangote Refinery is designed to completely reverse this, intending to meet 100% of the nation's demand for gasoline, diesel, and aviation fuel, with surplus for export. It includes a massive petrochemical complex for fertilizer production. Geography K8 — mega-refineries and national self-sufficiency.",
+      "factsAdvanced": [
+        "Located in the Lekki Free Trade Zone, Lagos State.",
+        "The largest single-train oil refinery in the world, with a 650,000 bpd capacity.",
+        "Designed to end Nigeria's long-standing reliance on imported refined fuels.",
+        "Features a massive integrated petrochemical and fertilizer production complex.",
+        "Built by the Dangote Group, an indigenous African industrial conglomerate.",
+        "Includes a dedicated deep-sea port facility for receiving crude and exporting products."
+      ]
+    },
+    {
+      "id": "port-harcourt-refinery-economic-v2",
+      "descriptionAdvanced": "The Port Harcourt Refining Company (PHRC) is a massive state-owned industrial complex located at Alesa-Eleme, just outside Port Harcourt in Rivers State. It uniquely consists of two distinct refineries: an older plant built in 1965 and a newer, larger facility commissioned in 1989, giving it a combined theoretical capacity of 210,000 barrels per day. For decades, the complex suffered from severe neglect, chronic mismanagement, and pipeline vandalism, causing it to operate at a fraction of its capacity or sit entirely idle. The facility is currently undergoing a massive, multi-billion-dollar rehabilitation program aimed at restoring domestic fuel production and ending reliance on imports. Geography K8 — state-owned infrastructure and refinery rehabilitation.",
+      "factsAdvanced": [
+        "Located in Alesa-Eleme, near Port Harcourt, Rivers State.",
+        "A state-owned facility operated by the Nigerian National Petroleum Company (NNPC).",
+        "Consists of two refineries built in 1965 (60k bpd) and 1989 (150k bpd).",
+        "Historically plagued by severe operational failures and chronic under-maintenance.",
+        "Currently undergoing a massive, multi-phase rehabilitation project.",
+        "Crucially connected to the national pipeline network for fuel distribution."
+      ]
+    }
+  ]
+}

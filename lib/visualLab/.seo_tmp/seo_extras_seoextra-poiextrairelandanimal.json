@@ -1,0 +1,221 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraIrelandAnimal.ts"],
+  "items": [
+    {
+      "id": "animal-habitat-dublin-zoo-extra",
+      "descriptionAdvanced": {
+        "de": "Der Dublin Zoo, gelegen im Herzen des Phoenix Parks, ist der größte Zoo Irlands und einer der ältesten der Welt. Er wurde 1830 gegründet und am 1. September 1831 eröffnet. Auf einer Fläche von 28 Hektar beherbergt er rund 400 Tiere aus 100 verschiedenen Arten. Der Zoo ist weltbekannt für seine Erhaltungszuchtprogramme, insbesondere für das Goldlöwenäffchen und den Molukkenkakadu. Zu den beeindruckendsten Anlagen gehören die afrikanische Savanne und der Kaziranga Forest Trail, wo eine Herde asiatischer Elefanten lebt. Ein historisches Highlight ist der Löwe 'Slats', der 1919 im Zoo geboren wurde und das ursprüngliche MGM-Maskottchen wurde. Heute zieht der Zoo jährlich über eine Million Besucher an und betreibt seit 2023 das Nationale Zentrum für das Überleben von Arten. Geografie K7 – Veszélyeztetett fajok és természetvédelmi területek.",
+        "hu": "A Dublini Állatkert, Írország egyik legnépszerűbb családi látványossága, a hatalmas Phoenix Park szívében terül el. 1831-es megnyitása óta a világ minden tájáról származó állatok ezreinek ad otthont, a fenséges ázsiai oroszlánoktól a játékos pingvinekig. Az állatkert nemzetközileg elismert a veszélyeztetett fajok, például az arany oroszlánmajmocska és a szibériai tigris tenyésztési programjaiban való részvételéért. A modern, természetes élőhelyeket utánzó kifutók, mint például az 'Afrikai Szavanna', lehetővé teszik a látogatók számára, hogy testközelből figyelhessék meg a zsiráfokat, zebrákat és struccokat. Az oktatás kulcsfontosságú szerepet játszik; az állatkert rendszeresen tart előadásokat és workshopokat a biodiverzitás fontosságáról. Földrajz K7 – Veszélyeztetett fajok és természetvédelmi területek.",
+        "ro": "Grădina Zoologică din Dublin, una dintre cele mai populare atracții de familie din Irlanda, este situată în inima vastului Parc Phoenix. De la deschiderea sa în 1831, a găzduit mii de animale din întreaga lume, de la lei asiatici maiestuoși la pinguini jucăuși. Grădina zoologică este recunoscută internațional pentru participarea sa la programe de reproducere pentru specii pe cale de dispariție, cum ar fi maimuța-leu-aurie și tigrul siberian. Incintele moderne, care imită habitatele naturale, precum 'Savana Africană', permit vizitatorilor să observe de aproape girafe, zebre și struți. Educația joacă un rol cheie; grădina zoologică organizează regulat prelegeri și ateliere despre importanța biodiversității. Geografie K7 – Specii pe cale de dispariție și arii protejate.",
+        "en": "Dublin Zoo, located in the heart of Phoenix Park, is Ireland's largest zoo and one of the oldest in the world. Founded in 1830 and opened on September 1, 1831, it covers 28 hectares (69 acres) and houses approximately 400 animals across 100 species. The zoo is internationally recognized for its conservation work, managing the European Endangered Species Programme for the Golden Lion Tamarin and the Moluccan Cockatoo. Key exhibits include the African Plains and the Kaziranga Forest Trail, home to a breeding herd of Asian elephants. A famous historical resident was 'Slats,' a lion born in 1919 who became the original MGM mascot. Today, the zoo welcomes over one million visitors annually and opened the National Centre for Species Survival in 2023. Geography K7 – Endangered species and conservation areas."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet am 10. Mai 1830 durch die Royal Zoological Society.",
+          "Eröffnet für die Öffentlichkeit am 1. September 1831.",
+          "Der Zoo erstreckt sich über 28 Hektar im Phoenix Park.",
+          "Beherbergt ca. 400 Tiere aus rund 100 verschiedenen Arten.",
+          "Der Löwe 'Slats' aus dem Zoo war das erste MGM-Maskottchen.",
+          "Erfolgreiche Zucht von Goldlöwenäffchen und asiatischen Elefanten."
+        ],
+        "hu": [
+          "1830. május 10-én alapította a Royal Zoological Society.",
+          "1831. szeptember 1-jén nyitotta meg kapuit a nagyközönség előtt.",
+          "Az állatkert 28 hektáron terül el a Phoenix Parkban.",
+          "Körülbelül 400 állat él itt 100 különböző fajból.",
+          "Az itt született 'Slats' oroszlán volt az első MGM-kabala.",
+          "Sikeres tenyésztési program az arany oroszlánmajmocskák számára."
+        ],
+        "ro": [
+          "Fondată la 10 mai 1830 de Royal Zoological Society of Dublin.",
+          "Deschisă publicului la 1 septembrie 1831.",
+          "Grădina zoologică se întinde pe 28 de hectare în Parcul Phoenix.",
+          "Găzduește aproximativ 400 de animale din 100 de specii.",
+          "Leul 'Slats' născut aici a fost prima mascotă a MGM.",
+          "Programe de succes pentru maimuța-leu-aurie și elefanții asiatici."
+        ],
+        "en": [
+          "Founded on May 10, 1830, by the Royal Zoological Society.",
+          "Opened to the public on September 1, 1831.",
+          "The zoo covers 28 hectares (69 acres) in Phoenix Park.",
+          "Home to about 400 animals from roughly 100 different species.",
+          "'Slats' the lion, born here, was the original MGM mascot.",
+          "Successful breeding programs for Golden Lion Tamarins and elephants."
+        ]
+      }
+    },
+    {
+      "id": "animal-habitat-fota-wildlife-extra",
+      "descriptionAdvanced": {
+        "de": "Der Fota Wildlife Park auf Fota Island im County Cork wurde im Juni 1983 eröffnet und verfolgt ein einzigartiges Konzept der Freilandhaltung. Auf einer Fläche von 40 Hektar leben über 100 Arten, wobei viele Tiere wie Kattas und Wallabys frei zwischen den Besuchern herumlaufen können. Der Park ist besonders erfolgreich in der Zucht von Sudan-Geparden und betreibt eine innovative 'Cheetah Run'-Anlage, die die Jagdgeschwindigkeit der Tiere simuliert. Als gemeinsames Projekt der Zoologischen Gesellschaft Irlands und des University College Cork (UCC) spielt Fota eine zentrale Rolle in der Forschung und internationalen Arterhaltung, etwa bei der Wiederansiedlung von Wisenten in Rumänien. Das asiatische Schutzgebiet beherbergt seltene Sumatra-Tiger und Panzernashörner in weitläufigen, naturnahen Gehegen. Biologie K8 – Ökoszisztémák és állati viselkedés.",
+        "hu": "A Cork megyei Fota-szigeten található Fota Vadaspark egyedülálló élményt kínál, ahol számos állat szabadon kószál a látogatók között. A 100 hektáros parkban a vendégek szemtől szembe találkozhatnak a gyűrűsfarkú makikkal, wallabikkal és barátságos pávákkal. A park célja, hogy az állatoknak a lehető legtermészetesebb környezetet biztosítsa, minimális kerítésekkel. A Fota Vadaspark kiemelkedő szerepet játszik a nemzetközi tenyésztési programokban, különösen az ázsiai oroszlán, az európai bölény és a gepárd esetében. A park saját kisvasúttal is rendelkezik, amely körbeviszi a látogatókat a nagyobb kifutók mellett. Az itt szerzett élmény egyszerre szórakoztató és tanulságos, rávilágítva a fajmegőrzés és az élőhelyvédelem fontosságára. Biológia K8 – Ökoszisztémák és állati viselkedés.",
+        "ro": "Parcul Național Fota, situat pe insula Fota din comitatul Cork, oferă o experiență unică în care numeroase animale se plimbă liber printre vizitatori. În parcul de 100 de hectare, oaspeții se pot întâlni față în față cu lemuri cu coadă inelată, wallaby și păuni prietenoși. Scopul parcului este de a oferi animalelor un mediu cât mai natural posibil, cu garduri minime. Parcul Național Fota joacă un rol remarcabil în programele internaționale de reproducere, în special pentru leul asiatic, bizonul european și ghepard. Parcul are și propriul său trenuleț, care plimbă vizitatorii pe lângă incintele mai mari. Experiența de aici este atât distractivă, cât și educativă, subliniind importanța conservării speciilor și a habitatelor. Biologie K8 – Ecosisteme și comportament animal.",
+        "en": "Fota Wildlife Park, situated on Fota Island in County Cork, opened in June 1983 and is renowned for its open-range concept. Covering 40 hectares (100 acres), it is home to over 100 species, with many animals like ring-tailed lemurs and wallabies roaming freely among guests. The park is highly successful in breeding Sudan cheetahs and features an innovative 'Cheetah Run' that simulates hunting speeds of up to 65 km/h. Established as a joint project between the Zoological Society of Ireland and University College Cork (UCC), Fota plays a vital role in international conservation, including European Bison reintroduction in Romania. The Asian Sanctuary exhibit showcases rare Sumatran tigers and Indian rhinos in spacious, naturalistic environments. Biology K8 – Ecosystems and animal behavior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eröffnet im Juni 1983 durch Präsident Patrick Hillery.",
+          "Der Park umfasst eine Fläche von 40 Hektar auf Fota Island.",
+          "Beherbergt 106 Arten, darunter Sumatra-Tiger und Nashörner.",
+          "Gemeinschaftsprojekt der Zoologischen Gesellschaft und des UCC.",
+          "Weltweit führend in der Zucht von Sudan-Geparden.",
+          "Erfolgreiche Wiederansiedlung von Wisenten in Rumänien."
+        ],
+        "hu": [
+          "1983 júniusában nyitotta meg Patrick Hillery elnök.",
+          "A park 40 hektáros területet foglal el a Fota-szigeten.",
+          "106 fajnak ad otthont, köztük szumátrai tigriseknek és orrszarvúknak.",
+          "A Ír Zoológiai Társaság és a Corki Egyetem közös projektje.",
+          "Világelső a szudáni gepárdok tenyésztésében.",
+          "Sikeres európai bölény visszatelepítési program Romániában."
+        ],
+        "ro": [
+          "Deschis în iunie 1983 de către președintele Patrick Hillery.",
+          "Parcul ocupă o suprafață de 40 de hectare pe insula Fota.",
+          "Găzduiește 106 specii, inclusiv tigri de Sumatra și rinoceri.",
+          "Proiect comun al Societății Zoologice și al UCC.",
+          "Lider mondial în reproducerea gheparzilor din Sudan.",
+          "Program de succes pentru reintroducerea bizonului european în România."
+        ],
+        "en": [
+          "Opened in June 1983 by President Patrick Hillery.",
+          "The park covers an area of 40 hectares (100 acres) on Fota Island.",
+          "Home to 106 species, including Sumatran tigers and rhinos.",
+          "Joint project of the Zoological Society of Ireland and UCC.",
+          "World leader in the breeding of Sudan cheetahs.",
+          "Successful reintroduction of European bison in Romania."
+        ]
+      }
+    },
+    {
+      "id": "animal-habitat-tayto-park-zoo-extra",
+      "descriptionAdvanced": {
+        "de": "Der Emerald Park (ehemals Tayto Park) in Ashbourne, County Meath, wurde 2010 eröffnet und hat sich von einem Themenpark zu einem bedeutenden zoologischen Standort entwickelt. Auf 22 Hektar bietet der Park eine Mischung aus rasanten Fahrgeschäften, wie der Holzachterbahn Cú Chulainn, und einem modernen Zoo. Die zoologische Abteilung beherbergt seltene Raubkatzen wie Amur-Tiger und Amur-Leoparden sowie verschiedene Primatenarten. Der Park ist von BIAZA und EAZA akkreditiert und legt einen starken Fokus auf Bildungsarbeit und den Schutz gefährdeter Arten. Besucher können im 'Lemur Walk' hautnahe Begegnungen erleben oder die beeindruckende Greifvogel-Show 'World of Raptors' besuchen. Seit der Umbenennung im Jahr 2023 wird das Angebot stetig erweitert, zuletzt durch den keltisch inspirierten Themenbereich Tír na nÓg. Természetismeret K5 – Egzotikus állatok és élőhelyük.",
+        "hu": "Az Emerald Park (korábbi nevén Tayto Park) Meath megyében található, és egyedülálló módon ötvözi a vidámparki izgalmakat egy modern állatkerttel. Az állatkert részleg lenyűgöző állatgyűjteménnyel büszkélkedhet, köztük a fenséges amuri tigrissel, a világ legnagyobb macskaféléjével. A látogatók megcsodálhatják a ritka és veszélyeztetett fajokat, a majmoktól a különleges madarakig. A park nagy hangsúlyt fektet az oktatásra, interaktív táblákkal és szakértői előadásokkal segítve a látogatókat az állatvilág megismerésében. Az állatkert részt vesz európai tenyésztési programokban is, hozzájárulva a genetikai sokféleség megőrzéséhez. A hullámvasutak és az állati találkozások kombinációja teszi az Emerald Parkot Írország egyik legkedveltebb családi célpontjává. Természetismeret K5 – Egzotikus állatok és élőhelyük.",
+        "ro": "Emerald Park (fostul Tayto Park), situat în comitatul Meath, combină în mod unic emoțiile unui parc de distracții cu o grădină zoologică modernă. Secțiunea zoologică se mândrește cu o colecție impresionantă de animale, inclusiv maiestuosul tigru de Amur, cea mai mare felină din lume. Vizitatorii pot admira specii rare și pe cale de dispariție, de la maimuțe la păsări exotice. Parcul pune un mare accent pe educație, ajutând vizitatorii să învețe despre lumea animală prin panouri interactive și prezentări ale experților. Grădina zoologică participă, de asemenea, la programe europene de reproducere, contribuind la conservarea diversității genetice. Combinația dintre montagne russe și întâlnirile cu animale face din Emerald Park una dintre cele mai populare destinații de familie din Irlanda. Științele Naturii K5 – Animale exotice și habitatele lor.",
+        "en": "Emerald Park (formerly Tayto Park) in Ashbourne, County Meath, opened in 2010 and has evolved from a theme park into a significant zoological destination. Spanning 22 hectares (55 acres), it offers a blend of thrilling rides, such as the Cú Chulainn wooden coaster, and a modern zoo. The zoological section houses rare big cats including Amur tigers and Amur leopards, as well as various primate species. Accredited by BIAZA and EAZA, the park places a strong focus on conservation education and research. Visitors can enjoy immersive experiences like the 'Lemur Walk' or the spectacular 'World of Raptors' display. Since rebranding in 2023, the park continues to expand its offerings, most recently with the Celtic-themed Tír na nÓg area. Science K5 – Exotic animals and their habitats."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eröffnet am 24. November 2010 als Tayto Park.",
+          "Umbenannt in Emerald Park im Januar 2023.",
+          "Der Park erstreckt sich über eine Fläche von 22 Hektar.",
+          "Gegründet von dem Unternehmer Raymond Coyle (1952–2022).",
+          "Beherbergt die einzige Zuchtgruppe von Amur-Leoparden in Irland.",
+          "Standort der Cú Chulainn, Irlands erster Holzachterbahn."
+        ],
+        "hu": [
+          "A parkot 2010-ben nyitották meg, eredetileg a híres ír burgonyachips márka, a Tayto köré épülve.",
+          "Az állatkertben található Írország egyetlen amuri leopárdja.",
+          "A park 'World of Raptors' madárbemutatója a világ egyik leglátványosabbika.",
+          "A Cú Chulainn Coaster Európa egyik legnagyobb fából készült hullámvasútja.",
+          "2023 januárjában nevezték át Emerald Parkra.",
+          "Raymond Coyle vállalkozó alapította (1952–2022)."
+        ],
+        "ro": [
+          "Parcul a fost deschis în 2010, fiind construit inițial în jurul faimosului brand irlandez de chipsuri de cartofi, Tayto.",
+          "Grădina zoologică găzduiește singurul leopard de Amur din Irlanda.",
+          "Spectacolul cu păsări de pradă 'World of Raptors' al parcului este unul dintre cele mai spectaculoase din lume.",
+          "Montagne russe-ul din lemn Cú Chulainn Coaster este unul dintre cele mai mari din Europa.",
+          "Redenumit Emerald Park în ianuarie 2023.",
+          "Fondat de antreprenorul Raymond Coyle (1952–2022)."
+        ],
+        "en": [
+          "Opened on November 24, 2010, as Tayto Park.",
+          "Rebranded as Emerald Park in January 2023.",
+          "The park covers an area of 22 hectares (55 acres).",
+          "Founded by entrepreneur Raymond Coyle (1952–2022).",
+          "Home to the only breeding group of Amur leopards in Ireland.",
+          "Home to the Cú Chulainn, Ireland's first wooden roller coaster."
+        ]
+      }
+    },
+    {
+      "id": "animal-habitat-wild-ireland-extra",
+      "descriptionAdvanced": {
+        "de": "Wild Ireland, gelegen in Burnfoot im County Donegal, ist ein einzigartiges Tierschutzprojekt, das im Oktober 2019 von dem Zoologen Killian McLaughlin ins Leben gerufen wurde. Auf 23 Hektar restauriertem keltischen Regenwald bietet der Park ein Zuhause für Tiere, die einst in Irland heimisch waren, aber ausgerottet wurden. Zu den prominentesten Bewohnern gehören Braunbären, die oft aus schlechten Haltungsbedingungen in Osteuropa gerettet wurden, sowie europäische Wölfe und Luchse. Der Park verfolgt einen starken 'Rewilding'-Ansatz und klärt Besucher über die ökologische Bedeutung dieser Raubtiere in der irischen Geschichte auf. In den dichten Waldgebieten können auch Wildschweine und Rothirsche in ihrer natürlichen Umgebung beobachtet werden. Wild Ireland ist ein Zeugnis für den Schutz der Artenvielfalt und die Rückkehr der Wildnis auf die grüne Insel. Történelem K6 – Az ember és a természet kapcsolata a múltban.",
+        "hu": "A Donegal megye zord szépségű vidékén megbúvó Wild Ireland egy különleges állatmenhely, amely Írország elveszett őshonos állatait hozza vissza. A park alapítója, Killian McLaughlin, egykori ügyvéd, aki szenvedélyesen dolgozik a medvék, farkasok és hiúzok megmentésén. Az állatok, melyeket gyakran borzalmas körülmények közül mentenek, itt egy gondosan helyreállított kelta esőerdőben találnak új otthonra. A Wild Ireland nem csupán menedéket nyújt, hanem egy időutazásra is invitálja a látogatókat, bemutatva, milyen volt Írország vadvilága évezredekkel ezelőtt. A park fontos oktatási szerepet tölt be, felhívva a figyelmet a 'rewilding', azaz a visszavadítás fontosságára és az emberi tevékenység természetre gyakorolt hatásaira. Történelem K6 – Az ember és a természet kapcsolata a múltban.",
+        "ro": "Ascuns în frumusețea sălbatică a comitatului Donegal, Wild Ireland este un sanctuar special de animale care aduce înapoi animalele native pierdute ale Irlandei. Fondatorul parcului, Killian McLaughlin, este un fost avocat care lucrează cu pasiune pentru a salva urși, lupi și râși. Animalele, adesea salvate din condiții groaznice, găsesc o nouă casă aici, într-o pădure tropicală celtică restaurată cu grijă. Wild Ireland nu oferă doar un adăpost, ci invită și vizitatorii într-o călătorie în timp, arătând cum era fauna sălbatică a Irlandei cu mii de ani în urmă. Parcul joacă un rol educațional important, atrăgând atenția asupra importanței 'rewilding'-ului (resălbăticirii) și a impactului activității umane asupra naturii. Istorie K6 – Relația omului cu natura în trecut.",
+        "en": "Wild Ireland, located in Burnfoot, County Donegal, is a unique animal sanctuary opened in October 2019 by zoologist Killian McLaughlin. Set within 23 acres of restored ancient Celtic rainforest, the park provides a home for species that were once native to Ireland but became extinct due to human activity. Key residents include brown bears, many rescued from poor conditions in Eastern Europe, as well as European wolves and lynx. The sanctuary focuses on 'rewilding' education, teaching visitors about the historical role of these predators in the Irish ecosystem. Within the dense woodland, wild boar and red deer can also be observed in a naturalistic setting. Wild Ireland serves as a powerful testament to biodiversity conservation and the potential for restoring lost wilderness to the island. History K6 – Human-nature relationship in the past."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eröffnet im Oktober 2019 durch den Zoologen Killian McLaughlin.",
+          "Der Park umfasst 9 Hektar (23 Acres) restaurierten Wald.",
+          "Beherbergt Braunbären, die aus Gefangenschaft gerettet wurden.",
+          "Fokus auf die Wiederansiedlung einst heimischer Tierarten.",
+          "Beherbergt europäische Wölfe in einem natürlichen Waldgehege.",
+          "Erster Standort in Irland, der nach Jahrhunderten wieder Luchse zeigt."
+        ],
+        "hu": [
+          "A park területe egykor egy sűrű, mérsékelt övi esőerdő volt.",
+          "Az itt élő barna medvék közül többet is litvániai cirkuszokból mentettek ki.",
+          "A park farkasai egy különleges, a látogatóktól elzárt, nagy kiterjedésű erdős területen élnek.",
+          "A hiúz több száz év után itt jelent meg újra Írországban.",
+          "2019 októberében nyitotta meg Killian McLaughlin zoológus.",
+          "A park 9 hektár (23 hold) helyreállított erdőn terül el."
+        ],
+        "ro": [
+          "Zona parcului a fost odinioară o pădure tropicală temperată densă.",
+          "Mai mulți dintre urșii bruni de aici au fost salvați de la circuri din Lituania.",
+          "Lupii din parc trăiesc într-o zonă împădurită mare, specială, izolată de vizitatori.",
+          "Râsul a reapărut în Irlanda aici, după sute de ani.",
+          "Deschis în octombrie 2019 de către zoologul Killian McLaughlin.",
+          "Parcul cuprinde 9 hectare (23 de acri) de pădure restaurată."
+        ],
+        "en": [
+          "Opened in October 2019 by zoologist Killian McLaughlin.",
+          "The park covers 9 hectares (23 acres) of restored woodland.",
+          "Home to brown bears rescued from captivity in Eastern Europe.",
+          "Focuses on the reintroduction of once-native Irish species.",
+          "Houses European wolves in a natural forest enclosure.",
+          "First site in Ireland to display lynx after hundreds of years."
+        ]
+      }
+    },
+    {
+      "id": "animal-habitat-burren-birds-extra",
+      "descriptionAdvanced": {
+        "de": "Das Burren Birds of Prey Centre befindet sich auf dem Gelände der Aillwee Cave im County Clare und ist ein führendes Zentrum für den Schutz von Greifvögeln. Inmitten der faszinierenden Karstlandschaft des Burren bietet das Zentrum spektakuläre Flugvorführungen mit Adlern, Falken, Eulen und Bussarden. Ziel des 2008 gegründeten Zentrums ist es, durch Bildung und Forschung das Bewusstsein für die ökologische Bedeutung dieser Raubvögel zu schärfen. Die Besucher können die Vögel in den täglichen Shows beim Jagdtraining beobachten und mehr über die Falknerei erfahren, die zum UNESCO-Weltkulturerbe gehört. Das Zentrum ist eng mit der Aillwee-Höhle verbunden, die 1944 entdeckt wurde und für ihre über 10.000 Jahre alten Bärenknochen bekannt ist. Gemeinsam bilden sie einen wichtigen Teil des Burren und Cliffs of Moher UNESCO Global Geoparks. Biológia K7 – Ragadozók a táplálékláncban.",
+        "hu": "Az Aillwee-barlang mellett, a Burren egyedülálló karsztvidékén található a Burren Ragadozó Madár Központ. Ez a hely a ragadozó madarak, mint a sasok, sólymok, keselyűk és baglyok védelmének és bemutatásának szentelt központ. A látogatók naponta több alkalommal is részt vehetnek lenyűgöző repülési bemutatókon, ahol a szakértő solymászok bemutatják e fenséges madarak vadásztechnikáit és intelligenciáját. A bemutatók során a madarak szabadon repülnek a Burren drámai tája felett. A központ fontos szerepet játszik a természetvédelmi oktatásban, és részt vesz a sérült madarak rehabilitációjában, valamint tenyésztési programokban is, hozzájárulva a veszélyeztetett fajok fennmaradásához. Biológia K7 – Ragadozók a táplálékláncban.",
+        "ro": "Lângă peștera Aillwee, în peisajul carstic unic al regiunii Burren, se află Centrul Păsărilor de Pradă Burren. Acest loc este dedicat protecției și prezentării păsărilor de pradă precum vulturi, șoimi, ulii și bufnițe. Vizitatorii pot participa la demonstrații de zbor impresionante de mai multe ori pe zi, unde șoimari experți prezintă tehnicile de vânătoare și inteligența acestor păsări maiestuoase. În timpul demonstrațiilor, păsările zboară liber deasupra peisajului dramatic al regiunii Burren. Centrul joacă un rol important în educația pentru conservare și este implicat în reabilitarea păsărilor rănite, precum și în programe de reproducere, contribuind la supraviețuirea speciilor pe cale de dispariție. Biologie K7 – Prădătorii în lanțul trofic.",
+        "en": "The Burren Birds of Prey Centre, located at Aillwee Cave in County Clare, is a premier facility dedicated to the conservation of raptors. Set against the unique karst landscape of the Burren, the centre offers spectacular flying displays featuring eagles, falcons, owls, and hawks. Established in 2008, its mission is to raise awareness about the ecological importance of birds of prey through education and research. Visitors can witness daily demonstrations of hunting techniques and learn about the ancient art of falconry, recognized by UNESCO as intangible cultural heritage. The centre is closely linked with Aillwee Cave, discovered in 1944 and famous for harboring 10,000-year-old bear remains. Together, they are key attractions within the Burren and Cliffs of Moher UNESCO Global Geopark. Biology K7 – Predators in the food chain."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eröffnet im Jahr 2008 auf dem Gelände der Aillwee-Höhle.",
+          "Beherbergt eine der größten Greifvogelsammlungen Irlands.",
+          "Tägliche Flugshows demonstrieren natürliche Jagdtechniken.",
+          "Zentrum für die Rehabilitation verletzter Wildvögel.",
+          "Teil des UNESCO Global Geoparks Burren & Cliffs of Moher.",
+          "Zeigt seltene Arten wie den Weißkopfseeadler und den Uhu."
+        ],
+        "hu": [
+          "A központban található a világ egyik legnehezebb repülő madara, a túzok.",
+          "A bemutatókon a látogatók kezére is szállhatnak a kisebb ragadozók.",
+          "A központ szorosan kapcsolódik az Aillwee-barlang turisztikai komplexumához.",
+          "A solymászat az UNESCO szellemi kulturális örökség része.",
+          "2008-ban nyílt meg az Aillwee-barlang területén.",
+          "Írország egyik legnagyobb ragadozó madár gyűjteményével rendelkezik."
+        ],
+        "ro": [
+          "Centrul găzduiește una dintre cele mai grele păsări zburătoare din lume, dropia.",
+          "În timpul demonstrațiilor, prădătorii mai mici pot ateriza pe mâinile vizitatorilor.",
+          "Centrul este strâns legat de complexul turistic al peșterii Aillwee.",
+          "Șoimăritul face parte din patrimoniul cultural imaterial al UNESCO.",
+          "Deschis în anul 2008 pe terenul peșterii Aillwee.",
+          "Găzduiește una dintre cele mai mari colecții de păsări de pradă din Irlanda."
+        ],
+        "en": [
+          "Opened in 2008 on the grounds of Aillwee Cave.",
+          "Home to one of the largest collections of birds of prey in Ireland.",
+          "Daily flying shows demonstrate natural hunting techniques.",
+          "Operates as a rehabilitation centre for injured wild birds.",
+          "Part of the Burren & Cliffs of Moher UNESCO Global Geopark.",
+          "Displays rare species such as the Bald Eagle and Eagle Owl."
+        ]
+      }
+    }
+  ]
+}

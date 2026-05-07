@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "descriptionAdvanced": "The Sawtooth Mountains in central Idaho are a spectacular, high-elevation granitic range defined by their jagged, tooth-like peaks and hundreds of pristine, alpine glacial lakes. Formed through long-term volcanic and later tectonic uplift, the range provides a rugged, relatively undisturbed wilderness that acts as a vital sanctuary for high-alpine species, including gray wolves and bighorn sheep. The Sawtooths serve as an essential catchment for Idaho’s primary river systems, making them a cornerstone of regional water security. Today, the range stands as a premier destination for wilderness recreation and an irreplaceable natural laboratory for studying high-altitude ecological stability and the impact of climate change on mountain-snowpack-fed watersheds. Geografie K7 — Glacial carving and alpine ecosystem stability.",
+      "factsAdvanced": [
+        "Features a spectacular high-elevation granitic range with jagged, tooth-like peaks.",
+        "Home to hundreds of pristine, alpine glacial lakes within the range.",
+        "Rugged wilderness sanctuary for high-altitude species like gray wolves and bighorn sheep.",
+        "Essential high-elevation catchment area for Idaho’s primary river systems.",
+        "Premier laboratory for researching high-altitude ecosystem and water-supply stability.",
+        "Acts as an iconic landmark of high-alpine wilderness conservation."
+      ]
+    },
+    {
+      "id": "cascades-volcanic-north-relief-v2",
+      "descriptionAdvanced": "The northern segment of the Cascade Volcanic Arc, primarily located in Washington state, features some of the most prominent stratovolcanoes in the Pacific Northwest, including the iconic Mount Baker and Glacier Peak. These peaks, carved and sculpted by persistent, dense glacial systems, represent the active, ongoing subduction-zone volcanic activity that continues to shape the Pacific Northwest landscape. As a key site for studying volcanic hazard monitoring and glacial hydrology, this northern arc is essential for understanding how volcanic peaks act as high-elevation water sources that feed critical downstream salmon habitats. Today, the mountains serve as both an iconic wilderness sanctuary and a complex, active natural entity that requires careful monitoring, highlighting the raw geological forces and vital hydrologic dependencies of the Pacific Northwest. Geografie K8 — Subduction stratovolcanoes and alpine hydrology.",
+      "factsAdvanced": [
+        "Northern chain of iconic stratovolcanoes including Mount Baker and Glacier Peak.",
+        "Dramatically carved and sculpted by persistent, dense glacial systems.",
+        "Formed by active, ongoing subduction-zone volcanic processes.",
+        "High-elevation glaciers are critical water sources for downstream salmon habitats.",
+        "Key study site for volcanic hazard monitoring and alpine glaciology research.",
+        "Represents the enduring geological volatility and essential water-tower roles of the Cascades."
+      ]
+    },
+    {
+      "id": "death-valley-relief-v2",
+      "descriptionAdvanced": "Death Valley, in California and Nevada, is a profound, low-elevation basin defined by its extreme heat, aridity, and unique geological history, containing the lowest point in North America at Badwater Basin. Formed by the same crustal extension that created the Great Basin, Death Valley acts as a massive 'trap' for heat, creating an environment that pushes the limits of biological and geological survival. The valley is home to a surprising diversity of salt-tolerant species and endemic organisms that have evolved to survive in conditions of intense evaporation and mineral density. As one of the hottest and driest environments on Earth, Death Valley is a critical natural laboratory for studying extreme environmental adaptation, evaporation-driven mineral formation, and the resilience of desert biomes in a warming, increasingly arid climate. Geografie K8 — Crustal extension and extreme arid-basin ecology.",
+      "factsAdvanced": [
+        "Home to Badwater Basin, the lowest point in North America.",
+        "Renowned for its extreme heat, severe aridity, and unique geological basin structure.",
+        "Landscape formed by the same extensive crustal stretching as the Great Basin.",
+        "Acts as a massive 'trap' for heat, creating one of the world's hottest environments.",
+        "Supports specialized salt-tolerant species and rare endemic desert organisms.",
+        "Premier site for researching extreme adaptation and desert biome resilience."
+      ]
+    }
+  ]
+}

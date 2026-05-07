@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "descriptionAdvanced": "Rocky Mountain National Park in Colorado offers a breathtaking high-altitude ecosystem, with dozens of peaks exceeding 12,000 feet, including the iconic Longs Peak. The park is a premier sanctuary for high-elevation flora and fauna, such as elk, bighorn sheep, and yellow-bellied marmots, providing a critical study of how species adapt to the sparse, freezing environment of the Continental Divide. Given its elevation, the park is a globally recognized site for monitoring the impact of climate warming on alpine tundra biomes, which are among the most fragile ecosystems on the planet. It serves as a vital natural classroom, allowing researchers and the public to observe the resilience and vulnerability of mountain life in a rapidly changing climate. Biologie K7 — Alpine tundra biology and high-altitude adaptation.",
+      "factsAdvanced": [
+        "Features dozens of peaks exceeding 12,000 feet along the Continental Divide.",
+        "Home to alpine species including elk, bighorn sheep, and marmots.",
+        "A premier site for observing high-altitude ecosystem adaptation.",
+        "Critical sanctuary for fragile alpine tundra flora and fauna.",
+        "Globally recognized site for monitoring climate-induced changes in mountain biomes.",
+        "Provides a vital natural laboratory for understanding mountain-life resilience."
+      ]
+    },
+    {
+      "id": "wisconsin-dairy-farms-life-v2",
+      "descriptionAdvanced": "Wisconsin, famously known as 'America’s Dairyland,' is an agricultural landscape defined by its long-standing tradition of dairy farming and cheese production. The state’s history is rooted in the migration of European immigrants who utilized the state’s rolling pastures and temperate climate to develop a world-class dairy industry. Today, Wisconsin’s dairy sector is a massive economic powerhouse, balancing traditional family-run farms with sophisticated, large-scale modern processing facilities. The industry remains a defining element of the state's rural economy and its identity as a global leader in high-quality cheese, demonstrating the enduring connection between regional agricultural history, scientific expertise, and international culinary reputation. Landwirtschaft K7 — Dairy history and agricultural economic identity.",
+      "factsAdvanced": [
+        "World-renowned for its long-standing dairy farming and high-quality cheese.",
+        "Wisconsin is historically and culturally known as 'America’s Dairyland'.",
+        "Legacy built by generations of European immigrants on rich rolling pastures.",
+        "Dairy production is a foundational powerhouse for the state's economy.",
+        "Balances traditional family-farm values with large-scale modern processing.",
+        "Global leader in artisanal and commercial cheese production."
+      ]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "descriptionAdvanced": "LEGOLAND California in Carlsbad is a unique, kid-focused amusement park that leverages the iconic Danish construction toy brand to create an immersive, interactive environment. Since opening in 1999, it has differentiated itself from traditional, high-thrill roller coaster parks by focusing on creative play, hands-on construction, and age-appropriate exploration for young children. The park is a landmark for family tourism, demonstrating how global intellectual property can be integrated into large-scale location-based education and play. It provides a unique interactive experience that fosters spatial creativity, problem-solving, and cooperative play, standing as a popular cultural destination that highlights the enduring, universal appeal of hands-on, brand-based exploration for children. Wirtschaft K7 — Interactive play-based tourism and brand experience.",
+      "factsAdvanced": [
+        "A kid-focused park centered on the globally iconic LEGO brand.",
+        "Differentiates from other theme parks by prioritizing creative, hands-on play.",
+        "Fosters essential childhood skills like spatial creativity and cooperative problem-solving.",
+        "Landmark destination for family tourism in Southern California.",
+        "Integrates global intellectual property into high-capacity location-based education.",
+        "Highlights the universal appeal of interactive, brand-driven exploration."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ulu-gombak-forest-reserve-valley-relief-v2",
+      "descriptionAdvanced": "Az Ulu Gombak Erdőrezervátum Selangor államban, a Titiwangsa-hegység meredek, gránitból álló nyugati lejtőin (escarpment) található, közvetlenül Kuala Lumpur határában. A domborzat (relief) itt szabdalt V-alakú völgyekből, sebes folyású hegyi patakokból (pl. a Gombak-folyó forrásvidéke) és sűrű dipterokarp erdőkből áll. Ez a terület létfontosságú vízgyűjtő medence, amely a fővárost látja el ivóvízzel. A meredek, csúszós lejtők és a változó domborzat miatt a régió a Malajá-félsziget egyik legfontosabb ökológiai kutatóállomásának (University of Malaya Field Studies Centre) ad otthont, ahol több mint fél évszázada kutatják az esőerdei növények, kétéltűek és rovarok élőhelyeit. A biológia és vízrajz oktatásában a hegyvidéki forrásvidékek (catchment areas) védelmének és a trópusi erózió megelőzésének kritikus példája.",
+      "factsAdvanced": [
+        "A Titiwangsa-hegység meredek nyugati lejtőin, V-alakú völgyekkel szabdalt gránitalapon fekszik.",
+        "Kritikus vízgyűjtő terület, innen ered a Kuala Lumpurt átszelő Gombak-folyó.",
+        "A meredek domborzat miatt a terület nagyrészt megmenekült az urbanizációtól és fakitermeléstől.",
+        "1965 óta a Maláj Egyetem (UM) nemzetközileg elismert biológiai terepkutató állomása működik itt.",
+        "Több mint 100 endemikus béka- és kétéltűfajt, valamint ritka pálmaféléket azonosítottak az erdeiben.",
+        "A völgyön halad keresztül a történelmi (és mára nagyrészt forgalmon kívüli) régi Gombak-Bentong hegyi út."
+      ]
+    }
+  ]
+}

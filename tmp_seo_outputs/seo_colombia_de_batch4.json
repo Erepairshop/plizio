@@ -1,0 +1,399 @@
+{
+  "lang": "de",
+  "country": "colombia",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "castillo-san-felipe-landmarks-v2",
+      "descriptionAdvanced": "Das Castillo San Felipe de Barajas in Cartagena ist das imposanteste militärische Bauwerk, das jemals von Spaniern in ihren Kolonien errichtet wurde. Die auf dem Hügel San Lázaro gelegene Festung wurde strategisch gebaut, um die Stadt vor Piratenangriffen und feindlichen Flotten wie der englischen Royal Navy zu schützen. Das beeindruckende System aus Tunneln, Batterien und Mauern ermöglichte eine effektive Verteidigung bei minimalem Personalaufwand. Heute ist die Festung ein UNESCO-Weltkulturerbe und bietet Besuchern einen faszinierenden Einblick in die Militärgeschichte des 17. und 18. Jahrhunderts sowie einen spektakulären Panoramablick über die moderne Skyline und die historische Altstadt von Cartagena.",
+      "factsAdvanced": [
+        "Größte spanische Festung in Amerika.",
+        "UNESCO-Weltkulturerbe seit 1984.",
+        "Baubeginn im Jahr 1536.",
+        "Besitzt ein ausgeklügeltes Labyrinth aus unterirdischen Tunneln.",
+        "Widerstand erfolgreich der massiven Belagerung durch Admiral Vernon 1741.",
+        "Strategische Lage auf dem 40 Meter hohen Hügel San Lázaro.",
+        "Meisterwerk der spanischen Militärarchitektur."
+      ]
+    },
+    {
+      "id": "santuario-de-las-lajas-landmarks-v2",
+      "descriptionAdvanced": "Das Santuario de Las Lajas ist ein architektonisches Wunderwerk, das spektakulär in einer Schlucht des Flusses Guáitara im Süden Kolumbiens thront. Die im neugotischen Stil errichtete Basilika verbindet beide Seiten der Schlucht mit einer 50 Meter hohen Brücke und scheint direkt aus dem Felsen zu wachsen. Der Legende nach erschien an diesem Ort im Jahr 1754 einer indigenen Frau und ihrer Tochter das Bild der Jungfrau Maria auf einem Stein. Die heutige Kirche wurde zwischen 1916 und 1949 erbaut und gilt als eine der schönsten Kirchen der Welt. Sie ist nicht nur ein bedeutender Wallfahrtsort, sondern auch ein Meisterwerk der Ingenieurskunst inmitten der wilden Andenlandschaft.",
+      "factsAdvanced": [
+        "Oft als 'das schönste Wunder Kolumbiens' bezeichnet.",
+        "Neugotischer Baustil in grauer und weißer Farbe.",
+        "Der Altar befindet sich direkt an der Stelle der Marienerscheinung.",
+        "Liegt 2.900 Meter über dem Meeresspiegel.",
+        "Erbaut über einer tiefen Schlucht des Río Guáitara.",
+        "Wallfahrtsort für Gläubige aus ganz Südamerika.",
+        "Die Brücke über die Schlucht ist ein integraler Teil der Architektur."
+      ]
+    },
+    {
+      "id": "torre-colpatria-landmarks-v2",
+      "descriptionAdvanced": "Der Torre Colpatria ist eines der markantesten Wahrzeichen der Skyline von Bogotá und war jahrzehntelang das höchste Gebäude Kolumbiens. Das im Zentrum der Hauptstadt gelegene Hochhaus ist besonders für seine spektakuläre LED-Beleuchtung bekannt, die nachts die kolumbianische Flagge oder verschiedene künstlerische Muster über die gesamte Fassade projiziert. Von der Aussichtsplattform im 48. Stockwerk haben Besucher einen unvergleichlichen 360-Grad-Blick über die riesige Metropole und die umliegenden Andenberge. Das Gebäude ist ein Symbol für den wirtschaftlichen Aufschwung und die Modernisierung Bogotás im späten 20. Jahrhundert und dient heute als Hauptsitz einer bedeutenden Finanzgruppe.",
+      "factsAdvanced": [
+        "Höhe von 196 Metern mit 50 Stockwerken.",
+        "War von 1979 bis 2016 das höchste Gebäude Kolumbiens.",
+        "Berühmt für sein nächtliches Lichtspiel an der Außenfassade.",
+        "Bietet die beste öffentliche Aussichtsplattform in Bogotá.",
+        "Fertiggestellt im Jahr 1979.",
+        "Ein architektonisches Symbol der kolumbianischen Moderne.",
+        "Austragungsort des jährlichen Treppenlauf-Wettbewerbs."
+      ]
+    },
+    {
+      "id": "catedral-de-sal-landmarks-v2",
+      "descriptionAdvanced": "Die Salzkathedrale von Zipaquira ist ein einzigartiges unterirdisches Bauwerk, das vollständig in die Stollen einer Salzmine gehauen wurde. Sie gilt als eines der wichtigsten architektonischen und religiösen Denkmäler Kolumbiens und wird oft als das 'erste Wunder' des Landes bezeichnet. In 180 Metern Tiefe führt ein Kreuzweg mit 14 Stationen zur beeindruckenden Hauptkathedrale, die Platz für tausende Gläubige bietet. Die mystische Atmosphäre wird durch ein kunstvolles Lichtdesign verstärkt, das die Texturen des Salzes und die riesigen in den Fels gemeißelten Kreuze betont. Die Kathedrale ist nicht nur ein religiöser Ort, sondern auch ein Symbol für den Stolz der kolumbianischen Bergleute und ihre jahrhundertealte Tradition.",
+      "factsAdvanced": [
+        "Liegt 180 Meter unter der Erdoberfläche.",
+        "Vollständig aus Salzgestein gehauen.",
+        "Teil eines riesigen unterirdischen Salzbergwerks.",
+        "Das Hauptkreuz ist 16 Meter hoch.",
+        "UNESCO-würdiges Meisterwerk der modernen Architektur.",
+        "Zieht jährlich über 600.000 Besucher an.",
+        "Ort für regelmäßige Gottesdienste und kulturelle Veranstaltungen."
+      ]
+    },
+    {
+      "id": "plaza-de-bolivar-landmarks-v2",
+      "descriptionAdvanced": "Die Plaza de Bolívar ist das politische und historische Herz Kolumbiens im Zentrum von Bogotá. Der weitläufige Platz ist umgeben von den bedeutendsten Institutionen des Landes: dem Justizpalast, dem Kapitol (Sitz des Kongresses), dem Palast des Erzbischofs und der Primatialkathedrale. In der Mitte des Platzes thront die Statue von Simón Bolívar, dem Befreier Südamerikas. Seit Jahrhunderten ist dieser Ort Schauplatz wichtiger historischer Ereignisse, politischer Demonstrationen und kultureller Feierlichkeiten. Die Plaza de Bolívar ist ein lebendiger Treffpunkt, an dem die Geschichte der Nation auf den Alltag der Bürger trifft, flankiert von der beeindruckenden Kulisse der Andenberge und dem kolonialen Erbe der Candelaria.",
+      "factsAdvanced": [
+        "Zentraler Platz der kolumbianischen Hauptstadt.",
+        "Beherbergt die erste Statue von Simón Bolívar in Kolumbien (1846).",
+        "Umgeben von neoklassizistischen und modernen Regierungsbauten.",
+        "Früher bekannt als Plaza Mayor.",
+        "Zentrum des historischen Viertels La Candelaria.",
+        "Austragungsort der Amtseinführung kolumbianischer Präsidenten.",
+        "Berühmt für die tausenden Tauben, die den Platz bevölkern."
+      ]
+    },
+    {
+      "id": "santuario-monserrate-landmarks-v2",
+      "descriptionAdvanced": "Der Berg Monserrate thront majestätisch über dem Zentrum von Bogotá und beherbergt auf seinem Gipfel das Santuario del Señor Caído, eines der wichtigsten religiösen Wahrzeichen des Landes. Pilger und Touristen erreichen den Gipfel entweder zu Fuß über einen steilen Pfad, mit der Seilbahn oder der Standseilbahn. Neben der weißen Kapelle aus der Kolonialzeit bietet der Ort spektakuläre Aussichtsplattformen, von denen man die unglaubliche Ausdehnung der Zehn-Millionen-Metropole überblicken kann. Auf 3.152 Metern Höhe gelegen, ist Monserrate ein Ort der Stille, des Gebets und der Natur, umgeben von dichten Bergwäldern. Die nächtliche Beleuchtung des Heiligtums ist aus fast jedem Teil der Stadt sichtbar und dient als spiritueller Kompass für die Bewohner Bogotás.",
+      "factsAdvanced": [
+        "Liegt auf einer Höhe von 3.152 Metern über dem Meeresspiegel.",
+        "Wichtigstes Pilgerziel in der kolumbianischen Hauptstadt.",
+        "Beherbergt das Bildnis des 'Gefallenen Christus' (Señor Caído).",
+        "Erreichbar per Seilbahn, Standseilbahn oder Wanderweg.",
+        "Bietet den besten Panoramablick über ganz Bogotá.",
+        "Die aktuelle Kapelle wurde im Jahr 1920 fertiggestellt.",
+        "Besitzt wunderschöne Gärten und erstklassige Restaurants auf dem Gipfel."
+      ]
+    },
+    {
+      "id": "zapatos-viejos-landmarks-v2",
+      "descriptionAdvanced": "Das Denkmal 'Los Zapatos Viejos' (Die alten Schuhe) in Cartagena ist eine der originellsten und am meisten fotografierten Skulpturen der Stadt. Es wurde zu Ehren des berühmten lokalen Dichters Luis Carlos López errichtet, der in seinem Gedicht 'A mi ciudad nativa' seine Liebe zu Cartagena mit dem Gefühl verglich, das man für ein Paar alte, bequeme Schuhe empfindet. Die riesigen Bronzeschuhe laden Besucher dazu ein, in sie hineinzusteigen und sich fotografieren zu lassen. Das Denkmal befindet sich direkt hinter der Festung San Felipe und symbolisiert den Stolz und die Bodenständigkeit der Bewohner Cartagenas. Es ist ein charmantes Beispiel dafür, wie Literatur und bildende Kunst im öffentlichen Raum einer Stadt verschmelzen können.",
+      "factsAdvanced": [
+        "Inspiriert durch ein Gedicht von Luis Carlos López.",
+        "Erbaut vom Bildhauer Héctor Lombana.",
+        "Beliebtester Fotostopp für Touristen in Cartagena.",
+        "Befindet sich in der Nähe der Festung San Felipe de Barajas.",
+        "Symbolisiert Nostalgie und die Liebe zur Heimatstadt.",
+        "Ursprünglich aus Beton, heute in Bronze gegossen.",
+        "Die Skulptur ist so groß, dass Kinder in den Schuhen spielen können."
+      ]
+    },
+    {
+      "id": "penon-de-guatape-landmarks-v2",
+      "descriptionAdvanced": "Der Peñón de Guatapé, auch bekannt als La Piedra del Peñol, ist ein monumentaler Granitfelsen, der über 200 Meter aus der flachen Landschaft des Departements Antioquia emporragt. Dieser gigantische Monolith ist eines der beeindruckendsten Naturwunder Kolumbiens. Besucher können den Gipfel über eine in eine natürliche Felsspalte gebaute Treppe mit 740 Stufen erklimmen. Oben angekommen, wird man mit einem der atemberaubendsten Ausblicke Südamerikas belohnt: ein riesiger Stausee mit unzähligen grünen Inseln und gewundenen Wasserwegen. Der Fels war einst ein heiliger Ort für die indigenen Tahamí und ist heute das Wahrzeichen der Region, die auch für das farbenfrohe Dorf Guatapé mit seinen verzierten Häusern (Zócalos) bekannt ist.",
+      "factsAdvanced": [
+        "Ein 220 Meter hoher Granit-Monolith.",
+        "Die Treppe zum Gipfel hat genau 740 Stufen.",
+        "Bietet einen 360-Grad-Blick auf den Stausee El Peñol-Guatapé.",
+        "Wiegt schätzungsweise über 10 Millionen Tonnen.",
+        "Erstmals im Jahr 1954 bestiegen.",
+        "Wurde zum nationalen Denkmal Kolumbiens erklärt.",
+        "Liegt etwa 2 Stunden von Medellín entfernt."
+      ]
+    },
+    {
+      "id": "puente-pumarejo-landmarks-v2",
+      "descriptionAdvanced": "Die Puente Pumarejo in Barranquilla ist ein Meisterwerk der modernen Ingenieurskunst und eine der längsten Schrägseilbrücken Kolumbiens. Sie überspannt den mächtigen Río Magdalena und verbindet die Stadt Barranquilla mit dem Departement Magdalena und dem Rest der Karibikküste. Die neue Brücke, die 2019 eingeweiht wurde, ersetzte ein älteres Bauwerk und ermöglicht durch ihre enorme Höhe auch großen Seeschiffen die Durchfahrt landeinwärts. Die Brücke ist ein entscheidendes Glied in der kolumbianischen Infrastruktur und ein Symbol für die wirtschaftliche Dynamik der Karibikregion. Mit ihrer eleganten Struktur und der beeindruckenden nächtlichen Beleuchtung ist sie zu einem neuen architektonischen Wahrzeichen der Stadt geworden, das die Bedeutung Barranquillas als wichtigstes Tor zum Fluss und zum Meer unterstreicht.",
+      "factsAdvanced": [
+        "Offizieller Name: Puente Alberto Pumarejo.",
+        "Länge von ca. 3,2 Kilometern.",
+        "Eine der breitesten Brücken Lateinamerikas (38 Meter).",
+        "Ermöglicht eine Durchfahrtshöhe für Schiffe von 45 Metern.",
+        "Wichtigste Verbindung über den Río Magdalena an der Küste.",
+        "Fertigstellung und Einweihung im Dezember 2019.",
+        "Besitzt separate Fahrspuren für Fahrräder und Fußgänger."
+      ]
+    },
+    {
+      "id": "cristo-rey-cali-landmarks-v2",
+      "descriptionAdvanced": "Die Statue Cristo Rey thront auf dem Hügel Los Cristales im Westen von Cali und ist eines der ikonischsten Symbole der Stadt. Mit einer Höhe von 26 Metern wacht die imposante Christusfigur mit ausgebreiteten Armen über das gesamte Cauca-Tal. Die Statue wurde 1953 zur Feier des 50-jährigen Friedens nach dem Krieg der tausend Tage eingeweiht. Der Ort ist nicht nur ein bedeutendes religiöses Denkmal, sondern auch ein beliebter Aussichtspunkt, der besonders bei Sonnenuntergang einen spektakulären Blick auf die Lichter von Cali bietet. Der Weg zur Statue ist gesäumt von beeindruckenden Felsgravuren des Künstlers Carlos Andrés Gómez, was den Besuch zu einem kulturellen und spirituellen Erlebnis inmitten der Natur macht.",
+      "factsAdvanced": [
+        "Höhe der Statue: 26 Meter (auf einem 5-Meter-Sockel).",
+        "Eingeweiht am 25. Oktober 1953.",
+        "Besteht aus Eisenbeton und wiegt etwa 464 Tonnen.",
+        "Liegt auf einer Höhe von 1.440 Metern über dem Meeresspiegel.",
+        "Ähnelt stilistisch dem Cristo Redentor in Rio de Janeiro.",
+        "Kostenloser Zugang zum Aussichtspunkt.",
+        "Die umliegenden Felswände zeigen monumentale Kunstwerke."
+      ]
+    },
+    {
+      "id": "estadio-metropolitano-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Metropolitano Roberto Meléndez in Barranquilla ist als das 'Haus der kolumbianischen Nationalmannschaft' bekannt und das größte Stadion des Landes. Mit seiner beeindruckenden Kapazität und der leidenschaftlichen Atmosphäre bei Länderspielen ist es ein Symbol für die tiefe Fußballliebe Kolumbiens. Die Stadt Barranquilla wurde aufgrund ihrer Hitze und der begeisterten Unterstützung der Fans strategisch als Heimspielstätte gewählt, um Gegner vor eine besondere Herausforderung zu stellen. Das Stadion ist nicht nur Austragungsort sportlicher Höhepunkte, sondern dient auch als Bühne für große Konzerte und kulturelle Veranstaltungen während des berühmten Karnevals. Seine markante kreisförmige Struktur macht es zu einem weithin sichtbaren Wahrzeichen im Süden der Stadt.",
+      "factsAdvanced": [
+        "Offizielles Heimstadion der kolumbianischen Nationalmannschaft.",
+        "Kapazität von ca. 46.000 Zuschauern.",
+        "Eröffnet am 11. Mai 1986.",
+        "Benannt nach dem legendären Fußballer Roberto 'El Flaco' Meléndez.",
+        "Heimat des Fußballvereins Junior de Barranquilla.",
+        "Größte Sportstätte Kolumbiens.",
+        "Befindet sich im Stadtviertel La Ciudadela 20 de Julio."
+      ]
+    },
+    {
+      "id": "monumento-lanceros-landmarks-v2",
+      "descriptionAdvanced": "Das Monumento a los Lanceros de la Libertad, gelegen am Pantano de Vargas in der Nähe von Paipa, ist eines der größten und beeindruckendsten Denkmäler Kolumbiens. Das monumentale Bronzekunstwerk des Bildhauers Rodrigo Arenas Betancourt zeigt 14 Reiter in einem dramatischen Angriff und erinnert an die entscheidende Schlacht vom 25. Juli 1819. Unter der Führung von Juan José Rondón wendeten die Lanzenreiter den Ausgang der Schlacht gegen die spanischen Truppen und ebneten den Weg für den endgültigen Sieg von Simón Bolívar in Boyacá. Die Dynamik der Skulptur fängt den heldenhaften Geist und die Opferbereitschaft des Unabhängigkeitskampfes perfekt ein. Das Denkmal ist ein Ort von tiefem nationalen Stolz und ein Meisterwerk der kolumbianischen Kunst.",
+      "factsAdvanced": [
+        "Größtes Bronze-Denkmal Kolumbiens.",
+        "Erinnert an den Heldenmut der 14 Lanzenreiter von Juan José Rondón.",
+        "Höhe von 33 Metern.",
+        "Erbaut zum 150. Jahrestag der Unabhängigkeit (1969).",
+        "Werk des berühmten kolumbianischen Bildhauers Rodrigo Arenas Betancourt.",
+        "Liegt am historischen Schauplatz der Schlacht am Pantano de Vargas.",
+        "Symbol für Tapferkeit und den Wendepunkt im Unabhängigkeitskrieg."
+      ]
+    },
+    {
+      "id": "catedral-metropolitana-medellin-landmarks-v2",
+      "descriptionAdvanced": "Die Catedral Metropolitana de Medellín, gelegen am Parque de Bolívar, ist eine monumentale Basilika und ein architektonisches Wahrzeichen der Stadt. Sie gilt als das größte Gebäude der Welt, das vollständig aus gebrannten Backsteinen errichtet wurde. Der Bau im neoromanischen Stil dauerte über 50 Jahre und erforderte Millionen von handgefertigten Ziegeln. Das Innere der Kathedrale beeindruckt durch seine enorme Weite, wunderschöne Buntglasfenster und eine prächtige Orgel. Als Sitz des Erzbistums Medellín ist sie ein spirituelles Zentrum und ein Ort von großer kultureller Bedeutung. Ihre massive Präsenz und die rötliche Farbe der Backsteine verleihen dem historischen Zentrum von Medellín einen unverwechselbaren Charakter und zeugen vom Fleiß und dem tiefen Glauben der Bewohner von Antioquia.",
+      "factsAdvanced": [
+        "Weltweit größtes Gebäude aus massivem Backstein.",
+        "Verbaut wurden ca. 1,12 Millionen Ziegel.",
+        "Entworfen vom französischen Architekten Charles Carré.",
+        "Bauzeit von 1875 bis 1931.",
+        "Nationales Denkmal Kolumbiens seit 1982.",
+        "Besitzt eine beeindruckende Walcker-Orgel.",
+        "Liegt am Nordende des Parque de Bolívar im Stadtzentrum."
+      ]
+    },
+    {
+      "id": "puente-de-boyaca-landmarks-v2",
+      "descriptionAdvanced": "Die Puente de Boyacá ist einer der heiligsten Orte der kolumbianischen Geschichte und das ultimative Symbol für die Freiheit der Nation. An dieser kleinen Brücke über den Fluss Teatinos fand am 7. August 1819 die entscheidende Schlacht statt, in der Simón Bolívar die spanischen Truppen endgültig besiegte und die Unabhängigkeit Kolumbiens sicherte. Der gesamte historische Komplex umfasst heute zahlreiche Denkmäler, darunter das imposante Monument für Bolivar, den Altar der Heimat und eine ewige Flamme. Die Anlage ist wunderschön in die sanften Hügel der Anden eingebettet und wird nachts oft spektakulär beleuchtet. Für Kolumbianer ist ein Besuch der Brücke eine patriotische Pilgerreise, die an die Geburtsstunde ihrer Republik erinnert.",
+      "factsAdvanced": [
+        "Ort des entscheidenden Sieges für die Unabhängigkeit Kolumbiens.",
+        "Schlachtdatum: 7. August 1819.",
+        "Die heutige Brücke ist eine Rekonstruktion des Originals.",
+        "Gehört zum nationalen Kulturerbe Kolumbiens.",
+        "Liegt etwa 14 Kilometer südlich von Tunja.",
+        "Beherbergt das monumentale Denkmal von Von Miller für Simón Bolívar.",
+        "Beliebtes Ziel für Weihnachtsbeleuchtung im Dezember."
+      ]
+    },
+    {
+      "id": "torre-de-cali-landmarks-v2",
+      "descriptionAdvanced": "Der Torre de Cali ist das höchste Gebäude der Stadt Cali und ein markantes Merkmal ihrer Skyline. Das 1983 fertiggestellte Hochhaus am Ufer des Río Cali ist ein Symbol für den wirtschaftlichen Aufschwung der Region im späten 20. Jahrhundert. Mit seinen 44 Stockwerken beherbergt der Turm sowohl Büros als auch ein renommiertes Hotel. Die Architektur zeichnet sich durch ihre schlichte Eleganz und die reflektierenden Glasfassaden aus. Für die Bewohner von Cali ist der Turm ein wichtiger Orientierungspunkt und ein Zeichen für die Modernität ihrer Stadt. Von den oberen Etagen bietet sich ein spektakulärer Blick über das gesamte Cauca-Tal bis hin zu den Farallones de Cali, was ihn zu einem der prestigeträchtigsten Standorte der Stadt macht.",
+      "factsAdvanced": [
+        "Höchstes Gebäude in Cali und im Südwesten Kolumbiens.",
+        "Höhe von 183 Metern.",
+        "Besitzt 44 Stockwerke.",
+        "Fertigstellung im Jahr 1983.",
+        "Multifunktionales Gebäude (Hotel und Büros).",
+        "Wichtigster architektonischer Orientierungspunkt im Stadtzentrum.",
+        "Liegt in unmittelbarer Nähe zum Fluss Cali."
+      ]
+    },
+    {
+      "id": "bd-bacata-landmarks-v2",
+      "descriptionAdvanced": "Das BD Bacatá ist ein visionäres Architekturprojekt im Zentrum von Bogotá und derzeit das höchste Gebäude Kolumbiens. Der Komplex besteht aus zwei Türmen, die durch ihre markante, abgestufte Glasfassade und die enorme Höhe beeindrucken. Das Projekt wurde durch eine weltweit einzigartige Crowdfunding-Kampagne finanziert, bei der tausende Kolumbianer Anteile erwarben. Das BD Bacatá ist als 'vertikale Stadt' konzipiert und beherbergt ein Hotel, Luxusapartments, Büros und ein Einkaufszentrum. Es repräsentiert die Ambition Bogotás, sich als modernes globales Zentrum zu positionieren, und hat die Skyline der Hauptstadt grundlegend verändert. Trotz der Herausforderungen während des Baus bleibt es ein Symbol für Innovation und kollektives Engagement in der kolumbianischen Bauwirtschaft.",
+      "factsAdvanced": [
+        "Höchstes Gebäude Kolumbiens (Südturm mit 240 Metern).",
+        "Erstes durch Crowdfunding finanziertes Hochhaus weltweit.",
+        "Besitzt 67 Stockwerke im höchsten Turm.",
+        "Besteht aus über 115.000 Quadratmetern bebauter Fläche.",
+        "Architektonisches Design des spanischen Büros Alonso & Balaguer.",
+        "Beherbergt das höchste Hotel Kolumbiens.",
+        "Liegt im historischen Zentrum von Bogotá."
+      ]
+    },
+    {
+      "id": "plaza-botero-landmarks-v2",
+      "descriptionAdvanced": "Die Plaza Botero in Medellín ist ein einzigartiges Freilichtmuseum und einer der lebendigsten kulturellen Orte Kolumbiens. Der Platz beherbergt 23 monumentale Bronzeskulpturen des weltberühmten kolumbianischen Künstlers Fernando Botero, die er seiner Heimatstadt schenkte. Die für Botero typischen, fülligen und überproportionalen Figuren bilden einen faszinierenden Kontrast zur Architektur des angrenzenden Palastes der Kultur (Palacio de la Cultura) und dem Museum von Antioquia. Die Plaza ist ein demokratischer Raum der Kunst, in dem Einheimische und Touristen die Werke hautnah erleben und berühren können. Ein Besuch auf der Plaza Botero ist ein Muss, um den Geist von Medellín zu verstehen, der Kunst als Werkzeug für soziale Transformation und kulturellen Stolz feiert.",
+      "factsAdvanced": [
+        "Beherbergt 23 monumentale Skulpturen von Fernando Botero.",
+        "Offizieller Name: Plaza de las Esculturas.",
+        "Die Skulpturen wurden alle vom Künstler persönlich gespendet.",
+        "Liegt direkt vor dem Museo de Antioquia.",
+        "Einer der meistbesuchten Orte in Medellín.",
+        "Wurde im Jahr 2002 als Teil der Stadterneuerung eingeweiht.",
+        "Freier Zugang für alle Besucher rund um die Uhr."
+      ]
+    },
+    {
+      "id": "edificio-coltejer-landmarks-v2",
+      "descriptionAdvanced": "Das Edificio Coltejer ist das ikonischste Hochhaus in Medellín und war lange Zeit das Symbol für die industrielle Macht der Stadt, insbesondere der Textilindustrie. Seine einzigartige Form, die an eine Webnadel erinnert, wurde entworfen, um das Unternehmen Coltejer zu repräsentieren, das einst zu den größten Textilherstellern Lateinamerikas gehörte. Das Gebäude liegt im Herzen von Medellín an der berühmten Junín-Straße und prägt seit 1972 die Skyline der Stadt. Trotz des Aufkommens neuerer Wolkenkratzer bleibt das Coltejer-Gebäude das unangefochtene Wahrzeichen des historischen Zentrums. Es steht für die Innovationskraft und den unternehmerischen Geist der Region Antioquia und ist ein Zeugnis für den Wandel Medellín von einer Industriestadt zu einem modernen Dienstleistungszentrum.",
+      "factsAdvanced": [
+        "Höhe von 175 Metern mit 37 Stockwerken.",
+        "Die Form symbolisiert eine Webnadel.",
+        "War bei seiner Fertigstellung 1972 das höchste Gebäude Kolumbiens.",
+        "Erbaut als Hauptsitz der Textilfirma Coltejer.",
+        "Architektonisches Wahrzeichen von Medellín.",
+        "Befindet sich an der Kreuzung der Straßen Junín und La Playa.",
+        "Besitzt ein Observatorium im obersten Stockwerk."
+      ]
+    },
+    {
+      "id": "catedral-primada-colombia-landmarks-v2",
+      "descriptionAdvanced": "Die Catedral Primada de Colombia, gelegen an der Plaza de Bolívar in Bogotá, ist die wichtigste katholische Kirche des Landes und ein nationales Monument. Das heutige neoklassizistische Gebäude wurde zwischen 1807 und 1823 errichtet, obwohl an diesem Ort bereits seit der Gründung der Stadt im Jahr 1538 religiöse Bauten standen. Die Kathedrale beeindruckt durch ihre monumentale Fassade und das würdevolle, lichtdurchflutete Innere mit drei Schiffen. Hier befinden sich die Gräber bedeutender historischer Persönlichkeiten, darunter der Stadtgründer Gonzalo Jiménez de Quesada. Als Sitz des Erzbischofs von Bogotá ist die Primatialkathedrale das religiöse Zentrum der Nation und ein Ort von unschätzbarem historischem und architektonischem Wert inmitten des Regierungszentrums.",
+      "factsAdvanced": [
+        "Offizieller Name: Sacro Santa Iglesia Catedral Primada de Colombia.",
+        "Größte Kathedrale des Landes.",
+        "Baustil: Neoklassizismus des 19. Jahrhunderts.",
+        "Beherbergt die Überreste des Stadtgründers Gonzalo Jiménez de Quesada.",
+        "Teil des UNESCO-Weltkulturerbe-Umfelds in La Candelaria.",
+        "Viertes Gebäude, das an diesem Standort errichtet wurde.",
+        "Nationales Denkmal Kolumbiens seit 1975."
+      ]
+    },
+    {
+      "id": "iglesia-san-pedro-claver-landmarks-v2",
+      "descriptionAdvanced": "Die Kirche San Pedro Claver in Cartagena ist ein Ort von tiefer spiritueller und historischer Bedeutung. Sie wurde zu Ehren des heiligen Jesuitenmönchs Pedro Claver errichtet, der als 'Apostel der Sklaven' bekannt wurde, da er sein Leben der Betreuung der aus Afrika verschleppten Menschen widmete. Die im 17. Jahrhundert erbaute Kirche besticht durch ihre imposante Steinfassade und die charakteristische Kuppel, die erst später hinzugefügt wurde. Das angrenzende Kloster beherbergt ein Museum und den Raum, in dem der Heilige lebte und starb. Seine sterblichen Überreste werden unter dem Hauptaltar in einem gläsernen Sarg aufbewahrt. Die Kirche ist ein kraftvolles Denkmal für die Menschenrechte und die soziale Gerechtigkeit in der Geschichte Kolumbiens und ein Ruhepol inmitten der lebhaften Altstadt.",
+      "factsAdvanced": [
+        "Benannt nach dem Schutzpatron der Menschenrechte in Kolumbien.",
+        "Beherbergt die sterblichen Überreste des Heiligen Pedro Claver.",
+        "Barockarchitektur aus dem 17. Jahrhundert.",
+        "Besitzt eine ikonische Kuppel, entworfen von Jacques Firmin Beauquet.",
+        "Teil eines Klosters, das heute als Museum dient.",
+        "Liegt an einem der schönsten Plätze Cartagenas.",
+        "Wichtiges Pilgerziel und nationales Denkmal."
+      ]
+    },
+    {
+      "id": "monumento-solidaridad-landmarks-v2",
+      "descriptionAdvanced": "Das Monumento a la Solidaridad in Cali ist ein faszinierendes Kunstwerk des kolumbianischen Bildhauers Héctor Lombana, das den Geist der Zusammenarbeit und des gemeinschaftlichen Fortschritts symbolisiert. Die Skulptur besteht aus einer Reihe von Figuren, die sich gegenseitig helfen, eine schwere Last zu tragen, was die Stärke der Einheit und der sozialen Bindungen darstellt. Das Denkmal wurde aus Schiefer und Quarz gefertigt und ist durch seine dynamische Form und die detaillierte Darstellung der menschlichen Anstrengung ein Blickfang im Norden der Stadt. Für die Bewohner von Cali steht es für die Resilienz und den Zusammenhalt ihrer Gemeinschaft in schwierigen Zeiten. Es ist ein bedeutendes Beispiel für zeitgenössische kolumbianische Bildhauerei, die universelle Werte im urbanen Raum zelebriert.",
+      "factsAdvanced": [
+        "Werk des berühmten Bildhauers Héctor Lombana.",
+        "Eingeweiht am 24. März 1995.",
+        "Besteht aus Schiefer, Quarz und Eisenbeton.",
+        "Symbolisiert die Einheit und den Fortschritt der Menschen in Cali.",
+        "Liegt an der Avenida Estación im Norden der Stadt.",
+        "Wurde nach einem schweren Sturm im Jahr 2021 aufwendig restauriert.",
+        "Eines der meistfotografierten modernen Denkmäler in Cali."
+      ]
+    },
+    {
+      "id": "centro-convenciones-cartagena-landmarks-v2",
+      "descriptionAdvanced": "Das Centro de Convenciones Julio César Turbay Ayala in Cartagena ist eines der wichtigsten Kongresszentren Lateinamerikas und ein architektonisches Wahrzeichen an der Bucht von Cartagena. Direkt gegenüber der historischen Altstadt und der Festung San Felipe gelegen, verbindet das Gebäude modernste Veranstaltungstechnik mit einer Architektur, die sich harmonisch in das maritime Umfeld einfügt. Seit seiner Eröffnung im Jahr 1982 war es Schauplatz zahlreicher internationaler Gipfeltreffen, kultureller Festivals wie dem Filmfestival von Cartagena und wirtschaftlicher Foren. Das Zentrum spielt eine entscheidende Rolle für den Status der Stadt als erstklassiges Ziel für Geschäftstourismus und Veranstaltungen. Sein markanter Standort am Getsemaní-Ufer bietet Besuchern einen unvergleichlichen Blick auf die koloniale Silhouette der Stadt.",
+      "factsAdvanced": [
+        "Eines der modernsten Kongresszentren in Südamerika.",
+        "Lage im historischen Viertel Getsemaní am Meer.",
+        "Eröffnet im Jahr 1982.",
+        "Besitzt eine Kapazität für über 4.000 Personen im Hauptsaal.",
+        "Entworfen vom Architekten Rogelio Salmona.",
+        "Hauptveranstaltungsort des Internationalen Filmfestivals von Cartagena.",
+        "Wichtiger Motor für den MICE-Tourismus in Kolumbien."
+      ]
+    },
+    {
+      "id": "estadio-el-campin-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Nemesio Camacho, besser bekannt als 'El Campín', ist das legendäre Fußballstadion von Bogotá und ein Tempel des kolumbianischen Sports. Es liegt im Herzen der Hauptstadt und ist die Heimat der beiden traditionsreichsten Vereine des Landes, Millonarios und Santa Fe. Seit seiner Einweihung im Jahr 1938 war El Campín Schauplatz unzähliger historischer Momente, darunter das Finale der Copa América 2001, in dem Kolumbien den Titel gewann. Das Stadion ist nicht nur ein Ort für Fußball, sondern auch ein wichtiger Veranstaltungsort für internationale Konzerte und Großereignisse. Für die 'Bogotanos' ist El Campín mehr als nur ein Bauwerk; es ist ein Ort leidenschaftlicher Emotionen und ein zentraler Bestandteil der kulturellen Identität der Stadt.",
+      "factsAdvanced": [
+        "Kapazität von ca. 36.000 Zuschauern.",
+        "Heimat der Vereine Millonarios FC und Independiente Santa Fe.",
+        "Eröffnet am 10. August 1938.",
+        "Ort des größten Erfolgs der Nationalmannschaft (Copa América Sieg 2001).",
+        "Benannt nach Nemesio Camacho, einem Förderer des Sports.",
+        "Wurde mehrfach für große internationale Turniere modernisiert.",
+        "Zentrum des Sportkomplexes El Campín in Bogotá."
+      ]
+    },
+    {
+      "id": "estadio-atanasio-girardot-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Atanasio Girardot ist das sportliche Herz von Medellín und Teil eines der umfassendsten Sportkomplexe Lateinamerikas. Es ist die Heimstätte der beiden großen Rivalen Atlético Nacional und Independiente Medellín, deren Begegnungen zu den leidenschaftlichsten Derbys Südamerikas zählen. Das Stadion ist bekannt für seine elektrisierende Atmosphäre und die bunten Choreografien der Fans. Neben Fußball dient das Atanasio Girardot als Bühne für weltweite Musikstars und große städtische Festivals wie die Feria de las Flores. Das Stadion und die umliegenden Sportanlagen sind ein wichtiger Treffpunkt für die Bewohner der Stadt und symbolisieren den Stolz und die soziale Integration Medellín durch den Sport. Es wurde mehrfach modernisiert, um internationalen Standards gerecht zu werden.",
+      "factsAdvanced": [
+        "Kapazität von ca. 41.000 Zuschauern.",
+        "Heimat von Atlético Nacional und Independiente Medellín.",
+        "Eröffnet am 19. März 1953.",
+        "Teil der Unidad Deportiva Atanasio Girardot.",
+        "Austragungsort von Spielen der FIFA U-20 Weltmeisterschaft 2011.",
+        "Benannt nach dem Unabhängigkeitshelden Atanasio Girardot.",
+        "Wichtigster Veranstaltungsort für Konzerte in Medellín."
+      ]
+    },
+    {
+      "id": "movistar-arena-bogota-landmarks-v2",
+      "descriptionAdvanced": "Die Movistar Arena in Bogotá ist die modernste Mehrzweckhalle Kolumbiens und ein Meilenstein für das Entertainment im Land. Entstanden durch die umfassende Renovierung des alten Kolosseums 'El Campín', bietet die Arena heute eine erstklassige Akustik, modernste Lichttechnik und höchsten Komfort für bis zu 14.000 Zuschauer. Seit ihrer Eröffnung im Jahr 2018 hat sie die Hauptstadt als Pflichtstopp für internationale Tourneen weltweit bekannter Künstler etabliert. Die Arena zeichnet sich durch ihre markante LED-Außenfassade aus, die nachts leuchtet und Informationen anzeigt. Ihre strategische Lage im Zentrum des Sport- und Kulturviertels von Bogotá macht sie leicht erreichbar und zu einem neuen Symbol für die Modernität und das kulturelle Angebot der kolumbianischen Metropole.",
+      "factsAdvanced": [
+        "Modernste Event-Arena in Kolumbien.",
+        "Kapazität für bis zu 14.000 Besucher.",
+        "Eingeweiht im Oktober 2018.",
+        "Umfassende Modernisierung des ehemaligen Coliseo El Campín.",
+        "Besitzt eine spektakuläre interaktive LED-Fassade.",
+        "Austragungsort für Konzerte, Sportevents und Kongresse.",
+        "Erster Austragungsort in Kolumbien mit LEED-Zertifizierung für Nachhaltigkeit."
+      ]
+    },
+    {
+      "id": "torre-del-reloj-cartagena-landmarks-v2",
+      "descriptionAdvanced": "Der Torre del Reloj (Uhrturm) ist der ikonische Haupteingang zur historischen Altstadt von Cartagena und eines der am häufigsten fotografierten Wahrzeichen Kolumbiens. Ursprünglich im 17. Jahrhundert als einzige Verbindung zwischen der befestigten Stadt und dem Viertel Getsemaní erbaut, erhielt der Turm seine charakteristische neugotische Spitze mit der Uhr erst im späten 19. Jahrhundert. Er führt direkt auf die Plaza de los Coches, wo einst reger Handel getrieben wurde. Die drei Torbögen des Turms symbolisieren heute das Tor zu einer Welt voller kolonialer Magie, Farben und Geschichte. Für Besucher ist der Torre del Reloj der traditionelle Startpunkt für jeden Spaziergang durch die kopfsteingepflasterten Gassen Cartagenas und ein Symbol für die Beständigkeit der 'Heldenhaften Stadt'.",
+      "factsAdvanced": [
+        "Haupteingang zur ummauerten Altstadt von Cartagena.",
+        "Ursprünglich im Jahr 1601 als 'Boca del Puente' erbaut.",
+        "Die aktuelle Uhr wurde im Jahr 1888 aus der Schweiz importiert.",
+        "Nationales Denkmal Kolumbiens.",
+        "Besteht aus drei Torbögen (nur der mittlere ist original).",
+        "Symbol für die militärische Verteidigungsanlage der Stadt.",
+        "Trennlinie zwischen dem historischen Zentrum und Getsemaní."
+      ]
+    },
+    {
+      "id": "viaducto-cesar-gaviria-landmarks-v2",
+      "descriptionAdvanced": "Das Viaducto César Gaviria Trujillo ist ein Meisterwerk der Brückenbaukunst und verbindet die Städte Pereira und Dosquebradas im Herzen der Kaffeezone. Bei seiner Einweihung im Jahr 1997 war es eine der größten Schrägseilbrücken Südamerikas und ein Symbol für die Modernisierung der kolumbianischen Infrastruktur. Die Brücke überspannt das tiefe Tal des Flusses Otún und hat den Verkehrsfluss in der Region entscheidend verbessert. Mit ihrer eleganten Form und den hohen Pylonen ist sie aus fast jedem Teil von Pereira sichtbar und zu einem stolzen Wahrzeichen für die Bewohner der Region geworden. Die Brücke ist nicht nur ein funktionales Verkehrsbauwerk, sondern bietet auch spektakuläre Ausblicke auf die Stadt und das Umland und wird nachts oft kunstvoll beleuchtet.",
+      "factsAdvanced": [
+        "Verbindet die Städte Pereira und Dosquebradas.",
+        "Länge von 440 Metern und eine Höhe von 55 Metern.",
+        "Schrägseilbrücke mit markanten Betonpylonen.",
+        "Einweihung im November 1997.",
+        "Benannt nach dem ehemaligen kolumbianischen Präsidenten aus Pereira.",
+        "Gewann nationale Preise für Architektur und Ingenieurwesen.",
+        "Strategischer Punkt für die Verbindung zwischen Bogotá und dem Pazifik."
+      ]
+    },
+    {
+      "id": "ventana-al-mundo-landmarks-v2",
+      "descriptionAdvanced": "Die 'Ventana al Mundo' (Fenster zur Welt) ist ein monumentales und farbenfrohes Kunstwerk in Barranquilla, das zum neuen Wahrzeichen der Stadt geworden ist. Der fast 50 Meter hohe Turm besteht aus einer beeindruckenden Stahlstruktur, die mit tausenden Quadratmetern farbigen Glases verkleidet ist. Das Denkmal wurde errichtet, um den Stolz der Stadt auf ihre Geschichte, ihre industrielle Bedeutung und ihre Offenheit gegenüber der Welt auszudrücken. Jede Farbe und jedes Detail symbolisiert einen Aspekt der Entwicklung Barranquillas. Das umliegende Areal ist zu einem beliebten Park und Treffpunkt für Familien geworden, der besonders nachts, wenn die Struktur von innen heraus leuchtet, eine magische Atmosphäre versprüht. Es ist ein Symbol für die moderne Transformation und den Optimismus der 'Goldenen Pforte Kolumbiens'.",
+      "factsAdvanced": [
+        "Farbenfrohes Monument mit einer Höhe von 47 Metern.",
+        "Verbaut wurden ca. 2.000 Quadratmeter High-Tech-Glas.",
+        "Eingeweiht im August 2018.",
+        "Symbolisiert Barranquillas Status als wichtigstes Tor zum Welthandel.",
+        "Geschenk des Unternehmens Tecnoglass an die Stadt.",
+        "Beherbergt eine Galerie mit der Geschichte von Barranquilla am Boden.",
+        "Einer der meistbesuchten und fotografierten Orte in der Karibikregion."
+      ]
+    },
+    {
+      "id": "capitolio-nacional-colombia-landmarks-v2",
+      "descriptionAdvanced": "Das Capitolio Nacional de Colombia ist der Sitz des kolumbianischen Kongresses und eines der bedeutendsten Beispiele neoklassizistischer Architektur in Südamerika. Es dominiert die Südseite der Plaza de Bolívar in Bogotá und beeindruckt durch seine monumentale Fassade aus gelbem Sandstein und die majestätischen korinthischen Säulen. Der Bau des Kapitols dauerte fast 80 Jahre (von 1848 bis 1926), was ihm den Beinamen 'der Kranke aus Stein' einbrachte. Das Innere beherbergt prächtige Säle wie den Salón Elíptico, in dem die Amtseinführungen der Präsidenten stattfinden und bedeutende Wandgemälde die Geschichte der Nation erzählen. Als Zentrum der legislativen Macht ist das Kapitol nicht nur ein Regierungsgebäude, sondern ein steinernes Denkmal für die demokratische Tradition und die politische Geschichte Kolumbiens.",
+      "factsAdvanced": [
+        "Sitz des Senats und des Repräsentantenhauses.",
+        "Reiner neoklassizistischer Baustil.",
+        "Bauzeit von fast 80 Jahren (1848–1926).",
+        "Entworfen vom dänischen Architekten Thomas Reed.",
+        "Erbaut aus handgehauenem Sandstein aus der Region Bogotá.",
+        "Beherbergt das berühmte Wandgemälde 'El Congreso de Cúcuta' von Santiago Martínez.",
+        "Nationales Denkmal und Herz der Plaza de Bolívar."
+      ]
+    },
+    {
+      "id": "teatro-colon-bogota-landmarks-v2",
+      "descriptionAdvanced": "Das Teatro de Cristóbal Colón, besser bekannt als Teatro Colón, ist das nationale Opernhaus Kolumbiens und ein architektonisches Juwel im historischen Zentrum von Bogotá. Das im neoklassizistischen Stil erbaute Theater wurde Ende des 19. Jahrhunderts vom italienischen Architekten Pietro Cantini entworfen und erinnert an die großen europäischen Opernhäuser. Sein prachtvolles Inneres besticht durch die Hufeisenform des Zuschauerraums, goldverzierte Logen und einen spektakulären Deckenfresko. Das Theater ist berühmt für seine exzellente Akustik und beherbergt die wichtigsten Opern-, Ballett- und Theaterproduktionen des Landes. Als eines der 'sieben Wunder Kolumbiens' gewählt, ist das Teatro Colón ein Symbol für die kulturelle Raffinesse und die künstlerische Tradition der Hauptstadt.",
+      "factsAdvanced": [
+        "Nationaltheater Kolumbiens, eingeweiht am 12. Oktober 1892.",
+        "Architekt: Pietro Cantini aus Florenz.",
+        "Eines der sieben Wunder Kolumbiens (Publikumswahl 2007).",
+        "Besitzt einen Vorhang (Telón de Boca), der in Italien bemalt wurde.",
+        "Neoklassizistisches Gebäude mit italienischem Einfluss.",
+        "Nationales Denkmal und Sitz bedeutender Kulturfestivals.",
+        "Liegt direkt gegenüber dem San-Carlos-Palast in La Candelaria."
+      ]
+    }
+  ]
+}

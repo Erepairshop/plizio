@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ejura-cities-v2",
+      "descriptionAdvanced": "Ejura is a key agricultural town located in the Ashanti Region, serving as the administrative capital of the Ejura-Sekyedumase Municipal District. Situated on the transitional ecological zone between the southern forest and the northern savanna, Ejura is exceptionally fertile and represents one of Ghana's most critical grain-producing centers. The town is famous for its massive weekly yam and maize markets, which supply produce to major urban centers including Kumasi and Accra. The population is highly diverse, consisting of indigenous Ashantis and significant migrant communities from the northern regions who participate in the agricultural boom. Geography K7 — transitional climate agriculture.",
+      "factsAdvanced": [
+        "Serves as the capital of the Ejura-Sekyedumase Municipal District.",
+        "Located in the ecological transition zone between forest and savanna.",
+        "Renowned nationally as a massive producer of maize, yams, and groundnuts.",
+        "Features one of the most active weekly agricultural markets in the region.",
+        "Hosts a significant population of migrant farmers from northern Ghana.",
+        "Geographically positioned north of the Ashanti capital, Kumasi."
+      ]
+    },
+    {
+      "id": "berekum-cities-v2",
+      "descriptionAdvanced": "Berekum is a prominent commercial and historic town in the Bono Region, famously known as the 'Golden City' due to its cleanliness, wealth, and historical significance within the Bono State. It serves as the capital of the Berekum East Municipal District. Historically, Berekum was an important stronghold of the Ashanti Empire's western expansion. Today, the town's economy is heavily driven by cocoa farming, timber logging, and robust local commerce. It also hosts the Berekum College of Education and the Holy Family Hospital, making it a vital educational and healthcare center for the surrounding rural communities. Geography K7 — regional commercial centers.",
+      "factsAdvanced": [
+        "Serves as the capital of the Berekum East Municipal District in the Bono Region.",
+        "Colloquially referred to as the 'Golden City' by its inhabitants.",
+        "Historically a significant frontier town of the expanding Ashanti Empire.",
+        "The local economy relies heavily on cocoa production and the timber industry.",
+        "Home to the Berekum College of Education, a major regional institution.",
+        "Features the prominent Holy Family Hospital, a critical healthcare provider."
+      ]
+    },
+    {
+      "id": "tafo-cities-v2",
+      "descriptionAdvanced": "New Tafo, often simply referred to as Tafo, is a bustling town in the Abuakwa North Municipal District of the Eastern Region. It is intrinsically linked to Ghana's cocoa industry, primarily because it hosts the headquarters of the Cocoa Research Institute of Ghana (CRIG), established in 1938. This institution has been pivotal in developing disease-resistant cocoa hybrids and advancing agricultural science in West Africa. Beyond research, Tafo is a vibrant trading town with a high density of small-scale farmers cultivating cocoa, plantains, and oil palm on the fertile slopes of the Akwapim-Togo mountain range. Geography K7 — agricultural research and cash crops.",
+      "factsAdvanced": [
+        "Located in the Abuakwa North Municipal District of the Eastern Region.",
+        "Home to the Cocoa Research Institute of Ghana (CRIG), founded in 1938.",
+        "Historically a crucial center for combating the devastating Cocoa Swollen Shoot Virus.",
+        "Surrounded by highly fertile land utilized for intensive cocoa and plantain farming.",
+        "Situated near the scenic Akwapim-Togo mountain range.",
+        "Functions as a primary residential and commercial hub for local farmers."
+      ]
+    },
+    {
+      "id": "suhum-cities-v2",
+      "descriptionAdvanced": "Suhum is a major commercial and transit town located in the Eastern Region, functioning as the capital of the Suhum Municipal District. Its strategic location along the main Accra-Kumasi highway makes it an indispensable logistical node for the transport of goods between the coast and the interior. Historically, Suhum flourished in the early 20th century as a pioneer area for cocoa cultivation before the industry shifted further west. Today, it remains a bustling market town where massive quantities of agricultural produce, especially cassava, plantain, and citrus fruits, are traded daily, supported by a dense network of feeder roads. Geography K7 — highway transit corridors.",
+      "factsAdvanced": [
+        "Capital of the Suhum Municipal District in the Eastern Region.",
+        "Strategically located directly on the critical Accra-Kumasi central highway.",
+        "Historically a pioneer center for early commercial cocoa farming in Ghana.",
+        "Acts as a major collection point for local citrus fruits and plantains.",
+        "Features a highly active central market serving numerous surrounding villages.",
+        "Experienced significant growth due to 20th-century road infrastructure improvements."
+      ]
+    },
+    {
+      "id": "tarkwa-cities-v2",
+      "descriptionAdvanced": "Tarkwa is a legendary mining city located in the Western Region, serving as the administrative capital of the Tarkwa-Nsuaem Municipal District. It is internationally renowned for its immense gold and manganese deposits, possessing one of the highest concentrations of mining operations in West Africa. The discovery of gold in the late 19th century prompted the construction of the Sekondi-Tarkwa railway, fundamentally altering the region's economy. The city is also a major educational hub for engineering, hosting the prestigious University of Mines and Technology (UMaT), which trains specialists for the extractive industries across the continent. Geography K7 — resource extraction and engineering.",
+      "factsAdvanced": [
+        "Capital of the Tarkwa-Nsuaem Municipal District in the Western Region.",
+        "A historic center of intensive gold and manganese mining since the 19th century.",
+        "Home to the University of Mines and Technology (UMaT), established in 2004.",
+        "Connected to the coast by the Sekondi-Tarkwa railway line built in 1901.",
+        "The surrounding topography features deep open-pit mining craters and forest.",
+        "Significant operations are run by major firms like Gold Fields and AngloGold Ashanti."
+      ]
+    },
+    {
+      "id": "nsawam-cities-v2",
+      "descriptionAdvanced": "Nsawam is a vital commercial town in the Eastern Region, functioning as the capital of the Nsawam-Adoagyire Municipal District. Located on the Densu River just north of the Greater Accra border, it serves as a critical gateway between the capital and the forested interior. Nsawam is heavily industrialized for a town its size, famously hosting the Astek fruit processing company and major orthopedic facilities. The town is also known nationwide for the Nsawam Medium Security Prison, Ghana's primary maximum-security correctional facility. Its vibrant market and heavy highway traffic make it a restless, dynamic transit center. Geography K7 — industrial transit towns.",
+      "factsAdvanced": [
+        "Capital of the Nsawam-Adoagyire Municipal District in the Eastern Region.",
+        "Geographically situated along the banks of the Densu River.",
+        "Functions as a major transit gateway on the Accra-Kumasi highway.",
+        "Home to the Nsawam Medium Security Prison, the nation's largest penitentiary.",
+        "Historically a center for commercial fruit processing and local manufacturing.",
+        "Connected to Accra via both a major highway and a historical railway line."
+      ]
+    },
+    {
+      "id": "kasoa-cities-v2",
+      "descriptionAdvanced": "Kasoa, officially known as Oduponkpehe, is an explosively growing urban center in the Awutu Senya East Municipal District of the Central Region. Situated just across the border from Greater Accra, Kasoa has experienced one of the highest demographic growth rates in West Africa over the last two decades, driven by massive middle- and low-income migration from the congested capital. It features one of the largest and most chaotic open-air markets in Ghana, attracting traders nationwide. Despite chronic traffic congestion on the main coastal highway, Kasoa's affordable real estate continues to fuel its transformation into a major megacity suburb. Geography K7 — rapid urbanization and informal markets.",
+      "factsAdvanced": [
+        "Located in the Awutu Senya East Municipal District of the Central Region.",
+        "Recognized as one of the fastest-growing urban areas in West Africa.",
+        "Functions as a massive commuter dormitory town for Greater Accra.",
+        "Kasoa Market is a massive regional hub for fresh produce and retail goods.",
+        "Positioned directly on the critical coastal highway linking Accra to Cape Coast.",
+        "Historically a small Zongo settlement that rapidly expanded in the 1990s."
+      ]
+    },
+    {
+      "id": "yendi-cities-v2",
+      "descriptionAdvanced": "Yendi is the historic and spiritual capital of the Dagbon Kingdom, located in the Northern Region of Ghana. It serves as the seat of the Ya Naa, the paramount King of the Dagomba people, holding immense cultural and political significance in northern Ghana. The town is situated on the eastern corridor road, making it a critical logistical hub for trade heading towards the Togo border. Yendi is characterized by traditional mud-brick architecture interspersed with modern structures, and its economy is largely driven by the cultivation of yams, millet, and shea nuts. It also holds historical importance as the site where the German colonizer Hans Gruner established a station in 1896. History K8 — traditional African kingdoms.",
+      "factsAdvanced": [
+        "Serves as the traditional capital of the ancient Dagbon Kingdom.",
+        "The seat of the Ya Naa, the paramount chief of the Dagomba people.",
+        "Located in the Northern Region, along the strategic eastern corridor road.",
+        "Historically occupied by German colonial forces under Hans Gruner in 1896.",
+        "A major regional producer of yams, millet, sorghum, and shea butter.",
+        "Site of the grave of Babatu, a prominent 19th-century Zabarima warrior."
+      ]
+    },
+    {
+      "id": "winneba-cities-v2",
+      "descriptionAdvanced": "Winneba is a historic coastal city in the Central Region, functioning as the capital of the Effutu Municipal District. Traditionally known as Simpa, it is renowned for its rich cultural heritage, most notably the spectacular Aboakyer festival, where local Asafo companies compete to capture a live bushbuck. The town is a major educational center, hosting the main campus of the University of Education, Winneba (UEW), which draws students from across the nation. Winneba also maintains a vibrant artisanal fishing industry and features a scenic coastline that is increasingly attracting domestic tourism and real estate development. History K8 — coastal indigenous festivals.",
+      "factsAdvanced": [
+        "Capital of the Effutu Municipal District in the Central Region.",
+        "Traditionally known by its indigenous name, Simpa.",
+        "Home to the main campus of the University of Education, Winneba (UEW).",
+        "Globally famous for the annual Aboakyer (deer-hunting) festival.",
+        "Maintains a large, active artisanal marine fishing fleet.",
+        "Located roughly 55 kilometers west of the capital city, Accra."
+      ]
+    },
+    {
+      "id": "mampong-cities-v2",
+      "descriptionAdvanced": "Mampong, officially known as Ashanti Mampong, is a prominent town in the Ashanti Region and serves as the capital of the Mampong Municipal District. It holds a highly prestigious position within the traditional Ashanti hierarchy, as the Mamponghene acts as the immediate deputy (the occupant of the Silver Stool) to the Asantehene. The town is situated on a plateau, affording it a relatively cool climate that supports the cultivation of cocoa, plantains, and citrus. Mampong is also a significant educational hub, hosting the College of Agriculture Education of the UEW and the historic St. Monica's Senior High School. History K8 — Ashanti political hierarchy.",
+      "factsAdvanced": [
+        "Capital of the Mampong Municipal District in the Ashanti Region.",
+        "The Mamponghene traditionally occupies the Silver Stool of the Ashanti Empire.",
+        "Located on an elevated plateau, providing a relatively cooler microclimate.",
+        "Hosts the College of Agriculture Education, a campus of UEW.",
+        "St. Monica's Senior High School, established here, is a premier girls' school.",
+        "The local economy is heavily anchored in cocoa and citrus farming."
+      ]
+    },
+    {
+      "id": "navrongo-cities-v2",
+      "descriptionAdvanced": "Navrongo is an important administrative and educational town in the Upper East Region, serving as the capital of the Kassena-Nankana Municipal District. Located near the border with Burkina Faso, the town is characterized by its semi-arid Sahelian environment. It is historically famous for the Navrongo Minor Basilica, an architecturally unique Catholic church built from mud-brick in 1906 by French-Canadian White Fathers. Today, the town is a major center for scientific research and education, hosting the Navrongo Health Research Centre, renowned for its work on tropical diseases, and a campus of the C.K. Tedam University of Technology and Applied Sciences. Geography K7 — Sahelian research centers.",
+      "factsAdvanced": [
+        "Capital of the Kassena-Nankana Municipal District in the Upper East Region.",
+        "Home to the historic Navrongo Minor Basilica, constructed of mud-brick in 1906.",
+        "Hosts the internationally recognized Navrongo Health Research Centre (NHRC).",
+        "Features a campus of the C.K. Tedam University of Technology and Applied Sciences.",
+        "Located in the semi-arid, flat terrain of the Guinea savanna belt.",
+        "The local population predominantly consists of the Kassena and Nankani ethnic groups."
+      ]
+    },
+    {
+      "id": "akim-oda-cities-v2",
+      "descriptionAdvanced": "Akim Oda is a bustling commercial and historical town located in the Eastern Region, functioning as the capital of the Birim Central Municipal District. It serves as the traditional capital of the Akyem Kotoku state. The town is situated in a dense tropical rainforest zone and has historically been a major center for Ghana's timber extraction and sawmilling industry, alongside extensive cocoa production. The nearby forest famously contains the 'Big Tree', believed to be one of the largest and oldest trees in West Africa. Akim Oda's vibrant central market and transport terminals make it the economic nerve center of the Birim River basin. Geography K7 — forestry and cash crop economies.",
+      "factsAdvanced": [
+        "Capital of the Birim Central Municipal District in the Eastern Region.",
+        "Serves as the traditional seat of the paramount chief of the Akyem Kotoku.",
+        "Historically a major hub for the commercial timber and sawmilling industries.",
+        "Located near the famous 'Big Tree' in the Esen Epam Forest Reserve.",
+        "Situated within the highly fertile Birim River basin.",
+        "The local economy is heavily dependent on cocoa, palm oil, and timber."
+      ]
+    },
+    {
+      "id": "prestea-cities-v2",
+      "descriptionAdvanced": "Prestea is a historic and highly active mining town located in the Western Region of Ghana, closely tied to the neighboring town of Bogoso. The town sits upon one of the richest gold reefs in West Africa and is famous for the massive Prestea Underground Mine, which has operated intermittently since the late 19th century. The landscape is deeply scarred by a century of both large-scale corporate mining and intense informal artisanal mining (galamsey). Despite the wealth extracted from its soil, the town faces typical challenges of resource enclaves, including environmental degradation of the Ankobra River and infrastructure deficits. Geography K7 — intensive resource extraction.",
+      "factsAdvanced": [
+        "Located in the Prestea-Huni Valley Municipal District of the Western Region.",
+        "A historic center of industrial gold mining dating back to the late 1800s.",
+        "Home to the deep-shaft Prestea Underground Mine, operated by Golden Star Resources.",
+        "Characterized by high levels of informal artisanal mining (galamsey).",
+        "Situated near the heavily impacted Ankobra River basin.",
+        "Connected historically to Tarkwa via a colonial-era railway line."
+      ]
+    },
+    {
+      "id": "effiakuma-cities-v2",
+      "descriptionAdvanced": "Effiakuma is a major, densely populated residential suburb within the Sekondi-Takoradi metropolitan area in the Western Region. Originally developed in the mid-20th century as a planned housing estate to accommodate the massive influx of workers for the Takoradi port and railway industries, it has since expanded into a sprawling, vibrant urban enclave. It is famous nationwide for its rich musical and cultural output, particularly associated with the 'Takoradi sound' and highlife music. Despite infrastructural challenges typical of aging estates, Effiakuma remains a critical working-class and lower-middle-class residential core, driving the intense street-level commerce of the twin city. Geography K7 — urban industrial estates.",
+      "factsAdvanced": [
+        "Located within the Sekondi-Takoradi metropolis in the Western Region.",
+        "Originally planned and built to house workers for the harbor and railway.",
+        "Characterized by extremely high residential population density.",
+        "Culturally renowned as a historical hotspot for Ghanaian highlife music.",
+        "Features a highly active informal street economy and local markets.",
+        "Functions as a primary commuter suburb for Takoradi's industrial zone."
+      ]
+    },
+    {
+      "id": "agogo-cities-v2",
+      "descriptionAdvanced": "Agogo is a prominent town in the Ashanti Region, serving as the capital of the Asante Akim North Municipal District. The town is situated on a lush, elevated plateau, giving it a relatively cool and damp climate ideal for agriculture. Agogo is nationally famous for its commercial production of plantains, earning it the nickname as the 'plantain capital' of Ghana. In addition to its agricultural prowess, the town is a major educational and healthcare center, hosting the Agogo Presbyterian Hospital—one of the oldest and most respected medical facilities in the region—and the Agogo Presbyterian Women's College of Education. Geography K7 — specialized agricultural centers.",
+      "factsAdvanced": [
+        "Capital of the Asante Akim North Municipal District in the Ashanti Region.",
+        "Nationally renowned as a massive center for commercial plantain production.",
+        "Located on a raised plateau, resulting in a cooler local microclimate.",
+        "Home to the historic Agogo Presbyterian Hospital, established in 1931.",
+        "Hosts the Agogo Presbyterian Women's College of Education.",
+        "The surrounding landscape is dominated by dense, fertile forest reserves."
+      ]
+    },
+    {
+      "id": "dunkwa-on-offin-cities-v2",
+      "descriptionAdvanced": "Dunkwa-on-Offin, commonly known as Dunkwa, is a bustling commercial and mining town in the Central Region, functioning as the capital of the Upper Denkyira East Municipal District. As its name suggests, it is situated directly on the banks of the Offin River. The town serves as a crucial transit point and market hub for the rich surrounding gold-mining and cocoa-farming hinterlands. The river itself has historically been a site for extensive alluvial gold dredging. Dunkwa's strategic position on the central railway line linking Kumasi to Takoradi historically catalyzed its growth as a major collection center for timber and minerals. Geography K7 — riverine mining and transit.",
+      "factsAdvanced": [
+        "Capital of the Upper Denkyira East Municipal District in the Central Region.",
+        "Geographically located directly along the banks of the Offin River.",
+        "Historically a major station on the Kumasi-Takoradi colonial railway line.",
+        "A central hub for both industrial and artisanal gold mining activities.",
+        "Surrounded by extensive commercial cocoa and timber plantations.",
+        "The local river basin has been heavily impacted by alluvial dredging."
+      ]
+    },
+    {
+      "id": "begoro-cities-v2",
+      "descriptionAdvanced": "Begoro is a picturesque agricultural town located in the Eastern Region, serving as the capital of the Fanteakwa North District. The town is nestled high in the verdant Akwapim-Togo mountain range, giving it a notably cool, temperate climate and making it highly suitable for diverse agriculture. Begoro is a major national producer of cabbage, tomatoes, and other vegetables, supplying large quantities to urban markets in Accra. It is also an access point for eco-tourism, situated near the dramatic Ohiamankyene waterfalls and extensive forest reserves. Its elevated position historically made it an important refuge and settlement for Akan migrants. Geography K7 — high-altitude agriculture.",
+      "factsAdvanced": [
+        "Capital of the Fanteakwa North District in the Eastern Region.",
+        "Situated at a high elevation within the Akwapim-Togo mountain range.",
+        "Features a cool, temperate microclimate distinct from the coastal plains.",
+        "A major national production center for commercial vegetable farming.",
+        "Located near significant natural attractions, including local waterfalls.",
+        "Historically functioned as a strategic highland settlement for Akan groups."
+      ]
+    },
+    {
+      "id": "kintampo-cities-v2",
+      "descriptionAdvanced": "Kintampo is a vital transit town located in the Bono East Region, functioning as the capital of the Kintampo North Municipal District. Geographically, it is famous for being considered the exact center of Ghana, marked by a monument within the town. Situated on the main highway linking the southern coast to the northern savanna, Kintampo is a relentless hub of transport and commerce, dominated by heavy truck traffic. The town is heavily visited for the spectacular Kintampo Waterfalls and the nearby Fuller Falls, making it a rare blend of a gritty logistical nexus and a major national eco-tourism destination. Geography K7 — geographic centers and transit nodes.",
+      "factsAdvanced": [
+        "Capital of the Kintampo North Municipal District in the Bono East Region.",
+        "Widely recognized and marked as the geographical center point of Ghana.",
+        "A critical transit stop on the main highway connecting southern and northern Ghana.",
+        "Home to the famous Kintampo Waterfalls, a major national tourist site.",
+        "Located in the transitional zone between the forest and the Guinea savanna.",
+        "Hosts the Kintampo Health Research Centre, an important scientific institution."
+      ]
+    },
+    {
+      "id": "aflao-cities-v2",
+      "descriptionAdvanced": "Aflao is an extremely busy border town in the Volta Region, situated at the extreme southeastern corner of Ghana right on the frontier with the capital of Togo, Lomé. As the busiest land border crossing in Ghana, Aflao's entire economy is driven by international trade, customs, transit logistics, and informal cross-border commerce. The town practically merges with Lomé, creating a continuous trans-national urban zone. Due to the massive volume of goods and people moving through daily, Aflao is characterized by intense congestion, a highly cosmopolitan West African population, and a heavy presence of national security and immigration infrastructure. Geography K7 — international border economies.",
+      "factsAdvanced": [
+        "Located in the Ketu South Municipal District of the Volta Region.",
+        "Serves as the busiest and most critical land border crossing between Ghana and Togo.",
+        "Forms a continuous transnational urban sprawl with the Togolese capital, Lomé.",
+        "The local economy is overwhelmingly dominated by import/export logistics and trade.",
+        "Features a massive, highly diverse population of transit workers and merchants.",
+        "Situated directly on the coast of the Gulf of Guinea."
+      ]
+    },
+    {
+      "id": "nkoranza-cities-v2",
+      "descriptionAdvanced": "Nkoranza is a significant agricultural and commercial town in the Bono East Region, serving as the capital of the Nkoranza South Municipal District. Historically, it is an important settlement of the Bono people and played a crucial role in regional conflicts during the expansion of the Ashanti Empire. Today, Nkoranza is deeply embedded in the national food supply chain, known for the large-scale cultivation of yams, maize, and cassava. The town features a very active weekly market that draws wholesale buyers from southern Ghana. It is a classic example of a mid-sized Ghanaian agricultural node driving rural economic stability. Geography K7 — regional food security.",
+      "factsAdvanced": [
+        "Capital of the Nkoranza South Municipal District in the Bono East Region.",
+        "Historically a prominent and strategic town within the ancient Bono State.",
+        "A major regional hub for the large-scale production of yams and maize.",
+        "Features an extensive weekly market critical to the national food supply.",
+        "Located in the fertile ecological transition zone south of the Black Volta.",
+        "Maintains strong traditional leadership structures and cultural festivals."
+      ]
+    },
+    {
+      "id": "oduponkpehe-cities-v2",
+      "descriptionAdvanced": "Oduponkpehe is the traditional and official name for the massive urban sprawl more commonly known as Kasoa, located in the Awutu Senya East Municipal District of the Central Region. Evolving from a small market village founded by migrants, it has exploded into one of Ghana's most congested and densely populated commuter cities. The area serves as a massive residential overflow for Greater Accra, offering cheaper real estate while suffering from severe traffic bottlenecks along the main coastal highway. Its economy is dominated by the colossal Kasoa Market and thousands of informal retail enterprises catering to the rapidly expanding population. Geography K7 — mega-city overflow.",
+      "factsAdvanced": [
+        "The traditional and official name for the city widely known as Kasoa.",
+        "Located in the Awutu Senya East Municipal District of the Central Region.",
+        "Functions as a hyper-dense residential dormitory for Greater Accra workers.",
+        "The massive central market is a primary driver of the local economy.",
+        "Positioned directly on the highly congested Accra-Cape Coast highway.",
+        "Characterized by rapid, largely informal urban real estate expansion."
+      ]
+    },
+    {
+      "id": "saltpond-cities-v2",
+      "descriptionAdvanced": "Saltpond is a historic coastal town in the Central Region, functioning as the capital of the Mfantseman Municipal District. It holds a highly prestigious place in Ghanaian history as the birthplace of the nation's first modern political party, the United Gold Coast Convention (UGCC), founded here in 1947. Economically, Saltpond was historically a major trading port and later became known as the site of Ghana's first offshore oil discovery in 1970, though the Saltpond Oil Field produced only modest quantities. Today, it is a quieter town, reliant on artisanal fishing, agriculture, and its legacy as a cradle of Ghanaian independence. History K8 — anti-colonial political movements.",
+      "factsAdvanced": [
+        "Capital of the Mfantseman Municipal District in the Central Region.",
+        "Birthplace of the United Gold Coast Convention (UGCC) political party in 1947.",
+        "Site of Ghana's first offshore commercial oil discovery in 1970.",
+        "Historically functioned as a busy colonial trading port and mercantile center.",
+        "The local economy currently relies heavily on artisanal marine fishing.",
+        "Features notable colonial-era architecture and historical monuments."
+      ]
+    },
+    {
+      "id": "akwatia-cities-v2",
+      "descriptionAdvanced": "Akwatia is a highly significant mining town in the Eastern Region, serving as the capital of the Denkyembour District. It is internationally famous as the historic epicenter of Ghana's diamond mining industry. Large-scale commercial extraction of alluvial diamonds began here in the 1920s under the Consolidated African Selection Trust (CAST). While the massive corporate operations have significantly scaled down in recent decades, the town's landscape remains defined by vast mined-out areas, and a massive informal artisanal mining sector continues to operate. The legacy of diamonds has profoundly shaped the town's demography, infrastructure, and environmental challenges. Geography K7 — precious gem extraction.",
+      "factsAdvanced": [
+        "Capital of the Denkyembour District in the Eastern Region of Ghana.",
+        "Historically the premier center for diamond mining in West Africa.",
+        "Commercial diamond extraction began in the area during the 1920s.",
+        "The local landscape is heavily scarred by decades of intensive alluvial mining.",
+        "Currently supports a massive informal artisanal mining (galamsey) economy.",
+        "Located within the fertile Birim River valley, which hosts the diamond deposits."
+      ]
+    },
+    {
+      "id": "apam-cities-v2",
+      "descriptionAdvanced": "Apam is a prominent coastal fishing town in the Central Region, functioning as the capital of the Gomoa West District. The town is built around a natural harbor and is heavily reliant on the artisanal marine fishing industry, which dominates local daily life. Apam is historically significant for Fort Patience (Fort Lijdzaamheid), a sturdy stone fortification built by the Dutch in 1697 on a rocky peninsula overlooking the bay. The town is deeply rooted in Fante culture and is known for its vibrant festivals and strong community ties, though it remains vulnerable to the economic fluctuations of the seasonal fish catch. History K8 — coastal fortifications.",
+      "factsAdvanced": [
+        "Capital of the Gomoa West District in the Central Region.",
+        "The local economy is overwhelmingly dependent on artisanal marine fishing.",
+        "Home to Fort Patience, constructed by the Dutch West India Company in 1697.",
+        "Geographically situated around a sheltered, natural coastal bay.",
+        "Features a prominent Catholic hospital serving the wider district.",
+        "A major cultural center for the indigenous Gomoa Fante people."
+      ]
+    },
+    {
+      "id": "salaga-cities-v2",
+      "descriptionAdvanced": "Salaga is a historically profound town in the Savannah Region, serving as the capital of the East Gonja Municipal District. In the 18th and 19th centuries, Salaga was one of the most important commercial hubs in West Africa, famously known as the 'Timbuktu of the South'. It served as a massive terminal market for the trans-Saharan trade network, most notoriously functioning as a major center for the regional slave trade, exchanging kola nuts and slaves for textiles and salt. Today, remnants of this dark but critical history, including the old slave market site and ancient wells, attract heritage tourism to this otherwise quiet agricultural town. History K8 — trans-Saharan slave trade.",
+      "factsAdvanced": [
+        "Capital of the East Gonja Municipal District in the Savannah Region.",
+        "Historically referred to as the 'Timbuktu of the South' due to heavy trade.",
+        "Functioned as a massive, notorious hub for the 18th-century internal slave trade.",
+        "Served as a terminal point for caravans crossing the Sahara Desert.",
+        "The local economy is now primarily based on subsistence farming and yams.",
+        "Features heritage sites including ancient wells and the original slave market."
+      ]
+    }
+  ]
+}

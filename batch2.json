@@ -1,0 +1,33 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chicago-cities-v2",
+      "descriptionAdvanced": "Chicago, the third-most populous city in the United States, is located on the shores of Lake Michigan and is famous for its bold architecture, vibrant music scene, and industrial history. Known as the 'Windy City', it served as a major transportation hub, connecting the East and West. Its iconic skyline includes the Willis Tower and the John Hancock Center, which pushed the boundaries of skyscraper design in the mid-20th century. Chicago is also the birthplace of house music and a major center for blues and jazz. The city's extensive park system, including Millennium Park with the famous Cloud Gate sculpture, provides vital recreational space. Geography K7 — industrial centers and urban architecture.",
+      "factsAdvanced": [
+        "The first Ferris Wheel was debuted at the 1893 World's Columbian Exposition in Chicago.",
+        "The Chicago River is the only river in the world that flows backward.",
+        "Chicago's skyscraper architecture has influenced urban design globally since the Great Fire of 1871.",
+        "The city operates an extensive rapid transit system commonly known as the 'L'.",
+        "Chicago is a major transportation hub in the US, with O'Hare International Airport as one of the busiest in the world.",
+        "The city features 26 miles of public beaches along the shores of Lake Michigan."
+      ]
+    },
+    {
+      "id": "houston-cities-v2",
+      "descriptionAdvanced": "Houston, the most populous city in Texas, is a global center for energy, space exploration, and healthcare. Located near the Gulf of Mexico, it developed rapidly due to the discovery of oil, earning it the title of 'Energy Capital of the World'. The city is home to the Lyndon B. Johnson Space Center, NASA's facility for human spaceflight training and operation. Houston is also known for the Texas Medical Center, the world's largest concentration of healthcare institutions. The city is deeply multicultural, with a diverse culinary scene reflecting influences from across the globe. Despite its industrial base, Houston has invested in significant urban greenery, such as Buffalo Bayou Park. Geography K7 — energy production and specialized technology clusters.",
+      "factsAdvanced": [
+        "Houston is the largest city in Texas and the fourth largest in the United States by population.",
+        "The Lyndon B. Johnson Space Center has served as the headquarters for NASA's human spaceflight program since 1961.",
+        "The Texas Medical Center covers over 1,000 acres and employs more than 100,000 people.",
+        "Houston is served by the Port of Houston, which ranks first in the U.S. in international waterborne tonnage.",
+        "The city's climate is humid subtropical, contributing to its lush vegetation.",
+        "The Houston Museum District receives over 8 million visitors annually to its 19 museums."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+
+{
+  "lang": "hu",
+  "country": "croatia",
+  "files": ["lib/visualLab/data/croatiaPoi.ts"],
+  "items": [
+    {
+      "id": "hr-country",
+      "descriptionAdvanced": "Horvátország, hivatalos nevén a Horvát Köztársaság, egy közép- és délkelet-európai gyöngyszem, amely elsősorban lélegzetelállító adriai partvidékéről és több mint ezer szigetéről világhírű. Az országot északon Szlovénia és Magyarország, keleten Szerbia, délkeleten Bosznia-Hercegovina és Montenegró, nyugaton pedig az Adriai-tenger határolja. Horvátország földrajzi változatossága lenyűgöző: a kelet-szlavóniai termékeny síkságoktól a Gorski Kotar erdős hegyláncain át Dalmácia és Isztria tagolt partvidékéig terjed. Történelme mélyen az európai ókorban gyökerezik, amit a spliti és pulai római romok, valamint Dubrovnik, az 'Adria gyöngyszeme' középkori pompája is tükröz. A főváros, Zágráb, egy élénk kulturális központ az osztrák-magyar építészet és a modern városi élet keverékével. Horvátország a természetbarátok paradicsoma is; a Plitvicei-tavak Nemzeti Park vízeséseivel és türkizkék tavaival az UNESCO Világörökség része. Kulturálisan gazdag folklórjáról, hagyományos klapa zenéjéről és a nyakkendő feltalálásában játszott fontos szerepéről ismert. Kulinárisan a tengerparton mediterrán ízek, mint a friss hal és olívaolaj, a szárazföldön pedig kiadós húsételek jellemzik. Ma Horvátország modern EU-tag és Európa egyik legkedveltebb úti célja, sikeresen ötvözve a hagyományokat a modern turizmussal.",
+      "factsAdvanced": [
+        "A pulai római amfiteátrum a világ hat legjobban megőrzött példányának egyike.",
+        "A nyakkendő, ma globális divatkiegészítő, a 17. században horvát zsoldosoktól ered.",
+        "A Brač-szigeten található Zlatni Rat strand a széliránytól és a tengeri áramlatoktól függően változtatja alakját.",
+        "Horvátország ad otthont a világ hivatalosan legkisebb városának, Humnak, amelynek mindössze 20-30 lakosa van.",
+        "Az első golyóstollat (Penkala) Zágrábban szabadalmaztatta feltalálója, Slavoljub Penkala.",
+        "A spliti Diocletianus-palota nem csupán múzeum, hanem az óváros lakott, lüktető szíve.",
+        "A dalmata kutyafajta eredetileg a történelmi horvát Dalmácia régióból származik.",
+        "A Mljet-szigeten található egy nemzeti park két, egymással összeköttetésben álló sós vizű tóval."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tripoli-central-post-office-landmarks-v2",
+      "descriptionAdvanced": "Das Hauptpostamt von Tripolis ist ein beeindruckendes Beispiel für die modernistische Architektur der Mitte des 20. Jahrhunderts. Strategisch im Herzen der Innenstadt gelegen, diente es jahrzehntelang als zentraler Kommunikationsknotenpunkt des Landes und ist bis heute ein markantes, historisch bedeutsames Gebäude im Straßenbild der Hauptstadt. Geografie K7 — Städtische Dienstleistungen.",
+      "factsAdvanced": [
+        "Zentrales Postamt der libyschen Hauptstadt",
+        "Markante modernistische Architektur",
+        "Erbaut Mitte des 20. Jahrhunderts",
+        "Zentrum der nationalen Kommunikation",
+        "Gelegen im geschäftigen Stadtzentrum von Tripolis",
+        "Symbol für die Verwaltungsentwicklung Libyens"
+      ]
+    },
+    {
+      "id": "ghadames-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Ghadames ist das architektonische und spirituelle Herzstück der berühmten, weißen Wüstenaltstadt. Sie integriert sich perfekt in das klimatisierte, labyrinthartige Straßensystem der Oase und zeichnet sich durch einen eleganten, schlichten Lehm-Minarettturm aus, der weit über die Dattelpalmen der Stadt hinausragt. Geschichte K7 — Wüstenarchitektur.",
+      "factsAdvanced": [
+        "Zentrale Moschee der UNESCO-Weltkulturerbestadt Ghadames",
+        "Traditionelle, weiß getünchte Lehmarchitektur",
+        "Perfekt an das heiße Wüstenklima angepasst",
+        "Höchstes Gebäude in der historischen Altstadt",
+        "Eng verbunden mit dem verwinkelten Gassennetz",
+        "Zentrum des religiösen Lebens der Oase"
+      ]
+    },
+    {
+      "id": "benghazi-university-campus-landmarks-v2",
+      "descriptionAdvanced": "Der Campus der Universität Bengasi (früher Garyounis Universität) ist die größte und wichtigste Bildungseinrichtung im Osten Libyens. Nach massiven Zerstörungen während der Schlachten im Jahr 2014 wurde der riesige Campus schrittweise wieder aufgebaut und symbolisiert heute die Hoffnung auf Bildung und Wiederaufbau in der Kyrenaika. Geografie K8 — Bildungsinfrastruktur.",
+      "factsAdvanced": [
+        "Größte Universität in Ostlibyen",
+        "Ehemals als Garyounis Universität bekannt",
+        "Weitläufiger, moderner Campus",
+        "Erlitt extreme Schäden im Bürgerkrieg 2014",
+        "Zentrum der akademischen Exzellenz in der Kyrenaika",
+        "Sitz für Zehntausende von Studenten"
+      ]
+    },
+    {
+      "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Die Al-Majidiya Moschee ist ein historisches Juwel im alten Tripolis, bekannt für ihre ruhige Atmosphäre und feine Handwerkskunst. Sie wurde während der osmanischen Periode erbaut und dient der lokalen Bevölkerung als wichtiger Rückzugsort für das tägliche Gebet abseits des Trubels der großen Märkte. Geschichte K7 — Lokale Stadtteile.",
+      "factsAdvanced": [
+        "Historische Moschee in Tripolis",
+        "Erbaut während der osmanischen Herrschaft",
+        "Feine traditionelle Stuckarbeiten",
+        "Wichtige Gemeindemoschee",
+        "Ruhiger spiritueller Rückzugsort",
+        "Prägt das historische Stadtbild der Hauptstadt"
+      ]
+    },
+    {
+      "id": "tobruk-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Tobruk ist ein markantes religiöses Gebäude in der östlichen Hafenstadt und ein zentraler Sammelpunkt für die lokale Bevölkerung. Mit ihren hohen Minaretten und der großen Kuppel dominiert sie das Stadtbild und symbolisiert den Zusammenhalt der Bürger in einer Stadt, die historisch oft von Kriegen gezeichnet war. Geografie K7 — Urbane Zentren.",
+      "factsAdvanced": [
+        "Hauptmoschee der Küstenstadt Tobruk",
+        "Markante Architektur mit großer Kuppel",
+        "Zentraler Punkt für religiöse Feste",
+        "Dominiert die Skyline der Hafenstadt",
+        "Ort für lokale Stammesversammlungen",
+        "Symbol für Frieden in einer historisch umkämpften Stadt"
+      ]
+    },
+    {
+      "id": "misrata-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Terminal des Flughafens Misrata spielt eine entscheidende Rolle für die Mobilität und Wirtschaft in Zentral-Libyen. Besonders nach den Konflikten von 2011 und 2014, als der Flughafen in Tripolis oft geschlossen war, diente Misrata als wichtigstes Tor zur Außenwelt für den Westen und die Mitte des Landes. Geografie K8 — Luftverkehr.",
+      "factsAdvanced": [
+        "Wichtiger internationaler Flughafen in Misrata",
+        "Zentrales Drehkreuz für Passagiere und Fracht",
+        "Gewann nach 2011 massiv an Bedeutung",
+        "Ersatzflughafen während Schließungen in Tripolis",
+        "Dient auch als wichtige militärische Basis",
+        "Knotenpunkt für den Export von Industriegütern"
+      ]
+    },
+    {
+      "id": "al-kish-square-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Moschee am Al-Kish-Platz in Bengasi ist weithin bekannt für ihre große Kuppel und ihre strategische Lage an einem der belebtesten Verkehrsknotenpunkte der Stadt. Der Platz selbst war Schauplatz zahlreicher großer politischer Demonstrationen, weshalb die Moschee oft Zeuge der jüngsten libyschen Geschichte wurde. Geschichte K8 — Urbane Plätze.",
+      "factsAdvanced": [
+        "Gelegen am berühmten Al-Kish-Platz in Bengasi",
+        "Zentrale Lage an einem großen Verkehrsknoten",
+        "Umgeben von historischen und politischen Denkmälern",
+        "Markante Architektur mit einer breiten Kuppel",
+        "Häufiger Schauplatz großer Demonstrationen",
+        "Zentraler Ort des städtischen Lebens in Ostlibyen"
+      ]
+    },
+    {
+      "id": "benghazi-great-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Bengasi ist ein spirituelles und architektonisches Symbol der Stadt, tief verwurzelt in der islamischen Geschichte der Kyrenaika. Das imposante Gebäude bietet Platz für Tausende Gläubige und spielt eine zentrale Rolle bei religiösen Festen und als Zentrum für islamische Gelehrsamkeit in Ostlibyen. Geschichte K7 — Islamische Gemeinschaft.",
+      "factsAdvanced": [
+        "Größte und wichtigste Moschee in Bengasi",
+        "Zentrales spirituelles Symbol der Stadt",
+        "Ort für große Freitagsgebete",
+        "Klassische islamische Architektur der Kyrenaika",
+        "Zentrum für theologische Diskussionen",
+        "Wichtiger Bezugspunkt für die lokale Bevölkerung"
+      ]
+    },
+    {
+      "id": "tripoli-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo von Tripolis, der sich inmitten eines großen Waldparks (Al Nasr Park) befindet, war einst ein blühendes Zentrum für Erholung und Wildtiere. Trotz schwerer Rückschläge und Vernachlässigung während der Konflikte bemühen sich lokale Initiativen, den Park als wichtige grüne Lunge und Freizeiteinrichtung für Familien zu erhalten. Geografie K6 — Städtische Parks.",
+      "factsAdvanced": [
+        "Größter Zoo und Tierpark in Libyen",
+        "Eingebettet in den weitläufigen Al Nasr Waldpark",
+        "Einst beliebtes Familienausflugsziel",
+        "Erlitt während der Konflikte starke Schäden",
+        "Beherbergt afrikanische und exotische Wildtiere",
+        "Wichtige 'grüne Lunge' der Hauptstadt Tripolis"
+      ]
+    },
+    {
+      "id": "benghazi-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo in Bengasi, gelegen im beliebten Al-Bosco-Park, bot den Bewohnern Ostlibyens traditionell eine seltene Gelegenheit, Wildtiere zu beobachten. Wie viele öffentliche Einrichtungen litt der Park stark unter den jahrelangen Kämpfen in der Stadt, bleibt aber ein nostalgischer Ort und Fokus für städtische Erneuerungsprojekte. Geografie K6 — Freizeitanlagen.",
+      "factsAdvanced": [
+        "Gelegen im Al-Bosco-Park (Il Bosco) in Bengasi",
+        "Wichtiges Naherholungsgebiet der Stadt",
+        "Traditioneller Zoo für exotische Tiere",
+        "Schwer in Mitleidenschaft gezogen im Bürgerkrieg 2014",
+        "Zentrum für lokale Erneuerungsbemühungen",
+        "Bietet schattige Plätze im heißen Sommer"
+      ]
+    },
+    {
+      "id": "misrata-park-life-v2",
+      "descriptionAdvanced": "Der Stadtpark von Misrata ist eine sorgfältig gepflegte grüne Oase im Zentrum der florierenden Handelsstadt. Der Park bietet schattige Picknickplätze, Spielplätze für Kinder und Spazierwege, die von der hart arbeitenden Bevölkerung der Industriestadt intensiv zur Entspannung und für abendliche Familientreffen genutzt werden. Geografie K6 — Lebensqualität in Städten.",
+      "factsAdvanced": [
+        "Zentraler Stadtpark in Misrata",
+        "Wichtige Grünfläche in der Industriestadt",
+        "Beliebt für abendliche Spaziergänge",
+        "Ausgestattet mit Kinderspielplätzen",
+        "Bietet Schatten durch alte Bäume",
+        "Stark frequentiert an Wochenenden"
+      ]
+    },
+    {
+      "id": "djebel-nafusa-agri-life-v2",
+      "descriptionAdvanced": "Die weitläufigen Olivenhaine im Nafusa-Gebirge bilden das Rückgrat der traditionellen landwirtschaftlichen Wirtschaft der Amazigh (Berber). Die terrassierten Hänge und tiefen Täler sind ideal für den Anbau von hochwertigen Oliven, deren Öl landesweit für seine Reinheit und seinen ausgezeichneten Geschmack berühmt ist. Geografie K7 — Berglandwirtschaft.",
+      "factsAdvanced": [
+        "Große Olivenhaine im Nafusa-Gebirge",
+        "Traditionell bewirtschaftet von den Amazigh",
+        "Terrassenfeldbau in trockenen Tälern",
+        "Produziert hochwertiges libysches Olivenöl",
+        "Einige Olivenbäume sind Jahrhunderte alt",
+        "Zentrale Einnahmequelle der Bergbevölkerung"
+      ]
+    },
+    {
+      "id": "gadamis-oasis-life-v2",
+      "descriptionAdvanced": "Die üppigen Palmengärten der Ghadames-Oase bilden einen starken Kontrast zur umliegenden, unbarmherzigen Sahara-Wüste. Dank eines ausgeklügelten, jahrhundertealten artesischen Bewässerungssystems gedeihen hier Dattelpalmen, Granatäpfel und Gemüse, die das Überleben in dieser isolierten UNESCO-Stadt sichern. Geografie K7 — Oasenökologie.",
+      "factsAdvanced": [
+        "Üppige Palmengärten inmitten der Sahara",
+        "Nutzt ein traditionelles, artesischen Bewässerungssystem",
+        "Anbau von Datteln, Granatäpfeln und Gemüse",
+        "Sichert die Nahrungsmittelversorgung der Altstadt",
+        "Bietet lebenswichtigen Schatten vor der Wüstensonne",
+        "UNESCO-geschützte Kulturlandschaft"
+      ]
+    },
+    {
+      "id": "kufra-orchard-life-v2",
+      "descriptionAdvanced": "Die Obstgärten und Agrarflächen von Kufra im tiefen Südosten Libyens sind ein technologisches Wunderwerk. Mit gigantischen kreisrunden Feldern (Center-Pivot-Bewässerung), die aus riesigen fossilen Grundwasserleitern bewässert werden, produzieren diese Plantagen Getreide und Obst in einer der trockensten Regionen der Erde. Geografie K8 — Fossiles Grundwasser.",
+      "factsAdvanced": [
+        "Landwirtschaft in der extrem trockenen Kufra-Oase",
+        "Nutzt Center-Pivot-Bewässerung (kreisförmige Felder)",
+        "Bewässert aus tiefen, fossilen Grundwasserreservoirs",
+        "Anbau von Getreide, Obst und Gemüse",
+        "Zentrales staatliches Agrarprojekt",
+        "Grüne Kreise sind aus dem Weltall sichtbar"
+      ]
+    },
+    {
+      "id": "zawia-farm-life-v2",
+      "descriptionAdvanced": "Die Agrarzone rund um die Küstenstadt Zawiya ist eine der fruchtbarsten Regionen in Westlibyen. Dank des milden mediterranen Klimas und moderner Bewässerungstechniken werden hier intensive Zitrusplantagen, Getreidefelder und Gemüsekulturen betrieben, die den großen Markt in der Hauptstadt Tripolis versorgen. Geografie K7 — Küstenlandwirtschaft.",
+      "factsAdvanced": [
+        "Fruchtbare landwirtschaftliche Zone bei Zawiya",
+        "Profitiert vom mediterranen Küstenklima",
+        "Hauptanbau von Zitrusfrüchten und Gemüse",
+        "Wichtiger Lebensmittellieferant für Tripolis",
+        "Dicht besiedelte Agrarlandschaft",
+        "Mix aus traditioneller und moderner Landwirtschaft"
+      ]
+    },
+    {
+      "id": "gharyan-nursery-life-v2",
+      "descriptionAdvanced": "Die Baumschulen und Gärtnereien in den Bergregionen rund um Gharyan sind essenziell für die Aufforstung und den Obstbau in Tripolitanien. Aufgrund des kühleren Klimas an den Hängen des Nafusa-Gebirges gedeihen hier junge Feigen-, Mandel- und Olivenbäume hervorragend, bevor sie im ganzen Land gepflanzt werden. Geografie K6 — Pflanzenzucht.",
+      "factsAdvanced": [
+        "Zentrum für Baumschulen und Setzlinge in Gharyan",
+        "Spezialisiert auf Oliven-, Feigen- und Mandelbäume",
+        "Nutzt das kühlere Bergklima für die Aufzucht",
+        "Wichtig für landesweite Aufforstungsprojekte",
+        "Versorgt Bauern im westlichen Libyen",
+        "Stärkt die lokale Bergbauern-Wirtschaft"
+      ]
+    },
+    {
+      "id": "sebha-park-life-v2",
+      "descriptionAdvanced": "Der Familienpark in Sabha ist ein wertvoller sozialer Raum in der größten Oasenstadt des Fezzan. In einer Region, die oft von extremen Sommertemperaturen und Sandstürmen geprägt ist, bieten die bewässerten Rasenflächen und Palmen des Parks einen unerlässlichen Rückzugsort für Familien und spielende Kinder. Geografie K6 — Oasenleben.",
+      "factsAdvanced": [
+        "Zentraler Familienpark in der Oasenstadt Sabha",
+        "Bietet bewässerte Rasenflächen und Palmenschatten",
+        "Wichtiger Rückzugsort vor extremer Wüstenhitze",
+        "Beliebter Treffpunkt nach Sonnenuntergang",
+        "Verfügt über Kinderspielplätze",
+        "Erhöht die Lebensqualität in der Wüstenregion"
+      ]
+    },
+    {
+      "id": "tubruq-garden-life-v2",
+      "descriptionAdvanced": "Die Stadtgärten von Tobruk bringen etwas Grün in die ansonsten trockene und steinige Küstenlandschaft Ostlibyens. Diese gepflegten öffentlichen Parks mit widerstandsfähigen mediterranen Sträuchern und Blumen sind beliebte Treffpunkte für die Einheimischen und tragen zur Verschönerung der vom Seehandel geprägten Stadt bei. Geografie K6 — Urbane Verschönerung.",
+      "factsAdvanced": [
+        "Öffentliche Parks in der östlichen Stadt Tobruk",
+        "Bepflanzt mit trockenheitsresistenten Pflanzen",
+        "Grüne Oase in einer von Steinwüste geprägten Region",
+        "Zentraler Treffpunkt für Familien",
+        "Mildes Küstenklima unterstützt das Pflanzenwachstum",
+        "Verbessert das Stadtbild der Hafenstadt"
+      ]
+    },
+    {
+      "id": "al-baida-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo von Al Bayda profitiert enorm vom gemäßigten, bewaldeten Klima des Dschabal al-Achdar-Gebirges, das sich drastisch vom Rest Libyens unterscheidet. Er ist eine beliebte regionale Attraktion für Familien aus der gesamten Kyrenaika und engagiert sich in kleinerem Rahmen auch für den Erhalt lokaler Tierarten der grünen Berge. Geografie K6 — Tierparks in Höhenlagen.",
+      "factsAdvanced": [
+        "Zoo in der Bergstadt Al Bayda",
+        "Profitiert vom kühlen Klima des Dschabal al-Achdar",
+        "Beliebtes Ausflugsziel für Ostlibyen",
+        "Beherbergt einheimische und einige exotische Tiere",
+        "Bildungseinrichtung für Schulen der Region",
+        "Eingebettet in natürliche Waldgebiete"
+      ]
+    },
+    {
+      "id": "djebel-akhdar-farm-life-v2",
+      "descriptionAdvanced": "Die Hochebenen des Dschabal al-Achdar (Grüne Berge) sind das fruchtbarste landwirtschaftliche Gebiet Libyens. Durch ergiebige Winterregenfälle wachsen hier Äpfel, Trauben und Weizen in Hülle und Fülle, weshalb die Region oft als die 'Kornkammer der Kyrenaika' bezeichnet wird. Geografie K7 — Mediterrane Landwirtschaft.",
+      "factsAdvanced": [
+        "Fruchtbarste Agrarregion in Ostlibyen",
+        "Reichlich Niederschlag im Winter",
+        "Berühmt für den Anbau von Äpfeln, Weintrauben und Honig",
+        "Gilt als 'Kornkammer der Kyrenaika'",
+        "Ausgedehnte Weizenfelder auf den Hochebenen",
+        "Kontrastiert stark mit der libyschen Wüste"
+      ]
+    }
+  ]
+}

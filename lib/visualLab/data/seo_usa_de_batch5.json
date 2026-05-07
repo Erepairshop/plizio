@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dover-cities-v2",
+      "descriptionAdvanced": "Dover ist die Hauptstadt des Bundesstaates Delaware und liegt strategisch günstig in der Mitte der Delmarva-Halbinsel. Gegründet 1683 von William Penn, wurde Dover 1777 zur Hauptstadt von Delaware ernannt, dem historischen 'First State' (der erste Bundesstaat, der die US-Verfassung ratifizierte). Im Herzen der Stadt liegt der historische 'The Green', ein von kolonialen Gebäuden gesäumter Platz. Heute ist Dover nicht nur ein Verwaltungszentrum, sondern beherbergt auch die Dover Air Force Base, den größten und verkehrsreichsten militärischen Luftfrachtstützpunkt an der Ostküste der USA. Die Basis betreibt unter anderem die zentrale Leichenhalle des US-Militärs. Wirtschaftlich profitiert die Stadt auch massiv vom Motorsport durch den Dover Motor Speedway. Geographie K8 — Militärische Logistik und koloniale Hauptstädte.",
+      "factsAdvanced": [
+        "Seit 1777 die ständige Hauptstadt von Delaware, dem 'First State'",
+        "1683 durch den berühmten Quäker William Penn gegründet",
+        "Heimat der Dover Air Force Base, dem massivsten militärischen Frachtzentrum der Ostküste",
+        "Auf dem historischen Platz 'The Green' wurde 1787 die US-Verfassung ratifiziert",
+        "Verfügt über den Dover Motor Speedway ('The Monster Mile')",
+        "Einer der wenigen US-Hauptstädte ohne direkten Anschluss an das Interstate-Highway-System"
+      ]
+    },
+    {
+      "id": "augusta-me-cities-v2",
+      "descriptionAdvanced": "Augusta ist die Hauptstadt des US-Bundesstaates Maine, malerisch gelegen am Ufer des Kennebec River an der Spitze der Gezeitenströmung. Bereits 1629 als Handelsposten der englischen Plymouth Colony gegründet, entwickelte sich Augusta im 19. Jahrhundert durch Dämme und die enorme Wasserkraft des Flusses zu einem florierenden Industriezentrum für Textilien und Holzverarbeitung. 1827 wurde sie offiziell zur Hauptstadt ernannt. Heute hat die Regierung des Bundesstaates Maine die Industrie als weitaus größten Arbeitgeber abgelöst. Das Maine State House, aus lokalem Granit erbaut, dominiert das Stadtbild. Ein markantes historisches Zeugnis ist das Old Fort Western (1754), das älteste erhaltene Holzfort der Vereinigten Staaten. Geschichte K7 — Kolonialer Pelzhandel und Wasserkraft in Neuengland.",
+      "factsAdvanced": [
+        "1629 als strategischer Pelzhandelsposten der Plymouth-Kolonie errichtet",
+        "Wurde 1827 als Hauptstadt von Maine ausgewählt, als Ersatz für Portland",
+        "Das Old Fort Western (erbaut 1754) ist das älteste erhaltene Holzfort der USA",
+        "Das Maine State House wurde von Charles Bulfinch im klassizistischen Stil entworfen",
+        "Liegt an der 'Fall Line' des Kennebec River, der Grenze für den Schiffsverkehr",
+        "Eine der am dünnsten besiedelten Hauptstädte der Vereinigten Staaten (unter 20.000 Einwohner)"
+      ]
+    },
+    {
+      "id": "concord-nh-cities-v2",
+      "descriptionAdvanced": "Concord ist die Hauptstadt des Bundesstaates New Hampshire und liegt im fruchtbaren Flusstal des Merrimack River im Herzen Neuenglands. Ursprünglich 1725 als 'Penacook' gegründet, wurde die Stadt später in Concord umbenannt, was Harmonie und Einigkeit symbolisieren sollte, nachdem ein langer Grenzstreit mit Massachusetts beigelegt wurde. Im 19. Jahrhundert war Concord landesweit berühmt als Produktionsort der 'Concord Coaches' – robuste und elegante Kutschen, die massiv bei der Erschließung des amerikanischen Westens (Wells Fargo) eingesetzt wurden. Zudem verfügte die Stadt über riesige Granitsteinbrüche, deren Steine beim Bau der Library of Congress in Washington verwendet wurden. Heute stützt sich die Wirtschaft auf Regierung, Bildung und Gesundheitswesen. Geschichte K8 — Kutschenbau und die Besiedlung des Westens.",
+      "factsAdvanced": [
+        "Seit 1808 die ständige politische Hauptstadt von New Hampshire",
+        "Weltberühmt im 19. Jahrhundert für die Produktion der massiven 'Concord Coaches' (Kutschen)",
+        "Historisch ein wichtiges Zentrum für den Abbau von hochqualitativem Granit",
+        "Das New Hampshire State House (erbaut 1819) ist das älteste Kapitol, in dem die ursprünglichen Kammern noch tagen",
+        "Die Stadt wurde einst Rumford und Penacook genannt",
+        "Austragungsort von New Hampshires wichtiger Rolle bei der ersten Vorwahl (Primary) des Landes"
+      ]
+    },
+    {
+      "id": "montpelier-cities-v2",
+      "descriptionAdvanced": "Montpelier ist die Hauptstadt des US-Bundesstaates Vermont und liegt idyllisch im Tal des Winooski River, umgeben von den bewaldeten Ausläufern der Green Mountains. Mit weniger als 8000 Einwohnern ist Montpelier die mit Abstand bevölkerungsärmste Landeshauptstadt der Vereinigten Staaten. Die 1781 gegründete Stadt wurde nach der französischen Stadt Montpellier benannt, als Geste der enormen Dankbarkeit für die militärische Unterstützung Frankreichs während der Amerikanischen Revolution. Das markanteste Bauwerk ist das Vermont State House mit seiner makellosen, goldglänzenden Kuppel, die in die grüne Hügellandschaft eingebettet ist. Trotz ihrer geringen Größe bietet Montpelier eine lebendige Kulturszene und ist ein nationales Paradebeispiel für den erfolgreichen Erhalt historischer Klein- und Innenstädte ohne Fast-Food-Ketten. Geographie K7 — Kleinstadtökonomie und historische Bewahrung in Neuengland.",
+      "factsAdvanced": [
+        "Die mit Abstand bevölkerungsärmste State Capital der USA (unter 8.000 Einwohner)",
+        "1781 gegründet und nach Montpellier in Frankreich benannt",
+        "Die goldene Kuppel des State House ist mit echtem Blattgold überzogen",
+        "Die einzige Hauptstadt eines US-Bundesstaates ohne ein einziges McDonald's-Restaurant",
+        "Historisch ein wichtiges Zentrum für Granitabbau im benachbarten Barre",
+        "Liegt in einem engen Flusstal, was sie anfällig für schwere Frühlingsüberschwemmungen macht"
+      ]
+    },
+    {
+      "id": "helena-cities-v2",
+      "descriptionAdvanced": "Helena ist die Hauptstadt des Bundesstaates Montana, spektakulär eingebettet in das Prickly Pear Valley in den östlichen Ausläufern der Rocky Mountains. Die Geschichte der Stadt begann explosiv 1864 mit der Entdeckung massiver Goldvorkommen ('Last Chance Gulch') durch vier Goldsucher ('The Four Georgians'). Dieser Goldrausch generierte einen so unfassbaren Reichtum, dass Helena im späten 19. Jahrhundert Berichten zufolge mehr Millionäre pro Kopf aufwies als jede andere Stadt der Welt. Dieser Reichtum spiegelt sich noch heute in den prächtigen, historisch intakten viktorianischen Villen in den Hügeln der Stadt wider. Nach dem Niedergang des Bergbaus konsolidierte sich Helena als unbestrittenes politisches und administratives Zentrum von Montana. Geschichte K8 — Der Goldrausch und der Aufstieg von Millionärsstädten.",
+      "factsAdvanced": [
+        "Gegründet 1864 nach dem extrem lukrativen Goldfund am 'Last Chance Gulch'",
+        "Hatte im späten 19. Jahrhundert zeitweise die höchste Dichte an Millionären weltweit",
+        "Seit 1875 die Hauptstadt von Montana (zuvor Virginia City)",
+        "Das Montana State Capitol besitzt eine massive, mit Kupfer verkleidete Kuppel",
+        "Die Cathedral of Saint Helena sticht durch ihre zwei gotischen Zwillingstürme hervor",
+        "Die Stadt wurde 1935 durch ein verheerendes Erdbeben schwer beschädigt"
+      ]
+    },
+    {
+      "id": "cheyenne-cities-v2",
+      "descriptionAdvanced": "Cheyenne ist die Hauptstadt und größte Stadt des Bundesstaates Wyoming, gelegen in den weiten, windigen High Plains im Südosten des Staates. Gegründet 1867, verdankt Cheyenne seine Existenz unmittelbar der Ersten Transkontinentalen Eisenbahn (Union Pacific), als tausende Arbeiter hier ein massives Lager ('Hell on Wheels') aufschlugen. Kurz darauf löste der Eisenbahnanschluss in Kombination mit den unendlichen Graslandschaften einen gewaltigen Boom der Rinderbarone (Cattle Barons) aus, was Cheyenne zu einem extrem wohlhabenden Cowboy-Zentrum machte. Diese Wild-West-Wurzeln werden alljährlich im Juli bei den 'Cheyenne Frontier Days', dem größten Outdoor-Rodeo der Welt, zelebriert. Heute spielt auch die nahegelegene F.E. Warren Air Force Base, eine Steuerzentrale für Interkontinentalraketen, eine dominierende wirtschaftliche Rolle. Geschichte K8 — Eisenbahnbau und das Goldene Zeitalter der Rinderbarone.",
+      "factsAdvanced": [
+        "1867 als Knotenpunkt der Union Pacific Railroad gegründet ('Magic City of the Plains')",
+        "War im späten 19. Jahrhundert das Hauptquartier extrem wohlhabender Rinderbarone",
+        "Gastgeber der 'Cheyenne Frontier Days', dem größten Outdoor-Rodeo der Welt ('The Daddy of 'em All')",
+        "Heimat der F.E. Warren Air Force Base, die US-Interkontinentalraketen kommandiert",
+        "Das Wyoming State Capitol (1890) zeichnet sich durch detaillierte Holzarbeiten im Inneren aus",
+        "Eine der höchstgelegenen Hauptstädte der USA (über 1800 Meter)"
+      ]
+    },
+    {
+      "id": "bismarck-cities-v2",
+      "descriptionAdvanced": "Bismarck ist die Hauptstadt von North Dakota und liegt am Ostufer des weiten Missouri River. Ursprünglich 1872 als militärischer Posten unter dem Namen Edwinton gegründet, wurde die Stadt bereits 1873 zu Ehren des deutschen Reichskanzlers Otto von Bismarck umbenannt. Dieser kluge strategische Schachzug sollte gezielt deutsche Einwanderer anlocken und europäisches Kapital für den Bau der Northern Pacific Railway generieren. Bismarcks Aufstieg als Verkehrsknotenpunkt in die westlichen Dakotas war damit gesichert. Heute dominiert das auffällige, 1934 im Art-déco-Stil errichtete North Dakota State Capitol, ein fast 74 Meter hoher Wolkenkratzer inmitten der flachen Prärie ('Skyscraper on the Prairie'). Die Wirtschaft stützt sich auf Landwirtschaft, Gesundheitswesen und den Energie-Sektor (Braunkohle und Öl). Geschichte K7 — Europäische Investitionen in den amerikanischen Eisenbahnbau.",
+      "factsAdvanced": [
+        "1873 strategisch nach Otto von Bismarck benannt, um deutsche Investoren anzulocken",
+        "Seit 1883 Hauptstadt des Dakota-Territoriums, ab 1889 von North Dakota",
+        "Das State Capitol ist ein 19-stöckiger Art-déco-Wolkenkratzer (fertiggestellt 1934)",
+        "Gegründet an der entscheidenden Kreuzung der Northern Pacific Railway und dem Missouri River",
+        "Eines der wichtigsten medizinischen Zentren der gesamten Region",
+        "Verzeichnet durch die Ölboom-Region im Westen des Staates ein stetiges Wirtschaftswachstum"
+      ]
+    },
+    {
+      "id": "pierre-cities-v2",
+      "descriptionAdvanced": "Pierre (lokal /pɪər/ ausgesprochen) ist die Hauptstadt von South Dakota und liegt am Ostufer des aufgestauten Missouri Rivers (Lake Sharpe) nahe der geografischen Mitte des Staates. Mit rund 14.000 Einwohnern ist sie die zweitkleinste Hauptstadt eines US-Bundesstaates (nach Montpelier). Die 1880 am gegenüberliegenden Ufer von Fort Pierre gegründete Stadt florierte zunächst als Handelsknotenpunkt für Goldgräber auf dem Weg in die Black Hills. Im 20. Jahrhundert profitierte Pierre enorm vom Bau des Oahe-Staudamms, einem der größten Erddämme der Welt, der massiv Wasserkraft erzeugt und riesige Naherholungsgebiete schuf. Mangels eines direkten Interstate-Anschlusses bleibt die Stadt relativ isoliert, und die Regierung des Staates South Dakota ist mit Abstand der dominierende Arbeitgeber. Geographie K7 — Wasserbauprojekte und abgelegene Regierungszentren.",
+      "factsAdvanced": [
+        "Die zweitkleinste Hauptstadt eines US-Bundesstaates (nach Montpelier, Vermont)",
+        "Eine von vier US-Hauptstädten ohne direkten Anschluss an das Interstate-Highway-System",
+        "Gelegen in unmittelbarer Nähe zum Oahe-Staudamm, einem der größten Erddämme der Welt",
+        "Gegründet 1880 am Missouri River gegenüber dem historischen Handels- und Militärposten Fort Pierre",
+        "Das State Capitol wurde 1910 im neoklassizistischen Stil fertiggestellt",
+        "Zentrum für exzellenten Tourismus in Bezug auf Angeln und Vogeljagd (insbesondere Fasanen)"
+      ]
+    },
+    {
+      "id": "springfield-il-cities-v2",
+      "descriptionAdvanced": "Springfield liegt in den flachen und äußerst fruchtbaren Ebenen Zentral-Illinois und fungiert seit 1837 als Hauptstadt des Bundesstaates. Die Stadt ist tief und untrennbar mit dem Leben von Abraham Lincoln verbunden. Lincoln lebte hier von 1837 bis 1861, wo er als Anwalt und Politiker praktizierte, bevor er das Präsidentenamt antrat. Heute ist Springfield das unbestrittene Epizentrum des amerikanischen 'Lincoln-Tourismus'; zu den wichtigsten Stätten zählen sein erhaltenes Wohnhaus (Lincoln Home National Historic Site), das alte State Capitol (in dem er seine 'House Divided'-Rede hielt), die Abraham Lincoln Presidential Library and Museum sowie sein monumentales Grabmal auf dem Oak Ridge Cemetery. Wirtschaftlich dominieren die Landesregierung sowie das regionale Gesundheitswesen. Geschichte K8 — Das Leben von Abraham Lincoln vor der Präsidentschaft.",
+      "factsAdvanced": [
+        "Seit 1837 die offizielle Hauptstadt von Illinois (zuvor war es Vandalia)",
+        "Abraham Lincoln lebte hier von 1837 bis zu seiner Wahl zum Präsidenten 1861",
+        "Beherbergt das renommierte Abraham Lincoln Presidential Library and Museum",
+        "Auf dem historischen Oak Ridge Cemetery befindet sich das Lincoln Tomb",
+        "Liegt an der weltberühmten, historischen Route 66",
+        "Im Old State Capitol hielt Lincoln 1858 seine berühmte 'House Divided'-Rede"
+      ]
+    },
+    {
+      "id": "jefferson-city-cities-v2",
+      "descriptionAdvanced": "Jefferson City, die Hauptstadt von Missouri, liegt malerisch auf hohen Kalksteinklippen ('bluffs') am südlichen Ufer des Missouri Rivers. Sie wurde 1821 gezielt im Landesinneren gegründet, um als zentral gelegener Regierungssitz zu dienen, und nach Thomas Jefferson, dem dritten US-Präsidenten, benannt. Die Architektur wird dominiert vom Missouri State Capitol, einem gigantischen neoklassizistischen Bauwerk aus dem Jahr 1917, dessen Innenräume mit wertvollen historischen Wandgemälden von Thomas Hart Benton geschmückt sind. Jefferson City war historisch nicht nur ein politisches Zentrum, sondern beherbergte über 168 Jahre das Missouri State Penitentiary (1836–2004), eines der größten und berüchtigtsten Gefängnisse des Landes ('Das blutigste 47 Hektar Amerikas'), das heute als düsteres Geschichtsmuseum dient. Geschichte K7 — Geplante Hauptstädte und die frühe Geschichte des Strafvollzugs.",
+      "factsAdvanced": [
+        "1821 als Hauptstadt gegründet und nach Präsident Thomas Jefferson benannt",
+        "Das State Capitol enthält ein massives, historisch wertvolles Wandgemälde von Thomas Hart Benton",
+        "Standort des stillgelegten Missouri State Penitentiary (1836-2004), einst das größte Bundesgefängnis",
+        "Liegt strategisch auf Kalksteinklippen (Bluffs) oberhalb des Missouri River",
+        "Lincoln University in Jefferson City ist eine historisch afroamerikanische Universität (gegründet 1866)",
+        "Einer der wenigen Hauptstädte der USA, die nicht von einer Interstate-Autobahn durchquert werden"
+      ]
+    },
+    {
+      "id": "frankfort-cities-v2",
+      "descriptionAdvanced": "Frankfort ist die Hauptstadt des Commonwealth of Kentucky und liegt eingebettet in einem tiefen Flusstal am Ufer des gewundenen Kentucky Rivers, umrahmt von bewaldeten Hügeln. Im späten 18. Jahrhundert gegründet, wurde Frankfort 1792 vor allem deshalb als Hauptstadt gewählt, weil lokale Bürger finanzielle Anreize für den Bau des State House boten. Die Stadt war jahrzehntelang ein massives Zentrum für die frühe Bourbon-Produktion und den Flusshandel. Noch heute prägen weltbekannte Destillerien, insbesondere Buffalo Trace, die unmittelbare Umgebung. Neben der Verwaltung des Bundesstaates zieht Frankfort Touristen durch seinen gut erhaltenen historischen Charme und das monumentale Kentucky State Capitol an, das von einer massiven, an das Hôtel des Invalides in Paris angelehnten Terrakotta-Kuppel gekrönt ist. Geschichte K7 — Früher Flusshandel und der Aufstieg der Bourbon-Industrie.",
+      "factsAdvanced": [
+        "Seit 1792 die Hauptstadt von Kentucky, der fünftkleinsten US-Hauptstadt",
+        "Der Name stammt von 'Frank's Ford', benannt nach einem Pionier, der hier von Indigenen getötet wurde",
+        "Das Kentucky State Capitol (1910) besitzt eine Architektur, die Pariser Vorbildern nachempfunden ist",
+        "Heimat der historischen Buffalo Trace Distillery, der ältesten kontinuierlich betriebenen Destillerie der USA",
+        "Das Grab des legendären Pioniers Daniel Boone befindet sich auf dem Frankfort Cemetery",
+        "Kentucky State University, eine historisch schwarze Universität, befindet sich in Frankfort"
+      ]
+    },
+    {
+      "id": "lansing-cities-v2",
+      "descriptionAdvanced": "Lansing, die Hauptstadt von Michigan, liegt zentral im südlichen Teil der unteren Halbinsel ('Lower Peninsula') am Zusammenfluss von Grand River und Red Cedar River. Nachdem sich die Verlegung der Hauptstadt von Detroit als militärisch und politisch notwendig erwies, fiel die Wahl 1847 aus einem Kompromiss heraus auf Lansing, das damals eine fast menschenleere Wildnis war. Ende des 19. Jahrhunderts brachte der Erfinder Ransom E. Olds die Olds Motor Vehicle Company (später Oldsmobile) nach Lansing, was die Stadt jahrzehntelang zu einem industriellen Kraftzentrum des amerikanischen Automobilbaus neben Detroit machte. Heute wird Lansing stark von der Präsenz der gigantischen Michigan State University im benachbarten East Lansing dominiert. Geschichte K8 — Kompromiss-Hauptstädte und die Etablierung der Automobilindustrie.",
+      "factsAdvanced": [
+        "Wurde 1847 überraschend zur Hauptstadt von Michigan gewählt (zuvor Detroit)",
+        "Geburtsort der Oldsmobile-Marke (1897), einer der ältesten amerikanischen Automobilhersteller",
+        "Das Michigan State Capitol (1879) diente vielen anderen Bundesstaaten als Architekturvorbild",
+        "Zentrum einer riesigen Metropolregion zusammen mit der Michigan State University (in East Lansing)",
+        "Zwei moderne Montagewerke von General Motors (GM) sind weiterhin ein industrieller Anker",
+        "Der Lansing River Trail ist ein beliebter, kilometerlanger Park entlang der Flüsse"
+      ]
+    },
+    {
+      "id": "madison-wi-cities-v2",
+      "descriptionAdvanced": "Madison ist die Hauptstadt von Wisconsin und liegt wunderschön auf einer schmalen Landenge (Isthmus) zwischen dem Lake Mendota und dem Lake Monona. Die Stadt wurde 1836 von James Duane Doty gezielt auf dem Papier entworfen, als Hauptstadt vorgeschlagen und durch geschickte Lobbyarbeit durchgesetzt, obwohl die Region noch völlig unbewohnt war. Madison wird durch zwei massive architektonische und institutionelle Säulen dominiert: an einem Ende des Isthmus das majestätische Wisconsin State Capitol und am anderen Ende die renommierte University of Wisconsin-Madison (UW-Madison). Diese massive akademische und politische Konzentration schuf eine extrem fortschrittliche und kulturell lebendige Stadt ('The Athens of the Midwest'), deren Wirtschaft stark auf Biotechnologie, Software, Regierung und Agrarforschung basiert. Geographie K8 — Die Integration von Universitäts- und Regierungscampus auf einem Isthmus.",
+      "factsAdvanced": [
+        "1836 gezielt als zukünftige Hauptstadt des Wisconsin-Territoriums entworfen",
+        "Liegt einzigartig auf einem Isthmus (Landenge) zwischen zwei großen Gletscherseen",
+        "Heimat der University of Wisconsin-Madison, einer der besten Forschungsuniversitäten der USA",
+        "Das Wisconsin State Capitol besitzt die größte Volumen-Kuppel in den USA nach dem Kapitol in Washington D.C.",
+        "Oft als eine der lebenswertesten, fortschrittlichsten und fahrradfreundlichsten Städte der USA gelistet",
+        "Epizentrum der legendären politischen Reformbewegung des 'Wisconsin Idea'"
+      ]
+    },
+    {
+      "id": "tallahassee-cities-v2",
+      "descriptionAdvanced": "Tallahassee liegt in der sanft hügeligen Region (Florida Panhandle) im Nordwesten Floridas und ist seit 1824 die Hauptstadt des Bundesstaates. Die Wahl fiel auf diesen Ort, da er historisch den perfekten geografischen Mittelpunkt zwischen den damaligen Siedlungszentren St. Augustine und Pensacola bildete. Tallahassee unterscheidet sich drastisch vom tropischen Küsten-Florida; das Klima ist gemäßigter, es gibt deutliche Jahreszeiten, und die Region ist berühmt für moosbehangene Eichen und alte Plantagen. Als massives akademisches Zentrum beherbergt die Stadt zwei große Universitäten: die Florida State University (FSU) und die Florida A&M University (FAMU), eine der landesweit renommiertesten historisch afroamerikanischen Hochschulen. Diese prägen neben dem Regierungsapparat das gesamte wirtschaftliche und kulturelle Leben. Geographie K7 — Politische Geografie und Plantagengeschichte im Florida Panhandle.",
+      "factsAdvanced": [
+        "1824 als Kompromiss-Hauptstadt zwischen Pensacola und St. Augustine gegründet",
+        "Tallahassee ist eine indigene Bezeichnung für 'alte Felder' oder 'verlassenes Dorf'",
+        "Heimat der Florida State University (FSU) und der Florida A&M University (FAMU)",
+        "Geografisch und kulturell eher dem traditionellen amerikanischen Süden als dem Rest Floridas zuzuordnen",
+        "War die einzige konföderierte Hauptstadt östlich des Mississippi, die im Bürgerkrieg nicht eingenommen wurde",
+        "Besitzt das National High Magnetic Field Laboratory, eine weltweit einzigartige Forschungseinrichtung"
+      ]
+    },
+    {
+      "id": "charleston-wv-cities-v2",
+      "descriptionAdvanced": "Charleston ist die Hauptstadt und größte Stadt des Bundesstaates West Virginia, tief eingebettet in den westlichen Ausläufern der Appalachen am Zusammenfluss von Kanawha River und Elk River. Gegründet 1788 (damals noch in Virginia), explodierte das Wachstum der Stadt Ende des 19. und Anfang des 20. Jahrhunderts durch massive industrielle Investitionen. Die extrem reichen lokalen Vorkommen von Kohle, Erdgas und insbesondere Sole (Salzwasser) machten Charleston zur 'chemischen Hauptstadt der Welt'. Im angrenzenden Kanawha River Valley (oft 'Chemical Valley' genannt) errichteten Konzerne wie DuPont und Union Carbide gigantische petrochemische Anlagen. Heute steht die Stadt vor der Herausforderung, sich nach dem starken Rückgang der Kohle- und Chemieindustrie wirtschaftlich neu zu diversifizieren. Geographie K8 — Natürliche Ressourcen und das 'Chemical Valley' der Appalachen.",
+      "factsAdvanced": [
+        "Seit 1885 (endgültig) die offizielle Hauptstadt von West Virginia",
+        "Historisch ein massives Zentrum für die Salzgewinnung (Sole) und später der Petrochemie",
+        "Das West Virginia State Capitol beeindruckt mit einer massiven 293-Karat-Blattgold-Kuppel",
+        "Das Kanawha Valley war im 20. Jahrhundert global als das 'Chemical Valley' bekannt",
+        "Sitz der ersten, jemals von Ziegelsteinen gepflasterten Straße der Welt (Summers Street, 1870)",
+        "Diente historisch als Grenzposten (Fort Lee) und wurde nach Charles Clendenin benannt"
+      ]
+    },
+    {
+      "id": "salem-or-cities-v2",
+      "descriptionAdvanced": "Salem liegt im Herzen des extrem fruchtbaren Willamette Valley in Oregon und fungiert seit 1851 als Hauptstadt des Bundesstaates (mit einer kurzen Unterbrechung). Die 1842 von Methodisten-Missionaren gegründete Siedlung profitierte vom massiven Zuzug durch den Oregon Trail, der tausende Landwirte in das ertragreiche Tal brachte. Salem etablierte sich historisch als massives Zentrum für die Verarbeitung landwirtschaftlicher Produkte, insbesondere Obst, Gemüse (Konservenindustrie) und Holz. Das beeindruckende Oregon State Capitol, erbaut 1938 im modernen Art-déco-Stil, wird gekrönt von der massiven goldenen Statue des 'Oregon Pioneer', die an die heldenhafte Reise der ersten Siedler erinnert. Heute bleibt die Landwirtschaft neben dem Regierungsapparat ein vitaler Eckpfeiler der Wirtschaft. Geschichte K8 — Methodisten-Missionare und die Erschließung über den Oregon Trail.",
+      "factsAdvanced": [
+        "1842 von Missionaren unter der Leitung von Jason Lee gegründet",
+        "Seit 1851 die Hauptstadt (mit kurzer Unterbrechung durch Corvallis)",
+        "Das Oregon State Capitol (erbaut 1938 im Art-déco-Stil) ist von einer Pionier-Statue gekrönt",
+        "Lange Zeit ein extremes Zentrum für die Konserven- und Landwirtschaftsindustrie im Willamette Valley",
+        "Heimat der Willamette University, der ältesten Universität im Westen der USA (gegründet 1842)",
+        "Die Stadt beherbergte das historische 'Oregon State Hospital' für psychisch Kranke (Filmkulisse für 'Einer flog über das Kuckucksnest')"
+      ]
+    },
+    {
+      "id": "olympia-cities-v2",
+      "descriptionAdvanced": "Olympia liegt am äußersten südlichen Ende des Puget Sound, eingebettet in die dichten Nadelwälder der pazifischen Nordwestküste, und ist die Hauptstadt des Bundesstaates Washington. Die in den 1850er Jahren gegründete Siedlung profitierte stark von den geschützten Meeresgewässern und entwickelte sich rasch zu einem florierenden Holzhafen. Auch die legendäre Olympia Brewing Company (1896) brachte der Stadt nationale Bekanntheit. Heute ist das Washington State Capitol das majestätische Herzstück der Stadt, umgeben von einem Campus aus weitläufigen Gärten. Olympia zeichnet sich zudem durch ein massives Umweltbewusstsein und eine lebendige alternative Kunst- und Musikszene aus. Kulturell hat sich die Stadt als Brutstätte des Independent-Rock in den 1990er Jahren (Riot Grrrl-Bewegung) fest etabliert. Geographie K8 — Politische und kulturelle Zentren am Puget Sound.",
+      "factsAdvanced": [
+        "1853 zur Hauptstadt des Washington-Territoriums ernannt (1889 Bundesstaat)",
+        "Liegt an den Budd Inlet, dem äußersten südlichen Ende des schiffbaren Puget Sound",
+        "Das Washington State Capitol ist eines der markantesten Kuppelgebäude der USA (fertiggestellt 1928)",
+        "Historisch ein wichtiges Zentrum für Forstwirtschaft und die Produktion von Austern",
+        "Die Stadt hat starke Verbindungen zur subkulturellen Punkrock- und 'Riot Grrrl'-Szene",
+        "Beherbergt das renommierte Evergreen State College, das für seine unkonventionellen Lehrmethoden bekannt ist"
+      ]
+    },
+    {
+      "id": "carson-city-cities-v2",
+      "descriptionAdvanced": "Carson City liegt im Eagle Valley im Westen von Nevada, unmittelbar am Fuße der Sierra Nevada und unweit des Lake Tahoe. Sie wurde 1858 gegründet und nach dem berühmten Entdecker Kit Carson benannt. Ein Jahr später löste die Entdeckung des Comstock Lode (des reichsten Silbervorkommens der USA) im nahen Virginia City einen massiven Wirtschaftsboom aus, der Carson City als Hauptumschlagplatz zum regionalen Knotenpunkt katapultierte. Ab 1870 prägte sogar eine offizielle Münzprägeanstalt (Carson City Mint) Silberdollars in der Stadt. Heute ist Carson City eine der flächenmäßig größten State Capitals, aber gleichzeitig eine der bevölkerungsärmsten (rund 58.000 Einwohner), deren Wirtschaft vorrangig von der Verwaltung des Wüstenstaates Nevada und dem Tourismus (Lake Tahoe) lebt. Geschichte K8 — Der Comstock Lode und die Münzprägung im Silberstaat.",
+      "factsAdvanced": [
+        "Gegründet 1858 und nach dem legendären Pfadfinder Kit Carson benannt",
+        "Wurde als direkter logistischer Hauptknotenpunkt für den Silberboom (Comstock Lode) groß",
+        "Beherbergte von 1870 bis 1893 die Carson City Mint (US-Münzprägeanstalt für Silbermünzen)",
+        "Eine sogenannte Independent City, gehört also zu keinem County",
+        "Mit fast 370 km² eine der flächenmäßig größten Hauptstädte der USA",
+        "Das kleine Nevada State Capitol (1871) wurde mit lokalem Sandstein und Kuppel aus Virginia City-Silber finanziert"
+      ]
+    },
+    {
+      "id": "lincoln-ne-cities-v2",
+      "descriptionAdvanced": "Lincoln ist die Hauptstadt des Bundesstaates Nebraska und die zweitgrößte Stadt der weiten Great Plains nach Omaha. Als Nebraska 1867 die Eigenstaatlichkeit erlangte, wurde die kleine Siedlung Lancaster gezielt als Hauptstadt ausgewählt und in Lincoln umbenannt, zu Ehren des kurz zuvor ermordeten US-Präsidenten Abraham Lincoln (eine bewusste politische Geste der Nordstaaten). Architektonisch absolut einzigartig ist das Nebraska State Capitol: Erbaut zwischen 1922 und 1932 im Art-déco-Stil, ist es ein 122 Meter hoher Wolkenkratzer mit einer gigantischen Bronzestatue eines Sämanns auf der Kuppel ('The Sower'). Kulturell und wirtschaftlich wird Lincoln massiv von der University of Nebraska dominiert, deren riesiges Footballstadion (Memorial Stadium) an Spieltagen die drittgrößte 'Stadt' in Nebraska bildet. Geographie K8 — Die architektonische und institutionelle Prägung der Great Plains.",
+      "factsAdvanced": [
+        "1867 zur Hauptstadt ernannt und von 'Lancaster' in 'Lincoln' (nach Abraham Lincoln) umbenannt",
+        "Das Nebraska State Capitol ist ein seltener 122-Meter-Art-déco-Wolkenkratzer (fertig 1932)",
+        "Heimat des Hauptcampus der University of Nebraska",
+        "Die University of Nebraska Cornhuskers haben einen enormen kulturellen Stellenwert",
+        "War Ende des 19. Jahrhunderts wegen massiver Schienennetze als das 'Sternzentrum' bekannt",
+        "Wichtiger nationaler und internationaler Zufluchtsort (Resettlement) für Flüchtlinge aus aller Welt"
+      ]
+    },
+    {
+      "id": "houston-ship-channel-economic-v2",
+      "descriptionAdvanced": "Der Houston Ship Channel ist ein künstlich ausgebauter, 50 Meilen langer Tiefwasserkanal, der den Hafen von Houston in Texas mit dem Golf von Mexiko verbindet. Sein massiver Ausbau, der 1914 nach der Entdeckung gewaltiger Ölquellen bei Spindletop abgeschlossen wurde, verwandelte Houston in das Epizentrum der globalen Petrochemie. Entlang seiner Ufer erstreckt sich heute der weltgrößte zusammenhängende petrochemische Industriekomplex, darunter riesige Raffinerien von ExxonMobil, Shell und Chevron. Der Kanal ermöglicht es Hochseeschiffen, tief in das Festland einzufahren, was Houston bezüglich der Gesamttonnage regelmäßig zum zweitgrößten Seehafen der Vereinigten Staaten macht (und Nummer eins bei ausländischen Tonnagen). Die ökonomische Relevanz dieses industriellen Korridors für die globale Energieversorgung ist unermesslich. Geographie K8 — Der Ausbau von Wasserwegen und die petrochemische Großindustrie.",
+      "factsAdvanced": [
+        "Eröffnet im Jahr 1914 nach der Vertiefung der Galveston Bay und des Buffalo Bayou",
+        "Erstreckt sich über 80 Kilometer bis in das Stadtzentrum von Houston",
+        "Das Ufer ist Standort des weltgrößten petrochemischen Industriekomplexes",
+        "Macht den Hafen von Houston in Bezug auf internationale Warentonnage oft zur Nummer 1 in den USA",
+        "Ermöglicht den direkten Hochsee-Import und -Export von Raffinerieprodukten",
+        "Wurde als direkte Reaktion auf den verheerenden Galveston-Hurrikan von 1900 landeinwärts ausgebaut"
+      ]
+    },
+    {
+      "id": "port-of-south-louisiana-economic-v2",
+      "descriptionAdvanced": "Der Port of South Louisiana ist ein maritimer Gigant: Er ist bezüglich der umgeschlagenen Frachttonnage der mit Abstand größte Seehafen der westlichen Hemisphäre. Er erstreckt sich über 87 Kilometer (54 Meilen) am Mississippi River zwischen New Orleans und Baton Rouge. Dies ist kein Hafen im klassischen Sinne einer einzelnen Bucht, sondern ein massiver maritimer Industriekorridor, der das Endstück des gesamten amerikanischen Binnenschifffahrtssystems bildet. Hier wird fast 60 Prozent der gesamten Getreideproduktion des US-amerikanischen Mittleren Westens umgeschlagen und in die Welt exportiert. Zudem dominiert der massive Import von Rohöl, das in den Dutzenden entlang des Flusses angesiedelten Großraffinerien verarbeitet wird. Geographie K8 — Binnenschifffahrt, globale Getreideexporte und Petrochemie.",
+      "factsAdvanced": [
+        "Gemessen an der Tonnage der größte Seehafen in den USA (oft über 250 Millionen Tonnen pro Jahr)",
+        "Erstreckt sich entlang von 87 Kilometern (54 Meilen) am Mississippi River",
+        "Umschlagplatz für mehr als die Hälfte des gesamten amerikanischen Getreideexports",
+        "Dient als massiver Endpunkt für Frachtkähne aus dem gesamten Mittleren Westen",
+        "Umschließt große petrochemische Raffinerien und Chemiewerke (oft 'Cancer Alley' genannt)",
+        "Einer der wenigen Orte weltweit, wo Binnenschifffahrt und Hochseefrachter so massiv aufeinandertreffen"
+      ]
+    },
+    {
+      "id": "port-of-long-beach-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Long Beach (Port of Long Beach) in Südkalifornien ist, zusammen mit dem unmittelbar angrenzenden Hafen von Los Angeles (mit dem er die San Pedro Bay teilt), das absolut wichtigste Einfallstor für den transpazifischen Handel in die Vereinigten Staaten. Als zweitgrößter Containerhafen der USA (nach L.A.) schlägt er jährlich Waren im Wert von Hunderten Milliarden Dollar um, primär asiatische Elektronik, Kleidung und Fahrzeugteile. Im 21. Jahrhundert gilt der Hafen als globaler Vorreiter beim Thema Nachhaltigkeit; durch massive Investitionen in elektrische Kräne, Landstrom für liegende Schiffe und emissionsfreie Lkw (den 'Green Port Policy') versucht er drastisch, die enorme regionale Luftverschmutzung zu minimieren. Wirtschaft K8 — Transpazifischer Containerhandel und nachhaltige Logistik.",
+      "factsAdvanced": [
+        "Zweitgrößter Containerhafen der Vereinigten Staaten (hinter dem Nachbarn Port of L.A.)",
+        "Wurde 1911 gegründet und erstreckt sich über 3.200 Hektar",
+        "Führt massiv den US-Handel mit Asien an (insbesondere China und Südkorea)",
+        "Wurde als 'Green Port' bekannt, da er Vorreiter bei radikalen Umweltauflagen für den Schiffsverkehr ist",
+        "Betreibt hochmoderne, vollautomatisierte Terminals (z.B. Middle Harbor Terminal)",
+        "Tausende von Diesel-Lkw wurden aus dem Hafen verbannt, um Emissionen zu reduzieren"
+      ]
+    },
+    {
+      "id": "port-of-new-york-and-new-jersey-economic-v2",
+      "descriptionAdvanced": "Der Hafen von New York und New Jersey ist der weitaus größte und verkehrsreichste Hafenkomplex an der US-Ostküste und historisch das maritime Herz der amerikanischen Wirtschaft. Während im 19. und frühen 20. Jahrhundert Manhattan und Brooklyn die Schifffahrt dominierten, verlagerte sich der gigantische Containerumschlag in den 1960er Jahren auf die New-Jersey-Seite, insbesondere zum riesigen Port Newark-Elizabeth Marine Terminal, dem ersten speziell für Container entwickelten Hafen der Welt. Heute versorgt der Hafen den am dichtesten besiedelten Konsumentenmarkt Nordamerikas mit globalen Importen. Der Bau höherer Brücken (wie die Anhebung der Bayonne Bridge) und das Ausbaggern der Kanäle waren massive Ingenieurleistungen, um modernen Post-Panamax-Megaschiffen die Einfahrt zu ermöglichen. Geographie K8 — Die Revolution der Containerlogistik und Megamärkte.",
+      "factsAdvanced": [
+        "Größter und geschäftigster Containerhafen an der Ostküste der USA",
+        "Der Port Newark-Elizabeth Terminal war der erste dezidierte Containerhafen der Welt (1962)",
+        "Erstreckt sich in einem komplexen Netzwerk über die Bundesstaaten New York und New Jersey",
+        "Die Erhebung der Bayonne Bridge (2017) ermöglichte riesigen Schiffen die Zufahrt",
+        "Wichtigster US-Einfuhrpunkt für europäische Autos und globale Konsumgüter",
+        "Historisch der Hafen, der Millionen von europäischen Einwanderern (Ellis Island) empfing"
+      ]
+    },
+    {
+      "id": "port-of-savannah-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Savannah, in Georgia, hat sich in den letzten Jahrzehnten zu einem der am schnellsten wachsenden und effizientesten Logistikknotenpunkte in den USA entwickelt. Der Hafen wird primär durch das gigantische Garden City Terminal angetrieben, welches das größte ungeteilte (Single-Terminal) Container-Terminal in Nordamerika ist. Seine enorme Wettbewerbsfähigkeit verdankt der Hafen seiner exzellenten Anbindung an das US-Eisenbahnnetz und Interstate-Highways sowie dem enormen logistischen Platzangebot. Die jüngst abgeschlossene massive Vertiefung des Savannah River (SHEP - Savannah Harbor Expansion Project) erlaubt es nun, dass die gigantischen Schiffe, die durch den erweiterten Panamakanal kommen, hier trotz starker Gezeiten voll beladen anlegen können. Wirtschaft K8 — Wettbewerb an der Ostküste und der Einfluss des Panamakanals.",
+      "factsAdvanced": [
+        "Beherbergt mit dem Garden City Terminal das größte Single-Operator Container-Terminal in Nordamerika",
+        "Gehört kontinuierlich zu den am schnellsten wachsenden Häfen der USA",
+        "Der Hafen wurde nach der Erweiterung des Panamakanals (2016) massiv (auf 14 Meter) vertieft",
+        "Extrem gut mit den Eisenbahnnetzen von Norfolk Southern und CSX in das Inland verbunden",
+        "Spielt eine entscheidende Rolle für den Export US-amerikanischer Agrar- und Industrieprodukte",
+        "Wird von der einheitlichen staatlichen Georgia Ports Authority betrieben"
+      ]
+    },
+    {
+      "id": "port-of-seattle-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Seattle im US-Bundesstaat Washington ist ein dominanter maritimer Knotenpunkt im pazifischen Nordwesten und profitiert geografisch enorm von der Tatsache, dass die Seeroute von hier nach Asien deutlich kürzer ist als von den südkalifornischen Häfen. Um auf dem stark umkämpften globalen Markt zu überleben, fusionierten 2015 die Seehäfen von Seattle und dem benachbarten Tacoma zur 'Northwest Seaport Alliance'. Abgesehen vom gigantischen Containergeschäft (Import asiatischer Konsumgüter, Export amerikanischer Äpfel und Fleisch), ist der Hafen von Seattle das Herzstück der amerikanischen Fischereiflotte für Alaska. Zudem fertigt das Hafenamt riesige Kreuzfahrtterminals ab, die jährlich über eine Million Passagiere Richtung Alaska abfertigen. Geographie K8 — Allianz-Häfen, Fischerei und Alaska-Kreuzfahrten.",
+      "factsAdvanced": [
+        "Profitierte historisch durch die kürzeren Transpazifik-Routen nach Asien",
+        "Fusionierte 2015 mit dem Nachbarhafen zur 'Northwest Seaport Alliance' (Containergeschäft)",
+        "Beherbergt die wichtigste kommerzielle Fischereiflotte für die Alaska-Fischgründe im North Pacific",
+        "Dient als gigantisches Startzentrum für die lukrativen Alaska-Kreuzfahrten",
+        "Der Hafen wurde 1911 gegründet und betreibt auch den Flughafen Seattle-Tacoma (Sea-Tac)",
+        "Spielt eine entscheidende Rolle im Export von Flugzeugteilen und landwirtschaftlichen Erzeugnissen"
+      ]
+    }
+  ]
+}

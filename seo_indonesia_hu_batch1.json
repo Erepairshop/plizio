@@ -1,0 +1,340 @@
+{
+  "lang": "hu",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bandung-cities-v2",
+      "descriptionAdvanced": "Bandung, Nyugat-Jáva tartomány székhelye, Indonézia egyik legfontosabb kulturális és oktatási központja. A várost gyakran „Jáva Párizsaként” emlegetik kellemes, hűvösebb klímája és gyönyörű art deco stílusú épületei miatt. A 768 méteres magasságban, egy vulkáni medencében elhelyezkedő település híres élénk divatéletéről, textiliparáról és modern kávézóiról. Bandung nemcsak a vásárlók paradicsoma, hanem történelmi jelentőséggel is bír: 1955-ben itt rendezték meg a híres Ázsia-Afrika Konferenciát, amely meghatározó volt az el nem kötelezett országok mozgalma számára. A várost körülölelő hegyek és teaültetvények, mint például a Tangkuban Perahu vulkán, népszerű kirándulóhelyek. A Bandung Institute of Technology az ország egyik legrangosabb egyeteme, amely tovább erősíti a város intellektuális jellegét.",
+      "factsAdvanced": [
+        "A várost 1810-ben alapították hivatalosan.",
+        "Az 1955-ös Bandung-konferencián 29 ország képviseltette magát.",
+        "Átlagos tengerszint feletti magassága 768 méter.",
+        "A Gedung Sate épülete 1920-ban épült, és ma a tartományi kormányzat székhelye.",
+        "Lakossága 2020-ban körülbelül 2,4 millió fő volt.",
+        "A Tangkuban Perahu vulkán 2084 méter magas.",
+        "Bandung a \"Parijs van Java\" becenevet a gyarmati időkben kapta."
+      ]
+    },
+    {
+      "id": "surabaya-cities-v2",
+      "descriptionAdvanced": "Surabaya Kelet-Jáva fővárosa és Indonézia második legnagyobb városa, amely fontos kereskedelmi és ipari központ. A „Hősök Városaként” ismert település kulcsszerepet játszott az ország függetlenségi harcaiban, különösen az 1945-ös surabayai csata során. A modern felhőkarcolók mellett a város büszkélkedhet történelmi negyedekkel is, ahol holland gyarmati épületek és az Arab negyed szűk utcái találkoznak. Surabaya forgalmas kikötője, a Tanjung Perak, az ország egyik legfontosabb tengeri kapuja, amely összeköti Jávát a keleti szigetekkel. A város számos parkkal és zöldterülettel rendelkezik, ami élhetőbbé teszi a trópusi metropoliszt. A gasztronómia kedvelői számára Surabaya igazi Kánaán, ahol a helyi specialitások, mint a Rujak Cingur, felejthetetlen élményt nyújtanak.",
+      "factsAdvanced": [
+        "Surabaya Indonézia második legnagyobb városa Jakarta után.",
+        "Az 1945. november 10-i csata emlékére minden évben megünneplik a Hősök Napját.",
+        "A Tanjung Perak kikötő az ország egyik legforgalmasabb tengeri csomópontja.",
+        "A Suramadu híd, amely összeköti a várost Madura szigetével, 5,4 kilométer hosszú.",
+        "A város jelképe egy cápa (Sura) és egy krokodil (Baya) küzdelmét ábrázolja.",
+        "Itt található Délkelet-Ázsia egyik legnagyobb mecsete, az Al-Akbar mecset.",
+        "A város lakossága meghaladja a 2,8 millió főt."
+      ]
+    },
+    {
+      "id": "medan-cities-v2",
+      "descriptionAdvanced": "Medan Észak-Szumátra tartomány fővárosa és Szumátra szigetének legnagyobb városa. Gazdag multikulturális örökséggel rendelkezik, ahol maláj, kínai, batak és indiai közösségek élnek együtt harmóniában. Ez a sokszínűség tükröződik a város építészetében és lenyűgöző konyhaművészetében is. Medan a kapu a világhírű Toba-tóhoz és a Gunung Leuser Nemzeti Parkhoz, de maga a város is tartogat látnivalókat, mint például a pompás Maimun-palotát and a Nagymecsetet. A gyarmati múlt emlékei, például a Tjong A Fie Mansion, bepillantást engednek a város egykori kereskedelmi virágzásába. Medan gazdasága jelentős mértékben épül a környékbeli gumi-, tea- és pálmaolaj-ültetvényekre, amelyek meghatározzák a régió fejlődését.",
+      "factsAdvanced": [
+        "Medan Indonézia negyedik legnagyobb városa.",
+        "A Maimun-palotát 1888-ban építtette a Deli Szultanátus uralkodója.",
+        "A Kualanamu nemzetközi repülőtér az ország egyik legmodernebb légikikötője.",
+        "A Tjong A Fie Mansion 1895-ben épült, és a kínai-indonéz örökséget őrzi.",
+        "A város a Belawan kikötőn keresztül bonyolítja tengeri kereskedelmét.",
+        "Medan népessége 2020-ban elérte a 2,4 millió főt.",
+        "A város híres a \"Bika Ambon\" nevű süteményéről és a durián gyümölcséről."
+      ]
+    },
+    {
+      "id": "makassar-cities-v2",
+      "descriptionAdvanced": "Makassar Dél-Sulawesi tartomány fővárosa és Kelet-Indonézia legfontosabb gazdasági központja. A történelmi nevén Ujung Pandangként is ismert város évszázadok óta jelentős kikötő, amely a fűszerkereskedelem egyik kulcspontja volt. A város egyik legfontosabb látnivalója a 17. századi Fort Rotterdam, amely kiváló állapotban maradt fenn a holland gyarmati időkből. Makassar híres tengerparti sétányáról, a Losari Beach-ről, ahol a látogatók gyönyörű naplementékben gyönyörködhetnek és megkóstolhatják a helyi finomságokat, például a Coto Makassart. A város a kiindulópontja a Toraja-földre irányuló utazásoknak is. Makassar modern fejlődése látványos, új kikötőkkel és kereskedelmi negyedekkel bővül, miközben őrzi tengerész hagyományait és a Phinisi hajók örökségét.",
+      "factsAdvanced": [
+        "A várost a 16. század elején alapították a Gowa Szultanátus központjaként.",
+        "A Fort Rotterdam eredetileg 1545-ben épült, majd a hollandok újjáépítették.",
+        "A Losari Beach partján található a \"Lebegő Mecset\" (Masjid Amirul Mukminin).",
+        "Makassar lakossága 2020-ban körülbelül 1,4 millió fő volt.",
+        "A város híres a Phinisi típusú, hagyományos kétárbocos vitorlás hajóiról.",
+        "A Sultan Hasanuddin nemzetközi repülőtér fontos átszállóhely Kelet-Indonézia felé.",
+        "A Coto Makassar egy hagyományos, fűszeres marhahúsleves, a város egyik jelképe."
+      ]
+    },
+    {
+      "id": "semarang-cities-v2",
+      "descriptionAdvanced": "Semarang Közép-Jáva tartomány fővárosa, amely az északi parton fekszik, és különleges keveréke a jávai, a kínai és a holland kultúrának. A város alsó része, a Kota Lama, tele van gyönyörűen restaurált gyarmati épületekkel, amelyeket gyakran „Kis-Hollandiaként” emlegetnek. Semarang egyik legrejtélyesebb épülete a Lawang Sewu, azaz az „Ezer ajtó háza”, amely egykor a vasúttársaság székháza volt. A vallási sokszínűséget jelképezi a Sam Poo Kong templom, amelyet a híres kínai felfedező, Zheng He tiszteletére emeltek. A város modern része a dombokra épült, ahonnan csodálatos kilátás nyílik a tengerre. Semarang gazdasága virágzó, fontos ipari és oktatási központ, miközben megőrizte barátságos és nyugodtabb légkörét a többi jávai nagyvároshoz képest.",
+      "factsAdvanced": [
+        "Semarang tizedik legnagyobb város Indonéziában.",
+        "A Lawang Sewu épülete 1904 és 1907 között épült holland építészek tervei alapján.",
+        "A Sam Poo Kong a legrégebbi kínai templom a városban, az 1400-as évek elejére nyúlik vissza.",
+        "A Kota Lama negyedet 2020-ban jelölték az UNESCO Világörökségi listájára.",
+        "A város lakossága 2020-ben meghaladta az 1,6 millió főt.",
+        "A Great Mosque of Central Java híres hatalmas hidraulikus napernyőiről.",
+        "Semarang híres a \"Lumpia Semarang\" nevű tavaszi tekercséről."
+      ]
+    },
+    {
+      "id": "palembang-cities-v2",
+      "descriptionAdvanced": "Palembang Dél-Szumátra fővárosa és Indonézia egyik legrégebbi városa, amely egykor a hatalmas Srívidzsaja Birodalom központja volt. A várost a Musi-folyó szeli ketté, amelyet a fenséges Ampera-híd köt össze, amely a város legfontosabb jelképe. Palembang gazdag történelmi örökséggel rendelkezik, amely a buddhista és hindu korszakoktól az iszlám szultanátusig terjed. A vízi élet meghatározó a városban; a házak egy része cölöpökön áll a folyó mentén, és a hajók ma is fontos közlekedési eszközök. A helyi gasztronómia világszerte ismert, különösen a halból készült „Pempek”, amely Palembang büszkesége. A város modern fejlődése mutatja az ország első könnyűvasút-vonala (LRT) and a sikeresen megrendezett nemzetközi sportesemények, például az Ázsia Játékok.",
+      "factsAdvanced": [
+        "Palembang Indonézia egyik legrégebbi, folyamatosan lakott városa (alapítva 683-ban).",
+        "Az Ampera-hidat 1962-ben kezdték építeni, és 1965-ben adták át.",
+        "A Musi-folyó hossza 750 kilométer, ez Szumátra leghosszabb folyója.",
+        "A Kemaro-sziget a folyó közepén egy népszerű kínai-buddhista zarándokhely.",
+        "Palembang lakossága 2020-ban körülbelül 1,6 millió fő volt.",
+        "Itt épült fel Indonézia első könnyűvasút (LRT) rendszere 2018-ban.",
+        "A városban található a Sultan Mahmud Badaruddin II nemzetközi repülőtér."
+      ]
+    },
+    {
+      "id": "denpasar-cities-v2",
+      "descriptionAdvanced": "Denpasar Bali szigetének fővárosa és egyben legnépesebb városa, amely a sziget déli részén helyezkedik el. Bár sok turista csak átutazóban érinti a repülőtér közelsége miatt, Denpasar valódi bepillantást enged a balinéz városi életbe és kultúrába. A város központjában található a Bajra Sandhi emlékmű, amely a balinéz nép küzdelmeit örökíti meg lenyűgöző építészeti stílusban. A látogatók felfedezhetik a nyüzsgő piacokat, mint a Pasar Badung, és megcsodálhatják a díszes hindu templomokat, például a Pura Jagatnathát. Denpasar az oktatás, a kormányzat és a kereskedelem központja Balin, ahol a hagyományos rituálék és a modern életstílus szorosan összefonódik. A város közelsége a népszerű tengerparti üdülőhelyekhez, mint Sanur, ideális bázissá teszi a sziget felfedezéséhez.",
+      "factsAdvanced": [
+        "Denpasar 1958-ben lett Bali tartományi fővárosa Singaraja után.",
+        "A Bajra Sandhi emlékmű építése 1987-ben kezdődött és 2003-ban fejeződött be.",
+        "A város lakossága 2020-ban meghaladta a 725 000 főt.",
+        "A Pasar Badung Bali legnagyobb hagyományos piaca, amely 24 órában üzemel.",
+        "A Bali Múzeum 1931-ben nyílt meg, és a sziget művészetét és történelmét mutatja be.",
+        "A város neve a \"Den\" (észak) és \"Pasar\" (piac) szavakból ered.",
+        "Évente itt rendezik meg a híres Bali Művészeti Fesztivált."
+      ]
+    },
+    {
+      "id": "yogyakarta-cities-v2",
+      "descriptionAdvanced": "Yogyakarta, vagy ahogy a helyiek nevezik, Jogja, Indonézia kulturális lelke és az ország egyetlen olyan tartománya, amelyet ma is szultán irányít. A város híres az oktatásról, a klasszikus jávai művészetekről, mint a batikolás, a gamelán zene és a bábjáték (wayang kulit). A város szívében található a Kraton, a szultáni palota, amely a jávai kozmológia és építészet remekműve. Yogyakarta közelében fekszenek a világ legnagyobb buddhista és hindu templomai, a Borobudur és a Prambanan, amelyek az UNESCO Világörökség részei. A város hangulata egyszerre tradicionális és fiatalos a számos egyetemnek köszönhetően. A Malioboro utca a vásárlók és a turisták kedvenc helye, ahol éjjel-nappal pezseg az élet és finom utcai ételeket kóstolhatunk.",
+      "factsAdvanced": [
+        "Yogyakarta 1946 és 1950 között Indonézia ideiglenes fővárosa volt.",
+        "A Kraton palotát I. Hamengkubuwono szultán alapította 1755-ben.",
+        "A Gadjah Mada Egyetem (UGM) az ország egyik legrangosabb felsőoktatási intézménye.",
+        "A közeli Merapi-vulkán Indonézia egyik legaktívabb tűzhányója.",
+        "A város lakossága 2020-ban körülbelül 373 000 fő volt.",
+        "Yogyakarta az indonéz batikművészet legfontosabb központja.",
+        "Itt található a Taman Sari vízipalota, amely a szultánok egykori pihenőhelye volt."
+      ]
+    },
+    {
+      "id": "pontianak-cities-v2",
+      "descriptionAdvanced": "Pontianak Nyugat-Kalimantan tartomány fővárosa, amely az Egyenlítő mentén fekszik, ezért az „Egyenlítő Városaként” is ismert. Itt található a Kapuas-folyó és a Landak-folyó találkozása, ami meghatározza a város életét és kereskedelmét. Pontianak egyik legfontosabb látnivalója az Egyenlítő-emlékmű, ahol évente kétszer, a napéjegyenlőség idején megfigyelhető az árnyékmentes pillanat. A város lakossága rendkívül sokszínű, jelentős a kínai, a maláj és a dajak közösség jelenléte, ami a gasztronómiában és a fesztiválokon is megmutatkozik. A Kapuas-folyón tett hajókirándulások bepillantást engednek a helyi folyóparti életmódba. Pontianak gazdasága az erdőgazdálkodásra, a mezőgazdaságra és a kereskedelemre épül, és fontos kapu Borneó belső területei felé.",
+      "factsAdvanced": [
+        "Pontianakot 1771. október 23-án alapította Syarif Abdurrahman Alkadrie szultán.",
+        "Az Egyenlítő-emlékművet először 1928-ban állították fel.",
+        "A Kapuas-folyó hossza 1143 km, ez Indonézia leghosszabb folyója.",
+        "A város lakossága 2020-ban meghaladta a 650 000 főt.",
+        "Pontianak híres a kínai újévi ünnepségeiről és a Sárkánytáncról.",
+        "A város tengerszint feletti magassága mindössze 0-1 méter.",
+        "Itt található a Kadriyah-palota, a Pontianak Szultanátus egykori székhelye."
+      ]
+    },
+    {
+      "id": "banjarmasin-cities-v2",
+      "descriptionAdvanced": "Banjarmasin Dél-Kalimantan tartomány fővárosa, amelyet az „Ezer folyó városaként” emlegetnek. A város élete szorosan összefonódik a Barito- és a Martapura-folyókkal, amelyek bonyolult hálózatot alkotnak a település területén. Banjarmasin legismertebb látványossága a hajnali úszó piac (Pasar Terapung), ahol az árusok csónakokból kínálják friss zöldségeiket, gyümölcseiket és helyi ételeiket. A város építészetére jellemzőek a cölöpökre épült faházak, amelyek a folyók mentén sorakoznak. Banjarmasin fontos kereskedelmi központ, különösen a gyémánt- és drágakő-kereskedelem terén, amelynek központja a közeli Martapura. A helyi kultúra gazdag, a lakosság nagy része maláj és banjar eredetű, amit a gyönyörű Sabilal Muhtadin Nagymecset is tükröz.",
+      "factsAdvanced": [
+        "Banjarmasin 1526. szeptember 24-én lett szultanátus központja.",
+        "A Barito-folyó hossza több mint 900 km.",
+        "A Muara Kuin úszó piac több száz éves múltra tekint vissza.",
+        "A város lakossága 2020-ban körülül 657 000 fő volt.",
+        "A Sabilal Muhtadin mecset Indonézia egyik legnagyobb iszlám központja.",
+        "A közeli Martapura városa világszerte ismert gyémántcsiszolásáról.",
+        "A város jelképe a proboscis majom, amely a közeli szigeteken honos."
+      ]
+    },
+    {
+      "id": "balikpapan-cities-v2",
+      "descriptionAdvanced": "Balikpapan Kelet-Kalimantan egyik legmodernebb és legtisztább városa, amely Indonézia „olajfővárosaként” ismert. A város gazdasága a kőolaj- és gázkitermelésre épül, ami látványos fejlődést és magas életszínvonalat eredményezett. Balikpapan híres rendezett utcáiról, zöld parkjairól és gyönyörű tengerparti sétányairól. Bár alapvetően ipari központ, a természetvédelmi területek közelsége, mint például a Samboja Lestari orángután-központ vagy a Wain-folyó védett erdője, vonzóvá teszi az ökoturisták számára is. A város nemzetközi repülőtere és forgalmas kikötője kulcsfontosságú kapu Borneó gazdasági vérkeringésében. Balikpapan sikeresen ötvözi a modern urbanizációt a környezettudatossággal.",
+      "factsAdvanced": [
+        "Balikpapan történelme az 1897-es első olajfúrással kezdődött.",
+        "A várost többször is Indonézia legélhetőbb városának választották.",
+        "A Sultan Aji Muhammad Sulaiman Sepinggan repülőtér az egyik legszebb az országban.",
+        "A város lakossága 2020-ban körülbelül 688 000 fő volt.",
+        "A közeli Sun Bear Education Center a world legkisebb medvéit védi.",
+        "A város partjait a Makassar-szoros mossa.",
+        "Balikpapanban található Indonézia egyik legnagyobb olajfinomítója."
+      ]
+    },
+    {
+      "id": "pekanbaru-cities-v2",
+      "descriptionAdvanced": "Pekanbaru Riau tartomány fővárosa Szumátra szigetén, és Indonézia egyik leggyorsabban fejlődő városa. Gazdaságának motorja a kőolaj-kitermelés és a pálmaolaj-ipar, ami a várost az ország egyik legfontosabb pénzügyi központjává tette. Pekanbaru modern arculatát széles utak és új építésű mecsetek jellemzik, mint például a lenyűgöző An-Nur Nagymecset, amelyet gyakran az indonéziai Tadzs Mahalnak neveznek. A város történelmi gyökerei a Siak Szultanátushoz kötődnek, amelynek egykori pompája a közeli Siak Sri Indrapura palotában fedezhető fel. A Siak-folyó partján elhelyezkedő település fontos közlekedési csomópont Szumátra belső részei és a tengerpart között.",
+      "factsAdvanced": [
+        "Pekanbarut 1784. június 23-án alapították kereskedelmi központként.",
+        "An-Nur mecset 1968-ban épült, és ötvözi a maláj és török építészetet.",
+        "A várost a Siak-folyó szeli át, amely Szumátra egyik legmélyebb folyója.",
+        "Pekanbaru lakossága 2020-ban meghaladta az 1,1 millió főt.",
+        "A közeli Siak-palota a maláj királyi építészet egyik legszebb példája.",
+        "A város neve a maláj \"Pekan\" (piac) és \"Baru\" (új) szavakból származik.",
+        "Itt található a Sultan Syarif Kasim II nemzetközi repülőtér."
+      ]
+    },
+    {
+      "id": "manado-cities-v2",
+      "descriptionAdvanced": "Manado Észak-Sulawesi tartomány fővárosa, amely lenyűgöző természeti környezetéről és egyedülálló kultúrájáról híres. A város a Manado-öböl partján fekszik, vulkánokkal körülvéve, és a világ egyik legjobb búvárhelye, a Bunaken Nemzeti Tengeri Park kapuja. Manado lakosságának többsége keresztény minahasai, ami különleges hangulatot ad a városnak a sok templommal és a világ egyik legmagasabb Krisztus-szobrával. A helyi konyha híresen csípős és fűszeres, kedvelt fogásuk a Tinutuan rizskása. A város lakói barátságosak és vendégszeretőek, a település pedig fontos kereskedelmi központ. Manado ideális választás azoknak, akik a vízi sportokat és a hegyi túrázást szeretnék ötvözni.",
+      "factsAdvanced": [
+        "Manado 1623-ban jött létre, és 1859-ben kapott városi rangot.",
+        "A Bunaken Nemzeti Park több mint 390 korallfajnak ad otthont.",
+        "A Kristus Memberkati szobor 30 méter magas, talapzata 20 méter.",
+        "A város lakossága 2020-ban körülbelül 433 000 fő volt.",
+        "Manado a Minahasa-felföld fő gazdasági központja.",
+        "A Sam Ratulangi nemzetközi repülőtér fontos légikikötő.",
+        "A várost 2014-ben súlyos árvíz sújtotta, de azóta újjáépült."
+      ]
+    },
+    {
+      "id": "kuta-cities-v2",
+      "descriptionAdvanced": "Kuta Bali szigetének legismertebb és legpezsgőbb turisztikai központja, amely világhírét hosszú, homokos tengerpartjának és fantasztikus naplementéinek köszönheti. Egykor csendes halászfalu volt, mára azonban a szörfösök, a bulizni vágyók és a vásárlók paradise-ává vált. Kuta strandja kezdő szörfösök számára is ideális, a part mentén pedig számtalan étterem, bár és luxusszálloda sorakozik. A város éjszakai élete legendás, a szórakozóhelyek hajnalig nyitva tartanak. A tragikus 2002-es terrortámadás emlékére emelt emlékmű mementóként áll a város szívében. Kuta tökéletes kiindulópont a közeli szórakoztató parkok és bevásárlóközpontok felfedezéséhez.",
+      "factsAdvanced": [
+        "Kuta Bali egyik első turisztikai központja lett az 1970-es években.",
+        "A 2002-es bombatámadás emlékhelye a \"Ground Zero\" emlékmű.",
+        "A Kuta Beach hossza körülbelül 2,5 kilométer.",
+        "A Ngurah Rai nemzetközi repülőtér mindössze 15 percre van.",
+        "Kuta közigazgatásilag Badung kormányzósághoz tartozik.",
+        "Itt található a Waterbom Bali vízipark.",
+        "A város lakossága a turistaidényben jelentősen megnő."
+      ]
+    },
+    {
+      "id": "bogor-cities-v2",
+      "descriptionAdvanced": "Bogor Nyugat-Jáva tartományban található, és az „Eső Városaként” ismert, mivel itt szinte minden nap esik a trópusi eső. A várost a Jakarta közelsége és hűvösebb éghajlata tette népszerűvé már a holland gyarmati időkben is. Bogor legfőbb nevezetessége a világhírű Botanikus Kert, amely több mint 200 éves múltra tekint vissza, és több ezer ritka növényfajnak ad otthont. A kert szomszédságában fekszik az impozáns Elnöki Palota, ahol fehér szarvasok legelésznek a parkban. Bogor híres oktatási intézményeiről és egyedi gasztronómiájáról, mint a híres Asinan Bogor. A város barátságos légköre és zöld környezete felüdülést nyújt a nyüzsgő metropoliszok után.",
+      "factsAdvanced": [
+        "Bogort 1745-ben alapította Gustaaf Willem van Imhoff főkormányzó.",
+        "A Bogor Botanikus Kert 1817-ben nyílt meg, területe 87 hektár.",
+        "Az Elnöki Palota eredetileg a holland főkormányzók rezidenciája volt.",
+        "A város lakossága 2020-ban meghaladta az 1 millió főt.",
+        "Bogor Indonézia legcsapadékosabb városa, évi 3500-4000 mm csapadékkal.",
+        "A Salak-vulkán a város déli határában magasodik (2211 méter).",
+        "Itt található a Nemzetközi Erdészeti Kutatóközpont székhelye."
+      ]
+    },
+    {
+      "id": "jayapura-cities-v2",
+      "descriptionAdvanced": "Jayapura Pápua tartomány fővárosa és Indonézia legkeletibb nagyvárosa, amely a Cenderawasih-öböl partján, hegyek és a tenger közé ékelődve fekszik. A város lenyűgöző panorámáját a közeli Sentani-tó és a környező zöld dombok határozzák meg. Jayapura fontos stratégiai és kereskedelmi központ, amely kapuként szolgál Pápua belső, vadregényes területei felé. A lakosság rendkívül sokszínű, ahol a helyi melanéz pápua népesség mellett Indonézia minden részéről érkeztek betelepülők. A látogatók élvezhetik a fehér homokos strandokat, mint a Base-G Beach. Jayapura fejlődése felgyorsult, amit a 2021-es Nemzeti Sportjátékok alkalmából épült modern stadionok is jeleznek.",
+      "factsAdvanced": [
+        "Jayapurát 1910-ben alapították Hollandia néven.",
+        "A város 1963-ban került indonéz fennhatóság alá.",
+        "A Sentani-tó 21 kis szigetnek ad otthont.",
+        "A város lakossága 2020-ban körülbelül 303 000 fő volt.",
+        "A Cyclops-hegység Természetvédelmi Terület közvetlenül a város mellett található.",
+        "A Jayapura City Hill-ről nyílik a legszebb kilátás az öbölre.",
+        "A Sentani nemzetközi repülőtér a tó partján épült."
+      ]
+    },
+    {
+      "id": "padang-cities-v2",
+      "descriptionAdvanced": "Padang Nyugat-Szumátra tartomány fővárosa and a minangkabau kultúra központja. A város világszerte híres gasztronómiájáról; a Nasi Padang éttermek Indonézia-szerte megtalálhatók. Padang építészetében felismerhetők a jellegzetes, nyeregtetős Rumah Gadang házak. A város az Indiai-óceán partján fekszik, és népszerű kiindulópont a Mentawai-szigetekre tartó szörfösök számára. Padang fehér homokos strandjai, mint az Air Manis, legendákban is gazdagok, itt található Malin Kundang szobra. A város dinamikusan fejlődik, miközben büszkén őrzi matrilineáris társadalmi hagyományait, ahol a nők fontos szerepet töltenek be a közösség életében.",
+      "factsAdvanced": [
+        "Padang a 16. század óta fontos kereskedelmi kikötő.",
+        "A város 2009-ben egy pusztító, 7,6-os erősségű földrengést élt túl.",
+        "Az Air Manis strandon található Malin Kundang köve.",
+        "Padang lakossága 2020-ban meghaladta a 900 000 főt.",
+        "A Minangkabau nemzetközi repülőtér tetőformája hagyományos stílusú.",
+        "A várost a Batang Arau-folyó szeli át.",
+        "Padang híres a Rendang nevű fűszeres húsételéről."
+      ]
+    },
+    {
+      "id": "solo-surakarta-cities-v2",
+      "descriptionAdvanced": "Solo, hivatalos nevén Surakarta, Közép-Jáva egyik legfontosabb kulturális központja. A város a jávai hagyományok őrzője, híres kifinomult táncművészetéről, gamelán zenéjéről és a batikolt textíliákról. Solóban két uralkodói palota is található, a Kraton Kasunanan és a Munkunegaran. A város hangulata barátságos és nyugodt, a lakók híresek udvariasságukról. Solo fontos oktatási központ és a textilipar fellegvára, ahol a Pasar Klewer piac az ország egyik legnagyobb batik-kereskedelmi helyszíne. A város nevéhez fűződik a Bengawan Solo dal is, amely a várost átszelő leghosszabb jávai folyóról kapta a nevét.",
+      "factsAdvanced": [
+        "Solo városa 1745-ben lett a Mataram Szultanátus székhelye.",
+        "A Bengawan Solo-folyó 548 kilométer hosszú, Jáván a leghosszabb.",
+        "Itt született Indonézia jelenlegi elnöke, Joko Widodo.",
+        "A város lakossága 2020-ban körülbelül 522 000 fő volt.",
+        "A Pasar Gede 1927-ben épült hagyományos piac.",
+        "A Sangiran őslénytani lelőhely Solo közelében található.",
+        "A város híres a Nasi Liwet nevű rizses ételéről."
+      ]
+    },
+    {
+      "id": "batam-cities-v2",
+      "descriptionAdvanced": "Batam a Riau-szigetek tartomány része, and Indonézia egyik legfontosabb ipari központja, mindössze 20 kilométerre Szingapúrtól. Szabadkereskedelmi övezetként Batam gyors fejlődésen ment keresztül, mára pedig az ország egyik legfontosabb elektronikai és hajógyártási csomópontja lett. A város népszerű úti cél a szomszédos Szingapúrból és Malajziából érkező látogatók körében a kedvező árak és a kiváló golfpályák miatt. Batam jelképe a Barelang-hídrendszer, amely hat szigetet köt össze. A város modern infrastruktúrája és forgalmas kompkikötői biztosítják a folyamatos kapcsolatot a régióval. Batam lüktető energiája a jövő Indonéziájának egyik arcát mutatja.",
+      "factsAdvanced": [
+        "Batam fejlesztése az 1970-es években kezdődött ipari zónaként.",
+        "A Barelang-hídrendszer hossza összesen 2,2 km.",
+        "A város lakossága 2020-ban meghaladta az 1,1 millió főt.",
+        "Szingapúr komppal mindössze 45-60 perc alatt elérhető.",
+        "A Hang Nadim repülőtér kifutópályája 4025 méter hosszú.",
+        "Itt található a Maha Vihara Duta Maitreya buddhista templom.",
+        "Batam híres frissen készített tengeri ételeiről."
+      ]
+    },
+    {
+      "id": "ambon-cities-v2",
+      "descriptionAdvanced": "Ambon Maluku tartomány fővárosa, amely egy patkó alakú öböl partján fekszik a Fűszer-szigetek szívében. A történelem során a város a fűszerkereskedelem stratégiai központja volt, amiért európai hatalmak vívtak csatákat. Ambon ma az UNESCO Zene Városaként ismert, mivel lakói híresek zenei tehetségükről. A várost gyönyörű strandok övezik, mint a Pintu Kota, ahol egy természetes kőkapu látható. Bár a múltban konfliktusok sújtották, Ambon mára a békés együttélés példájává vált, ahol különböző vallási közösségek közösen építik a jövőt. A helyi kultúra gazdag a tengerész hagyományokban, a gasztronómia pedig fűszeres tengeri ételeket kínál.",
+      "factsAdvanced": [
+        "Ambont a portugálok alapították 1575-ben.",
+        "A Victoria-erőd a holland gyarmati uralom fontos védműve volt.",
+        "A Merah Putih-híd 1140 méter hosszú.",
+        "A város lakossága 2020-ban körülbelül 347 000 fő volt.",
+        "Ambon 2019-ben nyerte el az UNESCO Zene Városa címet.",
+        "A közeli tengeri élővilág paradicsomi állapotokat kínál a búvároknak.",
+        "A város híres a Papeda nevű hagyományos ételről."
+      ]
+    },
+    {
+      "id": "cirebon-cities-v2",
+      "descriptionAdvanced": "Cirebon Nyugat-Jáva északi partján fekvő történelmi kikötőváros, amely a jávai és a szundanéz kultúra határán helyezkedik el. A város gazdag történelmi múlttal rendelkezik, mint egykori szultanátus, amelynek nyomai a Kasepuhan és a Kanoman palotákban láthatók. Cirebon híres egyedi batikművészetéről, különösen a Mega Mendung mintáról, amely kínai hatásokat tükröz. Egyik legérdekesebb látnivalója a Sunyaragi-barlang, amely korallokból és sziklákból készült meditációs helyként szolgált. Forgalmas kikötője és vasúti csomópontja fontos gazdasági szerepet tölt be. A gasztronómia itt is különleges, a helyi specialitások felejthetetlen ízeket kínálnak.",
+      "factsAdvanced": [
+        "Cirebon szultanátusa a 15. és 16. században érte el virágkorát.",
+        "A Kasepuhan-palota Indonézia egyik legrégebbi királyi rezidenciája.",
+        "A Mega Mendung batikminta Cirebon vizuális jelképe.",
+        "A város lakossága 2020-ban körülbelül 333 000 fő volt.",
+        "A Sunyaragi-barlangot a 18. század elején építették.",
+        "Cirebon kikötője évszázadok óta fontos kereskedelmi állomás.",
+        "A város híres a Nasi Jamblang nevű ételéről."
+      ]
+    },
+    {
+      "id": "malang-cities-v2",
+      "descriptionAdvanced": "Malang Kelet-Jáva tartomány második legnagyobb városa, amely hűvösebb hegyi klímájáról és tiszta levegőjéről ismert. A várost a gyarmati időkben Jáva Svájcának nevezték, és ma is népszerű pihenőhely. Malang híres almaültetvényeiről, virágos parkjairól és a közeli Bromo-vulkánhoz vezető túrákról. Számos történelmi épület maradt fenn a holland időkből, például a Jalan Ijen negyed villái. A színesre festett Jodipan negyed vibráló közösségi térré változott. Malang fontos oktatási központ is, ahol több neves egyetem működik, pezsgő diákéletet biztosítva a városnak. A hegyek közelsége és a rendezett környezet vonzóvá teszi minden látogató számára.",
+      "factsAdvanced": [
+        "Malang 1914. április 1-jén kapott hivatalos városi rangot.",
+        "A várost 400-600 méteres tengerszint feletti magasságban hegyek veszik körül.",
+        "A Kampung Warna-Warni Jodipan negyedet 2016-ban festették ki.",
+        "A város lakossága 2020-ban körülbelül 843 000 fő volt.",
+        "Malang híres a Bakso Malang nevű húsgombócleveséről.",
+        "Itt található az Arema FC, az ország egyik legnépszerűbb futballklubja.",
+        "A közeli Batu városa fontos üdülőközpont."
+      ]
+    },
+    {
+      "id": "samarinda-cities-v2",
+      "descriptionAdvanced": "Samarinda Kelet-Kalimantan tartomány fővárosa, amely a hatalmas Mahakam-folyó partján fekszik. A város élete a folyó körül forog, amely nemcsak közlekedési útvonal, hanem a gazdaság alapja is. Samarinda egyik legfontosabb jelképe az impozáns Mahakam-híd, amely összeköti a város két partját. A kulturális örökség része a híres samarindai szövés, amelyet hagyományos módszerekkel készítenek. A város modern fejlődését mutatja a lenyűgöző Baitul Hikmah mecset, amely az ország egyik legnagyobbja. Samarinda ideális kiindulópont a Mahakam-folyón tett kalandtúrákhoz, ahol megfigyelhetők a ritka édesvízi delfinek és a dajak törzsek falvai.",
+      "factsAdvanced": [
+        "Samarindát 1668. január 21-én alapították Bugis telepesek.",
+        "A Mahakam-folyó hossza 920 km.",
+        "Az Islamic Center mecset legmagasabb minaretje 99 méter.",
+        "A város lakossága 2020-ban meghaladta a 827 000 főt.",
+        "A Sarung Samarinda kézi szövéssel készül.",
+        "Az APT Pranoto nemzetközi repülőtér 2018-ban nyílt meg.",
+        "Samarinda környékén találhatók Indonézia legnagyobb szénbányái."
+      ]
+    },
+    {
+      "id": "kupang-cities-v2",
+      "descriptionAdvanced": "Kupang Kelet-Nusa Tenggara tartomány fővárosa, amely Timor szigetének nyugati részén helyezkedik el. A város fontos regionális központ, amely stratégiai elhelyezkedése miatt már a 16. században felkeltette a kereskedők figyelmét a szantálfa miatt. Kupang gyönyörű mészkősziklákkal övezett tengerparttal rendelkezik, ahol a naplementék felejthetetlen élményt nyújtanak. A város közelében található a híres Crystal Cave, egy kristálytiszta vízzel telt barlang. Kupang híres barátságos lakóiról, a különleges Sasando hangszerről és a hagyományos Tenun szövésről. A város kikötője fontos kapu az Ausztrália felé irányuló tengeri forgalomban, miközben őrzi multikulturális jellegét.",
+      "factsAdvanced": [
+        "Kupangot a hollandok 1653-ban tették meg fontos bázisukká.",
+        "A Sasando bambuszból és pálmalevélből készült hangszer.",
+        "A város lakossága 2020-ban körülbelül 442 000 fő volt.",
+        "William Bligh kapitány 1789-ben itt ért partot a Bounty lázadás után.",
+        "Kupang éghajlata szavannai, hosszú száraz évszakkal.",
+        "A Tenun Ikat szövés egyedi mintázattal rendelkezik.",
+        "Itt található az El Tari nemzetközi repülőtér."
+      ]
+    },
+    {
+      "id": "tasikmalaya-cities-v2",
+      "descriptionAdvanced": "Tasikmalaya Nyugat-Jáva délkeleti részén fekvő dinamikus város, amelyet gyakran a Papok Városaként emlegetnek a számos vallási iskola miatt. A város híres virágzó kézműves iparáról; itt készülnek a legjobb minőségű hímzések, fonott kosarak és facipők. Tasikmalaya gazdaságát a kisvállalkozások határozzák meg, ami az ország egyik fontos kreatív központjává tette. A várost festői dombok veszik körül, a közelben található a Galunggung-vulkán, amely népszerű kirándulóhely meleg vizes forrásaival. Tasikmalaya hangulata vallásos és barátságos, ahol a modern kereskedelem jól megfér a tradicionális értékekkel és a természet közelségével.",
+      "factsAdvanced": [
+        "Tasikmalaya 2001-ben kapott önálló városi rangot.",
+        "A Galunggung-vulkán utolsó nagy kitörése 1982-ben történt.",
+        "A város Indonézia egyik legfontosabb hímzésközpontja.",
+        "A lakosság száma 2020-ban körülbelül 652 000 fő volt.",
+        "Itt található a Situ Gede nevű népszerű üdülőtó.",
+        "Tasikmalaya híres a Nasi Tutug Oncom nevű ételéről.",
+        "A városban több mint 800 iszlám vallási iskola működik."
+      ]
+    }
+  ]
+}

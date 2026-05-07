@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-iseyin-cities-v2",
+      "descriptionAdvanced": "Iseyin liegt eingebettet in die rauen Hügel des Oyo-Bundesstaates und ist in ganz Nigeria für eine einzige, exquisite Handwerkskunst bekannt: Aso Oke. Diese traditionell handgewebten, schweren Stoffe werden auf horizontalen Webstühlen gefertigt und sind ein absolutes Muss bei jeder traditionellen Yoruba-Hochzeit oder großen Feierlichkeit. Nahezu jedes zweite Haus in der Stadt beherbergt einen ratternden Webstuhl. Neben der Textilproduktion ist Iseyin auch ein massives landwirtschaftliches Zentrum. Wegen der enormen Mengen an geerntetem Mais und Tabak, die auf dem zentralen Oja-Oba-Markt umgeschlagen werden, wird die Stadt auch oft 'Der Korb des Westens' genannt. Wirtschaft K6 — Traditionelles Textilhandwerk und Aso Oke.",
+      "factsAdvanced": [
+        "In ganz Nigeria berühmt als das absolute Zentrum der 'Aso Oke'-Weberei.",
+        "Wichtige Stadt der Yoruba im Bundesstaat Oyo.",
+        "Der traditionelle Herrscher der Stadt trägt den Titel Aseyin von Iseyin.",
+        "Massiver Produzent von Mais, Tabak, Yams und Maniok.",
+        "Umgeben von Hügelketten, die in der Vergangenheit als Schutz dienten.",
+        "Ein großer Knotenpunkt für den Handel zwischen dem Norden und dem Südwesten."
+      ]
+    },
+    {
+      "id": "ng-ilesa-cities-v2",
+      "descriptionAdvanced": "Ilesa (manchmal auch Ilesha genannt) ist das pulsierende historische Herz der Ijesha-Untergruppe der Yoruba. Gegründet von einem Prinzen aus dem mythologischen Ile-Ife, war die Stadt im 19. Jahrhundert ein gefürchtetes militärisches Kraftzentrum unter dem legendären Feldherrn Ogedengbe, dessen Statue noch heute das Zentrum ziert. Wirtschaftlich hat Ilesa eine doppelte Ader: Einerseits ist es von dichten Kakao-Plantagen umgeben, die den Wohlstand der Region begründeten, andererseits war die Stadt historisch für den illegalen Abbau von Gold in der Umgebung berüchtigt. Die tiefen, roten Lehmböden prägen das alte Stadtbild, während moderne Universitäten die junge Generation anziehen. Geschichte K7 — Militärgeschichte der Yoruba und Kakaoanbau.",
+      "factsAdvanced": [
+        "Historische Hauptstadt der kriegerischen Ijesha (Yoruba-Untergruppe).",
+        "Regiert vom Owa Obokun Adimula von Ijeshaland.",
+        "Die Region ist berühmt für bedeutende Goldvorkommen.",
+        "Gilt als ein Hauptzentrum der nigerianischen Kakaoproduktion.",
+        "Die berühmte 'International Breweries' (Trophy Lager) hat hier ihren Sitz.",
+        "Der Wasserfall von Erin-Ijesha liegt ganz in der Nähe."
+      ]
+    },
+    {
+      "id": "ng-ife-cities-v2",
+      "descriptionAdvanced": "Ile-Ife, oft einfach nur Ife genannt, ist nicht weniger als der mythische Ursprung der Menschheit in der Kosmologie der Yoruba. Hier, so der Glaube, schuf der Gott Oduduwa aus einem Klumpen Erde die Welt. Aufgrund dieser enormen spirituellen Bedeutung gilt der regierende Ooni von Ife als einer der ranghöchsten Monarchen in Afrika. Archäologisch ist Ife weltberühmt für meisterhafte, lebensechte Terrakotta- und Bronzeköpfe aus dem 12. Jahrhundert, die das europäische Verständnis von afrikanischer Kunst im 20. Jahrhundert revolutionierten. Die Obafemi Awolowo University prägt heute als eine der besten Hochschulen Nigerias das moderne, intellektuelle Gesicht dieser heiligen Stadt. Geschichte K8 — Afrikanische Kosmologie und antike Kunst.",
+      "factsAdvanced": [
+        "Gilt in der Yoruba-Mythologie als der Entstehungsort der Welt.",
+        "Der 'Ooni von Ife' ist das höchste spirituelle Oberhaupt der Yoruba.",
+        "Weltberühmt für die antiken Ife-Bronzen und Terrakotta-Köpfe (12.-15. Jh.).",
+        "Heimat der großen Obafemi Awolowo University (OAU).",
+        "Die Stadt beherbergt unzählige antike Schreine, darunter den Opa Oranmiyan.",
+        "Eines der wichtigsten archäologischen Zentren in ganz Afrika."
+      ]
+    },
+    {
+      "id": "ng-owo-cities-v2",
+      "descriptionAdvanced": "Owo liegt genau an der kulturellen und geografischen Bruchlinie zwischen den mächtigen Yoruba im Westen und dem historischen Königreich Benin im Osten. Diese einzigartige geografische Lage führte zu einer Kultur, die Einflüsse beider Imperien in Architektur, Kunst und königlichen Ritualen perfekt verschmolz. Der Palast des Olowo (Königs) von Owo ist ein gewaltiges architektonisches Labyrinth und gilt als der flächenmäßig größte traditionelle Palast Afrikas mit über 100 Innenhöfen. Archäologen haben in Owo sensationelle Terrakotta-Figuren aus dem 15. Jahrhundert ausgegraben, die die künstlerische Meisterschaft dieser oft übersehenen Stadt beweisen. Gesellschaft K7 — Kulturelle Verschmelzung und Palastarchitektur.",
+      "factsAdvanced": [
+        "Der Name 'Owo' bedeutet in der Yoruba-Sprache 'Respekt' oder 'Ehre'.",
+        "Der Palast des Olowo ist der flächenmäßig größte in Afrika (ca. 40 Hektar).",
+        "Wichtige archäologische Stätte (Ausgrabungen durch Ekpo Eyo 1971).",
+        "Kulturelles Bindeglied zwischen den Yoruba und dem Edo-Volk (Benin).",
+        "Das jährliche Igogo-Festival ist berühmt für prunkvolle Flechtfrisuren der Männer.",
+        "Zentrum des landwirtschaftlichen Handels im Bundesstaat Ondo."
+      ]
+    },
+    {
+      "id": "ng-ondo-city-cities-v2",
+      "descriptionAdvanced": "Die Stadt Ondo ist eine aristokratische Enklave tief im Regenwald, die eine Besonderheit aufweist: Nach den Legenden wurde sie nicht von einem Krieger oder Gott, sondern von einer Prinzessin namens Pupupu gegründet. Diese weibliche Linie spiegelt sich noch heute im Olobun-Titel wider, einer rein weiblichen Herrscherposition, die parallel zum König existiert. Ondo-Stadt explodierte wirtschaftlich im frühen 20. Jahrhundert durch den rasanten Anbau von Kakao, der die Stadt zu einer der wohlhabendsten Siedlungen Westnigerias machte. Noch heute dominieren riesige Kakao-Aufkäufer und Holzfirmen, die wertvolles Mahagoni verarbeiten, das Wirtschaftsbild. Wirtschaft K7 — Kakaoboom und weibliche Gründungsmythen.",
+      "factsAdvanced": [
+        "Die zweitgrößte Stadt im Bundesstaat Ondo.",
+        "Laut Mythologie von der weiblichen Prinzessin Pupupu von Ile-Ife gegründet.",
+        "Besitzt eine doppelte Herrscherstruktur mit einem männlichen und einem weiblichen Monarchen.",
+        "Historisch extrem wohlhabend durch riesige Kakao-Plantagen.",
+        "Wichtiges Zentrum der nigerianischen Holz- und Mahagoniindustrie.",
+        "Die Einwohner (Ondo-Mekun) sprechen einen sehr markanten Yoruba-Dialekt."
+      ]
+    },
+    {
+      "id": "ng-uromi-cities-v2",
+      "descriptionAdvanced": "Uromi ist das pulsierende Zentrum der Esan-Ethnie im Bundesstaat Edo. Die Stadt hat den sturen, unabhängigen Charakter einer Siedlung, die sich historisch erfolgreich gegen die vollständige Dominanz des nahegelegenen Benin-Königreichs wehrte. Der rote Staub der Umgebung zeugt von extrem fruchtbarem Boden, der Uromi zu einem der größten Produzenten von Palmöl, Cassava und Kautschuk in der Region macht. Es ist eine Stadt der Intellektuellen und Politiker; Uromi hat im Verhältnis zu seiner Größe eine ungewöhnlich hohe Anzahl an einflussreichen nigerianischen Ministern und Kardinälen hervorgebracht, was sie zu einem unsichtbaren Machtzentrum im Land macht. Gesellschaft K6 — Ethnische Identität und politische Netzwerke.",
+      "factsAdvanced": [
+        "Die einwohnerstärkste und wichtigste Stadt im Esan-Land (Edo State).",
+        "Der traditionelle König trägt den Titel 'Onojie von Uromi'.",
+        "Zentrum für den massiven regionalen Handel mit Palmprodukten und Maniok.",
+        "Hat eine extrem hohe Dichte an katholischen Kirchen und Schulen.",
+        "Heimatort vieler einflussreicher nigerianischer Politiker und Denker.",
+        "Geprägt durch ein tropisches Klima und dichte, rote Lateritböden."
+      ]
+    },
+    {
+      "id": "ng-kafanchan-cities-v2",
+      "descriptionAdvanced": "Kafanchan war jahrzehntelang der absolute Dreh- und Angelpunkt des nigerianischen Schienenverkehrs. Als die britischen Ingenieure 1927 die Eisenbahnlinie bauten, kreuzten sich hier im südlichen Teil des Kaduna-Staates die Gleise aus Port Harcourt im Süden, Kano im Norden und Jos im Osten. Die Stadt entwickelte sich über Nacht von einem winzigen Dorf zu einem boomenden Schmelztiegel der Kulturen, in dem Eisenbahner aus allen Teilen Nigerias lebten. Obwohl das Zeitalter der Eisenbahn in Nigeria seinen Glanz verloren hat, profitiert Kafanchan heute von den atemberaubenden, nahegelegenen Matsirga-Wasserfällen und einem kühlen, angenehmen Klima, das den Anbau von seltenem Gemüse fördert. Wirtschaft K7 — Eisenbahnknotenpunkte und Binnenmigration.",
+      "factsAdvanced": [
+        "Wichtigster historischer Eisenbahnknotenpunkt in Nordnigeria.",
+        "Liegt im südlichen Teil des Kaduna-Staates (Southern Kaduna).",
+        "Ein ethnischer Schmelztiegel, stark von Igbo- und Yoruba-Eisenbahnern geprägt.",
+        "Bekannt für die spektakulären Matsirga-Wasserfälle in der Nähe.",
+        "Das kühle Mikroklima erlaubt den Anbau exotischer Früchte und Gemüse.",
+        "Zentrum politischer Bewegungen der Minderheitenethnien Nordnigerias."
+      ]
+    },
+    {
+      "id": "ng-jimeta-cities-v2",
+      "descriptionAdvanced": "Jimeta ist der moderne, geschäftige Zwilling des traditionellen Yola. Während das alte Yola der Sitz des Emirs ist, ist Jimeta der Ort, an dem die Geschäfte abgewickelt werden. Die Stadt wurde in der Kolonialzeit als Flusshafen am mächtigen Benue gegründet, um den Export von Erdnüssen und Baumwolle nach Südnigeria zu erleichtern. Heute dominieren der moderne Flughafen, breite Handelsstraßen und das Regierungssekretariat des Adamawa-Staates das Stadtbild. Ein Spaziergang über den massiven Jimeta Modern Market offenbart die enorme Vielfalt der Region: Hier werden Töpferwaren, Fulani-Hüte und riesige Mengen an getrocknetem Fisch umgeschlagen. Wirtschaft K7 — Doppelstädte und Binnenhäfen.",
+      "factsAdvanced": [
+        "Bildet zusammen mit Yola die Hauptstadtregion des Bundesstaates Adamawa.",
+        "Dient als das kommerzielle und administrative Zentrum der Metropole.",
+        "Ursprünglich als britischer Flusshafen am Ufer des Benue gegründet.",
+        "Beherbergt den Yola International Airport.",
+        "Der Jimeta Modern Market ist das ökonomische Herzstück der Region.",
+        "Stark geprägt vom Bootsbau und der Flussschifffahrt."
+      ]
+    },
+    {
+      "id": "ng-mubi-cities-v2",
+      "descriptionAdvanced": "Mubi ist die wichtigste Grenz- und Handelsstadt im äußersten Osten Nigerias, eingeklemmt zwischen den Mandara-Bergen und der Grenze zu Kamerun. Für Jahrhunderte war dieser Ort ein wichtiges Durchgangslager für Viehherden und Nomaden. Heute ist der Mubi Cattle Market einer der gigantischsten Viehmärkte Westafrikas, wo täglich Tausende Rinder aus dem Tschad, der Zentralafrikanischen Republik und Kamerun nach Nigeria verkauft werden. Trotz massiver Verwüstungen durch den Boko-Haram-Konflikt hat sich Mubi aufgrund seiner unersetzlichen Position im grenzüberschreitenden Handel erstaunlich schnell wieder aufgebaut und pulsiert voller rauer, unaufhaltsamer Energie. Wirtschaft K8 — Grenzüberschreitender Viehhandel.",
+      "factsAdvanced": [
+        "Die zweitgrößte Stadt im Bundesstaat Adamawa.",
+        "Besitzt einen der größten internationalen Viehmärkte Westafrikas.",
+        "Liegt strategisch extrem wichtig nahe der Grenze zu Kamerun.",
+        "Die Federal Polytechnic Mubi zieht Tausende Studenten an.",
+        "War 2014 kurzzeitig von Boko Haram besetzt, erholte sich aber rasant.",
+        "Die Landschaft ist durch die Ausläufer der Mandara-Berge geprägt."
+      ]
+    },
+    {
+      "id": "ng-bida-cities-v2",
+      "descriptionAdvanced": "Bida ist das absolute handwerkliche Juwel im Herzen Nigerias. Als traditionelle Hauptstadt des Nupe-Volkes ist die Stadt im ganzen Land legendär für ihre Glasmacher (Masaga) und Schmiede. Nach einer uralten, geheimen Tradition recyceln die Handwerker von Bida Altglas, schmelzen es über lodernden Holzfeuern ein und formen daraus in rasender Geschwindigkeit tiefschwarze, rote und goldene Glasperlen und Armreifen. Die Stadt besticht durch ihre traditionelle Lehmarchitektur und den riesigen Palast des Etsu Nupe, dem König der Nupe. Bida liegt in einem feuchten Tal, das es außerdem zu einem der wichtigsten Zentren für den Reisanbau macht. Gesellschaft K7 — Geheimes Handwerk und das Nupe-Volk.",
+      "factsAdvanced": [
+        "Die zweitgrößte Stadt im Bundesstaat Niger.",
+        "Sitz des 'Etsu Nupe', des mächtigen traditionellen Herrschers der Nupe.",
+        "National berühmt für die Herstellung von Glasperlen (Masaga) und Messingarbeiten.",
+        "Das Handwerk der Glasbläserei wird in Bida als streng gehütetes Familiengeheimnis bewahrt.",
+        "Liegt in einem extrem fruchtbaren Becken, ideal für Reisanbau.",
+        "Bekannt für aufwendig geschnitzte Holzhocker und filigrane Webereien."
+      ]
+    },
+    {
+      "id": "apapa-port-complex-economic-v2",
+      "descriptionAdvanced": "Der Hafenkomplex Apapa ist das unbestrittene logistische Tor zu Westafrika. Mitten in Lagos gelegen, wickelt dieser gigantische Hafen den Großteil aller Containerimporte und Agrarexporte Nigerias ab. In den 1920er Jahren von den Briten gegründet, erstreckt er sich heute über riesige Flächen mit Kränen, Silos für Weizen und massiven Ölterminals. Der Verkehr rund um den Hafen ist legendär und oft chaotisch, da Tausende von Lastwagen täglich Waren ins Landesinnere transportieren. Ohne Apapa stünde die nigerianische Wirtschaft buchstäblich still, weshalb die Regierung kontinuierlich Milliarden in die Automatisierung dieser Lebensader pumpt. Wirtschaft K8 — Globale Logistik und Seehandel.",
+      "factsAdvanced": [
+        "Der älteste und größte Seehafen in Nigeria (gegründet 1924).",
+        "Befindet sich im Stadtteil Apapa von Lagos.",
+        "Wickelt über 50% des gesamten Containerverkehrs des Landes ab.",
+        "Besitzt spezialisierte Terminals für Öl, Getreide und Stückgut.",
+        "Wurde 2005 durch die nigerianische Regierung an private Betreiber konzessioniert.",
+        "Hat eine direkte, wenn auch historisch überlastete Eisenbahnanbindung ins Landesinnere."
+      ]
+    },
+    {
+      "id": "tin-can-island-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Tin Can Island entstand aus reiner Verzweiflung, als Nigeria in den 1970er Jahren während des Ölbooms in einem massiven Zement-Import-Chaos ('Cement Armada') erstickte, bei dem Hunderte von Schiffen monatelang vor Lagos auf Entladung warteten. Um Apapa zu entlasten, wurde diese künstliche Insel in Rekordzeit von nur 15 Monaten aus dem Wasser des Badagry Creek gestampft. Heute ist Tin Can Island Nigerias zweitgrößter Hafen, hochmodern und speziell für Roll-on/Roll-off-Schiffe (RoRo) ausgerüstet, was bedeutet, dass fast jeder importierte Gebrauchtwagen, der in Nigeria fährt, über diese Insel ins Land gekommen ist. Erdkunde K8 — Infrastrukturentwicklung und Automobilhandel.",
+      "factsAdvanced": [
+        "Eröffnet im Jahr 1977, um den Zement-Stau im Hafen von Lagos zu lösen.",
+        "Wurde in der Rekordzeit von nur 15 Monaten gebaut.",
+        "Gilt als der wichtigste Hafen Nigerias für den Autoimport (RoRo-Schiffe).",
+        "Befindet sich direkt neben dem Hafenkomplex Apapa im Badagry Creek.",
+        "Wickelt jährlich Millionen Tonnen an Containern und Massengütern ab.",
+        "Entstand durch massive Landgewinnung und Ausbaggerung."
+      ]
+    },
+    {
+      "id": "onne-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Onne ist das industrielle Kraftzentrum des nigerianischen Südens. Etwa 25 Kilometer von Port Harcourt entfernt gelegen, ist Onne kein gewöhnlicher Frachthafen, sondern die weltweit größte ausgewiesene Freihandelszone (Oil and Gas Free Zone), die exklusiv der Energiebranche dient. Von hier aus operieren gigantische Bohrschiffe und Offshore-Versorger, um die Bohrinseln im Golf von Guinea mit Rohren, Schlamm und Technikern zu versorgen. Der Hafen beherbergt auch die massiven Flüssiggas-Anlagen (LNG) und riesige Düngemittelfabriken, was ihn zum wertvollsten logistischen Stützpunkt der nigerianischen Regierung macht. Wirtschaft K8 — Offshore-Logistik und Freihandelszonen.",
+      "factsAdvanced": [
+        "Liegt am Bonny River Mündungssystem im Rivers State.",
+        "Ist die weltweit größte Freihandelszone für die Öl- und Gasindustrie.",
+        "Beherbergt über 200 multinationale Energieunternehmen.",
+        "Hochspezialisiert auf schwere Ausrüstung und Offshore-Versorgungsschiffe.",
+        "Generiert massive Zolleinnahmen für die nigerianische Regierung.",
+        "Besitzt das Federal Ocean Terminal (FOT) und das Federal Lighter Terminal (FLT)."
+      ]
+    },
+    {
+      "id": "port-harcourt-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Port Harcourt hat seine Ursprünge im schwarzen Gold – jedoch ursprünglich nicht Erdöl, sondern Steinkohle. Die Briten bauten diesen Flusshafen 1912 am Bonny River, um die Kohle aus Enugu verschiffen zu können. Mit dem Aufkommen der Ölindustrie verwandelte sich der Hafen in ein massives Zentrum für den Export von Rohöl und den Import schwerer Industrieanlagen. Obwohl er weiter landeinwärts liegt als andere Seehäfen und ständiges Ausbaggern erfordert, bleibt er aufgrund seiner perfekten Anbindung an die Ostbahnlinie und die Raffinerien ein absolutes Schlüsselwerk für die Wirtschaft des nigerianischen Südostens. Geschichte K8 — Ressourcenexport und Hafenhistorie.",
+      "factsAdvanced": [
+        "Gegründet 1912 durch den britischen Gouverneur Lord Lugard.",
+        "Erbaut am Ostufer des schiffbaren Bonny River.",
+        "Ursprünglich ausschließlich für den Export von Steinkohle aus Udi konzipiert.",
+        "Verfügt über spezielle Terminals für Erdöl, Palmöl und Schüttgut.",
+        "Ist der Endpunkt der historischen Eastern Railway Line.",
+        "Dient als logistisches Tor für den gesamten Südosten Nigerias."
+      ]
+    },
+    {
+      "id": "calabar-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Calabar atmet den Geist von vier Jahrhunderten ununterbrochenem Seehandel. Einst war er der traurige Schauplatz des transatlantischen Sklavenhandels, später der wichtigste Umschlagplatz für Palmöl nach Europa. Heute liegt der Hafen ruhig an der Mündung des Cross River und wurde massiv modernisiert, um die Tinapa Free Trade Zone zu bedienen. Aufgrund seiner Nähe zur kamerunischen Grenze und nach Zentralafrika ist er strategisch brillant gelegen. Obwohl flache Fahrrinnen große Containerschiffe oft fernhalten, ist Calabar der mit Abstand sicherste und sauberste Hafenkomplex an der nigerianischen Küste. Erdkunde K7 — Flussmündungen und historischer Seehandel.",
+      "factsAdvanced": [
+        "Einer der ältesten durchgehenden Seehäfen Westafrikas.",
+        "Liegt am Cross River, fast 80 Kilometer landeinwärts vom Meer.",
+        "Dient als logistisches Zentrum für die Calabar Free Trade Zone.",
+        "Die flache Fahrrinne erfordert ständiges, extrem teures Ausbaggern.",
+        "Wurde 2007 an private Konsortien (z.B. ECM Terminals) übergeben.",
+        "Haupttor für den Handel in Richtung Kamerun, Tschad und Äquatorialguinea."
+      ]
+    },
+    {
+      "id": "warri-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Warri ist eine rohe, funktionale Logistikmaschine, die tief in das unübersichtliche Netzwerk aus Mangroven und Bächen des Nigerdeltas geschnitten wurde. Als alter Seehafen, der jahrzehntelang den Kautschuk- und Palmölhandel der Urhobo und Itsekiri dominierte, wurde er in den 1970er Jahren komplett auf die Ölindustrie umgestellt. Heute ist Warri der Dreh- und Angelpunkt für Hunderte von Service-Schiffen, die das westliche Delta und die nahegelegene Erdölraffinerie bedienen. Trotz Problemen mit der Versandung des Warri-Flusses bleibt dieser Hafen das eiserne Rückgrat für die lokale Industrie in den Bundesstaaten Delta und Edo. Wirtschaft K8 — Delta-Logistik und petrochemische Industrie.",
+      "factsAdvanced": [
+        "Liegt tief im Nigerdelta, etwa 50 Seemeilen vom Atlantik entfernt.",
+        "Historisches Zentrum für den Export von afrikanischem Holz und Kakao.",
+        "Wurde Ende der 1970er Jahre modernisiert, um den Ölboom zu unterstützen.",
+        "Dient als primärer Versorgungsstützpunkt für Offshore-Ölplattformen.",
+        "Leidet historisch unter einer flachen Fahrrinne im Escravos-Fluss.",
+        "Eng verbunden mit der nahegelegenen Warri Refining and Petrochemical Company."
+      ]
+    },
+    {
+      "id": "lekki-deep-sea-port-economic-v2",
+      "descriptionAdvanced": "Der Tiefseehafen Lekki ist ein Wunderwerk der modernen Ingenieurskunst und das ehrgeizigste Infrastrukturprojekt in der Geschichte Westafrikas. Da die alten Häfen in Lagos chronisch verstopft und für moderne Riesenfrachter zu flach waren, wurde Lekki künstlich an den Rand des Atlantiks gebaut. Mit gigantischen Wellenbrechern und einem 16,5 Meter tiefen Becken ist er der erste Hafen in Nigeria, der Schiffe der 'Post-Panamax'-Klasse aufnehmen kann. Seit seiner Eröffnung im Jahr 2023 revolutioniert er die Wirtschaft, da er in direkter Nachbarschaft zur gewaltigen Dangote-Raffinerie liegt und Nigeria in ein echtes marines Drehkreuz verwandelt. Wirtschaft K8 — Gigaprojekte und maritime Megastrukturen.",
+      "factsAdvanced": [
+        "Der mit Abstand tiefste und modernste Seehafen in ganz Westafrika.",
+        "Offiziell Anfang 2023 nach jahrelanger Bauzeit eröffnet.",
+        "Verfügt über einen Tiefgang von 16,5 Metern für Mega-Containerschiffe.",
+        "Liegt in der strategischen Lagos Free Trade Zone auf der Lekki-Halbinsel.",
+        "Ein 1,5 Milliarden Dollar teures Gemeinschaftsprojekt (China, Singapur, Nigeria).",
+        "Soll die gigantischen Staus in den alten Häfen Apapa und Tin Can Island beenden."
+      ]
+    },
+    {
+      "id": "koko-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Koko ist klein, leise, aber historisch extrem wichtig. Gelegen an den Biegungen des Benin-Flusses im Delta-Staat, war Koko im 19. Jahrhundert die Bastion des einflussreichen Itsekiri-Händlers und Kriegsherrn Nana Olomu. Internationale Bekanntheit erlangte der Hafen jedoch 1988 auf tragische Weise, als entdeckt wurde, dass hier illegal Tausende Fässer mit hochgiftigem Giftmüll aus Italien entladen worden waren. Der 'Koko-Vorfall' führte zur Gründung der nigerianischen Umweltschutzbehörde. Heute versucht der Hafen, sich durch Rehabilitationsprojekte als Ausweichhafen für kleine Küstenfrachter und Stückgut zu etablieren. Gesellschaft K8 — Umweltrecht und toxische Exporte in Afrika.",
+      "factsAdvanced": [
+        "Kleiner, aber strategisch gelegener Binnenhafen am Benin River.",
+        "War im späten 19. Jahrhundert das Machtzentrum von Nana Olomu.",
+        "1988 Schauplatz des berüchtigten Skandals um italienischen Giftmüll.",
+        "Führte direkt zur Gründung der Federal Environmental Protection Agency (FEPA).",
+        "Eignet sich aufgrund des flachen Wassers nur für sehr kleine Frachter.",
+        "Gehört administrativ zu den sogenannten 'Delta Ports'."
+      ]
+    },
+    {
+      "id": "sapele-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Sapele erzählt die Geschichte des nigerianischen Tropenholzes. Im frühen 20. Jahrhundert von der African Timber and Plywood Company (AT&P) massiv ausgebaut, war dies der Ort, an dem unzählige gigantische Mahagoni-Stämme in Flößen zusammengebunden und auf britische Frachter verladen wurden. Durch das Süßwasser des Benin-Flusses blieben die Schiffe beim Warten auf Fracht frei von aggressiven Seepocken. Der Hafen hat den Niedergang der großen Holzindustrie überlebt und dient heute als Umschlagplatz für landwirtschaftliche Erzeugnisse und Ausrüstung für die lokalen Gaswerke. Erdkunde K7 — Ressourcenabbau und Holzexport.",
+      "factsAdvanced": [
+        "Historisch der größte Exporthafen für Tropenholz (Sapele-Mahagoni) in Afrika.",
+        "Liegt am Zusammenfluss der Flüsse Jamieson und Ethiope (Benin River).",
+        "Verfügte einst über eine der größten Plywood-Fabriken (AT&P) der Welt.",
+        "Ermöglichte Ankern in Süßwasser, was britische Schiffsrümpfe reinigte.",
+        "Wird heute primär als kleiner Mehrzweckhafen für Agrarprodukte genutzt.",
+        "Die Fahrrinne vom Ozean bis zum Hafen Sapele beträgt fast 100 Kilometer."
+      ]
+    },
+    {
+      "id": "burutu-port-economic-v2",
+      "descriptionAdvanced": "Burutu ist ein Hafen, der in der Zeit stehen geblieben zu sein scheint. Gegründet am Forcados-Fluss als früher Posten der mächtigen Royal Niger Company im späten 19. Jahrhundert, war Burutu lange vor Apapa oder Port Harcourt der wichtigste Handelsstützpunkt Nigerias. Hier wurden die großen Hochseeschiffe be- und entladen, da sie wegen der Sandbänke nicht den Niger hinauffahren konnten. Die Kolonialverwaltung baute hier riesige Schiffswerften, die noch heute im Verfall imposant wirken. Trotz moderner Pläne, den Hafen als Umschlagplatz für Feststoffmineralien wiederzubeleben, bleibt Burutu heute ein verschlafenes, historisches Denkmal der Flussschifffahrt im Delta. Geschichte K8 — Monopole der Royal Niger Company.",
+      "factsAdvanced": [
+        "Einer der allerersten europäischen Häfen in Nigeria, gegründet im späten 19. Jh.",
+        "War das zentrale Schifffahrts-Hauptquartier der Royal Niger Company.",
+        "Diente als Transithafen zwischen Flussdampfern und Ozeanschiffen.",
+        "Besitzt historische, noch immer sichtbare Kolonial-Schiffswerften und Trockendocks.",
+        "Die isolierte Lage auf einer Insel macht den Hafen heute schwer zugänglich.",
+        "Es gibt Bemühungen, den Hafen für Bergbau-Exporte (Kohle, Eisen) zu reaktivieren."
+      ]
+    },
+    {
+      "id": "escravos-terminal-economic-v2",
+      "descriptionAdvanced": "Das Escravos-Terminal, betrieben vom Energiegiganten Chevron, ist das Herzstück der Öl- und Gasinfrastruktur im westlichen Nigerdelta. Das Wort 'Escravos' bedeutet auf Portugiesisch 'Sklaven', eine unheimliche Erinnerung an die düstere Geschichte des gleichnamigen Flusses. Heute pulsiert hier Technologie: Das Terminal sammelt Öl von zahlreichen Offshore-Plattformen und speist die gigantische Escravos Gas-to-Liquids (EGTL) Anlage. Hier wird Erdgas, das früher sinnlos abgefackelt wurde, in sauberen Dieselkraftstoff umgewandelt. Das Terminal wirkt nachts wie eine flammende, futuristische Stadt mitten in den unzugänglichen Mangrovenwäldern. Wirtschaft K8 — Gas-to-Liquids Technologie (GTL).",
+      "factsAdvanced": [
+        "Gehört zu Chevron und liegt im äußersten Westen des Nigerdeltas.",
+        "Name leitet sich vom portugiesischen Wort für Sklaven ab (Rio dos Escravos).",
+        "Heimat der milliardenschweren Escravos Gas-to-Liquids (EGTL) Anlage.",
+        "Reduzierte die extrem umweltschädliche Gasabfackelung in Nigeria massiv.",
+        "Verfügt über einen riesigen schwimmenden Tankerhafen (SPM) im Ozean.",
+        "Das Terminal ist vom Landweg abgeschnitten und nur per Boot oder Helikopter erreichbar."
+      ]
+    },
+    {
+      "id": "forcados-terminal-economic-v2",
+      "descriptionAdvanced": "Das Forcados-Terminal ist der gigantische Trichter, durch den das Öl von unzähligen Feldern im westlichen Delta in die riesigen Öltanker des Weltmarktes fließt. Betrieben von Shell (SPDC), wurde diese massige Anlage 1971 eröffnet und kann täglich Hunderttausende Fässer Rohöl, den berühmten leichten 'Forcados Blend', verarbeiten. Die Anlage ist so groß, dass sie eine eigene Pipeline, die Trans-Forcados-Pipeline, besitzt, die sich wie eine stählerne Schlange quer durch das Delta zieht. Oft Ziel von Sabotageakten und militanten Angriffen, ist Forcados ein Symbol für den enormen Reichtum und die gleichzeitige Anfälligkeit der nigerianischen Ölindustrie. Wirtschaft K8 — Rohölexport und Pipeline-Infrastruktur.",
+      "factsAdvanced": [
+        "Eines der ältesten und größten Öl-Exportterminals Nigerias (eröffnet 1971).",
+        "Wird von Shell Petroleum Development Company (SPDC) betrieben.",
+        "Verarbeitet den hochwertigen, extrem begehrten 'Forcados Blend'.",
+        "Liegt auf einer isolierten Mündungsinsel im Forcados-Fluss.",
+        "Endpunkt der massiven Trans-Forcados-Pipeline (TFP).",
+        "Wurde mehrfach durch Sabotageakte militanter Gruppen stillgelegt."
+      ]
+    },
+    {
+      "id": "bonny-oil-terminal-economic-v2",
+      "descriptionAdvanced": "Bonny Island war im 18. Jahrhundert das absolute Zentrum des Sklaven- und Palmölhandels. Heute exportiert diese Insel am Rande des Atlantiks keinen Sklaven mehr, sondern 'Bonny Light' – das wohl reinste und teuerste Rohöl der Welt. Das Bonny Oil Terminal ist das Kronjuwel der nigerianischen Exportwirtschaft. Doch damit nicht genug: Die Insel beherbergt auch die riesigen Anlagen von Nigeria LNG, wo Erdgas auf eisige -162 Grad Celsius gekühlt und als Flüssiggas (LNG) auf gewaltige Spezialschiffe gepumpt wird. Die Anlage auf Bonny Island generiert nahezu ein Fünftel der gesamten Staatseinnahmen Nigerias. Erdkunde K8 — Flüssiggas (LNG) und Rohölqualitäten.",
+      "factsAdvanced": [
+        "Historischer Küstenstaat, heute das wichtigste Energiezentrum Nigerias.",
+        "Exporthafen für 'Bonny Light', ein weltweit geschätztes, süßes Rohöl.",
+        "Heimat der massiven Nigeria Liquefied Natural Gas (NLNG) Fabrik.",
+        "Die sechs LNG-Züge (Trains) auf Bonny sind die modernsten Afrikas.",
+        "Die Insel ist komplett vom nationalen Stromnetz getrennt und autark.",
+        "Ein massives Sicherheitsgebiet mit extremer militärischer Präsenz."
+      ]
+    },
+    {
+      "id": "qua-iboe-terminal-economic-v2",
+      "descriptionAdvanced": "Das Qua Iboe Terminal in der Region Ibeno ist die Festung von ExxonMobil in Nigeria. Es verarbeitet das Öl, das aus Dutzenden von Offshore-Plattformen mitten im stürmischen Golf von Guinea gefördert wird. Das Terminal ist ein Labyrinth aus Lagertanks, Pumpstationen und Gaspipelines. Von hier aus wird das hochwertige 'Qua Iboe Crude', ein Rohöl, das wegen seines niedrigen Schwefelgehalts bei europäischen und amerikanischen Raffinerien extrem beliebt ist, direkt auf schwimmende Ladestationen auf dem offenen Meer (SPMs) gepumpt. Das Terminal brachte massiven Reichtum in den Bundesstaat Akwa Ibom, veränderte jedoch das Leben der lokalen Fischer für immer. Wirtschaft K8 — Offshore-Ölförderung und multinationale Konzerne.",
+      "factsAdvanced": [
+        "Das größte operative Terminal des US-Konzerns ExxonMobil in Nigeria.",
+        "Liegt direkt am Sandstrand von Ibeno im Bundesstaat Akwa Ibom.",
+        "Verarbeitet Öl, das fast ausschließlich aus tiefen Offshore-Feldern stammt.",
+        "Das 'Qua Iboe Crude' gilt als eines der schwefelärmsten Rohöle weltweit.",
+        "Errichtet in den frühen 1970er Jahren und stetig modernisiert.",
+        "Die Verladung erfolgt über riesige Bojen, kilometerweit im offenen Ozean."
+      ]
+    },
+    {
+      "id": "brass-terminal-economic-v2",
+      "descriptionAdvanced": "Das Brass Terminal liegt tief in der von Mangroven überwucherten Mündung des Brass Rivers, einer Gegend, in der Land und Wasser auf verwirrende Weise verschmelzen. Betrieben vom italienischen Ölriesen Eni (Agip), ist dieses Terminal seit Jahrzehnten für den Export des 'Brass River Blend' verantwortlich. Im 19. Jahrhundert war Brass das Zentrum eines mächtigen Königreiches von Händlern, die den Palmölfluss kontrollierten. Heute ist es eine Hochsicherheitszone der Ölindustrie. Es ist zudem als Standort für ein riesiges, bisher aber oft verschobenes Projekt für verflüssigtes Erdgas (Brass LNG) geplant, das die Region weiter transformieren soll. Geschichte K8 — Königreiche des Palmöls und Energiekonzerne.",
+      "factsAdvanced": [
+        "Betrieben durch die Nigerian Agip Oil Company (Tochter der italienischen Eni).",
+        "Liegt im Bundesstaat Bayelsa an der Küste der Bucht von Bonny.",
+        "Die historische Stadt Brass ('Nembe') war berühmt für mutige Palmölhändler.",
+        "Exportiert den hochwertigen, sehr leichten 'Brass River Blend'.",
+        "Wegen der isolierten Lage kommt es häufig zu Konflikten mit lokalen Gemeinden.",
+        "Vorgesehener Standort für die geplante Mega-Anlage 'Brass LNG'."
+      ]
+    }
+  ]
+}

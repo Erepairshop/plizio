@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "leuchtturm-swakopmund-history-v2",
+      "descriptionAdvanced": "A Swakopmundi Világítótorony Namíbia atlanti partvidékének egyik legikonikusabb tengerészeti műemléke. Az eredetileg 11 méter magas tornyot 1902-ben adta át a német gyarmati adminisztráció, majd a megnövekedett kikötői forgalom és a tengeri köd miatt 1910-ben további 10 méterrel megmagasították. A jellegzetes, piros-fehér sávosra festett építmény nemcsak a tengerészek számára volt létfontosságú iránymutató az alattomos Skeleton Coast közelsége miatt, hanem ma a város fő turisztikai szimbóluma is. Tövében történelmi épületek, valamint egy hangulatos kézműves piac és éttermek kaptak helyet. Történelem K7 — tengerészeti navigáció és gyarmati kikötők",
+      "factsAdvanced": [
+        "1902 júliusában avatták fel, akkor még csak 11 méter magas volt",
+        "1910-ben egy extra betonréteggel 21 méteresre magasították",
+        "Klasszikus piros-fehér csíkos festése van a könnyebb láthatóság érdekében",
+        "A német birodalmi (Schutztruppe) időszak mérnöki alkotása",
+        "Ma a torony aljában a helyi múzeum és turisztikai szolgáltatók működnek",
+        "Működése máig kulcsfontosságú a partmenti, gyakran sűrű köddel borított vizeken"
+      ]
+    },
+    {
+      "id": "hohenzollernhaus-history-v2",
+      "descriptionAdvanced": "A Hohenzollern-ház Swakopmund egyik leglenyűgözőbb és leginkább díszített történelmi épülete. 1906-ban emelték elegáns hotelként és kaszinóként, stílusában a dél-németországi és osztrák neobarokk elemek keverednek. Az épület tetejét a görög mitológiából ismert Atlasz szobra díszíti, amint a földgolyót tartja a vállán. Noha rövid ideig működött luxusszállóként, az első világháború és az azt követő gazdasági változások miatt funkciója megváltozott; később városi adminisztrációs épületként, napjainkban pedig exkluzív magánlakásokként funkcionál. Építészeti jelentősége miatt a namíbiai nemzeti örökség kiemelt védelmét élvezi. Történelem K8 — gyarmati luxusépítészet",
+      "factsAdvanced": [
+        "1906-ban épült Hermann Dietz tervei alapján, eredetileg luxushotelnek",
+        "Homlokzatát lenyűgöző stukkók, oroszlánfejek és vízköpők (gargoyles) díszítik",
+        "Nevét a német császári Hohenzollern-ház (uralkodócsalád) tiszteletére kapta",
+        "Kupolájának tetején Atlasz, a földgolyót tartó titán szobra áll",
+        "Az első világháború után szálloda funkciója megszűnt, közigazgatási iroda lett",
+        "1972-ben nemzeti műemlékké nyilvánították"
+      ]
+    },
+    {
+      "id": "woermannhaus-history-v2",
+      "descriptionAdvanced": "A Woermann-ház a Damara-toronnyal Swakopmund egyik leghíresebb és legnagyobb hatású történelmi kereskedelmi épülete. 1905-ben a Woermann-Linie – a kor legbefolyásosabb német hajózási és kereskedelmi vállalata – építtette főhadiszállásaként. Az épület favázas (Fachwerk) stílusa és dús fafaragásai egy hamisítatlan észak-német kereskedőházat idéznek a sivatag peremén. A hozzá tartozó magas Damara-torony (Damaraturm) kettős célt szolgált: innen figyelték a nyílt óceánon közeledő teherszállító hajókat, és a szárazföld felé közeledő ökrösszekér-karavánokat a sivatagban. Ma galériának és könyvtárnak ad otthont. Történelem K8 — tengeri kereskedelmi monopóliumok",
+      "factsAdvanced": [
+        "1905-ben épült Friedrich Höft építész tervei alapján",
+        "A német Woermann-Linie hajózási társaság délnyugat-afrikai központja volt",
+        "Építészeti stílusa az észak-németországi favázas (Fachwerk) dizájnt tükrözi",
+        "A Damara-torony megfigyelőpontként működött az óceán és a sivatag felé",
+        "A 20. század során volt brit katonai szállás és diákkollégium is",
+        "Az 1970-es évekbeli felújítása óta városi könyvtárként és galériaként működik"
+      ]
+    },
+    {
+      "id": "eduard-bohlen-history-v2",
+      "descriptionAdvanced": "Az Eduard Bohlen hajóroncs a Skeleton Coast (Csontvázpart) egyik leghíresebb és legszürreálisabb látványossága, amely Concepción-öböl közelében fekszik. A 95 méter hosszú, több mint 2 200 tonnás német gőzhajó 1909 szeptemberében futott zátonyra a sűrű parti ködben. Ami a roncsot egyedülállóvá teszi a világon, hogy a partvonal folyamatos változása (a sivatag terjeszkedése az óceán rovására) miatt a hajó mára csaknem fél kilométerre a tengerparttól, mélyen a homokdűnék között rekedt. Ez a hatalmas, rozsdásodó vastömeg a végtelen homoktengerben drámai vizuális emlékeztető a természet megállíthatatlan erejére. Földrajz K8 — partvonal-változások és sivatagosodás",
+      "factsAdvanced": [
+        "1909. szeptember 5-én futott zátonyra sűrű ködben, rakománnyal a fedélzetén",
+        "A Woermann-Linie társaság teher- és utasszállító gőzhajója volt",
+        "A sivatag előrenyomulása miatt ma kb. 400-500 méterre fekszik az óceántól",
+        "Roncsai az egyik leggyakrabban fotózott motívumok a Csontvázparton",
+        "Mérete lenyűgöző: eredeti hossza 95 méter (310 láb) volt",
+        "Csak engedéllyel, speciális 4x4-es sivatagi túrákkal vagy repülőről látható"
+      ]
+    },
+    {
+      "id": "bogenfels-diamantensiedlung-history-v2",
+      "descriptionAdvanced": "A Bogenfels Gyémánttelep egy egykor virágzó, ma elhagyatott ipari komplexum a Namíb-sivatag lezárt gyémántövezetében (Sperrgebiet), Lüderitztől délre. A települést 1909 körül hozták létre, miután ezen a barátságtalan, viharos partszakaszon óriási mennyiségű alluviális gyémántot fedeztek fel. A telep nem lakóváros volt (mint Kolmanskop), hanem egy masszív, német gépekkel felszerelt mosó- és válogatóüzem, amely tengervízzel mosta át a gyémánttartalmú sivatagi homokot. Amikor az 1920-as évek végén a gazdagabb, déli lelőhelyeket (Oranjemund) megnyitották, az üzemet elhagyták. Ma a korabeli ipari forradalom sivatagban hagyott mementójaként rozsdásodik. Történelem K8 — korai ipari bányászat Afrikában",
+      "factsAdvanced": [
+        "A 20. század eleji namíbiai gyémántláz egyik legfontosabb feldolgozó üzeme",
+        "Nem lakóváros, hanem szigorú funkciójú ipari (gyémántmosó) létesítmény volt",
+        "Közvetlenül az Atlanti-óceán partján, a hatalmas Bogenfels sziklaív közelében áll",
+        "1910 és 1914 között több százezer karát gyémántot termeltek itt ki",
+        "A gyárat nagy teljesítményű tengervíz-szivattyúkkal látták el",
+        "Jelenleg a Sperrgebiet lezárt zónájában lévő, lassan pusztuló műemlék"
+      ]
+    },
+    {
+      "id": "pomona-geisterstadt-history-v2",
+      "descriptionAdvanced": "Pomona a Sperrgebiet lezárt sivatagi övezetének legelhagyatottabb és legszürreálisabb szellemvárosa, mely a hírhedt 'Pomona gyémántbányászati zóna' (Ida völgye) központja volt. Az 1910-es évek elején az itteni gyémántkészletek olyan hihetetlenül gazdagok voltak, hogy a munkások a telihold fényénél is puszta kézzel szedegették a drágaköveket a homokból. A terület azonban Földünk egyik legszelesebb pontja; a kíméletlen sivatagi viharok miatt a munkakörülmények embertelenek voltak. Az 1930-as évekre a terület kimerült, Pomona elnéptelenedett, ma pedig a vándorló homokdűnék lassan, de biztosan temetik maguk alá a német stílusú iskola, orvosi rendelő és bányászházak romjait. Történelem K8 — a gyémántláz emberi ára",
+      "factsAdvanced": [
+        "Az 1910-es években Namíbia (és a világ) egyik leggazdagabb gyémántlelőhelye volt",
+        "1912 körül mintegy 1 000 ember lakott a kietlen sivatagi városban",
+        "A terület a Föld egyik legszelesebb helye, állandó homokviharokkal",
+        "Gyémántjai olyan nagyok és tiszták voltak, hogy szó szerint a felszínről szedték fel őket",
+        "A város egykor saját iskolával, orvosi klinikával és bálteremmel is rendelkezett",
+        "Az 1930-as évekre a kitermelés visszaesett, a lakosság pedig végleg elhagyta"
+      ]
+    },
+    {
+      "id": "diaz-spitze-history-v2",
+      "descriptionAdvanced": "A Diaz-fok (Diaz Point) egy meredek, sziklás félsziget Lüderitz közelében, amely kulcsfontosságú történelmi mérföldkő az európaiak afrikai felfedezőútjaiban. 1488. július 25-én a portugál felfedező, Bartolomeu Dias – aki az első európaiként kerülte meg a Jóreménység-fokát – visszaútján kikötött ezen a zord, szélfútta helyen, és a kereszténység nevében egy mészkőből faragott padraõt (kőkeresztet) állított fel. Az eredeti kereszt darabjai a 19. században múzeumokba (többek között Lisszabonba és Fokvárosba) kerültek, de egy pontos másolat ma is áll a fok legmagasabb pontján, dacolva a viharos atlanti hullámokkal és a hideg Benguela-áramlattal. Történelem K7 — portugál tengeri felfedezések",
+      "factsAdvanced": [
+        "1488 júliusában Bartolomeu Dias portugál navigátor partra lépésének helyszíne",
+        "Dias egy 'padraõt', egy portugál felségjelvényt (kőkeresztet) állított itt fel",
+        "Az eredeti 15. századi kereszt darabjait 1855-ben vitték el múzeumokba",
+        "A fokon ma a kőkereszt másolata és egy világítótorony is áll",
+        "Az erős szél és a hideg áramlatok miatt a helyi klíma rendkívül barátságtalan",
+        "Népszerű turistalátványosság a flamingókat és fókákat megfigyelők körében is"
+      ]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "descriptionAdvanced": "A Nakambale Múzeum Ondangwa közelében, az északi Omusati régióban található, és az owambo kultúra, valamint a finn misszionáriusok közös történelmének legfontosabb őrzője. Az 1889-ben alapított Olukonda missziós állomás területén működő múzeum nevét Martti Rautanen finn misszionáriusról kapta, akit a helyiek Nakambalénak (a kalaposnak) hívtak, jellegzetes fejfedője miatt. Rautanen kulcsszerepet játszott a helyi nyelv (ndonga) írásbeliségének megteremtésében és az első bibliafordításokban. A múzeum területén áll az eredeti 19. századi missziós templom, valamint egy hagyományos owambo királyi udvartartás (kraal) pontos másolata. Történelem K8 — skandináv misszionáriusok Afrikában",
+      "factsAdvanced": [
+        "Ondangwa városától mindössze 14 kilométerre délnyugatra, Olukondában található",
+        "Martti Rautanen finn evangélikus misszionárius otthona volt 1889-től",
+        "A 'Nakambale' név jelentése a helyi ndonga nyelven: 'A kalapot viselő ember'",
+        "A komplexum része Namíbia északi részének legrégebbi (1893-ban épült) temploma",
+        "A múzeum bemutatja a finn misszió tárgyait és az owambo néprajzi ritkaságokat",
+        "Területén egy autentikus, cölöpökből épült owambo lakókomplexum (kraal) is felépült"
+      ]
+    },
+    {
+      "id": "ombalantu-baobab-history-v2",
+      "descriptionAdvanced": "Az Ombalantu Baobab-fa (majomkenyérfa) Outapi városában nem csupán Namíbia egyik legidősebb fája, hanem egy élő történelmi és kulturális emlékmű. Becslések szerint több mint 800 éves, gigantikus törzsének kerülete meghaladja a 28 métert. Az évszázadok során a fát belülről kivájták; a 19. században az Ombalantu nép menedékhelyként használta a törzsi háborúk (főleg fosztogató csapatok) elől. Később, a dél-afrikai fennhatóság idején postahivatalként, majd egy kávézóként, pa az 1940-es évektől katolikus missziós kápolnaként (mely mintegy 35 ember befogadására alkalmas) funkcionált. Ma kiemelkedő nemzeti örökség, az ellenálló képesség szimbóluma. Biológia K8 — baobab fák anatómiája és kulturális szerepe",
+      "factsAdvanced": [
+        "Korát a szakértők legalább 800 évre becsülik",
+        "A fa hatalmas, odvas törzsének kerülete eléri a 28 métert",
+        "A 19. században az Aambalantu törzs menedéke volt a támadások idején",
+        "1940-től egy apró római katolikus kápolnaként funkcionált az üreges törzs",
+        "Története során postahivatal és katonai menedék is volt",
+        "Jelenleg nemzeti műemlékként védett, és népszerű turisztikai zarándokhely"
+      ]
+    },
+    {
+      "id": "turnhalle-windhoek-history-v2",
+      "descriptionAdvanced": "A windhoeki Turnhalle egy meghatározó jelentőségű történelmi épület, amelyet 1909-ben a németországi tornamozgalmak (Turnvereine) helyi központjaként építettek, de politikai szerepe tette híressé. Az épület adott otthont a hírhedt 1975–1977-es Turnhalle Alkotmányozó Konferenciának, ahol Dél-Afrika és a namíbiai (akkor Délnyugat-Afrika) etnikai csoportok képviselői próbáltak egy függetlenségi tervet kidolgozni a SWAPO függetlenségi mozgalom kizárásával. Noha az itteni tervezet nem kapott nemzetközi elismerést, az épület a namíbiai politikai útkeresés szimbóluma maradt. 2003-tól egy évtizedig itt ülésezett a SADC (Dél-Afrikai Fejlesztési Közösség) Bírósága is. Történelem K8 — dél-afrikai apartheid és namíbiai függetlenség",
+      "factsAdvanced": [
+        "1909-ben épült, eredetileg a Windhoeker Turnverein (Tornászklub) sportcsarnokaként",
+        "Az 1975–1977 közötti Turnhalle Alkotmányozó Konferencia helyszíne",
+        "A dél-afrikai apartheid rezsim itt próbálta megszervezni az ország belső önkormányzatát",
+        "A nemzetközi közösség és a SWAPO elutasította a konferencia eredményeit",
+        "2003 és 2012 között a Dél-Afrikai Fejlesztési Közösség (SADC) Törvényszékének adott otthont",
+        "Stílusában az 1900-as évek eleji német funkcionalista középületeket idézi"
+      ]
+    },
+    {
+      "id": "schwerinsburg-history-v2",
+      "descriptionAdvanced": "A Schwerinsburg (Schwerin-vár) a három ikonikus windhoeki kastély (Sanderburg, Heinitzburg, Schwerinsburg) közül a legnagyobb, amely lenyűgöző kilátással uralja a várost egy hegytetőről. Eredetileg Curt von François német őrnagy építtette a tornyát 1890-ben katonai megfigyelőpontként (Sperlingslust néven). 1913-ban Wilhelm Sander, a korszak leghíresebb namíbiai építésze vásárolta meg, és ő alakította át a ma is látható romantikus, német lovagvárakat idéző kastéllyá Hans von Schwerin-Löwitz gróf számára. Különös története ellenére ma a kastély nem látogatható a nagyközönség számára, mivel jelenleg az Olasz Köztársaság namíbiai nagykövetének hivatalos rezidenciájaként működik. Történelem K7 — diplomáciai rezidenciák építészete",
+      "factsAdvanced": [
+        "A három híres windhoeki dombtető-kastély (Sanderburg, Heinitzburg) legnagyobbika",
+        "Az eredeti tornyát (Sperlingslust) Curt von François építette 1890-ben",
+        "1913-ban Wilhelm Sander építész építette át neogótikus lovagvárrá",
+        "A nevét a kastélyt megrendelő Hans von Schwerin-Löwitz grófról kapta",
+        "Falakhoz a környező hegyekből származó természetes terméskövet használtak",
+        "Jelenleg az Olaszország namíbiai nagykövetének privát rezidenciája"
+      ]
+    },
+    {
+      "id": "heinitzburg-history-v2",
+      "descriptionAdvanced": "A Heinitzburg a windhoeki hegyvidék második kastélya, amelyet szintén a termékeny építész, Wilhelm Sander tervezett 1914-ben. Az épületet a Schwerinsburg tulajdonosa, von Schwerin gróf rendelte meg egy romantikus gesztusként: várandós feleségének, Margarethe von Heinitznek ajánlotta fel ajándékképpen (innen a név is). Bár az épület magán hordozza a német lovagvárak stílusjegyeit, kialakítása elegánsabb és polgáribb a szomszédos erődöknél. Az 1990-es évek végén egy namíbiai család vásárolta meg a történelmi műemléket, és az ország egyik legexkluzívabb luxusszállodájává (Hotel Heinitzburg) alakította át, ahonnan páratlan naplemente nézhető a Khomas-felföld felett. Történelem K8 — gyarmati örökség turisztikai hasznosítása",
+      "factsAdvanced": [
+        "1914-ben épült, tervezője a híres német építész, Wilhelm Sander volt",
+        "Hans von Schwerin gróf építtette feleségének, Margarethe von Heinitznek",
+        "Stílusát a romantikus 19. századi német várkastélyok ihlették",
+        "Hosszú ideig magánkézben lévő nemesi rezidenciaként funkcionált",
+        "1996-ban alakították át Windhoek egyik legfényűzőbb luxushoteljévé",
+        "A Relais & Châteaux nemzetközi luxusszálloda-szövetség tagja"
+      ]
+    },
+    {
+      "id": "tintenpalast-history-v2",
+      "descriptionAdvanced": "A Tintenpalast (Tintapalota) Namíbia politikai szíve, a windhoeki kormányzati és parlamenti negyed központja. A fenséges, teraszos kertekkel körülvett épületet 1913-ban adták át, mint a Német Délnyugat-Afrika gyarmati adminisztrációjának főhadiszállását. A gúnyos "Tintapalota" nevet a helyi lakosok adták az épületnek a gyarmati bürokraták (a 'tintanyalók') hatalmas papírmunkájára és tintafogyasztására utalva. Stílusát a helyi klimatikus viszonyokhoz igazították: árkádos teraszai hűtik a belső tereket, és lenyűgöző kilátást biztosítanak a parlament parkjára. Ma a független Namíbia Nemzetgyűlése (National Assembly) és a Nemzeti Tanács (National Council) ülésezik itt. Történelem K8 — kormányzati épületek és parlamentarizmus",
+      "factsAdvanced": [
+        "1913-ban adták át a német gyarmati kormányzat adminisztratív központjaként",
+        "A 'Tintapalota' név a túlzott gyarmati bürokráciára (tintafogyasztásra) utaló gúnynév",
+        "Építőanyaga helyben bányászott kőből és importált német téglából áll",
+        "Szándékosan úgy tervezték (árnyékos teraszok), hogy légkondicionálás nélkül is hűvös maradjon",
+        "A függetlenség óta Namíbia kétkamarás parlamentjének (Nemzetgyűlés és Nemzeti Tanács) ad otthont",
+        "A palotát övező gondozott, olajfás park népszerű piknikező hely a windhoeki lakosok körében"
+      ]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "descriptionAdvanced": "A Goerke-ház Lüderitz egyik legkiválóbb állapotban megőrzött történelmi villája, amely a Gyémánt-hegy (Diamantberg) sziklás oldalában áll, a Sziklatemplom közvetlen szomszédságában. Az épületet 1910-ben emelték a helyi gyémántbányászat egyik vezető alakja, Hans Goerke hadnagy és felügyelő (Inspector) számára. A fényűző villa stílusa ötvözi a bajor Art Nouveau (szecessziós) jegyeket a zord sivatagi környezethez igazodó praktikummal. A hatalmas ablakok a napfény maximalizálását és a pazar óceáni panorámát szolgálták. A Namdeb vállalat a 20. század végén az eredeti tervek alapján pompásan restaurálta, és a nagyközönség számára múzeumként megnyitotta. Történelem K7 — gyémántbárók villái és szecesszió",
+      "factsAdvanced": [
+        "1910-ben épült a Diamantberg lejtőjén Hans Goerke, a gyémántipar vezetője számára",
+        "Építészeti stílusa a németországi Jugendstil (szecesszió) afrikai adaptációja",
+        "Eredeti faborításai és színes ólomüveg ablakai szinte sértetlenül fennmaradtak",
+        "Az 1920-as években az épületet a délnyugat-afrikai gyémánttársaság (CDM) vásárolta meg",
+        "A 20. század végén átfogó restauráláson esett át a Namdeb jóvoltából",
+        "Jelenleg az egyik legnépszerűbb múzeumház és műemlék Lüderitzben"
+      ]
+    },
+    {
+      "id": "marine-denkmal-history-v2",
+      "descriptionAdvanced": "A Tengerészeti Emlékmű (Marine Denkmal) Swakopmund belvárosának egyik kiemelkedő történelmi szobra, a nyári rezidencia közelében. Az 1908-ban felállított, bronzból öntött műalkotás egy tengerészgyalogost ábrázol, aki harcra készen áll egyik kezében puskával, miközben sebesült társát támogatja. Az emlékmű a német Első Tengerészeti Expedíciós Hadtest (1. Marine-Expeditionskorps) katonáinak állít emléket, akik az 1904-es herero háború idején estek el a gyarmati küzdelmekben. Bár a szobor művészi kivitelezése lenyűgöző (Berlinben öntötték), jelenléte a modern, független Namíbiában ellentmondásos, mivel a gyarmati elnyomás és a népirtás időszakára emlékeztet. Történelem K8 — gyarmati emlékművek és dekolonizáció",
+      "factsAdvanced": [
+        "1908 júliusában avatták fel a swakopmundi városháza közelében",
+        "Albert Moritz Wolff berlini szobrászművész tervezte és alkotta",
+        "Az 1904-es háborúban elesett német tengerészgyalogosok emlékműve",
+        "A bronzszobrot hajón szállították Németországból Swakopmund kikötőjébe",
+        "Két alakot ábrázol: egy fegyvert fogó tengerészt és egy haldokló társát",
+        "Mint számos gyarmati emlékmű, létezése a mai napig történelmi viták tárgya Namíbiában"
+      ]
+    },
+    {
+      "id": "apollo-11-hoehle-history-v2",
+      "descriptionAdvanced": "Az Apollo 11 barlang a Karas régióban, a dél-namíbiai Nu-Nabes-hegység elszigetelt, sziklás kanyonjaiban található, és Afrika egyik legfontosabb régészeti lelőhelye. A barlang nem a benne lévő falfestmények, hanem az ásatások során előkerült hordozható, festett kőtáblácskák (sziklaművészeti fragmentumok) miatt világhírű. Wolfgang Wendt német régész az 1969-es ásatásai során fedezte fel ezeket a leleteket, pont akkor, amikor az Apollo 11 űrhajó sikeresen visszatért a Holdról – innen kapta a barlang is a nevét. A radiokarbonos kormeghatározás bebizonyította, hogy ezek a faszénnel és okkerrel festett, állatokat formázó kövek körülbelül 25 000–27 000 évesek, így az afrikai kontinens legrégebbi ismert művészeti alkotásai közé tartoznak. Történelem K8 — paleolitikum és korai emberi művészet",
+      "factsAdvanced": [
+        "Dél-Namíbiában, az elszigetelt Huns-hegység (Goageb) kanyonjában található",
+        "Wolfgang Wendt német archeológus végezte itt a legfontosabb ásatásokat 1969-ben",
+        "Nevét az Apollo 11 űrküldetésről (holdraszállás) kapta, amely egybeesett a felfedezéssel",
+        "A leghíresebb leletek a faszénnel és okkerrel festett, mozgatható kőlapocskák",
+        "Ezek az ábrázolások körülbelül 25 000–27 000 évesek a C14-es kormeghatározás alapján",
+        "Afrika, sőt az egész világ legősibb figuratív művészeti alkotásai közé tartoznak"
+      ]
+    },
+    {
+      "id": "altes-amtsgericht-history-v2",
+      "descriptionAdvanced": "A Régi Járásbíróság (Altes Amtsgericht) épülete Swakopmund belvárosának egyik gyöngyszeme, amely monumentális, neobarokk homlokzatával hívja fel magára a figyelmet. Otto Ertl kormányzati építész tervei alapján készült 1908-ban, és kezdetben magániskolaként funkcionált. Ahogy a város adminisztratív jelentősége megnőtt, az állam megvásárolta, és hivatalos járásbírósággá (Amtsgericht) alakította. A masszív téglaépületet gazdagon díszített oromzat és ívelt ablakok teszik egyedivé, amelyek hűen tükrözik a császári Németország délnyugat-afrikai reprezentációs törekvéseit. Jelenleg kormányzati hivatalok és önkormányzati irodák működnek benne. Történelem K8 — gyarmati igazságszolgáltatás építészete",
+      "factsAdvanced": [
+        "1908-ban emelték Otto Ertl német gyarmati építész tervei alapján",
+        "Eredetileg magániskolaként (Privatschule) kezdte meg a működését",
+        "Később a német adminisztráció megvásárolta és Járásbírósággá alakította át",
+        "A homlokzaton egy feltűnő óratorony és oroszlánfejes stukkók is találhatók",
+        "Az 1970-es években műemléki védettséget kapott az államtól",
+        "Dizájnja a Németországban honos Wilhelmine (császári) neobarokk stílust követi"
+      ]
+    },
+    {
+      "id": "rheinische-missionskirche-history-v2",
+      "descriptionAdvanced": "A Rajnai Missziós Templom (Rhenish Mission Church) Walvis Bay legrégebbi máig fennmaradt történelmi épülete, amely a hatalmas, zord kikötőváros szívében, a kikötői övezet közelében bújik meg. A fából épült templom szerkezetét 1880-ban egyenesen a németországi Hamburgban (mások szerint Norvégiában) gyártották előre, majd hajón, darabokban (flat-pack) szállították le Afrikába, ahol a misszionáriusok építették össze. A vaskos fagerendákból álló, ólomüveges apró templom több mint egy évszázada dacol a pusztító tengeri köddel és a homokviharokkal. Nemcsak a kereszténység korai terjedésének, hanem a 19. századi előregyártott faház-építészetnek is páratlan mementója. Történelem K7 — missziók és előregyártott építészet a 19. században",
+      "factsAdvanced": [
+        "Walvis Bay legidősebb, még eredeti helyén álló építészeti emléke",
+        "Előregyártott faszerkezet, melyet Európából hajóztak Namíbiába 1880-ban",
+        "A Rajnai Missziós Társaság (Rheinische Missionsgesellschaft) finanszírozta",
+        "Az egykor ellenséges sivatagi környezet és a tengeri só dacára is épségben maradt",
+        "Korai éveiben nemcsak templomként, hanem iskolaként is működött az őslakosok számára",
+        "1972-ben került fel a namíbiai nemzeti műemlékek listájára"
+      ]
+    },
+    {
+      "id": "christuskirche-windhoek-landmarks-v2",
+      "descriptionAdvanced": "A windhoeki Krisztus-templom (Christuskirche) az ország legikonikusabb és legtöbbet fényképezett történelmi épülete, amely a főváros szívében, egy dombtetőn áll. A lutheránus templomot 1910-ben, a herero és nama háborúk lezárulta után szentelték fel a "béke templomaként". Az épület stílusa különleges keveréke a neoromán és az Art Nouveau (Jugendstil) építészetnek. A falakhoz a helyi Avis-hegységből származó kvarchomokkövet használtak, az építőanyagok és díszítőelemek nagy része – köztük a harangok, az orgona és az eredeti ólomüveg ablakok, amelyeket II. Vilmos császár adományozott – azonban egyenesen Németországból érkezett hajón. Történelem K8 — gyarmati építészet és szimbolizmus",
+      "factsAdvanced": [
+        "1910-ben szentelték fel, a herero és nama háborúk végét követően",
+        "Gottlieb Redecker német építész tervezte neoromán és szecessziós stílusban",
+        "Az oltár fölötti festett ólomüveg ablakokat II. Vilmos német császár adományozta",
+        "Az épület falait helyben bányászott homokkőből (quartz sandstone) emelték",
+        "A három bronzharang Németországból származik, nevük: Harmónia, Béke és Dicsőség",
+        "A templom ma is a németajkú lutheránus gyülekezet aktív központja"
+      ]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "descriptionAdvanced": "A Tintenpalast (Tintapalota) Namíbia politikai szíve, a windhoeki kormányzati és parlamenti negyed központja. A fenséges, teraszos kertekkel körülvett épületet 1913-ban adták át, mint a Német Délnyugat-Afrika gyarmati adminisztrációjának főhadiszállását. A gúnyos "Tintapalota" nevet a helyi lakosok adták az épületnek a gyarmati bürokraták (a 'tintanyalók') hatalmas papírmunkájára és tintafogyasztására utalva. Stílusát a helyi klimatikus viszonyokhoz igazították: árkádos teraszai hűtik a belső tereket, és lenyűgöző kilátást biztosítanak a parlament parkjára. Ma a független Namíbia Nemzetgyűlése (National Assembly) és a Nemzeti Tanács (National Council) ülésezik itt. Történelem K8 — kormányzati épületek és parlamentarizmus",
+      "factsAdvanced": [
+        "1913-ban adták át a német gyarmati kormányzat adminisztratív központjaként",
+        "A 'Tintapalota' név a túlzott gyarmati bürokráciára (tintafogyasztásra) utaló gúnynév",
+        "Építőanyaga helyben bányászott kőből és importált német téglából áll",
+        "Szándékosan úgy tervezték (árnyékos teraszok), hogy légkondicionálás nélkül is hűvös maradjon",
+        "A függetlenség óta Namíbia kétkamarás parlamentjének (Nemzetgyűlés és Nemzeti Tanács) ad otthont",
+        "A palotát övező gondozott, olajfás park népszerű piknikező hely a windhoeki lakosok körében"
+      ]
+    },
+    {
+      "id": "independence-memorial-museum-landmarks-v2",
+      "descriptionAdvanced": "A Függetlenségi Emlékmúzeum (Independence Memorial Museum) egy monumentális, hipermodern építmény, amely Windhoek sziluettjét uralja a Tintenpalast és az Alte Feste szomszédságában. Az észak-koreai építészcégek által 2014-ben befejezett arany- és bronzszínű üvegkomplexum a namíbiai gyarmatosítás elleni küzdelmet, a herero-nama népirtást és a SWAPO vezette függetlenségi háború (1966-1990) eseményeit mutatja be részletesen. Az épület elé állították fel a hatalmas Sam Nujoma szobrot (Namíbia első elnöke), aki a függetlenségi alkotmányt tartja a kezében, elfoglalva a korábbi német Lovas Emlékmű (Reiterdenkmal) történelmi helyét. Történelem K8 — dekolonizáció és nemzeti emlékezet",
+      "factsAdvanced": [
+        "2014-ben adták át a nagyközönségnek Namíbia függetlenségének 24. évfordulóján",
+        "A projektet a vitatott észak-koreai Mansudae Overseas Projects kivitelezte",
+        "Az épület formája és üvegborítása egy aranykelyhet (vagy kávéfőzőt, ahogy a helyiek gúnyolják) formáz",
+        "Három fő kiállítószintje a gyarmati ellenállást és a szabadságharcot dolgozza fel",
+        "Az épület előtt áll Sam Nujoma hatalmas, bronzból öntött szobra",
+        "Legfelső emeletéről körpanorámás (360 fokos) kilátás nyílik egész Windhoekra"
+      ]
+    },
+    {
+      "id": "heroes-acre-windhoek-landmarks-v2",
+      "descriptionAdvanced": "A Hősök Tere (Heroes' Acre) egy grandiózus, észak-koreai építőipari cégek által tervezett és épített nemzeti emlékmű Windhoek déli határában, az Auas-hegység oldalában. A 2002-ben Sam Nujoma elnök által felavatott gigantikus komplexum célja, hogy örök emléket állítson a namíbiai függetlenségi háború mártírjainak és az ország hőseinek. A szimmetrikus, obeliszkkel, öröklánggal és egy hatalmas ismeretlen katonát ábrázoló bronzszoborral díszített építményhez hosszú lépcsősor vezet fel. Bár építészeti stílusa (szocialista realizmus) vitákat váltott ki, az emlékmű a független Namíbia nemzeti büszkeségének egyik legfőbb zarándokhelye. Történelem K8 — nemzeti emlékezet és emlékművek",
+      "factsAdvanced": [
+        "2002. augusztus 26-án (Hősök Napján) avatták fel Windhoek közelében",
+        "Az észak-koreai Mansudae Overseas Projects vállalat tervezte és kivitelezte",
+        "Középpontjában egy 8 méteres ismeretlen katona bronzszobra áll",
+        "Hatalmas, fehér márvánnyal borított obeliszkje 34 méter magas",
+        "Itt található számos jelentős namíbiai történelmi személy és szabadságharcos sírja",
+        "A projekt a becslések szerint több millió amerikai dollárba került"
+      ]
+    },
+    {
+      "id": "woermannhaus-landmarks-v2",
+      "descriptionAdvanced": "A Woermannhaus Swakopmund történelmi magjának egyik legszebb, észak-német favázas (Fachwerk) stílusú épülete, a város emblematikus látványossága. A Woermann-Linie kereskedelmi hajózási vállalat építtette 1905-ben irodaházként és a helyi személyzet lakhelyeként. Az épületegyüttes leglátványosabb része a faerkélyes Damara-torony (Damaraturm), ahonnan egykor távcsővel figyelték az Atlanti-óceánon közeledő gőzhajókat és a sivatagból érkező teherszállító karavánokat. Az évtizedek során a funkciója sokat változott (volt diákkollégium is), ma a városi könyvtárnak, művészeti galériáknak és az épület történetét bemutató kis múzeumnak ad otthont. Történelem K8 — gyarmati tengeri kereskedelem",
+      "factsAdvanced": [
+        "1905-ben tervezte Friedrich Höft építész a Woermann kereskedőház számára",
+        "Tökéletes példája a Németország északi részén hagyományos 'Fachwerk' építészetnek",
+        "A Damara-torony fontos logisztikai megfigyelőpont (kilátó) volt a kikötőben",
+        "Az 1970-es években egy nagyobb restauráción esett át, majd nemzeti műemlék lett",
+        "A belső udvar és az árkádok az afrikai klímához adaptálják az európai stílust",
+        "Jelenleg a Swakopmund Arts Association (Művészeti Egyesület) bázisa is"
+      ]
+    },
+    {
+      "id": "swakopmund-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Swakopmundi Világítótorony Namíbia atlanti partvidékének egyik legikonikusabb tengerészeti műemléke. Az eredetileg 11 méter magas tornyot 1902-ben adta át a német gyarmati adminisztráció, majd a megnövekedett kikötői forgalom és a tengeri köd miatt 1910-ben további 10 méterrel megmagasították. A jellegzetes, piros-fehér sávosra festett építmény nemcsak a tengerészek számára volt létfontosságú iránymutató az alattomos Skeleton Coast közelsége miatt, hanem ma a város fő turisztikai szimbóluma is. Tövében történelmi épületek, valamint egy hangulatos kézműves piac és éttermek kaptak helyet. Történelem K7 — tengerészeti navigáció és gyarmati kikötők",
+      "factsAdvanced": [
+        "1902 júliusában avatták fel, akkor még csak 11 méter magas volt",
+        "1910-ben egy extra betonréteggel 21 méteresre magasították",
+        "Klasszikus piros-fehér csíkos festése van a könnyebb láthatóság érdekében",
+        "A német birodalmi (Schutztruppe) időszak mérnöki alkotása",
+        "Ma a torony aljában a helyi múzeum és turisztikai szolgáltatók működnek",
+        "Működése máig kulcsfontosságú a partmenti, gyakran sűrű köddel borított vizeken"
+      ]
+    },
+    {
+      "id": "hohenzollernhaus-swakopmund-landmarks-v2",
+      "descriptionAdvanced": "A Hohenzollern-ház Swakopmund egyik leglenyűgözőbb és leginkább díszített történelmi épülete. 1906-ban emelték elegáns hotelként és kaszinóként, stílusában a dél-németországi és osztrák neobarokk elemek keverednek. Az épület tetejét a görög mitológiából ismert Atlasz szobra díszíti, amint a földgolyót tartja a vállán. Noha rövid ideig működött luxusszállóként, az első világháború és az azt követő gazdasági változások miatt funkciója megváltozott; később városi adminisztrációs épületként, napjainkban pedig exkluzív magánlakásokként funkcionál. Építészeti jelentősége miatt a namíbiai nemzeti örökség kiemelt védelmét élvezi. Történelem K8 — gyarmati luxusépítészet",
+      "factsAdvanced": [
+        "1906-ban épült Hermann Dietz tervei alapján, eredetileg luxushotelnek",
+        "Homlokzatát lenyűgöző stukkók, oroszlánfejek és vízköpők (gargoyles) díszítik",
+        "Nevét a német császári Hohenzollern-ház (uralkodócsalád) tiszteletére kapta",
+        "Kupolájának tetején Atlasz, a földgolyót tartó titán szobra áll",
+        "Az első világháború után szálloda funkciója megszűnt, közigazgatási iroda lett",
+        "1972-ben nemzeti műemlékké nyilvánították"
+      ]
+    }
+  ]
+}

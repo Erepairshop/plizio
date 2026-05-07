@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "walvis-bay-cities-v2",
+      "descriptionAdvanced": "Walvis Bay, gelegen an der rauen Atlantikküste, ist Namibias wichtigster Seehafen und ein bedeutendes wirtschaftliches Zentrum. Die tief eingeschnittene Bucht wurde bereits 1487 von dem portugiesischen Seefahrer Bartolomeu Dias entdeckt. Heute ist die Stadt für ihre ausgedehnten Salzgewinnungsanlagen bekannt, die jährlich über 700.000 Tonnen Meersalz produzieren. Die angrenzende Lagune ist ein Ramsar-Feuchtgebiet von internationaler Bedeutung und zieht Hunderttausende von Vögeln, darunter große Schwärme von Rosaflamingos, an. Die Stadt war bis 1994 unter südafrikanischer Verwaltung, bevor sie offiziell an Namibia übergeben wurde. Geografie K7 — Küstenformen und Seehäfen.",
+      "factsAdvanced": [
+        "Wurde am 1. März 1994 offiziell Teil von Namibia.",
+        "Der Tiefseehafen schlägt jährlich über 5 Millionen Tonnen Fracht um.",
+        "Die lokale Salzpfanne erstreckt sich über ein Gebiet von etwa 3500 Hektar.",
+        "Die Walvis Bay Lagune ist Heimat von bis zu 250.000 Vögeln.",
+        "1487 landete Bartolomeu Dias an diesem natürlichen Hafen.",
+        "Die Stadt verzeichnet eine durchschnittliche jährliche Niederschlagsmenge von weniger als 15 mm."
+      ]
+    },
+    {
+      "id": "swakopmund-cities-v2",
+      "descriptionAdvanced": "Swakopmund wurde 1892 von Curt von François als wichtigster Hafen für Deutsch-Südwestafrika gegründet, obwohl die Küste keine natürliche Bucht bot. Heute ist die Stadt das beliebteste Seebad Namibias und fasziniert durch ihre gut erhaltene deutsche Kolonialarchitektur, wie das 1905 erbaute Woermannhaus und das Alte Amtsgericht. Die Stadt liegt genau dort, wo die extrem trockene Namib-Wüste auf den kalten Benguelastrom des Atlantiks trifft, was häufig für dichten Küstennebel sorgt. Neben dem historischen Charme hat sich Swakopmund als Zentrum für Abenteuersportarten etabliert. Geschichte K8 — Deutsche Kolonialzeit in Afrika.",
+      "factsAdvanced": [
+        "Gründung der Siedlung am 4. August 1892 durch Hauptmann Curt von François.",
+        "Das markante Woermannhaus wurde 1905 mit seinem 25 Meter hohen Damara-Turm errichtet.",
+        "Der historische Leuchtturm von Swakopmund ist 21 Meter hoch und wurde 1902 in Betrieb genommen.",
+        "Die Stadt liegt an der Mündung des meist trockenen Swakop-Flusses.",
+        "Trotz direkter Küstenlage fallen hier durchschnittlich nur etwa 20 mm Regen pro Jahr.",
+        "In der Nähe befindet sich die 1976 eröffnete Rössing-Mine, eine der größten Uranminen der Welt."
+      ]
+    },
+    {
+      "id": "oshakati-cities-v2",
+      "descriptionAdvanced": "Oshakati, im Norden des Landes gelegen, ist die Hauptstadt der Region Oshana und das größte urbane Zentrum in der bevölkerungsreichen Owambo-Ebene. Die 1966 offiziell gegründete Stadt erlebte während des namibischen Befreiungskampfes ein rasantes Wachstum und war ein wichtiger Stützpunkt. Heute ist Oshakati ein pulsierender Handelsknotenpunkt mit einem lebhaften Markt, dem Omatala, der das wirtschaftliche Herz der Region bildet. Das Stadtbild wird durch die saisonalen Überschwemmungsgebiete, die sogenannten Oshanas, geprägt, die nach starken Regenfällen das Landschaftsbild dramatisch verändern. Geografie K7 — Siedlungsentwicklung und Naturgefahren.",
+      "factsAdvanced": [
+        "Oshakati wurde im Juli 1966 während der südafrikanischen Verwaltung gegründet.",
+        "Die Stadt bildet zusammen mit Ongwediva und Ondangwa den zweitgrößten Ballungsraum Namibias.",
+        "Der Omatala-Markt ist einer der größten Open-Air-Märkte im nördlichen Namibia.",
+        "Die Region Oshana beherbergt etwa 10 Prozent der gesamten namibischen Bevölkerung.",
+        "Oshakati liegt auf einer durchschnittlichen Höhe von 1074 Metern über dem Meeresspiegel.",
+        "Die jährliche Überschwemmungszeit ('Efundja') liefert entscheidendes Wasser aus Angola."
+      ]
+    },
+    {
+      "id": "rehoboth-cities-v2",
+      "descriptionAdvanced": "Rehoboth liegt etwa 90 Kilometer südlich von Windhoek und ist das traditionelle Zentrum der Baster-Gemeinschaft in Namibia. Die Siedlung wurde 1845 von dem rheinischen Missionar Heinrich Kleinschmidt gegründet, musste jedoch später aufgegeben werden. 1870 ließen sich hier die Baster, eine Gruppe von Nachkommen der Khoikhoi und Kap-Holländern, unter der Führung von Hermanus van Wyk dauerhaft nieder. Die Stadt ist umgeben von heißen Thermalquellen, die Rehoboth zu einem beliebten Erholungsort machen. Die historische Bedeutung der Stadt ist eng mit den Autonomiebestrebungen ihrer Bewohner verbunden. Geschichte K7 — Migration und kulturelle Identität.",
+      "factsAdvanced": [
+        "1845 als Missionsstation durch Heinrich Kleinschmidt etabliert.",
+        "Die Rehoboth Baster siedelten sich hier im Jahr 1870 offiziell an.",
+        "Hermanus van Wyk war der erste Kaptein der Baster und führte sie nach Rehoboth.",
+        "Die Stadt liegt an der wichtigen Nationalstraße B1, die Windhoek mit Südafrika verbindet.",
+        "In der Nähe befindet sich der Oanob-Staudamm, der größte Stausee Südnamibias.",
+        "Die Thermalquellen von Rehoboth haben eine natürliche Wassertemperatur von etwa 39 Grad Celsius."
+      ]
+    },
+    {
+      "id": "katima-mulilo-cities-v2",
+      "descriptionAdvanced": "Katima Mulilo, malerisch am Ufer des Sambesi gelegen, ist die Hauptstadt der feuchttropischen Sambesi-Region im äußersten Nordosten Namibias. Die Stadt wurde 1935 von der britischen Kolonialverwaltung gegründet und löste Schuckmannsburg als regionales Verwaltungszentrum ab. Durch ihre strategische Lage grenzt die Region an Angola, Botswana, Simbabwe und Sambia. Die 2004 eröffnete Katima-Mulilo-Brücke über den Sambesi hat die Stadt zu einem entscheidenden Knotenpunkt für den länderübergreifenden Handel im südlichen Afrika gemacht. Die umliegende grüne Landschaft steht im starken Kontrast zum Rest des trockenen Landes. Geografie K7 — Flusssysteme und Grenzwirtschaft.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1935 offiziell als regionales Verwaltungszentrum gegründet.",
+        "Die Katima-Mulilo-Brücke, fertiggestellt 2004, ist 900 Meter lang.",
+        "Liegt in der Sambesi-Region, die die höchsten Niederschläge Namibias (über 600 mm/Jahr) verzeichnet.",
+        "Das Stadtgebiet befindet sich auf einer Höhe von rund 946 Metern.",
+        "Während des Caprivi-Konflikts 1999 kam es hier zu bewaffneten Auseinandersetzungen.",
+        "Die Stadt ist das Tor zu bedeutenden Wildschutzgebieten wie dem Bwabwata-Nationalpark."
+      ]
+    },
+    {
+      "id": "ondangwa-cities-v2",
+      "descriptionAdvanced": "Ondangwa ist eine der ältesten städtischen Siedlungen im nördlichen Namibia und liegt in der Region Oshikoto, etwa 80 Kilometer von der angolanischen Grenze entfernt. 1870 als Station der finnischen Missionsgesellschaft gegründet, entwickelte sich der Ort schnell zu einem wichtigen Zentrum für Bildung und Handel im Owamboland. Während des Unabhängigkeitskrieges war Ondangwa ein bedeutender südafrikanischer Militärstützpunkt. Heute verfügt die Stadt über den zweitwichtigsten Flughafen Namibias und ist ein entscheidender Handelsknotenpunkt für den Export nach Norden. Geschichte K8 — Missionsgeschichte und Kolonialzeit.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1870 durch finnische Missionare unter Martti Rautanen.",
+        "Der Flughafen Ondangwa wurde in den 1960er Jahren für militärische Zwecke erbaut.",
+        "Die Stadt liegt etwa 1080 Meter über dem Meeresspiegel.",
+        "2006 wurde die wichtige Eisenbahnverbindung von Tsumeb nach Ondangwa eröffnet.",
+        "Das Nakambale-Museum nahe Ondangwa zeigt die Geschichte der ersten finnischen Missionare.",
+        "Ondangwa bedeutet übersetzt 'das Ende des Gebiets der Ondonga-Könige'."
+      ]
+    },
+    {
+      "id": "okahandja-cities-v2",
+      "descriptionAdvanced": "Okahandja, rund 70 Kilometer nördlich der Hauptstadt Windhoek gelegen, wird oft als die 'Gartenstadt' Namibias bezeichnet und ist das historische Zentrum der Herero. Die Siedlung wurde 1850 von dem Missionar Friedrich Kolbe gegründet und liegt am Zusammenfluss von Swakop und Okamita. Die Stadt hat eine tiefe historische Bedeutung, da hier mehrere bedeutende Herero-Führer begraben sind, darunter Maharero und Hosea Kutako. Jährlich im August versammeln sich Tausende Herero am sogenannten Red Flag Day, um ihrer Vorfahren und der Opfer des Kolonialkrieges zu gedenken. Geschichte K8 — Der Herero-Aufstand und Kolonialkriege.",
+      "factsAdvanced": [
+        "1850 als Missionsstation durch Friedrich Kolbe etabliert.",
+        "Das Herero-Heldendenkmal ehrt unter anderem Chief Hosea Kutako, gestorben 1970.",
+        "Der Name Okahandja bedeutet 'der Ort, wo zwei Flüsse zusammenfließen'.",
+        "Am 12. Januar 1904 begann in der Nähe von Okahandja der Herero-Aufstand.",
+        "Die Stadt ist landesweit für ihren großen Holzschnitzermarkt bekannt.",
+        "Die nahegelegenen Thermalquellen von Gross Barmen erreichen bis zu 65 Grad Celsius."
+      ]
+    },
+    {
+      "id": "keetmanshoop-cities-v2",
+      "descriptionAdvanced": "Keetmanshoop ist das wirtschaftliche und administrative Zentrum von Südnamibia und liegt in der extrem trockenen Region ||Kharas. Die Stadt wurde 1866 von dem Missionar Johann Georg Schröder gegründet und zu Ehren des deutschen Industriellen Johann Keetman benannt, der die Mission finanzierte. Keetmanshoop ist ein wichtiger Eisenbahnknotenpunkt an der historischen Linie zwischen Windhoek und Upington in Südafrika. Berühmt ist die Umgebung für den nahegelegenen Köcherbaumwald, in dem rund 250 dieser endemischen, baumartigen Aloe-Pflanzen (Aloe dichotoma) wachsen. Geografie K7 — Trockengebiete und Infrastruktur.",
+      "factsAdvanced": [
+        "Gegründet im April 1866 durch die Rheinische Missionsgesellschaft.",
+        "Johann Keetman spendete 1000 Taler für die Errichtung der Missionsstation.",
+        "Die historische Rheinische Missionskirche von 1895 ist heute ein nationales Denkmal.",
+        "Der Köcherbaumwald nahe der Stadt beherbergt Pflanzen, die bis zu 300 Jahre alt sind.",
+        "Keetmanshoop verzeichnet extrem geringe Niederschläge von nur etwa 150 mm pro Jahr.",
+        "Der Ort liegt auf einer Höhe von 1000 Metern an der Trans-Namib-Eisenbahn."
+      ]
+    },
+    {
+      "id": "tsumeb-cities-v2",
+      "descriptionAdvanced": "Tsumeb ist eine der bedeutendsten Bergbaustädte Namibias und weltberühmt für ihren außergewöhnlichen Reichtum an seltenen Mineralien. Die Stadt wurde 1905 von der Otavi Minen- und Eisenbahn-Gesellschaft (OMEG) gegründet, um die massiven Kupfer-, Blei- und Zinkvorkommen abzubauen. Die Tsumeb-Mine brachte bis zu ihrer Schließung im Jahr 1996 über 280 verschiedene Mineralien zutage, von denen viele nirgendwo sonst auf der Welt vorkommen. Heute ist Tsumeb für seine von Jacaranda-Bäumen gesäumten Straßen und das hervorragende Tsumeb Museum, das die Bergbau- und Kolonialgeschichte dokumentiert, bekannt. Sachkunde K5 — Rohstoffe und Bergbau.",
+      "factsAdvanced": [
+        "Die Minensiedlung wurde 1905 durch die OMEG offiziell gegründet.",
+        "Die Tsumeb-Mine produzierte in über 90 Jahren etwa 30 Millionen Tonnen Erz.",
+        "Aus der Mine stammen über 70 Mineralarten (Typusmineralien), die hier erstmals entdeckt wurden.",
+        "Die Stadt ist das nördliche Ende der historischen Otavibahn, fertiggestellt 1906.",
+        "Nahe der Stadt befindet sich der Karstsee Otjikoto, aus dem im Ersten Weltkrieg deutsche Kanonen geborgen wurden.",
+        "Das Tsumeb Museum ist im 1915 erbauten Alten Minenkommissariat untergebracht."
+      ]
+    },
+    {
+      "id": "gobabis-cities-v2",
+      "descriptionAdvanced": "Gobabis, das Verwaltungszentrum der Omaheke-Region im Osten Namibias, gilt weithin als die 'Hauptstadt der Rinderzucht'. Die Siedlung wurde 1856 von dem rheinischen Missionar Friederich Eggert gegründet und liegt am meist trockenen Nossob-Fluss am Rande der Kalahari-Wüste. Der Name der Stadt leitet sich aus der Sprache der Khoekhoegowab ab und bedeutet so viel wie 'Ort, an dem die Elefanten trinken'. Gobabis ist der entscheidende wirtschaftliche Knotenpunkt auf dem Trans-Kalahari-Highway, der Namibias Hafen in Walvis Bay mit Botswana und der südafrikanischen Provinz Gauteng verbindet. Geografie K7 — Landwirtschaft und kontinentale Handelswege.",
+      "factsAdvanced": [
+        "1856 als Missionsstation unter dem Namen 'Friedensberg' gegründet.",
+        "Die Stadt ist das Zentrum einer Region mit über 800 kommerziellen Rinderfarmen.",
+        "Am Eingang der Stadt steht eine prominente Statue, die einen großen Brahman-Stier zeigt.",
+        "Gobabis markiert das Ende der namibischen Ostbahnlinie, die 1930 fertiggestellt wurde.",
+        "Die Stadt liegt auf einer Höhe von 1442 Metern über dem Meeresspiegel.",
+        "Der Trans-Kalahari-Highway, eine Schlüsselroute im SADC-Handel, verläuft direkt durch die Stadt."
+      ]
+    },
+    {
+      "id": "grootfontein-cities-v2",
+      "descriptionAdvanced": "Grootfontein liegt eingebettet in einem fruchtbaren Karstgebiet im Norden Namibias und zeichnet sich durch üppige Vegetation aus, die in starkem Kontrast zur umliegenden Savanne steht. Der Name, der auf Afrikaans 'Große Quelle' bedeutet, verweist auf die zahlreichen unterirdischen Wasserreservoirs der Region. Die Stadt wurde 1885 von Dorslandtrekkern (burischen Pionieren) gegründet, die hier kurzzeitig die kurzlebige Republik Upingtonia ausriefen. Weltbekannt ist Grootfontein für den Hoba-Meteoriten, den größten bekannten Meteoriten der Erde, der etwa 24 Kilometer westlich der Stadt liegt. Geschichte K7 — Pioniere und Naturphänomene.",
+      "factsAdvanced": [
+        "1885 als Hauptstadt der kurzlebigen Republik Upingtonia durch Dorslandtrekker etabliert.",
+        "Das historische Alte Fort der Schutztruppe wurde 1896 erbaut.",
+        "Der nahegelegene Hoba-Meteorit hat ein geschätztes Gewicht von 60 Tonnen.",
+        "Die Region gehört mit über 500 mm Jahresniederschlag zu den feuchtesten Gebieten des Landes.",
+        "Die Stadt liegt im sogenannten Otavi-Dreieck, einer wichtigen landwirtschaftlichen Zone.",
+        "Grootfontein war von 1990 bis 1999 Hauptquartier der namibischen Verteidigungsstreitkräfte."
+      ]
+    },
+    {
+      "id": "luderitz-cities-v2",
+      "descriptionAdvanced": "Lüderitz ist eine windgepeitschte Hafenstadt an der rauen Atlantikküste, umgeben von der lebensfeindlichen Namib-Wüste. Die Stadt wurde 1883 von dem Bremer Kaufmann Adolf Lüderitz gegründet und war die erste deutsche Siedlung im späteren Südwestafrika. Der Diamantenrausch von 1908 in der nahegelegenen Kolmanskuppe verhalf Lüderitz zu rasantem Reichtum, was sich noch heute in den prächtigen Jugendstil- und Kolonialbauten wie dem Goerke-Haus und der Felsenkirche widerspiegelt. Heute lebt die Stadt hauptsächlich von der Fischerei, dem Abbau von Offshore-Diamanten und dem wachsenden Tourismus. Geschichte K8 — Der Beginn der Kolonialzeit in Afrika.",
+      "factsAdvanced": [
+        "Im Mai 1883 erwarb Adolf Lüderitz die Bucht von dem Nama-Kaptein Josef Frederiks.",
+        "Die berühmte Felsenkirche wurde 1912 auf dem Diamantenberg eingeweiht.",
+        "Das prunkvolle Goerke-Haus wurde 1910 vom Leutnant Hans Goerke erbaut.",
+        "Lüderitz liegt an der Lüderitzbucht, einem natürlichen Naturhafen.",
+        "Der Diamantenrausch begann 1908, als August Stauch bei Kolmanskuppe Diamanten fand.",
+        "Auf der nahegelegenen Haifischinsel befand sich zwischen 1905 und 1907 ein berüchtigtes Konzentrationslager."
+      ]
+    },
+    {
+      "id": "mariental-cities-v2",
+      "descriptionAdvanced": "Mariental ist das administrative und landwirtschaftliche Zentrum der Region Hardap in Südzentralnamibia. Die Stadt wurde 1912 von der deutschen Kolonialverwaltung als Eisenbahnstation gegründet und nach Maria Brandt, der Frau eines frühen Siedlers, benannt. Die Wirtschaft der Stadt ist stark vom Hardap-Staudamm abhängig, dem größten Damm Namibias, der ein ausgedehntes Bewässerungssystem speist. Dank dieses Wassers hat sich die Wüstenregion um Mariental zu einem unerwarteten landwirtschaftlichen Hotspot entwickelt, in dem Luzerne, Mais und sogar Trauben inmitten der Trockenheit angebaut werden. Geografie K7 — Bewässerungswirtschaft in Trockengebieten.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1912 im Zuge des Baus der Südbahn offiziell gegründet.",
+        "Der nahegelegene Hardap-Staudamm wurde 1963 fertiggestellt.",
+        "Das Stausee-Reservoir hat ein beeindruckendes Fassungsvermögen von 294 Millionen Kubikmetern.",
+        "Mariental ist das Zentrum der namibischen Karakulschaf-Zucht.",
+        "Die Stadt wurde in den Jahren 1972, 2000 und 2006 von schweren Überschwemmungen des Fischflusses getroffen.",
+        "Mariental liegt auf einer Höhe von 1090 Metern über dem Meeresspiegel."
+      ]
+    },
+    {
+      "id": "outjo-cities-v2",
+      "descriptionAdvanced": "Outjo liegt in der waldreichen Kunene-Region und ist weithin als das 'Tor zum Etosha-Nationalpark' bekannt. Die Siedlung entstand 1895 um eine deutsche Militärstation, die Major Theodor Leutwein hier errichtete, um den Vorstoß nach Norden abzusichern. Das Wahrzeichen der Stadt ist der Franketurm, der 1899 zum Gedenken an Hauptmann Victor Franke und die Niederschlagung eines lokalen Aufstands erbaut wurde. Heute ist Outjo ein florierendes Zentrum für die Rinderzucht und ein unverzichtbarer Versorgungsstopp für Touristen auf dem Weg in den berühmten Etosha-Nationalpark oder das raue Damaraland. Geografie K6 — Nationalparks und Tourismus.",
+      "factsAdvanced": [
+        "Der Ort wurde 1895 als Station der deutschen Schutztruppe gegründet.",
+        "Der historische Franketurm wurde 1899 aus Naturstein erbaut.",
+        "Das historische Naulila-Denkmal erinnert an einen Konflikt mit portugiesischen Truppen im Jahr 1914.",
+        "Outjo befindet sich etwa 100 Kilometer südwestlich des Anderssontors des Etosha-Nationalparks.",
+        "Die Stadt hat eine lange Geschichte der Rinder- und Wildtierzucht auf großen kommerziellen Farmen.",
+        "Das Bakker-Haus, eines der ältesten Gebäude der Stadt, wurde 1900 erbaut."
+      ]
+    },
+    {
+      "id": "karasburg-cities-v2",
+      "descriptionAdvanced": "Karasburg, im äußersten Süden Namibias gelegen, ist das Herz der namibischen Karakulschaf-Zucht und ein wichtiges Versorgungszentrum an der Grenze zu Südafrika. Der Ort hieß ursprünglich Kalkfontein-Süd und wurde 1939 offiziell in Karasburg umbenannt. Aufgrund seiner extremen geografischen Lage in der Karas-Region erlebt die Stadt im Sommer Temperaturen von über 40 Grad Celsius und empfindlich kalte Nächte im Winter. Karasburg ist ein strategischer Knotenpunkt für den Transitverkehr auf der wichtigen Nationalstraße B3 sowie an der Eisenbahnlinie nach Upington. Wirtschaft K6 — Grenzübergreifender Handel und Tierzucht.",
+      "factsAdvanced": [
+        "Der Ort erhielt 1939 seinen heutigen Namen, abgeleitet von den nahen Karas-Bergen.",
+        "Karasburg ist mit Jahresniederschlägen unter 130 mm extrem trocken.",
+        "Die Stadt liegt etwa 100 Kilometer von der Ariamsvlei-Grenze zu Südafrika entfernt.",
+        "Die Karakulschaf-Zucht, die die Pelzindustrie beliefert, ist der größte lokale Wirtschaftsfaktor.",
+        "Während des Nama-Krieges 1904 bis 1907 war das Gebiet Schauplatz vieler Gefechte.",
+        "Karasburg liegt auf einer Höhe von etwa 985 Metern."
+      ]
+    },
+    {
+      "id": "karibib-cities-v2",
+      "descriptionAdvanced": "Karibib liegt an der wichtigen Verbindungsstraße zwischen Windhoek und der Küstenstadt Swakopmund und ist berühmt für seinen makellosen, hochwertigen Marmor. Die Siedlung entwickelte sich schnell ab 1900, als die Eisenbahnlinie der OMEG die Stadt erreichte und sie zu einem wichtigen Umschlagplatz machte. Karibib weist noch zahlreiche historische Gebäude aus dieser frühen Kolonialzeit auf, wie das Rösemann-Haus und die alte Bahnhofsstation. Der in der Umgebung abgebaute Marmor ist weltweit gefragt und wurde unter anderem im Bau des Parlamentsgebäudes in Windhoek verwendet. Sachkunde K5 — Gesteine und Bodenschätze.",
+      "factsAdvanced": [
+        "Die Siedlung Karibib wurde am 1. Juli 1900 offiziell gegründet.",
+        "Die Navachab-Goldmine, die erste Goldmine Namibias, nahm 1989 in der Nähe den Betrieb auf.",
+        "Der Karibib-Marmor ist ein rein weißer bis schwarz-weiß gemaserter Naturstein von höchster Qualität.",
+        "Das historische Rösemann-Gebäude wurde 1900 errichtet.",
+        "Die Stadt ist der Sitz der namibischen Luftwaffe (Air Force Headquarters).",
+        "Die OMEG-Eisenbahnstrecke (Otavibahn) verband ab 1900 Karibib mit Swakopmund."
+      ]
+    },
+    {
+      "id": "omaruru-cities-v2",
+      "descriptionAdvanced": "Omaruru liegt malerisch eingebettet an den Ufern des gleichnamigen, meist trockenen Flusses und zeichnet sich durch seinen fast dörflichen, künstlerischen Charakter aus. Die Stadt wurde 1870 durch den schwedischen Entdecker Axel Eriksson als Handelsstation gegründet. Bekannt ist Omaruru für den Franketurm, der 1908 zum Gedenken an den Entsatz der Stadt durch deutsche Truppen unter Hauptmann Victor Franke während des Herero-Aufstands erbaut wurde. Heute hat sich der Ort zu einer florierenden Enklave für Künstler, Winzer und Chocolatiers entwickelt und ist eines der wenigen Weinanbaugebiete Namibias. Geschichte K8 — Handelsstationen und Kolonialkriege.",
+      "factsAdvanced": [
+        "Die Siedlung wurde 1870 durch den Händler Axel Eriksson offiziell etabliert.",
+        "Der Franketurm wurde 1908 eingeweiht und ist heute ein nationales Denkmal.",
+        "Der Name Omaruru leitet sich von 'Omaere ru' ab, was auf Herero 'bittere Milch' bedeutet.",
+        "Die Kristall Kellerei in Omaruru ist das älteste Weingut Namibias.",
+        "In der Nähe liegt die Erongo-Gebirgskette, die für ihre Felsmalereien berühmt ist.",
+        "Am 17. Januar 1904 wurde die kleine Garnison von Herero-Kriegern belagert."
+      ]
+    },
+    {
+      "id": "otjiwarongo-cities-v2",
+      "descriptionAdvanced": "Otjiwarongo ist eine der am schnellsten wachsenden Städte im zentralen Norden Namibias und ein florierendes landwirtschaftliches und kommerzielles Zentrum. Die 1892 gegründete Stadt profitiert massiv von ihrer Lage als Knotenpunkt mehrerer Hauptverkehrsstraßen, die in den Norden und zum Etosha-Nationalpark führen. Neben der florierenden Rinderzucht ist Otjiwarongo heute weltweit als Hauptstadt des Gepardenschutzes bekannt; der nahegelegene Cheetah Conservation Fund setzt sich intensiv für den Schutz der größten freilebenden Gepardenpopulation der Welt ein. Die Stadt beherbergt zudem wichtige historische Relikte der Kolonialzeit. Geografie K6 — Wildtierschutz und urbane Knotenpunkte.",
+      "factsAdvanced": [
+        "Die Siedlung wurde 1892 als Station an der Otavibahn gegründet.",
+        "Otjiwarongo bedeutet auf Otjiherero 'ein schöner Ort' oder 'ein Ort für fettes Vieh'.",
+        "Die Lokomotive Nr. 41 der alten Otavibahn ist am Bahnhof ausgestellt.",
+        "Der nahegelegene Cheetah Conservation Fund wurde 1990 gegründet.",
+        "In der Umgebung befindet sich das 1989 gegründete Okonjima Naturreservat.",
+        "Die Stadt hat über 28.000 Einwohner und ist das Zentrum der Otjozondjupa-Region."
+      ]
+    },
+    {
+      "id": "eenhana-cities-v2",
+      "descriptionAdvanced": "Eenhana ist das aufstrebende Verwaltungszentrum der Region Ohangwena im bevölkerungsreichen Norden Namibias, unweit der angolanischen Grenze. Während des südafrikanischen Grenzkrieges war Eenhana ein stark befestigtes Militärlager der South African Defence Force (SADF) und Schauplatz heftiger Auseinandersetzungen. Erst nach der Unabhängigkeit Namibias 1990 begann der Übergang zu einer zivilen Stadt, die 1999 offiziell den Stadtstatus erhielt. Heute ist Eenhana ein Symbol für den Wiederaufbau; der Eenhana-Schrein ehrt die Opfer des Unabhängigkeitskampfes, deren Überreste in Massengräbern in der Umgebung gefunden wurden. Geschichte K8 — Der namibische Unabhängigkeitskrieg.",
+      "factsAdvanced": [
+        "Eenhana erhielt erst im Jahr 1999 offiziell den Status einer eigenständigen Stadt.",
+        "Der Eenhana Shrine wurde 2008 eröffnet, um die Gefallenen des Freiheitskampfes zu ehren.",
+        "Während des Krieges operierte hier das berüchtigte 54. Bataillon der SADF.",
+        "Die Stadt ist stark gewachsen und hat über 10.000 Einwohner.",
+        "Sie liegt inmitten eines Gebiets mit dichtem Bestand an Makalani-Palmen.",
+        "Die Grenze nach Angola bei Oshikango liegt etwa 60 Kilometer westlich."
+      ]
+    },
+    {
+      "id": "opuwo-cities-v2",
+      "descriptionAdvanced": "Opuwo ist die wilde und staubige Hauptstadt der Region Kunene im Nordwesten Namibias und gilt als das Tor zum abgelegenen Kaokoland. Die Stadt, deren Name übersetzt 'das Ende' bedeutet, fasziniert durch eine einzigartige Mischung der Kulturen. Hier treffen traditionell gekleidete Himba, die für ihre rote Ocker-Hautpflege bekannt sind, auf Herero in viktorianisch inspirierten Kleidern und moderne namibische Zivilisation. Opuwo ist der letzte große Versorgungsstützpunkt für Expeditionen zu den Epupa-Fällen am Kunene-Fluss. Geografie K7 — Traditionelle Völker und Randregionen.",
+      "factsAdvanced": [
+        "Opuwo ist das Verwaltungszentrum der fast 115.000 Quadratkilometer großen Kunene-Region.",
+        "Die Himba-Kultur verwendet eine Mischung aus Ocker und Fett, genannt 'Otjize', als Sonnenschutz.",
+        "Die Stadt entwickelte sich in den 1970er Jahren maßgeblich um eine südafrikanische Militärbasis.",
+        "Opuwo liegt etwa 160 Kilometer südlich der spektakulären Epupa-Fälle.",
+        "Die Region Kunene hat eine extrem geringe Bevölkerungsdichte von knapp 1 Einwohner pro Quadratkilometer.",
+        "Opuwo wurde im Jahr 2000 offiziell in den Status einer Stadt (Town) erhoben."
+      ]
+    },
+    {
+      "id": "ongwediva-cities-v2",
+      "descriptionAdvanced": "Ongwediva ist eine rasant wachsende Stadt in der Oshana-Region und liegt strategisch zwischen den älteren Zentren Oshakati und Ondangwa. Sie wurde in den späten 1960er Jahren während der südafrikanischen Verwaltung als exklusives Wohn- und Verwaltungszentrum geplant. Heute ist die Stadt das Bildungs- und Messezentrum des nördlichen Namibias, unter anderem dank der renommierten Universität von Namibia (UNAM) am José Eduardo dos Santos Campus. Bekannt ist Ongwediva landesweit vor allem für die jährliche Ongwediva Annual Trade Fair (OATF), die wichtigste Handelsmesse Namibias, die Tausende Besucher anzieht. Wirtschaft K7 — Messen, Handel und Bildungszentren.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1968 unter südafrikanischer Verwaltung als Planstadt konzipiert.",
+        "Die erste Ongwediva Annual Trade Fair (OATF) fand im Jahr 2000 statt.",
+        "Auf der OATF werden jährlich regelmäßig über 100.000 Besucher registriert.",
+        "Ongwediva bildet zusammen mit Oshakati den am dichtesten besiedelten Ballungsraum im Norden.",
+        "Die Stadt beherbergt eine wichtige Fakultät für Ingenieurwissenschaften der UNAM.",
+        "Ongwediva ist stark in das Netz der traditionellen Überschwemmungskanäle (Oshanas) eingebunden."
+      ]
+    },
+    {
+      "id": "oranjemund-cities-v2",
+      "descriptionAdvanced": "Oranjemund liegt isoliert an der Mündung des Oranje-Flusses im extremen Südwesten Namibias und blickt auf eine faszinierende Geschichte als geschlossene Bergbaustadt zurück. Gegründet 1936 von der Consolidated Diamond Mines (CDM, heute Namdeb), diente die Stadt jahrzehntelang exklusiv der Gewinnung der enorm reichen alluvialen Diamantenvorkommen an der Küste. Bis 2017 war Oranjemund eine abgeriegelte Enklave ('Sperrgebiet'), die nur mit Sondergenehmigungen betreten werden durfte. Nach der Öffnung wandelt sich die Siedlung nun langsam zu einer normalen Gemeinde, die auf Tourismus und den Charme einer echten Oase inmitten der Wüste setzt. Sachkunde K5 — Diamantenabbau und Planstädte.",
+      "factsAdvanced": [
+        "Oranjemund wurde 1936 von CDM zur Erschließung der Küstendiamanten gegründet.",
+        "Das 26.000 Quadratkilometer große Sperrgebiet war 109 Jahre lang für die Öffentlichkeit geschlossen.",
+        "Im Oktober 2017 wurde Oranjemund offiziell für die Allgemeinheit geöffnet.",
+        "Die Stadt hat dank der Nähe zum Flusslauf üppige Grünanlagen mitten in der Namib-Wüste.",
+        "Namdeb, ein Joint Venture von De Beers und Namibia, betreibt hier die Bergbaukonzession.",
+        "Wilde Oryxantilopen wandern regelmäßig frei durch die gepflegten Straßen der Stadt."
+      ]
+    },
+    {
+      "id": "usakos-cities-v2",
+      "descriptionAdvanced": "Usakos ist eine kleine, historisch bedeutsame Stadt in der Erongo-Region, die am Fuße der steilen Erongo-Berge liegt. Die Siedlung verdankt ihre Existenz vor allem dem Ausbau der Schmalspureisenbahn durch die OMEG in den frühen 1900er Jahren, für die Usakos lange Zeit das wichtigste Eisenbahnreparaturzentrum im gesamten Südwestafrika war. Als in den 1960er Jahren auf Normalspur umgerüstet wurde, verlor die Stadt dramatisch an Bedeutung. Heute leben die Einwohner vor allem vom Bergbau in der Umgebung, dem Tourismus zur nahen Spitzkoppe und als Durchreisestation auf dem Weg zur Küste. Geschichte K7 — Eisenbahnpioniere in Afrika.",
+      "factsAdvanced": [
+        "Usakos wurde Anfang des 20. Jahrhunderts als Hauptwerkstatt der Otavibahn ausgebaut.",
+        "Der historische Bahnhof von Usakos, errichtet 1903, ist bis heute ein Wahrzeichen.",
+        "In der Nähe liegt die Spitzkoppe, das 'Matterhorn Namibias', mit einer Höhe von 1728 Metern.",
+        "Bis in die 1960er Jahre war Usakos der zentrale Wartungsort für Dampflokomotiven in SWA.",
+        "In der Stadt ist noch eine der originalen Henschel-Dampflokomotiven (Nr. 40) ausgestellt.",
+        "Der Name stammt aus der Damara-Sprache und bedeutet 'pack die Ferse' (aufgrund des dornigen Gebüschs)."
+      ]
+    },
+    {
+      "id": "outapi-cities-v2",
+      "descriptionAdvanced": "Outapi, auch bekannt unter dem Namen Ombalantu, ist die pulsierende Hauptstadt der Region Omusati im tiefen Norden Namibias. Die Stadt ist vor allem berühmt für ihren außergewöhnlichen, massiven Baobab-Baum (Ombalantu Baobab), dessen hohler Stamm in der Vergangenheit als Postamt, Kirche, Kapelle und sogar als Gefängnis für die südafrikanischen Streitkräfte diente. Seit der namibischen Unabhängigkeit 1990 hat sich Outapi von einer ländlichen Siedlung zu einem modernen Wirtschaftszentrum in der Owambo-Region entwickelt. Die Landwirtschaft, insbesondere der Anbau von Mahangu (Perlhirse), prägt die umliegende, von Bewässerungskanälen durchzogene Landschaft. Biologie K6 — Remarkable Pflanzen und ihre Nutzung.",
+      "factsAdvanced": [
+        "Der Ombalantu-Baobab ist etwa 800 Jahre alt und hat einen Umfang von über 28 Metern.",
+        "Der hohle Baumstamm bietet Platz für bis zu 35 Personen gleichzeitig.",
+        "Die Stadt erlangte im Jahr 2000 offiziell den Status als eigenständige Townverwaltung.",
+        "Outapi liegt nur etwa 20 Kilometer südlich der Grenze zu Angola.",
+        "Die Region Omusati hat über 240.000 Einwohner, was Outapi zu einem wichtigen Zentrum macht.",
+        "Ein massives Kanalnetz bringt dringend benötigtes Wasser aus dem angolanischen Kunene-Fluss hierher."
+      ]
+    },
+    {
+      "id": "helao-nafidi-cities-v2",
+      "descriptionAdvanced": "Helao Nafidi ist eine bemerkenswerte Planstadt im äußersten Norden Namibias, die erst 2004 durch den Zusammenschluss mehrerer kleinerer Siedlungen, darunter der wichtige Grenzort Oshikango, gegründet wurde. Die Stadt grenzt direkt an Angola und ist als Exportverarbeitungszone konzipiert worden, um den massiven grenzüberschreitenden Handel zu fördern. Trotz dieses ehrgeizigen Starts leidet die Stadt unter starken wirtschaftlichen Schwankungen, die eng an die Kaufkraft und die Währung des benachbarten Angolas gekoppelt sind. Die Region ist stark durch die traditionellen Makalani-Palmen und den belebten, teils chaotischen Grenzverkehr geprägt. Wirtschaft K8 — Grenzüberschreitender Handel und Planstädte.",
+      "factsAdvanced": [
+        "Die Stadt Helao Nafidi wurde 2004 aus dem Zusammenschluss von 5 Siedlungen gegründet.",
+        "Sie ist benannt nach Helao Nafidi, einem bekannten Kommandanten der PLAN-Guerillakämpfer.",
+        "Oshikango, ein Teil der Stadt, ist der wichtigste Grenzübergang zwischen Namibia und Angola.",
+        "Im Jahr 2009 wurde eine Exportverarbeitungszone (EPZ) in Helao Nafidi eingerichtet.",
+        "Das Stadtgebiet dehnt sich entlang der Hauptstraße B1 über mehr als 15 Kilometer aus.",
+        "Die Wirtschaft ist stark vom Export von Autos und Konsumgütern nach Angola abhängig."
+      ]
+    }
+  ]
+}

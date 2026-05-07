@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "egypt",
+  "files": [
+    "lib/visualLab/data/poiExtraEgyptCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cairo-cities-v2",
+      "descriptionAdvanced": "Kairó, Egyiptom fővárosa és az arab világ egyik legnagyobb metropolisza, a Nílus folyó partján terül el, ötvözve az ősi és a modern világot. A várost 969-ben alapították, és történelme során a muszlim kultúra központjává vált, ma pedig múzeumok, mecsetek és nyüzsgő bazárok városa. Kairó közelében található a gízai fennsík, amely a világhírű piramisok otthona, így a történelem szerelmeseinek kihagyhatatlan úti cél. Földrajz K7 — világvárosok és történelem.",
+      "factsAdvanced": ["A metropolisz több mint 20 millió lakosú.", "969-ben alapították.", "Itt található az Egyiptomi Múzeum, amely Tutanhamon kincseit őrzi.", "Az al-Azhar Egyetem a világ egyik legrégebbi felsőoktatási intézménye.", "Kairó az egyiptomi politika és kultúra központja.", "A várost a '1000 minaret városa' néven is emlegetik."]
+    },
+    {
+      "id": "suez-cities-v2",
+      "descriptionAdvanced": "Szuez egy stratégiailag kulcsfontosságú kikötőváros, amely a Vörös-tenger északi partján, a világhírű Szuezi-csatorna déli végpontjánál helyezkedik el. A város a nemzetközi kereskedelem egyik legfontosabb csomópontja, hiszen összeköti a Földközi-tengert a Vörös-tengerrel, lerövidítve a hajózási útvonalakat Európa és Ázsia között. A város gazdasága döntően a kikötői forgalomra és a kőolaj-finomításra épül. Földrajz K8 — globális kereskedelmi útvonalak.",
+      "factsAdvanced": ["A Szuezi-csatorna déli végpontja.", "Kulcsfontosságú kikötőváros a Vörös-tengeren.", "A város gazdaságának alapja az olajfinomítás.", "A világ egyik legforgalmasabb tengeri útvonala halad itt át.", "Fontos kereskedelmi kapu Ázsia és Európa között.", "A 19. század óta jelentős szerepet játszik a globális hajózásban."]
+    }
+  ]
+}

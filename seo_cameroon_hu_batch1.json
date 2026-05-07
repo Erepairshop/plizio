@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cameroon-yaounde-cities-v2",
+      "descriptionAdvanced": "Yaoundé Kamerun politikai központja, mely hét dombvidéki magaslatra épült. A 19. század végén alapított város ma az ország adminisztratív szíve, ahol a gyarmati korszak épületei és modern kormányzati negyedek találkoznak. Földrajz K7 — városi központok és domborzat.",
+      "factsAdvanced": [
+        "A város tengerszint feletti magassága körülbelül 750 méter.",
+        "Az 1962-ben alapított Yaoundé I. Egyetem székhelye.",
+        "A Nemzeti Múzeum az egykori elnöki palotában kapott helyet.",
+        "Az Ahmadou Ahidjo Stadion az ország legnagyobb sportlétesítménye.",
+        "A várost 1888-ban német expedíciók alapították.",
+        "Több mint 200 különböző etnikai csoport kulturális találkozóhelye."
+      ]
+    },
+    {
+      "id": "cameroon-douala-cities-v2",
+      "descriptionAdvanced": "Douala Kamerun gazdasági motorja és egyben legnépesebb városa. Stratégiailag a Wouri folyó torkolatánál fekszik, és az ország legfontosabb kikötőjének ad otthont, amely Közép-Afrika kereskedelmének egyik legfontosabb lüktető ere. Földrajz K7 — logisztika és városi fejlődés.",
+      "factsAdvanced": [
+        "Népessége meghaladja a 3 millió főt.",
+        "Közép-Afrika első számú kereskedelmi kikötője.",
+        "A Douala Nemzetközi Repülőtér (DLA) az ország legforgalmasabb légikikötője.",
+        "A német gyarmati uralom alatt fontos adminisztratív központ volt.",
+        "Párás, egyenlítői tengerparti éghajlat jellemzi.",
+        "Kamerun pénzügyi és ipari központja."
+      ]
+    }
+  ]
+}

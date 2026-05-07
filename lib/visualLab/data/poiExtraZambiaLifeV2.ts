@@ -14,7 +14,14 @@ export const poiExtraZambiaLifeV2: POI[] = [
       hu: ["Híres a kafue lechwe antilopokról.", "Szezonális ártereket biztosít."],
       ro: ["Faimos pentru antilopele kafue lechwe.", "Oferă zone inundabile sezoniere."],
       en: ["Famous for the Kafue lechwe antelopes.", "Provides seasonal floodplains."]
-    }, image: "/poi-images/blue-lagoon-national-park-life-v2.webp"},
+    }, image: "/poi-images/blue-lagoon-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      en: "Blue Lagoon National Park, situated on the northern edge of the Kafue Flats, is a pristine wilderness celebrated for its abundant birdlife and herds of lechwe antelope. The park's landscape is dominated by open floodplains, which turn lush and green during the wet season, providing ideal grazing lands. It is a vital sanctuary for wildlife, particularly migratory birds that flock to its shallow waters. The park offers an immersive experience for observing untamed African nature in a quiet, undisturbed setting. Sachkunde K3 — wildlife and national parks."
+    },
+    factsAdvanced: {
+      en: ["Located on the northern banks of the Kafue River", "Covers roughly 500 square kilometers of floodplain", "Renowned for the endemic Kafue lechwe antelope", "Critical habitat for over 400 species of birds", "Accessible primarily via seasonal dirt tracks", "Serves as a floodplain wetland sanctuary"]
+    }
+  },
   {
     id: "isangano-national-park-life-v2",
     type: "animal-habitat",
@@ -66,6 +73,12 @@ export const poiExtraZambiaLifeV2: POI[] = [
       hu: ["Természettudományi oktatási állomásokat kínál.", "Népszerű iskolai csoportok körében."],
       ro: ["Oferă stații educaționale despre natură.", "Popular printre grupurile școlare."],
       en: ["Offers educational stations about nature.", "Popular with school groups."]
+    },
+    descriptionAdvanced: {
+      ro: "Lusaka Discovery este un hub educațional și recreativ conceput special pentru tineri, situat în capitala Zambiei. Acesta oferă ateliere interactive despre știință, natură și tehnologie, având scopul de a stârni curiozitatea noii generații într-un mediu sigur și stimulativ. (Sachkunde K5 — știință și educație)"
+    },
+    factsAdvanced: {
+      ro: ["Include laboratoare interactive de știință.", "Programul educațional vizează copiii între 6 și 14 ani.", "Organizează frecvent excursii pe teme de conservare a mediului.", "Este un proiect susținut de comunitatea locală și parteneri internaționali.", "Oferă resurse digitale pentru învățarea tehnologiilor viitorului.", "Spațiul este conceput pentru a fi sustenabil din punct de vedere energetic."]
     }
   },
   {
@@ -120,7 +133,14 @@ export const poiExtraZambiaLifeV2: POI[] = [
       hu: ["Alapvető élelmiszerek fő termesztési területe.", "Ezer kistermelőt foglalkoztat."],
       ro: ["Zona principală de cultivare a alimentelor de bază.", "Angajează mii de micii fermieri."],
       en: ["Main cultivation area for staple foods.", "Employs thousands of small-scale farmers."]
-    }, image: "/poi-images/chipata-maize-fields-life-v2.webp"},
+    }, image: "/poi-images/chipata-maize-fields-life-v2.webp",
+    descriptionAdvanced: {
+      en: "The maize fields surrounding Chipata are a defining feature of the local landscape and economic life in Eastern Zambia. Maize is the staple crop of the region, and the vast fields that stretch across the rural areas provide both food security and livelihoods for the majority of the population. Farming methods in this region range from traditional subsistence plots to larger, more commercialized operations, all of which are highly productive thanks to the favorable soils in the Eastern Province. The annual harvest cycle is the focal point of community life and regional economic activity. Sachkunde K3 — agriculture and food production."
+    },
+    factsAdvanced: {
+      en: ["Maize is the essential staple crop for the region", "Eastern Province fields are among Zambia's most productive", "Crucial for both local food supply and market trade", "Farming cycle dictates the rhythm of rural life", "Diverse scales of production exist around Chipata", "Key pillar of the Eastern Province economy"]
+    }
+  },
   {
     id: "choma-livestock-hub-life-v2",
     type: "agriculture",
@@ -172,7 +192,14 @@ export const poiExtraZambiaLifeV2: POI[] = [
       hu: ["A helyi állatfajokra összpontosít.", "Támogatja a természetvédelmi programokat."],
       ro: ["Se concentrează pe speciile locale de animale.", "Susține programele de conservare."],
       en: ["Focuses on local animal species.", "Supports conservation programs."]
-    }, image: "/poi-images/lusaka-zoo-educational-life-v2.webp"},
+    }, image: "/poi-images/lusaka-zoo-educational-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Grădina Zoologică din Lusaka joacă un rol vital în educația ecologică, găzduind numeroase specii native și oferind programe specializate pentru elevi. Instituția pune accent pe conservarea speciilor și pe înțelegerea rolului fiecărui animal în ecosistemul zambian, oferind o experiență învățătoare pentru întreaga familie. (Sachkunde K4 — animale și mediu)"
+    },
+    factsAdvanced: {
+      ro: ["Găzduiește o varietate de specii mamifere și reptile locale.", "Organizează zilnic prezentări despre protejarea faunei sălbatice.", "Este un partener cheie pentru școli în predarea biologiei.", "Programul de conservare vizează specii aflate în pericol.", "Facilitățile includ o clinică veterinară cu scop educativ.", "Este cea mai veche instituție zoologică din capitala Zambiei."]
+    }
+  },
   {
     id: "kasanka-wetland-life-v2",
     type: "animal-habitat",
@@ -263,7 +290,14 @@ export const poiExtraZambiaLifeV2: POI[] = [
       hu: ["Az ökológiai gazdálkodásra összpontosít.", "A mezőgazdasági tudás központja."],
       ro: ["Se concentrează pe agricultura ecologică.", "Centru pentru cunoștințe agricole."],
       en: ["Focus on organic cultivation.", "Center for agricultural knowledge."]
-    }, image: "/poi-images/chibombo-farm-village-life-v2.webp"},
+    }, image: "/poi-images/chibombo-farm-village-life-v2.webp",
+    descriptionAdvanced: {
+      en: "The farm villages surrounding Chibombo exemplify the subsistence and small-scale commercial agricultural lifestyle prevalent in rural Central Zambia. These communities are defined by their reliance on seasonal rainfall, maize cultivation, and small-scale livestock keeping. Village life here revolves around the agricultural cycle, with daily activities tied to planting, weeding, and harvesting. These communities are the backbone of local food security, maintaining traditional farming knowledge while increasingly integrating with local markets for economic sustainment. Sachkunde K3 — rural life and agricultural practices."
+    },
+    factsAdvanced: {
+      en: ["Core livelihood is maize and vegetable cultivation", "Highly dependent on seasonal rainfall cycles", "Incorporates traditional farming and livestock rearing", "Community structure revolves around the harvest season", "Vital for local food security in Central Province", "Integrated with nearby Chibombo markets for trade"]
+    }
+  },
   {
     id: "kalabo-agro-fields-life-v2",
     type: "agriculture",
@@ -315,7 +349,14 @@ export const poiExtraZambiaLifeV2: POI[] = [
       hu: ["Gyermekbarát információkat kínál.", "Elősegíti az ökoszisztémák megértését."],
       ro: ["Oferă informații adaptate copiilor.", "Promovează înțelegerea ecosistemelor."],
       en: ["Offers kid-friendly information.", "Promotes understanding of ecosystems."]
-    }, image: "/poi-images/chambeshi-nature-kids-life-v2.webp"},
+    }, image: "/poi-images/chambeshi-nature-kids-life-v2.webp",
+    descriptionAdvanced: {
+      en: "The Chambeshi region, encompassing the river and surrounding plains, offers a unique opportunity for educational exploration of nature. Its varied terrain—from riverbanks to grasslands—provides a diverse classroom for studying aquatic life, terrestrial mammals, and avian species in their natural environment. For young learners, the region highlights the importance of river ecosystems and the delicate balance required for nature to thrive. The area is largely pristine, offering a tranquil space to appreciate the richness of the Zambian landscape. Sachkunde K3 — nature education and river environments."
+    },
+    factsAdvanced: {
+      en: ["Supports diverse aquatic and riverbank life", "Ideal for learning about river ecosystems", "Rich biodiversity includes various fish and birds", "Region provides essential water for local life", "Largely untouched wilderness with high educational value", "Perfect environment for observing seasonal changes"]
+    }
+  },
   {
     id: "luangwa-wildlife-sanctuary-life-v2",
     type: "animal-habitat",

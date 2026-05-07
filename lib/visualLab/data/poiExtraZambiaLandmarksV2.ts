@@ -24,7 +24,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Az elnök székhelye", "Az 1930-as években épült", "Szigorúan őrzött terület"],
       ro: ["Sediul președintelui", "Construită în anii 1930", "Zonă strict păzită"],
       en: ["Seat of the president", "Built in the 1930s", "Heavily guarded area"]
-    }, image: "/poi-images/state-house-lusaka-landmarks-v2.webp"},
+    }, image: "/poi-images/state-house-lusaka-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "State House din Lusaka este reședința oficială a președintelui Zambiei și un monument istoric de o importanță capitală pentru viața politică a națiunii. Clădirea reflectă moștenirea colonială și evoluția politică a Zambiei spre independență, fiind înconjurată de grădini și zone securizate ce marchează centrul administrativ al țării. (Geschichte K8 — independență și politică)"
+    },
+    factsAdvanced: {
+      ro: ["A fost construită în perioada colonială britanică.", "Este sediul puterii executive în Zambia.", "Arhitectura clădirii îmbină stilul colonial cu elemente moderne.", "Grădinile reședinței sunt un exemplu de peisagistică tropicală.", "Este locul unde se desfășoară importante evenimente diplomatice.", "În clădire sunt păstrate documente și artefacte istorice naționale."]
+    }
+  },
   {
     id: "mulungushi-international-conference-centre-landmarks-v2",
     type: "landmark",
@@ -93,7 +100,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["15 500 férőhelyes", "A Power Dynamos otthona", "Kitwében található"],
       ro: ["Capacitate de 15.500 de locuri", "Casa echipei Power Dynamos", "Situat în Kitwe"],
       en: ["Capacity of 15,500 seats", "Home of the Power Dynamos", "Located in Kitwe"]
-    }, image: "/poi-images/arthur-davies-stadium-landmarks-v2.webp"},
+    }, image: "/poi-images/arthur-davies-stadium-landmarks-v2.webp",
+    descriptionAdvanced: {
+      en: "Located in Kitwe, the Arthur Davies Stadium serves as a significant sports venue for the region, primarily hosting football matches for the Power Dynamos F.C. The stadium has a capacity of approximately 15,000 spectators and is a cornerstone of the local community's recreational life. Its history is deeply intertwined with the development of football in the Zambian Copperbelt, witnessing numerous historic matches and athletic achievements. As a focal point for sports enthusiasts, the facility remains an important piece of urban infrastructure in Kitwe, reflecting the city's passion for the sport. Geography K7 — urban development and community facilities."
+    },
+    factsAdvanced: {
+      en: ["Home stadium for Power Dynamos F.C.", "Capacity estimated at 15,000 seats", "Located in the Copperbelt Province city of Kitwe", "Key facility for Zambia Super League matches", "Opened its doors for community use in the mid-20th century", "Known for its intense atmosphere during local derbies"]
+    }
+  },
   {
     id: "kafue-bridge-landmarks-v2",
     type: "landmark",
@@ -281,7 +295,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["1965-ben alapították", "Jelentős oktatási intézmény", "Kiterjedt campus"],
       ro: ["Fondată în 1965", "Instituție de învățământ semnificativă", "Campus extins"],
       en: ["Founded in 1965", "Significant educational institution", "Sprawling campus"]
-    }, image: "/poi-images/university-of-zambia-landmarks-v2.webp"},
+    }, image: "/poi-images/university-of-zambia-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Universitatea din Zambia (UNZA), situată în Lusaka, este principala instituție de învățământ superior din țară, fiind un far pentru dezvoltarea intelectuală a națiunii. Campusul reprezintă nu doar un centru academic, ci și un spațiu de cercetare esențial pentru problemele Zambiei, de la agricultură la economie. (Educație K8 — știință și dezvoltare)"
+    },
+    factsAdvanced: {
+      ro: ["A fost fondată imediat după obținerea independenței în 1966.", "Este cea mai mare universitate din Zambia.", "Campusul găzduiește importante institute de cercetare agricolă.", "A format majoritatea liderilor politici și economici ai țării.", "Biblioteca universității deține colecții valoroase de arhivă națională.", "Este un centru pentru inovație în tehnologiile de producție locală."]
+    }
+  },
   {
     id: "mulungushi-rock-of-authority-landmarks-v2",
     type: "landmark",
@@ -327,7 +348,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["128 méter magas", "1959-ben épült", "Fontos a vízenergia szempontjából"],
       ro: ["128 de metri înălțime", "Construit în 1959", "Important pentru hidroenergie"],
       en: ["128 meters high", "Built in 1959", "Important for hydroelectric power"]
-    }, image: "/poi-images/kariba-dam-wall-landmarks-v2.webp"},
+    }, image: "/poi-images/kariba-dam-wall-landmarks-v2.webp",
+    descriptionAdvanced: {
+      ro: "Barajul Kariba este una dintre cele mai mari și spectaculoase realizări inginerești din Africa, creând cel mai mare lac de acumulare artificial din lume la momentul finalizării sale. Barajul este crucial pentru producția de energie hidroelectrică pentru Zambia și Zimbabwe, transformând radical peisajul și economia regiunii fluviului Zambezi. (Geografie K8 — energie și infrastructură)"
+    },
+    factsAdvanced: {
+      ro: ["Barajul are o înălțime de 128 metri.", "A fost finalizat în anul 1959.", "Lacul Kariba are o suprafață de peste 5500 km².", "Producția de energie alimentează rețelele naționale ale Zambiei și Zimbabwe.", "Construcția a necesitat relocarea a mii de oameni din valea fluviului.", "Barajul este un punct de referință mondial în ingineria hidraulică."]
+    }
+  },
   {
     id: "itezhi-tezhi-dam-landmarks-v2",
     type: "landmark",
@@ -373,7 +401,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Természeti emlékmű", "Kabwe nevezetessége", "Árnyékot adott a korai utazóknak"],
       ro: ["Monument al naturii", "Reper al orașului Kabwe", "Umbră pentru primii călători"],
       en: ["Natural monument", "Landmark of Kabwe", "Provided shade for early travelers"]
-    }, image: "/poi-images/big-tree-national-monument-landmarks-v2.webp"},
+    }, image: "/poi-images/big-tree-national-monument-landmarks-v2.webp",
+    descriptionAdvanced: {
+      en: "The Big Tree, located in Kabwe, is a historic relic of Zambia's early colonial infrastructure. It is a massive Fig tree that served as a meeting point and landmark for early explorers and prospectors in the area during the turn of the 20th century. The tree is protected as a national monument, symbolizing the intersection of natural heritage and the colonial history of Central Province. It provides a unique glimpse into the early developmental phase of Kabwe as a major mining and administrative hub in Zambia. History K8 — colonial development and national heritage."
+    },
+    factsAdvanced: {
+      en: ["Large Fig tree (Ficus spp.) at its core", "Declared a national monument in the mid-1900s", "Located in the town center of Kabwe", "Used as an original survey beacon by prospectors", "Stands over 20 meters tall with massive canopy spread", "Symbol of Kabwe's founding in 1902"]
+    }
+  },
   {
     id: "chilenje-house-394-landmarks-v2",
     type: "landmark",
@@ -396,7 +431,14 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["A függetlenségi harc központja", "Ma múzeumként működik", "Személyes örökséget őriz"],
       ro: ["Centrul luptei pentru independență", "Astăzi un muzeu", "Păstrează moștenirea personală"],
       en: ["Center of the independence struggle", "Now a museum", "Preserves personal heritage"]
-    }, image: "/poi-images/chilenje-house-394-landmarks-v2.webp"},
+    }, image: "/poi-images/chilenje-house-394-landmarks-v2.webp",
+    descriptionAdvanced: {
+      en: "Chilenje House 394 in Lusaka is a site of profound national significance, having served as the residence of Dr. Kenneth Kaunda, Zambia's first president, during the struggle for independence in the 1960s. The house has been preserved as a national monument, offering visitors an intimate look at the home life and the clandestine political organizing of Zambia's founding fathers. It is a critical landmark for understanding the country's path to independence, highlighting the sacrifices and strategies employed to achieve freedom from colonial rule. History K8 — independence movement."
+    },
+    factsAdvanced: {
+      en: ["Former home of President Kenneth Kaunda (1960-1962)", "Designated as a National Monument in Zambia", "Located in the Chilenje suburb of Lusaka", "Used for secret political meetings during the independence struggle", "Reflects the humble origins of the liberation leadership", "Preserved as an important heritage site"]
+    }
+  },
   {
     id: "livingstone-memorial-landmarks-v2",
     type: "landmark",

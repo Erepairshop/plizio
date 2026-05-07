@@ -1,0 +1,269 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shambe-lake-nature-v2",
+      "descriptionAdvanced": "Lake Shambe is a vital freshwater body located within the vast Sudd wetlands of Lakes State. It is essentially an extension of the White Nile, formed as the river's waters spread across the flat plains. The lake is a critical resource for local fishing communities and serves as a primary watering hole for thousands of cattle during the dry season. Its surrounding marshes are home to an incredible array of aquatic birdlife and provide a sanctuary for crocodiles and hippopotamuses. The unique ecosystem of Lake Shambe is a perfect example of the life-sustaining power of the Nile in the heart of Africa. Science K4 – Habitats and freshwater ecosystems.",
+      "factsAdvanced": [
+        "Located in the central Sudd wetlands",
+        "Formed by the overflow of the White Nile",
+        "Primary center for regional inland fishing",
+        "Vital watering point for seasonal cattle herding",
+        "Hotspot for diverse Nilotic bird species",
+        "Home to significant populations of hippos",
+        "Surrounded by dense papyrus and reed beds"
+      ]
+    },
+    {
+      "id": "lake-nyubor-nature-v2",
+      "descriptionAdvanced": "Lake Nyubor is a seasonal freshwater lake in Lakes State, situated within a depression that fills during the rainy season. It is surrounded by extensive grasslands and acacia woodlands, making it a highly productive environment for both wildlife and livestock. The lake is especially famous for its role in supporting the traditional livelihoods of the Dinka herders, who gather here in large numbers as surrounding pastures dry out. Its waters attract a variety of migratory birds, including storks and cranes, contributing to the rich biodiversity of the central South Sudanese savanna. Science K3 – Seasonal changes in ecosystems.",
+      "factsAdvanced": [
+        "Major seasonal lake in the central savanna",
+        "Critical dry-season pasture for Dinka herders",
+        "Surrounded by vast acacia and grass plains",
+        "Important stopover for migratory bird species",
+        "Supports a variety of local fish species",
+        "Focal point for regional cattle culture",
+        "Exhibits extreme seasonal water level fluctuations"
+      ]
+    },
+    {
+      "id": "lake-no-nature-v2",
+      "descriptionAdvanced": "Lake No is a geographically and ecologically significant body of water located at the point where the Bahr el Jabal (Mountain Nile) meets the Bahr el Ghazal. This confluence marks the formal beginning of the White Nile. The lake is surrounded by the dense, impenetrable vegetation of the Sudd, making it one of the most remote and pristine aquatic environments in the country. It serves as a major nursery for Nile fish and is a critical habitat for the endangered shoebill stork. The meeting of the two massive river systems creates a unique hydrological environment characterized by slow-moving, nutrient-rich waters. Geography K7 – River confluences and wetland formation.",
+      "factsAdvanced": [
+        "Located at the birth of the White Nile",
+        "Confluence of Bahr el Jabal and Bahr el Ghazal",
+        "Critical habitat for the rare shoebill stork",
+        "Major breeding ground for Nilotic fish species",
+        "Surrounded by the pristine Sudd wilderness",
+        "Important node in the Nile's hydrological system",
+        "Remote and accessible primarily by boat"
+      ]
+    },
+    {
+      "id": "lake-yirol-nature-v2",
+      "descriptionAdvanced": "Lake Yirol is a permanent freshwater lake in Lakes State, known for its scenic beauty and its role as a vital economic resource for the surrounding town of Yirol. The lake is relatively shallow and supports a high density of aquatic plants, which in turn sustain a rich population of tilapia and lungfish. It is a center for local fishing and provides the water necessary for the region's famous sesame cultivation. The lakeside environment is also a haven for various species of waterfowl and monitors, making it an important local ecological landmark. Science K4 – Freshwater life and human interaction.",
+      "factsAdvanced": [
+        "Permanent freshwater lake in Lakes State",
+        "Abundant in tilapia and other Nilotic fish",
+        "Vital water source for local sesame farming",
+        "Major local center for sustainable fishing",
+        "Important habitat for diverse waterfowl",
+        "Characterized by rich shoreline vegetation",
+        "Key landmark for the town of Yirol"
+      ]
+    },
+    {
+      "id": "lake-ambadi-nature-v2",
+      "descriptionAdvanced": "Lake Ambadi is a large, shallow lake located in the Bahr el Ghazal region, known for its extensive marshes and its importance as a dry-season refuge for cattle. The lake is fed by several seasonal rivers and is part of a complex of wetlands that provide a vital link between the western savannas and the Nile system. It is a major hotspot for biodiversity, hosting large numbers of pelicans, egrets, and other water birds. The traditional herding cycles of the region are closely tied to the receding waters of Lake Ambadi, which reveal fertile grazing lands as the dry season progresses. Science K5 – Wetlands as life refuges.",
+      "factsAdvanced": [
+        "Large wetland lake in Bahr el Ghazal",
+        "Essential dry-season grazing area for cattle",
+        "Feds into the broader Nile wetland system",
+        "Major habitat for pelicans and egrets",
+        "Surrounded by seasonally flooded grasslands",
+        "Supports local subsistence fishing",
+        "Important for regional groundwater recharge"
+      ]
+    },
+    {
+      "id": "lake-abiat-nature-v2",
+      "descriptionAdvanced": "Lake Abiat is a significant body of water in the northern part of the country, situated in a region of vast plains and seasonal marshes. It serves as a critical resource for the communities in Upper Nile and Unity states, providing water for livestock and supporting a local fishing industry. The lake's environment is characterized by a mix of open water and dense reed beds, which offer nesting sites for a variety of indigenous bird species. Its role in the regional ecosystem is vital for maintaining the balance of the northern savanna-wetland transition zone. Geography K7 – The role of lakes in semi-arid regions.",
+      "factsAdvanced": [
+        "Important freshwater lake in northern South Sudan",
+        "Vital water resource for northern pastoralists",
+        "Supports a diverse local bird population",
+        "Characterized by extensive reed and papyrus beds",
+        "Key center for regional subsistence fishing",
+        "Acts as a buffer for seasonal floods",
+        "Essential for local biodiversity conservation"
+      ]
+    },
+    {
+      "id": "lake-pariak-nature-v2",
+      "descriptionAdvanced": "Lake Pariak is a scenic lake located in Jonglei State, south of the town of Bor. It is closely connected to the White Nile and reflects the typical wetland ecology of the region. The lake is surrounded by fertile floodplains that are used for both agriculture and seasonal cattle grazing. It is a popular spot for local fishing and is known for its relatively clear waters compared to the silt-heavy main river. Pariak provides a peaceful environment that supports a variety of aquatic life and serves as a local landmark for the Dinka communities of southern Jonglei. Science K4 – Shoreline ecosystems and their uses.",
+      "factsAdvanced": [
+        "Scenic lake located south of Bor in Jonglei",
+        "Directly connected to the White Nile system",
+        "Surrounded by fertile agricultural floodplains",
+        "Major local site for fishing and recreation",
+        "Habitat for various Nilotic fish and bird species",
+        "Important for local livestock watering",
+        "Exhibits a diverse range of aquatic flora"
+      ]
+    },
+    {
+      "id": "lake-anyi-nature-v2",
+      "descriptionAdvanced": "Lake Anyi is a remote and pristine freshwater lake situated in the eastern part of the country. It is part of the Sobat river system and is surrounded by vast, uninhabited savannas and woodlands. Due to its isolation, the lake has remained largely undisturbed, hosting a rich variety of wildlife, including various antelope species that come to its shores to drink. The lake is a critical stopover for migratory birds and is an important part of the eastern South Sudanese ecological corridor. It represents the wild and untouched character of the nation's eastern frontier. Science K6 – Conservation of remote ecosystems.",
+      "factsAdvanced": [
+        "Remote freshwater lake in the eastern savanna",
+        "Part of the ecologically rich Sobat basin",
+        "Pristine environment with high wildlife density",
+        "Critical watering hole for savanna antelopes",
+        "Important stopover for migratory bird species",
+        "Largely untouched by modern development",
+        "Key node in the eastern wildlife corridor"
+      ]
+    },
+    {
+      "id": "lol-river-nature-v2",
+      "descriptionAdvanced": "The Lol River is a major tributary in the northwestern part of South Sudan, flowing through Northern Bahr el Ghazal before joining the Bahr el Arab. The river is the lifeblood of the Aweil region, providing the water necessary for the massive Aweil Rice Scheme. During the rainy season, the Lol overflows its banks, creating vast fertile floodplains that are essential for both agriculture and seasonal grazing. The river also supports a significant local fishing industry and is a vital transport route for local communities. Geography K7 – The impact of rivers on regional agriculture.",
+      "factsAdvanced": [
+        "Major river in Northern Bahr el Ghazal",
+        "Primary water source for the Aweil Rice Scheme",
+        "Forms extensive fertile floodplains annually",
+        "Tributary of the Bahr el Arab system",
+        "Supports a thriving local fishing industry",
+        "Essential for livestock watering in the northwest",
+        "Key navigational route for local commerce"
+      ]
+    },
+    {
+      "id": "pongo-river-nature-v2",
+      "descriptionAdvanced": "The Pongo River is a significant waterway in the Bahr el Ghazal region, known for its meandering course and its lush gallery forests. It flows through parts of Warrap and Northern Bahr el Ghazal, contributing its waters to the larger river systems of the west. The river is surrounded by a diverse landscape of savannas and woodlands, providing a habitat for a wide variety of birdlife and small mammals. For the local communities, the Pongo is an essential source of water for subsistence farming and domestic use, playing a quiet but vital role in the regional ecology. Science K4 – Riverine forests and biodiversity.",
+      "factsAdvanced": [
+        "Significant river in the western Bahr el Ghazal",
+        "Characterized by a meandering course and lush banks",
+        "Provides water for regional subsistence farming",
+        "Habitat for diverse bird and mammal species",
+        "Surrounded by scenic gallery forests",
+        "Tributary in the larger Lol-Nile system",
+        "Vital for local community water security"
+      ]
+    },
+    {
+      "id": "jur-river-nature-v2",
+      "descriptionAdvanced": "The Jur River is one of the most important rivers in western South Sudan, flowing through the city of Wau and serving as a major tributary to the Bahr el Ghazal. The river is historically significant as a seasonal transport route, once allowing steamer navigation from the Nile into the heart of the west during the high-water months. Its banks are characterized by fertile soils and dense vegetation, supporting a high density of agricultural activity. The Jur is also a major source of fish and provides the primary water supply for the growing urban population of Wau. Geography K7 – Rivers as historical and modern transport links.",
+      "factsAdvanced": [
+        "Major river flowing through the city of Wau",
+        "Key tributary of the Bahr el Ghazal system",
+        "Historically navigable by seasonal Nile steamers",
+        "Primary water source for the city of Wau",
+        "Supports intensive riverside agricultural production",
+        "Rich in diverse Nilotic fish species",
+        "Essential for regional transport and logistics"
+      ]
+    },
+    {
+      "id": "tonj-river-nature-v2",
+      "descriptionAdvanced": "The Tonj River is a beautiful and ecologically important waterway in Warrap State, flowing past the town of Tonj toward the Sudd wetlands. The river is known for its clear waters and its relatively stable flow compared to other seasonal rivers in the region. Its banks are home to a variety of Nilotic trees and provide a vital habitat for water birds and crocodiles. For the Dinka communities, the Tonj River is a sacred resource, providing water for their massive cattle herds and supporting a local economy based on fishing and farming. Science K4 – The importance of stable river systems.",
+      "factsAdvanced": [
+        "Vital waterway in the heart of Warrap State",
+        "Flows into the vast Sudd wetland system",
+        "Known for relatively clear and stable waters",
+        "Primary water source for the town of Tonj",
+        "Critical habitat for Nile crocodiles and birdlife",
+        "Supports extensive regional cattle herding",
+        "Focal point for local Dinka cultural life"
+      ]
+    },
+    {
+      "id": "gelo-river-nature-v2",
+      "descriptionAdvanced": "The Gelo River is a significant eastern tributary that flows from the Ethiopian Highlands into the Pibor River in South Sudan. It is characterized by its swift current and its deep, forested valley, which stands in contrast to the flat plains further west. The river is the ancestral home of the Anyuak people, who have developed a culture closely tied to its waters and forests. The Gelo is rich in biodiversity, hosting species that are more common in the Ethiopian Highlands, and serves as a vital ecological bridge between the mountains and the Nile plains. Geography K8 – Mountain-to-plain river transitions.",
+      "factsAdvanced": [
+        "Originates in the Ethiopian Highlands",
+        "Major tributary of the Pibor River system",
+        "Flows through deep, forested valleys",
+        "Cultural heartland of the Anyuak people",
+        "High biodiversity with unique mountain species",
+        "Strategic water resource on the eastern border",
+        "Known for its swift and powerful currents"
+      ]
+    },
+    {
+      "id": "akobo-river-nature-v2",
+      "descriptionAdvanced": "The Akobo River is a major border river between South Sudan and Ethiopia, forming a natural boundary for much of its course. It is a vital part of the Sobat basin and is characterized by its seasonal floods, which create vast wetlands on both sides of the border. The river supports the livelihoods of both the Anyuak and Nuer communities, providing water for crops and livestock. Its remote and often inaccessible location has allowed for the preservation of a diverse range of wildlife, including large populations of hippos and aquatic birds. Geography K8 – Rivers as international boundaries.",
+      "factsAdvanced": [
+        "Forms a natural border with Ethiopia",
+        "Key component of the Sobat river system",
+        "Creates significant seasonal cross-border wetlands",
+        "Vital for Nuer and Anyuak pastoralist life",
+        "Supports large populations of hippos and crocodiles",
+        "Remote and pristine riverine environment",
+        "Critical for regional water management"
+      ]
+    },
+    {
+      "id": "pibor-river-nature-v2",
+      "descriptionAdvanced": "The Pibor River is a major waterway in eastern South Sudan, formed by the confluence of several rivers flowing from the Ethiopian Highlands. It flows north through a vast, flat savanna before joining the Sobat. The river is essential for the Murle and Nuer communities, serving as a primary source of water in an otherwise semi-arid region. During the rainy season, the Pibor expands significantly, making road travel impossible but opening up river navigation. It is a lifeline for the remote town of Pibor and a major habitat for savanna wildlife that migrates toward its banks in search of water. Geography K7 – Rivers in semi-arid savanna landscapes.",
+      "factsAdvanced": [
+        "Major eastern river flowing into the Sobat",
+        "Formed by Highland tributaries in the far east",
+        "Critical water source for the Murle people",
+        "Facilitates seasonal boat transport to Pibor",
+        "Creates essential dry-season wildlife refuges",
+        "Meanders through vast, flat grass savannas",
+        "Key administrative and logistical artery"
+      ]
+    },
+    {
+      "id": "sobat-river-nature-v2",
+      "descriptionAdvanced": "The Sobat River is one of the most important tributaries of the White Nile, known for its high sediment load that gives it a distinct milky-white color. Formed by the confluence of the Pibor and Baro rivers, the Sobat flows across the northern plains to join the Nile near Malakal. The river is a major artery for transport and trade, supporting a high density of population along its banks. Its seasonal floods are crucial for the regional agricultural cycle, depositing fertile silt that supports the growth of diverse crops. Geography K8 – The Sobat as a major Nile contributor.",
+      "factsAdvanced": [
+        "One of the largest contributors to the White Nile",
+        "Known for its distinctively high silt and sediment load",
+        "Confluence of the Baro and Pibor rivers",
+        "Major transport and trade artery for the north",
+        "Deposits fertile silt in northern floodplains",
+        "Supports large-scale Nilotic fishing",
+        "Strategic river for national security and trade"
+      ]
+    },
+    {
+      "id": "bahr-el-zeraf-nature-v2",
+      "descriptionAdvanced": "The Bahr el Zeraf, or 'River of Giraffes', is a major distributary of the White Nile that flows through the heart of the Sudd wetlands. It branches off from the main river and meanders through vast papyrus swamps before reconnecting with the White Nile further north. The Zeraf is essential for maintaining the hydrological balance of the Sudd and provides a unique habitat for a variety of swamp-dwelling wildlife. Historically, it was seen as an alternative route for Nile navigation, and its ecology remains one of the most pristine and less-explored parts of the world's largest wetland. Science K7 – Distributary systems in large-scale wetlands.",
+      "factsAdvanced": [
+        "Major distributary channel of the White Nile",
+        "Flows through the center of the Sudd swamps",
+        "Name translates to 'River of Giraffes'",
+        "Critical for the Sudd's hydrological stability",
+        "Pristine and remote wetland ecosystem",
+        "Major habitat for rare swamp bird species",
+        "Historical alternative route for Nile steamers"
+      ]
+    },
+    {
+      "id": "bahr-el-ghazal-river-nature-v2",
+      "descriptionAdvanced": "The Bahr el Ghazal, or 'River of Gazelles', is the primary western tributary of the White Nile. It is formed by the meeting of several large rivers from the west and flows through a series of complex lakes and marshes before reaching the Nile at Lake No. The river is known for its slow current and its tendency to disappear into vast swamps during the dry season. It is a critical ecological corridor that links the western savannas to the Nile system, providing a habitat for thousands of migratory birds and supporting the livelihoods of the Nuer and Dinka communities. Geography K8 – The Bahr el Ghazal basin and its ecology.",
+      "factsAdvanced": [
+        "Primary western tributary of the White Nile",
+        "Joins the Mountain Nile at Lake No",
+        "Drains the vast Bahr el Ghazal basin",
+        "Characterized by slow currents and extensive swamps",
+        "Critical ecological corridor for migratory species",
+        "Historically significant for western navigation",
+        "Supports diverse wetland flora and fauna"
+      ]
+    },
+    {
+      "id": "white-nile-river-nature-v2",
+      "descriptionAdvanced": "The White Nile is the defining geographical feature of South Sudan, providing the lifeblood for its people, economy, and ecosystems. It enters the country from Uganda and flows north toward the border with Sudan, undergoing a dramatic transformation as it passes through the vast Sudd swamps. The river is a global biodiversity hotspot and serves as the primary artery for transport, trade, and energy production. Its waters sustain the world's largest wetland and support one of the greatest livestock populations on the continent. The White Nile is truly the spine of the nation. Geography K7 – The White Nile as a national and regional lifeline.",
+      "factsAdvanced": [
+        "Primary river system of South Sudan",
+        "Sustains the world's largest wetland, the Sudd",
+        "Major international waterway and transport artery",
+        "Global biodiversity hotspot for aquatic life",
+        "Primary source of water for national agriculture",
+        "Essential for the country's petroleum logistics",
+        "Connects the African Great Lakes to the Mediterranean"
+      ]
+    },
+    {
+      "id": "mountain-nile-nature-v2",
+      "descriptionAdvanced": "The Mountain Nile, known locally as the Bahr el Jabal, is the section of the White Nile that flows from the border with Uganda through the southern parts of South Sudan. It is characterized by its powerful currents and its descent through a series of rapids, including the spectacular Fula Rapids. This section of the river is geographically distinct due to the presence of high hills and mountains along its banks. The Mountain Nile provides the hydraulic energy that is vital for future hydroelectric projects and serves as a critical transport link between the Ugandan border and the capital, Juba. Geography K7 – The high-energy section of the Upper Nile.",
+      "factsAdvanced": [
+        "The southern, high-energy section of the Nile",
+        "Known for its powerful currents and rapids",
+        "Features the spectacular Fula Rapids",
+        "Located in a scenic mountainous landscape",
+        "Critical potential source for hydroelectric power",
+        "Main transport link between Nimule and Juba",
+        "Forms a unique ecological zone in the south"
+      ]
+    }
+  ]
+}

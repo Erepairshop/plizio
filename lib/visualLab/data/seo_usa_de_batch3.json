@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tampa-cities-v2",
+      "descriptionAdvanced": "Tampa liegt an der Westküste Floridas an den Ufern der Tampa Bay. Nachdem die Region 1824 mit der Errichtung von Fort Brooke besiedelt wurde, erlebte sie in den 1880er Jahren durch den Eisenbahnbaron Henry Plant einen gigantischen wirtschaftlichen Aufschwung. Besondere historische und kulturelle Bedeutung hat das Viertel Ybor City, das von kubanischen und spanischen Einwanderern gegründet wurde und jahrzehntelang als 'Zigarrenhauptstadt der Welt' fungierte. Heute stützt sich Tampas Wirtschaft auf Finanzen, Gesundheitswesen und den Seehandel; der Port Tampa Bay ist der größte Hafen Floridas. Zudem beherbergt die Stadt die MacDill Air Force Base. Geographie K7 — Wirtschaftliche Bedeutung von natürlichen Buchten in Florida.",
+      "factsAdvanced": [
+        "Liegt an einer der größten natürlichen Buchten am Golf von Mexiko",
+        "Das historische Viertel Ybor City war einst das Zentrum der globalen Zigarrenproduktion",
+        "Heimat der MacDill Air Force Base, Hauptquartier des US Central Command",
+        "Der Port Tampa Bay ist floridas größter Seehafen bezüglich der Tonnage",
+        "Die University of South Florida (USF) ist ein wichtiger Forschungsstandort",
+        "Verfügt über den berühmten Busch Gardens Vergnügungspark"
+      ]
+    },
+    {
+      "id": "honolulu-cities-v2",
+      "descriptionAdvanced": "Honolulu ist die Hauptstadt und größte Stadt des US-Bundesstaates Hawaii, gelegen an der Südküste der Insel Oʻahu. Sie ist die am weitesten abgelegene Großstadt der Welt und dient als wichtiges wirtschaftliches und kulturelles Bindeglied zwischen Nordamerika und Asien. Historisch war Honolulu der Sitz des hawaiianischen Königreichs, wovon noch heute der ʻIolani-Palast, der einzige königliche Palast in den USA, zeugt. Weltweite Bekanntheit erlangte die Stadt durch den verheerenden Angriff auf Pearl Harbor am 7. Dezember 1941, der den Eintritt der USA in den Zweiten Weltkrieg auslöste. Heute wird die Skyline durch massive Hotelbauten am weltberühmten Waikiki Beach und den markanten Vulkankrater Diamond Head geprägt. Geographie K8 — Inselökonomien und pazifische Verbindungen.",
+      "factsAdvanced": [
+        "Die südlichste und westlichste Großstadt der Vereinigten Staaten",
+        "Beherbergt den ʻIolani-Palast, den ehemaligen Sitz der hawaiianischen Monarchen",
+        "Schauplatz des japanischen Angriffs auf Pearl Harbor im Jahr 1941",
+        "Die Wirtschaft ist massiv vom internationalen Tourismus abhängig",
+        "Der Waikiki Beach ist einer der berühmtesten Strände der Welt",
+        "Liegt unmittelbar am Fuß des erloschenen Vulkans Diamond Head"
+      ]
+    },
+    {
+      "id": "anaheim-cities-v2",
+      "descriptionAdvanced": "Anaheim liegt im Orange County in Südkalifornien und wurde 1857 von fünfzig deutschen Familien als landwirtschaftliche Siedlung zum Weinbau gegründet (daher der Name 'Anaheim' – Heim an der Santa Ana River). Diese landwirtschaftliche Prägung verschwand rasch nach dem Zweiten Weltkrieg. Eine absolute Zäsur erlebte die Stadt 1955 mit der Eröffnung von Disneyland durch Walt Disney. Dieses revolutionäre Konzept eines Themenparks katapultierte Anaheim zu einem globalen Touristenzentrum. Heute ist die Stadt weitaus mehr als nur ein Urlaubsziel; sie verfügt über das größte Kongresszentrum an der Westküste und besitzt mit den Anaheim Ducks (Baseball) und Anaheim Ducks (Eishockey) zwei große Profi-Sportmannschaften. Wirtschaft K7 — Der Übergang von der Landwirtschaft zur Freizeitindustrie.",
+      "factsAdvanced": [
+        "1857 von deutschen Weinbauern in Südkalifornien gegründet",
+        "Standort des ersten und originalen Disneyland-Themenparks (eröffnet 1955)",
+        "Beherbergt das Anaheim Convention Center, das größte an der US-Westküste",
+        "Die Wirtschaft wandelte sich in den 1950er Jahren von Orangenplantagen zum Tourismus",
+        "Sitz des Major League Baseball-Teams Los Angeles Angels",
+        "Besitzt eine bedeutende verarbeitende Industrie und Elektronikfertigung"
+      ]
+    },
+    {
+      "id": "orlando-cities-v2",
+      "descriptionAdvanced": "Orlando liegt im Zentrum des Bundesstaates Florida und ist weltweit als 'The Theme Park Capital of the World' (Hauptstadt der Themenparks) bekannt. Bis zur Mitte des 20. Jahrhunderts war die Wirtschaft der Region stark von der Zitrusfrüchte-Produktion abhängig. Dies änderte sich drastisch ab 1971, als das riesige Walt Disney World Resort in der Nähe eröffnete, gefolgt von den Universal Studios und SeaWorld. Diese gigantischen Komplexe zogen massiven Tourismus an und machten Orlando zu einer der meistbesuchten Städte der Welt. Neben der Unterhaltungsindustrie ist die Stadt auch ein bedeutendes Zentrum für Hochtechnologie, Luftfahrt und militärische Simulation, stark unterstützt durch die wachsende University of Central Florida. Geographie K8 — Die ökonomische Macht von Megatourismus in Zentralflorida.",
+      "factsAdvanced": [
+        "Trägt den offiziellen Spitznamen 'The City Beautiful'",
+        "Weltweites Zentrum für gigantische Themenparks (Disney World, Universal, SeaWorld)",
+        "Zählt jährlich über 70 Millionen in- und ausländische Touristen",
+        "Verfügt über das zweitgrößte Kongresszentrum in den Vereinigten Staaten",
+        "Ist ein bedeutendes nationales Zentrum für militärische Simulationen und Flugtraining",
+        "Erlebte nach 1971 eines der schnellsten städtischen Wachstumsraten in den USA"
+      ]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "descriptionAdvanced": "Pittsburgh liegt im Westen von Pennsylvania am Zusammenfluss von Allegheny River und Monongahela River, die hier den mächtigen Ohio River bilden (das sogenannte 'Golden Triangle'). Im 19. und frühen 20. Jahrhundert entwickelte sich Pittsburgh zur unangefochtenen Hauptstadt der US-amerikanischen Stahlindustrie ('Steel City'), maßgeblich vorangetrieben durch Industrielle wie Andrew Carnegie. Nach dem schmerzhaften Zusammenbruch der Stahlbranche in den 1970er und 1980er Jahren vollzog die Stadt einen bemerkenswerten Strukturwandel. Heute dominieren Robotik, Medizintechnik, Bildung und Finanzwesen die Wirtschaft, stark unterstützt durch die Carnegie Mellon University und die University of Pittsburgh. Die hügelige Topografie erfordert Hunderte von Brücken, was der Stadt auch den Namen 'City of Bridges' einbrachte. Wirtschaft K8 — Erfolgreiche Transformation einer Rust-Belt-Stadt.",
+      "factsAdvanced": [
+        "Bekannt als 'Steel City' wegen seiner massiven historischen Stahlproduktion",
+        "Verfügt über 446 Brücken und damit mehr als Venedig",
+        "Erlebte einen erfolgreichen Strukturwandel von der Schwerindustrie zur Hochtechnologie",
+        "Heimat der Carnegie Mellon University, einem Weltmarktführer für Robotik",
+        "Das 'Golden Triangle' ist das Geschäftszentrum am Zusammenfluss von drei Flüssen",
+        "Jonas Salk entwickelte an der University of Pittsburgh den ersten Polio-Impfstoff"
+      ]
+    },
+    {
+      "id": "st-louis-cities-v2",
+      "descriptionAdvanced": "St. Louis liegt am westlichen Ufer des Mississippi River im Bundesstaat Missouri, unmittelbar südlich der Mündung des Missouri River. Im Jahr 1764 von französischen Pelzhändlern gegründet, wurde die Stadt nach König Ludwig IX. von Frankreich benannt. Historisch fungierte St. Louis als das entscheidende 'Tor zum Westen' (Gateway to the West) für unzählige Entdecker – hier startete 1804 die berühmte Lewis-und-Clark-Expedition. Im späten 19. Jahrhundert war es durch den massiven Flusshandel eine der größten Städte der USA und Austragungsort der Weltausstellung sowie der Olympischen Spiele 1904. Der monumentale, 192 Meter hohe Gateway Arch prägt heute die Skyline und erinnert an die Westexpansion der Vereinigten Staaten. Geschichte K8 — Die Erschließung des Westens und Flusshandel.",
+      "factsAdvanced": [
+        "1764 von den französischen Händlern Pierre Laclède und René Auguste Chouteau gegründet",
+        "Der Gateway Arch ist mit 192 Metern das höchste Nationalmonument der USA",
+        "Diente im 19. Jahrhundert als zentraler Startpunkt für Pioniere nach Westen",
+        "War 1904 Gastgeber der ersten Olympischen Spiele außerhalb Europas",
+        "Die Anheuser-Busch-Brauerei, gegründet 1852, hat hier ihren historischen Hauptsitz",
+        "Zentrum der afroamerikanischen Blues- und Ragtime-Musik (Scott Joplin)"
+      ]
+    },
+    {
+      "id": "riverside-cities-v2",
+      "descriptionAdvanced": "Riverside ist die bevölkerungsreichste Stadt im sogenannten Inland Empire, einer großen Metropolregion in Südkalifornien, östlich von Los Angeles gelegen. Sie wurde in den 1870er Jahren gegründet und gilt als Geburtsort der kalifornischen Zitrusindustrie. 1871 pflanzte Eliza Tibbets hier die ersten beiden Washington-Navel-Orangenbäume, was einen beispiellosen landwirtschaftlichen Boom und massiven Reichtum für die Region auslöste. Das beeindruckende Mission Inn, ein historisches Hotel im Stil der spanischen Missionsarchitektur, zeugt noch heute von dieser wohlhabenden Ära. Zwar ist die Landwirtschaft inzwischen weitgehend der Vorstadtbebauung und Logistikzentren gewichen, doch die University of California, Riverside, bewahrt den intellektuellen Kern der Stadt mit starkem Fokus auf agrarwissenschaftliche Forschung. Geographie K7 — Zitruswirtschaft und das Inland Empire in Kalifornien.",
+      "factsAdvanced": [
+        "Gilt als der absolute historische Geburtsort der kalifornischen Zitrusindustrie",
+        "Der erste Navel-Orangenbaum wurde hier 1871 erfolgreich kultiviert",
+        "Das Mission Inn Hotel & Spa ist eines der größten Gebäude im spanischen Missionsstil",
+        "Zentrum des stark wachsenden Ballungsraums 'Inland Empire'",
+        "Die Wirtschaft basiert heute stark auf Leichtindustrie und riesigen Logistikzentren",
+        "Beherbergt die University of California, Riverside (UCR)"
+      ]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "descriptionAdvanced": "Santa Ana ist der Verwaltungssitz (County Seat) des bevölkerungsreichen Orange County in Südkalifornien. Die Stadt liegt im Flusstal des Santa Ana River und wurde 1869 von William H. Spurgeon gegründet. Im frühen 20. Jahrhundert entwickelte sie sich zum wirtschaftlichen und politischen Knotenpunkt der Region. Santa Ana zeichnet sich heute durch eine der höchsten Bevölkerungsdichten in den Vereinigten Staaten aus, bedingt durch eine enorm starke hispanische Gemeinde, die das kulturelle und kulinarische Leben im historischen Stadtzentrum (Downtown Santa Ana) massiv prägt. Obwohl oft im Schatten der benachbarten Freizeitmetropole Anaheim stehend, ist Santa Ana ein wichtiges Verwaltungs-, Handels- und Produktionszentrum für das südliche Kalifornien. Geographie K7 — Verwaltung und demografischer Wandel in Südkalifornien.",
+      "factsAdvanced": [
+        "1869 gegründet und seit 1889 der offizielle Sitz des Orange County",
+        "Verfügt über eine der höchsten Bevölkerungsdichten für Städte dieser Größe in den USA",
+        "Die Bevölkerung ist zu über 75 Prozent hispanischer Abstammung",
+        "Das historische Downtown-Viertel besitzt eine markante Art-déco-Architektur",
+        "Beherbergt das Bowers Museum und das Discovery Cube Science Center",
+        "Sitz zahlreicher bundes- und einzelstaatlicher Regierungsbehörden für die Region"
+      ]
+    },
+    {
+      "id": "cincinnati-cities-v2",
+      "descriptionAdvanced": "Cincinnati liegt im südwestlichen Eck des Bundesstaates Ohio, direkt am Ufer des Ohio River an der Grenze zu Kentucky. Die 1788 gegründete Stadt erlebte im 19. Jahrhundert ein massives Wachstum durch den Dampfschiffhandel auf dem Fluss und die Fertigstellung des Miami-Erie-Kanals. Wegen dieses rapiden Aufstiegs wurde sie oft als die 'Königin des Westens' (Queen City of the West) bezeichnet. Cincinnati profitierte stark von der deutschen Einwanderung, die den Stadtteil 'Over-the-Rhine' mit einer weltweit einzigartigen Dichte an italienischer Architektur des 19. Jahrhunderts prägte. Wirtschaftlich ist die Metropole heute ein Machtzentrum; sie beherbergt den globalen Hauptsitz des Konsumgütergiganten Procter & Gamble (P&G) sowie der Lebensmittelkette Kroger. Wirtschaft K8 — Der Einfluss des Flusshandels auf die frühe US-Wirtschaft.",
+      "factsAdvanced": [
+        "1788 inkorporiert und später oft als 'Queen City' bezeichnet",
+        "War im 19. Jahrhundert eine der am schnellsten wachsenden Boomstädte der USA",
+        "Das historische Viertel 'Over-the-Rhine' bewahrt Architektur von deutschen Einwanderern",
+        "Hauptquartier zahlreicher Fortune-500-Unternehmen, darunter Procter & Gamble",
+        "Die Roebling Suspension Bridge (1866) diente als Prototyp für die Brooklyn Bridge",
+        "Die Cincinnati Reds waren 1869 das erste professionelle Baseballteam der Welt"
+      ]
+    },
+    {
+      "id": "lexington-cities-v2",
+      "descriptionAdvanced": "Lexington, im Herzen der Bluegrass-Region von Kentucky gelegen, wird weltweit als 'Horse Capital of the World' (Pferdehauptstadt der Welt) anerkannt. Die sanft abfallenden, kalksteinreichen Böden der Umgebung bieten ideale Bedingungen zur Aufzucht von englischen Vollblütern. Die Stadt ist umgeben von Hunderten malerischer Pferdefarmen, die durch strikte städtebauliche Grenzen vor der fortschreitenden Zersiedelung geschützt werden. In Lexington befinden sich der berühmte Keeneland-Rennplatz und der Kentucky Horse Park. Neben der dominierenden Pferdeindustrie stützt sich die Wirtschaft auf Technologiezweige und die University of Kentucky, deren Campus das Stadtleben stark akademisch und kulturell prägt. Lexington war zudem eines der ersten Zentren der Bildung westlich der Appalachen ('Athen des Westens'). Geographie K7 — Geologie und spezialisierte Landwirtschaft im Bluegrass.",
+      "factsAdvanced": [
+        "Weltweit anerkannte Hauptstadt für die Zucht von englischen Vollblutpferden",
+        "Die Wirtschaft basiert massiv auf der Pferdeindustrie und dem Reitsport",
+        "Verfügt über eine strenge städtische Wachstumsgrenze (Urban Growth Boundary) zum Schutz der Farmen",
+        "Heimat der University of Kentucky, der größten Universität des Bundesstaates",
+        "Beherbergt den weitläufigen Kentucky Horse Park für Reitturniere und Museen",
+        "Zentrum der Tabak- und Hanfproduktion im 19. und 20. Jahrhundert"
+      ]
+    },
+    {
+      "id": "anchorage-cities-v2",
+      "descriptionAdvanced": "Anchorage ist mit Abstand die einwohnerreichste Stadt in Alaska; hier lebt fast die Hälfte der Bevölkerung des gesamten Bundesstaates. Sie liegt im tiefen Norden am Cook Inlet, umgeben von den spektakulären Chugach Mountains. Anchorage wurde 1914 als strategisches Zeltlager für den Bau der Alaska Railroad gegründet. Die Wirtschaft erlebte massive Booms durch das Militär im Zweiten Weltkrieg, die Entdeckung gigantischer Ölfelder an der Prudhoe Bay 1968 und den Bau der Trans-Alaska-Pipeline. Am 27. März 1964 wurde Anchorage vom katastrophalen Karfreitagsbeben (Magnitude 9,2) schwer verwüstet, dem stärksten jemals in Nordamerika gemessenen Erdbeben. Heute ist die Stadt ein globales Drehkreuz für Luftfracht (Ted Stevens Anchorage International Airport) und den Polartourismus. Geographie K8 — Wirtschaft und Naturgefahren in der Subarktis.",
+      "factsAdvanced": [
+        "Beherbergt rund 40 Prozent der gesamten Bevölkerung von Alaska",
+        "1914 als Konstruktionslager für die Alaska Railroad gegründet",
+        "Wurde beim Karfreitagsbeben 1964 (Magnitude 9,2) massiv beschädigt",
+        "Ein Großteil der Wirtschaft basiert auf der Erdölförderung, dem Militär und Tourismus",
+        "Der Flughafen ist eines der verkehrsreichsten Luftfracht-Drehkreuze der Welt",
+        "Der Startpunkt des legendären Iditarod-Hundeschlittenrennens befindet sich oft in der Nähe"
+      ]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "descriptionAdvanced": "Stockton liegt am San Joaquin River im Central Valley von Kalifornien. Die 1849 während des kalifornischen Goldrauschs gegründete Stadt diente als wichtiger Versorgungsposten für die Minenarbeiter in den Bergen. Heute ist das geografisch herausragendste Merkmal der Port of Stockton, einer der größten Binnenhäfen der Vereinigten Staaten. Durch ein aufwendiges System ausgebaggerter Kanäle können Hochseeschiffe vom Pazifik bis tief ins landwirtschaftliche Hinterland fahren. Stocktons Wirtschaft ist massiv mit der Agrarindustrie des Tals verwoben. In den frühen 2010er Jahren erlangte die Stadt unrühmliche Bekanntheit, als sie sich bankrott erklärte – zum damaligen Zeitpunkt der größte kommunale Bankrott in der US-Geschichte. Wirtschaft K8 — Binnenhäfen und kommunale Finanzkrisen.",
+      "factsAdvanced": [
+        "1849 während des kalifornischen Goldrauschs als Logistikposten gegründet",
+        "Verfügt über einen massiven Binnenhafen (Port of Stockton) im Central Valley",
+        "Hochseeschiffe können über den San Joaquin River bis in die Stadt fahren",
+        "Erklärte 2012 als bis dato größte US-Stadt den finanziellen Bankrott",
+        "Wichtiger Umschlagplatz für die gigantische landwirtschaftliche Produktion Kaliforniens",
+        "Heimat der University of the Pacific, der ältesten in Kalifornien gecharterten Universität"
+      ]
+    },
+    {
+      "id": "toledo-cities-v2",
+      "descriptionAdvanced": "Toledo, gelegen an der westlichen Spitze des Eriesees im Bundesstaat Ohio, ist tief mit der amerikanischen Industriegeschichte verwoben. Die 1833 gegründete Stadt wurde als Endpunkt des Miami-Erie-Kanals schnell zu einem kritischen Transportzentrum. Im späten 19. Jahrhundert zog die boomende Glasproduktion zahlreiche Hersteller an, was Toledo bis heute den Spitznamen 'The Glass City' (Die Glasstadt) einbrachte. Unternehmen wie Owens Corning und Libbey Glass prägten die Weltmärkte. Ein weiterer Pfeiler war und ist die Automobilindustrie; hier befindet sich das berühmte Jeep-Montagewerk, das die Marke seit dem Zweiten Weltkrieg produziert. Obwohl Toledo durch den Niedergang des 'Rust Belt' stark getroffen wurde, hat es in Solarenergie und Leichtindustrie investiert. Wirtschaft K8 — Spezialisierte Industriezentren und der Rust Belt.",
+      "factsAdvanced": [
+        "Weltweit als 'The Glass City' bekannt wegen der massiven Glasindustrie",
+        "Gelegen an der strategisch wichtigen Mündung des Maumee River in den Eriesee",
+        "Historischer Produktionsort des legendären Willys Jeep seit den 1940er Jahren",
+        "War 1835 Auslöser des fast blutigen 'Toledo War' zwischen Ohio und Michigan",
+        "Das Toledo Museum of Art beherbergt eine herausragende Glassammlung",
+        "Zentrum der modernen US-amerikanischen Solarmodulproduktion"
+      ]
+    },
+    {
+      "id": "st-paul-cities-v2",
+      "descriptionAdvanced": "Saint Paul ist die Hauptstadt des US-Bundesstaates Minnesota und bildet zusammen mit Minneapolis die berühmte Metropolregion der 'Twin Cities'. Die Stadt liegt an den Ufern des oberen Mississippi River und entstand im frühen 19. Jahrhundert aus Siedlungen um Fort Snelling, einem wichtigen Militärposten. Während das nahe Minneapolis stark industriell geprägt war, entwickelte sich Saint Paul, getrieben durch Eisenbahnbaron James J. Hill, zu einem Zentrum für Transportwesen, Finanzen und Regierungsgeschäfte. Das architektonisch spektakuläre Minnesota State Capitol dominiert das Stadtzentrum. Kulturell hat Saint Paul starke irische und deutsche Wurzeln und feiert dies unter anderem mit dem jährlichen Saint Paul Winter Carnival. Geschichte K7 — Verkehrsknotenpunkte und Regierungszentren im Mittleren Westen.",
+      "factsAdvanced": [
+        "Die offizielle Hauptstadt von Minnesota und Teil der 'Twin Cities'",
+        "Entwickelte sich als logistischer Kopf der Great Northern Railway",
+        "Die Summit Avenue ist bekannt für die längste zusammenhängende Reihe viktorianischer Villen",
+        "Das Xcel Energy Center ist die Heimat des Eishockeyteams Minnesota Wild",
+        "F. Scott Fitzgerald, der Autor des 'Great Gatsby', stammte aus Saint Paul",
+        "Historischer Ruf als Rückzugsort für Gangster in den 1920ern (z.B. John Dillinger)"
+      ]
+    },
+    {
+      "id": "newark-cities-v2",
+      "descriptionAdvanced": "Newark ist die bevölkerungsreichste Stadt im Bundesstaat New Jersey und liegt am Ufer des Passaic River. Gegründet 1666 von puritanischen Siedlern aus Connecticut, entwickelte sich Newark im 19. und 20. Jahrhundert zu einem gigantischen Industriezentrum (Lederwaren, Bier, Schmuck). Die Stadt erlebte in den 1960er Jahren durch massive Rassenunruhen ('Newark Riots' von 1967) und den anschließenden Exodus der Mittelschicht einen schweren wirtschaftlichen Einbruch. Heute profitiert Newark massiv von seiner Lage im New Yorker Metropolraum. Die Wirtschaft wird stark durch Logistik angetrieben: Der Port Newark-Elizabeth Marine Terminal ist der wichtigste Hafen an der Ostküste, und der Newark Liberty International Airport gehört zu den verkehrsreichsten des Landes. Wirtschaft K8 — Deindustrialisierung und die Bedeutung der Logistik in Megalopolen.",
+      "factsAdvanced": [
+        "1666 von englischen Puritanern gegründet (eine der ältesten Städte der USA)",
+        "Der Flughafen Newark Liberty war der erste kommerzielle Flughafen in der Metropolregion NY",
+        "Der Hafen von Newark bildet das größte Containerterminal an der US-Ostküste",
+        "Schauplatz verheerender sozialer Unruhen (Riots) im Sommer 1967",
+        "Hauptquartier der Prudential Financial und Panasonic Corporation of North America",
+        "Bedeutendes Bildungszentrum mit dem New Jersey Institute of Technology (NJIT)"
+      ]
+    },
+    {
+      "id": "henderson-cities-v2",
+      "descriptionAdvanced": "Henderson ist die zweitgrößte Stadt in Nevada und grenzt südöstlich direkt an das weitaus berühmtere Las Vegas. Im Gegensatz zu Las Vegas entstand Henderson nicht durch Tourismus, sondern durch den Zweiten Weltkrieg: Die Stadt wurde 1941 als Standort für das massive Magnesiumwerk Basic Magnesium Plant gegründet ('The town born in defense of our country'). Dieses Magnesium war absolut entscheidend für die Produktion von Brandbomben und Flugzeugteilen. Nach dem Krieg verwandelte sich Henderson erfolgreich in eine boomende, geplante Wohnvorstadt für die wachsende Bevölkerung im Las Vegas Valley. Heute prägen große Master-Planned-Communities, Parks und eine diversifizierte Wirtschaft die Stadt, die regelmäßig zu den sichersten Großstädten der USA gewählt wird. Geographie K7 — Rüstungsindustrie und städtische Masterpläne in Wüsten.",
+      "factsAdvanced": [
+        "Wurde 1941 explizit zur Unterstützung der Magnesiumproduktion im Weltkrieg gegründet",
+        "Gilt als eine der sichersten Großstädte in den gesamten Vereinigten Staaten",
+        "Zweitgrößte Stadt in Nevada nach Las Vegas",
+        "Die Wirtschaft verlagerte sich von der Schwerindustrie zu Vorstadt-Dienstleistungen",
+        "Verfügt über mehr als 60 sorgfältig geplante, große Parks (Master-Planned)",
+        "Liegt in unmittelbarer Nähe zum Hoover-Staudamm und dem Lake Mead"
+      ]
+    },
+    {
+      "id": "plano-cities-v2",
+      "descriptionAdvanced": "Plano liegt im Norden von Texas und ist ein wesentlicher Bestandteil der riesigen Metropolregion Dallas-Fort Worth. Einst ein bescheidenes Bauerndorf, erlebte die Stadt in den 1980er Jahren eine explosive Entwicklung zu einer wirtschaftlichen Hochburg ('Corporate Headquarters City'). Aufgrund exzellenter Infrastruktur, hervorragender öffentlicher Schulen und großflächiger Geschäftsbezirke verlegten dutzende große Konzerne ihre nordamerikanischen Hauptsitze nach Plano, darunter Toyota North America, Frito-Lay, JCPenney und Ericsson. Das Stadtbild ist typisch für moderne, prosperierende Sun-Belt-Vorstädte mit weitläufigen Wohnvierteln, Einkaufszentren und starker Automobilabhängigkeit. Geographie K8 — Entstehung von 'Edge Cities' und Corporate Campus-Strukturen.",
+      "factsAdvanced": [
+        "Gilt als Paradebeispiel für eine wohlhabende 'Edge City' (Randstadt)",
+        "Dient als Nordamerika-Hauptsitz für Toyota, Frito-Lay und Pizza Hut",
+        "Das Plano Independent School District gilt als eines der besten öffentlichen Schulsysteme",
+        "Erlebte ein rasantes Bevölkerungswachstum von 17.000 (1970) auf fast 300.000 heute",
+        "Verfügt über ein eigenes leichtes Schienennetz (DART), das sie mit Dallas verbindet",
+        "Das Southfork Ranch (aus der Fernsehserie 'Dallas') liegt in unmittelbarer Nähe"
+      ]
+    },
+    {
+      "id": "irvine-cities-v2",
+      "descriptionAdvanced": "Irvine, im Herzen des Orange County in Südkalifornien, ist eines der weltweit bekanntesten und erfolgreichsten Beispiele für eine privat geplante Stadt (Master-Planned Community). Entworfen in den 1960er Jahren von der Irvine Company und dem Architekten William Pereira, gliedert sich die Stadt in strenge, in sich geschlossene 'Villages', die Wohnen, Gewerbe und ausgedehnte Grünflächen integrieren. Das Zentrum bildet die renommierte University of California, Irvine (UCI). Irvine hat sich zu einem massiven Wirtschaftsmotor in den Bereichen Technologie und Halbleiter (z.B. Broadcom, Western Digital) sowie in der Videospielindustrie (Blizzard Entertainment) entwickelt. Bemerkenswert ist zudem die extrem niedrige Kriminalitätsrate der Stadt. Geographie K8 — Master-Planned Communities und Technologiezentren.",
+      "factsAdvanced": [
+        "Ist eine der größten vollständig privat geplanten Städte der USA",
+        "Wurde um den Campus der University of California, Irvine (UCI) herum entworfen",
+        "Wird vom FBI regelmäßig als eine der sichersten Städte Amerikas eingestuft",
+        "Heimat zahlreicher asiatischer Hightech-Hauptsitze (z.B. Mazda, Kia)",
+        "Jedes Wohnviertel ('Village') hat eine eigene homogene Architektur",
+        "Verfügt über mehr als 16.000 Hektar bewahrtes Naturland innerhalb der Stadtgrenzen"
+      ]
+    },
+    {
+      "id": "durham-cities-v2",
+      "descriptionAdvanced": "Durham in North Carolina liegt im zentralen Piedmont-Gebiet und ist eine der drei Ankerstädte des weltbekannten 'Research Triangle'. Historisch wuchs Durham ('The Bull City') massiv durch die Tabakindustrie, angetrieben von der einflussreichen Duke-Familie, sowie durch eine starke Textilproduktion. In den 1920er Jahren besaß die Stadt eine afroamerikanische Gemeinde (Hayti), die wirtschaftlich so florierte, dass sie als 'Black Wall Street' des Südens bezeichnet wurde. Nach dem Niedergang der Tabakindustrie im 20. Jahrhundert erfand sich Durham durch die Spitzenmedizin und Technologie radikal neu. Die Duke University, insbesondere ihr weitreichendes medizinisches System, ist heute der unbestrittene intellektuelle und wirtschaftliche Kern der Stadt. Geschichte K8 — Tabakindustrie, afroamerikanische Wirtschaftszentren und Universitäten.",
+      "factsAdvanced": [
+        "Historisch weltweit als führendes Zentrum der Tabakverarbeitung (Bull Durham) bekannt",
+        "Heimat der privaten Duke University, einer der renommiertesten Hochschulen weltweit",
+        "Das historische Viertel Hayti war ein Zentrum afroamerikanischen Wohlstands",
+        "Ein Kernmitglied des Research Triangle Park (Hightech und Medizin)",
+        "Viele alte Tabakfabriken (wie der American Tobacco Campus) wurden zu Lofts revitalisiert",
+        "Die Duke University Health System ist der weitaus größte Arbeitgeber der Stadt"
+      ]
+    },
+    {
+      "id": "st-petersburg-fl-cities-v2",
+      "descriptionAdvanced": "St. Petersburg, am Golf von Mexiko gelegen, bildet die Spitze einer großen Halbinsel an der Tampa Bay in Florida. Gegründet von Peter Demens und John C. Williams, wuchs die Stadt mit dem Bau der Orange Belt Railway. Da hier an durchschnittlich 361 Tagen im Jahr die Sonne scheint, wird sie offiziell als 'The Sunshine City' vermarktet. Diese klimatische Konstanz machte St. Petersburg zu einem enorm beliebten Ziel für Urlauber und Rentner. In den letzten Jahrzehnten hat die Stadt ihr Image jedoch durch eine lebendige Kunstszene stark verjüngt. Absolutes Highlight ist das Salvador Dalí Museum, welches die größte Sammlung der Werke des surrealistischen Künstlers außerhalb Europas beherbergt. Geographie K7 — Tourismuswirtschaft und klimatische Vorteile auf der Halbinsel.",
+      "factsAdvanced": [
+        "Hält den Guinness-Weltrekord für die meisten aufeinanderfolgenden Sonnentage (768 Tage)",
+        "Beherbergt das weltberühmte Salvador Dalí Museum",
+        "Trägt aufgrund des Wetters den offiziellen Spitznamen 'The Sunshine City'",
+        "Entwickelte sich im 20. Jahrhundert zu einem der gefragtesten Rentnerparadiese",
+        "Ist stark durch Yachthäfen und den Bootstourismus geprägt",
+        "Sitz des Major League Baseball-Teams Tampa Bay Rays im Tropicana Field"
+      ]
+    },
+    {
+      "id": "jersey-city-cities-v2",
+      "descriptionAdvanced": "Jersey City im US-Bundesstaat New Jersey liegt auf einer Halbinsel, unmittelbar gegenüber von Lower Manhattan, getrennt durch den Hudson River. Im späten 19. und frühen 20. Jahrhundert diente die Stadt als das gigantische Bahntor der Ostküste; Millionen von Einwanderern reisten nach ihrer Ankunft auf Ellis Island über das Central Railroad of New Jersey Terminal in das Landesinnere. Nach der Deindustrialisierung durchlief Jersey City seit den 1980er Jahren eine bemerkenswerte Renaissance. Große Wall-Street-Unternehmen verlegten ihre Bürogebäude auf die andere Seite des Flusses, was die beeindruckende Skyline ('Wall Street West') entstehen ließ. Die Stadt zeichnet sich durch eine enorme ethnische Diversität und starke Pendlerströme aus. Wirtschaft K8 — Gentrifizierung, Finanzzentren und Einwanderungsgeschichte.",
+      "factsAdvanced": [
+        "Liegt direkt am Hudson River gegenüber von Manhattan (New York City)",
+        "Historisch ein massives Transportzentrum für Einwanderer, die Ellis Island verließen",
+        "Die neu bebaute Uferpromenade wird oft als 'Wall Street West' bezeichnet",
+        "Gehört zu den ethnisch vielfältigsten Städten in den Vereinigten Staaten",
+        "Ein wichtiger Knotenpunkt für Pendler mit PATH-Zügen und Fährverbindungen",
+        "War im 19. Jahrhundert stark von Eisenbahnen und schwerer Schifffahrt geprägt"
+      ]
+    },
+    {
+      "id": "chandler-cities-v2",
+      "descriptionAdvanced": "Chandler ist eine große, prosperierende Vorstadt in der Metropolregion Phoenix in Arizona. Die Stadt wurde 1912 von Dr. A.J. Chandler, einem Tierarzt, gegründet und wuchs rasch zu einem florierenden Zentrum der Agrarwirtschaft, insbesondere für den Baumwoll- und Alfalfa-Anbau, basierend auf neuen Bewässerungstechniken. Ein radikaler wirtschaftlicher Wandel erfolgte in den 1980er Jahren, als der Halbleitergigant Intel hier erste Fabriken errichtete. In den Folgejahren strömten Dutzende weitere Hochtechnologieunternehmen nach Chandler, was der Region den Titel 'Silicon Desert' (Silizium-Wüste) einbrachte. Das rasante Bevölkerungswachstum führte zur Anlage zahlloser gepflegter Wohnviertel und eines hochentwickelten öffentlichen Parks- und Schulsystems. Geographie K8 — Transformation von Agrarland zur 'Silicon Desert'.",
+      "factsAdvanced": [
+        "1912 als landwirtschaftliches Zentrum in der Sonora-Wüste gegründet",
+        "Einst dominiert vom massiven Baumwoll-, Mais- und Alfalfa-Anbau",
+        "Trägt durch massive Ansiedlung von Tech-Firmen den Spitznamen 'Silicon Desert'",
+        "Intel ist der mit Abstand größte Arbeitgeber der Stadt (Halbleiterfertigung)",
+        "Gilt als stark familienorientiert mit zahlreichen Parks und guten Schulen",
+        "Das historische Downtown-Viertel hat sein originäres Erscheinungsbild weitgehend bewahrt"
+      ]
+    },
+    {
+      "id": "laredo-cities-v2",
+      "descriptionAdvanced": "Laredo liegt in Südtexas am Nordufer des Rio Grande, unmittelbar gegenüber der mexikanischen Stadt Nuevo Laredo. 1755 gegründet, ist sie eine der wenigen Städte, über die sieben verschiedene Flaggen wehten (inklusive der kurzlebigen Republik Rio Grande). Laredo ist nicht nur tief in der hispanischen Kultur verwurzelt, sondern fungiert als die absolute Lebensader des Nordamerikanischen Freihandels (NAFTA/USMCA). Die Stadt verfügt über den mit Abstand größten Binnenhafen (Inland Port) der Vereinigten Staaten; Zehntausende Lkws passieren täglich die internationalen Brücken. Diese gigantische Logistik- und Zollwirtschaft treibt die Stadtentwicklung voran. Das jährliche George Washington's Birthday Celebration ist ein großes, einmonatiges Fest, das die binationale Freundschaft zelebriert. Geographie K8 — Grenzökonomie und Freihandelsabkommen am Rio Grande.",
+      "factsAdvanced": [
+        "Größter Binnenhafen (Inland Port) für den Landhandel zwischen den USA und Mexiko",
+        "1755 von Spaniern gegründet und kurzzeitig Hauptstadt der Republik Rio Grande (1840)",
+        "Über 95 Prozent der Bevölkerung ist hispanischer oder lateinamerikanischer Abstammung",
+        "Wirtschaft ist massiv von Logistik, Zollabfertigung und Import/Export abhängig",
+        "Es existieren vier große Fahrzeugbrücken und eine Eisenbahnbrücke über den Rio Grande",
+        "Veranstaltet eines der größten Feste zu Ehren George Washingtons in den USA"
+      ]
+    },
+    {
+      "id": "norfolk-cities-v2",
+      "descriptionAdvanced": "Norfolk liegt in der Metropolregion Hampton Roads in Virginia an der Mündung der Chesapeake Bay. Umgeben von Wasser, ist das gesamte städtische und wirtschaftliche Leben tief von maritimen Einflüssen geprägt. Norfolk beherbergt die Naval Station Norfolk, den flächenmäßig größten Marinestützpunkt der Welt. Neben der gewaltigen Präsenz des US-Militärs und der NATO ist die Stadt ein entscheidendes Zentrum des zivilen Seehandels; enorme Mengen an Kohle und Containern werden hier verladen. Darüber hinaus ist Norfolk kulturell bedeutsam und beheimatet die Virginia Opera sowie das Chrysler Museum of Art. Der anhaltende Anstieg des Meeresspiegels macht die tief gelegene Stadt heute jedoch stark anfällig für Überschwemmungen. Geographie K7 — Militärische Großhäfen und die Bedrohung durch den Meeresspiegelanstieg.",
+      "factsAdvanced": [
+        "Sitz der Naval Station Norfolk, der weltgrößten Marinebasis der USA",
+        "Zentrum der Hampton Roads Region, stark von militärischer Infrastruktur abhängig",
+        "Beherbergt ein der NATO unterstelltes Kommandozentrum",
+        "Wichtiger Seehafen für den internationalen Export von amerikanischer Kohle",
+        "Wegen der niedrigen Küstenlage zunehmend von Küstenüberschwemmungen bedroht",
+        "Verfügt über ein Stadtbahnsystem ('The Tide'), das erste seiner Art in Virginia"
+      ]
+    },
+    {
+      "id": "reno-cities-v2",
+      "descriptionAdvanced": "Reno, oft als 'The Biggest Little City in the World' bezeichnet, liegt im Nordwesten von Nevada, am Fuße der Sierra Nevada und unweit des Lake Tahoe. Die Stadt wuchs in den 1860er Jahren rasant durch den Anschluss an die erste transkontinentale Eisenbahn und den Boom der nahegelegenen Comstock Lode, dem reichsten Silberfund der US-Geschichte. Vor dem Aufstieg von Las Vegas war Reno das primäre Zentrum der amerikanischen Glücksspielindustrie und zudem in den 1930ern bekannt für beschleunigte Ehescheidungen. Heute diversifiziert sich die Stadt; angelockt durch steuerliche Anreize haben sich massive Technologieunternehmen in der Region niedergelassen, darunter das Tesla Gigafactory in der angrenzenden Wüste. Wirtschaft K8 — Der Aufstieg von Technologie nach dem Zeitalter des Glücksspiels.",
+      "factsAdvanced": [
+        "Trägt den ikonischen Stadtslogan 'The Biggest Little City in the World'",
+        "Diente im späten 19. Jahrhundert als logistischer Hub für die Comstock-Lode-Silbermine",
+        "War bis in die 1950er Jahre das amerikanische Zentrum für Glücksspiel und schnelle Scheidungen",
+        "Liegt unweit des populären Skigebiets und Naturreservats Lake Tahoe",
+        "Erlebt derzeit einen Tech-Boom (z.B. durch die massive Tesla Gigafactory nahebei)",
+        "Durch das Stadtzentrum fließt der Truckee River"
+      ]
+    }
+  ]
+}

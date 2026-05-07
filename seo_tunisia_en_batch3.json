@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "siliana-cities-v2",
+      "descriptionAdvanced": "Siliana is a central Tunisian city that serves as a regional agricultural hub, known for its extensive grain lands and resilient mountain landscapes. The city acts as a major crossroad between the fertile northern valleys and the semi-arid southern regions, making it a critical center for regional trade and rural life. Despite its rural focus, Siliana has seen significant investment in infrastructure to support modern farming techniques and regional connectivity, maintaining its role as an essential pillar of inland Tunisia. Geography K7: The study of inland trade hubs and agricultural transitions in semi-arid zones.",
+      "factsAdvanced": [
+        "Regional hub for central Tunisian agriculture",
+        "Key crossroad between northern and southern regions",
+        "Extensive grain production area",
+        "Focus on modern agricultural infrastructure",
+        "Transition zone between fertile and semi-arid lands",
+        "Center for rural trade and inland logistics"
+      ]
+    },
+    {
+      "id": "kairouan-cities-v2",
+      "descriptionAdvanced": "Kairouan, founded in 670 AD, is one of the holiest cities in Islam and a UNESCO World Heritage site, deeply rooted in religious, architectural, and historical significance. Its legendary Great Mosque remains a masterpiece of Islamic architecture, defining the city's character. Kairouan also thrives as a renowned center for artisanal carpet weaving, a tradition that contributes significantly to the local economy and identity. The city stands as a testament to the endurance of Islamic culture in North Africa. Geography K6: Analyzing the development and cultural impact of historic religious centers.",
+      "factsAdvanced": [
+        "Founded in 670 AD, key holy city in Islam",
+        "UNESCO World Heritage site",
+        "Home to the Great Mosque of Kairouan",
+        "Renowned hub for traditional carpet weaving",
+        "Major historical center for Islamic learning",
+        "Architecture defines North African religious sites"
+      ]
+    },
+    {
+      "id": "kasserine-cities-v2",
+      "descriptionAdvanced": "Kasserine, located in the central-western region near the Algerian border, is characterized by its high-altitude landscape and historical depth. The city sits near significant archaeological sites, including the Roman ruins of Cillium, and has historically served as a gateway to the mountainous hinterlands. Known for its challenging climate, Kasserine represents the resilient spirit of the Tunisian interior, with a developing economy centered on agriculture and regional services. Geography K8: Examining interior urban development in high-altitude environments and mountainous border zones.",
+      "factsAdvanced": [
+        "Located in the central-western interior",
+        "Site of the historic Roman ruins of Cillium",
+        "Gateway to mountainous border landscapes",
+        "Characteristic high-altitude semi-arid climate",
+        "Economy focused on inland agriculture and services",
+        "Strategic region along the Algerian border"
+      ]
+    },
+    {
+      "id": "sidi-bouzid-cities-v2",
+      "descriptionAdvanced": "Sidi Bouzid, situated in the heart of the Tunisian interior, is a key center for the country's rural development and agricultural innovation. Recognized as a critical hub for the production of seasonal fruits and vegetables, the city plays a vital role in national food supply and trade. In recent years, it has become a symbol of regional economic ambition, with ongoing efforts to diversify the local economy beyond traditional farming. Sidi Bouzid stands as an anchor for the development of interior Tunisia. Geography K7: Analyzing rural economies and the importance of interior food production hubs.",
+      "factsAdvanced": [
+        "Major hub for seasonal fruit and vegetable farming",
+        "Vital center for Tunisian domestic food supply",
+        "Symbol of inland economic development",
+        "Located in the heart of rural Tunisia",
+        "Ongoing economic diversification efforts",
+        "Anchor for interior region growth"
+      ]
+    },
+    {
+      "id": "sousse-cities-v2",
+      "descriptionAdvanced": "Sousse, often called the 'Pearl of the Sahel', is a world-renowned coastal resort city known for its historic Medina and breathtaking Mediterranean beaches. With a port that has been operational since Phoenician times, it blends ancient maritime prestige with contemporary tourism dominance. The city's Medina, a UNESCO World Heritage site, is famous for its well-preserved walls and Islamic architectural gems like the Ribat. Sousse remains one of Tunisia’s most important hubs for international tourism and commercial shipping. Geography K6: The transformation of ancient maritime ports into modern tourism and trade centers.",
+      "factsAdvanced": [
+        "Known as the 'Pearl of the Sahel'",
+        "UNESCO-listed historic Medina and Ribat",
+        "Phoenician-founded maritime port",
+        "Dominant hub for international tourism",
+        "Strategic center for coastal commercial shipping",
+        "Renowned Mediterranean resort destination"
+      ]
+    }
+  ]
+}

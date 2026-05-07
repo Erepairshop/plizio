@@ -1,0 +1,51 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"],
+  "items": [
+    {
+      "id": "jm-kingston-harbour-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kingston Harbour ist einer der bedeutendsten natürlichen Häfen weltweit und fungiert als primäres wirtschaftliches Tor für Jamaika. Mit einer Fläche von etwa 25 Quadratkilometern bietet er Schutz für große Frachtschiffe und dient als Herzstück des jamaikanischen internationalen Handels. Geografie K7 — Häfen und Welthandel.",
+        "hu": "A Kingstoni kikötő a világ egyik legnagyobb természetes kikötője, amely létfontosságú Jamaica külkereskedelme szempontjából. A körülbelül 25 négyzetkilométeres terület biztonságos kikötést biztosít a nagy konténerhajók számára, ezáltal a sziget gazdasági életének központi ütőere. Földrajz K7 — kikötők és világkereskedelem.",
+        "ro": "Portul Kingston este unul dintre cele mai mari porturi naturale din lume și reprezintă principala poartă economică pentru Jamaica. Cu o suprafață de aproximativ 25 de kilometri pătrați, acesta oferă adăpost navelor mari de marfă și servește drept element central al comerțului internațional jamaican. Geografie K7 — porturi și comerț mondial.",
+        "en": "Kingston Harbour is one of the world's largest natural harbors and serves as the primary economic gateway for Jamaica. Spanning approximately 25 square kilometers, it provides shelter for large cargo vessels and acts as the heartbeat of Jamaican international trade. Geography K7 — ports and global trade."
+      },
+      "factsAdvanced": {
+        "de": ["Fläche ca. 25 km²", "Siebtgrößter Naturhafen", "Hauptumschlagplatz Jamaikas", "Tiefe bis zu 15 Meter", "Entstehungsgeschichte durch tektonische Absenkung", "Wichtigstes Containerterminal der Karibik"],
+        "hu": ["Terület kb. 25 km²", "Hetedik legnagyobb természetes kikötő", "Jamaica fő áruforgalmi központja", "Akár 15 méteres mélység", "Tektonikus eredetű kialakulás", "A Karib-térség legfontosabb konténerterminálja"],
+        "ro": ["Suprafață aprox. 25 km²", "Al șaptelea port natural ca mărime", "Centrul principal de mărfuri al Jamaicăi", "Adâncime de până la 15 metri", "Formare prin scufundare tectonică", "Cel mai important terminal de containere din Caraibe"],
+        "en": ["Area approx. 25 km²", "Seventh-largest natural harbor", "Jamaica's main trade hub", "Depth up to 15 meters", "Formation through tectonic subsidence", "Most important container terminal in the Caribbean"]
+      }
+    },
+    {
+      "id": "jm-montego-freeport-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Montego Bay Freeport ist eine unverzichtbare Industrie- und Tourismuszone im Westen Jamaikas. Er spielt eine zentrale Rolle bei der Abwicklung des Kreuzfahrttourismus und der industriellen Güterabfertigung, was maßgeblich zum regionalen Wirtschaftswachstum beiträgt. Geografie K7 — Wirtschaftszonen und Tourismus.",
+        "hu": "A Montego Bay Freeport elengedhetetlen ipari és turisztikai övezet Jamaica nyugati részén. Központi szerepet tölt be a tengerjáró turizmus lebonyolításában és az ipari áruk kezelésében, jelentősen hozzájárulva a régió gazdasági fejlődéséhez. Földrajz K7 — gazdasági övezetek és turizmus.",
+        "ro": "Montego Bay Freeport este o zonă industrială și turistică indispensabilă în vestul Jamaicăi. Acesta joacă un rol central în gestionarea turismului de croazieră și a manipulării mărfurilor industriale, contribuind semnificativ la creșterea economică regională. Geografie K7 — zone economice și turism.",
+        "en": "The Montego Bay Freeport is an essential industrial and tourism zone in western Jamaica. It plays a central role in managing cruise tourism and industrial cargo handling, contributing significantly to regional economic growth. Geography K7 — economic zones and tourism."
+      },
+      "factsAdvanced": {
+        "de": ["Spezielle Freihandelszone", "Jährlich tausende Kreuzfahrtgäste", "Wichtiger Exportstandort", "Direkter Zugang zur Nordküste", "Industrie- und Dienstleistungsknoten", "Entwicklung seit den 1960ern"],
+        "hu": ["Különleges szabadkereskedelmi övezet", "Évente több ezer tengerjáró utas", "Fontos exportközpont", "Közvetlen kapcsolat az északi parttal", "Ipari és szolgáltatási központ", "Fejlődés az 1960-as évektől"],
+        "ro": ["Zonă specială de liber schimb", "Mii de pasageri de croazieră anual", "Centru important de export", "Acces direct la coasta de nord", "Hub industrial și de servicii", "Dezvoltare din anii 1960"],
+        "en": ["Special free trade zone", "Thousands of cruise passengers annually", "Important export hub", "Direct access to the north coast", "Industrial and service hub", "Development since the 1960s"]
+      }
+    },
+    {
+      "id": "jm-bauxite-kaiser-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kaiser Bauxite Mine ist eine der größten Tagebau-Minen Jamaikas und ein zentraler Pfeiler der nationalen Exportindustrie. Das geförderte Bauxit bildet den Rohstoff für die weltweite Aluminiumproduktion, wodurch die Mine eine erhebliche Bedeutung für das BIP des Landes hat. Sachkunde K5 — Rohstoffe und Abbau.",
+        "hu": "A Kaiser bauxitbánya Jamaica egyik legnagyobb külszíni fejtésű bányája, és a nemzeti exportipar központi pillére. A kitermelt bauxit a globális alumíniumgyártás alapanyaga, így a bánya jelentős szerepet játszik az ország GDP-jében. Sachkunde K5 — nyersanyagok és bányászat.",
+        "ro": "Mina de bauxită Kaiser este una dintre cele mai mari exploatări de suprafață din Jamaica și un pilon central al industriei naționale de export. Bauxita extrasă constituie materia primă pentru producția globală de aluminiu, mina având astfel o importanță semnificativă pentru PIB-ul țării. Sachkunde K5 — materii prime și minerit.",
+        "en": "The Kaiser Bauxite Mine is one of Jamaica's largest open-pit mines and a central pillar of the national export industry. The extracted bauxite serves as the raw material for global aluminum production, making the mine significant for the country's GDP. Sachkunde K5 — resources and mining."
+      },
+      "factsAdvanced": {
+        "de": ["Tagebau-Verfahren", "Wichtiger Devisenbringer", "Aluminiumgrundlage", "Große Transportlogistik", "Schutzmaßnahmen notwendig", "Betrieb über mehrere Jahrzehnte"],
+        "hu": ["Külszíni bányászati eljárás", "Fontos devizaforrás", "Alumínium alapanyag", "Jelentős szállítási logisztika", "Védelmi intézkedések szükségesek", "Több évtizedes üzemelés"],
+        "ro": ["Metodă de exploatare de suprafață", "Sursă importantă de valută", "Baza aluminiului", "Logistică de transport mare", "Măsuri de protecție necesare", "Funcționare de decenii"],
+        "en": ["Open-pit mining method", "Important foreign exchange earner", "Aluminum base", "Major transport logistics", "Protection measures required", "Operation over several decades"]
+      }
+    }
+  ]
+}

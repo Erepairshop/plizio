@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hai-duong-cities-v2",
+      "descriptionAdvanced": "Hải Dương a Vörös-folyó deltájának egyik fontos városa, amely központi elhelyezkedése miatt kulcsfontosságú ipari és logisztikai központ. A régió híres gasztronómiai különlegességéről, a zöldbab-süteményről (bánh đậu xanh), és hagyományos kulturális értékeiről, köztük a vízibáb-játszásról. Földrajz K6 — regionális ipari központok.",
+      "factsAdvanced": [
+        "Jelentős elektronikai és textilipari központ",
+        "A zöldbab-sütemény (bánh đậu xanh) a város védjegye",
+        "Hanoi és Hải Phòng között helyezkedik el",
+        "Több mint 500 éves múltra tekint vissza",
+        "Kiemelt jelentőségű a környék mezőgazdasága is",
+        "A vízibáb-kultúra fontos otthona"
+      ]
+    },
+    {
+      "id": "vinh-yen-cities-v2",
+      "descriptionAdvanced": "Vĩnh Yên Vĩnh Phúc tartomány székhelye, amely dinamikusan fejlődő városa a Hanoitól északnyugatra fekvő ipari övezetnek. A város környéke a Tam Đảo-hegység közelsége miatt népszerű turisztikai kapu is, amely ötvözi a modern városi infrastruktúrát a környező táj természeti szépségeivel. Sachkunde K5 — hegyvidéki és ipari régiók.",
+      "factsAdvanced": [
+        "Vĩnh Phúc tartomány fővárosa",
+        "A Tam Đảo-hegység közelsége miatt fontos turisztikai állomás",
+        "Jelentős autóipari beruházások helyszíne",
+        "Gyors városi fejlődés az elmúlt két évtizedben",
+        "Kulturális és oktatási központja a régió nyugati részének",
+        "Zöld parkokkal és modern infrastruktúrával rendelkező település"
+      ]
+    },
+    {
+      "id": "thai-binh-cities-v2",
+      "descriptionAdvanced": "Thái Bình a Vörös-folyó deltájának egyik meghatározó városa, amely mezőgazdasági termékenységéről és kiterjedt partvidékéről ismert. A város és a környező tartomány Vietnám egyik legfontosabb rizs- és energiaellátó központja, ahol a hagyományos gazdálkodás és az újabb ipari fejlesztések egyaránt jelen vannak. Földrajz K6 — mezőgazdasági deltavidékek.",
+      "factsAdvanced": [
+        "Vietnám egyik legfontosabb rizstermelő vidéke",
+        "Kiterjedt partvonal a Tonkin-öböl mentén",
+        "Hagyományos kézműves iparágak központja",
+        "Fontos szerepet játszik az ország energiaellátásában",
+        "Több száz éves falusi hagyományokkal rendelkezik",
+        "A Vörös-folyó deltájának keleti kapuja"
+      ]
+    }
+  ]
+}

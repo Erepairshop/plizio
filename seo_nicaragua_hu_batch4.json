@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "descriptionAdvanced": "Morrito egy apró, domboldalra épült halász- és mezőgazdasági falu Río San Juan megyében, a Nicaragua-tó (Cocibolca) keleti partján. A városka neve "Kis dombot" jelent, utalva arra a kiemelkedésre, amelyről lenyűgöző panoráma nyílik a tóra és az Ometepe-sziget vulkánjaira. A lakosok főként rizst, babot termesztenek, és hagyományos módszerekkel halásznak. A település az elmúlt években kezdett nyitni az ökoturizmus felé, de megőrizte békés, vidékies atmoszféráját, távol a nagyvárosok zajától. Földrajz K6 — tavi települések és kilátópontok.",
+      "factsAdvanced": [
+        "1989-ben nyilvánították független önkormányzattá.",
+        "Körülbelül 225 kilométerre délkeletre fekszik Managuától.",
+        "A falu központja egy egyetlen dombra ('morrito') épült.",
+        "Halászata főként a tilápiára és a helyi 'guapote' halra koncentrál.",
+        "Az éghajlat trópusi, bőséges csapadékkal a májustól novemberig tartó esős évszakban.",
+        "Morrito kikötőjéből naponta indulnak csónakok San Carlos irányába."
+      ]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "descriptionAdvanced": "San Jorge Rivas megye történelmi kikötővárosa a Nicaragua-tó nyugati partján. A település leginkább arról ismert, hogy ez a fő kiindulópont az Ometepe-szigetre (Moyogalpába) tartó kompok és hajók számára, így naponta turisták és áruk százai haladnak át rajta. Történelmileg San Jorge volt a chorotega indiánok egyik legfontosabb fővárosa a spanyol hódítás előtt, és itt tartották az első békés találkozót Gil González Dávila spanyol felfedező és Nicaragua törzsfőnök között 1523-ban. Ma a kikötői forgalom és a papaja-termesztés adja a gazdaság gerincét. Történelem K7 — spanyol felfedezések és tavi közlekedés.",
+      "factsAdvanced": [
+        "Nicaragua egyik legrégebbi települése, a spanyolok 1524-ben jegyezték fel először.",
+        "1523-ban itt történt a történelmi találkozó Gil González és a Nicarao cacique között.",
+        "1852-ben emelték hivatalos városi rangra (Ciudad de San Jorge).",
+        "Kikötője (Puerto de San Jorge) az ország legforgalmasabb édesvízi kikötője.",
+        "Az utcáin ma is áll a La Merced-templom, Közép-Amerika egyik legrégebbi egyházi épülete.",
+        "Az Ometepe-sziget 17 kilométeres távolságra fekszik innen a tavon át."
+      ]
+    },
+    {
+      "id": "belen-rivas-cities-v2",
+      "descriptionAdvanced": "Belén Rivas megye északi részén található békés agrárváros. A település történelmileg fontos szerepet játszott a régió élelmiszer-ellátásában; kiterjedt és termékeny földjein nagyüzemi szinten termesztenek cukornádat, banánt és újabban papaját. A falu központja csendes, hagyományos spanyol gyarmati stílusú épületekkel és árnyékos parkkal rendelkezik. A település neve a bibliai Betlehem (Belén) városára utal. Belén igazi nicaraguai vidéki közösség, ahol a mezőgazdasági naptár határozza meg az élet ritmusát. Földrajz K6 — síkvidéki agrárium és cukornád.",
+      "factsAdvanced": [
+        "A várost a 18. század végén alapították spanyol birtokosok.",
+        "Eredetileg 'San Juan de los Coyotes' néven ismerték.",
+        "A cukornád betakarítása (zafra) a legfontosabb gazdasági esemény az évben.",
+        "Lakossága nagyrészt mestizo, spanyol és chorotega gyökerekkel.",
+        "A Karácsonyt megelőző időszakban hagyományos vallási körmeneteket tartanak.",
+        "Földrajzilag a csendes-óceáni síkság és a nagy tavak medencéje között fekszik."
+      ]
+    },
+    {
+      "id": "potosi-rivas-cities-v2",
+      "descriptionAdvanced": "Potosí egy történelmi mezőgazdasági város Rivas megyében, amelynek neve a híres bolíviai ezüstbányavárost idézi, valószínűleg a helyi földek egykori gazdagságára és termékenységére utalva. A városkát a 19. században nagybirtokosok és cukorbárók alapították, és a mai napig a cukornád- és banántermesztés központja. A közelben található a CASUR (Compañía Azucarera del Sur) nagy cukorgyára, amely a régió egyik legfőbb munkaadója. A települést zöldellő ültetvények és öntözőcsatornák hálózata veszi körül. Földrajz K6 — ipari mezőgazdaság és cukorgyártás.",
+      "factsAdvanced": [
+        "1830 körül alapították gazdag rivasi családok.",
+        "Nevét a bolíviai Potosí után kapta, ami gazdagságot szimbolizált.",
+        "A CASUR cukorgyár naponta több ezer tonna cukornádat dolgoz fel a szezonban.",
+        "Tengerszint feletti magassága csupán 40 méter.",
+        "Potosí közelében található a híres San Juan del Sur-i szörfpartokhoz vezető út.",
+        "Az éves átlaghőmérséklet 27 Celsius-fok körül mozog."
+      ]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "descriptionAdvanced": "Buenos Aires egy apró, hűvös szellők fújta település a Nicaragua-tó partján, Rivas megyében. Nevét (Jó Levegő) a tóról állandóan fújó friss, kellemes passzátszelek után kapta. A falu lakói hagyományosan mezőgazdasággal (papaja, mangó, útifű) és a tó halászatával foglalkoznak. Bár csendesebb, mint a közeli San Jorge kikötője, Buenos Aires is történelmi jelentőségű; a 19. századi filibuster-háborúk (William Walker inváziója) során tranzitállomásként funkcionált. Történelem K7 — passzátszelek és tavi halászat.",
+      "factsAdvanced": [
+        "A települést az 1830-as években alapították.",
+        "A falu közvetlen rálátással bír az Ometepe-sziget két vulkánjára.",
+        "1856-ban William Walker csapatai részben ezen a területen keresztül mozogtak.",
+        "A papaja (lechosa) termesztése a helyi gazdaság egyik legfőbb alappillére.",
+        "A 'Jó Levegő' (Buenos Aires) a folyamatos tóparti szeleknek (Papagayo-szelek) köszönhető.",
+        "Az önkormányzat lakossága alig haladja meg az 5000 főt."
+      ]
+    },
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "descriptionAdvanced": "Cárdenas egy távoli határváros Rivas megye legdélebbi csücskében, egy keskeny földszoroson a Nicaragua-tó és a Costa Rica-i határ között. Stratégiai és elszigetelt fekvése miatt a város gazdasága nagyrészt a határ menti kereskedelemre, az állattenyésztésre és az erdészetre épül. A település körül sűrű nedves trópusi erdők találhatók, amelyek Costa Rica híres biológiai folyosóihoz csatlakoznak. Bár a hivatalos határátkelő Peñas Blancasnál van, Cárdenas az illegális és legális árumozgás történelmi útvonalán fekszik. Földrajz K8 — határvidékek és biológiai folyosók.",
+      "factsAdvanced": [
+        "Cárdenast a 19. század végén alapították gumigyűjtő telepesek.",
+        "Közvetlen szárazföldi határt alkot Costa Ricával több mint 30 kilométeren.",
+        "A település a tópart és a Costa Rica-i dombok közötti vékony (2-5 km széles) sávban fekszik.",
+        "Éghajlata sokkal csapadékosabb, mint Rivas megye északi részéé.",
+        "Gazdaságát jelentősen érintik a határzárások és a diplomáciai feszültségek.",
+        "A környező erdőkben gyakran láthatók bőgőmajmok és lajhárok."
+      ]
+    },
+    {
+      "id": "telpaneca-madriz-cities-v2",
+      "descriptionAdvanced": "Telpaneca egy ősi eredetű, hegyvidéki falu Madriz megyében, a Coco-folyó partján. A település a prekolumbián időkben az egyik legfontosabb chorotega központ volt, neve "kőhidak helyét" vagy "köves folyót" jelent. A meredek hegyoldalakon hagyományos kávé- és babtermesztés zajlik, de a település elszigeteltsége miatt a szegénység aránya viszonylag magas. A városka központjában található a Cristo Rey-templom, amely a gyarmati korszak építészetét idézi, valamint a folyón átívelő modern híd, amely javított a régió elérhetőségén. Történelem K6 — chorotega örökség és hegyvidéki elszigeteltség.",
+      "factsAdvanced": [
+        "Nicaragua egyik legrégebbi folyamatosan lakott települése, a spanyolok 1528-ban már feljegyezték.",
+        "Nevének jelentése a navatl 'Telpanecatl' szóból ered, ami köves folyót jelent.",
+        "San Juan Bautista és a Cristo Rey a falu fő vallási szimbólumai.",
+        "Tengerszint feletti magassága 500 méter körüli.",
+        "Az 1920-as években Sandino tábornok csapatai gyakran táboroztak a környék hegyeiben.",
+        "A Coco-folyó áradásai gyakran okoznak károkat az alacsonyan fekvő ültetvényeken."
+      ]
+    },
+    {
+      "id": "san-juan-de-rio-coco-madriz-cities-v2",
+      "descriptionAdvanced": "San Juan del Río Coco Madriz megye hegyvidéki peremén, sűrű kávéültetvények központjában fekszik. Bár a Coco-folyó völgyében terül el, a település magasan a tengerszint felett van, hűvös és csapadékos éghajlatot biztosítva. San Juan gazdasága és identitása szinte teljes egészében a kávétermelés köré szerveződik; a környező hegyoldalakat (fincas) kiváló minőségű, árnyékban termesztett arabica kávé borítja. A város a sandinista forradalom idején intenzív betelepülés helyszíne volt a környező hegyekből a harcok elől menekülők számára. Földrajz K7 — magaslati kávétermesztés.",
+      "factsAdvanced": [
+        "A várost hivatalosan csak 1964-ben alapították.",
+        "A kávé biztosítja a helyi lakosság több mint 80%-ának megélhetését.",
+        "Tengerszint feletti magassága mintegy 860 méter.",
+        "Gyakran sújtják a hegyoldalakon a heves esőzések okozta földcsuszamlások.",
+        "San Juan Bautista ünnepét június végén tartják.",
+        "A település határában folyik a híres Coco-folyó felső szakasza."
+      ]
+    },
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "descriptionAdvanced": "San José de Cusmapa Nicaragua legmagasabban fekvő és egyik leghidegebb települése, amely a hondurasi határ közelében, Madriz megye fenyvesekkel borított hegyein található. A várost egy meredek sziklaszirtre építették, ahonnan páratlan kilátás nyílik a Csendes-óceánig (tiszta napokon). A falu lakossága erős őslakos (chorotega) gyökerekkel rendelkezik. A település neve összefonódott Rafael María Fabretto atya nevével, aki iskolákat és árvaházakat alapított itt, nagyban javítva az elszigetelt közösség életminőségét. Földrajz K6 — magaslati éghajlat és őslakos közösségek.",
+      "factsAdvanced": [
+        "Nicaragua legmagasabban fekvő városközpontja, körülbelül 1280 méteren.",
+        "A 'Cusmapa' név navatl nyelven 'hegyi madarak helyét' jelenti.",
+        "A téli hónapokban a hőmérséklet gyakran 10 °C alá is süllyedhet.",
+        "1962-ben nyilvánították független önkormányzattá.",
+        "A Fabretto Alapítvány (Fundación Fabretto) központja és mintaprojektjeinek helyszíne.",
+        "Környezetét sűrű fenyőerdők (Pinus oocarpa) borítják, amelyekből a helyiek kosarakat fonnak."
+      ]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "descriptionAdvanced": "Yalagüina egy apró, dombos falu Madriz megyében, közvetlenül a Panamerikai főútvonal mentén. A település arról híres, hogy a nicaraguai 'rosquillas' (hagyományos kukoricalisztes és sajtos sütemény) egyik legfőbb gyártóközpontja Somoto mellett. A város gazdaságát e kisipari pékségek és a bab- és kukoricatermesztés hajtják. Yalagüina csendes, történelmi központját a gyarmati stílusú Szent Anna-templom uralja. A város neve chorotega eredetű, és a környék ősi őslakos gyökereire utal. Földrajz K6 — hagyományos élelmiszeripar és domborzat.",
+      "factsAdvanced": [
+        "A név chorotega nyelven valószínűleg 'az emberek folyóját' vagy 'vizek városát' jelenti.",
+        "A várost 1600 körül alapították, az egyik legrégebbi falu északon.",
+        "Tengerszint feletti magassága megközelítőleg 690 méter.",
+        "A rosquillas-gyártás több száz helyi nőnek (rosquilleras) ad stabil munkát.",
+        "A központban álló Santa Ana-templom több mint 200 éves.",
+        "A Panamerikai út áthaladása miatt fontos tranzitállomás Honduras felé."
+      ]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "descriptionAdvanced": "Totogalpa Madriz megye egyik legrégebbi indián települése, amely mélyen őrzi chorotega őslakos hagyományait. A falu a Panamerikai út mentén fekszik, hegyvidéki, száraz környezetben. Különlegessége az évszázados, fehérre meszelt Santa María Magdalena-templom, amely a gyarmati építészet egyik gyöngyszeme Észak-Nicaraguában. A helyiek gazdasága a kézművességen – különösen a kukoricacsuhéból (tuza) és fenyőtűlevélből font tárgyakon – valamint az önellátó mezőgazdaságon alapul. Totogalpa a 'Közép-Amerikai Száraz Folyosó' (Corredor Seco) egyik legaszályosabb pontja. Történelem K6 — chorotega kézművesség és aszályok.",
+      "factsAdvanced": [
+        "Nevének jelentése navatl nyelven 'madarak fészke' (Tototl-galpa).",
+        "A Mária Magdolna-templomot a 17. században építették sár- és kőfalakkal.",
+        "Az aszályok miatt a helyi mezőgazdaság nagyon sérülékeny.",
+        "Totogalpában található az egyik legerősebb észak-nicaraguai őslakos tanács (Consejo de Ancianos).",
+        "A kukoricacsuhéból (tuza) font babák és kosarak országszerte híresek.",
+        "A falu tengerszint feletti magassága kb. 660 méter."
+      ]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "descriptionAdvanced": "Palacagüina Madriz megye termékeny dombvidékén helyezkedik el, zöldellő völgyek és folyók metszéspontjában. A város a nemzeti hős, Miguel Ángel Ortez forradalmi hőstetteinek színhelyeként és születési helyeként is ismert. Palacagüina gazdaságilag sokszínűbb, mint szomszédai: a rosquillas sütése mellett jelentős a kávé-, hagyma- és dohánytermesztés is. A város csendes utcái és a környező magaslatok gyönyörű tájat alkotnak. Neve az őslakos történelembe nyúlik vissza, és a modern időkben egy híres nicaraguai dal (El Cristo de Palacagüina) is megörökítette. Történelem K7 — népdalok és forradalmi történelem.",
+      "factsAdvanced": [
+        "A város neve chorotega nyelven 'fekete kövek falvát' jelenti.",
+        "Carlos Mejía Godoy híres 'El Cristo de Palacagüina' című dala a forradalom himnuszává vált.",
+        "Miguel Ángel Ortez tábornok, Sandino egyik legfiatalabb parancsnoka, 1931-ben itt esett el 23 évesen.",
+        "A város tengerszint feletti magassága körülbelül 690 méter.",
+        "Védőszentjük Mária Mennybemenetele (Asunción de María), ünnepük augusztusban van.",
+        "A város környéki dombokon ősi petroglifákat találtak."
+      ]
+    },
+    {
+      "id": "santa-rosa-del-penon-leon-cities-v2",
+      "descriptionAdvanced": "Santa Rosa del Peñón egy elszigetelt, dombvidéki bányász- és mezőgazdasági város León megye északi felén. A városka neve a sziklás domborzatra (Peñón - nagy szikla) utal, amely gazdag ásványkincsekben, különösen aranyban és krétában (gipszben). Bár a nagyüzemi bányászat megszűnt, sok helyi lakos ma is kézi bányászattal (güiriseros) vagy mészégetéssel próbálja kiegészíteni a mezőgazdasági (bab, kukorica) bevételeit. A nyári hónapokban a környék rendkívül száraz és poros. Földrajz K7 — kisipari bányászat és mészgyártás.",
+      "factsAdvanced": [
+        "1838-ban alapították spanyol telepesek Santa Rosa néven.",
+        "Nevéhez később adták a 'del Peñón' (a szikláé) jelzőt a környező kopár hegyek miatt.",
+        "Hosszú ideig Nicaragua egyik legfőbb gipsz- és krétakitermelő helye volt.",
+        "A kézi aranybányászat ma is jelentős környezeti kihívás (higanyszennyezés) a környéken.",
+        "A város egy sekély vulkáni kráter peremvidékén fekszik.",
+        "Lakossága nagyjából 10 000 fő."
+      ]
+    },
+    {
+      "id": "el-realejo-chinandega-cities-v2",
+      "descriptionAdvanced": "El Realejo történelmi jelentőségű part menti település Chinandega megyében. A 16. és 17. században ez volt Spanyolország legfontosabb csendes-óceáni hajóépítő központja és Közép-Amerika fő tengeri kapuja, ahonnan a perui ezüstöt is továbbították. A várost Francis Drake és más híres kalózok többször is kifosztották, aminek hatására a 19. században Corinto átvette a fő kikötő szerepét. Ma El Realejo egy csendes halászfalu a mangrovecserjék között, ahol a történelem nyomait csak a régi templomromok (mint a San Benito-templom maradványai) őrzik. Történelem K8 — gyarmati hajóépítés és kalóztámadások.",
+      "factsAdvanced": [
+        "A várost 1532-ben alapította Pedro de Alvarado spanyol konkvisztádor.",
+        "Itt építették a spanyol Armada számos csendes-óceáni gályáját a 16. században.",
+        "1685-ben John Davis angol kalóz, majd később mások is kifosztották és felgyújtották.",
+        "A San Benito ferences kolostor romjai ma védett műemlékek.",
+        "A tengerpart lassú feltöltődése (iszaposodás) is hozzájárult a kikötő hanyatlásához.",
+        "A mai lakosság főleg rákászattal és halászattal foglalkozik a mangrove-öblökben."
+      ]
+    },
+    {
+      "id": "cinco-pinos-chinandega-cities-v2",
+      "descriptionAdvanced": "Cinco Pinos (Öt Fenyő) egy apró, békés hegyi falu Chinandega megye legészakibb, hondurasi határral érintkező vidékén. A falu neve egy hajdani, hatalmas fenyőfákból álló ligetre utal, amely a település magját képezte. Hűvös klímája éles kontrasztot alkot Chinandega trópusi, tikkasztó alföldjével. A lakosság elsősorban mezőgazdaságból él (kukorica, bab és kávé). A falu a forradalmi időkben elszigeteltsége miatt a gerillák egyik fontos búvóhelye volt, ma viszont csendes határ menti életet él, ahol a lovak még mindig fontos közlekedési eszközök. Földrajz K6 — fenyvesek és magaslati éghajlat a trópusokon.",
+      "factsAdvanced": [
+        "A falut 1870-ben alapították Hondurasból érkező telepesek.",
+        "Kezdetben a település Hondurashoz tartozott, csak egy 1906-os határkiigazítás után lett nicaraguai terület.",
+        "A városka tengerszint feletti magassága eléri a 400 métert.",
+        "A 'Cinco Pinos' név a központi téren egykor álló öt nagy fenyőfára utal.",
+        "A falu mindössze néhány sarokból áll, lakossága kevesebb mint 7000 fő.",
+        "Védőszentjük San Caralampio, akinek ünnepét februárban tartják."
+      ]
+    },
+    {
+      "id": "san-francisco-de-cuapa-chontales-cities-v2",
+      "descriptionAdvanced": "San Francisco de Cuapa egy hegyek közt megbúvó vallási központ Chontales megyében. A falu országos és nemzetközi hírnevét egy 1980-as eseménynek köszönheti, amikor Bernardo Martínez helyi sekrestyésnek (később pap) állítólag többször is megjelent Szűz Mária. Emiatt Cuapa ma a nicaraguai katolikusok egyik legfontosabb zarándokhelye, ahol egy hatalmas kegyhelyet építettek az állítólagos jelenés (Virgen de Cuapa) helyszínén. Gazdaságilag a falu a hagyományos chontalesi szarvasmarha-tenyésztésen és sajtkészítésen alapszik, a környék pedig teli van prekolumbián régészeti leletekkel (petroglifák). Történelem K7 — vallási jelenések és zarándoklatok.",
+      "factsAdvanced": [
+        "A falu hivatalosan 1997-ben vált független önkormányzattá (levált Juigalpáról).",
+        "Az első Mária-jelenést (Virgen de Cuapa) 1980. április 15-én jelentették be.",
+        "A helyi püspökség hivatalosan is elismerte a jelenések hitelességét 1994-ben.",
+        "A 'Cuapa' név a navatl nyelvből ered, jelentése 'kígyók felett'.",
+        "A Piedra de Cuapa egy hatalmas, monolitikus kőszikla a város mellett, ősi karcrajzokkal.",
+        "Évente május 8-án zarándokok tízezrei keresik fel a szentélyt."
+      ]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "descriptionAdvanced": "Santo Domingo egy hegyvidéki bányászváros Chontales megyében, a Chontaleña-hegység erdeiben. A várost a 19. század végén alapították, amikor hatalmas arany- és ezüsttelléreket fedeztek fel a környéken. A bányászat – mind az ipari (korábban külföldi vállalatok által végzett), mind a kisipari (güiriseros) – ma is a város gazdaságának szíve, ami egyszerre jelent gazdagságot és komoly környezeti problémákat a régió vízfolyásaira nézve. Santo Domingo hűvös éghajlatú, meredek utcájú város, ahol az aranyásók élete határozza meg a mindennapokat. Földrajz K8 — aranybányászat és környezeti hatások.",
+      "factsAdvanced": [
+        "1913-ban alapították a brit és amerikai bányatársaságok telepeként.",
+        "Nevét a La Libertad-i születésű bányászok adták, felfedezésük napjának (Santo Domingo ünnepe) emlékére.",
+        "A város tengerszint feletti magassága mintegy 500 méter.",
+        "A kisipari aranyásás (güirisería) több ezer családnak ad kockázatos megélhetést.",
+        "A bányászat miatt a folyók higanyszennyezése folyamatos probléma.",
+        "A domborzat miatt a város szinte csak meredek lejtőkre épült házakból áll."
+      ]
+    },
+    {
+      "id": "la-libertad-chontales-cities-v2",
+      "descriptionAdvanced": "La Libertad Chontales megye történelmi aranybányász-központja, amely Santo Domingóval együtt a régió bányászati övezetét alkotja. A várost a 19. század közepén aranyláz hívta életre, és ma is jelentős külföldi bányavállalatok üzemeltetnek itt modern, nyílt színi fejtéseket. La Libertad emellett történelmi nevezetességű is, hiszen itt született Daniel Ortega nicaraguai elnök és Miguel Obando y Bravo bíboros. A város ötvözi az agrárvárosok nyugalmát az ipari aranykitermelés nyüzsgésével. Történelem K8 — modern aranykitermelés és politikai vezetők.",
+      "factsAdvanced": [
+        "1855-ben alapították, amikor aranyat találtak a Mico-folyó partján.",
+        "Daniel Ortega, Nicaragua többszörös elnöke 1945-ben született a városban.",
+        "Miguel Obando y Bravo bíboros (1926-2018), a nemzet megbékélésének kulcsfigurája is innen származik.",
+        "A B2Gold kanadai vállalat nyílt színi bányája az egyik legnagyobb Közép-Amerikában.",
+        "La Libertad eredeti neve 'Mineral de la Luz' (A Fény Ásványa) volt.",
+        "A város hegyvidéki klímája hűvösebb, mint a megyeszékhely Juigalpáé."
+      ]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "descriptionAdvanced": "Teustepe Boaco megye síkabb, nyugati részén fekszik, és egy hagyományos, szarvasmarha-tenyésztésre specializálódott kisváros. Történelmi hírnevét hőforrásainak és vulkanikus eredetű kőzeteinek köszönheti. A várostól nem messze található az ország egyik legfontosabb infrastrukturális létesítménye, a Las Canoas gát (Presa Las Canoas), amely egy hatalmas mesterséges tavat hozott létre. A tó a száraz évszakban kritikus fontosságú az öntözés (különösen a rizsföldek) számára, és egyre népszerűbb a sportfelszereléses horgászok és a természetkedvelők körében. Földrajz K6 — mesterséges tavak és öntözőrendszerek.",
+      "factsAdvanced": [
+        "A név chorotega nyelven valószínűleg 'az isteneik hegyét' jelenti (Teotl-tepetl).",
+        "A várost 1970-ben nyilvánították hivatalos önkormányzattá.",
+        "A Las Canoas gátat 1982-ben adták át a mezőgazdaság öntözésére.",
+        "A mesterséges tó felülete meghaladja a 10 négyzetkilométert.",
+        "Védőszentjük Szent Rita, akinek tiszteletére májusban tartanak lovas felvonulást.",
+        "A vidék rendkívül száraz nyáron, de a gát biztosítja a túlélést a gazdáknak."
+      ]
+    },
+    {
+      "id": "santa-lucia-boaco-cities-v2",
+      "descriptionAdvanced": "Santa Lucía egy festői, elszigetelt hegyi falu Boaco megyében, a Las Lajas hegyvonulat (Cordillera de Las Lajas) sziklái között. A települést lenyűgöző bazaltsziklák és zöldellő hegyoldalak veszik körül, amelyek egy svájci alpesi falura emlékeztetik a látogatókat. Santa Lucía Nicaragua egyik legtisztább és legbékésebb települése. Gazdasága kisüzemi kávétermesztésre, gyümölcsökre és zöldségekre épül. Építészete megőrizte a hagyományos sárga-fehérre festett, terrakotta cserepes vályogházak stílusát, az utcák nagy része még mindig kővel kirakott. Földrajz K6 — hegyi falvak építészete és bazaltsziklák.",
+      "factsAdvanced": [
+        "A falut eredetileg 'Potrerillos' (Kis legelők) néven ismerték a 19. század elején.",
+        "1904-ben kapott független önkormányzati státuszt.",
+        "A város felett magasodik a híres La Piedra de Cuapa-hoz hasonló masszív sziklafal (El Risco).",
+        "Tengerszint feletti magassága megközelíti az 550 métert.",
+        "A falu gyakran nyeri el a 'Leghangulatosabb vidéki falu' (Pueblo más pintoresco) nem hivatalos címet.",
+        "Lakossága alig haladja meg a 9000 főt az egész közigazgatási területen."
+      ]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "descriptionAdvanced": "Camoapa Boaco megye legnagyobb mezőgazdasági központja, amely széles körben ismert az egész országban mint a kézműves pita-kalapok (sombreros de pita) hazája. A kézzel font, finom szalmakalapok készítése több száz család hagyományos mestersége. Emellett a város Nicaragua egyik legfőbb tejtermelő régiójának központja is. A várost meredek, erdős hegyek és kiterjedt haciendák övezik. Camoapa a nemzeti szintű lovasbajnokságok és agrárvásárok (FERIGAL) kedvelt helyszíne, amelyek áprilisban rengeteg embert vonzanak a térségbe. Földrajz K6 — szalmafonás és tehenészet.",
+      "factsAdvanced": [
+        "A név chorotega nyelven 'a papagájok helyét' jelenti (Camau-apan).",
+        "1926-ban nyilvánították hivatalosan várossá (ciudad).",
+        "A 'pita' pálma rostjából font kalapok elkészítése hetekig is tarthat.",
+        "Az évente megrendezett FERIGAL a legnagyobb szarvasmarha-kiállítás a régióban.",
+        "A San Francisco de Asís-templom a város fő vallási épülete.",
+        "Tengerszint feletti magassága mintegy 520 méter."
+      ]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "descriptionAdvanced": "San José de los Remates egy hűvös, erdőkkel borított hegyvidéki kisváros Boaco megye legészakibb részén. A falu híres környezetvédelmi elkötelezettségéről és a Cerro Cumaica-Cerro Alegre Természetvédelmi Területről, amely a város felett magasodik, és számos folyó forrásvidéke. A lakosság bio-kávét, gyümölcsöket termeszt, és kisméretű sajtkészítéssel foglalkozik. A meredek és kanyargós hegyi utak miatt a város viszonylag elzárt maradt, ami segített megőrizni autentikus vidéki báját és a buja, érintetlen természeti környezetet. Földrajz K7 — vízgyűjtő területek védelme és bio-kávé.",
+      "factsAdvanced": [
+        "1848-ban alapították spanyol telepesek.",
+        "A Cumaica-hegycsúcs (1200 m) a település határában található.",
+        "A 'Los Remates' név egykori ló- és marhaárverésekre (remates) utalhat.",
+        "A falu klímája a köderdők közelsége miatt szinte mindig hűvös és párás.",
+        "A vízesések és túraútvonalak egyre több ökoturistát vonzanak.",
+        "A település központját egy szép, gyarmati stílusú plébániatemplom uralja."
+      ]
+    },
+    {
+      "id": "puerto-corinto-economic-v2",
+      "descriptionAdvanced": "A Corinto kikötő (Puerto de Corinto) Nicaragua legfontosabb és legnagyobb csendes-óceáni teherkikötője, Chinandega megyében. Egy természetes, védett öbölben (szigeten) fekszik, amelyet egy híd köt össze a szárazfölddel. Az ország nemzetközi tengeri kereskedelmének túlnyomó többsége (konténerek, kávé, cukor exportja, valamint gépek és járművek importja) ezen a mélyvízi kikötőn halad át. Stratégiai elhelyezkedése miatt Corinto az ország gazdaságának egyik legfőbb ütőere, modern darukkal és logisztikai terminálokkal felszerelve. Földrajz K8 — nemzetközi kereskedelem és tengeri kikötők.",
+      "factsAdvanced": [
+        "A kikötőt 1858-ban alapították, átvéve El Realejo történelmi szerepét.",
+        "Nicaragua tengeri áruforgalmának mintegy 60%-át bonyolítja le.",
+        "Természetes mélyvízi kikötő, amely Panamax méretű konténerhajók fogadására is alkalmas.",
+        "1983-ban a nicaraguai forradalom idején a kikötő olajtartályait az amerikai CIA támadta meg.",
+        "A várost egy 1992-es cunami súlyosan megrongálta.",
+        "A kikötő fontos óceánjáró luxushajók (cruises) megállóhelye is."
+      ]
+    },
+    {
+      "id": "puerto-sandino-economic-v2",
+      "descriptionAdvanced": "Sandino kikötője (Puerto Sandino), korábbi nevén Puerto Somoza, León megyében található, a Csendes-óceán partján. Míg Corinto a konténerekre fókuszál, Puerto Sandino az ország fő kőolaj- és nyersanyag-behozatali kapuja. A kikötőt egy csővezeték-hálózat (pipeline) köti össze a szárazföldi finomítókkal és tartályparkokkal, amelyeken keresztül a kőolajat és gázolajat szállítják. A kikötő közelében található hullámtörő a szörfösök kedvelt helye is, mivel az ipari létesítmények mellett a Csendes-óceán hatalmas hullámai (Punta Sandino) kiváló sportolási lehetőséget nyújtanak. Földrajz K7 — energiaellátás és nyersanyag-import.",
+      "factsAdvanced": [
+        "Eredetileg Anastasio Somoza diktátor alapította magánvagyonként Puerto Somoza néven.",
+        "A sandinista forradalom győzelme után, 1979-ben nevezték át Augusto C. Sandino tiszteletére.",
+        "Nicaragua szinte teljes kőolajimportja ezen a tengeri terminálon keresztül érkezik.",
+        "A tengeri csővezetékek a parttól kilométerekre horgonyzó tankhajókhoz csatlakoznak.",
+        "A kikötő mellett működik az ENSA sólepárló üzem, amely tengervízből állít elő sót.",
+        "A 'Punta Sandino' Közép-Amerika egyik leghíresebb balra törő szörfhulláma."
+      ]
+    },
+    {
+      "id": "puerto-el-bluff-economic-v2",
+      "descriptionAdvanced": "El Bluff a Karib-tengeri partvidék legfontosabb kikötője, amely egy kis félszigeten (amely szigetként funkcionál) helyezkedik el, közvetlenül a Bluefields-öböl bejáratánál. Történelmileg El Bluff Nicaragua keleti kapuja volt, a banán-, fa- és rákexport központja. A sekély vizek miatt a nagy óceánjárók nem tudnak közvetlenül Bluefields városába bejutni, így a teherhajókat itt rakodják ki, és kisebb uszályokon viszik tovább az árut. Bár infrastruktúrája elavultabb, mint a csendes-óceáni kikötőké, a Karib-tengeri halászati és kereskedelmi flotta számára elengedhetetlen bázis. Földrajz K7 — lagúnák logisztikája és karibi kereskedelem.",
+      "factsAdvanced": [
+        "A kikötő egy homokos félszigeten (El Bluff) található a Bluefields-lagúna bejáratánál.",
+        "Csak vízi úton, egy rövid hajóúttal (panga) közelíthető meg Bluefields városából.",
+        "Hagyományosan ez volt az USA-ba tartó mahagóni és banán hajózási pontja.",
+        "A kikötő jelentőségét korlátozza a csatorna folyamatos eliszaposodása.",
+        "Jelentős garnélarák- és homárfeldolgozó üzemek működnek a területén.",
+        "A 20. században a vámhivatal és a katonai ellenőrzőpont működött itt a kalózok és csempészek miatt."
+      ]
+    }
+  ]
+}

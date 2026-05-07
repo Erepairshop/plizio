@@ -1,0 +1,127 @@
+[
+  {
+    "id": "tampolo-naturreservat-life-v2",
+    "name": "Tampolo Nature Reserve",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "amphibien-wald-ranomafana-life-v2",
+    "name": "Ranomafana Amphibian Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "mahajanga-zoo-life-v2",
+    "name": "Mahajanga Zoo",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tsaratanana-nature-v2",
+    "name": "Tsaratanana Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "masoala-nature-v2",
+    "name": "Masoala Rainforest",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsingy-bemaraha-nature-v2",
+    "name": "Tsingy de Bemaraha",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-alaotra-nature-v2",
+    "name": "Lake Alaotra",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lokobe-nature-v2",
+    "name": "Lokobe Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-be-nature-v2",
+    "name": "Nosy Be",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "betsiboka-river-nature-v2",
+    "name": "Betsiboka River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsiribihina-river-nature-v2",
+    "name": "Tsiribihina River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "mangoky-river-nature-v2",
+    "name": "Mangoky River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-itasy-nature-v2",
+    "name": "Lake Itasy",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "ankarafantsika-nature-v2",
+    "name": "Ankarafantsika National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "andringitra-nature-v2",
+    "name": "Andringitra Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "ranomafana-nature-v2",
+    "name": "Ranomafana National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-komba-nature-v2",
+    "name": "Nosy Komba",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "isalo-nature-v2",
+    "name": "Isalo Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "masoala-peninsula-nature-v2",
+    "name": "Masoala Peninsula",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsingy-namoroka-nature-v2",
+    "name": "Tsingy of Namoroka",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-tampolo-nature-v2",
+    "name": "Lake Tampolo",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "mahajanga-coast-nature-v2",
+    "name": "Coast near Mahajanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "saint-marie-island-nature-v2",
+    "name": "Nosy Boraha",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsiribihina-delta-nature-v2",
+    "name": "Tsiribihina Delta",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-tsimanampetsotsa-nature-v2",
+    "name": "Lake Tsimanampetsotsa",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  }
+]

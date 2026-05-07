@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "guinea",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "simandou-eisenerzmine-economic-v2",
+      "descriptionAdvanced": "The Simandou Iron Ore Project, located in the remote forested mountains of southeastern Guinea, is widely considered the largest untapped deposit of high-grade iron ore in the world. The sheer scale of the deposit has attracted massive international consortiums, but development has been historically delayed by complex legal disputes, political instability, and the immense logistical challenge of building a 600-kilometer 'Trans-Guinean Railway' to transport the ore to the coast. This proposed mega-project includes the construction of a new deep-water port at Morebaya and promises to fundamentally transform Guinea's national economy by diversifying away from bauxite dependency. However, the project poses severe risks to the ecologically fragile Simandou mountain range, which is home to endangered West African chimpanzees and unique flora. Geography K8 — mega-infrastructure projects and global commodities.",
+      "factsAdvanced": [
+        "Widely considered the largest untapped high-grade iron ore deposit globally.",
+        "Located in the remote Simandou mountain range of southeastern Guinea.",
+        "Development requires building a massive 600 km 'Trans-Guinean Railway'.",
+        "Includes the planned construction of a new deep-water port at Morebaya.",
+        "Has faced decades of delays due to legal disputes and political shifts.",
+        "Poses significant conservation challenges for endangered local chimpanzees."
+      ]
+    },
+    {
+      "id": "kaleta-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "The Kaléta Hydropower Plant is a major hydroelectric dam located on the Konkouré River, approximately 135 kilometers northeast of Conakry. Commissioned in 2015 and built with significant Chinese investment and engineering expertise, the 240-megawatt facility represented a monumental leap forward for Guinea's energy sector. Before its completion, Conakry and surrounding regions suffered from chronic, paralyzing power outages; Kaléta drastically stabilized the national grid, providing reliable electricity that spurred urban and industrial growth. The dam's construction involved the creation of a massive reservoir, which submerged significant tracts of gallery forest and agricultural land, requiring the relocation of several local villages. Today, Kaléta stands as a symbol of Guinea's modernization and its vast, largely untapped hydroelectric potential. Geography K8 — national energy grids and hydroelectric development.",
+      "factsAdvanced": [
+        "A 240-megawatt hydroelectric dam situated on the Konkouré River.",
+        "Commissioned in 2015 to solve chronic national power shortages.",
+        "Constructed by the China International Water & Electric Corporation (CWE).",
+        "Located approximately 135 kilometers northeast of Conakry.",
+        "Drastically improved the stability of the capital city's electricity supply.",
+        "The reservoir creation required the resettlement of local farming villages."
+      ]
+    },
+    {
+      "id": "souapiti-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "Situated upstream from the Kaléta Dam on the Konkouré River, the Souapiti Hydropower Plant is an even larger and more ambitious energy project, designed to serve as the battery for Guinea's industrial future. With an installed capacity of 450 megawatts, Souapiti's massive reservoir acts as a regulatory basin, controlling the water flow to optimize power generation at Kaléta downstream during the dry season. The project, completed in the early 2020s, solidifies Guinea's position as a potential major energy exporter within the West African Power Pool. However, the environmental and social costs were immense; the vast Souapiti reservoir inundated an estimated 250 square kilometers of land, forcing the controversial resettlement of over 15,000 rural residents and permanently altering the riverine ecosystem. Geography K8 — massive reservoir impacts and regional energy export.",
+      "factsAdvanced": [
+        "A massive 450-megawatt hydroelectric facility on the Konkouré River.",
+        "Acts as a regulatory basin for the downstream Kaléta Dam.",
+        "Completed in the early 2020s to position Guinea as a regional energy exporter.",
+        "The reservoir flooded approximately 250 square kilometers of land.",
+        "Required the complex resettlement of over 15,000 local residents.",
+        "A key component of the interconnected West African Power Pool."
+      ]
+    },
+    {
+      "id": "garafiri-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": "The Garafiri Hydropower Plant, inaugurated in 1999, was Guinea's first major post-independence hydroelectric project, located on the upper Konkouré River. Generating 75 megawatts of electricity, the dam was a source of immense national pride, largely financed by Guinean citizens through a nationwide patriotic subscription campaign following the withdrawal of international donors. For years, Garafiri was the primary source of electricity for the capital, Conakry, though its capacity eventually proved insufficient for the city's explosive population growth, leading to severe power rationing before the construction of newer dams. The Garafiri reservoir remains a beautiful, scenic artificial lake surrounded by the rolling hills of the Fouta Djallon foothills, though its power output drops significantly during the intense West African dry season. History K8 — national infrastructure financing and energy history.",
+      "factsAdvanced": [
+        "Inaugurated in 1999 as Guinea's first major post-independence dam.",
+        "Generates 75 megawatts of electricity on the upper Konkouré River.",
+        "Financed partially through a unique patriotic citizen subscription campaign.",
+        "Served as the primary power source for Conakry for over a decade.",
+        "Power generation drops significantly during the intense regional dry season.",
+        "The reservoir created a scenic artificial lake in the Fouta Djallon foothills."
+      ]
+    },
+    {
+      "id": "goldmine-siguiri-economic-v2",
+      "descriptionAdvanced": "The Siguiri Gold Mine is Guinea's largest and most historically significant industrial gold mining operation, located in the northeastern savanna region near the Malian border. Operated primarily by AngloGold Ashanti, the massive open-pit complex exploits gold-bearing laterite and saprolite deposits that have been traditionally mined by local artisans for centuries since the era of the Mali Empire. The mine processes millions of tons of ore annually, significantly contributing to the national treasury and driving rapid, often chaotic urbanization in the nearby city of Siguiri. The presence of the industrial mine exists in a state of constant tension with thousands of informal artisanal miners, known locally as 'orpailleurs', who heavily rely on the same surrounding lands for their livelihoods, leading to complex security and socio-economic dynamics. Geography K8 — industrial vs. artisanal mining conflicts.",
+      "factsAdvanced": [
+        "Guinea's largest industrial gold mining complex, operating since the 1990s.",
+        "Located in the Siguiri Prefecture near the border with Mali.",
+        "Operated primarily by the multinational mining company AngloGold Ashanti.",
+        "Extracts gold from laterite and saprolite deposits via open pits.",
+        "Exists in close, often tense proximity to thousands of artisanal miners.",
+        "A major contributor to Guinea's national tax and export revenues."
+      ]
+    },
+    {
+      "id": "goldmine-lefa-economic-v2",
+      "descriptionAdvanced": "The Lefa Gold Mine, situated in the remote Dinguiraye Prefecture of northern Guinea, is one of the largest gold producing facilities in West Africa. Operated by Nordgold, the complex consists of multiple open pits and a highly sophisticated processing plant that handles complex, hard-rock sulfide ores. Because of its remote location in the dry savanna, the mine operates almost as an independent enclave, featuring extensive worker camps, dedicated power generation, and specialized water management systems to cope with the region's long dry season. The mine is a critical economic engine for the historically isolated Dinguiraye region, though it faces the universal challenges of large-scale extractive industries, including managing the expectations of local communities and mitigating the environmental impact of its massive tailings storage facilities. Geography K8 — remote enclave mining and savanna resource management.",
+      "factsAdvanced": [
+        "Located in the remote Dinguiraye Prefecture of northern Guinea.",
+        "One of West Africa's largest gold producing facilities, operated by Nordgold.",
+        "Extracts gold from multiple open pits focusing on hard-rock sulfide ores.",
+        "Operates large, independent worker camps and dedicated power infrastructure.",
+        "Requires complex water management due to the region's long dry season.",
+        "A vital economic engine for the otherwise isolated surrounding region."
+      ]
+    },
+    {
+      "id": "goldmine-kiniero-economic-v2",
+      "descriptionAdvanced": "The Kiniero Gold Mine is a historically significant mining site located in the Kouroussa Prefecture, positioned within the highly prospective Siguiri Basin. The mine has experienced a turbulent operational history; it was one of Guinea's first modern commercial gold mines but was placed under care and maintenance in 2014 following a drop in global gold prices and operational challenges. In recent years, the site has undergone extensive redevelopment and modernization by new investors aiming to restart and significantly expand production. The rocky, savanna landscape around Kiniero is heavily marked by past industrial activity and the extensive, ongoing efforts of informal artisanal miners who comb through the historic tailings and surrounding bushlands. Geography K8 — the boom-and-bust cycles of global mineral markets.",
+      "factsAdvanced": [
+        "Located in the Kouroussa Prefecture within the gold-rich Siguiri Basin.",
+        "One of Guinea's earlier modern commercial gold mining operations.",
+        "Suffered a multi-year shutdown beginning in 2014 due to market conditions.",
+        "Currently undergoing significant redevelopment to restart industrial production.",
+        "The surrounding area is heavily populated by informal artisanal miners.",
+        "Features typical savanna landscapes heavily modified by extractive activity."
+      ]
+    },
+    {
+      "id": "aluminiumwerk-fria-economic-v2",
+      "descriptionAdvanced": "The Fria Alumina Plant, historically known as the Friguia complex, is a monumental industrial site that transformed Guinean history. Built in 1960 by a French consortium, it was the very first facility in Africa capable of refining raw bauxite into alumina (aluminum oxide), requiring massive infrastructure, including a dedicated railway to Conakry and the construction of the planned city of Fria. For decades, the towering smokestacks and sprawling red-mud lakes defined the region's economy, making Fria one of the most prosperous towns in the country. After being acquired by the Russian company Rusal, the plant suffered a catastrophic shutdown in 2012 due to labor strikes and management disputes, economically devastating the city for six years before partially reopening in 2018. The site remains a powerful symbol of Africa's struggle to process its own raw materials. History K8 — African industrialization and post-colonial economics.",
+      "factsAdvanced": [
+        "The very first alumina refinery built on the African continent (1960).",
+        "Located in the city of Fria, connected by rail to the port of Conakry.",
+        "Refines raw bauxite ore into white alumina powder for export.",
+        "Suffered a devastating six-year operational shutdown from 2012 to 2018.",
+        "Features massive red-mud lakes, a byproduct of the refining process.",
+        "Currently operated by the Russian multinational aluminum company Rusal."
+      ]
+    },
+    {
+      "id": "eisenerzmine-zogota-economic-v2",
+      "descriptionAdvanced": "The Zogota Iron Ore Mine is an advanced-stage mining project located in the Forest Guinea region, specifically targeting a high-grade iron ore deposit in the southern extension of the Simandou mountain range. Unlike the massive northern Simandou blocks, Zogota is being developed with a highly unique logistical plan: exporting the ore not through Guinea, but via a specialized heavy-haul railway traversing neighboring Liberia to the deep-water port of Buchanan. This cross-border strategy significantly reduces capital costs and development time. The project has faced historical friction, including tragic clashes between local communities and security forces in 2012 over employment and environmental concerns. The mine's development highlights the complex geopolitical negotiations required to unlock landlocked mineral wealth in West Africa. Geography K8 — cross-border infrastructure and resource geopolitics.",
+      "factsAdvanced": [
+        "Located in the Forest Guinea region, south of the main Simandou blocks.",
+        "Targets high-grade iron ore deposits for commercial export.",
+        "Uniquely plans to export ore via a railway through neighboring Liberia.",
+        "Utilizes the deep-water Liberian port of Buchanan to reduce costs.",
+        "Site of tragic community clashes with security forces in 2012.",
+        "Demonstrates the complexity of cross-border resource logistics in Africa."
+      ]
+    },
+    {
+      "id": "bauxitmine-bel-air-economic-v2",
+      "descriptionAdvanced": "The Bel-Air Bauxite Mine is a modern, highly efficient mining operation located near the Atlantic coast in the Boffa Prefecture. Developed by Alufer Mining, the project is notable for its incredibly streamlined logistics; because the bauxite deposit is located just 15 kilometers from the coast, the company avoids the need for a massive, expensive railway. Instead, crushed ore is transported via a dedicated haul road directly to a specialized coastal facility, where it is loaded onto barges and transshipped to ocean-going vessels. Commencing production in 2018, Bel-Air was designed with a strong emphasis on minimizing its environmental footprint, implementing progressive rehabilitation of the mined-out pits and avoiding the disruption of sensitive local mangrove ecosystems where possible. Geography K8 — coastal mining logistics and environmental mitigation.",
+      "factsAdvanced": [
+        "A highly efficient bauxite mine located in the coastal Boffa Prefecture.",
+        "Situated only 15 kilometers from the Atlantic Ocean coast.",
+        "Utilizes a dedicated haul road rather than a complex railway system.",
+        "Exports ore via a barge-to-ship transshipment facility.",
+        "Began commercial production and export operations in 2018.",
+        "Emphasizes progressive environmental rehabilitation of open pits."
+      ]
+    },
+    {
+      "id": "hafen-konta-economic-v2",
+      "descriptionAdvanced": "The Port of Konta is a specialized river terminal situated on the Fatala River near Boffa, functioning as a critical logistical node for the region's rapidly expanding bauxite mining sector. Developed primarily by the Chalco (Aluminum Corporation of China) Guinea project, the port features modern loading infrastructure designed to seamlessly transfer raw bauxite from heavy trucks onto river barges. These barges then navigate down the Fatala River to deep-water transshipment anchorages in the Atlantic Ocean. The establishment of the Konta port transformed the sleepy, historic town of Boffa into a bustling industrial transit hub, bringing significant infrastructure investments but also raising concerns among local communities regarding heavy river traffic, dust pollution, and the impact on traditional artisanal fishing grounds. Geography K8 — riverine transport hubs and Chinese industrial investment.",
+      "factsAdvanced": [
+        "Located on the Fatala River in the Boffa Prefecture.",
+        "Developed as a specialized river terminal for bauxite exports.",
+        "Primarily serves the massive Chalco Guinea bauxite mining project.",
+        "Transfers ore from heavy trucks to barges for ocean transshipment.",
+        "Transformed the historic Boffa area into a bustling industrial hub.",
+        "Faces local scrutiny over river traffic and impacts on traditional fishing."
+      ]
+    },
+    {
+      "id": "diamantenmine-banankoro-economic-v2",
+      "descriptionAdvanced": "The Banankoro Diamond Mines refer to the sprawling, highly active alluvial mining zones surrounding the town of Banankoro in eastern Guinea's Kérouané Prefecture. Unlike large-scale, corporate hard-rock mines, Banankoro is the epicenter of Guinea's artisanal diamond sector. Here, tens of thousands of independent prospectors, working in small teams, excavate the gravel beds of the Milo River basin using rudimentary tools, seeking high-quality gem diamonds. The area is famous for occasionally yielding exceptionally large and pure stones, which are quickly sold through complex networks of local middlemen to international buyers. The intense, unregulated nature of this 'diamond rush' has fundamentally altered the local landscape, leaving behind vast tracts of deforested, cratered terrain, while driving a chaotic, cash-rich local economy that operates largely outside formal banking systems. Geography K8 — artisanal mining economies and alluvial gems.",
+      "factsAdvanced": [
+        "The epicenter of Guinea's artisanal alluvial diamond mining sector.",
+        "Located in the Milo River basin near the town of Banankoro.",
+        "Operated almost entirely by tens of thousands of independent miners.",
+        "Famous for yielding exceptionally high-quality, large gem diamonds.",
+        "Has resulted in severe landscape alteration and regional deforestation.",
+        "Drives a massive, informal cash economy reliant on networks of middlemen."
+      ]
+    },
+    {
+      "id": "kalksteinwerk-sougueta-economic-v2",
+      "descriptionAdvanced": "The Souguéta Limestone Plant is a critical industrial facility located in the Kindia Prefecture, playing an essential role in Guinea's domestic construction sector. Operating within a region characterized by rich sedimentary deposits, the plant quarries local limestone to produce clinker, the primary binding agent used in the manufacturing of Portland cement. By sourcing raw materials domestically, the facility significantly reduces Guinea's reliance on expensive imported clinker, thereby stabilizing local construction costs. The plant operates large kilns that dominate the local skyline and requires substantial energy inputs. While it provides vital industrial employment in a predominantly agricultural region, the facility must constantly manage the heavy dust emissions inherent to limestone crushing and calcination, which frequently coat the surrounding vegetation and nearby highway. Geography K8 — domestic construction materials and industrial processing.",
+      "factsAdvanced": [
+        "Located in the Kindia Prefecture near the town of Souguéta.",
+        "Quarries local sedimentary deposits to produce industrial clinker.",
+        "A critical supplier for Guinea's domestic cement manufacturing industry.",
+        "Reduces the national economic reliance on imported construction materials.",
+        "Operates massive, high-temperature kilns for the calcination process.",
+        "Faces ongoing environmental challenges related to heavy dust emissions."
+      ]
+    },
+    {
+      "id": "zementwerk-conakry-economic-v2",
+      "descriptionAdvanced": "The Ciments de Guinée Plant, located in the sprawling industrial zones of Conakry, is the premier cement manufacturing facility in the country. Recognizing the explosive rate of urban expansion and national infrastructure development, the plant was established to meet the massive local demand for construction materials. The facility primarily operates as a grinding and blending plant, taking imported clinker—or clinker sourced domestically from plants like Souguéta—and mixing it with gypsum to produce finished, bagged cement. Its strategic location near Conakry's autonomous port allows for the highly efficient offloading of bulk raw materials from massive cargo ships. The plant is a cornerstone of the Guinean economy, directly enabling the construction of the country's dams, bridges, and rapidly growing urban real estate. Geography K8 — urban industrial zones and construction supply chains.",
+      "factsAdvanced": [
+        "Guinea's premier cement manufacturing facility, located in Conakry.",
+        "Operates primarily as a massive clinker grinding and blending plant.",
+        "Strategically situated near the port to receive bulk raw material shipments.",
+        "Crucial for supporting the capital's rapid urban and real estate expansion.",
+        "Supplies the foundational materials for major national infrastructure projects.",
+        "Produces millions of bags of finished Portland cement annually."
+      ]
+    },
+    {
+      "id": "bauxitmine-koumbia-economic-v2",
+      "descriptionAdvanced": "The Koumbia Bauxite Mine is an emerging, large-scale mining project situated in the Gaoual Prefecture of northwestern Guinea, operated by the Alliance Mining Commodities (AMC) consortium. Located further inland than the traditional Boké mining hubs, the Koumbia project targets an incredibly rich lateritic plateau containing hundreds of millions of tons of high-grade bauxite. The development of this mine represents the eastward expansion of Guinea's bauxite frontier, requiring the construction of substantial new infrastructure, including long-distance haul roads and new riverine export terminals on the Nuñez River. The project is expected to bring significant economic transformation to the historically isolated and pastoral Gaoual region, though it also introduces the complex challenges of managing environmental impacts and land compensation among traditional Fulani herding communities. Geography K8 — expanding resource frontiers and regional development.",
+      "factsAdvanced": [
+        "An emerging large-scale bauxite project in the Gaoual Prefecture.",
+        "Operated by the Alliance Mining Commodities (AMC) consortium.",
+        "Represents the eastward, inland expansion of Guinea's bauxite industry.",
+        "Targets a massive lateritic plateau with high-grade aluminum ore.",
+        "Requires the development of extensive new transport and river infrastructure.",
+        "Brings industrial transformation to a historically pastoral and isolated region."
+      ]
+    },
+    {
+      "id": "mausoleum-camayenne-history-v2",
+      "descriptionAdvanced": "The Camayenne Mausoleum, located in the tranquil botanical gardens of Conakry, is the ultimate resting place for Guinea's most revered national heroes. The grand, yet solemn, structure is primarily dedicated to Ahmed Sékou Touré, the nation's polarizing first president who led Guinea to independence in 1958. It also houses the remains of Samori Touré, the legendary 19th-century emperor who fiercely resisted French colonization, whose ashes were repatriated from Gabon. Additionally, the mausoleum honors Alfa Yaya, a prominent ruler of the Fouta Djallon, and other key figures of the independence movement. Architecturally, the building features distinctive Moorish and modern African elements, standing as a powerful symbol of Guinean sovereignty, anti-colonial resistance, and the complex, often turbulent history of the nation's leadership. History K8 — post-colonial memory and national independence leaders.",
+      "factsAdvanced": [
+        "Located within the Camayenne Botanical Gardens in Conakry.",
+        "The final resting place of Guinea's first president, Ahmed Sékou Touré.",
+        "Houses the repatriated ashes of the anti-colonial hero Samori Touré.",
+        "Contains the remains of Alfa Yaya, a historic leader of the Fouta Djallon.",
+        "Serves as the paramount monument to Guinean independence and sovereignty.",
+        "Features a distinctive blend of Moorish and modern African architecture."
+      ]
+    },
+    {
+      "id": "almamy-yaya-tomb-history-v2",
+      "descriptionAdvanced": "The Almamy Yaya Tomb commemorates Alfa Yaya Diallo, one of the most powerful and famous traditional rulers (Almamys) of the Fouta Djallon region during the late 19th and early 20th centuries. Known for his tactical brilliance and complex diplomatic maneuvering, Alfa Yaya initially collaborated with the French colonial forces before eventually resisting their expanding control, leading to his exile and death in Mauritania in 1912. His remains were later repatriated to Guinea and treated with national honors, reflecting his status as an anti-colonial martyr. The tomb serves as a vital site of historical memory, representing the fierce independence of the Fulani theocracy and the tragic consequences of European colonial pacification in West Africa. History K8 — the Fouta Djallon theocracy and colonial resistance.",
+      "factsAdvanced": [
+        "Commemorates Alfa Yaya Diallo, a powerful Almamy of the Fouta Djallon.",
+        "Alfa Yaya ruled during the critical period of French colonial expansion.",
+        "He died in exile in Mauritania in 1912 after resisting French control.",
+        "His remains were later repatriated to Guinea with full national honors.",
+        "A highly significant cultural symbol for the Fulani people of Guinea.",
+        "Represents the complex history of resistance and diplomacy in West Africa."
+      ]
+    },
+    {
+      "id": "fort-boke-museum-history-v2",
+      "descriptionAdvanced": "The Fort of Boké Museum is housed within a stark, imposing military fortress constructed by the French colonial army in 1878 along the banks of the Nuñez River. Originally built to consolidate French control over the lucrative river trade and suppress local resistance from the Baga and Susu people, the fortress now serves as a profound historical museum. The site is somberly remembered for its dungeons, which were historically used as holding cells for enslaved Africans prior to the horrific transatlantic crossing. Today, the museum features poignant exhibits on the regional slave trade, traditional coastal cultures, and artifacts from Guinea's anti-colonial struggles. The fort's thick stone walls and strategic riverine position offer a tangible connection to the brutal realities of the colonial and mercantile eras in West Africa. History K8 — the transatlantic slave trade and colonial military architecture.",
+      "factsAdvanced": [
+        "Housed in a French military fortress constructed in 1878.",
+        "Located strategically on the banks of the Nuñez River in Boké.",
+        "The site features historic dungeons used during the transatlantic slave trade.",
+        "Currently serves as a museum dedicated to local history and culture.",
+        "Exhibits artifacts from the Baga, Susu, and Fulani ethnic groups.",
+        "A stark physical reminder of colonial military pacification in Guinea."
+      ]
+    },
+    {
+      "id": "sosso-bala-shrine-history-v2",
+      "descriptionAdvanced": "The Sosso-Bala Shrine in the village of Niagassola houses one of the most sacred and ancient musical instruments in the world, the 'Sosso-Bala'. According to deep-rooted oral traditions, this specific balafon (xylophone) was originally owned by the fearsome 13th-century sorcerer-king Soumaoro Kanté before being captured by the legendary Sundiata Keita, founder of the Mali Empire. Sundiata entrusted the instrument to his griot, Balla Fasséké Kouyaté, and it has been guarded by the Kouyaté family in Niagassola ever since. Housed in a specially constructed traditional mud-brick shrine, the instrument is only played on specific ceremonial occasions. In 2001, UNESCO recognized the Sosso-Bala and its associated cultural space as a Masterpiece of the Oral and Intangible Heritage of Humanity, underscoring its profound historical and cultural magnitude. History K8 — the Epic of Sundiata and West African griot traditions.",
+      "factsAdvanced": [
+        "Located in the village of Niagassola near the border with Mali.",
+        "Houses a sacred balafon dating back to the 13th-century Mali Empire.",
+        "Historically associated with the legendary figures Soumaoro Kanté and Sundiata Keita.",
+        "Guarded continuously for centuries by the Kouyaté family of griots.",
+        "Recognized by UNESCO as a Masterpiece of Oral and Intangible Heritage.",
+        "The instrument is kept in a traditional shrine and played only on rare occasions."
+      ]
+    },
+    {
+      "id": "faran-kama-monument-history-v2",
+      "descriptionAdvanced": "The Faran-Kama Monument in the eastern city of Kissidougou honors the legendary founding figure of the Kissi people, Faran-Kama. According to regional oral history, Faran-Kama was a powerful warrior and leader who unified various forest-dwelling clans to establish a secure and prosperous society in the transition zone between the savanna and the deep rainforest. The monument serves as a focal point for cultural pride among the Kissi community, symbolizing their historical resilience, unique agricultural knowledge, and fierce independence prior to colonial rule. The site frequently hosts traditional ceremonies, dances, and festivals, acting as a living link between modern Guineans and their pre-colonial ancestral heritage. History K8 — forest kingdom founders and pre-colonial African societies.",
+      "factsAdvanced": [
+        "Located in the city of Kissidougou in the Forest Guinea region.",
+        "Dedicated to Faran-Kama, the legendary founding warrior of the Kissi people.",
+        "Symbolizes the historical unity and resilience of the forest-dwelling clans.",
+        "A central gathering place for traditional Kissi cultural ceremonies and dances.",
+        "Represents the transition zone between the savanna empires and forest societies.",
+        "Maintains the oral history and ancestral heritage of the region."
+      ]
+    },
+    {
+      "id": "camara-laye-house-history-v2",
+      "descriptionAdvanced": "The Camara Laye House, located in the savanna city of Kouroussa, is the preserved childhood home of one of Africa's most internationally celebrated authors. Camara Laye gained global acclaim for his 1953 autobiographical novel, 'L'Enfant Noir' (The Dark Child), which provided a vivid, lyrical, and deeply humanizing portrait of traditional Malinke life, blacksmithing, and mysticism during the French colonial era. The modest, traditional compound features the distinctive mud-brick architecture and thatched roofing typical of the region. Visitors to the site can view the actual forge where Laye's father worked as a highly respected goldsmith and blacksmith, bringing the scenes of the famous novel to life. The site stands as a vital monument to African literature and the preservation of indigenous cultural narratives against colonial assimilation. History K8 — Francophone African literature and Malinke culture.",
+      "factsAdvanced": [
+        "Located in the historic savanna city of Kouroussa.",
+        "The childhood home of the globally acclaimed author Camara Laye.",
+        "Author of the famous 1953 autobiographical novel 'The Dark Child'.",
+        "Features traditional Malinke mud-brick and thatched-roof architecture.",
+        "Preserves the actual blacksmith forge operated by the author's father.",
+        "A critical cultural site celebrating indigenous Francophone African literature."
+      ]
+    },
+    {
+      "id": "sekou-toure-palace-history-v2",
+      "descriptionAdvanced": "The Sékou Touré Palace, often referred to locally as the 'Palais Présidentiel' or 'Camp Boiro' precinct, comprises the former centers of power used by Ahmed Sékou Touré, Guinea's first president who ruled from 1958 to 1984. Touré was a monumental figure who famously rejected the French Community, declaring that Guinea preferred 'poverty in freedom to riches in slavery.' His long rule was marked by fierce pan-Africanism, Marxist-Leninist policies, and increasing authoritarianism. The palace complex and the infamous nearby Camp Boiro military prison represent the stark duality of his legacy: heroic anti-colonial independence and severe internal political repression. While parts of the historic presidential estates were destroyed or repurposed during subsequent military coups, the remaining structures stand as imposing reminders of Guinea's turbulent, defining post-colonial era. History K8 — African independence movements and Cold War geopolitics.",
+      "factsAdvanced": [
+        "Located in the capital city of Conakry.",
+        "Associated with Ahmed Sékou Touré, Guinea's founding president (1958-1984).",
+        "Touré famously led Guinea to reject the French Community in 1958.",
+        "The precinct includes sites related to his increasingly authoritarian rule.",
+        "Nearby Camp Boiro became infamous as a severe political prison.",
+        "Symbolizes the complex legacy of pan-Africanism and post-colonial governance."
+      ]
+    },
+    {
+      "id": "boffa-mission-history-v2",
+      "descriptionAdvanced": "The Boffa Mission Station, established in 1877 by the Holy Ghost Fathers (Spiritans), holds the distinction of being the first permanent Catholic mission built in the territory of modern-day Guinea. Situated along the banks of the Fatala River, the mission was strategically placed to minister to the local coastal populations and counter the dominant Islamic and animist influences of the region. The historic site features the remains of the original, highly resilient stone church, which still stands as the oldest Christian sanctuary in the country. Today, the mission remains an active parish and a major national pilgrimage site, attracting thousands of Guinean Catholics annually during the Marian celebrations in May. The aging colonial-era architecture surrounded by tropical foliage provides a serene, historically rich atmosphere. History K8 — European missionary expansion and coastal religious history.",
+      "factsAdvanced": [
+        "Located in the coastal town of Boffa along the Fatala River.",
+        "Established in 1877 by the Catholic Holy Ghost Fathers (Spiritans).",
+        "Recognized as the first permanent Catholic mission in modern Guinea.",
+        "Features the oldest standing Christian stone church in the country.",
+        "Serves as the primary destination for the annual national Marian pilgrimage.",
+        "A key historical site representing early European religious expansion in West Africa."
+      ]
+    },
+    {
+      "id": "colombiere-cave-history-v2",
+      "descriptionAdvanced": "The Colombière Cave is a striking natural and historical site located near the town of Kindia. Nestled within the rocky, forested foothills of Mount Gangan, the cave system is renowned for both its impressive geological formations and its deep cultural significance to the local Susu people. Historically, the caverns served as a critical place of refuge and defense for local populations during times of regional conflict and colonial incursions. Beyond its defensive uses, the cave has long been considered a sacred site by animist practitioners, who believe it is inhabited by powerful local spirits, and it continues to be used occasionally for traditional ceremonies and offerings. The site offers a fascinating blend of speleology and deep-rooted West African mysticism, surrounded by lush tropical biodiversity. History K8 — animist sacred sites and pre-colonial defensive geography.",
+      "factsAdvanced": [
+        "Located in the forested foothills of Mount Gangan near Kindia.",
+        "Features impressive natural geological cavern formations.",
+        "Historically utilized as a fortified refuge during regional conflicts.",
+        "Considered a highly sacred site in traditional Susu animist beliefs.",
+        "Believed by locals to be the dwelling place of powerful nature spirits.",
+        "Surrounded by a diverse and ecologically rich tropical forest."
+      ]
+    },
+    {
+      "id": "koumi-sacred-site-history-v2",
+      "descriptionAdvanced": "The Koumi Sacred Site is a deeply venerated cultural and spiritual location hidden within the dense rainforests of the Forest Guinea region, near the city of Macenta. This site is central to the animist traditions of the local Toma (Loma) people and serves as a primary location for the secretive 'Poro' initiation societies. Access to the core areas of the Koumi site is strictly restricted to initiated members, preserving centuries-old rituals, masked dances, and oral histories from outside influence. The site is characterized by ancient, towering forest trees that are themselves considered sacred entities, representing the ancestral spirits of the community. The ongoing preservation of the Koumi Sacred Site highlights the profound resilience of indigenous West African religions and the critical cultural importance of protecting the remaining primary rainforests. History K8 — West African secret societies and forest animism.",
+      "factsAdvanced": [
+        "Located deep within the rainforests near Macenta in Forest Guinea.",
+        "A highly sacred spiritual center for the traditional Toma (Loma) people.",
+        "Serves as a primary location for the secretive 'Poro' initiation rites.",
+        "Access to the site is strictly limited to initiated society members.",
+        "Characterized by towering, ancient forest trees considered to hold ancestral spirits.",
+        "Demonstrates the resilience of indigenous animist practices in modern Africa."
+      ]
+    }
+  ]
+}

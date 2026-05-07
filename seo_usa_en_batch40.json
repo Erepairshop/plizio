@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "descriptionAdvanced": "Grand Teton National Park in Wyoming is defined by the dramatic, jagged peaks of the Teton Range, which rise abruptly from the flat Jackson Hole valley. The park protects a high-altitude ecosystem that remains one of the last nearly intact natural habitats in the lower 48 states, serving as a critical corridor for migrating fauna like pronghorn, elk, and bison. The stark, vertical rise of the Teton peaks, formed by massive seismic faulting, provides a premier natural laboratory for studying geology, high-altitude alpine botany, and the migratory patterns of megafauna. Grand Teton represents the pinnacle of Western American wilderness, a site where the intense power of tectonic creation meets a delicate, enduring sanctuary for biodiversity. Biologie K7 — Alpine geology and megafauna migration corridors.",
+      "factsAdvanced": [
+        "Features the dramatic, vertical peaks of the Teton Range.",
+        "One of the last nearly intact high-altitude ecosystems in the lower 48 states.",
+        "Critical migration corridor for iconic fauna like pronghorn, elk, and bison.",
+        "Peaks were formed by massive seismic faulting, creating a stunning vertical landscape.",
+        "Serves as a premier laboratory for studying alpine botany and tectonic geology.",
+        "Represents the pinnacle of Western American wilderness and biodiversity preservation."
+      ]
+    },
+    {
+      "id": "georgia-peach-orchards-life-v2",
+      "descriptionAdvanced": "Georgia, famously known as the 'Peach State,' has a deep historical and economic connection to the commercial production of peaches. While the industry originated from the state's ideal climate, rich soils, and a strong agricultural heritage, it has evolved into a sophisticated, science-driven sector that requires careful management of seasonal cycles and specialized horticultural practices. The peach orchards are iconic landscapes that symbolize the agricultural roots of the American South. Today, the sector balances traditional farming values with modern agricultural science to meet the demands of global food markets, serving as an enduring cultural emblem of Georgia’s history and its role as a key contributor to the national fruit industry. Landwirtschaft K7 — Fruit production and regional agricultural heritage.",
+      "factsAdvanced": [
+        "Georgia is historically and culturally recognized as the 'Peach State'.",
+        "Commercial peach production is rooted in the state's rich soils and climate.",
+        "Orchards have evolved into a sophisticated, science-driven agricultural sector.",
+        "Symbolizes the foundational agricultural history of the American South.",
+        "Balances traditional farming expertise with modern horticultural science.",
+        "Remains an enduring cultural emblem and a key contributor to the national fruit industry."
+      ]
+    },
+    {
+      "id": "seaworld-orlando-life-v2",
+      "descriptionAdvanced": "SeaWorld Orlando, Florida, is a world-renowned theme park and aquarium that focuses on the interactive exhibition and study of marine life. Since its founding, the park has been a center for public education, marine research, and animal rescue and rehabilitation efforts. The park’s focus on large-scale aquatic animal displays—ranging from orcas and dolphins to diverse tropical marine species—has made it a major player in marine biology education for millions of visitors. Today, SeaWorld Orlando stands as a complex, modern institution that bridges the gap between large-scale commercial entertainment and its commitment to marine conservation, research, and public advocacy for the protection of ocean health and global marine species. Biologie K8 — Marine life exhibition and conservation research.",
+      "factsAdvanced": [
+        "World-renowned theme park focused on marine life exhibition and research.",
+        "A central hub for large-scale marine animal rescue and rehabilitation efforts.",
+        "Provides foundational marine biology education to millions of annual visitors.",
+        "Showcases diverse aquatic species, from dolphins to tropical fish.",
+        "Modern institution balancing commercial entertainment with ocean conservation advocacy.",
+        "Active participant in ongoing global marine species protection and research."
+      ]
+    }
+  ]
+}

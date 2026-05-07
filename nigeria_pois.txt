@@ -1,0 +1,234 @@
+ng-abuja-cities-v2 | Abuja
+ng-lagos-ikeja-cities-v2 | Ikeja
+ng-lagos-city-cities-v2 | Lagos
+ng-kano-city-cities-v2 | Kano-Stadt
+ng-ibadan-cities-v2 | Ibadan
+ng-port-harcourt-cities-v2 | Port Harcourt
+ng-benin-city-cities-v2 | Benin City
+ng-kaduna-city-cities-v2 | Kaduna-Stadt
+ng-jos-cities-v2 | Jos
+ng-ilorin-cities-v2 | Ilorin
+ng-maiduguri-cities-v2 | Maiduguri
+ng-enugu-city-cities-v2 | Enugu (Stadt)
+ng-zaria-cities-v2 | Zaria
+ng-aba-cities-v2 | Aba
+ng-onitsha-cities-v2 | Onitsha
+ng-warri-cities-v2 | Warri
+ng-sokoto-city-cities-v2 | Sokoto-Stadt
+ng-calabar-cities-v2 | Calabar
+ng-uyo-cities-v2 | Uyo
+ng-ado-ekiti-cities-v2 | Ado-Ekiti
+ng-akure-cities-v2 | Akure
+ng-abeokuta-cities-v2 | Abeokuta
+ng-osogbo-cities-v2 | Osogbo
+ng-bauchi-city-cities-v2 | Bauchi (Stadt)
+ng-owerri-cities-v2 | Owerri
+ng-yola-cities-v2 | Yola
+ng-umuahia-cities-v2 | Umuahia
+ng-awka-cities-v2 | Awka
+ng-yenagoa-cities-v2 | Yenagoa
+ng-makurdi-cities-v2 | Makurdi
+ng-asaba-cities-v2 | Asaba
+ng-abakaliki-cities-v2 | Abakaliki
+ng-gombe-city-cities-v2 | Gombe (Stadt)
+ng-dutse-cities-v2 | Dutse
+ng-katsina-city-cities-v2 | Katsina (Stadt)
+ng-birnin-kebbi-cities-v2 | Birnin Kebbi
+ng-lokoja-cities-v2 | Lokoja
+ng-lafia-cities-v2 | Lafia
+ng-minna-cities-v2 | Minna
+ng-jalingo-cities-v2 | Jalingo
+ng-damaturu-cities-v2 | Damaturu
+ng-gusau-cities-v2 | Gusau
+ng-sapele-cities-v2 | Sapele
+ng-ughelli-cities-v2 | Ughelli
+ng-gboko-cities-v2 | Gboko
+ng-okene-cities-v2 | Okene
+ng-ijebu-ode-cities-v2 | Ijebu-Ode
+ng-sagamu-cities-v2 | Sagamu
+ng-ogbomosho-cities-v2 | Ogbomosho
+ng-oyo-city-cities-v2 | Oyo (Stadt)
+ng-iseyin-cities-v2 | Iseyin
+ng-ilesa-cities-v2 | Ilesa
+ng-ife-cities-v2 | Ife
+ng-owo-cities-v2 | Owo
+ng-ondo-city-cities-v2 | Ondo (Stadt)
+ng-uromi-cities-v2 | Uromi
+ng-kafanchan-cities-v2 | Kafanchan
+ng-jimeta-cities-v2 | Jimeta
+ng-mubi-cities-v2 | Mubi
+ng-bida-cities-v2 | Bida
+apapa-port-complex-economic-v2 | Hafenkomplex Apapa
+tin-can-island-port-economic-v2 | Hafen Tin Can Island
+onne-port-economic-v2 | Hafen Onne
+port-harcourt-port-economic-v2 | Hafen von Port Harcourt
+calabar-port-economic-v2 | Hafen Calabar
+warri-port-economic-v2 | Hafen Warri
+lekki-deep-sea-port-economic-v2 | Tiefseehafen Lekki
+koko-port-economic-v2 | Hafen Koko
+sapele-port-economic-v2 | Hafen Sapele
+burutu-port-economic-v2 | Hafen Burutu
+escravos-terminal-economic-v2 | Escravos Terminal
+forcados-terminal-economic-v2 | Forcados Terminal
+bonny-oil-terminal-economic-v2 | Ölterminal Bonny
+qua-iboe-terminal-economic-v2 | Qua Iboe Terminal
+brass-terminal-economic-v2 | Brass Terminal
+dangote-refinery-economic-v2 | Raffinerie Dangote
+port-harcourt-refinery-economic-v2 | Raffinerie Port Harcourt
+warri-refinery-economic-v2 | Raffinerie Warri
+kaduna-refinery-economic-v2 | Raffinerie Kaduna
+ajaokuta-steel-mill-economic-v2 | Stahlwerk Ajaokuta
+delta-steel-company-economic-v2 | Delta Steel Company
+obajana-cement-plant-economic-v2 | Zementwerk Obajana
+ibese-cement-plant-economic-v2 | Zementwerk Ibese
+gboko-cement-plant-economic-v2 | Zementwerk Gboko
+mfamosing-cement-plant-economic-v2 | Zementwerk Mfamosing
+bua-cement-sokoto-economic-v2 | BUA Zementwerk Sokoto
+lafarge-ashaka-cement-economic-v2 | Ashaka Zementwerk
+ewekoro-cement-plant-economic-v2 | Zementwerk Ewekoro
+okpella-cement-plant-economic-v2 | Zementwerk Okpella
+alscon-smelter-economic-v2 | Aluminiumhütte ALSCON
+benin-city-walls-history-v2 | Stadtmauern von Benin
+sukur-cultural-landscape-history-v2 | Kulturlandschaft Sukur
+osun-osogbo-sacred-grove-history-v2 | Heiliger Hain der Osun
+kano-city-walls-history-v2 | Stadtmauern von Kano
+sungbos-eredo-history-v2 | Sungbo's Eredo
+olumo-rock-history-v2 | Olumo-Felsen
+badagry-slave-port-history-v2 | Sklavenhafen von Badagry
+first-storey-building-history-v2 | Erstes zweistöckiges Gebäude
+arochukwu-long-juju-history-v2 | Arochukwu Long Juju-Schrein
+national-war-museum-history-v2 | Nationales Kriegsmuseum
+nok-village-history-v2 | Nok-Dorf
+owo-palace-history-v2 | Palast von Owo
+idanre-hill-history-v2 | Idanre-Hügel
+gidan-rumfa-history-v2 | Gidan Rumfa
+zaria-city-walls-history-v2 | Stadtmauern von Zaria
+igbo-ukwu-history-v2 | Igbo-Ukwu Ausgrabungsstätte
+oduduwa-shrine-history-v2 | Oduduwa-Schrein
+kofar-mata-dyeing-pits-history-v2 | Kofar Mata Färbegruben
+esie-museum-history-v2 | Esie-Museum
+dufuna-canoe-history-v2 | Dufuna-Kanu-Fundstätte
+mbari-cultural-centre-history-v2 | Mbari-Kulturzentrum
+surame-cultural-landscape-history-v2 | Kulturlandschaft Surame
+mary-slessor-house-history-v2 | Haus von Mary Slessor
+lugard-hall-history-v2 | Lugard-Halle
+mount-patti-history-v2 | Mount Patti
+gobirau-minaret-history-v2 | Gobirau-Minarett
+slave-history-museum-history-v2 | Sklavengeschichtliches Museum
+chief-ekpo-bassey-house-history-v2 | Haus von Häuptling Ekpo Bassey
+amalgamation-house-history-v2 | Amalgamierungshaus
+alok-ikom-monoliths-history-v2 | Alok Ikom Steinmonolithen
+national-mosque-abuja-landmarks-v2 | Nigerianische Nationalmoschee
+national-christian-centre-abuja-landmarks-v2 | Nationales Christliches Zentrum
+national-arts-theatre-lagos-landmarks-v2 | Nationaltheater der Künste
+tafawa-balewa-square-landmarks-v2 | Tafawa Balewa Platz
+third-mainland-bridge-landmarks-v2 | Dritte Festlandbrücke
+lekki-ikoyi-link-bridge-landmarks-v2 | Lekki-Ikoyi Verbindungsbrücke
+necom-house-lagos-landmarks-v2 | NECOM Haus
+godswill-akpabio-stadium-landmarks-v2 | Godswill Akpabio Stadion
+moshood-abiola-stadium-landmarks-v2 | Moshood Abiola Nationalstadion
+central-bank-of-nigeria-hq-landmarks-v2 | Hauptsitz der Zentralbank von Nigeria
+cathedral-church-of-christ-landmarks-v2 | Christuskirche Kathedrale Lagos
+ship-house-abuja-landmarks-v2 | Verteidigungsministerium (Schiffshaus)
+independence-house-lagos-landmarks-v2 | Unabhängigkeitshaus Lagos
+cocoa-house-ibadan-landmarks-v2 | Kakao-Haus Ibadan
+great-mosque-of-kano-landmarks-v2 | Große Moschee von Kano
+mapo-hall-ibadan-landmarks-v2 | Mapo Halle
+mary-slessor-house-landmarks-v2 | Mary Slessor Haus
+tinapa-resort-calabar-landmarks-v2 | Tinapa Resort
+first-storey-building-badagry-landmarks-v2 | Erstes mehrstöckiges Gebäude
+badagry-heritage-museum-landmarks-v2 | Badagry Heimatmuseum
+oba-of-benin-palace-landmarks-v2 | Palast des Oba von Benin
+aso-villa-abuja-landmarks-v2 | Aso Villa
+abuja-city-gate-landmarks-v2 | Abuja Stadttor
+gidan-rumfa-landmarks-v2 | Palast des Emir von Kano
+gidan-makama-museum-landmarks-v2 | Gidan Makama Museum
+freedom-park-lagos-landmarks-v2 | Freiheitspark Lagos
+civic-centre-lagos-landmarks-v2 | Bürgerzentrum Lagos
+jaekel-house-lagos-landmarks-v2 | Jaekel Haus
+teslim-balogun-stadium-landmarks-v2 | Teslim Balogun Stadion
+gobarau-minaret-katsina-landmarks-v2 | Gobarau Minarett
+ng-yankari-safari-life-v2 | Yankari Nationalpark
+ng-gashaka-gumti-life-v2 | Gashaka Gumti Nationalpark
+ng-olumene-farm-life-v2 | Olumene Kakao-Farm
+ng-jos-wildlife-life-v2 | Jos Wildtierpark
+ng-lekkiconservation-life-v2 | Lekki Naturschutzgebiet
+ng-ibadan-cocoa-life-v2 | Ibadan Kakao-Zentrum
+ng-calabar-monkey-life-v2 | Calabar Affenreservat
+ng-crossriver-nat-life-v2 | Cross-River Nationalpark
+ng-kano-zoo-life-v2 | Kano Zoo
+ng-ekiti-agri-life-v2 | Ekiti Agrar-Zentrum
+ng-omo-reserve-life-v2 | Omo Reservat
+ng-kaduna-zoo-life-v2 | Kaduna Zoo
+ng-kwara-farm-life-v2 | Kwara Agrar-Projekt
+ng-imo-zoo-life-v2 | Imo Staatszoo
+ng-enugu-park-life-v2 | Enugu Freizeitpark
+ng-borno-safari-life-v2 | Borno Safari
+ng-delta-nature-life-v2 | Delta Naturschutzzone
+ng-abia-agri-life-v2 | Abia Agrar-Hub
+ng-anambra-forest-life-v2 | Anambra Waldreservat
+ng-sokoto-zoo-life-v2 | Sokoto Zoo
+ng-bauchi-orchard-life-v2 | Bauchi Obstgarten
+ng-benue-farm-life-v2 | Benue Agrar-Gemeinde
+ng-ondo-cacao-life-v2 | Ondo Kakao-Kooperative
+ng-ebonyi-rice-life-v2 | Ebonyi Reis-Farm
+ng-ekiti-bird-life-v2 | Ekiti Vogelbeobachtungszone
+ng-jigawa-farm-life-v2 | Jigawa Agrar-Projekt
+ng-kebbi-rice-life-v2 | Kebbi Reis-Hub
+ng-nasarawa-farm-life-v2 | Nasarawa Agrar-Park
+ng-taraba-nature-life-v2 | Taraba Wildschutzgebiet
+niger-river-nature-v2 | Niger
+benue-river-nature-v2 | Benue
+chad-lake-nature-v2 | Tschadsee
+jos-plateau-mountain-nature-v2 | Jos-Plateau
+chappal-waddi-mountain-nature-v2 | Chappal Waddi
+cross-river-nature-v2 | Cross River
+ogun-river-nature-v2 | Ogun
+kainji-lake-nature-v2 | Kainji-Stausee
+lekki-lagoon-nature-v2 | Lekki-Lagune
+niger-delta-nature-v2 | Nigerdelta
+shere-hills-mountain-nature-v2 | Shere Hills
+obudu-plateau-mountain-nature-v2 | Obudu-Plateau
+osun-river-nature-v2 | Osun
+chad-basin-nature-v2 | Tschadbecken
+gashaka-gumti-forest-nature-v2 | Gashaka-Gumti-Nationalpark
+kano-river-nature-v2 | Kano
+kaduna-river-nature-v2 | Kaduna
+sokoto-river-nature-v2 | Sokoto
+hadejia-river-nature-v2 | Hadejia
+gongola-river-nature-v2 | Gongola
+yobe-river-nature-v2 | Yobe
+ogun-forest-nature-v2 | Ogun-Waldgebiet
+osun-forest-nature-v2 | Osun-Wald
+kainji-forest-nature-v2 | Kainji-Nationalpark-Wald
+cross-river-forest-nature-v2 | Cross-River-Regenwald
+buea-mountain-nature-v2 | Obudu-Berge
+mandara-mountains-nature-v2 | Mandara-Gebirge
+guinea-gulf-sea-nature-v2 | Golf von Guinea
+kainji-dam-nature-v2 | Kainji-Stausee-Ufer
+niger-river-delta-nature-v2 | Nigerdelta-Mangroven
+mambilla-plateau-relief-v2 | Mambilla-Plateau
+gashaka-hills-relief-v2 | Gashaka-Berge
+obudu-mountains-relief-v2 | Obudu-Berge (neu)
+uadi-niger-relief-v2 | Niger-Tal
+plateau-jos-relief-v2 | Jos-Hochebene (v2)
+kainji-becken-relief-v2 | Kainji-Becken
+delta-niger-relief-v2 | Niger-Delta (Relief)
+biu-plateau-relief-v2 | Biu-Plateau
+mandara-berge-relief-v2 | Mandara-Berge (Relief)
+shebshi-berge-relief-v2 | Shebshi-Berge
+alantika-berge-relief-v2 | Alantika-Berge
+shere-hills-relief-v2 | Shere Hills (Relief)
+kogi-hügel-relief-v2 | Kogi-Hügelland
+ekiti-hügel-relief-v2 | Ekiti-Hügelland
+osun-relief-relief-v2 | Osun-Landschaft
+cross-river-tal-relief-v2 | Cross-River-Tal
+ondo-relief-relief-v2 | Ondo-Hügelland
+nassarawa-relief-relief-v2 | Nassarawa-Ebene
+kaduna-tal-relief-v2 | Kaduna-Tal
+yobe-becken-relief-v2 | Yobe-Tiefland
+sokoto-ebene-relief-v2 | Sokoto-Ebene
+adamawa-hochland-relief-v2 | Adamawa-Hochland
+benue-tal-relief-v2 | Benue-Tal (Relief)
+gongola-tal-relief-v2 | Gongola-Tal
+kano-ebene-relief-v2 | Kano-Ebene

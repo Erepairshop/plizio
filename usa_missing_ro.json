@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "new-york-city-cities-v2",
+    "name": "New York City",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "los-angeles-cities-v2",
+    "name": "Los Angeles",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "chicago-cities-v2",
+    "name": "Chicago",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "houston-cities-v2",
+    "name": "Houston",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "phoenix-cities-v2",
+    "name": "Phoenix",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "philadelphia-cities-v2",
+    "name": "Philadelphia",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "san-antonio-cities-v2",
+    "name": "San Antonio",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "san-diego-cities-v2",
+    "name": "San Diego",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "dallas-cities-v2",
+    "name": "Dallas",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "san-jose-cities-v2",
+    "name": "San Jose",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "austin-cities-v2",
+    "name": "Austin",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "jacksonville-cities-v2",
+    "name": "Jacksonville",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "fort-worth-cities-v2",
+    "name": "Fort Worth",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "columbus-cities-v2",
+    "name": "Columbus",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "charlotte-cities-v2",
+    "name": "Charlotte",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "indianapolis-cities-v2",
+    "name": "Indianapolis",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "seattle-cities-v2",
+    "name": "Seattle",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "denver-cities-v2",
+    "name": "Denver",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "washington-dc-cities-v2",
+    "name": "Washington, D.C.",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "boston-cities-v2",
+    "name": "Boston",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "el-paso-cities-v2",
+    "name": "El Paso",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "detroit-cities-v2",
+    "name": "Detroit",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "nashville-cities-v2",
+    "name": "Nashville",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "portland-or-cities-v2",
+    "name": "Portland, OR",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "memphis-cities-v2",
+    "name": "Memphis",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "oklahoma-city-cities-v2",
+    "name": "Oklahoma City",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "las-vegas-cities-v2",
+    "name": "Las Vegas",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "louisville-cities-v2",
+    "name": "Louisville",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "baltimore-cities-v2",
+    "name": "Baltimore",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "milwaukee-cities-v2",
+    "name": "Milwaukee",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "albuquerque-cities-v2",
+    "name": "Albuquerque",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "tucson-cities-v2",
+    "name": "Tucson",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "fresno-cities-v2",
+    "name": "Fresno",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "sacramento-cities-v2",
+    "name": "Sacramento",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "kansas-city-mo-cities-v2",
+    "name": "Kansas City, MO",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "long-beach-cities-v2",
+    "name": "Long Beach",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "mesa-cities-v2",
+    "name": "Mesa",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "atlanta-cities-v2",
+    "name": "Atlanta",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "colorado-springs-cities-v2",
+    "name": "Colorado Springs",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "virginia-beach-cities-v2",
+    "name": "Virginia Beach",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "raleigh-cities-v2",
+    "name": "Raleigh",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "omaha-cities-v2",
+    "name": "Omaha",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "miami-cities-v2",
+    "name": "Miami",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "oakland-cities-v2",
+    "name": "Oakland",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "minneapolis-cities-v2",
+    "name": "Minneapolis",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "tulsa-cities-v2",
+    "name": "Tulsa",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "arlington-tx-cities-v2",
+    "name": "Arlington, TX",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "new-orleans-cities-v2",
+    "name": "New Orleans",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "wichita-cities-v2",
+    "name": "Wichita",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "cleveland-cities-v2",
+    "name": "Cleveland",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "tampa-cities-v2",
+    "name": "Tampa",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "honolulu-cities-v2",
+    "name": "Honolulu",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "anaheim-cities-v2",
+    "name": "Anaheim",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "orlando-cities-v2",
+    "name": "Orlando",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "pittsburgh-cities-v2",
+    "name": "Pittsburgh",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "st-louis-cities-v2",
+    "name": "St. Louis",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "riverside-cities-v2",
+    "name": "Riverside",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "santa-ana-cities-v2",
+    "name": "Santa Ana",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "cincinnati-cities-v2",
+    "name": "Cincinnati",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "lexington-cities-v2",
+    "name": "Lexington",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "anchorage-cities-v2",
+    "name": "Anchorage",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "stockton-cities-v2",
+    "name": "Stockton",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "toledo-cities-v2",
+    "name": "Toledo",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "st-paul-cities-v2",
+    "name": "Saint Paul",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "newark-cities-v2",
+    "name": "Newark",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "henderson-cities-v2",
+    "name": "Henderson",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "plano-cities-v2",
+    "name": "Plano",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "irvine-cities-v2",
+    "name": "Irvine",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "durham-cities-v2",
+    "name": "Durham",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "st-petersburg-fl-cities-v2",
+    "name": "St. Petersburg, FL",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "jersey-city-cities-v2",
+    "name": "Jersey City",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "chandler-cities-v2",
+    "name": "Chandler",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "laredo-cities-v2",
+    "name": "Laredo",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "norfolk-cities-v2",
+    "name": "Norfolk",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "reno-cities-v2",
+    "name": "Reno",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "buffalo-cities-v2",
+    "name": "Buffalo",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "fort-wayne-cities-v2",
+    "name": "Fort Wayne",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "boise-cities-v2",
+    "name": "Boise",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "richmond-va-cities-v2",
+    "name": "Richmond, VA",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "des-moines-cities-v2",
+    "name": "Des Moines",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "baton-rouge-cities-v2",
+    "name": "Baton Rouge",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "spokane-cities-v2",
+    "name": "Spokane",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "birmingham-al-cities-v2",
+    "name": "Birmingham, AL",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "rochester-ny-cities-v2",
+    "name": "Rochester, NY",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "aurora-co-cities-v2",
+    "name": "Aurora, CO",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "little-rock-cities-v2",
+    "name": "Little Rock",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "columbia-sc-cities-v2",
+    "name": "Columbia, SC",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "jackson-ms-cities-v2",
+    "name": "Jackson, MS",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "providence-cities-v2",
+    "name": "Providence",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "hartford-cities-v2",
+    "name": "Hartford",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "salt-lake-city-cities-v2",
+    "name": "Salt Lake City",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "charleston-sc-cities-v2",
+    "name": "Charleston, SC",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "savannah-cities-v2",
+    "name": "Savannah",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "santa-fe-cities-v2",
+    "name": "Santa Fe",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "juneau-cities-v2",
+    "name": "Juneau",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "montgomery-cities-v2",
+    "name": "Montgomery",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "annapolis-cities-v2",
+    "name": "Annapolis",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "albany-ny-cities-v2",
+    "name": "Albany, NY",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "harrisburg-cities-v2",
+    "name": "Harrisburg",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "trenton-cities-v2",
+    "name": "Trenton",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "dover-cities-v2",
+    "name": "Dover",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "augusta-me-cities-v2",
+    "name": "Augusta, ME",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "concord-nh-cities-v2",
+    "name": "Concord, NH",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "montpelier-cities-v2",
+    "name": "Montpelier",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "helena-cities-v2",
+    "name": "Helena",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "bismarck-cities-v2",
+    "name": "Bismarck",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "pierre-cities-v2",
+    "name": "Pierre",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "springfield-il-cities-v2",
+    "name": "Springfield, IL",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "jefferson-city-cities-v2",
+    "name": "Jefferson City",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "frankfort-cities-v2",
+    "name": "Frankfort",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "lansing-cities-v2",
+    "name": "Lansing",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "madison-wi-cities-v2",
+    "name": "Madison, WI",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "tallahassee-cities-v2",
+    "name": "Tallahassee",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "charleston-wv-cities-v2",
+    "name": "Charleston, WV",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "salem-or-cities-v2",
+    "name": "Salem, OR",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "olympia-cities-v2",
+    "name": "Olympia",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "carson-city-cities-v2",
+    "name": "Carson City",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "lincoln-ne-cities-v2",
+    "name": "Lincoln, NE",
+    "file": "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  },
+  {
+    "id": "port-of-new-york-and-new-jersey-economic-v2",
+    "name": "Port of New York and New Jersey",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-savannah-economic-v2",
+    "name": "Port of Savannah",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-seattle-economic-v2",
+    "name": "Port of Seattle",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-oakland-economic-v2",
+    "name": "Port of Oakland",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-virginia-economic-v2",
+    "name": "Port of Virginia",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-tampa-bay-economic-v2",
+    "name": "Port of Tampa Bay",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "detroit-automotive-industry-economic-v2",
+    "name": "Detroit Automotive Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "silicon-valley-tech-economic-v2",
+    "name": "Silicon Valley Tech Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "texan-energy-industry-economic-v2",
+    "name": "Texan Energy Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "wall-street-financial-industry-economic-v2",
+    "name": "Wall Street Financial Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "napa-valley-wine-industry-economic-v2",
+    "name": "Napa Valley Wine Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "hollywood-entertainment-industry-economic-v2",
+    "name": "Hollywood Entertainment Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "chicago-logistics-industry-economic-v2",
+    "name": "Chicago Logistics Hub",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "pittsburgh-steel-industry-economic-v2",
+    "name": "Pittsburgh Steel Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "georgia-aerospace-industry-economic-v2",
+    "name": "Georgia Aerospace Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "north-carolina-biotech-industry-economic-v2",
+    "name": "North Carolina Biotech Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-baltimore-economic-v2",
+    "name": "Port of Baltimore",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-houston-deepwater-economic-v2",
+    "name": "Port of Houston Deepwater",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "texas-wind-energy-economic-v2",
+    "name": "Texas Wind Energy Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "boston-biotech-economic-v2",
+    "name": "Boston Biotech Cluster",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-anchorage-economic-v2",
+    "name": "Port of Anchorage",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "las-vegas-tourism-industry-economic-v2",
+    "name": "Las Vegas Tourism Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "port-of-new-orleans-economic-v2",
+    "name": "Port of New Orleans",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "seattle-aerospace-industry-economic-v2",
+    "name": "Seattle Aerospace Industry",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "austin-tech-cluster-economic-v2",
+    "name": "Austin Tech Cluster",
+    "file": "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  },
+  {
+    "id": "mesa-verde-national-park-history-v2",
+    "name": "Mesa Verde National Park",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "cahokia-mounds-history-v2",
+    "name": "Cahokia Mounds",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "jamestown-settlement-history-v2",
+    "name": "Jamestown Settlement",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "plymouth-rock-history-v2",
+    "name": "Plymouth Rock",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "colonial-williamsburg-history-v2",
+    "name": "Colonial Williamsburg",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "valley-forge-history-v2",
+    "name": "Valley Forge",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "yorktown-battlefield-history-v2",
+    "name": "Yorktown Battlefield",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "monticello-history-v2",
+    "name": "Monticello",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "fort-mchenry-history-v2",
+    "name": "Fort McHenry",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "pearl-harbor-history-v2",
+    "name": "Pearl Harbor",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "little-bighorn-battlefield-history-v2",
+    "name": "Little Bighorn Battlefield",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "ellis-island-history-v2",
+    "name": "Ellis Island",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "fort-sumter-history-v2",
+    "name": "Fort Sumter",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "appomattox-court-house-history-v2",
+    "name": "Appomattox Court House",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "antietam-battlefield-history-v2",
+    "name": "Antietam Battlefield",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "harpers-ferry-history-v2",
+    "name": "Harpers Ferry",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "promontory-summit-history-v2",
+    "name": "Promontory Summit",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "chaco-canyon-history-v2",
+    "name": "Chaco Canyon",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "serpent-mound-history-v2",
+    "name": "Serpent Mound",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "taos-pueblo-history-v2",
+    "name": "Taos Pueblo",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "st-augustine-history-v2",
+    "name": "St. Augustine",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "mission-san-juan-capistrano-history-v2",
+    "name": "Mission San Juan Capistrano",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "manzanar-history-v2",
+    "name": "Manzanar",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "wounded-knee-battlefield-history-v2",
+    "name": "Wounded Knee Battlefield",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "angel-island-immigration-station-history-v2",
+    "name": "Angel Island Immigration Station",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "shiloh-national-military-park-history-v2",
+    "name": "Shiloh National Military Park",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "vicksburg-national-military-park-history-v2",
+    "name": "Vicksburg National Military Park",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "trinity-site-history-v2",
+    "name": "Trinity Site",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "saratoga-battlefield-history-v2",
+    "name": "Saratoga Battlefield",
+    "file": "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  },
+  {
+    "id": "gateway-arch-landmarks-v2",
+    "name": "Gateway Arch",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "mount-rushmore-landmarks-v2",
+    "name": "Mount Rushmore",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "cloud-gate-landmarks-v2",
+    "name": "Cloud Gate",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "space-needle-landmarks-v2",
+    "name": "Space Needle",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "hoover-dam-landmarks-v2",
+    "name": "Hoover Dam",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "faneuil-hall-landmarks-v2",
+    "name": "Faneuil Hall",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "hollywood-sign-landmarks-v2",
+    "name": "Hollywood Sign",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "lincoln-memorial-landmarks-v2",
+    "name": "Lincoln Memorial",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "washington-monument-landmarks-v2",
+    "name": "Washington Monument",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "empire-state-building-landmarks-v2",
+    "name": "Empire State Building",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "one-world-trade-center-landmarks-v2",
+    "name": "One World Trade Center",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "chrysler-building-landmarks-v2",
+    "name": "Chrysler Building",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "willis-tower-landmarks-v2",
+    "name": "Willis Tower",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "kennedy-space-center-landmarks-v2",
+    "name": "Kennedy Space Center",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "grand-central-terminal-landmarks-v2",
+    "name": "Grand Central Terminal",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "gettysburg-battlefield-landmarks-v2",
+    "name": "Gettysburg Battlefield",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "the-alamo-landmarks-v2",
+    "name": "The Alamo",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "las-vegas-strip-landmarks-v2",
+    "name": "Las Vegas Strip",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "times-square-landmarks-v2",
+    "name": "Times Square",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "fenway-park-landmarks-v2",
+    "name": "Fenway Park",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "wrigley-field-landmarks-v2",
+    "name": "Wrigley Field",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "madison-square-garden-landmarks-v2",
+    "name": "Madison Square Garden",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "national-september-11-memorial-landmarks-v2",
+    "name": "National September 11 Memorial",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "us-capitol-landmarks-v2",
+    "name": "United States Capitol",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "white-house-landmarks-v2",
+    "name": "White House",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "independence-hall-landmarks-v2",
+    "name": "Independence Hall",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "liberty-bell-landmarks-v2",
+    "name": "Liberty Bell",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "st-patricks-cathedral-landmarks-v2",
+    "name": "St. Patrick's Cathedral",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "brooklyn-bridge-landmarks-v2",
+    "name": "Brooklyn Bridge",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "hollywood-bowl-landmarks-v2",
+    "name": "Hollywood Bowl",
+    "file": "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  },
+  {
+    "id": "san-diego-zoo-life-v2",
+    "name": "San Diego Zoo",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "yellowstone-national-park-life-v2",
+    "name": "Yellowstone National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "disney-world-orlando-life-v2",
+    "name": "Walt Disney World",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "everglades-national-park-life-v2",
+    "name": "Everglades National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "central-park-zoo-life-v2",
+    "name": "Central Park Zoo",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "napa-valley-vineyards-life-v2",
+    "name": "Napa Valley Vineyards",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "denali-national-park-life-v2",
+    "name": "Denali National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "cedar-point-amusement-park-life-v2",
+    "name": "Cedar Point",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "california-central-valley-life-v2",
+    "name": "California's Central Valley",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "bronx-zoo-life-v2",
+    "name": "Bronx Zoo",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "kansas-wheat-fields-life-v2",
+    "name": "Kansas Wheat Fields",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "glacier-national-park-life-v2",
+    "name": "Glacier National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "hersheypark-life-v2",
+    "name": "Hersheypark",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "idaho-potato-farms-life-v2",
+    "name": "Idaho Potato Farms",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "monterey-bay-aquarium-life-v2",
+    "name": "Monterey Bay Aquarium",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "olympic-national-park-life-v2",
+    "name": "Olympic National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "florida-citrus-groves-life-v2",
+    "name": "Florida Citrus Groves",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "shedd-aquarium-chicago-life-v2",
+    "name": "Shedd Aquarium",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "rocky-mountain-national-park-life-v2",
+    "name": "Rocky Mountain National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "wisconsin-dairy-farms-life-v2",
+    "name": "Wisconsin Dairy Farms",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "legoland-california-life-v2",
+    "name": "Legoland California",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "grand-teton-national-park-life-v2",
+    "name": "Grand Teton National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "georgia-peach-orchards-life-v2",
+    "name": "Georgia Peach Orchards",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "seaworld-orlando-life-v2",
+    "name": "SeaWorld Orlando",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "zion-national-park-life-v2",
+    "name": "Zion National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "iowa-corn-fields-life-v2",
+    "name": "Iowa Corn Fields",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "busch-gardens-tampa-bay-life-v2",
+    "name": "Busch Gardens Tampa Bay",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "great-smoky-mountains-life-v2",
+    "name": "Great Smoky Mountains National Park",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "washington-apple-orchards-life-v2",
+    "name": "Washington Apple Orchards",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "knott-s-berry-farm-life-v2",
+    "name": "Knott's Berry Farm",
+    "file": "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  },
+  {
+    "id": "mississippi-river-source-nature-v2",
+    "name": "Mississippi River Source",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "mount-rainier-nature-v2",
+    "name": "Mount Rainier",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "lake-tahoe-nature-v2",
+    "name": "Lake Tahoe",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "tongass-national-forest-nature-v2",
+    "name": "Tongass National Forest",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "gulf-of-mexico-nature-v2",
+    "name": "Gulf of Mexico",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "mount-desert-island-nature-v2",
+    "name": "Mount Desert Island",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "colorado-river-nature-v2",
+    "name": "Colorado River",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "crater-lake-nature-v2",
+    "name": "Crater Lake",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "sequoia-national-forest-nature-v2",
+    "name": "Sequoia National Forest",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "pikes-peak-nature-v2",
+    "name": "Pikes Peak",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "great-salt-lake-nature-v2",
+    "name": "Great Salt Lake",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "key-west-nature-v2",
+    "name": "Key West",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "hudson-river-nature-v2",
+    "name": "Hudson River",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "coconino-national-forest-nature-v2",
+    "name": "Coconino National Forest",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "mauna-kea-nature-v2",
+    "name": "Mauna Kea",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "bering-sea-nature-v2",
+    "name": "Bering Sea",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "marthas-vineyard-nature-v2",
+    "name": "Martha's Vineyard",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "lake-pontchartrain-nature-v2",
+    "name": "Lake Pontchartrain",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "rio-grande-nature-v2",
+    "name": "Rio Grande",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "white-mountain-national-forest-nature-v2",
+    "name": "White Mountain National Forest",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "mount-shasta-nature-v2",
+    "name": "Mount Shasta",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "lake-okeechobee-nature-v2",
+    "name": "Lake Okeechobee",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "santa-catalina-island-nature-v2",
+    "name": "Santa Catalina Island",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "missouri-river-nature-v2",
+    "name": "Missouri River",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "pisgah-national-forest-nature-v2",
+    "name": "Pisgah National Forest",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "mount-hood-nature-v2",
+    "name": "Mount Hood",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "padre-island-nature-v2",
+    "name": "Padre Island",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "gulf-of-alaska-nature-v2",
+    "name": "Gulf of Alaska",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "ohio-river-nature-v2",
+    "name": "Ohio River",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "sawtooth-national-forest-nature-v2",
+    "name": "Sawtooth National Forest",
+    "file": "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  },
+  {
+    "id": "rocky-mountains-relief-v2",
+    "name": "Rocky Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "appalachian-mountains-relief-v2",
+    "name": "Appalachian Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "sierra-nevada-usa-relief-v2",
+    "name": "Sierra Nevada (USA)",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "cascade-range-relief-v2",
+    "name": "Cascade Range",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "basin-and-range-relief-v2",
+    "name": "Basin and Range",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "ozark-plateau-relief-v2",
+    "name": "Ozark Plateau",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "cascades-volcanic-relief-v2",
+    "name": "Cascade Volcanoes",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "blueridge-mountains-relief-v2",
+    "name": "Blue Ridge Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "white-mountains-usa-relief-v2",
+    "name": "White Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "adirondack-mountains-relief-v2",
+    "name": "Adirondack Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "big-bend-relief-v2",
+    "name": "Big Bend",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "black-hills-relief-v2",
+    "name": "Black Hills",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "colorado-plateau-relief-v2",
+    "name": "Colorado Plateau",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "great-basin-relief-v2",
+    "name": "Great Basin",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "sierra-madre-occidental-relief-v2",
+    "name": "Sierra Madre Occidental (USA part)",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "chisos-mountains-relief-v2",
+    "name": "Chisos Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "wasatch-range-relief-v2",
+    "name": "Wasatch Range",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "bighorn-mountains-relief-v2",
+    "name": "Bighorn Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "olympic-mountains-relief-v2",
+    "name": "Olympic Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "uinta-mountains-relief-v2",
+    "name": "Uinta Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "tetons-relief-v2",
+    "name": "Teton Range",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "sawtooth-mountains-relief-v2",
+    "name": "Sawtooth Mountains",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "cascades-volcanic-north-relief-v2",
+    "name": "North Cascades",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  },
+  {
+    "id": "death-valley-relief-v2",
+    "name": "Death Valley",
+    "file": "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  }
+]

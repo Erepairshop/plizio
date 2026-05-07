@@ -1,0 +1,218 @@
+{
+  "carcassonne": {
+    "desc": "Orașul fortificat Carcassonne este o capodoperă a arhitecturii medievale, situat în regiunea Occitania din sudul Franței. Așezarea se distinge prin zidurile sale masive de apărare, care se întind pe o distanță de trei kilometri, și prin cele 52 de turnuri de veghe. Istoria sa bogată reflectă perioade de asediu și conflicte religioase, inclusiv cruciada împotriva catarilor. Restaurat în secolul al XIX-lea de arhitectul Eugène Viollet-le-Duc, castelul oferă o incursiune fascinantă în viața medievală. Astăzi, cetatea atrage milioane de vizitatori dornici să exploreze străduțele sale pietruite și bastioanele impunătoare.",
+    "facts": [
+      "Carcassonne a fost inclus în Patrimoniul Mondial UNESCO în anul 1997.",
+      "Orașul a fost restaurat masiv în secolul al XIX-lea de către Eugène Viollet-le-Duc.",
+      "Zidurile cetății se întind pe o lungime de aproximativ trei kilometri.",
+      "Cetatea cuprinde nu mai puțin de 52 de turnuri fortificate."
+    ]
+  },
+  "loire-chateaux": {
+    "desc": "Valea Loarei, supranumită Grădina Franței, este faimoasă în întreaga lume pentru castelele sale spectaculoase. Această regiune istorică găzduiește sute de reședințe nobiliare, construite în mare parte în timpul Renașterii franceze. Arhitectura elegantă, grădinile simetrice și peisajele idilice de pe malurile râului Loara creează un cadru de poveste. Regii Franței au ales adesea această zonă pentru a construi capodopere arhitecturale, transformând valea într-un centru al puterii și culturii. Astăzi, castelele oferă o perspectivă detaliată asupra opulenței curții regale franceze.",
+    "facts": [
+      "Valea Loarei este recunoscută ca sit al Patrimoniului Mondial UNESCO.",
+      "Regiunea găzduiește peste 300 de castele de diferite dimensiuni.",
+      "Castelele au fost construite cu precădere în perioada Renașterii.",
+      "Zona este renumită și pentru podgoriile sale excepționale."
+    ]
+  },
+  "cannes": {
+    "desc": "Orașul Cannes este o bijuterie a Coastei de Azur, renumit la nivel mondial pentru festivalul său anual de film. Situat pe țărmul Mării Mediterane, orașul combină farmecul provensal cu un aer de lux și rafinament. Promenada La Croisette este străjuită de palmieri, hoteluri de cinci stele și buticuri exclusiviste, atrăgând vedete și turiști din toată lumea. Dincolo de strălucirea modernă, cartierul istoric Le Suquet oferă priveliști pitorești și străzi înguste, pline de istorie. Portul plin de iahturi impresionante completează atmosfera vibrantă a acestui oraș de coastă.",
+    "facts": [
+      "Festivalul de Film de la Cannes a avut prima ediție în anul 1946.",
+      "Bulevardul principal, La Croisette, se întinde de-a lungul țărmului.",
+      "Cartierul istoric Le Suquet se află pe un deal care domină golful.",
+      "Insulele Lérins sunt situate la o scurtă călătorie cu barca de Cannes."
+    ]
+  },
+  "french-alps": {
+    "desc": "Alpii Francezi reprezintă o destinație montană de top, faimoasă pentru peisajele sale alpine dramatice și stațiunile de schi de renume mondial. Această regiune montană masivă domină estul Franței, oferind ghețari spectaculoși, văi adânci și vârfuri acoperite de zăpadă. Vara, Alpii devin un paradis pentru drumeții și alpinism, atrăgând aventurieri din toate colțurile globului. Satele alpine tradiționale își păstrează farmecul rustic, oferind o gastronomie locală bogată, bazată pe brânzeturi și preparate consistente. Munții joacă un rol crucial în ecosistemul european și în turismul de iarnă internațional.",
+    "facts": [
+      "Aici se găsește cel mai înalt vârf din Europa de Vest, Mont Blanc.",
+      "Chamonix, un oraș din regiune, a găzduit primele Jocuri Olimpice de Iarnă în 1924.",
+      "Regiunea este celebră pentru producția de brânzeturi precum Reblochon.",
+      "Există mii de kilometri de pârtii de schi interconectate."
+    ]
+  },
+  "normandy-dday": {
+    "desc": "Plajele din Normandia sunt un loc de o profundă semnificație istorică, marcând punctul de cotitură al celui de-al Doilea Război Mondial. În dimineața zilei de 6 iunie 1944, forțele aliate au lansat operațiunea Overlord pe aceste coaste măturate de vânt. Cele cinci sectoare de debarcare păstrează și astăzi buncăre, cratere de bombe și memoriale dedicate soldaților căzuți. Cimitirul American de la Colleville-sur-Mer oferă o priveliște copleșitoare, cu mii de cruci albe așezate perfect aliniate. O vizită în această zonă este o experiență emoționantă și o lecție puternică despre sacrificiu și libertate.",
+    "facts": [
+      "Operațiunea din 6 iunie 1944 este cunoscută sub numele de Ziua Z.",
+      "Cele cinci plaje au avut nume de cod: Utah, Omaha, Gold, Juno și Sword.",
+      "În zonă există numeroase muzee dedicate debarcării aliate.",
+      "Resturi ale portului artificial Mulberry mai pot fi văzute la Arromanches."
+    ]
+  },
+  "eiffel-tower": {
+    "desc": "Turnul Eiffel, simbolul incontestabil al Parisului și al Franței, se înalță maiestuos pe Champ de Mars. Construit de inginerul Gustave Eiffel pentru Expoziția Universală din 1889, monumentul a fost inițial criticat de mulți intelectuali ai vremii. Structura sa inovatoare din fier forjat a demonstrat măiestria tehnică a secolului al XIX-lea, devenind rapid o capodoperă a arhitecturii industriale. Turnul oferă panorame uluitoare asupra capitalei franceze de pe cele trei niveluri ale sale deschise publicului. Astăzi, iluminatul său nocturn și silueta sa zveltă continuă să fascineze milioane de turiști anual.",
+    "facts": [
+      "Turnul are o înălțime de aproximativ 330 de metri, incluzând antenele.",
+      "La finalizarea sa, a fost cea mai înaltă structură creată de om din lume.",
+      "Construcția turnului a durat doi ani, două luni și cinci zile.",
+      "Este revopsit la fiecare șapte ani pentru a preveni ruginirea."
+    ]
+  },
+  "louvre": {
+    "desc": "Muzeul Luvru este cel mai mare muzeu de artă și antichități din lume, situat în inima Parisului, pe malul drept al Senei. Găzduit într-un fost palat regal, clădirea însăși este o capodoperă arhitecturală cu o istorie de peste opt secole. Colecțiile sale imense acoperă o perioadă vastă, din antichitate până în secolul al XIX-lea, incluzând artă occidentală și artefacte din diverse civilizații. Piramida de sticlă, adăugată în curtea principală în anii '80, creează un contrast fascinant între designul modern și fațadele renascentiste. O vizită la Luvru este o călătorie impresionantă prin istoria artei și a umanității.",
+    "facts": [
+      "Luvrul găzduiește celebra pictură Mona Lisa, de Leonardo da Vinci.",
+      "Muzeul conține peste 380.000 de obiecte și expune aproximativ 35.000 de opere de artă.",
+      "A devenit muzeu public în timpul Revoluției Franceze, în anul 1793.",
+      "Piramida de sticlă a fost proiectată de arhitectul I.M. Pei."
+    ]
+  },
+  "notre-dame": {
+    "desc": "Catedrala Notre-Dame de Paris este o capodoperă a arhitecturii gotice franceze, situată pe Île de la Cité, în centrul orașului. Construcția sa a început în secolul al XII-lea și a durat aproape două sute de ani, rezultând o clădire monumentală cu detalii sculpturale complexe. Fațada sa impunătoare, rozeliile uimitoare și arcele butante sunt recunoscute la nivel mondial ca simboluri ale excelenței arhitecturale medievale. De-a lungul secolelor, catedrala a fost martora unor evenimente istorice cruciale, de la încoronări la funeralii naționale. În ciuda incendiului devastator din 2019, eforturile masive de restaurare promit să îi redea splendoarea de odinioară.",
+    "facts": [
+      "Catedrala este faimoasă pentru garguiele și himerele sale decorative.",
+      "A fost locul de încoronare a lui Napoleon Bonaparte în anul 1804.",
+      "Rozasa de nord, cu vitraliile sale originale, datează din secolul al XIII-lea.",
+      "Victor Hugo a popularizat monumentul prin romanul său din 1831."
+    ]
+  },
+  "calais": {
+    "desc": "Orașul Calais, situat pe coasta de nord a Franței, este principalul punct de legătură maritimă cu Marea Britanie. Poziția sa strategică la Strâmtoarea Dover l-a făcut de-a lungul istoriei un centru comercial și militar de importanță vitală. Orașul păstrează o amprentă istorică marcată de secolele de ocupație engleză și de conflictele europene. Primăria sa impresionantă, cu turnul cu ceas distinctiv, domină centrul urban și este o capodoperă a stilului flamand. Calais este, de asemenea, cunoscut pentru tradiția sa în producția de dantelă fină, meșteșug care a adus prosperitate regiunii în secolul al XIX-lea.",
+    "facts": [
+      "Calais se află la doar 34 de kilometri de coasta engleză.",
+      "A fost sub stăpânire engleză timp de peste 200 de ani, până în 1558.",
+      "Sculptura „Burghezii din Calais” de Auguste Rodin comemorează un episod din Războiul de 100 de Ani.",
+      "Este capătul continental al celebrului Eurotunel."
+    ]
+  },
+  "reims": {
+    "desc": "Reims este un oraș istoric de importanță majoră în regiunea Grand Est, faimos ca locul de încoronare a regilor Franței. Catedrala Notre-Dame din Reims, o bijuterie a artei gotice, se remarcă prin portalurile sale bogat sculptate și fațada maiestuoasă. Orașul deține un patrimoniu impresionant, incluzând monumente romane precum Poarta lui Marte, care amintesc de originile sale antice. Dincolo de istoria sa regală, Reims este și o capitală mondială a șampaniei, găzduind numeroase case de prestigiu cu pivnițe săpate în calcar. O plimbare prin oraș oferă o combinație unică de arhitectură grandioasă și tradiție viticolă rafinată.",
+    "facts": [
+      "Peste 30 de regi ai Franței au fost încoronați în Catedrala din Reims.",
+      "Palatul Tau a fost reședința arhiepiscopilor și locul banchetelor de încoronare.",
+      "Orașul este înconjurat de podgoriile faimoasei regiuni viticole Champagne.",
+      "Reims a fost puternic bombardat, dar meticulos restaurat după Primul Război Mondial."
+    ]
+  },
+  "fr-chateau-chenonceau": {
+    "desc": "Castelul Chenonceau, supranumit „Castelul Doamnelor”, este unul dintre cele mai romantice și rafinate castele de pe Valea Loarei. Clădirea se distinge prin arhitectura sa unică, fiind construită ca un pod peste râul Cher, ale cărui ape îi reflectă fațadele elegante. Istoria sa a fost profund marcată de figuri feminine ilustre, precum Diane de Poitiers și Caterina de Medici, care i-au modelat designul și grădinile. Interioarele somptuoase păstrează mobilier de epocă, tapiserii rare și o colecție impresionantă de artă renascentistă. Galeria lungă care traversează râul a servit drept spital militar și rută de evadare în timpul conflictelor mondiale.",
+    "facts": [
+      "Este al doilea cel mai vizitat castel din Franța, după Versailles.",
+      "Designul castelului îmbină elemente gotice târzii cu stilul Renașterii timpurii.",
+      "Grădinile sunt separate în două secțiuni distincte, aparținând Dianei și Caterinei.",
+      "În timpul celui de-al Doilea Război Mondial, râul Cher marca linia de demarcație a Franței."
+    ]
+  },
+  "fr-chateau-chambord": {
+    "desc": "Castelul Chambord este cea mai mare și mai impunătoare reședință de pe Valea Loarei, reprezentând apogeul arhitecturii renascentiste franceze. Construit din ordinul regelui Francisc I ca o cabană de vânătoare monumentală, castelul impresionează prin silueta sa unică, dominată de turnuri și coșuri de fum ornamentate. Se crede că geniul lui Leonardo da Vinci a influențat designul său inovator, în special celebra scară dublă în spirală. Domeniul vast care înconjoară palatul este cel mai mare parc închis din Europa, găzduind o faună abundentă. Chambord rămâne un simbol uluitor al puterii și extravaganței regale franceze.",
+    "facts": [
+      "Castelul deține 426 de camere, 282 de șemineuri și 77 de scări.",
+      "Scara cu dublă elice permite ca două persoane să urce fără a se întâlni.",
+      "Domeniul de vânătoare este înconjurat de un zid lung de 32 de kilometri.",
+      "Construcția castelului a durat mai bine de un sfert de secol."
+    ]
+  },
+  "fr-chateau-fontainebleau": {
+    "desc": "Palatul Fontainebleau este o reședință regală istorică de o vastitate impresionantă, situată la sud-est de Paris, în mijlocul unei păduri dese. Spre deosebire de alte palate, acesta a fost locuit continuu timp de peste opt secole de suveranii francezi, de la Capețieni la dinastia Bonaparte. Arhitectura sa este o mărturie a evoluției stilurilor artistice, îmbinând elemente medievale, renascentiste și clasice. Napoleon Bonaparte a iubit în mod special acest loc, numindu-l „adevărata reședință a regilor”. Grădinile ample și curțile interioare reflectă grandoarea și preferințele diferiților monarhi care au contribuit la extinderea sa.",
+    "facts": [
+      "Fontainebleau a introdus stilul Renașterii italiene în arhitectura franceză.",
+      "Napoleon a abdicat aici în anul 1814, înainte de exilul pe insula Elba.",
+      "Palatul cuprinde peste 1.500 de camere somptuos decorate.",
+      "A fost înscris pe lista Patrimoniului Mondial UNESCO în anul 1981."
+    ]
+  },
+  "fr-pont-du-gard": {
+    "desc": "Pont du Gard este un apeduct roman antic excepțional de bine conservat, situat în sudul Franței. Structura monumentală, construită în primul secol d.Hr., traversează râul Gardon pe trei niveluri de arcade grațioase, dar robuste. Apeductul a fost proiectat pentru a transporta apă pe o distanță de 50 de kilometri, către orașul antic Nîmes. Ingineria de precizie a romanilor a permis ca apa să curgă prin gravitație, cu o pantă de doar câțiva centimetri pe kilometru. Această capodoperă a arhitecturii clasice rămâne o dovadă impresionantă a abilităților tehnice și a viziunii Imperiului Roman.",
+    "facts": [
+      "Apeductul se înalță la 49 de metri deasupra râului Gardon.",
+      "A fost construit fără mortar, pietrele fiind tăiate cu precizie pentru a se îmbina.",
+      "A funcționat timp de câteva secole înainte de a fi abandonat.",
+      "A fost desemnat sit al Patrimoniului Mondial UNESCO în anul 1985."
+    ]
+  },
+  "fr-carnac": {
+    "desc": "Aliniamentele de la Carnac reprezintă cel mai mare și mai misterios ansamblu de monumente megalitice din lume, situat în regiunea Bretania. Peste 3.000 de pietre masive din granit stau în picioare, formând șiruri paralele care se întind pe câțiva kilometri de-a lungul peisajului. Aceste structuri preistorice au fost ridicate în perioada neolitică, cu mult înainte de construirea Stonehenge-ului. Scopul lor exact rămâne un mister, teoriile variind de la observatoare astronomice la situri de ceremonii religioase sau funerare. Plimbarea printre menhire oferă o experiență enigmatică, o conexiune tăcută cu primele civilizații europene.",
+    "facts": [
+      "Pietrele de la Carnac au fost ridicate între anii 4500 și 3300 î.Hr.",
+      "Situl este compus din trei grupări principale de aliniamente.",
+      "Multe dintre menhire au o înălțime de peste trei metri.",
+      "Legendele locale spun că pietrele sunt o armată romană transformată în stâncă."
+    ]
+  },
+  "fr-arenas-nimes": {
+    "desc": "Amfiteatrul din Nîmes este una dintre cele mai bine conservate arene romane din lume, o mărturie vie a măreției arhitecturale din sudul Galiei. Construit în jurul anului 70 d.Hr., acest colosseum în miniatură are o fațadă eliptică impresionantă, cu două niveluri de arcade zvelte. În antichitate, arena a găzduit lupte spectaculoase cu gladiatori și vânători de animale exotice pentru divertismentul maselor. În timpul Evului Mediu, structura a fost transformată într-o fortăreață și un sat fortificat pentru a proteja localnicii. Astăzi, amfiteatrul este din nou un loc de spectacol, găzduind concerte și faimoasele coride franceze.",
+    "facts": [
+      "Arena din Nîmes putea găzdui aproximativ 24.000 de spectatori.",
+      "Are un diametru lung de 133 de metri și o lățime de 101 metri.",
+      "Sistemul său complex de coridoare și scări asigura evacuarea rapidă.",
+      "Fațada originală a rămas aproape intactă timp de două milenii."
+    ]
+  },
+  "fr-abbey-cluny": {
+    "desc": "Abația Cluny, situată în regiunea Burgundia, a fost cândva centrul monastic cel mai puternic și influent din Europa de Vest medievală. Fondată în secolul al X-lea, abația benedictină a jucat un rol central în reforma bisericii și a impulsionat o renaștere culturală și spirituală. La apogeul său, Marea Biserică de la Cluny era cea mai mare structură creștină din lume, detronată doar de Bazilica Sfântul Petru din Roma, secole mai târziu. Din păcate, mare parte din acest complex grandios a fost distrusă în timpul Revoluției Franceze. Astăzi, ruinele rămase și modelele 3D oferă o privire fascinantă asupra proporțiilor sale uluitoare.",
+    "facts": [
+      "Abația a fost întemeiată de William I, Ducele de Aquitania, în anul 910.",
+      "Stilul arhitectural romanic de la Cluny a influențat catedrale din întreaga Europă.",
+      "Mai mult de o mie de mănăstiri s-au aflat sub jurisdicția directă a Cluny-ului.",
+      "Doar o mică parte din transeptul original supraviețuiește astăzi."
+    ]
+  },
+  "fr-bayeux-tapestry": {
+    "desc": "Tapiseria de la Bayeux este o capodoperă a artei medievale, o broderie unică de o lungime impresionantă care narează cucerirea normandă a Angliei. Expusă în orașul Bayeux din Normandia, această operă textilă remarcabilă oferă o cronică vizuală detaliată a evenimentelor care au culminat cu Bătălia de la Hastings din 1066. Broderia, cusută cu lână pe pânză de in, ilustrează scene de război, ambarcațiuni, echipamente militare și detalii din viața cotidiană a secolului al XI-lea. Calitatea detaliilor și starea de conservare o fac un document istoric inestimabil. Tapiseria este esențială pentru înțelegerea intrigilor și a dramelor care au schimbat soarta Europei.",
+    "facts": [
+      "Tapiseria are o lungime de aproape 70 de metri și o lățime de 50 de centimetri.",
+      "A fost probabil creată în Anglia la scurt timp după bătălia din 1066.",
+      "Conține peste 600 de personaje umane și zeci de animale stilizate.",
+      "Este inclusă în registrul Memoria Lumii al UNESCO."
+    ]
+  },
+  "fr-omaha-beach": {
+    "desc": "Plaja Omaha este, fără îndoială, cel mai cunoscut și cel mai sângeros dintre sectoarele de debarcare din Ziua Z. Această fâșie de nisip de pe coasta Normandiei a fost scena unor lupte extrem de dure în dimineața zilei de 6 iunie 1944. Trupele americane care au debarcat aici s-au confruntat cu un foc încrucișat intens din partea apărării germane puternic fortificate pe stâncile abrupte. Astăzi, țărmul liniștit contrastează puternic cu istoria sa violentă, atrăgând vizitatori care vin să onoreze memoria celor căzuți. Memorialele de pe plajă și sculptura „Les Braves” stau mărturie a curajului extraordinar al soldaților aliați.",
+    "facts": [
+      "Omaha a fost cea mai apărată plajă dintre cele cinci sectoare ale Zilei Z.",
+      "Pierderile americane pe această plajă s-au ridicat la aproximativ 2.400 de soldați.",
+      "Relieful stâncos a oferit un avantaj tactic uriaș forțelor defensive germane.",
+      "Plaja are o lungime de aproximativ 8 kilometri."
+    ]
+  },
+  "fr-chateau-vincennes": {
+    "desc": "Castelul Vincennes, aflat la marginea estică a Parisului, este cel mai mare palat regal fortificat din Franța care s-a păstrat până în prezent. Acest complex medieval masiv este dominat de un donjon înalt de peste 50 de metri, fiind unul dintre cele mai înalte de acest tip din Europa. Construit ca un conac de vânătoare în secolul al XII-lea, complexul a fost extins succesiv, devenind reședință regală, capelă gotică și mai târziu închisoare de stat. Zidurile sale de apărare, șanțul adânc și turnurile de pază evocă perfect atmosfera și necesitățile militare ale epocii medievale. Castelul reprezintă un contrapunct formidabil față de palatele rafinate ale Renașterii franceze.",
+    "facts": [
+      "Donjonul castelului are o înălțime de 52 de metri.",
+      "Sainte-Chapelle de Vincennes este modelată după faimoasa capelă de pe Île de la Cité.",
+      "Figuri istorice celebre, precum Marchizul de Sade și Diderot, au fost închiși aici.",
+      "Carol al V-lea a transformat castelul într-o fortăreață impresionantă în secolul al XIV-lea."
+    ]
+  },
+  "fr-mont-blanc": {
+    "desc": "Mont Blanc, „Muntele Alb”, este cel mai înalt vârf din Alpi și din Europa de Vest, o prezență copleșitoare la granița dintre Franța și Italia. Cu înălțimi acoperite permanent de zăpadă și ghețari masivi, muntele atrage alpiniști și entuziaști ai naturii din întreaga lume. Prima sa ascensiune din anul 1786 a marcat nașterea alpinismului modern ca sport. Din orașul Chamonix, situat la poalele sale, telecabina Aiguille du Midi poartă vizitatorii la altitudini uluitoare, oferind panorame spectaculoase asupra vârfurilor stâncoase. Mont Blanc este o comoară naturală, definind peisajul și cultura regiunii Savoy.",
+    "facts": [
+      "Altitudinea oficială a vârfului Mont Blanc variază, dar depășește 4.800 de metri.",
+      "Ghețarul Mer de Glace este unul dintre cei mai mari ghețari de pe masiv.",
+      "Tunelul Mont Blanc leagă Franța de Italia pe o distanță de 11 kilometri.",
+      "Masivul găzduiește un ecosistem alpin unic și protejat."
+    ]
+  },
+  "fr-gorges-verdon": {
+    "desc": "Cheile Verdonului, adesea considerate „Marele Canion al Europei”, oferă unul dintre cele mai spectaculoase peisaje naturale din Franța. Acest defileu adânc a fost săpat în calcar de apele turcoaz ale râului Verdon, creând pereți verticali impresionanți care pot ajunge până la 700 de metri înălțime. Regiunea este o atracție majoră pentru iubitorii de aventură, oferind rute de escaladă de talie mondială, trasee de drumeție și sporturi nautice pe lacul Sainte-Croix. Șoselele pitorești care șerpuiesc pe marginea prăpastiei oferă belvederi care îți taie respirația. Flora și fauna de aici sunt extrem de variate, adăpostind inclusiv specii rare de vulturi.",
+    "facts": [
+      "Cheile au o lungime totală de aproximativ 25 de kilometri.",
+      "Culoarea turcoaz a apei este dată de mineralele glaciare în suspensie.",
+      "Traseul Martel este una dintre cele mai faimoase rute de drumeție din canion.",
+      "Defileul atrage mii de pasionați de caiac și canoe în fiecare vară."
+    ]
+  },
+  "fr-calanques": {
+    "desc": "Parcul Național Calanques, situat de-a lungul coastei mediteraneene între Marsilia și Cassis, este un ecosistem marin și terestru de o frumusețe sălbatică. „Calanques” sunt formațiuni stâncoase abrupte, fiorduri de calcar alb care plonjează direct în apele de un albastru cristalin. Aceste golfuri înguste și ascunse pot fi explorate fie pe apă, cu barca sau caiacul, fie prin rețeaua extinsă de trasee de drumeție. Parcul protejează o biodiversitate unică, adaptată la climatul arid și la mediul salin. Contrastul orbitor dintre rocile albe, pinii verzi și marea azurie creează o atmosferă cu adevărat paradisiacă.",
+    "facts": [
+      "Este singurul parc național din Europa care include arii terestre, marine și periurbane.",
+      "Parcul acoperă o suprafață de peste 500 de kilometri pătrați.",
+      "Găzduiește peste 140 de specii protejate de floră și faună.",
+      "Multe dintre calanques sunt accesibile exclusiv pe jos sau pe apă."
+    ]
+  },
+  "fr-camargue": {
+    "desc": "Camargue este o regiune de delte unică în sudul Franței, un peisaj vast de mlaștini, lagune sărate și pășuni unde fluviul Ron întâlnește Marea Mediterană. Acest ecosistem fragil este renumit în întreaga lume pentru caii săi albi sălbatici, taurii negri robuști și coloniile mari de păsări flamingo roz. Cultura locală este strâns legată de „gardians”, cowboy-ii tradiționali ai regiunii, care îngrijesc turmele de animale. Terenurile din Camargue sunt, de asemenea, esențiale pentru producția tradițională de sare marină și orez de înaltă calitate. O vizită aici este o imersiune într-o natură neatinsă și o moștenire culturală vibrantă.",
+    "facts": [
+      "Camargue este cel mai mare bazin hidrografic din vestul Europei.",
+      "Este un important loc de popas pentru mii de păsări migratoare.",
+      "Regiunea este protejată sub forma unui Parc Natural Regional creat în 1970.",
+      "Orașul Saintes-Maries-de-la-Mer este capitala culturală a regiunii Camargue."
+    ]
+  }
+}

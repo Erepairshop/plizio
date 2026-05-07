@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bujumbura-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Bujumbura ist der zentrale wirtschaftliche Knotenpunkt Burundis für den internationalen Import und Export. Als wichtigste Verbindung zum Tanganjika-See ermöglicht er den Warenaustausch mit der Demokratischen Republik Kongo und Tansania. Der Hafen ist das Rückgrat der logistischen Infrastruktur und entscheidet über die Versorgungssicherheit des Landes mit lebenswichtigen Gütern. Geographie K7 — Infrastruktur und Handel.",
+      "factsAdvanced": [
+        "Funktion: Hauptumschlagplatz für Waren",
+        "Handelspartner: Tansania, DR Kongo",
+        "Bedeutung: Wirtschaftliche Lebensader",
+        "Waren: Import von Treibstoff und Baumaterialien",
+        "Logistik: Verbindung zum Tanganjika-See",
+        "Standort: Bujumbura"
+      ]
+    },
+    {
+      "id": "gitega-trade-center-economic-v2",
+      "descriptionAdvanced": "Gitega fungiert als wirtschaftlicher Umschlagplatz für das zentrale Hochland und ist ein bedeutender Markt für landwirtschaftliche Produkte. Da die Stadt im Zentrum des Landes liegt, dient sie als wichtige Schnittstelle für Händler aus verschiedenen Provinzen, die hier ihre Waren austauschen. Der Handel in Gitega ist stark auf die Versorgung des wachsenden lokalen Marktes mit Nahrungsmitteln ausgerichtet. Wirtschaft K8 — Regionale Märkte.",
+      "factsAdvanced": [
+        "Region: Zentrales Hochland",
+        "Wirtschaft: Handelszentrum für Agrarprodukte",
+        "Markt: Schnittstelle für lokale Händler",
+        "Bedeutung: Ernährungssicherheit",
+        "Handel: Umschlagplatz für Nahrungsmittel",
+        "Status: Wirtschaftliches Herz des Zentrums"
+      ]
+    },
+    {
+      "id": "ngozi-tea-factory-economic-v2",
+      "descriptionAdvanced": "Die Tee-Fabriken in Ngozi sind ein Symbol für die industrielle Weiterverarbeitung landwirtschaftlicher Erzeugnisse in Burundi. Durch die Veredelung des Tees vor Ort werden Arbeitsplätze geschaffen und die Wertschöpfung innerhalb des Landes gesteigert. Diese Anlagen sind für die Region Ngozi von zentraler wirtschaftlicher Bedeutung und ein wichtiger Arbeitgeber für die ländliche Bevölkerung. Wirtschaft K7 — Industrielle Wertschöpfung.",
+      "factsAdvanced": [
+        "Region: Ngozi",
+        "Industrie: Tee-Weiterverarbeitung",
+        "Bedeutung: Wertschöpfung in Burundi",
+        "Arbeitsmarkt: Wichtiger lokaler Arbeitgeber",
+        "Export: Weiterverarbeiteter Tee für internationale Märkte",
+        "Technik: Industrielle Teeverarbeitung"
+      ]
+    },
+    {
+      "id": "rumonge-fishery-economic-v2",
+      "descriptionAdvanced": "Die Fischereiindustrie in Rumonge ist eine tragende Säule der lokalen Wirtschaft am Tanganjika-See. Mit dem Fang und der Verarbeitung von Süßwasserfischen wie dem Ndagala werden tausende Familien ernährt und wichtige Einkommensquellen gesichert. Die Fischmärkte von Rumonge sind ein lebendiger Ort, an dem ein Großteil des Fischbedarfs für die südlichen Provinzen Burundis gedeckt wird. Wirtschaft K6 — Fischereiwirtschaft.",
+      "factsAdvanced": [
+        "Industrie: Fischerei und Fischverarbeitung",
+        "Produkt: Ndagala (Süßwasserfisch)",
+        "Bedeutung: Einkommensquelle für Tausende",
+        "Markt: Versorgung der südlichen Regionen",
+        "Standort: Rumonge, am Tanganjika-See",
+        "Wirtschaft: Zentrale lokale Säule"
+      ]
+    },
+    {
+      "id": "kayanza-coffee-processing-economic-v2",
+      "descriptionAdvanced": "In Kayanza konzentriert sich ein Großteil der Kaffeeverarbeitung, von der Kirsch-Aufbereitung bis hin zur Qualitätskontrolle für den Export. Die hochwertigen Arabica-Kaffees werden in spezialisierten Waschanlagen (Washstations) veredelt, um den hohen Anforderungen des internationalen Marktes zu entsprechen. Diese Prozesse bilden die wirtschaftliche Basis für die Kaffeebauern in der gesamten Provinz. Wirtschaft K7 — Exportwirtschaft.",
+      "factsAdvanced": [
+        "Produkt: Arabica-Kaffee-Veredelung",
+        "Technik: Waschanlagen (Washstations)",
+        "Zielmarkt: Internationaler Export",
+        "Bedeutung: Basis für Bauern in Kayanza",
+        "Qualität: Hochwertige Verarbeitung",
+        "Wirtschaft: Exportorientierte Kaffeeproduktion"
+      ]
+    }
+  ]
+}

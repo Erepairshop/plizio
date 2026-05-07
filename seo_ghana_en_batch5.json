@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-metal-cross-history-v2",
+      "descriptionAdvanced": "Fort Metal Cross is a formidable historical structure located in the coastal town of Dixcove in the Western Region. It was constructed by the British in 1683 during a period of intense competition over the lucrative gold trade, primarily to counter the influence of the nearby Dutch-controlled Fort Batenstein. Architecturally, it sits prominently on a rocky promontory overlooking a natural, sheltered cove. During the peak of the transatlantic slave trade, it functioned as a major holding depot. The fort is noted for having changed hands multiple times between the British and the Dutch throughout the 18th and 19th centuries before finally being ceded to Britain in 1872. History K8 — colonial coastal rivalry.",
+      "factsAdvanced": [
+        "Constructed by the British Royal African Company starting in 1683.",
+        "Located in the coastal settlement of Dixcove in the Western Region.",
+        "Built strategically to counter the nearby Dutch stronghold of Fort Batenstein.",
+        "Ceded temporarily to the Dutch in 1868 before reverting to the British in 1872.",
+        "Served as a significant holding depot during the transatlantic slave trade.",
+        "Currently designated as a UNESCO World Heritage Site along with other coastal forts."
+      ]
+    },
+    {
+      "id": "fort-amsterdam-history-v2",
+      "descriptionAdvanced": "Fort Amsterdam is a historically significant fortification situated in Abandze within the Central Region. Its origins trace back to 1631 when the English established a trading lodge, but it was captured and substantially rebuilt into a permanent stone fort by the Dutch West India Company in 1665. The fort holds a grim distinction in history, as it is widely credited with being the very first European fort on the Gold Coast specifically designed and utilized for holding enslaved Africans, pioneering the horrific 'slave dungeon' architecture. Today, its partially restored ruins stand on a hill, serving as a solemn educational monument. History K8 — architecture of the slave trade.",
+      "factsAdvanced": [
+        "Located in the coastal town of Abandze in the Central Region.",
+        "Captured and rebuilt by the Dutch West India Company in 1665.",
+        "Considered the first European fort on the Gold Coast built specifically for the slave trade.",
+        "Introduced the architectural concept of underground slave dungeons to the region.",
+        "Named Fort Amsterdam to reflect Dutch imperial authority over the territory.",
+        "Partially restored in the modern era and designated as a UNESCO World Heritage Site."
+      ]
+    },
+    {
+      "id": "fort-william-anomabu-history-v2",
+      "descriptionAdvanced": "Fort William, located in the historically pivotal coastal town of Anomabu in the Central Region, is one of the largest and most robust forts in Ghana. Completed by the British in 1756, the fort was heavily fortified to protect British commercial interests in an area deeply contested by rival European powers and the powerful Ashanti Empire. The fort played a dramatic role during the Ashanti-Fante War of 1806, when a massive Ashanti army besieged the garrison, demonstrating the severe military tensions between the coast and the interior. It functioned extensively as a slave prison before later serving as a colonial administrative center and prison. History K8 — the Ashanti coastal campaigns.",
+      "factsAdvanced": [
+        "Constructed by the British in 1756 in the prominent Fante town of Anomabu.",
+        "Originally built utilizing imported English bricks and local stone.",
+        "Famously besieged by the Ashanti army during the coastal invasion of 1806.",
+        "Functioned as a massive holding facility during the transatlantic slave trade.",
+        "Later utilized by the colonial government as a state prison until the late 20th century.",
+        "Recognized globally as part of Ghana's UNESCO World Heritage coastal forts."
+      ]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-history-v2",
+      "descriptionAdvanced": "The Kwame Nkrumah Mausoleum and Memorial Park, located in downtown Accra, is the final resting place of Dr. Kwame Nkrumah, the visionary leader who guided Ghana to independence and served as its first President. Designed by Ghanaian architect Don Arthur, the monument is styled to represent an upside-down sword, which in Akan culture symbolizes peace. The park occupies the exact location of the former British colonial polo grounds, where Nkrumah famously declared Ghana's independence on March 6, 1957. Beyond a tomb, the site functions as a profound symbol of Pan-Africanism, housing a museum filled with his personal artifacts and writings. History K8 — African independence movements.",
+      "factsAdvanced": [
+        "Serves as the final resting place of Ghana's first President, Dr. Kwame Nkrumah.",
+        "Located on the exact site where Ghanaian independence was declared in 1957.",
+        "The architecture represents an inverted sword, an Akan symbol for peace.",
+        "Contains a comprehensive museum displaying Nkrumah's personal artifacts and state vehicles.",
+        "Surrounded by water features symbolizing life and continuous movement.",
+        "A major international pilgrimage site for scholars of Pan-Africanism."
+      ]
+    },
+    {
+      "id": "w-e-b-du-bois-centre-history-v2",
+      "descriptionAdvanced": "The W.E.B. Du Bois Memorial Centre for Pan-African Culture is a historic site located in the Cantonments district of Accra. It preserves the final residence of the legendary African-American sociologist, civil rights activist, and Pan-Africanist, Dr. W.E.B. Du Bois, who moved to Ghana in 1961 at the invitation of President Kwame Nkrumah. Du Bois spent his final years here working on the ambitious 'Encyclopedia Africana' project before his death in 1963. The site includes his personal library, his preserved living quarters, and the mausoleum where he and his wife Shirley Graham Du Bois are interred. It serves as a vital intellectual bridge connecting the African diaspora to the continent. History K8 — global Pan-Africanism.",
+      "factsAdvanced": [
+        "The former residence and final resting place of civil rights leader W.E.B. Du Bois.",
+        "Located in the Cantonments residential district of Accra.",
+        "Du Bois moved to this residence in 1961 at the invitation of President Kwame Nkrumah.",
+        "Houses the Marcus Garvey Guest House and an extensive Pan-African research library.",
+        "Serves as the historic headquarters for the 'Encyclopedia Africana' project.",
+        "A critical cultural site honoring the intellectual contributions of the African diaspora."
+      ]
+    },
+    {
+      "id": "independence-square-accra-history-v2",
+      "descriptionAdvanced": "Independence Square, also widely known as Black Star Square, is a massive public plaza in Accra, commissioned by President Kwame Nkrumah in 1961 to honor the visit of Queen Elizabeth II and to celebrate the nation's newfound sovereignty. It is the second-largest city square in the world, capable of accommodating over 30,000 people. The space is dominated by brutalist, Soviet-inspired architectural monuments, most notably the towering Independence Arch and the Black Star Gate. The square is the epicenter of Ghana's civic life, utilized annually for massive military and cultural parades on Independence Day, symbolizing the enduring strength and unity of the post-colonial state. History K8 — post-colonial civic monuments.",
+      "factsAdvanced": [
+        "Commissioned in 1961 by President Kwame Nkrumah to celebrate national sovereignty.",
+        "Ranked as the second-largest public city square in the world.",
+        "Features brutalist, monumental architecture including the massive Independence Arch.",
+        "The Black Star Gate is topped with the five-pointed star representing African freedom.",
+        "Hosts the annual national Independence Day parades on March 6th.",
+        "Can hold an estimated capacity of over 30,000 spectators in its grandstands."
+      ]
+    },
+    {
+      "id": "yaa-asantewaa-museum-history-v2",
+      "descriptionAdvanced": "The Yaa Asantewaa Museum, located in the historic town of Ejisu in the Ashanti Region, is dedicated to the legacy of the legendary Queen Mother of Ejisu, Nana Yaa Asantewaa. In 1900, when the British demanded the surrender of the sacred Golden Stool and the Ashanti kings hesitated, she famously rallied the Ashanti forces and led a massive, fierce rebellion against the British colonial army, known as the War of the Golden Stool. Although the Ashanti were ultimately defeated and she was exiled to the Seychelles, her courage cemented her as a supreme symbol of anti-colonial resistance and African female leadership. The museum preserves artifacts from her life and the war. History K8 — African female resistance leaders.",
+      "factsAdvanced": [
+        "Dedicated to Nana Yaa Asantewaa, the legendary Queen Mother of Ejisu.",
+        "Located in Ejisu, an important traditional town in the Ashanti Region.",
+        "Commemorates the leader of the 1900 Ashanti rebellion against British colonial rule.",
+        "The war was sparked by the British Governor's demand to sit on the sacred Golden Stool.",
+        "Yaa Asantewaa was ultimately captured and exiled to the Seychelles, dying in 1921.",
+        "The museum preserves regional artifacts, traditional weaponry, and royal regalia."
+      ]
+    },
+    {
+      "id": "salaga-slave-market-history-v2",
+      "descriptionAdvanced": "The Salaga Slave Market in the Savannah Region was one of the most notorious and heavily trafficked inland slave markets in West Africa during the 18th and 19th centuries. Serving as a crucial southern terminus for the trans-Saharan trade routes, Salaga was a bustling, cosmopolitan hub where merchants from the Sahel exchanged textiles, salt, and horses for kola nuts and, brutally, captured human beings. Enslaved individuals from the northern hinterlands were sold here before being marched southward to the coast. Today, the site features remnants of this dark era, including the original slave market grounds, ancient bathing wells, and massive baobab trees that historically shaded the traders. History K8 — the internal slave economy.",
+      "factsAdvanced": [
+        "Located in the East Gonja district, serving as a major 18th-century commercial hub.",
+        "Functioned as a massive southern terminus for the trans-Saharan caravan trade.",
+        "Notoriously known as one of the largest inland slave markets in West Africa.",
+        "Captives were traded here before enduring forced marches to coastal dungeons.",
+        "Features the ancient 'Wonkoshi' slave bathing wells used to wash captives before sale.",
+        "The town was historically referred to as the 'Timbuktu of the South'."
+      ]
+    },
+    {
+      "id": "gwollu-defence-wall-history-v2",
+      "descriptionAdvanced": "The Gwollu Defence Wall is a remarkable archaeological site located in the Sissala West District of the Upper West Region. Built in the 19th century under the leadership of the local ruler Koro Limann, the wall was constructed specifically to protect the residents of Gwollu from the rampant, devastating raids of infamous slave raiders, most notably Babatu and Samori Ture. Originally, the structure consisted of two massive concentric mud walls. While much of the wall has eroded over time due to weather and neglect, the surviving sections stand as a powerful, physical testament to the extreme defensive measures indigenous communities were forced to take during the era of internal slave raiding. History K8 — defense against slave raids.",
+      "factsAdvanced": [
+        "Located in the Sissala West District in the far north of Ghana.",
+        "Constructed in the 19th century by the local chief, Koro Limann.",
+        "Built specifically to defend the community against notorious slave raiders like Babatu.",
+        "Originally consisted of two large, concentric defensive mud walls.",
+        "The inner wall protected the homes, while the outer protected the farms and water supply.",
+        "Considered a critical architectural monument to indigenous anti-slavery resistance."
+      ]
+    },
+    {
+      "id": "nalerigu-defence-wall-history-v2",
+      "descriptionAdvanced": "The Nalerigu Defence Wall, located in the North East Region, is a historic monument representing the military might of the ancient Mamprusi Kingdom. Constructed in the 16th century under the reign of the Nayiri (the paramount chief), the wall was built using stones, mud, and remarkably, a mortar made of honey, milk, and shea butter. Its primary purpose was to fortify the capital against invasions from rival kingdoms and slave raiders. Although only ruined sections remain today, local oral traditions hold that the wall was spiritually impenetrable. It remains a vital symbol of Mamprusi heritage and indigenous military engineering in the West African savanna. History K8 — traditional savanna kingdoms.",
+      "factsAdvanced": [
+        "Located in Nalerigu, the traditional capital of the Mamprusi Kingdom.",
+        "Constructed during the 16th century to defend against invasions and slave raids.",
+        "Oral history states the mortar was mixed using shea butter, milk, and honey.",
+        "Built under the directive of the Nayiri, the paramount chief of the Mamprusi.",
+        "Only fragmented ruins of the original massive mud and stone structure remain.",
+        "A highly significant archaeological site for studying pre-colonial military architecture."
+      ]
+    },
+    {
+      "id": "pikworo-slave-camp-history-v2",
+      "descriptionAdvanced": "The Pikworo Slave Camp, located near Paga in the Upper East Region, is a deeply sobering historical site established in the mid-19th century. Operating as a major transit and holding camp, it was utilized by indigenous slave raiders to forcefully detain captives before they were marched hundreds of miles south to the Salaga market. The camp lacks built structures; instead, it utilizes the natural, harsh granite rock formations of the landscape. Captives were chained to trees and forced to carve eating bowls directly into the solid rock. The site serves as a brutal reminder of the internal logistics and sheer cruelty of the 19th-century slave trade. History K8 — inland slave transit camps.",
+      "factsAdvanced": [
+        "Established in 1804 near the modern town of Paga in the Upper East Region.",
+        "Operated as a major holding camp for captives before the march to the Salaga market.",
+        "Lacks traditional buildings, utilizing the harsh local granite outcrops for detainment.",
+        "Features shallow bowls carved directly into solid rock where captives were fed.",
+        "Captives were historically shackled to trees and subjected to brutal conditions.",
+        "A critical educational site managed by local communities to preserve painful histories."
+      ]
+    },
+    {
+      "id": "bono-manso-history-v2",
+      "descriptionAdvanced": "Bono Manso is an immensely important archaeological and historical site located in the Bono East Region. Founded in the 13th century, it was the ancient capital of the Bono State, widely considered the oldest centralized Akan kingdom in Ghana. Before the rise of the Ashanti Empire, Bono Manso was a wealthy and sophisticated metropolis, functioning as a massive southern terminus for the trans-Saharan gold and kola nut trade. The city was abruptly destroyed in 1723 following a massive invasion by the expanding Ashanti forces. Today, extensive archaeological excavations at the site have unearthed brass weights, imported Islamic pottery, and evidence of advanced iron-smelting. History K8 — ancient Akan civilizations.",
+      "factsAdvanced": [
+        "Located in the Bono East Region, near the modern town of Techiman.",
+        "Served as the historic capital of the ancient Bono State, the oldest Akan kingdom.",
+        "Flourished as a major hub for the trans-Saharan gold and kola nut trade.",
+        "Violently destroyed and absorbed by the expanding Ashanti Empire in 1723.",
+        "Archaeological digs have revealed extensive evidence of advanced iron smelting.",
+        "Unearthed artifacts include imported North African pottery and Islamic brass weights."
+      ]
+    },
+    {
+      "id": "begho-ancient-city-history-v2",
+      "descriptionAdvanced": "Begho (also spelled Bighu) is a highly significant ancient ruined city located in the Bono Region. Flourishing between the 11th and 18th centuries, Begho was a massive, cosmopolitan trading emporium situated at the extreme southern edge of the savanna, connecting the gold-producing Akan forest states with the Mande merchants of the Mali Empire. The city was uniquely divided into distinct, segregated quarters for indigenous artisans, Muslim merchants, and ruling elites. Archaeological excavations have revealed that Begho was a center of immense wealth, featuring sophisticated pottery, brass casting, and early Islamic scholarship, before it was eventually abandoned following regional political instability. History K8 — pre-colonial trade emporiums.",
+      "factsAdvanced": [
+        "An ancient ruined trading city located in the modern Bono Region.",
+        "Flourished as a massive commercial hub between the 11th and 18th centuries.",
+        "Connected the forest gold fields with the trans-Saharan routes of the Mali Empire.",
+        "Architecturally divided into distinct quarters for Muslims, artisans, and elites.",
+        "Archaeological evidence points to highly advanced brass casting and pottery.",
+        "The city was largely abandoned by the 18th century due to regional warfare."
+      ]
+    },
+    {
+      "id": "kintampo-complex-history-v2",
+      "descriptionAdvanced": "The Kintampo Complex refers to a highly significant prehistoric archaeological culture dating between 2500 and 1400 BCE, primarily discovered around the Kintampo area in the Bono East Region. It represents one of the most critical transitions in West African human history: the shift from nomadic hunter-gatherer societies to settled, food-producing communities. Archaeological digs in the region have unearthed the earliest evidence of agriculture in West Africa, including domesticated cowpea and oil palm, alongside distinct 'cigar-shaped' terracotta objects, polished stone axes, and evidence of wattle-and-daub housing. The Kintampo culture fundamentally rewrote the timeline of indigenous African agricultural development. History K8 — prehistoric African agriculture.",
+      "factsAdvanced": [
+        "A prehistoric archaeological culture dating between roughly 2500 and 1400 BCE.",
+        "Discovered extensively in the Bono East Region around the town of Kintampo.",
+        "Represents the transition from hunter-gatherers to settled agricultural societies.",
+        "Provides the earliest known evidence of domesticated oil palm and cowpeas in West Africa.",
+        "Characterized by unique artifacts including 'cigar-shaped' terracotta rasps.",
+        "Sites show evidence of early permanent housing utilizing wattle-and-daub construction."
+      ]
+    },
+    {
+      "id": "prempeh-ii-museum-history-v2",
+      "descriptionAdvanced": "The Prempeh II Jubilee Museum is a vital cultural repository located within the grounds of the National Cultural Centre in Kumasi. Established in 1954 to commemorate the Silver Jubilee of the Asantehene Osei Tutu Agyeman Prempeh II, the museum houses an extraordinary collection of Ashanti royal and martial artifacts. Its most prized possessions include the incredibly rare, original silver-plated stool of the Queen Mother, centuries-old battle dresses equipped with protective Islamic amulets, and a replica of the sacred Golden Stool. The museum provides an intimate, detailed look into the sophisticated artistic, spiritual, and military heritage of the Ashanti Empire. History K8 — Ashanti cultural heritage.",
+      "factsAdvanced": [
+        "Located inside the National Cultural Centre complex in Kumasi.",
+        "Established in 1954 to honor the Silver Jubilee of Asantehene Prempeh II.",
+        "Exhibits a vast array of authentic Ashanti royal regalia and historical artifacts.",
+        "Houses the original, intricately designed silver-plated stool of the Queen Mother.",
+        "Displays ancient battle tunics covered in Islamic amulets (talismans) for protection.",
+        "Features a precise historical replica of the highly sacred Golden Stool."
+      ]
+    },
+    {
+      "id": "fort-st-jago-history-v2",
+      "descriptionAdvanced": "Fort St. Jago, officially known as Fort Coenraadsburg, is an imposing military structure built on a steep hill directly overlooking Elmina Castle in the Central Region. The hill was initially utilized by the Dutch in 1637 to mount heavy cannons, which they used to bombard and successfully capture Elmina Castle from the Portuguese. Realizing the strategic vulnerability, the Dutch constructed Fort St. Jago in the 1660s strictly as a military garrison to protect the main castle below from inland attacks. Unlike other coastal forts, St. Jago was never used for trade or holding slaves; it served purely as a highly fortified, elevated artillery position. History K8 — coastal military engineering.",
+      "factsAdvanced": [
+        "Located on a prominent, steep hill directly overlooking Elmina Castle.",
+        "Officially named Fort Coenraadsburg by the Dutch West India Company.",
+        "Built in the 1660s primarily to provide artillery protection for Elmina Castle.",
+        "The hill was previously used by the Dutch to bombard and capture Elmina in 1637.",
+        "Uniquely, the fort was strictly military and never used to hold enslaved people.",
+        "Recognized as part of the UNESCO World Heritage monuments of Ghana."
+      ]
+    },
+    {
+      "id": "fort-victoria-cape-coast-history-v2",
+      "descriptionAdvanced": "Fort Victoria is a small but historically significant colonial fortification located on a hill on the western edge of Cape Coast. Built by the British in 1832, it was constructed on the ruins of an earlier 18th-century structure known as Phipps' Tower. The primary purpose of Fort Victoria was not maritime defense or trade, but rather to serve as an elevated observation post and artillery battery to protect Cape Coast Castle from attacks by the powerful inland Ashanti army. Together with Fort William and Fort MacCarthy, it formed a protective ring around the British colonial capital during the volatile Anglo-Ashanti wars. History K8 — colonial defensive networks.",
+      "factsAdvanced": [
+        "A small military fortification located on an elevated hill in Cape Coast.",
+        "Constructed by the British colonial administration in 1832.",
+        "Built directly upon the ruins of an older structure called Phipps' Tower.",
+        "Designed strictly as an observation post and inland artillery battery.",
+        "Functioned as part of a defensive ring to protect Cape Coast from Ashanti invasions.",
+        "Offers panoramic, strategic views of the surrounding town and coastline."
+      ]
+    },
+    {
+      "id": "fort-mccarthy-history-v2",
+      "descriptionAdvanced": "Fort MacCarthy, situated on a hill in Cape Coast, was a military fortification built by the British in the early 19th century. Named after Sir Charles MacCarthy, a highly ambitious but ill-fated British governor who was killed by the Ashanti army at the Battle of Nsamankow in 1824. The fort was constructed as an emergency defensive measure to fortify the perimeter of the colonial capital against the constant threat of Ashanti invasions from the northern forest. Although mostly in ruins today, the site remains a stark geographical marker of the intense and bloody military standoff between British imperial forces and the Ashanti Kingdom. History K8 — the Anglo-Ashanti Wars.",
+      "factsAdvanced": [
+        "A historic military outpost located on a strategic hill in Cape Coast.",
+        "Constructed by the British in 1822 as an emergency inland defense measure.",
+        "Named in honor of Sir Charles MacCarthy, the British governor killed by the Ashanti.",
+        "Formed part of the defensive perimeter protecting Cape Coast Castle from land attacks.",
+        "Currently exists primarily as a ruined, unmaintained historical site.",
+        "Symbolizes the intense military conflict between British and Ashanti forces."
+      ]
+    },
+    {
+      "id": "fort-good-hope-history-v2",
+      "descriptionAdvanced": "Fort Good Hope, locally known as Fort Goede Hoop, is a historical fortification located in the coastal town of Senya Beraku in the Central Region. It was constructed by the Dutch West India Company in 1667, primarily to establish a secure trading post for gold and ivory outside the dominant influence of the nearby British forts. As the transatlantic slave trade intensified, the fort was massively expanded in the 18th century to include large holding dungeons. The fort frequently changed hands during the Anglo-Dutch coastal rivalries and local uprisings before ultimately being transferred to the British in 1868. History K8 — coastal expansion of the slave trade.",
+      "factsAdvanced": [
+        "Located in the coastal town of Senya Beraku in the Central Region.",
+        "Originally constructed by the Dutch West India Company in 1667.",
+        "Built to secure a trading foothold between competing British coastal territories.",
+        "Massively expanded in the 18th century specifically to hold enslaved Africans.",
+        "Officially transferred from Dutch to British control in 1868.",
+        "Currently serves as a historical monument and a localized tourist guesthouse."
+      ]
+    },
+    {
+      "id": "fort-patience-history-v2",
+      "descriptionAdvanced": "Fort Patience, originally named Fort Lijdzaamheid, is a robust stone fortification located in the coastal town of Apam in the Central Region. Constructed by the Dutch between 1697 and 1702, the fort earned its name ('Patience') because the local native population heavily resisted its construction, repeatedly halting work and forcing the Dutch to negotiate painstakingly over five years. Originally built to protect the local gold trade, it inevitably transitioned into a holding fort for enslaved people. Positioned on a striking, rocky peninsula overlooking a natural bay, the fort is visually imposing and serves as a powerful testament to local resistance against European encroachment. History K8 — indigenous resistance to colonialism.",
+      "factsAdvanced": [
+        "Located in the traditional fishing town of Apam in the Central Region.",
+        "Constructed by the Dutch West India Company over five years (1697-1702).",
+        "Named 'Patience' (Lijdzaamheid) due to extreme delays caused by local resistance.",
+        "Situated on a highly strategic, elevated rocky peninsula overlooking the bay.",
+        "Transitioned from a gold trading post into a holding fort for the slave trade.",
+        "Designated as a UNESCO World Heritage Site alongside other coastal forts."
+      ]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "The Kwame Nkrumah Mausoleum and Memorial Park, located in downtown Accra, is a profound architectural and historical landmark dedicated to Ghana's first President. The striking centerpiece of the park is the mausoleum itself, clad in Italian marble and designed by a Ghanaian architect to resemble an inverted sword—an Akan symbol of peace. This site is geographically significant as it sits on the former British Polo Grounds, the exact spot where Nkrumah boldly declared Ghana's independence on March 6, 1957. The surrounding park features bronze statues, reflecting pools, and a museum housing his personal library and vintage state vehicles, drawing scholars and Pan-Africanists worldwide. History K8 — national monuments of independence.",
+      "factsAdvanced": [
+        "Located in central Accra on the site of the former British colonial Polo Grounds.",
+        "The final resting place of Dr. Kwame Nkrumah and his Egyptian wife, Fathia.",
+        "The mausoleum is clad entirely in imported Italian marble.",
+        "Designed to represent an inverted sword, symbolizing peace in Akan culture.",
+        "The site marks the exact geographical location where independence was declared in 1957.",
+        "Contains a museum exhibiting his personal desk, books, and Cadillac state car."
+      ]
+    },
+    {
+      "id": "independence-arch-landmarks-v2",
+      "descriptionAdvanced": "The Independence Arch in Accra is a massive, awe-inspiring monument that dominates the landscape of Independence Square. Commissioned by President Kwame Nkrumah in 1961, the arch commemorates Ghana's liberation from British colonial rule and honors the veterans who fought for self-determination. Architecturally, it is a prominent example of post-colonial monumentalism, featuring a grand, sweeping concrete span that arches over the main ceremonial parade route. The structure is inscribed with the words 'Freedom and Justice', serving as a constant, towering visual reminder of the nation's foundational principles and acting as the backdrop for the country's most significant civic and military ceremonies. History K8 — post-colonial monumental architecture.",
+      "factsAdvanced": [
+        "A colossal concrete monument located within Independence Square, Accra.",
+        "Commissioned in 1961 to commemorate the nation's independence from Britain.",
+        "Inscribed with the national motto 'Freedom and Justice' across its span.",
+        "Serves as the primary focal point and backdrop for national Independence Day parades.",
+        "Architecturally represents a blend of modernist and post-colonial monumentalism.",
+        "It is strictly guarded, and photography directly beneath the arch requires permission."
+      ]
+    },
+    {
+      "id": "black-star-gate-landmarks-v2",
+      "descriptionAdvanced": "The Black Star Gate is a highly symbolic architectural monument situated at the very center of Independence Square in Accra. Built concurrently with the surrounding square in 1961, the monument consists of a massive, block-like archway topped prominently with the Black Star of Africa. This star is the ultimate symbol of Ghanaian identity and the broader Pan-African movement, originally inspired by Marcus Garvey's Black Star Line shipping company. The gate physically frames the ceremonial parade grounds and the distant Atlantic Ocean, functioning as a powerful, enduring symbol of African emancipation, unity, and the enduring strength of the Ghanaian state. History K8 — symbols of Pan-Africanism.",
+      "factsAdvanced": [
+        "A monumental gate located in the center of Independence Square, Accra.",
+        "Completed in 1961 as part of President Nkrumah's massive civic building projects.",
+        "Topped with a large, five-pointed black star representing African freedom.",
+        "The star symbolism is directly linked to Marcus Garvey's Black Star Line.",
+        "Geographically frames the parade grounds against the backdrop of the Gulf of Guinea.",
+        "A globally recognized architectural symbol of the Pan-African movement."
+      ]
+    },
+    {
+      "id": "accra-sports-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Accra Sports Stadium, formerly known as the Ohene Djan Stadium, is a historic and massive multi-purpose sports facility located near the coastline in the capital. Originally built in the 1950s, it is the spiritual home of Ghanaian football, serving as the home ground for both the national team, the Black Stars, and the legendary local club Hearts of Oak. The stadium underwent a massive, multi-million dollar reconstruction to host the 2008 Africa Cup of Nations, significantly increasing its capacity and modernizing its infrastructure. Despite facing challenges with maintenance, it remains a crucial cultural landmark where intense national pride is frequently demonstrated. Geography K7 — modern sporting infrastructure.",
+      "factsAdvanced": [
+        "A massive multi-purpose sports arena located in Osu, Accra.",
+        "Originally constructed in the 1950s but extensively modernized in 2007.",
+        "Serves as the primary home ground for the Accra Hearts of Oak football club.",
+        "Features a seating capacity of approximately 40,000 spectators.",
+        "Hosted the final match of the 2008 Africa Cup of Nations tournament.",
+        "Formerly named after Ohene Djan, Ghana's first Director of Sports."
+      ]
+    },
+    {
+      "id": "national-museum-ghana-landmarks-v2",
+      "descriptionAdvanced": "The National Museum of Ghana, situated in the heart of Accra, is the country's premier institution dedicated to preserving and exhibiting national history, ethnography, and fine art. Opened on the eve of independence in 1957 by the Duchess of Kent, the museum's modernist architecture houses a vast and diverse collection. Exhibitions range from prehistoric archaeological artifacts, such as ancient Kintampo stone tools, to magnificent regal paraphernalia of the Ashanti Empire, and contemporary Ghanaian paintings. The museum serves as a critical educational hub, systematically documenting the complex cultural tapestry of Ghana's various ethnic groups and their historical interactions with European colonizers. History K8 — national heritage preservation.",
+      "factsAdvanced": [
+        "The oldest and largest museum operated by the Ghana Museums and Monuments Board.",
+        "Officially opened on March 5, 1957, the day before Ghana achieved independence.",
+        "Features an extensive archaeological collection, including prehistoric stone tools.",
+        "Exhibits a massive array of indigenous ethnographic artifacts and royal regalia.",
+        "Housed in a distinctive modernist building located in central Accra.",
+        "Recently underwent a major multi-year renovation to modernize its exhibition spaces."
+      ]
+    }
+  ]
+}

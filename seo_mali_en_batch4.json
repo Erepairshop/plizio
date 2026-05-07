@@ -1,0 +1,351 @@
+{
+  "lang": "en",
+  "country": "mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMaliHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts",
+    "lib/visualLab/data/poiExtraMaliReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yatela-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Yatela Gold Mine is a significant industrial site in western Mali, located near the town of Sadiola in the Kayes Region. Established as a joint venture between international mining giants and the Malian government, the mine has been a major producer of gold using heap-leaching technology. Over its decades of operation, Yatela contributed substantially to Mali's national revenue and provided hundreds of jobs in the remote western highlands. As the mine transitioned into its closure and rehabilitation phase, it became a focal point for studies on sustainable mine decommissioning and environmental restoration in the Sahel. Economy K6 — Gold mining and environmental rehabilitation.",
+      "factsAdvanced": [
+        "Major heap-leach gold mining operation in the Kayes Region",
+        "Strategic joint venture between AngloGold Ashanti, IAMGOLD, and Mali",
+        "Located in the gold-rich Sadiola-Yatela geological trend",
+        "Significant contributor to Mali's early industrial mining boom",
+        "Key provider of employment and vocational training in the west",
+        "Features large-scale leaching pads and processing facilities",
+        "Focuses on comprehensive environmental restoration after mining",
+        "Helped establish international standards for mine closure in Mali"
+      ]
+    },
+    {
+      "id": "tabakoto-gold-mine-economic-v2",
+      "descriptionAdvanced": "Tabakoto Gold Mine is a major industrial mining complex located in southwestern Mali, within the prolific Kéniéba gold belt. The site comprises several open-pit and underground operations, extracting ore from the Birimian greenstone formations. Tabakoto has been a vital economic engine for the region, utilizing a centralized processing plant to produce hundreds of thousands of ounces of gold. The mine is notable for its complex geological structure and its resilience in maintaining production through various economic cycles. It remains a key pillar of Mali's mining sector, providing significant tax contributions and supporting a large local workforce. Economy K6 — Birimian gold belt and underground mining.",
+      "factsAdvanced": [
+        "Integrated mining complex with open-pit and underground sites",
+        "Located in the highly mineralized Kéniéba district of Kayes",
+        "Utilizes a large-scale central carbon-in-leach processing plant",
+        "Significant industrial employer in southwestern Mali",
+        "Extracts gold from the ancient Birimian greenstone formations",
+        "Major contributor to Mali's status as a top gold producer",
+        "Supports local community development and infrastructure projects",
+        "Operated through international partnerships and technical expertise"
+      ]
+    },
+    {
+      "id": "taoudenni-salt-mines-economic-v2",
+      "descriptionAdvanced": "The Taoudenni Salt Mines are among the most remote and historic economic sites in the world, located deep in the Sahara Desert of northern Mali. For centuries, these mines have produced high-quality rock salt, once traded for its weight in gold across West Africa. The mining process remains almost entirely traditional, with workers carving large slabs of salt from the ancient seabed by hand. These slabs are then transported over 700 kilometers to Timbuktu by the legendary 'Azalaï' camel caravans. Taoudenni represents the endurance of ancient trans-Saharan trade systems and continues to be a vital source of income for northern desert communities. Economy K6 — Traditional salt trade and Saharan caravans.",
+      "factsAdvanced": [
+        "World-famous source of Saharan rock salt for over 400 years",
+        "Origin point for the 'Azalaï' salt caravans to Timbuktu",
+        "Salt is hand-carved into large, standardized 30kg slabs",
+        "Located in a hyper-arid region of the Sahara Desert",
+        "Remains one of Mali's most important traditional economic assets",
+        "Inhabited by a resilient community of seasonal miners",
+        "The salt is traded across West Africa for its nutritional value",
+        "Symbolizes the ancient connection between the desert and the river"
+      ]
+    },
+    {
+      "id": "koulikoro-river-port-economic-v2",
+      "descriptionAdvanced": "Koulikoro River Port is a strategic logistics hub and the primary terminus for river transport on the Niger River in Mali. Located about 60 kilometers from Bamako, it serves as the crucial link where the Dakar-Niger Railway meets the navigable waters of the Niger. The port is the headquarters of the COMANAV (Compagnie Malienne de Navigation), managing a fleet of ferries and cargo ships that transport thousands of tons of goods to the northern cities. Koulikoro's port facilities include shipyards for construction and repair, making it the industrial heart of Mali's river-based economy. It is essential for the supply of central and northern Mali. Geography K7 — River logistics and COMANAV.",
+      "factsAdvanced": [
+        "Strategic terminus of the Dakar-Niger Railway on the Niger River",
+        "Headquarters of COMANAV, Mali's national navigation company",
+        "Primary logistics hub for goods destined for Mopti, Gao, and Timbuktu",
+        "Features major shipyards for riverboat construction and maintenance",
+        "Critical node for the transport of salt, grain, and fuel",
+        "Located at the highest navigable point of the middle Niger",
+        "Supports a large population of dockworkers and sailors",
+        "Vital for national integration and the supply of northern regions"
+      ]
+    },
+    {
+      "id": "mopti-river-port-economic-v2",
+      "descriptionAdvanced": "Mopti River Port, often called the 'Soul of the Delta,' is the busiest and most vibrant commercial harbor in central Mali. Located at the confluence of the Niger and Bani Rivers, it is the primary trading hub for the Inner Niger Delta. The port is a chaotic and colorful forest of 'pinasses' (traditional large wooden boats) that transport everything from salt slabs and dried fish to modern electronics and livestock. Mopti serves as a critical distribution center for goods moving between the desert north and the agricultural south. Its economy is deeply integrated with the river's seasonal cycles, making it the pulse point of Mali's internal commerce. Economy K6 — Traditional river trade and the Inner Delta.",
+      "factsAdvanced": [
+        "The busiest commercial river port in the Inner Niger Delta",
+        "Located at the strategic confluence of the Niger and Bani Rivers",
+        "Primary center for the trade of dried fish, salt, and grain",
+        "Terminal for hundreds of traditional 'pinasse' cargo boats",
+        "Critical logistics hub connecting southern Mali to the Sahara",
+        "Famous for its vibrant, bustling docks and multi-ethnic traders",
+        "Supports a massive informal economy based on river transport",
+        "Gateway to the UNESCO-listed Dogon Country and Timbuktu"
+      ]
+    },
+    {
+      "id": "segou-river-port-economic-v2",
+      "descriptionAdvanced": "Ségou River Port is a major commercial and administrative harbor on the Niger River, serving the fertile agricultural heartland of central Mali. As the capital of the Ségou Region, the port is a vital terminal for the transport of rice, sugar, and cotton produced in the nearby Office du Niger irrigation project. The port area is characterized by its historic colonial-style warehouses and its busy docks where traditional boats and COMANAV ferries regularly dock. Ségou's port also plays a significant cultural role, hosting various river festivals and serving as a center for the region's famous pottery and textile trade. It is a key node in the Niger valley's economic network. Geography K7 — Agricultural export and river transport.",
+      "factsAdvanced": [
+        "Major export hub for rice and sugar from the Office du Niger",
+        "Strategically located in the heart of Mali's agricultural basin",
+        "Vital terminal for COMANAV's seasonal river transport services",
+        "Features historic red-brick colonial-style port infrastructure",
+        "Primary center for the trade of traditional Ségou pottery",
+        "Key logistics node for the transport of cotton and fertilizers",
+        "Connects the capital Bamako to the Inner Niger Delta",
+        "Vibrant commercial zone supporting local and regional trade"
+      ]
+    },
+    {
+      "id": "gao-river-port-economic-v2",
+      "descriptionAdvanced": "Gao River Port is the most important commercial terminal in eastern Mali, serving as a vital lifeline for the northern regions. Located on the eastern bend of the Niger River, it has been a center for trans-Saharan trade for over a thousand years. Today, the port is a bustling hub where desert caravans from the north meet riverboats from the south. It is a critical node for the supply of food, fuel, and construction materials to the Gao and Ménaka regions. Gao's port is also famous for its livestock trade, with cattle and camels being shipped across the region. It remains a symbol of the city's enduring role as a desert-river gateway. Economy K6 — Northern supply lines and trans-Saharan trade.",
+      "factsAdvanced": [
+        "Principal river port for eastern Mali and the Gao Region",
+        "Historical terminal for trans-Saharan gold and salt trade",
+        "Strategic node for the distribution of humanitarian aid and fuel",
+        "Major center for the northern livestock and grain trade",
+        "Connects Gao with Mopti, Timbuktu, and the Niger border",
+        "Terminal for large-scale commercial pinasses and ferries",
+        "Vital for the economic survival of northern desert communities",
+        "Features vibrant markets where diverse ethnic groups meet"
+      ]
+    },
+    {
+      "id": "koutiala-cotton-plant-economic-v2",
+      "descriptionAdvanced": "The Koutiala Cotton Plant is the flagship industrial facility of the CMDT (Compagnie Malienne pour le Développement des Textiles), located in the heart of Mali's cotton-growing region. This massive ginning complex is one of the largest and most productive in West Africa, transforming raw cotton into high-quality fiber for the global market. The plant is a cornerstone of Mali's national economy, as cotton is the country's primary agricultural export. Koutiala's facility provides employment for thousands of workers and supports a vast network of local farmers. It represents the successful industrialization of Mali's agricultural sector and its integration into international trade. Economy K6 — Cotton industrialization and export.",
+      "factsAdvanced": [
+        "One of the largest cotton ginning plants in West Africa",
+        "Flagship industrial facility of the state-owned CMDT",
+        "Processes raw 'white gold' from the fertile Sikasso Region",
+        "Major contributor to Mali's national export revenue",
+        "Primary employer in the industrial city of Koutiala",
+        "Uses advanced machinery to separate cotton fiber from seeds",
+        "Supports over 200,000 small-scale cotton farmers in the region",
+        "Vital for Mali's position as a leading global cotton producer"
+      ]
+    },
+    {
+      "id": "comatex-textile-factory-economic-v2",
+      "descriptionAdvanced": "COMATEX (Compagnie Malienne des Textiles) is Mali's premier textile manufacturing factory, located in the historic city of Ségou. Established as a joint venture with international partners, it was designed to add value to Mali's vast cotton production by producing finished fabrics and garments locally. The factory is a major industrial employer in the Ségou Region, utilizing hundreds of looms to create various textiles, including the famous 'fancy' and 'wax' prints popular across West Africa. COMATEX represents Mali's ambition to industrialize its agricultural wealth and reduce its dependence on imported textiles, playing a key role in national economic sovereignty. Economy K6 — Textile manufacturing and value addition.",
+      "factsAdvanced": [
+        "Mali's leading industrial textile manufacturing plant",
+        "Located in Ségou to be near the Office du Niger and cotton zones",
+        "Produces a wide range of fabrics, from yarn to finished prints",
+        "Major industrial employer with over a thousand workers",
+        "Aims to process Mali's raw cotton into high-value garments",
+        "Key symbol of Mali's post-independence industrialization",
+        "Provides textiles for the domestic and regional West African markets",
+        "Features large-scale spinning, weaving, and printing facilities"
+      ]
+    },
+    {
+      "id": "markala-sugar-refinery-economic-v2",
+      "descriptionAdvanced": "The Markala Sugar Refinery is a massive industrial complex in the Ségou Region, dedicated to the production of sugar from cane grown in the Office du Niger irrigation project. This facility, often operated in partnership with international investors (such as SUKALA), is a key part of Mali's strategy for food self-sufficiency. The refinery processes thousands of tons of sugar cane daily during the harvest season, producing white sugar and molasses for the domestic market. Located near the Markala Dam, the refinery benefits from a guaranteed water supply and fertile soils. It is a major economic engine for central Mali, providing jobs and supporting thousands of rural livelihoods. Economy K6 — Sugar production and food security.",
+      "factsAdvanced": [
+        "Major industrial sugar refinery in the central Ségou Region",
+        "Processes sugar cane from the irrigated Office du Niger fields",
+        "Operated as part of the SUKALA or N-SUKALA industrial projects",
+        "Crucial for Mali's national sugar self-sufficiency goals",
+        "Located near the strategic Markala diversion dam",
+        "Provides seasonal and permanent employment for thousands",
+        "Produces molasses as a byproduct for livestock feed",
+        "One of Mali's largest industrial agricultural processing sites"
+      ]
+    },
+    {
+      "id": "dio-gare-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Dio-Gare Cement Plant is a vital industrial facility located near Kati, just outside of Bamako. As Mali's primary domestic cement producer (Diamond Cement), it plays a critical role in the country's booming construction and infrastructure sectors. The plant utilizes locally mined limestone and advanced grinding technology to produce high-quality cement, reducing Mali's dependence on expensive imports from neighboring coastal countries. Its strategic location near the railway and the capital allows for the efficient distribution of cement to major construction sites across the country. Dio-Gare is a symbol of Mali's industrial growth and its efforts to build a modern national infrastructure. Economy K6 — Construction materials and industrial growth.",
+      "factsAdvanced": [
+        "Mali's leading domestic cement manufacturing facility",
+        "Located strategically at Dio-Gare near the capital, Bamako",
+        "Reduces national dependence on imported construction materials",
+        "Operated by Diamond Cement Mali at an industrial scale",
+        "Key supplier for major urban and national infrastructure projects",
+        "Utilizes local limestone deposits and imported clinker",
+        "Major industrial employer in the Koulikoro Region",
+        "Features high-capacity grinding and packaging lines"
+      ]
+    },
+    {
+      "id": "manantali-dam-economic-v2",
+      "descriptionAdvanced": "The Manantali Dam is the most important hydroelectric and water-management project in West Africa, located on the Bafing River in western Mali. This massive multi-purpose dam, managed by the OMVS (Organisation pour la Mise en Valeur du fleuve Sénégal), provides over 50% of Mali's electricity and also supplies power to Senegal and Mauritania. The dam's reservoir is one of the largest man-made lakes in the region, regulating the flow of the Senegal River to allow for year-round irrigation and navigation. Manantali is a masterpiece of international cooperation and a cornerstone of Mali's industrial and agricultural development. Geography K7 — Hydroelectric power and river management.",
+      "factsAdvanced": [
+        "Mali's largest hydroelectric dam and primary power source",
+        "Regional project shared by Mali, Senegal, and Mauritania",
+        "Constructed on the Bafing River, a major tributary of the Senegal",
+        "Managed by the OMVS (Senegal River Basin Authority)",
+        "Generates over 200 megawatts of clean renewable energy",
+        "Created a massive 477 square kilometer reservoir lake",
+        "Regulates river flow for downstream irrigation and transport",
+        "Strategically vital for West African regional energy integration"
+      ]
+    },
+    {
+      "id": "selingue-dam-economic-v2",
+      "descriptionAdvanced": "The Sélingué Dam is a major hydroelectric and irrigation facility located on the Sankarani River, a tributary of the Niger, south of Bamako. Since its completion in 1980, the dam has been a vital source of electricity for the capital and a key driver of agricultural development. Its massive reservoir, Lake Sélingué, supports intensive fishing and an enormous irrigation perimeter where rice and vegetables are grown. The dam also plays a crucial role in regulating the flow of the Niger River, protecting downstream areas from floods. Sélingué is a popular destination for eco-tourism and a central pillar of Mali's energy and food security infrastructure. Geography K7 — Dams and agricultural development.",
+      "factsAdvanced": [
+        "Key hydroelectric dam providing power to the Bamako region",
+        "Located on the Sankarani River in southern Mali",
+        "Created Lake Sélingué, a major center for inland fishing",
+        "Supports an 1,800-hectare irrigated agricultural perimeter",
+        "Vital for Mali's national rice production and food security",
+        "Regulates Niger River levels to prevent seasonal flooding",
+        "Important hub for regional trade and emerging eco-tourism",
+        "A major multi-purpose infrastructure project completed in 1980"
+      ]
+    },
+    {
+      "id": "gouina-hydroelectric-plant-economic-v2",
+      "descriptionAdvanced": "The Gouina Hydroelectric Plant is one of Mali's newest and most powerful energy projects, located at the spectacular Gouina Falls on the Senegal River. This run-of-river facility, part of the OMVS regional network, was designed to significantly increase the power supply to the West African regional grid. The plant harnesses the immense natural force of the falls without the need for a massive reservoir, making it a more environmentally sustainable energy source. Gouina is a strategic asset for Mali's industrialization, providing stable and clean electricity to the mines and cities of the western Kayes Region. It represents the continued modernization of Mali's energy infrastructure. Economy K6 — Renewable energy and regional power grids.",
+      "factsAdvanced": [
+        "Major new hydroelectric facility on the Senegal River",
+        "Located at the site of the natural Gouina 'Niagara' Falls",
+        "Generates approximately 140 megawatts of renewable energy",
+        "Part of the OMVS regional power-sharing infrastructure",
+        "Strategically boosts electricity supply to western Mali's mines",
+        "Utilizes a run-of-river design to minimize environmental impact",
+        "Constructed through international cooperation and investment",
+        "Critical for the industrial development of the Kayes Region"
+      ]
+    },
+    {
+      "id": "felou-hydroelectric-plant-economic-v2",
+      "descriptionAdvanced": "The Félou Hydroelectric Plant is a strategic energy facility located on the Senegal River near the city of Kayes. Built at the site of the historic Félou Falls, this modern run-of-river plant was the first new project completed under the OMVS regional energy program in the 21st century. It provides a reliable source of electricity for Mali, Senegal, and Mauritania, contributing to the stability of the regional power grid. The plant's efficient design uses the river's natural flow to generate clean power with minimal social and environmental disruption. Félou is a key industrial landmark in western Mali, supporting the region's mining and urban growth. Geography K7 — Hydroelectric power and the Senegal River.",
+      "factsAdvanced": [
+        "Modern run-of-river hydroelectric plant near Kayes",
+        "Located at the site of the scenic Félou river falls",
+        "First 21st-century project of the OMVS regional authority",
+        "Generates 60 megawatts of clean, renewable electricity",
+        "Supplies power to the integrated West African energy grid",
+        "Strategically important for the city of Kayes and western mines",
+        "Minimizes reservoir impact through efficient flow utilization",
+        "Symbolizes successful regional cooperation in West Africa"
+      ]
+    },
+    {
+      "id": "sotuba-hydroelectric-plant-economic-v2",
+      "descriptionAdvanced": "The Sotuba Hydroelectric Plant is a historic and vital energy facility located in Bamako, at the Sotuba rapids on the Niger River. As one of the oldest power plants in Mali, it has played a foundational role in the urbanization and industrialization of the capital city. The plant utilizes a diversion canal and the natural drop of the rapids to generate electricity. Recently modernized and expanded, Sotuba continues to be an essential source of renewable energy, particularly for the central administrative and industrial districts of Bamako. It is a unique industrial landmark that integrates the power of the Niger River directly into the urban fabric of the capital. Economy K6 — Urban energy and the Niger River.",
+      "factsAdvanced": [
+        "One of Mali's oldest and most central hydroelectric plants",
+        "Located at the Sotuba rapids in the heart of Bamako",
+        "Harnesses the Niger River to power the capital city",
+        "Recently expanded with a second plant (Sotuba II)",
+        "Crucial for the stability of the Bamako urban power grid",
+        "Utilizes a strategic diversion canal and natural rapids",
+        "A rare example of mid-river urban hydroelectric power",
+        "Instrumental in Mali's early 20th-century modernization"
+      ]
+    },
+    {
+      "id": "siribala-sugar-mill-economic-v2",
+      "descriptionAdvanced": "The Siribala Sugar Mill is a prominent industrial facility in the Ségou Region, operated by the SUKALA company within the Office du Niger irrigation zone. The mill is dedicated to processing vast quantities of sugar cane into refined sugar and industrial alcohol. As one of Mali's largest agribusiness sites, it supports thousands of workers and outgrowers, making it a cornerstone of the regional economy. The facility's production is vital for meeting Mali's domestic sugar demand and reducing reliance on imports. Siribala's mill is a prime example of the large-scale industrial-agricultural complexes that define the productive landscape of the Niger valley. Economy K6 — Agribusiness and sugar refining.",
+      "factsAdvanced": [
+        "Major sugar processing and refining mill in central Mali",
+        "Operated by SUKALA in the heart of the Office du Niger",
+        "Processes thousands of tons of locally grown sugar cane",
+        "Produces refined sugar and molasses for the national market",
+        "Key industrial employer in the Ségou Region",
+        "Essential for Mali's strategy of food self-sufficiency",
+        "Located in one of Africa's most successful irrigation zones",
+        "Supports a large-scale industrial-agricultural workforce"
+      ]
+    },
+    {
+      "id": "bamako-industrial-zone-economic-v2",
+      "descriptionAdvanced": "The Bamako Industrial Zone is the economic heart of Mali's manufacturing sector, located primarily in the Sotuba and Banankabougou districts of the capital. This area hosts a diverse range of factories producing essential goods for the national market, including food processing, plastics, beverages, and pharmaceuticals. The zone is characterized by its large-scale warehouses and modern industrial units, reflecting the city's role as the primary center for investment and innovation in Mali. It is a vital engine for job creation and urban development, connecting Mali's agricultural raw materials with the growing demands of its urban population. Economy K6 — Manufacturing and urban industry.",
+      "factsAdvanced": [
+        "Primary industrial and manufacturing hub of Mali",
+        "Located in the eastern districts of the capital, Bamako",
+        "Hosts diverse factories for food, textiles, and chemicals",
+        "Major center for national employment and industrial training",
+        "Strategic node for the distribution of manufactured goods",
+        "Key driver of urban economic growth and investment",
+        "Includes large-scale bottling and food processing plants",
+        "Reflects the modernization of Mali's urban economy"
+      ]
+    },
+    {
+      "id": "kita-peanut-processing-economic-v2",
+      "descriptionAdvanced": "The Kita Peanut Processing facilities are the center of Mali's groundnut industry, located in the fertile Kayes Region. These industrial units, including oil mills and shelling plants, process the vast harvest of peanuts from the surrounding Kita district, which is the nation's leading producer. The output includes refined cooking oil and peanut cake, which is a vital high-protein feed for Mali's livestock sector. Historically, peanut production was the primary export of the region, and today it remains a cornerstone of rural livelihoods and food security. The Kita facilities represent the essential link between Malian smallholders and the national food industry. Economy K6 — Peanut industry and livestock feed.",
+      "factsAdvanced": [
+        "National hub for the processing of groundnuts (peanuts)",
+        "Produces refined peanut oil and high-protein animal feed",
+        "Located in Kita, the 'Peanut Capital' of western Mali",
+        "Key industrial asset for the agricultural Kayes Region",
+        "Supports tens of thousands of local peanut farmers",
+        "Essential for Mali's domestic cooking oil supply",
+        "Historically the main export industry of western Mali",
+        "Major contributor to regional economic stability and jobs"
+      ]
+    },
+    {
+      "id": "yanfolila-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Yanfolila Gold Mine is a modern and efficient industrial mining operation located in the Sikasso Region of southern Mali. Operated by Hummingbird Resources, it focuses on extracting gold from high-grade deposits in the Wassoulou geological zone. The mine utilizes conventional open-pit methods and a state-of-the-art carbon-in-leach processing plant. Yanfolila is a significant economic contributor to the southern region, providing employment and supporting community development projects in a historically agricultural area. Its successful development has diversified Mali's gold production beyond the traditional western mining belts, highlighting the mineral potential of the south. Economy K6 — Gold mining in southern Mali.",
+      "factsAdvanced": [
+        "Major industrial gold mine in the southern Sikasso Region",
+        "Operated by Hummingbird Resources in the Wassoulou zone",
+        "Utilizes modern carbon-in-leach (CIL) processing technology",
+        "Significant source of employment for the Yanfolila district",
+        "Highly efficient open-pit operation with high-grade ore",
+        "Expands Mali's gold mining sector into the southern regions",
+        "Supports local health, education, and water infrastructure",
+        "Major contributor to national mineral export revenue"
+      ]
+    },
+    {
+      "id": "kalana-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Kalana Gold Mine is one of Mali's oldest industrial gold mines, located in the southern Sikasso Region. Unlike many of Mali's massive open-pit operations, Kalana is primarily an underground mine with a long history dating back to the Soviet era of exploration. The mine is famous for its high-grade quartz-vein gold deposits and has been a reliable producer for decades. Currently undergoing major modernization and expansion, Kalana is poised to remain a vital part of Mali's mining landscape. It represents the historical depth of Mali's industrial mining sector and the continued potential for high-grade underground resources in the south. Economy K6 — Underground mining and high-grade deposits.",
+      "factsAdvanced": [
+        "Historically significant underground gold mine in southern Mali",
+        "Located near the town of Kalana in the Sikasso Region",
+        "Famous for high-grade quartz-vein gold mineralization",
+        "Originally developed with Soviet technical assistance",
+        "Undergoing major modernization to increase industrial output",
+        "One of the longest-running industrial mines in the country",
+        "Key contributor to the regional economy of southern Mali",
+        "Demonstrates the long-term potential of Malian mineral sites"
+      ]
+    },
+    {
+      "id": "kodieran-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Kodieran Gold Mine is a significant industrial mining operation located in the Bougouni district of southern Mali. It is notable for being one of the first large-scale mines in Mali developed through domestic leadership and investment (Wassoul'Or). The mine utilizes open-pit methods to extract gold from the prolific Wassoulou gold belt. Kodieran has been a major employer in the region and a symbol of Mali's growing capacity to manage its own mineral wealth. The mine's development has contributed to the transformation of the Bougouni area into a major industrial and logistics hub, supporting both gold and emerging lithium projects. Economy K6 — Domestic mining investment and Bougouni.",
+      "factsAdvanced": [
+        "Major industrial gold mine in the Bougouni district",
+        "Developed through significant Malian domestic investment",
+        "Located in the productive Wassoulou gold-bearing belt",
+        "Utilizes large-scale open-pit mining and processing",
+        "Key driver of economic development in southern Mali",
+        "Significant industrial employer for the local community",
+        "Features a modern carbon-in-leach processing facility",
+        "Supports Mali's goal of greater control over its mineral sector"
+      ]
+    },
+    {
+      "id": "falea-uranium-project-economic-v2",
+      "descriptionAdvanced": "The Falea Project is a major mineral exploration and development site located in the extreme southwest of Mali, near the borders of Guinea and Senegal. It is world-renowned for its significant deposits of uranium, copper, and silver, representing a major potential diversification of Mali's mining sector. The project is situated in a remote and geologically complex area of the western highlands. While still in the development phase, Falea has attracted significant international investment and has been the subject of extensive environmental and social impact studies. It represents the future potential of Mali as a multi-commodity mineral producer in West Africa. Economy K6 — Strategic minerals and uranium exploration.",
+      "factsAdvanced": [
+        "Major uranium, copper, and silver deposit in western Mali",
+        "Strategically located near the Guinea and Senegal borders",
+        "One of West Africa's most significant uranium exploration sites",
+        "Represents a potential new pillar for the Malian economy",
+        "Located in the remote and scenic Falea highland plateau",
+        "Subject to rigorous international environmental impact studies",
+        "Attracts global investment for strategic mineral resources",
+        "Key to Mali's strategy of mining sector diversification"
+      ]
+    },
+    {
+      "id": "bougouni-lithium-project-economic-v2",
+      "descriptionAdvanced": "The Bougouni Lithium Project is one of the most exciting new developments in Mali's mining sector, marking the country's entry into the global green energy supply chain. Located in the Sikasso Region, the project targets large-scale spodumene deposits, which are a primary source of lithium for electric vehicle batteries. As one of the largest lithium projects in West Africa, it has the potential to transform Bougouni into a major industrial hub. The project represents a significant shift in Mali's mining industry, moving from traditional gold mining toward the strategic minerals required for the global energy transition. Economy K6 — Green energy minerals and lithium mining.",
+      "factsAdvanced": [
+        "One of the largest lithium mining projects in West Africa",
+        "Strategically located in the mineral-rich Bougouni district",
+        "Targets high-grade spodumene for electric vehicle batteries",
+        "Major driver of Mali's transition to 'green energy' minerals",
+        "Expected to create thousands of jobs in southern Mali",
+        "Attracts significant international investment from battery firms",
+        "Key for Mali's role in the global lithium supply chain",
+        "Represents the next frontier of Malian industrial mining"
+      ]
+    }
+  ]
+}

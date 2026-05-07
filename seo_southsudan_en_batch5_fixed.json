@@ -1,0 +1,204 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-kinyeti-nature-v2",
+      "descriptionAdvanced": "Mount Kinyeti is the highest peak in South Sudan, rising to an elevation of 3,187 meters within the Imatong Mountains. The mountain is characterized by a dramatic zonation of vegetation, ranging from tropical rainforests at the base to alpine meadows and montane scrub near the summit. It is a critical biodiversity hotspot, hosting several endemic species of flora and fauna that are found nowhere else on Earth. The peak is often shrouded in mist and receives high levels of rainfall, making it a vital watershed for the surrounding Equatoria plains. Science K8 – Altitude and mountain ecosystems.",
+      "factsAdvanced": [
+        "Highest peak in South Sudan (3,187m)",
+        "Part of the Imatong Mountain range",
+        "Hosts diverse tropical and alpine vegetation",
+        "Home to several endemic bird and plant species",
+        "Vital watershed for the southeastern region",
+        "Often covered in high-altitude clouds and mist",
+        "Primary destination for ecological research"
+      ]
+    },
+    {
+      "id": "imatong-mountains-nature-v2",
+      "descriptionAdvanced": "The Imatong Mountains are a spectacular mountain range in southeastern South Sudan, forming part of the Eastern Rift Valley's ecological system. They are renowned for their high levels of biodiversity, featuring one of the last remaining areas of intact Afro-montane forest in the region. The mountains are a haven for wildlife, including leopards, various primates, and over 300 species of birds. The range serves as a massive natural water tower, with numerous rivers and streams originating from its slopes to feed the Nile basin. Geography K8 – Mountain biodiversity and watersheds.",
+      "factsAdvanced": [
+        "Significant Afro-montane forest ecosystem",
+        "Home to South Sudan's highest peaks",
+        "Hotspot for over 300 species of birds",
+        "Vital source of permanent rivers for the Nile",
+        "Rich in valuable timber species like teak",
+        "Characterized by high rainfall and cool climates",
+        "Strategic ecological zone on the Uganda border"
+      ]
+    },
+    {
+      "id": "white-nile-southsudan-nature-v2",
+      "descriptionAdvanced": "The White Nile in South Sudan is a world-class geographical and ecological marvel, serving as the spine of the nation's environmental landscape. As the river flows north from the Great Lakes of Africa, it expands into the vast Sudd wetlands, creating a unique habitat for millions of migratory birds and diverse aquatic life. The river's annual flood cycle determines the rhythm of life for millions of pastoralists and farmers who depend on its fertile silts. The White Nile is not only a source of water and food but also a primary transport artery and a key site for future renewable energy. Geography K7 – Global river systems and their ecosystems.",
+      "factsAdvanced": [
+        "Major branch of the world's longest river",
+        "Maintains the hydrological balance of the Sudd",
+        "Critical artery for national transport and trade",
+        "Primary source of water for Nilotic livestock",
+        "Habitat for crocodiles, hippos, and Nile perch",
+        "Determines the agricultural cycles of the Nile valley",
+        "Crucial node for regional energy and water security"
+      ]
+    },
+    {
+      "id": "sudd-wetland-nature-v2",
+      "descriptionAdvanced": "The Sudd is the world's largest freshwater wetland, covering a vast area in central South Sudan. It is a complex mosaic of open water, papyrus swamps, and seasonally flooded grasslands. The Sudd acts as a massive natural filter for the Nile's waters and is one of the most productive ecosystems on Earth. It is a sanctuary for the largest animal migration in Africa, involving millions of antelopes, and provides a critical breeding ground for diverse fish and bird species. The preservation of the Sudd is essential for both the regional climate and the livelihoods of millions of Nilotic people. Science K8 – Importance of large-scale wetlands.",
+      "factsAdvanced": [
+        "World's largest freshwater wetland ecosystem",
+        "Designated as a Ramsar Site of international importance",
+        "Home to massive migrations of kob and tiang",
+        "Natural regulator of the White Nile's flow",
+        "Characterized by impenetrable papyrus thickets",
+        "Major nursery for diverse Nilotic fish species",
+        "Critical for regional climate and water cycles"
+      ]
+    },
+    {
+      "id": "boma-plateau-nature-v2",
+      "descriptionAdvanced": "The Boma Plateau is a high-altitude region in eastern South Sudan, renowned for hosting one of the most spectacular wildlife spectacles on the planet. Every year, millions of white-eared kob, tiang, and Mongalla gazelles migrate across the plateau in search of fresh pastures, rivaling the famous Serengeti migration. The plateau's landscape is a mix of grasslands, savannas, and woodlands, providing a diverse habitat for large predators and endangered species like the African wild dog. It is the heart of Boma National Park and represents one of the last great wilderness areas in East Africa. Science K6 – Wildlife migrations and conservation.",
+      "factsAdvanced": [
+        "Site of the massive white-eared kob migration",
+        "High-altitude plateau with diverse landscapes",
+        "Core area of Boma National Park",
+        "Home to endangered African wild dogs",
+        "Vital grazing land for millions of antelopes",
+        "Important ecological link to the Ethiopian Highlands",
+        "One of Africa's largest intact savanna ecosystems"
+      ]
+    },
+    {
+      "id": "mount-lado-nature-v2",
+      "descriptionAdvanced": "Mount Lado is a distinctive inselberg rising sharply from the plains north of Juba. It is a prominent landmark for travelers along the Nile and has deep cultural significance for the Bari people. The mountain's slopes are covered in savanna woodland and provide a refuge for local wildlife in an area that is increasingly used for agriculture. Its isolation and elevation create a unique microclimate, supporting a variety of birds and small mammals. Mount Lado is also a popular site for hiking and offers panoramic views of the White Nile and the surrounding Equatoria landscape. Geography K7 – Inselbergs and volcanic landmarks.",
+      "factsAdvanced": [
+        "Prominent inselberg rising from the Juba plains",
+        "Cultural landmark for the local Bari community",
+        "Visible for miles along the White Nile corridor",
+        "Provides panoramic views of the Nilotic landscape",
+        "Habitat for local savanna bird and mammal species",
+        "Important site for regional spiritual traditions",
+        "Popular destination for local hiking and exploration"
+      ]
+    },
+    {
+      "id": "gondokoro-island-nature-v2",
+      "descriptionAdvanced": "Gondokoro Island is a large, fertile island in the White Nile, located just north of Juba. It is characterized by lush tropical vegetation and is used extensively for vegetable farming to supply the capital city. The island's surrounding channels are rich in fish and provide a sanctuary for various aquatic birds. Historically, the area was a key landing point for 19th-century explorers, but today it is primarily an agricultural and ecological haven. The island's position in the river makes it a unique ecosystem that blends terrestrial and aquatic habitats in a dynamic Nilotic environment. Science K4 – Life on river islands.",
+      "factsAdvanced": [
+        "Large fertile island in the White Nile near Juba",
+        "Major source of fresh produce for the capital",
+        "Surrounded by rich Nilotic fishing grounds",
+        "Hotspot for diverse aquatic and riverine birds",
+        "Characterized by lush, year-round green vegetation",
+        "Historical landing site for early Nile explorers",
+        "Unique blend of riverine and island ecosystems"
+      ]
+    },
+    {
+      "id": "lantoto-forest-nature-v2",
+      "descriptionAdvanced": "Lantoto Forest is a significant area of tropical rainforest located in Western Equatoria, near the border with the Democratic Republic of Congo. It is part of the northeastern extension of the Congo Basin forest system and hosts a variety of species typical of Central African jungles. The forest is home to elephants, chimpanzees, and a vast array of tropical birds and butterflies. As a critical part of South Sudan's 'Green Belt', Lantoto plays a vital role in carbon sequestration and maintaining the region's high rainfall patterns. Its preservation is essential for the country's forest biodiversity. Science K8 – Tropical rainforests and the Congo Basin.",
+      "factsAdvanced": [
+        "Part of the Congo Basin's northern forest edge",
+        "Home to chimpanzees and forest elephants",
+        "High biodiversity of tropical birds and butterflies",
+        "Located in the fertile Western Equatoria region",
+        "Critical for regional carbon storage and rainfall",
+        "Contains valuable tropical hardwood species",
+        "Essential sanctuary for Central African wildlife"
+      ]
+    },
+    {
+      "id": "southern-national-park-forest-nature-v2",
+      "descriptionAdvanced": "Southern National Park is one of South Sudan's oldest and largest protected areas, covering a vast expanse of savanna and gallery forests in the Bahr el Ghazal region. The park is characterized by its network of rivers, including the Sue and Jur, which support a high density of wildlife. It is a major stronghold for large mammals such as buffalo, giraffes, and various species of antelope. The park's diverse habitats, ranging from open grasslands to dense riverine forests, make it a critical area for the conservation of South Sudan's natural heritage and a potential center for future eco-tourism. Science K6 – National parks and habitat protection.",
+      "factsAdvanced": [
+        "One of the largest national parks in South Sudan",
+        "Located in the diverse Bahr el Ghazal region",
+        "Major habitat for buffalo, giraffe, and waterbuck",
+        "Contains extensive networks of gallery forests",
+        "Crossed by the Sue and Jur river systems",
+        "Strategic area for large mammal conservation",
+        "Potential hub for future national eco-tourism"
+      ]
+    },
+    {
+      "id": "nimule-rapids-nature-v2",
+      "descriptionAdvanced": "The Nimule Rapids, also known as the Fula Rapids, are a spectacular natural feature of the White Nile near the border with Uganda. Here, the river is forced through a narrow rocky gorge, creating a powerful and beautiful display of white water. The rapids are a focal point of Nimule National Park and are famous for the hippos and elephants that can often be seen along the riverbanks. The high-energy environment of the rapids is not only a scenic wonder but also a significant potential source of renewable hydroelectric energy for the country. Geography K7 – River energy and the Upper Nile.",
+      "factsAdvanced": [
+        "Spectacular rapids on the Mountain Nile",
+        "Also known as the Fula or Nimule Rapids",
+        "Located within the Nimule National Park",
+        "Key site for viewing elephants and hippos",
+        "Major potential site for hydroelectric power",
+        "Characterized by high-velocity white water",
+        "Scenic landmark on the Uganda-South Sudan border"
+      ]
+    },
+    {
+      "id": "bahr-el-jebel-river-nature-v2",
+      "descriptionAdvanced": "The Bahr el Jebel, or 'River of the Mountains', is the name given to the White Nile as it flows from Nimule north through the southern part of South Sudan. This section of the river is known for its steep gradient and powerful currents as it descends from the East African plateau. It meanders through a scenic landscape of hills and savannas before entering the vast Sudd swamps. The Bahr el Jebel is a critical artery for transport and energy, and its fertile banks support a high density of traditional agriculture and livestock herding. Geography K7 – The high-altitude section of the Nile.",
+      "factsAdvanced": [
+        "Section of the White Nile from Nimule to the Sudd",
+        "Known for its steep descent and powerful current",
+        "Name translates from Arabic as 'River of the Mountains'",
+        "Primary transport artery for southern South Sudan",
+        "Home to the spectacular Fula and Nimule rapids",
+        "Vital for future hydroelectric power development",
+        "Supports diverse riverside farming and herding"
+      ]
+    },
+    {
+      "id": "kidepo-river-nature-v2",
+      "descriptionAdvanced": "The Kidepo River is a seasonal waterway that flows through the spectacular Kidepo Valley in the far southeast of South Sudan. During the rainy season, it is a powerful force that carves through the sandy valley floor, but in the dry season, it becomes a vast sandy riverbed where wildlife digs for water. The river and its surrounding valley are part of a shared ecosystem with Uganda's Kidepo Valley National Park, hosting a rich variety of wildlife including lions, ostriches, and elephants. Its remote and dramatic landscape makes it one of the most beautiful and wild regions of the country. Science K5 – Life in seasonal river valleys.",
+      "factsAdvanced": [
+        "Seasonal river in the far southeastern corner",
+        "Flows through the scenic Kidepo Valley",
+        "Shared ecosystem with Uganda's Kidepo National Park",
+        "Habitat for lions, ostriches, and large elephant herds",
+        "Becomes a vast sandy highway in the dry season",
+        "Remote and pristine savanna wilderness",
+        "Strategic area for transboundary wildlife conservation"
+      ]
+    },
+    {
+      "id": "aluk-lake-nature-v2",
+      "descriptionAdvanced": "Lake Aluk is a significant freshwater body located in the Bahr el Ghazal region, serving as a critical resource for local Dinka and Jur communities. The lake is part of a complex wetland system that provides essential water for livestock and supports a productive local fishing industry. It is surrounded by fertile grasslands that are used for seasonal agriculture and grazing. Lake Aluk is also an important habitat for various species of waterfowl and aquatic plants, contributing to the ecological diversity of the western floodplains. Science K4 – Wetlands and community resources.",
+      "factsAdvanced": [
+        "Important freshwater lake in Bahr el Ghazal",
+        "Vital resource for local herding communities",
+        "Supports a thriving regional fishing industry",
+        "Surrounded by fertile seasonal floodplains",
+        "Major habitat for Nilotic water bird species",
+        "Key water source in the western savanna belt",
+        "Part of the larger Jur-Nile wetland system"
+      ]
+    },
+    {
+      "id": "bengengai-forest-nature-v2",
+      "descriptionAdvanced": "Bengengai Forest is a pristine area of tropical forest in Western Equatoria, known for its incredible density of mahogany and teak trees. It is part of the 'Green Belt' of South Sudan, receiving some of the highest rainfall in the country. The forest is a critical habitat for various forest-dwelling species, including rare primates and a wide variety of tropical birds. Bengengai is also important for the local Azande people, who utilize the forest for traditional medicine, honey, and sustainable hunting. Its preservation is a priority for maintaining the country's forest cover and biodiversity. Science K8 – Sustainable use of forest resources.",
+      "factsAdvanced": [
+        "Pristine tropical forest in Western Equatoria",
+        "Part of South Sudan's high-rainfall 'Green Belt'",
+        "Rich in mahogany, teak, and other valuable woods",
+        "Major habitat for rare primates and forest birds",
+        "Source of traditional medicine and wild honey",
+        "Critical for local climate and water cycles",
+        "Important site for sustainable forestry research"
+      ]
+    },
+    {
+      "id": "ironstone-plateau-nature-v2",
+      "descriptionAdvanced": "The Ironstone Plateau is a major geographical feature of southwestern South Sudan, characterized by its reddish, iron-rich soil and its undulating landscape. This plateau forms the watershed between the Nile and Congo basins. It is covered in a mosaic of broadleaf woodlands and savannas, providing a habitat for a variety of wildlife, including various antelope species. The region's unique geology influences the type of vegetation that grows here and the agricultural practices of the local communities. The Ironstone Plateau is a critical ecological zone that defines much of the environment of Western Equatoria. Geography K8 – Geology and its influence on ecosystems.",
+      "factsAdvanced": [
+        "Dominant geographical feature of the southwest",
+        "Characterized by reddish, iron-rich laterite soils",
+        "Forms the Nile-Congo continental watershed",
+        "Covered in vast broadleaf savanna woodlands",
+        "Influences regional agricultural and herding patterns",
+        "Habitat for diverse savanna mammal species",
+        "Key ecological transition zone in Equatoria"
+      ]
+    }
+  ]
+}

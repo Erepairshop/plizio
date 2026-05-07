@@ -1,0 +1,195 @@
+{
+  "lang": "hu",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-usumacinta-guatemala-nature-v2",
+      "descriptionAdvanced": "A Río Usumacinta Mezoamerika legbővizűbb és leghatalmasabb folyója, amely a guatemalai magasföldeken ered, majd Guatemala (Petén megye) és Mexikó (Chiapas állam) természetes határvonalát alkotja hosszú szakaszokon keresztül, mielőtt a Mexikói-öbölbe ömlik. Ez a masszív, gyakran örvényekkel és zuhatagokkal teli folyó a klasszikus maja civilizáció fő kereskedelmi (jade, obszidián, kakaó) és kulturális 'autópályája' volt; partjait olyan lenyűgöző romvárosok szegélyezik, mint Yaxchilán és Piedras Negras. A folyó medencéje hatalmas trópusi dzsungeleket és mocsarakat (Lacanadon őserdő) táplál, és otthont ad az amerikai krokodilnak, a bőgőmajmoknak és több száz madárfajnak. Ugyanakkor a régió a drogcsempészet és az illegális határátlépések miatt ma is konfliktuszóna. Földrajz K8 — határfolyók és a maja folyami kereskedelem.",
+      "factsAdvanced": [
+        "A Usumacinta Mezoamerika legnagyobb vízhozamú folyója.",
+        "Természetes és geopolitikai határt (frontera) képez Guatemala és Mexikó között.",
+        "A klasszikus korban ez volt a legfontosabb maja kereskedelmi folyami útvonal.",
+        "Partjain olyan jelentős régészeti lelőhelyek találhatók, mint Piedras Negras és Yaxchilán.",
+        "A Pásión és a Salinas folyók összefolyásából (Altar de Sacrificiosnál) születik meg.",
+        "Erőteljes sodrása és hírhedt zuhatagai (rauda) kedveltek a vadvízi evezősök (rafting) körében."
+      ]
+    },
+    {
+      "id": "lago-peten-itza-nature-v2",
+      "descriptionAdvanced": "A Lago Petén Itzá a hatalmas északi dzsungel, Petén megye ékköve, és Guatemala második legnagyobb tava az Izabal-tó után. A karsztos mélyedésben kialakult tó kristálytiszta vize meleg, színárnyalatai a mélykékből a zöldbe hajlanak. Történelmileg a tó volt a menedéke az itza majáknak (akik a mexikói Yucatánból vándoroltak ide), és szigetén, Tayasalon (ma Flores szigete) építették fel utolsó, független királyságukat. A tó ökoszisztémája rendkívül gazdag: a környező esőerdőkben tapírok és jaguárok élnek, míg a víz a helyi krokodiloknak (lagartos) ad otthont. A tó északi partján található a Cerro Cahuí Biotóp, míg a déli, sekélyebb részek San Benito és Santa Elena nyüzsgő városainak kikötőjeként szolgálnak. Földrajz K7 — karszttavak és trópusi ökoszisztémák.",
+      "factsAdvanced": [
+        "Guatemala második legnagyobb tava (99 négyzetkilométer), de az egyik legmélyebb is (kb. 160 méter).",
+        "A tó vizéből emelkedik ki a híres Isla de Flores, az ősi Tayasal maja város helyszíne.",
+        "A tó teljesen endoreikus (zárt) medence, vagyis nincs felszíni lefolyása az óceán felé.",
+        "Vizében jellegzetes faj a Morelet-krokodil (Crocodylus moreletii) és a 'blanco' halfajta.",
+        "Északi partján fekszik az érintetlen Cerro Cahuí trópusi rezervátum.",
+        "A vízszint az elmúlt évtizedekben ciklikus ingadozásokat mutatott, hol kiszáradt, hol elöntötte a falvakat."
+      ]
+    },
+    {
+      "id": "rio-dulce-guatemala-nature-v2",
+      "descriptionAdvanced": "A Río Dulce (Édes Folyó) egy viszonylag rövid (kb. 43 km), de földrajzilag és gazdaságilag kulcsfontosságú vízi útvonal, amely az Izabal-tó hatalmas víztömegét vezeti le a Karib-tengerbe (Amatique-öböl). A folyó az 'El Golfete' nevű tóvá szélesedik ki, mielőtt bevetné magát a híres Kanyonba (El Cañón del Río Dulce), ahol sűrű trópusi dzsungellel borított, függőleges, 100 méteres mészkőfalak között kanyarog. A folyó sötét, meleg vize az egyik utolsó közép-amerikai menedéke a kihalófélben lévő karibi manátusznak (tengeri tehén), amelyet a helyi Chocón Machacas biotóp próbál védeni. A folyót a spanyoloktól kezdve a kalózokig mindenki használta, ma pedig a jachtok (hurrikánmenedék) és az ökoturizmus paradicsoma, amit a garífuna és q'eqchi' kultúra övez. Földrajz K6 — karibi folyami torkolatok és mészkőkanyonok.",
+      "factsAdvanced": [
+        "Az Izabal-tavat (Guatemala legnagyobb tava) köti össze a Karib-tengerrel Livingstonnál.",
+        "Alsó folyásán egy látványos, 100 méter mély mészkő kanyonon halad keresztül.",
+        "A 'hurricane hole' (hurrikánmenedék) a Karib-tengeri jachtosok egyik legfontosabb kikötője.",
+        "Otthont ad a ritka és szigorúan védett karibi manátuszoknak (tengeri teheneknek).",
+        "A spanyol gyarmati időkben a Castillo de San Felipe erőd védte a kalózok betöréseitől.",
+        "A folyó feletti hatalmas híd (Puente Río Dulce) az egyik legfontosabb összeköttetés a Petén régió felé."
+      ]
+    },
+    {
+      "id": "volcan-de-agua-nature-v2",
+      "descriptionAdvanced": "A Volcán de Agua (Víz Vulkán) egy lenyűgöző, tökéletesen kúp alakú (stratovulkán) hegycsúcs, amely fenségesen magasodik Antigua Guatemala történelmi városa fölé (3 760 méter). A maják Hunapú néven ('a virágok helye') tisztelték. Neve (Víz Vulkán) egy tragikus történelmi eseményből fakad: 1541. szeptember 11-én egy hatalmas iszap- és kőlavina (lahar), amelyet valószínűleg egy felgyülemlett krátertó átszakadása okozott, lezúdult a hegyoldalon, és teljesen elpusztította a spanyolok második fővárosát, Ciudad Vieját (Almolonga völgye). Ez a katasztrófa ölte meg Beatriz de la Cueva kormányzónőt is, és kényszerítette a túlélőket a mai Antigua megalapítására. Ma a vulkán inaktív, lejtőit kávéültetvények, feljebb pedig ködös felhőerdők borítják. Földrajz K8 — inaktív stratovulkánok és lahar (iszapár) katasztrófák.",
+      "factsAdvanced": [
+        "Magassága 3 760 méter, szimmetrikus kúpja Antigua Guatemala ikonikus háttere.",
+        "Az inaktív vulkánt a kaqchikel maják 'Hunapú'-nak hívták.",
+        "1541-ben a kráterből kiömlő hatalmas víz- és sárlavina (lahar) elpusztította az akkori fővárost, Ciudad Vieját.",
+        "Errol a vízi katasztrófáról (és nem lávakitörésrol) kapta a spanyol 'Víz Vulkán' nevet.",
+        "A hegy alsóbb lejtőit az ország legjobb minőségű kávéültetvényei (pl. Finca Filadelfia) borítják.",
+        "Meredek, erdős csúcsa népszerű a hegymászók körében, bár gyakran sűrű köd takarja be."
+      ]
+    },
+    {
+      "id": "rio-cahabon-nature-v2",
+      "descriptionAdvanced": "A Río Cahabón egy hatalmas sodrású, vad és tiszta vizű hegyi folyó, amely Alta Verapaz megye sűrű trópusi esőerdeit és karsztos (mészköves) hegyvonulatait szeli át. A folyó neve világszerte ismert a vadvízi evezősök (rafting) körében (főként III. és IV. osztályú zuhatagai miatt), és Guatemala ökoturizmusának egyik legfontosabb artériája. A Cahabón a leglátványosabb formáját a Semuc Champey-nél mutatja meg, ahol dühöngő víztömege egy 300 méteres természetes mészkőhíd alá bukik a föld alá, miközben a felszínen csendes türkizkék forrásmedencék alakultak ki. A folyó később beömlik a Polochic-folyóba, majd a Karib-tengerbe (Izabal-tó). Vize az utóbbi években éles társadalmi viták központjába is került a rajta épülő vízerőművek (hidroeléctricas) miatt, amelyek ellen a helyi q'eqchi' maja közösségek hevesen tiltakoznak. Földrajz K7 — karsztos búvópatakok és a vízenergia társadalmi hatásai.",
+      "factsAdvanced": [
+        "A vadvízi evezősök (rafting) körében Közép-Amerika egyik leghíresebb folyója.",
+        "A Semuc Champey természeti csodájánál a folyó egy hatalmas mészkőhíd (barlang) alatt folyik át.",
+        "A q'eqchi' maja falvak számára a mindennapi élet, halászat és tisztálkodás alapja.",
+        "A medre mentén épülő modern vízerőművek súlyos ellenállást (és pereket) váltottak ki a helyiek részéről.",
+        "Az esős évszakban vízhozama drasztikusan megnő, és színe csokoládébarnává válik az iszaptól.",
+        "A folyó a Lanquín barlangrendszerhez is kapcsolódik Alta Verapaz karsztos hegyeiben."
+      ]
+    },
+    {
+      "id": "laguna-lachua-nature-v2",
+      "descriptionAdvanced": "A Laguna Lachuá egy lenyűgöző, szinte tökéletesen kör alakú (cenote típusú) természetes tó Alta Verapaz megye északi részén, sűrű, síkvidéki trópusi esőerdővel (Eco-región Lachuá) körülvéve. A tó és a környező park egyedülálló, zárt ökoszisztémát alkot. A víz tiszta és enyhén kénes illatú (a q'eqchi' név is a 'büdös vízre' utal), ami miatt szúnyogok és moszkitók egyáltalán nem élnek a tó partján. Mivel a tó szigorúan védett nemzeti park (Ramsari vizesélőhely), horgászni tilos, és a helyi halak olyannyira nem félnek az embertől, hogy meg is csipkedik a vízben álló fürdőzőket. A tó körüli párás dzsungel otthont ad jaguároknak, bőgőmajmoknak és színes tukánoknak, míg maga a tó mélysége (több mint 200 méter a közepén) és eredete – hogy karsztos beomlás vagy ősi meteoritkráter – a mai napig izgatja a kutatók fantáziáját. Földrajz K8 — kör alakú karszttavak és zárt erdei ökoszisztémák.",
+      "factsAdvanced": [
+        "Tökéletes köralakú, cenote jellegű krátertó, a közepén meghaladja a 220 méteres mélységet.",
+        "A víz nagyon magas kén- és kalciumtartalmú, ezért nincsenek szúnyogok a parton.",
+        "A tó neve a q'eqchi' 'li chu há' (büdös víz) kifejezésből származik.",
+        "A halak teljesen szelídek, és védett státuszuk miatt a tóban tilos bármilyen halászat.",
+        "Ramsari egyezmény által védett vizesélőhely, amelyet sűrű trópusi esőerdő övez.",
+        "Az ökoszisztéma fennmaradását veszélyezteti a környező területek agresszív erdőirtása (illegális farmok)."
+      ]
+    },
+    {
+      "id": "montanas-mayas-nature-v2",
+      "descriptionAdvanced": "A Maja-hegység (Montañas Mayas vagy Sierra Maya) egy alacsony, ám rendkívül zord, sűrű dzsungellel borított hegylánc, amely Kelet-Peténből (Guatemala) nyúlik át Dél-Belizébe. A guatemalai oldalon a hegység keleti, elszigetelt része (például Poptún és Dolores közelében) hatalmas, megközelíthetetlen karsztfennsíkokból és mély barlangrendszerekből (mint a híres Naj Tunich) áll, amiket ritka fenyőerdők ('pinares') és trópusi őserdő borít. Ez a régió szolgáltatott a klasszikus maja civilizáció számára olyan luxuscikkeket, mint a gránit (őrlőkövekhez), a hematit és a pirit, amelyek hiányoztak az alföldi mészkőrétegekből. Ma a hegyvidék a guatemalai fakitermelés, a csempészútvonalak és a guatemalai-belize-i határvita legkonfliktusosabb földrajzi területe. Földrajz K7 — karsztos trópusi hegységek és határon átnyúló ökoszisztémák.",
+      "factsAdvanced": [
+        "Ez a hegylánc az egyetlen jelentős (magaslati) kiemelkedés a hatalmas peténi-yucatáni síkságon.",
+        "Geológiailag Közép-Amerika egyik legősibb, gránitot, vulkáni kőzetet és mészkövet is tartalmazó hegye.",
+        "A klasszikus maják számára a hegység fontos nyersanyagforrás volt (gránit metatékhoz, pirit tükrökhöz).",
+        "A hegy gyomra gigantikus barlangrendszereket (pl. Chiquibul, Naj Tunich) rejt.",
+        "A guatemalai és belize-i határ egy jelentős része ezen a sűrű dzsungel-hegygerincen fut keresztül.",
+        "Keleti (belize-i) oldala a magas csapadék miatt esőerdő, míg a guatemalai oldalán fenyőerdők is megélnek."
+      ]
+    },
+    {
+      "id": "biotopo-del-quetzal-nature-v2",
+      "descriptionAdvanced": "A Biotopo del Quetzal (hivatalosan Biotopo Universitario Mario Dary Rivera) Baja Verapaz megye sűrű hegyein (Purulhá mellett) egy több mint 1000 hektáros rezervátum, amelyet kifejezetten Guatemala szent nemzeti madara, az élénk smaragdzöld és vörös tollazatú Resplendent Quetzal védelmére alapítottak 1976-ban. A rezervátum egy tipikus, érintetlen 'köderdő' vagy felhőerdő (bosque nuboso), amely 1500–2300 méteres tengerszint feletti magasságban helyezkedik el. Ezen a klímán a levegő páratartalma szinte mindig 100%-os, az állandó ködszitálás (chipi-chipi) pedig buja növényzetet: mohával borított, 30-40 méter magas fákat, óriási páfrányokat és epifitonokat (broméliák, orchideák) eredményez. A quetzal fennmaradása szorosan kötődik az itt élő 'aguacatillo' fa apró terméséhez. A park bejárása során a fákról csöpögő víz állandó eső illúzióját kelti a túrázóknak. Földrajz K6 — a köderdők ökoszisztémája (epifitonok) és az ornitológia.",
+      "factsAdvanced": [
+        "A felhőerdő ökoszisztémáját védi, ahol a fák ágait teljesen beborítják a mohák, páfrányok és broméliák.",
+        "Az alapító Mario Dary Rivera (akiről a parkot is elnevezték) célja a quetzal életterének, az 'aguacatillo' fának a megmentése volt.",
+        "Az átlagos páratartalom 100% közeli, amit a karibi szelek hoznak és hűlnek le a hegyen (orografikus csapadék).",
+        "A quetzal (Pharomachrus mocinno) mellett a rezervátum pumáknak, tapíroknak és bőgőmajmoknak is otthont ad.",
+        "A madár megpillantására a legjobb időszak a fészkelési szezon (március-június) kora hajnalban.",
+        "A rezervátum a guatemalai egyetem (USAC) kezelésében és biológiai felügyelete alatt áll."
+      ]
+    },
+    {
+      "id": "rio-la-pasion-nature-v2",
+      "descriptionAdvanced": "A Río La Pasión a guatemalai Alta Verapaz hegyeiből eredő, majd a hatalmas északi Petén-alföldön (Sayaxché városán át) kanyargó, lassan hömpölygő, barna vizű trópusi folyó. A Pásión kulcsfontosságú földrajzi és történelmi artéria volt: a klasszikus maja civilizáció (Ceibal, Dos Pilas, Cancuén) ezen a 'vízi autópályán' keresztül szállította a fegyvereket és a luxuscikkeket. Később a spanyol és európai favágók (monterías) használták a drága mahagónirönkök leúsztatására. A folyó a mexikói határhoz közeledve egyesül a Salinas-folyóval, létrehozva a masszív Usumacinta-folyót. Bár a folyami ökoszisztéma gazdag halakban, teknősökben és Morelet-krokodilokban, a 2015-ös évben a La Pasión nemzetközi botrány helyszíne lett: a közeli afrikai pálmaolaj-ültetvények (Repsába cég) mérgező vegyszerkibocsátása miatt több millió tonna hal pusztult el a folyóban ('ecocidio'), megfojtva a helyi közösségek halászati megélhetését. Földrajz K8 — folyami ökoszisztémák és az agroipari vízszennyezés.",
+      "factsAdvanced": [
+        "A Pásión a Petén megye déli részének legfontosabb vízgyűjtője, lassú, alföldi sodrással kanyarog (meanderek).",
+        "A Salinas folyóval egyesülve (az Altar de Sacrificios romoknál) alkotják meg a hatalmas Usumacinta folyót.",
+        "A maja klasszikus korban (Kr.u. 300-900) Közép-Amerika legforgalmasabb és leggazdagabb folyami kereskedelmi útja volt.",
+        "A 19. és 20. században a trópusi fák (főleg a mahagóni és cédrus) kitermelésének és úsztatásának központja.",
+        "2015-ben a folyón történt Guatemala történetének egyik legnagyobb ökológiai katasztrófája egy pálmaolaj-gyár szivárgása miatt.",
+        "Sayaxché városánál ma is csak egy sodronyköteles komppal (ferry) lehet átkelni a folyón járművekkel."
+      ]
+    },
+    {
+      "id": "sipacate-naranjo-national-park-nature-v2",
+      "descriptionAdvanced": "A Parque Nacional Sipacate-Naranjo (Escuintla megye) a guatemalai csendes-óceáni partvidék utolsó, érintetlen mangrove-paradicsoma. A közel 2 000 hektáros, védett terület lagúnákból, mangroveerdőkből és a nyílt óceán fekete vulkáni homokos strandjaiból (Poza del Nance) áll. A terület a madarak (pelikánok, gémek, kormoránok) vándorlásának (Pacific Flyway) kulcsfontosságú téli menedéke. A park biológiai jelentősége felbecsülhetetlen, mivel ez az egész csendes-óceáni medence egyik legaktívabb tengeriteknős-fészkelőhelye (parlama és baule teknősök). A tengeri hullámzás és az iszapos, sósvízi mangrovelabirintus (amely a garnélarákok bölcsője) között a helyi halászok (lancheros) és ökoturisták osztoznak. A park folyamatos fenyegetettségben él a terjeszkedő cukornádültetvények, a fakitermelés és a klímaváltozás (tengerszint-emelkedés) miatt. Földrajz K7 — mangrove ökoszisztémák, torkolatvidékek és a biodiverzitás.",
+      "factsAdvanced": [
+        "A part menti mangrove mocsarak 4 mangrove fajból (vörös, fehér, fekete és 'botoncillo') épülnek fel.",
+        "A tenger és a szárazföld sós és édesvizének keveredési zónája (estuárium).",
+        "Több mint 90 féle vándor- és rezidens trópusi madárfaj fontos fészkelő és piheno helye.",
+        "A fekete homokos tengerparton (Poza del Nance) az év bizonyos szakaszaiban zöld és fattyúteknősök (parlamas) százai raknak tojást.",
+        "A sűrű mangrove gyökérzete létfontosságú az óceáni halak és garnélarákok ivadékainak túléléséhez.",
+        "Az ipari mezőgazdaság (főleg a cukornád) növényvédőszerei és a víz elterelése állandó ökológiai fenyegetést jelentenek a parkra."
+      ]
+    },
+    {
+      "id": "laguna-brava-yolnabaj-nature-v2",
+      "descriptionAdvanced": "A Laguna Brava, vagy helyi, chuj maja nevén a Yolnabaj, Guatemala talán leginkább elszigetelt, misztikus szépségű hegyi tava, amely Huehuetenango megye messzi nyugati határvidékén, a Cuchumatanes-hegység és a mexikói (Chiapas) határ ölelésében rejtőzik. A tó 1140 méter tengerszint feletti magasságban, sűrű karsztos trópusi erdőkkel övezve fekszik. A víz elképesztő türkiz és mélykék színekben pompázik, és a mészben gazdag (karsztos) földalatti források, patakok (mint a Río Pojóm) táplálják. Nevét ('Vad Lagúna') onnan kapta, hogy az erős hegyi szelek gyakran veszélyes, felkorbácsolt hullámokat vetnek a felületén. A tavat sokáig csak a helyi indiánok ismerték, de ma már a legkalandvágyóbb ökoturisták (akik hajlandók órákig 4x4-es dzsipekkel rázkódni a sárban) is látogatják a rejtett vízesései és a híres 'cenoték' (beszakadt víznyelők) miatt. Földrajz K8 — nehezen megközelíthető karszttavak és határmenti természeti csodák.",
+      "factsAdvanced": [
+        "A tó a mexikói határ közvetlen közelében fekszik, a 'Lagos de Montebello' (Chiapas) vízrendszerének guatemalai folytatása.",
+        "Chuj maja nyelven 'Yolnabaj', a 'Brava' (Vad) nevet a szeles időben kialakuló veszélyes hullámai miatt kapta.",
+        "A tó vizének türkizkék, olykor zöldes árnyalatát a talaj magas mészkő- (kálcium-karbonát) tartalma adja.",
+        "Tengerszint feletti magassága 1 140 méter, klímája hűvös, gyakran nagyon párás és ködös.",
+        "A tó déli részén hatalmas, cenote típusú víznyelők (mint az 'El Cimarrón') találhatók vízesésekkel.",
+        "Csak extrém, saras földutakon, négykerék-meghajtású járművekkel (vagy hosszú gyalogtúrával) közelíthető meg Nentón községből."
+      ]
+    },
+    {
+      "id": "volcan-chingo-nature-v2",
+      "descriptionAdvanced": "A Volcán Chingo egy gyönyörű, teljesen szimmetrikus, inaktív stratovulkán a guatemalai Jutiapa és a salvadori Santa Ana megye pontos határvonalán. A 1775 méter magas csúcs magát a geopolitikai határt ('mojón') jelöli a két ország között. Jutiapa megye forró, lapos szavannái (a Száraz Folyosó) közül kiemelkedő Chingo vulkánt mindkét ország lakói a sajátjuknak tekintik. Kialudt kráterében, amely már teljesen fűvel és fákkal benőtt, egy széles, lapos 'völgy' található, mely népszerű célpont a vulkántúrázók és a táborozók körében. Bár a vulkán békésen alszik a történelem előtti idők óta, tövéből ma is lávamezők (malpaís) és hőforrások bújnak elő a salvadori oldalon, emlékeztetve a táj heves vulkáni eredetére. A csúcsról tiszta időben az El Salvador-i Coatepeque-tó és a guatemalai síkságok is beláthatók. Földrajz K7 — határképző stratovulkánok és száraz-trópusi domborzat.",
+      "factsAdvanced": [
+        "A vulkán csúcsa alkotja Guatemala (Jutiapa) és El Salvador hivatalos geopolitikai határát.",
+        "Magassága 1 775 méter, ami a környező forró, alacsony (Oriente) síkságokból drámaian emelkedik ki.",
+        "Teljesen inaktív stratovulkán, a történelem során nem jegyeztek fel kitörést róla.",
+        "Krátere sekély, tágas és füves, tökéletes helyszín sátorozáshoz a túrázóknak.",
+        "A guatemalai Jutiapa megye (La Cuna del Sol) egyik legismertebb vizuális szimbóluma.",
+        "A hegy lábánál kiterjedt 'malpaís' (ősi, sziklás lávamezők) és elszórt kávéültetvények találhatók."
+      ]
+    },
+    {
+      "id": "caribbean-sea-coast-nature-v2",
+      "descriptionAdvanced": "Guatemala karib-tengeri partvidéke (Izabal megye, az Amatique-öböl környékén) drasztikusan különbözik az ország sötét homokos, nyílt és haragos csendes-óceáni partjaitól. A karibi part (Puerto Barrios, Livingston, Punta de Manabique) rövid, alig 148 km hosszú, de biológiailag a leggazdagabb tengerparti ökoszisztéma Guatemalában. Az öblöt pálmafás, fehér vagy aranyszínű homokos strandok, sűrű mangroveerdők, kiterjedt tengerifű-mezők (pastos marinos) és kis kiterjedésű, ám gazdag korallzátonyok (Arrecifes de la Corona) jellemzik. A Karib-tenger itt csendes, meleg és sekély. Ezt a lenyűgöző partvidéket a garífuna (afro-karibi) és q'eqchi' maja kultúrák teszik egyedivé, akiknek élete szorosan összefonódik a tengeri halászattal (barrakuda, rák) és a kókuszdión alapuló hagyományos gasztronómiával. Földrajz K6 — a Karib-tengeri ökoszisztémák és az öblök dinamikája.",
+      "factsAdvanced": [
+        "Guatemala karib-tengeri partvidéke csupán kb. 148 kilométer hosszú Izabal megyében.",
+        "A tengerpart zöme védett a nyílt óceántól, így az Amatique-öböl vize csendes, meleg és viszonylag sekély.",
+        "Élőhelye a veszélyeztetett karibi manátuszoknak (tengeri tehenek) a gazdag tengerifű-mezőknek köszönhetően.",
+        "A part mentén található a kis kiterjedésű, de biológiailag diverz guatemalai korallzátony (Arrecifes Punta de Manabique).",
+        "A karibi part fehér vagy világos homokos, ellentétben a csendes-óceáni partok fekete vulkáni homokjával.",
+        "A partszakasz főként csak hajóval (lanchas) közelíthető meg Puerto Barriosból (pl. Livingston irányába)."
+      ]
+    },
+    {
+      "id": "pacific-coast-guatemala-nature-v2",
+      "descriptionAdvanced": "Guatemala csendes-óceáni partvidéke (La Costa Sur) egy közel 250 kilométer hosszú, egyenes és drámai vonal, amely a mexikói határtól (San Marcos) az El Salvador-i határig (Jutiapa) húzódik. Ezt a partot szinte teljes egészében fekete, vulkáni hamuból álló, vasban gazdag finom homok borítja, amelyet a belső Altiplano hatalmas vulkánjaiból az esők és folyók hordtak le évmilliók alatt. A Csendes-óceán ('Océano Pacífico') itt nevével ellentétben vad és veszélyes: nincsenek védett öblök vagy szigetek, a nyílt óceáni áramlatok hatalmas hullámokat ('olas') és hírhedten erős visszahúzó áramlatokat ('alfaques') generálnak, így a partvidék a szörfösök (pl. El Paredón) paradicsoma, de komoly veszélyt jelent a gyakorlatlan fürdőzőkre. A part mentén hatalmas mangrove-mocsarak és torkolatrendszerek (Canal de Chiquimulilla) védik a szárazföldet az óceán pusztító erejétől. Földrajz K7 — vulkáni homokos tengerpartok és óceáni áramlatok.",
+      "factsAdvanced": [
+        "A guatemalai csendes-óceáni part szinte 100%-ban vasban gazdag, fekete vulkáni homokból áll.",
+        "A partvonal több mint 250 km hosszú, szinte teljesen egyenes, öblök és természetes kikötők nélkül.",
+        "A nyílt óceáni hullámzás ('resaca') eta miatt rendkívül eros a visszahúzó áramlat (alfaques), ami sok vízi balesetet okoz.",
+        "Világszerte egyre népszerűbb a hullámlovasok (szörfösök) körében (pl. El Paredón, Sipacate strandjai).",
+        "A tengerpart mögött hosszan elnyúló lagúna- és mangroverendszer, a Canal de Chiquimulilla húzódik.",
+        "Ezen a partvidéken (pl. Monterrico) tízezrével fészkelnek az olajzöld és a hatalmas kérgesteknősök."
+      ]
+    },
+    {
+      "id": "ceibal-forest-reserve-nature-v2",
+      "descriptionAdvanced": "A Ceibal (vagy Seibal) Régészeti Parkot övező trópusi erdőrezervátum (Reserva Cultural y Natural Ceibal) Petén megyében a Río La Pasión meredek mészkőpartjain terül el. A rezervátum nemcsak az egyedülálló klasszikus maja romok és sztélék megőrzését szolgálja, hanem a guatemalai dzsungel utolsó érintetlen szigeteinek egyike a gyorsan terjeszkedő pálmaolaj-ültetvények tengerében. Az erdőt olyan óriási fák uralják, mint a mahagóni (caoba), a guatemalai nemzeti fa, a hatalmas gyökerekkel kapaszkodó Ceiba, és a cédrus (cedro). Az érintetlen lombsátor kiváló menedéket nyújt a bőgőmajmoknak (saraguatos) – akiknek üvöltése kísértetiesen visszhangzik a kősztélék között –, valamint a tukánoknak és jaguároknak. A park csak hosszú folyami csónakúttal, vagy nehéz terepen közelíthető meg Sayaxchéből. Földrajz K7 — folyóparti esőerdők és a trópusi keményfák védelme.",
+      "factsAdvanced": [
+        "A rezervátum a Pásión-folyó (Río La Pasión) kanyarulatában egy mészkő magaslaton terül el.",
+        "Az erdőt a nevét adó gigantikus Ceiba (kapok) fák (a maják világfája) uralják.",
+        "Jelentős menedék a bőgőmajmok (monos aulladores) és a pókmajmok (monos araña) számára.",
+        "A rezervátum szigetszerűen maradt fenn a környék erőszakos erdőirtásai (pálmaolaj) ellenére.",
+        "Az esőerdő sűrű lombozata és fojtófügéi (matapalos) szorosan körbefonják az itteni maja romokat.",
+        "A trópusi esőerdő és a történelmi örökség ('patrimonio mixto') együttes és integrált védelmét szolgálja."
+      ]
+    }
+  ]
+}

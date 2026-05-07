@@ -1,0 +1,340 @@
+{
+  "lang": "en",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kisii-cities-v2",
+      "descriptionAdvanced": "Kisii is the bustling commercial and administrative capital of Kisii County, located in the fertile highlands of southwestern Kenya at an elevation of 1,700 meters. The town experiences robust, year-round rainfall and features deep volcanic soils, creating an intensely productive agricultural environment dominated by smallholder tea, coffee, and massive banana plantations. Renowned as a major cultural epicenter for the industrious Gusii people, the town is characterized by its extremely high population density and frantic commercial activity. It serves as a primary collection point for fresh produce destined for Kisumu and Nairobi. Kisii is also highly famous for its soapstone carving industry, notably centered in the nearby Tabaka region, which exports intricate sculptures globally. Economics K7 — Cash crops and artisanal crafts.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters for Kisii County.",
+        "Located in the southwestern highlands at an elevation of 1,700 meters.",
+        "Nationally famous for the extensive soapstone carving industry in nearby Tabaka.",
+        "The surrounding region is characterized by exceptionally high rural population density.",
+        "A major collection hub for bananas, tea, and coffee from Gusii smallholders.",
+        "Kisii University was fully chartered as an independent institution in 2013.",
+        "The urban center had a recorded population of approximately 112,000 in 2019."
+      ]
+    },
+    {
+      "id": "hola-cities-v2",
+      "descriptionAdvanced": "Hola is an isolated, culturally diverse town functioning as the administrative capital of Tana River County in eastern Kenya. Positioned on the western banks of the massive Tana River at an elevation of just 55 meters, the settlement endures a hot, semi-arid climate. Hola is historically infamous as the site of the Hola massacre in 1959, where British colonial authorities beat to death 11 detained Mau Mau fighters, an event that profoundly accelerated the push for Kenyan independence. Today, the town's economy is deeply intertwined with the Tana River, supporting irrigated agriculture, notably the Bura Irrigation and Settlement Project located slightly to the north. Culturally, it acts as a peaceful confluence for the Pokomo agriculturalists and Orma pastoralists. History K8 — Anti-colonial struggles.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters of Tana River County.",
+        "Located directly on the banks of the Tana River at just 55 meters elevation.",
+        "The site of the tragic Hola massacre in 1959 during the Mau Mau uprising.",
+        "The local economy relies heavily on river-fed irrigated agriculture.",
+        "Features a hot and semi-arid climate typical of the lower Tana basin.",
+        "Acts as a cultural boundary between the Pokomo and Orma communities.",
+        "The town's population was recorded at roughly 17,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "webuye-cities-v2",
+      "descriptionAdvanced": "Webuye is a heavily industrialized town located in Bungoma County, western Kenya, historically synonymous with the massive Pan African Paper Mills established in 1974. Situated along the major highway connecting Kenya to Uganda at an elevation of 1,525 meters, the town is physically divided by the fast-flowing Nzoia River, which powers local hydroelectric infrastructure. For decades, the paper mill was the absolute economic engine of the region, utilizing the nearby Kakamega Forest and massive pine plantations for pulp before falling into severe financial decline in the 2000s. Despite the industrial slump, Webuye remains a vital transport and agricultural transit hub, famous locally for the scenic Broderick Falls located just outside the urban center. Economics K8 — Industrial boom and decline.",
+      "factsAdvanced": [
+        "Historically dominated by the Pan African Paper Mills, opened in 1974.",
+        "Located along the primary highway corridor to the Ugandan border.",
+        "Bisected by the Nzoia River, featuring the scenic Broderick Falls.",
+        "Situated at an altitude of approximately 1,525 meters (5,003 feet).",
+        "The local economy has shifted toward agriculture and transit logistics.",
+        "Features the nearby Chetambe's Fort, a historical Bukusu defensive site.",
+        "The urban population was roughly 43,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "kimilili-cities-v2",
+      "descriptionAdvanced": "Kimilili is a highly productive agricultural town situated on the lush southern slopes of Mount Elgon within Bungoma County. Enjoying a cool, high-altitude climate at roughly 1,700 meters, the town sits in one of Kenya's most fertile agricultural zones. It is a massive collection point for regional maize, beans, and coffee, acting as a crucial food basket for the broader western province. Culturally, Kimilili is deeply rooted in the traditions of the Bukusu people, a prominent sub-tribe of the Luhya, and serves as a focal point for their elaborate biennial circumcision ceremonies. Despite its rural setting, the town has experienced rapid demographic and infrastructural growth, bolstered by the paving of the main road connecting it to the larger towns of Webuye and Kitale. Geography K6 — Slope agriculture and food security.",
+      "factsAdvanced": [
+        "Located on the fertile southern slopes of Mount Elgon.",
+        "Positioned at a high elevation of roughly 1,700 meters (5,577 feet).",
+        "A major regional collection point for massive maize and coffee harvests.",
+        "Functions as a profound cultural center for the Bukusu community.",
+        "Famous for hosting massive, highly synchronized biennial circumcision festivals.",
+        "Benefits from deep volcanic soils and extremely consistent annual rainfall.",
+        "The town recorded a population of roughly 56,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "makuyu-cities-v2",
+      "descriptionAdvanced": "Makuyu is an agricultural settlement positioned prominently along the bustling Nairobi-Nyeri highway in Murang'a County, central Kenya. Historically established as a center for massive European-owned coffee and sisal plantations during the colonial era, the town's landscape is still heavily defined by vast, meticulously organized estates. Located at an altitude of 1,400 meters, Makuyu enjoys a moderately cool climate that transitions smoothly from the intense highland cold to the warmer plains stretching eastward. In recent years, the town has become a critical logistical node due to its location on the expanded dual-carriageway, attracting modern warehousing and agro-processing facilities. It is also home to the massive Kakuzi Limited farm, one of Kenya's largest exporters of avocados and macadamia nuts. Economics K7 — Large-scale estate farming.",
+      "factsAdvanced": [
+        "Positioned strategically along the main Nairobi-Nyeri highway.",
+        "Located at an elevation of roughly 1,400 meters (4,593 feet).",
+        "Historically developed around massive colonial sisal and coffee plantations.",
+        "Home to sections of Kakuzi Limited, a massive avocado exporting corporation.",
+        "Functions as a transition zone between the central highlands and eastern plains.",
+        "The local economy relies heavily on wage labor on adjacent agricultural estates.",
+        "The urban center had an estimated population of 43,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "runyenjes-cities-v2",
+      "descriptionAdvanced": "Runyenjes is a picturesque agricultural town located on the intensely green eastern slopes of Mount Kenya within Embu County. Sitting at an altitude of approximately 1,450 meters, the town is characterized by its steeply terraced hillsides, meticulously cultivated by the local Embu community. Benefiting from exceptionally fertile volcanic soils and high annual rainfall fed by the mountain's microclimate, Runyenjes is an absolute powerhouse for smallholder coffee, tea, and macadamia nut production. The town also serves as a crucial staging point for the less-frequented eastern climbing routes up Mount Kenya. Historically a quiet farming community, it was elevated to municipal status in the late 20th century and has since seen steady infrastructural development, anchoring the county's agricultural wealth. Geography K6 — Terraced slope agriculture.",
+      "factsAdvanced": [
+        "Located on the steep eastern slopes of Mount Kenya at 1,450 meters.",
+        "A premier regional center for high-quality Arabica coffee production.",
+        "The surrounding terrain is characterized by intense, terraced smallholder farming.",
+        "Serves as an access point for the Chogoria climbing route up Mount Kenya.",
+        "The local economy is heavily bolstered by macadamia nut cultivation.",
+        "Positioned roughly 25 kilometers from the county capital, Embu town.",
+        "The town's population was recorded at approximately 61,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "mariakani-cities-v2",
+      "descriptionAdvanced": "Mariakani is a vital logistical and industrial town situated approximately 36 kilometers inland from Mombasa along the primary Nairobi-Mombasa highway. Straddling the border between Kilifi and Kwale counties, the town serves as a crucial weighbridge and inspection checkpoint for thousands of cargo trucks departing the Port of Mombasa daily. This immense volume of transit traffic forms the absolute backbone of the local informal economy. In recent decades, Mariakani has industrialized significantly, hosting major steel rolling mills, cement packaging facilities, and a massive military garrison belonging to the Kenya Defence Forces. The landscape is notably drier and hotter than the immediate coastline, characterized by resilient scrubland and baobab trees. Economics K7 — Freight logistics and weighbridges.",
+      "factsAdvanced": [
+        "Located 36 kilometers northwest of Mombasa on the primary transport corridor.",
+        "Hosts the critical Mariakani Weighbridge, inspecting all port-bound/departing cargo.",
+        "Straddles the administrative boundary between Kilifi and Kwale counties.",
+        "Features a major military barracks for the Kenya Defence Forces.",
+        "Has rapidly industrialized with the establishment of steel and cement plants.",
+        "The climate is significantly drier and hotter than the immediate coastal strip.",
+        "The urban population surged to roughly 89,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "awendo-cities-v2",
+      "descriptionAdvanced": "Awendo is an agriculturally dominant town located in Migori County, western Kenya, historically defined by the massive South Nyanza Sugar Company (SONY Sugar). Established in 1979, the sugar milling factory is the undeniable economic engine of the town, processing sugarcane harvested from thousands of surrounding smallholder farms. Situated at an elevation of roughly 1,450 meters within the fertile Lake Victoria basin, the town enjoys a warm, humid climate ideal for continuous sugarcane cultivation. The town's layout is heavily influenced by the industrial infrastructure, with vast company-owned estates blending into private farmlands. Beyond sugar, the local economy is supported by robust retail commerce serving the densely populated, predominantly Luo rural hinterland. Economics K7 — Mono-crop industrial reliance.",
+      "factsAdvanced": [
+        "The local economy is almost entirely anchored by the SONY Sugar Company.",
+        "The massive sugar milling factory was established by the government in 1979.",
+        "Located in Migori County at an elevation of roughly 1,450 meters.",
+        "Surrounded by thousands of acres of smallholder and corporate sugarcane farms.",
+        "Situated along the primary highway connecting Kisii to the Tanzanian border.",
+        "The town serves as a commercial center for the predominantly Luo local population.",
+        "The urban area recorded a population of roughly 17,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "litein-cities-v2",
+      "descriptionAdvanced": "Litein is a rapidly expanding commercial and agricultural town situated in Kericho County within the highly fertile South Rift region. Positioned at a high elevation of approximately 1,900 meters, the town is surrounded by a breathtaking landscape of rolling hills entirely blanketed by intensely green tea plantations. Unlike the massive corporate estates near Kericho town, the tea around Litein is predominantly grown by thousands of independent smallholder farmers who supply local processing factories like the Litein Tea Factory. This decentralized agricultural wealth has fostered a highly robust local retail and banking sector, making Litein one of the wealthiest rural towns in the region. The climate is notoriously cool and exceptionally wet, raining nearly year-round. Economics K7 — Decentralized cash crop wealth.",
+      "factsAdvanced": [
+        "Located in the highly fertile South Rift highlands of Kericho County.",
+        "Positioned at a cool, high elevation of approximately 1,900 meters.",
+        "The local economy is driven massively by smallholder tea farming.",
+        "Home to the prominent Litein Tea Factory, managed by local cooperatives.",
+        "Experiences an exceptionally wet microclimate with near-daily rainfall.",
+        "Has developed into a major regional hub for banking and agricultural retail.",
+        "The urban population was roughly 93,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "oyugis-cities-v2",
+      "descriptionAdvanced": "Oyugis is a prominent commercial and agricultural town located in Homa Bay County, nestled in the fertile hills of the southern Nyanza region. Sitting at an altitude of approximately 1,450 meters, the town benefits from excellent rainfall and deep soils, supporting a highly diversified agricultural output that includes maize, beans, bananas, and increasingly, sweet potatoes. Oyugis is nationally famous for its massive open-air market, which operates twice a week and draws thousands of traders from across western Kenya, forming the absolute core of the local economy. Culturally, it is a deeply significant center for the local Luo community and serves as a critical transport junction connecting Kisii, Homa Bay, and Kisumu. Economics K6 — Regional open-air markets.",
+      "factsAdvanced": [
+        "Located in the fertile highland region of Homa Bay County.",
+        "Situated at an elevation of approximately 1,450 meters (4,757 feet).",
+        "Hosts one of the largest and busiest bi-weekly open-air markets in western Kenya.",
+        "A major regional production zone for sweet potatoes and bananas.",
+        "Serves as a crucial transport junction linking Kisii to Lake Victoria towns.",
+        "Functions as a major cultural and commercial hub for the local Luo people.",
+        "The town's population was recorded at approximately 42,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "mombasa-port-economic-v2",
+      "descriptionAdvanced": "The Port of Mombasa, commonly referred to as Kilindini Harbour, is the largest and busiest deep-water seaport in East Africa, functioning as the absolute economic lifeline for Kenya and its landlocked neighbors. Established formally in 1896 as the terminus of the Uganda Railway, it is naturally sheltered by Mombasa Island, providing exceptionally deep and calm waters. The port handles over 30 million tonnes of cargo annually, including massive container shipments, bulk liquids, and vehicles. In recent years, it has undergone dramatic modernization, including the dredging of the channel to accommodate post-Panamax vessels and the construction of the massive Kipevu Container Terminal. It connects directly to the modern Standard Gauge Railway, massively increasing the speed of inland freight transit. Economics K8 — Global maritime logistics.",
+      "factsAdvanced": [
+        "Officially inaugurated in 1896 as the start of the Uganda Railway.",
+        "The largest and busiest deep-water seaport on the East African coast.",
+        "Handles over 30 million tonnes of diverse cargo annually.",
+        "Serves as the primary maritime gateway for landlocked Uganda, Rwanda, and South Sudan.",
+        "Features the highly automated Kipevu Container Terminal, expanded in 2016.",
+        "Directly integrated with the modern Standard Gauge Railway freight terminal.",
+        "Managed exclusively by the state-owned Kenya Ports Authority (KPA)."
+      ]
+    },
+    {
+      "id": "kisumu-port-economic-v2",
+      "descriptionAdvanced": "The Port of Kisumu is a critical inland maritime facility located on the eastern shores of Lake Victoria, historically serving as the primary hub for East African freshwater trade. Originally established in 1901 to connect the Uganda Railway with steamer ships traversing the massive lake, the port facilitated the movement of agricultural goods between Kenya, Uganda, and Tanzania for decades. After a period of severe decline and infrastructural decay in the late 20th century due to the collapse of the East African Community, the port underwent a massive, multi-million-dollar revitalization completed in 2019. Today, it features modernized docks, a rehabilitated dry dock for ship repair, and revived roll-on/roll-off ferry services, strategically repositioning Kisumu as a vital blue-economy hub. Economics K7 — Inland waterway revival.",
+      "factsAdvanced": [
+        "Originally established in 1901 as a major terminus for the Uganda Railway.",
+        "The premier Kenyan inland port located on Lake Victoria's Winam Gulf.",
+        "Underwent a massive $30 million revitalization project completed in 2019.",
+        "Facilitates international freshwater trade with Port Bell (Uganda) and Mwanza (Tanzania).",
+        "Features a rehabilitated 100-meter dry dock for building and repairing massive lake vessels.",
+        "Historically operated the iconic MV Victoria and MV Uhuru passenger ferries.",
+        "Crucial for the regional distribution of refined petroleum products via pipeline."
+      ]
+    },
+    {
+      "id": "lamu-port-economic-v2",
+      "descriptionAdvanced": "The Lamu Port is a colossal, ultra-modern deep-water seaport situated at Manda Bay, serving as the cornerstone of the ambitious LAPSSET (Lamu Port-South Sudan-Ethiopia-Transport) corridor project. Designed specifically to relieve congestion at Mombasa and open up Kenya's marginalized northern frontier, the port welcomed its first commercial vessel in 2021. Unlike Mombasa, Lamu Port is engineered to handle massive post-Panamax ships, with berths extending to a draft of 17.5 meters. While currently operating with its initial three berths, the ultimate master plan envisions an astounding 32 berths, integrating oil refineries, massive rail networks, and a resort city. The megaproject introduces a stark, futuristic industrial landscape to an area globally renowned for the ancient, undisturbed Swahili heritage of nearby Lamu Island. Economics K8 — Megaprojects and future trade.",
+      "factsAdvanced": [
+        "The cornerstone of the $24 billion LAPSSET corridor megaproject.",
+        "Located at Manda Bay, featuring a naturally deep draft of 17.5 meters.",
+        "The first of 32 planned berths was officially operationalized in May 2021.",
+        "Designed specifically to accommodate massive post-Panamax cargo vessels.",
+        "Intended to create a new logistics corridor for South Sudan and southern Ethiopia.",
+        "Represents the largest single infrastructure project in Kenya's northern history.",
+        "Introduces massive industrialization adjacent to the UNESCO-protected Lamu Old Town."
+      ]
+    },
+    {
+      "id": "athi-river-epz-economic-v2",
+      "descriptionAdvanced": "The Athi River Export Processing Zone (EPZ) is the largest and most significant industrial park of its kind in Kenya, located approximately 30 kilometers southeast of Nairobi. Established by the government in 1990 to catalyze export-led industrialization and attract foreign direct investment, the massive complex provides specialized infrastructure, tax holidays, and streamlined customs procedures. The zone is heavily dominated by the textile and apparel manufacturing sector, acting as a crucial engine for Kenya's utilization of the US African Growth and Opportunity Act (AGOA). Employing tens of thousands of workers, primarily from the adjacent Athi River and Kitengela towns, the EPZ is a frantic hive of globalized production. The facility operates almost as an independent economic city, fundamentally shaping the region's demographic explosion. Economics K8 — Free trade zones and globalization.",
+      "factsAdvanced": [
+        "Established by the Kenyan government in 1990 to boost manufactured exports.",
+        "The largest of Kenya's designated Export Processing Zones by volume and employment.",
+        "Heavily dominated by massive garment and textile manufacturing factories.",
+        "A critical hub for exports targeting the US market under the AGOA framework.",
+        "Provides operating firms with 10-year corporate tax holidays to attract investment.",
+        "Directly employs over 20,000 workers, heavily influencing local urban growth.",
+        "Features dedicated, high-capacity water, power, and customs infrastructure."
+      ]
+    },
+    {
+      "id": "magadi-soda-ash-economic-v2",
+      "descriptionAdvanced": "The Magadi Soda Ash Plant is a massive, highly specialized industrial facility located on the hostile, hyper-arid shores of Lake Magadi in the deep southern Rift Valley. The lake is a unique geological phenomenon, consisting of a vast, regenerating pan of solid solid sodium carbonate (trona) fed by highly alkaline hot springs. Established in 1911, the factory physically dredges the solid trona from the lake surface, processing it into highly refined soda ash used globally in glass manufacturing, metallurgy, and detergents. To transport this massive bulk, a dedicated 146-kilometer railway branch line was built to connect the remote factory directly to the main Uganda Railway at Kajiado. Operated today by Tata Chemicals, the facility is the absolute economic lifeline of this extremely isolated region. Earth Sciences K8 — Evaporite mining.",
+      "factsAdvanced": [
+        "Established in 1911 on the shores of the hyper-alkaline Lake Magadi.",
+        "Currently operated by Tata Chemicals Magadi, a massive global conglomerate.",
+        "Mines naturally regenerating solid trona (sodium carbonate) directly from the lake surface.",
+        "One of the largest producers of natural soda ash on the African continent.",
+        "A dedicated 146-kilometer railway line connects the remote plant to Kajiado.",
+        "Located in an extreme desert environment with temperatures frequently exceeding 35°C.",
+        "The processed soda ash is primarily exported for global glass manufacturing."
+      ]
+    },
+    {
+      "id": "ol-karia-geothermal-economic-v2",
+      "descriptionAdvanced": "The Olkaria Geothermal Power Station is a colossal, multi-plant energy complex situated immediately south of Lake Naivasha within the volcanically active Hell's Gate National Park. Harnessing the immense, superheated steam reservoirs trapped beneath the floor of the Great Rift Valley, Olkaria is the undisputed crown jewel of Kenya's renewable energy sector. The first plant, Olkaria I, was commissioned in 1981, making Kenya the first African nation to commercially exploit geothermal power. Following massive expansions, including Olkaria IV and V, the complex now generates nearly 50% of the nation's total electricity supply, providing highly reliable baseload power immune to the droughts that cripple hydroelectric dams. The landscape is surreal, defined by kilometers of massive, silver steam pipes weaving through wildlife habitats. Earth Sciences K8 — Geothermal energy extraction.",
+      "factsAdvanced": [
+        "The first geothermal power plant in Africa, commissioned in 1981.",
+        "Located within the geologically active Hell's Gate National Park.",
+        "Operated primarily by the state-owned Kenya Electricity Generating Company (KenGen).",
+        "The combined Olkaria complex generates nearly 50% of Kenya's total electricity grid.",
+        "Taps into superheated underground steam reservoirs reaching temperatures over 300°C.",
+        "Massive expansions, Olkaria IV and V, added over 300 MW to the grid recently.",
+        "Considered one of the largest single geothermal complexes in the world."
+      ]
+    },
+    {
+      "id": "thika-pineapple-cannery-economic-v2",
+      "descriptionAdvanced": "The Del Monte Pineapple Cannery in Thika is a colossal agro-industrial complex and one of the largest single fruit processing facilities on the African continent. Established in the mid-20th century, the factory is surrounded by a breathtaking expanse of over 10,000 acres of meticulously manicured pineapple plantations. The highly integrated operation handles the entire supply chain, from automated harvesting to canning and juice extraction, primarily targeting European and Middle Eastern export markets. The facility is a massive economic engine for Kiambu and Murang'a counties, employing thousands of permanent and seasonal workers. The sheer scale of the estate significantly dictates the local micro-economy, infrastructure, and even road layouts, functioning almost as an independent industrial fiefdom within the region. Economics K7 — Vertically integrated agribusiness.",
+      "factsAdvanced": [
+        "Operated by Del Monte Kenya Limited, a massive global agribusiness corporation.",
+        "The facility processes pineapples cultivated on an adjacent 10,000-acre mega-farm.",
+        "One of the largest exporters of canned fruit and juice on the African continent.",
+        "A highly vertically integrated operation controlling planting, harvesting, and canning.",
+        "The primary export markets for the processed fruit are Europe and the Middle East.",
+        "The massive estate crosses the boundaries of both Kiambu and Murang'a counties.",
+        "Directly and indirectly employs over 6,000 workers, dominating the local economy."
+      ]
+    },
+    {
+      "id": "bamburi-cement-factory-economic-v2",
+      "descriptionAdvanced": "The Bamburi Cement Factory, located just north of Mombasa island, is the largest and most historically significant cement manufacturing facility in East Africa. Founded in 1952 by the Swiss industrialist Felix Mandl, the plant was strategically positioned to exploit the massive fossilized coral limestone deposits that form the Kenyan coastline. Operating massive rotary kilns, the factory is a colossal consumer of energy and a primary driver of the regional construction boom, supplying cement for mega-projects like the Standard Gauge Railway. Uniquely, the company is globally celebrated for the Haller Park initiative; beginning in 1971, the severely degraded, barren limestone quarries adjacent to the factory were ecologically rehabilitated into a lush, thriving wildlife sanctuary, demonstrating pioneering industrial reclamation. Earth Sciences K8 — Limestone mining and ecological reclamation.",
+      "factsAdvanced": [
+        "Founded in 1952 by Swiss industrialist Felix Mandl.",
+        "The largest cement manufacturing facility in the East African region.",
+        "Strategically located to mine massive coastal deposits of fossilized coral limestone.",
+        "The adjacent depleted quarries were transformed into Haller Park, a major wildlife sanctuary.",
+        "A subsidiary of the massive global building materials conglomerate Holcim.",
+        "Supplied the majority of the cement for Kenya's Standard Gauge Railway project.",
+        "Operates colossal, high-temperature rotary kilns requiring massive energy inputs."
+      ]
+    },
+    {
+      "id": "webuye-panpaper-economic-v2",
+      "descriptionAdvanced": "The Pan African Paper Mills in Webuye is a massive, historically defining industrial complex that once stood as the undisputed industrial pride of western Kenya. Established in 1974 through a joint venture including the Kenyan government and the World Bank, the colossal facility was designed to make Kenya self-sufficient in paper production. It utilized thousands of hectares of pine and cypress plantations from the surrounding highlands. At its peak, the factory employed over 5,000 people and its massive smokestacks dominated the Webuye skyline. However, severe financial mismanagement, accumulating debt, and outdated machinery led to a catastrophic collapse, and the mill was placed under receivership in 2009. Despite multiple governmental attempts to revive it under private ownership, the facility operates at a fraction of its former glory. Economics K8 — State-owned enterprise collapse.",
+      "factsAdvanced": [
+        "Established in 1974 to manufacture paper using domestic timber resources.",
+        "At its peak, it was the largest paper manufacturing facility in East Africa.",
+        "Utilized massive softwood plantations from the nearby Mount Elgon and Cherangani regions.",
+        "Employed over 5,000 people directly, forming the absolute backbone of Webuye's economy.",
+        "Suffered a catastrophic financial collapse and was placed under receivership in 2009.",
+        "The massive industrial footprint features prominent, towering smokestacks visible for miles.",
+        "Recent privatization attempts have yielded limited operational revival."
+      ]
+    },
+    {
+      "id": "muhoroni-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The Muhoroni Sugar Factory is a deeply entrenched agro-industrial complex located in the Kano Plains of Kisumu County, serving as one of the oldest pillars of Kenya's sugar industry. Established in 1966, the state-owned mill processes raw sugarcane supplied by thousands of local out-grower farmers operating in the hot, humid Lake Victoria basin. The factory's massive, rusted infrastructure is a defining feature of the local landscape, reflecting decades of intense production. Historically, Muhoroni was highly unique in the region for operating a massive adjacent ethanol distillation plant, producing industrial spirits from sugar molasses. Unfortunately, the facility has suffered from severe chronic debt, outdated processing machinery, and frequent closures, epitomizing the broader systemic crises facing Kenya's state-owned sugar sector. Economics K7 — State-owned agribusiness struggles.",
+      "factsAdvanced": [
+        "Established in 1966, making it one of the oldest sugar mills in Kenya.",
+        "Located in the hot, humid Kano Plains ideal for sugarcane cultivation.",
+        "Operates primarily by processing cane supplied by local smallholder out-growers.",
+        "Historically featured a major adjacent plant distilling industrial ethanol from molasses.",
+        "A state-owned enterprise that has struggled with chronic debt and outdated machinery.",
+        "Placed under government receivership in 2001 due to severe financial collapse.",
+        "The factory's operations absolutely dictate the micro-economy of Muhoroni town."
+      ]
+    },
+    {
+      "id": "kenyatta-international-convention-centre-economic-v2",
+      "descriptionAdvanced": "The Kenyatta International Convention Centre (KICC) is not merely a landmark, but the historical nucleus of Nairobi's status as a global business and diplomatic hub. Commissioned in 1967 and completed in 1973, this striking 28-story, 105-meter tower was designed by Karl Henrik Nøstvik with a unique cylindrical form inspired by traditional African huts. For decades, it was the tallest structure in East Africa. Economically, KICC is the premier venue for massive international conferences, hosting pivotal UN summits, global trade expos, and African Union meetings, directly driving Nairobi's lucrative MICE (Meetings, Incentives, Conferences, and Exhibitions) tourism sector. Its vast plenary hall and state-of-the-art facilities established Kenya's reputation as a safe, capable host for high-level global commerce and diplomacy. Economics K8 — MICE tourism and diplomatic hubs.",
+      "factsAdvanced": [
+        "Completed in 1973 and served as the tallest building in East Africa until the 1990s.",
+        "Designed by Norwegian architect Karl Henrik Nøstvik with traditional African motifs.",
+        "Stands 105 meters (344 feet) tall, featuring a distinctive cylindrical tower.",
+        "The premier venue driving Kenya's MICE (Meetings, Incentives, Conferences, Exhibitions) economy.",
+        "Hosted the historic 1973 World Bank and IMF Board of Governors meeting.",
+        "Features a massive amphitheater designed to seat over 800 delegates.",
+        "Features a rooftop helipad providing panoramic views of the Nairobi skyline."
+      ]
+    },
+    {
+      "id": "eldoret-textile-mills-economic-v2",
+      "descriptionAdvanced": "The Eldoret Textile Mills, universally known as Rivatex, represents a colossal attempt at industrializing western Kenya through cotton value addition. Established in 1975, the massive facility was designed to spin, weave, and dye raw cotton sourced from the Kerio Valley and Nyanza regions into finished textiles. At its peak, it was a dominant force in the regional garment industry, employing thousands. Following a period of severe mismanagement and collapse in the 1990s, the factory was remarkably rescued when Moi University acquired it in 2007. Bolstered by massive recent investments, particularly from the Indian government, Rivatex has been comprehensively modernized with state-of-the-art looming machinery. Today, it stands as a unique, successful hybrid of a commercial manufacturing powerhouse and a university research and training facility. Economics K8 — Textile manufacturing and industrial revival.",
+      "factsAdvanced": [
+        "Originally established in 1975 as a major state-backed textile manufacturing plant.",
+        "Acquired by Moi University in 2007 to serve as a research and commercial facility.",
+        "Underwent a massive $30 million modernization funded largely by the Indian government in 2019.",
+        "Equipped to process raw cotton into spun yarn, woven fabrics, and dyed textiles.",
+        "Designed to absorb cotton production from the Kerio Valley and Baringo regions.",
+        "The largest fully integrated textile mill operating in the East African region.",
+        "Produces garments for state agencies, including police and military uniforms."
+      ]
+    },
+    {
+      "id": "turkana-oil-fields-economic-v2",
+      "descriptionAdvanced": "The Turkana Oil Fields, centered around the massive Ngamia-1 discovery site in the South Lokichar Basin, represent the volatile frontier of Kenya's fossil fuel economy. Discovered in 2012 by the British exploration firm Tullow Oil, these deep reserves marked the first time commercially viable crude oil was found in Kenya. The extraction occurs in a punishingly hot, hyper-arid desert environment characterized by acacia scrub and deep subterranean rift faulting. The project famously initiated the Early Oil Pilot Scheme in 2018, trucking heated, waxy crude over 1,000 kilometers to Mombasa for export. While promising immense national wealth, the project is highly complex, requiring heated pipelines due to the crude's high wax content, and navigating sensitive community dynamics regarding land and resource revenue sharing. Earth Sciences K8 — Fossil fuel extraction and rift basins.",
+      "factsAdvanced": [
+        "Commercially viable oil was first discovered at the Ngamia-1 well in 2012.",
+        "Located in the deep, geologically active South Lokichar Basin of the Rift Valley.",
+        "Exploration and extraction are primarily led by the British firm Tullow Oil.",
+        "The crude oil here is highly waxy, requiring heating to remain liquid during transport.",
+        "The Early Oil Pilot Scheme (EOPS) began trucking crude to Mombasa in 2018.",
+        "Estimated recoverable reserves in the basin exceed 560 million barrels.",
+        "Plans include constructing an 825-kilometer heated pipeline to the Lamu Port."
+      ]
+    },
+    {
+      "id": "kwale-titanium-mine-economic-v2",
+      "descriptionAdvanced": "The Kwale Titanium Mine is a colossal, highly mechanized extractive operation located in the coastal hinterlands of Kwale County, representing Kenya's largest mining project to date. Commencing production in 2013 under the Australian firm Base Resources, the facility utilizes massive hydraulic mining techniques to extract heavy mineral sands from ancient, fossilized coastal dunes. The operation separates rutile, ilmenite, and zircon—minerals critical for global pigment and titanium metal manufacturing. The scale of the project is immense, featuring its own dedicated dam for water supply, a massive processing plant, and a proprietary deep-water loading facility built directly at Likoni. The mine single-handedly catapulted the mining sector's contribution to the Kenyan GDP, though the primary ore bodies are projected to be depleted by the mid-2020s. Earth Sciences K8 — Mineral sand extraction.",
+      "factsAdvanced": [
+        "Kenya's largest modern mining operation, commencing production in late 2013.",
+        "Operated by Base Titanium, a subsidiary of the Australian firm Base Resources.",
+        "Extracts rutile, ilmenite, and zircon from fossilized coastal sand dunes.",
+        "Utilizes massive hydraulic mining monitors to slurry the ore for processing.",
+        "The company built a proprietary, dedicated marine loading terminal at Likoni.",
+        "Accounts for a massive percentage of Kenya's total mineral export revenues.",
+        "The primary known ore deposits are expected to face exhaustion around 2024."
+      ]
+    },
+    {
+      "id": "machakos-epz-economic-v2",
+      "descriptionAdvanced": "The Machakos Export Processing Zone is a rapidly expanding, highly strategic industrial park located in Machakos County, designed to mirror the massive success of the nearby Athi River EPZ. Situated with direct access to the recently upgraded dual-carriageway networks leading to Nairobi and the main Mombasa transport corridor, the zone offers global manufacturers a highly subsidized, tax-free operating environment. The facility is fundamentally driving the aggressive industrialization of the broader Ukambani region, shifting the local economy away from subsistence agriculture toward wage labor in massive garment assembly, agro-processing, and light manufacturing factories. By providing localized, large-scale employment, the Machakos EPZ significantly reduces commuter strain on Nairobi while embedding the region deeply into international supply chains. Economics K7 — Decentralized industrial zones.",
+      "factsAdvanced": [
+        "A designated, tax-exempt industrial park aimed at boosting manufactured exports.",
+        "Strategically located near the primary Nairobi-Mombasa transport and rail corridor.",
+        "Heavily focused on massive garment manufacturing and light industrial assembly.",
+        "Provides occupying firms with significant corporate tax holidays and customs waivers.",
+        "Acts as a major employment center, reducing commuter migration to Nairobi.",
+        "Benefits directly from Machakos County's rapid infrastructural and road modernization.",
+        "Firms operating here largely target exports under the US AGOA trade agreement."
+      ]
+    }
+  ]
+}

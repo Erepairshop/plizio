@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brikama-woodcarving-market-life-v2",
+      "descriptionAdvanced": "The Brikama Woodcarving Market is a vibrant, bustling center of traditional craftsmanship located in the West Coast Region. Known nationally as the epicenter of Gambian woodcraft, dozens of highly skilled artisans work in open-air stalls, carving everything from intricate djembe drums to massive, detailed mahogany statues. The market offers a unique, sensory experience characterized by the constant rhythmic tapping of chisels and the rich smell of freshly carved timber. It serves as a vital economic lifeline for the artisans, blending deep-rooted Mandinka artistic traditions with the modern demands of the international tourism sector. (Arts & Culture K5 — traditional crafts and artisan economies)",
+      "factsAdvanced": [
+        "Nationally recognized as the premier center for traditional woodcarving.",
+        "Located centrally in Brikama, the capital of the West Coast Region.",
+        "Features dozens of open-air stalls where artisans work directly in front of visitors.",
+        "Specializes in crafting traditional instruments like djembe drums and kora bases.",
+        "A critical economic engine supporting hundreds of local artisan families.",
+        "Blends ancient Mandinka artistic techniques with modern commercial tourism."
+      ]
+    },
+    {
+      "id": "tanji-fishing-village-life-v2",
+      "descriptionAdvanced": "The Tanji Fishing Beach is an incredibly vibrant, chaotic spectacle of traditional marine life located on the Atlantic coast. Every late afternoon, the beach explodes into activity as brightly painted wooden pirogues return through the surf, laden with the day's catch. Hundreds of people—fishermen, processors, and haggling buyers—wade into the water to unload the fish. The air is thick with the smoke from massive traditional fish-smoking houses that line the shore, preserving the catch for transport to inland markets. This beach provides a raw, unfiltered look at the immense scale and vitality of West Africa's informal marine economy. (Economics K6 — traditional fisheries and coastal livelihoods)",
+      "factsAdvanced": [
+        "The most famous and active artisanal fishing beach in The Gambia.",
+        "Features hundreds of brightly painted traditional wooden pirogues.",
+        "The daily afternoon landing is a massive, highly organized chaotic event.",
+        "Lined with extensive traditional smokehouses for preserving the daily catch.",
+        "A primary supplier of smoked bonga fish to the inland rural markets.",
+        "Provides a raw, unfiltered experience of a vital West African coastal economy."
+      ]
+    },
+    {
+      "id": "serekunda-central-market-life-v2",
+      "descriptionAdvanced": "The Serekunda Central Market is the sprawling, pulsating economic heart of The Gambia's largest urban area. It is a labyrinthine network of narrow alleys, corrugated iron stalls, and intense human traffic. The market is loosely organized into specialized zones selling fresh vegetables, pungent dried fish, vibrant Senegalese textiles, and modern electronics imported from Asia. For the vast majority of Serekunda's residents, this market is the daily source of all necessities. The sheer density and intense bartering culture provide a quintessential West African urban experience, reflecting the resilience and dynamism of the local informal economy. (Economics K7 — urban markets and informal trade)",
+      "factsAdvanced": [
+        "The largest, most densely packed commercial market in The Gambia.",
+        "Located in the exact center of the sprawling Serekunda metropolis.",
+        "A chaotic labyrinth of specialized alleys selling all daily necessities.",
+        "Famous for its vibrant textile sections selling imported and local fabrics.",
+        "The primary daily economic hub for the majority of the urban population.",
+        "Showcases the intense, dynamic nature of West African informal commerce."
+      ]
+    },
+    {
+      "id": "lamin-lodge-mangroves-life-v2",
+      "descriptionAdvanced": "Lamin Lodge is a unique, rustic structure built entirely of timber, perched precariously on stilts over the labyrinthine mangroves of the Tanbi Wetland Complex. Originally established as an oyster collection point, it has evolved into a famous eco-tourism and relaxation spot. The lodge offers a stunning, immersive view into the estuarine ecosystem, where visitors can watch local women in traditional dug-out canoes harvesting oysters directly from the submerged mangrove roots at low tide. The surrounding waters are rich with birdlife, providing a peaceful, natural retreat just minutes away from the chaotic urban sprawl of the capital region. (Geography K6 — mangrove ecosystems and traditional foraging)",
+      "factsAdvanced": [
+        "A large, multi-story timber lodge built on stilts directly over the water.",
+        "Located deep within the winding mangroves of the Tanbi Wetland Complex.",
+        "Originally functioned as a primary collection point for traditional oyster harvesters.",
+        "Visitors can directly observe local women foraging for oysters at low tide.",
+        "A premier, tranquil location for estuarine birdwatching near the urban coast.",
+        "Highlights the delicate balance between urban proximity and protected ecosystems."
+      ]
+    },
+    {
+      "id": "gunjur-turtle-conservation-life-v2",
+      "descriptionAdvanced": "The Gunjur Turtle Conservation project operates along the quiet, expansive sandy beaches of the southern Kombo coast. Led primarily by dedicated local volunteers and environmentalists, the project focuses on protecting the nesting sites of endangered Green and Loggerhead sea turtles. In the past, turtle eggs were heavily poached for food by local communities. Through intense grassroots education and nightly beach patrols during the nesting season, the project has successfully shifted local attitudes towards conservation. Today, the project not only protects wildlife but also draws eco-tourists eager to witness the delicate, life-affirming process of hatchlings making their way to the ocean. (Science K7 — marine conservation and community activism)",
+      "factsAdvanced": [
+        "A grassroots environmental project located on the southern beaches of Gunjur.",
+        "Dedicated to protecting the nests of endangered Green and Loggerhead sea turtles.",
+        "Operated almost entirely by local community volunteers and environmentalists.",
+        "Involves rigorous nightly beach patrols during the vulnerable nesting season.",
+        "Successfully campaigns against the traditional poaching of turtle eggs for food.",
+        "A prime example of community-led marine conservation in West Africa."
+      ]
+    },
+    {
+      "id": "njau-recycling-center-life-v2",
+      "descriptionAdvanced": "The Njau Recycling & Learning Center, located in the rural Central River Region, is an inspiring, women-led environmental initiative. Founded by local activist Isatou Ceesay, the project revolutionized waste management in the area by teaching women how to collect discarded plastic bags—which previously choked the local environment and killed livestock—and weave them into durable, colorful purses and accessories. This grassroots initiative successfully tackled a massive environmental crisis while simultaneously creating an entirely new, sustainable income stream for rural women, turning toxic pollution into empowerment and art. (Economics K8 — sustainable development and female empowerment)",
+      "factsAdvanced": [
+        "An innovative, women-led environmental project in the rural Central River Region.",
+        "Founded by renowned local environmental activist Isatou Ceesay.",
+        "Focuses on collecting toxic discarded plastic bags from the environment.",
+        "Teaches local women to weave the plastic into durable, marketable accessories.",
+        "Simultaneously addresses severe environmental pollution and rural poverty.",
+        "Recognized globally as a highly successful model of sustainable grassroots development."
+      ]
+    },
+    {
+      "id": "basse-peanut-fields-life-v2",
+      "descriptionAdvanced": "The sprawling peanut fields surrounding Basse Santa Su represent the agricultural backbone of the Upper River Region. Groundnuts (peanuts) have been the primary cash crop of The Gambia for over a century. During the rainy season, the rolling plains transform into a vibrant, low-lying sea of green. The harvest season, beginning in late autumn, is incredibly labor-intensive; entire families, often assisted by draft animals like donkeys and horses, work the fields to uproot, dry, and thresh the nuts. These fields are not just agricultural land; they dictate the entire economic rhythm and social calendar of the rural eastern communities. (Social Studies K6 — cash crop agriculture and rural labor)",
+      "factsAdvanced": [
+        "Expansive agricultural plains surrounding the eastern town of Basse Santa Su.",
+        "Dedicated to cultivating groundnuts (peanuts), the nation's primary cash crop.",
+        "Harvesting is highly labor-intensive, involving entire rural family units.",
+        "Relies heavily on traditional animal traction, particularly horses and donkeys.",
+        "The agricultural cycle strictly dictates the regional economic and social calendar.",
+        "A critical foundational layer of The Gambia's historical export economy."
+      ]
+    },
+    {
+      "id": "sapu-rice-station-life-v2",
+      "descriptionAdvanced": "The Sapu Rice Research Station is a critical agricultural institution located in the highly fertile floodplains of the Central River Region. Established decades ago to combat national food insecurity, the station focuses on developing high-yield, flood-resistant strains of rice adapted to the unique hydrology of the Gambia River. The surrounding landscape features expansive, meticulously irrigated rice paddies that look almost Southeast Asian in their intense green vibrancy. The station works directly with local farmers, providing training and improved seed varieties, striving toward the ultimate national goal of self-sufficiency in rice, the country's main staple food. (Science K8 — agricultural science and food security)",
+      "factsAdvanced": [
+        "A major agricultural research facility situated in the Central River Region.",
+        "Focuses on developing resilient, high-yield strains of rice for local climates.",
+        "Surrounded by expansive, highly managed irrigated rice paddies.",
+        "Aims to reduce the nation's heavy reliance on imported Asian rice.",
+        "Provides critical training and improved seed stock directly to local farmers.",
+        "Represents the front line of The Gambia's battle for domestic food security."
+      ]
+    },
+    {
+      "id": "kuntaur-rice-mill-life-v2",
+      "descriptionAdvanced": "The Kuntaur Rice Mill is a prominent industrial landmark located deep in the Central River Region, serving the massive agricultural floodplains. Built to process the harvest from local farmers, it represents a crucial step in adding value to domestic agriculture. During the harvest season, the area around the mill is constantly bustling with trucks and donkey carts delivering raw paddy rice. The facility cleans, husks, and polishes the grain, preparing it for commercial sale in urban markets. It stands as a vital piece of rural infrastructure, bridging the gap between subsistence farming and commercial food production. (Economics K7 — agricultural processing and rural infrastructure)",
+      "factsAdvanced": [
+        "A significant industrial rice processing facility located in the town of Kuntaur.",
+        "Serves the extensive, highly productive agricultural floodplains of the central river.",
+        "Processes raw paddy rice (cleaning, husking, polishing) for commercial markets.",
+        "Crucial for adding economic value to the crops of local rural farmers.",
+        "A vital infrastructural link between rural harvests and urban food supply.",
+        "Operates at intense capacity during the peak post-rainy season harvest."
+      ]
+    },
+    {
+      "id": "basse-groundnut-bay-life-v2",
+      "descriptionAdvanced": "The Basse Groundnut Loading Bay is a historic and fiercely active commercial zone situated directly on the banks of the Gambia River in the Upper River Region. During the winter trade season, this muddy riverbank becomes a frenzy of logistical activity. Massive mounds of sacked peanuts, collected from the surrounding rural districts, are manually loaded by teams of laborers onto large river barges known as lighters. These barges then make the slow, winding journey downstream to the processing plants near the coast. The bay is a visceral, noisy reminder of the historic riverine trade networks that built the Gambian economy. (Geography K6 — river transport and agricultural logistics)",
+      "factsAdvanced": [
+        "A highly active agricultural loading zone on the riverbank at Basse Santa Su.",
+        "The primary collection point for groundnuts harvested in the remote eastern districts.",
+        "Features intense, manual labor as sacks are loaded onto large river barges (lighters).",
+        "The barges transport the cash crop hundreds of kilometers downstream for processing.",
+        "A chaotic, vital logistical bottleneck during the winter agricultural trade season.",
+        "A living continuation of the historic river-based export economy."
+      ]
+    },
+    {
+      "id": "tanji-village-museum-life-v2",
+      "descriptionAdvanced": "The Tanji Village Museum is an exceptional, immersive cultural space that reconstructs the traditional lifestyle of a Mandinka village. Designed to counteract the rapid loss of cultural heritage among the urbanizing youth, the museum consists of authentically built thatched huts and artisan workspaces. Visitors can interact directly with resident artisans, watching blacksmiths forge tools and weavers create intricate textiles. The museum is surrounded by indigenous trees labeled with their traditional medicinal uses. It acts as a vital, living repository of knowledge, ensuring that ancient Gambian skills and stories are passed down to future generations and shared with international visitors. (Arts & Culture K6 — cultural preservation and traditional crafts)",
+      "factsAdvanced": [
+        "An immersive, authentically reconstructed traditional Mandinka village museum.",
+        "Established specifically to preserve cultural heritage amidst rapid urbanization.",
+        "Features active, resident artisans demonstrating blacksmithing, weaving, and carving.",
+        "Includes botanical trails detailing the traditional medicinal uses of local plants.",
+        "A highly interactive educational environment rather than a static display.",
+        "Serves as a crucial cultural bridge between community elders and urban youth."
+      ]
+    },
+    {
+      "id": "marakissa-river-camp-life-v2",
+      "descriptionAdvanced": "The Marakissa River Camp is a serene, rustic eco-retreat located on the quiet banks of the Allahein River tributary near the southern border with Senegal. Far removed from the massive coastal resorts, it offers a deeply tranquil environment focused entirely on nature. The camp is particularly famous among international birdwatchers; its shaded verandas overlook muddy riverbanks teeming with kingfishers, herons, and the elusive African Finfoot. Life at the camp revolves around the slow tidal rhythms of the river, offering guided canoe trips through the dense mangroves, making it a premier example of low-impact, specialized eco-tourism in The Gambia. (Geography K7 — specialized eco-tourism and river ecology)",
+      "factsAdvanced": [
+        "A rustic, highly tranquil eco-retreat located on a southern river tributary.",
+        "Situated near the Senegalese border, far from the busy northern coastal resorts.",
+        "Internationally renowned as a premier destination for specialized birdwatching.",
+        "The surrounding riverbanks host rare species like the African Finfoot.",
+        "Focuses entirely on low-impact, sustainable tourism and guided canoe excursions.",
+        "Life here is dictated by the slow, natural tidal rhythms of the estuarine ecosystem."
+      ]
+    },
+    {
+      "id": "pirang-shrimp-farm-life-v2",
+      "descriptionAdvanced": "The Pirang Shrimp Farm, located on the edge of the expansive Bintang Bolong wetlands, represents a unique, albeit historically complex, venture into commercial aquaculture in The Gambia. Originally established as a massive industrial project to farm black tiger shrimp for European export, the vast geometric ponds dramatically altered the local saline landscape. While large-scale commercial operations have fluctuated, the flooded, nutrient-rich ponds have inadvertently created an incredible artificial wetland. Today, these ponds attract massive flocks of migratory birds, including pelicans and spoonbills, turning an industrial aquaculture site into one of the most unexpected and spectacular birdwatching locations in the country. (Science K8 — aquaculture and artificial wetlands)",
+      "factsAdvanced": [
+        "A massive commercial aquaculture facility located near the Bintang Bolong wetlands.",
+        "Originally engineered for the large-scale export farming of black tiger shrimp.",
+        "Features vast, geometric saline ponds that dramatically altered the local landscape.",
+        "The nutrient-rich ponds have inadvertently created a spectacular artificial wetland.",
+        "Currently serves as a massive magnet for rare and migratory waterbirds.",
+        "A fascinating intersection of failed industrial development and ecological reclamation."
+      ]
+    },
+    {
+      "id": "farafenni-livestock-market-life-v2",
+      "descriptionAdvanced": "The Farafenni Livestock Market, commonly known locally as a 'lumo,' is a sprawling, chaotic, and vital weekly event situated in the North Bank Region near the Senegalese border. It is one of the largest open-air animal markets in West Africa. Every week, nomadic Fula herdsmen from deep within Senegal and Mali drive thousands of cattle, sheep, and goats to this dusty plain. The market is a sensory overload of bellowing animals, intense haggling, and the smell of roasting meat. It serves as a massive economic engine, supplying the majority of the meat consumed in the heavily populated coastal cities of The Gambia. (Economics K7 — cross-border trade and pastoral economies)",
+      "factsAdvanced": [
+        "One of the largest and most vital weekly livestock markets ('lumos') in West Africa.",
+        "Located in Farafenni, highly accessible to cross-border routes with Senegal.",
+        "Attracts nomadic Fula herdsmen driving cattle from as far as Mali.",
+        "A chaotic, intense commercial environment dealing in thousands of animals weekly.",
+        "The primary supply source for meat destined for the urban Gambian coast.",
+        "A premier example of traditional, massive-scale West African pastoral trade."
+      ]
+    },
+    {
+      "id": "gambia-river-nature-v2",
+      "descriptionAdvanced": "The Gambia River is the defining geographical, historical, and ecological artery of the nation; the country's borders literally mirror its meandering course. Flowing over 1,100 kilometers from the Fouta Djallon highlands in Guinea, it dominates the Gambian landscape, splitting the country into the North and South banks. The lower reaches of the river are characterized by a massive, saline estuary bordered by dense mangrove swamps, which gradually transition into freshwater gallery forests and open savannas further inland. The river is highly navigable, historically serving as a major penetration route for European explorers and slavers, and today sustains immense biodiversity and local agriculture. (Geography K6 — river systems and national geography)",
+      "factsAdvanced": [
+        "The central geographical feature of The Gambia, dictating the nation's borders.",
+        "Flows over 1,100 kilometers from its source in the Fouta Djallon highlands of Guinea.",
+        "Splits the entire country into distinct North Bank and South Bank regions.",
+        "The lower estuary is highly saline and bordered by immense mangrove forests.",
+        "Historically a major navigable route for explorers, traders, and slavers.",
+        "Transitions from saltwater mangroves to freshwater gallery forests deep inland."
+      ]
+    },
+    {
+      "id": "river-gambia-national-park-nature-v2",
+      "descriptionAdvanced": "The River Gambia National Park, commonly referred to as the Baboon Islands, is a highly protected ecological reserve located deep in the Central River Region. Established in 1978, the park consists of a dense, lush archipelago of five islands situated in the freshwater section of the river. It is most famous globally for the Chimpanzee Rehabilitation Project, which successfully reintroduced orphaned chimpanzees into the wild; today, a thriving, wild population inhabits the islands. To protect the primates, human foot traffic is strictly forbidden on the islands, but visitors can observe the incredible wildlife, including hippos and crocodiles, from boats navigating the surrounding channels. (Science K8 — primate rehabilitation and strict conservation)",
+      "factsAdvanced": [
+        "A highly protected reserve comprised of five islands in the Central River Region.",
+        "Established in 1978, commonly known by locals and tourists as the Baboon Islands.",
+        "Globally famous for its highly successful Chimpanzee Rehabilitation Project.",
+        "Human foot traffic is strictly prohibited on the islands to protect the wildlife.",
+        "Visitors observe thriving wild chimpanzees, hippos, and crocodiles from boats.",
+        "Represents the premier, strictest wildlife conservation effort in The Gambia."
+      ]
+    },
+    {
+      "id": "kiang-west-national-park-nature-v2",
+      "descriptionAdvanced": "Kiang West National Park is the largest and most ecologically diverse protected area in The Gambia, spanning over 11,000 hectares in the Lower River Region. The park features a striking transition of landscapes, from dense, impenetrable mangrove creeks along the riverbank to dry, sweeping Guinea savanna and laterite escarpments inland. It is a critical sanctuary for West African wildlife, hosting rare species such as the sitatunga, bushbucks, and a recovering population of hyenas and leopards. Due to its remote location and vast size, it remains largely undeveloped for mass tourism, offering a genuinely wild, rugged experience for dedicated naturalists and researchers. (Science K7 — biodiversity and savanna ecosystems)",
+      "factsAdvanced": [
+        "The largest protected wildlife reserve in The Gambia, covering over 11,000 hectares.",
+        "Located in the remote Kiang West district of the Lower River Region.",
+        "Features highly diverse ecosystems, from riverine mangroves to dry savanna.",
+        "A critical sanctuary for rare mammals including sitatunga, hyenas, and leopards.",
+        "Remains rugged, wild, and largely undeveloped for commercial mass tourism.",
+        "A premier location for dedicated ecological research and serious naturalists."
+      ]
+    },
+    {
+      "id": "bao-bolong-wetland-nature-v2",
+      "descriptionAdvanced": "The Bao Bolong Wetland Reserve is a massive, internationally recognized Ramsar site located on the north bank of the Gambia River, directly opposite Kiang West National Park. Covering over 22,000 hectares, it consists of a vast, complex network of tidal creeks (bolongs), sprawling salt marshes, and seasonal freshwater swamps. The reserve is an absolutely critical sanctuary for migratory birds traveling the East Atlantic Flyway, hosting tens of thousands of waterbirds during the winter months. The dense mangrove forests also serve as vital nurseries for marine fish and provide a sustainable source of oysters and timber for the surrounding local communities. (Science K8 — Ramsar wetlands and migratory flyways)",
+      "factsAdvanced": [
+        "A massive 22,000-hectare reserve recognized as an international Ramsar wetland site.",
+        "Located on the north bank of the river, opposite the Kiang West National Park.",
+        "Comprised of a complex network of tidal creeks, salt marshes, and mangrove forests.",
+        "A critically important wintering site for migratory birds on the East Atlantic Flyway.",
+        "The mangroves serve as essential breeding nurseries for regional marine life.",
+        "Balances strict ecological protection with sustainable local foraging."
+      ]
+    },
+    {
+      "id": "tanji-bird-reserve-nature-v2",
+      "descriptionAdvanced": "The Tanji Bird Reserve, officially the Karinti Tanji National Park, is a compact but incredibly rich coastal reserve located just south of the main tourist areas. Encompassing sandy beaches, coastal lagoons, and dense scrub woodland, it protects a highly dynamic transitional ecosystem. The reserve is a paradise for ornithologists, boasting over 300 recorded bird species, making it one of the most densely populated avian habitats in West Africa. The offshore Bijol Islands, included within the reserve's boundaries, serve as crucial, undisturbed breeding grounds for marine turtles and massive colonies of Caspian Terns, heavily protected from human interference. (Science K6 — coastal lagoons and avian biodiversity)",
+      "factsAdvanced": [
+        "A highly accessible coastal reserve located south of the main urban tourist zones.",
+        "Encompasses diverse habitats including sandy beaches, lagoons, and scrub woodland.",
+        "Internationally renowned among ornithologists with over 300 recorded bird species.",
+        "Includes the offshore Bijol Islands, a critical breeding site for Caspian Terns.",
+        "Provides vital, protected nesting beaches for endangered marine turtles.",
+        "A prime example of rich biodiversity existing on the edge of urban sprawl."
+      ]
+    },
+    {
+      "id": "bijilo-forest-park-nature-v2",
+      "descriptionAdvanced": "Bijilo Forest Park, affectionately known as the 'Monkey Park,' is a small, highly popular reserve perched on the coastal cliffs directly adjacent to the bustling Senegambia tourist strip. It represents one of the very last surviving patches of indigenous coastal gallery forest in the region. The park is characterized by towering Rhun palms and dense, shaded undergrowth. It is most famous for its large, highly habituated troops of Green Vervet and Western Red Colobus monkeys, which freely interact with visitors along the clearly marked walking trails. Despite its small size, it provides a crucial, accessible green lung for the heavily developed coastline. (Geography K6 — urban forest reserves and primate habituation)",
+      "factsAdvanced": [
+        "A small, heavily visited forest reserve located adjacent to the Senegambia tourist strip.",
+        "Protects a rare, surviving patch of indigenous coastal gallery and palm forest.",
+        "Widely known as the 'Monkey Park' due to its large primate populations.",
+        "Home to highly habituated troops of Green Vervet and Western Red Colobus monkeys.",
+        "Features well-maintained, shaded walking trails leading to coastal cliff viewpoints.",
+        "Serves as a crucial, accessible 'green lung' amid intense coastal urban development."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "felsenkirche-luderitz-landmarks-v2",
+      "descriptionAdvanced": "Die Felsenkirche ist eine malerische evangelisch-lutherische Kirche in der windigen Küstenstadt Lüderitz. Ihren Namen ('Kirche auf dem Felsen') verdankt sie der Tatsache, dass sie massiv in das harte Gestein des Diamantenberges, hoch über der Stadt und dem Ozean, hineingebaut wurde. Finanziert wurde das prachtvolle Bauwerk maßgeblich von den reichen Diamantenbaronen, die im Zuge des Kolmanskuppe-Diamantenrausches enormen Wohlstand erlangt hatten. Im Jahr 1912 eingeweiht, ist sie ein Musterbeispiel für den vertikal ausgerichteten englischen Gotik-Stil, der mit typischen deutschen Elementen kombiniert wurde. Ein besonderes Highlight ist das Altarfenster, das eine Spende von Kaiser Wilhelm II. war. Architektur K7 — Gotische Sakralbauten am Meer.",
+      "factsAdvanced": [
+        "Der Bau der Felsenkirche wurde 1911 begonnen und am 4. August 1912 eingeweiht.",
+        "Der renommierte Architekt Albert Bause entwarf das Gebäude im neugotischen Stil.",
+        "Kaiser Wilhelm II. spendete das große, kunstvolle Altarfenster aus Bleiglas.",
+        "Das Gebäude ruht fest auf dem soliden Granitgestein des Diamantenberges.",
+        "Die Kirche ist eines der ältesten lutherischen Kirchengebäude in Südnamibia.",
+        "Aufgrund der steilen Treppen ist der Zugang zur Kirche auf dem Hügel anstrengend, bietet aber Panoramablicke."
+      ]
+    },
+    {
+      "id": "goerke-haus-luderitz-landmarks-v2",
+      "descriptionAdvanced": "Das Goerke-Haus in Lüderitz ist eines der prächtigsten Zeugnisse des rasanten Reichtums während des Diamantenbooms in Südwestafrika. Das beeindruckende Anwesen auf dem Diamantenberg wurde 1910 für den Leutnant und späteren Diamanten-Inspektor Hans Goerke erbaut. Das Gebäude ist ein architektonisches Meisterwerk im Jugendstil, das trotz der extrem isolierten Wüstenlage luxuriös mit importierten Holzschnitzereien, Buntglasfenstern und Fliesen ausgestattet wurde. Besonders auffällig sind die asymmetrische Form, die Giebel und das große Sonnenuhren-Fassadenbild. Heute, im Besitz eines namibischen Bergbauunternehmens, ist die restaurierte Villa ein exklusives Museum und zeugt vom verschwenderischen Lebensstil der frühen Diamantenbarone. Architektur K8 — Jugendstil-Villen in der Wüste.",
+      "factsAdvanced": [
+        "Das Goerke-Haus wurde 1910 auf dem Höhepunkt des Lüderitz-Diamantenrausches erbaut.",
+        "Es wurde von Architekt Otto Ertl für den Regierungsbeamten Hans Goerke entworfen.",
+        "Das Haus thront prominent auf dem Diamantenberg, direkt hinter der Felsenkirche.",
+        "Ein Großteil der aufwändigen Baumaterialien wurde per Schiff aus Deutschland geliefert.",
+        "Nach dem Fortgang Goerkes diente das Haus lange Zeit als Wohnsitz der lokalen Magistraten.",
+        "Heute fungiert das Gebäude als beliebtes Museum für koloniale Geschichte in Lüderitz."
+      ]
+    },
+    {
+      "id": "diaz-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm am Diaz Point ist ein wesentliches Seezeichen an der extrem zerklüfteten Küste südlich von Lüderitz, wo Bartolomeu Dias 1488 sein Steinkreuz errichtete. Der rot-weiße Turm wurde 1915 unter südafrikanischer Verwaltung erbaut, um die gefährlichen Felsenriffe zu markieren, an denen zuvor zahlreiche Schiffe im dichten Nebel zerschellt waren. Anders als viele andere Leuchttürme ist dieser Turm stark dem konstanten und oft extrem starken Südwestwind (dem 'Lüderitz Express') sowie aggressivem Salznebel ausgesetzt, was ständige Wartung erfordert. Er dient nicht nur der maritimen Sicherheit, sondern ist auch ein beliebtes Ausflugsziel für Touristen, die die raue Kraft des Ozeans erleben wollen. Technik K6 — Küstensicherheit und extreme Witterung.",
+      "factsAdvanced": [
+        "Der Leuchtturm wurde im Jahr 1915 in Betrieb genommen.",
+        "Er steht auf der gleichen Halbinsel wie das historische Steinkreuz (Padrão) von Bartolomeu Dias.",
+        "Die charakteristische rot-weiße Lackierung soll die Sichtbarkeit im häufigen Seenebel verbessern.",
+        "Der Turm ist 28 Meter hoch und sendet alle 10 Sekunden ein weißes Blitzsignal aus.",
+        "Die Winde an dieser Landzunge können regelmäßig Geschwindigkeiten von über 80 km/h erreichen.",
+        "Aufgrund der starken Gischt und Erosion musste das Fundament mehrfach verstärkt werden."
+      ]
+    },
+    {
+      "id": "turnhalle-windhoek-landmarks-v2",
+      "descriptionAdvanced": "Das historische Turnhalle-Gebäude in Windhoek ist weit mehr als nur eine ehemalige Sporthalle. Erbaut 1909 als Übungshalle für den Windhoeker Turnverein, steht das Gebäude heute im Mittelpunkt der politischen Geschichte Namibias. Weltweite Bekanntheit erlangte die Turnhalle in den Jahren 1975 bis 1977, als hier die umstrittene 'Turnhallen-Konferenz' stattfand. In dieser Konferenz versuchte die südafrikanische Apartheidsregierung, eine interne Lösung für die Unabhängigkeit Namibias zu finden, indem sie eine Verfassung ausarbeitete, die stark auf ethnischen Linien basierte, jedoch von der Befreiungsbewegung SWAPO und der UN abgelehnt wurde. Heute beherbergt das renovierte Gebäude das SADC-Tribunal. Geschichte K8 — Der Weg zur namibischen Unabhängigkeit.",
+      "factsAdvanced": [
+        "Die ursprüngliche Turnhalle wurde im März 1909 offiziell eingeweiht.",
+        "Sie diente lange Zeit als die größte Sporthalle im gesamten Land Südwestafrika.",
+        "Die historische 'Turnhallen-Konferenz' tagte hier von September 1975 bis Oktober 1977.",
+        "Aus der Konferenz ging die 'Demokratische Turnhallenallianz' (DTA), eine politische Partei, hervor.",
+        "Nach der Unabhängigkeit diente das Gebäude lange Zeit dem südafrikanischen Entwicklungsgemeinschafts-Tribunal (SADC).",
+        "Es ist ein wichtiges architektonisches Beispiel des vereinfachten wilhelminischen Stils."
+      ]
+    },
+    {
+      "id": "alte-feste-windhoek-landmarks-v2",
+      "descriptionAdvanced": "Die Alte Feste in Windhoek ist das älteste erhaltene Gebäude der Hauptstadt und das historische Epizentrum der deutschen Kolonialisierung in Zentralnamibia. Sie wurde 1890 auf Befehl von Hauptmann Curt von François von der Schutztruppe als Militärfestung erbaut, um den Frieden zwischen den zerstrittenen Herero- und Nama-Völkern in der Region zu erzwingen und die neu gegründete Siedlung Windhoek abzusichern. Der Bau markiert faktisch die offizielle Gründung des heutigen Windhoek. Nach ihrer militärischen Nutzung diente sie unter anderem als Schule und Hostel. Das Gebäude mit seinen dicken weißen Mauern fungiert als historisches Museum, wenngleich derzeit größere Renovierungsarbeiten stattfinden. Geschichte K8 — Festungsbau und Kolonialverwaltung.",
+      "factsAdvanced": [
+        "Der Grundstein für die Alte Feste wurde am 18. Oktober 1890 gelegt.",
+        "Das Gebäude gilt als das älteste noch stehende Bauwerk in der Stadt Windhoek.",
+        "Ursprünglich war die Festung als massives Viereck mit einem Innenhof von 31 mal 32 Metern geplant.",
+        "Im Hof der Feste stand lange Zeit das berühmte Reiterdenkmal, bevor es 2013 verlegt wurde.",
+        "Ab 1962 wurde die Feste zum Hauptsitz des namibischen Nationalmuseums.",
+        "Nach dem Ersten Weltkrieg nutzte die südafrikanische Verwaltung die Festung als Wohnheim für Schüler."
+      ]
+    },
+    {
+      "id": "schwerinsburg-landmarks-v2",
+      "descriptionAdvanced": "Die Schwerinsburg ist das größte und markanteste der drei berühmten Burgen von Windhoek, die das Stadtbild auf einem zentralen Hügel dominieren. Die Geschichte der Festung begann 1890, als Curt von François hier den sogenannten 'Sperlingslust'-Turm aus rohen Feldsteinen als Ausguck errichten ließ. 1913 erwarb der renommierte deutsche Architekt Willi Sander den Turm und baute ihn im Auftrag des Grafen Bogislav von Schwerin in ein prächtiges, romantisierendes Schloss mit Zinnen und massiven Türmen um. Heute ist die prächtige Schwerinsburg im Privatbesitz und fungiert als offizielle Residenz des italienischen Botschafters in Namibia, was ihr elitäres Erbe weiterführt. Architektur K7 — Adelsbauten in kolonialen Zentren.",
+      "factsAdvanced": [
+        "Der ursprüngliche Wachturm auf dem Hügel wurde 1890 unter Curt von François errichtet.",
+        "Architekt Willi Sander wandelte den Turm 1913 in die heutige imposante Schwerinsburg um.",
+        "Graf Bogislav von Schwerin war der Bauherr und Namensgeber der Burg.",
+        "Die Burg ist die größte der drei Windhoeker Stadtburgen (Schwerinsburg, Heinitzburg, Sanderburg).",
+        "Die Burg wurde aus unverputztem lokalem Naturstein erbaut.",
+        "Heute wird das Gebäude exklusiv als private Residenz des italienischen Botschafters genutzt."
+      ]
+    },
+    {
+      "id": "heinitzburg-landmarks-v2",
+      "descriptionAdvanced": "Die Heinitzburg ist eine der drei pittoresken Windhoeker Burgen, die stolz auf dem Luxury Hill der Hauptstadt thronen. Sie wurde 1914 von dem in Südwestafrika berühmten Architekten Willi Sander für den wohlhabenden Grafen von Schwerin entworfen, der das Gebäude nach seiner Verlobten, Margarethe von Heinitz, benannte. Die romantische, mittelalterlich anmutende Burg zeichnet sich durch dicke Steinmauern, Zinnen und Ziertürme aus. Im Laufe der Jahrzehnte wechselte das Schloss mehrfach den Besitzer, bevor es 1996 von einer namibischen Familie in ein luxuriöses Relais & Châteaux Boutique-Hotel umgewandelt wurde. Heute ist es berühmt für seine exzellente Gastronomie und den ungestörten Blick über die Stadt. Architektur K7 — Romantische Burgen in der afrikanischen Savanne.",
+      "factsAdvanced": [
+        "Die Heinitzburg wurde im Jahr 1914 vom Architekten Willi Sander erbaut.",
+        "Der Bauherr, Graf Bogislav von Schwerin, benannte sie nach Margarethe von Heinitz.",
+        "Die Architektur verbindet typisch deutsche Burgenästhetik mit afrikanischem Naturstein.",
+        "Seit 1996 ist die Burg ein exklusives und international ausgezeichnetes Luxushotel.",
+        "Im Weinkeller der Burg lagern Tausende von Vintage-Weinen aus Südafrika.",
+        "Die Anlage ist neben Schwerinsburg und Sanderburg Teil des historischen Windhoeker Burgen-Trios."
+      ]
+    },
+    {
+      "id": "sanderburg-landmarks-v2",
+      "descriptionAdvanced": "Die Sanderburg ist die kleinste und architektonisch einzigartigste der drei markanten Burgen von Windhoek. Sie wurde 1917 von dem produktiven Architekten Willi Sander als sein eigener privater Wohnsitz entworfen und erbaut. Während die anderen Burgen (Heinitzburg und Schwerinsburg) einem eher groben, abwehrenden, mittelalterlichen Stil folgen, integriert die Sanderburg weichere Kurven und Elemente, die an Herrenhäuser erinnern. Sander nutzte lokale Steine aus dem Khomas-Hochland und schuf einen intimen, aber dennoch festungsartigen Wohnsitz. Die Burg befindet sich bis heute in Privatbesitz und trägt wesentlich zur ungewöhnlichen, teils europäischen Silhouette des Luxushügels in Windhoek bei. Architektur K7 — Private Herrenhäuser und Architekten-Residenzen.",
+      "factsAdvanced": [
+        "Die Burg wurde zwischen 1917 und 1919 vom Architekten Willi Sander erbaut.",
+        "Sander entwarf die kleine Burg exklusiv als seinen eigenen privaten Wohnsitz.",
+        "Sie ist die kleinste der drei historischen Windhoeker Burgen.",
+        "Die Burg ist nach Osten ausgerichtet und bietet einen weiten Blick über die Avis-Berge.",
+        "Sie befindet sich heute in Privatbesitz und ist nicht öffentlich für Touristen zugänglich.",
+        "Architekt Sander war auch für das Design der bekannten Heinitzburg verantwortlich."
+      ]
+    },
+    {
+      "id": "martin-luther-steam-tractor-landmarks-v2",
+      "descriptionAdvanced": "Der 'Martin Luther' ist ein rostiger, kurioser Dampftraktor, der am östlichen Stadtrand von Swakopmund als stummes Denkmal für einen kolossalen logistischen Fehlschlag steht. Der schwere Traktor wurde 1896 von Deutschland nach Südwestafrika importiert, um den teuren und langsamen Transport von Fracht mit Ochsenkarren durch die trockene Namib-Wüste zu ersetzen. Nach wenigen Fahrten, geprägt von tiefem Sand und ständigem Wassermangel, blieb die Maschine aufgrund eines Kesselschadens in den Dünen liegen. Die verzweifelten Besitzer gaben auf und ein Einheimischer gab der Maschine in Anspielung auf den Reformator Martin Luther den Spitznamen: 'Hier stehe ich, ich kann nicht anders'. Technik K6 — Transportversuche in der Wüste.",
+      "factsAdvanced": [
+        "Der Dampftraktor wurde 1896 aus Halberstadt (Deutschland) importiert.",
+        "Er wiegt etwa 14 Tonnen und sollte Ochsenkarren auf der Route Swakopmund-Windhoek ersetzen.",
+        "Die Maschine blieb nach wenigen Kilometern Fahrt wegen des extremen Wüstensandes und Wassermangels endgültig liegen.",
+        "Der Name bezieht sich auf das berühmte Zitat 'Hier stehe ich, ich kann nicht anders'.",
+        "Im Jahr 1975 wurde das verrostete Gefährt als Nationales Denkmal geschützt.",
+        "Heute befindet sich der Traktor unter einer schützenden Glaskonstruktion vor dem Wetter."
+      ]
+    },
+    {
+      "id": "franke-tower-omaruru-landmarks-v2",
+      "descriptionAdvanced": "Der Franketurm ist ein historisches Verteidigungs- und Gedenkbauwerk in der malerischen Stadt Omaruru. Der wuchtige Wehrturm wurde 1908 von der deutschen Gemeinschaft errichtet und erinnert an Hauptmann Victor Franke. Franke führte Anfang 1904, während des grausamen Herero-Aufstands, eine Truppe an, die in Gewaltmärschen von Süden kam, um die belagerte deutsche Garnison in Omaruru nach heftigen Kämpfen zu entsetzen. Der Turm, entworfen in Form eines zinnenbewehrten runden Festungsturms, wurde aus lokalem Stein erbaut und diente viele Jahre lang als starkes Symbol der deutschen kolonialen Militärüberlegenheit in Südwestafrika. Heute kann man ihn besteigen und einen weiten Blick über die Stadt und den Omaruru-Fluss genießen. Geschichte K8 — Denkmäler des Hererokrieges.",
+      "factsAdvanced": [
+        "Der Franketurm wurde am 4. Februar 1908 in Omaruru offiziell eingeweiht.",
+        "Der Wehrturm erinnert an die Befreiung Omarurus durch Hauptmann Victor Franke am 17. Januar 1904.",
+        "Das Bauwerk ist ein runder Steinturm mit einem markanten Zinnenkranz auf dem Dach.",
+        "Er wurde 1964 von der südafrikanischen Verwaltung zum Nationalen Denkmal erklärt.",
+        "Am Fuß des Turmes erinnern Gedenktafeln an die Gefallenen der deutschen Schutztruppe.",
+        "Omaruru wurde fast vier Wochen lang von Kriegern des Herero-Chiefs Wilhelm Zeraua belagert."
+      ]
+    },
+    {
+      "id": "fort-namutoni-landmarks-v2",
+      "descriptionAdvanced": "Fort Namutoni im Osten des heutigen Etosha-Nationalparks ist ein strahlend weißes Kolonialfort, das aufgrund seiner Bauweise oft wie eine Filmkulisse aus der nordafrikanischen Fremdenlegion wirkt. Ursprünglich 1896 als einfache Grenzstation zur Bekämpfung der Rinderpest errichtet, wurde die Lehmbefestigung beim legendären Angriff durch hunderte Owambo-Krieger unter der Führung von Chief Nehale lya Mpingana im Jahr 1904 vollständig zerstört. Das Fort wurde daraufhin 1906 als weitaus massivere, viereckige Festung mit quadratischen Wehrtürmen in seiner heutigen Form wieder aufgebaut. Nach dem Ende der deutschen Kolonialzeit diente es als Polizeistation und wurde schließlich in eines der beliebtesten Touristencamps des Etosha-Nationalparks umgewandelt. Geschichte K7 — Koloniale Grenzfestungen.",
+      "factsAdvanced": [
+        "Das erste kleine Lehmfort wurde 1896 als Kontrollposten für die Rinderpest errichtet.",
+        "Am 28. Januar 1904 wurde das Fort von etwa 500 Owambo-Kriegern erstürmt und völlig zerstört.",
+        "Das heutige, beeindruckende weiße Kalksteingebäude wurde zwischen 1906 und 1907 erbaut.",
+        "Die Festung diente der Schutztruppe als Basis für Expeditionen ins nördliche Owamboland.",
+        "Nach 1915 wurde das Fort von der südafrikanischen Mandatsmacht teilweise dem Verfall preisgegeben.",
+        "Im Jahr 1950 erklärte die Historische Denkmalskommission das Fort zum nationalen Denkmal."
+      ]
+    },
+    {
+      "id": "okaukuejo-waterhole-tower-landmarks-v2",
+      "descriptionAdvanced": "Der markante steinerne Wasserturm im Okaukuejo-Camp ist ein weithin sichtbares Landmark des Etosha-Nationalparks. Das Camp wurde 1897 als Militärvorposten der deutschen Schutztruppe tief im afrikanischen Busch gegründet, primär um den Schmuggel von Waffen zu unterbinden. Das Wahrzeichen des Camps, der etwa 18 Meter hohe Wasserturm, wurde 1963 errichtet. Seine architektonische Gestaltung ähnelt absichtlich den deutschen Kolonialwachtürmen der Region. Heute ist der Turm eine zentrale Aussichtsplattform für das weltberühmte Okaukuejo-Wasserloch, das besonders in der Trockenzeit unzählige Elefanten, Nashörner und Löwen anlockt, die direkt unter den Augen der Touristen trinken. Architektur K6 — Touristische Infrastruktur in Nationalparks.",
+      "factsAdvanced": [
+        "Das Okaukuejo-Camp wurde ursprünglich 1897 als deutscher Kontrollposten gegründet.",
+        "Der charakteristische steinerne Turm wurde erst im Jahr 1963 errichtet.",
+        "Der Turm dient heute als beliebte Aussichtsplattform für das angrenzende, beleuchtete Wasserloch.",
+        "Okaukuejo beherbergt das wichtigste ökologische Forschungszentrum des Etosha-Nationalparks.",
+        "Während der Trockenzeit zieht das Wasserloch regelmäßig gefährdete Spitzmaulnashörner an.",
+        "Das Camp liegt nur 17 Kilometer nördlich des südlichen Parkeingangs (Andersson Gate)."
+      ]
+    },
+    {
+      "id": "oorlog-memorial-okahandja-landmarks-v2",
+      "descriptionAdvanced": "Das 'Oorlog'-Denkmal (Herero Heldendenkmal) in Okahandja ist ein tief spiritueller und historischer Ort für die Herero-Nation. In und um diese Begräbnisstätte liegen einige der größten Führer des Herero-Volkes, darunter Chief Maharero und sein Sohn Samuel Maharero, der den schicksalhaften Aufstand gegen die deutschen Kolonialherren im Jahr 1904 anführte. Auch der legendäre Hosea Kutako, der unermüdlich für die Unabhängigkeit Namibias bei den Vereinten Nationen kämpfte, fand hier seine letzte Ruhestätte. Jedes Jahr im August (Red Flag Day) pilgern Tausende von in traditionellen roten Kleidern und Militäruniformen gekleideten Herero zu diesen Gräbern, um den gefallenen Helden Respekt zu zollen. Kulturanthropologie K8 — Gedenkrituale und Ahnenehrung.",
+      "factsAdvanced": [
+        "Das Denkmal markiert die traditionelle Grabstätte der einflussreichsten Herero-Paramount-Chiefs.",
+        "Chief Samuel Maharero, der 1923 im Exil starb, wurde exhumiert und hier feierlich bestattet.",
+        "Auch Chief Hosea Kutako (1870–1970) liegt an diesem historischen Ort begraben.",
+        "Jährlich im August versammeln sich hier beim 'Red Flag Day' tausende Herero.",
+        "Das Denkmal ist zentraler Bestandteil der Identität und des kollektiven Gedächtnisses der Herero.",
+        "Die Stätte wurde 1990 als eines der wichtigsten historischen Denkmäler Namibias anerkannt."
+      ]
+    },
+    {
+      "id": "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
+      "descriptionAdvanced": "Das Tsumeb Museum, untergebracht im historischen Gebäude des Alten Minenkommissariats, ist eines der detailliertesten und faszinierendsten Heimatmuseen Namibias. Das Gebäude selbst wurde 1915 während der Kolonialzeit errichtet, um die Verwaltung der massiven Kupfermine zu koordinieren. Die umfangreichen Ausstellungen dokumentieren die außerordentliche Bergbaugeschichte der Stadt, die für ihre extreme Mineralienvielfalt (über 280 Arten) weltberühmt ist. Darüber hinaus beherbergt das Museum die seltene 'Khorab-Sammlung': deutsche Kanonen, Gewehre und Munition, die 1915 beim Rückzug der Schutztruppe im nahegelegenen Otjikoto-See versenkt und später mühsam von Tauchern geborgen wurden. Geschichte K7 — Bergwerksgeschichte und versenkte Waffen.",
+      "factsAdvanced": [
+        "Das Gebäude des Alten Minenkommissariats wurde im Jahr 1915 erbaut.",
+        "Das Museum beherbergt eine weltweit einzigartige Sammlung seltener Tsumeb-Mineralien.",
+        "In den Ausstellungsräumen befindet sich die historische 'Khorab-Sammlung'.",
+        "Diese Sammlung umfasst deutsche Artilleriegeschütze, die 1915 im Otjikoto-See versenkt wurden.",
+        "Das Museum verfügt über eine ethnografische Abteilung, die den Lebensstil der lokalen San zeigt.",
+        "Ein separater Raum im Museum widmet sich der Geschichte der lokalen OMEG-Eisenbahn."
+      ]
+    },
+    {
+      "id": "grootfontein-old-fort-landmarks-v2",
+      "descriptionAdvanced": "Das Alte Fort in Grootfontein ist ein markantes Kalksteingebäude, das von den bewegten frühen Jahren des Nordens zeugt. Es wurde 1896 von der Schutztruppe für Deutsch-Südwestafrika erbaut, um die Kontrolle über das Gebiet nach der kurzen und chaotischen Ära der burischen Republik Upingtonia zu übernehmen und um als Vorposten gegen die Owambo-Königreiche im Norden zu dienen. Im Laufe seiner langen Geschichte wurde das Gebäude mehrfach erweitert und diente als Militärbasis, Gerichtshof und sogar als Internat. Heute beherbergt das Gebäude ein Museum, das eindrucksvolle Ausstellungen zur Geschichte der Pioniere, der lokalen Industrie und der Werkzeuge der indigenen Gemeinschaften präsentiert. Architektur K7 — Militärische Vorposten der Kolonialmacht.",
+      "factsAdvanced": [
+        "Das Alte Fort wurde im Jahr 1896 aus behauenem lokalem Kalkstein erbaut.",
+        "Die Schutztruppe stationierte hier eine Garnison von 40 Soldaten zur Grenzsicherung.",
+        "Zwischen 1920 und 1958 wurde das Gebäude als Schule und Internat zweckentfremdet.",
+        "Es wurde 1975 zum Nationalen Denkmal erklärt und in ein städtisches Museum umgewandelt.",
+        "Das Museum beherbergt unter anderem Ausstellungen zur Metallverarbeitung der Kavango-Völker.",
+        "Grootfontein bedeutet 'Große Quelle', was die strategische Wahl des Ortes für das Fort erklärt."
+      ]
+    },
+    {
+      "id": "sam-nujoma-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Sam-Nujoma-Stadion in Katutura, Windhoek, ist mehr als nur eine Sportstätte; es ist ein emotionales Zentrum der namibischen Gemeinschaft. Es wurde 2005 erbaut und zu Ehren des ersten namibischen Präsidenten, Dr. Sam Nujoma, benannt. Mit einer Kapazität von 10.300 Sitzplätzen ist es das modernste reine Fußballstadion des Landes. Die Lage mitten in Katutura – dem Township, das während der Apartheid als Zwangsansiedlung für die schwarze Bevölkerung geschaffen wurde – macht das Stadion zu einem kraftvollen Symbol für Wiederaufbau, Stolz und sozialen Zusammenhalt. Hier finden nicht nur Länderspiele der namibischen Nationalmannschaft (Brave Warriors) statt, sondern auch große politische Kundgebungen. Gesellschaft K6 — Sport, Townships und nationale Identität.",
+      "factsAdvanced": [
+        "Das Stadion wurde im Jahr 2005 mit Baukosten von 64 Millionen N$ fertiggestellt.",
+        "Es verfügt über eine offizielle Sitzplatzkapazität von 10.300 Zuschauern.",
+        "Das Stadion ist nach Dr. Sam Nujoma, dem Gründervater Namibias, benannt.",
+        "Es liegt zentral im ehemals durch Apartheid geschaffenen Township Katutura.",
+        "Die Anlage nutzt modernsten Kunstrasen, um der extremen Trockenheit in Windhoek entgegenzuwirken.",
+        "Das erste internationale Spiel im Stadion war ein Match der namibischen Nationalmannschaft gegen Kenia."
+      ]
+    },
+    {
+      "id": "owambo-campaign-memorial-landmarks-v2",
+      "descriptionAdvanced": "Das Owambo-Feldzug-Denkmal (Owambo Campaign Memorial) in Windhoek ist ein oft übersehenes steinernes Denkmal am Rande des Stadtzentrums. Es wurde 1919 auf Initiative der südafrikanischen Truppen errichtet, um an eine verheerende, aber selten diskutierte Strafexpedition zu erinnern. Im Jahr 1917, kurz nach dem Sieg Südafrikas über die deutsche Kolonialmacht, unternahmen südafrikanische und portugiesische Truppen einen blutigen Feldzug gegen den mächtigen König Mandume ya Ndemufayo des Kwanyama-Volkes, der sich der neuen Mandatsmacht widersetzte. Der König fiel im Gefecht. Das Denkmal, das die Namen der gefallenen britisch-südafrikanischen Soldaten trägt, ist ein kontroverses Relikt der frühen Mandatszeit. Geschichte K8 — Die südafrikanische Übernahme Südwestafrikas.",
+      "factsAdvanced": [
+        "Das Denkmal erinnert an die militärische Strafexpedition im nördlichen Owamboland im Jahr 1917.",
+        "Das primäre Ziel des Feldzuges war der aufsässige Oukwanyama-König Mandume ya Ndemufayo.",
+        "Das Denkmal wurde 1919 von der südafrikanischen Militärverwaltung errichtet.",
+        "Es ehrt namentlich neun südafrikanische Offiziere und Soldaten, die im Gefecht starben.",
+        "König Mandume ya Ndemufayo beging laut Überlieferung Selbstmord, anstatt sich zu ergeben.",
+        "Es wurde 1969 offiziell als historisches Denkmal von Namibia deklariert."
+      ]
+    },
+    {
+      "id": "kapps-hotel-luderitz-landmarks-v2",
+      "descriptionAdvanced": "Das Kapps-Hotel in Lüderitz ist eines der ältesten Gebäude der Stadt und tief mit dem exzentrischen und harten Leben der frühen Kolonialpioniere verwoben. Ursprünglich 1907 als Hotel mit einem massiven Konzert- und Ballsaal erbaut, war es während des Diamantenbooms das absolute Epizentrum des sozialen Lebens für Offiziere, Diamantensucher und reiche Kaufleute. Hier wurde gefeiert, getrunken und oft das frisch gewonnene Vermögen aus dem Wüstensand verspielt. Die Architektur spiegelt eine rustikale, sturmerprobte Version des wilhelminischen Stils wider. Obwohl es heute nicht mehr als das glitzernde Hotel von einst betrieben wird, bleibt die Fassade des Kapps-Hotels ein integraler und denkmalgeschützter Bestandteil der Bismarckstraße. Architektur K7 — Das gesellschaftliche Leben im Diamantenboom.",
+      "factsAdvanced": [
+        "Das Hotel wurde im Jahr 1907 von dem Geschäftsmann Kapps in Lüderitz erbaut.",
+        "Es besaß lange Zeit den größten Konzert- und Ballsaal in der gesamten südlichen Region.",
+        "Während des Diamantenbooms ab 1908 war es der wichtigste gesellschaftliche Treffpunkt der Stadt.",
+        "Das Gebäude überstand die rauen Atlantikstürme dank dicker Steinmauern und tiefgezogener Dächer.",
+        "In den 1970er Jahren wurde die Struktur teilweise in Geschäfts- und Büroflächen umgewandelt.",
+        "Die Straßenfassade an der Bismarckstraße steht unter offiziellem Denkmalschutz."
+      ]
+    },
+    {
+      "id": "walvis-bay-pelican-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Pelican Point Leuchtturm steht markant am äußersten Ende der extrem flachen, langen Sandhalbinsel, die die schützende Lagune von Walvis Bay bildet. Der 34 Meter hohe, gusseiserne Turm wurde 1932 von den Südafrikanern errichtet, nachdem Walvis Bay als Enklave von Südafrika verwaltet wurde. Aufgrund der massiven Nebelbänke, die durch den eisigen Benguelastrom entstehen, ist der Turm in markantem Schwarz-Weiß gestrichen. Heute ist der Leuchtturm vollautomatisiert. Eine besondere Attraktion ist das umgebaute historische Leuchtturmwärterhaus direkt am Turm, das heute eine exklusive, luxuriöse Lodge beherbergt, in der Gäste inmitten einer riesigen Kolonie von südafrikanischen Seebären übernachten können. Architektur K6 — Gusseiserne Leuchttürme an Extremküsten.",
+      "factsAdvanced": [
+        "Der gusseiserne Pelican Point Leuchtturm wurde im Jahr 1932 errichtet.",
+        "Der Leuchtturm hat eine markante Bauhöhe von 34 Metern.",
+        "Das alte Leuchtturmwärterhaus wurde in eine Boutique-Lodge mit 10 Suiten umgewandelt.",
+        "Die Pelican-Point-Sandbank, auf der er steht, verlängert sich jährlich um mehrere Meter nach Norden.",
+        "Rund um den Leuchtturm lebt eine massive Kolonie von rund 50.000 Kap-Pelzrobben.",
+        "Das automatisierte Lichtsignal hat bei klarem Wetter eine Sichtweite von 18 Seemeilen."
+      ]
+    },
+    {
+      "id": "keetmanshoop-railway-station-landmarks-v2",
+      "descriptionAdvanced": "Der historische Bahnhof in Keetmanshoop ist eines der schönsten Beispiele der Eisenbahnarchitektur aus der deutschen Kolonialzeit in Namibia. Das imposante Gebäude wurde 1908 nach Plänen des Regierungsbaumeisters Wilhelm Sander (der auch die Windhoeker Burgen entwarf) im prächtigen Neorenaissance-Stil aus soliden Natursteinblöcken erbaut. Der Bau des Bahnhofs war ein Meilenstein für die Logistik im tiefen Süden, da er das isolierte Landesinnere mit der Hafenstadt Lüderitz verband und später die Anbindung an das südafrikanische Eisenbahnnetz (über Upington) ermöglichte. Bis heute atmet das detailreich verzierte Gebäude die Atmosphäre der Epoche, in der Dampflokomotiven die wichtigste Lebensader der Wirtschaft waren. Architektur K7 — Eisenbahninfrastruktur und koloniale Expansion.",
+      "factsAdvanced": [
+        "Das Bahnhofsgebäude wurde im Jahr 1908 vom Architekten Wilhelm Sander fertiggestellt.",
+        "Es ist im wilhelminischen Neorenaissance-Stil mit markanten Rundbögen erbaut.",
+        "Die Strecke verband ab 1908 Keetmanshoop durch die Namib-Wüste direkt mit Lüderitz.",
+        "Bis 1915 wurde die Linie strategisch mit dem südafrikanischen Eisenbahnnetz in Prieska verbunden.",
+        "Die soliden Mauern wurden aus rötlich-grauem Naturstein der direkten Umgebung errichtet.",
+        "Der Bahnhof war während des Nama-Aufstandes ein kritischer Nachschubknotenpunkt des Militärs."
+      ]
+    },
+    {
+      "id": "rhenish-mission-church-walvis-bay-landmarks-v2",
+      "descriptionAdvanced": "Die Rheinische Missionskirche in Walvis Bay ist nicht nur das älteste Gebäude der Küstenstadt, sondern auch eine architektonische Kuriosität. Sie wurde 1880 in Hamburg komplett aus Holz konstruiert ('timber frame') und als gigantischer Bausatz per Schiff nach Walvis Bay transportiert, wo sie von den rheinischen Missionaren am Rande der Bucht wieder zusammengesetzt wurde. Diese ungewöhnliche Bauweise (Präfabrikation) war notwendig, da in der Umgebung der extrem trockenen Namib-Wüste kein geeignetes Baumaterial existierte. Heute steht die kleine Holzkirche wie ein trotziges Symbol des Überlebensvillens zwischen den modernen Container-Kränen und Hafenanlagen und erinnert an die ersten europäischen Niederlassungen. Architektur K6 — Präfabrizierte Holzbauten im 19. Jahrhundert.",
+      "factsAdvanced": [
+        "Die Rheinische Missionskirche wurde 1880 komplett aus Fertigbauteilen errichtet.",
+        "Die gesamte Holzstruktur wurde in Hamburg (Deutschland) entworfen, gesägt und vormontiert.",
+        "Die Kirche ist das älteste heute noch stehende Gebäude im Großraum Walvis Bay.",
+        "Wegen massiver Sandstürme und aggressiver See-Luft ist das Gebäude stark wartungsintensiv.",
+        "Sie diente lange Zeit als das einzige christliche Gotteshaus für die isolierte Hafenbevölkerung.",
+        "1972 wurde das historische Holzgebäude als nationales Denkmal anerkannt."
+      ]
+    },
+    {
+      "id": "katutura-state-hospital-landmarks-v2",
+      "descriptionAdvanced": "Das Katutura-Staatskrankenhaus in Windhoek ist eine der markantesten Landmarks der Hauptstadt und das größte öffentliche Überweisungskrankenhaus des Landes. Erbaut 1973 durch die südafrikanische Apartheidsverwaltung, war es ursprünglich exklusiv für die nicht-weiße Bevölkerung des gleichnamigen Townships ('Katutura' bedeutet auf Herero 'Der Ort, an dem wir nicht leben wollen') bestimmt. Das massive, braune, vielgeschossige Gebäude überragt weithin sichtbar die umliegenden flachen Wohngebiete. Nach der Unabhängigkeit 1990 wurde es zum wichtigsten und oft überlasteten medizinischen Rückgrat des namibischen Gesundheitswesens und dient als kritisches Lehrkrankenhaus für die medizinische Fakultät der Universität von Namibia. Gesellschaft K7 — Gesundheitssysteme und post-Apartheid Infrastruktur.",
+      "factsAdvanced": [
+        "Das Katutura State Hospital wurde 1973 für die nicht-weiße Bevölkerung des Townships eröffnet.",
+        "Es hat eine Bettenkapazität von über 800 Betten und ist das am stärksten ausgelastete Krankenhaus des Landes.",
+        "Das markante achtstöckige Gebäude ist eine der dominierenden Strukturen im Nordwesten Windhoeks.",
+        "Nach der Unabhängigkeit wurde es zu einem der wichtigsten Lehrkrankenhäuser für namibische Ärzte.",
+        "In dem Krankenhaus werden täglich im Durchschnitt mehr als 1.000 ambulante Patienten behandelt.",
+        "Während der Covid-19-Pandemie diente es als zentraler Knotenpunkt der nationalen Krisenreaktion."
+      ]
+    },
+    {
+      "id": "trans-namib-transport-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Trans-Namib Transportmuseum in Windhoek, das im malerischen, von Wilhelm Sander entworfenen Windhoeker Hauptbahnhof von 1912 untergebracht ist, ist ein Paradies für Eisenbahn-Enthusiasten. Das Museum dokumentiert detailliert die faszinierende und oft brutale Geschichte des Schienenbaus und der Logistik in einem Land, das aus Wüsten und zerklüfteten Bergen besteht. Ein Highlight der Ausstellung ist die Originalausstattung der südafrikanischen Transportzüge sowie die vor dem Bahnhof aufgestellte Schmalspurdampflokomotive der Baureihe 'Zwillinge' aus der deutschen Kolonialzeit. Das Museum verdeutlicht eindrucksvoll, dass ohne den heroischen Eisenbahnbau eine wirtschaftliche Erschließung der Minen in Namibia unmöglich gewesen wäre. Technik K6 — Transportwesen in afrikanischen Extremgebieten.",
+      "factsAdvanced": [
+        "Das Museum befindet sich im historischen Bahnhofsgebäude von Windhoek, das 1912 erbaut wurde.",
+        "Es zeigt eine beeindruckende Sammlung alter Kommunikationstechnik, Telegrafen und Signalanlagen.",
+        "Vor dem Eingang steht eine Schmalspur-Dampflokomotive (Illing), die 1899 von Henschel gebaut wurde.",
+        "Die Exponate decken die Geschichte der OMEG (Otavi Minen- und Eisenbahn-Gesellschaft) ab.",
+        "Das Museum wird von der staatlichen Eisenbahngesellschaft TransNamib finanziert und betrieben.",
+        "Es beherbergt historische Dokumente, die den Transportausbau der Südafrikaner nach 1915 dokumentieren."
+      ]
+    },
+    {
+      "id": "namibia-etosha-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Etosha-Nationalpark ist das unbestrittene Kronjuwel des Wildtierschutzes in Namibia und eines der bedeutendsten Reservate Afrikas. Das Herz des Parks ist die gewaltige Etosha-Pfanne, eine gleißend weiße, extrem salzige Senke von der Größe der Niederlande, die den Park in der Trockenzeit unerbittlich prägt. Entlang des südlichen Pfannenrandes reihen sich zahlreiche natürliche und künstliche Wasserlöcher auf. Diese Wasserstellen sind in der unbarmherzigen namibischen Trockenzeit wahre Magneten für hunderttausende Tiere. Hier können Besucher das seltene Spitzmaulnashorn, gigantische Elefantenherden, Löwen, Geparden und zahllose endemische Antilopen wie die Schwarznasenimpala aus nächster Nähe beobachten. Biologie K8 — Wüstenökosysteme und Populationsdynamiken an Wasserlöchern.",
+      "factsAdvanced": [
+        "Der Etosha-Nationalpark wurde bereits im Jahr 1907 von Gouverneur Friedrich von Lindequist proklamiert.",
+        "Die namensgebende Etosha-Pfanne umfasst eine gigantische Fläche von etwa 4.800 Quadratkilometern.",
+        "Der Park ist eines der wichtigsten Refugien für das vom Aussterben bedrohte Spitzmaulnashorn (Black Rhino).",
+        "Etosha bedeutet in der Sprache der lokalen Ndonga 'großer weißer Platz'.",
+        "Das Reservat beheimatet 114 Säugetierarten und über 340 verschiedene Vogelarten.",
+        "In regenstarken Jahren füllt sich die Pfanne und zieht Millionen von brütenden Flamingos an."
+      ]
+    },
+    {
+      "id": "namibia-namib-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Namib-Naukluft-Park ist das größte Naturschutzgebiet in Namibia und schützt einen Großteil der ältesten Wüste der Erde, der Namib. Die Landschaft ist atemberaubend und extrem divers: von der windgepeitschten Skelettküste am Atlantik über die gigantischen roten Sanddünen von Sossusvlei bis hin zu den tiefen, zerklüfteten Canyons der Naukluft-Berge. Trotz der scheinbaren Trostlosigkeit haben sich hier spezialisierte Tiere in bemerkenswerter Weise an die Bedingungen angepasst. Sogenannte 'Wüstenelefanten', Gemsböcke (Oryx) mit ihrem perfekten körpereigenen Kühlsystem, Strauße und sogar Hyänen durchstreifen die Dünen und trockenen Flusstäler auf der endlosen Suche nach Nahrung und lebensrettenden Nebeltröpfchen. Geografie K7 — Hyperaride Ökosysteme und Endemismus.",
+      "factsAdvanced": [
+        "Der Namib-Naukluft-Park ist mit fast 50.000 Quadratkilometern das größte Schutzgebiet Namibias.",
+        "Die Namib-Wüste gilt mit einem geschätzten Alter von 55 bis 80 Millionen Jahren als älteste Wüste der Welt.",
+        "Viele Insekten der Region, wie der Nebeltrinker-Käfer, gewinnen Wasser direkt aus dem Küstennebel.",
+        "Das berühmte Sossusvlei mit seinen riesigen, bis zu 300 Meter hohen Sterndünen liegt im Herzen des Parks.",
+        "Der Park bietet Lebensraum für den Oryx (Gemsbok), das namibische Nationaltier.",
+        "Die tiefen Felsbecken im Naukluft-Gebirge speichern lebenswichtiges Wasser für Bergzebras und Leoparden."
+      ]
+    }
+  ]
+}

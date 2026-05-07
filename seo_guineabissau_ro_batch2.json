@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "galomaro-cities-v2",
+      "descriptionAdvanced": "Galomaro este un sat liniștit din regiunea Bafatá, situat într-o zonă de tranziție între pădurile de coastă și savana interioară a Guineei-Bissau. Așezarea are un rol cheie în prelucrarea artizanală a arahidelor și maniocului, devenind un centru de susținere pentru micile comunități de fermieri etnici Mandinka. Tradițiile islamice sunt puternic înrădăcinate aici, reflectate în ritmul vieții cotidiene și al festivalurilor agrare. Un element vital al zonei îl constituie rețeaua de drumuri de pământ roșu lateritic care leagă Galomaro de piețele din orașul Bafatá, devenind o cale comercială aglomerată toamna, la sfârșitul sezonului ploios. Educație K5 — tradiții agricole sezoniere.",
+      "factsAdvanced": [
+        "Aparține administrativ regiunii centrale Bafatá.",
+        "Majoritatea populației aparține grupului etnic musulman Mandinka.",
+        "Solurile lateritice susțin creșterea arahidelor ca recoltă de bază.",
+        "Se estimează că satul și împrejurimile numără sub 5.000 de locuitori.",
+        "Sursa principală de apă o reprezintă puțurile manuale adânci de peste 10 metri.",
+        "Satul se conectează la rețeaua națională prin drumuri complet neasfaltate."
+      ]
+    },
+    {
+      "id": "buruntuma-cities-v2",
+      "descriptionAdvanced": "Buruntuma este o așezare de graniță situată în extremitatea estică, direct pe frontiera cu Senegalul, la nord de Râul Corubal. Similar altor sate estice, clima are un caracter marcat de Sahel, cu o influență vizibilă a vântului cald Harmattan pe timpul iernii, uscat și prăfos. Economia depinde de rutele informale de trecere, schimbul de vite și produse alimentare neprelucrate. Satul este vizitat periodic de comercianți migratori care cumpără vacile crescute de comunitatea locală Fula, recunoscută pentru expertiza sa pastorală seculară. Lipsa unui punct medical avansat face comunitatea extrem de vulnerabilă în timpul sezonului musonic, când drumurile devin mocirloase. Fizică K6 — climatul de savană și vântul Harmattan.",
+      "factsAdvanced": [
+        "Este unul dintre cele mai izolate puncte din nord-estul țării.",
+        "Afectat direct de deșertificare și fenomenul climatic Harmattan.",
+        "Grupul etnic Fula deține controlul asupra resurselor pastorale locale.",
+        "Nu dispune de rețea electrică formală sau sistem central de apă.",
+        "Servește ca popas pentru păstorii nomazi și turmele lor de Zebu.",
+        "Temperaturile pot depăși frecvent 39°C în luna mai."
+      ]
+    },
+    {
+      "id": "madina-do-boe-cities-v2",
+      "descriptionAdvanced": "Madina do Boé este locul cu cea mai mare semnificație istorică și emoțională din Guineea-Bissau modernă, fiind locul unde independența țării față de Portugalia a fost declarată unilateral la 24 septembrie 1973. Ascunsă în dealurile accidentate și pădurile izolate din regiunea sud-estică Gabú, această așezare mică a fost baza principală a forțelor revoluționare PAIGC, aleasă tocmai pentru inaccessibilitatea ei de către trupele terestre inamice. În ciuda faimei sale imense, Madina do Boé a rămas extrem de subdezvoltată astăzi, locuitorii săi bazându-se pe o agricultură de subzistență dură, din cauza terenului pietros și a lipsei asfaltului. Un monument simplu subliniază importanța locului. Istorie K8 — declararea independenței.",
+      "factsAdvanced": [
+        "Aici s-a proclamat independența Guineei-Bissau pe 24 septembrie 1973.",
+        "Terenul este situat într-o regiune deluroasă greu accesibilă.",
+        "A servit ca capitală provizorie a țării pentru doar câteva luni în 1973-1974.",
+        "Economia satului a rămas strict agrară, fără o dezvoltare urbană reală.",
+        "Are o populație ce depășește rar 2.000 de locuitori.",
+        "Reprezintă baza spirituală a patriotismului mișcării de eliberare națională."
+      ]
+    },
+    {
+      "id": "empada-cities-v2",
+      "descriptionAdvanced": "Empada, situat în regiunea Quinara din sudul țării, este un sector cu o pronunțată vocație agricolă, plasat strategic la nord de Parcul Național Cantanhez și lângă vasta rețea de estuare a Râului Grande de Buba. Comunitățile locale, în majoritate Beafada și Balanta, sunt specializate în cultivarea 'arborilor de ulei' – producând masiv ulei de palmier natural, neprelucrat industrial, folosit în întreaga gastronomie națională. Ecosistemul din jurul Empada este extrem de divers, incluzând savană împădurită plină cu maimuțe colobus și babuini. Lipsa tehnologiei moderne de ambalare pentru produsele locale blochează creșterea valorii adăugate pentru fermierii autohtoni. Geografie K7 — extracția uleiului de palmier.",
+      "factsAdvanced": [
+        "Uleiul de palmier roșu reprezintă principala sursă de venit comercial.",
+        "Aparține administrativ de regiunea sudică Quinara.",
+        "Sectorul său cuprinde zeci de mici tabere agricole răsfirate.",
+        "Grupurile etnice dominante (Beafada și Balanta) coexistă pașnic aici.",
+        "Zonă cu vegetație abundentă, favorabilă speciilor de maimuțe mici.",
+        "Este conectat prin rețele de feriboturi manuale peste estuarele din apropiere."
+      ]
+    },
+    {
+      "id": "guilege-cities-v2",
+      "descriptionAdvanced": "Guiledje (sau Guilege) se află pe peninsula de sud a regiunii Tombali, la un pas de frontiera cu Guineea (Conakry). Localitatea poartă amintirea unuia dintre momentele cruciale ale Războiului Colonial, fiind teatrul unei bătălii definitorii în mai 1973, când armata PAIGC a preluat fortăreața militară portugheză extrem de fortificată de aici, folosind pentru prima dată rachete sol-aer portabile. Astăzi, Guiledje adăpostește Muzeul Militar Guiledje, amenajat în interiorul fostei tabere, cu exponate de vehicule militare ruginite și muniție neexplodată, ce atrag vizitatori pasionați de istorie. Populația trăiește aproape exclusiv dintr-o agricultură forestieră. Istorie K8 — războiul de independență din anii '70.",
+      "factsAdvanced": [
+        "Cucerirea bazei de aici în 1973 a schimbat soarta războiului de eliberare.",
+        "Găzduiește Muzeul Militar al Războiului Anti-Colonial din Guineea-Bissau.",
+        "Craterele de bombe sunt încă vizibile în vegetația tropicală densă din jur.",
+        "Situat foarte aproape de granița sudică cu Guineea.",
+        "Este izolat, putând fi greu accesat fără vehicule de teren.",
+        "Fostul perimetru al bazei măsura peste 3 hectare, acum recuperate de natură."
+      ]
+    },
+    {
+      "id": "cacine-cities-v2",
+      "descriptionAdvanced": "Cacine este ultimul port funcțional important din extremitatea sudică a Guineei-Bissau, la gura estuarului râului cu același nume, pe coasta Atlanticului. Izolarea regiunii și rețeaua precară a drumurilor naționale fac ca portul să fie vital pentru aprovizionarea regiunii Tombali. Râul Cacine traversează păduri virgine neatinse, inclusiv habitate pentru cimpanzei, făcând din așezare un punct zero pentru conservarea ecologică, dar și pentru braconaj. Pescuitul comercial cu bărci din lemn este ocupația principală. De asemenea, insulele și mlaștinile din apropiere formează bariere naturale împotriva furtunilor dinspre ocean. Geografie K8 — porturi izolate și transport fluvial.",
+      "factsAdvanced": [
+        "Acționează ca un nod cheie pe estuarul sudic al Râului Cacine.",
+        "A servit drept post vamal portughez în perioada maritimă.",
+        "Pescuitul de pești pelagici susține economia a mii de localnici.",
+        "Râul este navigabil pentru zeci de kilometri spre interiorul continentului.",
+        "Arealul forestier înconjurător este amenințat de exploatarea lemnului nobil.",
+        "Nu are legătură la o rețea de electricitate, bazându-se pe diesel."
+      ]
+    },
+    {
+      "id": "jemberem-cities-v2",
+      "descriptionAdvanced": "Jemberem este inima ecologică a regiunii sudice, fiind sediul principal al Parcului Național Pădurea Cantanhez, o arie protejată esențială pentru supraviețuirea speciilor africane pe cale de dispariție. Localnicii din Jemberem lucrează îndeaproape cu organizațiile non-guvernamentale, unii devenind ghizi pentru turiștii aventuroși care vin să observe populațiile libere de cimpanzei occidentali. Satul exemplifică conceptul de dezvoltare comunitară sustenabilă: veniturile din ecoturism și agro-silvicultură sunt menite să reducă presiunea defrișărilor ilegale. Există mici pensiuni ecologice care promovează traiul în armonie cu pădurea, însă infrastructura sanitară rămâne minimă. Biologie K7 — ecoturism și conservarea speciilor.",
+      "factsAdvanced": [
+        "Punctul oficial de intrare și organizare turistică în Pădurea Cantanhez.",
+        "Comunitatea se implică activ în protejarea cimpanzeilor rari.",
+        "Infrastructura de cazare se bazează exclusiv pe materiale eco-friendly locale.",
+        "Se află la aproximativ 40 de kilometri sud de capitala regională Catió.",
+        "Cultivarea pomilor fructiferi în amestec cu pădurea matură este norma.",
+        "Majoritatea gospodăriilor au o amprentă de carbon aproape de zero."
+      ]
+    },
+    {
+      "id": "tite-cities-v2",
+      "descriptionAdvanced": "Tite, situat în inima regiunii Quinara pe un braț al estuarului Rio Grande de Buba, a fost fondat strategic datorită accesului său la apele navigabile. Astăzi, estuarul său adânc îi permite să funcționeze ca un port agricol esențial pentru îmbarcarea nucilor de caju și a lemnului spre piața din Bissau și export. Dincolo de utilitatea sa portuară, Tite servește drept centru comercial major pentru sute de fermieri din nordul regiunii Quinara, zona fiind faimoasă pentru piețele sale vibrante de fructe de mare afumate. Vegetația abundentă, tipică pădurilor de galerie, formează un microclimat foarte umed și cald mare parte a anului. Economie K7 — transportul fluvial de marfă.",
+      "factsAdvanced": [
+        "A fost prima bază de operațiuni navale portugheze în zona Rio Grande.",
+        "Portul de mică adâncime facilitează transportul mărfurilor agricole spre Bissau.",
+        "Regiunea este renumită pentru tehnica afumării peștelui cu lemn de mangrove.",
+        "Tite are o populație stabilă de aproximativ 12.000 de locuitori.",
+        "Se confruntă cu un grad ridicat de salinitate a apelor freatice locale.",
+        "În timpul sezonului ploios, bărci cu motor (pirogues) sunt esențiale aici."
+      ]
+    },
+    {
+      "id": "encheia-cities-v2",
+      "descriptionAdvanced": "Encheia (adesea scris Incheia) este o localitate mică pe coasta nordică, în estuarul sinuos al Râului Mansoa, renumit pentru apele sale sălcii, bogate în biodiversitate. Așezarea are un mic port fluvial care conectează satele pescărești izolate de rutele auto spre regiunea Oio și capitală. Encheia trăiește aproape exclusiv din extragerea resurselor din mangrove (lemne, crabi și stridii), cu un impact masiv asupra defrișărilor, motiv pentru care ONG-urile au intervenit pentru a educa tineretul local cu privire la reîmpădurire. Drumul care leagă orașul de Bissau are frecvent probleme din cauza inundațiilor periodice cauzate de fluxurile ridicate. Geografie K6 — estuare și ecosisteme litorale.",
+      "factsAdvanced": [
+        "Situat pe estuarul extrem de larg al râului Mansoa, în zona de coastă.",
+        "Pescuitul artizanal acoperă mai mult de 50% din nevoile economice.",
+        "Estuarele sunt puternic afectate de tăierile necontrolate pentru lemn de foc.",
+        "Micul port deservește bărcile din lemn destinate exclusiv mărfurilor.",
+        "Majoritatea populației aparține etniei agricole și de coastă Balanta.",
+        "Drumul de acces este adesea acoperit de aluviuni marine după furtuni."
+      ]
+    },
+    {
+      "id": "olossato-cities-v2",
+      "descriptionAdvanced": "Olossato este un nod rural strategic în regiunea Oio, localizat pe rutele agricole din centrul Guineei-Bissau. Această așezare se află într-o regiune dominată de câmpii defrișate masiv și acoperite aproape în totalitate de o monocultură de anacardieri, care a înlocuit cu succes savanele ancestrale și culturile alimentare. Sute de familii din împrejurimi își depozitează recoltele de caju aici pe durata campaniei de primăvară, transformând satul într-o fabrică de ambalare în aer liber plină de intermediari comerciali (middlemen). Din acest motiv, economia depinde periculos de prețul internațional fluctuant al nucilor de caju, ignorând securitatea alimentară din alte sectoare. Economie K8 — monoculturile și fluctuațiile pieței.",
+      "factsAdvanced": [
+        "Recunoscut ca unul dintre punctele cheie de tranzit pentru recolta de caju.",
+        "Monocultura de anacard a înlocuit 80% din suprafețele originare de pădure.",
+        "Populația variază drastic în timpul sezoanelor de recoltare, din cauza migrației.",
+        "Nu dispune de facilități industriale de procesare finală a nucilor de caju.",
+        "Aparține administrativ regiunii centrale Oio.",
+        "Rețeaua sanitară a suferit sub presiunea numărului crescut de lucrători sezonieri."
+      ]
+    },
+    {
+      "id": "pelundo-cities-v2",
+      "descriptionAdvanced": "Pelundo este un sat istoric situat în partea centrală a regiunii Cacheu, cunoscut ca inima teritoriului tradițional al poporului Manjaco, o etnie recunoscută în Africa de Vest pentru măiestria tehnicilor agricole de control al apei și structurilor sociale complexe (cu regate locale). În timpul perioadei coloniale, Pelundo era sediul unui puternic conducător tradițional, care avea influență regională majoră. Astăzi, satul a menținut casele construite pe platforme circulare de pământ compactat și este mărginit de plantații extinse de palmieri de ulei și livezi de citrice. Emigrația tinerilor spre Bissau sau chiar Europa a lăsat în urmă o populație predominant îmbătrânită, păstrătoare de ritualuri animiste unice. Sociologie K6 — structuri tradiționale și migrație.",
+      "factsAdvanced": [
+        "Servește ca un important centru spiritual pentru poporul Manjaco.",
+        "Păstrează un sistem tradițional de regi și consilii de vârstnici.",
+        "Arhitectura domestică este caracterizată de platforme ridicate de pământ.",
+        "Remitențele din partea diasporei formează o parte cheie a veniturilor.",
+        "Ritualurile locale implică altare familiale cunoscute sub numele de 'Ucal'.",
+        "Regiunea este renumită pentru obținerea vinului de palmier proaspăt."
+      ]
+    },
+    {
+      "id": "caio-cities-v2",
+      "descriptionAdvanced": "Caió (sau Caio) este situat izolat în extremitatea sudică a sectorului Cacheu, pe o serie de promontorii mici înconjurate de pământuri mlaștinoase de coastă. Orașul este renumit ca un bastion neatins al culturii etniei Papel. Sistemul agrar de aici se numește bolanha-de-salgado, unde orezul este cultivat folosind diguri gigantice pentru a respinge fluxul oceanului sărat, o minune a ingineriei tradiționale neasistate. Izolarea geografică, lipsa rețelelor de telecomunicații fiabile și dependența de bărcile cu vâsle i-a ajutat pe rezidenți să-și păstreze autonomia culturală și tehnicile. Caió a atras cercetători antropologi, dornici să studieze sinteza rară dintre animism, islam și catolicism, numită religie sincretică. Geografie K7 — inginerie agricolă tradițională.",
+      "factsAdvanced": [
+        "Etnia Papel domină zona cu peste 90% din ponderea demografică.",
+        "Teritoriul este apărat de Oceanul Atlantic printr-o rețea uriașă de diguri manuale.",
+        "Tehnicile antice (bolanhas-de-salgado) permit creșterea orezului sub nivelul mării.",
+        "Comunitatea păstrează structurile matriliniare puternice, rare în Africa de Vest.",
+        "Nu există poduri mari care să-l conecteze, accesul principal fiind feribotul.",
+        "Populația numără aproximativ 8.000 de locuitori foarte coezivi social."
+      ]
+    },
+    {
+      "id": "bulula-cities-v2",
+      "descriptionAdvanced": "Bulula este o așezare mică, liniștită, ascunsă pe marginea estuarelor cu apă sălcie din zona de coastă de vest. Viața așezării este intim legată de ciclurile zilnice ale mareelor: recoltarea stridiilor și a fructelor de mare de pe rădăcinile de mangrove formează baza economică, alături de tăierea stufărișului folosit pentru construcția acoperișurilor. Zona suferă frecvent din cauza lipsei acute a școlilor gimnaziale și a posturilor medicale, necesitând o călătorie extenuantă spre cel mai apropiat oraș. Ecologic, mlaștinile Bululei sunt un sanctuar neperturbat pentru mii de păsări migratoare de țărm, care vin iarna din Europa și Asia, ceea ce ar putea servi ca bază pentru un turism ornitologic durabil. Biologie K6 — păsări migratoare și ecosisteme.",
+      "factsAdvanced": [
+        "Așezarea este poziționată pe un estuar secundar, în zona de nord-vest.",
+        "Majoritatea locuințelor au acoperișuri realizate exclusiv din stuf din mangrove.",
+        "Vara servește drept refugiu masiv pentru specii de păsări migratoare paleartice.",
+        "Extragerea stridiilor din noroi este o sarcină îndeplinită de generații de femei.",
+        "Rata de abandon școlar este mare din cauza distanței față de instituții.",
+        "Comunitatea practică trocul (fructe de mare pentru orez cu așezările interioare)."
+      ]
+    },
+    {
+      "id": "uno-cities-v2",
+      "descriptionAdvanced": "Uno este unul dintre centrele administrative majore din regiunea insulară Bijagós. Amplasat pe Insula Uno, orașul servește drept capitală pentru sectorul de nord al arhipelagului. Insula însăși este o minune geografică virgină, cu plaje masive de nisip alb complet pustii și păduri de baobab uriașe, venerate ca spirite de indigenii Bijagós. Structura socială din Uno este guvernată de un consiliu de preotese și femei în vârstă, evidențiind matriarhatul profund și misterios care organizează ceremoniile de inițiere a bărbaților tineri. Cu toate că este un sector administrativ, utilitățile moderne, cum ar fi curentul electric din rețea, lipsesc complet, energia provenind rar din mici panouri solare. Sociologie K8 — structuri de tip matriarhat.",
+      "factsAdvanced": [
+        "Sediul administrativ central pentru toate insulele de nord din Bijagós.",
+        "Societatea este considerată puternic matriarhală, preotesele luând deciziile cheie.",
+        "Baobabii seculari (Adansonia digitata) domină peisajul florei locale.",
+        "Pescuitul de subzistență se face exclusiv cu canoe tradiționale sculptate.",
+        "Populația permanentă pe insulă este sub 3.500 de rezidenți.",
+        "Ceremoniile de inițiere (Fanado) sunt evenimente sacre care pot dura luni de zile."
+      ]
+    },
+    {
+      "id": "caravela-cities-v2",
+      "descriptionAdvanced": "Caravela este o insulă și un district rural situat în extremitatea nordică a Arhipelagului Bijagós, cu ieșire directă la apele deschise și furtunoase ale Oceanului Atlantic. Insula este renumită la nivel internațional printre biologii marini ca un habitat de coastă curat, plajele sale oferind un adăpost de cuibărit pentru numeroase specii de broaște țestoase verzi (Chelonia mydas), monitorizate acum de ecologiști independenți. Așezările umane din Caravela sunt mici și fragmentate, formate din colibe circulare împletite. Populația depinde critic de pescuitul oceanic în ape de adâncime și a menținut cel mai bine dialectul vechi și legile ancestrale ale Bijagós-ului antic, ocoliți de comerțul vestic datorită lipsei accesului facil. Biologie K8 — conservarea țestoaselor marine.",
+      "factsAdvanced": [
+        "Cea mai nordică insulă locuită din întregul Arhipelag Bijagós.",
+        "Apele din jur sunt periculoase pentru navigație din cauza curenților puternici.",
+        "Plajele sale neperturbate sunt un site oficial de cuibărire a țestoaselor verzi.",
+        "Comunitățile trăiesc în sate mici, denumite 'tabancas'.",
+        "Populația insulei refuză adesea asimilarea de tip continental, păstrând izolarea.",
+        "Există un program local de rangeri pentru protejarea cuiburilor de broaște țestoase."
+      ]
+    },
+    {
+      "id": "formosa-cities-v2",
+      "descriptionAdvanced": "Formosa, denumită astfel de navigatorii portughezi pentru frumusețea sa rafinată, este una dintre cele mai întinse insule din Bijagós și centrul tradițional al artelor vizuale specifice arhipelagului. De aici provin cele mai elaborate măști de ceremonie din lemn cioplit, purtate sub formă de bot de rechin sau taur. Orașul sau satul principal este o rețea de poteci prin pădurea densă tropicală care acoperă o treime din teritoriu. Locuitorii sunt fermieri experți în defrișarea și arderea controlată pentru culturi scurte de orez și taro (manioc). Datorită biodiversității uimitoare, o serie de mici stațiuni ecologice elitiste au apărut recent pentru a atrage turism de lux sustenabil, generând o dezbatere aprinsă legată de proprietatea funciară autohtonă. Economie K7 — ecoturism vs pământ tribal.",
+      "factsAdvanced": [
+        "Numele său provine de la cuvântul portughez pentru 'Frumoasă' (Formosa).",
+        "Este renumită pentru sculpturile în lemn și măștile de ceremonie zoomorfe.",
+        "Practică sistemul de agricultură prin tăiere și ardere pe porțiuni mici.",
+        "Terenurile sunt controlate de consiliile comunitare, nefiind permise vânzările către străini.",
+        "O treime din insulă este acoperită de pădure tropicală extrem de deasă.",
+        "Există mici lodge-uri ecologice vizate exclusiv pentru turismul de elită european."
+      ]
+    },
+    {
+      "id": "eticoga-cities-v2",
+      "descriptionAdvanced": "Eticoga este principalul centru de populație și poarta de intrare maritimă a Insulei Orango, din sud-vestul Arhipelagului Bijagós. Satul a intrat în atenția internațională grație mausoleului Reginei Pampa Kanjimpa (Okinka Pampa), figura legendară care a negociat inteligent un tratat de pace cu coloniștii portughezi în 1917, abolind sclavia locală și oprind conflictele armate. Eticoga este astăzi gazda sediului Parcului Național Orango, vizitatorii plecând de aici prin savana insulară pentru a zări faimoșii hipopotami de apă sărată, o curiozitate biologică mondială. Tensiunile legate de epuizarea apei dulci din puțurile locale reprezintă o problemă crescândă în timpul sezonului uscat. Istorie K8 — personalități feminine în diplomația africană.",
+      "factsAdvanced": [
+        "Aici a domnit legendara regină a poporului Bijagó, Okinka Pampa.",
+        "Mormântul reginei Kanjimpa din Eticoga este loc de pelerinaj și respect național.",
+        "Reprezintă baza logistică pentru intrarea în Parcul Național Insula Orango.",
+        "Din Eticoga pleacă patrulele pentru monitorizarea hipopotamilor marini rar întâlniți.",
+        "Localitatea este dependentă de feriboturi ocazionale, suferind de penurii logistice.",
+        "Izvoarele de apă dulce ale satului sunt amenințate de infiltrarea apelor oceanice."
+      ]
+    },
+    {
+      "id": "abu-cities-v2",
+      "descriptionAdvanced": "Abu (sau Ilha de Abu) este o comunitate mică, situată în cadrul arhipelagului sudic al insulelor Bijagós, aproape necunoscută chiar și pentru cetățenii continentali ai Guineei-Bissau. Aflată pe o insulă muntoasă, izolată și plină de palmieri, așezarea trăiește într-un fel de sanctuar temporar asigurat de ocean, având o populație fluctuantă. Abu are un caracter pur artizanal: principalul venit este fabricarea de bărci din trunchiuri masive de arbori exotici și vinderea uleiului de palmier pe insulele vecine, precum Bubaque. Nu există infrastructură medicală de niciun tip. În anii recenți, creșterea nivelului oceanului planetar a început să erodeze plajele care apără culturile delicate ale insulei de inundațiile de apă sărată. Geografie K7 — creșterea nivelului mării și insule.",
+      "factsAdvanced": [
+        "Una dintre insulele mai mici și extrem de izolate din arhipelag.",
+        "Tehnica antică de sculptare a canoelor din trunchiuri este o mândrie locală.",
+        "Comunitatea se deplasează între insule pentru a face troc cu pește sărat.",
+        "Abu resimte puternic efectele eroziunii costiere și inundațiilor marine.",
+        "Nu există post de poliție, deciziile juridice fiind luate de tabanca (satul).",
+        "Populația numără cu mult sub 1.000 de rezidenți permanenți."
+      ]
+    },
+    {
+      "id": "prabis-cities-v2",
+      "descriptionAdvanced": "Prabis este un orășel portuar aflat pe coasta de nord a peninsulei care adăpostește capitala Bissau. Spre deosebire de porturile de marfă, Prabis a rămas un centru de pescuit artizanal vibrant, renumit pentru apele calde și puțin adânci ale oceanului și o atmosferă efervescentă la asfințit, când zeci de pirogi colorate revin din larg. Orașul beneficiază de un microclimat ideal, cu o briză oceanică puternică ce temperează zilele toride. Este înconjurat de palmieri extinși și plantații mici de bananiari, susținând etnia locală Papel, dar și fermieri imigranți veniți din nord. Prabis este de asemenea o destinație populară de weekend pentru expații din Bissau, care vizitează restaurantele ce servesc stridii la grătar și pește proaspăt. Economie K6 — pescuit tradițional marin.",
+      "factsAdvanced": [
+        "Situat pe coasta nordică a peninsulei Bissau-Biombo.",
+        "Unul dintre cele mai importante porturi dedicate pescuitului strict artizanal.",
+        "Pirogile utilizate pot măsura peste 15 metri lungime și sunt sculptate manual.",
+        "Plantațiile de bananiari asigură o importantă piață internă pentru Bissau.",
+        "Are o climă temperată de ocean, spre deosebire de interiorul sufocant al țării.",
+        "Este un sanctuar turistic culinar emergent (specializat pe fructe de mare)."
+      ]
+    },
+    {
+      "id": "biombo-cities-v2",
+      "descriptionAdvanced": "Biombo este capitala istorică a regiunii cu același nume, o peninsulă triunghiulară mărginită de estuarul Râului Geba la sud și Oceanul Atlantic la nord-vest. Spre deosebire de dezvoltarea rapidă din regiunile limitrofe capitalei, Biombo a păstrat un ritm tradițional agrar și arhitectură vernaculă animistă, dominată de populația indigenă Papel, renumită pentru dârzenia cu care și-a apărat independența teritorială împotriva coloniștilor portughezi până la începutul secolului XX. Regiunea este acoperită cu vaste crânguri de palmier de ulei și manghieri. Localnicii obțin faimosul vin de palmier proaspăt tăiat din vârful arborelui, considerat cel mai bun din întreaga țară și esențial pentru riturile sacre de trecere și nunți. Sociologie K7 — animism și structuri rezistente la colonizare.",
+      "factsAdvanced": [
+        "Capitala regională a peninsulei Biombo, o zonă profund animistă.",
+        "Poporul Papel din Biombo a organizat revolte majore armate împotriva portughezilor în 1908.",
+        "Extracția și fermentarea naturală a vinului de palmier este tradiție cheie.",
+        "Regiunea este renumită pentru mango de calitate superioară (sezon mai-iulie).",
+        "Geografia sa a împiedicat construirea de drumuri mari, păstrându-l rural.",
+        "Practică cultul strămoșilor (Ira), care presupune ceremonii cu vărsare rituală de vin."
+      ]
+    },
+    {
+      "id": "cumura-cities-v2",
+      "descriptionAdvanced": "Cumura este o așezare din suburbiile vestice ale orașului Bissau, devenită un simbol național al speranței datorită faimosului Spital pentru Leproși și Centru Medical Cumura, administrat inițial de călugări franciscani încă de la mijlocul secolului XX. Centrul, extins și modernizat cu asistență internațională din partea Italiei și Portugaliei, este unul dintre puținele complexe din regiune dotat pentru boli infecțioase severe (tuberculoză, HIV, malarie). De-a lungul deceniilor, comunitatea s-a dezvoltat în jurul acestui pilon medical, transformându-se într-un micro-oraș axat pe asistență socială. Solul din zonă este bogat, sprijinind ferme locale care furnizează cantina spitalului și piețele din periferia Bissau. Educație K7 — asistență medicală și misionarism.",
+      "factsAdvanced": [
+        "Cunoscut la nivel național drept sediul spitalului major de boli infecțioase.",
+        "Centrul Medical a fost înființat de misionarii franciscani italieni.",
+        "Acționează ca un scut sanitar pentru izolarea cazurilor de malarie și tuberculoză.",
+        "Populația localității include numeroase familii ale foștilor pacienți vindecați.",
+        "Infrastructura spitalului este alimentată cu un sistem propriu avansat de panouri solare.",
+        "Așezarea se află la periferia imediat vestică a capitalei Bissau."
+      ]
+    },
+    {
+      "id": "sao-domingos-cities-v2",
+      "descriptionAdvanced": "São Domingos (fost centru colonial) este cel mai animat, haotic și important oraș de graniță din Guineea-Bissau, aflat în extremitatea nord-vestică, la punctul de intrare către regiunea Casamance a Senegalului. Este o zonă economică gri, vitală pentru economia statului. Zeci de camioane tranzitează punctul vamal zilnic, importând de la electronice și ciment la medicamente, și exportând nuci de caju. Orașul este caracterizat printr-o rețea uriașă de case de schimb valutar informale, piețe pline de mărfuri de contrabandă și un amestec demografic efervescent de comercianți Wolof, Fula și Diola. În anii tulburi ai conflictelor senegaleze, a reprezentat centrul negocierilor de pace de nivel înalt dintre rebeli și guverne. Istorie K8 — granițe comerciale și economii informale.",
+      "factsAdvanced": [
+        "Punctul principal de trecere a frontierei internaționale spre regiunea Casamance (Senegal).",
+        "Peste 70% din comerțul terestru al țării tranzitează vama de la São Domingos.",
+        "Teren neutru folosit adesea pentru medierea rebeliunii senegaleze (MFDC).",
+        "Orașul are o populație extrem de tranzitorie și foarte dinamică (circa 25.000 locuitori).",
+        "Infrastructura rutieră de aici până în Bissau este complet asfaltată cu fonduri externe.",
+        "Este un amestec lingvistic unic (creolă, franceză, portugheză, wolof și manjaco)."
+      ]
+    },
+    {
+      "id": "varela-cities-v2",
+      "descriptionAdvanced": "Varela este o stațiune pitorească și sat de pescari situat pe colțul nord-vestic al țării, o veritabilă perlă geografică, fiind singura zonă continentală din Guineea-Bissau cu o plajă largă de nisip alb deschisă spre Atlantic, flancată de păduri de pini Casuarina falnici. Izolarea sa se datorează drumurilor greu de navigat de după orașul São Domingos (aproximativ 50 km de teren roșu crăpat). Deși a fost o stațiune elegantă pentru coloniștii portughezi, cu un mic hotel acum închis, potențialul său turistic a suferit grav din cauza unui proiect recent controversat de explorare minieră a nisipurilor minerale grele (zircon și titan), ce amenință eroziunea masivă a coastei paradisiace. Chimie K8 — extragerea nisipurilor minerale grele și mediu.",
+      "factsAdvanced": [
+        "Dispune de singurele plaje continentale de nisip oceanic extinse din țară.",
+        "Pădurea de pini de coastă a fost plantată în perioada colonială portugheză pentru a opri eroziunea.",
+        "Afluența de turiști a scăzut drastic din cauza deteriorării extreme a drumurilor N3.",
+        "Un controversat proiect minier din 2013-2020 a vizat extracția nisipurilor grele (titan/zircon).",
+        "Populația locală indigenă aparține majoritar etniei Diola/Felup.",
+        "Stațiunea de vacanță colonială din anii '60 este acum complet abandonată."
+      ]
+    },
+    {
+      "id": "bula-cities-v2",
+      "descriptionAdvanced": "Bula, o așezare dinamică din regiunea Cacheu, la doar 40 de kilometri nord de capitala Bissau, joacă rolul unui 'sat-dormitor' satelit de dimensiuni medii. Așezarea are un avantaj comercial critic de pe urma intersecției majore a autostrăzii care conectează centrul, vestul și nordul țării. Orașul posedă fabrici rurale de meșteșuguri și piața sa zilnică este faimoasă pentru comerțul cu orez, unelte agricole forjate local și pepeni. Regiunea Bula susține, de asemenea, numeroase livezi de anacardier, fiind un depozit temporar și centru de achiziție în luna mai. Expansiunea urbană neplanificată atrage familiile tinere din Bissau ce caută teren mai ieftin și o viață retrasă de congestie. Geografie K6 — dezvoltarea periurbană.",
+      "factsAdvanced": [
+        "Aflat la intersecția vitală dintre nordul (S. Domingos) și vestul (Canchungo) țării.",
+        "Este vizat de numeroase proiecte imobiliare pentru familiile ce părăsesc Bissau.",
+        "Funcționează ca un hub masiv de pre-procesare pentru caju.",
+        "Unelte agricole din fier sunt forjate la cald în micile ateliere din piața centrală.",
+        "A fost un punct cheie pe linia de apărare a armatei portugheze în anii 1970.",
+        "Zonele mlăștinoase din jurul Bula sunt cultivate intensiv cu orez de inundație."
+      ]
+    },
+    {
+      "id": "jolmete-cities-v2",
+      "descriptionAdvanced": "Jolmete este un mic oraș-satelitar tăcut din regiunea Oio, care trăiește la umbra rutelor de caju mult mai cunoscute din vest. Cu o economie agrară tradițională, regiunea este o vitrină pentru rezistența socială în fața unui stat cu infrastructură deficitară: școlile și clinicile funcționează de obicei prin intermediul donațiilor organizațiilor islamice sau ale Bisericii Misionare. Așezat pe niște înălțimi domoale lateritice, Jolmete este relativ ferit de inundațiile de mangrove și alege să-și concentreze eforturile pe pomicultura uscată. Sărbătorile recoltelor sunt momentul de vârf al comunității Manjaco și Balanta, reunind locuitorii într-un festival plin de cântece de tobe de lemn vorbitoare (Kora). Sociologie K5 — festivaluri animiste și tradiții agrare.",
+      "factsAdvanced": [
+        "Așezat în interiorul central al țării, ferit de influențele de coastă maritimă.",
+        "Se menține viu un sistem educațional mixt condus de misiuni catolice și școli coranice.",
+        "Ceremoniile muzicale utilizează tobele Kora, un instrument cu 21 de corzi esențial în Africa de Vest.",
+        "Livezile de citrice (lămâi verzi) concurează cu anacardierul în această regiune deluroasă.",
+        "Satele mai mici din jur nu dețin puțuri cu pompe mecanice fiabile.",
+        "Lipsa energiei restrânge activitățile doar de la răsărit până la apus."
+      ]
+    }
+  ]
+}

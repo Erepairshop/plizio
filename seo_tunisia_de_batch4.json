@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "carthage-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Karthago sind eines der bedeutendsten historischen Zeugnisse des Mittelmeerraums und dokumentieren den Aufstieg und Fall einer einstigen Weltmacht. Die Stadt, die im 9. Jahrhundert v. Chr. von Phöniziern gegründet wurde, lieferte sich in den Punischen Kriegen einen erbitterten Kampf gegen Rom. Heute umfassen die archäologischen Stätten, die zum UNESCO-Weltkulturerbe gehören, römische Thermen, antike Häfen und Villen. Besucher können die beeindruckenden Ausmaße der einstigen Handelsmetropole nachvollziehen. In der Geschichtsklasse K8 lernen Schüler die geopolitische Bedeutung dieses Machtkampfes im Mittelmeer.",
+      "factsAdvanced": [
+        "Karthago wurde laut Legende von der Königin Dido gegründet.",
+        "Die Stadt war die Hauptstadt des Punischen Reiches.",
+        "Die Punischen Kriege dauerten von 264 bis 146 v. Chr.",
+        "Die Ruinen der Antoninus-Pius-Thermen sind die größten in Nordafrika.",
+        "Der antike Hafen von Karthago gilt als Meisterwerk punischer Ingenieurskunst.",
+        "Karthago wurde nach der römischen Eroberung zur Hauptstadt der Provinz Africa."
+      ]
+    },
+    {
+      "id": "el-djem-amphitheatre-history-v2",
+      "descriptionAdvanced": "Das Amphitheater von El Djem ist das drittgrößte erhaltene römische Amphitheater der Welt und ein Symbol für die römische Präsenz in Afrika. Errichtet im 3. Jahrhundert n. Chr., bot es Platz für schätzungsweise 35.000 Zuschauer und wurde für Gladiatorenkämpfe sowie Wagenrennen genutzt. Die beeindruckende Fassade und die gut erhaltenen unterirdischen Gänge geben einen tiefen Einblick in das öffentliche Leben der römischen Ära. Es ist ein UNESCO-Weltkulturerbe und heute ein Veranstaltungsort für klassische Musikfestivals. Für Schüler in K8 bietet das Bauwerk eine Fallstudie über die architektonische Meisterleistung der römischen Zeit.",
+      "factsAdvanced": [
+        "Das Theater wurde etwa 230–238 n. Chr. erbaut.",
+        "Es ist nahezu so groß wie das Kolosseum in Rom.",
+        "Die elliptische Form hat eine Länge von 148 Metern.",
+        "Es ist fast vollständig aus Sandstein gebaut.",
+        "Unter der Arena befinden sich komplexe Katakomben.",
+        "Das Bauwerk wurde im 17. Jahrhundert teilweise als Festung genutzt."
+      ]
+    },
+    {
+      "id": "dougga-archaeological-history-v2",
+      "descriptionAdvanced": "Dougga ist eine der am besten erhaltenen römischen Städte in Tunesien und ein beeindruckendes Zeugnis antiker Urbanistik. Gelegen auf einem Hügel über dem fruchtbaren Tal des Flusses Khalled, bietet die Stadt eine Fülle an öffentlichen Gebäuden, darunter ein Theater, Kapitol, Tempel und Thermen. Die Anlage ist besonders bemerkenswert, weil sie punische, numidische und römische Einflüsse auf einmalige Weise vereint. Dougga ist seit 1997 UNESCO-Weltkulturerbe und ein zentraler Ort für die archäologische Forschung. In der Plizio-Klasse K8 wird Dougga genutzt, um die Romanisierung Nordafrikas zu verdeutlichen.",
+      "factsAdvanced": [
+        "Dougga wurde auf einem Kalksteinhügel strategisch angelegt.",
+        "Das Kapitol aus dem Jahr 166 n. Chr. ist ein architektonisches Highlight.",
+        "Das antike Theater bot Platz für 3.500 Zuschauer.",
+        "Die Stadt war ein wichtiges Zentrum der Getreideproduktion.",
+        "In Dougga wurde ein berühmtes numidisch-punisches Mausoleum gefunden.",
+        "Das Wasserversorgungssystem von Dougga war hochentwickelt."
+      ]
+    },
+    {
+      "id": "tunis-st-vincent-de-paul-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale St. Vincent de Paul ist eines der bedeutendsten Wahrzeichen der französischen Kolonialzeit in Tunis und eine markante Sehenswürdigkeit in der Neustadt. Eingeweiht im Jahr 1897, zeigt sie eine beeindruckende Architektur, die maurische, gotische und byzantinische Stilelemente vereint. Sie steht direkt gegenüber der französischen Botschaft an der Avenue Habib Bourguiba und ist ein stummer Zeuge der komplexen Geschichte Tunesiens zwischen Orient und Okzident. Für Geschichtsinteressierte ist der Bau ein Ausgangspunkt für das Verständnis der kolonialen Stadtplanung. In der Klasse K7 erfahren Schüler über architektonische Stile im kolonialen Kontext.",
+      "factsAdvanced": [
+        "Die Kathedrale wurde zu Ehren des Heiligen Vinzenz von Paul erbaut.",
+        "Das Bauwerk ist ein Paradebeispiel für eklektizistische Architektur.",
+        "Sie liegt im Zentrum des modernen Geschäftsviertels von Tunis.",
+        "Die Kathedrale ist die größte erhaltene christliche Kirche in Tunesien.",
+        "Der Bau dauerte von 1893 bis 1897.",
+        "Sie dient heute als Sitz des Erzbischofs von Tunis."
+      ]
+    },
+    {
+      "id": "rades-stade-olympique-landmarks-v2",
+      "descriptionAdvanced": "Das Olympiastadion von Radès ist das bedeutendste Sportbauwerk Tunesiens und Schauplatz zahlreicher nationaler und internationaler Sportereignisse. Erbaut für die Afrikaspiele 2001, bietet es modernste Ausstattung und eine beeindruckende Architektur mit einem Kapazitätsvolumen von über 60.000 Zuschauern. Es ist das Symbol für die sportliche Ambition des Landes und ein moderner Treffpunkt für das soziale Leben. Für Schüler ist das Stadion ein Beispiel für zeitgenössische Architektur und die gesellschaftliche Bedeutung von Großereignissen. In der Klasse K7 lernen die Schüler, wie Sporteinrichtungen die urbane Landschaft prägen.",
+      "factsAdvanced": [
+        "Das Stadion wurde für die Afrikaspiele 2001 eröffnet.",
+        "Es hat eine Kapazität von 60.000 Plätzen.",
+        "Das Stadion gilt als eines der modernsten Sportstadien in Nordafrika.",
+        "Es ist die Heimspielstätte der tunesischen Fußballnationalmannschaft.",
+        "Die Dachkonstruktion ist ein markantes technisches Merkmal.",
+        "Das Stadion ist Teil eines größeren olympischen Sportparks."
+      ]
+    }
+  ]
+}

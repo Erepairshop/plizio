@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gettysburg-battlefield-landmarks-v2",
+      "descriptionAdvanced": "Gettysburg Battlefield in Pennsylvania is the site of the 1863 Battle of Gettysburg, a three-day engagement that served as the turning point of the American Civil War. The Union victory here halted Confederate General Robert E. Lee’s second invasion of the North, inflicting heavy casualties that the South could never fully recover from. Just months after the battle, President Abraham Lincoln delivered the Gettysburg Address on these hallowed grounds, redefining the war as a struggle for human equality and national rebirth. Today, the battlefield is a meticulously preserved national military park, featuring countless monuments and memorials that honor the soldiers who fought and died in a battle that redefined the course of American history. Geschichte K8 — The turning point of the Civil War.",
+      "factsAdvanced": [
+        "Site of the decisive 1863 Battle of Gettysburg.",
+        "Widely recognized as the major turning point of the American Civil War.",
+        "Union victory halted Lee’s northern invasion and inflicted unsustainable losses.",
+        "Site of Abraham Lincoln's historic Gettysburg Address.",
+        "Redefined the war's purpose as a struggle for equality and national rebirth.",
+        "Meticulously preserved as a national military park with numerous memorials."
+      ]
+    },
+    {
+      "id": "the-alamo-landmarks-v2",
+      "descriptionAdvanced": "The Alamo in San Antonio, Texas, is a site of profound historical significance, representing both the colonial Spanish mission era and the heroic defense of the Texan struggle for independence. During the 1836 Battle of the Alamo, a small group of Texan defenders held out for 13 days against the overwhelming Mexican Army under General Antonio López de Santa Anna. Although the defenders were eventually defeated and killed, their sacrifice became a rallying cry—'Remember the Alamo!'—that fueled the final victory for Texan independence. Today, the site stands as a shrine to Texan resilience and history, offering visitors a poignant glimpse into the conflict that reshaped the map of the American Southwest. History K7 — Texan independence and the struggle for statehood.",
+      "factsAdvanced": [
+        "Originally established as a Spanish mission in the 18th century.",
+        "Site of the famous 1836 Battle of the Alamo during the Texas Revolution.",
+        "Texan defenders held out against the Mexican Army for 13 days.",
+        "Sacrifice of the defenders became a rallying cry for Texan independence.",
+        "Stands as a shrine to Texan resilience and historical identity.",
+        "A critical site in the conflict that ultimately led to Texas statehood."
+      ]
+    },
+    {
+      "id": "las-vegas-strip-landmarks-v2",
+      "descriptionAdvanced": "The Las Vegas Strip is a world-famous stretch of South Las Vegas Boulevard, defined by its concentration of mega-resort hotels, massive casinos, and spectacular entertainment venues. Evolving from a remote desert outpost, the Strip became a mid-20th-century mecca for gambling and organized-crime-controlled resorts before transforming into a multi-billion-dollar global center for family entertainment, luxury dining, and large-scale sporting and convention events. With its dazzling neon lights, massive architectural marvels, and unique immersive experiences, the Strip is a singular cultural landscape that showcases the extreme evolution of American post-war consumer culture and global leisure destinations. Wirtschaft K8 — Post-war leisure economy and entertainment epicenters.",
+      "factsAdvanced": [
+        "Globally famous stretch of mega-resorts, casinos, and entertainment venues.",
+        "Evolved from a mid-century gambling mecca into a modern tourist hub.",
+        "Today’s economy balances gambling with large-scale conventions and entertainment.",
+        "Showcases massive architectural marvels and immersive resort experiences.",
+        "A singular cultural landscape reflecting American consumerism and leisure.",
+        "Attracts millions of international visitors annually as a year-round destination."
+      ]
+    }
+  ]
+}

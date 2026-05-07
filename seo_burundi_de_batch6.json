@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bujumbura-city-v2",
+      "descriptionAdvanced": "Bujumbura ist das pulsierende Herz Burundis, das am Ufer des Tanganjika-Sees liegt. Als größte Stadt und wirtschaftliches Zentrum des Landes verbindet sie koloniale Architektur mit modernen afrikanischen Geschäftsvierteln. Die Stadt dient als Hauptknotenpunkt für alle Handelsaktivitäten und ist die wichtigste Anlaufstelle für internationale Reisende, die die Region erkunden wollen. Geographie K6 — Metropolen in Afrika.",
+      "factsAdvanced": [
+        "Status: Größte Stadt und wirtschaftliches Zentrum",
+        "Lage: Am östlichen Ufer des Tanganjika-Sees",
+        "Bevölkerung: Wichtigster Ballungsraum Burundis",
+        "Wirtschaft: Sitz vieler nationaler Unternehmen",
+        "Architektur: Mischung aus kolonialen und modernen Stilen",
+        "Bedeutung: Hauptanlaufstelle für Handel und Tourismus"
+      ]
+    },
+    {
+      "id": "gitega-city-v2",
+      "descriptionAdvanced": "Gitega ist die politische Hauptstadt Burundis und ein historisches Zentrum, das tief in der königlichen Tradition verwurzelt ist. Gelegen im zentralen Hochland, bietet die Stadt ein deutlich kühleres Klima als Bujumbura. Gitega ist bekannt für seine ruhige Atmosphäre, seine kulturellen Einrichtungen und seine Bedeutung als Verwaltungszentrum, das den Kern der burundischen Identität widerspiegelt. Geographie K6 — Hauptstädte.",
+      "factsAdvanced": [
+        "Status: Politische Hauptstadt",
+        "Lage: Zentrales burundisches Hochland",
+        "Klima: Kühl und angenehm",
+        "Kultur: Historisches Zentrum der Monarchie",
+        "Bedeutung: Verwaltungszentrum des Landes",
+        "Architektur: Traditionell geprägte Stadtstruktur"
+      ]
+    },
+    {
+      "id": "muyinga-city-v2",
+      "descriptionAdvanced": "Muyinga im Nordosten Burundis ist eine wachsende Regionalstadt, die für ihre florierenden Märkte und ihre zentrale Rolle im Handel mit den Nachbarregionen bekannt ist. Die Stadt liegt in einem landwirtschaftlich produktiven Gebiet, in dem vor allem Bananen und Kaffee angebaut werden. Muyinga dient als wichtiger Marktplatz für lokale Erzeugnisse und trägt wesentlich zur Versorgung des Nordens bei. Geographie K6 — Regionalzentren.",
+      "factsAdvanced": [
+        "Lage: Nordost-Burundi",
+        "Bedeutung: Wichtiger Handels- und Marktplatz",
+        "Agrarwirtschaft: Fokus auf Bananen- und Kaffeeanbau",
+        "Wachstum: Aufstrebendes regionales Zentrum",
+        "Versorgung: Zentrale Rolle für den Norden",
+        "Infrastruktur: Wichtiger Knotenpunkt der Region"
+      ]
+    },
+    {
+      "id": "ngozi-city-v2",
+      "descriptionAdvanced": "Ngozi ist ein wichtiges Bildungs- und Wirtschaftszentrum im Norden Burundis. Die Stadt ist für ihre zahlreichen Bildungseinrichtungen bekannt und spielt eine entscheidende Rolle bei der Ausbildung junger Menschen aus der gesamten Region. Ngozi profitiert von ihrer Lage in einem fruchtbaren Gebiet, das für den intensiven Anbau von Tee und Kaffee bekannt ist. Bildung K7 — Bildungszentren.",
+      "factsAdvanced": [
+        "Lage: Nord-Burundi",
+        "Bildung: Wichtiges Zentrum mit vielen Schulen",
+        "Wirtschaft: Tee- und Kaffeeanbau",
+        "Infrastruktur: Knotenpunkt für Bildung und Logistik",
+        "Produktivität: Hohe landwirtschaftliche Erträge",
+        "Status: Bildungsmetropole des Nordens"
+      ]
+    },
+    {
+      "id": "rumonge-city-v2",
+      "descriptionAdvanced": "Rumonge liegt direkt am Tanganjika-See und ist eine der bedeutendsten Hafen- und Handelsstädte im Süden Burundis. Die Stadt ist ein Zentrum für die Fischereiindustrie, die für die Ernährung der Region eine Schlüsselrolle spielt. Durch die Nähe zum See profitiert Rumonge von einem milden Klima und einer lebendigen Handelsatmosphäre, die viele Händler aus den angrenzenden Provinzen anzieht. Geographie K6 — Hafenstädte.",
+      "factsAdvanced": [
+        "Lage: Südliches Ufer des Tanganjika-Sees",
+        "Wirtschaft: Zentrum der Fischereiindustrie",
+        "Bedeutung: Wichtige Hafen- und Handelsstadt",
+        "Klima: Mildes Seewetter",
+        "Soziales: Lebhafter Marktplatz",
+        "Logistik: Tor zum Süden Burundis"
+      ]
+    }
+  ]
+}

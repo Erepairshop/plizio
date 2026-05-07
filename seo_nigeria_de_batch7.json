@@ -1,0 +1,327 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aso-villa-abuja-landmarks-v2",
+      "descriptionAdvanced": "Die Aso Villa, offiziell bekannt als The Presidential Villa, ist die bestbewachte Festung Nigerias. Dieses weitläufige, elegante Komplex liegt eingebettet am Fuße des gigantischen, monolithischen Aso Rock in Abuja. Seit der offizielle Regierungssitz 1991 von Lagos hierher verlegt wurde, ist es das Zuhause des nigerianischen Präsidenten. Im Gegensatz zu europäischen Palästen ist Aso Rock Villa von der Straße aus fast unsichtbar, tief versteckt in bewaldeten Hügeln. Das Innere ist bekannt für verschwenderische Pracht mit riesigen Bankettsälen, die von den größten politischen Dramen, geheimen Verhandlungen und unerwarteten Machtwechseln in der jüngeren Geschichte Nigerias zeugen. Gesellschaft K8 — Regierungszentren und präsidentielle Architektur.",
+      "factsAdvanced": [
+        "Der offizielle Wohn- und Amtssitz des Präsidenten der Bundesrepublik Nigeria.",
+        "Wurde 1991 fertiggestellt, als die Hauptstadt offiziell von Lagos nach Abuja verlegt wurde.",
+        "Befindet sich direkt im massiven, schützenden Schatten des 400 Meter hohen Aso Rock.",
+        "Das Gelände umfasst hochsichere Wohnbereiche, Gästevillen für Staatsbesucher und Regierungsbüros.",
+        "Der Name 'Aso' bedeutet in der Sprache der lokalen Asokoro-Ureinwohner 'siegreich'.",
+        "Ist für die normale Öffentlichkeit vollkommen abgeriegelt und strengstens bewacht."
+      ]
+    },
+    {
+      "id": "ng-yankari-safari-life-v2",
+      "descriptionAdvanced": "Der Yankari-Nationalpark im Bundesstaat Bauchi ist das absolute Juwel des nigerianischen Wildtiertourismus. Gegründet 1956, erstreckt sich dieses riesige Savannengebiet über 2.200 Quadratkilometer und beheimatet die größte verbliebene Elefantenpopulation in ganz Westafrika. Das Herzstück des Parks sind jedoch nicht nur die Tiere, sondern die geothermale Wikki-Warmquelle: Mitten in der staubigen Trockenzeit sprudelt hier glasklares, mineralreiches Wasser aus Felsspalten und bildet einen natürlichen, warmen Pool, der bei Touristen extrem beliebt ist. Trotz massiver Probleme mit Wilderern in der Vergangenheit zieht Yankari noch immer Naturliebhaber an, die afrikanische Büffel, Löwen und hunderte Vogelarten in freier Wildbahn sehen wollen. Biologie K7 — Savannenökosysteme und Elefantenschutz.",
+      "factsAdvanced": [
+        "Das wichtigste und größte Wildschutzgebiet in Nigeria (gegründet 1956).",
+        "Beherbergt die mit Abstand größte Elefantenherde Westafrikas (ca. 300 Tiere).",
+        "Berühmt für die Wikki Warm Springs, eine natürliche geothermale Badequelle (31°C).",
+        "Liegt im Bundesstaat Bauchi in der Sudan-Savanne.",
+        "Der Park umfasst historische Höhlen ('Marshall Caves'), die frühzeitliche Menschen bewohnten.",
+        "War massiv von Wilderei betroffen, wird heute aber stark militärisch bewacht."
+      ]
+    },
+    {
+      "id": "ng-gashaka-gumti-life-v2",
+      "descriptionAdvanced": "Der Gashaka-Gumti-Nationalpark im Bundesstaat Taraba ist Nigerias am besten gehütetes Geheimnis und gleichzeitig der flächenmäßig größte Nationalpark des Landes. Mit seinen fast 6.700 Quadratkilometern ist er dreimal so groß wie Yankari. Was diesen Park so einzigartig macht, ist seine unfassbare landschaftliche Vielfalt: Von tiefen Regenwäldern bis hinauf zum fast 2.400 Meter hohen Gipfel des Chappal Waddi (Nigerias höchstem Berg) umfasst er nahezu jede afrikanische Klimazone. Er ist das letzte Rückzugsgebiet für stark gefährdete Schimpansen, scheue Leoparden und eine fast unendliche Vielfalt an Vögeln. Die Region ist extrem abgelegen und schwer erreichbar, was sie zu einem echten Paradies für Hardcore-Entdecker macht. Geografie K8 — Biodiversität und Bergregenwälder.",
+      "factsAdvanced": [
+        "Der mit 6.731 Quadratkilometern absolut größte Nationalpark Nigerias.",
+        "Erstreckt sich über den nördlichen Teil ('Gumti') und den südlichen Teil ('Gashaka').",
+        "Beinhaltet den Chappal Waddi (2.419 m), den höchsten Berg Nigerias.",
+        "Ist ein extrem wichtiges Rückzugsgebiet für die seltene Nigeria-Kamerun-Schimpansen-Unterart.",
+        "Das Klima variiert von feuchtem Regenwald im Süden bis zu trockener Savanne im Norden.",
+        "Sehr schwer zugänglich, weshalb der Park seine unberührte Wildnis erhalten konnte."
+      ]
+    },
+    {
+      "id": "ng-olumene-farm-life-v2",
+      "descriptionAdvanced": "Die Olumene Kakao-Farm im dichten Grün des Südwestens Nigerias ist ein lebendiges Beispiel für die Wiederbelebung des nigerianischen Kakao-Traums. Vor dem Erdölboom der 1970er Jahre war Nigeria einer der größten Kakaoproduzenten der Welt. Anlagen wie Olumene setzen heute auf moderne Anbaumethoden, um die Erträge der alten Bäume zu steigern und gleichzeitig die Bodenfruchtbarkeit zu erhalten. Die Arbeit hier ist hart und traditionell: Die gelben und roten Kakaoschoten werden von Hand mit Macheten geerntet, aufgeschlagen, und die weißen, schleimigen Bohnen werden auf großen Bananenblättern in der tropischen Sonne fermentiert und getrocknet, bevor sie den Weg in europäische Schokoladenfabriken antreten. Landwirtschaft K6 — Kakaoernte und Fermentationsprozesse.",
+      "factsAdvanced": [
+        "Moderne Kakaofarm, die den historischen Reichtum der Yoruba-Region widerspiegelt.",
+        "Nutzt traditionelle Fermentationsmethoden auf Bananenblättern für bestes Aroma.",
+        "Kakaobäume (Theobroma cacao) benötigen extrem feuchtes und schattiges Klima.",
+        "Die Ernte erfolgt noch immer manuell mit speziellen Klingen ('Cocoa Hooks').",
+        "Nigeria exportiert den Großteil seiner Kakaobohnen roh nach Europa und Asien.",
+        "Projekte wie dieses kämpfen gegen die Überalterung der nigerianischen Kakaobäume."
+      ]
+    },
+    {
+      "id": "ng-jos-wildlife-life-v2",
+      "descriptionAdvanced": "Der Jos Wildtierpark, oft auch Jos Wildlife Park genannt, liegt malerisch auf dem kühlen Plateau des Plateau-Staates. Aufgrund seiner Höhe von über 1.200 Metern bietet der Park ein für Afrika extrem untypisches, schon fast gemäßigtes Klima, was ihn zu einem perfekten Habitat für eine Vielzahl von Tieren macht, die in der Hitze der Savanne nicht überleben könnten. Gegründet 1972, ist er eine faszinierende Mischung aus offenem Naturschutzgebiet und einem Zoo-ähnlichen Gehege für Paviane, Strauße und historische Löwenpopulationen. Der Park windet sich um riesige Granitfelsen und dichte Kiefernwälder, was ihn zu einem der beliebtesten Wochenendausflugsziele im ansonsten oft unruhigen mittleren Gürtel macht. Biologie K6 — Alpine Biome in den Tropen.",
+      "factsAdvanced": [
+        "Einer der wenigen afrikanischen Wildparks in einem gemäßigten alpinen Klima.",
+        "Gegründet 1972 und erstreckt sich über 8 Quadratkilometer Fels- und Waldlandschaft.",
+        "Beherbergt Tiere in Gehegen, aber auch freilaufende Vögel und kleine Säugetiere.",
+        "Der Pine Forest (Kiefernwald) im Park ist einzigartig in ganz Nigeria.",
+        "Wurde historisch als Erholungszentrum ('Tourist Haven') für Expatriates genutzt.",
+        "Der Park leidet aktuell unter starken Finanzierungs- und Instandhaltungsproblemen."
+      ]
+    },
+    {
+      "id": "ng-lekkiconservation-life-v2",
+      "descriptionAdvanced": "Das Lekki Conservation Centre (LCC) ist ein unglaubliches ökologisches Wunder mitten in der betongewordenen Hölle von Lagos. Es ist eine 78 Hektar große Oase aus feuchtem Sumpfwald und Savannenland auf der stark urbanisierten Lekki-Halbinsel. Die Hauptattraktion ist der gewaltige, 401 Meter lange Canopy Walkway – die längste Hängebrücke Afrikas –, die sich direkt durch die Baumkronen zieht. Hier können schwindelfreie Besucher wilde Mona-Affen, seltene Vögel und riesige Warane aus der Vogelperspektive beobachten, während unter ihnen das trübe Wasser der Lagune glitzert. Es ist ein verzweifelter, aber erfolgreicher Versuch der Nigerian Conservation Foundation (NCF), einen Rest des ursprünglichen Ökosystems vor der brutalen Immobilienspekulation zu retten. Biologie K7 — Mangrovensümpfe und städtischer Naturschutz.",
+      "factsAdvanced": [
+        "Verfügt über den längsten Canopy Walkway (Baumkronenpfad) in Afrika (401 Meter).",
+        "Umfasst 78 Hektar unberührten Feuchtsumpf und Mangroven auf der Lekki-Halbinsel.",
+        "Gegründet 1990 durch die Nigerian Conservation Foundation (NCF).",
+        "Ein massiver Zufluchtsort für freilebende Mona-Affen und bedrohte Vogelarten.",
+        "Die Pfade im Sumpf sind auf hochgelegten, hölzernen Stegen ('Boardwalks') gebaut.",
+        "Eine der am meisten besuchten Öko-Tourismus-Attraktionen in ganz Westafrika."
+      ]
+    },
+    {
+      "id": "ng-ibadan-cocoa-life-v2",
+      "descriptionAdvanced": "Das Cocoa Research Institute of Nigeria (CRIN) in Ibadan ist das absolute Epizentrum der nigerianischen Kakaowissenschaft. Gegründet in den frühen 1960er Jahren, als Kakao noch die wichtigste Devisenquelle Nigerias vor dem Erdöl war, ist dieses Institut für die Züchtung robusterer, krankheitsresistenter Kakaosorten verantwortlich. In den endlosen Versuchsfeldern rund um das Hauptquartier arbeiten Agrarwissenschaftler daran, den gefürchteten 'Black Pod'-Pilz zu bekämpfen und neue Hybrid-Bäume zu entwickeln, die in nur drei statt fünf Jahren Früchte tragen. Das Zentrum erforscht neben Kakao auch Kola, Kaffee und Cashewnüsse und ist der entscheidende intellektuelle Motor für die Revitalisierung der Landwirtschaft im Westen Nigerias. Landwirtschaft K8 — Agrarforschung und Hybridpflanzen.",
+      "factsAdvanced": [
+        "Sitz des Cocoa Research Institute of Nigeria (CRIN), gegründet 1964.",
+        "Verantwortlich für die Entwicklung fast aller modernen Kakao-Hybride in Westafrika.",
+        "Forscht intensiv an Resistenzen gegen die zerstörerische 'Black Pod'-Krankheit.",
+        "Neben Kakao forscht das Institut auch an Kolanüssen, Cashews, Kaffee und Tee.",
+        "Entwickelte Kakaobäume, die bereits nach 18 bis 36 Monaten Ertrag bringen.",
+        "Verfügt über riesige eigene Baumschulen (Nurseries) und Versuchsplantagen."
+      ]
+    },
+    {
+      "id": "ng-calabar-monkey-life-v2",
+      "descriptionAdvanced": "Das Drill Monkey Rehab Centre (Pandrillus) in Calabar ist eine emotionale und faszinierende Einrichtung. Die vom Aussterben bedrohten Drill-Affen, große Primaten, die stark an Paviane erinnern, kommen nur in einem winzigen Gebiet zwischen Nigeria und Kamerun vor. Seit 1991 rettet diese Station Waisenaffen, deren Mütter für den 'Bushmeat'-Handel (Wildfleisch) getötet wurden. Die Tiere werden hier medizinisch versorgt, rehabilitiert und in riesigen, elektrisch umzäunten Waldgehegen wieder an ein Leben in der Gruppe gewöhnt. Neben den Drills rettet die Organisation auch verwaiste Schimpansen. Es ist eines der erfolgreichsten und herzzerreißendsten Tierschutzprojekte Afrikas, geleitet von reiner Leidenschaft und massiver internationaler Spendenhilfe. Biologie K7 — Primatenschutz und Bushmeat-Krise.",
+      "factsAdvanced": [
+        "Wird von der NGO 'Pandrillus' (gegründet 1991 von Liza Gadsby & Peter Jenkins) geleitet.",
+        "Das Zentrum hat sich auf die extrem bedrohten Drill-Affen (Mandrillus leucophaeus) spezialisiert.",
+        "Über 500 Drills leben in riesigen, elektrisch umzäunten natürlichen Waldgehegen.",
+        "Nimmt Waisenaffen auf, deren Familien Opfer der illegalen Wilderei ('Bushmeat') wurden.",
+        "Die Station leistet auch Aufklärungsarbeit bei den lokalen Jägern in der Region.",
+        "Viele der rehabilitierten Affen werden im Afi Mountain Sanctuary ausgewildert."
+      ]
+    },
+    {
+      "id": "ng-crossriver-nat-life-v2",
+      "descriptionAdvanced": "Der Cross-River-Nationalpark ist Nigerias letzte wahre Wildnis. Dieser extrem dichte und alte Regenwald an der Grenze zu Kamerun ist einer der ältesten Dschungel der Welt und überstand selbst die letzte Eiszeit. Was den Park so unfassbar wertvoll macht, ist seine unglaubliche Biodiversität: Er beherbergt weit über die Hälfte aller in Nigeria vorkommenden Pflanzenarten. Wer tief in den Park (insbesondere die Okwangwo-Division) vordringt, hat die Chance, die vom Aussterben bedrohten Cross-River-Gorillas zu sehen – die seltenste Unterart der Gorillas weltweit. Leider steht dieser ökologische Schatz unter massiver Bedrohung durch illegale Holzfäller, Wilderer und eine geplante, massiv umstrittene Autobahn durch den Wald ('Superhighway'). Biologie K8 — Tropischer Regenwald und Gorillaschutz.",
+      "factsAdvanced": [
+        "Einer der artenreichsten (biodiversesten) tropischen Regenwälder der Erde.",
+        "Heimat der extrem seltenen Cross-River-Gorillas (weniger als 300 weltweit existent).",
+        "Der Park ist in zwei Teile gespalten: die Oban-Division und die Okwangwo-Division.",
+        "Beherbergt seltene Waldelefanten, Schimpansen und den Drill-Affen.",
+        "Ein großer Teil des Waldes ist Primärwald, der nie abgeholzt wurde.",
+        "Massiv bedroht durch illegales Holzfällen ('Logging') und Landwirtschaft."
+      ]
+    },
+    {
+      "id": "ng-kano-zoo-life-v2",
+      "descriptionAdvanced": "Der Kano Zoo (Audu Bako Zoo) ist ein nostalgischer Ort im rauen Klima der Sahelzone. Gegründet 1971 vom damaligen Militärgouverneur Audu Bako, war er einst der Stolz Nordnigerias und eine Hauptattraktion für Schulklassen aus allen nördlichen Bundesstaaten. Auf dem fast 46 Hektar großen Gelände leben Löwen, Hyänen, Krokodile und Antilopen in einer Umgebung, die stark an ihre natürlichen Habitate erinnert. Obwohl der Zoo, wie viele öffentliche Einrichtungen in Nigeria, unter Unterfinanzierung und veralteten Gehegen leidet, bleibt er eine wichtige edukative Einrichtung. Im heißen Sommer von Kano bietet der Schatten der massiven alten Bäume im Zoo eine begehrte Zuflucht für Familien. Biologie K6 — Zoologische Gärten in Afrika.",
+      "factsAdvanced": [
+        "Gegründet 1971 durch Audu Bako, den ersten Gouverneur des Kano-Staates.",
+        "Mit 46 Hektar Fläche einer der größten und ältesten Zoos in Nigeria.",
+        "Beherbergt klassische afrikanische Savannen-Spezies wie Löwen, Strauße und Hyänen.",
+        "Hat eine hohe edukative Bedeutung, da viele Menschen im Norden nie Nationalparks besuchen.",
+        "Der Zoo leidet oft unter mangelnder staatlicher Finanzierung für Tierfutter und Instandhaltung.",
+        "Das Gelände ist stark bewaldet und dient als grüne Lunge in der staubigen Stadt."
+      ]
+    },
+    {
+      "id": "ng-ekiti-agri-life-v2",
+      "descriptionAdvanced": "Das Agrar-Zentrum in Ekiti repräsentiert die stille wirtschaftliche Macht des nigerianischen Südwestens. Im Gegensatz zu den Kakao-Monokulturen weiter südlich setzt Ekiti auf eine enorme Vielfalt: Yams, Maniok (Cassava), Reis und gigantische Plantagen von Kolanüssen prägen die sanften Hügel dieser Region. Besonders Maniok ist hier von strategischer Bedeutung, da er zu 'Garri' (einem Grundnahrungsmittelmehl) verarbeitet wird, das fast das gesamte Land ernährt. Das Ekiti-Agrar-Zentrum ist ein Knotenpunkt, an dem die Regierung moderne Traktoren und Düngemittel an lokale, oft in Genossenschaften organisierte Bauern vermittelt, um den archaischen Handanbau langsam durch Maschineneinsatz zu ersetzen. Landwirtschaft K7 — Nahrungssicherheit und Maniok-Verarbeitung.",
+      "factsAdvanced": [
+        "Ekiti ist einer der wichtigsten Produzenten von Maniok (Cassava) und Yams in Nigeria.",
+        "Der Agrar-Sektor beschäftigt über 75 % der ländlichen Bevölkerung in Ekiti.",
+        "Das Zentrum fördert die moderne Verarbeitung von Maniokwurzeln zu haltbarem 'Garri'-Mehl.",
+        "Fördert den Übergang von rein manueller Macheten-Arbeit zur maschinellen Ernte.",
+        "Die hügelige Topografie macht den Einsatz großer Maschinen oft sehr schwierig.",
+        "Wichtiger Umschlagplatz für die bittere Kolanuss, die in den islamischen Norden verkauft wird."
+      ]
+    },
+    {
+      "id": "ng-omo-reserve-life-v2",
+      "descriptionAdvanced": "Das Omo Waldreservat ist das vielleicht faszinierendste Geheimnis im Bundesstaat Ogun. Dieser extrem dichte, über 130.000 Hektar große Regenwald ist benannt nach dem Fluss Omo, der ihn durchquert. Was das Reservat so besonders macht, ist seine unheimliche Population an extrem scheuen Waldelefanten, die im dichten Unterholz oft nur durch ihre massiven Fußabdrücke auffallen. Neben den Elefanten schützt das Reservat auch Schimpansen und Mahagoni-Bäume. Trotz seines Schutzstatus befindet sich das Reservat im ewigen Krieg gegen illegale Holzfäller, die das wertvolle Tropenholz für den Schwarzmarkt in Lagos abholzen. Eine Safari hier ist kein Luxusausflug, sondern echtes Dschungel-Abenteuer. Biologie K8 — Waldelefanten und illegaler Holzeinschlag.",
+      "factsAdvanced": [
+        "Das größte und wichtigste Regenwaldreservat im Bundesstaat Ogun (gegründet 1925).",
+        "Heimat einer der seltensten Populationen von Waldelefanten (Loxodonta cyclotis) in Nigeria.",
+        "Erstreckt sich über 1.305 Quadratkilometer dichtesten, primären Tropenwald.",
+        "Wird intensiv für illegales Holzhacken ('Timber Poaching') von Mahagoni missbraucht.",
+        "Verfügt über ein eigenes Schutzprojekt (Omo-Shasha-Oluwa Forest Elephant Initiative).",
+        "Die Pisten im Wald sind während der sechsmonatigen Regenzeit oft absolut unpassierbar."
+      ]
+    },
+    {
+      "id": "ng-kaduna-zoo-life-v2",
+      "descriptionAdvanced": "Der Gamji Gate Zoo in Kaduna, am Ufer des Kaduna-Flusses gelegen, ist ein Ort mit tiefer historischer Bedeutung. Ursprünglich wurde der Zoo als Freizeitpark für die Offiziere und Kolonialbeamten der nördlichen Hauptstadt angelegt. Seine Architektur, insbesondere das massiv bewachte Haupttor (Gamji Gate), erinnert an die militärische Vergangenheit der Stadt. Heute ist der Tierbestand zwar geschrumpft, doch das riesige Gelände ist berühmt für seine gigantischen Flusspferde, die träge in den trüben Tümpeln dösen, und die noch immer prachtvollen Pfauen, die zwischen den Picknickplätzen der Besucher umherstreifen. Gesellschaft K6 — Städtische Naherholungsgebiete.",
+      "factsAdvanced": [
+        "Bekannt als Gamji Gate Park, liegt er direkt am Ufer des Kaduna-Flusses.",
+        "War historisch ein exklusiver Erholungsort für britische Beamte und lokale Elite.",
+        "Die berühmtesten Bewohner sind große Flusspferde und Krokodile.",
+        "Das Gelände wird sehr häufig für Hochzeiten und große Familienpicknicks genutzt.",
+        "Das architektonisch auffällige 'Gamji Gate' ist ein Fotomotiv der Stadt.",
+        "Wie viele staatliche Parks in Nigeria kämpft auch dieser mit dem langsamen Verfall."
+      ]
+    },
+    {
+      "id": "ng-kwara-farm-life-v2",
+      "descriptionAdvanced": "Das Kwara-Agrarprojekt, insbesondere die Shonga Farms, ist eine absolut faszinierende Geschichte von Exil und wirtschaftlichem Erfolg. Im Jahr 2004 lud die Regierung des Bundesstaates Kwara dreizehn weiße Farmer aus Simbabwe ein, die dort enteignet worden waren, um in Nigeria eine hochmoderne kommerzielle Landwirtschaft aufzubauen. Was sie aufbauten, war atemberaubend: Riesige Felder voller Mais und Sojabohnen, bewässert von gigantischen, amerikanischen Bewässerungsmaschinen (Center Pivots), und hochmoderne Molkereien, die Milch in Massen produzierten. Das Projekt bewies, dass die nigerianische Savanne mit der richtigen Technologie genauso produktiv sein kann wie der amerikanische Mittelwesten. Landwirtschaft K8 — Kommerzielle Großlandwirtschaft und Bewässerungstechnik.",
+      "factsAdvanced": [
+        "Bekannt als das 'Shonga Farms Project', initiiert 2004 im Bundesstaat Kwara.",
+        "Gegründet von weißen Farmern, die zuvor aus Simbabwe vertrieben wurden.",
+        "Nutzt gigantische 'Center-Pivot'-Bewässerungssysteme für ganzjährigen Anbau.",
+        "Produziert massiv kommerzielle Mengen an Milch, Mais, Sojabohnen und Geflügel.",
+        "Ein seltenes Beispiel für hochmechanisierte Mega-Farmen in Nigeria.",
+        "Das Projekt stieß anfangs auf politischen Widerstand, gilt aber als sehr erfolgreich."
+      ]
+    },
+    {
+      "id": "ng-imo-zoo-life-v2",
+      "descriptionAdvanced": "Der Nekede Zoo, in der Nähe von Owerri im Bundesstaat Imo gelegen, war jahrzehntelang eine der wichtigsten Naturattraktionen im Südosten Nigerias. Das dichte, tropische Gelände dieses Zoos beherbergte eine beeindruckende Sammlung von Affenarten, Pythons, Adlern und Löwen. Leider teilt der Zoo das Schicksal vieler staatlicher Einrichtungen: Nach Jahren glanzvoller Zeiten unter der Militärregierung geriet er aufgrund fehlender Gelder stark in Verfall. Viele Tiergehege wurden verlassen, und die Wildnis holte sich große Teile der Anlage zurück. Heute gibt es jedoch private Initiativen, die versuchen, das Gelände zu retten und es als Zentrum für Umwelterziehung neu zu positionieren. Biologie K6 — Instandhaltung von Zoos und Tierschutz.",
+      "factsAdvanced": [
+        "Der bekannteste staatliche Zoo im Bundesstaat Imo (Nekede-Distrikt).",
+        "Erbaut in den 1970er Jahren und umfasste einen großen tropischen Baumbestand.",
+        "Beherbergte früher Löwen, Schimpansen, Krokodile und riesige Pythons.",
+        "Verfiel in den 2000er Jahren stark aufgrund ausbleibender Regierungsgelder.",
+        "Ein Großteil der exotischen Tiere verhungerte oder wurde verkauft.",
+        "Dient heute teilweise als abschreckendes Beispiel für mangelnden staatlichen Naturschutz."
+      ]
+    },
+    {
+      "id": "ng-enugu-park-life-v2",
+      "descriptionAdvanced": "Der Polo Park in Enugu ist das grüne Herz der alten 'Kohlenstadt'. Ursprünglich von den Briten als exklusives Spielfeld für Polo und Cricket angelegt, war dies der Ort, an dem sich die Oberschicht an kühlen Abenden traf. Mit dem Abzug der Kolonialbeamten wandelte sich der Zweck des Geländes drastisch. Lange Zeit blieb es ein offener Park für große politische Rallies, bis es vor einigen Jahren kommerzialisiert und in die Polo Park Mall – eines der größten Einkaufszentren in Ostnigeria – umgewandelt wurde. Doch das alte Riesenrad, das noch immer über dem Gelände thront, erinnert an die Tage, als dieser Ort der größte Freizeit-Vergnügungspark für Familien in Enugu war. Gesellschaft K7 — Kommerzialisierung von öffentlichen Parks.",
+      "factsAdvanced": [
+        "Ursprünglich ein riesiges britisches Polo-Feld im Herzen von Enugu.",
+        "War jahrzehntelang der größte offene Freizeitpark im Osten Nigerias.",
+        "Wurde in den 2010er Jahren teilweise an Investoren (Shoprite) verkauft.",
+        "Beherbergt heute die Polo Park Mall, das wichtigste Einkaufszentrum der Stadt.",
+        "Das Riesenrad (Ferris Wheel) im Park ist das weithin sichtbare Wahrzeichen.",
+        "Ein perfektes Beispiel für den Wandel von Kolonialparks zu modernen Konsumtempeln."
+      ]
+    },
+    {
+      "id": "ng-borno-safari-life-v2",
+      "descriptionAdvanced": "Der Chad Basin National Park (Tschadbecken-Nationalpark) im Bundesstaat Borno ist eine der faszinierendsten, aber leider auch gefährlichsten Safaridestinationen der Welt. Dieser riesige, extrem trockene Park an der Grenze zu Tschad und Kamerun ist das Habitat seltener, an die Wüste angepasster Tiere wie der Dama-Gazelle und dem afrikanischen Strauß. Historisch war die Region für spektakuläre Elefantenherden bekannt. In den letzten zehn Jahren wurde der Park jedoch zum zentralen Rückzugs- und Kampfgebiet der Boko-Haram-Aufständischen (insbesondere im Sambisa-Wald, der an das Becken grenzt). Dadurch kam der Tierschutz komplett zum Erliegen, und der Park ist heute militärisches Sperrgebiet. Geografie K8 — Nationalparks in Konfliktzonen.",
+      "factsAdvanced": [
+        "Erstreckt sich über fast 2.300 Quadratkilometer in der extrem trockenen Sahelzone.",
+        "Bestand aus drei Sektoren: Chingurmi-Duguma, Bade-Nguru und Bulatura.",
+        "Heimat von extrem seltenen Wüstentieren wie der Dorkasgazelle und dem Strauß.",
+        "Der Park wurde im letzten Jahrzehnt massiv von der Boko-Haram-Miliz infiltriert.",
+        "Tierschutz und Tourismus sind aufgrund militärischer Operationen komplett gestoppt.",
+        "Das ökologische Gleichgewicht leidet zudem unter dem extremen Schrumpfen des Tschadsees."
+      ]
+    },
+    {
+      "id": "ng-delta-nature-life-v2",
+      "descriptionAdvanced": "Das Nigerdelta ist nicht nur eine Ölförderanlage, sondern eigentlich eines der komplexesten Ökosysteme des afrikanischen Kontinents. Diese gigantische Naturschutzzone, in der das frische Wasser des Flusses auf das Salzwasser des Atlantiks trifft, bildet den drittgrößten Mangrovenwald der Welt. Zwischen den Wurzeln der Mangroven brüten unzählige Fischarten, Krabben und gefährdete Manatis (Seekühe). Die Umweltkatastrophe ist hier jedoch allgegenwärtig: Tausende Kilometer von alten, oft leckenden Ölpipelines ziehen sich durch die Sümpfe, und Ölteppiche haben ganze Flussarme abgetötet. Lokale Initiativen versuchen verzweifelt, kleine Abschnitte der Mangroven aufzuforsten und als Rückzugsorte für die bedrohte Fauna zu retten. Biologie K8 — Ölpest, Mangrovenwälder und Umweltschutz.",
+      "factsAdvanced": [
+        "Das Nigerdelta ist der größte Mangrovensumpfwald Afrikas.",
+        "Beherbergt bedrohte Arten wie den Afrikanischen Manati (Seekuh) und das Zwergflusspferd.",
+        "Das Ökosystem ist massiv durch Tausende ungelöste Ölkatastrophen (Spills) zerstört.",
+        "Die Luft- und Wasserqualität leidet extrem unter der illegalen Gasabfackelung.",
+        "Lokale Gemeinden ('Niger Delta Avengers') fordern seit Jahren ökologische Reparationen.",
+        "Einige kleine Zonen versuchen sich im Ökotourismus, was durch mangelnde Sicherheit behindert wird."
+      ]
+    },
+    {
+      "id": "ng-abia-agri-life-v2",
+      "descriptionAdvanced": "Abia State, liebevoll 'God's Own State' genannt, ist ein landwirtschaftlicher Motor im Südosten Nigerias, der sich stark auf die Ölpalme stützt. Die Palmenplantagen hier sehen anders aus als in Asien; viele stammen noch aus der Kolonialzeit oder sind in kleinbäuerlichem Besitz. Die Ernte ist eine halsbrecherische Kunstform: Kletterer steigen mit einem Seil um den Bauch auf 20 Meter hohe, stachelige Palmen, um die massiven Fruchtstände abzuschlagen. Unten werden die roten Früchte gekocht und in lauten, rauchenden Pressen zu rotem Palmöl zerquetscht. Dieses Öl ist nicht nur der wichtigste Bestandteil der lokalen Igbo-Küche, sondern wird zunehmend für den Export und die industrielle Verarbeitung aufbereitet. Landwirtschaft K7 — Palmölgewinnung und lokale Ökonomie.",
+      "factsAdvanced": [
+        "Der Bundesstaat Abia ist einer der größten Palmöl-Produzenten in Südostnigeria.",
+        "Die Ölpalme (Elaeis guineensis) wächst hier in ihrem natürlichen, historischen Ursprungsgebiet.",
+        "Die Ernte erfolgt oft extrem riskant von Hand durch spezialisierte Palmkletterer.",
+        "Rotes Palmöl ist absolut essenziell für fast jedes Gericht der traditionellen Igbo-Küche.",
+        "Die industrielle Verarbeitung in Abia hinkt der von asiatischen Ländern (Malaysia) stark hinterher.",
+        "Neben Palmöl ist die Region ein gigantischer Produzent von Maniok (Cassava) und Cashewnüssen."
+      ]
+    },
+    {
+      "id": "ng-anambra-forest-life-v2",
+      "descriptionAdvanced": "Die Waldreservate in Anambra sind ein tragisches Beispiel für den Kampf zwischen Natur und purer Überlebensnot. Einst dicht bewaldet mit riesigen Iroko- und Mahagonibäumen, sind heute weite Teile des Akpaka Forest Reserve gerodet worden. Der Grund ist die extreme Bevölkerungsdichte im Bundesstaat Anambra, die Familien zwingt, immer tiefer in die Wälder zu drängen, um Brennholz zu sammeln und neues Ackerland für Maniok freizuschlagen. Die massive Abholzung hat zu verheerenden Schluchtenerosionen (Gully Erosion) geführt, die mittlerweile ganze Häuser und Straßen in Agulu und Nanka verschlingen. Umweltschützer pflanzen nun verzweifelt schnell wachsende Bambusbäume, um das Erdreich zusammenzuhalten. Erdkunde K8 — Bodenerosion und Entwaldung.",
+      "factsAdvanced": [
+        "Anambra besitzt mehrere historische Waldreservate, darunter das Akpaka Forest Reserve.",
+        "Die extrem hohe Bevölkerungsdichte führt zu unkontrollierter und illegaler Abholzung.",
+        "Der Mangel an tiefwurzelnden Bäumen hat massive 'Gully Erosion' (Schluchtenerosion) ausgelöst.",
+        "Die Erosionskrater in Städten wie Agulu und Nanka sind dutzende Meter tief und lebensgefährlich.",
+        "Internationale Projekte (z.B. Weltbank NEWMAP) versuchen, die Krater durch Bepflanzung zu stabilisieren.",
+        "Es gibt kaum noch große Primärwälder im Bundesstaat."
+      ]
+    },
+    {
+      "id": "ng-sokoto-zoo-life-v2",
+      "descriptionAdvanced": "Die zoologischen und ökologischen Gärten in Sokoto sind ein extremer Überlebenskampf in einer der lebensfeindlichsten Gegenden Nigerias. Die Sahara rückt im Bundesstaat Sokoto jedes Jahr näher und verwandelt ehemaliges Ackerland in Sand. Der lokale Zoo und die botanischen Gärten dienen nicht nur der Unterhaltung, sondern sind Außenposten des großen 'Great Green Wall'-Projekts. Hier werden massenhaft Setzlinge von extrem dürreresistenten Bäumen wie Neem und Baobab hochgezogen. Diese werden an die Bevölkerung verteilt, um eine grüne Mauer gegen die Wüste zu pflanzen. Zwischen den Baumschulen leben Kamele, Wüstenfüchse und Hyänen in staubigen Gehegen und repräsentieren die rohe, anpassungsfähige Fauna des Sahels. Biologie K7 — Desertifikation und die Great Green Wall.",
+      "factsAdvanced": [
+        "Sokoto leidet extrem unter der fortschreitenden Desertifikation (Wüstenbildung) der Sahara.",
+        "Die zoologischen Gärten züchten primär an das trockene Klima angepasste Sahel-Tierarten.",
+        "Dient als logistischer Knotenpunkt für Nigerias Beitrag zum 'Great Green Wall' Projekt.",
+        "Es werden massiv Neem- und Baobab-Bäume in lokalen Baumschulen (Nurseries) herangezogen.",
+        "Die Temperaturen in Sokoto steigen im April oft auf brutale 45 Grad Celsius.",
+        "Der Wasserbedarf für die Gärten wird fast ausschließlich durch tiefe Bohrlöcher (Boreholes) gedeckt."
+      ]
+    },
+    {
+      "id": "ng-bauchi-orchard-life-v2",
+      "descriptionAdvanced": "Die riesigen Obstgärten im Bundesstaat Bauchi sind ein landwirtschaftliches Wunder. Aufgrund der etwas höheren Lage und des speziellen Bodens wachsen in dieser ansonsten trockenen Savannenregion überraschend saftige Früchte. Bauchi ist in Nigeria landesweit berühmt für seine enormen Mango-Plantagen, die in der Regenzeit Tausende Tonnen der süßen Frucht abwerfen. Auch Guaven und gigantische Wassermelonen gedeihen hier hervorragend. Leider verrotten oft riesige Mengen dieser Früchte auf den Feldern, da es in der Region an modernen Kühlhäusern und Fabriken fehlt, die die Mangos zu Saft verarbeiten könnten. Dieser Obstgarten zeigt das gewaltige ungenutzte Potenzial der nordnigerianischen Landwirtschaft. Landwirtschaft K6 — Fruchtanbau in der Savanne und Logistikprobleme.",
+      "factsAdvanced": [
+        "Bauchi ist einer der absolut größten Mango-Produzenten in ganz Nigeria.",
+        "Die Obsternte erreicht ihren Höhepunkt am Beginn der Regenzeit (Mai/Juni).",
+        "Neben Mangos werden auch in großem Stil Guaven und Wassermelonen angebaut.",
+        "Post-Harvest-Losses (Ernteverluste nach dem Pflücken) liegen durch fehlende Kühlung oft bei über 40 %.",
+        "Es gibt kaum nennenswerte Saft- oder Konservenfabriken in der direkten Region.",
+        "Hunderte von Lastwagen transportieren die frischen Früchte über riskante Straßen in den Süden."
+      ]
+    },
+    {
+      "id": "ng-benue-farm-life-v2",
+      "descriptionAdvanced": "Das Agrar-Gemeindesystem in Benue ist der Grund, warum dieser Bundesstaat unangefochten der 'Food Basket of the Nation' ist. An den fruchtbaren Ufern des Benue-Flusses kultivieren die tief in der Landwirtschaft verwurzelten Tiv-Bauern in gigantischen Mengen Yams, die kartoffelähnliche Superwurzel Westafrikas. Zur Erntezeit entstehen auf den Feldern riesige Pyramiden aus Yamswurzeln. Diese Felder werden zumeist nicht von großen Maschinen gepflügt, sondern in extrem harter Knochenarbeit von Gemeinschaften, die mit breiten Hacken gigantische Erdhügel ('Yam Mounds') aufschütten. Der Zaki-Biam-Yams-Markt in Benue ist der wohl größte seiner Art weltweit. Wirtschaft K7 — Yams-Anbau und manuelle Großlandwirtschaft.",
+      "factsAdvanced": [
+        "Benue trägt den offiziellen Titel 'Food Basket of the Nation' (Lebensmittelkorb der Nation).",
+        "Der Bundesstaat ist der weltgrößte Produzent von Yams (Dioscorea).",
+        "Die Yams-Pflanzung erfolgt manuell auf von Hand aufgeschütteten, hohen Erdhügeln.",
+        "Der Zaki-Biam Market in Benue gilt als der größte Yams-Markt des afrikanischen Kontinents.",
+        "Neben Yams produziert Benue gigantische Mengen an Sojabohnen, Sesam und Orangen.",
+        "Die Region leidet massiv unter oft blutigen Konflikten zwischen Ackerbauern (Tiv) und nomadischen Rinderhirten."
+      ]
+    },
+    {
+      "id": "ng-ondo-cacao-life-v2",
+      "descriptionAdvanced": "Die Kakao-Kooperativen im Bundesstaat Ondo sind das Rückgrat der nigerianischen Schokoladenexporte. Ondo allein produziert mehr als ein Drittel des gesamten nigerianischen Kakaos. Die Bauern organisieren sich tief in den feuchten Regenwäldern in Kooperativen, um bessere Preise bei europäischen Aufkäufern zu erzielen und Fair-Trade-Zertifizierungen zu erlangen. Die Landschaft rund um Städte wie Idanre ist geprägt von dem süßlich-gärigen Geruch trocknender Kakaobohnen. Ein riesiges Problem der Region ist jedoch das Alter: Viele der Kakaobäume wurden noch vor der Unabhängigkeit in den 1950er Jahren gepflanzt und werfen heute nur noch geringe Erträge ab, was eine massive, landesweite Neupflanzung erforderlich macht. Landwirtschaft K8 — Fairtrade, Kakaoexport und Überalterung.",
+      "factsAdvanced": [
+        "Ondo ist der unangefochten größte Kakaoproduzent aller nigerianischen Bundesstaaten.",
+        "Viele lokale Kleinbauern organisieren sich in Genossenschaften (Kooperativen) für den Export.",
+        "Der Kakao wird extrem stark nach Europa (insbesondere Niederlande und Deutschland) exportiert.",
+        "Die meisten Kakaoplantagen in Ondo sind extrem veraltet (Bäume oft über 40 Jahre alt).",
+        "Die Regierung hat riesige Initiativen zum Pflanzen neuer, ertragreicher Setzlinge gestartet.",
+        "Die Kakao-Einnahmen waren historisch der finanzielle Grundstein für das Bildungssystem im Südwesten."
+      ]
+    },
+    {
+      "id": "ng-ebonyi-rice-life-v2",
+      "descriptionAdvanced": "Die Reisfarmen in Ebonyi sind ein Symbol für Nigerias Weg in die Nahrungsmittelunabhängigkeit. Da das Land jedes Jahr Milliarden Dollar für den Import von asiatischem Reis ausgab, hat der Staat Ebonyi massiv in den lokalen Anbau investiert. Die tief liegenden, flachen Ebenen des Staates verwandeln sich in der Regenzeit in ein endloses Meer aus grünen Reisfeldern. Der berühmte 'Abakaliki-Reis', der hier geerntet wird, galt lange als nahrhaft, aber steinig. Heute jedoch investieren Regierung und Private in moderne Mega-Reismühlen, die den Reis mit Laserscannern von Steinen befreien, wodurch er qualitativ dem besten thailändischen Importreis in nichts mehr nachsteht. Wirtschaft K7 — Importsubstitution und moderne Reismühlen.",
+      "factsAdvanced": [
+        "Ebonyi ist der absolute Spitzenreiter im Reisanbau im Südosten Nigerias.",
+        "Der lokale 'Abakaliki-Reis' ist landesweit bekannt und stark nachgefragt.",
+        "Massive Investitionen in hochmoderne Reismühlen haben die Qualität dramatisch verbessert.",
+        "Die Regierung von Ebonyi hat den Verzehr von ausländischem Importreis bei Staatsbanketten verboten.",
+        "Die Felder (Swamp Rice) sind auf den schweren, feuchten Böden der Region angelegt.",
+        "Trägt enorm zum nationalen Ziel bei, bei der Reisproduktion vollständig autark zu werden."
+      ]
+    },
+    {
+      "id": "ng-ekiti-bird-life-v2",
+      "descriptionAdvanced": "Die Vogelbeobachtungszonen in den dichten Wäldern von Ekiti sind ein fast unentdecktes Paradies für Ornithologen aus aller Welt. Ekiti ist berühmt für seine raue Topografie; die steilen Hügelketten, die von dichtem, feuchtem Laubwald bedeckt sind, schaffen Mikroklimata, die Tausende Vögel anziehen. Hier kreischen die markanten, schwarz-weißen Nashornvögel durch die Baumkronen, und kleine, juwelenartige Nektarvögel (Sunbirds) schwirren durch das Unterholz. Umweltschützer versuchen verzweifelt, diese Zonen in offizielle Schutzgebiete umzuwandeln, da der lukrative illegale Holzeinschlag und die Ausbreitung der Landwirtschaft diese einzigartigen Vogelhabitate Stück für Stück vernichten. Biologie K6 — Tropenornithologie und Habitatschutz.",
+      "factsAdvanced": [
+        "Ekiti verfügt über dichte Wälder, die ein wichtiges Refugium für seltene tropische Vögel sind.",
+        "Heimat des Grauwangen-Hornvogels und unzähliger Arten von Eisvögeln und Nektarvögeln.",
+        "Ornithologen (Vogelkundler) schätzen die extrem hohe Biodiversität der Region.",
+        "Besitzt ein extrem hügeliges Terrain ('Ekiti' bedeutet grob übersetzt 'Hügelland').",
+        "Die Biotope sind extrem gefährdet durch großflächige Abholzung und Brandrodung.",
+        "Bisher gibt es nur wenige offizielle staatliche Schutzgebiete für diese Flora und Fauna."
+      ]
+    }
+  ]
+}

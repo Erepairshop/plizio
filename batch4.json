@@ -1,0 +1,57 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "austin-cities-v2",
+      "descriptionAdvanced": "Austin, the capital of Texas, is widely known as the 'Live Music Capital of the World' and a major hub for technology and higher education. Nestled in the Texas Hill Country, the city is home to the University of Texas at Austin, which fuels a vibrant research and startup ecosystem. Austin has become one of the fastest-growing cities in the U.S., attracting tech giants and a creative, youthful population. Its unique culture is defined by outdoor activities, such as swimming in Barton Springs Pool, and a legendary music scene centered on Sixth Street. The city's geography offers a blend of rolling hills and urban parks. Geography K7 — education, innovation, and cultural identity.",
+      "factsAdvanced": [
+        "Austin became the capital of Texas in 1839.",
+        "The University of Texas at Austin, established in 1883, is a major research university.",
+        "Austin is known as the 'Live Music Capital of the World' due to its high concentration of music venues.",
+        "Barton Springs Pool is a natural limestone pool fed by underground springs, maintaining a year-round temperature.",
+        "The city is a significant technology hub, often called 'Silicon Hills'.",
+        "Austin is home to the largest urban bat colony in North America, found under the Congress Avenue Bridge."
+      ]
+    },
+    {
+      "id": "jacksonville-cities-v2",
+      "descriptionAdvanced": "Jacksonville, the largest city by area in the contiguous United States, is located on the Atlantic coast of Florida and serves as a major deep-water port. It is known for its extensive park system, which is one of the largest municipal park systems in the nation, and its vibrant riverfront along the St. Johns River. Jacksonville is an important center for logistics, financial services, and the military. Its proximity to the ocean and numerous waterways provides diverse recreational opportunities, from surfing to boating. The city’s economy is well-diversified, bolstered by major corporate headquarters and international trade. Geography K7 — coastal geography and logistics.",
+      "factsAdvanced": [
+        "Jacksonville is the largest city in the contiguous U.S. by land area.",
+        "The St. Johns River is the longest river in Florida, flowing northward through the city.",
+        "The city’s park system includes more than 80,000 acres of parks and preserves.",
+        "Jacksonville serves as a major port for the import and export of automobiles in the U.S.",
+        "The U.S. Navy has a large presence in the region, including two major naval air stations.",
+        "The city hosts the annual Florida-Georgia college football game, a major regional event."
+      ]
+    },
+    {
+      "id": "fort-worth-cities-v2",
+      "descriptionAdvanced": "Fort Worth, the sister city to Dallas, embodies the 'Cowboy Culture' of Texas while being a major center for aerospace and defense. Historically an important stop on the Chisholm Trail, it maintains its heritage through the Fort Worth Stockyards, where the daily cattle drive is still held. Fort Worth is known for its world-class art institutions, such as the Kimbell Art Museum, housed in architecturally significant buildings. The city's economy is strongly supported by the aerospace industry, with major manufacturing facilities for the Lockheed Martin F-35 fighter jet. Fort Worth offers a blend of historic charm and modern industrial capability. Geography K7 — cultural history and industrial specialization.",
+      "factsAdvanced": [
+        "Fort Worth was founded as a U.S. Army outpost in 1849.",
+        "The Stockyards National Historic District preserves the city's legacy as a cattle trade hub.",
+        "The Kimbell Art Museum is globally renowned for its exceptional collection and architecture.",
+        "Fort Worth is a major center for aerospace and defense, including F-35 production.",
+        "The city hosts the annual Fort Worth Stock Show and Rodeo, one of the largest in the U.S.",
+        "Fort Worth is part of the Dallas-Fort Worth-Arlington metropolitan area, the fourth most populous in the nation."
+      ]
+    },
+    {
+      "id": "columbus-cities-v2",
+      "descriptionAdvanced": "Columbus, the capital of Ohio, is one of the fastest-growing cities in the Midwest and a major center for higher education, government, and industry. Home to the Ohio State University, one of the largest universities in the nation, the city benefits from a strong research environment that supports diverse sectors like insurance, fashion, and technology. Located at the confluence of the Scioto and Olentangy rivers, Columbus has a strong emphasis on urban revitalisation and civic projects. The city is known for its diverse neighborhoods, such as German Village, and a thriving arts scene. Columbus plays a key role in the economic development of the Ohio region. Geography K7 — state capitals and higher education clusters.",
+      "factsAdvanced": [
+        "Columbus is the capital and the most populous city in Ohio.",
+        "The Ohio State University, established in 1870, is one of the largest universities in the United States.",
+        "The city was named after explorer Christopher Columbus and founded in 1812.",
+        "German Village is a historic residential neighborhood known for its red-brick architecture.",
+        "Columbus is a significant center for the insurance and logistics industries.",
+        "The Scioto Mile is a collection of parks and pathways along the Scioto River in the heart of the city."
+      ]
+    }
+  ]
+}

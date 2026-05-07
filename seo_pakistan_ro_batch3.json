@@ -1,0 +1,115 @@
+{
+  "lang": "ro",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chashma-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "Centrala Nucleară Chashma, situată pe malul râului Indus în Punjab, este un pilon al programului național de energie curată al Pakistanului. Cu reactoare construite în colaborare cu China, centrala generează o cantitate masivă de energie electrică fără emisii de carbon, acoperind o fracțiune semnificativă din necesarul de bază al rețelei. Complexul este unul dintre puținele centre de energie nucleară comercială din sudul Asiei și funcționează sub reglementări stricte ale siguranței internaționale, ajutând la atenuarea penuriei cronice de energie din țară. Geografie K7 — tehnologie nucleară și infrastructură critică.",
+      "factsAdvanced": ["Situată pe malul stâng al fluviului Indus în Punjab", "Dezvoltată în strânsă colaborare tehnologică cu China", "O sursă majoră de energie electrică fără emisii de carbon", "Operează multiple reactoare nucleare de uz comercial", "Funcționează conform standardelor internaționale de siguranță", "Reduce dependența Pakistanului de combustibili fosili importați"]
+    },
+    {
+      "id": "gujranwala-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Gujranwala din inima Punjabului este unul dintre cele mai dinamice centre de producție ușoară din Asia de Sud. Orașul este recunoscut pentru manufactura sa de electronice, echipamente sanitare și ustensile casnice, exportând produsele sale în zeci de țări. Cu mii de fabrici mici și mijlocii, economia sa locală se distinge printr-un puternic spirit antreprenorial. Peste 2 milioane de locuitori depind direct sau indirect de acest hub industrial, făcându-l un motor vital al PIB-ului național. Geografie K7 — manufactură ușoară și antreprenoriat local.",
+      "factsAdvanced": ["Unul dintre cele mai vibrante centre industriale din Punjab", "Faimos pentru producția de electronice și obiecte sanitare", "Găzduiește mii de întreprinderi mici și mijlocii", "Generează venituri substanțiale din exporturile regionale", "Contribuie masiv la PIB-ul sectorului de producție al țării", "Spiritul antreprenorial local este renumit în tot statul"]
+    },
+    {
+      "id": "saindak-copper-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina de Cupru și Aur Saindak este un vast proiect extractiv localizat în deșertul stâncos Chagai din Balochistan, foarte aproape de granița cu Iran. Operată printr-un consorțiu chino-pakistanez, mina produce anual mii de tone de cupru brut (blister copper) și lingouri de aur. Această exploatare a stimulat masiv economia locală izolată, generând mii de locuri de muncă. Mineralele extrase aici sunt în mare parte exportate, fiind esențiale pentru dezvoltarea tehnologică globală. Geografie K7 — minerit de metale prețioase și cooperare internațională.",
+      "factsAdvanced": ["Situată în deșertul izolat Chagai din Balochistan", "Aflată în apropierea graniței vestice cu Iranul", "Operată de un joint-venture între Pakistan și China", "Produce anual zeci de mii de tone de cupru brut", "Extrage cantități semnificative de aur și argint", "O sursă critică de locuri de muncă în regiunea deșertică"]
+    },
+    {
+      "id": "port-qasim-economic-v2",
+      "descriptionAdvanced": "Port Qasim este al doilea port ca mărime din Pakistan, situat pe coasta Mării Arabiei, la sud de Karachi. Deschis oficial în anul 1980, portul a fost conceput pentru a decongestiona Karachi Port și se specializează în gestionarea materiilor prime industriale vrac, inclusiv cărbune, minereu de fier și gaze naturale lichefiate (GNL). De asemenea, include una dintre cele mai mari zone industriale maritime, găzduind fabrici uriașe de asamblare auto și combinate siderurgice. Acest port susține lanțurile globale de aprovizionare ale Pakistanului. Geografie K7 — logistică portuară și industrie grea.",
+      "factsAdvanced": ["Al doilea port ca mărime și volum din Pakistan", "Inaugurat oficial ca o alternativă strategică în 1980", "Specializat în importul de gaz natural lichefiat (GNL)", "Gestionează fluxuri masive de cărbune și minereu de fier", "Zona sa industrială găzduiește fabrici mari de asamblare auto", "Situat în apropierea metropolei industriale Karachi"]
+    },
+    {
+      "id": "reko-diq-mine-project-economic-v2",
+      "descriptionAdvanced": "Proiectul Minier Reko Diq din regiunea aridă Chagai a provinciei Balochistan reprezintă una dintre cele mai mari rezerve neexploatate de cupru și aur din întreaga lume. Relansat recent prin parteneriate internaționale, proiectul promite să transforme economia națională pe parcursul următoarelor decenii prin infuzii uriașe de capital străin. Investițiile planificate depășesc miliarde de dolari și vizează nu doar extracția, ci și construirea de infrastructură socială, spitale și drumuri pentru comunitățile locale baloche. Geografie K7 — investiții globale și mega-proiecte miniere.",
+      "factsAdvanced": ["Aflat în districtul Chagai, provincia Balochistan", "Găzduiește una dintre cele mai mari rezerve mondiale de cupru și aur", "Proiect de referință susținut de parteneriate internaționale majore", "Promite investiții directe de mai multe miliarde de dolari", "Va transforma infrastructura socială din regiunile izolate", "Este vital pentru stabilitatea economică pe termen lung a țării"]
+    },
+    {
+      "id": "karachi-expo-centre-economic-v2",
+      "descriptionAdvanced": "Centrul de Expoziții din Karachi (Karachi Expo Centre) este cel mai important complex expozițional din Pakistan, situat strategic în inima capitalei comerciale a țării. Acesta găzduiește anual expoziții internaționale imense, cum ar fi renumita "Expo Pakistan", aducând laolaltă mii de delegați internaționali și companii locale. Având săli de convenții enorme și pavilioane moderne, centrul facilitează contracte de miliarde de rupii în industrii precum textile, tehnologie și apărare. Este fața globală a comerțului pakistanez. Geografie K7 — comerț internațional și diplomație de afaceri.",
+      "factsAdvanced": ["Cel mai mare și modern complex expozițional din țară", "Situat în inima centrului comercial al națiunii, Karachi", "Găzduiește mega-evenimente precum faimoasa "Expo Pakistan"", "Atrage mii de investitori internaționali în fiecare an", "Facilitează contracte comerciale naționale de miliarde de rupii", "Platforma principală pentru diplomația economică a țării"]
+    },
+    {
+      "id": "pakistan-stock-exchange-economic-v2",
+      "descriptionAdvanced": "Bursa de Valori a Pakistanului (PSX), situată pe strada istorică I. I. Chundrigar din Karachi, este barometrul financiar și inima piețelor de capital din țară. Formată prin fuziunea burselor din Karachi, Lahore și Islamabad în anul 2016, PSX tranzacționează acțiunile a sute de companii majore, inclusiv multinaționale și bănci gigant. Având un impact uriaș asupra stabilității monedei naționale, clădirea în sine este o capodoperă a arhitecturii coloniale de la începutul secolului 20. Geografie K7 — piețe financiare și burse de valori.",
+      "factsAdvanced": ["Formată oficial prin fuziunea a trei burse naționale în 2016", "Sediul central este situat pe strada istorică I. I. Chundrigar din Karachi", "Principalul barometru pentru sănătatea economiei pakistaneze", "Tranzacționează acțiuni pentru sute de corporații și bănci majore", "Atrage capital investițional atât intern, cât și global", "Clădirea sa istorică datează din prima jumătate a secolului 20"]
+    },
+    {
+      "id": "sialkot-international-airport-economic-v2",
+      "descriptionAdvanced": "Aeroportul Internațional Sialkot este primul aeroport public din Pakistan construit și finanțat integral de sectorul privat, reflectând spiritul inovator al antreprenorilor locali. Inaugurat în anul 2007, acest nod logistic conectează direct fabricile orașului (renumite pentru mingile de fotbal și instrumentele chirurgicale) cu piața globală, reducând masiv timpii de tranzit. Aeroportul procesează zilnic volume imense de mărfuri destinate Europei și Americii, precum și zboruri comerciale pentru muncitorii expatriați. Geografie K7 — infrastructură privată și logistică aeriană.",
+      "factsAdvanced": ["Primul aeroport din Pakistan construit exclusiv din fonduri private", "Inaugurat oficial pentru operațiuni internaționale în anul 2007", "Finanțat direct de antreprenorii industriali din regiunea Sialkot", "Conectează industria locală a sportului și medicală de restul lumii", "Diminuează considerabil timpul de export pentru fabricile regionale", "Deservește inclusiv un număr mare de muncitori pakistanezi expatriați"]
+    },
+    {
+      "id": "mangla-dam-energy-economic-v2",
+      "descriptionAdvanced": "Barajul Mangla, construit pe falnicul râu Jhelum în districtul Mirpur (Azad Kashmir), este a doua cea mai mare rezervă de apă din Pakistan, după Tarbela. Finalizat în anul 1967 ca parte a Tratatului Apelor Indusului, a fost supraînălțat în 2009 pentru a-și crește capacitatea. Acest colos din pământ și rocă furnizează astăzi peste 1000 de megawați de energie hidroelectrică, vitală pentru o națiune în creștere. Totodată, lacul său artificial imens a creat oportunități considerabile pentru turism și navigație locală. Geografie K7 — hidroenergie și rezervoare majore de apă.",
+      "factsAdvanced": ["A doua cea mai mare structură hidroelectrică din Pakistan", "Finalizat inițial în anul 1967 sub Tratatul Apelor Indusului", "Situat pe cursul râului Jhelum, în regiunea Azad Kashmir", "A fost extins printr-un proiect masiv de înălțare în 2009", "Produce constant peste 1000 de megawați de energie verde", "Lacul său artificial este o atracție turistică populară regională"]
+    },
+    {
+      "id": "quetta-fruit-market-economic-v2",
+      "descriptionAdvanced": "Piața de Fructe din Quetta este nucleul comercial al regiunii Balochistan, adesea numită "livada Pakistanului". Datorită climatului montan răcoros, provincia excelează în creșterea merelor, cireșelor, migdalelor și strugurilor, iar această piață enormă servește drept punct central de distribuție națională. În fiecare dimineață, sute de camioane pleacă de aici pentru a transporta fructe proaspete de pe Valea Ziarat către Karachi, Lahore și piețele de export din Orientul Mijlociu, susținând mii de fermieri. Geografie K7 — agricultură montană și distribuție alimentară.",
+      "factsAdvanced": ["Punctul central de distribuție agricolă din regiunea Balochistan", "Supranumită "livada Pakistanului" datorită fructelor montane", "Zilnic se tranzacționează cantități masive de mere, migdale și cireșe", "Aprovizionează marile piețe din Karachi, Lahore și capitală", "Sprijină direct mii de fermieri din văi precum Ziarat și Pishin", "Un nod esențial pentru exportul de fructe în Orientul Mijlociu"]
+    },
+    {
+      "id": "mohenjo-daro-ruins-history-v2",
+      "descriptionAdvanced": "Mohenjo-Daro, tradus ca "Movila Morților", este una dintre cele mai spectaculoase realizări urbane ale antichității, datând din jurul anului 2500 î.Hr. Făcând parte din străvechea Civilizație a Văii Indusului, acest oraș dezvăluie cunoștințe inginerești remarcabile: avea un sistem sofisticat de canalizare acoperită, străzi perfect aliniate pe un plan de grilă și case construite din cărămizi coapte la standard. Situat în provincia modernă Sindh, a fost desemnat Patrimoniu Mondial UNESCO. Istorie K8 — Civilizația Văii Indusului și urbanismul antic.",
+      "factsAdvanced": ["A înflorit în jurul anului 2500 î.Hr. în antichitate", "Una dintre capitalele antice ale Civilizației Văii Indusului", "Prezintă primele rețele complexe de canalizare urbană cunoscute", "Designul urban este bazat pe un sistem avansat de grilă", "Situl a fost redescoperit oficial abia în anii 1920", "Este protejat internațional ca sit al Patrimoniului Mondial UNESCO"]
+    },
+    {
+      "id": "taxila-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele din Taxila, situate la doar câțiva kilometri de capitala Islamabad, reprezintă un sit arheologic legendar care documentează ascensiunea și declinul a trei civilizații diferite pe parcursul a 1000 de ani. Odată un centru global de învățare budistă și hindusă (unde a existat una dintre primele universități din lume, în secolul 6 î.Hr.), situl este renumit pentru mănăstirile sale stufoase, cum ar fi faimoasa mănăstire Jaulian. Astăzi, colecția sa excepțională de sculpturi Gandhara atrage mii de erudiți anual. Istorie K8 — centre universitare antice și arta Gandhara.",
+      "factsAdvanced": ["Găzduia una dintre primele universități majore ale lumii (sec. 6 î.Hr.)", "A fost un centru vital al învățăturii budiste și hinduse", "A căzut sub influența imperiilor persan, grec și mauryan", "Cunoscut pentru mănăstirile iconice precum Jaulian și Mohra Muradu", "Este un sit al Patrimoniului Mondial UNESCO de importanță maximă", "Muzeul adiacent conține o colecție vastă de sculpturi Gandhara"]
+    },
+    {
+      "id": "badshahi-mosque-monument-history-v2",
+      "descriptionAdvanced": "Moscheea Badshahi din Lahore, comandată de al șaselea împărat Mughal Aurangzeb și finalizată în 1673, este una dintre cele mai iconice și mai mari moschei din perioada islamică. Fațada sa spectaculoasă, construită din piatră de gresie roșie masivă, este contrastată de trei domuri imense din marmură albă pură. Curtea sa poate găzdui incredibilul număr de 100.000 de credincioși simultan. Reflectând apogeul grandorii imperiale Mughal, moscheea a fost folosită temporar ca fortăreață în perioada dominației sikh. Istorie K8 — apogeul Imperiului Mughal și arhitectură islamică.",
+      "factsAdvanced": ["Construcția a fost ordonată de puternicul împărat Aurangzeb", "Finalizată oficial în anul istoric 1673", "Are exteriorul realizat din blocuri de gresie roșie impunătoare", "Curtea imensă poate găzdui peste 100.000 de credincioși", "Cea mai mare moschee din lume pentru mai mult de trei secole", "A suferit daune militare în timpul dominației Imperiului Sikh"]
+    },
+    {
+      "id": "lahore-fort-historical-site-v2",
+      "descriptionAdvanced": "Fortul Lahore, cunoscut pe plan local sub numele de Shahi Qila, este o fortăreață maiestuoasă din inima orașului Lahore. Reconstruit complet în secolul 16 sub domnia legendarului împărat Akbar, fortul ascunde în interiorul zidurilor sale masive palate uimitoare, precum "Sheesh Mahal" (Palatul Oglinzilor), decorat cu mii de piese mici de sticlă colorată. Reflectând evoluția arhitecturală a mai multor generații de regi Mughal, sikh și chiar britanici, fortul este o enciclopedie vizuală a istoriei pakistaneze și este protejat de UNESCO. Istorie K8 — cetăți regale și succesiunea dinastiilor.",
+      "factsAdvanced": ["Reconstruit din temelii de împăratul Mughal Akbar în secolul 16", "Conține faimosul Sheesh Mahal, cunoscut drept Palatul Oglinzilor", "Inscris pe prestigioasa listă a Patrimoniului Mondial UNESCO", "Poarta Alamgiri a fost adăugată ulterior de împăratul Aurangzeb", "Include pavilioane fastuoase adăugate de împăratul Jahangir", "A fost reședința centrală pentru conducătorii sikh în secolul 19"]
+    },
+    {
+      "id": "hiran-minar-monument-history-v2",
+      "descriptionAdvanced": "Hiran Minar, situat lângă Sheikhupura, este un monument istoric extrem de neobișnuit și profund emoționant. A fost ridicat în secolul 17 din ordinul împăratului Jahangir nu pentru un rege sau sfânt, ci pentru a onora antilopa sa preferată de companie, numită Mansraj. Complexul constă dintr-un turn cilindric masiv, o imensă piscină artificială și un pavilion central grațios de unde familia regală obișnuia să observe animalele sălbatice. Reflectă dragostea profundă a împăratului pentru natură și vânătoare. Istorie K8 — cultura curții Mughal și monumente non-umane.",
+      "factsAdvanced": ["Construit în secolul 17 de împăratul Mughal Jahangir", "Monumentul a fost dedicat antilopei sale preferate, Mansraj", "Complexul are un pavilion acvatic spectaculos în centrul unui lac artificial", "Turnul (minaretul) a fost folosit inițial pentru observarea faunei", "Demonstrează pasiunea epocii Mughal pentru grădini și natură sălbatică", "Situat în apropierea modernului oraș Sheikhupura din Punjab"]
+    },
+    {
+      "id": "takht-i-bahi-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele Takht-i-Bahi, localizate în vârful unui deal stâncos din Mardan, Khyber Pakhtunkhwa, reprezintă cel mai complet și mai bine conservat complex monahal budist din Asia de Sud. Ridicată în secolul 1 d.Hr. în perioada imperiului indo-part, așezarea a scăpat de invaziile hunilor datorită poziției sale izolate. Monarhii și călugării au construit aici stupe impresionante (Stupa Court) și curți pentru meditație. Astăzi, situl inclus pe lista UNESCO este o capodoperă a designului în trepte. Istorie K8 — arhitectura budistă antică și religii antice.",
+      "factsAdvanced": ["O mănăstire budistă antică fondată în secolul 1 d.Hr.", "Situl este cel mai bine conservat complex budist din regiune", "A scăpat distrugerii în timpul invaziilor hunilor albi", "Situată strategic pe vârful unui deal abrupt în districtul Mardan", "Inscrisă ca sit al Patrimoniului Mondial UNESCO în 1980", "Designul curților interioare demonstrează o tehnică avansată în piatră"]
+    },
+    {
+      "id": "rohtas-fort-historical-site-v2",
+      "descriptionAdvanced": "Fortul Rohtas (Qila Rohtas), aflat în apropiere de orașul Jhelum, este o structură militară invincibilă construită în secolul 16 din ordinul marelui lider afgan Sher Shah Suri. Fortăreața uriașă, cu ziduri care se întind pe mai mult de 4 kilometri și turnuri de apărare formidabile, a fost ridicată pentru a suprima triburile locale rebeli Gakkhar și a bloca revenirea împăratului Mughal Humayun. Aceasta combină elemente de arhitectură militară afgană și indiană antică, nefiind luată cu asalt niciodată prin forță. Istorie K8 — inovații militare și imperiul Suri.",
+      "factsAdvanced": ["Construit de formidabilul rege Sher Shah Suri în secolul 16", "Perimetrul zidurilor sale defensive depășește 4 kilometri", "S-a construit pentru a controla triburile locale Gakkhar", "Este faimos pentru că nu a fost niciodată capturat prin asalt militar", "Include porți monumentale cu o arhitectură hibridă afgană-indiană", "Reprezintă un sit oficial al Patrimoniului Mondial UNESCO"]
+    },
+    {
+      "id": "minar-e-pakistan-monument-history-v2",
+      "descriptionAdvanced": "Minar-e-Pakistan este monumentul național definitoriu al națiunii, construit cu mândrie în istoricul parc Iqbal din Lahore. Acest turn grațios, înalt de 62 de metri, marchează locul exact unde Liga Musulmană a adoptat în 1940 Rezoluția de la Lahore, documentul fundamental care a cerut crearea unui stat independent pentru musulmanii din India britanică. Construcția sa modernă, deși folosește elemente tradiționale islamice, a fost finalizată în 1968. Astăzi este epicentrul festivităților de Ziua Națională a Pakistanului. Istorie K8 — mișcarea de independență a Pakistanului.",
+      "factsAdvanced": ["Turnul are o înălțime impresionantă de aproximativ 62 de metri", "Finalizat cu succes în anul 1968 după opt ani de construcții", "Marchează locul exact al adoptării Rezoluției de la Lahore din 1940", "Designul îmbină arhitectura islamică tradițională cu ingineria modernă", "Baza turnului ia forma unei flori desfăcute spectaculoase", "Reprezintă simbolul absolut al independenței națiunii pakistaneze"]
+    },
+    {
+      "id": "makli-necropolis-historical-site-v2",
+      "descriptionAdvanced": "Necropola Makli din Sindh este unul dintre cele mai mari și mai misterioase cimitire din lume, întinzându-se pe o suprafață vastă. Adăpostind mormintele a aproximativ o jumătate de milion de sufiți, regi și cărturari din secolele 14 până în 18, acest sit este un testament al dinastiilor Samma, Arghun și Tarkhan. Mormintele maiestuoase, sculptate detaliat în piatră gălbuie cu motive florale și caligrafie coranică elaborată, redau poveștile unei perioade de glorie uitată a civilizației islamice din Sindh. Istorie K8 — arta funerară islamică și dinastiile medievale.",
+      "factsAdvanced": ["Unul dintre cele mai masive complexe funerare din întreaga lume", "Se estimează că adăpostește rămășițele a peste 500.000 de persoane", "Mormintele datează dintr-o perioadă istorică între secolele 14 și 18", "Include structuri grandioase pentru regii din dinastia Samma și Tarkhan", "Motivele decorative combină caligrafia islamică cu elemente hinduse antice", "Protejat și recunoscut oficial de către organizația UNESCO"]
+    },
+    {
+      "id": "shah-jahani-mosque-monument-history-v2",
+      "descriptionAdvanced": "Moscheea Shah Jahan, situată în orașul vechi Thatta (Sindh), a fost construită în 1647 de împăratul omonim drept dar de mulțumire pentru oamenii din Thatta care l-au adăpostit în tinerețe. Această capodoperă este complet unică în arhitectura Mughal deoarece este acoperită cu aproape 100 de domuri care acționează ca un sistem complex de amplificare acustică, permițând vocea imamului să ajungă pretutindeni fără boxe. Mai mult, folosește cele mai bogate decorațiuni cu plăci de faianță albastră din întreaga Asie de Sud. Istorie K8 — meșteșugul faianței și acustică antică.",
+      "factsAdvanced": ["A fost finalizată în anul 1647 din ordinul împăratului Shah Jahan", "Are exact 93 de domuri care creează un ecou acustic impecabil", "Nu folosește gresia roșie specifică altor clădiri imperiale Mughal", "Are cel mai complex mozaic de faianță albastră smălțuită din regiune", "Construită drept un dar de recunoștință pentru orașul Thatta", "Vocea unui singur imam se aude în toată moscheea datorită arhitecturii"]
+    }
+  ]
+}

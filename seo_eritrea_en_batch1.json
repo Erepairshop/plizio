@@ -1,0 +1,30 @@
+{
+  "lang": "en",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEritreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEritreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEritreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEritreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEritreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "keren-cities-v2",
+      "descriptionAdvanced": "Keren is the second-largest city in Eritrea, located in the Anseba region at an altitude of 1,390 meters. It is famous for its lively livestock and produce market, which draws traders from across the region, reflecting the area's agricultural importance. The city is also noted for its diverse history, including sites related to World War II battles between British and Italian forces, as well as the significant Keren War Cemetery. The surrounding mountainous landscape and the unique climate make it a cultural crossroads. Geography K7 — highland markets and regional history.",
+      "factsAdvanced": ["The city is located in the Anseba region.", "Altitude of approximately 1,390 meters.", "Known for its major weekly market.", "Significant site of WWII military history.", "Home to a notable Italian war cemetery.", "It is the second-largest city in Eritrea."]
+    },
+    {
+      "id": "assab-cities-v2",
+      "descriptionAdvanced": "Assab is a strategic port city on the southern Red Sea coast of Eritrea, historically important for its deep-water harbor and role as an international trade gateway. The city's geography is defined by its coastal position, contrasting sharply with the arid Danakil Desert hinterland. In the past, it served as a key refueling stop and commercial hub for maritime routes connecting East Africa with the Middle East. The climate here is extremely hot, characteristic of the Red Sea coastal region. Geography K7 — ports and trade routes.",
+      "factsAdvanced": ["Located on the Red Sea coast.", "Extremely hot climate.", "Deep-water port facility.", "Key trade gateway for Eritrea.", "Proximity to the Danakil Desert.", "Strategically positioned for maritime commerce."]
+    },
+    {
+      "id": "mendefera-cities-v2",
+      "descriptionAdvanced": "Mendefera, located in the Debub region, is a key administrative and commercial center in the Eritrean highlands. Known formerly by its Italian name, Adi Ugri, the city is surrounded by fertile agricultural land, which serves as the economic backbone of the local community. The town is rich in history, with archaeological evidence of ancient civilizations in the area, providing a glimpse into the region's long-standing human settlement. Today, it remains an important hub for the exchange of agricultural produce and services in the southern region. Geography K7 — highland agriculture.",
+      "factsAdvanced": ["Located in the Debub region.", "Administrative and commercial hub.", "Known historically as Adi Ugri.", "Surrounded by fertile farmland.", "Archaeological significance in the region.", "Important agricultural exchange center."]
+    }
+  ]
+}

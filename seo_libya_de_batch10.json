@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sirtica-desert-nature-v2",
+      "descriptionAdvanced": "Die Sirtica-Wüste (Syrte-Wüste) dehnt sich südlich des Golfs von Sidra ins Landesinnere aus. Es handelt sich um ein relativ flaches und extrem trockenes Steppen- und Wüstengebiet, das geologisch den Übergang zwischen Tripolitanien und der Kyrenaika bildet und unter seiner rauen Oberfläche die reichsten Ölquellen Nordafrikas verbirgt. Geografie K7 — Trockensteppen.",
+      "factsAdvanced": [
+        "Wüsten- und Steppenregion südlich des Mittelmeers",
+        "Geografischer Übergang zwischen West- und Ostlibyen",
+        "Extrem trocken und unwirtlich an der Oberfläche",
+        "Beherbergt das erdölreiche Sirte-Becken",
+        "Historisch ein kaum besiedeltes Puffergebiet",
+        "Schauplatz intensiver geologischer Erkundungen"
+      ]
+    },
+    {
+      "id": "wadi-mathendous-nature-v2",
+      "descriptionAdvanced": "Wadi Mathendous ist ein trockenes, schroffes Wüstental in der Messak Settafet Region im Südwesten Libyens. Es ist weltberühmt für seine außergewöhnliche Dichte an prähistorischen Felsgravuren (Petroglyphen), die detailreiche Darstellungen von lebensgroßen Elefanten, Nashörnern und Krokodilen zeigen und beweisen, dass die Region vor 10.000 Jahren eine grüne Savanne war. Geschichte K7 — Sahara in der Prähistorie.",
+      "factsAdvanced": [
+        "Prähistorisches Tal in der Messak Settafet Region",
+        "Eines der wichtigsten Zentren für Felsgravuren",
+        "Zeigt Tiere wie Elefanten und Krokodile",
+        "Entstanden, als die Sahara noch grün war",
+        "UNESCO-geschützte archäologische Stätte",
+        "Gefährdet durch Winderosion und Vandalismus"
+      ]
+    },
+    {
+      "id": "jebel-soda-nature-v2",
+      "descriptionAdvanced": "Das Jebel Soda, wörtlich das 'Schwarze Gebirge', ist eine erodierte vulkanische Bergkette im Herzen der Fezzan-Region. Die von dunklem Basalt und Sand durchsetzten Canyons bilden einen scharfen visuellen Kontrast zu den benachbarten gelben Dünenmeeren und stellen seit der Antike ein gefürchtetes natürliches Hindernis dar. Geografie K7 — Vulkanische Wüsten.",
+      "factsAdvanced": [
+        "Vulkanische Gebirgskette im Fezzan",
+        "Name bedeutet 'Das schwarze Gebirge'",
+        "Gebildet aus dunklem Basalt und erkalteter Lava",
+        "Extremer visueller Kontrast zu gelbem Wüstensand",
+        "Weitgehend menschenleer und extrem heiß",
+        "Natürliche Barriere für transsaharischen Verkehr"
+      ]
+    },
+    {
+      "id": "fezzan-desert-nature-v2",
+      "descriptionAdvanced": "Die Fezzan-Wüste bildet das weite, trockene Herz des südwestlichen Libyens. Sie ist berühmt für ihr enormes unterirdisches Wasservorkommen (den Nubischen Sandstein-Aquifer), das in Form vereinzelter, smaragdgrüner Oasen an die Oberfläche tritt und seit Jahrtausenden das Zentrum der Tuareg- und Garamanten-Kultur bildet. Geografie K8 — Hydrogeologische Becken.",
+      "factsAdvanced": [
+        "Große historische Region im Südwesten Libyens",
+        "Geprägt von massiven Dünenmeeren und Steinwüsten",
+        "Ruht auf gigantischen fossilen Süßwasserreserven",
+        "Heimat der Tuareg und einst der Garamanten",
+        "Umgeben von markanten vulkanischen Gebirgen",
+        "Zentrum des historischen Karawanenhandels"
+      ]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "descriptionAdvanced": "Die Küste der Kyrenaika in Ostlibyen ist eine der vielfältigsten und unberührtesten mediterranen Küstenlinien Nordafrikas. Wo die bewaldeten Berge des Dschabal al-Achdar direkt auf das tiefblaue Mittelmeer treffen, entstehen spektakuläre Buchten, steile Kalksteinklippen und fruchtbare Küstenebenen, die einst von griechischen Kolonisten besiedelt wurden. Geografie K7 — Mediterrane Küstenformen.",
+      "factsAdvanced": [
+        "Küstenlinie im Osten Libyens",
+        "Treffpunkt der Berge (Dschabal al-Achdar) und des Meeres",
+        "Reich an unberührten Stränden und Buchten",
+        "Milder mediterraner Einfluss",
+        "Heimat antiker griechischer und römischer Hafenstädte",
+        "Biodiversitäts-Hotspot für Seevögel und Meeresschildkröten"
+      ]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "descriptionAdvanced": "Wadi al-Farigh ist eines der ausgedehntesten Trockentalsysteme in der Kyrenaika, das sich vom Dschabal al-Achdar nach Süden in die Sahara erstreckt. Es fungiert als wichtiger unterirdischer Abflusskanal für die spärlichen Niederschläge der Berge und ist von kritischer Bedeutung für die Vegetation der Steppennomaden im Süden. Geografie K7 — Wüstenhydrologie.",
+      "factsAdvanced": [
+        "Riesiges Trockentalsystem im Osten Libyens",
+        "Transportiert Wasser vom Gebirge in die Wüste",
+        "Wichtig für die Auffüllung lokaler Aquifere",
+        "Meist völlig trocken an der Oberfläche",
+        "Dient Beduinenstämmen als traditionelles Weideland",
+        "Markiert den Übergang von Steppe zu Sandwüste"
+      ]
+    },
+    {
+      "id": "jebel-tarhuna-nature-v2",
+      "descriptionAdvanced": "Das Tarhuna-Gebirge, das sich südlich der Jafara-Küstenebene erhebt, bildet die ersten markanten Anhebungen vor dem Beginn des riesigen Nafusa-Massivs. Die sanfteren Hänge und relativ fruchtbaren Böden dieses Gebirgszugs machen ihn zu einer der wichtigsten Agrarregionen Westlibyens, besonders für Oliven und Getreide. Geografie K6 — Hügellandschaften.",
+      "factsAdvanced": [
+        "Hügelkette südöstlich von Tripolis",
+        "Übergangszone zwischen Küste und Hochgebirge",
+        "Sehr fruchtbare, rötliche Böden",
+        "Zentrum des großflächigen Olivenanbaus",
+        "Wichtiges Wassereinzugsgebiet für Tripolis",
+        "Historisch stark von Landwirtschaft geprägt"
+      ]
+    },
+    {
+      "id": "ghat-mountains-nature-v2",
+      "descriptionAdvanced": "Die Berge rund um Ghat, vor allem die Akakus-Berge (Tadrart Acacus), bilden eine spektakuläre, labyrinthartige Felswüste aus dunklem Sandstein. Die von Windschliff bizarren Formen haben natürliche Säulen und Bögen geschaffen, während tiefe Schluchten Tausende von prähistorischen Felsmalereien verbergen, die das UNESCO-Weltkulturerbe bilden. Geografie K8 — Äolische Erosion.",
+      "factsAdvanced": [
+        "Schroffe Sandstein-Berge nahe der algerischen Grenze",
+        "Teil des Akakus-Massivs",
+        "Bizarre durch Wind geformte Felsstrukturen",
+        "Berühmt für prähistorische Felskunst (UNESCO)",
+        "Heimat der lokalen Tuareg-Nomaden",
+        "Riesige Temperaturschwankungen zwischen Tag und Nacht"
+      ]
+    },
+    {
+      "id": "jebel-akdar-highlands-relief-v2",
+      "descriptionAdvanced": "Die Hochebenen des Dschabal al-Achdar ('Grüner Berg') sind eine bemerkenswerte geologische Aufwölbung aus Kalkstein an der libyschen Ostküste. Diese Höhenlage zwingt feuchte Meeresluft zum Aufsteigen, was zu reichen Winterniederschlägen führt und das Plateau zur feuchtesten und grünsten Region im ganzen Land macht. Geografie K7 — Orographischer Niederschlag.",
+      "factsAdvanced": [
+        "Kalksteinplateau an der nordöstlichen Mittelmeerküste",
+        "Sorgt für hohen orographischen Niederschlag",
+        "Feuchteste und waldreichste Region Libyens",
+        "Tief von steilen Karsttälern (Wadis) eingeschnitten",
+        "Historische Kornkammer der griechischen Kyrenaika",
+        "Starker Kontrast zur südlichen Saharawüste"
+      ]
+    },
+    {
+      "id": "gargaf-range-relief-v2",
+      "descriptionAdvanced": "Die Gargaf-Kette (Jebel Gargaf) ist eine langgestreckte, stark erodierte Antiklinale (Faltengebirge), die sich in Ost-West-Richtung durch Zentrallibyen zieht. Die schroffen, dunklen Felsrippen dieser Kette bilden eine ausgeprägte tektonische Grenze, die das Murzuq-Becken im Süden geologisch vom großen Sirte-Becken im Norden trennt. Geografie K8 — Tektonik und Faltengebirge.",
+      "factsAdvanced": [
+        "Langgestrecktes Faltengebirge in Zentrallibyen",
+        "Trennt das Murzuq-Becken vom Sirte-Becken",
+        "Geologisch sehr alt und stark erodiert",
+        "Besteht aus dunklen Quarziten und Sandsteinen",
+        "Natürliche Barriere für Winde und Sandverwehungen",
+        "Reich an prähistorischen Fossilien"
+      ]
+    },
+    {
+      "id": "jebel-soda-relief-v2",
+      "descriptionAdvanced": "Die Jebel-Soda-Berge (Schwarze Berge) sind ein massives Relikt intensiver vulkanischer Aktivitäten aus dem Tertiär. Das dunkle, raue Basaltrelief erhebt sich inselartig aus der flachen Wüste des Fezzan, was zu seiner isolierten, mondähnlichen Landschaftsform und extremen Hitzeentwicklung im Sommer beiträgt. Geografie K8 — Vulkanischer Reliefbau.",
+      "factsAdvanced": [
+        "Relief aus erstarrten Basalt- und Lavaströmen",
+        "Überreste tertiärer vulkanischer Aktivitäten",
+        "Erhebt sich markant aus der Fezzan-Ebene",
+        "Dunkles Gestein absorbiert immense Sonnenhitze",
+        "Geprägt durch tiefe, trockene Canyons",
+        "Sehr dünn besiedelte und unzugängliche Region"
+      ]
+    },
+    {
+      "id": "tibesti-foothills-relief-v2",
+      "descriptionAdvanced": "Das Relief der Tibesti-Ausläufer an der Grenze zum Tschad markiert den Beginn eines der größten und höchsten Vulkanmassive der Sahara. Die Topografie ist extrem zerklüftet, geprägt von tiefen, dunklen Schluchten und schroffen, steil aufragenden Vulkankegeln, die die ansonsten extrem flache südliche Sahara dramatisch unterbrechen. Geografie K8 — Hochgebirgsrelief der Wüste.",
+      "factsAdvanced": [
+        "Nördliche Ausläufer des riesigen Tibesti-Vulkanmassivs",
+        "Markiert die Grenze zwischen Libyen und dem Tschad",
+        "Topografie aus steilen Vulkankegeln und Schluchten",
+        "Höchste Erhebungen Libyens (Bikku Bitti)",
+        "Gestein ist vorwiegend dunkler Basalt",
+        "Extrem isoliert und schwer zugänglich"
+      ]
+    },
+    {
+      "id": "jebel-uwaynat-relief-v2",
+      "descriptionAdvanced": "Das Jebel Uwaynat (Uweinat) ist ein spektakuläres, kreisförmiges Massiv aus präkambrischem Granit und paläozoischem Sandstein, das sich wie eine gigantische Insel aus den unendlichen Sandmeeren im Südosten erhebt. Sein massives Relief fängt seltene Wolken ein, wodurch an seinen Flanken einzigartige Mikro-Biotope entstehen. Geografie K8 — Inselberge (Inselbergs).",
+      "factsAdvanced": [
+        "Riesiger Inselberg am libysch-ägyptisch-sudanesischen Dreiländereck",
+        "Besteht aus extrem hartem Granit und Sandstein",
+        "Erhebt sich abrupt aus der umliegenden, flachen Sandwüste",
+        "Gipfel fangen seltene, lebenswichtige Wolkenfeuchtigkeit ein",
+        "Durchzogen von tief eingeschnittenen Wadis",
+        "Reich an prähistorischer Felskunst"
+      ]
+    },
+    {
+      "id": "jebel-tarhuna-relief-v2",
+      "descriptionAdvanced": "Das Tarhuna-Massiv bildet das wichtigste Bindeglied zwischen der nordwestlichen Küstenebene und dem hohen Nafusa-Gebirge. Seine abgerundeten, von tiefen Flusstälern zerschnittenen Hügelkuppen bestehen aus relativ weichem Kalkstein, der im Laufe von Jahrtausenden durch Winterregenfälle zu einer sanften, aber komplexen Hügellandschaft geformt wurde. Geografie K7 — Fluviatile Erosion.",
+      "factsAdvanced": [
+        "Sanfte Kalkstein-Hügelkette südöstlich von Tripolis",
+        "Stark von fluviatiler Erosion geformt",
+        "Bindeglied zwischen Küste und Nafusa-Gebirge",
+        "Die weichen Hänge sind ideal für Landwirtschaft",
+        "Zahlreiche tiefe, fruchtbare Wadis durchschneiden das Relief",
+        "Wichtige topografische Grenze in Tripolitanien"
+      ]
+    },
+    {
+      "id": "sirte-basin-relief-v2",
+      "descriptionAdvanced": "Das topografische Relief des Sirte-Beckens ist täuschend flach und unscheinbar, was seine dramatische unterirdische Geometrie völlig verbirgt. An der Oberfläche bildet es eine riesige, sanft abfallende Depression (Senke) zur Küste des Mittelmeers hin, die von Sandsteinen und spärlichen Kalksteinrippen überzogen ist. Geografie K8 — Geologische Senken.",
+      "factsAdvanced": [
+        "Oberflächlich eine riesige, sehr flache Depression",
+        "Gefälle richtet sich stetig zum Golf von Sidra",
+        "Verbirgt ein gewaltiges System aus tektonischen Gräben",
+        "Fehlen markanter Berge oder Hügel",
+        "Geprägt durch Salzpfannen nahe der Küste",
+        "Stark von Winderosion geprägte flache Landschaft"
+      ]
+    },
+    {
+      "id": "al-haruj-relief-v2",
+      "descriptionAdvanced": "Das Relief von Al-Haruj ist eines der spektakulärsten in Nordafrika und besteht aus einem riesigen, weitgehend flachen Basaltschild, das von mehr als 120 markanten, steil aufragenden Schlackenkegeln und Kratern durchbrochen ist. Die messerscharfen, unverwitterten Lavaströme machen das Überqueren dieser Region extrem gefährlich. Geografie K8 — Vulkanischer Schild.",
+      "factsAdvanced": [
+        "Riesiger vulkanischer Basaltschild in Zentrallibyen",
+        "Durchbrochen von hunderten steilen Vulkankratern",
+        "Oberfläche ist übersät mit extrem scharfer Lava (Aa-Lava)",
+        "Topografie ist für Fahrzeuge und Kamele nahezu unpassierbar",
+        "Bildet ein schwarzes, inselartiges Plateau im Wüstensand",
+        "Geologisch sehr junges Relief"
+      ]
+    },
+    {
+      "id": "al-hamada-al-hamra-relief-v2",
+      "descriptionAdvanced": "Das Relief der Al-Hamada al-Hamra (Rote Steinwüste) ist das klassische Beispiel einer Hammada: ein gigantisches, nahezu perfekt ebenes Kalkstein- und Sandsteinplateau, das frei von Sanddünen ist. Diese extreme, tischflache Felsebene erstreckt sich über Hunderte Kilometer und wird nur von sehr flachen, vom Wind ausgeblasenen Senken unterbrochen. Geografie K7 — Hammada-Reliefs.",
+      "factsAdvanced": [
+        "Klassisches, tischflaches Hammada-Relief",
+        "Nahezu perfekte Ebene aus Kalk- und Sandstein",
+        "Völliges Fehlen von Sanddünen oder Erhebungen",
+        "Extrem starker stetiger Wind formt die Oberfläche glatt",
+        "Erstreckt sich über riesige Flächen in Westlibyen",
+        "Rotes Eisenoxid gibt dem Gestein seine Farbe"
+      ]
+    },
+    {
+      "id": "jebel-nafusa-relief-v2",
+      "descriptionAdvanced": "Das Relief des Nafusa-Gebirges (Dschabal Nafusa) ist eine imposante Schichtstufe, die sich im Westen Libyens dramatisch aus der Jafara-Ebene erhebt. Die steile nördliche Steilstufe fällt bis zu 500 Meter senkrecht ab, während das Plateau nach Süden hin flach und fast unmerklich in die raue Saharawüste der Al-Hamada al-Hamra übergeht. Geografie K8 — Schichtstufen.",
+      "factsAdvanced": [
+        "Imposante Schichtstufe (Escarpment) in Westlibyen",
+        "Steile Nordflanke fällt hunderte Meter zur Küstenebene ab",
+        "Südflanke neigt sich extrem sanft in die Sahara",
+        "Durchschnitten von tiefen, erodierten Flusstälern (Wadis)",
+        "Bietet eine natürliche, stark verteidigungsfähige Festung",
+        "Höchste Erhebung erreicht fast 1.000 Meter"
+      ]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "descriptionAdvanced": "Das Relief des Jebel Aswad ist eine raue, stark fragmentierte vulkanische Berglandschaft am Rand der großen Fezzan-Depression. Die unregelmäßigen, dunklen Basaltblöcke und steilen, trockenen Canyons bilden eine extrem unzugängliche und gefährliche Topografie, die den Wasserabfluss bei seltenen Regenfällen rasant beschleunigt. Geografie K7 — Vulkanische Erosion.",
+      "factsAdvanced": [
+        "Stark fragmentiertes vulkanisches Relief",
+        "Markante Grenze im nördlichen Fezzan",
+        "Besteht aus scharfkantigen, dunklen Basaltblöcken",
+        "Durchzogen von steilen, engen Canyons",
+        "Verursacht heftige Sturzfluten bei seltenem Regen",
+        "Topografie ist für den Menschen fast unpassierbar"
+      ]
+    },
+    {
+      "id": "wadi-al-kuf-relief-v2",
+      "descriptionAdvanced": "Das topografische Relief des Wadi al-Kuf ist ein tiefes V-förmiges Tal, das durch die Kraft von Winterflüssen tief in das weiche Kalksteinplateau des Dschabal al-Achdar geschnitten wurde. Die steilen, felsigen Hänge des Tals sind durchsetzt von Karsthöhlen und Sinkhöhlen, was das Gebiet geomorphologisch einzigartig in Libyen macht. Geografie K8 — Karst-Täler.",
+      "factsAdvanced": [
+        "Tief in Kalkstein geschnittenes, V-förmiges Tal",
+        "Steile, fast senkrechte Felswände an beiden Seiten",
+        "Stark durch chemische Karstverwitterung geprägt",
+        "Zahlreiche Tropfsteinhöhlen und Sinklöcher",
+        "Erfordert die längste Spannbetonbrücke Afrikas (Wadi-Kuf-Brücke)",
+        "Spektakuläres Relief im ansonsten flachen Nordafrika"
+      ]
+    }
+  ]
+}

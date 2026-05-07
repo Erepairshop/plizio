@@ -1,0 +1,141 @@
+{
+  "lang": "de",
+  "country": "panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "concepcion-bugaba-cities-v2",
+      "descriptionAdvanced": "La Concepción ist das pulsierende administrative und wirtschaftliche Zentrum des Bezirks Bugaba in der Provinz Chiriquí. Die Stadt wurde offiziell im Jahr 1863 gegründet und liegt strategisch günstig an der Panamericana, was sie zu einem der wichtigsten Handelsknotenpunkte im Westen Panamas macht. Aufgrund der fruchtbaren Böden der Umgebung gilt Concepción als die landwirtschaftliche Hauptstadt der Region, in der vor allem Milchprodukte, Rindfleisch und verschiedenste Gemüsesorten umgeschlagen werden. Besonders bekannt ist die Stadt für die jährlich im Februar stattfindende 'Feria de La Candelaria', eine große Landwirtschafts- und Gewerbemesse, die Besucher aus dem ganzen Land anzieht. Die Mischung aus traditionellem ländlichem Charme und moderner Handelsdynamik prägt das Stadtbild und macht es zu einem unverzichtbaren Stopp für Reisende auf dem Weg zur costa-ricanischen Grenze. Geographie K7 — Landwirtschaftliche Zentren und Handelswege.",
+      "factsAdvanced": [
+        "Wurde am 6. August 1863 als Hauptort des Bezirks Bugaba offiziell gegründet.",
+        "Liegt auf einer strategisch günstigen Höhe von etwa 200 Metern über dem Meeresspiegel.",
+        "Gilt als das wichtigste Zentrum für den Handel mit Milchprodukten in Chiriquí.",
+        "Beherbergt die 'Feria de La Candelaria', eine der bedeutendsten Agrarmessen Panamas.",
+        "Ein entscheidendes logistisches Nadelöhr an der Panamericana-Autobahn.",
+        "Dient als Versorgungszentrum für die Hochlandregionen wie Volcán und Cerro Punta."
+      ]
+    },
+    {
+      "id": "san-lorenzo-chiriqui-cities-v2",
+      "descriptionAdvanced": "San Lorenzo ist eine geschichtsträchtige Gemeinde in der Provinz Chiriquí, deren Wurzeln bis in die frühe spanische Kolonialzeit des 16. Jahrhunderts zurückreichen. Als Verwaltungssitz des gleichnamigen Bezirks spielt der Ort eine zentrale Rolle für die umliegenden ländlichen Gemeinschaften, die primär von der Viehzucht und dem großflächigen Reisanbau leben. Geografisch besticht San Lorenzo durch seine Nähe zum Golf von Chiriquí, was die Stadt zum idealen Ausgangspunkt für Erkundungen der unberührten Küstenlandschaften und Mangrovenwälder macht. Die Region ist bekannt für ihre reiche Biodiversität und die traditionellen 'Cattle Ranches', die das kulturelle Bild des westlichen Panamas prägen. San Lorenzo bewahrt zudem stolz seine religiösen Traditionen und feiert jedes Jahr lebendige Patronatsfeste, die die tiefe Verbindung der Bewohner zu ihrer Geschichte und ihrem Land widerspiegeln. Geschichte K8 — Koloniale Siedlungsstrukturen und Agrarwirtschaft.",
+      "factsAdvanced": [
+        "Die Region wurde bereits um 1589 von spanischen Missionaren und Siedlern erschlossen.",
+        "Dient als wichtiges Tor zum Meeresnationalpark Golf von Chiriquí.",
+        "Die lokale Wirtschaft basiert maßgeblich auf der Rinderzucht und dem Reisanbau.",
+        "Beherbergt weite, ökologisch wertvolle Mangrovengebiete entlang der Pazifikküste.",
+        "Ein Zentrum für traditionelle panamaische Folklore und ländliche Identität.",
+        "Wichtiger Standort für die Forschung zur marinen Biodiversität im Westpazifik."
+      ]
+    },
+    {
+      "id": "balboa-panama-cities-v2",
+      "descriptionAdvanced": "Balboa ist eine historisch und logistisch herausragende Hafenstadt am pazifischen Eingang des Panamakanals. Gegründet während des Kanalbaus durch die USA, diente Balboa jahrzehntelang als das administrative Herzstück der ehemaligen Kanalzone. Das Stadtbild ist bis heute von der klassischen amerikanischen Kolonialarchitektur des frühen 20. Jahrhunderts geprägt, die in den breiten Alleen und den robusten Verwaltungsgebäuden deutlich wird. Benannt nach dem Entdecker Vasco Núñez de Balboa, beherbergt die Stadt heute einen der wichtigsten Containerhäfen Lateinamerikas, der als Drehscheibe für den globalen Welthandel fungiert. Von den Hängen des nahegelegenen Ancon Hill bietet sich ein spektakulärer Blick über die Dächer von Balboa bis hin zu den modernen Wolkenkratzern von Panama-Stadt, was den Kontrast zwischen historischem Erbe und modernem Fortschritt verdeutlicht. Geschichte K8 — Die Ära der US-Kanalzone und maritime Logistik.",
+      "factsAdvanced": [
+        "Benannt nach dem spanischen Entdecker, der als erster Europäer den Pazifik erblickte.",
+        "War bis 1999 das administrative Zentrum der US-amerikanischen Kanalverwaltung.",
+        "Beherbergt das monumentale Administrationsgebäude des Panamakanals aus dem Jahr 1914.",
+        "Der Hafen Balboa ist einer der verkehrsreichsten Containerumschlagplätze der Region.",
+        "Die Architektur folgt dem 'Garden City'-Konzept der frühen amerikanischen Stadtplanung.",
+        "Liegt direkt am Fuße des Ancon Hill, dem höchsten Punkt von Panama-Stadt."
+      ]
+    },
+    {
+      "id": "gamboa-cities-v2",
+      "descriptionAdvanced": "Gamboa ist ein einzigartiges Dorf am Zusammenfluss des Chagres-Flusses und des Panamakanals, tief eingebettet in den üppigen tropischen Regenwald. Ursprünglich als Stadt für die Kanalarbeiter errichtet, hat sich Gamboa heute zu einem weltweit bedeutenden Zentrum für wissenschaftliche Forschung und Ökotourismus gewandelt. Es beherbergt wichtige Einrichtungen des Smithsonian Tropical Research Institute, wo Forscher aus aller Welt die komplexen biologischen Zusammenhänge der Tropen studieren. Für Naturliebhaber ist Gamboa der ultimative Ausgangspunkt, da es direkt an den Soberanía-Nationalpark grenzt, der für seine Weltrang-Vogelbeobachtungsplätze wie die 'Pipeline Road' berühmt ist. Die ruhige Atmosphäre des Dorfes, kombiniert mit der ständigen Sichtbarkeit massiver Containerschiffe, die leise am Regenwald vorbeigleiten, macht Gamboa zu einem Ort der faszinierenden Kontraste zwischen Technik und Natur. Biologie K7 — Biodiversität und tropische Ökosysteme.",
+      "factsAdvanced": [
+        "Strategisch gelegen am Treffpunkt des Chagres-Flusses mit dem künstlichen Gatun-See.",
+        "Ein Hauptstandort für das renommierte Smithsonian Tropical Research Institute.",
+        "Direkter Zugang zur Pipeline Road, einem der weltbesten Orte für Vogelbeobachtung.",
+        "Ursprünglich eine geschlossene Siedlung für die Baggerabteilung des Panamakanals.",
+        "Beherbergt das Gamboa Rainforest Resort, ein Zentrum für nachhaltigen Tourismus.",
+        "Heimat von Brüllaffen, Faultieren und Hunderten von exotischen Vogelarten."
+      ]
+    },
+    {
+      "id": "cristobal-colon-cities-v2",
+      "descriptionAdvanced": "Cristóbal ist der bedeutende Hafen- und Verwaltungsbezirk der Stadt Colón am karibischen Eingang des Panamakanals. In der Blütezeit des Kanalbaus war Cristóbal das logistische Epizentrum für die Ankunft von Material und Arbeitskräften aus aller Welt. Die Architektur des Viertels spiegelt mit ihren soliden Betonbauten und Veranden den utilitaristischen, aber eleganten Stil der amerikanischen Kanalära wider. Heute fungiert Cristóbal als einer der wichtigsten Häfen für Kreuzfahrtschiffe und den Containerumschlag in der Karibik. Trotz der wirtschaftlichen Herausforderungen der Region bleibt das Viertel ein entscheidender Pfeiler der panamaischen Logistikwirtschaft und ein historisches Denkmal für die gewaltige Ingenieursleistung, die den Atlantik mit dem Pazifik verband. Die Nähe zur Freizone von Colón macht es zudem zu einem wichtigen Punkt für den internationalen Transithandel. Wirtschaft K8 — Globaler Handel und Hafenlogistik.",
+      "factsAdvanced": [
+        "Markiert den offiziellen atlantischen Startpunkt für Schiffe, die den Kanal durchqueren.",
+        "Wurde nach dem spanischen Namen von Christoph Kolumbus (Cristóbal Colón) benannt.",
+        "Einst Standort der berühmten Panama Railroad Company und wichtiger Bahnhöfe.",
+        "Beherbergt historische Clubhäuser und Verwaltungsbauten der frühen Kanalzeit.",
+        "Einer der wichtigsten Anlaufpunkte für internationale Kreuzfahrtlinien in Panama.",
+        "Direkt angrenzend an die Freihandelszone Colón, die zweitgrößte der Welt."
+      ]
+    },
+    {
+      "id": "isla-grande-cities-v2",
+      "descriptionAdvanced": "Isla Grande ist eine malerische Insel an der karibischen Küste Panamas, die für ihre lebendige afro-karibische Kultur und ihr kristallklares Wasser bekannt ist. Die Insel bietet einen starken Kontrast zum hektischen Treiben der nahegelegenen Stadt Colón und ist ein beliebtes Ziel für Reisende, die Entspannung und authentisches Inselflair suchen. Da auf der Insel keine Autos erlaubt sind, bewegen sich Besucher ausschließlich zu Fuß auf den schmalen Pfaden zwischen Palmen und bunten Holzhäusern. Ein besonderes Wahrzeichen ist die Statue des 'Schwarzen Christus', die im flachen Wasser vor der Küste steht und ein wichtiges religiöses Symbol für die lokale Bevölkerung darstellt. Die umliegenden Korallenriffe machen Isla Grande zu einem Paradies für Schnorchler und Taucher, die hier eine farbenfrohe Unterwasserwelt direkt vor der Haustür erkunden können. Geographie K4 — Inselwelt und Küstenökosysteme.",
+      "factsAdvanced": [
+        "Befindet sich in der Provinz Colón, nur eine kurze Bootsfahrt vom Festland entfernt.",
+        "Berühmt für die afro-antillische Gastronomie mit Fokus auf Kokosnuss und Meeresfrüchte.",
+        "Die Statue des Schwarzen Christus im Meer ist ein zentrales Pilger- und Fotomotiv.",
+        "Ein autofreies Paradies, das für seine Ruhe und natürliche Schönheit geschätzt wird.",
+        "Beherbergt einen historischen Leuchtturm, der einen weiten Blick über die Karibik bietet.",
+        "Umgeben von intakten Korallenriffen, ideal für nachhaltigen Schnorcheltourismus."
+      ]
+    },
+    {
+      "id": "palmas-bellas-cities-v2",
+      "descriptionAdvanced": "Palmas Bellas ist ein authentisches Küstendorf an der sogenannten 'Costa Abajo' in der Provinz Colón. Abseits der großen Touristenströme bietet dieser Ort einen tiefen Einblick in das ländliche Leben der afro-panamaischen Bevölkerung, die hier seit Generationen von der kleinteiligen Fischerei und der Landwirtschaft lebt. Die Architektur des Dorfes ist schlicht und zweckmäßig, oft direkt am Meer gelegen, was Palmas Bellas eine raue, aber herzliche Schönheit verleiht. Die Umgebung ist geprägt von dichten Kokospalmenhainen und unberührten Stränden, die zum Träumen einladen. Historisch gesehen liegt das Dorf in einer Region, die einst durch das nahegelegene Fort San Lorenzo geschützt wurde und somit Teil der kolonialen Verteidigungslinie gegen Piraten war. Heute ist es ein Rückzugsort für Menschen, die die ursprüngliche Karibik und die Gastfreundschaft der 'Costeños' erleben möchten. Sachkunde K4 — Leben in Küstengemeinden.",
+      "factsAdvanced": [
+        "Gehört zum Bezirk Chagres in der Provinz Colón an der wilden Westküste.",
+        "Die lokale Wirtschaft wird fast ausschließlich durch handwerkliche Fischerei getragen.",
+        "Bewahrt die traditionellen Tänze und Rhythmen der 'Congo'-Kultur.",
+        "Liegt in der Nähe der Mündung des Chagres-Flusses und des Forts San Lorenzo.",
+        "Die Region ist bekannt für ihren Reichtum an Kokospalmen und tropischen Früchten.",
+        "Ein wichtiger Ort zur Beobachtung traditioneller Bootsbautechniken in Panama."
+      ]
+    },
+    {
+      "id": "don-bosco-panama-cities-v2",
+      "descriptionAdvanced": "Don Bosco ist ein pulsierender und moderner Stadtteil im Osten der Metropolregion von Panama-Stadt. In den letzten Jahrzehnten hat sich dieses Gebiet von einer lockeren Vorstadtsiedlung zu einem der dynamischsten Wohn- und Geschäftszentren der Hauptstadt entwickelt. Aufgrund seiner strategisch günstigen Lage in der Nähe des internationalen Flughafens Tocumen und der direkten Anbindung an den Corredor Sur ist Don Bosco besonders bei jungen Fachkräften und Familien beliebt. Der Stadtteil bietet eine hochmoderne Infrastruktur mit zahlreichen Einkaufszentren, Schulen und Freizeiteinrichtungen. Die ständige Expansion und Modernisierung machen Don Bosco zu einem Musterbeispiel für das rasante urbane Wachstum Panamas im 21. Jahrhundert, wobei stets versucht wird, grüne Parks und soziale Treffpunkte in die dichte Bebauung zu integrieren. Sachkunde K5 — Moderne Stadtentwicklung und Infrastruktur.",
+      "factsAdvanced": [
+        "Offiziell einer der jüngsten und am schnellsten wachsenden Bezirke der Hauptstadt.",
+        "Profitierte massiv vom Ausbau des Corredor Sur und der Linie 2 der Metro.",
+        "Ein zentraler Wohnstandort für Mitarbeiter des internationalen Flughafens Tocumen.",
+        "Beherbergt zahlreiche moderne 'Gated Communities' und neue Geschäftskomplexe.",
+        "Verfügt über eine hohe Dichte an Bildungseinrichtungen und privaten Schulen.",
+        "Ein wichtiger Knotenpunkt für die wirtschaftliche Entwicklung des Panamanian East."
+      ]
+    },
+    {
+      "id": "juan-demostenes-arosemena-cities-v2",
+      "descriptionAdvanced": "Juan Demóstenes Arosemena ist ein bevölkerungsreicher und strategisch wichtiger Stadtteil im Distrikt Arraiján, westlich des Panamakanals. Benannt nach dem ehemaligen Präsidenten Panamas, fungiert dieses Gebiet als eine der wichtigsten 'Schlafstädte' für die Metropolregion, da tausende Bewohner täglich über die Brücke der Amerikas oder die Centenario-Brücke zur Arbeit in die Hauptstadt pendeln. In den letzten Jahren hat sich der Stadtteil jedoch von einer reinen Wohnsiedlung zu einem eigenständigen wirtschaftlichen Akteur mit eigenen Handelszentren und Industriegebieten entwickelt. Die hügelige Topografie von Arraiján bietet vielen Wohnanlagen einen weiten Blick über die grünen Landschaften von Panama Oeste. Das Gebiet steht exemplarisch für die Herausforderungen der urbanen Mobilität und den enormen Bedarf an Infrastruktur in einer der am schnellsten wachsenden Regionen Zentralamerikas. Geographie K7 — Vorstadtphänomene und urbane Mobilität.",
+      "factsAdvanced": [
+        "Einer der bevölkerungsreichsten Bezirke innerhalb der Provinz Panama Oeste.",
+        "Benannt zu Ehren des 16. Präsidenten von Panama, Juan Demóstenes Arosemena.",
+        "Zentraler Bestandteil der massiven Westexpansion der Metropolregion Panama-Stadt.",
+        "Wichtiger Standort für neue Immobilienprojekte im mittleren Preissegment.",
+        "Leidet oft unter dem hohen Verkehrsaufkommen in Richtung der Hauptstadt.",
+        "Die geplante dritte Metrolinie wird diesen Stadtteil direkt mit dem Zentrum verbinden."
+      ]
+    },
+    {
+      "id": "chilibre-cities-v2",
+      "descriptionAdvanced": "Chilibre ist ein weitläufiger und ökologisch unverzichtbarer Bezirk im Norden von Panama-Stadt. Er fungiert als entscheidendes Wassereinzugsgebiet, da große Teile des Bezirks den Chagres-Nationalpark umschließen, der das Wasser für den Panamakanal und die Trinkwasserversorgung der Hauptstadt liefert. Chilibre ist ein Ort, an dem ländliche Traditionen auf städtische Ausläufer treffen; hier findet man sowohl moderne Siedlungen als auch traditionelle Bauernhöfe, die Obst und Gemüse für die Märkte der Stadt produzieren. Die Region ist zudem für ihre indigenen Gemeinschaften bekannt, wie die Emberá, die an den Ufern der Flüsse leben und ihre Kultur im Einklang mit der Natur bewahren. Für Besucher bietet Chilibre den Zugang zu unberührten Flusslandschaften und dichten Regenwäldern, die für das ökologische Gleichgewicht des Isthmus von zentraler Bedeutung sind. Biologie K8 — Wasserschutzgebiete und indigene Kulturen.",
+      "factsAdvanced": [
+        "Beherbergt das Wasserwerk 'Federico Guardia Conte', das fast die gesamte Hauptstadt versorgt.",
+        "Ein Großteil des Bezirks liegt innerhalb der Schutzzonen des Chagres-Nationalparks.",
+        "Essentiell für die Regulierung des Wasserstandes im künstlichen Alajuela-See.",
+        "Ein Zentrum für den Anbau von Zitrusfrüchten und tropischen Wurzelgemüsen (Yuca).",
+        "Wichtiger Standort für den Schutz bedrohter tropischer Hartholzarten.",
+        "Beherbergt Gemeinschaften der indigenen Emberá, die nachhaltigen Tourismus betreiben."
+      ]
+    },
+    {
+      "id": "las-garzas-panama-cities-v2",
+      "descriptionAdvanced": "Las Garzas ist ein dynamischer und junger Bezirk im äußersten Osten von Panama-Stadt, der erst vor kurzem den Status eines eigenständigen 'Corregimiento' erhielt. Das Gebiet repräsentiert die vorderste Front der urbanen Expansion der Hauptstadt in Richtung der Provinz Darién. Geprägt durch eine Mischung aus geplanten Wohnprojekten und informellen Siedlungen, ist Las Garzas ein Schmelztiegel für Menschen aus dem ganzen Land, die in der Nähe der Metropole Arbeit suchen. Trotz der schnellen Bebauung bewahrt die Region in ihren Randzonen noch immer einen ländlichen Charakter mit Viehweiden und kleinen Waldstücken. Die Entwicklung von Las Garzas ist eine ständige Herausforderung für die Stadtplanung, da die Infrastruktur wie Schulen, Gesundheitszentren und öffentliche Verkehrsmittel mit dem rasanten Bevölkerungswachstum Schritt halten muss. Sachkunde K5 — Städtisches Wachstum und soziale Integration.",
+      "factsAdvanced": [
+        "Wurde 2017 offiziell als eigenständiger Bezirk (Corregimiento) aus Pacora ausgegliedert.",
+        "Repräsentiert die am weitesten östlich gelegene städtische Grenze von Panama-Stadt.",
+        "Ein wichtiger Siedlungspunkt für junge Familien aufgrund günstigerer Grundstückspreise.",
+        "Die Region durchläuft derzeit eine massive Transformation von Weideland zu Wohnraum.",
+        "Wichtiger Fokuspunkt für staatliche Infrastruktur- und Sozialprogramme.",
+        "Verbindet die moderne Metropole mit den ländlichen Gebieten von Ost-Panama."
+      ]
+    }
+  ]
+}

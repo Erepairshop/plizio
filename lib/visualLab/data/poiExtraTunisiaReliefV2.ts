@@ -14,7 +14,16 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Tunézia legmagasabb pontja a Djebel Chambi.", "Természetes gátat képez a Szahara felé.", "Fontos vízválasztó az országban.", "Több mint 2400 kilométer hosszan nyúlik el."],
       ro: ["Cel mai înalt punct din Tunisia este Djebel Chambi.", "Formează o barieră naturală împotriva Saharei.", "Este un bazin hidrografic important pentru țară.", "Se întinde pe 2400 de kilometri."],
       en: ["Highest point in Tunisia is Djebel Chambi.", "Forms a natural barrier against the Sahara.", "Important watershed for the country.", "Extends over 2400 kilometers."]
-    }, image: "/poi-images/atlas-gebirge-relief-v2.webp"},
+    }, image: "/poi-images/atlas-gebirge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Atlasgebirge, das sich über Teile Tunesiens erstreckt, prägt maßgeblich das Relief des Landes. Während die nördlichen Ausläufer durch fruchtbare, grüne Hügel charakterisiert sind, werden sie nach Süden hin trockener und rauer. Geologisch gesehen ist das Gebirge ein junges Faltengebirge, das den Kontinent Afrika von der Sahara abgrenzt. Es dient als natürliches Reservoir für Niederschläge, was die landwirtschaftliche Nutzung in den Tälern erst ermöglicht. In der Plizio-Geografie-Klasse K7 lernen Schüler, wie solche Gebirgszüge das regionale Klima beeinflussen.",
+      hu: "Az Atlasz-hegység Tunézia északnyugati részén nyújt változatos domborzati viszonyokat, ahol a hegyláncok és a termékeny völgyek határozzák meg a táj képét. Ez a terület az ország legfontosabb természetes vízválasztója, amely elválasztja az északi, nedvesebb régiót a déli, szárazabb területektől. Földrajz K7 — hegységek."
+    },
+    factsAdvanced: {
+      de: ["Das Atlasgebirge erstreckt sich über 2.400 km in Nordafrika.", "Der höchste Punkt in Tunesien ist der Djebel Chambi mit 1.544 m.", "Es fungiert als Klimascheide zwischen dem Mittelmeer und der Sahara.", "Die tunesische Atlas-Region es geologisch viel jünger als das zentrale Massiv.", "Niederschläge im Atlas-Gebirge speisen die wichtigsten Flüsse wie den Medjerda.", "Die Region ist reich an Bodenschätzen wie Phosphaten."],
+      hu: ["Az Atlasz-hegység Tunézia legmagasabb területeit foglalja magában.", "A hegyláncok északnyugati irányban húzódnak.", "Fontos szerepet tölt be az ország csapadékellátásában.", "A völgyekben mezőgazdasági művelés folyik.", "A hegyvidéki domborzat kedvez az erdei növényzetnek.", "Az ország vízgyűjtő területeinek jelentős része itt található."]
+    }
+  },
   {
     id: "djebel-chambi-relief-v2",
     type: "mountain",
@@ -27,7 +36,16 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["1544 méter magas.", "A Djebel Chambi Nemzeti Parkban található.", "Fenyőerdők borítják.", "A régió kiemelkedő látnivalója."],
       ro: ["Atinge o înălțime de 1544 de metri.", "Situat în Parcul Național Djebel Chambi.", "Acoperit cu păduri de pini.", "Un punct de reper marcant al regiunii."],
       en: ["Reaches a height of 1544 meters.", "Located in the Djebel Chambi National Park.", "Covered with pine forests.", "A prominent landmark of the region."]
-    }, image: "/poi-images/djebel-chambi-relief-v2.webp"},
+    }, image: "/poi-images/djebel-chambi-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Djebel Chambi ist mit einer Höhe von 1.544 Metern die höchste Erhebung Tunesiens und ein markantes Reliefelement des Landes. Er gehört zum tunesischen Teil des Dorsal-Atlas. Die Gipfelregion ist Teil eines Nationalparks, der zum Schutz der einzigartigen Fauna und Flora eingerichtet wurde, einschließlich seltener Kiefernwälder. Für Geologen ist der Berg ein interessantes Beispiel für Kalksteinformationen in einer ansonsten eher trockenen Umgebung. Schüler der Geografie-Klasse K6 erkunden hier die ökologische Bedeutung von Höhenstufen in trockenen Klimazonen.",
+      hu: "A Djebel Chambi Tunézia legmagasabb pontja, egyben a sivatagi és a hegyvidéki övezet határán található kiemelkedő csúcs. A hegység gazdag flórával és faunával büszkélkedhet, és az ország egyik legfontosabb védett területeként szolgál. Földrajz K7 — hegységek."
+    },
+    factsAdvanced: {
+      de: ["Die absolute Höhe beträgt exakt 1.544 Meter.", "Der Berg ist Teil des Nationalparks Djebel Chambi.", "Er wurde 1977 von der UNESCO als Biosphärenreservat anerkannt.", "Das Gestein besteht vorwiegend aus kreidezeitlichem Kalkstein.", "Der Gipfel ist oft der einzige Ort mit Schnee in den Wintermonaten.", "Die Umgebung bietet Lebensraum für den seltenen Berberhirsch."],
+      hu: ["Ez Tunézia legmagasabb pontja, 1544 méteres magassággal.", "Az Atlasz-hegység része, Kasserine közelében.", "Nemzeti parkként védett terület.", "Gazdag élővilágnak ad otthont, beleértve a ritka fajokat is.", "A csúcsról lenyűgöző panoráma nyílik a sivatagi tájra.", "Geológiailag változatos kőzetek jellemzik."]
+    }
+  },
   {
     id: "chott-el-jerid-relief-v2",
     type: "relief",
@@ -40,7 +58,16 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Területe körülbelül 5000 négyzetkilométer.", "A tengerszint alatt fekszik.", "Nyáron majdnem teljesen kiszárad.", "Színes kristálylerakódások jellemzik."],
       ro: ["Suprafață de aproximativ 5000 de kilometri pătrați.", "Situat sub nivelul mării.", "Aproape complet secat vara.", "Depuneri de cristale pline de culoare."],
       en: ["Area of about 5000 square kilometers.", "Located below sea level.", "Almost completely dried up in summer.", "Colorful crystal deposits."]
-    }, image: "/poi-images/chott-el-jerid-relief-v2.webp"},
+    }, image: "/poi-images/chott-el-jerid-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Chott el-Jerid ist der größte Salzsee Tunesiens und bildet eine der tiefsten und unwirtlichsten Senken des Landes. In diesem Becken sammelt sich das Wasser bei Regen, verdunstet jedoch schnell in der sengenden Hitze, was zur charakteristischen Salzkruste führt. Die Farben des Sees wechseln oft zwischen Weiß, Rosa und tiefem Braun, abhängig vom Salzgehalt und der Sonneneinstrahlung. Historisch ist dies eine bedeutende Region für den Salzabbau. In der Geografie-Klasse K5 lernen Kinder, wie abflusslose Becken in Wüstenlandschaften entstehen.",
+      hu: "A Chott el Jerid Tunézia legnagyobb sós tava, egy hatalmas, mélyen fekvő endorheikus medence a sivatagi régióban. A táj, amely gyakran egy fehér, csillogó kősivatagra emlékeztet, drámai kontrasztot képez a környező homokdűnékkel. Földrajz K7 — sivatagok és sós tavak."
+    },
+    factsAdvanced: {
+      de: ["Die Fläche des Chott el-Jerid beträgt über 5.000 km².", "Der Salzsee liegt teilweise unter dem Meeresspiegel.", "Die Dicke der Salzkruste kann bis zu einem Meter erreichen.", "Chott el-Jerid ist bekannt für seine optischen Täuschungen (Fata Morgana).", "Hier wurden Szenen für bekannte Filme wie Star Wars gedreht.", "Das Gebiet ist ein wichtiges Ziel für die Beobachtung von Zugvögeln."],
+      hu: ["Tunézia legnagyobb sós tava.", "Hatalmas területe a tengerszint alatt fekszik.", "A nyári hónapokban a víz elpárolog, sóréteget hagyva hátra.", "A táj egyedülálló látványa miatt kedvelt turisztikai helyszín.", "A sós medence a sivatagi környezet elengedhetetlen része.", "A környékbeli települések az oázisgazdálkodásra épülnek."]
+    }
+  },
   {
     id: "tunis-ebene-relief-v2",
     type: "relief",
@@ -53,7 +80,16 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Történelmileg jelentős mezőgazdasági központ.", "Helyi folyók által jól öntözött.", "Sűrűn lakott.", "Lankás dombvidék."],
       ro: ["Centru agricol semnificativ istoric.", "Bine irigat de râurile locale.", "Populație densă.", "Peisaj colinar blând."],
       en: ["Historically significant agricultural center.", "Well-irrigated by local rivers.", "Densely populated.", "Gentle hilly landscape."]
-    }, image: "/poi-images/tunis-ebene-relief-v2.webp"},
+    }, image: "/poi-images/tunis-ebene-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ebene von Tunis, auch Medjerda-Ebene genannt, stellt das wichtigste landwirtschaftliche Tiefland Tunesiens dar. Durch das Sediment des Flusses Medjerda ist hier ein äußerst fruchtbarer Boden entstanden, der den Anbau von Getreide, Obst und Gemüse begünstigt. Das Relief ist flach bis leicht wellig, was die Bewirtschaftung erleichtert und eine hohe Bevölkerungsdichte ermöglicht hat. Die Nähe zur Hauptstadt Tunis macht die Region zudem wirtschaftlich zum Zentrum des Landes. Schüler der Klasse K6 untersuchen in diesem Kontext die Abhängigkeit der Zivilisation von fruchtbaren Schwemmlandböden.",
+      hu: "A Tunisz-síkság az ország északi részének termékeny síksága, amely a fővárost öleli körül. Ez a terület a legintenzívebben művelt mezőgazdasági régió, ahol a lapos domborzat lehetővé teszi a gépesített mezőgazdaságot. Földrajz K7 — síkságok."
+    },
+    factsAdvanced: {
+      de: ["Die Region ist das Hauptanbaugebiet für Getreide in Tunesien.", "Der Fluss Medjerda ist der längste und wasserreichste Fluss des Landes.", "Das Relief wurde durch tausende Jahre Flusssedimentation geformt.", "Die Ebene ist dicht besiedelt und wirtschaftlich hoch entwickelt.", "Zahlreiche antike Stätten liegen am Rande dieser Ebene.", "Das Mikroklima ist durch das nahe Mittelmeer moderat."],
+      hu: ["Tunézia egyik legfontosabb mezőgazdasági síksága.", "Lapos domborzata kedvez a modern termesztésnek.", "A fővárost és környékét foglalja magában.", "A talaj minősége itt a legtermékenyebb az országban.", "Számos öntözőrendszer teszi lehetővé az egész éves termelést.", "Sűrűn lakott és fejlett gazdasági körzet."]
+    }
+  },
   {
     id: "djebel-zaghouan-relief-v2",
     type: "mountain",
@@ -66,7 +102,16 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Magassága közel 1300 méter.", "Az ókori vízvezetékek fontos forrása.", "Természetvédelmi terület.", "Kedvelt a túrázók körében."],
       ro: ["Înălțime de aproape 1300 de metri.", "Sursă importantă pentru apeductele antice.", "Rezervație naturală.", "Popular printre drumeți."],
       en: ["Height of nearly 1300 meters.", "Important source for ancient aqueducts.", "Nature reserve.", "Popular with hikers."]
-    }, image: "/poi-images/djebel-zaghouan-relief-v2.webp"},
+    }, image: "/poi-images/djebel-zaghouan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Djebel Zaghouan ist ein massives Kalksteingebirge, das markant aus der umliegenden Landschaft herausragt. Er war schon in der Antike von strategischer Bedeutung, nicht zuletzt durch seine Quellen, die das berühmte Aquädukt von Karthago speisten. Das Relief zeichnet sich durch schroffe Felswände und tiefe Täler aus, die Wanderer und Kletterer anziehen. Die geologische Struktur zeigt komplexe Verwerfungen, die für die Forschung in K8 interessant sind. Schüler lernen hier, wie Reliefformen die Wasserversorgung historischer Großstädte wie Karthago sicherstellten.",
+      hu: "A Djebel Zaghouan egy látványos mészkőhegység Tunézia északi részén, amely meredek falaival uralja a tájat. Történelmileg is fontos helyszín, mivel innen vezették el az ókori rómaiak a vizet a fővárosba. Földrajz K7 — hegységek."
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel des Djebel Zaghouan liegt auf ca. 1.295 Metern.", "Das Aquädukt nach Karthago war etwa 132 km lang.", "Der Gebirgsstock besteht aus stark verkarstetem Kalkstein.", "Der Ort Zaghouan ist bekannt für seine Rosenanbau-Tradition.", "Der Djebel dient als natürlicher Wasserturm für die Region.", "In den Felswänden leben seltene Greifvogelarten."],
+      hu: ["Látványos mészkőformációk jellemzik.", "A hegycsúcsok magassága eléri az 1200 métert.", "A rómaiak innen építettek vízvezetéket Karthágóba.", "A környék a túrázás és hegymászás kedvelt helyszíne.", "Egyedi növényvilága miatt védett terület.", "A Zaghouan-hegy a régió meghatározó tájképi eleme."]
+    }
+  },
   {
     id: "dahar-plateau-relief-v2",
     type: "relief",

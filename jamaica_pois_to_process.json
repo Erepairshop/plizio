@@ -1,0 +1,1312 @@
+[
+  {
+    "id": "jm-mandeville-cities-v2",
+    "name": "Mandeville",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-may-pen-cities-v2",
+    "name": "May Pen",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-savanna-la-mar-cities-v2",
+    "name": "Savanna-la-Mar",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-falmouth-cities-v2",
+    "name": "Falmouth",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-saint-anns-bay-cities-v2",
+    "name": "Saint Ann",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-port-maria-cities-v2",
+    "name": "Port Maria",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-lucea-cities-v2",
+    "name": "Lucea",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-black-river-town-cities-v2",
+    "name": "Black River (town)",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-morant-bay-cities-v2",
+    "name": "Morant Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-linstead-cities-v2",
+    "name": "Linstead",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-old-harbour-cities-v2",
+    "name": "Old Harbour",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-half-way-tree-cities-v2",
+    "name": "Half Way Tree",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-runaway-bay-cities-v2",
+    "name": "Runaway Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-christiana-cities-v2",
+    "name": "Christiana",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-porus-cities-v2",
+    "name": "Porus",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-claremont-cities-v2",
+    "name": "Claremont",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-browns-town-cities-v2",
+    "name": "Brown",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-yallahs-cities-v2",
+    "name": "Yallahs",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-bull-savannah-cities-v2",
+    "name": "Bull Savannah",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-santa-cruz-cities-v2",
+    "name": "Santa Cruz",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-albert-town-cities-v2",
+    "name": "Albert Town",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-chapelton-cities-v2",
+    "name": "Chapelton",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-discovery-bay-cities-v2",
+    "name": "Discovery Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-oracabessa-cities-v2",
+    "name": "Oracabessa",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-annotto-bay-cities-v2",
+    "name": "Annotto Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-highgate-cities-v2",
+    "name": "Highgate",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-buff-bay-cities-v2",
+    "name": "Buff Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-hope-bay-cities-v2",
+    "name": "Hope Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-golden-grove-cities-v2",
+    "name": "Golden Grove",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-seaforth-cities-v2",
+    "name": "Seaforth",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-rocky-point-cities-v2",
+    "name": "Rocky Point",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-alley-cities-v2",
+    "name": "Alley",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-monymusk-cities-v2",
+    "name": "Monymusk",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-frankfield-cities-v2",
+    "name": "Frankfield",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-spaldings-cities-v2",
+    "name": "Spaldings",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-williamsfield-cities-v2",
+    "name": "Williamsfield",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-cross-keys-cities-v2",
+    "name": "Cross Keys",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-junction-cities-v2",
+    "name": "Junction",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-balaclava-cities-v2",
+    "name": "Balaclava",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-mavis-bank-cities-v2",
+    "name": "Mavis Bank",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-gordon-town-cities-v2",
+    "name": "Gordon Town",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-stony-hill-cities-v2",
+    "name": "Stony Hill",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-newcastle-cities-v2",
+    "name": "Newcastle",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-duncans-cities-v2",
+    "name": "Duncans",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-clarkes-town-cities-v2",
+    "name": "Clarks Town",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-wait-a-bit-cities-v2",
+    "name": "Wait-a-Bit",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-anchovy-cities-v2",
+    "name": "Anchovy",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-cambridge-cities-v2",
+    "name": "Cambridge",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-little-london-cities-v2",
+    "name": "Little London",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-grange-hill-cities-v2",
+    "name": "Grange Hill",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-frome-cities-v2",
+    "name": "Frome",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-darliston-cities-v2",
+    "name": "Darliston",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-petersfield-cities-v2",
+    "name": "Petersfield",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-gayle-cities-v2",
+    "name": "Gayle",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-richmond-cities-v2",
+    "name": "Richmond",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-catadupa-cities-v2",
+    "name": "Catadupa",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-maroon-town-cities-v2",
+    "name": "Maroon Town",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-green-island-cities-v2",
+    "name": "Green Island",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-sandy-bay-cities-v2",
+    "name": "Sandy Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-cascade-cities-v2",
+    "name": "Cascade",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-lilliput-cities-v2",
+    "name": "Lilliput",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-adelphi-cities-v2",
+    "name": "Adelphi",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-maggotty-cities-v2",
+    "name": "Maggotty",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-nain-cities-v2",
+    "name": "Nain",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-new-market-cities-v2",
+    "name": "New Market",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-southfield-cities-v2",
+    "name": "Southfield",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-treasure-beach-cities-v2",
+    "name": "Treasure Beach",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-kellits-cities-v2",
+    "name": "Kellits",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-hayes-cities-v2",
+    "name": "Hayes",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-race-course-cities-v2",
+    "name": "Race Course",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-toll-gate-cities-v2",
+    "name": "Toll Gate",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-newport-cities-v2",
+    "name": "Newport",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-mile-gully-cities-v2",
+    "name": "Mile Gully",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-bluefields-cities-v2",
+    "name": "Bluefields",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-white-house-cities-v2",
+    "name": "White House",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-malvern-cities-v2",
+    "name": "Malvern",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-top-hill-cities-v2",
+    "name": "Top Hill",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-pope-hill-cities-v2",
+    "name": "Pope Hill",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-alexandria-cities-v2",
+    "name": "Alexandria",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-cave-valley-cities-v2",
+    "name": "Cave Valley",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-e-w-a-r-t-o-n-cities-v2",
+    "name": "Ewarton",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-bog-walk-cities-v2",
+    "name": "Bog Walk",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-riversdale-cities-v2",
+    "name": "Riversdale",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-glengoffe-cities-v2",
+    "name": "Glengoffe",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-point-hill-cities-v2",
+    "name": "Point Hill",
+    "file": "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts"
+  },
+  {
+    "id": "jm-kingston-harbour-economic-v2",
+    "name": "Kingston Harbour",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-montego-freeport-economic-v2",
+    "name": "Montego Bay Freeport",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-bauxite-kaiser-economic-v2",
+    "name": "Kaiser Bauxite Mine",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-sugar-factory-economic-v2",
+    "name": "Worthy Park Sugar Factory",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-port-esquivel-economic-v2",
+    "name": "Port Esquivel",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-falcmouth-port-economic-v2",
+    "name": "Falmouth Cruise Port",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-energy-power-economic-v2",
+    "name": "Rockfort Power Station",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-rum-distillery-economic-v2",
+    "name": "Appleton Estate Distillery",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-coffee-processor-economic-v2",
+    "name": "Blue Mountain Coffee Processor",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-port-royal-terminal-economic-v2",
+    "name": "Port Royal Cruise Terminal",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-alpart-plant-economic-v2",
+    "name": "Alpart Alumina Refinery",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-sand-export-economic-v2",
+    "name": "Sand Export Facility",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-port-kaiser-economic-v2",
+    "name": "Port Kaiser",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-fisheries-economic-v2",
+    "name": "Old Harbour Bay Fishing Center",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-cement-plant-economic-v2",
+    "name": "Carib Cement Plant",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-lumber-mill-economic-v2",
+    "name": "Lumber Mill",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-poultry-processing-economic-v2",
+    "name": "Poultry Processing Plant",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-bottling-plant-economic-v2",
+    "name": "Beverage Bottling Plant",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-telecom-hub-economic-v2",
+    "name": "Telecommunications Hub",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-solar-farm-economic-v2",
+    "name": "Solar Farm",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-airport-cargo-economic-v2",
+    "name": "Sangster Cargo Terminal",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-mineral-terminal-economic-v2",
+    "name": "Mineral Transshipment Terminal",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-agri-processing-economic-v2",
+    "name": "Agricultural Processing Center",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-water-works-economic-v2",
+    "name": "Kingston Water Works",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-fruit-packhouse-economic-v2",
+    "name": "Fruit Packhouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-shipyard-economic-v2",
+    "name": "Kingston Shipyard",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-bio-fuel-plant-economic-v2",
+    "name": "Bio-Fuel Plant",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-meat-packing-economic-v2",
+    "name": "Meat Packing Plant",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-cold-storage-economic-v2",
+    "name": "Cold Storage Logistics",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "jm-textile-factory-economic-v2",
+    "name": "Kingston Textile Factory",
+    "file": "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  },
+  {
+    "id": "seville-la-nueva-ruins-history-v2",
+    "name": "Seville la Nueva Ruins",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "taino-middens-white-marl-history-v2",
+    "name": "Taíno Middens at White Marl",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "nanny-town-ruins-history-v2",
+    "name": "Nanny Town Ruins",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "morant-bay-courthouse-history-v2",
+    "name": "Morant Bay Courthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "halse-hall-great-house-history-v2",
+    "name": "Halse Hall Great House",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "st-peters-church-port-royal-history-v2",
+    "name": "St. Peter",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "colbeck-castle-history-v2",
+    "name": "Colbeck Castle",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "stewart-castle-ruins-history-v2",
+    "name": "Stewart Castle Ruins",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "good-hope-great-house-history-v2",
+    "name": "Good Hope Great House",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "fort-haldane-history-v2",
+    "name": "Fort Haldane",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "edinburgh-castle-ruins-jamaica-history-v2",
+    "name": "Edinburgh Castle Ruins (Jamaica)",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "rockfort-mineral-bath-history-v2",
+    "name": "Rockfort Mineral Bath",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "old-naval-hospital-port-royal-history-v2",
+    "name": "Old Naval Hospital, Port Royal",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "rodney-memorial-spanish-town-history-v2",
+    "name": "Rodney Memorial, Spanish Town",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "hibbert-house-kingston-history-v2",
+    "name": "Hibbert House, Kingston",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "old-iron-bridge-spanish-town-history-v2",
+    "name": "Old Iron Bridge, Spanish Town",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "fort-augusta-history-v2",
+    "name": "Fort Augusta",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "falmouth-historic-courthouse-history-v2",
+    "name": "Falmouth Historic Courthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "liberty-hall-legacy-of-marcus-garvey-history-v2",
+    "name": "Liberty Hall: The Legacy of Marcus Garvey",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "blenheim-birthplace-alexander-bustamante-history-v2",
+    "name": "Blenheim, Birthplace of Alexander Bustamante",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "lover-s-leap-history-v2",
+    "name": "Lover",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "trench-town-culture-yard-history-v2",
+    "name": "Trench Town Culture Yard",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "lacovia-tombstones-history-v2",
+    "name": "Lacovia Tombstones",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "georg-liele-memorial-history-v2",
+    "name": "George Liele Memorial",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "national-heroes-park-history-v2",
+    "name": "National Heroes Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "the-cage-montego-bay-history-v2",
+    "name": "The Cage, Montego Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "sam-sharpe-square-history-v2",
+    "name": "Sam Sharpe Square",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "tryall-great-house-history-v2",
+    "name": "Tryall Great House",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "cinnamon-hill-great-house-history-v2",
+    "name": "Cinnamon Hill Great House",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "stokes-hall-great-house-ruins-history-v2",
+    "name": "Stokes Hall Great House Ruins",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "black-river-spa-mineral-spring-history-v2",
+    "name": "Black River Spa Mineral Spring",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "lyssons-beach-public-park-history-v2",
+    "name": "Lyssons Beach Public Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts"
+  },
+  {
+    "id": "jm-independence-park-landmarks-v2",
+    "name": "Independence Park (National Stadium)",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-sabina-park-landmarks-v2",
+    "name": "Sabina Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-national-gallery-landmarks-v2",
+    "name": "National Gallery of Jamaica",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-ward-theatre-landmarks-v2",
+    "name": "Ward Theatre",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-gordon-house-landmarks-v2",
+    "name": "Gordon House",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-kings-house-landmarks-v2",
+    "name": "King",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-emancipation-park-landmarks-v2",
+    "name": "Emancipation Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-national-heroes-park-landmarks-v2",
+    "name": "National Heroes Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-holy-trinity-cathedral-landmarks-v2",
+    "name": "Holy Trinity Cathedral",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-trench-town-culture-yard-landmarks-v2",
+    "name": "Trench Town Culture Yard",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-half-way-tree-clock-tower-landmarks-v2",
+    "name": "Half Way Tree Clock Tower",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-institute-of-jamaica-landmarks-v2",
+    "name": "Institute of Jamaica",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-plumb-point-lighthouse-landmarks-v2",
+    "name": "Plumb Point Lighthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-uwi-mona-campus-landmarks-v2",
+    "name": "UWI Mona Campus",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-sam-sharpe-square-landmarks-v2",
+    "name": "Sam Sharpe Square",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-st-james-parish-church-landmarks-v2",
+    "name": "St. James Parish Church",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-greenwood-great-house-landmarks-v2",
+    "name": "Greenwood Great House",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-falmouth-cruise-terminal-landmarks-v2",
+    "name": "Falmouth Cruise Terminal",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-columbus-park-landmarks-v2",
+    "name": "Columbus Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-firefly-estate-landmarks-v2",
+    "name": "Firefly Estate",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-rio-nuevo-battle-site-landmarks-v2",
+    "name": "Rio Nuevo Battle Site",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-roxborough-landmarks-v2",
+    "name": "Roxborough",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-mandeville-courthouse-landmarks-v2",
+    "name": "Mandeville Courthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-lovers-leap-lighthouse-landmarks-v2",
+    "name": "Lover",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-appleton-estate-landmarks-v2",
+    "name": "Appleton Estate",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-negril-lighthouse-landmarks-v2",
+    "name": "Negril Lighthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-peter-tosh-monument-landmarks-v2",
+    "name": "Peter Tosh Monument",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-morant-point-lighthouse-landmarks-v2",
+    "name": "Morant Point Lighthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-morant-bay-courthouse-landmarks-v2",
+    "name": "Morant Bay Courthouse",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jm-cast-iron-bridge-landmarks-v2",
+    "name": "Cast Iron Bridge",
+    "file": "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts"
+  },
+  {
+    "id": "jamaica-zoo-life-v2",
+    "name": "Jamaica Zoo",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "hope-zoo-life-v2",
+    "name": "Hope Zoo",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "kool-runnings-life-v2",
+    "name": "Kool Runnings Water Park",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "cranbrook-flower-forest-life-v2",
+    "name": "Cranbrook Flower Forest",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "croydon-plantation-life-v2",
+    "name": "Croydon Plantation",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "sun-valley-plantation-life-v2",
+    "name": "Sun Valley Plantation",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "brimmer-hall-estate-life-v2",
+    "name": "Brimmer Hall Estate",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "high-mountain-coffee-life-v2",
+    "name": "High Mountain Coffee Plantation",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "st-mary-banana-life-v2",
+    "name": "St. Mary Banana Estates",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "duckenfield-sugar-life-v2",
+    "name": "Duckenfield Sugar Cane Fields",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "orange-river-agriculture-life-v2",
+    "name": "Orange River Agricultural Station",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "bodles-research-life-v2",
+    "name": "Bodles Agricultural Research Station",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "clarendon-citrus-life-v2",
+    "name": "Clarendon Citrus Orchards",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "flagaman-melon-life-v2",
+    "name": "Flagaman Melon Farms",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "serge-island-dairy-life-v2",
+    "name": "Serge Island Dairy Farm",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "swamp-safari-life-v2",
+    "name": "Jamaica Swamp Safari Village",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "ras-natango-garden-life-v2",
+    "name": "Ahhh...Ras Natango Garden",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "barneys-hummingbird-life-v2",
+    "name": "Barney",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "rocklands-bird-life-v2",
+    "name": "Rocklands Bird Sanctuary",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "royal-palm-reserve-life-v2",
+    "name": "Royal Palm Reserve",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "goat-islands-iguana-life-v2",
+    "name": "Goat Islands Iguana Reserve",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "galleon-harbour-manatee-life-v2",
+    "name": "Galleon Harbour Manatee Reserve",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "bogue-islands-bird-life-v2",
+    "name": "Bogue Islands Bird Sanctuary",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "middle-cay-bird-life-v2",
+    "name": "Middle Cay Bird Sanctuary",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "morant-cays-turtle-life-v2",
+    "name": "Morant Cays Turtle Nesting Site",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "font-hill-dairy-life-v2",
+    "name": "Font Hill Dairy Farm",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "seven-rivers-citrus-life-v2",
+    "name": "Seven Rivers Citrus Farm",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "kendal-yam-farms-life-v2",
+    "name": "Kendal Yam Farms",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "devon-potato-farms-life-v2",
+    "name": "Devon Potato Farms",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "billys-bay-turtle-life-v2",
+    "name": "Billy",
+    "file": "lib/visualLab/data/poiExtraJamaicaLifeV2.ts"
+  },
+  {
+    "id": "great-river-bay-nature-v2",
+    "name": "Great River Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "wag-water-river-nature-v2",
+    "name": "Wag Water River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "yallahs-ponds-nature-v2",
+    "name": "Yallahs Ponds",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "bull-head-mountain-nature-v2",
+    "name": "Bull Head Mountain",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "great-morass-nature-v2",
+    "name": "Great Morass",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "rio-cobre-river-nature-v2",
+    "name": "Rio Cobre River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "long-bay-nature-v2",
+    "name": "Long Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "milk-river-nature-v2",
+    "name": "Milk River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "dolphin-head-mountains-nature-v2",
+    "name": "Dolphin Head Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "black-river-lower-morass-nature-v2",
+    "name": "Black River Lower Morass",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "navy-island-nature-v2",
+    "name": "Navy Island",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "rio-minho-river-nature-v2",
+    "name": "Rio Minho River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "portland-bight-nature-v2",
+    "name": "Portland Bight",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "santa-cruz-mountains-nature-v2",
+    "name": "Santa Cruz Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "fern-gully-nature-v2",
+    "name": "Fern Gully",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "swift-river-nature-v2",
+    "name": "Swift River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "boston-bay-nature-v2",
+    "name": "Boston Bay",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "cabarita-river-nature-v2",
+    "name": "Cabarita River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "montpelier-mountains-nature-v2",
+    "name": "Montpelier Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "mason-river-game-sanctuary-nature-v2",
+    "name": "Mason River Game Sanctuary",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "salt-river-nature-v2",
+    "name": "Salt River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "alligator-hole-river-nature-v2",
+    "name": "Alligator Hole River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "long-mountain-nature-v2",
+    "name": "Long Mountain",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "hope-river-nature-v2",
+    "name": "Hope River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "canoe-valley-wetlands-nature-v2",
+    "name": "Canoe Valley Wetlands",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "pedro-bluff-nature-v2",
+    "name": "Pedro Bluff",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "glistening-waters-nature-v2",
+    "name": "Glistening Waters",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "alligator-pond-river-nature-v2",
+    "name": "Alligator Pond River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "somerset-falls-nature-v2",
+    "name": "Somerset Falls",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "roaring-river-nature-v2",
+    "name": "Roaring River",
+    "file": "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"
+  },
+  {
+    "id": "blue-mountain-peak-relief-v2",
+    "name": "Blue Mountain Peak",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "john-crow-mountains-relief-v2",
+    "name": "John Crow Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "cockpit-country-valley-relief-v2",
+    "name": "Cockpit Country Depressions",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "catherine-peak-relief-v2",
+    "name": "Catherine",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "corkscrew-ridge-relief-v2",
+    "name": "Corkscrew Ridge",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "dry-harbour-mountains-relief-v2",
+    "name": "Dry Harbour Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "may-day-mountains-relief-v2",
+    "name": "May Day Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "clarendon-hills-relief-v2",
+    "name": "Clarendon Hills",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "st-thomas-mountains-relief-v2",
+    "name": "St. Thomas Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "holywell-forest-relief-v2",
+    "name": "Holywell Forest",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "hardwar-gap-relief-v2",
+    "name": "Hardwar Gap",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "yallahs-valley-relief-v2",
+    "name": "Yallahs Valley",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "hills-of-hanover-relief-v2",
+    "name": "Hills of Hanover",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "mount-diabolo-relief-v2",
+    "name": "Mount Diabolo",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "st-catherine-hills-relief-v2",
+    "name": "St. Catherine Hills",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "trelawny-highlands-relief-v2",
+    "name": "Trelawny Highlands",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "st-ann-hills-relief-v2",
+    "name": "St. Ann Hills",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "claren-valley-relief-v2",
+    "name": "Clarendon Valley",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "manchester-plateau-relief-v2",
+    "name": "Manchester Plateau",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "st-elizabeth-plains-relief-v2",
+    "name": "St. Elizabeth Plains",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "portland-ridge-relief-v2",
+    "name": "Portland Ridge",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "hellshire-hills-relief-v2",
+    "name": "Hellshire Hills",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "johannesburg-mountain-relief-v2",
+    "name": "Johannesburg Mountain",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "blue-mountain-peak-north-relief-v2",
+    "name": "Blue Mountain Peak North",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  },
+  {
+    "id": "mocho-mountains-relief-v2",
+    "name": "Mocho Mountains",
+    "file": "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  }
+]

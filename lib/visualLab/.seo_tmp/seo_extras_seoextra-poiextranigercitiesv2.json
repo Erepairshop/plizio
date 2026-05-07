@@ -1,0 +1,51 @@
+{
+  "lang": "en",
+  "files": ["lib/visualLab/data/poiExtraNigerCitiesV2.ts"],
+  "items": [
+    {
+      "id": "niamey-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Niamey ist das politische und wirtschaftliche Kraftzentrum Nigers. Die Stadt liegt strategisch günstig am Ufer des Nigers und hat seit den 1960er Jahren eine enorme Expansion erlebt, wobei sie heute über 1,3 Millionen Einwohner zählt. Das Nationalmuseum Boubou Hama bietet Besuchern tiefe Einblicke in die vielfältigen ethnischen Traditionen des Landes.",
+        "hu": "Niamey Niger politikai és gazdasági erőközpontja. A város stratégiailag kedvező helyen, a Niger folyó partján fekszik, és az 1960-as évek óta hatalmas terjeszkedésen ment keresztül, ma már több mint 1,3 millió lakossal rendelkezik. A Boubou Hama Nemzeti Múzeum mély betekintést nyújt az ország változatos etnikai hagyományaiba.",
+        "ro": "Niamey este centrul politic și economic al Nigerului. Orașul este situat strategic pe malul fluviului Niger și a cunoscut o expansiune enormă din anii 1960, având astăzi peste 1,3 milioane de locuitori. Muzeul Național Boubou Hama oferă vizitatorilor perspective profunde asupra diverselor tradiții etnice ale țării.",
+        "en": "Niamey is the political and economic powerhouse of Niger. The city is strategically located on the banks of the Niger River and has experienced massive expansion since the 1960s, now housing over 1.3 million inhabitants. The Boubou Hama National Museum offers visitors deep insights into the country's diverse ethnic traditions."
+      },
+      "factsAdvanced": {
+        "de": ["Größte Stadt Nigers.", "Sitz des Präsidenten.", "Liegt auf 180 m Höhe.", "Wurde 1926 Hauptstadt.", "Wächst jährlich rasant.", "Kulturelles Zentrum des Landes."],
+        "hu": ["Niger legnagyobb városa.", "Az elnöki rezidencia székhelye.", "180 m tengerszint feletti magasságban.", "1926-ban lett főváros.", "Évente gyorsan növekszik.", "Az ország kulturális központja."],
+        "ro": ["Cel mai mare oraș din Niger.", "Sediul președintelui.", "Situat la 180 m altitudine.", "A devenit capitală în 1926.", "Crește rapid anual.", "Centrul cultural al țării."],
+        "en": ["Largest city in Niger.", "Seat of the President.", "Located at 180 m elevation.", "Became capital in 1926.", "Rapidly growing annually.", "Cultural center of the country."]
+      }
+    },
+    {
+      "id": "zinder-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Zinder war bis 1926 die Hauptstadt Nigers und bleibt ein kultureller Ankerpunkt im Südosten. Die Altstadt, bekannt als Birni, beeindruckt durch ihre traditionelle Architektur und den Palast des Sultans, welcher bis heute als Symbol der vorkolonialen Macht fungiert. Die Stadt ist zudem ein Zentrum für den Handel mit Erdnüssen und lokaler Viehzucht.",
+        "hu": "Zinder 1926-ig Niger fővárosa volt, és ma is kulturális horgony maradt délkeleten. Az óváros, amelyet Birni-nek neveznek, hagyományos építészetével és a szultáni palotával nyűgöz le, amely ma is a gyarmatosítás előtti hatalom szimbólumaként szolgál. A város a földimogyoró-kereskedelem és a helyi állattenyésztés központja is.",
+        "ro": "Zinder a fost capitala Nigerului până în 1926 și rămâne un punct de ancorare culturală în sud-est. Orașul vechi, cunoscut sub numele de Birni, impresionează prin arhitectura sa tradițională și palatul sultanului, care servește și astăzi drept simbol al puterii precoloniale. Orașul este, de asemenea, un centru pentru comerțul cu arahide și creșterea locală a animalelor.",
+        "en": "Zinder was the capital of Niger until 1926 and remains a cultural anchor in the southeast. The old town, known as Birni, impresses with its traditional architecture and the Sultan's Palace, which still serves as a symbol of pre-colonial power. The city is also a center for the trade of peanuts and local livestock."
+      },
+      "factsAdvanced": {
+        "de": ["Ehemals Zinder-Sultanat.", "Bekannt für das Birni-Viertel.", "Wichtiger Viehmarkt.", "Zweitgrößte Stadt.", "Traditionelle Lehmbauten.", "Erdnuss-Handelsknoten."],
+        "hu": ["Egykori Zinderi Szultanátus.", "A Birni-negyedről ismert.", "Fontos állatpiac.", "Második legnagyobb város.", "Hagyományos vályogépületek.", "Földimogyoró-kereskedelmi csomópont."],
+        "ro": ["Fostul Sultanat Zinder.", "Cunoscut pentru cartierul Birni.", "Piață importantă de animale.", "Al doilea oraș ca mărime.", "Clădiri tradiționale din lut.", "Nod comercial pentru arahide."],
+        "en": ["Former Zinder Sultanate.", "Known for the Birni quarter.", "Important livestock market.", "Second largest city.", "Traditional mud buildings.", "Peanut trading hub."]
+      }
+    },
+    {
+      "id": "maradi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Maradi ist das geschäftige Handelszentrum im Süden Nigers, das stark von der Nähe zur nigerianischen Grenze profitiert. Die Stadt hat sich in den letzten Jahrzehnten wirtschaftlich dynamisch entwickelt und ist heute ein wichtiger Knotenpunkt für den Transit und die lokale Produktion von Agrarerzeugnissen wie Getreide und Zwiebeln.",
+        "hu": "Maradi Niger déli részének nyüzsgő kereskedelmi központja, amely erősen profitál a nigériai határhoz való közelségéből. A város gazdaságilag dinamikusan fejlődött az elmúlt évtizedekben, és ma fontos csomópont a tranzitforgalom, valamint a mezőgazdasági termékek, mint a gabona és a hagyma helyi termelése számára.",
+        "ro": "Maradi este centrul comercial animat din sudul Nigerului, care profită masiv de proximitatea față de granița cu Nigeria. Orașul s-a dezvoltat economic dinamic în ultimele decenii și este astăzi un nod important pentru tranzit și producția locală de produse agricole, precum cerealele și ceapa.",
+        "en": "Maradi is the bustling trade center in the south of Niger, profiting greatly from its proximity to the Nigerian border. The city has developed dynamically in economic terms over the past few decades and is today an important hub for transit and the local production of agricultural products like grains and onions."
+      },
+      "factsAdvanced": {
+        "de": ["Wirtschaftsmotor Nigers.", "Dritte größte Stadt.", "Wichtiger Transit-Hafen.", "Bedeutende Agrar-Region.", "Moderne Handelswege.", "Knotenpunkt für Nigeria."],
+        "hu": ["Niger gazdasági motorja.", "Harmadik legnagyobb város.", "Fontos tranzit-kikötő.", "Jelentős agrár-régió.", "Modern kereskedelmi utak.", "Csomópont Nigéria felé."],
+        "ro": ["Motorul economic al Nigerului.", "Al treilea oraș ca mărime.", "Port de tranzit important.", "Regiune agricolă semnificativă.", "Rute comerciale moderne.", "Nod către Nigeria."],
+        "en": ["Economic engine of Niger.", "Third largest city.", "Important transit hub.", "Significant agricultural region.", "Modern trade routes.", "Crossroads to Nigeria."]
+      }
+    }
+  ]
+}

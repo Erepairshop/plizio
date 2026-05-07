@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yorktown-battlefield-history-v2",
+      "descriptionAdvanced": "Yorktown Battlefield, Virginia, was the site of the climactic land battle of the American Revolutionary War in 1781. The siege, conducted by combined American and French forces under George Washington and the Comte de Rochambeau, resulted in the surrender of British General Lord Cornwallis. This defeat effectively ended major combat operations in the colonies and forced the British government to negotiate for peace. Yorktown remains a profoundly significant historical site, preserving the earthworks and battle terrain where the pivotal victory secured American independence, effectively concluding the fight against British rule and launching the young nation into a new era of sovereignty. History K8 — The final turning point of the Revolutionary War.",
+      "factsAdvanced": [
+        "Site of the decisive 1781 battle of the American Revolutionary War.",
+        "Combined American and French forces led by Washington and Rochambeau.",
+        "British General Lord Cornwallis surrendered here, ending major fighting.",
+        "Paved the way for peace negotiations and full American independence.",
+        "The battlefield preserves key earthworks and historical terrain.",
+        "A critical turning point that solidified the path to sovereignty."
+      ]
+    },
+    {
+      "id": "monticello-history-v2",
+      "descriptionAdvanced": "Monticello, located near Charlottesville, Virginia, was the plantation home and architectural masterwork of Thomas Jefferson, the third U.S. President and primary author of the Declaration of Independence. The estate reflects Jefferson’s profound intellectual breadth, featuring a unique Neoclassical design and numerous ingenious inventions. However, the site also presents a complex and uncomfortable history: the plantation’s economic foundation relied entirely on the systemic enslavement of hundreds of people. Today, Monticello serves as a vital educational site that confronts this difficult dichotomy—showcasing Jefferson’s revolutionary democratic ideals alongside the deep human cost of slavery that underpinned his personal wealth and political power. History K8 — Intellectual legacy and the history of American slavery.",
+      "factsAdvanced": [
+        "Primary estate and architectural masterwork of Thomas Jefferson.",
+        "Reflects Jefferson's Neoclassical design and innovative personal inventions.",
+        "Economically dependent on the enslavement of hundreds of African people.",
+        "Vital site for educational interpretation of democratic ideals vs. slavery.",
+        "Highlights the personal and systemic contradictions of early US leaders.",
+        "An enduring symbol of early American intellectual and social complexity."
+      ]
+    },
+    {
+      "id": "fort-mchenry-history-v2",
+      "descriptionAdvanced": "Fort McHenry in Baltimore, Maryland, is famous for its successful defense against a major British naval bombardment during the War of 1812. The fort’s ability to withstand the intense attack inspired Francis Scott Key to write the words that became 'The Star-Spangled Banner,' the national anthem of the United States. This victory was a defining moment for national morale, confirming the young nation’s ability to defend its sovereignty against the world’s leading naval power. Today, Fort McHenry is a preserved national monument that continues to symbolize American resilience and identity. It stands as a powerful reminder of the nation’s formative years and the events that solidified its national anthem and spirit. History K7 — The War of 1812 and the origins of the national anthem.",
+      "factsAdvanced": [
+        "Successfully defended Baltimore from British naval attack in 1814.",
+        "Successful defense inspired Francis Scott Key’s 'The Star-Spangled Banner'.",
+        "A defining moment for national morale in the War of 1812.",
+        "Confirmed American resolve to defend sovereignty against Britain.",
+        "Preserved as a national monument symbolizing American resilience.",
+        "Located at the strategic entrance to Baltimore Harbor."
+      ]
+    }
+  ]
+}

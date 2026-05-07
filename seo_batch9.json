@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "descriptionAdvanced": "Der Guinas-See, der größere, wenn auch weniger bekannte Zwillingssee des Otjikoto-Sees in der Nähe von Tsumeb, ist ein geologisches Mysterium in der wasserarmen namibischen Landschaft. Genau wie Otjikoto ist der Guinas-See eine eingefallene Karstdoline (Cenote), deren dunkles, eiskaltes und extrem tiefes Wasser in völligem Kontrast zur staubigen Buschlandschaft an der Oberfläche steht. Die genaue Tiefe des Guinas-Sees ist bis heute unbekannt, da Tauchexpeditionen in Tiefen von über 130 Metern die unterirdischen Höhlensysteme noch nicht vollständig kartieren konnten. Der See ist das primäre Zuhause des stark gefährdeten und endemischen Otjikoto-Buntbarsches, der ursprünglich nur in diesem Gewässer lebte und erst später von Menschenhand in den benachbarten Otjikoto-See umgesiedelt wurde. Geologie K7 — Subterrane Höhlensysteme und Endemismus.",
+      "factsAdvanced": [
+        "Der Guinas-See ist eine wassergefüllte Karstdoline (Cenote) von fast kreisrunder Form.",
+        "Der See ist der eigentliche natürliche Ursprungsort der endemischen Otjikoto-Buntbarsche.",
+        "Obwohl er größer als der Otjikoto-See ist, liegt er weit abseits auf privatem Farmland.",
+        "Die Wassertiefe wurde in einigen Nebenhöhlen auf weit über 130 Meter gemessen.",
+        "Der Wasserspiegel des Guinas schwankt kaum, was auf massive unterirdische Reservoirs hindeutet.",
+        "Die Felswände stürzen an den meisten Stellen direkt senkrecht ins Wasser ab."
+      ]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "descriptionAdvanced": "Der 'Nylon Pool' (Dragon's Breath Cave) ist ein hochgradig faszinierendes und nahezu verborgenes unterirdisches Wundersystem in der Otjozondjupa-Region, unweit von Grootfontein. Hinter einem unscheinbaren, engen Felsspalt an der Erdoberfläche verbirgt sich der größte bekannte unterirdische, nicht-subglaziale See der Erde. Seinen Spitznamen 'Drachenhauchloch' erhielt die Höhle aufgrund der feucht-warmen Luft, die aus der schmalen Öffnung in die kältere Wüstenluft aufsteigt, ähnlich dem Atem eines mythischen Drachens. Das Wasser des tief unter der Erde verborgenen Karstsees ist extrem klar, und da kein Sonnenlicht dorthin dringt, existieren hier seltene, komplett pigment- und augenlose Amphipoden (Flohkrebse). Die Erforschung der Höhle erfordert spezielle Höhlentauchausrüstung und extreme Vorsicht. Geologie K8 — Speläologie und das größte unterirdische Süßwasserreservoir.",
+      "factsAdvanced": [
+        "Die Drachenhauchhöhle wurde erst im Jahr 1986 von Höhlentauchern offiziell entdeckt.",
+        "Sie verbirgt den größten bekannten unterirdischen See der Welt unter nicht-glazialen Bedingungen.",
+        "Der See liegt fast 60 Meter senkrecht unterhalb der staubigen Erdoberfläche.",
+        "In der vollkommenen Dunkelheit des Sees lebt die extrem seltene, blinde Flohkrebsart Trogloleleupia draco.",
+        "Der Durchmesser des unterirdischen Sees wird auf fast 2 Hektar geschätzt.",
+        "Der Zutritt ist für die Öffentlichkeit gesperrt und nur wissenschaftlichen Expeditionen vorbehalten."
+      ]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "descriptionAdvanced": "Die Caprivi-Überschwemmungsebenen (Floodplains) in der äußersten Nordost-Ecke Namibias (heute Sambesi-Region) sind ein aquatisches Labyrinth, das man so in einem der trockensten Länder der Erde niemals erwarten würde. Wenn in den Sommermonaten die Flüsse Kwando, Linyanti und Sambesi über ihre Ufer treten, verwandeln sie weite Teile der tief liegenden Savanne in einen riesigen, unzugänglichen See, durchsetzt mit kleinen Inseln. Die lokale Bevölkerung passt sich an, indem sie auf erhöhten Hügeln (Mounds) baut und sich mit Mokoros (Einbaum-Kanus) fortbewegt. Dieses saisonale Flutereignis erneuert das gesamte Ökosystem und lockt riesige Büffelherden, rote Letschwe-Antilopen und eine unglaubliche Vielzahl an Vögeln in die seichten, warmen Gewässer. Biologie K7 — Saisonale Flutökosysteme.",
+      "factsAdvanced": [
+        "Die Flutebenen füllen sich zumeist zwischen den Monaten Februar und Mai mit Wasser.",
+        "Die rote Letschwe-Antilope, die lange Hufe zur Fortbewegung im Sumpf besitzt, ist hier endemisch.",
+        "Lokale Gemeinden nutzen während der Flut das Mokoro (ein traditionelles Holzkanu) zur Fortbewegung.",
+        "Das stehende, warme Wasser ist ein idealer Brutplatz für Fische und Insekten (inkl. Mücken).",
+        "Die Vegetation besteht hier großteils aus Schilfgürteln, Papyrus und hohen Wassergräsern.",
+        "Große Herden von Elefanten müssen bei Flut kilometerweit durch brusttiefes Wasser waten."
+      ]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "descriptionAdvanced": "Der Chobe-Fluss markiert einen kritischen und landschaftlich spektakulären Grenzabschnitt zwischen Namibia und Botswana an der östlichen Spitze der Sambesi-Region. Dieser tiefe und langsam fließende Flusslauf windet sich durch breite Überschwemmungsebenen und ist weltberühmt für die massive Konzentration von afrikanischen Wildtieren an seinen Ufern, insbesondere in den trockenen Wintermonaten. Hunderte Elefanten versammeln sich hier täglich zum Trinken und Baden und schwimmen oft komplett untergetaucht (mit dem Rüssel als Schnorchel) auf die namibische Seite der Flussinseln, um frisches Schilf zu grasen. Der Chobe ist eine entscheidende, verlässliche Wasserquelle innerhalb der gigantischen Kavango-Zambezi Transfrontier Conservation Area (KAZA). Ökologie K6 — Transnationale Tierkorridore.",
+      "factsAdvanced": [
+        "Der Chobe bildet eine markante natürliche Grenze zwischen Namibia und Botswana.",
+        "Die Region verzeichnet die höchste Konzentration freilebender Elefanten auf dem afrikanischen Kontinent.",
+        "Auf der namibischen Seite liegt der kleine, aber extrem wilde Chobe-Nationalpark (Kasika Conservancy).",
+        "Der Fluss ändert im Laufe des Jahres aufgrund des Sambesi-Rückstaus teilweise seine Fließrichtung.",
+        "Die fischreichen Fluten ziehen oft große Gruppen des bedrohten Afrikanischen Schreiseeadlers an.",
+        "In den späten Nachmittagsstunden baden oft hunderte Flusspferde im flachen Uferwasser."
+      ]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "descriptionAdvanced": "Der Kwando-Fluss, der im zentralen angolanischen Hochland entspringt, ist eine der wildesten und unberührtesten Wasserstraßen, die Namibia durchqueren. Er schneidet den Caprivi-Zipfel in eine westliche und eine östliche Hälfte und mäandert extrem langsam durch tiefe Sümpfe und Papyruswälder in Richtung der Linyanti-Sümpfe. Der Fluss ist berüchtigt für seine dichte, oft fast unzugängliche Dschungel-Vegetation, in der sich riesige Krokodile und scheue Sitatunga-Antilopen verstecken. Die Ufer des Kwando sind so unzugänglich, dass sich die Region als einer der sichersten Rückzugsorte für bedrohte Raubtiere wie Löwen, Leoparden und vor allem Afrikanische Wildhunde etabliert hat. Geografie K7 — Feuchtgebiete-Ökologie und Raubtierrefugien.",
+      "factsAdvanced": [
+        "Der Kwando verliert sich oft in einem Netzwerk aus Sumpfgebieten, bevor er den Linyanti erreicht.",
+        "Die Nationalparks Mudumu, Bwabwata und Nkasa Rupara grenzen direkt an den Flusslauf.",
+        "In den oft undurchdringlichen Papyrussümpfen lebt das seltene Sitatunga (eine wasserliebende Antilope).",
+        "Der Kwando ist eines der besten Gebiete im südlichen Afrika, um Afrikanische Wildhunde zu beobachten.",
+        "Die ufernahen Hartholzwälder werden oft stark von Elefantenherden zerstört.",
+        "Die Gewässer des Flusses sind dunkel, extrem fischreich und stark mit Malariamücken belastet."
+      ]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "descriptionAdvanced": "Der majestätische Sambesi-Fluss ist die mit Abstand wasserreichste Grenze Namibias und trennt den östlichsten Teil des Caprivi-Zipfels von Sambia, bevor er sich kurz darauf in die weltberühmten Victoriafälle in Simbabwe stürzt. In Namibia fließt der Sambesi ruhig, aber gewaltig durch eine weite, flache Landschaft und bietet ideale Bedingungen für riesige Flusspferde-Schulen und den aggressiven Tigerfisch, der bei Sportanglern hoch im Kurs steht. Die weiten Überflutungsebenen am Sambesi verändern das Leben der Menschen im nordöstlichen Namibia dramatisch: In der Flutsaison werden Dörfer oft komplett isoliert und der Warentransport in Städte wie Katima Mulilo kann nur noch mit Booten über das gefährliche, von Krokodilen besiedelte Wasser erfolgen. Geografie K7 — Große afrikanische Flusssysteme.",
+      "factsAdvanced": [
+        "Der Sambesi ist der viertlängste Fluss Afrikas und der größte Fluss, der in den Indischen Ozean mündet.",
+        "Er bildet die natürliche und internationale Grenze zwischen Namibia (Sambesi-Region) und Sambia.",
+        "Der gefürchtete afrikanische Tigerfisch wächst in diesem schnell fließenden Fluss besonders groß heran.",
+        "In den Flutebenen des Sambesi nistet eine große Population des afrikanischen Karminspints (Bienenfresser).",
+        "Krokodile im namibischen Abschnitt des Flusses erreichen häufig Längen von über fünf Metern.",
+        "Katima Mulilo, die Regionalhauptstadt, liegt direkt an seinen von Baobab-Bäumen gesäumten Ufern."
+      ]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "descriptionAdvanced": "Das Erongo-Gebirge in Zentralnamibia ist ein extrem rauer und vulkanischer Gebirgszug, der aus dem erodierten Kern eines uralten Vulkans besteht. Der Einsturzkrater (Caldera) misst beinahe 30 Kilometer im Durchmesser, und die ringförmigen Berge ragen bis zu 2.319 Meter steil aus der Namib-Ebene auf. Diese natürliche Bergfestung ist nicht nur eine wichtige Wasserquelle in der Trockenheit, sondern beherbergt auch eine der höchsten Konzentrationen an seltenen, endemischen Arten. Vogelkundler suchen hier nach dem Hartlaub-Frankolin, während sich in den Felsblöcken der seltene Bergzebra und sogar die schwarze Mungo-Art verstecken. In den unzähligen, schwer zugänglichen Felsgrotten der Erongo-Berge befinden sich zudem meisterhafte Felsmalereien der San. Biologie K8 — Vulkanische Calderas und seltene Berg-Endemiten.",
+      "factsAdvanced": [
+        "Das Erongo-Gebirge ist ein alter, erodierter Vulkankomplex mit einem Alter von 130 Millionen Jahren.",
+        "Die höchste Erhebung des Gebirgszuges misst 2.319 Meter über dem Meeresspiegel.",
+        "Die Landschaft wird dominiert von gigantischen, runden Granitkugeln (Boulder).",
+        "Ein Großteil des Gebirges wird durch das private 'Erongo Mountain Nature Sanctuary' streng geschützt.",
+        "In der Philipps-Höhle ('Philipp's Cave') befindet sich das berühmte Felsgemälde des weißen Elefanten.",
+        "Die extrem giftige schwarze Speikobra ist in diesem unzugänglichen Gebirge beheimatet."
+      ]
+    },
+    {
+      "id": "namib-desert-relief-v2",
+      "descriptionAdvanced": "Das Relief der Namib-Wüste ist weltweit einzigartig in seiner extremen physischen Zweiteilung. Westlich zieht sich ein schier endloses, flaches Geröll- und Schotterband bis an das eiskalte Wasser des Atlantischen Ozeans, durchbrochen nur von tief eingeschnittenen, trockenen Canyons wie dem Kuiseb. Südlich dieser Linie ändert sich das Relief radikal: Hier erhebt sich eine scheinbar unendliche Bergkette aus tiefrotem Sand, das 'Namib Sand Sea', das fast 400 Kilometer nach Süden reicht. Diese riesigen Sterndünen und Längsdünen werden durch die Wechselwirkung des stetigen Südwinds und der ablandigen Ostwinde in komplexe, sich kaum bewegende Gebirgsformen gepresst, die über die Jahrmillionen erstarrt sind. Geografie K8 — Küstenwüsten und Dünen-Morphologie.",
+      "factsAdvanced": [
+        "Die Wüste weist Höhenunterschiede vom Meeresspiegel bis zu 1.000 Meter im Landesinneren auf.",
+        "Das Relief der Namib wird durch den großen Kuiseb-Canyon in Schotterwüste (Nord) und Sandwüste (Süd) geteilt.",
+        "Sogenannte Sterndünen entstehen dort, wo Winde aus mehreren Richtungen gleichzeitig aufeinandertreffen.",
+        "Der Sand der Wüste wurde vor Urzeiten massiv aus dem Oranje-Flussbecken hierher verfrachtet.",
+        "Flache Lehmpfannen (Vleis) bilden den absolut tiefsten Punkt in den Tälern der hohen Sandberge.",
+        "Nahe Swakopmund ist das Relief von extrem salzigen, lehmigen Mondlandschaften ('Moon Landscape') geprägt."
+      ]
+    },
+    {
+      "id": "kalahari-desert-relief-v2",
+      "descriptionAdvanced": "Die namibische Kalahari präsentiert sich als ein überraschend sanftes, weites Relief, das oft als das größte kontinuierliche Sandbecken der Erde beschrieben wird. Im Gegensatz zu den wuchtigen Sand-Bergen der Namib wird das Landschaftsbild im Osten Namibias von Tausenden, fast perfekt parallel in Nordwest-Richtung verlaufenden Längsdünen geprägt. Diese feinen, roten Sandwälle (oft nur 10 bis 20 Meter hoch) sind durch eine Schicht aus Wüstengräsern und Akazien stabilisiert, weshalb sie als 'fossile Dünen' bezeichnet werden; sie wandern nicht mehr mit dem Wind. Das Becken der Kalahari liegt auf einem Hochplateau (durchschnittlich 1.000 Meter über dem Meeresspiegel), weshalb Regenwasser hier nicht abfließt, sondern tief in die massiven Sandstein-Aquifere einsickert. Geografie K7 — Fossile Dünen und Hochplateau-Becken.",
+      "factsAdvanced": [
+        "Das Kalahari-Becken ist das größte kontinuierliche Sandgebiet der Welt (bis in den Kongo).",
+        "Die linearen Längsdünen (Seif-Dünen) entstanden während einer wesentlich trockeneren Klimaperiode.",
+        "Die Dünen in Namibia wandern fast nicht mehr, da sie durch dichte Gräser und Kameldornbäume fixiert sind.",
+        "Das gesamte Gebiet in Namibia liegt auf einer relativ flachen Hochebene von etwa 1.000 bis 1.200 Metern.",
+        "In den Tälern ('Streets') zwischen den Sanddünen staut sich oft fruchtbarer, hellerer Boden.",
+        "Die Region verfügt über keinerlei abfließendes Oberflächenwassersystem zum Ozean hin."
+      ]
+    },
+    {
+      "id": "brandberg-mountain-relief-v2",
+      "descriptionAdvanced": "Das Relief des Brandberg-Massivs ist eine geologische Anomalie in der flachen Weite der namibischen Dornsavanne. Dieser monumentale Granit-Intrusionskomplex, der vor über 130 Millionen Jahren durch aufsteigendes Magma entstand, durchbricht die Erdkruste wie ein massiver, beinahe kreisrunder Pfropfen mit einem Durchmesser von 30 Kilometern. Die äußeren Flanken des Berges stürzen fast senkrecht über tausend Meter tief ab, während das Innere des Massivs von tiefen, strahlenförmig nach außen verlaufenden Schluchten zerrissen ist. Diese tiefen Canyons, wie die Tsisab-Schlucht, formten geschützte Mikroklimata und waren über Tausende von Jahren die einzige verlässliche Wasserquelle für die San-Gemeinschaften in dieser lebensfeindlichen Umgebung. Erdgeschichte K8 — Magmatische Plutone und Steilflanken.",
+      "factsAdvanced": [
+        "Das Massiv erhebt sich bis auf eine Höhe von 2.573 Metern (Königstein) über dem Meeresspiegel.",
+        "Die Granitstruktur ragt fast 2.000 Meter abrupt aus der flachen 500 Meter hoch gelegenen Namib-Ebene auf.",
+        "Die Felsen wurden durch extreme chemische und mechanische Wüstenverwitterung fast kahl geschliffen.",
+        "Tief eingeschnittene, trockene Talschluchten (Canyons) durchbrechen den äußeren Ring des Massivs.",
+        "Das Gestein besteht aus einem speziellen Alkaligranit, der durch seinen roten Farbton besticht.",
+        "Aufgrund der steilen Hänge bilden sich oft lokale thermische Winde und kleine Nebelbänke am Gipfel."
+      ]
+    },
+    {
+      "id": "spitzkoppe-relief-v2",
+      "descriptionAdvanced": "Das Relief der Spitzkoppe-Berggruppe in der Erongo-Region ist eines der extremsten Beispiele für Inselberge in Afrika. Diese bizarren, oft völlig glatten Granitdome ragen vollkommen isoliert und beinahe senkrecht aus der topfebenen und extrem kargen Schotterwüste auf. Der Hauptgipfel, die Groß-Spitzkoppe (1.728 m), hat eine so scharfe, nadelartige Form, dass er unter Extremkletterern weltweit als gigantische Herausforderung gilt, da die Felswände durch Jahrmillionen von Hitze und abplatzenden Gesteinsschalen (Exfoliation) glattpoliert wurden. Am Fuß dieser massiven Felsnadeln ist das Relief durchzogen von riesigen runden Felsblöcken (Bouldern) und spektakulären natürlichen Steinbögen. Geologie K6 — Inselberge und mechanische Gesteinsverwitterung.",
+      "factsAdvanced": [
+        "Die Groß-Spitzkoppe überragt die völlig flache Umgebungsebene um markante 700 Meter.",
+        "Die Form des Berges entsteht durch sogenannte Exfoliation (zwiebelschalenartiges Abplatzen des Gesteins).",
+        "Die glatten Wände ('Slabs') sind in den Mittagsstunden aufgrund der Hitze unmöglich zu durchsteigen.",
+        "Die Formation der 'Rock Bridge' (Steinbogen) ist durch Winderosion und Auswaschung entstanden.",
+        "Die Berge wirken aus der Ferne wie eine Fata Morgana, da keine sanften Vorberge (Foothills) existieren.",
+        "Im Schatten der tiefen, überhängenden Felsen staut sich Regenwasser oft monatelang in flachen Pfützen."
+      ]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "descriptionAdvanced": "Das Erongo-Gebirge präsentiert ein dramatisch zerklüftetes Relief, das aus der Ferne wie eine unüberwindbare Festung aus rotem Fels wirkt. Geologisch gesehen ist das Massiv der Rest (die Ringader) eines eingestürzten Ur-Vulkans, einer riesigen Magmakammer, die vor 130 Millionen Jahren tief unter der Erdoberfläche kollabierte und dann langsam durch Wind und Wetter freigelegt wurde. Dies erklärt die fast kreisrunde, abweisende Bergkette, die heute den flacheren, geschützten inneren Kessel umschließt. Die Flanken des Gebirges sind übersät mit tonnenschweren, runden Granitkugeln, die auf winzigen Vorsprüngen zu balancieren scheinen. Das Labyrinth aus Höhlen und tiefen Schluchten macht dieses Relief extrem unzugänglich und zu einem perfekten Rückzugsort für Leoparden. Geologie K8 — Vulkankalderen und Boulder-Formationen.",
+      "factsAdvanced": [
+        "Die höchste Erhebung des Ringgebirges liegt bei 2.319 Metern über dem Meeresspiegel.",
+        "Die Form des Massivs zeichnet exakt die Ränder einer 130 Millionen Jahre alten vulkanischen Magmakammer nach.",
+        "Die unzähligen, fast perfekten runden Felsblöcke (Boulder) entstehen durch Blockverwitterung.",
+        "Im Inneren des Massivs ist das Relief weitaus sanfter und bildet eine versteckte, grüne Hochebene.",
+        "Das raue Gestein filtert und fängt Wolken ein, wodurch die Region etwas feuchter als das Umland ist.",
+        "Die extrem schroffen Felswände aus hartem Ignimbrit erschweren jegliche Form der Straßenbildung."
+      ]
+    },
+    {
+      "id": "auas-mountains-relief-v2",
+      "descriptionAdvanced": "Die Auasberge bilden eine markante, oft dunkle Gebirgskette, die sich unmittelbar südlich und östlich der Hauptstadt Windhoek erhebt und das Relief des zentralen Hochlandes dominiert. Mit dem Moltkeblick (2.480 m) beherbergen sie den zweithöchsten Berg Namibias nach dem Brandberg. Die Berge wirken als natürliche Wetterbarriere: Sie fangen Feuchtigkeit auf, was oft zu plötzlichen, heftigen Sommergewittern über Windhoek führt. Die Hänge sind extrem steil, stark bewachsen mit dornigen Akazien und zerrissen von tief eingeschnittenen Tälern, die bei Regen in Sekundenschnelle Wasser führen. Diese Barriere zwang den frühen Transportverkehr und auch die moderne Eisenbahn, durch enge Gebirgspässe zu navigieren, um in den namibischen Süden zu gelangen. Geografie K7 — Gebirgsbarrieren im zentralen Hochland.",
+      "factsAdvanced": [
+        "Der Gipfel des Moltkeblicks ist mit beachtlichen 2.480 Metern der höchste Punkt im zentralen Hochland.",
+        "Die Bergkette bildet die entscheidende Wasserscheide in der Mitte des Landes.",
+        "Die steilen Hänge machen die Erschließung der Südseite der Hauptstadt Windhoek bautechnisch extrem teuer.",
+        "Die Auasberge bestehen primär aus extrem harten Quarzit- und Schieferformationen der Damara-Sequenz.",
+        "Aufgrund der Höhe friert es in den Wintermonaten (Juni/Juli) oft in den schattigen Tälern der Berge.",
+        "Die historische Schmalspurbahn nach Süden musste mühsam durch ein Tunnelsystem im Gebirge gebohrt werden."
+      ]
+    },
+    {
+      "id": "khomas-hochland-relief-v2",
+      "descriptionAdvanced": "Das Khomas-Hochland bildet das gewaltige topografische Dach von Zentralnamibia. Dieses ausgedehnte Plateau, auf dem auch die Hauptstadt Windhoek liegt, erreicht Höhen von etwa 1.700 bis 2.000 Metern und ist bekannt für sein extrem welliges und unübersichtliches Relief. Die Landschaft wirkt aus der Luft wie ein zerknittertes Stück Papier, bestehend aus endlosen Ketten runder, bewachsener Hügel, die von tiefen Talschluchten zerschnitten sind. Geologisch gesehen handelt es sich um stark gefaltetes Gestein aus der Zeit, als vor über 600 Millionen Jahren Kontinente zusammenstießen. Das raue Gelände macht Landwirtschaft, abseits der extensiven Rinderzucht, nahezu unmöglich und erfordert endlose, staubige Schotterpässe wie den Spreetshoogte-Pass, um es Richtung Küste zu überwinden. Geologie K7 — Gefaltete Hochplateaus und Passstraßen.",
+      "factsAdvanced": [
+        "Das gesamte Khomas-Hochland besteht aus extrem gefaltetem Glimmerschiefer und Quarzit.",
+        "Die durchschnittliche Höhe des Plateaus liegt bei stolzen 1.700 Metern über dem Meeresspiegel.",
+        "Westlich des Plateaus stürzt das Land über dramatische Randstufen (Escarpment) tief in die Namib-Ebene ab.",
+        "Die gewundenen Täler im Hochland dienen als Sammelbecken für Flüsse wie den Swakop und den Kuiseb.",
+        "Der Straßenbau ist hier durch die endlosen, steilen Hügelketten extrem schwierig und kostenintensiv.",
+        "Trotz der rauen Topografie ist das Gebiet das Zentrum der wertvollsten Rinderfarmen des Landes."
+      ]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "descriptionAdvanced": "Das Relief des Waterberg-Plateaus in Zentralnamibia ist eines der prägnantesten Beispiele für eine flache Gebirgstafel in Afrika. Dieses geologische Monument erhebt sich fast majestätisch rund 200 Meter aus der weiten und flachen Omaheke-Sandebene. Die Flanken des Berges fallen fast völlig senkrecht als rote, oft überhängende Felswände ('Cliffs') in die Tiefe ab, weshalb das Plateau auf den meisten Seiten unbesteigbar ist. Oben präsentiert sich der Berg jedoch als ein flaches, 40 Kilometer langes Plateau, fast wie eine Welt für sich. Diese markante Tafelform entstand, weil eine extrem harte Schicht aus Etjo-Sandstein weicheres Sedimentgestein darunter über Millionen von Jahren vor der Winderosion schützte. Geologie K7 — Tafelberge und differenzielle Erosion.",
+      "factsAdvanced": [
+        "Das Waterberg-Plateau ist eine klassische geologische Tafelberg-Formation (Table Mountain).",
+        "Die steilen Felswände bestehen aus rötlichem Etjo-Sandstein aus der späten Karoo-Zeit.",
+        "Die flache Oberseite der Hochebene ist rund 40 Kilometer lang und bis zu 16 Kilometer breit.",
+        "Die extrem poröse Deckschicht lässt Regenwasser versickern, wodurch fast kein Oberflächenabfluss entsteht.",
+        "Das Plateau schützt das darunterliegende weichere Gestein der Omingonde-Formation vor der Wüstenverwitterung.",
+        "Durch Erdrutsche an den Steilwänden haben sich am Fuß riesige Geröll- und Schotterhalden (Talus) gebildet."
+      ]
+    },
+    {
+      "id": "fish-river-canyon-relief-v2",
+      "descriptionAdvanced": "Das Relief des Fischfluss-Canyons im tiefen Süden ist das Ergebnis gnadenloser Wassererosion durch hartes Wüstengestein. Die gewaltige Schlucht bietet einen erschreckenden und faszinierenden Querschnitt durch die Erdgeschichte. Das Relief teilt sich in zwei deutlich unterscheidbare Zonen: Der obere Canyon mit sanfteren Klippen aus hellem Kalkstein und Dolomit, und tief unten der sogenannte 'innere Canyon', der sich als tiefe, V-förmige und dunkle Rille hunderte Meter in hartes, präkambrisches Basalt- und Granitgestein gefressen hat. Die Wände stürzen an vielen Stellen (wie am Aussichtspunkt Hell's Bend) fast senkrecht über 500 Meter tief ab. Diese raue Geomorphologie schafft ein fast surreales Labyrinth aus Gesteinsfalten und tiefen Flussschleifen. Geologie K8 — Canyon-Erosion und tektonische Gräben.",
+      "factsAdvanced": [
+        "Das Relief offenbart fast 1,5 Milliarden Jahre alte Gesteinsschichten am Grund der Schlucht.",
+        "Die tiefsten, dunkelsten Gesteinsschichten gehören zum historischen Namaqua-Metamorphen-Komplex.",
+        "Der obere, etwas flachere Teil des Canyons wurde zum Teil durch urzeitliche Gletschermassen mitgeformt.",
+        "Die maximale Klippenhöhe vom Canyonrand bis zum tiefsten Flussbett beträgt beinahe 550 Meter.",
+        "An vielen Flussschleifen ('Meander') hat sich das Wasser so tief in Felsen gefräst, dass Hänge instabil sind.",
+        "Es gibt fast keine natürlichen Wege, um die steilen Wände hinabzusteigen, außer extrem schmalen Felsspalten."
+      ]
+    },
+    {
+      "id": "aus-mountains-relief-v2",
+      "descriptionAdvanced": "Die Aus-Berge (Huib-Hochplateau) markieren in Südnamibia die dramatische geologische Stufe, an der das extrem hohe Landesinnere jäh in die flachen Weiten der gnadenlosen Namib-Wüste abfällt. Das Relief ist gekennzeichnet durch schroffe, dunkle Felsrücken und tiefe, V-förmige Täler, die kaum Vegetation zulassen. Wenn der feuchte Küstennebel auf diese erste massive Felsbarriere trifft, kondensiert er an den kalten Steilhängen, weshalb die Region um Aus oft in dichte Wolken gehüllt ist und in Winternächten sogar mit starkem Frost oder extrem selten mit leichtem Schnee kämpft. Es ist eine Landschaft, die den frühen Transport mittels Eisenbahn in die Kolonie auf eine massive Zerreißprobe stellte. Geografie K7 — Die große Randstufe (Great Escarpment).",
+      "factsAdvanced": [
+        "Die Berge bilden das mächtige westliche Steilufer (Escarpment) in der südlichen ||Kharas-Region.",
+        "Die zerklüftete Landschaft zwang den Bahnbau der Südbahn 1906 zu aufwendigen Sprengungen.",
+        "Der höchste Gipfel in der direkten Bergkette um Aus erreicht fast 1.500 Meter Höhe.",
+        "Während der Wintermonate wehen oft eisige, sturmartige Ostwinde durch die Bergtäler in die Wüste.",
+        "Das schroffe Granit- und Gneisgestein bietet ein ideales Versteck für bedrohte Leoparden.",
+        "In den Felsnischen nahe Aus fangen historische, oft übersehene deutsche Befestigungsanlagen den Wind ab."
+      ]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "descriptionAdvanced": "Das Relief des Tsau-Khaeb-Nationalparks (historisch bekannt als Diamantensperrgebiet) an der südwestlichen Küste ist eine der bizarrsten, abweisendsten und isoliertesten Morphologien unseres Planeten. Das Landschaftsbild ist stark zweigeteilt: Am stürmischen Atlantik herrschen zerklüftete, kochende Felsstrände und Klippen (wie der riesige 55-Meter-Bogenfels) vor, landeinwärts peitschen die stärksten Winde Afrikas den roten Sand in fast undurchdringliche, wilde Längsdünen und wandernde Barchan-Dünen ('Sicheldünen'). Dazwischen ragen mysteriöse, kahl gefegte, spitze Inselberge aus extrem hartem Vulkangestein, wie die Klinghardtberge oder die Dictator-Berge, in den stahlblauen Wüstenhimmel auf, die von der Winderosion sprichwörtlich blankpoliert wurden. Erdgeschichte K8 — Hyper-Erosion und isolierte Inselberge.",
+      "factsAdvanced": [
+        "Im Tsau-Khaeb liegen Berge begraben, die bis in die Spitzen (über 1.000m) von wandernden Dünen überweht werden.",
+        "Der 55 Meter hohe 'Bogenfels' ist ein monumentales Kalksteintor, geformt durch die atlantische Brandung.",
+        "Die Region ist geologisch so abgeschieden, dass zahlreiche Sukkulenten-Pflanzen nur auf einzelnen Berggipfeln existieren.",
+        "Sturmartige Südwinde treiben den Sand als tödliches Schmirgelpapier gegen die Felswände.",
+        "Zahlreiche flache Pfannen in den Dünen (Vleis) sammeln nach seltenen Wüstenstürmen extrem salziges Wasser.",
+        "In tieferen Tälern legen Winde oft urzeitliche Fossilienablagerungen und sogar versteinerte Fußspuren frei."
+      ]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "descriptionAdvanced": "Das Hunsgebirge, versteckt im tiefsten und fast menschenleeren Süden Namibias, bildet ein tief gefaltetes und extrem raues Felsrelief nahe dem Unterlauf des Fischflusses und dem Oranje. Die Berge bestehen aus extrem hartem, präkambrischem Gestein und sind zerrissen von tiefen, komplett ausgetrockneten Canyons und Schluchten. Diese fast baumlose Bergkette bietet durch ihre Unzugänglichkeit einen sicheren Rückzugsort für Hartmann-Bergzebras und versteckt historische Schätze wie die Apollo-11-Höhle, in der Archäologen die mit 27.500 Jahren ältesten figurativen Kunstwerke Afrikas auf Steintafeln entdeckten. Das Gelände ist so extrem unwegsam und wasserlos, dass es selbst heute noch als kaum kartierte Wildnis gilt. Geologie K7 — Präkambrische Faltengebirge und archäologische Stätten.",
+      "factsAdvanced": [
+        "Das raue Hunsgebirge grenzt fast unmittelbar westlich an den großen Fischfluss-Canyon an.",
+        "Die Berge sind geologisch sehr komplex gefaltet und weisen fast keine flachen Ebenen auf.",
+        "Das Gestein speichert extreme Tageshitze und gibt diese in den Nächten an die trockenen Täler ab.",
+        "Das Relief ist so abweisend, dass es praktisch unmöglich ist, Straßen quer durch das Massiv zu bauen.",
+        "Die weltberühmte Apollo-11-Höhle mit antiker San-Kunst liegt verborgen in diesen Tälern.",
+        "Dichte, stachelige Sukkulenten (wie der Giftbaum Euphorbia virosa) klammern sich an die Hänge."
+      ]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "descriptionAdvanced": "Die Naukluft-Berge bilden das massive, felsige Bollwerk im zentral-westlichen Namibia. Dieses spektakuläre Kalksteinmassiv ragt an seinem Ostrand wie eine steile, fast unüberwindbare Wand auf und stürzt nach Westen hin jäh und tief in die Namib-Wüste ab. Das Gebirge wirkt wie ein Schwamm: Die extrem porösen Kalksteinschichten saugen seltene Regenfälle auf und lassen das kristallklare Wasser am Fuß der Berge in tief ausgespülten, engen Schluchten (wie dem Naukluft- und Tsauchab-Fluss) als beständige, kühle Quellen wieder austreten. Für die Tierwelt sind diese tief im zerklüfteten Fels verborgenen Wasserlöcher eine elementare Überlebensinsel, während das raue Relief Bergzebras (Hartmann-Zebras) perfekte Sicherheit vor Raubtieren bietet. Geografie K7 — Karstgebirge und Wüstenbarrieren.",
+      "factsAdvanced": [
+        "Das Gebirge besteht großteils aus einem riesigen Kalkstein-Nappenkomplex ('Nappe complex').",
+        "Die markante Ostwand des Massivs erhebt sich extrem steil aus der benachbarten flachen Hochebene.",
+        "Das poröse Gestein der Naukluft-Berge speichert große Mengen Wasser, die kleine Felsbecken (Pools) füllen.",
+        "In den späten 1890er Jahren nutzte der Nama-Führer Hendrik Witbooi das Massiv als unbezwingbare Festung.",
+        "Die Flüsse Tsondab, Tsauchab und Kuiseb entspringen tief im zerklüfteten Relief dieser Berge.",
+        "Trotz Trockenheit sind die tiefen Bergschluchten von üppigen wilden Feigenbäumen durchzogen."
+      ]
+    },
+    {
+      "id": "tiras-mountains-relief-v2",
+      "descriptionAdvanced": "Die Tiras-Berge in der südlichen Namib-Randstufe bilden eine der faszinierendsten Übergangszonen der afrikanischen Geologie. Diese alte, extrem verwitterte Gebirgskette wird fast buchstäblich von vier völlig unterschiedlichen Landschaften umklammert: den roten Wanderdünen der Namib im Westen, den dunklen Felsen der großen Randstufe im Osten, der endlosen Dornsavanne im Norden und den Sukkulenten-Wüsten im Süden. Das Relief der Tirasberge ist sanfter als das des Naukluftmassivs; es besteht aus golden leuchtendem, abgerundetem Granitgestein, weiten, mit gelbem Gras bedeckten Tälern und weichen Ausläufern, die direkt in Sanddünen übergehen. Diese Berge sind heute größtenteils zu einem großen, privaten Schutzgebiet (Conservancy) zusammengeschlossen. Geografie K6 — Übergangszonen (Ökotone) der Geologie.",
+      "factsAdvanced": [
+        "Das Gebirge liegt als markante Übergangszone zwischen dem weichen Dünenmeer und der harten Randstufe.",
+        "Das Relief ist charakterisiert durch abgerundete, von Winderosion polierte, rötliche Granitkuppen.",
+        "Einige Farmer haben hier Zäune abgebaut, um ein fast 125.000 Hektar großes Naturschutzgebiet zu formen.",
+        "Die Täler sind großteils von den rötlichen, auslaufenden Sanddünen der südlichen Namib durchzogen.",
+        "Die spärliche Vegetation bietet einen der wichtigsten Rückzugsorte für Oryx und Springböcke im Süden.",
+        "Trotz extremer Niederschlagsarmut überleben uralte Köcherbäume in den Granitspalten der Berge."
+      ]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "descriptionAdvanced": "Die Muhlo-Berge (oft eng in der Beschreibung mit den angrenzenden Bergmassiven des Damaralandes zusammengefasst) sind ein extrem abweisendes und selten besuchtes Gebirgsmassiv im nördlichen Namibia. Geologisch reihen sie sich in das zerklüftete Chaos der Kunene-Region ein. Das Relief ist brutal zerschnitten, die Hänge extrem steil und das Gestein im namibischen Sommer fast glühend heiß. Wie viele Gebirge dieser isolierten Region existieren hier kaum zusammenhängende Bergrücken, sondern isolierte, stark durch Verwerfungen zersplitterte Steilhänge und dunkle Basaltklippen. Nur die härtesten Überlebenskünstler, wie Klippspringer, Felsenadler und vielleicht vereinzelte, nomadische Himba-Hirten dringen in diese fast wasserlose Felsbarriere vor. Geologie K7 — Extremerosion und unzugängliche Gebirgsmassive.",
+      "factsAdvanced": [
+        "Die Gebirgsformationen in diesem Gebiet sind massiv durch tektonische Risse zersplittert.",
+        "Es gibt fast kein zugängliches Grund- oder Oberflächenwasser innerhalb dieses rauen Reliefs.",
+        "Das dunkle Basaltgestein an den Flanken absorbiert die Sonne und sorgt für enorme Hitzebedingungen.",
+        "Das Relief ist so unzugänglich, dass es von Geologen und Forschern bisher nur wenig erkundet wurde.",
+        "Vegetation beschränkt sich fast völlig auf dürreresistente, oft giftige Sukkulenten-Arten.",
+        "Seltene Felsenadler (Verreaux-Adler) nisten bevorzugt an den steilen, windigen Felswänden."
+      ]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "descriptionAdvanced": "Die Otavi-Berge im Norden Namibias (nahe Grootfontein und Tsumeb) bieten ein Relief, das sich drastisch vom üblichen harten Granit der meisten namibischen Berge unterscheidet. Sie bestehen fast vollständig aus stark löslichem Kalkstein und Dolomit (Karstlandschaft). Dieses geologische Setting führt zu einem Relief, das oft durchlöchert ist wie ein Schweizer Käse: Hier gibt es unzählige unterirdische Höhlensysteme, Schlucklöcher, und mit glasklarem Grundwasser gefüllte Senklöcher (wie die berühmten Seen Otjikoto und Guinas). Da das Regenwasser in diesem porösen Gestein nicht an der Oberfläche abfließt, bilden sich keine großen Trockenflüsse, stattdessen sammeln die Risse das Wasser tief unter der Erde und versorgen das gesamte 'Mais-Dreieck' der Region mit extrem fruchtbarer Feuchtigkeit. Erdgeschichte K8 — Karsttopografie und Dolinen.",
+      "factsAdvanced": [
+        "Die Otavi-Berge weisen eines der wenigen echten Karstsysteme (Kalkstein und Dolomit) in Südwestafrika auf.",
+        "Das Relief verbirgt hunderte, teils unerforschte Höhlensysteme unter der Oberfläche (Speläologie).",
+        "Der 'Dragon's Breath Lake' in der Region ist der größte unterirdische, eisfreie See der Welt.",
+        "Die Bergkette ist im Durchschnitt deutlich grüner und baumreicher als andere Gebirge Namibias.",
+        "Mineralhaltiges Gestein in der Region beherbergt eines der reichsten Erzvorkommen (Tsumeb-Mine) der Erde.",
+        "Dank des porösen Gesteins gibt es extrem reiche Grundwasservorkommen unter den Bergketten."
+      ]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "descriptionAdvanced": "Die Zebra-Berge (Zebra Mountains) im extremen Nordwesten Namibias (Kaokoland) verdanken ihren Namen einem fantastischen und völlig natürlichen optischen Täuschungseffekt. Aus der Ferne und aus der Luft wirken die Hänge dieser Berge, als wären sie mit perfekten schwarz-weißen Streifen bemalt, ähnlich dem Fell eines Zebras. Dieses Reliefphänomen entsteht durch unzählige, parallel verlaufende Erosionsrinnen an den Berghängen. Wenn die Morgensonne auf die Hänge trifft, werfen die Erhebungen dunkle Schatten, während die Rinnen in hellem Licht erstrahlen. Die Region ist unglaublich unzugänglich, fast menschenleer und eine visuelle Sensation, die Geologen und Fotografen gleichermaßen fasziniert, da das dichte Streifenmuster die wahren Ausmaße der Landschaft oft geschickt verschleiert. Geografie K7 — Optische Erosionseffekte und ferne Bergketten.",
+      "factsAdvanced": [
+        "Das auffällige schwarz-weiße 'Zebramuster' entsteht durch hunderte parallele Abflussrinnen an den Hängen.",
+        "Das Gestein der Bergkette ist massiv eisenhaltig, weshalb einige Rinnen extrem dunkel oxidieren.",
+        "Die Berge liegen isoliert im Kaokoland, fernab von jeglicher nennenswerter Infrastruktur.",
+        "Das Relief ist derart schroff, dass Fahrzeuge diese Gebirgszüge nicht durchqueren können.",
+        "Die spärliche Vegetation in den Tälern wird ab und zu von nomadischen Himba-Gemeinschaften genutzt.",
+        "Nur seltene Bergspezialisten wie das Hartmann-Bergzebra oder der Klippspringer bevölkern die Hänge."
+      ]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "descriptionAdvanced": "Die Baynes-Berge am nördlichsten Rand des Kaokolandes bilden eine der wildesten und unüberwindlichsten geografischen Mauern Namibias. Sie säumen direkt das schäumende Wasser des Kunene-Flusses an der Grenze zu Angola und zwingen den mächtigen Strom an den Epupa-Fällen in eine tiefe, fast unzugängliche Schlucht. Das Relief ist extrem dramatisch: Dunkle, fast senkrechte Gesteinsmassive ragen Hunderte von Metern direkt aus dem Wasser auf und formen ein isoliertes Paradies, in dem Baobabs waghalsig in Felsspalten wachsen. Seit Jahren tobt ein politischer Streit, da in diesem beeindruckenden, bergigen Flusstal der Bau eines massiven Staudamms (Baynes-Wasserkraftwerk) geplant ist, der das Landschaftsbild und den Lebensraum der semi-nomadischen Himba dort unwiederbringlich verändern würde. Geopolitik K8 — Staudammprojekte in Schluchtenreliefs.",
+      "factsAdvanced": [
+        "Die Berge steigen extrem steil und fast ohne Uferzonen direkt aus dem Flusslauf des Kunene empor.",
+        "Die tiefe Baynes-Schlucht (Gorge) ist extrem schmal und fast vollständig von Felswänden umschlossen.",
+        "Das vorgeschlagene, hoch umstrittene Baynes-Staudammprojekt plant hier eine gigantische 200-Meter-Betonmauer.",
+        "Ein Staudamm würde große Teile der kulturellen Friedhöfe und Weidegründe der lokalen Himba überfluten.",
+        "In den dunklen und windgeschützten Klippen nisten riesige Kolonien von Fledermäusen und Adlern.",
+        "Die extreme Sommerhitze, die von den dunklen Basaltfelsen reflektiert wird, ist oft unerträglich."
+      ]
+    }
+  ]
+}

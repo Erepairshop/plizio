@@ -1,0 +1,67 @@
+{
+  "lang": "en",
+  "country": "slovenia",
+  "files": ["lib/visualLab/data/poiExtraSloveniaCities.ts"],
+  "items": [
+    {
+      "id": "city-ljubljana-extra",
+      "descriptionAdvanced": "Ljubljana, the vibrant capital of Slovenia, is a city where Central European and Mediterranean influences meet. The cityscape is defined by the Ljubljanica River, crossed by numerous bridges, including the famous Dragon Bridge. The architecture is a mix of Baroque and Art Nouveau, significantly influenced by the works of architect Jože Plečnik. Ljubljana Castle, perched on a hill, offers a breathtaking view of the old town. Awarded the European Green Capital in 2016, Ljubljana places a high value on sustainability and car-free zones in the center. Geography K7 — Regions and cities.",
+      "factsAdvanced": [
+        "The Dragon Bridge was completed in 1901 and is adorned with four dragon statues.",
+        "The Central Market, designed by Plečnik, stretches along the river.",
+        "Ljubljana Castle was rebuilt in the 15th century and is accessible by funicular.",
+        "The city covers an area of approximately 163.8 square kilometers.",
+        "Ljubljana was named the European Green Capital in 2016.",
+        "The University of Ljubljana, founded in 1919, is the oldest and largest in the country."
+      ]
+    },
+    {
+      "id": "city-maribor-extra",
+      "descriptionAdvanced": "Maribor, Slovenia's second-largest city, lies on the banks of the Drava River and is the center of the historic Lower Styria region. The city is world-renowned for its wine tradition; the 'Old Vine' grows here, considered the oldest living grapevine in the world at over 400 years old. The Lent district on the riverbank is the oldest part of the city and the venue for the international Lent Festival. Maribor was the European Capital of Culture in 2012 and offers a rich mix of culture, history, and nature experiences, surrounded by the vineyards of the Pohorje Mountains. Geography K7 — Regions and cities.",
+      "factsAdvanced": [
+        "The Old Vine in Maribor is listed in the Guinness Book of Records as the oldest grapevine in the world.",
+        "The Lent Festival is the largest open-air festival in Slovenia.",
+        "The 15th-century Maribor Castle today houses the Regional Museum.",
+        "The city shared the title of European Capital of Culture in 2012.",
+        "The Pohorje Mountains near Maribor are a popular skiing and hiking area.",
+        "The first written record of the Marchburch castle dates back to 1164."
+      ]
+    },
+    {
+      "id": "city-celje-extra",
+      "descriptionAdvanced": "Celje, the third-largest city in Slovenia, is a city with a rich history dating back to Roman times when it was known as Celeia. The mighty Celje Castle, the largest castle complex in Slovenia and former seat of the Counts of Celje, one of the most influential noble families of the late Middle Ages in Europe, towers over the city. The well-preserved old town bears witness to its medieval and baroque past. Today, Celje is an important regional economic and cultural center that cherishes its historical heritage. History K8 — Middle Ages and noble dynasties.",
+      "factsAdvanced": [
+        "Celje Castle is the largest fortress in Slovenia.",
+        "The Counts of Celje were a major European noble dynasty in the 14th and 15th centuries.",
+        "Under the city lie the remains of the Roman city of Celeia.",
+        "The Princely House (Knežji dvor) was the urban residence of the Counts of Celje.",
+        "Celje is situated at the confluence of the Savinja, Ložnica, and Voglajna rivers.",
+        "The International Trade Fair (MOS) in Celje is the largest of its kind in Slovenia."
+      ]
+    },
+    {
+      "id": "city-kranj-extra",
+      "descriptionAdvanced": "Kranj, the fourth-largest city in Slovenia, is picturesquely situated on a rocky promontory at the confluence of the Sava and Kokra rivers. It is the historical, cultural, and economic center of the Gorenjska region. The old town is one of the best-preserved in Slovenia. Kranj is known as the 'city on the rock' and is often associated with the greatest Slovenian poet, France Prešeren, who spent his final years here. The underground tunnels built during World War II are now a popular tourist attraction. Geography K5 — Natural phenomena.",
+      "factsAdvanced": [
+        "Kranj is situated on a 30-meter-high rock conglomerate.",
+        "The city is an important industrial center, especially for electronics and rubber.",
+        "The Prešeren Theatre in Kranj is one of the most important theatres in the country.",
+        "The Kokra River gorge is 30 meters deep and flows through the center of the city.",
+        "The underground tunnels beneath the old town are about 1,300 meters long.",
+        "France Prešeren, Slovenia's national poet, lived in Kranj from 1846 to 1849."
+      ]
+    },
+    {
+      "id": "city-koper-extra",
+      "descriptionAdvanced": "Koper, located on Slovenia's short Adriatic coast, is the country's most important port city and a melting pot of cultures. The old town, which was once an island, reflects the long rule of the Republic of Venice through its Venetian-Gothic architecture. The 15th-century Praetorian Palace on the central Tito Square is an outstanding example of this. Today, Koper is a vibrant university city and a key economic center that has preserved its historical charm while exuding a modern Mediterranean flair. Geography K6 — Coastal regions.",
+      "factsAdvanced": [
+        "Koper is the largest and most important port city in Slovenia.",
+        "The old town was originally an island, connected to the mainland only in the 19th century.",
+        "The Praetorian Palace in Venetian-Gothic style dominates Tito Square.",
+        "The Cathedral of the Assumption of the Virgin Mary has a bell tower offering wide views over the bay.",
+        "The University of Primorska, founded in 2003, is headquartered in Koper.",
+        "The nearby Škocjanski Zatok Nature Reserve is an important wetland for birds."
+      ]
+    }
+  ]
+}

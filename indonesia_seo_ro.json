@@ -1,0 +1,360 @@
+{
+  "lang": "ro",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "borobudur-temple-history-v2",
+      "descriptionAdvanced": "Templul Borobudur, situat în Java Centrală, este cel mai mare monument budist din lume și o dovadă remarcabilă a ingeniozității arhitecturale a dinastiei Sailendra. Construit în secolul al IX-lea, acest complex colosal este structurat sub forma unei piramide etajate, culminând cu o stupă centrală impunătoare. Designul său reflectă cosmologia budistă, ghidând pelerinii printr-o ascensiune spirituală de la baza simbolică a dorinței până la iluminare. Pereții sunt împodobiți cu peste 2.600 de panouri de relief sculptate fin, care descriu viața lui Buddha și diverse parabole religioase. Deși a fost abandonat timp de secole și acoperit de cenușă vulcanică și junglă, Borobudur a fost redescoperit în secolul al XIX-lea și restaurat minuțios, devenind astăzi un sit al Patrimoniului Mondial UNESCO și o destinație esențială pentru studiul artei și religiei asiatice. Istorie K8 — patrimoniu mondial și civilizații vechi.",
+      "factsAdvanced": [
+        "Construit între anii 750 și 850 d.Hr. în timpul dinastiei Sailendra.",
+        "Utilizează aproximativ 2 milioane de blocuri de piatră vulcanică fără mortar.",
+        "Conține 504 statui ale lui Buddha și 72 de stupe în formă de clopot.",
+        "Are 2.672 de panouri de relief care acoperă o suprafață de 2.500 m².",
+        "Abandonat în secolul al XIV-lea, probabil din cauza declinului regatelor budiste.",
+        "Redescoperit de Sir Thomas Stamford Raffles în 1814.",
+        "Inclus în lista Patrimoniului Mondial UNESCO în anul 1991.",
+        "Restaurat complet între 1975 și 1982 cu sprijinul organizației UNESCO."
+      ]
+    },
+    {
+      "id": "prambanan-temple-history-v2",
+      "descriptionAdvanced": "Prambanan este cel mai mare complex de temple hinduse din Indonezia, construit în secolul al IX-lea în onoarea divinităților Trimurti: Brahma, Vishnu și Shiva. Situat în Java Centrală, complexul se remarcă prin arhitectura sa înaltă și ascuțită, caracteristică stilului hindus, templul central dedicat lui Shiva atingând o înălțime impresionantă de 47 de metri. Legenda locală a lui Rara Jonggrang adaugă o dimensiune mitică acestui loc, povestind despre o mie de temple construite într-o singură noapte. Pereții templelor sunt decorați cu basoreliefuri detaliate care relatează epopeea hindusă Ramayana. Prambanan rămâne un simbol al măreției culturale a Regatului Mataram și a coexistenței armonioase a diverselor credințe în Indonezia antică. Istorie K8 — civilizații asiatice și religii mondiale.",
+      "factsAdvanced": [
+        "Construit în jurul anului 850 d.Hr. de Rakai Pikatan din dinastia Sanjaya.",
+        "Dedicat celor trei mari zei hinduși: Shiva, Vishnu și Brahma.",
+        "Templul central al lui Shiva are o înălțime de 47 de metri.",
+        "Complexul cuprindea inițial 240 de temple individuale.",
+        "Afectat grav de un cutremur puternic în secolul al XVI-lea.",
+        "Redescoperit în 1733 de un explorator olandez numit C.A. Lons.",
+        "Inclus în Patrimoniul Mondial UNESCO în anul 1991.",
+        "Găzduiește spectacole de balet Ramayana pe o scenă în aer liber."
+      ]
+    },
+    {
+      "id": "ratu-boko-palace-history-v2",
+      "descriptionAdvanced": "Ratu Boko este un sit arheologic fascinant situat pe un platou înalt, oferind o panoramă spectaculoasă asupra văii Prambanan din Java Centrală. Spre deosebire de monumentele religioase din jur, Ratu Boko pare să fi fost un complex fortificat sau un palat regal, datând din secolele VIII-IX. Structura include porți masive de piatră, platforme de audiență și rămășițele unor ziduri de apărare, sugerând o funcție administrativă și rezidențială complexă. Situl prezintă un amestec interesant de elemente arhitecturale budiste și hinduse, reflectând diversitatea culturală a epocii. Apusurile de soare văzute prin porțile de piatră ale palatului sunt considerate printre cele mai frumoase din Indonezia, atrăgând numeroși turiști și pasionați de istorie. Istorie K8 — organizarea statelor și arhitectură militară.",
+      "factsAdvanced": [
+        "Situat la 3 km sud de Prambanan, la o altitudine de 196 metri.",
+        "Numele se traduce prin „Regele Barză” dintr-o legendă locală.",
+        "Atestat de inscripția Abhayagiri Vihara datată în anul 792 d.Hr.",
+        "Cuprinde porți de piatră, o sală de audiențe și o zonă de scăldat.",
+        "Se crede că a servit ca mănăstire budistă înainte de a fi fortificat.",
+        "Inscripțiile menționează un rege numit Rakai Panangkaran.",
+        "Situl ocupă o suprafață totală de aproximativ 16 hectare.",
+        "Descoperit în secolul al XVIII-lea de un inginer olandez."
+      ]
+    },
+    {
+      "id": "sangiran-early-man-site-history-v2",
+      "descriptionAdvanced": "Situl Sangiran din Java Centrală este unul dintre cele mai importante locuri din lume pentru înțelegerea evoluției umane. Acest sit arheologic și paleontologic de 56 km pătrați a furnizat dovezi cruciale despre prezența timpurie a lui Homo erectus, cunoscut și sub numele de „Omul de Java”. De-a lungul deceniilor, cercetătorii au descoperit aici peste 100 de fosile de hominizi, reprezentând aproximativ jumătate din totalul fosilelor de acest tip găsite la nivel mondial. Pe lângă rămășițele umane, straturile geologice de la Sangiran au scos la iveală numeroase fosile de animale preistorice și unelte primitive de piatră. Valoarea sa științifică este inestimabilă pentru reconstrucția istoriei umane pe parcursul a peste 1,5 milioane de ani. Istorie K8 — originile umanității și evoluția biologică.",
+      "factsAdvanced": [
+        "Atestă prezența umană în regiune de acum 1,5 milioane de ani.",
+        "Primul craniu de Homo erectus a fost găsit aici de G.H.R. von Koenigswald în 1936.",
+        "Aici s-au descoperit peste 50% din fosilele de hominizi din lume.",
+        "Situl a fost inclus în Patrimoniul Mondial UNESCO în 1996.",
+        "Suprafața protejată a sitului este de aproximativ 5.600 de hectare.",
+        "Fosilele de animale includ elefanți antici, crocodili și porci mistreți.",
+        "Muzeul Sangiran expune numeroase cranii și unelte preistorice.",
+        "Straturile sedimentare reflectă schimbări climatice majore de-a lungul erelor."
+      ]
+    },
+    {
+      "id": "goa-gajah-history-v2",
+      "descriptionAdvanced": "Goa Gajah, cunoscută și sub numele de „Peștera Elefantului”, este un sit arheologic și spiritual situat în apropiere de Ubud, pe insula Bali. Datând din secolul al IX-lea, situl se remarcă prin intrarea sa sculptată în mod elaborat, care înfățișează o față amenințătoare menită să alunge spiritele rele. În interiorul peșterii se află simboluri religioase importante, inclusiv o statuie a zeului Ganesha și lingam-uri dedicate lui Shiva. Complexul include, de asemenea, bazine de scăldat ritualic cu fântâni sculptate în formă de nimfe. Combinația de elemente hinduse și budiste indică o lungă istorie de utilizare religioasă sincretică. Înconjurat de vegetație luxuriantă, Goa Gajah oferă o privire fascinantă în tradițiile mistice și arta veche balineză. Istorie K8 — credințe religioase și artă rupestră.",
+      "factsAdvanced": [
+        "Situat la intersecția a două râuri, considerat un loc sacru de meditație.",
+        "Fațada sculptată reprezintă probabil un demon sau zeul pământului, Bhoma.",
+        "Prima menționare scrisă apare în poemul javanez Desawarnana din 1365.",
+        "Bazinele rituale de scăldat au fost excavate abia în anul 1954.",
+        "Interiorul peșterii este mic și are forma literei „T”.",
+        "Conține trei lingam-uri și o statuie a lui Ganesha, zeul cu cap de elefant.",
+        "Include relicve budiste, cum ar fi fragmente de stupe în apropierea râului.",
+        "Este un sit activ de rugăciune pentru localnicii balinezi."
+      ]
+    },
+    {
+      "id": "gunung-kawi-temple-history-v2",
+      "descriptionAdvanced": "Gunung Kawi este unul dintre cele mai vechi și spectaculoase monumente din Bali, constând în zece altare (candi) sculptate direct în fața stâncilor de gresie ale unei văi adânci. Acest complex funerar din secolul al XI-lea este dedicat regelui Anak Wungsu și familiei sale regale din dinastia Udayana. Fiecare altar imită forma unui templu tradițional javanez și este plasat în interiorul unei nișe înalte de șapte metri. Pentru a ajunge la monumente, vizitatorii trebuie să coboare peste 300 de trepte prin terase de orez pitorești, traversând râul Pakerisan pe un pod de piatră. Atmosfera sacră este completată de numeroasele chilii de meditație săpate în stâncă, folosite odinioară de călugări și asceți budiști. Istorie K8 — ritualuri funerare și regate indoneziene.",
+      "factsAdvanced": [
+        "Construit în secolul al XI-lea în timpul dinastiei Udayana.",
+        "Cele 10 altare sunt dedicate regelui Anak Wungsu și soțiilor sale.",
+        "Altarele sunt sculptate în pereții de stâncă la o înălțime de 7 metri.",
+        "Situl include chilii pentru călugări, indicând un rol monastic.",
+        "Situat de-a lungul râului sacru Pakerisan din regiunea Tampaksiring.",
+        "Vizitatorii trebuie să coboare 270-315 trepte pentru a ajunge la sit.",
+        "Combină elemente de hinduism și budism, specifice perioadei.",
+        "Este considerat unul dintre cele mai mari monumente antice din Bali."
+      ]
+    },
+    {
+      "id": "trowulan-archaeological-site-history-v2",
+      "descriptionAdvanced": "Trowulan este singurul sit urban din epoca clasică hindus-budistă din Indonezia, fiind considerat fosta capitală a Imperiului Majapahit, care a dominat Asia de Sud-Est între secolele XIII și XVI. Întins pe o suprafață vastă în Java de Est, situl cuprinde numeroase monumente din cărămidă roșie, inclusiv porți monumentale precum Wringin Lawang și Bajang Ratu. Descoperirile arheologice de aici includ sisteme complexe de gestionare a apei, cum ar fi bazinul Segaran, și dovezi ale unei vieți urbane efervescente. Trowulan oferă cercetătorilor date prețioase despre structura socială, politică și economică a celui mai mare imperiu maritim din istoria Indoneziei, reflectând apogeul civilizației javaneze înainte de ascensiunea islamului. Istorie K8 — imperii maritime și dezvoltare urbană.",
+      "factsAdvanced": [
+        "Capitala Imperiului Majapahit în perioada sa de glorie (1293–1527).",
+        "Situl acoperă o suprafață estimată la aproximativ 100 de kilometri pătrați.",
+        "Bazinul Segaran este un rezervor imens de 800 x 500 de metri.",
+        "Poarta Bajang Ratu a fost construită în secolul al XIV-lea ca monument comemorativ.",
+        "Wringin Lawang este o poartă despicată (candi bentar) din cărămidă roșie.",
+        "Excavațiile au scos la iveală locuințe, piețe și ateliere de ceramică.",
+        "Aici se găsesc și morminte islamice timpurii, precum cel al prințesei de Champa.",
+        "Numele este menționat în poemul Nagarakretagama scris în 1365."
+      ]
+    },
+    {
+      "id": "fort-rotterdam-makassar-history-v2",
+      "descriptionAdvanced": "Fort Rotterdam este o fortăreață istorică bine conservată din orașul Makassar, pe insula Sulawesi. Construit inițial în 1545 de către regatul Gowa, fortul se numea Jumpandang și era construit din pământ și piatră. După cucerirea de către olandezi în secolul al XVII-lea, acesta a fost reconstruit în stil european și redenumit Fort Rotterdam. Fortul a servit ca sediu militar și comercial pentru Compania Olandeză a Indiilor de Est (VOC), fiind un punct strategic pentru controlul comerțului cu mirodenii din regiune. Astăzi, incinta fortului găzduiește Muzeul La Galigo, care expune artefacte istorice și etnografice ale popoarelor din Sulawesi de Sud. Arhitectura sa robustă și istoria sa bogată îl fac un simbol al rezistenței și transformărilor coloniale. Istorie K8 — colonialismul și rutele comerciale.",
+      "factsAdvanced": [
+        "Construit inițial de regele Gowa al IX-lea, I Manrigau Daeng Bonto Karaeng Lakiung.",
+        "Cedat olandezilor în 1667 prin Tratatul de la Bongaya.",
+        "Redenumit de Cornelis Speelman după locul său de naștere, Rotterdam.",
+        "Are forma unei țestoase, simbol al regatului Gowa care proteja marea.",
+        "A servit drept închisoare pentru prințul rebel Javanese Diponegoro între 1833-1855.",
+        "Zidurile fortului au o înălțime de 7 metri și o grosime de 2 metri.",
+        "Găzduiește Muzeul La Galigo cu peste 5.000 de piese de colecție.",
+        "Este unul dintre cele mai bine conservate exemple de arhitectură militară olandeză."
+      ]
+    },
+    {
+      "id": "muara-takus-temples-history-v2",
+      "descriptionAdvanced": "Muara Takus este un complex de temple budiste situate în provincia Riau, Sumatra, fiind singurul sit de acest tip din regiune construit în întregime din cărămidă roșie și piatră de râu. Datând probabil din perioada Imperiului Srivijaya (secolele XI-XII), complexul reflectă influența budismului Mahayana în arhipelag. Structura centrală, Candi Mahligai, se distinge prin forma sa înaltă și subțire, care seamănă cu o stupă budistă, având o bază octogonală unică. Deși mult mai mic decât monumentele din Java, Muara Takus este esențial pentru înțelegerea expansiunii culturale a regatului Srivijaya și a schimburilor religioase dintre Sumatra și restul Asiei. Situl este înconjurat de un zid defensiv de piatră, subliniind importanța sa spirituală și strategică. Istorie K8 — regatele Sumatrei și budismul timpuriu.",
+      "factsAdvanced": [
+        "Cel mai vechi complex de temple din Sumatra, legat de Imperiul Srivijaya.",
+        "Singurul templu din Indonezia construit din cărămidă roșie și gresie.",
+        "Templul principal, Candi Mahligai, are o înălțime de 14,3 metri.",
+        "Stilul arhitectural prezintă asemănări cu templele din Ashoka, India.",
+        "Complexul include patru structuri principale: Mahligai, Tua, Bungsu și Palangka.",
+        "Redescoperit de exploratorul european Cornet De Groot în 1860.",
+        "Se crede că a fost un centru important de învățământ budist.",
+        "Inclus pe lista indicativă pentru Patrimoniul Mondial UNESCO."
+      ]
+    },
+    {
+      "id": "lawang-sewu-history-v2",
+      "descriptionAdvanced": "Lawang Sewu, care în limba javaneză înseamnă „O mie de uși”, este o clădire istorică emblematică situată în Semarang, Java Centrală. Construită între 1904 și 1907 ca sediu al Companiei Căilor Ferate din Indiile Orientale Olandeze (NIS), clădirea este un exemplu remarcabil de arhitectură colonială cu elemente de design adaptate climatului tropical. Deși numele sugerează un număr imens de uși, acesta se referă de fapt la numeroasele ferestre mari și înalte care asigură ventilația naturală. În timpul celui de-al Doilea Război Mondial, clădirea a fost locul unor bătălii aprige între tinerii naționaliști indonezieni și forțele japoneze. Astăzi, Lawang Sewu este o atracție turistică majoră, fiind cunoscută atât pentru frumusețea vitraliilor sale, cât și pentru legendele urbane despre fenomene paranormale. Istorie K8 — arhitectură colonială și istorie modernă.",
+      "factsAdvanced": [
+        "Proiectată de arhitecții olandezi Cosman Citroen și B.J. Ouendag.",
+        "Prima clădire din Indonezia care a folosit o structură de beton armat.",
+        "Vitraliile superbe de la etaj au fost realizate de Johannes Lourens Schouten.",
+        "În 1945, a fost scena „Bătăliei de cinci zile” din Semarang.",
+        "Subsolul a fost folosit ca închisoare de trupele japoneze de ocupație.",
+        "A servit drept sediu pentru diverse instituții militare indoneziene după 1945.",
+        "Restaurată complet de Căile Ferate Indoneziene (KAI) în 2011.",
+        "Numele popular provine de la numărul mare de deschideri ale fațadei."
+      ]
+    },
+    {
+      "id": "kraton-yogyakarta-history-v2",
+      "descriptionAdvanced": "Kraton Yogyakarta este palatul oficial al Sultanului de Yogyakarta și inima culturală a orașului. Construit în 1755 de către Sultanul Hamengkubuwono I, complexul este un exemplu strălucit de arhitectură tradițională javaneză, reflectând cosmologia și filozofia locală. Palatul nu este doar o reședință regală, ci și un centru activ pentru păstrarea tradițiilor, găzduind spectacole de dans clasic, muzică gamelan și expoziții de artefacte regale. Structura sa este organizată în mai multe curți interioare legate prin porți ceremoniale, fiecare având o semnificație simbolică profundă. Kraton rămâne unul dintre puținele locuri unde monarhia coexistă cu republica modernă indoneziană, Sultanul jucând și rolul de guvernator al Regiunii Speciale Yogyakarta. Istorie K8 — monarhii tradiționale și identitate culturală.",
+      "factsAdvanced": [
+        "Fondat în 1755 în urma Tratatului de la Giyanti.",
+        "Aliniat pe o axă imaginară între Muntele Merapi și Oceanul Indian.",
+        "Găzduiește „Abdi Dalem”, servitori loiali care păstrează tradițiile palatului.",
+        "Pavilionul central se numește Bangsal Kencono (Pavilionul de Aur).",
+        "Include un muzeu dedicat Sultanului Hamengkubuwono IX.",
+        "Arhitectura combină stilul javanez cu influențe europene (baroc și rococo).",
+        "În interior sunt păstrate „pusaka” (obiecte sacre) precum pumnale kris și calești.",
+        "Este centrul ceremoniilor anuale precum Sekaten și Garebeg."
+      ]
+    },
+    {
+      "id": "banda-neira-forts-history-v2",
+      "descriptionAdvanced": "Insulele Banda, din provincia Maluku, au fost timp de secole singura sursă de nucșoară din lume, devenind centrul unor conflicte intense între puterile coloniale europene. Fortul Belgica, situat pe dealul Banda Neira, este o fortăreață impresionantă în formă de stea construită de olandezi în 1611 pentru a proteja monopolul asupra mirodeniilor. Alături de acesta se află ruinele Fortului Nassau, prima fortificație olandeză din zonă. Aceste structuri masive de piatră stau mărturie pentru importanța strategică imensă a acestui arhipelag izolat în perioada marilor descoperiri geografice. Istoria acestor forturi este marcată de episoade violente, dar și de momente diplomatice cruciale, precum schimbul insulei Run cu Manhattan între englezi și olandezi. Istorie K8 — comerțul cu mirodenii și expansiunea europeană.",
+      "factsAdvanced": [
+        "Fortul Belgica a fost construit în 1611 de amiralul Pieter Both.",
+        "Are o formă pentagonală unică (stea) cu cinci bastioane înalte.",
+        "Inclus pe lista indicativă UNESCO pentru patrimoniul său istoric.",
+        "Insulele Banda au fost singura sursă mondială de nucșoară până în secolul XIX.",
+        "Fortul Nassau a fost construit pe fundațiile unei fortificații portugheze.",
+        "În 1621, aici a avut loc masacrul bandanezilor condus de Jan Pieterszoon Coen.",
+        "Banda Neira a fost loc de exil pentru liderii indonezieni Hatta și Sjahrir.",
+        "Fortul Belgica este supranumit „Pentagonul Indoneziei”."
+      ]
+    },
+    {
+      "id": "surabaya-heroes-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Eroilor (Tugu Pahlawan) este simbolul principal al orașului Surabaya, construit pentru a comemora sacrificiul tinerilor luptători în timpul Bătăliei de la Surabaya din 10 noiembrie 1945. Această bătălie a fost cea mai mare confruntare militară a Revoluției Indoneziene și a devenit un catalizator pentru independența țării. Monumentul are forma unui cui inversat, cu o înălțime de 41 de metri, și este decorat cu sculpturi ce simbolizează rezistența poporului. La baza monumentului se află un muzeu subteran care expune diorame, fotografii și înregistrări audio originale din timpul conflictului. Vizita la acest sit oferă o perspectivă emoționantă asupra luptei pentru autodeterminare și este un loc de pelerinaj patriotic pentru mulți indonezieni. Istorie K8 — mișcări de eliberare națională și independență.",
+      "factsAdvanced": [
+        "Inaugurat de președintele Sukarno pe 10 noiembrie 1952.",
+        "Înălțimea de 41,15 metri este împărțită în 10 secțiuni cu 11 arcuri.",
+        "Forma monumentului simbolizează un „lingga” (energie creatoare) și un cui.",
+        "Muzeul de sub monument conține 10 diorame ale evenimentelor din 1945.",
+        "Data de 10 noiembrie este sărbătorită anual în Indonezia ca Ziua Eroilor.",
+        "Monumentul este situat pe fostul loc al tribunalului olandez (Raad van Justitie).",
+        "Include o statuie a lui Bung Tomo, liderul spiritual al rezistenței.",
+        "Inscripțiile de pe monument proclamă lozincile revoluționare de epocă."
+      ]
+    },
+    {
+      "id": "gedong-songo-temples-history-v2",
+      "descriptionAdvanced": "Gedong Songo este un grup de temple hinduse din secolul al VIII-lea, situate pe pantele Muntelui Ungaran din Java Centrală, la o altitudine de aproximativ 1.200 de metri. Numele provine din limba javaneză și înseamnă „Nouă Clădiri”, deși astăzi mai sunt vizibile doar cinci grupuri de temple principale. Aceste monumente aparțin perioadei timpurii a Regatului Mataram și sunt dedicate zeului Shiva. Locația lor oferă priveliști spectaculoase asupra norilor și munților din jur, iar aerul rece și prezența izvoarelor termale adaugă o notă de misticism întregului complex. Arhitectura simplă, dar elegantă, din piatră de andezit, reflectă influența artei indiene adaptată contextului local javanez, fiind printre cele mai vechi structuri religioase de pe insulă. Istorie K8 — hinduismul în Java și arhitectura sacră.",
+      "factsAdvanced": [
+        "Construite între anii 730 și 780 d.Hr., în timpul dinastiei Sanjaya.",
+        "Templele sunt răspândite pe o distanță de câțiva kilometri pe munte.",
+        "Redescoperite de Sir Thomas Stamford Raffles în anul 1804.",
+        "Sunt dedicate lui Shiva și conțin sculpturi cu Ganesha și Agastya.",
+        "Situat la o altitudine de 1.200 m, oferind o panoramă a cinci vulcani.",
+        "Include zone cu izvoare termale bogate în sulf, folosite pentru tratament.",
+        "Restaurările majore au fost efectuate de departamentul arheologic olandez.",
+        "Complexul este considerat un loc ideal pentru meditație datorită liniștii."
+      ]
+    },
+    {
+      "id": "dieng-plateau-temples-history-v2",
+      "descriptionAdvanced": "Platoul Dieng, situat la 2.000 de metri deasupra nivelului mării, găzduiește cele mai vechi temple hinduse din Java, datând din secolele VII și VIII. Acest „Lăcaș al Zeilor” (semnificația numelui Dieng) cuprinde un grup de temple mici, numite după personajele din epopeea Mahabharata, cum ar fi Arjuna, Gatotkaca și Bima. Arhitectura lor este sobră și compactă, reprezentând primele faze ale stilului clasic javanez. Platoul însuși este o calderă vulcanică activă, caracterizată prin lacuri colorate și cratere care fumegă, creând un peisaj dramatic care a inspirat credințele religioase timpurii. Deși majoritatea celor 400 de temple originale au dispărut, vestigiile rămase oferă dovezi neprețuite despre zorii civilizației hinduse în Arhipelagul Indonezian. Istorie K8 — rădăcinile culturii javaneze și vulcanism.",
+      "factsAdvanced": [
+        "Cele mai vechi structuri religioase din piatră din Java (sec. VII-VIII).",
+        "Templele sunt numite după eroii Pandava din epopeea Mahabharata.",
+        "Templul Bima are un stil arhitectural unic cu influențe din India de Nord.",
+        "Situat într-o calderă vulcanică la o altitudine de peste 2.000 de metri.",
+        "Inițial existau peste 400 de temple pe platou, conform cronicilor.",
+        "Cunoscut pentru fenomenul de „îngheț” matinal în lunile iulie și august.",
+        "Găzduiește anual Dieng Culture Festival, faimos pentru ritualul tăierii părului.",
+        "Include Candi Arjuna, cel mai bine conservat grup de temple din sit."
+      ]
+    },
+    {
+      "id": "bali-bombing-memorial-history-v2",
+      "descriptionAdvanced": "Memorialul Atentatelor din Bali, cunoscut și sub numele de „Ground Zero”, este un monument sobru situat în inima zonei Kuta, locul unde au avut loc exploziile tragice din 12 octombrie 2002. Acest monument a fost ridicat pentru a onora memoria celor 202 victime din peste 20 de țări care și-au pierdut viața în cel mai sângeros atac terorist din istoria Indoneziei. Structura centrală este o placă mare de marmură sculptată, pe care sunt gravate numele tuturor celor decedați, flancată de steagurile națiunilor respective. Memorialul servește ca un spațiu de reculegere și un memento permanent al necesității păcii și toleranței globale. În fiecare an, pe 12 octombrie, supraviețuitorii și familiile victimelor se adună aici pentru ceremonii comemorative pline de emoție. Istorie K8 — terorismul global și solidaritatea internațională.",
+      "factsAdvanced": [
+        "Inaugurat oficial pe 12 octombrie 2004, la doi ani de la atacuri.",
+        "Atentatele au vizat cluburile de noapte Paddy's Pub și Sari Club.",
+        "Monumentul conține o placă de marmură cu numele a 202 victime.",
+        "Australia a pierdut cei mai mulți cetățeni în atac (88 de persoane).",
+        "Stilul arhitectural este balinez, cu sculpturi detaliate în piatră.",
+        "Monumentul este situat exact pe locul unde se afla Paddy's Pub.",
+        "Inscripția îndeamnă la pace și la respingerea violenței.",
+        "Este unul dintre cele mai vizitate locuri din Kuta pentru reflecție."
+      ]
+    },
+    {
+      "id": "sumba-megalithic-tombs-history-v2",
+      "descriptionAdvanced": "Insula Sumba din Indonezia de Est este renumită pentru păstrarea uneia dintre ultimele culturi megalitice active din lume. Mormintele megalitice masive, sculptate din blocuri uriașe de piatră, sunt elemente centrale ale satelor tradiționale sumbaneze. Aceste structuri nu sunt doar monumente funerare, ci simboluri ale statutului social și ale legăturii spirituale neîntrerupte cu strămoșii, conform religiei indigene Marapu. Procesul de transportare și cioplire a pietrelor necesită un efort colectiv imens și sacrificii rituale de animale. Vizitarea acestor sate oferă o experiență unică de întoarcere în timp, unde tradițiile epocii bronzului și fierului continuă să fie practicate cu sfințenie în viața de zi cu zi. Istorie K8 — culturi megalitice și credințe ancestrale.",
+      "factsAdvanced": [
+        "Sumba este unul dintre puținele locuri unde megalitismul este încă practicat.",
+        "Mormintele pot cântări zeci de tone și sunt trase manual de sute de oameni.",
+        "Religia locală se numește Marapu și se bazează pe cultul strămoșilor.",
+        "Sculpturile de pe morminte reprezintă animale, kris-uri sau motive Ikat.",
+        "Satul Ratenggaro este faimos pentru mormintele sale înalte de lângă mare.",
+        "Costul unui mormânt poate depăși veniturile unei familii pe mai mulți ani.",
+        "Mormintele sunt amplasate de obicei în centrul satului (paraing).",
+        "Sacrificiul bivolilor de apă este esențial în ceremoniile funerare."
+      ]
+    },
+    {
+      "id": "gunungan-historical-park-history-v2",
+      "descriptionAdvanced": "Taman Sari Gunongan, situat în Banda Aceh, este un monument istoric remarcabil construit în secolul al XVII-lea de către Sultanul Iskandar Muda pentru soția sa iubită, o prințesă din Malaezia. Structura din piatră albă, în formă de munte etajat, a fost concepută ca un loc de recreere unde prințesa se putea juca și medita, amintindu-i de peisajele muntoase din patria sa natală. Gunongan este un exemplu rar de arhitectură seculară din perioada Sultanatului Aceh, reflectând rafinamentul cultural și bogăția acelei epoci. Monumentul a supraviețuit miraculos tsunami-ului din 2004, rămânând un simbol al dragostei regale și al istoriei glorioase a regiunii Aceh, odinioară un puternic centru islamic și comercial. Istorie K8 — sultanate islamice și arhitectură de grădină.",
+      "factsAdvanced": [
+        "Construit între 1607-1636 de cel mai mare sultan din Aceh, Iskandar Muda.",
+        "Dedicat prințesei Kamaliah din Pahang, cunoscută ca Putroe Phang.",
+        "Forma sa octogonală simbolizează un munte sacru.",
+        "Include un stâlp central prin care se poate urca la nivelul superior.",
+        "Lângă monument se află „Pinto Khop”, o poartă regală de acces.",
+        "Folosit inițial ca loc de baie și recreere pentru familia regală.",
+        "Unul dintre puținele vestigii intacte ale palatului original al sultanului.",
+        "Arhitectura prezintă o fuziune de stiluri islamice și malaeziene."
+      ]
+    },
+    {
+      "id": "jakarta-old-town-history-v2",
+      "descriptionAdvanced": "Centrul Vechi al Jakartei, cunoscut sub numele de Kota Tua, reprezintă nucleul istoric al capitalei indoneziene și fosta inimă a coloniei olandeze Batavia. Centrat în jurul Pieței Fatahillah, acest district păstrează clădiri coloniale impunătoare din secolele XVIII și XIX, care au servit drept centre administrative ale Companiei Olandeze a Indiilor de Est (VOC). Arhitectura europeană cu ferestre mari și acoperișuri înalte contrastează cu viața vibrantă a străzii de astăzi, unde artiști, turiști și localnici se adună zilnic. Vizitatorii pot explora muzee de istorie, artă și marionete (wayang), toate găzduite în foste clădiri guvernamentale. Kota Tua este un martor tăcut al transformării unui avanpost comercial într-o metropolă modernă, păstrând farmecul melancolic al epocii trecute. Istorie K8 — epoca marilor companii comerciale și urbanism colonial.",
+      "factsAdvanced": [
+        "Cunoscută în perioada colonială drept „Bijuteria Asiei”.",
+        "Piața Fatahillah a fost centrul administrativ al Bataviei olandeze.",
+        "Muzeul de Istorie a Jakartei este găzduit în fostul sediu al primăriei (Stadhuis).",
+        "Canalele din zonă au fost construite de olandezi pentru a imita Amsterdamul.",
+        "Podul de Aur (Hoenderpasarbrug) este singurul pod basculant olandez rămas.",
+        "Café Batavia, situată în piață, funcționează într-o clădire din 1830.",
+        "Gara Jakarta Kota din apropiere este un monument de artă deco.",
+        "Situl este în proces de revitalizare pentru a deveni patrimoniu UNESCO."
+      ]
+    },
+    {
+      "id": "monas-national-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Național (Monas) este simbolul mândru al luptei Indoneziei pentru independență, dominând centrul Pieței Merdeka din Jakarta. Acest obelisc impunător, cu o înălțime de 132 de metri, este încununat de o flacără de bronz suflată cu 35 de kilograme de aur, reprezentând spiritul neobosit al poporului indonezian. Construcția a început în 1961 sub președintele Sukarno și a fost finalizată în 1975. La baza monumentului se află Muzeul Național de Istorie, care prezintă evoluția Indoneziei prin 48 de diorame detaliate. Vizitatorii pot urca la platforma de observație de la vârf pentru o vedere panoramică asupra metropolei. Monas nu este doar o atracție turistică, ci și un spațiu civic central pentru manifestări naționale și evenimente comunitare. Istorie K8 — state moderne și simboluri naționale.",
+      "factsAdvanced": [
+        "Înălțimea totală este de 132 de metri (433 picioare).",
+        "Flacăra de la vârf este acoperită cu aproximativ 35-50 kg de aur pur.",
+        "Proiectat de arhitecții indonezieni Soedarsono și Frederich Silaban.",
+        "Simbolizează filozofia lingga (cui) și yoni (cupă) a fertilității și echilibrului.",
+        "Găzduiește originalul Declarației de Independență a Indoneziei.",
+        "Piața Merdeka din jur este una dintre cele mai mari piețe urbane din lume.",
+        "Platforma de observație se află la înălțimea de 115 metri.",
+        "Muzeul de la bază acoperă istoria din preistorie până în epoca modernă."
+      ]
+    },
+    {
+      "id": "jakarta-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Catedrala din Jakarta, situată în centrul capitalei, este o capodoperă a stilului neogotic, fiind sediul Arhiepiscopiei Romano-Catolice din Jakarta. Inaugurată în 1901, biserica impresionează prin cele trei turnuri înalte din fier, o soluție arhitecturală aleasă pentru a rezista cutremurelor frecvente din regiune. Interiorul este decorat cu vitralii colorate și altare sculptate fin, oferind o atmosferă de liniște în contrast cu agitația orașului. Amplasarea sa strategică, exact vizavi de Moscheea Istiqlal, este considerată un simbol puternic al toleranței religioase și al armoniei naționale în Indonezia („Bhinneka Tunggal Ika”). Catedrala găzduiește și un mic muzeu care expune obiecte liturgice istorice și documente despre răspândirea catolicismului în arhipelag. Istorie K8 — diversitate religioasă și arhitectură creștină în Asia.",
+      "factsAdvanced": [
+        "Numele oficial este Catedrala Sfânta Maria a Adormirii.",
+        "Construită între 1891 și 1901 de arhitectul Antonius Dijkmans.",
+        "Cele trei turnuri principale sunt numite Turnul Fortăreței, Turnul Îngerului și Turnul David.",
+        "Turnurile sunt realizate dintr-un cadru metalic pentru a fi rezistente la seisme.",
+        "Piatra de temelie a fost binecuvântată în 1899.",
+        "Amplasată simbolic vizavi de cea mai mare moschee din Asia de Sud-Est.",
+        "Muzeul catedralei conține peste 400 de relicve și artefacte.",
+        "A fost declarată monument cultural protejat de guvernul indonezian."
+      ]
+    },
+    {
+      "id": "suramadu-bridge-landmarks-v2",
+      "descriptionAdvanced": "Podul Suramadu, care leagă orașul Surabaya de pe insula Java de insula Madura, este cel mai lung pod din Indonezia și o realizare inginerească de excepție. Inaugurat în 2009, acest pod hobanat se întinde pe o distanță de 5,4 kilometri peste strâmtoarea Madura, scurtând semnificativ timpul de călătorie și stimulând economia regională. Designul său modern include o secțiune centrală înaltă, permițând navelor mari să treacă pe dedesubt. Noaptea, podul este iluminat spectaculos, devenind un reper vizual major al regiunii Java de Est. Construcția sa a implicat colaborări internaționale și a fost un proiect ambițios menit să reducă disparitățile economice dintre cele două insule, simbolizând progresul infrastructurii indoneziene în secolul XXI. Geografie K8 — infrastructura de transport și dezvoltarea regională.",
+      "factsAdvanced": [
+        "Lungimea totală a podului este de 5.438 de metri.",
+        "Numele Suramadu provine din fuziunea numelor Surabaya și Madura.",
+        "Inaugurat oficial de președintele Susilo Bambang Yudhoyono în iunie 2009.",
+        "Secțiunea principală are o deschidere de 434 de metri între piloni.",
+        "Pilonii centrali au o înălțime de 140 de metri deasupra apei.",
+        "A fost construit printr-un consorțiu de companii indoneziene și chineze.",
+        "Include benzi dedicate pentru motociclete pe ambele părți.",
+        "Este prima autostradă suspendată de acest tip din Indonezia."
+      ]
+    },
+    {
+      "id": "bajra-sandhi-monument-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Bajra Sandhi din Denpasar este un punct de reper impunător care celebrează luptele poporului balinez de-a lungul istoriei. Arhitectura monumentului este profund simbolică, având forma unui „Bajra” (clopot de rugăciune hindus) și încorporând principiile filozofice ale hinduismului balinez. Structura este împărțită în trei secțiuni care reprezintă universul budist-hindus: baza, corpul și vârful. În interior, vizitatorii pot explora 33 de diorame care descriu evenimente istorice majore, de la era preistorică până la lupta pentru independență împotriva colonizatorilor. Situat în mijlocul unui parc vast și verde, monumentul nu este doar un loc de omagiu istoric, ci și un spațiu popular pentru recreere și evenimente culturale în capitala insulei Bali. Istorie K8 — rezistența locală și simbolistica religioasă.",
+      "factsAdvanced": [
+        "Construcția a început în 1987 și a fost finalizată în 2001.",
+        "Numele provine de la forma de clopot (Bajra) folosit de preoții balinezi.",
+        "Arhitectura respectă principiile Tri Hita Karana (armonia între om, natură și divin).",
+        "Dioramele din interior sunt dispuse într-o galerie circulară.",
+        "Monumentul are 17 porți de intrare, 8 stâlpi și o înălțime de 45 de metri.",
+        "Aceste numere (17-8-45) simbolizează data independenței Indoneziei.",
+        "Există o scară în spirală care duce la o platformă de observare la vârf.",
+        "Situl este înconjurat de parcul Niti Mandala din centrul orașului Denpasar."
+      ]
+    },
+    {
+      "id": "maimun-palace-landmarks-v2",
+      "descriptionAdvanced": "Palatul Maimun din Medan este o bijuterie arhitecturală a Sultanatului Deli, faimos pentru designul său eclectic care îmbină elemente malaeziene, islamice, spaniole, indiene și italiene. Construit în 1888 de Sultanul Ma'mun Al Rashid Perkasa Alamyah, palatul strălucește prin culoarea sa galbenă, simbolul regalității în cultura malaeziană. Interiorul generos este decorat cu mobilier european de lux, candelabre de cristal și vitralii, reflectând bogăția provenită din plantațiile de tutun din regiune. O atracție deosebită este „Tunul Blestemat” (Meriam Puntung), despre care legendele locale spun că are puteri mistice. Palatul rămâne o reședință activă pentru familia regală a Deli, dar părți importante sunt deschise publicului pentru vizitare. Istorie K8 — aristocrația malaeziană și schimburi culturale.",
+      "factsAdvanced": [
+        "Construit între 1888 și 1891, ocupând o suprafață de 2.772 m².",
+        "Proiectat de căpitanul italian Theo van Erp, un arhitect al armatei olandeze.",
+        "Palatul are în total 30 de camere și o fațadă galbenă iconică.",
+        "Galbenul reprezintă culoarea tradițională a sultanatelor malaeziene.",
+        "Găzduiește o colecție impresionantă de portrete regale și tronul sultanului.",
+        "Legenda Meriam Puntung spune că tunul este de fapt un prinț transformat.",
+        "Arcurile în formă de potcoavă sunt influențate de arhitectura maură.",
+        "Este considerat cea mai frumoasă clădire istorică din nordul Sumatrei."
+      ]
+    },
+    {
+      "id": "equator-monument-pontianak-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Ecuatorului din Pontianak, Kalimantanul de Vest, marchează locația exactă a liniei ecuatoriale care împarte Pământul în emisferele nordică și sudică. Construit inițial în 1928 ca un simplu pilon de lemn de către un geograf olandez, monumentul a fost extins și modernizat de mai multe ori. Structura actuală cuprinde un monument mai mare construit deasupra celui original pentru a-l proteja. Două momente speciale au loc aici în fiecare an, în timpul echinocțiilor de primăvară și toamnă, când soarele se află direct deasupra capului, iar obiectele verticale nu lasă nicio umbră. Acest fenomen astronomic unic, împreună cu istoria sa geografică, face din Pontianak „Orașul Ecuatorului” și o destinație fascinantă pentru cei pasionați de știință și geografie. Geografie K8 — coordonate geografice și fenomene astronomice.",
+      "factsAdvanced": [
+        "Prima versiune a fost construită în 1928 folosind un stâlp de lemn de belian.",
+        "Pontianak este singurul oraș din lume situat exact pe linia ecuatorului.",
+        "Echinocțiul are loc între 21-23 martie și 21-23 septembrie.",
+        "În timpul echinocțiului, umbrele dispar complet timp de câteva minute la amiază.",
+        "Inscripția originală marchează latitudinea de 0 grade, 0 minute și 0 secunde.",
+        "Există un muzeu în interiorul domului care explică fenomenele geografice.",
+        "Oul poate fi făcut să stea în echilibru pe capăt în timpul echinocțiului.",
+        "Monumentul modern a fost inaugurat în septembrie 1991."
+      ]
+    }
+  ]
+}

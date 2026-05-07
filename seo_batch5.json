@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "leuchtturm-swakopmund-history-v2",
+      "descriptionAdvanced": "Der historische Leuchtturm in Swakopmund ist eines der bekanntesten Seezeichen an der Skelettküste und ein Symbol für die maritime Geschichte der Stadt. Er wurde 1902 in Betrieb genommen, um Schiffe sicher durch die oft extrem dichten Nebelbänke des kalten Benguelastroms in den künstlichen Hafen der deutschen Kolonie zu leiten. Ursprünglich war der Turm nur 11 Meter hoch, wurde aber bereits 1910 um weitere 10 Meter auf seine heutige Höhe von 21 Metern aufgestockt, da er durch wachsende Gebäude im Stadtzentrum verdeckt wurde. Heute überragt der rot-weiß gestreifte Leuchtturm stolz die Mole und beherbergt im angrenzenden alten Leuchtturmwärterhaus ein gemütliches Restaurant. Architektur K7 — Maritime Navigation und Küstenbauwerke.",
+      "factsAdvanced": [
+        "Der Leuchtturm wurde im Juli 1902 offiziell in Betrieb genommen.",
+        "Im Jahr 1910 wurde der Turm wegen mangelnder Sichtbarkeit um 10 Meter erhöht.",
+        "Das charakteristische rote-weiße Streifenmuster hilft der Erkennbarkeit bei dichtem Küstennebel.",
+        "Die ursprüngliche Lichtquelle wurde mit Petroleum betrieben und hatte eine Reichweite von 14 Seemeilen.",
+        "Der Turm ist noch heute aktiv und dient der Navigation an der oft gefährlichen Küste.",
+        "Er wurde im Jahr 2004 offiziell zum nationalen Denkmal von Namibia erklärt."
+      ]
+    },
+    {
+      "id": "hohenzollernhaus-history-v2",
+      "descriptionAdvanced": "Das Hohenzollernhaus in Swakopmund ist ein prachtvolles Relikt der wilhelminischen Zeit und eines der markantesten Gebäude der Stadt. Es wurde 1906 ursprünglich als Luxushotel mit 38 Zimmern erbaut, um dem wachsenden Bedarf an Unterkünften während des Baubooms in Deutsch-Südwestafrika gerecht zu werden. Die Architektur ist verspielt und reich verziert, gekrönt von einer Atlas-Skulptur, die auf dem Dachfirst die Weltkugel trägt. Nach einer Zwangsversteigerung in den 1920er Jahren wurde das opulente Gebäude als Verwaltungssitz und später in ein Apartmenthaus umgewandelt. Das Haus ist ein steingewordenes Zeugnis des unglaublichen architektonischen Aufwands, der in dieser Wüstenstadt betrieben wurde. Architektur K8 — Wilhelminischer Prunk in Afrika.",
+      "factsAdvanced": [
+        "Das Gebäude wurde im Jahr 1906 nach Plänen des Architekten Hermann Dietz fertiggestellt.",
+        "Auf dem Dachfirst thront eine prominente Statue des Atlas mit der Weltkugel.",
+        "Das Gebäude wurde nach dem deutschen Herrschergeschlecht der Hohenzollern benannt.",
+        "Ursprünglich diente es als gehobenes Hotel für Verwaltungsbeamte und Geschäftsleute.",
+        "1972 drohte dem Gebäude der Abriss, es wurde jedoch gerettet und restauriert.",
+        "Es wurde 1983 offiziell als Nationaldenkmal unter Schutz gestellt."
+      ]
+    },
+    {
+      "id": "woermannhaus-history-v2",
+      "descriptionAdvanced": "Das Woermannhaus ist das vielleicht eindrucksvollste koloniale Bauwerk in Swakopmund. Es wurde 1905 von dem renommierten Architekten Friedrich Höft für die mächtige Woermann-Linie, eine deutsche Schifffahrts- und Handelsgesellschaft, als deren Hauptsitz in Südwestafrika erbaut. Der imposante Komplex besteht aus einem großzügigen Innenhof, reichverzierten Holzveranden und dem markanten, 25 Meter hohen Damara-Turm. Dieser Wachturm diente nicht primär der Zierde, sondern wurde von den Angestellten genutzt, um ankommende Handelsschiffe der Woermann-Linie auf dem Ozean zu sichten, bevor sie den Hafen erreichten. Heute beherbergt das hervorragend restaurierte Gebäude eine städtische Bibliothek und eine Kunstgalerie. Architektur K8 — Handelshäuser und Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Das Woermannhaus wurde im Jahr 1905 im Fachwerk-Stil erbaut.",
+        "Der integrierte Damara-Turm ist 25 Meter hoch und bot perfekte Sicht auf den Atlantik.",
+        "Das Gebäude diente als Hauptsitz der mächtigen Hamburger Woermann-Linie.",
+        "Nach dem Ersten Weltkrieg diente das Gebäude zeitweise als Schulhostel für Schüler.",
+        "1971 übernahm die Stadt Swakopmund das verfallene Gebäude und restaurierte es aufwändig.",
+        "Seit 1971 steht das Woermannhaus unter offiziellem Denkmalschutz."
+      ]
+    },
+    {
+      "id": "eduard-bohlen-history-v2",
+      "descriptionAdvanced": "Das Wrack der Eduard Bohlen ist eines der surrealsten und berühmtesten Bilder der namibischen Skelettküste. Dieses über 90 Meter lange deutsche Fracht- und Passagierschiff der Woermann-Linie strandete am 5. September 1909 im dichten Nebel auf der Reise von Swakopmund zur Tafelbucht. Das Unglaubliche an der Eduard Bohlen ist, dass sie heute scheinbar fast 500 Meter tief im Landesinneren, mitten in der Namib-Wüste, im Sand liegt. Dieser Effekt entstand dadurch, dass die Küstenlinie durch massive Sandablagerungen des Benguelastroms im Laufe des letzten Jahrhunderts stetig in den Ozean hineinwuchs und das Meer sich förmlich vom Wrack zurückzog. Geografie K7 — Küstendynamik und maritime Tragödien.",
+      "factsAdvanced": [
+        "Das Schiff strandete am 5. September 1909 im dichten Küstennebel vor Conception Bay.",
+        "Das Wrack liegt heute beinahe einen halben Kilometer vom Ozean entfernt tief im Sand.",
+        "Die Eduard Bohlen war ein 2.272 Bruttoregistertonnen großes Dampfschiff.",
+        "Es wurde 1891 von der renommierten Werft Blohm & Voss in Hamburg gebaut.",
+        "Versuche, das Schiff nach der Strandung mit Schleppern freizubekommen, scheiterten.",
+        "Es diente zeitweise als Unterkunft für Diamantensucher in der abgelegenen Region."
+      ]
+    },
+    {
+      "id": "bogenfels-diamantensiedlung-history-v2",
+      "descriptionAdvanced": "Die Geisterstadt Bogenfels im unwirtlichen südlichen Sperrgebiet ist ein stummes Monument des Diamantenfiebers in den 1910er Jahren. In unmittelbarer Nähe des spektakulären Felsbogens 'Bogenfels' entstand aus dem Nichts eine prosperierende Siedlung, nachdem hier reiche Diamantenfelder entdeckt worden waren. Die Siedlung umfasste auf ihrem Höhepunkt hunderte Arbeiter, eine massive Meerwasserentsalzungsanlage, eine Schmalspureisenbahn und eine hochmoderne Diamantenwäscherei, deren rostige Siebe und Generatoren noch heute im salzigen Wüstenwind verwittern. Mit der Erschöpfung der oberflächlichen Diamanten und dem Ausbruch von Kriegen verfiel die Stadt und ist heute ein faszinierendes Freilichtmuseum des Verfalls. Geschichte K8 — Industrieller Aufstieg und Fall.",
+      "factsAdvanced": [
+        "Die Diamantenproduktion bei Bogenfels begann um das Jahr 1910.",
+        "Die Region produzierte innerhalb weniger Jahre über 400.000 Karat an Diamanten.",
+        "Die massiven Maschinen der historischen Diamantenwäscherei stammen großteils von Krupp aus Deutschland.",
+        "Eine 112 km lange Schmalspurbahn wurde geplant, aber nie vollständig vollendet.",
+        "Die Siedlung musste ihr Trinkwasser extrem aufwendig aus Kondensationsanlagen gewinnen.",
+        "Bogenfels-Siedlung wurde in den späten 1930er Jahren endgültig von der Diamantengesellschaft verlassen."
+      ]
+    },
+    {
+      "id": "pomona-geisterstadt-history-v2",
+      "descriptionAdvanced": "Pomona war einst eine der reichsten Diamantensiedlungen der Welt, gelegen in einer der windigsten und unwirtlichsten Gegenden der Namib-Wüste südlich von Lüderitz. In den Jahren nach 1912 lagen die Diamanten hier buchstäblich wie Kieselsteine auf dem Boden; das legendäre 'Idatal' bei Pomona war so ergiebig, dass Diamanten oft nachts im Mondschein gesammelt werden konnten. In den Spitzenzeiten war die Produktion in Pomona größer als die aller anderen Minen in Südwestafrika zusammen. Der permanente, peitschende Sandsturm zwang die Erbauer jedoch dazu, die Türen vieler Häuser an der windabgewandten Seite zu platzieren. Heute sind die prachtvolle Mine und das verlassene Dorf langsam vom Wüstensand verschlungen worden. Geschichte K7 — Ressourcenreichtum unter Extrembedingungen.",
+      "factsAdvanced": [
+        "In Pomona wurden allein zwischen 1912 und 1914 über 1 Million Karat Diamanten gesammelt.",
+        "Die Winde in Pomona erreichen häufig Geschwindigkeiten von über 80 Kilometern pro Stunde.",
+        "Die Geisterstadt liegt im Sperrgebiet-Nationalpark (Tsau-Khaeb-Nationalpark).",
+        "Das berühmte 'Idatal' bei Pomona lieferte die höchste Konzentration an Diamanten in der Kolonie.",
+        "Die Siedlung besaß eine eigene Schule, ein Kasino und hochentwickelte Waschanlagen.",
+        "Die Diamantenförderung wurde 1931 offiziell eingestellt, und die Stadt fiel dem Sand anheim."
+      ]
+    },
+    {
+      "id": "diaz-spitze-history-v2",
+      "descriptionAdvanced": "Die Diaz-Spitze, eine felsige Landzunge südlich von Lüderitz, ist ein Ort von immense historischer Bedeutung für den afrikanischen Kontinent. Im Jahr 1488 landete hier der berühmte portugiesische Entdecker Bartolomeu Dias während seiner epischen Reise zur Erkundung des Seewegs nach Indien. Um die portugiesische Herrschaft und den Erfolg der Expedition zu markieren, errichtete er auf der windgepeitschten Spitze ein steinernes Kreuz (ein sogenanntes Padrão). Das Originalkreuz, das im Laufe der Jahrhunderte stark verwitterte, wurde in den 1950er Jahren nach Südafrika gebracht, und heute steht am selben Ort eine originalgetreue Replik, die von Touristen besucht wird, während Wellen donnernd gegen die Klippen krachen. Geschichte K7 — Europäische Entdecker im 15. Jahrhundert.",
+      "factsAdvanced": [
+        "Bartolomeu Dias landete am 25. Juli 1488 an dieser unwirtlichen Felsküste.",
+        "Er nannte die Bucht ursprünglich 'Angra das Voltas' (Bucht der Umkehr).",
+        "Dias errichtete auf der Spitze ein kalksteinernes Padrão (Wappenkreuz).",
+        "Das schwer verwitterte Originalkreuz wurde 1953 in das Südafrikanische Museum in Kapstadt gebracht.",
+        "Eine moderne Holzbrücke verbindet heute die felsige Halbinsel der Diaz-Spitze mit dem Festland.",
+        "Direkt neben dem Kreuz steht ein Leuchtturm, der 1915 zur Navigation errichtet wurde."
+      ]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "descriptionAdvanced": "Das Nakambale-Museum in Olukonda, unweit von Ondangwa, ist ein lebendiges Denkmal für die lange finnische Missionsgeschichte im Norden Namibias. Das Museum ist im alten Missionshaus der Olukonda-Mission untergebracht, das 1889 von dem finnischen Pionier-Missionar Martti Rautanen erbaut wurde. Rautanen, der von den lokalen Owambo respektvoll 'Nakambale' genannt wurde (eine Anspielung auf seinen Hut, der wie ein Korb aussah), übersetzte als Erster die Bibel in die Oshindonga-Sprache. Das Gelände umfasst nicht nur das historische Ziegelgebäude, sondern auch die 1893 erbaute erste Kirche im Owamboland sowie Nachbauten traditioneller Ndonga-Gehöfte. Geschichte K6 — Missionare und kultureller Austausch.",
+      "factsAdvanced": [
+        "Die Missionsstation Olukonda wurde im Jahr 1889 von Martti Rautanen gegründet.",
+        "Rautanen lebte hier ununterbrochen für über 50 Jahre bis zu seinem Tod 1926.",
+        "Er übersetzte das Neue Testament 1903 erfolgreich in die Oshindonga-Sprache.",
+        "Das Museumsgelände beherbergt auch die historische erste Kirche des Owambolandes von 1893.",
+        "Der Spitzname 'Nakambale' bedeutet wörtlich übersetzt 'der Mann mit dem Hut'.",
+        "Das Anwesen wurde 1992 feierlich als namibisches Nationaldenkmal deklariert."
+      ]
+    },
+    {
+      "id": "ombalantu-baobab-history-v2",
+      "descriptionAdvanced": "Der Ombalantu Baobab-Baum im Zentrum der nordnamibischen Stadt Outapi ist kein gewöhnlicher Baum, sondern ein monumentales Stück lebendiger Geschichte. Dieser gewaltige afrikanische Affenbrotbaum mit einem extrem dicken, fast vollständig hohlen Stamm hat in den letzten Jahrhunderten unzählige Rollen gespielt. Vor der Kolonialzeit diente sein hohles Inneres den Einheimischen als perfektes Versteck vor marodierenden Viehdieben. Während der südafrikanischen Besatzungszeit im Befreiungskrieg wurde der Baum kurioserweise als provisorisches Postamt und sogar als kleine christliche Kapelle genutzt. Heute können Besucher durch einen Einschnitt in den Stamm des 800 Jahre alten Baumes treten und ein einzigartiges, winziges Museum besichtigen. Biologie K6 — Historische Nutzung gigantischer Pflanzen.",
+      "factsAdvanced": [
+        "Das Alter des massiven Ombalantu Baobab wird auf über 800 Jahre geschätzt.",
+        "Der Stamm besitzt einen erstaunlichen Umfang von 28 Metern.",
+        "Der hohle Innenraum des Baumes bietet theoretisch Platz für bis zu 35 Personen.",
+        "Er wurde in der Vergangenheit unter anderem als Postamt und als Kapelle genutzt.",
+        "Ein eigens errichtetes kleines Museum auf dem Gelände erzählt die reiche Geschichte des Baumes.",
+        "Der Baum wurde 2011 offiziell als historisches Denkmal von Namibia deklariert."
+      ]
+    },
+    {
+      "id": "turnhalle-windhoek-history-v2",
+      "descriptionAdvanced": "Das historische Turnhalle-Gebäude in Windhoek ist weit mehr als nur eine ehemalige Sporthalle. Erbaut 1909 als Übungshalle für den Windhoeker Turnverein, steht das Gebäude heute im Mittelpunkt der politischen Geschichte Namibias. Weltweite Bekanntheit erlangte die Turnhalle in den Jahren 1975 bis 1977, als hier die umstrittene 'Turnhallen-Konferenz' stattfand. In dieser Konferenz versuchte die südafrikanische Apartheidsregierung, eine interne Lösung für die Unabhängigkeit Namibias zu finden, indem sie eine Verfassung ausarbeitete, die stark auf ethnischen Linien basierte, jedoch von der Befreiungsbewegung SWAPO und der UN abgelehnt wurde. Heute beherbergt das renovierte Gebäude das SADC-Tribunal. Geschichte K8 — Der Weg zur namibischen Unabhängigkeit.",
+      "factsAdvanced": [
+        "Die ursprüngliche Turnhalle wurde im März 1909 offiziell eingeweiht.",
+        "Sie diente lange Zeit als die größte Sporthalle im gesamten Land Südwestafrika.",
+        "Die historische 'Turnhallen-Konferenz' tagte hier von September 1975 bis Oktober 1977.",
+        "Aus der Konferenz ging die 'Demokratische Turnhallenallianz' (DTA), eine politische Partei, hervor.",
+        "Nach der Unabhängigkeit diente das Gebäude lange Zeit dem südafrikanischen Entwicklungsgemeinschafts-Tribunal (SADC).",
+        "Es ist ein wichtiges architektonisches Beispiel des vereinfachten wilhelminischen Stils."
+      ]
+    },
+    {
+      "id": "schwerinsburg-history-v2",
+      "descriptionAdvanced": "Die Schwerinsburg ist das größte und markanteste der drei berühmten Burgen von Windhoek, die das Stadtbild auf einem zentralen Hügel dominieren. Die Geschichte der Festung begann 1890, als Curt von François hier den sogenannten 'Sperlingslust'-Turm aus rohen Feldsteinen als Ausguck errichten ließ. 1913 erwarb der renommierte deutsche Architekt Willi Sander den Turm und baute ihn im Auftrag des Grafen Bogislav von Schwerin in ein prächtiges, romantisierendes Schloss mit Zinnen und massiven Türmen um. Heute ist die prächtige Schwerinsburg im Privatbesitz und fungiert als offizielle Residenz des italienischen Botschafters in Namibia, was ihr elitäres Erbe weiterführt. Architektur K7 — Adelsbauten in kolonialen Zentren.",
+      "factsAdvanced": [
+        "Der ursprüngliche Wachturm auf dem Hügel wurde 1890 unter Curt von François errichtet.",
+        "Architekt Willi Sander wandelte den Turm 1913 in die heutige imposante Schwerinsburg um.",
+        "Graf Bogislav von Schwerin war der Bauherr und Namensgeber der Burg.",
+        "Die Burg ist die größte der drei Windhoeker Stadtburgen (Schwerinsburg, Heinitzburg, Sanderburg).",
+        "Die Burg wurde aus unverputztem lokalem Naturstein erbaut.",
+        "Heute wird das Gebäude exklusiv als private Residenz des italienischen Botschafters genutzt."
+      ]
+    },
+    {
+      "id": "heinitzburg-history-v2",
+      "descriptionAdvanced": "Die Heinitzburg ist eine der drei pittoresken Windhoeker Burgen, die stolz auf dem Luxury Hill der Hauptstadt thronen. Sie wurde 1914 von dem in Südwestafrika berühmten Architekten Willi Sander für den wohlhabenden Grafen von Schwerin entworfen, der das Gebäude nach seiner Verlobten, Margarethe von Heinitz, benannte. Die romantische, mittelalterlich anmutende Burg zeichnet sich durch dicke Steinmauern, Zinnen und Ziertürme aus. Im Laufe der Jahrzehnte wechselte das Schloss mehrfach den Besitzer, bevor es 1996 von einer namibischen Familie in ein luxuriöses Relais & Châteaux Boutique-Hotel umgewandelt wurde. Heute ist es berühmt für seine exzellente Gastronomie und den ungestörten Blick über die Stadt. Architektur K7 — Romantische Burgen in der afrikanischen Savanne.",
+      "factsAdvanced": [
+        "Die Heinitzburg wurde im Jahr 1914 vom Architekten Willi Sander erbaut.",
+        "Der Bauherr, Graf Bogislav von Schwerin, benannte sie nach Margarethe von Heinitz.",
+        "Die Architektur verbindet typisch deutsche Burgenästhetik mit afrikanischem Naturstein.",
+        "Seit 1996 ist die Burg ein exklusives und international ausgezeichnetes Luxushotel.",
+        "Im Weinkeller der Burg lagern Tausende von Vintage-Weinen aus Südafrika.",
+        "Die Anlage ist neben Schwerinsburg und Sanderburg Teil des historischen Windhoeker Burgen-Trios."
+      ]
+    },
+    {
+      "id": "tintenpalast-history-v2",
+      "descriptionAdvanced": "Der Tintenpalast ist das ikonische Herz der politischen Macht Namibias und liegt eingebettet in die wunderschönen Parlamentsgärten von Windhoek. Das Gebäude wurde 1913 nach Entwürfen von Gottlieb Redecker als Verwaltungszentrum der deutschen Kolonialregierung erbaut. Der Name 'Tintenpalast' (Tinten-Palast) ist ein historischer Spitzname, den die Bewohner der Stadt spöttisch vergaben, in Anspielung auf den angeblich enormen Tintenverbrauch der damaligen pedantischen Bürokraten. Heute ist das imposante Gebäude, das aus lokal behauenen Steinen ohne großen Prunk erbaut wurde, Sitz des namibischen Zweikammerparlaments (der Nationalversammlung und des Nationalrats). Geschichte K8 — Von der Kolonialverwaltung zum Parlament.",
+      "factsAdvanced": [
+        "Das Gebäude wurde am 1. November 1913 nach einjähriger Bauzeit offiziell eröffnet.",
+        "Der Chefarchitekt Gottlieb Redecker entwarf das Gebäude aus lokalem Khomas-Hochland-Naturstein.",
+        "Der spöttische Name 'Tintenpalast' zielt auf die Papierkram-Liebe der Beamten ab.",
+        "Um das Gebäude wurden 1931 die weitläufigen Parlamentsgärten angelegt.",
+        "Heute tagt hier das unabhängige namibische Parlament.",
+        "Vor dem Parlament stehen Bronzestatuen berühmter Anti-Apartheids-Führer wie Hosea Kutako."
+      ]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "descriptionAdvanced": "Das Goerke-Haus in Lüderitz ist eines der prächtigsten Zeugnisse des rasanten Reichtums während des Diamantenbooms in Südwestafrika. Das beeindruckende Anwesen auf dem Diamantenberg wurde 1910 für den Leutnant und späteren Diamanten-Inspektor Hans Goerke erbaut. Das Gebäude ist ein architektonisches Meisterwerk im Jugendstil, das trotz der extrem isolierten Wüstenlage luxuriös mit importierten Holzschnitzereien, Buntglasfenstern und Fliesen ausgestattet wurde. Besonders auffällig sind die asymmetrische Form, die Giebel und das große Sonnenuhren-Fassadenbild. Heute, im Besitz eines namibischen Bergbauunternehmens, ist die restaurierte Villa ein exklusives Museum und zeugt vom verschwenderischen Lebensstil der frühen Diamantenbarone. Architektur K8 — Jugendstil-Villen in der Wüste.",
+      "factsAdvanced": [
+        "Das Goerke-Haus wurde 1910 auf dem Höhepunkt des Lüderitz-Diamantenrausches erbaut.",
+        "Es wurde von Architekt Otto Ertl für den Regierungsbeamten Hans Goerke entworfen.",
+        "Das Haus thront prominent auf dem Diamantenberg, direkt hinter der Felsenkirche.",
+        "Ein Großteil der aufwändigen Baumaterialien wurde per Schiff aus Deutschland geliefert.",
+        "Nach dem Fortgang Goerkes diente das Haus lange Zeit als Wohnsitz der lokalen Magistraten.",
+        "Heute fungiert das Gebäude als beliebtes Museum für koloniale Geschichte in Lüderitz."
+      ]
+    },
+    {
+      "id": "marine-denkmal-history-v2",
+      "descriptionAdvanced": "Das Marine-Denkmal, das am Rande des Zentrums von Swakopmund nahe der alten Mole steht, ist ein bedeutendes, wenn auch heute in Teilen umstrittenes historisches Monument. Es wurde 1908 vom Bildhauer Albert Moritz Wolff entworfen, um die Gefallenen der Ersten und Zweiten Abteilung des deutschen Marine-Expeditionskorps zu ehren. Diese Truppen wurden 1904 nach Südwestafrika verlegt, um die Kolonialmacht während des Herero-Aufstands massiv militärisch zu unterstützen. Das bronzene Standbild, das einen auf den Ozean blickenden Marinesoldaten zeigt, ist ein eindrucksvolles Beispiel kolonialer Heldenverehrung und steht heute sinnbildlich für die intensive und brutale Epoche des Deutsch-Herero-Krieges. Geschichte K8 — Denkmäler als Spiegel politischer Macht.",
+      "factsAdvanced": [
+        "Das Denkmal wurde am 25. Juli 1908 in Swakopmund feierlich eingeweiht.",
+        "Der Bildhauer Albert Moritz Wolff aus Berlin entwarf die markante Bronzestatue.",
+        "Das Monument ehrt explizit die toten Soldaten des deutschen Marine-Expeditionskorps von 1904.",
+        "Die Bronzefigur des bewaffneten Marinesoldaten blickt symbolisch auf den Atlantischen Ozean hinaus.",
+        "Das Denkmal wurde 1969 offiziell zum Nationalen Denkmal von Namibia deklariert.",
+        "In den letzten Jahren gab es immer wieder Debatten über den Umgang mit solchen Kolonialdenkmälern."
+      ]
+    },
+    {
+      "id": "apollo-11-hoehle-history-v2",
+      "descriptionAdvanced": "Die Apollo-11-Höhle im rauen Süden Namibias (ǁKharas Region) verbirgt einen der bedeutendsten archäologischen Schätze der Menschheitsgeschichte. Die Höhle, die sich in den Bergen des Huns-Gebirges in der Nähe des Oranje-Flusses befindet, wurde 1969 von dem deutschen Archäologen Wolfgang Wendt entdeckt. Während seiner Ausgrabungen hörte Wendt im Radio von der erfolgreichen Mondlandung der Apollo 11 und benannte die Höhle spontan nach dieser Mission. Sensationell waren die Funde von bemalten Steinplatten, deren Alter auf unglaubliche 27.500 Jahre datiert wurde. Diese fragilen Platten, die tierartige Wesen in rotem Ocker und Kohle darstellen, gehören zu den ältesten mobilen Kunstwerken, die jemals auf dem afrikanischen Kontinent gefunden wurden. Anthropologie K8 — Die früheste Kunst der Menschheit.",
+      "factsAdvanced": [
+        "Die Höhle wurde 1969 während der ersten Mondlandung der Apollo-11-Mission entdeckt.",
+        "Die dort gefundenen bemalten Quarzitplatten sind schätzungsweise 27.500 Jahre alt.",
+        "Diese Artefakte gehören zu den ältesten bekannten Beispielen figürlicher Kunst in Afrika.",
+        "Die Ausgrabungen wurden von dem deutschen Prähistoriker Wolfgang Erich Wendt geleitet.",
+        "Die Platten zeigen Zeichnungen von katzen- und rinderähnlichen Tieren in Holzkohle und Ocker.",
+        "Die Originalplatten werden unter extrem strengen Bedingungen im Nationalmuseum in Windhoek aufbewahrt."
+      ]
+    },
+    {
+      "id": "altes-amtsgericht-history-v2",
+      "descriptionAdvanced": "Das Alte Amtsgericht in Swakopmund ist ein prachtvolles Beispiel deutscher Verwaltungsarchitektur der Jahrhundertwende. Das imposante Gebäude wurde 1908 nach den Plänen von Otto Ertl erbaut, der eine stilistische Mischung aus Neorenaissance und afrikanischen Elementen schuf. Ursprünglich war es nicht als Gericht konzipiert, sondern sollte als privates Schulheim dienen, bevor es aufgrund von Finanzierungsproblemen vom Staat übernommen und zum Bezirksgericht umgewandelt wurde. Mit seinen markanten rot-gelben Giebeln und kunstvollen Stuckarbeiten ist das Gebäude heute ein äußerst begehrtes Fotomotiv und beherbergt Verwaltungsbüros der Stadt Swakopmund. Architektur K7 — Repräsentative Bauten der Kolonialbehörden.",
+      "factsAdvanced": [
+        "Das Gebäude wurde 1908 unter der Leitung des Regierungsbaumeisters Otto Ertl fertiggestellt.",
+        "Ursprünglich war das imposante Bauwerk als private Schule geplant.",
+        "Nach Fertigstellung wurde es von der Regierung als Sitz des Bezirksgerichts gekauft.",
+        "Die Architektur zeichnet sich durch einen asymmetrischen Stil mit prominenten Giebeln aus.",
+        "In den 1970er Jahren wurde das Gebäude durch den Staat umfassend vor dem Verfall gerettet.",
+        "Es gehört zu den am meisten fotografierten historischen Gebäuden in ganz Swakopmund."
+      ]
+    },
+    {
+      "id": "rheinische-missionskirche-history-v2",
+      "descriptionAdvanced": "Die Rheinische Missionskirche in Keetmanshoop ist eine historische Bastion der Christianisierung im unbarmherzigen Süden Namibias. Erbaut 1895 aus behauenen Natursteinen der Region, ist sie ein beeindruckendes Beispiel für das handwerkliche Geschick der frühen Missionare der Rheinischen Missionsgesellschaft und der einheimischen Gemeinde. Die Kirche mit ihren hohen Buntglasfenstern und dem soliden Glockenturm überstand nicht nur extreme Dürren, sondern auch die turbulenten Zeiten der Nama-Aufstände. Heute wird sie nicht mehr als Gotteshaus genutzt, sondern wurde sorgfältig restauriert und fungiert als faszinierendes kleines Museum, das die Geschichte der Region und der Mission eindrucksvoll dokumentiert. Geschichte K7 — Kirchenbau und Kulturgeschichte.",
+      "factsAdvanced": [
+        "Die historische Steinkirche wurde im Jahr 1895 von der Rheinischen Missionsgesellschaft eingeweiht.",
+        "Das Mauerwerk besteht aus dunklem Naturstein, der mühsam in der Nähe gebrochen wurde.",
+        "Die Kirche steht im historischen Zentrum der Stadt Keetmanshoop.",
+        "Sie überlebte fast unbeschadet die gewaltsamen Nama-Kriege in den Jahren nach 1904.",
+        "Die Kirche wurde 1978 von der namibischen Denkmalbehörde als Nationaldenkmal eingestuft.",
+        "Heute wird das Gebäude als heimatgeschichtliches Museum und Informationszentrum genutzt."
+      ]
+    },
+    {
+      "id": "christuskirche-windhoek-landmarks-v2",
+      "descriptionAdvanced": "Die Christuskirche ist das unbestrittene Wahrzeichen von Windhoek und dominiert mit ihrer markanten Architektur auf einem Hügel im Zentrum der Hauptstadt. Entworfen von dem Regierungsbaumeister Gottlieb Redecker, wurde die lutherische Kirche im Jahr 1910 nach dem Ende des Herero- und Nama-Aufstands als Friedenskirche ('Friedenskirche') eingeweiht. Architektonisch ist sie eine ungewöhnliche, aber harmonische Mischung aus neoromanischen und Jugendstilelementen, erbaut aus lokalem gelben Sandstein. Bemerkenswert sind die bunten Bleiglasfenster im Altarraum, die vom deutschen Kaiser Wilhelm II. gestiftet wurden, sowie die aus Deutschland importierten Glocken. Sie ist ein monumentales Zeugnis der deutschen Kolonialarchitektur. Architektur K8 — Kolonialbauten und Friedensdenkmäler.",
+      "factsAdvanced": [
+        "Der Grundstein der Christuskirche wurde am 11. August 1907 gelegt.",
+        "Die offizielle Einweihung der Kirche fand am 16. Oktober 1910 statt.",
+        "Der markante Kirchturm ragt 24 Meter hoch über den Kirchenplatz in Windhoek.",
+        "Die Kirche wurde aus Quarzsandstein erbaut, der von einer nahegelegenen Farm am Avis-Damm stammte.",
+        "Kaiser Wilhelm II. spendete persönlich die farbigen Bleiglasfenster im Altarraum.",
+        "Die originalen Kirchenglocken wurden in der berühmten Gießerei Franz Schilling in Apolda gegossen."
+      ]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "descriptionAdvanced": "Der Tintenpalast ist das ikonische Herz der politischen Macht Namibias und liegt eingebettet in die wunderschönen Parlamentsgärten von Windhoek. Das Gebäude wurde 1913 nach Entwürfen von Gottlieb Redecker als Verwaltungszentrum der deutschen Kolonialregierung erbaut. Der Name 'Tintenpalast' (Tinten-Palast) ist ein historischer Spitzname, den die Bewohner der Stadt spöttisch vergaben, in Anspielung auf den angeblich enormen Tintenverbrauch der damaligen pedantischen Bürokraten. Heute ist das imposante Gebäude, das aus lokal behauenen Steinen ohne großen Prunk erbaut wurde, Sitz des namibischen Zweikammerparlaments (der Nationalversammlung und des Nationalrats). Geschichte K8 — Von der Kolonialverwaltung zum Parlament.",
+      "factsAdvanced": [
+        "Das Gebäude wurde am 1. November 1913 nach einjähriger Bauzeit offiziell eröffnet.",
+        "Der Chefarchitekt Gottlieb Redecker entwarf das Gebäude aus lokalem Khomas-Hochland-Naturstein.",
+        "Der spöttische Name 'Tintenpalast' zielt auf die Papierkram-Liebe der Beamten ab.",
+        "Um das Gebäude wurden 1931 die weitläufigen Parlamentsgärten angelegt.",
+        "Heute tagt hier das unabhängige namibische Parlament.",
+        "Vor dem Parlament stehen Bronzestatuen berühmter Anti-Apartheids-Führer wie Hosea Kutako."
+      ]
+    },
+    {
+      "id": "independence-memorial-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Unabhängigkeits-Gedenkmuseum in Windhoek ist eine massive architektonische Landmarke, die die lange und opferreiche Geschichte des namibischen Befreiungskampfes gegen die südafrikanische Besatzung erzählt. Das riesige, futuristisch anmutende Gebäude, das stark an nordkoreanische Monumentalarchitektur erinnert, wurde von der nordkoreanischen Firma Mansudae Overseas Projects erbaut und 2014 eingeweiht. Es dominiert die Skyline des historischen Zentrums und thront direkt neben der Alten Feste und der Christuskirche. Im Inneren führt das Museum Besucher durch verschiedene Ausstellungen über Widerstand, den Grenzkrieg und den schließlichen Sieg der Unabhängigkeit, während das oberste Stockwerk einen Panoramablick über Windhoek bietet. Gesellschaft K8 — Erinnerungskultur und moderne Museen.",
+      "factsAdvanced": [
+        "Das Museum wurde am 21. März 2014, am namibischen Unabhängigkeitstag, offiziell eröffnet.",
+        "Die beeindruckende 40 Meter hohe Struktur wurde von Mansudae Overseas Projects erbaut.",
+        "Vor dem Museum steht eine riesige Bronzestatue des ersten Präsidenten Dr. Sam Nujoma.",
+        "Das Gebäude besitzt eine verglaste Außenfassade und mehrere verglaste Panoramalifte.",
+        "Die Ausstellungen im Inneren konzentrieren sich ausschließlich auf den namibischen Befreiungskrieg.",
+        "Um Platz für das Museum zu machen, wurde das historische Reiterdenkmal im Jahr 2013 verlegt."
+      ]
+    },
+    {
+      "id": "heroes-acre-windhoek-landmarks-v2",
+      "descriptionAdvanced": "Der Heldenacker (Heroes' Acre) ist ein gewaltiges nationales Kriegsdenkmal, das imposant an den Hängen der Auas-Berge, etwa zehn Kilometer südlich des Stadtzentrums von Windhoek, thront. Das Monument wurde 2002 vom ersten namibischen Präsidenten, Sam Nujoma, eingeweiht und dient als offizielle Gedenk- und Begräbnisstätte für die namibischen Freiheitskämpfer und Helden des langen Unabhängigkeitskampfes gegen die südafrikanische Besatzung. Die architektonische Gestaltung ist stark an die Ästhetik nordkoreanischer Monumente angelehnt und wurde von der nordkoreanischen Baufirma Mansudae Overseas Projects durchgeführt. Eine markante Bronzestatue eines namibischen Freiheitskämpfers mit einer Kalaschnikow überragt das weitläufige Gelände. Gesellschaft K7 — Unabhängigkeitsdenkmäler und Nationalstolz.",
+      "factsAdvanced": [
+        "Das gewaltige Monument wurde am 26. August 2002 offiziell eingeweiht.",
+        "Die Baukosten beliefen sich auf etwa 60 Millionen Namibia-Dollar.",
+        "Der weiße Obelisk, der das Zentrum der Anlage bildet, ist stolze 34 Meter hoch.",
+        "Die Anlage bietet 174 offizielle Grabstätten für die nationalen Helden Namibias.",
+        "Die imposante Bronzestatue am oberen Ende der Treppe ist acht Meter hoch und acht Tonnen schwer.",
+        "Entworfen und erbaut wurde das gesamte Denkmal vom nordkoreanischen Studio Mansudae Overseas Projects."
+      ]
+    },
+    {
+      "id": "woermannhaus-landmarks-v2",
+      "descriptionAdvanced": "Das Woermannhaus ist das vielleicht eindrucksvollste koloniale Bauwerk in Swakopmund. Es wurde 1905 von dem renommierten Architekten Friedrich Höft für die mächtige Woermann-Linie, eine deutsche Schifffahrts- und Handelsgesellschaft, als deren Hauptsitz in Südwestafrika erbaut. Der imposante Komplex besteht aus einem großzügigen Innenhof, reichverzierten Holzveranden und dem markanten, 25 Meter hohen Damara-Turm. Dieser Wachturm diente nicht primär der Zierde, sondern wurde von den Angestellten genutzt, um ankommende Handelsschiffe der Woermann-Linie auf dem Ozean zu sichten, bevor sie den Hafen erreichten. Heute beherbergt das hervorragend restaurierte Gebäude eine städtische Bibliothek und eine Kunstgalerie. Architektur K8 — Handelshäuser und Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Das Woermannhaus wurde im Jahr 1905 im Fachwerk-Stil erbaut.",
+        "Der integrierte Damara-Turm ist 25 Meter hoch und bot perfekte Sicht auf den Atlantik.",
+        "Das Gebäude diente als Hauptsitz der mächtigen Hamburger Woermann-Linie.",
+        "Nach dem Ersten Weltkrieg diente das Gebäude zeitweise als Schulhostel für Schüler.",
+        "1971 übernahm die Stadt Swakopmund das verfallene Gebäude und restaurierte es aufwändig.",
+        "Seit 1971 steht das Woermannhaus unter offiziellem Denkmalschutz."
+      ]
+    },
+    {
+      "id": "swakopmund-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der historische Leuchtturm in Swakopmund ist eines der bekanntesten Seezeichen an der Skelettküste und ein Symbol für die maritime Geschichte der Stadt. Er wurde 1902 in Betrieb genommen, um Schiffe sicher durch die oft extrem dichten Nebelbänke des kalten Benguelastroms in den künstlichen Hafen der deutschen Kolonie zu leiten. Ursprünglich war der Turm nur 11 Meter hoch, wurde aber bereits 1910 um weitere 10 Meter auf seine heutige Höhe von 21 Metern aufgestockt, da er durch wachsende Gebäude im Stadtzentrum verdeckt wurde. Heute überragt der rot-weiß gestreifte Leuchtturm stolz die Mole und beherbergt im angrenzenden alten Leuchtturmwärterhaus ein gemütliches Restaurant. Architektur K7 — Maritime Navigation und Küstenbauwerke.",
+      "factsAdvanced": [
+        "Der Leuchtturm wurde im Juli 1902 offiziell in Betrieb genommen.",
+        "Im Jahr 1910 wurde der Turm wegen mangelnder Sichtbarkeit um 10 Meter erhöht.",
+        "Das charakteristische rote-weiße Streifenmuster hilft der Erkennbarkeit bei dichtem Küstennebel.",
+        "Die ursprüngliche Lichtquelle wurde mit Petroleum betrieben und hatte eine Reichweite von 14 Seemeilen.",
+        "Der Turm ist noch heute aktiv und dient der Navigation an der oft gefährlichen Küste.",
+        "Er wurde im Jahr 2004 offiziell zum nationalen Denkmal von Namibia erklärt."
+      ]
+    },
+    {
+      "id": "hohenzollernhaus-swakopmund-landmarks-v2",
+      "descriptionAdvanced": "Das Hohenzollernhaus in Swakopmund ist ein prachtvolles Relikt der wilhelminischen Zeit und eines der markantesten Gebäude der Stadt. Es wurde 1906 ursprünglich als Luxushotel mit 38 Zimmern erbaut, um dem wachsenden Bedarf an Unterkünften während des Baubooms in Deutsch-Südwestafrika gerecht zu werden. Die Architektur ist verspielt und reich verziert, gekrönt von einer Atlas-Skulptur, die auf dem Dachfirst die Weltkugel trägt. Nach einer Zwangsversteigerung in den 1920er Jahren wurde das opulente Gebäude als Verwaltungssitz und später in ein Apartmenthaus umgewandelt. Das Haus ist ein steingewordenes Zeugnis des unglaublichen architektonischen Aufwands, der in dieser Wüstenstadt betrieben wurde. Architektur K8 — Wilhelminischer Prunk in Afrika.",
+      "factsAdvanced": [
+        "Das Gebäude wurde im Jahr 1906 nach Plänen des Architekten Hermann Dietz fertiggestellt.",
+        "Auf dem Dachfirst thront eine prominente Statue des Atlas mit der Weltkugel.",
+        "Das Gebäude wurde nach dem deutschen Herrschergeschlecht der Hohenzollern benannt.",
+        "Ursprünglich diente es als gehobenes Hotel für Verwaltungsbeamte und Geschäftsleute.",
+        "1972 drohte dem Gebäude der Abriss, es wurde jedoch gerettet und restauriert.",
+        "Es wurde 1983 offiziell als Nationaldenkmal unter Schutz gestellt."
+      ]
+    }
+  ]
+}

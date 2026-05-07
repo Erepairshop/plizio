@@ -1,0 +1,365 @@
+{
+  "lang": "ro",
+  "country": "senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-saint-louis-economic-v2",
+      "descriptionAdvanced": "Portul din Saint-Louis, situat la gura de vărsare a fluviului Senegal, este unul dintre cele mai vechi puncte comerciale din Africa de Vest, având o istorie strâns legată de epoca colonială. Deși importanța sa a scăzut în secolul XX în favoarea portului Dakar din cauza dificultăților de navigație la „Barre” (bancul de nisip mobil), acesta rămâne un centru vital pentru industria pescuitului artizanal și industrial. Recent, portul a intrat într-o fază de revitalizare majoră datorită descoperirii zăcămintelor de gaze naturale offshore din proiectul Grand Tortue Ahmeyim. Autoritățile senegaleze investesc în modernizarea infrastructurii pentru a transforma Saint-Louis într-un hub logistic pentru sectorul energetic, păstrând în același timp funcția sa istorică de export al produselor agricole din valea fluviului. Portul este, de asemenea, inima cartierului pescăresc Guet Ndar, unde sute de pirogi colorate animă țărmul în fiecare dimineață.",
+      "factsAdvanced": [
+        "A fost primul mare port comercial francez din Africa de Vest.",
+        "Situat strategic la confluența fluviului Senegal cu Oceanul Atlantic.",
+        "Este centrul pescuitului artizanal în regiunea de nord a țării.",
+        "Găzduiește flota colorată de pirogi din cartierul Guet Ndar.",
+        "Modernizat recent pentru a susține industria gazelor naturale (GTA).",
+        "Accesul navelor mari este limitat de un banc de nisip periculos numit „La Barre”.",
+        "A jucat un rol istoric în exportul de gumă arabică și piei de animale.",
+        "Contribuie la economia locală prin activități de depozitare și logistică."
+      ]
+    },
+    {
+      "id": "diamniadio-industrial-park-economic-v2",
+      "descriptionAdvanced": "Parcul Industrial Internațional Diamniadio (P2ID) este pilonul central al strategiei de industrializare a Senegalului, situat în inima noului pol urban Diamniadio. Acest complex modern este conceput pentru a atrage investiții străine directe prin oferirea unor facilități de clasă mondială, inclusiv hale industriale gata de utilizare, scutiri fiscale și o conexiune logistică excelentă. Parcul beneficiază de proximitatea față de Aeroportul Internațional Blaise Diagne și de accesul direct la autostrada care leagă Dakar de restul țării. Obiectivul principal al P2ID este de a stimula producția locală, în special în sectoarele farmaceutic, textil și agroindustrial, reducând dependența de importuri. Găzduind companii din întreaga lume, de la producători de panouri solare la unități de asamblare electronică, parcul industrial reprezintă viitorul economic al Senegalului, transformând Diamniadio într-un motor de creștere pentru întreaga regiune a Africii de Vest.",
+      "factsAdvanced": [
+        "Parte integrantă a noului oraș inteligent (Smart City) Diamniadio.",
+        "Oferă regim de zonă economică specială cu numeroase avantaje fiscale.",
+        "Localizat strategic lângă Aeroportul Internațional Blaise Diagne (AIBD).",
+        "Include unități moderne de producție farmaceutică și asamblare.",
+        "Proiectat să creeze mii de locuri de muncă pentru tinerii senegalezi.",
+        "Infrastructura cuprinde energie stabilă și conexiuni de internet de mare viteză.",
+        "Prima fază a proiectului a fost inaugurată oficial în anul 2018.",
+        "Este administrat de APIX, agenția națională de promovare a investițiilor."
+      ]
+    },
+    {
+      "id": "matam-phosphates-economic-v2",
+      "descriptionAdvanced": "Exploatarea de fosfați din regiunea Matam reprezintă una dintre cele mai importante resurse minerale din nord-estul Senegalului, situată în apropierea fluviului Senegal. Zăcămintele de aici sunt de o puritate ridicată și joacă un rol crucial în ambiția țării de a deveni un producător major de îngrășăminte chimice la nivel global. Proiectul minier de la Matam a deschis noi perspective economice pentru o regiune care depindea anterior aproape exclusiv de agricultură și creșterea animalelor. Extracția fosfaților stimulează dezvoltarea infrastructurii locale, inclusiv drumuri și facilități de transport fluvial, pentru a permite transportul eficient al materiei prime către unitățile de procesare. Această exploatare este vitală pentru „Planul Senegal Emergent”, contribuind la diversificarea exporturilor și la crearea de locuri de muncă în zonele rurale îndepărtate. De asemenea, resursele de fosfați din Matam sunt esențiale pentru agricultura națională, oferind materia primă necesară pentru producția locală de fertilizatori adaptați solurilor senegaleze.",
+      "factsAdvanced": [
+        "Unul dintre cele mai bogate zăcăminte de fosfați calcaroși din Africa.",
+        "Situat în nord-estul Senegalului, în regiunea administrativă Matam.",
+        "Zăcămintele sunt exploatate prin metode moderne de mină la suprafață.",
+        "Sursa principală pentru producția națională de îngrășăminte agricole.",
+        "Proiectul contribuie major la industrializarea zonei de frontieră.",
+        "Resursele estimate sunt suficiente pentru câteva decenii de exploatare.",
+        "Stimulează transportul multimodal pe fluviul Senegal.",
+        "Mineralele extrase au o concentrație ridicată de pentoxid de fosfor (P2O5)."
+      ]
+    },
+    {
+      "id": "bokhol-solar-plant-economic-v2",
+      "descriptionAdvanced": "Centrala solară Senergy 2 de la Bokhol, situată în regiunea Saint-Louis, a fost la momentul inaugurării sale în 2016 cea mai mare centrală fotovoltaică din Africa de Vest. Acest proiect ambițios reprezintă angajamentul Senegalului pentru o tranziție energetică sustenabilă, profitând de radiația solară abundentă din zona de nord a țării. Compusă din peste 75.000 de panouri solare, centrala are o capacitate de 20 MW, furnizând energie curată pentru aproximativ 160.000 de persoane. Proiectul a fost realizat printr-un parteneriat public-privat și a contribuit la reducerea emisiilor de dioxid de carbon cu mii de tone pe an, înlocuind producția de energie pe bază de combustibili fosili. Bokhol a servit drept model pentru numeroasele proiecte solare care au urmat în Senegal, demonstrând viabilitatea economică a energiei regenerabile în Sahel. Pe lângă beneficiile energetice, centrala a adus investiții în comunitatea locală, finanțând proiecte de educație și acces la apă pentru locuitorii din zonă.",
+      "factsAdvanced": [
+        "Prima mare centrală solară fotovoltaică construită în Senegal.",
+        "Inaugurată oficial în octombrie 2016 în localitatea Bokhol.",
+        "Are o capacitate instalată de 20 megawați (MW).",
+        "Include peste 75.000 de panouri solare întinse pe zeci de hectare.",
+        "Alimentează cu energie electrică peste 160.000 de cetățeni.",
+        "Reduce emisiile de CO2 cu circa 23.000 de tone în fiecare an.",
+        "Proiectul a fost finanțat parțial prin fonduri internaționale de investiții verzi.",
+        "A deschis calea pentru independența energetică a regiunii de nord."
+      ]
+    },
+    {
+      "id": "malicounda-solar-plant-economic-v2",
+      "descriptionAdvanced": "Centrala solară de la Malicounda, situată în apropierea orașului Mbour, este o componentă esențială a mixului energetic al Senegalului, contribuind semnificativ la reducerea costurilor electricității și a impactului asupra mediului. Inaugurată în 2016, aproape simultan cu cea de la Bokhol, centrala de la Malicounda are o capacitate de 22 MW și a fost construită într-un timp record de doar șase luni. Proiectul se remarcă prin faptul că este deținut în proporție de 5% de comunitatea locală, o premieră în Senegal care asigură că beneficiile economice ale energiei verzi ajung direct la locuitorii zonei. Energia produsă aici este injectată în rețeaua națională SENELEC, ajutând la stabilizarea furnizării de curent electric în regiunea turistică Petite Côte. Centrala utilizează tehnologie fotovoltaică avansată și reprezintă un pas major către atingerea obiectivului național de a produce 30% din energia electrică din surse regenerabile, consolidând poziția Senegalului ca lider regional în domeniul sustenabilității.",
+      "factsAdvanced": [
+        "Situată în departamentul Mbour, regiunea Thiès.",
+        "Are o putere instalată de 22 megawați (MW).",
+        "Inaugurată în noiembrie 2016, fiind un proiect de succes rapid.",
+        "Prima centrală solară din Senegal cu participarea financiară a comunității locale.",
+        "Produce anual aproximativ 36 gigawați-oră (GWh) de energie curată.",
+        "Acoperă necesarul de electricitate pentru mii de gospodării din regiune.",
+        "Face parte dintr-un program masiv de diversificare energetică națională.",
+        "Construită în parteneriat cu companii din Italia și Franța."
+      ]
+    },
+    {
+      "id": "mako-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina de aur de la Mako, operată de Petowal Mining Company (o subsidiară a Resolute Mining), este a doua mare exploatare auriferă industrială din Senegal, situată în pitoreasca regiune Kédougou. Situată în apropierea fluviului Gambia, mina a început producția în 2018 și se distinge prin standardele sale ridicate de mediu și responsabilitate socială. Proiectul extrage aurul dintr-un zăcământ de înaltă puritate, utilizând metode moderne de prelucrare care maximizează recuperarea metalului prețios. Mako a contribuit semnificativ la consolidarea Senegalului ca un jucător emergent pe piața aurului din Africa de Vest. Un aspect unic al minei este programul său riguros de conservare, dezvoltat în colaborare cu autoritățile parcului național învecinat, pentru a minimiza impactul asupra faunei sălbatice, în special a cimpanzeilor și a hipopotamilor. Veniturile generate de mină susțin proiecte locale de dezvoltare, oferind în același timp locuri de muncă specializate pentru sute de tineri din estul țării, contribuind la stabilitatea economică a regiunii.",
+      "factsAdvanced": [
+        "A doua cea mai mare mină de aur industrială din Senegal.",
+        "Situată în satul Mako, pe malul fluviului Gambia.",
+        "A turnat primul lingou de aur în ianuarie 2018.",
+        "Produce anual peste 150.000 de uncii de aur de înaltă puritate.",
+        "Implementează un plan de management al biodiversității recunoscut internațional.",
+        "Mina este o exploatare de suprafață (open-pit) foarte eficientă.",
+        "Angajează o forță de muncă formată în proporție de peste 90% din senegalezi.",
+        "Proiectul are o durată de viață estimată care se extinde prin explorări noi."
+      ]
+    },
+    {
+      "id": "sonacos-kaolack-economic-v2",
+      "descriptionAdvanced": "Unitatea SONACOS din Kaolack, cunoscută istoric sub numele de Lyndiane, este cea mai mare rafinărie de ulei de arahide din Senegal și un simbol al industriei agroalimentare naționale. Situată în inima „bazinului de arahide”, această fabrică procesează semințele colectate de la mii de fermieri din întreaga țară pentru a produce faimosul ulei de arahide senegalez, apreciat pentru calitățile sale nutritive și gustul unic. SONACOS (Societatea Națională de Comercializare a Oleaginoaselor din Senegal) joacă un rol strategic în susținerea veniturilor rurale, fiind principalul cumpărător de stat pentru recoltele de mogyoró. Fabrica din Kaolack dispune de facilități masive de stocare, zdrobire și rafinare, fiind conectată la portul fluvial pentru a facilita exporturile. De-a lungul deceniilor, Lyndiane a fost motorul economic al orașului Kaolack, oferind mii de locuri de muncă sezoniere și permanente. Revitalizarea acestei unități este esențială pentru suveranitatea alimentară a Senegalului și pentru menținerea competitivității produselor senegaleze pe piața mondială a uleiurilor vegetale.",
+      "factsAdvanced": [
+        "Cea mai mare unitate de procesare a arahidelor din Africa de Vest.",
+        "Localizată în cartierul Lyndiane din Kaolack.",
+        "Inima industriei uleiului vegetal din Senegal de peste jumătate de secol.",
+        "Are o capacitate de triturare de sute de mii de tone pe sezon.",
+        "Produce ulei de arahide rafinat și turtă de arahide pentru furaje.",
+        "Este un pilon al subvențiilor de stat pentru sectorul agricol.",
+        "Conectată strategic la rețeaua feroviară și portul fluvial Saloum.",
+        "Reprezintă principalul debușeu comercial pentru fermierii din regiunea centrală."
+      ]
+    },
+    {
+      "id": "sn-sl-fort-podor-history-v2",
+      "descriptionAdvanced": "Fortul Podor, situat pe malul fluviului Senegal, în inima regiunii Fouta Toro, este o fortificație istorică ce marchează prezența colonială franceză în nordul extrem al țării. Construit inițial în 1744 de către Pierre Barthélémy David pentru Compania Indiilor, fortul a fost reconstruit ulterior de generalul Faidherbe în 1854 pentru a securiza comerțul cu gumă arabică și a controla mișcările de rezistență din valea fluviului. Clădirea, cu zidurile sale de cărămidă roșie și arhitectura sobră, a servit drept post militar, depozit comercial și centru administrativ. Podor a fost un punct strategic în campaniile coloniale împotriva imperiului lui El Hadj Umar Tall. Astăzi, fortul a fost restaurat și transformat într-un muzeu și centru cultural, fiind unul dintre puținele vestigii bine conservate ale epocii de aur a navigației fluviale pe Senegal. Orașul Podor, care s-a dezvoltat în jurul fortului, păstrează farmecul unei epoci trecute, cu casele sale vechi de negustori ce privesc spre malurile Mauritaniei vecine.",
+      "factsAdvanced": [
+        "Prima structură a fost ridicată în 1744 pentru a proteja comerțul cu gumă.",
+        "Reconstruit în 1854 sub comanda generalului Louis Faidherbe.",
+        "Situat pe cel mai nordic punct al brațului fluviului Senegal.",
+        "A fost un avanpost cheie în expansiunea franceză spre interiorul Africii.",
+        "Arhitectura sa este tipică fortificațiilor militare franceze din secolul XIX.",
+        "Situl este înscris pe lista indicativă a Patrimoniului Mondial UNESCO.",
+        "Găzduiește anual evenimente culturale care celebrează istoria fluviului.",
+        "Podor era cunoscut în trecut sub numele de „orașul negustorilor de gumă”."
+      ]
+    },
+    {
+      "id": "sn-zg-carabane-history-v2",
+      "descriptionAdvanced": "Insula Carabane, situată la gura de vărsare a râului Casamance, este un loc încărcat de istorie și nostalgie, fiind prima capitală administrativă franceză a regiunii Casamance. Fondată în 1836, insula a servit drept un important centru comercial pentru sclavii, fildeșul și produsele agricole colectate din pădurile tropicale din sud. Fără drumuri sau mașini, Carabane păstrează o atmosferă liniștită, unde ruinele bisericii bretone în stil gotic și ale vechilor depozite coloniale spun povestea unui trecut maritim glorios. Un element istoric celebru al insulei este mormântul căpitanului Aristide Protet, fondatorul orașului Dakar, care a fost înmormântat aici în poziție verticală, conform dorinței sale, pentru a continua să privească spre inamicii săi. Astăzi, Carabane este o destinație turistică pașnică, unde istoria se împletește cu frumusețea naturală a mangrovelor și a plajelor cu nisip alb, fiind inclusă în Patrimoniul Mondial UNESCO ca parte a siturilor istorice din Senegal.",
+      "factsAdvanced": [
+        "A fost prima capitală a regiunii Casamance, stabilită în 1836.",
+        "Numele derivă probabil din limbile locale Wolof sau Diola.",
+        "Insula nu are vehicule motorizate, transportul fiind exclusiv pietonal sau pe apă.",
+        "Găzduiește ruinele unei biserici gotice franceze ridicate în 1885.",
+        "Mormântul căpitanului Protet este unic, fiind îngropat stând în picioare.",
+        "A fost un hub major pentru exportul de ulei de palmier și orez.",
+        "Inclusă pe lista Patrimoniului Mondial UNESCO din anul 2003.",
+        "Accesul se face exclusiv cu piroga sau feribotul de la Ziguinchor sau Elinkine."
+      ]
+    },
+    {
+      "id": "sn-db-touba-mosque-history-v2",
+      "descriptionAdvanced": "Marea Moschee din Touba nu este doar un edificiu religios, ci inima spirituală și istorică a frăției Muridiyya, una dintre cele mai influente forțe sociale din Senegal. Construcția sa a fost inițiată simbolic de șeicul Amadou Bamba, fondatorul frăției, care a ales acest loc în 1887 sub un copac sacru, având o viziune despre un oraș sfânt. De olsa construcția propriu-zisă a început abia în 1932, după moartea sa, moscheea a devenit un proiect colectiv monumental, finanțat exclusiv prin contribuțiile credincioșilor murid. Edificiul se distinge prin cele cinci minarete ale sale, cel central, numit „Lamp Fall”, fiind cel mai înalt și un punct de reper vizibil de la zeci de kilometri. Interiorul adăpostește mausoleul lui Amadou Bamba și al succesorilor săi, fiind locul celui mai mare pelerinaj din Africa sub-sahariană, Marele Magal. Arhitectura moscheii este o fuziune spectaculoasă de stiluri islamice, decorată cu marmură prețioasă și candelabre gigantice, simbolizând triumful spiritului asupra persecuției coloniale.",
+      "factsAdvanced": [
+        "Este locul de odihnă veșnică al șeicului Amadou Bamba, fondatorul Muridismului.",
+        "Minaretul central, Lamp Fall, are o înălțime impresionantă de 87 de metri.",
+        "Construcția a durat peste 30 de ani, fiind sfințită în anul 1963.",
+        "Este finanțată integral de membrii frăției, fără ajutor extern de stat.",
+        "Atrage peste 4 milioane de pelerini în fiecare an în timpul Marelui Magal.",
+        "Orașul Touba, construit în jurul moscheii, are un statut administrativ special.",
+        "Moscheea dispune de una dintre cele mai mari biblioteci islamice din regiune.",
+        "Este considerată a fi una dintre cele mai mari și mai bogat decorate moschei din Africa."
+      ]
+    },
+    {
+      "id": "sn-dk-african-renaissance-history-v2",
+      "descriptionAdvanced": "Monumentul Renașterii Africane din Dakar este o structură colosală din bronz, situată pe unul dintre cele două dealuri vulcanice numite „Les Mamelles”. Inaugurat în 2010 pentru a celebra 50 de ani de independență a Senegalului, monumentul este mai înalt decât Statuia Libertății și reprezintă o familie africană care privește spre viitor, simbolizând eliberarea continentului de secole de opresiune și ignoranță. Proiectat de președintele Abdoulaye Wade, acest monument a stârnit numeroase dezbateri din cauza costului său ridicat și a stilului arhitectural monumental, dar a devenit rapid un simbol inconfundabil al orizontului capitalei Dakar. Vizitatorii pot urca sutele de trepte până la baza statuii și pot lua un lift până în vârful capului figurii masculine, de unde se deschide o panoramă uluitoare de 360 de grade asupra orașului și a Oceanului Atlantic. Interiorul monumentului găzduiește expoziții de artă și istorie care celebrează marile figuri ale diasporei africane și cultura neagră.",
+      "factsAdvanced": [
+        "Este cea mai înaltă statuie de bronz din lume, având o înălțime de 49 de metri.",
+        "Situată pe vârful unui con vulcanic stins, la peste 100 de metri deasupra mării.",
+        "Inaugurată pe 4 aprilie 2010, de Ziua Independenței Senegalului.",
+        "Figura masculină ține pe braț un copil care arată simbolic spre ocean.",
+        "A fost construită cu asistența tehnică a inginerilor din Coreea de Nord.",
+        "Pentru a ajunge la statuie, vizitatorii trebuie să urce aproximativ 200 de trepte.",
+        "Capul bărbatului adăpostește o platformă de observație pentru turiști.",
+        "Reprezintă conceptul de „Renaștere Africană” promovat de liderii pan-africani."
+      ]
+    },
+    {
+      "id": "sn-dk-mamelles-lighthouse-history-v2",
+      "descriptionAdvanced": "Farul de la Mamelles, situat pe cea mai înaltă dintre cele două coline vulcanice ale peninsulei Cap-Vert, este cel mai puternic far din Africa de Vest și un punct de reper istoric esențial pentru navigația în Oceanul Atlantic. Construit în 1864, farul marchează cel mai vestic punct al continentului african, ghidând navele care traversează rutele maritime transatlantice. Structura sa albă, cilindrică, găzduiește o lentilă Fresnel gigantică, a cărei lumină poate fi văzută de la o distanță de peste 50 de kilometri. Pe lângă rolul său funcțional, farul de la Mamelles a devenit o destinație culturală și turistică populară, oferind cele mai bune priveliști asupra orașului Dakar și a Monumentului Renașterii Africane din apropiere. Vizitele ghidate permit accesul la mecanismele istorice ale farului și oferă povești fascinante despre gardienii care au întreținut lumina timp de peste 150 de ani. Seara, zona din jurul farului se transformă într-un loc vibrant de socializare, cu concerte live și o atmosferă boemă.",
+      "factsAdvanced": [
+        "Este cel mai vechi far funcțional din Senegal, ridicat în anul 1864.",
+        "Situat pe colina „Grande Mamelle”, la 105 metri deasupra nivelului mării.",
+        "Lumina sa are o rază de acțiune de 31 de mile marine (aprox. 57 km).",
+        "Farul este echipat cu o optică originală de tip lentilă Fresnel.",
+        "Marchează simbolic poarta de intrare maritimă în Africa de Vest.",
+        "Este singurul far din regiune deschis constant vizitelor turistice.",
+        "A fost complet electrificat în 1948, trecând de la lămpile cu petrol.",
+        "Oferă una dintre cele mai panoramice perspective asupra orașului Dakar."
+      ]
+    },
+    {
+      "id": "sn-museum-black-civilisations-landmarks-v2",
+      "descriptionAdvanced": "Muzeul Civilizațiilor Negre (MCN) din Dakar este o instituție culturală de anvergură mondială, concepută pentru a celebra și cerceta contribuțiile popoarelor africane și ale diasporei la istoria umanității. Inaugurat în 2018, muzeul împlinește visul președintelui Léopold Sédar Senghor, care a propus crearea unui astfel de spațiu încă din 1966. Arhitectura clădirii este inspirată de casele tradiționale rotunde (case cu etaj) din Casamance și de Marele Zimbabwe, având o formă circulară impunătoare care înconjoară o curte centrală unde tronează un baobab simbolic din fier. Muzeul nu este doar un spațiu de conservare a artefactelor antice, ci și un laborator de idei contemporane, abordând teme precum originile umanității în Africa, invențiile tehnologice africane și arta modernă. MCN joacă un rol central în dezbaterea globală despre restituirea patrimoniului cultural african, fiind pregătit să găzduiască obiecte istorice recuperate din muzeele europene.",
+      "factsAdvanced": [
+        "Inaugurat oficial pe 6 decembrie 2018, fiind unul dintre cele mai mari din Africa.",
+        "Suprafața totală de expoziție depășește 14.000 de metri pătrați.",
+        "Designul circular este inspirat de arhitectura „case à impluvium” din sudul Senegalului.",
+        "Muzeul a fost construit cu sprijin financiar și tehnic din partea Chinei.",
+        "Adăpostește expoziții despre civilizația Egiptului Antic și regatele africane.",
+        "Este un punct focal pentru cercetarea patrimoniului imaterial african.",
+        "Curtea centrală găzduiește o sculptură monumentală a unui baobab, simbolul național.",
+        "Găzduiește numeroase conferințe internaționale despre pan-africanism și cultură."
+      ]
+    },
+    {
+      "id": "sn-dakar-grand-theatre-landmarks-v2",
+      "descriptionAdvanced": "Marele Teatru Național „Doudou Ndiaye Rose” din Dakar este cel mai mare spațiu de spectacole din Senegal și un simbol al modernizării culturale a capitalei. Situat strategic în apropierea gării feroviare, acest edificiu impunător a fost inaugurat în 2011 și poartă numele legendarului percuționist senegalez Doudou Ndiaye Rose, maestru al ritmurilor de sabar. Clădirea, o capodoperă a arhitecturii moderne cu influențe asiatice, dispune de o sală principală cu 1.800 de locuri, dotată cu sisteme de sunet și lumini de ultimă generație. Marele Teatru este gazda celor mai prestigioase evenimente culturale din țară, de la concerte internaționale și festivaluri de dans, până la gale oficiale și premiere cinematografice. Arhitectura sa monumentală, cu coloane înalte și fațadă de sticlă, domină noua zonă culturală a orașului. Dincolo de funcția sa artistică, teatrul reprezintă mândria națională a Senegalului, fiind un spațiu unde tradițiile africane se întâlnesc cu formele de expresie contemporane într-un cadru de lux.",
+      "factsAdvanced": [
+        "Capacitatea sălii principale este de 1.800 de locuri, pe mai multe niveluri.",
+        "A fost inaugurat în aprilie 2011 de președintele Abdoulaye Wade.",
+        "Numele său onorează pe Doudou Ndiaye Rose, cel mai faimos baterist al țării.",
+        "Edificiul a fost construit cu sprijinul guvernului Republicii Populare Chineze.",
+        "Este situat în zona de regenerare urbană a centrului orașului Dakar.",
+        "Dispune de scene rotative și facilități moderne pentru producții de operă.",
+        "Este sediul principal pentru marile ceremonii de decernare a premiilor culturale.",
+        "Clădirea ocupă o suprafață totală de peste 20.000 de metri pătrați."
+      ]
+    },
+    {
+      "id": "sn-palais-de-la-republique-landmarks-v2",
+      "descriptionAdvanced": "Palatul Republicii, situat în cartierul Plateau din Dakar, este sediul oficial al Președintelui Senegalului și un monument istoric de o importanță politică imensă. Construit în 1907 ca reședință a Guvernatorului General al Africii Occidentale Franceze (AOF), palatul impresionează prin arhitectura sa clasică colonială, cu fațade albe imaculate, coloane elegante și grădini tropicale luxuriante. Clădirea a fost martora tuturor momentelor cheie ale istoriei moderne a Senegalului, de la proclamarea independenței în 1960 până la marile decizii politice de astăzi. Deși accesul în interior este strict restricționat din motive de securitate, palatul este o atracție majoră pentru turiști, care vin să vadă schimbarea gărzii prezidențiale („Garde Rouge”), o unitate de elită în uniforme roșii spectaculoase, moștenite din tradiția spahiilor. Situat pe o stâncă ce domină Oceanul Atlantic, palatul simbolizează continuitatea statului senegalez și eleganța instituțiilor sale republicane.",
+      "factsAdvanced": [
+        "A fost construit în 1907 sub administrația guvernatorului Ernest Roume.",
+        "Este reședința oficială a tuturor președinților Senegalului de la independență.",
+        "Stilul arhitectural este neo-clasic francez, adaptat climatului tropical.",
+        "Garda Roșie (Garde Rouge), garda de onoare, este faimoasă pentru uniformele sale.",
+        "Palatul este situat pe Bulevardul Republicii, cu fața spre mare.",
+        "Grădinile sale găzduiesc specii rare de plante tropicale și baobabi.",
+        "Schimbarea gărzii este o ceremonie publică foarte apreciată de turiști.",
+        "Simbolizează autoritatea supremă și suveranitatea națională a Senegalului."
+      ]
+    },
+    {
+      "id": "sn-bceao-tower-landmarks-v2",
+      "descriptionAdvanced": "Turnul BCEAO (Banca Centrală a Statelor Africii de Vest) este cea mai înaltă și mai recunoscută clădire de birouri din Dakar, dominând orizontul cartierului financiar Plateau. Cu arhitectura sa modernă, caracterizată prin linii verticale puternice și fațade din sticlă și beton, turnul este un simbol al stabilității economice a regiunii. Acesta servește drept sediu național pentru instituția financiară care gestionează moneda comună (francul CFA) pentru opt țări din vestul Africii. Vizibil de pe mare și din aproape orice punct al centrului orașului, Turnul BCEAO reprezintă inima bancară a Senegalului, înconjurată de alte instituții financiare și ministere importante. Deși nu este deschis publicului pentru vizite turistice interioare, el constituie un reper geografic esențial pentru orientarea în capitală. Noaptea, turnul este adesea iluminat, subliniind importanța sa ca far al modernității economice africane în inima celei mai vestice metropole a continentului.",
+      "factsAdvanced": [
+        "Cea mai înaltă clădire din Dakar și un simbol al centrului financiar.",
+        "Găzduiește sediul național al Băncii Centrale a Statelor Africii de Vest.",
+        "Arhitectura sa este un exemplu de modernism african târziu.",
+        "Situată în cartierul Plateau, la intersecția marilor bulevarde bancare.",
+        "Joacă un rol crucial în reglementarea politicii monetare a zonei francului CFA.",
+        "Este punctul de reper principal pentru orientarea în centrul orașului.",
+        "Înălțimea sa depășește 70 de metri, având peste 20 de etaje.",
+        "Este considerată una dintre cele mai securizate clădiri din Senegal."
+      ]
+    },
+    {
+      "id": "sn-mosquee-divinite-landmarks-v2",
+      "descriptionAdvanced": "Moscheea Divinității (Mosquée de la Divinité) este una dintre cele mai spectaculoase și mai bine plasate edificii religioase din Senegal, situată chiar pe țărmul Oceanului Atlantic, în golful Ouakam din Dakar. Inaugurată în 1997, moscheea a fost construită în urma unei viziuni avute de Mohamed Gorgui Seyni Sy, care a pretins că a primit instrucțiuni divine pentru a ridica acest loc de rugăciune pe malul apei. Edificiul se remarcă prin cele două minarete verzi înalte și arhitectura sa albă strălucitoare, care contrastează puternic cu albastrul oceanului și rocile negre vulcanice din jur. Coborârea pe scările lungi care duc de la șoseaua principală spre plajă oferă o priveliște iconică, moscheea părând să plutească pe valuri în timpul fluxului. Este un loc de o mare fervoare spirituală pentru comunitatea Lebou și un simbol al legăturii sacre dintre poporul senegalez și oceanul care le oferă viață.",
+      "factsAdvanced": [
+        "Situată pe plaja Ouakam, direct pe linia țărmului Atlanticului.",
+        "Construită în doar 5 ani și 4 luni, fiind inaugurată în 1997.",
+        "Cele două minarete gemene au o înălțime de 45 de metri.",
+        "Designul a fost inspirat de o viziune mistică a fondatorului său.",
+        "Este un loc de rugăciune central pentru comunitatea pescarilor Lebou.",
+        "Oferă una dintre cele mai fotografiate perspective din capitala Dakar.",
+        "Cunoscută pentru scările sale lungi care coboară dinspre cartier spre mare.",
+        "Simbolizează purificarea și prezența divină în elementele naturii."
+      ]
+    },
+    {
+      "id": "sn-place-independance-landmarks-v2",
+      "descriptionAdvanced": "Piața Independenței (Place de l'Indépendance) este inima istorică și geografică a centrului orașului Dakar (Plateau), fiind locul unde se întâlnesc marile bulevarde ale capitalei. Această piață spațioasă, înconjurată de clădiri administrative majore, hoteluri de lux și sedii de bănci, a fost martora evoluției Senegalului de la perioada colonială la modernitate. În centrul său se află grădini îngrijite și fântâni, oferind un moment de respiro în mijlocul agitației urbane. Piața este înconjurată de instituții emblematice precum Camera de Comerț, Guvernul Regiunii Dakar și Ministerul Afacerilor Externe. Este locul tradițional pentru desfășurarea marilor parade militare și a festivităților naționale de 4 aprilie, ziua în care Senegalul își celebrează independența. Pentru turiști, Piața Independenței este punctul ideal de plecare pentru explorarea arhitecturii coloniale a orașului sau pentru o plimbare spre portul Dakar și piața de artizanat din apropiere.",
+      "factsAdvanced": [
+        "Centrul simbolic al vieții politice și economice din Plateau, Dakar.",
+        "Locul principal de desfășurare a paradelor de Ziua Națională a Senegalului.",
+        "Înconjurată de clădiri istorice din epoca colonială franceză.",
+        "Găzduiește Camera de Comerț și Ministerul Afacerilor Externe.",
+        "Este punctul de convergență pentru Bulevardul Republicii și Bulevardul Pompidou.",
+        "A fost complet renovată recent pentru a deveni un spațiu pietonal mai prietenos.",
+        "Reprezintă kilometrul zero al rețelei rutiere din Senegal.",
+        "Un nod esențial pentru transportul public și orientarea turiștilor în capitală."
+      ]
+    },
+    {
+      "id": "reserve-bandia-life-v2",
+      "descriptionAdvanced": "Rezervația Bandia este cel mai popular parc natural privat din Senegal, situat la aproximativ 65 de kilometri de Dakar, oferind o experiență de safari autentică întrun cadru protejat de 3.500 de hectare. Rezervația a fost creată pentru a reintroduce în regiune specii de animale sălbatice care dispăruseră din cauza vânătorii și a pierderii habitatului. Vizitatorii pot observa de aproape, din vehicule de teren, animale impresionante precum rinoceri albi, girafe, zebre, struți, antilope eland și diverse specii de maimuțe. Peisajul este dominat de păduri de baobabi gigantici, printre care se află și un „baobab-mormânt” istoric, folosit în trecut de comunitățile griot. Rezervația include și o zonă de mlaștină unde pot fi văzuți crocodili și o mare varietate de păsări exotice. Bandia joacă un rol crucial în educația ecologică a tinerilor senegalezi și reprezintă un model de succes pentru turismul sustenabil, combinând conservarea faunei cu accesibilitatea pentru publicul larg.",
+      "factsAdvanced": [
+        "Ocupă o suprafață de 3.500 de hectare de savană împădurită cu baobabi.",
+        "Găzduiește rinoceri albi, girafe și zebră introduse pentru conservare.",
+        "Este situată pe drumul principal către Mbour și regiunea turistică Petite Côte.",
+        "Adăpostește un baobab sacru vechi de peste 1.000 de ani.",
+        "Vizitatorii pot face safari în vehicule deschise cu ghizi specializați.",
+        "Include un sit istoric cu morminte tradiționale ale griot-ilor în trunchiuri de copaci.",
+        "Este un habitat ideal pentru peste 120 de specii de păsări africane.",
+        "Contribuie la protejarea speciilor pe cale de dispariție din Sahel."
+      ]
+    },
+    {
+      "id": "ferme-de-kolda-life-v2",
+      "descriptionAdvanced": "Ferma Națională de la Kolda, situată în regiunea fertilă Casamance, este un centru de excelență pentru cercetarea și dezvoltarea sectorului zootehnic din Senegal. Această instituție joacă un rol vital în îmbunătățirea raselor locale de bovine, în special prin promovarea rasei Ndama, care este cunoscută pentru rezistența sa excepțională la boli tropicale precum trypanosomiaza. Ferma servește ca laborator viu pentru studenții la agronomie și pentru fermierii din întreaga regiune, oferind cursuri de formare în tehnici moderne de creștere a animalelor și gestionare a pășunilor. Într-o regiune unde creșterea animalelor este fundamentul vieții sociale și economice, ferma de la Kolda contribuie la creșterea productivității și la asigurarea securității alimentare naționale. Peisajul fermei, cu pășuni verzi și unități de producție model, reflectă potențialul imens al Africii de Vest pentru o agricultură durabilă și tehnologizată, adaptată perfect condițiilor climatice locale.",
+      "factsAdvanced": [
+        "Centru național de selecție și ameliorare a rasei de bovine Ndama.",
+        "Situată în regiunea Kolda, inima zootehniei din sudul Senegalului.",
+        "Joacă un rol crucial în lupta împotriva bolilor parazitare la animale.",
+        "Oferă asistență tehnică și semințe de furaje fermierilor locali.",
+        "Include facilități de cercetare veterinară și laboratoare moderne.",
+        "Promovează tehnici de silvopastoralism pentru protejarea mediului.",
+        "Este un pilon al politicii de independență alimentară a statului senegalez.",
+        "Regiunea Kolda este responsabilă pentru o mare parte din producția de carne a țării."
+      ]
+    },
+    {
+      "id": "parc-magic-land-life-v2",
+      "descriptionAdvanced": "Magic Land este cel mai mare parc de distracții din Senegal, situat pe faleza Corniche Ouest din Dakar, oferind un spațiu de recreere modern pentru familiile din capitală și turiști. Cu o vedere panoramică spre Oceanul Atlantic, parcul combină adrenalina jocurilor mecanice cu facilități de divertisment variate, inclusiv cinematografe, restaurante și zone de joacă tematice pentru copii. Magic Land a devenit un punct de întâlnire popular în weekend-uri, fiind unul dintre puținele locuri din oraș dedicate exclusiv timpului liber și distracției în familie. Parcul găzduiește frecvent evenimente culturale, concerte și petreceri de aniversare, contribuind la dinamismul social al Dakarului. Deși este o instituție privată, importanța sa în viața cotidiană a locuitorilor este semnificativă, oferind o alternativă modernă la plajele publice și piețele tradiționale. Designul său colorat și varietatea atracțiilor, de la carusele la roți panoramice, îl fac un punct de reper vesel pe linia țărmului dakarez.",
+      "factsAdvanced": [
+        "Cel mai mare și mai modern parc de distracții din Senegal.",
+        "Situat pe faleza Corniche din Dakar, direct lângă Oceanul Atlantic.",
+        "Dispune de numeroase atracții mecanice, inclusiv un roller coaster.",
+        "Include zone dedicate spectacolelor pentru copii și evenimentelor festive.",
+        "Este o destinație preferată pentru familiile din clasa medie din capitală.",
+        "Oferă o vedere spectaculoasă asupra insulei Madeleine la apus.",
+        "Parcul dispune de securitate privată și standarde moderne de siguranță.",
+        "Contribuie la economia turistică locală prin atragerea vizitatorilor din regiune."
+      ]
+    },
+    {
+      "id": "zone-arachidiere-life-v2",
+      "descriptionAdvanced": "Zona Arachidieră (Bazinul de Arahide) reprezintă inima geografică și socială a Senegalului rural, întinzându-se pe regiunile Kaolack, Fatick, Diourbel și Kaffrine. Această regiune este motorul agricol al țării, unde cultivarea mogyoró-ului (arahidelor) definește ritmul vieții pentru milioane de oameni de generații întregi. Peisajul este marcat de vaste câmpii punctate de baobabi impunători și de sate tradiționale unde viața se desfășoară în jurul recoltării și procesării semințelor. Arahidele nu sunt doar o cultură de export, ci și baza alimentației locale, fiind folosite pentru celebrul sos Mafé. Zona este, de asemenea, centrul culturii Serer și Wolof, unde tradițiile orale și sistemele de solidaritate comunitară sunt încă foarte puternice. În timpul sezonului de recoltare, întreaga regiune se transformă într-un furnicar de activitate, cu piețe volante și camioane încărcate care se îndreaptă spre rafinăriile din Kaolack sau spre portul Dakar.",
+      "factsAdvanced": [
+        "Cea mai importantă regiune agricolă din Senegal după suprafață și populație.",
+        "Arahidele reprezintă principala sursă de venit pentru familiile din mediul rural.",
+        "Regiunea este caracterizată de o densitate mare de arbori de baobab.",
+        "Cuprinde regiunile centrale Kaolack, Fatick și Diourbel.",
+        "Sistemul de rotație a culturilor include köles (millet) și arahide.",
+        "Este centrul istoric al frățiilor sufi (Murid și Tijani) din mediul rural.",
+        "Exportul de arahide a fost coloana vertebrală a economiei de la independență.",
+        "Regiunea se confruntă cu provocări legate de schimbările climatice și eroziunea solului."
+      ]
+    },
+    {
+      "id": "musee-des-enfants-life-v2",
+      "descriptionAdvanced": "Muzeul Copiilor din Dakar este o instituție educațională inovatoare, concepută pentru a stimula curiozitatea și creativitatea celor mai tineri cetățeni ai Senegalului. Situat într-un cadru accesibil în capitală, muzeul oferă expoziții interactive care abordează teme precum istoria Africii, protecția mediului, știința și artele tradiționale, toate prezentate într-un limbaj adaptat copiilor. Spre deosebire de muzeele clasice, aici copiii sunt încurajați să atingă exponatele, să experimenteze și să învețe prin joc. Muzeul organizează regulat ateliere de pictură, muzică tradițională și povestiri, menținând vie moștenirea griot-ilor într-un format modern. Este un spațiu esențial pentru formarea identității culturale a noii generații, oferindu-le un sentiment de mândrie față de valorile senegaleze și deschidere către lumea modernă. Muzeul servește, de asemenea, ca resursă pentru școli, oferind programe pedagogice care completează curriculumul național prin metode de învățare non-formale.",
+      "factsAdvanced": [
+        "Primul muzeu din Senegal dedicat exclusiv publicului tânăr.",
+        "Promovează învățarea prin metode interactive și ludice.",
+        "Găzduiește ateliere de meșteșuguri tradiționale și tehnologie digitală.",
+        "Situat în inima culturală a orașului Dakar, accesibil familiilor.",
+        "Include secțiuni dedicate explorării naturii și protejării oceanului.",
+        "Colaborează cu artiști locali pentru a crea instalații educative.",
+        "Este o destinație populară pentru excursiile școlare din regiunea Dakar.",
+        "Scopul său este dezvoltarea gândirii critice și a creativității copiilor."
+      ]
+    },
+    {
+      "id": "reserve-gueumbeul-life-v2",
+      "descriptionAdvanced": "Rezervația Specială de Faună de la Gueumbeul, situată lângă orașul Saint-Louis, este un sanctuar crucial pentru conservarea biodiversității în nordul Senegalului. Înființată în 1983, rezervația se întinde pe aproximativ 720 de hectare și include un mix variat de habitate, de la lacuri cu apă sărată la dune de nisip și păduri de akác. Gueumbeul este faimoasă pentru programele sale de succes de reintroducere a unor specii pe cale de dispariție, cum ar fi gazela Dama (Mhorr), antilopa Oryx și broasca țestoasă africană sulcata. De asemenea, rezervația este un punct important de popas pentru mii de păsări migratoare care traversează Sahara. Fiind o arie protejată mai mică și mai ușor de explorat decât marile parcuri naționale, Gueumbeul oferă o oportunitate excelentă pentru cercetare științifică și educație ecologică. Vizitatorii pot observa animalele în semi-libertate, contribuind prin taxa de intrare la eforturile de protejare a faunei unice din regiunea Sahel.",
+      "factsAdvanced": [
+        "Centru mondial pentru reintroducerea gazelei Dama, specie critic periclitată.",
+        "Situată la doar 10 kilometri sud de orașul istoric Saint-Louis.",
+        "Cuprinde un lac sărat sezonier care atrage flamingo roz.",
+        "Adăpostește cea mai mare colonie de broaște țestoase de uscat din Senegal.",
+        "Situl este clasificat ca zonă umedă de importanță internațională (Ramsar).",
+        "Include un program de dezvoltare a faunei prin reproducere în captivitate.",
+        "Este un sit ideal pentru observarea păsărilor și fotografia de natură.",
+        "Joacă un rol cheie în conservarea florei specifice solurilor sărate."
+      ]
+    },
+    {
+      "id": "riziere-casamance-life-v2",
+      "descriptionAdvanced": "Orezăriile din Casamance reprezintă peisajul agricol cel mai emblematic și vital din sudul Senegalului, reflectând o tradiție milenară a poporului Diola. Spre deosebire de culturile mecanizate din nord, orezul din Casamance este cultivat în armonie cu ecosistemul mangrovelor, folosind tehnici ingenioase de gestionare a apei și a salinității. Orezăriile sunt adesea sculptate în mici parcele delimitate de diguri de pământ, care rețin apa de ploaie în timpul sezonului umed (hivernage). Cultivarea orezului este mai mult decât o activitate economică; este fundamentul culturii și religiei locale, fiind însoțită de ritualuri ancestrale și festivaluri ale recoltei. Femeile joacă un rol central în acest proces, fiind depozitarele cunoștințelor tradiționale despre selecția semințelor. Aceste peisaje verzi și bușonice, unde orezul crește la umbra palmierilor, oferă Casamance-ului titlul de „grânar al Senegalului” și reprezintă un model remarcabil de agricultură familială rezilientă în fața provocărilor moderne.",
+      "factsAdvanced": [
+        "Baza alimentară și culturală a regiunii Casamance de peste un mileniu.",
+        "Poporul Diola a dezvoltat tehnici unice de irigații pe soluri sărate.",
+        "Utilizarea uneltei tradiționale „kayendo” pentru pregătirea terenului.",
+        "Sistemul depinde de ploile abundente din perioada iulie-octombrie.",
+        "Orezăriile oferă un habitat important pentru numeroase specii de păsări acvatice.",
+        "Sunt adesea integrate în zonele de mangrove de-a lungul râului Casamance.",
+        "Cultura orezului este strâns legată de sistemele de credințe animiste locale.",
+        "Producția este destinată în principal consumului familial (autoconsum)."
+      ]
+    }
+  ]
+}

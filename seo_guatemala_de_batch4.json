@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gt-cotzal-cities-v2",
+      "descriptionAdvanced": "San Juan Cotzal, die kleinste und oft am meisten übersehene Gemeinde des indigenen Ixil-Dreiecks, liegt verborgen in den zerklüfteten Bergen des Departamentos Quiché. Das Leben in Cotzal ist tief in den jahrhundertealten Maya-Traditionen verwurzelt. Die Frauen der Gemeinde sind meisterhafte Weberinnen, deren kunstvolle, von Grüntönen dominierte Huipiles (Blusen) mit komplexen Vogel- und Naturmotiven verziert sind. Die steilen, fruchtbaren Berghänge werden für Subsistenzlandwirtschaft genutzt, wobei sich in den letzten Jahren der Anbau von Spezialitätenkaffee als wichtige Einnahmequelle etabliert hat. Wie Nebaj und Chajul war auch Cotzal in den 1980er Jahren massiv von den Gewalttaten des Bürgerkriegs betroffen. Heute ist die Gemeinde ein Ort langsamer Heilung, in dem die Menschen ihre Sprache, den Ixil-Dialekt, und ihre Bräuche bewahren. Geografie K7 — Abgeschiedene Bergregionen.",
+      "factsAdvanced": [
+        "Cotzal bildet zusammen mit Nebaj und Chajul das historische 'Ixil-Dreieck'.",
+        "Die Gemeinde liegt auf einer kühlen Höhe von rund 1.700 Metern.",
+        "Der traditionelle Traje (Kleidung) der Frauen wird stark von Grüntönen dominiert.",
+        "Die Wirtschaft basiert auf Subsistenzlandwirtschaft und wachsendem Kaffeeanbau.",
+        "In der Kolonialzeit wurden indigene Arbeiter aus Cotzal zur Zwangsarbeit gezwungen.",
+        "Die Region erlitt in den 1980er Jahren schwerste Zerstörungen im Bürgerkrieg."
+      ]
+    },
+    {
+      "id": "gt-uspantan-cities-v2",
+      "descriptionAdvanced": "Uspantán ist eine ausgedehnte, historisch höchst bedeutsame Gemeinde im Departamento Quiché. Internationale Bekanntheit erlangte die kleine Stadt, weil hier im nahen Dorf Laj Chimel die Friedensnobelpreisträgerin Rigoberta Menchú geboren wurde. Die Bevölkerung von Uspantán ist eine diverse Mischung aus K'iche'- und Uspanteko-Maya sowie Ladinos. Geografisch bietet das weite Gemeindegebiet einen dramatischen Kontrast, der von kühlen, nebligen Bergwäldern bis hin zu den heißen, tropischen Ufern des Flusses Chixoy (Negro) reicht. In der präkolumbischen Zeit war die Region ein mächtiges indigenes Zentrum, das sich der spanischen Eroberung lange und erbittert widersetzte. Heute dominiert die Landwirtschaft das Wirtschaftsleben, insbesondere Mais, Bohnen und in tieferen Lagen Kaffee und Kardamom. Geschichte K8 — Friedensnobelpreis und Maya-Kultur.",
+      "factsAdvanced": [
+        "Uspantán ist der Geburtsort der Friedensnobelpreisträgerin Rigoberta Menchú.",
+        "Das historische Uspantán widersetzte sich hartnäckig der spanischen Eroberung.",
+        "Die Uspanteko-Sprache wird weltweit fast ausschließlich hier gesprochen.",
+        "Die Topographie reicht von kalten Bergen (über 2.500 m) bis zu heißen Flusstälern.",
+        "Der nahegelegene Chixoy-Fluss bildet die Grenze zum Departamento Alta Verapaz.",
+        "Die Region war in den 1980er Jahren ein Epizentrum des guatemaltekischen Bürgerkriegs."
+      ]
+    },
+    {
+      "id": "gt-rabinal-cities-v2",
+      "descriptionAdvanced": "Rabinal, gelegen in einem breiten, trockenen Tal im Departamento Baja Verapaz, ist eine kulturelle Schatzkammer der Achi-Maya. Die Stadt ist vor allem berühmt für den prähispanischen Tanz 'Rabinal Achí', ein episches dramatisches Ritual, das von der UNESCO zum immateriellen Weltkulturerbe erklärt wurde. Dieses Tanzdrama, das die Geschichte des Konflikts zwischen den K'iche' und den Rabinaleb erzählt, wird traditionell im Januar aufgeführt. Wirtschaftlich ist die Region bekannt für ihre süßen Orangen und die Herstellung der traditionellen 'Jícaras' (bunt bemalte Trinkschalen aus Kalebassen). Ein dunkles Kapitel der neueren Geschichte sind die massiven Menschenrechtsverletzungen, die in den 1980er Jahren während des Baus des nahen Chixoy-Staudamms gegen die Achi-Bevölkerung verübt wurden. Kunst K8 — Prähispanische Rituale und Theater.",
+      "factsAdvanced": [
+        "Das Tanzdrama 'Rabinal Achí' ist ein UNESCO-Weltkulturerbe.",
+        "Rabinal ist das wichtigste kulturelle Zentrum der indigenen Achi-Maya.",
+        "Die Stadt liegt auf etwa 970 Metern Höhe in einem relativ trockenen Tal.",
+        "Bemalte Kalebassenschalen (Jícaras) sind das berühmteste Kunsthandwerk der Stadt.",
+        "In der Stadt befindet sich ein wichtiges Museum zur Aufarbeitung des Bürgerkriegs.",
+        "Das Umland produziert einige der besten Orangen Guatemalas."
+      ]
+    },
+    {
+      "id": "gt-cubulco-cities-v2",
+      "descriptionAdvanced": "Cubulco ist eine abgelegene Gemeinde in der Baja Verapaz, die sich in einem tiefen Talkessel befindet. Die Stadt teilt viele kulturelle Eigenschaften mit dem benachbarten Rabinal, insbesondere die tiefe Verwurzelung in der Achi-Maya-Kultur. Jedes Jahr am Tag des Schutzpatrons (Santiago Apóstol) im Juli ist Cubulco Schauplatz des atemberaubenden 'Palo Volador'. Bei diesem uralten Fruchtbarkeitsritual springen Männer, als Affen verkleidet, an Seilen befestigt von einem riesigen Holzstamm in die Tiefe und drehen sich spiralförmig zu Boden. Ein einschneidendes Ereignis für die Gemeinde war der Bau des Chixoy-Wasserkraftwerks in den 1980er Jahren, durch den das nahegelegene Dorf Río Negro überflutet wurde; viele Überlebende der damit verbundenen Massaker wurden nach Cubulco umgesiedelt. Geschichte K8 — Staudammprojekte und Vertreibung.",
+      "factsAdvanced": [
+        "Cubulco ist landesweit bekannt für die spektakuläre Aufführung des 'Palo Volador'.",
+        "Die Stadt liegt sehr isoliert in einem Talkessel auf rund 900 Metern Höhe.",
+        "Die Einwohner sind fast vollständig Achi-Maya.",
+        "Durch den Chixoy-Staudamm verloren viele Gemeinden in der Region ihr angestammtes Land.",
+        "Das Klima in Cubulco ist deutlich trockener und heißer als im nahen Cobán.",
+        "Mais und Bohnen sind die absolute Grundlage der lokalen Ernährung und Wirtschaft."
+      ]
+    },
+    {
+      "id": "gt-concepcion-chiquirichapa-cities-v2",
+      "descriptionAdvanced": "Concepción Chiquirichapa liegt hoch in den Bergen des Departamentos Quetzaltenango und ist eine geschäftige, dicht besiedelte indigene Gemeinde. Sie ist eine absolute Hochburg der Mam-Kultur. Aufgrund des kalten Klimas, das durch dichten Nebel und häufigen Frost im Winter geprägt ist, haben sich die Landwirte der Region fast vollständig auf den Anbau von Kartoffeln spezialisiert. Riesige Felder mit unzähligen Kartoffelsorten bedecken die Berghänge, weshalb die Stadt im ganzen Land als 'Die Hauptstadt der Kartoffel' gilt. Die Stadt ist auch das Tor zum Volcán Chicabal, in dessen Krater sich ein heiliger See befindet, an dem Mam-Priester regelmäßig Maya-Zeremonien abhalten. Der lokale Markt platzt aus allen Nähten mit bunt gekleideten Frauen, die landwirtschaftliche Produkte feilbieten. Geografie K7 — Landwirtschaft in Höhenlagen.",
+      "factsAdvanced": [
+        "Die Gemeinde liegt auf einer extrem kühlen Höhe von rund 2.500 Metern.",
+        "Concepción Chiquirichapa ist das wichtigste Kartoffelanbaugebiet Guatemalas.",
+        "Die Stadt ist der Ausgangspunkt für Wanderungen zur heiligen Laguna de Chicabal.",
+        "Die Bevölkerung gehört fast ausschließlich der ethnischen Gruppe der Mam an.",
+        "Die extrem dicht bebaute Stadt wächst fast nahtlos mit Nachbargemeinden zusammen.",
+        "Lokale Bräuche und religiöser Synkretismus sind hier allgegenwärtig."
+      ]
+    },
+    {
+      "id": "gt-puerto-quetzal-port-economic-v2",
+      "descriptionAdvanced": "Puerto Quetzal, gelegen im Departamento Escuintla, ist der wichtigste und modernste Hafen Guatemalas an der Pazifikküste. Er wurde in den 1980er Jahren errichtet, um den historischen, aber veralteten Hafen von Puerto San José zu ersetzen, der keine Tiefseeschiffe aufnehmen konnte. Heute ist Puerto Quetzal das logistische Herzstück für die Exporte der boomenden guatemaltekischen Agrarindustrie. Hier werden Millionen Tonnen Zucker, Kaffee und Bananen in alle Welt verschifft, während im Gegenzug Treibstoffe, Maschinen und Fahrzeuge für den nationalen Markt entladen werden. Ein spezialisiertes Terminal dient zudem der Aufnahme großer internationaler Kreuzfahrtschiffe. Die Anlage des Hafens, die aus künstlich ins Meer gebauten Wellenbrechern besteht, schützt die Schiffe vor der starken pazifischen Brandung. Wirtschaft K8 — Seehäfen und Logistik.",
+      "factsAdvanced": [
+        "Puerto Quetzal ist der Hafen mit dem größten Frachtvolumen am Pazifik Guatemalas.",
+        "Er wurde 1983 offiziell eröffnet, um große Tiefseeschiffe (Panamax) abzufertigen.",
+        "Ein Großteil des guatemaltekischen Zuckers wird von hier in die ganze Welt exportiert.",
+        "Der Hafen besitzt ein eigenes, gut ausgebautes Kreuzfahrtterminal.",
+        "Die Hafenanlage wird durch zwei riesige künstliche Wellenbrecher (Rompeolas) geschützt.",
+        "Zoll und private Containerterminals bilden einen massiven Wirtschaftskomplex."
+      ]
+    },
+    {
+      "id": "gt-central-sugar-mill-industry-economic-v2",
+      "descriptionAdvanced": "Die Zuckerindustrie an der pazifischen Südküste, zentriert um gigantische Mühlen (Ingenios) wie Pantaleón, Magdalena oder Santa Ana, ist einer der stärksten Wirtschaftsmotoren Guatemalas. Das Land gehört zu den Top-Zuckerexporteuren der Welt. Während der sogenannten 'Zafra' (Erntezeit von November bis Mai) dominieren diese Industrieanlagen die gesamte Region. Riesige Lastwagen transportieren das Rohr zu den Mühlen, wo es nicht nur zu Zucker raffiniert wird, sondern die Ingenios produzieren aus der Biomasse (Bagasse) auch bis zu einem Drittel des landesweiten Strombedarfs und brennen massiv Bioethanol. Die Industrie ist hochgradig technisiert, steht jedoch wegen der starken Wasserentnahme aus den Küstenflüssen und der harschen Arbeitsbedingungen der Erntehelfer gelegentlich in der Kritik. Wirtschaft K8 — Agrarindustrie und erneuerbare Energien.",
+      "factsAdvanced": [
+        "Guatemala ist der zweitgrößte Zucker-Exporteur in Lateinamerika.",
+        "Die riesigen Zuckermühlen ('Ingenios') konzentrieren sich im Departamento Escuintla.",
+        "Aus den Zuckerrohrabfällen (Bagasse) produzieren die Mühlen eigenen Strom.",
+        "Während der Ernte ('Zafra') beschäftigen die Mühlen Zehntausende von Landarbeitern.",
+        "Die Produktion von Bioethanol für den Export ist ein stark wachsender Sektor.",
+        "Der Anbau erfordert massive Bewässerungssysteme während der Trockenzeit."
+      ]
+    },
+    {
+      "id": "gt-cement-plant-industry-economic-v2",
+      "descriptionAdvanced": "Die Zementindustrie in Guatemala wird von Cementos Progreso dominiert, einem der ältesten und mächtigsten Konzerne des Landes. Das wichtigste und größte Werk ('Planta San Miguel') befindet sich in Sanarate, im Departamento El Progreso, strategisch positioniert an gewaltigen Kalksteinvorkommen. Diese massiven Industrieanlagen versorgen den unaufhörlichen Bauboom im Land, der sich sowohl in neuen Autobahnen als auch in der rasanten Urbanisierung rund um Guatemala-Stadt zeigt. Die Zementherstellung ist ein enorm energieintensiver Prozess, weshalb die Anlagen auf eigene Kraftwerke und den Import von Kohle oder Petcoke angewiesen sind. Der Konzern hat die Infrastruktur der gesamten Region um Sanarate stark geprägt, sieht sich aber bei neuen Bergbauprojekten im Land oft mit dem Widerstand indigener Gemeinden konfrontiert. Wirtschaft K7 — Baustoffe und Infrastruktur.",
+      "factsAdvanced": [
+        "Die Zementindustrie Guatemalas ist eine der größten und ältesten in Zentralamerika.",
+        "Das Zementwerk 'San Miguel' in Sanarate ist das Rückgrat der nationalen Produktion.",
+        "Der Zement wird überwiegend für den massiven Bauboom in Guatemala-Stadt verwendet.",
+        "Die Industrie basiert auf dem großflächigen Abbau von Kalkstein (Caliza).",
+        "Zementfabriken gehören zu den größten Energieverbrauchern des Landes.",
+        "Trotz lokaler Produktion wird der Zement oft exportiert, etwa nach Belize oder El Salvador."
+      ]
+    },
+    {
+      "id": "gt-textile-factory-industry-economic-v2",
+      "descriptionAdvanced": "Die sogenannte 'Maquila'-Industrie (Textil- und Bekleidungsfertigung) ist einer der größten formellen Arbeitgeber Guatemalas. Konzentriert in Freihandelszonen rund um Guatemala-Stadt (wie Villa Nueva oder Amatitlán) und Chimaltenango, verarbeiten hunderte Fabriken importierte Garne und Stoffe zu Kleidung für weltbekannte US-Marken. Der Sektor profitiert von den Freihandelsabkommen (CAFTA-DR) und den im internationalen Vergleich niedrigen Lohnkosten. Hunderttausende Menschen, mehrheitlich junge Frauen, arbeiten in riesigen Hallen im Akkord an Nähmaschinen. Die Industrie hat sich von der einfachen Nahtarbeit weiterentwickelt und umfasst heute auch komplexe Webereien und Färbereien. Während die Maquilas dringend benötigte Jobs schaffen, stehen die oft harten Arbeitsbedingungen und langen Schichten immer wieder in der öffentlichen Kritik. Wirtschaft K8 — Globale Lieferketten und Textilien.",
+      "factsAdvanced": [
+        "Textilien und Bekleidung sind das wichtigste Exportgut Guatemalas in die USA.",
+        "Über 100.000 Menschen, größtenteils Frauen, arbeiten direkt in den Maquilas.",
+        "Die Fabriken operieren oft in speziellen, steuerbefreiten Zonen ('Zonas Francas').",
+        "Der Sektor hat sich durch CAFTA-DR stark modernisiert und technisiert.",
+        "Viele südkoreanische und taiwanesische Firmen besitzen Textilwerke in Guatemala.",
+        "T-Shirts, Jeans und Sportbekleidung gehören zu den am meisten produzierten Gütern."
+      ]
+    },
+    {
+      "id": "gt-champerico-port-economic-v2",
+      "descriptionAdvanced": "Champerico im Departamento Retalhuleu war im 19. und frühen 20. Jahrhundert ein blühender Hafen, über den der gesamte guatemaltekische Kaffee aus dem Westen nach Europa verschifft wurde. An diese glorreiche Zeit erinnert heute noch die rostige Eisenstruktur des alten Piers, der weit ins Meer ragt. Mit dem Bau des modernen Hafens Quetzal verlor Champerico seine Bedeutung für den internationalen Frachtverkehr vollständig. Heute stützt sich die Wirtschaft der stark heruntergekommenen Stadt auf die kommerzielle Garnelenfischerei und den Fang von Schnappern sowie den inländischen Strandtourismus. Trotz der oft extrem starken Brandung versuchen Surfer hier ihr Glück, während die lokalen Fischer in kleinen Booten täglich ihr Leben riskieren. Geschichte K7 — Historische Häfen und Fischerei.",
+      "factsAdvanced": [
+        "Champerico war einst der wichtigste Kaffeehafen für den Westen Guatemalas.",
+        "Ein verfallender, eiserner Pier aus der Kolonialzeit prägt das Gesicht des Strandes.",
+        "Der moderne Frachtverkehr wurde vor Jahrzehnten nach Puerto Quetzal verlegt.",
+        "Heute ist die Stadt ein Zentrum für die industrielle Fischerei und Garnelenzucht.",
+        "Die Strände aus dunklem Vulkansand sind in den Ferien ein beliebtes lokales Ziel.",
+        "Die Region hat mit starken pazifischen Wellen (Mareas) zu kämpfen."
+      ]
+    },
+    {
+      "id": "gt-banan-export-industry-economic-v2",
+      "descriptionAdvanced": "Die Bananenindustrie in Guatemala hat eine tiefe, oft umstrittene Geschichte und bleibt ein massiver wirtschaftlicher Faktor. Während im 20. Jahrhundert die amerikanische United Fruit Company (UFCO) als Staat im Staate agierte, wird die Produktion heute von großen lokalen Firmen im Auftrag internationaler Marken (wie Chiquita, Dole und Del Monte) durchgeführt. Die riesigen Plantagen erstrecken sich hauptsächlich in den heißen, extrem feuchten Tiefebenen der Departamentos Izabal (Karibik) und Escuintla (Pazifik). Die Früchte werden fast das ganze Jahr über geerntet, an Seilbahnen durch die Plantagen transportiert und sofort gekühlt verschifft. Bananen sind neben Kaffee und Zucker einer der wichtigsten Devisenbringer, doch der hohe Pestizideinsatz belastet die Umwelt der Anbaugebiete. Geschichte K8 — Multinationale Konzerne und Export.",
+      "factsAdvanced": [
+        "Guatemala ist einer der fünf größten Bananenexporteure weltweit.",
+        "Die Plantagen konzentrieren sich auf das pazifische (Süden) und atlantische (Norden) Tiefland.",
+        "Der Export erfolgt fast ganzjährig, da Bananen keine starre Erntezeit haben.",
+        "Historisch kontrollierte die US-Firma United Fruit Company den Großteil der Produktion.",
+        "Die Bananen werden grün und extrem stark gekühlt ('Reefer') verschifft.",
+        "Der Anbau erfordert einen immensen logistischen Aufwand und sehr schnelle Transportwege."
+      ]
+    },
+    {
+      "id": "gt-coffee-processing-industry-economic-v2",
+      "descriptionAdvanced": "Die Kaffeeverarbeitung ist das Herzstück der guatemaltekischen Exportkultur. Während der Kaffee hoch in den Bergen (wie in Antigua, Huehuetenango oder Cobán) wächst, erfolgt die komplexe Verarbeitung in sogenannten 'Beneficios' (Kaffeemühlen). Hier werden die reifen, roten Kaffeekirschen gewaschen, das Fruchtfleisch wird fermentiert und entfernt, und die Bohnen werden auf riesigen Betonterrassen ('Patios') tagelang in der Sonne getrocknet. Der guatemaltekische Kaffee zeichnet sich weltweit durch sein 'Washed'-Verfahren aus, was saubere, komplexe Säuren hervorbringt. Diese Beneficios sind massive Anlagen, die in der Erntezeit von November bis März unter Hochdruck arbeiten. Die Kaffeeindustrie beschäftigt direkt und indirekt Millionen von Guatemalteken und formt die Landschaften und Gesellschaften ganzer Departamentos. Wirtschaft K7 — Agrarprodukte und Weltmarkt.",
+      "factsAdvanced": [
+        "Guatemala ist weltberühmt für seinen gewaschenen Arabica-Hochlandkaffee.",
+        "Die Aufbereitungsanlagen ('Beneficios') trennen die Bohne vom Fruchtfleisch.",
+        "Die Sonnentrocknung auf riesigen Betonpatios ist das Markenzeichen der Qualität.",
+        "Kaffee wird in über 20 von 22 Departamentos in Guatemala angebaut.",
+        "Die nationale Kaffee-Vereinigung 'Anacafé' koordiniert den weltweiten Export.",
+        "Der Kaffeemarkt ist hochgradig abhängig von den schwankenden Weltmarktpreisen in New York."
+      ]
+    },
+    {
+      "id": "gt-oil-refinery-industry-economic-v2",
+      "descriptionAdvanced": "Obwohl Guatemala nicht als Ölgigant bekannt ist, besitzt es eine strategische Erdölindustrie. Im tiefsten Dschungel des Departamentos Petén (Laguna del Tigre) fördert das Xan-Feld extrem schweres, schwefelhaltiges Rohöl. Dieses Öl wird über eine Hunderte Kilometer lange Pipeline, die quer durch das Land verläuft, bis an die Atlantikküste (Piedras Negras) gepumpt. Zusätzlich operieren an der Pazifikküste bei Escuintla kleinere Raffinerien und massive Lagerterminals, in denen hauptsächlich importierte Kraftstoffe, Diesel und Flüssiggas (LPG) für den nationalen Markt aufbereitet oder gelagert werden. Die Förderung im Petén ist jedoch wegen ihrer Lage innerhalb von Naturschutzgebieten hochgradig umstritten und ständiger Kritik von Umweltverbänden ausgesetzt. Geografie K8 — Fossile Brennstoffe und Umweltschutz.",
+      "factsAdvanced": [
+        "Guatemala fördert kleine Mengen extrem schweren Rohöls im Departamento Petén.",
+        "Das wichtigste Ölfeld heißt Xan und liegt inmitten des Laguna del Tigre Nationalparks.",
+        "Eine massive Pipeline durchquert das Land vom Petén bis zum Karibikhafen.",
+        "Ein Großteil des inländischen Benzinbedarfs muss trotzdem importiert werden.",
+        "In Escuintla befinden sich strategische Lager- und Asphaltverarbeitungsanlagen.",
+        "Die lokale Ölförderung exportiert hauptsächlich Bitumen und Rohöl für den Straßenbau."
+      ]
+    },
+    {
+      "id": "gt-hydro-plant-industry-economic-v2",
+      "descriptionAdvanced": "Das Chixoy-Wasserkraftwerk, gelegen tief in den Bergen an der Grenze zwischen Alta Verapaz und Quiché, ist das bei weitem mächtigste und wichtigste Infrastrukturprojekt in Guatemala. Der gigantische Staudamm, der in den frühen 1980er Jahren errichtet wurde, staut den Chixoy-Fluss (Río Negro) und erzeugt noch heute das Rückgrat der nationalen Stromversorgung. Das Wasser wird durch einen 26 Kilometer langen Tunnel durch die Berge geleitet, bevor es auf die massiven Turbinen trifft. Der Bau des Kraftwerks ist jedoch von einer der dunkelsten Tragödien der modernen Geschichte Guatemalas überschattet: Um Platz für den Stausee zu machen, wurden lokale Achi-Maya-Gemeinden (wie Río Negro) brutal vertrieben und Hunderte Zivilisten durch das Militär massakriert. Geschichte K8 — Großbauprojekte und Menschenrechte.",
+      "factsAdvanced": [
+        "Das Chixoy-Kraftwerk ist der größte einzelne Stromerzeuger Guatemalas.",
+        "Es liegt am Rio Negro (Chixoy) zwischen den Departamentos Alta Verapaz und Quiché.",
+        "Ein 26 km langer Tunnel führt das Wasser durch die Berge zu den Turbinen.",
+        "Der Bau in den 1980er Jahren führte zu massiven und gewalttätigen Vertreibungen.",
+        "Trotz seines Alters deckt das Kraftwerk einen bedeutenden Teil des nationalen Energiebedarfs.",
+        "Das Projekt wurde teilweise durch internationale Banken (wie die Weltbank) finanziert."
+      ]
+    },
+    {
+      "id": "gt-mining-site-industry-economic-v2",
+      "descriptionAdvanced": "Die Bergbauindustrie in Guatemala, insbesondere der Abbau von Metallen, ist einer der umstrittensten Wirtschaftssektoren des Landes. Riesige Projekte wie die Fénix-Nickelmine in El Estor (Izabal) am Izabal-See oder die Escobal-Silbermine in San Rafael Las Flores (Santa Rosa) haben zwar ausländische Investitionen in Milliardenhöhe angezogen, jedoch auch heftige soziale und ökologische Konflikte ausgelöst. Die lokalen indigenen und bäuerlichen Gemeinden wehren sich massiv gegen den Bergbau, da sie die Verschmutzung ihrer Wasserquellen und den Verlust von Landrechten fürchten. Dies hat mehrfach zur Aufhebung von Lizenzen durch das Verfassungsgericht und zu landesweiten Protesten geführt. Technologisch sind diese Minen hochkomplex und erfordern massiven Energie- und Wassereinsatz. Politik K8 — Ressourcenkonflikte.",
+      "factsAdvanced": [
+        "Der großflächige Abbau von Nickel, Gold und Silber wird meist von ausländischen Firmen betrieben.",
+        "Die Fénix-Mine (Izabal) gehört zu den größten Nickelreserven Zentralamerikas.",
+        "Der Escobal-Komplex in Santa Rosa war kurzzeitig die zweitgrößte Silbermine der Welt.",
+        "Proteste lokaler Gemeinden haben mehrfach zur vorübergehenden Schließung der Minen geführt.",
+        "Umweltbedenken fokussieren sich auf den immensen Wasserverbrauch und die Gefahr giftiger Schlämme.",
+        "Guatemala exportiert die abgebauten Metalle komplett unverarbeitet ins Ausland."
+      ]
+    },
+    {
+      "id": "gt-paper-mill-industry-economic-v2",
+      "descriptionAdvanced": "Die Papier- und Kartonindustrie Guatemalas ist ein wichtiger, oft unsichtbarer Pfeiler der lokalen Wirtschaft, der stark mit der Agrarindustrie verknüpft ist. Große Produktionsanlagen (wie PAINSA oder GrandBay Papelera) befinden sich meist in der südlichen Küstenebene und in Zacapa. Ein enormer Teil der Papierproduktion konzentriert sich nicht auf Druckerpapier, sondern auf Toilettenpapier für den lokalen Markt und auf massiven Industriekarton. Ohne diesen hochbelastbaren Karton wäre der Export von Millionen von Bananen-, Melonen- und Gemüse-Kisten in die USA und nach Europa unmöglich. Die Branche hat in den letzten Jahren stark in das Recycling von Altpapier investiert, um die Importkosten für Zellstoff zu senken und die Produktion nachhaltiger zu gestalten. Wirtschaft K7 — Verpackungsindustrie und Recycling.",
+      "factsAdvanced": [
+        "Die Papierfabriken konzentrieren sich auf Toilettenpapier und Industriekarton.",
+        "Der Agrarsektor (Bananen, Melonen) ist der größte Abnehmer der guatemaltekischen Kartons.",
+        "Viele Anlagen haben intensiv auf das Recycling von Altpapier (Pappe) umgestellt.",
+        "Die Produktion ist stark wasser- und energieintensiv.",
+        "Zacapa und Escuintla sind wichtige Standorte für diese großindustriellen Anlagen.",
+        "Guatemala exportiert Hygienepapier-Produkte nach ganz Zentralamerika."
+      ]
+    },
+    {
+      "id": "gt-poultry-processing-industry-economic-v2",
+      "descriptionAdvanced": "Die Geflügelindustrie ist einer der modernsten und am besten organisierten Agrarsektoren in Guatemala. Dominiert von wenigen Großkonzernen (wie der CMI-Gruppe hinter Pollo Campero und Pollo Indio), kontrolliert die Industrie die gesamte Kette vom Anbau des Futtermaises über massive Brut- und Mastanlagen ('Granjas') bis hin zu riesigen Schlachthöfen und der eigenen Restaurantkette. Die Mastanlagen befinden sich meist in den heißen Gebieten von Escuintla, Zacapa und Jutiapa. Geflügel ist bei Weitem die wichtigste Fleischquelle für die guatemaltekische Bevölkerung, da Rind- und Schweinefleisch oft zu teuer sind. Die Schlachthöfe arbeiten auf höchstem technologischen Niveau, um den hygienischen Anforderungen für den zentralamerikanischen Markt gerecht zu werden. Wirtschaft K7 — Nahrungsmittelindustrie und Massentierhaltung.",
+      "factsAdvanced": [
+        "Hühnerfleisch ist das am meisten konsumierte Fleisch in Guatemala.",
+        "Die Industrie ist extrem vertikal integriert, vom Futter bis zum Endverbraucher.",
+        "Riesige Hühnerfarmen prägen die Landschaft in den heißen Tälern des Südens und Ostens.",
+        "Die berühmte guatemaltekische Fast-Food-Kette 'Pollo Campero' ist eng mit dieser Industrie verwoben.",
+        "Ein Großteil des benötigten Futtermaises (Gelbmais) wird aus den USA importiert.",
+        "Strengste Hygienevorschriften dominieren die modernen Verarbeitungsanlagen."
+      ]
+    },
+    {
+      "id": "gt-bottling-plant-industry-economic-v2",
+      "descriptionAdvanced": "Die Getränke- und Abfüllindustrie Guatemalas ist ein industrieller Riese mit massiver Präsenz im Alltag der Bevölkerung. Herausragend ist hierbei die Cervecería Centroamericana (Hersteller des ikonischen Gallo-Biers), eines der ältesten und mächtigsten Familienunternehmen des Landes. Ihre monumentale Brauerei in Guatemala-Stadt gilt als technisches Vorzeigeprojekt in Zentralamerika. Daneben dominieren riesige Abfüllanlagen (Embotelladoras) für Coca-Cola und Pepsi, die sich meist in der Metropolregion und in Retalhuleu befinden. Angesichts des extrem heißen Klimas im Tiefland und des Mangels an sauberem Leitungswasser ist auch die Produktion von gereinigtem Flaschenwasser ein gigantisches Geschäft. Die Industrie ist bekannt für ihr perfektes landesweites Distributionsnetzwerk, das selbst die entlegensten Bergdörfer versorgt. Wirtschaft K7 — Konsumgüter und Brauwesen.",
+      "factsAdvanced": [
+        "Die Brauerei hinter 'Gallo' ist eine der ältesten und größten in ganz Zentralamerika.",
+        "Riesige Abfüllanlagen produzieren täglich Millionen Liter von Erfrischungsgetränken.",
+        "Die Logistik der Getränkekonzerne erreicht auch die isoliertesten Maya-Dörfer.",
+        "Die Produktion von gereinigtem Wasser in Plastikflaschen wächst rasant.",
+        "Viele Anlagen haben stark in Solarenergie und Wasserrecycling investiert.",
+        "Die Industrie hat massiven Einfluss auf Sponsoring im Sport und Kulturbereich."
+      ]
+    },
+    {
+      "id": "gt-steel-fabrication-industry-economic-v2",
+      "descriptionAdvanced": "Obwohl Guatemala keine Eisenerzminen betreibt, hat sich eine starke und moderne Stahlverarbeitungsindustrie etabliert, allen voran das Unternehmen Aceros de Guatemala. Diese Industrie basiert fast vollständig auf dem massenhaften Einschmelzen und Recyceln von importiertem und lokal gesammeltem Metallschrott (Chatarra). In gewaltigen elektrischen Lichtbogenöfen nahe Escuintla und Guatemala-Stadt wird der Schrott bei extremen Temperaturen geschmolzen und zu Bewehrungsstahl ('Hierro', Moniereisen) und Draht gewalzt. Dieser Stahl ist absolut lebensnotwendig für den guatemaltekischen Bausektor, da aufgrund der extremen Erdbebengefahr im ganzen Land jedes Haus und jede Brücke massiv mit Stahlbeton verstärkt werden muss. Chemie K8 — Metallrecycling und Stahlbeton.",
+      "factsAdvanced": [
+        "Die Stahlindustrie Guatemalas basiert zu 100 % auf dem Recycling von Eisenschrott.",
+        "Es gibt keine aktive Eisenerzgewinnung im Land.",
+        "Elektrische Lichtbogenöfen schmelzen den Schrott zu neuen Baustahlprodukten.",
+        "Aufgrund der Erdbebengefahr ist hochfester Bewehrungsstahl für jedes Bauprojekt Pflicht.",
+        "Die größten Stahlwerke befinden sich im industriellen Gürtel der Südküste.",
+        "Guatemala exportiert diesen Baustahl in das restliche Zentralamerika."
+      ]
+    },
+    {
+      "id": "gt-bakery-industry-economic-v2",
+      "descriptionAdvanced": "Die Backwarenindustrie (Panificadoras) ist ein zentraler und tief verwurzelter Teil der guatemaltekischen Kultur, der von hochmodernen Fabriken bis zur traditionellen Dorf-Bäckerei reicht. Während in den Dörfern unzählige kleine Bäckereien das berühmte 'Pan Francés' oder süßes 'Pan Dulce' im Holzofen backen, beherrschen Konzerne wie Grupo Bimbo und die regionale Großbäckerei Xelapan den Massenmarkt. In gigantischen Fabrikhallen nahe der Hauptstadt wird das industrielle Toastbrot (Pan de Caja) am Fließband produziert und verpackt. Für die Bevölkerung, besonders im kühlen Hochland (wie Quetzaltenango), ist Brot zusammen mit Kaffee ein absolutes Grundnahrungsmittel für das Nachmittagsmahl ('La Refacción'). Die Industrie importiert fast 100 % ihres Weizens aus Kanada und den USA, da dieser im Land kaum gedeiht. Sachkunde K5 — Nahrungsmittelproduktion.",
+      "factsAdvanced": [
+        "Toastbrot (Pan de Caja) wird in massiven, hochmodernen Fabriken produziert.",
+        "Guatemala muss fast seinen gesamten Weizen aus den USA und Kanada importieren.",
+        "Die Stadt Quetzaltenango ist berühmt für ihre regionale Bäckerei-Kette (Xelapan).",
+        "Süßes Brot (Pan Dulce) ist ein unersetzlicher Bestandteil der Nachmittagspause ('Refacción').",
+        "Trotz großer Industrieunternehmen gibt es in jedem Ort noch handwerkliche Bäckereien.",
+        "Die industrielle Produktion ist stark zentralisiert rund um die Hauptstadt."
+      ]
+    },
+    {
+      "id": "gt-chemical-plant-industry-economic-v2",
+      "descriptionAdvanced": "Hinter den grünen Landschaften der guatemaltekischen Landwirtschaft steht eine gewaltige, oft unsichtbare Chemieindustrie. Massive Unternehmen wie Disagro mischen und vertreiben Millionen Tonnen von Düngemitteln und Pestiziden, die den enormen Ertrag von Zuckerrohr, Bananen, Palmöl und Kaffee erst möglich machen. Die größten Mischanlagen befinden sich in der Industriezone von Escuintla und in der Nähe der Pazifikhäfen, da die chemischen Grundstoffe (wie Stickstoff, Phosphor und Kalium) per Schiff importiert werden müssen. Hier werden maßgeschneiderte Düngemittelmischungen ('Fórmulas') für die verschiedenen vulkanischen Böden Guatemalas hergestellt. Diese Industrie hat die traditionelle Landwirtschaft in eine effiziente Agroindustrie verwandelt, sorgt aber durch den immensen Düngemitteleinsatz und abfließende Nitrate immer wieder für schwere Umweltprobleme in den Flüssen. Chemie K8 — Industrielle Düngemittel.",
+      "factsAdvanced": [
+        "Die guatemaltekische Chemieindustrie fokussiert sich stark auf Agrarchemikalien.",
+        "Rohstoffe für Düngemittel (Nitrat, Phosphor) müssen in großen Mengen importiert werden.",
+        "Maßgeschneiderte Düngemischungen sind entscheidend für Kaffee und Zuckerrohr.",
+        "Die größten Anlagen liegen strategisch günstig nahe dem Pazifikhafen Puerto Quetzal.",
+        "Die Firmen bieten hochtechnologische Bodenanalysen für Großgrundbesitzer an.",
+        "Der exzessive Einsatz von Agrarchemikalien führt oft zu Wasserverschmutzung in der Küstenebene."
+      ]
+    },
+    {
+      "id": "gt-furniture-factory-industry-economic-v2",
+      "descriptionAdvanced": "Die Möbel- und Holzindustrie Guatemalas vereint uralte Handwerkstraditionen mit moderner industrieller Fertigung. Während in Bergdörfern (wie San Juan Ostuncalco) die indigenen Schreiner Stühle und Schränke in reiner Handarbeit aus massivem Kiefern- oder Zedernholz schnitzen, existiert rund um Guatemala-Stadt eine wachsende Industrie für maschinell gefertigte, moderne Möbel. Guatemala verfügt über enorme, aber oft durch Raubbau bedrohte Holzressourcen, vor allem Kiefern (Pinabete) im Hochland und wertvolle Edelhölzer wie Mahagoni im Dschungel des Petén. In letzter Zeit haben gemeinschaftliche Forstkonzessionen im Dschungel (FSC-zertifiziert) erfolgreich gezeigt, wie nachhaltige Holzwirtschaft und Export von Edelhölzern funktionieren können, ohne den Wald zu zerstören. Kunst K7 — Holzwirtschaft und Möbelbau.",
+      "factsAdvanced": [
+        "Guatemala exportiert nachhaltig zertifiziertes Mahagoniholz aus dem Petén in die ganze Welt.",
+        "Die indigenen Schreiner von San Juan Ostuncalco sind landesweit berühmt für ihr Handwerk.",
+        "Kiefern und Zypressen aus dem kühlen Hochland sind das meistgenutzte Bauholz.",
+        "Gemeindebasierte Forstkonzessionen im Petén sind ein globales Vorbild für Nachhaltigkeit.",
+        "Industrielle Möbelfabriken in der Hauptstadt beliefern zunehmend den lokalen Immobilienboom.",
+        "Raubbau an wertvollen Edelhölzern bleibt ein Problem in isolierten Regionen."
+      ]
+    },
+    {
+      "id": "gt-electronics-assembly-industry-economic-v2",
+      "descriptionAdvanced": "Im Gegensatz zu einigen asiatischen oder mexikanischen Märkten ist die klassische Hardware-Elektronikmontage in Guatemala noch ein relativ kleiner Sektor, der sich jedoch im Wandel befindet. In speziellen Freihandelszonen ('Zonas Francas') nahe der Hauptstadt montieren einige Werke einfache Bauteile, Kabelbäume für die Autoindustrie oder Haushaltsgeräte für den Export. Der wahre Boom der 'elektronischen Industrie' im weiteren Sinne liegt in Guatemala jedoch im Dienstleistungssektor: Callcenter und BPO (Business Process Outsourcing). Zehntausende junger, englischsprachiger Guatemalteken arbeiten in riesigen Bürokomplexen im ganzen Land für US-amerikanische Telekommunikations- und IT-Konzerne. Diese digitale Dienstleistungsindustrie bietet Löhne, die oft weit über dem nationalen Durchschnitt liegen, und verändert die städtische Jugendkultur rasant. Wirtschaft K8 — Outsourcing und Technologie.",
+      "factsAdvanced": [
+        "Klassische Elektronik-Hardware-Montage ist in Guatemala ein eher kleiner Industriesektor.",
+        "Dienstleistungen wie Callcenter und BPO sind dagegen extrem stark gewachsen.",
+        "Zehntausende junge Menschen arbeiten in 'Zonas Francas' für US-Technologieunternehmen.",
+        "Die fließende Beherrschung der englischen Sprache ist der Schlüssel für diesen Sektor.",
+        "Kleine Montagewerke konzentrieren sich oft auf Kabelbäume (Automobilzulieferer).",
+        "Diese Branche bietet eine der wichtigsten Aufstiegschancen für städtische Jugendliche."
+      ]
+    },
+    {
+      "id": "gt-print-facility-industry-economic-v2",
+      "descriptionAdvanced": "Die Druck- und Verpackungsindustrie in Guatemala ist hochgradig technologisiert und von entscheidender strategischer Bedeutung für den Exportsektor. Keines der millionenschweren Agrarprodukte – seien es Bananen, Melonen, Avocados oder Rum – könnte ohne hochfeste, feuchtigkeitsresistente und bedruckte Kartonverpackungen das Land verlassen. Große Druckereien und Verpackungswerke konzentrieren sich in der Metropolregion Guatemala-Stadt. Hier werden im Flexo- und Offsetdruck nicht nur Verpackungen, sondern auch Etiketten, Werbematerialien und Zeitschriften für ganz Zentralamerika produziert. Die Branche fordert hochqualifizierte Techniker und modernste Maschinen aus Europa oder den USA. In den letzten Jahren rückt die Nachfrage nach ökologisch nachhaltigen und recycelten Verpackungen immer stärker in den Fokus der Unternehmen. Wirtschaft K8 — Verpackungsindustrie und Logistik.",
+      "factsAdvanced": [
+        "Die Verpackungsindustrie ist für den Export von Früchten absolut überlebenswichtig.",
+        "Bananen- und Melonenkartons müssen extrem feuchtigkeitsresistent sein (Tropenklima).",
+        "Guatemala-Stadt ist das Zentrum hochmoderner Offset- und Flexodruckereien.",
+        "Die Industrie exportiert bedruckte Verpackungen und Etiketten nach ganz Zentralamerika.",
+        "Der Sektor investiert stark in umweltfreundliche Tinten und recycelte Materialien.",
+        "Neben Exportgütern ist die Getränkeindustrie der größte Abnehmer von Etiketten."
+      ]
+    },
+    {
+      "id": "gt-paint-factory-industry-economic-v2",
+      "descriptionAdvanced": "Der Bauboom und das starke Bevölkerungswachstum in Guatemala haben zu einer florierenden nationalen Farbenindustrie geführt. Marken wie Pinturas Paleta und Corona, die von starken lokalen Konzernen (Grupo Solid) geführt werden, dominieren den Markt nicht nur in Guatemala, sondern im gesamten mittelamerikanischen Raum. Die chemischen Mischwerke befinden sich größtenteils im industriellen Speckgürtel südlich von Guatemala-Stadt (Villa Nueva, Amatitlán). Hier werden importierte Pigmente, Lösungsmittel und Harze zu Wandfarben, Industrielacken und Spezialbeschichtungen verarbeitet. Da die Sonneneinstrahlung und die Feuchtigkeit in Guatemala extrem sind, müssen die Farben speziell für tropisches Klima und starken Regen (Anti-Schimmel) entwickelt werden. Farbenläden dieser Marken sind mittlerweile in jedem noch so kleinen Dorf des Landes zu finden. Chemie K7 — Chemische Lacke und Baustoffe.",
+      "factsAdvanced": [
+        "Lokale Marken wie Paleta und Corona dominieren den zentralamerikanischen Farbenmarkt.",
+        "Die Produktion ist im industriellen Umland von Guatemala-Stadt konzentriert.",
+        "Guatemaltekische Wandfarben müssen extrem feuchtigkeits- und UV-resistent sein.",
+        "Das Unternehmen Grupo Solid betreibt eines der modernsten Farbenwerke ('Superplanta') der Region.",
+        "Die Industrie verarbeitet importierte chemische Rohstoffe und Pigmente.",
+        "Neben Wandfarben ist die Produktion von Holz- und Industrielacken sehr bedeutend."
+      ]
+    }
+  ]
+}

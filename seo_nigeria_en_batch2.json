@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-awka-cities-v2",
+      "descriptionAdvanced": "Awka serves as the bustling administrative and political capital of Anambra State in southeastern Nigeria. Historically, the city was widely celebrated across West Africa for its highly skilled blacksmiths, whose intricate ironwork and tools were highly sought after during pre-colonial times. Today, Awka has transitioned into a rapidly expanding modern metropolis, deeply influenced by the nearby commercial giant of Onitsha. The city hosts Nnamdi Azikiwe University, one of the foremost federal educational institutions in the region, bringing a vibrant academic population. The local economy is a mix of civil administration, education, and growing light manufacturing. History K7 — pre-colonial metallurgy and artisans.",
+      "factsAdvanced": [
+        "Capital of Anambra State, located in southeastern Nigeria.",
+        "Historically famous throughout West Africa for exceptional blacksmithing and ironwork.",
+        "Home to Nnamdi Azikiwe University, a major federal institution.",
+        "Acts as the administrative center, complementing the commercial power of Onitsha.",
+        "The traditional ruler of the town is known as the Eze Uzu.",
+        "Has seen rapid urbanization and population growth since becoming the state capital."
+      ]
+    },
+    {
+      "id": "ng-yenagoa-cities-v2",
+      "descriptionAdvanced": "Yenagoa is the water-bound capital of Bayelsa State, uniquely situated deep within the complex network of mangrove swamps and creeks of the Niger Delta. The city is the traditional and political heartland of the Ijaw people, one of Nigeria's largest ethnic groups. Despite being heavily surrounded by water, which complicates infrastructural development, it serves as a crucial administrative node for the region's massive onshore and offshore oil production. Yenagoa reflects the deep contradictions of the Delta: profound natural beauty and oil wealth contrasted against challenging environmental and developmental conditions. The local economy relies heavily on government employment, fishing, and the petroleum sector. Geography K8 — river deltas and petroleum economics.",
+      "factsAdvanced": [
+        "Capital of Bayelsa State, located in the heart of the Niger Delta.",
+        "The political and cultural center for the Ijaw ethnic group.",
+        "Surrounded by an extensive network of creeks and mangrove swamps.",
+        "A critical administrative hub for regional crude oil and natural gas production.",
+        "Features a highly challenging terrain for road construction due to the wetlands.",
+        "Fishing and agriculture remain vital traditional occupations for the local populace."
+      ]
+    },
+    {
+      "id": "ng-makurdi-cities-v2",
+      "descriptionAdvanced": "Makurdi is strategically positioned on the banks of the Benue River, serving as the capital of Benue State in the Middle Belt of Nigeria. It was established in the 1920s as a major trading post and river port, greatly accelerated by the construction of the iconic Makurdi Bridge carrying the railway across the river. The city is the undisputed agricultural hub of the nation, often called the 'Food Basket of the Nation' due to its massive production of yams, soybeans, and citrus fruits. Additionally, it hosts a prominent Nigerian Air Force base. Makurdi acts as a vital cultural and economic link between the northern and southern regions. Geography K7 — river bridges and agricultural belts.",
+      "factsAdvanced": [
+        "Capital of Benue State, known officially as the 'Food Basket of the Nation'.",
+        "Located on the banks of the Benue River, a major tributary of the Niger.",
+        "The Makurdi Bridge was a crucial colonial engineering feat connecting north and south.",
+        "Hosts the Tactical Air Command of the Nigerian Air Force.",
+        "A massive center for the trading of yams, sesame seeds, and soybeans.",
+        "Features a tropical savanna climate with highly fertile surrounding plains."
+      ]
+    },
+    {
+      "id": "ng-asaba-cities-v2",
+      "descriptionAdvanced": "Asaba is a historically rich city sitting majestically on the western bank of the Niger River, directly opposite the massive commercial center of Onitsha. It holds significant colonial history as the initial operational headquarters of the Royal Niger Company in the late 19th century. Today, Asaba serves as the rapidly growing capital of Delta State, balancing its administrative role with expanding commercial activities. The city experienced tragic events during the Nigerian Civil War but has since rebuilt into a peaceful and welcoming urban center. The iconic Asaba International Airport and the Asaba-Onitsha bridge are critical infrastructure driving its current economic boom. History K8 — colonial trading companies and river borders.",
+      "factsAdvanced": [
+        "Capital of Delta State, located on the western bank of the Niger River.",
+        "Served as the historic headquarters of the Royal Niger Company in the 1880s.",
+        "Connected directly to Onitsha in the east via the Niger Bridge.",
+        "The traditional ruler is the Asagba of Asaba.",
+        "Site of the tragic Asaba massacre during the Nigerian Civil War in 1967.",
+        "Features a rapidly expanding real estate and hospitality sector."
+      ]
+    },
+    {
+      "id": "ng-abakaliki-cities-v2",
+      "descriptionAdvanced": "Abakaliki has undergone a remarkable transformation from a modest, dust-covered agricultural town into one of the most rapidly modernizing capitals in southeastern Nigeria. As the capital of Ebonyi State, it was historically renowned for its massive lead and zinc mining operations, as well as its extensive rice mills, producing the famous 'Abakaliki Rice'. In recent years, aggressive urban development has gifted the city with extensive concrete roads, striking flyovers, and modern public infrastructure. Despite this rapid urbanization, agriculture remains the backbone of its economy, with yams and cassava heavily cultivated in the surrounding fertile lands. Geography K7 — urban transformation and staple crops.",
+      "factsAdvanced": [
+        "Capital of Ebonyi State in southeastern Nigeria.",
+        "Nationally famous for the production and processing of 'Abakaliki Rice'.",
+        "Historically a major center for lead and zinc mining.",
+        "Has experienced massive infrastructural development, including extensive concrete roads.",
+        "The primary agricultural market center for the surrounding rural communities.",
+        "Features a diverse population, predominantly of the Igbo ethnic group."
+      ]
+    },
+    {
+      "id": "ng-gombe-city-cities-v2",
+      "descriptionAdvanced": "Gombe is a rapidly expanding commercial and administrative center nestled in the northeastern savanna of Nigeria. Serving as the capital of Gombe State, it is often celebrated as one of the most peaceful and business-friendly cities in the historically turbulent northeast region. The city acts as a vital agricultural collection hub, primarily trading in cotton, groundnuts, and sorghum grown in the surrounding plains. Gombe is also home to the Federal University Kashere and features modern infrastructure like the Gombe Lawanti International Airport. The traditional Gombe Emirate continues to hold significant cultural influence over the local populace. Geography K7 — savanna agriculture and regional stability.",
+      "factsAdvanced": [
+        "Capital of Gombe State, nicknamed the 'Jewel in the Savannah'.",
+        "A major collection and trading hub for cotton, groundnuts, and sorghum.",
+        "Considered one of the most peaceful and secure cities in northeastern Nigeria.",
+        "The traditional ruler is the Emir of Gombe.",
+        "Home to the modern Gombe Lawanti International Airport.",
+        "Features a hot, semi-arid climate suitable for savanna agriculture."
+      ]
+    },
+    {
+      "id": "ng-dutse-cities-v2",
+      "descriptionAdvanced": "Dutse is the scenic capital of Jigawa State, uniquely characterized by the striking, massive rocky outcrops and hills that dot its landscape—the very feature that gives the city its name, which means 'rock' in Hausa. Established as a state capital in 1991, the city has seen careful and spacious urban planning, contrasting with older, more congested northern cities. Dutse is surrounded by expansive agricultural lands that specialize in drought-resistant crops like millet and date palms. The city is also home to the Federal University Dutse, contributing to its slow but steady modernization. It remains a tranquil, culturally deep administrative center. Geography K7 — rocky landscapes and modern town planning.",
+      "factsAdvanced": [
+        "Capital of Jigawa State in northern Nigeria, established in 1991.",
+        "The name 'Dutse' literally translates to 'rock' in the Hausa language.",
+        "The cityscape is dominated by large, striking granite rocky hills.",
+        "Features spacious and orderly urban planning compared to older northern cities.",
+        "A primary center for the cultivation and trading of date palms and millet.",
+        "Hosts the Federal University Dutse, bringing a modern academic presence."
+      ]
+    },
+    {
+      "id": "ng-katsina-city-cities-v2",
+      "descriptionAdvanced": "Katsina is an ancient, walled city steeped in history, serving as one of the original seven Hausa city-states. Located in the extreme north near the Niger border, it has been a prominent center for Islamic scholarship, trans-Saharan trade, and polo for centuries. The city is famously home to the Gobarau Minaret, a 14th-century mud-brick tower that highlights traditional Hausa architecture. Today, Katsina functions as the administrative capital of Katsina State and remains deeply influential in Nigerian politics. The local economy is driven by the trade of cattle, hides, and cotton, maintaining its historical mercantile spirit. History K7 — ancient Hausa states and trans-Saharan routes.",
+      "factsAdvanced": [
+        "One of the original 'Hausa Bakwai', the seven ancient Hausa city-states.",
+        "Home to the Gobarau Minaret, a 50-foot mud-brick tower built in the 14th century.",
+        "Served as a major commercial and scholarly hub on the trans-Saharan trade routes.",
+        "The traditional Katsina Emirate remains highly influential.",
+        "Located near the border with the Republic of Niger.",
+        "A major center for the trading of cattle, groundnuts, and cotton."
+      ]
+    },
+    {
+      "id": "ng-birnin-kebbi-cities-v2",
+      "descriptionAdvanced": "Birnin Kebbi is the administrative heart of Kebbi State, located in the fertile river plains of northwestern Nigeria. Historically, it was the capital of the powerful Kebbi Emirate, which fiercely resisted the expansion of the Sokoto Caliphate in the 19th century. Today, the city is heavily defined by its proximity to the Sokoto River and its vast agricultural output, particularly in rice and wheat farming. The region is internationally famous for the nearby Argungu Fishing Festival, a massive cultural event that draws thousands to the river. Birnin Kebbi remains a quiet, deeply traditional agrarian city. Geography K7 — river agriculture and cultural festivals.",
+      "factsAdvanced": [
+        "Capital of Kebbi State, located in northwestern Nigeria.",
+        "Historically the center of the Kebbi Emirate, known for resisting the Sokoto Caliphate.",
+        "Situated in the fertile river plains of the Sokoto River valley.",
+        "A major national center for the large-scale cultivation of rice and wheat.",
+        "Located close to Argungu, famous for the annual international fishing festival.",
+        "The traditional ruler is the Emir of Gwandu."
+      ]
+    },
+    {
+      "id": "ng-lokoja-cities-v2",
+      "descriptionAdvanced": "Lokoja occupies a position of profound geographical and historical significance, situated exactly where the mighty Niger and Benue rivers converge. Because of this strategic location, it served as the administrative headquarters of the British Northern Nigeria Protectorate under Lord Lugard in the late 19th century. Today, Lokoja is the capital of Kogi State and acts as the crucial highway link connecting the northern and southern halves of the country. The city is surrounded by picturesque hills, including Mount Patti, which offers panoramic views of the river confluence. Its economy relies on river trade, agriculture, and government administration. Geography K8 — river confluences and colonial history.",
+      "factsAdvanced": [
+        "Located precisely at the confluence of the Niger and Benue rivers.",
+        "Served as the first administrative capital of the British Northern Nigeria Protectorate.",
+        "Home to historical relics, including Lord Lugard's residence and the Iron of Liberty.",
+        "Capital of Kogi State, strategically linking northern and southern Nigeria.",
+        "Mount Patti, a 1,500-foot hill, provides sweeping views of the city and rivers.",
+        "Features a prominent inland port for the trading of agricultural goods."
+      ]
+    },
+    {
+      "id": "ng-lafia-cities-v2",
+      "descriptionAdvanced": "Lafia is the administrative capital of Nasarawa State, uniquely positioned as a gateway between the central agricultural belt and the eastern highlands of Nigeria. Originally a prominent traditional state founded in the 19th century, it has grown into a bustling commercial and transport hub, heavily utilizing its connections to the national railway network. Lafia is renowned for its immense agricultural fertility, serving as a primary collection point for yams, sesame seeds, and groundnuts. The city is also home to the Federal University Lafia, which has spurred recent urban growth. Despite its expansion, Lafia retains a strong, culturally diverse traditional atmosphere. Geography K7 — railway hubs and central agricultural belts.",
+      "factsAdvanced": [
+        "Capital of Nasarawa State, located in the Middle Belt of Nigeria.",
+        "Historically founded as a prominent traditional state in the 19th century.",
+        "A major collection point for agricultural produce, especially yams and sesame.",
+        "Connected to the national railway network, facilitating heavy freight transport.",
+        "Hosts the Federal University Lafia, driving local academic and economic growth.",
+        "The traditional ruler is recognized as the Emir of Lafia."
+      ]
+    },
+    {
+      "id": "ng-minna-cities-v2",
+      "descriptionAdvanced": "Minna is the peaceful and strategically located capital of Niger State, historically developed as a crucial junction for the Nigerian railway system in the early 20th century. The city has a unique political legacy, being the hometown of two former Nigerian military heads of state, which has contributed to its well-maintained infrastructure. Minna is surrounded by undulating hills and vast agricultural lands that produce huge quantities of yams, shea nuts, and cotton. The city hosts the Federal University of Technology Minna, highly regarded for engineering and scientific research. It remains a tranquil, spread-out city balancing agriculture and civil administration. History K7 — military leaders and railway development.",
+      "factsAdvanced": [
+        "Capital of Niger State, the largest state in Nigeria by landmass.",
+        "Historically developed as a major railway junction connecting Kano to Lagos.",
+        "The hometown of two prominent former Nigerian military presidents.",
+        "A major center for the trading of shea nuts, yams, and cotton.",
+        "Hosts the prestigious Federal University of Technology, Minna (FUTMINNA).",
+        "Known for its peaceful atmosphere and relatively low population density."
+      ]
+    },
+    {
+      "id": "ng-jalingo-cities-v2",
+      "descriptionAdvanced": "Jalingo is the administrative capital of Taraba State, a region celebrated for its incredible geographical diversity and the breathtaking Mambilla Plateau. Nestled among rolling hills and savanna landscapes, Jalingo acts as the central market town for the myriad of ethnic groups that inhabit the state. The city is relatively small and quiet compared to other state capitals, with an economy heavily focused on agriculture, specifically the trading of tea, coffee, and cattle sourced from the nearby highlands. Jalingo serves as the essential gateway for tourists and traders heading toward the cooler, high-altitude regions of the state. Geography K7 — highland gateways and diverse topography.",
+      "factsAdvanced": [
+        "Capital of Taraba State in eastern Nigeria, established in 1991.",
+        "The primary gateway to the scenic and high-altitude Mambilla Plateau.",
+        "Acts as a major trading hub for cattle, tea, and coffee from the highlands.",
+        "Surrounded by a mix of savanna plains and rolling, forested hills.",
+        "The traditional ruler of the region is the Emir of Muri.",
+        "Features a highly diverse population comprising dozens of distinct ethnic groups."
+      ]
+    },
+    {
+      "id": "ng-damaturu-cities-v2",
+      "descriptionAdvanced": "Damaturu is situated on the semi-arid edge of the Sahel, serving as the capital of Yobe State in northeastern Nigeria. The city functions as a critical market center for nomadic herders and farmers, acting as a crossroads for the trans-Saharan cattle trade. Due to its harsh, dry climate, the local agriculture focuses heavily on drought-resistant crops like millet and gum arabic. Damaturu has faced severe challenges due to regional security conflicts but has shown remarkable resilience and steady rebuilding efforts. The city is defined by its vast, open landscapes and deep Islamic cultural roots. Geography K7 — Sahelian markets and drought-resistant agriculture.",
+      "factsAdvanced": [
+        "Capital of Yobe State, located in northeastern Nigeria.",
+        "Features a harsh, semi-arid Sahelian climate with a long dry season.",
+        "A major regional market center for cattle, sheep, and goat herders.",
+        "Economically dependent on drought-resistant crops like millet and gum arabic.",
+        "Has undergone significant rebuilding after years of regional security challenges.",
+        "Located on the primary highway connecting Maiduguri to the rest of the country."
+      ]
+    },
+    {
+      "id": "ng-gusau-cities-v2",
+      "descriptionAdvanced": "Gusau is the agrarian heart and capital of Zamfara State in northwestern Nigeria. The city is deeply rooted in agriculture, serving as a massive collection and processing point for cotton, groundnuts, and tobacco grown in the surrounding plains. Recently, Gusau has seen an economic shift due to the emerging, often informal, gold and lead mining activities in the region. The city has a strong Islamic heritage and was one of the first to implement Sharia law in 1999. Despite modernization, traditional farming and pastoralism remain the undisputed foundation of its economy. Geography K7 — agricultural processing and informal mining.",
+      "factsAdvanced": [
+        "Capital of Zamfara State, established in 1996.",
+        "A major collection and processing hub for cotton, tobacco, and groundnuts.",
+        "Surrounded by areas rich in mineral resources, particularly gold and lead.",
+        "Known for its strong Islamic cultural heritage and governance.",
+        "Features the Gusau Dam, a critical source of water for irrigation and the city.",
+        "The local economy relies heavily on both agriculture and emerging mining sectors."
+      ]
+    },
+    {
+      "id": "ng-sapele-cities-v2",
+      "descriptionAdvanced": "Sapele is a dynamic, historic port city situated on the Benin River in Delta State. It rose to prominence during the colonial era as an essential timber and rubber export hub, utilizing the intricate river networks of the Niger Delta. The city is nationally famous for its massive plywood and timber processing industries, particularly the African Timber and Plywood (AT&P) factory, once the largest in the world. Sapele also hosts one of Nigeria's major gas-fired power stations, contributing significantly to the national grid. The city blends its robust industrial identity with a rich, relaxed riverside culture. Geography K8 — river ports and timber industries.",
+      "factsAdvanced": [
+        "A major port city located on the Benin River in Delta State.",
+        "Historically renowned for having one of the world's largest timber and plywood factories.",
+        "Hosts the Sapele Power Station, a critical gas-fired power plant for the national grid.",
+        "A vital historical hub for the export of rubber and palm oil.",
+        "Features a vibrant, culturally diverse population typical of the Niger Delta.",
+        "Serves as a key naval and maritime operations base."
+      ]
+    },
+    {
+      "id": "ng-ughelli-cities-v2",
+      "descriptionAdvanced": "Ughelli is a critical industrial town located deep in the oil-rich Delta State. While it possesses deep traditional roots as an Urhobo kingdom, its modern identity is entirely shaped by energy production. The town is home to the massive Ughelli Power Station (Transcorp Power), one of the largest natural gas-fired power plants in Nigeria, which supplies a significant percentage of the country's electricity. Ughelli sits atop vast reserves of crude oil and natural gas, making it a hub for multinational energy companies. The town serves as a stark representation of Nigeria's heavy reliance on fossil fuels. Geography K8 — natural gas reserves and power generation.",
+      "factsAdvanced": [
+        "Located in Delta State and serves as a major center for the Urhobo people.",
+        "Home to Transcorp Power, one of Nigeria's largest gas-fired power stations.",
+        "Sits atop massive, highly productive crude oil and natural gas reserves.",
+        "Serves as a major operational base for numerous multinational energy companies.",
+        "The traditional ruler of the kingdom is the Ovie of Ughelli.",
+        "A vital junction connecting the deeper Niger Delta to the national highway system."
+      ]
+    },
+    {
+      "id": "ng-gboko-cities-v2",
+      "descriptionAdvanced": "Gboko operates as the vibrant, unofficial cultural and political capital of the Tiv people in Benue State. Located in the fertile Middle Belt, the town is an absolute powerhouse for agricultural trading, particularly famous for its massive yam markets and citrus production. Economically, Gboko is anchored by the presence of a massive cement manufacturing plant, which provides significant industrial employment alongside the agrarian lifestyle. The town is home to the Tor Tiv, the supreme traditional ruler of the Tiv nation. It represents a fascinating blend of heavy industry and deeply rooted traditional agriculture. Geography K7 — cement manufacturing and cultural capitals.",
+      "factsAdvanced": [
+        "Regarded as the traditional and cultural capital of the Tiv people.",
+        "The seat of the Tor Tiv, the supreme traditional monarch of the Tiv nation.",
+        "Home to the massive BCC (Benue Cement Company) plant, a major industrial site.",
+        "A critical agricultural market known for vast quantities of yams and oranges.",
+        "Located in the fertile Middle Belt region of Benue State.",
+        "Balances a deeply agrarian economy with heavy industrial cement production."
+      ]
+    },
+    {
+      "id": "ng-okene-cities-v2",
+      "descriptionAdvanced": "Okene is a deeply historic town built among the rugged hills of Kogi State, serving as the undisputed cultural heartland of the Ebira people. The town is nationally celebrated for its exquisite traditional weaving, producing the highly sought-after Ebira cloth, which is a hallmark of local artisanship. Geographically, Okene is strategically situated near the massive Ajaokuta Steel Mill and the Itakpe iron ore deposits, tightly linking its economy to Nigeria's metallurgical sector. The steep, rocky terrain gives the town a distinct, layered architecture. Okene is a proud, traditional city standing at the crossroads of agriculture and heavy industry. Geography K7 — traditional weaving and iron ore mining.",
+      "factsAdvanced": [
+        "The traditional and cultural center of the Ebira people in Kogi State.",
+        "Nationally famous for the intricate weaving of traditional Ebira cloth.",
+        "Located near massive iron ore deposits that feed the Ajaokuta Steel Mill.",
+        "The traditional ruler is the Ohinoyi of Ebira land.",
+        "Features a distinctive, rugged landscape dominated by steep, rocky hills.",
+        "Serves as a crucial transit point for goods moving between the north and southwest."
+      ]
+    },
+    {
+      "id": "ng-ijebu-ode-cities-v2",
+      "descriptionAdvanced": "Ijebu-Ode is an ancient and immensely influential city in Ogun State, historically the capital of the powerful Ijebu Kingdom. The city is renowned for its exceptional mercantile history, having controlled major trade routes between the coast and the Yoruba hinterland for centuries. Today, it is most famous for the spectacular Ojude Oba festival, a massive cultural celebration held shortly after Eid al-Kabir, showcasing vibrant fashion, equestrian displays, and deep community solidarity. Ijebu-Ode combines a strong emphasis on education and commerce with an unyielding pride in its royal traditions, overseen by the Awujale. History K7 — ancient Yoruba kingdoms and cultural festivals.",
+      "factsAdvanced": [
+        "Historically the capital of the powerful and wealthy Ijebu Kingdom.",
+        "Hosts the annual Ojude Oba festival, a massive display of Yoruba culture and fashion.",
+        "The traditional paramount ruler is the Awujale of Ijebuland.",
+        "Located strategically between the coastal port of Lagos and the Yoruba hinterland.",
+        "Historically renowned for being one of the first Yoruba states to mint its own currency.",
+        "A major regional center for education, agriculture, and commerce."
+      ]
+    },
+    {
+      "id": "ng-sagamu-cities-v2",
+      "descriptionAdvanced": "Sagamu is an economic powerhouse in Ogun State, uniquely defined by its dual dominance in agriculture and heavy industry. It is historically recognized as the capital of the Remo Kingdom and remains the largest collecting center for kola nuts in Nigeria, exporting massive quantities to the northern regions. Alongside this traditional trade, Sagamu hosts the largest cement manufacturing plant in West Africa, transforming the city's skyline and economy. Strategically located along the primary expressway connecting Lagos to the rest of the country, it experiences heavy transit commerce. Sagamu perfectly encapsulates the transition from an agrarian society to modern industrialization. Geography K8 — cement industries and cash crops.",
+      "factsAdvanced": [
+        "The traditional capital and headquarters of the Remo Kingdom.",
+        "Recognized as the largest collection and distribution center for kola nuts in Nigeria.",
+        "Home to the massive WAPCO (Lafarge) cement manufacturing plant.",
+        "Strategically located along the critical Lagos-Ibadan expressway.",
+        "The traditional ruler is the Akarigbo of Remo.",
+        "Features a rapidly growing real estate sector due to its proximity to Lagos."
+      ]
+    },
+    {
+      "id": "ng-ogbomosho-cities-v2",
+      "descriptionAdvanced": "Ogbomosho is one of the largest and oldest cities in southwestern Nigeria, established in the mid-17th century as a formidable military stronghold. Historically, it served as a vital sanctuary during the turbulent Yoruba civil wars. Today, Ogbomosho is a sprawling agricultural center, particularly famous for its massive production of mangoes, yams, and cassava. The city boasts a strong academic atmosphere, anchored by the presence of the Ladoke Akintola University of Technology (LAUTECH) and a prominent Baptist theological seminary. It beautifully maintains the balance between its deep martial history and a modern educational focus. History K7 — Yoruba military history and university towns.",
+      "factsAdvanced": [
+        "Founded in the 17th century as a heavily fortified military settlement.",
+        "One of the largest cities in Oyo State by population and landmass.",
+        "Hosts the Ladoke Akintola University of Technology (LAUTECH).",
+        "A major national center for the cultivation and trading of mangoes.",
+        "Home to the Nigerian Baptist Theological Seminary, established in 1898.",
+        "The traditional ruler of the city is the Soun of Ogbomosho."
+      ]
+    },
+    {
+      "id": "ng-oyo-city-cities-v2",
+      "descriptionAdvanced": "Oyo is an ancient city bearing the profound legacy of the Oyo Empire, which was once the most powerful Yoruba state in West Africa. Known as Oyo-Alaafin, the modern city was established in the 1830s after the collapse of the empire's original capital, Old Oyo. The Alaafin's palace remains the cultural and spiritual focal point, drawing historians and tourists seeking to understand Yoruba heritage. Beyond its royal history, Oyo is an important agricultural market for tobacco, cotton, and yams. The city is a living museum, proudly maintaining traditional festivals, drumming, and indigenous artisanship. History K8 — the Oyo Empire and traditional monarchies.",
+      "factsAdvanced": [
+        "The modern successor to the ancient capital of the Oyo Empire.",
+        "The seat of the Alaafin of Oyo, one of the most revered Yoruba monarchs.",
+        "Established in the 1830s following the destruction of Old Oyo (Oyo-Ile).",
+        "A major agricultural center known for tobacco, cotton, and yams.",
+        "Features deeply preserved traditional arts, including leatherwork and calabash carving.",
+        "Hosts numerous traditional festivals celebrating the Yoruba pantheon of gods."
+      ]
+    },
+    {
+      "id": "ng-iseyin-cities-v2",
+      "descriptionAdvanced": "Iseyin is a deeply traditional city in Oyo State, universally recognized as the undisputed capital of Aso Oke—the prestigious, hand-woven fabric essential to Yoruba cultural attire. For generations, local artisans have utilized traditional wooden looms to produce this heavy, vibrant cloth, heavily driving the local economy. Nestled in a region characterized by rocky hills and fertile plains, Iseyin also boasts a robust agricultural sector, focusing on tobacco and cassava cultivation. The nearby Ikere Gorge Dam provides vital water resources and hydroelectric potential for the area. Iseyin remains a sanctuary of indigenous craft and farming. Geography K7 — traditional textiles and indigenous crafts.",
+      "factsAdvanced": [
+        "Universally recognized as the premier center for traditional Aso Oke weaving.",
+        "Located in Oyo State, surrounded by distinctive rocky hills.",
+        "A major agricultural producer of tobacco, cotton, and cassava.",
+        "Home to the massive Ikere Gorge Dam, a major regional water resource.",
+        "The traditional ruler of the city is the Aseyin of Iseyin.",
+        "Weaving is an intergenerational trade, dominating the city's informal economy."
+      ]
+    },
+    {
+      "id": "ng-ilesa-cities-v2",
+      "descriptionAdvanced": "Ilesa is a historic city in Osun State, functioning as the traditional capital of the Ijesha people. The city has a fierce martial history, having been a formidable military power that bravely resisted the Ibadan empire during the 19th-century Yoruba civil wars. Today, Ilesa is renowned for its extensive gold deposits and historically for the massive International Breweries plant that produces popular local beverages. The nearby Erin-Ijesha Waterfalls serve as a major tourist attraction, deeply tied to the city's geography. Ilesa remains a proud, resource-rich city balancing its military legacy with modern enterprise. History K7 — regional conflicts and resource mining.",
+      "factsAdvanced": [
+        "The traditional capital and cultural heartland of the Ijesha people.",
+        "Famed for its fierce military resistance during the 19th-century Kiriji War.",
+        "Located near the spectacular seven-step Erin-Ijesha Waterfalls.",
+        "A major regional hub for informal and formal gold mining activities.",
+        "Historically home to a massive brewery producing widely consumed local beverages.",
+        "The traditional monarch is the Owa Obokun Adimula of Ijeshaland."
+      ]
+    }
+  ]
+}

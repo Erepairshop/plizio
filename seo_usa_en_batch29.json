@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "times-square-landmarks-v2",
+      "descriptionAdvanced": "Times Square, located at the intersection of Broadway and Seventh Avenue in Manhattan, is the neon-lit heart of New York City and one of the world's most visited commercial destinations. Originally named Longacre Square, it was renamed in 1904 when The New York Times moved its headquarters there, inaugurating the tradition of the annual New Year's Eve ball drop. Famous for its dense concentration of gigantic LED billboards, theaters, and retailers, Times Square is a sensory-overload epicentre for the city’s global influence in media, tourism, and entertainment. Today, it remains a bustling, 24-hour pedestrian-friendly hub that symbolizes the sleepless, dynamic, and ever-evolving energy of the New York City lifestyle. Wirtschaft K8 — Media influence and tourism economics.",
+      "factsAdvanced": [
+        "Renamed in 1904 when The New York Times moved its headquarters there.",
+        "Home to the iconic annual New Year's Eve ball drop tradition.",
+        "Characterized by a dense, globally recognized concentration of LED billboards.",
+        "Serves as the nerve center for the city’s entertainment and media influence.",
+        "A vibrant, 24-hour hub that attracts millions of visitors annually.",
+        "Symbolizes the dynamic, sleepless energy of New York City life."
+      ]
+    },
+    {
+      "id": "fenway-park-landmarks-v2",
+      "descriptionAdvanced": "Fenway Park, located in Boston, Massachusetts, is the oldest active Major League Baseball stadium in the United States, having opened its gates in 1912. Known for its iconic, intimate design, it features the 'Green Monster'—a massive, 37-foot-high left-field wall that has defined the park's unique play for over a century. The stadium is deeply woven into the fabric of Boston's civic identity, surviving numerous calls for demolition and stadium renovation over the decades. Today, it stands as a cherished monument to the history of professional baseball, preserved for its classic architecture and its role as a living, breathing connection to the sporting history and communal life of the city. Geschichte K8 — Sporting history and urban legacy.",
+      "factsAdvanced": [
+        "Oldest active Major League Baseball stadium in the U.S. (opened 1912).",
+        "Famous for the 'Green Monster,' a 37-foot-high left-field wall.",
+        "Integral to Boston’s civic and communal identity for over a century.",
+        "Survived multiple modernization and demolition efforts to preserve its classic design.",
+        "Stands as a cherished monument to American professional sports history.",
+        "A living connection to the sporting heritage and culture of Boston."
+      ]
+    },
+    {
+      "id": "wrigley-field-landmarks-v2",
+      "descriptionAdvanced": "Wrigley Field, located in Chicago, Illinois, is the second-oldest Major League Baseball stadium in the United States, built in 1914. Known for its distinct ivy-covered outfield walls, the manually operated scoreboard, and the iconic rooftop seating across the street, Wrigley is a landmark of 'old school' baseball architecture in a dense, urban neighborhood. It was the site of the Cubs' historic championship victory in 2016, ending a 108-year drought, which cemented its status as a site of profound community emotion and American sports legend. Today, it remains a protected landmark, cherished for its preservation of a bygone era of baseball and its deep integration into the residential fabric of Chicago’s north side. Geschichte K8 — Urban baseball architecture and community legacy.",
+      "factsAdvanced": [
+        "Second-oldest Major League Baseball stadium in the U.S. (built 1914).",
+        "Famous for iconic ivy-covered outfield walls and manually operated scoreboard.",
+        "Surrounded by historic rooftop seating on neighboring residential buildings.",
+        "Site of the Cubs' historic 2016 championship, ending a 108-year drought.",
+        "Protected landmark preserved for its classic 'old school' aesthetic.",
+        "Deeply integrated into the residential fabric of Chicago’s north side."
+      ]
+    }
+  ]
+}

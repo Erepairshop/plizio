@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ni-capilla-maria-auxiliadora-landmarks-v2",
+      "descriptionAdvanced": "A María Auxiliadora kápolna (Capilla de María Auxiliadora) Granada városában a helyi szalézi rendközösség lelki központja. Az 1920-as évek elején épült gótikus és neoklasszicista elemeket ötvöző kápolna világoskék és fehér homlokzatával tűnik ki a város gyarmati épületei közül. A belső teret Olaszországból származó, finoman megmunkált ólomüveg ablakok és egy gazdagon díszített márványoltár ékesíti. A kápolna a helyi oktatás szimbóluma is, mivel a szalézi atyák egy nagy iskolát (Colegio Salesiano) üzemeltetnek az épület mellett, amely generációk óta meghatározó Granada kulturális életében. Földrajz K6 — egyházi építészet és oktatás.",
+      "factsAdvanced": [
+        "Az épületet 1922-ben szentelték fel a Segítő Szűz Mária tiszteletére.",
+        "A szalézi rend (Don Bosco követői) 1912-ben érkezett Nicaraguába.",
+        "Oltára carrarai márványból készült, Olaszországból hozatták.",
+        "A kápolna tornyából minden nap délben megszólal az 'Angelus' (Úrangyala) harangjáték.",
+        "Granada hagyományos 'Calle Real' (Királyi utca) vonalán fekszik.",
+        "A kápolna falain belüli csend éles kontrasztban áll a mellette lévő piac zajával."
+      ]
+    },
+    {
+      "id": "ni-iglesia-san-jeronimo-landmarks-v2",
+      "descriptionAdvanced": "A Szent Jeromos-templom (Iglesia de San Jerónimo) Masaya városának egyik legfontosabb kulturális és vallási epicentruma. A város a spanyol gyarmati időktől kezdve őrzi védőszentjének, Szent Jeromosnak a kultuszát, akit a helyiek csak 'El Doctor que cura sin medicinas' (Az orvos, aki gyógyszer nélkül gyógyít) néven emlegetnek. A templom egy viszonylag modern, a 20. században újjáépített épület (miután a régit földrengések pusztították el), melynek igazi jelentőségét az évente megrendezett, heteken át tartó 'Fiestas Patronales' adja. Ilyenkor a templom körüli utcákat folklór táncosok (Los Diablitos, El Torovenado) és marimba zenekarok lepik el. Történelem K7 — vallási fesztiválok és folklór.",
+      "factsAdvanced": [
+        "A masayai Szent Jeromos-ünnep a leghosszabb védőszent-fesztivál Nicaraguában (szeptembertől novemberig).",
+        "A templom 1925-ös földrengésben elpusztult, majd vasbetonból újjáépítették.",
+        "A templom előtti téren állítják fel a fesztiválok idején a hagyományos fa bódékat (chinamos).",
+        "Szent Jeromos szobrát a fesztivál alatt a hívők a vállukon hordozzák végig a városon.",
+        "Az épület belső tere világos és modern, kevésbé díszített, mint a város többi temploma.",
+        "Masayát Nicaragua folklór fővárosának tartják, és ez a templom a tradíciók központja."
+      ]
+    },
+    {
+      "id": "ni-antigua-estacion-ferrocarril-granada-landmarks-v2",
+      "descriptionAdvanced": "A régi granadai vasútállomás (Antigua Estación del Ferrocarril) egy lenyűgöző neoklasszicista épület a város északi részén. A vasútvonal 1886-ban érte el Granadát, ami fellendítve a helyi kereskedelmet, közvetlen kapcsolatot teremtett a fővárossal és a csendes-óceáni kikötőkkel. A hatalmas boltívekkel, magas mennyezettel és tágas várótermekkel rendelkező épület a kávé-boom idejének gazdagságát tükrözi. Miután a nicaraguai vasúthálózatot az 1990-es években felszámolták, az épület sokáig romosan állt. Később spanyol támogatással teljesen felújították, és ma egy technikai és kézműves iskola (Escuela Taller) működik benne. Történelem K8 — vasúttörténet és ipari örökség.",
+      "factsAdvanced": [
+        "Az eredeti állomásépület az 1880-as évek végén épült.",
+        "A vasút felszámolása (1993) után az állomásépület az enyészeté lett.",
+        "2002-ben nyílt meg újra, mint a Történelmi Központok Helyreállítási Iskolája.",
+        "Az udvarán megőriztek egy eredeti, Németországból származó régi gőzmozdony-maradványt.",
+        "Az épület nyitott árkádjai természetes szellőzést biztosítottak az utazóknak.",
+        "A régi vasúti pályát részben kerékpárúttá és sétatérré alakították át."
+      ]
+    },
+    {
+      "id": "ni-ruinas-hospital-san-juan-landmarks-v2",
+      "descriptionAdvanced": "A San Juan de Dios kórház romjai Granada nyugati peremén találhatók. Ez az egykor hatalmas, 19. század végén épült neoklasszicista komplexum évtizedekig a régió legfontosabb egészségügyi intézménye volt, de a 20. század végi karbantartás hiánya és a földrengések miatt végül a 2000-es évek elején végleg bezárták (a betegeket egy új kórházba költöztették). A romok félelmetes, ám lenyűgöző látványt nyújtanak: a boltíves folyosókat, belső udvarokat és betegszobákat lassan visszafoglalja a trópusi növényzet. A helyszín ma is közkedvelt a fotósok és az 'urbex' (városi felfedezés) szerelmesei körében. Földrajz K6 — elhagyatott épületek és városfejlődés.",
+      "factsAdvanced": [
+        "A kórház alapkövét 1886-ban tették le, és a helyi elit adományaiból épült.",
+        "Több mint egy évszázadon át (2003-ig) működött Granada fő kórházaként.",
+        "Az épület olasz mesterek munkáját dicséri, akik a faragott kőoszlopokat készítették.",
+        "A helyiek körében számos kísértettörténet kering a sötét, elhagyatott folyosókról.",
+        "A terület jelenleg elkerített és őrzött, de korlátozottan látogatható.",
+        "Közvetlen közelében található az ősi Xalteva-templom és a La Pólvora erőd."
+      ]
+    },
+    {
+      "id": "ni-catedral-san-pedro-matagalpa-landmarks-v2",
+      "descriptionAdvanced": "A Matagalpai Szent Péter-katedrális (Catedral de San Pedro Apóstol) a nicaraguai hegyvidék legimpozánsabb egyházi épülete. A jezsuita és ferences rendi hagyományokat ötvöző, 1874-ben felszentelt templom masszív, szürke kőhomlokzatával és két zömök harangtornyával uralja a város központi terét. A kávé-boom idején a helyi kávébárók (köztük sok európai bevándorló) adományaiból fejezték be az építkezést. Az épület túlélte a 20. századi földrengéseket és a forradalom harcait is, bár falain egykor fegyvernyomok éktelenkedtek. Belső tere tágas és meglepően világos, gyönyörű fa oltárokkal. Történelem K7 — kávébárók és északi egyházépítészet.",
+      "factsAdvanced": [
+        "Az építkezés 1874-től majdnem húsz évig tartott jezsuita irányítás alatt.",
+        "A templomot Szent Péternek, a város védőszentjének (fiesta: június 29.) szentelték.",
+        "A katedrális orgonáját és harangjait Európából importálták az 1890-es években.",
+        "A forradalom idején a katedrális tornyából lőtték a sandinista mesterlövészek a Somoza-gárdát.",
+        "A homlokzat kőből és égetett téglából épült, ami ritka a vályoghoz (adobe) szokott régióban.",
+        "A templom 2007 óta hivatalos nicaraguai Nemzeti Műemlék."
+      ]
+    },
+    {
+      "id": "ni-monumento-caidos-esteli-landmarks-v2",
+      "descriptionAdvanced": "Az Estelí hősi halottainak emlékműve (Monumento a los Caídos) a város főterén áll, és egyike a legkifejezőbb forradalmi emlékhelyeknek Nicaraguában. Estelí városa a sandinista felkelés során háromszor is felkelt a Somoza-diktatúra ellen, amiért a Nemzeti Gárda légibombázásokkal és nehéztüzérséggel büntette a lakosságot, szinte a földig rombolva a várost 1979-ben. Az emlékmű ezeknek a heves városi harcoknak a civil és gerilla áldozatai előtt tiszteleg. A komor, betonból és fémből készült szerkezet gyakran szolgál politikai és megemlékezési gyűlések helyszínéül. Történelem K8 — városi gerillaharc és diktatúrák bukása.",
+      "factsAdvanced": [
+        "Estelít a forradalom alatt 'A háromszor hősi város' (Tres Veces Heroica) címmel illették.",
+        "Az 1978. szeptemberi harcokban a város lakosságának jelentős része hetekre az utcákon rekedt.",
+        "Az emlékmű körül falfestmények (murales) ábrázolják a város lerombolását és újjászületését.",
+        "Minden év júliusában, a forradalom évfordulóján virágkoszorúkat helyeznek el itt.",
+        "A központi tér, ahol az emlékmű áll, a város társadalmi életének központja.",
+        "A közelben található a szintén bombatalálatokat kapott, de újjáépített helyi katedrális."
+      ]
+    },
+    {
+      "id": "ni-puente-paso-caballos-landmarks-v2",
+      "descriptionAdvanced": "A Paso Caballos híd egy kulcsfontosságú közlekedési artéria Chinandega megyében, amely Corinto kikötőszigetét köti össze a szárazfölddel. Történelmileg ezen a sekély, tengeri csatornán a spanyol időkben lóháton keltek át apálykor, innen ered a név ('Lovak Átkelője'). A jelenlegi hosszú, acél és beton szerkezetű hidat a 20. század második felében építették, és az ország szinte teljes tengeri exportját és importját elbírja. A híd egyben kedvelt helyi turisztikai pont is; a mellette lévő kis éttermek (paso caballos) híresek a friss tengeri rákról (conchas) és halételekről. Földrajz K6 — kikötői infrastruktúra és tengerparti étkezdék.",
+      "factsAdvanced": [
+        "A híd íveli át az El Realejo torkolatvidék tengeri bejáratát.",
+        "Hossza megközelíti a 300 métert.",
+        "1998-ban a Mitch hurrikán súlyosan károsította a híd alapozását, amit meg kellett erősíteni.",
+        "A híd lábánál található az ország egyik leghíresebb 'conchas negras' (fekete kagyló) lelőhelye.",
+        "A hidat naponta több száz nehéz kamion (rastras) keresztezi Corinto felé.",
+        "Apály idején a híd alatti homokpadokon helyiek halásznak kagylóra és rákra."
+      ]
+    },
+    {
+      "id": "ni-estadio-soberania-landmarks-v2",
+      "descriptionAdvanced": "A Soberanía Nemzeti Stadion (korábbi nevén Estadio Nacional Dennis Martínez) Managua legmodernebb sportlétesítménye, amelyet 2017-ben adtak át a Közép-Amerikai Játékok (Juegos Centroamericanos) alkalmából. A több mint 15 ezer férőhelyes stadion elsősorban baseball-mérkőzéseknek – Nicaragua nemzeti sportjának – ad otthont. Kialakítása megfelel az amerikai Major League Baseball (MLB) szabványainak, ami a legmodernebb sportarénává teszi Közép-Amerikában. Az épület szimbolikus jelentőségű a főváros újjáépítésében és modernizációjában, bár nevének megváltoztatása (egy politikai vita után) heves társadalmi visszhangot váltott ki. Földrajz K6 — modern sportinfrastruktúra és baseball.",
+      "factsAdvanced": [
+        "A stadion Tajvan pénzügyi támogatásával (több mint 30 millió dollár) épült fel.",
+        "A nézőtér befogadóképessége pontosan 15 670 fő.",
+        "A pályát az MLB legszigorúbb méret- és világítási szabályai szerint alakították ki.",
+        "Eredetileg Dennis Martínezről, a nicaraguai származású híres MLB dobóról (pitcher) nevezték el.",
+        "2022-ben a kormány hivatalosan 'Estadio Soberanía' (Szuverenitás Stadion) névre keresztelte át.",
+        "A régi Nemzeti Stadion, amely 1948-ban épült, a 72-es földrengésben megsérült és elavulttá vált."
+      ]
+    },
+    {
+      "id": "ni-campana-paz-landmarks-v2",
+      "descriptionAdvanced": "A Managuai békeharang (Campana de la Paz) egy hatalmas, nyitott toronyban elhelyezett emlékmű a főváros történelmi központjában, a Plaza de la Revolución közelében. A 2020-ban felavatott masszív szerkezet több mint 17 méter magas, a tetején egy hatalmas bronzharanggal, amelynek súlya meghaladja a 7 tonnát. A harang óránként kondul meg, és az épület esti kivilágítása Managua új, posztmodern sziluettjének (skyline) részévé vált. A kormányzati projekt célja a béke, az élet és a megbékélés (Paz, Vida y Reconciliación) szimbolizálása volt a 2018-as politikai válság és a Covid-19 világjárvány után. Történelem K7 — kortárs emlékműépítészet és propaganda.",
+      "factsAdvanced": [
+        "A harangot Hollandiában öntötték, majd hajón szállították Nicaraguába.",
+        "A torony egy beépített kilátóterasszal is rendelkezik a turisták számára.",
+        "A harangra a 'Campana de la Paz - Nicaragua 2020' feliratot gravírozták.",
+        "Minden negyedórában harangjáték szólal meg, a déli és esti harangszó különösen hangos.",
+        "Építése a nicaraguai társadalomban vitákat váltott ki a magas költségek miatt.",
+        "A torony közvetlenül a régi managuai katedrális és a tóparti sétány (Malecón) között helyezkedik el."
+      ]
+    },
+    {
+      "id": "ni-basilica-san-sebastian-diriamba-landmarks-v2",
+      "descriptionAdvanced": "A diriambai Szent Sebestyén-bazilika (Basílica Menor de San Sebastián) a Carazo-fennsík egyik legfontosabb egyházi épülete. A templomot a 19. század végén kezdték építeni, hogy méltó otthont adjon Diriamba védőszentjének. A hatalmas, neoklasszicista épület egyetlen toronnyal rendelkezik, miután a másodikat pénzhiány miatt soha nem fejezték be. A bazilika igazi jelentőségét az évente január 17. és 27. között megrendezett fieszták adják. Ilyenkor a templom körüli utcákon bemutatják az El Güegüense (Macho Ratón) című szatirikus táncot, amely az UNESCO szellemi világörökségének része. Történelem K8 — UNESCO szellemi örökség és egyházi hagyományok.",
+      "factsAdvanced": [
+        "A templomot 1998-ban emelték hivatalosan is 'Basilica Minor' rangra.",
+        "A templom építését nagyrészt a helyi kávébárók (cafetaleros) finanszírozták.",
+        "A januári fiesztán találkozik Szent Sebestyén (Diriamba), Szent Márk (San Marcos) és Szent Jakab (Jinotepe) szobra az 'El Tope' szertartáson.",
+        "A templom belsejében őrzött Szent Sebestyén-szobor spanyol fafaragás.",
+        "Az épület homlokzata szürke kőből és habarcsból készült, robusztus oszlopokkal.",
+        "Az 1992-es földrengés repedéseket okozott a falakban, amelyeket később megerősítettek."
+      ]
+    },
+    {
+      "id": "ni-iglesia-guadalupe-granada-landmarks-v2",
+      "descriptionAdvanced": "A Guadalupe-templom (Iglesia de Guadalupe) Granada tóparti útjának, a Calle de la Calzadának a végén található. Az 1626-ban alapított templom stratégiai elhelyezkedése miatt (közvetlenül a tóparti móló közelében) a város első védelmi vonala volt a Karib-tengerről érkező kalózokkal szemben. 1856-ban William Walker amerikai zsoldoscsapatai erődítményként használták a templomot, és 18 napos ostromot álltak ki itt, mielőtt elmenekültek a tóról. Walker emberei felgyújtották a templomot, amit a 20. század közepén állítottak csak teljesen helyre jelenlegi, eklektikus formájában. Történelem K7 — katonai erődtemplomok és ostromok.",
+      "factsAdvanced": [
+        "A templomot eredetileg Fray Benito de Baltodano alapította.",
+        "A Walker elleni 1856-os ostrom alatt a templom szinte teljesen romba dőlt az ágyútűztől.",
+        "1965-ben az épületet modern építőanyagok (beton) felhasználásával újjáépítették.",
+        "Homlokzatán egyetlen, középső harangtorony emelkedik, ami szokatlan a spanyol építészetben.",
+        "Sétálóutcája, a Calle de la Calzada, a város legforgalmasabb turisztikai artériája.",
+        "A templomkertben megemlékezést állítottak a Walker elleni harc nicaraguai áldozatainak."
+      ]
+    },
+    {
+      "id": "ni-fortaleza-san-pablo-landmarks-v2",
+      "descriptionAdvanced": "A San Pablo erőd (Fuerte San Pablo) egy 18. századi apró kőerőd, amely Granada egyik tóparti szigetén (Isletas de Granada) épült 1783-ban. Célja a spanyol gyarmati város védelme volt a San Juan-folyón keresztül a Nicaragua-tóba behatoló karibi kalózok ellen. Az erőd falait a helyi vulkanikus kőzetekből építették, és hat ágyúval szerelték fel, hogy kereszttűz alatt tartsák a városba vezető tengeri útvonalat. Bár katonai jelentőségét a 19. századra elvesztette, a 20. században felújították, és ma az Isletas (a 365 kis sziget) egyik legnépszerűbb csónakos turisztikai célpontja. Történelem K6 — szigeti erődítmények és kalózvédelem.",
+      "factsAdvanced": [
+        "Az erőd egyetlen kis szigetet foglal el, az Asese-félsziget (Península de Asese) közelében.",
+        "A falakon még mindig megtekinthetők az eredeti spanyol ágyúk replikái.",
+        "Az épületet Tomás de Arana mérnök tervezte a kalóztámadások elszaporodása miatt.",
+        "1974-ben a nicaraguai kormány teljesen restaurálta az elhagyatott romokat.",
+        "Kiváló kilátás nyílik az erődből a Mombacho vulkánra és a környező dzsungelszigetekre.",
+        "William Walker csapatai 1856-ban átmenetileg elfoglalták az erődöt is."
+      ]
+    },
+    {
+      "id": "refugio-vida-silvestre-chacocente-life-v2",
+      "descriptionAdvanced": "A Rio Escalante - Chacocente Vadvédelmi Terület (Refugio de Vida Silvestre Río Escalante Chacocente) a csendes-óceáni partvidéken, Carazo és Rivas megyék határán fekszik. Ez a terület az egyik legfontosabb (a világon mindössze 7 ilyen strand létezik) költőhelye a veszélyeztetett olajzöld fattyúteknősöknek (Lepidochelys olivacea). Júliustól decemberig az 'arribadas' nevű természeti jelenség során teknősök tízezrei másznak ki a homokra, hogy lerakják tojásaikat. A strand mögött Közép-Amerika egyik utolsó és legnagyobb egybefüggő trópusi száraz erdeje található, amely majmoknak, pumáknak és ritka madaraknak ad otthont. Földrajz K8 — tengeri teknősök költőhelyei és trópusi száraz erdők.",
+      "factsAdvanced": [
+        "A védett terület több mint 4600 hektár száraz erdőt és 11 kilométer tengerpartot ölel fel.",
+        "Egy-egy nagyobb 'arribada' során akár 20-30 ezer teknős is kimehet a partra néhány éjszaka alatt.",
+        "A terület 1983 óta áll szigorú állami védelem alatt az orvvadászat (tojásgyűjtés) megfékezésére.",
+        "A száraz erdő fái a száraz évszakban (verano) ledobják a leveleiket, majd az esőkkel újra kizöldülnek.",
+        "A helyi közösségek ma ökoturizmussal és teknős-védelmi őrjáratokkal biztosítják a megélhetésüket.",
+        "A folyótorkolat (Río Escalante) mangroveligetei krokodiloknak adnak menedéket."
+      ]
+    },
+    {
+      "id": "finca-las-nubes-managua-life-v2",
+      "descriptionAdvanced": "A Las Nubes Farm egy sűrű erdővel borított ökoturisztikai célpont a Managuát övező El Crucero hegységben (Sierras de Managua). Tengerszint feletti magassága miatt (közel 1000 méter) a klíma itt hűvös és párás, sőt, gyakran az alacsonyan szálló felhők (las nubes) ködbe burkolják a tájat. A terület egykor kávéültetvény volt, ma pedig népszerű menedék a managuai hőség elől menekülők számára. A parkban drótkötélpályák (canopy), majmok és tukánok találhatók, valamint lélegzetelállító kilátás nyílik a Csendes-óceánra és a Managua-tóra is. Földrajz K6 — hegyvidéki mikroklíma és ökoturizmus.",
+      "factsAdvanced": [
+        "A terület hűvös klímája (18-22 °C) éles kontrasztot alkot Managua 35 °C-os melegével.",
+        "A birtokon található köderdőkben (bosque nuboso) számos bromélia és orchidea él.",
+        "Két évtizeddel ezelőtt a terület nagyrészt elhagyatott kávécserjésekből állt.",
+        "A canopy-túra során a látogatók a fák lombkoronája felett csúsznak végig köteleken.",
+        "A lajhárok és a bőgőmajmok gyakori lakói a rezervátum fáinak.",
+        "Tiszta napokon a kilátópontokról (miradores) akár a Masaya vulkán füstje is látható."
+      ]
+    },
+    {
+      "id": "selva-negra-matagalpa-life-v2",
+      "descriptionAdvanced": "A Selva Negra (Fekete Erdő) egy világhírű ökológiai farm és köderdő-rezervátum Matagalpa megye hegyei között. Az 1800-as évek végén ideérkező német bevándorlók alapították, és a mai napig az alapítók leszármazottai, a Kühl család üzemelteti. A létesítmény úttörő a fenntartható agráriumban: saját biogázüzemük, víztisztítójuk van, és árnyékban termesztett organikus kávét exportálnak. A birtok harmada, a sűrű hegyi köderdő (bosque nuboso), szigorúan védett természetvédelmi terület, tele túraútvonalakkal, ahol a szerencsések még a ritka kvézál madarat is megpillanthatják. Földrajz K7 — fenntartható farmgazdálkodás és köderdők.",
+      "factsAdvanced": [
+        "A farm nevét és építészeti stílusát a németországi Schwarzwald (Fekete-erdő) inspirálta.",
+        "A Selva Negra volt az egyik első farm a világon, amely 100%-ban bio- és árnyékban termesztett kávét állított elő.",
+        "A birtok több mint 1200 méteres tengerszint feletti magasságban fekszik.",
+        "A rezervátum több mint 200 madárfaj, köztük a tőkés réce, a tukán és a kvézál otthona.",
+        "A farmon keletkező szerves hulladékot (pl. a kávéhúst) komposztálják vagy biogázzá alakítják.",
+        "A birtokon található tó és a bajor stílusú faházak romantikus esküvői helyszínek."
+      ]
+    },
+    {
+      "id": "reserva-natural-miraflor-life-v2",
+      "descriptionAdvanced": "A Miraflor Természetvédelmi Terület Estelí városától északkeletre fekszik, és Nicaragua egyik legkülönlegesebb és legösszetettebb ökológiai rendszere. A rezervátum magában foglal trópusi szavannát, tölgy- és fenyőerdőket, valamint magaslati köderdőket, attól függően, milyen magasságban (800-1400 méter) járunk. Miraflor különlegessége az ott termesztett orchideák lenyűgöző változatossága, mintegy 200 faj él a fák ágain. Emellett a terület nem egy lakatlan park; kis mezőgazdasági szövetkezetek (cooperativas) gazdálkodnak itt organikusan, falusi turizmust (homestay) kínálva a látogatóknak, bemutatva a nicaraguai tanyasi élet mindennapjait. Földrajz K8 — agroturizmus és orchidea biodiverzitás.",
+      "factsAdvanced": [
+        "A rezervátum területe több mint 200 négyzetkilométert ölel fel.",
+        "Itt található Nicaragua legmagasabb vízesése, a Salto de la Estanzuela.",
+        "Több mint tucatnyi kisméretű, fair-trade kávétermesztő szövetkezet működik a területen.",
+        "Az orchideák (köztük a nemzeti virág, a Sacuanjoche) virágzása az esős évszakban a legszebb.",
+        "A területen gyakran látni bőgőmajmokat, ocelotokat és quetzálokat.",
+        "Az utak nagy része csak négykerék-meghajtású járművekkel járható a mély sár miatt."
+      ]
+    },
+    {
+      "id": "finca-magdalena-ometepe-life-v2",
+      "descriptionAdvanced": "A Finca Magdalena egy történelmi agrár-szövetkezet és ökoturisztikai központ az Ometepe-szigeten, a Maderas vulkán lábánál. A farmot 1888-ban alapították, majd a sandinista forradalom után a helyi parasztok (campesinos) vették birtokba szövetkezeti formában. Ma 24 család közösen műveli a bio-kávét, mézet és útifüvet, fenntartva az ország egyik legsikeresebb kommunális gazdaságát. A birtok a Maderas vulkán krátertavához induló túrák fő bázisa, erdei ösvényei mellett pedig a világ egyik legjelentősebb prekolumbián sziklarajz (petroglifa) gyűjteménye található meg a szabad ég alatt. Történelem K8 — mezőgazdasági szövetkezetek és bio-farming.",
+      "factsAdvanced": [
+        "Az 1980-as évek agrárreformja során adták át a farmot a dolgozóknak.",
+        "A kávét a vulkáni hamuval dúsított talajon, erdő árnyékában termesztik (shade-grown coffee).",
+        "A központi, fából és kőből épült nagy hacienda épülete több mint 100 éves.",
+        "A farmról induló ösvény egy 8 órás kemény túrával éri el a Maderas vulkán 1394 méteres csúcsát.",
+        "A birtokon sétálva tucatnyi ősi, spirálokat és állatokat ábrázoló sziklarajz (petroglifa) látható.",
+        "A farm áramellátását részben napelemekkel és mikrovízerőművel biztosítják."
+      ]
+    },
+    {
+      "id": "parque-nacional-volcan-masaya-zoo-life-v2",
+      "descriptionAdvanced": "A Nemzeti Állatkert (Zoológico Nacional) Managua és Masaya között, a Panamerikai főútvonal mentén fekszik, és bár szerény méretű, létfontosságú szerepet tölt be a nicaraguai vadvilág megőrzésében. A létesítmény nem csupán bemutatóhely, hanem az ország egyetlen hivatalos vadállat-rehabilitációs központja is, ahol az illegális állatkereskedelemből kobzott (papagájok, tukánok, ocelotok, pumák, jaguárok és majmok) állatokat mentik, gyógyítják, majd lehetőség szerint visszaengedik a természetbe. Az állatkertben egy kiterjedt pillangóház (mariposario) és egy trópusi orchideakert is található, amely az oktatást szolgálja. Földrajz K6 — vadvilág-rehabilitáció és illegális állatkereskedelem.",
+      "factsAdvanced": [
+        "Az állatkertet 1978-ban alapították, és civil szervezetek, valamint önkéntesek (Fundación Amigos del Zoológico) tartják fenn.",
+        "Több mint 600 állatnak ad otthont, köztük számos ritka és veszélyeztetett közép-amerikai fajnak.",
+        "A központban sikeres tapír (perezoso) és jaguár szaporító program is működik.",
+        "Sajnos az illegális csempészet (mascotas exóticas) miatt a mentőközpont folyamatosan túlzsúfolt.",
+        "A létesítmény adományokból és a belépőjegyekből tartja fenn a kórházi részleget.",
+        "Évente több ezer iskolás vesz részt az állatkert környezetvédelmi oktatási programjain."
+      ]
+    },
+    {
+      "id": "mariposario-charco-verde-ometepe-life-v2",
+      "descriptionAdvanced": "A Charco Verde Pillangóház (Mariposario) az Ometepe-szigeten, a titokzatos Zöld Pocsolya (Laguna de Charco Verde) Természetvédelmi Területen található. Ez Nicaragua egyik legnagyobb és legszebb hálóval fedett trópusi kertje, ahol a látogatók a sziget egyedülálló lepkefajainak életciklusát tanulmányozhatják. A tenyészközpontban a petétől a hernyón át a kifejlett, színpompás (például a hatalmas kék Morpho vagy a Bagolylepke) pillangóig követhető nyomon a rovarok fejlődése. A létesítmény célja az őshonos növény- és rovarvilág megőrzése, miközben fenntartható munkát biztosít a helyi biológusoknak és idegenvezetőknek. Földrajz K6 — rovartan és ökoturizmus.",
+      "factsAdvanced": [
+        "A pillangóház területén tucatnyi olyan speciális növény él, amely a hernyók kizárólagos tápláléka.",
+        "A híres Morpho peleides pillangó szárnyfesztávolsága elérheti a 15 centimétert is.",
+        "A komplexum a Charco Verde-lagúna, egy rejtélyes (a helyi legendák szerint a 'Chico Largo' szelleme által lakott) krátertó partján épült.",
+        "A pillangók szaporításával a közeli kávéültetvények beporzását is segítik a szabadon engedett egyedek.",
+        "A pillangóház szomszédságában egy orchidea- és gyógynövénykert is megtekinthető.",
+        "A látogatók testközelből nézhetik meg, ahogy a lepkék kibújnak a bábjukból (crisálida)."
+      ]
+    },
+    {
+      "id": "heriberto-sanchez-amusement-park-life-v2",
+      "descriptionAdvanced": "A Heriberto Sánchez Vidámpark egy tradicionális, szerény kikapcsolódási központ Ciudad Sandino városában, Managua szomszédságában. Ellentétben a főváros modern, csillogó parkjaival, ez a park a helyi, munkásosztálybeli családok közösségi életének (ferias) központja. A létesítmény régi típusú, mechanikus körhintákkal, dodzsemmel és játékgépekkel van felszerelve, amelyek az 1980-as és 90-es évek hangulatát idézik. Hétvégente, különösen az ünnepek környékén, a park megtelik vattacukrot, chichát (kukoricaitalt) és vigórónt árusító bódékkal, bepillantást engedve a nicaraguai peremvárosi folklórba. Földrajz K6 — városi parkok és populáris kultúra.",
+      "factsAdvanced": [
+        "A park névadója, Heriberto Sánchez, egy helyi közösségi vezető volt.",
+        "A vidámpark gépeinek egy része még a Szovjetunióból és Kubából érkezett adományként a 80-as években.",
+        "A belépés nagyon olcsó, hogy a Ciudad Sandino-i szegényebb családok is megengedhessék maguknak.",
+        "Decemberben a park környéke a Purísima (Szűz Mária ünnepe) helyi központjává válik.",
+        "Gyakran ad otthont helyi zenei fellépőknek és amatőr bokszmérkőzéseknek is.",
+        "A park infrastruktúráját az elmúlt években kezdték el korszerűsíteni és biztonságosabbá tenni."
+      ]
+    },
+    {
+      "id": "puerto-salvador-allende-playground-life-v2",
+      "descriptionAdvanced": "A Puerto Salvador Allende Managua legmodernebb és leglátogatottabb turisztikai komplexuma, amely a Managua-tó (Xolotlán) partján épült, mintegy visszahódítva a tópartot a városlakók számára. A 2008-ban megnyitott, hatalmas, parkosított sétány (Malecón) tele van éttermekkel, kioszkokkal, sportpályákkal és óriási, modern játszóterekkel. A kikötőből sétahajók (mint a La Novia de Xolotlán) indulnak a tóra, hogy megtekintsék a környező vulkánokat vagy a 'Szerelem-szigetet'. A komplexum a kormány nagyszabású városrehabilitációs projektjének ékköve, amely újra élettel töltötte meg a korábban szennyezett és elhanyagolt partszakaszt. Földrajz K7 — városrehabilitáció és tóparti rekreáció.",
+      "factsAdvanced": [
+        "A kikötőt a korábbi chilei szocialista elnök, Salvador Allende tiszteletére nevezték el.",
+        "Havonta több mint százezer ember látogatja a komplexumot, főleg vasárnaponként.",
+        "A park területén egy miniatűr Managua is épült (Paseo Xolotlán), amely a földrengés előtti várost modellezi.",
+        "A tavat évtizedekig a város szennyvize fertőzte, amíg a víz tisztítását meg nem kezdték a 2010-es években.",
+        "A játszótereken a legkorszerűbb spanyol és amerikai játékokat telepítették.",
+        "A komplexum éjszaka kivilágítva Managua legbiztonságosabb és legpezsgőbb éjszakai zónája."
+      ]
+    },
+    {
+      "id": "parque-luis-alfonso-velasquez-flores-life-v2",
+      "descriptionAdvanced": "A Luis Alfonso Velásquez Flores Park (PLAVF) Közép-Amerika egyik legnagyobb és legjobban felszerelt városi parkja, Managua szívében. Az 1972-es földrengés által lerombolt egykori belváros helyén hozták létre. A gigantikus, több hektáros parkban nemzetközi versenyekre alkalmas tenisz-, kosárlabda-, görkorcsolya- és baseballpályák, egy mesterséges tó (ahol csónakázni lehet), valamint hatalmas játszóterek és szökőkutak találhatók. A parkot arról a 9 éves fiúról nevezték el, akit 1979-ben a Somoza-gárda meggyilkolt, és a nicaraguai gyermekmártírok szimbólumává vált. Történelem K8 — gyermekmártírok és városi sportinfrastruktúra.",
+      "factsAdvanced": [
+        "A park területe az 1980-as évek elején indult épülni, de a teljes modernizáció 2011 után történt meg.",
+        "A létesítmény területén egy modern, fedett sportaréna (Polideportivo Alexis Argüello) is felépült.",
+        "A Luis Alfonso Velásquez (a névadó fiú) a forradalmi diáksztrájkok egyik legfiatalabb szónoka volt.",
+        "A mesterséges tavon esténként kivilágított, zenélő szökőkutak (fuentes luminosas) működnek.",
+        "A park teljesen ingyenesen látogatható, és éjjel-nappal szigorúan őrzik a biztonság érdekében.",
+        "Nicaragua történetében ez a legkiterjedtebb közösségi rekreációs fejlesztés."
+      ]
+    },
+    {
+      "id": "finca-esperanza-verde-life-v2",
+      "descriptionAdvanced": "A Finca Esperanza Verde (Zöld Remény Farm) egy nemzetközi hírű ökológiai farm és kávéültetvény San Ramón (Matagalpa) hegyvidéki köderdeiben. A birtokot egy amerikai békehadtest-önkéntes (Peace Corps) és helyi nicaraguai gazdák közösen alapították az 1990-es évek végén. A farm célja nem csupán a világszínvonalú organikus kávé termesztése, hanem az agroturizmus, a környezetvédelmi oktatás és a helyi nők foglalkoztatásának elősegítése. A napelemekkel, esővízgyűjtőkkel és komposzt-vécékkel felszerelt létesítmény többször nyert 'Gondnoksági Díjat' fenntartható turisztikai gyakorlatáért. A látogatók bekapcsolódhatnak a kávészüretbe és madármegfigyelő túrákra (pl. tukánok) indulhatnak. Földrajz K8 — fenntartható turizmus és közösségi fejlesztés.",
+      "factsAdvanced": [
+        "A farm több mint 1200 méteres tengerszint feletti magasságban, sűrű trópusi erdőben fekszik.",
+        "2004-ben a Smithsonian Magazin az 'Ökoturizmus top 10' helyszíne közé választotta.",
+        "A kávét a madarak élőhelyének védelmében magas fák (árnyék) alatt termesztik.",
+        "A farm területén pillangóház és gyógynövénykert is üzemel a turisták oktatására.",
+        "Az energiaellátást 100%-ban megújuló forrásokból (nap, mikro-víz) fedezik.",
+        "A nyereség jelentős részét a szomszédos falvak iskoláinak építésére és vízhálózatára fordítják."
+      ]
+    },
+    {
+      "id": "los-guatuzos-wildlife-refuge-life-v2",
+      "descriptionAdvanced": "A Los Guatuzos Vadvédelmi Terület (Refugio de Vida Silvestre Los Guatuzos) a Nicaragua-tó déli csücskénél, a Costa Rica-i határ mentén fekszik, és egyedülálló, érintetlen mocsárvilág. A terület 1997 óta Ramsari (nemzetközi jelentőségű vizes élőhely) védelem alatt áll. A folyók (mint a Río Papaturro) hálózata által átszelt dzsungel Közép-Amerika egyik leggazdagabb madármegfigyelő helye (több mint 400 faj, köztük a jabiru gólya és a jégmadár). Mivel utak nem vezetnek ide, a közlekedés kizárólag csendes csónakokkal történik. A terület a krokodilok, teknősök és három majomfaj (bőgő, pók és csuklyás) menedéke. Földrajz K7 — mocsári ökoszisztémák és Ramsari területek.",
+      "factsAdvanced": [
+        "A terület kiterjedése meghaladja a 437 négyzetkilométert az esőerdőkben és lagúnákban.",
+        "Az ökológiai kutatóközpontot egy spanyol szervezet (Fundación del Río) hozta létre a 90-es években.",
+        "A látogatók számára a dzsungel lombkoronájában építettek egy 120 méter hosszú, felfüggesztett függőhidat.",
+        "A nevét ('Guatuzos') egy őslakos indián törzsről kapta, akik egykor ezen a területen éltek.",
+        "A régióban a krokodil-populáció olyannyira egészséges, hogy éjszakai szafarikon gyakran megfigyelhetők.",
+        "Egy helyi női szövetkezet (cooperativa) ékszer- és kézműves boltot üzemeltet, újrahasznosított magvakból."
+      ]
+    },
+    {
+      "id": "domitila-private-wildlife-reserve-life-v2",
+      "descriptionAdvanced": "A Domitila Magán Vadvédelmi Terület (Reserva Privada Domitila) Nicaragua déli részén, a Csendes-óceán partvidékén, Granada megyében található (a Zapatera-sziget magasságában, a szárazföldön). Ez volt Nicaragua legelső magánkézben lévő természetvédelmi területe, amelyet 2001-ben alapítottak az ország utolsó csendes-óceáni száraz trópusi erdeinek (bosque tropical seco) megmentése érdekében. Az egykori marhafarmot visszaadták a természetnek, így ma jaguárundik, ocelotok és számtalan pillangó- és madárfaj menedéke. A rezervátum kiváló példa arra, hogy a magán tőke és az ökoturizmus miként állíthatja meg a fakitermelést és az élőhelyek pusztulását. Földrajz K8 — száraz erdők és magán természetvédelem.",
+      "factsAdvanced": [
+        "A terület nagysága körülbelül 160 hektár, szorosan a Nicaragua-tó nyugati partjához közel.",
+        "A száraz trópusi erdő különlegessége, hogy a fák a féléves aszály alatt ledobják leveleiket.",
+        "Több mint 100 madárfajt és 50 pillangófajt dokumentáltak a birtok határain belül.",
+        "Az alapító, Maria José Mejía a családi birtokát alakította át ökológiai menedékké.",
+        "A rezervátumban szigorúan tilos az autózás, csak gyalogos vagy lovas szafarik engedélyezettek.",
+        "Egy közeli lagúna a költöző madarak fontos pihenőhelye Észak- és Dél-Amerika között."
+      ]
+    }
+  ]
+}

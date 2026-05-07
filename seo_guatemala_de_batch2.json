@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gt-san-pedro-la-laguna-cities-v2",
+      "descriptionAdvanced": "San Pedro La Laguna ist eines der bekanntesten und lebhaftesten Maya-Dörfer am Ufer des Atitlán-Sees, gelegen am Fuße des gleichnamigen Vulkans San Pedro. Das Dorf wird von der indigenen Gruppe der Tz'utujil bewohnt, die ihre eigene Sprache und Kultur bis heute pflegen. Im Laufe der letzten Jahrzehnte hat sich San Pedro zu einem Magneten für Rucksacktouristen entwickelt, angelockt von günstigen Spanischschulen, einer entspannten Atmosphäre und einem regen Nachtleben. Die lokale Wirtschaft stützt sich nicht nur auf den Tourismus, sondern auch auf den Anbau von hervorragendem Arabica-Kaffee an den vulkanischen Hängen rund um das Dorf. Trotz des modernen Einflusses durch ausländische Besucher behält die Gemeinde ihre traditionellen Strukturen und Feste bei, was eine faszinierende Mischung aus alter und neuer Welt schafft. Geografie K8 — Tourismus in indigenen Gebieten.",
+      "factsAdvanced": [
+        "Das Dorf liegt am südwestlichen Ufer des Atitlán-Sees auf etwa 1.600 Metern Höhe.",
+        "Die Einwohner gehören überwiegend zur ethnischen Gruppe der Tz'utujil-Maya.",
+        "San Pedro ist berühmt für seine zahlreichen Spanisch-Sprachschulen.",
+        "Der markante Vulkan San Pedro (3.020 m) überragt das gesamte Dorf.",
+        "Kaffee, der an den steilen Hängen angebaut wird, ist eine wichtige Einnahmequelle.",
+        "Ein Großteil des Transports zum Dorf erfolgt über kleine Motorboote ('Lanchas')."
+      ]
+    },
+    {
+      "id": "gt-cuilapa-cities-v2",
+      "descriptionAdvanced": "Cuilapa, die Hauptstadt des Departamentos Santa Rosa, wird oft stolz als das 'Geografische Zentrum der Amerikas' bezeichnet. Die Stadt liegt in einem talartigen Gebiet und ist von einer reichen, landwirtschaftlich genutzten Landschaft umgeben, in der vor allem Kaffee und Zuckerrohr angebaut werden. Eine tragische, aber prägende Rolle in der Geschichte der Stadt spielte das verheerende Erdbeben vom März 1913, das Cuilapa fast vollständig zerstörte und einen kompletten Neuaufbau erforderte. Aufgrund ihrer Lage an der Panamericana-Autobahn ist die Stadt ein wichtiger Knotenpunkt für Reisende und Händler auf dem Weg nach El Salvador. Das Klima ist tropisch warm, was der Region das ganze Jahr über grüne, fruchtbare Bedingungen verleiht. Geografie K7 — Geografische Mittelpunkte.",
+      "factsAdvanced": [
+        "Die Stadt gilt symbolisch als das geografische Zentrum des amerikanischen Kontinents.",
+        "Cuilapa liegt auf einer Höhe von etwa 893 Metern.",
+        "Ein massives Erdbeben im Jahr 1913 zerstörte die Stadt nahezu vollständig.",
+        "Die Wirtschaft basiert größtenteils auf Landwirtschaft, speziell auf Kaffee.",
+        "Der Name Cuilapa leitet sich von indigenen Wurzeln ab und bedeutet 'Fluss der Schwalben'.",
+        "Die Panamericana (CA-1) führt direkt an der Stadt vorbei und fördert den Handel."
+      ]
+    },
+    {
+      "id": "gt-san-cristobal-verapaz-cities-v2",
+      "descriptionAdvanced": "San Cristóbal Verapaz ist eine malerische Stadt im regenreichen Departament Alta Verapaz, die stark von der Poqomchi'-Maya-Kultur geprägt ist. Die wohl bekannteste Attraktion der Stadt ist die Laguna Chichoj, ein idyllischer See am Rande des Zentrums, der von Legenden umwoben ist, jedoch durch Umweltverschmutzung bedroht war und nun aufwendig renaturiert wird. Wirtschaftlich hat sich die Stadt einen Namen in der Schuhproduktion gemacht, viele der landesweit verkauften 'Cobán-Schuhe' stammen eigentlich aus den kleinen Werkstätten von San Cristóbal. Die tiefe Religiosität der Bevölkerung zeigt sich eindrucksvoll am 'Calvario', einer Kapelle auf einem Hügel, zu der lange, steinerne Treppen hinaufführen. Das Klima ist das ganze Jahr über kühl und oft neblig, typisch für die Region Verapaz. Sachkunde K5 — Lokales Handwerk.",
+      "factsAdvanced": [
+        "Die Stadt liegt eingebettet in ein langes Tal auf 1.393 Metern Höhe.",
+        "Die Laguna Chichoj ist der wichtigste See und ein Erholungsort der Region.",
+        "San Cristóbal ist ein nationales Zentrum für die Herstellung von Lederschuhen.",
+        "Die Mehrheit der Einwohner spricht die Poqomchi'-Maya-Sprache.",
+        "Die Stadt wurde um das Jahr 1565 von Dominikanermissionaren gegründet.",
+        "Auf dem Hügel El Calvario finden wichtige katholische und indigene Zeremonien statt."
+      ]
+    },
+    {
+      "id": "gt-esquipulas-cities-v2",
+      "descriptionAdvanced": "Esquipulas, gelegen im östlichen Departamento Chiquimula, ist der wichtigste Pilgerort in ganz Zentralamerika. Tausende Gläubige besuchen jährlich die gewaltige, strahlend weiße Basilika, um den 'Schwarzen Christus' (Cristo Negro) zu verehren, eine dunkle Holzstatue, der zahlreiche Wunder zugeschrieben werden. Die höchste Konzentration an Pilgern findet jedes Jahr im Januar statt. Neben seiner immensen religiösen Bedeutung hat Esquipulas auch historische Wichtigkeit für die Politik: 1986 wurden hier die 'Esquipulas-Friedensabkommen' unterzeichnet, die den Weg zur Beendigung der Bürgerkriege in mehreren mittelamerikanischen Ländern ebneten. Die Stadt liegt an einem strategischen Dreiländereck nahe den Grenzen zu Honduras und El Salvador, was sie zu einem geschäftigen Zentrum für internationalen Handel und Pilgertourismus macht. Geschichte K8 — Friedensabkommen und Pilgerorte.",
+      "factsAdvanced": [
+        "Die Basilika von Esquipulas beherbergt den berühmten 'Schwarzen Christus'.",
+        "Am 15. Januar jedes Jahres zieht das Fest Hunderttausende Pilger an.",
+        "1986 unterzeichneten zentralamerikanische Präsidenten hier ein historisches Friedensabkommen.",
+        "Die Stadt liegt auf etwa 940 Metern Höhe nahe den Grenzen zu Honduras und El Salvador.",
+        "Papst Johannes Paul II. besuchte die Basilika im Jahr 1996.",
+        "Der Tourismus und der Handel mit religiösen Devotionalien prägen die Wirtschaft."
+      ]
+    },
+    {
+      "id": "gt-san-benito-cities-v2",
+      "descriptionAdvanced": "San Benito bildet zusammen mit Flores und Santa Elena das größte städtische Konglomerat im Departamento Petén. Während Flores die charmante, historische Touristeninsel ist, pulsiert in San Benito das wahre, ungeschminkte wirtschaftliche Herz der Region. Hier finden sich große Märkte, Handelszentren und wichtige Transportunternehmen, die Waren aus dem Rest des Landes in den abgelegenen Dschungel bringen. San Benito verzeichnet aufgrund der starken Zuwanderung aus anderen Landesteilen Guatemalas ein extremes Bevölkerungswachstum. Die Stadtgrenzen verschmelzen nahtlos mit Santa Elena, in dem sich auch der internationale Flughafen Mundo Maya befindet. Das raue, oft sehr heiße Klima und die staubigen oder in der Regenzeit schlammigen Straßen prägen das Bild dieser schnell wachsenden Pionierstadt. Geografie K8 — Urbanisierung im Dschungel.",
+      "factsAdvanced": [
+        "San Benito grenzt direkt an Santa Elena und bildet die Metropolregion Petén.",
+        "Die Stadt ist das kommerzielle und logistische Zentrum des Departamentos.",
+        "San Benito verzeichnet eines der schnellsten Bevölkerungswachstumsraten im Land.",
+        "Das Klima ist ganzjährig feuchtheiß mit ausgeprägten Regenzeiten.",
+        "Die Wirtschaft profitiert von der Landwirtschaft, Viehzucht und dem Handel.",
+        "Die Stadt liegt am Festlandufer des berühmten Petén-Itzá-Sees."
+      ]
+    },
+    {
+      "id": "gt-santo-tomas-de-castilla-cities-v2",
+      "descriptionAdvanced": "Santo Tomás de Castilla, an der Bucht von Amatique im Atlantik gelegen, ist heute der mit Abstand wichtigste Frachthafen Guatemalas und das Tor zum globalen Welthandel. Administrativ gehört der Ort zu Puerto Barrios im Departamento Izabal. Historisch ist die Siedlung sehr interessant: In den 1840er Jahren wurde hier eine belgische Kolonie unter Leitung der 'Compagnie Belge de Colonisation' gegründet, die jedoch aufgrund von Tropenkrankheiten und dem extrem feuchtheißen Klima kläglich scheiterte. Ein kleiner belgischer Friedhof erinnert bis heute an diesen ungewöhnlichen Teil der Geschichte. Heute dominiert der riesige, moderne Hafenumschlagplatz das Geschehen, in dem Container, Fahrzeuge und große Mengen an Exportgütern abgefertigt werden. Wirtschaft K8 — Seehäfen und Logistik.",
+      "factsAdvanced": [
+        "Santo Tomás ist der tiefste und modernste Hafen Guatemalas an der Karibikküste.",
+        "1843 versuchten belgische Auswanderer hier eine Kolonie zu etablieren.",
+        "Ein Großteil der guatemaltekischen Im- und Exporte wird über diesen Hafen abgewickelt.",
+        "Der Ort liegt direkt neben der Hauptstadt des Departamentos, Puerto Barrios.",
+        "Der Hafen dient auch als Anlegeplatz für große internationale Kreuzfahrtschiffe.",
+        "Das Gelände beherbergt eine strategisch wichtige Basis der guatemaltekischen Marine."
+      ]
+    },
+    {
+      "id": "gt-la-gomera-cities-v2",
+      "descriptionAdvanced": "La Gomera ist eine weite, flache Gemeinde im Departamento Escuintla, die von großen Plantagen dominiert wird. Die Region ist ein Paradebeispiel für die intensive landwirtschaftliche Nutzung der pazifischen Küstenebene: Kilometerweit erstrecken sich Felder mit Zuckerrohr, Bananen, Kautschuk und afrikanischen Ölpalmen. Der Name der Stadt leitet sich höchstwahrscheinlich von der gleichnamigen Insel der spanischen Kanaren ab, von wo einige der ersten Siedler stammten. Aufgrund der intensiven Monokulturen ist die ursprüngliche Küstenwaldvegetation größtenteils verschwunden. Das Klima ist brütend heiß und sehr feucht, was die landwirtschaftlichen Erträge steigert, aber auch anspruchsvolle Lebensbedingungen für die Einheimischen schafft. Wirtschaft K7 — Tropische Plantagenwirtschaft.",
+      "factsAdvanced": [
+        "La Gomera liegt auf einer niedrigen Höhe von etwa 40 Metern in der Pazifikebene.",
+        "Die Gemeinde ist umgeben von riesigen Zuckerrohr- und Ölpalmenplantagen.",
+        "Der Name der Stadt erinnert an die kanarische Insel La Gomera.",
+        "Die Landwirtschaft zieht während der Erntezeit zahlreiche Wanderarbeiter an.",
+        "Die Stadt ist stark von großen Agrarunternehmen (Ingenios) abhängig.",
+        "Die Temperaturen steigen häufig auf über 35 Grad Celsius an."
+      ]
+    },
+    {
+      "id": "gt-patzun-cities-v2",
+      "descriptionAdvanced": "Patzún ist eine malerische Stadt im Departamento Chimaltenango und gilt als eines der wichtigsten kulturellen Zentren der Kaqchikel-Maya. Die Region ist berühmt für ihren extrem fruchtbaren vulkanischen Boden, auf dem intensiv Gemüse wie Brokkoli, Karotten und Kohl für den Export angebaut wird. Landesweite Berühmtheit erlangt Patzún jedes Jahr am Fest Fronleichnam (Corpus Christi), wenn die Straßen des gesamten Stadtzentrums mit atemberaubenden, bunten Teppichen aus gefärbtem Sägemehl und Blumen ('Alfombras') geschmückt werden. Die Einwohner tragen stolz ihre traditionellen Trajes, insbesondere die Frauen, deren tiefrote, gewebte Blusen zu den schönsten des Landes zählen. Die koloniale Architektur der Hauptkirche rundet das pittoreske Bild der hochgelegenen Stadt ab. Sachkunde K5 — Religiöse Feste und Traditionen.",
+      "factsAdvanced": [
+        "Patzún liegt im kühlen Hochland auf etwa 2.213 Metern Höhe.",
+        "Die Stadt ist das Zentrum des Gemüseexports (Mini-Gemüse) nach Nordamerika.",
+        "Das Fronleichnamsfest in Patzún zieht Touristen aus dem ganzen Land an.",
+        "Die Bevölkerung gehört größtenteils zur ethnischen Gruppe der Kaqchikel.",
+        "Der traditionelle Traje (Kleidung) der Frauen zeichnet sich durch ein intensives Dunkelrot aus.",
+        "In der Stadtmitte befindet sich eine prachtvolle Kirche aus dem 16. Jahrhundert."
+      ]
+    },
+    {
+      "id": "gt-nahuala-cities-v2",
+      "descriptionAdvanced": "Nahualá liegt im Departamento Sololá an den steilen Hängen des westlichen Hochlands, direkt an der Interamericana-Autobahn. Das oft in dichten Nebel und Kälte gehüllte Dorf ist eine Hochburg der indigenen K'iche'-Kultur. Die Männer von Nahualá sind im ganzen Land als herausragende Holzschnitzer und Möbelbauer bekannt; ihre massiven, handgeschnitzten Truhen und Stühle ('Muebles de Nahualá') gelten als traditionelles Kulturgut. Die Stadt hat eine lange Geschichte der Autonomie und lehnte es im 19. Jahrhundert erfolgreich ab, spanische Landbesitzer auf ihrem Gebiet zu dulden. Die traditionelle Kleidung der Männer beinhaltet einen charakteristischen gewebten Schurz (Rodillera), der über der Hose getragen wird. Landwirtschaftlich dominieren Mais, Bohnen und Schafzucht in den rauen Höhenlagen. Geschichte K8 — Indigene Autonomie.",
+      "factsAdvanced": [
+        "Nahualá liegt auf einer eisigen Höhe von fast 2.500 Metern an der CA-1.",
+        "Die Holzschnitzerei von Truhen und Möbeln ist die wichtigste lokale Industrie.",
+        "Die Gemeinde ist für ihren historischen Widerstand gegen die Ladino-Einflüsse bekannt.",
+        "Die fast 100% indigene Bevölkerung spricht K'iche'.",
+        "Die Männer tragen eine traditionelle 'Rodillera' (gewebter Schurz) über der Kleidung.",
+        "Der Name leitet sich von 'Nahual' (Schutzgeist) ab, ein zentraler Begriff der Maya-Spiritualität."
+      ]
+    },
+    {
+      "id": "gt-joyabaj-cities-v2",
+      "descriptionAdvanced": "Joyabaj ist eine isolierte, aber kulturell ungemein reiche Stadt im Departamento Quiché. Traurige Berühmtheit erlangte der Ort durch das verheerende Erdbeben von 1976, das die Stadt fast dem Erdboden gleichmachte, einschließlich der massiven historischen Kolonialkirche. Kulturell ist Joyabaj heute vor allem wegen des spektakulären 'Danza de los Voladores' (Tanz der Flieger) bekannt, einem uralten mesoamerikanischen Ritual, das während des Patronatsfestes Mitte August aufgeführt wird. Dabei binden sich Männer an Seile und stürzen sich von einem über 20 Meter hohen Holzpfahl, um kreisend zu Boden zu gleiten. Die Bevölkerung, mehrheitlich K'iche'-Maya, lebt von der Landwirtschaft, Handwerk und Überweisungen von Verwandten, die in die USA ausgewandert sind. Geschichte K8 — Erdbeben und Wiederaufbau.",
+      "factsAdvanced": [
+        "Joyabaj liegt auf einer Höhe von rund 1.433 Metern in einem von Bergen umgebenen Tal.",
+        "Das schwere Erdbeben im Februar 1976 zerstörte über 90 % der Gebäude der Stadt.",
+        "Im August findet hier der berühmte und gefährliche 'Palo Volador'-Tanz statt.",
+        "Die Wirtschaft stützt sich stark auf landwirtschaftliche Produktion (Zuckerrohr, Äpfel, Mais).",
+        "Der Name der Stadt leitet sich von dem indigenen Wort Xoyabaj ('Ort der Steine') ab.",
+        "Die Remessen (Geldüberweisungen) aus den USA sind eine zentrale wirtschaftliche Stütze."
+      ]
+    },
+    {
+      "id": "gt-poptun-cities-v2",
+      "descriptionAdvanced": "Poptún ist eine einzigartige Stadt im südlichen Teil des Departamentos Petén, die sich geografisch stark vom restlichen Dschungelgebiet unterscheidet. Anstatt von dichtem tropischem Regenwald ist Poptún von weiten, savannenartigen Kiefernwäldern umgeben, die der Region ein ungewöhnliches Aussehen und ein etwas kühleres Klima verleihen. Die Stadt erlangte Bekanntheit durch eine wichtige Basis der guatemaltekischen Spezialeinheiten der Armee (Kaibiles). In unmittelbarer Nähe liegt die Finca Ixobel, ein beliebter ökologischer Rückzugsort für Touristen. Kulturell und historisch bedeutend ist die unweit gelegene Naj-Tunich-Höhle, die in der klassischen Maya-Periode als wichtiges Pilgerzentrum diente und beeindruckende Felsmalereien birgt. Geografie K7 — Ökosysteme des Petén.",
+      "factsAdvanced": [
+        "Poptún liegt auf etwa 510 Metern Höhe, umgeben von charakteristischen Kiefernwäldern.",
+        "Die nahegelegenen Naj-Tunich-Höhlen enthalten weltberühmte klassische Maya-Felsmalereien.",
+        "Die Stadt beherbergt die Ausbildungsbasis der Eliteeinheit 'Kaibiles'.",
+        "Aufgrund der Kiefernwälder ist die Holzindustrie ein wichtiger Wirtschaftszweig.",
+        "Poptún wurde erst 1966 offiziell in den Rang einer Gemeinde (Municipio) erhoben.",
+        "Die Panamericana in Richtung Belize (CA-13) verläuft direkt durch die Stadt."
+      ]
+    },
+    {
+      "id": "gt-asuncion-mita-cities-v2",
+      "descriptionAdvanced": "Asunción Mita ist eine warme, lebendige Stadt im Departamento Jutiapa, die sich nur wenige Kilometer von der Grenze zu El Salvador entfernt befindet. Die Region ist landwirtschaftlich stark geprägt und berühmt für die Zucht von Rindern sowie den Anbau von Reis, Bohnen, Tabak und Sesam. Nicht weit von der Stadt entfernt liegt der Güija-See, ein großer grenzüberschreitender See, der gemeinsam mit El Salvador geteilt wird und der lokalen Fischerei dient. In archäologischer Hinsicht ist Asunción Mita interessant, da in der Gegend Überreste der Pipil- und Xinca-Kultur gefunden wurden. Das tägliche Leben ist stark von der Grenzökonomie geprägt, was den Einwohnern einen geschäftigen und offenen Charakter verleiht. Geografie K7 — Grenzüberschreitende Gewässer.",
+      "factsAdvanced": [
+        "Die Stadt liegt auf etwa 500 Metern Höhe nahe der salvadorianischen Grenze.",
+        "Der nahegelegene Lago de Güija ist ein wichtiger Ort für Fischerei und Wasserversorgung.",
+        "Der Name Mita leitet sich vom Nahuatl-Wort 'Mictlán' (Ort der Toten) ab.",
+        "Asunción Mita ist ein wichtiges Zentrum für die Rinderzucht im Osten Guatemalas.",
+        "Präkolumbische Ruinen in der Nähe zeugen von der Besiedlung durch die Xinca-Kultur.",
+        "Die lokale Wirtschaft profitiert stark vom grenzüberschreitenden Handel."
+      ]
+    },
+    {
+      "id": "gt-gualan-cities-v2",
+      "descriptionAdvanced": "Gualán ist eine heiße, historische Stadt im Departamento Zacapa, die sich malerisch an den Ufern des großen Motagua-Flusses erstreckt. Während der späten Kolonialzeit und dem 19. Jahrhundert war Gualán ein entscheidender Fluss- und Landhafen, an dem Waren aus der Hauptstadt auf kleine Boote verladen wurden, um sie in die Karibik zu transportieren. Mit dem Bau der Eisenbahn zum Atlantik verlor der Flussverkehr an Bedeutung, aber Gualán blieb als wichtiger Bahnhof erhalten. Das Klima ist extrem heiß und trocken. Heute lebt die Stadt hauptsächlich von der Landwirtschaft im fruchtbaren Flusstal, wo Wassermelonen, Tabak und Tomaten angebaut werden. Die alten, verfallenen Eisenbahnanlagen erinnern noch an das goldene Zeitalter des Exports. Geschichte K7 — Historische Handelsrouten.",
+      "factsAdvanced": [
+        "Gualán liegt im heißen Tal des Motagua-Flusses auf etwa 130 Metern Höhe.",
+        "Vor dem Bau der Eisenbahn war die Stadt ein wichtiger Binnenhafen für die Karibikroute.",
+        "Der Motagua-Fluss durchquert das Stadtgebiet und liefert wichtiges Wasser für die Landwirtschaft.",
+        "Die Region ist Teil des guatemaltekischen Trockenkorridors mit sehr hohen Temperaturen.",
+        "Wassermelonen und Tomaten sind die wichtigsten landwirtschaftlichen Exportgüter.",
+        "Ein massives Erdbeben zerstörte 1976 viele historische Gebäude der Stadt."
+      ]
+    },
+    {
+      "id": "gt-la-democracia-cities-v2",
+      "descriptionAdvanced": "La Democracia, gelegen in der heißen pazifischen Ebene des Departamentos Escuintla, ist eine landwirtschaftlich geprägte Stadt, die eine einzigartige archäologische Sensation bewahrt. Im zentralen Park der Stadt sind riesige, runde Steinköpfe aufgestellt, die der alten, präkolumbischen Monte-Alto-Kultur zugerechnet werden. Diese Monumente, die an die Olmeken-Köpfe aus Mexiko erinnern (aber einen eigenen Stil besitzen), wurden auf den umliegenden Zuckerrohrfeldern gefunden und hier zum Schutz zusammengetragen. Die Wirtschaft der Gemeinde wird vollständig von der Agroindustrie, vor allem riesigen Zuckerrohrplantagen (Ingenios) und Kautschukbaum-Feldern, dominiert. Das Klima ist typisch tropisch mit hohen Temperaturen und intensiver Sonneneinstrahlung. Geschichte K8 — Die Monte-Alto-Kultur.",
+      "factsAdvanced": [
+        "Im zentralen Park stehen die massiven, prähistorischen 'Gorditos'-Steinköpfe.",
+        "Die Statuen gehören zur Monte-Alto-Kultur und stammen aus der präklassischen Zeit.",
+        "La Democracia liegt in der flachen Küstenebene auf etwa 165 Metern Höhe.",
+        "Zuckerrohranbau und große Verarbeitungsmühlen prägen die umliegende Wirtschaft.",
+        "Neben dem Park befindet sich ein kleines, aber sehr wichtiges archäologisches Museum.",
+        "Die Region verzeichnet ein feuchtheißes, stark tropisches Klima."
+      ]
+    },
+    {
+      "id": "gt-colomba-cities-v2",
+      "descriptionAdvanced": "Colomba Costa Cuca, meist nur Colomba genannt, ist eine landwirtschaftliche Drehscheibe im Departamento Quetzaltenango. Die Stadt liegt genau in der Übergangszone zwischen dem kühlen Hochgebirge und der heißen pazifischen Ebene. Diese geografische Besonderheit schafft ein perfektes Mikroklima für den Kaffeeanbau. Colomba ist umgeben von Dutzenden großer, historischer Kaffeefincas, die im späten 19. und frühen 20. Jahrhundert durch die Liberale Revolution gefördert wurden und einen Großteil des nationalen Reichtums erwirtschafteten. Das Stadtzentrum selbst ist ein geschäftiger, chaotischer Marktort, in dem Kaffeepflücker und Händler zusammenkommen. Im Gegensatz zu den reinen Maya-Gemeinden des Hochlands ist die Bevölkerung hier stärker gemischt, und die Kultur ist tief vom harten Rhythmus der Kaffeeernte ('La Cosecha') geprägt. Sachkunde K6 — Die Kaffeeernte.",
+      "factsAdvanced": [
+        "Die Stadt liegt auf rund 1.000 Metern Höhe, ideal für hochwertigen Kaffeeanbau.",
+        "Der vollständige Name der Gemeinde ist Colomba Costa Cuca.",
+        "Während der Liberalen Reform ab 1871 wurden hier massive Kaffeefincas gegründet.",
+        "Zur Erntezeit zieht die Region Tausende von saisonalen Arbeitern (Cuadrilleros) an.",
+        "Die Stadt bildet den Übergang vom westlichen Hochland zur pazifischen Ebene.",
+        "Neben Kaffee werden hier auch Bananen und Macadamianüsse angebaut."
+      ]
+    },
+    {
+      "id": "gt-san-andres-itzel-cities-v2",
+      "descriptionAdvanced": "San Andrés Itzapa liegt in einem kühlen Tal im Departamento Chimaltenango und ist landesweit bekannt als eines der spirituellen Zentren für den Kult des San Simón, der in vielen Regionen als Maximón verehrt wird. Die Stadt beherbergt einen massiven und viel besuchten Schrein dieser synkretistischen Heiligenfigur, zu dem Gläubige aus dem ganzen Land und aus Mexiko pilgern, um für Gesundheit, Liebe oder Reichtum zu bitten. Dabei werden Zigarren, Schnaps und Kerzen als Opfergaben dargebracht. Abseits dieser spirituellen Berühmtheit ist Itzapa eine ruhige, landwirtschaftlich geprägte Gemeinde, die von der indigenen Kaqchikel-Kultur dominiert wird. Auf den äußerst fruchtbaren Böden rund um die Stadt wird intensiv Gemüse, insbesondere Brokkoli und Blumenkohl, für den Export angebaut. Geschichte K8 — Religiöser Synkretismus.",
+      "factsAdvanced": [
+        "San Andrés Itzapa ist der wichtigste Wallfahrtsort für den Kult um San Simón in Zentralguatemala.",
+        "Die Stadt liegt im kühlen Hochland auf etwa 1.830 Metern über dem Meeresspiegel.",
+        "Die Opfergaben für den Heiligen umfassen Tabak, Rum und tausende bunte Kerzen.",
+        "Die Wirtschaft basiert größtenteils auf dem Export von Hochlandgemüse.",
+        "Die Bevölkerung besteht mehrheitlich aus indigenen Kaqchikel-Maya.",
+        "Am 28. Oktober feiert die Stadt ein riesiges Fest zu Ehren von San Simón."
+      ]
+    },
+    {
+      "id": "gt-morales-cities-v2",
+      "descriptionAdvanced": "Morales ist eine heiße, tropische Stadt im Departamento Izabal, gelegen in der Nähe des fischreichen Río Motagua und nicht weit vom Atlantik entfernt. Seit dem frühen 20. Jahrhundert ist die Region untrennbar mit der Bananenindustrie verbunden. Große multinationale Obstunternehmen kultivieren hier endlose Bananenplantagen, deren grüne Meere die Stadt umschließen. Morales dient als wichtiger logistischer Knotenpunkt, wo die Früchte verpackt und zur Verschiffung nach Puerto Barrios weitertransportiert werden. Das Klima ist feuchtheiß mit massiven Niederschlägen, typisch für das atlantische Tiefland. Die Stadt ist auch das Tor zum Nationalpark Río Dulce und zum Izabal-See, weshalb der Verkehrstransit von Lastwagen und Touristen das Straßenbild der Stadt dominiert. Wirtschaft K7 — Globale Obstindustrie.",
+      "factsAdvanced": [
+        "Morales ist das Herz der guatemaltekischen Bananenproduktion.",
+        "Die Stadt liegt in den feuchtheißen Tropen auf nur etwa 70 Metern über dem Meer.",
+        "Die United Fruit Company prägte die Entwicklung der Infrastruktur im 20. Jahrhundert massiv.",
+        "Die strategische Lage an der CA-9 macht sie zum Verkehrsknotenpunkt in die Karibik.",
+        "Der nahegelegene Motagua-Fluss liefert das notwendige Wasser für die Plantagen.",
+        "Der Name der Stadt ehrt General Próspero Morales, einen Militärführer."
+      ]
+    },
+    {
+      "id": "gt-siquinala-cities-v2",
+      "descriptionAdvanced": "Siquinalá ist eine landwirtschaftlich geprägte Gemeinde im heißen Departamento Escuintla. Die Stadt liegt umgeben von einigen der größten Zuckerrohrplantagen des ganzen Landes. Hier befinden sich massive industrielle Zuckermühlen ('Ingenios'), insbesondere der riesige Komplex Pantaleón, der zu den bedeutendsten Arbeitgebern in ganz Mittelamerika gehört. Das Leben in der Stadt wird vollständig vom Zyklus des Zuckerrohrs, der sogenannten 'Zafra', bestimmt. In der Trockenzeit dominieren Lastwagen, die mit geerntetem Rohr beladen sind, und der süßliche Geruch der Mühlen die Region. Aufgrund der industriellen Bedeutung wächst die Stadt schnell. Archäologisch ist die Region ebenfalls reich an Funden aus präkolumbischer Zeit, die bei der Rodung für neue Felder oft zutage treten. Wirtschaft K8 — Industrielle Zuckerproduktion.",
+      "factsAdvanced": [
+        "Siquinalá ist die Heimat einiger der größten Zuckermühlen ('Ingenios') Lateinamerikas.",
+        "Die Stadt liegt auf etwa 340 Metern Höhe in der flachen Pazifikebene.",
+        "Die Erntezeit ('La Zafra') von November bis April bestimmt den Rhythmus der Wirtschaft.",
+        "Die Industrie rund um die Stadt produziert auch viel Ethanol und erneuerbaren Strom.",
+        "Zahlreiche präkolumbische Steinskulpturen wurden in den Feldern der Region entdeckt.",
+        "Das feuchtheiße Klima ist ideal für das extrem schnelle Wachstum von Zuckerrohr."
+      ]
+    },
+    {
+      "id": "gt-sayaxche-cities-v2",
+      "descriptionAdvanced": "Sayaxché ist eine faszinierende Flussstadt im Südwesten des Dschungel-Departamentos Petén. Die Stadt liegt direkt an den Ufern des mächtigen Río La Pasión. Da es keine Brücke gibt, verläuft die wichtige Hauptstraße (CA-14) direkt ins Wasser, und der gesamte Verkehr muss auf Ponton-Fähren ('Ferry') den Fluss überqueren, was der Stadt einen einzigartigen, geschäftigen Charakter verleiht. In den letzten Jahrzehnten hat sich die Wirtschaft drastisch verändert: Wo früher undurchdringlicher Regenwald stand, erstrecken sich heute riesige Plantagen mit afrikanischen Ölpalmen, was eine große wirtschaftliche Bedeutung, aber auch Umweltkonflikte mit sich brachte. Die Stadt ist auch der Ausgangspunkt für Bootsfahrten zu abgelegenen, aber äußerst wichtigen Maya-Ruinen wie Ceibal, Aguateca und Dos Pilas. Geografie K8 — Flüsse im Regenwald.",
+      "factsAdvanced": [
+        "Sayaxché liegt an den Ufern des Río La Pasión im Petén-Regenwald.",
+        "Der gesamte Fahrzeugverkehr wird mit speziellen Ponton-Fähren über den Fluss transportiert.",
+        "Riesige Palmölplantagen prägen die Landwirtschaft der umliegenden Region.",
+        "Die Stadt ist das Tor zu den klassischen Maya-Ruinen von Ceibal und Aguateca.",
+        "Ökologische Konflikte um die Palmölindustrie sind ein zentrales lokales Thema.",
+        "Die Stadt verzeichnet durch den Ausbau der Landwirtschaft ein extremes Bevölkerungswachstum."
+      ]
+    },
+    {
+      "id": "gt-patulul-cities-v2",
+      "descriptionAdvanced": "Patulul ist eine lebendige Handels- und Agrarstadt im Departamento Suchitepéquez, die eine perfekte Brücke zwischen dem kühlen Hochland (Atitlán) und der extrem heißen Pazifikküste bildet. In und um Patulul wächst eine erstaunliche Vielfalt an landwirtschaftlichen Produkten: Neben dem klassischen Zuckerrohr in den flachen Bereichen werden auf den vulkanischen Ausläufern exzellenter Kaffee, Kautschuk und vor allem Macadamia-Nüsse angebaut. Die Region ist einer der größten Macadamia-Produzenten des Landes. Die Stadt durchquert die CA-2 (Ruta al Pacífico), was sie zu einem obligatorischen Zwischenstopp und Handelszentrum für Lastwagen und Busse macht. Im Stadtkern drängen sich bunte Marktstände, die tropische Früchte aus der Küste und Gemüse aus dem nahen Hochland anbieten. Sachkunde K6 — Tropische Landwirtschaft.",
+      "factsAdvanced": [
+        "Patulul liegt am Fuße der Vulkane auf etwa 330 Metern Höhe.",
+        "Die Stadt ist landesweit bekannt für ihre ausgedehnten Macadamia-Nuss-Plantagen.",
+        "Die Autobahn CA-2 durchschneidet die Stadt und bringt massiven Lkw-Verkehr.",
+        "Kautschukbäume (Hule) werden in den feuchten, warmen Tälern im großen Stil kultiviert.",
+        "Der Name Patulul bedeutet in der Nahuatl-Sprache 'Ort der Zapote-Bäume'.",
+        "Die Lage am Übergang zweier Klimazonen ermöglicht eine enorme landwirtschaftliche Vielfalt."
+      ]
+    },
+    {
+      "id": "gt-san-andres-xecul-cities-v2",
+      "descriptionAdvanced": "San Andrés Xecul im Departamento Totonicapán ist ein eher unscheinbares Bauerndorf im Hochland, das jedoch durch ein einzigartiges architektonisches Juwel weltweite Berühmtheit erlangte: Seine strahlend gelbe koloniale Kirche. Die barocke Fassade der Kirche ist mit über zweihundert grell bemalten Stuckfiguren verziert, die eine faszinierende Mischung aus christlichen Engeln, Maya-Jaguaren, Blumen und Ranken darstellen – ein perfektes Beispiel für religiösen und künstlerischen Synkretismus. Das Dorf selbst ist tief in der indigenen K'iche'-Tradition verwurzelt. Neben der beeindruckenden Kirche sind die steilen Hänge um das Dorf bekannt für die Textilherstellung, insbesondere das Färben von Stoffen ('Ikat' oder 'Jaspe'), die an den Hängen in der Sonne getrocknet werden. Kunst K8 — Synkretistische Architektur.",
+      "factsAdvanced": [
+        "Die strahlend gelbe Kirche von San Andrés Xecul ist eines der meistfotografierten Gebäude des Landes.",
+        "Die Fassade der Kirche ist mit Maya-Symbolen wie Jaguaren und Quetzalen verziert.",
+        "Die Gemeinde liegt auf einer Höhe von fast 2.440 Metern im kalten Hochland.",
+        "Die Bevölkerung besteht beinahe ausschließlich aus indigenen Maya-K'iche'.",
+        "San Andrés Xecul ist berühmt für das Färben von Fäden für typische Gewebe (Jaspe).",
+        "Hinter der Hauptkirche befindet sich eine kleine Bergkapelle, die für Maya-Zeremonien genutzt wird."
+      ]
+    },
+    {
+      "id": "gt-el-estor-cities-v2",
+      "descriptionAdvanced": "El Estor ist ein heißer, staubiger Hafenort im Departament Izabal, der sich entlang des nördlichen Ufers des massiven Izabal-Sees erstreckt. Ursprünglich als abgelegenes Fischerdorf und Handelsstation gegründet, wurde das Schicksal der Stadt durch die Entdeckung riesiger Nickelvorkommen in den umliegenden Bergen radikal verändert. Die Fénix-Nickelmine, eine der größten in Zentralamerika, dominiert die lokale Wirtschaft und sorgt immer wieder für nationale Diskussionen über Umweltschutz und Landrechte der einheimischen Q'eqchi'-Bevölkerung. Trotz der industriellen Prägung bietet die Umgebung von El Estor spektakuläre Naturschönheiten, darunter den Boquerón-Canyon und natürliche heiße Wasserfälle. Die Stadt hat einen karibischen, entspannten Charme, der stark von den indigenen Traditionen beeinflusst wird. Geografie K8 — Rohstoffabbau und Umwelt.",
+      "factsAdvanced": [
+        "El Estor liegt am majestätischen Ufer des Izabal-Sees, dem größten See Guatemalas.",
+        "Der Name soll eine Ableitung des englischen Wortes 'The Store' (Das Geschäft) sein.",
+        "Die lokale Wirtschaft wird von einer massiven, umstrittenen Nickel-Mine (Fénix) dominiert.",
+        "Die Mehrheit der Bevölkerung gehört der indigenen Q'eqchi'-Ethnie an.",
+        "Der nahegelegene El Boquerón-Canyon ist ein beliebtes Ziel für Ökotourismus.",
+        "Die Abgeschiedenheit machte den Ort lange Zeit nur über den Seezugang gut erreichbar."
+      ]
+    },
+    {
+      "id": "gt-tiquisate-cities-v2",
+      "descriptionAdvanced": "Tiquisate, im heißen Departamento Escuintla gelegen, ist ein landwirtschaftliches Powerhouse mit einer bewegten Unternehmensgeschichte. In der Mitte des 20. Jahrhunderts wurde die Region zum pazifischen Hauptquartier der United Fruit Company (UFCO). Das amerikanische Unternehmen rodelte den Dschungel, baute eine immense Infrastruktur mit Eisenbahnen, Krankenhäusern und amerikanischen Wohnvierteln auf und verwandelte die Gegend in ein endloses Bananenmeer. Nachdem die UFCO die Region in den 1960er Jahren verließ, übernahmen guatemaltekische Landbesitzer die Flächen. Heute ist Tiquisate ein massiver Produzent von Zuckerrohr, Ölpalmen und noch immer Bananen für unabhängige Exportunternehmen. Das Klima ist erbarmungslos heiß und die Stadt versprüht den typischen rauen Charme einer tropischen Agrarstadt. Geschichte K8 — Multinationale Konzerne (UFCO).",
+      "factsAdvanced": [
+        "Die Stadt war jahrzehntelang das Zentrum der United Fruit Company (UFCO) am Pazifik.",
+        "Tiquisate liegt extrem tief auf nur etwa 65 Metern über dem Meeresspiegel.",
+        "Das tropische Klima ermöglicht den massenhaften Anbau von Bananen und Zuckerrohr.",
+        "Einige alte amerikanische Holzhäuser ('Barrios de la Compañía') existieren bis heute.",
+        "1954 war Tiquisate ein Zentrum politischer Spannungen, die zum Sturz der Regierung führten.",
+        "In der Region wurden zahlreiche wichtige Keramiken der präkolumbischen Zeit gefunden."
+      ]
+    },
+    {
+      "id": "gt-san-cristobal-totonicapan-cities-v2",
+      "descriptionAdvanced": "San Cristóbal Totonicapán liegt an einem wichtigen Verkehrsknotenpunkt ('Cuatro Caminos') im westlichen Hochland. Die kühle, oft neblige Stadt ist in ganz Guatemala für zwei Dinge berühmt: Erstens für ihre historische Franziskaner-Kirche, die zu den ältesten des Landes zählt und einen atemberaubend schönen barocken Holzaltar sowie alte koloniale Gemälde beherbergt. Zweitens ist San Cristóbal das absolute Epizentrum der traditionellen Textilindustrie. Hier werden in tausenden kleinen Familienwerkstätten auf handbetriebenen Webstühlen ('Telares de Pie') bunte Decken, Stoffe für traditionelle Röcke (Cortes) und Hemden gewebt. Diese Textilien werden auf den Märkten im ganzen Land gehandelt. Die stolze K'iche'-Bevölkerung vereint tiefen katholischen Glauben mit alten indigenen Riten. Kunst K7 — Traditionelle Webkunst.",
+      "factsAdvanced": [
+        "San Cristóbal Totonicapán liegt auf einer Höhe von 2.333 Metern.",
+        "Die koloniale Kirche stammt aus dem 16. Jahrhundert und besitzt prachtvolle Holzaltäre.",
+        "Die Stadt liegt nahe dem berühmten Straßenkreuz 'Cuatro Caminos' (Vier Wege).",
+        "Die Herstellung von Textilien ('Cortes' und Decken) auf Fußwebstühlen ist die Haupteinnahmequelle.",
+        "Die Stadt veranstaltet im Juli ein großes Fest zu Ehren des Heiligen Christophorus.",
+        "Der nahe Samalá-Fluss diente historisch zum Antrieb alter Mühlen und zur Wasserversorgung."
+      ]
+    },
+    {
+      "id": "gt-zapotitlan-cities-v2",
+      "descriptionAdvanced": "Zapotitlán ist eine kleine, friedliche Gemeinde im Departamento Jutiapa, nahe der Grenze zu El Salvador. Sie erstreckt sich am Fuße des markanten Volcán Chingo, einem perfekt geformten Schichtvulkan, dessen Gipfel exakt die internationale Grenze bildet. Die Landschaft ist hügelig und zeichnet sich durch ein warmes, semiarides Klima aus. Die Einwohner widmen sich fast ausschließlich der Landwirtschaft und der Viehzucht. Besonders der Anbau von Mais, Bohnen, Sesam und Sorghum (Maicillo) sichert das wirtschaftliche Überleben. Im Gegensatz zu den indigenen Gebieten des Westens ist Zapotitlán kulturell durch die Ladino-Bevölkerung geprägt, was sich in der Reitkultur, der lokalen Gastronomie mit viel Rindfleisch und Milchprodukten und in traditionellen Rodeos ('Jaripeos') widerspiegelt. Geografie K7 — Vulkane und Grenzen.",
+      "factsAdvanced": [
+        "Zapotitlán liegt im hügeligen Grenzgebiet auf etwa 840 Metern Höhe.",
+        "Der Volcán Chingo (1.775 m) überragt die Gemeinde und bildet die Grenze zu El Salvador.",
+        "Der Name Zapotitlán bedeutet 'Ort der Zapote-Bäume'.",
+        "Die lokale Kultur ist fast rein Ladino (Mestizen) mit starker Cowboy-Tradition (Jaripeo).",
+        "Die Landwirtschaft fokussiert sich auf trockentolerante Pflanzen wie Sorghum und Sesam.",
+        "Der Grenzhandel spielt eine kleine, aber wichtige Rolle für die lokale Wirtschaft."
+      ]
+    }
+  ]
+}

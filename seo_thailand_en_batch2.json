@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "trang-cities-v2",
+      "descriptionAdvanced": "Trang is a hidden gem in Southern Thailand, located on the mainland near the Andaman Sea. Historically a significant port for international trade, it was the first place in Thailand where rubber trees were planted, a legacy of the visionary governor Phraya Ratsadanupradit. Today, Trang is most famous for its vibrant culinary scene, often called the 'food capital of the South.' The city is renowned for its unique breakfast culture, where residents and visitors feast on dim sum and the legendary Trang roasted pork (moo yang). Beyond its streets, Trang serves as a gateway to several breathtaking and relatively untouched islands, such as Koh Kradan and Koh Mook, famous for the Emerald Cave. The city's charm lies in its slow pace, well-preserved colonial-style architecture, and its iconic three-wheeled 'frog' tuk-tuks, which are found only in this province.",
+      "factsAdvanced": [
+        "Trang was the first place in Thailand to plant rubber trees, imported from Malaysia in 1899.",
+        "The city is famous for its unique 'Frog' tuk-tuks (Tuk-Tuk Hua Gob) with a distinctive rounded front.",
+        "Trang roasted pork (Moo Yang) is a protected geographical indication product.",
+        "The city's Kantang railway station is one of the oldest and most beautiful wooden stations in Thailand.",
+        "The Tham Morakot (Emerald Cave) on Koh Mook is a world-famous natural tunnel leading to a hidden beach.",
+        "Trang was once a major trading port for tin and spices during the 19th century.",
+        "The city hosts an underwater wedding ceremony every year around Valentine's Day.",
+        "Trang's botanical garden features a canopy walkway through a lowland tropical forest."
+      ]
+    },
+    {
+      "id": "lampang-cities-v2",
+      "descriptionAdvanced": "Lampang, often referred to as 'Mueang Rot Ma' or the Horse Carriage City, is a peaceful provincial capital in Northern Thailand that feels like a journey back in time. It is the only city in the country where horse-drawn carriages are still used as a regular form of local transportation, a tradition preserved from the era of King Rama V. Situated in the fertile valley of the Wang River, Lampang was once an important center for the Lanna Kingdom and a major hub for the teak timber industry. The city is famous for its exquisite teakwood temples, such as Wat Phra That Lampang Luang, which is considered one of the most perfectly preserved Lanna-style temples in existence. Lampang is also the ceramic capital of Thailand, renowned for its 'Rooster Brand' bowls. The city offers a relaxed, authentic atmosphere, far from the mass tourism of its neighbor Chiang Mai.",
+      "factsAdvanced": [
+        "Lampang is the only city in Thailand that still uses horse-drawn carriages for transport.",
+        "Wat Phra That Lampang Luang features a rare camera obscura effect showing an inverted image of the stupa.",
+        "The city is the center of Thailand's ceramic industry, famous for the 'Chicken Bowl' (Cham Ka).",
+        "Lampang was a major hub for the British teak companies during the late 19th century.",
+        "The city is home to the Thai Elephant Conservation Center, the first of its kind in the country.",
+        "The Ratsadapisek Bridge is a historic white bridge that survived World War II bombings.",
+        "Lampang's Kad Kong Ta walking street features beautiful century-old merchant houses.",
+        "The province is home to the Mae Moh Mine, the largest lignite mine in Southeast Asia."
+      ]
+    },
+    {
+      "id": "samut-prakan-cities-v2",
+      "descriptionAdvanced": "Samut Prakan, located at the mouth of the Chao Phraya River where it meets the Gulf of Thailand, is a vital industrial and historical gateway to Bangkok. Historically known as 'Pak Nam' (River Mouth), it served as a primary naval defense for the capital, evidenced by the numerous forts and the iconic Phra Samut Chedi temple located on the riverbank. Today, Samut Prakan is a major manufacturing hub and home to the Suvarnabhumi International Airport. Despite its industrial nature, the city boasts significant cultural attractions. The Ancient City (Muang Boran) is the world's largest outdoor museum, featuring scaled-down replicas of Thailand's most famous monuments. Another highlight is the Erawan Museum, housed inside a colossal three-headed bronze elephant. The city's Bang Pu Recreation Center is a popular spot for watching thousands of migrating seagulls during the winter months.",
+      "factsAdvanced": [
+        "Samut Prakan is home to Suvarnabhumi Airport, one of the busiest in Southeast Asia.",
+        "The Ancient City (Muang Boran) is a 320-acre park shaped like the map of Thailand.",
+        "The Erawan Museum's three-headed elephant statue weighs 250 tons and is 43 meters high.",
+        "Phra Samut Chedi is a sacred riverside pagoda that used to sit on an island.",
+        "The city hosts the Bang Nam Phueng Floating Market in a 'green lung' area of the river.",
+        "Samut Prakan has a significant Mon community, especially in the Phra Pradaeng district.",
+        "The Navy Museum in the city showcases Thailand's naval history and historic vessels.",
+        "The Samut Prakan Crocodile Farm and Zoo is one of the largest in the world."
+      ]
+    },
+    {
+      "id": "sakon-nakhon-cities-v2",
+      "descriptionAdvanced": "Sakon Nakhon is a culturally rich city in the upper Northeast of Thailand, situated on the shores of Nong Han, the country's largest freshwater lake. It is a major center for the 'Forest Tradition' of Theravada Buddhism, having been the home of several highly revered monks, including Ajahn Mun Bhuridatta. The city's spiritual landmark is Wat Phra That Choeng Chum, an ancient stupa built over a site believed to contain footprints of four Buddhas. Sakon Nakhon is famous for its unique 'Wax Castle' festival, where intricately carved wax models of temples are paraded through the city. The region is also renowned for its traditional indigo-dyed fabrics (Kram), which are hand-woven by local communities. The city serves as a gateway to the Phu Phan Mountains, which offer lush forests and historical significance as a former stronghold for the Free Thai Movement during World War II.",
+      "factsAdvanced": [
+        "Nong Han Lake in Sakon Nakhon is the largest natural freshwater lake in Thailand.",
+        "The city is the heart of Thailand's hand-woven indigo-dyed (Kram) fabric industry.",
+        "Wat Phra That Choeng Chum features an unusual 24-meter-high rectangular stupa.",
+        "The Wax Castle Festival marks the end of Buddhist Lent with stunning wax sculptures.",
+        "The city has a strong Catholic presence, particularly in the village of Tha Rae.",
+        "Tha Rae is famous for its French-influenced colonial architecture and Christmas Star Parade.",
+        "The Phu Phan National Park nearby contains the 'Phu Phan Palace,' a royal residence.",
+        "The city is a major center for the study of Forest Monk meditation traditions."
+      ]
+    },
+    {
+      "id": "lopburi-cities-v2",
+      "descriptionAdvanced": "Lopburi is one of Thailand's oldest continuously inhabited cities, offering a fascinating blend of ancient history and modern urban life. Located in the central plains, it rose to prominence during the Dvaravati period and later became a secondary capital for the Ayutthaya Kingdom under King Narai the Great. The city is famous for its Khmer-influenced ruins, such as the three-spired Prang Sam Yod, which reflects the architectural style of Angkor. However, Lopburi is most widely known for its massive population of crab-eating macaque monkeys that roam freely through the historic district. These monkeys are considered a local blessing and are the stars of the annual Monkey Buffet Festival, where tons of food are laid out for them. The city's 'King Narai's Palace' is now a museum, showcasing a unique mix of Thai and European architectural styles from the 17th century, when Lopburi was a hub for international diplomacy.",
+      "factsAdvanced": [
+        "Lopburi is famously known as the 'Monkey City' due to the thousands of macaques living there.",
+        "The Prang Sam Yod temple is a 13th-century Khmer monument and a major landmark.",
+        "King Narai the Great made Lopburi the second capital of Siam in 1666.",
+        "The city hosts the Monkey Buffet Festival every November to thank the monkeys for tourism.",
+        "Wat Phra Sri Rattana Mahathat is one of the largest and oldest temple ruins in the city.",
+        "Lopburi's architecture shows early European influence from French diplomats in the 1600s.",
+        "The province is home to some of Thailand's largest sunflower fields, blooming in winter.",
+        "The monkeys are believed by locals to be descendants of the Hindu monkey god Hanuman."
+      ]
+    },
+    {
+      "id": "nong-khai-cities-v2",
+      "descriptionAdvanced": "Nong Khai is a serene and atmospheric city stretched along the southern bank of the mighty Mekong River. It serves as a primary gateway between Thailand and Laos, connected to the Laotian capital, Vientiane, by the First Thai-Lao Friendship Bridge. The city is famous for its riverside promenade, where locals and visitors enjoy stunning views of the river at sunset. Nong Khai's most unusual attraction is Sala Keoku, a surreal sculpture park featuring massive, fantastical statues depicting Buddhist and Hindu mythologies, created by a mystic in the 1970s. The city is also a focal point for the 'Naga Fireballs' phenomenon, where mysterious glowing orbs are said to rise from the river during the end of Buddhist Lent. Nong Khai offers a peaceful, multicultural environment with a mix of Thai, Lao, and Vietnamese influences, making it a popular destination for those seeking a slower pace of life.",
+      "factsAdvanced": [
+        "Nong Khai is connected to Laos via the First Thai-Lao Friendship Bridge, opened in 1994.",
+        "Sala Keoku sculpture park contains concrete statues over 25 meters tall.",
+        "The city is a major site for viewing the Naga Fireballs (Bang Fai Phaya Nak) in October.",
+        "Nong Khai was once ranked as one of the best places in the world to retire.",
+        "Tha Sadet Market is a famous indoor-outdoor market selling goods from across the border.",
+        "Wat Pho Chai is the city's main temple, housing the sacred Luang Pho Phra Sai image.",
+        "The city has a significant Vietnamese community that settled there during the 1950s.",
+        "The Mekong River at Nong Khai is at its widest point during the rainy season."
+      ]
+    },
+    {
+      "id": "hua-hin-cities-v2",
+      "descriptionAdvanced": "Hua Hin is Thailand's oldest and most prestigious beach resort, located on the western coast of the Gulf of Thailand. Once a quiet fishing village, it gained royal favor in the 1920s when King Rama VII built a summer palace there, transforming it into a getaway for the Thai elite. Today, Hua Hin maintains a refined and family-friendly atmosphere, distinct from the more boisterous beach towns in the south. The city is famous for its long, white-sand beach, world-class golf courses, and its iconic red-and-white railway station, which is considered the most beautiful in the country. Hua Hin is also a culinary destination, renowned for its fresh seafood and vibrant night markets like Cicada Market. Despite its growth, the city retains its royal charm, centered around the Klai Kangwon Palace ('Far from Worries'), which remains a residence for the Thai royal family.",
+      "factsAdvanced": [
+        "Hua Hin became Thailand's first seaside resort following the arrival of the railway in the 1920s.",
+        "The Hua Hin Railway Station features a unique Royal Waiting Room in traditional Thai style.",
+        "Klai Kangwon Palace was built in 1929 by King Rama VII as a summer residence.",
+        "The city is a premier golfing destination, hosting several international-standard courses.",
+        "Cicada Market is a popular weekend open-air market focusing on arts, crafts, and food.",
+        "Hua Hin is famous for its 'Khao Takiab' (Chopstick Hill), which offers great coastal views.",
+        "The city hosts the annual Hua Hin Jazz Festival on the beach.",
+        "It is located just three hours south of Bangkok, making it a favorite weekend escape."
+      ]
+    },
+    {
+      "id": "krabi-cities-v2",
+      "descriptionAdvanced": "Krabi is a stunning coastal town that serves as the administrative capital and main gateway to one of Thailand's most beautiful provinces. Situated at the mouth of the Krabi River on the Andaman Sea, the town is characterized by its dramatic limestone karsts that rise vertically from the surrounding plains and sea. While often treated as a stopover for the world-famous Phi Phi Islands and Railay Beach, Krabi Town itself has a charming, local feel with a lively riverfront and authentic markets. Notable attractions include Wat Tham Suea (Tiger Cave Temple), where visitors can climb 1,237 steps for a panoramic view of the province. The town is also famous for its prehistoric theme, seen in the 'Khao Khanab Nam' mountains that frame the river mouth and the unique caveman-themed traffic lights in the town center, celebrating the ancient human remains found in the area.",
+      "factsAdvanced": [
+        "Krabi province is home to over 150 islands, including the iconic Koh Phi Phi.",
+        "Wat Tham Suea (Tiger Cave Temple) is named after tiger paw prints found in the cave.",
+        "The town's landmark is Khao Khanab Nam, two 100-meter-high limestone hills in the river.",
+        "Prehistoric human remains and tools dating back 25,000 years were discovered in Krabi.",
+        "The Krabi Town night market is a major hub for authentic southern Thai street food.",
+        "Krabi is a world-renowned destination for rock climbing, especially at Railay and Tonsai.",
+        "The town features traffic lights held by sculptures of prehistoric men and elephants.",
+        "The nearby Emerald Pool (Sa Morakot) is a famous natural hot spring in the jungle."
+      ]
+    },
+    {
+      "id": "tak-cities-v2",
+      "descriptionAdvanced": "Tak is a historic and mountainous province in Western Thailand that borders Myanmar. The city of Tak, situated on the banks of the Ping River, has historically served as a vital strategic outpost and trading post between the central Thai kingdoms and the Burmese empires. It is famously associated with King Taksin the Great, who was the governor of Tak before liberating the country and becoming king after the fall of Ayutthaya. Today, the city is a quiet administrative center known for its traditional wooden architecture and the beautiful 'Loi Krathong Sai' festival, where thousands of coconut shells containing candles are floated down the Ping River in a single line. Tak is the gateway to some of Thailand's most rugged and untouched wilderness, including the massive Bhumibol Dam and the remote, mist-shrouded peaks of Umphang, home to the spectacular Thi Lo Su Waterfall.",
+      "factsAdvanced": [
+        "King Taksin the Great was the governor of Tak before he founded the Thonburi Kingdom.",
+        "Tak hosts the unique 'Loi Krathong Sai' festival using coconut shells instead of banana leaves.",
+        "The Bhumibol Dam in Tak is the largest dam in Thailand and the first multi-purpose dam.",
+        "Tak is a major trade gateway to Myanmar through the border town of Mae Sot.",
+        "The province is home to Thi Lo Su, the highest and most beautiful waterfall in Thailand.",
+        "Tak's Lan Sang National Park features a historic trail used by ancient Siamese armies.",
+        "The city contains many well-preserved wooden houses from the early 20th century.",
+        "The Western Forest Complex in Tak is one of the largest protected areas in Southeast Asia."
+      ]
+    },
+    {
+      "id": "ratchaburi-cities-v2",
+      "descriptionAdvanced": "Ratchaburi is a culturally diverse province located just 80 kilometers west of Bangkok, offering a rich tapestry of history, agriculture, and art. The city of Ratchaburi is situated on the banks of the Mae Klong River and has been a significant settlement since the Dvaravati period over a thousand years ago. Ratchaburi is most famous for its 'Damnoen Saduak' Floating Market, an iconic symbol of traditional Thai life on the water. The city is also the heart of Thailand's ceramic production, renowned for its 'Dragon Jars' (Ong Mongkorn)—massive terracotta water jars decorated with hand-painted dragons. In recent years, Ratchaburi has reinvented itself as a center for contemporary art and eco-tourism, with trendy galleries, scenic vineyards in the Suan Phueng highlands, and the surreal 'Khao Bin' limestone cave. The province's name, meaning 'The Land of the King,' reflects its long-standing importance to the Thai monarchy.",
+      "factsAdvanced": [
+        "Ratchaburi is the source of the famous 'Dragon Jars,' a staple of Thai households for decades.",
+        "The Damnoen Saduak Floating Market is the oldest and most famous of its kind in Thailand.",
+        "The city was a major center for the ancient Dvaravati civilization in the 6th-11th centuries.",
+        "Suan Phueng in Ratchaburi is known as the 'Switzerland of Thailand' for its rolling hills.",
+        "Wat Khanon in the province is one of the last places practicing 'Nang Yai' shadow puppetry.",
+        "Khao Bin Cave features stunning stalactite formations and is over 300 meters deep.",
+        "The Ratchaburi National Museum is housed in a beautiful pink colonial-style building.",
+        "The province is a major producer of grapes, pineapples, and high-quality milk."
+      ]
+    },
+    {
+      "id": "laem-chabang-port-economic-v2",
+      "descriptionAdvanced": "Laem Chabang Port is the primary engine of Thailand's international trade and one of the most significant maritime hubs in Southeast Asia. Located in Chonburi province, this deep-sea port was specifically designed to handle the world's largest container vessels, facilitating the massive exports of automobiles, electronics, and agricultural products. The port is the heart of the Eastern Economic Corridor (EEC), a strategic initiative aimed at transforming the region into an advanced technological and industrial center. Its modern infrastructure includes automated container terminals, cold storage facilities, and a dedicated passenger terminal for cruise ships, connecting Thailand with over 100 ports globally. Since its opening in 1991, Laem Chabang has largely replaced the river-bound Bangkok Port as the nation's main shipping gateway, consistently ranking among the top 20 busiest container ports in the world.",
+      "factsAdvanced": [
+        "Laem Chabang is the largest and busiest deep-sea port in Thailand.",
+        "It handles approximately 70% of Thailand's total maritime trade volume.",
+        "The port consists of seven container terminals and a major RO-RO terminal for vehicle exports.",
+        "Laem Chabang is ranked within the top 20 busiest container ports globally.",
+        "The port is currently undergoing a massive 'Phase 3' expansion to increase its annual capacity.",
+        "It is a vital global hub for the export of pickup trucks and automotive parts.",
+        "A dedicated rail link connects the port directly to inland cargo terminals in Lat Krabang.",
+        "The port serves as the primary gateway for international cruise lines visiting Bangkok and Pattaya."
+      ]
+    },
+    {
+      "id": "eastern-seaboard-industrial-zone-economic-v2",
+      "descriptionAdvanced": "The Eastern Seaboard Industrial Zone is the cornerstone of Thailand's heavy industry and a global hub for automotive manufacturing, often referred to as the 'Detroit of Asia.' Spanning the provinces of Chonburi and Rayong, this massive industrial cluster was established in the 1980s to capitalize on the natural gas finds in the Gulf of Thailand. It hosts hundreds of factories from multinational giants, including Toyota, Ford, General Motors, and Mitsubishi, creating a sophisticated supply chain for the automotive and electronics sectors. The zone's success is driven by its strategic proximity to Laem Chabang Port and a robust infrastructure network. Beyond manufacturing, the Eastern Seaboard has transformed the local economy, creating millions of jobs and driving Thailand's status as the leading automotive exporter in Southeast Asia. It remains a primary target for foreign direct investment under the current Eastern Economic Corridor (EEC) development plan.",
+      "factsAdvanced": [
+        "The Eastern Seaboard is the leading automotive production hub in Southeast Asia.",
+        "It earned the nickname 'Detroit of the East' due to the high density of car factories.",
+        "The zone was a key part of Thailand's shift from an agrarian to an industrial economy.",
+        "Major global players like Ford, Toyota, and Isuzu have their primary ASEAN plants here.",
+        "The area is the center of Thailand's electronics and petrochemical manufacturing sectors.",
+        "It is supported by a comprehensive network of specialized industrial estates.",
+        "The zone contributes a significant percentage to Thailand's national GDP and exports.",
+        "It is a major employment center, attracting workers from all over the country."
+      ]
+    },
+    {
+      "id": "map-ta-phut-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Map Ta Phut Industrial Estate is Thailand's largest and most technologically advanced industrial park, specializing in petrochemicals, energy, and heavy industries. Located in Rayong province, it is a key component of the Eastern Economic Corridor (EEC). The estate was established to add value to the natural gas extracted from the Gulf of Thailand, housing massive refineries and chemical plants that produce raw materials for plastics, fertilizers, and textiles. Map Ta Phut features its own deep-sea port, dedicated to the handling of liquid and bulk chemicals. While a massive driver of economic growth and national energy security, the estate has also been a focal point for environmental discussions, leading to the implementation of some of the country's strictest pollution monitoring and community health programs. It remains a vital pillar of the Thai economy, supporting thousands of downstream industries.",
+      "factsAdvanced": [
+        "Map Ta Phut is the largest petrochemical hub in Southeast Asia and the 8th largest in the world.",
+        "The estate was founded in 1989 as part of the Eastern Seaboard Development Program.",
+        "It hosts over 150 industrial plants, including massive oil refineries and gas separation plants.",
+        "The Map Ta Phut Port is Thailand's largest industrial port for liquid cargo and bulk materials.",
+        "The estate is a primary producer of raw materials for the global plastics and chemical industries.",
+        "It plays a crucial role in Thailand's energy security by processing offshore natural gas.",
+        "The area is subject to intensive environmental monitoring under the 'Eco-Industrial Town' initiative.",
+        "Major international companies like PTT, Dow Chemical, and SCG have massive operations here."
+      ]
+    },
+    {
+      "id": "sriracha-tiger-zoo-economic-v2",
+      "descriptionAdvanced": "The Sriracha Tiger Zoo, located in Chonburi province, was historically a unique and controversial agro-industrial enterprise that blended wildlife tourism with large-scale animal husbandry. While primarily known to the public for its spectacular tiger and crocodile shows, the zoo functioned as a massive breeding facility for Bengal tigers and saltwater crocodiles. At its peak, it housed one of the largest populations of tigers in captivity worldwide. The facility also served as an economic hub for the trade of animal-related products and was a major employer in the Sriracha district. The zoo became famous for its 'cross-species' social experiments, such as sows nursing tiger cubs, which were a hallmark of its marketing. However, following the global pandemic and increasing scrutiny over animal welfare and international trade regulations, the zoo closed its doors in 2021, marking the end of an era for Thailand's traditional animal-based tourism industry.",
+      "factsAdvanced": [
+        "At its peak, Sriracha Tiger Zoo housed over 400 Bengal tigers and 10,000 crocodiles.",
+        "The facility was a major producer of crocodile leather and meat for the international market.",
+        "It was famous for the 'Tiger Cub and Piglet' nursery, a major tourist draw.",
+        "The zoo was established in 1997 and operated for nearly 24 years.",
+        "It was one of the largest private tiger breeding facilities in the world.",
+        "The zoo hosted an annual 'Crocodile Egg Breaking Festival' to celebrate new hatchlings.",
+        "It was a major stop for international tour groups visiting Pattaya and Bangkok.",
+        "The zoo's closure in 2021 led to the relocation of its animals to various wildlife sanctuaries."
+      ]
+    },
+    {
+      "id": "mae-moh-lignite-mine-economic-v2",
+      "descriptionAdvanced": "The Mae Moh Lignite Mine, located in Lampang province, is the largest open-pit coal mine in Southeast Asia and a critical pillar of Thailand's energy infrastructure. Operated by the Electricity Generating Authority of Thailand (EGAT), the mine produces millions of tons of lignite (brown coal) annually to fuel the adjacent Mae Moh Power Plant. This integrated complex provides approximately 10-15% of the country's total electricity supply, powering much of Northern and Central Thailand. The mine's scale is immense, spanning over 135 square kilometers and reaching depths of several hundred meters. While essential for national energy security and low-cost power, the mine has historically faced challenges related to air quality and local health, leading to the installation of advanced emission control systems and extensive environmental rehabilitation projects, including the creation of a massive botanical garden on former mining sites.",
+      "factsAdvanced": [
+        "Mae Moh is the largest open-pit coal mine in Southeast Asia, operating since 1954.",
+        "The mine provides nearly all the fuel for the 2,400 MW Mae Moh Power Plant.",
+        "It is operated entirely by the Electricity Generating Authority of Thailand (EGAT).",
+        "The mining pit is several hundred meters deep and covers an area larger than many cities.",
+        "Mae Moh has some of the world's largest earth-moving machinery for coal extraction.",
+        "A large part of the reclaimed land has been turned into a public park and botanical garden.",
+        "The site features a famous viewpoint over the massive mining operations.",
+        "The mine is a major economic driver for the Lampang province, providing thousands of jobs."
+      ]
+    },
+    {
+      "id": "bangkok-port-khlong-toei-economic-v2",
+      "descriptionAdvanced": "Bangkok Port, commonly known as Khlong Toei Port, is the historic gateway for Thailand's international trade, situated on the banks of the Chao Phraya River in the heart of the capital. Established in 1947, it served as the nation's primary shipping hub for decades before the development of the deep-sea port at Laem Chabang. Despite the shift of large container vessels to the coast, Khlong Toei remains a vital logistics center, handling nearly 1.5 million TEUs annually. Its location within the city allows for efficient distribution of consumer goods and raw materials directly to the Bangkok metropolitan market. The port is a complex ecosystem of terminals, warehouses, and customs facilities, managed by the Port Authority of Thailand. It plays a dual role as an economic engine and a major employer, while also being a central part of the urban landscape and ongoing discussions about Bangkok's future waterfront development.",
+      "factsAdvanced": [
+        "Bangkok Port is located in the Khlong Toei district, approximately 28 km from the river mouth.",
+        "It was Thailand's only international container port until the 1990s.",
+        "The port handles mainly consumer products, machinery, and agricultural exports.",
+        "It is operated by the Port Authority of Thailand (PAT), a state-owned enterprise.",
+        "The river's depth limits the size of vessels that can access the port to 12,000 DWT.",
+        "Constant dredging of the Chao Phraya River is required to maintain shipping access.",
+        "The port is a major hub for the local logistics and trucking industries.",
+        "Portions of the port are being planned for conversion into a modern 'Smart Community' and green space."
+      ]
+    },
+    {
+      "id": "chatuchak-weekend-market-economic-v2",
+      "descriptionAdvanced": "The Chatuchak Weekend Market, also known as 'JJ Market,' is the ultimate symbol of Thailand's vibrant retail economy and the largest outdoor market in the world. Spanning over 35 acres and housing more than 15,000 stalls, it is an economic powerhouse that attracts over 200,000 visitors every weekend. The market is organized into 27 sections, offering an overwhelming variety of goods, including fashion, home decor, plants, antiques, books, and even exotic pets. Chatuchak is a vital incubator for Thailand's small and medium-sized enterprises (SMEs), where many local designers and artists launch their careers. It serves as a major export hub, with many international buyers sourcing unique Thai products for global distribution. Beyond its economic impact, Chatuchak is a cultural phenomenon, offering a sensory-rich experience that reflects the entrepreneurial spirit and diverse creative output of the Thai people.",
+      "factsAdvanced": [
+        "Chatuchak is the largest weekend market in the world, with over 15,000 individual stalls.",
+        "The market is divided into 27 sections based on the type of goods sold.",
+        "It attracts roughly 200,000 visitors per day every Saturday and Sunday.",
+        "The market was originally located at Sanam Luang before moving to its current site in 1982.",
+        "Chatuchak is a major source for international home decor and fashion wholesalers.",
+        "The iconic Clock Tower in the center serves as the main orientation point for shoppers.",
+        "An estimated 30% of visitors to Chatuchak are international tourists.",
+        "The market features several on-site shipping agents for international freight delivery."
+      ]
+    },
+    {
+      "id": "bo-sang-umbrella-village-economic-v2",
+      "descriptionAdvanced": "Bo Sang Umbrella Village, located just outside Chiang Mai, is a world-renowned center for traditional Thai handicrafts and a prime example of a successful community-based industry. The village has specialized in the production of hand-painted paper umbrellas for over 200 years, a craft allegedly introduced by a monk who learned the technique in neighboring Burma. The umbrellas are made from 'Saa' paper (derived from the bark of the mulberry tree) and locally sourced bamboo and silk. Bo Sang is a unique economic ecosystem where nearly every household is involved in a specific part of the production process, from frame making to intricate floral painting. Today, the village is a major cultural tourism destination where visitors can witness the entire manufacturing cycle. Its products are exported globally, representing the artistic heritage of the Lanna Kingdom and providing a sustainable livelihood for hundreds of local families.",
+      "factsAdvanced": [
+        "Bo Sang is famous for umbrellas made from 'Saa' (mulberry) paper and silk.",
+        "The village holds the Bo Sang Umbrella & Sankamphaeng Craft Festival every January.",
+        "The craft was brought to the village over 200 years ago by a monk named Phra Intha.",
+        "The paper is naturally waterproofed using a special oil-based lacquer.",
+        "Bo Sang umbrellas are entirely handmade, from the bamboo frame to the final painting.",
+        "The village is a major center for the Lanna-style handicraft industry.",
+        "The 'Saa' paper is made by boiling mulberry bark and spreading the fibers on screens.",
+        "Bo Sang umbrellas are recognized as a 'One Tambon One Product' (OTOP) premium handicraft."
+      ]
+    },
+    {
+      "id": "songkhla-deep-sea-port-economic-v2",
+      "descriptionAdvanced": "Songkhla Deep Sea Port is the most critical maritime gateway for Southern Thailand, facilitating the region's vast exports of rubber, seafood, and agricultural products. Situated at the mouth of the Songkhla Lake, the port was developed in the late 1980s to support the economic growth of the southern provinces and reduce reliance on transport to Bangkok. It serves as a vital link for trade with neighboring Malaysia, Singapore, and East Asian markets. The port features modern container and general cargo terminals and is a primary hub for the export of concentrated latex and smoked rubber sheets, for which the region is world-famous. Beyond trade, the port is an essential logistics base for the offshore oil and gas industry in the Gulf of Thailand. Its presence has transformed Songkhla into a major maritime services center, driving local employment and supporting the industrial development of the Southern Seaboard.",
+      "factsAdvanced": [
+        "Songkhla Deep Sea Port is the primary export hub for Southern Thailand's rubber industry.",
+        "It was opened in 1988 to promote the Southern Seaboard Development Program.",
+        "The port handles a significant portion of Thailand's frozen and canned seafood exports.",
+        "It serves as a major support base for offshore petroleum exploration in the Gulf of Thailand.",
+        "The port is located at the outer mouth of the Songkhla Lake, facing the Gulf of Thailand.",
+        "It handles over 150,000 TEUs of container traffic annually.",
+        "The port is a key transshipment point for goods entering Northern Malaysia.",
+        "Ongoing dredging is necessary to maintain a depth of 9 meters for cargo vessels."
+      ]
+    },
+    {
+      "id": "gulf-of-thailand-gas-fields-economic-v2",
+      "descriptionAdvanced": "The Gulf of Thailand Gas Fields are the literal powerhouse of the Thai economy, providing the natural gas that generates more than half of the country's electricity. Since the first major discovery of natural gas in the 1970s, the offshore basins, particularly the Erawan and Bongkot fields, have transformed Thailand into a regional energy leader. This domestic resource was the primary catalyst for the development of the Eastern Seaboard's heavy industry and petrochemical sectors. Hundreds of offshore platforms are connected by a vast network of subsea pipelines to processing plants on the coast, particularly in Rayong and Songkhla. These fields not only provide fuel for power plants but also raw materials for a wide range of industries, from plastics to fertilizers. As these mature fields face natural decline, they continue to be a focus of strategic investment and a driver for the development of Thailand's advanced offshore engineering and service industries.",
+      "factsAdvanced": [
+        "Natural gas from the Gulf of Thailand fuels over 50% of the country's electricity generation.",
+        "The Erawan field was the first to start production, beginning in 1981.",
+        "Thailand has some of the world's most complex offshore gas reservoirs due to geological faulting.",
+        "The Bongkot field is the largest single gas field in the Gulf of Thailand.",
+        "Offshore gas is transported to the mainland via subsea pipelines hundreds of kilometers long.",
+        "The industry is a major source of high-tech employment and tax revenue for Thailand.",
+        "The PTT Exploration and Production (PTTEP) is the leading domestic operator in the Gulf.",
+        "Gas from the Gulf is also used as fuel for NGV (Natural Gas Vehicle) transport across Thailand."
+      ]
+    }
+  ]
+}

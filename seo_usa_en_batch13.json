@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mesa-verde-national-park-history-v2",
+      "descriptionAdvanced": "Mesa Verde National Park in southwestern Colorado preserves the exceptional archaeological heritage of the Ancestral Puebloan people, who inhabited the region for over 700 years beginning around 600 CE. The park is world-famous for its well-preserved cliff dwellings, such as Cliff Palace and Spruce Tree House, which are built directly into the sheltered canyon walls. These elaborate masonry structures represent one of the most sophisticated examples of pre-Columbian architecture in North America. By the late 13th century, for reasons still debated by archaeologists—likely involving drought and resource exhaustion—the Ancestral Puebloans migrated away from these mesa tops, leaving behind an invaluable blueprint of their highly organized society. History K6 — Ancestral Puebloan society and cliff dwelling architecture.",
+      "factsAdvanced": [
+        "Preserves over 700 years of Ancestral Puebloan history.",
+        "World-famous for its elaborate and well-preserved cliff dwellings.",
+        "Cliff Palace is the largest cliff dwelling in North America.",
+        "The Ancestral Puebloans inhabited the region from 600 CE to 1300 CE.",
+        "Built sophisticated masonry structures into sheltered cliff walls.",
+        "Declared a UNESCO World Heritage site for its archaeological significance."
+      ]
+    },
+    {
+      "id": "cahokia-mounds-history-v2",
+      "descriptionAdvanced": "Cahokia Mounds, located near present-day Collinsville, Illinois, is the site of the largest pre-Columbian settlement north of Mexico. At its peak between 1050 and 1200 CE, Cahokia was a sprawling, highly organized metropolis that likely housed up to 20,000 residents, rivaling contemporary European cities in population. The site is best known for its massive man-made earthen mounds, including Monks Mound, the largest prehistoric earthwork in the Americas. These structures supported religious, political, and social functions for the Mississippian culture. The sophistication of their urban planning and their extensive trade networks, which reached across the continent, demonstrate the high level of development attained by these early North American societies. History K7 — Mississippian urban planning and earthwork construction.",
+      "factsAdvanced": [
+        "Largest pre-Columbian city north of Mexico.",
+        "Reached its peak population of 20,000 between 1050 and 1200 CE.",
+        "Monks Mound is the largest prehistoric earthwork in the Americas.",
+        "Central hub of the Mississippian cultural complex.",
+        "Demonstrates sophisticated urban planning and extensive trade networks.",
+        "A UNESCO World Heritage site showcasing early American complexity."
+      ]
+    },
+    {
+      "id": "jamestown-settlement-history-v2",
+      "descriptionAdvanced": "Jamestown, established in 1607, was the first permanent English settlement in North America. Located in Virginia, it was a perilous enterprise that suffered from disease, starvation, and conflict with the Indigenous Powhatan Confederacy during its early years. The arrival of John Rolfe and his introduction of tobacco as a cash crop finally brought economic stability, fundamentally changing the colonial landscape and labor market through the early introduction of indentured servitude and the subsequent enslavement of Africans. Jamestown served as the capital of the Virginia Colony for nearly a century and remains a foundational site for understanding the birth of English colonial governance and the complex, often traumatic, social dynamics of early America. History K8 — English colonization and the tobacco cash economy.",
+      "factsAdvanced": [
+        "First permanent English settlement in North America, founded in 1607.",
+        "Suffered through the extreme hardships of the 'Starving Time'.",
+        "Tobacco became the colony's first major economic success.",
+        "Served as the Virginia Colony’s capital for nearly a century.",
+        "Site where the first African slaves were brought to English North America in 1619.",
+        "Fundamental site for studying English colonial governance and social expansion."
+      ]
+    }
+  ]
+}

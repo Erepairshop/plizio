@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-talparo-cities-v2",
+      "descriptionAdvanced": "Talparo egy csendes, mezőgazdasági jellegű település Trinidad központi részén, messze a városok zajától. A falu híres a nyugalmáról és a sűrű erdőkről, amelyek körülveszik. Talparo neve feltehetően a gyarmati korszak spanyol hatásait tükrözi. A közösség élete ma is a földművelés és az állattartás körül forog, ahol a hagyományos vidéki értékek még mindig erősek. A település ideális kiindulópont az Arima-völgy déli részeinek felfedezéséhez, ahol az érintetlen természet és a madárvilág vonzza az ökoturistákat. Sachkunde K3 — vidéki élet és mezőgazdaság.",
+      "factsAdvanced": [
+        "Trinidad központi, erdős területén fekszik.",
+        "Hagyományos mezőgazdasági közösség jellemzi.",
+        "Nevének spanyol gyökerei vannak.",
+        "Gazdag madárvilága miatt népszerű a természetjárók körében.",
+        "Csendes, elszigetelt fekvése megőrizte a falusi hangulatot.",
+        "A közelben fontos erdőrezervátumok találhatók.",
+        "Élénk helyi közösségi élet és vallási ünnepek jellemzik.",
+        "Ideális helyszín a városi stressz elöli menekülésre."
+      ]
+    },
+    {
+      "id": "tt-chase-village-cities-v2",
+      "descriptionAdvanced": "Chase Village egy forgalmas és gyorsan fejlődő település Közép-Trinidadban, a Sir Solomon Hochoy autópálya mentén. A város stratégiai elhelyezkedése miatt fontos kereskedelmi és lakóövezetté vált az utóbbi években. Nevét egy korábbi birtokosról kapta, de ma már a modern bevásárlóközpontok és a sűrűn lakott lakóparkok határozzák meg az arculatát. Chase Village híres a vibráló éjszakai életéről és a számos étterméről, ahol a helyi és nemzetközi konyha ízei találkoznak. A település fontos megállóhely az ingázók számára Port of Spain és San Fernando között. Sachkunde K4 — modern városi fejlődés.",
+      "factsAdvanced": [
+        "Közép-Trinidad egyik leggyorsabban növő települése.",
+        "Közvetlenül az észak-déli autópálya mentén fekszik.",
+        "Fontos kereskedelmi hub számos üzlettel és raktárral.",
+        "Híres az élénk gasztronómiai kínálatáról.",
+        "Sokszínű lakosság, jelentős indo-trinidadi közösséggel.",
+        "Központi elhelyezkedése miatt népszerű az ingázók körében.",
+        "Számos új lakópark épült a területén az elmúlt évtizedben.",
+        "A településen keresztül vezet az út a Carapichaima vallási helyszínei felé."
+      ]
+    },
+    {
+      "id": "tt-moruga-cities-v2",
+      "descriptionAdvanced": "Moruga Trinidad legdélebbi részén található, és történelmileg az egyik legjelentősebb település a szigeten. A legenda szerint itt ért partot Kolumbusz Kristóf harmadik útja során 1498-ban. Moruga híres a misztikus hangulatáról, a mélyvörös földjéről és a világhírű 'Moruga Scorpion' chili paprikáról, amely egy időben a világ legerősebb paprikája volt. A falu gazdasága a halászatra és a mezőgazdaságra (kakaó) épül, miközben büszkén őrzi afro-trinidadi és őslakos örökségét. A tengerparti kilátás Venezuela felé emlékeztet a két terület közelségére. Történelem K7 — felfedezések és helyi legendák.",
+      "factsAdvanced": [
+        "A hagyomány szerint Kolumbusz Kristóf itt szállt partra 1498-ban.",
+        "Itt őshonos a 'Moruga Scorpion' chili, a világ egyik legerősebbje.",
+        "Trinidad legdélebbi partvidékén fekszik.",
+        "Híres a különleges, vasban gazdag vörös földjéről.",
+        "Itt található a Moruga Múzeum, amely a helyi történelmet mutatja be.",
+        "Fontos központja a tradicionális vallási és kulturális rítusoknak.",
+        "A halászat ma is a legfontosabb megélhetési forrás.",
+        "Tiszta időben láthatók Venezuela partjai az öbölből."
+      ]
+    },
+    {
+      "id": "tt-toco-cities-v2",
+      "descriptionAdvanced": "Toco a sziget északkeleti csücskében fekszik, ahol a Karib-tenger és az Atlanti-óceán hullámai találkoznak. Ez a festői halászfalu híres a vadságáról, a sziklás partjairól és a Galera Point világítótoronyról, amely a sziget egyik legkeletibb pontja. Toco távolsága a fővárostól segített megőrizni érintetlen jellegét és nyugodt életritmusát. A település kedvelt célpontja a szörfösöknek és a természet szerelmeseinek. Toco fontos kikötő is, ahonnan régebben rendszeres kompjáratok indultak Tobago felé, bár ma már inkább a halászat dominál. Földrajz K5 — partvonalak és tengeri találkozások.",
+      "factsAdvanced": [
+        "Trinidad északkeleti legszélső pontján található.",
+        "Itt áll a történelmi Galera Point világítótorony (épült 1897-ben).",
+        "A Karib-tenger és az Atlanti-óceán találkozási pontja.",
+        "Híres a nagy hullámokról és a szörfözésre alkalmas strandokról.",
+        "A környékbeli vizek bálnák és teknősök vonulási útvonalai.",
+        "Eredetileg spanyol missziós állomásként alapították.",
+        "Fontos halászati központ az északkeleti parton.",
+        "Csendes, elszigetelt település, gazdag néphagyományokkal."
+      ]
+    },
+    {
+      "id": "tt-matelot-cities-v2",
+      "descriptionAdvanced": "Matelot Trinidad egyik legtávolabbi és legelzártabb települése az északi parton, az Északi-hegység lábánál. A név francia eredetű, jelentése 'matróz', ami a falu tengerészeire utal. Matelot csak egy hosszú, kanyargós hegyi úton érhető el, ami miatt a közösség rendkívül összetartó és megőrizte hagyományos életmódját. A falu híres a kristálytiszta folyóiról, a vízeséseiről és a gazdag tengeri élővilágáról. Itt a halászat és a kakaótermesztés a fő megélhetés. Matelot az ökoturizmus rejtett gyöngyszeme, ahol a természet az úr. Földrajz K6 — távoli települések és életmód.",
+      "factsAdvanced": [
+        "Trinidad egyik legészakibb és legelzártabb faluja.",
+        "A neve francia szóból származik, jelentése: 'matróz'.",
+        "Csak a 20. század második felében épült ki ide rendes autóút.",
+        "Híres a Matelot-folyóról és a festői vízeséseiről.",
+        "A bőrhátú teknősök egyik fontos fészkelőhelye a közeli partokon.",
+        "A lakosság főként halászatból és mezőgazdaságból él.",
+        "Nincs mobil térerő sok helyen, ami igazi 'digitális detoxot' kínál.",
+        "Gazdag szóbeli hagyományokkal és népmesékkel rendelkezik."
+      ]
+    },
+    {
+      "id": "tt-la-brea-cities-v2",
+      "descriptionAdvanced": "La Brea világhírnevét a Pitch Lake-nek (Aszfalt-tó) köszönheti, amely a világ legnagyobb természetes aszfaltlelőhelye. A város neve spanyolul 'szurkot' vagy 'aszfaltot' jelent. A tó nemcsak geológiai csoda, hanem évszázadok óta fontos gazdasági forrás is: az itt kitermelt aszfalttal burkolták le London és Washington D.C. számos utcáját is. Maga a város a sziget délnyugati partján fekszik, és az aszfaltipar mellett ma már jelentős kikötővel és ipari parkkal is rendelkezik. La Brea története szorosan összefonódik a természet és az ipar különleges találkozásával. Földrajz K8 — természeti erőforrások és bányászat.",
+      "factsAdvanced": [
+        "Itt található a Pitch Lake, a világ legnagyobb természetes aszfalt-tava.",
+        "A név spanyol eredetű, jelentése: 'a szurok'.",
+        "Az aszfaltot már Sir Walter Raleigh is használta hajójavításra 1595-ben.",
+        "A kitermelt aszfaltot világszerte használják útépítésre.",
+        "A város környékén fontos kőolaj-lelőhelyek is vannak.",
+        "Modern ipari parkja (La Brea Industrial Estate) a régió motorja.",
+        "A Pitch Lake népszerű turisztikai látványosság és gyógyhely.",
+        "A település alapjai folyamatosan mozognak az aszfalt hatására."
+      ]
+    },
+    {
+      "id": "tt-cedros-cities-v2",
+      "descriptionAdvanced": "Cedros egy hangulatos tengerparti település Trinidad legnyugatibb csücskében, a Cedros-félszigeten. A falu nevét az itt egykor bőségesen növő cédrusfákról kapta. Cedros híres a kókuszültetvényeiről, a halászatáról és a Venezulához való rendkívüli közelségéről; tiszta időben a szárazföld alig pár kilométerre tűnik. A település megőrizte régi világot idéző báját, ahol a kókuszolaj-készítés és a halászhálók javítása még mindig a mindennapok része. Cedros fontos határátkelőhely is a tengeri utasok számára. Földrajz K5 — félszigetek és határmenti élet.",
+      "factsAdvanced": [
+        "Trinidad legnyugatibb települése, közel Venezuela partjaihoz.",
+        "Nevét az itt egykor honos hatalmas cédrusfákról kapta.",
+        "A sziget kókuszdió-termelésének központja.",
+        "Fontos tengeri határátkelőhely és vámvizsgáló állomás.",
+        "Híres a friss tengeri ételeiről és a barátságos közösségről.",
+        "A 'Hosay' ünnepségek egyik fontos helyszíne a régióban.",
+        "A tájképet végtelen kókuszligetek dominálják.",
+        "A halászat és a kókuszfeldolgozás a fő bevételi forrás."
+      ]
+    },
+    {
+      "id": "tt-mayaro-cities-v2",
+      "descriptionAdvanced": "Mayaro Trinidad leghosszabb és legnépszerűbb homokos tengerpartjáról ismert, amely kilométereken át nyúlik el a sziget keleti partján. A város és a környéke a trinidadiak kedvenc üdülőhelye, ahol számos nyaraló (beach house) található a kókuszligetek árnyékában. Mayaro gazdasága azonban nemcsak a turizmusra épül; a tengerpart közelében jelentős olaj- és gázkitermelés folyik az óceáni platformokon. A település neve az őslakos amerikai nyelvből származik, emlékeztetve a sziget eredeti lakóira. Mayaro egyedülálló módon ötvözi a pihentető tengerparti hangulatot és a modern energiaipart. Földrajz K7 — tengerparti turizmus és bányászat.",
+      "factsAdvanced": [
+        "Itt található Trinidad leghosszabb összefüggő homokos strandja.",
+        "A sziget keleti partjának legfontosabb városa.",
+        "Hatalmas kókuszültetvények (cocal) veszik körül.",
+        "Az ország egyik legfontosabb tengeri olaj- és gázkitermelő központja.",
+        "Népszerű hétvégi kirándulóhely a helyi családok körében.",
+        "A név őslakos arauaca eredetű.",
+        "Híres a friss görögdinnyéjéről és a tengerparti halászatról.",
+        "Sajátos, nyugodt 'Mayaro-életstílus' jellemzi a helyieket."
+      ]
+    },
+    {
+      "id": "tt-rio-claro-cities-v2",
+      "descriptionAdvanced": "Rio Claro Trinidad délkeleti részének fontos kereskedelmi és mezőgazdasági városa, a Sangre Grande és Princes Town közötti út mentén. A spanyol név 'tiszta folyót' jelent, ami a városon keresztülfolyó patakra utal. Rio Claro a sziget egyik fő kakaó- és kávétermelő vidékének központja, ahol a gazdák generációk óta művelik a domboldalakat. A város lüktető piaca és üzleti élete a környező vidéki közösségek számára is elengedhetetlen. A település híres a barátságos lakóiról és a hagyományos vidéki kultúra ápolásáról. Sachkunde K5 — mezőgazdasági központok.",
+      "factsAdvanced": [
+        "Nevének jelentése spanyolul: 'Tiszta Folyó'.",
+        "A Mayaro-Rio Claro Regionális Testület székhelye.",
+        "Trinidad egyik fő kakaó- és kávétermelő régiója.",
+        "Fontos vasúti végállomás volt 1914 és 1965 között.",
+        "A város piaca híres a friss vidéki terményeiről.",
+        "Sokszínű lakosság, erős közösségi szellemmel.",
+        "Kapuként szolgál a sziget délkeleti, erdősebb részei felé.",
+        "A város fejlődésében nagy szerepe volt a fakitermelésnek."
+      ]
+    },
+    {
+      "id": "tt-roxborough-cities-v2",
+      "descriptionAdvanced": "Roxborough Tobago második legnagyobb települése, és a sziget keleti részének központja. A város történelmi jelentősége óriási: 1970-ben itt zajlott le a 'Belmanna felkelés', amely a munkásjogokért folytatott küzdelem egyik fontos állomása volt. Roxborough híres a közeli Argyle-vízesésről, amely Tobago legmagasabb és legszebb vízesése. A város tengerparti fekvése és a Main Ridge Forest Reserve közelsége miatt az ökoturizmus egyik bázisa. A helyi közösség büszke kulturális örökségére, és évente megrendezi a látványos Roxborough-i Karnevált. Földrajz K7 — regionális központok és ökoturizmus.",
+      "factsAdvanced": [
+        "Tobago legnagyobb városa a főváros, Scarborough után.",
+        "Itt található az Argyle-vízesés, a sziget legmagasabb vízesése.",
+        "Az 1870-es Belmanna-felkelés történelmi helyszíne.",
+        "Fontos adminisztratív és oktatási központ Kelet-Tobagón.",
+        "A Main Ridge Forest Reserve, a világ legrégebbi védett erdeje mellett fekszik.",
+        "Híres a kakaótermesztés hagyományairól a környéken.",
+        "Saját, nagy sikerű karneváli ünnepséget tartanak minden évben.",
+        "Kikötője fontos szerepet játszott Tobago múltjában."
+      ]
+    },
+    {
+      "id": "tt-speyside-cities-v2",
+      "descriptionAdvanced": "Speyside Tobago északkeleti végén található, és világszerte ismert a búvárok és a természetbarátok körében. Az öböl kristálytiszta vize rejti a világ egyik legnagyobb agykorallját, és hihetetlenül gazdag tengeri élővilággal büszkélkedhet. Speyside-ról indulnak a túrák a közeli Kis-Tobago szigetre, amely egy híres madárrezervátum, és ahol ritka trópusi madárfajok fészkelnek. A falu csendes és barátságos, messze a tömegturizmustól, így tökéletes hely a kikapcsolódásra és a természet megfigyelésére. Sachkunde K5 — korallzátonyok és madárvilág.",
+      "factsAdvanced": [
+        "Tobago búvárkodási és sznorkelezési paradicsoma.",
+        "Itt található a világ egyik legnagyobb élő agykorallja.",
+        "Kiindulópont a Kis-Tobago (Little Tobago) madárrezervátumhoz.",
+        "Híres a vörös tengeri liliomokról és a színes korallkertekről.",
+        "A falu tengerparti éttermei friss helyi tengeri halakat kínálnak.",
+        "Tobago legészakibb jelentősebb települése.",
+        "Az öbölből gyönyörű kilátás nyílik a Goat Island-re.",
+        "Népszerű célpont a természetfotósok és tengerbiológusok számára."
+      ]
+    },
+    {
+      "id": "tt-crown-point-cities-v2",
+      "descriptionAdvanced": "Crown Point Tobago legforgalmasabb turisztikai központja, ahol a sziget nemzetközi repülőtere is található. Ez a terület a sziget délnyugati csücskén fekszik, és itt összpontosul a legtöbb szálloda, étterem és éjszakai szórakozóhely. Crown Point híres a közeli Pigeon Point és Store Bay strandokról, amelyek a Karib-térség legszebbjei közé tartoznak. A város hangulata mindig pezsgő és nemzetközi, hiszen a legtöbb turista itt kezdi meg tobago-i vakációját. A modern infrastruktúra ellenére a terület megőrizte a karibi életérzést és vendégszeretetet. Földrajz K8 — idegenforgalom és infrastruktúra.",
+      "factsAdvanced": [
+        "Itt található az ANR Robinson Nemzetközi Repülőtér (TAB).",
+        "Tobago turisztikai és szórakoztató központja.",
+        "Közvetlen közelében van a híres Pigeon Point Heritage Park.",
+        "A Store Bay tengerpartja gyalogosan is elérhető a városból.",
+        "Számos autóbérlő, szuvenírbolt és utazási iroda központja.",
+        "Itt indulnak a hajótúrák a Nylon Pool és Buccoo Reef felé.",
+        "A sziget legnyugatibb részén, egy sík félszigeten fekszik.",
+        "Az éjszakai élet központja számos bárral és étteremmel."
+      ]
+    },
+    {
+      "id": "tt-barataria-cities-v2",
+      "descriptionAdvanced": "Barataria egy nyüzsgő város a Kelet-Nyugat folyosó elején, Port of Spain közvetlen szomszédságában. Nevét egy korábbi cukornádültetvényről kapta, de ma már sűrűn lakott lakó- és ipari negyed. Barataria központi elhelyezkedése miatt fontos közlekedési csomópont, ahol az északi és déli főútvonalak összefutnak. A város híres a kisvállalkozásairól, az autókereskedéseiről és a változatos bevásárlási lehetőségeiről. Annak ellenére, hogy közel van a fővároshoz, Barataria megőrizte sajátos, élénk közösségi identitását. Sachkunde K4 — elővárosok és közlekedés.",
+      "factsAdvanced": [
+        "Port of Spain egyik legközelebbi és legforgalmasabb elővárosa.",
+        "Nevét egy spanyol alapítású cukornádültetvényről kapta.",
+        "Fontos kereskedelmi és könnyűipari zóna.",
+        "A Kelet-Nyugat folyosó (East-West Corridor) nyugati végpontja.",
+        "Kiváló közlekedési kapcsolatokkal rendelkezik az ország minden részébe.",
+        "Számos jól ismert trinidadi cég központja található itt.",
+        "Lakossága rendkívül sokszínű és dolgos.",
+        "Híres a színes utcai piacairól és üzleteiről."
+      ]
+    },
+    {
+      "id": "tt-st-james-cities-v2",
+      "descriptionAdvanced": "St. James, amelyet gyakran 'A Város, Amely Soha Nem Alszik' néven emlegetnek, Port of Spain egyik legélénkebb kerülete. Ez a terület híres a pezsgő éjszakai életéről, az utcai ételárusokról és a 'Western Main Road' mentén sorakozó bárokról. St. James történelmileg az indiai bevándorlók egyik központja volt, amit a mai napig őriznek az indiai városokról elnevezett utcák (pl. Calcutta St, Madras St). Itt rendezik meg minden évben a látványos Hosay ünnepséget, amely a sziget egyik legfontosabb vallási eseménye. St. James a kultúrák és ízek valódi olvasztótégelye. Sachkunde K3 — városi éjszakai élet és kultúra.",
+      "factsAdvanced": [
+        "Beceneve: 'The City That Never Sleeps' (A város, amely soha nem alszik).",
+        "Híres a Western Main Road mentén zajló éjszakai életről.",
+        "Az utcái indiai városok és régiók neveit viselik.",
+        "Itt rendezik meg a Hosay (Muharram) vallási fesztivált.",
+        "Trinidad gasztronómiai központja, ahol minden napszakban kapható étel.",
+        "Egykor fontos amerikai katonai bázis volt a közelben a II. világháború alatt.",
+        "Erős művészeti és zenei közösséggel rendelkezik.",
+        "A főváros legnyugatibb, legsűrűbben lakott része."
+      ]
+    },
+    {
+      "id": "tt-woodbrook-cities-v2",
+      "descriptionAdvanced": "Woodbrook Port of Spain egykor elegáns lakónegyede volt, amely mára a főváros szórakoztatóipari és karneváli központjává alakult. Az Ariapita Avenue, a negyed főutcája, világhírű az éttermeiről, bárjairól és a karneváli szezon alatti felvonulásokról. Woodbrook sok házát a 20. század elején épült jellegzetes kreol építészeti stílus (gingerbread houses) díszíti, bár sokuk ma már üzletként működik. Ez a negyed a karnevál szíve, itt találhatók a legnagyobb steelpan-együttesek gyakorlóhelyei is. Woodbrookban a történelmi báj és a modern partihangulat különleges keveréket alkot. Történelem K8 — városi építészet és karnevál.",
+      "factsAdvanced": [
+        "Az Ariapita Avenue a sziget gasztronómiai és szórakoztató központja.",
+        "Híres a gyönyörű 'gingerbread' (mézeskalács) stílusú kreol házairól.",
+        "A trinidadi karnevál egyik legfontosabb helyszíne.",
+        "Itt található számos neves steelpan-együttes (pl. Phase II Pan Groove) bázisa.",
+        "Eredetileg egy cukornádültetvény volt, mielőtt lakónegyeddé vált.",
+        "Nevét a területen átfolyó patakról és az erdős környezetről kapta.",
+        "Kedvelt lakóhelye a művészeknek és értelmiségieknek.",
+        "A Queens Park Savannah déli szomszédságában fekszik."
+      ]
+    },
+    {
+      "id": "tt-belmont-cities-v2",
+      "descriptionAdvanced": "Belmont Port of Spain legrégebbi lakónegyede, amely sűrűn beépített, kanyargós utcáiról és gazdag afro-trinidadi örökségéről ismert. A negyed a 19. század közepén alakult ki, amikor felszabadított rabszolgák és afrikai származású emberek telepedtek itt le. Belmont híres a kreatív közösségéről, számos író, művész és zenész (mint pl. David Rudder) származik innen. Az építészeti stílus vegyíti a gyarmati kor díszes elemeit a modern, sűrű városi megoldásokkal. A negyed domboldalai csodás kilátást nyújtanak a városra, és egyfajta 'város a városban' érzést kölcsönöznek a helynek. Történelem K7 — felszabadulás és városi közösségek.",
+      "factsAdvanced": [
+        "Port of Spain legrégebbi külvárosa és lakónegyede.",
+        "Gazdag afro-trinidadi kulturális és szellemi örökséggel bír.",
+        "Híres a kanyargós, dombos és sűrűn lakott utcáiról.",
+        "Számos híres trinidadi művész és politikus szülőhelye.",
+        "Itt található a sziget néhány legrégebbi oktatási intézménye.",
+        "A 19. században 'Freetown' néven is emlegették.",
+        "Jellegzetes építészeti stílusa ma is sok helyen látható.",
+        "Erős közösségi szellem és büszkeség jellemzi a helyieket."
+      ]
+    },
+    {
+      "id": "tt-charlotteville-cities-v2",
+      "descriptionAdvanced": "Charlotteville Tobago északkeleti végén, a festői Man-O-War-öböl partján fekszik, és a sziget egyik legszebb, legérintetlenebb halászfaluja. A települést meredek, esőerdővel borított hegyek veszik körül, ami megvédte a nagyüzemi turizmustól. Charlotteville híres a nyugalmáról, a sötét homokos strandjairól és a barátságos halászairól. Itt az élet a tenger és a természet ritmusát követi. A közeli Pirate's Bay egy eldugott paradicsom, amely csak vízen vagy egy hosszú lépcsősoron érhető el. Charlotteville ideális hely azoknak, akik a valódi, autentikus karibi élményt keresik. Földrajz K5 — eldugott öblök és halászfalvak.",
+      "factsAdvanced": [
+        "Tobago legészakibb tengerparti települése.",
+        "A Man-O-War-öböl mentén fekszik, ami Tobago egyik legmélyebb kikötője.",
+        "Híres a Pirate's Bay (Kalóz-öböl) kristálytiszta vizéről.",
+        "A falu fő megélhetési forrása a mai napig a halászat.",
+        "Nagy szállodaláncoktól mentes, autentikus hangulatú hely.",
+        "Meredek, zöldellő hegyek veszik körbe a települést.",
+        "A közeli Main Ridge Forest Reserve védelmét élvezi.",
+        "Népszerű a vitorlázók és a csendre vágyó utazók körében."
+      ]
+    },
+    {
+      "id": "tt-parlatuvier-cities-v2",
+      "descriptionAdvanced": "Parlatuvier egy eldugott gyöngyszem Tobago északi partján, amely egy szinte tökéletesen félkör alakú öbölben fekszik. A falu híres a mólójáról, ahonnan a helyi halászok minden nap kihajóznak, és ahol a látogatók friss halat vásárolhatnak. A tengerpartot zöldellő hegyek ölelik körül, a homok pedig aranyszínű. Parlatuvier megőrizte békés, vidéki jellegét, ahol az idő lassabban jár. A közeli vízesések és a dús vegetáció miatt a környék az ökoturisták és a fotósok kedvelt célpontja. Itt a látogatók tényleg kikapcsolódhatnak a világ zajától. Sachkunde K3 — tengerpart és természet.",
+      "factsAdvanced": [
+        "Tobago egyik leglátványosabb, félkör alakú öblével rendelkezik.",
+        "Híres a hosszú halászmólójáról és a friss zsákmányról.",
+        "Az öböl vize általában nyugodt és kiválóan alkalmas úszásra.",
+        "Sűrű trópusi erdők és kakaóültetvények övezik.",
+        "A falu megőrizte autentikus tobago-i jellegét.",
+        "Népszerű helyszín a naplemente megfigyeléséhez.",
+        "A közelben több kisebb, rejtett vízesés is található.",
+        "Tökéletes állomás a Tobago északi partján tett kirándulásokhoz."
+      ]
+    },
+    {
+      "id": "tt-blanchisseuse-cities-v2",
+      "descriptionAdvanced": "Blanchisseuse egy festői falu Trinidad északi partján, az Északi-hegység lábánál, ahol a Marianne-folyó az óceánba torkollik. A név francia eredetű, jelentése 'mosónő', ami a folyóparton dolgozó asszonyokra utal. A település híres a vadságáról, a meredek szikláiról és a gyönyörű, néha veszélyes hullámokkal teli strandjairól. Blanchisseuse-t egy kanyargós hegyi út köti össze Arimával, ami az ország egyik legszebb autós útvonala. A falu népszerű a túrázók körében, hiszen számos ösvény vezet innen vízesésekhez és távoli öblökbe. Földrajz K5 — folyótorkolatok és sziklás partok.",
+      "factsAdvanced": [
+        "A név francia eredetű, jelentése: 'mosónő'.",
+        "Itt található a Marianne-folyó torkolata és édesvízi lagúnája.",
+        "Híres a látványos Blanchisseuse-i függőhídról.",
+        "Népszerű kiindulópont az Északi-hegység túraösvényeihez.",
+        "A falu tengerpartja vadregényes és az Atlanti-óceán felé néz.",
+        "A teknősök fészkelési idején fontos természetvédelmi terület.",
+        "Híres a helyi, friss alapanyagokból készült ételeiről.",
+        "Az Arima-Blanchisseuse út gyönyörű panorámát kínál."
+      ]
+    },
+    {
+      "id": "tt-grande-riviere-cities-v2",
+      "descriptionAdvanced": "Grande Riviere Trinidad északi partjának egyik legkülönlegesebb települése, amely világszerte ismert a bőrhátú teknősök (leatherback turtles) egyik legfontosabb fészkelőhelyeként. Minden évben több ezer óriásteknős érkezik ide, hogy tojást rakjon a homokban, ami különleges ökoturisztikai látványosság. A falu neve a mellette folyó nagy folyóra utal. Grande Riviere messze van a városoktól, sűrű erdők és meredek hegyek veszik körül, így a természet az uralkodó elem. A település híres a fenntartható turizmusról és a teknősvédelmi programjairól. Sachkunde K5 — veszélyeztetett fajok és környezetvédelem.",
+      "factsAdvanced": [
+        "A világ egyik legfontosabb bőrhátú teknős-fészkelőhelye.",
+        "A név jelentése: 'Nagy Folyó'.",
+        "A teknősök fészkelési szezonja márciustól augusztusig tart.",
+        "A falu gazdasága ma már főként az ökoturizmusra épül.",
+        "Trinidad egyik legészakibb és legszebb strandjával rendelkezik.",
+        "Itt él a ritka, endemikus Pawi madár (Trinidad Piping Guan).",
+        "Szigorú környezetvédelmi szabályok védik a part menti élővilágot.",
+        "A közösség aktívan részt vesz a teknősök védelmében."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-cities-v2",
+      "descriptionAdvanced": "Guayaguayare Trinidad délkeleti csücskében fekszik, és az ország kőolaj-történelmének egyik legfontosabb helyszíne. Itt fúrták az ország első kereskedelmi olajkútját 1902-ben, ami megváltoztatta Trinidad sorsát. Ma a falu egy kettős arculatú hely: egyrészt egy hagyományos halászfalu gyönyörű tengerparttal, másrészt egy modern energiaipari központ hatalmas terminálokkal és kiszolgáló létesítményekkel. A tájképet a Trinity-hegység uralja, és a terület gazdag vadvilágban is. Guayaguayare messze van a fővárostól, így megőrizte sajátos, független hangulatát. Földrajz K8 — energiaipar és történelmi lelőhelyek.",
+      "factsAdvanced": [
+        "Itt fúrták Trinidad első sikeres olajkútját 1902-ben.",
+        "Az ország délkeleti legszélén található halász- és ipari falu.",
+        "Nevét az őslakos amerikaiaktól kapta.",
+        "A Trinity Hills (Szentháromság-hegyek) lábánál fekszik.",
+        "Fontos tengeri bázis az olaj- és gázplatformok kiszolgálására.",
+        "Híres a hosszú, érintetlen tengerpartjáról.",
+        "Gazdag vadászati és halászati hagyományokkal rendelkezik.",
+        "Az út vége Trinidad délkeleti részén itt ér véget."
+      ]
+    },
+    {
+      "id": "tt-icacos-cities-v2",
+      "descriptionAdvanced": "Icacos Trinidad legdélebbi és legnyugatibb pontja, ahol a sziget szinte összeér Venezuelával. A falu a Cedros-félsziget végén található, végtelen kókuszültetvények és mocsaras területek között. Icacos neve az 'icaco' (parti szilva) növényről kapta a nevét. A település rendkívül csendes, a lakók főként kókusztermesztésből és halászatból élnek. A tengerpart itt gyakran változik az erős áramlatok miatt, és a közeli Soldado Rock a tengerészek fontos tájékozódási pontja. Icacos a 'világ vége' érzést kelti az utazóban, ahol az óceán és az ég összeolvad. Földrajz K5 — félszigetek és távoli pontok.",
+      "factsAdvanced": [
+        "Trinidad délnyugati csücske, legközelebb Venezuelához.",
+        "Nevét a tengerparti szilváról (icaco) kapta.",
+        "Végtelen kókuszültetvények (coconut estates) uralják a tájat.",
+        "A falu híres a kókuszolaj és kopra készítéséről.",
+        "A közelben találhatók a különleges sárvulkánok a tengerben.",
+        "Fontos megállóhely a vándormadarak számára.",
+        "A tengeri áramlatok itt különösen erősek és veszélyesek.",
+        "Az élet lassú és a hagyományos gazdálkodáshoz kötődik."
+      ]
+    },
+    {
+      "id": "tt-manzanilla-cities-v2",
+      "descriptionAdvanced": "Manzanilla a sziget keleti partján fekszik, és híres a 'Cocal' nevű útszakaszáról, ahol az út kilométereken át kókuszpálmák ezrei között fut a tengerpart és a Nariva-mocsár között. A település neve spanyolul 'kis almát' jelent, ami a parton növő manchineel fák termésére utalhat. Manzanilla strandja népszerű kirándulóhely, híres barna homokjáról és az Atlanti-óceán erőteljes hullámairól. A falu fontos mezőgazdasági terület is, ahol a görögdinnye és a kókusz a fő termény. A közeli mocsárvilág miatt a terület ökológiai szempontból is rendkívül jelentős. Földrajz K5 — mocsarak és tengerparti utak.",
+      "factsAdvanced": [
+        "Híres a 'Cocal' útról, amely kókuszpálmák ezrei között halad.",
+        "Nevének jelentése spanyolul: 'kis alma'.",
+        "Az Atlanti-óceán felé néző, hosszú tengerparttal rendelkezik.",
+        "Közvetlenül szomszédos a Nariva-mocsárral, Trinidad legnagyobb vizes élőhelyével.",
+        "Népszerű helyszín a hétvégi piknikezéshez és családi kirándulásokhoz.",
+        "A part mentén halászat és mezőgazdaság a fő tevékenység.",
+        "A manchineel fák termése mérgező, amire táblák figyelmeztetnek.",
+        "Híres a friss helyi görögdinnyéről, amit az út mentén árulnak."
+      ]
+    },
+    {
+      "id": "tt-buccoo-cities-v2",
+      "descriptionAdvanced": "Buccoo egy bájos halászfalu Tobago délnyugati részén, amely világhírnevét a Buccoo-zátonynak és a 'Sunday School' nevű heti rendezvényének köszönheti. A falu mólójáról indulnak a híres üvegfenekű hajók a korallzátonyhoz és a Nylon Poolhoz. Vasárnap esténként a település élettel telik meg, amikor helyiek és turisták együtt mulatnak az acéldob-zenére és kóstolják a helyi ételeket. Buccoo megőrizte barátságos, falu jellegét, ahol a kecskefuttatás (Goat Race) is nagy hagyománynak örvend, különösen húsvét idején. Sachkunde K3 — turizmus és helyi hagyományok.",
+      "factsAdvanced": [
+        "Innen indulnak a túrák a híres Buccoo-zátonyhoz (Buccoo Reef).",
+        "A 'Sunday School' egy híres heti utcai buli és kulturális esemény.",
+        "A Buccoo-zátony a Karib-térség egyik legfontosabb védett tengeri parkja.",
+        "A falu híres a hagyományos kecskefuttatási versenyekről.",
+        "Aranyhomokos strandja (Buccoo Bay) védett és nyugodt vizű.",
+        "Híres a halászok által kifogott friss tengeri csemegékről.",
+        "A falu hangulata tipikusan tobago-i: lassú és barátságos.",
+        "Fontos ökoturisztikai központ, amely a korallok védelmére fókuszál."
+      ]
+    },
+    {
+      "id": "tt-black-rock-cities-v2",
+      "descriptionAdvanced": "Black Rock egy gyönyörű tengerparti település Tobago nyugati részén, amely a névadó fekete szikláiról és a Stonehaven-öbölről ismert. A falu kedvelt célpontja az utazóknak, akik elegáns, mégis családias környezetre vágynak. Itt található a Fort Bennett történelmi erőd romja, ahonnan csodás kilátás nyílik a tengerre. Black Rock híres a teknősvédelmi tevékenységéről is, mivel a partja a bőrhátú teknősök egyik kedvelt fészkelőhelye. A település keveri a modern villák és a hagyományos halászházak hangulatát, egy igazán vonzó karibi tájat alkotva. Földrajz K5 — sziklás partok és történelem.",
+      "factsAdvanced": [
+        "Nevét az öböl bejáratánál található jellegzetes fekete sziklákról kapta.",
+        "Itt találhatók a 18. századi Fort Bennett erőd maradványai.",
+        "A Stonehaven-öböl Tobago egyik legszebb fürdőhelye.",
+        "Fontos fészkelőhelye a veszélyeztetett bőrhátú teknősöknek.",
+        "Számos butikhotel és luxusvilla található a környéken.",
+        "A falu híres a barátságos, művészetkedvelő közösségéről.",
+        "Kiváló sznorkelezési lehetőségek a part menti szikláknál.",
+        "A naplementék innen az egyik leglátványosabbak a szigeten."
+      ]
+    }
+  ]
+}

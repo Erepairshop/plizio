@@ -1,0 +1,281 @@
+{
+  "FR": {
+    "desc": "France is the largest country in the European Union by area, stretching from the North Sea to the Mediterranean. It possesses a remarkably diverse geography that includes the majestic peaks of the Alps, the Pyrenees mountains, and expansive fertile plains. This nation has profoundly influenced global culture, art, philosophy, and political history through centuries of rich heritage. From the royal grandeur of the Ancien Régime to the ideals of the French Revolution, its historical footprint is visible in countless châteaux and monuments. Geography K8 - European nations and topographies.",
+    "facts": [
+      "France is the most visited country in the world, receiving over 89 million international tourists annually.",
+      "The country spans 12 different time zones, the most of any nation, due to its numerous overseas territories.",
+      "Mont Blanc, located in the French Alps, is the highest mountain in Western Europe at 4,807 meters.",
+      "France produces over 1,500 different types of cheese, reflecting its vast agricultural diversity."
+    ]
+  },
+  "FR-ARA": {
+    "desc": "The Auvergne-Rhône-Alpes region is characterized by its dramatic volcanic landscapes, deep gorges, and the towering peaks of the French Alps. Formed by the merging of two distinct historical areas, it is an economic powerhouse driven by high-tech industries and winter tourism. The region features the dormant volcanoes of the Chaîne des Puys, a UNESCO World Heritage site, alongside world-renowned ski resorts like Chamonix. Its capital, Lyon, is famous for its historical architecture and as the gastronomic capital of France. Geography K7 - regional economies and mountain environments.",
+    "facts": [
+      "The region is home to Europe's largest ski area, the Les Trois Vallées.",
+      "Lyon was founded by the Romans in 43 BC and served as the capital of the Gauls.",
+      "The Chaîne des Puys features over 80 dormant volcanoes stretching across 40 kilometers.",
+      "Evian-les-Bains in this region is the source of the famous Évian mineral water."
+    ]
+  },
+  "FR-BFC": {
+    "desc": "Bourgogne-Franche-Comté is an eastern French region celebrated for its pristine natural environments, including the Jura Mountains and extensive ancient forests. Historically, it was the powerful Duchy of Burgundy, a state that once rivaled the Kingdom of France in wealth and influence. Today, it is globally recognized for its prestigious vineyards, producing some of the world's most sought-after Pinot Noir and Chardonnay wines. The region is also rich in medieval architecture, notably the Hospices de Beaune with its distinct colorful tiled roof. History K7 - medieval duchies and European agriculture.",
+    "facts": [
+      "The region produces the famous Dijon mustard, although most mustard seeds are now imported.",
+      "The Jura Mountains offer extensive cross-country skiing trails spanning hundreds of kilometers.",
+      "Cluny Abbey was once the largest Christian church in the world until the construction of St. Peter's Basilica.",
+      "The 'Climats' of Burgundy's vineyards are recognized as a UNESCO World Heritage site."
+    ]
+  },
+  "FR-BRE": {
+    "desc": "Brittany, a rugged peninsula extending into the Atlantic Ocean, features a distinct Celtic heritage that sets it apart from the rest of France. Its coastline is famously dramatic, with sheer cliffs, hidden coves, and the remarkable Pink Granite Coast. The region has retained its own language, Breton, and a rich folklore deeply connected to the sea and ancient megalithic cultures. Fishing and maritime industries have traditionally dominated its economy, supported by historical port cities like Saint-Malo and Brest. Geography K6 - coastal landscapes and Celtic cultures.",
+    "facts": [
+      "The Carnac stones in Brittany are one of the most extensive megalithic complexes in the world, predating Stonehenge.",
+      "Brittany is the leading agricultural region in France, particularly for dairy and pork production.",
+      "The region has the longest coastline of any French region, stretching for nearly 3,000 kilometers.",
+      "Traditional Breton crêpes and galettes originated here, originally made from buckwheat."
+    ]
+  },
+  "FR-CVL": {
+    "desc": "The Centre-Val de Loire region is famously known as the 'Garden of France' due to its lush landscapes and the historic Loire River that flows through it. This area was the playground of French royalty during the Renaissance, resulting in the construction of magnificent châteaux like Chambord and Chenonceau. The fertile valley is celebrated for its exceptional vineyards and vibrant agricultural production. Its historical significance and stunning architectural heritage have earned the central part of the Loire Valley a UNESCO World Heritage designation. History K8 - the Renaissance and royal architecture.",
+    "facts": [
+      "Château de Chambord is the largest castle in the Loire Valley, featuring 440 rooms and a famous double helix staircase.",
+      "Joan of Arc led the French army to a pivotal victory at Orléans in 1429, located in this region.",
+      "The Loire is the longest river in France, extending for 1,006 kilometers before reaching the Atlantic.",
+      "Leonardo da Vinci spent his final years in the region at the Château du Clos Lucé in Amboise."
+    ]
+  },
+  "FR-COR": {
+    "desc": "Corsica, often called the 'Isle of Beauty', is a mountainous Mediterranean island with a fiercely independent culture and a mix of French and Italian influences. The island's geography is spectacular, ranging from pristine white-sand beaches to rugged peaks that remain snow-capped deep into the spring. It is best known historically as the birthplace of Napoleon Bonaparte in the capital city of Ajaccio. The island is also famous for the GR20, considered one of the most difficult and stunning long-distance hiking trails in Europe. Geography K7 - island geographies and Mediterranean climates.",
+    "facts": [
+      "Napoleon Bonaparte was born in Ajaccio in 1769, shortly after France acquired the island from Genoa.",
+      "Nearly half of the island is covered by a protected natural park, preserving its unique biodiversity.",
+      "The island features its own distinct language, Corsican, which is closely related to Tuscan Italian.",
+      "The Calanques de Piana are spectacular red rock formations plunging into the Mediterranean Sea."
+    ]
+  },
+  "FR-GES": {
+    "desc": "The Grand Est region borders four countries—Belgium, Luxembourg, Germany, and Switzerland—making it a vital crossroads of European history and culture. It encompasses the historic areas of Alsace, Lorraine, and Champagne, blending French and Germanic architectural and culinary traditions. The region has been the site of numerous pivotal conflicts, notably the devastating battles of World War I around Verdun. Today, it is globally celebrated for its effervescent Champagne wine and picturesque half-timbered houses in cities like Strasbourg and Colmar. History K8 - World War I and European borders.",
+    "facts": [
+      "Strasbourg is the official seat of the European Parliament, highlighting the region's role in European unity.",
+      "Only sparkling wine produced in the Champagne region can legally be labeled as 'Champagne'.",
+      "The Battle of Verdun in 1916 was one of the longest and most costly battles in human history.",
+      "The Alsace region has changed hands between France and Germany four times since 1871."
+    ]
+  },
+  "FR-HDF": {
+    "desc": "Hauts-de-France is the northernmost region of France, characterized by its vast plains, historic industrial centers, and strategic coastal access to the English Channel. It has a rich heritage of textile manufacturing and coal mining, which heavily shaped its 19th and 20th-century development. The region's architecture features magnificent Gothic cathedrals, most notably in Amiens, and distinctive Flemish-style belfries. Its strategic location made it a major battleground during both World Wars, leaving a landscape dotted with solemn memorials and cemeteries. History K8 - industrial revolution and global conflicts.",
+    "facts": [
+      "The Amiens Cathedral is the largest Gothic cathedral in France, built in the 13th century.",
+      "The region hosts the Channel Tunnel terminal at Calais, directly connecting France to the UK by rail.",
+      "Dunkirk was the site of a massive evacuation of Allied soldiers during World War II in 1940.",
+      "The Louvre-Lens museum is a major cultural outpost built on a former coal mining site."
+    ]
+  },
+  "FR-IDF": {
+    "desc": "Île-de-France is the densely populated heart of France, centered around the capital city of Paris, and serves as the political, economic, and cultural engine of the country. Despite its urban dominance, the region features extensive historical forests, such as Fontainebleau, and grand royal estates. It generates nearly a third of the French gross domestic product, making it one of the wealthiest regions in Europe. The area is a global hub for art, fashion, gastronomy, and international diplomacy. Economics K8 - metropolitan economies and global cities.",
+    "facts": [
+      "The region is home to the Palace of Versailles, the spectacular former residence of French kings.",
+      "Disneyland Paris, located in Marne-la-Vallée, is the most visited theme park in Europe.",
+      "The Paris Métro is one of the densest subway systems in the world, with over 300 stations.",
+      "La Défense, located just west of Paris, is Europe's largest purpose-built business district."
+    ]
+  },
+  "FR-NOR": {
+    "desc": "Normandy is a historic region on the English Channel, famous for its dramatic chalk cliffs, lush apple orchards, and significant medieval history. It was the launching point for the Norman conquest of England in 1066, famously depicted in the Bayeux Tapestry. In modern times, its beaches were the site of the historic D-Day landings in 1944, a turning point in World War II. The region is also renowned for its rich dairy products, including Camembert cheese, and its distinctive apple cider and Calvados brandy. History K8 - World War II and medieval conquests.",
+    "facts": [
+      "The Mont-Saint-Michel is a gravity-defying medieval abbey built on a tidal island.",
+      "The Bayeux Tapestry is an embroidered cloth nearly 70 meters long depicting the events of 1066.",
+      "Normandy produces over half of France's flax, which is used to make linen.",
+      "Rouen, the historical capital, is where Joan of Arc was tried and burned at the stake in 1431."
+    ]
+  },
+  "FR-NAQ": {
+    "desc": "Nouvelle-Aquitaine is the largest administrative region in France, stretching along the Atlantic coast down to the Spanish border. It features a diverse landscape that includes the immense pine forests of Landes, the towering Dune of Pilat, and the lush vineyards surrounding Bordeaux. The region's history dates back to the powerful Duchy of Aquitaine, famously ruled by Eleanor of Aquitaine in the 12th century. It is a major center for surfing, wine production, and the aerospace industry. Geography K7 - coastal erosion and agricultural zones.",
+    "facts": [
+      "The Dune of Pilat is the tallest sand dune in Europe, towering over 100 meters above sea level.",
+      "Bordeaux is known as the world capital of wine, producing over 700 million bottles annually.",
+      "The region contains the prehistoric Lascaux caves, famous for their 17,000-year-old Paleolithic paintings.",
+      "The Basque Country in the south of the region has a unique culture and language of its own."
+    ]
+  },
+  "FR-OCC": {
+    "desc": "Occitanie is a large southern region spanning from the Pyrenees mountains to the Mediterranean Sea, characterized by its sunny climate and deep historical roots. It was the heartland of the medieval Cathar movement, whose legacy is visible in dramatic hilltop fortresses. The region is a major agricultural producer, known for its extensive vineyards and the fortified medieval city of Carcassonne. Its modern capital, Toulouse, provides a stark contrast with its booming aerospace industry and dynamic student population. History K7 - medieval religious movements and modern industry.",
+    "facts": [
+      "The Canal du Midi, completed in 1681, connects the Mediterranean to the Atlantic Ocean via the Garonne River.",
+      "Toulouse is the headquarters of Airbus, making it the center of the European aerospace industry.",
+      "Carcassonne is the largest walled medieval city in Europe still fully intact.",
+      "The region is the largest wine-producing area in the world by surface area."
+    ]
+  },
+  "FR-PDL": {
+    "desc": "Pays de la Loire is located in western France, centered around the mouth of the Loire River where it meets the Atlantic Ocean. The region blends a rich maritime heritage with extensive agricultural lands and a dynamic modern economy. It features an impressive coastline, the salt marshes of Guérande, and historic cities like Nantes, which was once the capital of the Duchy of Brittany. The area is also famous for hosting the 24 Hours of Le Mans, the world's oldest active sports car race in endurance racing. Geography K6 - river estuaries and coastal economies.",
+    "facts": [
+      "Nantes is home to the 'Machines of the Isle of Nantes', an artistic project featuring giant mechanical animals.",
+      "The 24 Hours of Le Mans has been held annually since 1923, testing automotive endurance.",
+      "The region is France's leading producer of beef and poultry.",
+      "Guérande is famous for its traditional sea salt harvesting methods, unchanged for centuries."
+    ]
+  },
+  "FR-PAC": {
+    "desc": "Provence-Alpes-Côte d'Azur (PACA) is a world-renowned destination in southeastern France, celebrated for its glamorous Riviera, fragrant lavender fields, and rugged Alpine peaks. The region boasts a rich Roman heritage, with impressive ruins still standing in cities like Nîmes and Arles. It has long been a haven for artists, drawn by the incredible light that inspired the works of Cézanne, Van Gogh, and Matisse. Its economy thrives on tourism, luxury industries, and technology hubs like Sophia Antipolis. Geography K8 - Mediterranean climates and luxury tourism.",
+    "facts": [
+      "The glamorous Cannes Film Festival has been held in the region almost every year since 1946.",
+      "Grasse is globally recognized as the perfume capital of the world due to its historic fragrance industry.",
+      "The Verdon Gorge, often called the 'Grand Canyon of Europe', is over 25 kilometers long and 700 meters deep.",
+      "Marseille is France's oldest city, founded by Greek sailors from Phocaea around 600 BC."
+    ]
+  },
+  "paris": {
+    "desc": "Paris, the iconic capital of France, is a global center for art, fashion, gastronomy, and culture. The city is bisected by the Seine River, dividing it into the historic Left Bank and the cosmopolitan Right Bank. Renowned for its stunning 19th-century Haussmann architecture, grand boulevards, and extensive parks, Paris is often referred to as the 'City of Light' for its early adoption of street lighting and its role during the Age of Enlightenment. From the towering Eiffel Tower to the historic halls of the Louvre, it remains one of the most culturally significant cities in the world. Geography K8 - global cities and cultural centers.",
+    "facts": [
+      "The Eiffel Tower was originally built as a temporary structure for the 1889 World's Fair.",
+      "The Louvre is the world's most visited art museum, housing over 35,000 works of art.",
+      "Paris has the largest underground catacombs network, holding the remains of over six million people.",
+      "The city is home to the oldest café in continuous operation, Café Procope, opened in 1686."
+    ]
+  },
+  "marseille": {
+    "desc": "Marseille, France's oldest city and its largest commercial port, is a vibrant melting pot of Mediterranean cultures on the southern coast. Founded by Greek mariners in 600 BC, it boasts a rich, complex history marked by waves of immigration and a fiercely independent spirit. The city is defined by the historic Vieux-Port (Old Port), the commanding basilica of Notre-Dame de la Garde, and the stunning limestone cliffs of the nearby Calanques National Park. Today, it stands as a dynamic cultural hub with a thriving arts scene and the famous bouillabaisse seafood stew. History K7 - ancient Mediterranean trade and cultural integration.",
+    "facts": [
+      "Marseille was designated the European Capital of Culture in 2013, revitalizing its urban waterfront.",
+      "The Château d'If, a fortress off the coast, was made famous by Alexandre Dumas's novel 'The Count of Monte Cristo'.",
+      "Bouillabaisse, originally a stew made by local fishermen from unsold fish, is the city's signature dish.",
+      "It is the second most populous city in France, trailing only Paris."
+    ]
+  },
+  "lyon": {
+    "desc": "Lyon is a historic powerhouse located at the confluence of the Rhône and Saône rivers, renowned as the gastronomic capital of France. It boasts a rich legacy dating back to the Roman Empire when it was known as Lugdunum, the capital of the Gauls. The city played a pivotal role in the European silk trade during the Renaissance, leading to the creation of its famous 'traboules'—hidden passageways used by silk weavers. Today, it is a major center for banking, chemical, and biotech industries, blending ancient ruins with cutting-edge innovation. Geography K7 - river confluences and urban development.",
+    "facts": [
+      "The Lumière brothers, pioneers of early cinema, invented the cinematograph in Lyon in 1895.",
+      "Lyon is famous for its 'bouchons', traditional restaurants serving hearty local specialties.",
+      "The city hosts the spectacular 'Fête des Lumières' (Festival of Lights) every December.",
+      "Interpol, the International Criminal Police Organization, is headquartered here."
+    ]
+  },
+  "toulouse": {
+    "desc": "Toulouse, known affectionately as 'La Ville Rose' (The Pink City) due to its pervasive terracotta brick architecture, is the thriving capital of the Occitanie region. Straddling the Garonne River, it balances a rich medieval history with its modern status as the center of the European aerospace industry. The city is home to Airbus headquarters and the French space agency, making it a magnet for engineers and researchers globally. Its vibrant atmosphere is fueled by one of the largest student populations in France and a deep passion for rugby. Geography K8 - high-tech industries and demographic growth.",
+    "facts": [
+      "Toulouse is the European capital of aeronautics and space research.",
+      "The Basilica of Saint-Sernin is the largest surviving Romanesque building in Europe.",
+      "The Canal du Midi, which connects Toulouse to the Mediterranean, is a UNESCO World Heritage site.",
+      "Cassoulet, a rich slow-cooked casserole of meat and white beans, is a signature dish of the region."
+    ]
+  },
+  "nice": {
+    "desc": "Nice, the glamorous capital of the French Riviera, is celebrated for its sweeping Baie des Anges (Bay of Angels) and its extraordinary Mediterranean climate. Its vibrant charm lies in the narrow, pastel-colored streets of the Vieille Ville (Old Town) and the iconic Promenade des Anglais stretching along the pebble beach. Originally a Greek settlement and later part of the Kingdom of Sardinia, Nice has a distinctly Italian architectural and culinary influence. It has long been a retreat for European aristocracy and legendary artists, solidifying its status as a premier global tourist destination. Geography K7 - coastal tourism and Mediterranean culture.",
+    "facts": [
+      "The Promenade des Anglais was funded in the 1820s by English aristocrats wintering in the city.",
+      "Nice is home to the Marc Chagall and Henri Matisse museums, reflecting its strong artistic legacy.",
+      "Salade Niçoise, featuring tuna, green beans, and hard-boiled eggs, originated here.",
+      "The Nice Carnival is one of the world's major carnival events, alongside Rio and Venice."
+    ]
+  },
+  "nantes": {
+    "desc": "Nantes, situated on the Loire River near the Atlantic coast, is a dynamic city celebrated for its innovative urban development and rich maritime history. Historically the capital of the Duchy of Brittany, it features the imposing Château des ducs de Bretagne at its center. In the 18th century, it was France's largest port and played a major role in the transatlantic slave trade, a dark past it now addresses through its impactful Memorial to the Abolition of Slavery. Today, Nantes is known for its creative industries, green spaces, and the whimsical 'Machines of the Isle of Nantes'. History K8 - maritime trade and urban regeneration.",
+    "facts": [
+      "The city was awarded the title of European Green Capital in 2013 for its environmental efforts.",
+      "Famed science fiction author Jules Verne was born in Nantes in 1828.",
+      "The 'Grand Éléphant', a 12-meter-tall mechanical elephant, is a major modern attraction on the island of Nantes.",
+      "The Edict of Nantes, granting religious tolerance to Protestants, was signed here by Henry IV in 1598."
+    ]
+  },
+  "strasbourg": {
+    "desc": "Strasbourg, the capital of the Grand Est region, sits right on the border with Germany, resulting in a unique fusion of French and German culture, architecture, and language. Its historic city center, the Grande Île, is surrounded by the Ill River and features the towering Gothic Strasbourg Cathedral and the picturesque half-timbered houses of 'La Petite France'. Because of its location in the historically contested region of Alsace, it was chosen as a symbol of post-war reconciliation and now serves as the official seat of the European Parliament. It is also famous for hosting the oldest and largest Christmas market in France. History K8 - European borders and post-war unity.",
+    "facts": [
+      "Strasbourg Cathedral was the world's tallest building for over 200 years, from 1647 to 1874.",
+      "The city's Christmas market, the 'Christkindelsmärik', has been held continuously since 1570.",
+      "It is one of the de facto capitals of the European Union, alongside Brussels and Luxembourg.",
+      "Johannes Gutenberg perfected his printing press with movable type while living in Strasbourg in the 1440s."
+    ]
+  },
+  "lille": {
+    "desc": "Lille is the bustling cultural and commercial capital of the Hauts-de-France region, located near the Belgian border. It exhibits strong Flemish influences in its remarkable brick architecture, notably the ornate Old Stock Exchange (Vieille Bourse) and the majestic Grand Place. Historically a major center for textiles and coal mining, Lille has successfully reinvented itself as a modern hub for retail, technology, and higher education. The city is famous for the Braderie de Lille, an enormous annual flea market that draws millions of visitors and involves consuming massive quantities of mussels and fries. Economics K7 - industrial transition and cross-border trade.",
+    "facts": [
+      "The Braderie de Lille is the largest flea market in Europe, dating back to the 12th century.",
+      "Lille was designated as the European Capital of Culture in 2004, which boosted its urban renewal.",
+      "The city features the first fully automated metro system in the world, the VAL, opened in 1983.",
+      "It was the birthplace of Charles de Gaulle, the famous French general and statesman."
+    ]
+  },
+  "versailles": {
+    "desc": "Versailles is a wealthy Parisian suburb globally renowned as the site of the magnificent Palace of Versailles, the former royal residence of France. Originally a small hunting lodge, it was transformed by King Louis XIV into a massive symbol of absolute monarchy, triggering the relocation of the French government here in 1682. The town itself was carefully planned around the palace, setting a standard for European urban design. Beyond its royal history, Versailles has hosted momentous diplomatic events, including the signing of the treaty that ended World War I in the palace's Hall of Mirrors. History K8 - absolute monarchy and international treaties.",
+    "facts": [
+      "The Treaty of Versailles, ending World War I, was signed in the Hall of Mirrors in 1919.",
+      "The palace gardens span over 800 hectares and feature classical French landscaping by André Le Nôtre.",
+      "Versailles served as the de facto capital of France for over a century until the French Revolution.",
+      "The estate includes the Petit Trianon, a smaller palace closely associated with Queen Marie Antoinette."
+    ]
+  },
+  "mont-saint-michel": {
+    "desc": "The Mont-Saint-Michel is a breathtaking medieval abbey perched on a rocky tidal island just off the coast of Normandy. For centuries, it served as a major European pilgrimage site, its fortified walls and soaring spires seemingly defying gravity as they rise from the bay. The bay itself is known for having some of the highest tidal variations in Europe, meaning the island is completely surrounded by water at high tide and exposed mudflats at low tide. This UNESCO World Heritage site is a masterpiece of Gothic architecture and remains one of the most recognizable landmarks in France. Geography K7 - tidal phenomena and medieval engineering.",
+    "facts": [
+      "The tides in the bay can vary by up to 14 meters between high and low tide.",
+      "The abbey was used as a prison during the French Revolution, earning it the nickname 'Bastille of the Sea'.",
+      "Only a few dozen permanent residents live on the island today.",
+      "The archangel Michael is perched at the very top of the abbey's spire, over 150 meters above the sea."
+    ]
+  },
+  "carcassonne": {
+    "desc": "Carcassonne is an awe-inspiring fortified city in the Occitanie region, renowned for its extensive double-walled ramparts and 52 watchtowers. It serves as an outstanding example of a medieval fortified town, playing a crucial strategic role in southern France during the Albigensian Crusade against the Cathars. In the 19th century, it was saved from demolition and heavily restored by the architect Eugène Viollet-le-Duc, shaping the romanticized vision of a medieval castle we see today. The modern lower city below the fortress continues to be a bustling center for the local wine trade. History K7 - medieval warfare and architectural restoration.",
+    "facts": [
+      "The medieval citadel (Cité de Carcassonne) is a UNESCO World Heritage site and attracts over 3 million visitors annually.",
+      "It features two outer walls stretching for 3 kilometers with 52 distinct towers.",
+      "Legend claims a woman named 'Dame Carcas' saved the city from a siege by throwing a well-fed pig over the walls.",
+      "The board game 'Carcassonne' is famously named after the city and its medieval landscape."
+    ]
+  },
+  "loire-chateaux": {
+    "desc": "The Châteaux of the Loire Valley represent one of the most remarkable collections of Renaissance architecture in the world. Stretching along the Loire River in central France, these opulent estates were built by French kings and nobility during the 15th and 16th centuries. Masterpieces like Château de Chambord, with its massive hunting grounds, and Château de Chenonceau, elegantly spanning the River Cher, showcase the transition from defensive medieval castles to lavish palaces focused on aesthetics and leisure. The area is widely recognized as a UNESCO World Heritage site due to its immense cultural and architectural significance. History K8 - the French Renaissance and aristocratic wealth.",
+    "facts": [
+      "There are over 300 châteaux scattered throughout the Loire Valley.",
+      "Château de Chenonceau is famously known as the 'Château des Dames' due to the powerful women who influenced its design.",
+      "Leonardo da Vinci spent his final years working for King Francis I in the Loire Valley.",
+      "Many of the châteaux were constructed using the distinctive white 'tuffeau' limestone of the region."
+    ]
+  },
+  "cannes": {
+    "desc": "Cannes, located on the French Riviera, is internationally synonymous with wealth, glamour, and the cinematic arts. Originally a modest fishing village, it was transformed in the 19th century when wealthy British aristocrats popularized it as a winter resort. Today, its palm-lined Boulevard de la Croisette is flanked by luxury hotels, designer boutiques, and beautiful sandy beaches. It reaches the peak of global attention every May when it hosts the Cannes Film Festival, drawing the biggest names in the entertainment industry to its iconic Palais des Festivals et des Congrès. Economics K7 - luxury tourism and global media events.",
+    "facts": [
+      "The Cannes Film Festival was first planned for 1939 but was delayed to 1946 due to World War II.",
+      "The top prize awarded at the film festival is the prestigious Palme d'Or (Golden Palm).",
+      "Just off the coast are the Lérins Islands, where the mysterious 'Man in the Iron Mask' was allegedly imprisoned.",
+      "The city's population triples during the film festival in May."
+    ]
+  },
+  "french-alps": {
+    "desc": "The French Alps form a spectacular mountain range in southeastern France, boasting some of the most dramatic landscapes and highest peaks in Europe. Home to Mont Blanc, the highest mountain in Western Europe, the region is an international mecca for mountaineering, skiing, and extreme sports. Deep valleys, expansive glaciers like the Mer de Glace, and crystal-clear alpine lakes define the breathtaking geography. The area also hosts world-class ski resorts such as Chamonix and Courchevel, making it a critical driver of the French tourism economy during the winter months. Geography K8 - glacial topography and mountain ecosystems.",
+    "facts": [
+      "Mont Blanc reaches an elevation of 4,807 meters (15,771 feet) above sea level.",
+      "Chamonix, located at the base of Mont Blanc, hosted the first-ever Winter Olympics in 1924.",
+      "The region features Europe's largest connected ski area, 'Les Trois Vallées' (The Three Valleys).",
+      "The Tour de France bicycle race famously includes grueling climbs through the Alpine passes every summer."
+    ]
+  },
+  "normandy-dday": {
+    "desc": "The Normandy D-Day landing beaches stretch along the northern coast of France and serve as a solemn monument to one of the most pivotal military operations in history. On June 6, 1944, Allied forces launched Operation Overlord, the largest seaborne invasion ever executed, to liberate Western Europe from Nazi occupation. The coastline is divided into five historic sectors: Utah, Omaha, Gold, Juno, and Sword. Today, the area is dotted with expansive military cemeteries, preserved bunkers, and comprehensive museums that honor the immense sacrifices made to secure global freedom. History K8 - World War II and amphibious warfare.",
+    "facts": [
+      "Over 150,000 Allied troops landed on the Normandy beaches on D-Day.",
+      "Omaha Beach saw the heaviest casualties among the five landing sectors.",
+      "The artificial 'Mulberry harbors' were towed across the English Channel to supply the invading forces.",
+      "The Normandy American Cemetery in Colleville-sur-Mer contains the graves of 9,388 American soldiers."
+    ]
+  },
+  "eiffel-tower": {
+    "desc": "The Eiffel Tower, an iconic wrought-iron lattice structure on the Champ de Mars in Paris, is the most recognizable symbol of France worldwide. Designed by the engineer Gustave Eiffel, it was constructed as the grand entrance arch for the 1889 World's Fair, celebrating the centennial of the French Revolution. Initially criticized by some of France's leading artists for its industrial aesthetic, it eventually became a beloved masterpiece of structural engineering. Today, it stands at 330 meters tall, illuminated spectacularly every evening, and remains one of the most visited paid monuments globally. History K7 - industrial revolution engineering and global landmarks.",
+    "facts": [
+      "The tower held the title of the tallest man-made structure in the world for 41 years until 1930.",
+      "It is painted every seven years, requiring about 60 tons of paint to protect the iron from rusting.",
+      "The tower can shrink by up to 15 centimeters in cold weather and expand in the heat.",
+      "Gustave Eiffel included a secret private apartment for himself at the very top of the tower."
+    ]
+  },
+  "louvre": {
+    "desc": "The Louvre Museum, located on the Right Bank of the Seine in Paris, is the world's largest and most visited art museum. Originally built as a fortress in the 12th century under King Philip II, it was later converted into a lavish royal palace before opening as a public museum during the French Revolution in 1793. Its colossal collection spans from ancient civilizations to the mid-19th century, housing masterpieces like the Mona Lisa and the Venus de Milo. The modern glass pyramid in its main courtyard, added in 1989, presents a striking contrast to the classic French Renaissance architecture. History K8 - the evolution of royal palaces to public institutions.",
+    "facts": [
+      "The museum contains over 35,000 works of art across 60,000 square meters of exhibition space.",
+      "The iconic glass pyramid was designed by the acclaimed Chinese-American architect I.M. Pei.",
+      "If you spent 30 seconds looking at every piece of art in the Louvre, it would take roughly 100 days to see it all.",
+      "The Mona Lisa is protected behind bulletproof glass and has its own dedicated security detail."
+    ]
+  }
+}

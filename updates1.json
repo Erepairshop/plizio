@@ -1,0 +1,152 @@
+{
+  "HU": {
+    "desc_hu": "Magyarország a Kárpát-medence szívében elhelyezkedő páratlan természeti és történelmi adottságokkal rendelkező ország. Történelme több mint ezer évre nyúlik vissza, mely során számos kultúra hagyta itt a nyomát, a rómaiaktól a törökökön át a Habsburgokig. Az ország gazdag termálvízkészlettel büszkélkedhet, fürdőkultúrája világhírű. Fővárosa, Budapest a Duna két partján terül el, és lenyűgöző építészetével évente milliókat vonz. Magyarország emellett kiváló borvidékeiről, hagyományos gasztronómiájáról és élénk népművészeti örökségéről is ismert. Földrajz K5 - európai országok.",
+    "facts_hu": [
+      "Több mint ezeréves államisággal rendelkezik, Szent István király alapította az 1000. évben.",
+      "A Balaton Közép-Európa legnagyobb édesvízi tava, kedvelt nyaralóhely.",
+      "Az ország 13 Nobel-díjast adott a világnak, ami a lakosság számához mérten kiemelkedő.",
+      "A tokaji aszú a világ egyik leghíresebb természetes édes bora.",
+      "Nyelve, a magyar, a finnugor nyelvcsaládba tartozik, és teljesen egyedülálló a régióban."
+    ]
+  },
+  "budapest": {
+    "desc_hu": "Budapest, Magyarország fővárosa és egyben legnagyobb városa, a Duna két partján, a hegyes-völgyes Buda és a sík Pest egyesüléséből jött létre 1873-ban. A város építészete a 19. század végi boldog békeidők hangulatát őrzi, lenyűgöző szecessziós, neoreneszánsz és gótikus elemekkel. Számos UNESCO világörökségi helyszínnel büszkélkedhet, beleértve a Duna-parti panorámát, a Budai Várnegyedet és az Andrássy utat. Budapest a kontinens fürdőfővárosa is, hiszen egyedülálló módon több mint száz gyógyvízforrás fakad a mélyből. Kulturális élete pezsgő, rengeteg múzeum, színház és fesztivál várja a látogatókat. Földrajz K5 - fővárosok.",
+    "facts_hu": [
+      "Buda, Pest és Óbuda egyesítésével jött létre 1873-ban.",
+      "Itt épült meg a kontinentális Európa első földalatti vasútja, a Millenniumi Földalatti.",
+      "A Parlament épülete a világ harmadik legnagyobb országháza.",
+      "A város alatt Európa egyik legnagyobb termálvizes barlangrendszere húzódik.",
+      "A Széchenyi Gyógyfürdő Európa legnagyobb fürdőkomplexuma."
+    ]
+  },
+  "baranya": {
+    "desc_hu": "Baranya vármegye Magyarország legdélebbi fekvésű, mediterrán hangulatú régiója, mely gazdag történelmi, kulturális és természeti értékekben. Székhelye, Pécs, a művészetek és a kultúra városa, melynek ókeresztény sírkamrái az UNESCO világörökség részét képezik. A megye déli részén található a híres Villányi borvidék, mely hazánk egyik legkiemelkedőbb vörösbortermelő területe. A természeti értékek közül kiemelkedik a Mecsek hegység és a Duna-Dráva Nemzeti Park páratlan élővilága. A régió etnikailag rendkívül sokszínű, horvát, német és roma kisebbségek békés együttélése jellemzi. Földrajz K6 - magyar tájak.",
+    "facts_hu": [
+      "Pécs, a megyeszékhely, 2010-ben Európa Kulturális Fővárosa volt.",
+      "A villányi borvidék a testes, kiváló minőségű magyar vörösborok hazája.",
+      "Itt található Harkány, melynek kénes gyógyvize Európa-hírű.",
+      "A Mecsek legmagasabb pontja, a Zengő, 682 méter magas.",
+      "A megyében található Mohács, az 1526-os és 1687-es sorsdöntő csaták helyszíne."
+    ]
+  },
+  "bacs-kiskun": {
+    "desc_hu": "Bács-Kiskun vármegye Magyarország legnagyobb kiterjedésű megyéje, a Duna és a Tisza között terül el. A végtelen rónaságok, az illatos ősborókások és a hagyományos pusztai életforma mind a térség sajátosságai. A Kiskunsági Nemzeti Park szikes tavai és homokbuckái különleges természeti értékeket őriznek. A megyeszékhely, Kecskemét a hírös város, a magyar szecesszió egyik fellegvára, míg Kalocsa a magyar paprika és a színpompás népművészet fővárosa. A régió borászata is jelentős, a kunsági borvidék hazánk legnagyobb kiterjedésű bortermő területe. Földrajz K6 - alföldi tájak.",
+    "facts_hu": [
+      "Területe alapján Magyarország legnagyobb vármegyéje.",
+      "A Kiskunsági Nemzeti Park hazánk második nemzeti parkjaként jött létre 1975-ben.",
+      "Kecskemét a barackpálinka és a Kodály-módszer szülővárosa.",
+      "Kalocsa világhírű a fűszerpaprikájáról és a pingáló asszonyok által készített mintákról.",
+      "Baja városa híres a minden évben megrendezett halfőző fesztiváljáról."
+    ]
+  },
+  "bekes": {
+    "desc_hu": "Békés vármegye az Alföld délkeleti részén fekszik, a magyar agrárium egyik legfontosabb központja, melyet kiváló minőségű termőföldjei tesznek lehetővé. A Viharsaroknak is nevezett régió történelme során mindig is az agrármozgalmak központja volt. Békéscsaba, a megyeszékhely, a híres csabai kolbász hazája, míg Gyula történelmi fürdővárosa a középkori téglaváráról és az Erkel Ferenchez köthető zenei hagyományokról ismert. Szarvas városa az ország egyik legszebb arborétumával büszkélkedhet. A térség természeti adottságait a Körösök völgye határozza meg, mely kiváló lehetőségeket nyújt a vízitúrázóknak. Földrajz K6 - magyar megyék.",
+    "facts_hu": [
+      "Békéscsaba ad otthont Közép-Európa egyik legnagyobb gasztronómiai rendezvényének, a Csabai Kolbászfesztiválnak.",
+      "A gyulai vár Közép-Európa egyetlen épen maradt, gótikus síkvidéki téglavára.",
+      "Szarvason található Magyarország legnagyobb arborétuma.",
+      "A megye folyói, a Hármas-, a Kettős- és a Sebes-Körös népszerű horgász- és evezős helyszínek.",
+      "Gyula városa Erkel Ferencnek, a magyar himnusz zeneszerzőjének a szülőhelye."
+    ]
+  },
+  "borsod-abauj-zemplen": {
+    "desc_hu": "Borsod-Abaúj-Zemplén Magyarország legészakibb és második legnagyobb vármegyéje, páratlan természeti és kulturális kincsekkel. A táj rendkívül változatos: a Zempléni-hegység vulkanikus csúcsai, a Bükk-vidék mészkővonulatai és az Aggteleki-karszt cseppkőbarlangjai egyedülállóak hazánkban. Miskolc a régió ipari, kulturális és oktatási központja, Lillafüred és Miskolctapolca révén kiemelkedő turisztikai célpont. A Zemplén lábánál elterülő Tokaj-Hegyalja a világ első zárt borvidéke. A megye számtalan középkori várral büszkélkedhet, mint például a diósgyőri, a füzéri vagy a boldogkői vár. Földrajz K6 - hegyvidékek.",
+    "facts_hu": [
+      "Az Aggteleki-karszt barlangrendszere, a Baradla-barlang UNESCO világörökségi helyszín.",
+      "A Tokaj-hegyaljai történelmi borvidék kultúrtájként szerepel a világörökségi listán.",
+      "A miskolctapolcai Barlangfürdő egyedülálló, természetes karsztbarlangban kialakított gyógyfürdő.",
+      "A Bükki Nemzeti Park Magyarország első hegyvidéki nemzeti parkja.",
+      "Hollóháza a hagyományos magyar porcelángyártás egyik fellegvára."
+    ]
+  },
+  "csongrad-csanad": {
+    "desc_hu": "Csongrád-Csanád vármegye az Alföld déli részén, a Tisza és a Maros találkozásánál fekszik. A napfény megyéjének is nevezik, hiszen itt a legmagasabb a napsütéses órák száma Magyarországon. Székhelye, Szeged, a Dóm térrel, a Szabadtéri Játékokkal és a híres halászlével a dél-alföldi régió legfontosabb kulturális és egyetemi központja. Makó a hungarikumnak számító hagyma hazája, míg Hódmezővásárhely a magyar népi kerámia egyik fellegvára. A megye mezőgazdasága kiemelkedő, különösen a zöldség- és gyümölcstermesztés jelentős. Földrajz K6 - magyar megyék.",
+    "facts_hu": [
+      "Szeged Magyarország harmadik legnépesebb városa, melyet az 1879-es nagy árvíz után építettek újjá.",
+      "A szegedi Fogadalmi templom (Dóm) az ország negyedik legnagyobb temploma.",
+      "Makó városa a fokhagymatermesztésről és a Makovecz Imre által tervezett Hagymatikum fürdőről ismert.",
+      "Ópusztaszeren található a Nemzeti Történeti Emlékpark és a Feszty-körkép.",
+      "Szentes az ország egyik legfontosabb geotermikus energiát hasznosító települése."
+    ]
+  },
+  "fejer": {
+    "desc_hu": "Fejér vármegye a Dunántúl szívében helyezkedik el, gazdag történelmi múlttal és fejlett iparral. Székhelye, Székesfehérvár, a magyar királyok egykori koronázóvárosa, melynek középkori romkertje a nemzet egyik legfontosabb történelmi emlékhelye. A megye északi részén a Velencei-tó hazánk harmadik legnagyobb természetes tava, kedvelt nyári pihenőhely. A Vértes és a Bakony keleti lankái kiváló kirándulási lehetőségeket kínálnak. Dunaújváros a 20. századi magyar iparosítás egyik szimbóluma, mely máig meghatározó kohászati központ. Történelem K6 - Árpád-kor.",
+    "facts_hu": [
+      "Székesfehérvár volt a középkori Magyar Királyság adminisztratív központja és koronázóvárosa.",
+      "A Velencei-tó sekély vizének köszönhetően Európa egyik legmelegebb vizű tava.",
+      "A tordasi kastély és a martonvásári Brunszvik-kastély a magyar arisztokrácia lenyűgöző emlékei.",
+      "Dunaújváros, korábbi nevén Sztálinváros, a magyar szocialista iparvárosok mintapéldája.",
+      "A megyében található Gorsium, az egyik legjelentősebb hazai római kori régészeti park."
+    ]
+  },
+  "gyor-moson-sopron": {
+    "desc_hu": "Győr-Moson-Sopron vármegye Magyarország északnyugati kapuja, mely gazdaságilag az egyik legfejlettebb régió hazánkban. Székhelye, Győr, a folyók városa, mely barokk belvárosával és az Audi Hungaria autógyárral büszkélkedhet. Sopron, a leghűségesebb város, a Kárpát-medence egyik legépebben megmaradt középkori óvárosával és híres kékfrankos borával várja a látogatókat. A Fertő tó és a Hanság páratlan madárvilága és pusztai élőhelyei a Fertő-Hanság Nemzeti Park védelme alatt állnak, egyben UNESCO világörökségi helyszínek is. A Pannonhalmi Főapátság több mint ezer éve a magyar kereszténység és kultúra bástyája. Földrajz K6 - Dunántúl.",
+    "facts_hu": [
+      "Sopront a hűség városának (Civitas Fidelissima) nevezik az 1921-es népszavazás emlékére.",
+      "A Pannonhalmi Főapátság Magyarország egyik legősibb, 996-ban alapított történelmi emléke.",
+      "A Fertő tó Európa legnyugatabbra fekvő sztyepptava.",
+      "Győr a három folyó: a Duna, a Rába és a Rábca találkozásánál épült.",
+      "A megye ipari és járműipari központ, hazánk egyik motorja."
+    ]
+  },
+  "hajdu-bihar": {
+    "desc_hu": "Hajdú-Bihar vármegye az Alföld keleti peremén fekszik, a Hortobágy végtelen pusztaságaitól a román határig húzódik. Székhelye, Debrecen, a kálvinista Róma, Magyarország második legnagyobb városa, mely egyetemével, Református Nagytemplomával és híres virágkarneváljával a régió szellemi központja. A megye jelképe a Hortobágyi Nemzeti Park, mely a pusztai életmód, a csikósok és az egyedülálló állatvilág – mint a szürkemarha vagy a mangalica – otthona. Hajdúszoboszló a termálvizek fellegvára, Európa egyik legnagyobb fürdőkomplexumával büszkélkedhet. Földrajz K6 - alföldi tájak.",
+    "facts_hu": [
+      "A Hortobágyi Nemzeti Park Magyarország első és legnagyobb kiterjedésű nemzeti parkja.",
+      "Debrecen kétszer, 1849-ben és 1944-ben is Magyarország ideiglenes fővárosa volt.",
+      "A Kilenclyukú híd a Hortobágy egyik legismertebb műemléke.",
+      "Hajdúszoboszló a reuma Mekkájaként ismert a kiváló gyógyvize miatt.",
+      "A debreceni Virágkarnevált minden év augusztus 20-án rendezik meg."
+    ]
+  },
+  "heves": {
+    "desc_hu": "Heves vármegye Észak-Magyarországon fekszik, ahol az Alföld síksága találkozik a Mátra és a Bükk hegyvonulataival. Itt magasodik hazánk legmagasabb pontja, az 1014 méteres Kékestető. Székhelye, Eger, a törökverő Dobó István vára, a barokk építészet és a híres bikavér hazája. A megye történelmi borvidékei, a Mátrai és az Egri borvidék, vulkanikus talajuknak köszönhetően kiváló borokat adnak. A térség bővelkedik természeti és épített látnivalókban, mint a szilvásváradi Szalajka-völgy vagy Sirok sziklavára. Történelem K6 - Török hódoltság.",
+    "facts_hu": [
+      "Az egri vár az 1552-es hősies és sikeres török ostrom elleni védekezésről híres.",
+      "A Kékestető, Magyarország legmagasabb hegycsúcsa (1014 m), a Mátrában található.",
+      "Az egri bikavér az egyik legismertebb magyar minőségi vörösborházasítás.",
+      "Eger az észak-magyarországi barokk építészet központja.",
+      "Egerszalók hőforrása és az általa kialakított sódomb egyedülálló természeti képződmény Európában."
+    ]
+  },
+  "jasz-nagykun-szolnok": {
+    "desc_hu": "Jász-Nagykun-Szolnok vármegye az Alföld szívében, a Tisza középső folyása mentén terül el. A régió arculatát a végtelen rónaság, a mezőgazdaság és a folyóvizek határozzák meg. Székhelye, Szolnok, fontos tiszai átkelőhely és vasúti csomópont, melynek jelképe a Tiszavirág gyalogos híd. A megye különleges történelmi-etnográfiai tájegységei a Jászság és a Nagykunság, melyek lakói, a jászok és a kunok büszkén őrzik sajátos kultúrájukat és hagyományaikat. A Tisza-tó közelsége kiváló ökoturisztikai lehetőségeket biztosít a vízi sportok és a madármegfigyelés szerelmeseinek. Földrajz K6 - folyók.",
+    "facts_hu": [
+      "A Tisza az ország második legnagyobb folyója, mely kettészeli a megyét.",
+      "Jászberényben őrzik a híres Lehel kürtjét, egy 10. századi bizánci elefántcsont kürtöt.",
+      "Szolnok egykor az ország legfontosabb sóelosztó központja volt.",
+      "Karcag a kunsági hagyományok és a birkapörkölt főző mesterség fellegvára.",
+      "A megye területén a legmagasabb a termőföldek aránya az országban."
+    ]
+  },
+  "komarom-esztergom": {
+    "desc_hu": "Komárom-Esztergom vármegye a Dunántúl északi részén fekszik, és bár területe alapján a legkisebb megye hazánkban, történelmi, ipari és kulturális jelentősége óriási. Esztergom, a magyar katolicizmus központja, a lenyűgöző Bazilikával az ország egyik legfontosabb szakrális városa. Tatabánya, a megyeszékhely, az egykori bányászat központja, mely fölé a hatalmas Turul-emlékmű magasodik. A Duna mentén fekvő Komárom lenyűgöző erődrendszerrel rendelkezik. A Gerecse és a Vértes hegységek kedvelt kirándulóhelyek, Tata városa pedig az öreg-tavi romantikáról és a vizek városaként ismert. Történelem K6 - Államapítás.",
+    "facts_hu": [
+      "Az esztergomi Bazilika Magyarország legnagyobb, és Európa egyik legnagyobb temploma.",
+      "Tatabánya felett magasodik Európa egyik legnagyobb bronzmadara, a Turul-emlékmű.",
+      "Tata városa az Öreg-tó partján álló középkori váráról és vizeiről híres.",
+      "Esztergomban született Szent István, az államalapító magyar király.",
+      "A komáromi erődrendszer Közép-Európa legnagyobb újkori erődítménye."
+    ]
+  },
+  "nograd": {
+    "desc_hu": "Nógrád vármegye Észak-Magyarországon fekszik, dimbes-dombos tájai a Cserhát és a Börzsöny hegyvonulatait foglalják magukba. Ez az ország legkisebb lakossággal rendelkező és leginkább erdősült megyéje, mely megőrizte érintetlen természeti szépségét és a palóc nép kultúráját. Hollókő ófaluja az UNESCO világörökség része, amely hűen őrzi a 19. századi palóc építészetet és hagyományokat. Székhelye, Salgótarján, a hegyekkel körülvett egykori iparváros. A megye bővelkedik vulkanikus kúpokra épült végvárakban, mint Salgó, Somoskő vagy Drégely vára. Földrajz K6 - magyar hegyvidékek.",
+    "facts_hu": [
+      "Hollókő az egyetlen olyan falu Magyarországon, amely felkerült az UNESCO Világörökség listájára.",
+      "A megye lakosságának jelentős része a palóc etnográfiai csoporthoz tartozik.",
+      "A somosi vár oldalában látható a híres bazaltorgona, amely egyedülálló geológiai képződmény.",
+      "Ipolytarnóc a palóc Pompeji, őslénytani leleteiről világszerte ismert.",
+      "Nógrád a legritkábban lakott megye Magyarországon."
+    ]
+  },
+  "pest": {
+    "desc_hu": "Pest vármegye Magyarország legnépesebb megyéje, mely gyűrűként öleli körbe Budapestet. Földrajzilag rendkívül változatos: magába foglalja az Alföld északi részét, a Duna kanyarulatát és a Visegrádi-hegység, valamint a Börzsöny meredek vonulatait. A Dunakanyar, Szentendre művészvárosa és Visegrád történelmi fellegvára a hazai turizmus legkedveltebb célpontjai közé tartoznak. Gödöllő a Grassalkovich-kastéllyal Erzsébet királyné (Sisi) egykori kedvenc nyári rezidenciáját rejti. A megye gazdasága szorosan összekapcsolódik a fővároséval, ugyanakkor gazdag agrárterületekkel is rendelkezik. Földrajz K6 - közép-magyarországi régió.",
+    "facts_hu": [
+      "Pest megye az ország legnépesebb vármegyéje, több mint 1,2 millió lakossal.",
+      "Szentendre a festők városa, mely skanzenjéről és mediterrán hangulatú belvárosáról híres.",
+      "A visegrádi fellegvárból nyílik az egyik legszebb kilátás a Dunakanyarra.",
+      "A gödöllői Grassalkovich-kastély Magyarország egyik legnagyobb barokk kastélya.",
+      "Vác városa barokk főterével és püspöki székesegyházával jelentős kulturális központ."
+    ]
+  }
+}

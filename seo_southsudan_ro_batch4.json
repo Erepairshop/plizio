@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "doleib-hill-mission-history-v2",
+      "descriptionAdvanced": "Misiunea Doleib Hill a fost una dintre primele stații misionare americane din Sudanul de Sud, fondată în 1902 la confluența Nilului Alb cu râul Sobat. Misiunea a jucat un rol pionier în educație și asistență medicală pentru poporul Shilluk, introducând tehnici agricole moderne și prima presă tipografică din regiune. Astăzi, situl este un simbol al începuturilor învățământului formal în statul Nilul Superior. Istorie K8 – Misiunile creștine și modernizarea.",
+      "factsAdvanced": [
+        "Fondată în 1902 de misionari americani",
+        "Situată la gura de vărsare a râului Sobat",
+        "Prima stație cu presă tipografică",
+        "Centru major de educație pentru Shilluk",
+        "A introdus culturi noi de legume",
+        "Sit istoric de misiune protestantă"
+      ]
+    },
+    {
+      "id": "lul-mission-history-v2",
+      "descriptionAdvanced": "Misiunea Lul a fost stabilită de misionarii catolici austrieci în 1901 pe malul Nilului Alb, fiind una dintre cele mai vechi așezări de acest tip din regiune. Cunoscută pentru arhitectura sa distinctivă din cărămidă arsă și pentru fermele sale model, Lul a devenit un centru de referință pentru educația tehnică și agricolă. Misiunea a păstrat documente lingvistice prețioase despre limba și cultura Shilluk. Istorie K8 – Arhitectura și educația misionară.",
+      "factsAdvanced": [
+        "Fondată în 1901 de catolici",
+        "Situată la nord de Malakal",
+        "Renumită pentru școlile agricole",
+        "Clădiri istorice din cărămidă",
+        "Centru de studii lingvistice Shilluk",
+        "Una dintre cele mai mari misiuni catolice"
+      ]
+    },
+    {
+      "id": "taufikia-military-history-v2",
+      "descriptionAdvanced": "Taufikia a fost o stație militară istorică fondată de exploratorul Samuel Baker în 1870, în timpul campaniei sale pentru suprimarea comerțului cu sclavi pe Nil. Situată strategic, stația servea ca punct de control pentru toate ambarcațiunile care circulau spre sud. Numele său a fost dat în onoarea lui Tewfik Pasha, Khedive-ul Egiptului, reprezentând autoritatea anglo-egipteană în inima Africii. Istorie K8 – Campania împotriva sclaviei pe Nil.",
+      "factsAdvanced": [
+        "Fondată de Samuel Baker în 1870",
+        "Numită după Tewfik Pasha al Egiptului",
+        "Post militar strategic pe Nil",
+        "Bază pentru lupta anti-sclavie",
+        "Situată la sud de Malakal",
+        "Sit arheologic militar colonial"
+      ]
+    },
+    {
+      "id": "old-fangak-history-v2",
+      "descriptionAdvanced": "Old Fangak este o localitate istorică situată în inima mlaștinilor Sudd, servind de peste un secol ca centru administrativ și comercial pentru poporul Nuer. Datorită locației sale protejate de apă, a fost un punct de rezistență și un refugiu cultural în perioadele de instabilitate. Orașul păstrează structuri administrative tradiționale și este un hub vital pentru navigația pe canalele interioare ale Nilului. Geografie K7 – Adaptarea urbană în zone inundabile.",
+      "factsAdvanced": [
+        "Centru administrativ istoric în Sudd",
+        "Punct comercial vital pentru Nuer",
+        "Situat pe canalul Phow",
+        "Refugiu istoric în timpul războaielor",
+        "Hub pentru transportul cu barca",
+        "Păstrează legi tradiționale Nuer"
+      ]
+    },
+    {
+      "id": "pachodo-shrine-history-v2",
+      "descriptionAdvanced": "Sanctuarul de la Pachodo este inima spirituală și locul de încoronare al Regatului Shilluk, fiind dedicat fondatorului mitic Nyikang. Această așezare rituală este formată din colibe tradiționale construite cu o precizie simbolică, reprezentând unitatea poporului Shilluk. Pachodo rămâne unul dintre cele mai importante situri de patrimoniu viu din Africa, unde tradițiile monarhice continuă de secole. Istorie K8 – Regatele tradiționale și patrimoniul viu.",
+      "factsAdvanced": [
+        "Locul de încoronare a Regelui Shilluk",
+        "Dedicat fondatorului Nyikang",
+        "Exemplu de arhitectură sacră tradițională",
+        "Centru al identității poporului Shilluk",
+        "Situat în apropierea orașului Kodok",
+        "Sit cultural protejat de rang național"
+      ]
+    },
+    {
+      "id": "gelo-river-heritage-history-v2",
+      "descriptionAdvanced": "Situl de patrimoniu de pe râul Gelo reprezintă inima istorică a regatului Anyuak, situat la granița dintre Sudanul de Sud și Etiopia. Valea râului Gelo a fost locul unde s-au dezvoltat așezările fortificate ale nobilimii Anyuak și unde se păstrează simbolurile regale sacre. Regiunea este crucială pentru înțelegerea sistemului politic complex și a istoriei migrației acestui popor de-a lungul cursurilor de apă. Istorie K8 – Sisteme politice și regale Anyuak.",
+      "factsAdvanced": [
+        "Centrul istoric al Regatului Anyuak",
+        "Situat de-a lungul râului Gelo",
+        "Păstrează însemnele regale Anyuak",
+        "Zonă de așezări tradiționale fortificate",
+        "Importanță transfrontalieră (SS/Etiopia)",
+        "Sit de patrimoniu cultural și natural"
+      ]
+    },
+    {
+      "id": "gbudwe-court-history-v2",
+      "descriptionAdvanced": "Curtea Regală a lui Gbudwe, situată lângă Yambio, a fost centrul puterii marelui rege Azande, Gbudwe, care a rezistat forțelor coloniale la sfârșitul secolului al XIX-lea. Situl reprezintă apogeul organizării politice a poporului Azande și este un loc de pelerinaj istoric. Gbudwe este amintit ca un simbol al suveranității și rezistenței africane în fața expansiunii europene și arabe. Istorie K8 – Rezistența africană împotriva colonialismului.",
+      "factsAdvanced": [
+        "Sediul Regelui Azande Gbudwe",
+        "Centru de rezistență anti-colonială",
+        "Situat în apropiere de Yambio",
+        "Loc sacru pentru poporul Azande",
+        "Simbol al unității naționale",
+        "Monument istoric dedicat suveranității"
+      ]
+    },
+    {
+      "id": "kaka-nile-port-history-v2",
+      "descriptionAdvanced": "Portul Kaka a fost unul dintre cele mai active puncte comerciale pe Nilul Alb în secolul al XIX-lea, servind ca stație principală pentru exportul de fildeș și gumă arabică. Situat în teritoriul Shilluk, portul a atras negustori din întregul bazin al Nilului și a fost un punct de observație strategic pentru expedițiile militare. Astăzi, Kaka rămâne o așezare istorică ce marchează vechile rute comerciale fluviale. Geografie K8 – Istoria rutelor comerciale pe Nil.",
+      "factsAdvanced": [
+        "Fost hub comercial major (sec. XIX)",
+        "Specializat în fildeș și gumă arabică",
+        "Situat în statul Nilul Superior",
+        "Punct de tranzit între Juba și Sudan",
+        "Așezare istorică pe malul Nilului",
+        "Stație de realimentare pentru barjele vechi"
+      ]
+    },
+    {
+      "id": "tonga-historical-village-history-v2",
+      "descriptionAdvanced": "Tonga este o așezare istorică strategică situată la confluența Nilului Alb cu râul Sobat (prin canalul Zeraf), fiind de secole un punct de întâlnire pentru culturile Shilluk și Nuer. Localitatea a servit ca bază militară și administrativă în diverse perioade, controlând accesul spre sudul țării. Tonga este cunoscută pentru piețele sale tradiționale de pește și pentru rolul său de nod de transport în regiunea Nilului Superior. Geografie K7 – Confluențe și schimburi culturale.",
+      "factsAdvanced": [
+        "Situat la o confluență fluvială cheie",
+        "Punct de întâlnire Shilluk-Nuer",
+        "Nod istoric de transport pe Nil",
+        "Fost post administrativ strategic",
+        "Centru pentru comerțul cu pește",
+        "Aproape de intrarea în canalul Zeraf"
+      ]
+    },
+    {
+      "id": "kayala-battle-site-history-v2",
+      "descriptionAdvanced": "Situl Kayala din statul Equatoria de Est este un loc marcat de bătălii istorice și conflicte locale care au modelat istoria poporului Lotuko. Kayala a fost un punct de rezistență strategic datorită topografiei sale, fiind situat pe rutele comerciale dintre Torit și Kapoeta. Amintirea acestor evenimente este păstrată în tradițiile orale și în monumentele locale ce onorează vitejia luptătorilor din regiune. Istorie K8 – Conflicte locale și tradiții militare.",
+      "factsAdvanced": [
+        "Sit istoric de conflict în Torit",
+        "Importanță strategică pentru Lotuko",
+        "Situat pe drumul Torit-Kapoeta",
+        "Loc marcat de monumente locale",
+        "Parte a istoriei militare regionale",
+        "Punct de referință în tradiția orală"
+      ]
+    },
+    {
+      "id": "malek-cms-mission-history-v2",
+      "descriptionAdvanced": "Misiunea Malek a fost prima stație a Societății Misionare a Bisericii (CMS) în Sudanul de Sud, fondată în 1906 de Archdeacon Archibald Shaw. Situată pe malul Nilului Alb, la sud de Bor, misiunea a introdus educația în limba engleză și a jucat un rol crucial în alfabetizarea și formarea primei generații de lideri sud-sudanezi. Este considerată 'leagănul bisericii anglicane' din țară. Istorie K8 – Biserica Anglicană și educația formală.",
+      "factsAdvanced": [
+        "Prima misiune CMS (1906)",
+        "Fondată de Archibald Shaw (Jiir)",
+        "Situată în statul Jonglei, lângă Bor",
+        "Leagănul educației anglicane",
+        "Prima școală formală din regiune",
+        "Sit de patrimoniu religios național"
+      ]
+    },
+    {
+      "id": "mongalla-provincial-capital-history-v2",
+      "descriptionAdvanced": "Mongalla a fost capitala provincială a statului Equatoria în timpul perioadei anglo-egiptene, înainte ca Juba să fie aleasă ca sediu administrativ. Orașul a fost un port înfloritor și un centru de putere colonială, având clădiri administrative impunătoare și o infrastructură modernă pentru acea vreme. Declinul său a început în anii 1930, dar Mongalla rămâne un sit istoric ce reflectă gloria administrativă trecută de pe malul Nilului. Istorie K8 – Evoluția capitalelor provinciale.",
+      "factsAdvanced": [
+        "Fostă capitală de provincie (1906-1930)",
+        "Port strategic pe Nilul Alb",
+        "Predecesoarea administrativă a orașului Juba",
+        "Ruine ale clădirilor coloniale",
+        "Centru istoric al puterii în Equatoria",
+        "Aproape de rezervația de vânat Mongalla"
+      ]
+    },
+    {
+      "id": "katire-logging-station-history-v2",
+      "descriptionAdvanced": "Stația de exploatare forestieră Katire, situată în inima Munților Imatong, a fost centrul industriei lemnului din Sudanul de Sud începând cu perioada colonială. Katire a procesat cantități uriașe de tec și cedru, având gatere moderne și o infrastructură de transport dedicată. Situl reflectă istoria utilizării resurselor naturale montane și rămâne un punct important pentru silvicultura durabilă în regiune. Geografie K8 – Silvicultura și resursele montane.",
+      "factsAdvanced": [
+        "Centru istoric de silvicultură",
+        "Situată în Munții Imatong",
+        "Specializată în lemn de tec și cedru",
+        "Fondată de administrația britanică",
+        "Include vechi gatere industriale",
+        "Zonă de biodiversitate forestieră înaltă"
+      ]
+    },
+    {
+      "id": "zubeir-pasha-fort-history-v2",
+      "descriptionAdvanced": "Fortul lui Zubeir Pasha reprezintă complexul fortificat construit de cel mai influent negustor de sclavi și guvernator din secolul al XIX-lea în Bahr el Ghazal. Fortul a fost centrul unei rețele comerciale și militare care se întindea până în Darfur și Egipt. Structura sa reflectă puterea imensă acumulată de Zubeir și complexitatea relațiilor dintre comercianții de pe Nil și imperiile vremii. Istorie K8 – Zubeir Pasha și puterea în Bahr el Ghazal.",
+      "factsAdvanced": [
+        "Sediul puterii lui Zubeir Pasha",
+        "Fortificație majoră în Bahr el Ghazal",
+        "Centru istoric al rețelelor comerciale",
+        "Sit de importanță istorică majoră",
+        "Legătură între Sudanul de Sud și Darfur",
+        "Amintire a epocii 'Zereba'"
+      ]
+    },
+    {
+      "id": "john-garang-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "Mausoleul John Garang din Juba este cel mai sacru monument național al Sudanului de Sud, adăpostind mormântul Dr. John Garang de Mabior, liderul mișcării de eliberare SPLM/A. Situat pe locul unde a fost proclamată independența în 2011, mausoleul este un simbol al sacrificiului, unității și speranței naționale. Este locul unde se desfășoară principalele ceremonii oficiale și pelerinaje ale cetățenilor. Istorie K8 – Părinții fondatori și independența.",
+      "factsAdvanced": [
+        "Locul de odihnă al lui John Garang",
+        "Cel mai important monument din Juba",
+        "Situat lângă sediul Parlamentului",
+        "Locul proclamării independenței (2011)",
+        "Găzduiește flacăra eternă a libertății",
+        "Centru pentru ceremoniile de Ziua Independenței"
+      ]
+    },
+    {
+      "id": "juba-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Juba este principala arenă sportivă a țării și sediul simbolic al fotbalului sud-sudanez. Situat în centrul capitalei, stadionul a fost martorul unor momente istorice, inclusiv primele meciuri internaționale după independență. Recent modernizat la standarde FIFA, acesta reprezintă pasiunea națională pentru sport și rolul acestuia în promovarea păcii și unității între diversele comunități. Geografie K7 – Sportul ca factor de coeziune socială.",
+      "factsAdvanced": [
+        "Principala arenă de fotbal a țării",
+        "Sediul echipei naționale 'Bright Stars'",
+        "Modernizat la standarde FIFA",
+        "Capacitate de aprox. 12.000 locuri",
+        "Situat în districtul central din Juba",
+        "Hub pentru evenimente culturale masive"
+      ]
+    },
+    {
+      "id": "freedom-bridge-juba-landmarks-v2",
+      "descriptionAdvanced": "Podul Libertății (Freedom Bridge) este prima structură permanentă de oțel peste Nilul Alb din Juba, fiind un simbol al cooperării internaționale și al progresului tehnologic. Finanțat de Japonia, podul a fost inaugurat în 2022 pentru a facilita transportul greu și a reduce congestia pe vechiul pod Juba. Acesta reprezintă coloana vertebrală a logisticii care conectează Sudanul de Sud cu portul Mombasa din Kenya. Geografie K8 – Infrastructura modernă și comerțul regional.",
+      "factsAdvanced": [
+        "Primul pod modern de oțel peste Nil",
+        "Donat de poporul japonez (JICA)",
+        "Lungime de 560 metri",
+        "Inaugurat în mai 2022",
+        "Vital pentru coridorul de transport est-african",
+        "O capodoperă a ingineriei moderne în Juba"
+      ]
+    },
+    {
+      "id": "st-theresa-cathedral-juba-landmarks-v2",
+      "descriptionAdvanced": "Catedrala Sfânta Tereza, situată în districtul Kator din Juba, este cea mai mare biserică catolică din Sudanul de Sud și sediul Arhiepiscopiei de Juba. Construcția sa impunătoare din cărămidă roșie este un reper arhitectural al capitalei, fiind vizibilă de la distanță. Catedrala este nu doar un loc de cult, ci și un centru activ pentru servicii sociale, educație și dialog pentru pace. Istorie K8 – Rolul bisericii în societatea sud-sudaneză.",
+      "factsAdvanced": [
+        "Sediul Arhiepiscopiei Catolice de Juba",
+        "Situată în districtul istoric Kator",
+        "Arhitectură celebră din cărămidă roșie",
+        "Cea mai mare catedrală din țară",
+        "Centru pentru pelerinaje creștine",
+        "Găzduiește evenimente ecumenice majore"
+      ]
+    },
+    {
+      "id": "all-saints-cathedral-juba-landmarks-v2",
+      "descriptionAdvanced": "Catedrala All Saints (Toți Sfinții) este sediul Bisericii Episcopale din Sudanul de Sud și un centru spiritual major în Juba. Situată strategic în centrul orașului, catedrala este cunoscută pentru corurile sale vibrante și pentru rolul său activ în procesele de reconciliere națională. Arhitectura sa modernă și spațiile largi reflectă creșterea rapidă a comunității anglicane în perioada post-independență. Istorie K8 – Diversitatea denominațională și pacea.",
+      "factsAdvanced": [
+        "Catedrala principală a Bisericii Episcopale",
+        "Situată în inima capitalei Juba",
+        "Centru pentru rugăciune și reconciliere",
+        "Cunoscută pentru muzica corală remarcabilă",
+        "Punct de întâlnire pentru liderii religioși",
+        "Instituție activă în educația civică"
+      ]
+    },
+    {
+      "id": "juba-university-landmarks-v2",
+      "descriptionAdvanced": "Universitatea din Juba, fondată în 1975, este cea mai prestigioasă instituție de învățământ superior din țară și un simbol al rezilienței intelectuale. Campusul său central din Juba găzduiește clădiri istorice și facultăți care au format elitele politice și profesionale ale Sudanului de Sud. Universitatea joacă un rol crucial în cercetarea problemelor naționale și în promovarea identității academice sud-sudaneze. Geografie K7 – Rolul universităților în dezvoltarea națională.",
+      "factsAdvanced": [
+        "Cea mai veche și mare universitate de stat",
+        "Fondată în 1975",
+        "Campus situat în centrul capitalei",
+        "Centru de excelență academică",
+        "Formator al liderilor naționali",
+        "Hub pentru cercetare și cultură"
+      ]
+    },
+    {
+      "id": "nyakuron-cultural-center-landmarks-v2",
+      "descriptionAdvanced": "Centrul Cultural Nyakuron este inima vie a artelor și tradițiilor din Juba, fiind cel mai mare spațiu dedicat festivalurilor, concertelor și expozițiilor din țară. Centrul dispune de un amfiteatru în aer liber și săli de conferințe, fiind locul unde se întâlnesc diversele culturi ale celor peste 60 de grupuri etnice. Este un simbol al unității prin diversitate și un punct de atracție major pentru turiști. Geografie K7 – Spațiile culturale și identitatea etnică.",
+      "factsAdvanced": [
+        "Principalul loc de spectacole din Juba",
+        "Găzduiește Festivalul Cultural Național",
+        "Amfiteatru spectaculos în aer liber",
+        "Hub pentru artiștii și muzicienii locali",
+        "Situat în districtul Nyakuron",
+        "Promovează unitatea în diversitate"
+      ]
+    },
+    {
+      "id": "national-legislative-assembly-juba-landmarks-v2",
+      "descriptionAdvanced": "Adunarea Legislativă Națională (Parlamentul) este sediul democrației în Sudanul de Sud, fiind locul unde reprezentanții poporului dezbat și adoptă legile țării. Clădirea, situată în apropierea Mausoleului John Garang, este un punct de reper politic major și un simbol al suveranității statului. Arhitectura sa reflectă funcția sa solemnă de for legislativ suprem al tinerei republici. Istorie K8 – Structura guvernării și democrația.",
+      "factsAdvanced": [
+        "Sediul Parlamentului Sudanului de Sud",
+        "Centrul puterii legislative naționale",
+        "Situat în zona guvernamentală din Juba",
+        "Locul dezbaterilor politice majore",
+        "Simbol al suveranității naționale",
+        "Punct de interes turistic oficial"
+      ]
+    },
+    {
+      "id": "jubek-memorial-landmarks-v2",
+      "descriptionAdvanced": "Memorialul Jubek este un monument istoric dedicat lui Jubek, o figură legendară a poporului Bari, după care a fost numit orașul Juba. Monumentul este situat în locul unde se crede că este înmormântat acesta și reprezintă legătura profundă a capitalei cu istoria sa locală pre-colonială. Este un loc de respect pentru comunitatea Bari și un punct de referință pentru identitatea orașului. Istorie K8 – Figuri legendare și toponimia urbană.",
+      "factsAdvanced": [
+        "Dedicat liderului legendar Bari, Jubek",
+        "Originea numelui orașului Juba",
+        "Monument situat în centrul orașului",
+        "Loc de mare importanță pentru poporul Bari",
+        "Sursă de identitate istorică locală",
+        "Sit de pelerinaj cultural"
+      ]
+    },
+    {
+      "id": "john-garang-memorial-university-bor-landmarks-v2",
+      "descriptionAdvanced": "Universitatea Memorială Dr. John Garang din Bor este o instituție de învățământ superior vitală pentru dezvoltarea regiunii Jonglei. Fondată în memoria liderului eliberării, universitatea se concentrează pe studii agricole, științe și tehnologie, având misiunea de a reconstrui capitalul uman al țării. Prezența sa în Bor a transformat orașul într-un centru academic vibrant și un hub pentru inovație rurală. Geografie K7 – Educația ca motor al reconstrucției.",
+      "factsAdvanced": [
+        "Numită după Dr. John Garang",
+        "Situată în Bor, statul Jonglei",
+        "Focalizată pe agricultură și tehnologie",
+        "Instituție cheie pentru tineretul din est",
+        "Campus în plină expansiune",
+        "Motor de dezvoltare pentru orașul Bor"
+      ]
+    },
+    {
+      "id": "wau-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul din Wau este a doua arenă sportivă ca mărime din țară și inima vieții atletice din regiunea Bahr el Ghazal. Stadionul găzduiește meciuri de fotbal inter-statale și evenimente atletice, fiind renumit pentru atmosfera sa vibrantă și pentru descoperirea multor talente sportive naționale. Reprezintă un punct de mândrie locală și un spațiu esențial pentru recreerea tinerilor din Wau. Geografie K7 – Infrastructura sportivă regională.",
+      "factsAdvanced": [
+        "Cel mai mare stadion din vestul țării",
+        "Hub sportiv pentru Bahr el Ghazal",
+        "Gazda campionatelor inter-școlare",
+        "Situat în centrul orașului Wau",
+        "Capacitate de mii de spectatori",
+        "Loc de descoperire a talentelor fotbalistice"
+      ]
+    }
+  ]
+}

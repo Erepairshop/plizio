@@ -24,7 +24,16 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["1897-ben fejezték be.", "A Habib Bourguiba sugárúton található."],
       ro: ["A fost finalizată în 1897.", "Situată pe Bulevardul Habib Bourguiba."],
       en: ["Completed in 1897.", "Located on Avenue Habib Bourguiba."]
-    }, image: "/poi-images/tunis-st-vincent-de-paul-landmarks-v2.webp"},
+    }, image: "/poi-images/tunis-st-vincent-de-paul-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kathedrale St. Vincent de Paul ist eines der bedeutendsten Wahrzeichen der französischen Kolonialzeit in Tunis und eine markante Sehenswürdigkeit in der Neustadt. Eingeweiht im Jahr 1897, zeigt sie eine beeindruckende Architektur, die maurische, gotische und byzantinische Stilelemente vereint. Sie steht direkt gegenüber der französischen Botschaft an der Avenue Habib Bourguiba und ist ein stummer Zeuge der komplexen Geschichte Tunesiens zwischen Orient und Okzident. Für Geschichtsinteressierte ist der Bau ein Ausgangspunkt für das Verständnis der kolonialen Stadtplanung. In der Klasse K7 erfahren Schüler über architektonische Stile im kolonialen Kontext.",
+      hu: "A Szent Vince de Paul-katedrális a tuniszi Ville Nouvelle egyik legmeghatározóbb épülete, amely lenyűgöző neomór és neoromán stílusú építészeti elemekkel büszkélkedik. A francia gyarmati időszakból fennmaradt épület a város multikulturális múltjának egyik szimbóluma. Művészettörténet K8 — építészet."
+    },
+    factsAdvanced: {
+      de: ["Die Kathedrale wurde zu Ehren des Heiligen Vinzenz von Paul erbaut.", "Das Bauwerk ist ein Paradebeispiel für eklektizistische Architektur.", "Sie liegt im Zentrum des modernen Geschäftsviertels von Tunis.", "Die Kathedrale ist die größte erhaltene christliche Kirche in Tunesien.", "Der Bau dauerte von 1893 bis 1897.", "Sie dient heute als Sitz des Erzbischofs von Tunis."],
+      hu: ["A katedrális 1897-ben épült fel.", "Építészeti stílusa egyedülálló ötvözet.", "Tunisz legfontosabb keresztény temploma volt.", "A város központjában, a Place de l'Indépendance-on található.", "Az épület homlokzata különleges díszítéssel rendelkezik.", "Ma is a tuniszi katolikus közösség központja."]
+    }
+  },
   {
     id: "rades-stade-olympique-landmarks-v2",
     type: "landmark",
@@ -47,7 +56,16 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["2001-ben nyitották meg.", "60 000 néző befogadására alkalmas."],
       ro: ["Deschis în 2001.", "Are o capacitate de 60.000 de spectatori."],
       en: ["Opened in 2001.", "Has a seating capacity of 60,000."]
-    }, image: "/poi-images/rades-stade-olympique-landmarks-v2.webp"},
+    }, image: "/poi-images/rades-stade-olympique-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Olympiastadion von Radès ist das bedeutendste Sportbauwerk Tunesiens und Schauplatz zahlreicher nationaler und internationaler Sportereignisse. Erbaut für die Afrikaspiele 2001, bietet es modernste Ausstattung und eine beeindruckende Architektur mit einem Kapazitätsvolumen von über 60.000 Zuschauern. Es ist das Symbol für die sportliche Ambition des Landes und ein moderner Treffpunkt für das soziale Leben. Für Schüler ist das Stadion ein Beispiel für zeitgenössische Architektur und die gesellschaftliche Bedeutung von Großereignissen. In der Klasse K7 lernen die Schüler, wie Sporteinrichtungen die urbane Landschaft prägen.",
+      hu: "A Radès-i Olimpiai Stadion Tunézia legmodernebb és legnagyobb sportlétesítménye, amelyet a 2001-es Mediterrán Játékokra építettek. A létesítmény nemcsak a labdarúgás, hanem számos más sportág központja is az országban. Testnevelés K7 — modern sportlétesítmények."
+    },
+    factsAdvanced: {
+      de: ["Das Stadion wurde für die Afrikaspiele 2001 eröffnet.", "Es hat eine Kapazität von 60.000 Plätzen.", "Das Stadion gilt als eines der modernsten Sportstadien in Nordafrika.", "Es ist die Heimspielstätte der tunesischen Fußballnationalmannschaft.", "Die Dachkonstruktion ist ein markantes technisches Merkmal.", "Das Stadion ist Teil eines größeren olympischen Sportparks."],
+      hu: ["A stadion 60 000 néző befogadására képes.", "2001-ben adták át a Mediterrán Játékokra.", "Ez Tunézia legnagyobb sportlétesítménye.", "Az ország nemzeti labdarúgó-válogatottjának otthona.", "A létesítmény megfelel a nemzetközi FIFA-szabványoknak.", "A modern tunéziai sportfejlesztés egyik csúcspontja."]
+    }
+  },
   {
     id: "tunis-cite-culture-landmarks-v2",
     type: "landmark",
@@ -70,7 +88,14 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["2018-ban nyitották meg hivatalosan.", "Kilenc hektáron terül el."],
       ro: ["Deschis oficial în 2018.", "Se întinde pe o suprafață de nouă hectare."],
       en: ["Officially opened in 2018.", "Covers an area of nine hectares."]
-    }, image: "/poi-images/tunis-cite-culture-landmarks-v2.webp"},
+    }, image: "/poi-images/tunis-cite-culture-landmarks-v2.webp",
+    descriptionAdvanced: {
+      hu: "A tuniszi Cite de la Culture az ország legkorszerűbb kulturális központja, amely modern építészeti megoldásokkal ötvözi a színházat, az operát és a kiállításokat. A város szívében található létesítmény a tunéziai művészeti élet legújabb központi helyszíne. Művészet K8 — modern építészet."
+    },
+    factsAdvanced: {
+      hu: ["A kulturális központot 2018-ban avatták fel.", "Építészeti kialakítása ultramodern stílusú.", "Több színház és opera-színpad található benne.", "A tunéziai kortárs művészet egyik legfőbb színtere.", "Helyet ad nemzetközi kulturális fesztiváloknak is.", "A központ Tunisz központjában kapott helyet."]
+    }
+  },
   {
     id: "tunis-uhrenturm-landmarks-v2",
     type: "landmark",
@@ -93,7 +118,14 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["2001-ben emelték.", "A Habib Bourguiba sugárút keleti végén áll."],
       ro: ["A fost ridicat în 2001.", "Situat la capătul estic al Bulevardului Habib Bourguiba."],
       en: ["Erected in 2001.", "Located at the eastern end of Avenue Habib Bourguiba."]
-    }, image: "/poi-images/tunis-uhrenturm-landmarks-v2.webp"},
+    }, image: "/poi-images/tunis-uhrenturm-landmarks-v2.webp",
+    descriptionAdvanced: {
+      hu: "A tuniszi óratorony a város modern központjának egyik legismertebb szimbóluma, amely a Bourguiba sugárúton található. A kecses, modern építmény az ország átalakulását jelképezi és a tuniszi közösségi élet egyik találkozási pontja. Művészet K7 — városi szimbólumok."
+    },
+    factsAdvanced: {
+      hu: ["Az óratorony a város modern részén áll.", "Hivatalosan 2001-ben állították fel.", "A Bourguiba sugárút központi látványossága.", "Kialakítása letisztult és futurisztikus.", "A tunisziak számára a város modern arcát képviseli.", "Tökéletes fotózási helyszín a látogatóknak."]
+    }
+  },
   {
     id: "tunis-rathaus-landmarks-v2",
     type: "landmark",
@@ -116,7 +148,14 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Az 1990-es évek végén épült.", "Tunisz városi önkormányzatának székhelye."],
       ro: ["Construită la sfârșitul anilor 1990.", "Sediul guvernului municipal din Tunis."],
       en: ["Built in the late 1990s.", "Seat of the Tunis municipal government."]
-    }, image: "/poi-images/tunis-rathaus-landmarks-v2.webp"},
+    }, image: "/poi-images/tunis-rathaus-landmarks-v2.webp",
+    descriptionAdvanced: {
+      hu: "A tuniszi Városháza az óváros szélén, a kormányzati negyedben található épület, amely a város közigazgatási életének központja. Az épület stílusa a hagyományos tunéziai építészet és a modern hivatali követelmények ötvözete. Társadalom K7 — közigazgatás."
+    },
+    factsAdvanced: {
+      hu: ["A Városháza a város közigazgatási központja.", "Hagyományos és modern építészeti jegyeket ötvöz.", "A kormányzati negyedben kapott helyet.", "Fontos szerepet játszik a város irányításában.", "Épülete az óváros és az új városrész találkozásánál áll.", "Történelmileg is meghatározó szerepet töltött be."]
+    }
+  },
   {
     id: "djerba-ghriba-synagoge-landmarks-v2",
     type: "landmark",

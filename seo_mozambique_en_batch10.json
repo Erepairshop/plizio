@@ -1,0 +1,111 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tite-hochland-relief-v2",
+      "descriptionAdvanced": "The Tete Highlands, located primarily in the northern Angónia District of Tete Province, present a dramatic topographical shift from the sweltering, low-lying Zambezi valley. This elevated plateau region sits well above 1,000 meters in altitude, creating a distinctly cool, temperate microclimate that is highly unusual for central Mozambique. The highlands' reliable rainfall and rich, loamy soils make it the undisputed 'breadbasket' of the province, allowing for the intensive cultivation of maize, potatoes, and beans. The rolling, green terrain of the Tete Highlands more closely resembles the topography of neighboring Malawi than the arid Mozambican interior. Geography K8 — High-altitude agriculture, temperate microclimates, and regional breadbaskets.",
+      "factsAdvanced": [
+        "An elevated plateau region located in northern Tete Province.",
+        "Averages over 1,000 meters in elevation, creating a cool climate.",
+        "Considered the most productive agricultural zone in the province.",
+        "Topographically and climatically similar to neighboring Malawi.",
+        "Receives significantly higher and more reliable rainfall than the Zambezi valley.",
+        "The terrain consists of rolling hills and fertile, loamy valleys."
+      ]
+    },
+    {
+      "id": "incomati-tal-relief-v2",
+      "descriptionAdvanced": "The Incomati Valley is a massive, highly fertile alluvial plain located in Maputo Province. Carved by the meandering Incomati River as it flows from the South African escarpment toward the Indian Ocean, the valley features incredibly flat topography composed of deep, nutrient-rich river sediments. This flat relief is ideal for massive, mechanized agriculture, making the valley the center of Mozambique's lucrative sugarcane industry, dominated by massive estates like Xinavane and Maragra. However, this same flat, low-lying topography makes the valley exceptionally vulnerable to catastrophic, widespread flooding during periods of intense cyclonic rainfall. Geography K8 — Alluvial plains, river valleys, and flood vulnerability.",
+      "factsAdvanced": [
+        "A broad, flat alluvial plain located north of Maputo.",
+        "Carved by the Incomati River flowing from South Africa.",
+        "Composed of incredibly deep, fertile river sediment deposits.",
+        "The topographical heart of Mozambique's massive sugarcane industry.",
+        "Highly susceptible to devastating, widespread seasonal flooding.",
+        "The flat terrain is perfectly suited for massive mechanized irrigation."
+      ]
+    },
+    {
+      "id": "bazaruto-duenen-relief-v2",
+      "descriptionAdvanced": "The Bazaruto Dunes form one of the most spectacular and dynamic coastal topographies in Africa, dominating the eastern, ocean-facing side of Bazaruto Island. These massive, towering sand dunes can reach heights of over 100 meters and are constantly shaped and shifted by the relentless trade winds blowing off the Indian Ocean. The incredibly steep, golden slopes of the dunes plunge directly into the bright turquoise water, creating a stunning visual contrast. Geologically, these massive sand accumulations play a critical role in protecting the island's fragile interior freshwater lakes and vegetation from saltwater intrusion and ocean storms. Geography K8 — Coastal dune fields, aeolian processes, and barrier islands.",
+      "factsAdvanced": [
+        "Located on the eastern, ocean-facing side of Bazaruto Island.",
+        "Massive, shifting sand dunes that can exceed 100 meters in height.",
+        "Constantly reshaped by powerful oceanic trade winds (aeolian processes).",
+        "The steep dune faces plunge directly into the Indian Ocean.",
+        "Act as a critical geological barrier protecting the island's interior.",
+        "A major draw for extreme sports like dune boarding."
+      ]
+    },
+    {
+      "id": "limpopo-delta-relief-v2",
+      "descriptionAdvanced": "The Limpopo Delta is the complex, low-lying coastal zone where the mighty Limpopo River finally empties into the Indian Ocean near the city of Xai-Xai. Unlike the massive, swampy Zambezi delta, the Limpopo's mouth is heavily influenced by intense tidal action and longshore ocean currents, which frequently create shifting, massive sandbars that can block the river's exit during the dry season. The incredibly flat relief of the delta region means that during major flood events, such as in the year 2000, the ocean and the swollen river merge, creating a massive, terrifying inland sea that inundates hundreds of square kilometers. Geography K8 — Estuarine geomorphology, sandbar formation, and flood plains.",
+      "factsAdvanced": [
+        "Located near the city of Xai-Xai in Gaza Province.",
+        "The point where the Limpopo River empties into the Indian Ocean.",
+        "Characterized by highly dynamic, shifting coastal sandbars.",
+        "The incredibly flat topography is highly prone to catastrophic flooding.",
+        "Tidal action strongly influences the flow of the river near the mouth.",
+        "Features extensive coastal dune cordons immediately adjacent to the river."
+      ]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "descriptionAdvanced": "The Gilé Massif refers to the dramatic, heavily eroded granite and syenite rock formations that violently pierce the canopy of the Gilé National Reserve in Zambezia Province. These towering, dome-shaped inselbergs are remnants of ancient, deep-earth magma chambers exposed by millions of years of erosion. Rising hundreds of meters above the flat miombo woodland, the massif's sheer, smooth rock faces are practically impossible to climb without specialized gear. These massive rock islands trap moisture from passing clouds, supporting dense, isolated pockets of highly specialized vegetation at their bases and in their deep, shaded crevices. Geography K8 — Inselbergs, igneous intrusions, and differential erosion.",
+      "factsAdvanced": [
+        "Located within the Gilé National Reserve in Zambezia Province.",
+        "A series of massive, dome-shaped granite and syenite inselbergs.",
+        "Formed by ancient underground magma chambers exposed by millions of years of erosion.",
+        "Features incredibly sheer, smooth, and un-vegetated rock faces.",
+        "Traps atmospheric moisture, creating localized humid microclimates.",
+        "Acts as an unscalable refuge for rare birds and raptors."
+      ]
+    },
+    {
+      "id": "cahora-bassa-schlucht-relief-v2",
+      "descriptionAdvanced": "The Cahora Bassa Gorge is a terrifyingly deep, incredibly narrow canyon carved by the Zambezi River through the hard, volcanic rock of the Songo plateau in Tete Province. Before the construction of the massive dam, the gorge was a violent, unnavigable stretch of furious whitewater rapids compressed between towering, almost vertical cliffs. The sheer, solid rock walls of the gorge provided the perfect, geologically stable anchor points required to build the colossal 171-meter-high concrete arch dam. Today, standing at the edge of the gorge below the dam walls offers a dizzying perspective on the immense scale of both the natural topography and human engineering. Geography K8 — River gorges, dam engineering, and geomorphology.",
+      "factsAdvanced": [
+        "A deep, narrow canyon cut by the Zambezi River in Tete Province.",
+        "Composed of incredibly hard, weather-resistant volcanic rock.",
+        "Historically a violent, totally unnavigable section of whitewater rapids.",
+        "The sheer, solid cliffs provided the exact topography needed for the massive dam.",
+        "The gorge walls drop almost vertically for hundreds of meters.",
+        "The site of the 171-meter-high Cahora Bassa Dam wall."
+      ]
+    },
+    {
+      "id": "niassa-hochland-relief-v2",
+      "descriptionAdvanced": "The Niassa Highlands form a vast, rugged, and highly elevated region dominating the western half of Niassa Province, hugging the eastern shore of Lake Malawi. This ancient, block-faulted topography sits on the edge of the Great Rift Valley, creating a dramatic, steep escarpment that plunges sharply down toward the lake. The highlands themselves are a complex, rolling plateau averaging over 1,000 meters in altitude, characterized by cool, wet weather and dense pine and eucalyptus plantations around the capital, Lichinga. The rugged, broken relief makes the region incredibly difficult to traverse, contributing to Niassa's historical status as Mozambique's most isolated province. Geography K8 — Rift valley escarpments, block-faulting, and highland plateaus.",
+      "factsAdvanced": [
+        "A vast, elevated plateau region in western Niassa Province.",
+        "Forms the steep, dramatic eastern escarpment of the Great Rift Valley.",
+        "Averages over 1,000 meters in altitude, featuring a cool, wet climate.",
+        "Topography is characterized by ancient, rugged, block-faulted terrain.",
+        "The high elevation supports extensive commercial pine and eucalyptus forestry.",
+        "The incredibly difficult terrain contributes to the province's extreme isolation."
+      ]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "descriptionAdvanced": "The Mossuril Coast (Baía de Mossuril) is a stunning, highly complex coastal environment located in Nampula Province, directly opposite the historic Island of Mozambique. The topography here is defined by a massive, incredibly shallow, and sheltered bay protected by coral reefs and long, sweeping sand spits. During low tide, the ocean retreats for kilometers, exposing a vast, blindingly white expanse of sand and seagrass flats. The shoreline is densely fringed with thick mangrove forests and towering palm trees. This calm, shallow relief made the area a historically perfect, safe anchorage for the shallow-draft dhows of early Swahili and Arab traders. Geography K8 — Shallow bays, tidal flats, and sheltered coastlines.",
+      "factsAdvanced": [
+        "Located in Nampula Province, adjacent to the Island of Mozambique.",
+        "Characterized by an incredibly shallow, highly sheltered coastal bay.",
+        "Features massive tidal flats that expose kilometers of sand at low tide.",
+        "Protected from the rough Indian Ocean by extensive offshore coral reefs.",
+        "The calm, shallow topography made it an ideal historic anchorage for Arab dhows.",
+        "The coastline is deeply fringed with dense, protective mangrove forests."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3018 @@
+{
+  "lang": "hu",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "montevideo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Montevideo ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Montevideo jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Montevideo este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Montevideo is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "ciudad-de-la-costa-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ciudad De La Costa ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Ciudad De La Costa jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Ciudad De La Costa este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Ciudad De La Costa is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "las-piedras-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Las Piedras ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Las Piedras jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Las Piedras este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Las Piedras is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "pando-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pando ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Pando jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Pando este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Pando is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "la-paz-cities-v2",
+      "descriptionAdvanced": {
+        "de": "La Paz ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "La Paz jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "La Paz este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "La Paz is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "canelones-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Canelones ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Canelones jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Canelones este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Canelones is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "santa-lucia-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Santa Lucia ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Santa Lucia jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Santa Lucia este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Santa Lucia is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "progreso-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Progreso ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Progreso jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Progreso este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Progreso is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "paso-carrasco-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Paso Carrasco ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Paso Carrasco jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Paso Carrasco este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Paso Carrasco is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "barros-blancos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Barros Blancos ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Barros Blancos jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Barros Blancos este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Barros Blancos is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "colonia-nicolich-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Colonia Nicolich ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Colonia Nicolich jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Colonia Nicolich este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Colonia Nicolich is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "sauce-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sauce ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Sauce jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Sauce este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Sauce is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "san-ramon-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Ramon ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "San Ramon jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "San Ramon este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "San Ramon is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "san-jacinto-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Jacinto ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "San Jacinto jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "San Jacinto este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "San Jacinto is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "toledo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Toledo ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Toledo jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Toledo este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Toledo is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "atlantida-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Atlantida ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Atlantida jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Atlantida este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Atlantida is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "maldonado-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Maldonado ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Maldonado jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Maldonado este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Maldonado is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "punta-del-este-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Punta Del Este ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Punta Del Este jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Punta Del Este este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Punta Del Este is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "san-carlos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Carlos ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "San Carlos jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "San Carlos este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "San Carlos is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "piriapolis-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Piriapolis ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Piriapolis jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Piriapolis este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Piriapolis is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "pan-de-azucar-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pan De Azucar ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Pan De Azucar jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Pan De Azucar este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Pan De Azucar is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "aigua-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Aigua ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Aigua jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Aigua este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Aigua is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "salto-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Salto ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Salto jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Salto este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Salto is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "paysandu-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Paysandu ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Paysandu jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Paysandu este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Paysandu is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "guichon-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Guichon ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Guichon jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Guichon este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Guichon is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "rivera-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rivera ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Rivera jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Rivera este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Rivera is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "tranqueras-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tranqueras ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Tranqueras jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Tranqueras este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Tranqueras is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "minas-de-corrales-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Minas De Corrales ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Minas De Corrales jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Minas De Corrales este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Minas De Corrales is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "tacuarembo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tacuarembo ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Tacuarembo jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Tacuarembo este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Tacuarembo is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "paso-de-los-toros-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Paso De Los Toros ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Paso De Los Toros jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Paso De Los Toros este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Paso De Los Toros is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "san-gregorio-de-polanco-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Gregorio De Polanco ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "San Gregorio De Polanco jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "San Gregorio De Polanco este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "San Gregorio De Polanco is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "melo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Melo ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Melo jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Melo este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Melo is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "rio-branco-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rio Branco ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Rio Branco jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Rio Branco este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Rio Branco is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "fraile-muerto-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Fraile Muerto ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Fraile Muerto jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Fraile Muerto este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Fraile Muerto is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "artigas-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Artigas ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Artigas jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Artigas este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Artigas is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "bella-union-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bella Union ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Bella Union jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Bella Union este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Bella Union is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "tomas-gomensoro-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tomas Gomensoro ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Tomas Gomensoro jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Tomas Gomensoro este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Tomas Gomensoro is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "mercedes-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mercedes ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Mercedes jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Mercedes este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Mercedes is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "dolores-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Dolores ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Dolores jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Dolores este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Dolores is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "cardona-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cardona ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Cardona jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Cardona este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Cardona is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "minas-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Minas ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Minas jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Minas este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Minas is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "jose-pedro-varela-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Jose Pedro Varela ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Jose Pedro Varela jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Jose Pedro Varela este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Jose Pedro Varela is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "san-jose-de-mayo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Jose De Mayo ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "San Jose De Mayo jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "San Jose De Mayo este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "San Jose De Mayo is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "ciudad-del-plata-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ciudad Del Plata ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Ciudad Del Plata jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Ciudad Del Plata este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Ciudad Del Plata is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "libertad-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Libertad ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Libertad jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Libertad este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Libertad is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "rodriguez-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rodriguez ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Rodriguez jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Rodriguez este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Rodriguez is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "durazno-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Durazno ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Durazno jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Durazno este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Durazno is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "sarandi-del-yi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sarandi Del Yi ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Sarandi Del Yi jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Sarandi Del Yi este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Sarandi Del Yi is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "villa-del-carmen-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Villa Del Carmen ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Villa Del Carmen jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Villa Del Carmen este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Villa Del Carmen is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "florida-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Florida ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Florida jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Florida este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Florida is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "sarandi-grande-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sarandi Grande ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Sarandi Grande jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Sarandi Grande este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Sarandi Grande is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "casupa-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Casupa ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Casupa jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Casupa este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Casupa is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "treinta-y-tres-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Treinta Y Tres ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Treinta Y Tres jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Treinta Y Tres este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Treinta Y Tres is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "ejido-de-treinta-y-tres-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ejido De Treinta Y Tres ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Ejido De Treinta Y Tres jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Ejido De Treinta Y Tres este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Ejido De Treinta Y Tres is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "vergara-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Vergara ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Vergara jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Vergara este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Vergara is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "rocha-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rocha ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Rocha jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Rocha este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Rocha is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "chuy-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Chuy ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Chuy jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Chuy este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Chuy is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "castillos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Castillos ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Castillos jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Castillos este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Castillos is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "lascano-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Lascano ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Lascano jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Lascano este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Lascano is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "la-paloma-cities-v2",
+      "descriptionAdvanced": {
+        "de": "La Paloma ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "La Paloma jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "La Paloma este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "La Paloma is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "colonia-del-sacramento-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Colonia Del Sacramento ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Colonia Del Sacramento jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Colonia Del Sacramento este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Colonia Del Sacramento is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "carmelo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Carmelo ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Carmelo jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Carmelo este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Carmelo is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "juan-lacaze-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Juan Lacaze ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Juan Lacaze jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Juan Lacaze este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Juan Lacaze is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "nueva-helvecia-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Nueva Helvecia ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Nueva Helvecia jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Nueva Helvecia este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Nueva Helvecia is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "rosario-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rosario ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Rosario jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Rosario este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Rosario is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "nueva-palmira-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Nueva Palmira ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Nueva Palmira jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Nueva Palmira este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Nueva Palmira is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "tarariras-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tarariras ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Tarariras jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Tarariras este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Tarariras is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "fray-bentos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Fray Bentos ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Fray Bentos jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Fray Bentos este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Fray Bentos is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "young-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Young ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Young jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Young este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Young is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    },
+    {
+      "id": "trinidad-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Trinidad ist eine bedeutende Stadt in Uruguay. Die Region spielt eine zentrale Rolle in der Landwirtschaft und im Handel. Die lokale Kultur spiegelt die Geschichte und Traditionen des Landes wider, während sich die Stadt stetig weiterentwickelt.",
+        "hu": "Trinidad jelentős város Uruguayban. A régió kulcsfontosságú szerepet játszik a mezőgazdaságban és a kereskedelemben. A helyi kultúra hűen tükrözi az ország történelmét és hagyományait, miközben a város folyamatosan fejlődik.",
+        "ro": "Trinidad este un oraș important în Uruguay. Regiunea joacă un rol central în agricultură și comerț. Cultura locală reflectă istoria și tradițiile țării, în timp ce orașul continuă să se dezvolte constant.",
+        "en": "Trinidad is an important city in Uruguay. The region plays a central role in agriculture and trade. The local culture reflects the country's history and traditions, while the city continues to develop constantly."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde strategisch in Uruguay gegründet.",
+          "Das lokale Klima begünstigt die Landwirtschaft.",
+          "Wichtige kulturelle Veranstaltungen finden regelmäßig statt.",
+          "Die Infrastruktur wird kontinuierlich verbessert.",
+          "Die Region hat eine reiche historische Bedeutung.",
+          "Handel und Dienstleistungen prägen die lokale Wirtschaft."
+        ],
+        "hu": [
+          "A város stratégiai ponton alakult Uruguayban.",
+          "A helyi éghajlat kedvez a mezőgazdaságnak.",
+          "Rendszeresen tartanak fontos kulturális eseményeket.",
+          "Az infrastruktúrát folyamatosan fejlesztik.",
+          "A régió gazdag történelmi jelentőséggel bír.",
+          "A kereskedelem és a szolgáltatások meghatározzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Orașul a fost fondat strategic în Uruguay.",
+          "Clima locală favorizează agricultura.",
+          "Evenimente culturale importante au loc periodic.",
+          "Infrastructura este îmbunătățită constant.",
+          "Regiunea are o semnificație istorică bogată.",
+          "Comerțul și serviciile definesc economia locală."
+        ],
+        "en": [
+          "The city was strategically founded in Uruguay.",
+          "The local climate favors agriculture.",
+          "Important cultural events take place regularly.",
+          "Infrastructure is continuously improved.",
+          "The region has rich historical significance.",
+          "Trade and services define the local economy."
+        ]
+      }
+    }
+  ]
+}

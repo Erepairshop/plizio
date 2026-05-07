@@ -1,0 +1,934 @@
+[
+  {
+    "id": "misrata-cities-v2",
+    "name": "Misrata"
+  },
+  {
+    "id": "bayda-cities-v2",
+    "name": "Al Bayda"
+  },
+  {
+    "id": "zawiya-cities-v2",
+    "name": "Zawiya"
+  },
+  {
+    "id": "zliten-cities-v2",
+    "name": "Zliten"
+  },
+  {
+    "id": "sirte-cities-v2",
+    "name": "Sirte"
+  },
+  {
+    "id": "tobruk-cities-v2",
+    "name": "Tobruk"
+  },
+  {
+    "id": "ajdabiya-cities-v2",
+    "name": "Ajdabiya"
+  },
+  {
+    "id": "derna-cities-v2",
+    "name": "Derna"
+  },
+  {
+    "id": "sabha-cities-v2",
+    "name": "Sabha"
+  },
+  {
+    "id": "khoms-cities-v2",
+    "name": "Khoms"
+  },
+  {
+    "id": "bani-walid-cities-v2",
+    "name": "Bani Walid"
+  },
+  {
+    "id": "kufra-cities-v2",
+    "name": "Al Jawf (Kufra)"
+  },
+  {
+    "id": "marj-cities-v2",
+    "name": "Marj"
+  },
+  {
+    "id": "tarhuna-cities-v2",
+    "name": "Tarhuna"
+  },
+  {
+    "id": "zuwara-cities-v2",
+    "name": "Zuwara"
+  },
+  {
+    "id": "gharyan-cities-v2",
+    "name": "Gharyan"
+  },
+  {
+    "id": "sabratha-cities-v2",
+    "name": "Sabratha"
+  },
+  {
+    "id": "al-jamil-cities-v2",
+    "name": "Al Jamil"
+  },
+  {
+    "id": "surman-cities-v2",
+    "name": "Surman"
+  },
+  {
+    "id": "yefren-cities-v2",
+    "name": "Yefren"
+  },
+  {
+    "id": "nalut-cities-v2",
+    "name": "Nalut"
+  },
+  {
+    "id": "murzuq-cities-v2",
+    "name": "Murzuq"
+  },
+  {
+    "id": "awbari-cities-v2",
+    "name": "Awbari (Ubari)"
+  },
+  {
+    "id": "ghat-cities-v2",
+    "name": "Ghat"
+  },
+  {
+    "id": "ghadames-cities-v2",
+    "name": "Ghadames"
+  },
+  {
+    "id": "hun-cities-v2",
+    "name": "Hun"
+  },
+  {
+    "id": "waddan-cities-v2",
+    "name": "Waddan"
+  },
+  {
+    "id": "brak-cities-v2",
+    "name": "Brak"
+  },
+  {
+    "id": "al-qatrun-cities-v2",
+    "name": "Al Qatrun"
+  },
+  {
+    "id": "zintan-cities-v2",
+    "name": "Zintan"
+  },
+  {
+    "id": "mizda-cities-v2",
+    "name": "Mizda"
+  },
+  {
+    "id": "shahhat-cities-v2",
+    "name": "Shahhat"
+  },
+  {
+    "id": "susa-cities-v2",
+    "name": "Susa"
+  },
+  {
+    "id": "jalu-cities-v2",
+    "name": "Jalu"
+  },
+  {
+    "id": "awjila-cities-v2",
+    "name": "Awjila"
+  },
+  {
+    "id": "zella-cities-v2",
+    "name": "Zella"
+  },
+  {
+    "id": "sokna-cities-v2",
+    "name": "Sokna"
+  },
+  {
+    "id": "tiji-cities-v2",
+    "name": "Tiji"
+  },
+  {
+    "id": "wazin-cities-v2",
+    "name": "Wazin"
+  },
+  {
+    "id": "al-abyar-cities-v2",
+    "name": "Al Abyar"
+  },
+  {
+    "id": "suluq-cities-v2",
+    "name": "Suluq"
+  },
+  {
+    "id": "qaminis-cities-v2",
+    "name": "Qaminis"
+  },
+  {
+    "id": "tukrah-cities-v2",
+    "name": "Tukrah"
+  },
+  {
+    "id": "benina-cities-v2",
+    "name": "Benina"
+  },
+  {
+    "id": "jardas-al-ahrar-cities-v2",
+    "name": "Jardas al Ahrar"
+  },
+  {
+    "id": "masa-cities-v2",
+    "name": "Masa"
+  },
+  {
+    "id": "martuba-cities-v2",
+    "name": "Martuba"
+  },
+  {
+    "id": "umm-al-rizam-cities-v2",
+    "name": "Umm al Rizam"
+  },
+  {
+    "id": "kambut-cities-v2",
+    "name": "Kambut"
+  },
+  {
+    "id": "jaghbub-cities-v2",
+    "name": "Jaghbub"
+  },
+  {
+    "id": "qasr-bin-ghashir-cities-v2",
+    "name": "Qasr bin Ghashir"
+  },
+  {
+    "id": "tajoura-cities-v2",
+    "name": "Tajoura"
+  },
+  {
+    "id": "msallata-cities-v2",
+    "name": "Msallata"
+  },
+  {
+    "id": "al-ajaylat-cities-v2",
+    "name": "Al Ajaylat"
+  },
+  {
+    "id": "al-qubbah-cities-v2",
+    "name": "Al Qubbah"
+  },
+  {
+    "id": "badr-cities-v2",
+    "name": "Badr"
+  },
+  {
+    "id": "al-magrun-cities-v2",
+    "name": "Al Magrun"
+  },
+  {
+    "id": "qandulah-cities-v2",
+    "name": "Qandulah"
+  },
+  {
+    "id": "port-of-tripoli-economic-v2",
+    "name": "Port of Tripoli"
+  },
+  {
+    "id": "port-of-benghazi-economic-v2",
+    "name": "Port of Benghazi"
+  },
+  {
+    "id": "misrata-port-economic-v2",
+    "name": "Misrata Free Zone and Port"
+  },
+  {
+    "id": "al-khums-port-economic-v2",
+    "name": "Al Khums Port"
+  },
+  {
+    "id": "tobruk-port-economic-v2",
+    "name": "Port of Tobruk"
+  },
+  {
+    "id": "derna-port-economic-v2",
+    "name": "Port of Derna"
+  },
+  {
+    "id": "ras-lanuf-port-economic-v2",
+    "name": "Ras Lanuf Oil Port"
+  },
+  {
+    "id": "marsa-el-brega-port-economic-v2",
+    "name": "Marsa el Brega Port"
+  },
+  {
+    "id": "zueitina-oil-terminal-economic-v2",
+    "name": "Zueitina Oil Terminal"
+  },
+  {
+    "id": "zawiya-port-economic-v2",
+    "name": "Zawiya Port"
+  },
+  {
+    "id": "mellitah-port-economic-v2",
+    "name": "Mellitah Oil and Gas Port"
+  },
+  {
+    "id": "es-sider-terminal-economic-v2",
+    "name": "Es Sider Oil Terminal"
+  },
+  {
+    "id": "sharara-oil-field-economic-v2",
+    "name": "Sharara Oil Field"
+  },
+  {
+    "id": "el-feel-oil-field-economic-v2",
+    "name": "El Feel Oil Field"
+  },
+  {
+    "id": "waha-oil-field-economic-v2",
+    "name": "Waha Oil Field"
+  },
+  {
+    "id": "zelten-oil-field-economic-v2",
+    "name": "Zelten Oil Field"
+  },
+  {
+    "id": "sarir-oil-field-economic-v2",
+    "name": "Sarir Oil Field"
+  },
+  {
+    "id": "bouri-offshore-field-economic-v2",
+    "name": "Bouri Offshore Field"
+  },
+  {
+    "id": "al-jurf-offshore-field-economic-v2",
+    "name": "Al Jurf Offshore Field"
+  },
+  {
+    "id": "mabruk-oil-field-economic-v2",
+    "name": "Mabruk Oil Field"
+  },
+  {
+    "id": "amal-oil-field-economic-v2",
+    "name": "Amal Oil Field"
+  },
+  {
+    "id": "nafoora-oil-field-economic-v2",
+    "name": "Nafoora Oil Field"
+  },
+  {
+    "id": "messla-oil-field-economic-v2",
+    "name": "Messla Oil Field"
+  },
+  {
+    "id": "abu-attifel-oil-field-economic-v2",
+    "name": "Abu Attifel Oil Field"
+  },
+  {
+    "id": "zawiya-refinery-economic-v2",
+    "name": "Zawiya Oil Refinery"
+  },
+  {
+    "id": "ras-lanuf-refinery-economic-v2",
+    "name": "Ras Lanuf Refinery"
+  },
+  {
+    "id": "lisco-misrata-steel-economic-v2",
+    "name": "Libyan Iron and Steel Company (LISCO)"
+  },
+  {
+    "id": "zliten-cement-plant-economic-v2",
+    "name": "Zliten Cement Plant"
+  },
+  {
+    "id": "mellitah-gas-plant-economic-v2",
+    "name": "Mellitah Gas Plant"
+  },
+  {
+    "id": "khoms-power-plant-economic-v2",
+    "name": "Khoms Power Plant"
+  },
+  {
+    "id": "ly-leptis-magna-history-v2",
+    "name": "Leptis Magna"
+  },
+  {
+    "id": "ly-sabratha-history-v2",
+    "name": "Sabratha"
+  },
+  {
+    "id": "ly-cyrene-history-v2",
+    "name": "Cyrene"
+  },
+  {
+    "id": "ly-apollonia-history-v2",
+    "name": "Apollonia"
+  },
+  {
+    "id": "ly-ptolemais-history-v2",
+    "name": "Ptolemais"
+  },
+  {
+    "id": "ly-tocra-history-v2",
+    "name": "Taucheira (Tocra)"
+  },
+  {
+    "id": "ly-ghadames-old-town-history-v2",
+    "name": "Ghadames Old Town"
+  },
+  {
+    "id": "ly-marcus-aurelius-arch-history-v2",
+    "name": "Arch of Marcus Aurelius"
+  },
+  {
+    "id": "ly-red-castle-history-v2",
+    "name": "Red Castle (Assaraya al-Hamra)"
+  },
+  {
+    "id": "ly-tadrart-acacus-history-v2",
+    "name": "Tadrart Acacus"
+  },
+  {
+    "id": "ly-germa-history-v2",
+    "name": "Germa (Garama)"
+  },
+  {
+    "id": "ly-slonta-history-v2",
+    "name": "Sanctuary of Slonta"
+  },
+  {
+    "id": "ly-villa-silin-history-v2",
+    "name": "Villa Silin"
+  },
+  {
+    "id": "ly-qasr-libya-history-v2",
+    "name": "Qasr Libya"
+  },
+  {
+    "id": "ly-tripoli-medina-history-v2",
+    "name": "Medina of Tripoli"
+  },
+  {
+    "id": "ly-gharyan-troglodyte-history-v2",
+    "name": "Gharyan Troglodyte Caves"
+  },
+  {
+    "id": "ly-zawiya-jaghbub-history-v2",
+    "name": "Zawiya of Al Jaghbub"
+  },
+  {
+    "id": "ly-fort-capuzzo-history-v2",
+    "name": "Fort Capuzzo"
+  },
+  {
+    "id": "ly-tobruk-war-cemetery-history-v2",
+    "name": "Tobruk War Cemetery"
+  },
+  {
+    "id": "ly-malta-castle-history-v2",
+    "name": "Knights of Malta Castle"
+  },
+  {
+    "id": "ly-murzuq-fort-history-v2",
+    "name": "Murzuq Old Fort"
+  },
+  {
+    "id": "ly-awjila-mosque-history-v2",
+    "name": "Awjila Old Mosque"
+  },
+  {
+    "id": "ly-gurgi-mosque-history-v2",
+    "name": "Gurgi Mosque"
+  },
+  {
+    "id": "ly-karamanli-mosque-history-v2",
+    "name": "Karamanli Mosque"
+  },
+  {
+    "id": "ly-al-naga-mosque-history-v2",
+    "name": "Al-Naga Mosque"
+  },
+  {
+    "id": "ly-bir-hakeim-history-v2",
+    "name": "Bir Hakeim Battlefield"
+  },
+  {
+    "id": "ly-hospitaller-fort-benghazi-history-v2",
+    "name": "Hospitaller Fort (Benghazi)"
+  },
+  {
+    "id": "ly-benghazi-cathedral-history-v2",
+    "name": "Benghazi Cathedral"
+  },
+  {
+    "id": "ly-jalu-old-fort-history-v2",
+    "name": "Jalu Old Fort"
+  },
+  {
+    "id": "ly-qasr-al-haj-history-v2",
+    "name": "Qasr Al-Haj"
+  },
+  {
+    "id": "tripoli-tower-landmarks-v2",
+    "name": "Tripoli Tower"
+  },
+  {
+    "id": "corinthia-hotel-tripoli-landmarks-v2",
+    "name": "Corinthia Hotel Tripoli"
+  },
+  {
+    "id": "dat-el-imad-landmarks-v2",
+    "name": "Dat El Imad Towers"
+  },
+  {
+    "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+    "name": "Gamal Abdel Nasser Mosque"
+  },
+  {
+    "id": "martyrs-square-tripoli-landmarks-v2",
+    "name": "Martyrs' Square"
+  },
+  {
+    "id": "tripoli-stadium-landmarks-v2",
+    "name": "Tripoli Stadium"
+  },
+  {
+    "id": "benina-airport-terminal-landmarks-v2",
+    "name": "Benina Airport Terminal"
+  },
+  {
+    "id": "tibesti-hotel-benghazi-landmarks-v2",
+    "name": "Tibesti Hotel"
+  },
+  {
+    "id": "benghazi-lighthouse-landmarks-v2",
+    "name": "Benghazi Lighthouse"
+  },
+  {
+    "id": "al-sahaba-mosque-derna-landmarks-v2",
+    "name": "Al-Sahaba Mosque"
+  },
+  {
+    "id": "misrata-central-mosque-landmarks-v2",
+    "name": "Misrata Central Mosque"
+  },
+  {
+    "id": "ouagadougou-conference-center-landmarks-v2",
+    "name": "Ouagadougou Conference Center"
+  },
+  {
+    "id": "zawiya-grand-mosque-landmarks-v2",
+    "name": "Zawiya Grand Mosque"
+  },
+  {
+    "id": "al-khums-lighthouse-landmarks-v2",
+    "name": "Al Khums Lighthouse"
+  },
+  {
+    "id": "brega-oil-terminal-landmarks-v2",
+    "name": "Brega Oil Terminal"
+  },
+  {
+    "id": "ras-lanuf-refinery-landmarks-v2",
+    "name": "Ras Lanuf Refinery"
+  },
+  {
+    "id": "fortezza-margherita-sabha-landmarks-v2",
+    "name": "Fortezza Margherita"
+  },
+  {
+    "id": "sabha-airport-terminal-landmarks-v2",
+    "name": "Sabha Airport Terminal"
+  },
+  {
+    "id": "al-asmarya-mosque-zliten-landmarks-v2",
+    "name": "Al-Asmariya Mosque"
+  },
+  {
+    "id": "shahat-grand-mosque-landmarks-v2",
+    "name": "Shahat Grand Mosque"
+  },
+  {
+    "id": "al-baida-grand-mosque-landmarks-v2",
+    "name": "Al-Baida Grand Mosque"
+  },
+  {
+    "id": "omar-mukhtar-mausoleum-landmarks-v2",
+    "name": "Omar Mukhtar Mausoleum"
+  },
+  {
+    "id": "tripoli-central-post-office-landmarks-v2",
+    "name": "Tripoli Central Post Office"
+  },
+  {
+    "id": "ghadames-grand-mosque-landmarks-v2",
+    "name": "Ghadames Grand Mosque"
+  },
+  {
+    "id": "benghazi-university-campus-landmarks-v2",
+    "name": "Benghazi University Campus"
+  },
+  {
+    "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+    "name": "Al-Majidiya Mosque"
+  },
+  {
+    "id": "tobruk-grand-mosque-landmarks-v2",
+    "name": "Tobruk Grand Mosque"
+  },
+  {
+    "id": "misrata-airport-terminal-landmarks-v2",
+    "name": "Misrata Airport Terminal"
+  },
+  {
+    "id": "al-kish-square-mosque-landmarks-v2",
+    "name": "Al-Kish Square Mosque"
+  },
+  {
+    "id": "benghazi-great-mosque-landmarks-v2",
+    "name": "Benghazi Great Mosque"
+  },
+  {
+    "id": "tripoli-zoo-life-v2",
+    "name": "Tripoli Zoo"
+  },
+  {
+    "id": "benghazi-zoo-life-v2",
+    "name": "Benghazi Zoo"
+  },
+  {
+    "id": "misrata-park-life-v2",
+    "name": "Misrata City Park"
+  },
+  {
+    "id": "djebel-nafusa-agri-life-v2",
+    "name": "Jebel Nafusa Olive Groves"
+  },
+  {
+    "id": "gadamis-oasis-life-v2",
+    "name": "Ghadames Oasis"
+  },
+  {
+    "id": "kufra-orchard-life-v2",
+    "name": "Kufra Orchards"
+  },
+  {
+    "id": "zawia-farm-life-v2",
+    "name": "Zawia Agricultural Zone"
+  },
+  {
+    "id": "gharyan-nursery-life-v2",
+    "name": "Gharyan Nursery"
+  },
+  {
+    "id": "sebha-park-life-v2",
+    "name": "Sebha Family Park"
+  },
+  {
+    "id": "tubruq-garden-life-v2",
+    "name": "Tobruk City Garden"
+  },
+  {
+    "id": "al-baida-zoo-life-v2",
+    "name": "Al-Baida Zoo"
+  },
+  {
+    "id": "djebel-akhdar-farm-life-v2",
+    "name": "Jebel Akhdar Fruit Farming"
+  },
+  {
+    "id": "slonta-nursery-life-v2",
+    "name": "Slonta Nursery"
+  },
+  {
+    "id": "jalu-oasis-farm-life-v2",
+    "name": "Jalu Oasis Farming"
+  },
+  {
+    "id": "awjila-orchard-life-v2",
+    "name": "Awjila Date Grove"
+  },
+  {
+    "id": "tauergha-park-life-v2",
+    "name": "Tauergha Park"
+  },
+  {
+    "id": "homsh-city-park-life-v2",
+    "name": "Homs City Park"
+  },
+  {
+    "id": "sirte-family-life-v2",
+    "name": "Sirte Family Center"
+  },
+  {
+    "id": "murzuq-oasis-life-v2",
+    "name": "Murzuq Oasis"
+  },
+  {
+    "id": "ghat-oasis-life-v2",
+    "name": "Ghat Oasis Farming"
+  },
+  {
+    "id": "zwara-green-belt-life-v2",
+    "name": "Zwara Green Belt"
+  },
+  {
+    "id": "darj-oasis-life-v2",
+    "name": "Darj Oasis Gardens"
+  },
+  {
+    "id": "nalut-terrace-life-v2",
+    "name": "Nalut Terrace Farming"
+  },
+  {
+    "id": "jufra-orchard-life-v2",
+    "name": "Jufra Palm Groves"
+  },
+  {
+    "id": "tarhuna-nursery-life-v2",
+    "name": "Tarhuna Seedling Center"
+  },
+  {
+    "id": "msallata-olive-life-v2",
+    "name": "Msallata Olive Plantations"
+  },
+  {
+    "id": "ghat-family-life-v2",
+    "name": "Ghat Family Square"
+  },
+  {
+    "id": "bin-jawad-park-life-v2",
+    "name": "Bin Jawad Leisure Park"
+  },
+  {
+    "id": "al-azizia-agri-life-v2",
+    "name": "Al-Azizia Farmland"
+  },
+  {
+    "id": "zintan-orchard-life-v2",
+    "name": "Zintan Orchard"
+  },
+  {
+    "id": "wadi-al-hayat-nature-v2",
+    "name": "Wadi al-Hayat"
+  },
+  {
+    "id": "jebel-akhdar-nature-v2",
+    "name": "Jebel Akhdar"
+  },
+  {
+    "id": "lake-gaberoun-nature-v2",
+    "name": "Gaberoun Lake"
+  },
+  {
+    "id": "mandara-lakes-nature-v2",
+    "name": "Mandara Lakes"
+  },
+  {
+    "id": "jebel-nafusa-nature-v2",
+    "name": "Jebel Nafusa"
+  },
+  {
+    "id": "gar-al-marah-nature-v2",
+    "name": "Gar al-Marah"
+  },
+  {
+    "id": "ubari-sand-sea-nature-v2",
+    "name": "Ubari Sand Sea"
+  },
+  {
+    "id": "gargaf-mountains-nature-v2",
+    "name": "Gargaf Mountains"
+  },
+  {
+    "id": "mizdah-plateau-nature-v2",
+    "name": "Mizdah Plateau"
+  },
+  {
+    "id": "al-hamada-al-hamra-nature-v2",
+    "name": "Al-Hamada al-Hamra"
+  },
+  {
+    "id": "tibesti-foothills-nature-v2",
+    "name": "Tibesti Foothills"
+  },
+  {
+    "id": "sarir-tanezrouft-nature-v2",
+    "name": "Sarir Tanezrouft"
+  },
+  {
+    "id": "wadi-kuf-nature-v2",
+    "name": "Wadi al-Kuf"
+  },
+  {
+    "id": "sirte-basin-nature-v2",
+    "name": "Sirte Basin"
+  },
+  {
+    "id": "gulf-of-sidra-nature-v2",
+    "name": "Gulf of Sidra"
+  },
+  {
+    "id": "al-haruj-nature-v2",
+    "name": "Al-Haruj"
+  },
+  {
+    "id": "jebel-aswad-nature-v2",
+    "name": "Jebel Aswad"
+  },
+  {
+    "id": "wadi-zamzam-nature-v2",
+    "name": "Wadi Zamzam"
+  },
+  {
+    "id": "al-kufra-basin-nature-v2",
+    "name": "Al-Kufra Basin"
+  },
+  {
+    "id": "jebel-uwaynat-nature-v2",
+    "name": "Jebel Uwaynat"
+  },
+  {
+    "id": "wadi-al-ajal-nature-v2",
+    "name": "Wadi al-Ajal"
+  },
+  {
+    "id": "gargaf-desert-nature-v2",
+    "name": "Gargaf Desert"
+  },
+  {
+    "id": "sirtica-desert-nature-v2",
+    "name": "Sirtica Desert"
+  },
+  {
+    "id": "wadi-mathendous-nature-v2",
+    "name": "Wadi Mathendous"
+  },
+  {
+    "id": "jebel-soda-nature-v2",
+    "name": "Jebel Soda"
+  },
+  {
+    "id": "fezzan-desert-nature-v2",
+    "name": "Fezzan Desert"
+  },
+  {
+    "id": "cyrenaica-coast-nature-v2",
+    "name": "Cyrenaica Coast"
+  },
+  {
+    "id": "wadi-farigh-nature-v2",
+    "name": "Wadi al-Farigh"
+  },
+  {
+    "id": "jebel-tarhuna-nature-v2",
+    "name": "Jebel Tarhuna"
+  },
+  {
+    "id": "ghat-mountains-nature-v2",
+    "name": "Ghat Mountains"
+  },
+  {
+    "id": "jebel-akdar-highlands-relief-v2",
+    "name": "Jebel Akhdar Highlands"
+  },
+  {
+    "id": "gargaf-range-relief-v2",
+    "name": "Gargaf Range"
+  },
+  {
+    "id": "jebel-soda-relief-v2",
+    "name": "Jebel Soda Mountains"
+  },
+  {
+    "id": "tibesti-foothills-relief-v2",
+    "name": "Tibesti Foothills"
+  },
+  {
+    "id": "jebel-uwaynat-relief-v2",
+    "name": "Jebel Uwaynat"
+  },
+  {
+    "id": "jebel-tarhuna-relief-v2",
+    "name": "Jebel Tarhuna"
+  },
+  {
+    "id": "sirte-basin-relief-v2",
+    "name": "Sirte Basin"
+  },
+  {
+    "id": "al-haruj-relief-v2",
+    "name": "Al-Haruj"
+  },
+  {
+    "id": "al-hamada-al-hamra-relief-v2",
+    "name": "Al-Hamada al-Hamra"
+  },
+  {
+    "id": "jebel-nafusa-relief-v2",
+    "name": "Jebel Nafusa"
+  },
+  {
+    "id": "jebel-aswad-relief-v2",
+    "name": "Jebel Aswad"
+  },
+  {
+    "id": "wadi-al-kuf-relief-v2",
+    "name": "Wadi al-Kuf"
+  },
+  {
+    "id": "wadi-al-ajal-relief-v2",
+    "name": "Wadi al-Ajal"
+  },
+  {
+    "id": "wadi-zamzam-relief-v2",
+    "name": "Wadi Zamzam"
+  },
+  {
+    "id": "wadi-mathendous-relief-v2",
+    "name": "Wadi Mathendous"
+  },
+  {
+    "id": "wadi-al-farigh-relief-v2",
+    "name": "Wadi al-Farigh"
+  },
+  {
+    "id": "sarir-tanezrouft-relief-v2",
+    "name": "Sarir Tanezrouft"
+  },
+  {
+    "id": "gaberoun-lake-relief-v2",
+    "name": "Gaberoun Lake"
+  },
+  {
+    "id": "mandara-lakes-relief-v2",
+    "name": "Mandara Lakes"
+  },
+  {
+    "id": "ubari-sand-sea-relief-v2",
+    "name": "Ubari Sand Sea"
+  },
+  {
+    "id": "kufra-basin-relief-v2",
+    "name": "Al-Kufra Basin"
+  },
+  {
+    "id": "gar-al-marah-relief-v2",
+    "name": "Gar al-Marah"
+  },
+  {
+    "id": "sirtica-desert-relief-v2",
+    "name": "Sirtica Desert"
+  },
+  {
+    "id": "gargaf-desert-relief-v2",
+    "name": "Gargaf Desert"
+  },
+  {
+    "id": "cyrenaica-coast-relief-v2",
+    "name": "Cyrenaica Coast"
+  }
+]

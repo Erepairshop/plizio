@@ -1,0 +1,30 @@
+{
+  "lang": "en",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEritreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEritreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEritreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEritreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEritreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dekemhare-cities-v2",
+      "descriptionAdvanced": "Dekemhare is a vibrant town in the Debub region, known for its pleasant climate and significant agricultural production. Situated on the Eritrean plateau, it was formerly a major industrial and agricultural hub, famous for its orchards and vineyards during the colonial period. Today, the town serves as a key regional center for trade, educational services, and agricultural processing. The local infrastructure still retains elements of its earlier development, offering a unique blend of historical planning and modern regional utility. Geography K7 — highland economic hubs.",
+      "factsAdvanced": ["Located in the Debub region.", "Known for its mild, highland climate.", "Historically significant industrial and agricultural hub.", "Famous for orchards and vineyards.", "Central regional trade center.", "Key hub for agricultural processing."]
+    },
+    {
+      "id": "akordat-cities-v2",
+      "descriptionAdvanced": "Akordat is a desert-like market town in western Eritrea, positioned along the Barka River. The town serves as a crucial commercial intersection for nomadic and semi-nomadic groups, who rely on it for exchanging livestock and agricultural products. Its architecture often exhibits a fusion of local and Sudanese influences, reflecting the region's deep historical and cultural connections across borders. The sharp contrast between the surrounding arid plains and the life sustained along the riverbank makes Akordat a resilient center of economic activity in a challenging environment. Geography K7 — desert oasis economies.",
+      "factsAdvanced": ["Situated on the Barka River.", "Market town in western Eritrea.", "Crucial commercial hub for nomadic groups.", "Architectural fusion of local and Sudanese styles.", "Resilient center in arid environment.", "Key livestock and agricultural exchange point."]
+    },
+    {
+      "id": "nakfa-cities-v2",
+      "descriptionAdvanced": "Nakfa is a town in the Northern Red Sea region of Eritrea, deeply symbolic of the struggle for national independence. Throughout the long liberation war, the town served as a primary base for the EPLF, and it was the only major site of resistance that remained under their control throughout much of the conflict. Its name became a synonym for perseverance and, later, the currency of Eritrea. Today, it remains a historical site that holds immense value in the nation's collective memory and identity. History K8 — independence movement.",
+      "factsAdvanced": ["Located in the Northern Red Sea region.", "Symbol of Eritrean national identity.", "Primary base for the EPLF during the war.", "Remained a site of resistance for many years.", "Gave its name to the national currency.", "Deep historical significance for the nation."]
+    }
+  ]
+}

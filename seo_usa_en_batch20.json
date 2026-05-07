@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mission-san-juan-capistrano-history-v2",
+      "descriptionAdvanced": "Mission San Juan Capistrano, founded in 1776 in California, was a pivotal part of the Spanish mission system aimed at colonizing Alta California and converting Indigenous populations to Christianity. While often idealized in regional folklore, the mission system fundamentally reshaped the Indigenous lifestyle and autonomy, leading to significant social, health, and cultural disruptions. Today, the mission stands as a historic monument that forces a dialogue about the complex impact of Spanish colonial institutions on California’s original inhabitants. It is a vital site for historical interpretation, balancing its architectural legacy with the reality of the colonial pressures placed upon the Acjachemen people. History K7 — Spanish mission system and colonial impacts on Indigenous communities.",
+      "factsAdvanced": [
+        "Founded in 1776 as part of the Spanish colonial mission system.",
+        "Pivotal center for colonial expansion into Alta California.",
+        "System aimed to convert Indigenous Acjachemen people to Christianity.",
+        "Colonial institutions significantly disrupted Indigenous lifestyles and autonomy.",
+        "The mission is a vital site for historical interpretation of colonial pressures.",
+        "Forces a complex dialogue about Spanish colonialism in the American West."
+      ]
+    },
+    {
+      "id": "manzanar-history-v2",
+      "descriptionAdvanced": "Manzanar National Historic Site in California preserves the memory and physical ruins of one of the ten internment camps where the U.S. government forcibly held over 110,000 Japanese Americans during World War II. Following the attack on Pearl Harbor, Japanese Americans—most of whom were U.S. citizens—were removed from their homes and incarcerated without due process based on mass suspicion and wartime hysteria. Manzanar remains a solemn place of reflection, honoring the resilience of those interned while standing as a powerful warning about the dangers of suspending democratic civil liberties and the impact of systemic racial prejudice during national crises. History K8 — WWII Japanese American internment and civil liberties.",
+      "factsAdvanced": [
+        "One of ten internment camps holding Japanese Americans during WWII.",
+        "Over 110,000 Japanese Americans were forcibly held without due process.",
+        "Serves as a solemn site of reflection on the loss of civil liberties.",
+        "Honors the resilience of the internees during systemic racial incarceration.",
+        "A critical warning about wartime hysteria and civil rights violations.",
+        "Preserves the history and physical ruins of an essential American injustice."
+      ]
+    },
+    {
+      "id": "wounded-knee-battlefield-history-v2",
+      "descriptionAdvanced": "Wounded Knee, on the Pine Ridge Reservation in South Dakota, is the site of the 1890 Wounded Knee Massacre, where U.S. troops killed hundreds of Lakota people, including women and children. This tragic event effectively ended the organized armed resistance of the Lakota on the Great Plains and marked a devastating conclusion to the period of the 'Indian Wars.' Wounded Knee is a deeply sacred and painful place, serving as a permanent reminder of the systemic efforts to displace and dismantle Indigenous societies. Today, it remains a focal point for the struggle to honor Indigenous memory and a sobering lesson on the profound human costs of American westward expansion. History K8 — The end of the Indian Wars and Indigenous resistance.",
+      "factsAdvanced": [
+        "Site of the 1890 massacre of hundreds of Lakota people by U.S. troops.",
+        "Effectively signaled the end of organized armed Lakota resistance.",
+        "Marked a tragic, devastating conclusion to the period of the 'Indian Wars'.",
+        "Remains a sacred, painful place honoring Indigenous memory.",
+        "A sobering reminder of the human costs of westward expansion.",
+        "Focal point for understanding the history of Indigenous displacement."
+      ]
+    }
+  ]
+}

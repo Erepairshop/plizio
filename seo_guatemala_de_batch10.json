@@ -1,0 +1,339 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monterrico-nature-reserve-nature-v2",
+      "descriptionAdvanced": "Monterrico ist das berühmteste Stranddorf an der guatemaltekischen Pazifikküste (Santa Rosa) und bekannt für seinen glitzernden, kohlrabenschwarzen Vulkansand, der sich in der Mittagssonne extrem aufheizt. Hinter dem Strand erstreckt sich ein komplexes Netzwerk aus Mangrovensümpfen ('Canal de Chiquimulilla'). Das Herz der Gemeinde schlägt jedoch für den Schildkrötenschutz. Jedes Jahr zwischen Juli und November kommen Hunderte von bedrohten Meeresschildkröten (insbesondere die Oliv-Bastardschildkröte) an diesen Strand, um in der Nacht ihre Eier abzulegen. Lokale Naturschutzorganisationen kaufen die Eier von Sammlern ('Parlameros') auf, die sie sonst essen würden, und brüten sie sicher aus. Die massenhafte Freilassung von zehntausenden kleinen Babyschildkröten am Strand bei Sonnenuntergang ist ein tief bewegendes Ereignis, das Touristen aus aller Welt anzieht. Biologie K6 — Schutz der Meeresschildkröten.",
+      "factsAdvanced": [
+        "Der Strand von Monterrico besteht aus extrem heißem, rein schwarzem vulkanischem Sand.",
+        "Das Dorf ist das nationale Zentrum für den Schutz der gefährdeten Meeresschildkröten.",
+        "Eiersammler ('Parlameros') verkaufen die Schildkröteneier an lokale Aufzuchtstationen.",
+        "Im Herbst werden täglich kleine Schildkröten von Touristen in den Ozean entlassen.",
+        "Die gefährliche und starke Pazifikströmung (Unterströmungen) verbietet weites Schwimmen.",
+        "Die Anreise erfolgte traditionell lange Zeit nur über Fähren durch die dichten Mangrovenkanäle."
+      ]
+    },
+    {
+      "id": "fuentes-georginas-nature-v2",
+      "descriptionAdvanced": "Versteckt in den eisigen, oft in dichten Nebel gehüllten Bergen oberhalb von Quetzaltenango (Xela) liegen die 'Fuentes Georginas'. Diese natürlichen heißen Quellen ('Aguas Termales') sind ein echtes geologisches Wunder, denn das Wasser wird tief unter der Erde durch die Hitze des aktiven Zunil-Vulkans erwärmt. Der Kontrast könnte nicht dramatischer sein: Während die Lufttemperatur nahe dem Gefrierpunkt liegt, baden die Besucher in dampfend heißem Wasser, umgeben von einem dichten, subtropischen Bergnebelwald mit moosbewachsenen Bäumen und riesigen Farnen. Die Quellen wurden im späten 19. Jahrhundert entdeckt und nach dem damaligen Diktator Jorge Ubico (oder seiner Frau) benannt. Für die lokale Bevölkerung und erschöpfte Touristen ist das Baden in diesen natürlichen, schwefelhaltigen Vulkanpools die ultimative Entspannungstherapie nach kalten Tagen im Hochland. Geografie K7 — Geothermie und Vulkane.",
+      "factsAdvanced": [
+        "Die Fuentes Georginas werden durch die unterirdische Hitze des Vulkans Zunil gespeist.",
+        "Die heißen Thermalquellen (Aguas Termales) fließen aus einer Felswand direkt in die Badebecken.",
+        "Die Anlage liegt in einem feuchtkalten Nebelwald auf über 2.400 Metern Höhe.",
+        "Der Ort ist bekannt für den extremen Kontrast zwischen heißem Wasser und eisiger Bergluft.",
+        "Das schwefelhaltige Wasser gilt als heilend für Muskel- und Gelenkbeschwerden.",
+        "Der Weg zu den Quellen führt durch steile, fruchtbare Gemüseterrassen indigener Bauern."
+      ]
+    },
+    {
+      "id": "sierra-de-las-minas-relief-v2",
+      "descriptionAdvanced": "Die Sierra de las Minas ist eine gewaltige, schroffe Gebirgskette im Osten Guatemalas, die sich stark von den westlichen Vulkankordilleren unterscheidet. Sie besteht größtenteils aus uraltem Kalkstein und Metamorphgestein, was ihr ein stark zerklüftetes Aussehen verleiht. Das Relief ist extrem steil; die Berge erheben sich abrupt aus dem extrem heißen, wüstenartigen Motagua-Tal bis auf über 3.000 Meter Höhe. Dieser massive Höhenunterschied erzeugt einzigartige Mikroklimata: An den höheren Hängen wächst einer der größten zusammenhängenden Primär-Nebelwälder Mittelamerikas. Da diese Gebirgskette eine natürliche Barriere für die feuchten Karibikwinde bildet, regnet es auf der Nordseite extrem viel, während die Südseite im Regenschatten verdorrt. Ein Großteil der Bergkette ist als Biosphärenreservat streng geschützt, bleibt aber schwer zugänglich. Geografie K8 — Faltengebirge und Regenschatten.",
+      "factsAdvanced": [
+        "Die Sierra de las Minas ist kein vulkanisches Gebirge, sondern besteht aus uraltem Felsgestein.",
+        "Die Bergkette bildet eine massive klimatische Barriere zwischen dem Karibik- und Pazifik-Wetter.",
+        "Der höchste Punkt der Kette ist der Cerro Raxón mit 3.015 Metern.",
+        "Das Gebirge beheimatet über 60 % aller noch wild lebenden Quetzal-Vögel in Guatemala.",
+        "Der Südhang der Kette liegt im extremen Regenschatten und formt den guatemaltekischen Trockenkorridor.",
+        "Marmorbau und illegaler Holzeinschlag sind ständige Bedrohungen für das Biosphärenreservat."
+      ]
+    },
+    {
+      "id": "cerro-cucurucho-relief-v2",
+      "descriptionAdvanced": "Der Cerro Cucurucho, gelegen in den kühlen Bergen westlich von Guatemala-Stadt, ist eine markante topografische Erhebung. Mit seinen rund 2.500 Metern Höhe ragt er als steiler, meist dicht bewaldeter Gipfel aus den hügeligen Vorstädten heraus. Sein Relief ist durch tief eingeschnittene 'Barrancos' (Schluchten) geprägt, was den Zugang oft erschwert. Für die stetig wachsende Hauptstadtregion spielt dieser Berg eine entscheidende Rolle als natürliches Wassereinzugsgebiet; die dichten Kiefernwälder filtern und speichern den Niederschlag für die Metropole. Gleichzeitig ist der Hügel bei Wochenendwanderern sehr beliebt, da er nach einem anstrengenden Aufstieg atemberaubende Ausblicke auf das gesamte Tal von Guatemala-Stadt sowie auf die majestätische Vulkankette im Süden bietet. Geografie K7 — Städtische Wassereinzugsgebiete.",
+      "factsAdvanced": [
+        "Der Cerro Cucurucho ist einer der höchsten Gipfel im direkten Umland der Hauptstadt.",
+        "Das bewaldete Relief fungiert als enorm wichtiger Schwamm für die lokale Wasserversorgung.",
+        "Die Flanken des Berges sind durch extreme topografische Brüche (Barrancos) gekennzeichnet.",
+        "Ein Großteil des Berges ist mit Kiefern ('Pinares') und Steineichen bedeckt.",
+        "Wanderer nutzen den Berg wegen seiner steilen Pfade als beliebtes Trainingsgebiet.",
+        "Urbane Expansion an der Basis bedroht das ökologische Gleichgewicht dieses Reliefs."
+      ]
+    },
+    {
+      "id": "sierra-madre-relief-v2",
+      "descriptionAdvanced": "Die Sierra Madre in Guatemala (oft auch als Vulkankordillere bezeichnet) ist das absolute tektonische und topografische Rückgrat des Landes. Diese mächtige Gebirgskette erstreckt sich parallel zur Pazifikküste von der mexikanischen bis zur salvadorianischen Grenze. Ihr Relief ist eines der dramatischsten der Welt: Auf einer relativ kurzen Distanz steigt das Gelände aus der flachen, auf Meereshöhe liegenden Pazifikebene abrupt auf über 4.000 Meter an. Hier reihen sich Dutzende von Schichtvulkanen wie Perlen auf einer Kette aneinander, darunter der Fuego, Agua, Atitlán und Tacaná. Diese tektonisch extrem aktive Zone ist das Resultat der Subduktion der Kokosplatte unter die Nordamerikanische und Karibische Platte. Die vulkanische Asche der Sierra Madre hat die fruchtbarsten Böden Zentralamerikas geschaffen, aber ihre ständigen Erdbeben und Eruptionen machen sie zu einer der gefährlichsten Regionen. Geografie K8 — Plattentektonik und Vulkanismus.",
+      "factsAdvanced": [
+        "Die Sierra Madre bildet die Wasserscheide zwischen dem Pazifik und dem Karibischen Meer.",
+        "Sie besteht fast ausschließlich aus vulkanischem Gestein der quartären Epoche.",
+        "Die Bergkette stürzt auf der Südseite extrem steil in die pazifische Tiefebene (Boca Costa) ab.",
+        "Zahlreiche aktive Vulkane, wie der Fuego und der Pacaya, formen ihr Relief täglich neu.",
+        "Die Subduktionszone im Pazifik ist die treibende Kraft für die Anhebung dieses Gebirges.",
+        "Fast die gesamte guatemaltekische Bevölkerung konzentriert sich in den Tälern dieser Bergkette."
+      ]
+    },
+    {
+      "id": "cuchumatanes-relief-v2",
+      "descriptionAdvanced": "Die Sierra de los Cuchumatanes im Nordwesten Guatemalas ist das höchste nicht-vulkanische Gebirgsmassiv ganz Zentralamerikas. Geologisch unterscheidet sich dieses gewaltige Relief komplett von der Sierra Madre: Es besteht aus uralten, in Falten aufgeworfenen und später tief erodierten Kalksteinschichten (Karst). Die Landschaft wird dominiert von kargen, windgepeitschten Hochebenen, die sich wie riesige Steppen auf über 3.000 Metern Höhe ausbreiten. Der höchste Punkt (La Torre) erreicht atemberaubende 3.837 Meter. Die Hochebene bricht oft in gigantischen, fast vertikalen Klippen ('Falllinien') tief ab. Aufgrund der extremen Kälte, der dünnen Luft und der steinigen Böden ist das Gebiet landwirtschaftlich kaum nutzbar; die indigenen Mam und Ixil züchten hier stattdessen Schafe, deren Wolle das Relief der Cuchumatanes zu einem Zentrum der Textilindustrie gemacht hat. Geografie K8 — Hochgebirgs-Karst.",
+      "factsAdvanced": [
+        "Die Cuchumatanes sind die höchste Kalkstein-Gebirgskette (Karst) in Mittelamerika.",
+        "Der Name stammt vermutlich aus der Mam-Sprache und bedeutet 'Der Ort der großen Kälte'.",
+        "Aufgrund des Kalksteins verschwinden viele Flüsse in riesigen unterirdischen Höhlensystemen.",
+        "Die ausgedehnte Hochebene (Altiplanicie) gleicht oft einer baumlosen alpinen Tundra.",
+        "Die extreme Topografie machte die Täler (wie das Ixil-Dreieck) über Jahrhunderte isoliert.",
+        "Schafzucht und Wollverarbeitung sind die einzige Überlebensgrundlage in diesen Höhen."
+      ]
+    },
+    {
+      "id": "valle-del-motagua-relief-v2",
+      "descriptionAdvanced": "Das Valle del Motagua (Motagua-Tal) im Osten Guatemalas ist eine der bemerkenswertesten geologischen Depressionen des Kontinents. Dieses gigantische, tief eingeschnittene Flusstal verläuft fast schnurgerade und markiert exakt die aktive tektonische Plattengrenze zwischen der Karibischen und der Nordamerikanischen Erdplatte. Das Tal wird von hohen Gebirgsketten flankiert (Sierra de las Chuacús im Norden), die jeden Niederschlag blockieren. Folglich ist das Relief des Tals extrem arid, wüstenhaft und von Kakteen übersät, da es im perfekten Regenschatten liegt ('Corredor Seco'). Trotz der lebensfeindlichen, heißen Oberfläche barg das Tal im Untergrund einen prähispanischen Schatz: Es war die einzige bekannte Quelle für feine Jade in ganz Mesoamerika, die an den geologischen Bruchlinien unter enormem Druck entstand. Geografie K8 — Tektonische Gräben und Wüsten.",
+      "factsAdvanced": [
+        "Das Tal verläuft exakt auf der tektonischen Verwerfung ('Falla de Motagua') zweier Erdplatten.",
+        "Es ist die geografische Heimat des sogenannten guatemaltekischen 'Trockenkorridors'.",
+        "Aufgrund extremer topografischer Abschirmung fallen hier oft monatelang keine Niederschläge.",
+        "Tief im Gestein des Tals finden sich die einzigen bekannten Jadequellen Mittelamerikas.",
+        "In der Hitze der Talebene werden heute trockenheitsresistente Melonen und Tabak kultiviert.",
+        "Die massive geologische Bruchlinie ist verantwortlich für historische, verheerende Erdbeben."
+      ]
+    },
+    {
+      "id": "reserva-biosfera-maya-relief-v2",
+      "descriptionAdvanced": "Die Topografie der Reserva de la Biosfera Maya, die das gesamte nördliche Drittel Guatemalas (Petén) einnimmt, ist das exakte Gegenteil des restlichen gebirgigen Landes. Das Relief hier ist extrem flach, weitläufig und liegt größtenteils nur wenige Dutzend Meter über dem Meeresspiegel. Es handelt sich um ein massives, sedimentäres Kalksteinplateau, das vor Jahrmillionen vom Meer überflutet war. Aufgrund dieser geologischen Struktur (Karst) gibt es auf der Oberfläche fast keine echten Berge, sondern nur sanfte Hügel ('Bajos') und riesige Feuchtgebiete ('Humedales'). Oberirdische Flüsse sind selten, da das Regenwasser sofort in den porösen Stein versickert und gigantische unterirdische Höhlen- und Cenotennetzwerke formt. Aus diesem endlosen, grünen Flachland ragen heute oft nur noch die Spitzen monumentaler Maya-Pyramiden wie Tikal als künstliche Berge hervor. Geografie K7 — Karst-Plateaus im Tiefland.",
+      "factsAdvanced": [
+        "Das Relief des Petén-Tieflands macht über ein Drittel des guatemaltekischen Territoriums aus.",
+        "Es besteht geologisch aus weichem Kalkstein, der aus prähistorischen Meeresablagerungen stammt.",
+        "Das Gebiet ist fast völlig flach; die höchste Erhebung ist nur wenige hundert Meter hoch.",
+        "Wasser sammelt sich oft nicht oberirdisch, sondern in riesigen unterirdischen Kavernen.",
+        "Weite Teile dieses flachen Dschungel-Reliefs sind während der Regenzeit völlig überschwemmt.",
+        "Die flache Topografie erleichtert leider auch das illegale Eindringen in die Biosphäre."
+      ]
+    },
+    {
+      "id": "altiplano-guatemalteco-relief-v2",
+      "descriptionAdvanced": "Das Altiplano Guatemalteco (Zentrales Hochland) ist eine weitläufige, zerschnittene Hochebene, die das kulturelle und bevölkerungsreichste Herzstück des Landes bildet. Auf einer durchschnittlichen Höhe von 1.500 bis 2.500 Metern liegend, ist das Relief geprägt von weiten Tälern, die abrupt von extrem tiefen, fast senkrechten Schluchten ('Barrancos') durchschnitten werden. Diese Schluchten entstanden, als Flüsse sich nach massiven prähistorischen Vulkanausbrüchen durch die dicken, weichen Ascheablagerungen frästen. Das Altiplano wird im Süden von der Vulkankette der Sierra Madre begrenzt und geschützt, was ein ganzjährig kühles, angenehmes Mikroklima ('Ewiger Frühling') schafft. Jeder nutzbare Quadratmeter dieser oft schrägen Hänge ist in kunstvolle Acker-Terrassen verwandelt worden, auf denen die indigene Maya-Bevölkerung seit Jahrtausenden Mais und Gemüse anbaut. Geografie K7 — Zerschnittene Hochebenen.",
+      "factsAdvanced": [
+        "Das Altiplano liegt auf einer konstanten, kühlen Höhe zwischen 1.500 und 2.500 Metern.",
+        "Das Relief ist extrem zerklüftet durch hunderte tiefer Canyons ('Barrancos').",
+        "Die tiefen Schluchten sind das Resultat schneller Wassererosion in weicher vulkanischer Asche.",
+        "Fast die gesamte indigene Maya-Kultur Guatemalas konzentriert sich auf diese Hochebene.",
+        "Die Steilhänge werden durch traditionellen Terrassenbau vor dem Abrutschen gesichert.",
+        "Das kühle Klima des Altiplanos trug Guatemala den Beinamen 'Land des ewigen Frühlings' ein."
+      ]
+    },
+    {
+      "id": "volcan-tacana-relief-v2",
+      "descriptionAdvanced": "Der Volcán Tacaná ist ein gewaltiger Stratovulkan, dessen Massiv die westlichste Grenze zwischen Guatemala (San Marcos) und Mexiko bildet. Mit seinen 4.092 Metern Höhe ist er der zweithöchste Vulkan Zentralamerikas. Das Relief des Tacaná ist extrem steil und asymmetrisch; seine Flanken fallen dramatisch in die heißen Pazifik-Ebenen ('Boca Costa') ab, während sie im Hochland eine schroffe Barriere formen. Geologisch ist der Berg hochkomplex, da er aus mehreren übereinanderliegenden Kratern und einer zerstörten Caldera besteht (ein sogenannter 'Vulkankomplex'). An seiner Basis sprudeln heiße Thermalquellen, die von der immer noch aktiven Magmakammer im Inneren zeugen. Die schroffen Hänge sind bis zu einer gewissen Höhe dicht besiedelt und extrem wichtig für den Kaffee- und Macadamia-Anbau beider Länder. Geografie K8 — Komplexe Stratovulkane.",
+      "factsAdvanced": [
+        "Der Tacaná ist mit 4.092 Metern der zweithöchste Gipfel in ganz Zentralamerika.",
+        "Der Vulkan fungiert als natürliche und offizielle Grenze zwischen Guatemala und Mexiko.",
+        "Geologisch gilt er als Vulkankomplex mit mehreren übereinanderliegenden Einsturzkratern.",
+        "Obwohl er ruht, beweisen Thermalquellen an der Basis (wie Agua Caliente) seine Restaktivität.",
+        "Die Pazifikflanke des Vulkans ist wegen enormer Niederschläge extrem steil und ausgewaschen.",
+        "Eine binationale Biosphäre versucht, das empfindliche Ökosystem des Berges zu schützen."
+      ]
+    },
+    {
+      "id": "sierra-de-chuacus-relief-v2",
+      "descriptionAdvanced": "Die Sierra de Chuacús ist eine markante, zentrale Gebirgskette, die wie eine natürliche Mauer die feuchteren Regionen der Verapaces vom trockenen Motagua-Tal im Süden trennt. Dieses Gebirge besteht größtenteils aus extrem harten, Millionen Jahre alten Metamorphgesteinen (Gneis und Schiefer), was das Relief sehr schroff, zackig und unzugänglich macht. Durch diese geologische Härte sind die Berge deutlich erosionsresistenter als die vulkanischen Hügel des Südens. Die Kammlinie erreicht Höhen von über 2.500 Metern und bildet eine entscheidende klimatische Wasserscheide. Auf der nördlichen Flanke stauen sich die feuchten Winde aus der Karibik und erzeugen üppige Nebelwälder, während die Südflanke knochentrocken abfällt. Die abgelegenen, windgepeitschten Täler der Chuacús-Kette sind die Heimat vieler Achi- und K'iche'-Maya. Geografie K8 — Metamorphe Gebirgszüge.",
+      "factsAdvanced": [
+        "Die Sierra de Chuacús durchquert das Land von West nach Ost durch Baja Verapaz und Quiché.",
+        "Das Relief besteht aus extrem harten, alten Metamorphgesteinen, nicht aus Vulkanasche.",
+        "Die Kette bildet die wichtigste Klimagrenze zwischen den feuchten Verapaces und dem Trockenkorridor.",
+        "Der höchste Gipfel der Bergkette ist der Cerro Raxjuy mit rund 2.975 Metern.",
+        "Die unzugänglichen Täler boten historisch vielen Maya-Gemeinden Schutz vor den Spaniern.",
+        "Entlang der geologischen Bruchlinien am Fuße des Gebirges kommt es häufig zu Erdrutschen."
+      ]
+    },
+    {
+      "id": "valle-de-almolonga-relief-v2",
+      "descriptionAdvanced": "Das Valle de Almolonga, eingebettet zwischen Vulkankegeln direkt neben der Stadt Quetzaltenango (Xela), ist ein topografisches Kuriosum. Obwohl das Tal klein, eng und von schattigen Bergwänden eingefasst ist, gilt es als eines der ertragreichsten landwirtschaftlichen Gebiete des Kontinents, oft als 'Amerikas Garten' bezeichnet. Das Geheimnis dieses Reliefs liegt in seiner Entstehung: Das Tal ist eine alte vulkanische Caldera, die über Jahrtausende mit dicken, mineralreichen Ascheschichten aufgefüllt wurde. Unterhalb der Erde fließen starke hydrothermale Adern, weshalb heiße Quellen ('Baños de Almolonga') an den Rändern des Tals sprudeln. Die indigenen K'iche'-Bauern haben das Relief meisterhaft in kleinste, terrassierte Parzellen ('Tablones') unterteilt, auf denen sie dank der nährstoffreichen Böden bis zu vier Ernten von Riesengemüse pro Jahr erzielen. Geografie K7 — Vulkanische Calderen und Landwirtschaft.",
+      "factsAdvanced": [
+        "Das Almolonga-Tal ist eine teilweise kollabierte vulkanische Senke (Caldera).",
+        "Der Boden besteht aus meterdicker, extrem mineralreicher Vulkanschlacke (Pumice).",
+        "Geothermisches Wasser heizt den Boden oft leicht auf, was das extreme Pflanzenwachstum fördert.",
+        "Das enge Relief ist lückenlos mit winzigen, intensiv bewirtschafteten Parzellen ('Tablones') bedeckt.",
+        "Der steile Abfluss des Tals erzeugt oft Überschwemmungen während starker Regenfälle.",
+        "Zahlreiche natürliche heiße Schwefelquellen entspringen direkt aus den Felswänden des Tals."
+      ]
+    },
+    {
+      "id": "cerro-cahabon-relief-v2",
+      "descriptionAdvanced": "Das Kalksteingebirge rund um Cahabón im Departamento Alta Verapaz bietet eines der wildesten und unwegsamsten Reliefs des Landes. Anders als im vulkanischen Süden ist das Gestein hier hochgradig porös. Millionen von Jahren an extrem starken Regenfällen haben das Gestein zersetzt und eine sogenannte Karstlandschaft geformt. Die Berge hier sind nicht spitz, sondern bilden abgerundete, von steilen Tälern ('Kegelkarst') zerschnittene Hügel. Das wahre Ausmaß dieses Reliefs liegt jedoch unter der Erde: Das Gebirge ist wie ein Schweizer Käse von gigantischen, unerforschten Höhlensystemen, Senklöchern (Cenoten) und unterirdischen Flüssen durchzogen, die das Oberflächenwasser komplett verschlucken. Die Landwirtschaft auf diesem felsigen Untergrund ist extrem mühsam, doch für den Anbau von Kardamom und Kakao in kleinen Senken reicht es. Geografie K8 — Tropischer Karst und Höhlensysteme.",
+      "factsAdvanced": [
+        "Das Gebirge um Cahabón besteht aus massivem Kalkstein, geformt aus alten Korallenriffen.",
+        "Es handelt sich um eine klassische Karstlandschaft mit Kegelbergen und tiefen Dolinen.",
+        "Das Oberflächenwasser versickert schnell und bildet gigantische, unterirdische Flusssysteme.",
+        "Zahlreiche Höhlen in diesem Relief gelten den lokalen Q'eqchi'-Maya als heilig.",
+        "Wegen der extremen Unebenheit der Berge sind große landwirtschaftliche Maschinen unbrauchbar.",
+        "Das brüchige Gestein verursacht bei Starkregen oft massive, lebensgefährliche Erdrutsche."
+      ]
+    },
+    {
+      "id": "sierra-de-santa-cruz-relief-v2",
+      "descriptionAdvanced": "Die Sierra de Santa Cruz ist ein abgelegener, extrem wilder Gebirgszug im Departamento Izabal, der sich am nördlichen Ufer des Izabal-Sees erhebt. Topografisch bildet diese Bergkette eine steile, grüne Mauer, die das feuchte Tiefland vom Karibischen Meer abgrenzt. Das Relief ist durch scharfe, in Kalkstein und Serpentinit geschnittene Kämme gekennzeichnet. Die Berge fangen die extrem feuchten Passatwinde direkt aus dem Karibischen Meer ein, was zu einer der höchsten Niederschlagsmengen in ganz Zentralamerika führt. Dieses stetige Wasser hat unzählige kleine, reißende Wasserfälle und Flüsse in den Stein gewaschen. Aufgrund der schroffen Topografie und des dichten Dschungels ist die Sierra de Santa Cruz fast völlig unbesiedelt und fungiert als unberührtes Refugium für seltene Spezies, leidet aber stark unter dem aggressiven illegalen Abbau von Nickelvorkommen. Geografie K8 — Karibische Gebirgszüge.",
+      "factsAdvanced": [
+        "Die Sierra de Santa Cruz erhebt sich direkt am nördlichen Ufer des großen Izabal-Sees.",
+        "Die Kette fungiert als massiver Wolkenfänger für extrem feuchte Winde aus der Karibik.",
+        "Das Gestein der Berge enthält einige der größten Nickelerz-Vorkommen Guatemalas.",
+        "Trotz geringer Höhe (ca. 1.000 m) ist das Relief extrem schroff und unzugänglich.",
+        "Dutzende kleiner Flüsse ('Ríos') stürzen aus den Bergen in den See hinab.",
+        "Das Relief ist so wild, dass in der Kolonialzeit keine Straßen hindurch gebaut wurden."
+      ]
+    },
+    {
+      "id": "altiplano-occidental-relief-v2",
+      "descriptionAdvanced": "Das Westliche Hochland (Altiplano Occidental), das Regionen wie Quetzaltenango, Totonicapán und Sololá umfasst, ist das topografische Epizentrum der guatemaltekischen Anden-Erweiterung. Das Relief ist dramatisch hochgehoben, zerschnitten und vulkanisch geprägt. Riesige Talsenken liegen hier auf schwindelerregenden Höhen von 2.300 bis über 2.800 Metern. Begrenzt wird diese Hochebene durch hoch aufragende Vulkanketten im Süden. Der Boden ist oft durch historische Vulkanausbrüche meterdick mit heller, sehr weicher Bimssteinasche (Pumice) bedeckt, durch die sich die Wasserläufe tief als 'Barrancos' eingefressen haben. Diese extreme Höhe in tropischen Breitengraden führt zu einem einzigartigen, rauen Mikroklima, in dem es tagsüber brennt, nachts aber oft gefriert ('Heladas'). Das Altiplano ist nicht nur das kulturelle Zentrum der Maya, sondern auch ein geologischer Schmelztiegel ständiger tektonischer Unruhe. Geografie K8 — Vulkanische Hochebenen.",
+      "factsAdvanced": [
+        "Das Westliche Hochland ist die höchstgelegene besiedelte Region in ganz Zentralamerika.",
+        "Es ist übersät mit tiefen, oft unpassierbaren Canyons, die von Einheimischen 'Barrancos' genannt werden.",
+        "Die hellen, sandigen Böden (Tierra Blanca) sind Überreste gigantischer prähistorischer Eruptionen.",
+        "Durch die extreme Höhe friert der Boden in den Wintermonaten häufig stark zu.",
+        "Dutzende indigene Maya-Sprachen haben sich aufgrund der Isolation der Täler entwickelt.",
+        "Das Relief zwingt den Bau von Straßen zu ständigen, atemberaubenden Serpentinen ('Cuestas')."
+      ]
+    },
+    {
+      "id": "volcan-san-pedro-relief-v2",
+      "descriptionAdvanced": "Der Volcán San Pedro ist ein auffälliger, waldreicher Schichtvulkan, der sich fast vertikal aus dem tiefblauen Wasser des Atitlán-Sees (Departamento Sololá) erhebt. Mit einer Höhe von rund 3.020 Metern bildet er zusammen mit den benachbarten Vulkanen Tolimán und Atitlán ein atemberaubendes Dreigestirn. Das Relief des San Pedro ist im Vergleich zu seinen Nachbarn etwas sanfter und seine Hänge sind extrem bewaldet, weshalb der Vulkan die Farbe Dunkelgrün in die Landschaft bringt. Auf den unteren Rängen wächst der weltberühmte San-Pedro-Kaffee, während die höheren Zonen als dichte Nebelwälder Naturschutzgebiete bilden. Geologisch gesehen ruht der Vulkan seit Jahrtausenden; sein Krater ist stark erodiert und dicht mit Urwald bewachsen, was die Wanderung zum Gipfel durch die steilen Ranken extrem anstrengend macht. Geografie K7 — Vulkanische Seenlandschaften.",
+      "factsAdvanced": [
+        "Der Volcán San Pedro erhebt sich direkt vom Südwestufer des Sees aus dem Wasser.",
+        "Mit 3.020 Metern ist er der niedrigste der drei Vulkane am Atitlán-See.",
+        "Das Relief an seiner Basis besteht aus abgekühlten, erstarrten Lavaströmen alter Eruptionen.",
+        "Der Vulkan gilt als ruhend und zeigt keine vulkanischen oder geothermischen Aktivitäten mehr.",
+        "Die asymmetrische, leicht eingebrochene Spitze zeugt von massiver Erosion im Laufe der Zeit.",
+        "Sein dschungelartiger Krater bietet Lebensraum für den seltenen, stark bedrohten Horn-Guan-Vogel."
+      ]
+    },
+    {
+      "id": "sierra-de-las-nubes-relief-v2",
+      "descriptionAdvanced": "Die Sierra de las Nubes (Berge der Wolken) ist ein lokaler, poetischer Name für die oft in dichten Nebel gehüllten Gipfel der Bergketten, die Alta Verapaz von Quiché trennen. Das Relief hier ist typisch für die nördlichen Verapaces: sehr feucht, extrem steil und aus stark zerklüftetem Kalkstein bestehend. Wie der Name verrät, fangen diese hohen Bergrücken fast ganzjährig die vom Karibischen Meer aufsteigende Feuchtigkeit ab. Das ständige Kondensieren der Wolken erschafft hier eines der feuchtesten und dichtesten Nebelwaldgebiete Guatemalas. Die Landschaft ist oft rutschig und voller steiler Karst-Einbrüche, was Straßenbauten hier extrem anfällig für Erdrutsche (Derrumbes) macht. Dieser stetige Nebel ('Chipi-chipi') ist jedoch das Lebenselixier für die unzähligen Bäche und unterirdischen Flüsse der Region. Geografie K7 — Nebelwald-Gebirge.",
+      "factsAdvanced": [
+        "Die Sierra de las Nubes bildet eine natürliche Feuchtigkeitsbarriere in Zentralguatemala.",
+        "Das Relief ist geprägt von ständigen, feinen Nieselregen (im Volksmund 'Chipi-chipi' genannt).",
+        "Die Hänge sind so steil, dass Erdrutsche während der Regenzeit fast täglich vorkommen.",
+        "Das feuchte Mikroklima ist unerlässlich für das Überleben der seltenen Quetzal-Vögel.",
+        "Bäche in dieser Zone haben sich tief, fast schlitzförmig in den weichen Kalkstein gewaschen.",
+        "Straßen durch dieses Relief müssen oft in brutalen, gefährlichen Serpentinen gebaut werden."
+      ]
+    },
+    {
+      "id": "valle-de-guatemala-relief-v2",
+      "descriptionAdvanced": "Das Valle de Guatemala (Ermita-Tal), in dem die Millionenmetropole Guatemala-Stadt liegt, ist ein weites, relativ flaches Plateau auf etwa 1.500 Metern Höhe. Topografisch ist das Tal jedoch hochkomplex und extrem gefährlich: Die ebene Fläche wird lückenlos von einem gigantischen Netzwerk aus schwindelerregend tiefen, fast senkrechten Schluchten ('Barrancos') durchzogen, die wie geologische Risse im Boden wirken. Diese Risse entstanden, als Wasser weiche, hunderte Meter tiefe Ascheschichten prähistorischer Vulkanausbrüche auswusch. Im Süden wird das Tal von der aktiven Vulkankette (Pacaya) dominiert, im Norden erheben sich alte Bergrücken. Die extreme städtische Ausbreitung zwingt die Bevölkerung oft, ihre Häuser direkt an die labilen Kanten dieser Barrancos zu bauen, was in der Regenzeit oder bei Erdbeben regelmäßig zu katastrophalen, tödlichen Erdrutschen führt. Geografie K8 — Urbane Topografie und Georisiken.",
+      "factsAdvanced": [
+        "Das Tal von Guatemala ist ein von Vulkanen umrahmtes Plateau aus meterdicker Bimssteinasche.",
+        "Riesige, hunderte Meter tiefe Schluchten (Barrancos) zerteilen die Stadtgebiete.",
+        "Über diese Schluchten mussten zahlreiche, lange Brücken (wie Puente El Incienso) gebaut werden.",
+        "Das weiche vulkanische Bodenrelief führt bei Starkregen massenhaft zu Erdeinbrüchen ('Hundimientos').",
+        "Das Tal wurde erst 1776 als neue Hauptstadt besiedelt, da Antigua durch Erdbeben zerstört wurde.",
+        "Drei aktive tektonische Verwerfungen verlaufen direkt unter dem städtischen Relief des Tals."
+      ]
+    },
+    {
+      "id": "volcan-toliman-relief-v2",
+      "descriptionAdvanced": "Der Volcán Tolimán ist ein massiver, doppelgipfliger Stratovulkan, der eindrucksvoll am Südufer des Atitlán-Sees (Sololá) thront. Mit seinen 3.158 Metern bildet er oft die erste dunkle Silhouette, die man vom Seeufer aus sieht. Das Relief des Tolimán ist extrem komplex: Er besteht nicht aus einem einzigen Kegel, sondern aus zwei eng beieinander liegenden Vulkanschloten (Tolimán Principal und Pico Sur), was ihm eine breitere, massivere Struktur verleiht als seinen perfekt konischen Nachbarn. Seine nördlichen Hänge stürzen extrem steil direkt in den Atitlán-See ab. Im Gegensatz zu vielen Vulkanen in Guatemala hat der Tolimán keinen deutlichen Krater mehr; sein Gipfel ist abgeflacht und mit einem mystischen, fast undurchdringlichen Nebelwald bewachsen. Er gilt seit prähistorischen Zeiten als erloschen. Geografie K7 — Zwillingsvulkane.",
+      "factsAdvanced": [
+        "Der Tolimán ist ein Stratovulkan mit zwei deutlich erkennbaren, bewaldeten Gipfeln.",
+        "An seiner nördlichen Basis befindet sich der stark touristisch geprägte Seeort San Lucas Tolimán.",
+        "Die unterirdische Magmakammer des Vulkans ist seit Jahrtausenden nicht mehr aktiv.",
+        "Die Ostflanke des Vulkans ist durch einen riesigen Lavadom ('Cerro de Oro') verformt.",
+        "Der dichte Urwald auf dem Gipfel ist ein bekanntes Rückzugsgebiet für scheue Pumas.",
+        "Die Hänge sind so felsig, dass der Kaffeeanbau hier schwieriger ist als an benachbarten Vulkanen."
+      ]
+    },
+    {
+      "id": "altiplano-central-relief-v2",
+      "descriptionAdvanced": "Das Zentrale Hochland (Altiplano Central), das die Departamentos Chimaltenango und Sacatepéquez umfasst, bildet das sanfte Rückgrat zwischen der Hauptstadt und dem schroffen Westen. Das Relief hier ist weitaus gnädiger als die extremen Höhen der Cuchumatanes: Es besteht aus breiten, hügeligen Tälern, die auf durchschnittlich 1.800 Metern liegen. Diese sanften Hänge aus dunklen, extrem fruchtbaren andinen Böden machen die Region zum landwirtschaftlichen Zentrum des Landes (Gemüse- und Blumenexport). Begrenzt wird das Plateau durch die gewaltige, omnipräsente vulkanische Mauer der Vulkane Agua, Fuego und Acatenango im Süden. Das Relief fungiert zudem als kontinentale Wasserscheide: Flüsse, die nördlich der Stadt Chimaltenango entspringen, fließen letztendlich in die Karibik, während die südlichen Bäche in den nahen Pazifik stürzen. Geografie K7 — Kontinentale Wasserscheiden.",
+      "factsAdvanced": [
+        "Das Relief des Zentralen Hochlands ist flacher und agrarisch nutzbarer als der raue Westen.",
+        "Genau durch die Stadt Chimaltenango verläuft die Trennlinie (Wasserscheide) der Ozeane.",
+        "Die sanften Täler sind bedeckt mit fruchtbarer, schwarzer Vulkanasche (Pumice) jüngeren Datums.",
+        "Das Plateau wird permanent vom massiven Zwillingsvulkan Fuego-Acatenango überschattet.",
+        "Tiefe Risse (Barrancos) an den Rändern des Plateaus erfordern massive Brückenbauwerke.",
+        "Dieses Relief beheimatet die dichtesten Konzentrationen von Agrarexportfirmen im Land."
+      ]
+    },
+    {
+      "id": "volcan-atitlan-relief-v2",
+      "descriptionAdvanced": "Der Volcán Atitlán ist der majestätischste, höchste (3.537 Meter) und gefährlichste Vulkan der drei Giganten am Atitlán-See. Im Gegensatz zu den inaktiven Nachbarn Tolimán und San Pedro ist der Atitlán ein aktiver Stratovulkan, dessen letzte große Eruption im Jahr 1853 stattfand. Sein Relief ist der Inbegriff eines perfekten Kegels; er erhebt sich als symmetrische Pyramide direkt südlich des Tolimán-Vulkans. Die Hänge des Atitlán sind ab einer gewissen Höhe extrem unzugänglich und kahl, da die jüngeren Ascheschichten kaum dichten Pflanzenwuchs zulassen. Fumarolen (dampfende Erdspalten) in der Nähe des Gipfels deuten darauf hin, dass tief im Gestein immer noch eine heiße Magmakammer brodelt. Die schiere Masse des Vulkans fängt die feuchten Pazifikwinde ab, was an seinen Südhängen zu extremen Regenfällen und perfekten Kaffee-Bedingungen führt. Geografie K8 — Aktive Vulkankegel.",
+      "factsAdvanced": [
+        "Mit 3.537 Metern ist der Atitlán der höchste der drei Vulkane rund um den berühmten See.",
+        "Der Vulkan ist aktiv; historische Dokumente belegen Eruptionen im 15., 18. und 19. Jahrhundert.",
+        "Sein Relief ist extrem steil und ab 3.000 Metern meist nur von losem Vulkansand geprägt.",
+        "Dampfende Erdspalten (Fumarolen) am felsigen Kraterrand heizen den Boden stetig auf.",
+        "Der Atitlán-Vulkan blockiert die Pazifikwinde und erschafft den gefährlichen Seewind 'Xocomil'.",
+        "Aufgrund der steilen, von losem Geröll bedeckten Hänge ist der Aufstieg sehr anspruchsvoll."
+      ]
+    },
+    {
+      "id": "sierra-de-las-minas-norte-relief-v2",
+      "descriptionAdvanced": "Der Nordhang (Vertiente Norte) der Sierra de las Minas im Osten Guatemalas ist ein Relief der extremen hydrologischen Kontraste. Während die Südseite des Gebirges durch Regenschatten als Halbwüste verdorrt, stellt sich die nördliche Flanke direkt den nassen Passatwinden der Karibik in den Weg. Diese Winde werden extrem steil an den über 3.000 Meter hohen, schroffen Kalksteinklippen in die Höhe gezwungen und entladen sich dort unaufhörlich als Starkregen. Dies formte eines der unwegsamsten, nassesten und isoliertesten Regenwald-Reliefs Zentralamerikas. Unzählige Bäche ('Rachuelos') stürzen fast vertikal über Felswände in das Tal des Polochic-Flusses hinab. Dieses steile, grüne Labyrinth ist kaum besiedelt und bietet Schutz für Jaguare, Tapire und Harpyien-Adler, wird aber oft durch zerstörerischen Nickeltagebau am Fuße der Hänge bedroht. Geografie K8 — Steigungsregen und Nordflanken.",
+      "factsAdvanced": [
+        "Die extrem steile Nordflanke der Bergkette fängt den gesamten Niederschlag der Karibikwinde auf.",
+        "Die konstante Feuchtigkeit hat die Felsen stark erodiert und tiefe Schluchten hineingeschnitten.",
+        "Das Relief ist so abweisend, dass es dort kaum nennenswerte menschliche Siedlungen gibt.",
+        "Unzählige steile Wasserfälle prägen das Landschaftsbild und speisen den Polochic-Fluss.",
+        "Die Flora besteht aus dichtem, von riesigen Farnen und Moosen durchzogenem Wolkenwald.",
+        "Der Untergrund dieser Klippen birgt wertvolle, massiv abgebaute Jade- und Nickel-Adern."
+      ]
+    },
+    {
+      "id": "valle-del-polochic-relief-v2",
+      "descriptionAdvanced": "Das Valle del Polochic (Polochic-Tal) ist ein tiefes, langes Tal, das sich wie eine grüne Furche zwischen den massiven Bergketten der Sierra de Chamá im Norden und der Sierra de las Minas im Süden erstreckt. Das Relief des Tals ist flach, extrem feucht und weitet sich nach Osten hin zum Izabal-See immer weiter aus. Da die umliegenden, steilen Berge Milliarden Liter Regenwasser in dieses Tal leiten, gleicht die Talsohle während der Regenzeit oft einem endlosen Sumpf. Historisch nutzten deutsche Einwanderer die etwas höher gelegenen, gut entwässerten Ränder des Tals für den Anbau von hochwertigem Kaffee. Heute ist die flache, heiße Talebene fast vollständig vom aggressiven Anbau von Zuckerrohr und afrikanischen Ölpalmen dominiert, was das natürliche hydrologische System des Reliefs und die angrenzenden Feuchtgebiete massiv unter Druck setzt. Geografie K7 — Schwemmtäler und Agrarindustrie.",
+      "factsAdvanced": [
+        "Das Polochic-Tal ist ein klassisches, flaches Schwemmtal, entstanden durch Flusserosion.",
+        "Die steilen Berge nördlich und südlich formen das Tal wie einen gigantischen, feuchten Trichter.",
+        "Während der Regenzeit überschwemmt der namensgebende Fluss Polochic große Teile der Talsohle.",
+        "Die Böden im Talboden sind durch abgelagerte Sedimente der Berge extrem fruchtbar.",
+        "Riesige Agrarunternehmen haben das feuchte Relief in endlose Ölpalmen-Monokulturen verwandelt.",
+        "Das Tal endet im Osten flach und sumpfig im größten See Guatemalas (Izabal-See)."
+      ]
+    },
+    {
+      "id": "cerro-cahabon-sur-relief-v2",
+      "descriptionAdvanced": "Der südliche Ausläufer des Cerro Cahabón (Cerro Cahabón Sur) in der Alta Verapaz bietet ein klassisches Beispiel für ein hochgradig verkarstetes, zusammengebrochenes Relief. Die Berge hier sind weder spitz noch vulkanisch geformt; vielmehr handelt es sich um hunderte von runden Kalksteinkegeln ('Kegelkarst' oder umgangssprachlich 'Mogotes'), die dicht aneinandergedrängt stehen. Das extreme Tropenklima hat das weiche Kalksteingestein (Roca Caliza) in Jahrmillionen chemisch aufgelöst. Zwischen den Hügeln gibt es oft keine Täler im klassischen Sinn, sondern tiefe, geschlossene Senken (Dolinen), in denen das Regenwasser sofort unterirdisch abfließt. Die Landwirtschaft auf diesem stark zerschnittenen, spitzen Gestein ist ein Albtraum; indigene Q'eqchi'-Bauern pflanzen Kardamom und Mais oft in extrem gefährlichen Winkeln zwischen Felsspalten. Geografie K8 — Kegelkarst-Landschaften.",
+      "factsAdvanced": [
+        "Das Relief des südlichen Cahabón-Gebirges besteht fast komplett aus abgerundeten Kalksteinkegeln.",
+        "Das extrem weiche Gestein (Karst) wird durch den sauren Regen chemisch und physisch aufgelöst.",
+        "Es gibt kaum Oberflächenflüsse; das Wasser verschwindet fast sofort in unterirdischen Höhlensystemen.",
+        "Die Vertiefungen (Dolinen) zwischen den Hügeln sind mit nährstoffreicher roter Tonerde (Terra Rossa) gefüllt.",
+        "Die zerklüftete Topografie macht den Bau von Straßen hier extrem teuer und anfällig für Einbrüche.",
+        "Die Bauern nutzen Macheten und einfache Werkzeuge, da Traktoren auf dem Gestein nutzlos sind."
+      ]
+    },
+    {
+      "id": "volcan-siete-orejas-relief-v2",
+      "descriptionAdvanced": "Der Volcán Siete Orejas (Vulkan der Sieben Ohren) ist ein massiver, aber geologisch 'zerstörter' Schichtvulkan direkt westlich von Quetzaltenango (Xela). Sein Relief ist weltweit bemerkenswert: Anstatt eines klassischen Kegels besitzt er eine gigantische, völlig offene Caldera. Vor schätzungsweise 85.000 Jahren explodierte die gesamte Südseite des Berges und schleuderte unglaubliche Mengen an Gestein und Bimsstein in das tiefe Pazifiktal hinab. Zurück blieben sieben markante, spitze Gipfel (die 'Ohren'), die den Rand des riesigen hufeisenförmigen Kraters bilden. Das Innere der gewaltigen Krateröffnung ist heute völlig bewaldet und verbirgt heilige Höhlen und heiße Quellen, die von Maya-Priestern für intensive Zeremonien genutzt werden. Die Asche dieser prähistorischen Explosion bildete die extrem fruchtbaren Böden, auf denen heute das Gemüse von Xela gedeiht. Geografie K8 — Eingestürzte Calderen.",
+      "factsAdvanced": [
+        "Der Vulkan erhielt seinen Namen wegen seiner sieben gezackten, übriggebliebenen Gipfelspitzen.",
+        "Die offene Caldera ist das Resultat einer massiven, gerichteten Eruption in Richtung Pazifik.",
+        "Mit 3.370 Metern ist er einer der dominantesten, wenn auch stark erodierten Berge nahe Xela.",
+        "In der riesigen U-förmigen Öffnung entspringen mehrere heiße geothermische Quellen.",
+        "Der Vulkan ist erloschen, bietet aber noch heute wichtige spirituelle Stätten in seinen Felswänden.",
+        "Die massive Bimsstein-Ascheschicht (Pumice) der Region stammt größtenteils aus seinem Ausbruch."
+      ]
+    },
+    {
+      "id": "sierra-de-las-minas-este-relief-v2",
+      "descriptionAdvanced": "Der östliche Abschnitt der Sierra de las Minas markiert das abrupte Ende dieser mächtigen Gebirgskette, bevor sie flach ins Izabal-See-Becken ausläuft. Hier ist das Relief besonders dramatisch gefaltet: Die uralten Metamorph- und Serpentinitgesteine wurden über Millionen von Jahren aufgefaltet, während sich Flüsse extrem tief eingeschnitten haben. Durch den vulkanischen Ursprung des Gesteins barg dieses zackige Relief im Osten einige der größten und reichsten Nickelerzvorkommen Mittelamerikas. Der aggressive Tagebau (Bergbau an der Oberfläche) in Orten wie El Estor hat weite Teile der grünen Hügel buchstäblich abgetragen und rote, vernarbte Landschaften hinterlassen. Die Erosion auf diesen abgeholzten, mineralreichen Hängen ist extrem hoch und wäscht giftige Sedimente in den nahegelegenen Izabal-See, was immer wieder zu massiven Konflikten mit der lokalen Q'eqchi'-Bevölkerung führt. Geografie K8 — Bergbau und Bodenerosion.",
+      "factsAdvanced": [
+        "Der östliche Teil des Gebirges besteht größtenteils aus sehr altem, erzreichem Serpentinitgestein.",
+        "Das hügelige, abfallende Relief verbirgt einige der größten Nickellagerstätten der Welt.",
+        "Massiver Tagebau (Cielo Abierto) hat große Teile der ursprünglichen Topografie dauerhaft abgetragen.",
+        "Ohne die schützende Vegetation kommt es an den roten Erdhängen zu enormer Wassererosion.",
+        "Giftige Mineralschlämme aus den Bergen verschmutzen oft das Delta des Izabal-Sees.",
+        "Die steilen Täler waren historisch fast unzugänglich, bevor riesige Bergbaustraßen gebaut wurden."
+      ]
+    },
+    {
+      "id": "valle-de-las-flores-relief-v2",
+      "descriptionAdvanced": "Das Valle de las Flores (Tal der Blumen) ist eigentlich eine Reihe von kleinen, fruchtbaren Hochebenen im kühlen Departamento Sacatepéquez, in der Umgebung der Stadt San Juan Sacatepéquez. Topografisch ist das Gebiet ein sanftes, offenes Vulkanplateau, das auf etwa 1.800 Metern liegt und sich durch extrem leichte Hänge auszeichnet. Diese sanften Hänge ('Laderas suaves') und die meterdicken Ascheschichten der benachbarten Vulkane Fuego und Agua bieten perfekte Bedingungen für den intensivsten Blumenanbau des Landes. Das Relief ist in ein Mosaik aus quadratischen Parzellen unterteilt, auf denen unter schwarzen Netzen (Saran) Millionen von Rosen, Nelken und Chrysanthemen für den Export in die USA und für das Drachenfest gezüchtet werden. Das Tal ist ein Paradebeispiel dafür, wie ein weiches, vulkanisches Relief maximale landwirtschaftliche Produktivität ermöglicht. Landwirtschaft K7 — Florikultur auf Vulkanböden.",
+      "factsAdvanced": [
+        "Das Tal bildet eine flache, leicht geneigte Hochebene auf rund 1.800 Metern.",
+        "Das weiche Bodenrelief besteht vollständig aus stark mineralisierter Vulkanasche (Pumice).",
+        "Aufgrund der flachen Struktur ist das Gebiet das Zentrum der guatemaltekischen Florikultur (Blumen).",
+        "Sanfte Hügel verhindern, dass das Tal in der Regenzeit überflutet wird (gute Drainage).",
+        "Riesige schwarze Schattennetze ('Saran') dominieren die optische Struktur des Tals aus der Luft.",
+        "Erdbeben verursachen hier oft kleine Risse im weichen Ascheboden, aber keine großen Erdrutsche."
+      ]
+    }
+  ]
+}

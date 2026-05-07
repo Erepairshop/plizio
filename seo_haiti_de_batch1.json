@@ -1,0 +1,285 @@
+{
+  "lang": "de",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bombardopolis-cities-v2",
+      "descriptionAdvanced": "Bombardopolis ist eine historische Gemeinde im Nordwesten Haitis, die 1764 von deutschen und akadischen Siedlern gegründet wurde. Die Stadt zeichnet sich durch ihre einzigartige koloniale Geschichte und ihre isolierte, aber faszinierende Landschaft aus. Die Landwirtschaft, insbesondere der Anbau von Mais und Bohnen, bildet die Grundlage der lokalen Wirtschaft. Geographie K6 — Historische Siedlungen.",
+      "factsAdvanced": [
+        "Wurde 1764 gegründet.",
+        "Ursprünglich von deutschen Siedlern bewohnt.",
+        "Liegt im Département Nord-Ouest.",
+        "Befindet sich auf einer Höhe von rund 400 Metern.",
+        "Wichtiger Ort für den Anbau von Grundnahrungsmitteln.",
+        "Benannt nach dem deutschen Philanthropen Karl von Bombelles."
+      ]
+    },
+    {
+      "id": "baie-de-henne-cities-v2",
+      "descriptionAdvanced": "Baie-de-Henne ist eine abgelegene Küstengemeinde im Nordwesten Haitis, die für ihre trockene Landschaft und die tiefe Abhängigkeit von der Fischerei bekannt ist. Trotz der Herausforderungen durch Dürren bietet die Bucht eine malerische Kulisse und historische Bedeutung für die Küstenschifffahrt in der Karibik. Sachkunde K5 — Küstenlandschaften.",
+      "factsAdvanced": [
+        "Liegt im Arrondissement Môle-Saint-Nicolas.",
+        "Die Region hat ein sehr trockenes Mikroklima.",
+        "Fischerei ist die Hauptnahrungsquelle.",
+        "Verfügt über historische Ankerplätze für Segelschiffe.",
+        "Die Küstenlinie ist von steilen Klippen geprägt.",
+        "Meersalzgewinnung wird in kleinem Maßstab betrieben."
+      ]
+    },
+    {
+      "id": "jean-rabel-cities-v2",
+      "descriptionAdvanced": "Jean-Rabel liegt in einer fruchtbaren Ebene des Nordwestens und ist ein wichtiges landwirtschaftliches Zentrum, das sich durch den Anbau von Kaffee und Kakao auszeichnet. Die Gemeinde blickt auf eine bewegte Geschichte zurück, einschließlich bedeutender agrarpolitischer Bewegungen in den 1980er Jahren. Geschichte K7 — Agrargeschichte und Landreformen.",
+      "factsAdvanced": [
+        "Wichtiger Produzent von Kakao und Kaffee.",
+        "Schauplatz des Jean-Rabel-Massakers 1987.",
+        "Die Gemeinde umfasst weite landwirtschaftliche Ebenen.",
+        "Ist stark von der Subsistenzwirtschaft geprägt.",
+        "Verfügt über koloniale Ruinen im Umland.",
+        "Zählt zu den bevölkerungsreichsten Orten im Nordwesten."
+      ]
+    },
+    {
+      "id": "anse-a-folleur-cities-v2",
+      "descriptionAdvanced": "Anse-à-Foleur ist eine Küstenstadt im Nordwesten, berühmt für ihre religiöse Wallfahrtstradition rund um die Kirche Sainte-Anne. Jedes Jahr zieht der kleine Ort Tausende von Pilgern an, was eine einzigartige Mischung aus katholischem Glauben und Voodoo-Traditionen darstellt. Religion K6 — Synkretismus und Wallfahrten.",
+      "factsAdvanced": [
+        "Bedeutender Wallfahrtsort in Haiti.",
+        "Die Kirche Sainte-Anne steht im Zentrum der Stadt.",
+        "Zieht Pilger aus dem ganzen Land an.",
+        "Die lokale Wirtschaft profitiert vom religiösen Tourismus.",
+        "Liegt an einer ungeschützten Bucht.",
+        "Traditioneller Bootsbau wird hier praktiziert."
+      ]
+    },
+    {
+      "id": "saint-michel-de-lattalaye-cities-v2",
+      "descriptionAdvanced": "Saint-Michel-de-l'Attalaye, gelegen im Département Artibonite, ist eine der wichtigsten landwirtschaftlichen Zonen Haitis. Die Region ist landesweit bekannt für ihre ausgedehnten Zuckerrohrfelder und die traditionelle Herstellung von Clairin, einem haitianischen Rum. Wirtschaft K8 — Landwirtschaftliche Produktion.",
+      "factsAdvanced": [
+        "Größter Produzent von Zuckerrohr in der Region.",
+        "Berühmt für die Herstellung von Clairin.",
+        "Liegt im Plateau Central Haitis.",
+        "Ehemals Teil des spanischen Kolonialgebiets.",
+        "Die Stadt hat ein eigenes Mikroklima, das die Landwirtschaft begünstigt.",
+        "Verfügt über ein wichtiges Marktzentrum für Agrarprodukte."
+      ]
+    },
+    {
+      "id": "marmelade-cities-v2",
+      "descriptionAdvanced": "Marmelade ist eine Bergstadt im Département Artibonite, die für ihr kühles Klima und den erfolgreichen Kaffeeanbau bekannt ist. Historisch spielte sie eine wichtige Rolle während der haitianischen Revolution als Stützpunkt von Toussaint Louverture. Geschichte K8 — Haitianische Revolution.",
+      "factsAdvanced": [
+        "Liegt auf einer Höhe von über 800 Metern.",
+        "Bekannt für hochwertigen Bergkaffee.",
+        "War ein Hauptquartier von Toussaint Louverture.",
+        "Zeichnet sich durch ein angenehm kühles Mikroklima aus.",
+        "Fokus auf nachhaltige Landwirtschaft in den letzten Jahren.",
+        "Wichtiger Produzent von Zitrusfrüchten und Gemüse."
+      ]
+    },
+    {
+      "id": "lascahobas-cities-v2",
+      "descriptionAdvanced": "Lascahobas ist eine lebhafte Marktstadt im Département Centre, nahe der dominikanischen Grenze. Sie dient als wichtiger Handelsknotenpunkt für landwirtschaftliche Produkte und ist stark von grenzüberschreitenden wirtschaftlichen Aktivitäten geprägt. Wirtschaft K7 — Grenzüberschreitender Handel.",
+      "factsAdvanced": [
+        "Wichtiger Grenzmarkt zur Dominikanischen Republik.",
+        "Zentrum für den Handel mit Erdnüssen und Mais.",
+        "Liegt im fruchtbaren Plateau Central.",
+        "War einst zwischen Haiti und Spanien umstritten.",
+        "Wichtiger Verkehrsknotenpunkt in der Region Centre.",
+        "Verfügt über ein bedeutendes Wasserkraftpotenzial in der Nähe."
+      ]
+    },
+    {
+      "id": "savanette-cities-v2",
+      "descriptionAdvanced": "Savanette ist eine grenznahe Gemeinde im Département Centre, geprägt von ihrer rauen, gebirgigen Landschaft. Die lokale Wirtschaft stützt sich vor allem auf die Subsistenzlandwirtschaft, in der Bohnen, Mais und Kaffee unter schwierigen topografischen Bedingungen angebaut werden. Geographie K6 — Leben im Hochland.",
+      "factsAdvanced": [
+        "Direkte Grenze zur Dominikanischen Republik.",
+        "Die Landschaft ist stark von Erosion bedroht.",
+        "Hauptanbauprodukte sind Bohnen und Mais.",
+        "Wichtige Schmugglerroute in der Vergangenheit.",
+        "Es gibt kaum ausgebaute Straßen in der Region.",
+        "Die Bevölkerung lebt stark von der Landwirtschaft."
+      ]
+    },
+    {
+      "id": "cerca-la-source-cities-v2",
+      "descriptionAdvanced": "Cerca-la-Source liegt im Département Centre und ist landesweit für seine natürlichen heißen Quellen bekannt. Die fruchtbaren Böden in der Nähe der dominikanischen Grenze unterstützen einen intensiven lokalen Gemüseanbau und ziehen viele Besucher an. Naturwissenschaften K5 — Geothermie und heiße Quellen.",
+      "factsAdvanced": [
+        "Heimat der bekannten Source Chaude (heiße Quellen).",
+        "Die Quellen haben eine konstante Temperatur von etwa 35°C.",
+        "Das Wasser soll therapeutische Eigenschaften haben.",
+        "Die Gemeinde liegt am Fluss Artibonite.",
+        "Wichtiger Anbauort für Maniok und Süßkartoffeln.",
+        "Grenzt direkt an die Dominikanische Republik."
+      ]
+    },
+    {
+      "id": "gros-roche-cities-v2",
+      "descriptionAdvanced": "Gros-Roche ist eine ländliche Gemeinde im Département Centre, die stark von der traditionellen Subsistenzlandwirtschaft und Viehzucht geprägt ist. Die hügelige Topographie und das raue Klima erfordern anpassungsfähige landwirtschaftliche Techniken von der lokalen Bevölkerung. Sachkunde K4 — Ländliche Gemeinschaften.",
+      "factsAdvanced": [
+        "Auch bekannt als Cerca-Carvajal.",
+        "Die Wirtschaft basiert stark auf Viehzucht.",
+        "Geprägt von einer bergigen und schwer zugänglichen Landschaft.",
+        "Mais und Hirse sind die Hauptanbauprodukte.",
+        "Die Region hat eine sehr geringe Bevölkerungsdichte.",
+        "Der Ort ist stark in traditionelle familiäre Strukturen eingebunden."
+      ]
+    },
+    {
+      "id": "mont-organise-cities-v2",
+      "descriptionAdvanced": "Mont-Organisé ist eine gebirgige Gemeinde im Département Nord-Est, die sich durch den erfolgreichen Anbau von Kaffee und Kakao auszeichnet. Durch die Nähe zur dominikanischen Grenze spielt die Stadt eine wichtige Rolle im informellen Grenzhandel und der landwirtschaftlichen Vernetzung. Wirtschaft K7 — Kaffeeanbau und Handel.",
+      "factsAdvanced": [
+        "Gegründet in den frühen Jahren der haitianischen Republik.",
+        "Bekannt für den Anbau von Schattenkaffee.",
+        "Liegt im Massif du Nord.",
+        "Spielt eine Rolle im Grenzhandel mit der Dominikanischen Republik.",
+        "Die Region verfügt über viele kleine Wasserfälle.",
+        "Die Infrastruktur ist durch die Berge stark limitiert."
+      ]
+    },
+    {
+      "id": "vallieres-cities-v2",
+      "descriptionAdvanced": "Vallières ist ein historischer und landwirtschaftlicher Ort im Département Nord-Est, der tief in den Bergen des Massif du Nord liegt. Umgeben von dichtem Wald, kultivieren die Einwohner traditionell Kaffee, Kakao und eine Vielzahl von Zitrusfrüchten. Geographie K7 — Landwirtschaft in Bergregionen.",
+      "factsAdvanced": [
+        "Liegt in einer der waldreichsten Zonen des Nordostens.",
+        "Zentrum des Kakao- und Kaffeeanbaus.",
+        "Historisch ein Rückzugsort für entflohene Sklaven (Maroons).",
+        "Die Flüsse der Region führen oft Goldstaub.",
+        "Befindet sich auf über 500 Metern Höhe.",
+        "Die Landwirtschaft profitiert von fruchtbaren Böden."
+      ]
+    },
+    {
+      "id": "capotille-cities-v2",
+      "descriptionAdvanced": "Capotille ist eine strategisch wichtige Agrargemeinde im Nordosten Haitis, die durch den Fluss Dajabón von der Dominikanischen Republik getrennt wird. Sie ist ein Knotenpunkt für den bilateralen Handel und den Anbau von Grundnahrungsmitteln, die beide Seiten der Grenze versorgen. Wirtschaft K6 — Grenzmärkte.",
+      "factsAdvanced": [
+        "Der Fluss Dajabón (Massacre) bildet die natürliche Grenze.",
+        "Wichtiger Standort für den grenzüberschreitenden Handel.",
+        "Historisch bedeutsam im Grenzkonflikt von 1937.",
+        "Hauptsächlich landwirtschaftlich geprägt.",
+        "Erdnüsse und Bohnen sind die wichtigsten Erntegüter.",
+        "Viele Einwohner pendeln zur Arbeit über die Grenze."
+      ]
+    },
+    {
+      "id": "arcahaie-cities-v2",
+      "descriptionAdvanced": "Arcahaie, eine Stadt nördlich von Port-au-Prince, ist als historischer Geburtsort der haitianischen Flagge berühmt. Am 18. Mai 1803 zerriss Jean-Jacques Dessalines hier die französische Trikolore, um das blau-rote Banner der Unabhängigkeit zu schaffen. Geschichte K8 — Entstehung nationaler Symbole.",
+      "factsAdvanced": [
+        "Gilt als 'Stadt der Flagge' (Cité du Drapeau).",
+        "1803 wurde hier die haitianische Flagge entworfen.",
+        "Katharina Flon soll die erste Flagge hier genäht haben.",
+        "Die Region ist auch ein großer Produzent von Bananen.",
+        "Jedes Jahr finden am 18. Mai große nationale Feiern statt.",
+        "Liegt direkt am Golf von Gonâve."
+      ]
+    },
+    {
+      "id": "cabaret-cities-v2",
+      "descriptionAdvanced": "Cabaret ist eine wachsende Stadt nördlich der Hauptstadt, die von einer Mischung aus Landwirtschaft und Küstenhandel profitiert. Unter dem Duvalier-Regime wurde der Ort als Duvalierville bekannt und zeugt noch heute von den Architekturprojekten dieser historischen Epoche. Geschichte K7 — Das Duvalier-Regime.",
+      "factsAdvanced": [
+        "Wurde zwischen 1961 und 1986 Duvalierville genannt.",
+        "War als modernistische Musterstadt geplant.",
+        "Einige Betonstrukturen aus den 1960ern stehen noch heute.",
+        "Wichtiger Transitpunkt an der Nationalstraße 1.",
+        "Zentrum für den lokalen Markt und Landwirtschaft.",
+        "Die Küstenebene ist fruchtbar und wird intensiv genutzt."
+      ]
+    },
+    {
+      "id": "cornillon-cities-v2",
+      "descriptionAdvanced": "Cornillon, oft auch Grand-Bois genannt, ist eine isolierte, hoch gelegene Gemeinde im Département Ouest. Das auffällig kühle Klima begünstigt den Anbau von Bergkaffee und Gemüse, während die dichten Wälder der Region eine wichtige Rolle für das lokale Ökosystem spielen. Geographie K5 — Gebirgsökologie.",
+      "factsAdvanced": [
+        "Liegt im Gebirgszug Chaîne des Matheux.",
+        "Das Klima ist deutlich kühler als im Rest des Landes.",
+        "Bekannt für den Anbau von hochwertigem Bergkaffee.",
+        "Die Region leidet unter starker Entwaldung.",
+        "Nur schwer über unbefestigte Straßen erreichbar.",
+        "Geprägt von einer tief verwurzelten landwirtschaftlichen Tradition."
+      ]
+    },
+    {
+      "id": "ganthier-cities-v2",
+      "descriptionAdvanced": "Ganthier liegt östlich der Hauptstadt in der Ebene des Cul-de-Sac und grenzt an den Étang Saumâtre, Haitis größten See. Die Stadt ist ein wichtiges landwirtschaftliches Zentrum, das besonders für seine großen Mango- und Bananenplantagen bekannt ist. Biologie K6 — Salzwasserseen und Landwirtschaft.",
+      "factsAdvanced": [
+        "Liegt am Ufer des Étang Saumâtre (Azuei-See).",
+        "Wichtige Transitstadt auf dem Weg zur Dominikanischen Republik.",
+        "Der See beherbergt eine Population von amerikanischen Krokodilen.",
+        "Einer der Hauptproduzenten von Mangos für den Export.",
+        "Das Klima ist trocken und heiß.",
+        "Der Seepegel ist in den letzten Jahren dramatisch gestiegen."
+      ]
+    },
+    {
+      "id": "fonds-verrettes-cities-v2",
+      "descriptionAdvanced": "Fonds-Verrettes ist eine hochgelegene Gemeinde an der dominikanischen Grenze, umgeben von einem der letzten Kiefernwälder Haitis. Die Region ist anfällig für Umweltkatastrophen, beherbergt jedoch eine widerstandsfähige Gemeinschaft, die vom Gemüse- und Kaffeeanbau lebt. Umweltkunde K8 — Erosion und Naturschutz.",
+      "factsAdvanced": [
+        "Wurde 2004 durch katastrophale Überschwemmungen schwer getroffen.",
+        "Liegt in der Nähe des Forêt des Pins (Kiefernwald).",
+        "Befindet sich auf über 1.000 Metern Höhe.",
+        "Wichtiger Produzent von Karotten, Kohl und Kaffee.",
+        "Stark von Bodenerosion und Entwaldung bedroht.",
+        "Wichtiger Grenzübergang für lokale Händler."
+      ]
+    },
+    {
+      "id": "tiburon-cities-v2",
+      "descriptionAdvanced": "Tiburon, gelegen an der äußersten südwestlichen Spitze der haitianischen Halbinsel, ist eine historische Hafenstadt mit einem Schwerpunkt auf Fischerei. Die isolierte Lage hat dazu beigetragen, traditionelle haitianische Lebensweisen und eine unberührte Küstenlandschaft zu bewahren. Geographie K5 — Küstenstädte und Fischerei.",
+      "factsAdvanced": [
+        "Namensgeber für die Tiburon-Halbinsel.",
+        "Historisch ein Zufluchtsort für Piraten und Freibeuter.",
+        "Die Wirtschaft basiert fast ausschließlich auf Fischerei.",
+        "Nur über schwierige Bergstraßen zu erreichen.",
+        "Verfügt über einige der am besten erhaltenen Strände des Landes.",
+        "War während der Revolution ein strategisch wichtiger Punkt."
+      ]
+    },
+    {
+      "id": "les-anglais-cities-v2",
+      "descriptionAdvanced": "Les Anglais ist eine malerische Küstenstadt im Département Sud, bekannt für ihre koloniale Vergangenheit und historische Handelsrouten. Die Landwirtschaft im Hinterland und die Fischerei an der Küste bilden das Rückgrat der lokalen Gemeinschaft in dieser ruhigen Ecke Haitis. Geschichte K6 — Koloniale Handelswege.",
+      "factsAdvanced": [
+        "Gegründet von englischen Siedlern vor der französischen Übernahme.",
+        "Die Kirche Notre-Dame de Lourdes ist ein lokales Wahrzeichen.",
+        "Liegt an der fruchtbaren Südküste.",
+        "Der Fluss Les Anglais durchquert die Gemeinde.",
+        "Hauptanbauprodukte sind Vetiver und Kokosnüsse.",
+        "Die Strände der Region sind für ihren schwarzen Sand bekannt."
+      ]
+    },
+    {
+      "id": "chardonniere-cities-v2",
+      "descriptionAdvanced": "Les Chardonnières ist ein friedliches Fischer- und Bauerndorf an der Südküste Haitis. Die Region besticht durch ihre malerische Lage zwischen den Bergen des Macaya-Nationalparks und dem Karibischen Meer, was ihr ein enormes, aber ungenutztes touristisches Potenzial verleiht. Geographie K5 — Leben zwischen Berg und Meer.",
+      "factsAdvanced": [
+        "Berühmt für den Anbau von hochwertigen Kokosnüssen.",
+        "Liegt südlich des Pic Macaya Nationalparks.",
+        "Wichtiger Produzent von Meersalz und Fisch.",
+        "Die Straßenverbindungen sind oft durch starke Regenfälle blockiert.",
+        "Die lokale Architektur bewahrt viele Lebkuchenhaus-Elemente.",
+        "Die Region hat ein sehr tropisches und feuchtes Klima."
+      ]
+    },
+    {
+      "id": "arnaud-cities-v2",
+      "descriptionAdvanced": "Arnaud ist eine kleine, eng vernetzte Agrargemeinde im Département Nippes. Der Ort zeichnet sich durch seine traditionelle Produktion von Wurzelgemüse wie Yamswurzeln und Maniok aus und spielt eine wichtige Rolle in der regionalen Lebensmittelversorgung. Wirtschaft K5 — Wurzelgemüse-Anbau.",
+      "factsAdvanced": [
+        "Eine der jüngsten Gemeinden im Département Nippes.",
+        "Die Wirtschaft ist fast zu 100 % agrarisch.",
+        "Bekannt für den großflächigen Anbau von Yamswurzeln.",
+        "Liegt in einer hügeligen und grünen Landschaft.",
+        "Es gibt kaum städtische Infrastruktur.",
+        "Lokale Märkte sind der Haupttreffpunkt der Gemeinde."
+      ]
+    },
+    {
+      "id": "lazarre-cities-v2",
+      "descriptionAdvanced": "L'Asile liegt in einer fruchtbaren Senke im Département Nippes und ist ein wichtiges Zentrum für den Anbau von Kaffee, Kakao und verschiedenen tropischen Obstsorten. Die Gemeinde ist umgeben von beeindruckenden Bergen und beherbergt eine traditionsreiche landwirtschaftliche Kultur. Landwirtschaft K6 — Tropischer Obstbau.",
+      "factsAdvanced": [
+        "War schwer vom Erdbeben 2021 betroffen.",
+        "Zentrum des Kakao- und Kaffeehandels in Nippes.",
+        "Der Name L'Asile bedeutet übersetzt 'das Asyl'.",
+        "Wird vom Fluss Nippes durchflossen.",
+        "Bekannt für den Anbau von Brotfrucht und Mangos.",
+        "Die Berge ringsum erreichen Höhen von über 800 Metern."
+      ]
+    }
+  ]
+}

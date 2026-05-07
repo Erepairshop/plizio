@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "white-house-landmarks-v2",
+      "descriptionAdvanced": "The White House, located at 1600 Pennsylvania Avenue in Washington, D.C., is the official residence and workplace of the President of the United States. Since John Adams first moved in in 1800, it has served as the symbolic center of American executive power, witnessing every president's administration—except for George Washington—and hosting countless historic policy decisions, diplomatic meetings, and state functions. Its Neoclassical design has become one of the most recognizable structures in the world, embodying the continuity of American democratic governance. Today, the White House remains a profound symbol of the presidency, an essential site of national political life, and a living museum of American history and diplomacy. Geschichte K8 — Executive power and political history.",
+      "factsAdvanced": [
+        "Official residence and workplace of the President of the United States.",
+        "Occupied by every US president since John Adams in 1800.",
+        "Serves as the symbolic center of American executive power.",
+        "Recognizable Neoclassical design stands as an architectural icon of democracy.",
+        "Host to countless historic policy decisions, state functions, and diplomacy.",
+        "A living monument to the history of the American presidency."
+      ]
+    },
+    {
+      "id": "independence-hall-landmarks-v2",
+      "descriptionAdvanced": "Independence Hall in Philadelphia, Pennsylvania, is the historic site where both the Declaration of Independence and the United States Constitution were debated, drafted, and signed. Built as the Pennsylvania State House, it hosted the Second Continental Congress and the Constitutional Convention, serving as the crucible for the foundational political documents that established American democracy. The Georgian-style brick building remains a powerful site of American memory, symbolizing the intellectual courage of the Founding Fathers who debated the framework of a new republic. Today, as a UNESCO World Heritage site, it is celebrated as the birthplace of the United States and the defining site for the origins of American republican governance. Geschichte K8 — The birth of American democracy.",
+      "factsAdvanced": [
+        "Historic site where the Declaration of Independence and US Constitution were signed.",
+        "Originally built as the Pennsylvania State House in the 18th century.",
+        "Host to the Second Continental Congress and the Constitutional Convention.",
+        "Recognized globally as the birthplace of American republican democracy.",
+        "A UNESCO World Heritage site of profound historical significance.",
+        "The site where early founders debated the framework for a new republic."
+      ]
+    },
+    {
+      "id": "liberty-bell-landmarks-v2",
+      "descriptionAdvanced": "The Liberty Bell, housed in Philadelphia, Pennsylvania, is the enduring symbol of American freedom and independence. Originally cast in 1752, it famously rang out to mark the reading of the Declaration of Independence in 1776. The bell became an iconic symbol during the 19th century, adopted by abolitionists—who famously named it the 'Liberty Bell' to advocate for the end of slavery—and later by women’s suffragists. Known for its distinctive crack, the bell is not only a relic of the revolutionary era but a malleable symbol that has been repurposed by various movements to advocate for civil rights and national justice. Today, it remains a central site for understanding the American pursuit of freedom and the evolving nature of democracy. Geschichte K7 — The evolving symbol of American liberty.",
+      "factsAdvanced": [
+        "Enduring symbol of American freedom, famously associated with 1776.",
+        "Originally cast in 1752 for the Pennsylvania State House.",
+        "Adopted by 19th-century abolitionists as a symbol to fight slavery.",
+        "Later became a central emblem for the women’s suffrage movement.",
+        "The bell’s distinctive crack has become part of its legendary American identity.",
+        "Continues to serve as a symbol for evolving civil rights and justice."
+      ]
+    }
+  ]
+}

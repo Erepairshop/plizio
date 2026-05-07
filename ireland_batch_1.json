@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ireland",
+    "name": "Irlanda"
+  },
+  {
+    "id": "city-dublin",
+    "name": "Dublin"
+  },
+  {
+    "id": "city-cork",
+    "name": "Cork"
+  },
+  {
+    "id": "city-galway",
+    "name": "Galway"
+  },
+  {
+    "id": "city-limerick",
+    "name": "Limerick"
+  },
+  {
+    "id": "ie-belfast",
+    "name": "Belfast"
+  },
+  {
+    "id": "city-sligo",
+    "name": "Sligo"
+  },
+  {
+    "id": "city-waterford",
+    "name": "Waterford"
+  },
+  {
+    "id": "city-kilkenny",
+    "name": "Kilkenny"
+  },
+  {
+    "id": "city-athlone",
+    "name": "Athlone"
+  },
+  {
+    "id": "city-tralee",
+    "name": "Tralee"
+  },
+  {
+    "id": "city-dundalk",
+    "name": "Dundalk"
+  },
+  {
+    "id": "city-ennis",
+    "name": "Ennis"
+  },
+  {
+    "id": "city-carlow",
+    "name": "Carlow"
+  },
+  {
+    "id": "city-wexford",
+    "name": "Wexford"
+  },
+  {
+    "id": "city-navan",
+    "name": "Navan"
+  },
+  {
+    "id": "nat-cliffs-of-moher",
+    "name": "Stâncile Moher"
+  },
+  {
+    "id": "nat-giants-causeway",
+    "name": "Giant's Causeway"
+  },
+  {
+    "id": "nat-ring-kerry",
+    "name": "Ring of Kerry"
+  },
+  {
+    "id": "nat-connemara",
+    "name": "Connemara"
+  },
+  {
+    "id": "nat-burren",
+    "name": "The Burren"
+  },
+  {
+    "id": "nat-carrauntoohil",
+    "name": "Carrauntoohil"
+  },
+  {
+    "id": "nat-croagh-patrick",
+    "name": "Croagh Patrick"
+  },
+  {
+    "id": "nat-lough-corrib",
+    "name": "Lough Corrib"
+  },
+  {
+    "id": "nat-lough-derg",
+    "name": "Lough Derg"
+  },
+  {
+    "id": "nat-river-shannon",
+    "name": "Râul Shannon"
+  },
+  {
+    "id": "nat-river-boyne",
+    "name": "Râul Boyne"
+  },
+  {
+    "id": "nat-achill-island",
+    "name": "Insula Achill"
+  },
+  {
+    "id": "nat-avondale-forest",
+    "name": "Pădurea Avondale"
+  },
+  {
+    "id": "cult-blarney-castle",
+    "name": "Castelul Blarney"
+  }
+]

@@ -1,0 +1,250 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mausoleum-of-tan-gun-history-v2",
+      "descriptionAdvanced": "A Dangun (Tangun) Mauzóleum a Kangdong megyében, Phenjan közelében található kőpiramis, amely az észak-koreai állítások szerint Dangunnak, a koreai nemzet mitologikus alapítójának (Gojoseon királyság, i.e. 2333) a sírja. A helyszínt 1994-ben, Kim Ir Szen halála előtt nem sokkal tárták fel, és a hivatalos régészet szerint megtalálták Dangun és felesége maradványait, amiket állítólag 5000 évesnek datáltak. A sírt azonnal gigantikus, fehér kőből épült piramissá alakították át, amelyet kőszobrok – miniszterek és tigrisőrzők – vesznek körül. A nemzetközi (és dél-koreai) történészek erősen megkérdőjelezik a lelet hitelességét, úgy vélve, hogy a mauzóleum építése inkább politikai célokat szolgált: Észak-Koreát és Phenjant akarták beállítani a koreai civilizáció egyetlen és legitim örökösének. Plizio tanterv: Történelem K6 — eredetmítoszok és a történelem politikai felhasználása.",
+      "factsAdvanced": [
+        "Dangun a koreai mitológia szerint az első koreai királyság alapítója i.e. 2333-ban.",
+        "A piramis alakú mauzóleumot 1994-ben építették fel egy ásatás nyomán.",
+        "Az észak-koreai régészek állítása szerint 86 csontdarabot találtak itt.",
+        "Az emlékmű területe 1,8 négyzetkilométert foglal el Phenjan határában.",
+        "A sírt kőből faragott miniszterek és fiúk szobrai védelmezik.",
+        "A nemzetközi tudóstársadalom nem ismeri el a leletek 5000 éves korát."
+      ]
+    },
+    {
+      "id": "pohyon-temple-history-v2",
+      "descriptionAdvanced": "A Pohjon (Pohyon) templom a Mjohjang-hegység (Myohyang) egyik legfontosabb történelmi és vallási központja. A 1042-ben, a Goryeo-dinasztia idején alapított buddhista kolostor évszázadokon át a koreai buddhizmus egyik fellegvára volt. Fénykorában több száz szerzetesnek adott otthont és kiterjedt pavilonrendszerrel rendelkezett. A koreai háború során az amerikai szőnyegbombázások szinte teljesen elpusztították, de Észak-Korea később kulturális örökségvédelmi okokból nagyrészt újjáépítette. Ma a templomban látható a 13 emeletes, gyönyörűen faragott Sokka-pagoda, és itt őrzik a koreai buddhista kánon (Tripitaka Koreana) egy ritka nyomtatott másolatát is. Plizio tanterv: Történelem K7 — a koreai buddhizmus és a vallási örökség.",
+      "factsAdvanced": [
+        "A templomot 1042-ben építették a Mjohjang-hegység völgyében.",
+        "Fénykorában a buddhizmus északnyugati központjának számított.",
+        "Az 1950-es évek háborújában az eredeti épületek nagy része leégett.",
+        "A területen áll a híres 13 emeletes, kőből faragott Sokka-pagoda.",
+        "A templom őrzi a híres Tripitaka Koreana fadúcos nyomatának egy példányát.",
+        "A vallásszabadság hiánya miatt ma inkább múzeumként, mint aktív kolostorként működik."
+      ]
+    },
+    {
+      "id": "three-charters-reunification-arch-history-v2",
+      "descriptionAdvanced": "Az Újraegyesítés Három Alapelve Emlékműve (gyakran csak Újraegyesítési Emlékmű) Phenjan déli határában, a Keszongba – és így a dél-koreai határhoz – vezető autópálya felett ívelt át. A 2001-ben átadott gránit emlékmű két hagyományos koreai ruhába (hanbok) öltözött nőt ábrázolt (Észak és Dél jelképeként), akik közösen tartanak egy a térképpel díszített gömböt. A szobor a Kim Ir Szen által megfogalmazott egyesítési alapelveket hirdette. 2024 elején azonban Kim Dzsongun hivatalosan is feladta a békés újraegyesítés célkitűzését, Dél-Koreát 'elsőszámú ellenségnek' nyilvánította, és elrendelte az emlékmű lerombolását. Januárban műholdképek bizonyították, hogy az ikonikus boltívet valóban elbontották. Plizio tanterv: Társadalomismeret K8 — az Észak-Dél kapcsolatok dinamikája és szimbolikája.",
+      "factsAdvanced": [
+        "Az emlékművet 2001-ben adták át a phenjan–keszongi autópálya felett.",
+        "A két nőalak Észak- és Dél-Koreát szimbolizálta, a kezükben az egyesített félszigettel.",
+        "A boltív alatt haladt át mindenki, aki a DMZ felé indult a fővárosból.",
+        "Kim Dzsongun 2024 januárjában 'szemkápráztatónak' nevezte és elrendelte a bontását.",
+        "A lerombolás a békés újraegyesítés hivatalos észak-koreai feladását jelentette.",
+        "Az emlékmű eltűnését elsőként műholdképek alapján erősítették meg nyugati elemzők."
+      ]
+    },
+    {
+      "id": "goguryeo-tombs-complex-history-v2",
+      "descriptionAdvanced": "A Goguryeo (Kogurjo) síremlékek komplexuma Észak-Korea első, 2004-ben bejegyzett UNESCO Világörökségi helyszíne. A Phenjan és Nampo környékén szétszórtan található mintegy 30 ókori sír az i.e. 3. századtól az i.sz. 7. századig uralkodó Goguryeo Királyság nemességének és uralkodóinak nyughelye. A sírok legnagyobb értéke a bennük található lenyűgözően élénk színű, évezredes falfestmények (freskók), amelyek bemutatják az ókori koreaiak mindennapi életét, öltözködését, vadászatait, hiedelemvilágát és a négy égtájat védelmező mitológiai állatokat. A legismertebbek közé tartozik az Anak 3-as számú sír. A sírokat a modern urbanizáció és a beszivárgó nedvesség is fenyegeti. Plizio tanterv: Művészettörténet K7 — ókori falfestészet és temetkezési szokások.",
+      "factsAdvanced": [
+        "Ez volt Észak-Korea legelső UNESCO Világörökségi helyszíne (2004).",
+        "A komplexum mintegy 30 különálló sírból áll a Goguryeo-korszakból.",
+        "A freskók páratlan betekintést nyújtanak az ókori ázsiai életmódba és divatba.",
+        "A sírok kőből épültek, földhalommal borítva.",
+        "Az Anak 3-as számú sír festményei a leginkább épen maradtak közöttük.",
+        "A falfestményeken gyakran megjelennek a taoista és buddhista motívumok keveredései."
+      ]
+    },
+    {
+      "id": "ryongtong-temple-history-v2",
+      "descriptionAdvanced": "A Rjongthong (Ryongtong) templom Keszong városának közelében található történelmi buddhista kolostor. Az eredetileg a 11. században épült templom a Goryeo-dinasztia egyik legfontosabb vallási helyszíne volt, és szorosan kötődik Uicshon (Uichon) szerzeteshez, a koreai Cshonthe (Cheontae) buddhista szekta alapítójához, akit itt is temettek el. Az eredeti épületek a 16. században leégtek. A hely különlegessége, hogy a templomot 2005-ben, a 'Napsugár-politika' idején észak- és dél-koreai közös erőfeszítéssel és finanszírozással építették újjá az alapjaitól. Ez a ritka kulturális együttműködés szimbóluma volt a megosztott félszigeten. Plizio tanterv: Történelem K8 — a koreai háború utáni diplomácia és kulturális rekonstrukció.",
+      "factsAdvanced": [
+        "A templomot a 11. században alapították a Goryeo-dinasztia idején.",
+        "Itt élt és tanított Uicshon, a koreai buddhizmus egyik legnagyobb alakja.",
+        "Az eredeti komplexum egy 16. századi tűzvészben pusztult el.",
+        "2005-ben Dél-Korea pénzügyi támogatásával építették újjá.",
+        "Az újjáépítés a két Korea közötti ritka és békés együttműködés példája volt.",
+        "A területen található Uicshon szerzetes eredeti, kőből faragott sztúpája."
+      ]
+    },
+    {
+      "id": "koryo-songgyungwan-university-history-v2",
+      "descriptionAdvanced": "A Koryo Songgyungwan (Szonggjungvan) a történelmi Keszong városában található, és Korea legrégebbi felsőoktatási intézményeként tartják számon. Eredetileg 992-ben alapították a Goryeo-dinasztia (Koryo) idején, mint a konfucianizmus és a tisztviselői elitképzés legfőbb állami akadémiáját. Az évszázadok során többször újjáépítették, mai formája jórészt a 17. századból származik. A hagyományos koreai építészet remekműve, hatalmas udvarokkal és ősi páfrányfenyőkkel. Ma az épületegyüttes a Koryo Múzeumnak ad otthont, amely kerámiákat és történelmi tárgyakat mutat be, míg a modern egyetemi oktatás (amely ma is a könnyűipar elitjét képzi) egy szomszédos, új kampuszra költözött. 2013-ban UNESCO Világörökség lett. Plizio tanterv: Történelem K7 — konfucianizmus és az oktatás szerepe az ókorban.",
+      "factsAdvanced": [
+        "Az akadémiát 992-ben alapították, ez volt az állami hivatalnokképzés központja.",
+        "A koreai konfucianizmus legfontosabb történelmi iskolája volt.",
+        "Az udvaron ezeréves páfrányfenyők (Ginkgo biloba) találhatók.",
+        "Ma a történelmi épületekben a Koryo Múzeum működik.",
+        "A múzeum több mint 1000 ősi relikviát, köztük híres celadon kerámiákat őriz.",
+        "2013-ban a Keszongi Történelmi Műemlékek részeként UNESCO státuszt kapott."
+      ]
+    },
+    {
+      "id": "chosan-battlefield-history-v2",
+      "descriptionAdvanced": "A Csoszan (Chosan) csatatér Észak-Korea északi határánál, a Jalu folyó mentén található, Csagang tartományban. Történelmi jelentősége a koreai háborúhoz (1950) kötődik: ez volt az a pont, ameddig az amerikai és dél-koreai (ENSZ) erők október végén sikeresen előrenyomultak a félszigeten, miután Phenjant is elfoglalták. Az amerikai katonák innen, Csoszanból jelentették, hogy elérték a kínai határt. Ez a stratégiai közelség váltotta ki Kína közvetlen katonai beavatkozását a háborúba. A Kínai Népi Önkéntes Hadsereg masszív támadása hamarosan visszaszorította az ENSZ erőit a 38. szélességi kör mögé. Csoszan így a háború fordulópontjának földrajzi szimbóluma. Plizio tanterv: Történelem K8 — a hidegháború fordulópontjai és a kínai beavatkozás.",
+      "factsAdvanced": [
+        "Csoszan a Jalu folyó (kínai határ) mentén fekvő stratégiai pont.",
+        "1950. október 26-án a dél-koreai erők itt érték el a határt.",
+        "Ez a közelség provokálta ki a Kínai Népköztársaság fegyveres beavatkozását.",
+        "A kínai ellentámadás innen indult meg dél felé a hegyeken át.",
+        "A térség zord, hegyvidéki terepe megnehezítette az amerikai logisztikát.",
+        "A csatatér emlékeztet a koreai háború legdrámaibb frontvonal-eltolódásaira."
+      ]
+    },
+    {
+      "id": "an-hak-palace-ruins-history-v2",
+      "descriptionAdvanced": "Az Anhak Palota romjai Phenjan külvárosában, a Teszong (Taesong) hegy lábánál fekszenek. Az i.sz. 427-ben épült óriási komplexum a hatalmas Goguryeo (Kogurjo) Királyság királyi palotája volt, miután a fővárost északabbról Phenjanba költöztették. A palota fénykorában egy négyzet alakú, magas falakkal körülvett, 52 épületből álló monumentális struktúra volt, amelynek méretei a kínai császári palotákkal vetekedtek. Az épület a 7. században pusztult el, amikor a Silla és Tang szövetséges erők legyőzték a Goguryeo birodalmat. Ma a helyszínen csak az alapkövek és a rekonstruált elrendezési tervek láthatók, de régészeti szempontból felbecsülhetetlen értékű a korabeli építészet tanulmányozásában. Plizio tanterv: Történelem K6 — királyi udvarok és ókori palotaépítészet.",
+      "factsAdvanced": [
+        "Az Anhak Palota i.sz. 427-től a Goguryeo Királyság központja volt.",
+        "A palotaegyüttes területe meghaladta a 380 000 négyzetmétert.",
+        "A komplexum 52 különálló pavilont és épületet foglalt magába.",
+        "A 7. századi háborúk (Silla-Tang invázió) során földig rombolták.",
+        "Az észak-koreai régészek az 1950-es években tárták fel a romokat.",
+        "A palota elrendezése erős kínai építészeti hatást (feng shui) mutat."
+      ]
+    },
+    {
+      "id": "chollima-statue-history-v2",
+      "descriptionAdvanced": "A Cshollima (Chollima) szobor Phenjan központjában, a Manszude-hegyen emelkedik. A koreai mitológiában a Cshollima egy legendás szárnyas ló, amely képes egy nap alatt ezer 'lit' (kb. 400 km) megtenni, és senki sem tudja megülni. 1956-ban Kim Ir Szen ezt a szimbólumot választotta az ország háború utáni, rohamléptékű iparosítási programjának (Cshollima Mozgalom) jelképéül. A 46 méter magas műemléket 1961-ben adták át; a szárnyas lovon egy munkás (kezében a Párt Központi Bizottságának dokumentumával) és egy parasztnő (kezében rizskévével) vágtat előre a szocialista jövő felé. A szobor Észak-Korea hipergyors, bár kényszermunkára épülő gazdasági mobilizációjának mementója. Plizio tanterv: Társadalomismeret K8 — gazdasági tömegmozgalmak és propagandaművészet.",
+      "factsAdvanced": [
+        "A Cshollima a távol-keleti mitológia napi 400 km-t repülő csodalova.",
+        "A szobrot 1961-ben állították fel Kim Ir Szen 49. születésnapjára.",
+        "A műemlék teljes magassága 46 méter, maga a bronzszobor 14 méteres.",
+        "A ló hátán egy munkás és egy parasztnő ül, a két fő társadalmi osztály.",
+        "A 'Cshollima-sebesség' az észak-koreai iparosodás gyorsaságának hivatalos jelszava lett.",
+        "A szobor alakja az észak-koreai filmstúdiók és sportcsapatok logójában is szerepel."
+      ]
+    },
+    {
+      "id": "samsok-prehistoric-site-history-v2",
+      "descriptionAdvanced": "A Szamszok (Samsok) őskori lelőhely Phenjan külvárosában található, és Észak-Korea egyik legfontosabb régészeti területe. A területen kőkorszaki (paleolitikum és neolitikum), valamint bronzkori leletek sokaságát tárták fel az észak-koreai régészek, beleértve ősi kőeszközöket, kerámiatöredékeket és tűzrakóhelyeket. A hivatalos állami történetírás ezt a helyszínt, valamint a közeli 'Komun Moru' leleteit (amelyeket egymillió évesnek állítanak) használja fel annak bizonyítására, hogy a Koreai-félsziget, és különösen a Taedong folyó medencéje, az emberiség egyik független és ősi bölcsője (az úgynevezett 'Taedonggang civilizáció'). Bár a datálást nemzetközileg gyakran vitatják, a leletek valós betekintést nyújtanak az őskori koreai halász-vadász közösségek életébe. Plizio tanterv: Történelem K5 — a kőkorszak és a régészeti feltárások.",
+      "factsAdvanced": [
+        "A Szamszok területén kőkorszaki és bronzkori települések nyomait találták meg.",
+        "Az itt talált kőeszközök a vadászó-gyűjtögető életmódot bizonyítják.",
+        "Észak-Korea a leletek alapján alkotta meg a 'Taedonggang civilizáció' elméletét.",
+        "A hivatalos narratíva szerint a térség az emberiség egyik ősi bölcsője.",
+        "A külföldi kutatók ritkán kapnak engedélyt az itteni leletek független vizsgálatára.",
+        "Számos ősi dolment (megalitikus síremléket) is felfedeztek a régióban."
+      ]
+    },
+    {
+      "id": "juche-tower-landmarks-v2",
+      "descriptionAdvanced": "A Juche (Dzsucse) Torony Észak-Korea legjellegzetesebb építészeti szimbóluma, amely a Taedong folyó partján, Phenjanban áll. A 170 méter magas obeliszket 1982-ben, Kim Ir Szen 70. születésnapjára emelték, és a 'Juche', a hivatalos önellátási ideológia kőbe zárt manifesztuma. A tornyot egy folyamatosan kivilágított, 20 tonnás fém lángkorona tetőzi be. Lábánál egy hatalmas, háromalakos bronzszobor áll (munkás, paraszt, értelmiségi), akik az állampárt emblémáját tartják. A turisták és a helyiek egyaránt lifttel mehetnek fel a láng alatti kilátóhoz, ahonnan teljes panoráma nyílik a gondosan megtervezett fővárosra. Plizio tanterv: Földrajz K7 — városi panorámák és ideológiai építészet.",
+      "factsAdvanced": [
+        "A Juche Torony 170 méter magasságával a világ egyik legmagasabb kőobeliszkje.",
+        "1982-ben adták át, napra pontosan Kim Ir Szen születésnapján.",
+        "A torony testét pontosan 25 550 gránitkocka alkotja.",
+        "Az emlékmű tetején lévő fém lángkorona súlya eléri a 20 tonnát.",
+        "A lángkoronát sötétedés után élénkpiros fénnyel világítják meg belülről.",
+        "Az alapzatot nemzetközi Juche-tanulmányozó körök által küldött kőtáblák borítják."
+      ]
+    },
+    {
+      "id": "arch-of-triumph-pyongyang-landmarks-v2",
+      "descriptionAdvanced": "A phenjani Diadalív a japán uralom (1910–1945) alóli felszabadulás monumentális emlékműve, mely a Moranbong-hegy lábánál magasodik. 60 méteres magasságával szándékosan építették nagyobbra a párizsi eredetinél. Az 1982-ben átadott gránit ív Kim Ir Szen állítólagos dicsőséges hazatérésének helyszínén áll. Az építményen domborművek ábrázolják a partizánharcokat, valamint a 'Kim Ir Szen tábornok dala' című himnusz kottája is bele van faragva a kőbe. A Diadalív alatt halad el Phenjan egyik fő közlekedési útvonala, és a környező tér gyakran ad otthont állami ünnepségeknek és tömegrendezvényeknek. Plizio tanterv: Történelem K8 — a gyarmatosítás kora és az emlékezetpolitika.",
+      "factsAdvanced": [
+        "60 méteres magasságával a világ legmagasabb diadalíve.",
+        "1982-ben, az észak-koreai államalapító 70. születésnapjára készült el.",
+        "Az emlékmű 25 500 fehér gránitblokkból épült fel.",
+        "Az ív oszlopain a japánellenes partizánharcokat ábrázoló domborművek láthatók.",
+        "A rajta lévő évszámok (1925 és 1945) az ellenállás kezdetét és a felszabadulást jelzik.",
+        "A diadalív tetején lévő tágas termeket és kilátót lifttel lehet megközelíteni."
+      ]
+    },
+    {
+      "id": "kumsusan-palace-of-the-sun-landmarks-v2",
+      "descriptionAdvanced": "A Kumszuszan Nap Palotája a világ egyik legnagyobb és leginkább elzárt mauzóleuma, amely Phenjan északkeleti részén helyezkedik el. Ez az épület eredetileg Kim Ir Szen elnöki palotája volt, halála után, 1994-ben alakították át monumentális temetkezési hellyé. Később fia, Kim Dzsongil bebalzsamozott teste is ide került. Az épületet masszív kőfalak és tökéletesen gondozott parkok övezik. Belső tereit vörös márvány, kristálycsillárok és gyászzene uralja. A látogatók mozgójárdákon jutnak el a kristálykoporsókhoz, miközben végignézhetik az elhunyt vezetők díjait, kitüntetéseit, sőt még a páncélozott autóikat és vasúti kocsijaikat is. Plizio tanterv: Társadalomismeret K8 — diktatúrák szimbolikája és a személyi kultusz.",
+      "factsAdvanced": [
+        "Az épület eredetileg 1976-tól Kim Ir Szen hivatali és lakóhelye volt.",
+        "1994 után több tízmillió dollárból építették át gigantikus mauzóleummá.",
+        "Itt nyugszik Kim Ir Szen és Kim Dzsongil bebalzsamozott teste.",
+        "Az épület Észak-Korea hivatalosan legszentebb területe.",
+        "A termekben a vezetők által használt vonatokat és hajókat is kiállították.",
+        "A látogatóknak szigorú biztonsági és öltözködési protokollokon kell átesniük."
+      ]
+    },
+    {
+      "id": "grand-monument-on-mansu-hill-landmarks-v2",
+      "descriptionAdvanced": "A Manszude (Mansu) Nagy Emlékmű Phenjan szívében található, és Észak-Korea legfontosabb zarándokhelye. A komplexum központjában a két volt vezető, Kim Ir Szen és Kim Dzsongil gigantikus, 22 méter magas bronzszobra áll. (Eredetileg csak Kim Ir Szen szobra állt itt 1972-től, fiának szobrát 2012-ben adták hozzá, majd később a kabátját is átformálták egy modernebb dzsekire). A szobrok két oldalán hatalmas, vörös zászlót formázó kőemlékművek találhatók, melyek alatt összesen 228 bronz harcos, munkás és paraszt alakja vonul a forradalom felé. Minden ide látogató külföldinek és helyinek kötelező a virágelhelyezés és a mély meghajlás a szobrok előtt. Plizio tanterv: Társadalomismeret K8 — köztéri propaganda és rituálék diktatúrákban.",
+      "factsAdvanced": [
+        "A Manszude emlékmű központjában álló bronzszobrok 22 méter magasak.",
+        "Kim Ir Szen szobrát 1972-ben, Kim Dzsongilét 2012-ben állították fel.",
+        "A szobrok két oldalán lévő monumentális csoportokban 228 emberalak található.",
+        "A szobrok mögötti épület (Koreai Forradalmi Múzeum) falán egy 70 méteres mozaik látható.",
+        "A helyiek esküvőjük napján is ide zarándokolnak virágot elhelyezni.",
+        "A külföldi turistáknak kötelező a tiszteletteljes meghajlás a szobrok előtt."
+      ]
+    },
+    {
+      "id": "pyongyang-tv-tower-landmarks-v2",
+      "descriptionAdvanced": "A Phenjani TV Torony egy 150 méter magas műsorszóró létesítmény a Moranbong parkban, amelyet 1967-ben építettek szovjet mérnöki segítséggel. Bár formája és szerkezete nagyban hasonlít a moszkvai Osztankinó-toronyra (bár annál jóval kisebb), a phenjani városkép ikonikus eleme maradt. A torony tetején kör alakú, egykor étteremként és kilátóként funkcionáló szintek találhatók. Észak-Koreában a televíziós műsorszórás szigorúan az állami propaganda (a Koreai Központi Televízió, KCTV) monopóliuma, így ez a torony évtizedekig a hivatalos információk egyetlen vizuális sugárzója volt a főváros térségében. Plizio tanterv: Technika K6 — telekommunikáció és a hírközlés architektúrája.",
+      "factsAdvanced": [
+        "A TV torony 150 méter magas, 1967-ben állították üzembe.",
+        "Tervezésében és építésében a szovjet mérnökök nyújtottak segítséget.",
+        "Kialakítása a híres moszkvai Osztankinó-toronyra emlékeztet.",
+        "Ez az építmény sugározza a Koreai Központi Televízió (KCTV) adásait Phenjanban.",
+        "Felső részén egy kör alakú, panorámás (bár gyakran zárva tartó) rész található.",
+        "A torony környéke, a Moranbong park a phenjaniak kedvelt piknikező helye."
+      ]
+    },
+    {
+      "id": "party-foundation-monument-landmarks-v2",
+      "descriptionAdvanced": "A Pártalapítás Emlékműve a Koreai Munkapárt (WPK) alapításának 50. évfordulójára készült Phenjanban, 1995-ben. Az emlékmű egyedisége a szimbolikájában rejlik: a kommunista sarló és kalapács mellé az észak-koreai ideológia egy harmadik elemet, a kalligráfus ecsetet is beemelte, amely az értelmiséget jelképezi. Ez a három, 50 méter magas gránitkéz mered az égre, amelyeket egy hatalmas, kör alakú kőgyűrű ölel körbe, rajta forradalmi feliratokkal. Az emlékmű belső terében három dombormű mutatja be a párt történelmi gyökereit. Az építmény elrendezése olyan, hogy a Taedong folyó túlpartján lévő Manszude szoborcsoporttal pontos szimmetriát alkosson. Plizio tanterv: Művészettörténet K8 — a szocialista realizmus szimbolikája a szobrászatban.",
+      "factsAdvanced": [
+        "Az emlékmű 1995-ben épült a Koreai Munkapárt 50. születésnapjára.",
+        "A három kéz által tartott eszközök: kalapács (munkás), sarló (paraszt), ecset (értelmiségi).",
+        "A gránit kezek és a tartó oszlopok magassága pontosan 50 méter.",
+        "A műemléket körbevevő gyűrű belső átmérője szintén 50 méter.",
+        "A gyűrű belsejében a párt dicsőséges történelmét ábrázoló domborművek vannak.",
+        "A mögötte lévő lakóházak úgy vannak megtervezve, hogy két lengő vörös zászlót formázzanak."
+      ]
+    },
+    {
+      "id": "uss-pueblo-ag-er-2-landmarks-v2",
+      "descriptionAdvanced": "A USS Pueblo egy amerikai hírszerző és kutatóhajó, amely ma Észak-Korea egyik legfőbb háborús trófeája. A hajót 1968 januárjában fogta el az észak-koreai haditengerészet, miután az állításuk szerint megsértette az ország felségvizeit (amit az USA vitat). Az eset súlyos nemzetközi válságot okozott a hidegháború közepén. Miután a legénységet 11 hónapnyi fogvatartás után elengedték, a hajó Észak-Koreában maradt. Eredetileg Vonszanban horgonyzott, de 1999-ben átszállították Phenjanba, és ma a Győzelmes Honvédő Háború Múzeumának szabadtéri kiállítási tárgya. A turisták végigsétálhatnak a fedélzeten, megtekintve a korabeli kódfejtő berendezéseket és a golyónyomokat. Plizio tanterv: Történelem K8 — a hidegháború tengeri konfliktusai és a kémkedés.",
+      "factsAdvanced": [
+        "A USS Pueblo az egyetlen aktív amerikai hadihajó, amely idegen állam fogságában van.",
+        "1968. január 23-án foglalták le az észak-koreai hadihajók a Japán-tengeren.",
+        "Az incidens majdnem egy második koreai háború kirobbanásához vezetett.",
+        "A hajó belső terei nagyrészt megmaradtak az 1968-as, elfogáskori állapotukban.",
+        "2012 végén a hajót titokban a Taedong folyóra, a phenjani múzeumhoz vontatták.",
+        "A fedélzeten a helyi idegenvezetők rendszeresen bemutatják a hajó fegyverzetét."
+      ]
+    },
+    {
+      "id": "tomb-of-king-tongmyong-landmarks-v2",
+      "descriptionAdvanced": "Dongmjeong (Tongmjong) király síremléke egy grandiózus történelmi komplexum Phenjan mellett, amely az i.e. 37-ben alapított Goguryeo (Kogurjo) királyság alapítójának, Dzsumongnak a nyughelye (az észak-koreai hivatalos történetírás szerint). Az eredeti ókori halomsírt 1993-ban Kim Ir Szen utasítására drasztikusan átalakították: egy hatalmas, fehér kőlapokkal borított, lépcsőzetes piramist építettek belőle, hogy vizuálisan is megfeleljen a nemzeti nagyság követelményeinek. Az emlékművet a goguryeo-kori öltözéket viselő katonák és miniszterek kőszobrai, valamint lótuszvirág-motívumok díszítik. A komplexum a 2004-ben UNESCO Világörökséggé nyilvánított 'Kogurjo sírok' egyike. Plizio tanterv: Művészettörténet K6 — ókori ázsiai temetkezési építészet és rekonstrukciók.",
+      "factsAdvanced": [
+        "A komplexum a Goguryeo dinasztiát alapító Dzsumong királynak állít emléket.",
+        "1993-ban a szerényebb halomsírt egy grandiózus kőpiramissá építették át.",
+        "A sír mellett egy rekonstruált, ősi stílusú buddhista templom, a Dzsongnung-sza áll.",
+        "A területhez egy tágas park és egy obeliszk is tartozik a király tetteivel.",
+        "A sír bejárata előtt kőből faragott, hatalmas tigris-szobrok 'őrködnek'.",
+        "A komplexum hivatalosan az UNESCO Világörökség része 2004 óta."
+      ]
+    },
+    {
+      "id": "ryugyong-hotel-landmarks-v2",
+      "descriptionAdvanced": "A Rjugjong (Ryugyong) Hotel a világ talán leghíresebb befejezetlen épülete, Phenjan futurisztikus, piramis alakú felhőkarcolója. Építése 1987-ben kezdődött, azzal a céllal, hogy a világ legmagasabb szállodája legyen (330 méter, 105 emelet). A Szovjetunió összeomlása után a gazdasági krízis miatt az építkezés 1992-ben leállt, és a csupasz betonváz 16 éven át uralta a városképet. 2008-ban az egyiptomi Orascom cég bevonásával az épületet üveglapokkal burkolták be, így ma kívülről modern, csillogó toronynak tűnik. Sötétedés után az egyik oldalán hatalmas LED-kijelzőn propagandafilmeket és fényshow-t vetítenek. Bár a külseje kész, a szálloda belső terei továbbra is üresek és sosem nyitottak meg a vendégek előtt. Plizio tanterv: Technika K8 — modern építészet, mérnöki kudarcok és felhőkarcolók.",
+      "factsAdvanced": [
+        "A 330 méter magas Rjugjong Hotel Észak-Korea legmagasabb építménye.",
+        "Piramis alakú dizájnja 105 emeletet foglal magába.",
+        "1992 és 2008 között az épület burkolat nélküli, üres betonvázként állt.",
+        "A 2010-es évek végére a teljes homlokzatot modern LED-panelekkel szerelték fel.",
+        "Többszöri bejelentés ellenére a szálloda egyetlen szobája sem nyitott meg soha.",
+        "A 'Rjugjong' név Phenjan ősi elnevezésére, a 'Füzfák városára' utal."
+      ]
+    },
+    {
+      "id": "may-day-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Rungnado Május 1. Stadion Phenjanban, a Taedong folyó egyik szigetén fekszik, és befogadóképessége alapján a világ legnagyobb aktív stadionja, hivatalosan 150 000 ülőhellyel (bár egyes szakértők szerint ma inkább 114 000 körüli). Az 1989-ben megnyitott létesítmény ejtőernyőre vagy kinyíló liliomra emlékeztető tetőszerkezete 16 hatalmas boltívből áll. A stadion sportesemények helyett leginkább az észak-koreai 'Arirang' Tömegjátékokról ismert, ahol százezer ember (diákok, tornászok, katonák) hajtott végre tökéletesen szinkronizált gimnasztikai és kártyás háttérkép-koreográfiákat. A gigantikus előadások a diktatúra kollektív egységének leglátványosabb vizuális kifejeződései voltak a világ felé. Plizio tanterv: Társadalomismeret K7 — tömegrendezvények és a kollektív szellem építészete.",
+      "factsAdvanced": [
+        "Hivatalosan a világ legnagyobb stadionja, 150 000 fős befogadóképességgel.",
+        "1989-ben adták át a Világifjúsági és Diáktalálkozó (VIT) megrendezésére.",
+        "Teteje 16 összefonódó ívből áll, ami egy magnóliavirágot formáz.",
+        "Itt rendezték meg az Arirang Tömegjátékokat, amelyen több mint 100 000 fellépő vett részt.",
+        "2014-ben a stadiont teljesen felújították, színesebb és modernebb üléseket kapott.",
+        "A stadion a Phenjant átszelő Taedong folyó Rungnado nevű szigetén épült."
+      ]
+    }
+  ]
+}

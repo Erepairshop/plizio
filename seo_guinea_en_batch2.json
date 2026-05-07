@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "guinea",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mali-cities-v2",
+      "descriptionAdvanced": "Mali, often called 'Mali-Ville' to distinguish it from the neighboring country, is the highest town in Guinea, perched at an astonishing 1,463 meters above sea level near Mount Loura. This extreme elevation gives the town a distinctly cool, almost alpine climate, unique within the generally tropical West African region. The town is famous for the nearby 'Dame de Mali' (Lady of Mali), a naturally occurring rock formation that bears an uncanny resemblance to the profile of a woman. The local economy is largely based on subsistence farming, with the cool climate allowing for the cultivation of unique crops like apples, strawberries, and specialized potatoes. The region remains relatively remote due to difficult, winding mountain roads, which has helped preserve its stunning natural beauty and traditional Fulani pastoralist culture. Geography K7 — extreme elevations and microclimates.",
+      "factsAdvanced": [
+        "The highest town in Guinea, located at 1,463 meters elevation.",
+        "Situated in northern Guinea near the border with Senegal.",
+        "Famous for the nearby 'Dame de Mali' rock profile on Mount Loura.",
+        "Experiences a cool, non-tropical microclimate.",
+        "Population of the town was approximately 40,000 in 2014.",
+        "Agriculture includes crops unusual for West Africa, like apples."
+      ]
+    },
+    {
+      "id": "mandiana-cities-v2",
+      "descriptionAdvanced": "Mandiana is a bustling town situated in the heart of the eastern Guinea savanna, near the border with Mali, and straddling the banks of the Sankarani River. Historically part of the vast Wassoulou Empire, the town is deeply entrenched in the Malinke cultural traditions, particularly known for its vibrant griot music and ancient artisanal gold mining practices. The landscape is characterized by dry, rolling plains and riverine ecosystems that support extensive farming of rice, yams, and cotton. Recently, Mandiana has seen a significant influx of both domestic and foreign mining companies seeking to exploit the region's rich gold deposits, leading to rapid economic shifts and infrastructure development. The area's relative isolation from the capital means it maintains strong cross-border economic ties with neighboring Malian towns. Geography K7 — savanna ecosystems and border economies.",
+      "factsAdvanced": [
+        "Located in eastern Guinea along the Sankarani River.",
+        "Historically a significant center within the Wassoulou Empire.",
+        "The population was roughly 22,000 in the 2014 census.",
+        "A major hub for both artisanal and modern industrial gold mining.",
+        "Agriculture focuses on savanna crops like yams, cotton, and rice.",
+        "Maintains strong cultural and economic ties with neighboring Mali."
+      ]
+    },
+    {
+      "id": "pita-cities-v2",
+      "descriptionAdvanced": "Pita is a major commercial and cultural center located in the central Fouta Djallon highlands, surrounded by breathtaking rolling hills and expansive plateaus. The town is highly celebrated across Guinea for its skilled artisans, particularly weavers and leatherworkers, who produce some of the finest traditional Fulani textiles in the country. Pita's elevated location provides a pleasant, temperate climate that supports a thriving agricultural sector specializing in potatoes, onions, and extensive fruit orchards. The town acts as a primary market hub connecting the highland farmers to larger distribution networks leading to the coast. Pita also serves as the gateway to the stunning Kinkon Falls and the Kambadaga Falls, making it a critical point for the region's developing eco-tourism industry. Geography K7 — highland agriculture and artisanal economies.",
+      "factsAdvanced": [
+        "Situated in the central Fouta Djallon at an elevation of nearly 1,000 meters.",
+        "Nationally renowned for traditional Fulani textile weaving and leatherwork.",
+        "Serves as the main gateway to the spectacular Kinkon and Kambadaga Falls.",
+        "The urban population was about 28,000 in the 2014 census.",
+        "A major production center for potatoes, onions, and citrus fruits.",
+        "Features a prominent weekly market drawing traders from across the highlands."
+      ]
+    },
+    {
+      "id": "tougue-cities-v2",
+      "descriptionAdvanced": "Tougué is a remote and tranquil town situated in the northeastern reaches of the Fouta Djallon massif, where the mountainous terrain begins to transition into the drier eastern savannas. The town's economy is overwhelmingly agrarian, relying heavily on traditional Fulani cattle herding and the subsistence farming of fonio, millet, and peanuts. Due to its isolated location, far from paved national highways, Tougué has retained a very traditional way of life, heavily centered around Islamic scholarship and communal pastoralism. However, the region is currently gaining attention due to the discovery of significant untapped bauxite reserves, which could potentially transform the local economy and landscape in the future. The surrounding area features numerous seasonal rivers and rugged plateaus, offering immense untouched natural beauty. Geography K7 — pastoralism and resource exploration.",
+      "factsAdvanced": [
+        "Located in the northeastern Fouta Djallon near the savanna transition zone.",
+        "The economy is predominantly based on cattle herding and fonio farming.",
+        "Population of the central commune was roughly 27,000 in 2014.",
+        "Historically isolated due to a lack of paved road infrastructure.",
+        "Sits atop massive, largely untapped regional bauxite reserves.",
+        "Maintains a strong focus on traditional Islamic education and culture."
+      ]
+    },
+    {
+      "id": "yomou-cities-v2",
+      "descriptionAdvanced": "Yomou is a vibrant agricultural town located in the deep south of the Forest Guinea region, nestled close to the border with Liberia. The town is surrounded by dense, humid tropical rainforests and is a critical center for the production of cash crops such as coffee, cocoa, rubber, and palm oil. Yomou's population is ethnically diverse, predominantly featuring the Guerze and Mano peoples, who have maintained rich animist traditions, secret societies, and spectacular masked dances. Because of its proximity to the Liberian border, the town's history has been heavily impacted by cross-border refugee movements and regional conflicts, though it has remained a resilient hub of commerce. The dense surrounding forests are also part of important ecological corridors crucial for the survival of endangered species like forest elephants and chimpanzees. Biology K7 — rainforest agriculture and ecological corridors.",
+      "factsAdvanced": [
+        "Located in the extreme south of Guinea, bordering Liberia.",
+        "Surrounded by dense tropical rainforests and rubber plantations.",
+        "A major center for the cultivation of coffee, cocoa, and palm oil.",
+        "Population of the town was approximately 15,000 in 2014.",
+        "The cultural heartland of the Guerze and Mano ethnic groups.",
+        "Heavily influenced by cross-border trade and historical refugee influxes."
+      ]
+    },
+    {
+      "id": "dalaba-cities-v2",
+      "descriptionAdvanced": "Dalaba is often referred to as the 'Switzerland of Guinea' due to its exceptionally cool climate, high altitude of over 1,200 meters, and stunning pine-forested landscapes. Originally developed by the French colonial administration in the 1930s as a health resort and retreat to escape the coastal heat, the town still features unique European-style chalets and wide, tree-lined avenues. The town was the site of the famous 'Case à Palabres', a historic circular meeting house where regional chiefs and colonial officials once gathered to negotiate. Today, Dalaba is a premier domestic tourist destination, renowned for its strawberry farms, scenic hiking trails, and the nearby Ditinn waterfalls. The local economy blends eco-tourism with traditional agriculture, specifically the cultivation of temperate fruits and vegetables that cannot grow elsewhere in the country. Geography K7 — colonial hill stations and eco-tourism.",
+      "factsAdvanced": [
+        "Often called the 'Switzerland of Guinea' due to its cool, pine-forested landscape.",
+        "Located at an elevation exceeding 1,200 meters in the Fouta Djallon.",
+        "Developed in the 1930s as a high-altitude colonial health resort.",
+        "Home to the historic 'Case à Palabres' meeting house.",
+        "Population of the urban area was roughly 24,000 in 2014.",
+        "A rare West African production center for strawberries and apples."
+      ]
+    },
+    {
+      "id": "sanguiana-cities-v2",
+      "descriptionAdvanced": "Sanguiana is a vital rural crossroads town situated in the vast eastern savanna region of Guinea, functioning as a key transit and trade point within the Kouroussa Prefecture. The settlement thrives primarily on subsistence agriculture, capitalizing on the fertile plains surrounding the upper Niger River tributaries to cultivate rice, maize, and cassava. Sanguiana's local markets serve as essential aggregation points where small-scale farmers sell their produce to regional traders heading towards larger cities like Kankan or Conakry. The area has a rich oral history maintained by local Malinke griots, whose stories trace the town's origins back to the days of the ancient empires of West Africa. In recent years, the expansion of both artisanal and mechanized gold mining in the surrounding region has begun to significantly influence Sanguiana's economy and social structure. Geography K7 — rural trade networks and savanna agriculture.",
+      "factsAdvanced": [
+        "Located in the savanna plains of eastern Guinea.",
+        "Functions as an important rural crossroads in the Kouroussa Prefecture.",
+        "The local economy relies heavily on the cultivation of rice and maize.",
+        "Serves as an aggregation point for regional agricultural markets.",
+        "Deeply influenced by the traditional Malinke griot culture.",
+        "Increasingly impacted by the expansion of regional gold mining activities."
+      ]
+    },
+    {
+      "id": "sangaredi-cities-v2",
+      "descriptionAdvanced": "Sangarédi is a purpose-built industrial mining town located in the Boké region, serving as the operational heart of the massive Compagnie des Bauxites de Guinée (CBG) mining project. Unlike traditional Guinean towns, Sangarédi was meticulously planned and constructed in the 1970s to support the extraction of some of the highest-grade bauxite deposits in the world. The town features dedicated infrastructure, including a specialized heavy-haul railway that transports the ore 135 kilometers directly to the port of Kamsar. The town is divided between well-equipped expatriate and executive housing areas and rapidly expanding local neighborhoods filled with workers seeking employment in the mines. While the local economy is overwhelmingly dominated by the mining sector, the immense environmental impact of open-pit mining on the surrounding plateau is a profound ongoing challenge for the community. Geography K8 — single-industry company towns and mineral extraction.",
+      "factsAdvanced": [
+        "A purpose-built company town developed in the 1970s.",
+        "Located in the Boké region atop massive, high-grade bauxite plateaus.",
+        "The operational center for the Compagnie des Bauxites de Guinée (CBG).",
+        "Connected to the Kamsar port via a dedicated 135-kilometer railway.",
+        "Population surpassed 76,000 in 2014, driven by mining migration.",
+        "The local economy is almost entirely dependent on the bauxite industry."
+      ]
+    },
+    {
+      "id": "kolaboui-cities-v2",
+      "descriptionAdvanced": "Kolaboui is a bustling strategic junction town situated at a critical crossroads in the Boké region, serving as the main transport nexus linking Conakry, Boké city, and the mining hub of Kamsar. Initially a quiet agricultural village, Kolaboui has experienced explosive, unregulated growth due to its position along the main transport corridors for Guinea's massive bauxite industry. The town functions as a massive logistics and rest stop, filled with heavy truck traffic, transport terminals, and informal markets catering to transient workers and drivers. The constant flow of heavy machinery has led to significant infrastructure and environmental challenges, particularly severe dust pollution. Despite these industrial pressures, the surrounding rural areas continue to rely on traditional agriculture, specifically cashew nut and mango farming, which forms the backbone of the original local economy. Geography K7 — transport logistics and industrial junction towns.",
+      "factsAdvanced": [
+        "Located at a major regional highway junction in the Boké region.",
+        "Serves as the primary transport nexus connecting Conakry, Boké, and Kamsar.",
+        "Experienced rapid growth due to the expansion of bauxite logistics.",
+        "Population was recorded at approximately 57,000 in the 2014 census.",
+        "Faces severe environmental challenges from heavy truck dust pollution.",
+        "The surrounding area is a major producer of cashew nuts and mangoes."
+      ]
+    },
+    {
+      "id": "salambande-cities-v2",
+      "descriptionAdvanced": "Salambandé is an incredibly remote and scenic rural commune located high in the northern Fouta Djallon mountains, within the Mali Prefecture. The settlement is characterized by its rugged, highland terrain, featuring deep ravines, striking rock formations, and sweeping views of the surrounding plateaus. The community is predominantly Fulani and relies almost entirely on traditional, small-scale terrace farming and cattle rearing, adapting ingeniously to the difficult topography. Because of its extreme isolation and lack of paved roads, Salambandé has maintained a highly traditional lifestyle, largely insulated from the rapid urbanization affecting other parts of Guinea. The area is noted for its strong adherence to Islamic education, with numerous local Quranic schools serving as the center of community life. Geography K7 — remote highland communities and terrace farming.",
+      "factsAdvanced": [
+        "Located in the extreme northern Fouta Djallon mountains.",
+        "Characterized by highly rugged terrain and deep highland ravines.",
+        "The local economy is strictly focused on terrace farming and pastoralism.",
+        "Remains one of the most isolated rural communes in the Mali Prefecture.",
+        "Maintains a deeply traditional Fulani culture and lifestyle.",
+        "Strongly centered around traditional Islamic education and scholarship."
+      ]
+    },
+    {
+      "id": "popodara-cities-v2",
+      "descriptionAdvanced": "Popodara is a prominent rural commune situated just outside the major regional capital of Labé in the central Fouta Djallon. Benefiting from its close proximity to Labé's markets, Popodara has developed into a highly productive agricultural center, known specifically for its intensive cultivation of onions, potatoes, and various temperate fruits. The area features the typical rolling, grassy landscapes of the highlands, dotted with small, traditional Fulani hamlets and extensive cattle herds. While largely agrarian, Popodara is increasingly functioning as a quiet, residential satellite community for people working in Labé but preferring the rural environment. The commune is also recognized for its historical ties to the founding scholars of the Fouta Djallon's Islamic traditions, hosting several notable local mosques and religious learning centers. Geography K7 — agricultural satellite communities and highland farming.",
+      "factsAdvanced": [
+        "Located in the central Fouta Djallon, acting as a satellite to Labé.",
+        "A major regional producer of onions, potatoes, and temperate fruits.",
+        "Population of the commune was roughly 24,000 in 2014.",
+        "Features rolling grassy landscapes ideal for Fulani cattle herding.",
+        "Increasingly serves as a quiet residential area for Labé workers.",
+        "Hosts several important local mosques and Islamic learning centers."
+      ]
+    },
+    {
+      "id": "diari-cities-v2",
+      "descriptionAdvanced": "Diari is a historic and culturally significant rural municipality located in the Labé Prefecture of the Fouta Djallon. The town holds a prestigious place in local history as one of the original centers of Islamic scholarship during the formation of the Fouta Djallon theocracy in the 18th century. Today, Diari remains deeply traditional, with a strong focus on religious education, where students from across the region come to study in its established Quranic schools. The surrounding landscape consists of high-altitude plateaus and steep valleys, where the local population practices subsistence agriculture and manages large herds of N'Dama cattle. The area is also known for its traditional artisans, particularly those skilled in intricate leatherwork and the weaving of traditional Fulani textiles. History K8 — religious educational centers and the Fouta Djallon theocracy.",
+      "factsAdvanced": [
+        "Located in the Labé Prefecture of the central Fouta Djallon.",
+        "A historic center of Islamic scholarship dating back to the 18th century.",
+        "Population of the rural commune was around 15,000 in 2014.",
+        "The economy relies on subsistence farming and N'Dama cattle herding.",
+        "Known for traditional artisanal crafts, particularly leatherwork.",
+        "Continues to host prominent traditional Quranic schools."
+      ]
+    },
+    {
+      "id": "timbi-madina-cities-v2",
+      "descriptionAdvanced": "Timbi-Madina is a highly successful and innovative agricultural town located in the Pita Prefecture of the Fouta Djallon. The town is nationally famous as the headquarters of the 'Fédération des Paysans du Fouta Djallon' (FPFD), a powerful cooperative that revolutionized local farming by introducing large-scale, commercial potato cultivation in the 1990s. Because of this cooperative model, Timbi-Madina is incredibly prosperous compared to surrounding rural areas, serving as the main production and storage hub for the famous 'Belle de Guinée' potatoes, which are exported throughout West Africa. The town's high elevation provides the perfect cool climate for these crops. The success of Timbi-Madina serves as a primary model for sustainable, locally driven agricultural development across Guinea. Geography K7 — agricultural cooperatives and cash crop development.",
+      "factsAdvanced": [
+        "Located in the Pita Prefecture within the Fouta Djallon highlands.",
+        "Headquarters of the powerful Fouta Djallon Farmers Federation.",
+        "Guinea's most important center for commercial potato production.",
+        "Produces the famous 'Belle de Guinée' potatoes exported regionally.",
+        "Population of the commune was approximately 31,000 in 2014.",
+        "A leading national example of successful agricultural cooperative models."
+      ]
+    },
+    {
+      "id": "oure-kaba-cities-v2",
+      "descriptionAdvanced": "Ouré-Kaba is a strategically located rural commune in the Mamou Prefecture, situated near the border with Sierra Leone. Positioned in the transition zone between the Fouta Djallon highlands and the southern forests, the area features a unique mix of savanna grasslands and dense gallery forests. Ouré-Kaba serves as a critical agricultural and trading outpost, where farmers cultivate diverse crops ranging from highland fonio to lowland rice and bananas. The town is notable for being adjacent to the Pinselli National Park, a protected area established to conserve the region's rich biodiversity, including populations of West African chimpanzees and rare bird species. The community is a cultural melting pot, heavily influenced by cross-border trade and the mingling of Fulani pastoralists with southern agricultural ethnic groups. Biology K7 — ecological transition zones and wildlife conservation.",
+      "factsAdvanced": [
+        "Located in the Mamou Prefecture near the Sierra Leone border.",
+        "Situated in the ecological transition zone between highlands and forests.",
+        "Adjacent to the Pinselli National Park, known for chimpanzee conservation.",
+        "Population of the rural commune was roughly 30,000 in 2014.",
+        "Agriculture includes both highland crops and lowland rice.",
+        "Acts as an important center for localized cross-border trade."
+      ]
+    },
+    {
+      "id": "banankoro-cities-v2",
+      "descriptionAdvanced": "Banankoro is a vibrant and chaotic mining boomtown situated in the Kérouané Prefecture of eastern Guinea, renowned worldwide for its immense deposits of high-quality alluvial diamonds. Originally a small agricultural village, the town exploded in population and economic activity during the diamond rush of the late 20th century. Today, Banankoro is dominated by the artisanal mining sector, where thousands of independent miners sift through the riverbeds and gravels of the Milo River basin in search of precious stones. This massive influx of fortune-seekers has created a bustling, highly diverse, and intensely commercial local economy, though it has also led to severe environmental degradation, deforestation, and a landscape scarred by abandoned mining pits. The town functions as a critical nexus for international gem buyers and regional traders. Geography K7 — artisanal mining boomtowns and resource economies.",
+      "factsAdvanced": [
+        "Located in the Kérouané Prefecture in the eastern Guinea savanna.",
+        "Globally recognized as a major center for high-quality alluvial diamonds.",
+        "Transformed from a small village into a massive mining boomtown.",
+        "Population fluctuates wildly but exceeded 65,000 in the 2014 census.",
+        "The economy is overwhelmingly driven by artisanal diamond mining.",
+        "The surrounding landscape is heavily scarred by open-pit mining operations."
+      ]
+    },
+    {
+      "id": "tinka-cities-v2",
+      "descriptionAdvanced": "Tinka is a small, culturally rich village located in the heart of the Fouta Djallon highlands, closely associated with the larger town of Dalaba. Nestled among towering pine forests and steep, rocky escarpments, Tinka is renowned for its exceptional traditional artisans, particularly its community of skilled Fulani weavers and leather crafters. The village is often visited by tourists seeking high-quality, authentic Guinean crafts, as well as those utilizing it as a basecamp to explore the spectacular surrounding natural attractions, such as the Ditinn waterfalls and the panoramic Mount Maci. The climate in Tinka is exceptionally cool and misty, allowing for the cultivation of highland crops and providing a stark contrast to the heat of the coastal regions. It remains a tranquil example of traditional highland village life. Geography K7 — artisanal villages and highland microclimates.",
+      "factsAdvanced": [
+        "Located in the Dalaba Prefecture of the Fouta Djallon highlands.",
+        "Renowned for its highly skilled Fulani weavers and leather artisans.",
+        "Situated among cool pine forests and steep, rocky escarpments.",
+        "Serves as a popular basecamp for tourists visiting nearby waterfalls.",
+        "Features a distinctly cool, misty microclimate year-round.",
+        "The local economy blends traditional agriculture with artisan tourism."
+      ]
+    },
+    {
+      "id": "friguiagbe-cities-v2",
+      "descriptionAdvanced": "Friguiagbé is a rapidly growing agricultural and commercial commune located in the Kindia Prefecture, strategically positioned along the main National Highway connecting Conakry to the interior. The town is nationally famous as the epicenter of Guinea's pineapple and banana production, with vast, perfectly aligned plantations stretching across the surrounding fertile plains. Friguiagbé serves as a massive aggregation and wholesale market where tons of fresh fruit are loaded onto trucks daily for distribution to the capital and neighboring countries. The town also hosts a major agricultural research and extension center, originally established during the colonial era to optimize tropical fruit yields. Driven by its booming agricultural economy and position on the highway, Friguiagbé is quickly developing from a rural farming community into a vital logistical hub. Geography K7 — commercial plantations and highway trade networks.",
+      "factsAdvanced": [
+        "Located in the Kindia Prefecture along the main National Highway.",
+        "The premier center for pineapple and banana plantations in Guinea.",
+        "Serves as a massive wholesale distribution market for fresh fruits.",
+        "Population of the commune was roughly 36,000 in 2014.",
+        "Hosts a significant national agricultural research and extension facility.",
+        "Rapidly transitioning from a rural village to a busy logistical hub."
+      ]
+    },
+    {
+      "id": "sougueta-cities-v2",
+      "descriptionAdvanced": "Souguéta is a notable industrial and agricultural town located in the Kindia Prefecture, positioned in the transition zone between the coastal plains and the Fouta Djallon foothills. The town's economy is uniquely anchored by its significant limestone deposits, which supply a large, locally operated clinker and limestone processing plant essential for Guinea's national cement production. Beyond its industrial significance, Souguéta sits in a highly fertile agricultural belt, producing large quantities of citrus fruits, mangoes, and vegetables. The presence of the limestone plant has brought infrastructural development and diverse employment opportunities to the area, though it also poses challenges regarding industrial dust and heavy truck traffic. The community is a dynamic mix of industrial workers and traditional farmers. Geography K8 — local industrial materials and agricultural integration.",
+      "factsAdvanced": [
+        "Located in the Kindia Prefecture near the Fouta Djallon foothills.",
+        "Home to a major limestone processing plant crucial for cement production.",
+        "The surrounding fertile plains are major producers of citrus and mangoes.",
+        "Population of the rural commune was around 25,000 in 2014.",
+        "Provides a vital supply of raw materials for Guinea's construction industry.",
+        "Faces typical industrial challenges, including heavy transport traffic."
+      ]
+    },
+    {
+      "id": "maferinyah-cities-v2",
+      "descriptionAdvanced": "Maférinyah is an expansive rural commune located in the Forécariah Prefecture, deeply characterized by its coastal and estuarine geography. The area features a complex network of mangrove swamps, tidal rivers, and low-lying fertile plains, making it one of Guinea's most important centers for both artisanal fishing and intensive mangrove rice cultivation. Maférinyah is also known for hosting significant agricultural research initiatives, particularly those focused on developing salt-tolerant rice varieties and sustainable aquaculture practices. In recent years, the commune has experienced significant economic shifts due to the development of nearby heavy-haul mining infrastructure and road improvements, bringing new populations and commerce to this traditionally isolated coastal farming community. Geography K7 — mangrove agriculture and coastal estuarine systems.",
+      "factsAdvanced": [
+        "Located in the coastal Forécariah Prefecture of southwestern Guinea.",
+        "Characterized by extensive mangrove swamps and tidal estuaries.",
+        "A critical national center for the cultivation of mangrove rice.",
+        "Population of the commune was approximately 43,000 in 2014.",
+        "Hosts specialized agricultural research facilities for coastal farming.",
+        "Increasingly impacted by regional mining infrastructure development."
+      ]
+    },
+    {
+      "id": "wonkifong-cities-v2",
+      "descriptionAdvanced": "Wonkifong is a rapidly urbanizing commune located within the Coyah Prefecture, functioning increasingly as an outer suburb to the expanding Conakry metropolis. The area is historically significant as a traditional center of the Susu people and features lush, low-lying coastal plains intersected by numerous small rivers. Once entirely dependent on palm oil production and subsistence farming, Wonkifong is now experiencing a massive real estate boom as citizens seek affordable land outside the congested capital peninsula. This rapid development is transforming the landscape, bringing new infrastructure, residential subdivisions, and commercial businesses, while simultaneously threatening the traditional agricultural lands and local ecosystems. The town represents the frontline of Conakry's modern urban sprawl. Geography K8 — urban sprawl and suburban transformation.",
+      "factsAdvanced": [
+        "Located in the Coyah Prefecture, just east of the Conakry peninsula.",
+        "Historically a major agricultural and cultural center for the Susu people.",
+        "Experiencing a massive, rapid residential real estate boom.",
+        "Population of the commune was roughly 36,000 in 2014.",
+        "Traditionally known for extensive palm oil and fruit production.",
+        "Serves as a primary example of Conakry's accelerating urban sprawl."
+      ]
+    },
+    {
+      "id": "koule-cities-v2",
+      "descriptionAdvanced": "Koulé is a significant agricultural and cultural town located in the Nzérékoré Prefecture of the deep Forest Guinea region. Surrounded by dense, towering tropical rainforests, the town serves as a crucial hub for the harvesting and processing of regional cash crops, specifically robusta coffee, cocoa, and kola nuts. Koulé is widely celebrated for its rich cultural heritage, acting as a major center for traditional Guerze and Mano craftsmanship, particularly the carving of intricate wooden masks and the creation of traditional forest textiles. The local markets are vibrant and colorful, reflecting the deep animist traditions and secret societies that still play a major role in community life. The town's proximity to regional borders also makes it a dynamic point of cross-cultural and cross-border trade. Geography K7 — forest cash crops and traditional craftsmanship.",
+      "factsAdvanced": [
+        "Located in the Nzérékoré Prefecture within the dense Forest Guinea region.",
+        "A major regional hub for robusta coffee, cocoa, and kola nut processing.",
+        "Nationally celebrated for traditional Guerze and Mano wood carving.",
+        "Population of the commune was approximately 18,000 in 2014.",
+        "Maintains strong cultural ties to animist traditions and forest societies.",
+        "Surrounded by ecologically vital tropical rainforest environments."
+      ]
+    },
+    {
+      "id": "niagassola-cities-v2",
+      "descriptionAdvanced": "Niagassola is a village of immense historical and cultural magnitude located in the savanna of the Siguiri Prefecture, near the border with Mali. It is globally recognized as the sanctuary of the 'Sosso-Bala', a sacred, ancient balafon (a type of xylophone) dating back to the 13th century, which is recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity. The village has been the home of the Kouyaté family of griots (traditional storytellers and musicians) for centuries, who are the exclusive guardians of the instrument. Beyond its profound musical heritage, Niagassola is a traditional agricultural settlement reliant on millet, sorghum, and cattle herding. The village remains a vital pilgrimage site for musicians and historians tracing the roots of the ancient Mali Empire. History K8 — UNESCO intangible heritage and the Mali Empire.",
+      "factsAdvanced": [
+        "Located in the Siguiri Prefecture near the Malian border.",
+        "Home to the ancient 'Sosso-Bala' instrument, dating to the 13th century.",
+        "Recognized globally as a UNESCO Intangible Cultural Heritage site.",
+        "The traditional seat of the renowned Kouyaté family of griots.",
+        "Population of the rural commune was roughly 25,000 in 2014.",
+        "The local economy is based on savanna agriculture and cattle herding."
+      ]
+    },
+    {
+      "id": "hafen-katougouma-economic-v2",
+      "descriptionAdvanced": "The Port of Katougouma is a specialized, modern river port located on the Nuñez River in the Boké region, developed specifically to handle the massive export of Guinean bauxite. Constructed and operated by the SMB-Winning Consortium, the port represents a major shift in Guinea's mining infrastructure, utilizing a complex system of barges to transport ore down the river to deep-water transshipment points in the Atlantic Ocean. Opened in 2015, the facility dramatically increased the country's export capacity, turning Guinea into the world's leading exporter of bauxite. The port features extensive stockpiling yards, conveyor systems, and loading terminals, operating 24 hours a day. While it is a marvel of modern logistics, the intense industrial activity has raised significant concerns regarding river water quality, dust pollution, and the disruption of local artisanal fishing communities. Geography K8 — riverine bulk ports and global mineral logistics.",
+      "factsAdvanced": [
+        "A major specialized bauxite export port on the Nuñez River.",
+        "Developed and operated by the massive SMB-Winning Consortium.",
+        "Utilizes a massive fleet of barges for river-to-ocean transshipment.",
+        "Began operations in 2015, revolutionizing Guinean bauxite exports.",
+        "Capable of handling tens of millions of tons of ore annually.",
+        "Has significantly impacted the local riverine environment and fishing."
+      ]
+    },
+    {
+      "id": "bauxitmine-sangaredi-economic-v2",
+      "descriptionAdvanced": "The Sangarédi Bauxite Mine is one of the largest and highest-grade bauxite mining complexes in the world, located in the Boké region of northwestern Guinea. Operated by the Compagnie des Bauxites de Guinée (CBG) since 1973, the mine targets a massive lateritic plateau where the aluminum ore sits just below the surface, allowing for extensive open-pit extraction. The scale of the operation is staggering, utilizing massive draglines, excavators, and a dedicated 135-kilometer heavy-haul railway to transport the crushed ore directly to the Atlantic port of Kamsar. For decades, the Sangarédi mine has been the primary engine of the Guinean economy, generating a massive portion of the nation's export revenue. However, the sprawling open pits have resulted in severe deforestation, habitat destruction, and the displacement of local communities, highlighting the complex trade-offs of mega-mining projects. Geography K8 — open-pit mega-mines and national economic drivers.",
+      "factsAdvanced": [
+        "One of the largest and richest bauxite mining operations globally.",
+        "Operated by the Compagnie des Bauxites de Guinée (CBG) since 1973.",
+        "Features massive open-pit extraction across a lateritic plateau.",
+        "Connects to the port of Kamsar via a dedicated 135 km railway.",
+        "Historically the single largest contributor to Guinea's export revenue.",
+        "Faces significant scrutiny over deforestation and habitat destruction."
+      ]
+    },
+    {
+      "id": "bauxitmine-debele-economic-v2",
+      "descriptionAdvanced": "The Debele Bauxite Mine is a critical mining operation located in the Kindia Prefecture, operated primarily by the Compagnie des Bauxites de Kindia (CBK), a subsidiary of the Russian giant Rusal. The mine has been operational since the early 2000s, extracting high-quality bauxite from the rolling hills surrounding the city of Kindia. Unlike the massive plateau mines of Boké, Debele's operations are spread across numerous smaller pits, utilizing a dedicated railway line to transport the raw ore directly to the port facilities in Conakry for global export. The mine is a major employer in the Kindia region, driving significant local economic activity and infrastructure development. However, its close proximity to agricultural lands and population centers has led to ongoing friction regarding land use, water contamination, and the pervasive red dust that blankets nearby communities. Geography K8 — regional mining networks and land use conflicts.",
+      "factsAdvanced": [
+        "A major bauxite mining operation located in the Kindia Prefecture.",
+        "Operated by the Compagnie des Bauxites de Kindia (CBK/Rusal).",
+        "Extracts ore from numerous pits across the regional hills.",
+        "Connects directly to the port of Conakry via a dedicated railway.",
+        "A primary employer and economic driver for the Kindia region.",
+        "Often experiences friction with local communities over dust and land use."
+      ]
+    }
+  ]
+}

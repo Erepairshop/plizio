@@ -1,0 +1,537 @@
+[
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "ireland",
+    "name": "Irlanda"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-dublin",
+    "name": "Dublin"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-cork",
+    "name": "Cork"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-galway",
+    "name": "Galway"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-limerick",
+    "name": "Limerick"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "ie-belfast",
+    "name": "Belfast"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-sligo",
+    "name": "Sligo"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-waterford",
+    "name": "Waterford"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-kilkenny",
+    "name": "Kilkenny"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-athlone",
+    "name": "Athlone"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-tralee",
+    "name": "Tralee"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-dundalk",
+    "name": "Dundalk"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-ennis",
+    "name": "Ennis"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-carlow",
+    "name": "Carlow"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-wexford",
+    "name": "Wexford"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-navan",
+    "name": "Navan"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-cliffs-of-moher",
+    "name": "Stâncile Moher"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-giants-causeway",
+    "name": "Giant's Causeway"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-ring-kerry",
+    "name": "Ring of Kerry"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-connemara",
+    "name": "Connemara"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-burren",
+    "name": "The Burren"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-carrauntoohil",
+    "name": "Carrauntoohil"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-croagh-patrick",
+    "name": "Croagh Patrick"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-lough-corrib",
+    "name": "Lough Corrib"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-lough-derg",
+    "name": "Lough Derg"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-river-shannon",
+    "name": "Râul Shannon"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-river-boyne",
+    "name": "Râul Boyne"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-achill-island",
+    "name": "Insula Achill"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "nat-avondale-forest",
+    "name": "Pădurea Avondale"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "cult-blarney-castle",
+    "name": "Castelul Blarney"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "cult-trinity",
+    "name": "Trinity College"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "cult-kilkenny",
+    "name": "Castelul Kilkenny"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-trim-castle",
+    "name": "Castelul Trim"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-newgrange",
+    "name": "Newgrange"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-kilmainham-gaol",
+    "name": "Kilmainham Gaol"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-rock-of-cashel",
+    "name": "Rock of Cashel"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-clonmacnoise",
+    "name": "Clonmacnoise"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-cahir-castle",
+    "name": "Castelul Cahir"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-battle-of-the-boyne",
+    "name": "Bătălia de la Boyne"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-charles-fort",
+    "name": "Fortul Charles"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-guinness-storehouse",
+    "name": "Guinness Storehouse"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-trinity-long-room",
+    "name": "Long Room"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-dublin-castle",
+    "name": "Castelul Dublin"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-st-patricks-cathedral",
+    "name": "Catedrala Sf. Patrick"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-the-spire",
+    "name": "The Spire"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-belfast-city-hall",
+    "name": "Belfast City Hall"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-port-of-cork",
+    "name": "Portul Cork"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-dublin-port",
+    "name": "Portul Dublin"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-national-museum-archaeology",
+    "name": "National Museum of Ireland"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-the-custom-house",
+    "name": "The Custom House"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-belfast-harbour",
+    "name": "Portul Belfast"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-shannon-free-zone",
+    "name": "Shannon Free Zone"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-waterford-crystal",
+    "name": "Waterford Crystal"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-golden-vale",
+    "name": "Golden Vale"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-naas",
+    "name": "Naas"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-portlaoise",
+    "name": "Portlaoise"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-mullingar",
+    "name": "Mullingar"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-tullamore",
+    "name": "Tullamore"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-carrick-on-shannon",
+    "name": "Carrick-on-Shannon"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-cavan",
+    "name": "Cavan"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-monaghan",
+    "name": "Monaghan"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-letterkenny",
+    "name": "Letterkenny"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-killarney",
+    "name": "Killarney"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-clonmel",
+    "name": "Clonmel"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-dungarvan",
+    "name": "Dungarvan"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-mallow",
+    "name": "Mallow"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-wicklow",
+    "name": "Wicklow"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-ballina",
+    "name": "Ballina"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "city-westport",
+    "name": "Westport"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-hill-of-tara",
+    "name": "Hill of Tara"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-jerpoint-abbey",
+    "name": "Jerpoint Abbey"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-king-johns-castle",
+    "name": "King John's Castle"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-glenveagh-castle",
+    "name": "Glenveagh Castle"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-rathcroghan",
+    "name": "Rathcroghan"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "hist-fore-abbey",
+    "name": "Fore Abbey"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "landmark-dun-aonghasa",
+    "name": "Dun Aonghasa"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "historical-glasnevin-cemetery",
+    "name": "Glasnevin Cemetery"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "mountain-mweelrea",
+    "name": "Mweelrea"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "mountain-mangerton",
+    "name": "Mangerton"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "lake-lough-mask",
+    "name": "Lough Mask"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "lake-lough-gill",
+    "name": "Lough Gill"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "river-barrow",
+    "name": "River Barrow"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "river-blackwater",
+    "name": "River Blackwater"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "river-liffey",
+    "name": "River Liffey"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "island-inishbofin",
+    "name": "Inishbofin"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "industry-midleton-distillery",
+    "name": "Midleton Distillery"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "industry-teeling-whiskey-distillery",
+    "name": "Teeling Whiskey Distillery"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "industry-slane-distillery",
+    "name": "Slane Distillery"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "industry-foxford-woollen-mills",
+    "name": "Foxford Woollen Mills"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "industry-tullamore-dew",
+    "name": "Tullamore Dew"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "kid-landmark-dublin-zoo",
+    "name": "Dublin Zoo"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "kid-landmark-fota-wildlife-park",
+    "name": "Fota Wildlife Park"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "kid-landmark-emerald-park",
+    "name": "Emerald Park"
+  },
+  {
+    "file": "lib/visualLab/data/irelandPoi.ts",
+    "id": "kid-landmark-lough-key-adventure-park",
+    "name": "Lough Key Adventure Park"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandAnimal.ts",
+    "id": "animal-habitat-dublin-zoo-extra",
+    "name": "Grădina Zoologică Dublin"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandAnimal.ts",
+    "id": "animal-habitat-fota-wildlife-extra",
+    "name": "Parcul Național Fota"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandAnimal.ts",
+    "id": "animal-habitat-tayto-park-zoo-extra",
+    "name": "Zoo Emerald Park"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandAnimal.ts",
+    "id": "animal-habitat-wild-ireland-extra",
+    "name": "Wild Ireland"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandAnimal.ts",
+    "id": "animal-habitat-burren-birds-extra",
+    "name": "Centrul Păsărilor de Pradă Burren"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandCities.ts",
+    "id": "city-drogheda-extra",
+    "name": "Drogheda"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandCities.ts",
+    "id": "city-bray-extra",
+    "name": "Bray"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandCities.ts",
+    "id": "city-swords-extra",
+    "name": "Swords"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandOther.ts",
+    "id": "animal-habitat-emerald-zoo-extra",
+    "name": "Zoo Emerald Park"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandOther.ts",
+    "id": "animal-habitat-wild-ireland-extra",
+    "name": "Wild Ireland"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandOther.ts",
+    "id": "animal-habitat-burren-birds-extra",
+    "name": "Păsări de Pradă Burren"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandOther.ts",
+    "id": "animal-habitat-national-reptile-extra",
+    "name": "Zoo Națională de Reptile"
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraIrelandOther.ts",
+    "id": "animal-habitat-secret-valley-extra",
+    "name": "Secret Valley Wildlife"
+  }
+]

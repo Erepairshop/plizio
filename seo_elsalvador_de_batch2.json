@@ -1,0 +1,51 @@
+{
+  "lang": "de",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorEconomicV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorHistoryV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorLifeV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorNatureV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "apopa-cities-v2",
+      "descriptionAdvanced": "Apopa, nördlich von San Salvador gelegen, ist ein wichtiges urbanes Zentrum und ein bedeutender Verkehrsknotenpunkt für Pendler aus dem Umland. Die Stadt hat sich in den letzten Jahrzehnten stark entwickelt und dient als wichtiger Handelsstandort für die nördlichen Departements. Das tägliche Leben wird durch belebte Märkte und eine wachsende Infrastruktur geprägt, die den steigenden Anforderungen einer expandierenden Bevölkerung gerecht wird. Apopa bietet einen Einblick in die schnelllebige urbane Realität in El Salvador. Geografie K7 — Regionale Infrastruktur.",
+      "factsAdvanced": [
+        "Apopa ist ein entscheidendes Bindeglied zwischen der Hauptstadt und der nördlichen Region.",
+        "Der Verkehrssektor ist einer der Hauptarbeitgeber für die lokale Bevölkerung.",
+        "Die Stadt verzeichnet eine kontinuierliche Bevölkerungszunahme.",
+        "Apopa beherbergt mehrere industrielle Parks in den Randgebieten.",
+        "Kulturelle Aktivitäten finden oft in der Nähe der zentralen Plaza statt.",
+        "Die wirtschaftliche Bedeutung der Stadt nimmt durch neue Gewerbeflächen stetig zu."
+      ]
+    },
+    {
+      "id": "delgado-cities-v2",
+      "descriptionAdvanced": "Ciudad Delgado ist eng mit der Metropolregion San Salvador verknüpft und bekannt für ihre topografisch abwechslungsreiche Lage sowie ihre geschäftige Atmosphäre. Die Stadt dient als Wohn- und Arbeitsort für eine Vielzahl von Menschen und ist durch eine dichte Bebauung gekennzeichnet. Überregional bekannt ist Ciudad Delgado für seine Bedeutung bei der täglichen Versorgung und Logistik im Großraum. Trotz des hohen urbanen Drucks gibt es zahlreiche soziale Initiativen, die versuchen, den Zusammenhalt in der Stadt zu stärken und die Lebensbedingungen zu verbessern. Geschichte K6 — Urbane Entwicklung.",
+      "factsAdvanced": [
+        "Ciudad Delgado ist integraler Bestandteil der nördlichen Metropolzone von San Salvador.",
+        "Die städtische Struktur ist durch enge Straßen und eine sehr dichte Bebauung charakterisiert.",
+        "Die Wirtschaft ist stark durch Dienstleistungen und den kleinen Einzelhandel geprägt.",
+        "Die Stadt hat eine lange Tradition als wichtiger Wohnstandort für die städtische Arbeiterschaft.",
+        "Regelmäßige lokale Märkte bilden das Herzstück des sozialen und wirtschaftlichen Austauschs.",
+        "Die geografische Lage erfordert kreative Lösungen für Infrastruktur und Verkehr."
+      ]
+    },
+    {
+      "id": "ilopango-city-cities-v2",
+      "descriptionAdvanced": "Ilopango ist weithin bekannt für den angrenzenden Ilopango-See, den größten Vulkansee des Landes, der eine beeindruckende natürliche Kulisse bietet. Die Stadt selbst fungiert als bedeutendes wirtschaftliches und logistisches Zentrum in El Salvador, unter anderem durch den dort ansässigen internationalen Flughafen, der früher der wichtigste Knotenpunkt des Landes war. Ilopango bietet eine einzigartige Mischung aus wirtschaftlicher Vitalität und touristischem Potenzial, da der See ein Anziehungspunkt für Freizeitaktivitäten und Erholung ist. Wirtschaft K8 — Tourismus und Infrastruktur.",
+      "factsAdvanced": [
+        "Der Ilopango-See ist ein Vulkankrater mit einer enormen Tiefe und Ausdehnung.",
+        "Ilopango ist ein strategischer Standort für den Flugverkehr und die Logistik.",
+        "Das wirtschaftliche Leben wird sowohl durch industrielle Betriebe als auch durch den Tourismus am See bestimmt.",
+        "Ilopango-Stadt ist ein dynamisches Zentrum für Handel und Dienstleistungen.",
+        "Der See ist ein wichtiges Ökosystem und Ziel für Wassersportler.",
+        "In den letzten Jahren wurde massiv in den Ausbau der touristischen Infrastruktur am Ufer investiert."
+      ]
+    }
+  ]
+}

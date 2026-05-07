@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pyongyang-cities-v2",
+      "descriptionAdvanced": "Phenjan, Észak-Korea fővárosa a Taedong folyó partján fekszik, és az ország politikai, ipari, valamint kulturális központja. A várost az 1950–1953-as koreai háború során szinte teljesen lebombázták, így a mai arculata a háború utáni szocialista várostervezés monumentális stílusát tükrözi. Az 1982-ben elkészült, 170 méter magas Juche-torony a rendszer ideológiájának szimbóluma, melyből kiváló kilátás nyílik a metropoliszra. A város egyik legszembetűnőbb épülete a 330 méter magas, piramis alakú Ryugyong Hotel, amely 1987 óta épül. Phenjan ad otthont a világ legnagyobb stadionjának, a Május 1. Stadionnak, melynek befogadóképessége 150 000 fő. A közlekedést a mélyen a föld alatt futó, díszített állomásokkal rendelkező phenjani metróhálózat biztosítja, amelyet részben óvóhelynek is terveztek. Plizio tanterv: Földrajz K7 — ázsiai nagyvárosok és várostervezés.",
+      "factsAdvanced": [
+        "A várost a koreai háború (1950–1953) alatt szinte földig rombolták.",
+        "A Juche-torony 170 méter magas és 1982-ben adták át.",
+        "A 105 emeletes Ryugyong Hotel építése 1987-ben kezdődött.",
+        "A Május 1. Stadion befogadóképessége eléri a 150 000 főt.",
+        "A phenjani metró a világ egyik legmélyebben futó hálózata, több mint 100 méter mélyen.",
+        "Phenjan a Taedong folyó mentén épült fel, amely átszeli a várost."
+      ]
+    },
+    {
+      "id": "hamhung-cities-v2",
+      "descriptionAdvanced": "Hamhung Észak-Korea második legnépesebb városa, Dél-Hamgjong tartomány székhelye, amely a Japán-tenger partjához közel fekszik. A város az ország vegyiparának fellegvára, itt található az 1961-ben megnyitott, hatalmas Február 8. Vinalon Komplexum, amely szintetikus textilszálat gyárt. Hamhung a koreai háború során szintén súlyos károkat szenvedett, majd 1955 és 1962 között keletnémet mérnökök segítségével építették újjá, ami egyedi építészeti jelleget kölcsönzött a belvárosnak. A város kulturális élete is jelentős, a Hamhungi Nagy Színház Észak-Korea legnagyobb színházépülete. A város határában található a Majon tengerparti üdülőhely, mely népszerű pihenőhely. Történelmileg fontos szerepet játszott a Csoszon-dinasztia alapításában, mivel I Szonggje tábornok szülőföldje. Plizio tanterv: Történelem K8 — hidegháború és újjáépítés.",
+      "factsAdvanced": [
+        "Hamhung az ország második legnagyobb városa, több mint 750 000 lakossal.",
+        "A várost 1955 és 1962 között keletnémet segítséggel építették újjá.",
+        "Itt működik a Február 8. Vinalon Komplexum, az ország legnagyobb vegyipari üzeme.",
+        "A Hamhungi Nagy Színház az ország legméretesebb színházépülete.",
+        "A városból származik I Szonggje, a Csoszon-dinasztia (1392) alapítója.",
+        "A közeli Majon (Majon-ri) strand Észak-Korea egyik legismertebb üdülője."
+      ]
+    },
+    {
+      "id": "chongjin-cities-v2",
+      "descriptionAdvanced": "Cshongdzsin Észak-Hamgjong tartomány székhelye, és az ország harmadik legnagyobb városa, amelyet gyakran a 'vas városának' is neveznek. Az iparváros a Japán-tenger partján, Észak-Korea északkeleti részén fekszik, és az ország acél- és vaskohászatának központja. A japán gyarmati uralom (1910–1945) alatt a várost fontos kikötővé és ipari csomóponttá fejlesztették, ami meghatározta későbbi sorsát. Itt működik a Kim Cshek Vasmű, amely Észak-Korea legnagyobb kohászati komplexuma. Cshongdzsin fontos közlekedési csomópont is, egyike a kevés észak-koreai városnak, amely villamoshálózattal rendelkezik, ezt 1999-ben adták át. A hideg éghajlat és a nehézipar miatt a város környezete zord, de stratégiai fontossága kiemelkedő. Plizio tanterv: Földrajz K8 — nehézipar és bányászat Kelet-Ázsiában.",
+      "factsAdvanced": [
+        "Cshongdzsin kikötőjét 1908-ban nyitották meg a nemzetközi kereskedelem előtt.",
+        "A város ad otthont a Kim Cshek Vasműnek, a legnagyobb észak-koreai acélgyárnak.",
+        "1999-ben egy egyvonalas villamoshálózatot építettek ki a városban.",
+        "Az 1990-es évek éhínsége különösen súlyosan érintette ezt a régiót.",
+        "A város egyetlen külföldi konzulátusa Kínához tartozik.",
+        "A közelben található a Muszan vasércbánya, amely Ázsia egyik legnagyobb nyíltszíni bányája."
+      ]
+    },
+    {
+      "id": "nampo-cities-v2",
+      "descriptionAdvanced": "Nampo Észak-Korea kiemelkedő fontosságú kikötővárosa, amely a Taedong folyó torkolatánál, a Sárga-tenger partján helyezkedik el. A város Phenjan tengeri kapujaként szolgál, ahová egy széles, mintegy 43 kilométer hosszú autópálya köti össze. Nampo legismertebb mérnöki létesítménye az 1981 és 1986 között épült, 8 kilométer hosszú Nyugati-tengeri Zsiliprendszer (Nampo Gát), amely megakadályozza a sós víz beáramlását a folyóba, és hatalmas mezőgazdasági területek öntözését teszi lehetővé. A város jelentős ipari központ is, hajógyártással, üvegiparral és gépgyártással büszkélkedhet. Nampo környékén híres ásványvízforrások és almáskertek találhatók. Plizio tanterv: Technika K6 — vízügyi mérnöki építmények és gátak.",
+      "factsAdvanced": [
+        "A 8 km hosszú Nyugati-tengeri Zsiliprendszert 1986-ban adták át.",
+        "A város közvetlen autópálya-összeköttetéssel (43 km) rendelkezik Phenjannal.",
+        "Nampo 2010 óta különleges igazgatású városi rangot visel.",
+        "A kikötő képes 20 000 tonnás teherhajók fogadására is.",
+        "Itt működik a Tean Nehéz-gépgyártó Komplexum.",
+        "A Waudo-sziget a város kedvelt rekreációs parkja."
+      ]
+    },
+    {
+      "id": "wonsan-cities-v2",
+      "descriptionAdvanced": "Vonszan egy forgalmas kikötőváros és haditengerészeti bázis a Japán-tenger (Keleti-tenger) partján, Kangvon tartományban. A várost eredetileg Oszan néven ismerték, kikötőjét 1880-ban nyitották meg, és hamar a keleti part fontos kereskedelmi és halászati központjává fejlődött. Manapság Vonszan turisztikai fejlesztési zóna is, itt épült a gigantikus Wonsan-Kalma tengerparti üdülőkomplexum, valamint a várostól nem messze található a Masikryong síközpont. A város oktatási intézményeiről is híres, itt található az ország legnagyobb agrártudományi egyeteme. A Mangjongbong-92 komphajó innen indult rendszeresen a japán Niigata kikötőjébe, amíg a járatokat le nem állították. Plizio tanterv: Földrajz K6 — tengerparti turizmus és kikötővárosok.",
+      "factsAdvanced": [
+        "A vonszani kikötőt 1880-ban nyitották meg a külkereskedelem számára.",
+        "A koreai háború alatt a várost szinte naponta bombázta az ENSZ flottája.",
+        "A Masikryong síközpont kevesebb mint 30 km-re található a várostól.",
+        "A Songdowon Nemzetközi Gyermektábor a város egyik nevezetessége.",
+        "A Vonszan Mezőgazdasági Egyetem Észak-Korea egyik legnevesebb intézménye.",
+        "A Kalma Repülőtér eredetileg katonai bázis volt, majd civil reptérré bővítették."
+      ]
+    },
+    {
+      "id": "sinuiju-cities-v2",
+      "descriptionAdvanced": "Sinidzsu a Kínai Népköztársasággal közös határon fekvő kulcsfontosságú kereskedelmi város, Észak-Phjongan tartomány székhelye. A Jalu folyó partján épült település a Kína és Észak-Korea közötti kereskedelem mintegy 70%-át bonyolítja le. A várost a Kínai-koreai Barátság Hídja (korábban Jalu-folyó híd) köti össze a kínai Dandonggal, amelyet 1943-ban építettek, és a koreai háború során részben megsemmisült. Sinidzsu fontos könnyűipari központ, különösen a textil- és kozmetikaipar területén, valamint kiterjedt vasúti csomópont. 2002-ben a várost Különleges Közigazgatási Régióvá nyilvánították a külföldi befektetések ösztönzése érdekében. Plizio tanterv: Gazdaság K8 — nemzetközi kereskedelem és határvárosok.",
+      "factsAdvanced": [
+        "A város a kínai határkereskedelem mintegy 70 százalékát bonyolítja le.",
+        "A Kínai-koreai Barátság Hídját 1943-ban adták át a forgalomnak.",
+        "2002-ben különleges gazdasági övezetté (SAR) nevezték ki a térséget.",
+        "A várost súlyos bombatámadások érték a koreai háború idején (1950).",
+        "Sinidzsu Észak-Korea fő nyugati vasúti kapuja Kína felé.",
+        "Egy sérült híd, a 'Letört híd' a háborús pusztítások mementójaként áll a folyón."
+      ]
+    },
+    {
+      "id": "tanchon-cities-v2",
+      "descriptionAdvanced": "Tancshon egy jelentős bányász- és iparváros Dél-Hamgjong tartományban, a Japán-tenger partján. A település Észak-Korea egyik legfontosabb nyersanyag-kitermelő központja, ahol a környező hegyek gazdagok kobaltban, magnéziumban és cinkben. A város legismertebb vállalata a Komdok Bányászati Vállalat, amely az ország egyik legnagyobb színesfémbányáját üzemelteti. A kibányászott ércek exportja kulcsfontosságú bevételi forrás a nemzetgazdaság számára. Tancshon tengeri kikötőjét az 1980-as években jelentősen kibővítették az ércexport megkönnyítése érdekében. A bányászat mellett az erdőgazdálkodás és a gépgyártás is jelen van a város gazdaságában. Plizio tanterv: Földrajz K8 — ásványkincsek és nehézipar.",
+      "factsAdvanced": [
+        "Tancshon a világ egyik legnagyobb magnézium- és cinklelőhelyének központja.",
+        "A Komdok bánya az ország legjelentősebb színesfémbányája.",
+        "A város kikötője az ércek tengeri exportjának fő csomópontja.",
+        "Tancshon a Hamgjong-hegység keleti lejtőinél fekszik.",
+        "A bányászat miatt jelentős a vasúti teherforgalom a térségben.",
+        "A város ipara nagyban támaszkodik a környékbeli vízerőművek energiájára."
+      ]
+    },
+    {
+      "id": "kaechon-cities-v2",
+      "descriptionAdvanced": "Kecshon városa Dél-Phjongan tartományban található, körülbelül 80 kilométerre északra a fővárostól, Phenjantól. A város gazdasága elsősorban a szénbányászatra és a kohászatra épül, számos mélyművelésű bánya működik a térségben. Kecshon környékén fakad a Taedong folyó egyik fontos mellékága, a Cshongcshon folyó. A település neve gyakran felmerül a nemzetközi emberi jogi jelentésekben, mivel a város határában található a 14-es számú politikai fogolytábor (Kecshon internálótábor), amely a világ egyik legismertebb és legszigorúbb büntetőtábora. Ennek ellenére a város mezőgazdasági területei, különösen az alma- és gesztenyeültetvények is fontosak a helyi ellátásban. Plizio tanterv: Társadalomismeret K8 — emberi jogok és ipari társadalmak.",
+      "factsAdvanced": [
+        "Kecshon jelentős szénbányászati központ Dél-Phjongan tartományban.",
+        "A város határában terül el a 14-es számú politikai fogolytábor.",
+        "A Cshongcshon folyó völgye gazdag mezőgazdasági termőterület.",
+        "Sin Dong-hyuk emberi jogi aktivista ebben a táborban született 1982-ben.",
+        "A területen jelentős a gesztenye- és almatermesztés.",
+        "A város a Phenjan–Hicshon vasútvonal egyik fontos állomása."
+      ]
+    },
+    {
+      "id": "sariwon-cities-v2",
+      "descriptionAdvanced": "Szarivon Észak-Hvanghe tartomány fővárosa, Észak-Korea délnyugati részén. A várost sokszor az ország 'agrárcentrumaként' vagy 'gabonatárolójaként' említik, mivel a termékeny Cserjong-síkság központjában fekszik, és hatalmas mezőgazdasági területeket szolgál ki. Szarivon ipara is számottevő, traktor- és műtrágyagyárak találhatók itt, melyek a mezőgazdaságot támogatják. A város legismertebb turisztikai látványossága a Szarivoni Néprajzi Utca, amelyet 2007-ben hoztak létre, és a tradicionális koreai építészetet, valamint az ősi Csoszon-kori mindennapokat mutatja be a látogatóknak. A közeli Csongbang-hegyen áll a történelmi Szongbulsza buddhista templom, amelyet 898-ban alapítottak. Plizio tanterv: Történelem K6 — mezőgazdaság és hagyományőrzés.",
+      "factsAdvanced": [
+        "Szarivon a Cserjong-síkság központja, az ország legfőbb mezőgazdasági övezete.",
+        "A Szarivoni Néprajzi Utcát 2007-ben adták át a tradicionális kultúra bemutatására.",
+        "A közeli Csongbang-hegy erődítménye a Koryo-dinasztia idején épült.",
+        "A Szongbulsza buddhista templom alapítása a 898-as évre tehető.",
+        "Itt működik Észak-Korea egyik legnagyobb traktor- és gépgyártó üzeme.",
+        "A város fontos egyeteme a Szarivon Agrártudományi Főiskola."
+      ]
+    },
+    {
+      "id": "sunchon-cities-v2",
+      "descriptionAdvanced": "Szuncshon Dél-Phjongan tartomány egyik kiemelkedő nehézipari városa. Az 1980-as évek végén vált híressé, amikor elkezdték építeni a hatalmas Szuncshoni Vinalon Komplexumot, amely műszálakat, műtrágyát és vegyi anyagokat állít elő a helyi mészkő és szén felhasználásával. A város gazdaságát a szénbányászat, a cementgyártás és a vegyipar dominálja. A Taedong folyó mentén elterülő város logisztikailag is fontos, vasúti csomópontként köti össze az északi bányavidékeket a fővárossal, Phenjannal. Szuncshon repülőtere katonai célokat is szolgál. A város intenzív ipari tevékenysége miatt Észak-Korea egyik legszennyezettebb levegőjű települése. Plizio tanterv: Kémia K8 — vegyipar és szintetikus anyagok gyártása.",
+      "factsAdvanced": [
+        "A Szuncshoni Vinalon Komplexum építése 1983-ban kezdődött el.",
+        "A vinalon nevű műszálat mészkőből és szénből állítják elő.",
+        "A város környéki mészkőbányák látják el a cement- és vegyipart.",
+        "Szuncshon az egyik legnagyobb szénkitermelő bázis a térségben.",
+        "A Taedong folyó mentén fekszik, Phenjantól északra.",
+        "A helyi repülőtér jelentős katonai bázisként is üzemel."
+      ]
+    },
+    {
+      "id": "haeju-cities-v2",
+      "descriptionAdvanced": "Hadzsu Dél-Hvanghe tartomány székhelye, fontos kikötőváros a Sárga-tenger partján, közel a dél-koreai határhoz. A város Észak-Korea déli részének gazdasági és kulturális központja, amelynek történelme a Silla Királyság idejéig nyúlik vissza. Hadzsu ipara elsősorban a cementgyártásra, vegyiparra és a tengeri halászatra épül. A környező Hvanghe régió termékeny síkságai miatt a mezőgazdasági termékek feldolgozása is jelentős. A város közelében található a festői Szujang-hegység, amely közkedvelt kirándulóhely, híres a Szujang-vízesésről. Katonai szempontból is stratégiai fontosságú, kiterjedt haditengerészeti bázissal rendelkezik. Plizio tanterv: Földrajz K7 — partmenti gazdaság és történelmi városok.",
+      "factsAdvanced": [
+        "Hadzsu Dél-Hvanghe tartomány legnépesebb és legfontosabb városa.",
+        "A város történelme több mint 1000 évre, a Silla-korszakig nyúlik vissza.",
+        "A Hadzsu-kikötő az ország egyik legfontosabb délnyugati tengeri kapuja.",
+        "A Szujang-vízesés a régió ismert természeti látványossága.",
+        "A város ad otthont a Hadzsu Rádióadónak, amely Dél-Korea felé is sugároz.",
+        "A közeli partoknál intenzív halászati tevékenység folyik."
+      ]
+    },
+    {
+      "id": "kanggye-cities-v2",
+      "descriptionAdvanced": "Kanggje Csagang tartomány székhelye, a hegyvidéki belső területeken, Észak-Korea északi részén. A város stratégiai fekvése miatt – mélyen a hegyek között – az ország hadiiparának és nehézgépgyártásának egyik legvédettebb központja. A koreai háború alatt a hegyvidéki terep természetes oltalmat nyújtott az ipari létesítményeknek. Kanggje híres fafeldolgozó iparáról, rézbányászatáról és a környéken működő vízerőművekről, amelyek a Jangdzsa folyó vizét hasznosítják. A város építészete az észak-koreai standardokhoz képest is praktikus és masszív. Kultúráját tekintve a város a 'Kanggje szelleméről' ismert, amely a nehézségekkel dacoló, kemény munkát szimbolizálja az állami propagandában. Plizio tanterv: Földrajz K8 — hegyvidéki ipar és energiaellátás.",
+      "factsAdvanced": [
+        "Kanggje a Jangdzsa folyó partján, hegyekkel körülvéve fekszik.",
+        "A város Csagang tartomány politikai és ipari központja.",
+        "A régió Észak-Korea fegyver- és hadiiparának egyik fészke.",
+        "Az 1990-es években a városról nevezték el a 'Kanggjei szellemet'.",
+        "A környékbeli vízerőművek adják az ipar áramellátását.",
+        "A város híres szőlő- és fatermeléséről a zord éghajlat ellenére."
+      ]
+    },
+    {
+      "id": "hyesan-cities-v2",
+      "descriptionAdvanced": "Hjeszan Rjanggang tartomány hegyvidéki fővárosa, amely közvetlenül a Kínával határt képező Jalu folyó mentén helyezkedik el, a Paektu-hegy közelében. A város Észak-Korea egyik leghidegebb települése, ahol télen a hőmérséklet gyakran süllyed mínusz 30 Celsius-fok alá. Hjeszan az ország erdészetének és faiparának központja, a környező hatalmas fenyőerdők adják a gazdaság gerincét, a rönköket hagyományosan a Jalu folyón úsztatták le. Emellett a környéken jelentős réz- és aranybányászat is folyik, itt található a Hjeszan Ifjúsági Rézbánya. Fekvése miatt az 1990-es évektől a csempészet és a határon átnyúló nemhivatalos kereskedelem egyik gócpontja lett. Plizio tanterv: Földrajz K6 — extrém éghajlati övezetek és erdészet.",
+      "factsAdvanced": [
+        "Hjeszanban a téli hőmérséklet elérheti a -42 Celsius-fokot is.",
+        "A város a Jalu folyó partján fekszik, szemben a kínai Changbai megyével.",
+        "Észak-Korea fa- és papíriparának legfontosabb északi központja.",
+        "A Hjeszan Ifjúsági Rézbánya az ország legnagyobb rézlelőhelye.",
+        "A Paektu-hegy (Észak-Korea legmagasabb pontja) turistái innen indulnak.",
+        "Az 1990-es évek óta a Kínával való illegális kereskedelem fontos állomása."
+      ]
+    },
+    {
+      "id": "kaesong-cities-v2",
+      "descriptionAdvanced": "Keszong egy történelmi jelentőségű város a demilitarizált övezet (DMZ) közvetlen közelében, amely a Goryeo-dinasztia (918–1392) fővárosa volt. A koreai háború előtt Dél-Koreához tartozott, ma az ország déli kapuja. A város páratlanul gazdag kulturális örökséggel rendelkezik, a Keszong Történelmi Műemlékei 2013 óta az UNESCO Világörökség részét képezik, beleértve a Szonggjungvan akadémiát és Kongmin király sírját. A régió világhírű a Koryo ginzeng termesztéséről, amely kiemelkedő exportcikk. 2004 és 2016 között itt működött a Keszongi Ipari Park, egy egyedülálló, Észak- és Dél-Korea által közösen üzemeltetett gazdasági övezet, ahol déli vállalatok észak-koreai munkásokat foglalkoztattak. Plizio tanterv: Történelem K8 — középkori Korea és a modern kori megosztottság.",
+      "factsAdvanced": [
+        "Keszong a Goryeo-dinasztia fővárosa volt közel 500 éven keresztül.",
+        "Tizenkét történelmi emléke 2013-ban UNESCO Világörökségi státuszt kapott.",
+        "A koreai háború (1950) előtt a város a 38. szélességi körtől délre feküdt.",
+        "A régió a magas minőségű 'Koryo ginzeng' fő termőterülete.",
+        "A Keszongi Ipari Park fénykorában 54 000 északi munkást foglalkoztatott.",
+        "A város megőrizte a hagyományos hanok stílusú lakónegyedét."
+      ]
+    },
+    {
+      "id": "pyongsong-cities-v2",
+      "descriptionAdvanced": "Phjongszong Dél-Phjongan tartomány székhelye, amelyet 1969-ben alapítottak kifejezetten azért, hogy Észak-Korea tudományos és technológiai kutatóközpontja legyen. A várost gyakran az észak-koreai 'Szilícium-völgyként' emlegetik, mivel itt kapott helyet a Nemzeti Tudományos Akadémia számos intézete, a kutatóközpontok, valamint a Phjongszong Tudományegyetem. A város Phenjantól mindössze 30 kilométerre északra fekszik, ami lehetővé teszi az elit kutatók elkülönítését, ugyanakkor közelségét a fővároshoz. Az ezredforduló után Phjongszong a magánkereskedelem egyik legnagyobb központjává is vált, óriási nagykereskedelmi piaca kulcsszerepet játszott a 'jangmadang' (feketepiac) hálózatok működésében szerte az országban. Plizio tanterv: Gazdaság K8 — tudományos központok és piacgazdaság csírái.",
+      "factsAdvanced": [
+        "A várost 1969-ben alapították kimondottan tudományos központként.",
+        "Itt székel az Észak-Koreai Állami Tudományos Akadémia.",
+        "A város egy 30 km-es sugarú körön belül helyezkedik el Phenjantól.",
+        "Több mint 25 különböző kutatóintézet működik a településen.",
+        "A 2000-es években az ország legnagyobb nagykereskedelmi piaca volt itt.",
+        "Itt található az ország űrprogramját támogató intézmények egy része."
+      ]
+    },
+    {
+      "id": "rason-cities-v2",
+      "descriptionAdvanced": "Raszon egy különleges státuszú gazdasági övezet Észak-Korea legészakkeletibb csücskében, ahol Oroszország, Kína és Észak-Korea határai találkoznak. A város neve a Radzsin és Szonbong települések összevonásából ered. 1993-ban szabadkereskedelmi övezetté (SEZ) nyilvánították a külföldi befektetések, főleg kínai és orosz tőke vonzása céljából. Raszon kikötője jégmentes, ami stratégiailag rendkívül fontossá teszi az export számára. A városban lazábbak a gazdasági szabályok, működik kaszinó külföldiek számára, és a piacon szabadabb a kereskedelem. Az infrastruktúra fejlesztése, például az orosz hálózatba bekötött vasútvonalak, jól mutatják a régió transznacionális jelentőségét. Plizio tanterv: Földrajz K8 — szabadkereskedelmi zónák és határhármasok.",
+      "factsAdvanced": [
+        "A város neve a Radzsin és Szonbong korábbi városok egyesítéséből jött létre.",
+        "1993-ban hozták létre a Raszon Szabadkereskedelmi Övezetet.",
+        "A város kikötője télen sem fagy be, jégmentes marad.",
+        "Határos a kínai Jilin tartománnyal és az orosz Tengermelléki határterülettel.",
+        "2013-ban adták át a felújított orosz-koreai szélesnyomtávú vasútvonalat.",
+        "Ez az egyetlen régió, ahol a piacokon engedélyezett a jüan használata."
+      ]
+    },
+    {
+      "id": "hoeryong-cities-v2",
+      "descriptionAdvanced": "Hörjong a Tumen folyó partján fekvő határváros Észak-Hamgjong tartományban, Kínával átellenben. A város az észak-koreai állami ideológia szempontjából szent helynek számít, mivel itt született Kim Dzsongszuk, Kim Ir Szen felesége és Kim Dzsongil édesanyja. Emiatt a városba jelentős összegeket fektettek a zarándokhelyek és műemlékek fenntartására, mint például a szülőház és a Forradalmi Történeti Múzeum. Földrajzi fekvése miatt az 1990-es években a csempészet és a menekültek Kínába jutásának egyik fő útvonala volt. Gazdasága a papírgyártásra és a szénbányászatra támaszkodik, emellett a környék Észak-Korea híres fehérbarack-termő vidéke. Plizio tanterv: Történelem K8 — propaganda, személyi kultusz és határvárosok.",
+      "factsAdvanced": [
+        "Hörjong a Tumen folyó bal partján terül el, a kínai határ mentén.",
+        "Itt született 1917-ben Kim Dzsongszuk, Észak-Korea nemzeti hősnője.",
+        "A város 1930 körül épült ki a japán gyarmati időszakban.",
+        "Gazdaságának alappillére a papírgyártás és az élelmiszeripar.",
+        "A Hörjong fogolytábor (22-es tábor) a várostól nem messze működött 2012-ig.",
+        "A környék földrajzi adottságai kiválóak a baracktermesztéshez."
+      ]
+    },
+    {
+      "id": "sinpo-cities-v2",
+      "descriptionAdvanced": "Sinpho Dél-Hamgjong tartomány parti városa a Japán-tenger mellett, amely Észak-Korea egyik legfontosabb tengerészeti, különösen tengeralattjáró-fejlesztési bázisa. A Sinpho Déli Hajógyár az ország ballisztikus rakétahordozó tengeralattjáróinak fő építési és tesztelési helyszíne. Az ipari jelleg mellett Sinpho jelentős halászati központ is, az ország tengeri halászatának nagy részét a helyi flotta biztosítja. A város közelében, a Kedo-szigeten kezdték el építeni 1997-ben a KEDO (Koreai Félsziget Energiafejlesztési Szervezet) projekt keretében azt a két könnyűvizes atomreaktort, amelyet a nyugati hatalmak finanszíroztak, de az építkezés 2003-ban végleg leállt. Plizio tanterv: Társadalomismeret K8 — nukleáris energia, haditengerészet és halászat.",
+      "factsAdvanced": [
+        "Sinpho az észak-koreai tengeralattjáró-fejlesztés központi bázisa.",
+        "Itt működik az ország egyik legnagyobb halászati vállalata.",
+        "Az 1990-es években nyugati konzorcium (KEDO) épített itt atomreaktort.",
+        "A KEDO atomreaktor-projektet 2003-ban véglegesen leállították.",
+        "A város partjainál tesztelik a legújabb tengeri fegyverrendszereket.",
+        "Halászati múzeuma az ország tengeri élelmezési sikereit hirdeti."
+      ]
+    },
+    {
+      "id": "manpo-cities-v2",
+      "descriptionAdvanced": "Manpho Csagang tartomány hegyvidéki városa, amely közvetlenül a Jalu folyó partján helyezkedik el, a kínai Jian várossal szemben. A várost egy vasúti és egy közúti híd köti össze Kínával, ami kiemelt kereskedelmi és védelmi jelentőséget ad neki. A fakitermelés és fafeldolgozás a helyi gazdaság legfontosabb ágazatai, mivel a várost sűrű erdők övezik. Manpho különösen fontos szerepet játszott a koreai háború alatt logisztikai csomópontként, és ma is jelentős katonai helyőrség működik a környéken. A közelmúltban, 2019-ben új híd épült a város és a kínai oldal között a gazdasági kapcsolatok fellendítésére. Plizio tanterv: Földrajz K7 — határvidékek, folyók mint természetes határok.",
+      "factsAdvanced": [
+        "Manpho a Jalu folyó kanyarulatában fekszik, északi határvárosként.",
+        "A várost egy 1937-ben épült vasúti híd köti össze a kínai Jiannal.",
+        "2019-ben egy modern közúti hidat is átadtak a két ország között.",
+        "A helyi gazdaság a hegyvidéki fakitermelésre és cinkbányászatra épül.",
+        "A koreai háború idején az utánpótlás egyik legfőbb bejutási pontja volt.",
+        "Télen a hőmérséklet drasztikusan lecsökken, a folyó befagy."
+      ]
+    },
+    {
+      "id": "kusong-cities-v2",
+      "descriptionAdvanced": "Kuszong Észak-Phjongan tartomány csendes, elzárt városa, amely az észak-koreai gépgyártás és védelmi ipar egyik fellegvára. A város az 1950-es évek óta otthona a Kuszong Gépgyárnak, amely különféle ipari berendezéseket, lánctalpas járműveket és katonai felszereléseket állít elő. Kuszong környékén rakétakilövő- és tesztelő létesítmények is találhatók, amelyeket Észak-Korea fegyverprogramjában használnak. Iparvárosi jellege ellenére a város híres az almaültetvényeiről és baromfitenyésztéséről is, amelyek ellátják a katonai és ipari dolgozókat. A települést szigorúan ellenőrzik, a külföldiek számára nem, vagy csak nagyon ritkán látogatható. Plizio tanterv: Földrajz K8 — nehézipar és katonai célú területhasználat.",
+      "factsAdvanced": [
+        "Kuszong az észak-koreai védelmi ipar és gépgyártás kulcsvárosa.",
+        "Itt gyártják az ország lánctalpas járműveinek jelentős részét.",
+        "A város közelében több ballisztikusrakéta-tesztet is végrehajtottak.",
+        "A Kuszong Gépgyárat már az 1950-es évek elején megalapították.",
+        "Szigorúan zárt város, a lakosság nagy része hadiipari dolgozó.",
+        "A nehézipar mellett kiterjedt alma- és gyümölcsültetvények övezik."
+      ]
+    }
+  ]
+}

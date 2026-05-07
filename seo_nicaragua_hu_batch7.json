@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "minas-del-jicaro-history-v2",
+      "descriptionAdvanced": "Az El Jícaro környéki San Albino aranybányák történelmi szimbólumok Nicaraguában. Eredetileg a 19. század végén nyitották meg őket amerikai vállalatok. Történelmi jelentőségüket azonban az adja, hogy Augusto C. Sandino tábornok itt dolgozott az 1920-as évek elején adminisztrátorként, és a munkások nyomorúságos körülményei láttán itt fogalmazta meg első antiimperialista kiáltványát, a 'Manifiesto de San Albino'-t 1927-ben. Később csapataival elfoglalta és megsemmisítette a bányát, amely így a nicaraguai forradalmi eszmék szülőhelyévé vált. Történelem K8 — munkásmozgalmak és antiimperializmus.",
+      "factsAdvanced": [
+        "A bányát 1885-ben alapították, és főként külföldi tőkéből működött.",
+        "Sandino 1926-ban tért vissza Mexikóból, hogy itt vállaljon munkát.",
+        "A 'Manifiesto de San Albino' az amerikai beavatkozás elleni küzdelem alapdokumentuma.",
+        "A sandinista csapatok a bánya készleteiből finanszírozták fegyvereik egy részét.",
+        "A bánya romjai ma történelmi nemzeti emlékhelyként (Patrimonio Histórico) látogathatók.",
+        "A terület a Jícaro-folyó völgyében, mélyen a hegyek között fekszik."
+      ]
+    },
+    {
+      "id": "fuerte-de-la-inmaculada-concepcion-el-castillo-history-v2",
+      "descriptionAdvanced": "A Szeplőtelen Fogantatás Erődje (El Castillo) Közép-Amerika egyik legépebben megmaradt 17. századi spanyol katonai erődítménye. A San Juan-folyó feletti stratégiai magaslatra épült 1675-ben azzal a kifejezett céllal, hogy megvédje a gazdag Granada városát a Karib-tengerről folyásiránnyal szemben felhajózó angol, francia és holland kalózoktól. Az erőd vastag, vulkáni kőből épült falai és bástyái számos ostromot álltak ki. A leghíresebb ütközet 1762-ben zajlott, amikor a 19 éves Rafaela Herrera ágyútűzzel verte vissza a brit csapatokat. Történelem K7 — spanyol gyarmatvédelem és kalózkorszak.",
+      "factsAdvanced": [
+        "Az erődöt Martín de Andújar mérnök tervezte a guatemalai kapitány utasítására.",
+        "1780-ban a fiatal Horatio Nelson kapitány rövid időre elfoglalta az erődöt.",
+        "Az erőd alaprajza csillag alakú, négy sarkán őrtornyokkal (bástyákkal).",
+        "Egy stratégiai sziklás zúgó (Raudal del Diablo) mellé épült, ahol a hajóknak le kellett lassítaniuk.",
+        "A 20. század végéig börtönként és laktanyaként is szolgált.",
+        "Ma múzeum és a San Juan folyó turizmusának központi eleme."
+      ]
+    },
+    {
+      "id": "puerto-de-corinto-historical-port-history-v2",
+      "descriptionAdvanced": "Corinto történelmi kikötője a 19. század közepén vette át a sekélyessé váló El Realejo szerepét, és hamarosan Nicaragua fő csendes-óceáni tengeri kapujává vált. Történelmi jelentőségét nemcsak az adja, hogy innen indultak útnak a nicaraguai kávé- és pamutexport első nagy szállítmányai, hanem az is, hogy számos katonai intervenció célpontja volt. 1895-ben brit hadihajók szállták meg a kikötőt, az 1980-as években pedig a CIA által támogatott erők robbantották fel a kikötő olajtartályait, hatalmas nemzetközi botrányt és környezeti katasztrófát okozva. Történelem K8 — kikötők szerepe a külpolitikában.",
+      "factsAdvanced": [
+        "A kikötőt 1858-ban nyitották meg hivatalosan a nemzetközi kereskedelem előtt.",
+        "1895-ben a britek a 'Corintói incidens' során elfoglalták a kikötőt egy kártérítési vita miatt.",
+        "Az 1983-as olajtartály-robbantás miatt a Nemzetközi Bíróság is elítélte az USA-t.",
+        "A 19. század végén itt volt a nicaraguai vasúthálózat nyugati végállomása.",
+        "A történelmi belvárosban még állnak a régi vámházak és faházak maradványai.",
+        "Egy 1992-es csendes-óceáni szökőár súlyos károkat okozott a történelmi épületekben."
+      ]
+    },
+    {
+      "id": "sitio-historico-san-rafael-del-norte-history-v2",
+      "descriptionAdvanced": "San Rafael del Norte Jinotega megye hegyei között fekszik, és kulcsfontosságú helyszíne a nicaraguai történelem két különböző fejezetének. Egyrészt itt élt és tevékenykedett Odorico D'Andrea olasz származású ferences rendi szerzetes, aki a 20. század közepén kórházakat és iskolákat épített a szegényeknek, és akinek ma szentélye van a városban. Másrészt San Rafael Augusto C. Sandino életének fontos bázisa volt: itt házasodott össze Blanca Arauzzal, a helyi távírókezelővel, aki a forradalom egyik hősnőjévé vált. Történelem K7 — egyházi missziók és gerillaháború.",
+      "factsAdvanced": [
+        "Augusto C. Sandino 1927. május 18-án, a 32. születésnapján vette feleségül Blanca Arauzt a helyi templomban.",
+        "Blanca Arauz 2015-ben kapta meg posztumusz a 'Nicaragua Nemzeti Hősnője' címet.",
+        "Odorico atya földi maradványait a helyi Tepeyac kápolnában őrzik üvegkoporsóban.",
+        "A kisvárost 1000 méternél is magasabb köderdők ölelik körül.",
+        "A forradalom alatt San Rafael gyakori harcok színtere volt a stratégiai elhelyezkedése miatt.",
+        "A városka építészete a hagyományos spanyol és az őslakos stílusok keveréke."
+      ]
+    },
+    {
+      "id": "minas-de-siuna-rosita-bonanza-history-v2",
+      "descriptionAdvanced": "A Bányászati Háromszög (Triángulo Minero) Siuna, Rosita és Bonanza városait foglalja magában, amelyek a 19. század végétől Közép-Amerika egyik legintenzívebb arany- és rézkitermelő övezetét alkották. A térség történelmét az amerikai és kanadai bányavállalatok gazdasági uralma jellemezte az 1970-es évekig. A vállalatok saját infrastruktúrát (repülőtereket, kórházakat, erőműveket) építettek a sűrű dzsungel közepén, miközben a helyi munkások (gyakran miszkító indiánok) kegyetlen körülmények között dolgoztak. Ez az egyenlőtlenség tette a területet a forradalmi eszmék melegágyává, ami később a külföldi vagyonok államosításához vezetett. Történelem K8 — neo-kolonializmus és államosítás.",
+      "factsAdvanced": [
+        "A La Luz és a Rosario Mining Company dominálta a térséget évtizedekig.",
+        "Az aranykitermelés során használt higany súlyosan szennyezte a helyi folyókat.",
+        "A bányák repülőterein több teherszállító gép szállt fel naponta az 1950-es években, mint Managuában.",
+        "1979-ben a sandinista kormány minden külföldi bányászati koncessziót államosított.",
+        "Bonanzában egy 1990-es évekbeli bányaomlás után vezették be a szigorúbb biztonsági szabályokat.",
+        "A régi meddőhányók ma is veszélyes ásványi anyagokat tartalmaznak."
+      ]
+    },
+    {
+      "id": "guerra-constitucionalista-leon-history-v2",
+      "descriptionAdvanced": "Az 1926–1927 közötti alkotmányos háború (Guerra Constitucionalista) León és Managua térségében összpontosult. A konfliktus a liberálisok (akiknek León volt a fellegvára) és a konzervatívok között tört ki az ország irányításáért. León utcáin és a környező síkságokon heves harcok folytak, amelyek végül amerikai tengerészgyalogosok újabb beavatkozásához vezettek, hogy megvédjék az amerikai érdekeket. A háborút hivatalosan lezáró 1927-es Espino Negro-i egyezményt sok liberális elutasította – köztük Augusto C. Sandino is, aki León hegyeibe visszavonulva megkezdte hosszú antiimperialista harcát. Történelem K8 — polgárháborúk és idegen beavatkozás.",
+      "factsAdvanced": [
+        "A háborút Juan Bautista Sacasa liberális vezető indította el Emiliano Chamorro konzervatív kormánya ellen.",
+        "Az amerikai haditengerészet 1926-ban 'semleges övezeteket' hozott létre a partokon.",
+        "León városát a konfliktus alatt többször is ostromolták és bombázták.",
+        "Az 1927 májusában aláírt Espino Negro-i paktum értelmében a felek lefegyverezték magukat az USA ellenőrzése alatt.",
+        "A háború közvetlen következménye volt a hírhedt nicaraguai Nemzeti Gárda megalapítása.",
+        "Sandino volt az egyetlen liberális parancsnok, aki nem volt hajlandó letenni a fegyvert."
+      ]
+    },
+    {
+      "id": "bombardeo-de-ocotal-history-v2",
+      "descriptionAdvanced": "Az ocotali bombázás 1927. július 16-án zajlott, és a hadtörténet egyik sötét mérföldköve: ez volt a történelem egyik első esete, amikor szervezett, irányított légibombázást és zuhanóbombázást hajtottak végre egy település ellen. Amikor Augusto C. Sandino több száz fős gerillaserege megtámadta a városban állomásozó amerikai tengerészgyalogosokat és a helyi Nemzeti Gárdát, az amerikai parancsnokság öt De Havilland DH-4 típusú harci repülőt küldött Managuából. A gépek bombái és géppuskatüze szétverték Sandino csapatait, és jelentős pusztítást okoztak az északi városban. Történelem K8 — légi hadviselés kezdetei és gerillaharc.",
+      "factsAdvanced": [
+        "A bombázást az amerikai tengerészgyalogság repülőszázada (USMC) hajtotta végre.",
+        "Sandino serege körülbelül 400-800, nagyrészt parasztokból álló harcosból állt.",
+        "Az amerikai gépek 50 fontos (kb. 23 kg) bombákat dobtak a városra és a gerillákra.",
+        "Becslések szerint több tucat (egyes források szerint akár 300) nicaraguai halt meg a támadásban.",
+        "A légi csapás után Sandino megváltoztatta taktikáját, és áttért a klasszikus, hegyi gerillaharcra.",
+        "Az esemény hatalmas nemzetközi felháborodást váltott ki Latin-Amerikában az amerikai beavatkozás ellen."
+      ]
+    },
+    {
+      "id": "ni-plaza-revolucion-landmarks-v2",
+      "descriptionAdvanced": "A Forradalom tere (Plaza de la Revolución) Managua történelmi és politikai szíve. Eredetileg Köztársaság térnek hívták, és a spanyol gyarmati idők óta a város központja volt. A tér a történelem viharainak lenyomata: túlélt katasztrofális földrengéseket (1931, 1972) és a forradalmi harcokat. A teret olyan ikonikus, monumentális épületek veszik körül, mint a Régi Katedrális, a Nemzeti Palota (ma Kulturális Palota) és a Rubén Darío Nemzeti Színház. A tér közepén található Carlos Fonseca Amador, a sandinista forradalom ideológusának mauzóleuma. Földrajz K6 — fővárosi terek és nemzeti szimbólumok.",
+      "factsAdvanced": [
+        "Az 1972-es földrengés a tér körüli épületek nagy részét romba döntötte, kivéve a Nemzeti Palotát és a Színházat.",
+        "1979 júliusában a győztes sandinista csapatok ezen a téren ünnepelték a Somoza-diktatúra megdöntését.",
+        "Carlos Fonseca Amador örökmécsese a tér közepén lévő parkosított részben ég.",
+        "A teret az 1990-es évek végén ideiglenesen 'Plaza de la República'-ra nevezték vissza, majd ismét Forradalom tere lett.",
+        "A tér keleti oldalán található a Parque Central (Központi Park), tele zenepavilonokkal.",
+        "A terület gyakran ad otthont hatalmas politikai gyűléseknek és nemzeti ünnepeknek."
+      ]
+    },
+    {
+      "id": "ni-monumento-ruben-dario-landmarks-v2",
+      "descriptionAdvanced": "A Rubén Darío emlékmű egy grandiózus fehér márvány emlékmű Managuában, a Managua-tó partján elterülő történelmi parkban (Parque Central). Az 1933-ban felavatott szoborcsoportot az olasz Mario Favilli tervezte, és a nicaraguai nemzet tiszteletét fejezi ki a világirodalom egyik legnagyobb költője iránt. A központi talapzaton a költő szobra áll egy hattyú társaságában, ami a modernista irodalmi mozgalom egyik fő szimbóluma, és Darío műveire utal. A szobrot allegorikus alakok és vízköpők veszik körül, amelyek a költészetet és a művészetet jelképezik. Történelem K6 — nemzeti emlékművek és irodalmi szimbólumok.",
+      "factsAdvanced": [
+        "Az emlékművet az 1931-es managuai földrengés után emelték, mint a város újjáéledésének jelképét.",
+        "A szoborhoz felhasznált Carrara-márványt közvetlenül Olaszországból hajózták be.",
+        "A talapzaton a 'A Rubén Darío, Nicaragua' felirat olvasható.",
+        "A szoborcsoport alatti medencét egykor zenélő szökőkút díszítette.",
+        "Az 1972-es földrengés komoly károkat okozott az emlékműben, amit később restauráltak.",
+        "Közvetlen szomszédságában található a Rubén Darío Nemzeti Színház épülete."
+      ]
+    },
+    {
+      "id": "ni-teatro-nacional-ruben-dario-landmarks-v2",
+      "descriptionAdvanced": "A Rubén Darío Nemzeti Színház (Teatro Nacional Rubén Darío) Latin-Amerika egyik legkiválóbb akusztikájú, modernista stílusú színházépülete Managuában. Az 1969-ben megnyitott épület Hope Portocarrero, Somoza feleségének kezdeményezésére épült. Az épület leginkább arról híres, hogy szinte sértetlenül vészelte át a várost romba döntő 1972-es földrengést, köszönhetően az amerikai és japán mérnökök által tervezett fejlett, földrengésbiztos (szeizmikus) alapozásnak. A színház ma a nicaraguai előadó-művészet, koncertek és balettelőadások központja, lenyűgöző kristálycsillárokkal díszített belső terekkel. Földrajz K8 — földrengésbiztos építészet és kulturális intézmények.",
+      "factsAdvanced": [
+        "A színházat egy amerikai építésziroda, a Dambach & Associates tervezte.",
+        "A Nagyterem (Sala Mayor) akusztikáját úgy tervezték, hogy vetekedjen a világ legjobb koncerttermeivel.",
+        "A megnyitón a New York-i Filharmonikusok léptek fel.",
+        "Az épület alapzatát hatalmas gumi- és acélhengereken (szeizmikus izolátorok) nyugtatják.",
+        "Az épület homlokzatát letisztult, ablak nélküli fehér márványpanelek borítják.",
+        "A Folyosó (Lobby) hatalmas csillárjait cseh kristályból készítették."
+      ]
+    },
+    {
+      "id": "ni-catedral-de-leon-landmarks-v2",
+      "descriptionAdvanced": "A Leóni Katedrális (Insigne y Real Basílica Catedral de la Asunción de la Bienaventurada Virgen María) Közép-Amerika legnagyobb és legfontosabb egyházi épülete, amely 2011 óta az UNESCO Világörökség része. Az építését 1747-ben kezdték és több mint egy évszázadig tartott. Az épület a barokk és a neoklasszicista stílus monumentális keveréke, melynek különlegessége a zömök, széles alaprajz, amit a gyakori földrengések miatt terveztek így. A hófehérre meszelt kupolás tetőn sétálva a látogatók a város és a környező vulkánok lenyűgöző panorámájában gyönyörködhetnek. Történelem K8 — világörökségi helyszínek és gyarmati építészet.",
+      "factsAdvanced": [
+        "A katedrális kriptáiban nyugszik Rubén Darío (egy szomorú oroszlán szobra alatt) és más neves nicaraguaiak.",
+        "A falak helyenként több mint három méter vastagok a földrengések elleni védelem miatt.",
+        "A tetőzetet borító több mint 30 kupola a természetes fényt engedi be a hatalmas belső térbe.",
+        "Egy helyi legenda szerint a terveket eredetileg a limai (Peru) katedrális számára készítették, de a tekercseket összecserélték.",
+        "A főoltár ezüstből készült, spanyol és perui mesterek munkája.",
+        "Az épület alatt állítólag egy máig feltáratlan alagútrendszer húzódik."
+      ]
+    },
+    {
+      "id": "ni-ruinas-leon-viejo-landmarks-v2",
+      "descriptionAdvanced": "León Viejo romjai (Ruinas de León Viejo) az ország egyik legfontosabb történelmi helyszíne, a Momotombo vulkán lábánál, a Managua-tó partján. Ez a spanyolok által 1524-ben alapított város volt Nicaragua első fővárosa. A várost 1610-ben a vulkán kitörése és a folyamatos földrengések miatt a lakosok elhagyták, majd évszázadokra betemette a vulkáni hamu (hasonlóan az olaszországi Pompejihez). Az 1960-as években feltárt romok megőrizték a kora gyarmati várostervezés pontos (sakktábla) alaprajzát. Az UNESCO 2000-ben Világörökségi helyszínné nyilvánította. Történelem K7 — kora gyarmati várostervezés és vulkáni katasztrófák.",
+      "factsAdvanced": [
+        "Francisco Hernández de Córdoba, Nicaragua alapítója hozta létre a várost.",
+        "A romok között tárták fel Córdoba és Pedrarias Dávila kormányzó sírját is 2000-ben.",
+        "A vulkáni hamu kitűnően konzerválta az eredeti vályogtégla (adobe) alaprajzokat.",
+        "A város egykor Közép-Amerika egyik legfontosabb rabszolga-kereskedelmi központja volt Peru felé.",
+        "León Viejót a lakosok szervezetten, a vagyonukat magukkal víve hagyták el, mielőtt teljesen elpusztult volna.",
+        "A romokat a Managuai Nemzeti Egyetem hallgatói és régészei tárták fel."
+      ]
+    },
+    {
+      "id": "ni-catedral-de-granada-landmarks-v2",
+      "descriptionAdvanced": "A granadai katedrális (Catedral de Nuestra Señora de la Asunción) a város legikonikusabb épülete, melynek jellegzetes vörös-sárga (mustársárga) neoklasszicista homlokzata dominálja a központi teret. Az épület hosszú, tragikus történetet tudhat magáénak: eredetileg a 16. században épült kőből és fából, de az idők során kalózok pusztították, végül William Walker serege 1856-ban földig rombolta. A ma látható, masszív építmény újjáépítése az 1880-as években kezdődött olasz tervek alapján, és csak a 20. század elején fejeződött be. Földrajz K6 — városképi nevezetességek.",
+      "factsAdvanced": [
+        "A kupolát dróthálóból és cementből készítették az Egyesült Államokban, és darabokban hajózták be.",
+        "Az újjáépítést egy olasz építész, Andrés Zapata irányította.",
+        "Négy kápolnája van, amelyek a város tehetős családjainak adományából épültek.",
+        "Az épület több mint 40 évig épült a forráshiányok miatt.",
+        "A harangtornyokat csak 1915-ben fejezték be.",
+        "A homlokzaton négy fülke található, amelyek a négy evangélista szobrát rejtik."
+      ]
+    },
+    {
+      "id": "ni-fortaleza-coyotepe-landmarks-v2",
+      "descriptionAdvanced": "Az El Coyotepe erőd egy komor, csillag alaprajzú kőerőd a Coyotepe-domb tetején, Masaya városának határában. Anastasio Somoza García elnök építtette 1939-ben, elsősorban katonai megfigyelőpontként a stratégiai magaslaton (ahol az 1912-es csata is zajlott). Sötét hírnevét a Somoza-diktatúra alatt szerezte, amikor az erőd alatti, nedves és fényszegény alagutakban a Nemzeti Gárda politikai foglyok ezreit kínozta és tartotta fogva embertelen körülmények között. Az 1979-es forradalom után a sandinisták is használták az erődöt rabok őrzésére. Ma hátborzongató múzeum. Történelem K8 — diktatúrák és katonai erődítmények.",
+      "factsAdvanced": [
+        "Az erőd alatt három szinten futnak a sötét, boltíves alagutak.",
+        "A legalsó cellaszint teljesen sötét, és a foglyok gyakran napokig nem láttak fényt.",
+        "Az épület tervezésekor a hagyományos spanyol csillagerődök (bastion) formáját követték.",
+        "1983 és 1990 között a sandinista kormány több száz 'kontra' gyanúsítottat tartott itt fogva.",
+        "Jelenleg a helyi cserkészszövetség (Boy Scouts) kezeli és védi a műemléket.",
+        "A dombról a Managua felé tartó főút is tökéletesen belátható."
+      ]
+    },
+    {
+      "id": "ni-cruz-de-bobadilla-landmarks-v2",
+      "descriptionAdvanced": "A Bobadilla keresztje (La Cruz de Bobadilla) egy történelmi emlékhely a Masaya-vulkán kráterének peremén. A krátert az őslakosok istenek lakhelyének tartották, és gyakran mutattak be emberáldozatokat az izzó lávatónak. 1529-ben egy spanyol domonkos rendi szerzetes, Francisco de Bobadilla egy hatalmas fakeresztet állított a kráter szélére, hogy "elűzze az ördögöt" a vulkánból (amelyet a spanyolok 'Boca del Infierno'-nak, a Pokol Szájának hívtak). Ma egy felújított vaskereszt áll az eredeti helyén, amelyhez egy rövid, de meredek lépcsősor vezet fel a Nemzeti Park területén. Történelem K6 — vallási hiedelmek és vulkánok.",
+      "factsAdvanced": [
+        "A krátert a spanyol hódítók a pokol bejáratának hitték a folyamatos füst és láva miatt.",
+        "Bobadilla atya a kereszt felállítása után le is ereszkedett a kráterbe, hogy 'aranyat' (olvasztott kőzetet) hozzon fel.",
+        "A jelenlegi fémkeresztet a 20. században emelték a korhadt fa helyébe.",
+        "A kereszttől közvetlen rálátás nyílik a Santiago-kráter aktív, gőzölgő mélyére.",
+        "A terület gyakran lezárják a látogatók elől erős vulkáni gázkibocsátás esetén.",
+        "Az őslakosok a vulkánt 'Popogatepe'-nek (forró hegy) nevezték."
+      ]
+    },
+    {
+      "id": "ni-cristo-misericordia-landmarks-v2",
+      "descriptionAdvanced": "Az Irgalmasság Krisztusa (Cristo de la Misericordia) egy gigantikus, 24 méter magas Jézus-szobor, amely San Juan del Sur öblére néz le egy meredek dombtetőről. A Rio de Janeiro-i Megváltó Krisztushoz hasonlóan a szobor áldásra emelt karokkal áll, és az egyik legmagasabb ilyen jellegű szobor Közép-Amerikában. 2008-ban avatták fel, egy helyi üzletember (Erwin González) adományaként, aki csodás gyógyulását köszönte meg ezzel az emlékművel. A szoborhoz vezető meredek ösvény megmászása után lenyűgöző kilátás nyílik a Csendes-óceánra, a strandokra és a Costa Rica-i határ hegyeire. Földrajz K6 — vallási emlékművek és kilátópontok.",
+      "factsAdvanced": [
+        "A szobor talapzata 9 méter, maga az alak 15 méter magas.",
+        "A szobrot több száz üvegszálas (fiberglass) panelből szerelték össze fémvázon.",
+        "Súlya eléri a 134 tonnát, és erős óceáni szelek elviselésére tervezték.",
+        "A talapzat belsejében egy kis kápolna található, amely Jézus életét bemutató festményekkel van díszítve.",
+        "Erwin González, az építtető rákból való felépüléséért hálából finanszírozta a projektet.",
+        "A szobrot Max Ulloa nicaraguai szobrászművész tervezte."
+      ]
+    },
+    {
+      "id": "ni-iglesia-subtiava-landmarks-v2",
+      "descriptionAdvanced": "A Subtiava Keresztelő Szent János temploma (Iglesia San Juan Bautista de Subtiava) León legősibb és legegyedibb egyházi épülete. A templom a 16. század közepén (1530 környékén) épült az akkor még önálló, chorotega őslakosok lakta Subtiava falu központjában. Az építészetében gyönyörűen keverednek a spanyol gyarmati barokk elemek és az őslakos szimbólumok. Legismertebb részlete a fa mennyezeten található, mosolygó napot ábrázoló fafaragás (El Sol de Subtiava), amely az indiánok napisten-kultuszát csempészte be a katolikus templomba. Történelem K7 — vallási szinkretizmus és őslakos építészet.",
+      "factsAdvanced": [
+        "A jelenleg látható főépület építését 1710 körül fejezték be.",
+        "A 'Subtiava Napja' faragás a keresztény és az őslakos hit (szinkretizmus) egyedülálló ötvözete.",
+        "A templom oszlopai vastag, egy darabból faragott fatörzsekből állnak.",
+        "Minden évben a nagyhéten színes fűrészporból készült szőnyegeket (alfombras) raknak le a templom előtti utcán.",
+        "Külsejét rusztikus, viszonylag díszítetlen vályog- és kőfalak jellemzik.",
+        "1980-ban Nemzeti Műemlékké nyilvánították."
+      ]
+    },
+    {
+      "id": "ni-monumento-diriangen-landmarks-v2",
+      "descriptionAdvanced": "Diriangén törzsfőnök emlékműve (Monumento a Cacique Diriangén) Diriamba város bejáratánál áll, és a prekolumbián őslakos ellenállás jelképe Nicaraguában. Diriangén volt a chorotega indiánok nagy tekintélyű vezetője, aki 1523-ban először barátságosan fogadta a spanyol hódítót, Gil González Dávilát, majd három nappal később több ezer harcosával váratlanul megtámadta és visszavonulásra kényszerítette a meglepett spanyol csapatokat. A bronzszobor a harcos vezért ábrázolja fegyverrel a kezében, amint megvédi földjét a betolakodóktól. Történelem K6 — az őslakos ellenállás hősei.",
+      "factsAdvanced": [
+        "Diriangén az első regisztrált őslakos vezér, aki fegyveres ellenállást szervezett a spanyolok ellen Közép-Amerikában.",
+        "Az emlékművet a 20. század második felében emelték Diriamba (amely róla kapta nevét) tiszteletére.",
+        "A csata Diriangén és Dávila csapatai között a mai Diriamba közelében zajlott 1523. április 17-én.",
+        "A szobor talapzatán domborművek ábrázolják az őslakosok harcát a lovas spanyol katonákkal.",
+        "A nicaraguai hadsereg egyik elit egysége (Comando de Operaciones Especiales) is az ő nevét viseli.",
+        "Diriangént gyakran a nicaraguai nemzeti identitás és függetlenség ősatyjaként említik."
+      ]
+    },
+    {
+      "id": "ni-santuario-cuapa-landmarks-v2",
+      "descriptionAdvanced": "A Cuapai Miasszonyunk Nemzeti Kegyhely (Santuario Nacional de la Virgen de Cuapa) egy modern, szabadtéri zarándokhely Chontales megye hegyei között. A szentélyt egy hatalmas, zöld legelő közepén építették fel, pontosan azon a köves területen, ahol 1980-ban Bernardo Martínez sekrestyésnek állítólag többször megjelent Szűz Mária, békét kérve a polgárháború sújtotta országnak. A komplexum egy nyitott kápolnából, keresztútból (Vía Crucis) és egy parkosított területből áll, ahová a hívők ezrei érkeznek minden május 8-án gyalogosan vagy lóháton, hogy hálát adjanak a "Cuapai Szűznek". Történelem K6 — vallási turizmus és jelenések.",
+      "factsAdvanced": [
+        "A helyszínen egy 'könnyező fa' is található, amely a hívők szerint a Mária-jelenések bizonyítéka.",
+        "A szentély kialakítása nagyon egyszerű, a természetes környezetre (hegyek, legelők) helyezi a hangsúlyt.",
+        "Bernardo Martínez a jelenések után pap lett, és szentté avatási eljárása folyamatban van.",
+        "II. János Pál pápa 1983-as managuai látogatásán megáldotta a Cuapai Szűz szobrát.",
+        "A zarándoklat május 7-én éjjel kezdődik, fáklyás virrasztással.",
+        "2013-ban emelték a szentélyt Nemzeti Zarándokhely (Santuario Nacional) rangra."
+      ]
+    },
+    {
+      "id": "ni-iglesia-asuncion-masaya-landmarks-v2",
+      "descriptionAdvanced": "A Masayai Nagyboldogasszony-templom (Parroquia de la Asunción de María) a város központi parkjában álló történelmi plébániatemplom. A 18. században épült gyarmati stílusú épület barokk homlokzatával és egyedi, aszimmetrikus (egy magas és egy csonka) tornyaival Masaya szimbóluma. Az épület szorosan kötődik a város őslakos, monimbó-i hagyományaihoz. 1979-ben, a sandinista felkelés során a templom körüli tér heves harcok színtere volt, de az épület maga átvészelte a pusztítást. A templom ad otthont a város védőszentjének, Szent Jeromosnak a híres masayai fiesták alatt is. Történelem K7 — vallási központok és városkép.",
+      "factsAdvanced": [
+        "A templomot 1750 környékén szentelték fel a spanyol hatóságok.",
+        "A bal oldali tornyot a 19. századi földrengések miatt soha nem építették újjá teljesen.",
+        "A belső teret finoman faragott spanyol gyarmati oltárok díszítik.",
+        "A templom előtt álló Központi Park (Parque Central) a hagyományos marimba-zenészek kedvelt helye.",
+        "A nagyhéten a templom körüli utcákat kézműves fűrészpor-szőnyegek borítják.",
+        "Az 1856-os filibuster-háborúk idején a templom óvóhelyként szolgált a civilek számára."
+      ]
+    },
+    {
+      "id": "ni-loma-tiscapa-landmarks-v2",
+      "descriptionAdvanced": "A Tiscapa-domb (Loma de Tiscapa) egy vulkáni kráter pereme Managua központjában, amelynek alján egy sötét vizű krátertó (Laguna de Tiscapa) található. Stratégiai elhelyezkedése miatt évtizedekig a nicaraguai hatalom központja volt: itt építette fel elnöki palotáját az Anastasio Somoza-diktatúra, amely alatt az épület hírhedt börtönként és kínzókamraként (El Chipote) is működött. Az 1972-es földrengés a palotát romba döntötte. Ma a dombtetőn a forradalmi hős, Augusto C. Sandino hatalmas, acélból készült sziluettje (szobra) magasodik, amely egész Managuából látható, szimbolizálva a diktatúra feletti győzelmet. Történelem K8 — diktatúrák bukása és krátertavak.",
+      "factsAdvanced": [
+        "Augusto C. Sandinót ezen a hegyen tartóztatták le 1934-ben, mielőtt kivégezték volna.",
+        "A hatalmas Sandino-sziluettet Ernesto Cardenal költő és szobrász tervezte az 1990-es években.",
+        "A dombon megtekinthetők a Somoza-féle börtönök sötét celláinak maradványai.",
+        "Az 1972-es földrengés során a domb szó szerint 'kettényílt' egy aktív törésvonal mentén.",
+        "A krátertó (Laguna de Tiscapa) vize erősen szennyezett volt, de folyamatban van a rehabilitációja.",
+        "Egy canopy (zipline) drótkötélpálya ível át a krátertó felett, vonzva a kalandvágyókat."
+      ]
+    },
+    {
+      "id": "ni-iglesia-recoleccion-landmarks-v2",
+      "descriptionAdvanced": "A La Recolección templom León egyik legszebb és legfeltűnőbb épülete a gyarmati korszakból. Az 1786-ban épült, élénk mustársárga homlokzatú, gazdagon díszített barokk templomot mexikói ezüstművesek (Los Plateros) építtették. A templom homlokzata egyedülálló Közép-Amerikában, mivel fába és kőbe faragva ábrázolja Krisztus kínszenvedésének jelképeit (a keresztet, a szögeket, a kakast és Veronika kendőjét) gyönyörű, domborműves stílusban. Belseje klasszikus spanyol gyarmati stílust tükröz, faragott mahagóni oltárokkal. Történelem K7 — mexikói barokk építészet Közép-Amerikában.",
+      "factsAdvanced": [
+        "A templom alapítóit, a ferences rendi szerzeteseket Mexikóból hívták be a helyi püspökök.",
+        "A homlokzati domborművek (emblemas de la Pasión) szokatlanul részletesek a térségben.",
+        "A masszív harangtornyot azért építették zömökebbre, hogy ellenálljon a földrengéseknek.",
+        "Belterében található egy ritka, 18. századi ezüst ereklyetartó.",
+        "Az 1979-es forradalmi harcok idején a torony mesterlövészek állásaként szolgált.",
+        "A templom hivatalos védettséget élvez, mint Nicaragua Történelmi Örökségének része."
+      ]
+    },
+    {
+      "id": "ni-mausoleo-heroes-martires-landmarks-v2",
+      "descriptionAdvanced": "A Hősök és Vértanúk Mauzóleuma (Mausoleo de los Héroes y Mártires) León központjában, közvetlenül a katedrális mellett álló lenyűgöző emlékmű. Ezt a modern, falfestményekkel díszített komplexumot az 1979-es forradalom hőseinek és León civil áldozatainak tiszteletére emelték, akik a Somoza-rezsim elleni harcokban estek el. A mauzóleum középpontjában egy örökláng ég, a falakon lévő híres murális festmények (murales) pedig élénk színekkel mesélik el a nicaraguai történelem és a fegyveres felkelés fontosabb jeleneteit a sandinista narratíva szerint. Történelem K8 — forradalmi murális művészet és emlékhelyek.",
+      "factsAdvanced": [
+        "Az emlékmű a León Főterét (Parque Central) övező park szerves része.",
+        "A falakon lévő murálisokat helyi egyetemisták és külföldi szolidaritási művészek festették az 1980-as években.",
+        "A mauzóleum alatt több tucat fiatal leóni gerilla (combatiente) hamvait őrzik.",
+        "Középpontjában állandó díszőrség (tiszteletadás) működött a 80-as években.",
+        "A festmények nemcsak a harcot, hanem az írástudatlanság elleni kampányt is ábrázolják.",
+        "León a forradalom alatt a leghevesebb városi csaták színtere volt, innen ered az emlékhely fontossága."
+      ]
+    },
+    {
+      "id": "ni-reloj-diriamba-landmarks-v2",
+      "descriptionAdvanced": "A Diriambai óratorony (El Reloj de Diriamba) a város legismertebb szimbóluma, amely a Carazo-fennsík egyik legmagasabb pontján, a város főterén áll. A karcsú, fehérre meszelt, modernista oszlopot 1935-ben emelték, és a város kávéiparának virágzását jelképezi. Tetején egy négyoldalú német mechanikus óra található, amely évtizedeken át mutatta az időt a helyi farmerek és kereskedők számára. Az óratorony körül zajlik januárban a híres 'El Güegüense' fesztivál, a hagyományos nicaraguai táncosok (macho ratón) felvonulása. Földrajz K6 — városképi építészet és óratornyok.",
+      "factsAdvanced": [
+        "Az órát egy gazdag helyi kávétermesztő család, a Gonzálezék adományozták a városnak.",
+        "A szerkezet 15 méter magas, vasbetonból készült, ami az 1930-as években modern technológiának számított.",
+        "A német gyártmányú óraművet hajón hozták a csendes-óceáni Corinto kikötőbe, majd onnan ökrös szekéren Diriambába.",
+        "A torony egy régebbi, földrengésben elpusztult fa kilátótorony helyére épült.",
+        "Többször felújították, legutóbb a 2010-es években restaurálták a mechanikáját.",
+        "A torony a Diriambaiak számára a pontosság és a modernizáció jelképe volt."
+      ]
+    },
+    {
+      "id": "ni-faro-masachapa-landmarks-v2",
+      "descriptionAdvanced": "A Masachapai világítótorony (El Faro de Masachapa) a Csendes-óceán partján, a népszerű Masachapa strand sziklás kiszögellésén magasodik. Ezt a letisztult, henger alakú vasbeton világítótornyot az 1950-es években építették, hogy segítse a helyi halászokat és a közeli Puerto Sandino felé tartó hajókat a navigációban a sziklás partszakaszon. A világítótorony környéke ma népszerű kilátópont, ahonnan lenyűgöző naplementéket lehet megcsodálni, és kiváló helyszín a hatalmas óceáni hullámok megfigyelésére. A fehérre meszelt torony a helyi partvidék egyik legfelismerhetőbb ikonja. Földrajz K6 — partmenti navigáció és világítótornyok.",
+      "factsAdvanced": [
+        "A torony magassága körülbelül 18 méter.",
+        "Fénye tiszta időben akár 15 tengeri mérföldről is látható az óceánon.",
+        "Az 1950-es években építették Anastasio Somoza García elnök utasítására, akinek a közelben (Montelimar) volt nyaralója.",
+        "A helyi halászflotta számára ma is fontos tájékozódási pont (bár ma már GPS-t használnak).",
+        "A torony alatti sziklákon dagálykor a hullámok látványosan megtörnek.",
+        "A világítótorony teteje biztonsági okokból általában le van zárva a látogatók elől."
+      ]
+    }
+  ]
+}

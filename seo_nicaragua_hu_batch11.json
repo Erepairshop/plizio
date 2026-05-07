@@ -1,0 +1,237 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "valle-de-seaco-relief-v2",
+      "descriptionAdvanced": "A Sébaco-völgy (Valle de Sébaco) Nicaragua középső részén, Matagalpa megyében elterülő hatalmas, termékeny medence. A völgy geológiailag egy ősi, kiszáradt tó medre lehetett, amelynek alluviális (folyami hordalékos) talaja ma Közép-Amerika egyik legtermékenyebb öntözött mezőgazdasági területe. A völgyet átszeli a Río Grande de Matagalpa, amely vizet biztosít a kiterjedt rizs-, hagyma- és sárgarépaföldek számára. A terület teljesen sík, élesen elüt a környező magas, hegyes csúcsoktól, így stratégiai közlekedési csomóponttá (Panamerikai út) is vált a történelem során. Földrajz K6 — alluviális völgyek és intenzív mezőgazdaság.",
+      "factsAdvanced": [
+        "A völgy kiterjedése nagyjából 100 négyzetkilométer.",
+        "Nicaragua rizstermelésének jelentős hányadát itt állítják elő öntözéses (árasztásos) módszerrel.",
+        "Tengerszint feletti magassága 400 és 500 méter között mozog.",
+        "A völgyben több nagy modern, silós gabonatároló létesítmény működik.",
+        "A spanyol hódítás idején a Cihuatl Coatl (Sébaco) nevű őslakos törzsfőnökség központja volt.",
+        "Sík domborzata miatt a szelek szabadon söpörnek végig a medencén."
+      ]
+    },
+    {
+      "id": "llanos-de-esteli-relief-v2",
+      "descriptionAdvanced": "Az Estelí-síkság (Llanos de Estelí) a nicaraguai északi hegyvidék (Las Segovias) szívében fekvő, magasan elterülő (kb. 800 méter) fennsík, amelyen Estelí városa is felépült. A területet meredek, tölgyekkel és fenyőkkel borított vulkanikus hegygerincek ölelik körbe. A síkság enyhe lejtésű, ami ideális a dohány, a bab és a kukorica termesztésére, míg a magaslati, száraz és hűvös klíma megakadályozza a trópusi kártevők elszaporodását. Geológiailag ez a terület az ősi harmadidőszaki vulkáni platók erodált maradványa, amely átmenetet képez a hondurasi hegyek és a nicaraguai alföld között. Földrajz K7 — magaslati síkságok és vulkáni platók.",
+      "factsAdvanced": [
+        "A síkságot átszeli az Estelí-folyó, amely gyakran kiszárad a nyári aszályok idején.",
+        "Itt találhatók a világhírű nicaraguai prémium szivargyártás fő ültetvényei (Vegas).",
+        "A terület a Közép-Amerikai Száraz Folyosó (Corredor Seco) része.",
+        "A síkság peremén kőzetkibúvások (mesák) találhatók, amelyeken gyakori a sziklamászás.",
+        "A Panamerikai főútvonal egyenesen átszeli a fennsíkot.",
+        "A területen paleobotanikai leleteket (megkövesedett fákat) is feltártak."
+      ]
+    },
+    {
+      "id": "selva-de-las-nubes-relief-v2",
+      "descriptionAdvanced": "A Felhőerdő (Selva de las Nubes) a Macizos de Peñas Blancas és a Kilambé-hegy magasabb, 1200 méter feletti zónáiban található sűrű, örökzöld erdei ökoszisztéma neve. Ez a domborzati és éghajlati zóna kritikus szerepet játszik a hidrológiai ciklusban: az állandó köd (ami az alacsony nyomás és a Karib-tenger felől érkező nedvesség találkozásából fakad) lecsapódik az epifita növényeken (orchideák, mohák, broméliák), és folyamatosan táplálja a hegyi patakokat még aszályos időszakban is. A domborzat rendkívül meredek, sziklás és szakadékokkal teli, megnehezítve az emberi behatolást. Földrajz K8 — köderdők geomorfológiája és vízgazdálkodás.",
+      "factsAdvanced": [
+        "Ezek az erdők Nicaragua teljes területének kevesebb mint 2%-át teszik ki.",
+        "A fák törzsét gyakran a saját átmérőjüknél vastagabb nedves moharéteg borítja.",
+        "A terület átlagos évi hőmérséklete hűvös (15-20 °C), magas (90% feletti) páratartalommal.",
+        "Otthona számos endemikus rovar- és kétéltű fajnak.",
+        "A meredek lejtőkön (gyakran 45 fok feletti dőlésszög) az erdőirtás azonnali, pusztító eróziót okozna.",
+        "A napfény gyakran napokig nem éri el az erdő talaját a sűrű lombkorona és a köd miatt."
+      ]
+    },
+    {
+      "id": "cerro-killibrin-relief-v2",
+      "descriptionAdvanced": "A Killibrin-hegy (Cerro Kilibrín vagy Quilibrín) egy jelentős, bár kevésbé ismert hegycsúcs a Matagalpa és Jinotega megyéket elválasztó hegylánc (Isabelia) déli részén. A hegy meredek, sziklás lejtői éles kontrasztot alkotnak a környező szelídebb kávétermő dombokkal. Nevének eredete az őslakos matagalpa nyelvből származhat. A hegycsúcsot sűrű trópusi növényzet borítja, míg alsóbb lejtőit az extenzív állattenyésztés és az illegális fakitermelés veszélyezteti. A domborzati elszigeteltség miatt a terület a regionális vadvilág, köztük kisebb ragadozók fontos korridora (folyosója). Földrajz K6 — hegygerincek és erdőirtás.",
+      "factsAdvanced": [
+        "A hegycsúcs magassága megközelíti az 1300 métert a tengerszint felett.",
+        "Kőzetei főként ősi, vulkanikus eredetű andezitből és bazaltból állnak.",
+        "A hegyről lezúduló vízfolyások a Tuma-folyó vízgyűjtőjéhez tartoznak.",
+        "Nincsenek hivatalosan kijelölt turistaútvonalak, megmászása komoly navigációs készséget igényel.",
+        "Gyakran borítja reggeli köd, amely délutánra felszáll.",
+        "A terület a kávétermesztés felső, klimatikus határvonalán helyezkedik el."
+      ]
+    },
+    {
+      "id": "valle-de-las-garzas-relief-v2",
+      "descriptionAdvanced": "A Las Garzas-völgy (Gémek völgye) egy alacsonyan fekvő, mocsaras, szezonálisan elárasztott terület Río San Juan megyében, a Nicaragua-tó keleti partvidékéhez közel. Ez a sík, alig néhány méterrel a tengerszint felett elterülő medence a heves esőzések idején hatalmas lagúnává változik. Nevét a rengeteg fehér kócsagról és gémről (garzas) kapta, amelyek a sekély vizekben halásznak. A domborzati viszonyok miatt a terület nem alkalmas hagyományos mezőgazdaságra, inkább szarvasmarha legeltetésre (amikor a víz visszahúzódik) és ökoturizmusra használják. Földrajz K6 — szezonális mocsarak és árterek.",
+      "factsAdvanced": [
+        "A völgy a Ramsari egyezmény által védett San Miguelito vizes élőhelyrendszer (humedales) része.",
+        "A vízszint az esős évszakban (májustól novemberig) 1-2 métert is emelkedhet.",
+        "Itt található Közép-Amerika egyik legnagyobb édesvízi madár-költőhelye.",
+        "A talaj mély, fekete, agyagos és vízzáró, ami megakadályozza az esővíz gyors elszivárgását.",
+        "Szárazság idején (verano) a területen repedezett iszappadok jelennek meg.",
+        "Halászata a helyi, part menti közösségek fő bevételi forrása."
+      ]
+    },
+    {
+      "id": "sierra-de-diabolo-relief-v2",
+      "descriptionAdvanced": "A Sierra del Diablo (Ördög-hegység) egy vad és zord, vulkáni kőzetekből álló kisebb hegylánc León és Estelí megyék határvidékén. A baljóslatú nevet a sziklás, éles gerincekről, a mély szakadékokról és a száraz, könyörtelen klímáról kapta. A hegylánc nagyrészt kopár, vagy csak szárazságtűrő, tüskés cserjések (matorrales) borítják, fái nyáron lehullatják lombjukat. Geológiailag a terület jelentős törésvonalak mentén fekszik, és a múltban kisebb réz- és aranylelőhelyeket is kutattak itt. Extrém domborzata miatt szinte teljesen lakatlan. Földrajz K7 — száraz hegységek és erózió.",
+      "factsAdvanced": [
+        "A hegylánc csúcsai jellemzően 800 és 1100 méter között vannak.",
+        "A terület a Közép-Amerikai Száraz Folyosó (Corredor Seco) legzordabb része.",
+        "Nyáron (február-április) a gyakori erdő- és bozóttüzek tovább pusztítják a növényzetet.",
+        "Több száz méter mély, V-alakú völgyek (quebradas) szabdalják a gerincet.",
+        "A helyi folklórban a területet szellemek és boszorkányok (brujas) lakhelyének tartották.",
+        "Csapadékhiány miatt felszíni, állandó vízfolyások szinte egyáltalán nincsenek."
+      ]
+    },
+    {
+      "id": "cerro-mogoton-relief-v2",
+      "descriptionAdvanced": "A Mogotón-hegy (Cerro Mogotón) Nicaragua legmagasabb pontja, egy 2107 méter magas csúcs Nueva Segovia megyében, a Dipilto és Jalapa közötti hegyláncban (Cordillera de Dipilto), közvetlenül a hondurasi határon. A csúcsot sűrű fenyő- és köderdő borítja, és szinte mindig felhőkbe burkolózik, ezért az aljnövényzet állandóan nedves, mohával és páfrányokkal teli. A megmászása igazi kihívás: nemcsak a meredek, saras és sűrűn benőtt domborzat miatt, hanem azért is, mert a 80-as évek kontraháborúja alatt a hegy lejtőit sűrűn elaknásították. Földrajz K8 — az ország legmagasabb csúcsa és hegyvidéki veszélyek.",
+      "factsAdvanced": [
+        "Nicaragua legmagasabb hegycsúcsa (2107 m).",
+        "A csúcson található határkő (mojón) pontosan a Nicaragua és Honduras közötti vonalon áll.",
+        "A hegyről a 2000-es és 2010-es években nemzetközi aknamentesítő (desminado) alakulatok távolították el a robbanószerkezeteket.",
+        "A növényzet magassága a csúcs felé közeledve csökken az erős szelek miatt (törpeerdők).",
+        "A csúcson nincs panorámakilátás a sűrű fák és az állandó felhőzet (köd) miatt.",
+        "A hegy alatti völgyekben (Dipilto) termesztik Nicaragua legdíjnyertesebb kávéit."
+      ]
+    },
+    {
+      "id": "valle-de-la-luna-relief-v2",
+      "descriptionAdvanced": "A Valle de la Luna (Holdvölgy) egy kietlen, sivatagszerű, vulkáni hamuval és horzsakővel borított geológiai formáció a Cerro Negro vulkán (León megye) lábánál. A név a terület szürreális, holdbéli tájára utal: a növényzet szinte teljesen hiányzik, a talajt fekete és szürkésbarna vulkáni salak borítja, amelyből különös alakú, erodálódott sziklaalakzatok állnak ki. Ez a domborzat az elmúlt másfél évszázad sorozatos hamuhullásainak eredménye. A völgy különleges szépsége és elszigeteltsége miatt népszerű az extrém fotósok, a kalandturisták és a geológusok körében. Földrajz K7 — holdbéli tájak és vulkáni hamumezők.",
+      "factsAdvanced": [
+        "A fekete homok (arena negra) nyáron annyira felmelegszik, hogy szinte megégeti a talpat.",
+        "A sziklaalakzatok egy része valójában megkövesedett, majd erodálódott lávaáramlatokból származik.",
+        "Itt a primer szukcesszió (a növényzet legelső megtelepedése) figyelhető meg zuzmók formájában.",
+        "Esőzéskor a víz gyorsan lefolyik a felszínen, mivel a vulkáni hamu nem tartja meg a nedvességet.",
+        "A Holdvölgy bejárása a Cerro Negro vulkán megmászásának népszerű kiegészítő programja.",
+        "A terület vizuálisan nagyon hasonlít az Atacama-sivatag (Chile) azonos nevű völgyéhez."
+      ]
+    },
+    {
+      "id": "cerro-kilambe-relief-v2",
+      "descriptionAdvanced": "A Kilambé-hegy (Cerro Kilambé) egy masszív, 1750 méter magas izolált hegytömb Jinotega megye északi részén. Geológiailag és ökológiailag az ország egyik legfontosabb hegye, egy védett természeti rezervátum (Reserva Natural Cerro Kilambé) központja. A hegy a Tuma és a Bocay folyók közötti vízválasztón emelkedik. Meredek oldalait az alacsonyabb régiókban tölgyek és fenyők, magasabban pedig érintetlen, broméliákkal teli köderdők borítják. Izolált helyzete (tepui-szerű formáció) miatt saját, egyedi mikroklímával rendelkezik, és számos endemikus faj (pl. különleges orchideák) otthona. A megközelítése rendkívül nehéz. Földrajz K8 — izolált hegytömbök (masszívumok) és biodiverzitás.",
+      "factsAdvanced": [
+        "A hegycsúcs a környező völgyekből több mint 1000 méterre emelkedik ki.",
+        "Kőzettanilag az ország legrégebbi (paleozoikumi) kőzeteiből áll, nem fiatal vulkán.",
+        "Az esős évszakban a hegy oldalában tucatnyi lenyűgöző, bár csak időszakos vízesés (cascadas) jön létre.",
+        "Nagy kiterjedésű, sűrű páfrányfák (helechos arborescentes) borítják a lejtőit.",
+        "A hegy a 80-as évek kontraháborúja alatt fontos támaszpont volt, nehezen járható terepe miatt.",
+        "A rezervátum kiterjedése megközelíti a 100 négyzetkilométert."
+      ]
+    },
+    {
+      "id": "meseta-de-juigalpa-relief-v2",
+      "descriptionAdvanced": "A Juigalpa-fennsík egy kiterjedt, 100-300 méter magasságban hullámzó vulkanikus eredetű sík és dombvidék Chontales megyében, a Nicaragua-tótól keletre. Ezt a régiót tágas, köves legelők, jellegzetes jicarofák (lopótökfa) és elszórtan kiemelkedő, hirtelen emelkedő bazaltsziklák (mint a Piedra de Cuapa) jellemzik. A fennsík domborzata ideális extenzív szarvasmarha-tenyésztésre; ez a régió adja a nicaraguai tej- és marhahúsexport oroszlánrészét. Geológiailag a fennsík egy ősi vulkáni plató erodálódott maradványa, amit sekély, gyakran kiszáradó patakok (quebradas) szabdalnak. Földrajz K6 — vulkáni platók és legelők.",
+      "factsAdvanced": [
+        "A fennsík talaja sok helyen rendkívül vékony, mindössze 10-20 cm mély a sziklaréteg felett.",
+        "Nyáron (száraz évszakban) a vidék teljesen kiszárad és aranysárga színűvé válik.",
+        "A területen tucatnyi kisebb-nagyobb prekolumbián (chontales) régészeti lelőhely található.",
+        "A szél szabadon söpör végig a síkságon, ami miatt számos szélerőmű-projektet terveznek ide.",
+        "Juigalpa városa, a megyeszékhely, ezen a fennsíkon fekszik egy sekély völgyben.",
+        "A terület a csendes-óceáni és a karibi éghajlat határvonalát (átmeneti zónát) képezi."
+      ]
+    },
+    {
+      "id": "cerro-el-pilon-relief-v2",
+      "descriptionAdvanced": "Az El Pilón-hegy egy figyelemre méltó, bár a nemzetközi térképeken ritkán szereplő magaslat Matagalpa megyében, a Tuma-folyó völgye felett. Az 'El Pilón' (A Kúp vagy A Mozsártörő) név a hegy jellegzetes, meredek, kúp alakú profiljára utal. A hegy trópusi dzsungellel és kávéültetvényekkel van borítva egészen a csúcs alatti sziklás részekig. A domborzat olyannyira meredek, hogy a helyiek gyakran teraszos módszerekkel vagy kötéllel rögzítve végzik a mezőgazdasági munkát. A hegy vízgyűjtője kiemelt fontosságú a környező kávéfeldolgozók vízellátásában. Földrajz K7 — kúp alakú hegyek és hegyoldali földművelés.",
+      "factsAdvanced": [
+        "Magassága körülbelül 1200 méter, kiemelkedve a Tuma-folyó medencéjéből.",
+        "Az erdők aljnövényzete gazdag vadkávéban és ehető trópusi gyümölcsökben.",
+        "Gyakran borítja délutáni köd, amely csökkenti a napsütéses órák számát.",
+        "A hegy meredeksége miatt fokozottan ki van téve a földcsuszamlások (deslaves) veszélyének az esős évszakban.",
+        "A csúcs közelében kisebb andezit sziklafalak (farallones) bukkannak a felszínre.",
+        "Népszerű túrázóhely a helyi egyetemisták és cserkészek körében."
+      ]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "descriptionAdvanced": "Az Osua-völgy (Valle de Osua) egy viszonylag elzárt és csendes, folyóvölgyi medence Nueva Segovia megye északnyugati hegyei között. A völgyet a Coco-folyó egyik felső mellékfolyója (esetleg a Macuelizo-folyó rendszere) alakította ki. Ez a terület az ország legfinomabb dohánytermő régiói közé tartozik; a völgy vörösesbarna, ásványi anyagokban gazdag talaja és a hűvös, hegyi éjszakák tökéletes mikroklímát biztosítanak a prémium szivarokhoz használt levelek számára. A domborzat teraszos jellegű, amit kisvárosi közösségek (campesinos) művelnek gondos, kézi munkával. Földrajz K7 — dohánytermesztés geomorfológiája és völgyek.",
+      "factsAdvanced": [
+        "A völgy talaja (suelo arcilloso) kiváló vízelvezető képességgel rendelkezik.",
+        "Az Osua név vélhetően egy már kihalt helyi őslakos (talán xicaque) nyelvből származik.",
+        "A dohánytermesztés mellett a kukorica és a bab is fontos megélhetési forrás.",
+        "A völgyet 800-1000 méter magas fenyves dombok (Lomas de pino) veszik körül.",
+        "A kontraháború alatt a terület erősen militarizált volt a hondurasi határ közelsége miatt.",
+        "Osua faluja apró, nagyrészt vályogból és égetett téglából épült házakból áll."
+      ]
+    },
+    {
+      "id": "meseta-del-pacifico-relief-v2",
+      "descriptionAdvanced": "A Pacifikus-fennsík (Meseta del Pacífico) nem egyetlen egybefüggő planó, hanem egy sor, a Csendes-óceán partvidékével párhuzamosan futó, enyhén emelkedő domb- és síkvidéki terület Managua, Carazo és Rivas megyékben. Ez a domborzati forma – a Maribios hegylánctól nyugatra – a vulkáni hamuból és hordalékból (allúvium) feltöltött síkság, amely helyenként (pl. a Pueblos Blancos környékén) fennsíkká emelkedik. Ez az ország gazdaságilag legaktívabb, legnépesebb és leginkább megművelt része, ahol a hatalmas pamut-, cukornád- és banánföldek találhatók. Földrajz K7 — parti síkságok és gazdasági központok.",
+      "factsAdvanced": [
+        "A fennsík átlagos tengerszint feletti magassága 0 és 500 méter között változik.",
+        "Ez a legkönnyebben megművelhető és gépiesíthető (traktorozható) terület Nicaraguában.",
+        "Az 1950-70-es években ez volt a híres nicaraguai 'pamut-boom' (algodón) központja.",
+        "A területen számos rövid, de esős évszakban bővizű folyó (ríos intermitentes) rohan a tengerbe.",
+        "A vulkáni talaj (andezites hamu) itt a világ egyik legtermékenyebbje.",
+        "Erős az urbanizáció (városiasodás) a főváros és a tengerpart közötti sávban."
+      ]
+    },
+    {
+      "id": "valle-de-jalapa-relief-v2",
+      "descriptionAdvanced": "A Jalapa-völgy (Valle de Jalapa) egy termékeny, északnyugat-délkeleti irányban elnyúló medence Nueva Segovia megyében, a hondurasi határon. A völgy mintegy 40 kilométer hosszú és 10 kilométer széles, és magasan (körülbelül 700 méter) fekszik. Gazdaságilag ez Nicaragua 'gabonatára'; hűvös, csapadékos mikroklímája és gazdag, sík talaja miatt az ország legkiválóbb kukorica-, dohány- és rizstermelő területe. A völgyet meredek, sűrű fenyőerdővel borított hegyláncok (Cordillera de Dipilto és Jalapa) fogják közre, így csak dél felől, Ocotal irányából közelíthető meg könnyen. Földrajz K6 — hegységek közötti völgyek és élelmiszertermelés.",
+      "factsAdvanced": [
+        "A völgy 'Nicaragua magtára' (El Granero de Nicaragua) néven is ismert.",
+        "Szeptemberben itt tartják az ország legnagyobb kukorica-fesztiválját (Feria del Maíz).",
+        "Az 1980-as években az elszigetelt völgyet a kontra csapatok hónapokig ostromolták Hondurasból.",
+        "A prémium minőségű szivarokhoz használt dohánylevelek jelentős része innen származik.",
+        "A völgyet átszeli a Río Lindo és más patakok, amelyek öntözést biztosítanak.",
+        "A környező hegyek (Dipilto) fenyőfái gyakran szenvednek a szúbogár (gorgojo) inváziótól."
+      ]
+    },
+    {
+      "id": "cerro-punta-gorda-relief-v2",
+      "descriptionAdvanced": "A Punta Gorda-hegy (Cerro Punta Gorda) egy kiemelkedő, part menti domborzati formáció a Dél-Karib-tengeri Autonóm Régióban (RACCS). Eltérően a sík, mocsaras Karib-partvidéktől, a Punta Gorda egy meredek, őserdővel borított masszívum, amely közvetlenül a tengerbe szakad a Punta Gorda-folyó torkolata közelében. Ez a domborzati akadály történelmileg megnehezítette a szárazföldi közlekedést Bluefields és San Juan del Norte között. A hegy és környezete szigorúan védett természetvédelmi terület (Reserva Natural Cerro Silva és Punta Gorda), otthont adva jaguároknak, tapíroknak és rengeteg endemikus madárfajnak. Földrajz K7 — parti hegységek és trópusi menedékek.",
+      "factsAdvanced": [
+        "A hegy kőzetanyaga idősebb, a Karib-lemez felemelkedésével jött létre.",
+        "Ez volt a tervezett, de soha meg nem valósult Nicaragua-csatorna (Gran Canal) egyik kritikus útvonalpontja.",
+        "A terület évi csapadékmennyisége rendkívül magas (több mint 4000 mm).",
+        "A rama őslakos közösségek szent területként tekintenek a hegy körüli dzsungelre.",
+        "A hegyoldalban sűrűn nőnek a pálmafák és az értékes mahagóni (caoba) fák.",
+        "A hegy lábánál fekvő Punta Gorda öbölben amerikai krokodilok és manátuszok élnek."
+      ]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "descriptionAdvanced": "A Jinotegai-fennsík (Meseta de Jinotega) egy magasan fekvő (átlagosan 1000 méter körüli), hullámzó hegyláncok által körülölelt planó Észak-Nicaraguában. A hűvös, gyakran ködös éghajlat (amelyről Jinotega a 'Köd városa' nevet kapta) és a gazdag vulkáni eredetű talaj tökéletes feltételeket teremt a magaslati (Strictly High Grown - SHG) kávétermesztés számára. A fennsík nem teljesen sík; meredek völgyek és folyómedrek (mint az Apanás-tavat tápláló folyók) szabdalják. A domborzat miatt a közlekedés kanyargós hegyi utakon (mint a híres El Guayacán út) lehetséges csak. Földrajz K7 — magaslati klíma és prémium kávétermesztés.",
+      "factsAdvanced": [
+        "A fennsík adja Nicaragua teljes kávéexportjának közel kétharmadát.",
+        "Jinotega városa maga egy mély völgyben (medencében) fekszik a fennsíkon belül.",
+        "Éjszaka a hőmérséklet gyakran süllyed 15 °C alá (Nicaraguában ez extrém hidegnek számít).",
+        "A területen gyakori a fákra (árnyékra) ültetett kávé, ami megóvja az erdei madarak élőhelyét.",
+        "Az Apanás-tó, a fennsík legnagyobb vízfelülete, mesterségesen felduzzasztott tó.",
+        "A fennsíkot kelet felől a magas Isabelia-hegylánc választja el a karibi esőerdőktől."
+      ]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "descriptionAdvanced": "A La Quinta-hegy (Cerro La Quinta) egy kisebb, Estelí városának látképét meghatározó magaslat, a La Trinidad felé vezető úton. A domborzati képződmény viszonylag meredek, sziklás és bozótos (matorral) növényzettel borított. Stratégiai elhelyezkedése miatt a Panamerikai főútvonal felett a hegy gyakran volt katonai megfigyelőpont és rádiótornyok helyszíne. A hegycsúcsot az erózió folyamatosan formálja; a száraz, sziklás talaj nem kedvez a sűrű erdőknek. A hegy lábánál fekvő kisebb farmok (quintas) miatt kapta a nevét, amelyek zöldségeket és dohányt termelnek. Földrajz K6 — közút menti domborzat és erózió.",
+      "factsAdvanced": [
+        "A hegy gerincén több telekommunikációs és rádióantenna is található.",
+        "Az 1978-as estelí-i felkelés idején a Somoza-gárda innen ágyúzta a várost.",
+        "A hegy kőzetei főként miocén kori vulkáni tufából és bazaltból állnak.",
+        "Nyáron a kiszáradt növényzet miatt gyakoriak a bozóttüzek (incendios forestales) a lejtőkön.",
+        "A csúcsról kiváló rálátás nyílik az Estelí-völgyre és a Panamerikai útra.",
+        "Gyalogosan viszonylag könnyen megmászható a helyi, bár nem kiépített kecskeösvényeken."
+      ]
+    },
+    {
+      "id": "valle-de-la-libertad-relief-v2",
+      "descriptionAdvanced": "A Libertad-völgy (Valle de La Libertad) Chontales megye hegyvidéki területén, a Cordillera Chontaleña lankáin található. A völgyet a Mico-folyó vájta ki, és a 19. század közepétől kezdve Nicaragua legfőbb aranybányászati központja lett. A domborzatot ma már nemcsak a természet, hanem a nyílt színi bányászat hatalmas, teraszos kráterei is formálják. A völgy oldalait nagyrészt legelők (pastizales) és másodlagos erdők borítják. Az aranytartalmú kvarc- és bazalterek (vetas) a völgy geológiai felépítésének alapját adják, amely évszázadok óta vonzza a bányászokat (güiriseros). Földrajz K8 — bányászati geomorfológia és antropogén tájformálás.",
+      "factsAdvanced": [
+        "A völgy mélyén fekvő La Libertad városban született Daniel Ortega nicaraguai elnök.",
+        "A nyílt színi fejtések (bányakráterek) több kilométer hosszan szabdalják a völgy oldalát.",
+        "1855-ben fedezték fel az első aranyat a Mico-folyó homokjában.",
+        "A bányászati hulladék (tailings) tárolására hatalmas mesterséges tavakat (gátakat) építettek a völgyben.",
+        "A hegyoldalakon gyakran használnak higanyt a kisüzemi aranyásók, szennyezve a vizet.",
+        "A völgy hűvösebb klímájú, mivel több mint 500 méteres tengerszint feletti magasságban fekszik."
+      ]
+    },
+    {
+      "id": "cerro-coyol-relief-v2",
+      "descriptionAdvanced": "A Coyol-hegy (Cerro Coyol vagy El Coyol) egy alacsonyabb, lankás domb- és hegyvonulat Managua és León megyék határvidékén, a Managua-tótól nyugatra. Ez a terület az alföld és a vulkáni hegylánc közötti átmenetet képezi. A hegyet száraz, tüskés trópusi növényzet (köztük a névadó coyol-pálma) borítja. A domborzati akadály miatt az ide épült autópálya (Carretera Nueva a León) jelentős bevágásokkal és kanyarokkal (Cuesta El Plomo) lett kialakítva. A területen található a híres 'El Coyol' szabadkereskedelmi övezet is, mivel a hegy lába védett a tóparti áradásoktól, mégis közel van a fővárosi infrastruktúrához. Földrajz K7 — átmeneti domborzat és infrastrukturális fejlesztések.",
+      "factsAdvanced": [
+        "A coyol-pálma (Acrocomia aculeata) terméséből készítik a helyiek a híres édes, erjesztett coyol-bort (chicha de coyol).",
+        "A hegy környéke (Cuesta El Plomo) a forradalom idején a politikai gyilkosságok hírhedt helyszíne volt.",
+        "A domborzat nagyrészt vulkáni horzsakőből és hamuból (piedra pómez) áll.",
+        "Az utóbbi évtizedekben a domb alatti sík területeken hatalmas ipari parkokat (Zona Franca) építettek.",
+        "A hegyoldal az esős évszakban kizöldül, télen viszont teljesen kopár és sárgás.",
+        "A domboldalon áthaladó autópálya Nicaragua egyik legforgalmasabb teherfuvarozási útvonala."
+      ]
+    }
+  ]
+}

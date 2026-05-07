@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hanoi-cities-v2",
+      "descriptionAdvanced": "Hanoi, Vietnám fővárosa, a Vörös-folyó deltájában fekszik, és több mint ezeréves történelme során számos birodalmi központnak adott otthont. A város egyedülálló módon ötvözi a francia gyarmati építészet eleganciáját a hagyományos vietnámi pagodákkal, miközben a nyüzsgő óváros ('36 utca') ma is őrzi ősi kereskedelmi jellegét. Földrajz K7 — ázsiai nagyvárosok és történelmi régiók.",
+      "factsAdvanced": [
+        "A város nevét 1010-ben kapta (Thang Long)",
+        "Több mint 600 templom és pagoda található itt",
+        "A híres Irodalom Temploma 1070-ben épült",
+        "A Ho Si Minh-mauzóleum 1975-ben nyílt meg",
+        "A Vörös-folyó deltájának gazdasági központja",
+        "A város területe 3358 km²-re nőtt 2008-ban"
+      ]
+    },
+    {
+      "id": "ho-chi-minh-city-cities-v2",
+      "descriptionAdvanced": "Ho Si Minh-város, az egykori Saigon, Vietnám legnagyobb metropolisza és gazdasági motorja, amely a Mekong-delta közelében helyezkedik el. A francia gyarmati időszakból származó épületek, mint a Városháza és a Notre-Dame-katedrális, éles kontrasztban állnak a modern felhőkarcolókkal, jelezve a város gyors fejlődését és nyitottságát a világgazdaság felé. Történelem K8 — vietnámi háború és modernizáció.",
+      "factsAdvanced": [
+        "1976-ban kapta a Ho Si Minh-város nevet",
+        "Több mint 9 millió lakos él a városban",
+        "Központi szerepet játszott az 1975-ös újraegyesítésben",
+        "A Reunification Palace a modern történelem kulcshelyszíne",
+        "Vietnám GDP-jének közel 20%-át adja",
+        "A War Remnants Museum évi több százezer látogatót fogad"
+      ]
+    },
+    {
+      "id": "bac-ninh-cities-v2",
+      "descriptionAdvanced": "Bắc Ninh tartományi székhely, amely Hanoi közelében, az ország egyik leggyorsabban iparosodó régiójában található. A város történelmileg a Lý-dinasztia bölcsőjeként ismert, ugyanakkor ma a technológiai ipar egyik legfontosabb központja, ahol nemzetközi vállalatok (pl. Samsung) hatalmas gyárai működnek. Sachkunde K5 — ipar és hagyományok találkozása.",
+      "factsAdvanced": [
+        "A Lý-dinasztia idején a buddhizmus központja volt",
+        "A Quan họ népi éneklés az UNESCO szellemi öröksége",
+        "Jelentős szerepet tölt be a félvezetőgyártásban",
+        "Több mint 100 000 fő lakossága van",
+        "A Bắc Ninh tartományi GDP-növekedés kiemelkedő",
+        "Híres a Dâu pagodáról, amely a legrégebbi vietnámi templom"
+      ]
+    }
+  ]
+}

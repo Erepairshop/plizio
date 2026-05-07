@@ -1,0 +1,467 @@
+[
+  {
+    "id": "FR",
+    "name": "FR",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-ARA",
+    "name": "FR-ARA",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-BFC",
+    "name": "FR-BFC",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-BRE",
+    "name": "FR-BRE",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-CVL",
+    "name": "FR-CVL",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-COR",
+    "name": "FR-COR",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-GES",
+    "name": "FR-GES",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-HDF",
+    "name": "FR-HDF",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-IDF",
+    "name": "FR-IDF",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-NOR",
+    "name": "FR-NOR",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-NAQ",
+    "name": "FR-NAQ",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-OCC",
+    "name": "FR-OCC",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-PDL",
+    "name": "FR-PDL",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "FR-PAC",
+    "name": "FR-PAC",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "paris",
+    "name": "paris",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "marseille",
+    "name": "marseille",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lyon",
+    "name": "lyon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "toulouse",
+    "name": "toulouse",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "nice",
+    "name": "nice",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "nantes",
+    "name": "nantes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "strasbourg",
+    "name": "strasbourg",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lille",
+    "name": "lille",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "versailles",
+    "name": "versailles",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "mont-saint-michel",
+    "name": "mont-saint-michel",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "carcassonne",
+    "name": "carcassonne",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "loire-chateaux",
+    "name": "loire-chateaux",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "cannes",
+    "name": "cannes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "french-alps",
+    "name": "french-alps",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "normandy-dday",
+    "name": "normandy-dday",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "eiffel-tower",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "louvre",
+    "name": "louvre",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "notre-dame",
+    "name": "notre-dame",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "calais",
+    "name": "calais",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "reims",
+    "name": "reims",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-chenonceau",
+    "name": "Ch\u00e2teau de Chenonceau",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-chambord",
+    "name": "Ch\u00e2teau de Chambord",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-fontainebleau",
+    "name": "Ch\u00e2teau de Fontainebleau",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-pont-du-gard",
+    "name": "Pont du Gard",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-carnac",
+    "name": "Carnac stones",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-arenas-nimes",
+    "name": "Arena of N\u00eemes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-abbey-cluny",
+    "name": "Cluny Abbey",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-bayeux-tapestry",
+    "name": "Bayeux Tapestry",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-omaha-beach",
+    "name": "Omaha Beach",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-chateau-vincennes",
+    "name": "Ch\u00e2teau de Vincennes",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-mont-blanc",
+    "name": "Mont Blanc",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-gorges-verdon",
+    "name": "Gorges du Verdon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-calanques",
+    "name": "Calanques NP",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-camargue",
+    "name": "Camargue",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-dune-pilat",
+    "name": "Dune du Pilat",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-corsica-gr20",
+    "name": "Corsica GR20",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-pyrenees-np",
+    "name": "Pyrenees NP",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-vanoise",
+    "name": "Vanoise NP",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-lascaux",
+    "name": "Lascaux cave",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-mer-de-glace",
+    "name": "Mer de Glace",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-reims-cathedral",
+    "name": "Reims Cathedral",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-avignon",
+    "name": "Avignon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-annecy",
+    "name": "Annecy",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-dijon",
+    "name": "Dijon",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-aix-en-provence",
+    "name": "Aix-en-Provence",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-bordeaux",
+    "name": "Bordeaux",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-rouen",
+    "name": "Rouen",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-saint-tropez",
+    "name": "Saint-Tropez",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-le-mans",
+    "name": "Le Mans",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "fr-montpellier",
+    "name": "Montpellier",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "chateau-versailles",
+    "name": "Chateau de Versailles",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "carcassonne-citadel",
+    "name": "Carcassonne Citadel",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lavender-fields-provence",
+    "name": "Lavender Fields of Provence",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "calanques-de-cassis",
+    "name": "Calanques of Cassis",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "lake-annecy",
+    "name": "Lake Annecy",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "musee-dorsay",
+    "name": "Musee d'Orsay",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "palace-versailles-gardens",
+    "name": "Versailles Gardens",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "sainte-chapelle",
+    "name": "Sainte-Chapelle",
+    "file": "lib/visualLab/data/francePoi.ts"
+  },
+  {
+    "id": "city-grenoble-extra",
+    "name": "Grenoble",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "industry-airbus-toulouse-extra",
+    "name": "Airbus Factory Toulouse",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "port-le-havre-extra",
+    "name": "Port of Le Havre",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "agriculture-bordeaux-vineyards-extra",
+    "name": "Bordeaux Vineyards",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "landmark-viaduc-de-millau-extra",
+    "name": "Millau Viaduct",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "kid-landmark-parc-asterix-extra",
+    "name": "Parc Ast\u00e9rix",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "mountain-aiguille-du-midi-extra",
+    "name": "Aiguille du Midi",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "lake-lake-geneva-extra",
+    "name": "Lake Geneva",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "forest-fontainebleau-forest-extra",
+    "name": "Fontainebleau Forest",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "agriculture-champagne-region-extra",
+    "name": "Champagne Region",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "castle-chateau-haut-koenigsbourg-extra",
+    "name": "Ch\u00e2teau du Haut-Koenigsbourg",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "city-clermont-ferrand-extra",
+    "name": "Clermont-Ferrand",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "kid-landmark-futuroscope-extra",
+    "name": "Futuroscope",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "animal-habitat-zoo-de-beauval-extra",
+    "name": "ZooParc de Beauval",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "industry-aero-valley-bordeaux-extra",
+    "name": "Aerospace Valley Bordeaux",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "river-loire-extra",
+    "name": "Loire River",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "city-rennes-extra",
+    "name": "Rennes",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "sea-etretat-cliffs-extra",
+    "name": "Cliffs of \u00c9tretat",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "industry-perfume-grasse-extra",
+    "name": "Grasse Perfume Industry",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "historical-lascaux-iv-extra",
+    "name": "Lascaux IV",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  },
+  {
+    "id": "kid-landmark-puy-du-fou-extra",
+    "name": "Puy du Fou",
+    "file": "lib/visualLab/data/poiExtraFranceCities.ts"
+  }
+]

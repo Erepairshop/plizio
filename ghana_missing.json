@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "accra-cities-v2",
+    "name": "Accra",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "kumasi-cities-v2",
+    "name": "Kumasi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "tamale-cities-v2",
+    "name": "Tamale",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "takoradi-cities-v2",
+    "name": "Takoradi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "ashaiman-cities-v2",
+    "name": "Ashaiman",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "tema-cities-v2",
+    "name": "Tema",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "teshie-cities-v2",
+    "name": "Teshie",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "cape-coast-cities-v2",
+    "name": "Cape Coast",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "sekondi-cities-v2",
+    "name": "Sekondi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "obuasi-cities-v2",
+    "name": "Obuasi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "madina-cities-v2",
+    "name": "Madina",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "koforidua-cities-v2",
+    "name": "Koforidua",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "wa-cities-v2",
+    "name": "Wa",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "techiman-cities-v2",
+    "name": "Techiman",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "nungua-cities-v2",
+    "name": "Nungua",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "tema-new-town-cities-v2",
+    "name": "Tema New Town",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "sunyani-cities-v2",
+    "name": "Sunyani",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "ho-cities-v2",
+    "name": "Ho",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "bawku-cities-v2",
+    "name": "Bawku",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "dome-cities-v2",
+    "name": "Dome",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "bolgatanga-cities-v2",
+    "name": "Bolgatanga",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "lashibi-cities-v2",
+    "name": "Lashibi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "taifa-cities-v2",
+    "name": "Taifa",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "gbawe-cities-v2",
+    "name": "Gbawe",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "agona-swedru-cities-v2",
+    "name": "Agona Swedru",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "ejura-cities-v2",
+    "name": "Ejura",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "berekum-cities-v2",
+    "name": "Berekum",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "tafo-cities-v2",
+    "name": "Tafo",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "suhum-cities-v2",
+    "name": "Suhum",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "tarkwa-cities-v2",
+    "name": "Tarkwa",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "nsawam-cities-v2",
+    "name": "Nsawam",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "kasoa-cities-v2",
+    "name": "Kasoa",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "yendi-cities-v2",
+    "name": "Yendi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "winneba-cities-v2",
+    "name": "Winneba",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "mampong-cities-v2",
+    "name": "Mampong",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "navrongo-cities-v2",
+    "name": "Navrongo",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "akim-oda-cities-v2",
+    "name": "Akim Oda",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "prestea-cities-v2",
+    "name": "Prestea",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "effiakuma-cities-v2",
+    "name": "Effiakuma",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "agogo-cities-v2",
+    "name": "Agogo",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "dunkwa-on-offin-cities-v2",
+    "name": "Dunkwa-on-Offin",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "begoro-cities-v2",
+    "name": "Begoro",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "kintampo-cities-v2",
+    "name": "Kintampo",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "aflao-cities-v2",
+    "name": "Aflao",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "nkoranza-cities-v2",
+    "name": "Nkoranza",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "oduponkpehe-cities-v2",
+    "name": "Oduponkpehe",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "saltpond-cities-v2",
+    "name": "Saltpond",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "akwatia-cities-v2",
+    "name": "Akwatia",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "apam-cities-v2",
+    "name": "Apam",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "salaga-cities-v2",
+    "name": "Salaga",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "bibiani-cities-v2",
+    "name": "Bibiani",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "somanya-cities-v2",
+    "name": "Somanya",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "foso-cities-v2",
+    "name": "Foso",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "wenchi-cities-v2",
+    "name": "Wenchi",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "mumford-cities-v2",
+    "name": "Mumford",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "duayaw-nkwanta-cities-v2",
+    "name": "Duayaw Nkwanta",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "bekwai-cities-v2",
+    "name": "Bekwai",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "bechem-cities-v2",
+    "name": "Bechem",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "denu-cities-v2",
+    "name": "Denu",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "anloga-cities-v2",
+    "name": "Anloga",
+    "file": "lib/visualLab/data/poiExtraGhanaCitiesV2.ts"
+  },
+  {
+    "id": "ghana-tema-port",
+    "name": "Tema Port",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-takoradi-port",
+    "name": "Takoradi Port",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-anglogold-ashanti",
+    "name": "AngloGold Ashanti Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-tarkwa-mine",
+    "name": "Gold Fields Tarkwa Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-awaso-bauxite",
+    "name": "Awaso Bauxite Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-nsuta-manganese",
+    "name": "Nsuta Manganese Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-akwatia-diamonds",
+    "name": "Akwatia Diamond Field",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-jubilee-oil",
+    "name": "Jubilee Oil Field",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-tema-oil-refinery",
+    "name": "Tema Oil Refinery",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-valco-aluminum",
+    "name": "VALCO Aluminum Smelter",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-takoradi-thermal",
+    "name": "Takoradi Power Station",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-chirano-gold",
+    "name": "Chirano Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-iduapriem-gold",
+    "name": "Iduapriem Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-bogoso-gold",
+    "name": "Bogoso Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-ahafo-gold",
+    "name": "Ahafo Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-akyem-gold",
+    "name": "Akyem Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-damang-gold",
+    "name": "Damang Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-asanko-gold",
+    "name": "Asanko Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-edikan-gold",
+    "name": "Edikan Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-nzema-gold",
+    "name": "Nzema Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-prestea-underground",
+    "name": "Prestea Gold Mine",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-buipe-cement",
+    "name": "Buipe Cement Plant",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-ghacem-tema",
+    "name": "Ghacem Cement Plant Tema",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-ghacem-takoradi",
+    "name": "Ghacem Cement Plant Takoradi",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-blue-skies",
+    "name": "Blue Skies Juice Factory",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-twifo-oil-palm",
+    "name": "Twifo Oil Palm Plant",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-cargill-cocoa",
+    "name": "Cargill Cocoa Processing",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-cpc-cocoa",
+    "name": "CPC Cocoa Processing Company",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-atuabo-gas",
+    "name": "Atuabo Gas Processing Plant",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "ghana-kantanka-auto",
+    "name": "Kantanka Automobile Plant",
+    "file": "lib/visualLab/data/poiExtraGhanaEconomicV2.ts"
+  },
+  {
+    "id": "cape-coast-castle-history-v2",
+    "name": "cape-coast-castle-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "elmina-castle-history-v2",
+    "name": "elmina-castle-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "osu-castle-history-v2",
+    "name": "osu-castle-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "larabanga-mosque-history-v2",
+    "name": "larabanga-mosque-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "kumasi-fort-history-v2",
+    "name": "kumasi-fort-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "manhyia-palace-history-v2",
+    "name": "manhyia-palace-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "assin-manso-slave-river-history-v2",
+    "name": "assin-manso-slave-river-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-prinzenstein-history-v2",
+    "name": "fort-prinzenstein-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-san-sebastian-history-v2",
+    "name": "fort-san-sebastian-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-apollonia-history-v2",
+    "name": "fort-apollonia-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-metal-cross-history-v2",
+    "name": "fort-metal-cross-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-amsterdam-history-v2",
+    "name": "fort-amsterdam-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-william-anomabu-history-v2",
+    "name": "fort-william-anomabu-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "kwame-nkrumah-mausoleum-history-v2",
+    "name": "kwame-nkrumah-mausoleum-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "w-e-b-du-bois-centre-history-v2",
+    "name": "w-e-b-du-bois-centre-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "independence-square-accra-history-v2",
+    "name": "independence-square-accra-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "yaa-asantewaa-museum-history-v2",
+    "name": "yaa-asantewaa-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "salaga-slave-market-history-v2",
+    "name": "salaga-slave-market-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "gwollu-defence-wall-history-v2",
+    "name": "gwollu-defence-wall-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "nalerigu-defence-wall-history-v2",
+    "name": "nalerigu-defence-wall-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "pikworo-slave-camp-history-v2",
+    "name": "pikworo-slave-camp-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "bono-manso-history-v2",
+    "name": "bono-manso-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "begho-ancient-city-history-v2",
+    "name": "begho-ancient-city-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "kintampo-complex-history-v2",
+    "name": "kintampo-complex-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "prempeh-ii-museum-history-v2",
+    "name": "prempeh-ii-museum-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-st-jago-history-v2",
+    "name": "fort-st-jago-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-victoria-cape-coast-history-v2",
+    "name": "fort-victoria-cape-coast-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-mccarthy-history-v2",
+    "name": "fort-mccarthy-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-good-hope-history-v2",
+    "name": "fort-good-hope-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "fort-patience-history-v2",
+    "name": "fort-patience-history-v2",
+    "file": "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  },
+  {
+    "id": "kwame-nkrumah-mausoleum-landmarks-v2",
+    "name": "Kwame Nkrumah Mausoleum",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "independence-arch-landmarks-v2",
+    "name": "Independence Arch",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "black-star-gate-landmarks-v2",
+    "name": "Black Star Gate",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "accra-sports-stadium-landmarks-v2",
+    "name": "Accra Sports Stadium",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "national-museum-ghana-landmarks-v2",
+    "name": "National Museum of Ghana",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "osu-castle-landmarks-v2",
+    "name": "Osu Castle",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "elmina-castle-landmarks-v2",
+    "name": "Elmina Castle",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "cape-coast-castle-landmarks-v2",
+    "name": "Cape Coast Castle",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "larabanga-mosque-landmarks-v2",
+    "name": "Larabanga Mosque",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "baba-yara-stadium-landmarks-v2",
+    "name": "Baba Yara Stadium",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "manhyia-palace-landmarks-v2",
+    "name": "Manhyia Palace",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "kejetia-market-landmarks-v2",
+    "name": "Kejetia Market",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "jubilee-house-landmarks-v2",
+    "name": "Jubilee House",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "national-theatre-ghana-landmarks-v2",
+    "name": "National Theatre of Ghana",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "jamestown-lighthouse-landmarks-v2",
+    "name": "Jamestown Lighthouse",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "holy-trinity-cathedral-accra-landmarks-v2",
+    "name": "Holy Trinity Cathedral",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "national-mosque-ghana-landmarks-v2",
+    "name": "Ghana National Mosque",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-metal-cross-landmarks-v2",
+    "name": "Fort Metal Cross",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-batenstein-landmarks-v2",
+    "name": "Fort Batenstein",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-san-sebastian-landmarks-v2",
+    "name": "Fort San Sebastian",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "adomi-bridge-landmarks-v2",
+    "name": "Adomi Bridge",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "akosombo-dam-landmarks-v2",
+    "name": "Akosombo Dam",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "aliu-mahama-stadium-landmarks-v2",
+    "name": "Aliu Mahama Sports Stadium",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "ndewura-jakpa-tomb-landmarks-v2",
+    "name": "Ndewura Jakpa Tomb",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "wesley-methodist-cathedral-landmarks-v2",
+    "name": "Wesley Methodist Cathedral",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-saint-anthony-landmarks-v2",
+    "name": "Fort Saint Anthony",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-gross-friedrichsburg-landmarks-v2",
+    "name": "Fort Gross-Friedrichsburg",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "navrongo-cathedral-landmarks-v2",
+    "name": "Navrongo Cathedral",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "essipong-stadium-landmarks-v2",
+    "name": "Essipong Stadium",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "villaggio-vistas-landmarks-v2",
+    "name": "Villaggio Vistas",
+    "file": "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  },
+  {
+    "id": "kumasi-zoo-kid-life-v2",
+    "name": "Kumasi Zoo",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "accra-botanical-kid-life-v2",
+    "name": "Aburi Botanical Gardens",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "legon-botanical-kid-life-v2",
+    "name": "Legon Botanical Gardens",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "kakum-walkway-kid-life-v2",
+    "name": "Kakum Canopy Walkway",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "cocoa-farm-tafo-agri-life-v2",
+    "name": "Tafo Cocoa Farm",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "tamale-shea-agri-life-v2",
+    "name": "Tamale Shea Cooperative",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "koforidua-market-agri-life-v2",
+    "name": "Koforidua Market",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "butterfly-sanctuary-kid-life-v2",
+    "name": "Bobiri Butterfly Sanctuary",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "mole-safari-kid-life-v2",
+    "name": "Mole Safari",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "monkey-sanctuary-boabeng-animal-life-v2",
+    "name": "Boabeng Fiema Monkey Sanctuary",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "crocodile-pond-paga-animal-life-v2",
+    "name": "Paga Crocodile Pond",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "ostrich-farm-shai-animal-life-v2",
+    "name": "Shai Ostrich Farm",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "bird-watching-pulibu-animal-life-v2",
+    "name": "Northern Bird Sanctuary",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "cocoa-plantation-asant-agri-life-v2",
+    "name": "Ashanti Cocoa Plantation",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "rubber-plantation-western-agri-life-v2",
+    "name": "Western Rubber Plantation",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "pineapple-farm-akw-agri-life-v2",
+    "name": "Akwapim Pineapple Farm",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "fishing-village-elmina-kid-life-v2",
+    "name": "Elmina Fishing Village",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "wetland-sakumono-animal-life-v2",
+    "name": "Sakumono Wetlands",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "crocodile-sanctuary-hapa-animal-life-v2",
+    "name": "Hapa Crocodile Sanctuary",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "agric-college-farm-life-v2",
+    "name": "Agriculture College Farm",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "acacia-forest-savanna-animal-life-v2",
+    "name": "Acacia Savanna Wildlife",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "honey-farm-central-agri-life-v2",
+    "name": "Central Honey Farm",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "wildlife-rescue-accra-animal-life-v2",
+    "name": "Accra Wildlife Rescue",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "rice-field-north-agri-life-v2",
+    "name": "Northern Rice Fields",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "aquarium-accra-kid-life-v2",
+    "name": "Accra Aquarium",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "mangrove-forest-ada-animal-life-v2",
+    "name": "Ada Mangrove Forest",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "maize-farm-east-agri-life-v2",
+    "name": "Eastern Maize Farm",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "animal-shelter-tamale-animal-life-v2",
+    "name": "Tamale Animal Shelter",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "zoo-takoradi-kid-life-v2",
+    "name": "Takoradi Zoo",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "citrus-orchard-central-agri-life-v2",
+    "name": "Central Citrus Orchard",
+    "file": "lib/visualLab/data/poiExtraGhanaLifeV2.ts"
+  },
+  {
+    "id": "volta-lake-nature-v2",
+    "name": "Lake Volta",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "kakum-forest-nature-v2",
+    "name": "Kakum National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "mole-forest-nature-v2",
+    "name": "Mole National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "wli-waterfalls-nature-v2",
+    "name": "Wli Waterfalls",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "bui-national-forest-nature-v2",
+    "name": "Bui National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "digya-forest-nature-v2",
+    "name": "Digya National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "kyabobo-forest-nature-v2",
+    "name": "Kyabobo National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "ankasa-forest-nature-v2",
+    "name": "Ankasa National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "nini-suhien-forest-nature-v2",
+    "name": "Nini-Suhien National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "bia-forest-nature-v2",
+    "name": "Bia National Park",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "shai-hills-mountain-nature-v2",
+    "name": "Shai Hills Resource Reserve",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "atiwa-mountain-nature-v2",
+    "name": "Atewa Range",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "akwapim-mountain-nature-v2",
+    "name": "Akwapim-Togo Range",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "fosu-lake-nature-v2",
+    "name": "Fosu Lagoon",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "keta-lake-nature-v2",
+    "name": "Keta Lagoon",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "white-volta-river-nature-v2",
+    "name": "White Volta",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "black-volta-river-nature-v2",
+    "name": "Black Volta",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "pra-river-nature-v2",
+    "name": "Pra River",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "offin-river-nature-v2",
+    "name": "Offin River",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "ankobra-river-nature-v2",
+    "name": "Ankobra River",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "tano-river-nature-v2",
+    "name": "Tano River",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "oti-river-nature-v2",
+    "name": "Oti River",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "busua-beach-nature-v2",
+    "name": "Busua Beach",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "labadi-beach-nature-v2",
+    "name": "Labadi Beach",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "ada-foah-sea-nature-v2",
+    "name": "Ada Foah",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "cape-three-points-sea-nature-v2",
+    "name": "Cape Three Points",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "gulf-of-guinea-sea-nature-v2",
+    "name": "Gulf of Guinea",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "kakum-canopy-forest-nature-v2",
+    "name": "Kakum Forest Reserve",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "bui-dam-lake-nature-v2",
+    "name": "Bui Reservoir",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "shai-hills-savanna-nature-v2",
+    "name": "Shai Hills Savanna",
+    "file": "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  },
+  {
+    "id": "akwapim-togo-relief-v2",
+    "name": "Akwapim-Togo Range",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "mount-afadja-relief-v2",
+    "name": "Mount Afadja",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "kwae-escarpment-relief-v2",
+    "name": "Kwae Escarpment",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "kwahu-plateau-relief-v2",
+    "name": "Kwahu Plateau",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "volta-basin-relief-v2",
+    "name": "Volta Basin",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "bui-gorge-relief-v2",
+    "name": "Bui Gorge",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "ashanti-uplands-relief-v2",
+    "name": "Ashanti Uplands",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "denu-coastal-plain-relief-v2",
+    "name": "Denu Coastal Plain",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "gambo-hills-relief-v2",
+    "name": "Gambo Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "akuapem-ridge-relief-v2",
+    "name": "Akuapem Ridge",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "tano-basin-relief-v2",
+    "name": "Tano Basin",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "kintampo-plateau-relief-v2",
+    "name": "Kintampo Plateau",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "white-volta-valley-relief-v2",
+    "name": "White Volta Valley",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "fanteakwa-escarpment-relief-v2",
+    "name": "Fanteakwa Escarpment",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "akwapim-plains-relief-v2",
+    "name": "Akwapim Plains",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "nsuta-hills-relief-v2",
+    "name": "Nsuta Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "bongo-hills-relief-v2",
+    "name": "Bongo Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "dagbon-plateau-relief-v2",
+    "name": "Dagbon Plateau",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "akposso-hills-relief-v2",
+    "name": "Akposso Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "buem-escarpment-relief-v2",
+    "name": "Buem Escarpment",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "shai-hills-relief-v2",
+    "name": "Shai Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "kweku-hills-relief-v2",
+    "name": "Kweku Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "oti-plain-relief-v2",
+    "name": "Oti Plain",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "nkawkaw-escarpment-relief-v2",
+    "name": "Nkawkaw Escarpment",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  },
+  {
+    "id": "gambia-hills-relief-v2",
+    "name": "Gambia Hills",
+    "file": "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "palmira-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Palmira, bekannt als die Agrarhauptstadt Kolumbiens, liegt im fruchtbaren Cauca-Tal und ist ein bedeutendes Zentrum für die Zuckerrohrindustrie. Die Stadt zeichnet sich durch ihre breiten Alleen und das angenehme Klima aus, was ihr den Beinamen Villa de las Palmas einbrachte. Ein kulturelles Highlight ist die Kathedrale Unserer Lieben Frau vom Rosenkranz, deren Architektur das Stadtzentrum prägt. In der Umgebung laden zahlreiche Haciendas dazu ein, mehr über den Anbau von Tabak und Kakao zu erfahren. Palmira ist zudem ein wichtiger Verkehrsknotenpunkt mit dem internationalen Flughafen Alfonso Bonilla Aragón, der die Region mit der Welt verbindet. Geographie K8 — Industrielle Landwirtschaft und Exportwirtschaft im Cauca-Tal.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Palmira ist die zweitwichtigste Stadt im Departamento Valle del Cauca nach Cali.",
+        "Die Stadt ist Sitz wichtiger nationaler Forschungseinrichtungen für die Landwirtschaft.",
+        "Das Stadtmuseum in der alten Bahnstation zeigt Fundstücke der prähistorischen Malagana-Kultur.",
+        "Palmira ist für seine Pferdekutschen bekannt, die traditionell als Transportmittel genutzt werden."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "buenaventura-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Buenaventura ist der wichtigste Seehafen Kolumbiens am Pazifik und ein lebenswichtiger Knotenpunkt für den internationalen Handel des Landes. Die Stadt liegt auf der Insel Cascajal und ist durch Brücken mit dem Festland verbunden, was ihre einzigartige geografische Lage unterstreicht. Kulturell ist Buenaventura tief in den afro-kolumbianischen Traditionen verwurzelt, die sich in der Marimba-Musik und der lokalen Küche widerspiegeln. Besucher schätzen die Nähe zu unberührten Dschungelstränden und Nationalparks wie Bahía Málaga, wo jährlich Buckelwale beobachtet werden können. Trotz wirtschaftlicher Herausforderungen bleibt die Stadt ein pulsierendes Zentrum voller Energie und kulturellem Reichtum. Geographie K7 — Maritime Logistik und Hafenwirtschaft am Pazifik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Über 60 Prozent des kolumbianischen Seehandels werden über den Hafen von Buenaventura abgewickelt.",
+        "Die Stadt gehört zu den regenreichsten Orten der Welt mit fast täglichen Niederschlägen.",
+        "Die Marimba-Musik aus der Region wurde von der UNESCO als immaterielles Kulturerbe anerkannt.",
+        "Buenaventura wurde 1540 gegründet und nach dem Heiligen Bonaventura benannt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "tulua-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Tuluá liegt im Herzen des Valle del Cauca und wird aufgrund seiner strategischen Lage oft als das Herz des Departamentos bezeichnet. Die Stadt ist ein blühendes Zentrum für Handel und Landwirtschaft, geprägt durch die umliegenden Zuckerrohrplantagen und Obstgärten. Ein besonderes Wahrzeichen ist der botanische Garten Juan María Céspedes, der eine beeindruckende Sammlung tropischer Pflanzen beherbergt. Tuluá ist zudem für seine lebendige Kulturszene und die jährlich stattfindende Landwirtschaftsmesse bekannt, die Besucher aus dem ganzen Land anlockt. Die Stadt verbindet modernen Fortschritt mit dem entspannten Lebensstil der kolumbianischen Provinz. Geographie K8 — Regionale Handelszentren und Agrarproduktion.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Tuluá wurde 1639 gegründet und entwickelte sich schnell zu einem wichtigen Handelsposten.",
+        "Der Rio Tuluá durchfließt das Stadtgebiet und sorgt für eine fruchtbare Umgebung.",
+        "Die Stadt ist berühmt für ihre Gastronomie, insbesondere für das traditionelle Gericht Sancocho de Gallina.",
+        "Der botanische Garten von Tuluá gilt als einer der wichtigsten Forschungsstandorte Kolumbiens."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "floridablanca-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Floridablanca ist Teil der Metropolregion Bucaramanga und bekannt als die Welthauptstadt der Oblea, einer traditionellen kolumbianischen Süßspeise. Die Stadt liegt am Fuße der Anden und bietet durch ihre hügelige Topographie zahlreiche Aussichtspunkte über die gesamte Region. Ein bedeutendes Wahrzeichen ist das monumentale Christus-Denkmal Sagrado Corazón de Jesús, das hoch über der Stadt thront. Floridablanca hat sich in den letzten Jahrzehnten von einem landwirtschaftlichen Dorf zu einem modernen Wohn- und Dienstleistungszentrum entwickelt. Die Kombination aus angenehmem Klima und moderner Infrastruktur macht sie zu einem attraktiven Ziel für Einheimische und Touristen. Geographie K8 — Urbanisierung und Spezialisierung im Dienstleistungssektor.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Floridablanca ist berühmt für seine Süßwarenindustrie, insbesondere die Waffelspezialität Oblea.",
+        "Die Stadt beherbergt den Parapente-Startplatz Voladero Las Águilas für Gleitschirmflieger.",
+        "In Floridablanca befindet sich eines der wichtigsten medizinischen Zentren im Osten Kolumbiens.",
+        "Der Name der Stadt ehrt den spanischen Staatsmann Graf von Floridablanca."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "barrancabermeja-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Barrancabermeja liegt am Ufer des mächtigen Rio Magdalena und ist das unbestrittene Zentrum der kolumbianischen Ölindustrie. Die Stadt beherbergt die größte Erdölraffinerie des Landes, was ihr den Beinamen Ölhauptstadt Kolumbiens eingebracht hat. Trotz der industriellen Prägung bietet die Stadt mit dem Cristo Petrolero am Ufer der Miramar-Sumpflandschaft einen markanten kulturellen Bezugspunkt. Das Klima ist tropisch heiß, was das Leben am Fluss und in den zahlreichen Parks der Stadt bestimmt. Barrancabermeja ist zudem ein wichtiger Knotenpunkt für den Schiffsverkehr auf dem Magdalena-Fluss. Geographie K9 — Energiewirtschaft und Erdölverarbeitung am Rio Magdalena.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "In Barrancabermeja wurde 1922 die erste Erdölraffinerie Kolumbiens in Betrieb genommen.",
+        "Die Stadt ist für ihren extremen Reichtum an tropischen Fischen im Rio Magdalena bekannt.",
+        "Der Name leitet sich von den rötlichen Uferböschungen (Barrancas Bermejas) des Flusses ab.",
+        "Barrancabermeja ist die Geburtsstätte vieler Vallenato-Musiker und traditioneller Tänze."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "envigado-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Envigado liegt unmittelbar südlich von Medellín im Aburrá-Tal und gilt als eine der Städte mit der höchsten Lebensqualität in Kolumbien. Sie hat ihren dörflichen Charme im Stadtkern bewahrt, während sie gleichzeitig ein modernes Industrie- und Handelszentrum ist. Envigado ist bekannt für sein starkes Gemeinschaftsgefühl und seine grünen Parks, die einen Kontrast zur benachbarten Metropole bilden. Die Stadt beherbergt bedeutende Unternehmen der Fahrzeug- und Lebensmittelindustrie, was zu ihrem wirtschaftlichen Wohlstand beiträgt. Kulturell ist Envigado für seine traditionellen Feste und die gut erhaltene Gastronomie der Paisa-Region berühmt. Geographie K8 — Industrielles Erbe und hohe Lebensqualität in Metropolregionen.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Envigado wird oft als die grüne Stadt des Tals bezeichnet aufgrund seiner vielen Gärten.",
+        "Die Stadt ist die Heimat des berühmten kolumbianischen Schriftstellers Fernando González.",
+        "Envigado hat eine der niedrigsten Armutsraten und besten Bildungssysteme des Landes.",
+        "Das jährlich stattfindende Blumenfest ist auch in Envigado tief verwurzelt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "itagui-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Itagüí ist eine dynamische Industriestadt südlich von Medellín und ein wichtiger Motor der regionalen Wirtschaft. Die Stadt zeichnet sich durch eine extrem hohe Dichte an Unternehmen aus, insbesondere in den Bereichen Textilien, Chemie und Logistik. Trotz der starken industriellen Ausrichtung investiert Itagüí massiv in Kultur und öffentliche Räume, wie das beeindruckende Kulturhaus zeigt. Ein besonderes Kuriosum ist der jährliche Welttag der Faulheit, der als humorvolle Antwort auf den Arbeitseifer der Einwohner entstanden ist. Die Stadt ist zudem ein bedeutendes Handelszentrum mit zahlreichen Einkaufsmeilen und Großmärkten. Geographie K8 — Industrielle Verdichtung und Logistik in den Anden.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Itagüí ist flächenmäßig eine der kleinsten, aber bevölkerungsreichsten Gemeinden Kolumbiens.",
+        "Die Stadt gilt als das Textilzentrum des Departamentos Antioquia.",
+        "In Itagüí befindet sich der Ditaires-Park, eine grüne Lunge inmitten des Industriegebiets.",
+        "Der Name der Stadt leitet sich von einem indigenen Kaziken namens Itagüí ab."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "dosquebradas-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Dosquebradas ist die zweitwichtigste Stadt im Departamento Risaralda und eng mit der Nachbarstadt Pereira verbunden. Sie hat sich in den letzten Jahrzehnten von einer Ansammlung kleiner Siedlungen zu einem bedeutenden Industriezentrum entwickelt. Das Stadtbild ist geprägt von modernen Fabriken und Wohngebieten, die sich entlang der Hauptverkehrsachsen erstrecken. Das beeindruckende Viaducto César Gaviria Trujillo verbindet Dosquebradas direkt mit dem Zentrum von Pereira. In der Umgebung bieten die Ausläufer der Zentralkordillere Möglichkeiten für Wanderungen und Naturbeobachtungen. Geographie K8 — Industrieller Aufstieg und urbane Expansion.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Name Dosquebradas bedeutet wörtlich Zwei Bäche, benannt nach den Wasserläufen in der Region.",
+        "Die Stadt ist ein wichtiger Standort für die Lebensmittel- und Textilverarbeitung.",
+        "Dosquebradas besitzt keine eigene Plaza de Bolívar, was untypisch für kolumbianische Städte ist.",
+        "Die Stadt ist ein wichtiger Verkehrsknotenpunkt für Reisen zwischen Medellín und Cali."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "rionegro-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Rionegro liegt auf einem Hochplateau östlich von Medellín und ist historisch eine der bedeutendsten Städte der Region Antioquia. Die Stadt ist bekannt als die Wiege der Freiheit, da hier wichtige Verträge für die Unabhängigkeit Kolumbiens unterzeichnet wurden. Heute beherbergt Rionegro den internationalen Flughafen José María Córdova, der als wichtigstes Tor zur Region Medellín dient. Die Stadt hat sich zu einem modernen Industrie- und Wohnzentrum entwickelt, bewahrt aber in ihrem historischen Kern koloniale Pracht. Die umliegende Landschaft ist geprägt von Blumenfarmen und üppigem Grün, was der Stadt ein angenehmes Klima verleiht. Geschichte K7 — Koloniale Handelswege und die Freiheit von Antioquia.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "In Rionegro wurde 1863 die Verfassung der Vereinigten Staaten von Kolumbien verkündet.",
+        "Die Stadt war im 19. Jahrhundert ein wichtiger Goldhandelsplatz.",
+        "Rionegro liegt auf über 2.100 Metern Höhe und hat ganzjährig milde Temperaturen.",
+        "Das Museum für religiöse Kunst in der Konkathedrale ist eines der bedeutendsten des Landes."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cartago-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Cartago liegt am nördlichen Ende des Valle del Cauca und ist eine der ältesten Städte Kolumbiens. Die Stadt ist berühmt für ihre filigranen Stickereien, die als handwerkliches Meisterwerk landesweit geschätzt werden. In der Kolonialzeit war Cartago ein wichtiger Stützpunkt für die Spanier auf dem Weg nach Süden. Das Stadtbild ist geprägt von kolonialen Kirchen und dem historischen Casa del Virrey, das heute ein Museum beherbergt. Das heiße Klima und die Lage am Rio La Vieja machen Cartago zu einem wichtigen Handelszentrum für Agrarprodukte. Geschichte K7 — Koloniale Stadtgründungen und das Erbe der Pijao.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Cartago wurde 1540 gegründet und befand sich ursprünglich an der Stelle des heutigen Pereira.",
+        "Die Stadt gilt als das Zentrum der handgefertigten Bordados (Stickereien) in Kolumbien.",
+        "Das Casa del Virrey ist ein seltenes Beispiel für zivile Barockarchitektur in der Region.",
+        "Der Name Cartago erinnert an die antike Stadt Karthago in Nordafrika."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "giron-cities-v2",
+    "descriptionAdvanced": {
+      "de": "San Juan de Girón ist eine der 17 historischen Städte Kolumbiens und gehört zum nationalen Kulturerbe. Das gesamte Stadtzentrum ist geprägt von weiß getünchten Häusern mit braunen Holztüren und Kopfsteinpflastergassen, was ein authentisches Kolonialflair vermittelt. Girón liegt in der Nähe von Bucaramanga und ist bekannt für seine religiöse Bedeutung, insbesondere durch die Basilika des Herrn der Wunder. Die Stadt hat sich in den letzten Jahren zu einem wichtigen touristischen Ziel entwickelt, das Besucher mit seiner Ruhe und architektonischen Schönheit anzieht. Neben der Geschichte ist die Region für den Tabakanbau und traditionelle Süßspeisen bekannt. Geschichte K7 — Kolonialarchitektur und das Erbe Neugranadas.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Girón wurde 1631 gegründet und behielt sein architektonisches Erbe fast unverändert bei.",
+        "Die Stadtmauer und die Brücken über den Rio de Oro sind beliebte Fotomotive.",
+        "Jedes Jahr im Januar findet das große religiöse Fest zu Ehren des Señor de los Milagros statt.",
+        "Girón war in der Kolonialzeit ein wichtiges Zentrum für den Goldhandel in der Region Santander."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "facatativa-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Facatativá liegt am westlichen Rand der Hochebene von Bogotá und ist ein bedeutendes Tor zum Magdalena-Tal. Die Stadt ist weltweit bekannt für den archäologischen Park Piedras del Tunjo, wo monumentale Felsformationen mit antiken Felsmalereien der Muisca zu sehen sind. Heute ist Facatativá ein Zentrum der kolumbianischen Blumenindustrie, die Produkte für den weltweiten Export produziert. Das kühle Klima des Hochlands begünstigt den Anbau von Rosen und Nelken in riesigen Gewächshäusern. Die Stadt verbindet eine reiche indigene Vergangenheit mit einer modernen agrarindustriellen Gegenwart. Geographie K8 — Archäologie und moderne Agrarwirtschaft im Hochland.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Piedras del Tunjo dienten den Muisca-Herrschern als heilige Stätte und Fluchtpunkt.",
+        "Facatativá liegt auf einer Höhe von etwa 2.586 Metern über dem Meeresspiegel.",
+        "Die Stadt ist ein wichtiger Eisenbahnknotenpunkt für die historische Verbindung zum Flusshafen Honda.",
+        "In der Umgebung befinden sich einige der größten Blumenfarmen des Departamentos Cundinamarca."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "duitama-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Duitama liegt im Herzen der Boyacá-Region und ist als die Perle von Boyacá bekannt. Die Stadt ist ein wichtiger Industriestandort, insbesondere für die Karosseriefertigung und den Lastkraftwagenverkehr in Kolumbien. Ein kulturelles Highlight ist der Pueblito Boyacense, ein architektonisches Projekt, das die schönsten Dorfplätze des Departamentos in einem Viertel nachbildet. Duitama dient als strategischer Ausgangspunkt für Besuche in den Anden-Hochmooren (Páramos) und den umliegenden kolonialen Dörfern. Die Stadt ist zudem für ihren starken Unternehmergeist und ihre Bedeutung als Bildungszentrum der Region bekannt. Geographie K8 — Industrie und Transportwesen in der Boyacá-Region.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Duitama ist der wichtigste Knotenpunkt für den Güterverkehr im Osten Kolumbiens.",
+        "Der Pueblito Boyacense zeigt Architekturstile aus sieben verschiedenen Gemeinden von Boyacá.",
+        "Die Stadt liegt im fruchtbaren Sugamuxi-Tal, das einst heilig für die Muisca-Kultur war.",
+        "Duitama hat eine lange Tradition im Radsport und brachte viele nationale Champions hervor."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "magangue-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Magangué liegt am westlichen Ufer des Rio Magdalena und ist einer der bedeutendsten Binnenhäfen Kolumbiens. Die Stadt dient als lebenswichtiges Handelszentrum für die Mojana-Region und verbindet die landwirtschaftlichen Gebiete des Hinterlandes mit dem Flussverkehr. Aufgrund ihrer Lage wird sie oft als die Stadt der Flüsse bezeichnet, da hier mehrere wichtige Wasserläufe zusammenkommen. Magangué ist bekannt für seinen lebhaften Markt, auf dem Fisch und landwirtschaftliche Erzeugnisse aus der gesamten Region gehandelt werden. Die Stadt spielt eine zentrale Rolle für die wirtschaftliche Integration des Departamentos Bolívar. Geographie K7 — Flusslogistik und Handel am Rio Magdalena.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Magangué ist der zweitwichtigste wirtschaftliche Standort im Departamento Bolívar nach Cartagena.",
+        "Die Stadt ist ein wichtiges Zentrum für den Handel mit Reis und Vieh.",
+        "Der Name Magangué stammt von einem indigenen Kaziken namens Maganguey.",
+        "Die Kathedrale Nuestra Señora de la Candelaria ist ein bedeutendes religiöses Wahrzeichen der Stadt."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "zipaquira-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Zipaquira ist weltberühmt für seine einzigartige Salzkathedrale, ein architektonisches Wunderwerk, das tief in einem Salzbergwerk errichtet wurde. Die Stadt liegt nördlich von Bogotá und atmet in ihrem gut erhaltenen kolonialen Zentrum Geschichte auf Schritt und Tritt. Zipaquira war bereits in präkolumbianischer Zeit ein Zentrum der Salzgewinnung für das Volk der Muisca, was der Region enormen Reichtum bescherte. Heute ist die Stadt ein Magnet für Touristen aus aller Welt und ein Symbol für den kolumbianischen Glauben und Ingenieurskunst. Neben der Kathedrale lockt die Plaza de los Comuneros mit prächtigen historischen Gebäuden und einer entspannten Atmosphäre. Geschichte K7 — Salzgewinnung und sakrale Architektur unter der Erde.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Salzkathedrale von Zipaquira gilt als das erste Weltwunder Kolumbiens.",
+        "In Zipaquira verbrachte der Nobelpreisträger Gabriel García Márquez seine Schulzeit.",
+        "Die Stadt war ein Zentrum der Comuneros-Revolte gegen die spanische Krone im Jahr 1781.",
+        "Die Salzvorkommen der Region entstanden vor Millionen von Jahren durch das Austrocknen eines Binnenmeeres."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "piedecuesta-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Piedecuesta gehört zur Metropolregion Bucaramanga und ist bekannt als die Stadt der Bromelien und des Tabaks. Die Stadt liegt in einem malerischen Tal und ist geprägt von einer starken handwerklichen Tradition, insbesondere in der Herstellung von Zigarren. Piedecuesta bietet durch seine Nähe zum Chicamocha-Canyon und den Anden-Ausläufern hervorragende Möglichkeiten für Naturtourismus. Die Bewohner sind stolz auf ihr religiöses Erbe, das besonders während der Karwoche mit prächtigen Prozessionen gefeiert wird. In den letzten Jahren hat sich die Stadt rasant zu einem bevorzugten Wohnort mit modernen Siedlungen entwickelt. Geographie K8 — Tabakanbau und regionale Wirtschaftsentwicklung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Piedecuesta ist berühmt für seine handgerollten Zigarren, die eine lange Tradition haben.",
+        "Der Name Piedecuesta bedeutet wörtlich Fuß des Hügels, was auf die topographische Lage hinweist.",
+        "In der Stadt befindet sich der Technologiepark Guatiguará, ein wichtiges Forschungszentrum.",
+        "Die Region ist ein bedeutendes Anbaugebiet für Brombeeren und andere tropische Früchte."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "malambo-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Malambo liegt am Westufer des Rio Magdalena und ist Teil des Ballungsraums von Barranquilla. Die Stadt blickt auf eine jahrtausendealte Geschichte zurück, da sie bereits in präkolumbianischer Zeit ein bedeutendes indigenes Zentrum war. Heute ist Malambo ein wichtiger Industriestandort, der von der Nähe zum Seehafen und Flughafen Ernesto Cortissoz profitiert. Die Wirtschaft ist geprägt von metallverarbeitenden Betrieben und Logistikunternehmen, die die Karibikküste versorgen. Kulturell bewahrt die Stadt ihre Traditionen durch lebendige Feste und eine tiefe Verbundenheit mit dem Fluss. Geographie K8 — Industrielle Entwicklung im Einzugsgebiet von Barranquilla.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Archäologische Funde belegen, dass die Malambo-Kultur bereits um 1100 v. Chr. in der Region ansässig war.",
+        "Malambo beherbergt einen wichtigen Militärstützpunkt der kolumbianischen Luftwaffe.",
+        "Die Stadt feiert jährlich das Patronatsfest zu Ehren der Heiligen Maria Magdalena.",
+        "Malambo ist ein Zentrum der handwerklichen Tonverarbeitung in der Region Atlántico."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sogamoso-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Sogamoso ist als die Stadt der Sonne bekannt und war in der Antike das religiöse Zentrum des Muisca-Volkes. Die Stadt beherbergt das bedeutende Archäologische Museum Silva Celis, in dem eine Rekonstruktion des legendären Sonnentempels zu bewundern ist. Heute ist Sogamoso ein wichtiges Industriezentrum, geprägt von der Stahlproduktion und dem Bergbau in der umliegenden Region. Die Lage im Sugamuxi-Tal macht sie zudem zu einem bedeutenden Handelsplatz für landwirtschaftliche Produkte aus dem Hochland. Sogamoso verbindet seine tiefen spirituellen Wurzeln mit einer modernen Rolle als industrielles Rückgrat des Departamentos Boyacá. Geschichte K7 — Die heilige Stadt der Muisca und die Sonnenanbetung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Sonnentempel von Sogamoso wurde 1537 von spanischen Eroberern versehentlich in Brand gesteckt.",
+        "Sogamoso ist ein bedeutendes Zentrum für die Kalkstein- und Kohleförderung in Boyacá.",
+        "Die Stadt liegt auf einer Höhe von etwa 2.569 Metern in den Oskordilleren der Anden.",
+        "In der Nähe befindet sich die Laguna de Tota, der größte See Kolumbiens."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "ocana-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Ocaña liegt im Nordosten Kolumbiens in einer malerischen Bergregion und ist bekannt für seine bedeutende Rolle in der nationalen Geschichte. In der Kirche von San Francisco fand 1828 die berühmte Versammlung von Ocaña statt, bei der über die Zukunft der Republik Großkolumbien debattiert wurde. Die Stadt zeichnet sich durch ihr angenehmes Klima und gut erhaltene koloniale Architektur aus, die ihr einen besonderen Charme verleiht. In der Nähe lockt das Naturdenkmal Los Estoraques mit seinen bizarren, durch Erosion geformten Felsformationen. Ocaña ist zudem ein wichtiges landwirtschaftliches Zentrum, berühmt für den Anbau von Zwiebeln und Kaffee. Geschichte K8 — Politische Versammlungen und der Weg zur Republik.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Ocaña wurde 1570 gegründet und war ein wichtiger Verbindungspunkt zwischen dem Hochland und dem Magdalena-Fluss.",
+        "Die Versammlung von Ocaña markierte den endgültigen Bruch zwischen Simón Bolívar und Santander.",
+        "Die Stadt ist berühmt für ihr traditionelles Brot, das Pan Ocañero.",
+        "Das Denkmal der Columna de la Libertad in Ocaña feiert die Abschaffung der Sklaverei in Kolumbien."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "pitalito-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Pitalito liegt im Süden des Departamentos Huila und ist als das Tal von Laboyos bekannt. Die Stadt hat sich zum weltweit wichtigsten Produzenten von hochwertigem Spezialitätenkaffee entwickelt, der regelmäßig internationale Preise gewinnt. Pitalito dient zudem als wichtigstes Tor zum archäologischen Park San Agustín, einer der bedeutendsten präkolumbianischen Stätten Amerikas. Das Stadtbild ist geprägt von einer Mischung aus moderner Entwicklung und tief verwurzelten Traditionen der Huila-Region. Kulturell ist die Stadt für ihre handwerklichen Arbeiten aus Ton bekannt, insbesondere für die filigranen Chivas-Miniaturen. Geographie K8 — Kaffeequalität und das Tor zum archäologischen Park San Agustín.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Pitalito produziert mehr Kaffee als jede andere Gemeinde in Kolumbien.",
+        "Die Stadt wurde 1818 gegründet und ist ein strategischer Knotenpunkt zwischen den Anden und dem Amazonas.",
+        "Das jährlich stattfindende Kaffeefestival zieht Einkäufer aus der ganzen Welt an.",
+        "In Pitalito befindet sich das Naturreservat Cueva de los Guácharos ganz in der Nähe."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "buga-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Guadalajara de Buga, meist einfach Buga genannt, ist eine der wichtigsten religiösen Pilgerstätten Kolumbiens. Die prachtvolle Basilika des Herrn der Wunder beherbergt ein verehrtes Kruzifix und zieht jährlich Millionen von Gläubigen an. Die Stadt gehört zum nationalen Kulturerbe und beeindruckt durch ihr außergewöhnlich gut erhaltenes koloniales Zentrum mit prachtvollen Herrenhäusern. Buga liegt im fruchtbaren Cauca-Tal und ist zudem ein wichtiges Zentrum für die Landwirtschaft und Logistik. Die Kombination aus tiefer Spiritualität, reicher Geschichte und wirtschaftlicher Dynamik verleiht der Stadt eine einzigartige Atmosphäre. Geschichte K7 — Religiöser Tourismus und koloniale Pracht.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Buga wurde 1573 gegründet und ist eine der ältesten Städte in Westkolumbien.",
+        "Die Stadt ist eine von nur wenigen Orten weltweit, die den Titel Guadalajara führen dürfen.",
+        "Die Basilika wurde 1937 von Papst Pius XI. in den Rang einer Basilica Minor erhoben.",
+        "In der Nähe liegt das Naturschutzgebiet Laguna de Sonso, ein Paradies für Vogelbeobachter."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "jamundi-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Jamundí liegt unmittelbar südlich von Cali und hat sich in den letzten Jahren zu einem bedeutenden Wohnzentrum für die wachsende Metropolregion entwickelt. Die Stadt ist berühmt für ihren Cholado, eine köstliche Mischung aus geschabtem Eis, Früchten und Sirup, die hier ihren Ursprung hat. Jamundí ist geprägt von einer üppigen Natur mit zahlreichen Flüssen und Wasserfällen, die an Wochenenden viele Ausflügler aus Cali anziehen. In der Kolonialzeit war die Region ein wichtiges Zentrum für den Bergbau und die Landwirtschaft, was sich heute noch in einigen Haciendas widerspiegelt. Die Stadt verbindet die Ruhe des Umlands mit der Nähe zum wirtschaftlichen Zentrum des Cauca-Tals. Geographie K8 — Wohnraumexpansion und Agrarwirtschaft im Cauca-Tal.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Jamundí ist als die Welthauptstadt des Cholado bekannt.",
+        "Der Name der Stadt ehrt den indigenen Kaziken Jamundí, der den spanischen Eroberern Widerstand leistete.",
+        "In der Umgebung befinden sich bedeutende Reis- und Zuckerrohrplantagen.",
+        "Der Fluss Pance, ein beliebtes Ausflugsziel, bildet teilweise die Grenze zu Cali."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "yumbo-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Yumbo wird oft als die Industriehauptstadt Kolumbiens bezeichnet und beherbergt eine der größten Konzentrationen von Fabriken im ganzen Land. Die Stadt liegt strategisch günstig im Cauca-Tal nördlich von Cali und ist ein entscheidender Motor für die regionale Wirtschaft. Hier finden sich Unternehmen aus den Bereichen Papier, Zement, Chemie und Metallverarbeitung. Trotz der industriellen Dominanz bemüht sich Yumbo um kulturelle Identität durch Feste wie das Festival der Interpreten, das jährlich Musiker anzieht. Die Umgebung bietet zudem landschaftliche Reize in den Ausläufern der Westkordillere. Geographie K8 — Industrieller Schwerpunkt und Energieversorgung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "In Yumbo sind über 2.000 mittlere und große Industrieunternehmen ansässig.",
+        "Die Stadt verfügt über ein wichtiges thermisches Kraftwerk für die Energieversorgung der Region.",
+        "Der Name Yumbo stammt von den indigenen Stämmen, die vor der Eroberung in der Region lebten.",
+        "Das Mulaló-Viertel in Yumbo ist als das Dorf der Bräuche bekannt und beherbergt ein Museum für Simón Bolívar."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "villa-del-rosario-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Villa del Rosario ist ein geschichtsträchtiger Ort unmittelbar an der Grenze zu Venezuela und gilt als die Geburtsstätte der kolumbianischen Nation. Im historischen Komplex des Gran Colombia wurde 1821 der erste Kongress abgehalten und die Verfassung unterzeichnet, die Kolumbien, Venezuela und Ecuador vereinte. Die Ruinen der historischen Kirche und das Geburtshaus von General Francisco de Paula Santander sind bedeutende nationale Denkmäler. Heute ist die Stadt eng mit dem Wirtschaftsraum von Cúcuta verbunden und spielt eine zentrale Rolle im grenzüberschreitenden Austausch. Villa del Rosario bewahrt stolz sein Erbe als Wiege der Gesetze. Geschichte K8 — Die Wiege der kolumbianischen Verfassung.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Villa del Rosario war 1821 kurzzeitig die Hauptstadt des Staates Großkolumbien.",
+        "General Santander, einer der Väter der Republik, wurde hier 1792 geboren.",
+        "Der historische Park beherbergt den berühmten Tamarindenbaum, unter dem die Gesetze beraten wurden.",
+        "Ein Erdbeben im Jahr 1875 zerstörte einen Großteil der ursprünglichen Kirche."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sahagun-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Sahagún liegt im Herzen des Departamentos Córdoba und ist als die Kulturhauptstadt der Region bekannt. Die Stadt zeichnet sich durch eine starke literarische und musikalische Tradition aus, die tief in der bäuerlichen Identität der Savannen verwurzelt ist. Sahagún ist ein bedeutendes Zentrum für die Viehzucht und den Handel mit landwirtschaftlichen Produkten wie Mais und Baumwolle. Das Stadtbild ist geprägt von weiten Plätzen und einer entspannten Atmosphäre, die typisch für das karibische Hinterland ist. Die Bewohner sind stolz auf ihre Gastfreundschaft und die jährlich stattfindenden kulturellen Wettbewerbe. Geographie K8 — Kultur und Agrarwirtschaft in den Savannen von Córdoba.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Sahagún wurde 1776 gegründet und hieß ursprünglich San Juan de Sahagún.",
+        "Die Stadt ist berühmt für ihre Dezimeros, Poeten, die traditionelle Verse improvisieren.",
+        "In der Region wurden bedeutende Erdgasvorkommen entdeckt, die zur wirtschaftlichen Entwicklung beitragen.",
+        "Sahagún ist ein wichtiger Knotenpunkt an der Hauptstraße zwischen dem Landesinneren und der Karibikküste."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "cerete-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Cereté liegt im fruchtbaren Sinú-Tal und ist weltweit als die Welthauptstadt der Baumwolle bekannt. Die Stadt ist ein leuchtendes Beispiel für landwirtschaftliche Produktivität in der Karibikregion, geprägt durch moderne Anbautechniken und fruchtbare Schwemmlandböden. Kulturell ist Cereté eng mit dem Porro-Rhythmus verbunden, was sich im alljährlichen Festival der Frauen-Porro-Gruppen widerspiegelt. Die Stadt hat eine dynamische Entwicklung erlebt und dient heute als wichtiges Handels- und Dienstleistungszentrum für die umliegenden Agrargebiete. Cereté verbindet seine wirtschaftliche Stärke im primären Sektor mit einer lebendigen karibischen Folklore. Geographie K8 — Baumwollproduktion und landwirtschaftliche Innovation.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Der Name Cereté leitet sich von dem indigenen Begriff für den Ort der Fischerei ab.",
+        "Die Stadt liegt nur wenige Kilometer von der Departaments-Hauptstadt Montería entfernt.",
+        "Cereté beherbergt wichtige Industrien für die Verarbeitung von Getreide und Baumwollfasern.",
+        "Die Karwoche wird in Cereté mit einer besonderen Tradition von Süßspeisen-Märkten gefeiert."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "chia-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Chía, die Stadt des Mondes, liegt unmittelbar nördlich von Bogotá und hat sich von einem indigenen Muisca-Zentrum zu einem bevorzugten Wohnort der gehobenen Klasse entwickelt. Die Stadt bewahrt ihre historische Bedeutung an der Brücke Puente del Común, einem Meisterwerk der Kolonialzeit. Heute ist Chía bekannt für seine exzellente Gastronomie, insbesondere das legendäre Restaurant Andrés Carne de Res, das Besucher aus aller Welt anzieht. Das kühle Klima und die modernsten Einkaufszentren machen Chía zu einem wichtigen Wirtschaftsmotor im Umland der Hauptstadt. Trotz der Urbanisierung bleibt die Verehrung für den Mondgott in der lokalen Identität präsent. Geographie K8 — Metropolitane Expansion und Lebensstil im Umland von Bogotá.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Chía war in der Muisca-Kultur der Sitz des Hohepriesters für die Mondanbetung.",
+        "Die Puente del Común wurde 1792 erbaut, um die Kommunikation zwischen Bogotá und dem Norden zu erleichtern.",
+        "Die Stadt beherbergt mehrere renommierte Universitäten und private Bildungseinrichtungen.",
+        "In Chía befinden sich zahlreiche traditionelle Restaurants, die auf Fleischgerichte spezialisiert sind."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "aguachica-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Aguachica ist die zweitwichtigste Stadt im Departamento Cesar und dient als strategisches Tor zwischen der Karibikküste und dem Inneren Kolumbiens. Die Stadt liegt verkehrsgünstig an der Ruta del Sol und ist ein bedeutendes Handelszentrum für landwirtschaftliche Produkte wie Palmöl, Reis und Baumwolle. Aguachica zeichnet sich durch eine dynamische Wirtschaft und eine multikulturelle Bevölkerung aus, die durch die zentrale Lage geprägt ist. Ein besonderes Naturwunder in der Nähe ist der El Agual-Wald, eine grüne Oase mit reicher Flora und Fauna. Die Stadt verbindet den rauen Charme einer Handelsstadt mit der Gastfreundschaft des kolumbianischen Nordostens. Geographie K8 — Verkehrsknotenpunkte und Agrarhandel im Nordosten.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Aguachica wurde 1748 gegründet und entwickelte sich durch den Bau der Eisenbahn rasant.",
+        "Die Stadt ist ein wichtiger Standort für die Lebensmittelindustrie in der Region.",
+        "In Aguachica befindet sich ein Campus der Universität Popular del Cesar.",
+        "Das Klima ist tropisch heiß mit einer ausgeprägten Trockenzeit von Dezember bis März."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "sabanalarga-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Sabanalarga liegt im Herzen des Departamentos Atlántico und ist als die Stadt der Intelligenz bekannt, was auf ihre lange Tradition in der Bildung zurückzuführen ist. Die Stadt ist ein bedeutendes Zentrum für die Viehzucht und die Landwirtschaft im Norden Kolumbiens. Alljährlich findet hier eine der wichtigsten Viehmessen des Landes statt, die Experten und Händler aus der gesamten Karibikregion anzieht. Sabanalarga zeichnet sich durch seine lebendige Folklore und die tief verwurzelten Traditionen des karibischen Tieflandes aus. Die strategische Lage zwischen Barranquilla und Cartagena macht sie zu einem wichtigen Handels- und Verkehrsknotenpunkt. Geographie K8 — Viehzucht und regionale Identität im Atlántico.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Sabanalarga wurde 1619 gegründet und hieß ursprünglich San Antonio de Sabanalarga.",
+        "Die Stadt ist berühmt für ihre religiösen Prozessionen während der Karwoche.",
+        "Sabanalarga besitzt eine der größten Konzentrationen von Schulen und Bildungseinrichtungen in der Region.",
+        "Die lokale Gastronomie ist bekannt für handgefertigten Käse und Molkereiprodukte."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "caucasia-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Caucasia liegt am Ufer des Rio Cauca im Norden von Antioquia und ist als die Hauptstadt von Bajo Cauca bekannt. Die Stadt ist ein blühendes Zentrum für den Goldbergbau und die Viehwirtschaft, was ihr eine dynamische und manchmal raue Pionieratmosphäre verleiht. Aufgrund ihrer strategischen Lage an der Straße zwischen Medellín und der Karibikküste ist Caucasia ein unverzichtbarer Handelsposten. Das tropische Klima und die Nähe zum Fluss prägen den Alltag und die Kultur der Bewohner. In den letzten Jahren hat sich Caucasia zu einem wichtigen Dienstleistungszentrum für die gesamte Bergbauregion entwickelt. Geographie K7 — Goldgewinnung und Handelszentren am Rio Cauca.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Caucasia ist flächenmäßig eine der größten Gemeinden im Departamento Antioquia.",
+        "Die Stadt ist bekannt für ihre großen Viehmärkte und die Fleischproduktion.",
+        "In Caucasia wurde ein wichtiger Flusshafen für den Güterverkehr auf dem Rio Cauca entwickelt.",
+        "Die Region ist berühmt für das Festival del Retorno, das die Heimkehr ehemaliger Bewohner feiert."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "santa-cruz-de-lorica-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Santa Cruz de Lorica ist eine architektonische Perle am Ufer des Sinú-Flusses und gehört zum nationalen Kulturerbe Kolumbiens. Die Stadt ist berühmt für ihren monumentalen Marktplatz und Gebäude mit starken arabischen Einflüssen, die auf syrisch-libanesische Einwanderer zurückgehen. Lorica war im frühen 20. Jahrhundert ein blühendes Handelszentrum, was sich in der prachtvollen Architektur widerspiegelt. Die Stadt ist zudem für ihre köstliche Gastronomie bekannt, in der sich karibische, indigene und nahöstliche Aromen vermischen. Besucher schätzen den Charme der Flusslandschaft und das Gefühl, in die goldene Ära des Sinú-Handels einzutauchen. Geschichte K7 — Arabische Einwanderung und koloniale Architektur am Sinú.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Lorica wird oft als die antike und stolze Stadt bezeichnet.",
+        "Der öffentliche Markt am Flussufer wurde zum Nationaldenkmal erklärt.",
+        "In Lorica wurde der berühmte kolumbianische Schriftsteller Manuel Zapata Olivella geboren.",
+        "Die Stadt bildet das Tor zu den umliegenden Sumpfgebieten der Ciénaga Grande de Lorica."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "tierralta-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Tierralta liegt im Süden des Departamentos Córdoba und ist das Tor zum beeindruckenden Nationalpark Paramillo. Die Stadt ist eng mit dem Urrá-Wasserkraftwerk verbunden, einem der wichtigsten Energieprojekte im Norden Kolumbiens. Tierralta ist geprägt von einer enormen Biodiversität und weiten Dschungelgebieten, die die Ausläufer des Paramillo-Massivs bedecken. Die Region beherbergt zudem bedeutende indigene Gemeinschaften der Emberá-Katío, deren Kultur den Schutz des Regenwaldes in den Fokus rückt. In den letzten Jahren hat sich die Stadt zunehmend zu einem Zentrum für Naturschutz und ökotouristische Forschung entwickelt. Geographie K7 — Wasserkraft und Biodiversität im Paramillo-Massiv.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Tierralta ist die flächenmäßig größte Gemeinde im Departamento Córdoba.",
+        "Die Talsperre Urrá I liefert einen bedeutenden Teil der Elektrizität für die kolumbianische Karibik.",
+        "Der Nationalpark Paramillo beherbergt bedrohte Arten wie den Jaguar und den Brillenbären.",
+        "Tierralta war ein historisches Zentrum für den Schutz und die Verhandlung mit indigenen Gruppen."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "apartado-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Apartadó ist das unbestrittene wirtschaftliche Zentrum der Urabá-Region und wird als die Bananenhauptstadt Kolumbiens bezeichnet. Die Stadt hat in den letzten Jahrzehnten ein explosives Wachstum erlebt, angetrieben durch den Export von Bananen in die ganze Welt. Das Klima ist feucht-tropisch, was ideale Bedingungen für die riesigen Plantagen schafft, die das Stadtbild umgeben. Apartadó ist eine junge, dynamische Stadt mit einer multikulturellen Bevölkerung, die aus allen Teilen Kolumbiens hierhergekommen ist. Die strategische Lage am Golf von Urabá macht sie zudem zu einem zukünftigen logistischen Knotenpunkt für den Welthandel. Geographie K7 — Bananenexport und Hafenentwicklung in Urabá.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Apartadó ist eine der am schnellsten wachsenden Städte Kolumbiens im 21. Jahrhundert.",
+        "Die Region Urabá ist für fast 70 Prozent des kolumbianischen Bananenexports verantwortlich.",
+        "Der Name Apartadó stammt aus der indigenen Sprache Katío und bedeutet Fluss der Bananen.",
+        "Die Stadt beherbergt moderne Sportanlagen und ist ein Zentrum für die Leichtathletik im Land."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "turbo-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Turbo liegt am malerischen Golf von Urabá und ist ein bedeutender Seehafen an der Karibikküste. Die Stadt ist ein wichtiger Ausgangspunkt für Reisende, die die unberührten Strände des Darién-Dschungels oder die Nachbarregion Chocó besuchen möchten. Turbo ist geprägt von einer lebendigen afro-kolumbianischen Kultur und einer geschäftigen Hafenatmosphäre. Die Wirtschaft basiert auf dem Export von Bananen und dem regionalen Handel mit landwirtschaftlichen Gütern. Trotz der geografischen Abgeschiedenheit spielt Turbo eine Schlüsselrolle bei der Integration der kolumbianischen Pazifik- und Karibikregionen. Geographie K7 — Seeverkehr und Integration der Golfregion.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Turbo wurde 1840 gegründet und hieß ursprünglich Pisisí.",
+        "Die Stadt ist ein wichtiger Punkt für den Transit zwischen Kolumbien und Panama.",
+        "Turbo beherbergt das Naturreservat Los Katíos, das zum UNESCO-Weltnaturerbe gehört.",
+        "Der Karneval von Turbo ist eines der wichtigsten kulturellen Ereignisse in der Urabá-Region."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  },
+  {
+    "id": "ipiales-cities-v2",
+    "descriptionAdvanced": {
+      "de": "Ipiales liegt im äußersten Süden Kolumbiens direkt an der Grenze zu Ecuador und ist bekannt als die Stadt der drei Wolken. Das unbestrittene Wahrzeichen der Region ist die spektakuläre Basilika von Las Lajas, die majestätisch in eine tiefe Flussschlucht gebaut wurde. Die Stadt ist ein pulsierendes Handelszentrum, in dem der grenzüberschreitende Verkehr das tägliche Leben und die Wirtschaft bestimmt. Ipiales liegt auf über 2.900 Metern Höhe und bietet atemberaubende Ausblicke auf die Vulkane der Anden. Die Kultur ist geprägt von einer Mischung aus kolumbianischen und ecuadorianischen Einflüssen, die sich in der Gastronomie und Musik zeigen. Geographie K8 — Grenzhandel und religiöse Architektur im Hochgebirge.",
+      "hu": "",
+      "ro": "",
+      "en": ""
+    },
+    "factsAdvanced": {
+      "de": [
+        "Die Basilika von Las Lajas wird oft als das schönste Heiligtum der Welt bezeichnet.",
+        "Ipiales ist der wichtigste Landgrenzübergang zwischen Kolumbien und Ecuador über die Rumichaca-Brücke.",
+        "In Ipiales findet jährlich der Karneval der Schwarzen und Weißen in einer regionalen Variante statt.",
+        "Die Gastronomie der Stadt ist berühmt für das Cuy (gebratenes Meerschweinchen), eine andine Spezialität."
+      ],
+      "hu": [],
+      "ro": [],
+      "en": []
+    }
+  }
+]

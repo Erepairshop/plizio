@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amilcar-cabral-house-history-v2",
+      "descriptionAdvanced": "Casa natală a lui Amílcar Cabral din orașul Bafatá este probabil cel mai important sit memorial secular din Guineea-Bissau. Aici, în 1924, s-a născut cel care avea să devină unul dintre cei mai mari intelectuali și luptători pentru independență din Africa. Clădirea, o structură simplă cu arhitectură colonială vopsită în alb, a fost recent transformată într-un muzeu-boutique care documentează viața sa, de la studiile de agronomie la Lisabona până la fondarea PAIGC și organizarea războiului de gherilă care a învins imperiul portughez. Cabral a fost asasinat în 1973 în Guineea (Conakry), cu doar câteva luni înainte de declararea independenței, transformând această casă într-un loc de pelerinaj național și internațional pentru mișcările pan-africane. Istorie K8 — biografiile liderilor eliberatori.",
+      "factsAdvanced": [
+        "Locul nașterii lui Amílcar Cabral, pe 12 septembrie 1924.",
+        "Funcționează ca un muzeu memorial dedicat tinereții și activității sale.",
+        "Cabral a fondat Partidul African pentru Independența Guineei și Capului Verde (PAIGC).",
+        "Găzduiește fotografii de arhivă, scrieri originale și obiecte personale.",
+        "Păstrează arhitectura tipică rezidențială luso-africană din anii '20.",
+        "Este vizitată de lideri de stat și activiști pan-africani din toată lumea."
+      ]
+    },
+    {
+      "id": "bolama-governor-palace-history-v2",
+      "descriptionAdvanced": "Fostul Palat al Guvernatorului din Bolama este cel mai evocator și melancolic monument al arhitecturii coloniale portugheze din Africa de Vest. Construit la sfârșitul secolului al XIX-lea, când insula Bolama era capitala administrativă opulentă a Guineei Portugheze, clădirea uimea prin coloanele sale neo-clasice, grădinile exotice și o statuie impunătoare dedicată președintelui american Ulysses S. Grant. După mutarea capitalei la Bissau în 1941, din pricina problemelor legate de aprovizionarea cu apă, palatul a fost abandonat. Astăzi, lianele și rădăcinile de smochin strangulator fisurează fațadele prăbușite, transformând situl într-o spectaculoasă 'ruină vie', un paradis pentru fotografi care ilustrează zădărnicia și decăderea ambițiilor imperiale pe continentul african. Istorie K7 — decăderea imperiilor coloniale.",
+      "factsAdvanced": [
+        "A servit drept reședință oficială a guvernatorului colonial până în 1941.",
+        "Proiectat cu coloane masive inspirate din arhitectura neo-clasică europeană.",
+        "Includerea statuii lui Ulysses Grant onora arbitrajul său în favoarea Portugaliei (1870).",
+        "Părăsit brusc după transferul capitalei, a fost rapid acaparat de junglă.",
+        "Acoperișul principal s-a prăbușit complet, permițând copacilor să crească în interior.",
+        "Este considerat un simbol vizual iconic al efemerității puterii europene în Africa."
+      ]
+    },
+    {
+      "id": "madina-boe-site-history-v2",
+      "descriptionAdvanced": "Situl Istoric al Independenței de la Madina do Boé reprezintă 'Betleemul' politic al națiunii. În adâncul dealurilor estice, într-o tabără ascunsă a gherilelor, pe 24 septembrie 1973, Adunarea Națională a Poporului a declarat unilateral formarea statului suveran Guineea-Bissau. A fost un act de sfidare masivă; în timp ce armata portugheză controla spațiul aerian și orașele principale, forțele PAIGC au invitat jurnaliști străini în această poiană din savană pentru a transmite mesajul către ONU. Astăzi, locul este marcat de un monument comemorativ modest din beton, în culorile naționale, stând izolat în mijlocul unui peisaj uscat. Deși greu accesibil din cauza drumurilor neasfaltate, rămâne altarul suprem al suveranității de stat. Istorie K8 — războiul de gherilă și ONU.",
+      "factsAdvanced": [
+        "Locul unde a fost citită proclamația de independență pe 24 septembrie 1973.",
+        "Momentul a dus la recunoașterea imediată a statului de către 93 de țări.",
+        "Ales strategic datorită reliefului stâncos care bloca tancurile inamice.",
+        "A servit ca primă capitală oficială a țării pentru doar câteva luni.",
+        "Situl dispune doar de un obelisc memorial simplu și plăci comemorative.",
+        "A fost vizitat în secret de corespondenți de război internaționali în 1973."
+      ]
+    },
+    {
+      "id": "guiledje-military-museum-history-v2",
+      "descriptionAdvanced": "Muzeul Militar Guiledje este un spațiu curatorial excepțional amenajat exact pe situl unei foste baze militare portugheze capturate în mai 1973. Căderea fortului Guiledje a reprezentat un șoc masiv pentru moralul armatei coloniale, fiind momentul în care luptătorii PAIGC au utilizat pentru prima dată rachete anti-aeriene Strela-2 furnizate de URSS, anulând supremația aeriană portugheză. Astăzi, tranșeele originale au fost curățate, iar tancurile și transportoarele blindate ruginite lăsate în urmă de soldații care au fugit sunt expuse în aer liber. Muzeul este gestionat parțial de veterani de război, care ghidează vizitatorii printre exponatele de artilerie, explicând tacticile de gherilă adaptate mediului tropical. Istorie K8 — tehnica și tacticile Războiului Rece.",
+      "factsAdvanced": [
+        "Amplasat direct în fosta bază portugheză recuperată de forțele PAIGC.",
+        "Bătălia de aici a anulat supremația forțelor aeriene portugheze (mai 1973).",
+        "Colecția include carcase de blindate Panhard și tancuri rusești T-34 ruginite.",
+        "Păstrează urmele fizice ale craterelor de bombe și liniilor de tranșee.",
+        "Este deservit de ghizi care sunt, în multe cazuri, chiar veterani ai conflictului.",
+        "Primul loc din țară unde rachetele sol-aer portabile au fost utilizate cu succes."
+      ]
+    },
+    {
+      "id": "cacheu-historic-center-history-v2",
+      "descriptionAdvanced": "Centrul Istoric din Cacheu funcționează ca un imens arhivor fizic al unei istorii întunecate, fondat de negustorii luso-africani în secolul al XVI-lea. Spre deosebire de Bissau, Cacheu își arată vârsta: străzi pavate cu piatră cubică decolorată, case vechi luso-sudaneze din chirpici și curți centrale închise (feitorias) folosite inițial pentru concentrarea prizonierilor înainte de îmbarcarea pe vasele de sclavi. Guvernul, sprijinit de UNESCO și ONG-uri europene, a inițiat conservarea anumitor tronsoane, fondând un Muzeu Memorial al Sclaviei extrem de emoționant chiar în inima orașului vechi. Aici se explorează impactul cultural al miilor de oameni smulși de pe aceste țărmuri, a căror moștenire trăiește astăzi în limbile și religiile afro-braziliene și din Caraibe. Istorie K8 — memoria globală a sclaviei.",
+      "factsAdvanced": [
+        "Este una dintre cele mai vechi așezări cu arhitectură colonială din regiune (din 1588).",
+        "Clădirile vechi tip 'feitorias' erau complexe masive care includeau temnițe de tranzit.",
+        "Găzduiește recentul 'Memorial al Sclaviei' dedicat victimelor comerțului atlantic.",
+        "O stradă istorică principală face legătura directă între vechea piață și fortăreață.",
+        "Arhitectura amestecă tehnicile europene cu materialele și acoperișurile africane.",
+        "Programul de conservare colaborează cu instituții istorice din Brazilia și Portugalia."
+      ]
+    },
+    {
+      "id": "kansala-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele din Kansalá sunt un sit arheologic misterios din regiunea Gabú, învăluit în legendele epopeii orale vest-africane. Kansalá a fost ultima capitală măreață a Imperiului Kaabu (un stat formidabil Mandinka desprins din Imperiul Mali), faimos pentru zidurile sale uriașe din pământ bătătorit și războinicii săi călări. În 1867, orașul a fost supus unui asediu nimicitor de către armatele Fula conduse de Alfa Molo. Legenda spune că, pentru a evita umilința capturării, liderul Mansa Dianké Walli a ordonat detonarea arsenalelor de praf de pușcă ale orașului, distrugând capitala și ucigându-i apărătorii alături de atacatori. Astăzi, doar movile vaste de pământ roșu mai marchează gloria fostului imperiu pre-colonial. Istorie K7 — imperiile vest-africane și tradiția orală.",
+      "factsAdvanced": [
+        "A fost ultima capitală fortificată a puternicului Imperiu Kaabu.",
+        "Complet distrusă în Bătălia de la Kansalá din 1867 împotriva invadatorilor Fula.",
+        "Legenda epică afirmă că liderul a preferat autodistrugerea în masă în loc de captivitate.",
+        "Astăzi este redusă la coline extinse de laterit și fundații îngropate de vegetație.",
+        "Un loc de pelerinaj frecvent pentru povestitorii tradiționali (griots) Mandinka.",
+        "Situația sa arheologică necesită excavări amănunțite, fiind masiv neexplorată oficial."
+      ]
+    },
+    {
+      "id": "porto-gole-history-v2",
+      "descriptionAdvanced": "Porto Gole este o așezare istorică pierdută printre mangrovele estuarului Geba, care a jucat un rol obscur dar crucial în consolidarea controlului colonial portughez în secolul al XIX-lea. Locul a fost fortificat pentru a servi drept bază navală avansată în campaniile de 'pacificare' (supunere) împotriva regatelor rebele indigene, precum cele ale poporului Balanta. Structurile rămase includ ziduri de reținere masive construite din piatră pentru a rezista valurilor puternice de maree, o veche garnizoană și urmele șinelor de cale ferată îngustă pe unde se trăgeau cărucioarele cu muniție și provizii de pe barje. Astăzi, Porto Gole a fost asimilat de fermierii de coastă, iar clădirile sale sunt acoperite treptat de orezării și palmieri. Istorie K6 — infrastructura militară fluvială.",
+      "factsAdvanced": [
+        "Fost avanpost naval cheie pentru campaniile de suprimare conduse de Teixeira Pinto (1913-15).",
+        "Amplasat strategic pe estuarul superior al râului Geba pentru acces intern rapid.",
+        "Baza sa logistică aproviziona garnizoanele din Mansôa și Bafatá.",
+        "Prezintă ruinele unei șine decauville (cale ferată îngustă manuală) rar întâlnite aici.",
+        "A intrat în declin total odată cu motorizarea vehiculelor terestre în anii 1930.",
+        "Terenul de aterizare original pentru bărcile cu vâsle a fost transformat în câmp de orez."
+      ]
+    },
+    {
+      "id": "bissau-old-port-history-v2",
+      "descriptionAdvanced": "Vechiul Port din Bissau (Porto Velho) formează fațada istorică a capitalei către apele Atlanticului. În spatele docurilor moderne de transport comercial, această enclavă pietruită își păstrează șarmul decrepit, cu depozite de mărfuri din anii 1920 (cunoscute ca 'Armazéns') care au uși uriașe din lemn de mahon sculptat și ornamente din fier forjat aduse de la Lisabona. În fața lor acostează ambarcațiuni colorate ale pescarilor și feriboturile șubrezite care leagă capitala de arhipelagul Bijagós. Portul Vechi este punctul de unde pleacă exploratorii moderni și centrul vieții nocturne improvizate: zeci de femei prăjesc aici noaptea fructe de mare pe grătare cu cărbune. Această zonă a fost de asemenea teatrul declanșator al revoltelor anti-coloniale prin celebrul masacru al docherilor. Istorie K6 — patrimoniu arhitectural comercial.",
+      "factsAdvanced": [
+        "Construit de companiile comerciale lusitane la începutul secolului XX.",
+        "Găzduiește depozite cu porți masive (armazéns) unde se stoca uleiul și arahidele.",
+        "Locația exactă a primelor revolte sindicale majore (Masacrul din Pidjiguiti).",
+        "Funcționează azi ca port de pasageri pentru cursele către insulele Bijagós.",
+        "A păstrat pavajul original din piatră cubică neagră (calçada portuguesa).",
+        "Clădirile istorice adiacente servesc adesea ca ateliere pentru repararea plaselor."
+      ]
+    },
+    {
+      "id": "mansoa-mission-history-v2",
+      "descriptionAdvanced": "Misiunea Catolică din Mansôa, stabilită oficial în inima zonei centrale în 1946 de misionarii franciscani italieni, reprezintă o piatră de hotar în dezvoltarea educațională a țării. Într-o perioadă în care guvernul colonial refuza sistematic accesul africanilor la educație superioară, Misiunea a ridicat primele școli tehnice și clinici moderne. Arhitectura complexului este unică, împletind rigoarea italiană a cărămizilor aparente cu ventilația deschisă specifică clădirilor tropicale. Mulți dintre viitorii lideri post-independență au primit educația de bază aici, creând un respect profund la nivel național pentru această instituție. Chiar și în zilele noastre, atelierele de tâmplărie și lăcătușerie ale misiunii furnizează meseriași calificați pentru întreaga regiune Oio. Educație K7 — rolul bisericii în alfabetizarea colonială.",
+      "factsAdvanced": [
+        "A fost inaugurată în anul 1946 de către o echipă de călugări franciscani din Italia.",
+        "A oferit educație primară mii de tineri africani excluși din școlile de stat.",
+        "Include o biserică masivă din cărămidă aparentă (fără tencuială) foarte rară în zonă.",
+        "Atelierele vocaționale au instruit primele generații de electricieni și mecanici autohtoni.",
+        "Misiunea a funcționat adesea ca sanctuar neutru în timpul conflictelor armate locale.",
+        "Susține în continuare un internat activ pentru copiii din satele complet izolate."
+      ]
+    },
+    {
+      "id": "canchungo-historic-site-history-v2",
+      "descriptionAdvanced": "Situl istoric al orașului Canchungo (denumit anterior Teixeira Pinto) este un fel de tablou înghețat în anii 1940. Acest oraș nordic a fost un imens post administrativ colonial portughez, destinat controlului asupra bogatului regat Manjaco din vecinătate. Centrul istoric cuprinde zeci de clădiri rezidențiale de epocă, cu verande largi susținute de coloane groase din zidărie, concepute pentru a crea umbră, și acoperișuri de țiglă iberică roșie. În mod ironic, multe dintre aceste vile masive, care au aparținut negustorilor de arahide, au fost preluate după 1974 de administrația noului stat, dar, din lipsa fondurilor pentru întreținere, astăzi prezintă un amestec de eleganță desuetă și decrepitudine. Un fost cinematograf de epocă tronează prăbușit parțial pe strada principală. Arhitectură K6 — vilele coloniale și planificarea urbană.",
+      "factsAdvanced": [
+        "A primit numele de Teixeira Pinto până în anul 1974, în onoarea ofițerului portughez.",
+        "Centrul său este marcat de vile mari cu verande acoperite (arquitetura de varanda).",
+        "A fost nodul principal al comerțului cu direcția nord spre Casamance.",
+        "Găzduiește un cinematograf colonial istoric, acum o ruină structurală deschisă.",
+        "Biserica veche, situată în piața principală, are un turn clopotniță masiv.",
+        "Multe case administrative păstrează panouri de faianță azulejo deteriorată."
+      ]
+    },
+    {
+      "id": "bafata-colonial-quarter-history-v2",
+      "descriptionAdvanced": "Cartierul Colonial din Bafatá impresionează prin armonia și starea sa relativă de conservare, fiind considerat cel mai frumos centru istoric din interiorul continentului guineean. Construit pe o pantă lină ce coboară pitoresc spre râul Geba, cartierul oferă străduțe aliniate, flancate de case cu un nivel, acoperite cu țiglă arsă și vopsite în tonuri de alb, ocru și galben spălăcit. Elementul definitoriu este amestecul vizual: fațadele de influență mediteraneană se combină cu balcoane din fier forjat elaborate și, adesea, cu detalii geometrice adăugate ulterior de comunitatea arabă libaneză și siriană, care a controlat istoric comerțul angro de aici. Piața veche funcționa ca punct de legătură pentru zecile de corăbii fluviale sosite de la Bissau. Arhitectură K7 — influențe levantine și iberice.",
+      "factsAdvanced": [
+        "Așezat pe o pantă dominantă care oferă o panoramă spectaculoasă asupra Râului Geba.",
+        "Integrează puternice influențe arhitecturale aduse de comercianții imigranți siriano-libanezi.",
+        "Multe clădiri păstrează balcoanele din fier forjat fin lucrate în Portugalia.",
+        "Fațadele sunt vopsite tradițional în culori pastelate, protejate de soarele puternic.",
+        "Vechea piață a orașului era direct legată de docul pentru ambarcațiunile fluviale cu vele.",
+        "Este considerat nucleul intelectual și cultural al Guineei de est."
+      ]
+    },
+    {
+      "id": "farim-historic-town-history-v2",
+      "descriptionAdvanced": "Orașul istoric Farim s-a născut ca o fortăreață luso-africană (presídio) pe malul nordic al fluviului Cacheu în anul 1641. Având rolul de a stopa expansiunea triburilor nordice și de a garanta un traseu sigur pentru negustori, orașul a evoluat lent. Ceea ce diferențiază Farim de alte așezări istorice este vechea sa piață fortificată, structurată sub forma unui patrulater masiv unde rulotele de negustori își puteau adăposti mărfurile pe timp de noapte împotriva raidurilor. Resturile zidurilor perimetrale și structura clădirilor de vameși din secolul al XIX-lea, construite din pământ roșu compactat, amintesc de epoca brutală în care arahidele și ceara de albine erau cele mai dorite bunuri din regiune. Astăzi, vechiul centru pare abandonat, așteptând noi investiții. Istorie K7 — comerțul fortificat.",
+      "factsAdvanced": [
+        "Fondat inițial în 1641 ca un 'presídio' (garnizoană militară) luso-african.",
+        "Proiectat cu piețe comerciale fortificate pentru a proteja bunurile de atacuri nocturne.",
+        "Controla fluxul mărfurilor (ceară, piei, sclavi) dinspre regiunea sudică a Senegalului.",
+        "O stradă principală liniară face legătura direct din port până la fosta poartă nordică.",
+        "Pereții construcțiilor mai vechi folosesc chirpici acoperit cu un strat subțire de ciment.",
+        "Este izolat vizual de râul Cacheu printr-un mal natural abrupt de peste 5 metri."
+      ]
+    },
+    {
+      "id": "fulacunda-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele coloniale de la Fulacunda, situate adânc în savana densă a regiunii Quinara, stau ca martori tăcuți ai asprimei campaniilor de subjugare din prima jumătate a secolului XX. Odată un post guvernamental și sediu al giganticei companii monopoliste Casa Gouveia, orașul s-a aflat în inima luptelor feroce în timpul revoltelor indigene. Ceea ce rămâne astăzi este un peisaj aproape suprarealist: fundații masive din ciment, postamente de la vechi piloni de radiocomunicații și resturile unei baze logistice, toate sugrumate încet de rădăcinile uriașe ale copacilor poilão (Kapok). Aceste ruine oferă arheologilor industriali moderni o perspectivă rară asupra modului în care inginerii portughezi încercau să sfideze umiditatea și insectele tropicale prin betoane masive, în cele din urmă în zadar. Fizică K6 — degradarea cimentului în mediu tropical.",
+      "factsAdvanced": [
+        "Fost sediu major pentru sucursala companiei comerciale masive 'Casa Gouveia'.",
+        "A funcționat ca post militar avansat împotriva triburilor Beafada până în anii '40.",
+        "Ruinele de ciment ale fostei baze de telecomunicații radio sunt vizibile și azi.",
+        "Vegetația extrem de agresivă (arbori Kapok) despică blocurile masive de beton.",
+        "Se pot distinge urmele fostelor depozite cu pereți ventilați pentru depozitarea alimentelor.",
+        "Multe clădiri au fost distruse intenționat în timpul retragerii armatei portugheze (1974)."
+      ]
+    },
+    {
+      "id": "buba-historic-port-history-v2",
+      "descriptionAdvanced": "Portul Istoric Buba, aflat la estuarul terminal al Rio Grande de Buba, are un trecut tumultuos care depășește actuala sa funcție de port pescăresc artizanal. La mijlocul anilor 1960, Marina Portugheză a ales acest estuar extrem de adânc pentru a construi o bază secretă pentru vedete torpiloare și submarine ușoare, vizând blocarea aprovizionării rebelilor PAIGC de pe apă dinspre Guineea-Conakry. Cazarmele, debarcaderele fortificate din oțel și buncărele ascunse în malurile malului persistă ca relicve ciudate ale Războiului Rece. Apele adânci care permiteau ascunderea navelor militare găzduiesc astăzi doar canoanele pescarilor, însă buncărele oferă un spațiu bizar și fascinant pentru exploratorii ruinei (urbex) și istoricii militari. Istorie K8 — baze navale din timpul Războiului Rece.",
+      "factsAdvanced": [
+        "A fost modernizat în anii '60 ca bază navală secretă a marinei portugheze.",
+        "Estuarul extrem de adânc permitea ancorarea vaselor de patrulare și vedetelor militare.",
+        "Există și astăzi scheletele docurilor flotante din oțel nituit.",
+        "Buncăre și depozite subterane de muniție sunt săpate direct în malurile stâncoase.",
+        "Baza avea rolul de a tăia liniile de aprovizionare ale rebelilor (Corredor de Guiledje).",
+        "După independență, baza a fost jefuită de fier vechi și abandonată total."
+      ]
+    },
+    {
+      "id": "catio-historical-center-history-v2",
+      "descriptionAdvanced": "Centrul Istoric al orașului Catió, deși lovit de decenii de sărăcie cruntă și lipsa investițiilor, se distinge prin geometria sa urbană impecabilă, o moștenire a planificării stricte militare (Plano de Urbanização) impuse de administrația portugheză. Străzile perfect drepte se intersectează în unghiuri de 90 de grade, un contrast șocant cu satele organice (tabancas) din împrejurimi. Clădirile administrative au fost proiectate ca un fort liniar. Cu toate acestea, în timpul ultimelor etape ale Războiului Colonial (1973-1974), Catió a fost un oraș sub asediu total, aprovizionat exclusiv cu elicoptere și avioane de pe mica sa pistă. Zidurile multor clădiri, inclusiv spitalul vechi, păstrează urme neastupate de gloanțe și șrapnel, slujind ca o cicatrice istorică pe viu. Arhitectură K7 — planificare urbană în zone de conflict.",
+      "factsAdvanced": [
+        "Prezintă o rețea de străzi în formă de grilă perfectă (grid plan), foarte rară în sud.",
+        "A fost asediat neîntrerupt de forțele PAIGC în ultimii doi ani de război.",
+        "Aprovizionarea populației din Catió s-a realizat exclusiv pe cale aeriană (1973-74).",
+        "Clădirea vechiului guvernământ păstrează zeci de urme profunde de gloanțe și mortiere.",
+        "Spitalul istoric și clădirea poștei sunt exemple clasice de arhitectură de utilitate colonială.",
+        "Pista de aterizare din pământ bătătorit a fost esențială pentru salvarea militarilor răniți."
+      ]
+    },
+    {
+      "id": "lino-correia-stadium-landmarks-v2",
+      "descriptionAdvanced": "Estádio Lino Correia este unul dintre reperele sportive vibrante din centrul capitalei Bissau, funcționând ca a doua arenă fotbalistică a țării. Deși mai mic decât Stadionul Național, Lino Correia compensează prin apropierea de inima orașului, ceea ce face ca meciurile disputate aici să electrizeze cartierele din jur. Cu o capacitate limitată de scaune și cu gradene simple din beton turnat, stadionul este frecvent supraaglomerat de suporterii fanatici ai echipelor locale de top, cum ar fi Sporting Clube de Bissau și Benfica de Bissau. Pe lângă fotbal, a găzduit mitinguri politice cruciale în momente de cumpănă națională și concerte muzicale uriașe (Gumbe). Lipsa iluminării moderne la standarde internaționale și a gazonului perfect nu diminuează pasiunea cu care tineretul trăiește sportul. Sociologie K6 — sportul ca liant comunitar.",
+      "factsAdvanced": [
+        "Are o capacitate oficială de aproximativ 12.000 de spectatori pe gradene de beton.",
+        "Amplasat chiar în inima dens populată a capitalei Bissau.",
+        "A fost numit în onoarea unui ofițer militar proeminent al națiunii independente.",
+        "Servește ca 'acasă' pentru mai multe cluburi din prima ligă națională de fotbal.",
+        "Gazonul este adesea o suprafață sintetică veche sau un amestec neregulat de iarbă și pământ.",
+        "Găzduiește ocazional mari festivaluri muzicale care promovează stilul național 'Gumbe'."
+      ]
+    },
+    {
+      "id": "presidential-palace-bissau-landmarks-v2",
+      "descriptionAdvanced": "Palatul Prezidențial (Palácio Presidencial) din Bissau a fost, fără îndoială, cea mai grandioasă și impunătoare clădire din istoria țării. Situat la capătul unui bulevard vast care privește spre apă, această megastructură masivă în formă de „U”, inspirată de neoclasicismul monumental al anilor 1950, găzduia birourile liderului statului și principalele recepții diplomatice. Destinul palatului s-a schimbat dramatic și tragic în timpul Războiului Civil din 1998, când luptele sângeroase de stradă l-au lăsat carbonizat, fără acoperiș și grav avariat de artilerie. Timp de peste un deceniu, ruina gigantică a palatului a dominat centrul capitalei ca o cicatrice vizuală. De curând, cu ajutor financiar substanțial din partea Chinei, Palatul a fost complet reconstruit și restaurat, recăpătându-și strălucirea albă imaculată. Istorie K8 — războaie civile și reconstrucția de stat.",
+      "factsAdvanced": [
+        "Situl său se bucură de o fațadă panoramică directă spre estuarul larg al Râului Geba.",
+        "Proiectat inițial în stil neoclasic impunător în era guvernatorilor portughezi (1950).",
+        "A fost bombardat și complet incendiat în timpul devastatorului Război Civil din 1998.",
+        "Ruina palatului a devenit un simbol vizual al prăbușirii statului guineean timp de un deceniu.",
+        "Reconstrucția sa modernă a fost sponsorizată și executată de ingineri din R.P. Chineză.",
+        "Zona din fața palatului este sever protejată militar și interzisă fotografiilor neautorizate."
+      ]
+    },
+    {
+      "id": "colinas-de-boe-palace-landmarks-v2",
+      "descriptionAdvanced": "Palatul Național al Națiunilor (Palácio Colinas de Boé) este o minune arhitecturală contemporană situată în cartierele mai noi, periferice ale Bissau-ului, având un rol esențial: găzduiește Parlamentul Guineei-Bissau (Adunarea Națională Populară). Clădirea masivă a fost o donație integrală din partea guvernului chinez la începutul anilor 2000, fiind construită din beton prefabricat, marmură lustruită și oțel, reflectând stilul strict, geometric asiatic de stat. Contrastul dintre această structură mamut imaculată, cu aer condiționat și parcări vaste, și străzile adesea prafuite și lipsite de canalizare ale Bissau-ului este evident pentru orice vizitator. Palatul poartă numele dealurilor Boé, onorând locul unde s-a proclamat prima dată independența, unind simbolic istoria gherilelor cu viitorul birocratic. Geografie K7 — asistența pentru dezvoltare sino-africană.",
+      "factsAdvanced": [
+        "Găzduiește sesiunile plenare ale Adunării Naționale Populare (Parlamentul național).",
+        "Denumirea sa onorează regiunea istorică Boé unde s-a declarat independența.",
+        "Clădirea a fost proiectată, finanțată și construită exclusiv de statul chinez (2004).",
+        "Arhitectura sa este o masă liniară din sticlă verde reflexivă și fațade albe din beton.",
+        "Includerea dotărilor moderne (aer condiționat centralizat) a marcat un salt tehnologic local.",
+        "Curtea din față dispune de ample suprafețe de marmură frecvent folosite pentru mitinguri oficiale."
+      ]
+    },
+    {
+      "id": "central-market-bissau-landmarks-v2",
+      "descriptionAdvanced": "Piața Centrală (Mercado de Bandim) este inima palpabilă, haotică și vibrantă a întregii economii informale a Guineei-Bissau. Aflată pe o rețea de străzi din nordul centrului capitalei Bissau, piața nu are limite clare, întinzându-se neîncetat. Este un asalt senzorial: mirosuri puternice de pește afumat (bonga), grătare pe cărbuni, culori neon ale țesăturilor senegaleze, muzică Gumbe bubuind din boxe gigantice și vânzători de tot felul, de la maimuțe vii pentru consum la smartphone-uri. Femeile din piață, denumite 'Bideiras', controlează o imensă rețea de microfinanțare și putere socială, dictând prețurile produselor alimentare la nivel național. Funcționând fără apă curentă sau refrigerare adecvată pe o vreme ecuatorială, piața reprezintă cel mai pur exemplu al rezilienței umane africane. Sociologie K8 — economia informală și rolul femeilor.",
+      "factsAdvanced": [
+        "Cea mai mare și importantă piață agrară și comercială (Mercado de Bandim) din țară.",
+        "Reprezintă peste 60% din comerțul zilnic total neimpozitat al capitalei.",
+        "Comerciantele feminine (cunoscute ca 'bideiras') dețin puterea absolută de negociere aici.",
+        "Produsele se vând de la nivelul solului direct pe rogojini sau standuri ruginite din tablă.",
+        "Sunt comercializate masiv leacuri tradiționale, rădăcini, fructe de palmier și piei de animale.",
+        "Aglomerarea și lipsa canalizării declanșează frecvent probleme igienice severe în sezonul ploios."
+      ]
+    },
+    {
+      "id": "bceao-building-bissau-landmarks-v2",
+      "descriptionAdvanced": "Clădirea Băncii Centrale a Statelor din Africa de Vest (BCEAO) este, de departe, cel mai sigur și bine păzit imobil modern din Bissau, un reper vizual distinct aflat în centrul administrativ. Sediul se evidențiază printr-o fațadă înaltă, geometrică, dotată cu sisteme de securitate de ultimă generație, un seif subteran și un centru imens de sateliți, operând independent de penele de curent ale capitalei. Importanța sa este monumentală: a marcat momentul oficial din 1997 când Guineea-Bissau a abandonat fosta monedă națională prăbușită (Peso-ul Guineean, ruinat de inflație uriașă) și a adoptat francul CFA, aliniindu-și astfel economia cu fostele colonii franceze vecine. Această clădire susține stabilitatea financiară a națiunii prin ancorarea la rezervele din Dakar și Paris. Economie K8 — uniuni monetare (Francul CFA) și inflație.",
+      "factsAdvanced": [
+        "Sediul național al Băncii Centrale a Statelor din Africa de Vest (francul CFA).",
+        "Clădirea deține o autonomie energetică totală printr-un parc masiv de generatoare silențioase.",
+        "Este arhitectura cu cele mai complexe protocoale de pază fizică din capitală.",
+        "Simbolizează decizia Guineei-Bissau de a abandona moneda 'Peso' în anul 1997.",
+        "Construită într-un design sever și unghiular, folosind granit și geamuri antiglonț.",
+        "Facilitează toate plățile internaționale vitale pentru salariile funcționarilor publici."
+      ]
+    },
+    {
+      "id": "simao-mendes-hospital-landmarks-v2",
+      "descriptionAdvanced": "Spitalul Național Simão Mendes este cea mai mare și importantă unitate sanitară publică din Guineea-Bissau, reprezentând adesea singura speranță pentru cazurile medicale grave (traumatisme, urgențe chirurgicale, malarie severă) care nu pot fi tratate în regiuni. Format dintr-un complex de clădiri interconectate (multe datând din epoca colonială târzie), spitalul reflectă luptele cronice ale statului: lipsa cronică de medicamente esențiale, echipamente de ventilație defecte și greve frecvente ale personalului medical neplătit luni de zile. Părți din spital au fost recent renovate prin programe caritabile internaționale, adăugându-se o nouă maternitate esențială pentru scăderea mortalității infantile uriașe a țării. În curtea sa aglomerată, familiile pacienților gătesc și dorm, asigurând îngrijirea celor dragi. Sociologie K7 — infrastructura de sănătate publică.",
+      "factsAdvanced": [
+        "A servit drept spital colonial central înainte de a fi redenumit în onoarea unui erou al PAIGC.",
+        "Este singurul spital național cu facilități chirurgicale de traumă cu program permanent.",
+        "Pacienții trebuie de obicei să își cumpere propriile seringi, medicamente și feșe de afară.",
+        "Incubatoarele și rețeaua de oxigen sunt dependente de funcționarea unui generator privat vital.",
+        "Maternitatea recent construită a fost finanțată direct prin donații ale ONG-urilor străine.",
+        "Condițiile se deteriorează catastrofal în lunile de vară din cauza epidemiilor periodice de holeră."
+      ]
+    },
+    {
+      "id": "ilheu-do-rei-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Farul de pe Ilhéu do Rei (Insulița Regelui), aflat la o scurtă călătorie cu barca în estuarul râului vizavi de portul comercial Bissau, este o structură uitată plină de melancolie. Construit de inginerii portughezi la începutul secolului XX pentru a asigura navigația prin insidioasele bancuri de noroi și curenții estuarului pe timp de noapte, a salvat zeci de vase comerciale de la scufundare. Odată cu revoluția tehnologică a navigației prin satelit (GPS) și declinul cronic al fondurilor de stat, farul a fost abandonat, iar sursa de lumină masivă s-a stins. Astăzi, pilonul subțire de fier ruginit, înalt de zeci de metri, domină mica insulă nelocuită, fiind un punct de atracție izolat, explorat uneori de turiști curajoși sau tineri care sar în apă din fosta bază a paznicului. Geografie K6 — navigația estuarină și farurile maritime.",
+      "factsAdvanced": [
+        "Turn construit dintr-un schelet metalic nituit (fără zidărie) tipic epocii industriale timpurii.",
+        "Situat pe o insuliță mică de doar câțiva zeci de metri, chiar în mijlocul estuarului Geba.",
+        "A fost esențial pentru ancorarea pe timp de noapte în Portul Bissau timp de 60 de ani.",
+        "Becul rotativ original pe bază de petrol și ulterior electric este dispărut astăzi.",
+        "Insulița în sine este neamenajată și adesea inundată de valurile extreme ale fluxului.",
+        "Reprezintă o relicvă a epocii navigației optice (vizuale) înlocuită complet de GPS."
+      ]
+    },
+    {
+      "id": "stadium-24-september-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Național 24 Septembrie (Estádio Nacional 24 de Setembro) este principala arenă sportivă și de adunare din țară, o structură masivă amplasată la periferia capitalei Bissau. Numele său evocă ziua glorioasă din 1973 când națiunea și-a declarat independența. Deși stadionul din ciment brut (fără scaune individuale de plastic în marea lor majoritate) poate arăta nefinisat conform standardelor occidentale moderne, pentru locuitori el este 'templul' echipei naționale (Djurtus - Câinii Sălbatici) în competițiile africane. Găzduirea unui meci din Cupa Africii pe Națiuni (AFCON) oprește literalmente economia capitalei. Terenul suferă frecvent de drenaj slab în timpul musonului, dar reprezintă unul dintre puținele complexe întreținute de stat. Educație K5 — sport și identitate națională.",
+      "factsAdvanced": [
+        "Arena principală a țării, cu o capacitate teoretică de până la 20.000 de locuri pe gradene.",
+        "Găzduiește meciurile oficiale ale echipei naționale de fotbal, cunoscuți ca 'Djurtus'.",
+        "Numele onorează data declarației unilaterale de independență (24 Septembrie 1973).",
+        "Pista de atletism care înconjoară terenul este din pământ și pietriș roșu, nu tartan.",
+        "A beneficiat de o serie de mici renovări de la FIFA (proiectul Goal) pentru vestiare.",
+        "Evenimentele politice gigantice și depunerile de jurământ au adesea loc în centrul terenului."
+      ]
+    },
+    {
+      "id": "french-cultural-center-bissau-landmarks-v2",
+      "descriptionAdvanced": "Centrul Cultural Franco-Guineean (Centre Culturel Franco-Bissau-Guinéen) joacă un rol inestimabil în inima intelectuală a capitalei Bissau. Într-o țară cu puține cinematografe, teatre sau săli de concerte funcționale, acest centru frumos amenajat, o oază verde de calm și aer condiționat, devine motorul cultural al societății. Dispune de o bibliotecă publică extrem de dotată, un auditoriu modern și o terasă exterioară umbrită. Institutul organizează festivaluri de film gratuit, concerte de jazz și muzică tradițională kora, dar și expoziții ale fotografilor naționali. Deși Guineea-Bissau este țară lusofonă (vorbitoare de portugheză), apropierea sa de uriașul spațiu francofon al Africii de Vest face ca învățarea limbii franceze aici să fie esențială pentru tineret, transformând centrul într-o punte vitală a francofoniei. Sociologie K7 — diplomația culturală și francofonia.",
+      "factsAdvanced": [
+        "Constituie cel mai mare și activ centru multifuncțional pentru arte din întreaga țară.",
+        "Găzduiește o bibliotecă excelentă, fiind una dintre puținele săli de lectură liniștite din oraș.",
+        "Clădirea dispune de o curte luxuriantă protejată, folosită pentru concerte acustice nocturne.",
+        "Predarea limbii franceze are o importanță economică enormă datorită granițelor senegaleze.",
+        "A funcționat non-stop chiar și în perioadele de instabilitate politică acută.",
+        "Filmele independente și documentarele africane sunt proiectate frecvent pentru un public uriaș."
+      ]
+    },
+    {
+      "id": "amilcar-cabral-university-landmarks-v2",
+      "descriptionAdvanced": "Universitatea Amílcar Cabral (UAC), înființată de abia în anul 2003, este singura instituție publică de învățământ superior din Guineea-Bissau, purtând cu mândrie numele eroului național și vizionarului agronom. Funcționând dintr-un fost complex educațional din Bissau, universitatea a reprezentat efortul major al statului de a opri exodul de 'creiere' (tinerii talentați care plecau definitiv în Portugalia sau Brazilia pentru a studia). Având facultăți de bază (drept, medicină asanată în Cuba, științe umane), instituția se confruntă permanent cu o criză catastrofală de fonduri: profesorii intră des în greve paralizante din cauza salariilor neplătite, iar laboratoarele duc lipsă de reactivi. Totuși, prezența ei este un act de reziliență enorm din partea zecilor de studenți dornici de educație. Educație K8 — accesul la învățământul superior în țări în curs de dezvoltare.",
+      "factsAdvanced": [
+        "A fost inaugurată ca prima și singura universitate de stat a națiunii tocmai în 2003.",
+        "Studenții luptă adesea cu un sistem care pierde luni întregi din cauza grevelor profesorilor.",
+        "Bibliotecile sale se bazează într-o mare măsură pe donațiile de manuale din Portugalia.",
+        "Terenul campusului, destul de restrâns, găzduiește facultățile de Drept și Medicină de bază.",
+        "Lipsa calculatoarelor și a rețelelor stabile de internet frânează cercetarea avansată.",
+        "Existența sa a redus nevoia tinerilor de elită de a pleca imediat în străinătate (exodul creierelor)."
+      ]
+    }
+  ]
+}

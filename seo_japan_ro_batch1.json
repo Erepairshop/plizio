@@ -1,0 +1,129 @@
+{
+  "lang": "ro",
+  "country": "japan",
+  "files": [
+    "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toyota-tahara-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica Toyota din Tahara, situată în prefectura Aichi, este una dintre cele mai mari și avansate unități de producție auto din lume, renumită pentru producția de vehicule Lexus de înaltă calitate. Înființată în anul 1979, această uzină utilizează un sistem complex de automatizare și robotică industrială, producând un autoturism la fiecare 90 de secunde. Cu o suprafață enormă ce depășește 4 milioane de metri pătrați, complexul include și propriul port maritim pentru export direct. Fabrica reprezintă nucleul sistemului legendar \"Toyota Production System\", un model global de eficiență care reduce pierderile la zero și se bazează pe principiul Kaizen pentru îmbunătățirea continuă a proceselor de asamblare.",
+      "factsAdvanced": [
+        "A fost inaugurată oficial în anul 1979.",
+        "Se întinde pe o suprafață uriașă de 4 milioane de metri pătrați.",
+        "Procesele sunt extrem de automatizate, producând un vehicul la aproximativ fiecare 90 de secunde.",
+        "Deține un debarcader propriu capabil să acomodeze nave cu o capacitate de 50.000 de tone.",
+        "Aproape 40% din vehiculele asamblate aici sunt destinate piețelor externe.",
+        "Este responsabilă pentru o mare parte din producția mărcii de lux Lexus."
+      ]
+    },
+    {
+      "id": "port-of-yokohama-economic-v2",
+      "descriptionAdvanced": "Portul Yokohama a jucat un rol vital în modernizarea Japoniei, deschizându-se comerțului internațional în anul 1859. Astăzi, el se numără printre cele mai importante și aglomerate noduri maritime comerciale ale țării, gestionând anual zeci de milioane de tone de mărfuri și fiind poarta principală de export pentru zona metropolitană extinsă Tokyo. Complexul masiv dispune de peste 100 de dane operaționale și terminale sofisticate de containere care integrează tehnologii smart-port. Importanța sa strategică este dublată de infrastructura de croazieră, terminalul Osanbashi atrăgând anual mii de pasageri, și de zona de divertisment Minato Mirai 21, care a redefinit frontul de apă al orașului.",
+      "factsAdvanced": [
+        "A fost deschis oficial comerțului internațional la data de 2 iunie 1859.",
+        "Gestionează un volum anual de mărfuri de peste 110 milioane de tone.",
+        "Infrastructura portuară se întinde pe o lungime a țărmului de aproximativ 10 kilometri.",
+        "Dispune de terminalul de pasageri Osanbashi, finalizat în designul său actual în anul 2002.",
+        "Portul deține 10 terminale majore, inclusiv Honmoku Pier.",
+        "Este conectat direct cu vasta rețea industrială a zonei Keihin."
+      ]
+    },
+    {
+      "id": "kashima-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona industrială Kashima, situată în prefectura Ibaraki de-a lungul coastei Oceanului Pacific, este unul dintre pilonii masivi ai industriei grele din Japonia de după Al Doilea Război Mondial. Dezvoltată începând cu anii 1960 printr-un proiect masiv de excavare a unui port artificial în formă de Y, zona găzduiește astăzi rafinării de petrol, combinate petrochimice gigantice, și uzine siderurgice care produc milioane de tone de oțel. Acest complex de coastă a transformat radical o regiune predominant agricolă într-un titan economic, folosind nave de marfă de mare capacitate pentru a importa materii prime și a exporta produse finite industriale pe piețele globale.",
+      "factsAdvanced": [
+        "Proiectul de dezvoltare a început în mod oficial în anul 1960.",
+        "Dispune de un port artificial spectaculos excavat direct în coasta Pacificului.",
+        "Combinatul siderurgic de aici are o capacitate de producție de peste 8 milioane de tone de oțel anual.",
+        "Peste 160 de companii de top operează în perimetrul acestui parc industrial.",
+        "Este un centru major pentru industria petrochimică, procesând țiței importat masiv din Orientul Mijlociu.",
+        "Infrastructura include conducte subterane extinse care conectează facilitățile chimice."
+      ]
+    },
+    {
+      "id": "port-of-nagoya-economic-v2",
+      "descriptionAdvanced": "Portul Nagoya, situat în inima regiunii industriale Chubu, deține titlul de cel mai mare port din Japonia după volumul total al mărfurilor transportate. Servind ca punct central de export pentru gigantul auto Toyota și pentru nenumărate companii de echipamente de precizie și aerospațiale, portul exportă anual milioane de autovehicule. În anul 2019, a marcat peste 18 ani consecutivi de dominație absolută a valorii comerțului național. Portul nu este doar o minune logistică industrială, ci include și atracții publice notabile, cum ar fi Acvariul Public din Portul Nagoya și muzee maritime care documentează ascensiunea comercială spectaculoasă a țării postbelice.",
+      "factsAdvanced": [
+        "Este responsabil pentru exportul a aproximativ 1,4 milioane de automobile în fiecare an.",
+        "Gestionează un flux de marfă care depășește frecvent 200 de milioane de tone anual.",
+        "Deține supremația în rândul porturilor japoneze ca valoare a schimburilor comerciale de peste 20 de ani.",
+        "În port este ancorată spărgătoarea de gheață istorică Fuji, folosită în misiuni antarctice.",
+        "Acoperă o suprafață masivă a portului și a zonelor de coastă de aproximativ 42 de milioane de metri pătrați.",
+        "Este centrul logistic principal pentru vasta rețea de furnizori ai industriei aerospațiale japoneze."
+      ]
+    },
+    {
+      "id": "hitachi-mine-economic-v2",
+      "descriptionAdvanced": "Mina de cupru Hitachi, situată în prefectura Ibaraki, a fost inima unui imperiu industrial care a dat naștere corporației multinaționale Hitachi Ltd. Deschisă la începutul secolului al XX-lea, mina a devenit rapid una dintre cele mai productive surse de cupru din Japonia. Pe măsură ce cererea pentru energie electrică a crescut, complexul s-a extins dincolo de extracție, trecând la producția de motoare electrice și utilaje miniere pentru nevoi proprii, un pas care a marcat fondarea Hitachi în anul 1910 de către Namihei Odaira. Deși exploatarea subterană a încetat în 1981, moștenirea sa tehnologică este comemorată prin coșul de fum gigantic de 155 de metri, ridicat inițial în 1914 pentru a combate poluarea aerului.",
+      "factsAdvanced": [
+        "A fost sursa inițială care a dus la fondarea conglomeratului Hitachi Ltd. în 1910.",
+        "Coșul de fum masiv din 1914 avea o înălțime originală de 155 de metri, fiind cel mai înalt din lume la acea vreme.",
+        "Operațiunile miniere de extracție a cuprului au fost închise oficial în anul 1981.",
+        "A reprezentat un exemplu timpuriu de control al poluării prin dispersia fumului la mare altitudine.",
+        "Muzeul minelor Hitachi din zonă documentează tehnicile timpurii de foraj și inginerie electrică.",
+        "La apogeul său, mina susținea o comunitate de mii de muncitori și ingineri minieri."
+      ]
+    },
+    {
+      "id": "osaka-station-city-trade-hub-v2",
+      "descriptionAdvanced": "Osaka Station City nu este doar o gară, ci o minune arhitecturală masivă și unul dintre cele mai vibrante centre comerciale din regiunea Kansai. Relansată în anul 2011 după un proiect amplu de reconstrucție, complexul unește stațiile JR Osaka cu vaste spații comerciale, birouri, cinematografe și o serie de grădini suspendate. Acoperișul său iconic, o structură de sticlă gigantică în formă de dom, conectează clădirile North Gate și South Gate, sub care tranzitează zilnic peste 850.000 de pasageri. Acest complex comercial multifuncțional exemplifică perfect conceptul japonez de "Eki-naka" (oraș în interiorul stației), transformând un nod de transport într-o destinație de stil de viață de top.",
+      "factsAdvanced": [
+        "A fost redeschisă cu actualul său design arhitectural spectaculos în luna mai a anului 2011.",
+        "Gara servește zilnic un număr impresionant de peste 850.000 de pasageri din rețeaua feroviară.",
+        "Complexul include Piața Timpului și Piața Spațiului, atrii masive sub un acoperiș de sticlă gigantic.",
+        "Clădirea North Gate atinge o înălțime de 150 de metri, oferind birouri și spații de retail extinse.",
+        "Găzduiește grădini spectaculoase pe acoperiș, printre care și renumita Grădină a Vântului (Kaze no Hiroba).",
+        "Este conectată printr-un labirint subteran masiv de alte zone comerciale majore din cartierul Umeda."
+      ]
+    },
+    {
+      "id": "kashiwazaki-kariwa-npp-economic-v2",
+      "descriptionAdvanced": "Centrala Nucleară Kashiwazaki-Kariwa, amplasată pe coasta Mării Japoniei în prefectura Niigata, este cea mai mare instalație de producere a energiei nucleare din lume după capacitatea sa instalată, care se ridică la un impresionant 8.212 MW. Această mega-structură dispune de șapte reactoare cu apă clocotită (BWR) și reactoare avansate (ABWR). Centrala a furnizat mult timp energie vitală pentru regiunea extinsă Kanto, inclusiv metropola Tokyo. Din cauza dezastrelor seismice severe, cum a fost cutremurul Chuestsu din 2007 și apoi evenimentul Fukushima din 2011, centrala a fost oprită pentru reevaluări de siguranță masive, ilustrând provocările complexe ale energiei atomice într-o națiune activă tectonic.",
+      "factsAdvanced": [
+        "Este considerată cea mai mare centrală nucleară din lume, având o capacitate instalată de 8.212 megawați.",
+        "Construcția primului său reactor a fost inițiată în anul 1980.",
+        "Complexul cuprinde un total de 7 reactoare distincte, dintre care două de tip ABWR.",
+        "Ocupă o suprafață enormă de teren de 4,2 kilometri pătrați pe coasta prefecturii Niigata.",
+        "Toate reactoarele au fost oprite după anul 2011 pentru un proces exhaustiv de modernizare a siguranței seismice.",
+        "Proiectul a fost operat și administrat de corporația Tokyo Electric Power Company (TEPCO)."
+      ]
+    },
+    {
+      "id": "port-of-kobe-economic-v2",
+      "descriptionAdvanced": "Portul Kobe, situat pitoresc la poalele Muntelui Rokko, a fost pionierul modernizării Japoniei și un epicentru al comerțului asiatic încă de la deschiderea sa pentru străini în anul 1868. Considerat cândva printre cele mai aglomerate porturi din lume pentru navele de containere, el a suferit daune devastatoare în timpul Marelui Cutremur Hanshin din 1995. Cu toate acestea, portul a fost reconstruit printr-un efort de inginerie monumental în doar doi ani. Astăzi, continuă să fie un punct de import vital și o destinație turistică de neegalat, caracterizată prin simbolul său arhitectural izbitor, Turnul Portului Kobe, cu designul său roșu inspirat de tobele tradiționale japoneze Tsuzumi.",
+      "factsAdvanced": [
+        "A fost deschis inițial ca un port de tratat pentru națiunile străine la 1 ianuarie 1868.",
+        "Turnul emblematic al portului (Kobe Port Tower) a fost finalizat și deschis publicului în anul 1963.",
+        "A suferit distrugeri catastrofale în cutremurul din 1995, dar și-a recăpătat statutul operațional în doar doi ani.",
+        "A fost primul port din Japonia care a implementat facilități masive dedicate navelor de containere.",
+        "Include Insula Portului (Port Island), o insulă artificială masivă construită special pentru expansiune logistică.",
+        "A reprezentat de mult timp poarta principală de import pentru ceai, cafea și condimente în Japonia."
+      ]
+    },
+    {
+      "id": "kitakyushu-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona industrială Kitakyushu, situată în nordul insulei Kyushu, este considerată leagănul revoluției industriale moderne a Japoniei. În centrul acestui efort monumental se află uzina siderurgică Yahata, care a început operațiunile în anul 1901 ca prima oțelărie integrată la scară largă din Asia. Amplasarea strategică a zonei în apropierea minelor masive de cărbune de la Chikuho a permis o expansiune explozivă, producând oțelul necesar navelor, căilor ferate și fabricilor care au propulsat națiunea pe scena globală. Astăzi, zona s-a transformat dintr-un titan greu poluant într-un lider mondial al "eco-orașelor", concentrându-se puternic pe tehnologii de reciclare inovatoare și pe industrii axate pe eficiență energetică.",
+      "factsAdvanced": [
+        "Uzina Siderurgică Yahata, piesa centrală a zonei, a început să funcționeze oficial în anul 1901.",
+        "Reprezintă zona care a asigurat peste 80% din producția de oțel a națiunii la începutul secolului XX.",
+        "Orașul Kitakyushu a primit premiul "Global 500" din partea Națiunilor Unite pentru remedierea poluării sale severe.",
+        "Este un important centru național pentru producția de echipamente de robotică avansată, condus de compania Yaskawa Electric.",
+        "Include parcul Ecotown, o zonă gigantică dedicată în întregime afacerilor de reciclare a resurselor auto și electronice.",
+        "Multe clădiri ale uzinei siderurgice originale sunt incluse pe lista Patrimoniului Mondial UNESCO din 2015."
+      ]
+    },
+    {
+      "id": "sado-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina de Aur Sado, o rețea labirintică săpată în munții insulei Sado din Marea Japoniei, a fost cea mai bogată mină din națiune pe parcursul a aproape 400 de ani. Funcționând de la începutul perioadei Edo (1601) și până la epuizarea sa în anul 1989, această imensă exploatare a produs peste 78 de tone de aur masiv și 2.330 de tone de argint. Aurul extras aici a fost esențial pentru consolidarea puterii financiare a Shogunatului Tokugawa și pentru emiterea de monede. Galeriile subterane incredibile, întinse pe mai mult de 400 de kilometri – aproape distanța dintre Tokyo și Sado – stau ca un monument al abilităților miniere antice japoneze, multe secțiuni având figuri animatronice care ilustrează munca aspră a minerilor tradiționali.",
+      "factsAdvanced": [
+        "A funcționat în mod continuu pentru o perioadă impresionantă de aproape 388 de ani, până la închiderea din 1989.",
+        "Rețeaua totală a tunelurilor miniere excavate are o lungime halucinantă de 400 de kilometri.",
+        "A produs o cantitate totală estimată la 78 de tone de aur pur în întreaga sa istorie operațională.",
+        "Secțiunea Aidayama (Muntele Despicat) este faimoasă pentru creasta montană despicată în două din cauza exploatării de suprafață masive.",
+        "A fost principala sursă de aur folosită de Shogunatul Tokugawa pentru a bate faimoasele monede ovale Koban.",
+        "Condițiile de muncă pentru drenarea apei din subteran erau extrem de periculoase și necesită un efort uman imens."
+      ]
+    }
+  ]
+}

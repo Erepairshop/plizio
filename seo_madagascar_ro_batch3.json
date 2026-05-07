@@ -1,0 +1,310 @@
+{
+  "lang": "ro",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bekily-cities-v2",
+      "descriptionAdvanced": "Aflată în inima aridă a regiunii Androy, Bekily este o localitate de frontieră definită prin provocările climatice extreme ale deșertului din sud. Înconjurată de vaste pajiști dominate de arbuști spinoși, orașul are o identitate profund ancorată în creșterea ancestrală a bovinelor zebu de către poporul Antandroy. Peisajul prăfuit, ars de soarele ecuatorial, este vitalizat doar de bazinele subterane de apă, care susțin eforturile minime de agricultură de subzistență (manioc și arahide). În mod recurent, Bekily se confruntă cu fenomenul endemic Kere (seceta extremă care cauzează foamete), făcându-l un punct focal pentru intervențiile organizațiilor internaționale umanitare, într-o zonă unde infrastructura precară izolează comunitatea de restul țării. Geografie K6 — ariditate și vulnerabilitate climatică.",
+      "factsAdvanced": [
+        "Aparține zonei administrative sudice Androy, una dintre cele mai secetoase din Madagascar.",
+        "Este populat în principal de grupul etnic Antandroy ("Oamenii Spinilor").",
+        "Regiunea suferă cronic din cauza Kere, foametea generată de absența îndelungată a ploilor.",
+        "Creșterea vitelor zebu este singura formă de garanție financiară tradițională a locuitorilor.",
+        "Relieful înconjurător e definit de "pădurile de spini" (vegetație adaptată la uscăciune).",
+        "Se accesează predominant prin drumuri de pământ adesea impracticabile în rarele ploi torențiale."
+      ]
+    },
+    {
+      "id": "kandreho-cities-v2",
+      "descriptionAdvanced": "Kandreho reprezintă o așezare îndepărtată din regiunea Betsiboka, izolată în vestul sălbatic al teritoriului malgaș, unde pădurile foioase uscate întâlnesc sistemele fluviale imprevizibile. Ritmul vieții în această localitate izolată este complet dictat de cursul fluviului Mahavavy Sud, ale cărui inundații sezoniere aduc un strat bogat de aluviuni esențial pentru cultivarea intensivă a tutunului și orezului pluvial. Distanța considerabilă față de axele rutiere principale păstrează un aer de secol XIX în oraș, cu o dependență uriașă de comerțul fluvial și de căruțele cu boi. Cultura locului poartă amprenta profundă a poporului Sakalava, ale căror tradiții pastorale și animiste rezistă intacte. Geografie K5 — agricultura fluvială de coastă vestică.",
+      "factsAdvanced": [
+        "Situat adânc în interiorul regiunii Betsiboka din nord-vest.",
+        "Depinde puternic din punct de vedere economic de ciclul anual de inundații ale râului Mahavavy Sud.",
+        "Cultivarea și uscarea tutunului tradițional este o activitate majoră pentru locuitori.",
+        "Este considerat unul dintre districtele cu cea mai scăzută densitate de populație din regiune.",
+        "Accesul rutier devine imposibil de multe ori în timpul sezonului ploios.",
+        "Flora limitrofă include baobabi rari și zone de pădure de foioase uscată."
+      ]
+    },
+    {
+      "id": "antsalova-cities-v2",
+      "descriptionAdvanced": "Așezat în inima regiunii Melaky, Antsalova este un orășel fascinant situat la doar o scurtă distanță de granițele inospitaliere, dar spectaculoase ale faimosului Parc Național Tsingy de Bemaraha. Fiind centrul administrativ cheie pentru zona protejată, așezarea trăiește la intersecția dintre tradițiile rurale ale etniei Sakalava și numărul crescând de eco-turiști și cercetători atrași de pădurea de piatră tsingy. Izolarea regiunii este accentuată, singurele căi de acces fiind adesea zborurile cu avioane ușoare sau traversările dure, de mai multe zile, cu vehicule de teren prin albia râurilor noroioase. Orașul însuși depinde de o agricultură dură și de creșterea tradițională de vite în savana arsă de soare. Geografie K7 — conservarea patrimoniului natural și izolare.",
+      "factsAdvanced": [
+        "Servește ca bază operațională și poartă vestică pentru Rezervația Naturală Strictă Tsingy de Bemaraha.",
+        "Populația locală este alcătuită preponderent din grupul etnic vestic Sakalava.",
+        "Beneficiază de o mică pistă de aterizare necesară pentru a aduce turiștii din cauza drumurilor proaste.",
+        "Economia non-turistică este dominată de agricultura pe scară mică de porumb și creșterea zebu.",
+        "Terenul înconjurător suferă anual incendii masive provocate pentru reînnoirea pășunilor (tavy).",
+        "Temperaturile pot depăși constant pragul de 32°C în mare parte a anului."
+      ]
+    },
+    {
+      "id": "befandriana-avaratra-cities-v2",
+      "descriptionAdvanced": "Befandriana-Avaratra este un hub agricol masiv situat în nordul insulei, în regiunea fertilă Sofia, la intersecția rețelelor fluviale complexe. Datorită unui microclimat extrem de profitabil care primește umiditate constantă, această depresiune largă se remarcă prin livezile imense de pomi fructiferi (în special mango), plantații de cafea și orezării terasate întinse. Orașul este recunoscut în întreg nordul pentru producția uriașă de mango, care domină piețele regionale în sezonul de recoltare. Populația etnică Tsimihety guvernează viața socială, menținând ritualuri puternice ale satului și respectând cu strictețe tabuurile moștenite din vechime legate de folosirea pământului. Economie K6 — pomicultură și agricultură bazinală.",
+      "factsAdvanced": [
+        "Un producător și exportator dominant de mango pentru piețele nordice și naționale malgașe.",
+        "Face parte din vasta regiune nord-vestică Sofia.",
+        "Majoritatea populației aparține etniei Tsimihety, cunoscuți drept "Cei care nu-și taie părul".",
+        "Regiunea depinde intens de transportul pe rutele naționale secundare, mereu afectate de ploi.",
+        "Este străbătut de un bazin hidrografic abundent, ideal pentru irigarea culturilor.",
+        "Numele se traduce în sens literar prin "Acolo unde nordul așteaptă/veghează"."
+      ]
+    },
+    {
+      "id": "tsihombe-cities-v2",
+      "descriptionAdvanced": "Tsihombe este o localitate-emblemă a luptei omului cu ariditatea extremă, situată adânc în teritoriul "Bush"-ului țepos din regiunea sudică Androy. Pământul roșiatic și prăfuit, cu precipitații ce abia ating câțiva milimetri anual în unele perioade, face ca singura bogăție reală să fie turmele de vite zebu, care se hrănesc cu frunze de arbuști rezistenți. Viața aici este centrată pe extragerea apei din adâncul solului uscat sau din albii secate. Peisajul impresionant al pădurii spinoase ascunde plante endemice capabile de a stoca apa. Orașul trăiește și din vânzarea meșteșugurilor specifice și tranzacționarea maniocului adus de la nord, stând mărturie rezilienței remarcabile a poporului Antandroy. Biologie K7 — adaptarea la deșert și vegetația endemică.",
+      "factsAdvanced": [
+        "Poziționat în zona aridă extremă a regiunii Androy din sudul țării.",
+        "Precipitațiile medii anuale sunt printre cele mai mici înregistrate pe insulă.",
+        "Numele orașului sugerează sensul "Unde nu există minciună" în dialectul local.",
+        "Economia localității depinde masiv de manioc (cassava) rezistent la secetă și creșterea bovinelor.",
+        "Este localizat geografic foarte aproape de extremitatea sudică absolută a continentului, Capul Sainte Marie.",
+        "Adesea epicentru pentru distribuția ajutoarelor din cauza frecventului fenomen de secetă, Kere."
+      ]
+    },
+    {
+      "id": "mananjary-cities-v2",
+      "descriptionAdvanced": "Pe magnifica coastă de sud-est, orașul Mananjary se dezvoltă chiar la buza estuarului râului cu același nume, dominat de canale nesfârșite mărginite de palmieri și mirosul puternic de cafea proaspăt recoltată. Istoric, așezarea este epicentrul poporului Antambahoaka, renumit pe plan național pentru ritualul masiv de circumcizie colectivă ("Sambatra") care se desfășoară doar o dată la fiecare șapte ani, atrăgând mii de pelerini și vizitatori. Datorită pământului bogat, umed, Mananjary este un important bastion agro-industrial, contribuind enorm la exporturile de cafea, vanilie și uriașe cantități de litchi, pe care bărcile tradiționale le descarcă din jungla interioară traversând aglomeratul Canal des Pangalanes. Cultură K8 — festivaluri tribale periodice.",
+      "factsAdvanced": [
+        "Orașul este gazda ceremoniei Sambatra (circumcizia în masă a băieților) desfășurată din 7 în 7 ani.",
+        "Situat pe litoralul Oceanului Indian și integrat în traseul maritim Canal des Pangalanes.",
+        "Este reședința principală a grupului etnic Antambahoaka.",
+        "Constituie un centru vital de procesare și export pentru cafea și cantități masive de litchi.",
+        "Orașul dispune de un aeroport local, folosit în mod curent în secolul trecut.",
+        "Estuarul râului Mananjary împarte orașul colonial, fiind sursă pentru pescadoare."
+      ]
+    },
+    {
+      "id": "port-bergé-cities-v2",
+      "descriptionAdvanced": "Cunoscut oficial în prezent sub numele malgaș de Boriziny, așezarea istorică Port-Bergé este inima rurală și comercială a extrem de fertilei regiuni Sofia. Nu este un port maritim, cum ar sugera denumirea colonială impusă de francezi, ci mai degrabă un nod interior vital de navigație și transport. Aflat la intersecția câmpiilor imense inundabile ale râurilor din zonă, orașul s-a specializat în cultivarea bumbacului, a arahidelor și a tutunului. Străzile sale largi și zgomotoase sunt brăzdate constant de camioane uriașe care transportă mărfuri pe drumul național nordic, legând capitala de bazele navale. Pășunile gigantice din afara orașului susțin o populație densă de vite care aprovizionează tot centrul țării. Geografie K6 — noduri de transport rural și câmpii.",
+      "factsAdvanced": [
+        "Numele colonial Port-Bergé este tot mai des înlocuit cu numele administrativ oficial Boriziny.",
+        "Nu se află pe coastă, ci este situat adânc în zona câmpiilor Sofia din nord-vest.",
+        "Este un punct masiv de colectare a recoltelor pentru bumbac, tutun vestic și arahide.",
+        "Comunitatea aparține masiv grupului etnic curajos de agricultori Tsimihety.",
+        "Așezarea este situată strategic pe RN6, principalul cordon rutier spre extremitatea nordică.",
+        "Relieful înconjurător favorizează atât agricultura irigată cât și savanele de zebu."
+      ]
+    },
+    {
+      "id": "sakaraha-cities-v2",
+      "descriptionAdvanced": "Sakaraha este cel mai important oraș pe drumul nesfârșit, drept și arid care străpunge zona sud-vestică a insulei spre Toliara, fiind un punct obligatoriu de trecere flancat de câmpii semi-desertice. Renumele internațional al așezării a explodat târziu în anii 1990 datorită unui fenoment unic: febra safirelor. Descoperirea unor vaste zăcăminte prețioase de safire colorate a transformat radical orășelul izolat într-o destinație aglomerată, oarecum lipsită de lege, plină de mii de căutători de nestemate, comercianți asiatici și barăci construite noaptea. După ce epuizarea zonelor ușor accesibile a domolit nebunia gemologică, Sakaraha s-a repliat pe o bază stabilă: comerțul tradițional de vite zebu, fiind granița ce deschide sudul arid. Geografie K7 — minerit artizanal de pietre prețioase.",
+      "factsAdvanced": [
+        "La finalul anilor 1990, orașul și regiunea limitrofă Ilakaka au devenit epicentrul global al extracției de safire.",
+        "Sute de zăcăminte aluvionare au atras mineri artizanali într-un veritabil fenomen "goana după safire".",
+        "Așezat pe Route Nationale 7, fiind un tranzit crucial dinspre platouri spre portul Toliara.",
+        "Se află imediat la est de marginea vastului Parc Național Zombitse-Vohibasia.",
+        "Climatul său marchează începutul vegetației caracteristice de stepă sud-vestică.",
+        "Preponderent populat de păstori Mahafaly și triburile nomade Bara atrase de schimb."
+      ]
+    },
+    {
+      "id": "ambatovy-mine-economic-v2",
+      "descriptionAdvanced": "Mina Ambatovy este unul dintre cele mai gigantice și mai complexe proiecte investiționale din întreaga istorie a Africii Subsahariene, axat pe extracția și procesarea nichelului și cobaltului de înaltă puritate. Aflată în densitatea pădurilor din estul central, lângă Moramanga, mina a necesitat o infuzie enormă de capital străin (cu un consorțiu japonez și canadian în frunte) pentru a deschide zăcămintele de minereu lateritic prin exploatare la suprafață. Ceea ce o face o minune a ingineriei este o conductă de noroi minier (slurry pipeline) de 220 km lungime ce traversează munții și jungla pentru a transporta minereul la uriașa fabrică de rafinare construită lângă portul din Toamasina, de unde este exportat mondial. Științe Tehnologice K8 — extracția la scară industrială și metale rare.",
+      "factsAdvanced": [
+        "Reprezintă una dintre cele mai mari investiții miniere directe din întreaga Africă, totalizând peste 8 miliarde de dolari.",
+        "Se estimează că produce o medie de 60.000 de tone de nichel rafinat pe an.",
+        "Include o conductă unică de peste 220 km care transportă minereul brut către coasta de est.",
+        "Din minereul lateritic se extrage atât nichel de mare puritate, cât și un procent semnificativ de cobalt mondial.",
+        "Rafinăria finală care prelucrează nămolul se află la periferia portului major Toamasina.",
+        "Proiectul are un program masiv de offset ecologic pentru protejarea biodiversității forestiere distruse de escavări."
+      ]
+    },
+    {
+      "id": "toamasina-port-economic-v2",
+      "descriptionAdvanced": "Portul Autonom Toamasina (cunoscut istoric sub numele de Tamatave) este fără echivoc "plămânul economic" al Madagascarului, procesând incredibilul volum de aproximativ 80% din tot traficul maritim internațional al națiunii. Protejat de furia constantă a Oceanului Indian prin faimoasa linie de stânci "Hastie Reef", acest gigant logistic dispune de docuri moderne de apă adâncă capabile să opereze uriașe nave containerizate și petroliere internaționale. Exporturile masive de vanilie premium, cuișoare uscate, cafea și metale rare (nichelul de la rafinăria Ambatovy) pleacă de la aceste dane spre Asia și Europa, în timp ce pe aici intră majoritatea absolută a combustibilului și a utilajelor importate în stat. Geografie K7 — hub-uri de transport maritim global.",
+      "factsAdvanced": [
+        "Operează și procesează circa 80% din totalitatea tranzacțiilor maritime ale Madagascarului.",
+        "Este gestionat de "Société du Port à Gestion Autonome de Toamasina" (SPAT).",
+        "Terenul a fost inițial amenajat la scară largă în timpul epocii coloniale franceze, fiind conectat la căile ferate centrale.",
+        "Portul a fost reconstruit de multiple ori ca urmare a distrugerilor aduse de furtuni și cicloane gigantice (cum a fost Geralda).",
+        "Dispune de un terminal vast, absolut esențial, dedicat importurilor de hidrocarburi pentru întreaga insulă.",
+        "Pe lângă marfă, portul are o capacitate semnificativă de a primi nave internaționale masive de croazieră."
+      ]
+    },
+    {
+      "id": "ehola-port-economic-v2",
+      "descriptionAdvanced": "Portul Ehoala a redesenat hărțile logistice ale regiunii izolate Anosy din sudul îndepărtat. Construit inițial ca o mega-infrastructură de apă adâncă finanțată masiv de consorțiul Rio Tinto pentru un scop simplu — exportul eficient al uriașelor cantități de minereu de ilmenit extrase de la situl alăturat QMM —, Ehoala s-a deschis rapid utilizării publice. Poziționat la doar câțiva kilometri de Fort-Dauphin (Tolanaro), acest port modern finalizat în anul 2009 permite nu doar acostarea marilor vrachiere cu praf de minereu de titan destinate Canadei, ci și stimularea exporturilor regionale și debarcarea marilor vase de croazieră care aduc turiști într-o zonă până atunci deconectată maritim. Economie K8 — parteneriate public-private în infrastructură.",
+      "factsAdvanced": [
+        "A fost dat oficial în exploatare în iulie 2009, la vest de așezarea Tolanaro.",
+        "Investiția uriașă de 240 de milioane de dolari a fost parțial asigurată de gigantul minier Rio Tinto.",
+        "Se concentrează pe facilitarea transportului anual a sutelor de mii de tone de ilmenit brut extras de la mina QMM.",
+        "Designul său masiv de apă adâncă este structurat să reziste la cele mai agresive curente din partea sudică a Oceanului Indian.",
+        "La scurt timp de la inaugurare, a devenit al doilea port ca importanță strategică din Madagascar, după Toamasina.",
+        "Se mândrește cu faptul că o parte a terminalului său a fost desemnat pentru a deservi companiile de croazieră turistică."
+      ]
+    },
+    {
+      "id": "qmm-mine-economic-v2",
+      "descriptionAdvanced": "Mina QIT Madagascar Minerals (QMM) este o operațiune revoluționară de extracție la suprafață din sudul insulei (lângă Tolanaro), concentrată exclusiv pe zăcămintele prețioase de nisipuri cu ilmenit, materia primă de bază pentru dioxidul de titan. Extragerea se face pe niște dune nisipoase masive de-a lungul coastei oceanice. Acest proiect industrial s-a remarcat printr-un program complex de curățare și separare electrostatică a minereului. În plus față de forța sa comercială gigant, având ca piețe de export marile fabrici din Canada unde ilmenitul e rafinat în pigmenți pentru vopsele albe și componente spațiale, QMM stârnește permanent discuții aprinse datorită compromisului dintre creșterea economică spectaculoasă și pierderea unor fragmente endemice unice de păduri umede litorale tăiate de buldozere. Științe Ecologice K8 — exploatări miniere costiere și conservare.",
+      "factsAdvanced": [
+        "Extrage nisipuri grele ce conțin ilmenit cu o concentrație ridicată de dioxid de titan alb (peste 60%).",
+        "Compania a fost fondată printr-un parteneriat în care grupul Rio Tinto deține 80%, iar statul malgaș 20%.",
+        "Pentru exploatare, QMM s-a implicat în dragarea masivă cu apă artificială a zonelor de dune de nisip împădurite de coastă.",
+        "Zăcămintele sunt evaluate a fi atât de vaste încât să suporte cel puțin 40 de ani de extracție continuă.",
+        "Exportul materiei prime de ilmenit se realizează direct prin portul masiv, construit recent, Port Ehoala.",
+        "Mina a inițiat un proiect imens de replantare pentru a restaura flora unică (inclusiv specia locală de palmieri roșii)."
+      ]
+    },
+    {
+      "id": "mahajanga-port-economic-v2",
+      "descriptionAdvanced": "Amplasat strategic la protecția vastului estuar vestic al fluviului Betsiboka, Portul Mahajanga este poarta maritimă istorică a coastei de vest, jucând un rol cheie în economia agrară. Faimos pentru apele sale de un roșu aprins cauzat de cantitatea uluitoare de nămol adus de eroziunea râului, portul depinde masiv de operațiuni de dragare frecvente pentru a-și menține rutele de apă. Funcția sa supremă este aceea de platformă neîntreruptă de export agricol pentru nord-vestul roditor; de la aceste docuri pleacă în mod constant sute de tone de creveți congelați din acvacultură (cunoscuți ca "aurul roz"), loturi imense de rafie, tutun și condimente exotice către țările din regiunea vestică a Oceanului Indian. Geografie K7 — estuare roșii și exporturile de crustacee.",
+      "factsAdvanced": [
+        "Reprezintă al doilea port major al națiunii malgașe în ceea ce privește traficul intens de produse agricole.",
+        "Estuarul fluviului masiv Betsiboka care adăpostește portul are adesea nuanțe de roșu puternic din cauza sedimentelor.",
+        "E un punct critic de plecare la export pentru valoroasa industrie națională a pescuitului și fermelor de creveți.",
+        "Spre deosebire de alte porturi, depinde obligatoriu și permanent de nave cu pescaj mai redus din pricina colmatării rapide.",
+        "Traficul intern este dominat de nave masive cu vele tradiționale arabice (dhow-uri și boutres) ce fac comerț inter-insule.",
+        "Portul a servit drept bază istorică majoră de atac și consolidare pentru trupele coloniale franceze în secolul XIX."
+      ]
+    },
+    {
+      "id": "kraoma-mine-economic-v2",
+      "descriptionAdvanced": "Zăcămintele masive exploatate de compania de stat Kraoma (Kraomita Malagasy) de la Brieville (în apropiere de Andriamena) sunt vitale din punct de vedere strategic, fiind inima națională pentru extragerea cromitului de clasă mondială. Situate într-o zonă complet izolată a platoului central vestic, carierele lucrează non-stop pentru a extrage minereul întunecat care este o componentă critică pentru aliajele de oțel inoxidabil din întreaga lume. Orașul Brieville s-a născut practic exclusiv pentru a servi giganticei uzine metalurgice. Odată prelucrat minereul, mii de camioane grele traversează un drum dedicat de 120 de kilometri până la Morarano-Chrome, locul de unde încărcătura prinde trenul marfar pentru a ajunge finalmente în hub-ul de export maritim. Economie K8 — monopolurile de stat din sectorul extragerii metalurgice.",
+      "factsAdvanced": [
+        "Compania cu capital integral de stat Kraoma este singura mare producătoare națională de minereu concentrat de cromit.",
+        "Extracția se face din inima zonei complet rurale Brieville (cunoscută anterior ca depresiunea Andriamena).",
+        "Cromitul malgaș obținut aici atinge o puritate extrem de respectată și cerută la nivel global pe piața oțelurilor speciale.",
+        "Uzina principală a dezvoltat o linie feroviară uriașă privată în anii '70 ce o leagă de rețeaua principală către est.",
+        "Producția istorică se ridică frecvent în ani buni la aproximativ un prag de peste 100.000 de tone de concentrat anual.",
+        "Minereul este utilizat pe mapamond pentru rezistența de durată conferită oțelurilor industriale moderne."
+      ]
+    },
+    {
+      "id": "antsiranana-port-economic-v2",
+      "descriptionAdvanced": "Ascuns în imensitatea celui de-al doilea cel mai mare golf natural și adânc din lume după Rio de Janeiro, Portul Antsiranana este centrul maritim absolut al nordului extrem. Poziționarea sa perfectă, protejată de un șir de peninsule vulcanice stâncoase cu o gură de intrare relativ îngustă, l-a făcut în mod natural sediul dorit al marinei militare franceze de-a lungul istoriei. În era modernă civilă, portul are șantiere navale remarcabile (SECREN) unde sunt andocate și reparate nave mari ce navighează canalul Mozambic, fiind totodată de o importanță capitală pentru industria locală gigantă de conservare a tonului (PFOI) care exportă loturi uriașe către Uniunea Europeană și pentru a găzdui fregate militare în tranzit. Geografie K7 — golfuri imense de apă adâncă.",
+      "factsAdvanced": [
+        "Acoperă operațiunile din cadrul celui de-al doilea golf maritim natural ca mărime din lume (Golful Diego-Suarez).",
+        "A deținut un statut istoric neegalat ca bază maritimă inexpugnabilă pentru trupele coloniale, datorită topografiei apărabile.",
+        "Găzduiește masivul șantier naval malgaș numit SECREN, singurul capabil să ridice pe doc uscat nave foarte grele din zonă.",
+        "O parte uriașă din economia docurilor susține o hală imensă industrială unde este conservat tonul la nivel mondial.",
+        "Este des vizitat de nave strategice militare internaționale venite să patruleze și să combată pirateria în Oceanul Indian.",
+        "Orașul și docurile sunt protejate simbolic de mica insulă verde conică din mijloc, Nosy Lonjo."
+      ]
+    },
+    {
+      "id": "star-brewery-tana-economic-v2",
+      "descriptionAdvanced": "Căldura ecuatorială a Madagascarului are o constantă răcoritoare, berăria STAR (Société Tananarivienne d'Articles Réfrigérés) din capitală. Fondată în 1953, această uzină industrială enormă produce marca națională emblematică de bere – THB (Three Horses Beer) – devenită pe bună dreptate o icoană de identitate locală prezentă în absolut orice sat al țării. Cunoscută prin logo-ul său galben distinct, cu trei capete de cai heraldici, fabrica s-a modernizat rapid atrăgând capital francez gigant din grupul Castel. Acest gigant al industriei de băuturi a stabilit recorduri naționale de producție, angajând mii de oameni și procesând anual munți de orz național și importat. Economie K6 — industrializarea producției de bunuri de larg consum.",
+      "factsAdvanced": [
+        "Grupul industrial STAR fabrică prestigioasa bere THB (Three Horses Beer), de departe marca lider pe insulă.",
+        "Berăria principală din capitală Antananarivo a fost fondată și pusă în funcțiune în anul istoric 1953.",
+        "Astăzi este controlată din punct de vedere investițional de gigantul conglomerat global francez, grupul Castel.",
+        "Pe lângă faimoasa bere blondă, uzina mai îmbuteliază zeci de milioane de sticle sub franciza globală Coca-Cola.",
+        "Rețeta originală a THB implică amestecul precis al orzului recoltat local de pe platourile muntoase cu malț de porumb.",
+        "Reprezintă unul dintre cei mai mari plătitori neîntrerupți de taxe corporative către guvernul național."
+      ]
+    },
+    {
+      "id": "star-brewery-antsirabe-economic-v2",
+      "descriptionAdvanced": "Situată strategic în inima "Orașului Apelor", sucursala și gigantica fabrică de bere STAR din Antsirabe este recunoscută pe scară largă drept fabrica superioară calitativ de băuturi a națiunii. Datorită purității incredibile și bogăției de minerale a izvoarelor din regiunea vulcanică, berea produsă aici capătă acel gust consacrat apreciat național. Construirea acestei fabrici masive la mare altitudine i-a permis să beneficieze de culturile excelente de grâu și orz recoltate chiar pe colinele adiacente din regiunea Vakinankaratra, favorizând un ciclu de "circuit închis". Uzina acoperă un peisaj considerabil, sprijinind un lanț masiv de mii de fermieri contractați local pentru a oferi boabele necesare fermentației. Geografie K7 — impactul calității apelor în industria alimentară.",
+      "factsAdvanced": [
+        "A fost inaugurată ca un răspuns la calitatea excepțională de puritate a apelor subterane minerale din Antsirabe.",
+        "Fabrica se află în epicentrul agricol național principal al recoltelor optime de orz și grâu temperat malgaș.",
+        "Susține un contract activ imens cu câteva mii de cultivatori țărani din regiunea centrală Vakinankaratra.",
+        "Berea fabricată la această sucursală este considerată superioară tocmai datorită resurselor hidrologice vulcanice.",
+        "Este poziționată extrem de accesibil lângă traseul RN7, principalul cordon rutier de distribuție către orașele de sud.",
+        "Extinderea capacității de fermentație industrială din ultimul deceniu a crescut major forța locală de muncă urbană."
+      ]
+    },
+    {
+      "id": "toliara-port-economic-v2",
+      "descriptionAdvanced": "Servind drept gură principală de oxigen pentru vasta și inospitaliera regiune a sudului, Portul din Toliara este plasat pe coasta vestică protejat de furia valurilor de una dintre cele mai grandioase formațiuni naturale de bariere de corali din lume. Deși are dimensiuni logistice de pescaj mediu, din cauza canalului de intrare, acest port rămâne hub-ul fundamental pentru descărcarea cerealelor și combustibililor importate esențiale pentru satele predispuse la secetă extremă. Mai departe de importuri, de aici se exportă zilnic produsele locale unice – bumbacul filat și cantități enorme de sisal rezistent uscat. Vapoarele vechi colindă zona docurilor împletindu-se cu zecile de pirogi tradiționale aparținând faimoșilor pescari marini ai tribului Vezo. Geografie K7 — porturi protejate de corali.",
+      "factsAdvanced": [
+        "Acest debarcader comercial este situat și apărat la adăpost de Marea Barieră de Corali a Toliarei, întinsă pe km întregi.",
+        "Este puntea principală vitală de debarcare pentru toate rutele care trimit combustibil în orașele sudului îndepărtat.",
+        "La capitolul exporturi portul evacuează majoritar saci compacți masivi de sisal (fibră naturală) și recolte de bumbac brut.",
+        "Adâncimea relativ scăzută a apelor din port blochează ancorarea cargoboturilor internaționale uriașe tip super-tanker.",
+        "Istoria portului indică fondarea modernă a logisticii sale de către celebrul lider al armatei franceze, generalul Gallieni.",
+        "Apele din jur sunt un furnicar pentru pescarii locali ai grupului etnic de navigatori pricepuți, tribul Vezo."
+      ]
+    },
+    {
+      "id": "cotona-textile-economic-v2",
+      "descriptionAdvanced": "Combinatul masiv COTONA (La Cotonnière d'Antsirabe) se ridică în peisajul înalt al orașului ca un monument dedicat longevității industriale și inovației malgașe. Operând cu succes încă de la fondarea sa din anul 1952, această fabrică gigantică integrează absolut toate fazele producerii textilelor, de la zecile de mii de baloturi de bumbac brut recoltat pe întreg teritoriul insulei, la filarea cu aburi, țeserea rapidă în modele vibrante și finisajul rafinat cu coloranți. COTONA a deținut practic decenii la rând un monopol calitativ național, fiind coloana vertebrală din spatele sutelor de confecții tradiționale, precum și un furnizor gigant pe care se bazau marile case mondiale de îmbrăcăminte din Europa, devenind simbolul "made in Madagascar". Tehnologie K7 — lanțuri de producție din industria textilă.",
+      "factsAdvanced": [
+        "Combinatul industrial complex COTONA deține istoria de a fi fost inaugurat integral încă din anul 1952.",
+        "Este poziționat strategic pe teritoriul faimosului pol regional de munte, orașul industrial Antsirabe.",
+        "A fost prima hală uriașă de producție care prelucra in-house direct de la plantație la rola compactă de țesătură.",
+        "La apogeul său, combinatul a reunit pe statul de plată a peste 5.000 de muncitori textiliști concentrați pe trei ture.",
+        "Se bucură de faima de a fi exportat cantități remarcabile de prefabricate țesute de bumbac către marile mărci de modă europene.",
+        "Posedă certificări mondiale de calitate ISO rare în rândul națiunilor insulare mai mici producătoare de fibre."
+      ]
+    },
+    {
+      "id": "ambilobe-sugar-economic-v2",
+      "descriptionAdvanced": "Plantația extinsă de trestie de zahăr (vechea fabrică de stat SIRAMA) din împrejurimile nordice tropicale ale localității Ambilobe funcționează ca un veritabil motor economic gigant pentru mii de oameni din provincie. Dominată vizual de sute de hectare tăiate în parcele perfect geometrice așezate la baza giganților munți calcaroși vulcanici, complexul procesează sucul dulce adus pe șine înguste cu vagoane ruginite din mijlocul lanurilor, fierbându-l până la concentrații pure de cristale de zahăr și melasă densă. Fumul gros provenit de la pârjolirea controlată a trestiei (recoltarea tăieturii rapide) întunecă frecvent cerul. Ciclul acestor fabrici este integrat de mult în folclorul locuitorilor nordici, zahărul de aici generând de asemenea producția romului specific național cel mai vândut. Geografie K6 — monoculturi industriale la scară mare.",
+      "factsAdvanced": [
+        "Pământurile bogate din lunca vastă a râului masiv Mahavavy oferă mediul perfect umed acestor monoculturi intensive.",
+        "Industria de prelucrare, cunoscută în vechime ca aparținând trustului regal de stat SIRAMA, generează zahăr cristal.",
+        "Peste fâșiile câmpiilor rulează o rețea de zeci de kilometri de trenulețe utilitare pe ecartament mic destinate trestiei.",
+        "Sezonul anual complet dedicat tăierii se derulează în plin soare, între luna iunie umedă și noembrie cea secetoasă.",
+        "Pe lângă prețioasele cristale albe de zahăr brut, se asigură o proporție masivă de melasă primară utilizată la rom.",
+        "Plantațiile joacă un rol colosal de ocupare a forței manuale temporare pentru întreaga regiune Diana estică."
+      ]
+    },
+    {
+      "id": "holcim-cement-ibity-economic-v2",
+      "descriptionAdvanced": "Ascunsă sub pantele impunătoare ale masivului muntos calcaros Ibity la sud de orașul Antsirabe, uzina națională de ciment Holcim Madagascar (anterior denumită CEMAM) guvernează absolut piața materialelor de construcții a țării. Complexul industrial extrem de zgomotos transformă blocuri întregi din stâncă, dinamitate din cariera vastă de marmură și calcar brut de la poalele colinei, într-o pulbere de clincher supusă la peste o mie de grade în cuptoare masive cu gaz de eșapament, obținând ciment portland. Echipată cu o flotă considerabilă de camioane de mare tonaj, fabrica dispersează silozurile de beton gri către șantierele celor mai gigantice proiecte rutiere, hoteluri și baraje de pe mapamondul malgaș, fiind simbolul invizibil din spatele oricărui efort de modernizare al insulei. Tehnologie K7 — procesarea chimică la scară largă a calcarului.",
+      "factsAdvanced": [
+        "Așezarea uzinei s-a impus grație apropierii de masivul colosal Ibity (bogat extraordinar în resurse de calcar masiv și marmură pură).",
+        "Este renumită a fi de departe cea mai titanică fabrică industrială neîntreruptă producătoare de pudră de ciment din stat.",
+        "Compania a cunoscut un salt managerial istoric fiind preluată investițional de gigantul global internațional elvețian Holcim.",
+        "Asigură un furnizor crucial de material absolut indispensabil pentru marile proiecte naționale vizând rețelele masive rutiere.",
+        "Datorită localizării sale geologice la nivel de podiș muntos, procesul este extrem de integrat pe lanțul extractiv de sus în jos.",
+        "Emană adesea un zgomot colosal al cuptoarelor rotative masive în flăcări utilizate direct în procesarea clincherului prăfos."
+      ]
+    },
+    {
+      "id": "galana-refinery-economic-v2",
+      "descriptionAdvanced": "Situată strategic pe linia docurilor enorme ale portului Toamasina, rafinăria masivă a companiei petroliere Galana reprezintă principalul "inimi sângerânde" de energie care pompează constant fluid sintetic în economia țării. Proiectată industrial pe tubulaturi uluitoare interconectate, uriașa uzină se ocupă de depozitarea și tratarea tuturor transporturilor navale uriașe cu mii de barili de hidrocarburi aduse internațional. Benzina, motorina, kerosenul pentru avioane și lubrifianții se aliniază aici în rezervoare de culoarea oțelului gigantice înainte de a pleca noaptea spre capitală și extremitățile indepărtate pe garniturile trenurilor sau în zeci de autocisterne. Complexul terminal petrolier are o importanță de neclintit, garantând în proporție absolută continuitatea securității și autonomiei energetice naționale zilnice. Științe Tehnologice K8 — sisteme energetice și logistica combustibililor.",
+      "factsAdvanced": [
+        "Reprezintă baza terminalului dominant unde acostează importurile imense globale vizând resursele rafinate de hidrocarburi naționale.",
+        "Amplasamentul instalațiilor logistice se profilează ca element inconfundabil la buza apelor imensului port maritim Toamasina.",
+        "Până în deceniul trecut, complexul a operat și o mică fabrică efectivă de fracționare/rafinare din masa de petrol brut.",
+        "Deține un capacitiv uriaș de siguranță stocând rezerve în depozite cu capacitate record de milioane de barili masivi.",
+        "Este principalul alimentator oficial neclintit ce furnizează fluid energetic centralelor uriașe pe păcură ale companiei Jirama.",
+        "Dezvoltă permanent noi debarcadere protejate cu balize flotante adaptate navelor gigant masive (supertankere de mare tonaj)."
+      ]
+    },
+    {
+      "id": "morondava-port-economic-v2",
+      "descriptionAdvanced": "Așezat pe buza unei vaste lagune noroioase a oceanului și delimitat de o rețea nesfârșită de canale verzi cu mangrove tăcute, Portul maritim al orașului Morondava acționează ca poartă estuară a bogăției ascunse a vestului din regiunea Menabe. Acest debarcader comercial pitoresc, care pe alocuri pare a rezista asaltului constant al valurilor mării cu doar niște fâșii vechi de ciment colonial, pulsează pe tot parcursul dimineții din activitatea goeletelor (navelor masive de lemn pictate) sosite de-a lungul coastelor africane. Activitatea cheie este dictată de recoltele fabuloase ale mărilor calde (fructele de mare) dar mai ales de depozitele mari care expediază zeci de paleți adunați manual ce conțin renumita mătase rafie, esențială pentru industriile textile asiatice fine. Geografie K7 — porturile rurale și pădurile de mangrove.",
+      "factsAdvanced": [
+        "Baza navală joacă cel mai proeminent rol nodal în distribuția națională oficială a marii familii de fibre aspre de rafie.",
+        "Dificultatea extremă cauzată de estuare presupune ancorarea cu grijă mare pentru ambarcațiunile exclusiv de tonaj mai ușor mediu.",
+        "Operațiunile portului sunt permanent sufocate și îngrădite în partea marină de aluviuni nisipoase aduse din continent.",
+        "Este frecvent umplut și sufocat simbolic vizual cu sute de canoe locale înguste tradiționale numite regional pirogi Vezo.",
+        "Este de o valoare uluitoare din pricina aprovizionării navale continue cu blocuri groase de material lemnos prețios rusesc.",
+        "Din perimetrul portuar se organizează tururile de barje grele adresate eco-turiștilor explorând delta imensă de mangrove."
+      ]
+    },
+    {
+      "id": "dzamandzar-rum-economic-v2",
+      "descriptionAdvanced": "În inima stațiunii de lux pline de flori Nosy Be stau mândre zidurile decolorate industrial și mirosul puternic de pământ și zaharuri prăjite emise de Dzamandzar (faimoasa Société Agricole de la Sucrerie de Nosy Be), renumit secole întregi drept rafinăria colosală și distileria originală colonială. Fosta inima arhipelagului la începutul secolului XX producea la apogeu o băutură alcoolică de bază, rețeta pură de rom ambră distilat sub franciza istorică de prestigiu, fiind cunoscut local drept spiritul marinarilor liberi. Chiar dacă utilajele ruginite cu prese masive și cazanele prăfuite stau azi predominant în tăcere sau sunt oprite din producția națională largă de zahăr cristalizat brut pe atol, mirosul trecutului de aur colonial a impregnat iremediabil întregul sol vulcanic poros al micului oraș vestic, marcând identitatea economică a întregii insule. Istorie K6 — patrimoniul clădirilor din era colonială de prelucrare agroalimentară.",
+      "factsAdvanced": [
+        "A deținut prestigiul global ca cel mai măreț combinat complex original colonial de extragere a alcoolului rafinat de trestie.",
+        "S-a fondat încă de pe vremea dominației timpurii la mijlocul anilor masivi prosperi ai erei nouăsprezece pe coastele Nosy Be.",
+        "Sutele de plantații istorice dependente de fabrică au pavat istoria aducând masiv forța externă temporară migratoare de pe uscat.",
+        "Fabricarea cantităților sale de rom pur de epocă a obținut un recul notabil pe marile burse elitiste istorice comerciale pariziene.",
+        "Zona fabricii din oraș se face cunoscută simplu localnicilor și călătorilor folosind denumirea clasică simplă abreviată SIRAMA.",
+        "Arhitectura locului include utilaje industriale britanice abandonate aducând ecouri unui muzeu masiv tăcut în aer liber imens."
+      ]
+    },
+    {
+      "id": "tolanaro-port-economic-v2",
+      "descriptionAdvanced": "Orașul Tolanaro (vechiul Fort-Dauphin izolat complet) deținea, cu secole înainte de ridicarea modernului monolit naval Ehoala, un port vechi spectaculos localizat extrem de adânc în brațele falezelor vulcanice înalte și stâncoase. Deși în zilele contemporane este utilizat predominant ca port intern pitoresc, deținut complet de o flotă uriașă de artizani locali de pescuit cu pirogi de lemn greu ancorate direct la mal și vase de agrement pitorești ce transportă curioșii către atracțiile estice fabuloase cu crocodili (Evatra), debarcaderul tradițional deține aura primei mari baze de acostare pionieră a coloniștilor francezi legendari aparținând primei Companii Orientale a Indiilor din anii 1640. Docurile vechi care luptă cu marea sălbatică evocă spiritul exploratorilor navigatori pe coastele teribile de sud. Istorie K8 — navigația și colonizarea primară a Madagascarului.",
+      "factsAdvanced": [
+        "Debarcaderul maritim istoric tradițional de vechime se poziționează în centrul urban imediat al fostei garnizoane masive Fort-Dauphin.",
+        "A deținut monopol de punct absolut oficial pentru desantul inițial pionier din campania Companiei Orientale Franceze a Indiilor (1643).",
+        "Zidul docului de apărare este ferit natural formidabil în calea furtunilor de uriașul colosal de rocă ascuțită denumit regional Pic Saint Louis.",
+        "Astăzi capacitatea operațională principală se focusează vizual asupra logisticii capturilor locale prețioase aparținând uriașelor bărci pescărești africane.",
+        "Funcționalitatea de importuri uriașe maritime a decăzut complet o dată cu grandioasa inaugurare oficială recentă a noului vecin, Port Ehoala.",
+        "Vastele fâșii ale plajei ancorajelor de la golful limitrof adiacent abundă turistic și sportiv masiv, atrăgând constant pasionații mondiali de valuri (surf)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "centralafricanrepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "berberati-cities-v2",
+      "descriptionAdvanced": "Berbérati a Közép-afrikai Köztársaság harmadik legnagyobb városa, a Mambéré-Kadéï régió gazdaságilag jelentős központja. A város a gyémántkereskedelemről és a mezőgazdasági termények piacáról ismert. Története szorosan összefonódik a gyarmati korszakkal, valamint a délnyugati kereskedelmi hálózatok fejlődésével. Ma a város különböző etnikai csoportok olvasztótégelye, akik meghatározzák a régió gazdasági dinamikáját. Földrajz K7 – Nyersanyagkitermelés és helyi kereskedelem.",
+      "factsAdvanced": [
+        "A gyémántipar egyik központja a Közép-afrikai Köztársaságban.",
+        "A Mambéré-Kadéï prefektúra székhelye.",
+        "Fontos bázis a faipar és a fafeldolgozás számára.",
+        "Jelentős szerepet játszik a regionális kereskedelmi hálózatban.",
+        "Földrajzi elhelyezkedés: az ország délnyugati része.",
+        "1952 óta katolikus püspökség székhelye."
+      ]
+    },
+    {
+      "id": "carnot-cities-v2",
+      "descriptionAdvanced": "Carnot a Mambéré-Kadéï prefektúrában található város, amely szintén jelentős szerepet játszik a gyémántbányászat és az ahhoz kapcsolódó kereskedelem területén. A település a régió gazdasági vérkeringésének fontos része, amely a természeti erőforrások kitermelésével és azok környező piacokra történő továbbításával biztosítja a lakosság megélhetését. Carnot fejlődése szorosan köthető a bányászati tevékenységekhez, amelyek a régió infrastrukturális és társadalmi szerkezetét is alapjaiban határozzák meg. Földrajz K7 – Bányászat és környezeti hatások.",
+      "factsAdvanced": [
+        "Jelentős gyémántlelőhelyek találhatók a környéken.",
+        "Fontos szerepet tölt be a helyi gazdasági infrastruktúrában.",
+        "A Mambéré-Kadéï prefektúra egyik meghatározó települése.",
+        "Kereskedelmi útvonalak kereszteződése a régióban.",
+        "A város környékét trópusi erdők borítják.",
+        "A lakosság fő megélhetési forrása a bányászat és a kisüzemi mezőgazdaság."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(34,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(40,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(76,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(82,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(118,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(124,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(160,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(166,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(207,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(213,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(254,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(260,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(301,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(307,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(348,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(354,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(395,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(401,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(442,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(448,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(489,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(495,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(536,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(542,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(583,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(589,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(630,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(636,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(677,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(683,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(724,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraCzechRepublicCities.ts(730,5): error TS1117: An object literal cannot have multiple properties with the same name.
+lib/visualLab/data/poiExtraParaguayEconomicV2.ts(1,42): error TS2304: Cannot find name 'POI'.
+lib/visualLab/data/poiExtraParaguayHistoryV2.ts(1,41): error TS2304: Cannot find name 'POI'.
+lib/visualLab/data/poiExtraParaguayLandmarksV2.ts(1,43): error TS2304: Cannot find name 'POI'.
+lib/visualLab/data/poiExtraParaguayLifeV2.ts(1,38): error TS2304: Cannot find name 'POI'.
+lib/visualLab/maps/resolver.ts(46,10): error TS2305: Module '"../data/francePoi"' has no exported member 'franceAllPoi'.
+lib/visualLab/maps/resolver.ts(91,10): error TS2305: Module '"../data/slovakiaPoi"' has no exported member 'slovakiaAllPoi'.
+lib/visualLab/maps/resolver.ts(112,10): error TS2305: Module '"../data/icelandPoi"' has no exported member 'icelandPois'.
+lib/visualLab/maps/resolver.ts(132,10): error TS2724: '"../data/moldovaPoi"' has no exported member named 'moldovaAllPoi'. Did you mean 'moldovaPoi'?
+scripts/gen_chile_seo.ts(2,21): error TS2307: Cannot find module './poi' or its corresponding type declarations.
+update_andorra.ts(1,21): error TS2307: Cannot find module './poi' or its corresponding type declarations.
+usa_sample.ts(2,26): error TS2307: Cannot find module './poi' or its corresponding type declarations.

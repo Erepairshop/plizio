@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "labuan-cities-v2",
+      "descriptionAdvanced": "Labuan egy stratégiai fontosságú szövetségi terület (Federal Territory) Kelet-Malajziában, Sabah partjainál. A 92 négyzetkilométeres sziget 1990-ben vált nemzetközi offshore pénzügyi központtá, amely bankok és biztosítók százait vonzotta a térségbe. A sziget gazdaságának másik fő pillére a mélyvízi kikötő és az ahhoz kapcsolódó kőolaj- és gázipari szolgáltatások. Történelmileg Labuan 1846-ban brit koronagyarmat lett, és a második világháború alatt itt adta meg magát a japán 37. hadsereg. A Victoria város (ma Bandar Labuan) néven alapított település a Dél-kínai-tenger hajózási útvonalainak egyik legfontosabb csomópontja. Gazdaságföldrajz és történelem tantárgyak keretében a sziget bemutatja az offshore gazdaságok működését és a tengeri határok fontosságát.",
+      "factsAdvanced": [
+        "1990-ben nemzetközi offshore pénzügyi központtá (IBFC) nyilvánították.",
+        "A sziget 1984-ben lett hivatalosan Malajzia Szövetségi Területe.",
+        "1846-tól a Brit Birodalom koronagyarmataként működött.",
+        "Területe összesen hét kisebb szigetet foglal magába.",
+        "Jelentős központja az offshore olaj- és gázipari szolgáltatásoknak.",
+        "A japán erők 1945. szeptember 9-én itt tették le a fegyvert Borneón."
+      ]
+    },
+    {
+      "id": "batu-pahat-cities-v2",
+      "descriptionAdvanced": "Batu Pahat Johor állam második legnépesebb városa, amely a Malakka-szoros partján fekszik. A település neve malájul 'vésett követ' jelent, amely a 15. századból származó helyi legendákra utal, amikor sziámi katonák kutat ástak a köves talajba. A város történelmileg az ország egyik legfontosabb textílipari és ruházati központja, ahol a malajziai textiltermelés jelentős százaléka zajlik. Az ipar mellett a helyi gazdaság fontos alapját képezi az élelmiszer-feldolgozás, különösen a hagyományos kínai rágcsálnivalók gyártása. Kiterjedt ipari parkjai és a mezőgazdasági területekkel való harmonikus kapcsolata miatt a gazdaságföldrajz és az ipartörténet kiváló esettanulmánya.",
+      "factsAdvanced": [
+        "Neve malájul 'vésett követ' jelent egy 15. századi kút alapján.",
+        "Johor állam második legnépesebb városa Johor Bahru után.",
+        "Malajzia egyik legnagyobb textilipari és ruházati gyártóközpontja.",
+        "A lakosság több mint felét hagyományosan kínai származásúak teszik ki.",
+        "A város körüli területek kiterjedt kókusz- és pálmaolaj-ültetvények.",
+        "Több mint 400 textilgyártó vállalkozás működik a térségben."
+      ]
+    },
+    {
+      "id": "kulim-cities-v2",
+      "descriptionAdvanced": "Kulim Kedah állam délkeleti részén, Penang állam határán fekvő gyorsan fejlődő iparváros. A település eredetileg a gumi- és ónbányászatból élt, de igazi fellendülését 1996-ban a Kulim Hi-Tech Park (KHTP) megnyitása hozta el. Ez a park Malajzia első integrált csúcstechnológiai ipari övezete, amely mára globális technológiai vállalatok (pl. Intel, Infineon) gyártóközpontjává vált. A város demográfiai robbanását az ipari lehetőségek által vonzott fiatal munkaerő generálta, így Kulim mára a régió egyik legdinamikusabb gazdasági központja. A modern elektronikai ipar és a külföldi közvetlen befektetések (FDI) szerepének bemutatására a gazdaságföldrajz oktatásában kiemelkedő példát szolgáltat.",
+      "factsAdvanced": [
+        "Otthont ad a Kulim Hi-Tech Parknak (1996), Malajzia első csúcstechnológiai parkjának.",
+        "Penang határán fekszik, és annak ipari agglomerációjához tartozik.",
+        "Több tucat nemzetközi félvezető- és elektronikai vállalat gyára működik itt.",
+        "Nevét a Kulim nevű helyi őshonos fáról (Scorodocarpus borneensis) kapta.",
+        "A város környéki dombok a 19. században ónbányászati központok voltak.",
+        "A technológiai park területe meghaladja az 1700 hektárt."
+      ]
+    },
+    {
+      "id": "taiping-cities-v2",
+      "descriptionAdvanced": "Taiping Perak állam északi részének történelmi bányászvárosa, amely egyike volt Malajzia első modern infrastruktúrával ellátott településeinek. Nevét, amely kínaiul 'Nagy Békét' jelent, a véres laruti háborúk (1861-1874) lezárása után kapta, amikor az egymással rivalizáló kínai titkos társaságok békét kötöttek. A gazdag ónkészletek révén Taiping volt az ország első vasútvonalának (1885) végállomása, és itt nyílt meg Malajzia első múzeuma, börtöne és kórháza is. A város büszkesége a Taiping-tókertek (Taman Tasik Taiping), amely egy korábbi ónbánya helyén létesült hatalmas parkrendszer. Történelemből és természettudományokból az ipari táj rehabilitációjának és a korai brit várostervezésnek ragyogó példája.",
+      "factsAdvanced": [
+        "Neve kínai eredetű, jelentése 'Nagy Béke'.",
+        "Itt nyílt meg Malajzia első vasútvonala 1885-ben, Port Weld felé.",
+        "A Taiping-tókertek (1880) az ország legrégebbi közparkja.",
+        "Itt található Malajzia legrégebbi múzeuma, a Perak Múzeum (1883).",
+        "A város környéke az ország legcsapadékosabb területe.",
+        "A település 1876-tól Perak állam fővárosa volt Ipoh 1937-es kinevezéséig."
+      ]
+    },
+    {
+      "id": "lahad-datu-cities-v2",
+      "descriptionAdvanced": "Lahad Datu Sabah állam keleti partvidékén, a Darvel-öbölben található dinamikus mezőgazdasági és kikötőváros. A település a trópusi faipar és a hatalmas pálmaolaj-ültetvények, különösen a környező FELDA Sahabat területek központja. A város környéke egyedülálló természeti értékekkel bír, mint például a Danum-völgy és a Tabin Vadvédelmi Terület, amelyek a világ legrégebbi esőerdeit őrzik. 2013-ban a település nemzetközi figyelmet kapott a lahad datu-i fegyveres konfliktus miatt, amikor a szomszédos Fülöp-szigetekről érkező fegyveresek betörtek a régióba. Gazdaság és társadalomismeret szempontjából a mezőgazdasági expanzió és a geopolitikai határkérdések oktatására tökéletes helyszín.",
+      "factsAdvanced": [
+        "Sabah egyik legfontosabb pálmaolaj-termelő és exportáló központja.",
+        "A Darvel-öböl partján fekszik, gazdag tengeri élővilággal.",
+        "Itt található a hatalmas FELDA Sahabat, az ország legnagyobb mezőgazdasági telepe.",
+        "A közelben fekszik a híres Danum-völgy Természetvédelmi Terület.",
+        "2013 februárjában súlyos fegyveres konfliktus színhelye volt.",
+        "Jelentős repülőtérrel és kikötővel rendelkezik a fa- és olajexport támogatására."
+      ]
+    },
+    {
+      "id": "port-klang-trade-hub-economic-v2",
+      "descriptionAdvanced": "Port Klang, az egykori Port Swettenham, Malajzia első számú és Délkelet-Ázsia második legforgalmasabb tengeri kapuja, amely Selangor államban a Klang-folyó torkolatánál fekszik. A kikötőt hivatalosan 1901-ben nyitották meg a brit gyarmati adminisztráció alatt, azzal a céllal, hogy összekössék a gazdag ónbányászati régiókat a globális kereskedelemmel. Ma három fő terminálból áll (Északi, Déli és Nyugati Kikötő), és a világ 20 legnagyobb konténerkikötőjének egyikeként a globális ellátási láncok kritikus láncszeme. Stratégiai fekvése a Malakka-szorosban lehetővé teszi, hogy hatalmas tranzitforgalmat bonyolítson le Európa és Kelet-Ázsia között. Földrajz és gazdaságtan tantárgyakban a logisztika és a tengeri áruszállítás modellezésére használható alapvető példa.",
+      "factsAdvanced": [
+        "1901-ben alapították, eredeti neve Port Swettenham volt.",
+        "Malajzia legforgalmasabb teherkikötője és a világ 20 legnagyobbjának egyike.",
+        "Három fő terminálból (Northport, Southport, Westport) áll.",
+        "Több mint 13 millió TEU (húsz láb egyenértékű) konténerforgalmat kezel évente.",
+        "A Malakka-szoros kulcsfontosságú pontján helyezkedik el.",
+        "Közvetlen vasúti és autópálya-összeköttetéssel rendelkezik Kuala Lumpurral."
+      ]
+    },
+    {
+      "id": "tanjung-pelepas-port-trade-hub-economic-v2",
+      "descriptionAdvanced": "A Tanjung Pelepas Kikötő (PTP) Johor állam délnyugati csücskében található, amely 1999-es megnyitása óta a világ egyik leggyorsabban növekvő konténertermináljává vált. Közvetlen közelsége a nemzetközi hajózási útvonalakhoz a Malakka-szorosban ideális tranzitország-szerepet biztosít számára, komoly versenytársává téve a közeli Szingapúrnak. A kikötő fejlett technológiával, hatalmas darukkal és mélyvízi merüléssel rendelkezik, amely lehetővé teszi a világ legnagyobb teherhajóinak fogadását. Jelentős nemzetközi hajózási társaságok, köztük a Maersk Line, választották logisztikai központjuknak a térségben. Gazdaságföldrajzi szempontból ez a kikötő a nemzetközi versenyképesség és az infrastrukturális tervezés modern mintapéldája.",
+      "factsAdvanced": [
+        "A kikötőt hivatalosan 1999-ben nyitották meg a forgalom előtt.",
+        "Délkelet-Ázsia egyik legfejlettebb, mélyvízi konténerterminálja.",
+        "A Malakka-szoros és a Szingapúri-szoros találkozásánál fekszik.",
+        "A Maersk Line, a világ egyik legnagyobb hajózási cége ide helyezte át ázsiai központját 2000-ben.",
+        "Képes a legnagyobb, 20 000 TEU kapacitású 'Mega-Vessels' hajók fogadására.",
+        "Az Iskandar Malaysia gazdasági fejlesztési zóna kritikus része."
+      ]
+    },
+    {
+      "id": "bayan-lepas-ftez-industry-economic-v2",
+      "descriptionAdvanced": "A Bayan Lepas Szabadkereskedelmi Övezet (FTEZ) Penang szigetének délkeleti részén, repülőtér közelében terül el, és gyakran a 'Kelet Szilícium-völgyeként' emlegetik. Az 1972-ben alapított ipari park Malajzia első ilyen jellegű létesítménye volt, és kulcsszerepet játszott az ország agrárgazdaságának modern ipari gazdasággá alakításában. A kezdeti időszakban a 'Nyolc Szamuráj' néven ismert úttörő multinacionális cégek (pl. Intel, AMD, Bosch) települtek ide, letéve az ország elektronikai gyártásának alapjait. Ma több tízezer mérnököt és technikust foglalkoztat, és a világ félvezető exportjának jelentős hányadát állítja elő. A technológia, a gazdaság és a történelem tantárgyak keretében a külföldi befektetések regionális hatásának klasszikus példája.",
+      "factsAdvanced": [
+        "1972-ben hozták létre Malajzia első szabadkereskedelmi övezeteként.",
+        "Gyakran a 'Kelet Szilícium-völgye' néven hivatkoznak a régióra.",
+        "Az első betelepülő 8 tech cég (a 'Nyolc Szamuráj') indította el a fejlődést.",
+        "Több mint 300 multinacionális elektronikai vállalat működik a területén.",
+        "A Penang Nemzetközi Repülőtér közvetlen közelében fekszik a gyors logisztika érdekében.",
+        "A világ félvezető tesztelési és tokozási piacának több mint 5%-át adja."
+      ]
+    },
+    {
+      "id": "rawang-automotive-industry-economic-v2",
+      "descriptionAdvanced": "Rawang, egykor csendes ónbányász kisváros Selangor államban, mára a malajziai autóipar egyik lüktető központjává alakult át. A város 1994-ben lépett az ipari térképre, amikor a Perodua, az ország második nemzeti autógyártója, itt nyitotta meg hatalmas, 160 hektáros gyártókomplexumát. A gyár több ezer helyi lakosnak ad munkát, és évente több százezer járművet állít elő, melyek közül sok Malajzia legkelendőbb modellje (pl. Perodua Myvi). A város infrastruktúrája és lakossága ugrásszerűen megnőtt a nehézipari beruházásoknak köszönhetően, a lakóparkok és az ipari zónák sűrű hálózatát hozva létre. A mérnöki ismeretek és a gazdaságföldrajz terén az autóipar munkahelyteremtő és városfejlesztő hatásait lehet itt tanulmányozni.",
+      "factsAdvanced": [
+        "A Perodua autógyár 1994-es megnyitása jelentette az ipari boom kezdetét.",
+        "A gyártókomplexum több mint 160 hektáros területen fekszik.",
+        "Évente több mint 200 000 járművet szerelnek össze a helyi üzemekben.",
+        "Kuala Lumpurtól mintegy 30 kilométerre északnyugatra található.",
+        "A város környéke korábban az ón- és cementipar központja volt.",
+        "Az autóipar jelentős beszállítói hálózatot hozott létre Rawang térségében."
+      ]
+    },
+    {
+      "id": "kerteh-petrochemical-complex-energy-economic-v2",
+      "descriptionAdvanced": "A Kerteh Petrolkémiai Komplexum Terengganu állam partvidékén az ország fosszilis energiaiparának legfontosabb feldolgozó központja. A létesítményt az 1980-as években kezdték fejleszteni a közeli Dél-kínai-tenger alatt fekvő hatalmas offshore olaj- és földgázmezők felfedezését követően. A komplexum magába foglalja az olajfinomítókat, a gázfeldolgozó üzemeket, valamint a kiterjedt csővezeték-hálózatot (Peninsular Gas Utilisation projekt). Ez az ipari csomópont tette lehetővé, hogy Malajzia egyszerű nyersanyag-exportőrből magas hozzáadott értékű vegyipari termékek, például műanyagok és műtrágyák gyártójává váljon. Kémia és gazdaságföldrajz órákon a szénhidrogének komplex feldolgozási folyamatainak bemutatására kiváló helyszín.",
+      "factsAdvanced": [
+        "Az 1980-as évek elején indult meg a terület ipari fejlesztése.",
+        "Terengganu állam partvidékén, a Dél-kínai-tenger mellett található.",
+        "A Peninsular Gas Utilisation (PGU) gázvezeték-rendszer kiindulópontja.",
+        "Több mint 40 különböző petrolkémiai üzemet és finomítót foglal magába.",
+        "Az offshore fúrótornyok közvetlenül csővezetéken juttatják ide a nyersanyagot.",
+        "Malajzia etilén és polietilén gyártásának legnagyobb bázisa."
+      ]
+    },
+    {
+      "id": "pasir-gudang-heavy-industry-economic-v2",
+      "descriptionAdvanced": "Pasir Gudang Johor állam legjelentősebb nehézipari zónája, amely a Johor-szoros partján, Szingapúrral szemben terül el. A város az 1970-es években indult fejlődésnek, és az ország egyik legfontosabb hajóépítő, vegyipari és acélipari központjává nőtte ki magát. Emellett a pálmaolaj-finomítás és tárolás globális központja is, hatalmas tartályparkjai a világ ehetőolaj-kereskedelmének jelentős részét szolgálják ki. A helyi mélyvízi kikötő (Johor Port) közvetlen hozzáférést biztosít a nehézipari termékek tengeri exportjához. A gazdaságföldrajz oktatásban a tengerparti iparosítás és az integrált logisztikai hálózatok (kikötő és gyárak) együttműködését szemlélteti.",
+      "factsAdvanced": [
+        "Az ipari övezet és a város hivatalos fejlesztése 1977-ben kezdődött.",
+        "A város ad otthont a világ egyik legnagyobb egybefüggő pálmaolaj-tároló létesítményének.",
+        "Jelentős központja a hajóépítésnek és az acélgyártásnak Malajziában.",
+        "A Johor-szoros északi partján, Szingapúr ipari zónáival szemben található.",
+        "A Johor Kikötő közvetlen tengeri kapcsolatot biztosít a helyi nehéziparnak.",
+        "Több mint 300 multinacionális vállalat gyára működik az övezetben."
+      ]
+    },
+    {
+      "id": "bintulu-lng-complex-energy-economic-v2",
+      "descriptionAdvanced": "A Bintulu LNG (Liquefied Natural Gas) Komplexum Sarawak állam partvidékén a világ egyik legnagyobb egy helyen működő cseppfolyósított földgáz-előállító létesítménye. Az 1980-as évek elején épült komplexum a Dél-kínai-tenger Central Luconia gázmezőiből származó nyersanyagot dolgozza fel. A hatalmas, mintegy 276 hektáros területen elterülő gyárak évente közel 30 millió tonna LNG-t állítanak elő, amelyet speciális tartályhajókkal exportálnak elsősorban Japánba, Dél-Koreába és Kínába. A komplexum a malajziai állami olajvállalat (PETRONAS) technológiai büszkesége, amely radikálisan növelte az ország exportbevételeit. Fizika, kémia és gazdaságföldrajz tanulmányokhoz a gázok cseppfolyósításának és a globális energiakereskedelemnek lenyűgöző példája.",
+      "factsAdvanced": [
+        "A komplexum területe meghaladja a 276 hektárt.",
+        "Éves termelési kapacitása eléri a 29,3 millió tonna LNG-t.",
+        "Az első cseppfolyósított gázszállítmány 1983-ban indult útnak Japánba.",
+        "A világ egyik legnagyobb egy helyszínen lévő LNG-feldolgozó létesítménye.",
+        "A nyersgázt a parttól 100-250 kilométerre lévő offshore mezőkről kapja.",
+        "Az export jelentős része speciális, szigetelt tartályhajókon hagyja el a kikötőt."
+      ]
+    },
+    {
+      "id": "penang-port-trade-hub-economic-v2",
+      "descriptionAdvanced": "A Penang Kikötő Malajzia legrégebbi mélyvízi teherkikötője, amely a Malakka-szoros északi bejáratánál stratégiai pozíciót tölt be. A kikötőt 1786-ban alapították a britek, de a modern konténerterminálok többsége ma már nem a szigeten, hanem a szárazföldi oldalon (Butterworth) működik. Hatalmas logisztikai csomópontként nemcsak Penang és Észak-Malajzia iparát szolgálja ki, hanem fontos tranzitkikötője Dél-Thaiföld áruinak is, mivel a két régiót sűrű vasúti és közúti hálózat köti össze. A történelmi és modern kereskedelem keveredése ezen a helyszínen kiválóan bemutatja a gazdaságföldrajzban a kikötői agglomerációk és a szárazföldi korridorok fontosságát.",
+      "factsAdvanced": [
+        "1786-ban alapították a Brit Kelet-indiai Társaság idején.",
+        "Malajzia legrégebbi, folyamatosan működő tengeri kikötője.",
+        "A modern konténerterminál (NBCT) a szárazföldi Butterworth-ben található.",
+        "A kikötő jelentős tranzitpontja a dél-thaiföldi exporttermékeknek.",
+        "Több mint 2 millió TEU konténert képes kezelni évente.",
+        "A sziget és a szárazföld között hatalmas komphálózatot is üzemeltet."
+      ]
+    },
+    {
+      "id": "mamut-copper-mine-mine-economic-v2",
+      "descriptionAdvanced": "A Mamut Rézbánya Sabah államban, a Kinabalu-hegy keleti lejtőin található, és az ország egyetlen nagyszabású külszíni rézbányája volt. 1975 és 1999 között működött, és ez idő alatt jelentős mennyiségű rezet, aranyat és ezüstöt termelt ki. Bár a bánya gazdaságilag rendkívül jövedelmező volt, bezárása után hatalmas környezeti sebet hagyott maga után. A 1,2 kilométer széles és közel 500 méter mély kráter ma egy savas bányató, amely állandó környezetvédelmi kockázatot jelent a környező folyókra nézve. A terület kiváló esettanulmány a környezettudományok és a biológia számára az ipari bányászat ökológiai lábnyomának és a tájrehabilitáció hiányának megértéséhez.",
+      "factsAdvanced": [
+        "1975 és 1999 között aktívan működő külszíni rézbánya volt.",
+        "A Kinabalu-hegy lejtőin, megközelítőleg 1300 méteres tengerszint feletti magasságban fekszik.",
+        "Működése során aranyat és ezüstöt is kitermeltek melléktermékként.",
+        "A hátrahagyott kráter 1,2 kilométer széles és közel 500 méter mély.",
+        "A bánya bezárása után egy erősen savas vízű mesterséges tó jött létre benne.",
+        "Malajzia egyetlen nagyszabású porfíros rézlelőhelye volt."
+      ]
+    },
+    {
+      "id": "kulim-hitech-park-industry-economic-v2",
+      "descriptionAdvanced": "A Kulim Hi-Tech Park (KHTP) Kedah államban Malajzia első és legsikeresebb integrált csúcstechnológiai ipari övezete, amelyet az 1990-es évek elején terveztek a Szilícium-völgy mintájára. A több mint 1700 hektáron elterülő park hivatalosan 1996-ban nyílt meg, és kifejezetten a tőkebefektetést és a tudásalapú iparágakat célozta meg. Világméretű technológiai óriások, mint az Intel, a Fuji Electric és a First Solar hoztak itt létre hatalmas gyártó- és kutatóközpontokat. A park nemcsak ipari terület, hanem zöld lakóövezeteket, egyetemeket és kórházat is magában foglal. A gazdaságföldrajz és technológiai ismeretek oktatása során a KHTP bemutatja az FDI (külföldi közvetlen befektetés) és a magas hozzáadott értékű termelés fontosságát egy feltörekvő gazdaságban.",
+      "factsAdvanced": [
+        "Hivatalosan 1996-ban nyitotta meg kapuit Malajzia első hi-tech parkjaként.",
+        "Az ipari park teljes területe meghaladja az 1700 hektárt.",
+        "Penang határától és logisztikai hálózatától mindössze 30 km-re található.",
+        "A világ legnagyobb félvezető- és napelemgyártóinak ad otthont.",
+        "A terület 6 elkülönített zónára (ipari, K+F, lakó, kereskedelmi, stb.) van osztva.",
+        "Több mint 30 ezer magasan képzett munkavállalót foglalkoztat a park."
+      ]
+    },
+    {
+      "id": "klia-aeropolis-trade-hub-economic-v2",
+      "descriptionAdvanced": "A KLIA Aeropolis a Kuala Lumpur Nemzetközi Repülőtér (KLIA) köré épült hatalmas, 100 négyzetkilométeres integrált repülőtéri város és logisztikai csomópont Selangor államban. A koncepció célja, hogy a hagyományos repülőtéri modellt meghaladva egy globális kereskedelmi, e-kereskedelmi és repülőgépipari központot hozzanak létre. Itt található a világ első digitális szabadkereskedelmi zónája (DFTZ) is, amelyet a maláj kormány az Alibabával közösen indított el a globális online kereskedelem felgyorsítására. Az Aeropolis magában foglalja a logisztikai parkokat, a légiközlekedési karbantartó központokat (MRO) és a repülőtéri szállodákat is. Ez a terület a gazdaságföldrajz tantárgyban az e-kereskedelem és az 'aerotropolisz' (repülőtér-város) várostervezési modell tanulmányozására alkalmas.",
+      "factsAdvanced": [
+        "A KLIA repülőtér körüli mintegy 100 négyzetkilométeres területet foglalja magába.",
+        "Itt hozták létre a világ első Digitális Szabadkereskedelmi Zónáját (DFTZ) 2017-ben.",
+        "A logisztikai központ az e-kereskedelmi áruk ázsiai elosztóbázisa.",
+        "Jelentős központja a repülőgépipari karbantartásnak és javításnak (MRO).",
+        "A terület három fő klaszterre: logisztika, repülőgépipar és kereskedelem/turizmus épül.",
+        "A KLIA és a KLIA2 terminálok utasforgalmára és teherforgalmára támaszkodik."
+      ]
+    },
+    {
+      "id": "bukit-beruntung-industrial-park-industry-economic-v2",
+      "descriptionAdvanced": "Bukit Beruntung Ipari Park egy hatalmas gazdasági fejlesztési övezet Selangor állam északi részén, amelyet eredetileg az 1990-es évek elején terveztek az ország új, modern gépjárműipari központjának. Bár az 1997-es ázsiai pénzügyi válság lelassította a növekedését és emiatt sokáig 'szellemvárosként' tartották számon, az elmúlt évtizedekben újra fellendült. Ma már számtalan autóalkatrész-gyártó és nehézipari vállalat otthona, amelyek a közeli Rawangban működő Perodua gyárat szolgálják ki. Kiváló autópálya-összeköttetése (PLUS) stratégiai elosztó központtá tette a logisztikai cégek számára is. Városfejlesztés és gazdaságföldrajz témakörben a gazdasági válságok ipari parkokra gyakorolt hatásait és azok újraélesztését lehet itt elemezni.",
+      "factsAdvanced": [
+        "Az 1990-es évek elején kezdték fejleszteni az autóipar központjának.",
+        "Fejlődését súlyosan visszavetette az 1997-es ázsiai gazdasági válság.",
+        "Stratégiai fekvésű a PLUS Észak-Dél autópálya mentén.",
+        "Napjainkban jelentős autóalkatrész-beszállítói klaszter működik itt.",
+        "A területen hatalmas multinacionális logisztikai raktárak (pl. Tesco/Lotus) létesültek.",
+        "Az ipari zóna közvetlenül kapcsolódik a szomszédos Bukit Sentosa lakónegyedhez."
+      ]
+    },
+    {
+      "id": "manjung-power-plant-energy-economic-v2",
+      "descriptionAdvanced": "A Sultan Azlan Shah Erőmű, ismertebb nevén a Manjung Erőmű, Malajzia egyik legnagyobb és legmodernebb széntüzelésű hőerőműve, amely Perak állam tengerpartján egy mesterséges szigeten kapott helyet. A komplexum több fázisban épült 2003 és 2017 között, és ez az első olyan erőmű az országban, amely ultraszuperkritikus (USC) technológiát alkalmaz. Ez a technológia sokkal magasabb hőmérsékleten és nyomáson működik, ezáltal növeli a hatásfokot és jelentősen csökkenti a szén-dioxid-kibocsátást a hagyományos szénerőművekhez képest. Az erőmű kapacitása biztosítja a Maláj-félsziget áramszükségletének jelentős százalékát. Fizika és környezetismeret tantárgyak keretében az energiaelőállítás hatékonyságának és az ipari kibocsátáscsökkentés mérnöki kihívásainak bemutatására szolgál.",
+      "factsAdvanced": [
+        "A komplexum Perak állam partjainál, egy mesterséges szigeten helyezkedik el.",
+        "Összkapacitása eléri a 4100 megawattot, ami Malajzia egyik legnagyobbja.",
+        "Az ország első erőműve, amely ultraszuperkritikus (USC) technológiát használ.",
+        "A szenet főleg Indonéziából és Ausztráliából importálják saját mélyvízi kikötőjén át.",
+        "A létesítmény az 2000-es évek elején kezdte meg a kereskedelmi energiatermelést.",
+        "Napi vízigényét egy hatalmas tengeri sótalanító és hűtőrendszer biztosítja."
+      ]
+    },
+    {
+      "id": "johor-port-trade-hub-economic-v2",
+      "descriptionAdvanced": "A Johor Kikötő, amely Pasir Gudangban található a Johor-szoros mentén, Malajzia első integrált és többcélú tengeri kikötője volt. 1977-ben adták át a forgalomnak azzal a céllal, hogy a déli állam nyersanyag- és ipari exportját ne kelljen a szomszédos Szingapúron keresztül bonyolítani. A kikötő a világ legnagyobb pálmaolaj-termináljával rendelkezik, és hatalmas száraz ömlesztettáru-kezelő létesítményei vannak, így kulcsszerepe van a műtrágya, a gabona és az acél importjában. A komplexum saját Szabadkereskedelmi Övezettel is rendelkezik, ami logisztikailag vonzóvá teszi a nemzetközi gyártók számára. A gazdaságföldrajz oktatásában a nemzeti kikötők fontosságát és az ömlesztett áruk globális kereskedelmét lehet a példáján keresztül vizsgálni.",
+      "factsAdvanced": [
+        "1977-ben kezdte meg hivatalos működését Pasir Gudang területén.",
+        "A világ egyik legnagyobb tengeri ehetőolaj-terminálja működik itt.",
+        "Az első kikötő Malajziában, amely saját Szabadkereskedelmi Övezettel rendelkezett.",
+        "Évente több mint 30 millió tonna ömlesztett és folyékony árut kezel.",
+        "Közvetlen vasúti összeköttetés köti össze Thaiföldtől egészen a kikötőig.",
+        "A Johor-szoros vízmélysége miatt a kikötő folyamatos kotrási munkákat igényel."
+      ]
+    },
+    {
+      "id": "sungai-besi-mine-mine-economic-v2",
+      "descriptionAdvanced": "A Sungai Besi bánya, amely egykor a világ legnagyobb és legmélyebb nyílt színi ónbányája volt, Kuala Lumpur déli szélén terült el. A bánya története az 1800-as évek végére nyúlik vissza, és az 1900-as évek elején a Sungai Besi Mines Ltd brit vállalat hatalmas gépesített munkálatokkal kezdte el a kitermelést. A bánya hatalmas tölcsére a csúcspontján mintegy 1000 méter széles és több mint 100 méter mély volt. Az ónkészletek kimerülése és az iparág összeomlása után a területet rehabilitálták. Ma a terület egy részén a The Mines Resort City komplexum, benne bevásárlóközpontokkal és luxusszállodákkal áll, míg a bányató népszerű csónakázóhely. Történelemből és földrajzból az ipari táj turisztikai és városfejlesztési újrahasznosításának lenyűgöző példája.",
+      "factsAdvanced": [
+        "Az 1900-as évek elején a világ legnagyobb nyílt színi ónbányája volt.",
+        "A kitermelés mélysége fénykorában meghaladta a 100 métert.",
+        "A hatalmas gépesített termelést a brit Sungai Besi Mines Ltd irányította.",
+        "A bezárt bánya kráterében ma egy 150 hektáros mesterséges tó található.",
+        "A terület rehabilitációjával épült meg a modern The Mines Resort City.",
+        "A bányászat végleges leállítása az 1980-as évek végén következett be."
+      ]
+    },
+    {
+      "id": "gebeng-industrial-estate-industry-economic-v2",
+      "descriptionAdvanced": "A Gebeng Ipari Övezet (Gebeng Industrial Estate) Pahang állam Kuantan városa mellett fekszik, és a Maláj-félsziget keleti partjának legfontosabb vegyipari és petrolkémiai központja. Az 1990-es évek elején létrehozott hatalmas ipari parkot a nemzetközi vegyipari óriások, mint a BASF és a Kaneka fejlesztették tovább milliárdos beruházásokkal. A terület vonzerejét a szomszédos Kuantan Kikötő közelsége és az állami olajvezeték-hálózathoz (PGU) való hozzáférés adja. Ugyanakkor a régió ellentmondásos hírnevet is szerzett a Lynas Corporation ritkaföldfém-feldolgozó üzeme miatt, amely heves környezetvédelmi vitákat váltott ki. Kémia és környezetismeret tantárgyakhoz kapcsolódva az ipari fejlődés és a sugárzó hulladékok kezelésének társadalmi konfliktusait szemlélteti.",
+      "factsAdvanced": [
+        "A mintegy 8600 hektáros ipari zóna Pahang keleti partján található.",
+        "Közvetlen hozzáférést biztosít a Kuantan tengeri kikötőhöz.",
+        "A világ egyik legnagyobb ritkaföldfém-feldolgozó üzeme (Lynas) is itt működik.",
+        "Az ipari terület fókuszában a petrolkémiai és vegyipari termékek gyártása áll.",
+        "Több mint 20 hatalmas multinacionális vállalat gyárának ad otthont.",
+        "Az övezet gázellátását a Peninsular Gas Utilisation (PGU) hálózat biztosítja."
+      ]
+    },
+    {
+      "id": "bakun-hydroelectric-dam-energy-economic-v2",
+      "descriptionAdvanced": "A Bakun Vízerőmű Borneó szigetén, Sarawak állam szívében található, és Délkelet-Ázsia második legnagyobb gátja. Az építése az 1990-es években kezdődött, de a gazdasági válságok miatt többször is felfüggesztették, míg végül 2011-ben kezdte meg az áramtermelést. A 205 méter magas beton-kőgát a Balui-folyót duzzasztja fel, és a létrehozott mesterséges tó (Bakun-tó) területe körülbelül 695 négyzetkilométer – akkora, mint Szingapúr. Bár az erőmű hatalmas mennyiségű megújuló energiát (2400 MW) termel a sarawaki ipar számára, építése közel 10 000 őslakos (főleg Kenyah) kényszerű áttelepítésével és értékes esőerdők elárasztásával járt. Földrajz és társadalomismeret oktatásában a mega-infrastruktúrák környezeti és társadalmi árát mutatja be.",
+      "factsAdvanced": [
+        "A gát magassága 205 méter, ezzel Malajzia legmagasabb völgyzáró gátja.",
+        "Maximális beépített energiatermelő kapacitása 2400 megawatt.",
+        "A gát megépítése mintegy 695 négyzetkilométernyi trópusi esőerdőt árasztott el.",
+        "A mesterséges tó feltöltése 2010 októberében kezdődött.",
+        "Az építkezés miatt mintegy 10 000 őslakost (többnyire Kenyah törzsbelit) kellett áttelepíteni.",
+        "A projektet évtizedes pénzügyi és környezetvédelmi viták késleltették."
+      ]
+    },
+    {
+      "id": "bukit-ibam-mine-mine-economic-v2",
+      "descriptionAdvanced": "A Bukit Ibam bánya Pahang állam sűrű dzsungelében az 1960-as években Délkelet-Ázsia egyik legnagyobb és legfontosabb vasércbányája volt. A Rompin Mining Company által üzemeltetett létesítmény csúcspontján mintegy 3000 munkást foglalkoztatott, és a hegyvidéki vasércet egy speciálisan erre a célra épített, 80 km hosszú magánvasúton szállították a part menti Kuala Rompin kikötőjébe. Miután a magas minőségű vasérc kimerült az 1970-es évek elején, a bánya hirtelen bezárt, és a prosperáló bányászvároskát nagyrészt elnyelte a dzsungel. A hatalmas nyílt bányagödör helyén ma a gyönyörű, kék vizű Bukit Ibam Kék Tó (Tasik Biru) található, amely népszerű helyi turistalátványosság. Történelem és környezetföldrajz tanulmányozásában a természeti erőforrások kimerülésének és a települések elnéptelenedésének klasszikus példája.",
+      "factsAdvanced": [
+        "Az 1960-as években Délkelet-Ázsia egyik legnagyobb vasércbányája volt.",
+        "A bányát egy 80 kilométeres privát vasútvonal kötötte össze Kuala Rompin kikötőjével.",
+        "Fénykorában a bányászváros több ezer dolgozónak és családjuknak adott otthont.",
+        "A vasérc kimerülése miatt a kitermelés az 1970-es évek elején leállt.",
+        "A felhagyott nyílt bányagödör helyén jött létre a türkizkék vizű Tasik Biru (Kék Tó).",
+        "A bányát amerikai és ausztrál érdekeltségű vállalat (Rompin Mining Company) üzemeltette."
+      ]
+    },
+    {
+      "id": "cyberjaya-trade-hub-economic-v2",
+      "descriptionAdvanced": "Cyberjaya Malajzia futurisztikus, kifejezetten az információs technológiára (IT) és a digitális iparra tervezett városa, amelyet a Multimedia Super Corridor (MSC) projekt szíveként hoztak létre 1997-ben. Az egykori pálmaolaj-ültetvényeken felépült várost Putrajaya, a közigazgatási központ ikervárosának szánták. Célja az volt, hogy a délkelet-ázsiai Szilícium-völggyé váljon, odavonzva a világ legnagyobb tech cégeit (pl. IBM, Dell, HP) kedvező adózási feltételekkel és hipergyors optikai hálózattal. A város egyben az oktatás központja is, a Multimédia Egyetem (MMU) és más technológiai intézmények ezreket képeznek itt. Az informatika és a gazdaságföldrajz oktatásában a mesterségesen létrehozott tudásalapú társadalmak és az okosvárosok (smart city) fejlesztésének esettanulmánya.",
+      "factsAdvanced": [
+        "1997 májusában avatták fel a Multimedia Super Corridor (MSC) projekt központjaként.",
+        "Kifejezetten az IT, a K+F és az egyetemi oktatás bázisának épült egykori ültetvényeken.",
+        "Közvetlen szomszédságban fekszik Putrajayával, a közigazgatási fővárossal.",
+        "Területe megközelítőleg 28 négyzetkilométer.",
+        "Több mint 500 nemzetközi és hazai technológiai vállalat működik a városban.",
+        "Itt található a 150 hektáros mesterséges Cyberjaya-tókertek parkja."
+      ]
+    },
+    {
+      "id": "kuantan-port-trade-hub-economic-v2",
+      "descriptionAdvanced": "A Kuantan Kikötő Malajzia keleti partvidékének legnagyobb és legfontosabb tengeri kapuja, amely közvetlenül a Dél-kínai-tengerre nyílik Pahang államban. Az 1984-ben megnyitott kikötő eredetileg a fa, a pálmaolaj és a petrolkémiai termékek exportjára épült. Az elmúlt évtizedekben, különösen a 2013-as kínai befektetések (Malaysia-China Kuantan Industrial Park) hatására, egy hatalmas, új mélyvízi terminált építettek (NDWT), amely képes a legnagyobb teherhajók fogadására is. A kikötő jelentősége kritikus a Kína és Délkelet-Ázsia közötti nyersanyag- és acélkereskedelemben, és végpontja a tervezett Keleti Parti Vasútvonalnak (ECRL). Gazdaságföldrajzi szempontból bemutatja a nemzetközi geopolitikai beruházások és az ömlesztettáru-szállítás regionális hatásait.",
+      "factsAdvanced": [
+        "A tengeri kikötő hivatalos megnyitója 1984-ben volt.",
+        "Malajzia keleti partjának legforgalmasabb teherkikötője a Dél-kínai-tengeren.",
+        "Egy 2013-as projekt keretében nagyszabású mélyvízi terminál (NDWT) épült Kínai tőkével.",
+        "A Malaysia-China Kuantan Industrial Park (MCKIP) elsődleges logisztikai központja.",
+        "Hatalmas mennyiségű vasércet, acélt és pálmaolajat kezel.",
+        "A kikötőt hullámtörő gát védi a monszun idején uralkodó durva tengertől."
+      ]
+    }
+  ]
+}

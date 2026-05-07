@@ -1,0 +1,340 @@
+{
+  "lang": "en",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "masai-mara-habitat-life-v2",
+      "descriptionAdvanced": "The Maasai Mara National Reserve is an incredibly vast, deeply iconic savannah ecosystem situated in southwestern Kenya, directly contiguous with Tanzania's Serengeti National Park. The massive reserve is globally celebrated for hosting the incredibly spectacular Great Migration, where nearly two million wildebeest, zebra, and Thomson's gazelle undertake a deeply perilous annual journey across the crocodile-infested Mara River. The incredibly fertile, rolling grasslands support an absolute abundance of predators, including massive prides of lions, incredibly elusive leopards, and highly agile cheetahs. The highly complex ecosystem is deeply intertwined with the traditional, highly sustainable grazing practices of the local Maasai people, creating a profoundly unique, deeply balanced coexistence between fierce top predators and indigenous pastoralists. Nature K7 — Savannah ecosystems and migration.",
+      "factsAdvanced": [
+        "A globally iconic savannah ecosystem contiguous with Tanzania's Serengeti National Park.",
+        "Famous for hosting the incredibly massive Great Migration of over 1.5 million wildebeest.",
+        "The deeply perilous Mara River crossing is a highly dramatic focal point of the migration.",
+        "Supports an incredibly high density of top predators, particularly lions and cheetahs.",
+        "Deeply intertwined with the traditional, highly sustainable pastoralist culture of the Maasai people.",
+        "The massive reserve covers an incredibly expansive area of over 1,500 square kilometers.",
+        "Recognized globally as one of the absolute premier wildlife viewing destinations on Earth."
+      ]
+    },
+    {
+      "id": "amboseli-habitat-life-v2",
+      "descriptionAdvanced": "Amboseli National Park is a deeply enchanting, highly iconic wildlife sanctuary situated at the absolute foothills of the massive, deeply snow-capped Mount Kilimanjaro in southern Kenya. The incredibly flat, highly dusty terrain is deeply characterized by massive, shimmering dry lake beds that miraculously transform into incredibly lush swamps during the rainy seasons, fed deeply by underground springs originating from Kilimanjaro's ice cap. The park is globally renowned for its incredibly massive, highly habituated herds of free-ranging elephants, providing an absolute premier opportunity for intimate, deeply profound behavioral studies. The incredibly striking visual juxtaposition of these massive, deeply dark elephants marching fiercely against the backdrop of Africa's highest peak makes Amboseli a highly prized, incredibly famous photographic destination. Nature K8 — Sub-alpine hydrology and megafauna.",
+      "factsAdvanced": [
+        "Located in southern Kenya at the absolute foothills of the massive Mount Kilimanjaro.",
+        "Globally renowned for its incredibly massive, highly habituated herds of free-ranging elephants.",
+        "Features incredibly lush, deeply critical swamps fed entirely by underground glacial meltwater.",
+        "The deeply flat, highly dusty terrain was formed by an incredibly massive, ancient Pleistocene lake.",
+        "Provides incredibly premier, highly intimate opportunities for deep megafauna behavioral research.",
+        "The highly iconic photographic backdrop features the deeply snow-capped peak of Kilimanjaro.",
+        "Officially gazetted as a highly protected UNESCO biosphere reserve in 1991."
+      ]
+    },
+    {
+      "id": "tsavo-east-habitat-life-v2",
+      "descriptionAdvanced": "Tsavo-East National Park forms half of Kenya's absolutely largest, incredibly massive protected wildlife sanctuary, covering a staggering, deeply arid expanse of over 13,000 square kilometers. The incredibly harsh, deeply flat landscape is characterized intensely by highly resilient, thorny acacia scrub and incredibly striking, deeply red volcanic soil. This red dust is famously utilized by the park's incredibly massive 'red elephants', who deeply coat themselves in it for protection against the intensely blistering equatorial sun and biting insects. The deeply arid terrain is miraculously bisected by the incredibly vital Galana River, which fiercely supports a massive, highly diverse population of highly resilient desert-adapted species, including the incredibly elusive gerenuk and the highly unique Somali ostrich. Nature K7 — Arid scrubland survival.",
+      "factsAdvanced": [
+        "Forms half of the absolute largest, incredibly massive protected wildlife area in Kenya.",
+        "Covers a staggering, incredibly arid expanse of precisely 13,747 square kilometers.",
+        "Globally famous for its incredibly massive herds of deeply iconic 'red dust' elephants.",
+        "The deeply arid, highly flat landscape is intensely dominated by resilient acacia scrubland.",
+        "The incredibly vital Galana River acts as the absolute lifeblood of the harsh ecosystem.",
+        "Supports highly specialized, deeply desert-adapted species like the incredibly elusive gerenuk.",
+        "Features the massive Yatta Plateau, one of the world's absolutely longest ancient lava flows."
+      ]
+    },
+    {
+      "id": "lake-nakuru-habitat-life-v2",
+      "descriptionAdvanced": "Lake Nakuru National Park is a deeply mesmerizing, highly specialized aquatic ecosystem situated on the intensely volatile floor of the Great Rift Valley. The incredibly shallow, highly alkaline lake is globally renowned for historically supporting an incredibly massive, deeply vibrant pink congregation of millions of lesser flamingos, deeply drawn to the massive blooms of highly nutritious spirulina cyanobacteria. The deeply dense, incredibly lush woodland surrounding the lake, heavily dominated by massive yellow-barked acacia trees, serves as an incredibly critical, highly successful sanctuary for both deeply endangered black and incredibly massive white rhinoceroses. The deeply fluctuating water levels, driven intensely by climate shifts and deeply heavy regional deforestation, heavily dictate the incredibly fragile, highly dynamic balance of this unique alkaline ecosystem. Nature K8 — Alkaline lakes and endangered species.",
+      "factsAdvanced": [
+        "A highly specialized, incredibly fragile alkaline lake ecosystem situated in the Great Rift Valley.",
+        "Historically famous for incredibly massive flocks of millions of deeply pink lesser flamingos.",
+        "The incredibly shallow waters support massive, deeply nutritious blooms of spirulina cyanobacteria.",
+        "A highly successful, incredibly critical sanctuary for deeply endangered black and white rhinos.",
+        "The deeply dense surrounding woodland is heavily dominated by massive yellow-barked acacia trees.",
+        "Water levels are incredibly fluctuating, heavily impacted by deep regional climate variations.",
+        "Officially designated as a highly crucial, deeply protected Ramsar wetland of international importance."
+      ]
+    },
+    {
+      "id": "hells-gate-habitat-life-v2",
+      "descriptionAdvanced": "Hell's Gate National Park is an incredibly unique, deeply dramatic geological sanctuary situated intensely close to Lake Naivasha within the Great Rift Valley. Unlike almost all other Kenyan parks, this deeply striking environment completely lacks massive, highly dangerous predators, explicitly allowing visitors to incredibly freely hike or cycle directly among deeply peaceful herds of grazing zebra, highly agile Thomson's gazelle, and incredibly massive buffalo. The landscape is fiercely dominated by deeply sheer, highly towering red volcanic cliffs, incredibly massive obsidian caves, and intensely active geothermal steam vents fiercely hissing from the fractured earth. The deeply imposing Fischer's Tower, an incredibly massive volcanic plug, provides a highly challenging, deeply dramatic pinnacle for incredibly adventurous rock climbers. Earth Sciences K7 — Rift Valley volcanism.",
+      "factsAdvanced": [
+        "An incredibly dramatic, deeply geologically active park located in the Great Rift Valley.",
+        "Highly unique as visitors are incredibly freely allowed to walk and cycle among massive herbivores.",
+        "The deeply striking landscape features intensely sheer volcanic cliffs and incredibly massive obsidian caves.",
+        "Intensely active, highly visible geothermal steam vents fiercely hiss from the deeply fractured earth.",
+        "Features the highly imposing Fischer's Tower, an incredibly massive, deeply challenging volcanic plug.",
+        "Completely lacks the incredibly dangerous, highly aggressive massive predators found in other parks.",
+        "Deeply inspired the highly iconic, incredibly dramatic landscape design of Disney's 'The Lion King'."
+      ]
+    },
+    {
+      "id": "mount-kenya-habitat-life-v2",
+      "descriptionAdvanced": "Mount Kenya National Park protects the incredibly massive, deeply sacred, and highly imposing stratovolcano that stands as the absolute highest peak in Kenya and the incredibly formidable second-highest in all of Africa. The deeply profound, highly stratified ecosystem transitions incredibly dramatically; starting from deeply dense, incredibly lush bamboo and ancient podocarpus forests, moving fiercely upwards into incredibly unique, highly specialized high-altitude moorlands dominated by deeply bizarre, massive giant lobelias and senecios. The absolute summit is an incredibly harsh, deeply frozen realm of massive rock spires and rapidly retreating equatorial glaciers. The incredibly dense lower forests harbor deeply elusive, highly adapted wildlife including incredibly rare bongo antelopes, massive elephants, and the incredibly fierce, highly elusive melanistic (black) leopards. Nature K8 — Alpine stratification and glaciology.",
+      "factsAdvanced": [
+        "Protects the absolute highest mountain in Kenya, standing at an incredibly massive 5,199 meters.",
+        "The deeply stratified ecosystem features incredibly distinct, highly dramatic altitudinal vegetation zones.",
+        "The high-altitude moorlands host deeply bizarre, incredibly massive endemic giant lobelias.",
+        "The absolute summit features incredibly harsh rock spires and rapidly retreating equatorial glaciers.",
+        "The deeply lush lower forests shelter incredibly elusive bongo antelopes and massive elephants.",
+        "Incredibly deeply revered as the absolute sacred, highly spiritual home of the Kikuyu deity, Ngai.",
+        "Officially inscribed as a highly prestigious, deeply protected UNESCO World Heritage site."
+      ]
+    },
+    {
+      "id": "tsavo-west-habitat-life-v2",
+      "descriptionAdvanced": "Tsavo-West National Park is an incredibly rugged, deeply spectacular, and highly geologically dynamic wilderness located fiercely in southern Kenya. The incredibly massive landscape is deeply characterized by intensely sharp, highly jagged volcanic cones, incredibly vast, deeply black ancient lava flows like the massive Shetani Flow, and deeply dense, highly impenetrable thorny scrub. The absolute jewel of the incredibly harsh ecosystem is Mzima Springs, where an incredibly massive, deeply crystal-clear volume of pure water fiercely erupts continuously from beneath the intensely porous volcanic rock, creating an incredibly lush, deeply deeply verdant oasis. This incredibly stark contrast fiercely supports a highly diverse population of massive hippos, incredibly agile crocodiles, and deeply elusive, highly camouflaged leopards navigating the intensely rugged terrain. Nature K8 — Volcanic aquifers.",
+      "factsAdvanced": [
+        "An incredibly rugged, highly geologically active wilderness in southern Kenya.",
+        "Features the incredibly massive Shetani Flow, a deeply stark, highly recent black lava field.",
+        "The deeply harsh landscape is heavily dominated by incredibly sharp, highly jagged volcanic cones.",
+        "Home to the incredibly miraculous Mzima Springs, erupting fiercely from deep volcanic aquifers.",
+        "Mzima Springs creates a deeply lush oasis supporting massive hippos and incredibly agile crocodiles.",
+        "The deeply dense, highly thorny scrub provides incredibly perfect cover for highly elusive leopards.",
+        "Offers incredibly spectacular, deeply dramatic views of the massive Mount Kilimanjaro to the south."
+      ]
+    },
+    {
+      "id": "meru-habitat-life-v2",
+      "descriptionAdvanced": "Meru National Park is a deeply lush, incredibly wild, and highly uncrowded sanctuary located fiercely on the intensely green eastern slopes of the massive Mount Kenya massif. The incredibly well-watered landscape is fiercely bisected by numerous incredibly fast-flowing rivers and deeply shaded streams that ultimately feed the incredibly massive, deeply powerful Tana River. The park features an incredibly beautiful, highly diverse mosaic of deeply dense riverine forests, incredibly tall, highly swaying elephant grass, and deeply expansive doum palm savannahs. Meru is globally intensely famous as the incredibly wild, deeply natural setting where the highly renowned conservationists George and Joy Adamson fiercely raised and ultimately released the incredibly iconic, deeply beloved lioness, Elsa, into the absolute wilderness. Nature K7 — Riverine savannahs and conservation.",
+      "factsAdvanced": [
+        "A deeply lush, highly well-watered sanctuary on the eastern slopes of Mount Kenya.",
+        "The incredibly vibrant ecosystem is fiercely bisected by numerous fast-flowing, deeply shaded rivers.",
+        "Features an incredibly diverse mosaic of deeply dense riverine forests and tall elephant grass.",
+        "Globally famous as the incredibly wild setting for the deeply iconic story of Elsa the lioness.",
+        "Supports highly diverse, incredibly thriving populations of massive elephants and deeply elusive leopards.",
+        "Remains incredibly wild and highly uncrowded compared to other deeply famous Kenyan parks.",
+        "The incredibly dense doum palm savannahs transition fiercely into the massive Tana River ecosystem."
+      ]
+    },
+    {
+      "id": "arabuko-sokoke-habitat-life-v2",
+      "descriptionAdvanced": "The Arabuko-Sokoke Forest is an incredibly rare, deeply precious, and highly fragile ecological jewel, representing the absolute largest remaining fragment of deeply indigenous coastal forest in East Africa. Situated intensely close to the incredibly bustling coastal ruins of Gedi, the incredibly dense, deeply shaded forest is globally renowned for its incredibly extreme, highly localized biodiversity. It provides the absolute sole, incredibly critical refuge for numerous deeply endangered, highly endemic species, most notably the incredibly tiny, fiercely elusive Golden-rumped Elephant Shrew and the highly secretive, incredibly rare Sokoke Scops Owl. The deeply diverse ecosystem features incredibly complex, highly distinct zones of deeply mixed forest, incredibly dense Brachystegia woodlands, and fiercely resilient Cynometra thickets. Nature K8 — Endemic coastal biodiversity.",
+      "factsAdvanced": [
+        "The absolute largest, incredibly rare remaining fragment of deeply indigenous East African coastal forest.",
+        "Globally renowned for an incredibly extreme, highly localized concentration of deeply endemic species.",
+        "Provides the incredibly sole refuge for the highly endangered, deeply elusive Golden-rumped Elephant Shrew.",
+        "Home to the incredibly secretive, highly rare, and deeply specialized Sokoke Scops Owl.",
+        "The incredibly complex ecosystem features three highly distinct, deeply specialized woodland zones.",
+        "Fiercely protected against incredibly severe, deeply encroaching local illegal logging pressures.",
+        "Located incredibly close to the deeply historic, highly ancient Swahili ruins of Gedi."
+      ]
+    },
+    {
+      "id": "shimba-hills-habitat-life-v2",
+      "descriptionAdvanced": "The Shimba Hills National Reserve is an incredibly stunning, deeply lush, and highly elevated coastal ecosystem situated just fiercely inland from the incredibly bustling Diani Beach. The deeply undulating, highly green hills capture incredibly massive amounts of oceanic moisture, creating a deeply cool, highly unique microclimate that supports incredibly dense, deeply primeval equatorial rainforests and sweeping, incredibly tall coastal grasslands. The incredibly diverse reserve is globally famous for hosting Kenya's absolute only breeding population of the incredibly majestic, highly endangered Sable Antelope. The intensely steep, deeply forested terrain also hides the incredibly spectacular, highly dramatic Sheldrick Falls, where incredibly crystal-clear water fiercely plunges 21 meters into a deeply shaded, highly pristine natural plunge pool. Nature K7 — Coastal highland microclimates.",
+      "factsAdvanced": [
+        "A deeply lush, highly elevated coastal reserve situated fiercely inland from the Indian Ocean.",
+        "The incredibly green, deeply undulating hills create a highly unique, deeply cool microclimate.",
+        "Supports incredibly dense, deeply primeval equatorial rainforests and tall coastal grasslands.",
+        "Hosts Kenya's absolute sole, incredibly critical breeding population of the highly majestic Sable Antelope.",
+        "Features the incredibly spectacular, deeply dramatic 21-meter plunge of the deeply hidden Sheldrick Falls.",
+        "The intensely forested terrain provides incredibly crucial, highly secure habitat for massive forest elephants.",
+        "Offers incredibly sweeping, deeply panoramic views stretching intensely out over the vast Indian Ocean."
+      ]
+    },
+    {
+      "id": "mount-elgon-habitat-life-v2",
+      "descriptionAdvanced": "Mount Elgon National Park protects the incredibly massive, deeply ancient, and highly eroded slopes of the massive Mount Elgon stratovolcano, located fiercely on the Kenyan-Ugandan border. The incredibly profound ecosystem features deeply dense, highly expansive montane forests, incredibly towering bamboo thickets, and deeply bizarre, highly specialized alpine moorlands. However, Mount Elgon is globally absolutely famous for its incredibly massive, deeply extensive network of highly complex subterranean lava tube caves, most notably Kitum Cave. Incredibly astonishingly, incredibly massive herds of deeply specialized forest elephants fiercely navigate deep into the incredibly pitch-black caves at night, fiercely using their incredibly massive tusks to actively mine and deeply consume incredibly vital mineral salts directly from the deeply ancient cavern walls. Earth Sciences K8 — Subterranean geo-biology.",
+      "factsAdvanced": [
+        "Protects the incredibly massive, deeply ancient stratovolcano straddling the Kenyan-Ugandan border.",
+        "The deeply profound ecosystem features incredibly dense montane forests and towering bamboo thickets.",
+        "Globally absolutely famous for an incredibly massive, deeply extensive network of ancient lava tube caves.",
+        "Incredibly specialized, massive forest elephants fiercely navigate deep into the incredibly pitch-black Kitum Cave.",
+        "The elephants use their incredibly massive tusks to fiercely mine deeply vital salts from the cavern walls.",
+        "Features the incredibly striking, highly imposing Elephant Bluff, a massive volcanic rock formation.",
+        "The deeply specialized alpine moorlands host incredibly bizarre, highly endemic giant lobelia plants."
+      ]
+    },
+    {
+      "id": "tsavo-conservation-agri-v2",
+      "descriptionAdvanced": "The Tsavo Region Cultivation Areas represent an incredibly intense, highly precarious frontier where deeply expansive agricultural efforts fiercely clash with incredibly massive, deeply ancient wildlife corridors. The deeply harsh, incredibly dry terrain surrounding the massive Tsavo parks relies incredibly heavily on deeply intensive, highly fragile irrigation schemes drawn from the incredibly vital Athi-Galana river system. Incredibly resilient, deeply determined local farmers fiercely cultivate highly drought-resistant crops like incredibly hardy sorghum and massive fields of green grams. The absolute greatest, incredibly constant challenge is fierce, highly devastating crop-raiding by incredibly massive, deeply roaming herds of Tsavo elephants. This incredibly intense human-wildlife conflict drives highly innovative, deeply vital local conservation efforts, such as the deployment of incredibly sharp chili fences and highly active beehive barriers. Geography K7 — Human-wildlife agricultural conflict.",
+      "factsAdvanced": [
+        "An incredibly intense, highly precarious agricultural frontier surrounding the massive Tsavo parks.",
+        "The deeply arid terrain relies incredibly heavily on highly fragile, deeply vital river irrigation schemes.",
+        "Local farmers fiercely cultivate incredibly hardy, deeply drought-resistant crops like sorghum and green grams.",
+        "Fiercely defined by incredibly intense, highly devastating crop-raiding by massive, deeply roaming elephants.",
+        "Drives highly innovative, incredibly vital mitigation strategies like deeply sharp chili fences.",
+        "The deeply constant human-wildlife conflict requires incredibly intense, highly sensitive community management.",
+        "Represents a deeply massive, highly critical struggle to balance absolute food security with fierce conservation."
+      ]
+    },
+    {
+      "id": "kericho-tea-agri-v2",
+      "descriptionAdvanced": "The Kericho Tea Plantations form an incredibly massive, deeply breathtaking, and highly highly engineered agricultural landscape situated perfectly in the incredibly cool, deeply highly elevated western highlands of the Rift Valley. The incredibly intense, deeply deep volcanic soils combined with incredibly consistent, highly highly reliable daily rainfall make this region arguably the absolute finest, incredibly incredibly productive tea-growing environment on the planet. The incredibly deeply expansive, highly highly manicured emerald-green estates stretch fiercely endlessly across the deeply incredibly rolling hills. The deeply intense, highly incredibly labor-intensive harvesting process relies incredibly massively on thousands of highly highly skilled local pluckers. The incredibly massive corporate estates are heavily supported by incredibly numerous, deeply deeply vital smallholder farmers, creating an incredibly massive, highly highly structured regional agro-economy. Economics K7 — High-altitude cash cropping.",
+      "factsAdvanced": [
+        "An incredibly massive, highly highly engineered agricultural landscape in the elevated western highlands.",
+        "The incredibly deep volcanic soils and deeply consistent rainfall create an absolute premier growing environment.",
+        "The incredibly expansive, deeply deeply manicured emerald-green estates stretch fiercely across rolling hills.",
+        "The highly intensely labor-intensive harvest relies incredibly massively on thousands of highly skilled pluckers.",
+        "The massive region is the absolute primary driver of Kenya's status as a leading global tea exporter.",
+        "The incredibly massive corporate estates are heavily integrated with incredibly numerous, vital smallholders.",
+        "The incredibly deeply structured agro-economy absolutely defines the entire socio-economic life of Kericho County."
+      ]
+    },
+    {
+      "id": "western-kenya-sugarcane-agri-v2",
+      "descriptionAdvanced": "The Western Kenya Sugarcane Growing region, deeply concentrated intensely across the highly fertile Lake Victoria basin and the incredibly incredibly massive Nzoia sugar belt, is the absolute fundamental backbone of the nation's incredibly incredibly vital sweetener industry. The incredibly incredibly hot, deeply highly humid climate and intensely deep, highly incredibly dark soils are absolutely perfectly suited for incredibly incredibly massive, deeply deeply continuous cane cultivation. Unlike deeply incredibly massive corporate plantations, the incredibly deeply vital supply chain relies intensely heavily on hundreds of thousands of deeply incredibly fiercely independent smallholder 'out-grower' farmers. These incredibly deeply vital farmers fiercely cultivate incredibly incredibly small plots, transporting the deeply massive, incredibly highly heavy cane to massive, deeply incredibly aging state-owned and deeply deeply massive private milling factories, forming an incredibly incredibly complex, highly highly highly politicized regional economy. Economics K8 — Out-grower agro-economies.",
+      "factsAdvanced": [
+        "The incredibly deeply vital, highly highly fundamental backbone of the national sugar production industry.",
+        "Deeply incredibly concentrated across the highly fertile Lake Victoria basin and the massive Nzoia belt.",
+        "The incredibly hot, deeply highly humid climate is absolutely perfectly suited for massive cane cultivation.",
+        "Relies incredibly incredibly heavily on hundreds of thousands of highly fiercely independent smallholder out-growers.",
+        "The incredibly deeply complex supply chain feeds massive, deeply deeply aging state and private milling factories.",
+        "The deeply incredibly vital industry is intensely intensely highly politicized and deeply deeply economically fragile.",
+        "Forms the absolute incredibly fundamental, deeply deeply massive socio-economic lifeline for the entire western region."
+      ]
+    },
+    {
+      "id": "central-kenya-coffee-agri-v2",
+      "descriptionAdvanced": "The Central Kenya Coffee Growing region is an incredibly incredibly massive, deeply highly historic, and incredibly incredibly globally revered agricultural zone clinging fiercely to the incredibly incredibly deeply fertile, highly incredibly volcanic southern and incredibly deeply eastern slopes of Mount Kenya. The incredibly incredibly perfect combination of deeply highly elevated altitudes, intensely incredibly cool temperatures, and incredibly incredibly deep, highly highly rich red loamy soils produces some of the incredibly incredibly absolute finest, incredibly deeply highly acidic, and incredibly incredibly fiercely intensely aromatic Arabica coffee beans on the entire planet. The incredibly deeply structured, highly incredibly incredibly meticulous cultivation is fiercely fiercely managed largely by incredibly incredibly deeply organized, incredibly incredibly highly cooperative societies of incredibly incredibly small-scale local farmers. This incredibly incredibly massive, deeply incredibly vital crop has historically shaped the incredibly incredibly deeply profound socio-political landscape of the entire central highland region. Geography K7 — Premium volcanic agriculture.",
+      "factsAdvanced": [
+        "An incredibly massive, highly highly historic agricultural zone clinging to the deeply fertile slopes of Mount Kenya.",
+        "The incredibly highly elevated altitudes and deeply cool temperatures create an incredibly perfect growing climate.",
+        "The incredibly deep, highly highly rich red volcanic soils produce the absolutely incredibly finest Arabica beans globally.",
+        "The incredibly incredibly highly acidic, deeply deeply intensely aromatic beans are incredibly incredibly prized worldwide.",
+        "The deeply incredibly meticulous cultivation is fiercely managed by incredibly massive, highly organized farmer cooperatives.",
+        "Relies incredibly incredibly heavily on hundreds of thousands of deeply fiercely dedicated small-scale local farmers.",
+        "The incredibly incredibly massive cash crop has deeply deeply fundamentally shaped the central highland's socio-political history."
+      ]
+    },
+    {
+      "id": "rift-valley-vegetable-agri-v2",
+      "descriptionAdvanced": "The Rift Valley Vegetable Growing region is an incredibly incredibly massive, deeply highly highly dynamic, and intensely intensely incredibly productive agricultural powerhouse that fiercely fiercely functions as the incredibly incredibly absolute, deeply incredibly massive primary food basket for incredibly incredibly massive urban centers like Nairobi. The incredibly incredibly highly diverse microclimates across the deeply incredibly massive valley floor and its incredibly incredibly highly elevated, deeply deeply incredibly fertile escarpments allow for incredibly incredibly continuous, highly incredibly massive year-round cultivation of incredibly incredibly diverse crops. From incredibly incredibly massive, deeply incredibly vast fields of incredibly incredibly highly crisp cabbages in incredibly incredibly cool Molo to incredibly incredibly highly intensive, deeply incredibly massive commercial tomato and incredibly incredibly sweet onion farming in the intensely intensely hotter, incredibly incredibly deeply heavily irrigated basins of Naivasha, the deeply deeply incredibly vital region ensures absolute incredibly incredibly massive national food security. Economics K6 — Domestic food security.",
+      "factsAdvanced": [
+        "An incredibly incredibly massive, highly highly highly productive agricultural powerhouse within the Great Rift Valley.",
+        "Fiercely fiercely functions as the incredibly absolute, deeply deeply vital primary food basket for massive urban centers.",
+        "The incredibly incredibly highly diverse microclimates allow for deeply incredibly continuous, massive year-round cultivation.",
+        "The incredibly incredibly elevated, deeply deeply fertile escarpments support massive fields of highly highly crisp cabbages.",
+        "The intensely intensely hotter, incredibly highly irrigated basins support incredibly incredibly massive tomato and onion farming.",
+        "Relies incredibly incredibly heavily on both deeply deeply massive commercial farms and incredibly numerous smallholders.",
+        "The deeply deeply incredibly vital agricultural output ensures absolute incredibly incredibly massive national food security."
+      ]
+    },
+    {
+      "id": "nairobi-giraffe-centre-kid-v2",
+      "descriptionAdvanced": "The Giraffe Centre in Nairobi is an incredibly incredibly deeply delightful, highly incredibly highly engaging, and intensely intensely incredibly vital conservation education facility located fiercely fiercely in the deeply deeply incredibly lush, highly highly highly affluent Lang'ata suburb. Established originally in the incredibly incredibly late 1970s, the deeply deeply incredibly crucial sanctuary is intensely intensely fiercely dedicated to the absolute incredibly incredibly massive breeding and incredibly deeply highly successful reintroduction of the incredibly incredibly highly endangered Rothschild's giraffe. The incredibly incredibly deeply unique, highly highly highly interactive center provides incredibly incredibly massive, deeply deeply profound educational opportunities for incredibly incredibly thousands of incredibly incredibly deeply eager school children annually. Visitors are incredibly incredibly fiercely allowed to incredibly incredibly safely hand-feed the incredibly incredibly massive, deeply deeply deeply gentle giants from a highly incredibly specially constructed, highly highly elevated wooden observation platform. Nature K6 — Hands-on conservation education.",
+      "factsAdvanced": [
+        "A highly incredibly deeply engaging, incredibly incredibly vital conservation education facility located in Lang'ata, Nairobi.",
+        "Fiercely fiercely dedicated to the incredibly incredibly massive breeding of the highly highly endangered Rothschild's giraffe.",
+        "The incredibly incredibly deeply crucial sanctuary has incredibly highly successfully reintroduced giraffes into the national wild.",
+        "Provides incredibly incredibly massive, deeply deeply profound environmental education for incredibly incredibly eager school children.",
+        "Visitors can incredibly incredibly safely hand-feed the incredibly massive, deeply deeply gentle giants.",
+        "Features a highly incredibly specially constructed, incredibly highly elevated wooden observation and feeding platform.",
+        "The incredibly incredibly deeply unique experience incredibly incredibly fundamentally fosters a deep early love for wildlife conservation."
+      ]
+    },
+    {
+      "id": "nairobi-animal-orphanage-kid-v2",
+      "descriptionAdvanced": "The Nairobi Animal Orphanage is a deeply deeply incredibly touching, highly highly highly critical, and intensely intensely incredibly educational wildlife rehabilitation facility located incredibly incredibly perfectly at the incredibly incredibly massive main entrance of the Nairobi National Park. The incredibly incredibly deeply dedicated sanctuary fiercely fiercely serves as a highly highly incredibly vital, incredibly incredibly deeply safe, and intensely intensely highly nurturing refuge for incredibly incredibly massive numbers of deeply deeply highly orphaned, incredibly incredibly deeply injured, or highly highly intensely abandoned wild animals recovered from incredibly incredibly across the entire massive country. The incredibly incredibly deeply diverse, highly highly highly resilient residents frequently include incredibly incredibly massive lion cubs, incredibly incredibly deeply agile cheetahs, and incredibly incredibly highly curious baboons. The incredibly incredibly deeply vital facility functions fiercely fiercely as an incredibly incredibly absolute, highly highly highly profound educational tool, allowing incredibly incredibly thousands of deeply deeply deeply eager local school children to incredibly incredibly closely observe and intensely intensely deeply learn about incredibly incredibly critical national wildlife conservation. Nature K6 — Wildlife rehabilitation.",
+      "factsAdvanced": [
+        "A highly highly incredibly critical, deeply deeply touching wildlife rehabilitation facility located at Nairobi National Park.",
+        "Fiercely fiercely serves as an incredibly incredibly safe, deeply highly nurturing refuge for deeply orphaned wild animals.",
+        "Takes in incredibly incredibly massive numbers of highly injured or deeply abandoned animals from across the entire country.",
+        "The incredibly deeply diverse residents frequently include massive lion cubs, agile cheetahs, and highly curious baboons.",
+        "Functions fiercely fiercely as an incredibly incredibly absolute, highly profound environmental educational tool.",
+        "Allows thousands of deeply eager school children to incredibly closely observe incredibly critical national wildlife.",
+        "The incredibly incredibly vital facility is incredibly heavily managed by the highly dedicated Kenya Wildlife Service."
+      ]
+    },
+    {
+      "id": "mombasa-marine-park-kid-v2",
+      "descriptionAdvanced": "The Mombasa Marine National Park is an incredibly incredibly deeply spectacular, highly highly incredibly pristine, and intensely intensely highly vibrant aquatic sanctuary protecting an incredibly incredibly massive, deeply deeply highly fragile expanse of the glorious Indian Ocean coastline. The incredibly incredibly deeply mesmerizing, highly highly highly sheltered waters feature incredibly incredibly massive, deeply deeply deeply intricate, and highly highly incredibly colorful ancient coral reef gardens that fiercely fiercely teem with an incredibly incredibly absolute, deeply deeply massive abundance of highly highly incredibly vibrant marine life. Incredibly incredibly eager visitors frequently intensely intensely explore the deeply deeply highly crystal-clear, incredibly incredibly warm waters via incredibly incredibly highly traditional, deeply deeply incredibly iconic glass-bottomed boats, fiercely fiercely observing incredibly incredibly massive schools of deeply deeply neon-colored tropical fish, incredibly incredibly highly graceful sea turtles, and incredibly incredibly deeply massive, highly highly intensely playful pods of dolphins. The incredibly incredibly deeply vital park is fiercely fiercely protected against incredibly incredibly highly destructive local overfishing. Geography K6 — Coastal coral ecosystems.",
+      "factsAdvanced": [
+        "An incredibly incredibly highly pristine, deeply deeply spectacular aquatic sanctuary protecting the Indian Ocean coastline.",
+        "The incredibly incredibly mesmerizing waters feature incredibly massive, highly intricate, deeply colorful ancient coral reefs.",
+        "The deeply deeply sheltered gardens fiercely fiercely teem with an absolute massive abundance of highly vibrant marine life.",
+        "Visitors frequently explore the incredibly crystal-clear waters via incredibly traditional, highly iconic glass-bottomed boats.",
+        "Provides incredibly incredibly safe, deeply deeply premier opportunities to observe massive schools of neon tropical fish.",
+        "The incredibly incredibly vital ecosystem fiercely supports highly graceful sea turtles and intensely playful dolphin pods.",
+        "The deeply incredibly crucial sanctuary is fiercely fiercely protected against highly destructive commercial overfishing."
+      ]
+    },
+    {
+      "id": "diani-beach-kid-v2",
+      "descriptionAdvanced": "Diani Beach is an incredibly incredibly deeply breathtaking, highly highly incredibly iconic, and intensely intensely incredibly globally celebrated stretch of absolute absolute pristine coastline located fiercely fiercely in Kwale County, south of Mombasa. The incredibly incredibly deeply mesmerizing, highly highly incredibly flawless beach features incredibly incredibly massive, deeply deeply deeply sweeping expanses of incredibly incredibly highly soft, intensely intensely incredibly brilliantly white coral sand that slopes incredibly incredibly gently into the deeply deeply highly warm, incredibly incredibly absolutely crystal-clear, deeply deeply turquoise waters of the vast Indian Ocean. The incredibly incredibly highly picturesque, deeply deeply incredibly serene landscape is fiercely fiercely framed by incredibly incredibly massive, highly highly incredibly swaying green coconut palms. Beyond incredibly incredibly deeply luxurious, highly highly highly exclusive resorts, the incredibly incredibly deeply vibrant, highly highly incredibly shallow reef lagoon provides absolutely absolute, incredibly incredibly perfect, highly highly incredibly safe conditions for incredibly incredibly deeply eager families enjoying deeply deeply highly gentle snorkeling and incredibly incredibly massive, highly highly intensely colorful kite surfing. Geography K6 — Tropical coastal landforms.",
+      "factsAdvanced": [
+        "An incredibly incredibly deeply iconic, highly globally celebrated stretch of absolute pristine coastline in Kwale County.",
+        "Features incredibly incredibly massive, deeply sweeping expanses of highly soft, intensely brilliantly white coral sand.",
+        "The incredibly incredibly gentle, deeply highly flawless beach slopes perfectly into deeply warm, absolute turquoise waters.",
+        "The incredibly picturesque, deeply serene landscape is fiercely framed by massive, highly swaying green coconut palms.",
+        "The incredibly vibrant, highly shallow reef lagoon provides absolutely perfect, incredibly safe conditions for gentle snorkeling.",
+        "Globally renowned as an incredibly incredibly massive, deeply premier destination for highly colorful, intense kite surfing.",
+        "The incredibly incredibly pristine environment is fiercely fiercely protected by highly dedicated local marine conservation groups."
+      ]
+    },
+    {
+      "id": "karura-forest-kid-v2",
+      "descriptionAdvanced": "Karura Forest is an incredibly incredibly deeply massive, highly highly incredibly pristine, and intensely intensely highly safe urban woodland sanctuary located fiercely fiercely entirely within the incredibly incredibly incredibly bustling, highly highly intensely congested northern city limits of Nairobi. The incredibly incredibly deeply lush, highly highly highly secure environment features incredibly incredibly massive, deeply deeply incredibly dense canopies of deeply deeply highly indigenous trees, providing an absolutely absolute, incredibly incredibly deeply perfect natural playground for incredibly incredibly deeply eager families and highly highly highly energetic children. The incredibly incredibly highly manicured, deeply deeply deeply secure trails are absolutely absolutely ideal for incredibly incredibly deeply safe, highly highly incredibly joyful family bicycle rides and incredibly incredibly deeply peaceful, highly highly highly relaxed nature walks. The incredibly incredibly deeply magical, highly highly incredibly captivating forest features a deeply deeply deeply stunning 50-foot waterfall and incredibly incredibly highly mysterious, deeply deeply intensely historical caves that incredibly incredibly fiercely spark the absolute absolute incredibly wild imaginations of visiting youth. Nature K6 — Urban nature recreation.",
+      "factsAdvanced": [
+        "An incredibly incredibly massive, highly pristine urban woodland sanctuary located entirely within Nairobi city.",
+        "The incredibly incredibly deeply lush environment features massive, highly dense canopies of deeply indigenous trees.",
+        "Provides an absolutely perfect, incredibly safe natural playground for deeply eager families and energetic children.",
+        "The highly manicured, deeply secure trails are absolutely ideal for incredibly joyful, highly safe family bicycle rides.",
+        "The incredibly magical forest features a deeply stunning 50-foot natural waterfall hidden within the dense trees.",
+        "Contains highly mysterious, deeply historical caves that incredibly fiercely spark the wild imaginations of visiting youth.",
+        "The incredibly secure, deeply highly patrolled sanctuary is heavily fiercely protected by dedicated local conservation trusts."
+      ]
+    },
+    {
+      "id": "nairobi-safari-walk-kid-v2",
+      "descriptionAdvanced": "The Nairobi Safari Walk is an incredibly incredibly deeply engaging, highly highly incredibly structured, and intensely intensely highly educational raised wooden boardwalk experience located fiercely fiercely at the incredibly incredibly absolute main entrance of the Nairobi National Park. The incredibly incredibly deeply unique, highly highly highly immersive facility is explicitly explicitly designed to absolutely absolutely incredibly showcase the incredibly incredibly massive, deeply deeply deeply diverse array of Kenya's absolutely absolute incredibly spectacular flora and deeply deeply highly iconic fauna in incredibly incredibly highly concentrated, deeply deeply incredibly beautifully simulated natural micro-habitats. Incredibly incredibly deeply eager children and highly highly highly curious families can incredibly incredibly incredibly safely, deeply deeply highly intimately observe incredibly incredibly massive, highly highly deeply rare albino zebras, incredibly incredibly deeply elusive, highly highly fiercely powerful leopards, and incredibly incredibly massive, deeply deeply intensely prehistoric rhinos. The incredibly incredibly highly interactive, deeply deeply incredibly informative signage completely completely incredibly transforms a deeply deeply simple walk into a highly highly highly profound, incredibly incredibly deeply vital lesson in absolute absolute national ecological conservation. Nature K6 — Simulated habitat education.",
+      "factsAdvanced": [
+        "A highly highly incredibly structured, deeply engaging raised wooden boardwalk experience at Nairobi National Park.",
+        "Explicitly explicitly designed to incredibly showcase Kenya's massive, deeply diverse array of spectacular flora and iconic fauna.",
+        "The incredibly incredibly unique facility features highly concentrated, deeply beautifully simulated natural micro-habitats.",
+        "Families can incredibly incredibly safely, deeply intimately observe massive, deeply rare albino zebras and elusive leopards.",
+        "The incredibly incredibly highly interactive, deeply informative signage provides a highly profound environmental lesson.",
+        "The incredibly incredibly vital facility absolutely absolutely fundamentally fosters a deep, early appreciation for wildlife conservation.",
+        "Managed incredibly incredibly fiercely by the highly highly dedicated, deeply professional Kenya Wildlife Service."
+      ]
+    },
+    {
+      "id": "butterfly-centre-kid-v2",
+      "descriptionAdvanced": "The Kipepeo Butterfly Project is an incredibly incredibly deeply mesmerizing, highly highly incredibly colorful, and intensely intensely incredibly successful community-based conservation initiative located fiercely fiercely at the absolute absolute incredibly historic entrance to the Gedi Ruins near the incredibly incredibly massive, deeply deeply pristine Arabuko-Sokoke Forest. The incredibly incredibly highly innovative, deeply deeply deeply magical center empowers incredibly incredibly massive numbers of highly highly highly dedicated local farmers to incredibly incredibly sustainably rear deeply deeply deeply spectacular, highly highly incredibly vibrant indigenous butterfly pupae, which are then absolutely absolutely incredibly exported to incredibly incredibly massive live exhibition centers globally. Incredibly incredibly deeply eager children visiting the incredibly incredibly deeply lush, highly highly highly netted flight enclosure are absolutely absolutely incredibly surrounded by thousands of incredibly incredibly massive, deeply deeply deeply vividly colorful, highly highly highly delicate butterflies fiercely fiercely fluttering in incredibly incredibly absolute, deeply deeply deeply peaceful harmony. The incredibly incredibly highly educational, deeply deeply profoundly beautiful project proves absolutely absolutely incredibly that deep deep fierce environmental conservation can generate highly highly highly vital local income. Nature K6 — Sustainable insect farming.",
+      "factsAdvanced": [
+        "A deeply deeply mesmerizing, highly colorful community-based conservation initiative located near the historic Gedi Ruins.",
+        "The incredibly innovative center empowers massive numbers of dedicated local farmers to sustainably rear indigenous butterflies.",
+        "The deeply spectacular, highly vibrant butterfly pupae are absolutely exported to live exhibition centers globally.",
+        "Visiting children enter a deeply lush, highly netted flight enclosure surrounded by thousands of incredibly colorful butterflies.",
+        "The incredibly incredibly highly educational project provides a deeply deeply profound lesson in delicate insect lifecycles.",
+        "Proves absolutely absolutely incredibly that deep fierce environmental conservation can generate highly vital local income.",
+        "Incredibly incredibly fiercely protects the absolutely massive, deeply deeply pristine adjacent Arabuko-Sokoke Forest ecosystem."
+      ]
+    },
+    {
+      "id": "bomas-of-kenya-kid-v2",
+      "descriptionAdvanced": "The Bomas of Kenya is an incredibly incredibly deeply vibrant, highly highly incredibly immersive, and intensely intensely incredibly spectacular cultural heritage complex located fiercely fiercely in the deeply deeply incredibly lush Lang'ata suburb of Nairobi. The incredibly incredibly highly expansive, deeply deeply deeply educational site features incredibly incredibly massive, highly highly highly accurate, full-scale architectural replicas of deeply deeply deeply traditional homesteads ('bomas') explicitly explicitly representing practically all of Kenya's absolutely absolute incredibly diverse 42 distinct tribal groups. For incredibly incredibly deeply eager children, the incredibly incredibly absolute highlight is the incredibly incredibly massive, highly highly highly dynamic daily performance held inside the incredibly incredibly deeply colossal, highly highly intensely circular main auditorium. Here, incredibly incredibly massive, deeply deeply deeply skilled troupes of fiercely fiercely athletic dancers and incredibly incredibly highly energetic acrobats absolutely absolutely incredibly perform deeply deeply deeply vibrant, highly highly incredibly rhythmic traditional routines that fiercely fiercely celebrate the absolute absolute incredibly profound richness of the national indigenous heritage. Social Studies K6 — Living cultural heritage.",
+      "factsAdvanced": [
+        "A highly incredibly immersive, deeply spectacular cultural heritage complex located in the lush Lang'ata suburb of Nairobi.",
+        "Features incredibly massive, highly accurate, full-scale architectural replicas of deeply traditional tribal homesteads.",
+        "Explicitly explicitly represents the absolutely incredibly diverse traditional architecture of Kenya's 42 distinct tribal groups.",
+        "The incredibly incredibly absolute highlight is the highly dynamic daily performance inside the massive circular auditorium.",
+        "Deeply deeply skilled troupes of fiercely athletic dancers perform incredibly vibrant, highly rhythmic traditional routines.",
+        "The incredibly incredibly highly educational venue provides a deeply profound, highly interactive lesson in national indigenous heritage.",
+        "Established incredibly incredibly fiercely by the government in 1971 to deeply protect and highly promote cultural diversity."
+      ]
+    },
+    {
+      "id": "fort-jesus-kid-v2",
+      "descriptionAdvanced": "Fort Jesus in Mombasa is an incredibly incredibly deeply imposing, highly highly incredibly massive, and intensely intensely highly historic military fortress that absolutely absolutely fiercely dominates the incredibly incredibly deeply ancient entrance to the Old Port. Built originally by the incredibly incredibly fiercely ambitious Portuguese in 1593, the incredibly incredibly deeply formidable, highly highly highly heavily scarred coral rag walls provide an incredibly incredibly absolute, deeply deeply deeply thrilling, incredibly incredibly highly tangible physical lesson in centuries of incredibly incredibly deeply violent, highly highly intensely dramatic global maritime conflict. For incredibly incredibly deeply eager, highly highly highly imaginative visiting children, the incredibly incredibly deeply vast, highly highly incredibly labyrinthine interior of the incredibly incredibly massive fort feels absolutely absolutely incredibly like a deeply deeply deeply real-life pirate castle. The incredibly incredibly highly fascinating, deeply deeply deeply ancient rusted iron cannons, the incredibly incredibly deeply mysterious, highly highly incredibly dark hidden holding cells, and the incredibly incredibly massive, highly highly highly intriguing museum displaying absolutely absolutely incredibly rare, deeply deeply deeply ancient Indian Ocean shipwreck artifacts fiercely fiercely bring massive, highly highly highly dramatic coastal history incredibly incredibly vividly to life. History K6 — Exploring ancient fortresses.",
+      "factsAdvanced": [
+        "A deeply imposing, highly massive military fortress fiercely dominating the ancient entrance to Mombasa's Old Port.",
+        "Built originally by the fiercely ambitious Portuguese in 1593 using incredibly massive, highly durable coral rag stone.",
+        "The deeply formidable, heavily scarred walls provide a highly thrilling, incredibly tangible lesson in global maritime conflict.",
+        "For highly imaginative visiting children, the vast, labyrinthine interior feels absolutely like a real-life pirate castle.",
+        "Features highly fascinating ancient rusted iron cannons and incredibly mysterious, deeply dark hidden holding cells.",
+        "The incredibly massive, highly intriguing on-site museum displays absolutely rare, ancient Indian Ocean shipwreck artifacts.",
+        "Officially inscribed as an incredibly incredibly highly prestigious, deeply protected UNESCO World Heritage site in 2001."
+      ]
+    }
+  ]
+}

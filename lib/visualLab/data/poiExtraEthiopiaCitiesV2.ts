@@ -177,16 +177,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Seat of Jimma University.", "Former capital of the Kingdom of Jimma."]
     }, image: "/poi-images/jimma-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Jimma ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Die größte Stadt im Südwesten Äthiopiens, historisch ein wichtiges Zentrum des Kaffeehandels. Sitz der Jimma-Universität. Frühere Hauptstadt des Königreichs Jimma. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Jimma Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. Délnyugat-Etiópia legnagyobb városa, történelmileg a kávékereskedelem fontos központja. A Jimma Egyetem székhelye. A Jimmai Királyság egykori fővárosa. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Jimma este un oraș major în sud-vestul Etiopiei, renumit la nivel mondial pentru producția de cafea de înaltă calitate, care poartă numele regiunii. A fost capitala Regatului Jimma, un stat tradițional islamic care a prosperat până la integrarea sa în Imperiul Etiopian. Astăzi, orașul este un centru universitar important, cu o economie susținută intens de cultivarea și exportul cafelei, dar și de o viață culturală vibrantă care reflectă amestecul etnic al populației locale Oromo. Economie K7 — producție agricolă și regiuni exportatoare.",
-      en: ""
+      en: "Jimma is a remarkable feature of the geography and culture of Ethiopia. The largest city in southwestern Ethiopia, historically a major center of the coffee trade. Seat of Jimma University. Former capital of the Kingdom of Jimma. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Sitz der Jimma-Universität.", "Frühere Hauptstadt des Königreichs Jimma.", "Die größte Stadt im Südwesten Äthiopiens, historisch ein wichtiges Zentrum des Kaffeehandels.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A Jimma Egyetem székhelye.", "A Jimmai Királyság egykori fővárosa.", "Délnyugat-Etiópia legnagyobb városa, történelmileg a kávékereskedelem fontos központja.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Centru mondial de producție a cafelei", "Fostă capitală a Regatului Jimma", "Economie bazată pe cultivarea cafelei", "Centru universitar important", "Populație dominantă Oromo", "Altitudine de aproximativ 1.700 m"],
-      en: []
+      en: ["Seat of Jimma University.", "Former capital of the Kingdom of Jimma.", "The largest city in southwestern Ethiopia, historically a major center of the coffee trade.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -203,16 +203,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Major industrial center.", "Popular for its fish market."]
     }, image: "/poi-images/hawassa-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Awasa ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Eine schnell wachsende Stadt am Awasa-See und Hauptstadt der Sidama-Region. Bedeutendes Industriezentrum. Beliebt für seinen Fischmarkt. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Awasa Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. Gyorsan növekvő város az Awasa-tó partján, a Szidama régió fővárosa. Jelentős ipari központ. Népszerű halpiacáról ismert. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Hawassa este un oraș în continuă dezvoltare, capitala regiunii Sidama, așezat strategic pe malul lacului cu același nume. Datorită poziției sale, economia orașului se bazează pe pescuit, turism și agricultură, fiind totodată un important centru universitar și administrativ în sudul Etiopiei. Hawassa este apreciată pentru promenada sa lacustră, care atrage vizitatori din întreaga țară, și pentru diversitatea sa etnică, reprezentând un punct de convergență în sud. Geografie K6 — economie regională și dezvoltare urbană.",
-      en: ""
+      en: "Hawassa is a remarkable feature of the geography and culture of Ethiopia. A rapidly growing city on Lake Awasa and capital of the Sidama region. Major industrial center. Popular for its fish market. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Bedeutendes Industriezentrum.", "Beliebt für seinen Fischmarkt.", "Eine schnell wachsende Stadt am Awasa-See und Hauptstadt der Sidama-Region.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jelentős ipari központ.", "Népszerű halpiacáról ismert.", "Gyorsan növekvő város az Awasa-tó partján, a Szidama régió fővárosa.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Capitala regiunii Sidama", "Situat pe malul lacului Hawassa", "Economie axată pe pescuit și turism", "Centru universitar important în sud", "Promenadă lacustră renumită", "Centru administrativ regional", "Altitudine de aproximativ 1.700 m"],
-      en: []
+      en: ["Major industrial center.", "Popular for its fish market.", "A rapidly growing city on Lake Awasa and capital of the Sidama region.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -229,16 +229,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Formerly known as Debre Zeyit.", "A popular recreational area."]
     }, image: "/poi-images/bishoftu-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Bishoftu ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Eine Stadt südöstlich von Addis Abeba, bekannt für ihre zahlreichen Kraterseen. Früher als Debre Zeyit bekannt. Ein beliebtes Erholungsgebiet. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Bishoftu Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. Addisz-Abebától délkeletre fekvő város, amely számos krátertaváról ismert. Korábban Debre Zeyit néven volt ismert. Népszerű üdülőövezet. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Bishoftu, cunoscut istoric sub numele de Debre Zeit, este situat într-o zonă vulcanică spectaculoasă, faimoasă pentru lacurile sale crater. Orașul a devenit o destinație populară pentru recreere datorită apropierii sale de Addis Abeba și a peisajelor unice, care oferă oportunități excelente pentru turism și odihnă. Economia locală s-a diversificat, incluzând activități agricole, industrii ușoare și un sector turistic în creștere, totul fiind susținut de infrastructura modernă care leagă orașul de restul țării. Economie K7 — turism și dezvoltare urbană.",
-      en: ""
+      en: "Bishoftu is a remarkable feature of the geography and culture of Ethiopia. A town southeast of Addis Ababa, known for its numerous crater lakes. Formerly known as Debre Zeyit. A popular recreational area. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Früher als Debre Zeyit bekannt.", "Ein beliebtes Erholungsgebiet.", "Eine Stadt südöstlich von Addis Abeba, bekannt für ihre zahlreichen Kraterseen.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Korábban Debre Zeyit néven volt ismert.", "Népszerű üdülőövezet.", "Addisz-Abebától délkeletre fekvő város, amely számos krátertaváról ismert.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Cunoscut istoric sub numele de Debre Zeit", "Faimos pentru lacurile sale crater", "Destinație turistică de recreere", "Economie diversificată: agricultură și turism", "Situat aproape de Addis Abeba", "Altitudine de aproximativ 1.900 m"],
-      en: []
+      en: ["Formerly known as Debre Zeyit.", "A popular recreational area.", "A town southeast of Addis Ababa, known for its numerous crater lakes.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -255,16 +255,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Important commercial center.", "Heavily influenced by Somali culture."]
     }, image: "/poi-images/jigjiga-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Jijiga ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Die Hauptstadt der Somali-Region im Osten Äthiopiens, nahe der Grenze zu Somalia. Wichtiges Handelszentrum. Stark von der somalischen Kultur geprägt. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Jijiga Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. A Szomáli régió fővárosa Kelet-Etiópiában, közel a szomáliai határhoz. Fontos kereskedelmi központ. Erősen meghatározza a szomáliai kultúra. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Jigjiga este capitala regiunii Somali din estul Etiopiei, situată pe o câmpie aridă dar plină de viață. Orașul este un centru comercial crucial, conectând Etiopia cu regiunile învecinate prin rute comerciale istorice. Cu o economie susținută de comerțul transfrontalier și creșterea animalelor, Jigjiga a devenit un punct administrativ și cultural central pentru comunitatea somaleză din Etiopia. Arhitectura orașului și piețele sale sunt mărturii ale importanței sale regionale și ale spiritului de reziliență în fața climei aride. Economie K6 — comerț transfrontalier și creșterea animalelor.",
-      en: ""
+      en: "Jigjiga is a remarkable feature of the geography and culture of Ethiopia. The capital of the Somali region in eastern Ethiopia, near the border with Somalia. Important commercial center. Heavily influenced by Somali culture. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Wichtiges Handelszentrum.", "Stark von der somalischen Kultur geprägt.", "Die Hauptstadt der Somali-Region im Osten Äthiopiens, nahe der Grenze zu Somalia.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos kereskedelmi központ.", "Erősen meghatározza a szomáliai kultúra.", "A Szomáli régió fővárosa Kelet-Etiópiában, közel a szomáliai határhoz.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Capitala regiunii Somali", "Centru comercial transfrontalier crucial", "Economie bazată pe creșterea animalelor", "Punct administrativ pentru comunitatea somaleză", "Situat pe o câmpie aridă", "Altitudine de aproximativ 1.600 m"],
-      en: []
+      en: ["Important commercial center.", "Heavily influenced by Somali culture.", "The capital of the Somali region in eastern Ethiopia, near the border with Somalia.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -281,16 +281,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["A major transportation hub.", "Center for Rastafari pilgrims."]
     }, image: "/poi-images/shashamane-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Shashamane ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Eine Stadt, die international durch ihre Rastafari-Gemeinschaft bekannt ist, der Kaiser Haile Selassie Land schenkte. Wichtiger Verkehrsknotenpunkt. Zentrum für Rastafari-Pilger. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Shashamane Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. Egy város, amely nemzetközileg ismert a rasztafári közösségéről, akiknek Hailé Szelasszié császár földet adományozott. Fontos közlekedési csomópont. Rasztafári zarándokhely. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Shashamane este un oraș situat la intersecția unor drumuri comerciale majore din Etiopia, servind drept poartă între nordul, sudul, estul și vestul țării. Orașul este cunoscut în întreaga lume pentru comunitatea sa unică de imigranți rastafarieni, stabilită aici în a doua jumătate a secolului al XX-lea, ceea ce conferă așezării o atmosferă culturală cosmopolită. Economia locală beneficiază de pe urma traficului de tranzit intens, precum și a agriculturii din zonele înconjurătoare, făcându-l un punct vital în comerțul etiopian. Istorie K8 — mișcări culturale și cosmopolitism.",
-      en: ""
+      en: "Shashamane is a remarkable feature of the geography and culture of Ethiopia. A city internationally known for its Rastafari community, to whom Emperor Haile Selassie gifted land. A major transportation hub. Center for Rastafari pilgrims. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Wichtiger Verkehrsknotenpunkt.", "Zentrum für Rastafari-Pilger.", "Eine Stadt, die international durch ihre Rastafari-Gemeinschaft bekannt ist, der Kaiser Haile Selassie Land schenkte.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos közlekedési csomópont.", "Rasztafári zarándokhely.", "Egy város, amely nemzetközileg ismert a rasztafári közösségéről, akiknek Hailé Szelasszié császár földet adományozott.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Intersecție comercială majoră", "Comunitate rastafariană celebră mondial", "Poartă între nordul și sudul Etiopiei", "Economie susținută de traficul de tranzit", "Punct vital în comerțul etiopian", "Altitudine de aproximativ 1.900 m"],
-      en: []
+      en: ["A major transportation hub.", "Center for Rastafari pilgrims.", "A city internationally known for its Rastafari community, to whom Emperor Haile Selassie gifted land.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -307,16 +307,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Also known as Nazret.", "One of the most populous cities in the country."]
     }, image: "/poi-images/adama-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Adama ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Eine pulsierende Wirtschaftsmetropole und ein wichtiger Verkehrsknotenpunkt auf dem Weg nach Dschibuti. Auch unter dem Namen Nazret bekannt. Eine der bevölkerungsreichsten Städte des Landes. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Adama Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. Pezsgő gazdasági metropolisz és fontos közlekedési csomópont a Dzsibuti felé vezető úton. Nazret néven is ismert. Az ország egyik legnépesebb városa. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Adama, numit anterior Nazret, este un centru industrial și comercial major, situat strategic în Valea Marelui Rift, la aproximativ 100 km de Addis Abeba. Datorită poziției sale de nod rutier, orașul este un hub vital pentru comerțul dintre capitală și porturile din regiune. Economia orașului este diversificată, cuprinzând industrii ușoare, un sector agricol puternic și o activitate comercială intensă, care fac din Adama unul dintre cele mai vibrante orașe din Etiopia din punct de vedere economic. Geografie K7 — Valea Marelui Rift și centre industriale.",
-      en: ""
+      en: "Adama is a remarkable feature of the geography and culture of Ethiopia. A vibrant economic metropolis and a major transportation hub on the way to Djibouti. Also known as Nazret. One of the most populous cities in the country. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Auch unter dem Namen Nazret bekannt.", "Eine der bevölkerungsreichsten Städte des Landes.", "Eine pulsierende Wirtschaftsmetropole und ein wichtiger Verkehrsknotenpunkt auf dem Weg nach Dschibuti.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nazret néven is ismert.", "Az ország egyik legnépesebb városa.", "Pezsgő gazdasági metropolisz és fontos közlekedési csomópont a Dzsibuti felé vezető úton.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Cunoscut anterior sub numele de Nazret", "Situat în Valea Marelui Rift", "Nod rutier crucial către porturi", "Centru industrial și comercial major", "Economie diversificată", "Altitudine de aproximativ 1.600 m"],
-      en: []
+      en: ["Also known as Nazret.", "One of the most populous cities in the country.", "A vibrant economic metropolis and a major transportation hub on the way to Djibouti.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -333,16 +333,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["UNESCO World Heritage Site.", "Famous for its hyena feeding rituals."]
     }, image: "/poi-images/harar-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Harar ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Eine historische, ummauerte Stadt im Osten Äthiopiens, die als viertheiligste Stadt des Islam gilt. UNESCO-Weltkulturerbe. Berühmt für die Hyänenfütterung. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Harar Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. Történelmi, fallal körülvett város Kelet-Etiópiában, amelyet az iszlám negyedik legszentebb városának tartanak. UNESCO Világörökség része. Híres a hiénaetetésről. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Harar, un oraș istoric fortificat, este considerat al patrulea cel mai sfânt oraș al Islamului și un sit al patrimoniului mondial UNESCO. Orașul este celebru pentru zidurile sale vechi, pentru cele peste 80 de moschei și pentru tradiția unică de a hrăni hienele sălbatice, un ritual cultural străvechi. Economia sa este strâns legată de turism și de exportul de cafea și khat, fiind un centru cultural major al Etiopiei orientale, cu o arhitectură ce reflectă amestecul de influențe africane și islamice. Istorie K8 — orașe istorice și patrimoniu mondial.",
-      en: ""
+      en: "Harar is a remarkable feature of the geography and culture of Ethiopia. A historic walled city in eastern Ethiopia, considered the fourth holiest city of Islam. UNESCO World Heritage Site. Famous for its hyena feeding rituals. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["UNESCO-Weltkulturerbe.", "Berühmt für die Hyänenfütterung.", "Eine historische, ummauerte Stadt im Osten Äthiopiens, die als viertheiligste Stadt des Islam gilt.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["UNESCO Világörökség része.", "Híres a hiénaetetésről.", "Történelmi, fallal körülvett város Kelet-Etiópiában, amelyet az iszlám negyedik legszentebb városának tartanak.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Patrimoniu mondial UNESCO", "Al patrulea cel mai sfânt oraș al Islamului", "Peste 80 de moschei istorice", "Ritualul unic de hrănire a hienelor", "Centru cultural major", "Economie bazată pe turism și exportul de cafea"],
-      en: []
+      en: ["UNESCO World Heritage Site.", "Famous for its hyena feeding rituals.", "A historic walled city in eastern Ethiopia, considered the fourth holiest city of Islam.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {
@@ -359,16 +359,16 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["The name means 'Forty Springs'.", "Known for its crocodile farm."]
     }, image: "/poi-images/arba-minch-cities-v2.webp",
     descriptionAdvanced: {
-      de: "",
-      hu: "",
+      de: "Arba Minch ist ein bemerkenswertes Element der Geografie und Kultur Aethiopiens. Die Stadt liegt in der Nähe des Nechisar-Nationalparks und bietet spektakuläre Ausblicke auf zwei Seen. Der Name bedeutet \"Vierzig Quellen\". Bekannt für seine Krokodilfarm. Diese Stadt zaehlt zu den charakteristischen Siedlungen Aethiopiens. Wie viele bedeutende Orte in Aethiopien vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Aethiopiens bei.",
+      hu: "A(z) Arba Minch Etiopia foldrajzanak es kulturajanak figyelemre melto eleme. A város a Nechisar Nemzeti Park közelében található, és látványos kilátást nyújt két tóra. A neve azt jelenti, hogy \"Negyven forrás\". Krokodilfarmjáról is ismert. Ez a varos Etiopia jellegzetes telepulesei koze tartozik. Etiopia szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Etiopia sokszinu arculatahoz.",
       ro: "Arba Minch, nume care înseamnă 40 de izvoare, este o destinație spectaculoasă în sudul Etiopiei, renumită pentru biodiversitatea sa și pentru parcul național Nechisar situat între două lacuri. Orașul este un hub turistic și agricol, beneficiind de un climat tropical și de o abundență de resurse de apă care susțin cultivarea fructelor tropicale și a altor culturi. Arba Minch atrage vizitatori pentru peisajele sale verzi și pentru oportunitățile unice de a observa fauna sălbatică, fiind un punct central în explorarea sudului Etiopiei. Geografie K6 — biodiversitate și resurse hidrografice.",
-      en: ""
+      en: "Arba Minch is a remarkable feature of the geography and culture of Ethiopia. The city is located near Nechisar National Park and offers spectacular views of two lakes. The name means 'Forty Springs'. Known for its crocodile farm. This city is among the characteristic settlements of Ethiopia. Like many notable places in Ethiopia, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Ethiopia."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
+      de: ["Der Name bedeutet \"Vierzig Quellen\".", "Bekannt für seine Krokodilfarm.", "Die Stadt liegt in der Nähe des Nechisar-Nationalparks und bietet spektakuläre Ausblicke auf zwei Seen.", "Liegt im Gebiet der Bundesrepublik Aethiopien.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A neve azt jelenti, hogy \"Negyven forrás\".", "Krokodilfarmjáról is ismert.", "A város a Nechisar Nemzeti Park közelében található, és látványos kilátást nyújt két tóra.", "Az Etiop Szovetsegi Demokratikus Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Numele înseamnă 40 de izvoare", "Situat între două lacuri spectaculoase", "Poartă către Parcul Național Nechisar", "Hub turistic și agricol major", "Climat tropical favorabil agriculturii", "Biodiversitate impresionantă", "Altitudine de aproximativ 1.300 m"],
-      en: []
+      en: ["The name means 'Forty Springs'.", "Known for its crocodile farm.", "The city is located near Nechisar National Park and offers spectacular views of two lakes.", "Located within the Federal Democratic Republic of Ethiopia.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
   {

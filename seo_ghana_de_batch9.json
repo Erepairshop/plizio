@@ -1,0 +1,219 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ashanti-uplands-relief-v2",
+      "descriptionAdvanced": "Das Ashanti Uplands Relief bildet das topografische Herzstück des historischen Aschantireiches und erstreckt sich hauptsächlich über die Ashanti Region Ghanas. Geologisch besteht es aus alten präkambrischen Gesteinen, die im Laufe von Jahrmillionen zu sanften, aber sehr dicht bewaldeten Hügeln abgetragen wurden. Diese Höhenlage sorgt für ein feuchtwarmes Mikroklima mit regelmäßigen und starken Niederschlägen, das diese Region zu einer der fruchtbarsten in ganz Westafrika macht. Das Relief ist das Rückgrat der ghanaischen Kakaoproduktion und beherbergt einige der wichtigsten und ältesten Regenwaldschutzgebiete. Die tiefen, nährstoffreichen Böden in den Tälern der Uplands stützen zudem die Selbstversorgung Ghanas durch gigantische Ernten von Kochbananen und Yamswurzeln. Geografie K7 — Tropische Hügelländer und Agrarproduktivität.",
+      "factsAdvanced": [
+        "Zentrales Hügelland aus alten präkambrischen Gesteinen (Ashanti Region)",
+        "Sanfte Topografie, die historisch das mächtige Aschantireich beherbergte",
+        "Regelmäßige Niederschläge machen das Gebiet extrem fruchtbar",
+        "Gilt als das produktivste Zentrum der ghanaischen Kakaowirtschaft",
+        "Tiefgründige und nährstoffreiche Böden dominieren die weiten Täler",
+        "Prägt das Mikroklima und stützt ausgedehnte Regenwaldreservate"
+      ]
+    },
+    {
+      "id": "denu-coastal-plain-relief-v2",
+      "descriptionAdvanced": "Die Denu Coastal Plain ist eine extrem flache, küstennahe Ebene in der Volta Region, direkt an der Grenze zu Togo. Im Gegensatz zu den felsigen Küsten der Western Region ist dieses Relief durch feinen Sand, weite Lagunen und von Gezeiten geprägte Salzwiesen charakterisiert. Diese extreme Flachheit macht das Gebiet extrem verwundbar für Sturmfluten und den stetig ansteigenden Meeresspiegel des Golfs von Guinea, was zu massiven Landerlust-Problemen in den umliegenden Dörfern führt. Ökologisch ist die Ebene ein wichtiges Biotop für wandernde Wasservögel und Meereskrebse. Landwirtschaftlich wird das salzige Küstenrelief erstaunlich effizient für den extrem arbeitsintensiven Anbau von Schalotten und Tomaten in nährstoffreichen Sandbeeten genutzt. Geografie K8 — Küstenebenen und Versalzung.",
+      "factsAdvanced": [
+        "Extrem flache Küstenebene in der südöstlichen Volta Region (Grenze Togo)",
+        "Geprägt durch feine Sandstrände, Lagunen und Salzwiesen",
+        "Massiv bedroht durch Küstenerosion und steigende Meeresspiegel",
+        "Die flache Topografie bietet keinen natürlichen Schutz vor Sturmfluten",
+        "Wichtiges Biotop für Zugvögel und maritime Flora (Mangroven)",
+        "Einzigartiger landwirtschaftlicher Anbau von Zwiebeln in Sandbeeten"
+      ]
+    },
+    {
+      "id": "gambo-hills-relief-v2",
+      "descriptionAdvanced": "Die Gambo-Hügel sind eine auffällige Reihe von abgerundeten, stark verwitterten Erhebungen, die sich durch die Landschaft des mittleren Ghanas ziehen. Sie bestehen überwiegend aus widerstandsfähigem Granit und Metamorphiten, die dem tropischen Regen und den Winden weitaus länger standgehalten haben als die umliegenden Ebenen. Historisch dienten diese Hügelkuppen als natürliche Orientierungspunkte für transsaharische Händler auf ihrem Weg an die Küste. Das Relief der Gambo-Hügel ist weniger schroff als das Kwahu-Plateau, was eine intensive landwirtschaftliche Nutzung der Flanken ermöglicht. Heute sind die Hänge zunehmend mit Kakao- und Zitrusfrüchte-Farmen überzogen, was jedoch das Risiko von Bodenerosion bei den heftigen Tropengewittern drastisch erhöht. Geografie K7 — Inselhügellandschaften und Bodenerosion.",
+      "factsAdvanced": [
+        "Reihe abgerundeter, stark verwitterter Hügelkuppen in Zentralghana",
+        "Bestehen aus sehr erosionsresistentem Granit und metamorphem Gestein",
+        "Dienten historisch als wichtige Wegmarken für Händlerkarawanen",
+        "Sanftere Hänge erlauben intensive landwirtschaftliche Nutzung (Kakao, Zitrus)",
+        "Stark von Bodenerosion gefährdet, wenn die natürliche Vegetation gerodet wird",
+        "Bilden wichtige lokale Wasserscheiden für kleinere Bäche"
+      ]
+    },
+    {
+      "id": "akuapem-ridge-relief-v2",
+      "descriptionAdvanced": "Die Akuapem Ridge ist ein langgezogener, schmaler Bergrücken in der Eastern Region, der sich nördlich von Accra steil aus der heißen Küstenebene erhebt und Teil des massiven Akwapim-Togo-Gebirges ist. Die Ridge erreicht Höhen von über 400 Metern und bildet eine natürliche Barriere, an der die feuchten Meereswinde abkühlen und abregnen. Dieses orografische Phänomen schafft ein erfrischend kühles, fast europäisches Mikroklima auf dem Bergkamm, das in starkem Kontrast zur schwülen Hitze von Accra steht. Aus diesem Grund wählten europäische Missionare und Kolonialbeamte Orte wie Aburi und Akropong auf der Ridge für Sanatorien und Bildungsstätten aus. Heute ist das Relief stark von wohlhabenden städtischen Pendlern zersiedelt. Geografie K7 — Orografische Barrieren und Klimazonen.",
+      "factsAdvanced": [
+        "Schmaler, steiler Bergrücken der Akwapim-Togo-Kette nördlich von Accra",
+        "Erreicht Höhen über 400 Meter und bricht die Winde des Atlantiks",
+        "Das kühle Mikroklima machte die Ridge zu einem kolonialen Rückzugsort",
+        "Heimat berühmter historischer Städte wie Aburi und Akropong",
+        "Erlebt massive Zersiedelung durch Luxusimmobilien für Accra-Pendler",
+        "Die Steilhänge sind während der Monsunzeit durch Erdrutsche bedroht"
+      ]
+    },
+    {
+      "id": "tano-basin-relief-v2",
+      "descriptionAdvanced": "Das Tano-Becken (Tano Basin) in der feuchten Western Region ist eine massive topografische Senke, die das gesamte Wasser des mächtigen Tano-Flusssystems in Richtung Küste kanalisiert. Geologisch ist dieses Becken reich an extrem wertvollen alluvialen und unterirdischen Vorkommen, insbesondere Gold und Bauxit, was die Region zur unangefochtenen Schwerindustrie- und Bergbauhochburg Ghanas macht. Das Becken zeichnet sich durch dichte, schlammige Regenwaldtäler und zahllose Sümpfe aus. Die Topografie erschwert den Bau von Straßen und Infrastruktur erheblich, da während der Regenzeit große Teile des Tals überflutet werden. In den flachen Küstenausläufern des Beckens mündet der Fluss in riesige Lagunensysteme an der Grenze zur Elfenbeinküste. Geografie K8 — Sedimentbecken und Rohstoffgeologie.",
+      "factsAdvanced": [
+        "Massive geologische Senke in der extrem feuchten Western Region",
+        "Sammelt das Wasser des Tano-Flusssystems und leitet es in den Atlantik",
+        "Geologisch eines der reichsten Gebiete Afrikas an Gold- und Bauxitvorkommen",
+        "Geprägt von undurchdringlichen, sumpfartigen Regenwaldtälern",
+        "Starke Überschwemmungen in der Regenzeit behindern die Infrastruktur",
+        "Verbindet den dichten Tropenwald mit den Lagunen der Küste"
+      ]
+    },
+    {
+      "id": "kintampo-plateau-relief-v2",
+      "descriptionAdvanced": "Das Kintampo-Plateau ist eine beeindruckende und raue Hochebene in der Bono East Region, die den geologischen Übergang zwischen den dichten südlichen Regenwäldern und der weiten nördlichen Savanne markiert. Diese Hochebene besteht überwiegend aus hartem Voltien-Sandstein, der sich der Erosion widersetzt hat. Das Plateau wird von dramatischen, tiefen Flussschluchten durchschnitten, die atemberaubende natürliche Sehenswürdigkeiten wie die stufenförmigen Kintampo-Wasserfälle oder die Fuller-Wasserfälle hervorgebracht haben. Die Hochebene gilt als das geografische Zentrum Ghanas. Die harten und felsigen Böden machen die traditionelle Landwirtschaft hier extrem anspruchsvoll, doch sie bieten eine entscheidende Weidefläche für die großen Viehherden, die aus dem Norden nach Süden getrieben werden. Geografie K7 — Sandsteinplateaus und hydrologische Erosion.",
+      "factsAdvanced": [
+        "Harte Sandstein-Hochebene in der Bono East Region",
+        "Markiert die wichtige geologische Grenze zwischen Wald und Savanne",
+        "Gilt geografisch als der genaue Mittelpunkt Ghanas",
+        "Zerschnitten von tiefen Schluchten, die majestätische Wasserfälle bilden",
+        "Felsige und nährstoffarme Böden erschweren den klassischen Ackerbau",
+        "Dient als historische und aktuelle Transitroute für Viehherden"
+      ]
+    },
+    {
+      "id": "white-volta-valley-relief-v2",
+      "descriptionAdvanced": "Das Weiße-Volta-Tal erstreckt sich durch die weiten, trockenen Savannenebenen der Northern und Upper East Region Ghanas. Das Relief ist extrem flach, nur selten unterbrochen von vereinzelten Granit-Inselbergen. Dieses riesige Schwemmtal ('Floodplain') sammelt das Wasser des Weißen Volta und ist während der kurzen, aber extrem heftigen Regenzeit von massiven und katastrophalen Überschwemmungen betroffen, die oft durch den Staudammablass aus Burkina Faso verschärft werden. In der achtmonatigen Trockenzeit verwandelt sich das Tal jedoch in eine rissige, staubige Ebene, in der Landwirtschaft ohne künstliche Bewässerungssysteme (wie Tono oder Vea) nahezu unmöglich ist. Das Tal verdeutlicht den extremen hydrologischen Zyklus des Sahel-Klimas. Geografie K8 — Schwemmebenen und Sahel-Klima.",
+      "factsAdvanced": [
+        "Extrem flaches Schwemmtal in der Northern und Upper East Region",
+        "Wird vom Weißen Volta, dem Hauptquellfluss des Volta-Systems, durchflossen",
+        "Während der Monsunzeit (Herbst) Schauplatz massiver, tödlicher Überschwemmungen",
+        "In der Trockenzeit verwandelt sich die Flutebene in eine ausgedörrte Staublandschaft",
+        "Moderne Landwirtschaft ist nur durch aufwändige Stau- und Kanalsysteme möglich",
+        "Oft negativ beeinflusst durch den Wasserablass von Dämmen in Burkina Faso"
+      ]
+    },
+    {
+      "id": "fanteakwa-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Fanteakwa Escarpment ist eine beeindruckende, dicht bewaldete Steilstufe im Fanteakwa North District der Eastern Region. Wie eine massive grüne Mauer überragt das Relief die umliegenden weiten Täler und schützt die auf der Hochebene liegenden landwirtschaftlichen Gemeinden, wie etwa die Bezirkshauptstadt Begoro. Die steilen Hänge dieser geologischen Formation zwingen den Wind zum Aufsteigen, was ein einzigartiges, überraschend kühles Mikroklima schafft, das hervorragend für den Anbau von Kaffeebohnen und Zitrusfrüchten geeignet ist. Die raue Topografie macht das Gebiet zudem zu einem natürlichen Reservoir für eine unberührte Flora, da die Hänge für den kommerziellen Holzeinschlag oft zu steil und gefährlich sind. Geografie K7 — Steilstufen und landwirtschaftliche Nischen.",
+      "factsAdvanced": [
+        "Dramatische, steile Felsstufe in der Eastern Region Ghanas",
+        "Überragt die Hauptstadt des Distrikts, Begoro, und schützt das Hochplateau",
+        "Das Relief schafft ein kühles Mikroklima mit reichlichen Niederschlägen",
+        "Die Steilhänge bewahren die dichte Regenwald-Flora vor der Rodung",
+        "Bietet eine seltene landwirtschaftliche Nische für Kaffee und Zitrusfrüchte",
+        "Zwingt Verkehrswege zu steilen, teils sehr gefährlichen Serpentinen"
+      ]
+    },
+    {
+      "id": "akwapim-plains-relief-v2",
+      "descriptionAdvanced": "Die Akwapim Plains, nicht zu verwechseln mit dem angrenzenden Akwapim-Gebirge, bilden das weite, relativ flache Küstenvorland in der Greater Accra Region. Sie erstrecken sich vom Fuß der Berge südwärts bis zum Ozean. Dieses Relief zeichnet sich durch einen harten, lehmigen Untergrund und eine eher trockene, buschige Küstensavanne aus, bedingt durch das Phänomen des 'Dahomey Gap'. Die Ebenen sind historisch das Siedlungsgebiet der Ga-Ethnie und werden heute durch die rasant und chaotisch expandierende Metropole Accra im Eiltempo zersiedelt. Wasser staut sich in den flachen Senken dieser Ebene während der Regenzeit extrem schnell, was in der Hauptstadt jedes Jahr verheerende städtische Sturzfluten verursacht. Geografie K7 — Küstensavanne und urbane Sturzfluten.",
+      "factsAdvanced": [
+        "Weite, relativ flache Küstenebene in der Greater Accra Region",
+        "Erstreckt sich vom Fuß des Akwapim-Gebirges bis zum Atlantik",
+        "Landschaftlich geprägt durch trockene Küstensavanne und hartes Lehmgestein",
+        "Historisches Siedlungszentrum des Ga-Volkes und Kern der heutigen Hauptstadt",
+        "Erfährt extrem schnelle und oft unregulierte urbane Zersiedelung",
+        "Die Flachheit des Reliefs ist Hauptursache für die jährlichen Sturzfluten in Accra"
+      ]
+    },
+    {
+      "id": "nsuta-hills-relief-v2",
+      "descriptionAdvanced": "Die Nsuta Hills, gelegen in der stark industrialisierten Western Region unweit von Tarkwa, sind ein geologisch extrem wertvolles Hügelrelief, das sich markant von den umliegenden Tälern abhebt. Anders als viele andere Hügel Ghanas, die aus Sandstein oder Granit bestehen, sind die Nsuta Hills weltberühmt für ihre hochgradigen und massiven Manganerz-Einlagerungen (Gondit). Diese einzigartige Mineralstruktur wurde 1914 entdeckt und seitdem durch einen der größten Mangan-Tagebaue Afrikas stark abgetragen. Die Topografie der Hügel wurde durch diese industriellen Eingriffe massiv und irreversibel verändert, was die umliegende Flora dezimierte. Geologisch bleiben die Hügel ein Schlüsselbeispiel dafür, wie tiefe tektonische Prozesse wertvolle Metalle an die Oberfläche drückten. Geografie K8 — Bergbaureliefs und Mangan-Geologie.",
+      "factsAdvanced": [
+        "Hügeliges Relief in der Western Region, nahe der Bergbaustadt Tarkwa",
+        "Weltberühmt für enorme, geologische Manganerz-Einlagerungen (Gondit)",
+        "Die Hügel werden seit 1914 durch massiven industriellen Tagebau abgetragen",
+        "Die ursprüngliche Topografie wurde anthropogen unwiderruflich verändert",
+        "Eines der wichtigsten Zentren für Afrikas Export an Stahl-Legierungen",
+        "Demonstriert den enormen topografischen Einfluss der globalen Rohstoffindustrie"
+      ]
+    },
+    {
+      "id": "bongo-hills-relief-v2",
+      "descriptionAdvanced": "Die Bongo Hills in der Upper East Region gehören zu den außergewöhnlichsten geologischen Strukturen im trockenen Norden Ghanas. Im krassen Gegensatz zur ansonsten flachen, fast baumlosen Sahel-Savanne erheben sich diese Hügel als Ansammlungen massiver, kugelrunder Granitblöcke (Boulder-Inselberge). Diese surreal wirkenden Gesteinsformationen entstanden durch unterirdische Auskühlung von Magma und anschließende Schalenverwitterung (Exfoliation), als das Gestein durch Erosion an die Oberfläche kam. Für die lokale Bevölkerung haben diese Hügel eine immense spirituelle Bedeutung und dienen als traditionelle Schreine. Zudem bieten die tiefen Spalten zwischen den massiven Granitblöcken lebensrettende natürliche Zisternen, in denen sich Regenwasser für die extreme achtmonatige Trockenzeit sammelt. Geografie K8 — Granitverwitterung und Inselberge.",
+      "factsAdvanced": [
+        "Massive, kugelrunde Granitblöcke nahe der Stadt Bongo (Upper East Region)",
+        "Erheben sich schroff aus der ansonsten extrem flachen Sahel-Landschaft",
+        "Entstanden durch prähistorische Exfoliation (Schalenverwitterung) von Granit",
+        "Fungieren in der trockenen Savanne als lebensrettende, natürliche Wasserzisternen",
+        "Sind heilige Orte für die indigene Bevölkerung und Beherbergen traditionelle Schreine",
+        "Beliebtes, wenngleich anspruchsvolles Gebiet für geologische Exkursionen"
+      ]
+    },
+    {
+      "id": "dagbon-plateau-relief-v2",
+      "descriptionAdvanced": "Das Dagbon Plateau ist eine weite, flache Hochebene, die fast den gesamten nördlichen Zentralteil Ghanas (insbesondere die Northern Region) abdeckt. Das Relief besteht überwiegend aus massivem, sehr altem Voltain-Sandstein und liegt auf einer durchschnittlichen Höhe von etwa 150 bis 300 Metern. Das Plateau bildet das geografische und kulturelle Kernland des mächtigen, historischen Dagbon-Königreichs mit seiner traditionellen Hauptstadt Yendi. Die relativ ebene Topografie hat die schnelle Bewegung von Reiterheeren und die Bildung großer zentralisierter Staaten in der Vorkolonialzeit begünstigt. Die flach liegenden, sandigen Böden sind jedoch oft wenig fruchtbar und trocknen schnell aus, was den Anbau auf trockenresistente Kulturen wie Hirse, Sorghum und Yams beschränkt. Geografie K7 — Hochebenen und Savannen-Staaten.",
+      "factsAdvanced": [
+        "Ausgedehnte, flache Sandstein-Hochebene in der Northern Region Ghanas",
+        "Das geografische Herzstück des mächtigen historischen Dagbon-Königreichs",
+        "Die flache Topografie begünstigte historisch die Beweglichkeit von Kavallerie-Armeen",
+        "Durchschnittliche Höhe liegt bei moderaten 150 bis 300 Metern über dem Meer",
+        "Böden sind überwiegend flachgründig, sandig und trocknen sehr schnell aus",
+        "Zwingt die Landwirtschaft zum Anbau robuster Sorten wie Hirse und Sorghum"
+      ]
+    },
+    {
+      "id": "akposso-hills-relief-v2",
+      "descriptionAdvanced": "Die Akposso Hills formen einen isolierten, sehr steilen Gebirgsrücken an der Grenze zwischen Ghana und Togo. Sie gehören zu den Ausläufern des mächtigen Atakora-Faltengebirges. Die schroffe Topografie dieser stark bewaldeten Hügelkette macht sie extrem schwer zugänglich und zu einem Gebiet von außergewöhnlicher landschaftlicher Unberührtheit. Feuchte Passatwinde stauen sich an den Steilhängen, verursachen erhebliche orografische Regenfälle und nähren zahlreiche kleine, ganzjährige Gebirgsflüsse und Wasserfälle, die tief in die Täler stürzen. Die Isolation des Reliefs hat dazu geführt, dass die kleinen Dorfgemeinschaften auf beiden Seiten der Grenze ihre ganz eigene, einzigartige Kultur und Sprache über Jahrhunderte ohne großen äußeren Einfluss bewahren konnten. Geografie K8 — Isolierte Gebirgsrücken und Mikrokulturen.",
+      "factsAdvanced": [
+        "Steiler, isolierter Gebirgsrücken an der internationalen Grenze zu Togo",
+        "Geologischer Ausläufer der zerklüfteten Atakora-Gebirgskette",
+        "Extrem schwer zugängliches Terrain bewahrt die natürliche Unberührtheit",
+        "Zwingt Winde zum Aufsteigen und verursacht schwere orografische Regenfälle",
+        "Quellgebiet zahlreicher ganzjähriger Wasserfälle und Bergflüsse",
+        "Das raue Relief schützte kleine, isolierte kulturelle Sprachgruppen"
+      ]
+    },
+    {
+      "id": "buem-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Buem Escarpment ist eine markante topografische Bruchstufe in der Oti Region, die sich parallel zum Volta-See erstreckt. Diese geologische Falte aus hartem Sedimentgestein ist berühmt für ihre scharfen Abbrüche und tief eingeschnittenen Flusstäler. Sie schirmt die auf dem Hochplateau liegenden Buem-Gemeinden vom tieferliegenden, feuchteren Volta-Becken ab. Das Relief zeichnet sich durch seinen eisenhaltigen roten Lehmboden (Laterit) aus, der intensiv landwirtschaftlich für Yams und Berg-Kakao genutzt wird. Das Escarpment erlangte historische Bedeutung als letzte Zufluchtstätte lokaler Volksgruppen vor den massiven Raubzügen der Aschanti-Armeen im 18. und 19. Jahrhundert, da die Klippen für Invasoren eine fast unüberwindbare Barriere darstellten. Geografie K7 — Geologische Bruchstufen und Lateritböden.",
+      "factsAdvanced": [
+        "Markante topografische Bruchstufe in der neu gegründeten Oti Region",
+        "Geologisch bestehend aus einer Falte harten Sedimentgesteins",
+        "Trennt die hochliegenden Gemeinden vom tiefen, feuchten Volta-Becken",
+        "Relief ist geprägt von stark eisenhaltigen, roten Lateritböden",
+        "Bietet exzellente Bedingungen für den Anbau von Yams und Hochland-Kakao",
+        "Diente im 18. Jahrhundert als massive militärische Schutzbarriere gegen die Aschanti"
+      ]
+    },
+    {
+      "id": "shai-hills-relief-v2",
+      "descriptionAdvanced": "Die Shai Hills sind eine Ansammlung von dramatischen, felsigen Inselbergen (Inselbergs), die abrupt aus der weiten und flachen Accra-Ebene (Greater Accra Region) herausragen. Diese massiven Granit- und Gneisblöcke sind Reste einer uralten, härteren Gesteinsschicht, die nach Jahrmillionen der Erosion der weicheren umliegenden Böden stehen geblieben ist. Für die Geomorphologie Ghanas sind sie ein Paradebeispiel für Inselberg-Landschaften. Die Höhlen und Klippen dieses Reliefs boten dem Krobo-Volk über Jahrhunderte eine uneinnehmbare Festung, bis sie 1892 von den Briten vertrieben wurden. Heute ist das zerklüftete Relief das Herzstück des Shai Hills Resource Reserve und ein leicht zugängliches Übungsgebiet für Kletterer aus der Hauptstadt. Geografie K7 — Inselberge und Rumpfflächen.",
+      "factsAdvanced": [
+        "Ansammlung von Granit-Inselbergen in der extrem flachen Accra-Ebene",
+        "Paradebeispiel für Geomorphologie: harte Gesteinsreste nach Jahrmillionen der Erosion",
+        "Die Höhlen boten dem Krobo-Volk bis 1892 eine uneinnehmbare historische Festung",
+        "Die rauen Klippen heben sich dramatisch von der trockenen Küstensavanne ab",
+        "Zentraler Bestandteil des gut geschützten Shai Hills Resource Reserve",
+        "Eines der wichtigsten Gebiete für das Felsklettern im Süden Ghanas"
+      ]
+    },
+    {
+      "id": "kweku-hills-relief-v2",
+      "descriptionAdvanced": "Die Kweku Hills, gelegentlich als Teil der zentralen Gebirgsausläufer Ghanas betrachtet, sind ein kleines, aber landschaftlich reizvolles Hügelsystem in der Nähe von Elmina (Central Region). Das Relief zeichnet sich durch wellige, sanft abfallende Hänge aus, die dicht mit Kokospalmen und kleinen Buschwäldern bewachsen sind. Anders als die steilen Klippen von Nkawkaw sind diese Hügel alt und stark abgetragen, was sie ideal für die Subsistenzlandwirtschaft macht. Sie bilden eine natürliche, malerische Kulisse hinter den historischen Küstenstädten und beeinflussen die Windströmungen des Ozeans, wodurch sie die Küstendörfer vor den schwersten atlantischen Stürmen abpuffern. Die sanfte Topografie lädt zu entspannten Wandertouren ein. Geografie K6 — Abgetragene Hügelländer und Küstenschutz.",
+      "factsAdvanced": [
+        "Sanftes, stark abgetragenes Hügelsystem in der Central Region nahe Elmina",
+        "Geprägt von welligen Hängen, ideal für die lokale Subsistenzlandwirtschaft",
+        "Dicht bewachsen mit Kokospalmen und Buschwäldern",
+        "Bildet eine malerische, natürliche Kulisse hinter den historischen Küstenforts",
+        "Puffert die Küstendörfer gegen die starken und feuchten Ozeanwinde ab",
+        "Topografie ist im Gegensatz zu anderen Bergketten leicht und ohne Gefahr zugänglich"
+      ]
+    },
+    {
+      "id": "oti-plain-relief-v2",
+      "descriptionAdvanced": "Die Oti Plain ist eine extrem weite, savannenartige Ebene im Osten Ghanas, die den Fluss Oti bis zu seiner Mündung in den Volta-See begleitet. Das Relief dieser Ebene ist nahezu völlig flach, unterbrochen nur durch flache Senken (Fadamas), die in der Regenzeit schnell zu riesigen temporären Seen anschwellen. Diese Topografie macht das Gebiet hochgradig anfällig für Überschwemmungen, ist aber gleichzeitig der Schlüssel zu seinem landwirtschaftlichen Reichtum. Die Schwemmebenen lagern extrem nährstoffreiche Schlämme ab, die die Oti Plain zum größten ghanaischen Produktionszentrum für Süßkartoffeln, Yams und Reis machen. Der Bau des Volta-Damms hat jedoch den Grundwasserspiegel der gesamten Ebene für immer angehoben und so die historische Morphologie verändert. Geografie K8 — Flussebenen und saisonale Überflutungen.",
+      "factsAdvanced": [
+        "Extrem weite, flache Savannenebene entlang des Oti-Flusses in Ostghana",
+        "Geprägt durch flache Senken (Fadamas), die während der Monsunzeit schnell überfluten",
+        "Das flache Relief macht die Ebene hochgradig anfällig für extreme Hochwasser",
+        "Schwemmböden sind extrem nährstoffreich und ideal für Yams- und Reisanbau",
+        "Die Morphologie wurde durch den Rückstau des Akosombo-Damms permanent verändert",
+        "Wichtige topografische Region für große Rinderherden während der Trockenzeit"
+      ]
+    }
+  ]
+}

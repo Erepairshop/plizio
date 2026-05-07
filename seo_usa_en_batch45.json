@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "colorado-river-nature-v2",
+      "descriptionAdvanced": "The Colorado River is a 1,450-mile lifeline that carved the Grand Canyon, representing one of the most powerful and heavily managed river systems in North America. Originating in the Rocky Mountains, it sustains a massive, interconnected network of cities, agriculture, and industry across seven US states and two Mexican states. The river is the fundamental engine of the arid Southwest, but its extreme overuse, exacerbated by a decades-long drought, has pushed it to the point of structural collapse, with the river rarely reaching its historic delta in the Gulf of California. Today, the Colorado serves as a critical laboratory for studying water-right policy, climate-induced drought management, and the fragility of water resources in a rapidly warming desert ecosystem. Geografie K8 — Water-rights management and river system resilience.",
+      "factsAdvanced": [
+        "A 1,450-mile-long river system that carved the Grand Canyon.",
+        "Essential lifeblood for seven US states and the agricultural Southwest.",
+        "The river is currently one of the most heavily managed systems on Earth.",
+        "Severe, long-term drought has pushed the system to near-collapse.",
+        "Rarely reaches its historic delta due to extreme upstream water diversion.",
+        "Serves as a critical site for studying water-rights policy and climate adaptation."
+      ]
+    },
+    {
+      "id": "crater-lake-nature-v2",
+      "descriptionAdvanced": "Crater Lake in Oregon is the deepest lake in the United States, formed nearly 7,700 years ago following the catastrophic collapse of the volcanic Mount Mazama. The lake’s incredibly pure, deep-blue water is entirely fed by rainfall and snowmelt, containing no incoming rivers, which contributes to its status as one of the clearest and deepest bodies of water in the world. As a premier site for studying high-altitude limnology, volcanism, and the isolation of aquatic ecosystems, Crater Lake offers an irreplaceable, pristine natural laboratory. Today, it stands as a celebrated wilderness sanctuary, reminding observers of the immense, sudden power of volcanic destruction that can ultimately transform into a calm, enduring, and remarkably clear natural wonder. Biologie K7 — Alpine limnology and volcanic transformation.",
+      "factsAdvanced": [
+        "Deepest lake in the United States, with a maximum depth of 1,949 feet.",
+        "Formed 7,700 years ago after the catastrophic collapse of Mount Mazama.",
+        "Entirely fed by direct precipitation, resulting in exceptional water purity.",
+        "One of the clearest and deepest bodies of water in the world.",
+        "Premier laboratory for high-altitude limnology and volcanism research.",
+        "A celebrated natural wonder and a pristine alpine wilderness sanctuary."
+      ]
+    },
+    {
+      "id": "sequoia-national-forest-nature-v2",
+      "descriptionAdvanced": "Sequoia National Forest, situated in the southern Sierra Nevada of California, protects the world's most impressive remaining groves of giant sequoias, the largest trees on Earth. These massive, ancient organisms—which can live for over 3,000 years—are a foundational biological treasure, representing a direct connection to deep geological time and the resilience of a specific, sensitive ecosystem. The forest serves as a vital sanctuary for numerous wildlife species adapted to the Sierra's unique elevations. Today, the sequoias face new threats, including increasingly severe, climate-driven wildfires, making the forest a critical site for ongoing research into forest restoration, wildfire management, and the long-term survival of one of the planet’s most iconic and irreplaceable giant tree species. Biologie K8 — Ancient forest dynamics and wildfire resilience.",
+      "factsAdvanced": [
+        "Protects the world’s largest and most impressive giant sequoia groves.",
+        "Sequoias are the largest trees on Earth, capable of living over 3,000 years.",
+        "Ancient giants represent a direct biological link to deep geological time.",
+        "Serves as a vital sanctuary for specialized Sierra Nevada wildlife species.",
+        "Increasingly threatened by severe, climate-driven wildfires.",
+        "Critical site for research into forest restoration and ancient ecosystem survival."
+      ]
+    }
+  ]
+}

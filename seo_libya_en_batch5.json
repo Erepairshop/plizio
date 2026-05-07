@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lisco-misrata-steel-economic-v2",
+      "descriptionAdvanced": "The Libyan Iron and Steel Company (LISCO) is the largest non-oil industrial complex in Libya, occupying a massive footprint in Misrata. Operating since the 1980s, the facility relies heavily on cheap domestic natural gas to power its energy-intensive Direct Reduced Iron (DRI) furnaces. LISCO supplies rebar, hot-rolled coils, and steel billets both to the domestic construction market and for international export. The plant's continued operation is seen as a symbol of Libya's industrial resilience. Economics K8 — heavy manufacturing and metallurgy.",
+      "factsAdvanced": [
+        "The largest iron and steel manufacturing complex in North Africa.",
+        "Located in Misrata, directly integrated with the Qasr Ahmed port.",
+        "Utilizes energy-intensive Direct Reduced Iron (DRI) technology.",
+        "Supplies critical rebar and structural steel for domestic construction.",
+        "Historically one of the largest employers outside the oil sector.",
+        "Heavily reliant on cheap, subsidized domestic natural gas."
+      ]
+    },
+    {
+      "id": "zliten-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Zliten Cement Plant is a foundational pillar of Libya's domestic construction industry, producing massive quantities of Portland cement. Located strategically between Tripoli and Misrata, it utilizes locally mined limestone and clay. The facility has seen significant expansions to meet the intense demand for post-conflict reconstruction across the western region. Its prominent silos and kilns are a major landmark on the coastal highway, generating significant local employment. Economics K7 — construction materials and domestic industry.",
+      "factsAdvanced": [
+        "A major producer of Portland cement in western Libya.",
+        "Located in the coastal city of Zliten.",
+        "Utilizes abundant local limestone and clay deposits.",
+        "Critical supplier for post-conflict reconstruction efforts.",
+        "Operates massive rotary kilns visible from the coastal highway.",
+        "Provides significant employment for the surrounding municipalities."
+      ]
+    },
+    {
+      "id": "mellitah-gas-plant-economic-v2",
+      "descriptionAdvanced": "The Mellitah Gas Plant is a massive, highly sophisticated processing facility that treats raw natural gas before it is exported or used domestically. It strips impurities like sulfur and separates natural gas liquids (NGLs) from the methane stream. The plant is the critical terrestrial processing node before gas enters the undersea Greenstream pipeline to Italy. Operated as a joint venture with ENI, the facility represents the pinnacle of modern energy technology in Libya. Science K8 — hydrocarbon processing and gas sweetening.",
+      "factsAdvanced": [
+        "Located at the Mellitah complex near Zuwara.",
+        "Processes raw natural gas to remove sulfur and impurities.",
+        "Separates valuable Natural Gas Liquids (NGLs) for export.",
+        "The final terrestrial processing point before the Greenstream pipeline.",
+        "Operated as a strategic joint venture with Italian energy firm ENI.",
+        "Features highly advanced, automated chemical engineering systems."
+      ]
+    },
+    {
+      "id": "khoms-power-plant-economic-v2",
+      "descriptionAdvanced": "The Khoms Power Plant is one of the largest and most critical electricity generation facilities on the Libyan grid. Situated on the coast to utilize seawater for cooling, the plant operates multiple massive gas and steam turbines. It is primarily fueled by natural gas piped from inland fields, providing base-load power to the Tripolitania region, including the capital. Disruptions or fuel shortages at this plant immediately result in rolling blackouts across western Libya. Engineering K8 — national power grids and thermal generation.",
+      "factsAdvanced": [
+        "A critical base-load power generation facility for western Libya.",
+        "Located on the Mediterranean coast near the city of Khoms.",
+        "Utilizes seawater for the massive cooling requirements of its turbines.",
+        "Operates a combination of gas and steam turbine units.",
+        "Primarily fueled by domestic natural gas.",
+        "Crucial for maintaining grid stability in the densely populated Tripolitania."
+      ]
+    },
+    {
+      "id": "ly-leptis-magna-history-v2",
+      "descriptionAdvanced": "Leptis Magna stands as one of the most spectacular and best-preserved Roman cities in the world, dramatically overlooking the Mediterranean Sea. Originally a Phoenician settlement, it was vastly expanded by the Roman Emperor Septimius Severus, who was born there. The site features an incredibly intact amphitheater, massive public baths, and the towering Severan Arch. Walking through its ancient, colonnaded streets offers an unparalleled glimpse into the immense wealth and scale of the Roman Empire in North Africa. History K6 — Roman imperial architecture.",
+      "factsAdvanced": [
+        "Designated as a UNESCO World Heritage site in 1982.",
+        "Birthplace of the Roman Emperor Septimius Severus in 145 AD.",
+        "Features a spectacularly preserved amphitheater overlooking the sea.",
+        "Originally founded by Phoenician colonists in the 7th century BC.",
+        "Contains the massive, ornately decorated Severan Arch.",
+        "Buried by sand for centuries, which preserved its structures perfectly."
+      ]
+    },
+    {
+      "id": "ly-sabratha-history-v2",
+      "descriptionAdvanced": "Sabratha was the westernmost of the ancient 'Three Cities' of Tripolitania, acting as a crucial trading post for goods brought across the Sahara. The crown jewel of the ruins is its breathtaking, three-story Roman theater, which was meticulously reconstructed by archaeologists in the 20th century. Beyond the theater, the site contains beautiful mosaic floors, ancient temples, and public baths right on the shoreline. Its history reflects a blend of Phoenician origins and later Roman monumental expansion. History K6 — ancient theater and coastal trade.",
+      "factsAdvanced": [
+        "A UNESCO World Heritage site located west of Tripoli.",
+        "Famous for its massive, three-story reconstructed Roman theater.",
+        "Originally established as a Phoenician trading post around 500 BC.",
+        "Features exquisite, well-preserved Roman floor mosaics.",
+        "Served as the terminus for trans-Saharan caravan routes.",
+        "The ruins sit directly on the Mediterranean coastline."
+      ]
+    },
+    {
+      "id": "ly-cyrene-history-v2",
+      "descriptionAdvanced": "Cyrene was one of the principal cities of the Hellenic world, founded by Greek colonists from Thera in 631 BC. Located in the lush Jabal al Akhdar mountains, it features sweeping views, ancient temples dedicated to Apollo and Zeus, and a massive necropolis. The city was famous across the ancient world for its export of 'silphium', a medicinal plant that was harvested to extinction. The site perfectly blends Greek architectural elegance with later Roman additions. History K6 — ancient Greek colonization.",
+      "factsAdvanced": [
+        "Founded by ancient Greek colonists from the island of Thera in 631 BC.",
+        "A UNESCO World Heritage site located in the Jabal al Akhdar.",
+        "Features massive temples dedicated to Apollo and Zeus.",
+        "Historically famous for exporting the now-extinct medicinal plant 'silphium'.",
+        "Contains one of the largest ancient necropolises in the world.",
+        "Suffered significant damage from a massive earthquake in 365 AD."
+      ]
+    },
+    {
+      "id": "ly-apollonia-history-v2",
+      "descriptionAdvanced": "Apollonia served as the bustling maritime port for the inland city of Cyrene, evolving into a major urban center in its own right. Today, significant portions of the ancient harbor and waterfront structures lie submerged beneath the clear Mediterranean waters, offering unique underwater archaeology opportunities. On land, the ruins feature well-preserved Byzantine churches and a picturesque Greek theater set against the sea. It highlights the critical importance of naval trade to the ancient Cyrenaican economy. History K7 — underwater archaeology and ancient ports.",
+      "factsAdvanced": [
+        "Served historically as the primary port for the ancient city of Cyrene.",
+        "Features significant ancient ruins now submerged underwater.",
+        "Located adjacent to the modern coastal town of Susa.",
+        "Contains the ruins of three massive Byzantine-era churches.",
+        "Features a beautiful ancient Greek theater overlooking the sea.",
+        "Founded in the 7th century BC by Greek colonists."
+      ]
+    },
+    {
+      "id": "ly-ptolemais-history-v2",
+      "descriptionAdvanced": "Ptolemais was a major city of the Cyrenaican Pentapolis, serving as the provincial capital during the late Roman and Byzantine periods. The site is massive and largely unexcavated, featuring a unique 'Palace of the Columns' and incredibly intricate, sprawling underground water cisterns. The city grid is clearly visible, showcasing brilliant ancient urban planning designed to capture and store every drop of mountain rainfall. It offers a quieter, less commercialized archaeological experience compared to Cyrene. History K8 — ancient urban water management.",
+      "factsAdvanced": [
+        "One of the five cities of the ancient Greek Pentapolis.",
+        "Served as the capital of the Cyrenaica province under Emperor Diocletian.",
+        "Features the famous, highly decorated 'Palace of the Columns'.",
+        "Renowned for its massive, cathedral-like underground water cisterns.",
+        "Much of the massive ancient city remains unexcavated.",
+        "Located near the modern town of Tolmeita."
+      ]
+    },
+    {
+      "id": "ly-tocra-history-v2",
+      "descriptionAdvanced": "Taucheira, known today as Tocra, was a fortified coastal city of the ancient Pentapolis, heavily utilized during the Byzantine era. The site is notable for its massive, imposing defensive walls that were constructed to repel nomadic incursions from the desert. Inside the walls, archaeologists have uncovered early Christian basilica ruins and a wealth of ancient Greek pottery. The site demonstrates the militarization of coastal cities during the decline of the Roman Empire. History K7 — Byzantine fortifications.",
+      "factsAdvanced": [
+        "Historically known as Taucheira, part of the Cyrenaican Pentapolis.",
+        "Features massive, well-preserved Byzantine defensive walls.",
+        "Located on the coast northeast of modern Benghazi.",
+        "Archaeological digs have uncovered massive quantities of Greek pottery.",
+        "Contains the ruins of early Christian basilicas.",
+        "Fortified heavily by the Byzantine Emperor Justinian."
+      ]
+    },
+    {
+      "id": "ly-ghadames-old-town-history-v2",
+      "descriptionAdvanced": "The Old Town of Ghadames is a masterclass in desert architectural engineering, built entirely of mud-brick, lime, and palm wood to combat extreme Saharan temperatures. The labyrinthine, covered streets provide perpetual shade for the ground-level walkways, while a separate, interconnected network of rooftop terraces was traditionally used by women. The interiors of the homes are often beautifully decorated with bright white lime and red geometric patterns. It stands as a profound monument to human adaptation in harsh environments. History K7 — extreme environment architecture.",
+      "factsAdvanced": [
+        "A UNESCO World Heritage site known as the 'Pearl of the Desert'.",
+        "Built using mud-brick, lime, and palm tree trunks.",
+        "Features a unique dual-level street system for gender separation.",
+        "Covered ground-level alleys provide natural air conditioning.",
+        "Home interiors feature distinctive red paint and mirrors.",
+        "Historically a major resting point for trans-Saharan caravans."
+      ]
+    },
+    {
+      "id": "ly-marcus-aurelius-arch-history-v2",
+      "descriptionAdvanced": "The Arch of Marcus Aurelius is the most significant surviving Roman monument within the modern city of Tripoli. Erected in 165 AD, this quadrifrons (four-sided) triumphal arch marks the intersection of the ancient city's two main streets, the cardo and the decumanus. It is built entirely of solid marble and features intricate carvings of Apollo and Minerva. Surviving centuries of urban build-up, it now stands proudly near the entrance to the Old Medina. History K6 — Roman urban monuments.",
+      "factsAdvanced": [
+        "A Roman quadrifrons (four-sided) triumphal arch erected in 165 AD.",
+        "The most prominent Roman ruin remaining in Tripoli.",
+        "Constructed entirely from high-quality imported marble.",
+        "Features detailed relief carvings of the deities Apollo and Minerva.",
+        "Marks the intersection of the ancient Roman cardo and decumanus.",
+        "Was partially buried in sand and debris until excavated in the 20th century."
+      ]
+    },
+    {
+      "id": "ly-red-castle-history-v2",
+      "descriptionAdvanced": "The Red Castle, or Assaraya al-Hamra, is a massive fortress dominating the waterfront of Tripoli, serving as the seat of power for centuries of rulers. Its labyrinthine complex of courtyards, armories, and palaces reflects additions by the Spanish, the Knights of St. John, the Ottomans, and the Karamanli dynasty. Today, it houses Libya's premier national museum, showcasing artifacts from the prehistoric era through to the modern day. The imposing red walls are a defining symbol of the capital. History K7 — Ottoman fortifications and museums.",
+      "factsAdvanced": [
+        "A massive historic fortress located on Tripoli's waterfront.",
+        "Served as the seat of government for the Ottoman Karamanli dynasty.",
+        "Features architectural additions spanning over a thousand years.",
+        "Currently houses the Red Castle Museum, Libya's national museum.",
+        "Overlooks the historic Green Square (Martyrs' Square).",
+        "Named for the distinct reddish hue of its massive exterior walls."
+      ]
+    },
+    {
+      "id": "ly-tadrart-acacus-history-v2",
+      "descriptionAdvanced": "The Tadrart Acacus is a remote mountain range in the deep southwest of Libya, famous for housing thousands of prehistoric cave paintings and carvings. These incredibly preserved artworks depict a vastly different Sahara—one filled with lakes, giraffes, elephants, and early human hunter-gatherers. The art spans thousands of years, documenting the drastic climate shift that turned a fertile savanna into a hyper-arid desert. The jagged, wind-carved sandstone formations of the Acacus are themselves visually breathtaking. History K8 — prehistoric climate change and rock art.",
+      "factsAdvanced": [
+        "A UNESCO World Heritage site located in the southwestern Fezzan.",
+        "Contains thousands of prehistoric rock paintings and carvings.",
+        "Artworks depict giraffes, elephants, and crocodiles in the Sahara.",
+        "Chronicles the region's transition from a green savanna to a desert.",
+        "Features spectacular wind-eroded sandstone arches and ravines.",
+        "The oldest rock art here dates back to roughly 12,000 BC."
+      ]
+    },
+    {
+      "id": "ly-germa-history-v2",
+      "descriptionAdvanced": "Germa, known historically as Garama, was the ancient capital of the Garamantes, a powerful Saharan civilization that thrived long before the Romans arrived. The Garamantes were master engineers, building thousands of miles of underground irrigation channels (foggaras) to tap into ancient fossil water, allowing them to farm the desert. The ruins today include a massive mud-brick fortress and extensive necropolises. This site proves that advanced, indigenous urban civilizations existed in the deep Sahara. History K8 — ancient Saharan civilizations and hydrology.",
+      "factsAdvanced": [
+        "The ancient capital of the powerful Garamantian civilization.",
+        "Located in the Wadi al Hayaa in the Fezzan region.",
+        "The Garamantes built extensive underground water channels called foggaras.",
+        "Features the ruins of a massive mud-brick central fortress.",
+        "Flourished between 500 BC and 600 AD.",
+        "Proves the existence of advanced, indigenous desert urban centers."
+      ]
+    },
+    {
+      "id": "ly-slonta-history-v2",
+      "descriptionAdvanced": "The Sanctuary of Slonta is one of Libya's most enigmatic and least understood archaeological sites, hidden away in the Jabal al Akhdar. Unlike the classical Greek or Roman ruins nearby, Slonta features bizarre, almost grotesque stone carvings of human faces and animals that seem entirely indigenous or pre-Hellenic. Scholars debate its origins, with some suggesting it was a local Libyan cult site or a shrine dedicated to underworld deities. The eerie, macabre carvings make it a highly unique historical destination. History K8 — indigenous pre-classical cults.",
+      "factsAdvanced": [
+        "An enigmatic, poorly understood archaeological site in the Jabal al Akhdar.",
+        "Features strange, macabre carvings of human faces and animals.",
+        "Does not conform to standard Greek, Roman, or Egyptian artistic styles.",
+        "Believed by some scholars to be an indigenous Libyan cult sanctuary.",
+        "Possibly associated with underworld or funerary deities.",
+        "Located near the modern village of Slonta, south of Al Bayda."
+      ]
+    },
+    {
+      "id": "ly-villa-silin-history-v2",
+      "descriptionAdvanced": "Villa Silin is a remarkably luxurious Roman maritime villa located on the coast near Leptis Magna, showcasing the immense wealth of the North African elite. The villa is famous for its stunning, near-perfect mosaic floors depicting gladiatorial combat, chariot races, and marine life. It features a sophisticated private bath complex and terraced gardens leading directly down to the Mediterranean Sea. The site was preserved under shifting sand dunes, keeping the vivid colors of the mosaics intact for centuries. History K7 — Roman elite domestic architecture.",
+      "factsAdvanced": [
+        "A highly luxurious ancient Roman maritime villa near Khoms.",
+        "Famous for incredibly vivid and well-preserved floor mosaics.",
+        "Mosaics depict scenes of gladiators, chariot racing, and daily life.",
+        "Features a sophisticated private thermal bath complex.",
+        "Built during the 2nd century AD for wealthy Roman elites.",
+        "Buried entirely by sand dunes, which preserved the delicate artwork."
+      ]
+    },
+    {
+      "id": "ly-qasr-libya-history-v2",
+      "descriptionAdvanced": "Qasr Libya, known in antiquity as Theodorias, is a small town in Cyrenaica renowned for housing one of the finest collections of Byzantine mosaics in the world. Originally flooring an ancient Christian basilica, the 50 mosaic panels depict vibrant, highly stylized animals, mythological creatures, and representations of famous cities like Alexandria. The mosaics were discovered accidentally in the 1950s and are now housed in a dedicated local museum. They represent the artistic pinnacle of the Byzantine era in North Africa. History K7 — Byzantine art and early Christianity.",
+      "factsAdvanced": [
+        "Historically known as the Byzantine city of Theodorias.",
+        "Famous for a collection of 50 perfectly preserved Byzantine mosaic panels.",
+        "Mosaics originally belonged to an early Christian basilica.",
+        "Depicts complex scenes of animals, mythology, and ancient cities.",
+        "Discovered by accident by a local farmer in 1957.",
+        "The site includes a dedicated museum protecting the delicate artwork."
+      ]
+    },
+    {
+      "id": "ly-tripoli-medina-history-v2",
+      "descriptionAdvanced": "The Medina of Tripoli is the ancient, walled heart of the Libyan capital, a dense labyrinth of narrow alleys, historic mosques, and traditional souks (markets). Unlike many historic centers, the Medina remains a living, breathing neighborhood where artisans craft copper, leather, and gold using centuries-old techniques. It features stunning Ottoman-era architecture, including the Gurgi and Karamanli mosques with their intricate tile work. The Medina represents the uninterrupted cultural soul of Tripolitania. Sociology K7 — traditional urban markets and Islamic architecture.",
+      "factsAdvanced": [
+        "The ancient, walled historic center of Tripoli.",
+        "Features a labyrinthine layout of narrow, shaded alleys.",
+        "Home to traditional souks selling gold, copper, and silk.",
+        "Contains the beautiful Ottoman-era Gurgi and Karamanli mosques.",
+        "Remains an active, populated residential and commercial neighborhood.",
+        "Accessible via several historic gates, such as Bab Hawara."
+      ]
+    },
+    {
+      "id": "ly-gharyan-troglodyte-history-v2",
+      "descriptionAdvanced": "The troglodyte caves of Gharyan are a marvel of traditional, functional architecture, dug vertically into the earth of the Nafusa Mountains. A large central crater is excavated first, serving as an open-air courtyard, with individual living rooms, kitchens, and animal pens tunneled horizontally into the walls. This ingenious design provides perfect natural insulation, remaining cool in the blistering summer and warm during the freezing mountain winters. Several of these historic homes are still maintained and visited today. Sociology K7 — functional subterranean architecture.",
+      "factsAdvanced": [
+        "Traditional underground homes located in the city of Gharyan.",
+        "Dug vertically into the ground to create a central, open courtyard.",
+        "Rooms are tunneled horizontally into the walls of the crater.",
+        "Provides highly effective natural insulation against extreme temperatures.",
+        "Some cave homes have been continually occupied for centuries.",
+        "Represents a brilliant adaptation to the harsh mountain environment."
+      ]
+    }
+  ]
+}

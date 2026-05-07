@@ -1,0 +1,316 @@
+{
+  "lang": "ro",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "misrata-cities-v2",
+      "descriptionAdvanced": "Misrata este un oraș comercial și industrial vibrant situat pe coasta Mării Mediterane, la aproximativ 200 de kilometri est de Tripoli. Cu un port activ și o economie înfloritoare, este al treilea oraș ca mărime din Libia și un punct central pentru afaceri. Regiunea este recunoscută pentru producția de oțel, având una dintre cele mai mari fabrici din Africa de Nord. Geografie K7 — așezări urbane și economie de coastă.",
+      "factsAdvanced": [
+        "Al treilea oraș ca populație din Libia.",
+        "Portul Misrata (Qasr Ahmed) este un important centru de import-export.",
+        "Complexul LISCO a fost fondat în 1989 și produce oțel pentru regiune.",
+        "Este supranumit capitala comercială a țării datorită antreprenoriatului local.",
+        "Așezarea se află la 32.37 grade latitudine nordică.",
+        "Clima sa este mediteraneană, cu veri calde și ierni blânde.",
+        "Orașul are o istorie de comerț trans-saharian veche de secole."
+      ]
+    },
+    {
+      "id": "bayda-cities-v2",
+      "descriptionAdvanced": "Al Bayda se remarcă drept unul dintre cele mai pitorești orașe din regiunea Jebel Akhdar (Muntele Verde), situat în nord-estul Libiei. Cunoscut pentru climatul său temperat, flora bogată și istoria sa legată de mișcarea Sanussi, orașul a servit drept capitală administrativă a țării în perioada monarhiei, înainte de 1969. Peisajul este dominat de păduri de pini, ienuperi și plantații agricole. Istorie K8 — mișcări religioase și capitale istorice.",
+      "factsAdvanced": [
+        "Este al patrulea oraș ca mărime din țară și centrul Cirenaicei de nord.",
+        "A fost înființat în 1843 ca un important centru religios Sanussi.",
+        "Universitatea Omar Al-Mukhtar a fost fondată aici în 1961.",
+        "Găzduiește mausoleul lui Ruwaifi bin Thabit, companion al profetului Mahomed.",
+        "Este situat la o altitudine de peste 600 de metri.",
+        "A servit drept sediu guvernamental parțial în timpul regelui Idris I."
+      ]
+    },
+    {
+      "id": "zawiya-cities-v2",
+      "descriptionAdvanced": "Zawiya, situat pe coasta mediteraneană la aproximativ 45 de kilometri vest de Tripoli, este un nod vital pentru industria energetică a Libiei. Orașul găzduiește una dintre cele mai mari și importante rafinării de petrol din țară, transformându-l într-un centru economic de primă importanță. De-a lungul istoriei, a fost un important punct comercial și agricol, iar astăzi îmbină moștenirea istorică cu o infrastructură industrială masivă. Geografie K8 — resurse energetice și rafinare.",
+      "factsAdvanced": [
+        "Este situat pe câmpia de coastă a regiunii Tripolitania.",
+        "Rafinăria Zawiya prelucrează peste 120.000 de barili de petrol pe zi.",
+        "Are o populație estimată la peste 200.000 de locuitori.",
+        "Orașul este conectat la câmpul petrolifer Sharara printr-o conductă majoră.",
+        "În trecut a fost un important centru pentru studiile islamice.",
+        "Universitatea Zawiya a fost fondată în anul 1988."
+      ]
+    },
+    {
+      "id": "zliten-cities-v2",
+      "descriptionAdvanced": "Zliten este un oraș istoric și de coastă amplasat pe malurile Mediteranei, între Khoms și Misrata. Orașul este celebru pentru Universitatea Islamică Al-Asmariya, unul dintre cele mai prestigioase centre de învățământ superior teologic din nordul Africii. Din punct de vedere economic, Zliten este un hub important pentru producția de ciment, beneficiind de resurse locale abundente și o infrastructură portuară dezvoltată. Istorie K7 — educație islamică și dezvoltare industrială.",
+      "factsAdvanced": [
+        "Sanctuarul Sidi Abdul-Salam Al-Asmari este o atracție spirituală majoră.",
+        "Universitatea Al-Asmariya atrage studenți din întreaga lume islamică.",
+        "Fabrica de ciment Zliten este una dintre cele mai mari din Libia.",
+        "Orașul este situat la aproximativ 160 de kilometri est de capitala Tripoli.",
+        "Economia locală combină industria grea cu pescuitul și agricultura.",
+        "Regiunea produce, de asemenea, o cantitate semnificativă de ulei de măsline."
+      ]
+    },
+    {
+      "id": "sirte-cities-v2",
+      "descriptionAdvanced": "Sirte ocupă o poziție strategică pe coasta sudică a Golfului Sidra, exact la jumătatea distanței dintre Tripoli și Benghazi. Această locație a transformat orașul într-un punct nodal pentru transport și comunicații de-a lungul istoriei recente a Libiei. A fost locul de naștere al lui Muammar Gaddafi și a beneficiat de investiții majore în infrastructură, inclusiv complexe guvernamentale impresionante și centre de conferințe uriașe, cum ar fi Centrul Ouagadougou. Geografie K7 — urbanizare și infrastructură costieră.",
+      "factsAdvanced": [
+        "Se află la jumătatea distanței rutiere dintre regiunile Tripolitania și Cirenaica.",
+        "A găzduit summituri majore ale Uniunii Africane și ale Ligii Arabe.",
+        "Centrul de conferințe Ouagadougou este un complex arhitectural masiv.",
+        "Bătălia de la Sirte din 2011 a marcat sfârșitul Războiului Civil Libian.",
+        "Portul său deservește operațiuni comerciale și de pescuit locale.",
+        "Orașul are o istorie de reconstrucție extinsă în ultimul deceniu."
+      ]
+    },
+    {
+      "id": "tobruk-cities-v2",
+      "descriptionAdvanced": "Tobruk, un oraș-port de o importanță istorică și strategică imensă, este situat pe coasta estică a Libiei, aproape de granița cu Egiptul. Portul său adânc și protejat a făcut din Tobruk un punct fierbinte în timpul celui de-Al Doilea Război Mondial, fiind scena celebrului asediu din 1941. Astăzi, găzduiește cimitire de război impresionante care onorează soldații aliați și ai Axei. Economia orașului se bazează puternic pe terminalul său de export petrolier, esențial pentru comerțul național. Istorie K8 — Al Doilea Război Mondial în Africa de Nord.",
+      "factsAdvanced": [
+        "Portul Tobruk oferă o zonă naturală de ancoraj adâncă, rară pe această coastă.",
+        "Asediul Tobrukului a durat 241 de zile, din aprilie până în noiembrie 1941.",
+        "Cimitirul de Război din Tobruk este îngrijit de Commonwealth War Graves Commission.",
+        "Terminalul petrolier Hariga exportă o mare parte din țițeiul est-libian.",
+        "Este sediul Universității Tobruk, care deservește regiunea estică.",
+        "A fost locul temporar al Camerei Reprezentanților din Libia în 2014."
+      ]
+    },
+    {
+      "id": "ajdabiya-cities-v2",
+      "descriptionAdvanced": "Ajdabiya este un oraș cu o locație strategică esențială, situat la răscrucea principalelor rute care leagă vestul, estul și sudul Libiei. Poziționarea sa aproape de coasta Mediteranei, chiar la sud de Benghazi, l-a transformat istoric într-un centru de tranzit și o oază pentru caravanele care se îndreptau spre deșert. Orașul este recunoscut pentru moscheea sa antică fatimidă și moștenirea arhitecturală, fiind un punct vital pentru distribuția apei prin sistemul Great Man-Made River. Geografie K7 — rute comerciale și gestionarea apei.",
+      "factsAdvanced": [
+        "Este un nod central pentru rețeaua autostrăzilor libiene.",
+        "Un important rezervor al proiectului Great Man-Made River se află aici.",
+        "Orașul a fost un centru operațional cheie pentru mișcarea Senussi.",
+        "Biserica sau Moscheea Fatimidă este o relicvă a arhitecturii islamice din secolul X.",
+        "Are o populație de peste 130.000 de locuitori.",
+        "Se găsește la doar 15 km distanță de litoralul mediteranean."
+      ]
+    },
+    {
+      "id": "derna-cities-v2",
+      "descriptionAdvanced": "Derna este un oraș istoric pitoresc situat în estul Libiei, recunoscut pentru arhitectura sa de influență mediteraneană, moscheile vechi și peisajul său neobișnuit, traversat de uedul Derna (Wadi Derna). Așezat pe coasta Cirenaicei, orașul a fost mult timp un centru de cultură și artă. În 2023, Derna a suferit o tragedie majoră atunci când furtuna Daniel a provocat ruperea unor baraje din amonte, devastând zone extinse ale orașului, un eveniment care a adus provocări hidrologice majore în prim-plan. Geografie K8 — catastrofe naturale și hidrologie.",
+      "factsAdvanced": [
+        "Orașul este împărțit în două de un râu intermitent (Wadi Derna).",
+        "A fost guvernat scurt timp de Marina SUA în 1805 după Bătălia de la Derna.",
+        "Moscheea Al-Sahaba găzduiește morminte ale companionilor profetului.",
+        "Furtuna Daniel din 2023 a distrus aproape 25% din infrastructura orașului.",
+        "Zona a fost recunoscută pentru producția de miere și struguri.",
+        "În perioada otomană, Derna a fost unul dintre cele mai verzi orașe din regiune."
+      ]
+    },
+    {
+      "id": "sabha-cities-v2",
+      "descriptionAdvanced": "Sabha este cea mai importantă așezare urbană și centrul istoric al regiunii Fezzan, din sud-vestul Libiei. Este un oraș-oază vital în mijlocul Saharei, acționând ca un hub central pentru transport, comerț cu țările vecine din sud (precum Niger și Ciad) și administrarea resurselor. Fortăreața sa impunătoare, Fortezza Margherita (cunoscută și ca Fortăreața Elena), construită în perioada colonială italiană pe o colină proeminentă, oferă vederi panoramice. Orașul este crucial și pentru turismul de deșert din Libia. Geografie K7 — orașe-oază și geopolitica deșertului.",
+      "factsAdvanced": [
+        "Este capitala și cel mai mare oraș al regiunii sudice Fezzan.",
+        "Fortăreața sa centrală figurează adesea pe bancnotele naționale de 10 dinari.",
+        "Universitatea Sabha este principala instituție de învățământ superior din sudul Libiei.",
+        "Un nod crucial pentru traficul terestru trans-saharian și rutele de migrație.",
+        "Zona înconjurătoare are resurse imense de apă subterană dulce.",
+        "Găzduiește un aeroport internațional esențial pentru legăturile cu deșertul."
+      ]
+    },
+    {
+      "id": "khoms-cities-v2",
+      "descriptionAdvanced": "Khoms (Al Khums) este un oraș mediteranean fermecător și istoric, situat la est de Tripoli. Este renumit pe plan global datorită proximității sale față de ruinele magnifice ale orașului antic Leptis Magna, un sit inclus în Patrimoniul Mondial UNESCO. Dincolo de atracțiile sale istorice, Khoms se mândrește cu un port activ care facilitează importul de mărfuri, un parc industrial important ce include fabrici de oțel și ciment, și un litoral atrăgător. Istorie K8 — imperiul roman și conservarea patrimoniului.",
+      "factsAdvanced": [
+        "Se află la aproximativ 120 de kilometri est de capitala Tripoli.",
+        "Leptis Magna, aflat la câțiva kilometri, este unul dintre cele mai bine conservate orașe romane.",
+        "A fost un centru principal de producție a ierbii de esparto în secolul XIX.",
+        "Portul Al Khums este al doilea ca mărime pe coasta de nord-vest.",
+        "Regiunea este renumită pentru livezile extinse de măslini și citrice.",
+        "Bătălia de la Al-Khums (1911) a fost o ciocnire cheie în timpul războiului italo-turc."
+      ]
+    },
+    {
+      "id": "bani-walid-cities-v2",
+      "descriptionAdvanced": "Bani Walid este un oraș istoric și un fief tribal, localizat într-o regiune aridă din nord-vestul Libiei, străbătut de sistemul de văi ued Merdum (Wadi Merdum). Orașul este centrul tribal pentru Warfalla, unul dintre cele mai mari și influente triburi din țară. Situat pe drumurile antice care legau coasta de Fezzan, a fost mult timp un punct strategic. Clădirile vechi, tradițiile tribale puternice și peisajele stâncoase înconjurătoare oferă un caracter unic acestei regiuni izolate. Sociologie K8 — structuri tribale și organizare socială.",
+      "factsAdvanced": [
+        "Este centrul neoficial al tribului Warfalla, format din peste 50 de sub-triburi.",
+        "Se află la circa 150 km sud-est de capitala Tripoli.",
+        "Wadi Merdum, care străbate orașul, susține agricultura limitată de subzistență.",
+        "Universitatea Bani Walid găzduiește mii de studenți locali.",
+        "A fost una dintre ultimele redute majore în timpul revoluției din 2011.",
+        "Deține numeroase oaze ascunse și plantații tradiționale de curmali."
+      ]
+    },
+    {
+      "id": "kufra-cities-v2",
+      "descriptionAdvanced": "Al Jawf, cel mai mare așezământ din districtul Kufra (Al Kufra), este o oază legendară localizată în colțul de sud-est, adânc în inima deșertului libian. Kufra a fost un popas esențial pe vechile rute ale caravanelor de comerț către estul Africii Centrale și Sudan, controlat mult timp de ordinul religios Sanussi. Orașul stă deasupra Bazinului Kufra, un imens acvifer de apă fosilă, ceea ce permite agricultura irigată circulară impresionantă, vizibilă din spațiu. Geografie K7 — acvifere fosile și agricultura în deșert.",
+      "factsAdvanced": [
+        "Bazinul Kufra conține peste 20.000 de kilometri cubi de apă subterană.",
+        "Cercurile masive de irigații din Kufra ajung adesea la un kilometru în diametru.",
+        "În 1931, regiunea a fost ocupată de forțele italiene după o luptă crâncenă.",
+        "Este unul dintre cele mai uscate locuri de pe planetă, cu precipitații aproape nule.",
+        "Punct de tranzit vital spre granițele cu Egipt, Sudan și Ciad.",
+        "Oaza găzduiește milioane de palmieri, fiind celebră pentru producția de curmale."
+      ]
+    },
+    {
+      "id": "marj-cities-v2",
+      "descriptionAdvanced": "Marj, denumit anterior Barce, este un oraș cu o istorie bogată din regiunea Cirenaica de Est, amplasat într-o depresiune naturală, sau polje, pe un platou înalt. Este remarcabil pentru zona sa de fertilitate crescută, fiind un centru important de agricultură a grâului și a orzului. Orașul original a fost complet distrus de un cutremur devastator în anul 1963, obligând autoritățile să reconstruiască noul oraș la o distanță sigură de locația anterioară. Geografie K8 — tectonica plăcilor și fertilitatea solurilor montane.",
+      "factsAdvanced": [
+        "Un cutremur major cu magnitudinea de 5.3 a distrus orașul vechi la 21 februarie 1963.",
+        "Ruinele vechiului Barce ascund vestigii grecești, romane și islamice antice.",
+        "Solul fertil roșu face din această zonă grânarul tradițional al estului Libiei.",
+        "Orașul nou, construit după anii 1960, respectă standarde antiseismice moderne.",
+        "Este situat la aproximativ 100 de kilometri nord-est de Benghazi.",
+        "Capitală a mișcărilor militare rebele de mai multe ori în istoria Libiei."
+      ]
+    },
+    {
+      "id": "tarhuna-cities-v2",
+      "descriptionAdvanced": "Tarhuna este un oraș agrar prosper, aflat pe înălțimile Munților Nafusa (Jebel Nafusa) din nord-vestul Libiei. Climatul mai blând, caracteristic regiunii montane, combinat cu solurile bune, face din Tarhuna un centru principal pentru producția de măsline, smochine și migdale. Dealurile acoperite de culturi atrag ocazional zăpadă ușoară în sezonul rece. În plus față de faima sa agricolă, orașul a avut o semnificație militară strategică în timpul conflictelor recente libiene. Geografie K7 — agricultura zonelor înalte nord-africane.",
+      "factsAdvanced": [
+        "Găzduiește sute de mii de măslini, având o puternică industrie de ulei de măsline.",
+        "Situat la 80 de kilometri sud-est de Tripoli, într-o regiune colinară.",
+        "A fost un punct cheie pentru rezistența libiană împotriva ocupației italiene.",
+        "Posedă o sursă importantă de apă dulce grație rezervoarelor naturale de rocă.",
+        "Unul dintre cele mai importante sanctuare din regiunea sa se află aici.",
+        "Populația aparține în mod tradițional tribului Tarhuna, unul dintre cele mai vechi."
+      ]
+    },
+    {
+      "id": "zuwara-cities-v2",
+      "descriptionAdvanced": "Zuwara este un oraș de coastă captivant din vestul extrem al Libiei, renumit pentru plajele sale spectaculoase cu nisip alb și apă cristalină. Populația sa este predominant amazigh (berberă), iar locuitorii sunt cunoscuți pentru conservarea limbii lor natale și a tradițiilor culturale unice. Din perspectivă economică, este un port pescăresc activ și a devenit o locație cheie pentru industria locală de sare, prelucrată din lagunele de coastă. Antropologie K8 — conservarea culturilor amazigh.",
+      "factsAdvanced": [
+        "Majoritatea populației din Zuwara vorbește limba berberă locală, un dialect numit Zenati.",
+        "Se află la doar 60 de kilometri distanță de frontiera cu Tunisia.",
+        "Este renumit pentru sărbătorile colorate de Anul Nou Berber (Yennayer).",
+        "Pescuitul comercial tradițional este a doua cea mai importantă meserie locală.",
+        "Zona a fost menționată încă din secolul al XIV-lea de călătorul iberic Ibn Khaldun.",
+        "Se mândrește cu plaje neatinse și neamenajate care atrag turiști naționali."
+      ]
+    },
+    {
+      "id": "gharyan-cities-v2",
+      "descriptionAdvanced": "Gharyan, adesea descris ca Capitala Munților Nafusa, este un oraș faimos pentru olăritul său tradițional și structurile spectaculoase de locuit, satele troglodite subterane. Aceste locuințe unice au fost săpate în stâncă pentru a oferi protecție împotriva verilor toride și a iernilor friguroase. Dincolo de patrimoniul său cultural fascinant, orașul reprezintă un pivot comercial important pe autostrada care leagă capitala Tripoli de regiunea sudică a Fezzanului. Geografie K7 — arhitectura vernaculară și adaptarea climatică.",
+      "factsAdvanced": [
+        "Casele troglodite (Damus) din Gharyan au curți interioare circulare, scufundate.",
+        "Este centrul tradițional al ceramicii și olăritului din întreaga Libie.",
+        "Așezarea se ridică pe platoul Jebel Nafusa la aproape 700 de metri altitudine.",
+        "În oraș se găsește și Castelul Gharyan (Lady of Gharyan), o fostă garnizoană italiană.",
+        "Livezile din jur produc cantități impresionante de ulei de măsline și smochine.",
+        "Drumul pitoresc Abu Ghilan șerpuiește pe marginea abruptă a muntelui spre oraș."
+      ]
+    },
+    {
+      "id": "sabratha-cities-v2",
+      "descriptionAdvanced": "Sabratha, localizat pe țărmul Mediteranei, este recunoscut la nivel mondial pentru situl său arheologic remarcabil, care face parte din Patrimoniul Mondial UNESCO. Atracția centrală este teatrul roman antic, restaurat impresionant, unul dintre cele mai mari de acest fel din nordul Africii. Orașul modern a crescut alături de ruine, devenind o comunitate plină de viață axată pe comerț, servicii și educație, în timp ce turismul rămâne un potențial uriaș datorită comorilor sale antice. Istorie K8 — arhitectură romană de divertisment și situri UNESCO.",
+      "factsAdvanced": [
+        "Teatrul antic Sabratha avea o capacitate estimată la peste 5.000 de spectatori.",
+        "Orașul original a fost înființat în secolul al V-lea î.Hr. ca un port fenician comercial.",
+        "Pe lângă teatru, situl include ruinele a numeroase temple și băi publice romane.",
+        "Sabratha a fost un pilon important al celor trei mari cetăți (Tripolis) antice.",
+        "Are o fațadă maritimă deosebit de activă în pescuitul meșteșugăresc.",
+        "Situl a suferit daune minore în timpul conflictelor recente, motivând conservarea UNESCO."
+      ]
+    },
+    {
+      "id": "al-jamil-cities-v2",
+      "descriptionAdvanced": "Al Jamil este o așezare liniștită localizată în districtul Nuqat al Khams din regiunea vestică a Tripolitaniei. Orașul se distinge prin atmosfera sa rurală dominantă și comunitatea strâns legată. Viața economică din Al Jamil gravitează aproape exclusiv în jurul agriculturii, solurile argilo-nisipoase din împrejurimi fiind cultivate cu succes de generații. Deși este o localitate mai puțin cunoscută, oferă o perspectivă autentică asupra modului de viață pastoral libian, departe de tumultul marilor metropole. Geografie K7 — viața rurală nord-africană și comunități agricole.",
+      "factsAdvanced": [
+        "Este poziționat la sud de orașul litoral Zuwara.",
+        "Economia sa depinde de culturile de măslini, grâu și mici ferme de vite.",
+        "Găzduiește Institute of Technical Sciences Al Jamil.",
+        "Posedă unele dintre cele mai mari plantații de măslini sălbatice din vest.",
+        "Populația sa numără în jur de 100.000 de locuitori.",
+        "Are acces rapid la drumul principal care face legătura cu frontiera tunisiană."
+      ]
+    },
+    {
+      "id": "surman-cities-v2",
+      "descriptionAdvanced": "Surman (cunoscut și sub numele de Sorman) este o comunitate costieră și agricolă situată strategic între marile orașe Zawiya și Sabratha. Ceea ce diferențiază Surman sunt extensele sale păduri de pin de coastă și Parcul Național Surman, care oferă un refugiu natural esențial într-o regiune predominant aridă. Orașul este recunoscut pentru un climat plăcut, facilități de tineret și turism național, atrăgând familii din Tripoli și regiunile învecinate în timpul weekendurilor de vară. Biologie K7 — păduri de coastă și parcuri naționale mediteraneene.",
+      "factsAdvanced": [
+        "Parcul Național Surman cuprinde mii de pini plantați pentru a opri eroziunea eoliană.",
+        "Se află la 60 de kilometri vest de centrul capitalei Tripoli.",
+        "Beneficiază de ape subterane mai abundente decât orașele vecine din sud.",
+        "Orașul are cluburi sportive și tabere ecologice care promovează ecoturismul.",
+        "Pescuitul marin este o componentă esențială a pieței sale locale zilnice.",
+        "A suferit bombardamente aeriene notabile din partea NATO în timpul conflictului din 2011."
+      ]
+    },
+    {
+      "id": "yefren-cities-v2",
+      "descriptionAdvanced": "Yefren este un oraș spectaculos de munte și una dintre capitalele culturale și istorice ale populației amazigh (berbere) din vestul Libiei. Aşezat pe o stâncă înaltă din lanțul muntos Nafusa, domină o vale imensă și abruptă, oferind unele dintre cele mai uluitoare panorame din întreaga țară. Orașul are un bogat patrimoniu, evident în vechile sate troglodite care se agață de versanți și în sinagoga sa subterană abandonată, o mărturie a diversității antice a Libiei. Geografie K8 — topografie montană și multiculturalitate.",
+      "factsAdvanced": [
+        "Orașul este împărțit istoric în Yefrenul Vechi și orașul modern mai înalt.",
+        "Este un bastion esențial al limbii și culturii Tifinagh-amazigh din Libia.",
+        "Sinagoga istorică săpată în stâncă confirmă prezența antică evreiască din Nafusa.",
+        "Priveliștea din piața centrală permite observarea câmpiei Jefara până la Mediterană.",
+        "Plantațiile de smochini și rodii terasate decorează versanții abrupți ai văilor sale.",
+        "Localitatea are un vechi monument dedicat eliberatorilor anticolonialiști din anii 1920."
+      ]
+    },
+    {
+      "id": "nalut-cities-v2",
+      "descriptionAdvanced": "Nalut este un vechi oraș fortificat situat la extremitatea vestică a Munților Nafusa, în apropiere de granița cu Tunisia. Atracția centrală a orașului este Qasr Nalut, o fortăreață masivă cu structură colectivă pentru depozitarea grânelor (khasar/ghorfas), de o frumusețe arhitecturală copleșitoare, veche de sute de ani. Ca un important bastion de cultură amazigh, Nalut atrage cercetători și istorici fascinați de sistemul său ingenios de conservare a alimentelor în fața climatului neiertător. Istorie K7 — castele granar și arhitectură de supraviețuire.",
+      "factsAdvanced": [
+        "Qasr Nalut conține peste 400 de camere boltite individuale numite ghorfas.",
+        "Așezarea datează oficial de la începuturile răspândirii islamului (secolul VIII).",
+        "Structurile erau protejate comunal și folosite de triburile ibadite locale.",
+        "Nalut găzduiește cel mai mare festival de primăvară tradițional berber din regiune.",
+        "Muzeul local posedă fosile antice de dinozauri găsite în rocile munților Nafusa.",
+        "Clădirile fortăreței sunt făcute din straturi rezistente de stâncă ghips și noroi."
+      ]
+    },
+    {
+      "id": "murzuq-cities-v2",
+      "descriptionAdvanced": "Murzuq (sau Murzuk) este o oază străveche și un fost mare centru comercial în imensitatea regiunii Fezzan. Cunoscut pentru istoria sa de fortăreață cheie și ca hub major al rutelor de caravane trans-sahariene, Murzuq a facilitat schimburi extinse de la aur la fildeș timp de secole. Arhitectura vechiului fort otoman, care domină centrul orașului cu zidurile sale robuste de cărămidă nearsă (chirpici), reflectă puterea pe care acest nod o exercita odată asupra deșertului. Istorie K8 — rețele comerciale trans-sahariene și rute ale oazelor.",
+      "factsAdvanced": [
+        "A fost sediul Regatului Fezzan, conducând ruta sudică spre Kanem-Bornu.",
+        "Fortul istoric de mari dimensiuni este denumit Murzuq Castle și a rezistat sute de ani.",
+        "Marele explorator Heinrich Barth a plecat de aici spre Timbuktu în anii 1850.",
+        "Este faimos pentru varietatea palmierilor și producția abundentă de curmale uscate.",
+        "Găzduiește clădiri tradiționale realizate exclusiv din noroi ars și trunchiuri de palmier.",
+        "Așezarea este situată în deșertul stâncos Hamada de la nord de Marea de Nisip Idehan."
+      ]
+    },
+    {
+      "id": "awbari-cities-v2",
+      "descriptionAdvanced": "Awbari, uneori cunoscut ca Ubari, este un oraș-oază strategic, poarta de intrare către uimitoarea Mare de Nisip Idehan Ubari. Orașul este locuit istoric de populațiile nomade Tuareg și a crescut datorită resurselor de apă ascunse printre dune și turismului excepțional centrat pe lacurile de sare misterioase aflate la vest. Cu un ritm de viață dictat de soarele deșertului, Ubari oferă o imagine captivantă a culturii Tuareg din Libia și a relației lor complexe cu ariditatea sahariană. Geografie K7 — triburi nomade și medii dunare.",
+      "factsAdvanced": [
+        "Capitala districtului Wadi al Hayaa și un pilon pentru triburile Kel Ajjer Tuareg.",
+        "Lacurile cu apă extrem de sărată (cum ar fi Gaberoun) atrag mii de turiști și fotografi.",
+        "Piața sa centrală este recunoscută pentru bijuterii și artizanat tipic din argint tuareg.",
+        "Deține facilități importante de alimentare cu apă care sprijină câmpul petrolifer Sharara.",
+        "Este mărginit de masivele stâncoase roșiatice ale lanțului muntos Tadrart Acacus.",
+        "Peșterile adiacente orașului găzduiesc gravuri rupestre vechi de milenii."
+      ]
+    },
+    {
+      "id": "ghat-cities-v2",
+      "descriptionAdvanced": "Ghat este un așezământ mistic, străvechi și o perlă a Saharei de sud-vest, aflat în proximitatea frontierei algeriene. Vechea sa medină, un labirint de alei acoperite și case din lut, constituie o capodoperă a arhitecturii de deșert adaptate pentru răcoare, în timp ce festivalurile culturale aduc la viață muzica și dansul tradițional Tuareg. Situat la baza munților Tadrart Acacus, protejați de UNESCO, orașul este faimos ca punct de plecare pentru exploratorii artei rupestre neolitice. Antropologie K8 — arta rupestră și arhitectura din chirpici.",
+      "factsAdvanced": [
+        "Cetatea superioară a Ghatului a fost construită în perioada ocupației otomane tarzii.",
+        "Medina labirintică are pasaje înguste care asigură umbră aproape continuă pe timp de zi.",
+        "Tadrart Acacus, din apropiere, ascunde artă pe stâncă ce descrie viața acum 12.000 de ani.",
+        "Orașul este gazda renumitului Festival Turistic Tuareg anual de muzică și cămile.",
+        "Triburile Kel Ajjer din regiune păstrează structuri sociale tradiționale extrem de stricte.",
+        "Istoric, a fost stația principală pe ruta de caravane ce ducea direct la oaza Djanet."
+      ]
+    },
+    {
+      "id": "ghadames-cities-v2",
+      "descriptionAdvanced": "Cunoscut mondial drept Perla Deșertului, Ghadames se distinge printr-un Oraș Vechi (Medina) uluitor, parte a Patrimoniului Mondial UNESCO. Acesta a fost proiectat cu o inovație termică remarcabilă: străzile sunt complet acoperite, generând un microclimat răcoros, în timp ce nivelul superior al acoperișurilor era rezervat mișcării și socializării femeilor. Amplasat în punctul de întâlnire al granițelor dintre Libia, Tunisia și Algeria, Ghadames rămâne o minune a sustenabilității inginerești din inima Saharei. Geografie K8 — sustenabilitate pasivă și izolare termică a clădirilor.",
+      "factsAdvanced": [
+        "A fost declarată zonă de Patrimoniu Mondial de către UNESCO în 1986.",
+        "Locuințele sunt construite din argilă uscată, ghips alb, var și trunchiuri masive de palmier.",
+        "Pereții caselor antice au detalii geometrice roșii, decorative pe fundal de cretă albă.",
+        "Are o istorie îndelungată ca unul din cele mai avansate puncte de schimb la sud de Marea Mediterană.",
+        "Nivelul superior al teraselor medinei forma un oraș separat, dedicat exclusiv femeilor.",
+        "Climatul de afară poate depăși 50°C vara, dar aleile interne mențin frecvent 25-30°C."
+      ]
+    }
+  ]
+}

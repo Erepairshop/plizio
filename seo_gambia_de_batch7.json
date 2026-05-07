@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalagi-cities-v2",
+      "descriptionAdvanced": "Kalagi ist eine strategisch bedeutsame Stadt im Distrikt Foni Jarrol, die durch ihre Lage direkt an der South Bank Road eine zentrale Funktion im regionalen Verkehrsnetz einnimmt. Als lokaler Knotenpunkt ist sie Anlaufstelle für die umliegende landwirtschaftlich geprägte Bevölkerung und bietet wesentliche Handelsmöglichkeiten für die Bauern der Region. Der Ort ist ein lebendiges Beispiel für die Vernetzung ländlicher Gemeinden mit den überregionalen Handelswegen Gambias. Die Dynamik zwischen Durchgangsverkehr und lokalem Handel bestimmt den Alltag in Kalagi und macht die Stadt zu einem wichtigen Ankerpunkt für die gesamte Foni-Region. Geographie K7 — Verkehrs- und Versorgungszentren.",
+      "factsAdvanced": ["Zentrale Lage an der South Bank Road.", "Wichtiger lokaler Knotenpunkt.", "Handelsplatz für regionale Landwirte.", "Bindeglied zwischen Foni und dem restlichen Land.", "Wichtiger Ankerpunkt für den Transit.", "Förderer regionaler Wirtschaftskreisläufe.", "Strategische Bedeutung für den Foni Jarrol-Distrikt."]
+    },
+    {
+      "id": "faraba-banta-cities-v2",
+      "descriptionAdvanced": "Faraba Banta hat in den letzten Jahren durch die Errichtung des Faraba Banta Universitätscampus an Bedeutung gewonnen, wodurch die Stadt zunehmend als Bildungsstandort wahrgenommen wird. Die Region um die Stadt ist zudem durch eine florierende Cashew-Produktion geprägt, die einen wichtigen Beitrag zur lokalen Wirtschaft und zum Export leistet. Die Kombination aus Bildungsinfrastruktur und landwirtschaftlicher Produktion macht Faraba Banta zu einem interessanten Entwicklungsbeispiel in der West Coast Region. Die Stadt repräsentiert die Verbindung von modernen akademischen Ambitionen und traditioneller Agrarwirtschaft. Bildung/Wirtschaft K8 — Zukunftsfähige Entwicklung.",
+      "factsAdvanced": ["Standort der Faraba Banta Universität.", "Bedeutendes Zentrum für Cashew-Produktion.", "Wachsender Bildungsstandort.", "Verbindung von Agrarwirtschaft und Bildung.", "Wichtige Entwicklungsperspektiven in der Region.", "Moderne Infrastrukturbestrebungen.", "Starke landwirtschaftliche Basis."]
+    },
+    {
+      "id": "yundum-cities-v2",
+      "descriptionAdvanced": "Yundum ist als Standort des Banjul International Airport das erste Tor zur Welt für die meisten Reisenden, die Gambia besuchen. Der Flughafen verbindet Gambia mit internationalen Zielen und bildet die logistische Basis für den Tourismus und den globalen Handel. Neben der Flughafen-Infrastruktur beherbergt Yundum auch den Campus des Gambia College, was den Ort zu einem Zentrum für Ausbildung macht. Die Kombination aus internationalem Luftverkehr und lokaler akademischer Präsenz verleiht Yundum eine einzigartige Rolle in der nationalen Infrastruktur. Wirtschaft K8 — Logistik und internationale Anbindung.",
+      "factsAdvanced": ["Standort des Banjul International Airport.", "Heimat des Gambia College.", "Tor zur Welt für Reisende.", "Zentraler Knotenpunkt für Tourismuslogistik.", "Bedeutende Bildungs- und Ausbildungsinfrastruktur.", "Logistisches Rückgrat für den internationalen Austausch.", "Wichtiger Arbeitgeber für die Region."]
+    },
+    {
+      "id": "kotu-cities-v2",
+      "descriptionAdvanced": "Kotu ist eines der bekanntesten Touristenzentren Gambias und zeichnet sich durch die Nähe zum Kotu Stream aus, einem Paradies für Vogelbeobachter. Der Ort bietet eine hochwertige touristische Infrastruktur mit vielen strandnahen Hotels, die den Bedürfnissen internationaler Besucher entsprechen. Der Kotu Stream selbst bildet ein natürliches Ökosystem, das einen faszinierenden Kontrast zur touristischen Erschließung darstellt und gleichzeitig einen wichtigen Wert für das Naturbewusstsein bietet. Kotu ist somit ein Musterbeispiel für die Integration von Freizeittourismus und natürlicher Flora in Gambia. Biologie K6 — Ökologischer Tourismus.",
+      "factsAdvanced": ["Bekanntes Zentrum für Strandtourismus.", "Bedeutendes Gebiet für Vogelbeobachtung.", "Hochwertige Hotel-Infrastruktur am Meer.", "Zentrum für naturbezogene Freizeitaktivitäten.", "Erfolgreiche Integration von Tourismus und Natur.", "Beliebtes Ziel für internationale Gäste.", "Ökologisch wertvoller Kotu Stream in der Nähe."]
+    },
+    {
+      "id": "manjai-kunda-cities-v2",
+      "descriptionAdvanced": "Manjai Kunda ist ein dynamisches Wohnviertel in der Kanifing Municipality, das aufgrund seiner Nähe zu den touristischen Hauptattraktionen des Landes zunehmend an Attraktivität gewinnt. Viele junge Fachkräfte finden hier ein Zuhause, was dem Viertel einen modernen und aufstrebenden Charakter verleiht. Die unmittelbare Nachbarschaft zum Senegambia Strip macht Manjai Kunda zu einem bevorzugten Wohnort für alle, die eine gute Anbindung an die lebhaften Teile der Metropolregion suchen. Die Stadt ist ein Spiegelbild der urbanen Mobilität und des sozialen Wandels im modernen Gambia. Sozialkunde K7 — Urbane Wohnraumdynamik.",
+      "factsAdvanced": ["Wachsende Beliebtheit bei jungen Fachkräften.", "Nähe zu den Hauptattraktionen des Tourismus.", "Modernes und aufstrebendes Wohnviertel.", "Gute Anbindung an den Senegambia Strip.", "Dynamische städtische Nachbarschaft.", "Symbol für modernen urbanen Lebensstil.", "Zentral gelegen in der Kanifing Municipality."]
+    }
+  ]
+}

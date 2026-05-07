@@ -33,16 +33,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       ]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Harare is the vibrant capital of Zimbabwe and a major economic hub in Southern Africa. Founded in 1890 as Fort Salisbury, the city has grown into a modern metropolis with over 1.5 million residents. Harare serves as the political heart and educational center, with the Harare Institute of Technology and the University of Zimbabwe being key institutions. Geography K7 — urban spaces and economic hubs."
+      de: "Harare ist die pulsierende Hauptstadt von Simbabwe und ein bedeutendes Wirtschaftszentrum im südlichen Afrika. Gegründet im Jahr 1890 als Fort Salisbury, hat sich die Stadt zu einer modernen Metropole mit über 1,5 Millionen Einwohnern entwickelt. Harare dient als politisches Herz und Bildungszentrum des Landes, wobei Einrichtungen wie das Harare Institute of Technology eine wichtige Rolle spielen. Erdkunde K7 – urbane Räume und wirtschaftliche Knotenpunkte.",
+      hu: "Harare Simbabwe fővárosa, az ország politikai és gazdasági központja, amely közel 1500 méteres tengerszint feletti magasságban terül el. A várost 1890-ben alapították Fort Salisbury néven a brit gyarmatosítók, mára pedig egy modern, több mint 1,5 millió lakosú metropolisz. Földrajz K7 – urbánus környezet és regionális gazdasági gócpontok.",
+      ro: "Harare este capitala și cel mai mare oraș din Zimbabwe, servind drept centru politic, financiar și cultural al națiunii. Fondat în 1890 sub numele de Fort Salisbury, orașul s-a dezvoltat rapid datorită locației sale pe platoul înalt, care oferă un climat moderat. Astăzi, Harare este cunoscut pentru bulevardele sale largi, arborii de jacaranda și amestecul de arhitectură colonială și zgârie-nori moderni. Educația este un pilon principal, găzduind Universitatea din Zimbabwe. Geografie K7 – dezvoltare urbană și zone climatice.",
+      en: "Harare, the capital and largest city of Zimbabwe, serves as the nation's political, financial, and cultural hub. Established in 1890 as Fort Salisbury, it grew rapidly due to its location on the highveld, which offers a moderate climate. Today, the city is known for its wide avenues, blossoming jacaranda trees, and a mix of colonial architecture and modern skyscrapers. Education is a primary pillar, with the University of Zimbabwe and numerous research institutions located here. Geography K7 — urban development and climate zones."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: ["Harare is situated at an altitude of approximately 1490 meters.", "The city was founded in 1890 by the Pioneer Column.", "The climate is a subtropical highland climate.", "The National Botanic Garden in Harare hosts thousands of plant species.", "Harare hosts the country's largest market, Mbare Musika.", "Robert Gabriel Mugabe International Airport is the aviation hub."]
+      de: ["Harare liegt auf einer Höhe von etwa 1490 Metern.", "Die Stadt wurde 1890 von der Pioneer Column gegründet.", "Das Klima ist ein subtropisches Hochlandklima.", "Der National Botanic Garden in Harare beherbergt Tausende Pflanzenarten.", "Harare beherbergt mit dem Mbare Musika den größten Markt des Landes.", "Der Robert Gabriel Mugabe International Airport ist das wichtigste Luftverkehrsdrehkreuz."],
+      hu: ["Harare 1490 méteres magasságban fekszik.", "A várost 1890-ben alapította a Pioneer Column.", "A város klímája szubtrópusi magasföldi.", "Itt található Zimbabwe legnagyobb piaca, a Mbare Musika.", "A Nemzeti Botanikus Kert több ezer növényfajnak ad otthont.", "Robert Gabriel Mugabe Nemzetközi Repülőtér a fő légi közlekedési csomópont."],
+      ro: ["Fondat: 1890 ca Fort Salisbury.", "Altitudine: Aproximativ 1.483 metri.", "Populație: Peste 2 milioane de locuitori în zona metropolitană.", "Punct de reper: Monumentul National Heroes Acre.", "Climat: Climat subtropical de podiș.", "Guvernanță: Sediul Parlamentului din Zimbabwe."],
+      en: ["Founded: 1890 as Fort Salisbury.", "Elevation: Approximately 1,483 meters.", "Population: Over 2 million in the metropolitan area.", "Key landmark: National Heroes Acre monument.", "Climate: Subtropical highland climate.", "Governance: Seat of the Zimbabwean Parliament."]
     }, image: "/poi-images/harare-cities-v2.webp"},
   {
     id: "bulawayo-cities-v2",
@@ -75,16 +75,16 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       ]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: "Bulawayo is the second largest city in Zimbabwe and known as the 'City of Kings'. With its rich history as the former capital of the Ndebele Kingdom under Lobengula, it maintains a unique cultural identity in the southwest of the country. The wide streets, originally designed for ox wagons, define the city's architectural character. Geography K7 — historical centers and infrastructural legacies."
+      de: "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt als die 'Stadt der Könige'. Mit ihrer reichen Geschichte als ehemalige Hauptstadt des Ndebele-Königreichs unter Lobengula bewahrt sie eine einzigartige kulturelle Identität im Südwesten des Landes. Die breiten Straßen, die ursprünglich für Ochsenkarren ausgelegt waren, prägen den architektonischen Charakter der Stadt. Erdkunde K7 – historische Zentren und infrastrukturelle Erben.",
+      hu: "Bulawayo, Zimbabwe második legnagyobb városa, amelyet gyakran a 'királyok városaként' emlegetnek a Ndebele Királyság történelmi öröksége miatt. Az ország délnyugati részén fekvő település széles útjairól és jól megőrzött gyarmati építészetéről ismert. Földrajz K7 – történelmi városközpontok és közlekedési örökség.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: "Bulawayo, Zimbabwe's second-largest city, is often called the 'City of Kings' due to its proximity to the ancient Khami Ruins and its history as the capital of the Ndebele Kingdom under Lobengula. Unlike Harare, Bulawayo has a more industrial heritage, historically centered around manufacturing and rail transport. The city features spacious streets designed to accommodate ox-wagons and serves as a major gateway to the Matobo National Park. Geography K7 — trade routes and industrial history."
     },
     factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: ["Bulawayo was founded in the 19th century by King Lobengula.", "The city is located about 440 km southwest of Harare.", "The Natural History Museum in Bulawayo is one of the largest in Africa.", "Bulawayo was a hub for the regional railway network.", "Khami Ruins, a UNESCO World Heritage site, are located nearby.", "The city is renowned for its well-preserved colonial architecture."]
+      de: ["Bulawayo wurde im 19. Jahrhundert von König Lobengula gegründet.", "Die Stadt liegt etwa 440 km südwestlich von Harare.", "Das Natural History Museum in Bulawayo ist eines der größten in Afrika.", "Bulawayo war ein Knotenpunkt für das regionale Eisenbahnnetz.", "Die Khami-Ruinen, ein UNESCO-Welterbe, befinden sich in der Nähe.", "Die Stadt ist bekannt für ihre gut erhaltene Kolonialarchitektur."],
+      hu: ["A várost a 19. században alapította Lobengula király.", "Harare-től mintegy 440 km-re délnyugatra helyezkedik el.", "A Természettudományi Múzeum Afrika egyik legnagyobbja.", "Fontos vasúti csomópont volt a régióban.", "A közelben találhatók a Khami-romok, világörökségi helyszín.", "A város a gyarmati korból megőrzött épületeiről nevezetes."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: ["Known as: The City of Kings.", "Heritage: Former capital of the Ndebele Kingdom.", "Key sites: Near Matobo National Park and Khami Ruins.", "Economy: Rail network and manufacturing hub.", "Atmosphere: Known for its wide, grid-patterned streets.", "Location: Southwestern Zimbabwe."]
     }, image: "/poi-images/bulawayo-cities-v2.webp"},
   {
     id: "chitungwiza-cities-v2",
@@ -115,7 +115,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chitungwiza contributes to the cultural and economic life of Zimbabwe.",
       "The region around Chitungwiza is characterized by its diversity."
       ]
-    }, image: "/poi-images/chitungwiza-cities-v2.webp"},
+    }, image: "/poi-images/chitungwiza-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chitungwiza ist eine schnell wachsende Satellitenstadt südlich von Harare mit einer Bevölkerung von über 350.000 Menschen. Sie entstand in den 1970er Jahren und entwickelte sich zu einem bedeutenden Wohngebiet für Pendler, die in der Hauptstadt arbeiten. Die Stadt ist bekannt für ihre lebendige Gemeinschaft und eine wachsende lokale Wirtschaft. Erdkunde K7 – Stadtentwicklung und demografischer Wandel.",
+      hu: "Chitungwiza egy gyorsan növekvő nagyvárosi agglomeráció Harare közvetlen szomszédságában, amely az 1970-es években jött létre. A város mára több százezer ingázónak ad otthont, akik a főváros gazdasági életében vesznek részt. Földrajz K7 – urbanizáció és demográfiai változások.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: "Chitungwiza is a large dormitory town located about 30 kilometers south of Harare. It emerged rapidly in the 1970s, absorbing the urban growth that Harare could not accommodate. It is a densely populated area that primarily serves as a residential center for workers commuting to the capital. While it is primarily residential, Chitungwiza has its own distinct market life and cultural activity. Geography K6 — demographic expansion and suburbanization."
+    },
+    factsAdvanced: {
+      de: ["Chitungwiza wurde in den 1970er Jahren offiziell gegründet.", "Die Stadt liegt etwa 30 km südlich von Harare.", "Sie ist ein wichtiges Wohnzentrum für die Metropolregion Harare.", "Das lokale Handwerk und die Musikszene sind bedeutende kulturelle Elemente.", "Die Stadt verfügt über zahlreiche Märkte, wie den Unit L Market.", "Chitungwiza ist eine der am schnellsten wachsenden städtischen Gebiete in Simbabwe."],
+      hu: ["Hivatalosan az 1970-es években alapították.", "Harare-től kb. 30 km-re délre fekszik.", "Fontos lakóhely az agglomerációban élők számára.", "Élénk helyi zenei és kulturális élettel bír.", "Számos helyi piac működik a városban.", "Zimbabwe egyik leggyorsabban fejlődő települése."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: ["Origin: Developed in the 1970s as a high-density suburb.", "Distance: 30 km from Harare.", "Function: Primarily a commuter dormitory town.", "Growth: Rapid expansion due to rural-to-urban migration.", "Character: Known for vibrant local street markets.", "Governance: Independent local authority status."]
+    }
+  },
   {
     id: "mutare-cities-v2",
     type: "state-capital",
@@ -145,7 +158,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mutare contributes to the cultural and economic life of Zimbabwe.",
       "The region around Mutare is characterized by its diversity."
       ]
-    }, image: "/poi-images/mutare-cities-v2.webp"},
+    }, image: "/poi-images/mutare-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mutare ist die viertgrößte Stadt Simbabwes und liegt malerisch inmitten der Eastern Highlands nahe der Grenze zu Mosambik. Als wichtiger Handelsknotenpunkt profitiert die Stadt von ihrer günstigen Lage an der Route zum Hafen von Beira. Die umliegende Berglandschaft bietet atemberaubende Ausblicke und zahlreiche Möglichkeiten für Naturbeobachtungen. Erdkunde K7 – Transitrouten und Gebirgsregionen.",
+      hu: "Mutare Zimbabwe negyedik legnagyobb városa, amely festői környezetben, a Keleti-felföldön (Eastern Highlands) fekszik, közel a mozambiki határhoz. A város kulcsfontosságú kereskedelmi csomópont, mivel stratégiai helyet foglal el a beirai kikötőbe vezető útvonalon. Földrajz K7 – tranzitútvonalak és hegyvidéki régiók.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: "Mutare, located in the eastern highlands, is a scenic city nestled among mountains near the border with Mozambique. It is often referred to as the gateway to the Eastern Highlands, known for its lush vegetation and proximity to tourist destinations like Vumba and Nyanga. The city plays a vital role in trade between Zimbabwe and the Mozambican port of Beira. Its mild climate and mountainous setting make it one of the most picturesque cities in the country. History K8 — trans-border trade."
+    },
+    factsAdvanced: {
+      de: ["Mutare wurde 1897 gegründet.", "Die Stadt liegt in den Eastern Highlands nahe der Grenze zu Mosambik.", "Sie ist ein wichtiges Zentrum für den Export von Agrarprodukten.", "Die Stadt dient als Tor zum Bvumba-Gebirge.", "Mutare hat ein mildes, subtropisches Klima.", "Die Stadt ist ein bedeutender Bildungsstandort in der Region."],
+      hu: ["Mutare-t 1897-ben alapították.", "A Keleti-felföldön helyezkedik el, Mozambik közelében.", "Jelentős mezőgazdasági termékexport központ.", "Kapu a Bvumba-hegység irányába.", "Klímatája enyhe, szubtrópusi jellegű.", "A régió egyik legfontosabb oktatási központja."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: ["Setting: Surrounded by mountain ranges.", "Trade role: Critical link for Zimbabwe-Mozambique commerce.", "Elevation: Varying, generally around 1,100 meters.", "Proximity: Close to the Vumba and Nyanga mountain resorts.", "Industry: Timber, tea, and coffee agriculture.", "Geography: Gateway to the Eastern Highlands."]
+    }
+  },
   {
     id: "gweru-cities-v2",
     type: "state-capital",
@@ -175,7 +201,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Gweru contributes to the cultural and economic life of Zimbabwe.",
       "The region around Gweru is characterized by its diversity."
       ]
-    }, image: "/poi-images/gweru-cities-v2.webp"},
+    }, image: "/poi-images/gweru-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gweru ist eine zentrale Industriestadt in Simbabwe und liegt strategisch günstig in der Provinz Midlands. Mit einer gut entwickelten Infrastruktur fungiert Gweru als wichtiges logistisches Drehkreuz für den nationalen Eisenbahn- und Straßenverkehr. Die Stadt ist zudem ein bedeutender Standort für die Metallverarbeitung und die Milchwirtschaft. Erdkunde K7 – industrielle Kerne und Infrastruktur.",
+      hu: "Gweru az ország középső részén elhelyezkedő fontos ipari és oktatási központ, amelyet 1894-ben alapítottak. A város stratégiai jelentőségét a vasúti csomópontként betöltött szerepe adja, emellett a bányászati és mezőgazdasági régiók kiszolgálója. Földrajz K7 – ipari csomópontok és közlekedési hálózatok.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gweru wurde 1894 gegründet.", "Die Stadt liegt im Herzen der Provinz Midlands.", "Gweru ist ein bedeutender Standort für das simbabwische Militär.", "Das Midlands State University hat ihren Hauptsitz in Gweru.", "Die Stadt ist ein Zentrum für die metallverarbeitende Industrie.", "Die Landwirtschaft in der Umgebung ist stark auf die Milchproduktion ausgerichtet."],
+      hu: ["Gweru-t 1894-ben alapították.", "Zimbabwe központi részén található.", "Jelentős vasúti csomópont az országos hálózatban.", "A közeli bányászati régiók szolgáltatóközpontja.", "A Midlands Állami Egyetemnek ad otthont.", "A város környéke ismert állattenyésztéséről."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: []
+    }
+  },
   {
     id: "kwekwe-cities-v2",
     type: "city",
@@ -205,7 +244,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Kwekwe contributes to the cultural and economic life of Zimbabwe.",
       "The region around Kwekwe is characterized by its diversity."
       ]
-    }, image: "/poi-images/kwekwe-cities-v2.webp"},
+    }, image: "/poi-images/kwekwe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kwekwe ist eine wichtige Bergbaustadt in der Provinz Midlands, die vor allem für ihre bedeutende Goldproduktion bekannt ist. Die Stadt entwickelte sich durch den Goldrausch und den Abbau von Erzen zu einem industriellen Schwergewicht der Region. Auch heute prägen der Bergbau und die Stahlproduktion maßgeblich das wirtschaftliche Gesicht von Kwekwe. Erdkunde K7 – Rohstoffabbau und wirtschaftliche Entwicklung.",
+      hu: "Kwekwe egy kulcsfontosságú bányászváros a Midlands tartományban, amely elsősorban gazdag aranybányászatáról vált híressé a történelem során. A település a bányászati fellendülésnek köszönhetően alakult ki, és mára az ország ipari súlypontjának számít, ahol a fémfeldolgozás és acéltermelés határozza meg a mindennapokat. Földrajz K7 – nyersanyagkitermelés és ipari fejlődés.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Kwekwe wurde 1902 gegründet.", "Die Goldmine Globe and Phoenix war einst eine der größten der Welt.", "Kwekwe ist eng mit der Stahlindustrie von Simbabwe verbunden.", "Das National Mining Museum von Simbabwe befindet sich in der Stadt.", "Die Stadt liegt etwa auf halber Strecke zwischen Harare und Bulawayo.", "Die städtische Wirtschaft profitiert stark vom Metall- und Bergbausektor."],
+      hu: ["A város a jelentős aranybányászatáról híres.", "Kwekwe az ország ipari központjainak egyike.", "A gazdaságot a bányászat és az acélgyártás uralja.", "A 20. században jelentős ipari fejlődésen ment keresztül.", "Fontos szerepet játszik Zimbabwe kohászati iparában.", "A környéken több kisebb és nagyobb bánya is működik."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: []
+    }
+  },
   {
     id: "kadoma-cities-v2",
     type: "city",
@@ -235,7 +287,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Kadoma contributes to the cultural and economic life of Zimbabwe.",
       "The region around Kadoma is characterized by its diversity."
       ]
-    }, image: "/poi-images/kadoma-cities-v2.webp"},
+    }, image: "/poi-images/kadoma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kadoma ist eine Stadt in der Provinz Mashonaland West, die historisch eng mit dem Goldabbau und der Baumwollverarbeitung verbunden ist. Einst ein wohlhabendes Zentrum der Landwirtschaft, hat sich die Stadt zu einem wichtigen Verarbeitungsstandort für landwirtschaftliche Erzeugnisse entwickelt. Die Umgebung ist durch ausgedehnte landwirtschaftliche Flächen geprägt. Erdkunde K7 – Agrarwirtschaft und industrielle Verarbeitung.",
+      hu: "Kadoma egy fejlődő bányászati és mezőgazdasági központ Zimbabwe középső részén, amely a 20. század elején alakult ki a bányászat körül. A várost körülvevő régióban intenzív mezőgazdasági tevékenység folyik, különösen a pamuttermesztés terén, ami a helyi feldolgozóipar alapját képezi. Földrajz K7 – mezőgazdasági feldolgozóipar és bányászat.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Kadoma wurde 1902 gegründet.", "Die Stadt war früher als Gatooma bekannt.", "Sie ist ein bedeutendes Zentrum für die Textil- und Baumwollindustrie.", "Der Goldabbau spielt auch heute noch eine wirtschaftliche Rolle.", "Kadoma liegt in einer fruchtbaren landwirtschaftlichen Region.", "Die Stadt hat eine lange Geschichte in der industriellen Fertigung."],
+      hu: ["A 20. század elején alapították bányászati településként.", "Zimbabwe középső részén helyezkedik el.", "Jelentős szerepet tölt be a helyi pamutfeldolgozásban.", "A város környéke a mezőgazdasági termeléséről ismert.", "A környéken több aranybánya is található.", "Kadoma oktatási és kereskedelmi központ a körzetben."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: []
+    }
+  },
   {
     id: "masvingo-cities-v2",
     type: "state-capital",
@@ -265,7 +330,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Masvingo contributes to the cultural and economic life of Zimbabwe.",
       "The region around Masvingo is characterized by its diversity."
       ]
-    }, image: "/poi-images/masvingo-cities-v2.webp"},
+    }, image: "/poi-images/masvingo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Masvingo ist die älteste Stadt Simbabwes und ein wichtiges Tor zu den berühmten Great Zimbabwe Ruinen, einem UNESCO-Weltkulturerbe. Die Stadt dient als Ausgangspunkt für Touristen, die die historischen Überreste des mittelalterlichen Groß-Simbabwe erkunden wollen. Die lokale Wirtschaft ist stark von Tourismus und der angrenzenden Landwirtschaft geprägt. Erdkunde K7 – historisches Kulturerbe und Tourismus.",
+      hu: "",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Masvingo wurde 1890 gegründet.", "Es ist die älteste koloniale Siedlung in Simbabwe.", "Die Great Zimbabwe Ruinen befinden sich nur 30 km entfernt.", "Masvingo ist ein wichtiger Ausgangspunkt für den Tourismussektor.", "Der Lake Mutirikwi ist einer der größten Stauseen des Landes.", "Die Region Masvingo ist ein Zentrum für den Ackerbau."],
+      hu: [],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: []
+    }
+  },
   {
     id: "chinhoyi-cities-v2",
     type: "state-capital",
@@ -295,7 +373,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chinhoyi contributes to the cultural and economic life of Zimbabwe.",
       "The region around Chinhoyi is characterized by its diversity."
       ]
-    }, image: "/poi-images/chinhoyi-cities-v2.webp"},
+    }, image: "/poi-images/chinhoyi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chinhoyi ist das Verwaltungszentrum der Provinz Mashonaland West und liegt strategisch an einer der wichtigsten Verkehrsverbindungen in Richtung Sambia. Die Stadt ist weltbekannt für die Chinhoyi-Höhlen, ein faszinierendes Karstsystem mit einem tiefblauen Unterwassersee. Diese Naturattraktion zieht zahlreiche Touristen und Forscher an. Erdkunde K7 – geologische Phänomene und Tourismus.",
+      hu: "Chinhoyi Mashonaland West tartomány közigazgatási központja, amely stratégiai jelentőséggel bír a Zambia felé vezető útvonalon. A város világszerte ismert a közeli Chinhoyi-barlangokról, egy látványos karsztképződményről, amelynek mély, intenzív kék színű víz alatti tava turisták ezreit vonzza évente. Földrajz K7 – geológiai jelenségek és turisztikai központok.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Chinhoyi wurde ursprünglich als Sinoia gegründet.", "Die Chinhoyi-Höhlen sind ein nationales Denkmal.", "Die Stadt ist das administrative Zentrum der Provinz Mashonaland West.", "Der Unterwassersee in den Höhlen ist für seine intensive blaue Farbe bekannt.", "Chinhoyi liegt an der wichtigen A1-Fernstraße Richtung Sambia.", "Das umliegende Gebiet ist durch intensive Landwirtschaft geprägt."],
+      hu: ["A várost eredetileg Sinoia néven alapították.", "A Chinhoyi-barlangok nemzeti emlékhelynek számítanak.", "A város Mashonaland West tartomány adminisztratív központja.", "A barlangban lévő tó az intenzív kék színéről nevezetes.", "A Zambia felé vezető A1-es főút mentén fekszik.", "A környező régióban intenzív mezőgazdasági tevékenység folyik."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: []
+    }
+  },
   {
     id: "norton-cities-v2",
     type: "city",
@@ -325,7 +416,20 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Norton contributes to the cultural and economic life of Zimbabwe.",
       "The region around Norton is characterized by its diversity."
       ]
-    }, image: "/poi-images/norton-cities-v2.webp"},
+    }, image: "/poi-images/norton-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Norton ist eine aufstrebende Stadt westlich von Harare, die sich durch ihre industrielle Vielfalt und als Wohnstandort für Pendler etabliert hat. Die Nähe zur Hauptstadt ermöglicht eine enge wirtschaftliche Verflechtung, während die Stadt selbst durch eine wachsende lokale Produktion geprägt ist. Die Umgebung ist zudem ein bedeutendes landwirtschaftliches Anbaugebiet. Erdkunde K7 – industrielle Randgebiete und urbane Verflechtung.",
+      hu: "Norton egy dinamikusan fejlődő város Harare közelében, amely a főváros nagyvárosi övezetének kiterjesztéseként funkcionál. A település jelentős ipari és lakóhelyi kapacitással rendelkezik, kihasználva a közeli főváros nyújtotta gazdasági lehetőségeket. Földrajz K7 – agglomerációs övezetek és ipari fejlődés.",
+      ro: "Bulawayo, al doilea oraș ca mărime din Zimbabwe, este adesea numit „Orașul Regilor” datorită proximității față de Ruinele Khami și a istoriei sale ca reședință a Regatului Ndebele sub Lobengula. Spre deosebire de Harare, Bulawayo are o moștenire mai industrială, fiind centrat istoric pe producție și transport feroviar. Orașul se remarcă prin străzile largi, concepute inițial pentru care trase de boi, și servește drept poartă principală către Parcul Național Matobo. Geografie K7 — rute comerciale și istorie industrială.",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Norton wurde als landwirtschaftliche Siedlung gegründet.", "Die Stadt liegt etwa 40 km westlich von Harare.", "Sie beherbergt zahlreiche Industriebetriebe, darunter Papier- und Kunststofffabriken.", "Norton ist ein wichtiger Wohnort für Beschäftigte im Großraum Harare.", "Die städtische Infrastruktur hat sich in den letzten Jahren rasant entwickelt.", "Die Agrarwirtschaft ist weiterhin ein wichtiger Faktor für die lokale Beschäftigung."],
+      hu: ["Harare nagyvárosi övezetének része.", "A fővároshoz való közelsége miatt fontos lakóközpont.", "Jelentős ipari kapacitással rendelkezik a térségben.", "A mezőgazdasági területekkel körülvett város tovább terjeszkedik.", "Közlekedési szempontból kedvező fekvésű Harare irányába.", "Sokan a fővárosban dolgozó ingázók közül itt élnek."],
+      ro: ["Cunoscut ca: Orașul Regilor.", "Patrimoniu: Fosta capitală a Regatului Ndebele.", "Obiective cheie: Apropierea de Parcul Național Matobo și Ruinele Khami.", "Economie: Nod feroviar și centru de producție.", "Atmosferă: Cunoscut pentru străzile sale largi în formă de grilă.", "Locație: Sud-vestul Zimbabwe."],
+      en: []
+    }
+  },
   {
     id: "marondera-cities-v2",
     type: "state-capital",

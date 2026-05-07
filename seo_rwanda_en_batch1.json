@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraRwandaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraRwandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLifeV2.ts",
+    "lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rwanda-karongi-cities-v2",
+      "descriptionAdvanced": "Karongi, formerly known as Kibuye, is one of the most enchanting lakeside towns in Rwanda, situated on the eastern shores of Lake Kivu. The town is characterized by its steep, emerald-green hills that plunge into the deep blue waters, creating numerous secluded bays and forested peninsulas. It serves as a premier resort destination, offering visitors spectacular sunsets and boat excursions to unique islands like Napoleon Island, famous for its massive colony of fruit bats, and Amahoro Island. Karongi is also home to the Museum of Environment, which highlights Rwanda's commitment to sustainable energy and biodiversity. The surrounding highland areas are renowned for producing high-quality Arabica coffee and tea, benefitting from the lake's temperate microclimate. Geography K7 — lake systems and landforms.",
+      "factsAdvanced": [
+        "Situated at an altitude of approximately 1,460 meters.",
+        "Home to the only Museum of Environment in Rwanda.",
+        "Known for the historic 'Napoleon Island' fruit bat colony.",
+        "A major station along the 227km Congo Nile Trail.",
+        "Serves as the administrative capital of the Western Province.",
+        "Famous for its high-altitude coffee washing stations.",
+        "Features a distinctive coastline with numerous deep bays.",
+        "The town was a focal point for historic regional trade."
+      ]
+    },
+    {
+      "id": "rwanda-nyanza-cities-v2",
+      "descriptionAdvanced": "Nyanza is the cultural and historical heartbeat of Rwanda, having served as the royal capital of the Kingdom of Rwanda during the late 19th and early 20th centuries. The town's primary attraction is the King's Palace Museum at Rukari, a faithful reconstruction of the traditional beehive-shaped royal residence made entirely of natural materials. Visitors can observe the sacred Inyambo cattle, recognized by their enormous, elegant horns and historical role in royal ceremonies. Additionally, the Rwesero Art Museum, located on a nearby hill in a palace originally built for King Mutara III Rudahigwa, showcases contemporary Rwandan artistic expression. Nyanza remains a symbol of Rwandan heritage, preserving the sophisticated social structures and traditions of the pre-colonial era. History K6 — pre-colonial monarchy and traditions.",
+      "factsAdvanced": [
+        "Former seat of the Rwandan monarchy (the Mwami).",
+        "Home to the reconstructed Rukari Royal Palace.",
+        "Displays the sacred Inyambo cattle with giant horns.",
+        "Location of the Rwesero Art Museum (former royal palace).",
+        "Significant center for the preservation of Intore dancing.",
+        "Burial site of the last ruling kings of Rwanda.",
+        "Situated roughly 100 kilometers south of Kigali.",
+        "Administrative center of the Nyanza District."
+      ]
+    },
+    {
+      "id": "rwanda-ngoma-cities-v2",
+      "descriptionAdvanced": "Ngoma, often referred to by its former name Kibungo, is a vibrant town in Rwanda's Eastern Province, acting as a gateway to the southeastern savannas. The region is characterized by lower plateaus and a chain of small, scenic lakes including Lake Mugesera and Lake Sake, which support local fishing and diverse birdlife. Ngoma is a major agricultural hub, particularly famous for its massive production of bananas, which are used for both food and the traditional brewing of 'Urwagwa' banana beer. The town also hosts a campus of the University of Rwanda, adding a youthful and academic atmosphere to the community. Its strategic location on the road to the Rusumo border post makes it an essential transit point for international trade with Tanzania. Geography K7 — agricultural regions and plateau lakes.",
+      "factsAdvanced": [
+        "Centrally located in the Ngoma District of the Eastern Province.",
+        "Major center for Rwanda's commercial banana production.",
+        "Proximity to the scenic plateau lakes Sake and Mugesera.",
+        "Hosts the University of Rwanda – Ngoma Campus.",
+        "Strategic stop on the central corridor route to Tanzania.",
+        "Average altitude is approximately 1,500 meters.",
+        "Renowned for traditional pottery and handcrafts.",
+        "The climate is warmer and drier than the western highlands."
+      ]
+    },
+    {
+      "id": "rwanda-nyagatare-cities-v2",
+      "descriptionAdvanced": "Nyagatare is the largest urban center in northeastern Rwanda and a key economic driver for the Eastern Province. The region's landscape differs significantly from the rest of the country, featuring vast, flat savannas and rolling grasslands that historically formed part of the Akagera ecosystem. Today, Nyagatare is known as Rwanda's 'milk basin,' characterized by large-scale cattle ranching and modern dairy farms that supply the majority of the nation's milk and beef. The town has seen rapid population growth since 1994, largely due to returning citizens who established modern agricultural enterprises. It also hosts the University of Nyagatare, specializing in agricultural sciences and veterinary medicine. Its proximity to the Ugandan border at Kagitumba facilitates cross-border commerce and regional integration. Geography K7 — savanna landscapes and livestock farming.",
+      "factsAdvanced": [
+        "Largest district in Rwanda by land area.",
+        "The primary center for Rwanda's modern dairy industry.",
+        "Hosts a specialized campus of the University of Rwanda.",
+        "Located near the Kagitumba border crossing with Uganda.",
+        "The climate is the hottest and driest in the country.",
+        "Historically bordered the northern sector of Akagera Park.",
+        "Altitude ranges between 1,280 and 1,530 meters.",
+        "Major producer of maize, beans, and rice in the valley."
+      ]
+    },
+    {
+      "id": "rwanda-kayonza-cities-v2",
+      "descriptionAdvanced": "Kayonza is a critical transport and logistics hub in eastern Rwanda, situated at the strategic junction where the main highway from Kigali splits toward Uganda in the north and Tanzania in the south. The town is most famous to international visitors as the primary gateway to Akagera National Park, Rwanda's only Big Five safari destination. This geographic advantage has led to a thriving service sector, with numerous hotels, restaurants, and truck stops catering to travelers and traders. The surrounding district is a major producer of grain, specifically maize and beans, and features innovative irrigation projects near Lake Muhazi. Kayonza embodies Rwanda's role as a land-linked connector in the East African Community, bustling with the activity of cross-border freight and tourism. Geography K7 — transport networks and safari gateways.",
+      "factsAdvanced": [
+        "Major road junction for routes to Tanzania and Uganda.",
+        "Official entry point to Akagera National Park.",
+        "Regional center for maize and soybean processing.",
+        "Located near the southern shores of Lake Muhazi.",
+        "A bustling hub for regional inter-city bus transport.",
+        "Home to significant irrigation and terracing projects.",
+        "Altitude is approximately 1,520 meters above sea level.",
+        "Serves as the administrative seat of Kayonza District."
+      ]
+    },
+    {
+      "id": "rwanda-nyamata-cities-v2",
+      "descriptionAdvanced": "Nyamata, located in the Bugesera District south of Kigali, is a town defined by both its poignant history and its rapid modern transformation. Historically, the Bugesera region was a site of forced settlement and tragic events during the 1994 genocide, and the Nyamata Genocide Memorial—located in a former church—stands as a solemn reminder of this past. Today, Nyamata is evolving into a key 'satellite city' for the capital. The construction of the massive new Bugesera International Airport nearby is turning the area into a major logistics and industrial hub. The landscape is unique for its chain of small lakes and relatively flat terrain, supporting intensive cassava cultivation. Nyamata represents the resilience of Rwanda, transitioning from a troubled history to a future of high-tech infrastructure and urban growth. History K8 — remembrance and modern development.",
+      "factsAdvanced": [
+        "Administrative capital of the Bugesera District.",
+        "Site of the Nyamata Genocide Memorial, a former church.",
+        "Location of the new Bugesera International Airport project.",
+        "Characterized by a landscape of multiple small lakes.",
+        "Connected to Kigali by a modern, high-speed highway.",
+        "Major regional producer of cassava and sorghum.",
+        "Altitude of approximately 1,480 meters.",
+        "Experiencing a massive real estate and industrial boom."
+      ]
+    },
+    {
+      "id": "rwanda-ruhango-cities-v2",
+      "descriptionAdvanced": "Ruhango is a strategically located town in Rwanda's Southern Province, positioned on the vital highway connecting the capital, Kigali, with the southern university city of Huye. The town is recognized nationally as a major center for agricultural processing, most notably housing the Kinazi Cassava Plant, one of the largest and most modern flour mills of its kind in East Africa. Ruhango also holds significant religious importance as a site of Catholic pilgrimage, closely linked to the nearby Kibeho sanctuary. The town's economy is driven by a bustling central market where produce from the fertile surrounding hills is gathered for transport to urban centers. With its growing healthcare facilities and educational institutions, Ruhango serves as an essential service hub for the high-density rural population of central Rwanda. Geography K7 — food security and industrial processing.",
+      "factsAdvanced": [
+        "Strategically located midway between Kigali and Huye.",
+        "Home to the major Kinazi Cassava Processing Plant.",
+        "Important transit stop for national bus companies.",
+        "Significant center for the production of cassava and beans.",
+        "Hosts the Ruhango Provincial Hospital, a key health hub.",
+        "Regional market known for high-quality local pottery.",
+        "Average altitude is 1,750 meters above sea level.",
+        "Focal point for the 'Duhanzure' religious pilgrimage."
+      ]
+    },
+    {
+      "id": "rwanda-nyamasheke-cities-v2",
+      "descriptionAdvanced": "Nyamasheke is a picturesque port town and district on the southwestern shores of Lake Kivu, known for its dramatic topography and premium coffee production. The landscape is dominated by steep, lush hills that descend sharply into the deep waters of the lake, providing some of the most breathtaking coastal views in Rwanda. This region is a top producer of high-quality Arabica coffee, which thrives in the nutrient-rich volcanic soil and the humid lake breezes. Nyamasheke also serves as a vital western entrance to the Nyungwe National Park, offering access to less-trodden hiking trails and chimpanzee trekking sites. The town's port is a key node for the lake's maritime transport system, connecting the southern regions with Karongi and Rubavu. Its economy is a blend of maritime trade, artisanal fishing, and export-oriented agriculture. Geography K7 — export crops and lake-forest ecosystems.",
+      "factsAdvanced": [
+        "Major port on the southern end of Lake Kivu.",
+        "Top region for award-winning 'Cup of Excellence' coffee.",
+        "Gateway to the western sector of Nyungwe Forest.",
+        "Significant center for the processing of Sambaza sardines.",
+        "Located along the scenic Congo Nile Trail route.",
+        "Altitude varies from 1,460m at the lake to over 2,000m.",
+        "Home to several historic Catholic mission stations.",
+        "Key hub for maritime transport to the DR Congo."
+      ]
+    },
+    {
+      "id": "rwanda-rutsiro-cities-v2",
+      "descriptionAdvanced": "Rutsiro is a rugged and predominantly rural town situated high on the mountains that form the Congo-Nile Divide in western Rwanda. Due to its extreme elevation and misty climate, the region is a prime producer of premium mountain tea and high-quality honey. Rutsiro is the gateway to the Gishwati-Mukura National Park, Rwanda's newest protected area, which is a successful model for forest restoration and chimpanzee conservation. The town offers stunning panoramic views that stretch across deep valleys all the way to Lake Kivu and the Congolese mountains. While historically isolated, Rutsiro has become an important center for environmental conservation and sustainable agriculture, with terraced farming covering almost every steep slope. It represents the authentic, green, and vertical 'Land of a Thousand Hills.' Geography K7 — forest conservation and watershed management.",
+      "factsAdvanced": [
+        "One of Rwanda's highest district towns by elevation.",
+        "Gateway to Gishwati-Mukura National Park.",
+        "Situated directly on the Congo-Nile Divide ridge.",
+        "Major producer of high-altitude mountain tea.",
+        "Renowned for its forest honey and organic produce.",
+        "Altitude frequently exceeds 2,200 meters.",
+        "Critical area for the protection of mountain chimpanzees.",
+        "Center for successful large-scale reforestation projects."
+      ]
+    },
+    {
+      "id": "rwanda-nyabihu-cities-v2",
+      "descriptionAdvanced": "Nyabihu is a cool, highland town nestled at the base of the Virunga volcanic chain in northwestern Rwanda. Known for its misty mornings and fertile volcanic soils, Nyabihu is a powerhouse of Rwandan agriculture, particularly famous for its thriving dairy industry and the production of 'Irish' potatoes. The town hosts modern milk collection centers and cheese factories that supply high-quality dairy products to the capital. Additionally, the region is home to the Nyabihu Tea Factory, which processes some of the world's most sought-after black teas. The town's location on the main road between Musanze and Rubavu makes it a frequent stop for travelers. Nyabihu plays a crucial role in the national economy by ensuring food security and producing high-value exports in a challenging, mountainous environment. Geography K7 — volcanic agriculture and dairy production.",
+      "factsAdvanced": [
+        "Situated at the base of the majestic Virunga volcanoes.",
+        "Core region for Rwanda's commercial potato production.",
+        "Major center for high-altitude dairy and cheese making.",
+        "Home to the productive Nyabihu Tea Factory.",
+        "Average altitude is approximately 2,300 meters.",
+        "The climate is significantly cooler than the rest of Rwanda.",
+        "Critical corridor between Nyungwe and the Volcanoes Park.",
+        "Famous for the 'Bigogwe' cattle grazing traditions."
+      ]
+    },
+    {
+      "id": "rwanda-kirehe-cities-v2",
+      "descriptionAdvanced": "Kirehe is located in the far southeastern corner of Rwanda, bordering Tanzania at the strategic Rusumo border crossing. The town is famous for the spectacular Rusumo Falls, where the Akagera River thunders through a narrow gorge, and for the adjacent international bridge that serves as Rwanda's primary trade link to the port of Dar es Salaam. The landscape is characterized by dry savannas and low plateaus, with intensive rice cultivation occurring in the river's marshlands. Kirehe is also the ancestral home of the Imigongo art form—a unique geometric relief painting made from cow dung, which has become a symbol of Rwandan cultural identity. The town's economy is heavily influenced by cross-border trade, logistics, and hydroelectric power generation from the new tri-national Rusumo power plant. Geography K7 — international trade and river ecosystems.",
+      "factsAdvanced": [
+        "Home to the spectacular Rusumo Falls on the Akagera River.",
+        "Key border post connecting Rwanda to Tanzania.",
+        "Site of a major tri-national hydroelectric power plant.",
+        "Birthplace of the traditional Imigongo art form.",
+        "Major regional producer of rice, bananas, and sorghum.",
+        "The climate is savanna-like, warm and relatively dry.",
+        "Strategic logistics hub on the Central Transport Corridor.",
+        "Average altitude is around 1,350 meters."
+      ]
+    },
+    {
+      "id": "rwanda-gatsibo-cities-v2",
+      "descriptionAdvanced": "Gatsibo is a rapidly growing rural settlement in Rwanda's Eastern Province, encompassing a large area that borders the northern section of Akagera National Park. The region's geography is defined by flatter, savanna-like hills and open grasslands, making it an ideal location for large-scale livestock farming and cattle ranching. Gatsibo has become a center for modern agricultural cooperatives, focusing on dairy production and the cultivation of drought-resistant crops like maize, beans, and soybeans. Historically, the area was part of the traditional migration routes of the Rwandan monarchy and has significant military history. Today, the town is a model for rural development, with investments in schools, health centers, and sustainable land management. It offers a glimpse into the traditional pastoral lifestyle of Rwanda integrated into a modern economic framework. Geography K7 — pastoralism and rural development.",
+      "factsAdvanced": [
+        "Administrative seat of the Gatsibo District.",
+        "Borders the northern sector of Akagera National Park.",
+        "Major center for Rwanda's beef and dairy industry.",
+        "Significant producer of maize and soybeans.",
+        "Altitude ranges between 1,450 and 1,600 meters.",
+        "Site of historic royal cattle migration routes.",
+        "Known for its successful milk collection cooperatives.",
+        "Experiencing significant infrastructure growth since 2010."
+      ]
+    },
+    {
+      "id": "rwanda-burera-cities-v2",
+      "descriptionAdvanced": "Burera is a mountainous district and town in northern Rwanda, renowned for its dramatic volcanic scenery and the beautiful Lake Burera. Nestled at the foot of the Muhabura and Gahinga volcanoes, the area is one of the most fertile in the country, with terraced hillsides producing massive quantities of potatoes and beans. Lake Burera, along with its 'twin' Lake Ruhondo, was formed by ancient volcanic activity blocking river valleys, creating a serene and misty landscape. The town is also home to the Butaro Cancer Centre of Excellence, a world-class medical facility that has brought international recognition to the region. Burera serves as a vital entrance to the Volcanoes National Park from the east and is a hub for ecotourism, offering unique trekking experiences with views of the Ugandan border. Geography K7 — volcanic lakes and mountain agriculture.",
+      "factsAdvanced": [
+        "Home to Lake Burera, a volcanic dam lake.",
+        "Located at the foot of the 4,127m Muhabura volcano.",
+        "Hosts the world-renowned Butaro Cancer Centre.",
+        "Primary region for Rwanda's Irish potato production.",
+        "Connected to Lake Ruhondo by the Ntaruka waterfall.",
+        "Average altitude is approximately 2,100 meters.",
+        "Gateway to eastern sectors of Volcanoes National Park.",
+        "Significant center for sustainable highland fishing."
+      ]
+    },
+    {
+      "id": "rwanda-rulindo-cities-v2",
+      "descriptionAdvanced": "Rulindo is an emerging district and town located just north of the capital Kigali, serving as a vital link between the metropolitan area and the northern highlands. The town's economy is characterized by a strong mining sector, with numerous artisanal and small-scale mines extracting cassiterite (tin) and wolfram from the surrounding hills. Additionally, Rulindo is a prestigious center for coffee processing, with its washing stations frequently winning international 'Cup of Excellence' awards. The landscape is typically Rwandan, with deep valleys and steep, green hills that are meticulously farmed using traditional terracing. Rulindo also hosts a growing manufacturing sector, including textile and building material factories, benefitting from its proximity to Kigali and the main northern highway. It represents the successful integration of industry, mining, and high-value agriculture. Geography K7 — mining regions and industrial growth.",
+      "factsAdvanced": [
+        "Strategically located on the main Kigali-Musanze highway.",
+        "Major center for tin (cassiterite) and wolfram mining.",
+        "Home to award-winning coffee washing stations.",
+        "Hosts the Rulindo Cultural Center and sports complex.",
+        "Significant producer of passion fruits and tea.",
+        "Altitude averages around 1,950 meters.",
+        "Key supplier of construction materials for Kigali.",
+        "Known for pioneering soil conservation and terracing."
+      ]
+    },
+    {
+      "id": "rwanda-gakenke-cities-v2",
+      "descriptionAdvanced": "Gakenke is a mountainous town in the heart of Rwanda's Northern Province, globally famous for producing some of the world's finest specialty coffee. The district's unique microclimate, high altitude, and rich volcanic soil provide perfect conditions for Arabica beans, which consistently achieve top honors in international competitions. The town itself is set within a dramatic landscape of high ridges and deep valleys crisscrossed by numerous small rivers. Gakenke is a vibrant center for agricultural cooperatives, not only for coffee but also for passion fruit, beans, and maize. In recent years, the town has seen significant investment in health and education infrastructure, evolving from a purely rural outpost into a growing urban center with a strong economic identity based on agricultural exports. Geography K7 — agricultural specialization and high-altitude farming.",
+      "factsAdvanced": [
+        "International hub for 'Cup of Excellence' Rwandan coffee.",
+        "Located in one of Rwanda's most mountainous regions.",
+        "Major producer of passion fruits for export.",
+        "Situated on the central North-South road axis.",
+        "Crisscrossed by tributaries of the Nyabarongo River.",
+        "Altitude often exceeds 1,800 meters above sea level.",
+        "Known for its successful model of farming cooperatives.",
+        "Home to diverse high-altitude bird species."
+      ]
+    },
+    {
+      "id": "rwanda-kamonyi-cities-v2",
+      "descriptionAdvanced": "Kamonyi serves as the gateway to the Southern Province, located just west of the Nyabarongo River which separates it from the capital, Kigali. The town has experienced rapid urban expansion due to its proximity to the capital, becoming a preferred location for both industrial enterprises and suburban residences. Kamonyi holds deep historical significance, as it was a traditional hunting ground and strategic site for the Kings of Rwanda. Today, it is a bustling commercial center and a major collection point for agricultural products, particularly cassava, beans, and vegetables. The landscape features rolling hills and fertile wetlands in the Nyabarongo valley, where intensive rice and sugarcane farming are practiced. Kamonyi is an example of the accelerating urbanization and economic integration happening between Kigali and the surrounding provinces. Geography K7 — urban-rural fringe and river valleys.",
+      "factsAdvanced": [
+        "Located at the natural border formed by the Nyabarongo River.",
+        "The closest major urban center to Kigali in the south.",
+        "Important hub for the building materials industry (clay bricks).",
+        "Historic region associated with royal hunting camps.",
+        "Strategic stop on the highway to Huye and Rusizi.",
+        "Altitude is approximately 1,620 meters.",
+        "Major regional producer of cassava and horticulture.",
+        "Experiencing the highest rate of suburban growth in the south."
+      ]
+    },
+    {
+      "id": "rwanda-nyaruguru-cities-v2",
+      "descriptionAdvanced": "Nyaruguru is a district and town in Rwanda's extreme south, bordering Burundi, and is a region with a profound spiritual and cultural identity. The town is best known for being the location of the Kibeho Sanctuary, a globally significant Catholic pilgrimage site where apparitions of the Virgin Mary were reported in the 1980s and officially recognized by the Vatican. The geography is rugged and mountainous, forming part of the Nyungwe forest ecosystem with high peaks and dense cloud forests. The economy is primarily based on the large-scale cultivation of high-altitude tea, with massive plantations like the Mata Tea Estate covering the misty hills. Nyaruguru's cool, humid climate and remote location have preserved a mystical and serene atmosphere, making it a unique destination for both religious pilgrims and nature lovers. History K8 — religious influence and mountain ecosystems.",
+      "factsAdvanced": [
+        "Home to the Kibeho Sanctuary, a major pilgrimage site.",
+        "Highest elevation district in southern Rwanda.",
+        "Major center for mountain tea production (Mata factory).",
+        "Borders Nyungwe National Park to the west.",
+        "Strategic point on the southern border with Burundi.",
+        "Known for its consistently cool and misty mountain climate.",
+        "Site of significant historical importance to the Rwandan kingdom.",
+        "Altitude frequently exceeds 2,000 meters."
+      ]
+    },
+    {
+      "id": "rwanda-gisagara-cities-v2",
+      "descriptionAdvanced": "Gisagara is a predominantly rural district and town in the Southern Province, located east of the city of Huye. The region is characterized by gently rolling hills and wide, marshy valleys that are used intensively for rice and bean cultivation. Gisagara is notable for its contributions to Rwanda's renewable energy sector, hosting significant peat-to-power projects that utilize the abundant peat reserves found in the local wetlands. While one of the less urbanized regions, Gisagara plays a vital role in national food security through its steady production of cereals and legumes. The town maintains an authentic traditional Rwandan lifestyle, with local markets and community-based agricultural cooperatives forming the core of social and economic life. It is an important area for cross-border trade with neighboring Burundi. Geography K7 — wetland agriculture and energy resources.",
+      "factsAdvanced": [
+        "One of the few districts without a very large urban center.",
+        "Home to Rwanda's first major peat-to-power electricity plant.",
+        "A major region for national commercial rice production.",
+        "Located near the southeastern border with Burundi.",
+        "Known for its extensive hillside reforestation programs.",
+        "Average altitude is approximately 1,650 meters.",
+        "Nodal point for small-scale cross-border commerce.",
+        "Region with a very high rural population density."
+      ]
+    },
+    {
+      "id": "rwanda-kicukiro-cities-v2",
+      "descriptionAdvanced": "Kicukiro is one of the most dynamic and modern districts of Kigali, situated in the southeastern part of the capital city. It serves as a major gateway for international visitors, as it encompasses the routes to the Kigali International Airport and the upcoming Bugesera Airport. The district is characterized by well-planned residential neighborhoods, green spaces, and a booming industrial sector, making it highly attractive to the emerging middle class and international organizations. Kicukiro is home to significant educational institutions, including the Integrated Polytechnic Regional College (IPRC), and the Masaka Hospital. The district embodies the urbanization goals of modern Rwanda, blending high-quality housing with essential commercial and technological infrastructure. It also holds historical significance as the site of several genocide memorials, reflecting the city's journey toward healing and growth. Geography K7 — urban planning and infrastructure.",
+      "factsAdvanced": [
+        "A central administrative and residential district of Kigali.",
+        "Hosts the Integrated Polytechnic Regional College (IPRC).",
+        "Home to numerous embassies and international NGO offices.",
+        "Contains the Masaka Hospital and a major industrial zone.",
+        "Key transit hub between the airport and the city center.",
+        "Known for its orderly, hillside residential developments.",
+        "Altitude is approximately 1,560 meters.",
+        "Site of the Nyanza-Kicukiro Genocide Memorial."
+      ]
+    },
+    {
+      "id": "rwanda-gasabo-cities-v2",
+      "descriptionAdvanced": "Gasabo is the largest and most populous district of Kigali, covering the northern part of the capital and the surrounding hills. It is the administrative heart of the nation, housing the President's Office, the Parliament, and most government ministries. Gasabo has deep historical roots, often considered the 'cradle' of the Rwandan state where the early kingdom began to expand. The district presents a unique blend of modern skyscrapers, elite residential areas like Nyarutarama, and traditional rural farming zones on the city's outskirts. It is also home to the Kigali Genocide Memorial at Gisozi, the most significant site of national remembrance. Gasabo represents the complexity of Rwanda's capital—a place where political power, national history, and rapid modern development converge amidst a sea of rolling hills. Geography K7 — capital functions and governance.",
+      "factsAdvanced": [
+        "Most populous administrative unit in Rwanda.",
+        "Seat of the Rwandan Parliament and many ministries.",
+        "Location of the Kigali Genocide Memorial at Gisozi.",
+        "Home to the elite Nyarutarama residential area and lake.",
+        "Historically considered the heart of the early Rwandan kingdom.",
+        "Contains the city's major sports facilities and arenas.",
+        "Covers both urban city centers and rural highland zones.",
+        "The highest point in the district offers views of the entire city."
+      ]
+    },
+    {
+      "id": "rwanda-nyarugenge-cities-v2",
+      "descriptionAdvanced": "Nyarugenge is the historic and economic core of Kigali, where the city's pulse is most palpable. This district houses the Central Business District (CBD), where modern office towers, major banks, and the bustling city market converge. Nyarugenge's streets reflect the city's evolution from a small colonial outpost to a thriving modern metropolis. It is home to the Kandt House Museum, marking the spot where the first European resident established his home in 1907. The district's dramatic topography offers stunning views over the surrounding valleys, while its neighborhoods like Nyamirambo are famous for their multicultural atmosphere, vibrant street life, and historic mosques. Nyarugenge remains the primary hub for finance and commerce in Rwanda, symbolizing the country's rapid economic growth and its deep historical roots. Geography K7 — historic city centers and commerce.",
+      "factsAdvanced": [
+        "The oldest district and economic heart of Kigali City.",
+        "Home to the Kigali City Tower, one of the nation's tallest buildings.",
+        "Includes the vibrant and multicultural Nyamirambo neighborhood.",
+        "Site of the Kandt House, where Kigali was founded in 1907.",
+        "Contains the central city market and major financial institutions.",
+        "Renowned for its historic mosques and active night life.",
+        "Average altitude of approximately 1,550 meters.",
+        "Serves as the primary logistics hub for the capital's trade."
+      ]
+    },
+    {
+      "id": "rwanda-gatuna-cities-v2",
+      "descriptionAdvanced": "Gatuna is Rwanda's busiest and most important border crossing with Uganda, located in the rugged northern highlands of the Gicumbi District. The town is a vital economic lifeline for the country, with hundreds of trucks passing through daily, facilitating the flow of goods from the Kenyan port of Mombasa into the heart of Rwanda. The cool, mountainous climate and the surrounding terraced agriculture provide a unique backdrop for this bustling logistics hub. Gatuna is not just a checkpoint; it is a dynamically developing border town that plays a key role in the economic integration of the East African Community. The steep hills and frequently mist-covered landscape around Gatuna emphasize the geographic challenges and the resilience of the Rwandan people in maintaining their international trade routes. Geography K7 — borders and international trade.",
+      "factsAdvanced": [
+        "Primary road border crossing between Rwanda and Uganda.",
+        "Located in the Gicumbi District at an altitude of over 2,000m.",
+        "Crucial node on the 'Northern Corridor' trade route.",
+        "Directly adjacent to the Ugandan town of Katuna.",
+        "Region is famous for high-quality potato cultivation.",
+        "Handles millions of tons of freight annually for Rwanda.",
+        "Features a modern 'One-Stop Border Post' facility.",
+        "Strategically significant for the East African Community."
+      ]
+    },
+    {
+      "id": "rwanda-kagitumba-cities-v2",
+      "descriptionAdvanced": "Kagitumba is a significant border town in northeastern Rwanda, located at the tripoint where the borders of Rwanda, Uganda, and Tanzania meet. Situated in the Nyagatare District along the Kagitumba River, which serves as a natural boundary, the town offers an important alternative route for international freight, avoiding some of the steeper mountain passes of the north. The surrounding landscape consists of gentler hills and savanna-style pastures, which are home to some of Rwanda's most important livestock farms. Kagitumba's development has been closely linked to the construction of a modern One-Stop Border Post, which has significantly accelerated customs clearance and regional trade flow. The area represents a bridge between the hilly interior of Rwanda and the vast plains of East Africa, facilitating the movement of cattle, grain, and manufactured goods. Geography K7 — river borders and logistics.",
+      "factsAdvanced": [
+        "Located in the far northeast in Nyagatare District.",
+        "Situated on the banks of the Kagitumba River.",
+        "Critical entry point for goods from Mombasa, Kenya.",
+        "Operates as a modernized 'One-Stop' border post.",
+        "Surrounding region is Rwanda's top cattle-ranching zone.",
+        "Directly faces the Ugandan town of Mirama Hills.",
+        "The climate is warmer and drier than the northern highlands.",
+        "A key component of the regional transport network."
+      ]
+    },
+    {
+      "id": "rwanda-rusumo-cities-v2",
+      "descriptionAdvanced": "Rusumo is the most important gateway on Rwanda's southeastern border with Tanzania, located near the Akagera River and the famous Rusumo Falls. The town's strategic importance is defined by the international bridge that spans the river, connecting Rwanda to Tanzania and onward to the Indian Ocean ports. Rusumo is not just a commercial hub but also a center for regional energy cooperation, as it hosts a major tri-national hydroelectric power plant shared between Rwanda, Tanzania, and Burundi. The thunderous roar of the waterfalls and the riverine wildlife provide a unique natural setting for this busy logistical center. The town reflects Rwanda's commitment to regional integration and infrastructure development, serving as a vital link in the central transport corridor for exports and imports. Geography K7 — river power and international commerce.",
+      "factsAdvanced": [
+        "Located on the southeastern border in Kirehe District.",
+        "Home to the powerful Rusumo Falls on the Akagera River.",
+        "Features a major international bridge to Tanzania.",
+        "Site of a shared tri-national hydroelectric power plant.",
+        "Crucial for exports heading to the port of Dar es Salaam.",
+        "Surrounded by vast banana and grain plantations.",
+        "Strategic stop for long-haul freight trucks.",
+        "The area is known for its traditional Imigongo art."
+      ]
+    },
+    {
+      "id": "rwanda-bugarama-cities-v2",
+      "descriptionAdvanced": "Bugarama is Rwanda's lowest-lying town and region, situated in the far southwestern corner where the elevation drops below 900 meters. This area is known for its unique, hot, and humid tropical climate, which stands in sharp contrast to the rest of the mountainous country. The Bugarama Valley is the nation's 'rice bowl,' where abundant water from the Rusizi River and natural hot springs create ideal conditions for intensive rice cultivation. The town is also a significant industrial center, thanks to the nearby CIMERWA plant, Rwanda's largest and oldest cement factory. Its proximity to the borders of both the Democratic Republic of Congo and Burundi gives Bugarama a vibrant, multicultural atmosphere. Bugarama represents a unique geological and climatic pocket within Rwanda, essential for both the construction and food sectors. Geography K7 — rift valley basins and agricultural specialization.",
+      "factsAdvanced": [
+        "Rwanda's lowest inhabited area at roughly 900m altitude.",
+        "Famous for the Amashyuza natural hot springs.",
+        "One of the country's most significant rice-producing regions.",
+        "Home to CIMERWA, Rwanda's largest cement factory.",
+        "Located near the tri-border point (Rwanda-Congo-Burundi).",
+        "The climate is more tropical and hotter than the capital.",
+        "Rich in geothermal energy potential.",
+        "An important regional center for trade in the Rusizi valley."
+      ]
+    }
+  ]
+}

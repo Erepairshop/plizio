@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kantche-cities-v2",
+      "descriptionAdvanced": "Kantché egy csendes, történelmi falu Zinder régióban, amely a hagyományos haúsza építészet egyik legszebb fennmaradt példája. A település agyagból épült, lapos tetejű házai szorosan simulnak egymáshoz, védekezve a forró sivatagi szél ellen. A lakosság főleg a földimogyoró és köles termesztésére támaszkodik, miközben a helyi kézművesek generációk óta öröklődő technikákkal készítenek agyagedényeket és szőtteseket. Történelem K6 — haúsza agyagépítészet.",
+      "factsAdvanced": [
+        "A hagyományos haúsza agyagépítészet élő múzeuma.",
+        "Kisméretű mezőgazdasági település Zinder régióban.",
+        "A lakosság főleg földimogyoróval és kölessel foglalkozik.",
+        "Kiemelkedő a helyi agyagművesség és szövés.",
+        "A házak szorosan épültek a homokviharok elleni védekezésként.",
+        "Történelmileg a Damagaram Szultanátushoz tartozott."
+      ]
+    },
+    {
+      "id": "kornaka-cities-v2",
+      "descriptionAdvanced": "Kornaka egy rendkívül gyorsan növekvő agrárváros Maradi régióban, amely a \"nigériai gazdasági mágnes\" hatását mutatja. A hatalmas, termékeny síkságon fekvő település rengeteg belső migránst vonzott az elmúlt évtizedben, akik a jobb földművelési lehetőségeket keresik. Bár a gazdaság fellendült, a gyors demográfiai növekedés komoly terhet ró a helyi vízellátásra és az oktatási rendszerre. Társadalomföldrajz K8 — belső migráció és urbanizáció.",
+      "factsAdvanced": [
+        "Az egyik leggyorsabban növekvő város Maradi régióban.",
+        "Erős belső migrációs célpont a termékeny földek miatt.",
+        "A nigériai határkereskedelem élénkítő hatással van rá.",
+        "A vízhiány a gyors lakosságnövekedés egyik fő kihívása.",
+        "Mezőgazdasága a gabonafélékre és hüvelyesekre épül.",
+        "Kiváló példája az afrikai vidéki urbanizációnak."
+      ]
+    },
+    {
+      "id": "malbaza-cities-v2",
+      "descriptionAdvanced": "Malbaza egy ipari fókuszú település Tahoua régióban, amely országos ismertségét az itt található jelentős cementgyárnak köszönheti. A gyár nemcsak a város, hanem egész Niger építőiparának alapköve, mivel a helyben bányászott mészkőre épül. Az ipari jelleg ellenére a város megőrizte haúsza kulturális gyökereit, és a mezőgazdaság is fontos kiegészítő jövedelemforrás maradt a lakosság számára. Kémia és földrajz K8 — mészkőbányászat és cementipar.",
+      "factsAdvanced": [
+        "Az ország egyik legfontosabb cementgyára itt működik.",
+        "A helyi mészkőkészletekre alapozva épült ki az ipar.",
+        "Jelentős munkáltató Tahoua régió déli részén.",
+        "Az ipari fókusz ellenére a mezőgazdaság is jelen van.",
+        "Kulcsszereplő a nigeri infrastruktúra-fejlesztésben.",
+        "Erős haúsza kulturális hagyományokkal rendelkezik."
+      ]
+    },
+    {
+      "id": "loga-cities-v2",
+      "descriptionAdvanced": "Loga egy kis mezőgazdasági város Dosso régióban, amely a száraz évszakban is kitartó, apró forrásainak és kútjainak köszönheti túlélését. A település a zarma kultúra mélyen gyökerező hagyományait őrzi, ahol a helyi vezetők, a \"chef de canton\"-ok ma is fontos szerepet töltenek be a viták rendezésében. Loga környéke egyúttal fontos tranzitútvonal a nomád fulani pásztorok számára is. Társadalomföldrajz K7 — afrikai törzsi vezetés.",
+      "factsAdvanced": [
+        "A zarma (djerma) népcsoport egyik hagyományos települése.",
+        "A hagyományos törzsi vezetők ma is komoly befolyással bírnak.",
+        "A vízellátást mély kutak biztosítják a száraz hónapokban.",
+        "A mezőgazdaság alapját a cirok és a köles képezi.",
+        "A fulani pásztorok fontos vándorlási útvonalán fekszik.",
+        "Dosso régió csendes, vidéki adminisztratív központja."
+      ]
+    },
+    {
+      "id": "balleyara-cities-v2",
+      "descriptionAdvanced": "Balleyara országos hírű vasárnapi állatpiacáról ismert, amely az egyik legnagyobb egész Nigerben. A Tillabéri régióban, Niameytől nem messze fekvő város hetente egyszer óriási tömegeket vonz: tuareg, fulani és djerma kereskedők hozzák ide tevéiket, szarvasmarháikat és juhaikat. A piac mellett a település fontos logisztikai csomópont is, amely összeköti a fővárost az északkeleti sivatagi régiókkal. Földrajz K6 — regionális állatpiacok.",
+      "factsAdvanced": [
+        "Az ország egyik legnagyobb és leghíresebb heti állatpiaca.",
+        "A vasárnapi piac napokon a lakosság többszörösére duzzad.",
+        "Stratégiai útvonalon fekszik Niamey és az északi területek között.",
+        "Tuareg, fulani és zarma kereskedők olvasztótégelye.",
+        "A tevék és szarvasmarhák kereskedelme a gazdaság alapja.",
+        "A főváros húsellátásának egyik legfőbb biztosítója."
+      ]
+    },
+    {
+      "id": "gotheye-cities-v2",
+      "descriptionAdvanced": "Gothèye egy festői település a Niger folyó nyugati partján, amely sűrű pálmaligeteiről és mangóültetvényeiről ismert. A folyó közelsége lehetővé teszi az egész éves öntözéses földművelést, ami ritka kincs ebben a száraz országban. A város történelmileg a songhai birodalom hatáskörébe tartozott, ma pedig a folyami hajózás és a halászat fontos regionális központja. Környezetismeret K7 — folyóparti oázisok.",
+      "factsAdvanced": [
+        "A Niger folyó jobb partján elterülő zöldellő oázis.",
+        "Egész évben képes öntözéses mezőgazdaságot folytatni.",
+        "Híres kiterjedt mangó- és datolyapálma-ültetvényeiről.",
+        "Történelmileg a hatalmas Songhai birodalom része volt.",
+        "A folyami halászat komoly megélhetési forrást jelent.",
+        "Festői fekvése miatt népszerű a belföldi utazók körében."
+      ]
+    },
+    {
+      "id": "damagaram-takaya-cities-v2",
+      "descriptionAdvanced": "Damagaram Takaya a történelmi Damagaram Szultanátus örökségét őrző, mély kulturális gyökerekkel rendelkező város Zinder régióban. Bár ma csendes mezőgazdasági központ, a város alapítása a 19. századi prekoloniális időkre nyúlik vissza, amikor a karavánutak védelmét szolgálta. Ma a földimogyoró termesztése és a hagyományos iszlám oktatás, a Korán-iskolák (madrasszák) jelentik a mindennapi élet gerincét. Történelem K8 — a Damagaram Szultanátus.",
+      "factsAdvanced": [
+        "A 19. századi Damagaram Szultanátus egyik kulcsvárosa volt.",
+        "Eredetileg a karavánutak védelmére hozták létre.",
+        "Jelentős központja a hagyományos iszlám (Korán) oktatásnak.",
+        "Gazdasága ma nagyrészt a földimogyoró-termesztésre épül.",
+        "A haúsza építészet és kultúra erősen jelen van a mindennapokban.",
+        "Megőrizte az autentikus, gyarmatosítás előtti falusi hangulatot."
+      ]
+    },
+    {
+      "id": "somair-uranium-mine-economic-v2",
+      "descriptionAdvanced": "A SOMAÏR uránbánya Arlit közelében Niger egyik legrégebbi és legfontosabb ipari létesítménye, amely 1971 óta üzemel nyílt színi fejtésként. A bánya hatalmas krátert vágott a szaharai tájba, és a kitermelt urán a francia atomenergia-ipar egyik fő forrása volt évtizedekig. Bár jelentős bevételeket hoz az államnak, a sugárszennyezés és a vízkészletek kimerülése komoly aggályokat vet fel a helyi környezetvédők körében. Földrajz K8 — uránbányászat és nukleáris ipar.",
+      "factsAdvanced": [
+        "1971-ben kezdte meg az urán nyílt színi kitermelését.",
+        "Arlit városának gazdasági motorja és fő foglalkoztatója.",
+        "Évtizedekig a francia nukleáris ipar kulcsfontosságú beszállítója volt.",
+        "Hatalmas mesterséges krátert hozott létre a sivatagban.",
+        "Súlyos környezetvédelmi és egészségügyi aggályok övezik.",
+        "A világ egyik legjelentősebb uránlelőhelyén működik."
+      ]
+    },
+    {
+      "id": "cominak-akouta-mine-economic-v2",
+      "descriptionAdvanced": "A COMINAK bánya az akoutai uránlelőhelyen a világ egyik legnagyobb földalatti uránbányája volt évtizedeken át, amely a sivatag mélyéből hozta a felszínre az értékes ércet. A több mint 250 méter mélyen futó járatrendszerek mérnöki csodának számítottak, azonban a készletek kimerülése miatt a kitermelés hivatalosan 2021-ben befejeződött. A létesítmény jelenleg hosszú és bonyolult rekultivációs (helyreállítási) fázisban van. Fizika K8 — földalatti bányászat és rekultiváció.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb földalatti uránbányája volt.",
+        "Több mint 250 méter mély járatrendszerrel rendelkezett.",
+        "Közel negyven évnyi működés után, 2021-ben zárt be.",
+        "Jelenleg a környezeti helyreállítás (rekultiváció) zajlik.",
+        "Évtizedekig biztosított megélhetést a helyi lakosságnak.",
+        "A japán, francia és spanyol cégek is érdekelték voltak benne."
+      ]
+    },
+    {
+      "id": "imouraren-mine-economic-v2",
+      "descriptionAdvanced": "Az Imouraren projekt a világ egyik legnagyobb feltáratlan uránlelőhelye, amely Arlittól délre fekszik a Szaharában. Bár a területen jelentős infrastruktúrát építettek ki, a globális uránárak zuhanása (a fukusimai katasztrófa után) miatt a projektet évekre befagyasztották. A hatalmas kiterjedésű, alacsony koncentrációjú érctest kitermelése óriási vízigénnyel járna, ami komoly dilemmát okoz egy sivatagi ország számára. Gazdaságföldrajz K8 — globális nyersanyagárak és bányászat.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb, jórészt feltáratlan uránlelőhelye.",
+        "A fukusimai katasztrófa utáni árzuhanás miatt felfüggesztették.",
+        "Hatalmas területen elterülő, alacsony koncentrációjú ércet rejt.",
+        "Tervezett kitermelése rendkívül nagy vízigénnyel járna.",
+        "Francia (Orano) és nigeri állami érdekek is jelen vannak.",
+        "Elindítása alapvetően megváltoztatná a régió gazdaságát."
+      ]
+    },
+    {
+      "id": "soraz-zinder-refinery-economic-v2",
+      "descriptionAdvanced": "A SORAZ olajfinomító Zinder városától mintegy 50 kilométerre északra található, és Kínai-Nigeri vegyesvállalatként épült fel 2011-ben. Ez a létesítmény tette lehetővé, hogy Niger kőolajimportőrből önellátóvá, sőt exportőrré váljon a finomított üzemanyagok terén. A komplexum a távoli Agadem olajmezőről kapja a nyersolajat egy közel 500 kilométeres csővezetéken keresztül, ami óriási infrastrukturális ugrást jelentett az ország számára. Földrajz K8 — olajipar és csővezetékek.",
+      "factsAdvanced": [
+        "2011-ben adták át kínai és nigeri vegyesvállalati (CNPC) beruházásként.",
+        "Niger első és egyetlen jelentős modern olajfinomítója.",
+        "Az Agadem olajmezőről csővezetéken érkezik a nyersolaj.",
+        "Lehetővé tette az ország energiafüggetlenségét az üzemanyagoknál.",
+        "Kapacitása napi 20 000 hordó finomítását teszi lehetővé.",
+        "A zinderi régió egyik legnagyobb ipari munkáltatója."
+      ]
+    },
+    {
+      "id": "agadem-oil-field-economic-v2",
+      "descriptionAdvanced": "Az Agadem olajmező Niger keleti részén, a hatalmas Ténéré sivatag homokdűnéi alatt rejti az ország legjelentősebb kőolajkészleteit. A kitermelés 2011-ben indult meg a kínai CNPC vállalat segítségével, amely kutakat fúrt és csővezetékeket épített a kietlen sivatagban. Az innen származó olaj nemcsak a belföldi ellátást biztosítja, hanem az újonnan épülő, Beninbe tartó exportvezeték révén a nemzetközi piacokra is kijut. Gazdaságföldrajz K8 — kőolaj a Szaharában.",
+      "factsAdvanced": [
+        "Niger legjelentősebb kőolaj-kitermelő központja a keleti sivatagban.",
+        "A kínai CNPC vállalat fedezte fel és fejlesztette ki.",
+        "A kitermelés a zinderi finomítót és az exporthálózatot látja el.",
+        "Extrém sivatagi körülmények között épültek ki a fúrótornyok.",
+        "Az állam egyik leggyorsabban növekvő bevételi forrása.",
+        "Benin irányába új, nemzetközi csővezetéket építettek hozzá."
+      ]
+    },
+    {
+      "id": "sonichar-tchirozerine-economic-v2",
+      "descriptionAdvanced": "A Tchirozérine-ben található SONICHAR hőerőmű és szénbánya az északi Agadez régió ipari szíve. A létesítmény 1981-ben kezdte meg működését azzal az egyetlen céllal, hogy energiával lássa el a sivatagban működő hatalmas uránbányákat (Arlit és Akouta), valamint Agadez városát. A nyílt színi szénbánya környezeti terhelése és a hőerőmű károsanyag-kibocsátása állandó vitatéma, de az energiaellátás szempontjából nélkülözhetetlen. Fizika K8 — fosszilis hőerőművek.",
+      "factsAdvanced": [
+        "1981-ben alapították az északi uránbányák energiaellátására.",
+        "Közvetlenül a saját nyílt színi szénbányájából táplálkozik.",
+        "Biztosítja Arlit, Akouta és Agadez folyamatos áramellátását.",
+        "Az egyetlen jelentős széntüzelésű erőmű az országban.",
+        "Környezetvédelmi aggályok övezik a magas szén-dioxid-kibocsátást.",
+        "Stratégiai fontosságú a nigeri bányászati szektor számára."
+      ]
+    },
+    {
+      "id": "samira-hill-gold-mine-economic-v2",
+      "descriptionAdvanced": "A Samira Hill aranybánya a Liptako-Gourma régióban, a Burkina Fasó-i határ közelében Niger első modern, ipari méretű aranykitermelő létesítménye. A 2004-ben megnyitott bánya a zord, sziklás \"zöldkő\" övezetből nyeri ki az aranyat, amely a hagyományos urán mellett az ország exportjának új pillérévé vált. A bánya jelentős infrastrukturális beruházásokat hozott a korábban elszigetelt térségbe. Földrajz K8 — aranybányászat és export.",
+      "factsAdvanced": [
+        "Niger legelső modern, ipari méretű aranybányája volt.",
+        "A Liptako-Gourma régió sziklás, úgynevezett zöldkő övezetében fekszik.",
+        "2004-ben kezdte meg a hivatalos kitermelést és exportot.",
+        "Jelentősen diverzifikálta az ország ásványkincs-exportját.",
+        "Modern technológiát használ a kemény kőzet zúzására.",
+        "A közeli térségekben sok illegális, kézműves bányász is aktív."
+      ]
+    },
+    {
+      "id": "tchibarakaten-gold-mine-economic-v2",
+      "descriptionAdvanced": "A Tchibarakaten aranymező mélyen az északi Szaharában, az algériai határ közelében található, és 2014-es felfedezése óta egy hatalmas, kaotikus \"aranyláz\" központjává vált. Az ipari vállalatok helyett itt több tízezer kézműves bányász keresi a szerencséjét zord, vízhiányos körülmények között, gyakran veszélyes vegyszereket használva. A terület feletti ellenőrzés gyakran vezet feszültségekhez a központi kormányzat és a helyi tuareg vagy arab csoportok között. Társadalomföldrajz K8 — modern aranyláz és kézműves bányászat.",
+      "factsAdvanced": [
+        "Az északi sivatagban, az algériai határ közelében helyezkedik el.",
+        "2014-es felfedezése után tömeges \"aranylázat\" indított el.",
+        "Több tízezer illegális vagy kézműves bányász dolgozik itt.",
+        "A vízhiány és a zord sivatag komoly életveszélyt jelent.",
+        "Rendszeres a veszélyes higany és cianid használata.",
+        "A terület ellenőrzése gyakran okoz politikai feszültségeket."
+      ]
+    },
+    {
+      "id": "djado-gold-fields-economic-v2",
+      "descriptionAdvanced": "A Djado-fennsík egy elzárt, látványos sziklaképződményekkel teli vidék a líbiai határnál, amely 2014-ben az arany felfedezése révén került a figyelem középpontjába. A korábban szinte lakatlan régiót elárasztották a szomszédos országokból és Nigerből érkező kalandorok. A kormány biztonsági okokból többször is megpróbálta lezárni a területet, mivel a zord sivatagi környezetben az illegális bányászat és a fegyveres csoportok jelenléte folyamatos veszélyt jelent. Földrajz K8 — határmenti erőforrás-konfliktusok.",
+      "factsAdvanced": [
+        "A festői, lakatlan Djado-fennsíkon indult az aranyláz 2014-ben.",
+        "Közvetlenül a líbiai és csádi határvidéken helyezkedik el.",
+        "Külföldi (csádi, szudáni) és helyi bányászok ezreit vonzotta.",
+        "A nigeri állam biztonsági okokból többször lezárta a régiót.",
+        "Az ivóvíz és az élelem hiánya hatalmas logisztikai kihívás.",
+        "A bányászat veszélyezteti a fennsík ősi történelmi romjait."
+      ]
+    },
+    {
+      "id": "dosso-dry-port-economic-v2",
+      "descriptionAdvanced": "A Dosso szárazkikötő (port sec) egy forradalmi logisztikai létesítmény, amely a tengerparttal nem rendelkező Niger külkereskedelmét hivatott megkönnyíteni. A Beninen keresztül (Cotonou kikötőjéből) érkező import áruk itt kerülnek hivatalos vámkezelésre és elosztásra, mielőtt elérnék Niameyt vagy az északi városokat. Ez az \"ideiglenes kikötő\" jelentősen csökkenti a tranzitidőt és a logisztikai költségeket a helyi vállalatok számára. Gazdaságföldrajz K7 — szárazkikötők és tranzitországok.",
+      "factsAdvanced": [
+        "Speciális vámkezelési központ a tengerpart nélküli ország számára.",
+        "A Cotonou-ból (Benin) érkező áruk fő elosztó pontja.",
+        "Jelentősen csökkenti a főváros és a régiók ellátási idejét.",
+        "Több hektáros modern konténerterminállal rendelkezik.",
+        "A Dosso régió legfontosabb modern infrastrukturális eleme.",
+        "Elősegíti a regionális (ECOWAS) kereskedelmi integrációt."
+      ]
+    },
+    {
+      "id": "niamey-river-port-economic-v2",
+      "descriptionAdvanced": "A Niamey folyami kikötő a Niger folyó menti hajózás történelmi központja a fővárosban. Bár a száraz évszakban a folyó vízszintje drasztikusan lecsökken, gátolva a nagyobb hajók mozgását, az esős időszakban a kikötő megtelik élettel: mezőgazdasági termékeket, fát és építőanyagokat szállító tradicionális pinasse-ok (csónakok) érkeznek Mali felől vagy az ország belső részeiből. A jövőbeli Kandadji-gát megépítése várhatóan egész évben hajózhatóvá teszi a szakaszt. Földrajz K6 — folyami hajózás korlátai.",
+      "factsAdvanced": [
+        "A főváros történelmi vízi közlekedési központja a Niger folyón.",
+        "A vízszint ingadozása miatt az év nagy részében korlátozottan működik.",
+        "A hagyományos fakéregből készült pinasse-ok (csónakok) bázisa.",
+        "Főként mezőgazdasági termékeket és fát szállítanak ide.",
+        "A Kandadji-gát elkészültével remélik a vízszint stabilizálását.",
+        "Kulturális és turisztikai csomópont is egyben."
+      ]
+    },
+    {
+      "id": "gaya-river-port-economic-v2",
+      "descriptionAdvanced": "Gaya folyami kikötője Niger legfontosabb déli vízi kapuja, amely közvetlenül a benini és nigériai határ közelében helyezkedik el. Mivel itt a Niger folyó vízhozama már jóval egyenletesebb, mint a fővárosnál, a kikötő egész évben kulcsszerepet játszik a regionális kereskedelemben és a halászatban. Számos dél-nigeri mezőgazdasági exportterméket innen indítanak útnak folyami hajókon a szomszédos országok piacaira. Földrajz K7 — határmenti vízi logisztika.",
+      "factsAdvanced": [
+        "Niger legdélebbi és legforgalmasabb folyami kikötője.",
+        "Közvetlen kapcsolatot biztosít Benin és Nigéria felé.",
+        "Egész évben magasabb vízállással rendelkezik, mint Niamey.",
+        "Fontos szerepet játszik a regionális mezőgazdasági exportban.",
+        "A helyi halászati iparág központi logisztikai bázisa.",
+        "Stratégiai fontosságú a tengerpart felé irányuló áruszállításban."
+      ]
+    },
+    {
+      "id": "malbaza-cement-plant-economic-v2",
+      "descriptionAdvanced": "A Malbazában található cementgyár (Société Nigérienne de Cimenterie, SNC) az ország építőiparának ékköve, amely függetleníti Nigert a drága import cementtől. A gyárat eredetileg az 1960-as években alapították a közeli hatalmas mészkőlelőhelyek kiaknázására, és az elmúlt években jelentős modernizáción esett át. A létesítmény nemcsak ipari munkahelyeket teremt Tahoua régióban, hanem elengedhetetlen a modern nigeri infrastruktúra és lakásépítések számára. Kémia K8 — cementgyártás és iparosodás.",
+      "factsAdvanced": [
+        "Niger első és legfontosabb hazai cementgyártó üzeme.",
+        "Hatalmas helyi mészkőbányára épül az 1960-as évek óta.",
+        "Modernizációja révén drasztikusan növelték a kapacitását.",
+        "Csökkenti az ország függőségét az import építőanyagoktól.",
+        "Jelentős számú ipari munkahelyet biztosít Tahoua régióban.",
+        "Az ország infrastrukturális fejlődésének (utak, hidak) alapja."
+      ]
+    },
+    {
+      "id": "diori-hamani-cargo-hub-economic-v2",
+      "descriptionAdvanced": "A niameyi Diori Hamani Nemzetközi Repülőtér teheráru-központja a magas értékű és sürgős import-export cikkek életvonalát jelenti az ország számára. Mivel Niger nem rendelkezik tengerparttal, és a szárazföldi szállítás heteket vehet igénybe, a repülőtéri árufuvarozás (cargo) elengedhetetlen a gyógyszerek, elektronikai cikkek és a külföldi missziók ellátmányának célba juttatásához. A létesítményt nemrégiben modernizálták a növekvő teherforgalom kiszolgálása érdekében. Gazdaságföldrajz K7 — légi árufuvarozás Afrikában.",
+      "factsAdvanced": [
+        "A tengerpart nélküli ország legfontosabb gyors áruszállítási csomópontja.",
+        "Létfontosságú gyógyszerek és érzékeny cikkek importjában.",
+        "A niameyi repülőtér dedikált cargo-termináljaként működik.",
+        "Jelentős szerepet játszik az exportált arany és kézműves áruk szállításában.",
+        "Nemzetközi humanitárius segélyek fő fogadóállomása.",
+        "Infrastruktúráját folyamatosan fejlesztik a növekvő igények miatt."
+      ]
+    },
+    {
+      "id": "goudel-water-plant-economic-v2",
+      "descriptionAdvanced": "A Goudel víztisztító mű a Niger folyó partján Niamey ivóvízellátásának dobogó szíve. A létesítmény hatalmas szivattyúkkal emeli ki a folyó vizét, amelyet összetett szűrési és tisztítási folyamatokon (ülepítés, klórozás) vezetnek keresztül, mielőtt a több mint egymilliós főváros hálózatába kerülne. A folyó alacsony vízállása a száraz évszakban komoly nyomást helyez a műszaki rendszerre, hogy fenn tudja tartani a vízellátást. Biológia és technika K8 — víztisztítási folyamatok.",
+      "factsAdvanced": [
+        "Niamey több mint egymillió lakosának fő ivóvízforrása.",
+        "Közvetlenül a Niger folyóból nyeri és tisztítja a vizet.",
+        "Összetett ülepítési és fertőtlenítési technológiát alkalmaz.",
+        "A száraz évszak alacsony vízállása komoly kihívást jelent.",
+        "Folyamatos bővítésekre szorul a város növekedése miatt.",
+        "A közegészségügy és járványvédelem legfontosabb bástyája."
+      ]
+    },
+    {
+      "id": "kandadji-dam-project-economic-v2",
+      "descriptionAdvanced": "A Tillabéritől északra épülő Kandadji-gát Niger történetének egyik leggrandiózusabb mérnöki projektje. A több évtizede tervezett komplexum hármas célt szolgál: hidroelektromos áramtermeléssel csökkenti az ország energiafüggőségét Nigériától, hatalmas víztározójával öntözhetővé tesz több tízezer hektárnyi mezőgazdasági területet, és egész évben biztosítja a Niger folyó minimális vízállását a főváros számára. A projekt társadalmi és ökológiai hatásai (például falvak áttelepítése) jelentősek. Földrajz K8 — megagátak és környezeti hatások.",
+      "factsAdvanced": [
+        "Niger legnagyobb folyamatban lévő infrastrukturális beruházása.",
+        "Célja a hidroelektromos áramtermelés és öntözés biztosítása.",
+        "Több tízezer hektárnyi sivatagi földet tesz termékennyé.",
+        "Egész évben stabilizálja a Niger folyó vízállását a fővárosig.",
+        "Megépítése több falu és állatélőhely áttelepítésével jár.",
+        "Jelentősen csökkenti az energiafüggőséget a szomszédos országoktól."
+      ]
+    },
+    {
+      "id": "gorou-banda-power-economic-v2",
+      "descriptionAdvanced": "A Gorou Banda hőerőmű Niamey mellett a főváros áramellátási válságának enyhítésére épült. Ez a modern, dízel- és nehézolaj-tüzelésű erőmű biztosítja a stabil energiát az áramszünetekkel sújtott ipari és lakossági szektor számára, különösen a forró évszakban, amikor az energiaigény a tetőfokára hág. Mivel az üzemanyagot drágán, külföldről vagy Zinderből kell ideszállítani, a hosszú távú tervek az erőmű részleges napenergiára való átalakítását is tartalmazzák. Fizika K7 — hőerőművek és energiabiztonság.",
+      "factsAdvanced": [
+        "Niamey legfontosabb helyi áramtermelő létesítménye.",
+        "Nehézolaj- és dízeltüzelésű technológiával működik.",
+        "Kritikus szerepe van az áramszünetek csökkentésében a fővárosban.",
+        "Az üzemanyagot hosszú logisztikai láncon keresztül kapja.",
+        "Segíti az ipari és kereskedelmi szektor stabil működését.",
+        "Tervek vannak a jövőbeni megújuló energiás integrációjára."
+      ]
+    },
+    {
+      "id": "bilma-salt-pans-economic-v2",
+      "descriptionAdvanced": "A Bilma-oázis szélén található hatalmas sólepárló medencék (kawar) több ezer éve a szaharai gazdaság motorjai. A helyiek hagyományos, kézi módszerekkel nyerik ki a sós talajvízből a natront (állati fogyasztásra) és az asztali sót, amelyet aztán jellegzetes, kúp alakú tömbökké (kantou) formálnak. A forró sivatagi nap energiáját használják az elpárologtatásra, a kész terméket pedig ma is részben tevekaravánok viszik a déli piacokra. Kémia K6 — sólepárlás és kristályosodás.",
+      "factsAdvanced": [
+        "Évezredes hagyománnyal bíró szaharai sólepárló központ.",
+        "A sós talajvizet felszíni medencékben (kawar) párologtatják el.",
+        "Natront és finom asztali sót is bányásznak kézi erővel.",
+        "A sót jellegzetes kúp vagy henger alakú tömbökké formálják.",
+        "Kiemelt állomása és célpontja a híres Azalai karavánoknak.",
+        "A termelés kizárólag a nap energiájára és a száraz szélre épül."
+      ]
+    }
+  ]
+}

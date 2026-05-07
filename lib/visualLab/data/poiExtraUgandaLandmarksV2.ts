@@ -24,7 +24,20 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2006-ban fejezték be az építését.", "Több mint 15 000 hívő befogadására alkalmas.", "Muammar Kadhafi finanszírozta.", "Egy 50 méter magas minarettel rendelkezik."],
       ro: ["Finalizată în 2006.", "Poate găzdui peste 15.000 de credincioși.", "Finanțată de Muammar Gaddafi.", "Are un minaret de 50 de metri înălțime."],
       en: ["Completed in 2006.", "Can accommodate over 15,000 worshippers.", "Funded by Muammar Gaddafi.", "Features a 50-meter-tall minaret."]
-    }, image: "/poi-images/ug-uganda-national-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/ug-uganda-national-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Uganda National Mosque, located on Old Kampala Hill, is a magnificent architectural landmark that serves as the headquarters of the Muslim faith in Uganda. Gifted by the late Libyan leader Muammar Gaddafi, the mosque offers breathtaking panoramic views of Kampala from its iconic minaret. It is a symbol of religious harmony and cultural richness in the heart of the city, frequently visited by tourists and locals alike for its spiritual and aesthetic appeal. Geography K7 — Religion and urban landmarks."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Commonly known as the Gaddafi Mosque.", "Offers the best panoramic view of Kampala from its minaret.", "Headquarters of the Uganda Muslim Supreme Council.", "Architecturally designed with a blend of regional and Middle Eastern influences.", "Constructed on the historic Old Kampala Hill.", "Major landmark of religious and cultural significance."]
+    }
+  },
   {
     id: "ug-namirembe-cathedral-landmarks-v2",
     type: "landmark",
@@ -47,7 +60,20 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1915 és 1919 között épült.", "Főként vörös téglából készült.", "10 000 fős gyülekezet befogadására alkalmas.", "Ez a negyedik templom ezen a helyen."],
       ro: ["Construită între 1915 și 1919.", "Fabricată în principal din cărămizi de pământ roșu.", "Are o capacitate de 10.000 de locuri.", "A patra clădire a bisericii pe acest loc."],
       en: ["Constructed between 1915 and 1919.", "Made primarily of red earth bricks.", "Seats a congregation of 10,000 people.", "The fourth church building on this site."]
-    }, image: "/poi-images/ug-namirembe-cathedral-landmarks-v2.webp"},
+    }, image: "/poi-images/ug-namirembe-cathedral-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Namirembe Cathedral, formally known as St. Paul's Cathedral Namirembe, is the oldest cathedral in Uganda and a cornerstone of the Anglican Church in the country. Standing proudly on Namirembe Hill, it has played a vital role in the history of education and Christianity in Uganda since the late 19th century. Its distinctive architectural style and historical importance make it a site of great spiritual and educational legacy. The cathedral remains an iconic symbol of the Anglican faith in East Africa. History K8 — History of Christianity."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The oldest cathedral in Uganda.", "Serves as the main seat of the Church of Uganda.", "Located on the historic Namirembe Hill.", "Founded in the late 19th century.", "Known for its distinctive and majestic architecture.", "Significant role in Uganda's educational development."]
+    }
+  },
   {
     id: "ug-rubaga-cathedral-landmarks-v2",
     type: "landmark",

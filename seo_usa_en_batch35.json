@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "denali-national-park-life-v2",
+      "descriptionAdvanced": "Denali National Park and Preserve in Alaska contains Denali, the highest peak in North America, rising to 20,310 feet above sea level. The park protects six million acres of pristine wilderness, featuring diverse ecosystems from low-elevation taiga forests to high-alpine tundra and massive glaciated mountain peaks. It is a critical sanctuary for 'the big five' of the Alaskan interior—grizzly bears, wolves, moose, caribou, and Dall sheep—making it a world-class laboratory for studying subarctic wildlife behavior and survival under extreme environmental conditions. The park represents a commitment to preserving an intact, massive wilderness where human influence is kept to a minimum, serving as a vital site for ongoing biological and geological research. Biologie K8 — Subarctic wilderness and megafauna survival.",
+      "factsAdvanced": [
+        "Protects Denali, the highest peak in North America at 20,310 feet.",
+        "Covers six million acres of pristine subarctic wilderness.",
+        "Home to 'the big five': grizzly bears, wolves, moose, caribou, and Dall sheep.",
+        "Diverse ecosystems ranging from taiga forests to high-alpine tundra.",
+        "Pioneering site for biological and geological research in extreme conditions.",
+        "A premier example of large-scale wilderness preservation and biodiversity."
+      ]
+    },
+    {
+      "id": "cedar-point-amusement-park-life-v2",
+      "descriptionAdvanced": "Cedar Point, located in Sandusky, Ohio, on a peninsula jutting into Lake Erie, is widely regarded as the 'Roller Coaster Capital of the World.' Since its inception in 1870, it has evolved into a global destination for thrill-seekers, consistently pushing the boundaries of engineering, speed, and height in ride technology. The park operates as a massive economic engine for the Great Lakes tourism sector, drawing millions of visitors who come to experience some of the tallest and fastest roller coasters ever built. Cedar Point stands as a monumental success in the amusement industry, demonstrating how intense engineering innovation and location-based entertainment can create a powerful, multi-generational cultural phenomenon in the American heartland. Wirtschaft K7 — Amusement innovation and tourism epicenters.",
+      "factsAdvanced": [
+        "Widely recognized as the 'Roller Coaster Capital of the World'.",
+        "Opened in 1870 and has grown into a global thrill-seeker destination.",
+        "Consistently pushes boundaries in engineering, speed, and ride height.",
+        "Massive economic driver for the Great Lakes tourism and hospitality sector.",
+        "Features some of the world's record-breaking roller coaster designs.",
+        "A monumental success in location-based American amusement and culture."
+      ]
+    },
+    {
+      "id": "california-central-valley-life-v2",
+      "descriptionAdvanced": "The Central Valley of California is one of the most productive agricultural regions in the world, serving as the essential 'breadbasket' for the United States and global markets. Spanning 450 miles between the coastal mountains and the Sierra Nevada, the valley produces a staggering variety of crops, including fruits, nuts, vegetables, and dairy, all facilitated by an immense, state-wide water irrigation system. Despite its incredible economic output, the region faces mounting challenges, including severe drought, groundwater depletion, and air quality concerns, which highlight the fragility of high-yield industrial farming. Today, it stands as a critical site for studying the tension between large-scale food security, agricultural modernization, and sustainable water policy. Landwirtschaft K8 — Industrial agriculture and irrigation sustainability.",
+      "factsAdvanced": [
+        "One of the most productive and essential agricultural regions on Earth.",
+        "Produces a staggering variety of fruits, nuts, vegetables, and dairy products.",
+        "Facilitated by an immense, state-wide water infrastructure and irrigation system.",
+        "Acts as a critical 'breadbasket' for the US and the global economy.",
+        "Faces severe long-term challenges in water availability and sustainability.",
+        "Central site for studying the future of large-scale food security."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tanganyika-lake-nature-v2",
+      "descriptionAdvanced": "Der Tanganjika-See ist das geographische Juwel Burundis und bildet die westliche Grenze des Landes. Als einer der tiefsten und ältesten Süßwasserseen der Welt beheimatet er eine außergewöhnliche Vielfalt an endemischen Fischarten. Das Ökosystem des Sees ist eng mit den klimatischen Bedingungen der gesamten Region verknüpft. Biologie K6 — aquatische Lebensräume.",
+      "factsAdvanced": [
+        "Maximaltiefe: Etwa 1.470 Meter",
+        "Alter des Sees: 9 bis 12 Millionen Jahre",
+        "Wichtigkeit: Zweittiefster See der Welt",
+        "Endemismus: Hunderte Arten von Buntbarschen",
+        "Lage: Im westlichen Grabenbruch",
+        "Bedeutung: Wichtigstes Süßwasserreservoir"
+      ]
+    },
+    {
+      "id": "ruzizi-river-nature-v2",
+      "descriptionAdvanced": "Der Ruzizi-Fluss ist ein zentraler Zufluss des Tanganjika-Sees und spielt eine vitale Rolle für das ökologische Gleichgewicht der Grenzregion zu Ruanda und der Demokratischen Republik Kongo. Sein Verlauf durch das Ruzizi-Tal schafft fruchtbare Schwemmlandböden, die reich an Sedimenten sind. Das Flussgebiet ist bekannt für seine Nilpferdpopulationen. Biologie K6 — Flusssysteme.",
+      "factsAdvanced": [
+        "Verlauf: Von Kivu-See zum Tanganjika-See",
+        "Länge: Etwa 117 Kilometer",
+        "Ökologie: Lebensraum für Nilpferde und Krokodile",
+        "Boden: Fruchtbares Schwemmland",
+        "Bedeutung: Grenzfluss zu DR Kongo",
+        "Wasserkraft: Potenzial zur Energiegewinnung"
+      ]
+    },
+    {
+      "id": "kibira-forest-nature-v2",
+      "descriptionAdvanced": "Der Kibira-Nationalpark erstreckt sich über den zentralen Bergkamm Burundis und schützt einen der letzten verbliebenen tropischen Bergregenwälder der Region. Er ist ein bedeutendes Schutzgebiet für eine Vielzahl von Primatenarten, darunter Schimpansen und Colobusaffen. Der Wald wirkt zudem als wichtiger Schwamm für den Wasserkreislauf der Region. Biologie K5 — Schutzgebiete.",
+      "factsAdvanced": [
+        "Fläche: Etwa 400 Quadratkilometer",
+        "Lebensraum: Bergregenwald",
+        "Primaten: Schimpansen, Colobusaffen",
+        "Funktion: Wasserspeicher für Burundi",
+        "Biodiversität: Hunderte Vogelarten",
+        "Lage: Zentraler Bergkamm"
+      ]
+    },
+    {
+      "id": "ruvubu-river-nature-v2",
+      "descriptionAdvanced": "Der Ruvubu-Fluss durchfließt den Osten Burundis und bildet das Rückgrat des Ruvubu-Nationalparks. Die Umgebung des Flusses bietet weitläufige Savannen- und Sumpflandschaften, die eine vielfältige Tierwelt beherbergen. Dieses Ökosystem ist für die Erhaltung der lokalen Biodiversität essentiell, besonders in den trockeneren Monaten des Jahres. Biologie K5 — Savannenökosysteme.",
+      "factsAdvanced": [
+        "Nationalpark: Ruvubu-Nationalpark",
+        "Landschaft: Savanne und Galeriewälder",
+        "Tierwelt: Büffel, Antilopen",
+        "Flusssystem: Wichtiger Zufluss des Kagera",
+        "Bedeutung: Schutzgebiet für bedrohte Arten",
+        "Lage: Östliches Burundi"
+      ]
+    },
+    {
+      "id": "heha-mountain-nature-v2",
+      "descriptionAdvanced": "Der Mount Heha ist mit seinen über 2.600 Metern die höchste Erhebung Burundis und ein markantes geographisches Merkmal in den Mitumba-Bergen. Die Gipfelregion weist eine hochmontane Vegetation auf, die an die kühlen Temperaturen und die hohe Sonneneinstrahlung angepasst ist. Aufgrund seiner Dominanz beeinflusst er das lokale Wettergeschehen maßgeblich. Geographie K7 — Hochgebirgsvegetation.",
+      "factsAdvanced": [
+        "Höhe: 2.684 Meter über dem Meeresspiegel",
+        "Gebirge: Mitumba-Berge",
+        "Vegetation: Hochmontane Graslandschaften",
+        "Wetter: Beeinflusst regionale Niederschläge",
+        "Klima: Kühl, alpinähnliche Bedingungen",
+        "Bedeutung: Höchster Punkt des Landes"
+      ]
+    }
+  ]
+}

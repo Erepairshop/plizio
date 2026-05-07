@@ -1,0 +1,689 @@
+{
+  "lang": "hu",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oran-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Orán, Algéria második legnagyobb városa, a Földközi-tenger partján fekszik, és 'a sugárzó városként' is ismert. Spanyol és oszmán hatásokkal teli történelme tükröződik a Santa Cruz-erődben és a hangulatos tereken. A város az algériai kultúra és zene egyik központja, híres a rai stílusról. Földrajz K7 — tengerparti városok és kikötők."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost andalúziai tengerészek alapították a 10. században.",
+          "A spanyolok 1509 és 1708 között uralták Oránt.",
+          "Itt született a Nobel-díjas Yves Saint Laurent.",
+          "Híres a Santa Cruz kápolnáról, amely egy dombtetőn áll.",
+          "A kikötő stratégiai jelentőségű a mediterrán térségben.",
+          "A város lakossága meghaladja a 1,5 millió főt.",
+          "Orán az algériai rai zene bölcsője."
+        ]
+      }
+    },
+    {
+      "id": "constantine-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Constantine, a 'hidak városa', drámai módon egy hatalmas sziklaplatón helyezkedik el, amelyet a Rhumel-folyó mély szurdoka szel ketté. A várost merész függőhidak kötik össze, amelyek lenyűgöző látványt nyújtanak a mélybe tekintőknek. Constantine Algéria egyik legrégebbi városa, amely már a numidák idején is fontos központ volt Cirta néven. Az oszmán és francia építészet emlékei harmonikusan keverednek a sziklák peremén. Történelem K7 — ókori városok és védelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város hét híres híddal rendelkezik.",
+          "Az Ahmed Bey-palota az oszmán építészet remekműve.",
+          "132-ben Konstantin császár építtette újjá.",
+          "A város magassága 640 méter a tengerszint felett.",
+          "Híres a hagyományos malouf zenei stílusáról.",
+          "Sidi M'Cid a világ egyik legszebb függőhídja.",
+          "A szurdok mélysége néhol eléri a 200 métert."
+        ]
+      }
+    },
+    {
+      "id": "annaba-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Annaba, a tengerparti kikötőváros, Algéria északkeleti részének ékköve, ahol az ókori Hippo Regius romjai találkoznak a modern tengerparti élettel. A várost buja hegyek és a tenger veszi körül, híres a Szent Ágoston-bazilikáról, amely egy dombtetőről vigyázza a környéket. Annaba gazdasági központ is, fontos acéliparral és kikötői forgalommal. A part menti sétányok és a vörös kőzetű sziklák különleges hangulatot adnak a városnak. Földrajz K7 — kikötővárosok és partvidékek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Itt található Hippo Regius, Szent Ágoston püspökségének székhelye.",
+          "Az El Hadjar acélmű Afrika egyik legnagyobbja.",
+          "A várost a franciák Bône-nak hívták.",
+          "Annaba Algéria negyedik legnagyobb városa.",
+          "Híres a 'L'Isle de Bône' nevű tengerparti szakaszáról.",
+          "A bazilikát 1900-ban szentelték fel.",
+          "A kikötő foszfát- és vasércexportra specializálódott."
+        ]
+      }
+    },
+    {
+      "id": "blida-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Blida, az 'atlaszi rózsák városa', a Tell-Atlasz lábánál, a termékeny Mitidja-síkság szélén fekszik. A várost illatos narancsligetek és rózsáskertek veszik körül, amelyek egykoron meghatározták a környék arculatát. Blida fontos vallási központ is, számos szentélyével és mecsetével. A közeli Chréa Nemzeti Park a sűrű cédruserdőivel és téli síelési lehetőségével vonzza a kikapcsolódni vágyókat. A város építészete a hagyományos arab és a gyarmati stílus elemeit ötvözi. Földrajz K7 — hegyvidéki városok és mezőgazdaság."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost Sid Ahmed el-Kebir andalúziai menekült alapította a 16. században.",
+          "A városfalaknak eredetileg hét kapuja volt.",
+          "Blida híres a mentateájáról és a helyi süteményeiről.",
+          "Chréa az egyik legmagasabb pont a tartományban (1500 m).",
+          "A város környékén található Algéria legfontosabb citrusültetvényeinek egy része.",
+          "Híres a tartósan hóval borított csúcsairól a téli hónapokban.",
+          "A település fontos katonai légibázisnak is otthont ad."
+        ]
+      }
+    },
+    {
+      "id": "batna-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Batna az Aurès-hegység kapuja, egy magas fekvésű modern város Kelet-Algériában. A település viszonylag fiatal, a 19. század közepén alapították katonai erődítményként, de ma már a régió lüktető gazdasági és oktatási központja. Batna környéke lenyűgöző történelmi emlékeket rejt, mint például Timgad és Lambaesis római romvárosai. A táj zord és fenséges, ahol a kopár hegycsúcsok és a mély völgyek váltják egymást. A város lakói büszkék berber gyökereikre és vendégszeretetükre. Történelem K7 — római városok és katonai építészet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város 1050 méteres magasságban fekszik a tengerszint felett.",
+          "Batnát 1844-ben alapították francia katonai támaszpontként.",
+          "Itt található a Batna 1 és Batna 2 egyetem.",
+          "A közeli Timgad az UNESCO Világörökség része.",
+          "A városban rendezik meg a nemzetközi Timgad fesztivált.",
+          "Híres a téli hidegről és a gyakori hóesésről.",
+          "A tartományban található a Ghoufi kanyon, Algéria 'Grand Canyonja'."
+        ]
+      }
+    },
+    {
+      "id": "djelfa-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Djelfa a Magas-fennsíkok és a Szahara találkozásánál fekvő stratégiai város, amely fontos csomópont észak és dél között. A város 1100 méter feletti magasságban terül el, így klímája száraz és szélsőséges. Djelfa híres állattenyésztéséről, különösen a juhtenyésztésről, amely a helyi piacok fő bevételi forrása. A város környéke gazdag neolitikumi sziklarajzokban, amelyek bizonyítják, hogy a terület már évezredekkel ezelőtt lakott volt. A táj képe a végtelen sztyeppékre és a távoli sziklás hegyekre fókuszál. Földrajz K7 — sztyeppei gazdálkodás és nomadizmus."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1852-ben alapították katonai bázisként.",
+          "Djelfa Algéria egyik legfontosabb juhpiacának ad otthont.",
+          "A környéken több mint 1000 őskori sziklarajzot regisztráltak.",
+          "Itt található az ország egyik legnagyobb börtönkomplexuma.",
+          "A téli hőmérséklet gyakran süllyed fagypont alá.",
+          "A város fontos vasúti megálló a transz-szaharai útvonalon.",
+          "Híres a hagyományos gyapjúszövésű takaróiról."
+        ]
+      }
+    },
+    {
+      "id": "setif-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Sétif a keleti Magas-fennsíkok fővárosa, Algéria egyik legdinamikusabb és legtisztább városa. A település híres a Park Mall bevásárlóközpontjáról és modern egyeteméről, valamint az ókori Sitifis római emlékeiről. Sétif az algériai nemzeti öntudat szempontjából is kiemelt jelentőségű, hiszen az 1945. május 8-i események egyik helyszíne volt. A város tágas sugárútjai, parkjai és szökőkútjai, mint a híres Ain El Fouara, európaias hangulatot kölcsönöznek a településnek. Sétif fontos ipari és kereskedelmi központ. Történelem K8 — újkori történelem és függetlenségi törekvések."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város tengerszint feletti magassága 1100 méter.",
+          "Az Ain El Fouara szökőkút a város szimbóluma, 1898-ban készült.",
+          "Sétif híres a kiváló minőségű búzájáról és tésztaiparáról.",
+          "Itt található Algéria egyik legnagyobb és legmodernebb vidámparkja.",
+          "A város római mozaikjai a helyi múzeum büszkeségei.",
+          "Sétif a 'Fekete Város' becenevet kapta a tragikus történelmi események után.",
+          "A helyi labdarúgócsapat, az ES Sétif, többszörös afrikai bajnok."
+        ]
+      }
+    },
+    {
+      "id": "sidi-bel-abbes-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Sidi Bel Abbès Algéria északnyugati részén fekszik, és egykoron a Francia Idegenlégió központjaként volt ismert. A várost 'a Maghreb Párizsaként' is emlegették szabályos, sugárirányú városszerkezete és elegáns épületei miatt. Ma a város fontos ipari és oktatási központ, különösen az elektronikai ipar terén tölt be vezető szerepet. Sidi Bel Abbès kulturális élete is gazdag, számos színházi és zenei fesztiválnak ad otthont. A várost körülvevő termékeny síkságok intenzív mezőgazdasági művelés alatt állnak. Földrajz K7 — ipari körzetek és várostervezés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1843-ban alapították a Mekerra-folyó partján.",
+          "1962-ig itt volt az Idegenlégió főhadiszállása.",
+          "Sidi Bel Abbès híres az elektronikai gyáráról (ENIE).",
+          "Itt található az ország egyik legmodernebb villamoshálózata.",
+          "A város a nevét egy helyi szentről, Sidi Bel Abbès el-Buzidiról kapta.",
+          "Híres a 'Petit Paris' stílusú kávézóiról és tereiről.",
+          "A környéken jelentős a gabona- és szőlőtermesztés."
+        ]
+      }
+    },
+    {
+      "id": "biskra-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Biskra, a 'Szahara kapuja', egy gyönyörű oázisváros, ahol a végtelen pálmaligetek találkoznak a sivatag forróságával. A város híres a világszerte ismert Deglet Nour datolyájáról, amely a helyi gazdaság alapját jelenti. Biskra klímája télen is kellemes, ami miatt már a gyarmati időkben is kedvelt üdülőhely volt. A várost az Aurès-hegység vonulatai védik az északi hideg szelektől. Biskra kénes termálforrásai, mint a Hammam Salihine, gyógyító erejükről ismertek. Földrajz K7 — oázisgazdálkodás és sivatagi klíma."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Biskra tartományban több mint 4 millió datolyapálma található.",
+          "Itt mérték Algéria egyik legmagasabb hőmérsékletét (50°C felett).",
+          "Biskra híres a 'Boussaadi' nevű hagyományos késeiről.",
+          "A várost a rómaiak Vescera néven ismerték.",
+          "Biskra oázisa az UNESCO bioszféra-rezervátum része.",
+          "Híres a helyi fűszeres konyhájáról, például a chakhchoukháról.",
+          "A város repülőtere fontos kapu a sivatagi régiók felé."
+        ]
+      }
+    },
+    {
+      "id": "tebessa-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tébessa Algéria legkeletibb nagyvárosa, a tunéziai határ közelében, amely az ókori Theveste romjaira épült. A város falai között ma is látható a monumentális Caracalla-diadalív és egy jól megőrzött római bazilika. Tébessa stratégiai fontosságát a közeli foszfátbányák adják, amelyek az ország egyik legfontosabb nyersanyagforrásai. A város gazdag történelmi múltja és modern ipari jellege különleges kontrasztot alkot. A táj hegyvidéki és erdős, ami ritkaság a régióban. Történelem K7 — határvédelem és római erődvárosok."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost Kr. u. 75-ben a Legio III Augusta alapította.",
+          "A Caracalla-diadalív Kr. u. 214-ben épült.",
+          "Tébessa városfalai bizánci eredetűek és ma is szinte épek.",
+          "A környékbeli foszfátbánya a világ egyik legnagyobbja.",
+          "A város egykor fontos püspöki székhely volt az ókorban.",
+          "Híres a hagyományos berber szőnyegeiről és kerámiáiról.",
+          "Tébessa tartomány magában foglalja az elszigetelt Negrine oázist is."
+        ]
+      }
+    },
+    {
+      "id": "el-oued-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "El Oued, az 'ezer kupola városa', a Grand Erg Oriental homoktengerének szívében fekszik. A város különlegessége az építészete: minden ház tetejét kis kupolák borítják, hogy segítsék a természetes szellőzést a perzselő hőségben. El Oued híres a 'Ghout' rendszerű pálmatermesztéséről, ahol a pálmákat mély gödrökbe ültetik, hogy gyökereik elérjék a talajvizet. A táj olyan, mintha a homokdűnék közül zöld körök törnének elő. A város piaca (souk) a régió legszínesebb és legmozgalmasabb kereskedelmi helyszíne. Földrajz K7 — sivatagi építészet és homokdűne-formák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város házait hagyományos vályogtéglából építik a kupolák alá.",
+          "El Oued híres a kézzel csomózott szőnyegeiről.",
+          "A kupolás tetők segítenek a napfény visszaverésében.",
+          "A tartományban több mint egy millió datolyapálma található.",
+          "A város közelében sós tavak (chottok) találhatók.",
+          "Híres a 'Karkabou' néven ismert tradicionális sivatagi zenéjéről.",
+          "A település neve arabul 'a folyót' jelenti."
+        ]
+      }
+    },
+    {
+      "id": "skikda-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Skikda, a korábbi Philippeville, Algéria északkeleti partvidékének fontos ipari és kikötővárosa. A város mélyvízi kikötője kulcsszerepet játszik a kőolaj és földgáz exportjában, valamint itt található az ország egyik legnagyobb finomító komplexuma. Skikda partvidéke azonban nemcsak ipari terület: gyönyörű strandjai és hegyi panorámája miatt népszerű turisztikai célpont is. A város építészetén érezhető a gyarmati hatás, tágas tereivel és színházával. Skikda híres az édes epertermeléséről is. Földrajz K7 — energiaipar és kikötői infrastruktúra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1838-ban alapították egy római kikötő helyén.",
+          "Skikda gázfinomítója az egyik legmodernebb Afrikában.",
+          "A város tengerpartja mentén több mint 20 km hosszan strandok találhatók.",
+          "Híres a minden évben megrendezett eper-fesztiválról.",
+          "A várost körülvevő dombokon paratölgy-erdők nőnek.",
+          "A kikötő éves forgalma meghaladja a 20 millió tonnát.",
+          "Az ókori Rusicada romjai a város alatt fekszenek."
+        ]
+      }
+    },
+    {
+      "id": "tiaret-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tiaret a Magas-fennsíkok nyugati részén fekszik, és Algéria 'lova fővárosaként' ismert, mivel itt található az ország legfontosabb arab telivér ménese. A város stratégiai fontosságú mezőgazdasági központ, ahol a gabonatermesztés és az állattenyésztés dominál. Tiaret történelme gazdag: a 8. században a Rusztamida-dinasztia fővárosa volt Tahert néven. A város környéke bővelkedik őskori emlékekben, mint például a Jeddar-piramisok, amelyek rejtélyes berber síremlékek. A táj dombos és sztyeppei jellegű. Történelem K7 — középkori iszlám dinasztiák és berber kultúra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város 1000 méteres magasságban fekszik.",
+          "Tiaret ad otthont a Chaouchaoua nemzeti ménesnek.",
+          "A Rusztamida főváros romjai 10 km-re találhatók a modern várostól.",
+          "A Jeddarok 13 monumentális síremlékből álló csoportja.",
+          "Tiaret híres a kiváló minőségű gyapjútermeléséről.",
+          "A város neve berberül 'oroszlánlányt' jelent.",
+          "Itt működik Algéria egyik legnagyobb traktorgyára."
+        ]
+      }
+    },
+    {
+      "id": "bejaia-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Béjaïa, a tenger és a hegyek találkozásánál fekvő történelmi kikötőváros, Algéria egyik legszebb települése. A várost a Gouraya-hegy őrzi, amelynek csúcsán egy régi erőd áll. Béjaïa a középkorban a Hammádida-dinasztia fényes fővárosa volt, és a tudományok, valamint a tengeri kereskedelem központjaként virágzott. Innen terjedtek el az arab számok Európa felé Leonardo Fibonacci közvetítésével. A város híres meredek utcáiról, a Cap Carbon világítótoronyról és a tengerparti barlangjairól. Történelem K7 — középkori tudományok és mediterrán kereskedelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost a rómaiak Saldae néven alapították.",
+          "Béjaïa kikötője Algéria legnagyobb olajkiviteli terminálja.",
+          "Itt található a Cap Carbon, a világ egyik legmagasabban fekvő világítótornya.",
+          "A város híres a parafa-feldolgozásáról.",
+          "Fibonacci Béjaïában ismerkedett meg az arab számrendszerrel.",
+          "A Gouraya Nemzeti Park a város közvetlen szomszédságában van.",
+          "Híres a 'Yemma Gouraya' nevű szent hegyéről."
+        ]
+      }
+    },
+    {
+      "id": "tlemcen-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tlemcen, az 'andalúz művészet algériai otthona', a Marokkói határ közelében fekvő elegáns város. Híres pazar iszlám építészetéről, mecsetjeiről és a Zianida uralkodók egykori palotájáról, az El Mechouarról. A városban az andalúziai menekültek kultúrája ma is élő, ami a zenében, a gasztronómiában és a kézművességben is megmutatkozik. Tlemcent gyakran hívják a 'Maghreb Granadájának'. A város környéke dús erdőkkel és vízesésekkel, mint például az Ourit-vízesés, várja a látogatókat. Művészettörténet K7 — iszlám művészet és andalúz örökség."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Tlemcen 1235 és 1554 között a Zianida királyság fővárosa volt.",
+          "A Nagymecset (Grande Mosquée) a 12. századból származik.",
+          "Itt található Sidi Boumediene mecsetje és sírja, aki a város védőszentje.",
+          "Híres a 'Chedda de Tlemcen' nevű hagyományos menyasszonyi öltözékéről.",
+          "A Beni Add barlang Algéria egyik legszebb cseppkőbarlangja.",
+          "Tlemcen híres az olajbogyó- és cseresznyetermeléséről.",
+          "A város tengerszint feletti magassága 800 méter."
+        ]
+      }
+    },
+    {
+      "id": "ouargla-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Ouargla a Szahara egyik legnagyobb és leggazdagabb oázisvárosa, amelyet az 'oázisok fővárosaként' is emlegetnek. A város élete két pilléren nyugszik: a több mint egy millió datolyapálmán és a környező hatalmas kőolaj- és gázmezőkön (Hassi Messaoud). Ouargla óvárosa (ksar) labirintusszerű utcáival és hagyományos vályogházaival őrzi a múlt hangulatát. A város fontos oktatási és kutatási központ a sivatagi mezőgazdaság terén. A tájképet a végtelen pálmaerdők és a modern olajipari létesítmények kontrasztja uralja. Földrajz K7 — energiaforrások és sivatagi urbanizáció."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Ouargla Algéria kőolaj- és gázipari központjának legközelebbi nagyvárosa.",
+          "Itt található az ország egyik legfontosabb sivatagi egyeteme (Kasdi Merbah).",
+          "A város ksarját 1980-ban nemzeti örökséggé nyilvánították.",
+          "Ouargla híres a kiváló minőségű sivatagi homokjáról.",
+          "A városban modern villamosvonal is működik a dűnék szélén.",
+          "Híres a 'Deglet Nour' mellett más, ritka datolyafajtákról is.",
+          "A település stratégiai katonai bázis a délkeleti régió védelmére."
+        ]
+      }
+    },
+    {
+      "id": "bechar-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Béchar Algéria délnyugati részének legfontosabb városa, amely a Szahara szélén, a marokkói határ közelében fekszik. A város fontos katonai és kereskedelmi központ, amely összeköti az északi területeket a távoli déli oázisokkal. Béchar környéke híres szénbányáiról és az utóbbi években fellendülő gázkitermeléséről. A város építészete modern, de a környező oázisok, mint például Kenadsa, megőrizték tradicionális jellegüket. Béchar fontos kulturális bástya is, híres a helyi sivatagi blues és gnawa zenei stílusairól. Földrajz K7 — bányászat és sivatagi logisztika."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1905-ben alapították francia katonai állomásként (Colomb-Béchar).",
+          "Itt található Algéria egyik legnagyobb katonai repülőtere.",
+          "Béchar tartomány híres a 'Djoumouh' nevű hagyományos sivatagi versenyeiről.",
+          "A város fontos állomás a transz-szaharai vasútvonalon.",
+          "A közeli Kenadsában található az ország egyik legrégebbi szénbányája.",
+          "Híres a mentateájáról és a sivatagi vendégszeretetéről.",
+          "A tartományban fekszik a Saoura-völgy, amely lenyűgöző oázisok sorát rejti."
+        ]
+      }
+    },
+    {
+      "id": "mostaganem-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Mostaganem egy festői kikötőváros Algéria északnyugati partján, amely híres kulturális életéről és gyönyörű strandjairól. A várost a Cheliff-folyó torkolata közelében alapították, és hosszú ideig fontos kereskedelmi és vallási központ volt. Mostaganem ma népszerű nyaralóhely, ahol a modern üdülőkomplexumok és a történelmi negyedek jól megférnek egymás mellett. A város híres a hagyományos 'Aïssaoua' zenei és misztikus hagyományairól. A környék mezőgazdasága is jelentős, különösen a citrusfélék és a bortermelés terén. Földrajz K7 — tengerparti turizmus és mezőgazdaság."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost a 11. században alapították a berberek.",
+          "Mostaganem híres a 'Salamandre' nevű tengerparti negyedéről.",
+          "Itt található az ország egyik legfontosabb agrár-tudományi egyeteme.",
+          "A város kikötője gázexportra is alkalmas.",
+          "Híres a 'Khadra' nevű helyi labdarúgócsapatról.",
+          "A várost a spanyolok és a törökök is uralták története során.",
+          "Itt rendezik meg a nemzetközi amatőr színházi fesztivált."
+        ]
+      }
+    },
+    {
+      "id": "bordj-bou-arreridj-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bordj Bou Arreridj az algériai elektronikai ipar fellegvára, egy dinamikusan fejlődő város a keleti Magas-fennsíkokon. A település stratégiai elhelyezkedése Algír és Constantine között tette lehetővé a gyors iparosodást. A városban számos hazai és nemzetközi technológiai cég működik, ami miatt gyakran nevezik 'Algéria Szilícium-völgyének'. Bordj Bou Arreridj környéke termékeny mezőgazdasági terület is, ahol a gabonatermesztés dominál. A város építészete modern és praktikus, tükrözve a gazdasági növekedést. Földrajz K7 — ipari fejlesztés és városi növekedés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost egy 18. századi oszmán erőd (bordj) körül alakították ki.",
+          "Itt gyártják az országos elektronikai termékek jelentős részét.",
+          "A város tengerszint feletti magassága 900 méter.",
+          "Bordj Bou Arreridj híres a korszerű ipari parkjairól.",
+          "A tartományban található a Bibans-hegység, híres szorosával (Iron Gates).",
+          "A város lakossága az utóbbi évtizedekben robbanásszerűen nőtt.",
+          "Híres a kiváló minőségű hús- és tejtermékeiről."
+        ]
+      }
+    },
+    {
+      "id": "chlef-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Chlef (korábban El Asnam) a termékeny Cheliff-völgy központja, Algéria egyik legfontosabb mezőgazdasági városa. A várost története során többször sújtották pusztító földrengések, legutóbb 1980-ban, ami után szinte teljesen újjáépítették modern, rengésbiztos stílusban. Chlef környéke Algéria 'narancskertje', ahol intenzív öntözéses gazdálkodás folyik. A város fontos közlekedési csomópont az ország észak-déli és kelet-nyugati útvonalainak találkozásánál. A település egyetemi várossá is vált, fiatalos energiát adva a régiónak. Földrajz K7 — szeizmikus kockázatok és folyóvölgyi gazdálkodás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost a rómaiak Castellum Tingitanum néven ismerték.",
+          "Az 1980-as földrengés a Richter-skála szerint 7,3-as erősségű volt.",
+          "Chlef híres a kiváló minőségű narancsáról és citromáról.",
+          "Itt található az ország egyik legrégebbi keresztény templomának romja.",
+          "A város a Cheliff-folyó partján fekszik, amely Algéria leghosszabb folyója.",
+          "A tartomány tengerparti szakasza, Ténès, népszerű üdülőhely.",
+          "A város egyeteme a tudományos kutatásokra fókuszál."
+        ]
+      }
+    },
+    {
+      "id": "souk-ahras-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Souk Ahras, az ókori Tagaste, Szent Ágoston szülővárosa, a tunéziai határ közelében fekvő erdős hegyvidéki település. A város gazdag történelmi örökséggel rendelkezik, már a numidák és a rómaiak idején is fontos kulturális központ volt. A tájat dús parafa tölgyerdők és fenyvesek borítják, ami friss és tiszta levegőt biztosít a lakóknak. Souk Ahras gazdasága a mezőgazdaságra, a fakitermelésre és a határmenti kereskedelemre épül. A városban ma is látható az az ősi olajfa, amely alatt a legenda szerint Szent Ágoston meditált. Történelem K7 — ókori szellemi központok és vallástörténet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Itt született Kr. u. 354-ben Hippói Szent Ágoston.",
+          "A város tengerszint feletti magassága 650 méter.",
+          "Híres az ősi olajfájáról, amely több mint 1600 éves.",
+          "Souk Ahras tartomány az ország egyik legcsapadékosabb vidéke.",
+          "A várost a franciák Souk-Ahras néven erődítették meg.",
+          "Híres a hagyományos berber ékszereiről.",
+          "A közeli Madaure romvárosa szintén fontos kulturális emlékhely."
+        ]
+      }
+    },
+    {
+      "id": "medea-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Médéa az Atlasz-hegység szívében, stratégiai hágóknál fekvő történelmi város, amely egykoron az algíri bég helytartójának székhelye volt. A város híres kiváló klímájáról, tiszta forrásvizéről és buja gyümölcsöskertjeiről, különösen a cseresznyéjéről és a szőlőjéről. Médéa építészetében keverednek az oszmán, az andalúz és a francia stílusjegyek. A város fontos vallási központ is, híres zaouiáiról (misztikus iskoláiról). A környező hegyek, mint a Djebel Mouzaïa, lenyűgöző túraútvonalakat kínálnak. Földrajz K7 — hegyvidéki klíma és várostörténet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Médéa volt a Titteri bejlik fővárosa az oszmán korban.",
+          "A várost 1840-ben foglalták el a franciák nagy csaták után.",
+          "Híres az évente megrendezett cseresznye-fesztiválról.",
+          "A város magassága meghaladja a 900 métert.",
+          "Médéa borai a gyarmati időkben világhírűek voltak.",
+          "Itt található a híres 'Chiffa-szurdok' (Gorges de la Chiffa) bejárata.",
+          "A város neve a latin 'Lamdia' elnevezésből ered."
+        ]
+      }
+    },
+    {
+      "id": "el-eulma-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "El Eulma, Sétif közelében, Algéria egyik legfontosabb kereskedelmi és nagykereskedelmi központja, amelyet gyakra 'Algéria Dubai-jaként' is emlegetnek. A város élete a hatalmas piacok és üzleti negyedek körül forog, ahol az egész országból érkező kereskedők cserélnek gazdát iparcikkekkel, elektronikai eszközökkel és ruházattal. El Eulma dinamikus növekedése a magánszektor vállalkozó szellemének köszönhető. A város emellett fontos oktatási központ is, modern infrastruktúrával. A környék mezőgazdasága a gabonatermesztésre fókuszál. Földrajz K7 — kereskedelmi csomópontok és piaci dinamika."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost korábban Saint-Arnaud-nak hívták a francia korszakban.",
+          "A 'Dubai' piac a város legnagyobb és leghíresebb kereskedelmi zónája.",
+          "El Eulma híres a helyi ipari vállalkozásairól is.",
+          "A város tengerszint feletti magassága 950 méter.",
+          "Itt található a régió egyik legfontosabb logisztikai központja.",
+          "A település lakossága az elmúlt 20 évben megduplázódott.",
+          "Híres a tradicionális algériai vendéglátásáról a kereskedők felé."
+        ]
+      }
+    },
+    {
+      "id": "touggourt-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Touggourt egy ősi oázisváros az algériai Szahara északkeleti részén, amely évszázadokon át a szultánság székhelye volt. A város híres a monumentális szultáni síremlékéről és a 'M'zab' stílusú építészetéről. Touggourt ma fontos gazdasági központ, különösen az olajipar (Hassi Messaoud közelsége) és a minőségi datolyatermesztés terén. A város ksarja (óvárosa) szűk, fedett utcáival menedéket nyújt a sivatagi nap elől. A tájképet a végtelen homokdűnék és a buja pálmaligetek határozzák meg. Történelem K7 — sivatagi szultánságok és karavánutak."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Touggourt volt a Touggourt-i Szultánság fővárosa 1414 és 1854 között.",
+          "Itt található a szultánok mauzóleuma, amely fontos zarándokhely.",
+          "A város híres a 'Deglet Nour' datolyájáról.",
+          "A település fontos vasúti végállomás a sivatag peremén.",
+          "Híres a 'Fantasia' lovasbemutatóiról.",
+          "A várost homokfogó kerítésekkel védik az elsivatagosodástól.",
+          "A Touggourt-i piac híres a sivatagi kézműves termékeiről."
+        ]
+      }
+    },
+    {
+      "id": "ghardaia-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Ghardaïa a M'zab-völgy ötfalu-szövetségének központja, az UNESCO Világörökség része, amely egyedülálló városszerkezetéről és puritán vallási hagyományairól ismert. A domboldalra épült, piramis alakú város a tetején álló mecsettel és minarettel a sivatagi építészet mesterműve. Ghardaïa lakói, a mozabiták, szigorú közösségi szabályok szerint élnek, megőrizve ősi szokásaikat és nyelvüket. A város híres színes piacáról, kézzel szőtt szőnyegeiről és az ötletes öntözőrendszeréről, amely évszázadok óta élteti az oázist. Földrajz K7 — világörökségi oázisok és tradicionális közösségek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1048-ban alapították az ibádita muszlimok.",
+          "A M'zab-völgy öt erődített városból (kszur) áll.",
+          "Ghardaïa építészete ihlette Le Corbusier-t, a modern építészet atyját.",
+          "Híres a nők fehér lepleiről, amelyből csak az egyik szemük látszik ki.",
+          "A város piacán tilos a dohányzás és a hangoskodás.",
+          "Az oázisban több mint 60 000 datolyapálma található.",
+          "A házakat úgy építik, hogy természetes hűtést biztosítsanak."
+        ]
+      }
+    },
+    {
+      "id": "saida-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Saïda a Magas-fennsíkok és a Szaharai-Atlasz találkozásánál fekvő város, amelyet 'a vizek városaként' is emlegetnek bőséges forrásai és patakjai miatt. A várost meredek sziklafalak és zöldellő völgyek veszik körül, ami különleges látványt nyújt. Saïda stratégiai fontosságú volt a francia hódítás elleni ellenállásban, itt volt Abd el-Káder emír egyik bázisa. A város ma fontos mezőgazdasági és könnyűipari központ, híres a ásványvizéről is. A táj sztyeppei és hegyvidéki jellegű, ideális az állattenyésztéshez. Történelem K8 — az algériai ellenállás és Abd el-Káder emír."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Saïda tengerszint feletti magassága 850 méter.",
+          "Itt található Algéria egyik legismertebb ásványvíz-palackozója.",
+          "A várost 1844-ben alapították a franciák egy korábbi erőd helyén.",
+          "Saïda híres a tradicionális arab lovas íjászatáról.",
+          "A környékbeli barlangokban paleolitikumi leleteket találtak.",
+          "A város egyeteme a technológiai képzésekre specializálódott.",
+          "Híres a 'Hammam Rabbi' nevű gyógyhatású termálforrásáról."
+        ]
+      }
+    },
+    {
+      "id": "laghouat-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Laghouat a Szaharai-Atlasz déli lábánál fekvő stratégiai oázisváros, amelyet gyakran a 'Szahara kapujaként' vagy az 'Oázisok előszobájaként' neveznek. A város fekvése különleges: két hegy közé ékelődve vigyázza az észak-déli irányú útvonalakat. Laghouat híres buja kertjeiről, narancs- és gránátalma-ligeteiről, valamint a közeli Hassi R'Mel gázmezőről, amely Algéria és a világ egyik legnagyobbja. A város építészete ötvözi a modern városrészeket a történelmi kszárok (erődített negyedek) maradványaival. Földrajz K7 — energiaforrások és sivatagi határvárosok."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város neve arabul 'kerteket' vagy 'oázisokat' jelent.",
+          "Itt található a Sonatrach gázipari központja.",
+          "Laghouat tengerszint feletti magassága 750 méter.",
+          "A várost 1852-ben foglalták el a franciák egy véres ostrom után.",
+          "Híres a tradicionális szövőművészetéről és bőrdíszműveiről.",
+          "A környéken található a 'Kéreg-hegy', amely különleges geológiai képződmény.",
+          "A városban modern egyetemi kampusz és kórház működik."
+        ]
+      }
+    },
+    {
+      "id": "msila-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "M'Sila a Hodna-régió központja, a Magas-fennsíkok és a sóstavas medencék találkozásánál fekszik. A város gazdasága a mezőgazdaságra, különösen a gabonatermesztésre és az állattenyésztésre épül, de jelentős az ipari jelenlét is, például az elektromos berendezések gyártása terén. M'Sila közelében található a híres Qal'a von Beni Hammad romvárosa, amely az UNESCO Világörökség része és az egykori Hammádida-birodalom első fővárosa volt. A táj sík és sztyeppei, ahol a láthatáron a Chott el Hodna sós tava csillog. Történelem K7 — középkori berber birodalmak és építészet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 941-ben alapították a fátimidák.",
+          "Itt található Algéria egyik legnagyobb naperőműve.",
+          "A közeli Qal'a von Beni Hammad a 11. században épült.",
+          "M'Sila híres a juhtenyésztéséről és a minőségi gyapjúról.",
+          "A város tengerszint feletti magassága 440 méter.",
+          "A Chott el Hodna egy hatalmas, időszakos sós tó a közelben.",
+          "Híres a 'Boussaadi' stílusú tradicionális kézművességéről."
+        ]
+      }
+    },
+    {
+      "id": "jijel-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Jijel egy lenyűgöző tengerparti város Algéria északkeleti részén, ahol a meredek hegyek közvetlenül a Földközi-tengerbe szakadnak. A város híres festői öbleiről, a 'Vörös-partról' és a környező dús erdőkről. Jijel története a föníciaiakig nyúlik vissza, és a Barbarossa testvérek kalózbirodalmának is fontos bázisa volt. Ma a város a turizmus mellett fontos ipari kikötővel rendelkezik (Djendjen), és híres a tengeri ételeiről, különösen a szardíniájáról. A közeli Taza Nemzeti Park ritka állatfajoknak ad otthont. Földrajz K7 — tengerparti felszínformák és kikötői forgalom."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost a föníciaiak alapították Igilgili néven.",
+          "Itt található Algéria legmélyebb vízű kikötője, a Djendjen.",
+          "Jijel híres a 'Grottes Merveilleuses' nevű cseppkőbarlangjairól.",
+          "A várost az 1856-os földrengés szinte teljesen elpusztította.",
+          "Híres az édes kék halászati zónájáról.",
+          "A környéken él a ritka kabyl csuszka (madárfaj).",
+          "A város tengerparti sétánya az egyik leghosszabb az országban."
+        ]
+      }
+    },
+    {
+      "id": "relizane-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Relizane a termékeny Mina-völgyben fekszik, Algéria nyugati részén, és az ország egyik legfontosabb mezőgazdasági és ipari elosztó központja. A város a római kori Mina romjaira épült, és mindig is fontos állomás volt az Orán és Algír közötti úton. Ma Relizane híres a textiliparáról és az élelmiszer-feldolgozásáról, valamint a környező hatalmas gyapot- és gabonatáblákról. A város modernizációja során nagy hangsúlyt fektettek az infrastruktúra fejlesztésére. A tájképet a rendezett szántóföldek és a távoli Dahra-hegység vonulatai határozzák meg. Földrajz K7 — mezőgazdasági termelési körzetek és szállítás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1852-ben alapították a franciák.",
+          "Relizane híres az algériai autó-összeszerelő üzemeiről (például Volkswagen).",
+          "A Mina-folyó biztosítja a mezőgazdasági területek öntözését.",
+          "A tartomány az ország egyik vezető pamuttermelője.",
+          "Itt található a Sidi M'hamed Benaouda zaouia, egy fontos vallási hely.",
+          "A város tengerszint feletti magassága 90 méter.",
+          "Híres a tradicionális lovas fesztiváljairól (Waada)."
+        ]
+      }
+    },
+    {
+      "id": "guelma-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Guelma egy történelmi ékkő Algéria északkeleti részén, amely leginkább a lenyűgözően helyreállított római színházáról és termálforrásairól híres. Az ókori Calama romjai ma a város szívében találhatók, tanúskodva a római jólétről. Guelma környéke bővelkedik természeti csodákban, mint például a Hammam Debagh, ahol a világ egyik legforróbb forrása hatalmas mésztufa-formációkat hozott létre. A város fontos mezőgazdasági központ is, híres a paradicsom- és gabonatermesztéséről. Történelem K7 — római szórakoztató építészet és ókori városok."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A római színház 4500 néző befogadására alkalmas és ma is használják.",
+          "Hammam Debagh forrása 95°C-os vizet lövell ki.",
+          "Guelma Szent Ágoston barátjának, Possidiusnak a püspöki székhelye volt.",
+          "A város az 1945. május 8-i mészárlások egyik tragikus helyszíne volt.",
+          "Híres a kiváló minőségű márványbányáiról.",
+          "A város neve a berber 'Guelman' törzsből ered.",
+          "A tartományban jelentős a parafa-feldolgozás."
+        ]
+      }
+    },
+    {
+      "id": "ain-beida-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Aïn Beïda, az 'fehér forrás városa', Oum El Bouaghi tartomány legnagyobb és legnépesebb települése. A Magas-fennsíkokon fekvő város fontos kereskedelmi és oktatási központ, amely összeköti Constantine-t és Tebessát. A város gazdasága a kereskedelemre, az állattenyésztésre és a feltörekvő könnyűiparra épül. Aïn Beïda híres a kulturális életéről, számos író és művész származik innen. A környék sztyeppei tája ideális a juhtenyésztéshez, ami a helyi piacok fő terméke. Földrajz K7 — belső vándorlás és városi elosztó szerep."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1848-ban alapították egy fontos forrás mellett.",
+          "Aïn Beïda híres a tradicionális algériai ékszerek kereskedelméről.",
+          "A város tengerszint feletti magassága 1000 méter.",
+          "Itt található az ország egyik legrégebbi és leghíresebb gimnáziuma.",
+          "Híres a 'Harakta' berber törzsi hagyományairól.",
+          "A városban jelentős a búza- és árpareprodukció.",
+          "A település neve a kristálytiszta forrásvizére utal."
+        ]
+      }
+    },
+    {
+      "id": "khenchela-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Khenchela az Aurès-hegység szívében fekszik, és a berber ellenállás egyik történelmi központja. A város híres a közeli Hammam Essalihine római kori termálfürdőjéről, amely több mint 2000 éve folyamatosan üzemel. Khenchela tája vadregényes, fenyvesekkel és cédruserdőkkel borított hegyekkel, amelyek télen gyakran hófödte csúcsokat mutatnak. A város gazdasága az erdőgazdálkodásra, a mezőgazdaságra és a kézművességre épül. A lakók büszkén őrizik a kabil és sawi berber kultúrát. Történelem K7 — berber királyságok és római fürdőkultúra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Hammam Essalihine-ben két kerek római medence ma is használatban van.",
+          "Khenchela 1200 méteres magasságban fekszik.",
+          "A város környéke volt Dihya (Kahina) berber királynő egyik bázisa.",
+          "Híres a kiváló minőségű mézéről és diójáról.",
+          "A tartományban található a Chelia-csúcs, Észak-Algéria legmagasabb pontja.",
+          "Khenchela fontos központja az algériai cédrusfának.",
+          "A város neve a numida Mascula elnevezésből ered."
+        ]
+      }
+    },
+    {
+      "id": "bousaada-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bou Saâda, a 'boldogság városa', a Szahara északi peremén fekvő festői oázis. A város híres volt művészeti életéről, számos francia és nemzetközi festőt, köztük Étienne Dinet-t is megihletett a táj fénye és színei. Bou Saâda építészete a sárgás vályogfalakkal és pálmaligetekkel az igazi sivatagi romantikát idézi. A város ma fontos turisztikai célpont, híres kézműves termékeiről, különösen a tradicionális késeiről. A közeli homokdűnék és a 'Moulin Ferrero' vízesés népszerű kirándulóhelyek. Vizuális kultúra K7 — sivatagi fények és orientalista festészet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Étienne Dinet itt tért át az iszlám hitre és itt van eltemetve.",
+          "Bou Saâda híres a 'Boussaadi' nevű kézzel kovácsolt késekről.",
+          "A várost 1849-ben alapították a franciák.",
+          "Itt található a Nasreddine Dinet Nemzeti Múzeum.",
+          "A város egykoron az algériai filmgyártás egyik kedvelt helyszíne volt.",
+          "Híres a 'Naili' berber törzs táncairól és zenéjéről.",
+          "Az oázist az ued Bou Saâda folyó táplálja."
+        ]
+      }
+    },
+    {
+      "id": "mascara-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Mascara az algériai függetlenségi harc egyik legfontosabb városa, Abd el-Káder emír egykori fővárosa. A város egy termékeny fennsíkon fekszik, és híres a kiváló minőségű boráról és mezőgazdasági termékeiről. Mascara építészetén mély nyomot hagyott az emír korszaka, számos történelmi emlékhely, mint például az emír mecsetje, ma is látogatható. A város környéke intenzív mezőgazdasági művelés alatt áll, híres a gyümölcsöskertjeiről. Mascara lakói büszkék a nemzeti hősükre és a város szabadságszerető múltjára. Történelem K8 — az algériai államiság kezdetei és Abd el-Káder."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Mascara 1832 és 1841 között volt az emír államának fővárosa.",
+          "A város neve arabul 'katonai tábort' jelent.",
+          "Mascara híres az asztali szőlőjéről és a bortermeléséről.",
+          "Itt található az emír egykori lakóháza és kincstára.",
+          "A város tengerszint feletti magassága 550 méter.",
+          "Mascara fontos vasúti és közúti csomópont Nyugat-Algériában.",
+          "Híres a tradicionális 'Fantasia' lovasbemutatóiról."
+        ]
+      }
+    },
+    {
+      "id": "tindouf-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tindouf Algéria legtávolabbi délnyugati városa, amely a Szahara mélyén, a mauritániai, marokkói és nyugat-szaharai határ találkozásánál fekszik. A város stratégiai és geopolitikai jelentősége óriási, mivel itt találhatók a nyugat-szaharai menekülttáborok is. Tindouf környéke hatalmas vasérckészletekkel rendelkezik (Gara Djebilet), amelyek kitermelése az ország jövőbeli gazdaságának egyik kulcsa. A táj zord és sivatagi, végtelen homokmezőkkel és sziklás platókkal. A város élete a kereskedelemre és a katonai logisztikára épül. Földrajz K8 — geopolitika és sivatagi bányászat."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1852-ben alapították a Tadjakant törzs tagjai.",
+          "Tindouf közelében találhatók a Szaharavi menekülttáborok.",
+          "A Gara Djebilet vasbánya készleteit több milliárd tonnára becsülik.",
+          "A nyári hőmérséklet rendszeresen meghaladja a 45°C-ot.",
+          "A város repülőtere az egyetlen stabil összeköttetés az északi országrészekkel.",
+          "Híres a 'Moussem' nevű hagyományos sivatagi fesztiváljáról.",
+          "A vízellátást mélyfúrású artézi kutak biztosítják."
+        ]
+      }
+    },
+    {
+      "id": "adrar-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Adrar a Touat-oáziscsoport központja a központi Szaharában, híres vörös vályogépítészetéről és a 'foggara' nevű ősi öntözőrendszeréről. A város épületei a szudáni stílus jegyeit hordozzák, díszes falaikkal és belső udvaraikkal. Adrar fontos energetikai központ, a környező gázmezők és az ottani naperőművek Algéria energiaellátásának fontos pillérei. A város piaca a sivatagi kereskedelem lüktető szíve, ahol a datolya és a kézműves termékek cserélnek gazdát. Adrar híres a vallási iskoláiról és a misztikus szúfi hagyományairól. Földrajz K7 — sivatagi vízgazdálkodás és napenergia."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Adrar a 'Vörös Város' nevet kapta az épületei színe miatt.",
+          "A foggara rendszer kilométereken át vezeti a vizet a föld alatt a pálmákhoz.",
+          "Itt található az ország egyik legnagyobb kísérleti naperőműve.",
+          "A tartományban több mint 100 oázis-település található.",
+          "Adrar híres a 'Baroud' nevű tradicionális puskaporos táncáról.",
+          "A város tengerszint feletti magassága 260 méter.",
+          "A Touat-régió fontos megálló volt az ókori arany- és sókaravánok útján."
+        ]
+      }
+    },
+    {
+      "id": "tamanrasset-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tamanrasset, a 'Szahara fővárosa', a lenyűgöző Hoggar-hegység szívében fekszik, több mint 1300 méteres magasságban. A várost vöröses sziklák és kialudt vulkáni kúpok veszik körül, ami misztikus hangulatot kölcsönöz a tájnak. Tamanrasset a tuareg kultúra központja, ahol a 'kék emberek' (a tuareg férfiak a kék lepleik miatt) ma is őrzik nomád hagyományaikat és zenéjüket. A város fontos bázis a Szaharát átszelő expedíciók és az Assekrem-fennsíkra indulók számára. A klíma itt a magasság miatt jóval enyhébb, mint a sivatag más részein. Földrajz K7 — magashegységi sivatagi tájak és tuareg kultúra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város eredetileg Charles de Foucauld remetelakának közelében alakult ki.",
+          "A Hoggar-hegység legmagasabb pontja, a Tahat-hegy (2908 m) a közelben van.",
+          "Tamanrasset híres a 'Tindi' nevű tuareg női énekekről.",
+          "A városban minden évben megrendezik a nemzetközi sivatagi fesztivált.",
+          "Itt található a tuareg ékszerek egyik legfontosabb piaca.",
+          "Az éjszakai hőmérséklet télen gyakran fagypont alá süllyed.",
+          "A város fontos tranzitpont Niger és Mali felé."
+        ]
+      }
+    },
+    {
+      "id": "bouira-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bouira a Djurdjura-hegység déli lábánál fekvő stratégiai város, amely összeköti Algírt a Kabilia régióval és a keleti országrésszel. A város környéke Algéria egyik legfontosabb mezőgazdasági területe, híres az olajbogyó-ligeteiről, szőlőiről és gabonatábláiról. Bouira fontos ipari központ is, modern gyárakkal és logisztikai parkokkal. A város közvetlen közelében található a Tikjda üdülőhely, amely télen síközpontként, nyáron pedig túraparadicsomként funkcionál. A táj változatos: a termékeny síkságok felett a Djurdjura hófödte csúcsai magasodnak. Földrajz K7 — hegyvidéki gazdálkodás és közlekedési folyosók."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1871-ben alapították a franciák.",
+          "Bouira híres a kiváló minőségű olívaolajáról.",
+          "A tartományban található Algéria legnagyobb gátjainak egyike (Tilesdit).",
+          "Tikjda a cédruserdőiről és a berber makákóiról ismert.",
+          "A város fontos állomás az Algír-Constantine vasútvonalon.",
+          "Híres a tradicionális kabil kerámiáiról.",
+          "A város tengerszint feletti magassága 520 méter."
+        ]
+      }
+    },
+    {
+      "id": "tissemsilt-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tissemsilt az Ouarsenis-hegység szívében fekvő csendes és festői város, amely a környék mezőgazdasági életének központja. A város híres a közeli Theniet El Had Nemzeti Parkról, amelyet 'cédrus-oázisként' is emlegetnek hatalmas, ősi cédruserdői miatt. Tissemsilt környéke fontos gabonatermelő vidék, ahol a dombos tájat aranyló búzatáblák borítják. A város építészete egyszerű és harmonizál a környező természettel. A lakók büszkék a vendégszeretetükre és a környék tiszta, hegyi levegőjére. Földrajz K7 — erdőgazdálkodás és szántóföldi művelés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost korábban Vialar-nak hívták a francia korszakban.",
+          "Theniet El Had volt Algéria első nemzeti parkja (1923).",
+          "A város neve berberül 'naplementét' jelent.",
+          "Tissemsilt tartomány az ország egyik legfontosabb juh- és kecsketenyésztő vidéke.",
+          "A környéken számos gyógyhatású forrás található.",
+          "A város magassága 900 méter a tengerszint felett.",
+          "Híres a tradicionális szövött gyapjútermékeiről."
+        ]
+      }
+    }
+  ]
+}

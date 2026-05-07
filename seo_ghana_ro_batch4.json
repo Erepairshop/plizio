@@ -1,0 +1,310 @@
+{
+  "lang": "ro",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghana-akyem-gold",
+      "descriptionAdvanced": "Mina Akyem reprezintă a doua investiție colosală a gigantului Newmont în Ghana, funcționând în estul țării. Designul său încorporează tehnici uimitoare pentru reducerea impactului asupra mediului, cum ar fi captarea avansată a apelor pluviale și replantarea masivă a parcelelor epuizate, fiind o replică modernă a practicilor ecologice din minerit. Extragerea se bazează pe procesarea unor cantități imense de minereu din zona de suprafață deschisă, minereul obținut având o prezență auriferă fin dispersată care necesită filtrare extrem de precisă. Economie K8 — standarde globale miniere.",
+      "factsAdvanced": [
+        "A fost deschisă oficial pentru producția de aur în anul 2013.",
+        "Este recunoscută frecvent pentru respectarea strictă a normelor de mediu globale.",
+        "Administrează o rată foarte ridicată de replantare a copacilor indigeni.",
+        "Mii de hectare de teren sunt gestionate zilnic pentru extracție.",
+        "Programul său comunitar alocă anual milioane de dolari spre educația locală.",
+        "Include facilități de procesare avansată CIL (Carbon in Leach)."
+      ]
+    },
+    {
+      "id": "ghana-damang-gold",
+      "descriptionAdvanced": "Mina Damang, administrată de Gold Fields, este fratele geamăn mai mic, dar esențial, al gigantului Tarkwa. Terenul este definit de formațiuni geologice de natură hidrotermală, cu vene de cuarț adânc înfipte în solul african care sunt zdrobite necontenit. Deși părea aproape de epuizare în anii 2010, investițiile majore în reproiectarea gropii au adus mina la viață. Aceasta pompează sânge proaspăt în economia satelor din preajmă, reamintind constant capacitatea de renaștere a ingineriei miniere moderne. Economie K7 — ingineria zăcămintelor marginale.",
+      "factsAdvanced": [
+        "Include mai multe gropi satelit care alimentează o moară centrală unică.",
+        "În anul 2016 a suferit o reinventare totală pentru prelungirea vieții de operare.",
+        "Geologia sa se bazează pe vene complexe de cuarț cu incluziuni de aur vizibile.",
+        "Prezintă o colaborare extrem de strânsă cu mina vecină, Tarkwa.",
+        "Susține construcția spitalelor rurale și a drumurilor de asfalt din district.",
+        "A fost anterior vizată pentru vânzare, dar a fost revitalizată cu succes masiv."
+      ]
+    },
+    {
+      "id": "ghana-asanko-gold",
+      "descriptionAdvanced": "Mina Asanko Gold stă ascunsă în interiorul bogatei falii de roci sedimentare Asankrangwa, prezentându-se ca un pilon minier de o forță impresionantă, administrat prin asociația firmelor Galiano Gold și Gold Fields. Spre deosebire de exploatările mai simple, ea adună minereu din peste șase cariere individuale (gropi), transportându-l cu basculantele pe un coridor masiv până la fabrica centrală de procesare. Designul multi-site al Asanko o transformă într-un exemplu strălucit de logistică minieră modernă în junglă. Geografie K8 — logistică extractivă.",
+      "factsAdvanced": [
+        "Exploatează multiple puțuri de suprafață dispersate în zona faliei Asankrangwa.",
+        "Capacitatea sa de procesare a morilor ajunge frecvent la 5 milioane de tone anual.",
+        "Utilizează rețele interne de drumuri miniere cu acces strict restricționat.",
+        "Produce lingouri din aliaj de aur (dore) care sunt rafinate apoi în străinătate.",
+        "Oferă training gratuit intens tinerilor ingineri din satele învecinate.",
+        "A luat naștere din unirea a două mari licențe de exploatare adiacente (Obotan și Esaase)."
+      ]
+    },
+    {
+      "id": "ghana-edikan-gold",
+      "descriptionAdvanced": "Mina de aur Edikan, administrată de compania australiană Perseus Mining, se detașează prin operațiunile sale meticuloase desfășurate aproape de fluviile din sud-vestul Ghanei. Extragerea se bazează pe dislocarea rocilor prin explozivi și transportul rapid la o stație avansată de zdrobire, care lucrează 24 de ore din 24. Spre deosebire de exploatările de odinioară, care otrăveau complet apelor locale, Edikan aplică sisteme complexe de retenție a cianurilor, ilustrând evoluția industriei africane către o supraveghere mai strictă. Economie K7 — procese moderne și responsabilitate.",
+      "factsAdvanced": [
+        "Inițial cunoscută sub denumirea istorică de Central Ashanti Gold Project.",
+        "Operată și deținută majoritar de compania australiană Perseus Mining.",
+        "Produce și procesează volume uluitoare de peste 6 milioane de tone de steril.",
+        "Se concentrează pe o serie de corpuri de minereu masive, însă de calitate inferioară.",
+        "Programul său de reducere a amprentei de carbon include stații electrice proprii.",
+        "Este esențială pentru taxele și redevențele districtului Ayanfuri."
+      ]
+    },
+    {
+      "id": "ghana-nzema-gold",
+      "descriptionAdvanced": "Mina Nzema sfidează așteptările fiind amplasată pe coasta îndepărtată a Ghanei, mult la vest, aproape de granița cu Coasta de Fildeș. Fostă exploatare de suprafață masivă a companiei Endeavour, această întindere demonstrează fazele finale ale ciclului de viață minier. Multe dintre rezervele sale majore de minereu s-au diminuat, provocând un proces lung și dificil de închidere și reabilitare ecologică. Este un exemplu clar al ciclului „boom and bust” (creștere și declin) ce caracterizează goana modernă după resurse. Geografie K8 — ciclul de viață minier.",
+      "factsAdvanced": [
+        "A fost vândută și și-a schimbat de mai multe ori proprietarul în deceniul trecut.",
+        "Este situată în regiunea fertilă Ellembelle, departe de bazinul clasic Ashanti.",
+        "Produce aur din formațiuni stâncoase complexe specifice fâșiei continentale sudice.",
+        "A demonstrat eforturi considerabile în reabilitarea post-minieră a terenurilor.",
+        "Comunitatea s-a bazat prea mult timp pe ea, cauzând declin social post-închidere.",
+        "Are instalații care prelucrează roci reziduale (steril) pentru ultimele grame de aur."
+      ]
+    },
+    {
+      "id": "ghana-prestea-underground",
+      "descriptionAdvanced": "Prestea Underground Gold Mine este o adevărată minune a ingineriei secolului XX. După zeci de ani de decădere și inundații devastatoare ale tunelelor, mina a fost recent reactivată, pompând afară milioane de galoane de apă stătătoare. Aceasta folosește o rețea uriașă de ascensoare de mare adâncime care poartă minerii la temperaturi infernale sub scoarța terestră pentru a extrage vene aurifere de o puritate amețitoare. Prestea reprezintă un monument al rezilienței miniere în fața provocărilor geologice extreme. Istorie K8 — minerit subteran clasic.",
+      "factsAdvanced": [
+        "Mina a produs inițial aur pe o durată incredibilă de peste o sută de ani.",
+        "Tunelele sale coboară mult mai mult de 1.000 de metri sub nivelul solului.",
+        "Include lifturi hidraulice (shafts) uriașe, din oțel nituit masiv.",
+        "A fost complet inundată și abandonată parțial în anii 2000, fiind relansată ulterior.",
+        "Concentrația (grade-ul) minereului subteran depășește adesea mediile globale.",
+        "Venele de aur se suprapun peste rețeaua vecină a minei Bogoso."
+      ]
+    },
+    {
+      "id": "ghana-buipe-cement",
+      "descriptionAdvanced": "Uzina de Ciment de la Buipe iese în evidență fiind amplasată pe malurile fierbinți ale fluviului Volta Negru, în Regiunea de Nord. Existența sa acolo este motivată de depozitele uluitoare de calcar de pe fundul lacului, o resursă esențială rară în regiunile nordice aride. Piatra măcinată și amestecată susține singură cerințele colosale ale proiectelor de infrastructură din cele cinci regiuni nordice ale țării, scutind regiunea de importul costisitor de materiale din zona de sud. Economie K7 — materiale de construcții regionale.",
+      "factsAdvanced": [
+        "Singura sursă majoră și stabilă de ciment industrial produs în nordul Ghanei.",
+        "Utilizează depozitele bogate și izolate de calcar din zona limitrofă Buipe.",
+        "Compania care administrează situl se numește Savannah Diamond Cement.",
+        "Materialul finit permite construirea noilor școli și spitale din zonele saheliene.",
+        "Oferă o platformă unică de locuri de muncă sigure într-o regiune predominant agricolă.",
+        "Posedă capacitatea de prelucrare de aproape o jumătate de milion de tone anual."
+      ]
+    },
+    {
+      "id": "ghana-ghacem-tema",
+      "descriptionAdvanced": "Fabrica Ghacem din Tema domină linia orizontului industrial al portului, lansând în atmosferă aburi în mod continuu de peste șase decenii. Fiind fondată în anul 1967 cu capital norvegian, fabrica deține monopolul istoric al producției de ciment din țară. Aici se importă clincher din Europa, care este zdrobit împreună cu calcar și gips local în mori sferice imense, obținând praful esențial pentru extinderea uimitoare a zgârie-norilor din metropola Accra. Este un simbol vital al transformării Ghanei urbane. Economie K7 — urbanizare și materiale grele.",
+      "factsAdvanced": [
+        "Constituie pilonul de bază al expansiunii arhitecturale a capitalei Accra din 1967.",
+        "Importă materie primă (clincher) direct din navele andocate în portul Tema.",
+        "Numele GHACEM provine de la Ghana Cement Works, un brand recunoscut de toți cetățenii.",
+        "Este responsabilă pentru construirea majorității infrastructurii din beton a țării.",
+        "Extrage praful cu sisteme moderne masive de filtrare, atenuând impactul asupra aerului.",
+        "Compania mamă HeidelbergCement deține majoritatea uriașă a acțiunilor."
+      ]
+    },
+    {
+      "id": "ghana-ghacem-takoradi",
+      "descriptionAdvanced": "Amplasată pe linia apusului din Regiunea de Vest, stația Ghacem Takoradi funcționează ca a doua ancoră principală de producție de ciment a Ghanei. Poziționarea ei direct în port elimină necesitatea transportului rutier al clincherului greu importat. Cimentul produs aici a stat la baza modernizării platformelor petroliere de-a lungul coastei, precum și a fortificării bazei logistice pentru marea industrie a cherestelei și minelor de suprafață, protejând coasta vestică de lipsa materialelor de construcții de bază. Economie K6 — aprovizionarea coastelor industriale.",
+      "factsAdvanced": [
+        "Alimentează masiv toate marile operațiuni de extracție din Regiunea de Vest.",
+        "Materiile prime secundare, cum ar fi gipsul fin, se preiau direct de pe mare.",
+        "Uzina este legată de infrastructura de cale ferată locală pentru a livra ciment vrac.",
+        "Construcția acesteia a accelerat considerabil dezvoltarea economică postcolonială a orașului.",
+        "Oferă suport comunitar consistent fermierilor cu materiale la cost redus.",
+        "Funcționează ca partener logistic direct pentru mina Tarkwa."
+      ]
+    },
+    {
+      "id": "ghana-blue-skies",
+      "descriptionAdvanced": "Fabrica Blue Skies, pierdută în colinele tropicale verzi de la Nsawam, reprezintă o schimbare excepțională de mentalitate: o poveste rară a prelucrării africane. În loc să exporte fructe crude și ieftine spre Vest, fabrica procesează direct, taie și ambalează ananasul, mango-ul și fructul pasiunii recoltat pe plan local. Fructele proaspete sunt tăiate noaptea de zeci de muncitori locali și sunt zburate cu avioane direct pe rafturile supermarketurilor europene dimineața următoare, dublând valoarea produselor. Economie K8 — valoarea adăugată a exporturilor agricole.",
+      "factsAdvanced": [
+        "A fost fondată cu succes masiv în anul 1998 de antreprenorul Anthony Pile.",
+        "Angajează o pondere dominantă de femei în faza meticuloasă a tăierii fructelor.",
+        "Zborurile zilnice către Uniunea Europeană garantează prospețimea uimitoare.",
+        "Politica sa refuză importul și depinde exclusiv de fermierii ghanezi de ananas.",
+        "Prezintă standarde uluitoare de igienă care rivalizează cu clinicile medicale.",
+        "Sucurile sale artizanale au dominat complet piața magazinelor interne din Ghana."
+      ]
+    },
+    {
+      "id": "ghana-twifo-oil-palm",
+      "descriptionAdvanced": "Plantația și fabrica Twifo Oil Palm Plc (TOPP) creează un labirint imens, ordonat geometric, de palmieri de-a lungul albiei râului Pra din Regiunea Centrală. Fabrica absoarbe smocurile de fructe roșii uleioase și le strivește la temperaturi și presiuni amețitoare. Uleiul brut de palmier rezultat devine seva necesară pentru industriile alimentare, cosmetice și săpunurilor de pe tot continentul vest-african. Pe lângă valoarea comercială, TOPP operează un model faimos de susținere a micilor fermieri (outgrowers), oferind o platformă rară de prosperitate. Agricultura K7 — procesarea uleiului de palmier.",
+      "factsAdvanced": [
+        "Domeniul este alcătuit din mii de hectare continue de palmier de ulei hibrid (Tenera).",
+        "A fost deținută temporar de consorțiul corporativ internațional Unilever.",
+        "Procesează peste un milion de tone de ciorchini de fructe de palmier în sezoanele de vârf.",
+        "Susține mii de ferme satelit gestionate de locuitorii autohtoni din preajmă.",
+        "Posedă propriile sisteme private complete de locuințe și educație medicală.",
+        "Uleiul de miez extras reprezintă un export industrial global uriaș."
+      ]
+    },
+    {
+      "id": "ghana-cargill-cocoa",
+      "descriptionAdvanced": "Fabrica de Procesare a Cacauei Cargill, amplasată în cartierul liber Tema, pare o fortăreață de oțel care degajă neîncetat mirosul amețitor de ciocolată prăjită. Funcționând din anul 2008 la cele mai înalte standarde globale de inovație tehnică olandeză, unitatea presează boabele locale valoroase de cacao, extragând din ele unt dens, pastă lichidă și pudră fină. Procesarea boabelor pe teritoriul african, în loc de exportul lor brut, este esențială pentru păstrarea profiturilor în visteria națională și evitarea pierderilor comerciale externe. Economie K8 — industrializarea produselor finite.",
+      "factsAdvanced": [
+        "Investiția inițială a reprezentat o injecție financiară enormă de 100 de milioane de dolari.",
+        "Are capacitatea tehnologică uriașă de a zdrobi aproape 100.000 de tone de boabe.",
+        "Exportă pudră și unt de cacao de nivel fin direct spre piețele vestice.",
+        "Funcționează ca o unitate de înaltă tehnologie controlată complet automatizat.",
+        "Situată strategic în vecinătatea imediată a portului pentru ușurința expedierilor navale.",
+        "Face parte din zonele cu statut scutit de taxe vamale pentru stimularea exportului."
+      ]
+    },
+    {
+      "id": "ghana-cpc-cocoa",
+      "descriptionAdvanced": "Compania Cocoa Processing Company (CPC) reprezintă inima de ciocolată autentică și mândria incontestabilă a statului ghanez, funcționând pe umerii giganticei moșteniri lăsate de președintele Nkrumah în anul 1965. Această unitate procesează faimoasa boabă neagră din care iau naștere faimoasele tablete Golden Tree, consumate religios la fiecare sărbătoare locală. Deși tehnologia de bază este de multe ori o luptă pentru compania de stat, existența CPC este dovada națională a independenței: transformarea unei recolte de pământ într-un deșert adorat la nivel mondial. Agricultură K8 — producție de ciocolată.",
+      "factsAdvanced": [
+        "Singurul producător la scară vastă capabil să scoată pe piață tablete sub brand complet ghanez.",
+        "Brandul intern de referință se numește oficial Golden Tree Chocolate.",
+        "Operează pe trei linii distincte majore (extragere de lichior, fabricare pudră și cofetărie).",
+        "Fabrica se află în portul industrial Tema, dominată de arome puternice.",
+        "Compania suferă cronic de provocări uriașe legate de obținerea lichidităților.",
+        "Produce mărci celebre de băuturi pe bază de pudră, precum Royal și Alltime."
+      ]
+    },
+    {
+      "id": "ghana-atuabo-gas",
+      "descriptionAdvanced": "Stația de Procesare a Gazelor de la Atuabo este salvarea modernă și absolut vitală a stabilității curentului electric din Ghana. Așezată curajos direct pe nisipurile din Regiunea de Vest, fabrica uriașă primește fluxuri de gaz brut, toxic, tras din marele Câmp Petrolier Jubilee printr-o conductă submarină epică de 60 de kilometri. Instalația preia amestecul, purifică gazul de condens și extrage GPL (gaz de butelie), pompând apoi gazul uscat pur în centralele electrice. Fără Atuabo, țara ar reporni importurile dezastruos de scumpe. Geografie K8 — independența energetică.",
+      "factsAdvanced": [
+        "Finalizarea cu succes a avut loc în mod monumental în anul 2014.",
+        "Procesează complet tot gazul natural emanat de câmpurile petroliere ghaneze.",
+        "Fără existența acestei instalații masive, gazul nociv era adesea ars direct în atmosferă (flaring).",
+        "Ea produce jumătate din necesarul casnic național de butelii de gaz lichefiat.",
+        "Garanția de energie pe care o aduce previne așa-numitul 'Dumsor' (pana de curent cronică).",
+        "Conductele subacvatice gigantice sunt operate de societatea de stat Ghana Gas."
+      ]
+    },
+    {
+      "id": "ghana-kantanka-auto",
+      "descriptionAdvanced": "Kantanka Automobile reprezintă povestea ambițioasă a primului vehicul comercial fabricat pe sol ghanez, o demonstrație de viziune uimitoare lansată de apostolul Kwadwo Safo. Situată la marginea liniștită a Gomoa Mpota, linia de asamblare folosește o combinație vastă de piese internaționale completată de panouri groase de caroserie din lemn autohton sculptate manual și unelte forjate din fier local vechi. Mașinile off-road imense cu tracțiune 4x4 ies pe ușa fabricii adresându-se explicit guvernelor și forțelor de securitate locale, visând la oprirea importurilor toxice de rable uzate. Economie K7 — industria mecanică africană.",
+      "factsAdvanced": [
+        "A fost asamblat cu entuziasm sub viziunea antreprenorului și liderului religios Kwadwo Safo.",
+        "Situl lor de construcție se extinde rapid în locația principală din Gomoa Mpota.",
+        "A luat decizia curajoasă de a oferi comenzi cu volane de pe piața stângă exclusiv pentru Ghana.",
+        "Multe garnituri și detalii ale interioarelor se bazează adesea pe lemn reciclat ecologic autohton.",
+        "O mică parte din gama lor masivă de automobile intră pe stocurile forțelor de poliție de stat.",
+        "Oferă pregătiri de specialitate extrem de complexe pentru inginerii tehnici tineri."
+      ]
+    },
+    {
+      "id": "cape-coast-castle-history-v2",
+      "descriptionAdvanced": "Castelul Cape Coast poartă un trecut devastator care depășește mult zidurile sale din piatră albită din sudul Ghanei. Inițial edificat ca o stație mercantilă rudimentară din lemn de către comercianții de aur suedezi în 1653, fortăreața a fost treptat transformată masiv de Imperiul Britanic în nucleul ororii: centrul administrativ major al comerțului transatlantic cu sclavi. Pivnițele sale (dungeons) terifiante, de unde zeci de mii de captivi treceau prin infama „Ușă a Fără Întoarcerii” (Door of No Return) spre navele din Oceanul Atlantic, continuă să provoace reverberații morale la scară globală. Istorie K8 — sclavia transatlantică.",
+      "factsAdvanced": [
+        "Declarat oficial Sit de o Valoare Istorică Inestimabilă sub egida Patrimoniului Mondial UNESCO.",
+        "Primul design fortificat modest aparține Suediei (construcția s-a efectuat în anul 1653).",
+        "A fost baza principală a guvernării coloniale britanice timp de secole (până în 1877).",
+        "Mii de prizonieri vest-africani au fost tranzitați prin celebrele sale tunele subterane umede.",
+        "Faimoasa 'Door of No Return' marchează ieșirea către corăbiile terorii care așteptau pe ape.",
+        "În vizita istorică din anul 2009 a primit prezența fostului președinte Barack Obama."
+      ]
+    },
+    {
+      "id": "elmina-castle-history-v2",
+      "descriptionAdvanced": "Castelul Elmina (Castelul Sfântul Gheorghe de Mina) deține cu greutate un record inegalabil: este prima construcție impunătoare, și cea mai colosală, din piatră adusă din Europa asezată la sud de vastul Deșert Sahara. Înălțat din cărămizi prefabricate descărcate din nave portugheze tocmai în anul 1482, castelul avea unicul scop de a centraliza exportul minereului de aur curat al regiunii. O sută de ani mai târziu, capcana de piatră devenise un depozit implacabil pentru sclavi sub dominația crudă olandeză și mai apoi britanică, marcând punctul zero al istoriei coloniale africane. Istorie K8 — primele forturi europene.",
+      "factsAdvanced": [
+        "A fost inaugurat spectaculos și violent sub ordin portughez în anul 1482.",
+        "Deține recordul sumbru ca fiind cea mai veche structură europeană colosală din vestul Africii.",
+        "Piatra sa de temelie are rădăcini în protejarea exporturilor masive neîntrerupte de minereu de aur.",
+        "Coroana Olandeză a capturat clădirea printr-un lung și sângeros asediu în anul 1637.",
+        "Deasupra catacombelor sufocante așezate pentru sclavi a funcționat permanent o biserică sfântă.",
+        "Situează faimosul port pescăresc artizanal aglomerat Elmina fix lângă scările sale stâncoase."
+      ]
+    },
+    {
+      "id": "osu-castle-history-v2",
+      "descriptionAdvanced": "Castelul Osu, renumit istoric și sub vechea denumire colonială daneză Christiansborg, este o așezare din piatră ridicată chiar pe falezele abrupte ce domină golful capitalei Accra. Danezii au finalizat baza fortului în anii 1660 ca bastion de comerț masiv al aurului și apoi al umanității. Ceea ce diferențiază complet Osu Castle de alte structuri similare este că el a servit zeci de ani ca reședință guvernamentală de necontestat și sediu direct al puterii executive a statului independent Ghana, unificând trecutul tragic cu politica postcolonială modernă, înainte de mutarea la Jubilee House. Istorie K7 — administrare colonială și postcolonială.",
+      "factsAdvanced": [
+        "Fundamentul clădirii a fost sculptat din piatră brută de către ingineri danezi prin 1660.",
+        "A fost reședința istorică permanentă și biroul oficial de lucru al guvernului statului Ghana.",
+        "Baza fortăreței a fost schimbată la nesfârșit între danezi, olandezi, portughezi și chiar akwamu.",
+        "Imperiul Britanic a preluat structura printr-un acord simplu din anul 1850.",
+        "Regina Elisabeta a II-a și-a avut camerele oficiale aici cu ocazia marii ei vizite naționale.",
+        "Grădinile sale extinse au rămas faimoase și extrem de bine conservate publicului."
+      ]
+    },
+    {
+      "id": "larabanga-mosque-history-v2",
+      "descriptionAdvanced": "Marea Moschee Larabanga iese din nisipurile și lumina aspră a Regiunii Savanna cu zidurile ei unice de un alb intens, pictate direct din noroiul și stuful uscat la temperaturi dogoritoare. Ridicată inițial de un comerciant islamic strălucit numit Ayuba undeva în jurul secolului al XV-lea (deși originile sunt neclare, unii indicând chiar perioada sudaneză mult mai veche), structura sfidează complet unghiurile clădirilor convenționale. Turnurile piramidale masive proptite de contrafoturi solide din lut și pari proeminenți de lemn transformă lăcașul de cult într-un sit sacru legendar, recunoscut mondial, la fel ca marile minuni ale Mali-ului istoric. Cultură K8 — arhitectură sudano-saheliană.",
+      "factsAdvanced": [
+        "Adesea respectată religios cu supranumele sfânt „Meca de pe teritoriul african de vest”.",
+        "Data originilor este fixată aproximativ conform datărilor estimative prin secolul XV-lea.",
+        "Arhitectura de bază se susține în permanență prin contraforturi de lemn dur împotriva furtunilor.",
+        "Deține în altarul principal o veche scriere sacră a Coranului adusă printr-un act misterios.",
+        "Reabilitările actuale depind integral de aplicarea metodelor de pictură artizanală milenară.",
+        "Fundamentul lăcașului este extrem de periculos expus stricăciunilor aduse de apa și ploile acide."
+      ]
+    },
+    {
+      "id": "kumasi-fort-history-v2",
+      "descriptionAdvanced": "Fortul de la Kumasi are în spate o naștere plină de foc și confruntări sangeroase aspre, situat în adâncul impunător al Regiunii Ashanti. Prima clădire masivă a fost distrusă complet, însă englezii au repus fortul de zidărie uriaș în anul 1897 ca modalitate brutală de a asupri capitala invinsă. Construit exclusiv din pietre grosolane de granit roșu așezate minuțios, acest post a rezistat faimosului asediu formidabil declanșat de regina Yaa Asantewaa din timpul răscoalei mileniului. Astăzi zidurile liniștite au dobândit scopul unui uluitor și calm muzeu național de echipamente armate din războiul vechi. Istorie K8 — războaiele regale anglo-ashanti.",
+      "factsAdvanced": [
+        "Baza fortăreței roșii a fost refăcută minuțios la comanda directă britanică din 1897.",
+        "A fost asediat implacabil luni întregi sub comanda faimoasei regine istorice Yaa Asantewaa.",
+        "Pietrele imense de pe ziduri poartă cicatrici permanente și profunde ale vechilor gloanțe trase.",
+        "Adăpostește muzeul oficial aparținând forțelor active ale regimentului statului național.",
+        "Acțiunea războinică a cauzat capturarea definitivă a exilaților apropiați regelui Prempeh.",
+        "Oferă o platformă inegalabilă pentru prezentarea armelor unicat de pe continent."
+      ]
+    },
+    {
+      "id": "manhyia-palace-history-v2",
+      "descriptionAdvanced": "Palatul Manhyia din Kumasi funcționează ca inima ce bate neîntrerupt și plină de demnitate a spiritului istoric Ashanti, servind exclusiv ca reședința fastuoasă oficială a veneratului rege, Asantehene. Clădirile au fost ridicate din materiale moderne fine în 1925 sub supravegherea meticuloasă a puterilor coloniale britanice pentru a recompensa revenirea exilatului monarh, Nana Prempeh I, după decenii lungi petrecute complet pe Insula Seychelles. Ansamblul masiv care alcătuiește piața adiacentă devine neîncăpător în momentul desfășurării curții spectaculoase și festivalurilor milenare Akwasidae, ilustrând opulența regatului independent. Istorie K7 — continuitatea regalității tradiționale.",
+      "factsAdvanced": [
+        "A fost oficial dat în folosință regală britanică în momentul uimitor din anul 1925.",
+        "Zilnic găzduiește și menține funcțional tribunalul tradițional activ unde justiția regele dictează.",
+        "Costurile finale mari de reconstruire au fost acompaniate de sprijin financiar britanic considerabil.",
+        "Prezintă muzeul masiv plin cu statui de mare excepție, palanchine și haine cu fir de aur.",
+        "Adună cele mai mari delegații imense internaționale cu ocazia sfântului festival Akwasidae.",
+        "Baza inițială gigantică de la Kumasi a fost făcută scrum de trupele de foc britanice."
+      ]
+    },
+    {
+      "id": "assin-manso-slave-river-history-v2",
+      "descriptionAdvanced": "Apele de la Râul Sclavilor din satul Assin Manso curg cu rezonanța extrem de amară a celei mai lungi și macabre călătorii a sclavilor captivi. Locația exactă (Donkor Nsuo) oferită din adâncul Regiunii Centrale din Ghana reprezenta un popas vital de curățare brută. Aici, trupurile vândute în schimbul sticlei nordice își aruncau ultima fărâmă din noroiul nașterii după săptămâni pe drumuri, având corpul marcat pentru vânzare. Mormintele monumentale returnate pe meleagurile africane cu schelete recuperate din teritoriul Caraibelor transformă curtea într-o adevărată platformă tăcută și profundă destinată pocăinței universale. Istorie K8 — memorialul holocaustului atlantic.",
+      "factsAdvanced": [
+        "Numele tradițional recunoscut prin zona fluviului liniștit este pe limba lor, Donkor Nsuo.",
+        "Servind drept punctul absolut limită și fatal unde trupurile sclavilor luau pauză dură.",
+        "Situl include oficial spațiul ceremonial extrem de cutremurător cunoscut sub numele „Peretele Respectului”.",
+        "Trupul a doi uriași sclavi repatriați la începutul secolului nou s-au depus simbolic.",
+        "Piatra grea de cărbune este legată fizic prin frânghii la marginea lacului spre pomenire.",
+        "Toate festivalurile majore care readuc turiștii recunosc și respectă tragedia aspră."
+      ]
+    },
+    {
+      "id": "fort-prinzenstein-history-v2",
+      "descriptionAdvanced": "Fortul Prinzenstein stă izolat pe fâșia nisipoasă dură de lângă Laguna marină de pe plaja Keta, amintind puternic de scurta însă fioroasa influență comercială colonială adusă de dominația Imperiului Danez. Așezarea construită în anul 1784 nu a deservit numai comerțul scumpelor mirodenii sau a aurului adus la mare; el proteja trupește teritoriile sclaviei din Est (Volo) contra flotelor agresive locale Anlo de rebeli. Oceanul i-a dovedit forța și a măcinat cu duritate neobosită și sângeroasă bastioanele clădirii pe tot parcursul ultimelor decenii, transformând clădirea ruinată într-un plânset continuu adresat memoriei dispărute. Istorie K7 — expansiunea colonială scandinavă.",
+      "factsAdvanced": [
+        "A fost inaugurat de trupe masive aparținând coroanei militare suedezo-daneze din 1784.",
+        "Singurul complex cu ziduri grele situat chiar în exteriorul de est pe malul fluviului râului Volta.",
+        "Clădirea masivă servea direct ca armă strategică contra populației și tribului aprig Anlo.",
+        "Structura principală s-a surpat puternic de aproape treizeci de ani prin lovirea directă de valuri.",
+        "Rămâne ca ultimă amintire daneză masivă ascunsă pe estul frontierei neprimitoare de coasta.",
+        "Reprezintă baza din care europenii transferau captivii pe ascuns spre alte luntri majore."
+      ]
+    },
+    {
+      "id": "fort-san-sebastian-history-v2",
+      "descriptionAdvanced": "Fortul San Sebastian domină așezarea litorală antică Shama. Construcția este atribuită direct coloniei Portugaliei în secolul dezastruos de invazie portugheză (circa 1526). Având fața către vântul agresiv de la apele dulci ale râului vestic ghanez, fortăreața a fost rapid transformată după preluarea puterii de pe ape spre administrația puternică danezo-olandeză din 1642. Sub podele, fortul masiv adăpostește liniștit corpul ultimului mare campion filosof ghanez educat peste Ocean (Anton Wilhelm Amo, sec. XVIII) punând o amprentă umană fabuloasă pentru renașterea valorii istorice universale a minții de culoare africane la mare distanță. Istorie K7 — dominația iberică din Africa.",
+      "factsAdvanced": [
+        "Construit prima dată prin așezarea de panouri rudimentare grele sub domnia nobilimii portugheze.",
+        "Infrastructura a fost furată brusc ca prin magie sângeroasă în plin anul 1642 de luptători olandezi.",
+        "Acoperă liniștit sicriul și locul funerar oficial dedicat marelui scriitor filosof Anton Amo.",
+        "Fortăreața din zid stă fixată strategic la gura masivă a apei line din râul uriaș Pra.",
+        "Terenurile cu terasă superioară adăpostesc pe lângă tunuri chiar case administrative civile imense.",
+        "A deținut cel mai impunător baston și fort de foc orientat complet pe estuarul forestier."
+      ]
+    },
+    {
+      "id": "fort-apollonia-history-v2",
+      "descriptionAdvanced": "Fortul Apollonia se ascunde impunător tocmai în extremitatea cea mai aspră a regiunii vestice izolate a Ghanei, chiar la granița marină tulbure cu fâșia Beyin. Compania uriașă regală maritimă britanică a adunat la cererea directă a liderului local de război blocurile impunătoare în timpul perioadei târzii (peste anul 1768). Apollonia se traduce masiv ca o amintire a descoperitorilor spanioli curajoși care au numit locul cu litere de sfinți fix în ziua sacră de sărbătoare aparținând Fecioarei venerate. Astăzi adăpostește galerii umplute cu tăcere privind dominația cruntă a popoarelor locale înfrânte, Nzema. Istorie K7 — ultimul bastion al companiei britanice pe mare.",
+      "factsAdvanced": [
+        "A văzut lumina soarelui prin ridicarea manuală a bazei în vara grea din deceniul anilor 1768.",
+        "A constituit cel mai masiv bastion de explorare ridicat de companie către vestul extrem al țării.",
+        "A luat și numele popular britanic Fortul Mare Beyin, numit strict pe numele tărâmului local.",
+        "Comunitățile militare de soldați olandezi au forțat cedarea armelor o vreme în perioada sec. 19.",
+        "Muzeul central imens este total rezervat onorării puterii regilor vechi, din familiile nobile Nzema.",
+        "Revoltele anti-vânzare din trecut ale populației Nzema i-au adus decăderea masivă timpurie rapidă."
+      ]
+    }
+  ]
+}

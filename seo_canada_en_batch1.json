@@ -1,0 +1,129 @@
+{
+  "lang": "en",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mississauga-cities-v2",
+      "descriptionAdvanced": "Mississauga, located on the shores of Lake Ontario, is Canada's seventh-largest municipality. It evolved from a rural area into a major economic hub, hosting the headquarters of numerous Fortune 500 companies. The city is home to Toronto Pearson International Airport, the busiest airport in the country, serving as a primary gateway to Canada. Geography K7 — economic centers.",
+      "factsAdvanced": [
+        "Population exceeds 700,000 residents.",
+        "Home to more than 60 Fortune 500 company headquarters.",
+        "Toronto Pearson Airport handles over 40 million passengers annually.",
+        "Incorporated as a city in 1974.",
+        "Located in the Greater Toronto Area (GTA).",
+        "Features over 500 parks and 200 kilometers of trails."
+      ]
+    },
+    {
+      "id": "brampton-cities-v2",
+      "descriptionAdvanced": "Brampton is one of Canada's fastest-growing cities, known for its multicultural diversity and vibrant economy. Once called the 'Flower Town of Canada' due to its extensive greenhouse industry, it has developed into a logistics and manufacturing powerhouse within the Greater Toronto Area. Geography K7 — rapid urbanization.",
+      "factsAdvanced": [
+        "One of Canada's most ethnically diverse municipalities.",
+        "Known historically as the Flower Town of Canada.",
+        "Located approximately 40 km northwest of downtown Toronto.",
+        "Served by the Brampton Transit and GO Transit systems.",
+        "Home to the Peel Art Gallery, Museum and Archives.",
+        "Population growth consistently ranks among the highest in Ontario."
+      ]
+    },
+    {
+      "id": "hamilton-cities-v2",
+      "descriptionAdvanced": "Hamilton, situated at the western end of the Niagara Peninsula, is a historic port city famously known as the 'Steel City' due to its massive iron and steel production sector. The city is also renowned for the Bruce Trail and its numerous waterfalls, which draw nature enthusiasts year-round. Geography K7 — industrial geography.",
+      "factsAdvanced": [
+        "Produces over 60% of Canada's steel.",
+        "Features over 100 waterfalls within city limits.",
+        "Situated on the Niagara Escarpment, a UNESCO World Biosphere Reserve.",
+        "Home to McMaster University, a world-class research institution.",
+        "The port of Hamilton is a major Great Lakes shipping hub.",
+        "Established in 1846."
+      ]
+    },
+    {
+      "id": "london-cities-v2",
+      "descriptionAdvanced": "London is a significant regional center in southwestern Ontario, serving as a hub for education, medical research, and manufacturing. Situated at the forks of the Thames River, it provides a balance of urban infrastructure and extensive parkland. The city's economy is deeply rooted in health care and higher education. Geography K7 — regional hubs.",
+      "factsAdvanced": [
+        "Nicknamed 'The Forest City' for its abundant green space.",
+        "Located at the confluence of the North and South Thames rivers.",
+        "Home to Western University, one of Canada's top research schools.",
+        "Major medical research center for southwestern Ontario.",
+        "Connected by major highways including the 401.",
+        "Population center for a large surrounding agricultural area."
+      ]
+    },
+    {
+      "id": "markham-cities-v2",
+      "descriptionAdvanced": "Markham, located in the Regional Municipality of York, is recognized as Canada's high-tech capital. It houses many international technology companies, positioning it as a pivotal player in the Canadian innovation ecosystem. Its blend of historic neighborhoods and modern developments creates a unique urban fabric. Geography K7 — technological hubs.",
+      "factsAdvanced": [
+        "Often referred to as Canada's high-tech capital.",
+        "Hosts over 1,500 technology and life science companies.",
+        "One of the fastest-growing communities in the Greater Toronto Area.",
+        "Features a well-preserved historic Main Street in Unionville.",
+        "Home to the Markham Museum, showcasing local history.",
+        "Diverse population with a significant representation of Asian communities."
+      ]
+    },
+    {
+      "id": "vaughan-cities-v2",
+      "descriptionAdvanced": "Vaughan is a rapidly developing city north of Toronto that includes the well-known community of Woodbridge and the major entertainment destination Canada's Wonderland. Its economy thrives on a mix of construction, retail, and manufacturing, complemented by significant suburban growth. Geography K7 — suburban development.",
+      "factsAdvanced": [
+        "Home to Canada's Wonderland, the nation's largest theme park.",
+        "Includes the historic village of Kleinburg.",
+        "Significant hub for the construction and manufacturing industries.",
+        "Major stop on the Toronto Subway line extension.",
+        "Population growth accelerated rapidly since the 1990s.",
+        "Home to the McMichael Canadian Art Collection."
+      ]
+    },
+    {
+      "id": "kitchener-cities-v2",
+      "descriptionAdvanced": "Kitchener, part of the Kitchener-Waterloo urban area, is a prominent city with deep roots in industrial manufacturing and, more recently, the tech sector. It hosts one of the world's largest Oktoberfest celebrations, reflecting the city's rich German heritage and communal spirit. Geography K7 — cultural identity.",
+      "factsAdvanced": [
+        "Hosts the largest Oktoberfest outside of Germany.",
+        "Formed the Tri-City area with Waterloo and Cambridge.",
+        "Historic center of manufacturing in Ontario.",
+        "Rapidly evolving into a Canadian technology hub.",
+        "Home to the Kitchener-Waterloo Art Gallery.",
+        "First known as Berlin before changing its name in 1916."
+      ]
+    },
+    {
+      "id": "windsor-cities-v2",
+      "descriptionAdvanced": "Windsor is Canada's southernmost city, sitting directly across the Detroit River from Detroit, Michigan. As the country's automobile manufacturing center, it plays a critical role in North American automotive supply chains. It is a vital international transit point between Canada and the United States. Geography K7 — border logistics.",
+      "factsAdvanced": [
+        "Canada's southernmost major city.",
+        "Known as the Automotive Capital of Canada.",
+        "Connected to Detroit via the Ambassador Bridge and the Detroit-Windsor Tunnel.",
+        "Home to the University of Windsor.",
+        "Features the extensive Windsor Riverfront trail.",
+        "Key entry point for cross-border trade."
+      ]
+    },
+    {
+      "id": "surrey-cities-v2",
+      "descriptionAdvanced": "Surrey is a rapidly expanding city within the Metro Vancouver region, characterized by its diverse population and suburban residential growth. As the second-largest city in British Columbia, it acts as a commercial center for the Fraser Valley, with ongoing development in transit and civic infrastructure. Geography K7 — urban expansion.",
+      "factsAdvanced": [
+        "Second-largest city in British Columbia by population.",
+        "Part of the Metro Vancouver Regional District.",
+        "Includes diverse neighborhoods like Newton and Whalley.",
+        "Fast-growing hub for local government and services.",
+        "Connected by the SkyTrain rapid transit network.",
+        "Known for its large agricultural lands in the south."
+      ]
+    },
+    {
+      "id": "burnaby-cities-v2",
+      "descriptionAdvanced": "Burnaby is located in the geographic center of the Metro Vancouver region, acting as a bridge between the city of Vancouver and the eastern suburbs. It is a major hub for business, technology, and higher education, hosting significant institutions such as Simon Fraser University and the British Columbia Institute of Technology. Geography K7 — transit-oriented development.",
+      "factsAdvanced": [
+        "Geographic center of Metro Vancouver.",
+        "Home to Simon Fraser University.",
+        "Host to the British Columbia Institute of Technology (BCIT).",
+        "Features large parks like Burnaby Mountain and Deer Lake Park.",
+        "Major commercial node for the region.",
+        "Excellent connectivity via SkyTrain lines."
+      ]
+    }
+  ]
+}

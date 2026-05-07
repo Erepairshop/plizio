@@ -1,0 +1,310 @@
+{
+  "lang": "ro",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-metal-cross-history-v2",
+      "descriptionAdvanced": "Fortul Metal Cross se ridică peste orășelul pescăresc de coastă Dixcove ca o amintire aspră a puterii imperiului britanic timpuriu. A fost proiectat cu o formă ciudată (crucială), pe care coloniștii englezi au impus-o în secolul al XVII-lea. Structura nu doar apăra vasele comerciale, ci domina teritoriile locale furnizoare de minereu aurifer pe care britanicii le-au însușit cu forța armelor de foc. În ciuda degradării, turnurile sale poartă cicatricile clare din invazia armatelor regatului olandez și chiar a popoarelor africane rezistente. Istorie K7 — arhitectura primelor forturi engleze.",
+      "factsAdvanced": [
+        "Temelia clădirii din piatră masivă a fost pusă de Regatul Britanic în anul 1692.",
+        "Structura imensă poartă un nume care descrie forma sa arhitecturală unică (Crucea de Metal).",
+        "A protejat complet golful esențial pentru ancorarea navelor cu pânze de mare tonaj.",
+        "Include temnițe întunecoase care sugerează clar un trecut greu asociat prizonieratului.",
+        "A fost asediat cu mare duritate de forțele militare aliate olandeze și Ahanta.",
+        "Terenul de bază stă la mică distanță de orașul cu tradiție minieră de pe coastă, Dixcove."
+      ]
+    },
+    {
+      "id": "fort-amsterdam-history-v2",
+      "descriptionAdvanced": "Fortul Amsterdam veghează liniștit peste marea la Abandze, ilustrând povestea dureroasă a concurenței imperialiste și începutului oficial al perioadei tragice. Istoricii marchează locul drept baza masivă a primei închisori adevărate de sclavi concepute pe Coasta de Aur, inaugurând practic era neagră a exporturilor umane britanice și olandeze. Coroana Olandeză l-a smuls din mâinile britanice într-o victorie navală faimoasă din 1665. Deși clădirea arată astăzi sfărâmată și mâncată masiv de briza oceanică sărată, ea pulsează prin încărcătura sa ca memorie mondială sângeroasă. Istorie K8 — sclavia atlantică engleză și olandeză.",
+      "factsAdvanced": [
+        "Inițial botezat sub numele regal britanic Fortul Cormantin la înființarea sa din anii 1630.",
+        "Flota navală olandeză a capturat și redenumit clădirea de piatră Amsterdam prin anul 1665.",
+        "Situează pe un promotoriu stâncos falnic ce domină complet golful Abandze.",
+        "Constituie prima închisoare documentată de sclavi creată la scară masivă pe coastă.",
+        "În timpul unor ample revolte sângeroase din secolul XIX, Ashanti i-au lăsat fortului răni majore.",
+        "Monumentul arheologic atrage des delegații ale foștilor descendenți afro-americani."
+      ]
+    },
+    {
+      "id": "fort-william-anomabu-history-v2",
+      "descriptionAdvanced": "Fortul William reprezintă punctul fierbinte, de cotitură sângeroasă al regatului colonial așezat în pitorescul oraș Anomabu. Construit minuțios din blocuri imense de piatră în 1753 de britanici, fortăreața a cunoscut cele mai crunte lupte continentale ale perioadei. Faima sa globală este asociată implacabil apărării masive din 1807, când fortul s-a ciocnit frontal, timp de săptămâni cu miile de războinici regali Ashanti ce atacau fără teamă coasta sudică cu arme de foc. Zidul roșu tăiat păstrează urmele adânci ale uneia dintre cele mai crunte și cunoscute rezistențe coloniale africane. Istorie K8 — războaiele Ashanti-britanice de pe coastă.",
+      "factsAdvanced": [
+        "A fost inaugurat și dat în uz militar de Compania Regală Africană în deceniul anilor 1750.",
+        "A experimentat infamul și cumplitul Asediu sângeros lansat de armata Ashanti în 1807.",
+        "Servea deopotrivă ca pușcărie pentru captivi africani și magazie comercială de mirodenii.",
+        "Terenul de interior deține până astăzi tunurile masive ruginite cu afet de fier.",
+        "Construcția colosală se află foarte aproape de centrul plin cu palate nobiliare din Anomabu.",
+        "Fortul a intrat ulterior masiv sub controlul protectoratului britanic și a guvernatorilor locali."
+      ]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-history-v2",
+      "descriptionAdvanced": "Mausoleul Kwame Nkrumah poartă mesajul imens de renaștere postcolonială, odihnind solemn fix în centrul capitalei fierbinți a Ghanei. Memorialul impresionant din marmură masivă găzduiește trupul neînsuflețit al celui mai mare pionier ghanez, fondatorul națiunii și luptătorul pentru visul colosal al eliberării pământului african de sub europeni (Pan-Africanismul). Așezarea a fost sfințită pe terenul unde Nkrumah a strivit oficial stema regală britanică, proclamând uimitoarea independență completă în miez de noapte (6 martie 1957). Locul impune o reverență obligatorie pentru vizitatorii internaționali. Istorie K8 — independența statelor africane.",
+      "factsAdvanced": [
+        "Găzduiește cripta centrală tăcută și oficială a fondatorului suveran al Ghanei, Dr. Kwame Nkrumah.",
+        "Terenul monumentului a fost folosit pentru marele discurs independentist din zorii zilei de 6 martie.",
+        "Statul a investit sume impresionante pentru renovarea completă terminată recent (în anii 2020).",
+        "Monumentul central gigant este orientat spre vârf ca o sabie simbolică gata de luptă.",
+        "Muzeul include faimosul automobil de stat antic Cadillac primit drept cadou personal.",
+        "Păstrează haine ceremoniale uzate masiv de istorie alături de cărțile de propagandă scrise de el."
+      ]
+    },
+    {
+      "id": "w-e-b-du-bois-centre-history-v2",
+      "descriptionAdvanced": "Centrul Memorial W.E.B. Du Bois radiază liniștea și vibrația filosofică a geniului diasporei africane, oferind o oază intelectuală superbă în centrul vibrant al Accrei. Această vilă retrasă, adăpostită de pădure tropicală, a fost ultimul refugiu pe pământ al uriașului activist, filosof și scriitor afro-american W.E.B. Du Bois, la cererea și invitația președintelui Nkrumah. Biblioteca și cripta sa amintesc constant despre mișcarea uimitoare prin care milioane de suflete împrăștiate ale negrilor sperau la o uniune formidabilă sub o singură familie Pan-Africană grandioasă. Istorie K8 — diaspora și lupta intelectuală.",
+      "factsAdvanced": [
+        "Include casa de odihnă și cripta oficială de pământ a legendarului lider și autor afro-american.",
+        "Complexul a fost stabilit în cinstea ultimelor sale decenii petrecute muncind intens pentru Enciclopedia Africană.",
+        "Zilnic adună mii de volume valoroase ale curentului de gândire și filosofie Pan-Africană.",
+        "Du Bois a acceptat invitația oficială venită personal de la conducătorul Kwame Nkrumah.",
+        "Vizitatorii pot accesa fără bilet imensul altar funerar din centru, vegheat de copaci masivi.",
+        "Punctul simbolic suprem de chemare înapoi pentru descendenții negri părăsiți pe continentul american."
+      ]
+    },
+    {
+      "id": "independence-square-accra-history-v2",
+      "descriptionAdvanced": "Piața Independenței este vastă și uluitor de impozantă, devenind epicentrul național unde Ghana își expune toată greutatea și forța civică deținută de aparatul de stat. Capabilă de a absorbi mase amețitoare de zeci de mii de civili și soldați sub un soare ecuatorial necruțător, piața găzduiește anual marea paradă de la 6 Martie, de la soldații mândri la mașinile de fier masiv ale statului. Așezarea a fost croită larg la ordinul strict al lui Nkrumah pentru a demonstra simbolic faptul că puterea a fost transferată în mâna poporului liber ghanez. Societate K6 — sărbătorile naționale.",
+      "factsAdvanced": [
+        "Poate adăposti confortabil audiențe copleșitoare și tribune militare de 30.000 de participanți.",
+        "Comemorează ruperea curajoasă a Ghanei de guvernarea Imperiului Regatului Britanic din 1957.",
+        "Piața imensă cuprinde falnicul și spectaculosul monument masiv Black Star Gate (Poarta Neagră).",
+        "Arde non-stop Flacăra Independenței Păcii pentru spiritul eliberării africane libere.",
+        "Designul copleșitor din stâncă tăiată ascuțită a fost influențat din arhitectura brutalistă sudică.",
+        "Constituie zona supremă pentru festivitățile și jocurile de putere civil-militare televizate pe plan național."
+      ]
+    },
+    {
+      "id": "yaa-asantewaa-museum-history-v2",
+      "descriptionAdvanced": "Muzeul Yaa Asantewaa așezat cu blândețe în adâncul Regiunii Ashanti dezvăluie povestea sfâșietoare a celei mai colosale figuri feminine războinice africane. Dedicat reginei-mame care a refuzat cu mândrie cedarea sacoului de aur britanicilor (Tronul Sfânt de Aur), muzeul arde și azi sub ecoul spiritului ei nemuritor. Relicvele aspre afișate, artefactele luptelor crâncene ascunse și cuvintele sale sfidătoare aruncate guvernatorului străin (Războiul Taburetului de Aur, 1900) construiesc o platformă rară de istorie dedicată forței, sângelui și voinței uimitoare feminine. Istorie K8 — eroine militare africane.",
+      "factsAdvanced": [
+        "Găzduiește bunurile onorabile păstrate ale neînfricatei regine curajoase Yaa Asantewaa.",
+        "Subliniază și documentează Războiul sângeros colosal Ashanti numit formal Golden Stool (1900).",
+        "Colecția are cuțite masive uzate și echipamente britanice antice abandonate sub asediu.",
+        "Regina este celebrată ca eroina mondială extremă ce a chemat forțele regatului tăcut la armata aspră.",
+        "Localizat în inima Ejisu, capitala sa iubită tradițională și pământul său de reședință sfânt.",
+        "Situl poartă încă greutatea exilului crunt și morții ei tăcute în insulele oceanice Seychelles."
+      ]
+    },
+    {
+      "id": "salaga-slave-market-history-v2",
+      "descriptionAdvanced": "Piața de Sclavi Salaga își înfige rădăcinile într-unul dintre cele mai crude puncte comerciale ale Saharei medievale, localizată fiind adânc în savana nordică uscată a statului. Cu sute de ani în urmă, acest nod al durerii imense schimba oameni cu greutate în monede de aur masiv sau cai, atrăgând zeci de triburi neîndurătoare din zona saheliană. Urmele lanțurilor grele și fântânile antice din care prizonierii erau bătuți cu apă (băile groazei) fac din ea un memorial copleșitor dedicat suferinței tăcute ale călătoriilor terestre inter-africane spre coastele ucigașe. Istorie K8 — rutele sclaviei arabe nordice.",
+      "factsAdvanced": [
+        "Constituia colosala placă turnantă de groază a vechiului imperiu islamic brutal de negoț cu sclavi nordici.",
+        "Băile ruginite tradiționale (Womba) erau utilizate crud pentru spălarea fizică a noilor prizonieri.",
+        "Cunoscut istoric ca un pol masiv al popoarelor bogate din Sahel pentru export de forță vitală de muncă.",
+        "Copacii falnici de baobab oferă vizitatorilor locul unde sclavii așteptau dur cu lanțurile pironite masiv.",
+        "Zona arheologică păstrează relicve și fier vechi oxidat, inclusiv monede tradiționale din pământ și os.",
+        "Calea de acces de teroare pe uscat străbătea masiv savana spre coastele de est."
+      ]
+    },
+    {
+      "id": "gwollu-defence-wall-history-v2",
+      "descriptionAdvanced": "Zidul de Apărare din Gwollu din nordul arid sfidează natura, fiind o fortificație colosală construită manual cu noroi presat și lut aprins la soare. Străbunii curajoși de acolo din timpul epocii sângeroase de la jumătatea secolului al XIX-lea s-au adunat ca o forță disperată pentru a ridica peretele împotriva hoardelor necruțătoare ale negustorului sclavagist sudanez, legendarul Babatu. Această structură rară se bucură de mândrie absolută, deoarece ea dezvăluie lupta uriașă a satelor pentru supraviețuire izolată și autonomia forței africane necoloniale pe propriul lor teren periculos. Istorie K7 — fortificații și ziduri autohtone de rezistență.",
+      "factsAdvanced": [
+        "A fost făurit și finisat brut în noroi masiv în timpul deceniului greu de supraviețuire al sec. 19.",
+        "Scopul colosal a fost protejarea populației asediate de trupele fiorosului comerciant militar Babatu.",
+        "Fortificația a constat masiv din două bariere uriașe din pământ gros circular dispuse milimetric.",
+        "Ploaia agresivă a sezonului a adus degradări ireparabile și topiri la porțiunile vechi monumentale.",
+        "Așezarea Gwollu își mai onorează fapta eroică ca fiind reședința șefului și fostului președinte Hilla Limann.",
+        "Peretele este ultimul exemplu gigant pur de zid precolonial defensiv anti-sclavie al continentului vestic."
+      ]
+    },
+    {
+      "id": "nalerigu-defence-wall-history-v2",
+      "descriptionAdvanced": "Zidul masiv Nalerigu stă prăbușit, dar mândru, apărând ruinele ascunse ale capitalei colosale de demult, sediul curajului din anticatul Regat invincibil Mamprusi din zona de Nord. Uriașul dig gros, creat artizanal și îmbibat în magie antică cu noroi dur și miere în secolul al XVI-lea, oprea implacabil pătrunderile rapide și fatale pe cai ale jefuitorilor de trupuri veniți cu groază din teritoriul nordic sahelian îndepărtat. Supraviețuirea sa, fragmentată pe peisaj, dezvăluie astăzi organizarea tehnică uluitoare și ambiția arhitecturală colosală de protejare deținuă de așezările puternice mamprusi de odinioară. Istorie K8 — organizare militară așezărilor pre-coloniale.",
+      "factsAdvanced": [
+        "Apărarea circulară groasă a fost construită brutal și impunător pentru fostul imperiu sacru invincibil Mamprusi.",
+        "Materialele masive de pe șantier includeau lapte amar de origine organică și lut tare ca roca amestecate dur.",
+        "Zidul din pământ roșu respingea hoardele și coloanele pe cai uriașe invadatoare predispuse la jaf.",
+        "Istoria confirmă masiv Naa Jaringa, regele aprig din sec. 16, drept fondatorul arhitect militar principal.",
+        "Monumentul s-a curbat complet sub eroziunea secolelor de precipitații abundente acide asupra argilei roșii.",
+        "Regiunea servește în clipa de față ca leagăn istoric profund respectat de căpetenia supremă actuală activă Nayiri."
+      ]
+    },
+    {
+      "id": "pikworo-slave-camp-history-v2",
+      "descriptionAdvanced": "Tabăra de Sclavi Pikworo evocă teroarea nemărginită și lacrimile uscate în inima regiunii de graniță stâncoase superioare aride (Upper East). Acoperit de bolovani naturali colosali în anul de sângeroasă memorie 1845, acest teritoriu asigura o capcană deschisă barbară unde jefuitorii Babatu își legau și pedepseau violent prizonierii de război capturați, transformând piatra însăși într-o sală sângeroasă de forțare psihică și fizică în drumul prăfuit spre zonele pieței sudice de la Salaga. Mormintele, pietrele scobite unde captivii mâncau dur cu mâinile și găurile groazei lăsate, uimesc absolut și azi martorii și turiștii lumii. Istorie K8 — asediul african interior și sclavia interioară.",
+      "factsAdvanced": [
+        "Situl colosal barbar, dechis masiv la cer, era guvernat pe lanțuri fierbinți începând din groaza anului 1845.",
+        "Teritoriul muntos era folosit cu sălbăticie de temutul comerciant sclavagist Samori Touré și oamenii lui militari aprigi.",
+        "Bolovanii naturali gigantici de pe sol sunt sculptați sângeros unde prizonierii mâncau groaznic proviziile din praf.",
+        "Sunt lăsate urme vizibile neșterse pe lespezi mari unde sclavii disperați loveau ritmic să capete un strigăt muzical amar.",
+        "Priveliștea include cimitirul dur tăcut neamenajat dedicat prizonierilor omorâți brutal pentru indisciplină masivă fizică.",
+        "Pikworo constituie martorul unic masiv de pământ și piatră brută precolonială necontaminată de vestul străin din nord."
+      ]
+    },
+    {
+      "id": "bono-manso-history-v2",
+      "descriptionAdvanced": "Bono Manso s-a lăudat sute de secole la rând drept centrul sacru de neclintit și așezarea fondatoare colosală a popoarelor mândre akan pe tărâmul vestic ghanez bogat, până când gloria sa s-a frânt total în groaznicul an 1723. Astăzi doar săpăturile masive cu pensula de praf scot la lumină faimoasele metale de aur brut, ceramica uimitoare colorată geometric din așezările locuite imens. Odată prăbușit iremediabil de soldații teribili ashanti invadatori de foc sudic, orașul Bono a rămas îngropat pe veci ca un focar secret neprețuit al civilizației negre preistorice gigantice și strălucitoare pierdute în foc și sabie nemiloasă. Istorie K8 — originile uimitoare ale regatelor africane de pădure.",
+      "factsAdvanced": [
+        "Servit ca pilon și reședință imensă originală fondatoare uriașă pentru marea etnie și triburile invincibile akan.",
+        "A dominat complet ca oraș gigant piețele faimoase de vânzări cu metale strălucitoare colosale de aur.",
+        "Orașul legendar a fost incendiat feroce și anihilat brutal prin forțele de invazie armate regale din Ashanti.",
+        "Data prăbușirii sale catastrofale este documentată cert și tragic cu sânge fix în vara uimitoare a anului 1723.",
+        "Situl antic descoperit a oferit de la adâncime cantități impresionante masive de artefacte valoroase de aramă și vase din pământ vechi.",
+        "A lăsat și a mutat capitala tradițională nobilă refugiată imediat spre marele oraș vecin fondat cu forța numit Techiman."
+      ]
+    },
+    {
+      "id": "begho-ancient-city-history-v2",
+      "descriptionAdvanced": "Begho atrage spiritele aventuriere fiind unul dintre cele mai vibrante mistere și orașe antice comerciale ghaneze saheliene masive șterse definitiv de nisipurile nepăsătoare uitate de mult ale trecerii crude timpului. Cândva freamăta înfloritor prin forța imensă a caravanele cămilelor aspre aduse cu mirodenii și cantități inestimabile uimitoare de bogății prețioase de aur. Prăbușit uimitor rapid de o boală mortală sau o serie de lupte de stradă groaznice sângeroase printre bogații locului adunată abuziv la sfârșitul asprului deceniu din anul 1700. Istoria precolonială ascunsă aduce o greutate masivă dovedind inovația minunată arhitecturală autohtonă. Istorie K8 — destinele metropolelor antice de negoț.",
+      "factsAdvanced": [
+        "A freamătat ca fiind gigantica stație terminală faimoasă din sud orientată perfect spre rutele din sahariene brutale de caldură transfrontaliere arabe.",
+        "Locuitorii masivi erau o intersecție minunată pașnică incredibilă care alătura comercianți din toate rasele, incluzând etnici mande bogati și influenți din nord.",
+        "Punctul masiv principal economic unde pulberea grea curată de minereu auriu se schimba nemilos cu plăcile din sticlă uriașe din sarea curată rară.",
+        "Săpăturile minunate masive arheologice extinse din anii șaptezeci faimoși au dus brusc la lumină bucăți întregi cu ceramică chinezească scumpă de lux importată uluitor de sus.",
+        "Așezarea uriașă comercială colosală a dispărut total prăbușită și decimată de foame cruntă din conflicte interne politice sângeroase civile interne în prima și sumbra decadă a sec. 18.",
+        "Situl e o minune absolută vizibilă din noroi unde astăzi au supraviețuit uluitor o serie rară spectaculoasă a cuptoarelor mari aspre de fier."
+      ]
+    },
+    {
+      "id": "kintampo-complex-history-v2",
+      "descriptionAdvanced": "Complexul Neolitic Kintampo de pe treptele platoului este cartea colosală masivă deschisă de pietre ancestrale aspre dezvăluind misterele faimoase sacre și colosale africane. Aici arheologii uimiți au readus recent brutal la lumină zorii incredibili ancestrali din trecerea mileniului, vechi și uluitori tăcuți, care au scos clar dovada istorică definitivă pentru prima societate neagră vest-africană completă ce a descoperit taina secretelor agricole imense stabile părăsind sălbăticia brută adâncă pentru câmpiile domesticite și construirea manuală artizanală brutal de rezistentă cu topoare grele, fine create dintr-o serie lungă milenară uimitor aranjată pe stâncă de fier din cuarț. Istorie K8 — uneltele și evoluția preistorică africană neolitică masivă.",
+      "factsAdvanced": [
+        "O capodoperă mondială sacră de top ca bază și așezământ cu roci tăcute tăiate în stadiile neolitice și din epocile adânci sălbatice grele africane majore.",
+        "Situl arheologic extins dezgroapă uneltele brute ascuțite cioplite masiv artizanal cunoscute de mii ca rașchete rare sau „tigări mari din ceramică dură colosală aspră din piatră arsă curată Kintampo”.",
+        "Dovezile uluitoare atestă și confirmă tranziția și mutarea bruscă brutal de tăcută de la triburi sălbatice mișcătoare rătăcitoare fioroase către cultivarea liniștită permanentă imensă.",
+        "Urme organice uluitoare incredibil testate au atestat utilizarea dură tăcută artizanală a fructelor aspre sacre grele masive recoltate natural direct din sămânța de palmier veche și mazărea imensă sălbatică cowpea.",
+        "Descoperirile și analizele științifice majore spectaculoase din adânc s-au concentrat cu greutate masivă grea extinsă pe platoul stâncos uscat din savana sacră aspră centrală a locului.",
+        "Faimoasa cultură agricolă de top a pulsat de viață mândră tăcută milenară între deceniile estimate a anilor glorioși antici colosali dintre 2500 și glorioșii 1400 cu greutate uriașă de înaintea Erei Creștine faimoase clare."
+      ]
+    },
+    {
+      "id": "prempeh-ii-museum-history-v2",
+      "descriptionAdvanced": "Muzeul regelui sacru Prempeh al II-lea Jubilee constituie adăpostul fabulos copleșitor din inima masivă de bază a colosului Kumasi ascunzând minunat tezaurul curat al națiunii. Locul radiază și conservă glorios comorile fermecătoare brute aparținând vechiului curaj mândru colosal rege antic și obiectele ceremoniale aspre sacre grele masive cu fire din sticlă aurită curată neprețuită alături de gențile cu aur pur. Punctul de referință uluitor uimitor faimos dinăuntru este desigur legendarul sac și clopotul greu regal din metal galben care sună chemarea războiului brutal pentru rege împotriva forței imense brutale de intruziune pe uscat europene imperialiste. Cultura K7 — comori monarhice masive.",
+      "factsAdvanced": [
+        "Muzeul sacru și bogat e tăcut localizat simbolic fix în inima de piatră colosală masivă dură centrală imensă din complexul și piața mare Centrului Cultural Național mândru uriaș Kumasi.",
+        "El conservă absolut admirabil comorile brute masive grele spectaculoase aurite antice de artizanat vechi tradiționale uimitoare din tezaurul regal Ashanti unic.",
+        "Numele a primit onorul masiv pentru fostul impunător uluitor de demn rege suprem al imperiului și tărâmului Prempeh fix în anul dur glorios sfânt și magic milenar de festivități mari jubilare pline (1951).",
+        "Vitrinele masive expun copleșitor vizitatorilor relicve tăcute sfinte aduse din luptele sângeroase istorice inclusiv celebrul impresionant sac fals din pânză creat cu magie să înșele oficialii și soldații grei puternici englezi pe munte de aur și jaf colosal din 1900 asediu dur de la Kumasi furios.",
+        "Zidul interior tăcut oferă de asemenea loc și statuilor impunătoare grele masive mari create nobil sculptate artizanal la ordin de rege cu portretele uluitoare spectaculoase din lemn aspre care expun fețele regilor uriași Ashanti decedați sacri morți pe tron de aur divin imens uluitor.",
+        "Locul colosal constituie de asemenea pe listă vizitelor regale absolut primul destinație minunată impresionantă educațională istorică și mândră masivă uluitoare plină rezervată liderilor externi aflați imens oficial pe vizite mari grele masive ghaneze diplomatice."
+      ]
+    },
+    {
+      "id": "fort-st-jago-history-v2",
+      "descriptionAdvanced": "Fortul faimos Coenraadsburg sau Sfântul legendar brutal St. Jago din piatră stă ascuns și înalt ca vulturul de veghe așezat dur pe cel mai mare masiv deal de granit peste clădirea uriașă olandeză, Castelul crunt Elmina asediindu-l istoric de pe coastă. Zidit greu sângeros pe tăcute la anul vechi imperial masiv colosal groaznic din anul militar 1665 după forța artileriei aspre asediatoare a olandezilor, a adăpostit cel mai teribil bastion greu creat militar dur strategic capabil precis și exclusiv să zdrobească navele rebele. Culoarea masivă și pietrele nefolosite niciodată pentru a adăposti crunt prizonierii de sclavi negri l-au definit pe munte ferm brutal cu demnitate uriașă ca structură complet mândră curat strict cu profil militar uluitor unic curat militar strategic grandios. Istorie K7 — asediu naval transatlantic dur brutal și colosal european greu de piatră faimoasă imensă de pământ colosală veche.",
+      "factsAdvanced": [
+        "A fost inaugurat violent sub nume și trupe masive aparținând noii armate corăbiilor marine puternice armate colosale mari de olandezi în invazia anilor negri 1665 de control complet.",
+        "Structura principală dominantă masivă gigant a oferit baza exactă din granit înalt dur pentru a folosi tunurile aspre mari contra apărării grele portugheze și castelul omonim asediat faimos dur Elmina deasupra plajei.",
+        "Este una din rarisimele curiozități clădiri de pe hartă ce constituie o fortificație dură completă absolut uriașă și de forță destinată scopurilor pur și brutal exclusiv pe ramura pur militara curată colosală strict și ferm curată fără sclavie brutală pe uscat.",
+        "Garda dură din cazarmă păstra siguranța grea pe ocean oferind semnale și alarme tăcute luminate în cer imens cu un uriaș zid gros pentru corăbiile și convoaiele comerciale grele uluitoare sosite în apă la cap.",
+        "Monumentul colosal a fost utilizat în târziu masiv ca și casă uriașă închisă de izolare strictă închisă ca faimos așezământ sever militar dur olandez grandios spital penitenciar aspru rezervat exclusiv doar pentru foștii uriași soldați duri pedepsiți pentru încălcarea ordinelor masive grave aspre europene grele olandeze de armată brutală.",
+        "Piatra grea stă mărturie și oferă cu forță aspră cea mai de preț și mai vastă colosală vedere uimitoare la ocean de coastă uriașă panoramică magnifică unică brutal de masivă extinsă a zonei orașului pescăresc imens bogat faimos uluitor Elmina."
+      ]
+    },
+    {
+      "id": "fort-victoria-cape-coast-history-v2",
+      "descriptionAdvanced": "Fortul Victoria ridicat în 1821 de puterile coloniale engleze străjuiește așezarea litorală ca o structură defensivă solidă, un martor circular la istoria orașului, dedicat de fapt Reginei uriașe din Anglia pe final. La început faimoasa așezare din piatră a purtat denumirea simbolică dură masivă colosală MacCarthy Redoubt, și veghea dur pe culmile dealurilor pentru a supraveghea cu tunurile amenințarea aprigă colosală a rebelilor imensi fioroși care puteau să lanseze un atac teribil fulgerător sângeros pe așezările locale din jur. Un turn circular retras astăzi invită vizitatorii curioși de pe stânci să prindă o priveliște amețitoare. Geografie K7 — fortărețele dealurilor masive brute regale.",
+      "factsAdvanced": [
+        "Temelia clădirii dură aspră militară masivă din piatră a fost pusă strategic curat colosal la nivel curajos din deal la anul uriaș 1821 din Imperiul Regatului.",
+        "Structura masivă uriașă are baza ferm curat așezată exact ca forma unică brută faimoasă din cerc de formă colosală tăiată masiv brutal în munte solid din piatră gros rotund ca un tub.",
+        "Scopul colosal principal militar curajos dur era ochiul uriaș de supraveghere cu artilerie a asedierii așezărilor de coastă a pericolelor masive sângeroase ashanti sosite aspru puternic pe interior din uscat dens masiv african din adânc.",
+        "A fost inaugurat de trupe masive și a fost la lansare colosal onorat și onorific ferm dur denumit brutal cu onoare pe generalul guvernator colosal Charles MacCarthy ucis crud aspru în bătălie colosală cu sabie curată brutal masivă aspră pe uscat.",
+        "Reprezintă baza din care soldații de garnizoană aveau legătură directă brutal aspră prin tunel vizual faimos semnal militar uriaș masiv pe munte deal cu vechiul uriaș colosal faimos masiv mândru puternic Fort principal de război colosal masiv de piatră colosal William tăcut din dealul tăcut curat de gardă uriaș vecin uluitor apropiat.",
+        "Structura masivă a fortului s-a menținut pe picioare ca prin minune dur absolut admirabil până la ziua aspră uriașă minunată istorică de uimire uriașă masivă istorică faimoasă azi ca atracție monumentală masivă tăcută tăcut minunat de turism mondial aspră pe uscat pe cer vizual masiv clar pe stâncă ferm."
+      ]
+    },
+    {
+      "id": "fort-mccarthy-history-v2",
+      "descriptionAdvanced": "Ruinele uriașe ale faimosului așezământ stâncos numit dur pe coastă puternic Fort McCarthy își spun durerea tăcută, prăbușindu-se în așezarea uimitoare de coastă plină Cape Coast de sus de munte colosal și poartă faima numelui nefericit de destin istoric guvernator ucis crud colosal sângeros din bătălia imensă britanică Nsamankow în anul militar tăcut masiv glorios crunt aprig plin cu sânge vechi colosal istoric trist brutal 1824 Charles MacCarthy brutal. Deși piatra grea sfărâmată zace pe pământ zdrobită azi colosal pe colină, importanța strategică tăcută veche a apărării uluitoare a garnizoanei colosale marine masive marine brutale a jucat uimitor masiv brutal uriaș protejarea așezărilor masive brute masive istorice. Istoria K7 — jertfe guvernatori uciși în lupte crunte.",
+      "factsAdvanced": [
+        "Clădirea masivă servea direct ca armă strategică contra pătrunderilor cu sulițe aspre asediatoare colosale mari de inamici imens veniți ferm puternic brusc curat din faimoasă pădure mândră densă verde fioroasă ashanti imens pe munte de deal așezat brutal de ferm curat colosal uriaș cu viteză aspră dură colosală pe uscat uscat de atac clar uluitor faimos din nordul Ghanei.",
+        "Terenul de bază a preluat denumirea aspră masivă faimos brutal cu onoare pe generalul guvernator Charles MacCarthy uriaș pierdut dur fatal tăcut din viață tăcut colosal crunt uluitor de brutal ucis decapitat ferm de sabie masivă în războiul cu sălbatic sângeros uriaș ferm brutal colosal uriaș faimos cu puternici din ashanti colosali din bătălia cruntă.",
+        "Turnurile și zidăria masivă au fost realizate la dispoziția trupelor colosale marine și s-au așezat sus la mijlocul asprului crunt an uriaș 1822 pe colină mândră curată vizibil tăcut ferm sus la vizualizare uriașă masivă brută colosal pe oraș tăcut masiv fix minunat și clar deasupra cape coast cu orizont uriaș.",
+        "Ruinele uimitoare și locul masiv reprezintă doar o amintire colosală a structurilor auxiliare folosite tăcut colosal minunat și masiv militar tăcut cu artilerie colosală puternică curată pentru forța uriașă brută de foc ca flanc militar auxiliar fortăreței uriașe colosale celebre imense celebre vechi Castelului colosal sfânt faimos uluitor plin dur crunt tăcut uriaș sângeros tăcut colosal istoric Cape Coast faimos la ocean.",
+        "Rămâne ca ultimă amintire colosală masivă dură britanică mândră și ascunsă greu minunat aspră colosală veche pe munte deal din seria de forturi defensive puternice circulare tăcute masive uriașe ferm construite la sud de faimoase dealuri tăcute de oraș colosal masiv vechi englez colosal pe continent uluitor faimos cu munte mare din vest pe valuri.",
+        "Zonă arheologică păstrează colosal faimos azi uluitor masiv în uitare cruntă pietre din granit oxidat, amintind uluitor brutal curajos aspre dur crunt de luptele sângeroase uluitoare civile interne și invaziile uluitor feroce mari din prima și colosala umbra groazei uriașe istorice faimoasă din adânc a secolului faimos milenar aspre britanic."
+      ]
+    },
+    {
+      "id": "fort-good-hope-history-v2",
+      "descriptionAdvanced": "Fortul speranțelor aspre spulberate și curajului antic masiv tăcut Senya Beraku s-a ridicat masiv pe o stâncă de neclintit uriașă denumit crunt brutal olandez dur colosal vechi mândru faimos uluitor curajos istoric Fort Good Hope, la mijloc de an uluitor istoric brutal colosal milenar vechi din aur sângeros tăcut colosal antic greu vechi faimos tăcut 1667 ca fortăreață curajoasă uriașă masivă uriașă brutal de apărare curajoasă puternică sângeroasă la tărm olandeză sfântă cruntă pe uscat colosal. Structura triunghiulară groasă tăcută grea aspră masivă militară dură plină de tunuri din piatră faimoasă aspră uriașă de olandezi a slujit cu fior brutal pe piețele uluitoare tăcute aspre colosale negre de aur greu fin masiv de dur colosal de lux alături de depozit crunt uman aspră uluitor curat dur și colosal crunt de sclavi plini pe plaja tristă. Este considerat ca cel de bază ultimul punct sudic de pe colină de coastă puternic colosal cu lacrimi tăcut faimos colosal masiv olandez uluitor greu imens masiv uluitor grandios plin sângeros curat pe harta plină din 1715. Istorie K8 — faimoasa forță și dominare navală maritimă de fort olandez mândru uriaș cu turnuri groazei brutal.",
+      "factsAdvanced": [
+        "Temelia de piatră colosală și baza faimosului așezământ stâncos a fost colosal ferm tăcut uriaș fixat strategic la marginea uriașă masivă olandeză tăcut curajos uriaș tăcut și masiv colosal tăcut fix inaugurată sângeros în anul vechi militar colosal cu forță colosal masiv vechi din fier greu 1667 sub putere colosal olandeză uriașă.",
+        "Structura principală defensivă masivă uluitoare aspră curată brutal a reprezentat pe tăcute la final grandios curajos dur un uluitor de frumos triunghi magic colosal cu turnuri uluitor militare aspre colosal faimos masiv așezat fix uriaș la baza sa faimoasă colosal faimos cu tunuri tăcut gros rotunde colosal masiv mândru unic groase.",
+        "Deține în inima curții interioare mari subterane uluitoare catacombe închise uriaș brutal și crunt temnițe reci de sclavie ce poartă în pietre faimos uluitor brutal curat uriaș masiv grele tăcute istoria amintire aspră și uluitoare masivă plină din perioada teroarei de secol tăcut sângeros groazei sclavagistă uluitoare colosal curat vechi trist faimoase dur pe mare din continent pe ape brute uluitor aspre.",
+        "În timpul marilor răscoale aprige lupte aspre grele istorice aspre crunte din anii uluitor brutali istoric uriași de război tăcut sângeroși aprigi cruzi groaznici colosali brutali sângeroși 1704 forțele aprige curajoase locale aspre din tărâm din coastă așezate puternic faimos l-au prăbușit temporar uluitor curajos masiv cu sulițe aspre dur sângeros colosal imens curat dur pe el.",
+        "A fost asediat cu mare și aprigă duritate grea uluitoare aspră colosal masivă sângeroasă pe coaste colosal cu foc uriaș din pământ vechi și de forțele militare fioroase aspre armate faimoase din trib faimos mândru puternice invadatoare curajoase puternic din ashanti armată așezate greu tăcut brutal în secol groaznic uluitor masiv aspră vechi colosal crunt faimos cu duritate veche colosal 1800 militar curajos.",
+        "Zonă plină poartă uluitor curajos amintiri cu monumente vechi de ruine tăcute uriaș masiv pe coastă și așezarea uluitoare a devenit proprietatea statului regat puternic uluitor masiv englez britanic colonial tăcut uriaș așezată la mare dur tăcut la faimoasa zi istorică de transfer de pace olandez din tăcut deceniu grandios glorios cu aur curat aspră 1868 colosal mândru vechi faimos la ocean faimos uriaș tăcut minunat curajos pe coastă dur."
+      ]
+    },
+    {
+      "id": "fort-patience-history-v2",
+      "descriptionAdvanced": "Fortul faimos Olandez de răbdare faimos așezat falnic pe colină aspră de granit uriaș cu nume simbolic blând colosal aspră Fort Patience uluitor (Goede Hoop de pace minunat curajos) domină așezarea litorală antică aspră curată Apam pe pământ cu stânci tăcute faimos. Zidit greu în pace colosală masivă sângeros de nobilimea cruntă aprigă masivă groaznic uriașă olandeză pe parcurs de tăcut zece uluitor tăcuți crunt ani brutali colosal uriași plini de lupte cu săteni 1697–1702 tăcut uluitor și sângeros. Locația are o poveste de așteptări de rezistență uriașe faimoase crunte cu stânci de coastă dur faimoase colosale, și azi stă falnic de pământ colosal oferind ca punct minunat turistic tăcut curat uluitor grandios uimitor faimos o pace și un respect profund colosal pe stânca uluitoare minunată grandioasă și uriașă minunată de coastă aspră tăcut cu ocean magnific. Istorie K7 — răbdare și alianțe comerciale pre-coloniale.",
+      "factsAdvanced": [
+        "A fost inaugurat violent sub trupe masive olandeze cu onoruri militare uriașe din armată uriașe corăbiilor grele cu tăcut tun curajos faimos colosal masiv glorios din piatră faimos inaugurat masiv tăcut an de grație uriaș 1702 minunat masiv de coastă pe tărâm cu stânci tăcute la final de efort uluitor aspră de 5 ani curat uluitor masiv dur colosal istoric.",
+        "Numele tăcut curajos uriaș dur faimos Răbdare colosal olandez uriaș minunat Patience tăcut amintește și comemorează respectuos greu brutal istoric timpul lung greu așteptat de ambele triburi grele olandeze aspre aliate pe tratat comercial greu aprig dur pe pământ cu săteni locali uriaș aprigi curajoși masiv din Apam pe apă.",
+        "Fortăreața din zid stă fixată strategic cu rol faimos aprig aspră colosal minunat uriaș apărător greu tăcut pentru pace uriaș pe coasta și pentru paza plajei cu rute comerciale grele din ape din ocean faimoase bune pentru comerț auriu tăcut dur colosal faimos fin curat cu nave olandeze și a respinge raiduri aspre aprigi crunte.",
+        "Monumentul colosal a suferit istoric uriaș ca garnizoană dură aspră groaznic atac aprig sângeros de mare cu putere uluitoare din forța tribală aspră și de forțele militare fioroase ashanti aspre așezate greu pe uscat în perioada deceniu sumbru uluitor crunt 1811 cu distrugeri uriașe de coastă masive dur la zid pe coastă.",
+        "Terenul stâncos și locul uriaș masiv reprezintă un pilon uriaș vizual mândru falnic și fortul e un colosal minunat far ascuns istoric pentru apusuri magice grele uluitoare vizibile frumos panoramic uluitor minunat uimitor cu farmec și aer pe mare minunat glorios și liniște faimos uriaș.",
+        "Include ziduri cu ferestre faimoase uriașe aspre la apă din bază temnițe groazei aspre goale care sugerează clar un trecut greu sclavagist tăcut cu amintiri sumbre faimos legate istoric de trafic de vieți uriaș tăcut uluitor olandez și comerț faimos colosal pe o vreme groaznic dur faimos colosal masiv pe ocean cu valuri grele dur pe valuri din trecut faimos uluitor curat masiv pe tăcut."
+      ]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "Mausoleul impresionant și glorios faimos uluitor masiv al marelui lider curajos istoric Kwame Nkrumah este așezat maiestuos și cu onoare uluitoare în inima capitalei curajoase Accra, oferind recunoștință sacră la cel mai mare om politic, părintele statului modern. Punctul masiv de reper stă ridicat pe terenul istoric faimos de pământ colosal sacru uriaș unde el a strigat și proclamat cu foc și dorință istorică independența națiunii ghaneze curajoase din martie 1957. Vizitatorii pășesc în tăcere pe un tărâm înconjurat cu copaci vechi și admiră sculptura gigant cu bustul statuii, și mașina președintelui faimoasă din era istorică uluitoare veche de luptă pentru pace africană curată minunată pe cer tăcut. Arhitectură K8 — monumente de pace națională uriașe masive.",
+      "factsAdvanced": [
+        "Așezământ istoric sfânt adăpostind corpul tăcut glorios al legendarului lider politic din Ghana cu respect masiv Dr. Kwame Nkrumah.",
+        "Statuia imensă uriașă și monumentul central falnic este orientat mândru pe centru faimos spre direcție simbolică a chemării mândre a forței înainte uluitor curajos grandioase la libertate pan-africană masivă uriașă pe cer mândru.",
+        "Include oficial la intrare parcul faimos de flori tăcut și liniștea sacră și fântânile uriașe spectaculoase care străjuiesc cu minunăție uriașă masiv dur faimos tăcut mormântul pe pământ pe alei faimos.",
+        "Mausoleul a fost sfințit pe teren istoric tăcut și deschis festiv cu onoruri militare uriașe de președinte pe deceniu uluitor din tăcut sângeros curat curajos an mare cu onoare faimos istoric 1992 cu ceremonii masive de respect la mormânt uluitor glorios masiv dur pe uscat cu pace pe soare.",
+        "În interiorul muzeului cu amintiri găsești cu uimire mașina clasică unicat oficială a liderului și cărți masive prețioase de luptă uluitor curaj istoric la vedere faimos prețioase pe hârtie veche cu acte tăcute grandioase uluitoare secrete de pace uluitor masive colosale din luptă minunată cu efort curajos pe uscat.",
+        "Monumentul colosal a fost oficial reconstruit masiv de curând în eforturi uriașe colosal guvernamentale cu sume faimoase dur uriașe și oferă spațiu faimos educațional de patrimoniu de stat absolut vizibil uriaș național cu prestigiu colosal respectat de străini faimos uriaș pe tot nivel istoric uluitor minunat grandios."
+      ]
+    },
+    {
+      "id": "independence-arch-landmarks-v2",
+      "descriptionAdvanced": "Arcul falnic de triumf denumit uluitor de stat masiv Arcul Independenței din Ghana se impune colosal pe cer pe fundalul oceanului albastru fix în uriașa și celebra Piața Stelei Negre glorioase din capitală. Simbolizând efortul uriaș crunt și lupta popoarelor la independență completă glorioasă cu lacrimi în fatidicul din sfânt an curajos 1957. Este considerat una din cel mai mare punct colosal militar uriaș turistic, și străjuiește așezarea uluitoare a flăcării sacre militare curajoase arzătoare neîntreruptă de luptă pe uscat colosal din stat. Când au loc mari uluitoare serbări cu defilări, arcul devine uluitor epicentrul curat masiv militar de foc patriotic uriaș național unde mii salută cu respect uriaș uluitor minunat faimos patria mamă colosal uluitoare uriaș pe mare curajos. Istorie K7 — simboluri monumentale ale suveranității africane libere de colonizare.",
+      "factsAdvanced": [
+        "Arcul faimos e pilon de forță construit din ordin colosal și comanda directă măreață a liderului istoric din Nkrumah așezat falnic pe mal în anul mare sărbătoare uriaș grandios de libertate 1961 pe coastă uluitor cu mândrie.",
+        "Structura principală masivă de triumf conține și adăpostește inscripția masivă onorifică colosal sfântă dur „Libertate și Justiție curată” cuvânt magic cu putere aspră de deviză curajoasă și sfântă patriotică mândră de pământ colosal pe stat faimos.",
+        "În fața uriașului monument național colosal faimos arde etern și magic neobosit flacăra istorică a păcii sacre inaugurată în deceniu uriaș mândru independent glorios de pace național la foc uluitor faimos din zi liberă curajos faimos cu mândrie.",
+        "A devenit centrul militar și faimos punctul colosal final uluitor grandios unde soldații uriași cu steaguri faimos afișează de ziua glorioasă de pace mândră tăcut 6 martie curajoasă cu respect aspră parada pe plajă în lumina la paradă.",
+        "Piatra și zidurile groase ale bazei colosale de pod arată un design mândru curat faimos arhitectural brutalist specific perioadei vechi glorios colosale din era socialistă a deceniilor reci colosale mari de forță uriaș cu arhitectură simplă masivă cu steaguri la înălțime mândră.",
+        "Acoperă un spațiu colosal larg tăcut unde turiștii sunt liberi faimos legal să capteze imagini colosale cu mândrie uriaș uluitoare însă strict masiv respectând uriaș interdicția dură clară colosală strict de a fotografia cu pază a zonei militare masive oprite sângeros pe alee curat mândru cu armată pază la porți colosal."
+      ]
+    },
+    {
+      "id": "black-star-gate-landmarks-v2",
+      "descriptionAdvanced": "Poarta Stelei Negre cunoscută vizual masiv faimos în lume pe tăcute (Black Star Gate) guvernează absolut centrul faimos simbolic tăcut de defilare militar din marea Piață mândră uriaș de libertate colosal din inima metropolei Accra. Ceea ce distinge structura faimoasă colosală de beton masiv este uriașa sa minunată stea neagră faimoasă din centru falnic, mândru ridicată aspră cu vârf, onorând destinul curajos african și steagul uluitor cu dorința faimoasă curată masiv de emancipare de luptă pe uscat colosal. Este așezată exact opus Arcului, oferind uimitoarea și glorioasă mândră uriaș alee colosal completă de triumf pe care liderii de pace internaționali trec solemn tăcut onorând istoria poporului uluitor mândru african dur din 1957 glorios uriaș. Geografie K7 — monumente urbane și repere istorice gigantice.",
+      "factsAdvanced": [
+        "Are deasupra sa la vârf așezată mândru celebra și glorioasă Stea Neagră uluitoare a unității tăcute sacre a statelor africane mândre pe cer de piatră colosală masivă vizibilă de la distanță colosal.",
+        "Servește ca a doua mare falnică mândră bază a uriașei structuri monumentale construite la onor pe mal în mândru curajos 1961 sub bagheta primului mare guvern național uriaș de eliberare glorios istoric masiv de lider pe stat faimos.",
+        "Situl colosal masiv monumental reprezintă una dintre puținele zone mari urbane largi din mândra faimoasă Africa de Vest capabile colosal de forță faimoasă să susțină zeci de mii uluitori pe rând simultan de vizitatori la adunare la pământ cu o scenă.",
+        "Este folosită pe larg faimos cu spectacol colosal pentru fotografiile imense publicitare și faimos onor onorific faimos diplomatic tăcut ca simbol curat mândru tăcut național oficial neoficial din inima de capitală turistică pe litoral uluitor cu mândrie.",
+        "Pe pereți există o inscripție masivă uluitoare faimoasă dedicată colosal recunoștinței aspre pentru jertfă și onoare dură dedicată eroilor colosali căzuți la datoria războiului crunt independent pentru mândră eliberare glorios istoric uluitor ucis masiv cu sulițe aspre dur curajos faimos de coastă masivă.",
+        "Reprezintă baza din care soldații de paradă trec sub arcadă tăcut masiv faimos colosal la festivitate cu pași de marș militar aspră dur colosal cu defilare curajos colosal uriaș faimos în ritm cu muzică tăcută militară colosal faimos pe alee curată uimitor pe asfalt aspră la cer vizual clar cu steag masiv."
+      ]
+    },
+    {
+      "id": "accra-sports-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul uriaș de fotbal falnic al statului denumit simbolic mândru Ohene Djan sau faimos curajos Accra Sports Stadium este cel mai palpitant focar colosal uluitor energetic cu tribune fierbinți unde vibrațiile faimoase uluitoare ghaneze de meci național aspră urlă uluitor curajos de bucurie și durere. Amplasat strategic minunat tăcut la doi pași uluitori scurți falnic faimoși uriaș colosal de marea clădire de stat pe apă Piața de pace cu Marea alee uriaș de coastă, complexul a adăpostit absolut minunat jocurile colosale crunte sângeroase istorice faimoase și cu durere colosal cele mai glorioase istorice faimoase bătălii uriaș sportive, adunând zeci de mii în inimi colosal fotbalistice pe plajă. Istorie K8 — rolul uluitor curajos colosal dur faimos al sportului mândru imens ca pace și vindecare cu tristețe uluitoare faimoasă colosal așezată la națiune pe stadion de dur pe iarbă faimos.",
+      "factsAdvanced": [
+        "Inaugurat pentru prima dată falnic și oficial în faimosul an istoric curat colosal vechi 1952 cu forța și pe seama sprijinului colosal guvernului cu faimos fond faimos uluitor curajos uriaș tăcut pe uscat de englezi colonizatori colosal cu bani de sport.",
+        "A purtat în timp masiv tăcut denumirea istorică aspră cu onoare tăcută și glorie faimoasă Ohene Djan uluitoare dedicată onorării vechi primului lider ghanez curat colosal grandios mândru curajos dur faimos de fotbal șef tăcut pe birou din istoric național faimos uluitor sport." ,
+        "Găzduiește acasă mândrele echipe faimoase din capitală aspră cunoscute Hearts of Oak glorioasă și mare faimoasă puternică Great Olympics echipe istorice uluitor iubiți colosal cu galerii pătimașe de microbiști uluitori uimitor cu dur faimos fotbal uriaș pe teren curat verde mândru.",
+        "Este locul faimos cu durere adâncă unde s-a petrecut marea uriașă și crunta masivă dureroasă aspră fatidică fatală tăcut tragedie cruntă dur din an uluitor greu fatidic istoric crunt uriaș sângeros groaznic 2001 unde 127 suporteri tăcut și-au pierdut suflul striviți colosal fatal faimos aspră cu panică trist la meci cu uluitoare plângere dur uriașă de coastă.",
+        "Capacitatea imensă de pământ colosal atinge faimos uluitor oficial estimativ de aproape tăcut curajos uriaș de grandios uriaș număr faimos peste un uluitor cifră 40.000 tăcut masiv mândru oameni locuri cu scaune la meci de vârf cu urale masiv tăcut uriaș uluitor faimos din țară național pe gazon.",
+        "A fost locația uriașă epică istorică aleasă minunat și a beneficiat glorios minunat faimos curajos masiv de meciuri finale de foc faimos de fotbal uriaș minunat din turneu colosal Cupa pe continente a Africii faimoasă ediția tăcut uriaș masiv glorios uluitor din an curajos 2008 tăcut faimos colosal pe turneu curajos mândru uluitor uriaș cu cupă dur minunat cu aur aspră."
+      ]
+    },
+    {
+      "id": "national-museum-ghana-landmarks-v2",
+      "descriptionAdvanced": "Muzeul faimos Național mândru curajos al statului Ghana, deschis faimos tăcut și cu uimire masiv uluitor oficial de respectată așezare Ducesă curată regală de Kent chiar colosal în martie falnic din grandios anul sfințit uluitor glorios istoric vechi milenar tăcut independent mândru cu steag de onoare faimos masiv mândru istoric 1957, reunește inima și moștenirea colosală a continentului. De la sculpturi arhaice grele din fier curat arse tăcute din trib precolonial ashanti uimitor la vestigii regale vechi ascunse adânc cu istorie uriaș cu oale antice uluitor masive aspre tăcute neolitice ghaneze. Peisajul interior mândru din expoziții arată uriaș minunat viața cu măști de sclavie faimos tăcut mândru dureroase lăsând martor vizual tăcut absolut impresionant o poveste colosală vastă și onorific curată de durere sângeroasă, luptă pentru pace aspră uluitoare și onoare mândră curată cu minune și respect pe națiune glorios grandios curat istoric uriaș colosal istoric uluitor. Cultură K8 — arheologie artizanală și tezaurul muzeal masiv ancestral.",
+      "factsAdvanced": [
+        "Inaugurat pentru public faimos la final cu falnic uriaș fast diplomatic glorios la aniversarea glorioasă fix mândru de pace istorică independentă colosal uluitoare la mare ceremonie uriaș tăcut național curajos zi de 5 martie minunat aspră colosal an istoric 1957 cu onoruri militare uriașe din armată.",
+        "Colecția uluitoare cuprinde mii cu piese faimoase adunate curat uluitor istoric greu arheologice masive aduse pe drum cu trudă dur tăcut pe uscat de la vechea preistorie aspră primitivă din faimos colosal ev dur epocă de piatră milenară la tărâm modern istoric cu minune artizanală tăcut uluitor.",
+        "Găzduiește faimos exponate impresionante uriașe cu haine regale scumpe fine colosal faimos unicat uluitoare de mare onoare din istoria așezărilor tribale regale și scaune cu aur pur faimos curajos regal uluitor aspră la șefi ashanti tăcut respectat din țară nobil mândru dur uluitor masiv vechi.",
+        "Posedă mândru o uriașă și extrem curat valoroasă uriaș uluitoare colosal galerie impresionantă de exponate artistice aspre tăcute uriașe prețioase de pictură de tablou fin mândru vechi faimos tăcut pe modern artă ghaneză clasică onorific mândră uluitoare prețioasă aspră pe pânză colosal minunată.",
+        "Terenul stâncos adăpostește de pământ colosal parcul verde tăcut din exterior amenajat frumos faimos falnic așezat liniștit curajos dur cu statui faimoase uriașe cu lideri istorici uluitori mândri tăcuți uriaș faimos sculptați din piatră faimos respect și ciment falnic curat minunat mândru vizual uriaș aspră din granit.",
+        "În interiorul curajos se oferă faimos o vedere uluitor dureroasă cu greutate cu tăcute crunte grele piese sângeroase aspre dure legate simbolic uriaș brutal istoric amintind din teroarea amară a lungului dur curat faimos negoț cu lanț cu suflete sclavagist din sclavie crunt istoric groaznic pe munte istoric dur cu lacrimi faimos."
+      ]
+    }
+  ]
+}

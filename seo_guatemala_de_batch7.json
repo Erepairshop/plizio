@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pasacaballo-suspension-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Hängebrücke von Pasacaballo ist ein markantes Bauwerk im tiefen Dschungel des Departamentos Petén. Sie überspannt den mächtigen Fluss San Pedro und ist eine lebenswichtige Lebensader für die isolierten Gemeinden und archäologischen Stätten der Region. Bevor die Brücke errichtet wurde, war die Überquerung des oft gefährlichen Flusses nur mit kleinen Booten oder alten Pontonfähren möglich. Heute ermöglicht die Brücke nicht nur den lokalen Bauern den Transport ihrer Ernten, sondern erleichtert auch Wissenschaftlern und Touristen den Zugang zu tief im Regenwald verborgenen Maya-Stätten, wie dem Ausgrabungsprojekt El Perú-Waka'. Die Brücke ist ein Symbol für die langsame, aber stetige infrastrukturelle Erschließung des ehemals undurchdringlichen Petén-Regenwaldes. Geografie K7 — Infrastruktur im Dschungel.",
+      "factsAdvanced": [
+        "Die Brücke überspannt den Fluss San Pedro Mártir im nordwestlichen Petén.",
+        "Sie ist die Hauptverbindung zu den Ausgrabungen der Maya-Stadt El Perú-Waka'.",
+        "Die Infrastruktur erleichtert den Patrouillen der Nationalpark-Ranger die Arbeit.",
+        "Vor dem Bau war der Fluss ein großes logistisches Hindernis während der Regenzeit.",
+        "Pasacaballo ist eine der am isoliertesten gelegenen Gemeinden des Landes.",
+        "Das Bauwerk muss extremen tropischen Wetterbedingungen standhalten."
+      ]
+    },
+    {
+      "id": "la-aurora-zoo-landmarks-v2",
+      "descriptionAdvanced": "Der Parque Zoológico La Aurora, gelegen in der Zone 13 von Guatemala-Stadt, ist eine der beliebtesten und historischsten Institutionen des Landes. Gegründet 1924 während der Präsidentschaft von José María Orellana, wurde der Zoo in den letzten Jahrzehnten von einer veralteten Einrichtung zu einem modernen Naturschutzpark umgebaut. Die Gehege wurden massiv vergrößert und dem natürlichen Lebensraum der Tiere angepasst. Ein architektonisches Highlight innerhalb des Zoos sind die 'Casas de Té' (Teehäuser) – wunderschöne, pavillonartige Strukturen aus der Gründerzeit, in denen man sich ausruhen kann. Der Zoo ist nicht nur ein Erholungsort für Hunderttausende Hauptstadtbewohner, sondern spielt auch eine zentrale Rolle bei der Rettung und Rehabilitation beschlagnahmter Wildtiere (wie Jaguaren und Ara-Papageien) aus dem illegalen Handel. Biologie K5 — Tierparks und Arterhaltung.",
+      "factsAdvanced": [
+        "Der Zoo wurde am 25. Dezember 1924 offiziell der Öffentlichkeit übergeben.",
+        "Er erstreckt sich über ein großes, waldreiches Areal nahe dem internationalen Flughafen.",
+        "Historische Pavillons ('Casas de Té') aus den 1920er Jahren zieren den Park.",
+        "Der Zoo ist in die Themenbereiche Asien, Amerika, Afrika und Australien unterteilt.",
+        "Er führt erfolgreiche Zuchtprogramme für bedrohte guatemaltekische Tierarten durch.",
+        "La Aurora wurde mehrfach als einer der besten Zoos in Zentralamerika ausgezeichnet."
+      ]
+    },
+    {
+      "id": "paseo-cayala-landmarks-v2",
+      "descriptionAdvanced": "Paseo Cayalá, gelegen in der wohlhabenden Zone 16 von Guatemala-Stadt, ist ein architektonisches und städtebauliches Phänomen. Es handelt sich um ein gigantisches privates Immobilienprojekt, das im Stil des 'Neuen Urbanismus' (Neo-Urbanismo) als völlig eigenständige, extrem sichere Planstadt konzipiert wurde. Die Architektur orientiert sich stark an einer idealisierten, weißen europäischen oder kolonialen Ästhetik mit Fußgängerzonen, prunkvollen Kirchen, Boutiquen und Luxuswohnungen. Während Cayalá für die wohlhabende Elite und Touristen ein sicheres, sauberes und begehbares Paradies darstellt, wird das Projekt von Soziologen oft kritisiert: Es symbolisiere die extreme soziale Segregation in Guatemala, da sich die Reichen in private, ummauerte Städte zurückziehen, während die öffentliche Infrastruktur der Hauptstadt verfällt. Architektur K8 — Neo-Urbanismus und Segregation.",
+      "factsAdvanced": [
+        "Paseo Cayalá ist eine komplett privat geplante und verwaltete Stadt in der Stadt.",
+        "Das Projekt wurde vom luxemburgischen Architekten Léon Krier mitentworfen.",
+        "Alle Gebäude in Cayalá sind in einem einheitlichen, strahlenden Weiß gehalten.",
+        "Die Anlage umfasst riesige Einkaufszonen, Luxuswohnungen und eine gigantische Kirche.",
+        "Sicherheit und Sauberkeit werden durch eine private Polizei streng kontrolliert.",
+        "Cayalá spiegelt die starke Tendenz zu 'Gated Communities' in Zentralamerika wider."
+      ]
+    },
+    {
+      "id": "monumento-a-cristobal-colon-landmarks-v2",
+      "descriptionAdvanced": "Das Christoph-Kolumbus-Denkmal (Monumento a Cristóbal Colón) ist ein historisches Kunstwerk in Guatemala-Stadt, das heute am Ende der prächtigen Avenida Las Américas (Zone 13) steht. Ursprünglich wurde das massive Bronzemonument 1896 auf der Plaza Central enthüllt, musste aber im Laufe des 20. Jahrhunderts dem wachsenden Verkehr weichen und wurde mehrfach umgesiedelt. Das Denkmal zeigt Kolumbus stolz auf einer Weltkugel stehend, umgeben von Figuren, die Wissenschaft, Mut und die einheimische Bevölkerung (in einer heute oft als bevormundend empfundenen Haltung) darstellen. In den letzten Jahren ist das Monument – ähnlich wie in anderen lateinamerikanischen Ländern – immer wieder Ziel von Protesten indigener Bewegungen geworden, die den Feiertag der Entdeckung (Día de la Hispanidad) als Beginn eines jahrhundertelangen Genozids betrachten. Geschichte K8 — Denkmäler und koloniales Erbe.",
+      "factsAdvanced": [
+        "Das Denkmal wurde 1896 in Spanien gegossen und nach Guatemala verschifft.",
+        "Es stand ursprünglich im Herzen der Hauptstadt auf dem Hauptplatz.",
+        "Das Monument wiegt mehrere Tonnen und zeigt detaillierte allegorische Bronzefiguren.",
+        "Heute befindet es sich am südlichen Ende der Avenida Las Américas.",
+        "Am 12. Oktober (Kolumbustag) kommt es am Denkmal oft zu politischen Protesten.",
+        "Einige Teile der Statuengruppe wurden im Laufe der Jahre durch Vandalismus beschädigt."
+      ]
+    },
+    {
+      "id": "museo-nacional-de-arqueologia-y-etnologia-landmarks-v2",
+      "descriptionAdvanced": "Das Nationale Museum für Archäologie und Ethnologie (MUNAE) in der Zone 13 von Guatemala-Stadt ist das wichtigste und bedeutendste Museum des Landes zur Geschichte der Maya-Zivilisation. Das Museum beherbergt eine unbezahlbare, riesige Sammlung originaler Steinmonumente (Stelen), Altäre und Keramiken, die aus weltberühmten Stätten wie Tikal, Uaxactún, Piedras Negras und Kaminaljuyú gerettet wurden. Ein besonderes Highlight der Ausstellung ist der prachtvolle Jadeschmuck, darunter berühmte Totenmasken, die die unglaubliche Handwerkskunst der klassischen Maya demonstrieren. Der ethnologische Teil des Museums widmet sich den überlebenden Maya-Kulturen der Gegenwart und zeigt eine atemberaubende Sammlung traditioneller Textilien (Trajes), Masken und Alltagsgegenstände, die die linguistische und kulturelle Vielfalt des modernen Guatemalas veranschaulichen. Geschichte K8 — Nationale Maya-Archive.",
+      "factsAdvanced": [
+        "Das Museum besitzt die größte Sammlung präkolumbischer Maya-Artefakte weltweit.",
+        "Es befindet sich in einem historischen Gebäude auf der 'Finca La Aurora'.",
+        "Originale, tonnenschwere Steinstelen aus dem Petén sind hier dauerhaft ausgestellt.",
+        "Eine gesicherte Schatzkammer präsentiert unbezahlbare Jadeartefakte und Totenmasken.",
+        "Der ethnologische Flügel zeigt die Handwerkskunst der 22 heutigen Maya-Gruppen.",
+        "Viele Exponate dürfen aufgrund ihres zerbrechlichen Zustands nicht im Ausland ausgestellt werden."
+      ]
+    },
+    {
+      "id": "cementerio-general-guatemala-city-landmarks-v2",
+      "descriptionAdvanced": "Der Cementerio General in der Zone 3 von Guatemala-Stadt ist ein Ort der extremen Gegensätze und spiegelt die tiefe soziale Spaltung des Landes selbst im Tod wider. Gegründet im Jahr 1881, beherbergt der Friedhof die monumentalen, palastartigen Mausoleen aus weißem Marmor, in denen die Präsidenten, Diktatoren und reichsten Familien der guatemaltekischen Geschichte ruhen. Nur wenige Meter entfernt ragen jedoch riesige, mehrstöckige Betonwände auf, die tausende einfache Nischen ('Nichos') für die arme Bevölkerung enthalten. Aufgrund der Instabilität des Geländes und starker Regenfälle sind Teile dieser Mauern in die tiefe Müllschlucht (Basurero) dahinter abgestürzt. Ein besonders düsterer Ort auf dem Gelände ist das riesige Massengrab ('La Verbena'), in dem unzählige namenlose Opfer der Gewalt und des Bürgerkriegs anonym bestattet wurden. Geschichte K8 — Nekropolen und Gesellschaft.",
+      "factsAdvanced": [
+        "Der Cementerio General wurde 1881 als erster ziviler, nicht-kirchlicher Friedhof eröffnet.",
+        "Zahlreiche guatemaltekische Präsidenten, darunter Justo Rufino Barrios, liegen hier begraben.",
+        "Mausoleen der Reichen sind oft in ägyptischen, gotischen oder Art-déco-Stilen erbaut.",
+        "Die Grabnischenwände stürzen an den Rändern wegen Erosion gelegentlich ab.",
+        "Am Rande des Friedhofs liegt der gigantische städtische Müllkippen-Canyon (Basurero).",
+        "Am 1. November (Allerheiligen) verwandelt sich der Friedhof in ein riesiges Familienfest."
+      ]
+    },
+    {
+      "id": "iglesia-yurrita-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia Yurrita (offiziell Nuestra Señora de las Angustias) in der Zone 4 von Guatemala-Stadt ist zweifellos das bizarrste und auffälligste religiöse Gebäude des Landes. Diese schmale, turmhohe Kirche wurde 1941 von dem exzentrischen und wohlhabenden Kaffee-Oligarchen Felipe Yurrita erbaut, als Dank an die Jungfrau Maria für seine Rettung während eines Vulkanausbruchs. Architektonisch entzieht sich die Kirche jeder klaren Kategorie: Sie ist eine wilde, tiefrote Mischung aus neugotischen Spitzen, russisch-orthodoxen Kuppeln, byzantinischen Elementen und organischen Formen, die stark an Antoni Gaudí erinnern. Im Inneren ist sie über und über mit kunstvollen Holzschnitzereien, Mosaiken und eigenartigen Details verziert. Die Kirche hebt sich dramatisch von der modernen und oft grauen Betonarchitektur der umliegenden städtischen Bebauung ab. Architektur K8 — Exzentrischer Eklektizismus.",
+      "factsAdvanced": [
+        "Die Kirche wurde zwischen 1928 und 1941 aus privaten Mitteln einer Kaffeefamilie erbaut.",
+        "Die Architektur ist ein wilder Eklektizismus aus gotischen, maurischen und byzantinischen Stilen.",
+        "Die intensive rote Farbe und die geschwungenen Säulen erinnern an Gaudís Werke in Barcelona.",
+        "Die Kirche sollte ein Dankbarkeitsopfer für die Rettung vor dem Vulkanausbruch des Santa María sein.",
+        "Im Inneren befindet sich ein Altar aus Zedernholz und kunstvolle spanische Kacheln.",
+        "Sie ist eines der markantesten visuellen Wahrzeichen der geschäftigen Zone 4."
+      ]
+    },
+    {
+      "id": "museo-del-ferrocarril-guatemala-landmarks-v2",
+      "descriptionAdvanced": "Das Museo del Ferrocarril (Eisenbahnmuseum FEGUA) in der Zone 1 von Guatemala-Stadt ist ein faszinierendes Relikt aus dem goldenen Zeitalter der industriellen Revolution in Zentralamerika. Das Museum befindet sich im alten Zentralbahnhof, der einst das pulsierende Herzstück der guatemaltekischen Exportwirtschaft war, als Bananen und Kaffee noch per Zug zu den Küsten transportiert wurden. Obwohl der Eisenbahnbetrieb im ganzen Land vor Jahrzehnten komplett und oft korruptionsbedingt eingestellt wurde, konserviert das Museum liebevoll Dutzende von massiven, rußgeschwärzten Dampflokomotiven, hölzernen Passagierwaggons und alten Telegrafenstationen. Ein Spaziergang durch die rostigen Hallen, in denen alte Mechaniker ehrenamtlich ihr Wissen weitergeben, versetzt Besucher direkt zurück in die Zeit der United Fruit Company und der Kaffeebaronen. Geschichte K7 — Die Ära der Eisenbahn.",
+      "factsAdvanced": [
+        "Das Museum ist im alten Hauptbahnhof 'Estación Central' im Zentrum der Hauptstadt untergebracht.",
+        "Das nationale Schienennetz wurde in den 1990er Jahren aufgrund von Privatisierungen stillgelegt.",
+        "Die Sammlung beinhaltet amerikanische Dampflokomotiven aus dem späten 19. Jahrhundert.",
+        "Besucher können die luxuriösen Salonwaggons bewundern, in denen einst Präsidenten reisten.",
+        "Das Museum wird teilweise von ehemaligen, pensionierten Eisenbahnern (Ferrocarrileros) gepflegt.",
+        "Die alten Telegrafenmaschinen und originalen Bahnhofsuhren sind ebenfalls ausgestellt."
+      ]
+    },
+    {
+      "id": "mapa-en-relieve-de-guatemala-landmarks-v2",
+      "descriptionAdvanced": "Das 'Mapa en Relieve' in der Zone 2 von Guatemala-Stadt ist eine einzigartige und meisterhafte geografische Ingenieursleistung. Es handelt sich um eine riesige, maßstabsgetreue Reliefkarte (1.800 Quadratmeter groß) des gesamten Landes Guatemala sowie von Belize. Sie wurde 1905 von dem brillanten Ingenieur Francisco Vela in nur 18 Monaten aus Ziegeln und Beton erbaut. Um die topografischen Daten zu sammeln, reiste Vela monatelang auf Maultieren quer durch das ganze Land. Die Karte zeigt jeden Vulkan, jeden See und jedes Gebirge in einem absichtlich übertriebenen vertikalen Maßstab, um die dramatische Berglandschaft Guatemalas zu betonen. Die Flüsse und Ozeane sind mit echtem Wasser gefüllt, das durch ein ausgeklügeltes unterirdisches Rohrsystem fließt. Das Denkmal ermöglicht Besuchern, das zerklüftete Land von Aussichtstürmen aus wie aus einem Flugzeug zu betrachten. Geografie K7 — Kartographie und Reliefs.",
+      "factsAdvanced": [
+        "Die Reliefkarte hat eine gigantische Fläche von rund 1.800 Quadratmetern.",
+        "Erbaut wurde sie im Jahr 1905 vom Ingenieur Francisco Vela und dem Künstler Claudio Urrutia.",
+        "Der vertikale Maßstab der Vulkane und Berge ist zur Verdeutlichung stark übertrieben dargestellt.",
+        "Ein Röhrensystem füllt die Miniaturseen und Küsten der Karte mit fließendem Wasser.",
+        "Um die Karte zu betrachten, wurden zwei Aussichtstürme am Rand der Anlage errichtet.",
+        "Die Karte wurde ohne moderne Satellitendaten, nur mit traditionellen Vermessungsmethoden, erstellt."
+      ]
+    },
+    {
+      "id": "cerro-el-baul-quetzaltenango-landmarks-v2",
+      "descriptionAdvanced": "Der Cerro El Baúl ist ein markanter, bewaldeter Hügel, der sich majestätisch über der Stadt Quetzaltenango (Xela) erhebt und als natürliches Wahrzeichen der Stadt gilt. Dieser Lavadom, ein Überbleibsel alter vulkanischer Aktivität, bietet von seinem Gipfel aus den besten Panoramablick auf das Tal von Xela und die umliegenden Vulkane. El Baúl ist ein extrem beliebter Erholungsort für die Einwohner, die hier am Wochenende picknicken oder die steile Straße hinauflaufen. Darüber hinaus ist der Hügel von immenser spiritueller Bedeutung für die K'iche'-Maya. Versteckt im dichten Kiefernwald auf der Spitze befinden sich zahlreiche heilige Altäre ('Quemaderos'), an denen Maya-Priester fast täglich Feuerzeremonien mit Copal-Harz, Blumen und Alkohol durchführen, um Schutz und Wohlstand für die Stadt zu erbitten. Geografie K7 — Vulkanische Lavadome und Kultur.",
+      "factsAdvanced": [
+        "Der Cerro El Baúl ist ein alter Vulkankegel (Lavadom) mitten in Quetzaltenango.",
+        "Er ragt etwa 300 Meter über die Stadt hinaus und bietet eine spektakuläre Aussicht.",
+        "Auf dem Gipfel befindet sich ein weitläufiger Park mit monumentalen Steinskulpturen.",
+        "Dutzende heilige Maya-Altäre werden im Wald für traditionelle Feuer-Rituale genutzt.",
+        "Der Aufstieg zum Gipfel ist eine beliebte sportliche Aktivität für die Einheimischen.",
+        "Der Hügel ist mit dichten, schattigen Kiefern- und Zypressenwäldern bewachsen."
+      ]
+    },
+    {
+      "id": "monumento-a-la-marimba-quetzaltenango-landmarks-v2",
+      "descriptionAdvanced": "Quetzaltenango gilt als die Wiege der guatemaltekischen Musik, und kein Bauwerk symbolisiert diesen Stolz besser als das Monumento a la Marimba. Die Marimba, ein gewaltiges Xylophon aus edlem Hormigo-Holz, ist das offizielle Nationalinstrument Guatemalas. Das Denkmal, gelegen an einem wichtigen Verkehrskreisel in Xela, zeigt eine bronzene Marimba und eine weibliche Figur in traditioneller Tracht, die die Inspiration darstellt. Es wurde zu Ehren der unzähligen indigenen und Ladino-Komponisten errichtet, die hier im Hochland berühmte Walzer und 'Son'-Melodien schufen, wie etwa das weltbekannte Stück 'Luna de Xelajú'. Die Marimba-Musik ist das akustische Rückgrat jeder guatemaltekischen Feier, von Dorffesten bis zu Beerdigungen, und dieses Monument feiert die Handwerkskunst und Leidenschaft, die in den Instrumenten steckt. Kunst K8 — Das Nationalinstrument.",
+      "factsAdvanced": [
+        "Das Denkmal in Quetzaltenango ehrt die Marimba, das offizielle Nationalinstrument Guatemalas.",
+        "Eine echte Marimba wird traditionell aus dem extrem harten und seltenen Hormigo-Holz gefertigt.",
+        "Das Monument wurde zu Ehren der zahlreichen Komponisten des westlichen Hochlands errichtet.",
+        "Die berühmteste Marimba-Melodie der Stadt ist 'Luna de Xelajú' von Paco Pérez.",
+        "Das Spielen der großen Marimba erfordert oft drei bis vier Musiker gleichzeitig.",
+        "In Quetzaltenango befinden sich einige der besten handwerklichen Marimba-Werkstätten der Welt."
+      ]
+    },
+    {
+      "id": "centro-cultural-la-azotea-landmarks-v2",
+      "descriptionAdvanced": "Das Centro Cultural La Azotea, gelegen in Jocotenango gleich außerhalb von Antigua, ist ein einzigartiges Museumszentrum, das in einer jahrhundertealten Kaffeefinca untergebracht ist. Dieser Ort ist ein lebendiges Denkmal der guatemaltekischen Kultur, da er drei völlig unterschiedliche Museen vereint. Das Kaffeemuseum zeigt die faszinierende Geschichte und den mühsamen Prozess des Kaffeeanbaus, von den ersten Pflanzen bis zum fertigen Exportprodukt. Das Casa K'ojom widmet sich der Rettung traditioneller Maya-Musikinstrumente. Das Textilmuseum schließlich zeigt die bunten und vielseitigen Webarbeiten des Hochlands. Umgeben von aktiven Kaffeefeldern und schattenspendenden Gravilea-Bäumen bietet La Azotea eine perfekte Synthese aus Landwirtschaftsgeschichte und indigener Kulturbewahrung. Kunst K7 — Agrar- und Kulturmuseen.",
+      "factsAdvanced": [
+        "La Azotea ist ein Kulturzentrum, das in einer noch aktiven Kaffeefarm untergebracht ist.",
+        "Es beherbergt drei Museen: Kaffee, traditionelle Maya-Musik (Casa K'ojom) und Textilien.",
+        "Besucher können historische Kaffeeröstmaschinen und Wasserturbinen in Aktion sehen.",
+        "Die Finca baut Kaffee in einer Höhe von rund 1.600 Metern an.",
+        "Das Zentrum wurde gegründet, um das koloniale und indigene Erbe der Region Antigua zu bewahren.",
+        "In der Anlage können Besucher den Prozess der Kaffee-Verkostung (Cupping) erlernen."
+      ]
+    },
+    {
+      "id": "finca-filadelfia-coffee-resort-landmarks-v2",
+      "descriptionAdvanced": "Die Finca Filadelfia in Antigua Guatemala ist nicht nur eine der ältesten und größten Kaffeeplantagen des Landes, sondern heute auch ein monumentales Zeugnis der Kaffeegeschichte. Gegründet 1870 während des ersten großen Kaffee-Booms, ist das Anwesen heute eine luxuriöse Mischung aus aktiver Landwirtschaft, Ökotourismus und Luxusresort. Die Farm erstreckt sich von den sanften Ebenen bis hoch an die extrem steilen Hänge des Vulkans Agua. Sie bietet einen tiefen Einblick in das Leben der Kaffee-Aristokratie des 19. Jahrhunderts. Gleichzeitig ist sie ein perfektes Beispiel dafür, wie traditionelle Farmen heute durch Tourismus überleben: Besucher fahren auf Unimog-Lkw durch die Plantagen, beobachten die Pflücker bei der Ernte, sehen die Trocknung auf riesigen Patios und können sich im dichten Bergwald der Finca an Canopy-Seilbahnen abseilen. Wirtschaft K8 — Kaffee-Oligarchie und Tourismus.",
+      "factsAdvanced": [
+        "Die Finca Filadelfia wurde 1870 gegründet und ist eine der ältesten Kaffeefarmen in Antigua.",
+        "Die Plantage baut exzellenten Bourbon-Kaffee an den Hängen des Vulkans Agua an.",
+        "Die historischen Trocknungsterrassen (Patios) und Verarbeitungsanlagen sind noch in Betrieb.",
+        "Das Anwesen ist heute auch ein Luxushotel und Abenteuerpark.",
+        "Touren zeigen den kompletten Prozess vom Pflanzen des Kaffees bis zur Röstung.",
+        "Der Kaffee der Finca profitiert massiv von den mineralreichen Vulkanböden (Pumice)."
+      ]
+    },
+    {
+      "id": "obelisco-guatemala-city-landmarks-v2",
+      "descriptionAdvanced": "Das Monumento a los Próceres de la Independencia, im Volksmund schlicht als 'El Obelisco' bekannt, ist das geografische und verkehrstechnische Scharnier zwischen den wohlhabenden Zonen 9, 10 und 14 in Guatemala-Stadt. Das 18 Meter hohe Steinmonument wurde 1935 unter dem Diktator Jorge Ubico errichtet, um die Anführer der guatemaltekischen Unabhängigkeitserklärung von 1821 zu ehren. Auf der Spitze des Obelisken befindet sich eine ewig brennende Flamme der Freiheit. Die breite Kreuzung um den Obelisken ist bekannt für ihren endlosen, oft chaotischen Verkehr, aber am Sonntag verwandelt sie sich im Rahmen des Programms 'Pasos y Pedales' in ein fahrradfreundliches Freizeitgebiet. Die riesigen Plakatwände, luxuriösen Hotels und Fast-Food-Ketten rund um das Monument machen es zum Inbegriff des modernen, kommerziellen Guatemalas. Architektur K7 — Nationale Unabhängigkeitsdenkmäler.",
+      "factsAdvanced": [
+        "Der 18 Meter hohe Obelisk ist das zentrale Wahrzeichen der wohlhabenden Zone 10.",
+        "Er wurde 1935 zur Feier der Helden der guatemaltekischen Unabhängigkeit (1821) errichtet.",
+        "Auf dem Monument brennt die ewige Flamme der Unabhängigkeit.",
+        "Der Obelisk wurde vom berühmten Künstler Rafael Yela Günther entworfen.",
+        "Der Platz um das Monument ist oft Schauplatz für Siegesfeiern bei Fußballspielen.",
+        "Am Sonntagvormittag sind die Straßen hier für den motorisierten Verkehr komplett gesperrt."
+      ]
+    },
+    {
+      "id": "parque-central-quetzaltenango-landmarks-v2",
+      "descriptionAdvanced": "Der Parque a Centroamérica, meist einfach Parque Central genannt, ist das absolute Herz der Stadt Quetzaltenango (Xela) und einer der schönsten Stadtplätze Lateinamerikas. Anders als die kolonialen Plätze in Antigua wurde dieser Park im späten 19. und frühen 20. Jahrhundert im reinen neoklassizistischen Stil umgestaltet, angetrieben vom extremen Reichtum der lokalen Kaffeebarone. Der Platz wird von grandiosen Gebäuden aus grauem Vulkangestein eingerahmt, darunter das Rathaus (Municipalidad) und das prachtvolle Pasaje Enríquez. Zahlreiche ionische Säulen, steinerne Bänke, Statuen von Musen und prächtige Gartenanlagen verleihen dem Park ein fast europäisches Flair. Abends, wenn der kühle Bergnebel über den Platz zieht, versammeln sich hier unzählige Studenten, indigene Händler und Marimba-Musiker, was dem Ort eine lebendige und romantische Atmosphäre verleiht. Architektur K8 — Neoklassizismus der Kaffee-Ära.",
+      "factsAdvanced": [
+        "Der Park wurde von dem italienischen Architekten Alberto Porta im neoklassizistischen Stil entworfen.",
+        "Rund um den Platz stehen monumentale Gebäude aus lokalem, dunklem Vulkangestein.",
+        "Zahlreiche ionische Säulen (Columnatas) rahmen den äußeren Rand des Parks ein.",
+        "Der Park ist ein Denkmal an die ehemalige (und gescheiterte) Föderation Zentralamerikas.",
+        "Der historische Pasaje Enríquez am Rande des Parks ist heute voller Bars und Cafés.",
+        "Im Herzen des Parks stehen Statuen griechischer Musen und ein eleganter Musikpavillon."
+      ]
+    },
+    {
+      "id": "museo-ixchel-del-traje-indigena-landmarks-v2",
+      "descriptionAdvanced": "Das Museo Ixchel, benannt nach der alten Maya-Göttin der Fruchtbarkeit und der Webkunst, ist das landesweit wichtigste Museum für traditionelle indigene Textilien (Trajes). Das Museum befindet sich auf dem modernen Campus der Universidad Francisco Marroquín in Guatemala-Stadt und bewahrt ein unbezahlbares Erbe, das zunehmend durch Globalisierung und Armut bedroht ist. Die Ausstellung zeigt Hunderte von historischen und meisterhaft gewebten Huipiles (Blusen), Cortes (Röcken) und Tzutes (Tüchern) aus fast allen indigenen Dörfern des Landes. Besucher erfahren hier, dass die Muster auf der Kleidung keine bloße Dekoration sind, sondern komplexe Kodierungen, die die Herkunft, den sozialen Status und die spirituellen Überzeugungen der Trägerin anzeigen. Das Museum bietet auch Web-Demonstrationen auf dem prähispanischen 'Telar de Cintura' (Hüftwebstuhl) an. Kunst K7 — Die Sprache der Textilien.",
+      "factsAdvanced": [
+        "Das Museum ist der Maya-Göttin Ixchel, der Patronin der Webkunst, gewidmet.",
+        "Es beherbergt die landesweit größte und wertvollste Sammlung historischer Maya-Kleidung (Trajes).",
+        "Die Ausstellung zeigt, dass die Webmuster tief verwurzelte spirituelle Bedeutungen haben.",
+        "Ein wichtiger Bereich demonstriert die alte Technik des Hüftwebstuhls (Telar de Cintura).",
+        "Das Museum bewahrt auch Fotografien und Gemälde, die das ländliche Guatemala dokumentieren.",
+        "Die Sammlung rettet aktiv Textiltraditionen aus Dörfern, in denen das Handwerk ausstirbt."
+      ]
+    },
+    {
+      "id": "gt-la-aurora-zoo-life-v2",
+      "descriptionAdvanced": "Der La Aurora Zoo ist nicht nur ein Wahrzeichen, sondern auch das wichtigste Refugium und Zentrum für Wildtiermanagement in Guatemala. Der Zoo hat in den letzten Jahren enorm in die Nachbildung natürlicher Lebensräume (Habitats) investiert, in denen Zäune durch natürliche Barrieren und Wassergräben ersetzt wurden. Ein besonderes Augenmerk liegt auf der Erhaltung endemischer und stark bedrohter Arten des mesoamerikanischen Dschungels, wie dem mächtigen Jaguar, dem geheimnisvollen Baird-Tapir (Danta), den Brüllaffen und dem majestätischen Quetzal. Der Zoo fungiert als nationale Auffangstation: Wenn Polizei oder Ranger exotische Tiere von Schmugglern oder aus illegaler Haustierhaltung beschlagnahmen, werden diese Tiere hier medizinisch versorgt und, wenn möglich, auf eine Auswilderung vorbereitet. Eine absolute Attraktion für die Einheimischen sind jedoch auch die Humboldt-Pinguine, die in einer riesigen Kühlanlage leben. Biologie K6 — Wildtierrettung und Arterhaltung.",
+      "factsAdvanced": [
+        "Der Zoo fungiert als wichtigste nationale Auffangstation für beschlagnahmte Wildtiere.",
+        "Ein großes Gehege widmet sich speziell dem Schutz der bedrohten Baird-Tapire (Dantas).",
+        "Die Gehege wurden in den letzten Jahren von Käfigen in weitläufige Freiluftanlagen umgebaut.",
+        "Der Zoo leistet wichtige Aufklärungsarbeit über die Gefahren des illegalen Haustierhandels.",
+        "Humboldt-Pinguine aus Chile sind eine der größten und überraschendsten Attraktionen.",
+        "Tierärzte des Zoos reisen oft in den Dschungel, um verletzte Wildtiere vor Ort zu operieren."
+      ]
+    },
+    {
+      "id": "gt-jardin-botanico-usac-life-v2",
+      "descriptionAdvanced": "Der Jardín Botánico de la Universidad de San Carlos (USAC) ist eine verborgene grüne Lunge mitten im ohrenbetäubenden Verkehrslärm der Zone 10 von Guatemala-Stadt. Als der erste und älteste botanische Garten Zentralamerikas (gegründet 1922) beherbergt er auf einer relativ kleinen Fläche eine atemberaubende Sammlung von über 1.200 Pflanzenarten. Der Fokus liegt auf der enormen pflanzlichen Biodiversität Guatemalas. Besucher können hier seltene, einheimische Palmen, unzählige Orchideen, medizinische Heilkräuter der Maya (Plantas Medicinales) und einen speziellen Garten für die Monja Blanca (Weiße Nonne) bewundern, die seltene Nationalblume Guatemalas, die in der freien Natur kaum noch zu finden ist. Der Garten dient den Studenten der staatlichen Universität als wichtiges Freiluftlabor für botanische Forschung und Artenschutz. Biologie K7 — Endemische Flora und Nationalblumen.",
+      "factsAdvanced": [
+        "Der Botanische Garten ist der erste seiner Art, der in Zentralamerika (1922) gegründet wurde.",
+        "Er wird von der staatlichen Universidad de San Carlos (USAC) verwaltet.",
+        "Ein spezielles Gehege schützt die extrem seltene Nationalblume, die Orchidee 'Monja Blanca'.",
+        "Der Garten ist eine Oase der Stille inmitten der städtischen Hochhäuser der Zone 10.",
+        "Ein großer Bereich ist traditionellen Heilpflanzen (Plantas Medicinales) gewidmet.",
+        "Über 1.200 verschiedene Pflanzenarten aus allen Klimazonen des Landes wachsen hier."
+      ]
+    },
+    {
+      "id": "gt-mundo-petapa-life-v2",
+      "descriptionAdvanced": "Mundo Petapa ist einer der spektakulärsten Freizeitparks des Landes, gelegen in der südlichen Zone 12 von Guatemala-Stadt. Er wird vom IRTRA (Instituto de Recreación de los Trabajadores) betrieben, einer einzigartigen staatlich-privaten Einrichtung, die durch Unternehmenssteuern finanziert wird, um den Angestellten des privaten Sektors kostenlose Erholung zu bieten. Der Park ist ein Meisterwerk der Unterhaltung und beherbergt Dutzende von Achterbahnen, Karussells und einen großen Wasserbereich. Besonders bemerkenswert ist die Nachbildung eines kompletten kolonialen Platzes mit Kirche und Rathausturm ('Plaza Mi Barrio'), der an Antigua erinnert. An Wochenenden ist der Park extrem belebt und bietet Familien aus der Mittel- und Arbeiterklasse eine sichere und erstklassige Flucht aus dem oft gefährlichen städtischen Alltag. Gesellschaft K5 — Soziale Freizeitprojekte.",
+      "factsAdvanced": [
+        "Mundo Petapa wird vom IRTRA betrieben, einem einzigartigen Modell für Arbeitnehmer-Erholung.",
+        "Angestellte privater Unternehmen haben mit ihrer IRTRA-Karte kostenlosen Eintritt.",
+        "Der Park besitzt eine Nachbildung eines kolonialen guatemaltekischen Dorfes ('Plaza Mi Barrio').",
+        "Er verfügt über einige der größten Achterbahnen in Zentralamerika.",
+        "Ein kleiner integrierter Zoo beherbergt einheimische Vögel und Affen.",
+        "Der Park ist ein wichtiger sicherer Zufluchtsort für Familien aus der lauten Hauptstadt."
+      ]
+    },
+    {
+      "id": "gt-auto-safari-chapin-life-v2",
+      "descriptionAdvanced": "Der Auto Safari Chapín ist der größte und beeindruckendste Safari-Park Zentralamerikas, gelegen in der drückend heißen pazifischen Ebene nahe Escuintla. Das Konzept des Parks ist einfach, aber aufregend: Anstatt Tiere in kleinen Käfigen zu besuchen, fahren die Familien in ihren eigenen Autos langsam durch riesige Freigehege, während Giraffen, Zebras, Nilpferde und sogar Löwen direkt an den Fenstern vorbeilaufen. Der Park wurde 1980 als privates Naturschutzprojekt gegründet und hat sich seitdem extrem erfolgreich der Zucht von afrikanischen Wildtieren sowie der Rettung bedrohter lokaler Arten verschrieben. Nach der Fahrt durch das Wildtierreservat entspannen die Besucher meist im großen, parkeigenen Schwimmbad, um der tropischen Hitze des südlichen Guatemalas zu entfliehen. Biologie K6 — Exotische Tierwelten.",
+      "factsAdvanced": [
+        "Der Auto Safari Chapín war der erste Drive-Through-Safaripark in Zentralamerika (1980).",
+        "Besucher fahren in ihren eigenen Fahrzeugen durch große, offene Savannen-Gehege.",
+        "Der Park züchtet sehr erfolgreich afrikanische Wildtiere, insbesondere Flusspferde.",
+        "Er widmet sich auch dem Schutz einheimischer Arten wie Krokodilen und Leguanen.",
+        "Der Park liegt auf dem Weg zu den Pazifikstränden und ist ein beliebtes Wochenendziel.",
+        "Ein großes Freizeitbad gehört zum Konzept, um der Hitze von Escuintla zu begegnen."
+      ]
+    },
+    {
+      "id": "gt-sipacate-naranjo-mangroves-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Sipacate-Naranjo ist ein gewaltiges, ökologisch hochsensibles Mangrovengebiet an der zentralen Pazifikküste (Escuintla). Dieses Labyrinth aus Brackwasserkanälen und dichten, auf Stelzenwurzeln wachsenden Mangrovenwäldern ist eine der wichtigsten 'Kinderstuben' der marinen Tierwelt in Guatemala. Unzählige Arten von Fischen, Krebstieren und Garnelen finden hier Schutz vor Raubfischen. Das Gebiet ist auch ein wichtiges Überwinterungsziel für Zehntausende von Zugvögeln aus Nordamerika. Für Menschen, die abseits der großen Agrarbetriebe leben, bilden diese Mangroven durch traditionellen Fischfang und Salzgewinnung die wichtigste Lebensgrundlage. Gleichzeitig sind die Strände vor den Mangroven, insbesondere in 'El Paredón', aufgrund der massiven, konstanten Wellen zum absoluten Hotspot für internationale Surfer geworden. Biologie K7 — Das Ökosystem Mangroven.",
+      "factsAdvanced": [
+        "Der Nationalpark Sipacate-Naranjo schützt eines der größten Mangrovengebiete Guatemalas.",
+        "Das Mangroven-Labyrinth fungiert als biologische Kinderstube für Fische und Garnelen.",
+        "Die Region ist ein entscheidendes Schutzgebiet für zehntausende Zugvögel aus den USA.",
+        "Die Strände der Gegend (wie El Paredón) sind weltbekannte Ziele für Surfer.",
+        "Die Mangrovenwälder schützen die Küstenlinie vor schweren Stürmen und Flutwellen.",
+        "Bedroht wird das Gebiet oft durch illegale Abholzung der Mangrovenbäume als Feuerholz."
+      ]
+    },
+    {
+      "id": "gt-monterrico-turtle-beach-life-v2",
+      "descriptionAdvanced": "Monterrico ist das berühmteste Stranddorf an der guatemaltekischen Pazifikküste (Santa Rosa) und bekannt für seinen glitzernden, kohlrabenschwarzen Vulkansand, der sich in der Mittagssonne extrem aufheizt. Hinter dem Strand erstreckt sich ein komplexes Netzwerk aus Mangrovensümpfen ('Canal de Chiquimulilla'). Das Herz der Gemeinde schlägt jedoch für den Schildkrötenschutz. Jedes Jahr zwischen Juli und November kommen Hunderte von bedrohten Meeresschildkröten (insbesondere die Oliv-Bastardschildkröte) an diesen Strand, um in der Nacht ihre Eier abzulegen. Lokale Naturschutzorganisationen kaufen die Eier von Sammlern ('Parlameros') auf, die sie sonst essen würden, und brüten sie sicher aus. Die massenhafte Freilassung von zehntausenden kleinen Babyschildkröten am Strand bei Sonnenuntergang ist ein tief bewegendes Ereignis, das Touristen aus aller Welt anzieht. Biologie K6 — Schutz der Meeresschildkröten.",
+      "factsAdvanced": [
+        "Der Strand von Monterrico besteht aus extrem heißem, rein schwarzem vulkanischem Sand.",
+        "Das Dorf ist das nationale Zentrum für den Schutz der gefährdeten Meeresschildkröten.",
+        "Eiersammler ('Parlameros') verkaufen die Schildkröteneier an lokale Aufzuchtstationen.",
+        "Im Herbst werden täglich kleine Schildkröten von Touristen in den Ozean entlassen.",
+        "Die gefährliche und starke Pazifikströmung (Unterströmungen) verbietet weites Schwimmen.",
+        "Die Anreise erfolgte traditionell lange Zeit nur über Fähren durch die dichten Mangrovenkanäle."
+      ]
+    },
+    {
+      "id": "gt-santa-rosa-cattle-ranches-life-v2",
+      "descriptionAdvanced": "Das Leben in den hügeligen und heißen Ebenen des Departamentos Santa Rosa wird dominiert von der traditionellen Rinderzucht (Ganadería). In dieser Region, die fast ausschließlich von der Ladino-Kultur geprägt ist, herrscht eine starke Cowboy-Identität. Riesige Ländereien ('Fincas') sind der Aufzucht von zähen Rinderrassen gewidmet, die der intensiven Hitze und den Zecken widerstehen können. Am Wochenende dreht sich das soziale Leben in den Kleinstädten um die berühmten 'Jaripeos' (Rodeos), bei denen mutige Reiter versuchen, wütende Bullen in kleinen Arenen zu reiten, begleitet von lauter Ranchero-Musik, reichlich Bier und Feuerwerk. Diese Reitkultur ist tief verwurzelt, und die Bewohner sind stolz auf ihre großen Pferde, handgefertigten Ledersättel und dicken Sombreros. Gesellschaft K7 — Die Ladino-Ranchkultur.",
+      "factsAdvanced": [
+        "Santa Rosa ist eines der wichtigsten Zentren der Rinder- und Pferdezucht in Guatemala.",
+        "Die Kultur der Region ist fast rein 'Ladino' ohne sichtbare indigene Einflüsse.",
+        "Rodeos ('Jaripeos') sind das absolute Highlight der lokalen Feste und Wochenenden.",
+        "Aufgrund der Hitze züchtet man vor allem Brahman-Rinder, die ursprünglich aus Indien stammen.",
+        "Lederhandwerk, wie die Fertigung von Sätteln und Peitschen, ist ein stolzer lokaler Beruf.",
+        "Neben Rindern werden in der Gegend auch Kaffee und Ananas in großen Mengen angebaut."
+      ]
+    },
+    {
+      "id": "gt-semuc-champey-family-pools-life-v2",
+      "descriptionAdvanced": "Semuc Champey ('Wo das Wasser unter der Erde verschwindet') im tiefen Dschungel von Alta Verapaz ist das vielleicht spektakulärste Naturwunder Guatemalas. Die geologische Formation besteht aus einer 300 Meter langen Kalksteinbrücke. Während der gewaltige und reißende Cahabón-Fluss tosend in eine dunkle Höhle unter diese Brücke stürzt, bilden sich oben auf der Brücke vollkommen ruhige, treppenartig angeordnete Becken aus Quellwasser. Diese Pools schimmern, je nach Sonneneinstrahlung, in unglaublichen Farben von Türkis bis Smaragdgrün. Für guatemaltekische Familien und Rucksacktouristen aus der ganzen Welt ist das Baden in diesen lauwarmen, kristallklaren Becken inmitten des undurchdringlichen Dschungels ein unvergessliches Erlebnis. Die Anreise in Allrad-Fahrzeugen (Pick-ups) über steile Schotterpisten durch Q'eqchi'-Dörfer macht den Besuch zu einem echten Abenteuer. Geografie K8 — Karstphänomene im Regenwald.",
+      "factsAdvanced": [
+        "Semuc Champey ist eine natürliche, 300 Meter lange Brücke aus reinem Kalkstein.",
+        "Der wilde Río Cahabón fließt unsichtbar durch ein Höhlensystem unter der Brücke hindurch.",
+        "Auf der Brücke bilden sich natürliche, terrassenartige Pools mit kristallklarem, smaragdgrünem Wasser.",
+        "Der indigene Q'eqchi'-Name bedeutet wörtlich 'Wo sich das Wasser versteckt'.",
+        "Ein steiler Aussichtspunkt (Mirador) bietet einen fantastischen Blick auf das grüne Wasser.",
+        "Die abgelegene Lage erfordert eine Fahrt in Allrad-Fahrzeugen (Pick-ups) ab Lanquín."
+      ]
+    },
+    {
+      "id": "gt-fuentes-georginas-hot-springs-life-v2",
+      "descriptionAdvanced": "Versteckt in den eisigen, oft in dichten Nebel gehüllten Bergen oberhalb von Quetzaltenango (Xela) liegen die 'Fuentes Georginas'. Diese natürlichen heißen Quellen ('Aguas Termales') sind ein echtes geologisches Wunder, denn das Wasser wird tief unter der Erde durch die Hitze des aktiven Zunil-Vulkans erwärmt. Der Kontrast könnte nicht dramatischer sein: Während die Lufttemperatur nahe dem Gefrierpunkt liegt, baden die Besucher in dampfend heißem Wasser, umgeben von einem dichten, subtropischen Bergnebelwald mit moosbewachsenen Bäumen und riesigen Farnen. Die Quellen wurden im späten 19. Jahrhundert entdeckt und nach dem damaligen Diktator Jorge Ubico (oder seiner Frau) benannt. Für die lokale Bevölkerung und erschöpfte Touristen ist das Baden in diesen natürlichen, schwefelhaltigen Vulkanpools die ultimative Entspannungstherapie nach kalten Tagen im Hochland. Geografie K7 — Geothermie und Vulkane.",
+      "factsAdvanced": [
+        "Die Fuentes Georginas werden durch die unterirdische Hitze des Vulkans Zunil gespeist.",
+        "Die heißen Thermalquellen (Aguas Termales) fließen aus einer Felswand direkt in die Badebecken.",
+        "Die Anlage liegt in einem feuchtkalten Nebelwald auf über 2.400 Metern Höhe.",
+        "Der Ort ist bekannt für den extremen Kontrast zwischen heißem Wasser und eisiger Bergluft.",
+        "Das schwefelhaltige Wasser gilt als heilend für Muskel- und Gelenkbeschwerden.",
+        "Der Weg zu den Quellen führt durch steile, fruchtbare Gemüseterrassen indigener Bauern."
+      ]
+    }
+  ]
+}

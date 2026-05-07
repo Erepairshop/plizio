@@ -1,0 +1,159 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tiras-mountains-relief-v2",
+      "descriptionAdvanced": "The Tiras Mountains form an incredibly striking, rugged relief structure in the //Kharas Region of southern Namibia. Geologically, they represent a transition zone where the red sand dunes of the Namib Desert crash abruptly against steep, deeply eroded granite and quartzite ridges. The topography is notoriously harsh, featuring sheer drops and rocky, inaccessible plateaus that naturally limit human expansion. To protect this fragile environment, local farmers formed the vast Tiras Mountains Conservancy, managing the relief purely for low-impact eco-tourism and the protection of desert-adapted species like leopards and gemsbok. Geography K7 — transition zones and conservancies.",
+      "factsAdvanced": [
+        "A rugged mountain range located in the southern //Kharas Region.",
+        "Forms a stark geographical transition zone with the Namib Desert.",
+        "Red sand dunes crash directly against the steep granite ridges.",
+        "Features sheer drops and highly inaccessible, rocky plateaus.",
+        "Protected by the privately managed Tiras Mountains Conservancy.",
+        "Critical habitat for desert-adapted species like leopards and gemsbok."
+      ]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "descriptionAdvanced": "The Muhlo Mountains constitute a highly isolated, rugged relief located within the deep, remote interior of the Kaokoveld in northwestern Namibia. This jagged, folded mountainous terrain consists of ancient schist and quartzite rocks, deeply scarred by extreme thermal weathering and sudden, violent flash floods during the rare rainy seasons. The sheer, rocky relief makes road infrastructure almost impossible to build, naturally isolating the local Himba pastoralists who navigate the steep passes on foot. The area remains one of the most untouched, pristine geographical zones in Southern Africa. Geography K7 — remote mountain topography.",
+      "factsAdvanced": [
+        "A highly isolated, rugged mountain range in the remote Kaokoveld.",
+        "Composed primarily of ancient, heavily folded schist and quartzite.",
+        "Deeply scarred by extreme thermal weathering and sudden flash floods.",
+        "The harsh relief naturally isolates the region from modern infrastructure.",
+        "Navigated almost exclusively on foot by local Himba pastoralists.",
+        "Considered one of the most pristine, untouched zones in Southern Africa."
+      ]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "descriptionAdvanced": "The Otavi Mountains form a crucial, highly distinct karst (limestone and dolomite) relief structure in northern Namibia, creating the famous 'Otavi Triangle'. The mountains themselves are relatively low and heavily weathered, but their geological composition is what makes them significant. The porous dolomite acts as a massive sponge, absorbing the region's higher rainfall to create vast, pressurized underground aquifers. This subterranean relief is punctuated by numerous deep caves, massive sinkholes like Lake Otjikoto, and hidden underground lakes like Dragon's Breath Cave, the largest non-subglacial underground lake in the world. Earth Science K6 — karst topography.",
+      "factsAdvanced": [
+        "Forms the geographical foundation of the fertile 'Otavi Triangle'.",
+        "Characterized by highly weathered limestone and dolomite karst relief.",
+        "The porous rock absorbs high rainfall, creating massive underground aquifers.",
+        "The subterranean relief features numerous deep caves and sinkholes.",
+        "Home to Dragon's Breath Cave, a massive, hidden underground lake.",
+        "The geology historically supported incredibly rich copper and lead deposits."
+      ]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "descriptionAdvanced": "The Zebra Mountains, located in the remote Kunene Region, are named for their incredibly distinct, visually striking relief. The mountains feature highly prominent, alternating bands of dark, iron-rich igneous rock and lighter, weathered sedimentary layers. When viewed from a distance, these steep, deeply eroded ridges strongly resemble the black and white stripes of a zebra. The terrain is exceedingly harsh, completely devoid of permanent surface water, and consists of treacherous, jagged scree slopes that provide a severe challenge even to the highly adapted Hartmann's mountain zebras that inhabit them. Earth Science K6 — banded topography.",
+      "factsAdvanced": [
+        "Located in the highly remote, arid Kunene Region of the northwest.",
+        "Named for the distinct, alternating bands of dark and light rock.",
+        "The steep ridges visually resemble the stripes of a zebra.",
+        "Composed of a mix of iron-rich igneous rock and sedimentary layers.",
+        "Features incredibly treacherous, jagged scree slopes.",
+        "Habitat for the highly agile, desert-adapted Hartmann's mountain zebra."
+      ]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "descriptionAdvanced": "The Baynes Mountains form a massive, virtually impenetrable relief structure in the extreme northwest of Namibia, flanking the rugged Kunene River. The mountains consist of steep, flat-topped sandstone and quartzite massifs that plunge dramatically into deep, narrow gorges. Because of the sheer verticality of the terrain, there are absolutely no roads crossing the range; it can only be accessed on foot or by specialized aircraft. The mountains create a powerful rain shadow effect, contributing to the extreme aridity of the Skeleton Coast lying just to the west. Geography K7 — impenetrable massifs and rain shadows.",
+      "factsAdvanced": [
+        "Located in the extreme northwest, flanking the Kunene River border.",
+        "Features steep, flat-topped massifs plunging into deep, narrow gorges.",
+        "The sheer vertical relief makes the range virtually impenetrable.",
+        "Contains absolutely no roads and can only be accessed on foot.",
+        "Creates a powerful rain shadow effect impacting the coastal desert.",
+        "Supports highly isolated populations of specialized desert flora."
+      ]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "descriptionAdvanced": "The Hartmann Mountains define the incredibly stark, desolate eastern boundary of the Skeleton Coast Park in the deep northwest. The relief is characterized by sharp, violently folded ridges of dark schist and granite that plunge steeply towards the Atlantic coastal plains. The extreme, barren topography acts as a natural funnel for the brutal, cold Atlantic winds that tear through the mountain passes, preventing almost any vegetation from taking root. This deeply isolated, alien-looking landscape is one of the least explored geographical regions on the planet. Geography K7 — extreme coastal massifs.",
+      "factsAdvanced": [
+        "Defines the stark eastern boundary of the northern Skeleton Coast Park.",
+        "Characterized by sharp, violently folded ridges of dark schist.",
+        "The steep relief plunges rapidly towards the Atlantic coastal plains.",
+        "Acts as a massive natural funnel for brutal, freezing Atlantic winds.",
+        "The extreme topography prevents almost all vegetation from taking root.",
+        "Considered one of the most deeply isolated, unexplored regions globally."
+      ]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "descriptionAdvanced": "The Grootberg (Great Mountain) is a massive, highly prominent U-shaped plateau located in the Damaraland area of the Kunene Region. The relief is a classic example of a massive volcanic caldera that has been extensively breached and eroded over millions of years. The flat-topped, basalt rim rises steeply above the surrounding Klip River valley, offering sweeping, uninterrupted views of the harsh, rocky desert below. The sheer escarpment provides a critical sanctuary for the region's famous free-roaming black rhinos and serves as a major draw for community-run eco-tourism. Earth Science K6 — eroded calderas.",
+      "factsAdvanced": [
+        "A massive, highly prominent U-shaped plateau in Damaraland.",
+        "Geologically represents a massive, heavily breached volcanic caldera.",
+        "Features a flat-topped, basalt rim rising steeply above the valley.",
+        "Provides sweeping, uninterrupted views of the rocky desert landscape.",
+        "The sheer escarpment serves as a sanctuary for endangered black rhinos.",
+        "Home to a highly successful, community-owned eco-tourism lodge."
+      ]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "descriptionAdvanced": "The relief surrounding Epupa Falls on the Kunene River border is highly dramatic and complex. Over millions of years, the powerful river has sliced a deep, narrow gorge through the hard, ancient quartzite and schist bedrock. The topography drops suddenly by roughly 37 meters, causing the river to splinter into dozens of individual, cascading waterfalls spread across a 1.5-kilometer-wide fault line. This sudden plunge creates a deep, humid gorge that supports a lush microclimate of massive baobab trees, standing in stark contrast to the barren, rocky hills towering immediately above. Earth Science K6 — fault lines and gorges.",
+      "factsAdvanced": [
+        "Located on the Kunene River border between Namibia and Angola.",
+        "The river slices a deep gorge through hard ancient quartzite and schist.",
+        "The topography drops suddenly by roughly 37 meters at the fault line.",
+        "The fault causes the river to splinter into dozens of cascading falls.",
+        "Creates a deep, humid gorge supporting a lush, tropical microclimate.",
+        "Surrounded immediately by incredibly barren, steep rocky hills."
+      ]
+    },
+    {
+      "id": "khoe-khoe-mountains-relief-v2",
+      "descriptionAdvanced": "The Khoe-Khoe Mountains (often referred to as the Khomas foothills) form a rugged, broken transitional relief zone stretching westward from the central plateau towards the Namib Desert. The topography is deeply scarred by massive, ancient ephemeral river systems—like the Swakop and Kuiseb rivers—that have spent millions of years gouging deep, steep-sided valleys (canyons) out of the surrounding schist and granite. The resulting landscape is a chaotic, deeply folded maze of sharp ridges and deep, winding dry riverbeds, making transverse travel extremely difficult. Geography K7 — dissected plateaus.",
+      "factsAdvanced": [
+        "Forms a rugged, broken transitional zone west of the central plateau.",
+        "Deeply scarred by ancient ephemeral river systems like the Swakop.",
+        "Features deep, steep-sided valleys gouged out of schist and granite.",
+        "The landscape is a chaotic, deeply folded maze of sharp ridges.",
+        "The heavily dissected relief makes east-west transverse travel difficult.",
+        "Provides critical, hidden habitats for leopards and mountain zebras."
+      ]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "descriptionAdvanced": "The Ongongo relief in the remote Kunene Region is defined by a sudden, spectacular geographical anomaly: a deep, narrow dolomite canyon cut into the otherwise barren, rolling hills. The topography here hides a permanent, crystal-clear natural spring that flows out of the rock face, cascading down into a deep, shaded rock pool. The sheer, steep walls of the small gorge protect the water from extreme evaporation in the harsh desert heat, creating a vital, localized micro-oasis that sustains local Himba communities and specialized aquatic life. Earth Science K6 — desert springs and gorges.",
+      "factsAdvanced": [
+        "Located in the highly remote, arid Kunene Region (Kaokoveld).",
+        "Defined by a sudden, deep dolomite canyon cut into barren hills.",
+        "Features a permanent, crystal-clear spring cascading out of the rock face.",
+        "The sheer, steep gorge walls protect the water from extreme evaporation.",
+        "Creates a vital, deeply hidden micro-oasis in the surrounding desert.",
+        "Sustains local Himba communities and specialized local ecology."
+      ]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "descriptionAdvanced": "The relief of the massive Palmwag Concession in Damaraland is characterized by a stark, incredibly rugged volcanic landscape. The topography consists of vast, rolling plains of dark, oxidized basalt rocks, violently interrupted by flat-topped table mountains (etendekas) and deep, winding dry riverbeds. This harsh, stony terrain is devoid of deep sand, requiring highly specialized hooves for the wildlife that roams here. The sheer basalt cliffs and deeply incised valleys provide perfectly hidden, highly defensible territories for the region's globally significant population of free-roaming black rhinoceroses. Earth Science K6 — basalt plateaus.",
+      "factsAdvanced": [
+        "A massive, incredibly rugged conservation area in Damaraland.",
+        "Characterized by rolling plains covered in dark, oxidized basalt rocks.",
+        "Violently interrupted by flat-topped table mountains and deep dry rivers.",
+        "The stony, sand-free relief requires specialized hooves for wildlife.",
+        "Sheer basalt cliffs provide highly defensible territories for wildlife.",
+        "Crucial, globally significant sanctuary for free-roaming black rhinos."
+      ]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "descriptionAdvanced": "The Urichab (or Uri-Hauchab) relief is a deeply isolated, mountainous topography located within the restricted Sperrgebiet national park in southwestern Namibia. Rising abruptly from the flat, sandy coastal plains, the massive granite and gneiss inselbergs create a sudden, steep barrier against the Atlantic fog. The terrain is deeply fractured, featuring sheer, wind-sculpted rock faces that have never been subjected to modern human development due to strict diamond mining security over the past century. It remains a pristine, unmapped geographical anomaly deeply hidden in the desert. Geography K7 — isolated coastal massifs.",
+      "factsAdvanced": [
+        "A deeply isolated mountain topography located within the Sperrgebiet.",
+        "Rises abruptly as massive granite inselbergs from flat coastal plains.",
+        "Creates a sudden, steep physical barrier against rolling Atlantic fog.",
+        "Features sheer, heavily wind-sculpted rock faces and fractured ridges.",
+        "Completely untouched by modern development due to diamond security.",
+        "Remains a pristine, largely unmapped geographical anomaly."
+      ]
+    }
+  ]
+}

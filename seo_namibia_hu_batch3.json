@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "witvlei-cities-v2",
+      "descriptionAdvanced": "Witvlei egy parányi falu az Omaheke régióban, amely a Windhoek és Gobabis közötti stratégiai B6-os autópálya (Trans-Kalahari Highway) mentén fekszik. A település neve afrikaans nyelven 'Fehér mocsarat' jelent, ami a helyi időszakos vizes élőhelyek mészben gazdag, fehéres talajára utal. Bár nagyon kicsi, fontos szerepet játszott az ország mezőgazdasági exportjában, köszönhetően az egykor itt működő vágóhídnak, amely hosszú ideig biztosított megélhetést a helyieknek. A falu környezete jellemzően füves szavanna, amely ideális a hagyományos, ridegtartásos szarvasmarha- és birkatenyésztésre. Földrajz K8 — afrikai tranzitútvonalak és agrárium",
+      "factsAdvanced": [
+        "A Windhoekot és Botswanát összekötő B6-os autópálya (Trans-Kalahari) mentén fekszik",
+        "Neve afrikaans nyelven 'Fehér mocsarat' jelent",
+        "A környező szavannás vidék ideális a marhatenyésztésre",
+        "A település közelében fekszik a történelmi jelentőségű Oorlog emlékmű",
+        "Egykor fontos vágóhíddal rendelkezett, amely az EU-ba is exportált húst",
+        "Lakossága rendkívül kicsi, megközelítőleg 1 500 fő"
+      ]
+    },
+    {
+      "id": "leonardville-cities-v2",
+      "descriptionAdvanced": "Leonardville az Omaheke régió déli, elszigetelt szegletében található csendes falu, amely a kiszáradt Nossob folyó völgyében fekszik. A települést eredetileg missziós állomásként alapították, és Leonard püspök tiszteletére nevezték el. A lakosság többsége az önfenntartó mezőgazdaságból, főleg karakuljuh- és kecsketenyésztésből él a rendkívül száraz, de a juhok számára még alkalmas füves pusztákon. Az infrastruktúra minimális, de a falu fontos központja a helyi közösségi életnek; a közösség hagyományőrző életformája ritka bepillantást enged Namíbia vidéki, turizmustól mentes mindennapjaiba. Földrajz K7 — közösségi mezőgazdaság a félsivatagban",
+      "factsAdvanced": [
+        "A kiszáradt Nossob folyó völgyében, a Kalahári peremén található",
+        "Nevét Leonard püspökről, egy korai misszionáriusról kapta",
+        "A karakuljuh tenyésztése a helyi gazdaság egyetlen jelentős pillére",
+        "Távolsága a főutaktól elszigetelt, nyugodt légkört biztosít",
+        "Az ivóvizet mély fúrt kutakból nyerik a földalatti medencékből",
+        "Népessége mindössze 1 000 fő körül mozog"
+      ]
+    },
+    {
+      "id": "epukiro-cities-v2",
+      "descriptionAdvanced": "Epukiro egy történelmi Herero településcsoport és egykori katolikus missziós állomás az Omaheke régió keleti részén. A települést 1902-ben alapították, majd később hivatalosan is a Herero nép egyik legfontosabb kommunális farmvidéki központjává vált. A helyiek életét a szarvasmarha-tartás határozza meg, amely nem csupán gazdasági, hanem mélyen gyökerező kulturális és vallási jelentőséggel is bír számukra. A viszonylag elszigetelt, Kalahári-jellegű környezet komoly kihívást jelent az aszályos időszakokban, így a legelőkért és a vízért folytatott küzdelem a mindennapok szerves része. Történelem K8 — katolikus missziók és törzsi területek",
+      "factsAdvanced": [
+        "1902-ben alapították római katolikus missziós állomásként",
+        "A Herero népcsoport egyik legfontosabb történelmi és kulturális központja",
+        "A 'kommunális földbirtoklás' (communal land) egyik klasszikus példája",
+        "A marhatenyésztés nemcsak gazdasági, de szakrális értékkel is bír",
+        "A Kalahári-medence homokos, félsivatagi tája veszi körül",
+        "Az infrastruktúra alapszintű, a lakosság több kisebb faluba szóródik szét"
+      ]
+    },
+    {
+      "id": "aminuis-cities-v2",
+      "descriptionAdvanced": "Aminuis egy elszigetelt falu és egy kiterjedt kommunális farmvidék központja az Omaheke régió mély délkeleti részén, a botswanai határ közelében. A település elsősorban a Herero és Tswana népcsoportok otthona. A terület híres hatalmas sós medencéiről (salt pans), amelyek a száraz évszakban vakítóan fehérek, és fontos ásványi kiegészítést jelentenek a legelésző szarvasmarháknak. Aminuis gazdaságilag küzdelmes helyzetben van a gyakori szárazságok és a nagy távolságok miatt, de kulturális szempontból kiemelkedően gazdag; a helyiek szigorúan őrzik ősi hagyományaikat és társadalmi hierarchiájukat. Földrajz K8 — sós medencék és állattenyésztés",
+      "factsAdvanced": [
+        "A Botswanával határos Omaheke régió délkeleti csücskében fekszik",
+        "Herero és Tswana etnikumok békés együttélésének színtere",
+        "Kiterjedt sós medencék (salt pans) tarkítják a környező tájat",
+        "A marhatenyésztés mellett a hagyományos lovastartás is jellemző",
+        "Rendkívül elszigetelt, így a hagyományok erősen megmaradtak",
+        "A vidék kommunális legelőként (communal grazing area) működik"
+      ]
+    },
+    {
+      "id": "oshikuku-cities-v2",
+      "descriptionAdvanced": "Oshikuku az Omusati régió egyik legfontosabb történelmi és vallási központja Észak-Namíbiában. A települést 1924-ben alapították katolikus misszionáriusok, és mind a mai napig az ország egyik legjelentősebb római katolikus missziójának, kórházának és oktatási intézményeinek ad otthont. A város egy sűrűn lakott, agrárius környezetben fekszik, ahol az esős évszakban az oshanák (időszakos tavak) uralják a tájat, lehetővé téve az apró halászatot és a köles termesztését. Bár hagyományosan falu volt, az utóbbi években rohamléptékben urbanizálódik, és hivatalos városi rangot kapott. Történelem K7 — egyházi intézmények szerepe Afrikában",
+      "factsAdvanced": [
+        "1924-ben alapították, a római katolikus egyház északi központja",
+        "Híres kórháza, a St. Martin's Hospital, kulcsfontosságú a régióban",
+        "A hagyományos omahangu (köles) termesztő terület szívében fekszik",
+        "Az esős évszak oshanái (sekély tavak) jelentősen formálják arculatát",
+        "Az utóbbi évtizedben falu státuszból hivatalosan várossá nőtte ki magát",
+        "Lakossága gyorsan növekszik, elérte a 3 000 főt"
+      ]
+    },
+    {
+      "id": "okahao-cities-v2",
+      "descriptionAdvanced": "Okahao az Omusati régióban fekvő város, amely történelmi és politikai szempontból kiemelkedő jelentőségű Namíbia számára; a közelében fekvő Ongandjera a szülőföldje Sam Nujomának, az ország alapító atyjának és első elnökének. A város az Ongandjera királyság hagyományos székhelye is. Az elmúlt két évtizedben Okahao óriási infrastrukturális fejlesztéseken ment keresztül, új bevásárlóközpontokkal, aszfaltozott utakkal és modern egészségügyi létesítményekkel gazdagodott. Gazdasága a mezőgazdaságra, a szolgáltatóiparra és a közigazgatási feladatokra épül. Történelem K8 — afrikai alapító atyák és királyságok",
+      "factsAdvanced": [
+        "A közelben (Etunda falu) született Sam Nujoma, Namíbia első elnöke",
+        "Az ősi Ongandjera hagyományos királyság történelmi székhelye",
+        "Rohamos városfejlődésen és infrastrukturális expanzión esett át",
+        "Fontos agrárközpont, ahol a helyi pásztorkodás dominál",
+        "Minden évben kulturális fesztiválokat tartanak az Ongandjera hagyományok őrzésére",
+        "Lakossága nagyjából 1 600 fő"
+      ]
+    },
+    {
+      "id": "tsandi-cities-v2",
+      "descriptionAdvanced": "Tsandi egy gyorsan fejlődő történelmi város az Omusati régióban, amely hagyományosan az Uukwaluudhi királyság központja. A város fő attrakciója a 'Királyi Tanya' (Uukwaluudhi Royal Homestead), amely nyitva áll a látogatók előtt, és ritka, testközeli bepillantást enged az ovambo királyi családok életmódjába, a hagyományos építészeti stílusokba és az afrikai királyi udvartartás működésébe. A település, mint a legtöbb északi város, a mezőgazdaságból él, ugyanakkor egyre nagyobb hangsúlyt fektet a kulturális turizmusra, hogy diverzifikálja bevételeit. Történelem K8 — tradicionális afrikai monarchiák",
+      "factsAdvanced": [
+        "Az Uukwaluudhi hagyományos afrikai királyság székhelye",
+        "Legfőbb látványossága a látogatható Uukwaluudhi Royal Homestead",
+        "A királyi tanya megőrizte a tradicionális ovambo fa- és cölöpépítészetet",
+        "A város nevét a helyi nyelvjárásból kapta",
+        "A helyi gazdaságot a turizmus és a hagyományos kölestermesztés adja",
+        "Lakossága megközelítőleg 2 500 fő"
+      ]
+    },
+    {
+      "id": "bukalo-cities-v2",
+      "descriptionAdvanced": "Bukalo a Zambézi régió (Caprivi-sáv) keleti részén fekszik, és a Masubia népcsoport (Masubia Traditional Authority) hivatalos kulturális és közigazgatási központja. A falu élete a hagyományok köré épül; a legfontosabb esemény a Bwika (aranyaratás) fesztivál, amelyet minden nyáron megrendeznek a helyi király vezetésével. A település földrajzilag a Zambézi folyó árterületén helyezkedik el, így az áradások (mukuro) gyakran elzárják a külvilágtól, amihez a helyiek alkalmazkodtak a magasított kunyhók és a csónakos közlekedés használatával. Földrajz K7 — ártéri mezőgazdaság és életmód",
+      "factsAdvanced": [
+        "A Masubia etnikai csoport és királyuk hagyományos székhelye",
+        "Minden nyáron itt tartják a látványos Bwika kulturális fesztivált",
+        "A Zambézi folyó árterületén (floodplains) fekszik",
+        "Az éves áradások (mukuro) alapjaiban határozzák meg a falu életét",
+        "A lakosság főként halászatból és szezonális növénytermesztésből él",
+        "Csak a közelmúltban, 2013-ban kapott hivatalos városi (village council) rangot"
+      ]
+    },
+    {
+      "id": "walvis-bay-hafen-economic-v2",
+      "descriptionAdvanced": "A Walvis Bay kikötő Namíbia legnagyobb és legkorszerűbb mélyvízi kikötője, egyben az ország gazdaságának egyik legfontosabb motorja. Mivel Namíbia tengerpartjának jelentős része sekély vagy zord, a Walvis Bay természetes öble ritka kincs. A kikötő nem csupán Namíbia importját és exportját (ásványkincsek, só, hal) bonyolítja le, hanem a landlocked (tengerparttal nem rendelkező) szomszédos országok, mint Botswana, Zambia és Zimbabwe számára is létfontosságú tranzitútvonal a Walvis Bay Corridors (fejlesztési folyosók) révén. A közelmúltban egy hatalmas mesterséges félszigetet hoztak létre az új konténerterminál számára, jelentősen növelve a kapacitást. Földrajz K8 — tengeri kereskedelem és logisztika",
+      "factsAdvanced": [
+        "Namíbia legnagyobb és egyetlen jelentős mélyvízi kikötője",
+        "A Namport (Namíbiai Kikötői Hatóság) üzemelteti",
+        "Fontos tranzitkapu Botswana, Zambia és Zimbabwe számára",
+        "A 2019-ben átadott új konténerterminál egy mesterséges szigeten épült",
+        "Kapacitása meghaladja az évi 750 000 TEU (konténer) egységet",
+        "A gyarmati időkben hosszú ideig brit és dél-afrikai fennhatóság alatt állt"
+      ]
+    },
+    {
+      "id": "luederitz-hafen-economic-v2",
+      "descriptionAdvanced": "A Lüderitz kikötő Namíbia második legfontosabb, de jóval kisebb tengeri kapuja, amely az ország déli részén, a zord Atlanti-óceán partján fekszik. A nagyon sekély sziklaágy miatt a kikötő csak kisebb merülésű teherhajókat és halászhajókat képes fogadni, de kulcsfontosságú szerepet játszik a déli bányák (főleg cink és ólom) exportjának lebonyolításában. Történelmileg ez volt Namíbia első gyarmati kikötője. Manapság a teherforgalom mellett a halászat – különösen a jövedelmező homár- és osztrigaipar –, valamint a tengeri gyémántbányászati hajók kiszolgálása adja a kikötő gazdasági alapját. Történelem K8 — gyarmati kereskedelmi útvonalak",
+      "factsAdvanced": [
+        "Namíbia második legnagyobb, történelmi jelentőségű kikötője",
+        "Sekély vízmélysége miatt nagy óceánjárókat nem képes fogadni",
+        "A déli bányák, például a Skorpion cinkbánya fő exportpontja",
+        "Központja a namíbiai homár- és osztrigahalászatnak",
+        "A tengeri (offshore) gyémántbányászó hajók fontos bázisa",
+        "Nevét a várost is alapító Adolf Lüderitzről kapta"
+      ]
+    },
+    {
+      "id": "roessing-uranmine-economic-v2",
+      "descriptionAdvanced": "A Rössing uránbánya a Namíb-sivatag mélyén fekszik, és a világ egyik legrégebbi, legnagyobb és leghosszabb ideje működő nyílt színi (open-pit) uránbányája. A bánya 1976-ban kezdte meg a termelést, és működése során jelentős mértékben hozzájárult Namíbia GDP-jéhez és exportbevételeihez. A bányászat rendkívül vízigényes folyamat, amit a sivatagi környezetben hatalmas kihívás biztosítani; a vizet részben sótalanító üzemekből nyerik. A kitermelt urán-oxidot (sárgaport) elsősorban atomerőművek üzemanyagaként exportálják a világ minden tájára, Ázsiától Európáig. Kémia K8 — uránérc és nukleáris ipar",
+      "factsAdvanced": [
+        "A világ egyik leghosszabb ideje működő nyílt színi uránbányája",
+        "1976-ban kezdte meg a kereskedelmi urántermelést",
+        "Az Arandis nevű bányavárost kifejezetten a dolgozóknak építették",
+        "A globális uránellátás jelentős százalékát adja",
+        "Jelenleg egy kínai bányászati vállalat (CNNC) a többségi tulajdonosa",
+        "A termék urán-oxid (U3O8), más néven 'sárgaport' formájában kerül exportra"
+      ]
+    },
+    {
+      "id": "husab-uranmine-economic-v2",
+      "descriptionAdvanced": "A Husab uránbánya a világ második legnagyobb uránbányája, amely közvetlenül a Rössing bánya közelében, az Erongo régióban működik. A 2010-es évek közepén nyitott meg, és Kína történetének egyik legnagyobb afrikai infrastrukturális és bányászati beruházását jelenti (Swakop Uranium vállalat). A nyílt színi bányászat hatalmas méreteket ölt; a kitermelés során gigantikus teherautókat és kotrógépeket használnak a kőzetek mozgatására. A Husab bánya megnyitása új lendületet adott Namíbia bányászati szektorának, amellyel az ország a világ egyik legnagyobb urántermelőjévé lépett elő. Kémia K8 — modern bányászati technológiák",
+      "factsAdvanced": [
+        "A világ második legnagyobb ismert uránlelőhelye",
+        "A kínai (CGN) állami vállalat vezetésével épült ki",
+        "Több mint 2 milliárd dolláros beruházással jött létre",
+        "Nyílt színi fejtéssel termeli ki az urántartalmú kőzetet",
+        "A közeli Rössing bánya szomszédságában található",
+        "A bányászat 2016-ban indult meg hivatalosan"
+      ]
+    },
+    {
+      "id": "langer-heinrich-mine-economic-v2",
+      "descriptionAdvanced": "A Langer Heinrich bánya a Namíb-sivatagban található jelentős uránbánya, amely a Namíb-Naukluft Nemzeti Park területén, egy ősi, kiszáradt folyóvölgy calcrete (mészköves) talajában rejtőző ércet termeli ki. A bányát egy ausztrál vállalat, a Paladin Energy üzemelteti. Működése szorosan követi az urán világpiaci árát; 2018-ban a tartósan alacsony árak miatt a termelést ideiglenesen felfüggesztették (care and maintenance), de az atomenergia iránti újbóli keresletnövekedés miatt 2024-ben újraindították a kitermelést. A bánya különlegessége a viszonylag sekély, alkalikus kőzetből történő bányászat. Kémia K8 — nyersanyag-áringadozások hatása",
+      "factsAdvanced": [
+        "Egy kiszáradt, ősi folyómederben (paleochannel) található a Namíb-sivatagban",
+        "Ausztrál tulajdonban (Paladin Energy) lévő vállalat üzemelteti",
+        "A kőzet viszonylag sekély, calcrete (mésztufás) típusú uránérc",
+        "2018-ban alacsony árak miatt leállították, de 2024-ben újraindult",
+        "Termelése során intenzíven alkalmaznak alkalikus lúgozási technológiát",
+        "A Namíb-Naukluft Nemzeti Park védett övezetén belül fekszik"
+      ]
+    },
+    {
+      "id": "trekkopje-uranmine-economic-v2",
+      "descriptionAdvanced": "A Trekkopje uránbánya egy hatalmas kiterjedésű, nagyon alacsony dúsítású uránlelőhely a Swakopmundtól északkeletre fekvő sivatagi síkságon. A francia Orano (korábban Areva) vállalat tulajdonában álló bánya egy innovatív, vízintenzív alkalikus halomlúgozási (heap leaching) technológiát próbált bevezetni. Az üzemeltetéséhez még egy hatalmas, saját sótalanító üzemet is építettek az óceán partján (Erongo Desalination Plant). Azonban a 2011-es fukusimai katasztrófa utáni uránár-zuhanás miatt a bányát sosem indították el teljesen; évek óta karbantartási (care and maintenance) üzemmódban várja a piaci feltételek javulását. Kémia K8 — lúgozás és sótalanítás a bányászatban",
+      "factsAdvanced": [
+        "Az egyik legalacsonyabb minőségű (grade) uránércet tartalmazó gigantikus bánya",
+        "A francia Orano (Areva) bányászati vállalat projektje",
+        "A projekt miatt épült fel a Namíbiai (Erongo) Sótalanító Üzem",
+        "Alkalikus halomlúgozási (heap leaching) módszert alkalmaznának",
+        "A globális áresés miatt a bányát jelenleg is 'care and maintenance' állapotban tartják",
+        "Hatalmas, több kilométer hosszú lúgozópadokat (pads) építettek ki"
+      ]
+    },
+    {
+      "id": "ohorongo-zementwerk-economic-v2",
+      "descriptionAdvanced": "Az Ohorongo Cementgyár Namíbia egyetlen, és egész Afrikában is az egyik legmodernebb és legkörnyezetbarátabb cementelőállító üzeme. Otavi közelében található, ahol a helyi hegyek bőséges, kiváló minőségű mészkővel látják el a gyárat. Az üzemet elsősorban német technológiával és tőkével hozták létre, és jelentősen csökkentette Namíbia függőségét a dél-afrikai cementimporttól. A vállalat nagy hangsúlyt fektet a fenntarthatóságra: a kemencék fűtéséhez a környező, túlszaporodott tüskés bokrokból származó faaprítékot (biomasszát) használják fel, egyszerre csökkentve a szén-dioxid kibocsátást és segítve a helyi farmereket a bozótosodás elleni küzdelemben. Kémia K7 — építőanyagok és biomassza",
+      "factsAdvanced": [
+        "Namíbia legnagyobb és legkorszerűbb cementgyára, Otavi mellett",
+        "Hatalmas mészkőkészlet áll rendelkezésre a gyár közvetlen közelében",
+        "A termelési folyamatban alternatív fűtőanyagként helyi biomasszát használnak",
+        "Jelentősen csökkentette az ország importfüggőségét az építőiparban",
+        "Német befektetés (Schwenk Zement KG) segítségével épült meg",
+        "Kapacitása meghaladja az évi egymillió tonna cementet"
+      ]
+    },
+    {
+      "id": "skorpion-zinkmine-economic-v2",
+      "descriptionAdvanced": "A Skorpion cinkbánya Rosh Pinah közelében található, és sokáig Namíbia egyik legfontosabb bányászati üzeme volt. Ami különlegessé teszi, hogy ez az egyetlen bánya a világon, amely a cinkérc egy specifikus, oxidos formáját termelte ki, majd helyben, a bánya melletti hatalmas finomítóban (refinery) közvetlenül nagytisztaságú (99,9%-os) cinktömbökké dolgozta fel kémiai és elektrolitikus úton. A bánya nyílt színi kitermelése az érc kimerülése miatt 2020-ban leállt, azonban a finomító komplexumot folyamatosan próbálják átalakítani, hogy képes legyen a szomszédos bányákból származó szulfidos cinkércek feldolgozására is. Kémia K8 — ércfeldolgozás és elektrolízis",
+      "factsAdvanced": [
+        "Az első bánya, amely kizárólag cink-oxidot (Skorpionitot) termelt ki és dolgozott fel",
+        "A helyi finomító közvetlenül 99,99%-os tisztaságú cinket állított elő",
+        "Vedanta Resources (indiai vállalat) tulajdonában áll",
+        "A nyílt színi kitermelés 2020-ban a készletek kimerülése miatt leállt",
+        "Hatalmas elektrolitikus kádközponttal rendelkezik a feldolgozáshoz",
+        "A finomítót folyamatosan modernizálják szulfidos ércek fogadására"
+      ]
+    },
+    {
+      "id": "rosh-pinah-zinkmine-economic-v2",
+      "descriptionAdvanced": "A Rosh Pinah cinkbánya a szomszédos Skorpion bányával ellentétben nem oxidos, hanem klasszikus cink-szulfid és ólom-szulfid érceket termel ki a Huib-hegység mélyén. Ez a bánya földalatti fejtéssel működik már 1969 óta, és a bányaváros alapításának fő oka volt. A kitermelt ércet a helyszínen egy flotációs üzemben sűrítményekké (koncentrátummá) alakítják, amelyet teherautókkal szállítanak a Lüderitz kikötőbe, majd hajón exportálnak finomításra. A bánya élettartamát a közelmúltban végrehajtott modernizációs és bővítési program (RP2.0) újabb évtizedekkel hosszabbította meg. Kémia K8 — földalatti bányászat és flotáció",
+      "factsAdvanced": [
+        "Földalatti (underground) cink- és ólombánya, amely 1969 óta működik",
+        "Klasszikus szulfidos érceket termel ki és flotációs módszerrel dúsít",
+        "A sűrítményt (koncentrátumot) Lüderitz kikötőjéből exportálják",
+        "Kanadai tulajdonú Trevali Mining Corporation üzemelteti",
+        "A 'Rosh Pinah 2.0' projekt jelentősen meghosszabbította az élettartamát",
+        "Több száz méter mély alagútrendszerrel rendelkezik"
+      ]
+    },
+    {
+      "id": "navachab-goldmine-economic-v2",
+      "descriptionAdvanced": "A Navachab aranybánya Karibib városa mellett, az Erongo régióban működik, és Namíbia legjelentősebb, legrégebbi nyílt színi aranybányája. Az 1989-ben indult termelés során a hatalmas kőzetrétegekből nyerik ki a rendkívül alacsony koncentrációjú (néhány gramm/tonna) aranyat. A kinyeréshez cianidos lúgozási folyamatot (CIL - Carbon in Leach) alkalmaznak, majd az aranyat rudakká (doré bars) olvasztják, amelyeket külföldi finomítókba küldenek. A bánya nemcsak gazdasági motorja Karibibnek, hanem komoly figyelmet fordít a környezetvédelemre és a ritka helyi növényvilág megőrzésére is. Kémia K8 — cianidos lúgozás és nemesfémek",
+      "factsAdvanced": [
+        "Namíbia legrégebbi, 1989 óta üzemelő nyílt színi aranybányája",
+        "Egy magán befektetői csoport (QKR Corporation) tulajdonában van",
+        "A feldolgozás során cianidos lúgozást (CIL) használnak az arany kinyerésére",
+        "Az aranyat nyers, 80-90%-os 'doré' rudakká öntik a helyszínen",
+        "Évente nagyjából 60-80 ezer uncia aranyat termelnek ki",
+        "A Karibib városkát szinte teljes egészében ez az iparág tartja életben"
+      ]
+    },
+    {
+      "id": "otjikoto-goldmine-economic-v2",
+      "descriptionAdvanced": "Az Otjikoto aranybánya Namíbia legújabb és legmodernebb aranybányája, amely Otjiwarongo és Otavi között helyezkedik el. A kanadai B2Gold vállalat 2014-ben nyitotta meg a bányát, amely vegyesen alkalmaz nyílt színi és – a közelmúlt fejlesztéseinek köszönhetően – földalatti bányászati módszereket is. Az üzem büszkesége a kiemelkedő technológiai és környezetvédelmi színvonal; Afrikában az elsők között telepítettek a bányát ellátó saját naperőműparkot, ami drasztikusan csökkentette a nehézolaj-fogyasztást és a szén-dioxid kibocsátást. Az Otjikoto jelenleg Namíbia legnagyobb aranytermelője. Földrajz K8 — fenntartható bányászat és napenergia",
+      "factsAdvanced": [
+        "2014-ben kezdte meg a termelést a kanadai B2Gold irányításával",
+        "Namíbia legnagyobb éves aranyhozamú bányája",
+        "Részben saját, 7 megawattos naperőmű (solar plant) látja el árammal",
+        "A nyílt színi fejtés mellett elindult a 'Wolfshag' nevű földalatti aknarendszer is",
+        "Az első namíbiai bánya, amely teljesen automatizált flotációs üzemet használ",
+        "A termelés hatékonysága miatt a namíbiai gazdaság egyik gyöngyszeme"
+      ]
+    },
+    {
+      "id": "tschudi-kupfermine-economic-v2",
+      "descriptionAdvanced": "A Tschudi rézbánya Tsumeb városától nyugatra fekszik, és egyedülállónak számít Namíbiában, mivel szakított a hagyományos rézolvasztási technológiával. A bánya az úgynevezett SX-EW (Solvent Extraction and Electrowinning) hidrokohászati eljárást alkalmazza. A savas halomlúgozással kinyert folyadékból egyenesen 99,99%-os tisztaságú, prémium rézkatódokat állítanak elő elektrolízissel a helyszínen, anélkül, hogy a környezetszennyező, füstölgő hagyományos kohókat használnák. Bár a bánya küzdött a magas talajvízszinttel és a nyílt fejtés áradásával, technológiai innovációja miatt kiemelkedő példája a modern rézkitermelésnek. Kémia K8 — hidrokohászat és rézkivonás",
+      "factsAdvanced": [
+        "Namíbia egyetlen rezet termelő és helyben kész katódokat (99,99%) gyártó bányája",
+        "Halomlúgozást és SX-EW (elektrolitikus kivonás) technológiát alkalmaz",
+        "Nem igényel hagyományos olvasztókemencéket, csökkentve a károsanyag-kibocsátást",
+        "Weatherly International plc vállalat alapította",
+        "Nyílt színi kitermelésű, amely gyakran küzd a magas talajvízbetöréssel",
+        "A terméket (rézkatódok) elsősorban az európai piacokra értékesítik"
+      ]
+    },
+    {
+      "id": "matchless-kupfermine-economic-v2",
+      "descriptionAdvanced": "A Matchless rézbánya egy történelmi, kis méretű földalatti bánya a Khomas-felföldön, Windhoektól nyugatra. A bányászat itt már a 19. század végén, a német gyarmati idők előtt megkezdődött, így az ország egyik legrégebben ismert rézlelőhelye. Bár a kitermelés az évtizedek során többször is szünetelt az alacsony rézárak miatt, a bánya többször is újraéledt. A Matchlessből származó ércet hagyományosan a tőle nem messze fekvő Otjihase bányába szállították, ahol közösen dúsították (flotálták), mielőtt a tsumebi kohóba került volna végleges feldolgozásra. Történelem K8 — korai afrikai rézbányászat",
+      "factsAdvanced": [
+        "Namíbia egyik legrégebbi ismert rézlelőhelye, Windhoektól 30 km-re",
+        "Kisméretű, földalatti (underground) bányászati módszerekkel működik",
+        "A kitermelés a nemzetközi rézárak miatt erősen szakaszos volt",
+        "Az ércet gyakran az Otjihase bányába szállítják közös feldolgozásra",
+        "Jelentős mennyiségű arany- és ezüst mellékterméket is tartalmaz az érc",
+        "Történeti leletek alapján már a gyarmatosítás előtt is folyt itt ércgyűjtés"
+      ]
+    },
+    {
+      "id": "otjihase-kupfermine-economic-v2",
+      "descriptionAdvanced": "Az Otjihase rézbánya Windhoektól mintegy 18 kilométerre északkeletre található a hegyvidékes terepen. Ez a földalatti bánya komplex lejtős aknarendszerrel (decline shafts) rendelkezik, ahol a rézben, piritben és kis mennyiségű aranyban gazdag kőzetet fejtik. A bánya rendelkezik egy saját koncentrátor (flotációs) üzemmel, amely a Matchless bánya ércét is feldolgozta. Gazdasági élete hullámzó volt; a globális rézárak esése miatt a 2010-es években felfüggesztették a működést, de az infrastruktúrát karbantartják egy esetleges újraindítás reményében. Kémia K8 — földalatti bányászat és flotáció",
+      "factsAdvanced": [
+        "Jelentős méretű földalatti rézbánya közel Namíbia fővárosához",
+        "Rendelkezik saját flotációs sűrítőüzemmel a helyszínen",
+        "Az ércből rézkoncentrátumot állítanak elő, arany melléktermékkel",
+        "A bánya modernizált, gépesített fejtési technológiákat alkalmaz",
+        "Többször is szüneteltették a termelést a rézpiaci visszaesések miatt",
+        "A sűrítményt történelmileg a Tsumebi Kohóban dolgozták fel"
+      ]
+    },
+    {
+      "id": "namdeb-oranjemund-economic-v2",
+      "descriptionAdvanced": "A Namdeb (Oranjemund) a világ egyik legkülönlegesebb és leggazdagabb alluviális (hordalékos) gyémántbányászati művelete. Az Oranje folyó millió évek alatt mosta a gyémántokat Dél-Afrikából az Atlanti-óceán partjára, ahol a hullámverés a partvonal homokjába ágyazta őket. A bányászat itt igazi mérnöki csoda: a tengerpart mentén hatalmas, több tíz méter magas homokfalakkal (seawalls) tartják vissza az óceánt, hogy a tengerszint alatt szárazon bányászhassák a gyémánttartalmú alapkőzetet. A vállalat – fele-fele arányban a namíbiai állam és a De Beers tulajdona – szigorú biztonsági szabályokkal dolgozik a zárt övezetben (Sperrgebiet). Földrajz K8 — alluviális gyémántbányászat és óceánszabályozás",
+      "factsAdvanced": [
+        "A világ leggazdagabb alluviális (hordalékos) gyémántlelőhelye",
+        "A Namíbiai kormány és a De Beers közös vállalata (50-50%)",
+        "Hatalmas homokgátakkal (seawalls) szorítják vissza az Atlanti-óceánt",
+        "A kitermelt gyémántok 95%-a 'gem-quality', azaz ékszeripari minőségű",
+        "Az Oranjemund városa évtizedekig a bánya zárt, privát települése volt",
+        "A bányászat fokozatosan a sekély vizű parti vizekbe és a mélytengerre helyeződik át"
+      ]
+    },
+    {
+      "id": "elizabeth-bay-mine-economic-v2",
+      "descriptionAdvanced": "Az Elizabeth Bay gyémántbánya a könyörtelen Skeleton Coast déli részén, Lüderitz városától nem messze fekszik. A Namdeb által üzemeltetett bánya az erős szelek által felhalmozott gyémánttartalmú homokot (aeolian deposits) dolgozta fel. A bányát története során többször is bezárták és újranyitották, ahogy az új finomítási technológiák lehetővé tették az egyre kisebb gyémántok kinyerését a finom homokból. Nemrégiben a bányát eladták egy magánbefektetői csoportnak, akik újabb technológiai fejlesztésekkel próbálnak életet lehelni a létesítménybe, dacolva a sivatag és a tenger kíméletlen elemeivel. Földrajz K8 — aeolikus (szélhordta) gyémánttelepek",
+      "factsAdvanced": [
+        "Kizárólag szél által hordott (aeolian) gyémánttartalmú homokot bányásznak",
+        "Lüderitztől körülbelül 30 kilométerre délre található a Sperrgebietben",
+        "1926-ban alapították, majd több évtizedes leállás után 1991-ben újranyitott",
+        "Rendkívül erős sivatagi szelek és homokviharok nehezítik a munkát",
+        "A kitermelt gyémántok aprók, de kiváló minőségűek",
+        "A Namdeb 2019-ben eladta a bányát egy független konzorciumnak"
+      ]
+    },
+    {
+      "id": "bogenfels-diamantenmine-economic-v2",
+      "descriptionAdvanced": "A Bogenfels gyémántbánya az ikonikus Bogenfels-sziklaív (egy óriási, tengerből kiálló kőív) közelében fekszik a lezárt Sperrgebiet területén. A 20. század elején ez a terület volt a német gyarmati gyémántláz egyik központja, amiről ma egy kísérteties szellemváros és egy elhagyatott ipari üzem tanúskodik. A modern időkben a Namdeb újraindította itt a bányászatot, speciális zseb-partvidéki (pocket beach) technológiát alkalmazva, hogy a kis kiterjedésű, de rendkívül gazdag gyémántcsapdákat kiürítsék. A helyszín szürreális keveréke az évezredes geológiai formációknak, az omladozó történelemnek és a csúcstechnológiás mobil bányászatnak. Földrajz K8 — partvidéki geológia és szellemvárosok",
+      "factsAdvanced": [
+        "Nevét a közeli, híres 55 méter magas mészkő sziklaívről (Bogenfels) kapta",
+        "A terület a 20. század eleji gyémántláz egykori központja volt",
+        "A régi gyémántmosó üzem romjai ma is állnak, afféle szellemvárosként",
+        "A modern bányászat itt 'pocket beach' (zseb-parti) módszerekkel működött",
+        "A bányászati gépeket és mobil mosókat folyamatosan mozgatják a parton",
+        "A helyszín szigorúan lezárt gyémántövezet (Sperrgebiet)"
+      ]
+    }
+  ]
+}

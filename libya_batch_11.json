@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sirtica-desert-relief-v2",
+    "name": "Sirtica Desert",
+    "desc": "A desert area south of the Gulf of Sidra."
+  },
+  {
+    "id": "gargaf-desert-relief-v2",
+    "name": "Gargaf Desert",
+    "desc": "The desert areas around the Gargaf Mountains."
+  },
+  {
+    "id": "cyrenaica-coast-relief-v2",
+    "name": "Cyrenaica Coast",
+    "desc": "The coastal region of Cyrenaica."
+  }
+]

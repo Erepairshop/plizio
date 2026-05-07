@@ -1,0 +1,345 @@
+{
+  "lang": "ro",
+  "country": "sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wadi-halfa-river-port-economic-v2",
+      "descriptionAdvanced": "Portul Fluvial Wadi Halfa este poarta de intrare nordică a Sudanului, situat pe malul Lacului Nubia, în apropierea graniței cu Egiptul. Acest port joacă un rol vital în comerțul bilateral, fiind punctul de transbordare pentru mărfurile care călătoresc cu feribotul între Aswan și Wadi Halfa. Portul gestionează volume semnificative de produse agricole, mașini și bunuri de consum, fiind esențial pentru aprovizionarea regiunilor de nord ale Sudanului. Infrastructura sa a fost adaptată la variațiile nivelului apei lacului, asigurând o conexiune logistică permanentă și eficientă între cele două țări vecine. Economie K8 — Comerț transfrontalier și logistică fluvială.",
+      "factsAdvanced": [
+        "Singurul port fluvial care conectează Sudanul de Egipt prin Lacul Nubia.",
+        "Nod strategic pentru feriboturile de pasageri și marfă.",
+        "Gestionează exporturile de animale și produse agricole către nord.",
+        "Situat la capătul nordic al rețelei feroviare sudaneze.",
+        "Important centru pentru vămi și controlul frontierelor.",
+        "Facilitează transportul de echipamente grele pentru proiectele miniere.",
+        "Un punct cheie pe coridorul rutier trans-african.",
+        "Economia locală depinde direct de activitățile de tranzit portuar."
+      ]
+    },
+    {
+      "id": "kenana-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr Kenana este nucleul unuia dintre cele mai mari complexe agro-industriale din lume, situată în statul Nilul Alb. Această facilitate procesează trestia de zahăr recoltată de pe mii de hectare de terenuri irigate, transformând Sudanul într-un jucător major pe piața globală a zahărului. Kenana este renumită pentru eficiența sa, utilizând subprodusele procesului pentru a genera bioenergie și pentru a produce hrană pentru animale. Fabrica reprezintă un model de succes în integrarea verticală, de la cultivarea materiei prime până la ambalarea produsului finit și producția de etanol, contribuind masiv la PIB-ul agricol al țării. Economie K8 — Agro-industrie și dezvoltare durabilă.",
+      "factsAdvanced": [
+        "Cea mai mare fabrică de zahăr integrată din Africa.",
+        "Produce sute de mii de tone de zahăr alb rafinat anual.",
+        "Centru major pentru producția de etanol din melasă.",
+        "Dispune de propria centrală electrică pe biomasă.",
+        "Un proiect multinațional de succes în inima Sudanului.",
+        "Angajează peste 15.000 de lucrători calificați.",
+        "Model pentru mecanizarea agriculturii la scară largă.",
+        "Esențială pentru veniturile din export ale sectorului nepetrolier."
+      ]
+    },
+    {
+      "id": "white-nile-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr Nilul Alb este cea mai nouă și modernă facilitate de acest tip din Sudan, reprezentând vârful de lance al tehnologiei agro-industriale naționale. Situată strategic pentru a beneficia de resursele bogate de apă ale Nilului Alb, fabrica utilizează sisteme de irigații de precizie și procese automatizate de prelucrare. Proiectul vizează nu doar satisfacerea cererii interne, ci și poziționarea Sudanului ca un exportator competitiv pe piețele internaționale. Integrarea producției de zahăr cu cea de energie și biocombustibili face din această fabrică un pilon al strategiei de securitate energetică și alimentară a țării. Economie K8 — Inovație tehnologică în agro-industrie.",
+      "factsAdvanced": [
+        "Cea mai recentă mare investiție în sectorul zahărului din Sudan.",
+        "Capacitate de producție proiectată la niveluri record mondiale.",
+        "Utilizează tehnologii avansate de economisire a apei.",
+        "Produce energie electrică surplus pentru rețeaua națională.",
+        "Situată în apropierea zonelor majore de consum din centrul țării.",
+        "Include o rafinărie de zahăr de ultimă generație.",
+        "Proiectul a revitalizat economia locală în statul Nilul Alb.",
+        "Vizează standarde înalte de sustenabilitate și protecție a mediului."
+      ]
+    },
+    {
+      "id": "assalaya-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr Assalaya, aflată sub administrarea Companiei de Zahăr din Sudan, este un element vital al infrastructurii productive de pe malul Nilului Alb. Fabrica procesează recoltele de trestie de zahăr de pe suprafețe vaste de terenuri irigate, asigurând o aprovizionare constantă cu zahăr pentru regiunile centrale și vestice. Assalaya joacă un rol social important, oferind stabilitate economică și servicii comunitare pentru mii de angajați și familiile lor. Prin utilizarea eficientă a resurselor locale și prin programe constante de modernizare, fabrica rămâne un pilon al stabilității în sectorul agro-industrial sudanez. Economie K8 — Managementul resurselor agricole de stat.",
+      "factsAdvanced": [
+        "Unitate de stat majoră în producția de zahăr.",
+        "Situată în statul Nilul Alb, un hub al agriculturii irigate.",
+        "Contribuie la autosuficiența Sudanului în produse de bază.",
+        "Dispune de un sistem extins de canale de irigații proprii.",
+        "Include unități de întreținere pentru parcul de utilaje agricole.",
+        "Un angajator cheie care susține mii de gospodării.",
+        "Produce subproduse utilizate în industria hranei pentru animale.",
+        "Parte integrantă a sistemului de securitate alimentară națională."
+      ]
+    },
+    {
+      "id": "guneid-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr Guneid este recunoscută ca fiind prima fabrică de zahăr din Sudan, marcând începutul industrializării pe scară largă a acestui sector în anii 1960. Situată pe malul estic al Nilului Albastru, Guneid este faimoasă pentru sistemul său de parteneriat cu fermierii locali, care cultivă trestia pe propriile terenuri sub supravegherea tehnică a fabricii. Acest model a transformat economia regiunii, aducând prosperitate în comunitățile rurale din statul Gezira. Guneid rămâne un simbol al tradiției și eficienței, continuând să producă zahăr de calitate superioară pentru piața internă sudaneză. Economie K8 — Pionieratul industrial și impactul social.",
+      "factsAdvanced": [
+        "Prima fabrică de zahăr construită în Sudan (1962).",
+        "Funcționează pe baza unui sistem de cooperare cu fermierii locali.",
+        "Utilizează apele Nilului Albastru pentru irigații prin pompare.",
+        "A pus bazele expertizei tehnice sudaneze în prelucrarea zahărului.",
+        "Situată strategic la nord de Wad Madani.",
+        "Un motor economic istoric pentru statul Gezira.",
+        "Produce o varietate de tipuri de zahăr pentru consum.",
+        "Rămâne competitivă prin adaptarea la noile metode de management."
+      ]
+    },
+    {
+      "id": "new-halfa-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr New Halfa reprezintă componenta industrială a proiectului de relocare a populației nubiene din estul Sudanului. Situată în statul Kassala, fabrica procesează trestia de zahăr cultivată în cadrul Proiectului Agricol New Halfa, folosind apele barajului Khashm el-Girba. Această facilitate este crucială pentru economia regională, oferind o sursă de venit stabilă și impulsionând dezvoltarea infrastructurii în estul țării. New Halfa este un exemplu de transformare a unei zone semideșertice într-un centru agro-industrial productiv, contribuind la diversificarea economiei sudaneze departe de valea principală a Nilului. Geografie K8 — Dezvoltare regională și proiecte de irigații.",
+      "factsAdvanced": [
+        "Nod industrial central în regiunea de est a Sudanului.",
+        "Alimentată de resursele de apă ale râului sezonier Atbara.",
+        "Creată pentru a asigura viitorul economic al nubienilor strămutați.",
+        "Dispune de facilități masive de depozitare a zahărului.",
+        "Unul dintre cei mai mari angajatori din statul Kassala.",
+        "Produce resturi vegetale utilizate ca biomasă.",
+        "Infrastructura fabricii include o rețea feroviară proprie pentru trestie.",
+        "Pilon al securității alimentare în zona de est."
+      ]
+    },
+    {
+      "id": "sennar-sugar-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr Sennar este o unitate de producție strategică situată în apropierea vechii capitale a sultanatului Funj, valorificând tradiția agricolă a regiunii Nilului Albastru. Fabrica beneficiază de solurile fertile și de accesul facil la apa Nilului, fiind specializată în producția de zahăr alb pentru consumul casnic și industrial. Ca parte a rețelei de fabrici de stat, Sennar joacă un rol cheie în politica guvernamentală de stabilizare a prețurilor la produsele de bază. Unitatea este, de asemenea, un centru de formare pentru forța de muncă locală, contribuind la creșterea competențelor tehnice în centrul Sudanului. Economie K8 — Sectorul zahărului și stabilitatea economică.",
+      "factsAdvanced": [
+        "Situată în statul Sennar, o regiune cu istorie agricolă bogată.",
+        "Utilizează barajul Sennar pentru gestionarea irigațiilor pe plantații.",
+        "Include laboratoare moderne pentru controlul calității zahărului.",
+        "Procesează mii de tone de trestie de zahăr zilnic în timpul campaniei.",
+        "Un element central al infrastructurii agro-industriale de stat.",
+        "Contribuie la dezvoltarea infrastructurii rurale din jur.",
+        "Produce melasă, un produs secundar important pentru export.",
+        "Angajament față de creșterea productivității prin cercetare agricolă."
+      ]
+    },
+    {
+      "id": "al-jaili-oil-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria Al-Jaili, situată la nord de Khartoum, este cea mai modernă și mai mare facilitate petrochimică din Sudan. Acest complex masiv este rezultatul unei cooperări internaționale de succes, fiind inima care pompează combustibil pentru întreaga economie a țării. Al-Jaili procesează diferite tipuri de țiței sudanez, producând de la benzină și motorină până la gaze lichefiate și bitum pentru construcția de drumuri. Rafinăria este un simbol al avansului tehnologic al Sudanului, fiind echipată cu sisteme de control computerizate și măsuri stricte de protecție a mediului, asigurând majoritatea necesarului energetic național. Economie K8 — Industria petrolieră și autosuficiența energetică.",
+      "factsAdvanced": [
+        "Cea mai mare rafinărie din Sudan și una dintre cele mai moderne din Africa.",
+        "Situată strategic la 70 km nord de capitala Khartoum.",
+        "Capacitate de rafinare de peste 100.000 de barili pe zi.",
+        "Produce majoritatea gazului lichefiat (GPL) utilizat în gospodării.",
+        "Conectată prin conducte magistrale la câmpurile petroliere din sud.",
+        "Găzduiește un centru de control centralizat pentru rețeaua de petrol.",
+        "Unitatea a transformat Sudanul dintr-un importator într-un producător de carburant.",
+        "Dispune de zone de siguranță și facilități de tratare a apei la standarde înalte."
+      ]
+    },
+    {
+      "id": "el-obeid-oil-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria de Petrol El-Obeid este o unitate energetică strategică situată în Kordofan de Nord, având rolul de a furniza combustibil pentru centrul și vestul Sudanului. Această rafinărie procesează țițeiul extras din bazinul Muglad, transformându-l în benzină și păcură esențiale pentru centralele electrice și pentru transportul regional. Existența sa reduce considerabil dependența acestor regiuni îndepărtate de transportul costisitor de la rafinăriile din nord sau de la mare. El-Obeid funcționează ca un nod logistic vital, susținând industria și agricultura într-o zonă geografică vastă și provocatoare. Economie K8 — Distribuția energiei în regiunile de interior.",
+      "factsAdvanced": [
+        "O componentă cheie a securității energetice în vestul Sudanului.",
+        "Situată strategic în orașul El-Obeid, un nod major de transport.",
+        "Procesează țițeiul pentru a produce combustibili grei și ușori.",
+        "Nod important pentru încărcarea cisternelor de transport rutier și feroviar.",
+        "Contribuie la reducerea prețurilor la energie în statul Kordofan.",
+        "Dispune de unități de stocare de mari dimensiuni pentru rezervele regionale.",
+        "Include facilități pentru procesarea bitumului necesar infrastructurii.",
+        "Un angajator strategic pentru forța de muncă tehnică locală."
+      ]
+    },
+    {
+      "id": "port-sudan-oil-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria de Petrol Port Sudan este poarta energetică de la Marea Roșie, fiind cea mai veche rafinărie a țării. Deși tehnologia sa a fost completată de noile facilități din interior, rafinăria rămâne un punct critic pentru gestionarea importurilor și exporturilor de produse petroliere. Poziția sa în cel mai mare port al Sudanului îi permite să proceseze rapid țițeiul sosit pe mare și să asigure combustibil pentru navele internaționale și pentru industria locală din statul Marea Roșie. Rafinăria este un simbol al începuturilor industriei petroliere sudaneze și continuă să joace un rol major în logistica energetică de coastă. Economie K8 — Infrastructura energetică maritimă.",
+      "factsAdvanced": [
+        "Prima rafinărie construită în Sudan (1964).",
+        "Situată strategic în zona portuară a orașului Port Sudan.",
+        "Punct cheie pentru alimentarea navelor comerciale internaționale (bunkering).",
+        "Gestionează fluxurile de produse petroliere importate.",
+        "Include unități de depozitare conectate direct la danele maritime.",
+        "Un obiectiv strategic pentru economia de pe coasta Mării Roșii.",
+        "A servit drept model pentru dezvoltarea ulterioară a sectorului.",
+        "Pilon al stabilității aprovizionării cu combustibil în estul Sudanului."
+      ]
+    },
+    {
+      "id": "atbara-cement-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Ciment Atbara este unul dintre cei mai mari producători de materiale de construcții din Sudan, situată în statul Râul Nil, o regiune bogată în calcar de înaltă calitate. Fabrica utilizează tehnologii moderne de procesare pe cale uscată pentru a produce ciment necesar proiectelor masive de infrastructură, baraje și construcții civile din întreaga țară. Atbara Cement joacă un rol fundamental în dezvoltarea urbană a Sudanului, asigurând o aprovizionare stabilă și reducând nevoia de importuri costisitoare. Fabrica este, de asemenea, un model de eficiență energetică și industrială, contribuind semnificativ la prosperitatea orașului Atbara. Economie K8 — Producția de materiale de construcții.",
+      "factsAdvanced": [
+        "Unul dintre liderii pieței de ciment din Sudan.",
+        "Utilizează depozitele locale masive de calcar din statul Râul Nil.",
+        "Dotată cu linii de producție automatizate de înaltă capacitate.",
+        "Situată în orașul Atbara, inima industrială a nordului.",
+        "Cimentul produs aici este utilizat la construcția marilor baraje pe Nil.",
+        "Fabrica respectă standarde internaționale de calitate (ISO).",
+        "Contribuie major la PIB-ul industrial al regiunii.",
+        "Nod logistic important legat de rețeaua feroviară națională."
+      ]
+    },
+    {
+      "id": "rabak-nile-cement-economic-v2",
+      "descriptionAdvanced": "Fabrica de Ciment Nile din Rabak este o unitate industrială istorică situată pe malul Nilului Alb, fiind pionierul producției de ciment în Sudan. Fabrica a fost înființată pentru a valorifica resursele naturale ale regiunii și pentru a susține marile proiecte de construcții de-a lungul văii Nilului. De-a lungul deceniilor, unitatea din Rabak a fost modernizată constant, rămânând un furnizor critic pentru proiectele hidroelectrice și de irigații. Poziția sa strategică lângă calea ferată și râu facilitează distribuția eficientă a cimentului către regiunile din sud și vest, făcând din Rabak un centru industrial esențial pentru dezvoltarea Sudanului. Economie K8 — Istoria construcțiilor și industria cimentului.",
+      "factsAdvanced": [
+        "Cea mai veche fabrică de ciment din Sudan, fondată în anii 1950.",
+        "Situată strategic în orașul Rabak, capitala statului Nilul Alb.",
+        "A furnizat cimentul pentru construcția barajului Roseires.",
+        "Utilizează calcarul extras din carierele din apropiere.",
+        "Nod important pentru distribuția materialelor de construcții spre sud.",
+        "Include unități proprii de generare a energiei pentru producție.",
+        "Un simbol al rezistenței și continuității industriale sudaneze.",
+        "Angajator major care susține economia locală a statului Nilul Alb."
+      ]
+    },
+    {
+      "id": "berber-cement-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Ciment Berber este una dintre cele mai noi și mai moderne investiții în sectorul construcțiilor din Sudan, situată într-o zonă cu resurse minerale excepționale. Această unitate industrială folosește tehnologii de ultimă oră pentru a produce ciment la standarde globale, vizând atât piața internă, cât și exportul către țările vecine. Berber Cement a transformat peisajul economic al nordului Sudanului, creând mii de locuri de muncă și stimulând dezvoltarea serviciilor logistice. Fabrica este un exemplu de eficiență, utilizând procese care minimizează impactul asupra mediului, în timp ce produce materiale esențiale pentru modernizarea infrastructurii naționale. Economie K8 — Tehnologie modernă în industria extractivă.",
+      "factsAdvanced": [
+        "Una dintre cele mai mari fabrici de ciment din Africa de Nord-Est.",
+        "Dispune de cea mai modernă linie de producție din Sudan.",
+        "Situată în regiunea Berber, statul Râul Nil.",
+        "Produce ciment specializat pentru fundații subacvatice.",
+        "Nod logistic major cu acces la calea ferată și autostradă.",
+        "Investiție care a atras capital străin semnificativ în regiune.",
+        "Capacitate de producție de peste un milion de tone pe an.",
+        "Include sisteme avansate de filtrare a emisiilor."
+      ]
+    },
+    {
+      "id": "al-takamul-cement-economic-v2",
+      "descriptionAdvanced": "Fabrica de Ciment Al-Takamul reprezintă un parteneriat industrial de succes situat în inima statului Râul Nil, fiind un pilon al industriei materialelor de construcții. Unitatea a fost concepută pentru a răspunde cererii explozive de ciment cauzată de boom-ul imobiliar și de proiectele guvernamentale de infrastructură. Al-Takamul se distinge prin calitatea superioară a produselor sale și prin eficiența proceselor de extracție a calcarului. Fabrica contribuie activ la economia regională prin programe de responsabilitate socială și prin formarea tinerilor specialiști, fiind un motor de creștere pentru comunitățile din jurul orașului Atbara. Economie K8 — Dezvoltarea infrastructurii și industria locală.",
+      "factsAdvanced": [
+        "Rezultat al cooperării economice regionale succesive.",
+        "Situată strategic în 'centura de calcar' a Sudanului.",
+        "Furnizor major pentru proiectele rezidențiale din Khartoum.",
+        "Utilizează tehnologii de ardere cu consum redus de energie.",
+        "O componentă vitală a lanțului de aprovizionare în construcții.",
+        "Angajament puternic față de standardele de siguranță la locul de muncă.",
+        "Include terminale moderne de încărcare în vrac.",
+        "Un angajator cheie pentru regiunea Atbara-Berber."
+      ]
+    },
+    {
+      "id": "giad-industrial-city-economic-v2",
+      "descriptionAdvanced": "Orașul Industrial Giad este cel mai mare și mai ambițios complex manufacturier din Sudan, situat la sud de Khartoum. Acest uriaș 'oraș în oraș' este inima producției de vehicule, utilaje agricole și echipamente de infrastructură ale țării. Giad asamblează autoturisme, camioane, tractoare și autobuze sub diferite licențe internaționale, contribuind masiv la modernizarea parcului auto și a sectorului agricol din Sudan. Complexul include, de asemenea, facilități pentru prelucrarea metalelor și fabricarea componentelor mecanice, fiind un hub tehnologic care promovează inovația și formarea profesională a inginerilor sudanezi. Economie K8 — Industrializarea și producția de mașini.",
+      "factsAdvanced": [
+        "Cel mai mare centru de asamblare a vehiculelor din Sudan.",
+        "Inima producției de tractoare și utilaje agricole moderne.",
+        "Complex industrial integrat cu peste 20 de fabrici specializate.",
+        "Situat strategic pe drumul principal care leagă capitala de regiunea Gezira.",
+        "Pilon al strategiei naționale de substituire a importurilor.",
+        "Produce de la cabluri electrice până la mobilier industrial.",
+        "Un motor major de creștere economică și inovare tehnologică.",
+        "Dispune de facilități proprii de testare și control al calității."
+      ]
+    },
+    {
+      "id": "hassai-gold-mine-economic-v2",
+      "descriptionAdvanced": "Mina de Aur Hassai este cea mai veche și mai importantă operațiune minieră de aur pe scară largă din Sudan, situată în Munții Mării Roșii. Operată printr-un parteneriat internațional, mina utilizează metode moderne de extracție la suprafață pentru a recupera aur din depozitele de sulfură și oxid. Hassai a fost coloana vertebrală a producției de aur a Sudanului timp de decenii, contribuind semnificativ la rezervele valutare ale țării. Dincolo de extracție, mina a stimulat dezvoltarea infrastructurii în deșertul estic, inclusiv construirea de drumuri și facilități de aprovizionare cu apă, fiind un punct focal pentru industria extractivă modernă. Economie K8 — Resurse minerale și exportul de aur.",
+      "factsAdvanced": [
+        "Prima mină de aur modernă deschisă în Sudan (1992).",
+        "Situată în statul Marea Roșie, în deșertul de est.",
+        "Produce aur de înaltă puritate pentru piețele internaționale.",
+        "Utilizează tehnologii avansate de lixiviere în grămadă.",
+        "Un model pentru parteneriatele minierie public-private.",
+        "Contribuie major la veniturile statului din resurse minerale.",
+        "Include facilități complete pentru personalul minier în deșert.",
+        "A deschis calea pentru explorări geologice la scară largă."
+      ]
+    },
+    {
+      "id": "jebel-amir-gold-mines-economic-v2",
+      "descriptionAdvanced": "Minele de Aur Jebel Amir reprezintă unul dintre cele mai bogate și dinamice districte miniere artizanale din Africa, situat în Darfurul de Nord. Această zonă a cunoscut o 'febră a aurului' masivă, atrăgând mii de mineri din întreg Sudanul și din țările vecine. Jebel Amir este faimos pentru depozitele sale de aur aluvionar și de suprafață, care au fost exploatate în mare parte prin metode tradiționale, dar care produc volume imense de metal prețios. Importanța economică a regiunii este vitală pentru comunitățile locale, deși reprezintă o provocare pentru reglementarea statală și managementul resurselor în condiții de stabilitate regională. Economie K8 — Minerit artizanal și impact economic regional.",
+      "factsAdvanced": [
+        "Cea mai bogată regiune pentru minerit de aur artizanal din Sudan.",
+        "Situată în statul Darfur de Nord.",
+        "Atrage o forță de muncă masivă din întreaga regiune Sahel.",
+        "Aurul de aici contribuie semnificativ la piața neoficială și oficială.",
+        "Un motor economic crucial pentru vestul Sudanului.",
+        "Zona a cunoscut o urbanizare rapidă datorită aurului.",
+        "Punct focal pentru comerțul cu echipamente de prospectare.",
+        "Reprezintă o sursă de venit esențială pentru zeci de mii de familii."
+      ]
+    },
+    {
+      "id": "block-6-balila-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul Petrolier Balila, situat în Block 6 din statul Kordofan de Vest, este un punct critic pentru producția de hidrocarburi a Sudanului. Acest câmp este renumit pentru țițeiul său de tip 'Fula', care este procesat în principal pentru consumul intern la rafinăriile din El-Obeid și Khartoum. Infrastructura de la Balila include facilități moderne de separare a gazului de petrol și stații de pompare care alimentează rețeaua națională de conducte. Dezvoltarea acestui bloc petrolier a adus investiții masive în infrastructură în regiunea Kordofan, transformând economia locală și oferind Sudanului o sursă stabilă de energie pentru transport și industrie. Economie K8 — Extracția petrolului și infrastructura energetică.",
+      "factsAdvanced": [
+        "Unul dintre cele mai productive câmpuri petroliere din Sudan.",
+        "Situat în bazinul Muglad, statul Kordofan de Vest.",
+        "Sursă principală de țiței pentru rafinăriile interne.",
+        "Include stații de procesare a gazului natural asociat.",
+        "Operat printr-un joint-venture internațional major.",
+        "Pilon al securității energetice naționale a Sudanului.",
+        "A generat proiecte de dezvoltare locală în comunitățile vecine.",
+        "Nod vital în rețeaua de conducte care traversează țara."
+      ]
+    },
+    {
+      "id": "galat-sufar-south-gold-economic-v2",
+      "descriptionAdvanced": "Galat Sufar South este un proiect minier de aur modern situat în Munții Mării Roșii, reprezentând noua generație de investiții în sectorul extractiv sudanez. Mina utilizează metode de explorare geofizică avansate pentru a identifica depozite de aur de mare adâncime, vizând o producție industrială sustenabilă și pe termen lung. Acest proiect este esențial pentru strategia Sudanului de a formaliza sectorul aurului și de a maximiza beneficiile pentru stat prin parteneriate cu companii internaționale cu experiență. Galat Sufar South contribuie la diversificarea industriei miniere, trecând de la exploatarea de suprafață la minerit subteran complex. Economie K8 — Tehnologii miniere avansate și aurul.",
+      "factsAdvanced": [
+        "Unul dintre cele mai promițătoare noi proiecte de aur din est.",
+        "Situat în regiunea auriferă istorică a Munților Mării Roșii.",
+        "Utilizează standarde internaționale de raportare a rezervelor (JORC).",
+        "Investiție majoră orientată spre exportul de aur rafinat.",
+        "Include o stație de procesare proprie de înaltă eficiență.",
+        "Centru pentru formarea geologilor sudanezi în tehnici moderne.",
+        "Contribuie la stabilitatea economică a statului Marea Roșie.",
+        "Parte a planului național de triplare a producției de aur."
+      ]
+    },
+    {
+      "id": "khartoum-north-industrial-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Khartoum Nord (Bahri) este cel mai mare și mai diversificat district manufacturier din Sudan. Situată pe malul vestic al Nilului Albastru, această zonă găzduiește o concentrație imensă de fabrici care produc de la alimente și băuturi la textile, produse chimice și materiale de construcții. Bahri este motorul economic al capitalei, fiind locul unde marii giganți industriali ai Sudanului și-au stabilit sediile. Infrastructura zonei, legată de calea ferată și de portul fluvial, permite o distribuție eficientă a bunurilor în întreaga țară, fiind esențială pentru viața de zi cu zi a milioanelor de sudanezi. Economie K8 — Inima industrială a capitalei triple.",
+      "factsAdvanced": [
+        "Cea mai mare concentrare de unități de producție din Sudan.",
+        "Nod major pentru industria uleiurilor vegetale și a săpunului.",
+        "Găzduiește fabrici farmaceutice vitale pentru sănătatea națională.",
+        "Situată strategic lângă portul feroviar Khartoum Nord.",
+        "Include unități de producție a vopselelor și materialelor plastice.",
+        "Un angajator masiv care atrage forță de muncă din tot Sudanul.",
+        "Pilon central al veniturilor fiscale din sectorul industrial.",
+        "Zona este în continuă expansiune și modernizare tehnologică."
+      ]
+    },
+    {
+      "id": "al-bageer-industrial-area-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Al-Bageer este cel mai modern hub de producție farmaceutică și alimentară din Sudan, situat la sud de Khartoum, de-a lungul autostrăzii spre Wad Madani. Această zonă a fost planificată special pentru a oferi un mediu curat și infrastructură de înaltă calitate pentru industriile sensibile, atrăgând numeroase investiții străine. Al-Bageer găzduiește cele mai avansate fabrici de medicamente din Africa de Est, contribuind la reducerea importurilor de produse farmaceutice. De asemenea, zona este un centru important pentru ambalarea alimentelor și producția de băuturi, beneficiind de spații largi pentru depozitare și de o logistică rutieră superioară. Economie K8 — Industria farmaceutică și zonele industriale planificate.",
+      "factsAdvanced": [
+        "Principalul pol al industriei farmaceutice din Sudan.",
+        "Situată la granița dintre statele Khartoum și Gezira.",
+        "Gazdă pentru fabrici moderne care respectă standardele GMP.",
+        "Centru major pentru industria de ambalare a sucurilor și lactatelor.",
+        "District industrial model cu infrastructură de transport excelentă.",
+        "Atrage majoritatea investițiilor străine directe în manufactură.",
+        "Contribuie la stabilitatea pieței interne de medicamente.",
+        "Zonă industrială ecologică cu sisteme de tratare a deșeurilor."
+      ]
+    },
+    {
+      "id": "wad-medani-textile-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de Textile Wad Madani este o unitate industrială istorică situată în inima statului Gezira, regiunea principală de cultivare a bumbacului din Sudan. Fabrica a fost concepută pentru a integra producția agricolă cu cea industrială, transformând bumbacul local în fire și țesături pentru piața internă și export. Wad Madani Textile a jucat un rol crucial în dezvoltarea economică a Sudanului central, oferind locuri de muncă pentru mii de oameni și sprijinind indirect fermierii din Proiectul Gezira. Deși industria textilă a trecut prin perioade dificile, fabrica rămâne un simbol al potențialului agro-industrial sudanez și al valorii adăugate resurselor naționale. Economie K8 — Integrarea bumbacului și industria textilă.",
+      "factsAdvanced": [
+        "Una dintre fabricile textile de referință din valea Nilului.",
+        "Situată în Wad Madani, capitala regiunii agricole a Sudanului.",
+        "Procesează bumbacul de înaltă calitate din regiunea Gezira.",
+        "Un pilon al industrializării timpurii a Sudanului după independență.",
+        "Nod important pentru formarea specialiștilor în tehnologie textilă.",
+        "Contribuie la economia locală prin lanțuri de aprovizionare extinse.",
+        "A fost un centru major pentru exportul de fire în anii '70 și '80.",
+        "Reprezintă mândria industrială a statului Gezira."
+      ]
+    },
+    {
+      "id": "gedarif-sesame-processing-economic-v2",
+      "descriptionAdvanced": "Centrul de Procesare a Susanului din Gedarif este inima economică a estului Sudanului, regiune care deține cea mai mare piață de susan din lume. Această zonă industrială este specializată în curățarea, sortarea și ambalarea susanului pentru exporturile globale, unde Sudanul este un lider recunoscut. Facilitățile din Gedarif utilizează tehnologii moderne de sortare optică pentru a asigura puritatea cerută de piețele internaționale din Asia și Europa. Această activitate industrială aduce valoare adăugată imensă agriculturii mecanizate din statul Gedarif, fiind esențială pentru veniturile în valută ale Sudanului și pentru securitatea economică a estului țării. Economie K8 — Exportul de semințe oleaginoase și procesarea agricolă.",
+      "factsAdvanced": [
+        "Găzduiește cea mai mare piață și centru de procesare a susanului din lume.",
+        "Situat în statul Gedarif, 'grânarul Sudanului'.",
+        "Echipat cu sisteme moderne de curățare și sortare laser.",
+        "Susanul de aici este exportat în peste 50 de țări.",
+        "Nod logistic vital legat de porturile de la Marea Roșie.",
+        "Piața de aici stabilește prețurile de referință pentru susanul global.",
+        "Contribuie major la economia non-petrolieră a Sudanului.",
+        "Include facilități masive de depozitare în silozuri."
+      ]
+    },
+    {
+      "id": "khor-omar-industrial-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Khor Omar este un district emergent în regiunea metropolitană Khartoum, specializat în industria grea și materialele de construcții. Această zonă a fost dezvoltată pentru a găzdui unități de producție care necesită spațiu vast și acces facil la rutele de transport spre vestul Sudanului. Khor Omar este un centru important pentru fabricarea cimentului, prelucrarea oțelului și industria lemnului, susținând boom-ul imobiliar al capitalei. Dinamicul district industrial este un exemplu de expansiune urbană economică, oferind terenul necesar pentru noile fabrici care alimentează dezvoltarea infrastructurii naționale. Economie K8 — Industria grea și expansiunea urbană.",
+      "factsAdvanced": [
+        "Un district industrial în creștere rapidă la periferia capitalei.",
+        "Centru major pentru industria de prelucrare a oțelului și a fierului.",
+        "Situat strategic pentru aprovizionarea regiunilor Darfur și Kordofan.",
+        "Găzduiește unități mari de fabricare a elementelor din beton prefabricat.",
+        "Un pol de atracție pentru investițiile în materiale de construcții.",
+        "Include depozite logistice de mari dimensiuni.",
+        "Nod esențial pentru transportul de marfă pe distanțe lungi.",
+        "Contribuie la decongestionarea zonelor industriale centrale din Khartoum."
+      ]
+    }
+  ]
+}

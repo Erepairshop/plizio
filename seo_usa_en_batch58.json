@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chisos-mountains-relief-v2",
+      "descriptionAdvanced": "The Chisos Mountains in West Texas are a unique, sky-island volcanic range completely surrounded by the vast, scorching Chihuahuan Desert. Formed by massive volcanic activity roughly 35 million years ago, the range rises dramatically above the desert floor to reach elevations over 7,800 feet. This extreme elevation and topographical isolation create a cool, high-altitude sanctuary—a temperate 'island'—that hosts a remarkable diversity of plant and animal species found nowhere else in the surrounding desert. Today, the Chisos Mountains are a critical site for studying how isolated high-mountain biomes act as climate refugia for species that would otherwise be unable to survive in the arid lowlands, making them an essential subject for ongoing research on biodiversity preservation in a warming, increasingly dry desert climate. Geografie K7 — Sky-island biomes and volcanic geology.",
+      "factsAdvanced": [
+        "A dramatic, volcanic-origin 'sky island' rising over 7,800 feet.",
+        "Completely surrounded by the vast and arid Chihuahuan Desert.",
+        "Formed roughly 35 million years ago through significant volcanic activity.",
+        "Acts as a cool, high-altitude temperate sanctuary within an arid landscape.",
+        "Critical site for research on mountain biomes acting as climate refugia.",
+        "Represents an essential island of biodiversity within the larger Chihuahuan ecosystem."
+      ]
+    },
+    {
+      "id": "wasatch-range-relief-v2",
+      "descriptionAdvanced": "The Wasatch Range in Utah is a dramatic, fault-bounded mountain chain that serves as the essential eastern wall of the Great Basin. Formed by the active Wasatch Fault, which pushes the mountains upward and drops the valley floors, the range is a prime example of rapid, active crustal extension and ongoing geological transformation. These steep, rugged peaks act as a primary 'water tower' for the rapidly growing Wasatch Front urban corridor, capturing critical Pacific moisture as snowpack. As a center for high-altitude research on mountain hydrology and seismic activity, the range is a key site for understanding the risks of catastrophic earthquakes and the long-term viability of high-alpine water supply in a dry, desert-adjacent environment. Geografie K8 — Active faulting and urban-water hydrology.",
+      "factsAdvanced": [
+        "A dramatic, fault-bounded mountain chain acting as the eastern Great Basin wall.",
+        "Formed by the highly active Wasatch Fault system in the American West.",
+        "Serves as the critical 'water tower' for the rapidly growing Wasatch Front urban corridor.",
+        "Acts as a major, high-elevation catchment for essential regional snowpack.",
+        "Premier site for studying active seismic hazard risks near high-density populations.",
+        "Provides a vital natural laboratory for alpine hydrology research in dry regions."
+      ]
+    },
+    {
+      "id": "bighorn-mountains-relief-v2",
+      "descriptionAdvanced": "The Bighorn Mountains in Wyoming are an isolated, high-altitude range that forms a structural dome uplift, geologically separating the Powder River Basin to the east from the Bighorn Basin to the west. With peaks reaching over 13,000 feet, the range serves as a critical, high-elevation alpine island amidst the dry, sweeping plains of the American interior. The Bighorns are characterized by deep, glaciated canyons, exposed ancient sedimentary rock, and fragile alpine tundra biomes. Because of their isolation and extreme elevation, they remain a vital laboratory for studying high-altitude species migration, the impact of high-elevation warming on fragile alpine ecosystems, and the long-term hydrological health of mid-continent river systems that rely on their seasonal mountain snowmelt. Geografie K7 — High-altitude island biomes and drainage-divide hydrology.",
+      "factsAdvanced": [
+        "Isolated mountain range forming a structural dome uplift in Wyoming.",
+        "Geologically separates the Powder River and Bighorn basins.",
+        "Features high peaks exceeding 13,000 feet and deep, glaciated canyon landscapes.",
+        "Acts as a vital high-elevation alpine island amidst dry inland plains.",
+        "Critical study area for alpine species migration and ecosystem adaptation.",
+        "Key source of seasonal mountain snowmelt for major mid-continent river systems."
+      ]
+    }
+  ]
+}

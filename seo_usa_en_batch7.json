@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-of-south-louisiana-economic-v2",
+      "descriptionAdvanced": "The Port of South Louisiana is a massive port complex stretching 54 miles along the Mississippi River between New Orleans and Baton Rouge. By total cargo tonnage, it consistently ranks as the largest volume shipping port in the Western Hemisphere. The port's immense scale is driven almost entirely by the handling of bulk commodities, primarily massive agricultural exports from the American Midwest arriving via the river system, and the import and export of petroleum and petrochemical products. It serves as the critical maritime gateway for a vast inland waterway network, connecting over 30 states to international markets. The port's infrastructure is incredibly specialized for rapid, high-volume transfer between river barges and ocean-going vessels. Geography K8 — global supply chains and bulk commodity transport.",
+      "factsAdvanced": [
+        "The Port of South Louisiana handles over 250 million short tons of cargo annually.",
+        "It is the largest tonnage port district in the Western Hemisphere.",
+        "The port accounts for a massive percentage of all US grain exports, shipped down the Mississippi River.",
+        "The complex features numerous massive grain elevators and specialized bulk-handling facilities.",
+        "Over 4,000 ocean-going vessels and 55,000 river barges utilize the port's facilities each year.",
+        "The port's massive operations are heavily supported by the dense concentration of nearby petrochemical refineries."
+      ]
+    },
+    {
+      "id": "port-of-long-beach-economic-v2",
+      "descriptionAdvanced": "The Port of Long Beach, located in Southern California adjacent to the Port of Los Angeles, is one of the premier seaports in the United States and a massive engine for trans-Pacific trade. Covering over 3,200 acres of land and water, it specializes heavily in containerized cargo, handling millions of TEUs (twenty-foot equivalent units) annually, primarily goods moving between the US and East Asia. The port is a pioneer in environmental sustainability within the shipping industry, famously implementing the 'Green Port Policy' to drastically reduce air emissions and improve water quality in the heavily populated Los Angeles basin. It features some of the deepest dredged channels and largest, most highly automated container terminals in North America. Geography K8 — containerization and trans-Pacific trade.",
+      "factsAdvanced": [
+        "The Port of Long Beach handles trade valued at over $200 billion annually.",
+        "It operates the Middle Harbor Terminal, one of the most technologically advanced and greenest container terminals in the world.",
+        "The port was founded in 1911 on 800 acres of mudflats at the mouth of the Los Angeles River.",
+        "It is the second-busiest container port in the United States, surpassed only by the adjacent Port of Los Angeles.",
+        "The port's 'Green Port Policy', adopted in 2005, significantly reduced diesel emissions from ships and trucks.",
+        "The massive Gerald Desmond Bridge replacement project was undertaken specifically to allow taller cargo ships to enter the inner harbor."
+      ]
+    },
+    {
+      "id": "port-of-new-york-and-new-jersey-economic-v2",
+      "descriptionAdvanced": "The Port of New York and New Jersey is the largest and busiest port complex on the East Coast of the United States, operating as the massive maritime gateway for the densely populated Northeast. Managed by a bi-state agency, the port encompasses numerous diverse facilities spread across New York Harbor, including massive container terminals primarily located in Newark and Elizabeth, New Jersey. It handles a staggering variety of cargo, from consumer goods arriving in containers to bulk petroleum and specialized roll-on/roll-off vehicle imports. The port's historical development profoundly shaped the economic and demographic landscape of the surrounding region, and recent massive infrastructure projects, such as raising the Bayonne Bridge, have ensured its capacity to handle modern 'Post-Panamax' mega-ships. Geography K8 — East Coast logistics and mega-ship infrastructure.",
+      "factsAdvanced": [
+        "It is the third-busiest container port in the United States, handling over 7 million TEUs annually.",
+        "The Port Newark-Elizabeth Marine Terminal was the site of the world's first specialized container port in 1958.",
+        "The port complex is managed by the Port Authority of New York and New Jersey, established in 1921.",
+        "The Bayonne Bridge's roadway was massively elevated by 64 feet to allow larger container ships to reach the terminals.",
+        "The port supports hundreds of thousands of jobs across the logistics, warehousing, and transportation sectors in the region.",
+        "It functions as the primary point of entry for the massive consumer market of the New York metropolitan area."
+      ]
+    },
+    {
+      "id": "port-of-savannah-economic-v2",
+      "descriptionAdvanced": "The Port of Savannah, located in Georgia along the Savannah River, is a massive, rapidly expanding economic engine for the southeastern United States. Its primary facility, the Garden City Terminal, is uniquely distinguished as the largest single-terminal container facility of its kind in North America. This massive, unbroken footprint allows for incredible efficiency in staging and loading cargo. Savannah has aggressively positioned itself as a premier distribution hub, fueled by the massive expansion of warehousing and logistics centers in the immediately surrounding counties. The port's massive growth was significantly accelerated by the deepening of the Savannah River channel, enabling it to accommodate the massive 'New Panamax' ships passing through the expanded Panama Canal. Geography K8 — port efficiency and distribution hubs.",
+      "factsAdvanced": [
+        "The Garden City Terminal encompasses over 1,300 acres of continuous, paved terminal space.",
+        "The Port of Savannah is the fourth-busiest container port in the United States.",
+        "The Savannah Harbor Expansion Project (SHEP) massively deepened the river channel to 47 feet.",
+        "The port handles over 10 percent of all containerized exports from the United States.",
+        "It is a major national hub for the export of agricultural products, particularly poultry and forest products.",
+        "The port's massive 'Mega Rail' facility drastically increases its capacity to build full-unit trains on terminal."
+      ]
+    },
+    {
+      "id": "port-of-seattle-economic-v2",
+      "descriptionAdvanced": "The Port of Seattle, located on the deep waters of Puget Sound in Washington state, is a major Pacific Northwest maritime hub heavily oriented toward trade with Asia and operations in Alaska. Jointly managed with the nearby Port of Tacoma under the Northwest Seaport Alliance, the combined facilities form one of the largest container gateways in North America. Beyond massive container shipping, the Port of Seattle operates heavily in the cruise industry, serving as the primary departure point for massive cruise ships bound for Alaskan itineraries. Furthermore, the port manages the massive North Pacific fishing fleet, providing critical moorage and supply facilities for vessels operating in the Bering Sea. Geography K7 — Pacific Rim trade and maritime management.",
+      "factsAdvanced": [
+        "The Port of Seattle handles roughly one million cruise ship passengers annually, primarily bound for Alaska.",
+        "The port is a massive base for the North Pacific fishing fleet, supporting a multi-billion dollar commercial fishing industry.",
+        "Seattle's harbor naturally possesses massive depth, reducing the constant need for extensive dredging compared to river ports.",
+        "The port was created in 1911 by a public vote to ensure public control over the waterfront infrastructure.",
+        "The Northwest Seaport Alliance is the fourth-largest container shipping gateway in North America.",
+        "The port operates massive grain terminal facilities specifically dedicated to exporting Midwestern agricultural products to Asia."
+      ]
+    },
+    {
+      "id": "port-of-oakland-economic-v2",
+      "descriptionAdvanced": "The Port of Oakland, situated on the eastern shore of San Francisco Bay, is a vital economic engine for Northern California and a critical link in the global agricultural supply chain. Historically, it was one of the very first ports in the world to aggressively adapt to containerized shipping in the 1960s, quickly eclipsing the older, less adaptable finger piers of nearby San Francisco. Today, Oakland is the primary export gateway for the massive agricultural output of California's Central Valley, shipping high-value refrigerated goods like fruits, nuts, and meats primarily to Asian markets. The port's infrastructure is heavily integrated with major national rail networks, facilitating the efficient movement of intermodal freight across the country. Geography K8 — containerization history and agricultural exports.",
+      "factsAdvanced": [
+        "The Port of Oakland handles over 99 percent of all containerized goods moving through Northern California.",
+        "It consistently ranks as one of the top ten busiest container ports in the United States.",
+        "The port is a massive exporter of agricultural products, loading hundreds of thousands of refrigerated containers annually.",
+        "Oakland was the first major port on the US Pacific Coast to build specialized terminals for container ships.",
+        "The port's maritime area covers roughly 1,300 acres adjacent to the deep-water channels of the bay.",
+        "It features massive, specialized rail facilities designed to rapidly transfer containers between ships and transcontinental trains."
+      ]
+    },
+    {
+      "id": "port-of-virginia-economic-v2",
+      "descriptionAdvanced": "The Port of Virginia is a massive, highly integrated port complex located primarily in the Hampton Roads area of southeastern Virginia, taking advantage of one of the deepest, naturally occurring ice-free harbors on the East Coast. It is unique among major US ports because it operates as a single, unified entity managed by the state, encompassing several massive marine terminals, including Norfolk International Terminals and Virginia International Gateway. The port is highly renowned for its extensive implementation of automation and robotics in container handling, making it one of the most technologically advanced and efficient ports in the Western Hemisphere. It serves as a massive conduit for trade reaching the American Midwest via robust rail connections. Geography K8 — automated logistics and natural harbors.",
+      "factsAdvanced": [
+        "The Port of Virginia operates with naturally deep 50-foot channels, capable of handling the largest ocean-going vessels.",
+        "The Virginia International Gateway terminal was the first fully automated container terminal in the Western Hemisphere.",
+        "The port complex handles a massive percentage of the East Coast's intermodal rail cargo.",
+        "It is the third-busiest container port on the East Coast of the United States.",
+        "The port's massive facilities are spread across the cities of Norfolk, Portsmouth, and Newport News.",
+        "The state-owned operation allows for unified, strategic infrastructure investments across all the region's terminals."
+      ]
+    },
+    {
+      "id": "port-of-tampa-bay-economic-v2",
+      "descriptionAdvanced": "The Port of Tampa Bay is the largest seaport in Florida by physical size and total cargo tonnage. Located on the western coast of the Florida peninsula, it historically developed around the massive export of locally mined phosphate rock, which remains a primary bulk commodity handled at its specialized terminals. Beyond phosphate, the port is highly diversified, serving as a critical gateway for the import of refined petroleum products essential for fueling Central Florida, as well as construction materials like cement and steel. Furthermore, the Port of Tampa Bay manages a rapidly expanding cruise ship industry and a significant ship repair sector, leveraging its protected, massive harbor environment. Geography K7 — bulk commodities and regional fuel logistics.",
+      "factsAdvanced": [
+        "The Port of Tampa Bay handles over 33 million tons of cargo annually, the highest volume in Florida.",
+        "The port encompasses a massive physical footprint of over 5,000 acres of land and water.",
+        "It is a major global export hub for phosphate fertilizer, utilizing massive, specialized bulk loading facilities.",
+        "The port receives nearly half of all the aviation and automotive fuel consumed in the state of Florida.",
+        "It operates significant, dedicated roll-on/roll-off (RoRo) terminals for the import of automobiles.",
+        "The port's massive ship repair facilities include several dry docks capable of servicing large commercial vessels."
+      ]
+    },
+    {
+      "id": "detroit-automotive-industry-economic-v2",
+      "descriptionAdvanced": "The Detroit automotive industry represents the massive, historical epicenter of American automobile manufacturing. Centered in southeastern Michigan, the region's dominance was established in the early 20th century through the implementation of the moving assembly line and mass production techniques pioneered by Henry Ford. This innovation created the 'Big Three' automakers—General Motors, Ford, and Chrysler—which completely dominated the global market for decades, driving immense wealth and drawing a massive workforce to the region. While the industry faced severe challenges and profound restructuring in the late 20th and early 21st centuries due to global competition and economic downturns, the region remains a massive global hub for automotive research, design, and advanced manufacturing, actively pivoting toward electric and autonomous vehicle technologies. History K8 — mass production and industrial restructuring.",
+      "factsAdvanced": [
+        "The 'Big Three' automakers are historically headquartered in the Detroit metropolitan area.",
+        "Henry Ford's introduction of the assembly line in 1913 drastically reduced the time required to build a car.",
+        "During World War II, the region's massive factories were converted to produce military vehicles, earning it the title 'Arsenal of Democracy'.",
+        "The automotive sector in Michigan still employs hundreds of thousands of workers across manufacturing and engineering.",
+        "The area hosts one of the highest concentrations of industrial engineers and designers in the world.",
+        "The North American International Auto Show, held annually in Detroit, is one of the premier automotive exhibitions globally."
+      ]
+    },
+    {
+      "id": "silicon-valley-tech-economic-v2",
+      "descriptionAdvanced": "Silicon Valley, located in the southern portion of the San Francisco Bay Area in California, is the undisputed global epicenter for high technology, venture capital, and innovation. Evolving from a base of radio and aerospace research heavily supported by Stanford University and federal defense spending during the mid-20th century, the region became defined by the massive commercialization of the silicon-based integrated circuit. Today, it hosts the corporate headquarters of many of the world's largest and most influential technology corporations, including Apple, Google, and Meta. The local economy is driven by a unique ecosystem characterized by intense entrepreneurial culture, massive concentrations of highly skilled engineering talent, and abundant venture capital funding eager to invest in disruptive startups. Geography K8 — innovation clusters and knowledge economies.",
+      "factsAdvanced": [
+        "The term 'Silicon Valley' was popularized in the 1970s, referring to the material used to manufacture semiconductors.",
+        "The region accounts for a massive one-third of all venture capital investment in the United States.",
+        "Stanford University played a profound, foundational role in establishing the region's culture of technological entrepreneurship.",
+        "Silicon Valley possesses one of the highest concentrations of millionaires and billionaires per capita globally.",
+        "The area is recognized as the birthplace of the microprocessor, the personal computer, and the modern internet.",
+        "Santa Clara County, the core of Silicon Valley, boasts a massively high median household income due to tech salaries."
+      ]
+    },
+    {
+      "id": "texan-energy-industry-economic-v2",
+      "descriptionAdvanced": "The Texan energy industry is a massive, multi-faceted economic engine that dominates the state's economy and heavily influences global energy markets. Texas is the undisputed leader in United States energy production, historically built upon colossal discoveries of oil and natural gas, beginning famously with the Spindletop gusher in 1901. This legacy continues today, particularly with massive extraction operations in the Permian Basin utilizing advanced hydraulic fracturing techniques. Beyond raw extraction, the state's Gulf Coast, especially around Houston, features an unparalleled concentration of massive petroleum refineries and petrochemical manufacturing plants. Furthermore, Texas has heavily diversified its energy portfolio, currently operating as the massive national leader in wind energy production, primarily utilizing the expansive, windy plains of West Texas. Geography K8 — energy extraction and resource diversification.",
+      "factsAdvanced": [
+        "Texas produces more crude oil and natural gas than any other state in the United States by a massive margin.",
+        "The 1901 Spindletop strike near Beaumont initiated the modern Texas petroleum industry.",
+        "The Permian Basin in West Texas is one of the most productive and massive oil-producing regions in the world.",
+        "Texas refines roughly one-third of all the petroleum processed in the United States.",
+        "The state produces more electricity from wind power than any other US state, heavily utilizing its western plains.",
+        "Houston is globally recognized as the 'Energy Capital of the World', hosting thousands of energy-related corporate headquarters."
+      ]
+    },
+    {
+      "id": "wall-street-financial-industry-economic-v2",
+      "descriptionAdvanced": "The Wall Street financial industry, geographically centered in the Financial District of Lower Manhattan in New York City, represents the most massive and influential concentration of financial power in the world. Encompassing the two largest stock exchanges globally by total market capitalization—the New York Stock Exchange (NYSE) and the Nasdaq—Wall Street dictates global equities trading. The area is home to the headquarters of colossal investment banks, commercial banks, hedge funds, and asset management firms. The industry's massive scale drives a highly specialized, intensely competitive corporate culture that attracts elite financial talent globally. While heavily scrutinized following the 2008 financial crisis, the sector remains a massive pillar of the US economy, significantly shaping national and international economic policy. Geography K8 — global financial centers and capital markets.",
+      "factsAdvanced": [
+        "The New York Stock Exchange (NYSE) is the largest stock exchange in the world by market capitalization of its listed companies.",
+        "The term 'Wall Street' originates from an actual physical wall built by Dutch settlers in the 17th century.",
+        "The financial sector accounts for a massive percentage of New York City's total economic output and tax revenue.",
+        "The Buttonwood Agreement of 1792, signed by 24 stockbrokers under a tree on Wall Street, established the NYSE.",
+        "The Federal Reserve Bank of New York, the most powerful branch of the Fed, is located in the Financial District.",
+        "The industry employs hundreds of thousands of highly compensated professionals in the New York metropolitan area."
+      ]
+    },
+    {
+      "id": "napa-valley-wine-industry-economic-v2",
+      "descriptionAdvanced": "The Napa Valley wine industry, located in Northern California just north of the San Francisco Bay Area, is globally recognized as one of the premier wine-producing regions in the world. The valley's unique geography features a highly diverse Mediterranean climate, numerous microclimates, and complex volcanic soils, providing optimal conditions for cultivating a wide variety of premium wine grapes, particularly Cabernet Sauvignon. The industry experienced a massive surge in international prestige following the 1976 'Judgment of Paris', where Napa wines famously defeated renowned French wines in a blind tasting. Today, the local economy is utterly dominated by viticulture and a massive, luxury-oriented enotourism sector, characterized by hundreds of high-end wineries and expansive, meticulously maintained vineyards. Geography K7 — viticulture and specialized agricultural tourism.",
+      "factsAdvanced": [
+        "Napa Valley contains over 400 physical wineries and produces some of the most expensive wines in the United States.",
+        "The region accounts for only 4 percent of California's total wine production, but a massive percentage of its economic value.",
+        "The 1976 'Judgment of Paris' catapulted Napa Valley onto the global stage of fine wine production.",
+        "The valley's geography includes 16 recognized American Viticultural Areas (AVAs), denoting distinct microclimates.",
+        "Napa Valley draws nearly 4 million tourists annually, generating massive revenue for local hospitality sectors.",
+        "The region's unique soils are incredibly diverse, containing half of all the soil orders found globally."
+      ]
+    },
+    {
+      "id": "hollywood-entertainment-industry-economic-v2",
+      "descriptionAdvanced": "The Hollywood entertainment industry, historically centered in a neighborhood of Los Angeles, California, is the massive, undisputed global leader in the production of motion pictures and television programming. The industry migrated to Southern California in the early 20th century to take advantage of the region's reliable sunshine and highly diverse landscapes, essential for year-round outdoor filming before the advent of massive soundstages. Hollywood is characterized by a complex ecosystem of massive production studios—such as Warner Bros., Universal, and Paramount—alongside tens of thousands of specialized independent production companies, talent agencies, and post-production facilities. The industry's massive cultural output heavily influences global popular culture and serves as a massive economic engine for the state of California. History K8 — cultural industries and media globalization.",
+      "factsAdvanced": [
+        "The first major motion picture studio in Hollywood, the Nestor Studio, was established in 1911.",
+        "The massive, iconic Hollywood Sign was originally erected in 1923 as an advertisement for a real estate development.",
+        "The industry is heavily unionized, with massive guilds representing actors, directors, writers, and technical crews.",
+        "The annual Academy Awards (Oscars), celebrating the industry's achievements, are broadcast to a massive global audience.",
+        "While 'Hollywood' is the historic center, massive production facilities are spread throughout the wider Los Angeles basin.",
+        "The entertainment industry is one of the largest private-sector employers in Southern California."
+      ]
+    },
+    {
+      "id": "chicago-logistics-industry-economic-v2",
+      "descriptionAdvanced": "The Chicago logistics industry is a massive, central pillar of the North American supply chain, leveraging the city's unparalleled geographical position. Located at the crucial intersection of the Great Lakes navigation system and the Mississippi River watershed, Chicago historically developed as the ultimate national transportation hub. Today, it operates as the massive epicenter of the American freight rail network; it is the only city where all six massive 'Class I' North American railroads converge, requiring incredibly complex switching and interchange yards. Furthermore, the region features an immense concentration of massive warehousing, distribution centers, and trucking terminals, facilitating the massive transfer of goods between rail, road, and air, anchored by the massive cargo operations at O'Hare International Airport. Geography K8 — intermodal transportation and continental rail networks.",
+      "factsAdvanced": [
+        "Chicago handles roughly one-quarter of all the freight rail traffic in the United States.",
+        "It is the only metropolitan area in North America where all six Class I railroads operate massive terminal facilities.",
+        "The region contains hundreds of millions of square feet of massive industrial warehousing and distribution space.",
+        "O'Hare International Airport is a massive global hub for air cargo, processing millions of tons annually.",
+        "The Chicago Region Environmental and Transportation Efficiency (CREATE) Program is a massive ongoing effort to untangle local rail congestion.",
+        "Historically, the completion of the Illinois and Michigan Canal in 1848 firmly established the city's logistical dominance."
+      ]
+    },
+    {
+      "id": "pittsburgh-steel-industry-economic-v2",
+      "descriptionAdvanced": "The Pittsburgh steel industry represents one of the most massive and impactful eras of heavy industrialization in American history. Located at the confluence of navigable rivers and sitting atop massive deposits of coal, the region was geographically perfectly suited for steel production. During the late 19th and early 20th centuries, industrialists like Andrew Carnegie built a colossal empire of blast furnaces and rolling mills that supplied the structural steel for America's massive expansion, from railroads to skyscrapers. The industry peaked during World War II, earning Pittsburgh the title 'Arsenal of the Free World'. However, facing intense foreign competition and technological shifts, the domestic steel industry underwent a massive, painful collapse in the 1970s and 80s, fundamentally forcing the region to radically transform its economy. History K8 — the industrial revolution and Rust Belt deindustrialization.",
+      "factsAdvanced": [
+        "By 1911, Pittsburgh was producing half of the entire nation's massive steel output.",
+        "Andrew Carnegie's massive Homestead Steel Works was the site of one of the most violent labor strikes in US history in 1892.",
+        "During World War II, Pittsburgh mills produced a massive 95 million tons of steel for the Allied war effort.",
+        "The massive collapse of the steel industry in the 1980s resulted in the loss of over 100,000 manufacturing jobs in the region.",
+        "U.S. Steel, formed in 1901 with a massive capitalization of over $1 billion, was headquartered in Pittsburgh.",
+        "The environmental impact of massive, unregulated steel production historically left Pittsburgh infamously known as the 'Smoky City'."
+      ]
+    },
+    {
+      "id": "georgia-aerospace-industry-economic-v2",
+      "descriptionAdvanced": "The Georgia aerospace industry is a massive, technologically advanced sector that serves as a primary driver of the state's economy. The industry is most prominently anchored by Lockheed Martin's massive aeronautics facility in Marietta, which has a long history of producing iconic military aircraft, including the C-130 Hercules and the F-22 Raptor. Beyond manufacturing, Georgia boasts a massive ecosystem of over 800 aerospace companies, including a significant presence of Gulfstream Aerospace in Savannah. The industry is heavily supported by the state's robust logistics network, a highly skilled workforce, and specialized research programs at institutions like the Georgia Institute of Technology (Georgia Tech), which operates one of the most prestigious and massive aerospace engineering programs in the nation. Geography K7 — advanced manufacturing and defense contracting.",
+      "factsAdvanced": [
+        "Aerospace products are consistently the state of Georgia's massive, number one international export.",
+        "The Lockheed Martin plant in Marietta is one of the largest aerospace manufacturing facilities in the United States.",
+        "Georgia Tech's massive aerospace engineering program is consistently ranked among the top programs globally.",
+        "Gulfstream Aerospace operates a massive headquarters and production facility for luxury business jets in Savannah.",
+        "The industry employs tens of thousands of highly skilled workers across manufacturing, engineering, and maintenance.",
+        "During World War II, the massive Bell Bomber plant in Marietta produced hundreds of B-29 Superfortress bombers."
+      ]
+    },
+    {
+      "id": "north-carolina-biotech-industry-economic-v2",
+      "descriptionAdvanced": "The North Carolina biotech industry is a massive, highly concentrated sector operating primarily within the Research Triangle Park (RTP) region, located between Raleigh, Durham, and Chapel Hill. Established in 1959 specifically to foster high-tech innovation, RTP is now the largest research park in the United States. The region boasts a massive concentration of life sciences companies, pharmaceutical manufacturers, and agricultural biotechnology firms. This massive industrial ecosystem is deeply intertwined with the intense research output of three major nearby universities—Duke University, UNC-Chapel Hill, and NC State. This synergy has created a massive pipeline of highly educated talent and substantial funding, propelling North Carolina to rank consistently among the top tier of states nationwide for bioscience industry employment and innovation. Geography K8 — research clusters and knowledge economies.",
+      "factsAdvanced": [
+        "The Research Triangle Park spans a massive 7,000 acres and hosts hundreds of life science and technology companies.",
+        "North Carolina possesses one of the massive, highest concentrations of biotech workers in the United States.",
+        "The industry's growth was heavily accelerated by the establishment of the North Carolina Biotechnology Center in 1984.",
+        "Massive global pharmaceutical companies like GlaxoSmithKline and Biogen maintain significant research operations in RTP.",
+        "The region is a massive national leader in the specialized field of agricultural biotechnology and crop science.",
+        "The biotech sector generates tens of billions of dollars annually in massive economic impact for the state."
+      ]
+    },
+    {
+      "id": "port-of-baltimore-economic-v2",
+      "descriptionAdvanced": "The Port of Baltimore is a major, highly specialized deep-water seaport located on the Patapsco River, serving as a critical maritime gateway in Maryland. Because of its geographic location situated further inland than any other major East Coast port, it offers a massive logistical advantage, being significantly closer to the major manufacturing and consumer markets of the American Midwest. The port is uniquely distinguished as the massive, undisputed national leader in the handling of roll-on/roll-off (RoRo) cargo, specifically dominating the import and export of automobiles and heavy farm and construction machinery. Furthermore, it operates massive specialized facilities for bulk commodities, notably the export of Appalachian coal, while also managing significant container traffic. Geography K7 — specialized logistics and inland deep-water ports.",
+      "factsAdvanced": [
+        "The Port of Baltimore consistently ranks as the massive number one port in the US for handling automobiles and light trucks.",
+        "It is located approximately 150 miles further inland than any other massive mid-Atlantic port.",
+        "The port operates massive, specialized roll-on/roll-off facilities designed for heavy agricultural and construction equipment.",
+        "It is a major national hub for the massive export of coal, utilizing specialized bulk-loading terminals.",
+        "The port's deep 50-foot channel was designed to easily accommodate the massive 'New Panamax' cargo ships.",
+        "The port's operations support tens of thousands of jobs and generate massive economic value for the state of Maryland."
+      ]
+    },
+    {
+      "id": "port-of-houston-deepwater-economic-v2",
+      "descriptionAdvanced": "The Port of Houston is a massive, globally significant seaport complex situated along the 50-mile-long Houston Ship Channel. It is the busiest port in the United States in terms of total foreign waterborne tonnage and a massive engine driving the Texan economy. The port is uniquely defined by its unparalleled connection to the energy sector; it sits at the absolute center of the largest massive concentration of petrochemical manufacturing facilities and petroleum refineries in the nation. Consequently, it handles massive, staggering volumes of bulk liquid cargo, including crude oil and refined chemical products. In addition to energy, the port operates massive container terminals, Barbours Cut and Bayport, handling a massive majority of the containerized cargo moving through the Gulf of Mexico. Geography K8 — global energy trade and bulk liquid logistics.",
+      "factsAdvanced": [
+        "The Port of Houston handles roughly two-thirds of all massive containerized cargo in the US Gulf of Mexico.",
+        "It is the undisputed, massive national leader in waterborne tonnage of petroleum and petrochemical products.",
+        "The port complex comprises over 200 public and private massive marine terminals along the Ship Channel.",
+        "The massive Houston Ship Channel was officially opened as a deep-water port in 1914.",
+        "The port's operations generate a massive economic impact of hundreds of billions of dollars nationwide.",
+        "It operates the massive Bayport Container Terminal, one of the most technologically advanced facilities on the Gulf Coast."
+      ]
+    }
+  ]
+}

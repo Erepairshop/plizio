@@ -1,0 +1,363 @@
+{
+  "lang": "de",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "descriptionAdvanced": "Das Naturreservat Cerro El Arenal liegt in den hochgelegenen Bergen an der Grenze zwischen den Departements Matagalpa und Jinotega. Diese Erhebung ist von dichtem, unberührtem Nebelwald (Bosque Nuboso) bedeckt und zeichnet sich durch extrem hohe Luftfeuchtigkeit und kühle Temperaturen aus. Die dichte Vegetation, die von gigantischen Farnen, seltenen Orchideen und dicken Moosschichten dominiert wird, wirkt wie ein riesiger natürlicher Schwamm, der Regenwasser speichert und die Täler darunter in der Trockenzeit versorgt. Ökologisch ist El Arenal ein Paradies für Vogelliebhaber, da es ein wichtiges Rückzugsgebiet für den Resplendent Quetzal, Pumas und Drei-Finger-Faultiere ist. Die angrenzenden Gebiete sind für den Anbau von hochwertigem Schattenkaffee bekannt. Ökologie K7 — Nebelwald-Ökosysteme und Wasserscheiden.",
+      "factsAdvanced": [
+        "Das Naturreservat Cerro El Arenal liegt auf über 1.300 Metern Höhe.",
+        "Charakterisiert durch dichten primären Nebelwald mit nahezu konstanten Nebelschwaden.",
+        "Ein wichtiger Zufluchtsort für den vom Aussterben bedrohten Resplendent Quetzal.",
+        "Das kühle, feuchte Klima begünstigt ein massives Wachstum von Epiphyten (Orchideen und Farne).",
+        "Wichtiges hydrologisches Einzugsgebiet für die Wasserversorgung der tiefer gelegenen Kaffeefincas.",
+        "Wird von staatlichen Rangern geschützt, ist aber durch illegale Landwirtschaft und Abholzung bedroht."
+      ]
+    },
+    {
+      "id": "saslaya-national-park-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark Saslaya ist das extrem isolierte, absolute Kernstück des gigantischen Bosawás-Biosphärenreservats in der Autonomen Karibikregion Nord (RACCN). Gekrönt vom massiven, wilden Gipfel des Cerro Saslaya, schützt dieser Nationalpark Tausende Hektar völlig unberührten, primären Regenwalds. Das Gebiet ist so abgelegen, dass es bis heute keine befestigten Straßen dorthin gibt und viele Teile des Parks noch nie von westlichen Wissenschaftlern erforscht wurden. Es ist die unangefochtene Domäne von Jaguaren, Tapiren und gewaltigen Harpyien-Adlern. Die indigene Mayangna-Bevölkerung lebt an den Rändern des Parks und kämpft erbittert gegen illegale Holzfäller und Viehzüchter, die versuchen, in diese letzte echte Wildnis Zentralamerikas vorzudringen. Ökologie K8 — Primärregenwald und Biosphären-Kernzonen.",
+      "factsAdvanced": [
+        "Der Nationalpark Saslaya ist die am strengsten geschützte Kernzone (Zona Núcleo) des Bosawás-Reservats.",
+        "Bedeckt eine Fläche von über 630 Quadratkilometern unberührten Primärwaldes.",
+        "Beherbergt den Cerro Saslaya (1.650 m), einen der wildesten und unzugänglichsten Berge des Landes.",
+        "Der Zugang ist extrem schwierig und erfordert oft tagelange Fußmärsche durch dichten Dschungel.",
+        "Das Ökosystem weist die größte Dichte an Großkatzen (Puma und Jaguar) in ganz Nicaragua auf.",
+        "Der Park wurde 1971 gegründet, blieb aber wegen des Krieges jahrzehntelang völlig isoliert."
+      ]
+    },
+    {
+      "id": "caribbean-sea-nicaragua-nature-v2",
+      "descriptionAdvanced": "Das Karibische Meer an der Ostküste Nicaraguas (Costa Caribe) unterscheidet sich geologisch, kulturell und ökologisch komplett von der rauen Pazifikküste. Die karibische Seite ist geprägt von weiten, flachen Kontinentalschelfen, ruhigen, kristallklaren Buchten und extrem ausgedehnten Korallenriffen (wie den Miskito Cays und Pearl Cays). Diese warme See ist die Lebensgrundlage der gesamten Küstenbevölkerung (Miskito, Kreolen, Garifuna), die sich auf den handwerklichen und industriellen Fang von Langusten, Garnelen und Schnappern spezialisiert hat. Im Gegensatz zum Pazifik wird die nicaraguanische Karibik in der Hurrikansaison oft von zerstörerischen Stürmen heimgesucht, die die küstennahen Mangrovenwälder und Inseln massiv verwüsten können. Geografie K7 — Karibische Riffe und marine Wirtschaft.",
+      "factsAdvanced": [
+        "Die nicaraguanische Karibikküste ist mit über 500 Kilometern deutlich länger als die Pazifikküste.",
+        "Das Wasser ist tropisch warm, ruhig und durch breite Kontinentalschelfe sehr flach.",
+        "Beherbergt einige der intaktesten und am wenigsten erforschten Korallenriffe Mittelamerikas.",
+        "Die Wirtschaft der gesamten Region ist extrem abhängig vom Export von Karibik-Hummer (Langosta).",
+        "Regelmäßig das direkte Ziel von verheerenden Hurrikanen der Kategorie 4 und 5.",
+        "Die Küstenlinie besteht überwiegend aus dichten, undurchdringlichen Mangrovenwäldern."
+      ]
+    },
+    {
+      "id": "pacific-ocean-nicaragua-nature-v2",
+      "descriptionAdvanced": "Der Pazifische Ozean prägt die Westküste Nicaraguas mit roher, stürmischer Gewalt. Die Küstenlinie ist charakterisiert durch weite Strände mit dunklem Vulkansand, schroffe Klippen und extrem kräftige Brandungen, angetrieben von starken Offshore-Winden (Papagayos). Geologisch ist diese Küste von immenser Bedeutung, da hier die Cocosplatte tief unter die Karibische Platte abtaucht (Subduktionszone), was die explosive Vulkankette Maribios im Landesinneren antreibt und ständige Erdbebengefahr birgt. Wirtschaftlich wird die Küste zunehmend für den Luxustourismus und als globales Surf-Mekka (San Juan del Sur, Tola) genutzt. Gleichzeitig dient sie den Fischern als harte, gefährliche Arbeitsumgebung, in der tiefe Gewässer Thunfisch und Mahi-Mahi bieten. Geografie K8 — Plattentektonik und Pazifische Surf-Kultur.",
+      "factsAdvanced": [
+        "Die nicaraguanische Pazifikküste ist ca. 305 Kilometer lang und von starker Brandung geprägt.",
+        "Der dunkle Sand vieler Strände stammt aus jahrtausendealten vulkanischen Ablagerungen.",
+        "Der starke "Papagayo-Wind" erzeugt Weltklasse-Wellen, die Surfer aus aller Welt anziehen.",
+        "Tief vor der Küste verläuft der Mesoamerikanische Graben, eine aktive tektonische Subduktionszone.",
+        "Beherbergt kritische Nistplätze für Meeresschildkröten wie Chacocente und La Flor.",
+        "Im Gegensatz zur Karibik ist die Pazifikküste dicht besiedelt und stark touristisch erschlossen."
+      ]
+    },
+    {
+      "id": "cerro-negro-forest-nature-v2",
+      "descriptionAdvanced": "Die Wälder rund um den extrem aktiven Vulkan Cerro Negro im Departement León sind ein faszinierendes Studienobjekt für botanische Resilienz. Der Cerro Negro brach seit seiner Entstehung 1850 mehr als zwanzigmal aus und hüllte seine Umgebung regelmäßig in tödliche, heiße Asche und Lava. Dennoch existiert in der Pufferzone ein zäher tropischer Trockenwald. Die Bäume und Sträucher hier haben sich an extremen Wassermangel und nährstoffarme Vulkanschlacke angepasst. Diese karge, schwarze und grüne Landschaft bietet Lebensraum für robuste Tierarten wie Leguane, Skorpione und Kojoten. Nach jeder Eruption beginnt das raue Ökosystem bemerkenswert schnell, sich den verbrannten Boden durch Pionierpflanzen zurückzuerobern. Ökologie K7 — Vulkanische Zerstörung und Wald-Regeneration.",
+      "factsAdvanced": [
+        "Der tropische Trockenwald um den Cerro Negro muss extrem widrigen vulkanischen Bedingungen trotzen.",
+        "Der Boden besteht fast ausschließlich aus schwarzer, scharfkantiger Vulkanschlacke und Asche.",
+        "Pionierpflanzen wie niedrige Gräser und dornige Sträucher erobern die frische Lava rasch zurück.",
+        "Heimat von trockenresistenten Tieren wie dem Grünen Leguan (Garrobo) und Gürteltieren.",
+        "Die Ascheeruptionen des Vulkans töten regelmäßig weite Teile der Vegetation, die sich dennoch erholt.",
+        "Dieses Reservat (Pilas El Hoyo) zeigt den Übergang von völliger Verwüstung zu dichtem Wald."
+      ]
+    },
+    {
+      "id": "laguna-nejapa-nature-v2",
+      "descriptionAdvanced": "Die Laguna de Nejapa ist ein markanter, aber tragischer Vulkankratersee im westlichen Stadtgebiet der Hauptstadt Managua. Einst eine tiefe, wassergefüllte Kraterlagune, hat Nejapa in den letzten Jahrzehnten fast vollständig ihr Wasser verloren. Dies ist teils auf natürliche klimatische Schwankungen, vor allem aber auf die unkontrollierte städtische Entwicklung, extreme Entwaldung an den Kraterrändern und massive Bodenerosion zurückzuführen. Heute ist die Lagune oft nur eine ausgetrocknete, flache Schlammsenke, die im Sommer von illegalen Mülldeponien bedroht wird. Das Schicksal von Nejapa dient Umweltschützern in Nicaragua als drastisches Warnbeispiel dafür, wie schnell rasante Urbanisierung ein historisches Naturmonument zerstören kann. Geografie K6 — Urbane Umweltzerstörung und ausgetrocknete Seen.",
+      "factsAdvanced": [
+        "Nejapa ist ein kollabierter Vulkankrater (Maar), der innerhalb des Stadtgebiets von Managua liegt.",
+        "Die Lagune war historisch tief, ist heute aber während der Trockenzeit fast vollständig ausgetrocknet.",
+        "Die massive urbane Abholzung am Kraterrand hat die Bodenerosion dramatisch beschleunigt.",
+        "In der Vergangenheit glaubte man, das mineralreiche Wasser habe medizinische Heilkräfte.",
+        "Der Name Nejapa stammt aus der Nahuatl-Sprache und bedeutet "Asche-Wasser".",
+        "Oft als Mahnmal für die ökologischen Folgen unregulierten städtischen Wachstums genutzt."
+      ]
+    },
+    {
+      "id": "rio-wawa-nature-v2",
+      "descriptionAdvanced": "Der Río Wawa ist eine mächtige, gewundene Lebensader in der nördlichen Karibikregion (RACCN), die direkt südlich von Puerto Cabezas (Bilwi) in den Ozean mündet. Er fließt durch weite, extrem isolierte Savannen, Kiefernwälder und tiefen Regenwald. Für die indigenen Miskito, die in kleinen Dörfern an seinen Ufern leben, ist der Wawa-Fluss der einzige Transportweg und die wichtigste Nahrungsquelle. Der Fluss ist berüchtigt für seine Unberechenbarkeit: Während der Hurrikan-Saison tritt er massiv über die Ufer und schneidet die regionale Hauptstadt Bilwi tagelang vom Rest des Landes ab, da die einzige Verbindungsstraße eine einfache, oft überflutete Flussfähre (Barcaza) nutzen muss. Geografie K7 — Karibische Flüsse und indigene Logistik.",
+      "factsAdvanced": [
+        "Einer der wichtigsten Flüsse im Nordosten Nicaraguas, der südlich von Puerto Cabezas mündet.",
+        "Die einzige Straßenverbindung nach Bilwi überquert den Fluss mit einer einfachen Kabelfähre.",
+        "Bei starken Regenfällen und Hurrikanen überflutet der Fluss die einzige Zugangsstraße zum Pazifik.",
+        "Die Ufervegetation reicht von ausgedehnten Kiefernsavannen (Llanos) bis zu dichten Mangroven.",
+        "Dient zahlreichen abgelegenen Miskito-Gemeinschaften als wichtigste Quelle für Fisch und Transport.",
+        "Die Strömung des schlammigen Wassers bringt große Mengen an Sedimenten in das Karibische Meer."
+      ]
+    },
+    {
+      "id": "cordillera-chontale-relief-v2",
+      "descriptionAdvanced": "Die Cordillera Chontaleña (oft auch Amerrique-Gebirge genannt) ist eine raue, unregelmäßige Bergkette, die das Herzland des Departements Chontales durchzieht. Diese alten, verwitterten Berge heben sich drastisch von den scharfen, jungen Vulkanen des Pazifiks ab. Die Hänge der Chontaleña wurden historisch fast vollständig vom tropischen Feuchtwald befreit, um Platz für die massivste Rinderzucht-Region Nicaraguas zu schaffen. Die von Weidegras bedeckten Hügel und steilen Täler (Valles) sind heute das Domizil von Vaqueros (Cowboys), die ihre Herden durch das zerklüftete Terrain treiben. Trotz der Entwaldung zeugen alte prähispanische Statuen und Goldadern tief in den Felsen von der reichen Geschichte dieses zentralen Rückgrats Nicaraguas. Geografie K6 — Verwitterungsgebirge und extensive Weidewirtschaft.",
+      "factsAdvanced": [
+        "Eine alte, stark verwitterte Bergkette (ohne vulkanischen Ursprung) im Zentrum Nicaraguas.",
+        "Das Gebirge teilt das Wasser: Bäche fließen westlich in den See, östlich in die Karibik.",
+        "Fast vollständig entwaldet, um riesige Flächen für die Rinderzucht (Ganadería) zu schaffen.",
+        "Die Berge verbergen historische Goldvorkommen, die in La Libertad und Santo Domingo abgebaut werden.",
+        "Präkolumbianische Monolithen wurden häufig an den Hängen dieser Cordillera gefunden.",
+        "Die abgerundeten, steilen Hügel bieten ein raues, aber malerisches Landschaftsbild."
+      ]
+    },
+    {
+      "id": "cerro-saslaya-relief-v2",
+      "descriptionAdvanced": "Der Cerro Saslaya, mit einer Höhe von etwa 1.650 Metern, ist der wildeste und isolierteste Berggipfel in ganz Nicaragua. Er erhebt sich majestätisch als geologisches Zentrum des gleichnamigen Nationalparks tief innerhalb des Bosawás-Biosphärenreservats. Anders als die leicht zugänglichen Vulkane an der Pazifikküste ist der Saslaya von einem schier undurchdringlichen, extrem dichten Primärregenwald und tückischen Flussschluchten umgeben. Expeditionen zu seinem Gipfel dauern oft mehrere Tage und erfordern Macheten, um Pfade durch das dichte Unterholz zu schlagen. Der Berg ist ein absolutes Heiligtum der Biodiversität, an dessen Flanken seltene Orchideen wachsen und wo Pumas völlig ungestört von menschlichen Einflüssen jagen. Geografie K8 — Unzugängliche Gipfel und Biosphärenforschung.",
+      "factsAdvanced": [
+        "Mit ca. 1.650 Metern einer der höchsten, nicht-vulkanischen Gipfel Nicaraguas.",
+        "Gelegen im geografischen Zentrum des massiven Bosawás-Biosphärenreservats (RACCN).",
+        "Wird von dichtestem, unberührtem Primärregenwald und Wolkenwald verhüllt.",
+        "Der Berg hat keine markierten Wanderwege und wird nur extrem selten von Forschern bestiegen.",
+        "Das Gebiet um den Berg weist einen der höchsten Niederschlagswerte des Landes auf.",
+        "Wichtiger Zufluchtsort für Großkatzen wie den Jaguar und den Puma."
+      ]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "descriptionAdvanced": "Die Meseta de los Pueblos (Hochebene der Dörfer) ist eine malerische, fruchtbare Hochebene südlich von Managua, die weite Teile der Departements Masaya und Carazo umfasst. Auf etwa 500 bis 600 Metern Höhe gelegen, genießt dieses Plateau ein deutlich kühleres und angenehmeres Klima als die drückend heiße Hauptstadt. Dieser klimatische Vorteil, gepaart mit tiefgründigen, mineralreichen vulkanischen Böden, macht die Meseta zum historischen Zentrum des nicaraguanischen Kaffee- und Zitrusfrüchteanbaus. Die Hochebene ist dicht besiedelt mit einer Reihe von kleinen, eng beieinanderliegenden Kolonialstädten (wie Diriamba, Jinotepe, San Marcos und die "Pueblos Blancos"), die für ihr lebendiges Kunsthandwerk und ihre Folklore landesweit verehrt werden. Geografie K6 — Landwirtschaftliche Plateaus und dichtbesiedelte Kulturräume.",
+      "factsAdvanced": [
+        "Eine ausgedehnte Hochebene (Plateau) in den Departements Masaya und Carazo südlich von Managua.",
+        "Liegt auf ca. 500-600 Metern Höhe und bietet ein sehr angenehmes, kühleres Mikroklima.",
+        "Heimat der sogenannten "Pueblos Blancos" (Weiße Dörfer), berühmt für Kunsthandwerk und Töpferei.",
+        "Die extrem fruchtbaren Vulkanböden machen die Meseta ideal für den Anbau von Kaffee und Zitrusfrüchten.",
+        "Die Hochebene ist eine der am dichtesten besiedelten ländlichen Regionen Nicaraguas.",
+        "Bricht an ihrem westlichen Rand oft dramatisch in Richtung Pazifik ab."
+      ]
+    },
+    {
+      "id": "valle-de-seaco-relief-v2",
+      "descriptionAdvanced": "Das Sébaco-Tal (Valle de Sébaco) im Departement Matagalpa ist die landwirtschaftliche Speisekammer Nicaraguas. Diese weite, ungewöhnlich flache geologische Senke ist umgeben von steilen Bergen und wird in ihrer Mitte vom Río Grande de Matagalpa durchschnitten. Die Kombination aus extrem fruchtbaren Schwemmböden und konstanten Wasserquellen ermöglicht hier eine hochintensive, ganzjährige Bewässerungslandwirtschaft. Das Tal ist bedeckt von unendlichen Reisfeldern, die oft wie Spiegel in der Sonne glänzen, sowie massiven Anbauflächen für Tomaten, Zwiebeln und Karotten. Aufgrund seiner zentralen Lage entlang der Panamericana fungiert das Tal zudem als der wichtigste landwirtschaftliche Umschlagplatz (Handelsknoten) des Landes, was sich in riesigen Gemüsemärkten an der Autobahn widerspiegelt. Wirtschaft K7 — Intensive Bewässerungslandwirtschaft und Schwemmebenen.",
+      "factsAdvanced": [
+        "Eine weite, extrem fruchtbare, flache Senke inmitten des bergigen Departements Matagalpa.",
+        "Gilt als das wichtigste Zentrum für den Anbau von Gemüse (Zwiebeln, Tomaten) in Nicaragua.",
+        "Riesige, künstlich bewässerte Flächen werden hier intensiv für den Reisanbau genutzt.",
+        "Der Río Grande de Matagalpa durchfließt das Tal und sichert die Wasserversorgung.",
+        "Strategisch gelegen an der Kreuzung der Panamericana Richtung Norden und Karibikküste.",
+        "Das flache Relief des Tals entstand vor Jahrtausenden durch massive Flussablagerungen."
+      ]
+    },
+    {
+      "id": "llanos-de-esteli-relief-v2",
+      "descriptionAdvanced": "Die Ebenen von Estelí (Llanos de Estelí) bilden ein faszinierendes, kühles Hochtal auf rund 800 Metern über dem Meeresspiegel. Eingebettet in die zerklüftete nördliche Gebirgskette Nicaraguas, zeichnet sich diese Region durch relativ flache, aber trockene Böden aus, auf denen ein einzigartiges Mikroklima herrscht. Diese klimatische Besonderheit hat das Hochtal zum unangefochtenen Zentrum der nicaraguanischen Tabakproduktion gemacht, deren Qualität weltweit mit kubanischen Zigarren konkurriert. Wo kein Tabak wächst, prägen Savannen mit vereinzelten Eichen und Kiefern das raue, windige Landschaftsbild. Im Gegensatz zu den feuchten Tälern des Südens zwingt die Trockenheit der Estelí-Ebenen die Bauern zu ausgeklügelten Bewässerungssystemen für ihr Überleben. Landwirtschaft K7 — Tabakhochburgen und kühle Trockensavannen.",
+      "factsAdvanced": [
+        "Ein weites, relativ flaches Hochtal im nördlichen Departement Estelí auf ca. 800 m Höhe.",
+        "Das kühle, trockene Mikroklima ist weltweit ideal für den Anbau von Premium-Zigarrentabak.",
+        "Die Vegetation in den Ebenen ist trocken und oft von Kiefern und Steineichen dominiert.",
+        "Wird fast das ganze Jahr über von starken, kühlen Winden durchzogen.",
+        "Die Stadt Estelí (Diamant der Segovias) liegt zentral in dieser Ebene.",
+        "Die landwirtschaftliche Nutzung erfordert in der Trockenzeit intensive Bewässerung aus tiefen Brunnen."
+      ]
+    },
+    {
+      "id": "selva-de-las-nubes-relief-v2",
+      "descriptionAdvanced": "Die "Selva de las Nubes" (Nebelwälder) Nicaraguas, insbesondere auf den Gipfeln von Vulkanen (wie dem Mombacho) und den nördlichen Kordilleren (Jinotega, Matagalpa), stellen die magischsten und fragilsten Ökosysteme des Landes dar. Diese Wälder existieren nur in Höhenlagen ab ca. 1.000 Metern, wo die aufsteigende warme Luft kondensiert und die Gipfel in ständigen Nebel hüllt. Dieses extrem nasse, kühle Klima führt zu einer surrealen Flora: Jeder Ast ist überzogen mit dicken Moospolstern, Orchideen und Bromelien. Diese feuchten Schwämme sind für das hydrografische Gleichgewicht Nicaraguas überlebenswichtig, da sie das Wasser filtern und in die Täler leiten. Der Klimawandel und das stetige Vorrücken der Kaffeeplantagen drohen jedoch, diese empfindlichen Nebelinseln auszutrocknen. Ökologie K8 — Nebelwald-Klimatologie und bedrohte Wasserreservoire.",
+      "factsAdvanced": [
+        "Nebelwälder (Bosques Nubosos) existieren in Nicaragua nur auf Gipfeln über 1.000 m Höhe.",
+        "Nahezu 100% Luftfeuchtigkeit; die Bäume entziehen den Wolken direkt das Wasser (Nebelkondensation).",
+        "Die Bäume sind massiv mit Epiphyten (Aufsitzerpflanzen) wie Farnen, Moosen und Orchideen bedeckt.",
+        "Fungieren als die primären Wasserquellen (Schwämme) für tiefer gelegene Agrarzonen.",
+        "Beherbergen stark gefährdete Arten wie den Resplendent Quetzal und zahlreiche endemische Frösche.",
+        "Die globale Erwärmung drückt die Wolkengrenze höher, was diese Wälder existenziell bedroht."
+      ]
+    },
+    {
+      "id": "cerro-killibrin-relief-v2",
+      "descriptionAdvanced": "Der Cerro Killibrin (oft Kilibrin) ist eine markante Bergkuppe in den zerklüfteten Gebirgslandschaften des nördlichen Nicaraguas (oft assoziiert mit den Ausläufern in Jinotega/Nueva Segovia). Wie viele Erhebungen dieser rauen Region ist der Berg stark bewaldet und historisch stark isoliert. Während der Konflikte im 20. Jahrhundert dienten solche hochgelegenen, bewaldeten Felsen den Guerillakämpfern oft als natürliche Festungen, da sie schwer zu bombardieren und am Boden fast uneinnehmbar waren. Heute bietet der Berg eine weitgehend unberührte Flora, in der Bergkaffeebauern nur vorsichtig an den unteren, flacheren Hängen operieren, während der Gipfel von dichten, nebelverhangenen Wäldern bedeckt bleibt. Geografie K6 — Raue Gebirgsformationen und historische Guerilla-Verstecke.",
+      "factsAdvanced": [
+        "Eine markante, bewaldete Erhebung in den nördlichen Gebirgsketten Nicaraguas.",
+        "Das raue, unzugängliche Terrain machte ihn historisch zu einem Zufluchtsort in Kriegszeiten.",
+        "Die unteren Flanken des Berges werden vereinzelt für den Anbau von Schattenkaffee genutzt.",
+        "Die Gipfelregion ist oft von tief hängenden Wolken und dichtem Nebelwald bedeckt.",
+        "Bietet Lebensraum für zahlreiche Bergvogelarten und kleinere Säugetiere.",
+        "Die unzureichende Infrastruktur hält die Umgebung des Berges stark isoliert."
+      ]
+    },
+    {
+      "id": "valle-de-las-garzas-relief-v2",
+      "descriptionAdvanced": "Das Tal der Reiher (Valle de las Garzas) ist repräsentativ für die weiten, flachen Feuchtgebiete und Flussebenen, die sich in den ländlichen Departements (wie Río San Juan oder nahe dem Nicaraguasee) finden. Diese sanften Täler zeichnen sich durch wassergesättigte Böden und hohe Gräser aus, die eine perfekte Umgebung für ausgedehnte Rinderweiden schaffen. Ihren Namen verdanken solche Täler oft den massiven Schwärmen von weißen Silberreihern (Garzas), die majestätisch neben den weidenden Kuhherden stehen, um aufgescheuchte Insekten zu fangen. Ökologisch sind diese Täler eine wichtige Brücke zwischen landwirtschaftlicher Nutzung und Feuchtgebiet-Biodiversität, in denen Amphibien und Zugvögel den Rhythmus der trockenen und nassen Jahreszeiten diktieren. Naturkunde K5 — Agrar-Feuchtgebiete und Vogel-Symbiosen.",
+      "factsAdvanced": [
+        "Ein typisches wasserreiches Tal, das in der Regenzeit oft teilweise überschwemmt ist.",
+        "Namensgebend sind die großen Populationen von weißen Reihern (Garzas), die hier stetig nisten.",
+        "Die Ebenen werden intensiv als saftige Weideflächen für die Rinderzucht genutzt.",
+        "Es existiert eine ökologische Symbiose zwischen dem Vieh und den Reihern, die Insekten jagen.",
+        "Der Boden in diesen Tälern ist sehr tonhaltig und hält das Wasser extrem lang.",
+        "Ein Hotspot für Vogelliebhaber, besonders während der Winter-Migration aus Nordamerika."
+      ]
+    },
+    {
+      "id": "sierra-de-diabolo-relief-v2",
+      "descriptionAdvanced": "Die Sierra del Diablo (Teufelsgebirge), eingebettet in das massive Naturreservat Datanlí-El Diablo in Jinotega, macht ihrem Namen alle Ehre. Diese steilen, dramatisch gezackten Bergkämme sind mit einem undurchdringlichen Dschungel und tiefem Nebelwald bedeckt. Der Name rührt von der extrem feindlichen, fast unpassierbaren Topografie her, die tief von Schluchten, reißenden Bächen und Wasserfällen (wie dem berühmten La Bujona) durchschnitten ist. Das Gebirge fungiert als eine massive geologische Wand, an der sich die karibischen Wolken stauen, was zu kontinuierlichen Regenfällen führt. Für Biologen ist die Sierra del Diablo ein Kronjuwel, das Tausende unentdeckter Insektenarten und seltene Puma-Populationen vor der Expansion der Kaffeewirtschaft schützt. Ökografie K8 — Schroffe Gebirgszüge und Nebelwald-Barrieren.",
+      "factsAdvanced": [
+        "Teil des Reservats Datanlí-El Diablo, einer sehr steilen Gebirgskette im Departement Jinotega.",
+        "Der Name "Teufelsgebirge" leitet sich von dem extrem unwegsamen, tückischen Terrain ab.",
+        "Beherbergt den bekannten, massiven Wasserfall "La Bujona", der aus dem dichten Nebelwald stürzt.",
+        "Dient als gewaltige Wasserbarriere, an der die karibische Feuchtigkeit abregnet.",
+        "Eine kritische Zufluchtszone für den Quetzal und seltene zentralamerikanische Amphibien.",
+        "Wanderungen in diesem Gebirge gelten als einige der anspruchsvollsten und matschigsten in Nicaragua."
+      ]
+    },
+    {
+      "id": "cerro-mogoton-relief-v2",
+      "descriptionAdvanced": "Der Cerro Mogotón ist der höchste Punkt Nicaraguas und erhebt sich stolze 2.107 Meter in der Cordillera Dipilto-Jalapa, direkt auf der Grenze zu Honduras (Nueva Segovia). Die Besteigung des Mogotón gilt als eine der rauesten Herausforderungen in Zentralamerika. Anders als die touristischen Vulkanpfade im Süden führt der Weg zum Mogotón durch dichten, nassen und kalten Kiefern- und Nebelwald, der extrem matschig ist. Historisch birgt der Berg eine düstere Geschichte: Während des Contra-Krieges in den 1980er Jahren war die Grenze stark vermint. Obwohl das Gebiet vom Militär offiziell geräumt wurde, warnen Schilder Wanderer bis heute davor, die freigegebenen Pfade auf dem Weg zum kühlen, von Moos und Nebel verhüllten Gipfel zu verlassen. Geografie K8 — Höchste Gipfel und Landminen-Altlasten.",
+      "factsAdvanced": [
+        "Mit 2.107 Metern der absolut höchste Berg (und höchste Punkt) in ganz Nicaragua.",
+        "Liegt direkt auf der nördlichen Grenze zu Honduras im Departement Nueva Segovia.",
+        "Gehört zur Cordillera Dipilto-Jalapa und ist von dichten Kiefern- und dichten Nebelwäldern bedeckt.",
+        "Wegen Tausender verlegter Landminen aus den 1980er Jahren war der Berg lange Zeit völlig unzugänglich.",
+        "Die Minen wurden offiziell geräumt, Wanderer dürfen jedoch die markierten Pfade strikt nicht verlassen.",
+        "Der Gipfel bietet aufgrund dichten Nebels oft keine Aussicht, ist aber extrem feucht und kühl."
+      ]
+    },
+    {
+      "id": "valle-de-la-luna-relief-v2",
+      "descriptionAdvanced": "Das Valle de la Luna (Mondtal) in Nicaragua bezieht sich oft auf die surrealen, fast völlig kahlen und rauen vulkanischen Landschaften, wie sie um den Vulkan Cerro Negro oder in bestimmten extrem trockenen Kraterlandschaften von León zu finden sind. Diese Täler zeichnen sich durch tiefe, von Lava und Asche geformte Schluchten aus, in denen weder Bäume noch nennenswerte Vegetation Fuß fassen können. Der schwarze Vulkansand, unterbrochen von scharfkantigen Gesteinsbrocken und dampfenden Fumarolen, verleiht der Gegend ein buchstöblich außerirdisches, mondähnliches Aussehen. Diese extrem lebensfeindlichen, heißen Senken bieten Geologen ein fantastisches Freiluftlabor, um die Zerstörungskraft von Ascheeruptionen und die extrem langsame Regeneration von tropischen Böden zu studieren. Geologie K7 — Vulkanische Wüsten und Mondlandschaften.",
+      "factsAdvanced": [
+        "Eine Landschaft, die durch extreme vulkanische Zerstörung völlig kahl und aschebedeckt ist.",
+        "Besteht fast ausschließlich aus schwarzem Basaltsand, Vulkanschlacke und scharfen Gesteinsbrocken.",
+        "Die Temperaturen in diesen Senken können tagsüber durch den dunklen Sand extrem hoch werden.",
+        "Erinnert an eine Mondlandschaft, da es kaum Pflanzen oder Insekten gibt, die hier überleben.",
+        "Wird von Geologen genutzt, um die extrem langsame Bodenbildung nach Vulkanausbrüchen zu studieren.",
+        "Bietet eine surreale, fotogene Kulisse, die starken Kontrast zu Nicaraguas grünem Dschungel bildet."
+      ]
+    },
+    {
+      "id": "cerro-kilambe-relief-v2",
+      "descriptionAdvanced": "Der Cerro Kilambé ist ein beeindruckender Berg im Departement Jinotega und das Zentrum eines wichtigen, aber oft übersehenen Naturreservats (Reserva Natural Cerro Kilambé). Mit einer Höhe von 1.750 Metern ragt das Massiv majestätisch über das umliegende Flusssystem des Río Coco. Sein Gipfel ist in dichten, feuchten Nebelwald gehüllt und fungiert als eine riesige biologische Insel, da er durch Täler von der Haupt-Kordillere getrennt ist. Dieser Insel-Effekt (Endemismus) hat zur Entwicklung von Tier- und Pflanzenarten geführt, die nirgendwo sonst in Nicaragua vorkommen. Während die unteren Hänge intensiv für den Anbau von hochwertigem Schattenkaffee genutzt werden, bleibt die steile Gipfelregion weitgehend unberührt und ist ein Juwel der nationalen Biodiversität. Geografie K7 — Biologische Inseln und Bergendemismus.",
+      "factsAdvanced": [
+        "Ein massiver, 1.750 Meter hoher Berg im Departement Jinotega (nahe San José de Bocay).",
+        "Wirkt wie eine "biologische Insel", die komplett von tiefen Flusstälern (wie dem Río Coco) isoliert ist.",
+        "Der isolierte Gipfel fördert Endemismus – Arten, die sich nur auf diesem spezifischen Berg entwickelt haben.",
+        "Die unteren Hänge sind Heimat von zahlreichen kleinen, biologischen Kaffeefincas.",
+        "Das Naturreservat Cerro Kilambé (über 100 km²) wurde 1991 offiziell unter Schutz gestellt.",
+        "Trotz Schutzstatus wird das Reservat stark durch vordringende illegale Abholzung bedroht."
+      ]
+    },
+    {
+      "id": "meseta-de-juigalpa-relief-v2",
+      "descriptionAdvanced": "Die Juigalpa-Hochebene (Meseta de Juigalpa) im Departement Chontales ist das klassische Rückgrat der nicaraguanischen Cowboy-Kultur. Diese weitläufige, leicht wellige Hochebene, flankiert von den markanten, felsigen Gipfeln des Amerrique-Gebirges, zeichnet sich durch Graslandschaften und felsige Untergründe aus. Historisch von dichtem Tropenwald bedeckt, wurde die Hochebene zur wichtigsten Rinderweidezone des Landes gerodet. Die Meseta ist berühmt für ihren starken indigenen Ursprung; Hunderte von großen, steinernen Monolithen wurden auf diesen Ebenen ausgegraben. Heute prägen Tausende von Rindern, galoppierende Pferde (Caballos) und die heiße, weite Savanne das Bild dieser von Trockenzeiten stark geprägten, aber wirtschaftlich immens wichtigen Region. Geografie K6 — Viehzucht-Savannen und prähispanische Ebenen.",
+      "factsAdvanced": [
+        "Eine wellige, felsige Hochebene im Zentrum des Departements Chontales.",
+        "Das absolute Zentrum der großflächigen nicaraguanischen Rinder- und Milchwirtschaft.",
+        "Landschaftlich geprägt durch weite Gras-Savannen, vereinzelt alte Bäume und Felsnasen.",
+        "Einer der reichsten Fundorte für massige präkolumbianische Steinidole (Chontal-Kultur).",
+        "Leidet extrem unter der Sommerhitze, da fast der gesamte ursprüngliche Wald abgeholzt wurde.",
+        "Wird eingerahmt von der dramatischen, steil aufragenden Bergkette Amerrique."
+      ]
+    },
+    {
+      "id": "cerro-el-pilon-relief-v2",
+      "descriptionAdvanced": "Der Cerro El Pilón ist eine charakteristische Erhebung, deren Name sich auf die typische, steile, hügelförmige Geometrie (wie ein Zuckerhut oder Pilon) bezieht, die in vulkanischen und bergigen Regionen Nicaraguas häufig vorkommt. Solche steilen, oft isolierten Hügel sind oft vulkanische Kegelreste oder extrem verwitterte Felsnasen. In landwirtschaftlichen Gebieten dienen solche Erhebungen oft als markante Navigationspunkte für die lokale Bevölkerung oder als Standorte für Antennenmasten. Aufgrund ihrer Steilheit bleiben sie häufig von der Landwirtschaft verschont und bewahren auf ihren Kuppen kleine, dichte Inseln von ursprünglicher Vegetation, die Vögeln und kleinen Säugetieren inmitten von Rinderweiden Zuflucht bieten. Geografie K5 — Verwitterungshügel und topografische Landmarken.",
+      "factsAdvanced": [
+        "Ein topografischer Name (El Pilón), der oft für steile, kegelförmige oder zuckerhutartige Felsen verwendet wird.",
+        "Oft Reste sehr alter, stark verwitterter vulkanischer oder tektonischer Formationen.",
+        "Ihre steilen Hänge machen sie für die landwirtschaftliche Nutzung (Ackerbau) ungeeignet.",
+        "Dienen auf Rinderweiden oft als letzte Zufluchtsorte (Waldinseln) für Wildtiere.",
+        "Werden lokal gerne als markante geographische Orientierungspunkte genutzt.",
+        "In der Trockenzeit wirken sie oft kahl, während sie in der Regenzeit tiefgrün erstrahlen."
+      ]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "descriptionAdvanced": "Das Valle de Osua (oder Asososca/Ostuacán-ähnliche Senken) repräsentiert die tiefen, verborgenen Täler, die sich oft am Fuß massiver Vulkane im pazifischen Becken Nicaraguas erstrecken. Diese Senken zeichnen sich durch tiefe, extrem aschehaltige und durchlässige Böden aus. Obwohl das Klima oft brütend heiß ist, ermöglicht der vulkanische Nährstoffreichtum eine intensive Landwirtschaft. Solche Täler sind oft geprägt vom Anbau großer Monokulturen wie Zuckerrohr, Erdnüssen oder Sorghum. Eine ständige Bedrohung in diesen tektonischen Tälern sind extreme Überschwemmungen in der Hurrikansaison, da das Wasser von den Vulkanhängen blitzartig in die flachen Senken abfließt und weite Teile unter Wasser setzt. Landwirtschaft K6 — Vulkanische Senken und Agrarrisiken.",
+      "factsAdvanced": [
+        "Tiefe vulkanische Senken, die durch den Abfluss von alten Lavaströmen und tektonischen Rissen geformt wurden.",
+        "Böden bestehen oft aus dicken, nährstoffreichen Schichten alter Vulkanschlacke (Pómez).",
+        "Wird großflächig für den industriellen Anbau von Erdnüssen und Zuckerrohr genutzt.",
+        "Die tiefe Lage macht diese Täler extrem anfällig für Sturzfluten (Flash Floods) bei Tropenstürmen.",
+        "In den Trockenmonaten (Verano) entstehen hier oft Staubstürme (Tolvaneras) durch die offenen Äcker.",
+        "Die Hitze staut sich in der Senke, was zu sehr hohen Durchschnittstemperaturen führt."
+      ]
+    },
+    {
+      "id": "meseta-del-pacifico-relief-v2",
+      "descriptionAdvanced": "Die Meseta del Pacífico (Pazifisches Plateau) ist das demografische und wirtschaftliche Herzstück Nicaraguas. Diese weite, fruchtbare Ebene erstreckt sich entlang der pazifischen Küstenkordillere und beherbergt die größten Seen und die wichtigsten Städte des Landes, darunter Managua, León und Granada. Geformt durch tektonische Absenkungen und Jahrtausende von vulkanischen Ascheablagerungen, bietet diese Hochebene die besten landwirtschaftlichen Böden Zentralamerikas. Die Kombination aus perfekten flachen Flächen für die Agrarindustrie, leicht zugänglichem Grundwasser und der Nähe zu Pazifikhäfen machte dieses Plateau zum historischen Zentrum der spanischen Kolonisation und der modernen nicaraguanischen Wirtschaft. Es ist jedoch auch das Epizentrum für Vulkanausbrüche und zerstörerische Erdbeben. Geografie K8 — Tektonische Senken und demografische Zentren.",
+      "factsAdvanced": [
+        "Eine tektonische Senke (Grabenbruch), die parallel zur Pazifikküste Nicaraguas verläuft.",
+        "Beherbergt über 60 % der gesamten nicaraguanischen Bevölkerung und die größten Metropolen.",
+        "Die Böden sind durch kontinuierlichen Ascheregen der Maribios-Vulkankette extrem fruchtbar.",
+        "Beinhaltet die großen Becken des Managuasees (Xolotlán) und des Nicaraguasees (Cocibolca).",
+        "Eine hochaktive Erdbebenzone mit zahlreichen oberflächennahen geologischen Verwerfungen (Fallas).",
+        "Das Zentrum für den massiven Exportanbau von Baumwolle (historisch), Zuckerrohr und Erdnüssen."
+      ]
+    },
+    {
+      "id": "valle-de-jalapa-relief-v2",
+      "descriptionAdvanced": "Das Tal von Jalapa (Valle de Jalapa) im Departement Nueva Segovia ist eines der isoliertesten und gleichzeitig strategisch wichtigsten Täler Nicaraguas. Es ragt wie ein langer geografischer Finger tief in honduranisches Territorium hinein, umschlossen von hohen, kiefernbewachsenen Bergen. Diese geschützte Tallage schafft ein herausragendes Mikroklima, das Jalapa den Titel "Der Kornspeicher Nicaraguas" (El Granero) eingebracht hat, da hier der Großteil des nationalen Bedarfs an Reis, Bohnen und Premium-Mais gedeiht. In den 1980er Jahren wurde dieses friedliche, fruchtbare Tal jedoch zum Albtraum: Die Contra-Rebellen versuchten wiederholt, das Jalapa-Tal als "befreites Gebiet" zu erobern, was es zum am heftigsten umkämpften Kriegsgebiet Nicaraguas machte. Geschichte K8 — Strategische Täler und der Kornspeicher.",
+      "factsAdvanced": [
+        "Ein schmales, langes Tal, das auf drei Seiten von der Republik Honduras umschlossen wird.",
+        "Nicaraguas wichtigstes Zentrum für den massenhaften Anbau von Mais (Maíz) und Reis.",
+        "Wegen der hohen Getreideproduktion landesweit als "El Granero de Nicaragua" bekannt.",
+        "War in den 1980er Jahren das primäre militärische Ziel (Plan Dschihad) der Contra-Rebellen.",
+        "Die das Tal umschließenden Berge (Cordillera Dipilto-Jalapa) sind dicht mit Kiefernwäldern bedeckt.",
+        "Jährlicher Austragungsort der landesweit berühmten "Feria Nacional del Maíz" (Nationales Maisfest)."
+      ]
+    },
+    {
+      "id": "cerro-punta-gorda-relief-v2",
+      "descriptionAdvanced": "Der Cerro Punta Gorda im Südosten der Karibikregion (RACCS) ist eine markante Erhebung, die dicht an der Küstenlinie des Indio-Maíz-Regenwaldes liegt. In einer ansonsten völlig flachen, oft sumpfigen und von Flüssen durchzogenen Karibiklandschaft sticht dieser Hügel (Punta Gorda bedeutet "Dicker Punkt") als wichtige geografische und nautische Landmarke hervor. Die Region um Punta Gorda ist berüchtigt als eines der ursprünglichsten und isoliertesten Gebiete des Landes, bewohnt von indigenen Rama-Stämmen und extrem unzugänglich. Die dichten Wälder an seinen Hängen sind Rückzugsgebiet für den bedrohten Jaguar. In jüngster Zeit rückte Punta Gorda in den Fokus, da es historisch als möglicher Ausgangspunkt für geplante interozeanische Kanalprojekte diskutiert wurde. Geografie K7 — Karibische Landmarken und isolierte Regenwälder.",
+      "factsAdvanced": [
+        "Eine seltene, markante Erhebung an der ansonsten sehr flachen nicaraguanischen Karibikküste.",
+        "Liegt tief im Süden der Region RACCS, in der Nähe des Naturschutzgebietes Indio Maíz.",
+        "Diente Seefahrern jahrhundertelang als nautische Landmarke in der Karibischen See.",
+        "Die indigene Gemeinschaft der Rama lebt in den isolierten Wäldern rund um die Erhebung.",
+        "Wurde in Machbarkeitsstudien oft als östliches Endstück eines geplanten Nicaraguakanals genannt.",
+        "Das gesamte Gebiet hat fast keine Straßen und ist extrem starken karibischen Regenfällen ausgesetzt."
+      ]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "descriptionAdvanced": "Die Jinotega-Hochebene (Meseta de Jinotega) wird nicht umsonst als die "Stadt der Nebel" (Ciudad de las Brumas) bezeichnet. Dieses ausgedehnte Plateau im Norden Nicaraguas liegt auf einer durchschnittlichen Höhe von über 1.000 Metern und wird von einem Ring zerklüfteter Berge wie einem riesigen Kessel eingeschlossen. Das resultierende Mikroklima ist das ganze Jahr über angenehm kühl, feucht und oft dicht in Nebel gehüllt. Diese perfekten klimatischen Bedingungen machen die Meseta zum absoluten Zentrum der nicaraguanischen Kaffee-Elite. Nahezu 80 Prozent des Exportkaffees wachsen an den schattigen, bewaldeten Hängen dieses Plateaus. Die Hochebene bietet zudem eine spektakuläre landschaftliche Mischung aus dichten Nebelwäldern und dem riesigen, künstlichen Apanás-See. Geografie K7 — Kühle Hochebenen und Kaffeemetropolen.",
+      "factsAdvanced": [
+        "Eine kesselförmige Hochebene im Norden Nicaraguas auf über 1.000 Metern Höhe.",
+        "Berühmt für ihr sehr kühles, extrem feuchtes Klima und dichte morgendliche Nebelschwaden.",
+        "Die Region liefert beeindruckende 80 % des gesamten nicaraguanischen Export-Kaffees.",
+        "Der große künstliche Apanás-See (Stausee) dominiert den nördlichen Teil der Meseta.",
+        "Wird von einem Ring steiler Berge der Isabelia- und Dariense-Kordilleren fast komplett eingeschlossen.",
+        "Das Plateau ist eines der waldreichsten und am wenigsten ausgetrockneten landwirtschaftlichen Gebiete."
+      ]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "descriptionAdvanced": "Der Cerro La Quinta, oft eine kleine, bewaldete Anhöhe nahe landwirtschaftlicher Siedlungen in den nördlichen Departements (Estelí/Jinotega), repräsentiert die Typologie von Vorbergen, die den Übergang von flachen Tälern in steile Gebirgsketten markieren. "La Quinta" bezieht sich oft auf alte große Landgüter (Quintas), die an solchen vorteilhaften, kühleren Hängen errichtet wurden. Geologisch sind diese Vorberge essentiell, da sie die stürmischen Passatwinde aus der Karibik abfangen und so das feine Mikroklima für den Kaffeeanbau in den tieferen Tälern schützen. Während die flacheren Hänge für Gemüse terrassiert werden, bleiben die Bergkuppen oft bewaldet, um Bodenerosion und Erdrutsche in den harten Regenmonaten zu verhindern. Geografie K5 — Agrar-Vorberge und Windbarrieren.",
+      "factsAdvanced": [
+        "Ein typischer Ausläufer-Hügel (Vorberg), der den Beginn der nördlichen Bergketten markiert.",
+        "Der Name verweist oft auf historische Landgüter (Quintas), die das milde Mikroklima nutzten.",
+        "Dient als natürliche Barriere, die extrem starke Winde von den landwirtschaftlichen Tälern abhält.",
+        "An den Flanken werden häufig Kaffee oder Gemüse auf kleinen Familienfarmen angebaut.",
+        "Die bewaldete Bergkuppe ist gesetzlich oft geschützt, um fatale Erdrutsche (Deslaves) zu verhindern.",
+        "Solche Hügel sind charakteristisch für die stark zerklüftete, hügelige Landschaft Nord-Nicaraguas."
+      ]
+    },
+    {
+      "id": "valle-de-la-libertad-relief-v2",
+      "descriptionAdvanced": "Das Libertad-Tal (Valle de La Libertad) im Departement Chontales ist eine geografische Anomalie. Umgeben von den weiten, sanften Rinderweiden Chontales, ist dieses Tal durch tiefe Brüche und steile Felswände zerschnitten, die massiven Reichtum bergen: Gold. Das Tal ist eine der bedeutendsten Goldgräber-Senken Nicaraguas. Der industrielle Tagebau hat die Geometrie des Tals im Laufe der Jahrzehnte buchstäblich umgegraben, Hügel abgetragen und riesige künstliche Gruben (Tagebaue) geschaffen. Das Flusssystem des Tals leidet stark unter den chemischen Rückständen des Bergbaus und dem informellen Schürfen der Güiriseros. Diese raue, vom Extraktivismus gezeichnete Senke ist der wirtschaftliche Motor des Departements, aber ein ökologisches Sorgenkind. Geografie K7 — Goldminen-Täler und industrielle Landschaftsveränderung.",
+      "factsAdvanced": [
+        "Ein tiefes Tal im Departement Chontales, berühmt für seine enormen Goldvorkommen.",
+        "Die Landschaft wurde durch Jahrzehnte des industriellen Tagebaus radikal künstlich verändert.",
+        "Tausende Tonnen Erdreich werden täglich bewegt, was das geologische Profil des Tals abflacht.",
+        "Flüsse im Tal sind durch Quecksilber von informellen Schürfern (Güiriseros) stark gefährdet.",
+        "Das Tal ist das Zuhause der Mine La Libertad, der produktivsten Goldmine des Landes.",
+        "Umgeben vom Amerrique-Gebirge, das steil aus der ansonsten flachen Weidelandschaft aufragt."
+      ]
+    },
+    {
+      "id": "cerro-coyol-relief-v2",
+      "descriptionAdvanced": "Der Cerro Coyol ist ein markanter Hügelzug entlang der Straßen von Managua nach Boaco/Matagalpa, der eine klassische trockene, felsige Savannenlandschaft überragt. Sein Name leitet sich von der ikonischen Coyol-Palme ab, die extrem dürreresistent ist und deren süßer Saft von den Einheimischen in der Region zu "Chicha de Coyol", einem beliebten, fermentierten alkoholischen Getränk, verarbeitet wird. Die Hänge des Cerro Coyol bestehen aus kargem Vulkangestein, das im Sommer völlig austrocknet und im Winter durch die starke Erosion gezeichnet wird. Geografisch markiert er den Übergang vom flachen, vom Managuasee dominierten Becken in das raue, hügelige Vorland, das schließlich in das bergige Herz von Nicaragua führt. Geografie K5 — Trockenvegetation und landschaftliche Übergangszonen.",
+      "factsAdvanced": [
+        "Ein trockener, felsiger Hügel, der den geografischen Übergang vom Pazifikbecken ins Bergland markiert.",
+        "Namensgebend ist die heimische Coyol-Palme (Acrocomia aculeata), die extreme Dürren übersteht.",
+        "Einheimische fällen die Coyol-Palmen auf den Hügeln oft, um den fermentierten Saft (Chicha) zu ernten.",
+        "Die Hänge sind stark von Bodenerosion und sommerlichen Buschbränden betroffen.",
+        "Dient als sichtbare Landmarke entlang der strategischen Autobahn ins Zentrum des Landes.",
+        "Die Vegetation ist klassischer dorniger Buschwald (Maleza), der für die Rinderzucht ungeeignet ist."
+      ]
+    }
+  ]
+}

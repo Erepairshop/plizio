@@ -1,0 +1,227 @@
+[
+  {
+    "id": "HU",
+    "nameEn": "Hungary",
+    "descEn": "Baranya County is located in the far south of Hungary on the border with Croatia and is known for its mild, almost Mediterranean climate. The region is bordered to the north by the Mecsek Mountains and to the south by the rivers Drava and Danube, creating a diverse and fertile landscape. Its cultural center is the city of Pécs, which impresses visitors with its rich Roman and Ottoman heritage and its vibrant art scene. Baranya is also famous for its world-class wine regions, particularly Villány, and its diverse ethnic traditions shaped by the coexistence of Hungarians, Germans, and Croatians. The county offers a unique blend of historical depth, natural beauty, and culinary delights."
+  },
+  {
+    "id": "bacs-kiskun",
+    "nameEn": "Bács-Kiskun",
+    "descEn": "Bács-Kiskun is the largest county in Hungary by area, located in the central-southern part of the country between the Danube and Tisza rivers. The region is characterized by the vast landscape of the Great Hungarian Plain (Alföld) and is home to the Kiskunság National Park with its unique sand dunes and salt lakes. Its economic and cultural center is Kecskemét, a city famous for its stunning Art Nouveau architecture and the production of high-quality apricot brandy (Barackpálinka). Bács-Kiskun plays a central role in Hungarian agriculture and is famous for its traditions in horse breeding and livestock farming. The county offers visitors an authentic experience of Hungarian Puszta culture paired with modern hospitality."
+  },
+  {
+    "id": "bekes",
+    "nameEn": "Békés",
+    "descEn": "Békés County is located in southeastern Hungary on the border with Romania and is known as the country's 'breadbasket'. The region is characterized by extremely fertile chernozem soils and a vast, flat landscape ideal for large-scale arable farming. Its cultural and administrative center is Békéscsaba, a city world-famous for its gastronomy, particularly the renowned Csaba sausage (Csabai kolbász). Békés also home to significant historical sites such as the Gyula Castle, the only preserved brick fortress in Central Europe, and is rich in thermal springs. The county proudly preserves its diverse traditions, shaped by centuries of coexistence between Hungarians, Slovaks, Romanians, and Germans."
+  },
+  {
+    "id": "borsod-abauj-zemplen",
+    "nameEn": "Borsod-Abaúj-Zemplén",
+    "descEn": "Borsod-Abaúj-Zemplén County is located in northeastern Hungary and is one of the country's most geographically diverse regions. It encompasses the majestic mountain ranges of Bükk and Zemplén, as well as the world-famous Tokaj wine region, which is a UNESCO World Heritage site. Its administrative center is Miskolc, a city with a strong industrial past that is now famous for its tourist attractions, such as the unique Cave Bath of Miskolctapolca. The county is rich in medieval castles, historic towns, and is home to the Aggtelek National Park, featuring one of Europe's most impressive cave systems. Borsod-Abaúj-Zemplén offers a fascinating blend of wild nature, centuries-old wine culture, and a rich historical heritage."
+  },
+  {
+    "id": "csongrad-csanad",
+    "nameEn": "Csongrád-Csanád",
+    "descEn": "Csongrád-Csanád County is located in the sunny south of Hungary on the border with Serbia and Romania, and is divided into two halves by the majestic river Tisza. The region is famous for its extremely high number of sunshine hours, making it the ideal location for growing the world-renowned Szeged paprika. Its cultural and economic center is Szeged, a prestigious university city famous for its stunning Votive Church, vibrant cultural scene, and unique Art Nouveau architecture. Csongrád-Csanád is also home to significant historical sites such as the Ópusztaszer National Heritage Park, where the Hungarian conquest is commemorated. The county offers a perfect blend of culinary delights, thermal relaxation, and deep-rooted Hungarian history."
+  },
+  {
+    "id": "fejer",
+    "nameEn": "Fejér",
+    "descEn": "Fejér County is located in the heart of Hungary, in the Central Transdanubia region, and is one of the country's most historically significant areas. Its administrative center is Székesfehérvár, the 'City of Kings', which served as the coronation and burial site for Hungarian monarchs during the Middle Ages. The county boasts diverse geographical features, ranging from the picturesque Lake Velence, one of Europe's warmest freshwater lakes, to the rolling hills of the Vértes Mountains. Fejér is now a dynamic economic hub with a strong industrial base, while simultaneously preserving its rich cultural traditions and architectural treasures. Visitors will find a fascinating blend of royal history, modern development, and relaxing natural experiences in this unique region."
+  },
+  {
+    "id": "gyor-moson-sopron",
+    "nameEn": "Győr-Moson-Sopron",
+    "descEn": "Győr-Moson-Sopron County is located in northwestern Hungary on the strategically important border with Austria and Slovakia. The region is considered the 'Gateway to the West' and is one of the most economically developed areas in the country. Its administrative center is Győr, the 'City of Rivers', famous for its stunning Baroque old town and significant industrial base. Another jewel of the region is Sopron, a city with a rich history and picturesque medieval architecture. Győr-Moson-Sopron is also home to UNESCO World Heritage sites such as the Pannonhalma Archabbey and Lake Fertő (Neusiedler See), making the county a premier destination for those interested in culture and nature."
+  },
+  {
+    "id": "hajdu-bihar",
+    "nameEn": "Hajdú-Bihar",
+    "descEn": "Hajdú-Bihar County is located in eastern Hungary on the border with Romania and is the heart of the Great Hungarian Plain (Alföld). The region is world-famous for the Hortobágy National Park, Europe's largest continuous natural grassland, which is a UNESCO World Heritage site and preserves traditional pastoral culture. Its administrative and cultural center is Debrecen, Hungary's second-largest city, often referred to as the 'Calvinist Rome', which has played a pivotal role in Hungarian history. Hajdú-Bihar is also a major hub for health tourism, particularly due to the Hajdúszoboszló spa, which boasts one of Europe's largest bathing complexes. The county offers visitors a unique combination of vast open spaces, deep-rooted traditions, and modern urban vibrancy."
+  },
+  {
+    "id": "heves",
+    "nameEn": "Heves",
+    "descEn": "Heves County is located in northern Hungary and is home to the country's highest peaks in the Mátra and Bükk Mountains. The region is famous for its breathtaking nature, world-class wines, and rich historical past. Its administrative center is Eger, one of Hungary's most beautiful Baroque cities, renowned for its heroic defense against the Ottomans and its impressive minaret. Heves also offers unique wellness experiences, such as the salt hill of Egerszalók, and is a paradise for hikers and nature lovers. The combination of alpine landscapes, historical depth, and excellent gastronomy makes Heves one of the most attractive regions for tourists."
+  },
+  {
+    "id": "jasz-nagykun-szolnok",
+    "nameEn": "Jász-Nagykun-Szolnok",
+    "descEn": "Jász-Nagykun-Szolnok County is located in the heart of the Great Hungarian Plain and is traversed by the majestic river Tisza. The region is characterized by vast agricultural landscapes and a rich cultural identity stemming from the settlement of the Jász (Iazyges) and Kun (Cumans) peoples. Its administrative center is Szolnok, a strategic city on the banks of the Tisza, famous for its bridges, aviation history, and vibrant art scene. Jász-Nagykun-Szolnok is also a major hub for thermal and water tourism, particularly through Lake Tisza, which offers diverse recreational opportunities. The county proudly preserves its unique traditions and offers visitors an authentic experience of the Hungarian lowlands."
+  },
+  {
+    "id": "komarom-esztergom",
+    "nameEn": "Komárom-Esztergom",
+    "descEn": "Komárom-Esztergom County is the smallest by area, yet one of the most historically and economically significant counties in Hungary. It is located in the north of the country along the Danube, which forms the natural border with Slovakia. Its administrative center is Tatabánya, while Esztergom, as the former capital and seat of the Hungarian Primate, represents the spiritual and historical heart of the region. The landscape is characterized by the picturesque Danube Bend and the mountain ranges of Gerecse and Pilis, offering numerous opportunities for hiking and nature experiences. Komárom-Esztergom combines monumental sacral architecture, significant Roman excavations, and state-of-the-art industry within a compact area."
+  },
+  {
+    "id": "nograd",
+    "nameEn": "Nógrád",
+    "descEn": "Nógrád County is located in northern Hungary on the border with Slovakia and is known as the 'Land of Castles'. The region is characterized by wild and romantic hilly landscapes, dense forests, and an exceptionally rich folk culture. Its administrative center is Salgótarján, a city with a significant mining history, picturesquely nestled in a valley. Nógrád is home to Hollókő, a living museum village that was the first Hungarian village to be declared a UNESCO World Heritage site, preserving the traditions of the Palóc people. The county offers a unique blend of untouched nature, medieval fortresses, and authentic rural life that transports visitors back in time."
+  },
+  {
+    "id": "pest",
+    "nameEn": "Pest",
+    "descEn": "Pest County surrounds the Hungarian capital, Budapest, and is the most populous and economically dynamic county in the country. The region offers exceptional diversity, ranging from the picturesque mountains of Pilis and Börzsöny to the vast plains of the Great Hungarian Plain. Its administrative center is located in Budapest, although the city itself forms a separate administrative region. Pest is rich in historical treasures, such as the Royal Palace in Gödöllő and the ancient town of Visegrád on the Danube Bend. The county serves as Hungary's most important transport hub and economic engine, while simultaneously providing numerous recreational areas and cultural highlights for residents and tourists alike."
+  },
+  {
+    "id": "somogy",
+    "nameEn": "Somogy",
+    "descEn": "Somogy County is located in southwestern Hungary, stretching from the southern shore of Lake Balaton to the Croatian border at the river Drava. The region is characterized by dense forests, rolling hills, and the country's most popular holiday resorts. Its administrative center is Kaposvár, a city with a charming atmosphere and a significant cultural tradition. Somogy is a paradise for nature lovers and water sports enthusiasts alike, offering both the vibrant 'Riviera' of Lake Balaton and the untouched wilderness of the Zselic hills. The county is also famous for its rich hunting traditions, world-class wines from the South Balaton wine region, and warm rural hospitality."
+  },
+  {
+    "id": "szabolcs-szatmar-bereg",
+    "nameEn": "Szabolcs-Szatmár-Bereg",
+    "descEn": "Szabolcs-Szatmár-Bereg County is located in the far northeast of Hungary and is the only region in the country that borders three different states: Slovakia, Ukraine, and Romania. The region is famous for its untouched nature along the Upper Tisza, its extensive fruit orchards, and its unique medieval churches with wooden bell towers. Its administrative center is Nyíregyháza, a dynamic city renowned for its world-class zoo and the popular Sóstófürdő spa. Szabolcs-Szatmár-Bereg preserves deep folk traditions and offers visitors an authentic atmosphere where history, nature, and rural hospitality merge in a unique way."
+  },
+  {
+    "id": "tolna",
+    "nameEn": "Tolna",
+    "descEn": "Tolna County is located in the south-central part of Hungary, on the right bank of the Danube, and is a region of quiet beauty and rich traditions. The landscape is characterized by the rolling hills of the Tolna Uplands and the fertile plains along the Danube. Its administrative center is Szekszárd, a city world-famous for its premium red wines and deep literary roots. Tolna is also home to the Gemenc Forest, Central Europe's largest continuous floodplain forest, which is a paradise for nature photographers and hunters. The county offers a luxurious blend of excellent wine culture, untouched river landscapes, and the rich heritage of the Danube Swabians."
+  },
+  {
+    "id": "vas",
+    "nameEn": "Vas",
+    "descEn": "Vas County is located in the far west of Hungary on the border with Austria and Slovenia, and is a region of exceptional natural beauty and historical significance. The landscape is characterized by the foothills of the Alps, dense forests, and abundant thermal springs. Its administrative center is Szombathely, one of Hungary's oldest cities, boasting a significant Roman past as Savaria. Vas is world-famous for its premium spas such as Bükfürdő and Sárvár, as well as its picturesque historic towns like Kőszeg. The county offers a perfect combination of alpine freshness, Roman heritage, and modern wellness culture, making it an ideal destination for relaxation and history enthusiasts."
+  },
+  {
+    "id": "veszprem",
+    "nameEn": "Veszprém",
+    "descEn": "Veszprém County is located in the heart of Transdanubia, encompassing the northern shore of Lake Balaton and the picturesque Bakony Mountains. The region is known for its exceptional geographical diversity, ranging from volcanic hills to dense forests and the sparkling waters of Lake Balaton. Its administrative center is Veszprém, the 'City of Queens', built on five hills and possessing a rich medieval history. Veszprém is world-famous for its wine regions, particularly the Balaton Uplands and Badacsony, as well as for its cultural treasures like the Tihany Abbey. The county offers a unique blend of historical elegance, natural beauty, and high-quality recreational opportunities, making it one of Hungary's most popular tourist destinations."
+  },
+  {
+    "id": "zala",
+    "nameEn": "Zala",
+    "descEn": "Zala County is located in southwestern Hungary on the border with Austria, Slovenia, and Croatia, and is a region of exceptional natural diversity. The landscape is characterized by the rolling hills of the Zala Uplands, dense forests, and the western end of Lake Balaton. Its administrative center is Zalaegerszeg, a city with a relaxed atmosphere and significant cultural institutions such as the Göcsej Village Museum. Zala is world-famous for the Hévíz thermal lake, the world's largest biologically active natural thermal lake, as well as for the popular resort town of Keszthely with the magnificent Festetics Palace. The county offers a perfect blend of thermal healing power, historical splendor, and untouched nature, making it an ideal destination for wellness and culture."
+  },
+  {
+    "id": "budapest-city",
+    "nameEn": "Budapest",
+    "descEn": "Budapest, the capital of Hungary, is one of Europe's most stunning metropolises, often referred to as the 'Pearl of the Danube.' The city was formed in 1873 by the unification of Buda, Pest, and Óbuda, offering a unique blend of history, culture, and modern lifestyle. Visitors can enjoy the majestic Parliament Building, the historic Fisherman's Bastion, and numerous world-famous thermal baths. The banks of the Danube, the Buda Castle District, and Andrássy Avenue are all part of the UNESCO World Heritage list."
+  },
+  {
+    "id": "budai-var",
+    "nameEn": "Buda Castle",
+    "descEn": "Buda Castle is a historical castle and a monumental palace complex of the Hungarian kings in Budapest, majestically overlooking the Danube. The entire Castle District is a UNESCO World Heritage site and is one of Hungary's most significant cultural and historical centers. The complex includes magnificent buildings such as the Royal Palace, Matthias Church, and the Fisherman's Bastion, all of which bear witness to the country's turbulent history. Visitors can stroll through medieval alleys, explore impressive museums, and enjoy one of the most beautiful panoramic views of the city's Pest side. Buda Castle combines Gothic, Renaissance, and Baroque architecture into a unique ensemble that attracts millions of tourists annually."
+  },
+  {
+    "id": "orszaghaz",
+    "nameEn": "Parliament Building",
+    "descEn": "The Hungarian Parliament Building, also known as Országház, is one of Budapest's most iconic landmarks and a masterpiece of Neo-Gothic architecture. Majestically situated on the Pest bank of the Danube, it is the third-largest parliament building in the world. Designed by Imre Steindl and fully inaugurated in 1902, it impresses visitors with its symmetrical facade, monumental dome, and rich interior decorated with gold and frescoes. The building houses the Hungarian Crown Jewels, including the Holy Crown of Saint Stephen, and serves as the seat of the National Assembly of Hungary. As part of the UNESCO World Heritage site, it attracts countless visitors annually who admire its architectural splendor and historical significance."
+  },
+  {
+    "id": "hosok-tere",
+    "nameEn": "Heroes' Square",
+    "descEn": "Heroes' Square is one of the most significant and most visited squares in Budapest, forming the monumental conclusion of Andrássy Avenue. The centerpiece of the square is the Millennium Monument, which was commissioned in 1896 to commemorate the thousandth anniversary of the Hungarian conquest. It features the statues of the seven chieftains of the Magyars and prominent figures of Hungarian history within a semicircular colonnade. The square is flanked by two magnificent buildings: the Museum of Fine Arts and the Palace of Art (Műcsarnok). As part of the UNESCO World Heritage site, Heroes' Square is a symbol of national pride and a central location for state celebrations and cultural events."
+  },
+  {
+    "id": "dunapart",
+    "nameEn": "Danube Promenade",
+    "descEn": "The Danube bank in Budapest is one of the most spectacular urban landscapes in the world and is a UNESCO World Heritage site. The promenade stretches between the Chain Bridge and the Elizabeth Bridge on the Pest side, offering unparalleled views of Buda Castle, Gellért Hill, and the Parliament building. Along the shore, numerous historical monuments, elegant hotels, and cozy cafes invite visitors to linger. Particularly moving is the 'Shoes on the Danube Bank' memorial, which commemorates the victims of the Holocaust. The Danube bank is not only a place of history but also a vibrant meeting point for locals and tourists alike, who wish to experience the magical atmosphere of the city by the river."
+  },
+  {
+    "id": "margitsziget",
+    "nameEn": "Margaret Island",
+    "descEn": "Margaret Island is a green oasis in the middle of the Danube in the heart of Budapest, serving as the city's most important recreational area. The nearly three-kilometer-long island is largely car-free and offers a relaxed atmosphere with extensive parks, centuries-old trees, and medieval ruins. Visitors can find numerous attractions here, such as the musical fountain, the Japanese garden, and the popular Palatinus strand bath. The island is named after Saint Margaret, the daughter of King Béla IV, who lived in a Dominican convent on the island in the 13th century. Whether for jogging, strolling, or attending cultural events at the Open-Air Theater, Margaret Island is an essential part of the Budapest experience."
+  },
+  {
+    "id": "varosliget",
+    "nameEn": "City Park",
+    "descEn": "The City Park (Városliget) is one of the world's first public parks, offering a diverse range of recreational activities in the heart of Budapest. Spanning over 100 hectares, the park features a unique blend of nature, culture, and entertainment. Its most famous attractions include Vajdahunyad Castle, the monumental Széchenyi Thermal Bath, and the Budapest Zoo and Botanical Garden. In winter, the park's lake transforms into one of Europe's largest and most beautiful artificial ice rinks. Under the Liget Budapest project, the park is being revitalized and has been enriched with world-class buildings such as the Museum of Ethnography and the House of Hungarian Music."
+  },
+  {
+    "id": "andrassy-ut",
+    "nameEn": "Andrássy Avenue",
+    "descEn": "Andrássy Avenue is the most elegant boulevard in Budapest and has been a UNESCO World Heritage site since 2002. It connects the city center with Heroes' Square and is lined with magnificent villas, exclusive boutiques, and significant cultural institutions such as the Hungarian State Opera House. The avenue was developed in the late 19th century, modeled after Parisian boulevards, reflecting the golden age of the Austro-Hungarian Monarchy. Beneath Andrássy Avenue runs the historic Millennium Underground Railway (M1), the first electric underground line in continental Europe. A stroll along this grand avenue offers a fascinating insight into Historicist architecture and the pulsating life of the Hungarian capital."
+  },
+  {
+    "id": "nyugati-palyaudvar",
+    "nameEn": "Nyugati Railway Station",
+    "descEn": "The Nyugati Railway Station (West Station) is one of Budapest's most architecturally stunning buildings and a prominent monument of railway history. The current building was designed by Gustave Eiffel's company and inaugurated in 1877. Particularly impressive is the station's monumental iron and glass hall, which was a technical feat at the time of its construction. Located at Nyugati Square, the station serves as a major hub for national and international rail traffic, as well as for the city's public transport. Beyond its functional significance, the station also houses one of the world's most beautiful McDonald's restaurants, located in a former elegant waiting room."
+  },
+  {
+    "id": "lanchid",
+    "nameEn": "Chain Bridge",
+    "descEn": "The Széchenyi Chain Bridge is the oldest and most famous bridge across the Danube in Budapest and a symbol of the Hungarian capital. Inaugurated in 1849, it was the first permanent connection between the cities of Buda and Pest, playing a crucial role in the unification of the city. The bridge was built on the initiative of Count István Széchenyi, based on the designs of English engineer William Tierney Clark. With its characteristic lion statues at the bridgeheads and its elegant chain construction, it is a masterpiece of 19th-century engineering. As part of the UNESCO World Heritage site, the Chain Bridge offers one of the city's most romantic walking routes with a breathtaking view of the Budapest panorama."
+  },
+  {
+    "id": "pecs",
+    "nameEn": "Pécs",
+    "descEn": "Pécs, located in southwestern Hungary at the foot of the Mecsek Mountains, is a city with a history spanning over 2,000 years. Founded by the Romans as Sopianae, the city is known for its Mediterranean atmosphere and rich cultural heritage. Particularly noteworthy are the Early Christian Necropolis, a UNESCO World Heritage site, and the iconic Mosque of Pasha Qasim. Pécs was a European Capital of Culture in 2010 and is home to the world-famous Zsolnay Porcelain Manufactory."
+  },
+  {
+    "id": "siklos",
+    "nameEn": "Siklós",
+    "descEn": "City in southern Hungary, famous for its well-preserved castle."
+  },
+  {
+    "id": "mohacs",
+    "nameEn": "Mohács",
+    "descEn": "City on the Danube, known for the Battle of Mohács and the Busójárás festival."
+  },
+  {
+    "id": "villany",
+    "nameEn": "Villány",
+    "descEn": "Center of one of Hungary's most famous red wine regions."
+  },
+  {
+    "id": "kecskemet",
+    "nameEn": "Kecskemét",
+    "descEn": "Kecskemét, located in the heart of the Great Hungarian Plain, is famous for its magnificent Art Nouveau architecture and its orchards. The city is the birthplace of composer Zoltán Kodály and home to the renowned Kodály Institute. The cityscape is defined by colorful buildings such as the Cifra Palace and the City Hall. Kecskemét is world-famous for its apricot brandy (Barackpálinka) and is a major center for the Hungarian food industry and automotive production."
+  },
+  {
+    "id": "kalocsa",
+    "nameEn": "Kalocsa",
+    "descEn": "One of the oldest cities in Hungary, famous for paprika and folk art."
+  },
+  {
+    "id": "kiskunmajsa",
+    "nameEn": "Kiskunmajsa",
+    "descEn": "Small town in the Great Plain, known for its thermal bath."
+  },
+  {
+    "id": "bekescsaba",
+    "nameEn": "Békéscsaba",
+    "descEn": "Békéscsaba, located in southeastern Hungary, is world-famous for its culinary traditions, particularly the Csabai sausage. The city serves as the cultural center for the Slovak minority in Hungary and charms visitors with its peaceful atmosphere and wide squares. Visitors can explore the Munkácsy Mihály Museum, dedicated to the famous Hungarian painter, or experience the annual Sausage Festival, which attracts thousands of guests. The surrounding area also offers excellent conditions for agriculture and nature tourism."
+  },
+  {
+    "id": "gyula",
+    "nameEn": "Gyula",
+    "descEn": "Historic spa town near the Romanian border."
+  },
+  {
+    "id": "szarvas",
+    "nameEn": "Szarvas",
+    "descEn": "City on the Körös river, known for its arboretum."
+  },
+  {
+    "id": "miskolc",
+    "nameEn": "Miskolc",
+    "descEn": "Miskolc, the fourth largest city in Hungary, is located in the northeastern part of the country at the eastern edge of the Bükk Mountains. While a major industrial center, the city has also evolved into a popular tourist destination. It is particularly famous for the Miskolctapolca district and its unique Cave Bath, where thermal water flows through natural limestone caverns. The historic Diósgyőr Castle and the picturesque area of Lillafüred with Lake Hámori make Miskolc a diverse travel destination."
+  },
+  {
+    "id": "szerencs",
+    "nameEn": "Szerencs",
+    "descEn": "The 'Gateway to Tokaj', known for its chocolate factory."
+  },
+  {
+    "id": "tokaj",
+    "nameEn": "Tokaj",
+    "descEn": "Center of the historic Tokaj wine region, famous for sweet wines."
+  },
+  {
+    "id": "aggtelek",
+    "nameEn": "Aggtelek",
+    "descEn": "National park, famous for its extensive stalactite cave system."
+  },
+  {
+    "id": "szeged",
+    "nameEn": "Szeged",
+    "descEn": "Szeged, known as the 'City of Sunshine,' is located in southern Hungary at the confluence of the Maros and Tisza rivers. The city was almost entirely rebuilt in an eclectic style after the devastating flood of 1879, resulting in a spacious and harmonious cityscape. Its landmark is the impressive Votive Church on Cathedral Square, which hosts the famous Open-Air Festival every summer. Szeged is also world-famous for its Pick salami, paprika, and delicious fish soup."
+  },
+  {
+    "id": "hodmezovasarhely",
+    "nameEn": "Hódmezővásárhely",
+    "descEn": "City in southern Hungary with a rich agricultural tradition."
+  }
+]

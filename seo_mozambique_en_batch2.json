@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ressano-garcia-cities-v2",
+      "descriptionAdvanced": "Ressano Garcia is the primary border town connecting Maputo Province in Mozambique to the Mpumalanga Province in South Africa. Serving as the busiest land crossing in the country, it sits strategically on the EN4 toll highway and the vital Maputo Development Corridor railway. The town's daily life revolves around logistics, customs administration, and cross-border trade, facilitating the massive flow of minerals, agricultural goods, and tourists. Named after a Portuguese engineer, it also serves as an entry point for thousands of Mozambican migrant workers commuting to South African mines. Geography K7 — Border logistics, economic corridors, and migration.",
+      "factsAdvanced": [
+        "The busiest land border crossing in Mozambique.",
+        "Situated on the EN4 toll highway connecting Maputo to Pretoria.",
+        "A critical node on the Maputo Development Corridor railway.",
+        "Named after Portuguese railway engineer Frederico Ressano Garcia.",
+        "Located approximately 90 km west of the capital Maputo.",
+        "Facilitates the movement of millions of tons of cargo annually."
+      ]
+    },
+    {
+      "id": "moatize-cities-v2",
+      "descriptionAdvanced": "Moatize is the undisputed coal mining capital of Mozambique, located in Tete Province near the Zambezi River. The town sits atop one of the largest untapped coal reserves in the world, the Moatize Basin. Since massive extraction operations began in the 2010s by international conglomerates, Moatize has experienced explosive demographic and infrastructural growth. The coal extracted here is primarily transported via the reconstructed Sena Railway to the port of Beira and the Nacala corridor. The town serves as a stark example of rapid industrialization driven by global energy demands. Geography K8 — Fossil fuels, industrial geology, and resource-driven urbanization.",
+      "factsAdvanced": [
+        "Sits atop the massive Moatize Basin coal reserves.",
+        "Located roughly 20 km east of the provincial capital, Tete.",
+        "Connected to the deep-water Nacala port via a 912 km railway.",
+        "Experienced massive population growth due to the mining boom.",
+        "Major operations were historically led by the Brazilian giant Vale.",
+        "Produces high-quality metallurgical and thermal coal."
+      ]
+    },
+    {
+      "id": "ulongue-cities-v2",
+      "descriptionAdvanced": "Ulongué is the administrative center of the Angónia District, situated on a high, fertile plateau in northern Tete Province near the Malawian border. Benefiting from a cool, temperate climate and abundant rainfall, the town is a major agricultural hub, widely known as the 'breadbasket' of Tete. Local farmers produce immense quantities of maize, potatoes, and beans, which supply markets both domestically and across the border in Malawi. The town's vibrant market and cross-border trade highlight its role in regional food security. Geography K7 — Plateau agriculture, border economies, and food security.",
+      "factsAdvanced": [
+        "Capital of the Angónia District in Tete Province.",
+        "Located on a high plateau offering a cooler, temperate climate.",
+        "Regarded as one of the most productive agricultural areas in the region.",
+        "A major producer of maize, beans, and Irish potatoes.",
+        "Strategically located near the Dedza border crossing with Malawi.",
+        "Its altitude often exceeds 1,200 meters above sea level."
+      ]
+    },
+    {
+      "id": "catandica-cities-v2",
+      "descriptionAdvanced": "Nestled near the spectacular Eastern Highlands of Manica Province, Catandica serves as an important agricultural and transit town. Originally established as Vila Gouveia during the colonial period, the town is the capital of the Báruè District. It is situated on the EN258 highway, acting as a critical junction for traffic moving north towards Tete and south towards Chimoio. The surrounding fertile valleys are intensely cultivated, producing crops like maize, sunflower, and tobacco, while the nearby mountains offer immense potential for eco-tourism. Geography K7 — Mountain valleys, transit towns, and agriculture.",
+      "factsAdvanced": [
+        "Known as Vila Gouveia until Mozambique's independence.",
+        "Capital of the Báruè District in Manica Province.",
+        "Located near the mountainous border with Zimbabwe.",
+        "Acts as a key transit town between Tete and Chimoio.",
+        "Surrounding region is known for tobacco and sunflower cultivation.",
+        "The town is heavily influenced by the local Shona-speaking culture."
+      ]
+    },
+    {
+      "id": "gondola-cities-v2",
+      "descriptionAdvanced": "Gondola is a pivotal railway and highway junction town in Manica Province, located along the strategic Beira corridor. Positioned between Chimoio and Nhamatanda, the town thrives on transit logistics, serving heavy freight moving between the port of Beira and landlocked Zimbabwe. Beyond transportation, Gondola is an expanding agricultural center surrounded by large commercial farms and timber processing facilities. Its economy reflects the dynamic blend of transport-driven services and agro-industry that characterizes central Mozambique's main corridor. Geography K7 — Transport corridors, rail junctions, and agro-industry.",
+      "factsAdvanced": [
+        "Located in the Manica Province along the Beira corridor.",
+        "A vital junction town on the Beira-Bulawayo railway line.",
+        "Situated on the EN6 national highway.",
+        "Economy is strongly tied to transit services and timber processing.",
+        "Population of the district exceeds 200,000.",
+        "Surrounding lands are heavily utilized for commercial farming."
+      ]
+    },
+    {
+      "id": "manica-cities-v2",
+      "descriptionAdvanced": "The town of Manica, sharing its name with the surrounding province, is located just a few kilometers from the Machipanda border crossing with Zimbabwe. Historically a major center for gold panning and trading, its economy today relies heavily on cross-border logistics, agriculture, and the extraction of local minerals. Surrounded by stunning mountainous terrain, including Mount Vumba, Manica features a distinctly cooler climate and picturesque landscapes. It serves as the primary entry point for goods traveling via the EN6 highway into Mozambique from southern Africa. Geography K8 — Border geography, mountain climates, and trade routes.",
+      "factsAdvanced": [
+        "Located roughly 20 km from the Machipanda border with Zimbabwe.",
+        "Historically significant for alluvial gold mining.",
+        "Surrounded by the scenic Vumba Mountains.",
+        "Features a cooler climate due to its elevated topography.",
+        "A major transit point on the EN6 trade corridor.",
+        "Known for citrus farming and local mineral trading."
+      ]
+    },
+    {
+      "id": "nhamatanda-cities-v2",
+      "descriptionAdvanced": "Nhamatanda is a bustling district capital situated in Sofala Province along the strategic EN6 highway and the railway connecting Beira to Zimbabwe. Formerly known as Vila Machado, it sits at the transition zone between the coastal plains and the central highlands. The town's location makes it a critical logistical hub for agricultural products moving to the coast. Sadly, Nhamatanda was severely impacted by the massive flooding caused by Cyclone Idai in 2019, highlighting its vulnerability as a lowland transit center. Geography K7 — Floodplains, transit hubs, and disaster resilience.",
+      "factsAdvanced": [
+        "Known as Vila Machado during the Portuguese colonial era.",
+        "Located roughly 100 km west of the port city of Beira.",
+        "A key stop on the EN6 highway and the Beira railway corridor.",
+        "The district was heavily devastated by Cyclone Idai in March 2019.",
+        "Serves as an agricultural market center for the surrounding plains.",
+        "Transition zone leading into the central highlands."
+      ]
+    },
+    {
+      "id": "gorongosa-cities-v2",
+      "descriptionAdvanced": "The town of Gorongosa, located in Sofala Province, is synonymous with the world-famous Gorongosa National Park, which lies just to its north. Serving as the primary gateway for conservationists, researchers, and tourists, the town is a hub for eco-tourism and community-based agricultural projects initiated to support the park's restoration. Nestled near the stunning Mount Gorongosa, the town produces coffee and shade-grown crops as part of sustainable development efforts. The town's revival runs parallel to the spectacular ecological recovery of the nearby park. Geography K8 — Eco-tourism, conservation geography, and sustainable agriculture.",
+      "factsAdvanced": [
+        "The primary gateway town to the Gorongosa National Park.",
+        "Located near Mount Gorongosa, which rises to 1,862 meters.",
+        "The area produces high-quality, shade-grown Gorongosa coffee.",
+        "A major focal point for community-based conservation projects.",
+        "Situated in Sofala Province along the EN1 highway route.",
+        "Heavily impacted by both the civil war and recent cyclones."
+      ]
+    },
+    {
+      "id": "metangula-cities-v2",
+      "descriptionAdvanced": "Metangula is a picturesque town on the eastern shores of Lake Niassa (Lake Malawi), serving as the capital of the Lago District in Niassa Province. Historically a small fishing village, it has grown into a vital administrative and naval center for Mozambique's lake operations. The town's economy is deeply connected to artisanal fishing, particularly the trade of endemic cichlid fish. With its stunning freshwater beaches and dramatic mountainous backdrop, Metangula is slowly emerging as a destination for off-the-beaten-path eco-tourism. Geography K7 — Rift valley lakes, freshwater ecosystems, and remote administration.",
+      "factsAdvanced": [
+        "Located on the eastern shore of Lake Niassa (Lake Malawi).",
+        "Capital of the Lago District in Niassa Province.",
+        "The economy is heavily reliant on artisanal freshwater fishing.",
+        "Serves as a base for the Mozambican naval presence on the lake.",
+        "Located roughly 110 km northwest of the provincial capital, Lichinga.",
+        "Features a deep natural bay surrounded by steep hills."
+      ]
+    },
+    {
+      "id": "pebane-cities-v2",
+      "descriptionAdvanced": "Pebane is a remote coastal town located in the northern reaches of Zambezia Province, situated at the mouth of the Moniga River. Historically an important colonial port for exporting copra and timber, its deep-water access remains a focal point for the region's massive artisanal fishing industry. Pebane is surrounded by extensive mangrove ecosystems and pristine, largely untouched beaches. In recent years, the area has attracted interest for heavy mineral sands exploration, though it remains predominantly defined by its traditional maritime and agricultural roots. Geography K7 — Coastal estuaries, mangrove ecosystems, and traditional fishing.",
+      "factsAdvanced": [
+        "Situated on the coast of northern Zambezia Province.",
+        "Historically a significant port for the export of copra.",
+        "Located at the mouth of the Moniga River estuary.",
+        "The local economy relies on artisanal fishing and agriculture.",
+        "The district contains massive, highly intact mangrove forests.",
+        "Accessible via a long dirt road from the provincial center, Quelimane."
+      ]
+    },
+    {
+      "id": "maganja-da-costa-cities-v2",
+      "descriptionAdvanced": "Maganja da Costa is a coastal district capital in Zambezia Province, known for its extensive palm plantations and rich agricultural lands. Situated near the Indian Ocean, the town has long been a center for copra (coconut) production, a legacy of large-scale colonial-era agribusiness. The fertile coastal plains surrounding the town also support significant rice and cassava farming. Despite its agricultural productivity, the town faces challenges related to infrastructure and seasonal flooding from the complex network of rivers that empty into the ocean nearby. Geography K7 — Coastal agriculture, plantation legacies, and floodplains.",
+      "factsAdvanced": [
+        "Capital of the Maganja da Costa District in Zambezia Province.",
+        "Historically dominated by massive coconut palm plantations.",
+        "Located inland from the coast but deeply tied to the maritime climate.",
+        "A major regional producer of rice and cassava.",
+        "Prone to seasonal flooding during heavy cyclonic rains.",
+        "Features colonial-era administrative buildings."
+      ]
+    },
+    {
+      "id": "morrumbala-cities-v2",
+      "descriptionAdvanced": "Morrumbala is a district capital in Zambezia Province, situated in the fertile Shire River valley near the border with Malawi. The town is geographically defined by the imposing Mount Morrumbala, which rises sharply from the surrounding plains and creates its own microclimate. The area is highly productive agriculturally, yielding large quantities of cotton, maize, and beans. Due to its location near the confluence of major river systems flowing into the Zambezi, it acts as a critical trading center for remote farming communities. Geography K7 — River valleys, isolated mountains, and agricultural trade.",
+      "factsAdvanced": [
+        "Capital of the Morrumbala District in Zambezia Province.",
+        "Dominated by Mount Morrumbala, which stands over 1,100 meters high.",
+        "Located near the Shire River, close to the Malawian border.",
+        "A key regional producer of cotton and staple food crops.",
+        "Historically significant during Mozambique's civil war.",
+        "Functions as a central market hub for isolated farming villages."
+      ]
+    },
+    {
+      "id": "namapa-cities-v2",
+      "descriptionAdvanced": "Namapa is a crucial district capital in the northern part of Nampula Province, specifically serving the Eráti District. Positioned along the Lúrio River, which forms the natural border with Cabo Delgado Province, the town acts as a strategic transit and commercial hub. It is heavily involved in the agricultural trade, particularly the aggregation and processing of cotton, which is a massive cash crop in the region. Namapa's location on the main north-south highway makes it a vital logistical node connecting the two northern provinces. Geography K7 — River borders, transit hubs, and cotton production.",
+      "factsAdvanced": [
+        "Capital of the Eráti District in Nampula Province.",
+        "Situated near the banks of the Lúrio River.",
+        "The Lúrio River marks the border between Nampula and Cabo Delgado.",
+        "A major regional center for cotton farming and processing.",
+        "Acts as a critical transit stop on the main EN8 highway.",
+        "The local population relies heavily on subsistence and cash crop agriculture."
+      ]
+    },
+    {
+      "id": "ribaue-cities-v2",
+      "descriptionAdvanced": "Ribáuè is a picturesque railway town located in western Nampula Province, nestled among massive, dramatic inselbergs (granite rock formations) that dominate the landscape. Originally developed as a key station on the Nacala Railway connecting the coast to Malawi, the town remains an essential agricultural center. The fertile soils surrounding the rock formations support the cultivation of maize, tobacco, and beans. The stunning topography, particularly Mount Ribáuè, makes it one of the most visually striking towns along the northern transport corridor. Geography K8 — Inselberg geology, railway towns, and highland agriculture.",
+      "factsAdvanced": [
+        "Located on the strategic Nacala Railway corridor.",
+        "Surrounded by massive granite inselbergs, notably Mount Ribáuè.",
+        "Capital of the Ribáuè District in Nampula Province.",
+        "A key agricultural hub for maize and tobacco production.",
+        "The unique topography creates favorable microclimates for farming.",
+        "Located roughly 130 km west of Nampula city."
+      ]
+    },
+    {
+      "id": "ilha-de-mocambique-cities-v2",
+      "descriptionAdvanced": "The Island of Mozambique (Ilha de Moçambique) is a breathtaking UNESCO World Heritage site and the former capital of Portuguese East Africa. Located off the coast of Nampula Province and connected by a 3.8-kilometer bridge, this tiny crescent-shaped island is a dense labyrinth of coral-stone Swahili architecture and grand Portuguese colonial buildings. Divided into the historic 'Stone Town' and the vibrant 'Macuti Town', it was a central node for the global spice, gold, and slave trades for over four centuries. Today, it stands as a living museum of Indian Ocean history. History K8 — Indian Ocean trade, colonial capitals, and architectural heritage.",
+      "factsAdvanced": [
+        "Served as the capital of Portuguese East Africa until 1898.",
+        "Designated as a UNESCO World Heritage site in 1991.",
+        "Connected to the mainland by a 3.8 km single-lane concrete bridge.",
+        "Features the imposing Fort of São Sebastião, built in 1558.",
+        "The Chapel of Nossa Senhora de Baluarte (1522) is the oldest European building in the southern hemisphere.",
+        "The island is only 3 km long and up to 500 meters wide."
+      ]
+    },
+    {
+      "id": "malema-cities-v2",
+      "descriptionAdvanced": "Malema is the westernmost district capital in Nampula Province, situated near the border with Niassa Province. Located along the Nacala Railway corridor, it is an essential transit and agricultural center surrounded by rolling hills and rugged granite peaks. Malema is widely known for its fertile soils, making it one of the province's highest producers of maize, tobacco, and onions. Its strategic position on the railway ensures that local produce can be efficiently transported to the port of Nacala or exported westward to landlocked Malawi. Geography K7 — Rail corridors, agricultural hubs, and regional borders.",
+      "factsAdvanced": [
+        "Located in the far west of Nampula Province, bordering Niassa.",
+        "A vital station on the 912 km Nacala Railway.",
+        "Known as one of the most fertile agricultural districts in Nampula.",
+        "Major crops include tobacco, maize, and onions.",
+        "Surrounded by spectacular granite inselberg formations.",
+        "Acts as a primary collection point for regional cash crops."
+      ]
+    },
+    {
+      "id": "nampula-a-velha-cities-v2",
+      "descriptionAdvanced": "Nampula-a-Velha (Old Nampula) is a historic district near the modern city of Nampula. It represents the original site of the settlement before the massive expansion of the modern city layout during the mid-20th century. While much of the administrative and commercial focus shifted to the new city center along the railway lines, Nampula-a-Velha retains traditional Makua cultural elements and older, informal architectural styles. Today, it functions as a densely populated, vibrant suburban zone that supports the massive informal economy feeding the greater Nampula metropolitan area. Geography K7 — Urban expansion, historical settlements, and informal economies.",
+      "factsAdvanced": [
+        "Represents the original settlement area of Nampula.",
+        "Predates the mid-20th century modernist urban planning of the city core.",
+        "Functions today as a densely populated suburban district.",
+        "Deeply rooted in traditional Makua culture and daily commerce.",
+        "Characterized by informal markets and traditional housing.",
+        "Integrated into the greater Nampula metropolitan economy."
+      ]
+    },
+    {
+      "id": "chiure-cities-v2",
+      "descriptionAdvanced": "Chiúre is the most populous district in Cabo Delgado Province and its capital town serves as a bustling commercial center. Located south of Pemba near the Lúrio River border, the town is a crucial node for agricultural trading, primarily dealing in cotton, cashew nuts, and maize. In recent years, Chiúre has experienced rapid demographic changes, acting as a major refuge and transit point for populations displaced by the security conflicts in the northern districts. Its vibrant markets reflect its role as the agricultural heartland of southern Cabo Delgado. Geography K7 — Internal migration, agricultural markets, and demographic shifts.",
+      "factsAdvanced": [
+        "Capital of the most populous district in Cabo Delgado Province.",
+        "Located along the main EN8 highway south of Pemba.",
+        "A major regional trading hub for cashew nuts and cotton.",
+        "Has become a critical safe haven for internally displaced persons (IDPs).",
+        "Positioned just north of the Lúrio River boundary.",
+        "The local economy is predominantly driven by subsistence farming."
+      ]
+    },
+    {
+      "id": "mueda-cities-v2",
+      "descriptionAdvanced": "Perched on the high Mueda Plateau in northern Cabo Delgado Province, Mueda is the cultural heartland of the Makonde people, famous worldwide for their intricate, surreal wood carvings. The town holds deep historical significance as the site of the 1960 Mueda Massacre, a catalyst for the Mozambican War of Independence. Because of its elevated, strategic position, it has long served as a military and administrative stronghold. Today, it remains a center for Makonde culture, agriculture, and a critical logistical base in the ongoing regional security efforts. History K8 — African independence movements, cultural geography, and indigenous art.",
+      "factsAdvanced": [
+        "Located on the Mueda Plateau at an elevation of around 800 meters.",
+        "The cultural epicenter of the Makonde ethnic group.",
+        "Site of the June 16, 1960 Mueda Massacre, which sparked the independence war.",
+        "Famous for the creation of intricate 'Shetani' ebony wood carvings.",
+        "Historically served as the headquarters for FRELIMO forces during the liberation war.",
+        "Currently a strategic military and administrative hub in northern Mozambique."
+      ]
+    },
+    {
+      "id": "ibo-cities-v2",
+      "descriptionAdvanced": "Ibo Town, located on Ibo Island within the Quirimbas Archipelago, is a hauntingly beautiful, semi-abandoned colonial settlement. For centuries, it was the second most important Portuguese trading post in East Africa after Ilha de Moçambique, heavily involved in the ivory and slave trades. The town features massive star-shaped forts, such as the Fort of São João Baptista, and decaying colonial mansions draped in strangler figs. Today, Ibo is a quiet fishing community and an emerging destination for cultural eco-tourism, famous for its traditional silversmiths who craft intricate jewelry from old coins. History K8 — Swahili coast history, colonial forts, and island trading posts.",
+      "factsAdvanced": [
+        "Located on Ibo Island in the Quirimbas Archipelago.",
+        "Historically the second most vital Portuguese port in Mozambique.",
+        "Home to three major historic forts, notably São João Baptista (1791).",
+        "Famous for traditional Makonde silversmiths working with ancient techniques.",
+        "Accessible only by boat or light aircraft from the mainland.",
+        "Suffered extensive damage from Cyclone Kenneth in 2019."
+      ]
+    },
+    {
+      "id": "palma-cities-v2",
+      "descriptionAdvanced": "Palma is a coastal town in the far north of Cabo Delgado Province, near the Rovuma River border with Tanzania. Historically a remote fishing and weaving village, Palma was thrust into the global spotlight following the discovery of massive offshore natural gas reserves in the Rovuma Basin. The town became the center of Africa's largest foreign direct investment project, intended to process liquefied natural gas (LNG). However, severe insurgent attacks in 2021 halted development and displaced thousands, making Palma a stark symbol of the complex intersection between global energy resources and regional security. Geography K8 — Resource curses, LNG infrastructure, and geopolitics.",
+      "factsAdvanced": [
+        "Located in northernmost Cabo Delgado, near the Tanzanian border.",
+        "Center of the massive Rovuma Basin LNG development projects.",
+        "Represented the site of Africa's largest foreign direct investment.",
+        "Suffered a devastating insurgent attack in March 2021, halting LNG operations.",
+        "Features a natural harbor looking out to the islands of the Quirimbas.",
+        "Historically known for traditional palm-leaf weaving and fishing."
+      ]
+    },
+    {
+      "id": "marrupa-cities-v2",
+      "descriptionAdvanced": "Marrupa is an isolated but strategically important district capital located in the vast, sparsely populated eastern region of Niassa Province. Acting as a gateway between the dense forests of Niassa and the coastal province of Cabo Delgado, the town serves as a crucial logistical waypoint on the east-west highway connecting Lichinga to Pemba. The surrounding wilderness is known for its rugged beauty and is proximate to the immense Niassa Special Reserve. The town's economy is primarily based on subsistence agriculture, timber processing, and cross-provincial transit. Geography K7 — Remote logistics, wilderness gateways, and provincial transit.",
+      "factsAdvanced": [
+        "Capital of the Marrupa District in Niassa Province.",
+        "Situated on the primary east-west road connecting Lichinga and Pemba.",
+        "Serves as a gateway to the vast Niassa Special Reserve.",
+        "Located in one of the most sparsely populated regions of Mozambique.",
+        "Economy is dependent on transit logistics and timber extraction.",
+        "Surrounded by extensive miombo woodlands and granite inselbergs."
+      ]
+    },
+    {
+      "id": "mandimba-cities-v2",
+      "descriptionAdvanced": "Mandimba is a vital border town in southern Niassa Province, serving as the primary crossing point between Mozambique and southern Malawi. Located along the main transport corridor connecting the Malawian city of Mangochi with the Nacala Railway at Cuamba, Mandimba is a bustling hub of cross-border trade and customs administration. The town facilitates the massive export of Malawian agricultural goods toward the deep-water port of Nacala. Its vibrant markets are a melting pot of Mozambican and Malawian cultures, driven by the constant flow of freight trucks and informal traders. Geography K7 — Border crossings, trade corridors, and regional integration.",
+      "factsAdvanced": [
+        "The primary border crossing between Niassa Province and Malawi.",
+        "Connects directly to the Malawian commercial hub of Mangochi.",
+        "A critical transit point feeding into the Nacala transport corridor.",
+        "The economy is almost entirely reliant on customs and cross-border trade.",
+        "Located roughly 150 km south of the provincial capital, Lichinga.",
+        "Facilitates the movement of massive volumes of Malawian exports."
+      ]
+    },
+    {
+      "id": "massinga-cities-v2",
+      "descriptionAdvanced": "Massinga is a rapidly expanding agricultural and commercial district capital in Inhambane Province, situated directly on the EN1 national highway. Because of its location on the country's main north-south artery, it serves as a critical pitstop for freight and passenger transport. The surrounding district is highly fertile, making Massinga a major regional center for the production and processing of cassava, peanuts, and coconut. The town acts as an economic anchor for the interior rural communities, funneling their produce to coastal markets and the capital. Geography K7 — Highway transit towns, cash crops, and rural economies.",
+      "factsAdvanced": [
+        "Capital of the Massinga District in Inhambane Province.",
+        "Strategically located on the main EN1 north-south highway.",
+        "One of the largest producers of cassava and peanuts in the province.",
+        "Serves as a crucial transit and refueling stop for national transport.",
+        "The district population is among the highest in Inhambane Province.",
+        "Features a massive local market distributing goods to interior villages."
+      ]
+    },
+    {
+      "id": "zavala-cities-v2",
+      "descriptionAdvanced": "Zavala, also known as Quissico, is a vibrant coastal town in southern Inhambane Province, globally renowned for its deep musical heritage. The town is the cultural epicenter of the Chopi people and is famous for the 'Timbila', a traditional wooden xylophone. The complex, orchestral Timbila music and dance of Zavala are recognized by UNESCO as an Intangible Cultural Heritage of Humanity. Beyond its rich cultural exports, the town features a stunning coastline dominated by a series of massive, interconnected coastal lakes and lagoons, making it a scenic and culturally vital destination. Geography K8 — Intangible cultural heritage, coastal lagoons, and indigenous music.",
+      "factsAdvanced": [
+        "Also widely known as Quissico, serving as the Zavala District capital.",
+        "The cultural epicenter of the Chopi ethnic group.",
+        "Famous for the Timbila xylophone, designated a UNESCO Intangible Cultural Heritage.",
+        "Hosts an annual Timbila music festival attracting international researchers.",
+        "Surrounded by a stunning system of interconnected coastal lakes.",
+        "Located along the EN1 highway in southern Inhambane Province."
+      ]
+    }
+  ]
+}

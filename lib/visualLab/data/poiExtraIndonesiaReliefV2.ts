@@ -24,7 +24,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Majdnem 1700 km hosszan húzódik.", "Számos aktív vulkánnak ad otthont, köztük a Kerincinek.", "Gazdag növény- és állatvilággal rendelkezik.", "A neve 'sort' vagy 'vonalat' jelent."],
       ro: ["Se întinde pe aproape 1.700 km.", "Găzduiește mulți vulcani activi, inclusiv Kerinci.", "Bogat în floră și faună.", "Numele înseamnă 'rând' sau 'linie'."],
       en: ["Stretches for nearly 1,700 km.", "Home to many active volcanoes, including Mount Kerinci.", "Rich in flora and fauna.", "The name means 'row' or 'line'."]
-    }, image: "/poi-images/barisan-mountains-relief-v2.webp"},
+    }, image: "/poi-images/barisan-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Bukit Barisan is the massive mountain range that forms the rugged backbone of the island of Sumatra, stretching for nearly 1,700 kilometers from the northern tip of Aceh to the southern tip of Lampung. This majestic range is part of the 'Ring of Fire' and contains more than 35 active volcanoes, including Mount Kerinci and Mount Sinabung. The mountains were formed by the subduction of the Indo-Australian Plate beneath the Eurasian Plate along the Great Sumatran Fault. This complex relief creates a diverse landscape of high plateaus, deep rift valleys, and spectacular crater lakes like Lake Toba. The Bukit Barisan is a critical global biodiversity hotspot, home to the last remaining populations of Sumatran tigers, rhinos, and orangutans. Geography K10 — Mountain Building and Tectonic Faults."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The name 'Bukit Barisan' means 'Row of Hills' in the Indonesian language.", "Stretches for 1,700 kilometers along the entire length of western Sumatra.", "Contains the highest density of active volcanoes in the Indonesian archipelago.", "Formed by the active Great Sumatran Fault (Sesar Semangko).", "Home to three UNESCO World Heritage national parks.", "The range acts as a major climatic barrier, creating high rainfall on the west coast.", "Source of all the major rivers that flow across the Sumatran plains.", "Features the high-altitude Gayo and Karo plateaus, centers for coffee production."]
+    }
+  },
   {
     id: "sudirman-range-relief-v2",
     type: "mountain",
@@ -47,7 +60,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A Maoke-hegység része.", "A világ kevés egyenlítői gleccserének egyike itt található.", "Sudirman indonéz nemzeti hősről nevezték el.", "Rendkívül tagolt és nehezen megközelíthető."],
       ro: ["Parte a Munților Maoke.", "Găzduiește unii dintre puținii ghețari ecuatoriali din lume.", "Numit după eroul național indonezian Sudirman.", "Extrem de accidentat și dificil de accesat."],
       en: ["Part of the Maoke Mountains.", "Contains some of the world's few equatorial glaciers.", "Named after Indonesian national hero Sudirman.", "Extremely rugged and difficult to access."]
-    }, image: "/poi-images/sudirman-range-relief-v2.webp"},
+    }, image: "/poi-images/sudirman-range-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Sudirman Range, also known as the Snow Mountains (Dugunduguoo), is the highest mountain range in Indonesia and the entire Southwest Pacific. Located in the heart of Papua, it contains the legendary 'Seven Summit' peak of Puncak Jaya (Carstensz Pyramid) and other towering peaks above 4,500 meters. The range is characterized by its extreme, jagged limestone relief and its unique equatorial glaciers, which are some of the only ice masses in the tropics. Its isolation and rugged topography have created a landscape of immense biological and cultural diversity, with deep valleys that were only 'discovered' by the outside world in the 20th century. The Sudirman Range represents the dramatic result of the collision between the Australian and Pacific tectonic plates. Geography K10 — Tectonic Collision and Alpine Landscapes."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Contains Puncak Jaya (4,884m), the highest peak in Oceania.", "Home to the only tropical glaciers in the Western Pacific region.", "Part of the massive Maoke Mountains system of New Guinea.", "Consists primarily of uplifted limestone, creating sharp, serrated ridges.", "The range was only extensively mapped in the mid-20th century.", "Houses the world's largest gold and copper mine, the Grasberg.", "Surrounded by some of the world's largest intact tropical rainforests.", "Experiences some of the highest rainfall and humidity levels on Earth."]
+    }
+  },
   {
     id: "dieng-plateau-relief-v2",
     type: "plateau",
@@ -70,7 +96,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Körülbelül 2000 méteres magasságban fekszik.", "A neve 'az istenek lakhelyét' jelenti.", "Híres a színváltó tavairól, mint a Telaga Warna.", "Fontos geotermikus terület."],
       ro: ["Situat la aproximativ 2.000 de metri altitudine.", "Numele înseamnă 'Lăcașul Zeilor'.", "Cunoscut pentru lacurile sale care își schimbă culoarea, cum ar fi Telaga Warna.", "O zonă geotermală importantă."],
       en: ["Located at an altitude of about 2,000 meters.", "The name means 'Abode of the Gods'.", "Known for its color-changing lakes like Telaga Warna.", "An important geothermal area."]
-    }, image: "/poi-images/dieng-plateau-relief-v2.webp"},
+    }, image: "/poi-images/dieng-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Dieng Plateau is a high-altitude volcanic plain in Central Java, situated at an average elevation of 2,000 meters. This ancient caldera complex is surrounded by jagged volcanic peaks and is famous for its mystical atmosphere, created by frequent mists and geothermal activity. The plateau's relief is characterized by colorful sulfuric lakes, bubbling mud pools, and active steam vents, which are utilized for geothermal power. Known as the 'Abode of the Gods,' Dieng is also home to some of the oldest Hindu temples in Java. Its unique micro-climate allows for the cultivation of temperate crops like potatoes and carica fruit. Dieng represents a spectacular example of a dormant volcanic system that continues to shape both the landscape and the culture of Java. Geography K7 — Volcanic Plateaus and Geothermal Activity."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["A volcanic caldera complex formed by the collapse of ancient volcanoes.", "Sits at an average altitude of 2,000 meters above sea level.", "Telaga Warna (Colorful Lake) is famous for its shifting hues of green and blue.", "Kawah Sikidang is an active mud crater where the ground is hot to the touch.", "One of the primary centers for geothermal energy production in Indonesia.", "Experiences 'frozen dew' (Bun Upas) during the peak dry season.", "Home to the endemic 'Carica' (mountain papaya) fruit.", "The plateau is a major center for potato production in Central Java."]
+    }
+  },
   {
     id: "kerinci-valley-relief-v2",
     type: "valley",
@@ -93,7 +132,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Fontos rizstermesztő terület.", "A kerinci nép otthona.", "A Kerinci-hegy megmászásának kapuja.", "Kávé- és teaültetvényeiről ismert."],
       ro: ["O zonă importantă de cultivare a orezului.", "Casa poporului Kerinci.", "Poarta de acces pentru a urca pe Muntele Kerinci.", "Cunoscut pentru plantațiile sale de cafea și ceai."],
       en: ["An important rice-growing area.", "Home to the Kerinci people.", "The gateway for climbing Mount Kerinci.", "Known for its coffee and tea plantations."]
-    }, image: "/poi-images/kerinci-valley-relief-v2.webp"},
+    }, image: "/poi-images/kerinci-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Kerinci Valley is a spectacular high-altitude rift valley nestled within the Bukit Barisan mountain range of Sumatra. Surrounded by towering volcanic peaks, including the mighty Mount Kerinci, the valley floor sits at about 800 meters above sea level. This 'hidden' valley was formed by tectonic movements along the Great Sumatran Fault, creating a fertile, flat plain that is ideal for agriculture. It is most famous for its vast, emerald-green tea plantations—some of the highest in the world—and its productive rice paddies. The valley is also the gateway to the Kerinci Seblat National Park and the stunning Lake Kerinci. It represents a unique highland agricultural landscape shaped by active tectonic and volcanic forces. Geography K10 — Rift Valleys and Volcanic Soil Fertility."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["A tectonic rift valley formed along the Great Sumatran Fault line.", "Surrounded by some of the highest volcanoes in Southeast Asia.", "Home to the Kayu Aro Tea Estate, the world's highest tea plantation.", "Lake Kerinci is a massive 4,000-hectare lake at the valley's southern end.", "The valley's volcanic soil is exceptionally fertile for tea, cinnamon, and rice.", "Maintains a cool, temperate climate (16-24°C) year-round.", "A major global source of high-quality 'Cassia vera' (cinnamon).", "The cultural heart of the Kerinci people, known for their unique dialect."]
+    }
+  },
   {
     id: "baliem-valley-relief-v2",
     type: "valley",
@@ -116,7 +168,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A külvilág csak 1938-ban fedezte fel.", "Körülbelül 1600 méteres magasságban fekszik.", "Wamena városa a völgy legfontosabb központja.", "Híres az éves Baliem-völgyi Fesztiválról."],
       ro: ["Descoperită de lumea exterioară abia în 1938.", "Situată la o altitudine de aproximativ 1.600 de metri.", "Orașul Wamena este principalul centru din vale.", "Cunoscut pentru Festivalul anual al Văii Baliem."],
       en: ["Was not discovered by the outside world until 1938.", "Located at an altitude of around 1,600 meters.", "The town of Wamena is the main hub in the valley.", "Known for the annual Baliem Valley Festival."]
-    }, image: "/poi-images/baliem-valley-relief-v2.webp"},
+    }, image: "/poi-images/baliem-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Baliem Valley is a magnificent highland basin located deep within the Jayawijaya Mountains of Papua. Surrounded by soaring peaks that reach over 4,000 meters, the valley floor sits at an elevation of 1,600 meters. This 'hidden valley' was only discovered by the outside world in 1938 and remains one of the most culturally and geographically isolated regions in Indonesia. The relief of the valley is characterized by the meandering Baliem River, which has created a fertile plain where the Dani people have practiced sophisticated agriculture for thousands of years. The valley is famous for its traditional stilt villages, stone-age traditions, and the annual Baliem Valley Festival. It is a stunning example of a high-altitude enclave where human culture has flourished in extreme isolation. Geography K10 — Highland Basins and Cultural Isolation."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Stretches for 72 kilometers in length and 15-30 kilometers in width.", "Sits at an altitude of 1,600 meters above sea level.", "Only discovered by Western explorers in 1938 via aerial reconnaissance.", "Home to the Dani, Lani, and Yali people, famous for their agricultural skills.", "The Baliem River flows through the valley and disappears into an underground tunnel.", "Accessible only by air, primarily through the town of Wamena.", "Surrounded by the Sudirman and Jayawijaya mountain ranges.", "Features ancient sweet potato terrace systems that date back 6,000 years."]
+    }
+  },
   {
     id: "gayo-highlands-relief-v2",
     type: "plateau",
@@ -139,7 +204,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A kávétermelés központja a Laut Tawar-tó környéke.", "A régió egyedi kultúrával rendelkezik, a gayo nép kultúrájával.", "A kávé földes és összetett ízprofiljáról ismert.", "A magasság 1000 és 1600 méter között változik."],
       ro: ["Centrul producției de cafea este zona din jurul lacului Laut Tawar.", "Regiunea are o cultură unică a poporului Gayo.", "Cafeaua este cunoscută pentru profilul său de aromă pământie și complexă.", "Altitudinea variază de la 1.000 la 1.600 de metri."],
       en: ["The center of coffee production is the area around Lake Laut Tawar.", "The region has a unique culture of the Gayo people.", "The coffee is known for its earthy and complex flavor profile.", "Altitude ranges from 1,000 to 1,600 meters."]
-    }, image: "/poi-images/gayo-highlands-relief-v2.webp"},
+    }, image: "/poi-images/gayo-highlands-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Gayo Highlands are a rugged and beautiful mountain region in Central Aceh, Sumatra, characterized by high plateaus, deep valleys, and the stunning Lake Laut Tawar. This highland relief is part of the northern Bukit Barisan range, with elevations between 1,200 and 1,700 meters. The cool climate and fertile volcanic soil make it one of the premier coffee-growing regions in the world, famous for its high-quality Arabica beans. The landscape is a mosaic of dense tropical rainforests, pine forests, and sprawling coffee plantations. The Gayo Highlands are not only an agricultural powerhouse but also a cultural stronghold for the Gayo people, known for their unique music, horse racing, and the complex 'Didong' performances. Geography K7 — Tropical Highlands and Volcanic Plateaus."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Located in the heart of Aceh province on the island of Sumatra.", "Lake Laut Tawar (Sea of Fresh Water) covers 5,400 hectares at 1,200m altitude.", "A major global center for organic Arabica coffee production.", "The region is dominated by the Puncak Pantan Terong viewpoint.", "Surrounded by the dense rainforests of the Leuser Ecosystem.", "The Gayo people have a distinct language and culture from the Acehnese.", "One of the coolest regions in Sumatra, with temperatures often below 15°C.", "The relief was shaped by the movement of the Great Sumatran Fault."]
+    }
+  },
   {
     id: "south-coast-java-relief-v2",
     type: "coast",
@@ -162,7 +240,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Népszerű a szörfösök körében, különösen olyan területeken, mint Pelabuhan Ratu.", "A helyi folklór Nyai Roro Kidul istennővel hozza összefüggésbe.", "A strandok gyakran sötét vulkáni homokkal rendelkeznek.", "Sziklák és sziklás partvonalak jellemzik."],
       ro: ["Populară printre surferi, în special în zone precum Pelabuhan Ratu.", "Asociată cu zeița Nyai Roro Kidul în folclorul local.", "Plajele au adesea nisip vulcanic închis la culoare.", "Caracterizată prin stânci și linii de coastă stâncoase."],
       en: ["Popular with surfers, especially in areas like Pelabuhan Ratu.", "Associated with the goddess Nyai Roro Kidul in local folklore.", "The beaches often have dark volcanic sand.", "Characterized by cliffs and rocky coastlines."]
-    }, image: "/poi-images/south-coast-java-relief-v2.webp"},
+    }, image: "/poi-images/south-coast-java-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The South Coast of Java features a dramatic and rugged relief that contrasts sharply with the island's relatively flat northern coast. Dominated by high limestone cliffs, jagged rock formations, and powerful Indian Ocean swells, this coastline is the result of millions of years of tectonic uplifting and marine erosion. The relief is characterized by spectacular bays, hidden white-sand beaches, and the 'Southern Mountains' (Gunung Sewu) karst landscape, which is a UNESCO Global Geopark. The coast is also deep-water, as it sits near the subduction zone of the Sunda Trench. In Javanese mythology, this rugged shore is the sacred domain of Nyi Roro Kidul, the Queen of the South Sea, adding a deep spiritual layer to its physical majesty. Geography K10 — Coastal Geomorphology and Tectonic Uplifting."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Features dramatic limestone cliffs that can reach over 100 meters in height.", "The Indian Ocean here is much deeper and more turbulent than the Java Sea.", "Home to the UNESCO Global Geopark 'Gunung Sewu' (Thousand Mountains).", "The relief includes thousands of karst cones, sinkholes, and ancient caves.", "Famous for world-class surfing spots like G-Land and Cimaja.", "The coastline is prone to tsunamis due to its proximity to the Sunda Trench.", "Parangtritis and Pelabuhan Ratu are its most famous mystical beaches.", "A vital habitat for nesting sea turtles and various species of sea birds."]
+    }
+  },
   {
     id: "muller-mountains-relief-v2",
     type: "mountain",
@@ -185,7 +276,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Georg Müller német felfedezőről nevezték el.", "A világ legérintetlenebb esőerdeinek egy része itt található.", "Rendkívül magas biodiverzitás.", "Nehezen megközelíthető és ritkán látogatják kívülállók."],
       ro: ["Numit după exploratorul german Georg Müller.", "Adăpostește unele dintre cele mai virgine păduri tropicale din lume.", "Biodiversitate extrem de ridicată.", "Dificil de accesat și rar vizitat de străini."],
       en: ["Named after the German explorer Georg Müller.", "Home to some of the world's most pristine rainforests.", "Extremely high biodiversity.", "Difficult to access and rarely visited by outsiders."]
-    }, image: "/poi-images/muller-mountains-relief-v2.webp"},
+    }, image: "/poi-images/muller-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Muller Mountains are a remote and rugged mountain range that forms the central spine of the island of Borneo (Kalimantan). Named after a Dutch explorer, this range acts as the primary watershed for the island's three largest river systems: the Kapuas, the Mahakam, and the Barito. The relief is characterized by ancient crystalline rocks, sharp ridges, and dense, untouched primary rainforest. Because of its extreme isolation and difficult terrain, the Muller Mountains remain one of the least explored regions of Indonesia, serving as a vital 'Heart of Borneo' conservation zone. It is the ancestral home of various Dayak tribes and a sanctuary for the island's most elusive wildlife, including the clouded leopard and the sun bear. Geography K10 — Watersheds and Tropical Mountain Ranges."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Forms the central divide and watershed of the island of Borneo.", "The source of the Kapuas (1,143 km) and Mahakam (920 km) rivers.", "The highest peak is Mount Liangpran at 2,240 meters.", "Consists of some of the oldest geological formations in Indonesia.", "A critical part of the 'Heart of Borneo' international conservation initiative.", "Accessible primarily via long river expeditions and difficult jungle treks.", "The range was only accurately mapped in the late 19th and early 20th centuries.", "Houses some of the world's most pristine and ancient tropical rainforests."]
+    }
+  },
   {
     id: "pink-beach-komodo-relief-v2",
     type: "coast",
@@ -208,7 +312,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A Komodo Nemzeti Parkban található.", "A rózsaszín színt a foraminiferák adják.", "Népszerű hely a sznorkelezéshez és a búvárkodáshoz.", "A rózsaszín homok és a türkizkék víz kontrasztja lélegzetelállító."],
       ro: ["Situată în Parcul Național Komodo.", "Culoarea roz provine de la foraminifere.", "Un loc popular pentru snorkeling și scufundări.", "Contrastul dintre nisipul roz și apa turcoaz este uimitor."],
       en: ["Located within the Komodo National Park.", "The pink color comes from foraminifera.", "A popular spot for snorkeling and diving.", "The contrast between the pink sand and turquoise water is stunning."]
-    }, image: "/poi-images/pink-beach-komodo-relief-v2.webp"},
+    }, image: "/poi-images/pink-beach-komodo-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Pink Beach, or Pantai Merah, is a stunning natural wonder located on Komodo Island within the Komodo National Park. Its unique color is a rare result of the relief and marine biology of the area; tiny fragments of red organ pipe coral (Tubipora musica) are ground down by the waves and mixed with white sand, creating a vibrant pink hue. The beach is nestled against a backdrop of rugged, semi-arid hills and turquoise waters. The underwater relief is equally spectacular, featuring a shallow coral reef that is home to hundreds of species of tropical fish. As one of only seven pink sand beaches in the world, it is a supreme symbol of Indonesia's marine beauty and a testament to the delicate interaction between land and sea ecosystems. Geography K10 — Coastal Sediments and Coral Reef Ecology."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["One of only seven beaches in the world with natural pink sand.", "The color comes from pulverized red coral mixed with white calcium carbonate sand.", "Surrounded by the dry, savannah-covered hills of Komodo Island.", "The water visibility here is exceptional, often exceeding 25 meters.", "The beach is a protected part of a UNESCO World Heritage site.", "Home to some of the world's best-preserved shallow coral gardens.", "Komodo dragons can occasionally be seen wandering near the beach area.", "A major global destination for snorkeling and landscape photography."]
+    }
+  },
   {
     id: "bada-valley-relief-v2",
     type: "valley",
@@ -231,7 +348,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A szobrok több száz vagy akár több ezer évesek.", "Hasonlítanak a Húsvét-sziget moai-szobraihoz, de sokkal idősebbek.", "A legnagyobb szobor több mint 4 méter magas.", "A szobrok célja rejtély marad."],
       ro: ["Statuile au sute sau chiar mii de ani vechime.", "Asemănătoare cu moai de pe Insula Paștelui, dar mult mai vechi.", "Cea mai mare statuie are peste 4 metri înălțime.", "Scopul statuilor rămâne un mister."],
       en: ["The statues are hundreds or even thousands of years old.", "Similar to the moai of Easter Island but much older.", "The largest statue is over 4 meters tall.", "The purpose of the statues remains a mystery."]
-    }, image: "/poi-images/bada-valley-relief-v2.webp"},
+    }, image: "/poi-images/bada-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Bada Valley is a remote and mystical plateau located within the Lore Lindu National Park in Central Sulawesi. Surrounded by high mountain ridges, the valley floor is famous for its collection of ancient megalithic statues that are scattered across its grassy plains. These massive stone carvings, known as 'Watu Molindo,' resemble the Moai of Easter Island and date back over 1,000 years, though their origin remains a mystery. The valley's relief is characterized by fertile rice paddies, the Lariang River, and spectacular views of the surrounding tropical forest. Bada Valley is a unique cultural landscape where prehistoric archaeology meets the rugged beauty of Sulawesi's highland interior. Geography K10 — Archaeological Landscapes and Highland Plateaus."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Home to over 400 ancient megalithic stone carvings.", "The largest statue, 'Palindo,' stands 4.5 meters tall.", "The megaliths are believed to be between 1,000 and 5,000 years old.", "Located at an elevation of approximately 800 meters above sea level.", "The Lariang River, the longest in Sulawesi, flows through the valley.", "Only accessible via a long, winding road or a difficult jungle trek.", "Part of the Lore Lindu National Park, a UNESCO Biosphere Reserve.", "The local community still follows many ancient agricultural traditions."]
+    }
+  },
   {
     id: "harau-valley-relief-v2",
     type: "valley",
@@ -254,7 +384,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Gyakran 'Indonézia Yosemite-jének' is nevezik.", "A sziklák magassága eléri a 300 métert.", "Népszerű célpont a hegymászók számára.", "A terület a lepkék sokféleségéről is ismert."],
       ro: ["Adesea numită 'Yosemite-ul Indoneziei'.", "Stâncile ating înălțimi de până la 300 de metri.", "O destinație populară pentru alpiniști.", "Zona este cunoscută și pentru diversitatea sa de fluturi."],
       en: ["Often referred to as the 'Yosemite of Indonesia'.", "The cliffs reach heights of up to 300 meters.", "A popular destination for rock climbers.", "The area is also known for its butterfly diversity."]
-    }, image: "/poi-images/harau-valley-relief-v2.webp"},
+    }, image: "/poi-images/harau-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Harau Valley is a breathtaking natural canyon in West Sumatra, often called the 'Yosemite of Indonesia.' Its dramatic relief is characterized by sheer, vertical granite cliffs that rise up to 100 meters from a perfectly flat, emerald-green valley floor of rice paddies. These massive stone walls were formed by geological uplifting and erosion over millions of years, creating a landscape of stunning verticality. Numerous waterfalls cascade down the cliffs, particularly during the rainy season, feeding the fertile fields below. The valley is a paradise for rock climbers and nature lovers, offering a serene and majestic escape from the surrounding highland plateaus. Harau is a supreme example of how geological forces can create a harmonious and productive agricultural landscape. Geography K7 — Canyons and Geological Uplifting."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Often compared to Yosemite Valley due to its sheer granite walls.", "The cliffs rise vertically to heights of 80 to 120 meters.", "Consists of three main areas: Akar Berayun, Sarasah Bunta, and Rimbo Piobang.", "Home to numerous waterfalls, including the 80-meter tall Sarasah Murai.", "The valley floor is situated at an altitude of about 500 meters.", "A major global destination for traditional and sport rock climbing.", "Surrounded by the dense tropical rainforest of the Harau Nature Reserve.", "The rock formations are composed of ancient sandstone and breccia."]
+    }
+  },
   {
     id: "togean-islands-coast-relief-v2",
     type: "coast",
@@ -277,7 +420,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A búvárok és sznorkelezők paradicsoma.", "A bajau, vagy 'tengeri cigányok' őslakos nép otthona.", "A szigeteket sűrű esőerdők borítják.", "Nagyon távoli, és hosszú utazást igényel az elérése."],
       ro: ["Un paradis pentru scafandri și snorkeleri.", "Casa indigenilor Bajau, sau 'țiganii de mare'.", "Insulele sunt acoperite de păduri tropicale dese.", "Foarte izolate și necesită o călătorie lungă pentru a ajunge."],
       en: ["A paradise for divers and snorkelers.", "Home to the indigenous Bajau, or 'Sea Gypsies'.", "The islands are covered in dense rainforest.", "Very remote and require a long journey to reach."]
-    }, image: "/poi-images/togean-islands-coast-relief-v2.webp"},
+    }, image: "/poi-images/togean-islands-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Togean Islands are a remote archipelago of 56 volcanic islands located in the center of the Gulf of Tomini, Sulawesi. The relief of these islands is a spectacular combination of jagged volcanic peaks, lush tropical forests, and intricate coral reef systems. Because the Gulf of Tomini is exceptionally calm and deep, the coastal relief features unique 'blue holes' and massive coral atolls that are among the most pristine in the world. Many of the islands are inhabited by the Bajau 'Sea Nomads,' whose stilt villages are built directly over the shallow reefs. The Togeans represent a rare 'triple-threat' of coral diversity—possessing barrier, fringing, and atoll reefs in one area—making it a global priority for marine conservation. Geography K10 — Coral Atolls and Volcanic Archipelagos."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Consists of 56 islands formed by ancient volcanic activity.", "Located in the Gulf of Tomini, the calmest deep-water bay in Indonesia.", "Home to the critically endangered Hawksbill and Green sea turtles.", "Features the 'Mariona Lake,' a rare marine lake filled with stingless jellyfish.", "The islands are a UNESCO Biosphere Reserve, designated in 2019.", "The only place in Indonesia with all three types of coral reefs (Atoll, Fringing, Barrier).", "Home to the indigenous Bajau people, who live on stilt houses over the sea.", "Accessible only via long ferry rides from the towns of Ampana or Gorontalo."]
+    }
+  },
   {
     id: "alas-valley-relief-v2",
     type: "valley",
@@ -300,7 +456,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Az Alas folyó Indonézia egyik legjobb vadvízi evezős helye.", "A völgyet sűrű trópusi esőerdő veszi körül.", "Lehetőség vadon élő orángutánok és más vadállatok megfigyelésére.", "Az alas nép otthona."],
       ro: ["Râul Alas este unul dintre cele mai bune locuri pentru rafting în ape repezi din Indonezia.", "Valea este înconjurată de pădure tropicală deasă.", "O șansă de a vedea urangutani sălbatici și alte animale sălbatice.", "Casa poporului Alas."],
       en: ["The Alas River is one of the best places for white-water rafting in Indonesia.", "The valley is surrounded by dense tropical rainforest.", "A chance to see wild orangutans and other wildlife.", "Home to the Alas people."]
-    }, image: "/poi-images/alas-valley-relief-v2.webp"},
+    }, image: "/poi-images/alas-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Alas Valley is a dramatic tectonic rift valley located in the heart of the Gayo Highlands of Aceh, Sumatra. Carved by the powerful Alas River, the valley is a narrow, fertile plain surrounded by the soaring peaks of the Gunung Leuser National Park. The relief is characterized by steep mountain walls and a series of river terraces that have been transformed into productive rice and coffee fields. The Alas River is famous for its world-class whitewater rafting, as it cuts through the dense rainforest of the Leuser Ecosystem. The valley is the ancestral home of the Alas people and serves as a vital corridor for wildlife moving between the different mountain ranges of northern Sumatra. Geography K10 — Tectonic Rift Valleys and River Erosion."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["A major rift valley formed along the northern segment of the Great Sumatran Fault.", "The Alas River is the longest river in the province of Aceh.", "Surrounded by the highest peaks of the Leuser Ecosystem (up to 3,400m).", "A premier global destination for whitewater rafting and jungle expeditions.", "The valley floor is a major center for rice, corn, and tobacco production.", "Kutacane is the main town and administrative center of the valley.", "Acts as a critical wildlife corridor for Sumatran elephants and tigers.", "The relief is constantly being shaped by frequent earthquakes and landslides."]
+    }
+  },
   {
     id: "mbeliling-forest-coast-relief-v2",
     type: "coast",
@@ -323,7 +492,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A Mbeliling-erdő fontos madármegfigyelő hely.", "A partvidéket fekete homokos strandok jellemzik.", "Számos endemikus fajnak ad otthont, köztük a floreszi császárlégykapónak.", "Drámai tájakat és panorámás kilátást kínál."],
       ro: ["Pădurea Mbeliling este un punct fierbinte important pentru observarea păsărilor.", "Coasta este caracterizată de plaje cu nisip negru.", "Adăpostește mai multe specii endemice, inclusiv monarhul de Flores.", "Oferă peisaje dramatice și vederi panoramice."],
       en: ["Mbeliling forest is an important birdwatching hotspot.", "The coast is characterized by black sand beaches.", "Home to several endemic species, including the Flores monarch.", "Offers dramatic landscapes and panoramic views."]
-    }, image: "/poi-images/mbeliling-forest-coast-relief-v2.webp"},
+    }, image: "/poi-images/mbeliling-forest-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Mbeliling Forest is a majestic highland region on the western tip of Flores, characterized by its rugged volcanic relief and dense primary rainforest. Rising to over 1,200 meters, the forest acts as a critical water tower for the surrounding coastal regions, including the tourism hub of Labuan Bajo. The relief is dominated by steep ridges, deep gorges, and the spectacular Sano Nggoang crater lake—the deepest volcanic lake in Indonesia. This forest is a global priority for bird conservation, home to several endemic species found only on Flores, such as the Flores Monarch and the Flores Crow. The Mbeliling relief represents the transition between the dry coastal savannahs and the moist, cloud-covered mountain peaks of the Lesser Sunda Islands. Geography K10 — Island Watersheds and Endemic Bird Habitats."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The highest peak, Mount Mbeliling, stands at 1,325 meters.", "Home to Lake Sano Nggoang, which reaches a depth of over 500 meters.", "The primary water source for the entire West Manggarai regency.", "Designated as an 'Important Bird Area' (IBA) by BirdLife International.", "Contains 4 species of birds that are endemic only to the island of Flores.", "The relief features numerous natural hot springs and sulfur vents.", "A major destination for eco-tourism trekking and birdwatching.", "The forest is a critical barrier against soil erosion on the steep Flores slopes."]
+    }
+  },
   {
     id: "apar-mountains-relief-v2",
     type: "mountain",
@@ -346,7 +528,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A biodiverzitás egyik forrópontja, számos még felfedezetlen fajjal.", "Különböző paradicsommadár-fajok otthona.", "Rendkívül távoli és a turizmus számára feltáratlan.", "Számos őslakos pápuai törzs hagyományos otthona."],
       ro: ["Un punct fierbinte al biodiversității, cu multe specii încă nedescoperite.", "Adăpostește diverse specii de păsări ale paradisului.", "Extrem de îndepărtat și nedezvoltat pentru turism.", "Casa tradițională a mai multor triburi indigene papuașe."],
       en: ["A biodiversity hotspot with many species yet to be discovered.", "Home to various species of birds-of-paradise.", "Extremely remote and undeveloped for tourism.", "The traditional home of several indigenous Papuan tribes."]
-    }, image: "/poi-images/apar-mountains-relief-v2.webp"},
+    }, image: "/poi-images/apar-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Apar Mountains (Pegunungan Apar) are a rugged and relatively unexplored mountain range in the northern part of South Kalimantan. Characterized by a series of parallel limestone ridges and deep forested valleys, this range forms a part of the Meratus Mountains system. The relief is a classic karst landscape, featuring numerous hidden caves, underground rivers, and spectacular limestone pinnacles. The Apar Mountains are a vital sanctuary for Borneo's biodiversity, providing habitat for rare orchids, primates, and various bird species. This rugged terrain has also protected the traditional culture of the Dayak Meratus people, who continue to practice sustainable forest agriculture on the mountain slopes. Geography K10 — Karst Geomorphology and Tropical Mountain Ridges."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Part of the Meratus Mountains, the oldest geological formation in Kalimantan.", "Characterized by sharp limestone (karst) ridges and deep valleys.", "The highest peaks reach approximately 1,200 to 1,500 meters.", "Home to thousands of unexplored caves and underground drainage systems.", "Acts as a major watershed for the rivers of South Kalimantan.", "Surrounded by primary and secondary tropical dipterocarp forests.", "The ancestral home of the indigenous Dayak Meratus communities.", "A significant region for the conservation of wild Bornean orchids."]
+    }
+  },
   {
     id: "tengger-caldera-desert-relief-v2",
     type: "desert",
@@ -369,7 +564,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A Bromo Tengger Semeru Nemzeti Park része.", "A kalderából több új vulkáni kúp emelkedik ki, köztük a Bromo-hegy.", "A lovak és a dzsipek gyakori közlekedési eszközök.", "A tájat gyakran a Hold felszínéhez hasonlítják."],
       ro: ["Parte a Parcului Național Bromo Tengger Semeru.", "Mai multe conuri vulcanice noi, inclusiv Muntele Bromo, se ridică din calderă.", "Caii și jeep-urile sunt mijloace de transport comune.", "Peisajul este adesea comparat cu suprafața lunii."],
       en: ["Part of the Bromo Tengger Semeru National Park.", "Several new volcanic cones, including Mount Bromo, rise from the caldera.", "Horses and jeeps are common modes of transport.", "The landscape is often compared to the surface of the moon."]
-    }, image: "/poi-images/tengger-caldera-desert-relief-v2.webp"},
+    }, image: "/poi-images/tengger-caldera-desert-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Tengger Caldera 'Sea of Sand' (Lautan Pasir) is a unique and surreal landscape in East Java, located within a massive 10-kilometer wide volcanic crater. This high-altitude 'desert' is situated at an elevation of 2,100 meters, where the lack of vegetation and the constant deposition of volcanic ash from Mount Bromo have created a vast, rippled plain of dark sand. The relief is framed by the towering 300-meter high walls of the ancient caldera rim. During the dry season, the landscape is wind-swept and dust-filled, while in the rainy season, it can transform into a shallow, ephemeral wetland. This 'volcanic desert' is the only one of its kind in Southeast Asia, offering a powerful visual reminder of the planet's internal creative forces. Geography K7 — Volcanic Calderas and Aeolian Processes."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["A massive 10-kilometer wide caldera floor covered in volcanic ash.", "The only desert-like landscape found in the humid tropics of Indonesia.", "Sits at an altitude of 2,100 meters, surrounded by a steep caldera rim.", "Formed by the collapse of a massive ancient volcano (Mount Tengger).", "The sand is primarily composed of fine volcanic tephra and lapilli.", "The 'Sea of Sand' has been a protected nature reserve since 1919.", "Hosts the annual Hindu 'Yadnya Kasada' festival of the Tenggerese people.", "The Pura Luhur Poten temple sits directly on the open sand plain."]
+    }
+  },
   {
     id: "karst-of-maros-pangkep-relief-v2",
     type: "plateau",
@@ -392,7 +600,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["A barlangfestmények akár 45 500 évesek is lehetnek.", "A világ második legnagyobb karsztvidéke.", "A Rammang-Rammang falu a karszttornyok között fekszik.", "Folyók és rizsföldek labirintusa szövi át a tájat."],
       ro: ["Picturile rupestre datează de până la 45.500 de ani.", "A doua cea mai mare regiune carstică din lume.", "Satul Rammang-Rammang este situat printre turnurile carstice.", "Un labirint de râuri și orezării străbate peisajul."],
       en: ["The cave paintings date back as far as 45,500 years.", "The second-largest karst region in the world.", "The village of Rammang-Rammang is nestled among the karst towers.", "A labyrinth of rivers and rice paddies weaves through the landscape."]
-    }, image: "/poi-images/karst-of-maros-pangkep-relief-v2.webp"},
+    }, image: "/poi-images/karst-of-maros-pangkep-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Karst of Maros-Pangkep in South Sulawesi is the second largest karst landscape in the world and a UNESCO Global Geopark. Its dramatic relief is characterized by thousands of spectacular limestone 'tower karst' peaks that rise vertically from a flat emerald-green plain of rice paddies. These towers are honeycombed with over 200 caves, many of which contain some of the oldest figurative cave art in the world, dating back over 40,000 years. The relief also includes steep-walled canyons, natural bridges, and underground rivers. This 'forest of stones' is a global masterpiece of geological erosion and a critical sanctuary for endemic Sulawesi wildlife, representing a unique intersection of natural majesty and ancient human history. Geography K7 — Karst Landscapes and Tower Karst."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The second largest karst landscape in the world, after South China Karst.", "Covers an area of 43,000 hectares in the Maros and Pangkep regencies.", "Features the Leang-Leang caves with prehistoric paintings over 40,000 years old.", "Home to the endemic 'Macaca maura' (Moor Macaque) and rare orchids.", "Designated as a UNESCO Global Geopark in 2022.", "The limestone towers (mogotes) can reach heights of over 200 meters.", "Includes the Bantimurung Waterfall, famous for its thousands of butterflies.", "The karst system is a vital aquifer, providing water for over 1 million people."]
+    }
+  },
   {
     id: "ciletuh-palabuhanratu-geopark-coast-relief-v2",
     type: "coast",
@@ -415,7 +636,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Ritka, amfiteátrum alakú sziklaképződményt mutat be a tengerparton.", "Számos vízesésnek ad otthont, amelyek közvetlenül a tengerbe zuhannak.", "A terület a geoturizmus egyik forrópontja.", "A Panenjoan-csúcsról széles kilátás nyílik a geoparkra."],
       ro: ["Prezintă o formațiune stâncoasă rară în formă de amfiteatru pe malul mării.", "Adăpostește mai multe cascade care se varsă direct în mare.", "Zona este un punct fierbinte pentru geoturism.", "Vârful Panenjoan oferă o vedere panoramică asupra geoparcului."],
       en: ["Features a rare amphitheater-shaped rock formation by the sea.", "Home to several waterfalls that drop directly into the ocean.", "The area is a hotspot for geotourism.", "Panenjoan Peak provides a sweeping view of the geopark."]
-    }, image: "/poi-images/ciletuh-palabuhanratu-geopark-coast-relief-v2.webp"},
+    }, image: "/poi-images/ciletuh-palabuhanratu-geopark-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Ciletuh-Palabuhanratu Geopark in West Java is a stunning coastal landscape that has been recognized as a UNESCO Global Geopark. Its relief is most famous for its 'Mega-Amphitheater'—a massive, horseshoe-shaped natural basin formed by a giant tectonic collapse millions of years ago. This amphitheater is ringed by high cliffs and spectacular waterfalls like Curug Cimarinjung, which drop into a lush valley of rice paddies and ancient rocks. The coastline features dramatic rock formations, white-sand beaches, and the powerful waves of the Indian Ocean. Geologically, Ciletuh is a rare place where ancient deep-sea rocks (Ophiolites) have been uplifted to the surface, offering a unique window into the early formation of the island of Java. Geography K10 — Tectonic Amphitheaters and Ophiolite Complexes."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Designated as a UNESCO Global Geopark in 2018.", "The 'Mega-Amphitheater' of Ciletuh has a diameter of approximately 15 kilometers.", "Contains some of the oldest exposed rocks on the island of Java (Eocene epoch).", "Features 9 major waterfalls that cascade down the amphitheater walls.", "A major global destination for geotourism and coastal trekking.", "Includes the mystical beach of Palabuhanratu, sacred in Javanese legend.", "The area is a mix of uplifted seafloor, volcanic deposits, and coral reefs.", "Provides critical habitat for the endangered Javan Gibbon."]
+    }
+  },
   {
     id: "agung-volcano-relief-v2",
     type: "mountain",
@@ -438,7 +672,20 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["3031 méter magas.", "A balinéz mitológiában az istenek lakhelyének tartják.", "A Besakih anyatemplom a lejtőin található.", "Az 1963-as kitörése Indonézia történelmének egyik legpusztítóbbja volt."],
       ro: ["Are o înălțime de 3.031 de metri.", "Considerat lăcașul zeilor în mitologia balineză.", "Templul Mamă Besakih este situat pe versanții săi.", "Erupția sa din 1963 a fost una dintre cele mai devastatoare din istoria Indoneziei."],
       en: ["Stands at 3,031 meters tall.", "Considered the abode of the gods in Balinese mythology.", "The Besakih Mother Temple is located on its slopes.", "Its 1963 eruption was one of the most devastating in Indonesian history."]
-    }, image: "/poi-images/agung-volcano-relief-v2.webp"},
+    }, image: "/poi-images/agung-volcano-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Mount Agung is the highest and most sacred mountain on the island of Bali, standing as a massive and imposing stratovolcano that dominates the island's skyline. Its near-perfect conical relief reaches an elevation of 3,142 meters, and it is believed by the Balinese to be the 'Center of the World' and the dwelling place of the gods. The mountain's presence is so powerful that it influences the entire spiritual and physical geography of Bali, with almost all Balinese homes and temples oriented toward its peak. The relief is characterized by deep volcanic gullies and barren, ash-covered upper slopes. Agung's 1963 eruption was one of the most significant in modern Indonesian history, leaving a profound impact on the island's landscape and culture. Geography K7 — Sacred Mountains and Volcanic Influence."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The highest point in Bali at 3,142 meters above sea level.", "A highly active stratovolcano with a massive summit crater (500m wide).", "The Besakih Temple, Bali's 'Mother Temple,' is located on its southern slopes.", "Most Balinese sleep with their heads toward the mountain (Kaja direction).", "The 1963 eruption cooled global temperatures by approximately 0.4°C.", "Trekking to the summit is a popular but extremely challenging 6-12 hour climb.", "Visible from the neighboring islands of Lombok and Java on clear days.", "The volcano's eruptions created the fertile soils that support Bali's agriculture."]
+    }
+  },
   {
     id: "tambora-volcano-relief-v2",
     type: "mountain",
@@ -461,6 +708,18 @@ export const poiExtraIndonesiaReliefV2: POI[] = [
       hu: ["Az 1815-ös kitörés a feljegyzett történelem legnagyobbja.", "A kitörés több mint 1400 méterrel csökkentette a hegy magasságát.", "Egy 6 kilométer átmérőjű kalderát hagyott maga után.", "A hamufelhő globális éghajlati hatásokkal járt."],
       ro: ["Erupția din 1815 este cea mai mare din istoria înregistrată.", "Erupția a redus înălțimea muntelui cu peste 1.400 de metri.", "A lăsat în urmă o calderă cu un diametru de 6 kilometri.", "Norul de cenușă a avut impact climatic global."],
       en: ["The 1815 eruption is the largest in recorded history.", "The eruption reduced the mountain's height by over 1,400 meters.", "Left a caldera 6 kilometers in diameter.", "The ash cloud had global climatic effects."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Mount Tambora, located on the Sanggar Peninsula of Sumbawa, is the site of the largest volcanic eruption in recorded human history. Before its 1815 eruption, Tambora was a massive peak reaching over 4,000 meters; the explosion was so violent that it blew off the top of the mountain, leaving behind a staggering 7-kilometer wide and 1-kilometer deep caldera. The relief of the mountain today is dominated by this colossal crater, which is so large it has its own internal microclimate. The 1815 event caused the 'Year Without a Summer' globally, leading to widespread famine in Europe and North America. Today, Tambora is a quiet but imposing landmark, serving as a powerful reminder of the destructive capacity of the Earth's tectonic forces. Geography K10 — Super-Eruptions and Global Climatic Impacts."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["The 1815 eruption was a VEI-7 event, the largest in modern history.", "The current summit stands at 2,850 meters, reduced from over 4,000 meters.", "The caldera is 7 kilometers wide and 1,100 meters deep.", "The eruption killed an estimated 71,000 people in Indonesia alone.", "Caused global temperatures to drop by 0.5°C, resulting in crop failures worldwide.", "Archaeologists have found a 'Lost Kingdom' of Tambora buried under ash.", "Designated as a National Park in 2015 on the 200th anniversary of the eruption.", "A major global site for the study of volcanic geomorphology and climate history."]
     }
   }
 ];

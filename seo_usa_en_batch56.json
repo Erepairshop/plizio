@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "adirondack-mountains-relief-v2",
+      "descriptionAdvanced": "The Adirondack Mountains in upstate New York form a unique, circular dome of ancient Precambrian rock that was uplifted and sculpted by glacial processes. Unlike the linear ridge-and-valley structure of the Appalachians, the Adirondacks are characterized by a rugged, radial drainage pattern, with over 3,000 lakes and rivers radiating from the central highland peaks. This ancient, isolated massif provides a high-latitude-like refugium for boreal flora and fauna, making it an essential site for studying how temperate mountain ecosystems are responding to rapid climate warming. Today, the Adirondacks remain a premier wilderness sanctuary and a critical center for ongoing research into how large-scale, protected forest biomes act as carbon sinks and resilient reservoirs for regional biodiversity in the Northeast. Geografie K7 — Circular uplift geology and boreal forest islands.",
+      "factsAdvanced": [
+        "Rugged, radial mountain range formed by a unique circular uplift of Precambrian rock.",
+        "Home to over 3,000 distinct lakes and rivers radiating from a central highland.",
+        "Acts as a high-latitude-like ecological refugium for rare boreal species.",
+        "Significant landscape for studying temperate forest resilience to rapid warming.",
+        "Provides a vital, massive carbon sink for the northeastern United States.",
+        "A premier protected wilderness sanctuary emphasizing ecological biodiversity."
+      ]
+    },
+    {
+      "id": "big-bend-relief-v2",
+      "descriptionAdvanced": "Big Bend, located in the vast, arid Chihuahuan Desert of Texas, is defined by the dramatic bend of the Rio Grande, which carves deep, sheer limestone canyons through a rugged desert landscape. This high-relief terrain spans elevations from 1,800 to 7,800 feet, creating a 'sky island' effect where high-mountain biomes, such as the Chisos Mountains, rise abruptly from the scorching desert floor. Big Bend’s extreme environmental gradient—from riparian river corridors to high-elevation forest ‘islands’—makes it an unparalleled laboratory for studying arid-land adaptation, desertification, and the evolution of specialized plant and animal species in isolated mountain sanctuaries. Today, it stands as a celebrated, remote wilderness landmark, showcasing the striking geological contrast of the American Southwest. Geografie K8 — Sky-island biomes and desert-riparian gradients.",
+      "factsAdvanced": [
+        "Dramatic landscape where the Rio Grande carves deep, sheer limestone canyons.",
+        "High-relief terrain spanning from 1,800 to 7,800 feet.",
+        "Famous for 'sky island' biomes where mountain forests rise from desert scrub.",
+        "Critical study ground for arid-land ecological adaptation and evolution.",
+        "Represents an extreme environmental gradient from river corridors to mountain peaks.",
+        "Iconic, remote desert wilderness showcasing unique American Southwestern geology."
+      ]
+    },
+    {
+      "id": "black-hills-relief-v2",
+      "descriptionAdvanced": "The Black Hills of South Dakota and Wyoming are a small, isolated mountain range that rises dramatically from the surrounding Great Plains. Formed by a complex dome-like uplift of ancient Precambrian granite and sedimentary rock, the range acts as a unique ecological 'island,' providing a temperate sanctuary that supports species from the Rocky Mountains and the surrounding plains. The hills hold deep cultural significance as a sacred space for the Lakota Sioux, a reality that contrasts sharply with the history of 19th-century gold-rush expansion and the controversial carving of Mount Rushmore. Today, the Black Hills are a critical site for studying the resilience of high-biodiversity island ecosystems and the ongoing, necessary dialogue between historical industrial development and the preservation of sacred Indigenous landscapes. Geografie K7 — Dome-uplift geology and temperate island ecosystems.",
+      "factsAdvanced": [
+        "Small, isolated mountain range rising abruptly from the Great Plains.",
+        "Formed by a complex dome-like tectonic uplift of ancient granite.",
+        "Acts as a temperate ecological 'island' supporting diverse species.",
+        "Hold profound sacred cultural significance for the Lakota Sioux people.",
+        "History defined by intense 19th-century gold-rush expansion and controversy.",
+        "Vital site for studying the management of island biomes within larger plains."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "southafrica-cape-town-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kapstadt, die gesetzgebende Hauptstadt Südafrikas, besticht durch ihre Lage am Atlantischen Ozean unterhalb des Tafelbergs. Mit einer Gründung im Jahr 1652 durch die Niederländische Ostindien-Kompanie ist sie die älteste Stadt des Landes. Heute ist sie ein multikulturelles Zentrum, das wirtschaftlich und touristisch eine zentrale Rolle spielt, insbesondere durch die weltberühmte V&A Waterfront. Geografie K7 — Küstenstädte und Häfen.",
+        "hu": "Fokváros, Dél-Afrika törvényhozó fővárosa, az Atlanti-óceán partján, a lenyűgöző Tábla-hegy lábánál fekszik. 1652-ben alapította a Holland Kelet-indiai Társaság, ezzel az ország legrégebbi városa. Ma egy vibráló, multikulturális metropolisz, amely gazdasági és turisztikai szempontból is központi jelentőségű, különösen a V&A Waterfront révén. Földrajz K7 — tengerparti városok és kikötők.",
+        "ro": "Cape Town, capitala legislativă a Africii de Sud, este situată spectaculos pe coasta Oceanului Atlantic, la poalele Muntelui Masă. Fondat în 1652 de Compania Olandeză a Indiilor de Est, este cel mai vechi oraș din țară. Astăzi, reprezintă un hub multicultural vital, cu un rol economic și turistic major, evidențiat prin zona renumită V&A Waterfront. Geografie K7 — orașe de coastă și porturi.",
+        "en": "Cape Town, the legislative capital of South Africa, is spectacularly located on the Atlantic Ocean at the foot of Table Mountain. Founded in 1652 by the Dutch East India Company, it is the country's oldest city. Today, it stands as a vibrant multicultural hub, playing a major economic and tourism role, highlighted by the world-famous V&A Waterfront. Geography K7 — coastal cities and harbors."
+      },
+      "factsAdvanced": {
+        "de": ["1652 als Versorgungsstation gegründet.", "Der Tafelberg erreicht eine Höhe von 1.086 Metern.", "Mehr als 4 Millionen Einwohner im Großraum.", "Das Parlament tagt seit 1910 hier.", "Die V&A Waterfront empfängt über 20 Millionen Besucher jährlich.", "Das Kap der Guten Hoffnung liegt nur 50 km entfernt."],
+        "hu": ["1652-ben alapították ellátóállomásként.", "A Tábla-hegy 1086 méter magas.", "Több mint 4 millió lakos a nagyvárosi övezetben.", "1910 óta itt ülésezik a parlament.", "A V&A Waterfront évente több mint 20 millió látogatót fogad.", "A Jóreménység foka mindössze 50 km-re található."],
+        "ro": ["Fondat în 1652 ca stație de aprovizionare.", "Muntele Masă atinge o înălțime de 1.086 metri.", "Peste 4 milioane de locuitori în zona metropolitană.", "Parlamentul se întrunește aici din 1910.", "V&A Waterfront primește anual peste 20 de milioane de vizitatori.", "Capul Bunei Speranțe se află la doar 50 km distanță."],
+        "en": ["Founded in 1652 as a supply station.", "Table Mountain reaches a height of 1,086 meters.", "Over 4 million inhabitants in the metropolitan area.", "The parliament has met here since 1910.", "The V&A Waterfront receives over 20 million visitors annually.", "The Cape of Good Hope is located just 50 km away."]
+      }
+    },
+    {
+      "id": "southafrica-pretoria-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pretoria, die exekutive Hauptstadt Südafrikas, liegt im Norden der Provinz Gauteng. Die Stadt wurde 1855 gegründet und nach Andries Pretorius benannt. Bekannt für ihre violetten Jacaranda-Bäume, die im Frühjahr die Straßen säumen, ist sie zudem ein bedeutendes politisches und akademisches Zentrum. Die Union Buildings bilden das offizielle Regierungssitz-Ensemble. Geschichte K8 — Kolonialgeschichte und Stadtentwicklung.",
+        "hu": "Pretoria, Dél-Afrika végrehajtó fővárosa, Gauteng tartomány északi részén terül el. A várost 1855-ben alapították, és Andries Pretoriusról nevezték el. Híres az utcáit tavasszal lila virágba borító zsakaranda fákról, emellett jelentős politikai és oktatási központ. A Union Buildings az ország hivatalos kormányzati székhelye. Történelem K8 — gyarmati történelem és városfejlesztés.",
+        "ro": "Pretoria, capitala executivă a Africii de Sud, este situată în nordul provinciei Gauteng. Orașul a fost fondat în 1855 și poartă numele lui Andries Pretorius. Faimos pentru arborii jacaranda care înfloresc violet primăvara, este, de asemenea, un centru politic și academic major. Union Buildings reprezintă sediul oficial al guvernului. Istorie K8 — istorie colonială și dezvoltare urbană.",
+        "en": "Pretoria, the executive capital of South Africa, is situated in the north of Gauteng province. The city was founded in 1855 and named after Andries Pretorius. Famous for the purple Jacaranda trees that line the streets in spring, it is also a major political and academic center. The Union Buildings serve as the official seat of government. History K8 — colonial history and urban development."
+      },
+      "factsAdvanced": {
+        "de": ["Gründung 1855 durch Marthinus Pretorius.", "Über 50.000 Jacaranda-Bäume in der Stadt.", "Sitz der Tshwane-Universität.", "Die Union Buildings wurden 1913 fertiggestellt.", "Stadtfläche von über 600 Quadratkilometern.", "Wichtiger Knotenpunkt für Forschungseinrichtungen."],
+        "hu": ["1855-ben alapította Marthinus Pretorius.", "Több mint 50 000 zsakaranda fa a városban.", "A Tshwane Egyetem székhelye.", "A Union Buildings 1913-ban készült el.", "Több mint 600 négyzetkilométeres városi terület.", "Fontos kutatóintézeti csomópont."],
+        "ro": ["Fondat în 1855 de Marthinus Pretorius.", "Peste 50.000 de arbori jacaranda în oraș.", "Sediul Universității Tshwane.", "Union Buildings a fost finalizat în 1913.", "Suprafața orașului depășește 600 de kilometri pătrați.", "Nod important pentru instituții de cercetare."],
+        "en": ["Founded in 1855 by Marthinus Pretorius.", "Over 50,000 Jacaranda trees in the city.", "Seat of Tshwane University.", "The Union Buildings were completed in 1913.", "City area of over 600 square kilometers.", "Important hub for research institutions."]
+      }
+    }
+  ]
+}

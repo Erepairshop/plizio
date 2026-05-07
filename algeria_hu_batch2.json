@@ -1,0 +1,783 @@
+{
+  "lang": "hu",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "naama-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Naâma városa az algériai Magas-fennsíkok nyugati részén fekszik, több mint 1100 méteres tengerszint feletti magasságban. A település stratégiai kapuként szolgál a Tell-Atlasz hegyláncai és a Szahara sivatagának végtelen dűnéi között. A térség éghajlata szélsőséges: a perzselő nyarakat fagyos, gyakran havas telek váltják fel, ami meghatározza az itt élők életmódját. Gazdasága évezredek óta az extenzív állattartásra, különösen a juhtenyésztésre épül, amely a helyi gyapjúipar alapját is adja. A város környéki sztyeppéken legelő nyájak látványa a táj elválaszthatatlan részét képezi. A modern Naâma közigazgatási központ is, amely a ritkán lakott határmenti régiók fejlesztésének motorja. Földrajz K7 — Az éghajlat hatása a mezőgazdaságra és az életmódra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város 1176 méter magasan fekszik a tengerszint felett.",
+          "A tartomány az ország egyik legfontosabb juhtenyésztő központja.",
+          "A téli hőmérséklet rendszeresen -5 Celsius-fok alá süllyed.",
+          "A környék sztyeppei növényzetét a halfafű dominálja.",
+          "A város fontos vasúti megálló az észak-déli irányú vonalon.",
+          "Naâma 1984-ben vált önálló tartományi székhellyé.",
+          "A térségben jelentős a hagyományos gyapjúszövés művészete."
+        ]
+      }
+    },
+    {
+      "id": "el-bayadh-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "El Bayadh, amelyet a francia gyarmati időkben Géryville néven ismertek, a Szaharai-Atlasz hegység szívében található. A város egy hatalmas fennsíkon terül el, ahol a zord hegyi domborzat találkozik a sivatagi széllel. Ez a különleges földrajzi elhelyezkedés tette a települést a térség legfontosabb kereskedelmi csomópontjává, ahol a nomád pásztorok és a városi kereskedők évszázadok óta cserélnek gazdát. El Bayadh híres a kiváló minőségű gyapjúról és a hagyományos kézműves termékeiről, különösen a tartós szőnyegeiről. A város környéke gazdag neolitikumi sziklarajzokban, amelyek bizonyítják, hogy a terület már évezredekkel ezelőtt lakott volt, amikor a klíma még jóval csapadékosabb volt. Földrajz K7 — Magasföldi állattenyésztés és hagyományos kereskedelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város tengerszint feletti magassága meghaladja az 1300 métert.",
+          "A települést 1852-ben alapították francia katonai támaszpontként.",
+          "A régióban több mint 100 helyszínen találtak őskori sziklarajzokat.",
+          "El Bayadh az algériai gyapjúkereskedelem egyik fő központja.",
+          "A tartományban található a Ksour-hegység legmagasabb pontja.",
+          "Az évi csapadékmennyiség ritkán haladja meg a 300 mm-t.",
+          "A város modern egyetemmel és kutatóközponttal rendelkezik."
+        ]
+      }
+    },
+    {
+      "id": "tizi-ouzou-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tizi Ouzou a Kabilia régió lüktető szíve, amely a lenyűgöző Djurdjura-hegység lábánál fekszik. A város neve berber nyelven 'rekettye-hágót' jelent, utalva a környéket tavasszal sárgába borító virágokra. Ez a terület az algériai berber (amazigh) kultúra és nyelv megőrzésének legfontosabb bástyája. A tájat meredek hegyoldalak, mély völgyek és ezüstösen csillogó olajfaligetek tagolják, amelyek a helyi gazdaság alapját jelentő olívaolaj-termelés helyszínei. Tizi Ouzou nemcsak kulturális, hanem oktatási központ is, híres egyeteme a régió értelmiségi életének motorja. A város építészete a modern városiasodás és a hagyományos kabil falvak stílusának keveréke. Földrajz K7 — Hegyvidéki gazdálkodás és kulturális identitás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város a Kabilia régió legnagyobb és legnépesebb települése.",
+          "Az 1977-ben alapított Mouloud Mammeri Egyetem több tízezer hallgatót fogad.",
+          "A környékbeli Beni Yenni falu híres ezüst ékszereiről.",
+          "Tizi Ouzou ad otthont a JSK labdarúgóklubnak, Afrika egyik legsikeresebb csapatának.",
+          "A régió Algéria legfontosabb olívaolaj-termelő területe.",
+          "A várost sűrűn lakott hegyi települések gyűrűje veszi körül.",
+          "A Tamazight nyelv itt a mindennapi élet és az oktatás szerves része."
+        ]
+      }
+    },
+    {
+      "id": "ain-defla-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Aïn Defla a termékeny Cheliff-folyó völgyében fekszik, a Dahra-hegység és az Ouarsenis-masszívum között. A város története a római korig nyúlik vissza, amikor Oppidum Novum néven fontos mezőgazdasági és katonai település volt. Napjainkban a régió Algéria egyik legfontosabb 'éléskamrája', ahol a modern öntözőrendszereknek köszönhetően intenzív növénytermesztés folyik. Különösen a burgonyatermesztésben tölt be meghatározó szerepet, az országos termelés jelentős része innen származik. A város fontos közlekedési csomópont az Algírt és Oránt összekötő főútvonal mentén, ami megkönnyíti a mezőgazdasági termékek gyors eljuttatását a nagyvárosi piacokra. Földrajz K7 — Folyóvölgyi gazdálkodás és öntözéses földművelés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost a rómaiak alapították Oppidum Novum néven a Kr. u. 1. században.",
+          "A tartomány Algéria legnagyobb burgonyatermelője.",
+          "A közeli Ghrib-gát biztosítja a mezőgazdasági területek öntözővizét.",
+          "A Cheliff-folyó völgye itt éri el egyik legszélesebb szakaszát.",
+          "A város fontos állomás az Algír-Orán vasútvonalon.",
+          "A környező hegyekben jelentős erdőgazdálkodás folyik.",
+          "A területen számos termálforrás található, például Hammam Righa."
+        ]
+      }
+    },
+    {
+      "id": "tipaza-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tipaza egy varázslatos tengerparti város, ahol a kék Földközi-tenger hullámai ókori köveket nyaldosnak. Az UNESCO világörökségi listáján szereplő romváros a föníciai, római és bizánci civilizációk emlékeit őrzi, köztük színházakat, bazilikákat és fórumokat. Albert Camus, a Nobel-díjas író is itt talált inspirációt híres esszéihez, lenyűgözve a táj és a történelem harmóniájától. A modern város a turizmusra és a halászatra épül, festői kikötője népszerű célpont az Algírból érkező látogatók számára. Tipaza környéke híres szőlőültetvényeiről és a Chenoua-hegyről, amely méltóságteljesen magasodik a tenger fölé. Történelem K8 — Az ókori Mediterráneum öröksége és a föníciai kereskedelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Tipaza romvárosa 1982 óta az UNESCO Világörökség része.",
+          "A város में található a 'Keresztény nő sírja' (Le Tombeau de la Chrétienne) nevű monumentális mauzóleum.",
+          "A római korban Tipaza fontos kereskedelmi kikötő volt Mauretania Caesariensis tartományban.",
+          "A romterületen látható a 4. századi Szent Salsa-bazilika maradványa.",
+          "Albert Camus tiszteletére emlékművet állítottak a romok között.",
+          "A Chenoua-hegy lábánál ősi barlangrajzokat fedeztek fel.",
+          "A város tengerpartja népszerű búvárhelyszín a tiszta víz miatt."
+        ]
+      }
+    },
+    {
+      "id": "mila-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Mila Algéria egyik legősibb, folyamatosan lakott városa, amelynek története a numidák és a rómaiak idejére nyúlik vissza. Az ókori Milevum néven ismert település kulcsszerepet játszott az észak-afrikai kereszténység korai szakaszában, hiszen több fontos egyházi zsinat helyszíne volt. A város büszkélkedhet az ország egyik legrégebbi mecsetével, a Sidi Ghanem-mecsettel, amelyet a 7. században egy bizánci bazilika alapjaira építettek. Mila óvárosát (Vieux Mila) még ma is masszív bizánci városfalak védelmezik, amelyek az ostromok és földrengések ellenére is fennmaradtak. A régiót ma a hatalmas Beni Haroun-gát és víztározó uralja, amely Északkelet-Algéria vízellátásának stratégiai bázisa. Földrajz K7 — Vízkészlet-gazdálkodás és történelmi városmagok."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Mila ókori neve Milevum volt, amely a 'tízezer forrás városa' jelentéssel bírt.",
+          "A Sidi Ghanem-mecsetet Abu al-Muhajir Dinar építtette Kr. u. 678-ban.",
+          "A várost körülvevő bizánci falak a 6. századból származnak.",
+          "A Beni Haroun-gát Algéria legnagyobb gátja, kapacitása 1 milliárd köbméter.",
+          "Szent Ágoston több alkalommal is járt Milában egyházi ügyekben.",
+          "A város római kori szökőkútja, az Ain El-Beled, ma is működik.",
+          "A tartomány fontos gabonatermelő vidék a Magas-fennsíkok szélén."
+        ]
+      }
+    },
+    {
+      "id": "el-tarf-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "El Tarf Algéria legészakkeletibb csücskében fekszik, ahol a dús erdőkkel borított hegyek a tunéziai határral találkoznak. Ez a vidék az ország legzöldebb és legvizesebb területe, híres a biodiverzitásáról és a tavairól, mint például az Oubeira és a Tonga-tó. A régió ékköve az El Kala Nemzeti Park, amely az UNESCO bioszféra-rezervátuma, és otthont ad ritka madárfajoknak és a veszélyeztetett berber szarvasnak. A part mentén korallzátonyok húzódnak, ami miatt El Tarf évszázadok óta a korallhalászat központja. A gazdaság alapját a fenntartható turizmus, a parafatermelés és a mezőgazdaság adja. Földrajz K7 — Természetvédelem és különleges ökoszisztémák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A tartományban található az El Kala Nemzeti Park, amely 80 000 hektáron terül el.",
+          "El Tarf híres a 'Vörös Koralljáról', amelyet luxusékszerekhez használnak.",
+          "A Tonga-tó fontos pihenőhely a vándormadarak számára Európa és Afrika között.",
+          "A régióban található Algéria legnagyobb paratölgy-erdősége.",
+          "A tunéziai határátkelő, Umm Tebul, az ország egyik legforgalmasabbja.",
+          "A tartomány tengerpartja, az El Kala-öböl, gazdag tengeri élővilággal rendelkezik.",
+          "A térségben jelentős a méhészet és a vadvirágméz-termelés."
+        ]
+      }
+    },
+    {
+      "id": "oum-el-bouaghi-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Oum El Bouaghi a Magas-fennsíkok (Hauts Plateaux) keleti részén található, az Aurès-hegység és a tengerparti síkságok közötti átmeneti zónában. A város és környéke egy félszáraz medencében fekszik, amelyet hatalmas sós tavak, úgynevezett 'chottok' jellemeznek. Ezek a tavak, mint a Chott Tinsilt, időszakosan kiszáradnak, és különleges élőhelyet biztosítanak a rózsás flamingóknak. A régió Algéria egyik legfontosabb gabonatermelő övezete, ahol a búza- és árpaültetvények az ég aljáig érnek. Oum El Bouaghi modern egyetemi város, amely kutatási központként is szolgál a sivatagosodás elleni küzdelemben. Földrajz K7 — Belső vízelvezetésű medencék és sztyeppei gazdálkodás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1984-ben tették tartományi székhellyé, korábban Canrobert néven ismerték.",
+          "A közeli sós tavak (sebkhák) nemzetközi jelentőségű vizes élőhelyek (Ramsari-terület).",
+          "A tartományban található az Oum El Bouaghi Egyetem, amely 2009-ben nyílt meg.",
+          "A régió éghajlata kontinentális, forró nyarakkal és hideg telekkel.",
+          "A város környéke gazdag neolitikumi dolmenekben és megalitikus sírokban.",
+          "A mezőgazdaság gerincét a szárazművelésű gabonatermesztés adja.",
+          "A város fontos katonai és adminisztratív központ Kelet-Algériában."
+        ]
+      }
+    },
+    {
+      "id": "ain-temouchent-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Aïn Témouchent egy virágzó város Algéria északnyugati partvidékén, félúton Orán és Tlemcen között. A környék mediterrán éghajlata és termékeny vulkanikus talaja ideális a mezőgazdaság számára, különösen a szőlőtermesztés és a zöldségfélék termesztése terén. A város építészetén és kultúráján mély nyomot hagyott a spanyol és francia jelenlét, ami az elegáns tereken és kertekben nyilvánul meg. A tartomány partvidéke, a 'Zafír-part', híres kristálytiszta vizű strandjairól és a közeli Rachgoun-szigetről, ahol egy antik világítótorony áll. A gazdaság fontos oszlopa a halászat és az élelmiszer-feldolgozó ipar. Földrajz K7 — Mediterrán mezőgazdaság és partmenti turizmus."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1999-ben súlyos földrengés érte, de mára teljesen újjáépült.",
+          "A Rachgoun-szigeten föníciai és római települések nyomait találták meg.",
+          "A környékbeli Beni Saf kikötője az ország egyik legnagyobb halászati bázisa.",
+          "A tartomány híres a 'Témouchent-i borokról', amelyeket nemzetközileg is ismernek.",
+          "A város neve berberül 'a nősténysakál forrását' jelenti.",
+          "A tengerparti Rachgoun üdülőhely népszerű a vízi sportok kedvelői körében.",
+          "A tartományban található a világ egyik leghosszabb gázvezetéke, a Medgaz indulópontja."
+        ]
+      }
+    },
+    {
+      "id": "boumerdes-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Boumerdès egy modern tengerparti város, mindössze 50 kilométerre keletre Algírtól. A település az 1960-as években vált fontos oktatási és tudományos központtá, amikor itt alapították meg az ország kőolaj- és gázipari egyetemeit. A város hosszú homokos strandjai és árnyas fenyőerdői miatt kedvelt üdülőhely a fővárosi lakosok számára. 2003-ban Boumerdès egy pusztító földrengés epicentruma volt, amely jelentős károkat okozott, de azóta a város modern stílusban épült újjá, fokozott figyelmet fordítva a szeizmikus biztonságra. Gazdasága ma az oktatásra, a kutatásra és a feltörekvő könnyűiparra épül. Földrajz K7 — Városfejlesztés és szeizmikus kockázatok a Mediterráneumban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost 1984-ben nevezték ki Boumerdès tartomány székhelyévé.",
+          "Itt található az IAP (Institut Algérien du Pétrole), Afrika vezető olajipari intézete.",
+          "A 2003-as földrengés a Richter-skála szerint 6,8-as erősségű volt.",
+          "A város tengerparti sétánya, a 'Corniche', több kilométer hosszan nyúlik el.",
+          "Boumerdès tartomány fontos kertészeti központ, híres a dísznövényeiről.",
+          "A település az ország egyik legmagasabb egyetemi hallgatói arányával rendelkezik.",
+          "A tartományban található a Figuier-fok, amely festői szikláiról ismert."
+        ]
+      }
+    },
+    {
+      "id": "bordj-badji-mokhtar-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bordj Badji Mokhtar Algéria egyik legtávolabbi települése, a Szahara legmélyén, a mali határ közvetlen közelében. A város egy igazi sivatagi előőrs a Tanezrouft-régióban, ahol az ember feletti hőség és a végtelen homoktenger az úr. A település létfontosságú tranzitpont a transz-szaharai kereskedelemben, ahol a tevekaravánokat mára felváltották az összkerékhajtású teherautók. A lakosság nagy része nomád tuareg, akik a sivatagi túlélés évezredes tudását birtokolják. A város élete a kút köré szerveződik, amely az egyetlen vízforrás a környéken. Itt tartják évente a látványos teverodeót és a sivatagi fesztivált. Földrajz K7 — Szélsőséges sivatagi környezet és a nomád életmód adaptációja."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város több mint 2000 kilométerre fekszik a fővárostól, Algírtól.",
+          "Bordj Badji Mokhtar a Tanezrouft, a 'Szomjúság Földje' szélén található.",
+          "A nyári hőmérséklet gyakran meghaladja az 50 Celsius-fokot az árnyékban.",
+          "A település fontos ellenőrző pont a Mali felé irányuló legális kereskedelemben.",
+          "A lakosok főként tuareg és berabish törzsekből származnak.",
+          "A város saját repülőtérrel rendelkezik, amely az egyetlen stabil összeköttetés északkal.",
+          "Az ivóvizet több mint 800 méter mélyről szivattyúzzák fel a felszínre."
+        ]
+      }
+    },
+    {
+      "id": "in-salah-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "In Salah a központi Szahara egyik legfontosabb oázisvárosa, amely egykor a transz-szaharai arany- és sókereskedelem kulcsfontosságú állomása volt. A várost ma két részre osztja egy hatalmas homokdűne, amely lassan, de feltartóztathatatlanul nyomul előre, folyamatos harcra kényszerítve a lakókat a homokkal. In Salah híres vörös agyagból épült épületeiről és egyedülálló öntözőrendszeréről, amely lehetővé teszi a pálmaligetek fenntartását. Napjainkban a város a földgázkitermelés egyik központja, ahol a világ egyik első szén-dioxid-leválasztási és -tárolási projektje zajlik. Az itt mért hőmérsékleti rekordok a világ legforróbb helyei közé emelik a települést. Földrajz K7 — Elsivatagosodás és energiaforrások a sivatagban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "In Salah környékén találhatók Algéria egyik legnagyobb földgáztartalékai.",
+          "A város dűnéi évente akár 15-20 métert is vándorolhatnak.",
+          "A település vörös falai jellegzetes 'ksar' építészeti stílust képviselnek.",
+          "A város egy óriási földalatti víztározó, az Albien-akvifer felett fekszik.",
+          "In Salah volt az első hely Afrikában, ahol kísérleti szén-dioxid-tárolást végeztek.",
+          "A nyári hónapokban a csapadék gyakorlatilag nulla, a páratartalom pedig 10% alatti.",
+          "A város oázisaiban kiváló minőségű datolyát termesztenek a homok ellenére."
+        ]
+      }
+    },
+    {
+      "id": "in-guezzam-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "In Guezzam Algéria legdélibb kapuja, amely a Nigerrel közös határon fekszik, a Hoggar-hegységől délre. Ez a település a Szahara és a Száhel-övezet találkozási pontja, ahol a táj fokozatosan vált át homokos sivatagból ritkás cserjés sztyeppébe. In Guezzam stratégiai jelentőségű a regionális biztonság és a szubszaharai Afrika felé irányuló áruszállítás szempontjából. A város élete a határmenti kereskedelemre épül, ahol algériai élelmiszereket és iparcikkeket cserélnek nigeri állatállományra. A lakosság túlnyomó többsége tuareg, akik szabadon mozognak a határokon átívelő legelők között. Földrajz K7 — Határmenti kereskedelem és geopolitikai jelentőség."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "In Guezzam 2019-ben vált teljes jogú tartományi (wilaya) székhellyé.",
+          "A település és a nigeri határátkelő, Assamaka közötti távolság mindössze 15 km.",
+          "A város a transz-szaharai autópálya legdélibb algériai pontja.",
+          "A régióban jelentős az illegális migráció és a csempészet elleni küzdelem.",
+          "A vízellátást mélyfúrású kutak biztosítják a sivatagi homok alatt.",
+          "A városban minden évben megrendezik a tuareg kulturális fesztivált.",
+          "In Guezzam környékén különleges gránitsziklák (monolitok) törnek elő a homokból."
+        ]
+      }
+    },
+    {
+      "id": "djanet-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Djanet egy festői oázisváros Algéria délkeleti csücskében, az Ajjer-fennsík (Tassili n'Ajjer) lábánál. A várost gyakran a 'Szahara gyöngyszemének' nevezik fehérre meszelt házai, buja pálmaligetei és a háttérben magasodó fekete vulkáni sziklák kontrasztja miatt. Djanet a világ egyik legjelentősebb szabadtéri múzeumának, a Tassili n'Ajjer Nemzeti Parknak a kapuja, ahol több ezer éves sziklarajzok mesélnek egy egykori zöld Szaharáról, elefántokkal és zsiráfokkal. A tuareg kultúra itt ma is élénk; a lakók híresek zenéjükről és a Sebeïba fesztiválról, amely az UNESCO szellemi örökségének része. Földrajz K7 — Világörökségi helyszínek és a Szahara őstörténete."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Tassili n'Ajjer Nemzeti Park az UNESCO Világörökség része 1982 óta.",
+          "Djanet híres sziklarajza a 'Sírni készülő tehén' (La Vache qui pleure).",
+          "A Sebeïba fesztivált minden évben az iszlám naptár szerinti Ashura idején tartják.",
+          "A város tengerszint feletti magassága 1035 méter, ami enyhíti a sivatagi hőséget.",
+          "A Djanet-oázisban több mint 30 000 datolyapálma ad árnyékot a kerteknek.",
+          "A környéken található az Essendilene-kanyon, amely állandó vizű tavat rejt.",
+          "Djanet fontos központja a sivatagi expedícióknak és a terepjárós turizmusnak."
+        ]
+      }
+    },
+    {
+      "id": "el-menia-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "El Menia, korábbi nevén El Goléa, egy lenyűgöző oázis Közép-Algériában, amelyet gyakran a 'Sivatag kapujának' vagy a 'Smaragd-oázisnak' hívnak. A város egy hatalmas karsztforrásnak köszönheti létét, amely bőséges vizet szolgáltat a több mint 180 000 datolyapálmának, narancsligeteknek és virágoskerteknek. A település felett egy 9. századi ksar (erődítmény) romjai magasodnak, ahonnan panorámás kilátás nyílik a Grand Erg Oriental homokdűnéire. El Menia híres vallástörténeti jelentőségéről is: itt található Charles de Foucauld atya sírja, aki a tuaregek közötti békés együttélés szimbólumává vált. Földrajz K7 — Oázisgazdálkodás és a felszín alatti vizek szerepe."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város neve arabul 'kis várat' jelent.",
+          "El Menia híres az édes és lédús narancsairól, ami ritka a sivatagban.",
+          "A Charles de Foucauld által alapított keresztény templom ma is látogatható.",
+          "A közeli sós tó (Sebkha) számos vízimadarat vonz a vonulási időszakban.",
+          "A település az országos észak-déli főútvonal mentén fekszik.",
+          "A régióban végzett mélyfúrások bőséges, 25-30 Celsius-fokot vizet hoznak a felszínre.",
+          "Az El Menia-i múzeum gazdag gyűjteménnyel rendelkezik a környék kövületeiből."
+        ]
+      }
+    },
+    {
+      "id": "timimoun-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Timimoun a Gourara-régió központja, híres jellegzetes vörös agyag építészetéről és szudáni stílusú épületeiről. Az oázist a 'Vörös Városnak' is nevezik, ahol a házak falait bonyolult geometrikus mintákkal díszítik. Timimoun legkülönlegesebb jellemzője a 'foggara' rendszer: ez egy ősi, gravitációs elven alapuló csatornahálózat, amely kilométereken át vezeti a vizet a föld alatt a pálmaligetekhez. A város a Grand Erg Occidental szélén fekszik, és bázisként szolgál a sivatagi túrákhoz. A helyi S'boue fesztivál az UNESCO szellemi öröksége, amely a próféta születésnapját ünnepli misztikus táncokkal és zenével. Földrajz K7 — Hagyományos vízgazdálkodás és sivatagi építészet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Timimoun-i foggara rendszer hossza összesen több száz kilométert tesz ki.",
+          "A város építészetében dominál a 'tabia', a szalmával kevert vörös agyag.",
+          "A közeli 'Ksar de Draa' egy rejtélyes, kör alakú erőd a dűnék között.",
+          "A S'boue ünnepség egyhetes zarándoklatot és kulturális feseményt foglal magában.",
+          "Timimoun híres a kézzel szőtt, színes mintázatú gyapjútakaróiról.",
+          "A város központjában álló Hotel Oasis Rouge a gyarmati 'neo-szudáni' stílus remeke.",
+          "A környéken számos 'sebkhát' (kiszáradt sós tavat) találunk."
+        ]
+      }
+    },
+    {
+      "id": "beni-abbes-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Béni Abbès, a 'Fehér Oázis', a Saoura-völgy egyik legszebb települése, ahol a sivatagi folyó (ued) kanyarulatai mentén buja zöld pálmaliget húzódik. A város közvetlenül a Grand Erg Occidental óriási homokdűnéinek lábánál fekszik, amelyek néhol a 200 méteres magasságot is elérik. Béni Abbès híres a skót származású Charles de Foucauld által épített remetelakról, ahol az atya éveket töltött meditációval. A városban működik egy neves sivatagi kutatóközpont, amely a Szahara flóráját és faunáját tanulmányozza. A Mawlid ünnepség idején a város megtelik zarándokokkal és látványos puskaporos bemutatókkal (Fantasia). Földrajz K7 — Folyóvölgyi oázisok és dűneformák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város egy skorpió alakú sziklára épült az ued partján.",
+          "Béni Abbès-ben található az ország egyik legrégebbi sivatagi múzeuma és állatkertje.",
+          "A Grand Erg Occidental dűnéi innen indulva érhetők el a legkönnyebben.",
+          "A településen hét ksar (erődített falu) romjai láthatók.",
+          "A helyi forrásvíz kristálytiszta és ásványi anyagokban gazdag.",
+          "A kutatóállomást (CNRS) még 1942-ben alapították a sivatag vizsgálatára.",
+          "A város híres a datolyaszirupjáról és a hagyományos sivatagi kenyeréről (taguella)."
+        ]
+      }
+    },
+    {
+      "id": "ouled-djellal-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Ouled Djellal egy stratégiai fekvésű város a Magas-fennsíkok és a Szahara találkozásánál, Biskrától nyugatra. A település világhírnevét az 'Ouled Djellal' juhfajtának köszönheti, amely a legfontosabb hús- és gyapjúforrás Algériában, és kiválóan alkalmazkodott a félsivatagi körülményekhez. A város gazdasága emellett a minőségi datolyatermesztésre, különösen a Deglet Nour fajtára épül. Ouled Djellal fontos kereskedelmi elosztó központ, ahol a környező nomád területek termékei cserélnek gazdát. A város modernizációja ellenére megőrizte hagyományos vallási iskoláit (zaouiák), amelyek a régió szellemi életét irányítják. Földrajz K7 — Állattenyésztési fajták és a piaci kereskedelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az Ouled Djellal juhfajta Algéria teljes állatállományának több mint 60%-át adja.",
+          "A város 2019-ben nyerte el a tartományi székhely rangot.",
+          "A település környékén hatalmas artézi kutak táplálják a mezőgazdaságot.",
+          "Ouled Djellal híres a 'Boussaadi' típusú késeiről és bőráruiról.",
+          "A tartományban található Algéria egyik legnagyobb vágóhídja és húsfeldolgozója.",
+          "A város éghajlata rendkívül száraz, az évi csapadék kevesebb mint 150 mm.",
+          "A helyi piac az ország egyik legnagyobb élőállat-vásárhelye."
+        ]
+      }
+    },
+    {
+      "id": "khemis-miliana-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Khemis Miliana egy dinamikusan fejlődő ipari és kereskedelmi város a Cheliff-völgy szívében. A római korban Malliana néven ismert település mindig is fontos útvonalak kereszteződésében állt, összekötve a tengerpartot a belső területekkel. Napjainkban a város a tartomány gazdasági motorja, ahol az élelmiszeripar, az építőanyag-gyártás és a kereskedelem dominál. Híres egyeteme élettel tölti meg a várost, és szakembereket képez a régió ipara számára. Khemis Miliana környéke intenzív mezőgazdasági terület, ahol a modern technológiát ötvözik a hagyományos gyümölcstermesztéssel. A város lüktető piaca és üzleti negyedei a modern Algéria fejlődését tükrözik. Földrajz K7 — Gazdasági csomópontok és városi hierarchia."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost a franciák Affreville-nek hívták a gyarmati időszakban.",
+          "Itt található a Yahia Fares Egyetem, amely a mérnöki tudományokra fókuszál.",
+          "Khemis Miliana Algéria egyik legforgalmasabb közúti csomópontja.",
+          "A város római kori romjainak egy része a modern épületek alatt fekszik.",
+          "A tartomány fontos központja a gyümölcskonzervek és lekvárok gyártásának.",
+          "A település lakossága az elmúlt 20 évben megduplázódott az iparosításnak köszönhetően.",
+          "A környék híres a kiváló minőségű almájáról és körtéjéről."
+        ]
+      }
+    },
+    {
+      "id": "el-hadjar-steel-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Annaba mellett található El Hadjar acélkomplexum Algéria nehéziparának zászlóshajója és Afrika egyik legnagyobb kohászati üzeme. Az 1960-as évek végén alapított létesítmény az ország iparosítási törekvéseinek szimbóluma, amely célul tűzte ki az önellátást az építőipari és gépipari acéltermékek terén. A komplexum egy teljes vertikumot foglal magában: a vasérc feldolgozásától a kokszolón át a hengerművekig, ahol lemezeket és acélcsöveket gyártanak. El Hadjar közvetlen vasúti összeköttetésben áll az ország keleti részén található vasércbányákkal, és közelsége Annaba kikötőjéhez lehetővé teszi a késztermékek gyors exportját. Gazdaságtan K8 — A nehézipar szerepe a nemzetgazdaságban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az üzemet 1969. június 19-én avatta fel Houari Boumédiène elnök.",
+          "A komplexum területe több mint 800 hektáron fekszik.",
+          "Éves termelési kapacitása csúcsidőszakban meghaladja a 2 millió tonnát.",
+          "A gyár közvetlen munkahelyet biztosít több mint 6000 embernek.",
+          "A vasércet főként a 160 km-re lévő Ouenza bányájából szállítják ide.",
+          "Az üzem saját hőerőművel és víztisztító rendszerrel rendelkezik.",
+          "A komplexumot az állami IMETAL csoport irányítja.",
+          "Fontos beszállítója az algériai autó- és hadiiparnak."
+        ]
+      }
+    },
+    {
+      "id": "port-of-oran-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Orán kikötője Algéria nyugati kapuja, és stratégiai fontosságú csomópont a mediterrán kereskedelemben. Ez az ország második legnagyobb forgalmú kikötője, amely kulcsszerepet játszik a konténeres áruszállításban, a gabonaimportban és a személyforgalomban. Modern termináljai alkalmasak a legnagyobb teherhajók fogadására, míg kompterminálja sűrű összeköttetést biztosít Spanyolországgal és Franciaországgal. A kikötő története a föníciai időkig nyúlik vissza, és a spanyol, majd francia uralom alatt vált modern kereskedelmi bázissá. A folyamatos fejlesztések révén a kikötő logisztikai háttere ma már a legmagasabb nemzetközi sztenderdeknek is megfelel. Földrajz K7 — Tengeri kikötők és a globális kereskedelem logisztikája."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kikötő éves áruforgalma meghaladja a 10 millió tonnát.",
+          "A konténerterminál kapacitása évente több mint 500 000 TEU egység.",
+          "Rendszeres kompjáratok közlekednek innen Almeríába és Alicantéba.",
+          "A kikötő medencéit a Murdjadjo-hegy lábánál alakították ki.",
+          "Itt található az ország egyik legnagyobb gabonasiló-rendszere.",
+          "A kikötő közvetlen autópálya-kapcsolattal rendelkezik a Kelet-Nyugat sztrádához.",
+          "A halászkikötő része az ország egyik legfontosabb szardínia-forrása.",
+          "A modernizációs terv része a digitalizált vámkezelési rendszer bevezetése."
+        ]
+      }
+    },
+    {
+      "id": "port-of-bejaia-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Béjaïa kikötője Algéria egyik legfontosabb mélyvízi kikötője, amely különösen a szénhidrogén-export és az élelmiszeripari alapanyagok kezelése terén tölt be meghatározó szerepet. A kikötő a végpontja a Hassi Messaoud-ból érkező olajvezetéknek, így az algériai nyersolaj egyik legfontosabb kiviteli kapuja. Stratégiai elhelyezkedése a Kabilia régió partján ideálissá teszi a belső országrészek ipari kiszolgálására. A kikötőben található az ország legnagyobb magánkézben lévő élelmiszeripari terminálja is, ahol cukrot és étolajat dolgoznak fel. A festői Gouraya-hegy lábánál fekvő öböl természetes védelmet nyújt a hajóknak. Gazdaságtan K8 — Energiaexport és ipari logisztika."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Béjaïa kikötője az első helyen áll Algériában a darabáru-forgalom tekintetében.",
+          "Itt található a Cevital csoport hatalmas finomító komplexuma.",
+          "A kikötő olajterminálja évente több millió tonna nyersolajat kezel.",
+          "Mélyvízi adottságai lehetővé teszik a 100 000 tonnás tankerek fogadását is.",
+          "A konténerforgalom dinamikusan növekszik, meghaladva a 250 000 TEU-t.",
+          "A kikötő fontos szerepet játszik a Kabilia régió parafatermékeinek exportjában.",
+          "Közvetlen vasúti kapcsolata van az országos hálózattal.",
+          "A kikötő bővítésére irányuló projekt egy új, külső kikötő építését is tartalmazza."
+        ]
+      }
+    },
+    {
+      "id": "port-of-annaba-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Annaba kikötője Kelet-Algéria legfontosabb ipari kikötője, amely szoros szimbiózisban él a közeli El Hadjar acélművel. Elsődleges feladata a vasérc, a foszfát és az acéltermékek szállítása, így a nemzeti ásványkincs-export egyik fő pillére. A kikötő emellett fontos kereskedelmi kapu az ország északkeleti része és Tunézia felé. Modernizált rakpartjai és daruparkja lehetővé teszi a nehézgépek és ipari berendezések hatékony kezelését. A személyszállító terminál rendszeres összeköttetést biztosít Európával, míg a halászati szektor a régió egyik legfontosabb munkaadója. Földrajz K7 — Ásványkincsek exportja és ipari infrastruktúra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kikötő a római kori Hippo Regius kikötőjének utódja.",
+          "Ez az ország első számú kikötője az ásványi export (foszfát, vas) terén.",
+          "A kikötő közvetlen ipari vágányokkal kapcsolódik az El Hadjar acélműhöz.",
+          "Évente több mint 5 millió tonna árut mozgatnak meg a terminálokon.",
+          "A személyszállító hajók főként Marseille irányába közlekednek.",
+          "A kikötőben jelentős javítóbázis működik kereskedelmi hajók számára.",
+          "Az Annaba-i kikötő az egyik legmélyebb természetes kikötő a keleti parton.",
+          "A tartományban tervezett új foszfát-projekt jelentősen növelni fogja a forgalmát."
+        ]
+      }
+    },
+    {
+      "id": "port-of-mostaganem-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Mostaganem kikötője egy dinamikusan fejlődő kereskedelmi csomópont Algéria nyugati partvidékén. Míg korábban főként mezőgazdasági termékek kivitelére specializálódott, mára fontos szerepet vállal az országos autóimport és a konténerforgalom tehermentesítésében Orán kikötőjétől. A kikötő modernizálása során új mólókat és raktárakat építettek, hogy kiszolgálják a növekvő ipari igényeket. A személyforgalom is jelentős; a Spanyolországba (Valencia) tartó kompjáratok az egyik leggyorsabb összeköttetést jelentik Európával. Mostaganem kikötője kulcsfontosságú a régió élelmiszeriparának és építőiparának ellátásában. Földrajz K7 — Regionális kikötők szerepe az áruszállításban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kikötő híres az algériai borok és citrusfélék exportjáról.",
+          "2016 óta rendszeres kompjárat köti össze Valenciával.",
+          "A kikötő medencéje alkalmas közepes méretű konténerhajók fogadására.",
+          "Fontos bázisa az algériai parti őrségnek és a halászflottának.",
+          "A kikötő közvetlen közelében új ipari parkot hoztak létre.",
+          "A gabonaimport terminál kapacitását nemrégiben bővítették.",
+          "Mostaganem kikötője az ország egyik legtisztább és legjobban szervezett kikötője.",
+          "A kikötői forgalom jelentősen hozzájárul a tartomány adóbevételeihez."
+        ]
+      }
+    },
+    {
+      "id": "djendjen-port-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Jijel mellett található Djendjen kikötője Algéria legmodernebb és legmélyebb tengeri kikötője. Kifejezetten a nagy kapacitású, legújabb generációs konténerhajók és ömlesztettáru-szállítók fogadására tervezték. A kikötő stratégiai szerepet tölt be a Bellara acélkomplexum kiszolgálásában, biztosítva a nyersanyagok behozatalát és a késztermékek kivitelét. 18 méteres vízmélységével egyedülálló a Maghreb-régióban, ami lehetővé teszi, hogy globális logisztikai csomóponttá váljon. A kikötő fejlesztése nemzetközi partnerségben (DP World) zajlik, célja az ázsiai és európai kereskedelmi útvonalak hatékonyabb összekapcsolása. Földrajz K7 — Mélyvízi kikötők és globális tengeri szállítás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kikötő vízmélysége eléri a 18,2 métert, ami a legnagyobb Algériában.",
+          "A konténerterminál tervezett kapacitása 2 millió TEU évente.",
+          "Közvetlen, emelt szintű gyorsforgalmi út köti össze a Kelet-Nyugat autópályával.",
+          "A kikötő speciális terminállal rendelkezik az autóimport kezelésére.",
+          "Itt található Algéria legnagyobb acélexport-kapuja.",
+          "A kikötő területén hatalmas szabadkereskedelmi zónát alakítottak ki.",
+          "A projekt jelentős katari és emirátusi befektetésekkel valósult meg.",
+          "Djendjen kulcsszerepet játszik az afrikai tranzitkereskedelemben."
+        ]
+      }
+    },
+    {
+      "id": "ghazaouet-port-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Ghazaouet kikötője Algéria legnyugatibb kereskedelmi kikötője, Tlemcen tartományban, a marokkói határ közelében. Elsődleges fontosságát a bányászati termékek, különösen a cink- és ólomérc exportja, valamint a mezőgazdasági termékek kivitele adja. A kikötő emellett az ország egyik legjelentősebb halászati központja, híres a szardínia- és szardellahalászatáról. A személyforgalom szempontjából is kiemelt jelentőségű, hiszen a Ghazaouet-Almería kompvonal az egyik legrövidebb és legnépszerűbb tengeri út Algéria és Spanyolország között. A kikötő szűk, dombok közé ékelt elhelyezkedése ellenére rendkívül magas hatékonysággal üzemel. Földrajz K7 — Határmenti kikötők és regionális integráció."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kikötőt a francia korszakban Nemours néven ismerték.",
+          "Ez az ország legfontosabb kikötője a színesfémércek exportjára.",
+          "A halászkikötő több száz családnak ad közvetlen megélhetést.",
+          "A Spanyolországba tartó kompjárat mindössze 7-9 órát vesz igénybe.",
+          "A kikötőben modern elektrolitikus cinkfeldolgozó üzem működik.",
+          "A környékbeli hegyek miatt a kikötő bővítése komoly mérnöki kihívás.",
+          "Ghazaouet híres a halpiacáról, amely a legfrissebb árut kínálja a régióban.",
+          "A kikötő stratégiai pont az Orán és Tlemcen közötti partmenti logisztikában."
+        ]
+      }
+    },
+    {
+      "id": "ouenza-iron-mine-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Ouenza vasércbányája Algéria egyik legfontosabb bányászati telephelye, amely Tébessa tartományban, a tunéziai határ közelében található. Ez a külszíni fejtésű bánya évtizedek óta az ország vasércigényének döntő részét fedezi, és az El Hadjar acélmű elsődleges nyersanyagforrása. A kőzet magas vastartalma (átlagosan 50-60%) miatt az itt bányászott érc nemzetközi szinten is kiváló minőségűnek számít. A bányászat nagyüzemi módszerekkel, robbantással és hatalmas kotrógépekkel folyik. Az ércet speciális tehervonatokkal szállítják a 160 kilométerre lévő Annabába. Gazdaságtan K8 — Ásványkincsek kitermelése és feldolgozása."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A bányát még 1921-ben kezdték el ipari méretekben művelni.",
+          "Az Ouenza-hegy szinte teljes egészében vasércből áll.",
+          "Éves termelése meghaladja a 2 millió tonnát.",
+          "A bánya közvetlenül kapcsolódik az országos ércszállító vasúti hálózathoz.",
+          "A kitermelés 24 órás műszakban zajlik a kereslet kielégítésére.",
+          "A kőzetben található hematit és magnetit adják a vas alapját.",
+          "A bánya több mint 1200 embert foglalkoztat a térségben.",
+          "A készletek a becslések szerint még több évtizedre elegendőek."
+        ]
+      }
+    },
+    {
+      "id": "boukhadra-iron-mine-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Boukhadra vasbánya az Ouenza bánya kiegészítő egysége Tébessa tartományban. Bár kisebb méretű, mint testvérbányája, az itt található vasérc minősége kiemelkedő, alacsony szennyezőanyag-tartalma miatt különösen kedvelt a kohászatban. A két bánya együtt alkotja az algériai vasérc-termelés gerincét, ellátva az Annaba-i és a jijeli acélműveket. A kitermelés itt is külszíni fejtéssel zajlik, a legmodernebb biztonsági előírások betartása mellett. A bánya üzemeltetése alapvető fontosságú a régió foglalkoztatottsága szempontjából, és szerves része az ország nehézipari ellátási láncának. Földrajz K7 — Bányászati központok és ipari tájak."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Boukhadra vasérce híres magas mangántartalmáról, ami javítja az acél minőségét.",
+          "A bánya tengerszint feletti magassága meghaladja az 1000 métert.",
+          "Az ércet vasúti kocsikba rakodják, és Annaba kikötőjébe vagy az acélműbe viszik.",
+          "A területen végzett kutatások újabb mélyebben fekvő teléreket tártak fel.",
+          "A bánya üzemeltetője az állami FERAAL vállalat.",
+          "A környező települések élete szorosan összefonódik a bánya működésével.",
+          "A kitermelt érc egy részét nemzetközi piacon is értékesítik.",
+          "A technológiai fejlesztések célja a bányászat környezeti hatásainak csökkentése."
+        ]
+      }
+    },
+    {
+      "id": "djebel-onk-phosphate-mine-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Djebel Onk foszfátbánya Tébessa tartomány déli részén található, és a világ egyik legnagyobb foszfátlelőhelye. Algéria számára ez a bánya a műtrágyagyártás és a modern mezőgazdaság alapköve. Az itt kitermelt foszfátot nemcsak belföldön használják fel, hanem hatalmas mennyiségben exportálják is Annaba kikötőjén keresztül. A kormány egy nagyszabású projekt keretében integrált foszfát-komplexumot épít ki, amely a bányászattól a vegyipari feldolgozásig terjed. Ez a fejlesztés kulcsfontosságú a gázfüggő algériai gazdaság diverzifikálásában és a mezőgazdasági export növelésében. Gazdaságtan K8 — Nyersanyag-diverzifikáció és műtrágyagyártás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Djebel Onk lelőhely tartalékait 2 milliárd tonnára becsülik.",
+          "A foszfátrétegek vastagsága helyenként eléri a 30 métert.",
+          "Az ércet Annabába szállítják, ahol foszforsavat és műtrágyát készítenek belőle.",
+          "Algéria a világ 5 legnagyobb foszfáttartalékkal rendelkező országa közé tartozik.",
+          "A bánya modern dúsító üzemmel rendelkezik a helyszínen.",
+          "Az új integrált projekt értéke meghaladja a 6 milliárd dollárt.",
+          "A vasúti pályát Annaba és Djebel Onk között kifejezetten a foszfátszállításhoz erősítették meg.",
+          "A kitermelés nagy gépesítettsége miatt a bánya rendkívül hatékony."
+        ]
+      }
+    },
+    {
+      "id": "in-amenas-gas-plant-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az In Amenas gázüzem Algéria délkeleti részén, a líbiai határ közelében fekszik, és az ország egyik legnagyobb földgáz- és kondenzátum-kitermelő központja. A projektet a Sonatrach, a BP és az Equinor (korábban Statoil) közösen üzemelteti, ami a nemzetközi energetikai együttműködés mintapéldája. Az üzem négy hatalmas gázmezőről gyűjti össze a nyersanyagot, amelyet helyben dolgoznak fel, leválasztva a cseppfolyós gázokat és a kondenzátumot. A tisztított földgázt csővezetékeken szállítják az északi exportterminálokhoz. Az üzem elszigetelt, sivatagi elhelyezkedése ellenére csúcstechnológiát és szigorú biztonsági rendszereket alkalmaz. Földrajz K7 — Energiaforrások és távolsági szállítás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az üzem 2006-ban kezdte meg a termelést.",
+          "Napi kapacitása eléri a 30 millió köbméter földgázt.",
+          "Az itt termelt kondenzátumot (könnyűolajat) üzemanyag-finomításhoz használják.",
+          "Az üzem saját lakóteleppel, kórházzal és repülőtérrel rendelkezik a dolgozók számára.",
+          "A létesítmény az ország teljes gáztermelésének mintegy 10%-át adja.",
+          "A sivatagi környezet miatt az üzem saját víztisztító és áramtermelő egységgel bír.",
+          "A gázt több mint 500 km hosszú vezetéken továbbítják Hassi R'Mel irányába.",
+          "A projekt kiemelt fontosságú Európa energiabiztonsága szempontjából."
+        ]
+      }
+    },
+    {
+      "id": "rouiba-industrial-zone-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Rouiba ipari övezet Algír keleti külvárosában található, és az ország legrégebbi, egyben legnagyobb ipari parkja. Itt koncentrálódik az algériai gépgyártás és élelmiszeripar színe-java. Legismertebb üzeme az SNVI teherautó- és buszgyár, amely évtizedek óta ellátja az országot közlekedési eszközökkel. Az övezetben számos nemzetközi vállalat (mint a Nestlé, Coca-Cola, Henkel) is gyárat létesített, kihasználva a kiváló logisztikai adottságokat és a főváros közelségét. Rouiba nemcsak gazdasági központ, hanem több tízezer ember számára biztosít munkát, motorja az algériai városiasodásnak és a középosztály felemelkedésének. Gazdaságtan K8 — Ipari körzetek és a multunacionális vállalatok jelenléte."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az ipari övezet területe meghaladja az 1000 hektárt.",
+          "Itt gyártják az SNVI legendás 'L600' típusú teherautóit.",
+          "Az övezet közvetlen összeköttetésben áll az algíri kikötővel és a repülőtérrel.",
+          "Több mint 250 kisebb és nagyobb vállalat működik a park területén.",
+          "A területen található az ország legnagyobb gyógyszergyártó üzemeinek egy része.",
+          "Rouiba ipari zónája adja a fővárosi régió ipari termelésének közel 40%-át.",
+          "A zóna saját vasúti terminállal rendelkezik az áruk mozgatásához.",
+          "Folyamatos fejlesztések zajlanak a környezetvédelmi és hulladékkezelési rendszerek terén."
+        ]
+      }
+    },
+    {
+      "id": "bellara-steel-complex-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Jijel mellett található Bellara acélkomplexum Algéria legmodernebb nehézipari beruházása, amely az algériai állam és Katar partnerségével (AQS) jött létre. A gyár a legkorszerűbb közvetlen redukciós (DRI) technológiát alkalmazza, ami energiatakarékosabb és környezetkímélőbb a hagyományos módszereknél. Fő termékei a betonacél és a huzalok, amelyek elengedhetetlenek az ország nagyszabású lakásépítési és infrastruktúra-fejlesztési projektjeihez. Bellara stratégiai célja, hogy Algéria ne csak önellátó legyen acélból, hanem a felesleget exportálni is tudja a mediterrán és afrikai piacokra. Gazdaságtan K8 — Nemzetközi befektetések és technológiai modernizáció."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A komplexum értéke meghaladja a 2 milliárd dollárt.",
+          "Éves termelési kapacitása az első fázisban 2 millió tonna acél.",
+          "Itt található a világ egyik legnagyobb közvetlen redukciós (DRI) kemencéje.",
+          "Az üzem közvetlen összeköttetésben áll a szomszédos Djendjen mélyvízi kikötőjével.",
+          "A gyár több mint 1500 közvetlen munkahelyet teremtett a régióban.",
+          "A termelés során nagy hangsúlyt fektetnek a digitalizációra és az automatizálásra.",
+          "A komplexum saját 1200 MW-os erőművel rendelkezik a zavartalan energiaellátáshoz.",
+          "Bellara acéltermékei rendelkeznek a legfontosabb nemzetközi minőségi tanúsítványokkal."
+        ]
+      }
+    },
+    {
+      "id": "ain-smara-tractor-plant-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Ain Smara traktorgyár Constantine mellett Algéria mezőgazdasági gépesítésének központja. Az ETRAG vállalat által üzemeltetett gyár híres a Massey Fergusonnal kötött vegyesvállalati megállapodásáról, amelynek keretében modern, világszínvonalú traktorokat szerelnek össze a helyi piacra. A gyár célja az ország élelmiszer-önrendelkezésének támogatása azáltal, hogy megfizethető és megbízható gépeket biztosít az algériai gazdák számára. Ain Smara ipari zónája emellett földmunkagépek és motorok gyártásával is foglalkozik, szoros együttműködésben európai partnerekkel (például a Liebherr-rel). Gazdaságtan K8 — Mezőgazdasági gépesítés és technológiatranszfer."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A gyár évente több mint 5000 traktort képes kibocsátani.",
+          "A Massey Ferguson modelleket (mint az MF 440) kifejezetten az algériai terepviszonyokra optimalizálták.",
+          "A helyi beszállítói arány folyamatosan növekszik, elérve a 40%-ot.",
+          "A gyár mellett modern oktatóközpont működik a szerelők és kezelők számára.",
+          "Ain Smara-ban gyártják az SNVI teherautókhoz használt egyes alkatrészeket is.",
+          "A vállalat exportálja is termékeit egyes szomszédos afrikai országokba.",
+          "A technológiai partnerség része a precíziós mezőgazdasági eszközök bevezetése.",
+          "A gyár jelentősen hozzájárul Constantine 'ipari főváros' státuszához."
+        ]
+      }
+    },
+    {
+      "id": "enie-sidi-bel-abbes-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az ENIE (Entreprise Nationale des Industries Electroniques) Sidi Bel Abbès-ben az algériai elektronikai ipar bölcsője és központja. Az 1970-es években alapított vállalat mára modern technológiai parkká vált, amely televíziók, informatikai eszközök és napelemek gyártására szakosodott. Az ENIE kulcsszerepet játszik az ország digitális átállásában és a megújuló energiaforrások terjesztésében. Saját kutató-fejlesztő központtal rendelkezik, ahol helyi mérnökök dolgoznak az áramkörök és szoftverek fejlesztésén. A vállalat nemcsak a lakossági igényeket szolgálja ki, hanem fontos beszállítója az oktatási és állami intézményeknek is. Gazdaságtan K8 — High-tech ipar és elektronikai gyártás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az ENIE gyáraiban készülnek az ország első saját márkás okostelefonjai és táblagépei.",
+          "A napelemgyár kapacitása évente több mint 25 MWp teljesítményű panel.",
+          "A vállalat rendelkezik az egyik legmodernebb tiszta szobás (clean room) laboratóriummal Afrikában.",
+          "Az ENIE termékei országos szervizhálózattal és garanciával rendelkeznek.",
+          "Sidi Bel Abbès-ben a vállalat több mint 2000 embert foglalkoztat.",
+          "Partnerségi megállapodásaik vannak dél-koreai és kínai technológiai óriásokkal.",
+          "A gyár területén oktatási központ működik a diákok gyakorlati képzésére.",
+          "Az ENIE televíziók az algériai háztartások egyik legismertebb márkája."
+        ]
+      }
+    },
+    {
+      "id": "constantine-pharmaceutical-hub-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Constantine Algéria gyógyszergyártásának központja, ahol az állami Saidal mellett számos nemzetközi gyógyszeripari óriás hozott létre modern termelőbázist. A városban koncentrálódik az országos gyógyszertermelés jelentős része, beleértve az életmentő antibiotikumokat, inzulinokat és újabban a vakcinákat is. A kormány stratégiai célja, hogy Algéria a kontinens gyógyszeripari exportőrévé váljon, és Constantine ebben a törekvésben a motor szerepét tölti be. A biotechnológiai fejlesztések és a helyi egyetemekkel való együttműködés révén a város a tudásalapú gazdaság egyik legfontosabb bástyája az országban. Gazdaságtan K8 — Gyógyszeripar és egészségügyi önellátás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Constantine-ban működik Afrika egyik legnagyobb inzulintermelő üzeme.",
+          "A Saidal csoport itt gyártja az országos szükséglet nagy részét fedező generikus gyógyszereket.",
+          "A városban nemzetközi cégek, mint a GSK és a Novartis is rendelkeznek gyárakkal.",
+          "Itt zajlott az egyik első afrikai COVID-19 vakcina-összeszerelési projekt.",
+          "A gyógyszeripari zóna közvetlen közelében található a tudományos és technológiai egyetem.",
+          "A szektor több mint 5000 magasan képzett szakembert foglalkoztat a városban.",
+          "A folyamatos kutatások célja a növényi alapú hatóanyagok kinyerése a helyi flórából.",
+          "A termékek jelentős részét már a szomszédos afrikai országokba is exportálják."
+        ]
+      }
+    },
+    {
+      "id": "bethioua-petrochemical-zone-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Orán mellett található Bethioua ipari övezet a világ egyik legjelentősebb petrolkémiai komplexuma, amely közvetlenül kapcsolódik az Arzew-i kikötőhöz. Itt összpontosul az algériai cseppfolyósított földgáz (LNG) gyártásának és a műtrágya-előállításnak a szíve. Az övezet hatalmas gázfeldolgozó egységeknek, metanol-üzemeknek és ammónia-gyáraknak ad otthont, amelyek a Hassi R'Mel-ből érkező gázt alakítják nagy értékű exporttermékekké. Bethioua stratégiai jelentőségű a globális energiapiacon, hiszen az innen induló LNG-tankerek látják el Európa és Amerika jelentős részét. A zóna folyamatos bővítése az algériai gázkincs magasabb szintű feldolgozását célozza. Gazdaságtan K8 — Gázfeldolgozás és globális exporttermékek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bethioua ad otthont a világ egyik első LNG-üzemének (GL1Z).",
+          "A Fertial és a Sorfert műtrágyagyárak a zóna legfontosabb egységei közé tartoznak.",
+          "Az övezet közvetlen gázvezeték-kapcsolattal rendelkezik a Szaharával.",
+          "Itt található az ország legnagyobb acélcsőgyára is, amely az olajvezetékekhez szállít.",
+          "A zóna területe több mint 2000 hektárt foglal el a tengerparton.",
+          "Az itt működő finomítók üzemanyaggal látják el Nyugat-Algériát.",
+          "A biztonsági előírások az egyik legszigorúbbak az ország ipari létesítményei közül.",
+          "A projektben jelentős külföldi tőke (például OCI, Total) is jelen van."
+        ]
+      }
+    },
+    {
+      "id": "gara-djebilet-iron-mine-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Gara Djebilet Algéria délnyugati részén, Tindouf tartományban található, és a világ egyik legnagyobb, eddig kiaknázatlan vasérckészletével büszkélkedhet. A közelmúltban indított megaprojekt célja, hogy ez a távoli sivatagi lelőhely váljon az algériai acélipar fő nyersanyagforrásává, kiváltva az északi bányák kimerülő készleteit. A projekt részeként egy közel 1000 kilométer hosszú vasútvonalat építenek, amely összeköti a bányát az északi ipari övezetekkel. Gara Djebilet fejlesztése nemcsak gazdasági, hanem geopolitikai jelentőségű is, hiszen teljesen új életet lehel a nyugat-szaharai régióba és több ezer munkahelyet teremt. Gazdaságtan K8 — Új bányászati horizontok és infrastruktúra-fejlesztés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A vasérckészletet 3,5 milliárd tonnára becsülik, amivel a világ élvonalába tartozik.",
+          "A bánya kitermeléséhez kínai konzorciummal kötöttek stratégiai megállapodást.",
+          "A vasérc foszfortartalmának csökkentésére speciális metallurgiai eljárást alkalmaznak.",
+          "A projekt várhatóan évi 40-50 millió tonna érc kitermelését teszi lehetővé hosszú távon.",
+          "A bányához vezető vasútvonal az ország egyik legnagyobb mérnöki vállalkozása.",
+          "A bánya üzemeltetése teljesen új várost hoz létre a sivatag mélyén.",
+          "Az acélipar függetlenedése az importtól több milliárd dolláros megtakarítást jelent.",
+          "A projekt 2022-ben lépett a konkrét kitermelési fázisba."
+        ]
+      }
+    },
+    {
+      "id": "el-borma-oil-field-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az El Borma olajmező a Szahara keleti részén, közvetlenül a tunéziai határon található, és az egyik legrégebbi, ma is üzemelő szénhidrogén-lelőhely az országban. A mező érdekessége, hogy a két ország (Algéria és Tunézia) osztozik rajta, ami egyedülálló határon átnyúló energetikai együttműködést igényel. Bár a mező már túljutott a termelési csúcsán, a Sonatrach modern rétegnyomás-fenntartó eljárásokkal (víz- és gázvisszasajtolás) továbbra is jelentős mennyiségű könnyűolajat nyer ki belőle. El Borma fontos szerepet játszott az algériai olajipar hajnalán, és ma is stabil bevételi forrást jelent a nemzetgazdaság számára. Földrajz K7 — Határon átnyúló erőforrások és fenntartható kitermelés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A mezőt az 1950-es évek végén fedezték fel, és 1960-ban indult a termelés.",
+          "Az itt található kőolaj rendkívül könnyű, magas piaci értékű típus.",
+          "A mező infrastruktúrája szoros kapcsolatban áll a Hassi Messaoud-i hálózattal.",
+          "El Borma térségében kiterjedt csővezeték-rendszer épült ki az elmúlt évtizedekben.",
+          "A sivatagi körülmények miatt az állomást saját ivóvízellátó rendszerrel szerelték fel.",
+          "A kitermelés csökkenését új, kisebb szatellitmezők bekötésével ellensúlyozzák.",
+          "A területen szigorú környezetvédelmi ellenőrzés zajlik a talajvíz védelme érdekében.",
+          "A mező munkásai 4 hetes váltott műszakokban dolgoznak az elszigetelt helyszínen."
+        ]
+      }
+    },
+    {
+      "id": "rhourde-nouss-gas-field-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Rhourde Nouss gázmező-komplexum a Szahara szívében, Hassi Messaoud-tól délre található, és Algéria egyik legfontosabb földgáz- és kondenzátum-feldolgozó központja. A terület több egymáshoz kapcsolódó gázmezőt foglal magában, amelyek nyersanyagát egy központi üzemben tisztítják és készítik elő a távvezetékekbe való betáplálásra. Az üzem technológiája lehetővé teszi a földgázban lévő folyékony összetevők (LPG és kondenzátum) hatékony leválasztását, ami jelentős plusz bevételt jelent. Rhourde Nouss a Sonatrach gázhálózatának egyik kritikus csomópontja, amely biztosítja az exportfolyamatok folyamatosságát Európa felé. Gazdaságtan K8 — Gázfeldolgozás és a szénhidrogének értéklánca."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A komplexum napi feldolgozási kapacitása meghaladja a 40 millió köbmétert.",
+          "Itt található Algéria egyik legmodernebb gázvisszasajtoló állomása.",
+          "A mező több mint 250 aktív fúrólyukkal rendelkezik a térségben.",
+          "Az üzem 2012-ben jelentős bővítésen esett át (Rhourde Nouss Central).",
+          "A kondenzátum-termelés eléri a napi több ezer köbmétert.",
+          "A gázt főként a Trans-Mediterranean (Enrico Mattei) vezetéken keresztül exportálják.",
+          "A létesítmény saját távközlési hálózattal és biztonsági központtal bír.",
+          "A terület geológiai szerkezete rendkívül komplex, mélyen fekvő tárolókkal."
+        ]
+      }
+    },
+    {
+      "id": "timimoun-gas-field-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Timimoun gázprojekt Algéria délnyugati régiójának egyik legújabb energetikai fejlesztése, amely a Sonatrach, a TotalEnergies és a Cepsa partnerségében jött létre. Ez a mező az úgynevezett 'szoros gáz' (tight gas) kitermelésére fókuszál, amelyhez speciális, vízszintes fúrási és rétegrepesztési technológiákra van szükség. A projekt célja a Szahara délnyugati részein rejlő hatalmas, korábban nehezen hozzáférhető gázkészletek kiaknázása. Az itt kitermelt gázt egy 800 kilométeres vezetéken (GR5) keresztül szállítják a Hassi R'Mel-i központba, bekötve a régiót a nemzeti exportvérkeringésbe. Földrajz K7 — Új technológiák az energiakitermelésben és sivatagi tájformálás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A mező 2018 tavaszán kezdte meg a kereskedelmi termelést.",
+          "A központi feldolgozó üzem (CPF) napi 5 millió köbméter gáz kezelésére alkalmas.",
+          "A projekt 37 fúrólyukat és egy több száz kilométeres gyűjtőhálózatot foglal magában.",
+          "A GR5 vezeték lehetővé teszi a délnyugati gáz eljutását a tengerparti LNG-üzemekbe.",
+          "A fejlesztés során nagy figyelmet fordítottak a helyi munkaerő képzésére.",
+          "A mező geológiai adottságai miatt a kitermelés fenntartása folyamatos technikai innovációt igényel.",
+          "A beruházás értéke meghaladja az 1,5 milliárd dollárt.",
+          "Timimoun városa jelentős infrastrukturális fejlődésen ment keresztül a projekt hatására."
+        ]
+      }
+    },
+    {
+      "id": "touat-gas-field-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "A Touat gázmező Adrar tartományban található, és Algéria egyik legfontosabb stratégiai beruházása a délnyugati gázkészletek hasznosítására. A projekt a Sonatrach és a Neptune Energy együttműködésében valósult meg, és célja az Adrar-medence gázkincsének kiaknázása. Az üzem nemcsak az exportot szolgálja, hanem kulcsszerepet játszik a környékbeli erőművek és lakossági fogyasztók ellátásában is, stabilizálva a szaharai régió energiarendszerét. A Touat mező technológiája a legmagasabb környezetvédelmi sztenderdeket követi, minimalizálva a fáklyázást és a károsanyag-kibocsátást a sivatagi környezetben. Gazdaságtan K8 — Regionális energiabiztonság és belföldi gázfelhasználás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A mező teljes kapacitása évi 4,5 milliárd köbméter földgáz.",
+          "A központi feldolgozó egység (CPF) Adrar várostól északra fekszik.",
+          "A projektben több mint 25 fúrólyuk és egy komplex tisztítóüzem üzemel.",
+          "A gázt az GR5 gyűjtővezetéken keresztül továbbítják észak felé.",
+          "A Touat mező gáza biztosítja az üzemanyagot az Adrar-i villamosenergia-termeléshez.",
+          "Az építkezés során több ezer helyi munkavállalót vontak be a kivitelezésbe.",
+          "A mező kondenzátum-tartaléka is jelentős, amit helyben különítenek el.",
+          "A Touat-medence gázkincse évtizedekre garantálja Algéria energia-függetlenségét."
+        ]
+      }
+    },
+    {
+      "id": "adrar-oil-refinery-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Adrar-i olajfinomító Algéria legdélebbi finomítója, amely stratégiai szerepet tölt be a Szahara középső és déli régióinak üzemanyag-ellátásában. Bár kapacitása elmarad az északi nagy finomítókétól, léte elengedhetetlen a szállítási költségek csökkentéséhez és a helyi gazdaság stabilitásához. A finomító a közeli Adrar-medence kis olajmezőiről kapja a nyersanyagot, és benzint, dízelt, valamint fűtőolajat állít elő a helyi lakosság és az ipari felhasználók számára. A létesítmény kínai-algériai együttműködésben épült, és a modern sivatagi iparosítás egyik legfontosabb eredménye. Földrajz K7 — Regionális ellátási láncok és a szállítási távolságok szerepe."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A finomítót 2007-ben adták át, a kínai CNPC közreműködésével.",
+          "Éves feldolgozási kapacitása körülbelül 600 000 tonna nyersolaj.",
+          "Ez a finomító látja el üzemanyaggal a szomszédos Mali és Niger felé tartó kamionokat is.",
+          "A létesítmény közvetlen közelében tárolóparkot alakítottak ki a stratégiai készleteknek.",
+          "Az Adrar-i finomító csökkenti a déli régió függőségét az északról érkező szállítmányoktól.",
+          "Az üzem technológiáját speciálisan a helyi, alacsony kéntartalmú olajhoz igazították.",
+          "A finomító több mint 300 állandó munkahelyet biztosít Adrar tartományban.",
+          "A projekt része volt egy aszfaltgyártó egység is az útépítések támogatására."
+        ]
+      }
+    },
+    {
+      "id": "algiers-refinery-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Algíri finomító, ismertebb nevén a Sidi Rzine-i finomító, a fővárosi régió és Közép-Algéria energiabiztonságának oszlopa. Az 1960-as években épült létesítmény nemrégiben teljes modernizáción esett át, hogy megfeleljen a legújabb környezetvédelmi előírásoknak és a növekvő üzemanyag-igénynek. A finomító közvetlenül kapcsolódik az algíri kikötőhöz, így a feldolgozott termékek egy részét hajón, a többit pedig vezetéken és teherautón juttatják el a fogyasztókhoz. Fő termékei közé tartozik a kiváló minőségű ólommentes benzin és a gázolaj. A finomító központi elhelyezkedése miatt stratégiai célpont, amelynek zavartalan működése kulcsfontosságú a közlekedés és az ipar számára. Gazdaságtan K8 — Üzemanyag-finomítás és a nagyvárosi ellátás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A finomító éves kapacitása a modernizáció után elérte a 3,6 millió tonnát.",
+          "A modernizációs projekt keretében új katalitikus krakkoló egységet építettek be.",
+          "A finomító biztosítja Algír és környéke üzemanyagszükségletének nagy részét.",
+          "Itt gyártják az országos légi közlekedéshez használt kerozin egy jelentős részét.",
+          "A létesítmény szigorú biztonsági zónában található a lakott területek közelében.",
+          "A finomító közvetlen vezetékkel kapcsolódik a Béjaïa-i olajkikötőhöz.",
+          "Az üzemben folyamatosan figyelik a levegőminőséget a környező kerületek védelmében.",
+          "Sidi Rzine az egyik legfontosabb adófizető egység Algír tartományban."
+        ]
+      }
+    },
+    {
+      "id": "port-of-tenes-economic-v2",
+      "descriptionAdvanced": {
+        "hu": "Ténès kikötője egy fontos regionális kereskedelmi és halászati bázis Chlef tartományban, Algír és Orán között félúton. A kikötő elsődleges feladata a környező mezőgazdasági és ipari területek kiszolgálása, különösen az építőanyagok és élelmiszerek szállítása terén. Ténès halászkikötője híres a gazdag tengeri élővilágáról, különösen a fehér húsú halakról, amelyek a helyi piacok mellett az algíri éttermekbe is eljutnak. A kikötő infrastruktúrája egy kisebb kereskedelmi terminált is magában foglal, amely tehermentesíti a nagyobb központi kikötőket. A város történelmi múltja és a kikötő gazdasági szerepe szorosan összefonódik. Földrajz K7 — Regionális partmenti központok és a kishalászat jelentősége."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kikötő a föníciai idők óta fontos megállóhely a tengeri útvonalakon.",
+          "A halászflotta több mint 100 modern bárkából és számos hagyományos csónakból áll.",
+          "A kikötő mólói népszerű kirándulóhelyek a helyi lakosok számára.",
+          "Ténès kikötője fontos szerepet játszik a Chlef-völgy gabonájának tengeri szállításában.",
+          "A kikötő bővítésére vonatkozó tervek egy új gát építését is tartalmazzák.",
+          "Itt található a régió egyik legfontosabb halhűtő- és feldolgozó üzeme.",
+          "A kikötő alkalmas közepes méretű áruszállító hajók fogadására.",
+          "A turizmus fellendítése érdekében jachtkikötő kialakítását is tervezik."
+        ]
+      }
+    }
+  ]
+}

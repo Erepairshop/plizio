@@ -24,7 +24,16 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Föníciaiak alapították.", "Róma lerombolta, majd újjáépítette."],
       ro: ["Fondată de fenicieni.", "Distrusă și reconstruită de Roma."],
       en: ["Founded by the Phoenicians.", "Destroyed and rebuilt by Rome."]
-    }, image: "/poi-images/carthage-ruins-history-v2.webp"},
+    }, image: "/poi-images/carthage-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Karthago sind eines der bedeutendsten historischen Zeugnisse des Mittelmeerraums und dokumentieren den Aufstieg und Fall einer einstigen Weltmacht. Die Stadt, die im 9. Jahrhundert v. Chr. von Phöniziern gegründet wurde, lieferte sich in den Punischen Kriegen einen erbitterten Kampf gegen Rom. Heute umfassen die archäologischen Stätten, die zum UNESCO-Weltkulturerbe gehören, römische Thermen, antike Häfen und Villen. Besucher können die beeindruckenden Ausmaße der einstigen Handelsmetropole nachvollziehen. In der Geschichtsklasse K8 lernen Schüler die geopolitische Bedeutung dieses Machtkampfes im Mittelmeer.",
+      hu: "Karthágó romjai Tunézia történelmének legfontosabb emlékei, egykor a hatalmas pun birodalom központja volt, amely uralta a Földközi-tengert. A mai rommező bepillantást enged az ókori világépítészetbe, a fürdőkbe és a kikötőkbe, amelyek ma az UNESCO világörökség részei. Történelem K8 — ókori civilizációk."
+    },
+    factsAdvanced: {
+      de: ["Karthago wurde laut Legende von der Königin Dido gegründet.", "Die Stadt war die Hauptstadt des Punischen Reiches.", "Die Punischen Kriege dauerten von 264 bis 146 v. Chr.", "Die Ruinen der Antoninus-Pius-Thermen sind die größten in Nordafrika.", "Der antike Hafen von Karthago gilt als Meisterwerk punischer Ingenieurskunst.", "Karthago wurde nach der römischen Eroberung zur Hauptstadt der Provinz Africa."],
+      hu: ["Karthágót a punok alapították az i.e. 9. században.", "A város hosszú ideig Róma legfőbb riválisa volt.", "A híres Antoninus-fürdő romjai ma is látogathatók.", "Karthágó az UNESCO világörökség része.", "A város tengeri kikötője ókori mérnöki csoda volt.", "Hannibál innen indult híres hadjárataira."]
+    }
+  },
   {
     id: "el-djem-amphitheatre-history-v2",
     type: "historical",
@@ -47,7 +56,16 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Akár 35 000 nézőt is befogadott.", "A Kr. u. 3. században épült."],
       ro: ["Găzduia până la 35.000 de spectatori.", "Construit în secolul al III-lea d.Hr."],
       en: ["Held up to 35,000 spectators.", "Built in the 3rd century AD."]
-    }, image: "/poi-images/el-djem-amphitheatre-history-v2.webp"},
+    }, image: "/poi-images/el-djem-amphitheatre-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Amphitheater von El Djem ist das drittgrößte erhaltene römische Amphitheater der Welt und ein Symbol für die römische Präsenz in Afrika. Errichtet im 3. Jahrhundert n. Chr., bot es Platz für schätzungsweise 35.000 Zuschauer und wurde für Gladiatorenkämpfe sowie Wagenrennen genutzt. Die beeindruckende Fassade und die gut erhaltenen unterirdischen Gänge geben einen tiefen Einblick in das öffentliche Leben der römischen Ära. Es ist ein UNESCO-Weltkulturerbe und heute ein Veranstaltungsort für klassische Musikfestivals. Für Schüler in K8 bietet das Bauwerk eine Fallstudie über die architektonische Meisterleistung der römischen Zeit.",
+      hu: "Az El-Djem-i amfiteátrum a római építészet egyik legimpozánsabb megmaradt emléke Észak-Afrikában, amely egykor a gladiátorjátékok helyszíne volt. A hatalmas építmény, amely több mint 30 ezer néző befogadására volt képes, ma is tanúskodik a rómaiak mérnöki tudásáról. UNESCO világörökségi helyszín. Történelem K8 — Római Birodalom."
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde etwa 230–238 n. Chr. erbaut.", "Es ist nahezu so groß wie das Kolosseum in Rom.", "Die elliptische Form hat eine Länge von 148 Metern.", "Es ist fast vollständig aus Sandstein gebaut.", "Unter der Arena befinden sich komplexe Katakomben.", "Das Bauwerk wurde im 17. Jahrhundert teilweise als Festung genutzt."],
+      hu: ["Ez az egyik legnagyobb amfiteátrum a világon.", "A 3. században épült, a római uralom idején.", "Akár 35 000 néző is helyet foglalhatott benne.", "A helyszín az UNESCO világörökség része.", "Épsége miatt világhírű történelmi emlék.", "Számos filmforgatás helyszínéül szolgált."]
+    }
+  },
   {
     id: "dougga-archaeological-history-v2",
     type: "historical",
@@ -70,7 +88,16 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Lenyűgöző Capitoliummal rendelkezik.", "Eredetileg numídiai település volt."],
       ro: ["Are un Capitoliu impresionant.", "A fost inițial o așezare numidiană."],
       en: ["Features an impressive Capitol.", "Originally a Numidian settlement."]
-    }, image: "/poi-images/dougga-archaeological-history-v2.webp"},
+    }, image: "/poi-images/dougga-archaeological-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dougga ist eine der am besten erhaltenen römischen Städte in Tunesien und ein beeindruckendes Zeugnis antiker Urbanistik. Gelegen auf einem Hügel über dem fruchtbaren Tal des Flusses Khalled, bietet die Stadt eine Fülle an öffentlichen Gebäuden, darunter ein Theater, Kapitol, Tempel und Thermen. Die Anlage ist besonders bemerkenswert, weil sie punische, numidische und römische Einflüsse auf einmalige Weise vereint. Dougga ist seit 1997 UNESCO-Weltkulturerbe und ein zentraler Ort für die archäologische Forschung. In der Plizio-Klasse K8 wird Dougga genutzt, um die Romanisierung Nordafrikas zu verdeutlichen.",
+      hu: "Dougga az egyik legjobban megmaradt római kori város egész Afrikában, amely a dombvidéki tájban rejtőzik, távol a zajos nagyvárosoktól. A romvárosban templomok, színházak és lakóházak találhatók, amelyek egyedülálló módon őriztek meg egy ókori római települést. Történelem K8 — Római Birodalom."
+    },
+    factsAdvanced: {
+      de: ["Dougga wurde auf einem Kalksteinhügel strategisch angelegt.", "Das Kapitol aus dem Jahr 166 n. Chr. ist ein architektonisches Highlight.", "Das antike Theater bot Platz für 3.500 Zuschauer.", "Die Stadt war ein wichtiges Zentrum der Getreideproduktion.", "In Dougga wurde ein berühmtes numidisch-punisches Mausoleum gefunden.", "Das Wasserversorgungssystem von Dougga war hochentwickelt."],
+      hu: ["Dougga az UNESCO világörökség része.", "A város kiválóan megőrzött római kori épületekkel rendelkezik.", "A római színház ma is használható előadásokhoz.", "A területen pun és numídiai hatások is keveredtek.", "Dombvidéki elhelyezkedése miatt panorámája lenyűgöző.", "A capitoliumi templom a város legfőbb építészeti emléke."]
+    }
+  },
   {
     id: "great-mosque-kairouan-history-v2",
     type: "historical",
@@ -93,7 +120,14 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Az iszlám negyedik legszentebb városának tartják.", "Hatalmas négyzet alakú minaretje van."],
       ro: ["Considerat al patrulea cel mai sfânt oraș al islamului.", "Are un minaret pătrat masiv."],
       en: ["Considered the fourth holiest city in Islam.", "Features a massive square minaret."]
-    }, image: "/poi-images/great-mosque-kairouan-history-v2.webp"},
+    }, image: "/poi-images/great-mosque-kairouan-history-v2.webp",
+    descriptionAdvanced: {
+      hu: "A kairouani Nagy Mecset az iszlám építészet egyik remekműve és Észak-Afrika legrégebbi mecsete, amelyet a 7. században alapítottak. Az épület a vallási központ és az iszlám kultúra egyik legfontosabb szimbóluma a régióban. Történelem K8 — iszlám kultúra."
+    },
+    factsAdvanced: {
+      hu: ["A mecsetet 670-ben alapította Uqba ibn Nafi.", "Észak-Afrika legrégebbi és legszentebb mecsete.", "Kairouan óvárosának központjában található.", "Építészeti megoldásai nagy hatással voltak az iszlám stílusra.", "Az UNESCO világörökség része.", "A mecset tekintélyes minaretje évszázadok óta áll."]
+    }
+  },
   {
     id: "medina-of-tunis-history-v2",
     type: "historical",
@@ -116,7 +150,14 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       hu: ["Több mint 700 történelmi műemléknek ad otthont.", "A Hafszida dinasztia alatt virágzott fel."],
       ro: ["Găzduiește peste 700 de monumente istorice.", "A înflorit sub dinastia Hafsidă."],
       en: ["Houses over 700 historical monuments.", "Flourished under the Hafsid dynasty."]
-    }, image: "/poi-images/medina-of-tunis-history-v2.webp"},
+    }, image: "/poi-images/medina-of-tunis-history-v2.webp",
+    descriptionAdvanced: {
+      hu: "Tunisz Medinája egy labirintushoz hasonlító óváros, amely a 7. század óta folyamatosan lakott, és a mai napig az ország kulturális központja. Szűk utcái, mecsetei és bazárjai a hagyományos tunéziai életmódot tükrözik. UNESCO világörökségi védelem alatt áll. Történelem K8 — iszlám kultúra."
+    },
+    factsAdvanced: {
+      hu: ["Tunisz történelmi szíve már több mint ezer éve áll.", "Az UNESCO világörökség része.", "Több mint 700 történelmi palota és mecset található itt.", "Híres bazárjai a hagyományos kézművesség fellegvárai.", "Az iszlám városépítészet egyik legjobb példája.", "A Zitouna-mecset a Medina központi vallási épülete."]
+    }
+  },
   {
     id: "medina-of-sousse-history-v2",
     type: "historical",

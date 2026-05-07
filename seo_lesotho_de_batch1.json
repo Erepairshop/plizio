@@ -1,0 +1,135 @@
+{
+  "lang": "de",
+  "country": "lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLesothoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maseru-cities-v2",
+      "descriptionAdvanced": "Maseru liegt auf einer Höhe von etwa 1550 Metern entlang des Caledon-Flusses, der die natürliche Grenze zu Südafrika bildet. Als Regierungssitz und wirtschaftliches Zentrum von Lesotho beherbergt die Stadt wichtige Institutionen, den Königspalast und das Nationalmuseum. Die Stadtentwicklung spiegelt die Geschichte des Landes wider, insbesondere seit der Unabhängigkeit im Jahr 1966. Nach den politischen Unruhen von 1998 erlebte Maseru einen umfassenden Wiederaufbau. Der internationale Flughafen Moshoeshoe I. verbindet die Stadt mit der Welt. Traditionelle Basotho-Hut-Gebäude stehen hier im Kontrast zu modernen Geschäftsblöcken. (Geografie K7 — Städte und Regionen)",
+      "factsAdvanced": ["1966 Unabhängigkeit von Lesotho", "1550 Meter über dem Meeresspiegel", "Caledon-Fluss bildet die Grenze", "Hauptstadt seit 1869", "Wiederaufbau nach Unruhen 1998", "Internationaler Flughafen Moshoeshoe I."]
+    },
+    {
+      "id": "teyateyaneng-cities-v2",
+      "descriptionAdvanced": "Teyateyaneng liegt nordöstlich von Maseru im Berea-Distrikt und ist ein bedeutendes Zentrum für traditionelles Kunsthandwerk, insbesondere für das Weben von Wandteppichen. Der Name bedeutet in der lokalen Sesotho-Sprache "Ort, an dem es treibt", was sich auf den nahegelegenen Fluss Teja-Tejane und die malerische Umgebung bezieht. Die Stadt wurde 1886 vom Chief Masupha als Festung gegründet. Heute ist sie ein wichtiger Anlaufpunkt für Reisende, die die Kultur und Handwerkskunst des Bergkönigreichs erkunden möchten. Die kunstvollen Textilien aus Angorawolle sind weltweit bekannt. (Sachkunde K5 — Handwerk und Kultur)",
+      "factsAdvanced": ["Gegründet im Jahr 1886", "Zentrum des Berea-Distrikts", "Lokale Sprache Sesotho", "Gründer war Chief Masupha", "Berühmt für Angorawoll-Teppiche", "Liegt am Fluss Teja-Tejane"]
+    },
+    {
+      "id": "mafeteng-cities-v2",
+      "descriptionAdvanced": "Mafeteng ist ein wichtiges Handelszentrum im Südwesten von Lesotho und liegt etwa 76 Kilometer südlich der Hauptstadt Maseru. Der Name der Stadt lässt sich mit "Ort der unverheirateten Frauen" übersetzen, was auf historische Ereignisse während des Gun War 1880 zurückgeht. In dieser Zeit war die Region Schauplatz schwerer Kämpfe zwischen den Basotho und den britischen Kolonialtruppen. Heute ist Mafeteng ein landwirtschaftlicher Knotenpunkt, besonders für Weizen und Mais. Der nahegelegene Grenzübergang Van Rooyen's Gate verbindet die Stadt mit der südafrikanischen Provinz Freistaat. (Geschichte K8 — Kolonialkriege)",
+      "factsAdvanced": ["76 Kilometer südlich von Maseru", "Schauplatz des Gun War 1880", "Name bedeutet Ort der unverheirateten Frauen", "Grenzübergang Van Rooyen's Gate", "Wichtiges Zentrum für Mais und Weizen", "Hauptstadt des Mafeteng-Distrikts"]
+    },
+    {
+      "id": "hlotse-cities-v2",
+      "descriptionAdvanced": "Hlotse, oft auch Leribe genannt, ist ein bedeutendes regionales Zentrum im nördlichen Lesotho. Die Stadt wurde 1876 vom britischen Missionar John Widdicombe gegründet und entwickelte sich schnell zu einem wichtigen kolonialen Verwaltungsstützpunkt. Das alte britische Fort und ein historischer Major Bell's Tower aus dem Jahr 1879 erinnern an diese Zeit. Während des Gun War diente Hlotse als Zufluchtsort. Heute liegt die Stadt nahe der südafrikanischen Grenze und profitiert vom Handel am Ficksburg-Bridge-Übergang. Die Umgebung ist geprägt von fruchtbaren Tälern und Landwirtschaft. (Geschichte K8 — Britische Kolonialzeit)",
+      "factsAdvanced": ["Gegründet 1876 durch John Widdicombe", "Major Bell's Tower von 1879", "Wichtiger Ort während des Gun War", "Grenzübergang Ficksburg-Bridge", "Historisches britisches Fort", "Verwaltungszentrum des Leribe-Distrikts"]
+    },
+    {
+      "id": "mohales-hoek-cities-v2",
+      "descriptionAdvanced": "Mohale's Hoek liegt im südlichen Teil von Lesotho und wurde nach Chief Mohale, dem jüngeren Bruder von König Moshoeshoe I., benannt. Die 1884 offiziell gegründete Stadt diente als Verteidigungsposten und Verwaltungszentrum der britischen Kolonialmacht. Im Jahr 1967 wurde die Region durch landwirtschaftliche Projekte, insbesondere die Schaf- und Ziegenzucht für Mohair und Wolle, wirtschaftlich gestärkt. Die Stadt ist von eindrucksvollen Sandsteinformationen und den Ausläufern der Maloti-Berge umgeben. Heute ist Mohale's Hoek ein wichtiges Versorgungszentrum für die abgelegenen südlichen Berggemeinden. (Geografie K7 — Landwirtschaft und Relief)",
+      "factsAdvanced": ["Offiziell gegründet im Jahr 1884", "Benannt nach Chief Mohale", "Zentrum für Mohair- und Wollproduktion", "Versorgungszentrum für das südliche Bergland", "Umgeben von Sandsteinformationen", "Britisches Verwaltungszentrum im 19. Jahrhundert"]
+    },
+    {
+      "id": "maputsoe-cities-v2",
+      "descriptionAdvanced": "Maputsoe ist die wichtigste Industriestadt Lesothos und liegt direkt an der Grenze zur südafrikanischen Stadt Ficksburg. Seit den 1990er Jahren hat sich die Stadt rasant entwickelt, vor allem durch die Ansiedlung von Textil- und Bekleidungsfabriken, die von den AGOA-Handelsabkommen mit den USA profitieren. Tausende von Basotho arbeiten in den großen Fabrikhallen, die Kleidung für den internationalen Markt produzieren. Trotz der industriellen Prägung ist Maputsoe auch ein wichtiger Verkehrsknotenpunkt, über den landwirtschaftliche Güter nach Südafrika exportiert werden. Der Grenzübergang Maputsoe Bridge ist einer der geschäftigsten des Landes. (Wirtschaft K8 — Industrie und Handel)",
+      "factsAdvanced": ["Wichtigste Industriestadt des Landes", "Direkte Grenze zu Ficksburg", "Profitiert vom AGOA-Handelsabkommen", "Zentrum der Textilproduktion", "Geschäftiger Grenzübergang Maputsoe Bridge", "Starkes Wachstum seit den 1990er Jahren"]
+    },
+    {
+      "id": "quthing-cities-v2",
+      "descriptionAdvanced": "Quthing, in der lokalen Sprache auch Moyeni ("Ort des Windes") genannt, ist die südlichste Distrikthauptstadt Lesothos. Die Region wurde 1877 als Distrikt etabliert und ist weltberühmt für ihre prähistorischen Schätze. Nur wenige Kilometer vom Stadtzentrum entfernt befinden sich gut erhaltene Dinosaurier-Fußabdrücke aus der Trias-Zeit, die in den weichen Sandstein geprägt wurden. Die Stadt liegt auf einer Höhe von etwa 1650 Metern und bietet Zugang zum spektakulären Senqu-Flusstal. Zudem ist Quthing bekannt für das auf einem Felsen errichtete Höhlenhaus von Masitise, einer historischen Missionsstation aus dem Jahr 1866. (Geschichte K7 — Prähistorische Funde)",
+      "factsAdvanced": ["Südlichste Distrikthauptstadt Lesothos", "Lokaler Name Moyeni bedeutet Ort des Windes", "Dinosaurierspuren aus der Trias-Zeit", "Missionsstation Masitise von 1866", "Liegt auf ca. 1650 Metern Höhe", "Zugang zum Senqu-Flusstal"]
+    },
+    {
+      "id": "qachas-nek-cities-v2",
+      "descriptionAdvanced": "Qacha's Nek ist eine abgelegene Bergstadt im Südosten Lesothos, die auf etwa 1980 Metern über dem Meeresspiegel liegt. Die Stadt wurde 1888 gegründet und nach dem lokalen Chief Qacha, dem Sohn des Chief Moorosi, benannt. Aufgrund ihrer hohen und isolierten Lage nahe der Grenze zur südafrikanischen Provinz Ostkap war die Region historisch ein Rückzugsort und Schmuggelroute. Heute ist Qacha's Nek das wichtigste Tor zur südlichen Drakensberg-Region und zum Sehlabathebe-Nationalpark. Das Klima ist rau, mit häufigen Schneefällen im Winter, was die Landwirtschaft auf robuste Kulturen beschränkt. (Geografie K8 — Hochgebirgsregionen)",
+      "factsAdvanced": ["Gegründet im Jahr 1888", "Liegt auf 1980 Metern Höhe", "Benannt nach Chief Qacha", "Tor zum Sehlabathebe-Nationalpark", "Grenze zur südafrikanischen Provinz Ostkap", "Historische Rückzugs- und Handelsroute"]
+    },
+    {
+      "id": "mokhotlong-cities-v2",
+      "descriptionAdvanced": "Mokhotlong ist eine der entlegensten und am höchsten gelegenen Städte Afrikas, situiert auf einer beeindruckenden Höhe von 2200 Metern. Der Name bedeutet in Sesotho "Ort des Glatzkopf-Ibis". Ursprünglich 1905 als Polizeiposten gegründet, entwickelte sich der Ort zu einem wichtigen Zentrum für die Hochland-Bevölkerung. Mokhotlong war lange Zeit nur per Maultier oder Kleinflugzeug erreichbar. Heute führt eine kurvenreiche Bergstraße über den Sani-Pass nach Südafrika. Die Stadt ist das Zentrum für den lukrativen Schmuggel und legalen Handel mit Mohair-Wolle. Im Winter fallen die Temperaturen oft weit unter den Gefrierpunkt. (Geografie K7 — Hochgebirge)",
+      "factsAdvanced": ["Liegt auf 2200 Metern Höhe", "Gegründet 1905 als Polizeiposten", "Name bedeutet Ort des Glatzkopf-Ibis", "Nahe dem berühmten Sani-Pass", "Zentrum des Handels mit Mohair-Wolle", "Extreme Wintertemperaturen unter null"]
+    },
+    {
+      "id": "butha-buthe-cities-v2",
+      "descriptionAdvanced": "Butha-Buthe, gelegen im nördlichen Flachland von Lesotho, ist ein Ort von immenser historischer Bedeutung. Der Name der Stadt leitet sich von dem gleichnamigen, flachen Berg ab, der König Moshoeshoe I. bis 1824 als erste Festung und Residenz diente, bevor er nach Thaba Bosiu zog. Die Stadt wurde 1884 als britisches Verwaltungszentrum für den Norden etabliert. Heute ist Butha-Buthe ein geschäftiges Handelszentrum, das stark vom Grenzverkehr nach Südafrika profitiert. Zudem ist es der Ausgangspunkt für Reisen zu den gigantischen Staudämmen des Lesotho Highlands Water Project. (Geschichte K8 — Königreich Basotho)",
+      "factsAdvanced": ["Erste Festung von Moshoeshoe I. bis 1824", "Britisches Verwaltungszentrum seit 1884", "Name stammt vom nahegelegenen Berg", "Ausgangspunkt für das Highlands Water Project", "Wichtiger nördlicher Grenzübergang", "Zentrum für landwirtschaftlichen Handel"]
+    },
+    {
+      "id": "thaba-tseka-cities-v2",
+      "descriptionAdvanced": "Thaba-Tseka ist die jüngste Distrikthauptstadt Lesothos und wurde erst 1980 offiziell als administratives Zentrum für das unzugängliche zentrale Hochland gegründet. Auf etwa 2200 Metern Höhe gelegen, ist die Stadt von zerklüfteten Bergen und tiefen Tälern umgeben. Thaba-Tseka entstand im Zuge eines kanadischen Entwicklungsprojekts, das die Infrastruktur und Landwirtschaft in den Bergen verbessern sollte. Heute ist die Stadt ein wichtiger Knotenpunkt für die Arbeiter des Katse-Staudamms und ein Zentrum für die Pferdezucht. Die Straßenanbindung ist anspruchsvoll und erfordert oft Allradfahrzeuge. (Wirtschaft K8 — Entwicklungsprojekte)",
+      "factsAdvanced": ["Offiziell gegründet im Jahr 1980", "Jüngste Distrikthauptstadt Lesothos", "Liegt auf ca. 2200 Metern Höhe", "Entstanden durch kanadische Entwicklungshilfe", "Zentrum der Hochland-Pferdezucht", "Wichtiger Ort nahe dem Katse-Staudamm"]
+    },
+    {
+      "id": "roma-cities-v2",
+      "descriptionAdvanced": "Roma ist das pulsierende akademische und religiöse Zentrum von Lesotho, gelegen in einem malerischen Tal etwa 34 Kilometer südöstlich von Maseru. Die Stadt wurde 1862 von katholischen Missionaren gegründet und beherbergt heute die National University of Lesotho (NUL), die 1945 als Pius XII Catholic University College ins Leben gerufen wurde. Die Präsenz tausender Studenten prägt das Stadtbild und die lokale Wirtschaft. Zahlreiche historische Missionsgebäude, Schulen und ein großes Krankenhaus zeugen von der langen christlichen Tradition. Roma ist von beeindruckenden Basaltfelsen umgeben, die beliebte Wanderziele sind. (Gesellschaft K8 — Bildung und Religion)",
+      "factsAdvanced": ["Gegründet 1862 durch katholische Missionare", "Heimat der National University of Lesotho", "Universität entstand 1945 als Pius XII College", "34 Kilometer südöstlich von Maseru", "Umgeben von markanten Basaltfelsen", "Bedeutendes medizinisches und schulisches Zentrum"]
+    },
+    {
+      "id": "morija-cities-v2",
+      "descriptionAdvanced": "Morija, oft als die Wiege der Literatur und Bildung in Lesotho bezeichnet, wurde 1833 von französischen protestantischen Missionaren gegründet. Es war die erste ständige Missionsstation im Land und spielte eine entscheidende Rolle bei der Verschriftlichung der Sesotho-Sprache. Die historische Druckerei von Morija, gegründet 1861, veröffentlichte die ersten Bücher in Sesotho. Das renommierte Morija Museum & Archives beherbergt wertvolle Dokumente zur Geschichte der Basotho und prähistorische Funde, darunter Dinosaurierknochen. Jedes Jahr im Herbst findet hier das Morija Arts & Cultural Festival statt, das Besucher aus dem ganzen Land anzieht. (Geschichte K7 — Missionierung und Schrift)",
+      "factsAdvanced": ["Gegründet 1833 durch französische Missionare", "Erste ständige Missionsstation in Lesotho", "Historische Druckerei von 1861", "Heimat des Morija Museum & Archives", "Austragungsort des Arts & Cultural Festival", "Ort der ersten Sesotho-Publikationen"]
+    },
+    {
+      "id": "semonkong-cities-v2",
+      "descriptionAdvanced": "Semonkong, was in der lokalen Sprache \"Ort des Rauches\" bedeutet, ist eine hochgelegene Siedlung auf etwa 2275 Metern Höhe in den Maloti-Bergen. Der Name bezieht sich auf den dichten Wassernebel des nahegelegenen Maletsunyane-Wasserfalls, der mit 192 Metern zu den höchsten einstufigen Wasserfällen Afrikas zählt. Die Stadt wurde in den 1880er Jahren als Zufluchtsort gegründet und ist heute ein Magnet für den Abenteuertourismus. Besucher kommen zum Trekking, für Ponyreiten und für den spektakulären Abseil-Weltrekord am Wasserfall. Semonkong ist ein herausragendes Beispiel für die raue, unberührte Schönheit des lesothischen Hochlands. (Geografie K7 — Tourismus und Relief)",
+      "factsAdvanced": ["Liegt auf etwa 2275 Metern Höhe", "Gegründet in den 1880er Jahren", "Name bedeutet Ort des Rauches", "Nahe dem 192m hohen Maletsunyane-Wasserfall", "Zentrum für Abenteuertourismus und Pony-Trekking", "Heimat des Weltrekord-Abseilens"]
+    },
+    {
+      "id": "mazenod-cities-v2",
+      "descriptionAdvanced": "Mazenod, benannt nach dem französischen Bischof Eugène de Mazenod, ist ein wichtiges logistisches und religiöses Zentrum südöstlich der Hauptstadt Maseru. Die Stadt beherbergt den Moshoeshoe I. International Airport, den einzigen internationalen Flughafen des Landes, der 1985 eröffnet wurde. Zudem ist Mazenod ein bedeutender Standort der katholischen Kirche in Lesotho, bekannt für das Mazenod Institute und seine große katholische Druckerei, die seit 1933 religiöse und bildende Literatur publiziert. Trotz seiner Nähe zur Hauptstadt hat der Ort seinen dörflichen, stark vom Glauben geprägten Charakter bewahrt. (Gesellschaft K7 — Infrastruktur und Religion)",
+      "factsAdvanced": ["Benannt nach Bischof Eugène de Mazenod", "Standort des Moshoeshoe I. International Airport", "Flughafen wurde 1985 eröffnet", "Heimat der Mazenod-Druckerei seit 1933", "Bedeutendes Zentrum der katholischen Kirche", "Wichtiger Knotenpunkt südöstlich von Maseru"]
+    },
+    {
+      "id": "matsieng-cities-v2",
+      "descriptionAdvanced": "Matsieng ist das traditionelle königliche Dorf und der historische Sitz der Monarchie von Lesotho. Der Ort wurde 1858 von Chief Letsie I., dem Sohn des Staatsgründers Moshoeshoe I., etabliert. Er liegt im Maseru-Distrikt und fungiert als Residenz des amtierenden Königs Letsie III. In Matsieng werden wichtige nationale Zeremonien, kulturelle Rituale und königliche Audienzen abgehalten. Das königliche Archiv und das kleine Museum in der Nähe dokumentieren die königliche Abstammungslinie. Die Architektur des Dorfes ist eine faszinierende Mischung aus kolonialen Gebäuden und traditionellen Rundhütten der Basotho. (Geschichte K8 — Monarchie und Tradition)",
+      "factsAdvanced": ["Gegründet 1858 durch Chief Letsie I.", "Traditioneller Sitz der Königsfamilie", "Residenz von König Letsie III.", "Ort wichtiger nationaler Zeremonien", "Mischung aus kolonialer und lokaler Architektur", "Beherbergt das königliche Archiv"]
+    },
+    {
+      "id": "mapoteng-cities-v2",
+      "descriptionAdvanced": "Mapoteng ist eine bedeutende, dicht besiedelte Ortschaft im Berea-Distrikt, die sich entlang fruchtbarer Hügel erstreckt. Der Ort ist landesweit bekannt für das Maluti Adventist Hospital, das 1951 von der Siebenten-Tags-Adventisten-Kirche gegründet wurde. Dieses Krankenhaus ist eine der wichtigsten medizinischen Einrichtungen im Norden des Landes und verfügt über eine renommierte Ausbildungsstätte für Pflegekräfte. Mapoteng ist stark landwirtschaftlich geprägt, wobei die Bewohner hauptsächlich Subsistenzwirtschaft betreiben, insbesondere den Anbau von Mais und Sorghum. Der Ort spielt eine zentrale Rolle für die Gesundheitsversorgung der umliegenden Berggemeinden. (Gesellschaft K7 — Gesundheitswesen)",
+      "factsAdvanced": ["Standort des Maluti Adventist Hospital", "Krankenhaus wurde 1951 gegründet", "Renommierte Pflegeschule vor Ort", "Zentrum für Mais- und Sorghumanbau", "Gelegen im fruchtbaren Berea-Distrikt", "Wichtig für die ländliche Gesundheitsversorgung"]
+    },
+    {
+      "id": "peka-cities-v2",
+      "descriptionAdvanced": "Peka ist ein lebendiges landwirtschaftliches Zentrum im Leribe-Distrikt, das sich am östlichen Ufer des Caledon-Flusses erstreckt. Die Stadt liegt direkt gegenüber der südafrikanischen Grenze und verfügt über den Peka-Bridge-Grenzübergang, der den lokalen Handel erleichtert. Peka ist bekannt für seine hervorragenden Bildungseinrichtungen, darunter die Peka High School, die viele einflussreiche Persönlichkeiten Lesothos hervorgebracht hat. In der Kolonialzeit war Peka ein wichtiges Verwaltungsdorf. Heute dominiert der Anbau von Getreide und Gemüse die lokale Wirtschaft, unterstützt durch das relativ milde Klima im Flachland. (Wirtschaft K7 — Landwirtschaft und Bildung)",
+      "factsAdvanced": ["Gelegen am östlichen Ufer des Caledon-Flusses", "Besitzt den Peka-Bridge-Grenzübergang", "Heimat der renommierten Peka High School", "Ehemaliges britisches Verwaltungsdorf", "Zentrum für Getreide- und Gemüseanbau", "Profitiert vom milden Flachlandklima"]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "descriptionAdvanced": "Tsakholo ist eine weitläufige ländliche Gemeinde im westlichen Mafeteng-Distrikt, die für den malerischen Tsakholo-See bekannt ist. Dieser See ist eines der wenigen natürlichen stehenden Gewässer in der Region und bietet einen wichtigen Lebensraum für verschiedene Wasservögel sowie Wasser für die lokale Viehzucht. Die Siedlung ist stark traditionell geprägt und lebt von der Schaf-, Ziegen- und Rinderzucht. Die trockenen, weiten Ebenen um Tsakholo erfordern eine widerstandsfähige Landwirtschaft. Die Region spiegelt das typische ländliche Leben im Flachland von Lesotho abseits der großen Hauptverkehrsstraßen wider. (Geografie K7 — Ländlicher Raum)",
+      "factsAdvanced": ["Bekannt für den natürlichen Tsakholo-See", "Liegt im westlichen Mafeteng-Distrikt", "Wichtiger Lebensraum für Wasservögel", "Zentrum der traditionellen Viehzucht", "Gelegen in trockenen, weiten Ebenen", "Abseits der Hauptverkehrsstraßen"]
+    },
+    {
+      "id": "makhonoane-cities-v2",
+      "descriptionAdvanced": "Makhonoane ist eine kleine, abgelegene Ortschaft im äußersten Norden des Butha-Buthe-Distrikts. Die Gemeinde liegt in einer rauen, bergigen Landschaft, die von tiefen Flusstälern und steilen Hängen geprägt ist. Die Einwohner von Makhonoane leben vorwiegend von der traditionellen Subsistenzlandwirtschaft und der Haltung von Hochland-Pferden, die für den Transport in dieser unwegsamen Region unerlässlich sind. Die Abgeschiedenheit des Ortes bedeutet, dass Dienstleistungen schwer erreichbar sind, was den starken Gemeinschaftssinn und die Bewahrung alter Basotho-Traditionen fördert. Im Winter ist das Gebiet häufig stark verschneit. (Geografie K7 — Leben im Hochgebirge)",
+      "factsAdvanced": ["Liegt im extremen Norden von Butha-Buthe", "Geprägt von rauer, bergiger Landschaft", "Zentrum der Subsistenzlandwirtschaft", "Hochland-Pferde als wichtigstes Transportmittel", "Starke Bewahrung alter Basotho-Traditionen", "Häufig starke Schneefälle im Winter"]
+    },
+    {
+      "id": "motiti-cities-v2",
+      "descriptionAdvanced": "Motiti ist ein rasch wachsender Vorort und eine landwirtschaftliche Siedlung in unmittelbarer Nähe der Distrikthauptstadt Butha-Buthe. Durch die Nähe zum urbanen Zentrum profitieren die Einwohner von besseren Handelsmöglichkeiten für ihre Agrarprodukte, insbesondere Pfirsiche, Mais und Bohnen. Motiti hat in den letzten Jahren durch den Zuzug von Menschen aus höheren Bergregionen, die Arbeit im Flachland suchen, stark an Bevölkerung gewonnen. Die Siedlung illustriert den demografischen Wandel und die sanfte Urbanisierung in Lesothos nördlichen Flachlandschaften. Lokale Initiativen fördern zunehmend nachhaltige Anbaumethoden. (Gesellschaft K8 — Urbanisierung und Demografie)",
+      "factsAdvanced": ["Wachsender Vorort von Butha-Buthe", "Zentrum für Pfirsich- und Maisanbau", "Bevölkerungswachstum durch Binnenmigration", "Profitiert von städtischen Handelswegen", "Beispiel für sanfte Urbanisierung", "Förderung nachhaltiger Landwirtschaft"]
+    },
+    {
+      "id": "phamong-cities-v2",
+      "descriptionAdvanced": "Phamong ist ein historisch und kulturell bedeutsamer Ort im Mohale's Hoek Distrikt, eingebettet in die schroffen Hügel des südlichen Lesothos. Im späten 19. Jahrhundert war Phamong die Hochburg des mächtigen Chief Moorosi, des Anführers des Baphuthi-Stammes. Die umliegende Landschaft ist geprägt von tiefen Schluchten, die einst als natürliche Verteidigungslinien dienten. Heute ist Phamong ein ruhiges ländliches Zentrum, das sich der Bewahrung seines historischen Erbes widmet. Die lokale Wirtschaft stützt sich auf die Schaf- und Ziegenzucht, deren Wolle auf den regionalen Märkten verkauft wird. (Geschichte K8 — Lokale Herrscher)",
+      "factsAdvanced": ["Historische Hochburg von Chief Moorosi", "Zentrum des Baphuthi-Stammes im 19. Jh.", "Gelegen im Mohale's Hoek Distrikt", "Geprägt von tiefen Verteidigungsschluchten", "Wirtschaft basiert auf Schaf- und Ziegenzucht", "Bewahrung des lokalen kulturellen Erbes"]
+    },
+    {
+      "id": "mount-moorosi-cities-v2",
+      "descriptionAdvanced": "Mount Moorosi ist eine dramatische Bergfestung und Ortschaft im Quthing-Distrikt. Der Berg hat eine enorme historische Bedeutung, da er 1879 Schauplatz der erbitterten Moorosi-Rebellion war, bei der Chief Moorosi und seine Anhänger den britischen Kolonialtruppen monatelang trotzten. Die steilen, nahezu unüberwindbaren Felswände machten den Berg zu einer natürlichen Zitadelle. Nach der Belagerung fiel der Chief, und die Festung wurde eingenommen. Heute ist der Ort ein Anziehungspunkt für geschichtsinteressierte Touristen und bietet atemberaubende Ausblicke über das Tal des Oranje-Flusses. (Geschichte K8 — Anti-Kolonialer Widerstand)",
+      "factsAdvanced": ["Schauplatz der Moorosi-Rebellion von 1879", "Benannt nach Chief Moorosi", "Natürliche Bergfestung mit steilen Felswänden", "Belagerung durch britische Kolonialtruppen", "Gelegen im Quthing-Distrikt", "Bietet Ausblick auf das Oranje-Flusstal"]
+    },
+    {
+      "id": "mphaki-cities-v2",
+      "descriptionAdvanced": "Mphaki ist eine bedeutende Bergsiedlung und ein wichtiger Verkehrsknotenpunkt im Hochland des Quthing-Distrikts. Auf über 2400 Metern Höhe gelegen, ist das Klima hier kühl und im Winter extrem rau. Mphaki dient als zentraler Umschlagplatz für die Viehzüchter der Region, die hier Rinder, Schafe und Ziegen handeln. Ein großes staatliches Viehzuchtzentrum fördert die Qualität der Herden, insbesondere für die Produktion von Mohair und Merinowolle. Trotz der Abgeschiedenheit ist Mphaki durch eine befestigte Straße gut an die südlichen Flachlandgebiete angebunden. (Wirtschaft K8 — Tierzucht im Hochland)",
+      "factsAdvanced": ["Liegt auf über 2400 Metern Höhe im Hochland", "Zentraler Umschlagplatz für Viehzüchter", "Standort eines staatlichen Viehzuchtzentrums", "Fokus auf Mohair und Merinowolle", "Gut ausgebaute Straße in die Flachlande", "Kühles und raues Gebirgsklima"]
+    },
+    {
+      "id": "sekake-cities-v2",
+      "descriptionAdvanced": "Sekake ist ein vitaler Knotenpunkt im gebirgigen Qacha's Nek Distrikt, gelegen an der Hauptstraße, die das zentrale Hochland mit dem Südosten verbindet. Der Ort fungiert als wichtiges Versorgungszentrum für die umliegenden, extrem isolierten Dörfer. Sekake verfügt über eine der wenigen gut ausgestatteten weiterführenden Schulen der Region und ein Gesundheitszentrum. Die umliegende Landschaft ist geprägt von spektakulären Bergketten und tief eingeschnittenen Flusstälern des Senqu-Flusssystems. Der Ort verdeutlicht die Herausforderungen der Infrastrukturentwicklung in der zerklüfteten Topografie Lesothos. (Geografie K8 — Infrastruktur im Gebirge)",
+      "factsAdvanced": ["Knotenpunkt an der Straße nach Qacha's Nek", "Versorgungszentrum für isolierte Gebirgsdörfer", "Besitzt wichtige weiterführende Schule", "Standort eines regionalen Gesundheitszentrums", "Teil des Senqu-Flusssystems", "Veranschaulicht Herausforderungen der Berginfrastruktur"]
+    }
+  ]
+}

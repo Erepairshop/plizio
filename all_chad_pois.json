@@ -1,0 +1,722 @@
+[
+  {
+    "id": "ndjamena-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "moundou-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "sarh-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "abeche-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "kelo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "koumra-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "pala-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "am-timan-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "bongor-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "mongo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "doba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "ati-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "mao-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "faya-largeau-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "massakory-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "moussoro-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "biltine-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "bol-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "goz-beida-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "oum-hadjer-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "bitkine-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "massaguet-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "dourbali-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "lere-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "kyabe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "benoye-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "gounou-gaya-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "beinamar-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "baibokoum-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "bokoro-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "goundi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "moissala-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "adre-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "gore-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "iriba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "bardai-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "fada-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "am-zoer-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "mangalme-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "guereda-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "abou-deia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "fianga-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "binder-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "ngama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "massenya-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "rig-rig-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "nokou-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "zouar-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "bere-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "lai-cities-v2",
+    "file": "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  },
+  {
+    "id": "doba-oil-field-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "kome-oil-field-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "bol-river-port-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "moundou-brewery-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "sarh-sugar-refinery-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "bongor-cotton-plant-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "pala-gold-mines-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "mao-natron-mines-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "abeche-tannery-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "bebedjia-oil-center-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "ndjamena-abattoir-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "melfi-iron-ore-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "hadjer-lamis-limestone-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "guelendeng-port-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "koumra-textile-factory-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "rig-rig-natron-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "bagasola-fishing-port-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "lere-fishing-center-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "massakory-livestock-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "ati-meat-processing-economic-v2",
+    "file": "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  },
+  {
+    "id": "ouara-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "njimi-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "gaoui-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "yao-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "koro-toro-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "toros-menalla-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "goulfeil-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "mdaga-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "amsile-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "tago-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "niola-doa-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "gonoa-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "soborom-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "terkezi-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "fada-rock-art-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "massenya-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "abeche-palace-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "njimi-tombs-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "bahr-el-gazel-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "mao-sultanate-history-v2",
+    "file": "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  },
+  {
+    "id": "grand-mosque-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "cathedrale-nd-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "monument-union-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "palais-15-janvier-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "stade-national-idriss-ouya-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "musee-national-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "pont-amitie-bongor-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "beac-building-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "grand-marche-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "palais-sultan-abeche-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "mosquee-abeche-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "palais-gouverneur-faya-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "cathedrale-moundou-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "cathedrale-sarh-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "centre-culturel-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "place-independance-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "hotel-ledger-plaza-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "universite-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "onama-building-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "assemblee-nationale-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "palais-rose-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "place-de-la-nation-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "monument-aux-morts-ndjamena-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "grande-mosquee-moundou-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "grande-mosquee-sarh-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  },
+  {
+    "id": "zakouma-elephants-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "fitri-birds-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "binder-lere-hippos-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "manda-wildlife-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "ouadi-rime-oryx-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "sinne-djebele-fauna-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "lake-chad-papyrus-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "logone-rice-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "moyen-chari-cotton-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "ounianga-date-palms-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "ndjamena-livestock-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "mayo-kebbi-peanuts-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "abeche-camel-herds-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "chari-fishing-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "ndjamena-kids-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "moundou-youth-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "sarh-crafts-kids-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "bol-floating-gardens-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "tibesti-nomad-camp-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "fada-oasis-kids-life-v2",
+    "file": "lib/visualLab/data/poiExtraChadLifeV2.ts"
+  },
+  {
+    "id": "lake-chad-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "chari-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "logone-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "emi-koussi-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "tibesti-mountains-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "ennedi-plateau-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "lake-fitri-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "lake-iro-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "ounianga-lakes-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "lake-katam-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "guelta-archei-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "bahr-salamat-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "bahr-aouk-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "bahr-keita-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "mayo-kebbi-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "lake-lere-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "lake-trene-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "pic-tousside-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "tarso-voon-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "tarso-toh-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "bikku-bitti-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "mandara-mountains-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "ouaddai-highlands-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "manda-forest-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "binder-lere-forest-nature-v2",
+    "file": "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  },
+  {
+    "id": "bodele-depression-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "erdi-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "mourdi-depression-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "tarso-ahon-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "tarso-emissti-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "tarso-ourari-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "borkou-dunes-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "hadjer-el-hamis-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "era-kohor-crater-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "aozou-highlands-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "abou-telfane-massif-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "bahr-el-ghazal-depression-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "angamma-escarpment-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "djoli-hills-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "kapka-massif-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "biltine-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "tchigai-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "gere-massif-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "dougui-forest-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  },
+  {
+    "id": "kyabe-forest-relief-v2",
+    "file": "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  }
+]

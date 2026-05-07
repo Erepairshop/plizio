@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "accra-cities-v2",
+      "descriptionAdvanced": "Accra este capitala și inima economică a Ghanei, situată pe coasta Golfului Guineei. Fondat de poporul Ga în secolul al XV-lea, orașul a crescut în jurul forturilor coloniale britanice, daneze și olandeze. Astăzi, este o metropolă plină de viață, unde zgârie-norii moderni se îmbină cu piețe tradiționale aglomerate, precum faimoasa Piață Makola. Puncte de reper importante includ Piața Independenței și Mausoleul Kwame Nkrumah, dedicate primului președinte al țării. Geografie K7 — capitale africane.",
+      "factsAdvanced": [
+        "Accra este capitala Ghanei din anul 1877.",
+        "Populația sa depășește 2,5 milioane de locuitori.",
+        "Piața Makola a fost deschisă în anul 1924.",
+        "Găzduiește Aeroportul Internațional Kotoka, cel mai mare din țară.",
+        "Farul din Jamestown a fost construit în anul 1928.",
+        "Este centrul regiunii administrative Greater Accra."
+      ]
+    },
+    {
+      "id": "kumasi-cities-v2",
+      "descriptionAdvanced": "Kumasi, adesea numit Orașul Grădină datorită vegetației sale abundente, este capitala istorică și spirituală a Imperiului Ashanti. Fondat în secolul al XVII-lea de Regele Osei Tutu, a rămas un centru vital al culturii vest-africane. Atracția principală este Piața Kejetia, considerată una dintre cele mai mari piețe în aer liber din regiune. De asemenea, Palatul Manhyia servește drept reședință pentru actualul rege Ashanti, păstrând vii tradițiile ancestrale. Istorie K8 — regate africane.",
+      "factsAdvanced": [
+        "A fost capitala Imperiului Ashanti în secolul al XVII-lea.",
+        "Piața Kejetia găzduiește peste 10.000 de comercianți.",
+        "Populația metropolei depășește 3,3 milioane de locuitori.",
+        "Este situat în zona de pădure tropicală a Ghanei.",
+        "Palatul Manhyia a fost construit de britanici în 1925.",
+        "Cunoscut pentru producția tradițională de textile Kente."
+      ]
+    },
+    {
+      "id": "tamale-cities-v2",
+      "descriptionAdvanced": "Tamale servește ca un important nod comercial și capitală administrativă a Regiunii de Nord a Ghanei. Aflat într-o zonă de savană, orașul se distinge printr-o arhitectură influențată puternic de tradițiile islamice, cu case rotunde tradiționale construite lângă moschei impunătoare. Este recunoscut ca fiind unul dintre orașele cu cea mai rapidă creștere din Africa de Vest, datorită rolului său central în comerțul cu unt de shea, porumb și igname. Geografie K7 — așezări de savană.",
+      "factsAdvanced": [
+        "Capitala administrativă a Regiunii de Nord din Ghana.",
+        "Este orașul cu cea mai rapidă creștere demografică din țară.",
+        "Arhitectura locală îmbină stilul tradițional Dagomba cu cel islamic.",
+        "Populația depășește 600.000 de locuitori.",
+        "A găzduit meciuri la Cupa Africii pe Națiuni din 2008.",
+        "Centru vital pentru procesarea untului de shea."
+      ]
+    },
+    {
+      "id": "takoradi-cities-v2",
+      "descriptionAdvanced": "Takoradi, care formează o conurbație alături de Sekondi, este un port major și inima industrială a Regiunii de Vest. Orașul și-a câștigat supranumele de Orașul Petrolului după descoperirea unor zăcăminte offshore importante în anul 2007. Portul său, inaugurat în 1928, a fost primul port de mare adâncime din Ghana și rămâne esențial pentru exporturile de lemn, cacao și bauxită. În timpul celui de-al Doilea Război Mondial, a funcționat ca o bază aeriană britanică strategică. Economie K8 — extracție și industrie.",
+      "factsAdvanced": [
+        "Primul port de mare adâncime al Ghanei a fost deschis aici în 1928.",
+        "A devenit centrul industriei petroliere a țării în 2007.",
+        "A servit drept bază RAF britanică în timpul celui de-al Doilea Război Mondial.",
+        "Exportă anual cantități masive de cacao, bauxită și lemn.",
+        "Formează o metropolă împreună cu orașul Sekondi.",
+        "Găzduiește un important centru de formare tehnică."
+      ]
+    },
+    {
+      "id": "ashaiman-cities-v2",
+      "descriptionAdvanced": "Ashaiman este un centru urban dens populat situat în regiunea Greater Accra, remarcat pentru atmosfera sa comercială vibrantă. Inițial un mic sat agricol fondat în secolul al XVII-lea, orașul a cunoscut o expansiune explozivă odată cu dezvoltarea portului învecinat Tema în anii 1960. Astăzi, găzduiește o populație extrem de diversă, atrăgând migranți din toate colțurile țării. Economia locală este susținută de piețele stradale imense, unde se comercializează bunuri de la textile la electronice. Societate K8 — urbanizare și migrație.",
+      "factsAdvanced": [
+        "A obținut statutul de municipalitate independentă în anul 2008.",
+        "Este una dintre cele mai dens populate zone din Ghana.",
+        "Populația sa a crescut rapid datorită dezvoltării portului Tema.",
+        "Piața principală din Ashaiman este activă 24 de ore pe zi.",
+        "Inițial, a fost un mic așezământ agricol al poporului Ga.",
+        "Găzduiește o varietate de grupuri etnice din toată Africa de Vest."
+      ]
+    },
+    {
+      "id": "tema-cities-v2",
+      "descriptionAdvanced": "Tema, cunoscut drept Orașul Port, este principalul centru logistic și industrial al Ghanei. Orașul a fost proiectat metodic în anii 1960, sub conducerea președintelui Kwame Nkrumah, pe locul unui fost sat pescăresc. Situat chiar pe meridianul Greenwich, Tema gestionează marea majoritate a comerțului maritim internațional al țării. Zona sa industrială masivă include rafinării de petrol, fabrici de ciment și prelucrarea aluminiului, fiind motorul economiei ghaneze moderne. Geografie K8 — comerț maritim.",
+      "factsAdvanced": [
+        "Portul Tema este cel mai mare port comercial din Ghana.",
+        "Orașul este traversat de meridianul Greenwich (0 grade longitudine).",
+        "A fost construit de la zero în anii 1960 ca oraș planificat.",
+        "Găzduiește singura rafinărie de petrol din Ghana, TOR.",
+        "Este împărțit în comunități rezidențiale strict numerotate.",
+        "Aici funcționează uzina de prelucrare a aluminiului VALCO."
+      ]
+    },
+    {
+      "id": "teshie-cities-v2",
+      "descriptionAdvanced": "Teshie este un oraș de coastă istoric, aflat în apropierea capitalei Accra, faimos pe plan internațional pentru meșteșugul său unic. Localitatea este recunoscută ca centrul mondial al sicrielor fantezie, unde artizanii construiesc cufere spectaculoase în forme de mașini, avioane sau animale. Orașul găzduiește și Fortul Augustaborg, construit de danezi în anul 1787. Populația locală, formată majoritar din etnici Ga, își păstrează puternic tradițiile pescărești și festivalurile culturale colorate, cum ar fi Homowo. Cultură K6 — tradiții și meșteșuguri.",
+      "factsAdvanced": [
+        "Este faimos la nivel mondial pentru producția de sicrie fantezie.",
+        "Fortul danez Augustaborg a fost ridicat aici în anul 1787.",
+        "Face parte integrantă din zona metropolitană Greater Accra.",
+        "Festivalul anual Homowo este o atracție majoră a comunității Ga.",
+        "Economia sa s-a bazat istoric pe pescuitul artizanal.",
+        "Găzduiește o academie importantă de pregătire militară."
+      ]
+    },
+    {
+      "id": "cape-coast-cities-v2",
+      "descriptionAdvanced": "Cape Coast, fosta capitală a Coastei de Aur sub dominația britanică, este unul dintre cele mai importante orașe istorice din Africa. Situat pe țărmul Oceanului Atlantic, orașul este renumit pentru Castelul Cape Coast, un fort impunător din secolul al XVII-lea, folosit intens în comerțul transatlantic cu sclavi. Astăzi, Cape Coast a devenit un hub educațional de top, găzduind unele dintre cele mai prestigioase școli și Universitatea Cape Coast, fondată în anul 1962. Istorie K8 — comerțul colonial.",
+      "factsAdvanced": [
+        "A servit drept capitală a Coastei de Aur britanice până în anul 1877.",
+        "Castelul Cape Coast este un sit al Patrimoniului Mondial UNESCO.",
+        "Universitatea Cape Coast a fost înființată în anul 1962.",
+        "Este un important centru educațional, cu zeci de licee prestigioase.",
+        "Istoria sa este profund legată de comerțul transatlantic cu sclavi.",
+        "Populația locală face parte în principal din grupul etnic Fante."
+      ]
+    },
+    {
+      "id": "sekondi-cities-v2",
+      "descriptionAdvanced": "Sekondi este jumătatea mai veche a metropolei gemene Sekondi-Takoradi din sud-vestul Ghanei. Fondat ca un fort comercial olandez și britanic în secolul al XVII-lea, Sekondi a prosperat odată cu construirea liniei de cale ferată în 1903, care transporta resurse minerale și lemn către coastă. Orașul păstrează încă numeroase clădiri din perioada colonială, având o atmosferă mai administrativă comparativ cu vecinul său industrial. Pescuitul rămâne o activitate vitală pentru locuitorii zonei. Istorie K7 — expansiunea colonială.",
+      "factsAdvanced": [
+        "A fost centrul administrativ inițial al Regiunii de Vest.",
+        "Prima cale ferată din Ghana a ajuns în Sekondi în 1903.",
+        "Fortul Orange a fost construit aici de olandezi în anul 1642.",
+        "Formează o singură entitate urbană cu orașul Takoradi.",
+        "Găzduiește baze importante ale Marinei Naționale Ghaneze.",
+        "Pescuitul pe coastă susține încă economia multor familii locale."
+      ]
+    },
+    {
+      "id": "obuasi-cities-v2",
+      "descriptionAdvanced": "Obuasi este centrul minier al Ghanei, situat în inima regiunii Ashanti. Încă din anul 1897, orașul a fost faimos pentru mina de aur AngloGold Ashanti, una dintre primele zece cele mai mari din lume ca volum de rezerve. Prosperitatea economică generată de extragerea aurului a transformat Obuasi dintr-o așezare modestă într-un oraș vibrant. Topografia sa montană și facilitățile dezvoltate în jurul complexului minier atrag constant forță de muncă din toată țara. Geografie K8 — resurse minerale.",
+      "factsAdvanced": [
+        "Mina AngloGold Ashanti operează aici din anul 1897.",
+        "Este considerat centrul industriei aurifere din Ghana.",
+        "Situat la aproximativ 60 de kilometri sud de orașul Kumasi.",
+        "Populația sa depășește 175.000 de locuitori.",
+        "Aurul extras a fost un factor critic în economia regiunii Ashanti.",
+        "Orașul este înconjurat de dealuri și păduri tropicale dense."
+      ]
+    },
+    {
+      "id": "madina-cities-v2",
+      "descriptionAdvanced": "Madina este un oraș rezidențial și comercial vibrant situat la nord-est de Accra, remarcabil pentru diversitatea sa etnică și religioasă. Fondată inițial în 1959 de coloniști musulmani din nord, așezarea s-a extins masiv, devenind oSuburbie cheie a capitalei. Piața centrală din Madina este renumită pentru produsele sale proaspete și bunurile de uz casnic. Proximitatea față de Universitatea din Ghana atrage numeroși studenți și tineri profesioniști în zonă. Societate K6 — suburbii în creștere.",
+      "factsAdvanced": [
+        "A fost înființată ca o comunitate planificată în anul 1959.",
+        "Are una dintre cele mai importante piețe stradale din regiune.",
+        "Populația este un amestec de creștini, musulmani și alte confesiuni.",
+        "Se află în imediata vecinătate a campusului Universității din Ghana.",
+        "Serveste ca un important hub de transport pentru partea de nord a Accrei.",
+        "Populația estimată este de peste 135.000 de persoane."
+      ]
+    },
+    {
+      "id": "koforidua-cities-v2",
+      "descriptionAdvanced": "Koforidua, cunoscut și sub numele de K-dua, este un oraș liniștit situat în Regiunea de Est a Ghanei. Fondat de poporul Akan în 1875, orașul este faimos pentru piața sa de joi, unde sunt vândute mărgele colorate din sticlă și ceramică fabricate manual. Situat la poalele spectaculosului Munte Obuotabiri, Koforidua oferă un climat mai răcoros decât orașele de coastă și este un centru important pentru procesarea boabelor de cacao și a uleiului de palmier. Geografie K7 — piețe și meșteșuguri.",
+      "factsAdvanced": [
+        "A fost fondat de refugiații din regiunea Ashanti în anul 1875.",
+        "Este capitala administrativă a Regiunii de Est din Ghana.",
+        "Piața sa de mărgele atrage comercianți din toată Africa de Vest.",
+        "Orașul este dominat de pitorescul munte Obuotabiri.",
+        "Agricultura locală este concentrată pe producția de cacao și manioc.",
+        "Are o populație de aproximativ 130.000 de locuitori."
+      ]
+    },
+    {
+      "id": "wa-cities-v2",
+      "descriptionAdvanced": "Wa este capitala pitorească a Regiunii Upper West, caracterizată prin arhitectura sa sudano-saheliană uimitoare. Orașul este inima culturală a poporului Wala și găzduiește palatul tradițional al conducătorului Wa Naa. Palatul Wa Naa și moscheile antice cu minarete din noroi reprezintă exemple magnifice ale patrimoniului arhitectural islamic din regiune. Așezarea are o climă uscată și un rol esențial în rutele comerciale trans-sahariene istorice. Istorie K8 — rute comerciale africane.",
+      "factsAdvanced": [
+        "Capitala administrativă a Regiunii Upper West din nordul Ghanei.",
+        "Palatul Wa Naa este construit integral în stil sudano-sahelian.",
+        "Este principalul centru cultural și politic al grupului etnic Wala.",
+        "Climatul este semiarid, cu o singură perioadă ploioasă scurtă anual.",
+        "Populația este predominant de religie islamică.",
+        "Găzduiește un campus al Universității pentru Studii de Dezvoltare."
+      ]
+    },
+    {
+      "id": "techiman-cities-v2",
+      "descriptionAdvanced": "Techiman este un nod comercial esențial situat la o intersecție majoră a drumurilor care leagă nordul și sudul Ghanei. Istoric vorbind, orașul este faimos ca fiind locul de origine al poporului Akan, susținut de legende vechi. Piața centrală din Techiman este considerată cea mai mare piață agricolă din țară, o sursă vitală de alimente precum igname și porumb pentru națiune. Dinamica orașului se bazează puternic pe tranzitul zilnic de mărfuri. Economie K6 — distribuția produselor agricole.",
+      "factsAdvanced": [
+        "Este considerat locul de naștere mitologic al poporului Akan.",
+        "Piața Techiman atrage comercianți din țările vecine francofone.",
+        "Servește ca cel mai mare hub agricol din nordul regiunii forestiere.",
+        "A devenit capitala Regiunii Bono East în anul 2018.",
+        "Comerțul se concentrează pe igname, porumb și legume proaspete.",
+        "Populația sa a crescut la peste 100.000 de locuitori."
+      ]
+    },
+    {
+      "id": "nungua-cities-v2",
+      "descriptionAdvanced": "Nungua este o așezare costieră istorică care astăzi funcționează ca un district rezidențial major între Accra și portul Tema. Fondat de poporul Ga, localitatea este mândră de patrimoniul său maritim, pe care îl celebrează prin festivalul anual Kplejoo. Deși dezvoltarea rapidă a transformat peisajul, pescuitul tradițional de pe plajă este încă o imagine comună. Orașul este și locul primului mall închis din Ghana, deschis la începutul anilor 2000. Geografie K6 — extinderea urbană.",
+      "factsAdvanced": [
+        "Este una dintre cele mai vechi așezări ale poporului Ga.",
+        "Se află la jumătatea distanței dintre orașele Accra și Tema.",
+        "Festivalul Kplejoo este sărbătorit aici cu parade tradiționale anuale.",
+        "Universitatea Maritimă Regională a Ghanei este situată în zonă.",
+        "Găzduiește Junction Mall, unul dintre primele mall-uri mari din țară.",
+        "Economia îmbină comerțul modern cu pescuitul tradițional."
+      ]
+    },
+    {
+      "id": "tema-new-town-cities-v2",
+      "descriptionAdvanced": "Tema New Town este cartierul fondator original de la care s-a dezvoltat gigantul portuar modern, Tema. Această zonă păstrează sufletul satului pescăresc originar, relocat de președintele Kwame Nkrumah în anii 1950 pentru a face loc docurilor industriale. Aici locuiește comunitatea tradițională Ga, unde pescuitul cu bărci din lemn rămâne o activitate zilnică vitală. Contrastul dintre zgârie-norii portuari și metodele artizanale pescărești este evident. Societate K7 — comunități pescărești.",
+      "factsAdvanced": [
+        "Comunitatea a fost mutată aici în 1959 pentru a permite construirea portului.",
+        "Pescuitul artizanal este principala sursă de venit pentru localnici.",
+        "Sărbătoarea Kplejoo este festivalul major al acestei comunități.",
+        "Contrastul vizual față de docurile de oțel și containere este masiv.",
+        "Găzduiește numeroase afumători tradiționale de pește de-a lungul coastei.",
+        "Majoritatea populației este alcătuită din etnici Ga nativi."
+      ]
+    },
+    {
+      "id": "sunyani-cities-v2",
+      "descriptionAdvanced": "Sunyani este un oraș curat și bine planificat, aflat în zona împădurită din vestul Ghanei. Ca reședință administrativă a Regiunii Bono, orașul este esențial pentru distribuția recoltelor mari de cacao din împrejurimi. A fost fondat ca un mic avanpost pentru vânătorii de elefanți în secolul al XIX-lea, dar prezența colonială britanică l-a transformat rapid într-un centru administrativ. Astăzi este renumit pentru standardele sale înalte de educație și mediu ambiant ecologic. Geografie K8 — dezvoltare regională durabilă.",
+      "factsAdvanced": [
+        "A fost desemnat în anul 2007 drept cel mai curat oraș din Ghana.",
+        "Este un important nod agricol, faimos pentru comerțul cu cacao.",
+        "Istoria sa a început ca tabără de vânătoare în secolul al XIX-lea.",
+        "A servit drept cartier general militar britanic în anul 1924.",
+        "Este capitala administrativă a Regiunii Bono.",
+        "Găzduiește campusul Universității de Energie și Resurse Naturale."
+      ]
+    },
+    {
+      "id": "ho-cities-v2",
+      "descriptionAdvanced": "Ho este un oraș fermecător și o destinație turistică de bază din estul Ghanei, fiind capitala Regiunii Volta. Situat la baza lanțului montan Togo, orașul se bucură de un climat relativ blând și precipitații adecvate, favorizând agricultura abundentă. Populația predominantă aparține grupului etnic Ewe, orașul fiind recunoscut pentru ospitalitatea sa, arhitectura modestă și festivalul anual de recoltare Asogli Yam. Este punctul de plecare perfect pentru vizitarea cascadelor din regiune. Geografie K7 — relief montan și ecoturism.",
+      "factsAdvanced": [
+        "Este capitala administrativă a Regiunii Volta.",
+        "Populația este formată preponderent din grupul etnic Ewe.",
+        "Orașul este poziționat strategic la poalele Munților Togo.",
+        "Istoria sa este legată strâns de perioada colonială germană.",
+        "Aici se desfășoară faimosul Festival al Ignamei Asogli.",
+        "Zona este renumită pentru producția de igname și manioc."
+      ]
+    },
+    {
+      "id": "bawku-cities-v2",
+      "descriptionAdvanced": "Bawku este un important oraș comercial din nord-estul extrem al Ghanei, situat la intersecția granițelor cu Burkina Faso și Togo. Această locație de frontieră a făcut din el un punct istoric esențial pe vechea rută comercială trans-sahariană. Deși mediul este arid, specific savanei, piețele din oraș pulsează de viață, atrăgând comercianți din mai multe națiuni pentru a face schimb de animale, îmbrăcăminte tradițională și produse din bumbac. Economie K8 — comerțul transfrontalier.",
+      "factsAdvanced": [
+        "Se află la convergența granițelor cu Togo și Burkina Faso.",
+        "Este locuit predominant de membrii grupurilor Kusasi și Mamprusi.",
+        "Este un nod istoric pentru rutele comerciale trans-sahariene.",
+        "Agricultura din zonă depinde puternic de precipitații sezoniere scurte.",
+        "Este cunoscut pentru piața sa regională de animale.",
+        "Climatul regiunii este tipic sudano-sahelian, cu mult praf."
+      ]
+    },
+    {
+      "id": "dome-cities-v2",
+      "descriptionAdvanced": "Dome este un cartier masiv situat la marginea de nord a metropolei Accra. Ceea ce a început ca o zonă periurbană izolată s-a transformat rapid într-unul dintre cele mai vibrante districte comerciale. Zona este bine-cunoscută pentru Piața Dome, un centru frenetic de aprovizionare cu produse alimentare proaspete și îmbrăcăminte la mâna a doua, dominând peisajul rutier. Infrastructura locală se adaptează continuu la presiunea unei populații în creștere constantă. Societate K6 — expansiunea orașelor.",
+      "factsAdvanced": [
+        "Este situat în districtul municipal Ga East.",
+        "Populația sa a depășit rapid pragul de 70.000 de locuitori.",
+        "Piața sa locală este una dintre cele mai mari din suburbiile Accrei.",
+        "Zona atrage profesioniști care fac naveta zilnic spre centrul capitalei.",
+        "A trecut de la o așezare rurală la un hub rezidențial în 20 de ani.",
+        "Infrastructura rutieră traversează piețe în aer liber extrem de active."
+      ]
+    },
+    {
+      "id": "bolgatanga-cities-v2",
+      "descriptionAdvanced": "Bolgatanga, adesea numit simplu Bolga, este capitala Regiunii Upper East și un renumit centru al meșteșugurilor africane. Orașul este situat într-o regiune uscată, dar a devenit celebru la nivel mondial pentru coșurile Bolga, țesute manual cu măiestrie din iarbă elephant de către meșteșugarii locali. Orașul este un labirint de case construite din chirpici tradițional și piețe zgomotoase, oferind și articole rafinate din piele și ceramică. Cultură K7 — meșteșuguri și tradiții.",
+      "factsAdvanced": [
+        "Este capitala administrativă a Regiunii Upper East.",
+        "Recunoscut internațional pentru faimoasele „Coșuri de Bolga”.",
+        "Economia sa combină agricultura de subzistență cu meșteșugăritul.",
+        "Arhitectura include un număr mare de clădiri din lut tradiționale.",
+        "Grupul etnic Gurunsi formează majoritatea populației locale.",
+        "Piața de artizanat atrage zilnic negustori din statele vecine."
+      ]
+    },
+    {
+      "id": "lashibi-cities-v2",
+      "descriptionAdvanced": "Lashibi este o comunitate urbană din regiunea metropolitană Accra-Tema, un exemplu modern de planificare rezidențială. Situat convenabil între capitala statului și zona portuară industrială, orașul a atras mulți profesioniști și funcționari de stat începând cu anii 1990. Acum găzduiește numeroase facilități private, școli prestigioase și o rețea de străzi structurate. Extinderea sa reflectă creșterea clasei de mijloc ghaneze care caută liniște, dar acces rapid la locurile de muncă. Societate K8 — clase sociale și urbanism.",
+      "factsAdvanced": [
+        "Este poziționat strategic între orașele Accra și Tema.",
+        "Găzduiește multiple complexe rezidențiale deținute privat.",
+        "A fost dezvoltat masiv pentru a absorbi clasa de mijloc în expansiune.",
+        "Populația depășește 50.000 de locuitori din anii 2010.",
+        "Include o abundență de școli internaționale și facilități comerciale.",
+        "Este bine conectat prin linia de cale ferată care unește capitala de port."
+      ]
+    },
+    {
+      "id": "taifa-cities-v2",
+      "descriptionAdvanced": "Taifa reprezintă una dintre enclavele comerciale și rezidențiale aglomerate din partea nordică a capitalei Accra. Oferind spații de locuit la prețuri mai accesibile în anii 1980, localitatea a înregistrat un val masiv de noi rezidenți. Pe lângă zonele rezidențiale, Taifa este faimoasă pentru numărul mare de mici afaceri rutiere și artizanale. Străzile sale înguste sunt animate de la primele ore ale dimineții, susținute de comercianți, mecanici auto și transportatori independenți. Societate K6 — economie informală.",
+      "factsAdvanced": [
+        "A crescut ca o suburbie datorită costurilor scăzute din anii 1980.",
+        "Este faimos pentru prezența masivă a afacerilor și atelierelor mici.",
+        "Populația este un mozaic de muncitori imigrați și familii tinere.",
+        "Densitatea populației depășește multe alte districte ale capitalei.",
+        "Face parte din municipalitatea Ga East.",
+        "Comerțul stradal reprezintă baza economică pentru majoritatea locuitorilor."
+      ]
+    },
+    {
+      "id": "gbawe-cities-v2",
+      "descriptionAdvanced": "Gbawe este un important district suburban de pe crestele vestice ale orașului Accra, oferind priveliști panoramice spectaculoase asupra bazinului capitalei. Cândva un mic sat dincolo de limitele orașului, a fuzionat recent cu zona Mallam într-o vastă aglomerație urbană. Aici se găsesc zone cu un relief deluros stâncos, care pun probleme constructorilor, dar permit construirea unor vile și proprietăți unice. Dinamica locului subliniază dorința de expansiune spațială în afara zonelor centrale aglomerate. Geografie K7 — expansiune rezidențială.",
+      "factsAdvanced": [
+        "Este așezat pe dealurile din partea de vest a metropolei Accra.",
+        "Împarte o frontieră administrativă strânsă cu districtul Mallam.",
+        "Zona a înregistrat un boom imobiliar în anii 2000.",
+        "Topografia sa este predominant stâncoasă și predispusă la eroziune.",
+        "Acest district face parte din Municipalitatea Weija-Gbawe.",
+        "O mare parte din populație activează în afaceri din capitală."
+      ]
+    },
+    {
+      "id": "agona-swedru-cities-v2",
+      "descriptionAdvanced": "Agona Swedru, sau pur și simplu Swedru, este cel mai proeminent centru comercial al Regiunii Centrale din Ghana. Construit pe malurile râului Akora, orașul beneficiază de un peisaj plin de viață, propulsat de sectorul de retail și de agricultură. Swedru servește ca punct de tranzit pentru o mare parte din producția de cacao a țării, atrăgând mulți lucrători migranți. În trecut, a devenit recunoscut pe plan național pentru cluburile sale de highlife și industriile muzicale locale. Economie K7 — distribuție și noduri de transport.",
+      "factsAdvanced": [
+        "Este traversat de râul Akora, vital pentru resursele locale.",
+        "Constituie un centru comercial crucial în Regiunea Centrală.",
+        "A fost inițial un hub pentru schimbul și depozitarea de cacao.",
+        "Orașul este extrem de faimos pentru influența sa în muzica ghaneză highlife.",
+        "Găzduiește anual festivalul local vibrant numit Akwambo.",
+        "Are o populație stabilă care depășește 60.000 de locuitori."
+      ]
+    }
+  ]
+}

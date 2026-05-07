@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-gordon-town-cities-v2",
+      "descriptionAdvanced": "Gordon Town egy történelmi település Saint Andrew megyében, a Hope River völgyében, Kingston külvárosában. A 19. században fontos központ volt a Blue Mountains-ből származó kávé és más termények kereskedelmében, amelyek öszvérháton érkeztek a városba. A városka a hegyekbe vezető utak csomópontjában fekszik, és a természetkedvelők, valamint a túrázók kedvelt kiindulópontja. A környező hegyoldalak tele vannak kis gazdaságokkal, ahol kávét, zöldségeket és virágokat termesztenek. Gordon Town megőrizte a régi idők hangulatát, kanyargós utcáival és a folyó menti elhelyezkedésével. A város szorosan kötődik a fővároshoz, de egyben a hegyvidéki élet kapuja is. Történelem K7 – Hegyvidéki kereskedelmi központok.",
+      "factsAdvanced": [
+        "A város nevét valószínűleg egy 18. századi birtokosról, a Gordon családról kapta.",
+        "A Hope River gyakran megárad, kihívásokat okozva a helyi közlekedésben.",
+        "A közeli 'The Cooperage' egykor hordókészítő műhely volt a kávé és rum számára.",
+        "Számos híres jamaicai művész és zenész élt vagy alkotott a környéken, inspirálódva a természeti szépségből.",
+        "A város a Blue Mountains Nemzeti Park határán fekszik.",
+        "A helyi piac a környékbeli gazdák termékeinek fontos értékesítési helye.",
+        "A Penfield-vízesés egy népszerű helyi látványosság.",
+        "A városban több történelmi templom is található, amelyek a 19. században épültek."
+      ]
+    },
+    {
+      "id": "jm-stony-hill-cities-v2",
+      "descriptionAdvanced": "Stony Hill egy kiterjedt, jómódú lakóövezet Kingston északi hegyeiben. A neve a köves, dombos terepre utal. A 18. és 19. században katonai állomáshelyként és a gazdag ültetvényesek nyári menedékhelyeként szolgált a hűvösebb éghajlata miatt. A Stony Hill-i laktanya fontos szerepet játszott a sziget védelmében. Ma a terület a főváros egyik legkeresettebb lakónegyede, tele luxusvillákkal, modern apartmanokkal és zárt lakóparkokkal. A magaslati fekvés lenyűgöző panorámát kínál Kingstonra és a Karib-tengerre. Stony Hill ötvözi a csendes, külvárosi életet a főváros közelségével. Városföldrajz K8 – Szuburbanizáció és lakóövezetek.",
+      "factsAdvanced": [
+        "A Stony Hill-i laktanyát a 18. században alapították a maroonok elleni védekezésül.",
+        "A terület tengerszint feletti magassága 400 és 600 méter között mozog.",
+        "A Constant Spring Golf Club, az egyik legrégebbi golfpálya a szigeten, a közelben található.",
+        "A hűvösebb éghajlat lehetővé teszi a virágkertészetek és dísznövény-termesztés virágzását.",
+        "A Stony Hill-i tér a helyi kereskedelem központja, üzletekkel és éttermekkel.",
+        "A területen számos nagyköveti rezidencia és diplomáciai ingatlan található.",
+        "Az utak meredekek és kanyargósak, ami jellemző a hegyvidéki beépítésre.",
+        "A 'Stony Hill' név már a 17. századi térképeken is szerepel."
+      ]
+    },
+    {
+      "id": "jm-newcastle-cities-v2",
+      "descriptionAdvanced": "Newcastle egy történelmi katonai hegyi állomás a Blue Mountains-ben, körülbelül 1200 méteres tengerszint feletti magasságban. A települést 1841-ben alapította Sir William Gomm, Jamaica akkori kormányzója, hogy a brit katonák számára menedéket nyújtson a part menti síkságok sárgaláz-járványai elől. A hűvös, friss hegyi levegő ideálisnak bizonyult az akklimatizációhoz. A laktanya épületei a meredek hegyoldalra épültek, és ma is a Jamaica Defence Force (JDF) kiképzőközpontjaként működnek. A terület, amely a Blue and John Crow Mountains Nemzeti Park része, lenyűgöző kilátást nyújt Kingstonra. Történelem K8 – Katonai stratégia és egészségügy.",
+      "factsAdvanced": [
+        "A katonákat az Alföldről a Hollywell-en keresztül vezető meredek ösvényen meneteltették fel.",
+        "A laktanya épületei a brit hegyi építészet jellegzetes példái.",
+        "A településen található egy kis anglikán templom, a Szent Pál-kápolna.",
+        "A kiképzőközpont ma is aktív, és a katonák gyakran láthatók gyakorlatozás közben az utakon.",
+        "A közeli Hardwar Gap a Blue Mountains egyik legfontosabb hágója.",
+        "A területet sűrű köderdő borítja, amely gazdag endemikus növény- és állatfajokban.",
+        "A Newcastle-i gyakorlótér a nemzeti park egyik leglátványosabb része.",
+        "A hőmérséklet itt gyakran 10-15 Celsius fokkal hűvösebb, mint a fővárosban."
+      ]
+    },
+    {
+      "id": "jm-duncans-cities-v2",
+      "descriptionAdvanced": "Duncans egy kisváros Trelawny megyében, a forgalmas északi parti főút mentén, Falmouth és Discovery Bay között. A város a nevét a Duncans család után kapta, akik a 18. században jelentős földbirtokosok voltak a környéken. A település a környező cukornádültetvények és szarvasmarha-farmok központjaként szolgált. Ma Duncans egy csendesebb átutazóváros, amely a helyi közösséget szolgálja ki. A közeli Silver Sands strand, finom fehér homokjával és nyugodt vizével, a környék egyik legszebb, kevésbé zsúfolt tengerparti szakasza. A város megőrizte a vidéki Jamaica hangulatát, miközben közel van a part menti turisztikai központokhoz. Vidékföldrajz K7 – Átutazóvárosok szerepe.",
+      "factsAdvanced": [
+        "A Kettering baptista templom a város egyik történelmi épülete, amelyet a rabszolgaság eltörlése után alapítottak.",
+        "A közeli Bryan Castle birtok egykor a híres brit politikus, Bryan Edwards tulajdonában volt.",
+        "A Duncans-szikla egy helyi természeti látványosság.",
+        "A városban egy általános és egy középiskola is működik.",
+        "A helyi gazdaság a mezőgazdaságra, a kiskereskedelemre és a közeli üdülőhelyeken dolgozókra támaszkodik.",
+        "A város jó példája a hagyományos jamaicai településszerkezetnek, ahol a főutca a közösségi élet központja.",
+        "A Trelawny-i yam (jamgyökér) termesztő vidék a város déli részén kezdődik.",
+        "A város lakossága barátságos és vendégszerető."
+      ]
+    },
+    {
+      "id": "jm-clarkes-town-cities-v2",
+      "descriptionAdvanced": "Clark's Town egy mezőgazdasági város Trelawny megye szívében, a cukornádtermesztés egyik történelmi központjában. A város a nevét a Clarke családról kapta, akik a 18. és 19. században kiterjedt ültetvényekkel rendelkeztek a környéken. A közeli Long Pond cukorgyár, Jamaica egyik legrégebbi és legnevesebb gyára, évszázadokon át a város gazdasági motorja volt. A gyár nemcsak cukrot, hanem híres, nehéz, 'pot-still' eljárással készült rumot is termelt. A vasútvonal, amely egykor a cukornádat szállította a kikötőbe, szintén hozzájárult a város fejlődéséhez. Clark's Town ma egy csendesebb település, amely megpróbál alkalmazkodni a cukoripar változásaihoz. Ipartörténet K8 – A cukor- és rumgyártás.",
+      "factsAdvanced": [
+        "A Long Pond cukorgyárat 1753-ban alapították.",
+        "A gyár által termelt rumok a gyűjtők és a rumkedvelők körében világszerte ismertek.",
+        "A városban egy óratorony is található, amely a közösségi élet központja.",
+        "A Hyde Hall Great House egy közeli, romos állapotban lévő, de impozáns ültetvényes kúria.",
+        "A város a Cockpit Country karsztvidékének közelében fekszik.",
+        "A helyi gazdaság ma már diverzifikálódik, a zöldség- és gyümölcstermesztés is egyre fontosabb.",
+        "A Cedric Titus High School a város fontos oktatási intézménye.",
+        "A cukoripar hanyatlása komoly kihívások elé állította a helyi közösséget."
+      ]
+    },
+    {
+      "id": "jm-wait-a-bit-cities-v2",
+      "descriptionAdvanced": "Wait-a-Bit egy elszigetelt, hegyvidéki falu Trelawny megyében, a Cockpit Country szélén. A falu különös neve a legenda szerint onnan ered, hogy a meredek és nehéz terepen az utazóknak gyakran kellett megállniuk és pihenniük, vagyis 'várniuk egy kicsit'. A falu a maroonok, a szökött rabszolgák leszármazottainak történelmi területén fekszik, és a közösség ma is őrzi független szellemét és kulturális hagyományait. A gazdálkodás a meredek hegyoldalakon történik, főként jamgyökeret, kakaót és kávét termesztenek. Wait-a-Bit egyedülálló betekintést nyújt a vidéki, hegyi Jamaica életébe, távol a modern világ zajától. Kultúrantropológia K8 – Maroon közösségek.",
+      "factsAdvanced": [
+        "A Cockpit Country a maroonok fellegvára volt a britek elleni harcok során a 18. században.",
+        "A 'Wait-a-Bit' név találóan írja le a helyi élet lassabb, megfontoltabb ritmusát.",
+        "A falu nehezen megközelíthető, útjai kanyargósak és gyakran rossz állapotúak.",
+        "A helyi gazdálkodás ökológiai szempontból fenntartható, kis léptékű.",
+        "A közösség szorosan együttműködik, és a kölcsönös segítségnyújtás fontos szerepet játszik.",
+        "A falu egyike azon kevés helyeknek, ahol a jamaicai óriás fecskefarkú pillangó (Homerus swallowtail) még megtalálható.",
+        "A turizmus itt még gyerekcipőben jár, főként a kaland- és ökoturisták keresik fel.",
+        "A falu a Quashie River Sink barlangrendszer közelében található."
+      ]
+    },
+    {
+      "id": "jm-anchovy-cities-v2",
+      "descriptionAdvanced": "Anchovy egy kisváros Saint James megyében, Montego Baytől délre, a sziget belseje felé vezető úton. A város a környező dombos, mezőgazdasági vidék központja. A neve, bár 'szardellát' jelent, valószínűleg egy taino vagy afrikai eredetű szó eltorzult formája. A gazdaság a mezőgazdaságra épül, banánt, citrusféléket és gyökérzöldségeket termesztenek a környéken. A város a Kingston és Montego Bay közötti, már nem működő vasútvonal egyik állomása volt, ami egykor fellendítette a kereskedelmet. Anchovy ma egy csendes, helyi központ, amely a közeli nagyváros, Montego Bay vonzáskörzetében él, sok lakos ingázik a turisztikai központba dolgozni. Településföldrajz K7 – Elővárosi települések.",
+      "factsAdvanced": [
+        "Az Anchovy High School a környék fontos középiskolája.",
+        "A közeli Rocklands Madárrezervátum népszerű turisztikai látványosság, ahol a kolibrik kézből esznek.",
+        "A vasútállomás épülete még ma is látható, bár elhagyatottan.",
+        "A város a Great River folyó völgyének közelében fekszik.",
+        "A helyi piac a gazdák számára fontos értékesítési pont.",
+        "A területen számos kisebb, független templom működik, amelyek a közösségi élet központjai.",
+        "A város jó közúti összeköttetéssel rendelkezik Montego Bay-jel.",
+        "A 'Lethe' nevű közeli település a bambusztutajozásról híres a Great River folyón."
+      ]
+    },
+    {
+      "id": "jm-cambridge-cities-v2",
+      "descriptionAdvanced": "Cambridge egy forgalmas mezőváros Saint James megye déli részén, a Cockpit Country peremén. Fontos kereskedelmi és közlekedési csomópont a környező, nehezen megközelíthető vidéki területek számára. A Cambridge-i piac a régió egyik legnagyobb és legélénkebb piaca, ahol a gazdák a hegyvidéki terményeiket értékesítik. A város a Kingston-Montego Bay vasútvonal egyik kulcsfontosságú állomása volt, ami jelentősen hozzájárult a fejlődéséhez. Bár a vasút már nem üzemel, Cambridge továbbra is a régió gazdasági és társadalmi központja. Itt található a Cambridge High School és a megyei kórház is. Gazdaságföldrajz K7 – Piacvárosok szerepe a hegyvidéken.",
+      "factsAdvanced": [
+        "A Cornwall Regional Hospital előtt a Cambridge-i kórház volt a megye legfontosabb egészségügyi intézménye.",
+        "A város a 'maroon country' (a maroonok területe) kapujában fekszik.",
+        "A vasútállomás egykor a legforgalmasabbak közé tartozott a szigeten a banán- és egyéb terményszállítás miatt.",
+        "A városban egykor egy nagy banánérlelő és -csomagoló üzem is működött.",
+        "A közeli hegyekben számos barlang és földalatti folyó található.",
+        "A helyi gazdaság a mezőgazdaságra, különösen a jamgyökér, a banán és a kakaó termesztésére épül.",
+        "A város egy olvasztótégely, ahol a különböző kultúrák és népek találkoznak.",
+        "A forgalmas főutca tele van üzletekkel, bárokkal és étkezdékkel."
+      ]
+    },
+    {
+      "id": "jm-little-london-cities-v2",
+      "descriptionAdvanced": "Little London egy kisváros Westmoreland megyében, Savanna-la-Mar és Negril között. A város a nevét valószínűleg onnan kapta, hogy a környező birtokok nevei (pl. Whitehall, Kensington) angol helységnevekre emlékeztetnek. A település a cukornádtermesztő síkság közepén fekszik, és a közeli Frome cukorgyár vonzáskörzetében él. A helyi gazdaság szorosan kötődik a cukoriparhoz és a mezőgazdasághoz. Little London egy tipikus nyugat-jamaicai vidéki város, ahol a közösségi élet a templomok és a helyi iskolák köré szerveződik. A forgalmas főút, amely átszeli a várost, összeköti a megyeszékhelyet a turisztikai központtal. Vidékföldrajz K7 – A mezőgazdaság és a települések kapcsolata.",
+      "factsAdvanced": [
+        "A Frome cukorgyár, a környék legnagyobb munkáltatója, mindössze néhány kilométerre található.",
+        "A városban egy középiskola, a Little London High School működik.",
+        "A 19. században a területen számos cukorültetvény működött.",
+        "A lakosság nagy része a mezőgazdaságban vagy a közeli Negril turisztikai szektorában dolgozik.",
+        "A városban egy rendőrőrs és egy egészségügyi központ is szolgálja a közösséget.",
+        "A 'London' név ironikus kontrasztban áll a kisváros csendes, vidéki jellegével.",
+        "A környék a szarvasmarha-tenyésztésről is ismert.",
+        "A helyi piac a gazdák számára fontos értékesítési pont."
+      ]
+    },
+    {
+      "id": "jm-grange-hill-cities-v2",
+      "descriptionAdvanced": "Grange Hill egy mezőgazdasági közösség Westmoreland megyében, a sziget nyugati részén. A település a termékeny síkságon fekszik, és a gazdasága szinte teljes mértékben a cukornádtermesztésre épül. A közeli Frome cukorgyár a helyi lakosság fő foglalkoztatója. A közösség élete a cukornád betakarítási és feldolgozási ciklusaihoz igazodik. Grange Hill egy tipikus 'cukorváros', ahol a társadalmi és gazdasági struktúrákat az ültetvényes gazdálkodás öröksége határozza meg. A városban egy középiskola, a Grange Hill High School működik, amely fontos szerepet játszik a helyi fiatalok oktatásában. Agrártörténet K8 – Ültetvényes gazdálkodás és társadalom.",
+      "factsAdvanced": [
+        "A Frome-i cukorgyár 1938-as zavargásai a jamaicai munkásmozgalom egyik kulcsfontosságú eseményei voltak.",
+        "A 'grange' szó farmot vagy majorságot jelent, ami a terület mezőgazdasági jellegére utal.",
+        "A közösségben erős a sport, különösen a krikett és a futball iránti szenvedély.",
+        "A lakosság nagy része afrikai rabszolgák és indiai szerződéses munkások leszármazottja.",
+        "A helyi gazdaság nagyon sebezhető a cukor világpiaci árának ingadozásaival szemben.",
+        "A közösségi élet a templomok és a helyi bárok körül zajlik.",
+        "A város a főúttól kissé távolabb, csendesebb helyen fekszik.",
+        "A környező területeken más terményeket, például zöldségeket és gyümölcsöket is termesztenek."
+      ]
+    },
+    {
+      "id": "jm-frome-cities-v2",
+      "descriptionAdvanced": "Frome nem egy hagyományos város, hanem egy hatalmas cukorültetvény és a köré épült gyár Westmoreland megyében. A Frome Sugar Factory Jamaica egyik legnagyobb és legfontosabb cukorgyára, amelynek története a 17. századra nyúlik vissza. A modern gyárat az 1930-as években építették, és évtizedekig a nyugati régió gazdasági motorja volt. Az 1938-as Frome-i zavargások, amelyeket a munkások rossz körülményei és alacsony bérei váltottak ki, a modern Jamaica születésének és a szakszervezeti mozgalom megerősödésének kulcsfontosságú eseményei voltak. Frome ma is a cukor- és rumgyártás központja, és a neve elválaszthatatlanul összeforrt a jamaicai történelemmel. Munkásmozgalom Története K8.",
+      "factsAdvanced": [
+        "Az 1938-as zavargásokat Alexander Bustamante vezette, aki később Jamaica első miniszterelnöke lett.",
+        "A gyárnak saját vasúthálózata volt a cukornád szállítására az ültetvényekről.",
+        "A Frome birtok több ezer hektáron terül el.",
+        "A gyár által termelt melaszt a közeli Appleton Estate is felhasználja rumgyártáshoz.",
+        "A betakarítási szezonban (általában decembertől júniusig) a gyár éjjel-nappal működik.",
+        "A 'Frome' név egy angliai folyóra vagy városra utal.",
+        "A gyár a Tate & Lyle brit cukoripari óriásvállalat tulajdonában volt hosszú ideig.",
+        "A gyár és az ültetvények hatalmas vízigénye komoly hatással van a régió vízkészleteire."
+      ]
+    },
+    {
+      "id": "jm-darliston-cities-v2",
+      "descriptionAdvanced": "Darliston egy hegyvidéki mezőváros Westmoreland megyében, Savanna-la-Mar-tól keletre. A város a környező gazdálkodó közösségek kereskedelmi központja. A terület a mezőgazdaságról, különösen a gyökérzöldségek (yam, édesburgonya), a banán és a szarvasmarha-tenyésztésről ismert. A Darliston-i piac a helyi gazdák fontos értékesítési pontja. A város egy völgyben fekszik, és a környező dombokról szép kilátás nyílik. A településen több történelmi templom is található, amelyek a 19. századi misszionáriusi tevékenység idején épültek. Darliston egy csendes, hagyományos jamaicai város, amely megőrizte vidéki jellegét. Vidékföldrajz K7 – Hegyvidéki mezőgazdasági központok.",
+      "factsAdvanced": [
+        "A város ad otthont a Darliston-i Metodista Templomnak, amely a környék egyik legrégebbi temploma.",
+        "A Maud McLeod High School a város fontos oktatási intézménye.",
+        "A területen számos kisebb, független gazdaság működik, szemben a síkságok nagy ültetvényeivel.",
+        "A város a 'maroon' ösvények közelében fekszik, amelyeket a szökött rabszolgák használtak.",
+        "A közlekedés a kanyargós hegyi utakon kihívást jelenthet, különösen az esős évszakban.",
+        "A közösségi élet a templomok, az iskola és a helyi sportklubok köré szerveződik.",
+        "A város neve valószínűleg egy angol vagy skót bevándorló nevéből származik.",
+        "A lakosság egy része a közeli városokba vagy a turisztikai övezetekbe ingázik dolgozni."
+      ]
+    },
+    {
+      "id": "jm-petersfield-cities-v2",
+      "descriptionAdvanced": "Petersfield egy kisváros Westmoreland megyében, a cukornádtermesztő síkságon, Savanna-la-Mar közelében. A város, sok más környező településhez hasonlóan, szorosan kötődik a cukoriparhoz. A közeli Frome cukorgyár a fő munkalehetőség a helyi lakosság számára. A város a Roaring River folyó közelében fekszik, amely egy népszerű helyi látványosság a barlangjaival és a hűs vizű fürdőhelyével. Petersfield egy tipikus vidéki közösség, ahol a mezőgazdaság és a kiskereskedelem jelenti a megélhetést. A városban működik a Petersfield High School, amely a környékbeli fiataloknak nyújt középfokú oktatást. Agrárföldrajz K7 – A cukoripar hatása a településhálózatra.",
+      "factsAdvanced": [
+        "A Roaring River Park egy gyönyörű botanikus kert és rekreációs terület a város mellett.",
+        "A Roaring River folyó egy szakaszon a föld alatt folyik, majd újra a felszínre tör.",
+        "A város neve egy helyi ültetvényes, Peter Beckford nevére utalhat, aki a 18. században élt.",
+        "A lakosság nagy része a cukoriparban vagy a kapcsolódó szolgáltatásokban dolgozik.",
+        "A város a főúttól kissé távolabb helyezkedik el, ami csendesebb légkört biztosít.",
+        "A helyi sportélet, különösen a krikett, nagyon népszerű.",
+        "A területen az indiai szerződéses munkások leszármazottainak kultúrája is jelen van.",
+        "A közösségi összetartás erős, a családok generációk óta itt élnek."
+      ]
+    },
+    {
+      "id": "jm-gayle-cities-v2",
+      "descriptionAdvanced": "Gayle egy kisváros Saint Mary megye hegyvidéki részén. Fontos kereskedelmi központként szolgál a környező, főként banán- és kókusztermesztéssel foglalkozó gazdálkodó közösségek számára. A város a sziget északi partja és a belső területek közötti főút mentén fekszik, ami hozzájárul a forgalmához. A Gayle-i piac a helyi gazdák termékeinek fő értékesítési pontja. A város a Tacky-lázadás, az 1760-as nagy rabszolgafelkelés egyik fontos helyszínének közelében található. Ma Gayle egy tipikus jamaicai mezőváros, amely a mezőgazdaságra és a kiskereskedelemre támaszkodik, miközben a lakosok egy része a közeli Ocho Rios turisztikai központjában dolgozik. Történelem K7 – Rabszolgafelkelések és vidéki központok.",
+      "factsAdvanced": [
+        "A Tacky-lázadás a közeli Frontier és Trinity ültetvényeken kezdődött.",
+        "A város a 'lucky valley' (szerencsés völgy) néven ismert termékeny területen fekszik.",
+        "A közeli 'Walker's Wood' falu híres a jerk fűszerpasztáiról és szószairól.",
+        "A Gayle-i adventista templom a közösségi élet egyik központja.",
+        "A városban egy középiskola (Tacky High School) és egy egészségügyi központ is működik.",
+        "A terület gazdag vízfolyásokban, amelyek a mezőgazdasági öntözést segítik.",
+        "A 'Gayle' név valószínűleg egy helyi birtokos család nevéből ered.",
+        "A város jó példája annak, hogyan élnek együtt a hagyományos gazdálkodó közösségek a modern turizmus hatásaival."
+      ]
+    },
+    {
+      "id": "jm-richmond-cities-v2",
+      "descriptionAdvanced": "Richmond egy történelmi város Saint Mary megyében, amely egykor a banánipar egyik központja volt. Itt volt a végállomása a Richmondból Linsteadbe vezető vasútvonalnak, amelyet kifejezetten a banán gyors szállítására építettek a kikötőkbe. A Richmond-i fegyház (Richmond Farm Adult Correctional Centre) a város egyik legismertebb intézménye, amely egy farmgazdaságot is működtet. A város a Tacky folyó partján fekszik, egy termékeny völgyben. A banánipar hanyatlásával Richmond jelentősége csökkent, de továbbra is a környező mezőgazdasági közösségek központja maradt. Közlekedéstörténet K7 – Tematikus vasútvonalak.",
+      "factsAdvanced": [
+        "A vasútvonalat 1898-ban nyitották meg, de az 1990-es években a vasúti közlekedés leállásával bezárták.",
+        "A fegyház egy alacsony biztonsági fokozatú börtön, amely a mezőgazdasági rehabilitációra összpontosít.",
+        "A város ad otthont a Richmond Technical High Schoolnak.",
+        "A közeli 'Troja' nevű falu a vasútvonal egy másik fontos állomása volt.",
+        "A területen a kakaó- és a pimentotermesztés is jelentős.",
+        "A városban egykor egy nagy banáncsomagoló üzem is működött.",
+        "Richmond jó példája annak, hogyan hatott a közlekedési infrastruktúra (vasút) egy település felemelkedésére és hanyatlására.",
+        "A Tacky folyó a nevét az 1760-as rabszolgafelkelés vezetőjéről kapta."
+      ]
+    },
+    {
+      "id": "jm-catadupa-cities-v2",
+      "descriptionAdvanced": "Catadupa egy kis, hegyvidéki falu Saint James megyében, a már nem működő Kingston-Montego Bay vasútvonal mentén. A falu a 19. és 20. században a vasútnak köszönhetően virágzott, és híres volt a helyi szabókról, akik a vonaton utazók számára méret után készítettek ruhákat az utazás ideje alatt. A turisták leadták a méreteiket az egyik irányba utazva, és visszafelé már át is vehették az elkészült ruhadarabot. A vasút bezárása után Catadupa elcsendesedett, de a szabómesterség hagyománya a mai napig él. A falu a Cockpit Country peremén fekszik, lenyűgöző természeti környezetben. Ipartörténet K7 – A közlekedés és a kézművesség kapcsolata.",
+      "factsAdvanced": [
+        "A 'Catadupa' szó görög eredetű, és vízesést jelent, utalva a közeli vízfolyásokra.",
+        "A vasútállomás épülete, bár elhagyatottan, de még áll.",
+        "A faluban ma is több szabóműhely működik, amelyek a turistákra és a helyi igényekre szakosodtak.",
+        "A falu a gyömbér és más fűszerek termesztéséről is ismert volt.",
+        "A közösség aktívan kampányol a vasútvonal újranyitásáért.",
+        "A környező hegyek kiváló túrázási lehetőségeket kínálnak.",
+        "A falu egyike azon helyeknek, ahol a látogatók betekintést nyerhetnek a hagyományos jamaicai kézművességbe.",
+        "A lakosok közül sokan a közeli Montego Baybe ingáznak dolgozni."
+      ]
+    },
+    {
+      "id": "jm-maroon-town-cities-v2",
+      "descriptionAdvanced": "Maroon Town egy történelmi jelentőségű település Saint James megyében, a Cockpit Country szívében. A város a jamaicai maroonok, a szökött afrikai rabszolgák leszármazottainak egyik legrégebbi és legfontosabb központja. A 18. században a Leeward (nyugati) maroonok Cudjoe nevű vezetőjének főhadiszállása volt. A britekkel vívott hosszú és sikeres gerillaháború után 1739-ben itt írták alá az egyik békSzerződést, amely autonómiát biztosított a maroonoknak. A város ma is őrzi a maroonok kulturális örökségét, a függetlenség szellemét és a hagyományos életformát. A közeli 'Peace Cave' (Béke-barlang) a szerződéskötés szent helye. Történelem K8 – A maroonok harcai és autonómiája.",
+      "factsAdvanced": [
+        "A maroonok a Cockpit Country nehezen járható terepét használták ki a britek elleni harcban.",
+        "Cudjoe, a maroonok vezetője, Jamaica nemzeti hőse.",
+        "A bSzerződés elismerte a maroonok szabadságát és földjeik tulajdonjogát, cserébe a jövőbeli szökevények visszaszolgáltatásáért.",
+        "A városban évente megemlékezéseket és fesztiválokat tartanak a maroon örökség tiszteletére.",
+        "A maroon közösségeknek saját, helyi vezetőjük van, akit 'Colonel'-nek (ezredes) neveznek.",
+        "A területen az 'abeng', egy szarvból készült kürt használata a kommunikáció hagyományos formája.",
+        "A helyi gazdaság az önellátó gazdálkodásra és a gyógynövények ismeretére épül.",
+        "Maroon Town a kulturális antropológusok és a történészek fontos kutatási területe."
+      ]
+    },
+    {
+      "id": "jm-green-island-cities-v2",
+      "descriptionAdvanced": "Green Island egy tengerparti város Hanover megyében, a sziget legnyugatibb részén, Lucea és Negril között. A város egy gyönyörű, zöldellő öböl partján fekszik, amelyről a nevét is kapta. A gazdaság a halászaton, a mezőgazdaságon és a közeli Negril turizmusán alapul. A Green Island-i kikötő egykor a cukor és a pimento (szegfűbors) exportjának fontos állomása volt. A város megőrizte nyugodt, vidéki hangulatát, és a helyi strandok, mint például a Half Moon Beach, csendesebb alternatívát kínálnak a zsúfolt üdülőhelyekkel szemben. A városban található a Green Island High School, amely a környék oktatási központja. Földrajz K6 – Part menti települések és gazdaságuk.",
+      "factsAdvanced": [
+        "A Half Moon Beach egy magánstrand, amely egyedi, nyugodt légköréről ismert.",
+        "A város a 18. században fontos cukorexport-kikötő volt.",
+        "A közeli 'Samuel's Bay' egy védett tengeri terület.",
+        "A lakosság nagy része a közeli, nagyobb városokba, Lucea-ba vagy Negrilbe ingázik dolgozni.",
+        "A halászat ma is a helyi gazdaság egyik alappillére.",
+        "A városban egy 19. századi anglikán templom is található.",
+        "A 'Green Island' név a buja, zöld növényzetre utal, amely a várost körülveszi.",
+        "A város a főúton fekszik, amely összeköti a megye két legfontosabb városát."
+      ]
+    },
+    {
+      "id": "jm-sandy-bay-cities-v2",
+      "descriptionAdvanced": "Sandy Bay egy tengerparti város Hanover megyében, Montego Bay és Lucea között. A város egy hosszú, homokos öbölről kapta a nevét. A település a turizmusra és a mezőgazdaságra épül. Számos luxusvilla és üdülő található a környéken, köztük a híres Tryall Club, amely egy világszínvonalú golfpályával és egy történelmi ültetvényes kúriával rendelkezik. A város a főúton fekszik, ami könnyű hozzáférést biztosít a Montego Bay-i nemzetközi repülőtérhez. Sandy Bay ötvözi a luxusturizmust a hagyományos jamaicai közösségi élettel, a helyi lakosok közül sokan a turisztikai szektorban dolgoznak. Turizmusföldrajz K8 – Luxusturizmus és helyi közösségek.",
+      "factsAdvanced": [
+        "A Tryall Club golfpályája számos nemzetközi versenyt, köztük a Johnnie Walker World Championship-et is vendégül látta.",
+        "A Tryall birtok egykor egy hatalmas cukorültetvény volt, a vízkerék ma is látható.",
+        "A Sandy Bay-i elsődleges iskola a közösség fontos oktatási intézménye.",
+        "A városban egy rendőrőrs és egy postahivatal is működik.",
+        "A halászat továbbra is fontos szerepet játszik a helyi gazdaságban, bár a turizmus dominál.",
+        "A közeli 'Rhodes Hall' ültetvény lovaglási lehetőségeket kínál.",
+        "A város a Great River folyó torkolatának közelében fekszik.",
+        "A területen számos drága nyaraló és villa található, amelyeket külföldiek birtokolnak."
+      ]
+    },
+    {
+      "id": "jm-cascade-cities-v2",
+      "descriptionAdvanced": "Cascade egy vidéki falu Hanover megye hegyvidéki részén. A neve a környező számos vízesésre és zúgóra utal. A falu egy buja, zöld völgyben fekszik, és a mezőgazdaság a fő megélhetési forrás. A helyi gazdák kávét, kakaót, banánt és gyökérzöldségeket termesztenek a meredek hegyoldalakon. Cascade egy csendes, elszigetelt közösség, amely távol esik a part menti turizmus nyüzsgésétől. A falu a természetkedvelők paradicsoma, a környező erdők és folyók kiváló túrázási és fürdési lehetőségeket kínálnak. A közösségi élet a helyi templomok és az iskola köré szerveződik. Természetföldrajz K7 – Vízfolyások és települések.",
+      "factsAdvanced": [
+        "A 'Cascade' név francia eredetű, és vízesést jelent.",
+        "A környéken több, a turisták által kevésbé ismert, rejtett vízesés is található.",
+        "A falu a Dolphin Head-hegység közelében fekszik.",
+        "A gazdálkodás itt nagyrészt kis, családi farmokon történik.",
+        "Az utak a környéken meredekek és kihívást jelenthetnek, különösen az esős időszakban.",
+        "A falu jó példája a fenntartható, közösségi alapú életmódnak.",
+        "A lakosok közül sokan gyógynövények ismerői és használói.",
+        "A falu megőrizte a hagyományos jamaicai vidéki építészetet és életformát."
+      ]
+    }
+  ]
+}

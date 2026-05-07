@@ -1,0 +1,43 @@
+{
+  "lang": "en",
+  "country": "benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cotonou-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "...",
+        "ro": "...",
+        "en": "Cotonou is Benin's economic powerhouse, situated on the Atlantic coast. It is home to the massive Dantokpa market, one of West Africa's largest outdoor commercial hubs, blending traditional and modern commerce. The city serves as the primary maritime gateway, connecting the nation to global trade routes and fostering rapid urban development since the 1960s. Geography K7 \u2014 urban development and regional economic hubs."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "...",
+          "...",
+          "...",
+          "...",
+          "...",
+          "..."
+        ],
+        "ro": [
+          "...",
+          "...",
+          "...",
+          "...",
+          "...",
+          "..."
+        ],
+        "en": [
+          "Cotonou serves as Benin's largest urban center and primary economic heart.",
+          "The Dantokpa Market spans over 20 hectares and serves as a major regional trade hub.",
+          "The Port of Cotonou acts as a critical transit point for landlocked neighbors.",
+          "Rapid urban growth has characterized the city's expansion since independence.",
+          "The tropical climate features two distinct rainy seasons, influencing local life.",
+          "It hosts the headquarters of numerous regional and international financial institutions."
+        ]
+      }
+    }
+  ]
+}

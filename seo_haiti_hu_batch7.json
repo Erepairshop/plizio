@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foret-des-pins-life-v2",
+      "descriptionAdvanced": "A Forêt des Pins (Fenyőerdő) egy hegyvidéki erdőrezervátum az Ouest és a Sud-Est megye határán, amely a karibi térség egyik legkülönlegesebb ökoszisztémája. A 2000 méteres magasságban elterülő erdőt a hispaniolai fenyő (Pinus occidentalis) dominálja, amely a hűvös, gyakran fagyos éjszakákat és a sűrű ködöt is elviseli. A terület évtizedek óta az ország egyik legfontosabb faanyag- és gyantakészlete. Sajnos a helyi lakosság folyamatos faszénégetése és az engedély nélküli mezőgazdasági betelepülés (a bab és a burgonya termesztése) kritikus szintre csökkentette az eredeti erdőterületet. A rezervátum madárvilága rendkívül gazdag; olyan ritka, a szigeten endemikus fajok figyelhetők meg itt, mint a hispaniolai keresztcsőrű. Földrajz K8 — hegyvidéki fenyvesek és a deforesztáció.",
+      "factsAdvanced": [
+        "Az Ouest és Sud-Est megyék határvidékén, a Chaîne de la Selle hegységben található.",
+        "Kizárólag itt és a dominikai oldalon él a hispaniolai fenyő (Pinus occidentalis).",
+        "A terület tengerszint feletti magassága 1500 és 2200 méter között mozog.",
+        "Az átlaghőmérséklet a téli éjszakákon gyakran fagypont közelébe süllyed.",
+        "Súlyosan fenyegetett az illegális faszénkészítés és a terjeszkedő agrárium miatt.",
+        "Fontos menedék az endemikus karibi hegyi madárfajok számára."
+      ]
+    },
+    {
+      "id": "plaine-artibonite-agri-life-v2",
+      "descriptionAdvanced": "A Plaine de l'Artibonite (Artibonite-síkság) Haiti legjelentősebb mezőgazdasági régiója, amelyet gyakran az ország 'rizses táljaként' (grenier) emlegetnek. A síkságot az Artibonite-folyó, a sziget leghosszabb vízfolyása szeli ketté, amelynek iszapos vize kiválóan alkalmassá teszi a területet az árasztásos rizstermesztésre. Az 1950-es években épült ODVA (Organisme de Développement de la Vallée de l'Artibonite) öntözőrendszer több tízezer hektárt lát el vízzel. Bár a rizstermelés a helyi gazdaság alapja, a haiti parasztok kemény küzdelmet folytatnak az olcsón importált amerikai rizzsel (az ún. 'Miami rizzsel') szemben. A völgyben kiterjedt cukornád- és babültetvények is találhatók, és a terület sűrűn lakott; a kis falvak szorosan a földjeikhez tapadnak. Földrajz K7 — árasztásos öntözés és élelmiszerbiztonság.",
+      "factsAdvanced": [
+        "Haiti legkiterjedtebb termékeny síksága az Artibonite megyében.",
+        "Az ország árasztásos rizstermelésének több mint 80%-át adja.",
+        "Az Artibonite-folyó vize táplálja a kiterjedt ODVA öntözőcsatorna-hálózatot.",
+        "A helyi gazdák nehezen versenyeznek az importált, támogatott amerikai rizzsel.",
+        "Az öntözés hiányosságai és az iszaposodás gyakran okoz terméskiesést.",
+        "A rizs mellett jelentős a cukornád és az édesburgonya termesztése is."
+      ]
+    },
+    {
+      "id": "cotes-de-fer-agri-life-v2",
+      "descriptionAdvanced": "Côtes-de-Fer, a Sud-Est megye száraz és sziklás déli partvidékén, a kemény tengerparti mezőgazdaság egyik jellegzetes színtere. A település és vonzáskörzete, melynek neve ('Vaspart') utal a zord környezetre és a veszélyes zátonyokra, az ország egyik legkevésbé csapadékos régiója. Ennek megfelelően a mezőgazdaság itt a rendkívül szárazságtűrő növényekre specializálódott: a lakosság főként cirkot (petit mil), maniókát és földimogyorót termeszt a köves talajon. A vízhiány és a rossz utak miatt a megélhetés nehéz, ezért sok fiatal elvándorol Port-au-Prince-be vagy külföldre. Az állattartás szintén fontos, különösen a kecsketenyésztés, amely a helyi bozótosokon is képes fennmaradni. Az utóbbi években civil szervezetek próbálkoznak a szárazságtűrő gyümölcsfák, mint a kesudió és a mangó betelepítésével. Sachkunde K5 — száraz klímájú agrárstratégiák.",
+      "factsAdvanced": [
+        "A Sud-Est (Délkeleti) megye egyik legelszigeteltebb tengerparti települése.",
+        "A terület neve ('Vaspart') a sziklás, hajózásra veszélyes partvonalra utal.",
+        "A mezőgazdaság főleg szárazságtűrő növényekre (cirok, földimogyoró) épül.",
+        "A kecsketenyésztés kulcsfontosságú a helyi családok fehérjeellátásában.",
+        "Haiti egyik legszárazabb mikroklímájával rendelkező agrárzónája.",
+        "Jelentős társadalmi probléma a munkaképes fiatalok elvándorlása (exodus)."
+      ]
+    },
+    {
+      "id": "jardin-botanique-cayes-life-v2",
+      "descriptionAdvanced": "A Jardin Botanique des Cayes (Les Cayes Botanikus Kert) ökológiai és tudományos központként működik a Sud megyében, hatalmas szerepet játszva Haiti természeti örökségének megóvásában. A 2003-ban alapított intézmény nemcsak egy puszta növénygyűjtemény, hanem egy aktív 'zöld laboratórium'. A kert munkatársai az ország minden tájáról (különösen a közeli Pic Macaya régióból) gyűjtenek magvakat és palántákat az endémikus, kihalással fenyegetett növényekből. A területen gondosan fenntartott tematikus kertek találhatók, köztük egy orchideaház és egy pálma-arborétum. Emellett a kert a fenntartható tájépítészetet és az organikus gazdálkodást is oktatja a helyi közösségeknek, próbálva alternatívát nyújtani a pusztító faszénégetéssel szemben. Földrajz K8 — biodiverzitás és botanikai kutatás.",
+      "factsAdvanced": [
+        "Több mint 8 hektáros, tudományosan fenntartott zöldterület Les Cayes mellett.",
+        "Célja a karibi és kifejezetten a haiti őshonos növényfajok génmegőrzése.",
+        "A park különálló, klimatikusan szabályozott orchideakollekcióval rendelkezik.",
+        "Aktívan részt vesz a közeli Macaya Nemzeti Park erdősítési projektjeiben.",
+        "Évente több ezer helyi diák számára tartanak itt környezetismereti órákat.",
+        "Fontos szerepe van a tájépítészeti és organikus mezőgazdasági kutatásokban."
+      ]
+    },
+    {
+      "id": "ferme-ecologique-jacmel-life-v2",
+      "descriptionAdvanced": "A Jacmel környéki hegyekben található ökológiai farmok (Fermes Écologiques) a fenntartható mezőgazdaság úttörői Haitin. A Sud-Est megye termékeny, de erózió által súlyosan fenyegetett lejtőin ezek a gazdaságok a hagyományos monokultúrák helyett a permakultúra és az agrár-erdészet (agroforesterie) módszereit alkalmazzák. Kávét, kakaót, banánt és értékes faanyagot adó fákat (pl. mahagónit) ültetnek egyetlen vegyes rendszerben, amely megköti a talajt és megtartja a nedvességet. Emellett a farmok gyakran kísérleteznek komposztálással, esővíz-gyűjtéssel és biogáz előállításával, hogy függetlenedjenek az importált műtrágyáktól és fosszilis energiáktól. Ezek a helyszínek egyre népszerűbbek a környezettudatos turisták (ökoturizmus) és a nemzetközi önkéntesek körében is. Sachkunde K6 — permakultúra és organikus gazdálkodás.",
+      "factsAdvanced": [
+        "A Sud-Est megye hegyvidéki (Jacmel feletti) területein kialakított mintagazdaságok.",
+        "A talajerózió megállítására komplex agrár-erdészeti (agroforesterie) rendszereket használnak.",
+        "A kávé és a kakaó árnyékot adó gyümölcs- és erdei fákkal (pl. mangó, mahagóni) együtt nő.",
+        "Szintetikus műtrágya helyett helyben készített komposztot és mulcsot alkalmaznak.",
+        "Egyre jelentősebb az oktatási és ökoturisztikai szerepük a régióban.",
+        "Bemutatják az esővíz-gyűjtés és a biogáz-technológia rurális alkalmazhatóságát."
+      ]
+    },
+    {
+      "id": "reserve-animale-gonave-life-v2",
+      "descriptionAdvanced": "A Gonâve-szigeti állatrezervátum (vagy a sziget informális vadvédelmi zónái) kritikus fontosságú menedéket jelentenek a hispaniolai fauna számára, elszigetelve a szárazföldi sűrű emberi populációtól. Bár a sziget rendkívül száraz és küzd az ivóvízhiánnyal, a belső, nehezen megközelíthető karsztos hegyvidékek – és az azokon található szúrós, bozótos növényzet – ritka állatfajokat rejtenek. Ilyen például a haiti orrszarvú leguán (Cyclura) egy specifikus populációja, valamint számos endemikus kígyó- és gyíkfaj. A part menti mangrove-mocsarak, különösen a Pointe-à-Raquette környékén, flamingók és pelikánok vonulási útvonalának részei. Sajnos a vadászat és a kóbor kutyák, macskák komoly nyomást gyakorolnak erre a törékeny ökoszisztémára, a hivatalos állami védelem pedig szinte a nullával egyenlő. Földrajz K8 — szigeti izoláció és endemikus hüllők.",
+      "factsAdvanced": [
+        "A Gonâve-sziget (Ouest megye) belső, karsztos területeit foglalja magába.",
+        "Az elszigeteltség miatt az itteni fauna evolúciósan részben eltér a szárazfölditől.",
+        "Menedéke a veszélyeztetett hispaniolai orrszarvú leguánnak (Cyclura cornuta).",
+        "A parti mangrovék fontos pihenőhelyei a vonuló vízimadaraknak.",
+        "Az ökoszisztémát súlyosan fenyegeti a faszénégetés és az emberi zavarás.",
+        "Hivatalos parkőrség vagy infrastrukturális védelem jelenleg nem létezik a területen."
+      ]
+    },
+    {
+      "id": "bassin-bleu-nature-life-v2",
+      "descriptionAdvanced": "Bassin Bleu ('Kék Medence') Haiti egyik leghíresebb és legvarázslatosabb természeti csodája, amely Jacmel városa felett, a hegyekben (Sud-Est megye) rejtőzik. Ez valójában három, vízesések által összekötött kristálytiszta karsztmedence (Bassin Clair, Bassin Bleu és Bassin Palmiste) sorozata, amelyeket sűrű trópusi dzsungel ölel körül. A víz mélykék és smaragdzöld színe a mészkőzetekből kioldódó ásványi anyagoknak és az árnyékos környezetnek köszönhető. A haiti folklór (vudu) mélyen tiszteli a helyet; a legendák szerint a medencékben víziszellemek (simbi) laknak, és bizonyos napokon áldozatokat is mutatnak be itt. Bár az odavezető út nehézkes, a hely az ország ökoturizmusának egyik legfontosabb célpontja, ahol a látogatók a vízesésről ugrálhatnak a hűs vízbe. Földrajz K6 — karsztforrások és természeti turizmus.",
+      "factsAdvanced": [
+        "Jacmel városától mintegy 12 kilométerre, a hegyekben található (Sud-Est megye).",
+        "Három fő mészkőmedencéből (Bassin Clair, Bassin Bleu, Bassin Palmiste) áll.",
+        "A víz élénk kék színét a karsztos kőzetek ásványi anyagai adják.",
+        "A helyi vudu hitvilág szerint a medencéket víziszellemek (simbi) lakják.",
+        "Haiti egyik legkeresettebb és leginkább fotózott ökoturisztikai látványossága.",
+        "A legfelső medence megközelítéséhez köteleken kell leereszkedni egy sziklafalon."
+      ]
+    },
+    {
+      "id": "parc-miraculeux-pa-p-life-v2",
+      "descriptionAdvanced": "A Parc Miraculeux (Csodapark) egy vallási és zarándokközpont, amely a Port-au-Prince-i metropoliszhoz (gyakran Croix-des-Bouquets vagy Tabarre vonzáskörzetéhez) köthető. Bár a név több hasonló szentélyt is jelölhet Haitin, ezek az intézmények az utóbbi évtizedekben gombamód szaporodó evangéliumi (protestáns) és pünkösdi egyházak hatalmas szabadtéri találkozóhelyei. Több ezer, a mélyszegénységből érkező hívő gyűlik össze ezekben a falakkal körülvett, hatalmas sátrakkal vagy bádogtetőkkel fedett komplexumokban, hogy imádkozzon a betegségekből való csodás gyógyulásért, vagy a gazdasági felemelkedésért. A parkok egyfajta 'párhuzamos várost' alkotnak: saját biztonsági szolgálattal, élelmiszerárusokkal és könyvárusokkal rendelkeznek, bemutatva, hogyan veszi át a vallás a szociális védőháló szerepét a működésképtelen állami intézmények helyett. Sachkunde K8 — az újprotestáns vallási terek urbanisztikája.",
+      "factsAdvanced": [
+        "Nagy kiterjedésű, az evangéliumi/pünkösdi egyházak által fenntartott vallási központ.",
+        "Gyakran a Port-au-Prince körüli sík területeken (Plaine du Cul-de-Sac) található.",
+        "A hívők ezrei látogatják a rendszeres 'gyógyító' és ima-összejöveteleket.",
+        "A komplexumok komoly önfenntartó infrastruktúrával (árusok, őrség) rendelkeznek.",
+        "A 2010-es földrengés után ezek a parkok lelki és fizikai menedékhelyként is szolgáltak.",
+        "Tükrözik a protestáns egyházak robbanásszerű terjeszkedését a haiti társadalomban."
+      ]
+    },
+    {
+      "id": "bananenausbau-limonade-life-v2",
+      "descriptionAdvanced": "Limonade (Nord megye) síkságai történelmileg az ország egyik legtermékenyebb, trópusi gyümölcsöket adó régiói, és napjainkban is az intenzív banán- és plantántermesztés (Bananenanbau) központjai. Ezen a területen az 1940-es és 50-es években amerikai cégek létesítettek hatalmas ültetvényeket (mint a SHADA), majd ezek megszűnése után a földek helyi gazdák, illetve agráripari magánvállalkozók kezébe kerültek (mint pl. az Agritrans projekt Jovenel Moïse idején). A termelés a helyi piacok és a közeli Cap-Haïtien ellátása mellett exportra is irányul. A banánültetvények komoly öntözőrendszereket (csatornákat és szivattyúkat) használnak, ugyanakkor rendkívül sebezhetőek az északi partokat gyakran sújtó hurrikánokkal és a növénybetegségekkel (pl. a Sigatoka levélfoltosság) szemben. Földrajz K7 — intenzív trópusi gyümölcstermesztés és agráripari projektek.",
+      "factsAdvanced": [
+        "A Nord megyében, Limonade környékén található kiterjedt agrárzóna.",
+        "Haiti egyik legfontosabb banán- és főzőbanán (plantán) termőterülete.",
+        "A területen korábban amerikai gyarmati típusú ültetvények (SHADA) is működtek.",
+        "A modern ültetvények csatornás és szivattyús öntözési technológiákat alkalmaznak.",
+        "Az itteni agráripari projektek exportra és a belföldi piacra egyaránt fókuszálnak.",
+        "A termelés komoly kihívása a viharkárok és a trópusi növénybetegségek kezelése."
+      ]
+    },
+    {
+      "id": "station-biologique-macaya-life-v2",
+      "descriptionAdvanced": "A Station Biologique de Macaya egy apró, elszigetelt kutatóállomás a Massif de la Hotte szívében, a Macaya Nemzeti Park (Sud megye) hegyvidékén. Ezt az állomást zömmel nemzetközi egyetemek (pl. a floridai egyetemek) és a haiti Audubon Társaság kutatói használják bázisként a világ egyik legösszetettebb köderdei ökoszisztémájának tanulmányozására. A bázis fa- és kőépületei spártai körülményeket biztosítanak az ideérkező biológusoknak, akik gyalog vagy öszvérháton, többnapos túrával érik el a helyszínt. Az itt folyó kutatások kiemelkedő eredményei közé tartozik számos, tudományra új vagy kihaltnak hitt kétéltű (pl. békák) újrafelfedezése. A kutatóállomás jelenléte a kevés elrettentő erő egyike az illegális fakitermelőkkel szemben a nemzeti parkban. Földrajz K8 — biológiai terepkutatás és köderdők.",
+      "factsAdvanced": [
+        "A Massif de la Hotte hegység nehezen megközelíthető, 1500m feletti részén található.",
+        "Tudományos bázis a Macaya Nemzeti Park élővilágának tanulmányozására.",
+        "Kiemelt kutatási fókuszpont az endemikus, veszélyeztetett hegyi kétéltűek (békák) védelme.",
+        "Az infrastruktúra rendkívül alapvető, nincs vezetékes áram vagy útkapcsolat.",
+        "Nemzetközi és haiti környezetvédelmi szervezetek (pl. Audubon Haiti) üzemeltetik.",
+        "A kutatók jelenléte fizikai visszatartó erőt jelent az erdőirtással szemben."
+      ]
+    },
+    {
+      "id": "jardin-zoologique-simple-life-v2",
+      "descriptionAdvanced": "Haitin nem létezik hagyományos, európai vagy amerikai értelemben vett nagy, állami zoológiai kert, leginkább az intézményi háttér és a források hiánya miatt. Ehelyett kisebb, egyszerű magán-állatkertek (Jardin Zoologique Simple) vagy ökológiai farmok bemutatóterei töltik be ezt a szerepet Port-au-Prince külvárosaiban (pl. Kenscoff felé) vagy a nagyobb turisztikai központok mellett. Ezek a létesítmények gyakran inkább menhelyekként működnek, ahol a helyi fauna képviselőit – leguánokat, flamingókat, tengeri teknősöket és a szigeten honos apró emlősöket (hutia) – tartják apró ketrecekben vagy elkerített kifutókban. Bár a tartási körülmények sokszor hagynak kívánnivalót maguk után a szűkös anyagiak miatt, ezek a helyek az egyetlen esélyt jelentik a városi gyerekeknek arra, hogy élőben lássák országuk ritkuló vadvilágát. Sachkunde K5 — az állatvédelem és a magánmenhelyek.",
+      "factsAdvanced": [
+        "Haitin nincsenek nyugati típusú, nagy kiterjedésű állami állatkertek.",
+        "Kisebb magánkezdeményezések, 'mini-állatkertek' és mentőközpontok léteznek.",
+        "Főként a helyi, endemikus fajokra (leguánok, madarak) koncentrálnak.",
+        "Az intézmények gyakran küzdenek súlyos alulfinanszírozottsággal és takarmányhiánnyal.",
+        "Nagy szerepük van a városi fiatalok környezeti és biológiai edukációjában.",
+        "Néhány helyszín a csempészett vagy sebesült vadállatok rehabilitációját is végzi."
+      ]
+    },
+    {
+      "id": "agrarzentrum-saint-michel-life-v2",
+      "descriptionAdvanced": "Saint-Michel-de-l'Attalaye (Artibonite megye) agráriumközpontja az észak-közép haiti hegyvidéki síkság legfontosabb termelő zónája. Bár a terület elsősorban a cukornádról és a kézműves rumról (clairin) híres, ez a termékeny, vulkáni és karsztos talajok által borított vidék valójában egy kiterjedt, diverzifikált 'Agrarzentrum'. A helyi paraszti közösségek (lakou) a cukornád mellett nagy mennyiségben termesztenek feketebabot, kukoricát, édesburgonyát és pamutot. A földművelés szigorúan a két esős évszak (tavasz és ősz) ritmusához igazodik, mivel a kiépített öntözőrendszerek ritkák. Saint-Michel piaca heti rendszerességgel fogadja az északi és központi megyék nagykereskedőit (Madam Sara), akik teherautókkal szállítják tovább a terményeket a fővárosi Gonaïves vagy Port-au-Prince piacaira. Földrajz K6 — vegyes kultúrás földművelés és regionális piacok.",
+      "factsAdvanced": [
+        "Az Artibonite megye hegyközi síkságán (Plateau Central peremén) található.",
+        "A híres cukornád mellett a kukorica, bab és gyökérzöldségek fő termőhelye.",
+        "A földművelés hagyományos, állati és emberi erőre épülő módszerekkel történik.",
+        "Az esőzésektől erősen függő, szárazműveléses technológiákat alkalmaznak.",
+        "A helyi piac a regionális élelmiszerellátó hálózat (Madam Sara) fontos gócpontja.",
+        "A lakosság jelentős része a kombinált növénytermesztésből és állattartásból él."
+      ]
+    },
+    {
+      "id": "parc-enfants-jeremie-life-v2",
+      "descriptionAdvanced": "A Parc pour Enfants (Gyermekpark) Jérémie városában, a Grand'Anse megye székhelyén egyike a ritka városi rekreációs tereknek, amelyeket kifejezetten a fiatal generációk számára alakítottak ki. Ezek a terek Haitin különösen értékesek, mivel az urbanizáció és az infrastrukturális hiányosságok miatt kevés a biztonságos közösségi játszótér. A park általában a városközpontban, a katedrális vagy a tengerparti sétány közelében helyezkedik el, egyszerű fém mászókákkal, hintákkal és árnyékot adó mangó- vagy mandulafákkal. Délutánonként, iskola után a park megtelik iskolai egyenruhát viselő gyerekekkel és utcai árusokkal (fresko - jégkása árusok). A 2016-os Matthew hurrikán és a 2021-es földrengés során a jérémie-i park is súlyos károkat szenvedett (kidőlt fák, elpusztult eszközök), de a helyi közösség mindig prioritásként kezelte az újjáépítését. Sachkunde K5 — városi gyermekkultúra és rekreáció.",
+      "factsAdvanced": [
+        "Jérémie városában (Grand'Anse megye) kialakított dedikált gyermekjátszótér.",
+        "Kritikus szerepet tölt be a túlzsúfolt városi környezet rekreációs életében.",
+        "Általában alapvető fém és fa játékokkal (hinták, csúszdák) van felszerelve.",
+        "Környezetében gyakoriak a helyi édesség- és jégkása (fresko) árusok.",
+        "A 2016-os és 2021-es természeti katasztrófák súlyos károkat okoztak az infrastruktúrában.",
+        "A délutáni és hétvégi közösségi élet egyik legfontosabb és legzajosabb színtere."
+      ]
+    },
+    {
+      "id": "plantation-cacao-grand-anse-life-v2",
+      "descriptionAdvanced": "A Grand'Anse megye (Jérémie környéke) Haiti legfontosabb és legtradicionálisabb kakaótermelő régiója. A megye klímája, amelyet a bőséges csapadék és a dús, árnyékos trópusi erdők jellemeznek, ideális a Theobroma cacao számára. A kakaóültetvények (Plantation Cacao) itt ritkán hatalmas, ipari nagybirtokok; inkább több ezer kisparaszt (paysan) 1-2 hektáros erdei parcelláiból tevődnek össze. A kakaófák nagyobb fák (pl. kenyérfa, gumifa) árnyékában, ökológiailag fenntartható módon nőnek. A szüret után a termelők a babokat a napon, cement teraszokon szárítják és fermentálják. Az itteni kakaót (főként a minőségi Criollo és Trinitario fajtákat) egyre inkább keresik a nemzetközi kézműves 'bean-to-bar' csokoládékészítők. A 2016-os hurrikán sajnos az ültetvények jelentős részét letarolta, amiből a régió még mindig lábadozik. Földrajz K8 — fenntartható agrárium és a kézműves csokoládé-alapanyagok.",
+      "factsAdvanced": [
+        "A Grand'Anse megye az ország legnagyobb és legjobb minőségű kakaótermelője.",
+        "A termesztés kisbirtokokon, vegyes agrár-erdészeti (árnyékos) rendszerben folyik.",
+        "A szüretelt kakaóbabot a gazdák saját maguk szárítják a napon és fermentálják.",
+        "Haiti leginkább a ritka és ízletes Criollo és Trinitario fajtákat exportálja.",
+        "A 2016-os Matthew hurrikán a fák több mint 50%-át elpusztította a régióban.",
+        "Az elmúlt években megjelentek a nemzetközi prémium csokoládégyártók (Fair Trade) felvásárlói."
+      ]
+    },
+    {
+      "id": "ferme-animaux-leogane-life-v2",
+      "descriptionAdvanced": "Léogâne síkságán (Ouest megye), amely főként a cukornádról (és a clairin rumról) ismert, jelentős az állattenyésztő farmok (Ferme Animaux) jelenléte is. A terület, bár sík és termékeny, mocsaras és vízerekkel szabdalt, ami kiválóan alkalmas a szarvasmarha- és sertéstenyésztésre. Ezek a farmok nem a modern, nyugati típusú ipari telepek; az állatok gyakran szabadon legelnek a levágott cukornádtáblák tarlóján, vagy kötélen kipányvázva az út menti árkokban. A kecske- és baromfitartás szintén kiemelkedő, ez a kisgazdaságok mindennapi fehérje- és pénzforrása. Léogâne közelsége Port-au-Prince-hez garantálja a biztos piacot a hús számára. Ugyanakkor az állattartók folyamatos küzdelmet vívnak a járványokkal (mint például az afrikai sertéspestis történelmi kitörései) és a földrengések utáni talajvíz-szennyezéssel. Sachkunde K6 — tradicionális állattartás és a húsellátási lánc.",
+      "factsAdvanced": [
+        "A Léogâne-síkság (Ouest megye) fontos központja a haiti marha- és sertéstartásnak.",
+        "A gazdaságok szorosan integrálódnak a cukornádtermesztés melléktermékeinek hasznosításába.",
+        "Az állattartás kevésbé ipari, az állatokat gyakran szabadon legeltetik a tarlókon.",
+        "A kecske (cabrit) a legelterjedtebb haszonállat, amely a legszárazabb időszakokat is bírja.",
+        "Közvetlen ellátója a hatalmas Port-au-Prince-i hús- és vágóhídi piacnak.",
+        "A múltban az állatállományt súlyosan megtizedelték a nemzeti szintű járványok."
+      ]
+    },
+    {
+      "id": "parc-nature-cayemites-life-v2",
+      "descriptionAdvanced": "A Les Cayemites-szigetek (Petite és Grande Cayemite) természeti parkja (Parc Nature) a Grand'Anse megye északi partjaihoz közel, a Gonâve-öbölben fekszik. Bár hivatalos infrastrukturális védelme minimális, a szigetek és az azokat körülvevő vizek az ország egyik legérintetlenebb tengeri és parti ökoszisztémáját alkotják. A mészkősziklákkal és sűrű, száraz trópusi erdőkkel borított szigeteken nincsenek nagyvárosok vagy autók. A környező korallzátonyok és tengerifű-mezők (herbiers marins) a karibi manátuszok (lamantinok) és a tengeri teknősök utolsó haiti menedékhelyei közé tartoznak. A helyi halászközösségek kis létszáma egyelőre fenntartja a biológiai egyensúlyt, de a dinamittal történő illegális halászat növekvő fenyegetést jelent a zátonyokra. A térség hatalmas, kiaknázatlan ökoturisztikai potenciállal bír. Földrajz K7 — szigeti bioszféra és korallzátonyok.",
+      "factsAdvanced": [
+        "A Grand'Anse partjai közelében, a Gonâve-öbölben fekvő ikerszigetek.",
+        "Biológiailag az egyik leginkább érintetlen parti övezete az országnak.",
+        "A szigeteket szegélyező vizek a tengeri teknősök és karibi manátuszok (lamantinok) élőhelyei.",
+        "Nincsenek aszfaltozott utak vagy ipari létesítmények a területen.",
+        "Súlyos ökológiai fenyegetést jelent az illegális dinamitos (robbanóanyagos) halászat.",
+        "Az ökoturizmus és a búvárkodás számára eddig szinte teljesen felfedezetlen terület."
+      ]
+    },
+    {
+      "id": "marais-trou-caiman-life-v2",
+      "descriptionAdvanced": "A Trou Caïman mocsár (Étang Eau Gaillée) a Cul-de-Sac síkságon, Port-au-Prince és a dominikai határ között fekszik, az Etang Saumâtre-tól északnyugatra. Ez a kiterjedt, édes- és brakkvizes mocsárvidék Haiti legfontosabb vizes élőhelye (wetland) a madárvilág számára. Nevét ('Kajmán Lyuk') a korábban itt bőségesen élő amerikai krokodilokról kapta, amelyek mára szinte teljesen eltűntek a túlzott vadászat miatt. A több ezer hektáros náddal és sással borított terület télen hatalmas csapatokban vonzza az Észak-Amerikából vonuló vízimadarakat (gémeket, kócsagokat, récék fajtáit). A mocsarat körülvevő falvak lakói halászatból, rákászatból és a rizs termesztéséből élnek. Az utóbbi évek ismétlődő aszályai, valamint a mezőgazdasági vízkivétel következtében a mocsár vízszintje riasztóan csökkent, ami veszélyezteti a teljes ökoszisztémát. Földrajz K8 — vizes élőhelyek (wetlands) és a madárvonulás.",
+      "factsAdvanced": [
+        "Az Ouest megyében, a Cul-de-Sac síkság vizenyős mélyedésében található.",
+        "Haiti legfontosabb édesvízi mocsárvidéke, nemzetközi jelentőségű madárélőhely.",
+        "Nevét az egykor itt honos, de mára nagyrészt kipusztított krokodilokról kapta.",
+        "Észak-Amerikából vonuló vízimadarak tízezreinek biztosít telelőhelyet.",
+        "A helyiek halászattal és a partmenti területeken rizstermesztéssel foglalkoznak.",
+        "A mocsár ökológiai stabilitását a klímaváltozás miatti kiszáradás fenyegeti."
+      ]
+    },
+    {
+      "id": "jardin-fruitier-saint-marc-life-v2",
+      "descriptionAdvanced": "A Saint-Marc (Artibonite megye) környéki lankák hagyományosan Haiti egyik leggazdagabb gyümölcstermő (Jardin Fruitier) vidékei. Miközben maga az Artibonite síkság a rizsé, a Saint-Marc fölötti hegyoldalak (pl. Montrouis és a Chaîne des Matheux lejtői) mikroklímája tökéletes a mangó, a citrusfélék (narancs, citrom, grapefruit) és a guáva termesztésére. Tavasszal és nyár elején, a 'Francisque' mangó szezonjában a terület felbolydul; a gazdák szamárháton vagy színes 'tap-tap' teherautókon hordják le a hegyről a gyümölcsöt a saint-marc-i kikötőbe vagy a fővárosba. Ez a Francique mangó az ország egyik legfontosabb legális agrárexport-cikke az USA irányába. A gyümölcsösök (jardins) egyúttal fontos erdőborítottságot és árnyékot is biztosítanak az amúgy erózióra hajlamos hegyoldalaknak, így ökológiai szerepük is létfontosságú. Sachkunde K6 — trópusi gyümölcsök és export.",
+      "factsAdvanced": [
+        "Saint-Marc (Artibonite) városa feletti lankás, hegyvidéki terület.",
+        "A 'Francisque' nevű mangófajta egyik elsődleges termelőzónája Haitin.",
+        "Ez a mangófajta az ország egyik legfontosabb, USA-ba exportált agrárterméke.",
+        "A gyümölcsfák (citrusfélék, mangó) fontos szerepet játszanak a talajerózió megfékezésében.",
+        "A betakarítás főként kézi erővel történik, a szállítást a helyi nők (Madam Sara) intézik.",
+        "A virágzási és termési szezon meghatározza a helyi gazdaság egész éves bevételét."
+      ]
+    },
+    {
+      "id": "parc-enfants-jacmel-life-v2",
+      "descriptionAdvanced": "A Jacmel-i Gyermekpark (Parc pour Enfants) a város híres tengerparti sétányának (Boulevard du Bord de Mer) vagy a Place Toussaint Louverture-nek egy elkülönített, közösségi zónája. Jacmel, Haiti kulturális és művészeti fővárosa, nagy hangsúlyt fektet a közterek esztétikájára, így ez a park is eltér az átlagostól: a mászókákat és hintákat gyakran helyi művészek által készített élénk színű, papírmasé-szerű (papier-mâché) szobrok vagy festett mozaikok díszítik. A park hétvégente a helyi családok találkozóhelye, ahol a tengeri szellő enyhíti a trópusi hőséget. A karnevál idején a terület gyakran a felvonulások és a zenészek előkészületi helyszínévé alakul át. Az ilyen közösségi terek fontosak a fiatalok szociális integrációjában, és lehetőséget adnak arra, hogy kiszakadjanak a gyakran túlzsúfolt otthoni környezetből. Földrajz K5 — városi közösségi élet és művészeti terek.",
+      "factsAdvanced": [
+        "A Sud-Est megye központjában, Jacmel tengerparti vagy belvárosi övezetében fekszik.",
+        "A játékokat és a környezetet a híres jacmeli mozaik- és papírmasé-művészet díszíti.",
+        "Biztonságos rekreációs területet biztosít a helyi fiatal családok számára.",
+        "Különösen hétvégén és a kora esti órákban élénk a forgalma.",
+        "A karnevál idején a tér bekapcsolódik a városi fesztivál forgatagába.",
+        "Környezetében kézműves boltok és jégkrémárusok (fresko) találhatók."
+      ]
+    },
+    {
+      "id": "reserve-marine-cap-haitien-life-v2",
+      "descriptionAdvanced": "A Cap-Haïtien környéki tengeri rezervátum (vagy védett zóna), amely magában foglalja a Baie de l'Acul és a közeli Labadee partvidékének egy részét, Észak-Haiti víz alatti ékszerdoboza. Ez a terület a karibi korallzátonyok egyik utolsó, viszonylag egészséges haiti menedéke. A rezervátum sekély, kristálytiszta vizében agykorallok, szarukorallok és számtalan színes trópusi halfaj él. A Labadee-ba érkező luxushajók (Royal Caribbean) turistái számára ez a vidék biztosítja a búvárkodás és sznorkelezés élményét. Bár nem hivatalosan kinevezett, szigorúan őrzött nemzeti park, a turizmushoz kötődő érdekek megkövetelik a terület viszonylagos védelmét a pusztító halászati módszerekkel (pl. ciános vagy hálós letarolás) szemben. Ugyanakkor a műanyagszennyezés, amely a szárazföldi folyókból ömlik az óceánba, állandó és növekvő veszélyt jelent a zátonyok egészségére. Sachkunde K8 — tengeri ökoszisztémák és turizmus.",
+      "factsAdvanced": [
+        "A Nord megyében, Cap-Haïtien és Labadee partjai mentén elterülő korallzátony-rendszer.",
+        "Haiti egyik leginkább épségben maradt és turisztikailag is hasznosított tengeri élőhelye.",
+        "Otthont ad a karibi agy- és szarukoralloknak, valamint a tengeri teknősöknek.",
+        "A Labadee-i nemzetközi sétahajó-turizmus (Royal Caribbean) fő vonzereje.",
+        "A turisztikai magánérdekek bizonyos fokú védelmet biztosítanak a halászattal szemben.",
+        "A szárazföldi eredetű műanyagszennyezés (Cap-Haïtien felől) komolyan fenyegeti."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cleveland-cities-v2",
+      "descriptionAdvanced": "Cleveland Ohio államban, az Erie-tó déli partján fekszik, és az amerikai ipari történelem egyik meghatározó városa. A 19. század végén és a 20. század elején a vasgyártás és az olajfinomítás központjaként virágzott, itt alapította meg John D. Rockefeller a Standard Oil vállalatot. Ma Cleveland a kultúra és az orvostudomány fellegvára, itt található a világhírű Cleveland Clinic és a Rock and Roll Hall of Fame múzeum, amely a könnyűzene történetét mutatja be. A város büszkélkedhet a Cuyahoga Valley Nemzeti Park közelségével és a Playhouse Square-rel, amely az USA második legnagyobb színházi negyede New York után. Történelem K8 — az ipari forradalom és a nagyvállalatok kialakulása.",
+      "factsAdvanced": [
+        "Itt található a Rock and Roll Hall of Fame üvegpiramis épülete",
+        "A Cleveland Clinic a világ egyik vezető egészségügyi intézménye",
+        "John D. Rockefeller itt alapította a Standard Oil-t 1870-ben",
+        "A Playhouse Square az ország második legnagyobb színházi központja",
+        "A Cuyahoga-folyó kanyarog át a városon, amely az Erie-tóba ömlik",
+        "A Cleveland Museum of Art gyűjteménye világszínvonalú és ingyenes",
+        "Itt épült fel a Terminal Tower, amely egykor a világ egyik legmagasabbja volt"
+      ]
+    },
+    {
+      "id": "tampa-cities-v2",
+      "descriptionAdvanced": "Tampa Florida nyugati partján, a Tampa-öböl partján fekszik, és a régió gazdasági központja. A várost eredetileg katonai erődként alapították az 1820-as években, de igazi fejlődését a vasút megjelenése és a szivargyártás hozta el. Ybor City negyede egykor a 'világ szivarfővárosa' volt, ahol kubai és olasz bevándorlók ezrei dolgoztak. Ma Tampa híres vidámparkjairól, mint a Busch Gardens, és modern belvárosáról. A város fontos kikötő, amely jelentős forgalmat bonyolít a Karib-térséggel. Tampa ad otthont a Florida Aquarium-nak és számos professzionális sportcsapatnak, emellett híres a Gasparilla kalózfesztiválról, amely minden évben több százezer látogatót vonz. Földrajz K7 — szubtrópusi éghajlat és turisztikai övezetek.",
+      "factsAdvanced": [
+        "Ybor City negyede egykor a világ legnagyobb szivargyártó központja volt",
+        "A Busch Gardens vidámpark afrikai témájú szafari-élményt is kínál",
+        "A Gasparilla kalózfesztivál 1904 óta a város legnagyobb eseménye",
+        "A Tampa-öböl Florida legnagyobb nyílt vízi torkolata",
+        "Itt található a Sunshine Skyway Bridge, egy ikonikus ferdekábeles híd",
+        "A MacDill légibázis a térség egyik legfontosabb katonai létesítménye",
+        "A Florida Aquarium több mint 20 000 vízi élőlény otthona"
+      ]
+    },
+    {
+      "id": "honolulu-cities-v2",
+      "descriptionAdvanced": "Honolulu Hawaii állam fővárosa és kapuja, amely Oahu szigetének délkeleti partján fekszik. A város neve hawaii nyelven 'védett öblöt' jelent, utalva kiváló kikötőjére. Honolulu a polinéz kultúra, a keleti hagyományok és a modern amerikai életmód találkozóhelye. Itt található az Iolani-palota, az egyetlen királyi palota az Egyesült Államok területén, amely a hawaii monarchia idejéből származik. A város világhírű strandja, Waikiki, a szörfözés bölcsője és a turizmus központja. Honolulu közelében fekszik Pearl Harbor, ahol a 20. század egyik sorsfordító eseménye történt. A város felett magasodik a Diamond Head vulkáni kúp, amely panorámás kilátást nyújt a metropoliszra. Földrajz K6 — szigeti vulkánok és trópusi turizmus.",
+      "factsAdvanced": [
+        "Az Iolani-palota az egyetlen királyi palota az USA-ban",
+        "Waikiki Beach eredetileg mocsaras terület volt a 20. század elejéig",
+        "A Diamond Head állami emlékmű egy kialudt vulkán krátere",
+        "Pearl Harbor nemzeti emlékhely a város közvetlen szomszédságában van",
+        "Itt található a Bishop Museum, a polinéz kultúra leggazdagabb gyűjteménye",
+        "Honolulu az USA legdélebbi és legnyugatibb nagyvárosa",
+        "A város központjában áll Kamehameha király híres aranyozott szobra"
+      ]
+    },
+    {
+      "id": "anaheim-cities-v2",
+      "descriptionAdvanced": "Anaheim Kalifornia déli részén, Orange megyében található, és világszerte a Disneyland Resort otthonaként ismert. A várost 1857-ben német telepesek alapították, akik eredetileg szőlőműveléssel és bortermeléssel foglalkoztak, amire a város neve is utal (Ana = Santa Ana folyó, Heim = otthon németül). Az 1950-es években, Walt Disney vidámparkjának megnyitásával a mezőgazdasági kisváros az ország egyik legfontosabb turisztikai célpontjává vált. Anaheim emellett jelentős sportközpont is, az Angel Stadium és a Honda Center modern létesítményei tízezreket vonzanak a meccsekre. A város gazdaságát ma a turizmus, a konferenciák és a technológiai szektor határozza meg. Földrajz K7 — mesterséges tájak és a szórakoztatóipar térnyerése.",
+      "factsAdvanced": [
+        "A Disneyland 1955-ben nyitotta meg kapuit",
+        "A várost német bevándorlók alapították 'Annaheim' néven",
+        "Itt található a Nyugati Part legnagyobb konferenciaközpontja",
+        "Az Anaheim Angels (MLB) és az Anaheim Ducks (NHL) bázisa",
+        "Eredetileg bortermelő vidék volt a filoxéra-járvány előtt",
+        "A város lakossága az 1950-es évek óta több mint tízszeresére nőtt",
+        "A Founders' Park őrzi a város legrégebbi, 19. századi épületeit"
+      ]
+    },
+    {
+      "id": "orlando-cities-v2",
+      "descriptionAdvanced": "Orlando Florida szívében fekszik, és a világ egyik leglátogatottabb városa, köszönhetően a hatalmas vidámpark-komplexumoknak. Az 1960-as évekig Orlando csendes mezőgazdasági központ volt, híres citrusültetvényeiről, de a Walt Disney World megnyitása örökre megváltoztatta a sorsát. Ma itt található a Universal Studios és a SeaWorld is, több tízmillió látogatót vonzva évente. Orlando azonban több mint vidámpark: a város a digitális média, a repülőgépgyártás és az élettudományok jelentős központja is. A közeli Kennedy Űrközpont miatt a régió szoros kapcsolatban áll az űrkutatással. A városban több mint 100 tó található, amelyek kellemes kikapcsolódást nyújtanak a pezsgő turisztikai központok mellett. Földrajz K7 — turisztikai régiók és urbanizáció.",
+      "factsAdvanced": [
+        "A Walt Disney World területe kétszer nagyobb, mint Manhattan szigete",
+        "Orlandót a 'Világ Vidámpark Fővárosaként' emlegetik",
+        "A városban és környékén több mint 100 tó található",
+        "Az Orlando International Airport Florida egyik legforgalmasabb repülőtere",
+        "Itt található a világ legnagyobb McDonald's étterme",
+        "A város jelentős kutatóközpont a szimuláció és a VR technológiák terén",
+        "A Lake Eola Park a belváros központja, híres hattyúiról és szökőkútjáról"
+      ]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "descriptionAdvanced": "Pittsburgh Pennsylvania nyugati részén helyezkedik el, ott, ahol az Allegheny és a Monongahela folyók összefolyásából megszületik az Ohio folyó. A várost 'Acélváros' néven ismerték meg világszerte a 20. században, mivel itt összpontosult az amerikai nehézipar és acéltermelés, Andrew Carnegie vezetésével. Az 1970-es évek után Pittsburgh sikeresen átalakult, és ma a technológia, az egészségügy és az oktatás fellegvára. A 'Hidak Városának' is hívják, mivel 446 hídjával világrekorder, megelőzve még Velencét is. Kulturális öröksége is gazdag, itt található a Carnegie Múzeum és az Andy Warhol Múzeum, utóbbi a város leghíresebb szülöttének állít emléket. Földrajz K8 — ipari szerkezetváltás és környezeti rehabilitáció.",
+      "factsAdvanced": [
+        "446 hídjával Pittsburgh tartja a legtöbb híd világrekordját egy városban",
+        "Itt alapította Andrew Carnegie a hatalmas acélbirodalmát",
+        "Az Andy Warhol Museum a legnagyobb egyszemélyes művészeti múzeum az USA-ban",
+        "A Duquesne Incline nevű sikló 1877 óta szállítja az utasokat a hegyre",
+        "Itt található a 'Cathedral of Learning', a világ egyik legmagasabb egyetemi épülete",
+        "A város három folyó összefolyásánál épült (The Point)",
+        "Pittsburgh volt az első város, ahol engedélyezték az önvezető Uber autókat"
+      ]
+    },
+    {
+      "id": "st-louis-cities-v2",
+      "descriptionAdvanced": "St. Louis Missouri állam keleti szélén, a Mississippi folyó partján fekszik, és évszázadokon át a 'Nyugat Kapujaként' funkcionált a telepesek számára. Ezt a történelmi szerepet hirdeti a város jelképe, a monumentális Gateway Arch, egy 192 méter magas acélív, amely az USA legmagasabb mesterséges emlékműve. A várost 1764-ben alapították francia szőrmekereskedők, és gazdag francia öröksége ma is fellelhető a Soulard negyedben. St. Louis híres a zenei életéről, a blues és a ragtime egyik központja, valamint itt található a világhírű Anheuser-Busch sörfőzde is. A Forest Park, amely az 1904-es világkiállítás helyszíne volt, ma az egyik legnagyobb és legszebb városi park az országban. Történelem K6 — a nyugati irányú terjeszkedés és a Mississippi szerepe.",
+      "factsAdvanced": [
+        "A Gateway Arch az USA legmagasabb mesterséges emlékműve (192 méter)",
+        "Itt rendezték meg 1904-ben az első amerikai olimpiát és a világkiállítást",
+        "A St. Louis Zoo a világ egyik legjobb és ingyenesen látogatható állatkertje",
+        "Itt található a Missouri Botanical Garden, az ország egyik legrégebbi kertje",
+        "A város a Budweiser sör és az Anheuser-Busch cég szülőhelye",
+        "A Saint Louis University az első egyetem volt a Mississippi-től nyugatra",
+        "A Soulard negyedben tartják az USA egyik legnagyobb Mardi Gras ünnepségét"
+      ]
+    },
+    {
+      "id": "riverside-cities-v2",
+      "descriptionAdvanced": "Riverside Kalifornia déli részén, a Santa Ana folyó partján fekszik, Los Angelestől keletre. A várost az 1870-es években alapították, és világhírnevét a citrusféléknek, különösen a mag nélküli 'Washington' köldöknarancsnak köszönheti, amely elindította a kaliforniai narancslázat. Ez az örökség ma is látható a California State Citrus Historic Parkban. Riverside építészetének ékköve a Mission Inn Hotel, amely az ország legnagyobb Mission Revival stílusú épülete, és számos elnököt és hírességet látott vendégül. A város fontos oktatási központ, itt található a University of California, Riverside (UCR), valamint híres botanikus kertjeiről és a közeli hegységek túraútvonalairól. Földrajz K7 — mezőgazdasági specializáció és öntözés.",
+      "factsAdvanced": [
+        "Riverside a kaliforniai citrusipar szülőhelye",
+        "Itt található az eredeti, 1873-as ültetésű 'szülő' köldöknarancsfa",
+        "A Mission Inn Hotel több mint egy háztömbnyi területet foglal el",
+        "A Mount Rubidoux keresztje a város egyik legismertebb jelképe",
+        "Itt található a March Air Reserve Base, egy történelmi légibázis",
+        "A város minden évben megrendezi a Festival of Lights ünnepséget",
+        "A Riverside National Cemetery az egyik legnagyobb katonai temető az országban"
+      ]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "descriptionAdvanced": "Santa Ana Kalifornia déli részén, Orange megye székhelye, amely sűrűn lakott és gazdag spanyol örökséggel rendelkezik. A várost a 19. század végén alapították, és nevét a közeli Santa Ana-hegységről kapta. Ma a város a megye kormányzati és kulturális szíve, belvárosa (Downtown Santa Ana) pedig a latin-amerikai közösség vibráló központja. Itt található a Bowers Museum, amely Kalifornia és a csendes-óceáni térség művészetét mutatja be, valamint a Discovery Cube tudományos központ. Santa Ana híres a művészeti negyedéről és a történelmi épületeiről, mint a régi megyeháza. A város éghajlata mediterrán, de gyakran érintik a forró és száraz Santa Ana szelek, amelyek a sivatag felől érkeznek. Földrajz K8 — városi sűrűség és szuburbán fejlődés.",
+      "factsAdvanced": [
+        "Santa Ana Orange megye közigazgatási központja",
+        "A Bowers Museum az egyik legrégebbi és legnagyobb múzeum a régióban",
+        "A városról nevezték el a híres forró, száraz 'Santa Ana szeleket'",
+        "Itt található a Santa Ana Zoo, amely főleg majmokra specializálódott",
+        "A Discovery Cube tudományos múzeum ikonikus tízemeletes kockája távolról is látható",
+        "A lakosság több mint 75%-a latin-amerikai származású",
+        "A város belvárosa (Artists Village) számos galériának ad otthont"
+      ]
+    },
+    {
+      "id": "cincinnati-cities-v2",
+      "descriptionAdvanced": "Cincinnati Ohio délnyugati részén, az Ohio folyó partján fekszik, és dombos tája miatt gyakran hívják az 'Amerikai Párizsnak'. A 19. század elején az ország egyik leggyorsabban fejlődő városa volt, fontos folyami kikötő és a húsipar központja, amiért a 'Porkopolis' gúnynevet is kapta. Cincinnati büszke német örökségére, amely az Over-the-Rhine negyed sörfőzdéiben és építészetében ma is tetten érhető. Itt található az USA első hivatásos baseballcsapata, a Cincinnati Reds. A város kulturális jelképe a Union Terminal szecessziós épülete, amely ma múzeumkomplexumként üzemel, valamint a Cincinnati Zoo, az ország egyik legrégebbi állatkertje. Történelem K7 — a folyami hajózás és a bevándorlás szerepe.",
+      "factsAdvanced": [
+        "Az 1850-es években Cincinnati volt a világ legnagyobb sertéshús-feldolgozója",
+        "Itt alakult meg 1869-ben az első profi baseballcsapat, a Cincinnati Reds",
+        "A Cincinnati Zoo 1875-ben nyílt meg, a második legrégebbi az USA-ban",
+        "Az Over-the-Rhine negyedben található a legtöbb 19. századi olasz stílusú épület",
+        "A Roebling-függőhíd a Brooklyn-híd prototípusa volt 1867-ben",
+        "Itt született William Howard Taft, az USA 27. elnöke",
+        "Híres a különleges fűszerezésű Cincinnati Chili-ről"
+      ]
+    },
+    {
+      "id": "lexington-cities-v2",
+      "descriptionAdvanced": "Lexington Kentucky állam szívében fekszik, és a 'Világ Lófővárosaként' ismerik a környékén található több száz elit ménesbirtok miatt. A Bluegrass régió központjaként híres a mészkőben gazdag talajáról, amely erős csontozatot biztosít a versenylovaknak. Itt található a Keeneland versenypálya és a Kentucky Horse Park, ahol a látogatók közelebbről is megismerhetik a lovassportok világát. Lexington emellett fontos egyetemi város, a University of Kentucky otthona. Története a függetlenségi háború idejére nyúlik vissza, és nevét a massachusettsi lexingtoni csatáról kapta. A város a bourbon whisky gyártásának is egyik fontos központja, több történelmi lepárló található a közelében. Földrajz K6 — mezőgazdasági tájak és állattenyésztés.",
+      "factsAdvanced": [
+        "A világ lótenyésztésének egyik legfontosabb központja",
+        "Itt található a Keeneland, a világ egyik legszebb lóversenypályája",
+        "A Kentucky Horse Parkban több mint 50 különböző lófajta látható",
+        "A Bluegrass régió a nevét az itt honos fűfajtáról kapta",
+        "A várost 1775-ben alapították telepesek",
+        "Itt található Mary Todd Lincoln, az elnök feleségének gyermekkori otthona",
+        "Lexington az USA egyik legműveltebb városa az egyetemi végzettségűek aránya alapján"
+      ]
+    },
+    {
+      "id": "anchorage-cities-v2",
+      "descriptionAdvanced": "Anchorage Alaszka legnagyobb városa, amely az állam lakosságának közel 40%-ának ad otthont. Bár messze északon fekszik, a tengeri áramlatok miatt éghajlata mérsékeltebb, mint az állam belsejének. A várost 1914-ben vasúti építkezés központjaként alapították, és ma Alaszka gazdasági, közlekedési szívévé vált. Anchorage kapu a vadonhoz: a várost körbeöleli a Chugach Nemzeti Erdő, és gyakori vendégek az utcákon a jávorszarvasok és medvék. Itt található az Alaszka Native Heritage Center, amely a helyi őslakos kultúrákat mutatja be. A város fontos stratégiai pont a légiközlekedésben, az itteni repülőtér a világ egyik legfontosabb teherforgalmi csomópontja. Földrajz K6 — szubarktikus éghajlat és alkalmazkodás.",
+      "factsAdvanced": [
+        "Anchorage-ban gyakran látni jávorszarvasokat a városi parkokban",
+        "1964-ben itt történt az USA történetének legnagyobb földrengése",
+        "A Lake Hood a világ legforgalmasabb hidroplán-kikötője",
+        "Télen a nappalok mindössze 5-6 óra hosszúak itt",
+        "Itt indul minden évben a híres Iditarod kutyaszánverseny",
+        "A városban több mint 300 kilométernyi kerékpározható és túrázható ösvény van",
+        "Alaszka lakosságának közel fele az anchorage-i agglomerációban él"
+      ]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "descriptionAdvanced": "Stockton Kalifornia központi völgyében, a San Joaquin folyó partján fekszik, és az állam egyik legfontosabb belvízi kikötője. Bár a várostól messze van az óceán, egy mélyvízi csatorna lehetővé teszi, hogy óceánjáró hajók is kikössenek itt, megkönnyítve a völgy gazdag mezőgazdasági terményeinek exportját. Stocktont 1849-ben alapították az aranyláz idején, és hamarosan a bányászok fontos ellátó központjává vált. Ma a város híres sokszínűségéről és kulturális fesztiváljairól, például a Spárga Fesztiválról. Itt található a University of the Pacific, Kalifornia legrégebbi magánegyeteme. A város közelében terül el a Sacramento-San Joaquin folyódelta, amely labirintusszerű víziútjaival kedvelt kirándulóhely. Földrajz K7 — vízi utak és belső kikötők.",
+      "factsAdvanced": [
+        "Kalifornia legrégebbi belvízi mélyvízi kikötője található itt",
+        "A várost Robert F. Stockton komodorról nevezték el",
+        "Itt található a University of the Pacific, alapítva 1851-ben",
+        "A Haggin Museum jelentős 19. századi európai és amerikai festménygyűjteménnyel bír",
+        "Stockton volt az első kaliforniai város, amelynek nem spanyol vagy indián neve volt",
+        "A környék a világ egyik vezető spárgatermelő vidéke",
+        "A Stockton Arena és a Banner Island Ballpark a város modern sportközpontjai"
+      ]
+    },
+    {
+      "id": "toledo-cities-v2",
+      "descriptionAdvanced": "Toledo Ohio állam északnyugati részén, az Erie-tó nyugati csücskénél fekszik, és a Maumee folyó torkolatánál épült. A várost 'Üvegváros' néven emlegetik, mivel a 19. század végén a világ üveggyártásának központjává vált, és olyan cégek indultak innen, mint az Owens-Illinois. Ez az ipari örökség ma is látható a Toledo Museum of Art világhírű Üvegpavilonjában. Toledo fontos autóipari központ is, itt készülnek a Jeep legendás terepjárói 1941 óta. A város híres az állatkertjéről, amely az ország egyik legszebbje, és kulturális életéről, amit a felújított belváros galériái és éttermei színesítenek. A környék mocsaras vidéke a 'Great Black Swamp' néven volt ismert a lecsapolások előtt. Földrajz K8 — ipari szakosodás és tóparti gazdaság.",
+      "factsAdvanced": [
+        "A Jeep járműveket 1941 óta gyártják Toledo-ban",
+        "Az Üvegváros nevet a fejlett üvegipara miatt kapta",
+        "Toledo Museum of Art üveggyűjteménye a világ egyik legjelentősebbje",
+        "A Toledo Zoo volt az első az USA-ban, ahol víziló-születést dokumentáltak",
+        "Itt található a National Museum of the Great Lakes",
+        "A város egykor a 'Toledo-i háború' nevű határvita tárgya volt Ohio és Michigan között",
+        "Híres a Tony Packo's Cafe nevű étterméről, amelyet a M*A*S*H sorozat tett népszerűvé"
+      ]
+    },
+    {
+      "id": "st-paul-cities-v2",
+      "descriptionAdvanced": "St. Paul Minnesota állam fővárosa, amely a Mississippi folyó partján, közvetlenül Minneapolis mellett fekszik. A két város együtt alkotja az 'Ikervárosokat', de St. Paul megőrizte csendesebb, európaiasabb jellegét viktoriánus negyedeivel és macskaköves utcáival. A város a folyami gőzhajózás és a vasút fontos központjaként nőtt nagyra a 19. században. Itt található a monumentális Saint Paul-székesegyház és a gyönyörű, reneszánsz stílusú állami Capitolium. St. Paul híres téli fesztiváljáról, a Winter Carnival-ról, amelyet 1886 óta rendeznek meg. Olyan híres írók otthona volt, mint F. Scott Fitzgerald. A város alatt kiterjedt barlangrendszer húzódik, amit egykor sörfőzésre és rejtőzködésre is használtak. Történelem K7 — a folyami kereskedelem és az állami adminisztráció.",
+      "factsAdvanced": [
+        "Minnesota állam fővárosa 1849 óta",
+        "A Saint Paul-székesegyház az USA egyik legnagyobb temploma",
+        "A Summit Avenue-n található az ország leghosszabb összefüggő viktoriánus utcaképe",
+        "Itt született F. Scott Fitzgerald, 'A nagy Gatsby' írója",
+        "A St. Paul Winter Carnival a legrégebbi téli fesztivál az USA-ban",
+        "Itt található a Science Museum of Minnesota a Mississippi partján",
+        "A város eredeti neve 'Pig's Eye' volt egy korai telepes után"
+      ]
+    },
+    {
+      "id": "newark-cities-v2",
+      "descriptionAdvanced": "Newark New Jersey legnagyobb városa, amely a Passaic folyó partján fekszik, közvetlenül New York City szomszédságában. Az 1666-ban alapított város az USA egyik legrégebbi települése, amely a 19. században jelentős ipari központtá vált. Ma Newark a globális logisztika egyik legfontosabb pontja: a Newark Liberty Nemzetközi Repülőtér és a közeli kikötő a világ minden tájáról fogad árukat és utasokat. A város kulturális élete is virágzik, itt található a New Jersey Performing Arts Center (NJPAC) és a Newark Museum, amely jelentős tibeti művészeti gyűjteménnyel bír. A tavaszi cseresznyevirágzás idején a Branch Brook Park több ezer virágzó fával vonzza a látogatókat, túlszárnyalva még Washington D.C.-t is. Földrajz K8 — agglomerációk és közlekedési folyosók.",
+      "factsAdvanced": [
+        "A Branch Brook Parkban több cseresznyefa van, mint Washington D.C.-ben",
+        "A Newark Liberty az ország egyik legrégebbi és legforgalmasabb repülőtere",
+        "Newark a globális biztosítási ipar egyik fontos központja (Prudential)",
+        "A New Jersey Performing Arts Center az ország egyik legnagyobb ilyen intézménye",
+        "Itt található a Cathedral Basilica of the Sacred Heart impozáns épülete",
+        "A várost puritán telepesek alapították 1666-ban",
+        "A Newark Museum rendelkezik az USA egyik legfontosabb tibeti gyűjteményével"
+      ]
+    },
+    {
+      "id": "henderson-cities-v2",
+      "descriptionAdvanced": "Henderson Nevada állam második legnagyobb városa, amely a Las Vegas-i völgy délkeleti részén fekszik. A várost a második világháború alatt alapították a Basic Magnesium Plant köré, amely fontos nyersanyagforrás volt a hadiipar számára. Mára Henderson az ország egyik leggyorsabban fejlődő és legélhetőbb városává vált, híres biztonságáról és kiterjedt parkrendszeréről. A város közvetlen közelében található a Mead-tó és a Hoover-gát, amelyek bőséges kikapcsolódási lehetőséget nyújtanak. Henderson modern lakónegyedei és golfpályái mellett megőrizte ipari gyökereit is a vízművek negyedében. A város fontos technológiai és oktatási központ, több egyetem kihelyezett tagozata működik itt. Földrajz K7 — sivatagi városfejlődés és erőforrás-gazdálkodás.",
+      "factsAdvanced": [
+        "A várost 1941-ben alapították a magnéziumgyártás központjaként",
+        "Nevada második legnagyobb városa Las Vegas után",
+        "Gyakran szerepel az USA legbiztonságosabb városainak listáján",
+        "Itt található a Sloan Canyon Nemzeti Konzervációs Terület ősi sziklavésetekkel",
+        "A városban több mint 100 kilométernyi túraútvonal található",
+        "Közvetlen közelében van a Henderson Bird Viewing Preserve",
+        "Henderson a Las Vegas Raiders (NFL) edzőközpontjának otthona"
+      ]
+    },
+    {
+      "id": "plano-cities-v2",
+      "descriptionAdvanced": "Plano Texas északi részén, a dallas-i agglomerációban fekszik, és az Egyesült Államok egyik leggazdagabb és legfejlettebb városa. A neve spanyolul 'síkságot' jelent, utalva a környék lapos földrajzi adottságaira. Plano az 1980-as évektől kezdve vált a nagyvállalati székhelyek paradicsomává, itt található többek között a Toyota North America, a JCPenney és a Frito-Lay központja. A város híres kiváló iskolarendszeréről és magas életszínvonaláról. Történelmi örökségét a Heritage Farmstead Museum őrzi, amely egy 19. századi texasi farm életét mutatja be. Plano minden évben megrendezi a látványos Hőlégballon Fesztivált, amely az állam egyik legnagyobb ilyen eseménye. Földrajz K8 — szuburbán gazdasági központok és vállalati központok.",
+      "factsAdvanced": [
+        "A neve a spanyol 'lapos' szóból ered",
+        "Számos Fortune 500 vállalat globális központjának ad otthont",
+        "A Heritage Farmstead Museum egy eredeti 1891-es farmház",
+        "Plano minden szeptemberben nagy hőlégballon fesztivált rendez",
+        "A városban található az Oak Point Park, amely nagyobb, mint a New York-i Central Park",
+        "Gyakran választják az USA egyik legjobb lakóhelyének",
+        "Az Arbor Hills Természetvédelmi Terület 200 hektáros oázis a városban"
+      ]
+    },
+    {
+      "id": "irvine-cities-v2",
+      "descriptionAdvanced": "Irvine Kalifornia déli részén, Orange megyében található, és az egyik legfontosabb példája a tudatosan tervezett modern városoknak az Egyesült Államokban. A várost az 1960-as években kezdték el fejleszteni az Irvine Company korábbi birtokain, a University of California, Irvine (UCI) köré csoportosítva. Irvine mára a technológiai és az orvosi eszközgyártás globális központjává vált, miközben az ország egyik legbiztonságosabb nagyvárosaként ismerik. A város büszke fenntartható fejlődésére és kiterjedt zöldfelületeire, mint az Orange County Great Park. Irvine-t úgy tervezték, hogy a lakónegyedek, az üzleti parkok és az oktatási intézmények harmonikus egységet alkossanak, elkerülve a hagyományos nagyvárosi káoszt. Földrajz K8 — tervezett városok és technológiai parkok.",
+      "factsAdvanced": [
+        "Az Irvine Company 1960-as évekbeli tervei alapján épült fel",
+        "Évek óta az USA legbiztonságosabb nagyvárosai között szerepel",
+        "Itt található a University of California, Irvine (UCI) központi kampusz",
+        "Az Orange County Great Park egy korábbi tengerészgyalogos bázis helyén épült",
+        "Több mint 100 technológiai és orvosi világcég székhelye",
+        "A város területének több mint egyharmada örökre megőrzött zöldterület",
+        "Irvine híres a kerékpárút-hálózatáról, amely az egész várost átszövi"
+      ]
+    },
+    {
+      "id": "durham-cities-v2",
+      "descriptionAdvanced": "Durham Észak-Karolina államban található, és a 'Kutatási Háromszög' egyik meghatározó városa. Történelmileg a dohányipar központja volt, itt épült fel az American Tobacco Company birodalma, aminek emlékét a felújított gyárépületek őrzik. Ma Durham a tudomány és az orvoslás fellegvára, itt található a világhírű Duke University és annak neves kórháza. A várost gyakran hívják az 'Orvostudomány Városának' a kutatóintézetek és gyógyszergyárak magas koncentrációja miatt. Durham kulturális élete is pezsgő, a Durham Performing Arts Center az ország egyik legforgalmasabb színháza. A város híres még a Duke Chapel gótikus tornyáról és a Sarah P. Duke kertekről, amelyek a déli államok legszebbjei közé tartoznak. Földrajz K8 — a gazdasági szerkezetváltás és az innovációs régiók.",
+      "factsAdvanced": [
+        "A Duke University az USA egyik legnevesebb magánegyeteme",
+        "Durham egykor a világ dohánygyártásának központja volt (Lucky Strike)",
+        "Itt található a Sarah P. Duke Gardens, egy 55 hektáros botanikus kert",
+        "A város a 'Research Triangle Park' (RTP) északi szélén fekszik",
+        "A Duke Chapel tornya 64 méter magas és gótikus stílusú",
+        "A Durham Performing Arts Center az egyik legnépszerűbb színház az országban",
+        "Itt található a Museum of Life and Science, amely interaktív kiállításairól híres"
+      ]
+    }
+  ]
+}

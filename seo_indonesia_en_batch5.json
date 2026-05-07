@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bukit-lawang-orangutan-life-v2",
+      "descriptionAdvanced": "Bukit Lawang, located on the edge of the Gunung Leuser National Park in North Sumatra, is one of the best places in the world to observe semi-wild Sumatran Orangutans in their natural habitat. This riverside village serves as a major gateway to the tropical rainforests of the Bukit Barisan mountain range, which are among the most biodiverse on Earth. Bukit Lawang was originally an orangutan rehabilitation center, and today, many of its primate residents are descendants of rescued individuals who have successfully integrated back into the wild. Trekking through the dense jungle offers a chance to see not only orangutans but also Thomas's leaf monkeys, gibbons, and rare birds. The area is a critical center for eco-tourism and wildlife conservation in Sumatra. Geography K7 — Primate Conservation and Tropical Rainforests.",
+      "factsAdvanced": [
+        "One of only two places in the world to see the critically endangered Sumatran Orangutan.",
+        "Located within the Tropical Rainforest Heritage of Sumatra, a UNESCO World Heritage site.",
+        "The Bahorok River, which flows through the village, is popular for river tubing.",
+        "Sumatran Orangutans are more arboreal and social than their Bornean cousins.",
+        "The area was devastated by a flash flood in 2003 and has since been rebuilt.",
+        "Home to the rare Thomas's Leaf Monkey, which is endemic to northern Sumatra.",
+        "Provides critical habitat for the Sumatran Tiger and Rhinoceros deeper in the park.",
+        "A major global hub for community-based eco-tourism and jungle trekking."
+      ]
+    },
+    {
+      "id": "alas-kedaton-monkey-forest-life-v2",
+      "descriptionAdvanced": "Alas Kedaton is a serene and ancient forest sanctuary in Tabanan, Bali, known for its large population of long-tailed macaques and giant flying foxes. At the heart of the 12-hectare forest stands the 14th-century Pura Dalem Kahyangan Kedaton, a sacred Hindu temple that is uniquely oriented toward the west. The forest is characterized by massive, centuries-old nutmeg trees that provide a dense canopy for the resident monkeys and the hundreds of fruit bats that hang from their branches. Unlike the busier Ubud Monkey Forest, Alas Kedaton offers a more peaceful atmosphere, where visitors can witness the harmonious relationship between Balinese spirituality, traditional architecture, and the natural world. It is a vital site for the preservation of Bali's indigenous flora and fauna. Geography K7 — Sacred Groves and Animal Sanctuaries.",
+      "factsAdvanced": [
+        "Home to approximately 300 long-tailed macaques and hundreds of flying foxes.",
+        "The forest is dominated by rare, ancient Nutmeg trees (Dipterocarpus hasseltii).",
+        "The Pura Dalem Kedaton temple was built by the royal family of Tabanan.",
+        "One of the few Balinese temples that faces west instead of north or east.",
+        "The flying foxes (Pteropus) have a wingspan that can reach over 1 meter.",
+        "The monkeys are believed to be the guardians of the sacred temple grounds.",
+        "The forest is surrounded by fertile green rice paddies in rural Tabanan.",
+        "A major site for traditional Balinese 'Piodalan' temple anniversary ceremonies."
+      ]
+    },
+    {
+      "id": "bandung-tea-plantations-agriculture-v2",
+      "descriptionAdvanced": "The tea plantations of Bandung, particularly in the Ciwidey and Lembang highlands, are a legacy of Indonesia's colonial history and a cornerstone of West Java's economy. Situated at altitudes above 1,200 meters, these rolling green hills provide the perfect cool climate and volcanic soil for growing high-quality black and green tea. The most famous estate, Malabar, was developed in the late 19th century by K.A.R. Bosscha, who became known as the 'King of Tea.' Today, the plantations create a stunning cultural landscape that attracts thousands of tourists for 'tea walks' and panoramic views. These estates are not only beautiful but also vital for soil conservation on steep mountain slopes and provide livelihoods for thousands of local pickers. Geography K7 — Highland Agriculture and Colonial Plantation Legacies.",
+      "factsAdvanced": [
+        "Bandung's highlands produce some of the finest quality tea in Southeast Asia.",
+        "The Malabar Tea Estate was founded in 1896 by the Dutch philanthropist K.A.R. Bosscha.",
+        "Located at altitudes ranging from 1,200 to 2,000 meters above sea level.",
+        "The cool climate (15-22°C) is ideal for slow-growing, high-flavor tea leaves.",
+        "The tea plants help prevent erosion on the steep volcanic slopes of West Java.",
+        "K.A.R. Bosscha's grave and his original house are preserved as a museum in Malabar.",
+        "A major global source for Indonesian black tea, exported primarily to Europe.",
+        "The Situ Patenggang lake is a stunning natural landmark surrounded by these tea hills."
+      ]
+    },
+    {
+      "id": "lombok-pearl-farms-agriculture-v2",
+      "descriptionAdvanced": "Lombok is world-renowned as a premier producer of high-quality South Sea Pearls, particularly the rare 'Golden Pearl' and 'Silver Pearl.' The island's pristine, nutrient-rich coastal waters and sheltered bays provide the ideal environment for the Pinctada maxima oyster, the world's largest pearl-producing oyster. Pearl farming is a delicate and long-term agricultural process, requiring up to two to three years for a single pearl to develop. The industry is a major economic driver for the island, with many farms located around the Sekotong peninsula and the Gili Islands. Lombok pearls are prized by international jewelers for their exceptional luster, size, and thick nacre, making them some of the most sought-after organic gemstones in the world. Geography K11 — Marine Aquaculture and Luxury Commodities.",
+      "factsAdvanced": [
+        "Lombok is the global leader in the production of high-quality South Sea Pearls.",
+        "Utilizes the Pinctada maxima oyster, which can grow up to 30 cm in diameter.",
+        "A single pearl takes approximately 2 to 3 years of careful cultivation to grow.",
+        "Lombok pearls are famous for their unique golden, silver, and champagne colors.",
+        "The industry relies on maintaining extremely clean, unpolluted ocean water.",
+        "The Sekotong region is the heart of pearl cultivation on the island.",
+        "Pearls are the most valuable export commodity for West Nusa Tenggara province.",
+        "Lombok hosts an annual International Pearl Auction attracting global buyers."
+      ]
+    },
+    {
+      "id": "waterbom-bali-life-v2",
+      "descriptionAdvanced": "Waterbom Bali, located in the heart of Kuta, is consistently ranked as the best water park in Asia and one of the top three in the world. What sets it apart is its unique 'green' concept; more than 50% of the park is maintained as lush tropical gardens, providing a natural cooling effect in the Balinese heat. The park features a wide array of world-class slides, ranging from gentle river rides to the heart-pumping 'Climax' vertical drop. Waterbom is a leader in sustainable tourism, utilizing advanced salt-chlorination water treatment that is gentle on the skin and the environment. It represents a successful model of how large-scale modern recreation can integrate with tropical nature and strict environmental standards. Geography K8 — Tourism Infrastructure and Environmental Sustainability.",
+      "factsAdvanced": [
+        "Consistently ranked #1 Water Park in Asia by TripAdvisor Travellers' Choice.",
+        "Covers 3.8 hectares of land, with over 50% dedicated to tropical gardens.",
+        "Features the 'Climax,' the steepest vertical-drop water slide in Asia.",
+        "Uses a sustainable water treatment system that is free of harsh chemicals.",
+        "Winner of numerous awards for its environmental management and CSR programs.",
+        "The park's design was inspired by traditional Balinese landscape principles.",
+        "A major contributor to Bali's status as a top global family destination.",
+        "Located in the center of Kuta, within walking distance of the beach and major malls."
+      ]
+    },
+    {
+      "id": "munduk-clove-plantations-agriculture-v2",
+      "descriptionAdvanced": "The highlands of Munduk, in North Bali, are a center for the cultivation of cloves, the aromatic flower buds that once drove the global spice trade. Situated on the misty ridges of a volcanic caldera, the region's fertile soil and high rainfall create perfect conditions for the Syzygium aromaticum tree. During the harvest season, the entire village is filled with the sweet, spicy scent of cloves drying on mats along the roadside. Munduk is also a major producer of Arabica coffee, cocoa, and vanilla, creating a rich 'spice garden' landscape. The area has become a popular destination for eco-tourism, where visitors can trek through the plantations and visit spectacular waterfalls, experiencing the traditional agricultural life of Bali's mountains. Geography K7 — Highland Spice Cultivation and Vertical Zonation.",
+      "factsAdvanced": [
+        "Munduk is the main center for clove production on the island of Bali.",
+        "Cloves are hand-picked from trees that can reach up to 12 meters in height.",
+        "Indonesia remains the world's largest producer and consumer of cloves.",
+        "The harvest season typically occurs during the dry months of July and August.",
+        "Munduk coffee is prized for its high-altitude Arabica quality.",
+        "The region's economy is highly traditional and centered on spice exports.",
+        "Munduk is known as the 'misty village' due to its frequent cloud cover.",
+        "The area features three major waterfalls: Melanting, Red Coral, and Golden Valley."
+      ]
+    },
+    {
+      "id": "lembang-floating-market-life-v2",
+      "descriptionAdvanced": "The Floating Market in Lembang, West Java, is a popular modern recreation park that recreates the atmosphere of Indonesia's traditional river-based commerce. Set on a large, scenic lake surrounded by the cool highlands of Bandung, the park features numerous vendors selling local Sundanese snacks and handicrafts from small wooden boats. This family-oriented destination combines cultural elements with modern attractions like a miniature railway, a rainbow garden, and a rabbit park. It has become a symbol of Lembang's successful transition into a major tourism hub for residents of Jakarta and Bandung. The market offers a picturesque and accessible way for visitors to experience a stylized version of the floating market traditions found in Kalimantan. Geography K8 — Recreational Geography and Themed Landscapes.",
+      "factsAdvanced": [
+        "Located at an altitude of 1,300 meters, offering a cool mountain climate.",
+        "Modeled after the traditional floating markets of Banjarmasin and Palembang.",
+        "A major culinary destination for authentic Sundanese street food.",
+        "The park covers several hectares of land around a central lake.",
+        "Features a 'Rainbow Garden' with thousands of colorful tropical flowers.",
+        "One of the most visited tourist attractions in the Bandung highland region.",
+        "Visitors must use special 'coins' purchased at the entrance for transactions.",
+        "Easily accessible from the city of Bandung via the Lembang mountain road."
+      ]
+    },
+    {
+      "id": "bali-butterfly-park-life-v2",
+      "descriptionAdvanced": "The Bali Butterfly Park (Taman Kupu-Kupu Bali), located in Tabanan, is the largest of its kind in Southeast Asia and a vital center for the conservation of Indonesia's spectacular lepidoptera. The park features hundreds of colorful butterflies from across the archipelago, including the rare Birdwing Butterfly and the massive Atlas Moth, which has one of the largest wingspans in the world. Visitors can walk through a lush tropical garden filled with flowering plants that serve as hosts for the butterflies, and visit a nursery to see the fascinating life cycle from caterpillar to chrysalis. The park serves as an important educational site, highlighting the role of butterflies as pollinators and indicators of environmental health in Bali's ecosystems. Geography K7 — Insect Biodiversity and Tropical Ecology.",
+      "factsAdvanced": [
+        "The largest butterfly park in Southeast Asia, covering 3,000 square meters.",
+        "Home to the Atlas Moth (Attacus atlas), one of the world's largest insects.",
+        "Features the spectacular 'Ornithoptera priamus' (Birdwing) butterfly.",
+        "A major center for the breeding and research of endangered Indonesian butterflies.",
+        "Located in the 'rice granary' regency of Tabanan in central Bali.",
+        "Displays hundreds of preserved specimens of rare beetles and arachnids.",
+        "The park's garden is specifically planted with 'host plants' for each species.",
+        "A popular educational destination for schools and nature photographers."
+      ]
+    },
+    {
+      "id": "west-bali-national-park-wildlife-v2",
+      "descriptionAdvanced": "West Bali National Park (Taman Nasional Bali Barat) is the last wild refuge for many of the island's most endangered species, most notably the Bali Starling (Jalak Bali). This beautiful white bird with blue eye patches was once on the brink of extinction, but successful captive breeding and release programs in the park have helped the population recover. The park covers a diverse landscape of dry savannah, mangroves, and pristine coral reefs, including the world-famous diving site of Menjangan Island. Unlike the lush, volcanic south of Bali, this northern region is much drier and more rugged. It represents a critical conservation zone where the island's unique terrestrial and marine ecosystems are protected from the pressures of development. Geography K7 — Conservation of Endemic Species and Marine Reserves.",
+      "factsAdvanced": [
+        "The only national park on the island of Bali, established in 1941.",
+        "Home to the critically endangered Bali Starling, the island's only endemic bird.",
+        "Includes Menjangan Island, renowned for its spectacular 30-meter vertical coral walls.",
+        "Covers 190 square kilometers of terrestrial and marine habitats.",
+        "The park features a unique 'monsoon forest' that loses leaves in the dry season.",
+        "Home to wild cattle (Banteng), macaques, and various species of eagles.",
+        "The park's coastline is a vital habitat for mangrove forests and seagrass.",
+        "Menjangan Island is named after the wild deer that can be seen swimming to it."
+      ]
+    },
+    {
+      "id": "trans-studio-bandung-life-v2",
+      "descriptionAdvanced": "Trans Studio Bandung is one of the largest indoor theme parks in the world, representing the pinnacle of modern urban entertainment in Indonesia. Located within a massive integrated complex that includes a luxury mall and hotels, the park offers over 20 world-class rides and attractions, including high-speed roller coasters and immersive 4D experiences. Because it is entirely indoors and climate-controlled, it provides an all-weather destination in the often rainy city of Bandung. The park is a symbol of Indonesia's growing middle-class consumer culture and its investment in high-tech recreational infrastructure. It has become a major regional draw, attracting millions of visitors from across the island of Java. Geography K8 — Urban Recreation and Integrated Developments.",
+      "factsAdvanced": [
+        "One of the largest indoor theme parks in the world, covering 4.2 hectares.",
+        "Divided into three distinct themed zones: Studio Central, Lost City, and Magic Corner.",
+        "Features the 'Yamaha Racing Coaster,' one of the fastest in Southeast Asia.",
+        "Integrated with the Trans Studio Mall and the luxury Trans Luxury Hotel.",
+        "A major economic driver for Bandung's hospitality and tourism sectors.",
+        "The park is entirely climate-controlled, making it an all-weather destination.",
+        "Hosts daily Broadway-style theatrical shows and parades.",
+        "Owned by Trans Corp, one of Indonesia's largest media and retail conglomerates."
+      ]
+    },
+    {
+      "id": "bromo-tengger-semeru-national-park-nature-v2",
+      "descriptionAdvanced": "Bromo-Tengger-Semeru National Park in East Java is home to one of the most otherworldly and spectacular landscapes on Earth. The centerpiece of the park is the massive Tengger Caldera, a 10-kilometer wide 'Sea of Sand' from which several volcanic peaks emerge, including the smoking Mount Bromo. To the south, the majestic Mount Semeru—Java's highest peak—periodically erupts with plumes of ash. The region is also the ancestral home of the Tenggerese people, a Hindu community that has preserved its ancient traditions in the shadow of the volcanoes. The park's dramatic sunrises from the Penanjakan viewpoint attract thousands of visitors globally, making it a supreme symbol of Indonesia's 'Ring of Fire' geography. Geography K7 — Volcanic Calderas and the Ring of Fire.",
+      "factsAdvanced": [
+        "The Tengger Caldera is a massive 'Sea of Sand' (Lautan Pasir) at 2,100 meters altitude.",
+        "Mount Semeru is the highest peak in Java at 3,676 meters and is highly active.",
+        "Mount Bromo (2,329m) is famous for the 'Yadnya Kasada' ritual of the Tenggerese.",
+        "The park covers 502 square kilometers of rugged volcanic terrain.",
+        "Temperature at the rim can drop to 0-5°C during the dry season (winter).",
+        "The 'Sea of Sand' is the only desert-like area in the Indonesian archipelago.",
+        "Home to unique alpine flora, including the Javanese Edelweiss.",
+        "Designated as a national park in 1982 to protect the unique caldera system."
+      ]
+    },
+    {
+      "id": "ujung-kulon-national-park-nature-v2",
+      "descriptionAdvanced": "Ujung Kulon National Park, located on the westernmost tip of Java, is a UNESCO World Heritage site and the last wild stronghold of the Javan Rhinoceros, one of the rarest large mammals on Earth. The park is a pristine wilderness of lowland tropical rainforest, mangroves, and beautiful coastal beaches, having remained largely untouched since the cataclysmic eruption of nearby Krakatoa in 1883. Its isolation has allowed for the preservation of an incredible array of wildlife, including the Javan leopard, silvery gibbon, and wild banteng cattle. Ujung Kulon is a critical global priority for conservation, representing a 'time capsule' of Java's original biodiversity before the island became the most populated in the world. Geography K10 — Biodiversity Hotspots and Species Extinction.",
+      "factsAdvanced": [
+        "The last remaining habitat in the world for the Javan Rhinoceros (Rhinoceros sondaicus).",
+        "Approximately only 70-75 Javan Rhinos are left in the wild, all within this park.",
+        "Became Indonesia's first national park to be named a UNESCO World Heritage site in 1991.",
+        "The park's geography was dramatically reshaped by the 1883 Krakatoa eruption.",
+        "Includes the volcanic island of Anak Krakatau (Child of Krakatoa) in its marine area.",
+        "Home to the critically endangered Javan Leopard and various endemic primates.",
+        "Consists of 1,200 square kilometers of terrestrial and marine area.",
+        "Peucang Island is a popular eco-tourism base known for its white sand and deer."
+      ]
+    },
+    {
+      "id": "kerinci-seblat-national-park-nature-v2",
+      "descriptionAdvanced": "Kerinci Seblat is the largest national park on the island of Sumatra and a vital component of the UNESCO World Heritage 'Tropical Rainforest Heritage of Sumatra.' Spanning four provinces, the park is dominated by the Bukit Barisan mountain range and features Mount Kerinci, the highest volcano in Southeast Asia. It is a critical landscape for the survival of the Sumatran tiger, hosting the largest remaining population of this iconic predator. The park's diverse ecosystems range from lowland rainforests to sub-alpine meadows, providing habitat for rare species like the Sumatran rhinoceros, the clouded leopard, and the world's largest flowers, the Rafflesia and Titan Arum. Geography K10 — Mountain Ecosystems and Megafauna Conservation.",
+      "factsAdvanced": [
+        "The largest national park in Sumatra, covering over 13,000 square kilometers.",
+        "Home to Mount Kerinci (3,805m), the highest volcano in Indonesia and Southeast Asia.",
+        "A key stronghold for the critically endangered Sumatran Tiger.",
+        "Lake Gunung Tujuh is the highest volcanic lake in Southeast Asia (1,950m).",
+        "Home to the world's largest flower (Rafflesia arnoldii) and tallest flower (Titan Arum).",
+        "Part of a UNESCO World Heritage site since 2004.",
+        "Spans across the provinces of Jambi, West Sumatra, Bengkulu, and South Sumatra.",
+        "A major global site for research on tropical mountain biodiversity."
+      ]
+    },
+    {
+      "id": "lorentz-national-park-nature-v2",
+      "descriptionAdvanced": "Lorentz National Park in Papua is the largest national park in Southeast Asia and the only protected area in the world to feature a continuous, intact transect from snow-capped equatorial glaciers to tropical marine environments. This UNESCO World Heritage site is a global masterpiece of biodiversity, encompassing over 2.3 million hectares. It is home to Puncak Jaya (Carstensz Pyramid), the highest peak between the Himalayas and the Andes, which still holds small glaciers despite being near the Equator. The park's immense size and rugged terrain protect a vast array of endemic species, including tree kangaroos and birds of paradise, as well as the ancestral lands of indigenous Papuan tribes like the Asmat and Dani. Geography K10 — Altitudinal Zonation and Glacial Retreat.",
+      "factsAdvanced": [
+        "The largest national park in Southeast Asia, covering 2.35 million hectares.",
+        "The only place in the world where glaciers can be found in a tropical environment.",
+        "Home to Puncak Jaya (4,884m), the highest peak in Indonesia and Oceania.",
+        "Features an incredible 5,000-meter range of altitudinal biodiversity zones.",
+        "Includes the ancestral homelands of the Asmat, Amungme, and Dani peoples.",
+        "Designated as a UNESCO World Heritage site in 1999.",
+        "Contains the highest level of mammal and bird endemism in the Pacific region.",
+        "The park's equatorial glaciers are rapidly shrinking due to global warming."
+      ]
+    },
+    {
+      "id": "mount-rinjani-nature-v2",
+      "descriptionAdvanced": "Mount Rinjani, located on the island of Lombok, is an active volcano and the second-highest peak in Indonesia. It is world-famous for its massive 6-by-8.5 kilometer caldera, which contains the stunning crescent-shaped Segara Anak (Child of the Sea) lake. From within the turquoise waters of the lake, a smaller, active cone named Gunung Baru Jari has emerged. Rinjani is a sacred site for both the local Sasak Muslims and the Balinese Hindus, who perform annual pilgrimages to the summit and lake. The trek to Rinjani's 3,726-meter summit is considered one of the most challenging and rewarding in Southeast Asia, offering panoramic views that can reach as far as Mount Agung in Bali. Geography K7 — Stratovolcanoes and Caldera Lakes.",
+      "factsAdvanced": [
+        "Stands at 3,726 meters, the second highest volcano in Indonesia.",
+        "The caldera lake, Segara Anak, is approximately 200 meters deep.",
+        "Gunung Baru Jari is an active 'baby volcano' that first emerged in the 1990s.",
+        "Recognized as a UNESCO Global Geopark in 2018 for its unique geology.",
+        "The volcano's 1257 eruption was one of the largest in human history, cooling the Earth.",
+        "A sacred site for Hindu pilgrimages ('Mulang Pekelem' ceremony).",
+        "The 'Senaru' and 'Sembalun' villages are the primary starting points for trekking.",
+        "The lake is a popular spot for local freshwater fishing and natural hot springs."
+      ]
+    },
+    {
+      "id": "puncak-jaya-carstensz-pyramid-nature-v2",
+      "descriptionAdvanced": "Puncak Jaya, also known as Carstensz Pyramid, is the highest mountain in Indonesia and the entire continent of Oceania, standing at 4,884 meters. It is one of the world's 'Seven Summits'—the highest peaks on each continent—making it a legendary goal for mountain climbers. Located in the Sudirman Range of Papua, its jagged limestone ridges are surrounded by the world's largest gold and copper mine, the Grasberg. Puncak Jaya is extremely unique for possessing several small glaciers, though they are melting rapidly due to climate change. The peak was first named after the Dutch explorer Jan Carstensz, who was mocked in Europe for claiming to see snow near the Equator in 1623. Geography K10 — Glaciology and the Seven Summits.",
+      "factsAdvanced": [
+        "The highest peak in Indonesia and the Southwest Pacific (4,884 meters).",
+        "First climbed in 1962 by a team led by the famous Austrian Heinrich Harrer.",
+        "One of the 'Seven Summits,' representing the continent of Oceania.",
+        "The summit is a massive limestone block, unlike the volcanoes of western Indonesia.",
+        "Contains the only remaining glaciers in the Western Pacific region.",
+        "Studies predict its glaciers could completely disappear by 2026-2030.",
+        "Located within the UNESCO-protected Lorentz National Park.",
+        "Considered one of the world's most difficult and expensive peaks to reach."
+      ]
+    },
+    {
+      "id": "mount-semeru-nature-v2",
+      "descriptionAdvanced": "Mount Semeru, also known as 'Mahameru' (The Great Mountain), is the highest peak on the island of Java and one of the world's most active volcanoes. Located in East Java within the Bromo-Tengger-Semeru National Park, this massive stratovolcano is legendary for its near-constant activity, emitting a plume of ash and steam every 20 to 30 minutes. In Javanese Hindu cosmology, Semeru is believed to be the 'Nail of Java,' brought from India to stabilize the island. The trek to its 3,676-meter summit is a popular but dangerous journey for experienced climbers, passing through the beautiful Ranukumbolo lake and a steep, sandy slope of volcanic ash. It represents the raw, creative, and destructive power of the tectonic forces that built Indonesia. Geography K7 — Tectonic Activity and Active Stratovolcanoes.",
+      "factsAdvanced": [
+        "The highest mountain in Java, standing at 3,676 meters above sea level.",
+        "Named after Meru, the sacred mountain at the center of the Hindu universe.",
+        "Known for its 'Strombolian' eruptions, occurring every few minutes.",
+        "Ranukumbolo is a stunning 15-hectare alpine lake on the climbing route.",
+        "The 'Arkopodo' is a legendary and dangerous sandy slope leading to the peak.",
+        "Eruptions in 2021 and 2022 caused significant impact on surrounding villages.",
+        "Mount Semeru has been in a near-constant state of eruption since 1967.",
+        "The volcano is part of a complex chain that includes Mount Bromo."
+      ]
+    },
+    {
+      "id": "tanjung-puting-national-park-nature-v2",
+      "descriptionAdvanced": "Tanjung Puting National Park, located in Central Kalimantan, is the world's premier destination for observing the Bornean Orangutan in the wild. This massive wetland and forest reserve covers over 4,000 square kilometers and is famous for its 'Klotok' boat tours along the Sekonyer River. The park was the site of the pioneering research of Dr. Biruté Galdikas, one of the 'Trimates' alongside Jane Goodall and Dian Fossey. Visitors can visit feeding stations like Camp Leakey to see rehabilitated and wild orangutans up close. The park's diverse ecosystems include peat swamp forests, heath forests, and mangroves, providing a vital sanctuary for proboscis monkeys, sun bears, and over 200 species of birds. Geography K10 — Peat Swamps and Primate Research.",
+      "factsAdvanced": [
+        "World-famous as the site of Dr. Biruté Galdikas's long-term orangutan research.",
+        "Home to the largest wild and semi-wild orangutan population in Borneo.",
+        "Camp Leakey, established in 1971, is the park's most famous research station.",
+        "The park is primarily reached via traditional 'Klotok' wooden riverboats.",
+        "One of the best places to see the endemic Proboscis Monkey (Bekantan).",
+        "Designated as a UNESCO Biosphere Reserve in 1977.",
+        "The Sekonyer River is famous for its tea-colored, tannin-rich black waters.",
+        "A critical landscape for the conservation of Indonesia's carbon-rich peatlands."
+      ]
+    },
+    {
+      "id": "lake-sentani-nature-v2",
+      "descriptionAdvanced": "Lake Sentani is a breathtaking tropical lake located in the hills near Jayapura, the capital of Papua. Surrounded by the Cyclops Mountains, this 9,360-hectare lake is dotted with 21 small islands, many of which are home to indigenous Papuan communities living in traditional stilt houses. Sentani is famous for its unique culture, particularly the 'Sentani Bark Painting' (Marowai) and the annual Lake Sentani Festival. The lake's waters are home to several endemic fish species, including the Sentani rainbowfish. Geographically, Sentani is a 'tectonic' lake formed by the movement of the earth's crust, and it serves as a vital freshwater resource and transportation artery for the region. It represents the beautiful synergy between Papua's rugged mountains and its vibrant water-based cultures. Geography K7 — Tectonic Lakes and Indigenous Cultures.",
+      "factsAdvanced": [
+        "Located at an elevation of 75 meters, with a maximum depth of 52 meters.",
+        "Surrounded by the Cyclops Mountains Nature Reserve to the north.",
+        "Home to 21 islands, including Asei Island, famous for its traditional bark art.",
+        "The Sentani Rainbowfish (Chilatherina sentaniensis) is found only here.",
+        "The annual Lake Sentani Festival celebrates Papuan dance, music, and food.",
+        "During WWII, the lake was a major Japanese and then Allied seaplane base.",
+        "The lake is fed by 14 rivers and drained by a single river into the Pacific.",
+        "A major source of freshwater fish for the population of Jayapura."
+      ]
+    },
+    {
+      "id": "kapuas-river-nature-v2",
+      "descriptionAdvanced": "The Kapuas River, flowing through the heart of West Kalimantan, is the longest river in Indonesia and the longest island river in the world. Stretching over 1,143 kilometers, it is the lifeblood of the province, serving as a primary transportation highway, a source of food, and a central pillar of the regional economy. The river originates in the Muller Mountains and flows through some of Borneo's most biodiverse rainforests and wetlands before emptying into the South China Sea. The Kapuas is home to over 300 species of fish, including the legendary Super Red Arowana. Its basin supports millions of people, from indigenous Dayak tribes in the interior to the multicultural city of Pontianak at its mouth. Geography K7 — Large River Systems and Tropical Inland Waterways.",
+      "factsAdvanced": [
+        "The longest river in Indonesia and the world's longest river on an island (1,143 km).",
+        "The Kapuas basin covers approximately 98,000 square kilometers.",
+        "A vital habitat for the 'Super Red Arowana,' the world's most expensive aquarium fish.",
+        "Crossed by the iconic Kapuas Bridge, one of the longest in Kalimantan.",
+        "The river is navigable by large vessels for hundreds of kilometers inland.",
+        "Supports a vast network of floating houses and river-based commerce.",
+        "Major transport artery for Borneo's timber, coal, and palm oil exports.",
+        "Flows through the Danau Sentarum National Park, a world-class wetland."
+      ]
+    },
+    {
+      "id": "mahakam-river-nature-v2",
+      "descriptionAdvanced": "The Mahakam River is the largest and most important waterway in East Kalimantan, serving as a vital artery for the region's transport and economy. Originating in the central highlands of Borneo, it flows 920 kilometers before forming a massive delta on the Makassar Strait. The river is famously home to the critically endangered Irrawaddy freshwater dolphin, known locally as 'Pesut Mahakam.' The Mahakam basin is a landscape of incredible contrast, from pristine rainforests and ancient Dayak longhouses in the upstream regions to massive coal mines and industrial cities like Samarinda downstream. It is a critical link in the global supply chain for coal and timber while remaining a sacred and central element of East Kalimantan's cultural heritage. Geography K11 — River Transportation and Resource Extraction.",
+      "factsAdvanced": [
+        "The second longest river in Indonesia, stretching for 920 kilometers.",
+        "Home to the rare 'Pesut Mahakam' (Irrawaddy Dolphin), with only about 80 left.",
+        "The Mahakam Delta covers an area of over 1,500 square kilometers.",
+        "A major highway for the transport of billions of tons of Indonesian coal.",
+        "Flows through the massive Middle Mahakam Lake system (Jempang, Semayang).",
+        "The river supports the ancient traditions of the Kutai and Dayak peoples.",
+        "Connected to the Makassar Strait, a vital international shipping route.",
+        "The Mahakam Bridge in Samarinda is a major landmark crossing this waterway."
+      ]
+    },
+    {
+      "id": "bunaken-national-marine-park-nature-v2",
+      "descriptionAdvanced": "Bunaken National Marine Park, located near Manado in North Sulawesi, is one of the world's most famous diving destinations and a global center of marine biodiversity. Situated at the heart of the Coral Triangle, the park is renowned for its spectacular 30-to-50 meter vertical coral walls that drop into the deep blue Celebes Sea. These walls are covered in an incredible array of sponges, corals, and sea fans, providing habitat for over 2,000 species of fish and several species of sea turtles. The park's exceptionally clear waters and calm conditions make it a paradise for underwater photographers and researchers. Bunaken is a leading example of how community-based marine management can protect fragile ecosystems while supporting a thriving eco-tourism industry. Geography K10 — Coral Reefs and Marine Protected Areas.",
+      "factsAdvanced": [
+        "One of the first marine national parks in Indonesia, established in 1991.",
+        "Renowned for its 'Vertical Walls' that drop 25-50 meters deep.",
+        "Home to 70% of all known fish species in the Indo-Western Pacific.",
+        "The park covers 89,000 hectares, 97% of which is pristine ocean.",
+        "The island of Bunaken is an uplifted coral reef, not a volcanic island.",
+        "A major sanctuary for Green and Hawksbill sea turtles.",
+        "Water visibility can reach an incredible 35-40 meters during the dry season.",
+        "A core part of the Coral Triangle, the most biodiverse marine region on Earth."
+      ]
+    },
+    {
+      "id": "wakatobi-national-park-nature-v2",
+      "descriptionAdvanced": "Wakatobi National Park, located in Southeast Sulawesi, is the second largest marine park in Indonesia and a world-class center for coral reef research. Its name is an acronym for the four main islands: Wangi-Wangi, Kaledupa, Tomia, and Binongko. Jacques Cousteau famously described this region as an 'Underwater Nirvana' due to its incredible diversity of coral species—Wakatobi is home to 750 out of the 850 known coral species in the world. The park is also the ancestral homeland of the Bajau people, the legendary 'Sea Nomads' who live in stilt villages and have an extraordinary physical and cultural adaptation to life on the ocean. Wakatobi is a remote paradise where ancient maritime culture and peerless marine biodiversity meet. Geography K10 — Coral Diversity and Sea Nomadic Cultures.",
+      "factsAdvanced": [
+        "The second largest marine national park in Indonesia (1.39 million hectares).",
+        "Contains 750 of the world's 850 known coral species.",
+        "The name is an acronym of its four major islands: Wangi, Kaledupa, Tomia, Binongko.",
+        "Home to the Bajau 'Sea Nomads,' who can spend minutes underwater on one breath.",
+        "A UNESCO Biosphere Reserve and part of the global Coral Triangle.",
+        "Renowned for its exceptionally healthy reefs and lack of coral bleaching.",
+        "The park includes several large coral atolls, including the Onemobaa atoll.",
+        "A major global center for marine biological and anthropological research."
+      ]
+    },
+    {
+      "id": "baluran-national-park-nature-v2",
+      "descriptionAdvanced": "Baluran National Park, located on the northeastern tip of Java, is famously known as the 'Little Africa of Indonesia.' Unlike the lush rainforests typical of Java, Baluran is dominated by a vast open savanna that turns golden-brown during the long dry season, framed by the silhouette of the extinct Baluran volcano. This 25,000-hectare park is a vital sanctuary for the endangered Javanese Banteng (wild cattle), as well as peacocks, macaques, and various species of deer. The park's geography is shaped by its rain-shadow location, resulting in a semi-arid climate that is unique on the island. Baluran's Bekol Savanna offers a landscape that is strikingly similar to the plains of East Africa, making it a unique ecological jewel in the Indonesian archipelago. Geography K7 — Tropical Savannas and Rain Shadows.",
+      "factsAdvanced": [
+        "Often called 'Africa van Java' because of its vast open savanna landscape.",
+        "The Bekol Savanna is the largest of its kind on the island of Java.",
+        "Home to the endangered Javanese Banteng (Bos javanicus).",
+        "The park is dominated by the 1,247-meter tall extinct Baluran volcano.",
+        "Bama Beach, within the park, features pristine coral reefs and mangroves.",
+        "Located in the driest corner of Java due to the rain-shadow effect.",
+        "A major sanctuary for the Green Peafowl and Javan Hawk-Eagle.",
+        "Established as a national park in 1980, originally a colonial hunting reserve."
+      ]
+    },
+    {
+      "id": "way-kambas-national-park-nature-v2",
+      "descriptionAdvanced": "Way Kambas National Park, located in Lampung province on the southern tip of Sumatra, is one of Indonesia's most critical conservation areas for large mammals. It is world-famous as the home of the Elephant Training Center, which was established to manage human-elephant conflict and has since become a major center for conservation and tourism. Way Kambas is also one of the few places on Earth where the critically endangered Sumatran rhinoceros can still be found, protected within a high-security sanctuary. The park's landscape is a mix of lowland rainforest, swamp forest, and grasslands, providing a vital habitat for the Sumatran tiger and the Malayan tapir. It represents the front line in the battle to protect Sumatra's remaining megafauna. Geography K10 — Megafauna Conservation and Human-Wildlife Conflict.",
+      "factsAdvanced": [
+        "Home to the 'Elephant Training Center' (PLG), established in 1985.",
+        "The Sumatran Rhino Sanctuary (SRS) is a world-leading breeding facility.",
+        "Way Kambas was designated as an ASEAN Heritage Park in 2016.",
+        "The park covers 1,300 square kilometers of lowland Sumatran forest.",
+        "One of the best places in Indonesia for birdwatching, with over 300 species.",
+        "Home to the elusive and endangered White-winged Wood Duck.",
+        "Suffered from heavy logging in the past, it is now an area of active reforestation.",
+        "Located near the Sunda Strait, providing a critical wildlife corridor."
+      ]
+    }
+  ]
+}

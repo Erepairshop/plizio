@@ -1,0 +1,659 @@
+{
+  "lang": "hu",
+  "country": "angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraAngolaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraAngolaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraAngolaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAngolaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAngolaNatureV2.ts",
+    "lib/visualLab/data/poiExtraAngolaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "luanda-cities-v2",
+      "descriptionAdvanced": { "hu": "Luanda Angola lüktető fővárosa, amely közvetlenül az Atlanti-óceán partján fekszik, és az ország legfontosabb gazdasági és kulturális központja. A várost 1575-ben alapították a portugálok, és az évszázadok során a rabszolga-kereskedelem, majd az olaj- és gyémántipar révén vált a világ egyik legdrágább metropoliszává. A modern felhőkarcolók és a gyarmati építészet kontrasztja egyedi városképet alkot, miközben a népesség mára meghaladja a 8 millió főt. A város mélyvízi kikötője kulcsfontosságú az egész szubszaharai régió áruforgalma szempontjából. Földrajz K7 — tengerparti városok és gazdaság." },
+      "factsAdvanced": { "hu": [
+        "1575-ben alapították Paulo Dias de Novais vezetésével.",
+        "Lakossága meghaladja a 8 millió főt (2024-es becslés).",
+        "Angola legfontosabb mélyvízi kikötője itt található.",
+        "Az ország olajiparának pénzügyi és igazgatási központja.",
+        "Gyakran szerepel a világ legdrágább városainak listáján.",
+        "Híres tengerparti sétánya az Avenida 4 de Fevereiro.",
+        "UNESCO Világörökségi jelölt történelmi központtal bír.",
+        "A város kimbundu neve Loanda volt eredetileg."
+      ] }
+    },
+    {
+      "id": "caxito-cities-v2",
+      "descriptionAdvanced": { "hu": "Caxito Bengo tartomány közigazgatási központja, amely stratégiai helyen, Luandától mintegy 60 kilométerre északkeletre található. A város fejlődését meghatározza a termékeny Dande-folyó völgye, amely az ország egyik legfontosabb mezőgazdasági régiója. Itt jelentős mértékű cukornád-, gyapot- és trópusi gyümölcstermesztés folyik, ami a helyi gazdaság gerincét alkotja. Caxito fontos közlekedési csomópont az északi tartományok felé vezető úton, és az elmúlt évtizedben jelentős infrastrukturális megújuláson ment keresztül a polgárháború pusztításai után. Földrajz K6 — mezőgazdasági régiók és infrastruktúra." },
+      "factsAdvanced": { "hu": [
+        "Bengo tartomány hivatalos székhelye.",
+        "Körülbelül 60 km-re fekszik a fővárostól, Luandától.",
+        "A termékeny Dande-folyó partján terül el.",
+        "Híres a nagy kiterjedésű cukornádültetvényeiről.",
+        "Fontos közúti csomópont Uíge és Zaire tartományok felé.",
+        "A régióban jelentős a trópusi gyümölcsök exportja.",
+        "A városban modern kórházi és oktatási központ épült.",
+        "Az éves 'Festas do Caxito' kulturális fesztivál helyszíne."
+      ] }
+    },
+    {
+      "id": "ndalatando-cities-v2",
+      "descriptionAdvanced": { "hu": "N'dalatando Cuanza Norte tartomány székhelye, amely festői környezetben, a dombos és buja növényzetű északi vidéken fekszik. A várost eredetileg Vila Salazar néven ismerték a gyarmati időkben, és fontos vasúti megállóként szolgált a Luanda-Malanje vonalon. Híres a botanikus kertjéről (Jardim Botânico do N'dalatando), amely ritka trópusi növényfajokat, különösen orchideákat és bambuszokat mutat be. A párás éghajlat kedvez a kávétermesztésnek, amely történelmileg meghatározó volt a város és a környező ültetvények gazdasági életében. Földrajz K7 — trópusi növényzet és gyarmati vasutak." },
+      "factsAdvanced": { "hu": [
+        "Cuanza Norte tartomány közigazgatási székhelye.",
+        "Híres botanikus kertje több mint 50 éves múltra tekint vissza.",
+        "Fontos állomása a Luanda-vasútnak (Caminho de Ferro de Luanda).",
+        "A város környéke Angola egyik legfontosabb kávétermelő vidéke.",
+        "Évi átlagos csapadékmennyisége meghaladja az 1100 mm-t.",
+        "A város eredeti neve Vila Salazar volt 1975 előtt.",
+        "Számos vízesés található a közvetlen közelében.",
+        "Kiemelkedő szerepe van a regionális kereskedelemben."
+      ] }
+    },
+    {
+      "id": "sumbe-cities-v2",
+      "descriptionAdvanced": { "hu": "Sumbe Cuanza Sul tartomány székhelye, egy bájos tengerparti város, amely félúton fekszik Luanda és Lobito között. A város korábban a Novo Redondo nevet viselte, és ma is büszkélkedhet néhány jól megőrzött gyarmati épülettel. Gazdaságában központi szerepet játszik a halászat és a környező síkságokon folytatott mezőgazdaság, különösen a pálmaolaj-termelés. Sumbe híres a 'Sumbe-i Békefesztiválról' (Festisumbe), amely az ország egyik legnagyobb zenei eseménye. A város mellett található tengerparti sziklák és barlangok kedvelt célpontjai a természetjáróknak. Földrajz K7 — tengerparti gazdálkodás és turizmus." },
+      "factsAdvanced": { "hu": [
+        "Cuanza Sul tartomány tengerparti fővárosa.",
+        "1975-ig Novo Redondo volt a hivatalos neve.",
+        "A Luanda és Benguela közötti főútvonalon fekszik.",
+        "A Festisumbe zenei fesztivál több tízezer látogatót vonz.",
+        "Közeli látványosság a Gabela-völgy és annak kávéültetvényei.",
+        "Fontos regionális oktatási központ egyetemi karral.",
+        "Híres a friss tengeri gyümölcseiről és halpiacáról.",
+        "A város környékén jelentős sólepárló telepek találhatók."
+      ] }
+    },
+    {
+      "id": "malanje-cities-v2",
+      "descriptionAdvanced": { "hu": "Malanje városa az azonos nevű tartomány székhelye, és az angolai felföld egyik legjelentősebb központja. A város fontos vasúti végpontként fejlődött ki, amely összeköti a mezőgazdasági hátországot Luanda kikötőjével. Malanje környéke a 'fekete kövek' (Pungo Andongo) és a Kalandula-vízesés miatt turisztikai szempontból is kiemelkedő. A terület éghajlata ideális a kukorica, a dohány és a gyapot termesztésére, ami évtizedek óta táplálja a helyi ipart. A város a polgárháború utáni újjáépítés egyik sikertörténete, modern egyetemi kampusszal és felújított infrastruktúrával. Földrajz K6 — fennsíki mezőgazdaság és vízkészletek." },
+      "factsAdvanced": { "hu": [
+        "Malanje tartomány közigazgatási és gazdasági központja.",
+        "A Luanda-vasútvonal (CFL) keleti végpontja.",
+        "Körülbelül 1150 méteres tengerszint feletti magasságban fekszik.",
+        "A közelben található a lenyűgöző Kalandula-vízesés.",
+        "Itt található a Kangandala Nemzeti Park egyik bejárata.",
+        "Híres a gyapot- és dohánytermesztési hagyományairól.",
+        "Fontos szerepet tölt be az északkeleti régió áruellátásában.",
+        "Az éves 'Festas de Malanje' során ünneplik a város alapítását."
+      ] }
+    },
+    {
+      "id": "uige-cities-v2",
+      "descriptionAdvanced": { "hu": "Uíge az ország északi részének kávéfővárosa, amely buja, trópusi hegyvidéki környezetben fekszik. A várost, amely korábban Carmona néven volt ismert, a kávéboom idején Portugália egyik leggazdagabb tengerentúli településeként tartották számon. Ma Uíge a tartomány kulturális szívét alkotja, ahol a bakongo kultúra hagyományai elevenen élnek. A környező tájat mély völgyek, sűrű erdők és számtalan kisebb vízesés jellemzi, ami óriási ökoturisztikai potenciált rejt magában. A város modernizálódó egyeteme a mezőgazdasági kutatásokra összpontosít a termelés fellendítése érdekében. Földrajz K7 — trópusi ültetvényes gazdálkodás." },
+      "factsAdvanced": { "hu": [
+        "Uíge tartomány székhelye és legnépesebb városa.",
+        "1975 előtt Carmona néven az angolai kávéipar központja volt.",
+        "Bakongo népcsoport kulturális és nyelvi bázisa.",
+        "A város környékén jelentős a trópusi fa kitermelése.",
+        "Híres a 'Loge' folyó mentén található termékeny völgyeiről.",
+        "A tartományban termelik Angola legjobb minőségű Robusta kávéját.",
+        "Repülőtere fontos kapcsolatot biztosít Luanda felé.",
+        "Számos katolikus misszió és történelmi templom található itt."
+      ] }
+    },
+    {
+      "id": "mbanzakongo-cities-v2",
+      "descriptionAdvanced": { "hu": "M'banza-Kongo a történelmi Kongói Királyság egykori fővárosa, amely 2017 óta az UNESCO Világörökség része. A Zaire tartományban fekvő város egy fennsíkon helyezkedik el, és az afrikai kultúra és a korai európai hatások találkozásának egyik legfontosabb helyszíne. Itt találhatóak a Kulumbimbi-székesegyház romjai, amely Afrika egyik legrégebbi keresztény temploma volt. A város spirituális jelentősége máig megmaradt a kongói nép számára, és a régészeti ásatások folyamatosan tárják fel a 14. századi birodalom összetett városi szerkezetét. Történelem K8 — gyarmatosítás előtti birodalmak és világörökség." },
+      "factsAdvanced": { "hu": [
+        "2017 óta az UNESCO Világörökség része.",
+        "A 14. és 19. század között a Kongói Királyság fővárosa volt.",
+        "Itt találhatók az opencathedral, az első afrikai katedrális romjai.",
+        "A várost korábban São Salvadornak nevezték a portugálok.",
+        "Spirituális központ a bakongo népesség számára világszerte.",
+        "Zaire tartomány közigazgatási székhelye.",
+        "Körülbelül 570 méter magasan fekszik egy stratégiai fennsíkon.",
+        "A királyi udvar (Lumbu) maradványai is látogathatók."
+      ] }
+    },
+    {
+      "id": "cabinda-cities-v2",
+      "descriptionAdvanced": { "hu": "Cabinda városa az azonos nevű exklávé fővárosa, amely földrajzilag el van vágva Angola többi részétől a Kongói Demokratikus Köztársaság által. A város az ország 'fekete aranyának', az olajnak a központja, mivel a legtöbb offshore olajmezőt innen kezelik. Cabinda tengerparti fekvése, modern kikötője és ipari létesítményei mellett gazdag kulturális örökséggel is rendelkezik, amit a híres 'Cabinda-szobrok' és a helyi fafaragó művészet képvisel. A várost sűrű esőerdők (Mayombe) veszik körül, amelyek egyedülálló biodiverzitást biztosítanak a régiónak. Földrajz K6 — exklávék és természeti erőforrások." },
+      "factsAdvanced": { "hu": [
+        "Angola legészakibb tartományának, az exklávénak a fővárosa.",
+        "Az ország kőolajexportjának több mint fele ehhez a régióhoz kötődik.",
+        "Itt található a stratégiai jelentőségű Malongo olajterminál.",
+        "Híres a Mayombe-erdőről, amely Afrika egyik legnagyobb esőerdője.",
+        "A város építészetén érződik a portugál gyarmati hatás.",
+        "Fontos kereskedelmi központ a két Kongó közötti forgalomban.",
+        "Saját repülőtere (Maria Mambo Café) nagy forgalmat bonyolít.",
+        "Hagyományos iparága az értékes keményfa feldolgozása."
+      ] }
+    },
+    {
+      "id": "dundo-cities-v2",
+      "descriptionAdvanced": { "hu": "Dundo Lunda Norte tartomány székhelye, amely közvetlenül a Kongói Demokratikus Köztársaság határán fekszik. A város fejlődése elválaszthatatlanul összefonódott a 20. század eleji gyémántlázzal, amikor a Diamang bányavállalat bázisaként szolgált. Dundo híres a néprajzi múzeumáról (Museu do Dundo), amely Afrika egyik legfontosabb gyűjteményét őrzi a csokve (Chokwe) kultúra művészetéről és történelméről. A városképet a tervezett bányásztelepülések rendezettsége és a modern közigazgatási épületek jellemzik, miközben a környező folyók medrében ma is aktív bányászat folyik. Földrajz K8 — bányászat és kulturális antropológia." },
+      "factsAdvanced": { "hu": [
+        "Lunda Norte tartomány közigazgatási fővárosa.",
+        "A 20. század elején alapították a gyémántbányászat bázisaként.",
+        "Itt található az ország egyik leghíresebb néprajzi múzeuma.",
+        "A csokve (Chokwe) népcsoport művészeti és kulturális központja.",
+        "Közvetlen közelében folyik a gyémántban gazdag Kassai-folyó.",
+        "A várost modern lakótelepek és zöldövezetek jellemzik.",
+        "Fontos határátkelőhely a Kongói Demokratikus Köztársaság felé.",
+        "Saját futballcsapata, a Sagrada Esperança országos hírű."
+      ] }
+    },
+    {
+      "id": "saurimo-cities-v2",
+      "descriptionAdvanced": { "hu": "Saurimo Lunda Sul tartomány fővárosa, amely az angolai gyémántkereskedelem igazi szíve. A város korábban a Henrique de Carvalho nevet viselte, és ma az ország egyik leggyorsabban fejlődő települése a bányászati beruházásoknak köszönhetően. Saurimo egy fennsíkon helyezkedik el, ahol a trópusi éghajlatot a magasság némileg enyhíti. A város gazdasága a közeli Catoca bányára épül, amely a világ egyik legnagyobb külszíni gyémántbányája. A település fontos oktatási és logisztikai csomópont, amely összeköti a keleti országrészt a partvidékkel. Földrajz K7 — ásványkincsek és gazdasági fejlődés." },
+      "factsAdvanced": { "hu": [
+        "Lunda Sul tartomány székhelye a Lunda-fennsíkon.",
+        "Közelében található a világ 4. legnagyobb gyémántbányája, a Catoca.",
+        "A várost 1975-ig Henrique de Carvalhónak hívták.",
+        "Fontos megállóhely a keleti országrészt átszelő főutakon.",
+        "A régióban jelentős a kézműves és ipari gyémántkitermelés.",
+        "Modern repülőtere biztosítja az összeköttetést Luandával.",
+        "Híres a csokve kultúra tiszteletére rendezett fesztiválokról.",
+        "Egyetemi központja bányászati mérnöki képzésre szakosodott."
+      ] }
+    },
+    {
+      "id": "luena-cities-v2",
+      "descriptionAdvanced": { "hu": "Luena Moxico tartomány székhelye, amely Angola keleti részének legfontosabb központja. A város a történelmi Benguela-vasútvonal mentén fekszik, és kulcsszerepet játszik a hatalmas tartomány logisztikai ellátásában. Luena neve szorosan összefonódott az angolai békefolyamattal, mivel itt írták alá 2002-ben a polgárháborút végleg lezáró megállapodást. A környező tájat hatalmas síkságok, mocsaras folyóvölgyek és érintetlen erdőségek jellemzik. A város fejlődése az elmúlt években felgyorsult, különösen a kereskedelem és az oktatás területén, kiszolgálva a ritkábban lakott keleti vidéket. Földrajz K6 — keleti határvidékek és béketeremtés." },
+      "factsAdvanced": { "hu": [
+        "Moxico, Angola legnagyobb területű tartományának székhelye.",
+        "A Benguela-vasútvonal (CFB) egyik legfontosabb keleti állomása.",
+        "2002-ben itt írták alá a polgárháborút lezáró Luena-jegyzőkönyvet.",
+        "Körülbelül 1300 méteres magasságban fekszik a felföldön.",
+        "A város környéke gazdag folyóvizekben (Lumeje és Luena folyók).",
+        "Fontos oktatási központ a keleti régió diákjai számára.",
+        "Modernizált repülőtere stratégiai fontosságú a belföldi forgalomban.",
+        "A város építészetében keverednek a modern és a gyarmati elemek."
+      ] }
+    },
+    {
+      "id": "huambo-cities-v2",
+      "descriptionAdvanced": { "hu": "Huambo Angola központi felföldjének legnépesebb és legfontosabb városa, amely korábban Nova Lisboa néven بود ismert. A várost a 20. század elején alapították, és kedvező, hűvösebb klímája miatt Portugália eredetileg ide tervezte áthelyezni az ország fővárosát. Huambo híres az oktatásáról és a mezőgazdasági kutatásairól, valamint a Benguela-vasútvonal mentén betöltött központi szerepéről. Bár a polgárháború idején az ország egyik legpusztítóbb ostromát szenvedte el, az újjáépítés során visszanyerte 'kertek városa' hírnevét, modern sugárutakkal és megújuló iparral. Földrajz K8 — felföldi klíma és várostervezés." },
+      "factsAdvanced": { "hu": [
+        "Huambo tartomány székhelye, kb. 1700 méter magasan.",
+        "1975-ig Nova Lisboa volt a neve, és fővárosnak szánták.",
+        "Angola egyik legfontosabb akadémiai és egyetemi városa.",
+        "A Benguela-vasútvonal egyik legfontosabb műszaki bázisa.",
+        "Híres a 'kertek városa' jelzőről a sok parkja miatt.",
+        "Környéke az ország egyik legfontosabb gabonatermelő vidéke.",
+        "Itt található az ország egyik legnagyobb katonai akadémiája.",
+        "A város tiszta levegője és mérsékelt éghajlata egyedülálló."
+      ] }
+    },
+    {
+      "id": "benguela-cities-v2",
+      "descriptionAdvanced": { "hu": "Benguela Angola egyik legrégebbi és legkarakteresebb városa, amelyet 1617-ben alapítottak a portugálok. A város a történelmi rabszolga-kereskedelem egyik fő kikötője volt, mára azonban a kultúra, az oktatás és a turizmus központjává vált. Benguela híres az art deco építészetéről, a széles sugárútjairól és a közeli Baía Azul kristálytiszta vizű strandjairól. A város gazdasága a halászatra, a mezőgazdaságra és a fejlődő feldolgozóiparra épül. A helyi identitást meghatározza a sport szeretete és az évente megrendezett látványos karnevál, amely az ország egyik legszínesebb eseménye. Földrajz K7 — történelmi tengerparti városok." },
+      "factsAdvanced": { "hu": [
+        "1617-ben alapították, Angola egyik legrégebbi települése.",
+        "A polgárháború alatt viszonylag sértetlen maradt építészete.",
+        "Híres az art deco stílusú gyarmati épületeiről.",
+        "Közeli strandjai (Baía Azul, Caotinha) nemzetközi hírűek.",
+        "Benguela tartomány közigazgatási és kulturális fővárosa.",
+        "Fontos szerepet tölt be a nemzeti kosárlabda-életben.",
+        "Itt található az ország egyik legfontosabb tanárképző főiskolája.",
+        "Híres a mariscos-ról (tengeri ételek) és a gasztronómiájáról."
+      ] }
+    },
+    {
+      "id": "lubango-cities-v2",
+      "descriptionAdvanced": { "hu": "Lubango Angola délnyugati részének ékköve, amely egy 1700 méter magas fennsíkon, a lenyűgöző Huíla-hasadék tövében fekszik. A várost eredetileg Vila Arriaga néven ismerték, és éghajlata inkább az európai mediterránhoz hasonlít, ami lehetővé teszi a gyümölcstermesztést, például a szőlő és az alma termesztését is. Lubango jelképe a Cristo Rei szobor, amely a város feletti hegycsúcsról tekint le a völgyre. A környék látványosságai, mint a Tundavala-hasadék és a Serra da Leba szerpentinjei, Angola legszebb tájai közé tartoznak. Földrajz K6 — hegyvidéki domborzat és mezőgazdaság." },
+      "factsAdvanced": { "hu": [
+        "Huíla tartomány fővárosa, 1720 méteres magasságban.",
+        "Éghajlata mérsékelt, ami ritka a szubszaharai Afrikában.",
+        "Híres a Cristo Rei (Krisztus király) szoborról a hegytetőn.",
+        "Itt található a Tundavala-hasadék, Angola egyik természeti csodája.",
+        "Fontos központja a szarvasmarha-tenyésztésnek és a tejiparnak.",
+        "A város környékén jelentős szőlő- és epertermesztés folyik.",
+        "Repülőtere (Mukanka) nemzetközi járatokat is fogad.",
+        "Helyszíne volt a 2010-es Afrikai Nemzetek Kupájának."
+      ] }
+    },
+    {
+      "id": "namibe-cities-v2",
+      "descriptionAdvanced": { "hu": "Namibe (újabb nevén Moçâmedes) Angola legfontosabb tengerparti városa az ország déli részén, ahol a Namib-sivatag találkozik az Atlanti-óceánnal. A város 1840-ben alakult, és híres a tisztaságáról, az art deco építészetéről és a kiváló minőségű halászatáról. Namibe a sivatagi turizmus és a tengeri kereskedelem kapuja, mélyvízi kikötője pedig alapvető a déli tartományok áruellátása szempontjából. A környező sivatagban él a különleges Welwitschia mirabilis növény, amely több mint ezer évig is elélhet. A város lakói büszkék a tengeri hagyományaikra és a sivatagi környezethez való alkalmazkodásukra. Földrajz K7 — sivatagi partvidék és tengeri gazdaság." },
+      "factsAdvanced": { "hu": [
+        "Namibe tartomány fővárosa, 1840-ben alapították.",
+        "Az ország harmadik legnagyobb kikötőjével rendelkezik.",
+        "A sivatagi környezet miatt az egyik legszárazabb angolai város.",
+        "Híres az art deco stílusú mozijairól és épületeiről.",
+        "Innen indul a Moçâmedes-vasútvonal (CFM) Menongue felé.",
+        "A közelben található a Welwitschia mirabilis, a világ egyik legritkább növénye.",
+        "A város környéke híres a márvány- és gránitbányászatról.",
+        "Fontos tengeri kutatási és halászati oktatási központ."
+      ] }
+    },
+    {
+      "id": "ondjiva-cities-v2",
+      "descriptionAdvanced": { "hu": "Ondjiva Cunene tartomány székhelye, amely stratégiai pozíciót tölt be Angola és Namíbia határán. A várost a polgárháború során szinte teljesen elpusztították, de az elmúlt két évtizedben modern és dinamikus kereskedelmi központtá épült újjá. Ondjiva a kapuja a dél-afrikai áruforgalomnak, és gazdasága nagymértékben függ a határ menti kereskedelemtől. A régió éghajlata forró és száraz, amit időszakos áradások (chanas) tarkítanak. A város fontos kulturális bázisa az ovambó népnek, és a helyi építészetben tükröződik a namíbiai hatás is. Földrajz K6 — határmenti gazdaság és újjáépítés." },
+      "factsAdvanced": { "hu": [
+        "Cunene tartomány fővárosa, mindössze 40 km-re a namíbiai határtól.",
+        "A polgárháború utáni újjáépítés egyik leglátványosabb példája.",
+        "Fontos szárazföldi kikötő és vámközpont (Santa Clara határátkelő).",
+        "A lakosság nagy része az ovambó (Kwanyama) népcsoporthoz tartozik.",
+        "Saját repülőtere (11 de Novembro) létfontosságú a belföldi forgalomban.",
+        "Híres a forró éghajlatáról, ahol a hőmérséklet gyakran meghaladja a 35 fokot.",
+        "A városban jelentős a dél-afrikai befektetések aránya.",
+        "Történelmi emlékműve a Mufilo-i csatának állít emléket."
+      ] }
+    },
+    {
+      "id": "menongue-cities-v2",
+      "descriptionAdvanced": { "hu": "Menongue Cuando Cubango tartomány székhelye, amelyet gyakran az 'elveszett világ kapujaként' emlegetnek Angola távoli délkeleti részén. A város a Cuebe-folyó partján fekszik, és a Moçâmedes-vasútvonal keleti végpontja. Menongue fejlődése kritikus a régió integrációja szempontjából, mivel ez az utolsó nagyobb civilizációs központ a hatalmas vadvédelmi területek és szafariparkok előtt. A város modernizációja során új kórházak és iskolák épültek, miközben megőrizte békés, vidéki jellegét. A környező táj szavannákból és sűrű folyóparti erdőkből áll. Földrajz K7 — távoli régiók fejlesztése és ökoturizmus." },
+      "factsAdvanced": { "hu": [
+        "Cuando Cubango, az 'elveszett világ' tartományának székhelye.",
+        "A Moçâmedes-vasútvonal (CFM) keleti végállomása.",
+        "A Cuebe-folyó partján fekszik, amely fontos vízi út.",
+        "Korábban Serpa Pintónak hívták a portugál felfedező után.",
+        "Körülbelül 1050 méteres magasságban található a felföldön.",
+        "Logisztikai központ a délkeleti szafari- és vadászterületekhez.",
+        "A polgárháború után jelentős aknamentesítési program zajlott itt.",
+        "Fontos katonai és közigazgatási bázis az ország délkeleti sarkában."
+      ] }
+    },
+    {
+      "id": "lobito-cities-v2",
+      "descriptionAdvanced": { "hu": "Lobito Angola egyik legmodernebb és leggazdagabb városa, amely híres természetes mélyvízi kikötőjéről és a Benguela-vasútvonallal való kapcsolatáról. A város egyedülálló fekvését a 'Restinga' nevű 5 kilométer hosszú homokpad adja, amelyen luxusszállodák, éttermek és strandok sorakoznak. Lobito a régió logisztikai központja, ahol a bányászati termékek (réz, kobalt) elhagyják a kontinenst. Az art deco építészet és a modern ipari létesítmények keveredése egy kozmopolita hangulatot kölcsönöz a településnek, amelyet gyakran emlegetnek az 'Atlanti-óceán kapujaként'. Földrajz K7 — kikötővárosok és globális ellátási láncok." },
+      "factsAdvanced": { "hu": [
+        "Angola legfontosabb mélyvízi kikötője található itt.",
+        "A Benguela-vasútvonal (CFB) tengeri kijárata.",
+        "Híres a Restinga-félszigetről, amely Luanda után a legdivatosabb hely.",
+        "1905-ben alapították a vasútépítéshez kapcsolódóan.",
+        "Az art deco építészet egyik leggazdagabb gyűjtőhelye Afrikában.",
+        "Saját cementgyára és finomítója jelentős ipari bázist alkot.",
+        "A Lobito-folyosó nevű nemzetközi kereskedelmi útvonal névadója.",
+        "Népessége meghaladja az egymillió főt az agglomerációval együtt."
+      ] }
+    },
+    {
+      "id": "soyo-cities-v2",
+      "descriptionAdvanced": { "hu": "Soyo Zaire tartomány tengerparti városa, amely a Kongó-folyó torkolatánál fekszik, és Angola földgáz- és olajiparának egyik legfontosabb bázisa. A város történelme a 15. századig nyúlik vissza, amikor Diogo Cão felfedező itt kötött ki először. Ma Soyo ad otthont az ország egyik legnagyobb ipari beruházásának, az Angola LNG üzemnek, amely a kísérőgáz feldolgozására szakosodott. A települést hatalmas mangroveerdők veszik körül, amelyek egyedülálló ökoszisztémát alkotnak. Soyo gazdasága dinamikusan növekszik, vonzva a külföldi befektetőket és a szakembereket. Földrajz K8 — energiaipar és környezetvédelem." },
+      "factsAdvanced": { "hu": [
+        "Zaire tartomány városa a Kongó-folyó torkolatánál.",
+        "Az Angola LNG (földgáz-cseppfolyósító) üzem központja.",
+        "Diogo Cão 1482-es partraszállásának történelmi helyszíne.",
+        "Híres a kiterjedt és érintetlen mangroveerdőiről.",
+        "A város korábban Santo António do Zaire néven volt ismert.",
+        "Stratégiai fontosságú offshore olajmezők kiszolgáló bázisa.",
+        "Modern repülőtere és kikötője a gázexportot szolgálja.",
+        "Fontos szerepet tölt be a két Kongó közötti folyami kereskedelemben."
+      ] }
+    },
+    {
+      "id": "ao-port-of-namibe-economic-v2",
+      "descriptionAdvanced": { "hu": "A namibe-i kikötő Angola harmadik legfontosabb tengeri kapuja, amely az ország déli régiójának, különösen Huíla, Namibe és Cuando Cubango tartományoknak az ellátását biztosítja. A kikötő specialitása a díszítőkő (márvány és gránit) exportja, valamint a déli vasútvonalon érkező áruk kezelése. A sivatagi környezetben fekvő kikötő modernizálása, beleértve a konténerterminál bővítését japán befektetések segítségével zajlik. Fontos szerepet játszik a halászhajók fogadásában is, mivel a hideg Benguela-áramlat miatt a környék vizei rendkívül gazdagok halban. Földrajz K7 — export-orientált gazdaság és infrastruktúra." },
+      "factsAdvanced": { "hu": [
+        "Angola déli régiójának legfontosabb kereskedelmi kikötője.",
+        "A Moçâmedes-vasútvonal (CFM) nyugati végpontja.",
+        "Kiemelt szerepe van a gránit- és márványexportban.",
+        "Japán támogatással zajló nagyszabású modernizációs program helyszíne.",
+        "Mélyvízi terminálja nagy teherhajók fogadására is alkalmas.",
+        "Fontos bázisa a nemzeti és nemzetközi halászflottáknak.",
+        "A kikötő éghajlata az egyik legszárazabb a világ kikötői közül.",
+        "Közvetlen közúti összeköttetése van Namíbia felé."
+      ] }
+    },
+    {
+      "id": "ao-angola-lng-plant-economic-v2",
+      "descriptionAdvanced": { "hu": "Az Angola LNG projekt Soyóban az ország történetének egyik legnagyobb ipari beruházása, amelynek célja a kőolajkitermelés során felszabaduló gáz hasznosítása. Az üzem cseppfolyósított földgázt (LNG) állít elő exportra, jelentősen csökkentve a gázfáklyázás okozta környezetterhelést. Ez a komplexum Angola törekvését jelképezi a gazdaság diverzifikálására, elmozdulva a tiszta olajfüggőségtől a gázexport felé. Az LNG-üzem mellett a létesítmény tiszta fűtőanyagot és energiát is biztosít a helyi ipar számára, miközben globális szinten is jegyzett gázexportőrré teszi az országot. Gazdaság K8 — fenntartható energiaipar és innováció." },
+      "factsAdvanced": { "hu": [
+        "Soyo városában található, a Kongó-folyó torkolatánál.",
+        "Beruházási értéke meghaladta a 10 milliárd dollárt.",
+        "Célja az olajbányászat melléktermékeként keletkező gáz feldolgozása.",
+        "Az egyik legmodernebb LNG-létesítmény az afrikai kontinensen.",
+        "Kapacitása eléri az évi 5,2 millió tonna cseppfolyósított gázt.",
+        "Jelentősen csökkenti az üvegházhatású gázok kibocsátását Angolában.",
+        "Saját dedikált kikötői terminállal rendelkezik a gázszállító hajóknak.",
+        "Több ezer szakképzett munkahelyet teremtett a régióban."
+      ] }
+    },
+    {
+      "id": "massangano-fort-history-v2",
+      "descriptionAdvanced": { "hu": "A massanganói erőd a Kwanza-folyó partján a portugál gyarmati terjeszkedés egyik legfontosabb katonai mementója. Az 1583-ban épült erődítmény stratégiai jelentőséggel bírt, mivel ellenőrizte a folyami utat a szárazföld belseje felé, ahol a portugálok az ezüstbányákat keresték. 1641 és 1648 között, amikor Luandát a hollandok megszállták, Massangano szolgált Angola ideiglenes fővárosaként és a portugál ellenállás központjaként. Az erőd falai, a börtöncellák és a közeli templom ma is állnak, emlékeztetve a hódítások és a rabszolga-kereskedelem kegyetlen évszázadaira. Történelem K8 — gyarmati háborúk és hódítások." },
+      "factsAdvanced": { "hu": [
+        "1583-ban épült a Kwanza-folyó stratégiai pontján.",
+        "A holland megszállás alatt (1641-48) Angola ideiglenes fővárosa volt.",
+        "Az erődítmény kulcsszerepet játszott a Ndongo Királyság elleni harcban.",
+        "A területen található a Győzedelmes Miasszonyunk templom is.",
+        "UNESCO Világörökségi javaslati listán szerepel 1996 óta.",
+        "Itt zajlott a hírhedt massanganói csata a portugálok és helyiek között.",
+        "Az erőd bástyáiról belátható a Kwanza és a Lucala folyók összefolyása.",
+        "Malanje és Luanda közötti történelmi kereskedelmi útvonalat védte."
+      ] }
+    },
+    {
+      "id": "palacio-de-ferro-history-v2",
+      "descriptionAdvanced": { "hu": "A luandai Vaspalota (Palácio de Ferro) az angolai főváros egyik legrejtélyesebb és leglátványosabb építészeti emléke. Az épületet teljesen előregyártott vaselemekből építették, és a legenda szerint Gustave Eiffel irodájában tervezték a 19. század végén. Eredetileg nem Luandába szánták, hanem egy francia kiállításra vagy Madagaszkárra, de a szállítóhajó a vihar elől Luanda kikötőjébe menekült, ahol végül elárverezték a rakományt. Az épület a gyarmati időkben művészeti galériaként és reprezentatív palotaként szolgált, ma pedig felújítva kulturális központként működik. Történelem K7 — ipari építészet és globális kalandok." },
+      "factsAdvanced": { "hu": [
+        "Teljesen előregyártott sárgaréz és vaselemekből áll.",
+        "Nagy valószínűséggel Gustave Eiffel vagy tanítványai tervezték.",
+        "Az 1890-es években gyártották Franciaországban.",
+        "Eredetileg Madagaszkárra szánták, de egy vihar miatt Luandában kötött ki.",
+        "Luanda belvárosában, az Ingombota negyedben található.",
+        "2009-ben egy átfogó restauráláson esett át.",
+        "A gyarmati időszakban a Francia Szövetség székháza is volt.",
+        "Az épületnek nincs hagyományos kő alapozása, csak a vasszerkezet tartja."
+      ] }
+    },
+    {
+      "id": "muxima-fort-history-v2",
+      "descriptionAdvanced": { "hu": "A Muxima erőd 1599-ben épült a Kwanza-folyó egy magaslatán, és évszázadokon át a portugál katonai jelenlét egyik legfontosabb bástyája volt a belső területeken. Az erőd elsődleges feladata a Kwanza-folyó menti kereskedelem védelme és a rabszolgák begyűjtésének biztosítása volt. A 17. században rövid időre holland kézre került, de a portugálok visszavették. Az erőd közvetlen szomszédságában található a Muximai Miasszonyunk kegyhely, amely ma Angola legfontosabb keresztény zarándokhelye, így a hely katonai és spirituális jelentősége összefonódik. Történelem K8 — vallás és gyarmati közigazgatás." },
+      "factsAdvanced": { "hu": [
+        "1599-ben épült João Furtado de Mendonça kormányzása alatt.",
+        "A Kwanza-folyó partján, egy stratégiai dombtetőn helyezkedik el.",
+        "A Muxima név kimbundu nyelven 'szívet' jelent.",
+        "1924-ben nemzeti műemlékké nyilvánították.",
+        "A hollandok 1641-ben elfoglalták, de 1648-ban felszabadult.",
+        "A közeli kegyhely évente több százezer zarándokot vonz.",
+        "Az erőd falai között ma is láthatók régi ágyúk.",
+        "Fontos szerepet játszott a szárazföld belseje felé irányuló expedíciókban."
+      ] }
+    },
+    {
+      "id": "cuito-cuanavale-battlefield-history-v2",
+      "descriptionAdvanced": { "hu": "A Cuito Cuanavale-i csatatér Afrika modern történelmének egyik legjelentősebb helyszíne, ahol 1987 és 1988 között a kontinens legnagyobb szárazföldi ütközete zajlott a második világháború óta. Az angolai kormányerők (kubai támogatással) és az UNITA lázadók (dél-afrikai támogatással) közötti harc döntő fordulatot hozott a polgárháborúban. A csata kimenetele felgyorsította Namíbia függetlenedését és az apartheid rendszer bukását Dél-Afrikában. Ma egy hatalmas emlékműkomplexum állít emléket a győzelemnek, amely az angolai nemzeti büszkeség és a szuverenitás jelképe. Történelem K8 — hidegháború Afrikában és függetlenség." },
+      "factsAdvanced": { "hu": [
+        "A csata 1987 szeptembere és 1988 márciusa között zajlott.",
+        "Afrika legnagyobb páncélos ütközetének helyszíne.",
+        "A győzelem napja (március 23.) nemzeti ünnep Angolában.",
+        "A helyszínen egy 55 méter magas emlékmű épült 2017-ben.",
+        "A csata döntő hatással volt az apartheid rendszer végére Dél-Afrikában.",
+        "Több száz harckocsi és repülőgép vett részt a hadműveletekben.",
+        "A területen ma is folynak aknamentesítési munkálatok.",
+        "A múzeumban kilőtt páncélosok és hadi eszközök láthatók."
+      ] }
+    },
+    {
+      "id": "cambambe-fort-history-v2",
+      "descriptionAdvanced": { "hu": "A cambambei erőd romjai Cuanza Norte tartományban egy tragikus tévedés és a gyarmati vágyakozás emlékét őrzik. A portugálok 1604-ben építették az erődöt abban a hitben, hogy a közeli hegyekben gazdag ezüstbányák találhatók. Bár az ezüst soha nem került elő, az erőd fontos központjává vált a rabszolga-kereskedelemnek és a belső területek ellenőrzésének. A Kwanza-folyó mentén fekvő erődítmény ma elhagyatottan áll, bástyái és templomának falai a trópusi növényzet között bújnak meg. A közelben épült fel később Angola egyik legnagyobb vízerőműve. Történelem K7 — hódító expedíciók és kudarcok." },
+      "factsAdvanced": { "hu": [
+        "1604-ben alapították az ezüstbányák keresésére indult expedíciók során.",
+        "A Kwanza-folyó partján, Dondo városának közelében fekszik.",
+        "Az alapító Paulo Dias de Novais itt halt meg és itt is temették el.",
+        "1925-ben nemzeti műemléki védettséget kapott.",
+        "Az erődítmény egykor börtönként és rabszolga-lerakatként is szolgált.",
+        "A közeli Cambambe-gát ma Angola egyik fő áramforrása.",
+        "A falakon belül egy 17. századi kápolna romjai is láthatók.",
+        "A terület a portugál-angolai háborúk egyik állandó frontvonala volt."
+      ] }
+    },
+    {
+      "id": "simulambuco-monument-history-v2",
+      "descriptionAdvanced": { "hu": "A simulambucói emlékmű Cabinda exklávéban a tartomány különleges jogállásának és történelmének legfontosabb tanúja. Az emlékmű az 1885-ben aláírt simulambucói szerződés helyszínén áll, amelyben a helyi hercegek és a portugál korona megállapodtak arról, hogy Cabinda portugál protektorátus lesz. Ez a szerződés a Berlini Konferencia idején született, és Cabinda számára a többi angolai területtől eltérő jogi státuszt biztosított. Az emlékmű ma is fontos politikai és kulturális szimbólum a helyiek számára, emlékeztetve az önrendelkezésre és a régió egyedi identitására. Történelem K8 — gyarmati diplomácia és protektorátusok." },
+      "factsAdvanced": { "hu": [
+        "Az 1885. február 1-jén aláírt szerződés emlékére állították.",
+        "Cabinda városa mellett, a tengerpart közelében található.",
+        "A szerződés Portugália védnökségét biztosította a helyi törzseknek.",
+        "Az emlékművön a szerződés aláíróinak nevei szerepelnek.",
+        "A helyiek számára Cabinda függetlenségi törekvéseinek szimbóluma.",
+        "1956-ben egy díszes obeliszket emeltek az eredeti helyszínen.",
+        "Fontos szerepet játszott a Berlini Konferencia utáni Afrika-felosztásban.",
+        "Minden év februárjában ünnepségeket tartanak az emlékműnél."
+      ] }
+    },
+    {
+      "id": "sao-francisco-penedo-history-v2",
+      "descriptionAdvanced": { "hu": "A São Francisco do Penedo erőd Luandában a rabszolga-kereskedelem sötét korszakának egyik legközvetlenebb emlékeztetője. Az 1765-ben befejezett erődítmény közvetlenül a tengerparton, egy sziklán épült, hogy megvédje a kikötőt és a rabszolgahajókat. Később, a 19. és 20. században az erőd politikai börtönné vált, ahol az angolai függetlenségi mozgalom számos harcosát tartották fogva kegyetlen körülmények között. Az épület masszív kőfalai, szűk cellái és a tengerre néző bástyái ma múzeumként és emlékhelyként szolgálnak, bemutatva az ország szabadságáért vívott küzdelmet. Történelem K8 — rabszolgaság és szabadságharc." },
+      "factsAdvanced": { "hu": [
+        "1765-ben fejezték be az építését a luandai öböl északi részén.",
+        "Eredetileg a rabszolga-kereskedelem biztonságát szolgálta.",
+        "Hírhedt politikai börtön volt a gyarmati elnyomás idején.",
+        "1992-ben nemzeti műemlékké nyilvánították.",
+        "A falakon belül láthatóak a régi fogvatartottak feliratai.",
+        "Az erőd építészetét a késő barokk katonai stílus jellemzi.",
+        "Közelében található Luanda modern kikötői terminálja.",
+        "Jelenleg az angolai haditengerészet egyik bázisának része."
+      ] }
+    },
+    {
+      "id": "baia-dos-tigres-ghost-town-history-v2",
+      "descriptionAdvanced": { "hu": "Baía dos Tigres (Tigris-öböl) Angola legtitokzatosabb és legkísértetiesebb helye Namibe tartományban. Egykor virágzó portugál halásztelepülés volt, amely egy félszigeten feküdt, de 1962-ben egy hatalmas vihar átszakította a földnyelvet, és a település szigetté vált. Mivel az édesvíz-vezeték megsemmisült, a lakosoknak menekülniük kellett. Ma a sivatagi homok és a sós pára lassan elemészti az elhagyatott házakat, a templomot és a kórházat. A hely csak terepjáróval és hajóval érhető el, és a világ egyik leglátványosabb szellemvárosaként tartják számon, ahol az idő megállt a 60-as években. Történelem K7 — elhagyatott városok és természeti katasztrófák." },
+      "factsAdvanced": { "hu": [
+        "Az 1860-as években alapították halásztelepülésként.",
+        "1962-ben vált szigetté, amikor az óceán átszakította a félszigetet.",
+        "Az édesvizet egy 80 kilométeres vezetéken hozták a Cunene-folyótól.",
+        "A település ma teljesen lakatlan, csak szellemfalu.",
+        "Híres az elhagyatott art deco stílusú épületeiről.",
+        "A környék vizei rendkívül gazdagok halban és fókákban.",
+        "A homokdűnék lassan betemetik az egykori utcákat.",
+        "Kedvelt célpontja az extrém expedícióknak és fotósoknak."
+      ] }
+    },
+    {
+      "id": "parque-nacional-da-kissama-life-v2",
+      "descriptionAdvanced": { "hu": "A Kissama Nemzeti Park Angola legismertebb és leglátogatottabb vadvédelmi területe, amely Luandától mindössze 75 kilométerre délre fekszik. A park hírnevét a 'Nuh's Ark' (Noé bárkája) műveletnek köszönheti, amelynek keretében a polgárháború után Dél-Afrikából és Botswanából telepítettek vissza elefántokat és zsiráfokat az elnéptelenedett területre. A park változatos tája az Atlanti-óceán partjától a Kwanza-folyó menti sűrű erdőkön át a füves szavannákig terjed. Ma a Kissama az angolai ökoturizmus motorja, ahol a látogatók természetes élőhelyükön figyelhetik meg az afrikai vadvilágot. Természetismeret K4 — élőhelyek és vadon élő állatok." },
+      "factsAdvanced": { "hu": [
+        "1938-ban alapították, Angola egyik legrégebbi parkja.",
+        "Területe közel 10 000 squareskilométer.",
+        "2001-ben hajtották végre a nagy visszatelepítési programot.",
+        "Elefántok, zsiráfok, antilopok és bivalyok otthona.",
+        "A Kwanza-folyó alkotja a park északi határát.",
+        "Híres a hatalmas majomkenyérfákról (baobab), amelyek a tájat díszítik.",
+        "A parkban modern szafari-szálláshelyek várják a turistákat.",
+        "Több mint 150 különböző madárfaj fészkel a területén."
+      ] }
+    },
+    {
+      "id": "rio-kwanza-nature-v2",
+      "descriptionAdvanced": { "hu": "A Kwanza-folyó Angola legfontosabb folyóvize, amely az ország szívében, a Bié-felföldön ered, és 960 kilométer megtétele után az Atlanti-óceánba torkollik. A folyó nemcsak gazdasági szempontból meghatározó – hiszen itt találhatók az ország legnagyobb vízerőművei, mint a Lauca és a Capanda –, hanem történelmileg is, hiszen ezen az úton indult el a belső területek gyarmatosítása. A folyó alsó szakasza hajózható, és gazdag élővilággal rendelkezik, beleértve a krokodilokat és a vízilovakat. A nemzeti valuta, a kwanza is a folyóról kapta a nevét, szimbolizálva annak központi szerepét az ország életében. Földrajz K6 — folyórendszerek és energiatermelés." },
+      "factsAdvanced": { "hu": [
+        "Angola leghosszabb, teljes egészében az országban folyó folyója.",
+        "960 kilométer hosszú, vízgyűjtő területe 150 000 km².",
+        "Az angolai nemzeti fizetőeszköz névadója.",
+        "Itt található a hatalmas Lauca-gát, Afrika egyik legnagyobb vízerőműve.",
+        "A folyó torkolatánál feküdt az első portugál település.",
+        "A történelem során a rabszolga-kereskedelem fő útvonala volt.",
+        "Gazdag halkészlete (pl. harcsák) fontos a helyi élelmezésben.",
+        "Alsó szakasza 250 kilométeren keresztül hajózható."
+      ] }
+    },
+    {
+      "id": "monte-moco-nature-v2",
+      "descriptionAdvanced": { "hu": "A Monte Moco Angola legmagasabb hegycsúcsa, amely 2620 méterrel magasodik a tengerszint fölé Huambo tartományban. Ez a hegy az ország egyik legfontosabb biodiverzitási forró pontja, mivel itt találhatók az utolsó maradványai az őshonos montán (hegyi) erdőknek. A hegy lábánál fekvő falvak lakói és a természetvédők szorosan együttműködnek a terület erdőfelújításában. A Monte Moco nemcsak a hegymászók és túrázók célpontja, hanem az ornitológusok paradicsoma is, mivel számos ritka és endemikus madárfaj – például a Swierstra-frankolin – csak itt található meg. Földrajz K7 — hegyvidéki ökoszisztémák." },
+      "factsAdvanced": { "hu": [
+        "Angola legmagasabb pontja, tengerszint feletti magassága 2620 méter.",
+        "A Huambo tartománybeli Londuimbali községben található.",
+        "Fontos endemikus madárfajok (pl. Swierstra-frankolin) élőhelye.",
+        "A hegyet alkotó kőzet főként ősi gránit.",
+        "Az itteni hegyi erdők az ország legveszélyeztetettebb élőhelyei.",
+        "2014-ben Angola 'hét természeti csodájának' egyikévé választották.",
+        "A csúcsról tiszta időben belátható a központi fennsík egésze.",
+        "A hegy fontos vízgyűjtő terület a környező mezőgazdaság számára."
+      ] }
+    },
+    {
+      "id": "floresta-do-mayombe-nature-v2",
+      "descriptionAdvanced": { "hu": "A Mayombe-erdő Cabinda exklávéban található, és Afrika egyik legnagyobb, összefüggő trópusi esőerdő-rendszerének része. Ezt a területet gyakran 'Afrika tüdejének' is nevezik a sűrű növényzete és hatalmas szénmegkötő képessége miatt. Az erdő biológiai sokfélesége lenyűgöző: ritka keményfák, mint az ébenfa és a mahagóni, valamint veszélyeztetett állatfajok, például gorillák, csimpánzok és erdei elefántok otthona. A Mayombe nemcsak természeti kincs, hanem a helyi lakosság számára is fontos erőforrás, bár a fakitermelés és az orvvadászat komoly veszélyt jelent a fennmaradására. Földrajz K8 — esőerdők és biodiverzitás-védelem." },
+      "factsAdvanced": { "hu": [
+        "Kiterjedése több országot érint, de Angola legfontosabb esőerdője.",
+        "Ritka síkvidéki gorillák és csimpánzok élnek a területén.",
+        "Híres a 60 méternél is magasabbra növő óriásfáiról.",
+        "A terület csapadékmennyisége évente meghaladja a 2000 mm-t.",
+        "Fontos szerepet játszik a regionális klíma szabályozásában.",
+        "A helyi legendák szerint az erdőt szellemek és titokzatos lények lakják.",
+        "A Mayombe-regény (Pepetela műve) nemzetközi hírnevet hozott a helynek.",
+        "Kiemelt természetvédelmi terület, ahol tilos a nagyüzemi fakitermelés."
+      ] }
+    },
+    {
+      "id": "lago-dilolo-nature-v2",
+      "descriptionAdvanced": { "hu": "A Dilolo-tó Angola legnagyobb természetes tava, amely Moxico tartomány keleti részén, 1445 méteres magasságban található. A tó különlegessége, hogy vize kristálytiszta és egész évben állandó a szintje, függetlenül az esős évszakoktól. A helyi legenda szerint a tó egy angyali látogatás és egy önző falu pusztulása révén keletkezett, és a lakók ma is szent helyként tisztelik. A Dilolo-tó gazdag halállománnyal rendelkezik, és fontos megállóhely a költöző madarak számára. A környező szavanna és a tó nyugalma egyedülálló turisztikai vonzerőt jelent a távoli keleti régióban. Földrajz K6 — édesvízi tavak és helyi mitológia." },
+      "factsAdvanced": { "hu": [
+        "Angola legnagyobb természetes tava, hossza kb. 12 km.",
+        "A Moxico tartománybeli Luacano községben található.",
+        "Tengerszint feletti magassága meghaladja az 1400 métert.",
+        "A tó vize a legenda szerint gyógyító erővel bír.",
+        "Fontos táplálékforrás a környék lakói számára (halászat).",
+        "A Dilolo-tó része az ország 'hét természeti csodájának'.",
+        "A víz hőmérséklete állandóan 20-25 Celsius-fok körül mozog.",
+        "A tó környékén ritka vízi madarak és antilopok figyelhetők meg."
+      ] }
+    },
+    {
+      "id": "planalto-de-bie-relief-v2",
+      "descriptionAdvanced": { "hu": "A Bié-felföld (Planalto Central) Angola földrajzi és éghajlati szíve, egy hatalmas fennsík, amely az ország területének jelentős részét elfoglalja. Átlagosan 1500-1800 méter magasan fekszik, és innen ered az ország szinte összes jelentős folyója, köztük a Kwanza, a Cunene és a Kubango. A magasságnak köszönhetően az éghajlat itt mérsékelt és kellemes, ami ideálissá teszi a mezőgazdasági termelésre, különösen a gabonafélék és a gyümölcsök számára. A felföld történelmileg az ország legnépesebb vidéke, és stratégiai fontossága miatt a polgárháború során a leghevesebb harcok színhelye volt. Földrajz K7 — fennsíkok és vízválasztók." },
+      "factsAdvanced": { "hu": [
+        "Angola területének közel 10%-át foglalja el a központi felföld.",
+        "Átlagos tengerszint feletti magassága 1500 és 1800 méter között van.",
+        "Itt találhatók az ország legtermékenyebb mezőgazdasági földjei.",
+        "Ez a régió a 'víztorony', ahonnan a nagy folyók indulnak minden irányba.",
+        "Legmagasabb pontja a közelben található Monte Moco.",
+        "A klíma lehetővé teszi az európai típusú növények termesztését is.",
+        "A felföldet vastag vörös földréteg (laterit) borítja.",
+        "A Benguela-vasútvonal a felföld közepén halad keresztül."
+      ] }
+    },
+    {
+      "id": "serra-da-leba-relief-v2",
+      "descriptionAdvanced": { "hu": "A Serra da Leba Angola egyik legikonikusabb és legtöbbet fényképezett helyszíne, egy meredek hegyvonulat Huíla és Namibe tartományok határán. A hegycsúcsról egy látványos, hajtűkanyarokkal teli szerpentinút vezet le a tengerszint közeli sivatagi síkságra, több mint 1000 méteres szintkülönbséget leküzdve. Az utat a portugál mérnökök építették az 1970-es években, és máig a mérnöki tudomány remekművének számít. A Leba-hágónál gyakran képződik sűrű köd a tengeri levegő és a hegyvidéki klíma találkozásakor, ami misztikus hangulatot kölcsönöz a vízesésekkel tarkított sziklafalaknak. Földrajz K6 — domborzat és közlekedésépítés." },
+      "factsAdvanced": { "hu": [
+        "A hírhedt szerpentinút 56 hajtűkanyarból áll.",
+        "Az út mindössze néhány kilométer alatt több mint 1000 métert ereszkedik.",
+        "A hegyvonulat választja el a Huíla-fennsíkot a Namib-sivatagtól.",
+        "A Leba-hágó tetején egy látványos kilátóterasz található.",
+        "Éjszaka kivilágítva az út úgy néz ki, mint egy világító nyaklánc.",
+        "A hegyoldalban egy állandó vízesés is látható az esős évszakban.",
+        "Az út stratégiai jelentőségű a Namibe kikötője és a belső területek között.",
+        "Angola 'hét természeti csodájának' egyike."
+      ] }
+    },
+    {
+      "id": "deserto-do-namibe-relief-v2",
+      "descriptionAdvanced": { "hu": "A Namib-sivatag angolai szakasza az ország délnyugati részén húzódik, ahol a kopár dűnék és kavicsos síkságok az Atlanti-óceán hűvös vizével találkoznak. Ez a világ egyik legősibb sivataga, ahol az élet az extrém szárazsághoz való alkalmazkodásról szól. A tájat a narancssárga homokdűnék, a sziklás kanyonok és az időszakos folyómedrek (vádik) jellemzik. A sivatagban található meg az egyedülálló Welwitschia növény és a sivatagi elefántok ritka állománya. A reggeli köd, amely a tenger felől érkezik, az egyetlen vízforrás sok élőlény számára ezen a könyörtelen, de gyönyörű vidéken. Földrajz K7 — sivatagi formakincs és alkalmazkodás." },
+      "factsAdvanced": { "hu": [
+        "A világ egyik legősibb sivatagának tekintik.",
+        "Az angolai szakasz Namibe városa és a namíbiai határ között fekszik.",
+        "Híres a Welwitschia mirabilis-ről, ami csak itt él meg.",
+        "A sivatagban találhatók a Colinas do Curoca bizarr kőalakzatai.",
+        "Évi csapadékmennyisége sok helyen kevesebb, mint 20 mm.",
+        "A tengerparti szakaszon gyakori a sűrű ködképződés.",
+        "A sivatag gazdag ásványi kincsekben, főként márványban.",
+        "Területén található az Iona Nemzeti Park, Angola legnagyobb parkja."
+      ] }
+    },
+    {
+      "id": "monte-tundavala-relief-v2",
+      "descriptionAdvanced": { "hu": "A Tundavala-hasadék (Fenda da Tundavala) Angola egyik legdrámaibb természeti látványossága Lubango közelében. Ez egy hatalmas geológiai törésvonal a Huíla-fennsík szélén, ahol a föld hirtelen több mint 1200 métert szakad le az alatta elterülő síkság felé. A peremről lélegzetelállító kilátás nyílik a távoli Namibe-sivatag irányába. A hasadék nemcsak látványos, hanem spirituális jelentőséggel is bír a helyi muila nép számára. A hatalmas sziklafalak és a mély völgyek az erózió évmillióinak munkáját dicsérik, és a hely az ország 'hét természeti csodájának' méltó tagja. Földrajz K6 — tektonika és eróziós formák." },
+      "factsAdvanced": { "hu": [
+        "A függőleges sziklafal magassága helyenként eléri az 1200 métert.",
+        "Lubango városától mindössze 18 kilométerre található.",
+        "A fennsík pereme 2200 méter magasan van a tengerszint felett.",
+        "Tiszta időben a látótávolság meghaladja a 60 kilométert.",
+        "A hasadék falai vulkáni és üledékes kőzetekből épülnek fel.",
+        "Fontos rituális helyszín a helyi közösségek számára.",
+        "A peremnél a hőmérséklet jelentősen alacsonyabb, mint a völgyben.",
+        "Gyakori célpontja a siklóernyősöknek és a sziklamászóknak."
+      ] }
+    },
+    {
+      "id": "mausoleu-agostinho-neto-landmarks-v2",
+      "descriptionAdvanced": { "hu": "Az Agostinho Neto Mauzóleum Luanda leglátványosabb modern emlékműve, amely Angola első elnökének és a függetlenségi harc vezéralakjának állít emléket. A 120 méter magas, obeliszkszerű, futurisztikus betonépítmény a luandai öböl partján magasodik, és távolról egy kilövésre kész rakétára emlékeztet. A szovjet építészeti hatásokat tükröző komplexum nemcsak az elnök nyughelye, hanem egy kulturális központ is, ahol könyvtár és múzeum mutatja be az ország felszabadításának történetét. Az emlékmű körüli hatalmas park a város egyik legfontosabb reprezentatív tere. Történelem K8 — függetlenség és modern építészet." },
+      "factsAdvanced": { "hu": [
+        "Az emlékmű magassága 120 méter, Luanda egyik legmagasabb pontja.",
+        "Antonio Agostinho Neto (1922–1979), az ország első elnöke nyugszik itt.",
+        "A komplexum építése az 1980-as években kezdődött szovjet segítséggel.",
+        "A mauzóleumot végül 2012-ben adták át teljes egészében.",
+        "Az épület formája a 'küzdelmet és a felemelkedést' szimbolizálja.",
+        "A területen található egy dísztó és egy hatalmas felvonulási tér.",
+        "Az elnök szarkofágja az épület központi, szigorúan őrzött termében van.",
+        "Helyszíne a legfontosabb állami ünnepségeknek és koszorúzásoknak."
+      ] }
+    },
+    {
+      "id": "cristo-rei-lubango-landmarks-v2",
+      "descriptionAdvanced": { "hu": "A lubangói Cristo Rei (Krisztus király) szobor a város és a Huíla-fennsík legfontosabb vallási szimbóluma, amely 2100 méter magasan őrzi a vidéket. A 30 méter magas fehér márványszobor a Rio de Janeiro-i és a lisszaboni hasonló emlékművek mintájára készült 1957-ben. A szoborhoz vezető út mentén a keresztút állomásai láthatók, a csúcsról pedig lenyűgöző panoráma nyílik Lubango városára és a környező hegyekre. A helyszín nemcsak a zarándokok, hanem a turisták számára is kötelező látnivaló, különösen naplementekor, amikor az egész völgy arany színben úszik. Földrajz K6 — vallási turizmus és kilátópontok." },
+      "factsAdvanced": { "hu": [
+        "1957-ben épült a portugál gyarmati időszak alatt.",
+        "A szobor alapzata egy 2100 méter magas hegyen (Serra de Chela) fekszik.",
+        "Maga a szobor 30 méter magas, anyaga fehér márvány.",
+        "A Rio de Janeiro-i Megváltó Krisztus szobor másolata.",
+        "A szobor karjai a város felé nyúlnak, a védelmet szimbolizálva.",
+        "A helyszín 2014-ben bekerült Angola 'hét csodája' közé.",
+        "A csúcsról látható a Tundavala-hasadék felé vezető út is.",
+        "Éjszaka kivilágítva a szobor a város minden pontjáról látszik."
+      ] }
+    },
+    {
+      "id": "ao-lauca-dam-economic-v2",
+      "descriptionAdvanced": { "hu": "A Lauca-vízerőmű a Kwanza-folyón Angola legnagyobb és egész Afrika egyik legjelentősebb energetikai létesítménye. A hatalmas gát és a hozzá tartozó generátorok több mint 2000 megawatt villamos energiát képesek termelni, ami alapjaiban változtatta meg az ország áramellátását, csökkentve a fosszilis tüzelőanyagoktól való függőséget. Az építkezés során a legmodernebb mérnöki megoldásokat alkalmazták, beleértve a folyó elterelését és a hatalmas víztározó kialakítását. A Lauca nemcsak ipari létesítmény, hanem a nemzeti újjáépítés és a modernizáció jelképe is, amely energiát biztosít a gyáraknak és otthonok millióinak. Földrajz K7 — megújuló energia és gátépítés." },
+      "factsAdvanced": { "hu": [
+        "Beépített teljesítménye 2070 megawatt.",
+        "A Kwanza-folyó középső szakaszán, Malanje és Cuanza Norte határán fekszik.",
+        "A gát magassága 132 méter, hossza több mint egy kilométer.",
+        "Víztározója 188 négyzetkilométer területet fed le.",
+        "Az ország elektromos szükségletének jelentős részét ez az egy gát fedezi.",
+        "2017-ben kezdték meg az első turbinák üzemeltetését.",
+        "Építése során több mint 10 000 embernek adott munkát.",
+        "Kulcsszerepet játszik az ország iparosítási programjában."
+      ] }
+    },
+    {
+      "id": "ao-catumbela-industrial-pole-economic-v2",
+      "descriptionAdvanced": { "hu": "A Catumbela Ipari Park (Polo Industrial da Catumbela) Benguela tartomány gazdasági motorja, amely stratégiai helyen, Lobito kikötője és Benguela városa között fekszik. Ez a zóna az ország egyik legszervezettebb ipari területe, ahol számos hazai és nemzetközi vállalat alapított gyárat, kihasználva a kiváló logisztikai kapcsolatokat (vasút, tengeri kikötő és repülőtér). Itt elsősorban élelmiszer-feldolgozás, építőanyag-gyártás és logisztikai szolgáltatások zajlanak. A park fejlődése kulcsfontosságú az importhelyettesítés szempontjából, elősegítve, hogy Angola több terméket állítson elő belföldön a lakosság számára. Gazdaságtan K7 — ipari zónák és helyi termelés." },
+      "factsAdvanced": { "hu": [
+        "Benguela és Lobito városok között helyezkedik el.",
+        "Területe több száz hektárt ölel fel, modern infrastruktúrával.",
+        "Közvetlen közelében található a modern Catumbela nemzetközi repülőtér.",
+        "Több mint 50 aktív gyárnak és raktárnak ad otthont.",
+        "Itt találhatók az ország legmodernebb italpalackozó üzemei.",
+        "A park saját áram- és vízellátó hálózattal rendelkezik.",
+        "Fontos szerepet tölt be a fiatal diplomások foglalkoztatásában.",
+        "A Benguela-vasútvonal közvetlen iparvágánnyal csatlakozik hozzá."
+      ] }
+    },
+    {
+      "id": "ao-port-of-cabinda-economic-v2",
+      "descriptionAdvanced": { "hu": "A cabindai kikötő az azonos nevű exklávé kapuja, amely elengedhetetlen a régió gazdasági túlélése és fejlődése szempontjából. Mivel Cabinda nincs szárazföldi összeköttetésben Angola többi részével, a kikötőn keresztül érkezik szinte minden alapvető árucikk, élelmiszer és építőanyag. A kikötő jelentősége az olajipar kiszolgálásában is óriási, hiszen itt rakodják ki a fúrótornyokhoz szükséges berendezéseket. A folyamatban lévő mélyvízi kikötő fejlesztés (Caio kikötő) célja, hogy Cabinda a régió egyik legfontosabb transzfer központjává váljon, csökkentve a szállítási költségeket és fellendítve a helyi kereskedelmet. Földrajz K7 — exklávék logisztikája és tengeri kereskedelem." },
+      "factsAdvanced": { "hu": [
+        "Cabinda exklávé legfontosabb ellátási csomópontja.",
+        "Létfontosságú a régió offshore olajipara számára.",
+        "A jelenlegi kikötő mellett épül az új, mélyvízi Porto do Caio.",
+        "Évente több százezer tonna élelmiszert és fogyasztási cikket kezel.",
+        "Közvetlen tengeri kapcsolatot biztosít Luandával és Ponta Negrával.",
+        "Saját úszó darukkal és modern raktárbázissal rendelkezik.",
+        "Fontos szerepet tölt be a két Kongó közötti tranzitforgalomban.",
+        "A fejlesztés után Afrika egyik legmodernebb kikötője lesz a térségben."
+      ] }
+    },
+    {
+      "id": "ao-port-of-soyo-economic-v2",
+      "descriptionAdvanced": { "hu": "Soyo kikötője a Kongó-folyó torkolatánál Angola energetikai jövőjének egyik legfontosabb bázisa. A kikötő elsősorban a földgáz- (LNG) és olajipari tevékenységekre szakosodott, kiszolgálva a közeli feldolgozóüzemeket és offshore mezőket. A stratégiai fekvésű kikötő mélyvízi termináljai alkalmasak a hatalmas gázszállító hajók fogadására, amelyek innen juttatják el az angolai energiát a világpiacra. Soyo kikötője emellett fontos regionális kereskedelmi központ is, amely összeköti az északi tartományokat a Kongó-folyó menti országokkal, elősegítve a határ menti gazdasági együttműködést. Földrajz K8 — energia-export és folyami torkolatok." },
+      "factsAdvanced": { "hu": [
+        "A Kongó-folyó torkolatánál, Zaire tartományban található.",
+        "Az Angola LNG projekt dedikált gáztermináljának ad otthont.",
+        "A kikötő mélysége alkalmas a legnagyobb tartályhajók fogadására is.",
+        "Fontos logisztikai bázis a Kwanda szigeten található olajipari központnak.",
+        "Hagyományosan fontos halászkikötő is a helyi lakosság számára.",
+        "Stratégiai kapu a Kongói Demokratikus Köztársaság felé.",
+        "Modern radartechnológiával és biztonsági rendszerrel van felszerelve.",
+        "Jelentős szerepet játszik a környező mangroveerdők védelmében is."
+      ] }
+    },
+    {
+      "id": "ao-capanda-dam-economic-v2",
+      "descriptionAdvanced": { "hu": "A Capanda-vízerőmű a Kwanza-folyón az angolai energetikai önállóság egyik úttörője és legfontosabb mérnöki létesítménye. Az 520 megawatt teljesítményű gátat évtizedeken át építették, túlvészelve a polgárháború legnehezebb időszakait is. A hatalmas betonépítmény nemcsak áramot termel Luanda és a központi tartományok számára, hanem szabályozza a Kwanza-folyó vízszintjét is, lehetővé téve a mezőgazdasági öntözést a völgyben. Capanda a nemzeti kitartás jelképe, amelynek víztározója új lehetőségeket nyitott a halászat és a turizmus számára is a régióban. Földrajz K7 — vízenergia és vízkészlet-gazdálkodás." },
+      "factsAdvanced": { "hu": [
+        "Beépített teljesítménye 520 megawatt (4 turbina).",
+        "Malanje tartományban található, a Kwanza-folyó felső szakaszán.",
+        "A gát magassága 110 méter, hossza 1,2 kilométer.",
+        "Építése már az 1980-as években elkezdődött, de a háború hátráltatta.",
+        "Víztározója hatalmas mennyiségű vizet tárol (több mint 4 milliárd m³).",
+        "Kulcsszerepet játszik a nemzeti villamosenergia-hálózat stabilizálásában.",
+        "A gát környéke szigorúan védett övezet.",
+        "Látványos zsiliprendszere és vízesései turistákat is vonzanak."
+      ] }
+    },
+    {
+      "id": "ao-sonils-logistics-base-economic-v2",
+      "descriptionAdvanced": { "hu": "A SONILS (Sonangol Integrated Logistics Services) logisztikai bázis Luandában Angola olajiparának szíve és motorja. Ez a hatalmas, speciális kikötői és raktározási komplexum kifejezetten az offshore olaj- és gázkitermelés támogatására jött létre. Itt minden megtalálható, amire egy olajfúró toronynak szüksége lehet: az élelmiszertől az üzemanyagon át a bonyolult fúróberendezésekig és a speciális csővezetékekig. A SONILS területe egyfajta 'város a városban', ahol nemzetközi olajvállalatok (mint a TotalEnergies, Chevron, BP) bázisai sorakoznak, biztosítva a folyamatos és biztonságos energiatermelést az ország számára. Gazdaságtan K8 — logisztikai láncok és energia-infrastruktúra." },
+      "factsAdvanced": { "hu": [
+        "A luandai kikötő területén található, több mint 2 millió m²-en.",
+        "Angola offshore olajtermelésének fő logisztikai bázisa.",
+        "Hivatalosan 1995-ben kezdte meg működését.",
+        "Saját dedikált rakparttal rendelkezik a speciális ellátóhajóknak.",
+        "Több mint 50 nemzetközi és hazai olajipari vállalatnak ad otthont.",
+        "A bázis 24 órás üzemmódban működik az év minden napján.",
+        "Szigorú nemzetközi biztonsági és környezetvédelmi előírások érvényesek.",
+        "Kulcsszerepet játszik az ország GDP-jének előállításában."
+      ] }
+    }
+  ]
+}

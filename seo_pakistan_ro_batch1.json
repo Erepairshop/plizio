@@ -1,0 +1,115 @@
+{
+  "lang": "ro",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sadiqabad-cities-v2",
+      "descriptionAdvanced": "Sadiqabad este un oraș important din districtul Rahim Yar Khan, situat în sudul provinciei Punjab din Pakistan, aproape de granița cu provinciile Sindh și Balochistan. Cu o populație în creștere rapidă, care a depășit 260.000 de locuitori în ultimul deceniu, a devenit un centru agricol și industrial vital pentru regiune. Orașul este cunoscut pentru producția sa masivă de bumbac, grâu și trestie de zahăr, fiind susținut de rețele de irigații extinse dezvoltate în secolul 20. De asemenea, găzduiește fabrici majore de îngrășăminte, precum Fauji Fertilizer Company. Geografie K7 — așezări și dezvoltare industrială.",
+      "factsAdvanced": ["Situat în districtul Rahim Yar Khan", "Populația depășește 260.000 de locuitori", "Nod agricol pentru bumbac și trestie de zahăr", "Găzduiește Fauji Fertilizer Company", "Aproape de granița cu Sindh și Balochistan", "A cunoscut o creștere economică rapidă din anii 1980"]
+    },
+    {
+      "id": "mirpur-khas-cities-v2",
+      "descriptionAdvanced": "Mirpur Khas, fondat în 1906, este un oraș istoric din provincia Sindh, celebru în întreaga țară ca "orașul mangoului" datorită livezilor sale vaste. În fiecare an, orașul găzduiește un festival național dedicat acestui fruct, atrăgând mii de vizitatori. Istoric, regiunea a fost un centru al agriculturii bazate pe irigații după construirea canalului Jamrao în anul 1900. Astăzi, găzduiește peste 230.000 de locuitori și rămâne un punct nodal pentru comerțul cu produse agricole. Geografie K7 — agricultură și tradiții regionale.",
+      "factsAdvanced": ["Fondat oficial în anul 1906", "Cunoscut sub numele de "orașul mangoului"", "Canalul Jamrao a fost construit aici în 1900", "Găzduiește festivalul anual național al mangoului", "Populația depășește 230.000 de locuitori", "Un important centru de distribuție agricolă din Sindh"]
+    },
+    {
+      "id": "kamoke-cities-v2",
+      "descriptionAdvanced": "Kamoke, situat pe renumitul drum Grand Trunk în districtul Gujranwala din Punjab, este unul dintre cele mai mari centre de procesare a orezului din regiune. Această localitate este recunoscută pe plan național pentru recoltele sale excepționale de orez basmati, având o piață enormă de cereale (ghalla mandi) care gestionează mii de tone de orez anual. Datorită industrializării și proximității față de Lahore, populația a crescut semnificativ, depășind 160.000 de locuitori. Economia locală se bazează puternic pe morile de orez și textile. Geografie K7 — industria alimentară și rute comerciale.",
+      "factsAdvanced": ["Situat pe istoricul Grand Trunk Road", "Unul dintre cele mai mari centre de orez basmati", "Populația este de peste 160.000 de locuitori", "Piața locală de cereale este printre cele mai aglomerate", "Are o economie bazată pe morărit și textile", "Face parte din districtul Gujranwala din Punjab"]
+    },
+    {
+      "id": "hafizabad-cities-v2",
+      "descriptionAdvanced": "Hafizabad, fondat de nobilul Mughal Hafiz în secolul al 16-lea, este un oraș antic din Punjab, supranumit "Orașul Orezului" (Shiraz-ul-Mashriq). Este un lider în exportul de orez basmati de cea mai înaltă calitate, care ajunge pe piețele internaționale din Orientul Mijlociu și Europa. Cu o populație de peste 240.000 de locuitori, zona a beneficiat de pe urma canalului Chenab, care a transformat terenurile aride într-un centru agricol prosper încă din perioada colonială britanică. Geografie K7 — exporturi agricole și istorie Mughal.",
+      "factsAdvanced": ["Fondat de un nobil Mughal în secolul 16", "Cunoscut internațional ca "Orașul Orezului"", "Exportator principal de orez basmati premium", "Canalul Chenab a revoluționat agricultura locală", "Populația orașului depășește 240.000 de locuitori", "O parte esențială a economiei rurale din Punjab"]
+    },
+    {
+      "id": "kohat-cities-v2",
+      "descriptionAdvanced": "Kohat este un oraș istoric și strategic din provincia Khyber Pakhtunkhwa, situat la sud de Peshawar. Regiunea a fost locuită încă din antichitate și este faimoasă pentru izvoarele sale naturale și bazarurile pline de viață. Fortul Kohat, construit în perioada colonială britanică, rămâne un monument istoric important, simbolizând rolul orașului ca post de frontieră. Astăzi, orașul are peste 220.000 de locuitori și este înconjurat de munți pitorești, fiind, de asemenea, cunoscut pentru livezile de guava. Geografie K7 — topografie montană și istorie militară.",
+      "factsAdvanced": ["Situat în provincia Khyber Pakhtunkhwa", "Cunoscut pentru izvoarele naturale și livezile de guava", "Fortul Kohat a fost construit în epoca britanică", "Populația este de peste 220.000 de locuitori", "Funcționează ca un important post de frontieră comercială", "Înconjurat de peisaje montane spectaculoase"]
+    },
+    {
+      "id": "jhelum-city-cities-v2",
+      "descriptionAdvanced": "Jhelum, adesea numit "Orașul Soldaților" datorită istoriei sale lungi de a furniza militari pentru forțele armate, este situat pe malul drept al râului Jhelum, în nordul Punjabului. Istoria sa datează din timpul bătăliei de la Hydaspes (326 î.Hr.), când Alexandru cel Mare a luptat împotriva regelui Porus în apropiere. Astăzi, cu o populație de peste 190.000 de locuitori, orașul combină patrimoniul istoric bogat cu industriile moderne, inclusiv prelucrarea lemnului și fabricile de textile. Istorie K8 — campaniile lui Alexandru cel Mare și orașe riverane.",
+      "factsAdvanced": ["Cunoscut național ca "Orașul Soldaților"", "Situat pe malul drept al râului Jhelum", "Aproape de locul bătăliei lui Alexandru cel Mare din 326 î.Hr.", "Populația depășește 190.000 de locuitori", "Important centru pentru prelucrarea lemnului și textile", "Un punct cheie pe ruta Grand Trunk Road"]
+    },
+    {
+      "id": "sahiwal-cities-v2",
+      "descriptionAdvanced": "Sahiwal, cunoscut anterior sub numele de Montgomery în perioada colonială, este un oraș prosper din regiunea centrală a Punjabului. A fost fondat în 1865 și a devenit rapid un centru agricol și de creștere a animalelor, fiind celebru pentru rasa de vite Sahiwal, recunoscută mondial pentru producția ridicată de lapte și rezistența la căldură. Cu o populație de aproximativ 380.000 de locuitori, orașul găzduiește instituții educaționale prestigioase și industrii prelucrătoare. Geografie K7 — zootehnie și planificare urbană colonială.",
+      "factsAdvanced": ["Fostul nume al orașului era Montgomery (până în 1966)", "Fondat oficial în anul 1865", "Faimos pentru rasa de vite de lapte Sahiwal", "Populația orașului este de aproximativ 380.000 de locuitori", "Un hub major pentru comerțul agricol din Punjab", "Găzduiește relicve din perioada civilizației Harappa în apropiere"]
+    },
+    {
+      "id": "khanewal-cities-v2",
+      "descriptionAdvanced": "Khanewal este un oraș din sudul Punjabului și servește drept unul dintre cele mai importante noduri feroviare din Pakistan. Istoria sa modernă a început odată cu stabilirea unei mari joncțiuni feroviare în timpul dominației britanice, care leagă orașe majore precum Lahore, Karachi și Multan. Regiunea înconjurătoare este extrem de fertilă, producând cantități masive de bumbac, care alimentează numeroasele fabrici textile din oraș. Populația sa a crescut la peste 220.000 de locuitori. Geografie K7 — infrastructură de transport și agricultură.",
+      "factsAdvanced": ["Unul dintre cele mai importante noduri feroviare din Pakistan", "Conectează direct rutele dintre Karachi și Lahore", "O regiune agricolă majoră pentru bumbac", "Populația depășește 220.000 de locuitori", "Are numeroase fabrici de prelucrare a textilelor", "Dezvoltat puternic în timpul rețelei feroviare britanice"]
+    },
+    {
+      "id": "gojra-cities-v2",
+      "descriptionAdvanced": "Gojra, situat în districtul Toba Tek Singh din Punjab, este un oraș faimos în Pakistan pentru contribuția sa extraordinară la sportul național, hocheiul pe iarbă. De-a lungul deceniilor, acest oraș a produs peste 100 de jucători internaționali de hochei care au reprezentat țara la Jocurile Olimpice. Pe lângă sport, orașul se remarcă prin piețele sale agricole animate și o populație de aproximativ 170.000 de locuitori. Este un nod vital pentru fermierii de trestie de zahăr din zonă. Geografie K7 — cultura sportivă și economia rurală.",
+      "factsAdvanced": ["Renumit pentru producerea de jucători internaționali de hochei", "Situat în districtul Toba Tek Singh", "Peste 100 de sportivi olimpici au origini aici", "Populația este de aproximativ 170.000 de locuitori", "Centru important pentru comerțul cu trestie de zahăr", "Deține o infrastructură sportivă bine dezvoltată"]
+    },
+    {
+      "id": "mandi-bahauddin-cities-v2",
+      "descriptionAdvanced": "Mandi Bahauddin se află în regiunea centrală a provinciei Punjab, fiind mărginit de râurile Jhelum și Chenab. Orașul este denumit după fondatorul său, Bahauddin, și cuvântul "mandi" care înseamnă piață. Orașul este un centru vibrant de comerț agricol, în special pentru grâu și orez. Are o populație de peste 190.000 de locuitori și se mândrește cu faimosul monument al Bătăliei de la Chillianwala (1849) aflat în apropiere. Geografie K7 — sisteme hidrografice și piețe agricole.",
+      "factsAdvanced": ["Numele înseamnă "Piața lui Bahauddin"", "Situat între râurile importante Jhelum și Chenab", "Aproape de situl istoric al Bătăliei de la Chillianwala (1849)", "Populația se apropie de 190.000 de locuitori", "Hub central pentru distribuția de orez și grâu", "O regiune puternic dependentă de canalele de irigație"]
+    },
+    {
+      "id": "muridke-cities-v2",
+      "descriptionAdvanced": "Muridke este un oraș industrial cu o creștere rapidă, situat foarte aproape de granița cu Lahore, în districtul Sheikhupura. Această localitate, care găzduiește peste 160.000 de locuitori, s-a transformat dintr-un mic sat agricol într-un centru comercial dinamic, având zeci de fabrici moderne care produc ceramică, textile și echipamente electronice. Poziția sa strategică pe Grand Trunk Road facilitează transportul eficient de mărfuri către capitala provinciei și mai departe. Geografie K7 — expansiune urbană și industrializare.",
+      "factsAdvanced": ["Situat în proximitatea orașului Lahore", "Aflat în districtul Sheikhupura, pe Grand Trunk Road", "Populația depășește 160.000 de locuitori", "Un hub major pentru fabricile de ceramică și textile", "A experimentat o transformare industrială masivă", "Beneficiază de acces facil la rutele comerciale principale"]
+    },
+    {
+      "id": "tando-adam-cities-v2",
+      "descriptionAdvanced": "Tando Adam Khan, situat în districtul Sanghar din provincia Sindh, este faimos pentru fabricile sale tradiționale și artizanatul local. Orașul are o istorie bogată legată de dinastia Talpur, fiind fondat în secolul 18. Astăzi, găzduiește peste 150.000 de locuitori și este un centru vital pentru industria textilă, covoare țesute manual și comerțul cu bumbac. Bumbacul de înaltă calitate produs în regiunea înconjurătoare alimentează zeci de fabrici de egrenare din oraș. Geografie K7 — meșteșuguri locale și economia bumbacului.",
+      "factsAdvanced": ["Fondat în secolul 18 sub domnia dinastiei Talpur", "Situat în districtul Sanghar, provincia Sindh", "Populația este de aproximativ 150.000 de locuitori", "Renumit pentru covoarele și textilele țesute manual", "Centru important pentru fabricile de egrenare a bumbacului", "Păstrează arhitectura tradițională a regiunii Sindh"]
+    },
+    {
+      "id": "tando-allahyar-cities-v2",
+      "descriptionAdvanced": "Tando Allahyar este un oraș vibrant din regiunea Sindh, fondat în 1709 prin construcția unui fort de chirpici pentru a proteja rutele comerciale. Orașul este renumit în tot Pakistanul pentru livezile sale excepționale de mango și producția de trestie de zahăr. O fabrică mare de zahăr operează aici, asigurând locuri de muncă pentru comunitatea locală de peste 150.000 de locuitori. Clima caldă și solul fertil fac din această zonă un paradis agricol prosper. Geografie K7 — agricultură comercială și climă.",
+      "factsAdvanced": ["Fondat în anul 1709 ca un fort de apărare", "Renumit pentru fermele mari de mango de înaltă calitate", "Găzduiește o industrie importantă a trestiei de zahăr", "Populația depășește 150.000 de locuitori", "Situat pe o rută comercială antică din Sindh", "Economia este predominant agrară și de procesare alimentară"]
+    },
+    {
+      "id": "chiniot-cities-v2",
+      "descriptionAdvanced": "Chiniot, situat pe malurile râului Chenab din provincia Punjab, este faimos în întreaga lume pentru artizanii săi excepționali în sculptura în lemn și fabricarea mobilei de lux. Istoria orașului se întinde pe mii de ani, fiind un punct de trecere important pentru regiune. Astăzi, având aproape 270.000 de locuitori, orașul atrage atenția și pentru arhitectura sa impresionantă, cum ar fi Palatul Omar Hayat, o capodoperă a artei decorative locale construite în anii 1920. Geografie K7 — meșteșuguri, istorie arhitecturală.",
+      "factsAdvanced": ["Cunoscut global pentru mobilierul sculptat în lemn", "Situat pe malul râului Chenab", "Găzduiește spectaculosul Palat Omar Hayat din 1920", "Populația depășește 270.000 de locuitori", "Are o istorie antică legată de rutele comerciale", "Artizanii locali exportă mobilier în întreaga lume"]
+    },
+    {
+      "id": "khuzdar-cities-v2",
+      "descriptionAdvanced": "Khuzdar este al treilea cel mai mare oraș din provincia Balochistan și funcționează ca un centru strategic între Quetta și Karachi. Datorită poziției sale, a devenit un nod comercial crucial. Orașul este înconjurat de un relief muntos și arid, dar găzduiește universități și instituții importante de inginerie. Cu o populație de peste 270.000 de locuitori, regiunea sa ascunde bogate rezerve de minerale, inclusiv barită. Geografie K7 — resurse minerale și topografie aridă.",
+      "factsAdvanced": ["Al treilea oraș ca mărime din Balochistan", "Funcționează ca punct de legătură între Quetta și Karachi", "Populația a crescut la peste 270.000 de locuitori", "Regiunea este bogată în resurse minerale, precum barita", "Găzduiește Universitatea de Inginerie din Balochistan", "Situat într-o regiune muntoasă și semiaridă"]
+    },
+    {
+      "id": "vehari-cities-v2",
+      "descriptionAdvanced": "Vehari este recunoscut ca inima agricolă a sudului Punjabului, fiind supranumit "Orașul Bumbacului" datorită solurilor sale incredibil de fertile și a sistemelor de irigații. Orașul contribuie masiv la PIB-ul agricol al Pakistanului, gestionând mii de ferme și piețe de tranzacționare. Pe lângă agricultură, infrastructura educațională s-a dezvoltat, având campusuri universitare pentru cei peste 140.000 de locuitori. Verile sunt extrem de fierbinți, optime pentru culturile de vară. Geografie K7 — agricultură intensivă și sisteme de irigații.",
+      "factsAdvanced": ["Cunoscut ca centrul agricol al sudului Punjabului", "Supranumit "Orașul Bumbacului" datorită producției mari", "Populația orașului este de peste 140.000 de locuitori", "Are o rețea vastă de irigații din râurile din apropiere", "Clima este extrem de caldă în lunile de vară", "Contribuie semnificativ la industria textilă națională"]
+    },
+    {
+      "id": "daska-cities-v2",
+      "descriptionAdvanced": "Daska, situat în districtul Sialkot din regiunea Punjab, este un pol industrial înfloritor, recunoscut la nivel național pentru producția sa extinsă de utilaje agricole, piese auto și instrumente chirurgicale. Aflat într-o zonă puternic urbanizată, orașul are o populație de aproximativ 170.000 de locuitori și un spirit antreprenorial dinamic. Daska găzduiește, de asemenea, numeroase piețe de produse locale, susținând satele învecinate prin inovație tehnică. Geografie K7 — industria ușoară și inginerie.",
+      "factsAdvanced": ["Faimos pentru fabricarea de utilaje și unelte agricole", "Aflat în prosperul district Sialkot din Punjab", "Populația depășește 170.000 de locuitori", "Un centru vital pentru producția de piese auto locale", "Cunoscut pentru atitudinea antreprenorială puternică", "Susține satele agricole prin tehnologie"]
+    },
+    {
+      "id": "mansehra-cities-v2",
+      "descriptionAdvanced": "Mansehra, situat pe legendara autostradă Karakoram din provincia Khyber Pakhtunkhwa, este un oraș cu o importanță istorică și turistică uriașă. Orașul își trage numele de la un general sikh, Mahan Singh Mirpuri. Aici se găsesc Edictelor din piatră ale împăratului Ashoka (secolul 3 î.Hr.), o comoară arheologică inestimabilă. Cu o populație de peste 120.000 de locuitori, orașul servește drept poartă de acces către magnifica vale Kaghan și regiunile montane înalte. Istorie K8 — imperiul Maurya și turismul montan.",
+      "factsAdvanced": ["Găzduiește Edictele antice de piatră ale lui Ashoka (sec 3 î.Hr.)", "Poartă de acces către faimoasa vale Kaghan", "Situat de-a lungul autostrăzii Karakoram", "Denumit după generalul sikh Mahan Singh Mirpuri", "Populația urbană este de peste 120.000 de locuitori", "Un important centru pentru turismul montan din nord"]
+    },
+    {
+      "id": "toba-tek-singh-cities-v2",
+      "descriptionAdvanced": "Toba Tek Singh, situat în centrul Punjabului, și-a luat numele de la un filantrop religios sikh pe nume Tek Singh, care oferea apă călătorilor. Orașul a devenit faimos prin povestirea omonimă scrisă de celebrul autor Saadat Hasan Manto. Astăzi, este un oraș pașnic cu o populație de peste 87.000 de locuitori, cunoscut pentru livezile sale productive de citrice (în special mandarine kinnow). Agricultura locală este susținută de sistemul de irigații din perioada colonială britanică. Literatură K8 — patrimoniu literar și istorie.",
+      "factsAdvanced": ["Denumit după figura istorică sikh Tek Singh", "Făcut celebru de scriitorul Saadat Hasan Manto", "Cunoscut pentru producția de citrice (mandarine kinnow)", "Populația este de peste 87.000 de locuitori", "Beneficiază de canale de irigații coloniale", "Are o importanță literară simbolică în regiune"]
+    },
+    {
+      "id": "shikarpur-cities-v2",
+      "descriptionAdvanced": "Shikarpur este un oraș istoric cu o arhitectură uimitoare, fondat în 1617, și situat în provincia Sindh. În secolele 18 și 19, a fost un centru financiar vital și un punct cheie pe rutele comerciale dintre Asia Centrală și subcontinentul indian. Orașul este celebru pentru ușile sale complicate din lemn, bazarurile antice (cum arজীবী cum ar fi Dhak Bazar) și o cultură culinară bogată, inclusiv murăturile faimoase. Astăzi, are o populație de peste 190.000 de locuitori, conservând multe dintre casele sale comerciale magnifice. Istorie K8 — rute comerciale antice și arhitectură.",
+      "factsAdvanced": ["Fondat oficial în anul 1617", "A fost un hub financiar cheie în secolele 18 și 19", "Cunoscut pentru bazarul acoperit Dhak Bazar", "Celebru pe plan național pentru murăturile sale", "Populația orașului depășește 190.000 de locuitori", "Arhitectura sa include uși de lemn detaliat sculptate"]
+    }
+  ]
+}

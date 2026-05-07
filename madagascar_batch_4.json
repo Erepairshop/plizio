@@ -1,0 +1,127 @@
+[
+  {
+    "id": "toliara-sands-economic-v2",
+    "name": "Toliara Sands Project",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "savonnerie-tropicale-economic-v2",
+    "name": "Savonnerie Tropicale Soap Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "jb-confectionery-economic-v2",
+    "name": "JB Confectionery Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "tsimiroro-oil-economic-v2",
+    "name": "Tsimiroro Oil Field",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "bemolanga-tar-sands-economic-v2",
+    "name": "Bemolanga Tar Sands",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "sakoa-coal-economic-v2",
+    "name": "Sakoa Coal Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "fanalamanga-forestry-economic-v2",
+    "name": "Fanalamanga Forestry Company",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "pecheries-nosy-be-economic-v2",
+    "name": "Nosy Be Fishery Plant",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "somacou-textile-economic-v2",
+    "name": "SOMACOU Textile Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "antsingy-port-economic-v2",
+    "name": "Antsingy River Port",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "maintirano-port-economic-v2",
+    "name": "Port of Maintirano",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "sainte-marie-port-economic-v2",
+    "name": "Ambodifotatra Port",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "soavoanio-coconut-economic-v2",
+    "name": "Soavoanio Coconut Processing",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "ambohimanga-royal-hill-history-v2",
+    "name": "Royal Hill of Ambohimanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "rova-antananarivo-history-v2",
+    "name": "Rova of Antananarivo",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "ile-sainte-marie-pirate-cemetery-history-v2",
+    "name": "Sainte Marie Pirate Cemetery",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "fianarantsoa-old-town-history-v2",
+    "name": "Fianarantsoa Old Town",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "fort-dauphin-tolanaro-history-v2",
+    "name": "Fort Dauphin",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "prime-minister-palace-andafiavaratra-history-v2",
+    "name": "Andafiavaratra Palace",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "maromokotro-royal-tombs-history-v2",
+    "name": "Royal Tombs of Maromokotro",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "amozon-fort-flacourt-history-v2",
+    "name": "Fort Flacourt",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "ila-fitsarana-history-v2",
+    "name": "Ila Fitsarana",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "betioky-royal-tombs-history-v2",
+    "name": "Mahafaly Tombs of Betioky",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "mahabo-royal-cemetery-history-v2",
+    "name": "Mahabo Royal Cemetery",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "zoma-market-historical-site-history-v2",
+    "name": "Historical Zoma Market",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  }
+]

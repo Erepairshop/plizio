@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "saratoga-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Saratoga, gelegen im malerischen Hudson-Tal in New York, ist der historische Ort eines der absolut entscheidendsten Wendepunkte in der gesamten Weltgeschichte. Im Herbst 1777 erlitt hier eine gigantische britische Armee unter General John Burgoyne eine vernichtende Niederlage gegen die amerikanischen Truppen unter Horatio Gates und Benedict Arnold. Dieser triumphale, unerwartete amerikanische Sieg überzeugte das Königreich Frankreich endgültig davon, dass die amerikanischen Rebellen gewinnen konnten. Daraufhin trat Frankreich mit massiver finanzieller, militärischer und maritimer Unterstützung offiziell in den Unabhängigkeitskrieg ein – eine Allianz, ohne die die Vereinigten Staaten wahrscheinlich nie unabhängig geworden wären. Geschichte K8 — Der Wendepunkt von Saratoga und die französische Allianz.",
+      "factsAdvanced": [
+        "Schauplatz der entscheidenden Schlacht von Saratoga im Herbst 1777",
+        "Die Niederlage zwang eine komplette britische Armee zur bedingungslosen Kapitulation",
+        "Gilt historisch als der absolute Wendepunkt des Amerikanischen Unabhängigkeitskriegs",
+        "Der Sieg überzeugte Frankreich, offiziell in den Krieg gegen Großbritannien einzutreten",
+        "Benedict Arnold kämpfte hier heldenhaft für Amerika, bevor er später zum Verräter wurde",
+        "Der Saratoga National Historical Park bewahrt das hügelige Schlachtfeld am Hudson River"
+      ]
+    },
+    {
+      "id": "gateway-arch-landmarks-v2",
+      "descriptionAdvanced": "Der Gateway Arch in St. Louis, Missouri, ist mit einer Höhe und Breite von exakt 192 Metern das gigantischste von Menschenhand geschaffene Monument in den gesamten Vereinigten Staaten. Entworfen von dem finnisch-amerikanischen Stararchitekten Eero Saarinen und 1965 aus glänzendem Edelstahl fertiggestellt, markiert der Bogen symbolisch die massenhafte Expansion der USA in den amerikanischen Westen nach dem 'Louisiana Purchase'. Die Ingenieursleistung ist bis heute unerreicht; die beiden massiven Beine wurden ohne inneres Stützgerüst völlig freistehend in den Himmel gebaut, bis sie sich im Schlussstein trafen. Ein einzigartiges, komplexes Straßenbahnsystem transportiert Besucher durch die gebogenen Beine bis in die kleine Aussichtsplattform an der Spitze. Architektur K8 — Symbolik und Stahlkonstruktionen der Moderne.",
+      "factsAdvanced": [
+        "Mit 192 Metern das höchste Nationalmonument der USA und das höchste Gebäude in Missouri",
+        "Entworfen von Eero Saarinen als Symbol für das 'Tor zum Westen'",
+        "Besteht außen komplett aus rostfreiem Edelstahl, der in der Sonne stark reflektiert",
+        "Die Beine haben unterschiedliche Fundamente, treffen sich aber millimetergenau in der Mitte",
+        "Besitzt ein einzigartiges Schienensystem (eine Mischung aus Aufzug und Riesenrad) im Inneren",
+        "Wurde 2018 offiziell zum Herzstück des Gateway Arch National Parks erklärt"
+      ]
+    },
+    {
+      "id": "mount-rushmore-landmarks-v2",
+      "descriptionAdvanced": "Das Mount Rushmore National Memorial liegt in den Black Hills von South Dakota und ist eines der ikonischsten und umstrittensten Wahrzeichen der Welt. Zwischen 1927 und 1941 sprengte und meißelte der Bildhauer Gutzon Borglum zusammen mit 400 Arbeitern die 18 Meter hohen Porträts von vier US-Präsidenten direkt in die Granitwand des Berges: George Washington (Geburt der Nation), Thomas Jefferson (Wachstum), Theodore Roosevelt (Entwicklung) und Abraham Lincoln (Erhalt). Das Monument zieht jährlich fast drei Millionen Touristen an. Gleichzeitig ist der Ort Schauplatz tiefer Konflikte, da die Black Hills für die Lakota-Sioux extrem heiliges Land sind, das ihnen von der US-Regierung in einem gebrochenen Vertrag (Fort Laramie 1868) illegal entzogen wurde. Geschichte K8 — Monumentalbildhauerei und indigene Landrechte.",
+      "factsAdvanced": [
+        "Zeigt gigantische (18 m hohe) Granitporträts von Washington, Jefferson, Roosevelt und Lincoln",
+        "Wurde zwischen 1927 und 1941 unter der Leitung des Bildhauers Gutzon Borglum erschaffen",
+        "Über 90 Prozent des Gesteins wurden mit enormer Präzision durch Dynamit abgesprengt",
+        "Steht im Zentrum der Black Hills, die von den Lakota-Sioux als heiliges Land betrachtet werden",
+        "Trotz der massiven, extrem gefährlichen Sprengarbeiten gab es während des Baus keine Todesfälle",
+        "Hinter Lincolns Kopf befindet sich eine versteckte, unvollendete Kammer ('Hall of Records')"
+      ]
+    },
+    {
+      "id": "cloud-gate-landmarks-v2",
+      "descriptionAdvanced": "Cloud Gate, umgangssprachlich aufgrund seiner markanten Form weltweit als 'The Bean' (Die Bohne) bekannt, ist eine gigantische öffentliche Skulptur im Millennium Park in Chicago. Entworfen vom britischen Künstler Anish Kapoor und 2006 enthüllt, besteht die Struktur aus 168 massiven Edelstahlplatten, die derart präzise verschweißt und auf Hochglanz poliert wurden, dass absolut keine Nähte mehr sichtbar sind. Die spiegelnde Oberfläche reflektiert und verzerrt die dramatische Skyline von Chicago sowie den Himmel, während die tiefe, hohle Unterseite ('Omphalos' oder Nabel) ein faszinierendes visuelles Echo erzeugt. Cloud Gate hat sich rasant zu einem der meistfotografierten und beliebtesten modernen Wahrzeichen der Welt entwickelt. Kunst K7 — Öffentliche Skulpturen und optische Täuschungen.",
+      "factsAdvanced": [
+        "Wird aufgrund seiner Form weltweit liebevoll 'The Bean' (Die Bohne) genannt",
+        "Besteht aus 168 hochglanzpolierten Edelstahlplatten ohne eine einzige sichtbare Naht",
+        "Entworfen vom britisch-indischen Star-Künstler Anish Kapoor (sein erstes öffentliches US-Werk)",
+        "Wiegt massive 110 Tonnen und ruht auf einer komplexen internen Trägerstruktur",
+        "Die gebogene Unterseite ('Omphalos') verzerrt Reflexionen in einem faszinierenden Kaleidoskop",
+        "Wird täglich maschinell gereinigt, um Fingerabdrücke von der makellosen Oberfläche zu entfernen"
+      ]
+    },
+    {
+      "id": "space-needle-landmarks-v2",
+      "descriptionAdvanced": "Die Space Needle ist das unbestrittene architektonische Wahrzeichen von Seattle, Washington. Sie wurde als futuristisches Herzstück für die Weltausstellung 1962 (Century 21 Exposition) entworfen, deren Thema das Leben im Raumfahrtzeitalter war. Mit einer Höhe von 184 Metern thront die Struktur, die einem UFO auf einem massiven Stativ ähnelt, über dem Seattle Center. Das Fundament der Nadel ist ein ingenieurtechnisches Wunderwerk: Ein massiver Betonblock reicht fast 10 Meter tief in die Erde, wodurch die Struktur Erdbeben bis zu einer Stärke von 9,1 und gigantischen Windgeschwindigkeiten standhalten kann. Die Aussichtsplattform wurde 2018 massiv renoviert und bietet nun durch komplett gläserne Wände und Böden (The Loupe) einen schwindelerregenden Blick auf den Mount Rainier und den Puget Sound. Architektur K7 — Weltausstellungen und futuristisches Design.",
+      "factsAdvanced": [
+        "Erbaut 1962 als futuristisches Herzstück der Century 21 Weltausstellung in Seattle",
+        "Mit 184 Metern Höhe sollte es den Optimismus des frühen Raumfahrtzeitalters symbolisieren",
+        "Besitzt seit 2018 ('The Loupe') den weltweit ersten und einzigen rotierenden Glasboden",
+        "Das gigantische unterirdische Betonfundament ist genauso schwer wie die oberirdische Konstruktion",
+        "Wurde entworfen, um Taifun-Stürmen und massiven Erdbeben der Stärke 9.0 standzuhalten",
+        "Die Dachfarbe hieß ursprünglich passend zum Thema 'Galaxy Gold'"
+      ]
+    },
+    {
+      "id": "hoover-dam-landmarks-v2",
+      "descriptionAdvanced": "Der Hoover-Staudamm (ursprünglich Boulder Dam) an der Grenze zwischen Nevada und Arizona ist eines der gigantischsten Ingenieurswunder der modernen Welt. Erbaut während der extrem harten Jahre der Großen Depression (1931–1936) unter der Leitung von Frank Crowe, zähmte dieser massive Betonbogen-Gewichtsstaudamm den wilden Colorado River und schuf den Lake Mead, das volumenmäßig größte Wasserreservoir der USA. Der Bau erforderte tausende Arbeiter unter lebensgefährlichen Wüstenbedingungen; über hundert Männer starben. Der Staudamm liefert bis heute absolut entscheidende Wasserkraft (Energie) und kontrolliertes Bewässerungswasser, was das massive Wachstum von Städten wie Los Angeles, Phoenix und Las Vegas sowie die Landwirtschaft in Kalifornien überhaupt erst ermöglichte. Geographie K8 — Wasserkraft und die Kontrolle des Colorado Rivers.",
+      "factsAdvanced": [
+        "Erbaut zwischen 1931 und 1936 während der Großen Depression im Black Canyon",
+        "Mit 221 Metern Höhe war er bei Fertigstellung der größte Staudamm der Erde",
+        "Schuf den Lake Mead, den größten künstlichen Stausee der USA nach Volumen",
+        "Liefert gigantische Mengen an Strom für Nevada, Arizona und Südkalifornien",
+        "Beim extrem gefährlichen Bau in der Wüstenhitze starben offiziell 112 Arbeiter",
+        "Die glatte, ungeschmückte Betonoberfläche gilt als Meisterwerk des Art-déco-Stils"
+      ]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "descriptionAdvanced": "Faneuil Hall in Boston, Massachusetts, ist eines der bedeutendsten historischen Gebäude der Vereinigten Staaten und wird oft als die 'Wiege der Freiheit' (Cradle of Liberty) bezeichnet. Das 1742 von dem wohlhabenden Kaufmann und Sklavenhändler Peter Faneuil erbaute Gebäude diente jahrhundertelang als lebendiger Marktplatz im Erdgeschoss und als gigantischer Versammlungssaal im Obergeschoss. In genau diesem Saal hielten amerikanische Patrioten wie Samuel Adams und James Otis flammende, historische Reden gegen die britische Steuerpolitik (wie den Stamp Act), die massiv zur Amerikanischen Revolution beitrugen. Das Dach wird von einer weltberühmten vergoldeten Kupfer-Wetterfahne in Form eines Grashüpfers gekrönt. Heute ist die Halle das Zentrum des massiv besuchten Einkaufsbezirks Faneuil Hall Marketplace. Geschichte K8 — Versammlungsorte der Amerikanischen Revolution.",
+      "factsAdvanced": [
+        "Oft ehrfürchtig als 'Die Wiege der Freiheit' (Cradle of Liberty) bezeichnet",
+        "Erbaut 1742 als Marktplatz und Versammlungshalle vom Kaufmann Peter Faneuil",
+        "Ort flammender politischer Reden von Patrioten wie Samuel Adams vor der Revolution",
+        "Die berühmte goldene Grashüpfer-Wetterfahne auf dem Dach ist ein Symbol Bostons",
+        "Im 19. Jahrhundert wurde das Gebäude vom Architekten Charles Bulfinch massiv vergrößert",
+        "Ist heute ein elementarer Stopp auf dem historischen Boston Freedom Trail"
+      ]
+    },
+    {
+      "id": "hollywood-sign-landmarks-v2",
+      "descriptionAdvanced": "Das Hollywood Sign, gelegen an den steilen Hängen des Mount Lee in den Santa Monica Mountains, ist das unumstrittene visuelle Wahrzeichen der amerikanischen Unterhaltungsindustrie. Ironischerweise wurde das gigantische Schild (ursprünglich 'HOLLYWOODLAND') im Jahr 1923 nicht für den Film, sondern als temporäre Leuchtreklame für ein lokales Immobilienprojekt errichtet. Nachdem es jahrzehntelang verfiel und mehrfach vor dem Abriss stand (das 'LAND' wurde 1949 entfernt), retteten Prominente wie Hugh Hefner 1978 durch massive Spendenkampagnen das Schild und ersetzten es durch eine dauerhafte Stahlkonstruktion. Heute sind die 14 Meter hohen weißen Buchstaben streng geschützt, umzäunt und werden rund um die Uhr überwacht, da sie unaufhörlich als universelles Popkultur-Symbol für Glanz und Glamour in Filmen und Medien weltweit dienen. Geschichte K7 — Wahrzeichen der Popkultur und Werbehistorie.",
+      "factsAdvanced": [
+        "Errichtet 1923 als temporäre Werbung für ein Immobilienprojekt namens 'HOLLYWOODLAND'",
+        "Die vier letzten Buchstaben ('LAND') wurden 1949 bei einer Restaurierung entfernt",
+        "Jeder der massiven weißen Stahlbuchstaben ist fast 14 Meter hoch",
+        "1978 wurde das verrottende Schild durch Spenden (u.a. von Hugh Hefner) komplett neu gebaut",
+        "Das Gelände um das Schild ist extrem gesichert und für Wanderer streng gesperrt",
+        "Gilt weltweit als das absolute Symbol für die amerikanische Film- und Unterhaltungsindustrie"
+      ]
+    },
+    {
+      "id": "lincoln-memorial-landmarks-v2",
+      "descriptionAdvanced": "Das Lincoln Memorial, gelegen am westlichen Ende der National Mall in Washington D.C., ist eines der ehrfürchtigsten Denkmäler der Vereinigten Staaten. Erbaut in Form eines klassischen griechischen Tempels aus makellosem Colorado-Yule-Marmor, wird es von 36 massiven dorischen Säulen getragen – exakt die Anzahl der Bundesstaaten zur Zeit von Lincolns Ermordung. Im Inneren thront die gigantische, 5,8 Meter hohe sitzende Statue von Abraham Lincoln, meisterhaft erschaffen von Daniel Chester French. Das Monument ehrt nicht nur Lincolns Rolle im Erhalt der Union, sondern wurde im 20. Jahrhundert zum absolut zentralen Schauplatz der Bürgerrechtsbewegung. Genau auf den Stufen dieses Denkmals hielt Dr. Martin Luther King Jr. 1963 seine welthistorische 'I Have a Dream'-Rede. Geschichte K8 — Monumente der US-Präsidenten und die Bürgerrechtsbewegung.",
+      "factsAdvanced": [
+        "Entworfen von Henry Bacon im Stil eines massiven, klassischen griechischen Tempels",
+        "Besitzt exakt 36 Säulen, eine für jeden US-Bundesstaat zur Zeit von Lincolns Tod",
+        "Die gigantische Marmorstatue Lincolns (von Daniel Chester French) ist fast sechs Meter hoch",
+        "Auf den Wänden im Inneren sind die Gettysburg Address und Lincolns zweite Antrittsrede eingraviert",
+        "Ort von Martin Luther King Jr.'s historischer 'I Have a Dream'-Rede im Jahr 1963",
+        "Das Monument ist direkt auf das Washington Monument am anderen Ende des Reflecting Pools ausgerichtet"
+      ]
+    },
+    {
+      "id": "washington-monument-landmarks-v2",
+      "descriptionAdvanced": "Das Washington Monument im Zentrum der National Mall in Washington D.C. ist ein gigantischer, freistehender Obelisk aus weißem Marmor, Granit und Blaustein-Gneis. Zu Ehren des ersten US-Präsidenten George Washington errichtet, ist es mit einer Höhe von fast 169 Metern die absolut höchste Steinstruktur und der höchste Obelisk der Welt. Der Bau war von massiven Problemen geprägt: Nach dem Baubeginn 1848 ruhten die Arbeiten wegen Geldmangels und des Bürgerkriegs für fast 25 Jahre. Diese lange Pause ist heute noch an einer extrem deutlichen Farbänderung des Marmors im unteren Drittel des Turms sichtbar. Bei seiner Fertigstellung 1884 war es das höchste Bauwerk der Erde, bis der Eiffelturm es 1889 übertraf. Architektur K7 — Freistehende Steinmonumente und ihre Baugeschichte.",
+      "factsAdvanced": [
+        "Mit fast 169 Metern Höhe die höchste freistehende Steinstruktur und der höchste Obelisk der Welt",
+        "Erbaut zu Ehren des ersten amerikanischen Präsidenten, George Washington",
+        "Eine massive Farbänderung bei ca. 45 Metern zeigt die 25-jährige Bauunterbrechung an (Geldmangel/Krieg)",
+        "War bei seiner Fertigstellung 1884 kurzzeitig das absolut höchste Bauwerk der Welt",
+        "Die winzige Spitze besteht massiv aus massivem Aluminium, was damals extrem selten und wertvoll war",
+        "Erlaubt keine höheren Gebäude im District of Columbia (durch strenge Bauhöhengesetze)"
+      ]
+    },
+    {
+      "id": "empire-state-building-landmarks-v2",
+      "descriptionAdvanced": "Das Empire State Building in Midtown Manhattan ist der unbestrittene König der Wolkenkratzer und ein Symbol für New York City. Mit seinen 102 Stockwerken und einer bemerkenswerten Art-déco-Architektur wurde es in der unvorstellbaren Rekordzeit von nur 410 Tagen während der tiefsten Phase der Großen Depression errichtet. Nach seiner Eröffnung 1931 blieb es fast vierzig Jahre lang das höchste Gebäude der Welt. Die Spitze wurde ursprünglich als revolutionärer Ankermast für transatlantische Zeppeline (Luftschiffe) entworfen, ein Plan, der wegen extremer Winde in dieser Höhe schnell aufgegeben wurde. Internationale Popkultur-Unsterblichkeit erlangte das Gebäude 1933, als der Riesenaffe King Kong im gleichnamigen Film die Spitze erklomm. Die LED-Turmbeleuchtung feiert heute jeden Abend globale Ereignisse in verschiedenen Farben. Architektur K8 — Wolkenkratzer im Art-déco-Stil und Bauingenieurwesen.",
+      "factsAdvanced": [
+        "War von seiner Eröffnung 1931 bis 1970 das absolut höchste Gebäude der Erde",
+        "Wurde während der Großen Depression in der unglaublichen Rekordzeit von 410 Tagen erbaut",
+        "Der markante Turm an der Spitze war ursprünglich als Ankermast für Zeppeline gedacht",
+        "Weltberühmt für das herausragende, elegante Art-déco-Design, besonders in der Lobby",
+        "1945 prallte bei extremem Nebel ein B-25-Bomber in den 79. Stock des Gebäudes",
+        "Ein gigantischer Teil der Popkultur, unsterblich gemacht durch den Film 'King Kong' (1933)"
+      ]
+    },
+    {
+      "id": "one-world-trade-center-landmarks-v2",
+      "descriptionAdvanced": "Das One World Trade Center, umgangssprachlich oft als Freedom Tower bezeichnet, ist das höchste Gebäude der Vereinigten Staaten und der westlichen Hemisphäre. Es wurde als dominierendes Herzstück des neuen World Trade Center-Komplexes in Lower Manhattan erbaut, direkt neben dem Ground Zero, wo die Twin Towers bei den Terroranschlägen vom 11. September 2001 zerstört wurden. Die Höhe von genau 1.776 Fuß (541 Meter) ist eine höchst bewusste, massive patriotische Symbolik für das Jahr der amerikanischen Unabhängigkeitserklärung. Das von David Childs entworfene Gebäude besticht durch eine monolithische, achteckige Glasfassade und ist mit einem extrem massiven Betonkern und modernsten Sicherheitssystemen ausgestattet, was es zu einem der sichersten Wolkenkratzer der Welt macht. Architektur K8 — Wiederaufbau, moderne Sicherheitsarchitektur und nationale Symbolik.",
+      "factsAdvanced": [
+        "Mit 1.776 Fuß (541 Meter) das höchste Gebäude der Vereinigten Staaten",
+        "Die exakte Höhe von 1776 Fuß symbolisiert das Jahr der US-Unabhängigkeitserklärung",
+        "Ersetzte die am 11. September 2001 durch Terroristen zerstörten Twin Towers",
+        "Verfügt über einen massiven, extrem verstärkten Betonkern zum Schutz vor Katastrophen",
+        "Das Design stammt vom renommierten Architekten David Childs von Skidmore, Owings & Merrill",
+        "Die höchste Aussichtsplattform (One World Observatory) bietet einen Panoramablick über New York"
+      ]
+    },
+    {
+      "id": "chrysler-building-landmarks-v2",
+      "descriptionAdvanced": "Das Chrysler Building, gelegen in Midtown Manhattan, gilt weltweit als das ultimative, vollendete Meisterwerk der Art-déco-Architektur. Das 1930 fertiggestellte Bauwerk wurde vom Automobilmagnaten Walter P. Chrysler finanziert und spiegelt das Maschinenzeitalter wider: Die massiven Edelstahl-Wasserspeier (Gargoyles) an den Ecken sind Kühlerfiguren von Chrysler-Autos nachempfunden, und das Ziegelmuster imitiert Radkappen. Die atemberaubende, terrassierte Krone aus glänzendem Nirosta-Stahl mit ihren charakteristischen dreieckigen Fenstern ist nachts eines der prägendsten Elemente der New Yorker Skyline. Das Gebäude befand sich Ende der 1920er Jahre in einem extrem erbitterten Wettlauf um den Titel des höchsten Gebäudes der Welt, den es durch das heimliche Hochziehen einer massiven, im Inneren versteckten Stahlspitze ('The Vertex') kurzzeitig gewann, bevor das Empire State Building es ein Jahr später übertraf. Architektur K8 — Art-déco-Ornamentik und das Wettrennen der Wolkenkratzer.",
+      "factsAdvanced": [
+        "Gilt weltweit als das absolute Meisterwerk der Art-déco-Wolkenkratzerarchitektur",
+        "Die terrassierte Spitze besteht aus extrem wetterbeständigem Nirosta-Edelstahl",
+        "Details der Fassade (wie Wasserspeier) wurden massiv Chrysler-Kühlerfiguren nachempfunden",
+        "Hielt von 1930 bis 1931 für genau elf Monate den Titel als höchstes Gebäude der Welt",
+        "Die 38 Meter hohe Spitze wurde heimlich im Inneren konstruiert, um die Konkurrenz zu überlisten",
+        "Die Lobby ist für ihren verschwenderischen Einsatz von rötlichem afrikanischem Marmor berühmt"
+      ]
+    },
+    {
+      "id": "willis-tower-landmarks-v2",
+      "descriptionAdvanced": "Der Willis Tower, weltweit immer noch meist unter seinem historischen Namen Sears Tower bekannt, ist das absolute architektonische Wahrzeichen von Chicago. Bei seiner Fertigstellung 1973 übertraf er das World Trade Center und hielt für beeindruckende 25 Jahre den Titel als höchstes Gebäude der Welt (442 Meter ohne Antennen). Die revolutionäre, massive Konstruktion verdankt er dem genialen Ingenieur Fazlur Rahman Khan. Um extreme Winde vom Lake Michigan standzuhalten, entwarf Khan das 'Röhrenbündel'-System (Bundled Tube): Neun separate quadratische Röhren sind eng aneinander gebunden und enden auf unterschiedlichen Höhen, was dem schwarzen Turm sein asymmetrisches, treppenartiges Profil verleiht. Die Aussichtsplattform (Skydeck) im 103. Stockwerk ist berühmt für 'The Ledge' – extrem stabile Glaskästen, die seitlich aus der Fassade ragen und einen Blick senkrecht nach unten ermöglichen. Architektur K8 — Röhrenbündel-Konstruktionen und Hochhaus-Ingenieurwesen.",
+      "factsAdvanced": [
+        "War unter dem Namen 'Sears Tower' von 1973 bis 1998 das absolut höchste Gebäude der Erde",
+        "Basiert auf einem revolutionären 'Röhrenbündel'-Strukturdesign des Ingenieurs Fazlur Rahman Khan",
+        "Das Design ermöglichte extreme Höhen trotz der berüchtigten starken Winde Chicagos",
+        "Besitzt auf dem 103. Stock das Skydeck mit massiven Glasbalkonen ('The Ledge')",
+        "An klaren Tagen kann man von der Spitze aus vier verschiedene Bundesstaaten sehen",
+        "Die massiven Antennen auf dem Dach erhöhen die Gesamthöhe auf 527 Meter"
+      ]
+    },
+    {
+      "id": "kennedy-space-center-landmarks-v2",
+      "descriptionAdvanced": "Das John F. Kennedy Space Center (KSC) an der Atlantikküste von Florida (Cape Canaveral) ist der primäre und gigantischste Weltraumbahnhof der NASA. Seit 1968 ist dies der exklusive Startplatz für alle bemannten US-Raumflüge, von den historischen Apollo-Mondmissionen (inklusive der legendären Apollo 11) über das 30-jährige Space-Shuttle-Programm bis hin zu den modernen Artemis-Missionen. Die Anlage ist massiv in ein geschütztes Naturschutzgebiet (Merritt Island National Wildlife Refuge) integriert, was oft zu surrealen Bildern von Alligatoren neben hochmodernen Raketen führt. Das Vehicle Assembly Building (VAB) auf dem Gelände ist eines der voluminösesten Gebäude der Welt, in dem die extrem großen Saturn-V-Raketen aufrecht stehend montiert wurden, bevor sie auf gigantischen Raupentransportern ('Crawlers') zur Startrampe 39 gerollt wurden. Technik K8 — Die Geschichte der US-Raumfahrt und Mondlandungen.",
+      "factsAdvanced": [
+        "Seit 1968 der absolut einzige Startplatz für bemannte Raumflüge der US-Raumfahrtbehörde NASA",
+        "Startort der legendären Apollo-11-Mission, die 1969 die ersten Menschen zum Mond brachte",
+        "Das Vehicle Assembly Building (VAB) ist nach Volumen eines der gigantischsten Gebäude der Welt",
+        "Teilt sich das riesige Gelände mit einem massiven nationalen Naturschutzgebiet (Merritt Island)",
+        "Die mächtigen 'Crawler-Transporter' befördern voll montierte Raketen in Schrittgeschwindigkeit zum Launchpad",
+        "Heute auch der zentrale Startkomplex für private Raumfahrtunternehmen wie SpaceX"
+      ]
+    },
+    {
+      "id": "grand-central-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Grand Central Terminal im Herzen von Manhattan, New York, ist nicht nur einer der verkehrsreichsten Bahnhöfe der Erde, sondern ein unübertroffenes Meisterwerk der Beaux-Arts-Architektur. Das 1913 fertiggestellte massive Gebäude ist mit 44 Bahnsteigen auf zwei unterirdischen Ebenen der größte Bahnhof der Welt nach Anzahl der Gleise. Die atemberaubende Haupthalle (Main Concourse) wird von einer monumentalen gewölbten Decke überspannt, die eine astronomische Himmelskarte zeigt (welche kurioserweise spiegelverkehrt gemalt wurde). Das Zentrum der Halle dominiert eine vierseitige Messinguhr, deren Ziffernblätter angeblich aus massivem Opal bestehen. In den 1970er Jahren sollte das historische Juwel abgerissen werden, was jedoch durch eine massive Kampagne, angeführt von Jacqueline Kennedy Onassis, erfolgreich verhindert wurde. Architektur K8 — Historische Verkehrsknotenpunkte und Denkmalschutz.",
+      "factsAdvanced": [
+        "Mit insgesamt 44 Bahnsteigen und 67 Gleisen der absolut größte Bahnhof der Welt",
+        "Die berühmte astronomische Deckengemälde in der Main Concourse ist spiegelverkehrt gemalt",
+        "Die vierseitige Informationsuhr in der Mitte der Halle wird auf über 20 Millionen Dollar geschätzt",
+        "Wurde 1913 nach Plänen im prächtigen Beaux-Arts-Stil vollständig elektrifiziert eröffnet",
+        "Ein massiver geheimer Gleisanschluss (Track 61) führte einst direkt zum Waldorf Astoria Hotel (für FDR)",
+        "Wurde in den 1970er Jahren nur durch massiven öffentlichen Protest vor dem Abriss gerettet"
+      ]
+    },
+    {
+      "id": "gettysburg-battlefield-landmarks-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Gettysburg in den Hügeln von Pennsylvania bewahrt das Gelände der massivsten und blutigsten Schlacht des Amerikanischen Bürgerkriegs. Vom 1. bis zum 3. Juli 1863 stießen hier die konföderierte Army of Northern Virginia unter Robert E. Lee und die Unionstruppen unter George G. Meade aufeinander. Nach drei Tagen extrem brutaler Kämpfe, die mit dem verheerenden, gescheiterten konföderierten Infanterieangriff ('Pickett’s Charge') gipfelten, gab es auf beiden Seiten über 50.000 Opfer (Tote, Verwundete und Vermisste). Die vernichtende Niederlage Lees beendete endgültig die Invasion der Südstaaten in den Norden und gilt als der absolute Wendepunkt des gesamten Krieges. Wenige Monate später weihte Präsident Abraham Lincoln hier den Nationalfriedhof mit seiner unsterblichen 'Gettysburg Address' ein, einer der wichtigsten Reden der amerikanischen Geschichte. Geschichte K8 — Der Wendepunkt des Bürgerkriegs und Lincolns Gettysburg Address.",
+      "factsAdvanced": [
+        "Schauplatz der mit Abstand verlustreichsten Schlacht auf amerikanischem Boden (über 50.000 Opfer)",
+        "Die Niederlage vom 1. bis 3. Juli 1863 markierte den definitiven Wendepunkt des Bürgerkriegs",
+        "Der selbstmörderische konföderierte Infanterieangriff 'Pickett’s Charge' brach die Südstaaten-Armee massiv",
+        "Abraham Lincoln hielt hier wenige Monate später die welthistorische 'Gettysburg Address'",
+        "Der Gettysburg National Military Park ist mit über 1.300 Denkmälern übersät",
+        "Es war die einzige wirklich massive und entscheidende Schlacht auf dem Territorium der Nordstaaten"
+      ]
+    },
+    {
+      "id": "the-alamo-landmarks-v2",
+      "descriptionAdvanced": "Das Alamo, eine kleine, stark verwitterte spanische Mission im Zentrum von San Antonio, Texas, ist ein Monument von gigantischer mythischer und historischer Bedeutung für die Texaner. Gegründet 1718, wurde der Komplex im März 1836 zum Schauplatz der berühmten Schlacht von Alamo während der Texanischen Revolution. Etwa 200 texanische Verteidiger – darunter die legendären Frontiersmen Davy Crockett und Jim Bowie – verschanzten sich hier gegen eine massiv überlegene mexikanische Armee (mehrere tausend Soldaten) unter dem Kommando von General Santa Anna. Nach einer 13-tägigen brutalen Belagerung wurde die Anlage gestürmt, und fast alle Verteidiger wurden getötet. Der Schlachtruf 'Remember the Alamo!' (Erinnert euch an das Alamo!) befeuerte die texanischen Truppen massiv, die wenige Wochen später die endgültige Unabhängigkeit von Mexiko in der Schlacht von San Jacinto erkämpften. Geschichte K8 — Die Texanische Revolution und Mythenbildung.",
+      "factsAdvanced": [
+        "1718 als die spanische katholische Mission San Antonio de Valero gegründet",
+        "Schauplatz der legendären, extrem verlustreichen 13-tägigen Belagerung im März 1836",
+        "Die berühmten Verteidiger wie Davy Crockett und Jim Bowie starben beim finalen Sturm",
+        "Der Schlachtruf 'Remember the Alamo!' wurde zum massiven Kampfschrei für die Unabhängigkeit von Texas",
+        "Das charakteristische glockenförmige Dach der Kapelle wurde erst Jahre nach der Schlacht hinzugefügt",
+        "Gilt bei den Einheimischen als der 'Schrein der texanischen Freiheit' (Shrine of Texas Liberty)"
+      ]
+    },
+    {
+      "id": "las-vegas-strip-landmarks-v2",
+      "descriptionAdvanced": "Der Las Vegas Strip in Nevada ist eine fast sieben Kilometer lange, elektrisierende Strecke des Las Vegas Boulevard, die sich paradoxerweise knapp außerhalb der offiziellen Stadtgrenzen von Las Vegas befindet (in den gemeindefreien Gebieten Paradise und Winchester). Er ist weltweit absolut einzigartig in seiner massiven Konzentration von gigantischen Resort-Casinos, die oft auf extravaganten, surrealen Architekturthemen basieren. Besucher finden hier Nachbauten des Pariser Eiffelturms, der Pyramiden von Gizeh, der Skyline von New York City und den Kanälen Venedigs. Ab den 1990er Jahren verdrängten diese enorm teuren Mega-Resorts das traditionelle Mafia-geführte Casino-Konzept. Die visuelle Dominanz der massiven LED-Bildschirme, Vulkanausbrüche und Wasserspiele (Bellagio Fountains) macht den Strip bei Nacht zu einem der hellsten und energetischsten Orte der Erde. Architektur K8 — Themenarchitektur und die Entwicklung von Mega-Resorts.",
+      "factsAdvanced": [
+        "Ein 6,8 Kilometer langer Abschnitt, der ironischerweise streng genommen außerhalb der Stadt Las Vegas liegt",
+        "Beherbergt mehr als die Hälfte der 20 größten Hotels der gesamten Welt",
+        "Das moderne Mega-Resort-Zeitalter wurde 1989 massiv mit der Eröffnung des 'Mirage' eingeläutet",
+        "Beinhaltet gigantische architektonische Nachbauten (Eiffelturm, Venedig-Kanäle, ägyptische Pyramiden)",
+        "Einer der wenigen Orte in den USA, an denen das Trinken von Alkohol auf der Straße legal ist",
+        "Die Fountains of Bellagio sind eine der komplexesten und berühmtesten Wassershows der Welt"
+      ]
+    },
+    {
+      "id": "times-square-landmarks-v2",
+      "descriptionAdvanced": "Der Times Square, an der massiven Kreuzung von Broadway und Seventh Avenue in Midtown Manhattan gelegen, ist das pulsierende, neonbeleuchtete Herz von New York City. Oft als 'The Crossroads of the World' (Kreuzung der Welt) bezeichnet, zeichnet sich der Platz durch seine beispiellose, gesetzlich für Gebäude vorgeschriebene Dichte an gigantischen digitalen Werbetafeln (Spectacolor-Screens) aus. Er erhielt seinen Namen 1904, als die New York Times ihr Hauptquartier dorthin verlegte. Berühmt ist der Platz für das jährliche 'Ball Drop'-Event an Silvester, das Millionen weltweit im Fernsehen verfolgen. Zudem ist der Times Square das direkte Epizentrum des amerikanischen Theaterviertels (Broadway). Nach einer von Kriminalität geprägten dunklen Phase in den 1970ern und 80ern wurde die Gegend ab den späten 1990er Jahren drastisch und erfolgreich fußgängerfreundlich revitalisiert. Geographie K7 — Urbane Zentren, Kommerzialisierung und der Broadway.",
+      "factsAdvanced": [
+        "Wird aufgrund der massiven Fußgängerströme als 'Kreuzung der Welt' (Crossroads of the World) bezeichnet",
+        "Es existieren extrem strikte städtische Bebauungsregeln, die gigantische Leuchtreklamen zwingend vorschreiben",
+        "Wurde 1904 nach dem massiven Umzug der Zeitung 'The New York Times' dorthin umbenannt",
+        "Das Epizentrum des extrem lukrativen Broadway-Theaterviertels in Manhattan",
+        "Ort des berühmten 'New Year's Eve Ball Drop', bei dem ein leuchtender Ball um Mitternacht herabsinkt",
+        "Wurde in den letzten Jahrzehnten durch die Sperrung von Straßen massiv für Fußgänger optimiert"
+      ]
+    },
+    {
+      "id": "fenway-park-landmarks-v2",
+      "descriptionAdvanced": "Fenway Park in Boston, Massachusetts, ist das älteste durchgehend genutzte Stadion der Major League Baseball (MLB) und die geliebte Heimat der Boston Red Sox. Erbaut im Jahr 1912, strahlt der Ballpark einen urigen, asymmetrischen historischen Charme aus, der durch die beengte Platzierung im Stadtzentrum diktiert wurde. Das absolut ikonischste Merkmal von Fenway Park ist das 'Green Monster', eine massive, über elf Meter hohe grüne Blechmauer im linken Außenfeld, die eigentlich erbaut wurde, um zu verhindern, dass Zuschauer auf der Straße Spiele gratis sehen konnten. Das Stadion ist extrem kompakt, was für eine außergewöhnlich laute, intime und von Nostalgie durchdrungene Atmosphäre sorgt. Die Bewahrung von Fenway Park in einem Zeitalter standardisierter Mega-Stadien macht es zu einem echten nationalen Pilgerort für Sportfans. Kultur K8 — Historische Sportstätten und asymmetrische Architektur.",
+      "factsAdvanced": [
+        "Das absolut älteste, noch aktiv genutzte Major League Baseball-Stadion (eröffnet 1912)",
+        "Heimat der Boston Red Sox und berühmt für seine intime, kompakte Größe",
+        "Das berühmteste Merkmal ist das 'Green Monster', eine 11,3 Meter hohe Wand im linken Außenfeld",
+        "Das Stadion besitzt einen noch immer handbetriebenen manuellen Spielstandsanzeiger (Scoreboard)",
+        "Der einsame rote Sitz auf der Tribüne im rechten Feld markiert den längsten jemals hier geschlagenen Home Run",
+        "Aufgrund der Asymmetrie des Stadions gilt es als extrem eigenwilliger und schwer bespielbarer Park"
+      ]
+    },
+    {
+      "id": "wrigley-field-landmarks-v2",
+      "descriptionAdvanced": "Wrigley Field in der 'North Side' von Chicago, Illinois, ist das zweitälteste Stadion der Major League Baseball (nach Fenway Park) und die spirituelle Heimat der Chicago Cubs. Es wurde 1914 erbaut (damals als Weeghman Park) und besticht durch eine extrem tiefe historische Atmosphäre, die tief im Wohnviertel Wrigleyville verwurzelt ist. Wrigley Field ist weltberühmt für die markanten efeubewachsenen Ziegelsteinmauern (Ivy) im Außenfeld, die den Spielern gelegentlich den Ball 'stehlen', wenn er im dichten Laub stecken bleibt. Zudem ist es das letzte MLB-Stadion, das eine Flutlichtanlage zur Ausleuchtung von Abendspielen installierte (erst 1988), weshalb die Cubs jahrzehntelang ausschließlich tagsüber spielten. Die manuelle Anzeigetafel und der rote Eingangs-Marquee ('Wrigley Field Home of Chicago Cubs') sind unverwechselbare Ikonen der amerikanischen Sportgeschichte. Kultur K8 — Nostalgie in der Sportarchitektur.",
+      "factsAdvanced": [
+        "Erbaut 1914, ist es das zweitälteste Baseballstadion der MLB und die Heimat der Chicago Cubs",
+        "Weltweit berühmt für die extrem dichten, efeubewachsenen (Ivy) Ziegelsteinmauern im Outfield",
+        "Besitzt eine legendäre, extrem steile, handbetriebene Anzeigetafel (Scoreboard) aus dem Jahr 1937",
+        "Installierte erst 1988 als absolut letztes MLB-Stadion eine Flutlichtanlage für Nachtspiele",
+        "Die Windverhältnisse vom nahen Lake Michigan können extrem stark den Flug des Baseballs beeinflussen",
+        "Die markante rote Leuchtschrift (Marquee) über dem Haupteingang wurde 1934 errichtet"
+      ]
+    },
+    {
+      "id": "madison-square-garden-landmarks-v2",
+      "descriptionAdvanced": "Der Madison Square Garden (MSG), oft ehrfürchtig als 'The World's Most Famous Arena' bezeichnet, ist eine massive Mehrzweck-Indoor-Arena in Midtown Manhattan, New York City. Das heutige Gebäude (die vierte Inkarnation mit diesem Namen) wurde 1968 eröffnet und kontrovers direkt über dem unterirdischen Bahnhof der Pennsylvania Station errichtet, wofür das prachtvolle alte Bahnhofsgebäude abgerissen wurde. MSG ist die Heimat der New York Knicks (Basketball) und der New York Rangers (Eishockey). Neben dem Sport ist die Arena der absolute Olymp für die Musikindustrie; ein ausverkauftes Konzert im Madison Square Garden zu spielen, gilt weltweit als der ritterschlagende Höhepunkt einer musikalischen Karriere. Zudem war der Garden Austragungsort legendärer Boxkämpfe, darunter das erste Aufeinandertreffen von Muhammad Ali und Joe Frazier ('Fight of the Century', 1971). Kultur K7 — Mehrzweckarenen und das Zentrum der Popkultur.",
+      "factsAdvanced": [
+        "Wird weithin als 'The World's Most Famous Arena' (Die berühmteste Arena der Welt) vermarktet",
+        "Die aktuelle Arena (erbaut 1968) ist die bereits vierte Einrichtung, die diesen historischen Namen trägt",
+        "Wurde extrem umstritten direkt über dem massiven unterirdischen Bahnhof der Penn Station erbaut",
+        "Heimat der legendären Sport-Franchises New York Knicks (NBA) und New York Rangers (NHL)",
+        "Austragungsort des epischen 'Fight of the Century' zwischen Muhammad Ali und Joe Frazier (1971)",
+        "Billy Joel hält hier den unglaublichen Rekord für die mit Abstand meisten ausverkauften Live-Konzerte"
+      ]
+    },
+    {
+      "id": "national-september-11-memorial-landmarks-v2",
+      "descriptionAdvanced": "Das National September 11 Memorial (9/11 Memorial) in Lower Manhattan ist ein tief bewegendes, gigantisches Denkmal auf dem Gelände des Ground Zero, wo einst die Twin Towers des World Trade Centers standen. Entworfen von dem Architekten Michael Arad und dem Landschaftsarchitekten Peter Walker, besteht das Herzstück aus zwei riesigen, fast einen Hektar großen quadratischen Reflexionsbecken (Reflecting Pools), die exakt in die Fußabdrücke (Fundamente) der zerstörten Türme eingelassen wurden. An den Rändern stürzen die größten künstlichen Wasserfälle Nordamerikas fast zehn Meter tief in ein dunkles, scheinbar bodenloses Zentrum ('Reflecting Absence'). In die massiven bronzenen Brüstungen rund um die Becken sind die Namen der fast 3.000 Opfer der Terroranschläge von 2001 und 1993 gefräst. Das umliegende Plaza ist mit Hunderten von Sumpf-Eichen bepflanzt und bildet eine Oase der Stille. Architektur K8 — Gedenkkultur und Minimalismus in der Architektur.",
+      "factsAdvanced": [
+        "Steht auf dem Ground Zero, den exakten Fußabdrücken der 2001 zerstörten Twin Towers",
+        "Verfügt über zwei gigantische Becken mit den flächenmäßig größten künstlichen Wasserfällen Nordamerikas",
+        "Die Architektur trägt den passenden Titel 'Reflecting Absence' (Reflektierende Abwesenheit)",
+        "Die Namen aller 2.983 Opfer der Anschläge von 2001 und 1993 sind massiv in die Bronzeränder gefräst",
+        "Das Gelände ist mit fast 400 weißen Sumpf-Eichen bepflanzt, um Leben und Erneuerung zu symbolisieren",
+        "Der 'Survivor Tree', ein extrem schwer beschädigter Baum, der aus den Trümmern gerettet wurde, wächst hier"
+      ]
+    },
+    {
+      "id": "us-capitol-landmarks-v2",
+      "descriptionAdvanced": "Das Kapitol der Vereinigten Staaten (US Capitol) auf dem Capitol Hill in Washington D.C. ist der Sitz der Legislative (Senat und Repräsentantenhaus) und das absolute symbolische Zentrum der amerikanischen Demokratie. Der Bau des monumentalen, neoklassizistischen Gebäudes begann 1793, wobei George Washington den Grundstein legte. Das Kapitol wurde im Krieg von 1812 von britischen Truppen in Brand gesetzt und massiv zerstört, bevor es erweitert und mit der heutigen, ikonenhaften, gigantischen gusseisernen Kuppel (fertiggestellt 1866) gekrönt wurde. Auf der Spitze der Kuppel thront die fast sechs Meter hohe Bronzestatue der 'Freedom'. Im Inneren befindet sich die atemberaubende Rotunde, geschmückt mit dem Fresko 'Die Apotheose Washingtons'. Geografisch und architektonisch bildet das Kapitol den absoluten Nullpunkt des Straßenrasters von Washington D.C. Architektur K8 — Neoklassizismus und die Machtzentren von Regierungen.",
+      "factsAdvanced": [
+        "Sitz des US-Kongresses (Legislative), bestehend aus dem Senat und dem Repräsentantenhaus",
+        "George Washington legte 1793 den massiven Grundstein mit einer freimaurerischen Zeremonie",
+        "Wurde 1814 im Krieg massiv von den Briten niedergebrannt und später deutlich größer wiederaufgebaut",
+        "Die markante gusseiserne Kuppel ist extrem schwer (4000 Tonnen) und wurde während des Bürgerkriegs vollendet",
+        "Die riesige Bronzestatue 'Statue of Freedom' krönt das Kapitol, erbaut mit Hilfe versklavter Arbeiter",
+        "Bildet den exakten geografischen Nullpunkt zur Quadranten-Aufteilung der Straßen von Washington D.C."
+      ]
+    }
+  ]
+}

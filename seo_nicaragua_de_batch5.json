@@ -1,0 +1,375 @@
+{
+  "lang": "de",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "matadero-san-martin-economic-v2",
+      "descriptionAdvanced": "Das Matadero San Martín in der Gemeinde Nandaime (Departement Granada) ist der größte und modernste Schlachthof in Nicaragua. Die riesige Anlage verarbeitet täglich tausende Rinder aus den weiten Weidegebieten von Chontales, Boaco und der Karibikküste. Das produzierte Rindfleisch wird unter strengen hygienischen Auflagen verarbeitet und primär für den Export in die USA, nach Mexiko und Asien verpackt. San Martín ist ein unverzichtbarer Wirtschaftsmotor für den nationalen Agrarsektor und demonstriert die Transformation der nicaraguanischen Viehzucht von lokaler Versorgung hin zu globaler Exportkapazität. Wirtschaft K7 — Fleischindustrie und Exportstandards.",
+      "factsAdvanced": [
+        "Gilt als der größte und wichtigste Rinderschlachthof (Matadero) in ganz Nicaragua.",
+        "Gelegen in Nandaime an einer logistisch strategischen Autobahnverbindung.",
+        "Ein massiver Devisenbringer durch den Export von Premium-Rindfleisch in die USA und Asien.",
+        "Verarbeitet Rinder, die hauptsächlich in der östlichen Karibikregion gezüchtet werden.",
+        "Betreibt auch Anlagen zur Weiterverarbeitung von tierischen Nebenprodukten (Talg, Knochenmehl).",
+        "Zertifiziert nach internationalen Qualitäts- und Hygienestandards für den Lebensmittelhandel."
+      ]
+    },
+    {
+      "id": "cemex-san-rafael-del-sur-economic-v2",
+      "descriptionAdvanced": "Das CEMEX-Zementwerk in San Rafael del Sur ist eine industrielle Säule der nicaraguanischen Bauwirtschaft. Betrieben vom mexikanischen Baustoffgiganten CEMEX, nutzt diese gigantische Anlage die massiven Kalksteinvorkommen der pazifischen Küstenregion, um den Großteil des nationalen Zementbedarfs zu decken. Das Werk operiert rund um die Uhr und versorgt landesweit Infrastrukturprojekte, vom Autobahnbau bis zu Wohnsiedlungen. Der Abbau der Rohstoffe hat die lokale Geografie durch massive Steinbrüche sichtbar verändert, bietet jedoch hunderten Familien in der Gemeinde stabile Industriearbeitsplätze. Wirtschaft K8 — Baustoffindustrie und Ressourcenabbau.",
+      "factsAdvanced": [
+        "Die größte Zementfabrik in Nicaragua, heute im Besitz des multinationalen CEMEX-Konzerns.",
+        "Profitiert von den enormen, leicht abbaubaren Kalksteinvorkommen (Canteras) in San Rafael del Sur.",
+        "Produziert Millionen von Zementsäcken jährlich für den nationalen Baumarkt.",
+        "Die Anlage importiert Klinker und Kohle oft über den nahegelegenen Hafen Puerto Sandino.",
+        "War ursprünglich ein staatliches Unternehmen, das in den 1990er Jahren privatisiert wurde.",
+        "Die Steinbrüche der Fabrik prägen das Landschaftsbild der Region dramatisch."
+      ]
+    },
+    {
+      "id": "holcim-nagarote-economic-v2",
+      "descriptionAdvanced": "Das Zementmahlwerk von Holcim in Nagarote (Departement León) ist das zweite Standbein der nicaraguanischen Baustoffproduktion. Anders als die Anlage in San Rafael del Sur konzentriert sich dieses moderne Werk primär auf das Mahlen und Mischen von importiertem oder anderswo gebranntem Klinker zu hochwertigem Spezialzement. Durch die strategische Lage nahe Managua und den Pazifikhäfen optimiert Holcim die Logistik zur Versorgung der Hauptstadt und der boomenden Immobilienmärkte. Die Anlage gilt als Vorreiter in Nicaragua bezüglich industrieller Umweltstandards, wie etwa der Reduzierung von Staubemissionen und des CO2-Fußabdrucks. Wirtschaft K7 — Moderne Baustoffverarbeitung.",
+      "factsAdvanced": [
+        "Gehört zum Schweizer multinationalen Baustoffkonzern Holcim (heute Holcim Group).",
+        "Die Anlage in Nagarote ist spezialisiert auf das Mahlen und die finale Mischung von Zement.",
+        "Dient als direkter Hauptkonkurrent zu CEMEX auf dem nicaraguanischen Markt.",
+        "Setzt verstärkt auf die Zugabe von vulkanischen Materialien (Puzzolan), um CO2 zu sparen.",
+        "Liegt strategisch günstig an der Autobahn León-Managua zur schnellen Distribution.",
+        "Das Werk hat mehrfach nationale Auszeichnungen für Arbeitssicherheit erhalten."
+      ]
+    },
+    {
+      "id": "planta-lactea-centrolac-economic-v2",
+      "descriptionAdvanced": "Die Molkerei Centrolac in Managua revolutionierte bei ihrer Eröffnung die nicaraguanische Milchwirtschaft durch die flächendeckende Einführung der UHT-Technologie (Ultrahocherhitzung). Diese Technologie erlaubt es, Milch ohne Kühlung monatelang im tropischen Klima zu lagern. Centrolac sammelt täglich zehntausende Liter Rohmilch von hunderten kleinen und mittelgroßen Bauern aus den zentralen Weidegebieten (Boaco, Chontales) und verarbeitet sie in seiner hochmodernen, automatisierten Anlage an der Carretera Norte. Das Unternehmen ist ein leuchtendes Beispiel dafür, wie agro-industrielle Wertschöpfung innerhalb des Landes gehalten und der Export von Fertigprodukten nach Zentralamerika gefördert wird. Wirtschaft K7 — Lebensmitteltechnologie und Milchindustrie.",
+      "factsAdvanced": [
+        "Pionier und Marktführer für UHT-Milch (langhaltbare Milch) in Nicaragua.",
+        "Die Fabrik befindet sich strategisch im industriellen Korridor an der Carretera Norte in Managua.",
+        "Sichert das Einkommen von über 1.000 Milchbauern aus dem Landesinneren durch garantierte Abnahme.",
+        "Exportiert verpackte Milchprodukte in die benachbarten zentralamerikanischen Länder.",
+        "Nutzt modernste Tetra-Pak-Verpackungstechnologie, um die Haltbarkeit im heißen Klima zu sichern.",
+        "Das Unternehmen wurde 2007 gegründet und veränderte den lokalen Milchkonsum radikal."
+      ]
+    },
+    {
+      "id": "planta-lactea-eskimo-economic-v2",
+      "descriptionAdvanced": "Die Eskimo-Milchfabrik in Managua ist eine der traditionsreichsten und nostalgischsten Marken Nicaraguas. Gegründet in den 1940er Jahren, wuchs das Unternehmen von einem kleinen familiären Eiscreme-Verkauf zur unangefochtenen Nummer eins für Eiscreme und gekühlte Milchprodukte im Land heran. Die Fabrik verarbeitet riesige Mengen Milch zu den allgegenwärtigen Eskimo-Eis am Stiel, Paletas und Joghurts, die von Straßenhändlern mit Handkarren bis in den letzten Winkel des Landes verkauft werden. Obwohl die Marke 2014 an den mexikanischen Molkereigiganten Grupo Lala verkauft wurde, bleibt Eskimo tief in der kulturellen Identität Nicaraguas verankert. Wirtschaft K6 — Traditionelle Marken und multinationale Übernahmen.",
+      "factsAdvanced": [
+        "Gegründet 1942, ist Eskimo die bekannteste und traditionsreichste Eiscreme-Marke Nicaraguas.",
+        "Die Hauptfabrik befindet sich seit Jahrzehnten in Managua.",
+        "Tausende informelle Straßenhändler (Eskimeros) vertreiben das Eis aus kleinen Kühlwagen.",
+        "Wurde im Jahr 2014 von der mexikanischen Grupo Lala für Millionen übernommen.",
+        "Verarbeitet neben Eiscreme auch frische Milch, Joghurt und Sauerrahm.",
+        "Die Marke ist so stark, dass "Eskimo" in Nicaragua oft als Synonym für Eis am Stiel verwendet wird."
+      ]
+    },
+    {
+      "id": "mina-rosita-economic-v2",
+      "descriptionAdvanced": "Die Mina Rosita im Herzen des Karibischen Bergbau-Dreiecks (RACCN) unterscheidet sich historisch durch ihren massiven Kupferabbau von den benachbarten reinen Goldminen. Mitte des 20. Jahrhunderts wurde hier durch nordamerikanische Konzerne intensiv Kupferoxyd im Tagebau gefördert. Die gigantischen Eingriffe in die Erde hinterließen künstliche Krater, die sich mit giftigem, türkisfarbenem Wasser füllten und als "Lagunas de Oxidación" bekannt sind. Heute versuchen Bergbauunternehmen, diese massiven Haldenhaufen (Tailings) mit modernen chemischen Verfahren erneut aufzuarbeiten, um Restgold zu gewinnen. Die Mine veranschaulicht drastisch die langfristigen ökologischen Narben, die industrieller Extraktivismus im Regenwald hinterlässt. Naturkunde K8 — Altlasten des Bergbaus und Umweltverschmutzung.",
+      "factsAdvanced": [
+        "War während der 1950er bis 1970er Jahre das Zentrum des nicaraguanischen Kupferabbaus.",
+        "Liegt im sogenannten Triángulo Minero tief in der nördlichen Karibikregion (RACCN).",
+        "Große Kraterseen mit chemisch kontaminiertem Wasser prägen das verlassene Minengebiet.",
+        "Moderne Bergbauprojekte fokussieren sich heute auf das Extrahieren von Gold aus dem alten Minenschutt.",
+        "Die indigene Bevölkerung der Mayangna wurde durch den historischen Bergbau stark marginalisiert.",
+        "Die Mine wurde während des Krieges in den 1980er Jahren zeitweise vollständig geschlossen."
+      ]
+    },
+    {
+      "id": "cafe-soluble-sa-economic-v2",
+      "descriptionAdvanced": "Die Fabrik von Café Soluble S.A. in Managua ist das Zentrum der nicaraguanischen Kaffeeveredelung für den Inlandsmarkt. Während die besten Bohnen als Rohkaffee exportiert werden, verarbeitet diese massiv automatisierte Anlage einen großen Teil der nationalen Ernte zu Röstkaffee und Instantkaffee (Café Presto), der das Standardgetränk in fast jedem nicaraguanischen Haushalt ist. Das Unternehmen wurde in den 1950er Jahren gegründet, um dem nicaraguanischen Kaffee einen inländischen Mehrwert zu verleihen, anstatt ihn nur als Rohstoff zu verkaufen. Heute produziert die Fabrik auch Cerealien und exportiert löslichen Kaffee ins Ausland. Wirtschaft K7 — Industrielle Kaffeeverarbeitung und Inlandsmarkt.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1958 als erste Instantkaffee-Fabrik in Zentralamerika.",
+        "Produziert die landesweit dominierende Instantkaffee-Marke "Café Presto".",
+        "Verarbeitet Rohkaffee, der primär aus den Regionen Matagalpa und Jinotega stammt.",
+        "Die riesige Anlage in Managua röstet, mahlt und gefriertrocknet Kaffeebohnen im industriellen Maßstab.",
+        "Verleiht dem landwirtschaftlichen Rohstoff Kaffee vor dem Export einen industriellen Mehrwert.",
+        "Das Unternehmen hat sein Portfolio später auf Getreidegetränke und Snacks diversifiziert."
+      ]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "descriptionAdvanced": "Die Hacienda San Jacinto, gelegen nahe Tipitapa, ist der heiligste historische Ort Nicaraguas, der den Widerstand gegen den ausländischen Imperialismus symbolisiert. Hier fand am 14. September 1856 die legendäre Schlacht von San Jacinto statt. Eine kleine Truppe nicaraguanischer Soldaten unter General José Dolores Estrada, unterstützt von indigenen Bogenschützen aus Matagalpa, besiegte eine überlegene Streitmacht nordamerikanischer Söldner (Filibuster) unter William Walker, die Zentralamerika erobern wollten. Das gut erhaltene Gutshaus aus Lehm und Ziegeln fungiert heute als Nationalmuseum, zu dem im September zehntausende Schulkinder pilgern, um den heldenhaften Steinwurf von Andrés Castro zu ehren. Geschichte K8 — Der Filibuster-Krieg und nationale Souveränität.",
+      "factsAdvanced": [
+        "Schauplatz der historischen Schlacht am 14. September 1856 gegen US-Söldner (Filibuster).",
+        "Der Soldat Andrés Castro wurde zur Legende, als er mangels Munition einen US-Söldner mit einem Stein tötete.",
+        "Das Gelände und das originale koloniale Gutshaus (Hacienda) sind heute ein Nationaldenkmal.",
+        "Die Nicaraguaner wurden von 60 indigenen Bogenschützen aus Matagalpa unterstützt.",
+        "Der 14. September ist ein nationaler Feiertag in Nicaragua, der jedes Jahr groß gefeiert wird.",
+        "Die Schlacht markierte den Wendepunkt im Krieg zur Vertreibung William Walkers aus Zentralamerika."
+      ]
+    },
+    {
+      "id": "palacio-nacional-cultura-history-v2",
+      "descriptionAdvanced": "Der Nationalpalast der Kultur am Rande des alten Zentrums von Managua ist eines der wenigen monumentalen Gebäude, die das katastrophale Erdbeben von 1972 überstanden haben. Erbaut in den 1930er Jahren unter Diktator Somoza, beherbergte der Palast ursprünglich den Kongress und wichtige Ministerien. Am 22. August 1978 wurde das Gebäude zum Schauplatz einer der spektakulärsten Aktionen der Sandinistischen Revolution, als das Kommando von Edén Pastora den gesamten Kongress als Geisel nahm, um politische Gefangene freizupressen. Heute ist das neoklassizistische Gebäude das kulturelle Herzstück des Landes und beherbergt das Nationalarchiv, die Nationalbibliothek und das Nationalmuseum. Geschichte K8 — Spektakuläre Revolutionstaten und Museumskultur.",
+      "factsAdvanced": [
+        "Das neoklassizistische Gebäude wurde 1943 fertiggestellt und überlebte das Erdbeben von 1972.",
+        "War am 22. August 1978 Schauplatz der berühmten sandinistischen Geiselnahme (Operación Chanchera).",
+        "Beherbergte bis zur Revolution 1979 den nicaraguanischen Nationalkongress.",
+        "Dient heute als Sitz des Nationalmuseums "Diocleciano Chaves" und der Nationalbibliothek.",
+        "Architektonisch beeindruckt der Bau durch breite Korridore und einen großen Innenhof mit Brunnen.",
+        "Das Gebäude grenzt an den geschichtsträchtigen Plaza de la Revolución in Managua."
+      ]
+    },
+    {
+      "id": "antigua-catedral-managua-history-v2",
+      "descriptionAdvanced": "Die Alte Kathedrale von Managua (Catedral de Santiago) ist ein gespenstisch schönes Monument der Zerstörung. Die in Belgien aus Stahl entworfene und 1938 fertiggestellte Kathedrale wurde beim verheerenden Erdbeben am 23. Dezember 1972 schwer beschädigt, blieb aber als Ruine auf der Plaza de la Revolución stehen. Seitdem ragt ihre leere, von Rissen durchzogene Fassade als stumme Erinnerung an die über 10.000 Toten der Katastrophe in den Himmel. Obwohl das Innere aus Sicherheitsgründen oft für die Öffentlichkeit gesperrt ist, bleibt die Alte Kathedrale das am meisten fotografierte architektonische Symbol für die Resilienz und die tragische Geschichte der nicaraguanischen Hauptstadt. Architektur K7 — Erdbebenschäden und historische Monumente.",
+      "factsAdvanced": [
+        "Die Eisen- und Stahlkonstruktion der Kathedrale wurde in den 1920er Jahren aus Belgien importiert.",
+        "Wurde beim Erdbeben der Stärke 6,2 im Dezember 1972 schwer strukturell beschädigt.",
+        "Der Bau kombiniert neoklassizistische und barocke Architekturelemente.",
+        "Stand jahrzehntelang als Mahnmal für die Zehntausenden Opfer des Erdbebens unberührt.",
+        "Die Kuppel des Hauptturms ist noch immer sichtbar verzogen und beschädigt.",
+        "Wurde 1993 durch den Bau der modernen neuen Kathedrale im Süden Managuas als Kirche ersetzt."
+      ]
+    },
+    {
+      "id": "iglesia-la-merced-granada-history-v2",
+      "descriptionAdvanced": "Die Iglesia de La Merced ist wohl die eleganteste und historisch signifikanteste Kirche der Kolonialstadt Granada. Ursprünglich 1534 erbaut, wurde sie 1655 von Piraten niedergebrannt, wiederaufgebaut und im 19. Jahrhundert während des Filibuster-Krieges durch die Truppen William Walkers erneut schwer beschädigt. Ihre heutige majestätische barocke und neoklassizistische Fassade ist das Resultat jahrhundertelanger Restaurierungen. Das eigentliche Highlight der La Merced ist jedoch ihr massiver Glockenturm, den Besucher über enge Wendeltreppen besteigen können. Von oben bietet sich der spektakulärste Panoramablick über das rote Dächermeer Granadas bis hin zum Nicaraguasee und dem Vulkan Mombacho. Architektur K7 — Kolonialarchitektur und Piratenangriffe.",
+      "factsAdvanced": [
+        "Ursprünglich 1534 errichtet, zählt sie zu den ältesten religiösen Stätten in Zentralamerika.",
+        "Die Kirche wurde 1655 durch den berüchtigten Piraten Henry Morgan geplündert und abgebrannt.",
+        "Der hochaufragende Glockenturm bietet den berühmtesten Aussichtspunkt über die Stadt Granada.",
+        "Während der Flucht William Walkers 1856 (Brennen von Granada) erlitt sie schwere Schäden.",
+        "Die Fassade zeigt eine elegante Mischung aus barocken und neoklassizistischen Einflüssen.",
+        "Der Turm wurde in seiner heutigen Form erst in der Mitte des 19. Jahrhunderts vollendet."
+      ]
+    },
+    {
+      "id": "convento-san-francisco-granada-history-v2",
+      "descriptionAdvanced": "Das Convento San Francisco in Granada ist nicht nur eines der ältesten Gebäude Nicaraguas, sondern auch eines der bedeutendsten Museen des Landes. Gegründet 1529 von Franziskanermönchen, diente das massive Klosterkomplex jahrhundertelang als spirituelles Zentrum, Festung und Universität. Nachdem es mehrfach durch Piraten und den Brand Granadas durch William Walker 1856 zerstört wurde, erstrahlt es heute restauriert in tiefem Indigoblau. Weltberühmt ist das Kloster heute für seine Ausstellung der monumentalen Basaltstatuen aus der präkolumbianischen Ära, die auf der Insel Zapatera im Nicaraguasee gefunden wurden. Diese steinernen Idole zeugen von den komplexen indigenen Zivilisationen, die vor Ankunft der Spanier herrschten. Geschichte K8 — Franziskanerorden und indigene Monolithen.",
+      "factsAdvanced": [
+        "Das Kloster wurde 1529 gegründet und ist das älteste in Mittelamerika.",
+        "Wurde 1856 von William Walkers Truppen als Kaserne genutzt und in Brand gesteckt.",
+        "Beherbergt eine weltklasse Sammlung prähispanischer Stein-Idole von der Insel Zapatera.",
+        "Die präkolumbianischen Statuen (800–1200 n. Chr.) wurden aus massivem Basaltgestein gemeißelt.",
+        "Das Gebäude diente im 19. Jahrhundert vorübergehend als erste Universität von Granada.",
+        "Die markante blaue koloniale Architektur macht es zu einem der Wahrzeichen der Stadt."
+      ]
+    },
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "descriptionAdvanced": "Die Fortaleza La Pólvora (Pulverfestung) am westlichen Rand der Altstadt von Granada wirkt mit ihren dicken Lehmmauern und stämmigen runden Wachtürmen wie eine mittelalterliche Burg. Die Spanier erbauten diese Festung im Jahr 1748 – nicht primär zur Abwehr von Piraten, sondern als sicheres Magazin, um Schießpulver weit entfernt vom dicht besiedelten Zentrum Granadas lagern zu können. Im Laufe der turbulenten nicaraguanischen Geschichte diente das trutzige Bauwerk jedoch häufig als Kaserne und politisches Gefängnis, insbesondere während der brutalen Kämpfe des 19. Jahrhunderts und später unter der Somoza-Diktatur. Heute können Touristen die alten Wachtürme besteigen, die einen weiten Blick auf den Vulkan Mombacho bieten. Geschichte K7 — Militärische Architektur und Pulvermagazine.",
+      "factsAdvanced": [
+        "Erbaut 1748 von den spanischen Kolonialherren zur sicheren Lagerung von Schießpulver.",
+        "Die Festung liegt absichtlich am äußeren Stadtrand, um das Zentrum vor Explosionen zu schützen.",
+        "Verfügt über dicke Adobe-Mauern und charakteristische, runde Wachtürme.",
+        "Diente im 19. und 20. Jahrhundert häufig als Militärkaserne und berüchtigtes Gefängnis.",
+        "Das Gebäude wurde nach historischen Plänen weitgehend in seinen Originalzustand restauriert.",
+        "Besucher können die alten Kerkerräume und die Zinnen der Türme erkunden."
+      ]
+    },
+    {
+      "id": "museo-de-la-revolucion-leon-history-v2",
+      "descriptionAdvanced": "Das Museo de la Revolución in der Stadt León ist weniger ein klassisches Museum als vielmehr ein raues, authentisches Mahnmal des sandinistischen Kampfes. Es befindet sich in einem zerschossenen, kaum renovierten Kolonialpalast am Zentralpark, der einst als Kommunikationszentrum der Diktatur diente. Was dieses Museum einzigartig macht, sind die Führer: Es sind allesamt ehemalige Sandinista-Guerilleros, die die Stadt 1979 in erbitterten Straßenkämpfen befreiten. Zwischen vergilbten Zeitungsartikeln, alten Waffen und Wandgemälden erzählen sie den Besuchern persönliche Geschichten von Blutvergießen, Ideologie und dem entscheidenden Sieg über die Nationalgarde der Somozas. Eine Führung endet traditionell auf dem gewellten Blechdach mit Blick über die Stadt der Revolution. Geschichte K8 — Zeitzeugen und Guerillakrieg.",
+      "factsAdvanced": [
+        "Untergebracht im ehemaligen, vom Krieg stark gezeichneten Kommunikationspalast der Somoza-Regierung.",
+        "Alle Museumsführer sind Veteranen des sandinistischen Aufstands von 1979.",
+        "Das Gebäude ist absichtlich kaum renoviert worden und zeigt unzählige Einschusslöcher.",
+        "Die Stadt León war die erste wichtige nicaraguanische Stadt, die von den Sandinisten befreit wurde.",
+        "Besucher werden oft auf das rostige Blechdach geführt, um den Blick über den Platz zu genießen.",
+        "Die Exponate bestehen größtenteils aus persönlichen Fotos, Briefen und provisorischen Waffen."
+      ]
+    },
+    {
+      "id": "el-calvario-church-leon-history-v2",
+      "descriptionAdvanced": "Die Iglesia El Calvario ist eine der ikonischsten und optisch auffälligsten Kirchen in der Universitätsstadt León. Am östlichen Ende der Hauptgeschäftsstraße Calle Real gelegen, besticht das Bauwerk aus dem frühen 18. Jahrhundert durch seine leuchtende, fast surreal farbenfrohe Fassade, die oft in intensivem Senfgelb oder Rot mit weißen, barocken Gipsverzierungen gestrichen ist. Architektonisch ist sie ein herausragendes Beispiel für den provinziellen lateinamerikanischen Barock. Historisch markierte die Kirche die Grenze der kolonialen Kernstadt und war oft die erste Verteidigungslinie Leóns. Im Inneren zeugen kunstvolle Holzschnitzereien von der großen Handwerkstradition der Stadt. Architektur K7 — Lateinamerikanischer Barock und Stadtgrenzen.",
+      "factsAdvanced": [
+        "Erbaut im frühen 18. Jahrhundert am damaligen östlichen Rand der kolonialen Stadt León.",
+        "Bekannt für ihre extrem farbenfrohe, reliefartige Barockfassade mit zwei Zwillingstürmen.",
+        "Das Ziegelmauerwerk zeugt von starker baulicher Widerstandskraft gegen Erdbeben.",
+        "Während der Straßenkämpfe 1979 erlitt die Kirche Beschädigungen, wurde aber liebevoll restauriert.",
+        "Ein zentrales Element der großen, dramatischen Karfreitagsprozessionen in León.",
+        "Die Fassade zeigt detaillierte Stuckarbeiten, die Szenen der Kreuzigung (Kalvarienberg) darstellen."
+      ]
+    },
+    {
+      "id": "casa-museo-ruben-dario-leon-history-v2",
+      "descriptionAdvanced": "Das Casa Museo Rubén Darío in León ist das literarische Heiligtum Nicaraguas. In diesem geräumigen Kolonialhaus an der Kopfsteinpflasterstraße wuchs Rubén Darío, der "Prinz der kastilischen Literatur" und Begründer des literarischen Modernismo, in den 1870er Jahren bei seiner Tante auf. Das Haus bewahrt die Atmosphäre des 19. Jahrhunderts und beherbergt eine unbezahlbare Sammlung an Originalmanuskripten, persönlichen Briefen, seiner Bibliothek und den originalen handgeschriebenen Gedichten. Besucher können das bescheidene Zimmer sehen, in dem Darío als Wunderkind seine ersten Verse verfasste. Das Museum ist eine Pilgerstätte für Schriftsteller aus der ganzen spanischsprachigen Welt. Literaturgeschichte K8 — Der Modernismo und nicaraguanische Poesie.",
+      "factsAdvanced": [
+        "Das Kolonialhaus, in dem der berühmte Dichter Rubén Darío seine Kindheit verbrachte.",
+        "Er wurde hier von seiner Tante Bernarda Sarmiento, die er seine "Mutter" nannte, aufgezogen.",
+        "Das Museum enthält handgeschriebene Originalmanuskripte seiner berühmtesten Gedichte.",
+        "Rubén Darío gilt als der einflussreichste Erneuerer der spanischsprachigen Literatur (Modernismo).",
+        "Erbaut im typischen andalusischen Stil mit einem zentralen, bepflanzten Innenhof (Patio).",
+        "Dario kehrte kurz vor seinem Tod 1916 todkrank in diese Stadt zurück."
+      ]
+    },
+    {
+      "id": "santuario-de-jesus-del-rescate-popoyuapa-history-v2",
+      "descriptionAdvanced": "Das Santuario Nacional de Jesús del Rescate in Popoyuapa, einem Vorort der Stadt Rivas, ist der Mittelpunkt einer der inbrünstigsten und spektakulärsten religiösen Pilgerfahrten Mittelamerikas. Das Heiligtum beherbergt die Statue von "Jesus der Rettung", der in den vergangenen Jahrhunderten angerufen wurde, um die Region vor Piraten, Plagen und Vulkaneruptionen zu beschützen. Zwei Wochen vor der Karwoche verwandeln sich die Straßen Südnicaraguas in einen Strom der Frömmigkeit: Hunderte von bunt geschmückten Ochsenkarren (Carretas Peregrinas) machen sich aus dem Departement Masaya und Granada auf den tagelangen Fußmarsch zum Heiligtum. Diese Wallfahrt verbindet tiefen katholischen Glauben mit uralten Bauerntraditionen. Kultur K7 — Traditionelle Wallfahrten und Ochsenkarren.",
+      "factsAdvanced": [
+        "Heimat der tief verehrten Holzstatue des "Jesús del Rescate" aus dem 17. Jahrhundert.",
+        "Jährliches Ziel von über 400 traditionellen, von Ochsen gezogenen Karren (Carretas Peregrinas).",
+        "Die Pilgerreise dauert für viele Bauernfamilien bis zu einer Woche Fußmarsch.",
+        "Das Heiligtum wurde nach einem verheerenden Erdbeben neu errichtet.",
+        "Die Tradition der Ochsenkarren wurde zum immateriellen Kulturerbe Nicaraguas erklärt.",
+        "Die Gläubigen erbitten von der Jesus-Statue Heilung von Krankheiten und gute Ernten."
+      ]
+    },
+    {
+      "id": "zapatera-archaeological-park-history-v2",
+      "descriptionAdvanced": "Der Zapatera Archaeological Park auf der gleichnamigen, wilden Insel im Nicaraguasee war vor über einem Jahrtausend ein elitäres Heiligtum der indigenen Chorotega. Während die benachbarte Insel Ometepe von Landwirten besiedelt war, fungierte Zapatera als Friedhof, Kultplatz und astronomisches Observatorium. Europäische Forscher entdeckten hier im 19. Jahrhundert Hunderte von großen Basaltstatuen (oft tierische Alter Egos, sogenannte "Alter Egos" oder Naguale darstellend). Viele dieser massiven Götzen wurden gestohlen oder in Museen nach Granada gebracht. Dennoch bleibt Zapatera ein mystischer, vom dichten Dschungel und dem erloschenen Vulkan dominierter Ort, an dem noch unentdeckte Ruinen, Tempelhügel und Petroglyphen im dichten Unterholz schlummern. Geschichte K8 — Präkolumbianische Kultplätze und Chorotega-Zivilisation.",
+      "factsAdvanced": [
+        "Die vulkanische Insel Zapatera diente der Chorotega-Kultur als massives religiöses Heiligtum.",
+        "War der Fundort von Hunderten großformatiger, monolithischer Basaltstatuen.",
+        "Die meisten Originalstatuen wurden im 19. Jahrhundert ins Convento San Francisco (Granada) gebracht.",
+        "Der dichte Dschungel verbirgt immer noch alte Zeremonialhügel (Montículos) und Gräber.",
+        "Die abgelegene Insel hat kaum touristische Infrastruktur und keine gepflasterten Straßen.",
+        "Ist ein offizieller Nationalpark und gehört geologisch zum Riftsystem des Nicaraguasees."
+      ]
+    },
+    {
+      "id": "petroglifos-ometepe-history-v2",
+      "descriptionAdvanced": "Die Hänge des Vulkans Maderas auf der Insel Ometepe beherbergen eine der rätselhaftesten und konzentriertesten Sammlungen von Felsritzungen (Petroglyphen) in ganz Amerika. Besonders in Orten wie der Finca El Porvenir und um das Dorf Balgüe verstreut, ritzten frühe mesoamerikanische Kulturen komplexe abstrakte Spiralen, Affen, Adler und Kalender in massive Basaltblöcke, die von alten Vulkaneruptionen stammten. Diese Kunstwerke, die auf 300 v. Chr. bis 800 n. Chr. datiert werden, deuten darauf hin, dass die Insel als eine Art heiliger astronomischer Mittelpunkt der indigenen Welt angesehen wurde. Da die Steine mitten im feuchten Dschungel verstreut liegen, haben Besucher das Gefühl, ein lange verlorenes Geheimnis zu entdecken. Kunstgeschichte K6 — Prähispanische Felskunst und astronomische Beobachtungen.",
+      "factsAdvanced": [
+        "Ometepe besitzt eine der höchsten Konzentrationen an präkolumbianischen Felsritzungen weltweit.",
+        "Die meisten Petroglyphen finden sich an den feuchten Hängen des erloschenen Vulkans Maderas.",
+        "Die Ritzungen zeigen oft Spiralen, Kalendersymbole und tierische Götter (Schamanismus).",
+        "Viele Steine (wie in El Porvenir) liegen noch in ihrer ursprünglichen natürlichen Dschungelumgebung.",
+        "Das Alter der Kunstwerke wird auf die Zeit zwischen 300 v. Chr. und 800 n. Chr. geschätzt.",
+        "Die Bedeutung vieler komplexer abstrakter Symbole bleibt für Archäologen ein ungelöstes Rätsel."
+      ]
+    },
+    {
+      "id": "san-agustin-church-somoto-history-v2",
+      "descriptionAdvanced": "Die Iglesia de San Agustín im kühlen Gebirgsstädtchen Somoto ist nicht nur das architektonische Juwel des Departements Madriz, sondern eines der ältesten koloniale Gebäude im Norden Nicaraguas. Mit ihrem Bau wurde bereits im frühen 17. Jahrhundert, genauer um 1661, aus dicken Adobe-Ziegeln (Lehm) begonnen. Bemerkenswert ist ihre rustikale, stämmige Architektur, die speziell darauf ausgelegt war, den häufigen und zerstörerischen Erdbeben der Region standzuhalten. Das dunkle, holzgetäfelte Innere der Kirche vermittelt eine Atmosphäre klösterlicher Strenge, die scharf im Kontrast zu den prächtigen barocken Kirchen in Städten wie León oder Granada steht. Sie ist das spirituelle Zentrum für die von Dürren und rauer Geografie geprägte Bevölkerung. Architektur K6 — Erdbebensichere Kolonialbauten.",
+      "factsAdvanced": [
+        "Die Kirche San Agustín wurde 1661 aus dicken Lehmziegeln (Adobe) errichtet.",
+        "Eines der ältesten noch stehenden Bauwerke im bergigen Norden Nicaraguas.",
+        "Ihre gedrungene Bauweise ohne hohe Türme half ihr, große Erdbeben zu überstehen.",
+        "Das Innere der Kirche zeichnet sich durch mächtige, alte Holzbalkenkonstruktionen aus.",
+        "Ist das katholische und kulturelle Herzstück der Kleinstadt Somoto.",
+        "Gewidmet dem Heiligen Augustinus, dessen Fest hier traditionell im August gefeiert wird."
+      ]
+    },
+    {
+      "id": "antiguo-hospital-san-juan-de-dios-esteli-history-v2",
+      "descriptionAdvanced": "Das alte Krankenhaus San Juan de Dios in Estelí ist heute eine der imposantesten und fotogensten Ruinen Nicaraguas und ein stummes Monument des Bürgerkrieges. In den 1920er Jahren erbaut, war es einst eine der modernsten medizinischen Einrichtungen Mittelamerikas, mit einer klassizistischen Architektur, die einen weiten Innenhof umschloss. Während der finalen sandinistischen Offensive gegen den Diktator Somoza 1979 war das Krankenhaus der Schauplatz erbitterter Kämpfe; es wurde von Somozas Nationalgarde aus der Luft zerbombt, weil sich Guerillakämpfer darin verschanzt hatten. Heute sind die massiven Wände und Bögen vom Dschungel und Graffiti überwuchert und dienen als melancholische, inoffizielle Gedenkstätte für die Zerstörungen des Krieges. Geschichte K8 — Urbane Kriegsführung und Krankenhausruinen.",
+      "factsAdvanced": [
+        "Das Krankenhaus wurde in den späten 1920er Jahren im neoklassizistischen Stil errichtet.",
+        "Galt in der Mitte des 20. Jahrhunderts als eines der besten Krankenhäuser der Region.",
+        "Wurde während der sandinistischen Befreiung von Estelí 1979 schwer bombardiert.",
+        "Die Nationalgarde Somozas flog Luftangriffe auf das Gebäude, um Guerillakämpfer auszuschalten.",
+        "Die riesige Struktur ist heute eine verlassene Ruine, durchsetzt mit Einschusslöchern.",
+        "Wird aufgrund seiner dramatischen Atmosphäre oft als Filmkulisse oder von Fotografen genutzt."
+      ]
+    },
+    {
+      "id": "santuario-nacional-nuestra-senora-de-la-concepcion-el-viejo-history-v2",
+      "descriptionAdvanced": "Das Nationale Heiligtum (Santuario Nacional) in der heißen Stadt El Viejo im Departement Chinandega ist das wichtigste religiöse Gebäude in Nicaragua. Es beherbergt eine alte Silberstatue der "Unbefleckten Empfängnis Mariens" (La Purísima), der Schutzpatronin des Landes. Der Legende nach wurde die Statue 1562 von Don Pedro de Ahumada, dem Bruder der Heiligen Teresa von Avila, in die Stadt gebracht. Die koloniale Basilika selbst ist ein Meisterwerk der andalusischen Architektur mit feinen Holzarbeiten und massiven Altären. Jeden Dezember erlebt die Stadt einen Ansturm von Pilgern zum Fest "La Gritería" und zum "Waschen der Silberkronen" (Lavada de la Plata), was die tiefste kulturelle Tradition Nicaraguas darstellt. Kultur K7 — Nationale Schutzpatronen und religiöse Feste.",
+      "factsAdvanced": [
+        "Die Basilika in El Viejo beherbergt die offizielle Schutzpatronin von Nicaragua.",
+        "Die Silberstatue der Jungfrau Maria wurde der Legende nach 1562 aus Spanien hierher gebracht.",
+        "Das Gebäude wurde im Jahr 1995 von Papst Johannes Paul II. in den Rang einer Basilica Minor erhoben.",
+        "Zentrum des landesweit wichtigsten religiösen Festes, der "Gritería", am 7. und 8. Dezember.",
+        "Ein Höhepunkt ist die Tradition der "Lavada de la Plata" (Reinigung der Silber-Gaben) am 6. Dezember.",
+        "Die koloniale Architektur weist dicke Lehmmauern auf, die vor der extremen Hitze Chinandegas schützen."
+      ]
+    },
+    {
+      "id": "batalla-de-coyotepe-site-history-v2",
+      "descriptionAdvanced": "Die Festung Coyotepe, drohend auf einem steilen Hügel über der Stadt Masaya gelegen, ist eines der dunkelsten und blutigsten Wahrzeichen Nicaraguas. Ursprünglich 1893 erbaut, spielte die sternförmige Burg ihre wichtigste militärische Rolle 1912, als der nicaraguanische General Benjamín Zeledón hier heldenhaft, aber erfolglos gegen eine Übermacht angreifender US-Marineinfanteristen kämpfte. Später, unter der Diktatur der Somoza-Familie (1936-1979), wurde Coyotepe in ein furchterregendes politisches Gefängnis verwandelt. In den tiefen, stockfinsteren Kerkern unter der Festung wurden hunderte von Regimegegnern und Sandinisten brutal gefoltert. Heute führt der Ort als historisches Mahnmal Besuchern die Schrecken der Diktatur und der ausländischen Interventionen drastisch vor Augen. Geschichte K8 — Politische Gefängnisse und US-Interventionen.",
+      "factsAdvanced": [
+        "Erbaut 1893 auf einem strategischen Hügel, der den Verkehr zwischen Managua und Masaya überblickt.",
+        "Schauplatz einer heftigen Schlacht im Jahr 1912 zwischen General Zeledón und US-Marines.",
+        "Die Somoza-Diktatur nutzte die sternförmige Festung als berüchtigtes politisches Hochsicherheitsgefängnis.",
+        "Das tief unter der Erde liegende Kerkersystem verfügte über völlige Dunkelheit und winzige Zellen.",
+        "Während der Revolution 1979 lieferten sich Sandinisten und Nationalgarde hier erbitterte Artilleriegefechte.",
+        "Heute kann das unheimliche unterirdische Gefängnissystem von Besuchern besichtigt werden."
+      ]
+    },
+    {
+      "id": "casa-hacienda-de-simon-bolivar-el-vapor-history-v2",
+      "descriptionAdvanced": "Die historische Casa Hacienda El Vapor liegt in den nebligen, kühlen Hängen südlich der Hauptstadt Managua, nahe der Gemeinde El Crucero. Diese Kaffee-Hacienda war im frühen 20. Jahrhundert ein Musterbetrieb der europäischen Kaffeepioniere in Nicaragua. Doch ihre wahre historische Bedeutung liegt im Widerstandskampf: In den 1970er Jahren diente das weite, bewaldete Gebiet um die Hacienda El Vapor als geheimes Ausbildungs- und Rückzugslager für die Guerillakämpfer der Sandinistischen Befreiungsfront (FSLN), die Angriffe auf die nahe Hauptstadt planten. In den Wäldern lieferten sich die Aufständischen harte Gefechte mit der somozistischen Nationalgarde. Heute erinnert die stille Kaffeefinca an die entscheidenden taktischen Schlachten am Rande der Hauptstadt. Geschichte K8 — Urbane Guerillataktik und Kaffeefincas.",
+      "factsAdvanced": [
+        "Liegt in der kühlen Kaffeeanbauregion bei El Crucero, südlich von Managua.",
+        "Historisch eine florierende Kaffeefinca, die die landwirtschaftliche Expansion des 19. Jahrhunderts repräsentiert.",
+        "Diente in den späten 1970er Jahren als strategisches Versteck für sandinistische Guerillakämpfer.",
+        "Das unebene, neblige Terrain bot hervorragenden Schutz vor Luftangriffen der Somoza-Garde.",
+        "War Schauplatz schwerer Scharmützel kurz vor dem endgültigen Fall Managuas im Juni 1979.",
+        "Heute wird die Kaffeeproduktion fortgesetzt, und die Finca erinnert als stummes Mahnmal an den Krieg."
+      ]
+    },
+    {
+      "id": "nacimiento-de-ciudad-dario-history-v2",
+      "descriptionAdvanced": "Das Geburtshaus von Rubén Darío (Casa Museo) in Ciudad Darío (früher Metapa) ist eine Pilgerstätte für Literaturliebhaber weltweit. In diesem bescheidenen, authentisch erhaltenen Lehm- und Strohhaus wurde am 18. Januar 1867 der Mann geboren, der die gesamte spanischsprachige Poesie revolutionieren sollte. Seine schwangere Mutter Rosa Sarmiento befand sich auf der Durchreise in Metapa, als die Wehen einsetzten. Das Haus wurde detailgetreu restauriert, um das ländliche nicaraguanische Leben des 19. Jahrhunderts abzubilden, inklusive traditioneller Öfen, Hängematten und zeitgenössischer Möbel. Ein modernes Amphitheater im Innenhof dient heute als Bühne für die alljährliche Dichterwoche, bei der Schriftsteller die literarische Größe Daríos ehren. Literaturgeschichte K8 — Geburtsorte literarischer Genies.",
+      "factsAdvanced": [
+        "Das bescheidene Lehmhaus ist der Geburtsort von Rubén Darío (1867), dem Begründer des Modernismo.",
+        "Das Haus gehörte einer Bekannten von Daríos Mutter, die sich auf der Durchreise befand.",
+        "Wurde am 15. April 1943 offiziell zum nicaraguanischen Nationalmonument (Monumento Nacional) erklärt.",
+        "Das Gebäude bewahrt die ursprüngliche Architektur eines armen ländlichen Bauernhauses des 19. Jahrhunderts.",
+        "Im angrenzenden Innenhof wurde ein Amphitheater für Dichterlesungen errichtet.",
+        "Die Stadt Metapa wurde zu Ehren des Dichters 1920 in Ciudad Darío umbenannt."
+      ]
+    },
+    {
+      "id": "iglesia-de-xalteva-granada-history-v2",
+      "descriptionAdvanced": "Die Iglesia de Xalteva in Granada ist nicht nur ein Ort des Glaubens, sondern ein historischer Grenzstein zwischen Eroberern und Eroberten. Die Kirche steht exakt an der Stelle, wo einst das Zentrum der indigenen Dirianes (Chorotegas) lag, die die Gegend Xalteva nannten, lange bevor Francisco Hernández de Córdoba die spanische Stadt Granada gründete. Während der Kolonialzeit war Xalteva der Stadtteil, in dem die indigene und gemischte Bevölkerung getrennt von den Spaniern lebte. Das heutige majestätische Steingebäude, mit seiner markanten neoklassizistischen Kuppel und der eleganten Fassade, wurde nach der Zerstörung Granadas durch William Walker 1856 neu errichtet und ist ein stolzes Symbol der indigenen Wurzeln der Stadt. Geschichte K7 — Segregation in der Kolonialzeit und indigene Barrios.",
+      "factsAdvanced": [
+        "Erbaut auf dem ursprünglichen Zentrum des präkolumbianischen indigenen Dorfes Xalteva.",
+        "Die Kirche markierte historisch die Grenze zwischen dem spanischen Granada und dem indigenen Viertel.",
+        "Das heutige Gebäude wurde nach der Zerstörung Granadas durch William Walker 1856 komplett neu errichtet.",
+        "Fungierte während des brutalen Bürgerkriegs (Guerra Nacional) im 19. Jahrhundert als militärische Festung.",
+        "Die Kirche wird von einem großen, baumbestandenen Platz (Parque de Xalteva) gesäumt.",
+        "Architektonisch beeindruckt sie durch einen maurischen Einfluss und eine massive zentrale Kuppel."
+      ]
+    },
+    {
+      "id": "sitio-arqueologico-el-paisaje-history-v2",
+      "descriptionAdvanced": "Die Regionen um Boaco und Chontales bergen unzählige Zeugnisse präkolumbianischer Kulturen. Solche archäologischen Stätten, oft unter dem Sammelbegriff für die Entdeckung von Petroglyphen und monolithischen Statuen zusammengefasst, beweisen, dass Zentralnicaragua vor Ankunft der Spanier dicht bevölkert war. Stämme der Chontal (Mayangna-Sprachfamilie) schufen in dieser fruchtbaren Berglandschaft Zeremonialzentren. Zahlreiche Basaltsäulen, die heute in lokalen Museen (wie dem in Juigalpa) zu sehen sind, wurden in diesen Gebieten entdeckt. Die Ausgrabungen in diesen oft abgelegenen Zonen deuten auf eine fortgeschrittene Gesellschaft hin, die Astronomie, Schamanismus und einen intensiven Handel mit den Stämmen der pazifischen Küste und der Karibik pflegte. Geschichte K8 — Prähispanische Besiedlung und Chontal-Kulturen.",
+      "factsAdvanced": [
+        "Zentralnicaragua ist reich an weitgehend unerforschten präkolumbianischen archäologischen Stätten.",
+        "Die indigene Gruppe der Chontales bewohnte diese Region und hinterließ steinerne Monumente.",
+        "Viele Ausgrabungsorte beinhalten große Monolithen, die oft Schamanen oder Tiergötter (Alter Egos) darstellen.",
+        "Petroglyphen und Überreste alter Keramik finden sich häufig entlang der Flussufer der Region.",
+        "Der Großteil der wertvollsten Statuen wurde in das Museo Gregorio Aguilar Barea in Juigalpa transportiert.",
+        "Die Abholzung durch Rinderzucht bringt oft unbeabsichtigt neue prähispanische Artefakte zutage."
+      ]
+    },
+    {
+      "id": "muelle-de-granada-history-v2",
+      "descriptionAdvanced": "Der historische Pier von Granada (Muelle de Granada) ragt über zweihundert Meter tief in das Süßwasser des riesigen Nicaraguasees (Cocibolca) hinein. Im späten 19. und frühen 20. Jahrhundert war dies einer der belebtesten und wichtigsten Häfen Mittelamerikas. Damals transportierten massive Dampfschiffe (Vapores) europäische Importgüter vom Río San Juan nach Granada und beluden nicaraguanischen Kaffee und Rinderhäute für den Export. Der Pier war auch Endpunkt der Eisenbahn, sodass Güter direkt von den Zügen auf Schiffe verladen wurden. Heute ist der restaurierte Pier eine ruhige Flaniermeile für Touristen, die einen spektakulären Blick auf den bedrohlichen Vulkan Mombacho und die Inselwelt von Granada (Las Isletas) suchen. Geografie K6 — Seetransporthistorie und Dampfschifffahrt.",
+      "factsAdvanced": [
+        "Ragte historisch als Endpunkt des pazifischen Eisenbahnnetzes direkt in den Nicaraguasee.",
+        "War im 19. Jahrhundert das Herzstück des massiven Güter- und Personentransits über den See.",
+        "Riesige dampfgetriebene Schiffe verbanden Granada von hier aus mit San Carlos und der Karibik.",
+        "Wurde im 20. Jahrhundert nach Stürmen und dem Niedergang der Eisenbahn mehrfach umgebaut.",
+        "Bietet heute Bootstouren in das Naturschutzgebiet der über 300 kleinen Isletas de Granada.",
+        "Der Pier bietet einen perfekten Aussichtspunkt auf die Silhouette des Vulkans Mombacho."
+      ]
+    },
+    {
+      "id": "ferrocarril-del-pacifico-ruinas-history-v2",
+      "descriptionAdvanced": "Die Ruinen der Ferrocarril del Pacífico de Nicaragua (Pazifische Eisenbahn) sind in Städten wie Managua, León, Granada und Corinto sichtbare Narben einer verlorenen Ära. Im späten 19. Jahrhundert unter Präsident José Santos Zelaya erbaut, war die Eisenbahn das Rückgrat der nicaraguanischen Wirtschaft und vereinte die feindlichen Provinzen durch den Kaffee-Export. Das Schienennetz reichte vom Hafen Corinto bis an die Docks von Granada. In den 1990er Jahren, ruinös nach dem Bürgerkrieg und wirtschaftlich unrentabel durch den Vormarsch des Lastwagens, ordnete die Regierung Violeta Chamorro den kompletten Verkauf der Gleise als Schrott an. Heute dienen die übrig gebliebenen, rostigen Brücken und verlassenen Bahnhöfe oft als Museen oder Wohnraum für Arme. Wirtschaft K8 — Der Aufstieg und Fall von Eisenbahn-Infrastruktur.",
+      "factsAdvanced": [
+        "Die Pazifische Eisenbahn war Nicaraguas wichtigste Infrastruktur für den Export von Kaffee und Baumwolle.",
+        "Der Bau begann 1878; die Hauptlinie verband den Hafen Corinto mit Managua und Granada.",
+        "1993 beschloss die Regierung offiziell die Schließung und verkaufte die Waggons und Gleise als Schrott.",
+        "Der historische alte Bahnhof von Granada wurde heute zu einem Berufsbildungszentrum umgewandelt.",
+        "Alte Stahlbrücken für den Zug werden heute häufig zweckentfremdet von Autos genutzt.",
+        "Der Niedergang der Eisenbahn beschleunigte die absolute Dominanz des Lkw-Verkehrs in Nicaragua."
+      ]
+    },
+    {
+      "id": "sitio-historico-pancas-history-v2",
+      "descriptionAdvanced": "Das historische Gelände von Pancasán in den nebligen Bergen von Matagalpa ist eine Pilgerstätte für die Geschichte des bewaffneten Widerstands. Hier kam es im August 1967 zu einem entscheidenden Wendepunkt im Kampf der jungen Sandinistischen Befreiungsfront (FSLN) gegen die Somoza-Diktatur. Eine kleine Gruppe intellektueller Guerilleros versuchte in Pancasán eine ländliche Basis aufzubauen (Foco-Theorie), wurde jedoch von Somozas Nationalgarde entdeckt und massakriert, unter ihnen viele der wichtigsten Gründer der Bewegung (wie Silvio Mayorga). Anstatt die Bewegung zu zerstören, löste das "Märtyrertum von Pancasán" in den Städten landesweite Empörung aus und entfachte den populären Widerstand. Ein schlichtes Monument im Bergwald erinnert heute an diesen strategischen Fehlschlag, der ironischerweise zur politischen Wende führte. Geschichte K8 — Guerilla-Brennpunkte und der Weg zur Revolution.",
+      "factsAdvanced": [
+        "Schauplatz des sogenannten "Guerilla-Fokus von Pancasán" im August 1967.",
+        "Viele Führungspersönlichkeiten der FSLN, darunter Silvio Mayorga und Carlos Reyna, starben hier.",
+        "Die Rebellen versuchten, nach dem Vorbild Che Guevaras eine ländliche Aufstandsbasis aufzubauen.",
+        "Die Nationalgarde von Diktator Somoza zerstörte das Camp in einem blutigen Hinterhalt.",
+        "Die Toten von Pancasán lösten eine massive Welle der Solidarität an den Universitäten aus.",
+        "Das Lied "Un Son Para Mi Pueblo" von Carlos Mejía Godoy machte Pancasán landesweit berühmt."
+      ]
+    }
+  ]
+}

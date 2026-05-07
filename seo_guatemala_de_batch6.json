@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "terremoto-de-1773-history-v2",
+      "descriptionAdvanced": "Das Erdbeben von Santa Marta am 29. Juli 1773 veränderte den Lauf der guatemaltekischen Geschichte für immer. Die gewaltigen Erschütterungen zerstörten die stolze Hauptstadt Santiago de los Caballeros (das heutige Antigua Guatemala) fast vollständig. Die prächtigen barocken Kirchen, Klöster und Paläste, die den Reichtum des spanischen Imperiums in Zentralamerika repräsentierten, stürzten in wenigen Minuten in sich zusammen. Aufgrund der massiven Zerstörung und der ständigen Bedrohung durch die Vulkane befahl die spanische Krone die endgültige Aufgabe der Stadt. Die Hauptstadt wurde in das Ermita-Tal verlegt, wo das heutige Guatemala-Stadt entstand. Die Ruinen von Antigua blieben jahrhundertelang sich selbst überlassen, was der Stadt heute ihren einzigartigen, melancholischen kolonialen Charme verleiht. Geschichte K7 — Naturkatastrophen in der Kolonialzeit.",
+      "factsAdvanced": [
+        "Das Erdbeben ereignete sich genau am Tag der Heiligen Marta, dem 29. Juli 1773.",
+        "Es zerstörte die damalige Hauptstadt Santiago de los Caballeros fast vollständig.",
+        "Aufgrund der Katastrophe verlegte die spanische Krone die Hauptstadt in das Ermita-Tal.",
+        "Viele der verlassenen Ruinen blieben unberührt und prägen das heutige Antigua.",
+        "Die Evakuierung der Stadt dauerte mehrere Jahre, da viele Bürger sich weigerten zu gehen.",
+        "Das Beben hatte schätzungsweise eine Stärke von über 7,5 auf der Richterskala."
+      ]
+    },
+    {
+      "id": "casa-de-la-moneda-antigua-history-v2",
+      "descriptionAdvanced": "Die Casa de la Moneda (Königliche Münzstätte) in Antigua Guatemala war ein Symbol für den enormen wirtschaftlichen Reichtum der spanischen Kolonie. Im Jahr 1733 gegründet, war sie eine der wenigen autorisierten Prägeanstalten in der Neuen Welt und die einzige in Zentralamerika. Hier wurde Silber und Gold, das in den Minen der Region abgebaut wurde, zu 'Macuquinas' (handgeschlagenen Münzen) und später zu perfekt runden, maschinell geprägten Münzen verarbeitet. Diese Währung finanzierte den Handel des gesamten Generalkapitanats von Guatemala. Das Gebäude überstand das verheerende Erdbeben von 1773 nicht unbeschadet, und die Maschinen wurden hastig in die neue Hauptstadt transportiert, was das wirtschaftliche Ende der alten Kolonialmetropole besiegelte. Wirtschaft K8 — Koloniales Finanzwesen.",
+      "factsAdvanced": [
+        "Die Münzstätte in Antigua wurde 1733 offiziell durch die spanische Krone eröffnet.",
+        "Sie prägte Münzen für das gesamte Generalkapitanat von Guatemala.",
+        "Die ersten produzierten Münzen waren unregelmäßig geformte Silberstücke, genannt 'Macuquinas'.",
+        "1754 führte die Münzstätte maschinelle Pressen für perfekt runde Münzen ein.",
+        "Die Münzprägung endete in Antigua abrupt nach dem Erdbeben von 1773.",
+        "Heute sind einige der Prägemaschinen im Museum der Universität San Carlos ausgestellt."
+      ]
+    },
+    {
+      "id": "united-fruit-company-history-v2",
+      "descriptionAdvanced": "Die Geschichte der United Fruit Company (UFCO) in Guatemala ist ein beispielloses Kapitel des Neokolonialismus und prägte den Begriff der 'Bananenrepublik'. Ab dem späten 19. Jahrhundert baute das US-amerikanische Unternehmen ein gewaltiges Imperium auf, das riesige Landstriche in den Departamentos Izabal (Bananera) und Escuintla (Tiquisate) kontrollierte. Die Firma besaß nicht nur die Bananenplantagen, sondern monopolisierte auch die einzige Eisenbahnlinie des Landes, die wichtigsten Häfen und die Telegrafennetze. Als die demokratische Regierung Guatemalas 1952 versuchte, brachliegendes Land der UFCO zu enteignen, orchestrierte das Unternehmen mithilfe der CIA einen Putsch, der den Präsidenten Jacobo Árbenz stürzte und das Land in jahrzehntelange Bürgerkriege stürzte. Geschichte K8 — Imperialismus und der CIA-Putsch.",
+      "factsAdvanced": [
+        "Die UFCO kontrollierte über Jahrzehnte die gesamte Infrastruktur und den Fruchtexport Guatemalas.",
+        "Das Unternehmen war im Land allgemein als 'El Pulpo' (Die Krake) bekannt.",
+        "Ein Konflikt um Landreformen führte 1954 zum CIA-gesteuerten Putsch gegen die Regierung.",
+        "Die UFCO baute eigene Städte (wie Bananera und Tiquisate) mit amerikanischer Architektur.",
+        "Trotz harter Ausbeutung baute die Firma auch Krankenhäuser für ihre Arbeiter.",
+        "Die Marke der UFCO existiert heute unter dem Namen 'Chiquita Brands International' weiter."
+      ]
+    },
+    {
+      "id": "petexbatun-kingdom-history-v2",
+      "descriptionAdvanced": "Das Königreich von Petexbatún war ein mächtiges, aber kurzlebiges und blutiges Maya-Reich im südlichen Tiefland des Petén. Im 7. Jahrhundert von der Großmacht Tikal als militärischer Vorposten (Dos Pilas) gegründet, sagte sich das Königreich bald los und begann brutale Expansionskriege gegen seine Nachbarn. Die Herrscher von Petexbatún verbündeten sich mit Calakmul und dominierten durch ständige Kriege und Eroberungen die gesamte Pasiòn-Flussregion. Diese extreme Militarisierung führte jedoch zu einem fatalen Bumerang-Effekt: Ständige Kriege zerstörten die Landwirtschaft und die Handelsrouten. Um das Jahr 760 n. Chr. brach das Königreich spektakulär in einem blutigen Bürgerkrieg zusammen. Die verängstigte Bevölkerung riss prachtvolle Paläste ein, um hektisch Verteidigungsmauern zu bauen, bevor die Region endgültig verlassen wurde. Geschichte K8 — Der Kollaps der klassischen Maya.",
+      "factsAdvanced": [
+        "Das Königreich erlebte seine Blüte und seinen Untergang innerhalb von nur etwa 150 Jahren.",
+        "Die Hauptstadt des Reiches war die stark befestigte Stadt Dos Pilas.",
+        "Chronische Kriege zwischen Tikal und Calakmul zerrissen das Königreich.",
+        "Archäologen fanden hier Beweise für endokrine Stress- und Hunger-Krankheiten im 8. Jahrhundert.",
+        "Die Ruinen von Aguateca, einer Zwillingsstadt, zeigen Spuren einer plötzlichen feindlichen Zerstörung.",
+        "Der Kollaps von Petexbatún gilt als Vorspiel für den generellen Untergang der Maya."
+      ]
+    },
+    {
+      "id": "san-bartolo-murals-history-v2",
+      "descriptionAdvanced": "Versteckt im extrem abgelegenen Dschungel des nördlichen Petén liegt San Bartolo, eine kleine Maya-Stätte, die die archäologische Welt im Jahr 2001 in Staunen versetzte. Im Inneren einer unscheinbaren Pyramide (Las Pinturas) entdeckten Forscher die mit Abstand ältesten und am besten erhaltenen Wandmalereien der Maya-Kultur, datiert auf etwa 100 v. Chr. (Späte Präklassik). Diese spektakulären, farbenfrohen Fresken zeigen detailliert den zentralen Schöpfungsmythos der Maya, die Krönung eines frühen Königs und die Erweckung des Maisgottes. Sie beweisen eindrucksvoll, dass die Maya bereits Hunderte von Jahren vor der klassischen Periode hochkomplexe Mythologien, Königsherrschaften und Schriftsysteme besaßen. Um diese unbezahlbaren Kunstwerke zu schützen, darf die Stätte nur von spezialisierten Forscherteams betreten werden. Kunst K8 — Präklassische Maya-Malerei.",
+      "factsAdvanced": [
+        "Die Wandmalereien von San Bartolo stammen aus der Zeit um 100 v. Chr.",
+        "Sie sind die ältesten bekannten, komplexen Wandfresken der gesamten Maya-Zivilisation.",
+        "Die Bilder zeigen den mythologischen Ursprung der Welt und den Gott des Maises.",
+        "In San Bartolo wurden auch die frühesten bekannten Maya-Hieroglyphen (um 300 v. Chr.) entdeckt.",
+        "Die Fresken wurden zufällig entdeckt, als ein Archäologe Schutz vor der Sonne suchte.",
+        "Die Farben der Malereien (Rot, Schwarz, Gelb) bestehen aus natürlichen Mineralien."
+      ]
+    },
+    {
+      "id": "la-reforma-liberal-history-v2",
+      "descriptionAdvanced": "Die Liberale Reform von 1871 war ein Wendepunkt, der die moderne wirtschaftliche Struktur Guatemalas schuf. Unter der Führung von Justo Rufino Barrios wurde der Staat radikal säkularisiert: Der Einfluss der katholischen Kirche wurde gebrochen, Klöster geschlossen und gigantische kirchliche Ländereien enteignet. Barrios verteilte dieses Land an eine kleine, elitäre Gruppe von Landbesitzern, oft europäische Einwanderer, um den großflächigen Anbau von Kaffee für den Weltmarkt zu erzwingen. Um diese riesigen Fincas bewirtschaften zu können, erließ der Staat drakonische Zwangsarbeitsgesetze, die die indigene Bevölkerung verpflichteten, monatelang auf den Plantagen zu arbeiten. Diese Reformen brachten dem Land zwar Eisenbahnen und Telegrafen, zementierten jedoch eine tiefe soziale Ungleichheit und rassistische Strukturen, die bis ins 21. Jahrhundert nachwirken. Geschichte K8 — Kaffee und Ausbeutung.",
+      "factsAdvanced": [
+        "Die Reform wurde 1871 von den Generälen Miguel García Granados und Justo Rufino Barrios angeführt.",
+        "Sie markierte den Beginn des extrem lukrativen Exportgeschäfts mit guatemaltekischem Kaffee.",
+        "Das 'Reglamento de Jornaleros' legalisierte faktisch die Zwangsarbeit der indigenen Bevölkerung.",
+        "Zahlreiche deutsche Einwanderer erhielten im Zuge der Reform Ländereien im Westen des Landes.",
+        "Die Trennung von Kirche und Staat wurde radikal und gewaltsam durchgesetzt.",
+        "Ein Großteil der heutigen Infrastruktur (Eisenbahn) wurde in dieser Epoche geplant."
+      ]
+    },
+    {
+      "id": "batalla-de-puerto-caballos-history-v2",
+      "descriptionAdvanced": "Während der Kolonialzeit war die Karibikküste Zentralamerikas ständigen und brutalen Angriffen durch englische, französische und niederländische Piraten ausgesetzt. Ein Höhepunkt dieser Konflikte war die Schlacht von Puerto Caballos (heute Puerto Cortés in Honduras), die direkte Auswirkungen auf das Generalkapitanat von Guatemala hatte, da über diese Bucht die wertvollen Güter (Indigo, Silber) aus Guatemala verschifft wurden. Im späten 16. Jahrhundert griffen englische Freibeuter den schwach verteidigten Hafen an, plünderten die Speicher und brannten die Schiffe der spanischen Silberflotte nieder. Diese Angriffe verdeutlichten die militärische Schwäche der Spanier und zwangen die Krone, massiv in Befestigungsanlagen wie das Castillo de San Felipe in Guatemala zu investieren, um den Flussweg nach Antigua zu schützen. Geschichte K7 — Piraterie in der Karibik.",
+      "factsAdvanced": [
+        "Puerto Caballos war der Hauptexporthafen für Güter aus dem guatemaltekischen Hochland.",
+        "Im 16. und 17. Jahrhundert wurde der Hafen mehrfach von europäischen Freibeutern verwüstet.",
+        "Ein berühmter Angriff erfolgte 1595 durch den englischen Piraten Christopher Newport.",
+        "Aufgrund der Zerstörungen musste der spanische Handel immer wieder jahrelang pausieren.",
+        "Die ständigen Angriffe führten zum Bau massiver Festungen entlang der Karibikküste.",
+        "Der Verlust von Steuereinnahmen durch Piraterie war ein ständiges Problem für die Kolonie."
+      ]
+    },
+    {
+      "id": "genocidio-maya-history-v2",
+      "descriptionAdvanced": "Das dunkelste Kapitel in der modernen Geschichte Guatemalas ist der staatlich gesteuerte Genozid an der indigenen Maya-Bevölkerung in den frühen 1980er Jahren. Auf dem Höhepunkt des 36-jährigen Bürgerkriegs startete das Militär unter Diktator Efraín Ríos Montt die Taktik der 'Verbrannten Erde' (Tierra Arrasada), um linke Guerillakämpfer zu vernichten. Die Armee stufte jedoch ganze indigene Dörfer im Hochland – insbesondere in der Ixil-Region, im Quiché und in Alta Verapaz – pauschal als Feinde ein. Über 400 Dörfer wurden vollständig niedergebrannt und zehntausende unbewaffnete Zivilisten massakriert. Mehr als eine Million Menschen flohen in die Berge oder nach Mexiko. Erst im Jahr 2013 wurde Ríos Montt vor einem guatemaltekischen Gericht wegen Völkermords verurteilt, ein historisches Urteil, das die tiefen Wunden der Gesellschaft offenbarte. Geschichte K8 — Der Bürgerkrieg in Guatemala.",
+      "factsAdvanced": [
+        "Die UN-Wahrheitskommission stufte die Massaker der 1980er Jahre offiziell als Völkermord ein.",
+        "Über 200.000 Menschen starben während des gesamten Bürgerkriegs (1960–1996).",
+        "Die Taktik der 'Verbrannten Erde' zerstörte mehr als 400 indigene Gemeinden komplett.",
+        "Hunderttausende Indigene flohen in Flüchtlingslager im benachbarten Mexiko.",
+        "Efraín Ríos Montt wurde 2013 für schuldig befunden, das Urteil wurde jedoch später annulliert.",
+        "Organisationen suchen bis heute nach in geheimen Massengräbern Verschwundenen."
+      ]
+    },
+    {
+      "id": "firma-de-la-paz-history-v2",
+      "descriptionAdvanced": "Am 29. Dezember 1996 endete der längste und blutigste bewaffnete Konflikt Zentralamerikas mit der Unterzeichnung der Friedensverträge ('Acuerdos de Paz Fime y Duradera') in Guatemala-Stadt. Im prunkvollen Palacio Nacional unterzeichneten Vertreter der guatemaltekischen Regierung und der vereinigten Guerilla-Organisation (URNG) ein Abkommen, das 36 Jahre Bürgerkrieg beendete. Die Verträge beinhalteten nicht nur eine Waffenruhe, sondern versprachen tiefe strukturelle Reformen: Die Anerkennung der Identität und Rechte der indigenen Völker, eine Agrarreform und die Reduzierung der Armee. Obwohl die unmittelbare politische Gewalt endete, bleibt die Umsetzung der versprochenen sozialen und wirtschaftlichen Reformen bis heute lückenhaft, was zu anhaltender Frustration und Armut in vielen Teilen des Landes führt. Politik K8 — Friedensprozesse.",
+      "factsAdvanced": [
+        "Die Friedensverträge beendeten am 29. Dezember 1996 einen 36-jährigen Bürgerkrieg.",
+        "Die Verträge umfassen weitreichende Versprechen zur Integration der indigenen Bevölkerung.",
+        "Die Guerilla-Organisation URNG wurde nach der Unterzeichnung zu einer legalen politischen Partei.",
+        "Die UN-Mission MINUGUA überwachte die Entwaffnung und Demobilisierung der Kämpfer.",
+        "Trotz des Friedens blieb die Kriminalitätsrate im Land in den Folgejahren extrem hoch.",
+        "Ein Denkmal (Patio de la Paz) im Nationalpalast erinnert täglich an die Unterzeichnung."
+      ]
+    },
+    {
+      "id": "antigua-carmelite-convent-history-v2",
+      "descriptionAdvanced": "Das Kloster der Unbeschuhten Karmelitinnen (Convento de las Carmelitas Descalzas) in Antigua Guatemala zeugt von der strengen und isolierten Lebensweise der Nonnen in der spanischen Kolonialzeit. Im 17. Jahrhundert erbaut, war das Kloster ein Ort absoluter Klausur; die Schwestern hatten nach ihrem Eintritt keinen physischen Kontakt mehr zur Außenwelt. Sie lebten in strikter Armut, beteten und produzierten handgemachte Süßigkeiten. Das schwere Erdbeben von 1773 verwandelte die massive steinerne Struktur in eine faszinierende, überwucherte Ruinenlandschaft. Heute können Besucher die Reste der Kirche, die dicken Mauern der Zellen und die unterirdischen Krypten besichtigen. Die romantisch verfallene Atmosphäre, bei der tropische Pflanzen aus den eingestürzten Kuppeln wachsen, macht es zu einem der beeindruckendsten Fotomotive der alten Hauptstadt. Architektur K7 — Klosterleben in der Kolonie.",
+      "factsAdvanced": [
+        "Das Karmeliterkloster wurde im Jahr 1651 in Santiago de los Caballeros (Antigua) gegründet.",
+        "Die Nonnen des Ordens lebten in absoluter Isolation (Klausur) von der Gesellschaft.",
+        "Nach dem Erdbeben von 1773 wurde das beschädigte Gebäude endgültig aufgegeben.",
+        "Die gewaltige Hauptfassade der Kirche steht noch und ist ein Meisterwerk des Barock.",
+        "Innerhalb der Ruinen finden heute oft kulturelle Veranstaltungen und Hochzeiten statt.",
+        "Die Ordensschwestern finanzierten sich teilweise durch den Verkauf von traditionellen Süßwaren."
+      ]
+    },
+    {
+      "id": "quirigua-stela-e-history-v2",
+      "descriptionAdvanced": "Die Stele E in den archäologischen Ruinen von Quiriguá (Departamento Izabal) ist ein Monument der Superlative und das größte jemals von den Maya geschaffene freistehende Steinmonument. Mit einer unglaublichen Höhe von 10,6 Metern und einem Gewicht von über 65 Tonnen aus einem einzigen Sandsteinblock, wurde sie im Jahr 771 n. Chr. errichtet. Sie wurde vom mächtigen Herrscher K'ak' Tiliw Chan Yopaat in Auftrag gegeben, um seinen triumphalen Sieg über die viel größere Nachbarstadt Copán und die Hinrichtung ihres Königs zu feiern. Die Stele ist über und über mit extrem detaillierten Hieroglyphen und dem Porträt des Königs bedeckt, das ihn mit einem massiven Kopfschmuck zeigt. Dieses Meisterwerk der Bildhauerkunst brachte Quiriguá den Status eines UNESCO-Weltkulturerbes ein. Kunst K8 — Die Megalithen der Maya.",
+      "factsAdvanced": [
+        "Die Stele E ist das größte aus einem einzigen Stein gehauene Monument der gesamten Maya-Welt.",
+        "Sie ragt über 10 Meter in die Höhe und wiegt schätzungsweise 65 Tonnen.",
+        "Die Stele feiert den unerwarteten militärischen Sieg Quiriguás über die Großmacht Copán.",
+        "Der König K'ak' Tiliw Chan Yopaat ist auf der Vorder- und Rückseite detailreich abgebildet.",
+        "Die Hieroglyphen an den Seiten sind ein Meisterwerk der klassischen Maya-Kalligrafie.",
+        "Aufgrund ihres sandigen Gesteins wird die Stele heute von einem großen Dach vor Regen geschützt."
+      ]
+    },
+    {
+      "id": "arco-de-santa-catalina-landmarks-v2",
+      "descriptionAdvanced": "Der Arco de Santa Catalina ist unbestritten das berühmteste und am meisten fotografierte architektonische Wahrzeichen von Antigua Guatemala. Der strahlend gelbe Steinbogen überspannt eine gepflasterte Straße und rahmt perfekt den majestätischen Vulkan Agua im Hintergrund ein. Errichtet wurde er im 17. Jahrhundert aus rein pragmatischen Gründen: Die Nonnen des Klosters Santa Catalina lebten in strikter Klausur und durften auf keinen Fall von der Öffentlichkeit gesehen werden. Als das Kloster erweitert wurde, baute man diesen geschlossenen Bogen über die Straße, damit die Nonnen unsichtbar von einem Gebäude ins andere gelangen konnten. Die elegante Uhr an der Spitze wurde erst im 19. Jahrhundert nach der Zerstörung durch Erdbeben hinzugefügt und verleiht dem Bauwerk seinen endgültigen, ikonischen Charakter. Architektur K7 — Wahrzeichen von Antigua.",
+      "factsAdvanced": [
+        "Der Bogen wurde im 17. Jahrhundert gebaut, um zwei Teile eines Nonnenklosters zu verbinden.",
+        "Er diente den Klausurnonnen dazu, die Straße zu überqueren, ohne gesehen zu werden.",
+        "Die charakteristische Uhr an der Spitze wurde erst in den 1830er Jahren hinzugefügt.",
+        "Der Arco ist heute das weltweit bekannteste Symbol für den Tourismus in Guatemala.",
+        "Unter dem Bogen hindurch hat man bei klarem Wetter perfekte Sicht auf den Vulkan Agua.",
+        "Er überstand das gewaltige Erdbeben von 1773, das fast die gesamte restliche Stadt zerstörte."
+      ]
+    },
+    {
+      "id": "palacio-de-los-capitanes-generales-landmarks-v2",
+      "descriptionAdvanced": "Der Palacio de los Capitanes Generales dominiert die Südseite des Zentralparks in Antigua Guatemala. Dieses massive, langgestreckte Gebäude war über zwei Jahrhunderte lang das absolute Machtzentrum der Spanischen Krone für das gesamte Generalkapitanat, welches von Chiapas (Mexiko) bis nach Costa Rica reichte. Hinter seiner majestätischen, zweistöckigen Arkadenfassade mit Dutzenden von Steinbögen befanden sich die Residenz des Gouverneurs, königliche Gerichte, Schatzkammern und militärische Kasernen. Nachdem das Gebäude beim Erdbeben von 1773 schwer beschädigt wurde, verlor es seine politische Bedeutung, als die Hauptstadt verlegt wurde. In den letzten Jahrzehnten wurde der Palast aufwendig restauriert und beherbergt heute Regierungsbüros, das Touristeninformationszentrum und ein Kulturmuseum. Architektur K8 — Das koloniale Machtzentrum.",
+      "factsAdvanced": [
+        "Der Palast war der Regierungssitz für ganz Zentralamerika während der Kolonialzeit.",
+        "Die beeindruckende Fassade erstreckt sich über eine komplette Straßenseite (Rund 100 Meter).",
+        "Das Gebäude beherbergte Gerichte, Schatzkammern und die Truppen der königlichen Garde.",
+        "Das Erdbeben von 1773 zerstörte den Palast, weshalb die Regierung nach Guatemala-Stadt zog.",
+        "Die hölzernen Deckenbalken und massiven Steinsäulen sind Zeugnisse der kolonialen Baukunst.",
+        "Heute wird das restaurierte Gebäude teilweise als Kulturzentrum und Kunstgalerie genutzt."
+      ]
+    },
+    {
+      "id": "iglesia-de-la-merced-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia de La Merced im Norden von Antigua Guatemala ist das unübertroffene Meisterwerk des sogenannten 'Ultrabaroque' (Erdbeben-Barock). Die strahlend gelbe Fassade der Kirche ist komplett mit extrem feinen, weißen Stuckverzierungen überzogen, die komplizierte florale Muster, Heiligenfiguren und Weinreben darstellen. Die Architekten hatten aus den ständigen Erdbeben gelernt: Die Kirche wurde sehr niedrig, enorm breit und mit unglaublich dicken Wänden gebaut. Diese Bauweise bewährte sich, als La Merced als eines der wenigen großen Gebäude das katastrophale Erdbeben von 1773 überstand. Auf dem Platz vor der Kirche befindet sich ein prächtiger, wasserspeiender Brunnen in Form einer Seerose, der zu den größten kolonialen Brunnen Mittelamerikas zählt. Architektur K7 — Der Erdbeben-Barock.",
+      "factsAdvanced": [
+        "La Merced gilt als das schönste Beispiel des guatemaltekischen 'Erdbeben-Barocks'.",
+        "Die Kirche überstand das Erdbeben von 1773 fast unbeschadet wegen ihrer extrem dicken Wände.",
+        "Ihre gelbe Fassade ist mit feinsten weißen Stuck-Pflanzenmustern dekoriert.",
+        "Das angrenzende Kloster beherbergt einen gewaltigen Brunnen in Form einer Wasserlilie.",
+        "Die Kirche besitzt einige der wertvollsten Heiligenstatuen, die noch für Prozessionen genutzt werden.",
+        "Die niedrige, gedrungene Bauweise wurde absichtlich zur Abwehr seismischer Schocks gewählt."
+      ]
+    },
+    {
+      "id": "convento-de-las-capuchinas-landmarks-v2",
+      "descriptionAdvanced": "Das Convento de las Capuchinas in Antigua Guatemala ist berühmt für seine einzigartige architektonische Innovation, die es von allen anderen Klöstern der Stadt unterscheidet. Errichtet im frühen 18. Jahrhundert, war es das erste Kloster in Zentralamerika, das Frauen aus ärmeren Verhältnissen den Eintritt ermöglichte, da keine Mitgift verlangt wurde. Das absolute Highlight der Anlage ist die 'Torre de Retiro' (Turm des Rückzugs): Ein massiver zylindrischer Bau, in dem die kleinen, extrem kargen Zellen der Nonnen kreisförmig um einen zentralen Schacht angeordnet sind. Unter diesem Turm befindet sich eine dunkle, kreisrunde Krypta, die aufgrund ihrer perfekten Akustik oft für Chorgesänge genutzt wurde. Heute sind die gut erhaltenen Ruinen ein Museum, das Einblicke in das entbehrungsreiche Leben der Kapuzinerinnen bietet. Architektur K8 — Innovation im Klosterbau.",
+      "factsAdvanced": [
+        "Das Kapuzinerinnenkloster wurde im Jahr 1736 geweiht und 1773 vom Erdbeben zerstört.",
+        "Es ist berühmt für seinen einzigartigen, kreisrunden Zellentrakt ('Torre de Retiro').",
+        "Das Kloster war das erste, das keine teure Mitgift von neuen Nonnen verlangte.",
+        "Die Nonnen schliefen auf harten Holzbrettern und lebten nach extrem strengen Fastenregeln.",
+        "Die unterirdische, runde Krypta besitzt eine außergewöhnliche, flüsternde Akustik.",
+        "Die Anlage bot den Nonnen auch eigene Waschhäuser und kleine Gärten innerhalb der dicken Mauern."
+      ]
+    },
+    {
+      "id": "iglesia-de-san-francisco-el-grande-landmarks-v2",
+      "descriptionAdvanced": "Das Heiligtum des Heiligen Franziskus (San Francisco El Grande) in Antigua ist eine massive Kirchenruine, die teilweise restauriert wurde und heute der wichtigste katholische Pilgerort der Stadt ist. Ihre immense Bedeutung verdankt die Kirche dem Grab des Hermano Pedro de San José Betancur, einem bescheidenen Franziskanermönch aus dem 17. Jahrhundert, der 2002 als erster Mensch aus Zentralamerika heiliggesprochen wurde. Jeden Tag drängen sich Gläubige um sein Grab, klopfen auf die Marmorplatte und hinterlassen Tausende von Danksagungstafeln für medizinische und persönliche Wunder. Während der vordere Teil der Kirche funktional ist, breiten sich dahinter die gewaltigen, erdbebengeschädigten Ruinen des alten Klosters und des Krankenhauses aus, in dem Hermano Pedro einst die Ärmsten pflegte. Religion K7 — Der erste Heilige Zentralamerikas.",
+      "factsAdvanced": [
+        "Die Kirche beherbergt die sterblichen Überreste des Heiligen Pedro de San José Betancur.",
+        "Hermano Pedro war ein einfacher Mönch, der für seine Arbeit mit den Ärmsten berühmt war.",
+        "Die Wände um das Grab sind mit Tausenden von steinernen Danksagungen (Votivtafeln) bedeckt.",
+        "Die ursprüngliche Kirche und das Kloster gehörten zu den größten Anlagen in Antigua.",
+        "Papst Johannes Paul II. sprach Hermano Pedro im Jahr 2002 offiziell heilig.",
+        "Gläubige klopfen oft an sein Grab, um seine spirituelle Aufmerksamkeit für ihre Gebete zu erregen."
+      ]
+    },
+    {
+      "id": "estadio-doroteo-guamuch-flores-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Nacional Doroteo Guamuch Flores in Guatemala-Stadt ist der größte und wichtigste Sporttempel des Landes. Es liegt dramatisch in einer tiefen Schlucht ('Barranco') in der Zone 5, was ihm eine einzigartige architektonische Kulisse verleiht. Gebaut 1950 im modernistischen Stil, war es Schauplatz aller großen Fußballschlachten der Nationalmannschaft (La Bicolor). Ursprünglich 'Mateo Flores' genannt, nach dem guatemaltekischen Gewinner des Boston-Marathons, wurde der Name später auf seinen indigenen Geburtsnamen geändert. Das Stadion ist leider auch mit einer der schlimmsten Sporttragödien weltweit verbunden: 1996 kam es bei einem WM-Qualifikationsspiel gegen Costa Rica zu einer verheerenden Massenpanik, bei der über 80 Menschen starben, was zur drastischen Reduzierung der Zuschauerkapazität führte. Sport K7 — Die Kathedrale des guatemaltekischen Fußballs.",
+      "factsAdvanced": [
+        "Das Stadion ist das offizielle Heimstadion der guatemaltekischen Fußballnationalmannschaft.",
+        "Es wurde nach dem indigenen Langstreckenläufer Doroteo Guamuch Flores benannt.",
+        "Das Bauwerk wurde 1950 anlässlich der Zentralamerika- und Karibikspiele errichtet.",
+        "Im Oktober 1996 starben 83 Menschen bei einer tragischen Massenpanik auf den Rängen.",
+        "Aufgrund der Tragödie wurde die Kapazität auf rund 26.000 Zuschauer streng begrenzt.",
+        "Das Stadion liegt einzigartig eingebettet in einer natürlichen Schlucht in der Hauptstadt."
+      ]
+    },
+    {
+      "id": "teatro-nacional-miguel-angel-asturias-landmarks-v2",
+      "descriptionAdvanced": "Das Centro Cultural Miguel Ángel Asturias, allgemein als Teatro Nacional bekannt, ist das unumstrittene Meisterwerk der modernen guatemaltekischen Architektur. Gelegen auf einem Hügel mitten in Guatemala-Stadt (Zone 1), wurde es von dem visionären Künstler und Architekten Efraín Recinos entworfen. Der gewaltige Komplex, verkleidet mit blauen und weißen Mosaikfliesen, erinnert aus der Ferne an ein massives Maya-Kriegsschiff oder einen ruhenden Vulkan, der sich harmonisch in die umgebende Landschaft einfügt. Das Innere des Theaters ist ebenso spektakulär, mit geschwungenen, organischen Formen und herausragender Akustik. Der Komplex beinhaltet neben dem Hauptsaal auch ein Freiluft-Amphitheater und beherbergt das nationale Ballett sowie das Symphonieorchester. Architektur K8 — Moderner Expressionismus.",
+      "factsAdvanced": [
+        "Das Theater wurde vom berühmten guatemaltekischen Künstler Efraín Recinos entworfen.",
+        "Das Design integriert geschickt Elemente der Maya-Kultur und der lokalen Vulkanlandschaft.",
+        "Es wurde auf den Fundamenten einer alten Militärfestung (Fuerte de San José) erbaut.",
+        "Die Fassade ist mit Tausenden von blauen und weißen Mosaiksteinen verziert.",
+        "Der große Hauptsaal (Gran Sala) bietet Platz für über 2.000 Zuschauer.",
+        "Das Gebäude ist nach dem guatemaltekischen Literaturnobelpreisträger Miguel Ángel Asturias benannt."
+      ]
+    },
+    {
+      "id": "catedral-metropolitana-landmarks-v2",
+      "descriptionAdvanced": "Die Catedral Metropolitana, offiziell Catedral Primada de Santiago de Guatemala, ist das gewaltige religiöse Herzstück von Guatemala-Stadt, direkt am Hauptplatz (Plaza de la Constitución) gelegen. Nach der Zerstörung von Antigua wurde dieser massive neoklassizistische Bau entworfen, um absoluter Stabilität gegen Erdbeben zu trotzen – mit extrem dicken Säulen und niedrigen Kuppeln. Fertiggestellt im 19. Jahrhundert, überstand sie zahlreiche Beben, wenn auch mit Reparaturen. Neben ihrer architektonischen Wichtigkeit ist sie ein Ort tiefer politischer Bedeutung: Zwölf massive Steinsäulen (Pilar de la Memoria) vor dem Eingang sind mit den eingravierten Namen tausender Opfer des guatemaltekischen Bürgerkriegs bedeckt, eine ständige Mahnung an die Gewalt der jüngeren Geschichte. Architektur K7 — Neoklassizismus und Gedenken.",
+      "factsAdvanced": [
+        "Die Kathedrale ist der Sitz des Erzbischofs von Guatemala.",
+        "Sie wurde im massiven neoklassizistischen Stil erbaut, um Erdbeben standzuhalten.",
+        "Der Bau dauerte über 80 Jahre und wurde 1868 endgültig fertiggestellt.",
+        "Vor der Kathedrale stehen Säulen mit Namen Tausender Ermordeter und Verschwundener des Bürgerkriegs.",
+        "Viele Altäre und Kunstwerke im Inneren wurden nach dem Erdbeben von 1773 aus Antigua hierher gebracht.",
+        "In den Krypten unter der Kathedrale sind wichtige religiöse und historische Figuren begraben."
+      ]
+    },
+    {
+      "id": "basilica-de-esquipulas-landmarks-v2",
+      "descriptionAdvanced": "Die Basílica del Santo Cristo Crucificado in Esquipulas (Chiquimula) ist nicht nur ein architektonisches Wunder, sondern das Epizentrum des Glaubens für ganz Zentralamerika. Der gewaltige, strahlend weiße Barockbau mit seinen vier markanten Ecktürmen erhebt sich imposant über das trockene, heiße Tal. Im Inneren befindet sich die berühmte Holzstatue des 'Schwarzen Christus' (Cristo Negro), geschnitzt im Jahr 1595, die der Basilika den Status als wichtigster Wallfahrtsort der Region eingebracht hat. Besonders im Januar strömen hunderttausende Pilger aus Mexiko, El Salvador, Honduras und Guatemala herbei, viele legen die letzten Kilometer auf den Knien zurück. Die immense Größe der Basilika wurde im 18. Jahrhundert eigens konzipiert, um diesen gewaltigen Pilgermassen Platz zu bieten. Religion K8 — Wallfahrtsorte und religiöse Architektur.",
+      "factsAdvanced": [
+        "Die Basilika ist der wichtigste katholische Wallfahrtsort in ganz Zentralamerika.",
+        "Sie beherbergt die Statue des Schwarzen Christus, die 1595 von Quirio Cataño geschnitzt wurde.",
+        "Das strahlend weiße Gebäude besitzt vier mächtige, 50 Meter hohe Glockentürme.",
+        "Die Basilika wurde 1759 fertiggestellt, um die enorm wachsenden Pilgermassen aufzunehmen.",
+        "Das jährliche Hauptfest am 15. Januar zieht Millionen von Besuchern an.",
+        "Papst Johannes XXIII. erhob die Kirche 1961 offiziell in den Rang einer Basilica Minor."
+      ]
+    },
+    {
+      "id": "iglesia-amarilla-san-andres-xecul-landmarks-v2",
+      "descriptionAdvanced": "Die Pfarrkirche von San Andrés Xecul im Hochland von Totonicapán ist ein visuelles Spektakel und eines der am meisten fotografierten Gebäude Guatemalas. Die Fassade der Kirche ist in einem grellen, fast schon fluoreszierenden Gelb gestrichen und über und über mit bunten Stuckfiguren bedeckt. Etwa 200 Figuren klettern förmlich die Wände hinauf, darunter Engel, Heilige, Tiger, Blumen, Affen und Weinranken. Diese Kirche ist das ultimative Symbol für den religiösen Synkretismus in Guatemala: Katholische Ikonografie verschmilzt nahtlos mit der Maya-Kosmologie und den Mustern traditioneller indigener Textilien (Huipiles). Erbaut im frühen 20. Jahrhundert, spiegelt die Kirche den tiefen und bunten Glauben der lokalen K'iche'-Bevölkerung wider, die die Fassade als kollektives, lebendiges Kunstwerk betrachtet. Kunst K7 — Naiver Stil und Synkretismus.",
+      "factsAdvanced": [
+        "Die Kirche ist berühmt für ihre leuchtend gelbe Farbe und über 200 bunte Stuckfiguren.",
+        "Die Fassade stellt eine einzigartige Mischung aus Maya-Mythologie und Katholizismus dar.",
+        "Die gelbe Grundfarbe repräsentiert in der Maya-Kultur die Maisernte und den Süden.",
+        "An der Spitze der Kirche klettern zwei Jaguare (ein wichtiges Maya-Symbol) den Turm hinauf.",
+        "Die Kirche wurde Anfang des 20. Jahrhunderts von lokalen Handwerkern gestaltet.",
+        "Der Stil wird oft als 'Populärer Barock' oder naiver indigener Architekturstil bezeichnet."
+      ]
+    },
+    {
+      "id": "torre-del-reformador-landmarks-v2",
+      "descriptionAdvanced": "Die Torre del Reformador ist ein markantes Stahlmonument mitten auf einer der verkehrsreichsten Kreuzungen in der Zone 9 von Guatemala-Stadt. Mit ihrer charakteristischen eisernen Gitterstruktur erinnert sie stark an den Eiffelturm in Paris, der auch tatsächlich als direkte Inspiration diente. Der 75 Meter hohe Turm wurde 1935 in den USA gefertigt, nach Guatemala verschifft und hier zusammengesetzt, um den hundertsten Geburtstag von General Justo Rufino Barrios, dem 'Reformer', zu ehren. Das Monument symbolisiert den Eintritt Guatemalas in die moderne Industriezeit. Ursprünglich thronte an der Spitze eine Glocke, die jedoch 1986 durch eine Leuchtfeuer-Anlage für den nahegelegenen internationalen Flughafen ersetzt wurde. Heute ist der nachts oft bunt beleuchtete Turm ein zentraler Orientierungspunkt in der Millionenmetropole. Architektur K7 — Moderne städtische Monumente.",
+      "factsAdvanced": [
+        "Der Turm ist 75 Meter hoch und aus verzinktem Stahl konstruiert.",
+        "Er wurde in den USA hergestellt und an seinem jetzigen Ort in Guatemala zusammengebaut.",
+        "Das Monument ehrt den liberalen Präsidenten und Reformer Justo Rufino Barrios.",
+        "Seine Struktur wurde offensichtlich vom Eiffelturm in Paris inspiriert.",
+        "Der Turm steht mitten über einer stark befahrenen Kreuzung der Zone 9.",
+        "An der Spitze befindet sich heute ein Flugfeuerwerk zur Orientierung für landende Flugzeuge."
+      ]
+    },
+    {
+      "id": "monumento-a-la-paz-landmarks-v2",
+      "descriptionAdvanced": "Das Monumento a la Paz (Friedensmonument) befindet sich im Innenhof des Palacio Nacional de la Cultura in Guatemala-Stadt und ist das wichtigste Denkmal der jüngeren Geschichte des Landes. Es wurde im Dezember 1997 enthüllt, um den ersten Jahrestag der Unterzeichnung der Friedensverträge zu feiern, die den 36-jährigen Bürgerkrieg beendeten. Das kleine, aber hochgradig symbolische Bronzemonument zeigt zwei sich aufwärts öffnende Hände, die gemeinsam eine echte weiße Rose halten. Eine bemerkenswerte und zutiefst politische Besonderheit des Denkmals ist, dass beide abgebildeten Hände linke Hände sind. Der Künstler wählte dieses Detail, um zu symbolisieren, dass es in Zukunft keinen rechten (konservativ-militärischen) bewaffneten Konflikt mehr geben soll, oder – in einer anderen Interpretation – als Zeichen brüderlicher Verbundenheit, da die linke Hand dem Herzen am nächsten ist. Täglich um 11 Uhr morgens wird in einer feierlichen Zeremonie die weiße Rose im Zentrum des Denkmals durch eine frische ersetzt, oft durch Personen oder Organisationen, die sich um den Frieden im Land verdient gemacht haben. Politik K8 — Symbole der Versöhnung.",
+      "factsAdvanced": [
+        "Das Monument erinnert an das Ende des 36-jährigen guatemaltekischen Bürgerkriegs im Jahr 1996.",
+        "Es befindet sich im westlichen Innenhof des Nationalpalastes, dem 'Patio de la Paz'.",
+        "Das Kunstwerk zeigt zwei linke Hände, die eine frische weiße Rose halten.",
+        "Jeden Tag um Punkt 11:00 Uhr wird die weiße Rose im Rahmen eines Rituals gewechselt.",
+        "Das Monument wurde von dem guatemaltekischen Bildhauer Luis Carlos entworfen.",
+        "Es ist ein Ort der Trauer, des Gedenkens und der politischen Ehrung in Guatemala."
+      ]
+    },
+    {
+      "id": "puente-de-los-esclavos-landmarks-v2",
+      "descriptionAdvanced": "Die Puente de los Esclavos (Sklavenbrücke) im Departamento Santa Rosa ist ein Meisterwerk der kolonialen Ingenieurskunst und umgeben von dunklen Legenden. Erbaut im Jahr 1592 über den gewaltigen Fluss Los Esclavos, ist sie die älteste noch intakte Brücke in ganz Zentralamerika. Der Bau wurde von versklavten afrikanischen und indigenen Arbeitern unter extrem grausamen Bedingungen durchgeführt, was dem Fluss und der Brücke ihren Namen gab. Die Konstruktion aus elf massiven Steinbögen war so perfekt, dass sie in über 400 Jahren unzählige Erdbeben und tropische Stürme (wie Hurricane Mitch) völlig unbeschadet überstand, während moderne Brücken in der Nähe weggespült wurden. Lokale Legenden besagen, dass der Baumeister einen Pakt mit dem Teufel schloss, um die Brücke fertigzustellen, was ihre übernatürliche Haltbarkeit erklären soll. Architektur K7 — Koloniale Brückenbaukunst.",
+      "factsAdvanced": [
+        "Die Puente de los Esclavos wurde 1592 fertiggestellt und wird heute noch für leichten Verkehr genutzt.",
+        "Sie ist die älteste erhaltene Brücke in ganz Mittelamerika.",
+        "Die Brücke wurde von afrikanischen und indigenen Sklaven unter spanischer Aufsicht erbaut.",
+        "Das Bauwerk besteht aus massivem behauenem Stein und hat elf perfekt geformte Bögen.",
+        "Trotz moderner Hurrikane, die neuere Brücken zerstörten, blieb dieses Bauwerk unversehrt.",
+        "Lokale Mythen behaupten, dem Teufel fehle ein Stein an der Brücke, den er als Tribut forderte."
+      ]
+    },
+    {
+      "id": "museo-popol-vuh-landmarks-v2",
+      "descriptionAdvanced": "Das Museo Popol Vuh, das sich auf dem grünen Campus der Universidad Francisco Marroquín in Guatemala-Stadt befindet, ist eines der angesehensten Museen für präkolumbische Kunst weltweit. Benannt nach dem 'Popol Vuh', dem heiligen Schöpfungsbuch der K'iche'-Maya, beherbergt das Museum eine unbezahlbare private Sammlung von Keramik, Steinskulpturen und Jadeschmuck, die die gesamte Geschichte der Maya-Zivilisation abdeckt. Besonders berühmt ist die Sammlung von fein bemalten klassischen Maya-Vasen ('Polychrome Vasen'), auf denen Mythen, Herrscher und Rituale mit fotografischer Präzision dargestellt sind. Das Museum fungiert nicht nur als Ausstellungsraum, sondern ist ein wichtiges Forschungszentrum, das aktiv gegen den illegalen Schmuggel von Maya-Artefakten ankämpft und das reiche Erbe Guatemalas sichert. Kunst K8 — Die Kunst der klassischen Maya.",
+      "factsAdvanced": [
+        "Das Museum beherbergt eine der besten Sammlungen von Maya-Keramik weltweit.",
+        "Es befindet sich auf dem modernen Campus der Universidad Francisco Marroquín (UFM).",
+        "Die Sammlung reicht von der frühen präklassischen bis zur postklassischen Periode der Maya.",
+        "Viele Exponate wurden vor Plünderern aus dem Dschungel des Petén gerettet.",
+        "Ein besonderer Fokus der Ausstellung liegt auf der komplexen Bestattungskunst der Maya.",
+        "Das Museum ist benannt nach dem Popol Vuh, dem historischen Schöpfungsepos der Maya."
+      ]
+    }
+  ]
+}

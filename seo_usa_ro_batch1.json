@@ -1,0 +1,255 @@
+{
+  "lang": "ro",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-paso-cities-v2",
+      "descriptionAdvanced": "El Paso, situat în extremitatea vestică a statului Texas, de-a lungul râului Rio Grande, formează împreună cu orașul mexican Ciudad Juárez o vastă zonă metropolitană transfrontalieră. Fondat inițial în 1659 de exploratorii spanioli sub numele de El Paso del Norte, a devenit parte a Statelor Unite în 1848, după Războiul Mexicano-American. Orașul este recunoscut pentru complexul militar Fort Bliss, una dintre cele mai mari baze ale Armatei SUA, înființată în anul 1849. Cu peste 300 de zile însorite pe an, metropola și-a câștigat supranumele de „Orașul Soarelui”. Arhitectura locală îmbină stilul spaniol cu cel modern, iar Universitatea din Texas din El Paso se remarcă prin clădirile sale inspirate de arhitectura bhutaneză. Economia este susținută de comerțul internațional și sectorul militar. Geografie K7 — granițe și comerț internațional.",
+      "factsAdvanced": [
+        "A fost fondat în anul 1659 sub numele de El Paso del Norte.",
+        "A devenit parte a teritoriului SUA în 1848.",
+        "Baza militară Fort Bliss a fost înființată aici în 1849.",
+        "Se bucură de peste 300 de zile cu soare anual.",
+        "Formează o zonă metropolitană comună cu Ciudad Juárez din Mexic.",
+        "Populația orașului a depășit 678.000 de locuitori în 2020."
+      ]
+    },
+    {
+      "id": "detroit-cities-v2",
+      "descriptionAdvanced": "Detroit, cel mai mare oraș din statul Michigan, este recunoscut la nivel mondial drept centrul istoric al industriei auto americane, câștigându-și supranumele de „Motor City”. Înființat în anul 1701 de exploratorul francez Antoine de la Mothe Cadillac, orașul a cunoscut o expansiune uriașă în secolul al XX-lea, odată cu fondarea companiei Ford Motor Company de către Henry Ford în 1903. Pe lângă mașini, Detroit este locul de naștere al casei de discuri Motown Records, fondată de Berry Gordy în 1959, care a revoluționat muzica pop și soul. Deși a trecut printr-un declin economic sever care a culminat cu falimentul din 2013, orașul trece astăzi printr-o renaștere arhitecturală și culturală impresionantă. Istorie K8 — industrializarea și industria auto.",
+      "factsAdvanced": [
+        "A fost fondat la 24 iulie 1701 de exploratori francezi.",
+        "Compania Ford Motor a fost înființată aici în 1903.",
+        "Este locul de naștere al casei de discuri Motown, fondată în 1959.",
+        "Orașul a depus actele de faliment municipal în anul 2013.",
+        "Este situat pe râul Detroit, la granița cu orașul Windsor din Canada.",
+        "Populația a atins un vârf de 1,8 milioane de locuitori în anul 1950."
+      ]
+    },
+    {
+      "id": "nashville-cities-v2",
+      "descriptionAdvanced": "Nashville, capitala statului Tennessee, este recunoscută global drept „Orașul Muzicii” (Music City) datorită impactului său profund asupra muzicii country. Fondat în 1779 de James Robertson pe malurile râului Cumberland, orașul a crescut rapid datorită poziției sale ca port fluvial și nod feroviar. Emisiunea radiofonică Grand Ole Opry, transmisă începând cu anul 1925, a transformat Nashville într-un epicentru al industriei de divertisment. Pe lângă muzică, orașul este un pol major al asistenței medicale și educației superioare, găzduind Universitatea Vanderbilt, înființată în 1873. Replicile clădirilor istorice, precum Partenonul construit în 1897 pentru Expoziția Centenară din Tennessee, i-au adus și supranumele de „Atena Sudului”. Geografie K7 — centre culturale și economice.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în ziua de Crăciun a anului 1779.",
+        "Emisiunea muzicală Grand Ole Opry este transmisă continuu din 1925.",
+        "Universitatea Vanderbilt a fost fondată în anul 1873.",
+        "Replica la scară reală a Partenonului a fost finalizată în 1897.",
+        "Este a doua cea mai mare zonă de producție muzicală din SUA după New York.",
+        "Industria sănătății din regiune contribuie anual cu miliarde la economia locală."
+      ]
+    },
+    {
+      "id": "portland-or-cities-v2",
+      "descriptionAdvanced": "Portland este cel mai mare oraș din statul Oregon, situat la confluența râurilor Willamette și Columbia. Fondată oficial în 1851, așezarea și-a primit numele în urma unei aruncări cu banul între doi coloniști din Boston și Portland (Maine). Orașul s-a dezvoltat inițial ca un important port maritim, facilitând exportul de cherestea din vastele păduri ale Pacificului de Nord-Vest. Astăzi, Portland este renumit pentru planificarea urbană ecologică, rețeaua extinsă de piste pentru biciclete și cultura sa progresistă. Parcul Washington găzduiește faimoasa Grădină Internațională de Trandafiri (înființată în 1917), care i-a adus orașului supranumele de „Orașul Trandafirilor”. De asemenea, este un centru important pentru industria tehnologică. Geografie K7 — dezvoltare urbană sustenabilă.",
+      "factsAdvanced": [
+        "Orașul a fost încorporat oficial în anul 1851.",
+        "Grădina Internațională de Trandafiri a fost deschisă în anul 1917.",
+        "Numele orașului a fost decis prin aruncarea unei monede de un penny în 1845.",
+        "Găzduiește anual Festivalul Trandafirilor încă din anul 1907.",
+        "Este recunoscut pentru una dintre cele mai bune infrastructuri pentru bicicliști din SUA.",
+        "Industria berii artizanale numără peste 70 de fabrici locale."
+      ]
+    },
+    {
+      "id": "memphis-cities-v2",
+      "descriptionAdvanced": "Memphis, situat în colțul de sud-vest al statului Tennessee, pe malul estic al fluviului Mississippi, este un oraș cu o moștenire culturală impresionantă. Fondat în 1819 de Andrew Jackson și John Overton, orașul a prosperat inițial datorită comerțului cu bumbac și industriei lemnului. Memphis este celebru ca locul de naștere al muzicii blues și rock and roll. Strada Beale este inima istorică a jazzului și blues-ului, în timp ce Sun Studio, deschis în 1950, este locul unde Elvis Presley și Johnny Cash și-au înregistrat primele hituri. Domeniul Graceland, fosta reședință a lui Elvis, atrage anual sute de mii de vizitatori din 1982. În 1968, orașul a fost scena tragicului asasinat al lui Martin Luther King Jr., eveniment comemorat astăzi la Muzeul Național al Drepturilor Civile. Istorie K8 — mișcarea pentru drepturile civile.",
+      "factsAdvanced": [
+        "A fost fondat în 1819 de către Andrew Jackson și asociații săi.",
+        "Sun Studio a fost deschis în Memphis în anul 1950.",
+        "Martin Luther King Jr. a fost asasinat la Motelul Lorraine în 1968.",
+        "Domeniul Graceland a fost deschis publicului în anul 1982.",
+        "Este cel mai aglomerat port de marfă de pe fluviul Mississippi.",
+        "Aeroportul Internațional Memphis este un nod global major pentru compania FedEx."
+      ]
+    },
+    {
+      "id": "oklahoma-city-cities-v2",
+      "descriptionAdvanced": "Oklahoma City este capitala și cel mai populat oraș al statului Oklahoma, renumit pentru moștenirea sa legată de cultura Vestului Sălbatic și industria petrolieră. Orașul a fost fondat la 22 aprilie 1889, în timpul faimoasei „Goane după Pământ” (Land Run), când peste 10.000 de coloniști și-au revendicat loturile în doar câteva ore. Descoperirea petrolului în 1928, chiar în interiorul limitelor orașului, a transformat rapid economia locală. Un eveniment tragic din istoria modernă a fost atentatul cu bombă din 1995 de la clădirea federală Alfred P. Murrah, soldat cu 168 de victime, comemorat astăzi printr-un impresionant memorial național. Astăzi, metropola găzduiește una dintre cele mai mari piețe de vite din lume și un centru important de aviație. Istorie K8 — colonizarea vestului american.",
+      "factsAdvanced": [
+        "Orașul a fost fondat brusc la 22 aprilie 1889 în timpul Land Run.",
+        "Capitoliul statului este singurul din SUA cu o sondă de petrol pe terenul său.",
+        "Descoperirea zăcămintelor de petrol în 1928 a revoluționat economia.",
+        "Memorialul Național Oklahoma City a fost deschis în anul 2000.",
+        "Zona metropolitană numără peste 1,4 milioane de locuitori.",
+        "Este traversat de celebra rută istorică Route 66."
+      ]
+    },
+    {
+      "id": "las-vegas-cities-v2",
+      "descriptionAdvanced": "Las Vegas, situat în Deșertul Mojave, este cel mai mare oraș din statul Nevada și capitala mondială a divertismentului. Înființat în 1905 ca o modestă stație feroviară, orașul a cunoscut un boom incredibil după legalizarea jocurilor de noroc în Nevada în 1931 și construcția Barajului Hoover în apropiere, în 1935. Astăzi, faimosul bulevard Las Vegas Strip este definit de cazinouri luxoase, hoteluri uriașe și replici arhitecturale spectaculoase, precum Turnul Eiffel sau canalele Veneției. Economia se bazează masiv pe turism, convenții internaționale și jocuri de noroc, atrăgând anual peste 40 de milioane de vizitatori. Deși se confruntă cu provocări legate de resursele de apă din Lacul Mead, Las Vegas continuă să se extindă spectaculos. Geografie K8 — urbanizarea în zone deșertice.",
+      "factsAdvanced": [
+        "Orașul a fost fondat oficial la 15 mai 1905.",
+        "Jocurile de noroc au fost legalizate în statul Nevada în 1931.",
+        "Las Vegas Strip găzduiește 15 dintre cele mai mari 25 de hoteluri din lume.",
+        "Barajul Hoover, esențial pentru oraș, a fost finalizat în 1935.",
+        "Peste 40 de milioane de turiști vizitează orașul în fiecare an.",
+        "Bulevardul principal strălucește datorită a milioane de lumini cu neon și LED."
+      ]
+    },
+    {
+      "id": "louisville-cities-v2",
+      "descriptionAdvanced": "Louisville, cel mai mare oraș din Kentucky, este situat de-a lungul râului Ohio și deține un rol istoric important ca port și centru de comerț. Fondat în 1778 de George Rogers Clark și numit în onoarea regelui Ludovic al XVI-lea al Franței, orașul a devenit un hub major pentru industria tutunului și distileria bourbonului. Louisville este mondial recunoscut pentru găzduirea anuală a faimoasei curse de cai Kentucky Derby, organizată continuu la hipodromul Churchill Downs începând din anul 1875. În plus, este locul de naștere al legendarului boxer Muhammad Ali, a cărui moștenire este celebrată la un centru cultural dedicat deschis în 2005. Economia sa modernă include logistică avansată, fiind un centru principal pentru UPS. Geografie K7 — transportul fluvial și economia regională.",
+      "factsAdvanced": [
+        "A fost fondat în anul 1778 de către George Rogers Clark.",
+        "Cursa de cai Kentucky Derby a fost organizată pentru prima dată în 1875.",
+        "Muhammad Ali Center a fost inaugurat în anul 2005.",
+        "Compania UPS operează aici centrul global de sortare numit Worldport.",
+        "Statul Kentucky produce 95% din întregul bourbon la nivel mondial.",
+        "Fabricarea celebrelor bâte de baseball Louisville Slugger a început în 1884."
+      ]
+    },
+    {
+      "id": "baltimore-cities-v2",
+      "descriptionAdvanced": "Baltimore, situat pe râul Patapsco, aproape de Golful Chesapeake, este cel mai mare oraș din statul Maryland. Fondat în 1729, orașul s-a impus rapid ca un port maritim crucial pentru exportul de cereale și tutun. În timpul Războiului din 1812, apărarea de succes a Fortului McHenry a inspirat scrierea poemului „The Star-Spangled Banner” de către Francis Scott Key, care a devenit ulterior imnul național al Statelor Unite. Astăzi, Inner Harbor este o atracție turistică vibrantă, găzduind nave istorice și Acvariul Național. Din punct de vedere economic, deși industria prelucrătoare a scăzut, orașul se remarcă prin asistența medicală și cercetarea științifică, susținute de prestigioasa Universitate Johns Hopkins, fondată în 1876. Istorie K8 — Războiul din 1812 și imnul național.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în 1729 pentru a servi ca port comercial.",
+        "Fortul McHenry a rezistat bombardamentelor britanice în septembrie 1814.",
+        "Universitatea Johns Hopkins a fost fondată în anul 1876.",
+        "Imnul național american a fost inspirat de Bătălia de la Baltimore.",
+        "Acvariul Național a fost deschis în portul interior în 1981.",
+        "Prima cale ferată comercială din SUA, B&O, a început aici în 1827."
+      ]
+    },
+    {
+      "id": "milwaukee-cities-v2",
+      "descriptionAdvanced": "Milwaukee, cel mai mare oraș din Wisconsin, este situat pe țărmul vestic al Lacului Michigan. Fondat oficial în 1846 prin unirea a trei așezări distincte, orașul a atras un număr mare de imigranți germani în secolul al XIX-lea. Această influență culturală a transformat Milwaukee într-un centru uriaș al fabricării berii, găzduind cândva patru dintre cele mai mari fabrici de bere din lume, inclusiv Pabst și Miller. Muzeul de Artă din Milwaukee, cu extensia sa arhitecturală futuristă proiectată de Santiago Calatrava (deschisă în 2001), este un simbol modern al orașului. În plus, metropola este recunoscută pentru istoria sa industrială puternică, inclusiv fondarea celebrei companii de motociclete Harley-Davidson în 1903. Istorie K8 — imigrația și revoluția industrială.",
+      "factsAdvanced": [
+        "Orașul a fost încorporat oficial la 31 ianuarie 1846.",
+        "Compania de motociclete Harley-Davidson a fost fondată aici în 1903.",
+        "Până în anii 1880, imigranții germani reprezentau o mare parte din populație.",
+        "Extensia Quadracci Pavilion a Muzeului de Artă a fost finalizată în 2001.",
+        "Summerfest, ținut anual, este recunoscut ca unul dintre cele mai mari festivaluri de muzică din lume.",
+        "Fabrica de bere Miller a fost înființată în anul 1855."
+      ]
+    },
+    {
+      "id": "albuquerque-cities-v2",
+      "descriptionAdvanced": "Albuquerque, situat în deșertul din New Mexico, de-a lungul Rio Grande, este cel mai mare oraș al statului. Fondat în 1706 ca avanpost colonial spaniol, orașul păstrează și astăzi o bogată moștenire arhitecturală și culturală vizibilă în zona istorică Old Town. Orașul a cunoscut o expansiune rapidă odată cu construirea bazei aeriene Kirtland în 1941 și a Laboratoarelor Naționale Sandia, transformându-se într-un centru esențial pentru cercetarea nucleară și tehnologia avansată. Albuquerque este mondial celebru pentru Festivalul Internațional de Baloane cu Aer Cald, inițiat în 1972, care atrage anual sute de baloane și vizitatori din întreaga lume datorită curenților de aer unici din vale (cunoscuți ca „Albuquerque Box”). Geografie K7 — climatul și curenții de aer regionali.",
+      "factsAdvanced": [
+        "A fost fondat de coloniști spanioli în anul 1706.",
+        "Festivalul Internațional de Baloane a început cu doar 13 baloane în 1972.",
+        "Baza aeriană Kirtland a fost înființată în timpul celui de-al Doilea Război Mondial (1941).",
+        "Este traversat de istorica Route 66, care a adus un boom turistic.",
+        "Altitudinea medie a orașului este de aproximativ 1.600 de metri deasupra nivelului mării.",
+        "Laboratoarele Sandia reprezintă unul dintre cei mai mari angajatori tehnologici."
+      ]
+    },
+    {
+      "id": "tucson-cities-v2",
+      "descriptionAdvanced": "Tucson, al doilea oraș ca mărime din Arizona, este situat în valea Deșertului Sonoran, înconjurat de cinci lanțuri muntoase majore. Având o istorie precolumbiană străveche, zona a fost cultivată de nativii americani timp de mii de ani înainte de sosirea spaniolilor, care au fondat Presidio San Agustín del Tucsón în 1775. Orașul a fost integrat în Statele Unite în 1854 prin Achiziția Gadsden. Tucson găzduiește Universitatea din Arizona (fondată în 1885), o instituție de top în astronomie și cercetare spațială. Regiunea este faimoasă pentru Parcul Național Saguaro, care protejează pădurile de cactuși gigantici Saguaro, simbolul Vestului American. În 2015, Tucson a devenit primul oraș din SUA desemnat de UNESCO drept „Oraș al Gastronomiei”. Geografie K7 — flora și fauna deșertică.",
+      "factsAdvanced": [
+        "Fortăreața spaniolă originală a fost înființată în 1775.",
+        "A devenit parte a teritoriului SUA prin Achiziția Gadsden din 1854.",
+        "Universitatea din Arizona și-a deschis porțile în 1885.",
+        "Parcul Național Saguaro a primit statutul de parc național în 1994.",
+        "Tucson a fost capitala Teritoriului Arizona între 1867 și 1877.",
+        "UNESCO a recunoscut orașul pentru gastronomia sa unică în anul 2015."
+      ]
+    },
+    {
+      "id": "fresno-cities-v2",
+      "descriptionAdvanced": "Fresno, situat în inima Văii San Joaquin din California, este un pilon esențial al agriculturii americane. Orașul a luat naștere în 1872 ca stație feroviară a companiei Central Pacific, atrăgând rapid fermieri datorită solului fertil și dezvoltării rețelelor de irigații. Astăzi, regiunea Fresno este principalul producător de culturi precum migdalele, fisticul, strugurii și piersicile, contribuind masiv la veniturile agricole ale statului. În centrul orașului se află Fresno Water Tower, o structură arhitecturală istorică construită în 1894. Datorită poziției sale geografice, orașul este, de asemenea, o poartă principală de acces către parcurile naționale Yosemite, Sequoia și Kings Canyon, atrăgând iubitorii de natură. Geografie K7 — zone agricole și irigații.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată de compania feroviară în anul 1872.",
+        "Comitatul Fresno este pe primul loc în SUA la valoarea producției agricole.",
+        "Turnul de apă istoric din Fresno a fost finalizat în anul 1894.",
+        "Populația orașului depășește 540.000 de locuitori.",
+        "Prima plantație comercială de smochini din zonă a fost plantată în anii 1880.",
+        "Este situat la doar 100 de kilometri sud de Parcul Național Yosemite."
+      ]
+    },
+    {
+      "id": "sacramento-cities-v2",
+      "descriptionAdvanced": "Sacramento, capitala statului California, se află la confluența râurilor Sacramento și American. Orașul a luat naștere în jurul Fortului Sutter, înființat de imigrantul elvețian John Sutter în 1839. Descoperirea aurului la Sutter's Mill în 1848 a declanșat Febra Aurului din California, transformând Sacramento într-un nod comercial esențial și terminal vestic pentru legendarul serviciu poștal Pony Express și pentru Prima Cale Ferată Transcontinentală (inaugurată în 1869). Clădirea istorică a Capitoliului de Stat, finalizată în 1874, rămâne o capodoperă arhitecturală a orașului. În prezent, metropola este recunoscută ca „Capitala de la Fermă la Furculiță” a Americii, promovând intens produsele agricole locale din regiunea Văii Centrale. Istorie K8 — Febra Aurului și expansiunea vestică.",
+      "factsAdvanced": [
+        "Fortul Sutter a fost construit în anul 1839.",
+        "Orașul a devenit oficial capitala statului California în 1854.",
+        "Prima Cale Ferată Transcontinentală a conectat Sacramento în 1869.",
+        "Clădirea Capitoliului de Stat a fost finalizată după 14 ani de construcție, în 1874.",
+        "Serviciul poștal Pony Express a funcționat aici între 1860 și 1861.",
+        "Râul Sacramento este cel mai lung sistem fluvial exclusiv din California."
+      ]
+    },
+    {
+      "id": "kansas-city-mo-cities-v2",
+      "descriptionAdvanced": "Kansas City, situat la granița vestică a statului Missouri, la confluența râurilor Kansas și Missouri, este renumit pentru moștenirea sa muzicală și culinară. Încorporat ca oraș în 1850, a servit ca punct de plecare crucial pentru rutele istorice de pionierat precum Santa Fe, California și Oregon. În anii 1920 și 1930, orașul a dezvoltat un stil distinct de jazz, marcat de muzicieni precum Charlie Parker. Astăzi, metropola este mondial faimoasă pentru stilul său specific de grătar (barbecue) și se mândrește cu peste 200 de fântâni publice, ceea ce i-a adus supranumele de „Orașul Fântânilor”. Muzeul Național al Primului Război Mondial, finalizat în 1926, oferă una dintre cele mai detaliate perspective asupra conflictului global. Istorie K8 — expansiunea comercială a Americii.",
+      "factsAdvanced": [
+        "A fost încorporat oficial ca oraș în anul 1850.",
+        "Are peste 200 de fântâni funcționale, rivalizând cu Roma.",
+        "Monumentul Național al Primului Război Mondial a fost dedicat în 1926.",
+        "Charlie Parker, legenda jazz-ului, s-a născut aici în anul 1920.",
+        "Găzduiește anual The American Royal, o celebră competiție de echitație și grătar.",
+        "Stilul distinctiv de jazz din Kansas City s-a format în anii 1930."
+      ]
+    },
+    {
+      "id": "long-beach-cities-v2",
+      "descriptionAdvanced": "Long Beach este un important oraș de coastă din sudul Californiei, situat la sud de Los Angeles. Încorporat în 1897, orașul s-a dezvoltat masiv după descoperirea petrolului pe dealul Signal Hill în 1921. Astăzi, Portul Long Beach este unul dintre cele mai mari și mai aglomerate porturi maritime din lume, reprezentând un pilon critic al comerțului dintre SUA și Asia. Atracția turistică principală este oceanul istoric RMS Queen Mary, o navă transatlantică retrasă din serviciu și andocată permanent aici din 1967. Totodată, orașul este faimos pentru găzduirea anuală a Marelui Premiu de la Long Beach, o cursă de mașini desfășurată pe străzile orașului începând cu anul 1975. Acvariul Pacificului (deschis în 1998) atrage milioane de vizitatori. Geografie K7 — infrastructură portuară.",
+      "factsAdvanced": [
+        "Orașul a fost încorporat oficial în anul 1897.",
+        "Descoperirea petrolului la Signal Hill a avut loc în anul 1921.",
+        "Nava RMS Queen Mary a sosit definitiv în port în anul 1967.",
+        "Cursa auto Grand Prix of Long Beach a fost inaugurată în 1975.",
+        "Acvariul Pacificului, cu peste 11.000 de animale, a fost deschis în 1998.",
+        "Portul Long Beach manipulează peste 8 milioane de containere (TEU) anual."
+      ]
+    },
+    {
+      "id": "mesa-cities-v2",
+      "descriptionAdvanced": "Mesa este al treilea cel mai mare oraș din statul Arizona, situat în estul zonei metropolitane Phoenix. Orașul a fost fondat în 1878 de pionierii mormoni, care au reconstruit și utilizat rețeaua complexă de canale de irigații abandonată de străvechiul popor nativ Hohokam, asigurând astfel succesul agricol în plin deșert. Astăzi, economia orașului a depășit agricultura, concentrându-se pe sănătate, educație și industria aerospațială, cu facilități majore operate de companii precum Boeing. Mesa Arts Center, finalizat în 2005, este cel mai mare complex artistic din Arizona, subliniind creșterea culturală a zonei. Munții Superstition din apropiere atrag pasionații de drumeții și căutătorii de comori atrași de legendele minelor de aur pierdute. Istorie K8 — adaptarea pionierilor în regiuni aride.",
+      "factsAdvanced": [
+        "Comunitatea a fost înființată de pionieri mormoni în anul 1878.",
+        "Sistemul de irigații precolumbian reconstruit se întinde pe sute de mile.",
+        "Populația orașului depășește astăzi pragul de 500.000 de locuitori.",
+        "Facilitatea de producție a elicopterelor Apache (Boeing) se află aici.",
+        "Centrul Artelor din Mesa (Mesa Arts Center) a fost deschis în 2005.",
+        "Primul zbor din zonă a avut loc la Falcon Field în anul 1941."
+      ]
+    },
+    {
+      "id": "atlanta-cities-v2",
+      "descriptionAdvanced": "Atlanta, capitala și centrul economic al statului Georgia, este o metropolă vibrantă cu o influență majoră în sudul Statelor Unite. Fondată în 1837 ca un terminal feroviar sub numele de „Terminus”, a fost complet incendiată în 1864, în timpul Războiului Civil, renașterea sa ulterioară dându-i simbolul păsării Phoenix. Atlanta a fost centrul nervos al Mișcării pentru Drepturile Civile din anii 1950 și 1960, fiind locul de naștere al liderului Martin Luther King Jr. Astăzi, orașul este sediul global pentru corporații uriașe precum Coca-Cola (inventată aici în 1886) și CNN. Aeroportul Internațional Hartsfield-Jackson este constant clasat drept cel mai tranzitat aeroport din lume. Metropola a găzduit cu succes Jocurile Olimpice de Vară din 1996. Istorie K8 — reconstrucția sudului și drepturile civile.",
+      "factsAdvanced": [
+        "Orașul a fost fondat inițial ca terminal feroviar în 1837.",
+        "A fost incendiată în noiembrie 1864 în timpul Marșului lui Sherman.",
+        "Rețeta băuturii Coca-Cola a fost inventată la Atlanta în anul 1886.",
+        "Jocurile Olimpice de Vară au fost găzduite cu succes în 1996.",
+        "Aeroportul Hartsfield-Jackson manipulează anual peste 100 de milioane de pasageri.",
+        "Centrul Național pentru Drepturile Civile a fost inaugurat în 2014."
+      ]
+    },
+    {
+      "id": "colorado-springs-cities-v2",
+      "descriptionAdvanced": "Colorado Springs se află la baza falnicului munte Pikes Peak din regiunea Front Range a Munților Stâncoși, fiind al doilea cel mai mare oraș din statul Colorado. A fost fondat în 1871 de generalul William Jackson Palmer ca o stațiune elegantă numită inițial „Fountain Colony”. Astăzi, orașul are o prezență militară și aerospațială masivă, găzduind Academia Forțelor Aeriene ale SUA (înființată în 1954) și complexul NORAD. Cea mai celebră atracție naturală a orașului este Garden of the Gods, un parc public uimitor cu formațiuni spectaculoase din gresie roșie, donat orașului în 1909. De asemenea, Colorado Springs este sediul Comitetului Olimpic și Paralimpic al Statelor Unite, atrăgând sportivi de performanță din toată lumea. Geografie K7 — geologia și relieful muntos.",
+      "factsAdvanced": [
+        "Orașul a fost fondat de generalul William J. Palmer în anul 1871.",
+        "Academia Forțelor Aeriene ale Statelor Unite și-a deschis porțile aici în 1954.",
+        "Parcul Garden of the Gods a devenit proprietate publică în 1909.",
+        "Altitudinea orașului este de peste 1.839 de metri.",
+        "Comitetul Olimpic al SUA și-a mutat sediul aici în 1978.",
+        "Muntele Pikes Peak atinge o altitudine impresionantă de 4.302 metri."
+      ]
+    },
+    {
+      "id": "virginia-beach-cities-v2",
+      "descriptionAdvanced": "Virginia Beach este cel mai populat oraș din statul Virginia, situat la confluența Golfului Chesapeake cu Oceanul Atlantic. Locul are o importanță istorică majoră, fiind situat lângă Cape Henry, unde primii coloniști englezi din America au debarcat în 1607 înainte de a fonda Jamestown. Încorporată ca oraș abia în 1952, așezarea se bazează puternic pe turism, deținând Recordul Guinness pentru cea mai lungă plajă de agrement din lume. Prezența militară este a doua coloană vertebrală a economiei, găzduind Stația Aeriană Navală Oceana și alte baze militare strategice. Orașul este recunoscut pentru farurile sale istorice de la Cape Henry, primul fiind construit sub autorizația președintelui George Washington în 1792. Geografie K7 — turism de coastă și infrastructură maritimă.",
+      "factsAdvanced": [
+        "Primii coloniști englezi au debarcat la Cape Henry în anul 1607.",
+        "Primul far de la Cape Henry a fost finalizat în anul 1792.",
+        "Virginia Beach a fost încorporată independent ca oraș în 1952.",
+        "Are cea mai lungă plajă de agrement din lume (aprox. 56 km).",
+        "Stația Aeriană Navală Oceana este una dintre cele mai mari baze din SUA.",
+        "Populația orașului depășește pragul de 450.000 de locuitori."
+      ]
+    }
+  ]
+}

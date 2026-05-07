@@ -24,7 +24,16 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["Egy nagyobb alagúthálózat része.", "Rejtekhelyként, kommunikációs és ellátási útvonalként szolgált.", "Ma népszerű turisztikai látványosság."],
       ro: ["Parte a unei rețele mai mari de tuneluri.", "A servit ca ascunzătoare, cale de comunicare și rută de aprovizionare.", "Astăzi o atracție turistică populară."],
       en: ["Part of a larger network of tunnels.", "Served as hiding spots, communication, and supply routes.", "Now a popular tourist destination."],
-    }, image: "/poi-images/cu-chi-tunnels-history-v2.webp"},
+    }, image: "/poi-images/cu-chi-tunnels-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tunnel von Củ Chi sind ein beeindruckendes Zeugnis des vietnamesischen Widerstandskampfes während des Vietnamkrieges. Dieses komplexe unterirdische Netzwerk erstreckte sich über Hunderte von Kilometern und bot den Kämpfern Schutz, Wohnraum, medizinische Versorgung und logistische Wege direkt unter den Füßen der gegnerischen Truppen. Heute erinnern sie als Gedenkstätte und Museum an die entbehrungsreiche Zeit und die Entschlossenheit der Menschen. Geschichte K8 — Vietnamkrieg und Widerstandsgeschichte.",
+      ro: "Tunelurile Cu Chi reprezintă un sistem vast de pasaje subterane utilizate de Viet Cong în timpul Războiului din Vietnam, servind drept baze militare, spitale și locuințe. Această rețea este un simbol puternic al istoriei K8 și al ingeniozității tactice vietnameze împotriva forțelor străine."
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge des Netzwerks über 250 Kilometer", "Enthielt Schulen, Krankenhäuser und Küchen unter der Erde", "Wurde zwischen 1946 und 1968 in verschiedenen Phasen erbaut", "Strategisch wichtige Basis für die Tet-Offensive 1968", "Tiefe der Tunnel reichte von 3 bis 10 Metern", "Wichtiger Ort für die historische Aufarbeitung des Krieges"],
+      ro: ["Rețea de peste 200 km de tuneluri", "Utilizate ca bază operațională în Războiul din Vietnam", "Sistem multi-nivel cu ventilație și capcane", "A devenit un sit istoric major vizitat de turiști", "Situat în apropierea orașului Ho Chi Minh", "Demonstrează tacticile de gherilă ale Viet Cong-ului"]
+    }
+  },
   {
     id: "imperial-citadel-hue-history-v2",
     type: "historical-site",
@@ -47,7 +56,16 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["A Nguyễn-dinasztia székhelye.", "Magában foglalja a Tiltott Bíbor Várost.", "Az UNESCO Világörökség része."],
       ro: ["Sediul dinastiei Nguyễn.", "Include Orașul Purpuriu Interzis.", "Patrimoniu Mondial UNESCO."],
       en: ["Seat of the Nguyễn Dynasty.", "Contains the Forbidden Purple City.", "UNESCO World Heritage Site."],
-    }, image: "/poi-images/imperial-citadel-hue-history-v2.webp"},
+    }, image: "/poi-images/imperial-citadel-hue-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kaiserliche Zitadelle von Huế war zwischen 1802 und 1945 das Machtzentrum der Nguyễn-Dynastie und symbolisiert die Ära des letzten vietnamesischen Kaiserreichs. Diese weitläufige Anlage, die in Anlehnung an die Verbotene Stadt in Peking entworfen wurde, umfasst zahlreiche Paläste, Tempel und die berühmte Verbotene Purpurstadt. Trotz schwerer Zerstörungen während des Vietnamkriegs wurde ein Großteil restauriert und vermittelt ein lebendiges Bild der feudalen Geschichte Vietnams. Geschichte K7 — vietnamesische Monarchie und Architektur.",
+      ro: "Cetatea Imperială din Hue, inclusă în patrimoniul UNESCO, a fost centrul politic și cultural al Dinastiei Nguyen, ultimii împărați ai Vietnamului. Este un punct crucial pentru istoria K8, reflectând gloria și tragismul erei imperiale în Vietnam."
+    },
+    factsAdvanced: {
+      de: ["Erbauung unter Kaiser Gia Long ab 1804", "UNESCO-Welterbe seit 1993", "Zentrum der administrativen und spirituellen Macht", "Erlitt massive Schäden während der Schlacht von Huế 1968", "Architektonisch geprägt durch die harmonische Integration von Natur und Bauwerk", "Letzter Sitz eines vietnamesischen Kaisers war hier"],
+      ro: ["Construită în 1804 sub Dinastia Nguyen", "Centrul imperial al Vietnamului până în 1945", "Inclusă în patrimoniul UNESCO în 1993", "Arhitectură bazată pe principii geomantice", "A suferit distrugeri majore în Războiul din Vietnam", "În prezent, un amplu sit de restaurare istorică"]
+    }
+  },
   {
     id: "my-son-sanctuary-history-v2",
     type: "ruin",
@@ -70,7 +88,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["A Champa nép építette.", "Siva istennek szentelve.", "Az UNESCO Világörökség része."],
       ro: ["Construit de poporul Champa.", "Dedicat zeului Shiva.", "Patrimoniu Mondial UNESCO."],
       en: ["Constructed by the Champa people.", "Dedicated to the god Shiva.", "UNESCO World Heritage Site."],
-    }, image: "/poi-images/my-son-sanctuary-history-v2.webp"},
+    }, image: "/poi-images/my-son-sanctuary-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Sanctuarul My Son este un grup de temple hinduse abandonate, construite de regii regatului Champa între secolele IV și XIV, reflectând influențele culturale indiene și măiestria arhitecturală a unei civilizații dispărute."
+    },
+    factsAdvanced: {
+      ro: ["Centru spiritual al regatului Champa", "Construit între secolele IV și XIV", "Inclus în patrimoniul UNESCO în 1999", "Arhitectură din cărămidă cu motive hinduse", "Situat într-o vale izolată în apropiere de Hoi An", "Influențe culturale puternice din India"]
+    }
+  },
   {
     id: "hoa-lu-ancient-capital-history-v2",
     type: "historical-site",
@@ -94,6 +119,12 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       ro: ["Capitala dinastiilor Dinh și Le timpurii.", "Înconjurată de stânci de calcar.", "Temple în onoarea împăraților Dinh și Le."],
       en: ["Capital of the Dinh and Early Lê dynasties.", "Surrounded by limestone mountains.", "Temples honoring emperors Dinh and Le."],
     },
+    descriptionAdvanced: {
+      ro: "Hoa Lu a fost prima capitală a statului vietnamez unificat sub dinastiile Dinh și Le, fiind astăzi un sit istoric important ce găzduiește temple antice într-un decor carstic natural spectaculos."
+    },
+    factsAdvanced: {
+      ro: ["Prima capitală a Vietnamului unificat (secolul X)", "Găzduiește temple dedicate regilor Dinh și Le", "Situat în peisajul carstic din Ninh Binh", "Centru strategic în perioada feudală timpurie", "Punct de pelerinaj și istorie națională", "Decorat de formațiuni calcaroase naturale"]
+    }
   },
   {
     id: "khe-sanh-combat-base-history-v2",
@@ -117,7 +148,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["Az ostrom 77 napig tartott 1968-ban.", "A Tet-offenzíva része.", "Ma egy kis múzeum található itt."],
       ro: ["Asediul a durat 77 de zile în 1968.", "Parte a Ofensivei Tet.", "Astăzi găzduiește un mic muzeu."],
       en: ["The siege lasted for 77 days in 1968.", "Part of the Tet Offensive.", "A small museum is on site today."],
-    }, image: "/poi-images/khe-sanh-combat-base-history-v2.webp"},
+    }, image: "/poi-images/khe-sanh-combat-base-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Khe Sanh este locul uneia dintre cele mai lungi și intense bătălii ale Războiului din Vietnam, rămânând un simbol al confruntărilor militare majore din zona DMZ (Zona Demilitarizată)."
+    },
+    factsAdvanced: {
+      ro: ["Locul unei asedieri majore în 1968", "Situat în provincia Quang Tri", "Fostă bază militară americană", "Simbol al confruntărilor din zona DMZ", "Astăzi un sit de memorie cu exponate militare", "Situat în Munții Truong Son"]
+    }
+  },
   {
     id: "vinh-moc-tunnels-history-v2",
     type: "historical-site",
@@ -140,7 +178,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["A Củ Chi-tól eltérően polgári életre tervezték.", "Konyhák, kutak és lakóterek voltak benne.", "Több mint 60 család élt itt."],
       ro: ["Proiectat pentru viața civilă, spre deosebire de Củ Chi.", "Avea bucătării, fântâni și spații de locuit.", "Peste 60 de familii au locuit aici."],
       en: ["Designed for civilian life, unlike Củ Chi.", "Contained kitchens, wells, and living spaces.", "Over 60 families lived here."],
-    }, image: "/poi-images/vinh-moc-tunnels-history-v2.webp"},
+    }, image: "/poi-images/vinh-moc-tunnels-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Tunelurile Vinh Moc reprezintă un adăpost subteran extins creat de civili în zona DMZ pentru a supraviețui bombardamentelor intense, oferind o perspectivă emoționantă asupra rezilienței în timpul războiului."
+    },
+    factsAdvanced: {
+      ro: ["Sistem de tuneluri creat de civili", "Situat în provincia Quang Tri", "Folat la 10-30 metri sub pământ", "Inclusiv școli și zone de locuit subterane", "Testament al rezilienței în timpul războiului", "Spre deosebire de Cu Chi, un sit civil"]
+    }
+  },
   {
     id: "con-dao-prison-history-v2",
     type: "historical-site",
@@ -163,7 +208,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["Híres a kegyetlen 'tigrisketrecekről'.", "Sok fontos vietnámi vezetőt börtönöztek be itt.", "Ma történelmi emlékhely."],
       ro: ["Renumită pentru inumanele 'cuști de tigru'.", "Mulți lideri vietnamezi importanți au fost închiși aici.", "Astăzi este un sit memorial istoric."],
       en: ["Known for the brutal 'tiger cages'.", "Many key Vietnamese leaders were imprisoned here.", "Now a historical memorial site."],
-    }, image: "/poi-images/con-dao-prison-history-v2.webp"},
+    }, image: "/poi-images/con-dao-prison-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Închisoarea Con Dao, cunoscută drept 'Iadul de pe Pământ', a fost utilizată de autoritățile coloniale franceze și mai târziu de regimul din Vietnamul de Sud pentru detenția prizonierilor politici."
+    },
+    factsAdvanced: {
+      ro: ["Utilizată din perioada colonială până în 1975", "Cunoscută drept 'Iadul de pe Pământ'", "Situată pe insulele Con Dao", "Prizonieri politici celebri au fost deținuți aici", "Astăzi sit istoric și memorial", "Simbol al suferinței și luptei pentru independență"]
+    }
+  },
   {
     id: "po-nagar-cham-towers-history-v2",
     type: "ruin",
@@ -186,7 +238,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["A 8. századból származik.", "Egy dombon található, kilátással a Cái-folyóra.", "Ma is használják a cham és viet buddhista hívők."],
       ro: ["Datează din secolul al VIII-lea.", "Situat pe un deal cu vedere la râul Cái.", "Încă folosit de budiștii Cham și Viet."],
       en: ["Dates back to the 8th century.", "Located on a hill overlooking the Cái River.", "Still in use by Cham and Viet Buddhists today."],
-    }, image: "/poi-images/po-nagar-cham-towers-history-v2.webp"},
+    }, image: "/poi-images/po-nagar-cham-towers-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Turnurile Po Nagar din Nha Trang sunt un complex de temple Cham bine conservate, dedicate zeiței Yan Po Nagar, demonstrând măiestria arhitecturală a civilizației Champa din sudul Vietnamului."
+    },
+    factsAdvanced: {
+      ro: ["Construite între secolele VII și XII", "Dediate zeiței Yan Po Nagar", "Complex de temple Cham active", "Situat pe un deal în Nha Trang", "Arhitectură tradițională din cărămidă roșie", "Loc important de rugăciune și turism"]
+    }
+  },
   {
     id: "long-tan-cross-history-v2",
     type: "monument",
@@ -209,7 +268,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["Az ausztrál és vietnámi áldozatok emlékére emelték.", "A csata 1966-ban zajlott.", "Fontos hely az ausztrál veteránok számára."],
       ro: ["Ridicată în memoria victimelor australiene și vietnameze.", "Bătălia a avut loc în 1966.", "Un loc important pentru veteranii australieni."],
       en: ["Erected to remember Australian and Vietnamese casualties.", "The battle took place in 1966.", "An important site for Australian veterans."],
-    }, image: "/poi-images/long-tan-cross-history-v2.webp"},
+    }, image: "/poi-images/long-tan-cross-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Crucea Long Tan este un memorial dedicat soldaților australieni care au luptat în bătălia de la Long Tan din 1966, fiind un punct de referință istoric pentru veteranii australieni."
+    },
+    factsAdvanced: {
+      ro: ["Memorial pentru bătălia de la Long Tan (1966)", "Dedicat soldaților australieni", "Situat în provincia Ba Ria-Vung Tau", "Simbol al prezenței trupelor australiene", "Vizitat de veterani și istorici", "Loc marcat cu o cruce simbolică"]
+    }
+  },
   {
     id: "thang-long-imperial-citadel-history-v2",
     type: "historical-site",
@@ -232,7 +298,14 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       hu: ["Régészeti leleteket tartalmaz.", "Az ősi Hanoi központja volt.", "A hanoi zászlótorony jellegzetes építménye."],
       ro: ["Conține vestigii arheologice.", "A fost centrul orașului antic Hanoi.", "Turnul Steagului din Hanoi este o caracteristică proeminentă."],
       en: ["Contains archaeological remains.", "Was the center of ancient Hanoi city.", "Hanoi Flag Tower is a prominent feature."],
-    }, image: "/poi-images/thang-long-imperial-citadel-history-v2.webp"},
+    }, image: "/poi-images/thang-long-imperial-citadel-history-v2.webp",
+    descriptionAdvanced: {
+      ro: "Citadela Imperială Thang Long, inclusă în patrimoniul UNESCO, a fost sediul puterii politice în Hanoi timp de 13 secole, fiind un sit arheologic de o importanță istorică imensă."
+    },
+    factsAdvanced: {
+      ro: ["Inclusă în patrimoniul UNESCO în 2010", "Sediul puterii timp de 13 secole", "Situată în centrul orașului Hanoi", "Descoperiri arheologice remarcabile", "Construită inițial în secolul XI", "Simbol al independenței vietnameze"]
+    }
+  },
   {
     id: "pac-bo-cave-history-v2",
     type: "historical-site",

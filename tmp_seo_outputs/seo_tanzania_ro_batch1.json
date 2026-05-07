@@ -1,0 +1,295 @@
+{
+  "lang": "ro",
+  "country": "tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tz-tongoni-history-v2",
+      "descriptionAdvanced": "Ruinele Tongoni reprezintă unul dintre cele mai importante situri arheologice de pe coasta Swahili, situat la aproximativ 20 de kilometri sud de Tanga. Această așezare prosperă a înflorit în secolul al XV-lea, fiind un centru comercial strategic controlat de dinastia Shirazi. Vizitatorii pot explora rămășițele unei mari moschei de piatră și peste 40 de morminte cu stâlpi, care sunt printre cele mai mari concentrații de acest tip din Africa de Est. Situl oferă o perspectivă fascinantă asupra arhitecturii medievale swahili și a influențelor persane în regiune. Istoria povestită de zidurile de coral de aici reflectă declinul orașului după sosirea portughezilor și schimbarea rutelor comerciale. Geografie K7 — Civilizații medievale și comerțul în Oceanul Indian.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată de coloniști Shirazi în secolul al X-lea.",
+        "Situl găzduiește cea mai mare concentrație de morminte Shirazi din Tanzania.",
+        "Marea Moschee din Tongoni datează din prima jumătate a secolului al XV-lea.",
+        "Vasco da Gama a vizitat așezarea în 1499, în timpul primei sale călătorii spre India.",
+        "Zidurile sunt construite din blocuri de coral tăiate cu precizie.",
+        "Situl a fost abandonat la sfârșitul secolului al XVIII-lea.",
+        "A fost declarat monument național sub protecția Departamentului de Antichități.",
+        "Cercetările arheologice au scos la ivealui porțelan chinezesc și ceramică persană."
+      ]
+    },
+    {
+      "id": "tz-ujiji-history-v2",
+      "descriptionAdvanced": "Ujiji este una dintre cele mai vechi și mai semnificative localități din vestul Tanzaniei, situată pe malul estic al lacului Tanganyika. Orașul a câștigat faimă mondială ca locul unde, la 10 noiembrie 1871, exploratorul Henry Morton Stanley l-a găsit pe Dr. David Livingstone, rostind celebra frază: 'Dr. Livingstone, presupun?'. În secolul al XIX-lea, Ujiji era un terminal crucial pentru caravanele arabe de fildeș și sclavi care legau interiorul continentului de coastă. Astăzi, Memorialul Livingstone marchează locul exact al întâlnirii sub un smochin istoric. Orașul păstrează o atmosferă tradițională, cu șantiere navale unde se construiesc dhow-uri din lemn, reflectând legătura ancestrală a comunității cu apele adânci ale lacului. Istorie K8 — Explorări europene și rute comerciale africane.",
+      "factsAdvanced": [
+        "Este locul celebrei întâlniri dintre Stanley și Livingstone în 1871.",
+        "A fost un centru major pentru comerțul arab cu sclavi și fildeș.",
+        "Memorialul Livingstone conține un muzeu dedicat explorărilor africane.",
+        "Orașul este situat la aproximativ 10 km sud de Kigoma.",
+        "Ujiji a fost punctul de plecare pentru multe expediții spre interiorul Congo-ului.",
+        "Este renumit pentru construcția tradițională a bărcilor de pescuit din lemn.",
+        "Populația locală Ha a menținut tradiții culturale seculare în ciuda influențelor externe.",
+        "Situl oferă o panoramă spectaculoasă asupra lacului Tanganyika, cel mai adânc din Africa."
+      ]
+    },
+    {
+      "id": "tz-livingstones-tembe-history-v2",
+      "descriptionAdvanced": "Livingstone's Tembe, situată în districtul Kwihara din Tabora, este o clădire istorică construită în stil arab care a servit drept bază strategică pentru marii exploratori ai secolului al XIX-lea. Această structură fortificată a fost reședința lui David Livingstone în 1871 și locul unde acesta l-a așteptat pe Stanley să se întoarcă de la coastă. Tabora era la acea vreme inima rețelei comerciale arabe din interiorul Tanzaniei, fiind punctul de intersecție al caravanelor. Clădirea, cu zidurile sale groase din chirpici și curtea interioară răcoroasă, a fost restaurată și transformată într-un muzeu care expune scrisori, hărți și obiecte personale ale exploratorilor. Vizitarea acestui sit oferă o imagine autentică a condițiilor logistice dificile întâmpinate de primii europeni care au cartografiat inima Africii. Istorie K8 — Perioada marilor explorări geografice.",
+      "factsAdvanced": [
+        "A fost construită în 1857 de către comerciantul arab de sclavi Mohammed bin Juma.",
+        "David Livingstone a locuit aici timp de mai multe luni în anul 1871.",
+        "Henry Morton Stanley a petrecut și el timp în această clădire în căutarea lui Livingstone.",
+        "Arhitectura 'Tembe' este caracteristică caselor arabe fortificate din secolul al XIX-lea.",
+        "Muzeul găzduiește copii ale jurnalelor originale ale lui Livingstone.",
+        "Situl este situat la aproximativ 6 kilometri de centrul orașului Tabora.",
+        "Era un punct de oprire vital pe drumul dintre Bagamoyo și Ujiji.",
+        "Restaurarea clădirii a fost sprijinită de guvernul Tanzaniei ca monument național."
+      ]
+    },
+    {
+      "id": "tz-bismarck-rock-history-v2",
+      "descriptionAdvanced": "Stânca Bismarck este o formațiune geologică iconică și un simbol de necontestat al orașului Mwanza, situată chiar pe malul lacului Victoria. Acest ansamblu spectaculos de bolovani uriași de granit, echilibrați precar unul peste altul, a fost numit în onoarea cancelarului german Otto von Bismarck în timpul erei coloniale. Dincolo de importanța sa vizuală, stânca servește ca memento al prezenței germane în regiunea Marilor Lacuri la sfârșitul secolului al XIX-lea. Parcul din jurul stâncii este un loc preferat de localnici pentru relaxare și oferă una dintre cele mai frumoase perspective asupra golfului Mwanza. Formațiunea este rezultatul a milioane de ani de eroziune, reprezentând peisajul tipic de 'kopje' care caracterizează nordul Tanzaniei. Geografie K7 — Forme de relief granitice și istorie colonială.",
+      "factsAdvanced": [
+        "Este cel mai fotografiat obiectiv turistic din orașul Mwanza.",
+        "Numele provine de la Otto von Bismarck, cancelarul Imperiului German.",
+        "Formațiunea este compusă din granit și a fost modelată de eroziunea naturală.",
+        "Se află în Golful Mwanza, pe malul sudic al lacului Victoria.",
+        "Stânca apare frecvent pe timbrele poștale și în materialele promoționale ale Tanzaniei.",
+        "Zona înconjurătoare a fost transformată întrun parc public bine întreținut.",
+        "Situl oferă un habitat natural pentru diverse specii de păsări acvatice și șopârle monitor.",
+        "Accesul la stâncă este gratuit, fiind un punct central al vieții sociale din Mwanza."
+      ]
+    },
+    {
+      "id": "tz-mikindani-town-history-v2",
+      "descriptionAdvanced": "Mikindani este un oraș de coastă pitoresc și plin de istorie, situat în sudul extrem al Tanzaniei, lângă Mtwara. Cunoscut pentru golful său natural perfect protejat, orașul a fost un port comercial vital pentru arabi, germani și britanici. Arhitectura sa reflectă un amestec fascinant de stiluri swahili, omanez și european, cu clădiri vechi din piatră și uși sculptate manual. Unul dintre punctele centrale este Vechea Boma, o fortăreață germană restaurată care domină orașul de pe un deal. Mikindani a fost, de asemenea, locul de plecare pentru ultima expediție a lui David Livingstone în 1866. Astăzi, orașul își păstrează farmecul de odinioară, fiind o destinație liniștită care oferă o perspectivă autentică asupra culturii de coastă și a trecutului colonial zbuciumat. Istorie K8 — Porturi comerciale și administrație colonială.",
+      "factsAdvanced": [
+        "Numele orașului provine din limba swahili și înseamnă 'locul tinerilor palmieri'.",
+        "A fost un centru important pentru exportul de sclavi și fildeș în secolul al XIX-lea.",
+        "Vechea Boma germană a fost construită în 1895 și acum funcționează ca hotel istoric.",
+        "David Livingstone și-a început ultima călătorie spre interiorul Africii de aici, în 1866.",
+        "Portul natural din Mikindani este considerat unul dintre cele mai sigure de pe coastă.",
+        "Piața veche păstrează încă structuri din perioada administrației britanice.",
+        "Orașul este inclus pe lista indicativă a Patrimoniului Mondial UNESCO.",
+        "Economia locală se bazează acum pe pescuit și turism cultural sustenabil."
+      ]
+    },
+    {
+      "id": "tz-ndagoni-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele Ndagoni, cunoscute și sub numele de ruinele Ras Mkumbuu, sunt situate pe o peninsulă izolată de pe coasta de vest a insulei Pemba. Acest sit arheologic impresionant găzduiește rămășițele unei așezări swahili care a înflorit între secolele al X-lea și al XIV-lea. Cele mai remarcabile structuri includ o mare moschee de vineri, cu arcade de coral bine conservate, și o serie de morminte cu stâlpi decorate complex. Ndagoni a fost un nod comercial crucial în rețeaua Oceanului Indian, facilitând schimbul de bunuri între interiorul Africii și Orientul Îndepărtat. Vizitarea ruinelor necesită adesea o călătorie cu barca prin mangrove, oferind o experiență de explorare veritabilă. Situl este o dovadă a rafinamentului arhitectural și a prosperității economice a vechilor orașe-stat swahili. Istoria K7 — Rețelele comerciale medievale din Oceanul Indian.",
+      "factsAdvanced": [
+        "Situl datează din secolul al X-lea, fiind una dintre cele mai vechi așezări de pe Pemba.",
+        "Moscheea principală este una dintre cele mai mari structuri religioase vechi de pe insulă.",
+        "Pilonii mormintelor sunt construiți din coral tăiat și decorați cu ceramică importată.",
+        "Situl a fost excavat pentru prima dată de arheologul James Kirkman în anii 1950.",
+        "Excavațiile au scos la iveală porțelan chinezesc din dinastia Song.",
+        "Așezarea a fost abandonată brusc în secolul al XV-lea din motive încă neclare.",
+        "Accesul la sit se face cel mai bine cu barca din orașul Chake Chake.",
+        "Ndagoni este considerat un sit cheie pentru înțelegerea originii culturii Swahili."
+      ]
+    },
+    {
+      "id": "tz-mkama-ndume-history-v2",
+      "descriptionAdvanced": "Ruinele Mkama Ndume reprezintă o structură defensivă unică situată în sudul insulei Pemba, lângă satul Pujini. Aceasta este singura fortăreață de piatră cunoscută de pe coasta swahili care a fost construită exclusiv pentru scopuri militare și rezidențiale fortificate în secolul al XV-lea. Legenda locală îl descrie pe constructorul său, Mkama Ndume, ca pe un tiran crud care a forțat populația locală să construiască zidurile masive de coral. Complexul include un palat, o moschee și un sistem de apărare cu șanțuri, fiind înconjurat de o incintă patrulateră imensă. Situl oferă o perspectivă rară asupra perioadei de instabilitate și rivalitate între orașele-stat swahili înainte de sosirea portughezilor. Arhitectura sa robustă și locația strategică subliniază importanța controlului teritorial în acea epocă. Istorie K8 — Conflicte și fortificații medievale africane.",
+      "factsAdvanced": [
+        "Este singura fortificație de acest tip de pe întreaga coastă a Africii de Est.",
+        "Zidurile de incintă măsoară aproximativ 45 pe 50 de metri.",
+        "Numele 'Mkama Ndume' se traduce prin 'Mulge-Taurul', sugerând forța și cruzimea liderului.",
+        "Fortul a fost construit în secolul al XV-lea, în perioada de apogeu a culturii swahili.",
+        "Situl include rămășițele unei moschei private și ale unor apartamente regale.",
+        "Zidurile exterioare aveau inițial o înălțime de peste 5 metri.",
+        "Mkama Ndume a fost un lider al poporului Shirazi care s-a stabilit pe Pemba.",
+        "Situl este înconjurat de o vegetație densă, păstrând o atmosferă misterioasă."
+      ]
+    },
+    {
+      "id": "tz-ras-mkumbuu-history-v2",
+      "descriptionAdvanced": "Ras Mkumbuu este un sit arheologic de o importanță crucială situat pe vârful unei peninsule lungi și înguste din districtul Chake Chake, pe insula Pemba. Situl găzduiește ruinele orașului Qanbalu, menționat de geograful arab Al-Masudi încă din secolul al X-lea ca fiind unul dintre cele mai importante porturi comerciale de pe coasta Africii de Est. Vizitatorii pot vedea rămășițele unei moschei impunătoare din secolul al XIV-lea, cu o arcadă centrală magnifică, și numeroase morminte monumentale. Această locație strategică a permis controlul traficului maritim între Pemba și continent. Situl este un exemplu remarcabil al integrării islamului în cultura locală și al prosperității aduse de comerțul transoceanic cu aur, sclavi și mirodenii. Istorie K7 — Răspândirea Islamului și comerțul maritim în Africa.",
+      "factsAdvanced": [
+        "Orașul Qanbalu (Ras Mkumbuu) este menționat în scrierile arabe din secolul al X-lea.",
+        "Marea Moschee de aici datează din secolul al XIV-lea și este construită din coral.",
+        "Situl conține o serie de morminte cu stâlpi înalți, caracteristice elitei swahili.",
+        "Arheologii au găsit aici dovezi ale prelucrării fierului și a sticlei la nivel local.",
+        "Ras Mkumbuu a fost un port de escală major pentru navele care veneau din Golful Persic.",
+        "Peninsula oferă o protecție naturală excelentă împotriva furtunilor din Oceanul Indian.",
+        "Accesul la sit este dificil pe uscat, fiind preferată calea maritimă.",
+        "Situl este protejat ca monument istoric național al Tanzaniei."
+      ]
+    },
+    {
+      "id": "tz-kisimani-mafia-history-v2",
+      "descriptionAdvanced": "Kisimani Mafia este un sit arheologic fascinant situat pe vârful sud-vestic al insulei Mafia, reprezentând rămășițele unui oraș comercial swahili care a înflorit între secolele al XI-lea și al XIV-lea. Orașul a fost odinioară atât de prosper încât își bătea propria monedă de cupru, fiind un rival economic pentru Kilwa Kisiwani. Astăzi, o mare parte din orașul vechi a fost înghițită de ocean din cauza eroziunii costiere, oferind o priveliște suprarealistă cu ziduri de coral ce ies din nisip la flux. Vizitatorii pot vedea bazele moscheilor și ale caselor aristocratice care demonstrează un nivel ridicat de urbanizare medievală. Kisimani oferă o lecție vie despre fragilitatea așezărilor de coastă în fața schimbărilor de mediu și despre bogăția culturală a arhipelagului Mafia. Istorie K8 — Economie medievală și monede în Africa de Est.",
+      "factsAdvanced": [
+        "Orașul și-a bătut propriile monede de cupru în secolele al XIII-lea și al XIV-lea.",
+        "A fost un centru major pentru comerțul cu fildeș și carapace de broască țestoasă.",
+        "O mare parte din sit este acum sub apele Oceanului Indian la flux mare.",
+        "Kisimani a fost distrus în mare parte de o furtună devastatoare în secolul al XIX-lea.",
+        "Situl păstrează rămășițele unei moschei mari cu mai multe abside.",
+        "Numele 'Kisimani' înseamnă 'la fântână' în limba swahili.",
+        "Arheologii au descoperit aici ceramică importată din Golful Persic și China.",
+        "Este considerat unul dintre cele mai periclitate situri arheologice din Tanzania."
+      ]
+    },
+    {
+      "id": "tz-kua-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele Kua, situate pe insula Juani din arhipelagul Mafia, reprezintă unul dintre cele mai extinse și mai bine conservate situri swahili din Tanzania. Fondat în secolul al XII-lea, orașul Kua a fost un centru administrativ și comercial dominant în regiune, renumit pentru palatele sale somptuoase și moscheile numeroase. Situl este unic datorită conservării zidurilor de incintă și a sistemelor complexe de colectare a apei de ploaie. Potrivit tradiției orale, orașul a fost abandonat brusc în secolul al XIX-lea după un atac devastator al piraților Sakalava din Madagascar. Astăzi, explorarea ruinelor printre baobabii uriași oferă o experiență mistică, amintind de gloria trecută a acestui regat insular. Kua este un martor tăcut al interacțiunilor complexe dintre diversele popoare din Oceanul Indian. Istorie K7 — Pirateria și conflictele în Oceanul Indian.",
+      "factsAdvanced": [
+        "Orașul a fost abandonat în jurul anului 1829 după invazia piraților Sakalava.",
+        "Complexul include șapte moschei și peste treizeci de case din piatră de coral.",
+        "Palatul principal are o curte interioară mare și băi private sofisticate.",
+        "Situl conține morminte monumentale ale foștilor conducători (Shirazi).",
+        "Insula Juani, unde se află ruinele, este acum parte a Parcului Marin Mafia.",
+        "Kua era renumită pentru producția de bărci și funii din fibre de cocos.",
+        "Accesul la sit se face prin canale înguste printre mangrove.",
+        "Situl a fost un important punct de oprire pe ruta comercială spre sudul Africii."
+      ]
+    },
+    {
+      "id": "tz-chole-ruins-history-v2",
+      "descriptionAdvanced": "Insula Chole, o mică bijuterie în arhipelagul Mafia, găzduiește ruinele sediului administrativ al insulelor de la sfârșitul secolului al XIX-lea. După abandonarea orașului Kua, Chole a devenit noul centru de putere, găzduind oficiali omanezi și, mai târziu, reprezentanți ai administrației germane. Astăzi, zidurile vechii Boma (clădire administrativă) și ale caselor coloniale sunt spectaculos invadate de rădăcinile uriașe ale smochinilor și baobabilor, creând un peisaj ce amintește de templele din Angkor Wat. Vizitarea ruinelor de pe Chole oferă o incursiune în istoria recentă a Tanzaniei, de la dominația Sultanatului de Zanzibar la colonizarea europeană. Insula este, de asemenea, renumită pentru conservarea liliecilor de fructe gigantici și pentru comunitatea sa de constructori de bărci tradiționale. Istorie K8 — Tranziția de la dominația arabă la cea europeană.",
+      "factsAdvanced": [
+        "Chole a devenit centrul administrativ al insulei Mafia după 1830.",
+        "Ruinele includ o veche închisoare germană și un post de vamă.",
+        "Smochinii gigantici au acoperit complet multe dintre structurile de coral.",
+        "Insula a fost un punct strategic pentru controlul comerțului cu mangrove.",
+        "Liliecii de fructe de pe insulă sunt protejați prin lege.",
+        "Locuitorii de pe Chole sunt renumiți pentru construcția dhow-urilor realizate manual.",
+        "Situl reflectă stilul arhitectural de tranziție între swahili și colonial.",
+        "Insula nu are mașini, păstrând o atmosferă istorică autentică."
+      ]
+    },
+    {
+      "id": "tz-maji-maji-memorial-history-v2",
+      "descriptionAdvanced": "Memorialul Maji Maji din Songea este un loc sacru de comemorare națională, dedicat uneia dintre cele mai mari rezistențe armate împotriva dominației coloniale germane din Africa. Revolta Maji Maji (1905-1907) a unit diverse triburi din sudul Tanzaniei, care credeau că o apă sfințită specială îi va proteja de gloanțele germane. Muzeul este construit pe locul unde 67 de lideri locali, inclusiv legendarul șef Nduna Songea Mbano, au fost executați prin spânzurare de către forțele germane în 1906. Exponatele includ arme tradiționale, fotografii istorice și haine ale războinicilor, oferind o perspectivă emoționantă asupra luptei pentru demnitate și libertate. Acest memorial servește ca un simbol puternic al unității naționale și al sacrificiului care a pus bazele viitoarei independențe a Tanzaniei. Istorie K8 — Rezistența anticolonială și naționalismul african.",
+      "factsAdvanced": [
+        "Revolta a fost declanșată de politica germană de muncă forțată în plantațiile de bumbac.",
+        "Numele 'Maji Maji' provine din cuvântul swahili pentru apă.",
+        "Peste 250.000 de oameni au murit în urma conflictului și a foametei cauzate de război.",
+        "Șeful Songea Mbano a fost onorat de germani pentru curajul său înainte de execuție.",
+        "Muzeul găzduiește mormintele comune ale liderilor executați în februarie 1906.",
+        "Este singurul muzeu din Tanzania dedicat exclusiv rezistenței Maji Maji.",
+        "Fiecare an, pe 27 februarie, au loc ceremonii oficiale de comemorare.",
+        "Exponatele includ un turn de spânzurătoare original folosit în perioada colonială."
+      ]
+    },
+    {
+      "id": "tz-askari-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Askari este un punct de reper central și istoric în inima orașului Dar es Salaam, situat la intersecția bulevardului Samora cu strada Maktaba. Această impresionantă statuie de bronz, dezvelită în 1927, înfățișează un soldat Askari în uniformă din Primul Război Mondial, ținând un pușcă cu baionetă îndreptată spre port. Monumentul a fost ridicat de britanici pentru a onora curajul și sacrificiul trupelor africane care au luptat în campania din Africa de Est. Inscripția de pe soclu, scrisă în engleză, swahili și arabă, a fost compusă de celebrul scriitor Rudyard Kipling. Monumentul stă pe locul unde anterior se afla o statuie a lui Otto von Bismarck, simbolizând schimbarea puterii coloniale după Marele Război. Este un memento solemn al rolului Africii în conflictele globale ale secolului XX. Istorie K8 — Africa în Primul Război Mondial.",
+      "factsAdvanced": [
+        "Statuia a fost turnată în bronz în Marea Britanie înainte de a fi trimisă în Tanzania.",
+        "Inscripția de pe monument a fost scrisă de laureatul Premiului Nobel, Rudyard Kipling.",
+        "Askari înseamnă soldat în limba swahili.",
+        "Monumentul onorează în mod specific corpul de hamali care a susținut logistica războiului.",
+        "A fost inaugurat oficial de guvernatorul britanic Donald Cameron în 1927.",
+        "Locația monumentului este considerată centrul zero al orașului Dar es Salaam.",
+        "Plăcile de bronz de pe soclu înfățișează scene din timpul luptelor din savană.",
+        "Este unul dintre cele trei monumente similare ridicate în Africa de Est."
+      ]
+    },
+    {
+      "id": "tz-national-museum-history-v2",
+      "descriptionAdvanced": "Muzeul Național al Tanzaniei din Dar es Salaam este cea mai importantă instituție culturală a țării, oferind o călătorie fascinantă prin istoria, etnografia și paleontologia Africii de Est. Fondat în 1934, muzeul găzduiește comori neprețuite, inclusiv craniul original de Paranthropus boisei descoperit de Mary Leakey în cheile Olduvai. Galeriile sale documentează cu rigoare comerțul cu sclavi din Oceanul Indian, perioada colonială germană și britanică, precum și drumul Tanzaniei spre independență sub conducerea lui Julius Nyerere. O secțiune specială este dedicată culturii swahili și artelor tradiționale, oferind vizitatorilor o înțelegere profundă a identității naționale diverse. Curtea muzeului, cu grădinile sale liniștite și mașinile istorice ale primului președinte, este o oază de cultură în centrul metropolei. Istorie K7 — Evoluția umană și patrimoniul cultural african.",
+      "factsAdvanced": [
+        "Muzeul a fost deschis inițial în 1940 sub numele de King George V Memorial Museum.",
+        "Adăpostește faimoasele amprente de la Laetoli, vechi de 3,6 milioane de ani.",
+        "Colecția include obiecte personale ale Dr. David Livingstone.",
+        "Muzeul are o secțiune impresionantă de artă Makonde, celebră pentru sculpturile în abanos.",
+        "Sunt expuse mașini de epocă, inclusiv un Rolls-Royce folosit de foștii guvernatori britanici.",
+        "Galeria de istorie prezintă documente originale din timpul revoltei Maji Maji.",
+        "Muzeul servește ca centru principal de cercetare arheologică pentru Tanzania.",
+        "Clădirea principală este un exemplu interesant de arhitectură modernă cu influențe locale."
+      ]
+    },
+    {
+      "id": "tz-old-fort-zanzibar-history-v2",
+      "descriptionAdvanced": "Vechiul Fort este cea mai veche structură care a supraviețuit în Stone Town, Zanzibar, fiind o mărturie impunătoare a dominației omanezi pe insulă. Construit la sfârșitul secolului al XVII-lea pe locul unei foste biserici portugheze, fortul a fost proiectat pentru a apăra orașul împotriva atacurilor navale și a revoltelor locale. Zidurile sale masive de coral, bastioanele circulare și curtea interioară vastă au servit de-a lungul secolelor ca închisoare, cazarmă militară și chiar depou pentru prima cale ferată din Zanzibar. Astăzi, fortul a fost revitalizat ca un centru cultural vibrant, găzduind un amfiteatru în aer liber, ateliere de artizanat și celebrul Festival de Film al Țărilor din Oceanul Indian. Este un punct central de întâlnire unde istoria militară se împletește cu viața artistică contemporană. Istorie K8 — Fortificațiile arabe și dominația în Oceanul Indian.",
+      "factsAdvanced": [
+        "A fost construit între 1698 și 1701 de către arabii din Oman.",
+        "Fortul a rezistat unui atac major al portughezilor și aliaților lor în 1729.",
+        "În secolul al XIX-lea, în interiorul fortului se desfășurau execuții publice.",
+        "Amfiteatrul modern a fost construit cu sprijinul UNESCO în anii 1990.",
+        "Situl găzduiește birourile principale ale Zanzibar International Film Festival.",
+        "Turnurile fortului oferă o vedere panoramică asupra portului și grădinilor Forodhani.",
+        "Intrarea principală are o poartă masivă din lemn de tec, specifică arhitecturii defensive.",
+        "În interior funcționează o piață de artizanat unde artiștii locali își vând lucrările."
+      ]
+    },
+    {
+      "id": "tz-house-of-wonders-history-v2",
+      "descriptionAdvanced": "Casa Minunilor este cea mai înaltă și impunătoare clădire din Stone Town, Zanzibar, fiind un simbol al modernizării și puterii Sultanatului în secolul al XIX-lea. Construită în 1883 de Sultanul Barghash bin Said, clădirea a fost numită astfel deoarece a fost prima din Africa de Est care a avut electricitate și un lift electric. Arhitectura sa spectaculoasă îmbină coloane de oțel, balcoane largi și uși de lemn masiv sculptate cu versete din Coran. De-a lungul timpului, a servit drept palat ceremonial, sediu guvernamental și muzeu național de istorie și cultură. Deși a suferit daune structurale semnificative în ultimii ani, Casa Minunilor rămâne un reper fundamental al patrimoniului UNESCO, reprezentând puntea dintre tradiția swahili și inovația tehnologică globală. Istorie K8 — Modernizarea Zanzibarului sub dominația sultanatului.",
+      "factsAdvanced": [
+        "A fost prima clădire din Africa de Est care a dispus de un lift electric.",
+        "Ușile sale de la intrare sunt considerate cele mai mari și mai frumoase din Stone Town.",
+        "În timpul bombardamentului anglo-zanzibarez din 1896, a suferit doar avarii minore.",
+        "Turnul cu ceas a fost adăugat ulterior și a devenit un punct de reper pentru navigație.",
+        "Muzeul din interior prezintă dhow-uri tradiționale la scară naturală.",
+        "Clădirea a fost construită pe locul fostului palat al reginei Fatuma din Zanzibar.",
+        "Stâlpii de oțel folosiți în construcție au fost importați special din Scoția.",
+        "Este inclusă în situl Patrimoniului Mondial UNESCO din anul 2000."
+      ]
+    },
+    {
+      "id": "tz-maruhubi-palace-history-v2",
+      "descriptionAdvanced": "Ruinele Palatului Maruhubi oferă o perspectivă melancolică asupra opulenței Sultanatului de Zanzibar de la sfârșitul secolului al XIX-lea. Situat la nord de Stone Town, palatul a fost construit între 1880 și 1882 de Sultanul Barghash pentru a găzdui haremul său format din 99 de concubine. Complexul era renumit pentru grădinile sale luxuriante cu arbori de mango și bazinele cu nuferi, alimentate de un sistem ingenios de apeducte. Cele mai impresionante rămășițe sunt coloanele masive de piatră și băile persane elaborate, care demonstrează rafinamentul stilului de viață regal. Din păcate, marea structură din lemn a palatului a fost distrusă de un incendiu devastator în 1899, lăsând în urmă doar scheletul de piatră care astăzi este înconjurat de o vegetație tropicală liniștită. Istorie K8 — Viața de curte și arhitectura palatelor în Zanzibar.",
+      "factsAdvanced": [
+        "Palatul a fost construit special pentru a găzdui cele 99 de concubine ale sultanului Barghash.",
+        "Incendiul din 1899 a fost atât de puternic încât a distrus majoritatea structurilor din lemn în câteva ore.",
+        "Băile persane sunt încă vizibile și prezintă un sistem complex de încălzire a apei.",
+        "Grădinile erau odinioară pline de păuni și gazele importate din India.",
+        "Numele provine de la proprietarul anterior al terenului, un arab din tribul Marhubi.",
+        "Situl a fost un exemplu rar de arhitectură care combina stilul arab cu cel victorian.",
+        "Apa pentru bazine era adusă printr-un canal special din izvoarele Chem Chem.",
+        "Astăzi este un loc popular pentru picnicuri și evenimente culturale locale."
+      ]
+    },
+    {
+      "id": "tz-mtoni-palace-history-v2",
+      "descriptionAdvanced": "Palatul Mtoni este cel mai vechi palat de pe coasta Zanzibarului, construit în anii 1820 de Sultanul Seyyid Said, primul sultan care și-a mutat capitala de la Muscat pe insulă. Situat pe malul mării, palatul a fost odinioară o structură imensă care găzduia peste 1000 de persoane, inclusiv familia sultanului, servitorii și garda personală. Viața la Mtoni a fost descrisă cu detalii fascinante de către Prințesa Salme în memoriile sale, Amintirile unei prințese arabe. Ruinele de astăzi păstrează arcade elegante și bazine de baie care evocă atmosfera unei epoci de aur a comerțului și diplomației omanezi. Deși parțial în stare de degradare, situl găzduiește frecvent concerte de muzică tradițională taraab și spectacole care readuc la viață poveștile de la curtea sultanului. Istorie K8 — Începuturile Sultanatului de Zanzibar.",
+      "factsAdvanced": [
+        "A fost reședința principală a sultanului Seyyid Said până la moartea sa în 1856.",
+        "Situl includea o moschee privată, băi turcești și grădini botanice vaste.",
+        "Prințesa Salme, fiica sultanului, s-a născut și a crescut în acest palat.",
+        "În perioada sa de glorie, palatul avea peste 100 de camere decorate cu oglinzi venețiene.",
+        "Numele Mtoni înseamnă la râu în limba swahili, referindu-se la pârâul din apropiere.",
+        "Palatul a fost abandonat la sfârșitul secolului al XIX-lea și materialele au fost refolosite.",
+        "Astăzi, asociația Mtoni Palace Conservation organizează spectacole de lumini și sunet.",
+        "Este un sit esențial pentru înțelegerea conexiunii istorice dintre Oman și Zanzibar."
+      ]
+    },
+    {
+      "id": "tz-kizimkazi-mosque-history-v2",
+      "descriptionAdvanced": "Moscheea Kizimkazi, situată în satul Dimbani din sudul insulei Zanzibar, este unul dintre cele mai vechi și mai venerate situri islamice din toată Africa de Est. O inscripție rară în scrierea kufică datează construcția originală în anul 1107 d.Hr., fiind ctitorită de coloniști Shirazi veniți din Persia. De olsa structura actuală a fost reconstruită în secolul al XVIII-lea, moscheea păstrează elemente arhitecturale antice, cum ar fi mihrab-ul decorat și stâlpii de coral. În jurul moscheii se află numeroase morminte ale unor figuri importante, unele decorate cu ceramică fină. Moscheea este și astăzi un loc activ de rugăciune pentru comunitatea locală, reprezentând o dovadă vie a prezenței milenare a Islamului pe coastă și a schimburilor culturale profunde dintre Africa și Orientul Mijlociu. Istorie K7 — Răspândirea timpurie a Islamului în Africa de Est.",
+      "factsAdvanced": [
+        "Inscripția kufică din interior datează moscheea în anul 500 după Hijra.",
+        "Este considerată cea mai veche clădire datată de pe coasta Africii de Est.",
+        "A fost construită de Sheikh Said bin Abi Amran, un lider al coloniștilor Shirazi.",
+        "Mihrab-ul prezintă sculpturi complexe în piatră de coral cu motive florale și geometrice.",
+        "Situl se află în apropierea golfului unde pot fi observați frecvent delfinii.",
+        "Mormintele din exterior aparțin unor șeici și lideri locali din secolele XVIII-XIX.",
+        "Reconstrucția majoră din 1772 a respectat fundațiile și orientarea originală.",
+        "Situl este o destinație majoră pentru pelerinaj și turism religios în Zanzibar."
+      ]
+    },
+    {
+      "id": "tz-mangapwani-caves-history-v2",
+      "descriptionAdvanced": "Peșterile Mangapwani reprezintă un sit istoric tulburător pe coasta de vest a Zanzibarului, strâns legat de ultimele zile ale comerțului ilegal cu sclavi. Situl cuprinde o peșteră naturală de coral cu un lac subteran și o cameră artificială tăiată direct în stâncă. După interzicerea oficială a sclaviei în 1873, acest loc izolat a fost folosit de negustori precum Tippu-Tip pentru a ascunde sclavii înainte de a fi transportați pe ascuns spre Arabia sau Persia. Peștera naturală era folosită pentru depozitarea apei și a alimentelor, în timp ce camera îngustă, cu ventilație minimă, adăpostea sute de bărbați, femei și copii în condiții inumane. Astăzi, Mangapwani servește ca un memento sumbru al atrocităților sclaviei și al rezilienței spiritului uman în fața opresiunii. Istorie K8 — Comerțul ilegal cu sclavi după interzicere.",
+      "factsAdvanced": [
+        "Sclavii erau ascunși aici după ce piața oficială din Stone Town a fost închisă în 1873.",
+        "Peștera naturală are o deschidere îngustă spre ocean, facilitând transportul nocturn.",
+        "Camera artificială a fost construită de un bogat proprietar de pământ arab, Mohammed bin Nasser.",
+        "Situl este situat la aproximativ 20 de kilometri nord de Stone Town.",
+        "Numele Mangapwani provine dintr-o combinație de cuvinte sugerând plaja arabilor.",
+        "Peștera naturală este locuită de mii de lilieci, sporind atmosfera sinistră.",
+        "Situl a fost redescoperit de oficialii britanici care patrulau coasta pentru a opri traficul.",
+        "Vizitarea include accesul în camera subterană unde sclavii stăteau înlănțuiți."
+      ]
+    }
+  ]
+}

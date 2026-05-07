@@ -1,0 +1,33 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gateway-arch-landmarks-v2",
+      "descriptionAdvanced": "Der Gateway Arch in St. Louis ist ein architektonisches Meisterwerk von Eero Saarinen und dient als 'Tor zum Westen'. Mit einer Höhe von 192 Metern ist das Monument der größte Bogen der Welt und ein Symbol für die historische Expansion der USA nach Westen. Das Bauwerk wurde 1965 fertiggestellt und besteht aus einer Edelstahlkonstruktion, die eine Straßenbahn enthält, mit der Besucher zur Aussichtsplattform an der Spitze gelangen können. Es ist heute das Zentrum des Gateway Arch National Park. Geographie K8 — Geschichte der US-Expansion.",
+      "factsAdvanced": [
+        "Bauzeit dauerte von 1963 bis 1965",
+        "Die Edelstahlhülle besteht aus 900 Tonnen Material",
+        "Eero Saarinen entwarf den Bogen als catenäre Kurve (Kettenlinie)",
+        "Das Bauwerk wurde zum 200. Jubiläum der Louisiana Purchase Expedition konzipiert",
+        "Besucher erreichen die Aussichtsplattform über eine spezielle Kapselbahn",
+        "Der Bogen steht genau an der Stelle, wo St. Louis gegründet wurde"
+      ]
+    },
+    {
+      "id": "mount-rushmore-landmarks-v2",
+      "descriptionAdvanced": "Das Mount Rushmore National Memorial ist eine monumentale Gedenkstätte in South Dakota, die die Porträts der vier US-Präsidenten George Washington, Thomas Jefferson, Theodore Roosevelt und Abraham Lincoln zeigt. Die Skulpturen wurden unter der Leitung von Gutzon Borglum zwischen 1927 und 1941 direkt aus dem massiven Granit des Berges in den Black Hills gemeißelt. Diese Köpfe sind jeweils etwa 18 Meter hoch und stellen ein bedeutendes Symbol für die amerikanische Demokratie und nationale Identität dar. Geschichte K8 — politische Symbole des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Die Arbeiten erforderten den Einsatz von Dynamit zur Gesteinsentfernung",
+        "Jeder der vier Präsidentenköpfe ist ungefähr 18 Meter hoch",
+        "Ursprünglich sollten die Figuren von der Hüfte aufwärts dargestellt werden",
+        "Borglum starb vor der Fertigstellung; sein Sohn Lincoln übernahm",
+        "Mount Rushmore zieht jährlich über zwei Millionen Besucher an",
+        "Der Granit ist so robust, dass er nur alle 25.000 Jahre um etwa 2,5 cm erodiert"
+      ]
+    }
+  ]
+}

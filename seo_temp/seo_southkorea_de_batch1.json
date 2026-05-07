@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hwaseong-city-cities-v2",
+      "descriptionAdvanced": "Hwaseong ist eine dynamische Stadt in der Provinz Gyeonggi, die für ihre rasante industrielle Entwicklung und ihre bedeutende Rolle in der südkoreanischen Automobilindustrie bekannt ist. Die Stadt beherbergt das Forschungs- und Entwicklungszentrum von Hyundai-Kia Motors, was sie zu einem technologischen Hub macht. Neben ihrer modernen Seite bewahrt Hwaseong jedoch auch landwirtschaftliche Traditionen, insbesondere den Anbau von Trauben. In der Nähe befindet sich auch die historische Festung Hwaseong in Suwon, die oft mit der Stadt assoziiert wird. Die Stadt plant zudem große Tourismusprojekte wie den Universal Studios Themenpark, um ihre Attraktivität weiter zu steigern. Für Besucher bietet Hwaseong eine interessante Mischung aus hochmoderner Infrastruktur und ländlicher Ruhe.",
+      "factsAdvanced": [
+        "Sitz des Namyang R&D Centers von Hyundai-Kia.",
+        "Geplanter Standort für Universal Studios Korea.",
+        "Bekannt für den Anbau hochwertiger Trauben.",
+        "Liegt in der wirtschaftlich starken Provinz Gyeonggi.",
+        "Beherbergt das Forschungsinstitut für Automobiltechnologie.",
+        "Kombiniert Industriegebiete mit weiten Wohnflächen.",
+        "Wichtiger Standort für die Halbleiterindustrie.",
+        "Gehört zu den am schnellsten wachsenden Städten Koreas."
+      ]
+    },
+    {
+      "id": "namyangju-city-cities-v2",
+      "descriptionAdvanced": "Namyangju, östlich von Seoul gelegen, ist eine Stadt, die Natur and Geschichte auf harmonische Weise verbindet. Sie ist besonders bekannt für ihre UNESCO-Weltkulturerbestätten, wie die königlichen Grabstätten der Joseon-Dynastie. Aufgrund ihrer malerischen Lage am Han-Fluss ist Namyangju ein beliebtes Ziel für Radfahrer und Wanderer, die dem hektischen Stadtleben Seouls entfliehen möchten. Ein weiteres Highlight sind die KOFIC Namyangju Studios, einer der wichtigsten Drehorte für die südkoreanische Filmindustrie. Hier wurden zahlreiche bekannte Filme und Serien produziert. Die Stadt engagiert sich stark für Nachhaltigkeit und bietet viele Parks und ökologische Wanderwege, was sie zu einem Vorbild für umweltfreundliche Stadtentwicklung in Korea macht.",
+      "factsAdvanced": [
+        "Beherbergt UNESCO-geschützte Königsgräber der Joseon-Zeit.",
+        "Wichtiger Drehort für die koreanische Filmindustrie (KOFIC).",
+        "Beliebt für Radwege entlang des Han-Flusses.",
+        "Bekannt für die Produktion von biologisch angebauten Birnen.",
+        "Das Silhak-Museum erinnert an die Denkschule der Joseon-Ära.",
+        "Die Stadt hat über 700.000 Einwohner.",
+        "Gilt als ökologische Vorzeigestadt in der Gyeonggi-Provinz.",
+        "Bietet Zugang zum Namhangang-Radweg."
+      ]
+    },
+    {
+      "id": "uijeongbu-city-cities-v2",
+      "descriptionAdvanced": "Uijeongbu liegt nördlich von Seoul und hat eine lange Geschichte als strategisch wichtiger Militärstandort. Lange Zeit war die Stadt vor allem für ihre US-Militärstützpunkte bekannt, was auch die lokale Kultur und Gastronomie geprägt hat. Das berühmteste Beispiel hierfür ist das Gericht Budae-jjigae (Armee-Eintopf), das hier während des Koreakrieges aus westlichen Konservenvorräten entstand. Heute wandelt sich Uijeongbu rasant in eine moderne Wohn- und Kulturstadt. Das Uijeongbu Arts Center ist ein zentraler Treffpunkt für Kunstliebhaber und bietet ein breites Spektrum an Aufführungen. Trotz ihrer urbanen Entwicklung ist die Stadt von Bergen wie dem Dobongsan umgeben, die hervorragende Möglichkeiten zum Wandern und zur Erholung in der Natur bieten.",
+      "factsAdvanced": [
+        "Historisch bedeutender Standort für US- und UN-Truppen.",
+        "Geburtsort des berühmten Gerichts Budae-jjigae.",
+        "Das Uijeongbu Arts Center ist ein kulturelles Wahrzeichen.",
+        "Liegt am Fuße des Nationalparks Bukhansan.",
+        "Wichtiger Verkehrsknotenpunkt im Norden der Metropolregion.",
+        "Beherbergt zahlreiche Museen zur Militärgeschichte.",
+        "Die Stadt hat sich zu einem Bildungszentrum entwickelt.",
+        "Sitz der Gyeonggi-Provinzverwaltung (nördliches Büro)."
+      ]
+    },
+    {
+      "id": "gwangmyeong-city-cities-v2",
+      "descriptionAdvanced": "Gwangmyeong ist eine moderne Stadt im Südwesten von Seoul, die in den letzten Jahren durch innovative Stadtentwicklungsprojekte auf sich aufmerksam gemacht hat. Das bekannteste Highlight ist die Gwangmyeong-Höhle, eine ehemalige Goldmine, die aufwendig in einen unterirdischen Kultur- und Themenpark umgewandelt wurde. Hier finden Besucher Weinkeller, Lichtinstallationen und sogar Konzerte in einer einzigartigen Atmosphäre. Zudem ist Gwangmyeong ein bedeutender Verkehrsknotenpunkt mit einem der wichtigsten KTX-Bahnhöfe des Landes, der schnellen Zugang in den Süden Koreas bietet. Wirtschaftlich ist die Stadt auch als Standort des größten IKEA-Möbelhauses der Welt (zum Zeitpunkt der Eröffnung) und anderer großer Einkaufszentren bekannt, was sie zu einem Magneten für Shopping-Begeisterte macht.",
+      "factsAdvanced": [
+        "Die Gwangmyeong-Höhle ist eine ehemalige Gold- und Zinkmine.",
+        "Standort einer der größten IKEA-Filialen weltweit.",
+        "Der KTX-Bahnhof Gwangmyeong ist ein zentraler Bahnknoten.",
+        "Beherbergt den Gwangmyeong Velodrome für Radrennen.",
+        "Die Stadt war ursprünglich ein Teil von Siheung.",
+        "Bekannt für den traditionellen Gwangmyeong-Markt.",
+        "Bietet direkten Zugang zum Han-Fluss-Radwegsystem.",
+        "Fokus auf smarte Stadttechnologien und Nachhaltigkeit."
+      ]
+    },
+    {
+      "id": "mokpo-city-cities-v2",
+      "descriptionAdvanced": "Mokpo, an der Südwestspitze der koreanischen Halbinsel gelegen, ist eine traditionsreiche Hafenstadt mit einer melancholischen und charmanten Atmosphäre. Als Endstation der Honam-Eisenbahnlinie und wichtiger Fährknotenpunkt zu den über 1.000 Inseln der Provinz Jeollanam-do spielt Mokpo eine zentrale Rolle im regionalen Verkehr. Die Stadt ist berühmt für ihre exzellente Küche, insbesondere für Meeresfrüchte-Spezialitäten wie fermentierten Rochen und Oktopus. Der Berg Yudalsan, das Wahrzeichen der Stadt, bietet Wanderwege und Aussichtspunkte mit einem Panoramablick über den Hafen und das Gelbe Meer. Mokpo bewahrt zudem viele historische Gebäude aus der Kolonialzeit, die heute als Museen oder Cafés dienen und der Stadt einen einzigartigen architektonischen Charakter verleihen.",
+      "factsAdvanced": [
+        "Endstation der KTX-Honam-Linie aus Seoul.",
+        "Wichtigster Hafen für Fähren zur Insel Jeju und Dadohae.",
+        "Berühmt für Mokpo 5 Tastes (lokale Delikatessen).",
+        "Der Yudalsan-Berg bietet Blick auf das Archipel.",
+        "Beherbergt das Nationale Forschungsinstitut für maritimes Kulturerbe.",
+        "Galt während der Kolonialzeit als einer der drei größten Häfen.",
+        "Jährliches Mokpo Maritime Festival im Sommer.",
+        "Sitz des Formel-1-Kurses (Korea International Circuit) in der Nähe."
+      ]
+    },
+    {
+      "id": "yeosu-city-cities-v2",
+      "descriptionAdvanced": "Yeosu ist eine malerische Küstenstadt im Süden Koreas, die für ihre atemberaubende maritime Landschaft und ihre romantische Atmosphäre bekannt ist. Spätestens seit der Ausrichtung der Weltausstellung 2012 hat sich Yeosu zu einem der beliebtesten Touristenziele des Landes entwickelt. Das Gelände der Expo 2012 bietet noch heute Attraktionen wie das Aqua Planet, eines der größten Aquarien Koreas, und die faszinierende Big-O Licht- und Wassershow. Berühmt ist Yeosu auch für seine nächtliche Aussicht, die sogar in populären Songs besungen wird. Die Stadt besteht aus einer Halbinsel und über 300 kleinen Inseln, die oft durch beeindruckende Brücken verbunden sind. Kulinarisch ist Yeosu für seinen scharfen Senfblatt-Kimchi (Gat-kimchi) und fangfrische Meeresfrüchte in der ganzen Nation geschätzt.",
+      "factsAdvanced": [
+        "Gastgeber der Weltausstellung (Expo) im Jahr 2012.",
+        "Beherbergt das riesige Aquarium Aqua Planet Yeosu.",
+        "Bekannt für den Odongdo-Park mit Tausenden von Kamelien.",
+        "Die Yeosu-Seilbahn bietet Blick über das offene Meer.",
+        "Berühmt für Dolsan Gat-kimchi (Senfblatt-Kimchi).",
+        "Die Yi Sun-sin-Brücke ist eine der längsten Hängebrücken.",
+        "Wichtiger Standort für die petrochemische Industrie.",
+        "Besteht aus einer Halbinsel und 317 umliegenden Inseln."
+      ]
+    },
+    {
+      "id": "suncheon-city-cities-v2",
+      "descriptionAdvanced": "Suncheon gilt als die ökologische Hauptstadt Südkoreas und ist ein Paradies für Naturliebhaber. Die Suncheonman-Bucht ist eines der besterhaltenen Küstenfeuchtgebiete weltweit und beherbergt riesige Schilffelder sowie seltene Zugvögel wie den Mönchskranich. Um dieses empfindliche Ökosystem zu schützen, wurde der Suncheonman National Garden angelegt, eine riesige Parkanlage mit Gartenstilen aus aller Welt, die 2013 Schauplatz der internationalen Gartenbau-Expo war. Neben der Natur bietet Suncheon auch reiche Kulturgeschichte, wie das Naganeupseong Folk Village, eine bewohnte Festungsstadt aus der Joseon-Zeit mit originalen Strohdachhäusern. Diese Kombination aus ökologischem Bewusstsein und historischem Erbe macht Suncheon zu einem einzigartigen und entspannenden Reiseziel abseits der großen Metropolen.",
+      "factsAdvanced": [
+        "Die Suncheonman-Bucht ist ein Ramsar-geschütztes Feuchtgebiet.",
+        "Standort des Suncheonman National Garden.",
+        "Naganeupseong ist eine bewohnte Festung aus der Joseon-Ära.",
+        "Beherbergt den bedeutenden Tempel Songgwangsa.",
+        "Wichtiger Überwinterungsplatz für den seltenen Mönchskranich.",
+        "Gilt als eine der lebenswertesten Städte Koreas.",
+        "Austragungsort der Garten-Expo 2013 und 2023.",
+        "Bekannt für den Anbau von hochwertigem Reis und Pflaumen."
+      ]
+    },
+    {
+      "id": "gyeongju-city-cities-v2",
+      "descriptionAdvanced": "Gyeongju, oft als Museum ohne Mauern bezeichnet, war fast tausend Jahre lang die Hauptstadt des alten Silla-Königreichs. Die Stadt ist eine der bedeutendsten historischen Stätten Asiens und beherbergt eine unglaubliche Dichte an UNESCO-Weltkulturerbestätten. Zu den Highlights gehören der Bulguksa-Tempel, ein Meisterwerk buddhistischer Architektur, und die Seokguram-Grotte mit ihrer monumentalen Buddha-Statue. Überall im Stadtgebiet findet man riesige Grabhügel ehemaliger Könige, die das Stadtbild auf einzigartige Weise prägen. Das Cheomseongdae, das älteste erhaltene astronomische Observatorium Ostasiens, zeugt vom wissenschaftlichen Fortschritt der Silla-Zeit. Gyeongju ist nicht nur ein Ort für Historiker, sondern auch ein charmantes Reiseziel mit traditionellen Cafés im Hanok-Stil und malerischen Parks wie dem Anapji-Teich, der besonders nachts spektakulär beleuchtet ist.",
+      "factsAdvanced": [
+        "War 992 Jahre lang die Hauptstadt des Silla-Königreichs.",
+        "UNESCO-Weltkulturerbe seit dem Jahr 2000.",
+        "Beherbergt über 30 riesige königliche Grabhügel (Tumuli).",
+        "Das Cheomseongdae-Observatorium stammt aus dem 7. Jahrhundert.",
+        "Bulguksa-Tempel gilt als Nationalschatz Nummer 1.",
+        "Berühmt für das Gyeongju-Brot (Hwangnam-ppang).",
+        "Beliebtes Ziel für die Kirschblütenzeit im Frühling.",
+        "Das Gyeongju National Museum zeigt Silla-Goldkronen."
+      ]
+    },
+    {
+      "id": "geoje-city-cities-v2",
+      "descriptionAdvanced": "Geoje ist eine pulsierende Stadt auf der gleichnamigen Insel, der zweitgrößten Südkoreas, und weltweit bekannt als Zentrum des Schiffbaus. Die riesigen Werften von Samsung Heavy Industries und Hanwha Ocean (ehemals Daewoo) prägen die Wirtschaft und den Hafen der Stadt. Doch Geoje hat auch eine ganz andere Seite: Die Insel bietet eine atemberaubende Natur mit zerklüfteten Küsten, klarem Wasser und dem Hallyeohaesang National Marine Park. Ein Muss für Besucher ist Oedo-Botania, ein wunderschön angelegter botanischer Garten auf einer kleinen vorgelagerten Insel, der nur per Fähre erreichbar ist. Historisch ist die Stadt auch durch das Geoje POW Camp bekannt, das während des Koreakrieges eines der größten Gefangenenlager war und heute als Gedenkstätte dient. Geoje ist somit ein Ort der Kontraste zwischen modernster Schwerindustrie und idyllischer Inselnatur.",
+      "factsAdvanced": [
+        "Zweitgrößte Insel Südkoreas nach Jeju.",
+        "Sitz von zwei der weltweit größten Schiffswerften.",
+        "Oedo-Botania ist ein berühmter mariner botanischer Garten.",
+        "Die Geoga-Brücke verbindet die Insel direkt mit Busan.",
+        "Beherbergt die historische Gedenkstätte des Kriegsgefangenenlagers.",
+        "Beliebt für den Windy Hill mit seiner Windmühle.",
+        "Wichtiger Standort für die Öl- und Gasplattform-Produktion.",
+        "Bietet zahlreiche Strände wie den Hakdong Black Pearl Pebble Beach."
+      ]
+    },
+    {
+      "id": "gimpo-city-cities-v2",
+      "descriptionAdvanced": "Gimpo ist eine strategisch günstig gelegene Stadt nordwestlich von Seoul, die vor allem durch den Gimpo International Airport bekannt ist. Bevor der Flughafen Incheon eröffnet wurde, war Gimpo das wichtigste Tor zur Welt für Südkorea. Heute dient der Flughafen hauptsächlich für Inlandsflüge und Verbindungen nach Japan und China. Die Stadt hat sich in den letzten Jahren rasant von einer landwirtschaftlich geprägten Region zu einer modernen Satellitenstadt entwickelt. Neue Wohngebiete wie Gimpo Hangang New Town bieten moderne Lebensqualität und gute Anbindungen an die Hauptstadt. Trotz der Urbanisierung bewahrt Gimpo Teile seines ländlichen Erbes, insbesondere den Anbau des berühmten Gimpo-Reises, der seit Jahrhunderten für seine hohe Qualität geschätzt wird. Die Nähe zum Han-Fluss und zum Gelben Meer macht Gimpo zu einem wichtigen logistischen und wirtschaftlichen Bindeglied in der Metropolregion.",
+      "factsAdvanced": [
+        "Heimat des Gimpo International Airport (gegründet 1939).",
+        "Bekannt für hochwertigen Gimpo-Reis.",
+        "Rasanter Ausbau zur Hangang New Town Wohnstadt.",
+        "Hyundai Premium Outlets ist ein großes Shopping-Ziel.",
+        "Grenzt direkt an die Metropole Seoul.",
+        "Der Gimpo Goldline-Zug verbindet die Stadt mit dem Metrosystem.",
+        "Historisch bedeutsam für die Verteidigung der Han-Mündung.",
+        "Wichtiger Standort für kleine und mittlere Industrieunternehmen."
+      ]
+    },
+    {
+      "id": "andong-city-cities-v2",
+      "descriptionAdvanced": "Andong gilt als die spirituelle Hauptstadt Koreas und ist das Zentrum der konfuzianischen Traditionen des Landes. Die Stadt ist weltberühmt für das Hahoe Folk Village, ein UNESCO-Weltkulturerbe, in dem die Zeit stehengeblieben zu sein scheint. Hier leben Menschen immer noch in traditionellen Hanok-Häusern und bewahren Bräuche wie das Maskentanz-Festival, das jährlich Tausende von Besuchern anlockt. Andong ist auch der Geburtsort bedeutender Gelehrter, was sich in der Dosan Seowon widerspiegelt, einer der wichtigsten konfuzianischen Akademien der Joseon-Zeit. Kulinarisch hat Andong ebenfalls viel zu bieten: Der kräftige Andong Soju (ein traditioneller Schnaps) und das herzhafte Andong Jjimdak (gedünstetes Huhn) sind landesweit bekannt. Wer das wahre, traditionelle Korea jenseits der modernen Wolkenkratzer erleben möchte, findet in Andong den perfekten Ort.",
+      "factsAdvanced": [
+        "UNESCO-Weltkulturerbe Hahoe Folk Village.",
+        "Zentrum des koreanischen Konfuzianismus.",
+        "Berühmt für das Andong Maskentanz-Festival im Herbst.",
+        "Andong Soju ist ein geschützter traditioneller Likör.",
+        "Die Dosan Seowon Akademie wurde im 16. Jh. gegründet.",
+        "Bekannt für den Woryeonggyo, die längste Holzbrücke Koreas.",
+        "Berühmt für das Gericht Andong Jjimdak.",
+        "Königin Elisabeth II. besuchte Andong im Jahr 1999."
+      ]
+    },
+    {
+      "id": "seogwipo-city-cities-v2",
+      "descriptionAdvanced": "Seogwipo ist die charmante Stadt im Süden der Vulkaninsel Jeju und bekannt für ihr mildes, fast subtropisches Klima. Während die Stadt Jeju im Norden eher geschäftig ist, bietet Seogwipo eine entspannte Urlaubsatmosphäre mit spektakulären Naturwundern. Die Stadt ist berühmt für ihre einzigartigen Wasserfälle, wie den Jeongbang-Wasserfall, den einzigen in Asien, der direkt ins Meer stürzt. Die Küste von Seogwipo ist geprägt von bizarren Felsformationen wie den Jusangjeolli-Klippen, die an den Giant’s Causeway erinnern. Auch für Sportbegeisterte ist die Stadt ein Begriff, da das Jeju World Cup Stadium während der Fußball-WM 2002 Schauplatz bedeutender Spiele war. Umgeben von Mandarinenplantagen, deren Duft im Winter die Luft erfüllt, ist Seogwipo das Tor zum Hallasan-Nationalpark und ein idealer Ausgangspunkt für Wanderungen entlang der berühmten Jeju Olle-Wanderwege.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt auf der Insel Jeju.",
+        "Beherbergt den Jeongbang-Wasserfall (direkt ins Meer).",
+        "Austragungsort der FIFA-Weltmeisterschaft 2002.",
+        "Bekannt für den Anbau der süßen Jeju-Mandarinen.",
+        "Ausgangspunkt für viele Jeju Olle-Wanderwege.",
+        "Die Jusangjeolli-Klippen bestehen aus Basaltsäulen.",
+        "Besitzt einen malerischen Hafen und die Saeyeongyo-Brücke.",
+        "Beliebt für Tauchen und Schnorcheln im klaren Wasser."
+      ]
+    },
+    {
+      "id": "icheon-city-cities-v2",
+      "descriptionAdvanced": "Icheon ist die unangefochtene Hauptstadt der koreanischen Keramikkunst und blickt auf eine über tausendjährige Tradition in der Herstellung von edlem Porzellan zurück. Die Stadt ist als UNESCO Creative City of Crafts recognized und zieht mit ihrem jährlichen Keramikfestival internationale Künstler und Sammler an. In den zahlreichen Ateliers und Werkstätten des Keramikdorfes können Besucher den Meistern bei der Arbeit über die Schulter schauen oder selbst das Töpferhandwerk erlernen. Doch Icheon ist nicht nur für Kunst bekannt, sondern auch für seine Landwirtschaft. Der hier angebaute Reis gilt als der beste des Landes und wurde früher exklusiv an den königlichen Hof geliefert. Zudem ist Icheon ein bedeutender Industriestandort, insbesondere als Heimatbasis des Halbleiterriesen SK Hynix. Diese Mischung aus traditionellem Kunsthandwerk, erstklassiger Landwirtschaft und modernster Technologie macht den besonderen Reiz der Stadt aus.",
+      "factsAdvanced": [
+        "UNESCO Creative City für Handwerk und Volkskunst.",
+        "Zentrum der koreanischen Porzellan- und Keramikproduktion.",
+        "Der Icheon-Reis war historisch dem König vorbehalten.",
+        "Sitz der globalen Halbleiterproduktion von SK Hynix.",
+        "Jährliches internationale Keramikfestival im Frühjahr.",
+        "Bekannt für seine heißen Quellen (Icheon Termeden).",
+        "Wichtiger Logistikknotenpunkt südlich von Seoul.",
+        "Beherbergt das Icheon World Ceramics Center."
+      ]
+    },
+    {
+      "id": "guri-city-cities-v2",
+      "descriptionAdvanced": "Guri ist eine kompakte und lebendige Stadt direkt an der östlichen Grenze von Seoul, die oft als Wohnvorort für Pendler dient. Trotz ihrer geringen Fläche hat Guri eine enorme historische Bedeutung, da sie wichtige Überreste des alten Goguryeo-Königreichs beherbergt. Das Goguryeo Blacksmith Town ist ein faszinierendes Freilichtmuseum und Filmset, das den Alltag und die fortsrittliche Metallverarbeitung dieser Ära zeigt. Ein weiteres kulturelles Juwel ist Donggureung, die größte Ansammlung von Königsgräbern der Joseon-Dynastie, die zum UNESCO-Weltkulturerbe gehört. Guri ist zudem für seine wunderschönen Parks am Ufer des Han-Flusses bekannt, insbesondere für den Guri Hangang Park, der im Frühling und Herbst durch riesige Blumenfestivals (Rapsblüten und Kosmosblumen) besticht. Die Stadt bietet somit eine ideale Kombination aus urbanem Komfort, geschichtlicher Tiefe und erholsamen Grünflächen am Wasser.",
+      "factsAdvanced": [
+        "Donggureung beherbergt 9 königliche Grabstätten (UNESCO).",
+        "Berühmt für das jährliche Kosmos-Blumenfestival am Han-Fluss.",
+        "Goguryeo Blacksmith Town ist ein bekannter Filmdrehort.",
+        "Gilt als eine der am dichtesten besiedelten Städte Koreas.",
+        "Guri-Markt ist einer der größten traditionellen Märkte.",
+        "Wichtiger Standort für den Agrar- und Fischgroßhandel.",
+        "Direkte Anbindung an das Seouler U-Bahn-Netz.",
+        "Die Statue von König Gwanggaeto ehrt den Goguryeo-Herrscher."
+      ]
+    },
+    {
+      "id": "sokcho-city-cities-v2",
+      "descriptionAdvanced": "Sokcho ist eine der beliebtesten Küstenstädte Südkoreas und liegt im Nordosten des Landes in der Provinz Gangwon. Die Stadt ist das wichtigste Tor zum Seoraksan-Nationalpark, dessen majestätische Granitgipfel das panorama hinter der Stadt prägen. Besucher kommen oft hierher, um Wandertouren im Gebirge mit einem Strandurlaub am Japanischen Meer zu verbinden. Sokcho hat eine interessante Geschichte: Nach dem Koreakrieg ließen sich hier viele Flüchtlinge aus dem Norden nieder, was zur Entstehung des Abai-Dorfes führte, das heute für seine nordkoreanischen Spezialitäten wie gefüllten Tintenfisch bekannt ist. Der geschäftige Fischmarkt von Sokcho bietet eine unglaubliche Vielfalt an fangfrischen Meeresfrüchten und ist ein Magnet für Feinschmecker. Mit seinen malerischen Seen wie dem Yeonggeumjeong-Pavillon und der Nähe zur nordkoreanischen Grenze bietet Sokcho eine einzigartige Mischung aus Naturerlebnis, kulinarischem Genuss und zeitgeschichtlicher Bedeutung.",
+      "factsAdvanced": [
+        "Wichtigster Ausgangspunkt für den Seoraksan-Nationalpark.",
+        "Bekannt für das Abai-Dorf nordkoreanischer Flüchtlinge.",
+        "Berühmt für Dakgangjeong (süß-saures Brathähnchen).",
+        "Besitzt einen der größten Fischmärkte an der Ostküste.",
+        "Der Sokcho Lighthouse Observatory bietet Blick auf das Meer.",
+        "War vor dem Koreakrieg Teil von Nordkorea.",
+        "Beliebter Drehort für das Drama Autumn in My Heart.",
+        "Sitz eines internationalen Fährterminals nach Russland/Japan."
+      ]
+    },
+    {
+      "id": "gimcheon-city-cities-v2",
+      "descriptionAdvanced": "Gimcheon ist eine strategisch wichtige Stadt im Herzen Südkoreas, die seit jeher als zentraler Verkehrsknotenpunkt fungiert. Gelegen in der Provinz Gyeongsangbuk-do, kreuzen sich hier wichtige Autobahnen und Eisenbahnlinien, was die Stadt zu einem bedeutenden Logistik- und Handelszentrum macht. Ein kulturelles Highlight ist der Jikjisa-Tempel, einer der ältesten und bedeutendsten buddhistischen Tempel Koreas, der für seine wunderschönen Wandmalereien und die tausend kleinen Buddha-Statuen bekannt ist. Gimcheon hat sich zudem als Sportstadt einen Namen gemacht, da sie über erstklassige Sportanlagen verfügt und regelmäßig nationale und internationale Wettkämpfe ausrichtet. Die Stadt ist auch von malerischen Bergen umgeben, die zum Wandern einladen. In den letzten Jahren hat Gimcheon durch die Ansiedlung von Innovationszentren und öffentlichen Einrichtungen im Rahmen des Projekts Gyeongbuk Innovation City an wirtschaftlicher Dynamik gewonnen.",
+      "factsAdvanced": [
+        "Beherbergt den Jikjisa-Tempel (gegründet im 5. Jahrhundert).",
+        "Wichtiger Halt für den Hochgeschwindigkeitszug KTX.",
+        "Bekannt für erstklassige Sporteinrichtungen (Gimcheon Sports Town).",
+        "Führendes Zentrum für die Verteilung von Agrarprodukten.",
+        "Sitz der Gyeongbuk Innovation City mit vielen Behörden.",
+        "Berühmt für die Produktion von hochwertigen Pflaumen und Trauben.",
+        "Liegt malerisch zwischen den Bergen Hwangaksan und Geumosan.",
+        "Historisch wichtiger Punkt an der Yeongnam-Straße."
+      ]
+    },
+    {
+      "id": "chungju-city-cities-v2",
+      "descriptionAdvanced": "Chungju, im Zentrum der koreanischen Halbinsel gelegen, ist eine Stadt, die eng mit Wasser und Kampfkunst verbunden ist. Sie liegt am Ufer des Namhan-Flusses und beherbergt den Chungju-See, den größten künstlichen See Koreas, der als beliebtes Erholungsgebiet für Bootsfahrten und Wassersport dient. International bekannt ist Chungju als Heimat der UNESCO-anerkannten Kampfkunst Taekkyeon und als Austragungsort des jährlichen Welt-Kampfkunst-Festivals. Die Stadt hat eine lange Geschichte in der Eisenverarbeitung, was sie in der Vergangenheit strategisch wertvoll machte. Heute ist Chungju auch für seine qualitativ hochwertigen Äpfel berühmt, die von den idealen klimatischen Bedingungen der Region profitieren. Besucher schätzen die Kombination aus entspannter Natur am See, historischen Stätten wie der siebenstöckigen Pagode von Jungangtap und den lebendigen kulturellen Traditionen der Stadt.",
+      "factsAdvanced": [
+        "Heimat des Chungju-Sees, Koreas größtem Stausee.",
+        "Zentrum für Taekkyeon, eine traditionelle Kampfkunst.",
+        "Gastgeber des jährlichen Welt-Kampfkunst-Festivals.",
+        "Bekannt für die besten Äpfel in Südkorea.",
+        "Jungangtap-Park markiert das geografische Zentrum Koreas.",
+        "Historisch bedeutendes Zentrum der Eisen- und Stahlproduktion.",
+        "Austragungsort der Ruder-Weltmeisterschaften 2013.",
+        "Beherbergt die heißen Quellen von Suanbo."
+      ]
+    },
+    {
+      "id": "yangsan-city-cities-v2",
+      "descriptionAdvanced": "Yangsan ist eine dynamisch wachsende Stadt im Südosten Koreas, die strategisch günstig zwischen den Metropolen Busan und Ulsan liegt. Diese Lage hat Yangsan zu einem attraktiven Wohnort für Pendler und zu einem wichtigen Industriestandort gemacht. Das kulturelle Herz der Stadt ist der Tongdosa-Tempel, einer der drei Juwelen-Tempel Koreas und ein UNESCO-Weltkulturerbe. Er ist einzigartig, da er keine Buddha-Statuen im Hauptgebäude beherbergt, sondern Reliquien des historischen Buddha bewahrt. Für Naturliebhaber bietet Yangsan wunderschöne Landschaften wie das Naewonsa-Tal und den Berg Cheonseongsan, der für seine spektakulären Sonnenaufgänge bekannt ist. Die Stadt verbindet moderne Infrastruktur, wie die Anbindung an das Metrosystem von Busan, mit einer tiefen Verbundenheit zu ihrer tausendjährigen buddhistischen Geschichte.",
+      "factsAdvanced": [
+        "Beherbergt den UNESCO-Weltkulturerbe-Tempel Tongdosa.",
+        "Wichtige Satellitenstadt im Großraum Busan.",
+        "Bekannt für das Naewonsa-Tal mit klarem Bergwasser.",
+        "Der Yangsan Tower bietet Blick über die Industrieregion.",
+        "Eden Valley Resort ist das südlichste Skigebiet Koreas.",
+        "Direkte Anbindung an die Busan Metro Linie 2.",
+        "Sitz von Automobilzulieferern und Logistikunternehmen.",
+        "Berühmt für das Pflaumenblütenfest in Wondong im Frühjahr."
+      ]
+    },
+    {
+      "id": "seosan-city-cities-v2",
+      "descriptionAdvanced": "Seosan ist eine facettenreiche Stadt an der Westküste Koreas, die für ihre reiche Geschichte aus dem Baekje-Königreich and ihre moderne industrielle Stärke bekannt ist. Das berühmteste kulturelle Erbe ist die in den Fels gemeißelte Buddha-Triade von Seosan, die für ihr sanftes Lächeln bekannt ist und als Lächeln von Baekje bezeichnet wird. Historisch Interessierte besuchen zudem die gut erhaltene Festung Haemieupseong, ein wichtiges Denkmal der Joseon-Zeit. Auf der industriellen Seite beherbergt Seosan mit dem Daesan-Komplex einen der größten petrochemischen Standorte des Landes. Die Stadt ist zudem für ihre Landwirtschaft und Fischerei berühmt, insbesondere für Knoblauch und Austern. Naturliebhaber schätzen das Seosan Birdland im Cheonsuman-Bucht-Gebiet, das als einer der wichtigsten Rastplätze für Zugvögel in Asien gilt.",
+      "factsAdvanced": [
+        "Heimat des Felsen-Buddha-Triade (Nationalschatz Nr. 84).",
+        "Beherbergt die gut erhaltene Festung Haemieupseong.",
+        "Standort des riesigen Daesan-Petrochemie-Komplexes.",
+        "Cheonsuman-Bucht ist ein bedeutendes Vogelzug-Gebiet.",
+        "Bekannt für hochwertigen Seosan-Knoblauch und Ingwer.",
+        "Gan-wor-am ist ein Tempel, der bei Flut zur Insel wird.",
+        "Wichtiger Produzent von gesalzenen Austern (Eoriguljeot).",
+        "Fokus auf die Entwicklung zum maritimen Logistikzentrum."
+      ]
+    },
+    {
+      "id": "dangjin-city-cities-v2",
+      "descriptionAdvanced": "Dangjin ist eine aufstrebende Industrie- und Hafenstadt an der Westküste Koreas, die sich in den letzten Jahrzehnten zu einem Zentrum der Stahlindustrie entwickelt hat. Große Unternehmen wie Hyundai Steel prägen das wirtschaftliche Bild der Stadt und machen sie zu einem Motor für den Export. Doch Dangjin bietet weit mehr als nur Industrie: Die Stadt ist ein bedeutendes Zentrum des koreanischen Katholizismus. Der Solmoe-Schrein ist der Geburtsort von Andreas Kim Taegon, dem ersten koreanischen Priester, und war Ziel eines Besuchs von Papst Franziskus im Jahr 2014. Landschaftlich reizvoll ist die Lage am Gelben Meer mit Orten wie dem Waemok-Dorf, das einzigartig ist, da man dort aufgrund der speziellen Topografie sowohl den Sonnenaufgang als auch den Sonnenuntergang über dem Meer beobachten kann. Dangjin verbindet somit moderne Schwerindustrie mit tiefer religiöser Geschichte und maritimer Schönheit.",
+      "factsAdvanced": [
+        "Wichtiger Standort der koreanischen Stahlindustrie (Hyundai Steel).",
+        "Geburtsort des ersten koreanischen Priesters Kim Taegon.",
+        "Waemok-Dorf bietet Sonnenaufgang und -untergang über dem Meer.",
+        "Die Seohae-Brücke ist ein beeindruckendes Architekturmerkmal.",
+        "Sapgyoho-Touristenpark bietet ein maritimes Erlebnismuseum.",
+        "Bekannt für den Dangjin Haenaru Premium-Reis.",
+        "Traditionelles Gijisi-Tauzieh-Festival ist UNESCO-Kulturerbe.",
+        "Rasanter Ausbau des Hafens von Dangjin als Logistik-Hub."
+      ]
+    },
+    {
+      "id": "jecheon-city-cities-v2",
+      "descriptionAdvanced": "Jecheon, oft als Heilende Stadt bezeichnet, liegt eingebettet in die malerische Berg- und Seenlandschaft der Provinz Chungcheongbuk-do. Die Stadt ist berühmt für den Cheongpung-See (auch Chungju-See genannt), an dessen Ufern das Cheongpung Cultural Heritage Complex historische Gebäude bewahrt, die vor der Überflutung durch den Staudammbau gerettet wurden. Ein technisches Highlight ist die Seilbahn über den See, die einen spektakulären Blick auf die umliegenden Gipfel bietet. Jecheon ist zudem das Zentrum der koreanischen Kräutermedizin; der Markt für Heilkräuter ist einer der größten des Landes. Jährlich zieht das Jecheon International Music & Film Festival Besucher an, das die Verbindung von Filmkunst und Musik in der Natur feiert. Auch historische Schätze wie der Uirimji-Stausee, einer der ältesten Bewässerungsteiche Koreas aus der Samhan-Zeit, machen Jecheon zu einem Ziel, das Gesundheit, Kultur und Natur perfekt vereint.",
+      "factsAdvanced": [
+        "Zentrum der koreanischen Kräutermedizin (Yakcho).",
+        "Beherbergt den antiken Uirimji-Stausee.",
+        "Austragungsort des Jecheon International Music & Film Festival.",
+        "Cheongpung Lake Monorail bietet Panorama-Aussichten.",
+        "Sitz des Cheongpung Cultural Heritage Complex.",
+        "Bekannt als eine der saubersten Städte Koreas.",
+        "Beliebtes Ziel für Wellness- und Heilungstourismus.",
+        "Umfasst Teile des Woraksan-Nationalparks."
+      ]
+    },
+    {
+      "id": "naju-city-cities-v2",
+      "descriptionAdvanced": "Naju ist eine Stadt mit einer über tausendjährigen Geschichte, die einst das administrative und wirtschaftliche Zentrum der Region Jeolla war – so leitet sich der Name Jeolla direkt aus den Namen der Städte Jeonju und Naju ab. Heute ist Naju ein faszinierendes Beispiel für die Verbindung von Tradition und Moderne. Während das Stadtzentrum historische Tore wie das Geumseonggwan und Überreste der alten Stadtmauer bewahrt, ist in der Nähe die hochmoderne Bitgaram Innovation City entstanden, in der große staatliche Unternehmen wie die Korea Electric Power Corporation (KEPCO) ihren Sitz haben. In Korea ist Naju zudem untrennbar mit der Naju-Birne verbunden, die für ihre Größe und Süße landesweit als die beste gilt. Die Stadt liegt fruchtbar am Yeongsan-Fluss, der seit jeher die Lebensader für die Landwirtschaft und den Handel der Region darstellt.",
+      "factsAdvanced": [
+        "Historische Hauptstadt der Region Süd-Jeolla.",
+        "Berühmt für Naju-Birnen (nationale Spezialität).",
+        "Sitz der Korea Electric Power Corporation (KEPCO).",
+        "Geumseonggwan war ein wichtiges Gästehaus für Beamte.",
+        "Naju Innovation City ist ein Zentrum für Energietechnologie.",
+        "Berühmt für das Gericht Naju Gomtang (Rindersuppe).",
+        "Historischer Drehort für viele Filme (Naju Image Theme Park).",
+        "Wichtiger Hafen am Yeongsan-Fluss in der Antike."
+      ]
+    },
+    {
+      "id": "gwangyang-city-cities-v2",
+      "descriptionAdvanced": "Gwangyang ist eine bedeutende Industriestadt im Süden Koreas, die für ihr gewaltiges Stahlwerk und ihren modernen Seehafen bekannt ist. Das POSCO Gwangyang Steel Works ist eines der größten und produktivsten Stahlwerke der Welt und bildet das wirtschaftliche Rückgrat der Region. Der Hafen von Gwangyang ist ein zentraler Knotenpunkt im globalen Containerverkehr und trägt maßgeblich zur Exportstärke Südkoreas bei. Trotz der industriellen Dominanz hat Gwangyang eine sehr feine, kulturelle Seite: Die Stadt ist berühmt für das jährliche Maehwa-Festival (Pflaumenblüten), das den Frühling einläutet, wenn Millionen von weißen Blüten die Hänge des Berges Baegunsan bedecken. Zudem ist Gwangyang bekannt für sein Bulgogi, das hier auf eine spezielle traditionelle Weise über Holzkohle gegrillt wird. Die Stadt bietet somit eine interessante Kombination aus industrieller Gigantomanie und zarter Naturromantik.",
+      "factsAdvanced": [
+        "Beherbergt das größte Stahlwerk der Welt (POSCO).",
+        "Wichtiger internationaler Containerhafen.",
+        "Berühmt für das Gwangyang Maehwa (Pflaumenblüten) Festival.",
+        "Gwangyang Bulgogi ist eine landesweit geschätzte Spezialität.",
+        "Die Yi Sun-sin-Brücke verbindet Gwangyang mit Yeosu.",
+        "Der Berg Baegunsan bietet reiche ökologische Vielfalt.",
+        "Fokus auf die Entwicklung zur Smart Port Logistikstadt.",
+        "Standort eines bedeutenden Aluminium-Recyclingzentrums."
+      ]
+    },
+    {
+      "id": "mungyeong-city-cities-v2",
+      "descriptionAdvanced": "Mungyeong ist eine Stadt voller historischer Bedeutung und natürlicher Schönheit, die im Herzen der Sobaek-Gebirgskette liegt. Berühmt ist sie vor allem für den Mungyeong Saejae, einen historischen Gebirgspass, der während der Joseon-Dynastie die wichtigste Verbindung zwischen Seoul und der südöstlichen Region Yeongnam war. Gelehrte, Händler und Beamte überquerten diesen Pass, der heute ein wunderschöner Naturpark mit drei originalen Festungstoren ist. Aufgrund seiner authentischen Atmosphäre ist der Mungyeong Saejae Open Film Set ein beliebter Drehort für koreanische Historiendramen. Mungyeong hat auch eine starke Tradition im Bergbau, was heute im Kohlebergbaumuseum erlebbar ist, und ist berühmt für seine qualitativ hochwertige Keramik, insbesondere Teeschalen. Die Stadt bietet zudem spannende Outdoor-Aktivitäten wie Schienenfahrradfahren durch malerische Täler und Paragliding von den umliegenden Berggipfeln.",
+      "factsAdvanced": [
+        "Historischer Saejae-Pass war die wichtigste Verkehrsader.",
+        "Herausragender Drehort für historische Filme und Serien.",
+        "Berühmt für das jährliche traditionelle Teeschalen-Festival.",
+        "Beherbergt das Mungyeong Coal Museum.",
+        "Bekannt für den Anbau von Omija (Fünf-Geschmacks-Beere).",
+        "Beliebt für Schienenfahrrad-Touren (Rail Bike).",
+        "Sitz des Korea National Sports Training Center.",
+        "Bietet erstklassige Bedingungen für das Paragliding."
+      ]
+    },
+    {
+      "id": "hanam-city-cities-v2",
+      "descriptionAdvanced": "Hanam ist eine prosperierende Stadt direkt östlich von Seoul, die sich in den letzten Jahren rasant von einer landwirtschaftlichen Gemeinde zu einem der begehrtesten Wohnorte in der Metropolregion entwickelt hat. Die Stadt profitiert von ihrer idyllischen Lage zwischen dem Han-Fluss und dem Berg Geomdansan. Ein großer Anziehungspunkt ist Starfield Hanam, eines der größten und modernsten Einkaufs- und Freizeitzentren Südkoreas, das Besucher aus dem ganzen Land anlockt. Historisch gesehen hat Hanam eine tiefe Bedeutung als einer der vermuteten Standorte der ersten Hauptstadt des Baekje-Königreichs, was durch Funde in der Festung Iseongsanseong untermauert wird. Hanam bietet eine hohe Lebensqualität mit weitläufigen Parks, modernen Wohnanlagen und einer hervorragenden Anbindung an das Verkehrsnetz von Seoul, während es gleichzeitig den Zugang zu Bergen und Flüssen für Outdoor-Aktivitäten bewahrt.",
+      "factsAdvanced": [
+        "Standort von Starfield Hanam, einer riesigen Shopping-Mall.",
+        "Vermutete frühe Hauptstadt des Baekje-Königreichs.",
+        "Der Berg Geomdansan bietet Wanderwege mit Han-Fluss-Blick.",
+        "Der Misa-See-Park ist ein beliebtes Naherholungsgebiet.",
+        "Rasanter Ausbau moderner Wohnviertel (Misa New Town).",
+        "Besitzt eine internationale Regattastrecke für Rudersport.",
+        "Hanam Union Park bietet einen Aussichtsturm auf einem Müllkraftwerk.",
+        "Direkt an die Seouler Metro-Linie 5 angebunden."
+      ]
+    }
+  ]
+}

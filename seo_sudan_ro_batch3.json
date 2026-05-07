@@ -1,0 +1,360 @@
+{
+  "lang": "ro",
+  "country": "sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kurmuk-cities-v2",
+      "descriptionAdvanced": "Kurmuk este un oraș de graniță strategic situat în statul Nilul Albastru, chiar la frontiera cu Etiopia. Orașul are o istorie lungă ca punct comercial și militar, fiind adesea un punct focal în conflictele regionale datorită poziției sale geografice izolate, dar cruciale. Kurmuk servește ca principal punct de intrare pentru comerțul transfrontalier cu regiunile vestice ale Etiopiei, facilitând schimbul de produse agricole și bunuri de consum. Regiunea înconjurătoare este muntoasă și acoperită de păduri, oferind un peisaj spectaculos care contrastează cu câmpiile centrale ale Sudanului. Geografie K8 — Zone de frontieră și relații internaționale.",
+      "factsAdvanced": [
+        "Situat direct pe linia de demarcație cu Etiopia.",
+        "Un punct comercial istoric pentru rutele spre Addis Abeba.",
+        "Centru administrativ pentru o regiune muntoasă bogată în resurse.",
+        "Orașul a fost un teatru de operațiuni militare semnificative.",
+        "Punct de tranzit vital pentru refugiați și asistență umanitară.",
+        "Renumit pentru diversitatea etnică și lingvistică a locuitorilor săi.",
+        "Economia locală depinde de piața transfrontalieră săptămânală.",
+        "Accesul rutier este dificil în timpul sezonului ploios intens."
+      ]
+    },
+    {
+      "id": "bau-cities-v2",
+      "descriptionAdvanced": "Bau este un oraș situat în Munții Ingessana din statul Nilul Albastru, fiind centrul cultural și administrativ al poporului Ingessana. Orașul este situat într-o regiune bogată în minerale, în special cromit, și este renumit pentru peisajul său deluros spectaculos. Bau păstrează tradiții culturale unice, inclusiv arhitectura specifică a locuințelor rotunde de piatră și festivalurile de recoltă. Ca punct focal al dezvoltării în sud-estul Sudanului, Bau joacă un rol important în integrarea comunităților montane în economia națională, beneficiind în același timp de resursele naturale vaste ale munților din jur. Geografie K7 — Cultura comunităților montane și resurse minerale.",
+      "factsAdvanced": [
+        "Centrul administrativ al regiunii Munților Ingessana.",
+        "Renumit pentru zăcămintele de cromit din apropiere.",
+        "Găzduiește tradiții culturale unice ale poporului Ingessana.",
+        "Situat la o altitudine care oferă priveliști panoramice spectaculoase.",
+        "Arhitectura locală folosește piatra naturală în mod creativ.",
+        "Un punct de referință pentru studiile etnografice din Sudan.",
+        "Zona are un potențial mare pentru turismul de aventură.",
+        "Important centru pentru comerțul cu produse forestiere și animale."
+      ]
+    },
+    {
+      "id": "ad-dindar-cities-v2",
+      "descriptionAdvanced": "Ad-Dindar este un oraș pitoresc situat pe malul râului Dindar, servind ca poartă principală de intrare către Parcul Național Dindar, una dintre cele mai mari rezervații de viață sălbatică din Africa. Orașul este un centru pentru ecoturism și conservare, atrăgând vizitatori dornici să exploreze biodiversitatea bogată a regiunii. Pe lângă rolul său turistic, Ad-Dindar este un centru agricol prosper, unde se cultivă sorg și susan în solurile fertile depuse de inundațiile anuale ale râului. Orașul reprezintă un echilibru între dezvoltarea umană și protejarea mediului natural unic al Sudanului. Geografie K8 — Conservarea naturii și ecoturism.",
+      "factsAdvanced": [
+        "Poarta oficială de acces către Parcul Național Dindar.",
+        "Situat pe malul râului sezonier Dindar, afluent al Nilului Albastru.",
+        "Centru major pentru logistica proiectelor de conservare.",
+        "Economia locală beneficiază de pe urma turiștilor internaționali.",
+        "Regiunea înconjurătoare este bogată în păduri de salcâmi.",
+        "Nod comercial pentru produsele agricole organice din zonă.",
+        "Găzduiește sediul administrativ al autorității parcului.",
+        "Un punct crucial pentru educația de mediu a comunităților locale."
+      ]
+    },
+    {
+      "id": "maiurno-cities-v2",
+      "descriptionAdvanced": "Maiurno este un oraș cu o istorie fascinantă situat la sud de Sennar, pe malul Nilului Albastru, fiind fondat de descendenții imperiului Sokoto din Nigeria. Orașul este un centru cultural și religios unic, păstrând tradiții vest-africane în inima Sudanului, fiind sediul dinastiei Maiurno. Locuitorii sunt renumiți pentru abilitățile lor în agricultură și meșteșuguri, transformând zona într-o oază de productivitate. Maiurno servește ca un pod cultural între Africa de Vest și Valea Nilului, fiind un exemplu remarcabil de migrație istorică și integrare reușită în societatea sudaneză. Istorie K8 — Migrații trans-africane și sultanate.",
+      "factsAdvanced": [
+        "Fondat de Sultanul Muhammadu Attahiru II din imperiul Sokoto.",
+        "Păstrează legături culturale strânse cu nordul Nigeriei.",
+        "Centru major pentru educația islamică tradițională.",
+        "Renumit pentru tehnicile avansate de agricultură irigată.",
+        "Situat strategic pe malul vestic al Nilului Albastru.",
+        "Găzduiește un palat sultanat care este un reper istoric.",
+        "Un centru vibrant pentru meșteșugurile tradiționale africane.",
+        "Punct de pelerinaj pentru membrii comunității Fellata."
+      ]
+    },
+    {
+      "id": "tambul-cities-v2",
+      "descriptionAdvanced": "Tambul este faimos în tot Sudanul pentru piața sa imensă de animale, considerată una dintre cele mai mari și mai active din estul Africii. Orașul, situat în statul Gezira, devine în fiecare sâmbătă centrul universului comercial pastoral, unde mii de cămile, vite și oi sunt tranzacționate. Tambul servește ca un punct de întâlnire crucial pentru triburile de păstori din Butana și comercianții care exportă animale către țările arabe. Dinamicul oraș este un motor economic pentru regiune, generând venituri masive și susținând o rețea complexă de servicii logistice și veterinare. Economie K8 — Piețe de animale și comerț regional.",
+      "factsAdvanced": [
+        "Găzduiește cea mai mare piață de cămile din estul Sudanului.",
+        "Situat în regiunea Butana, renumită pentru creșterea animalelor.",
+        "Un punct cheie pentru exportul de animale vii către statele Golfului.",
+        "Piața de sâmbătă atrage comercianți din toate colțurile țării.",
+        "Centru major pentru medicina veterinară și servicii pastorale.",
+        "Regiunea este cunoscută pentru o rasă superioară de cămile de curse.",
+        "Orașul este un nod rutier strategic pe drumul spre Kassala.",
+        "Contribuie semnificativ la PIB-ul agricol al Sudanului."
+      ]
+    },
+    {
+      "id": "rufaa-cities-v2",
+      "descriptionAdvanced": "Rufaa este un oraș istoric și un centru educațional de prestigiu situat pe malul estic al Nilului Albastru, în statul Gezira. Orașul este renumit pentru că a găzduit prima școală de fete din Sudan, fondată de vizionarul Babiker Badri, marcând începutul educației feminine moderne în țară. Rufaa păstrează o atmosferă intelectuală și conservatoare, fiind casa multor familii de vază ale Sudanului. Din punct de vedere economic, este un centru agricol prosper și un punct comercial important pentru regiunea Butana, legând comunitățile de pe malul estic al Nilului de restul țării. Istorie K8 — Pionieratul în educația feminină.",
+      "factsAdvanced": [
+        "Locul unde a început educația modernă a femeilor în Sudan.",
+        "Sediul istoric al familiei de educatori Babiker Badri.",
+        "Situat pe malul estic al Nilului Albastru, vizavi de Al-Hasaheisa.",
+        "Nod comercial major pentru triburile din regiunea Butana.",
+        "Găzduiește numeroase clădiri istorice din perioada colonială.",
+        "Renumit pentru calitatea instituțiilor sale de învățământ.",
+        "Centru agricol axat pe producția de legume și cereale.",
+        "Accesibil prin poduri care îl leagă de autostrada principală."
+      ]
+    },
+    {
+      "id": "al-kamlin-cities-v2",
+      "descriptionAdvanced": "Al-Kamlin este un oraș istoric situat pe malul vestic al Nilului Albastru, fiind unul dintre punctele administrative timpurii ale Sudanului central. Orașul este renumit pentru grădinile sale de pomi fructiferi și pentru solurile sale aluvionare extrem de fertile, care au susținut agricultura de secole. Al-Kamlin a fost în trecut un centru industrial pionier, găzduind unele dintre primele fabrici de zahăr și indigo din țară în secolul al XIX-lea. Astăzi, orașul servește ca un punct de oprire important pe ruta dintre Khartoum și Wad Madani, păstrând o atmosferă liniștită și o moștenire culturală bogată. Geografie K7 — Istoria agriculturii și a industriei timpurii.",
+      "factsAdvanced": [
+        "Unul dintre cele mai vechi centre administrative de pe Nilul Albastru.",
+        "A găzduit primele experimente industriale din Sudan (zahăr și indigo).",
+        "Renumit pentru producția de lămâi și fructe tropicale.",
+        "Situat strategic pe autostrada principală Khartoum-Wad Madani.",
+        "Centru de educație tradițională cu numeroase 'khalwas'.",
+        "Păstrează arhitectura tradițională a văii Nilului.",
+        "Un punct important pentru pescuitul artizanal pe râu.",
+        "Orașul a fost un centru logistic major în perioada otomană."
+      ]
+    },
+    {
+      "id": "al-faw-cities-v2",
+      "descriptionAdvanced": "Al-Faw este un oraș modern și un centru agricol vital situat în statul Al-Qadarif, fiind sediul Proiectului Rahad, unul dintre cele mai mari sisteme de irigații din Sudan. Orașul a fost planificat pentru a gestiona logistica acestui vast proiect care transformă savana în terenuri productive de bumbac, arahide și legume. Al-Faw este un exemplu de inginerie hidrologică, utilizând apele Nilului Albastru aduse prin canale lungi de zeci de kilometri. Ca nod de transport, orașul leagă estul țării de porturile de la Marea Roșie, jucând un rol strategic în exporturile agricole naționale. Geografie K8 — Proiecte masive de irigații și transformarea peisajului.",
+      "factsAdvanced": [
+        "Sediul administrativ al Proiectului Agricol Rahad.",
+        "Un oraș planificat, construit special pentru managementul irigațiilor.",
+        "Punct de joncțiune pe autostrada care leagă Khartoum de Port Sudan.",
+        "Utilizează un sistem complex de canale pentru irigații.",
+        "Principal producător de bumbac și semințe de floarea-soarelui.",
+        "Nod logistic pentru depozitarea și transportul cerealelor.",
+        "Regiunea a fost transformată din savană aridă în zonă agricolă.",
+        "Găzduiește facilități moderne de cercetare în agronomie."
+      ]
+    },
+    {
+      "id": "doka-cities-v2",
+      "descriptionAdvanced": "Doka este un oraș situat în estul Sudanului, în statul Al-Qadarif, în apropierea graniței cu Etiopia. Orașul este situat într-o regiune caracterizată prin soluri negre fertile, fiind un centru pentru agricultura mecanizată de sorg și susan. Doka servește ca un punct administrativ și comercial esențial pentru comunitățile rurale de la frontieră, fiind un loc de întâlnire pentru diferite grupuri etnice. Peisajul din jurul orașului este dominat de câmpii întinse care devin un ocean verde în timpul sezonului ploios, reflectând importanța zonei pentru securitatea alimentară a Sudanului. Geografie K7 — Agricultură mecanizată în zonele de frontieră.",
+      "factsAdvanced": [
+        "Nod administrativ local în apropierea frontierei etiopiene.",
+        "Centru pentru colectarea sorgului în estul Sudanului.",
+        "Situat pe ruta rutieră care leagă Al-Qadarif de punctele de graniță.",
+        "Economia se bazează pe agricultura pe scară largă.",
+        "Un punct important de tranzit pentru muncitorii sezonieri.",
+        "Regiunea este renumită pentru calitatea mierii de albine.",
+        "Doka joacă un rol în comerțul transfrontalier legal de cereale.",
+        "Orașul este înconjurat de dealuri joase și wadi-uri sezoniere."
+      ]
+    },
+    {
+      "id": "aroma-cities-v2",
+      "descriptionAdvanced": "Aroma este un oraș situat în statul Kassala, în inima deltei râului Gash, fiind centrul administrativ al Proiectului Gash. Orașul este faimos pentru cultivarea bumbacului de tip 'Sakel' și a semințelor de ricin în pământurile inundate periodic de apele râului Gash, care coboară din munții Etiopiei. Aroma este un oraș vital pentru poporul Hadendowa din etnia Beja, fiind un centru al vieții lor sociale și comerciale. Arhitectura și atmosfera orașului reflectă adaptarea la mediul de deltă aridă, unde apa este resursa cea mai prețioasă și factorul determinant al ritmului vieții. Geografie K7 — Agricultură de deltă în zone aride.",
+      "factsAdvanced": [
+        "Capitala administrativă a Proiectului Agricol Gash.",
+        "Centru cultural major pentru tribul Hadendowa (Beja).",
+        "Renumită pentru bumbacul de calitate superioară produs aici.",
+        "Situată în delta internă a râului sezonier Gash.",
+        "Orașul este un nod pe linia feroviară istorică a Estului.",
+        "Punct de colectare pentru guma arabică din câmpiile învecinate.",
+        "Economia orașului depinde de fluxul anual al râului Gash.",
+        "Găzduiește piețe tradiționale de animale și artizanat Beja."
+      ]
+    },
+    {
+      "id": "haya-cities-v2",
+      "descriptionAdvanced": "Haya este un nod feroviar și rutier de o importanță critică în estul Sudanului, situat în statul Marea Roșie. Orașul este punctul de joncțiune unde calea ferată de la Port Sudan se desparte spre Khartoum și spre Kassala, făcându-l un centru logistic esențial pentru transportul de marfă și pasageri. Haya este situată într-o zonă deșertică aridă, dar servește ca un punct de realimentare și odihnă vital pentru camioanele care traversează deșertul spre port. Ca centru administrativ local, Haya facilitează comerțul și serviciile pentru triburile nomade care trăiesc în munții din apropiere. Economie K8 — Noduri logistice și transportul în deșert.",
+      "factsAdvanced": [
+        "Punct strategic de joncțiune feroviară în estul Sudanului.",
+        "Nod rutier major pe autostrada Port Sudan - Khartoum.",
+        "Situată în deșertul Nubian, la baza Munților Mării Roșii.",
+        "Centru de servicii vital pentru transportul greu de marfă.",
+        "Punct de colectare pentru animalele din regiunea Kassala.",
+        "Dispune de facilități de depozitare a combustibilului.",
+        "Economia orașului este axată aproape exclusiv pe tranzit.",
+        "Un punct de referință istoric pe rutele caravanelor spre Suakin."
+      ]
+    },
+    {
+      "id": "sinkat-cities-v2",
+      "descriptionAdvanced": "Sinkat este un oraș situat la altitudine în Munții Mării Roșii, fiind cunoscut pentru clima sa mai blândă și pentru importanța sa istorică drept centru al rezistenței împotriva dominației coloniale. Orașul a fost un cartier general important pentru forțele mahdiste sub conducerea lui Osman Digna. Datorită locației sale montane, Sinkat servește ca o stațiune de vară locală și ca un punct de oprire pitoresc pe drumul care urcă de la Port Sudan către platoul central. Orașul este, de asemenea, un centru cultural pentru triburile Beja, păstrând tradiții vechi de secole și o mândrie locală profundă. Istorie K8 — Rezistența anticolonială și cultura Beja.",
+      "factsAdvanced": [
+        "Oraș situat în pasul montan strategic al Munților Mării Roșii.",
+        "Fost bastion al liderului mahdist Osman Digna.",
+        "Cunoscut pentru clima răcoroasă, o raritate în regiune.",
+        "Centru administrativ pentru districtele muntoase din est.",
+        "Important punct de oprire pe calea ferată Port Sudan - Khartoum.",
+        "Păstrează morminte istorice și monumente ale rezistenței.",
+        "Localitate renumită pentru piețele sale de produse montane.",
+        "Un punct focal pentru identitatea culturală a etniei Beja."
+      ]
+    },
+    {
+      "id": "karari-cities-v2",
+      "descriptionAdvanced": "Karari este un oraș cu o semnificație istorică monumentală, situat la nord de Omdurman, pe malul vestic al Nilului. Orașul a fost locul Bătăliei de la Karari (cunoscută în istoriografia occidentală ca Bătălia de la Omdurman) din 1898, care a marcat sfârșitul statului mahdist și începutul dominației anglo-egiptene. Astăzi, Karari este o suburbie în expansiune rapidă a zonei metropolitane Khartoum, găzduind baze militare importante și instituții de învățământ superior, inclusiv Universitatea Karari. Orașul îmbină amintirea trecutului eroic cu dezvoltarea urbană modernă a capitalei triple. Istorie K8 — Sfârșitul erei mahdiste și bătălii decisive.",
+      "factsAdvanced": [
+        "Locul bătăliei decisive din 2 septembrie 1898.",
+        "Adăpostește monumente dedicate luptătorilor mahdiști.",
+        "Găzduiește Universitatea Karari, de profil militar și tehnic.",
+        "Parte integrantă a aglomerației urbane Khartoum-Omdurman.",
+        "Centru strategic pentru forțele armate sudaneze.",
+        "Orașul a cunoscut o creștere demografică masivă recent.",
+        "Situat pe malul vestic al Nilului, cu zone agricole fertile.",
+        "Un punct de interes major pentru turiștii pasionați de istorie militară."
+      ]
+    },
+    {
+      "id": "jabal-awliya-cities-v2",
+      "descriptionAdvanced": "Jabal Awliya este un oraș situat la aproximativ 40 km sud de Khartoum, pe Nilul Alb, fiind faimos pentru barajul omonim construit în 1937. Barajul Jabal Awliya a fost mult timp cea mai mare structură de acest tip de pe Nilul Alb, având un rol crucial în reglarea fluxului de apă către Egipt și în susținerea agriculturii locale. Orașul este o destinație populară de weekend pentru locuitorii capitalei, datorită zonelor de agrement de lângă lacul de acumulare, pescuitului și peisajului spectaculos. Jabal Awliya este, de asemenea, un centru administrativ în creștere, servind ca legătură între metropolă și statele din sudul Sudanului. Geografie K8 — Managementul apelor Nilului și zone de agrement.",
+      "factsAdvanced": [
+        "Locația unui baraj istoric construit pe Nilul Alb.",
+        "Destinație principală pentru turismul de weekend din Khartoum.",
+        "Centru major pentru pescuitul comercial pe lacul de acumulare.",
+        "Nod rutier strategic pe drumul spre Kosti și Sudanul de Sud.",
+        "Barajul servește la irigarea unor vaste suprafețe agricole.",
+        "Găzduiește o bază aeriană militară importantă.",
+        "Zonă bogată în biodiversitate, în special păsări migratoare.",
+        "Orașul s-a extins rapid ca o poartă sudică a capitalei."
+      ]
+    },
+    {
+      "id": "abu-hamad-cities-v2",
+      "descriptionAdvanced": "Abu Hamad este un oraș situat în statul Râul Nil, într-un punct strategic unde fluviul face o cotitură bruscă spre sud-vest. Orașul este poarta de intrare către regiunile bogate în aur din deșertul nubian, ceea ce a dus la o creștere economică explozivă în ultimele decenii datorită mineritului artizanal. Abu Hamad este, de asemenea, un nod feroviar istoric pe ruta către Wadi Halfa, servind drept punct de plecare pentru traversarea deșertului către Marea Roșie. Deși mediul este arid, agricultura de-a lungul malurilor Nilului este productivă, furnizând fructe și legume pentru comunitățile de mineri din jur. Economie K8 — Exploatarea aurului și logistica de deșert.",
+      "factsAdvanced": [
+        "Centrul principal pentru logistica mineritului de aur în Sudan.",
+        "Situat pe marea buclă a Nilului în deșertul Nubian.",
+        "Nod feroviar vital pe linia Khartoum-Wadi Halfa.",
+        "Punct de plecare pentru rutele de traversare a deșertului spre porturi.",
+        "Piața locală este inundată de echipamente pentru prospectarea aurului.",
+        "Orașul a cunoscut o expansiune urbană neplanificată și rapidă.",
+        "Faimos pentru producția de curmale de tip oază.",
+        "Un punct focal pentru comerțul cu provizii în zonele miniere."
+      ]
+    },
+    {
+      "id": "ad-dabba-cities-v2",
+      "descriptionAdvanced": "Ad-Dabba este un oraș comercial și administrativ situat în statul de Nord, pe malul Nilului, fiind un punct de legătură istoric între valea Nilului și rutele caravanelor din deșert. Orașul servește ca un centru de colectare pentru produsele agricole ale regiunii, în special curmale și cereale, fiind totodată un punct de tranzit pe drumul care leagă Khartoum de Dongola. Ad-Dabba este renumit pentru spiritul comercial al locuitorilor săi și pentru rolul său de poartă către Wadi Howar și regiunile din nord-vest. Atmosfera orașului reflectă o fuziune între cultura nubiană și influențele nomade ale deșertului. Geografie K7 — Comerț fluvial și rute de caravană.",
+      "factsAdvanced": [
+        "Important centru comercial în regiunea de Nord a Sudanului.",
+        "Situat pe malul stâng al Nilului, la o cotitură majoră a fluviului.",
+        "Nod rutier care leagă capitala de provincia Dongola.",
+        "Centru istoric pentru comerțul cu sare și produse de deșert.",
+        "Renumit pentru plantațiile de curmali care înconjoară orașul.",
+        "Găzduiește o piață săptămânală foarte frecventată.",
+        "Orașul are o istorie lungă ca port pentru barjele de pe Nil.",
+        "Punct administrativ pentru numeroase sate nubiene."
+      ]
+    },
+    {
+      "id": "argo-cities-v2",
+      "descriptionAdvanced": "Argo este un oraș istoric situat pe o insulă mare de pe Nil, în inima regiunii nubiene din statul de Nord. Orașul este unul dintre cele mai vechi centre de civilizație din regiune, păstrând vestigii ale perioadei kwan-nubiene și fiind sediul unor puternice familii de conducători locali. Argo este renumit pentru pământul său extrem de fertil, unde se cultivă unele dintre cele mai bune curmale și cereale din Sudan. Orașul este un centru al culturii nubiene, unde limba și tradițiile străvechi sunt păstrate cu mândrie, oferind o perspectivă autentică asupra vieții în nordul Sudanului de-a lungul mileniilor. Istorie K8 — Civilizația nubiană și agricultura insulară.",
+      "factsAdvanced": [
+        "Situat pe una dintre cele mai mari insule locuite de pe Nil.",
+        "Centru istoric al regatului nubian local de la Argo.",
+        "Păstrează coloane și vestigii arheologice din epoca kushită.",
+        "Renumit pentru producția de grâu și curmale de elită.",
+        "Inima culturii și limbii nubiene (Mahas/Dongolawi).",
+        "Orașul are o arhitectură tradițională nubiană spectaculoasă.",
+        "Un punct de referință pentru studiile de istorie antică a Sudanului.",
+        "Comunitatea este cunoscută pentru sistemele sale tradiționale de irigații."
+      ]
+    },
+    {
+      "id": "kutum-cities-v2",
+      "descriptionAdvanced": "Kutum este un oraș situat în statul Darfur de Nord, într-o zonă muntoasă pitorească din nordul masivului Jebel Marra. Orașul este renumit pentru wadi-ul său fertil (Wadi Kutum), care permite o agricultură prosperă de legume și fructe într-o regiune altfel aridă. Kutum servește ca un centru comercial important pentru triburile nomade și sedentare din regiune, fiind un punct de colectare pentru animale și gumă arabică. Orașul are o importanță administrativă mare și o istorie bogată ca punct de oprire pe rutele care leagă Darfurul de Libia și deșertul Sahara. Geografie K7 — Agricultură de wadi și rute trans-sahariene.",
+      "factsAdvanced": [
+        "Centru agricol situat în nordul regiunii Darfur.",
+        "Renumit pentru fertilitatea albiei râului sezonier Wadi Kutum.",
+        "Important nod comercial pe rutele spre nord, către Libia.",
+        "Zona este un producător major de tutun și ceapă.",
+        "Găzduiește o populație diversă, incluzând grupuri Fur și Zagawa.",
+        "Situat într-o zonă muntoasă cu peisaje dramatice.",
+        "Orașul are o importanță strategică pentru stabilitatea regională.",
+        "Punct de colectare pentru guma arabică produsă în deșert."
+      ]
+    },
+    {
+      "id": "mellit-cities-v2",
+      "descriptionAdvanced": "Mellit este un oraș comercial istoric situat în statul Darfur de Nord, cunoscut sub numele de 'Poarta de Nord' a Darfurului. Orașul este situat strategic la marginea deșertului, servind drept principal punct de tranzit pentru caravanele și convoaiele care vin din Libia prin 'Drumul de Patruzeci de Zile'. Mellit este renumit pentru producția sa de sare și pentru piețele sale de animale, fiind un centru vital pentru triburile nomade din nord. Din punct de vedere administrativ, orașul joacă un rol crucial în controlul vămilor și în facilitarea comerțului trans-saharian, fiind un punct focal al schimburilor economice dintre Sudan și Maghreb. Geografie K8 — Comerț de deșert și rute istorice.",
+      "factsAdvanced": [
+        "Cunoscut drept cel mai important port de uscat din Darfurul de Nord.",
+        "Principalul punct de colectare a sării din bazinele de deșert.",
+        "Situat pe ruta istorică 'Darb el-Arba'in' (Drumul de 40 de zile).",
+        "Centru comercial major pentru camioanele care vin din Libia.",
+        "Renumit pentru piața sa de cămile și piei de animale.",
+        "Dispune de un sediu vamal istoric și important.",
+        "Orașul are o atmosferă autentică de avanpost de deșert.",
+        "Important punct de aprovizionare cu apă pentru călătorii trans-saharieni."
+      ]
+    },
+    {
+      "id": "bashayer-marine-terminal-economic-v2",
+      "descriptionAdvanced": "Terminalul Maritim Bashayer este inima economică a industriei petroliere din Sudan, fiind punctul terminal al conductei de 1.600 km care transportă țiței din bazinele din sud către Marea Roșie. Situat la sud de Port Sudan, acest terminal modern este echipat cu facilități de ultimă oră pentru încărcarea tancurilor petroliere uriașe. Bashayer reprezintă conexiunea vitală a Sudanului cu piața energetică globală, majoritatea veniturilor externe ale țării depinzând de funcționarea acestui port. Terminalul include rezervoare masive de stocare și sisteme de control complexe, fiind un obiectiv strategic de securitate națională. Economie K8 — Infrastructura petrolieră și exporturile de energie.",
+      "factsAdvanced": [
+        "Principalul punct de export pentru petrolul din Sudan și Sudanul de Sud.",
+        "Situat la aproximativ 25 km sud de Port Sudan.",
+        "Capătul conductei trans-sudaneze care vine din Heglig și Melut.",
+        "Capabil să încarce tancuri petroliere de tip VLCC.",
+        "Găzduiește facilități masive de stocare a țițeiului brut.",
+        "Unul dintre cele mai moderne terminale petroliere din Africa.",
+        "Operat de parteneriate internaționale în sectorul energetic.",
+        "Esențial pentru stabilitatea macro-economică a Sudanului."
+      ]
+    },
+    {
+      "id": "al-khair-terminal-economic-v2",
+      "descriptionAdvanced": "Terminalul Al-Khair este o facilitate specializată situată în Port Sudan, dedicată exclusiv manipulării și depozitării produselor petroliere rafinate. Acest terminal joacă un rol critic în securitatea energetică a țării, fiind punctul principal prin care Sudanul importă combustibili (benzină, motorină, gaz petrolier lichefiat) necesari pentru transport, industrie și agricultură. Al-Khair dispune de dane moderne și sisteme de pompare de mare capacitate care permit descărcarea rapidă a navelor, minimizând costurile logistice. Infrastructura sa este vitală pentru aprovizionarea neîntreruptă a capitalei și a provinciilor cu energie. Economie K8 — Importul de combustibili și logistică energetică.",
+      "factsAdvanced": [
+        "Principalul terminal de import pentru produse petroliere rafinate.",
+        "Situat în zona portuară strategică a orașului Port Sudan.",
+        "Dispune de facilități specializate pentru descărcarea GPL.",
+        "Nod critic pentru aprovizionarea cu motorină a sectorului agricol.",
+        "Capacitate mare de stocare pentru rezervele strategice ale țării.",
+        "Utilizează tehnologii moderne de monitorizare a fluxurilor de combustibil.",
+        "Conectat prin conducte la rafinăriile și depozitele interne.",
+        "Joacă un rol cheie în stabilizarea prețurilor energiei pe piața internă."
+      ]
+    },
+    {
+      "id": "prince-osman-digna-port-economic-v2",
+      "descriptionAdvanced": "Portul Prințul Osman Digna, situat în orașul istoric Suakin, este al doilea cel mai important port al Sudanului și principalul nod pentru transportul de pasageri. Portul este poarta spirituală a țării, fiind locul de îmbarcare pentru zeci de mii de pelerini care călătoresc anual către Mecca prin portul Jeddah. Pe lângă traficul de pasageri, portul gestionează volume semnificative de exporturi de animale vii (oi și cămile) către țările arabe, fiind echipat cu facilități veterinare și de carantină de mari dimensiuni. Reabilitarea acestui port a revitalizat orașul Suakin, transformându-l într-un centru economic modern care onorează numele eroului național Osman Digna. Economie K8 — Transport de pasageri și export de animale.",
+      "factsAdvanced": [
+        "Principalul terminal de pasageri și pelerini din Sudan.",
+        "Cel mai mare centru de export pentru animale vii din regiune.",
+        "Numit în onoarea legendarului lider al rezistenței, Osman Digna.",
+        "Situat în locația istorică Suakin, la sud de Port Sudan.",
+        "Dispune de un serviciu regulat de feribot către Jeddah, Arabia Saudită.",
+        "Găzduiește facilități moderne de carantină pentru animale.",
+        "Nod esențial pentru comerțul transfrontalier cu regiunea Golfului.",
+        "A contribuit la relansarea economică a statului Marea Roșie."
+      ]
+    },
+    {
+      "id": "port-sudan-south-port-economic-v2",
+      "descriptionAdvanced": "Portul de Sud (South Port) din Port Sudan este cea mai mare și mai aglomerată facilitate portuară a țării, fiind specializată în gestionarea containerelor. Acest terminal modern reprezintă legătura principală a Sudanului cu comerțul global de bunuri manufacturate, electronice și utilaje. Echipat cu macarale portic de mare capacitate și sisteme informatice de management, Portul de Sud este inima logisticii naționale, majoritatea bunurilor de consum care ajung în Khartoum trecând pe aici. Eficiența acestui port este un indicator cheie al sănătății economice a Sudanului, fiind un hub vital pentru liniile maritime internaționale care tranzitează Marea Roșie. Economie K8 — Containerizare și comerț maritim internațional.",
+      "factsAdvanced": [
+        "Principalul terminal de containere al Republicii Sudan.",
+        "Gestionează peste 70% din importurile de bunuri manufacturate.",
+        "Dotat cu infrastructură modernă de descărcare a navelor de mare tonaj.",
+        "Situat în partea sudică a portului natural din Port Sudan.",
+        "Punct de intrare pentru majoritatea ajutorului umanitar internațional.",
+        "Nod logistic esențial legat de linia feroviară și autostrada spre Khartoum.",
+        "Găzduiește birourile principale ale autorității portuare sudaneze.",
+        "Un motor major de angajare pentru populația locală."
+      ]
+    },
+    {
+      "id": "port-sudan-green-port-economic-v2",
+      "descriptionAdvanced": "Portul Verde (Green Port) este o extensie strategică a complexului Port Sudan, specializată în manipularea mărfurilor în vrac, cum ar fi cerealele, îngrășămintele și mineralele. Construit pentru a decongestiona terminalele vechi, Portul Verde dispune de dane cu adâncime mare care permit acostarea navelor cargo masive. Acest terminal este crucial pentru securitatea alimentară a Sudanului, fiind punctul prin care sunt importate cantități uriașe de grâu și prin care sunt exportate mineralele și produsele agricole în vrac. Numele său reflectă angajamentul pentru standarde moderne de mediu în manipularea mărfurilor prăfuite sau sensibile. Economie K8 — Transportul mărfurilor în vrac și securitate alimentară.",
+      "factsAdvanced": [
+        "Terminal specializat pentru cereale, minerale și mărfuri în vrac.",
+        "Dispune de cele mai adânci dane din întreg complexul portuar.",
+        "Esențial pentru importul masiv de grâu necesar consumului național.",
+        "Nod de export pentru minereurile de fier și crom extrase din interior.",
+        "Echipat cu silozuri de mare capacitate și benzi transportoare moderne.",
+        "Situat în partea nordică a complexului Port Sudan.",
+        "Permite reducerea timpului de așteptare pentru navele cargo mari.",
+        "Joacă un rol strategic în gestionarea stocurilor naționale de cereale."
+      ]
+    },
+    {
+      "id": "kosti-inland-port-economic-v2",
+      "descriptionAdvanced": "Portul Interior Kosti este cel mai important port fluvial din Sudan, situat pe malul Nilului Alb. Acesta servește ca un hub logistic vital care conectează transportul feroviar și rutier din nord cu transportul fluvial către regiunile sudice ale țării și către Sudanul de Sud. Portul este specializat în transbordarea mărfurilor grele, a combustibililor și a alimentelor pe barje care navighează pe Nilul Alb. Kosti Inland Port este un simbol al integrării transportului multimodal în Sudan, fiind esențial pentru aprovizionarea zonelor izolate și pentru menținerea fluxurilor comerciale de-a lungul întregului curs al fluviului. Economie K8 — Transport multimodal și logistică fluvială.",
+      "factsAdvanced": [
+        "Cel mai mare terminal de transbordare râu-cale ferată din Sudan.",
+        "Punctul de plecare pentru convoaiele de barje spre Sudanul de Sud.",
+        "Nod critic pentru transportul de combustibil către regiunile sudice.",
+        "Situat strategic la sud de barajul Jabal Awliya.",
+        "Găzduiește șantiere navale pentru întreținerea flotei fluviale.",
+        "Esențial pentru transportul ajutorului alimentar al ONU.",
+        "Un pilon al economiei statului Nilul Alb.",
+        "Reprezintă o verigă cheie în coridorul de transport nord-sud."
+      ]
+    }
+  ]
+}

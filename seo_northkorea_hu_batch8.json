@@ -1,0 +1,189 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "musan-plateau-relief-v2",
+      "descriptionAdvanced": "A Muszan-fennsík Észak-Hamgjong tartományban, a kínai határon fekvő hegyvidéki magaslat. Geológiailag a Kema-fennsík északkeleti meghosszabbítása, amely átlagosan 1200 méter tengerszint feletti magasságban terül el. A terület a kíméletlenül hideg, szubarktikus éghajlatáról ismert, ahol a rövid nyarak és a hosszú, fagyos telek dominálnak. A fennsík leginkább a hatalmas, nyíltszíni Muszan vasércbányáról ismert, amely a világ egyik legnagyobbja, és gyökeresen megváltoztatta a terület eredeti, természetes arculatát a gigantikus teraszos fejtésekkel. A bányászaton túl a fennsíkot sűrű tűlevelű erdők borítják, amelyek a tajga ökoszisztémájához tartoznak. Plizio tanterv: Földrajz K8 — hegyvidéki bányászat, tájsebzés és szubarktikus klíma.",
+      "factsAdvanced": [
+        "A Muszan-fennsík Észak-Korea egyik leghidegebb régiója a kínai határ mentén.",
+        "Átlagos magassága 1200 méter felett van, tajga növényzettel borítva.",
+        "A fennsík alatt húzódik Ázsia legnagyobb vasérc-lelőhelye.",
+        "A nyíltszíni bányászat ('tájsebzés') műholdképekről is jól látható.",
+        "A Tumen folyó a fennsík északi peremén vágta be mély, sziklás medrét.",
+        "A zord körülmények miatt a terület mezőgazdaságilag szinte teljesen hasznosíthatatlan."
+      ]
+    },
+    {
+      "id": "okryu-valley-relief-v2",
+      "descriptionAdvanced": "Az Ogrju (Okryu) völgy egy varázslatos, kanyargós hegyi szurdok a Kumgang-hegység (Gyémánt-hegység) szívében, a keleti part közelében. A völgy arról híres, hogy a kristálytiszta, smaragdzöld hegyi patakok mély, medenceszerű vájatokat (üstöket) vájtak a kemény gránitsziklákba. A leglátványosabb pontja a Kuryong-vízesés, amely kilenc, egymáshoz kapcsolódó vízesésből áll (a legenda szerint kilenc sárkány otthona). A völgy meredek sziklafalait az őszi hónapokban lángvörös juharfák és sárga ginkgók díszítik. Bár a terület korábban a dél-koreai turisták számára is nyitott volt, ma ismét Észak-Korea egyik legszigorúbban őrzött természeti kincse. Plizio tanterv: Földrajz K6 — folyóvízi erózió, szurdokvölgyek és gránithegységek.",
+      "factsAdvanced": [
+        "A völgy a Kumgang-hegység ('Gyémánt-hegység') egyik leglátványosabb szurdoka.",
+        "Nevét ('Jáde Patak') a víz jellegzetes smaragdzöld színéről kapta.",
+        "A víz évezredek alatt kerek üstöket (medencéket) erodált a gránitba.",
+        "A Kuryong-vízesés a legenda szerint kilenc mitikus sárkány lakóhelye.",
+        "A völgy a 2000-es évek elején több százezer dél-koreai turistát fogadott.",
+        "A sziklás ösvények mellett több ősi, fába faragott buddhista szentély található."
+      ]
+    },
+    {
+      "id": "changbai-mountains-korean-side-relief-v2",
+      "descriptionAdvanced": "A Csangpaj (Changbai) vagy koreai nevén Csangbek (Jangbaek) hegység az a kiterjedt vulkanikus hegylánc, amely Észak-Korea és Kína határát alkotja. Bár a hegység legismertebb pontja a Paektu-csúcs, a vonulat sokkal kiterjedtebb: több száz kilométeren át húzódik délnyugati irányba. A hegylánc Észak-Korea 'gerincének' északi szakasza, amely hatalmas bazaltfennsíkokból, sűrű tajgából és mély kanyonokból áll. Mivel a hegység felfogja a Szibéria felől érkező fagyos szeleket, kulcsszerepet játszik az egész Koreai-félsziget éghajlatának alakításában. Az itt eredő Jalu és Tumen folyók biztosítják az északi területek vízellátását. Plizio tanterv: Földrajz K8 — hegyrendszerek klímaalakító szerepe és vulkáni láncok.",
+      "factsAdvanced": [
+        "A hegylánc (Csangbek) a Koreai-félsziget északkeleti természetes határvonala.",
+        "A vulkáni tevékenység nyomán kiterjedt bazaltfennsíkok és tufamezők jöttek létre.",
+        "A hegység pajzsként funkcionál a szibériai téli fagybetörések ellen.",
+        "Itt találhatók Észak-Korea legfontosabb megmaradt elsődleges erdőségei.",
+        "A hegyvonulat a Jalu (Amnok) és a Tumen (Tuman) folyók vízgyűjtő területe.",
+        "Rendkívül gazdag ásványkincsekben, különösen szénben és vasércben."
+      ]
+    },
+    {
+      "id": "chosan-bay-coast-relief-v2",
+      "descriptionAdvanced": "A Csoszan-öböl (Chosan Bay) partszakasza a Sárga-tenger (Nyugati-tenger) mentén terül el Észak-Korea északnyugati részén. A domborzatot itt a széles, iszapos árapálysíkságok és a tengerbe nyúló lapos félszigetek jellemzik. Mivel a Sárga-tenger sekély, a dagály és apály közötti vízszintkülönbség hatalmas. Az állam az évtizedek során gigantikus partvédelmi gátakat és poldereket (töltéseket) épített ezen a partszakaszon, hogy a sós iszapmezőket kiszárítsa és rizstermesztésre alkalmas termőfölddé alakítsa (például a Tasado-polder projekt). A természetes partszakaszok ma már ritkák, a tájat a mérnöki beavatkozás és a mezőgazdasági terjeszkedés határozza meg. Plizio tanterv: Földrajz K7 — árapály, polderizáció és tengerparti mezőgazdaság.",
+      "factsAdvanced": [
+        "A partvidéket a Sárga-tenger hatalmas, több méteres árapály-ingadozása formálja.",
+        "Apály idején a tenger kilométereket húzódik vissza, iszapmezőket hagyva hátra.",
+        "A területen hatalmas polderizációs (gátépítési) projekteket hajtottak végre.",
+        "A tengerből visszanyert földeket ('saechokji') főként rizstermesztésre használják.",
+        "A partmenti vizek fontos halászati és sólepárló területek.",
+        "A természetes partvonal drasztikusan lecsökkent az emberi beavatkozások miatt."
+      ]
+    },
+    {
+      "id": "puryong-valley-relief-v2",
+      "descriptionAdvanced": "A Purjong (Puryong) völgy Észak-Hamgjong tartomány mélyén, a Hamgjong-hegység zord gránitcsúcsai között kanyarog. Ez a V-alakú, meredek falú völgy az ország északkeleti részének egyik legnehezebben járható, yet stratégiailag fontos tranzitútvonala. A völgy alján futó patakok és folyók történelmileg vízi utat biztosítottak a hegyekből a tengerpart (Cshongdzsin) felé. A hideg, ködös mikroklímájú völgyet sűrű fenyőerdők borítják. Az 1930-as években, a japán megszállás idején a völgyben építették ki Észak-Korea egyik legkorábbi, teraszos vízerőmű-rendszerét, amely ma is üzemel, és létfontosságú az északkeleti ipari zónák energiaellátásához. Plizio tanterv: Földrajz K7 — V-alakú völgyek, erózió és hegyvidéki infrastruktúra.",
+      "factsAdvanced": [
+        "A Purjong-völgy a Hamgjong-hegységet metszi át meredek sziklafalakkal.",
+        "A V-alakú völgy a folyóvízi erózió klasszikus példája a kemény gránitkőzetben.",
+        "A völgyön keresztül halad az északkeleti bányákat a tengerparttal összekötő vasút.",
+        "Az 1930-as években japán mérnökök építettek ide egy ma is működő vízerőművet.",
+        "Télen a völgy sötét és rendkívül hideg a hegyek árnyékoló hatása miatt.",
+        "A sűrű erdőségekben számos vadon élő hegyi állat, például hiúz és gímszarvas él."
+      ]
+    },
+    {
+      "id": "taebaek-mountains-north-relief-v2",
+      "descriptionAdvanced": "A Thebek (Taebaek) hegység Észak-Korea keleti partja mentén indul, majd gerincként húzódik végig dél felé, átszelve a demilitarizált övezetet egészen Dél-Koreáig. Az északi (észak-koreai) szakasz a legmagasabb és legzordabb, amely magába foglalja a festői Kumgang (Gyémánt) hegységet is. A hegylánc aszimmetrikus domborzatú: keleti, tenger felőli lejtői rendkívül meredekek és sziklásak, míg a nyugati oldala lankásabban ereszkedik alá a belső fennsíkok felé. Ez a hegység fogja fel a Japán-tenger felől érkező csapadékos szeleket, így a keleti oldalon gyakori a heves esőzés és a tájfunok pusztítása. A meredek hegyoldalak nagyrészt gátolják a közlekedést a part és a belső területek között. Plizio tanterv: Földrajz K8 — aszimmetrikus lánchegységek és csapadékárnyék.",
+      "factsAdvanced": [
+        "A Thebek-hegység a Koreai-félsziget fő keleti gerince, átnyúlik Dél-Koreába is.",
+        "Aszimmetrikus: keleti oldala meredeken szakad a tengerbe, nyugati lankásabb.",
+        "A hegylánc északi szakaszán helyezkedik el a híres Kumgang-hegység.",
+        "A hegyek orografikus (domborzati) csapadékot okoznak a keleti lejtőkön.",
+        "Természetes falat képez, amely elválasztja a partvidéket a nyugati síkságoktól.",
+        "A meredek sziklafalak miatt a vasúti és közúti infrastruktúra kiépítése itt minimális."
+      ]
+    },
+    {
+      "id": "ryongam-cavern-relief-v2",
+      "descriptionAdvanced": "A Rjongam (Ryongam) barlang Észak-Phjongan tartomány egyik kevésbé ismert, ám annál különlegesebb földalatti karsztképződménye. A kiterjedt mészkőbarlang-rendszer több kilométer hosszú, földalatti tavakkal és monumentális cseppkőoszlopokkal büszkélkedhet. A barlang mikroklimatikus viszonyai évmilliók alatt alakították ki a sztalaktitokat és sztalagmitokat. Ahogy Észak-Koreában szokásos, a turizmus számára megnyitott barlangrészeket teátrális, színes (gyakran neon) fényekkel világítják ki, és az egyes sziklaformációkat politikai vagy mitológiai nevekkel illették. Bár kisebb, mint a híres Rjongmun barlang, a Rjongam barlang geológiai kutatások és iskolai tanulmányi kirándulások fontos helyszíne. Plizio tanterv: Földrajz K6 — karsztosodás, barlangrendszerek és cseppkőképződés.",
+      "factsAdvanced": [
+        "A Rjongam egy kiterjedt mészkőbarlang (karsztbarlang) a nyugati hegyekben.",
+        "Belsejében földalatti patakok és évezredes cseppkőoszlopok találhatók.",
+        "A cseppköveket gyakran élénk, neon színekkel világítják meg a látogatóknak.",
+        "A sziklaformációk hivatalos nevei forradalmi eseményekre vagy vezérekre utalnak.",
+        "A barlang állandó, hűvös hőmérsékletét a háború alatt raktározásra is használták.",
+        "Tudományos szempontból értékes információkat nyújt a régió geológiai múltjáról."
+      ]
+    },
+    {
+      "id": "nandai-river-valley-relief-v2",
+      "descriptionAdvanced": "A Namde (Nandai) folyó völgye Dél-Hamgjong tartományban egy széles, termékeny alluviális (hordalékos) völgy, amely a zord keleti hegyvidék és a Japán-tenger között terül el. A folyó a Hamgjong-hegységből érkezik, és hordalékával évezredek alatt feltöltötte a völgyet, létrehozva a keleti partvidék egyik ritka, mezőgazdaságilag értékes síkságát. Ez a régió a Tancshon-i bányászati övezet szomszédságában található, így az ipari szállítás (vasútvonalak) is ezen a viszonylag lapos völgyön halad keresztül. A völgy kontrasztja a meredek hegyek és a tengerparti síkság között tökéletes példája a folyami feltöltődés földrajzi erejének. Plizio tanterv: Földrajz K7 — alluviális síkságok, folyami hordalék és mezőgazdaság.",
+      "factsAdvanced": [
+        "A Namde-völgy a folyami hordalék (allúvium) által feltöltött széles síkság.",
+        "Ez a keleti part egyik legfontosabb, bár méretre kis rizstermő területe.",
+        "A völgyön keresztül halad a keleti partot és a bányákat összekötő fő vasútvonal.",
+        "A folyó a meredek Hamgjong-hegységből zúdul le, magával hozva a hordalékot.",
+        "Tavasszal a völgy gyakran küzd áradásokkal a hegyi hóolvadás miatt.",
+        "A völgy torkolatánál jelentős tengeri halászati központok alakultak ki."
+      ]
+    },
+    {
+      "id": "ongjin-peninsula-coast-relief-v2",
+      "descriptionAdvanced": "Az Ongdzsin (Ongjin) félsziget partvidéke Dél-Hvanghe tartományban, a Sárga-tengerbe (Nyugati-tenger) nyúlik mélyen bele, közel a 38. szélességi körhöz és a vitatott északi határvonalhoz (NLL). A félsziget domborzata tagolt, tele van apró öblökkel, sziklaszirtekkel és szigetekkel (Riasz-parttípus). Ez a vidék egyike a legenyhébb klímájú észak-koreai területeknek, így a parti síkságokon intenzív rizstermesztés és gyümölcstermesztés folyik. A partvidék azonban szigorúan militarizált zóna; a hegyfokokon tüzérségi ütegek és radarállomások figyelik a dél-koreai szigeteket. A tengeri árapály itt is hatalmas, ami megnehezíti a hajózást, de kedvez a tengeri algák és kagylók gyűjtésének. Plizio tanterv: Földrajz K8 — Riasz-partok, tengeri határviták és szubtrópusi mikroklíma.",
+      "factsAdvanced": [
+        "Az Ongdzsin-félsziget Riasz-típusú, erősen tagolt, öblökkel teli partvidék.",
+        "Klímajellemzői Észak-Korea legenyhébbjei közé tartoznak, ideálisak a mezőgazdaságnak.",
+        "A félsziget közvetlenül a Dél-Koreával vitatott tengeri határ (NLL) mellett fekszik.",
+        "A tengerpartot sűrűn teleszórták katonai erődítményekkel és tüzérségi állásokkal.",
+        "A part menti sekély vizek kiválóak a tengeri hínár és a kagylók tenyésztésére.",
+        "A koreai háború kitörése (1950) előtt a terület Dél-Koreához tartozott."
+      ]
+    },
+    {
+      "id": "hoechang-highlands-relief-v2",
+      "descriptionAdvanced": "A Höcshang (Hoechang) felvidék Dél-Phjongan tartomány csendes, de történelmileg és bányászatilag jelentős hegyvidéki területe Phenjantól keletre. A domborzatot 500-1000 méter magas, sűrű erdővel borított, lekerekített dombok és hegygerincek alkotják. A terület a föld alatt gazdag arany- és szénkészleteket rejt, amelyeket kiterjedt bányahálózatokon keresztül termelnek ki. A hegyvidék leginkább arról ismert, hogy a koreai háború alatt itt volt a Kínai Népi Önkéntes Hadsereg főhadiszállása. Ma itt található a Kínai Népi Önkéntesek Mártírjainak Temetője, ahol többek között Mao Ce-tung fia, Mao Anjing is nyugszik. A nehezen megközelíthető terep ideális természetes erődítményt nyújtott. Plizio tanterv: Földrajz K7 — középhegységek, aranybányászat és hadtörténeti földrajz.",
+      "factsAdvanced": [
+        "A Höcshang-felvidék középhegységi jellegű, lekerekített erdős hegyhátakból áll.",
+        "A föld alatt Észak-Korea egyik legjelentősebb arany- és szénkészlete húzódik.",
+        "A koreai háború alatt itt volt a kínai csapatok (Peng Tö-huaj) rejtett főparancsnoksága.",
+        "A hegyekben fekszik a Kínai Mártírok Temetője, Mao Ce-tung fiának sírjával.",
+        "A domborzat természetes védelmet és kiváló álcázást biztosított a légitámadások ellen.",
+        "A régió gazdasága ma szinte teljes egészében a mélyművelésű bányászatra épül."
+      ]
+    },
+    {
+      "id": "sohung-river-valley-relief-v2",
+      "descriptionAdvanced": "A Szohung (Sohung) folyó völgye Észak-Hvanghe tartomány egy nyugodt, kanyargós folyóvölgye, amely a hegyvidékről ereszkedik le a déli mezőgazdasági síkságok felé. A völgy domborzata lankás teraszokból áll, amelyeket a történelem során évszázadok alatt alakítottak ki teraszos földművelésre, alkalmazkodva a koreai domborzati kihívásokhoz. A folyó vizét gátak tartják vissza (például a Szohung-tó kialakításával), hogy biztosítsák a rizsföldek egyenletes öntözését az aszályos tavaszi hónapokban. A völgy mikroklimatikus viszonyai kiválóak a kukorica- és szójatermesztés számára is. A táj klasszikus észak-koreai agrártáj: kis falvak, földutak és intenzíven megművelt, minden talpalatnyi helyet kihasználó parcellák. Plizio tanterv: Földrajz K6 — teraszos földművelés, folyóvölgyek és agrárökológia.",
+      "factsAdvanced": [
+        "A Szohung-völgy a hegyekből a síkságok felé táguló, hordalékkal feltöltött terület.",
+        "A lejtőkön hagyományos, teraszos földművelés folyik az erózió megelőzésére.",
+        "A folyón lévő mesterséges Szohung-tó a régió fő édesvízi bázisa.",
+        "A terület Észak-Hvanghe tartomány 'éléskamrájának' egyik fontos része.",
+        "A rizsen kívül a kukorica és a szójabab a völgy fő terményei.",
+        "A völgy festői falvait gyakran ábrázolják a vidéki életet dicsőítő festményeken."
+      ]
+    },
+    {
+      "id": "korea-bay-west-coast-relief-v2",
+      "descriptionAdvanced": "A Nyugati-tenger (Sárga-tenger) vagy Koreai-öböl partvidéke Észak-Korea nyugati határát adja. A domborzat itt markánsan különbözik a keleti parttól: nincsenek meredek, tengerbe szakadó hegyek, a partvonal alacsony, lankás, és több tucat kilométer széles árapálysíkságokba vész bele. A tenger rendkívül sekély, az árapály-különbség az egyik legnagyobb a világon (eléri a 8 métert). Ez a domborzat évezredek óta meghatározza a helyiek életét: apálykor gyalog járnak az iszapban kagylót gyűjteni, dagálykor pedig kihajóznak. A sekély vizek és iszapos öblök miatt a partvidék kikötőinek (mint Nampo) mélyítése és kotrása folyamatos, emberfeletti küzdelem a természettel. Plizio tanterv: Földrajz K7 — árapálysíkságok, sekély tengerek és tengerparti domborzat.",
+      "factsAdvanced": [
+        "A nyugati partvidéket lankás síkságok és hatalmas árapály-iszapmezők (mudflat) jellemzik.",
+        "Az árapály-ingadozás akár a 8 métert is elérheti, mérföldekre visszahúzva a vizet.",
+        "Ez a partszakasz Észak-Korea legfontosabb rizstermő és mezőgazdasági zónája.",
+        "A tenger sekélysége miatt a nagy kikötők (Nampo) megközelítése zsilipekhez kötött.",
+        "Az állam évtizedek óta küzd a tenger visszahódításáért gigantikus gátrendszerekkel.",
+        "Apály idején a lakosság nagy része az iszapban gyűjt tengeri élelmet (kagyló, rák)."
+      ]
+    },
+    {
+      "id": "east-korea-bay-east-coast-relief-v2",
+      "descriptionAdvanced": "A Kelet-Koreai-öböl és a keleti partvidék (Japán-tenger) domborzata a félsziget legvadabb arculatát mutatja. A Thebek és a Hamgjong hegységek szinte függőleges gránitsziklákkal zuhannak bele a mély, sötétkék tengerbe. A partvonal viszonylag egyenes, kevésbé tagolt, és az árapály-ingadozás itt minimális (mindössze fél méter). Az öblökben tiszta, fehér homokos strandok bújnak meg a szirtek között (például Vonszan és Majon környékén). A domborzati adottságok miatt ez a partvidék kiválóan alkalmas mélyvízi kikötők, tengeralattjáró-bázisok és luxus üdülőhelyek kialakítására, de a hegyek miatt elzárt az ország belső, sűrűn lakott területeitől. Plizio tanterv: Földrajz K7 — meredek partvidékek, tengeri abrázió és mélyvízi kikötők.",
+      "factsAdvanced": [
+        "A keleti partvidéket meredek, sziklás hegyoldalak jellemzik, amelyek a tengerbe szakadnak.",
+        "A nyugati parttal ellentétben az árapály-ingadozás itt minimális (kb. 30-50 cm).",
+        "A víz gyorsan mélyül, ami kedvez a mélyvízi kikötőknek (Cshongdzsin, Vonszan).",
+        "A sziklás öblök között hosszú, tiszta vizű, finom homokos strandok találhatók.",
+        "A hegyek természetes gátat képeznek, megnehezítve az országon belüli közlekedést.",
+        "A part menti vizeket hideg tengeráramlatok hűtik, gazdag halállományt biztosítva."
+      ]
+    },
+    {
+      "id": "songchon-river-gorge-relief-v2",
+      "descriptionAdvanced": "A Szongcshon (Songchon) folyó szurdoka egy drámai, meredek sziklafalak közé szorult természeti képződmény, amely Hamhung városa felé siet a hegyekből. A vízfolyás évezredek alatt mély V-alakú völgyet vájt a Hamgjong-hegység kemény kőzeteibe. A szurdok domborzata meredek, sűrű erdővel benőtt lejtőkből és sebes zuhatagokból áll. Ez az elzárt és nehezen járható terep földrajzi védvonalat képez, ugyanakkor a sebes vizet a 20. század közepe óta apró, teraszos vízerőművek sokasága próbálja megzabolázni a hamhungi iparváros áramellátásának érdekében. Ősszel a szurdok sziklafalai káprázatos színekben pompáznak a juhar- és ginkgófák miatt. Plizio tanterv: Földrajz K6 — szurdokvölgyek, folyóvízi bevágódás és hegyi vízenergia.",
+      "factsAdvanced": [
+        "A Szongcshon-szurdok egy mély, V-alakú völgy a Hamgjong-hegység szívében.",
+        "A folyó sebes sodrású, tele van zuhatagokkal és sziklaküszöbökkel.",
+        "A szurdok meredek falai természetes védelmet és elzártságot biztosítanak.",
+        "A víz energiáját apró, lépcsőzetes gátrendszerekkel hasznosítják a helyi ipar számára.",
+        "A völgyön át vezető utak és hidak kiépítése rendkívüli mérnöki kihívás volt.",
+        "A szurdok mikroklímája hűvösebb és csapadékosabb a tengerparti síksághoz képest."
+      ]
+    },
+    {
+      "id": "pyongyang-peneplain-relief-v2",
+      "descriptionAdvanced": "A Phenjani tönkfelszín (peneplain) egy kiterjedt, enyhén hullámos, alacsony síkság a Taedong folyó alsó szakasza mentén, Észak-Korea délnyugati részén. Földrajzi értelemben ez egy lepusztult, ősi hegység maradványa, amelyet a sok millió éves erózió egy majdnem tökéletes síksággá gyalult le. Ez a domborzati adottság tette lehetővé Phenjan, a többmilliós főváros terjeszkedését, széles sugárútjainak és gigantikus tereinek kialakítását. A síkságot a folyó hordaléka rendkívül termékennyé tette, így az urbanizált részeken kívül ez az ország egyik legfontosabb éléskamrája is (gabonafélék és zöldségek). A tönkfelszín nyugodt, tágas tája éles kontrasztban áll az ország északi felének zord hegyeivel. Plizio tanterv: Földrajz K8 — tönkfelszínek kialakulása, erózió és városépítészeti földrajz.",
+      "factsAdvanced": [
+        "A Phenjani tönkfelszín egy ősi, mára teljesen lepusztult hegység geológiai maradványa.",
+        "Az alacsony, lankás domborzat tette lehetővé Phenjan széleskörű urbanizációját.",
+        "A síkságot a Taedong folyó üledéke teszi kiválóan alkalmassá a mezőgazdaságra.",
+        "Átlagos magassága a tengerszint felett csupán 20-50 méter között mozog.",
+        "Az ország lakosságának jelentős része ezen a termékeny és viszonylag sík területen él.",
+        "A tönkfelszín nyitottsága miatt a város ki van téve a tenger felől érkező viharoknak."
+      ]
+    }
+  ]
+}

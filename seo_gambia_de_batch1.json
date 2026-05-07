@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brikama-cities-v2",
+      "descriptionAdvanced": "Brikama ist eine der größten Städte Gambias und fungiert als zentraler Knotenpunkt für den Distrikt Kombo Central. Die Stadt ist weltberühmt für ihre reiche Tradition der Holzschnitzkunst, wobei Künstler und Handwerker auf dem Brikama Market ihre kunstvollen Werke anbieten. Zudem spielt Brikama eine wichtige Rolle im Bildungssektor als Heimat des Brikama College. Die musikalische Tradition, insbesondere das Spiel auf der Kora, ist tief in der lokalen Kultur verwurzelt und zieht Besucher aus der ganzen Welt an. Musik K5 — Instrumente und kulturelle Traditionen.",
+      "factsAdvanced": ["Bedeutendes Zentrum für Holzschnitzkunst.", "Sitz des Brikama College.", "Wichtiger Knotenpunkt für Kombo Central.", "Zentrum traditioneller Kora-Musik.", "Großer Markt für lokale Handwerkserzeugnisse.", "Wachsende urbane Bevölkerung.", "Verkehrsgünstige Lage im Süden."]
+    },
+    {
+      "id": "bakau-cities-v2",
+      "descriptionAdvanced": "Bakau ist eine lebhafte Küstenstadt, die für ihre harmonische Verbindung von Tourismus und lokaler Tradition bekannt ist. Zu den Höhepunkten gehört das Kachikally Krokodilbecken, das als heiliger Ort gilt und Besucher aus aller Welt anzieht. Der botanische Garten bietet eine grüne Oase und Einblicke in die tropische Flora der Region. Bakau hat sich zu einem beliebten Ferienort entwickelt, bewahrt sich aber gleichzeitig den Charakter eines traditionellen Fischerdorfes. Biologie K7 — Ökosysteme und Biodiversität in Westafrika.",
+      "factsAdvanced": ["Standort des heiligen Kachikally Krokodilbeckens.", "Heimat des Botanischen Gartens Bakau.", "Bekannt als beliebte Ferienortschaft am Atlantik.", "Stark ausgeprägte Fischereitraditionen.", "Zentrum für handwerkliches Kunsthandwerk.", "Nähe zur Hauptstadt Banjul.", "Wichtiger Ort für kulturelle Zeremonien."]
+    },
+    {
+      "id": "farafenni-cities-v2",
+      "descriptionAdvanced": "Farafenni ist eine strategisch bedeutsame Handelsstadt am Nordufer des Gambia-Flusses. Durch ihre Lage an der Trans-Gambia-Autobahn, die Gambia mit dem Senegal verbindet, spielt sie eine entscheidende Rolle im internationalen Warenverkehr. Der lokale 'Lumo'-Markt ist einer der größten und wichtigsten in der Region und bietet eine Vielzahl von Produkten aus dem gesamten Landesinneren an. Als wachsendes Handelszentrum prägt Farafenni die wirtschaftliche Entwicklung der gesamten North Bank Region nachhaltig. Wirtschaft K8 — Infrastruktur und Handel in Schwellenländern.",
+      "factsAdvanced": ["Strategische Lage an der Trans-Gambia-Autobahn.", "Zentrum der North Bank Region.", "Bekannt für den riesigen wöchentlichen Lumo-Markt.", "Wichtiger Umschlagplatz für landwirtschaftliche Produkte.", "Dynamische wirtschaftliche Entwicklung.", "Knotenpunkt für grenzüberschreitenden Verkehr.", "Wachsende städtische Infrastruktur."]
+    },
+    {
+      "id": "soma-cities-v2",
+      "descriptionAdvanced": "Soma gilt als das unverzichtbare Herzstück des Transports in der Lower River Region Gambias. Da sich hier die Wege der Trans-Gambia-Autobahn kreuzen, ist die Stadt ein Hauptanlaufpunkt für Reisende und Händler zwischen dem Norden und dem Süden des Landes. Die Stadt fungiert als Tor zur südgambischen Region und bietet zahlreiche Dienstleistungen, die für den Fernverkehr unerlässlich sind. Die dynamische Lage macht Soma zu einem der wichtigsten Knotenpunkte für den wirtschaftlichen Austausch in der Landesmitte. Geographie K7 — Verkehrsknotenpunkte und Regionalentwicklung.",
+      "factsAdvanced": ["Zentraler Knotenpunkt der Trans-Gambia-Autobahn.", "Haupttor zur südgambischen Region.", "Wichtige Anlaufstelle für Fernreisende.", "Zentrum der Lower River Region.", "Lebhafter Ort mit regem Transitverkehr.", "Wachsende Handelskapazitäten.", "Schnittstelle für den nationalen Warenverkehr."]
+    },
+    {
+      "id": "basse-santa-su-cities-v2",
+      "descriptionAdvanced": "Basse Santa Su ist die geschäftige administrative Hauptstadt der Upper River Region und der östlichste Knotenpunkt Gambias. Gelegen am Südufer des mächtigen Gambia-Flusses, dient die Stadt als zentraler Marktplatz für die östlichen Gebiete und angrenzende Regionen im Senegal und in Guinea. Aufgrund ihrer Lage hat die Stadt eine hohe Bedeutung für den Fernhandel und das lokale Handwerk. Trotz ihrer Abgeschiedenheit von der Küste ist Basse Santa Su ein pulsierendes Zentrum für die umliegende ländliche Bevölkerung. Wirtschaft K7 — Regionale Märkte und Warenströme.",
+      "factsAdvanced": ["Administratives Zentrum der Upper River Region.", "Östlichste Stadt Gambias.", "Großer Markt für regionale Erzeugnisse.", "Wichtiger Handelsplatz für den Fernhandel.", "Liegt direkt am Gambia-Fluss.", "Zentrum für lokales Handwerk.", "Starke Verbindungen zum Senegal und Guinea."]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "lang": "de",
+  "country": "colombia",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "armenia-cities-v2",
+      "descriptionAdvanced": "Armenia, die Hauptstadt des Departements Quindío, ist ein strahlendes Juwel im Herzen der kolumbianischen Kaffeezone. Die Stadt, die nach dem verheerenden Erdbeben von 1999 fast vollständig neu aufgebaut wurde, besticht heute durch moderne Architektur und eine freundliche, offene Atmosphäre. Armenia ist ein idealer Ausgangspunkt für Touren durch die Kaffeeplantagen und in das nahegelegene Cocora-Tal mit seinen riesigen Wachspalmen. Die Stadt feiert ihre Identität als 'Wunderstadt' (Ciudad Milagro) und ehrt ihre Kaffeetradition durch das jährliche 'Yipao'-Festival, bei dem historische Willys-Jeeps kunstvoll beladen werden. Das angenehme, frühlingshafte Klima und die üppige grüne Umgebung machen Armenia zu einem Muss für Naturliebhaber und Kaffeegenießer.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Quindío.",
+        "Teil der UNESCO-Weltkulturerbe Kaffee-Kulturlandschaft.",
+        "Bekannt als die 'Ciudad Milagro' (Wunderstadt).",
+        "Wichtiger Knotenpunkt für den kolumbianischen Tourismus.",
+        "Berühmt für das Yipao-Parade mit Willys-Jeeps.",
+        "Liegt auf einer Höhe von etwa 1.483 Metern.",
+        "Gegründet im Jahr 1889.",
+        "Heimat des Quimbaya-Goldmuseums."
+      ]
+    },
+    {
+      "id": "pereira-cities-v2",
+      "descriptionAdvanced": "Pereira, die größte und dynamischste Stadt der Kaffeezone, ist als die 'Stadt ohne Türen' bekannt, was die außergewöhnliche Gastfreundschaft ihrer Bewohner symbolisiert. Als Hauptstadt des Departements Risaralda ist sie ein wichtiges Handels- und Verkehrszentrum in Zentralkolumbien. Pereira beeindruckt durch das imposante Viaducto César Gaviria Trujillo, das die Stadt mit Dosquebradas verbindet, und durch moderne Projekte wie das Megacable-System. Die Stadt bietet eine perfekte Mischung aus urbanem Leben, exzellenter Gastronomie und unmittelbarem Zugang zu Naturattraktionen wie den Thermalquellen von Santa Rosa de Cabal. Ihr lebendiger Geist zeigt sich besonders während der 'Fiestas de la Cosecha' im August, wenn die Stadt ihre reiche Kultur und Ernte feiert.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Risaralda.",
+        "Größte Stadt im kolumbianischen Kaffeedreieck.",
+        "Bekannt für das Viaducto César Gaviria Trujillo.",
+        "Wichtiges Zentrum für Handel und Logistik.",
+        "Heimat des Bioparks Ukumarí.",
+        "Liegt im Tal des Flusses Otún.",
+        "Gegründet am 30. August 1863.",
+        "Besitzt das moderne Nahverkehrssystem Megabús."
+      ]
+    },
+    {
+      "id": "san-andres-cities-v2",
+      "descriptionAdvanced": "San Andrés, die größte Insel des kolumbianischen Archipels in der Karibik, ist ein Paradies, das für sein 'Meer der sieben Farben' berühmt ist. Die Stadt San Andrés, das wirtschaftliche und administrative Zentrum der Insel, versprüht ein einzigartiges afro-karibisches Flair, das durch die Raizal-Kultur, Reggae-Rhythmen und eine Architektur im Kolonialstil geprägt ist. Die Insel bietet weiße Sandstrände, kristallklares Wasser und hervorragende Möglichkeiten zum Tauchen und Schnorcheln an den Korallenriffen. San Andrés ist zudem ein Freihandelsgebiet, was sie zu einem beliebten Ziel für Shopping-Begeisterte macht. Trotz ihrer Beliebtheit bewahrt die Stadt ihre entspannte Inselseele, während die Meeresbrise und die Kokospalmen eine Atmosphäre von ewigem Sommer schaffen.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements San Andrés, Providencia und Santa Catalina.",
+        "Liegt etwa 700 Kilometer nördlich des kolumbianischen Festlands.",
+        "Bekannt für das 'Meer der sieben Farben' (Mar de los Siete Colores).",
+        "Teil des UNESCO-Biosphärenreservats Seaflower.",
+        "Zentrum der indigenen Raizal-Bevölkerung.",
+        "Wichtigstes Touristenziel Kolumbiens in der Karibik.",
+        "Bekannt für die Sehenswürdigkeit 'Hoyo Soplador' (Blasloch).",
+        "Offizieller Status als Freihandelszone."
+      ]
+    },
+    {
+      "id": "bucaramanga-cities-v2",
+      "descriptionAdvanced": "Bucaramanga, die 'Stadt der Parks', ist eine moderne und saubere Metropole im Nordosten Kolumbiens, die für ihre hohe Lebensqualität und ihre zahlreichen Grünflächen bekannt ist. Als Hauptstadt des Departements Santander liegt sie auf einem Hochplateau der Ostkordillere und bietet ein angenehm gemäßigtes Klima. Die Stadt ist ein bedeutendes Bildungs- und Industriezentrum, insbesondere in den Bereichen Textilien und Schuhe. Bucaramanga ist zudem das Tor zum spektakulären Chicamocha-Canyon, einem der tiefsten Canyons der Welt, und zum malerischen Kolonialdorf Girón. Die Verbindung von urbaner Effizienz, einer blühenden Gastronomie (bekannt für Spezialitäten wie 'Hormigas Culonas') und der Nähe zu dramatischen Naturlandschaften macht Bucaramanga zu einer der attraktivsten Städte des Landes.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Santander.",
+        "Besitzt über 160 öffentliche Parks innerhalb des Stadtgebiets.",
+        "Wichtiges Zentrum für Bildung und die Schuhindustrie.",
+        "Liegt auf einer Höhe von 959 Metern.",
+        "Gegründet im Jahr 1622.",
+        "Wirtschaftliches Herz des Nordostens Kolumbiens.",
+        "Heimat des Fußballvereins Atlético Bucaramanga.",
+        "Basis für Besuche im Chicamocha-Nationalpark (PANACHI)."
+      ]
+    },
+    {
+      "id": "sincelejo-cities-v2",
+      "descriptionAdvanced": "Sincelejo, die Hauptstadt des Departements Sucre, ist eine lebhafte Stadt im Norden Kolumbiens, die tief in den Traditionen der karibischen Savannen verwurzelt ist. Bekannt als die 'Welthauptstadt des Schielens' (Capital Mundial de la Corraleja), ist sie Schauplatz der berühmten Festtage im Januar, bei denen traditionelle Stierkämpfe und Volksfeste stattfinden. Die Stadt ist ein bedeutendes Zentrum für die Viehzucht und Landwirtschaft in der Region und dient als Tor zu den unberührten Stränden des Golfs von Morrosquillo. Sincelejo spiegelt die authentische Kultur der 'Costeños' wider, geprägt durch die Klänge des Porro- und Fandango-Tanzes. In den letzten Jahren hat sich die Stadt modernisiert, wobei sie ihren herzlichen und gastfreundlichen Charakter als Tor zum ländlichen Kolumbien bewahrt hat.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Sucre.",
+        "Berühmt für die 'Fiestas del 20 de Enero'.",
+        "Zentrum der Savannenkultur im Norden Kolumbiens.",
+        "Wichtiger Standort für Viehzucht und Handel.",
+        "Gegründet am 4. Oktober 1535.",
+        "Heimat des Musikstils 'Porro Sabanero'.",
+        "Besitzt den Kathedralenbau 'San Francisco de Asís'.",
+        "Liegt nahe den Hügeln von San Jacinto."
+      ]
+    },
+    {
+      "id": "ibague-cities-v2",
+      "descriptionAdvanced": "Ibagué, bekannt als die 'Musikhauptstadt Kolumbiens', liegt am Fuße der Zentralkordillere und ist berühmt für ihr reiches kulturelles Erbe und ihre tiefe Liebe zur Musik. Die Hauptstadt des Departements Tolima beherbergt ein angesehenes Konservatorium und ist Gastgeber zahlreicher nationaler Musikfestivals, die von traditionellen Bambucos bis hin zu moderneren Klängen reichen. Ibagué besticht durch seine üppige Natur, insbesondere das nahegelegene Combeima-Tal, das als Tor zum Nationalpark Los Nevados dient und spektakuläre Ausblicke auf den schneebedeckten Nevado del Tolima bietet. Die Stadt vereint eine entspannte Atmosphäre mit wirtschaftlicher Dynamik und einer Gastronomie, in der die 'Lechona Tolimense' (gefülltes Spanferkel) eine unverzichtbare Spezialität darstellt.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Tolima.",
+        "Offizielle 'Musikhauptstadt Kolumbiens'.",
+        "Heimat des traditionsreichen Conservatorio del Tolima.",
+        "Gastgeber des Nationalen Folkloristischen Festivals.",
+        "Tor zum Combeima-Tal und zum Nevado del Tolima.",
+        "Gegründet am 14. Oktober 1550.",
+        "Wichtiger Standort für Textilindustrie und Landwirtschaft.",
+        "Bekannt für die kulinarischen Spezialitäten Lechona und Tamal Tolimense."
+      ]
+    },
+    {
+      "id": "cali-cities-v2",
+      "descriptionAdvanced": "Cali, offiziell Santiago de Cali, ist die 'Welthauptstadt der Salsa' und die pulsierende Metropole im Südwesten Kolumbiens. Die drittgrößte Stadt des Landes liegt im fruchtbaren Cauca-Tal und ist berühmt für ihre ansteckende Lebensfreude, ihr heißes Klima und ihren unvergleichlichen Rhythmus. Salsa ist hier nicht nur ein Tanz, sondern ein Lebensstil, der in zahlreichen Clubs und bei der weltberühmten 'Feria de Cali' zelebriert wird. Cali ist zudem ein wichtiges wirtschaftliches Zentrum, insbesondere für die Zuckerindustrie, und bietet eine reiche Architektur, von kolonialen Kirchen wie der Ermita bis hin zu modernen Wahrzeichen. Die Stadt ist bekannt für ihre vielfältige Gastronomie, ihre schönen Parks am Fluss Cali und die beeindruckende Christus-Statue (Cristo Rey), die über der Stadt wacht.",
+      "factsAdvanced": [
+        "Drittgrößte Stadt Kolumbiens.",
+        "Welthauptstadt der Salsa-Musik und des Tanzes.",
+        "Heimat der weltberühmten Feria de Cali.",
+        "Wichtigstes Wirtschaftszentrum im Südwesten des Landes.",
+        "Sitz des Fußballclubs América de Cali und Deportivo Cali.",
+        "Liegt auf einer Höhe von 1.018 Metern.",
+        "Zentrum der kolumbianischen Zuckerrohrindustrie.",
+        "Gegründet am 25. Juli 1536 von Sebastián de Belalcázar."
+      ]
+    },
+    {
+      "id": "mitu-cities-v2",
+      "descriptionAdvanced": "Mitú, die Hauptstadt des Departements Vaupés, ist eine faszinierende Grenzstadt im tiefen kolumbianischen Amazonas-Dschungel, nahe der Grenze zu Brasilien. Die Stadt ist nur auf dem Luftweg erreichbar und stellt eine der isoliertesten Provinzhauptstädte des Landes dar. Mitú ist ein Ort von außergewöhnlicher kultureller Vielfalt, in dem zahlreiche indigene Gemeinschaften (wie die Tucanos) ihre Traditionen, Sprachen und handwerklichen Fähigkeiten bewahren. Die Stadt liegt am Ufer des mächtigen Flusses Vaupés und ist umgeben von unberührtem Regenwald, der eine enorme Artenvielfalt, insbesondere an Vögeln und Schmetterlingen, beherbergt. Für Abenteurer und Ethnotouristen bietet Mitú einen authentischen Einblick in das Leben im Amazonasbecken, weit abseits jeglicher moderner Massen-Infrastruktur.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Vaupés.",
+        "Nur per Flugzeug von Bogotá oder Villavicencio aus erreichbar.",
+        "Zentrum für über 20 verschiedene indigene ethnische Gruppen.",
+        "Wichtiges Ziel für die Beobachtung seltener Vögel (Birdwatching).",
+        "Liegt am Fluss Vaupés mit seinen spektakulären Stromschnellen.",
+        "Gegründet im Jahr 1936.",
+        "Wirtschaft basiert auf Handel, Fischerei und Handwerk.",
+        "Tor zur unberührten Natur des Vaupés-Dschungels."
+      ]
+    },
+    {
+      "id": "puerto-carreno-cities-v2",
+      "descriptionAdvanced": "Puerto Carreño, die Hauptstadt des Departements Vichada, liegt am äußersten östlichen Rand Kolumbiens, direkt am Zusammenfluss der gewaltigen Ströme Orinoco und Meta. Diese strategische Lage macht die Stadt zu einem wichtigen Flusshafen und einem Tor zum Nachbarland Venezuela. Puerto Carreño ist geprägt von der wilden Schönheit der Orinoquía-Region, mit weiten Savannen, markanten Granitfelsen und einer reichen aquatischen Tierwelt, zu der auch die berühmten rosaroten Flußdelphine gehören. Die Stadt versprüht eine raue Pionieratmosphäre und ist ein Paradies für Sportfischer und Naturliebhaber, die die weiten Horizonte und spektakulären Sonnenuntergänge der Llanos suchen. Trotz ihrer Abgeschiedenheit ist Puerto Carreño ein Symbol für die ungebändigte Natur und den kulturellen Reichtum der kolumbianischen Ostgrenze.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Vichada.",
+        "Liegt am Zusammenfluss von Orinoco und Meta.",
+        "Wichtiger Grenzpunkt zu Venezuela.",
+        "Bekannt für Sportfischerei (Pfauenbarsch).",
+        "Heimat der rosaroten Orinoco-Flussdelphine.",
+        "Nur per Flugzeug oder Schiff erreichbar.",
+        "Gegründet im Jahr 1922.",
+        "Besitzt spektakuläre Felsformationen wie den 'Cerro de la Bandera'."
+      ]
+    },
+    {
+      "id": "soledad-cities-v2",
+      "descriptionAdvanced": "Soledad, eine Stadt mit tiefer historischer Bedeutung, liegt in der Metropolregion von Barranquilla und ist eine der bevölkerungsreichsten Städte an der Karibikküste Kolumbiens. Berühmt ist Soledad vor allem als der Ort, an dem der Befreier Simón Bolívar seine letzten Tage vor seiner Weiterreise nach Santa Marta verbrachte; die 'Casa de Bolívar' ist heute ein wichtiges Museum. Die Stadt ist zudem als die 'Welthauptstadt der Butifarra' bekannt, einer traditionellen Wurstspezialität, die ein unverzichtbarer Teil der regionalen Gastronomie ist. Soledad ist ein lebendiges kulturelles Zentrum, in dem Musik und Karnevalstraditionen leidenschaftlich gepflegt werden. Die Stadt spielt eine wesentliche Rolle in der wirtschaftlichen Entwicklung des Departements Atlántico und bewahrt trotz ihrer industriellen Expansion ihren volkstümlichen karibischen Charme.",
+      "factsAdvanced": [
+        "Achtgrößte Stadt Kolumbiens nach Einwohnerzahl.",
+        "Beherbergt das historische Museum Casa de Bolívar.",
+        "Berühmt für die kulinarische Spezialität 'Butifarra Soledense'.",
+        "Teil der Metropolregion Barranquilla.",
+        "Wichtiger Standort für Industrie und Handwerk.",
+        "Gegründet im Jahr 1598.",
+        "Besitzt eine bedeutende Kolonialkirche, die 'Iglesia de San Antonio de Padua'.",
+        "Zentrum für traditionelle karibische Musik und Tänze."
+      ]
+    },
+    {
+      "id": "soacha-cities-v2",
+      "descriptionAdvanced": "Soacha, die bevölkerungsreichste Nachbarstadt von Bogotá, ist ein dynamisches urbanes Zentrum, das nahtlos in die Hauptstadt übergeht. Die Stadt hat in den letzten Jahrzehnten ein explosives Wachstum erlebt und dient als wichtiger Industriestandort und Wohngebiet für Millionen von Menschen. Doch Soacha ist mehr als nur eine Vorstadt; sie besitzt eine reiche Geschichte, die bis in die Zeit der Muisca-Indigenen zurückreicht, wovon zahlreiche archäologische Funde und Felsmalereien zeugen. Zu den bekanntesten Attraktionen gehört der spektakuläre Wasserfall Salto del Tequendama, der sich direkt an der Stadtgrenze befindet. Soacha steht heute vor großen Herausforderungen durch seine schnelle Urbanisierung, bewahrt aber in ihren ländlichen Randgebieten wichtige Ökosysteme und historische Schätze der kolumbianischen Andenregion.",
+      "factsAdvanced": [
+        "Bevölkerungsreichste Gemeinde im Departement Cundinamarca.",
+        "Wichtigstes Industrie- und Logistikzentrum südlich von Bogotá.",
+        "Beherbergt prähistorische Felsmalereien und Muisca-Stätten.",
+        "Unmittelbare Nähe zum berühmten Wasserfall Salto del Tequendama.",
+        "Besitzt den archäologischen Park 'Nueva Esperanza'.",
+        "Wirtschaft basiert auf Fertigung, Bergbau und Dienstleistungen.",
+        "Gegründet im Jahr 1600.",
+        "Verfügt über eine Anbindung an das TransMilenio-System von Bogotá."
+      ]
+    },
+    {
+      "id": "bello-cities-v2",
+      "descriptionAdvanced": "Bello, bekannt als die 'Stadt der Künstler', ist ein bedeutendes Mitglied der Metropolregion Medellín im Aburrá-Tal. Die Stadt hat eine starke industrielle Tradition, insbesondere in der Textilherstellung, und hat sich zu einem pulsierenden Zentrum für Bildung und Kultur entwickelt. Bello ist der Geburtsort des berühmten kolumbianischen Staatsmannes und Schriftstellers Marco Fidel Suárez, dessen bescheidenes Geburtshaus als geschütztes Denkmal in einer modernen Glashalle bewahrt wird. Die Stadt bietet eine Mischung aus modernem urbanem Leben und Zugang zu Naturräumen wie dem Cerro Quitasol, einem heiligen Berg der Ureinwohner und beliebtem Ziel für Wanderer. Bellos kulturelles Leben ist geprägt von Musikschulen, Theatern und einer lebhaften Gemeinschaft, die stolz auf ihre intellektuelle und künstlerische Geschichte ist.",
+      "factsAdvanced": [
+        "Zweitwichtigste Stadt im Ballungsraum Medellín.",
+        "Geburtsort des ehemaligen Präsidenten Marco Fidel Suárez.",
+        "Bekannt für den markanten Berg Cerro Quitasol.",
+        "Wichtiger Standort der kolumbianischen Textilindustrie.",
+        "Besitzt eine bedeutende Anbindung an das Metrosystem (Station Bello).",
+        "Gegründet im Jahr 1676.",
+        "Heimat des Hauses der Kultur 'Cerro del Ángel'.",
+        "Wirtschaftszentrum im Norden des Aburrá-Tals."
+      ]
+    },
+    {
+      "id": "palmira-cities-v2",
+      "descriptionAdvanced": "Palmira, bekannt als die 'Landwirtschaftliche Hauptstadt Kolumbiens', liegt in der fruchtbaren Ebene des Cauca-Tals und ist berühmt für seine weitläufigen Zuckerrohrplantagen. Die Stadt ist ein bedeutendes Zentrum für Forschung und Entwicklung im Agrarsektor und beherbergt renommierte Institutionen wie das Internationale Zentrum für tropische Landwirtschaft (CIAT). Palmira besticht durch ihre breiten Alleen, Parks und eine entspannte Atmosphäre, die oft mit dem Fahrrad oder in den traditionellen Pferdekutschen ('Victorias') erkundet wird. Die Stadt ist zudem ein wichtiger Verkehrsknotenpunkt, da sich auf ihrem Gebiet der internationale Flughafen von Cali (Alfonso Bonilla Aragón) befindet. Mit ihrer starken wirtschaftlichen Basis und ihrem Fokus auf Nachhaltigkeit ist Palmira eine der produktivsten und dynamischsten Städte im Südwesten Kolumbiens.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum der kolumbianischen Zuckerindustrie.",
+        "Bekannt als die 'Villa de las Palmas'.",
+        "Sitz des Internationalen Zentrums für tropische Landwirtschaft (CIAT).",
+        "Beherbergt den internationalen Flughafen Alfonso Bonilla Aragón.",
+        "Berühmt für die traditionellen Pferdekutschen ('Victorias').",
+        "Gastgeber der Nationalen Landwirtschaftsmesse.",
+        "Gegründet im Jahr 1680.",
+        "Wichtiges Bildungszentrum mit mehreren Universitäten."
+      ]
+    },
+    {
+      "id": "buenaventura-cities-v2",
+      "descriptionAdvanced": "Buenaventura ist der bedeutendste Hafen Kolumbiens am Pazifischen Ozean und das wichtigste Tor des Landes zum asiatisch-pazifischen Handel. Die Stadt liegt im Departement Valle del Cauca inmitten einer Region mit extremer biologischer Vielfalt und dichtem tropischem Regenwald. Buenaventura ist das kulturelle Herz der afrokolumbianischen Pazifikkultur, was sich in der Musik (Marimba), den Tänzen und der exquisiten Meeresfrüchteküche widerspiegelt. Trotz der wirtschaftlichen Bedeutung des Hafens bewahrt die Umgebung unberührte Schätze wie die Bucht von Málaga, die jährlich als Kinderstube für Buckelwale dient. Die Stadt ist ein Ort der Kontraste, wo industrielle Logistik auf eine tief verwurzelte spirituelle Verbindung zum Meer und zum Dschungel trifft, und bietet Reisenden authentische Erfahrungen abseits der klassischen Karibikpfade.",
+      "factsAdvanced": [
+        "Wichtigster Seehafen Kolumbiens am Pazifik.",
+        "Über diesen Hafen laufen ca. 60 % des kolumbianischen Außenhandels.",
+        "Zentrum der afrokolumbianischen Musik (UNESCO-Welterbe Marimba).",
+        "Bester Ort für die Beobachtung von Buckelwalen (Juli bis Oktober).",
+        "Liegt in einer der regenreichsten Regionen der Welt.",
+        "Gegründet am 14. Juli 1540.",
+        "Hauptstadt der pazifischen Gastronomie Kolumbiens.",
+        "Tor zum Nationalpark Uramba Bahía Málaga."
+      ]
+    },
+    {
+      "id": "tulua-cities-v2",
+      "descriptionAdvanced": "Tuluá, bekannt als das 'Herz des Cauca-Tals', ist eine geschäftige Stadt im Zentrum des Departements, die strategisch günstig zwischen den großen Metropolen des Westens liegt. Die Stadt ist ein wichtiges Zentrum für Handel, Landwirtschaft und Bildung und dient als Verbindungspunkt zwischen den Bergen der Zentralkordillere und der fruchtbaren Ebene. Tuluá ist berühmt für seinen botanischen Garten 'Juan María Céspedes', der eine der wichtigsten Sammlungen tropischer Pflanzen in Kolumbien beherbergt. Das kulturelle Leben der Stadt gipfelt in der jährlichen 'Feria de Tuluá', einer der bedeutendsten Landwirtschafts- und Industriemessen der Region. Mit ihrer lebendigen Gastronomie und dem herzlichen Charakter ihrer Bewohner spiegelt Tuluá den Geist und die Produktivität der kolumbianischen Kaffee- und Zuckerregion wider.",
+      "factsAdvanced": [
+        "Wichtiges Handelszentrum im Herzen des Valle del Cauca.",
+        "Heimat des bedeutenden Botanischen Gartens Juan María Céspedes.",
+        "Bekannt für die traditionsreiche 'Feria de Tuluá'.",
+        "Zentrum für die Produktion von Zuckerrohr, Kaffee und Obst.",
+        "Gegründet im Jahr 1639.",
+        "Liegt am Ufer des Flusses Tuluá.",
+        "Strategischer Verkehrsknotenpunkt an der Panamericana.",
+        "Bekannt für den Markt 'Plaza de Mercado', ein kulturelles Erlebnis."
+      ]
+    },
+    {
+      "id": "floridablanca-cities-v2",
+      "descriptionAdvanced": "Floridablanca, ein integraler Teil der Metropolregion Bucaramanga, ist bekannt als die 'Süße Stadt Kolumbiens'. Diesen Beinamen verdankt sie ihrer langen Tradition in der Herstellung von handwerklichen Süßwaren, insbesondere der köstlichen 'Obleas'. Die Stadt hat sich von einem beschaulichen Dorf zu einem modernen urbanen Zentrum entwickelt, das für seine hochwertigen Wohngebiete und exzellenten Gesundheitseinrichtungen bekannt ist. Floridablanca beherbergt zudem beeindruckende Natur- und Kulturdenkmäler wie den Ökopark 'Cerro del Santísimo', von dem aus eine riesige Christusstatue über das Tal wacht und einen atemberaubenden Blick bietet. Die Stadt verbindet geschickt ihre traditionellen Wurzeln mit moderner Entwicklung und ist ein unverzichtbares Ziel für Genießer und Erholungssuchende in Santander.",
+      "factsAdvanced": [
+        "Bekannt als die 'Süße Stadt' (Ciudad Dulce) für ihre Obleas.",
+        "Beherbergt den Ökopark Cerro del Santísimo.",
+        "Wichtiges Zentrum für medizinische Dienstleistungen in Nordkolumbien.",
+        "Teil der Metropolregion Bucaramanga.",
+        "Gegründet am 7. November 1817.",
+        "Besitzt eines der größten Einkaufszentren der Region.",
+        "Wirtschaft basiert auf Handel, Tourismus und Lebensmittelindustrie.",
+        "Sitz des bedeutenden Botanischen Gartens Eloy Valenzuela."
+      ]
+    },
+    {
+      "id": "barrancabermeja-cities-v2",
+      "descriptionAdvanced": "Barrancabermeja, die 'Ölhauptstadt Kolumbiens', liegt am Ufer des majestätischen Río Magdalena und ist das Herz der kolumbianischen Erdölindustrie. Hier befindet sich die größte Raffinerie des Landes, was die Stadt zu einem strategischen wirtschaftlichen Zentrum macht. Trotz ihres industriellen Charakters ist Barrancabermeja eine Stadt voller Leben, geprägt von der heißen Sonne der Tropen und den Rhythmen des Vallenato und der Cumbia. Die Stadt bietet wunderschöne Ausblicke auf den Fluss, insbesondere vom Malecón aus, und ist bekannt für ihre Gastronomie auf Fischbasis, wie den berühmten 'Bocachico frito'. Barrancabermeja symbolisiert die Verbindung zwischen dem industriellen Fortschritt und der tief verwurzelten Fluskultur Kolumbiens, wobei die Sumpfgebiete (Ciénagas) in der Umgebung eine reiche aquatische Fauna beherbergen.",
+      "factsAdvanced": [
+        "Wichtigster Standort der Erdölraffination in Kolumbien (Ecopetrol).",
+        "Liegt am mittleren Lauf des Río Magdalena.",
+        "Bekannt als die 'Schöne Tochter der Sonne' (Hija del Sol).",
+        "Wichtiges Zentrum für Flusstransport und Logistik.",
+        "Heimat des Erdölmuseums (Museo Nacional del Petróleo).",
+        "Gegründet im Jahr 1536.",
+        "Berühmt für das Gericht 'Bocachico en sudado de leche'.",
+        "Besitzt die beeindruckende Brücke 'Puente Guillermo Gaviria Correa'."
+      ]
+    },
+    {
+      "id": "envigado-cities-v2",
+      "descriptionAdvanced": "Envigado, unmittelbar südlich von Medellín gelegen, wird oft als eine der Städte mit der höchsten Lebensqualität in Kolumbien bezeichnet. Trotz seiner Zugehörigkeit zur Metropolregion hat sich Envigado einen starken Sinn für Identität und Tradition bewahrt, der sich in seinen gepflegten Parks, der traditionellen Architektur und den vielen lokalen Festen zeigt. Die Stadt ist bekannt für ihre vorbildliche öffentliche Verwaltung und ein hohes Sicherheitsniveau. Envigado ist zudem ein bedeutender Industriestandort, beherbergt aber auch grüne Oasen wie den ökologischen Park 'El Salado'. Die Bewohner, die 'Envigadeños', sind stolz auf ihre Kultur, ihre hervorragende lokale Gastronomie und die Tatsache, dass ihre Stadt Modernität mit einem familiären, dörflichen Charakter verbindet.",
+      "factsAdvanced": [
+        "Gilt regelmäßig als Stadt mit der besten Lebensqualität in Kolumbien.",
+        "Wichtiger Standort der Fahrzeugindustrie (Renault-Sofasa).",
+        "Geburtsort des berühmten Schriftstellers Fernando González.",
+        "Bekannt für den ökologischen Park El Salado.",
+        "Teil des Ballungsraums Aburrá-Tal (Medellín).",
+        "Gegründet im Jahr 1775.",
+        "Besitzt ein ausgezeichnetes Bildungssystem und öffentliche Bibliotheken.",
+        "Heimat des Fußballvereins Envigado FC."
+      ]
+    },
+    {
+      "id": "itagui-cities-v2",
+      "descriptionAdvanced": "Itagüí, im Süden des Aburrá-Tals gelegen, ist das industrielle Kraftwerk der Metropolregion Medellín. Die Stadt zeichnet sich durch eine enorme Dichte an Unternehmen, Handelszentren und Fabriken aus, was sie zu einer der wirtschaftlich produktivsten Gemeinden Kolumbiens macht. Itagüí hat sich zudem als Vorreiter in der Kulturförderung etabliert, insbesondere durch den Bau moderner Bibliotheken und Kulturzentren. Einzigartig ist das jährliche 'Fest der Faulheit' (Día de la Pereza), eine originelle Veranstaltung, die zur Reflexion über Freizeit und Arbeit einlädt und tausende Besucher anlockt. Die Stadt bietet eine hervorragende Infrastruktur, eine effiziente Anbindung an das Metrosystem und zeigt eindrucksvoll, wie industrielle Entwicklung und kulturelle Innovation Hand in Hand gehen können.",
+      "factsAdvanced": [
+        "Industrie- und Handelszentrum der Metropolregion Medellín.",
+        "Bekannt für den weltweit einzigartigen 'Tag der Faulheit' (Día de la Pereza).",
+        "Wichtigster Standort für Großhandelszentren in Antioquia.",
+        "Besitzt den beeindruckenden Kulturpark 'Ditaires'.",
+        "Gegründet im Jahr 1743.",
+        "Wirtschaft basiert auf Textilien, Chemie und Logistik.",
+        "Verfügt über mehrere Stationen des Medellín-Metrosystems.",
+        "Führend in der Bereitstellung öffentlicher Bildungsräume."
+      ]
+    },
+    {
+      "id": "dosquebradas-cities-v2",
+      "descriptionAdvanced": "Dosquebradas, die zweitwichtigste Stadt im Departement Risaralda, ist eng mit der Landeshauptstadt Pereira verbunden und wird oft als deren industrielles Pendant betrachtet. Die Stadt hat sich in den letzten Jahrzehnten rasant von einer ländlichen Region zu einem dynamischen urbanen Zentrum entwickelt, das vor allem durch seine produzierende Industrie und den Handel geprägt ist. Dosquebradas ist durch das majestätische Viaducto César Gaviria Trujillo mit Pereira verbunden, was einen ständigen Fluss von Menschen und Gütern ermöglicht. Trotz ihrer industriellen Ausrichtung bietet die Stadt in ihren Außenbezirken wunderschöne Naturlandschaften mit Wanderwegen und Wasserfällen, die einen Kontrast zum hektischen Stadtleben bilden. Sie ist ein Symbol für den unternehmerischen Geist der kolumbianischen Kaffeezone.",
+      "factsAdvanced": [
+        "Industriehauptstadt des Departements Risaralda.",
+        "Teil der Metropolregion Mittel-Ozean (Pereira).",
+        "Verbunden mit Pereira durch das Viaducto César Gaviria Trujillo.",
+        "Bekannt für seine schnelle Stadtentwicklung und sein Wachstum.",
+        "Gegründet im Jahr 1972 (als eigenständige Gemeinde).",
+        "Wichtiger Standort für Textil- und Lebensmittelindustrie.",
+        "Besitzt zahlreiche ökologische Wanderwege in der Umgebung.",
+        "Knotenpunkt für den Verkehr zwischen der Karibik und dem Pazifik."
+      ]
+    },
+    {
+      "id": "rionegro-cities-v2",
+      "descriptionAdvanced": "Rionegro, gelegen auf dem Hochplateau von Oriente in Antioquia, ist eine Stadt von enormer historischer und wirtschaftlicher Bedeutung. Als Geburtsort der kolumbianischen Verfassung von 1863 spielt sie eine zentrale Rolle im republikanischen Gedächtnis des Landes. Heute ist Rionegro ein pulsierendes Zentrum für Industrie und Dienstleistungen und beherbergt den internationalen Flughafen José María Córdova, der als wichtigster Zugang zur Region Medellín dient. Die Stadt bewahrt ein schönes koloniales Erbe in ihrem Zentrum, während sie gleichzeitig modernste Wohn- und Geschäftsviertel entwickelt. Rionegro bietet mit seinem kühleren Klima, den grünen Landschaften und einer hervorragenden Infrastruktur eine attraktive Alternative zum Leben im Aburrá-Tal und ist ein Motor für den Fortschritt in Ost-Antioquia.",
+      "factsAdvanced": [
+        "Heimat des internationalen Flughafens José María Córdova.",
+        "Ort der Verabschiedung der Verfassung von Rionegro (1863).",
+        "Historisch bekannt als 'La Ciudad Santiago de Arma de Rionegro'.",
+        "Wirtschaftszentrum des östlichen Antioquia (Oriente Antioqueño).",
+        "Gegründet im Jahr 1541.",
+        "Wichtiger Standort für Blumenexport und Luftfahrtindustrie.",
+        "Besitzt eine bedeutende Kathedrale am Hauptplatz (Plaza de la Libertad).",
+        "Liegt auf einer Höhe von 2.130 Metern."
+      ]
+    },
+    {
+      "id": "cartago-cities-v2",
+      "descriptionAdvanced": "Cartago, eine der ältesten Städte Kolumbiens, liegt im Norden des Departements Valle del Cauca und ist weltberühmt für ihre handwerklichen Stickereien (Bordados). Die Stadt besticht durch ihren kolonialen Charme, der sich in Gebäuden wie dem 'Casa del Virrey' widerspiegelt, und ihr warmes, sonniges Klima. Cartago ist ein wichtiges Handelszentrum und dient als Tor zwischen dem Kaffeedreieck und dem Pazifikbecken. Die Stickkunst wird hier seit Generationen gepflegt und ist ein wesentlicher Teil der lokalen Identität und Wirtschaft. Besucher schätzen die entspannte Atmosphäre, die reiche religiöse Architektur und die Nähe zu den Naturschönheiten des Cauca-Flusses. Cartago ist ein Ort, an dem Tradition, Kunsthandwerk und Geschichte auf harmonische Weise mit der modernen Entwicklung verschmelzen.",
+      "factsAdvanced": [
+        "Weltberühmt für handwerkliche Stickereien (Bordados).",
+        "Eine der ältesten Städte Amerikas (gegründet 1540).",
+        "Heimat des historischen Gebäudes 'Casa del Virrey'.",
+        "Bekannt als die Stadt mit der 'Sonne, die niemals untergeht'.",
+        "Wichtiges Zentrum für Handel im Norden des Valle del Cauca.",
+        "Sitz des Bistums Cartago mit zahlreichen historischen Kirchen.",
+        "Gastgeber der jährlichen Messe für Stickereien.",
+        "Wirtschaft basiert auf Handel, Landwirtschaft und Kunsthandwerk."
+      ]
+    },
+    {
+      "id": "giron-cities-v2",
+      "descriptionAdvanced": "Girón, offiziell San Juan de Girón, ist ein kolonialer Schatz in der Metropolregion Bucaramanga und gehört zum Netzwerk der geschützten Kulturerbestädte Kolumbiens. Die Stadt wirkt wie ein lebendiges Museum, mit ihren strahlend weißen Fassaden, braunen Holztüren und kopfsteingepflasterten Gassen, die an die Zeit des Vizekönigreichs erinnern. Girón ist berühmt für seine religiöse Bedeutung, insbesondere für die Basilika des Herrn der Wunder (Señor de los Milagros), die jährlich tausende Pilger anzieht. Die Stadt bewahrt ihre Traditionen leidenschaftlich, was sich auch in ihrer Gastronomie zeigt, wo Tabak, Zigarren und lokale Süßigkeiten eine wichtige Rolle spielen. Ein Spaziergang über die alten Brücken und durch die schattigen Parks von Girón ist eine Reise zurück in die Geschichte Kolumbiens.",
+      "factsAdvanced": [
+        "Teil des kolumbianischen Netzwerks der Kulturerbestädte (Pueblos Patrimonio).",
+        "Berühmt für sein perfekt erhaltenes weißes Kolonialzentrum.",
+        "Wichtiges religiöses Pilgerzentrum (Señor de los Milagros).",
+        "Gegründet am 15. Januar 1631.",
+        "Bekannt für die Herstellung von handgerollten Zigarren.",
+        "Teil der Metropolregion Bucaramanga.",
+        "Besitzt wunderschöne Steinbrücken aus der Kolonialzeit.",
+        "Berühmt für seine Zigeunertradition und lokalen Süßspeisen."
+      ]
+    },
+    {
+      "id": "facatativa-cities-v2",
+      "descriptionAdvanced": "Facatativá, am westlichen Rand des Bogotás-Hochplateaus gelegen, ist eine Stadt, die tiefe historische Wurzeln mit moderner industrieller Bedeutung verbindet. Sie ist weltberühmt für den archäologischen Park 'Piedras del Tunjo', ein Ort voller mystischer Felsformationen und antiker Felsmalereien der Muisca-Ureinwohner. Die Stadt dient als strategischer Knotenpunkt zwischen der Hauptstadt Bogotá und den tiefer gelegenen Regionen des Landes. Facatativá ist zudem eines der wichtigsten Zentren für den Blumenexport Kolumbiens, wobei die umliegenden Täler von riesigen Gewächshäusern geprägt sind. Mit ihrem kühlen Klima, ihrer lebhaften Handelsaktivität und dem kulturellen Erbe der indigenen Vergangenheit bietet die Stadt eine faszinierende Mischung aus Geschichte und wirtschaftlichem Fortschritt.",
+      "factsAdvanced": [
+        "Heimat des archäologischen Parks 'Piedras del Tunjo'.",
+        "Wichtiges Zentrum für den Anbau und Export von Schnittblumen.",
+        "Strategischer Verkehrsknotenpunkt am westlichen Zugang zu Bogotá.",
+        "Liegt auf einer Höhe von etwa 2.586 Metern.",
+        "Besitzt bedeutende Felsmalereien der Muisca-Kultur.",
+        "Gegründet im Jahr 1600.",
+        "Wirtschaft basiert auf Blumenindustrie, Landwirtschaft und Handel.",
+        "Besitzt eine Kathedrale im neugotischen Stil."
+      ]
+    }
+  ]
+}

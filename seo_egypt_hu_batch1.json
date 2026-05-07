@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "egypt",
+  "files": [
+    "lib/visualLab/data/poiExtraEgyptCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "alexandria-cities-v2",
+      "descriptionAdvanced": "Alexandria, Egyiptom második legnagyobb városa, a Földközi-tenger partján fekszik, és gazdag történelme egészen az ókori Görögországig nyúlik vissza. A várost Nagy Sándor alapította i. e. 331-ben, és egykor a tudomány és kultúra központja volt, otthont adva a híres alexandriai könyvtárnak és a Pharoszi világítótoronynak. Napjainkban Alexandria modern kikötőváros, amely ötvözi az ősi örökséget a modern élettel. Földrajz K7 — kikötővárosok és ókori örökség.",
+      "factsAdvanced": ["Egyiptom legfontosabb kikötője.", "Nagy Sándor alapította i. e. 331-ben.", "A híres világítótorony egyike volt az ókori világ hét csodájának.", "A híres könyvtár az antik világ tudományos központja volt.", "A város lakossága meghaladja az 5 milliót.", "A Földközi-tenger mentén húzódik több mint 30 km hosszan."]
+    },
+    {
+      "id": "giza-cities-v2",
+      "descriptionAdvanced": "Gíza városa a Nílus nyugati partján, közvetlenül Kairó szomszédságában található, és világszerte a gízai fennsíkon álló ókori piramisairól ismert. A területen található a híres nagy szfinx és az ókori világ hét csodája közül az egyetlen fennmaradt emlék, a Kheopsz-piramis. Gíza ma már Kairó metropoliszövezetének része, és milliók keresik fel évente, hogy megcsodálják az ókori egyiptomi mérnöki tudás remekeit. Történelem K6 — ókori Egyiptom.",
+      "factsAdvanced": ["A Kheopsz-piramis a világ egyik legmagasabb ókori építménye.", "A gízai nekropolisz több mint 4500 éves.", "A nagy szfinx mészkőből faragott alakja az oroszlán testű, emberfejű lény.", "Gíza a kairói nagyvárosi régió része.", "A területet az UNESCO világörökség részeként tartják számon.", "Kairótól mintegy 20 km-re délnyugatra fekszik."]
+    }
+  ]
+}

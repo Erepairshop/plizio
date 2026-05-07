@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-waterberg-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Waterberg-Plateau-Nationalpark im zentralen Norden Namibias ist ein ökologisches Wunderland, das sich stark von der umliegenden flachen Savanne unterscheidet. Das massive Sandsteinplateau, das steil bis zu 200 Meter in die Höhe ragt, fungiert wie eine gigantische Festung, die bedrohte Tierarten schützt. Aufgrund der unzugänglichen Felswände nutzt die namibische Naturschutzbehörde das Plateau seit den 1970er Jahren erfolgreich als sicheres Reservat für die Zucht stark bedrohter Arten, insbesondere für das Spitzmaul- und Breitmaulnashorn sowie für Rappen- und Pferdeantilopen. Oben auf dem Plateau fangen die porösen Sandsteine das Regenwasser ein und schaffen so üppige Quellen am Fuße des Berges, die ein dichtes, grünes Mikroklima nähren. Biologie K7 — Refugialräume und Artenschutzprogramme.",
+      "factsAdvanced": [
+        "Das Plateau wurde 1972 offiziell zum Nationalpark und Schutzgebiet deklariert.",
+        "Es erstreckt sich über eine Fläche von rund 405 Quadratkilometern.",
+        "Das Plateau liegt bis zu 200 Meter über der umliegenden Ebene.",
+        "Der Park ist eines der wichtigsten Zuchtzentren für bedrohte Nashörner im südlichen Afrika.",
+        "Das Plateau ist der einzige Brutplatz in Namibia für den stark gefährdeten Kapgeier.",
+        "Die historische Schlacht am Waterberg fand 1904 an den südöstlichen Hängen statt."
+      ]
+    },
+    {
+      "id": "namibia-cape-cross-animal-habitat-life-v2",
+      "descriptionAdvanced": "Das Cape Cross Robbenreservat an der Skelettküste, knapp 120 Kilometer nördlich von Swakopmund, bietet eines der spektakulärsten und lautesten Naturerlebnisse Namibias. Es ist die Heimat der weltweit größten Brutkolonie der Südafrikanischen Seebären (Kap-Pelzrobben). In der Hauptbrutzeit im November und Dezember drängen sich auf den Felsen und Stränden der Bucht oft mehr als 200.000 Tiere, die den kalten, fischreichen Benguelastrom als ideale Nahrungsquelle nutzen. Das ohrenbetäubende Blöken der Jungen und der beißende Geruch nach Guano und Fisch sind überwältigend. Leider zieht die hohe Dichte an Jungtieren auch Raubtiere wie Schabrackenhyänen und Schakale an, die an den Rändern der Kolonie jagen. Biologie K6 — Marine Ökosysteme und Koloniebrüter.",
+      "factsAdvanced": [
+        "Das Robbenreservat schützt die weltweit größte Kolonie von Südafrikanischen Seebären.",
+        "Die Population kann in den Sommermonaten auf weit über 200.000 Tiere anwachsen.",
+        "Die erwachsenen männlichen Robben (Bullen) können bis zu 350 Kilogramm wiegen.",
+        "Die Kolonie konsumiert täglich tonnenweise Fisch, der durch den Benguelastrom herangeführt wird.",
+        "Neben dem Robbenreservat steht eine Nachbildung des historischen Steinkreuzes von Diego Cão (1486).",
+        "Das Reservat wurde 1968 offiziell gegründet, um die Bestände zu schützen und zu verwalten."
+      ]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "descriptionAdvanced": "Die Landwirtschaft in der Hardap-Region, zentriert um die Stadt Mariental, ist ein meisterhaftes Beispiel menschlicher Anpassung an extreme Trockenheit. Die Region nutzt das Wasser des Hardap-Damm-Systems, des größten Stausees in Namibia, um ein ausgedehntes, über 2.000 Hektar großes Bewässerungssystem (Hardap Irrigation Scheme) zu speisen. Während das umgebende Land eine karge Halbwüste ist, leuchten die bewässerten Felder tiefgrün. Hier werden erstaunliche Ernten von Mais, Weizen, Luzerne für die Viehzucht und sogar Wein produziert. Diese Form der intensiven Oasen-Landwirtschaft sichert nicht nur lokale Arbeitsplätze, sondern ist auch ein kritischer Bestandteil für die Ernährungssicherheit und Futterversorgung des ganzen Landes während anhaltender Dürren. Landwirtschaft K8 — Bewässerungstechnik in Arid-Zonen.",
+      "factsAdvanced": [
+        "Das Hardap-Bewässerungsprojekt (Irrigation Scheme) versorgt über 2.000 Hektar Ackerland.",
+        "Der Hardap-Staudamm fasst bei maximaler Füllung rund 294 Millionen Kubikmeter Wasser.",
+        "Die Region ist Namibias größter Produzent von Luzerne (Alfalfa) für die Viehwirtschaft.",
+        "In der angrenzenden ariden Zone konzentriert man sich auf die Karakulschaf-Zucht.",
+        "Das Kanalsystem zur Bewässerung wurde in den frühen 1960er Jahren erbaut.",
+        "Starke Regenfälle im Einzugsgebiet können verheerende Überschwemmungen der Farmen verursachen."
+      ]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "descriptionAdvanced": "Das landwirtschaftliche Gebiet rund um Tsumeb bildet zusammen mit Otavi und Grootfontein das sogenannte 'Goldene Dreieck' (Maisdreieck) Namibias. Diese Region profitiert im Vergleich zum Rest des Landes von einem außergewöhnlichen Mikroklima mit überdurchschnittlich hohen Niederschlägen (über 500 mm pro Jahr) und einem fruchtbaren Karstuntergrund. Sie ist das unangefochtene Zentrum des kommerziellen Ackerbaus in Namibia. Vor allem Regenfeldanbau wird hier praktiziert, wobei weißer Mais, der ein namibisches Grundnahrungsmittel ist, im Mittelpunkt steht. Daneben gedeihen Sorghum, Sonnenblumen und verschiedene Gemüsesorten. Diese intensiven kommerziellen Farmen spielen eine fundamentale Rolle in der nationalen Strategie, die Abhängigkeit von südafrikanischen Lebensmittelimporten zu verringern. Geografie K7 — Klimagunst und Lebensmittelproduktion.",
+      "factsAdvanced": [
+        "Das Tsumeb-Gebiet verzeichnet oft mehr als 500 mm Niederschlag in einer Regensaison.",
+        "Die Region produziert einen Großteil des kommerziellen weißen Maises für Namibia.",
+        "Das 'Maisdreieck' (Maize Triangle) umfasst die Städte Tsumeb, Otavi und Grootfontein.",
+        "Der kalkreiche Karstboden bietet hervorragende Bedingungen für tiefwurzelnde Nutzpflanzen.",
+        "Viele Farmen hier kombinieren den Ackerbau mit intensiver, kommerzieller Rinderzucht.",
+        "Staatliche Mühlen und Getreidesilos befinden sich strategisch in der Region zur Verarbeitung."
+      ]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "descriptionAdvanced": "Gobabis in der Region Omaheke ist die unbestrittene Hauptstadt der namibischen Fleischproduktion und wird oft stolz als das 'Cattle Country' (Rinderland) bezeichnet. Die endlosen Weiten der sandigen, dornenreichen Kalahari-Baumsavanne im Osten Namibias eignen sich hervorragend für die großflächige Rinderzucht. Über 800 gigantische kommerzielle Farmen, deren Größe oft weit über 5.000 Hektar liegt, widmen sich der Zucht extrem robuster Rinderrassen wie dem Brahman- und dem Sanga-Rind. Diese Tiere sind perfekt an die heißen Sommer, kalten Winter und knappen Wasserressourcen angepasst. Das hochqualitative Rindfleisch aus dieser Region, das streng ohne Hormone aufgezogen wird, ist das wichtigste landwirtschaftliche Exportgut Namibias und wird weltweit geschätzt. Landwirtschaft K7 — Extensive Viehwirtschaft und Exportmärkte.",
+      "factsAdvanced": [
+        "Die Omaheke-Region verfügt über mehr als 800 kommerzielle Rinderfarmen.",
+        "Namibia exportiert Rindfleisch der höchsten Qualitätsstufe ('Namibian Nature-Beef') bis nach Europa.",
+        "Am Ortseingang von Gobabis empfängt eine gewaltige Statue eines Brahman-Stiers die Besucher.",
+        "Die bevorzugten Rinderrassen wie Brahman und Sanga sind extrem dürreresistent.",
+        "Viele Farmen verlassen sich auf über 100 Meter tiefe Bohrlöcher für die Wasserversorgung.",
+        "Fleischverarbeitungsanlagen und große Viehauktionen sind das wirtschaftliche Zentrum der Stadt."
+      ]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "descriptionAdvanced": "Windhoek, als grüne und relativ kinderfreundliche Hauptstadt, bietet verschiedene kleine Parks und familienorientierte Landmarken. Zu den beliebtesten Erholungsorten für Familien zählen der große Zoo Park direkt im Stadtzentrum und der Avis-Staudamm an den Stadträndern. Der Zoo Park ist ein üppiger, baumbestandener Park, der neben Spielplätzen auch historische Denkmäler und die Überreste eines prähistorischen Elefantenfossilien-Fundes bietet, was ihn zu einem Ort der Bildung und Erholung macht. Der Avis-Staudamm hingegen zieht an Wochenenden Familien an, die dem Stadtleben entfliehen wollen, um zu wandern, Vögel zu beobachten und in der Natur zu picknicken, ohne die Stadtgrenzen verlassen zu müssen. Gesellschaft K5 — Urbane Erholungsräume für Kinder.",
+      "factsAdvanced": [
+        "Der Zoo Park im Zentrum Windhoeks diente bis 1962 tatsächlich als kleiner Tierpark.",
+        "Im Park wurden prähistorische Elefantenknochen gefunden, die über 5.000 Jahre alt sind.",
+        "Ein großer Kinderspielplatz im Park zieht täglich zahlreiche Familien an.",
+        "Der Avis-Staudamm am östlichen Stadtrand ist ein beliebtes Naturgebiet für Familienausflüge.",
+        "In der Nähe befindet sich auch der 'Tintenpalast'-Garten, ein weiterer sicherer Ort für Kinder.",
+        "Windhoek verfügt über spezielle Fahrrad- und Spazierwege rund um die Vorstadtberge."
+      ]
+    },
+    {
+      "id": "namibia-swakopmund-kid-landmark-life-v2",
+      "descriptionAdvanced": "Das National Marine Aquarium in Swakopmund ist eine der faszinierendsten Attraktionen für Kinder an der namibischen Küste. Es bietet einen einzigartigen und sicheren Blick in die rauen und kalten Tiefen des Atlantischen Ozeans. Das Hauptmerkmal des Aquariums ist ein riesiges Becken, das von einem begehbaren Unterwassertunnel durchquert wird. Hier können Kinder Haie, Rochen und Schildkröten aus der Perspektive eines Tauchers erleben. Das Aquarium spielt eine essenzielle pädagogische Rolle, indem es über das fragile Ökosystem des Benguelastroms aufklärt und auf die Bedrohungen durch Überfischung und Umweltverschmutzung hinweist. Die täglichen Fütterungen durch Taucher im Hauptbecken sind ein absolutes Highlight. Biologie K5 — Marine Ökosysteme und Umweltbildung.",
+      "factsAdvanced": [
+        "Das National Marine Aquarium öffnete seine Türen erstmals im Jahr 1995.",
+        "Das größte Becken fasst beachtliche 320.000 Liter frisches Meerwasser.",
+        "Ein begehbarer Glastunnel ermöglicht Besuchern einen Panoramablick von unten auf Rochen und Haie.",
+        "Die Anlage bezieht täglich frisches Meerwasser direkt aus dem nahen Ozean.",
+        "Das Aquarium informiert umfassend über die Fauna und Flora des kalten Benguelastroms.",
+        "Die öffentlichen Fütterungen der großen Meeresraubtiere finden mehrmals wöchentlich statt."
+      ]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "descriptionAdvanced": "Die großen Holzschnitzermärkte (Woodcarvers Markets) in Okahandja sind ein faszinierendes und farbenfrohes Labyrinth, das besonders für jüngere Besucher eine lebendige Einführung in das afrikanische Handwerk bietet. Die Märkte erstrecken sich am nördlichen und südlichen Stadtrand und werden hauptsächlich von Kunsthandwerkern der Kavango-Region betrieben, die ihre Fähigkeiten von Generation zu Generation weitergeben. Zwischen Tausenden von geschnitzten Giraffen, Elefanten, Masken und traditionellen Trommeln können Kinder hautnah erleben, wie aus groben Holzblöcken durch Geschick und einfache Werkzeuge kunstvolle Figuren entstehen. Es ist eine der größten Freiluft-Galerien für traditionelle Kunst in Namibia. Handwerk K5 — Traditionelle afrikanische Schnitzkunst.",
+      "factsAdvanced": [
+        "Die Okahandja Woodcarvers Markets gehören zu den größten Kunsthandwerksmärkten des Landes.",
+        "Die meisten der talentierten Schnitzer stammen ursprünglich aus der holzreichen Kavango-Region.",
+        "Als primäres Material wird häufig Jacaranda-, Kiaat- (Wildteak) und Eisenholz verwendet.",
+        "Die Märkte befinden sich strategisch an der Hauptverkehrsstraße B1 zwischen Windhoek und Swakopmund.",
+        "Besucher können den Handwerkern oft direkt vor Ort bei ihrer feinen Arbeit zusehen.",
+        "Beliebte Artikel sind massiv geschnitzte Nilpferde, afrikanische Masken und funktionale Schalen."
+      ]
+    },
+    {
+      "id": "namibia-bwabwata-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Bwabwata-Nationalpark, gelegen in der feuchten Sambesi-Region (dem ehemaligen Caprivi-Zipfel), ist ein Paradebeispiel für moderne Naturschutzkonzepte in Afrika. Im Gegensatz zu streng getrennten Reservaten wurde Bwabwata konzipiert, um Wildtierschutz und die Bedürfnisse der lokalen indigenen Bevölkerung miteinander zu vereinbaren; hier leben Menschen (überwiegend aus der Khwe-San-Gemeinschaft) und Wildtiere gemeinsam in verwalteten Zonen. Die wasserreiche Landschaft, dominiert von den Flüssen Okavango und Kwando, lockt massive Herden von Elefanten, afrikanischen Büffeln, Flusspferden und seltenen Antilopenarten wie Lechwe und Sitatunga an. Der Park ist zudem ein kritischer Korridor für Elefanten, die zwischen Botswana, Angola, Sambia und Namibia wandern. Geografie K8 — Grenzüberschreitender Naturschutz (KAZA TFCA).",
+      "factsAdvanced": [
+        "Bwabwata wurde 2007 gegründet und ersetzte die älteren Caprivi- und Mahango-Wildparks.",
+        "Der Park erstreckt sich über eine Fläche von beeindruckenden 6.274 Quadratkilometern.",
+        "Er ist ein zentraler Bestandteil des grenzüberschreitenden KAZA (Kavango-Zambezi) Naturschutzgebietes.",
+        "Im Park leben schätzungsweise über 5.000 Menschen in ausgewiesenen, kommunalen Siedlungszonen.",
+        "Der Park ist landesweit bekannt für die höchste Konzentration an Flusspferden und Krokodilen.",
+        "Elefanten nutzen den Park als wichtigen Wanderkorridor ('Elephant Highway') durch das südliche Afrika."
+      ]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Mudumu-Nationalpark im tiefsten Nordosten Namibias ist eine unberührte, sumpfige Wildnis am Ufer des Linyanti-Flusses. Die Landschaft unterscheidet sich mit ihren dichten Galeriewäldern, Überschwemmungsebenen und von Papyrus gesäumten Wasserwegen radikal von den trockenen Savannen, die man sonst in Namibia antrifft. Mudumu ist das Herzstück des namibischen Flusspferd- und Krokodilbestandes und bietet eine extreme Vielfalt an Vögeln (über 400 Arten wurden hier registriert). Aufgrund der fast fehlenden Infrastruktur ist der Park wild und schwer zugänglich, was ihn zu einem echten Abenteuergebiet für erfahrene Safarigänger macht, die riesige Büffelherden und seltene Raubtiere wie Wildhunde in ihrem natürlichen Lebensraum suchen. Biologie K7 — Sumpfökosysteme und Biodiversität.",
+      "factsAdvanced": [
+        "Der Mudumu-Nationalpark wurde 1990 kurz nach der namibischen Unabhängigkeit gegründet.",
+        "Der Park umfasst ein etwa 1.000 Quadratkilometer großes Areal entlang des Linyanti-Flusses.",
+        "Die Region ist absolut malariaendemisch und extrem reich an stehendem Gewässer.",
+        "Über 400 Vogelarten, darunter zahlreiche seltene Eisvogel- und Reiherarten, sind hier heimisch.",
+        "Mudumu ist eines der wenigen Gebiete Namibias, in denen der afrikanische Wildhund vorkommt.",
+        "Es gibt keine eingezäunten Parkgrenzen, sodass Tiere frei nach Botswana wandern können."
+      ]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Dorob-Nationalpark umschließt die namibische Zentralküste, verbindet den Namib-Naukluft-Park im Süden mit dem Skeleton Coast Park im Norden und schließt Städte wie Swakopmund und Walvis Bay ein. Was auf den ersten Blick wie eine leblose Sandhölle wirkt, ist ein hochkomplexes und extrem fragiles Wüstenökosystem. Der Park schützt die extrem empfindliche Flechtenflora, die nur durch den Küstennebel am Leben erhalten wird, und ist ein kritischer Brutplatz für die bedrohte Damaraseeschwalbe. Um den immensen Schaden durch unkontrollierte Quadbike- und Offroad-Fahrten in den Dünen zu stoppen, unterteilt der Park die Landschaft streng in Naturschutz- und Erholungszonen. Umweltschutz K8 — Regulierung von Tourismus in fragilen Ökosystemen.",
+      "factsAdvanced": [
+        "Der Dorob-Nationalpark wurde im Jahr 2010 offiziell als Schutzgebiet ausgerufen.",
+        "Er umfasst die gesamte Küstenregion zwischen dem Kuiseb-Flussdelta und dem Ugab-Fluss.",
+        "Der Park schützt die extrem bedrohte und bodenbrütende Damaraseeschwalbe (Damara Tern).",
+        "Zahlreiche prähistorische archäologische Stätten liegen im losen Sand des Parks verborgen.",
+        "Erlaubte Offroad-Fahrgebiete wurden streng von den sensiblen Flechtenfeldern getrennt.",
+        "Der Name 'Dorob' stammt aus einer lokalen Sprache und bedeutet 'trockenes Land'."
+      ]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "descriptionAdvanced": "Die Kavango-Region (Ost und West) entlang der Grenze zu Angola ist das Rückgrat des traditionellen und aufstrebenden kommerziellen Ackerbaus im Norden Namibias. Die Landwirtschaft stützt sich massiv auf den mächtigen Kavango-Fluss, dessen dauerhaftes Wasser sowohl große staatliche Bewässerungsprojekte ('Green Schemes' wie Ndonga Linena und Vungu Vungu) als auch die kleinen Subsistenzfelder der lokalen Bevölkerung versorgt. Während die Kleinbauern hauptsächlich Mahangu (Perlhirse), Mais und Bohnen anbauen, konzentrieren sich die hochmechanisierten Agrarprojekte auf die industrielle Produktion von Weizen und Mais. Diese flussbasierte Landwirtschaft ist entscheidend für die Ernährungssicherheit und die Schaffung von Arbeitsplätzen im dicht besiedelten Norden. Landwirtschaft K7 — Staatliche Agrarprojekte und Bewässerung.",
+      "factsAdvanced": [
+        "Das 'Green Scheme' Programm der Regierung betreibt hier massiv subventionierte Bewässerungsfarmen.",
+        "Der Kavango-Fluss liefert ganzjährig das lebenswichtige Wasser für den Ackerbau.",
+        "Perlhirse (Mahangu) ist das traditionelle Grundnahrungsmittel für den Großteil der Bevölkerung.",
+        "Die Region hat ein hohes Potenzial für den kommerziellen Anbau von Obst und Weizen.",
+        "Rinder- und Ziegenzucht wird hier eng mit dem Feldanbau kombiniert.",
+        "Ernten sind oft durch herumstreifende Elefantenherden oder Flusspferde gefährdet."
+      ]
+    },
+    {
+      "id": "namibia-otjiwarongo-agriculture-life-v2",
+      "descriptionAdvanced": "Die Region rund um Otjiwarongo ist eine der lukrativsten landwirtschaftlichen Zonen in Zentralnamibia und berühmt als Epizentrum der Rinderzucht. Die Akazien-Savanne bietet mit ihren Gräsern ideale Bedingungen für kommerzielle Brahman- und Simmentaler-Rinder. Eine einzigartige Besonderheit der Otjiwarongo-Viehregion ist das zunehmende Bewusstsein für 'Predator-Friendly Farming' (raubtierfreundliche Landwirtschaft). Da dieses Gebiet gleichzeitig die weltweit höchste Dichte an freilebenden Geparden aufweist, nutzen viele Farmer heute Wachhunde (wie anatolische Hirtenhunde) anstelle von Gewehren und Fallen, um ihre Herden zu schützen. Dieses Modell zeigt, wie Landwirtschaft und Raubtierschutz wirtschaftlich erfolgreich koexistieren können. Biologie K7 — Mensch-Wildtier-Konfliktlösung in der Viehzucht.",
+      "factsAdvanced": [
+        "Die Region hat die größte Population von frei streifenden Geparden weltweit.",
+        "Anatolische Hirtenhunde werden extrem erfolgreich eingesetzt, um Kälber vor Raubtieren zu schützen.",
+        "Rinder aus der Region Otjiwarongo erzielen regelmäßig Höchstpreise bei Auktionen.",
+        "Viele riesige Farmen haben sich von reiner Viehzucht zu Wildfarmen (Game Farming) gewandelt.",
+        "Otjiwarongo richtet jährlich große, überregionale landwirtschaftliche Ausstellungen aus.",
+        "Die dornige Akazien-Savanne ist das ideale Weideland für die Rinderzucht in der Region."
+      ]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "descriptionAdvanced": "Die Kalahari-Wüste im Osten Namibias ist trotz des Begriffs 'Wüste' eher eine trockene Savanne, geprägt von tiefroten, parallel verlaufenden Längsdünen und weiten, goldenen Graslandschaften. Dank unterirdischer Wasserreserven und spärlichen, aber regelmäßigen Regenfällen wimmelt es in der Kalahari von perfekt angepassten Wildtieren. Hier jagen die massiven Schwarzmähnenlöwen, während unzählige Erdmännchen-Familien nach Skorpionen graben und riesige Webervogelkolonien ihre gigantischen Gemeinschaftsnester in den massiven Kameldornbäumen errichten. Die extreme Anpassungsfähigkeit der Fauna, die teils jahrelang ohne stehendes Wasser auskommen kann (indem sie Feuchtigkeit aus Tsamma-Melonen oder Wurzeln bezieht), macht die Kalahari zu einem Wunderwerk der Evolution. Ökologie K7 — Trockensavannen und evolutionäre Anpassung.",
+      "factsAdvanced": [
+        "Die roten Sanddünen der Kalahari erhalten ihre intensive Farbe durch oxidiertes Eisen.",
+        "Sogenannte 'Schwarzmähnenlöwen' der Kalahari sind deutlich größer als ihre Artgenossen im Norden.",
+        "Die enormen Nester der Siedelweber können so schwer werden, dass ganze Bäume zusammenbrechen.",
+        "Gemsböcke (Oryx) und Springböcke gewinnen einen Großteil ihres Wassers aus Wüstenmelonen.",
+        "Die Region ist die traditionelle Heimat der San, die jahrtausendelang als Jäger und Sammler hier lebten.",
+        "Große Teile der namibischen Kalahari werden heute als kommerzielle Wild- oder Rinderfarmen genutzt."
+      ]
+    },
+    {
+      "id": "namibia-fish-river-animal-habitat-life-v2",
+      "descriptionAdvanced": "Der Fish River Canyon Park umschließt den zweitgrößten Canyon der Erde und ist ein Ort der geologischen Extreme. Eingegraben in das heiße, aride Gestein des namibischen Südens, ist die gewaltige Schlucht ein herausfordernder Lebensraum. Im Sommer klettern die Temperaturen im Canyon-Boden regelmäßig auf tödliche 50 Grad Celsius. Die in der Tiefe zurückbleibenden Tümpel des meist trockenen Fischflusses sind in diesen Monaten essenzielle Lebensadern für Hartmann-Bergzebras, Klippspringer, Paviane und eine isolierte Population wilder Strauße. In den kleinen Wassertümpeln überleben sogar Fische (wie der Wels), die monatelang in der Hitze ausharren, bis der Fluss nach Regenfällen wieder zu einer reißenden Strömung anschwillt. Biologie K7 — Überleben in extremen geologischen Canyons.",
+      "factsAdvanced": [
+        "Der Fischfluss-Canyon ist 160 Kilometer lang, bis zu 27 km breit und fast 550 Meter tief.",
+        "Temperaturen im Canyonboden können im Dezember unerträgliche 50 °C erreichen.",
+        "In den beständigen Pools des Flusses leben isolierte Fischarten wie Welse und Gelbfische.",
+        "Hartmann-Bergzebras sind die auffälligsten und häufigsten Säugetiere an den Steilhängen.",
+        "Der Canyon beherbergt endemische Sukkulenten wie die hochgiftige Giftboom-Pflanze (Euphorbia virosa).",
+        "Der Ai-Ais Richtersveld Transfrontier Park schließt das Gebiet grenzüberschreitend mit Südafrika zusammen."
+      ]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "descriptionAdvanced": "Das Agrarzentrum Mariental, in der tiefen Halbwüste der Hardap-Region gelegen, ist die landesweite Hauptstadt zweier völlig unterschiedlicher landwirtschaftlicher Schwerpunkte. Zum einen ist es das Herz der namibischen Karakulschaf-Zucht. Diese Schafe ('Das schwarze Gold Namibias') wurden vor über einem Jahrhundert aus Zentralasien importiert und liefern in der kargen Umgebung luxuriöse Persianerfelle ('Swakara'). Zum anderen ermöglicht das reichliche Wasser des nahen Hardap-Damm-Systems rund um die Stadt intensivsten Ackerbau im Rahmen des Hardap Irrigation Schemes. Der krasse Kontrast zwischen den dürren Buschfeldern der Schafe und den saftig grünen Bewässerungsfarmen (für Luzerne und Mais) ist das Markenzeichen dieser florierenden landwirtschaftlichen Enklave. Wirtschaft K6 — Luxusgüter-Export und Bewässerungswirtschaft.",
+      "factsAdvanced": [
+        "Mariental gilt als das Zentrum der weltbekannten Swakara-Pelzproduktion (Karakulschafe).",
+        "Die Region beherbergt eine der wenigen kommerziellen Straußenfarm-Industrien Namibias.",
+        "Das Hardap-Staudamm-Bewässerungssystem speist mehr als 2.000 Hektar intensiv genutztes Ackerland.",
+        "Mariental wurde in den Jahren 2000 und 2006 durch Dammöffnungen schwer überschwemmt.",
+        "Luzerne wird hier extrem erfolgreich angebaut und in das gesamte trockene Südnamibia verkauft.",
+        "Der starke Kontrast zwischen Wüstenklima und Wasserverfügbarkeit prägt die lokale Agrarstruktur."
+      ]
+    },
+    {
+      "id": "namibia-outjo-agriculture-life-v2",
+      "descriptionAdvanced": "Das Landwirtschaftsgebiet Outjo bildet eine kritische Pufferzone zwischen den intensiv genutzten kommerziellen Farmen Zentralnamibias und den großen Naturschutzgebieten im Norden. Die Gegend ist klassisches 'Rinderland', geprägt von weiten Mopane-Wäldern und Akaziensavannen, die eine dichte, nährstoffreiche Buschweide (Browsing) bieten. Da Outjo geografisch nahe am Etosha-Nationalpark liegt, stehen die Landwirte hier jedoch an der vordersten Front des Mensch-Wildtier-Konflikts. Zäune brechende Elefantenherden oder Löwen, die Rinder reißen, sind eine ständige finanzielle Bedrohung. Aus diesem Grund haben viele Farmer in der Outjo-Region von der reinen Viehzucht auf Wildfarmen ('Game Farming') und Jagdtourismus umgestellt, was ökonomisch oft ertragreicher und ökologisch nachhaltiger ist. Landwirtschaft K8 — Der Übergang zum Game Farming.",
+      "factsAdvanced": [
+        "Outjo verzeichnet regelmäßig massive Probleme mit Wildtieren, die aus dem nahen Etosha-Park ausbrechen.",
+        "Viele traditionelle Rinderfarmen wurden erfolgreich in lukrative Wild- und Jagdfarmen umgewandelt.",
+        "Die Mopane-Bäume der Region bieten in extremen Dürreperioden wichtiges Futter für Wildtiere.",
+        "Die Region verfügt über ausgezeichnete Karstgrundwasser-Reserven zur Versorgung der Tiere.",
+        "Geparde und Leoparden gehören zu den häufigsten Bedrohungen für junge Kälber auf den Farmen.",
+        "Der Wildtiertourismus generiert heute oft mehr Einkommen für die Farmer als die Rindfleischproduktion."
+      ]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "descriptionAdvanced": "Die Agrarregion um Rundu in der Kavango-Ost-Region bildet den dichtesten und produktivsten Streifen landwirtschaftlicher Aktivität im nördlichen Namibia. Das Überleben und die Wirtschaft sind hier komplett an den Verlauf des mächtigen Kavango-Flusses gekoppelt. Zehntausende Kleinbauern betreiben entlang des Flusses Subsistenzwirtschaft und bauen Mahangu (Hirse) als Hauptnahrungsquelle an. Gleichzeitig betreibt die Regierung große kommerzielle Bewässerungsprojekte ('Green Schemes' wie Uvhungu-Vhungu), die riesige Mengen Weizen, Mais und Gemüse erzeugen, um das Land unabhängiger von Importen zu machen. Die Region leidet jedoch unter extremer Bodendegradation durch Überweidung, Abholzung und der traditionellen, jedoch schädlichen Brandrodung ('Slash-and-Burn'). Geografie K7 — Ökologische Folgen dichter Flussbesiedlung.",
+      "factsAdvanced": [
+        "Die Mehrheit der lokalen Bevölkerung betreibt Subsistenzwirtschaft entlang des Kavango-Flusses.",
+        "Mahangu (Perlhirse) ist hier aufgrund seiner Dürretoleranz das primäre Anbauprodukt.",
+        "Die Regierung unterhält mehrere riesige Bewässerungsprojekte (Green Schemes) nahe Rundu.",
+        "Bodendegradation durch Überweidung und traditionelle Brandrodung ist ein massives Problem.",
+        "Im Uvhungu-Vhungu Projekt wird neben Getreide auch eine kommerzielle Molkerei betrieben.",
+        "Das Holzschlagen zur Gewinnung von Brennholz bedroht die verbliebenen Waldgebiete stark."
+      ]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "descriptionAdvanced": "Der Sesriem Canyon am Rande des Sossusvlei ist eine der spannendsten Landmarken, um Kindern die extreme Kraft der Natur zu veranschaulichen. Die enge, tiefe Schlucht wurde vor Millionen von Jahren vom Tsauchab-Fluss tief in das lokale Konglomerat-Gestein gefressen. Der Name 'Sesriem' (Afrikaans für 'sechs Riemen') erinnert an die frühen Pioniere, die sechs aneinandergeknotete Lederriemen brauchten, um Eimer herabzulassen und dringend benötigtes Wasser aus den tiefen Pools der Schlucht zu schöpfen. Für Familien bietet der Canyon heute ein schattiges Labyrinth aus gewundenen Felswänden, in dem man tief nach unten klettern, kleine Wasserpfützen entdecken und die deutlichen geologischen Schichten bewundern kann – ein echtes geologisches Abenteuer im Kleinformat. Geografie K5 — Geologische Erosion und Entdeckungsgeschichte.",
+      "factsAdvanced": [
+        "Der Canyon ist an manchen Stellen bis zu 30 Meter tief in das Gestein eingeschnitten.",
+        "Er ist etwa einen Kilometer lang und an manchen Passagen nur zwei Meter breit.",
+        "Der Name stammt von den frühen Siedlern, die sechs Lederriemen für den Wassereimer benötigten.",
+        "Nach seltenen, starken Regenfällen im Naukluft-Gebirge füllt sich der Canyon blitzschnell mit Wasser.",
+        "Der Canyon besteht aus feinem, vom Tsauchab-Fluss abgelagertem Konglomeratgestein.",
+        "Er dient als ideales und schattiges Ausflugsziel auf dem Weg zu den massiven Dünen des Sossusvlei."
+      ]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "descriptionAdvanced": "Der Flamingopark (die Esplanade) an der Küste von Walvis Bay ist eines der farbenprächtigsten Naturschauspiele, das man als Familie in Namibia völlig kostenfrei erleben kann. Die ruhigen, flachen und extrem nährstoffreichen Gewässer der Walvis Bay Lagune sind eines der wichtigsten Feuchtgebiete im südlichen Afrika und ziehen Hunderttausende Vögel an. Die absoluten Superstars sind die massiven Schwärme von Zwerg- und Rosaflamingos, die direkt an der gepflasterten Promenade nach Algen und kleinen Krebstierchen im Schlamm filtern. Für Kinder ist es ein unvergessliches Erlebnis, das Schnattern der rosafarbenen Vögel zu hören und zu beobachten, wie Zehntausende Flamingos synchron den Kopf ins Wasser tauchen. Biologie K5 — Ramsar-Feuchtgebiete und Vogelzug.",
+      "factsAdvanced": [
+        "Die Walvis Bay Lagune ist ein international geschütztes Ramsar-Feuchtgebiet.",
+        "Sie beheimatet bis zu 80% der gesamten afrikanischen Zwergflamingo-Population.",
+        "Die intensive rosa Farbe der Flamingos stammt von karotinhaltigen Algen in ihrer Nahrung.",
+        "Zwergflamingos sind durch ihren tiefroten Schnabel von den helleren Rosaflamingos zu unterscheiden.",
+        "In den Sommermonaten können hier bis zu 250.000 Vögel verschiedenster Arten beobachtet werden.",
+        "Die Promenade ('Esplanade') ermöglicht es Besuchern, sich den Vögeln bis auf wenige Meter zu nähern."
+      ]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "descriptionAdvanced": "Tsumkwe, im extrem isolierten Nordosten ('Bushmanland') gelegen, ist das inoffizielle kulturelle Zentrum der Ju/'hoansi-San-Gemeinschaft. Für Kinder und Familien bietet ein Besuch hier eine der intensivsten Lernerfahrungen über die ältesten Bewohner des südlichen Afrikas. In speziellen 'Lebenden Museen' oder bei Dorfbesuchen können Kinder hautnah erleben, wie die San traditionell das Überleben im Busch meistern. Es wird eindrucksvoll demonstriert, wie man mit zwei Stöcken Feuer macht, Tierfährten liest, Wasserwurzeln ausgräbt und traditionellen Schmuck aus Straußeneierschalen fertigt. Diese Besuche tragen direkt zur Stützung der San-Wirtschaft bei und bewahren ein Jahrtausende altes Wissen, das sonst im modernen Zeitalter unwiederbringlich verloren ginge. Kulturanthropologie K6 — Traditionelles Überleben der San-Jäger und Sammler.",
+      "factsAdvanced": [
+        "Tsumkwe ist das administrative Herz der isolierten Nyae-Nyae-Hegegemeinschaft (Conservancy).",
+        "Die Ju/'hoansi San sind eines der ältesten indigenen Völker der gesamten Erde.",
+        "Die Region Tsumkwe verfügt über massive natürliche Baobab-Haine (Affenbrotbäume).",
+        "Einnahmen aus dem Kulturtourismus fließen direkt in die verarmten lokalen Gemeinschaften.",
+        "Besucher lernen dort das traditionelle Ausgraben von wasserspeichernden Knollen (Bi-Wurzel).",
+        "Das Gebiet grenzt direkt an den unberührten Khaudum-Nationalpark an."
+      ]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "descriptionAdvanced": "Lüderitz ist wie ein begehbares, windgepeitschtes Märchenbuch aus der Kolonialzeit, das besonders für jüngere Entdecker faszinierend ist. Die Straßen der Stadt sind gesäumt von skurrilen, bunten Gebäuden mit kleinen Erkern, verzierten Giebeln und steilen Dächern, die wirken, als wären sie direkt aus einem norddeutschen Dorf des frühen 20. Jahrhunderts in die afrikanische Wüste teleportiert worden. Die raue Umgebung mit oft beißendem Sandsturm und die in Sichtweite liegende Geisterstadt Kolmanskuppe, in der Kinder durch halbmeterhohen Sand in verlassenen Wohnzimmern wandern können, machen die Geschichte des Diamantenfiebers und der ersten Pioniere lebendig und physisch greifbar. Geschichte K5 — Leben in Wüstenstädten und koloniale Architektur.",
+      "factsAdvanced": [
+        "Viele Gebäude in Lüderitz weisen die architektonischen Merkmale des deutschen Jugendstils auf.",
+        "Die Stadt wurde 1883 gegründet und ist damit die erste deutsche Siedlung im heutigen Namibia.",
+        "Lüderitz ist aufgrund des eiskalten Meeres und starker Winde oft in dichten Nebel gehüllt.",
+        "In der Nähe können Kinder die berühmten Wüstenpferde (Namib Desert Horses) beobachten.",
+        "Straßenschilder und Gebäude tragen hier noch immer ihre ursprünglichen deutschen Namen.",
+        "Die Stadt wurde buchstäblich direkt auf dem harten schwarzen Granitfelsen der Küste erbaut."
+      ]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "descriptionAdvanced": "Das Caprivi-Wildtiergebiet (heute Sambesi-Region) ist ein gewaltiger geografischer Riegel und die wasserreichste Zone in ganz Namibia. Eingegrenzt von mächtigen Flüssen wie dem Kwando, Linyanti, Chobe und Sambesi, weicht die typisch namibische Wüstenlandschaft hier dichten Sumpfwäldern und Flutebenen. Diese grüne Oase fungiert als essenzielle Brücke im grenzüberschreitenden KAZA-Naturpark, da hier tausende Elefanten und Büffel ungehindert zwischen Angola, Botswana, Namibia und Sambia wandern können. Die Gewässer wimmeln von Flusspferden und gewaltigen Krokodilen, während seltene wasserliebende Antilopen wie das Sitatunga in den undurchdringlichen Papyruswäldern Zuflucht finden. Ein wahres tropisches Paradies im sonst trockenen Land. Biologie K8 — Tropische Feuchtgebiete und Wildtierkorridore.",
+      "factsAdvanced": [
+        "Die Region wurde auf Drängen von Kanzler Caprivi 1890 an Deutsch-Südwestafrika angegliedert.",
+        "Die Region ist das unangefochtene Zentrum für Flusspferde und Krokodile in Namibia.",
+        "Der Caprivi-Zipfel verbindet Namibia mit dem Okavango-Delta in Botswana.",
+        "Hier findet sich die höchste Vogelvielfalt Namibias mit über 450 registrierten Arten.",
+        "In den Sommermonaten können große Teile der Landschaft wochenlang überschwemmt sein.",
+        "Die Region ist ein kritischer Korridor für die größte zusammenhängende Elefantenpopulation Afrikas."
+      ]
+    },
+    {
+      "id": "namibia-damaraland-animal-habitat-life-v2",
+      "descriptionAdvanced": "Das Damaraland im Nordwesten Namibias ist eine der dramatischsten und visuell atemberaubendsten Wildnisse des Landes. Ohne offizielle Nationalparkgrenzen ziehen sich rostige rote Granitformationen, alte Vulkankrater und trockene Flusstäler (wie der Huab und Hoanib) durch das offene Land. Das absolute Highlight dieser rauen Region sind die legendären, freilebenden Wüstenelefanten und Wüstenlöwen. Diese Tiere sind keine eigene Art, haben sich aber bemerkenswert an die extreme Trockenheit angepasst: Sie legen gewaltige Strecken auf der Suche nach Wasserlöchern zurück und zerstören dabei beim Fressen keine Bäume wie ihre Artgenossen in wasserreichen Gebieten. Sie überleben fast ausschließlich von der dichten Vegetation in den temporär gefluteten Riviere-Betten. Geografie K7 — Evolutionäre Anpassung großer Säugetiere in Extremgebieten.",
+      "factsAdvanced": [
+        "Das Damaraland ist kein Nationalpark, sondern besteht großteils aus kommunalen Hegegebieten (Conservancies).",
+        "Wüstenelefanten legen bei ihrer Nahrungssuche oft bis zu 70 Kilometer am Tag zurück.",
+        "Diese Elefanten haben im Vergleich zu anderen längere Beine und größere, flachere Fußsohlen entwickelt.",
+        "Die Region beherbergt auch die größte freilebende Population an vom Aussterben bedrohten Spitzmaulnashörnern.",
+        "Der Ugab- und Huab-Fluss (Trockenflüsse) sind die wichtigsten Lebensadern dieser Populationen.",
+        "Das felsige, extrem trockene Gebiet verzeichnet oft weniger als 100 mm Regen pro Jahr."
+      ]
+    },
+    {
+      "id": "namibia-spitzkoppe-kid-landmark-life-v2",
+      "descriptionAdvanced": "Die Spitzkoppe, oft als das 'Matterhorn Namibias' bezeichnet, ist ein gigantischer, kahler Granitberg, der fast 700 Meter majestätisch aus der umliegenden flachen Wüstenebene in der Erongo-Region aufragt. Für Familien und Kinder ist diese Region ein unglaublicher Abenteuerspielplatz. Die über Millionen Jahre durch Wind- und Witterung rund gewaschenen Granitblöcke, spektakuläre Felsbrücken (wie die bekannte Rock Bridge) und tiefe Höhlen laden zum Klettern und Entdecken ein. Zudem verbergen sich in vielen der Felsvorsprünge Jahrtausende alte Felszeichnungen der San (Buschleute). Besonders nachts ist das Zelten unter dem extrem klaren, sternenübersäten Himmel inmitten der massiven, bizarren Felsformationen ein unvergessliches Erlebnis für junge Entdecker. Geografie K5 — Geologische Verwitterung und Granit-Inselberge.",
+      "factsAdvanced": [
+        "Die Spitzkoppe ist ein sogenannter 'Inselberg', der vor etwa 130 Millionen Jahren durch Magma-Intrusion entstand.",
+        "Der höchste Gipfel der Groß-Spitzkoppe liegt auf exakt 1.728 Metern über dem Meeresspiegel.",
+        "Wegen der glatten und steilen Granitflanken gilt der Berg unter Alpinisten als extrem schwierig zu besteigen.",
+        "Die berühmte 'Felsbrücke' (Rock Arch) an der Spitzkoppe ist eines der meistfotografierten Motive Namibias.",
+        "Die Felsen rund um das Gebiet beherbergen über 37 verschiedene prähistorische San-Felskunst-Stätten.",
+        "Das Gebiet liegt isoliert in der Wüste, etwa 120 Kilometer von der Küstenstadt Swakopmund entfernt."
+      ]
+    }
+  ]
+}

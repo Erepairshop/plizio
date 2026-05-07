@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tongass-national-forest-nature-v2",
+      "descriptionAdvanced": "The Tongass National Forest in Alaska is the largest intact temperate rain forest in the world, covering 16.7 million acres across the Southeast Alaskan archipelago. This sprawling ecosystem is defined by immense old-growth cedar, spruce, and hemlock forests that sequester vast amounts of carbon, making it a critical player in global climate stability. The forest is home to an extraordinary abundance of wildlife, including the highest concentration of bald eagles in the US and thriving populations of salmon, grizzly bears, and wolves. The Tongass is a fundamental site for studying old-growth forest dynamics and sustainable forestry, representing an irreplaceable, giant wilderness that has largely escaped the industrial transformation seen elsewhere in the United States. Biologie K8 — Temperate rainforest ecology and carbon sequestration.",
+      "factsAdvanced": [
+        "Largest intact temperate rain forest remaining in the world.",
+        "Covers 16.7 million acres across the Southeast Alaskan islands.",
+        "Immense old-growth forests act as a critical global carbon sink.",
+        "Supports the highest concentration of bald eagles in the United States.",
+        "Fundamental hub for wild salmon populations and predator species.",
+        "Irreplaceable wilderness that has escaped massive industrial transformation."
+      ]
+    },
+    {
+      "id": "gulf-of-mexico-nature-v2",
+      "descriptionAdvanced": "The Gulf of Mexico is a vast, semi-enclosed oceanic basin bordered by the United States, Mexico, and Cuba, serving as a primary driver for the regional climate and economic vitality of the American South. This ocean basin supports exceptionally complex ecosystems, ranging from coastal marshes and mangrove forests to deep-water coral reefs, providing critical habitat for marine species like sea turtles, dolphins, and red snapper. The Gulf is also the epicenter of the American offshore oil and gas industry, creating a complex, ongoing tension between industrial energy production and the necessity of marine ecosystem protection. Today, it stands as a critical site for studying coastal resilience, oceanic pollution, and the future of sustainable maritime energy and conservation management. Biologie K7 — Oceanic ecosystem resilience and energy-marine conflict.",
+      "factsAdvanced": [
+        "Vast semi-enclosed ocean basin critical to the American South's economy.",
+        "Supports complex biomes from coastal mangrove forests to deep-water reefs.",
+        "Provides habitat for diverse species, including sea turtles and red snapper.",
+        "Epicenter of American offshore oil and gas production industry.",
+        "Critical study site for coastal resilience and oceanic pollution management.",
+        "Stands as a nexus of industrial energy needs and marine habitat protection."
+      ]
+    },
+    {
+      "id": "mount-desert-island-nature-v2",
+      "descriptionAdvanced": "Mount Desert Island, located off the coast of Maine, is an iconic Atlantic landscape shaped by millennia of glacial carving and tectonic coastal processes. The island’s unique geology—featuring granite-capped mountains rising directly from the Atlantic ocean—has made it a premier site for studying North Atlantic coastal evolution and temperate island biology. Acadia National Park, which covers a significant portion of the island, preserves this rugged environment, offering a critical refuge for biodiversity and a landmark of 19th-century wilderness conservation history. Today, Mount Desert Island is a world-class destination that highlights the delicate, striking beauty of the North Atlantic coast, serving as a model for public access and the ongoing efforts to protect fragile island ecosystems. Geografie K7 — Glacial coastal formation and island biodiversity.",
+      "factsAdvanced": [
+        "Iconic North Atlantic island shaped by glacial carving and tectonic processes.",
+        "Features distinctive granite mountains rising directly from the ocean.",
+        "Home to Acadia National Park, a landmark of wilderness conservation.",
+        "Premier site for studying North Atlantic coastal evolution and island biology.",
+        "Supports diverse flora and fauna within a rugged, preserved landscape.",
+        "Celebrated model for balancing public land access with ecosystem protection."
+      ]
+    }
+  ]
+}

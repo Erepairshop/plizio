@@ -1,0 +1,250 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dover-cities-v2",
+      "descriptionAdvanced": "Dover is the capital and second-largest city of Delaware, located centrally within the state along the St. Jones River. The city was founded in 1683 by William Penn, specifically designated to serve as the court town for newly established Kent County. Dover's economy is heavily anchored by state and county government operations, as well as a significant military presence at the nearby Dover Air Force Base, which operates a massive aerial port facility. Furthermore, manufacturing, particularly in consumer products and food processing, plays a substantial role. The city's historic Green was the site where Delaware delegates ratified the United States Constitution in 1787, making Delaware the 'First State'. Geography K7 — state capitals and military geoeconomics.",
+      "factsAdvanced": [
+        "Dover Air Force Base hosts the Department of Defense's largest aerial port and the massive Charles C. Carson Center for Mortuary Affairs.",
+        "The city was named by William Penn after Dover, England.",
+        "Delaware was the first state to ratify the US Constitution, an event that occurred at a tavern on the Dover Green.",
+        "The historic Dover Green was originally laid out in 1717 following Penn's initial orders.",
+        "Dover hosts major NASCAR races at the Dover Motor Speedway, drawing massive regional crowds.",
+        "The city is a significant center for Kraft Foods, operating a massive manufacturing plant in the area."
+      ]
+    },
+    {
+      "id": "augusta-me-cities-v2",
+      "descriptionAdvanced": "Augusta is the capital of Maine, located on the Kennebec River at the head of tide, historically making it a crucial inland port. Established originally as a trading post by Plymouth Colony settlers in 1628, the city later grew into a significant center for lumbering and manufacturing during the 19th century, utilizing the river's water power. Today, Augusta's economy is overwhelmingly dominated by state government operations, healthcare, and regional retail services. The city is the third-least populous state capital in the United States, reflecting Maine's heavily rural demographics. Augusta's landscape features the prominently domed Maine State House and the historic Fort Western, the oldest surviving wooden fort in the country. Geography K7 — river settlements and state capitals.",
+      "factsAdvanced": [
+        "Augusta is the third-least populous state capital in the United States, with fewer than 20,000 residents.",
+        "The Maine State House was designed by Charles Bulfinch, the same architect who designed the US Capitol.",
+        "Fort Western in Augusta was built in 1754 and is the oldest surviving wooden fort in the United States.",
+        "The Kennebec River was historically used to transport massive quantities of timber from northern forests to the coast.",
+        "Augusta was officially chosen as the state capital in 1827, replacing Portland.",
+        "The city serves as a primary commercial and medical hub for the heavily rural surrounding counties."
+      ]
+    },
+    {
+      "id": "concord-nh-cities-v2",
+      "descriptionAdvanced": "Concord is the capital city of New Hampshire, situated centrally within the state along the Merrimack River. Originally established as a plantation known as Penacook in 1725, it was strategically chosen as the state capital in 1808 due to its central location. Historically, Concord gained international fame during the 19th century for the massive production of 'Concord coaches', robust stagecoaches utilized extensively during American westward expansion. The city was also renowned for its high-quality granite quarries, which supplied stone for the Library of Congress. Today, Concord's economy relies heavily on state government, healthcare, and insurance, while its historic downtown retains much of its 19th-century red-brick commercial architecture. Geography K7 — state capitals and historical manufacturing.",
+      "factsAdvanced": [
+        "Concord coaches, manufactured in the city, were the iconic stagecoaches used by Wells Fargo and others in the Old West.",
+        "The New Hampshire State House in Concord is the oldest state capitol building in which the legislature still meets in its original chambers.",
+        "Concord granite was extensively quarried and used in the construction of the Library of Congress in Washington, D.C.",
+        "The city was originally established under the name 'Penacook' before being renamed 'Rumford', and finally 'Concord'.",
+        "Concord is the location of the Christa McAuliffe Planetarium, honoring the teacher who perished in the Challenger disaster.",
+        "The city's historic Main Street was completely redesigned in recent years to enhance pedestrian accessibility and aesthetics."
+      ]
+    },
+    {
+      "id": "montpelier-cities-v2",
+      "descriptionAdvanced": "Montpelier is the capital of Vermont, situated in the Green Mountains along the Winooski River. It is uniquely distinguished as the least populous state capital in the United States, functioning primarily as a small, tight-knit administrative and commercial center for the surrounding rural region. Founded in the late 18th century, Montpelier's economy is almost entirely driven by state government employment and the insurance industry; it hosts the headquarters of the massive National Life Group. The city's downtown is remarkably preserved, lacking almost entirely in large chain stores and instead featuring vibrant independent businesses. The landscape is dominated by the Vermont State House, notable for its bright gold-leaf dome set against the forested hills. Geography K7 — mountain capitals and rural demographics.",
+      "factsAdvanced": [
+        "Montpelier is the least populous state capital in the United States, with a population roughly around 8,000.",
+        "The city is the only US state capital that does not possess a McDonald's restaurant.",
+        "The Vermont State House features a striking dome covered entirely in real 23.75-karat gold leaf.",
+        "Montpelier is extremely vulnerable to seasonal flooding due to its location in the Winooski River valley.",
+        "The city was named after Montpelier, France, reflecting the strong American enthusiasm for the French following the Revolutionary War.",
+        "The National Life Group, a massive financial services company, was founded in Montpelier in 1848 and remains headquartered there."
+      ]
+    },
+    {
+      "id": "helena-cities-v2",
+      "descriptionAdvanced": "Helena is the capital of Montana, situated in a high-elevation valley near the eastern foothills of the Rocky Mountains. The city was founded explosively in 1864 after four prospectors, the 'Four Georgians', discovered massive gold deposits in a local creek, prompting a massive rush. The incredible wealth generated during this period led to the rapid construction of elaborate Victorian mansions, heavily influencing the city's historic architectural character. Today, the extraction industries have largely subsided, and Helena's economy is solidly based on state and federal government operations, healthcare, and regional retail. The city serves as a major recreational gateway to the surrounding mountainous wilderness and numerous nearby reservoirs. History K8 — gold rushes and western state capitals.",
+      "factsAdvanced": [
+        "Helena was founded entirely due to the massive 1864 gold discovery at Last Chance Gulch.",
+        "By the late 19th century, Helena boasted more millionaires per capita than any other city in the world.",
+        "The Montana State Capitol features an imposing neoclassical design and a massive copper dome.",
+        "The city sits at an elevation of 3,875 feet, nestled closely against the towering Mount Helena.",
+        "Helena's historic South-Central neighborhood contains a massive concentration of incredibly preserved 19th-century mansions.",
+        "The Cathedral of Saint Helena is a towering, twin-spired Gothic Revival church modeled heavily after the Votivkirche in Vienna."
+      ]
+    },
+    {
+      "id": "cheyenne-cities-v2",
+      "descriptionAdvanced": "Cheyenne is the capital and most populous city of Wyoming, located in the southeastern corner of the state on the high plains near the Front Range of the Rocky Mountains. The city's origins are intrinsically linked to the construction of the Union Pacific Railroad in 1867, quickly transforming it into a major terminal and supply hub for the region's massive cattle ranching industry. Cheyenne retains a fierce pride in its Western heritage, most visibly demonstrated during the annual Cheyenne Frontier Days, one of the largest outdoor rodeos and Western celebrations in the world. Today, its economy relies heavily on government employment, a massive Air Force presence at F.E. Warren Air Force Base, and the expanding data center industry, which utilizes the area's naturally cool climate. Geography K7 — railroad towns and High Plains environments.",
+      "factsAdvanced": [
+        "Cheyenne was famously dubbed the 'Magic City of the Plains' due to its explosive, rapid growth following the railroad's arrival.",
+        "Cheyenne Frontier Days, held annually since 1897, is often billed as the 'World's Largest Outdoor Rodeo and Western Celebration'.",
+        "F.E. Warren Air Force Base in Cheyenne is a major installation controlling intercontinental ballistic missiles (ICBMs).",
+        "The Wyoming State Capitol in Cheyenne features a massive dome entirely covered in real gold leaf.",
+        "The city sits at an elevation of 6,062 feet, contributing to its generally cool, semi-arid climate.",
+        "Cheyenne's historical Union Pacific Depot is a massive Richardsonian Romanesque structure built in 1887."
+      ]
+    },
+    {
+      "id": "bismarck-cities-v2",
+      "descriptionAdvanced": "Bismarck is the capital of North Dakota, located on the eastern bank of the Missouri River in the central part of the state. Founded in 1872 as a critical crossing point for the Northern Pacific Railway, the city was strategically named after German Chancellor Otto von Bismarck in an attempt to attract German immigrant settlers and investment. Today, Bismarck operates as the primary economic hub for south-central North Dakota, heavily supported by state government administration and healthcare. Furthermore, its location places it on the periphery of the state's massive agricultural and energy-producing regions, particularly the nearby coal fields and the massive Bakken shale oil formation to the west. The city features a sprawling park system along the Missouri River. Geography K7 — Great Plains settlements and river crossings.",
+      "factsAdvanced": [
+        "Bismarck was specifically named after the German Chancellor to encourage German investment in the Northern Pacific Railway.",
+        "The North Dakota State Capitol is an Art Deco skyscraper standing 241 feet tall, dominating the city skyline.",
+        "The city is a major regional center for healthcare, hosting two massive, competing medical centers.",
+        "Bismarck is located directly across the Missouri River from Mandan, forming the core of the metropolitan area.",
+        "The historic Lewis and Clark expedition spent the winter of 1804-1805 near present-day Bismarck.",
+        "The city experiences extreme continental weather, with very cold winters and hot, stormy summers."
+      ]
+    },
+    {
+      "id": "pierre-cities-v2",
+      "descriptionAdvanced": "Pierre is the capital city of South Dakota, situated on the eastern bank of the Missouri River in the center of the state. It is the second-least populous state capital in the United States, functioning primarily as an administrative center and regional hub for the expansive surrounding agricultural lands. Pierre's origins date back to its founding in 1880 as a settlement opposite the historic Fort Pierre Chouteau trading post. Today, its economy is almost entirely dependent on state government operations. The city is also a major destination for outdoor recreation, notably fishing and hunting, due to its immediate proximity to Lake Oahe, a massive reservoir created by the Oahe Dam just north of the city. Geography K7 — small state capitals and river reservoirs.",
+      "factsAdvanced": [
+        "Pierre is one of the few state capitals in the contiguous United States not served by an interstate highway.",
+        "It is the second-least populous state capital, with a population hovering around 14,000 residents.",
+        "The Oahe Dam, located just north of Pierre, creates Lake Oahe, one of the largest artificial reservoirs in the US.",
+        "The South Dakota State Capitol in Pierre features a heavily modified neoclassical design completed in 1910.",
+        "The city was named after Pierre Chouteau Jr., a prominent American fur trader of French Creole descent.",
+        "Pierre serves as a major regional center for upland bird hunting, particularly for ring-necked pheasants."
+      ]
+    },
+    {
+      "id": "springfield-il-cities-v2",
+      "descriptionAdvanced": "Springfield is the capital of Illinois, located centrally within the state surrounded by highly productive agricultural land. The city's identity is inextricably linked to Abraham Lincoln, who lived there for 24 years before becoming the 16th President of the United States. Consequently, Springfield is a massive hub for historical tourism, featuring the highly visited Abraham Lincoln Presidential Library and Museum, his preserved home, and his tomb at Oak Ridge Cemetery. Beyond tourism, Springfield's economy is solidly anchored by state government administration and healthcare, serving as a primary medical center for central Illinois. The city is also historically significant in the context of early 20th-century racial violence, as the site of the tragic 1908 Springfield Race Riot. History K8 — Abraham Lincoln and the Civil War era.",
+      "factsAdvanced": [
+        "Springfield became the capital of Illinois in 1837, largely due to the vigorous political efforts of Abraham Lincoln.",
+        "The Abraham Lincoln Presidential Library and Museum is one of the most visited presidential libraries in the nation.",
+        "The tragic 1908 Springfield Race Riot was a major catalyst for the founding of the NAACP.",
+        "The current Illinois State Capitol, the sixth in the state's history, features a massive dome that is taller than the US Capitol dome.",
+        "Springfield is situated along the historic Route 66, which passed directly through the city.",
+        "The city is famously purported to be the origin of the 'corn dog', a popular American culinary item."
+      ]
+    },
+    {
+      "id": "jefferson-city-cities-v2",
+      "descriptionAdvanced": "Jefferson City, colloquially known as 'Jeff City', is the capital of Missouri, strategically located centrally within the state on the southern bank of the Missouri River. Specifically selected as the capital site in 1821 while still an undeveloped wilderness, the city was named in honor of Thomas Jefferson. Its economy is heavily dependent on state government operations, which are the overwhelming primary source of employment. The city's skyline is dominated by the Missouri State Capitol, an impressive domed structure perched high on a bluff overlooking the river. Historically, Jefferson City was also defined by the presence of the massive Missouri State Penitentiary, once the largest maximum-security prison in the US, which now serves as a historical tourist attraction. Geography K7 — planned capitals and river topography.",
+      "factsAdvanced": [
+        "Jefferson City was specifically planned and built to serve as the capital, replacing the temporary capital of St. Charles.",
+        "The Missouri State Capitol building features a distinctive dome and sits prominently on a bluff above the Missouri River.",
+        "The Missouri State Penitentiary, operating from 1836 to 2004, was once termed the 'bloodiest 47 acres in America' by Time magazine.",
+        "The city is one of only four state capitals not served by a major interstate highway.",
+        "Jefferson City's Lewis and Clark Monument at the Trailhead Plaza commemorates the expedition's passage through the area in 1804.",
+        "The local economy is heavily stabilized by state administration, insulating it from major industrial fluctuations."
+      ]
+    },
+    {
+      "id": "frankfort-cities-v2",
+      "descriptionAdvanced": "Frankfort is the capital city of Kentucky, uniquely situated in a deep, scenic valley along the Kentucky River in the state's central Bluegrass region. Chosen as the capital in 1792 shortly after statehood, Frankfort is one of the smaller state capitals in the country, maintaining a distinct historic and small-town charm. The local economy is almost entirely anchored by state government operations, which provide the vast majority of employment. Furthermore, the city is steeped in Kentucky's famous bourbon heritage; it is home to the massive Buffalo Trace Distillery, the oldest continuously operating distillery in the United States, which heavily drives local tourism. The city features both a historic Old State Capitol and a modern New State Capitol building. Geography K7 — river valleys and specialized regional production.",
+      "factsAdvanced": [
+        "Frankfort is the fifth-smallest state capital in the United States by population.",
+        "The Buffalo Trace Distillery in Frankfort is recognized as a National Historic Landmark due to its continuous operation.",
+        "The Kentucky State Capitol features a striking dome modeled directly after the Hôtel des Invalides in Paris.",
+        "Daniel Boone, the famous American frontiersman, is purportedly buried in the Frankfort Cemetery.",
+        "The city is physically bisected by the Kentucky River, leading to distinct 'North Frankfort' and 'South Frankfort' sections.",
+        "Frankfort was heavily impacted by catastrophic river flooding in 1937, prompting major flood control projects."
+      ]
+    },
+    {
+      "id": "lansing-cities-v2",
+      "descriptionAdvanced": "Lansing is the capital city of Michigan, located in the central part of the state, primarily within Ingham County. The site was selected as the capital in 1847 out of frustration with Detroit, transitioning from a small wilderness settlement into a major political hub. During the 20th century, Lansing evolved into a significant industrial center, inextricably linked to the birth of the American automobile industry as the historic home of Olds Motor Vehicle Company, founded by Ransom E. Olds. While traditional manufacturing has seen relative decline, Lansing retains a strong automotive presence with massive General Motors assembly plants. The economy is further supported by state government and the massive adjacent presence of Michigan State University in neighboring East Lansing. Geography K7 — state capitals and automotive manufacturing.",
+      "factsAdvanced": [
+        "Lansing became the state capital in 1847 strictly as a compromise location to move power away from Detroit.",
+        "Ransom E. Olds founded Olds Motor Vehicle Company (Oldsmobile) in Lansing in 1897.",
+        "The Michigan State Capitol building features a distinct cast-iron dome and was dedicated in 1879.",
+        "General Motors remains a massive employer in the region, operating the Lansing Delta Township Assembly plant.",
+        "The city is physically located at the confluence of the Grand River and the Red Cedar River.",
+        "Neighboring East Lansing is home to Michigan State University, which profoundly influences Lansing's economy and culture."
+      ]
+    },
+    {
+      "id": "madison-wi-cities-v2",
+      "descriptionAdvanced": "Madison is the capital city of Wisconsin, famously situated on an isthmus between Lake Mendota and Lake Monona. This unique geography provides the city with a striking natural aesthetic and a vibrant outdoor recreational culture. Madison's identity and economy are deeply intertwined with two massive institutions: the state government, headquartered in the visually dominant Wisconsin State Capitol, and the sprawling University of Wisconsin–Madison, a premier public research university. This combination fosters a highly educated workforce and drives a robust, diverse economy characterized by significant sectors in biotechnology, health systems, and high-technology software. Madison consistently ranks highly in national metrics for quality of life, environmental sustainability, and bicycle infrastructure. Geography K7 — isthmuses and university-driven economies.",
+      "factsAdvanced": [
+        "Madison is uniquely situated on a narrow isthmus between two major glacially formed lakes.",
+        "The Wisconsin State Capitol dome is the largest by volume in the United States and the only granite dome.",
+        "The University of Wisconsin–Madison was founded in 1848 concurrently with Wisconsin achieving statehood.",
+        "Madison is a massive hub for the healthcare software industry, anchored by the corporate headquarters of Epic Systems in a nearby suburb.",
+        "The city operates an extensive, internationally recognized network of bicycle paths and dedicated lanes.",
+        "Madison was specifically designed and surveyed to be the capital before the Wisconsin Territory had even become a state."
+      ]
+    },
+    {
+      "id": "tallahassee-cities-v2",
+      "descriptionAdvanced": "Tallahassee is the capital city of Florida, located in the state's northern Panhandle region within the Red Hills. Historically, the site was chosen as the capital in 1824 because it was the midway point between St. Augustine and Pensacola, the two principal cities of the territory at the time. Tallahassee is heavily defined by its massive educational and administrative institutions; it is home to Florida State University and Florida A&M University, which, combined with the state government, are the overwhelming economic drivers of the city. The local geography is distinct from much of Florida, featuring rolling hills, extensive canopy roads lined with ancient live oaks, and a cooler climate that experiences distinct seasons. Geography K7 — regional capitals and university towns.",
+      "factsAdvanced": [
+        "Tallahassee was selected as the capital specifically because it was exactly halfway between the state's two largest colonial cities.",
+        "The city's topography is defined by the Red Hills region, featuring rolling terrain completely unlike the rest of Florida.",
+        "Tallahassee is home to Florida State University, a massive public research institution founded in 1851.",
+        "Florida A&M University, located in Tallahassee, is one of the largest and most prominent Historically Black Universities (HBCUs) in the US.",
+        "The city features extensive 'canopy roads' completely arched over by enormous, Spanish moss-draped live oak trees.",
+        "Tallahassee was the only Confederate state capital east of the Mississippi River not captured by Union forces during the Civil War."
+      ]
+    },
+    {
+      "id": "charleston-wv-cities-v2",
+      "descriptionAdvanced": "Charleston is the capital and most populous city of West Virginia, located at the confluence of the Elk and Kanawha Rivers in the western foothills of the Appalachian Mountains. Historically, the city's early economy was built on the extraction of salt, and later heavily transitioned to coal, timber, and the massive production of chemicals, fueled by the region's abundant natural gas and brine deposits. While heavy industry and chemical manufacturing remain present along the Kanawha River Valley, the modern economy of Charleston is heavily reliant on state government operations, healthcare, and education. The city features the West Virginia State Capitol, renowned for its brilliant 293-foot gold dome, and serves as a cultural hub for the mountainous state. Geography K7 — Appalachian settlements and resource extraction.",
+      "factsAdvanced": [
+        "The West Virginia State Capitol building features a massive dome that is entirely covered in 23-karat gold leaf.",
+        "Charleston's early 19th-century economy was almost entirely driven by the massive commercial extraction of salt.",
+        "During the 20th century, the Kanawha River Valley became a massive global center for the chemical manufacturing industry.",
+        "The city became the permanent state capital in 1885, following a long dispute and public vote against Wheeling.",
+        "Charleston sits entirely within a relatively narrow valley in the rugged Appalachian Mountains.",
+        "The city hosts the annual Vandalia Gathering, a major festival celebrating traditional Appalachian culture and music."
+      ]
+    },
+    {
+      "id": "salem-or-cities-v2",
+      "descriptionAdvanced": "Salem is the capital city of Oregon, centrally located in the incredibly fertile Willamette Valley along the Willamette River. Historically, Salem functioned as a massive agricultural processing hub, heavily reliant on the valley's diverse output, particularly fruit, berries, and hops. While food processing remains a noticeable component of the local economy, modern Salem is overwhelmingly driven by state government administration, which is the city's largest employer by a vast margin. The city also acts as a major regional center for healthcare and retail. The landscape is dominated by the Oregon State Capitol, which features a distinctive modernist design topped with a gold-leaf statue known as the 'Oregon Pioneer'. Geography K7 — agricultural valleys and state administration.",
+      "factsAdvanced": [
+        "Salem is located in the heart of the Willamette Valley, one of the most agriculturally productive regions in the world.",
+        "The Oregon State Capitol features a striking Art Deco-influenced design, replacing two earlier capitols that burned down.",
+        "The 'Oregon Pioneer', a 22-foot gold-leaf statue, sits prominently atop the state capitol building.",
+        "Salem was historically nicknamed the 'Cherry City' due to the massive importance of the local cherry-growing industry.",
+        "The city is home to Willamette University, the oldest university in the Western United States, founded in 1842.",
+        "Salem's economy is heavily insulated against major recessions due to the overwhelming stability of state government employment."
+      ]
+    },
+    {
+      "id": "olympia-cities-v2",
+      "descriptionAdvanced": "Olympia is the capital city of Washington state, situated at the southern terminus of Puget Sound. The city is deeply characterized by its stunning natural setting, bordered by the marine waters of the sound and backdropped by the frequently visible Mount Rainier. Olympia's economy is profoundly dominated by state government operations, making it the primary employer and stabilizing force for the region. Beyond administration, the city is a significant cultural center for the South Sound, known for its vibrant independent arts scene and a long history of progressive activism. The majestic Washington State Capitol building is a prominent feature, and the city serves as a primary gateway to the massive Olympic National Park located to the northwest. Geography K7 — Pacific Northwest geography and government hubs.",
+      "factsAdvanced": [
+        "Olympia's economy is overwhelmingly driven by state government, which provides the vast majority of local employment.",
+        "The Washington State Capitol features one of the tallest masonry domes in the world, standing 287 feet high.",
+        "The city is located at the absolute southernmost point of the massive Puget Sound marine estuary.",
+        "Olympia was famously the birthplace of the influential 'riot grrrl' feminist punk rock movement in the early 1990s.",
+        "The city operates a massive artesian well in its downtown that freely provides public drinking water.",
+        "Olympia is heavily surrounded by expansive evergreen forests, typical of the Pacific Northwest biome."
+      ]
+    },
+    {
+      "id": "carson-city-cities-v2",
+      "descriptionAdvanced": "Carson City is the capital of Nevada, functioning as an independent city not affiliated with any county. Located in a high desert basin near the eastern edge of the Sierra Nevada mountains, it sits just east of Lake Tahoe. Historically, the city boomed in the 1860s as a massive freight and supply center during the Comstock Lode silver rush in nearby Virginia City. Today, Carson City is one of the smallest state capitals in the country, and its economy relies heavily on state government administration, alongside regional manufacturing and a growing tourism sector linked to its historic frontier past and proximity to outdoor recreation in the Sierras. History K7 — the Comstock Lode and western mining towns.",
+      "factsAdvanced": [
+        "Carson City operates as an independent city, meaning it is completely separate from any county jurisdiction.",
+        "The city's massive historical growth was directly tied to the discovery of the Comstock Lode silver deposit.",
+        "The Nevada State Capitol features a striking silver-painted dome, honoring the state's massive historic silver production.",
+        "Carson City historically hosted a branch of the United States Mint, which struck coins primarily from local silver and gold.",
+        "The city is named after the famous American frontiersman and scout, Kit Carson.",
+        "Carson City sits at an elevation of 4,802 feet within a semi-arid, high desert climate."
+      ]
+    },
+    {
+      "id": "lincoln-ne-cities-v2",
+      "descriptionAdvanced": "Lincoln is the capital and second-most populous city of Nebraska, located in the southeastern part of the state. Originally founded as the village of Lancaster, it was radically renamed and designated as the state capital in 1867 as a political maneuver to keep the capital south of the Platte River. Lincoln's modern economy and cultural identity are powerfully anchored by two massive institutions: the Nebraska state government and the sprawling flagship campus of the University of Nebraska. The university's athletic programs, particularly the Cornhuskers football team, command immense, state-wide devotion. The city is widely recognized for its extensive park system, extensive trail networks, and the visually striking Nebraska State Capitol building. Geography K7 — university towns and plains state capitals.",
+      "factsAdvanced": [
+        "Lincoln was originally named Lancaster but was renamed to honor the recently assassinated President Abraham Lincoln.",
+        "The Nebraska State Capitol is a massive Art Deco skyscraper, standing 400 feet tall and dominating the skyline.",
+        "The University of Nebraska's Memorial Stadium becomes the 'third-largest city' in the state on football game days.",
+        "Lincoln is a major national hub for the insurance industry, hosting numerous corporate headquarters.",
+        "The city operates an extensive and highly utilized network of over 130 miles of dedicated bicycle trails.",
+        "Lincoln's Sunken Gardens, a heavily landscaped public park built during the Great Depression, is a major regional attraction."
+      ]
+    },
+    {
+      "id": "houston-ship-channel-economic-v2",
+      "descriptionAdvanced": "The Houston Ship Channel is an immense, heavily engineered commercial waterway in Texas that connects the inland city of Houston directly to the Gulf of Mexico. Officially opening as a deep-water port in 1914, the channel fundamentally transformed Houston's economic trajectory. Today, it is lined with one of the most massive concentrations of petrochemical facilities, oil refineries, and industrial manufacturing plants in the world. This colossal industrial complex processes a significant percentage of the United States' petroleum and chemical products, making it a critical strategic asset for the national economy. The channel handles thousands of massive oceanic vessels annually, making the Port of Houston one of the busiest ports globally by total cargo tonnage. Geography K8 — massive industrial infrastructure and global energy logistics.",
+      "factsAdvanced": [
+        "The Houston Ship Channel stretches for 50 miles from the Gulf of Mexico to the Port of Houston.",
+        "The channel corridor houses the largest concentration of petrochemical manufacturing facilities in the United States.",
+        "The Port of Houston, reliant entirely on the channel, is consistently the busiest US port by foreign waterborne tonnage.",
+        "The waterway was massively dredged and widened starting in the early 20th century to accommodate modern ocean-going vessels.",
+        "The channel's industrial complex accounts for a massive percentage of the entire gross domestic product of the state of Texas.",
+        "The historic San Jacinto Monument, commemorating the final battle of the Texas Revolution, is situated directly adjacent to the channel."
+      ]
+    }
+  ]
+}

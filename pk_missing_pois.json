@@ -1,0 +1,752 @@
+[
+  {
+    "id": "sadiqabad-cities-v2",
+    "name": "Sadiqabad",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "mirpur-khas-cities-v2",
+    "name": "Mirpur Khas",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "kamoke-cities-v2",
+    "name": "Kamoke",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "hafizabad-cities-v2",
+    "name": "Hafizabad",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "kohat-cities-v2",
+    "name": "Kohat",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "jhelum-city-cities-v2",
+    "name": "Jhelum (v\u00e1ros)",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "sahiwal-cities-v2",
+    "name": "Sahiwal",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "khanewal-cities-v2",
+    "name": "Khanewal",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "gojra-cities-v2",
+    "name": "Gojra",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "mandi-bahauddin-cities-v2",
+    "name": "Mandi Bahauddin",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "muridke-cities-v2",
+    "name": "Muridke",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "tando-adam-cities-v2",
+    "name": "Tando Adam",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "tando-allahyar-cities-v2",
+    "name": "Tando Allahyar",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "chiniot-cities-v2",
+    "name": "Chiniot",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "khuzdar-cities-v2",
+    "name": "Khuzdar",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "vehari-cities-v2",
+    "name": "Vehari",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "daska-cities-v2",
+    "name": "Daska",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "mansehra-cities-v2",
+    "name": "Mansehra",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "toba-tek-singh-cities-v2",
+    "name": "Toba Tek Singh",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "shikarpur-cities-v2",
+    "name": "Shikarpur",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "jacobabad-cities-v2",
+    "name": "Jacobabad",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "khairpur-cities-v2",
+    "name": "Khairpur",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "burewala-cities-v2",
+    "name": "Burewala",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "pakpattan-cities-v2",
+    "name": "Pakpattan",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "charsadda-cities-v2",
+    "name": "Charsadda",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "wazirabad-cities-v2",
+    "name": "Wazirabad",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "nowshera-cities-v2",
+    "name": "Nowshera",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "mingora-cities-v2",
+    "name": "Mingora",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "turbat-cities-v2",
+    "name": "Turbat",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "gwadar-cities-v2",
+    "name": "Gwadar",
+    "file": "lib/visualLab/data/poiExtraPakistanCitiesV2.ts"
+  },
+  {
+    "id": "karachi-port-economic-v2",
+    "name": "Karacsi kik\u00f6t\u0151",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "gwadar-port-economic-v2",
+    "name": "Gwadar kik\u00f6t\u0151",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "faisalabad-textile-industry-economic-v2",
+    "name": "Faisalabadi textilipar",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "sialkot-surgical-instruments-economic-v2",
+    "name": "Sialkoti seb\u00e9szeti m\u0171szerek",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "thar-coalfield-mine-economic-v2",
+    "name": "Thar sz\u00e9nmez\u0151",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "khewra-salt-mine-economic-v2",
+    "name": "Khewra s\u00f3b\u00e1nya",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "sui-gas-field-economic-v2",
+    "name": "Sui g\u00e1zmez\u0151",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "tarbela-dam-energy-economic-v2",
+    "name": "Tarbela-g\u00e1t",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "lahore-knowledge-park-economic-v2",
+    "name": "Lahore Tud\u00e1spark",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "gawadar-special-economic-zone-economic-v2",
+    "name": "Gwadar K\u00fcl\u00f6nleges Gazdas\u00e1gi \u00d6vezet",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "chashma-nuclear-power-plant-economic-v2",
+    "name": "Chashma atomer\u0151m\u0171",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "gujranwala-industrial-estate-economic-v2",
+    "name": "Gujranwalai ipari park",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "saindak-copper-gold-mine-economic-v2",
+    "name": "Saindak r\u00e9z- \u00e9s aranyb\u00e1nya",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "port-qasim-economic-v2",
+    "name": "Qasim kik\u00f6t\u0151",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "reko-diq-mine-project-economic-v2",
+    "name": "Reko Diq b\u00e1nyaprojekt",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "karachi-expo-centre-economic-v2",
+    "name": "Karacsi Ki\u00e1ll\u00edt\u00e1si K\u00f6zpont",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "pakistan-stock-exchange-economic-v2",
+    "name": "Pakiszt\u00e1ni \u00c9rt\u00e9kt\u0151zsde",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "sialkot-international-airport-economic-v2",
+    "name": "Sialkoti Nemzetk\u00f6zi Rep\u00fcl\u0151t\u00e9r",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "mangla-dam-energy-economic-v2",
+    "name": "Mangla-g\u00e1t",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "quetta-fruit-market-economic-v2",
+    "name": "Kvettai gy\u00fcm\u00f6lcspiac",
+    "file": "lib/visualLab/data/poiExtraPakistanEconomicV2.ts"
+  },
+  {
+    "id": "mohenjo-daro-ruins-history-v2",
+    "name": "Mohendzsod\u00e1ro romjai",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "taxila-ruins-history-v2",
+    "name": "Takszila r\u00e9g\u00e9szeti lel\u0151helyei",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "badshahi-mosque-monument-history-v2",
+    "name": "B\u00e1ds\u00e1hi-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "lahore-fort-historical-site-v2",
+    "name": "Lahore-i er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "hiran-minar-monument-history-v2",
+    "name": "Hiran Minar",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "takht-i-bahi-ruins-history-v2",
+    "name": "Takht-i-Bahi buddhista romjai",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "rohtas-fort-historical-site-v2",
+    "name": "Rohtasz-er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "minar-e-pakistan-monument-history-v2",
+    "name": "Minar-e-Pakiszt\u00e1n",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "makli-necropolis-historical-site-v2",
+    "name": "Makli nekropolisza",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "shah-jahani-mosque-monument-history-v2",
+    "name": "S\u00e1h Dzsah\u00e1n-mecset, Thatta",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "quaids-tomb-mausoleum-monument-history-v2",
+    "name": "Mazar-e-Quaid",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "katas-raj-temples-historical-site-v2",
+    "name": "Katasz R\u00e1dzs-templomok",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "baltit-fort-historical-site-v2",
+    "name": "Baltit er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "ranikot-fort-historical-site-v2",
+    "name": "Ranikot er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "chaukhandi-tombs-historical-site-v2",
+    "name": "Csaukhandi s\u00edrok",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "mehrgarh-ruins-history-v2",
+    "name": "Mehrgarh neolitikus lel\u0151helye",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "pakistan-monument-monument-history-v2",
+    "name": "Pakiszt\u00e1n eml\u00e9km\u0171",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "faisal-mosque-monument-history-v2",
+    "name": "Faisal-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "wazir-khan-mosque-monument-history-v2",
+    "name": "Wazir Khan-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "derawar-fort-historical-site-v2",
+    "name": "Derawar er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanHistoryV2.ts"
+  },
+  {
+    "id": "faisal-mosque-landmarks-v2",
+    "name": "Faisal-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "minar-e-pakistan-landmarks-v2",
+    "name": "Minar-e-Pakiszt\u00e1n",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "lahore-fort-landmarks-v2",
+    "name": "Lahore-i er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "badshahi-mosque-landmarks-v2",
+    "name": "Badshahi-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "mohenjo-daro-landmarks-v2",
+    "name": "Mohendzsod\u00e1ro",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "taxila-ruins-landmarks-v2",
+    "name": "Takszila romjai",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "pakistan-monument-landmarks-v2",
+    "name": "Pakiszt\u00e1ni eml\u00e9km\u0171",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "shah-jahans-mosque-landmarks-v2",
+    "name": "S\u00e1h Dzsah\u00e1n-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "derawar-fort-landmarks-v2",
+    "name": "Derawar er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "baltit-fort-landmarks-v2",
+    "name": "Baltit er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "khewra-salt-mine-landmarks-v2",
+    "name": "Khevrai s\u00f3b\u00e1nya",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "wazir-khan-mosque-landmarks-v2",
+    "name": "Vez\u00edr K\u00e1n-mecset",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "hiran-minar-landmarks-v2",
+    "name": "Hiran Minar",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "mausoleum-of-quaid-e-azam-landmarks-v2",
+    "name": "Quaid-e-Azam mauz\u00f3leuma",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "ranikot-fort-landmarks-v2",
+    "name": "Ranikot er\u0151d",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "shalimar-gardens-lahore-landmarks-v2",
+    "name": "Shalimar-kertek (Lahore)",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "katas-raj-temples-landmarks-v2",
+    "name": "Katas Radzs-templomok",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "takht-i-bahi-landmarks-v2",
+    "name": "Takht-i-Bahi",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "frere-hall-landmarks-v2",
+    "name": "Frere Hall",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "noor-mahal-landmarks-v2",
+    "name": "Noor Mahal",
+    "file": "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  },
+  {
+    "id": "himalayan-ibex-habitat-life-v2",
+    "name": "Himal\u00e1jai k\u0151sz\u00e1li kecske \u00e9l\u0151hely",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "punjab-mango-farms-life-v2",
+    "name": "Pandzs\u00e1bi mang\u00f3farmok",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "lake-view-park-islamabad-life-v2",
+    "name": "Lake View Park, Iszl\u00e1m\u00e1b\u00e1d",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "joyland-rawalpindi-life-v2",
+    "name": "Joyland, Rawalpindi",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "deosai-national-park-wildlife-life-v2",
+    "name": "Deosai Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "sindh-sugarcane-fields-life-v2",
+    "name": "Szindhi cukorn\u00e1d\u00fcltetv\u00e9nyek",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "shalimar-gardens-lahore-life-v2",
+    "name": "Shalimar-kertek, Lahore",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "sindbad-wonderland-karachi-life-v2",
+    "name": "Sindbad's Wonderland, Karacsi",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "khunjerab-national-park-life-v2",
+    "name": "Khunjerab Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "kp-tobacco-farms-life-v2",
+    "name": "Hajber Pahtunhva-i doh\u00e1nyfarmok",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "jinnah-garden-lahore-life-v2",
+    "name": "Jinnah-kert (Lawrence-kertek), Lahore",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "chunkey-monkey-islamabad-life-v2",
+    "name": "Chunky Monkey, Iszl\u00e1m\u00e1b\u00e1d",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "lal-suhanra-national-park-life-v2",
+    "name": "Lal Suhanra Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "balochistan-apple-orchards-life-v2",
+    "name": "Beludzsiszt\u00e1ni alma\u00fcltetv\u00e9nyek",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "bagh-e-jinnah-karachi-life-v2",
+    "name": "Bagh-e-Jinnah, Karacsi",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "atlantis-water-park-karachi-life-v2",
+    "name": "Atlantis v\u00edzi park, Karacsi",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "chitral-gol-national-park-life-v2",
+    "name": "Chitral Gol Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "gilgit-baltistan-apricot-groves-life-v2",
+    "name": "Gilgit-Baltiszt\u00e1ni s\u00e1rgabarack-ligetek",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "fatima-jinnah-park-islamabad-life-v2",
+    "name": "Fatima Jinnah Park, Iszl\u00e1m\u00e1b\u00e1d",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "sozo-water-park-lahore-life-v2",
+    "name": "Sozo v\u00edzi park, Lahore",
+    "file": "lib/visualLab/data/poiExtraPakistanLifeV2.ts"
+  },
+  {
+    "id": "saif-ul-maluk-lake-nature-v2",
+    "name": "Saif-ul-Maluk-t\u00f3",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "k2-mountain-nature-v2",
+    "name": "K2",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "nanga-parbat-mountain-nature-v2",
+    "name": "Nanga Parbat",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "hunza-valley-nature-v2",
+    "name": "Hunza-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "deosai-national-park-nature-v2",
+    "name": "Deosai Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "indus-river-nature-v2",
+    "name": "Indus",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "satpara-lake-nature-v2",
+    "name": "Satpara-t\u00f3",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "nangma-valley-nature-v2",
+    "name": "Nangma-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "hingol-national-park-nature-v2",
+    "name": "Hingol Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "attabad-lake-nature-v2",
+    "name": "Attabad-t\u00f3",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "chitral-gol-national-park-nature-v2",
+    "name": "Chitral Gol Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "rakaposhi-mountain-nature-v2",
+    "name": "Rakaposhi",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "jhelum-river-nature-v2",
+    "name": "Jhelum",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "lulusar-lake-nature-v2",
+    "name": "Lulusar-t\u00f3",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "khunjerab-national-park-nature-v2",
+    "name": "Khunjerab Nemzeti Park",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "sheosar-lake-nature-v2",
+    "name": "Sheosar-t\u00f3",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "chenab-river-nature-v2",
+    "name": "Chenab",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "manchar-lake-nature-v2",
+    "name": "Manchar-t\u00f3",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "fairy-meadows-nature-v2",
+    "name": "T\u00fcnd\u00e9rr\u00e9tek",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "tirich-mir-mountain-nature-v2",
+    "name": "Tirich Mir",
+    "file": "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  },
+  {
+    "id": "k2-mountain-relief-v2",
+    "name": "K2",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "nanga-parbat-mountain-relief-v2",
+    "name": "Nanga Parbat",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "thar-desert-relief-v2",
+    "name": "Th\u00e1r-sivatag",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "balochistan-plateau-relief-v2",
+    "name": "Beludzsiszt\u00e1ni-fenns\u00edk",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "indus-river-valley-relief-v2",
+    "name": "Indus-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "hunza-valley-relief-v2",
+    "name": "Hunza-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "makran-coast-relief-v2",
+    "name": "Makr\u00e1n-partvid\u00e9k",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "cholistan-desert-relief-v2",
+    "name": "Cholistan-sivatag",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "tirich-mir-mountain-relief-v2",
+    "name": "Tirich Mir",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "potohar-plateau-relief-v2",
+    "name": "Potohar-fenns\u00edk",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "swat-valley-relief-v2",
+    "name": "Szv\u00e1t-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "karakoram-range-relief-v2",
+    "name": "Karakorum-hegys\u00e9g",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "deosai-plateau-relief-v2",
+    "name": "Deosai-fenns\u00edk",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "kharan-desert-relief-v2",
+    "name": "Khar\u00e1n-sivatag",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "himalaya-range-pakistan-relief-v2",
+    "name": "Himal\u00e1ja (Pakiszt\u00e1n)",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "sonmiani-bay-coast-relief-v2",
+    "name": "Sonmiani-\u00f6b\u00f6l",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "hindu-kush-range-pakistan-relief-v2",
+    "name": "Hindukus (Pakiszt\u00e1n)",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "neelum-valley-relief-v2",
+    "name": "Neelum-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "broad-peak-mountain-relief-v2",
+    "name": "Broad Peak",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  },
+  {
+    "id": "kaghan-valley-relief-v2",
+    "name": "Kaghan-v\u00f6lgy",
+    "file": "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  }
+]

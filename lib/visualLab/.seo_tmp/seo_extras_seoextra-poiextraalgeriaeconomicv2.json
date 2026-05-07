@@ -1,0 +1,81 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraAlgeriaEconomicV2.ts"],
+  "items": [
+    {
+      "id": "port-of-algiers-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Algier fungiert als das primäre maritime Tor Algeriens und ist entscheidend für den nationalen Außenhandel. Mit seiner strategischen Lage am Mittelmeer bewältigt er einen Großteil der Container- und Passagierbewegungen des Landes. Die kontinuierliche Modernisierung stellt sicher, dass die logistischen Kapazitäten den steigenden Anforderungen der algerischen Wirtschaft gerecht werden. Geografie K7 — Küsten und Infrastruktur.",
+        "hu": "Az algíri kikötő az ország elsődleges tengeri kapuja, amely kulcsfontosságú a nemzeti külkereskedelem számára. A Földközi-tengeren való stratégiai elhelyezkedésével az ország konténer- és utasforgalmának jelentős részét kezeli. A folyamatos modernizáció biztosítja, hogy a logisztikai kapacitások megfeleljenek az algériai gazdaság növekvő igényeinek. Földrajz K7 — partvidékek és infrastruktúra.",
+        "ro": "Portul Alger servește drept principala poartă maritimă a Algeriei, fiind esențial pentru comerțul exterior național. Cu locația sa strategică la Marea Mediterană, gestionează o mare parte din mișcările de containere și pasageri ale țării. Modernizarea continuă asigură că capacitățile logistice răspund cerințelor în creștere ale economiei algeriene. Geografie K7 — coaste și infrastructură.",
+        "en": "The Port of Algiers serves as Algeria's primary maritime gateway and is crucial for national foreign trade. With its strategic location on the Mediterranean, it handles a large portion of the country's container and passenger movements. Continuous modernization ensures that logistical capacities meet the growing demands of the Algerian economy. Geography K7 — coasts and infrastructure."
+      },
+      "factsAdvanced": {
+        "de": ["Größter Hafen Algeriens für Generalfracht.", "Direkte Anbindung an die Hauptstadt Algier.", "Jährliche Kapazität von über 10 Millionen Tonnen.", "Hauptumschlagplatz für Konsumgüterimporte.", "Bedeutender Arbeitgeber in der Region.", "Bietet moderne Terminaleinrichtungen für Containerschiffe."],
+        "hu": ["Algéria legnagyobb kikötője az általános rakományok számára.", "Közvetlen összeköttetésben áll Algír fővárossal.", "Éves kapacitása meghaladja a 10 millió tonnát.", "Fő forgalmi csomópont a fogyasztási cikkek importjához.", "Jelentős munkaadó a régióban.", "Modern terminálokat kínál a konténerhajók számára."],
+        "ro": ["Cel mai mare port algerian pentru mărfuri generale.", "Conexiune directă cu capitala Alger.", "Capacitate anuală de peste 10 milioane de tone.", "Hub principal pentru importul de bunuri de consum.", "Angajator semnificativ în regiune.", "Oferă facilități terminale moderne pentru navele portcontainer."],
+        "en": ["Largest Algerian port for general cargo.", "Direct connection to the capital city Algiers.", "Annual capacity exceeding 10 million tons.", "Main hub for consumer goods imports.", "Significant employer in the region.", "Offers modern terminal facilities for container ships."]
+      }
+    },
+    {
+      "id": "hassi-messaoud-oil-field-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das 1956 entdeckte Ölfeld Hassi Messaoud stellt das Herzstück der algerischen Energieproduktion dar und ist eines der größten Vorkommen Afrikas. Gelegen in der Sahara, bildet es das Rückgrat der nationalen wirtschaftlichen Stabilität durch die Exportmöglichkeiten für Rohöl. Die technische Erschließung ist komplex und erfordert modernste Extraktionsmethoden in der Wüstenumgebung. Wirtschaft K8 — Erdöl und Energie.",
+        "hu": "Az 1956-ban felfedezett Hassi Messaoud olajmező az algériai energiatermelés szíve, Afrika egyik legnagyobb lelőhelye. A Szaharában található, a nemzeti gazdasági stabilitás gerincét alkotja a kőolajexport révén. A technikai feltárás összetett, a sivatagi környezetben csúcstechnológiás kitermelési módszereket igényel. Gazdaságtan K8 — kőolaj és energia.",
+        "ro": "Câmpul petrolier Hassi Messaoud, descoperit în 1956, reprezintă inima producției de energie algeriene și una dintre cele mai mari rezerve din Africa. Situat în Sahara, formează coloana vertebrală a stabilității economice naționale prin exportul de țiței. Exploatarea tehnică este complexă, necesitând metode de extracție de ultimă generație în mediul deșertic. Economie K8 — petrol și energie.",
+        "en": "Discovered in 1956, the Hassi Messaoud oil field represents the heart of Algerian energy production and one of the largest deposits in Africa. Located in the Sahara, it forms the backbone of national economic stability through crude oil exports. Technical exploitation is complex, requiring state-of-the-art extraction methods in the desert environment. Economics K8 — oil and energy."
+      },
+      "factsAdvanced": {
+        "de": ["Größtes Ölfeld Algeriens.", "Produziert leichtes, hochwertiges Rohöl.", "Erstreckt sich über eine Fläche von ca. 2.500 km².", "Wichtiger Standort für internationale Ölkonzerne.", "Ausgestattet mit riesigen Verarbeitungsanlagen.", "Zentrum des algerischen Erdöl-Netzwerkes."],
+        "hu": ["Algéria legnagyobb olajmezője.", "Könnyű, kiváló minőségű kőolajat termel.", "Kb. 2500 km²-es területen fekszik.", "Fontos helyszín a nemzetközi olajvállalatok számára.", "Hatalmas feldolgozóüzemekkel felszerelt.", "Az algériai olajhálózat központja."],
+        "ro": ["Cel mai mare câmp petrolier din Algeria.", "Produce țiței ușor, de înaltă calitate.", "Se întinde pe o suprafață de cca. 2.500 km².", "Locație importantă pentru companiile petroliere internaționale.", "Dotat cu instalații uriașe de procesare.", "Centrul rețelei petroliere algeriene."],
+        "en": ["Largest oil field in Algeria.", "Produces light, high-quality crude oil.", "Spans an area of approx. 2,500 km².", "Important location for international oil companies.", "Equipped with massive processing facilities.", "Center of the Algerian oil network."]
+      }
+    },
+    {
+      "id": "hassi-r-mel-gas-field-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Hassi R'Mel gilt als eines der bedeutendsten Erdgasvorkommen weltweit und ist ein unverzichtbarer Lieferant für den europäischen Energiemarkt. Seit seiner Entdeckung 1956 hat das Feld eine entscheidende Rolle für die algerische Industrialisierung und Deviseneinnahmen gespielt. Es wird über ein komplexes Pipelinenetz direkt mit dem Mittelmeer verbunden. Geografie K7 — Rohstoffe und weltweite Energie.",
+        "hu": "Hassi R'Mel a világ egyik legjelentősebb földgázkincse, az európai energiapiac nélkülözhetetlen szállítója. Az 1956-os felfedezése óta a mező döntő szerepet játszott az algériai iparosításban és a devizabevételekben. Komplex csővezeték-hálózaton keresztül közvetlenül kapcsolódik a Földközi-tengerhez. Földrajz K7 — nyersanyagok és globális energia.",
+        "ro": "Hassi R'Mel este considerat unul dintre cele mai semnificative zăcăminte de gaze naturale din lume și un furnizor indispensabil pentru piața energetică europeană. De la descoperirea sa în 1956, câmpul a jucat un rol crucial în industrializarea algeriană și în veniturile valutare. Este conectat direct la Marea Mediterană printr-o rețea complexă de conducte. Geografie K7 — resurse și energie globală.",
+        "en": "Hassi R'Mel is considered one of the most significant natural gas deposits worldwide and an indispensable supplier for the European energy market. Since its discovery in 1956, the field has played a crucial role in Algerian industrialization and foreign exchange earnings. It is connected directly to the Mediterranean via a complex pipeline network. Geography K7 — resources and global energy."
+      },
+      "factsAdvanced": {
+        "de": ["Eines der weltweit zehn größten Gasvorkommen.", "Wichtigster Gasknotenpunkt Algeriens.", "Versorgt Spanien und Italien über Unterwasserleitungen.", "Enthält erhebliche Kondensat-Reserven.", "Betrieben durch den Staatskonzern Sonatrach.", "Bedeutendste Devisenquelle des Landes."],
+        "hu": ["A világ tíz legnagyobb gázlelőhelyének egyike.", "Algéria legfontosabb gázcsomópontja.", "Spanyolországot és Olaszországot látja el víz alatti vezetékeken.", "Jelentős kondenzátum-tartalékokat tartalmaz.", "Az állami Sonatrach vállalat üzemelteti.", "Az ország legfontosabb devizaforrása."],
+        "ro": ["Unul dintre cele mai mari zece zăcăminte de gaze din lume.", "Cel mai important hub de gaze al Algeriei.", "Alimentează Spania și Italia prin conducte submarine.", "Conține rezerve considerabile de condensat.", "Operat de compania de stat Sonatrach.", "Cea mai importantă sursă de valută a țării."],
+        "en": ["One of the world's ten largest gas deposits.", "Most important gas hub of Algeria.", "Supplies Spain and Italy via subsea pipelines.", "Contains significant condensate reserves.", "Operated by the state-owned company Sonatrach.", "Country's most significant foreign currency source."]
+      }
+    },
+    {
+      "id": "arzew-petrochemical-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen Arzew ist spezialisiert auf die Verarbeitung und den Export von verflüssigtem Erdgas (LNG) und anderen petrochemischen Produkten. Er stellt eine kritische Infrastruktur für die algerische Exportwirtschaft dar und beherbergt einige der modernsten Raffinerien des Kontinents. Seine geografische Lage nahe Oran ermöglicht eine effiziente Anbindung an die internationalen Schifffahrtswege. Wirtschaft K8 — Export und Industrie.",
+        "hu": "Az Arzew kikötő a cseppfolyósított földgáz (LNG) és más petrolkémiai termékek feldolgozására és exportjára szakosodott. Kritikus infrastruktúrát jelent az algériai exportgazdaság számára, és otthont ad a kontinens néhány legmodernebb finomítójának. Orán közeli földrajzi elhelyezkedése hatékony csatlakozást biztosít a nemzetközi hajózási útvonalakhoz. Gazdaságtan K8 — export és ipar.",
+        "ro": "Portul Arzew este specializat în procesarea și exportul de gaz natural lichefiat (GNL) și alte produse petrochimice. Reprezintă o infrastructură critică pentru economia de export algeriană și găzduiește unele dintre cele mai moderne rafinării de pe continent. Locația sa geografică în apropiere de Oran permite o conexiune eficientă la rutele maritime internaționale. Economie K8 — export și industrie.",
+        "en": "The Arzew port specializes in processing and exporting liquefied natural gas (LNG) and other petrochemical products. It represents critical infrastructure for the Algerian export economy and houses some of the most modern refineries on the continent. Its geographical location near Oran allows for efficient connection to international shipping routes. Economics K8 — export and industry."
+      },
+      "factsAdvanced": {
+        "de": ["Einer der weltweit wichtigsten LNG-Exporthäfen.", "Bedeutende Anlagen für Methanol-Produktion.", "Direkte Pipeline-Anbindung zu Hassi R'Mel.", "Umfangreiche Lagerkapazitäten für Gas.", "Wichtiger Arbeitgeber im Industriegürtel.", "Modernisierte Hafenlogistik für große Tanker."],
+        "hu": ["A világ egyik legfontosabb LNG-exportkikötője.", "Jelentős létesítmények metanol-termeléshez.", "Közvetlen csővezeték-csatlakozás Hassi R'Mel-hez.", "Hatalmas tárolókapacitások gáz számára.", "Fontos munkaadó az ipari övezetben.", "Modernizált kikötői logisztika nagy tartályhajók számára."],
+        "ro": ["Unul dintre cele mai importante porturi de export GNL din lume.", "Facilități majore pentru producția de metanol.", "Conexiune directă prin conductă cu Hassi R'Mel.", "Capacități vaste de stocare pentru gaze.", "Angajator important în zona industrială.", "Logistica portuară modernizată pentru tancuri mari."],
+        "en": ["One of the world's most important LNG export ports.", "Major facilities for methanol production.", "Direct pipeline connection to Hassi R'Mel.", "Vast storage capacities for gas.", "Important employer in the industrial belt.", "Modernized port logistics for large tankers."]
+      }
+    },
+    {
+      "id": "skikda-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Skikda dient als unverzichtbarer Knotenpunkt für den Export von Kohlenwasserstoffen und die petrochemische Industrie. Durch seine integrierte Raffinerie ist der Standort direkt an die Energieproduktion im Landesinneren angeschlossen. Die Lage an der Ostküste bietet zudem logistische Vorteile für den Handel mit Europa und Asien. Wirtschaft K8 — Industriestandorte und Welthandel.",
+        "hu": "Skikda kikötője nélkülözhetetlen csomópont a szénhidrogének exportja és a petrolkémiai ipar számára. Integrált finomítóján keresztül a helyszín közvetlenül kapcsolódik a belföldi energiatermeléshez. A keleti parton való elhelyezkedése logisztikai előnyöket biztosít az Európával és Ázsel való kereskedelemben. Gazdaságtan K8 — ipari telephelyek és világkereskedelem.",
+        "ro": "Portul Skikda servește drept hub indispensabil pentru exportul de hidrocarburi și pentru industria petrochimică. Prin rafinăria sa integrată, locația este conectată direct la producția de energie din interiorul țării. Poziționarea pe coasta de est oferă, de asemenea, avantaje logistice pentru comerțul cu Europa și Asia. Economie K8 — locații industriale și comerț mondial.",
+        "en": "Skikda port serves as an indispensable hub for hydrocarbon exports and the petrochemical industry. Through its integrated refinery, the location is directly connected to energy production inland. Its position on the east coast also offers logistical advantages for trade with Europe and Asia. Economics K8 — industrial sites and global trade."
+      },
+      "factsAdvanced": {
+        "de": ["Beheimatet eine der größten Raffinerien Algeriens.", "Exportiert Ethylen und Polyethylen.", "Wichtiger Hub für den internationalen Handel.", "Lage am Mittelmeer ermöglicht schnellen Export.", "Umfangreiche petrochemische Anlagen.", "Verfügt über moderne Hafen-Infrastruktur."],
+        "hu": ["Algéria egyik legnagyobb finomítójának ad otthont.", "Etilént és polietilént exportál.", "Fontos csomópont a nemzetközi kereskedelemben.", "A Földközi-tengeren való elhelyezkedés gyors exportot tesz lehetővé.", "Kiterjedt petrolkémiai üzemek.", "Modern kikötői infrastruktúrával rendelkezik."],
+        "ro": ["Găzduiește una dintre cele mai mari rafinării din Algeria.", "Exportă etilenă și polietilenă.", "Hub important pentru comerțul internațional.", "Poziționarea la Marea Mediterană permite export rapid.", "Instalații petrochimice vaste.", "Dispune de infrastructură portuară modernă."],
+        "en": ["Home to one of Algeria's largest refineries.", "Exports ethylene and polyethylene.", "Important hub for international trade.", "Location on the Mediterranean enables fast export.", "Vast petrochemical facilities.", "Has modern port infrastructure."]
+      }
+    }
+  ]
+}

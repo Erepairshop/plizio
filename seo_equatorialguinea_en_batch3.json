@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cogo-cities-v2",
+      "descriptionAdvanced": "Cogo lies on the southern border of the Rio Muni region, at the mouth of the Estuario de Muni, and is an important maritime port for the country. Historically, the town played a significant role in the trade of the region, and today it remains a key center for fishing and forestry management. The surrounding mangrove forests and wetlands are protected areas that ensure rich biodiversity. Cogo's strategic location makes it an important gateway for the southern regions, while its natural beauty holds potential for future tourism developments. Geography K7, Environmental Studies K8.",
+      "factsAdvanced": [
+        "Situated at the mouth of the Rio Muni estuary.",
+        "Important maritime port city.",
+        "Center for fishing and forestry operations.",
+        "Surrounded by protected mangrove ecosystems.",
+        "Strategic location for southern regional trade.",
+        "Potential hub for future tourism development."
+      ]
+    },
+    {
+      "id": "nsork-cities-v2",
+      "descriptionAdvanced": "Nsork is located in the eastern part of the mainland in the Wele-Nzas province and is known as a commercial center for the surrounding forest regions. The town plays a fundamental role in collecting agricultural products and local trade. Traditional farming and forest-based livelihoods are characteristic of the area, defining the daily lives of the inhabitants. Due to its central location, Nsork is an important logistical point for the region, through which rural products reach more distant markets. Geography K6, Economics K8.",
+      "factsAdvanced": [
+        "Town in the province of Wele-Nzas.",
+        "Commercial hub for surrounding forest regions.",
+        "Collection point for agricultural products.",
+        "Center for traditional farming practices.",
+        "Important regional logistical station.",
+        "Link between rural and urban market chains."
+      ]
+    },
+    {
+      "id": "riaba-cities-v2",
+      "descriptionAdvanced": "Riaba is a small town of historical significance in the eastern part of Bioko Island, which was once a center for agricultural exports. The town's location allows for easy access to the surrounding volcanic landscapes and the coast, favoring the development of slow tourism. Riaba's atmosphere is quiet, reflecting the island's past colonial and agricultural development, and it serves as a good example of preserving the Bioko way of life. Over the decades, numerous tropical plant cultivation projects have been implemented in the town's surroundings. Geography K6, History K8.",
+      "factsAdvanced": [
+        "Located in the eastern part of Bioko Island.",
+        "Historical agricultural center.",
+        "Easy access to volcanic landscapes.",
+        "Quiet, traditional Bioko-style town.",
+        "Played a prominent role in agricultural exports.",
+        "Part of the island's cultural heritage."
+      ]
+    },
+    {
+      "id": "baney-cities-v2",
+      "descriptionAdvanced": "Baney is situated in the northern part of Bioko Island, not far from the capital, and plays an important role in supplying the northern province. The surroundings are fertile, suitable for intensive plant cultivation based on volcanic soil, particularly regarding bananas and other tropical fruits. Due to its proximity to Malabo, Baney has become an important suburban settlement where, alongside agriculture, trade has also become a defining characteristic. The city's development is closely linked to the economic growth of the northern part of the island. Geography K6, Economics K7.",
+      "factsAdvanced": [
+        "Situated in the northern part of Bioko Island.",
+        "Region with fertile volcanic soil.",
+        "Hub for banana cultivation.",
+        "Important suburb due to its proximity to Malabo.",
+        "Combination of agriculture and commerce.",
+        "One of the engines of the island's economic growth."
+      ]
+    },
+    {
+      "id": "rebola-cities-v2",
+      "descriptionAdvanced": "Rebola is located in the northern part of Bioko and is one of the oldest settlements in the area, having preserved its traditional cultural values. The areas around the city are suitable for traditional plant cultivation, especially cocoa and bananas, which provide a basic source of livelihood for locals. Rebola is a pillar of the island's cultural identity, where community life and traditional celebrations are highly emphasized. The town constantly adapts to the needs of the modern age while continuing to be a guardian of Bioko heritage. Social Studies K7, Geography K8.",
+      "factsAdvanced": [
+        "One of the oldest towns in the northern part of Bioko.",
+        "Center of traditional cultural values.",
+        "Agriculture based on cocoa and banana cultivation.",
+        "Defining scene for local community life.",
+        "Guardian of the island's cultural heritage.",
+        "Continuous modernization alongside traditional roots."
+      ]
+    }
+  ]
+}

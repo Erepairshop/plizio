@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "tahoua-cities-v2",
+    "name": "Tahoua",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "agadez-cities-v2",
+    "name": "Agadez",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "arlit-cities-v2",
+    "name": "Arlit",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "dosso-cities-v2",
+    "name": "Dosso",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "diffa-cities-v2",
+    "name": "Diffa",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "birni-nkonni-cities-v2",
+    "name": "Birni-Nkonni",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tessaoua-cities-v2",
+    "name": "Tessaoua",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "dogondoutchi-cities-v2",
+    "name": "Dogondoutchi",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "gaya-cities-v2",
+    "name": "Gaya",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "madaoua-cities-v2",
+    "name": "Madaoua",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "mayahi-cities-v2",
+    "name": "Mayahi",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tera-cities-v2",
+    "name": "T\u00e9ra",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "mirriah-cities-v2",
+    "name": "Mirriah",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tibiri-cities-v2",
+    "name": "Tibiri",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tillaberi-cities-v2",
+    "name": "Tillab\u00e9ri",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "magaria-cities-v2",
+    "name": "Magaria",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "dakoro-cities-v2",
+    "name": "Dakoro",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "nguigmi-cities-v2",
+    "name": "N",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "matameye-cities-v2",
+    "name": "Matameye",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "illela-cities-v2",
+    "name": "Ill\u00e9la",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tanout-cities-v2",
+    "name": "Tanout",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "goure-cities-v2",
+    "name": "Gour\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "abalak-cities-v2",
+    "name": "Abalak",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "aguie-cities-v2",
+    "name": "Agui\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "ouallam-cities-v2",
+    "name": "Ouallam",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "filingue-cities-v2",
+    "name": "Filingu\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "bouza-cities-v2",
+    "name": "Bouza",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "keita-cities-v2",
+    "name": "Keita",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tchirozerine-cities-v2",
+    "name": "Tchiroz\u00e9rine",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "say-cities-v2",
+    "name": "Say",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "madarounfa-cities-v2",
+    "name": "Madarounfa",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "guidan-roumdji-cities-v2",
+    "name": "Guidan Roumdji",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "maine-soroa-cities-v2",
+    "name": "Ma\u00efn\u00e9-Soroa",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tchin-tabaraden-cities-v2",
+    "name": "Tchin-Tabaraden",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "goudoumaria-cities-v2",
+    "name": "Goudoumaria",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "dungass-cities-v2",
+    "name": "Dungass",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "kollo-cities-v2",
+    "name": "Kollo",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "ayorou-cities-v2",
+    "name": "Ayorou",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "bermo-cities-v2",
+    "name": "Bermo",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "banibangou-cities-v2",
+    "name": "Banibangou",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "ngourti-cities-v2",
+    "name": "N",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tassara-cities-v2",
+    "name": "Tassara",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "bankilare-cities-v2",
+    "name": "Bankilar\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "tillia-cities-v2",
+    "name": "Tillia",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "belbedji-cities-v2",
+    "name": "Belb\u00e9dji",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "iferouane-cities-v2",
+    "name": "If\u00e9rouane",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "bilma-cities-v2",
+    "name": "Bilma",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "fachi-cities-v2",
+    "name": "Fachi",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "dirkou-cities-v2",
+    "name": "Dirkou",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "ingall-cities-v2",
+    "name": "Ingall",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "kantche-cities-v2",
+    "name": "Kantch\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "kornaka-cities-v2",
+    "name": "Kornaka",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "malbaza-cities-v2",
+    "name": "Malbaza",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "loga-cities-v2",
+    "name": "Loga",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "balleyara-cities-v2",
+    "name": "Balleyara",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "gotheye-cities-v2",
+    "name": "Goth\u00e8ye",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "damagaram-takaya-cities-v2",
+    "name": "Damagaram Takaya",
+    "file": "lib/visualLab/data/poiExtraNigerCitiesV2.ts"
+  },
+  {
+    "id": "somair-uranium-mine-economic-v2",
+    "name": "SOMAIR Uranium Mine",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "cominak-akouta-mine-economic-v2",
+    "name": "COMINAK Uranium Mine",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "imouraren-mine-economic-v2",
+    "name": "Imouraren Uranium Project",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "soraz-zinder-refinery-economic-v2",
+    "name": "SORAZ Refinery",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "agadem-oil-field-economic-v2",
+    "name": "Agadem Oil Field",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "sonichar-tchirozerine-economic-v2",
+    "name": "SONICHAR Coal Power Plant",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "samira-hill-gold-mine-economic-v2",
+    "name": "Samira Hill Gold Mine",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "tchibarakaten-gold-mine-economic-v2",
+    "name": "Tchibarakaten Gold Mining",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "djado-gold-fields-economic-v2",
+    "name": "Djado Gold Fields",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "dosso-dry-port-economic-v2",
+    "name": "Dosso Dry Port",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "niamey-river-port-economic-v2",
+    "name": "Niamey River Port",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "gaya-river-port-economic-v2",
+    "name": "Gaya River Port",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "malbaza-cement-plant-economic-v2",
+    "name": "Malbaza Cement Plant",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "diori-hamani-cargo-hub-economic-v2",
+    "name": "Diori Hamani Cargo Hub",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "goudel-water-plant-economic-v2",
+    "name": "Goudel Water Plant",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "kandadji-dam-project-economic-v2",
+    "name": "Kandadji Dam",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "gorou-banda-power-economic-v2",
+    "name": "Gorou Banda Power Plant",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "bilma-salt-pans-economic-v2",
+    "name": "Bilma Salt Pans",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "fachi-salt-works-economic-v2",
+    "name": "Fachi Salt Works",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "zinder-tannery-economic-v2",
+    "name": "Zinder Tanneries",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "niamey-abattoir-economic-v2",
+    "name": "Niamey Slaughterhouse",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "galmi-onion-processing-economic-v2",
+    "name": "Galmi Onion Center",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "teguidda-salt-extraction-economic-v2",
+    "name": "Teguidda-n-Tessoumt Salt Extraction",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "maradi-dry-port-project-economic-v2",
+    "name": "Maradi Dry Port",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "diffa-oil-exploration-economic-v2",
+    "name": "Diffa Oil Exploration",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "koma-bangou-gold-economic-v2",
+    "name": "Koma Bangou Gold Field",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "ayorou-livestock-market-economic-v2",
+    "name": "Ayorou Livestock Market",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "zinder-peanut-processing-economic-v2",
+    "name": "Zinder Peanut Processing",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "tahoua-phosphate-mining-economic-v2",
+    "name": "Tahoua Phosphate Mining",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "agadez-logistics-hub-economic-v2",
+    "name": "Agadez Logistics Hub",
+    "file": "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  },
+  {
+    "id": "ne-agadez-historic-centre-history-v2",
+    "name": "Historic Centre of Agadez",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-agadez-mosque-history-v2",
+    "name": "Grand Mosque of Agadez",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-djado-ruins-history-v2",
+    "name": "Abandoned City of Djado",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-zinder-birni-history-v2",
+    "name": "Historical Birni Quarter",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-damagaram-palace-history-v2",
+    "name": "Sultan",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-assode-ruins-history-v2",
+    "name": "Ruins of Assod\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-fachi-fort-history-v2",
+    "name": "Fachi Caravan Fort",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-bilma-salt-history-v2",
+    "name": "Historical Salt Mines of Bilma",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-dirkou-outpost-history-v2",
+    "name": "Historical Outpost of Dirkou",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-arbre-tenere-history-v2",
+    "name": "Arbre du T\u00e9n\u00e9r\u00e9 Memorial",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-dosso-palace-history-v2",
+    "name": "Historical Palace of Dosso",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-maradi-history-v2",
+    "name": "Historical Katsina-Maradi Kingdom",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-ouallam-capital-history-v2",
+    "name": "Old Zarma Capital Ouallam",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-say-islamic-history-v2",
+    "name": "Say Islamic Center",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-tahoua-crossroads-history-v2",
+    "name": "Tahoua Caravan Crossroads",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-tillaberi-crossing-history-v2",
+    "name": "Tillab\u00e9ri River Crossing",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-birni-nkonni-history-v2",
+    "name": "Historical Birni-N",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-gaya-history-v2",
+    "name": "Gaya Historical Gateway",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-niamey-grand-market-history-v2",
+    "name": "Historical Grand Market of Niamey",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-boubon-pottery-history-v2",
+    "name": "Historical Boubon",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-gobirawa-ruins-history-v2",
+    "name": "Gobirawa Ruins",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-tessaoua-history-v2",
+    "name": "Tessaoua Trading Center",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-arlit-uranium-history-v2",
+    "name": "Arlit Mining Origin",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-madaoua-fort-history-v2",
+    "name": "Historical Madaoua",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-goudoumaria-history-v2",
+    "name": "Goudoumaria Historical Site",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-ngourti-well-history-v2",
+    "name": "Historical Well of N",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-diffa-outpost-history-v2",
+    "name": "Historical Kanem Outpost Diffa",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-nguigmi-chad-history-v2",
+    "name": "Historical Port of N",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-madarounfa-lake-history-v2",
+    "name": "Historical Lake Madarounfa",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "ne-filingue-valley-history-v2",
+    "name": "Historical Filingu\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerHistoryV2.ts"
+  },
+  {
+    "id": "tapoa-animal-habitat-life-v2",
+    "name": "Tapoa River Reserve",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "goudel-kid-landmark-life-v2",
+    "name": "Goudel Play Park",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "mara-agriculture-life-v2",
+    "name": "Maradi grain hub",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "ter-animal-habitat-life-v2",
+    "name": "T\u00e9ra bird sanctuary",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "gaya-agriculture-life-v2",
+    "name": "Gaya sugarcane plantation",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "doso-kid-landmark-life-v2",
+    "name": "Dosso children",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "agadez-kamel-habitat-life-v2",
+    "name": "Agadez camel oasis",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "zinder-land-kid-life-v2",
+    "name": "Zinder children",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "diffa-agri-life-v2",
+    "name": "Diffa vegetable farming",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "tahoua-zoo-life-v2",
+    "name": "Tahoua mini-zoo",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "filingue-agri-life-v2",
+    "name": "Filingu\u00e9 grain field",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "maradi-kids-life-v2",
+    "name": "Maradi adventure park",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "gaya-bird-life-v2",
+    "name": "Gaya wetland",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "dosso-agri-life-v2",
+    "name": "Dosso fruit plantation",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "tessaoua-agri-life-v2",
+    "name": "Tessaoua horticulture",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "konni-kids-life-v2",
+    "name": "Konni children",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "madaoua-agri-life-v2",
+    "name": "Madaoua farming",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "gour\u00e9-goat-life-v2",
+    "name": "Gour\u00e9 goat pasture",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "tera-bird-life-v2",
+    "name": "T\u00e9ra birdwatching",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "kollo-mango-life-v2",
+    "name": "Kollo mango grove",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "say-river-life-v2",
+    "name": "Say riverbank",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "nga-fishing-life-v2",
+    "name": "N",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "birni-kids-life-v2",
+    "name": "Birni children",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "magaria-agri-life-v2",
+    "name": "Magaria grain farming",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "tanout-kamel-life-v2",
+    "name": "Tanout camel pasture",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "mayahi-agri-life-v2",
+    "name": "Mayahi cultivation area",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "gaya-agri-life-v2",
+    "name": "Gaya irrigated land",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "zinder-zoo-life-v2",
+    "name": "Zinder zoo",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "maradi-kids-park-life-v2",
+    "name": "Maradi children",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "diffa-frucht-life-v2",
+    "name": "Diffa fruit garden",
+    "file": "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  },
+  {
+    "id": "niger-fluss-nature-v2",
+    "name": "Niger River",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "tschadsee-nature-v2",
+    "name": "Lake Chad",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "air-gebirge-nature-v2",
+    "name": "A\u00efr Mountains",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "tenere-wueste-nature-v2",
+    "name": "T\u00e9n\u00e9r\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "dallol-bosso-nature-v2",
+    "name": "Dallol Bosso",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "gourma-nature-v2",
+    "name": "Gourma",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "plateau-djado-nature-v2",
+    "name": "Djado Plateau",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "gueltas-air-nature-v2",
+    "name": "Gueltas in the A\u00efr Mountains",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "kaouar-oasen-nature-v2",
+    "name": "Kaouar Oases",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "erg-t\u00e9n\u00e9r\u00e9-nature-v2",
+    "name": "Erg T\u00e9n\u00e9r\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "goulbi-maradi-nature-v2",
+    "name": "Goulbi de Maradi",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "komadougou-yobe-nature-v2",
+    "name": "Komadougou Yob\u00e9",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "massif-termite-nature-v2",
+    "name": "Termit Massif",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "fachi-oase-nature-v2",
+    "name": "Fachi Oasis",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "bilma-oase-nature-v2",
+    "name": "Bilma Oasis",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "plateau-damagaram-nature-v2",
+    "name": "Damagaram Plateau",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "vall\u00e9e-dallol-maouri-nature-v2",
+    "name": "Dallol Maouri",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "goulbi-n-kaba-nature-v2",
+    "name": "Goulbi N\u2019Kaba",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "massif-adrar-bous-nature-v2",
+    "name": "Adrar Bous",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "plateau-tchigai-nature-v2",
+    "name": "Tchiga\u00ef Plateau",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "goulbi-kaba-nature-v2",
+    "name": "Goulbi Kaba",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "erg-mourzouk-rand-nature-v2",
+    "name": "Edge of Erg Mourzouk",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "dallol-fogha-nature-v2",
+    "name": "Dallol Fogha",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "plateau-koutous-nature-v2",
+    "name": "Koutous Massif",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "goulbi-goulbi-nature-v2",
+    "name": "Goulbi Goulbi",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "massif-if\u00e9rouane-nature-v2",
+    "name": "If\u00e9rouane Massif",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "goulbi-kane-nature-v2",
+    "name": "Goulbi Kane",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "plateau-damagaram-est-nature-v2",
+    "name": "Eastern Damagaram Plateau",
+    "file": "lib/visualLab/data/poiExtraNigerNatureV2.ts"
+  },
+  {
+    "id": "mont-greboun-relief-v2",
+    "name": "Mont Gr\u00e9boun",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "plateau-djado-relief-v2",
+    "name": "Djado Plateau Elevation",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "massif-termit-relief-v2",
+    "name": "Termit Massif Peak",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "plateau-damagaram-relief-v2",
+    "name": "Damagaram Plateau Edge",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "dallol-bosso-relief-v2",
+    "name": "Dallol-Bosso Valley",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "adrar-bous-relief-v2",
+    "name": "Adrar Bous Heights",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "plateau-tchigai-relief-v2",
+    "name": "Tchiga\u00ef Plateau Rocks",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "dallol-maouri-relief-v2",
+    "name": "Dallol-Maouri Depression",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "goulbi-maradi-relief-v2",
+    "name": "Goulbi de Maradi Valley",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "koutous-relief-v2",
+    "name": "Koutous Massif Height",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "komadougou-yobe-relief-v2",
+    "name": "Komadougou Yob\u00e9 Lowlands",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "dallol-fogha-relief-v2",
+    "name": "Dallol-Fogha Plains",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "goulbi-kaba-relief-v2",
+    "name": "Goulbi Kaba Valley",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "ife-massif-relief-v2",
+    "name": "If\u00e9rouane Massif Rise",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "goulbi-goulbi-relief-v2",
+    "name": "Goulbi Goulbi Valley",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "er-erg-tenere-relief-v2",
+    "name": "Erg T\u00e9n\u00e9r\u00e9 Dunes",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "gourma-lowland-relief-v2",
+    "name": "Gourma Lowland",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "eastern-damagaram-relief-v2",
+    "name": "Eastern Damagaram Plateau",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "goulbi-kane-relief-v2",
+    "name": "Goulbi Kane Valley",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "tchad-basin-relief-v2",
+    "name": "Chad Basin (Niger)",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "air-massif-relief-v2",
+    "name": "A\u00efr Mountain Core",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "bilma-escarpment-relief-v2",
+    "name": "Bilma Escarpment",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "kawar-cliff-relief-v2",
+    "name": "Kaouar Cliffs",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "fachi-hill-relief-v2",
+    "name": "Fachi Rise",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  },
+  {
+    "id": "koutous-east-relief-v2",
+    "name": "Eastern Koutous Spur",
+    "file": "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  }
+]

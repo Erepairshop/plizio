@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-sumter-history-v2",
+      "descriptionAdvanced": "Fort Sumter in Charleston Harbor, South Carolina, is the site where the first shots of the American Civil War were fired in April 1861. Following South Carolina's secession, Confederate forces bombarded the federal garrison, forcing its surrender and effectively signaling the onset of a four-year conflict that would determine the future of the nation and the fate of slavery. The fort’s strategic location and its role in the outbreak of the war make it a deeply symbolic site, representing the tragic collapse of political compromise and the beginning of the nation's most devastating internal struggle. Today, it stands as a preserved site for understanding the deep regional divisions and the escalation toward national catastrophe. History K8 — The onset of the Civil War.",
+      "factsAdvanced": [
+        "Site of the opening shots of the American Civil War in April 1861.",
+        "Confederate bombardment forced the surrender of the federal garrison.",
+        "Symbolizes the collapse of political compromise before the Civil War.",
+        "Strategically located in Charleston Harbor, South Carolina.",
+        "Marks the beginning of the nation's most devastating internal conflict.",
+        "Today serves as a preserved historic site for studying war escalation."
+      ]
+    },
+    {
+      "id": "appomattox-court-house-history-v2",
+      "descriptionAdvanced": "Appomattox Court House, Virginia, is the site of the surrender of the Confederate Army of Northern Virginia under General Robert E. Lee to Union Lieutenant General Ulysses S. Grant on April 9, 1865. This event effectively ended the American Civil War, setting the stage for the country's painful and complex Reconstruction era. The meeting in the McLean House demonstrated a momentary gesture of respect and a crucial step toward bringing the fractured nation back together, although the process of national reconciliation would remain deeply contested for decades. The park preserves the village as it stood, offering a poignant atmosphere of closure to the most transformative and tragic period in American history. History K8 — The end of the Civil War.",
+      "factsAdvanced": [
+        "Site of General Robert E. Lee’s surrender to General Ulysses S. Grant.",
+        "Surrender date of April 9, 1865, effectively ended the Civil War.",
+        "Meeting held at the McLean House in Appomattox Court House, Virginia.",
+        "Paved the way for the complex and contested Reconstruction era.",
+        "Symbolizes a crucial, difficult step toward national reconciliation.",
+        "Village site is preserved as a national park honoring this end-of-war moment."
+      ]
+    },
+    {
+      "id": "antietam-battlefield-history-v2",
+      "descriptionAdvanced": "The Battle of Antietam, fought near Sharpsburg, Maryland, on September 17, 1862, remains the bloodiest single-day battle in American history. Fought between the Union Army of the Potomac and the Confederate Army of Northern Virginia, it was a tactical draw but provided the strategic victory President Abraham Lincoln needed to issue the Preliminary Emancipation Proclamation. This shift in the purpose of the war—from preserving the Union to simultaneously dismantling the institution of slavery—changed the moral landscape of the conflict and dissuaded foreign powers from recognizing the Confederacy. Today, the battlefield is meticulously preserved as a somber monument to the incredible sacrifice and the turning point of the national struggle. History K8 — Civil War turning points and the Emancipation Proclamation.",
+      "factsAdvanced": [
+        "Bloodiest single-day battle in American history, fought Sept 17, 1862.",
+        "Tactical draw that served as a critical strategic victory for the Union.",
+        "Enabled President Lincoln to issue the Preliminary Emancipation Proclamation.",
+        "Expanded the war's purpose to include the destruction of slavery.",
+        "Dissuaded European powers from intervening on behalf of the Confederacy.",
+        "Meticulously preserved as a somber monument to national sacrifice."
+      ]
+    }
+  ]
+}

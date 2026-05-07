@@ -1,0 +1,225 @@
+{
+  "lang": "de",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jim-thompson-house-museum-history-v2",
+      "descriptionAdvanced": "Das Jim Thompson House in Bangkok ist ein architektonisches Juwel und ein Denkmal für den Mann, der die thailändische Seidenindustrie nach dem Zweiten Weltkrieg im Alleingang wiederbelebte. Das Museum besteht aus einem Komplex von sechs traditionellen thailändischen Holzhäusern aus Teak, die Jim Thompson aus verschiedenen Teilen des Landes hierher brachte und kunstvoll miteinander verband. Umgeben von einem üppigen tropischen Garten direkt am Khlong Saen Saeb, beherbergt das Haus seine exquisite Sammlung asiatischer Kunst, Antiquitäten und Keramiken. Die geheimnisvolle Geschichte von Jim Thompson, der 1967 spurlos in den Cameron Highlands in Malaysia verschwand, verleiht dem Ort eine fast mystische Aura. Besucher können die feine Handwerkskunst der Holzhäuser bewundern, die ohne Nägel erbaut wurden, und mehr über die traditionelle Seidenherstellung erfahren. Das Jim Thompson House ist eine Oase der Ruhe und Ästhetik inmitten des modernen Bangkoks und ein Muss für jeden Kulturliebhaber.",
+      "factsAdvanced": [
+        "Besteht aus sechs historischen thailändischen Teakholzhäusern.",
+        "Jim Thompson war ein ehemaliger US-Geheimdienstoffizier.",
+        "Gilt als Retter der thailändischen Seidenindustrie.",
+        "Der Hauskomplex wurde im Jahr 1959 fertiggestellt.",
+        "Beherbergt eine bedeutende Sammlung südostasiatischer Kunst.",
+        "Jim Thompson verschwand mysteriös am 26. März 1967.",
+        "Liegt direkt am Khlong Saen Saeb Kanal im Zentrum Bangkoks.",
+        "Das Gebäude verbindet traditionelle Thai-Architektur mit westlichem Komfort."
+      ]
+    },
+    {
+      "id": "wat-lokayasutharam-history-v2",
+      "descriptionAdvanced": "Der Wat Lokayasutharam in Ayutthaya ist berühmt für seinen monumentalen liegenden Buddha, der majestätisch unter freiem Himmel inmitten der Ruinen der ehemaligen Hauptstadt thront. Mit einer Länge von fast 40 Metern und einer Höhe von acht Metern ist der 'Phra Buddha Saiyat' eine der grössten Statuen ihrer Art in der Region. Ursprünglich war der Buddha in einem grossen Gebäude (Wihan) untergebracht, von dem heute nur noch die Fundamente und einige Säulenbasen zeugen, nachdem es bei der Zerstörung Ayutthayas 1767 niedergebrannt wurde. Die Statue selbst besteht aus Ziegeln und Mörtel und ist meist in ein leuchtendes orangefarbenes Tuch gehüllt, was einen starken Kontrast zum verwitterten Grau der Ruinen bildet. Besucher schätzen die friedliche und spirituelle Atmosphäre dieses Ortes, der etwas abseits der Haupttouristenpfade liegt. Der Buddha wird von Gläubigen tief verehrt, die oft Lotusblumen und Räucherstäbchen opfern, um für Glück und Gesundheit zu bitten.",
+      "factsAdvanced": [
+        "Heimat des grössten liegenden Buddhas in Ayutthaya (37 m lang).",
+        "Die Statue blickt traditionell nach Osten.",
+        "Der Kopf des Buddhas ruht auf vier Lotusknospen aus Stein.",
+        "Die Ruinen stammen aus der mittleren Ayutthaya-Periode.",
+        "Liegt im nordwestlichen Teil der historischen Insel Ayutthaya.",
+        "Der Tempel wurde bei der birmanischen Invasion 1767 zerstört.",
+        "Die Statue wurde in den 1950er Jahren vom Fine Arts Department restauriert.",
+        "Ein beliebter Ort für lokale Pilger und spirituelle Opfergaben."
+      ]
+    },
+    {
+      "id": "wat-tham-suea-krabi-history-v2",
+      "descriptionAdvanced": "Der Wat Tham Suea, auch als 'Tigerhöhlentempel' bekannt, ist einer der spektakulärsten und spirituellsten Orte in der Nähe von Krabi Town. Der Name leitet sich von einer Legende ab, nach der einst ein Tiger in der Höhle lebte, dessen Tatzenabdrücke noch heute im Stein zu sehen sein sollen. Die Anlage ist berühmt für ihre Hauptattraktion: eine schier endlose Treppe mit 1.260 Stufen, die steil auf den Gipfel eines Kalksteinfelsens führt. Wer den schweisstreibenden Aufstieg wagt, wird mit einer gigantischen goldenen Buddha-Statue und einem atemberaubenden 360-Grad-Panoramablick über das Hinterland von Krabi und die Andamanensee belohnt. In der Basis des Tempels befinden sich dichte Dschungelpfade und Höhlen, in denen Mönche in meditativer Abgeschiedenheit leben. Der Wat Tham Suea ist ein bedeutendes Zentrum für die Vipassana-Meditation und zieht sowohl gläubige Pilger als auch abenteuerlustige Reisende an, die die körperliche Herausforderung und die spirituelle Erhabenheit dieses Ortes suchen.",
+      "factsAdvanced": [
+        "Berühmt für die 1.260 Stufen zum Gipfelschrein.",
+        "Liegt etwa 10 Kilometer nördlich von Krabi Town.",
+        "Die Bergspitze bietet einen Blick aus 278 Metern Höhe.",
+        "Beherbergt den 'Tigerabdruck' in einer der unteren Höhlen.",
+        "Wichtiger Standort für buddhistische Meditation (Vipassana).",
+        "Die Anlage umfasst das 'Dschungeltal' Wonderland mit uralten Bäumen.",
+        "Auf dem Gipfel thront eine riesige goldene Buddha-Statue.",
+        "Wurde 1975 von dem Mönch Jumnean Seelasettho gegründet."
+      ]
+    },
+    {
+      "id": "three-pagodas-pass-history-v2",
+      "descriptionAdvanced": "Der Drei-Pagoden-Pass ist ein geschichtsträchtiger Grenzübergang in den Tenasserim-Bergen zwischen Thailand und Myanmar, in der Provinz Kanchanaburi gelegen. Über Jahrhunderte war dieser Pass der strategisch wichtigste Landweg für Armeen, Händler und Mönche zwischen den beiden Reichen. Die drei kleinen, namensgebenden Pagoden wurden als Symbol für den Frieden und als spiritueller Schutzpunkt errichtet, an dem Reisende vor der riskanten Überquerung der Grenze beteten. Im Zweiten Weltkrieg erlangte der Pass traurige Berühmtheit als Endpunkt des thailändischen Teils der 'Todesbahn', da die japanische Armee die Strecke hier nach Myanmar weiterführte. Heute ist der Ort ein ruhiger Grenzposten, an dem man kleine Märkte mit Waren aus beiden Ländern findet und die verfallenen Überreste der alten Gleise besichtigen kann. Der Pass bietet zudem faszinierende Einblicke in die Kultur der Mon- und Karen-Minderheiten, die in dieser abgelegenen Bergregion leben. Für Geschichtsinteressierte ist der Drei-Pagoden-Pass ein Ort von tiefer symbolischer Bedeutung für die thailändisch-birmanischen Beziehungen.",
+      "factsAdvanced": [
+        "Grenzübergang zwischen Sangkhla Buri (Thailand) und Payathonzu (Myanmar).",
+        "Die drei Pagoden symbolisieren Frieden und Schutz.",
+        "Historisch wichtigster Invasionsweg birmanischer Armeen nach Ayutthaya.",
+        "Endpunkt des thailändischen Abschnitts der 'Death Railway'.",
+        "Liegt auf einer Höhe von etwa 282 Metern in den Tenasserim-Bergen.",
+        "Region ist Heimat der ethnischen Gruppen Mon und Karen.",
+        "Ort für den Handel mit Edelsteinen, Möbeln und Textilien aus Myanmar.",
+        "Markiert die Wasserscheide zwischen dem Golf von Thailand und der Andamanensee."
+      ]
+    },
+    {
+      "id": "erawan-museum-history-v2",
+      "descriptionAdvanced": "Das Erawan-Museum in Samut Prakan, südlich von Bangkok, ist ein architektonisches Wunderwerk, das weithin durch seine gigantische, dreiköpfige Elefantenstatue aus Bronze sichtbar ist. Der 250 Tonnen schwere Elefant thront majestätisch auf einem kreisförmigen Gebäude und repräsentiert Erawan, das Reittier des Gottes Indra aus der hinduistischen Mythologie. Das Innere des Museums ist in drei Ebenen unterteilt, die den buddhistischen Kosmos darstellen: die Unterwelt mit Antiquitäten, die Welt der Menschen mit prachtvoller Dekoration aus buntem Glas und Porzellan, und die himmlische Welt im Inneren des Elefantenkörpers. Die Detailverliebtheit der Verzierung, von den kunstvoll geschnitzten Säulen bis hin zur bemalten Glaskuppel, die das Universum darstellt, ist atemberaubend. Das Museum wurde von dem exzentrischen thailändischen Geschäftsmann Lek Viriyaphant gegründet, um das thailändische Erbe und die religiösen Werte für zukünftige Generationen zu bewahren. Es ist ein Ort, der Kunst, Spiritualität und puren architektonischen Wagemut auf einzigartige Weise verbindet.",
+      "factsAdvanced": [
+        "Die Bronzestatue des dreiköpfigen Elefanten ist 29 Meter hoch.",
+        "Das Gesamtbauwerk erreicht eine Höhe von etwa 44 Metern.",
+        "Der Elefant allein wiegt ca. 250 Tonnen.",
+        "Unterteilt in drei Ebenen: Suvarnabhumi, Erdenwelt und Kosmos.",
+        "Die Glaskuppel im Inneren stellt die Tierkreiszeichen und das Universum dar.",
+        "Bauzeit betrug fast zehn Jahre bis zur Eröffnung 2003.",
+        "Umgeben von einem wunderschönen tropischen Garten mit Statuen.",
+        "Das Gebäude verbindet thailändische Handwerkskunst mit westlichen Bautechniken."
+      ]
+    },
+    {
+      "id": "democracy-monument-bangkok-landmarks-v2",
+      "descriptionAdvanced": "Das Demokratiedenkmal in Bangkok ist ein markantes Wahrzeichen an der Ratchadamnoen Avenue und ein bedeutendes Symbol für den Übergang Thailands zur konstitutionellen Monarchie. Es wurde 1939 zur Erinnerung an die Revolution von 1932 errichtet, die die absolute Herrschaft der Könige beendete. Das Design ist reich an Symbolik: Die vier flügelartigen Pfeiler sind 24 Meter hoch und stehen für den 24. Juni, den Tag des Umsturzes. In der Mitte befindet sich eine Nachbildung der thailändischen Verfassung auf einer Opferschale. Das Denkmal ist nicht nur ein historisches Zeugnis, sondern auch das emotionale Zentrum für zahlreiche politische Proteste und Demonstrationen in der modernen thailändischen Geschichte. Die breite Avenue um das Denkmal erinnert an europäische Prachtstrassen wie die Champs-Élysées und unterstreicht die Modernisierungsbestrebungen jener Ära. Nachts wird das Monument prachtvoll beleuchtet und bietet eine majestätische Kulisse im Herzen des historischen Bangkoks, unweit der Khao San Road und des Grand Palace.",
+      "factsAdvanced": [
+        "Eingeweiht am 24. Juni 1939 durch Feldmarschall Phibunsongkhram.",
+        "Entworfen von dem italienischen Architekten Corrado Feroci (Silpa Bhirasri).",
+        "Die vier Flügel symbolisieren die Armee, Marine, Luftwaffe und Polizei.",
+        "In der zentralen Skulptur wird das Verfassungsdokument aufbewahrt.",
+        "Die 75 Kanonenrohre im Sockel stehen für das Jahr 2475 (buddhistischer Kalender).",
+        "Ein wichtiger Brennpunkt für studentische Proteste 1973 und 1992.",
+        "Die Reliefs an der Basis zeigen Szenen der Revolution und des Wandels.",
+        "Liegt an der prestigeträchtigen Ratchadamnoen Klang Road."
+      ]
+    },
+    {
+      "id": "victory-monument-bangkok-landmarks-v2",
+      "descriptionAdvanced": "Das Siegesdenkmal (Victory Monument) ist einer der verkehrsreichsten und bekanntesten Knotenpunkte Bangkoks. Es wurde 1941 errichtet, um den thailändischen Sieg im kurzen Grenzkrieg gegen das französische Vichy-Regime in Indochina zu feiern. Die Architektur des Monuments ist militaristisch geprägt: Ein zentraler Obelisk in Form eines Bajonetts wird von fünf Statuen flankiert, die die Armee, Marine, Luftwaffe, Polizei und den zivilen Sektor repräsentieren. Das Denkmal steht in der Mitte eines riesigen Kreisverkehrs, um den herum sich ein pulsierendes Viertel mit Einkaufszentren, unzähligen Garküchen und einem der wichtigsten Umsteigepunkte für Busse und Minivans entwickelt hat. Millionen von Menschen passieren täglich diesen Ort, der durch die darüber verlaufende BTS-Skytrain-Linie eine futuristische Note erhält. Trotz seiner ursprünglichen kriegerischen Bedeutung ist das Victory Monument heute vor allem ein Symbol für die Mobilität und das unermüdliche Leben der thailändischen Metropole. Es ist der perfekte Ort, um den Puls der Stadt hautnah zu spüren.",
+      "factsAdvanced": [
+        "Erbaut im Juni 1941 zur Erinnerung an den Thai-Französischen Krieg.",
+        "Der zentrale Obelisk ist etwa 50 Meter hoch.",
+        "Die fünf Bronzestatuen stehen für die verschiedenen Verteidigungssektoren.",
+        "Wichtiger Verkehrsknotenpunkt für das städtische Bussystem.",
+        "Die BTS Sukhumvit Line führt direkt am Denkmal vorbei.",
+        "Beherbergt Gedenktafeln mit den Namen der gefallenen Soldaten.",
+        "Umgeben von beliebten Einkaufsmeilen wie dem Center One.",
+        "Bekannt für den 'Boat Noodle Alley' in der unmittelbaren Nachbarschaft."
+      ]
+    },
+    {
+      "id": "giant-swing-bangkok-landmarks-v2",
+      "descriptionAdvanced": "Die Riesenschaukel (Sao Ching Cha) ist eines der eigenwilligsten und zugleich heiligsten Wahrzeichen Bangkoks, gelegen direkt vor dem Wat Suthat. Das markante rote Gestell aus Teakholz wurde ursprünglich 1784 von König Rama I. errichtet und diente als Schauplatz für eine spektakuläre brahmanische Zeremonie zu Ehren des Gottes Shiva. Junge Männer schaukelten dabei in schwindelerregender Höhe, um einen Beutel mit Goldmünzen zu erreichen, der an einem hohen Pfahl befestigt war – eine Praxis, die aufgrund zahlreicher tödlicher Unfälle in den 1930er Jahren verboten wurde. Obwohl die Schaukel heute nicht mehr genutzt wird, bleibt sie ein bedeutendes kulturelles Denkmal, das die tiefen Wurzeln des Brahmanismus in der thailändischen Hofkultur widerspiegelt. Die heutige Struktur wurde 2004 komplett renoviert und besteht aus riesigen, perfekt geformten Teakholzstämmen. Die Riesenschaukel ist ein beliebtes Fotomotiv und markiert den historischen Mittelpunkt von Bangkoks Altstadt, umgeben von traditionellen Läden, die religiöse Gegenstände und Buddha-Statuen verkaufen.",
+      "factsAdvanced": [
+        "Ursprünglich im Jahr 1784 unter König Rama I. erbaut.",
+        "Wurde für das brahmanische 'Triyampawai' Ritual genutzt.",
+        "Das heutige Gestell stammt aus dem Jahr 2004 und ist aus Teakholz.",
+        "Die Schaukel hat eine Höhe von über 21 Metern.",
+        "Die gefährliche Schaukel-Zeremonie wurde 1935 offiziell verboten.",
+        "Liegt auf dem Platz vor dem königlichen Tempel Wat Suthat.",
+        "Ein Symbol für die Verbindung zwischen Erde und Himmel in der Mythologie.",
+        "Das Holz für die Renovierung stammte aus der Provinz Phrae."
+      ]
+    },
+    {
+      "id": "baiyoke-tower-ii-landmarks-v2",
+      "descriptionAdvanced": "Der Baiyoke Tower II war über zwei Jahrzehnte lang das höchste Gebäude Thailands und bleibt ein markantes Wahrzeichen der Skyline von Bangkok. Im lebhaften Marktviertel Pratunam gelegen, ist der Turm ein vertikales Handels- und Tourismuszentrum, das ein Hotel, zahlreiche Geschäfte und mehrere Aussichtsplattformen beherbergt. Mit einer Höhe von 304 Metern (328 Meter inklusive Mast) bietet er einen unvergleichlichen 360-Grad-Blick über die schier endlose Metropole bis hin zum Golf von Thailand. Ein besonderes Highlight ist die drehbare Aussichtsplattform im 84. Stock, die besonders abends, wenn die Stadt in ein Meer aus Lichtern getaucht ist, ein magisches Erlebnis bietet. Der Turm ist berühmt für seine Buffet-Restaurants in luftiger Höhe, die sowohl lokale Spezialitäten als auch internationale Küche anbieten. Trotz der Konkurrenz durch neuere, modernere Wolkenkratzer wie dem MahaNakhon behält der Baiyoke Tower II seinen Kultstatus als Symbol für den rasanten Aufstieg Bangkoks zur Weltstadt in den 1990er Jahren.",
+      "factsAdvanced": [
+        "War von 1997 bis 2016 das höchste Gebäude Thailands.",
+        "Höhe: 304 Meter (85 Stockwerke).",
+        "Beherbergt das Baiyoke Sky Hotel, eines der höchsten Hotels der Welt.",
+        "Verfügt über eine offene, drehbare Aussichtsplattform im 84. Stock.",
+        "Gegründet auf über 360 Betonpfeilern, die bis zu 65 Meter tief reichen.",
+        "Zentrum des Textilhandels im Stadtteil Pratunam.",
+        "Bietet das berühmte 'Fruit Buffet' im unteren Bereich des Turms an.",
+        "Ein wichtiger Orientierungspunkt im Herzen von Bangkok."
+      ]
+    },
+    {
+      "id": "bridge-on-the-river-kwai-landmarks-v2",
+      "descriptionAdvanced": "Die Brücke am Fluss Kwai in Kanchanaburi ist eines der historisch bedeutendsten Bauwerke Thailands und ein Symbol für das Leiden zehntausender Menschen während des Zweiten Weltkriegs. Sie war Teil der berüchtigten 'Todesbahn', die Japan errichten liess, um Nachschubwege nach Burma zu sichern. Unter unmenschlichen Bedingungen mussten alliierte Kriegsgefangene und asiatische Zwangsarbeiter die Brücke in Rekordzeit erbauen, was unzählige Menschenleben forderte. Weltberühmt wurde die Brücke durch den gleichnamigen Hollywood-Klassiker von 1957, auch wenn der Film viele historische Fakten fiktionalisierte. Die heutige Brücke ist eine Rekonstruktion, da das Original 1945 durch alliierte Bombenangriffe zerstört wurde. Besucher können heute zu Fuss über die Brücke gehen oder mit einem Lokalzug den Fluss überqueren. Jedes Jahr im November und Dezember findet hier ein grosses Festival mit einer spektakulären Licht- und Tonshow statt, die die Geschichte der Brücke nachstellt. Ein Besuch hier ist eine bewegende Mischung aus historischem Gedenken und der wunderschönen Flusslandschaft Westthailands.",
+      "factsAdvanced": [
+        "Teil der 415 km langen Thailand-Burma-Eisenbahn (Death Railway).",
+        "Erbaut im Jahr 1943 durch Zwangsarbeiter und Kriegsgefangene.",
+        "Der echte Name des Flusses wurde erst später in Kwai Yai geändert.",
+        "Die Brücke wurde im Februar 1945 von der britischen RAF bombardiert.",
+        "Wurde 1957 durch den Film von David Lean weltweit bekannt.",
+        "Die heutigen bogenförmigen Segmente stammen aus der Nachkriegszeit.",
+        "Alljährliches Brückenfest findet Ende November/Anfang Dezember statt.",
+        "Ein wichtiger Ort für Versöhnung und internationales Gedenken."
+      ]
+    },
+    {
+      "id": "big-buddha-phuket-landmarks-v2",
+      "descriptionAdvanced": "Der Big Buddha von Phuket ist eines der beeindruckendsten und am weithin sichtbarsten Wahrzeichen der Insel. Die majestätische Statue thront auf dem Gipfel des Nakkerd Hills zwischen Chalong und Kata und wacht über den Süden von Phuket. Mit einer Höhe von 45 Metern ist der Buddha komplett mit weissem, schimmerndem Marmor aus Burma verkleidet, der im Sonnenlicht prachtvoll funkelt. Der Bau wurde ausschliesslich durch Spenden finanziert und ist ein Ort tiefer Spiritualität und Ruhe. Wer den kurvenreichen Weg zum Gipfel erklimmt, wird mit einem spektakulären 360-Grad-Panoramablick belohnt, der von der Chalong-Bucht über Phuket Town bis hin zum türkisfarbenen Wasser der Andamanensee reicht. Die Atmosphäre wird durch das sanfte Klingen von tausenden kleinen Glocken geprägt, die im Wind läuten, und die leisen Gebete der Mönche. Der Big Buddha ist nicht nur ein Touristenmagnet, sondern ein aktives religiöses Zentrum, an dem Besucher die thailändische Kultur und buddhistische Hingabe hautnah erleben können.",
+      "factsAdvanced": [
+        "Offizieller Name: Phra Phutta Ming Mongkol Eknakiri.",
+        "Höhe der Statue: 45 Meter, Breite an der Basis: 25 Meter.",
+        "Komplett mit weissem Jade-Marmor aus Myanmar verkleidet.",
+        "Projektstart war im Jahr 2004, finanziert rein durch Spenden.",
+        "Bietet den besten Panoramablick über die Insel Phuket.",
+        "Neben dem grossen Buddha steht eine kleinere, 12 Meter hohe goldene Statue.",
+        "Besucher müssen ihre Schultern und Knie bedecken (Respektgebot).",
+        "Auf dem Gelände hängen tausende Wunsch-Glocken von Gläubigen."
+      ]
+    },
+    {
+      "id": "hellfire-pass-memorial-landmarks-v2",
+      "descriptionAdvanced": "Der Hellfire Pass (Konyu Cutting) in Kanchanaburi ist einer der bedrückendsten und zugleich würdigsten Gedenkorte an der ehemaligen 'Todesbahn'. Um den Bau der Eisenbahnstrecke durch das zerklüftete Gebirge voranzutreiben, mussten alliierte Kriegsgefangene und asiatische Arbeiter eine gewaltige Schneise von Hand in den harten Fels schlagen. Den Namen erhielt der Pass von dem gespenstischen Anblick der nachts bei Fackelschein arbeitenden, völlig entkräfteten Männer, die wie Gestalten in der Hölle wirkten. Heute führt ein friedlicher Wanderweg durch den tiefen Felseinschnitt, gesäumt von kleinen Mahnmalen und Blumen. Das angeschlossene Hellfire Pass Interpretive Centre, das von der australischen Regierung gestiftet wurde, bietet eine exzellente und bewegende Dokumentation über das Schicksal der Gefangenen. Ein Besuch hier ist eine tiefgreifende Erfahrung, die die Grausamkeit des Krieges und die unglaubliche Widerstandskraft des menschlichen Geistes verdeutlicht. Die Stille des Dschungels heute bildet einen scharfen Kontrast zum ohrenbetäubenden Lärm und Schmerz der damaligen Zeit.",
+      "factsAdvanced": [
+        "Grösster Felseinschnitt der Thailand-Burma-Eisenbahn.",
+        "Wurde in nur sechs Monaten (April bis September 1943) erbaut.",
+        "Arbeiter mussten 18 Stunden am Tag mit Handwerkzeugen graben.",
+        "Hunderte von Kriegsgefangenen starben allein an diesem Abschnitt.",
+        "Interpretive Centre wurde 1998 von der australischen Regierung eröffnet.",
+        "Ein alljährlicher Gottesdienst findet am ANZAC Day (25. April) statt.",
+        "Der Wanderweg folgt der ursprünglichen Gleisstrasse.",
+        "Symbol für die Leiden der australischen und alliierten Truppen."
+      ]
+    },
+    {
+      "id": "phimai-historical-park-landmarks-v2",
+      "descriptionAdvanced": "Der Geschichtspark Phimai in der Provinz Nakhon Ratchasima beherbergt eine der bedeutendsten und am besten erhaltenen Khmer-Tempelanlagen Thailands. Der im 11. und 12. Jahrhundert errichtete Tempel markierte das Ende der antiken Khmer-Strasse, die direkt von Angkor Wat hierher führte. Architektonisch ist Phimai faszinierend, da es als buddhistisches Heiligtum in einem Stil erbaut wurde, der dem hinduistischen Angkor Wat sehr ähnelt. Das Herzstück ist der zentrale Prang aus weissem Sandstein, der mit exquisiten Schnitzereien verziert ist, die sowohl hinduistische als auch buddhistische Gottheiten darstellen. Die Anlage ist von mächtigen Mauern und Wassergräben umgeben, was die kosmologische Ordnung des Universums widerspiegeln soll. Im Gegensatz zum oft überlaufenen Angkor bietet Phimai eine ruhige Atmosphäre, in der man die präzise Steinmetzkunst der Khmer-Baumeister in aller Stille bewundern kann. Die Stadt Phimai selbst wurde um den Tempel herum gebaut, was die historische Kontinuität dieses Ortes unterstreicht, der als eines der 'Angkor Thailands' gilt.",
+      "factsAdvanced": [
+        "Grösster Khmer-Tempel in Thailand.",
+        "Gegründet im späten 11. Jahrhundert, älter als Angkor Wat.",
+        "Zentrales Heiligtum ist dem Mahayana-Buddhismus gewidmet.",
+        "Endpunkt der 225 km langen antiken Strasse von Angkor.",
+        "Berühmt für die feinen Reliefs am zentralen Turm.",
+        "Wurde in den 1960er Jahren mit französischer Hilfe restauriert.",
+        "Anlage misst etwa 1.000 mal 500 Meter inklusive Wassergräben.",
+        "Umfasst den Meru Brahmathat, einen antiken Ziegelhügel in der Nähe."
+      ]
+    },
+    {
+      "id": "phanom-rung-historical-park-landmarks-v2",
+      "descriptionAdvanced": "Phanom Rung ist ein majestätischer Khmer-Tempelkomplex, der spektakulär auf dem Gipfel eines erloschenen Vulkans in der Provinz Buri Ram thront. Die Anlage, die zwischen dem 10. und 13. Jahrhundert aus rosa Sandstein und Laterit erbaut wurde, ist dem hinduistischen Gott Shiva gewidmet und stellt symbolisch seinen Wohnsitz, den Berg Kailash, dar. Einzigartig ist die präzise astronomische Ausrichtung des Tempels: Viermal im Jahr scheinen die Sonnenstrahlen exakt durch alle 15 Tore des Heiligtums gleichzeitig, ein Ereignis, das mit grossen Festivals gefeiert wird. Der Aufstieg zum Tempel über eine prachtvolle Prozessionsstrasse und monumentale Treppen ist ein erhabenes Erlebnis. Die Schnitzereien, insbesondere der berühmte Türsturz von Phra Narai, gehören zu den feinsten Beispielen der Khmer-Kunst weltweit. Phanom Rung bietet nicht nur historische Tiefe, sondern auch einen weiten Blick über die Ebenen des Isan bis hin zur kambodschanischen Grenze. Die Kombination aus dramatischer Lage, architektonischer Perfektion und spiritueller Energie macht diesen Ort zu einem der absoluten kulturellen Höhepunkte Thailands.",
+      "factsAdvanced": [
+        "Einzigartiger Standort auf einem 400 m hohen erloschenen Vulkan.",
+        "Bedeutendstes hinduistisches Khmer-Heiligtum in Thailand.",
+        "Berühmt für die 15-Tore-Sonnen-Ausrichtung (viermal jährlich).",
+        "Der 'Phra Narai Reclining Lint' wurde 1988 aus den USA zurückgeführt.",
+        "Erbaut hauptsächlich im 12. Jahrhundert während der Blütezeit Angkors.",
+        "Verfügt über eine 160 Meter lange Prozessionsstrasse.",
+        "Die Naga-Brücken symbolisieren den Übergang von der Menschen- zur Götterwelt.",
+        "Teil der Tentativliste für das UNESCO-Weltkulturerbe."
+      ]
+    },
+    {
+      "id": "wat-chaiwatthanaram-landmarks-v2",
+      "descriptionAdvanced": "Der Wat Chaiwatthanaram in Ayutthaya ist einer der imposantesten und fotogensten Tempel der ehemaligen Hauptstadt Siams. Er wurde 1630 von König Prasat Thong im Khmer-Stil erbaut, um seinen Sieg über Kambodscha zu feiern und seiner Mutter zu gedenken. Die Anlage am Westufer des Chao Phraya Flusses besticht durch ihren zentralen, 35 Meter hohen Prang, der von acht kleineren Türmen umgeben ist, die symbolisch die Berge des buddhistischen Weltbildes darstellen. Besonders bei Sonnenuntergang bietet der Tempel einen magischen Anblick, wenn das rote Ziegelmauerwerk im warmen Licht erstrahlt und sich im Fluss spiegelt. Obwohl der Tempel bei der Zerstörung Ayutthayas 1767 schwer beschädigt wurde, zeugen die verbliebenen Strukturen und die kopflosen Buddha-Statuen entlang der Galerien von der einstigen Erhabenheit. In den letzten Jahren erlangte der Tempel durch eine populäre thailändische Fernsehserie neue Berühmtheit, was dazu führte, dass viele Besucher in traditionellen Trachten hierher kommen, um die Atmosphäre vergangener Jahrhunderte aufzusaugen.",
+      "factsAdvanced": [
+        "Königlicher Tempel, erbaut im Jahr 1630 von König Prasat Thong.",
+        "Architekturstil ist stark von den Khmer-Tempeln in Angkor beeinflusst.",
+        "Der zentrale Prang symbolisiert den Weltenberg Meru.",
+        "Liegt direkt am Ufer des Chao Phraya Flusses ausserhalb der Stadtinsel.",
+        "Wurde nach der Zerstörung 1767 fast 200 Jahre lang dem Dschungel überlassen.",
+        "Umfassende Restaurierung durch das Fine Arts Department in den 1980er Jahren.",
+        "Ein beliebter Ort für Film- und Fernsehproduktionen.",
+        "Bekannt für die Prozessionsgalerien mit ursprünglich 120 Buddha-Statuen."
+      ]
+    }
+  ]
+}

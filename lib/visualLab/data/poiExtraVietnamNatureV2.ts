@@ -24,7 +24,16 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["Magában foglalja a Ba Bể-tavat.", "Számos etnikai kisebbségi csoport otthona.", "Változatos növény- és állatvilág, beleértve ritka majomfajokat is.", "Népszerű a csónakázás és a barlangászat."],
       ro: ["Include Lacul Ba Bể.", "Acasă pentru multe grupuri etnice minoritare.", "Floră și faună diversă, inclusiv specii rare de maimuțe.", "Popular pentru plimbări cu barca și explorarea peșterilor."],
       en: ["Features Ba Bể Lake.", "Home to many ethnic minority groups.", "Diverse flora and fauna, including rare monkey species.", "Popular for boat trips and cave exploration."]
-    }, image: "/poi-images/ba-be-national-park-nature-v2.webp"},
+    }, image: "/poi-images/ba-be-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ba-Bể-Nationalpark ist eine spektakuläre Bergregion in der nordvietnamesischen Provinz Bắc Kạn, deren Herzstück der malerische Ba-Bể-See bildet. Dieser Süßwassersee liegt eingebettet zwischen majestätischen Kalksteinbergen, die von dichten immergrünen Wäldern bedeckt sind und eine hohe biologische Vielfalt beherbergen. Der Park ist nicht nur ein Refugium für seltene Tierarten wie den Tonkin-Stumpfnasenaffen, sondern auch die Heimat verschiedener ethnischer Minderheiten, deren traditionelle Lebensweise tief in dieser Naturlandschaft verwurzelt ist. Geografie K7 — Ökosysteme und biologische Vielfalt.",
+      ro: "Parcul Național Ba Be adăpostește un ecosistem unic de lacuri montane, păduri calcaroase și peșteri, oferind un peisaj de o liniște profundă în nordul muntos al Vietnamului."
+    },
+    factsAdvanced: {
+      de: ["Einer der größten natürlichen Süßwasserseen in Vietnam", "Die Region umfasst ein ausgedehntes Karstgebirge", "Heimat des stark gefährdeten Tonkin-Stumpfnasenaffen", "Wichtiger Ort für kulturellen Austausch mit ethnischen Minderheiten", "Der Park wurde 1992 offiziell als Nationalpark ausgewiesen", "Zahlreiche Höhlen und Wasserfälle prägen das Gelände"],
+      ro: ["Include Lacul Ba Be, unul dintre cele mai mari lacuri montane", "Ecosistem montan și lacustru divers", "Găzduiește numeroase specii endemice de plante și animale", "Regiunea este populată de comunități etnice Tay", "Parte din rețeaua mondială de geoparkuri UNESCO", "Destinație ideală pentru ecoturism"]
+    }
+  },
   {
     id: "cuc-phuong-national-park-nature-v2",
     type: "national-park",
@@ -47,7 +56,16 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["1962-ben alapították.", "Otthont ad a Veszélyeztetett Főemlősök Mentőközpontjának.", "Több mint 2000 növényfaj.", "Ősi barlangok őskori maradványokkal."],
       ro: ["Înființat în 1962.", "Găzduiește Centrul de Salvare a Primatelor pe cale de dispariție.", "Peste 2000 de specii de plante.", "Peșteri antice cu rămășițe preistorice."],
       en: ["Established in 1962.", "Home to the Endangered Primate Rescue Center.", "Over 2000 species of plants.", "Ancient caves with prehistoric remains."]
-    }, image: "/poi-images/cuc-phuong-national-park-nature-v2.webp"},
+    }, image: "/poi-images/cuc-phuong-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Als erster offiziell ausgewiesener Nationalpark Vietnams nimmt der Cúc-Phương-Nationalpark eine Schlüsselrolle im nationalen Naturschutzprogramm ein. Er schützt ein bedeutendes Stück des tropischen Regenwaldes auf Kalksteinformationen, das eine bemerkenswerte Dichte an Flora und Fauna aufweist. Neben seiner Bedeutung als Forschungsstandort ist der Park weltweit bekannt für seine Integrationsbemühungen, wie das Rettungszentrum für gefährdete Primaten, das essenziell für die Erhaltung bedrohter Arten ist. Sachkunde K6 — Artenschutz und Regenwaldökosysteme.",
+      ro: "Parcul Național Cuc Phuong este cea mai veche rezervație naturală din Vietnam, cunoscută pentru biodiversitatea sa tropicală bogată și pentru peșterile sale preistorice."
+    },
+    factsAdvanced: {
+      de: ["Gründung als erster Nationalpark Vietnams im Jahr 1962", "Beheimatet das bedeutende Rettungszentrum für Primaten", "Enthält über 2.000 verschiedene Pflanzenarten", "Umfasst archäologisch wertvolle Höhlen wie die 'Höhle des Menschen'", "Schützt primäre Regenwaldbestände auf Karstfelsen", "Wichtiger Standort für die ökologische Forschung in Vietnam"],
+      ro: ["Cea mai veche rezervație naturală din Vietnam (înființată în 1962)", "Biodiversitate tropicală extrem de bogată", "Găzduiește peșteri cu vestigii preistorice", "Regiune de pădure primară bine conservată", "Acasă pentru centrul de salvare a primatelor", "Locație esențială pentru cercetare biologică"]
+    }
+  },
   {
     id: "cat-tien-national-park-nature-v2",
     type: "national-park",
@@ -70,7 +88,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["Az alföldi trópusi erdők egyik legnagyobb területét védi.", "Krokodilok, gibbonok és számos madárfaj otthona.", "Bau Sau vizes élőhely (Krokodil-tó).", "Elefánt- és medvevédelmi programok."],
       ro: ["Protejează una dintre cele mai mari zone de pădure tropicală de șes.", "Acasă pentru crocodili, giboni și multe specii de păsări.", "Zona umedă Bau Sau (Lacul Crocodililor).", "Programe de conservare pentru elefanți și urși."],
       en: ["Protects one of the largest areas of lowland tropical forest.", "Home to crocodiles, gibbons, and many bird species.", "Bau Sau Wetlands (Crocodile Lake).", "Elephant and bear conservation programs."]
-    }, image: "/poi-images/cat-tien-national-park-nature-v2.webp"},
+    }, image: "/poi-images/cat-tien-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul Național Cat Tien este una dintre cele mai importante zone de conservare a faunei sălbatice din Vietnam, oferind habitate critice pentru elefanți, primate și o mare diversitate de păsări."
+    },
+    factsAdvanced: {
+      ro: ["Rezervație a biosferei UNESCO", "Habitat critic pentru specii pe cale de dispariție", "Păduri de câmpie de tip tropical", "Zonă importantă pentru observarea păsărilor", "Include Lacul Crocodile, un punct cheie pentru faună", "Eforturi majore de conservare a biodiversității"]
+    }
+  },
   {
     id: "hoan-kiem-lake-nature-v2",
     type: "lake",
@@ -93,7 +118,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["A tó egyik szigetén található a Ngoc Son templom.", "A vörös Huc híd vezet a templomhoz.", "A Teknős-torony (Thap Rua) egy másik szigeten áll.", "Lê Lợi király legendájához kapcsolódik."],
       ro: ["Templul Ngoc Son este situat pe o insulă în lac.", "Podul roșu Huc duce la templu.", "Turnul Broaștei Țestoase (Thap Rua) se află pe o altă insulă.", "Legat de legenda regelui Lê Lợi."],
       en: ["Ngoc Son Temple is on an island in the lake.", "The red Huc Bridge leads to the temple.", "Turtle Tower (Thap Rua) is on another islet.", "Linked to the legend of King Lê Lợi."]
-    }, image: "/poi-images/hoan-kiem-lake-nature-v2.webp"},
+    }, image: "/poi-images/hoan-kiem-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Lacul Hoan Kiem, sau Lacul 'Sabiei Restituite', este inima simbolică a Hanoiului, o oază de liniște legendară care înconjoară Templul Ngoc Son, fiind locul preferat de promenadă al locuitorilor."
+    },
+    factsAdvanced: {
+      ro: ["Inima simbolică a capitalei Hanoi", "Legendar pentru povestea sabiei restituite", "Găzduiește Templul Ngoc Son pe o insuliță", "Loc preferat pentru promenada zilnică", "Punct de referință istoric și natural", "Peisaj urban cu valoare spirituală"]
+    }
+  },
   {
     id: "west-lake-nature-v2",
     type: "lake",
@@ -116,7 +148,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["Körülbelül 17 kilométeres kerületű.", "Itt található a Trấn Quốc pagoda, Hanoi legrégebbi pagodája.", "Ideális kerékpározáshoz és sétákhoz.", "Sok előkelő lakónegyed."],
       ro: ["O circumferință de aproximativ 17 kilometri.", "Pagoda Trấn Quốc, cea mai veche pagodă din Hanoi, este situată aici.", "Ideal pentru ciclism și plimbări.", "Multe cartiere rezidențiale de lux."],
       en: ["A circumference of about 17 km.", "Trấn Quốc Pagoda, Hanoi's oldest, is located here.", "Great for cycling and walking.", "Many upscale residential areas."]
-    }, image: "/poi-images/west-lake-nature-v2.webp"},
+    }, image: "/poi-images/west-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Lacul de Vest (West Lake) este cea mai mare întindere de apă din Hanoi, un centru de recreere și un spațiu natural care oferă o evadare necesară din dinamica urbană a capitalei."
+    },
+    factsAdvanced: {
+      ro: ["Cea mai mare întindere de apă din Hanoi", "Centru pentru activități recreative și sportive", "Înconjurat de temple și pagode istorice", "Regiune cu numeroase restaurante și grădini", "Punct de vedere panoramic asupra orașului", "Spațiu natural important pentru ecosistemul urban"]
+    }
+  },
   {
     id: "red-river-nature-v2",
     type: "river",
@@ -139,7 +178,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["Termékeny vörös hordalékot hoz magával.", "Fontos vízi út a közlekedés számára.", "A Long Biên híd szeli át Hanoiban.", "Életforrás milliók számára."],
       ro: ["Aduce aluviuni roșii fertile.", "Cale navigabilă importantă pentru transport.", "Podul Long Biên îl traversează în Hanoi.", "Sursă de viață pentru milioane de oameni."],
       en: ["Carries fertile red-hued alluvium.", "Major waterway for transport.", "The Long Biên Bridge crosses it in Hanoi.", "Source of life for millions."]
-    }, image: "/poi-images/red-river-nature-v2.webp"},
+    }, image: "/poi-images/red-river-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Râul Roșu este artera vitală a Vietnamului de Nord, depunând sedimente fertile care au permis dezvoltarea civilizației vietnameze în Delta Fluviului Roșu timp de milenii."
+    },
+    factsAdvanced: {
+      ro: ["Artera vitală a Vietnamului de Nord", "Formator al fertilității Deltei Fluviului Roșu", "Transportator masiv de sedimente bogate", "Centru de dezvoltare a civilizației agricole", "Lungime totală de peste 1.100 km", "Regim hidrologic sezonier pronunțat"]
+    }
+  },
   {
     id: "perfume-river-nature-v2",
     type: "river",
@@ -162,7 +208,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["Elhalad a Császári Citadella és számos királyi sír mellett.", "Partján fekszik a Thiên Mụ pagoda.", "Népszerűek a naplementés csónakázások.", "Huế városának szimbóluma."],
       ro: ["Curge pe lângă Cetatea Imperială și multe morminte regale.", "Pagoda Thiên Mụ se află pe malurile sale.", "Plimbările cu barca la apus sunt populare.", "Un simbol al orașului Huế."],
       en: ["Flows past the Imperial Citadel and many royal tombs.", "The Thiên Mụ Pagoda is on its banks.", "Sunset boat cruises are popular.", "A symbol of the city of Huế."]
-    }, image: "/poi-images/perfume-river-nature-v2.webp"},
+    }, image: "/poi-images/perfume-river-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Râul Parfumului (Huong Giang) șerpuiește prin orașul Hue, oferind peisaje poetice și fiind legat strâns de istoria imperială și cultura literară a Vietnamului."
+    },
+    factsAdvanced: {
+      ro: ["Râul emblematic al orașului Hue", "Sursă de inspirație pentru poezie și artă", "Conectează numeroase monumente imperiale", "Numele provine de la florile căzute în apă", "Peisaj cultural protejat", "Punct central pentru turismul fluvial"]
+    }
+  },
   {
     id: "ba-vi-national-park-nature-v2",
     type: "national-park",
@@ -185,7 +238,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["Három csúcs: Vua, Tản Viên és Ngọc Hoa.", "Francia gyarmati romok, köztük egy templom.", "Gyógynövényekben gazdag.", "Népszerű hétvégi célpont a hanoiak számára."],
       ro: ["Trei vârfuri: Vua, Tản Viên și Ngọc Hoa.", "Ruine coloniale franceze, inclusiv o biserică.", "Bogat în plante medicinale.", "Destinație populară de weekend pentru locuitorii din Hanoi."],
       en: ["Three peaks: Vua, Tản Viên, and Ngọc Hoa.", "French colonial ruins, including a church.", "Rich in medicinal plants.", "Popular weekend getaway for Hanoians."]
-    }, image: "/poi-images/ba-vi-national-park-nature-v2.webp"},
+    }, image: "/poi-images/ba-vi-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul Național Ba Vi este o regiune montană situată în apropierea Hanoiului, celebră pentru ecosistemele sale montane diverse și pentru templele sale istorice ascunse în păduri."
+    },
+    factsAdvanced: {
+      ro: ["Situat la 50 km de Hanoi", "Ecosistem montan diversificat", "Temple istorice situate pe vârfurile munților", "Climat montan plăcut tot anul", "Destinație populară pentru drumeții", "Păduri bogate în specii endemice"]
+    }
+  },
   {
     id: "pu-luong-nature-reserve-nature-v2",
     type: "forest",
@@ -208,7 +268,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["A 'Pù Luông' jelentése 'legmagasabb csúcs' a thai nyelven.", "A thai és muong etnikai csoportok otthona.", "Ideális túrázáshoz és ökoturizmushoz.", "Hagyományos falusi szálláshelyeket kínál."],
       ro: ["'Pù Luông' înseamnă 'cel mai înalt vârf' în limba Thai.", "Acasă pentru grupurile etnice Thai și Muong.", "Ideal pentru drumeții și ecoturism.", "Oferă cazare tradițională în gospodării locale."],
       en: ["'Pù Luông' means 'highest peak' in the Thai language.", "Home to the Thai and Muong ethnic groups.", "Ideal for trekking and ecotourism.", "Offers traditional homestays."]
-    }, image: "/poi-images/pu-luong-nature-reserve-nature-v2.webp"},
+    }, image: "/poi-images/pu-luong-nature-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Rezervația Naturală Pu Luong oferă unele dintre cele mai spectaculoase peisaje de terase de orez din Vietnam, fiind un paradis cultural pentru etnia Thai și pentru iubitorii de natură autentică."
+    },
+    factsAdvanced: {
+      ro: ["Faimoasă pentru terasele de orez dramatice", "Biodiversitate montană protejată", "Locuită în mare parte de etnia Thai", "Destinație de top pentru turism montan rural", "Peisaj cultural conservat", "Trasee de drumeții prin sate izolate"]
+    }
+  },
   {
     id: "bach-ma-national-park-nature-v2",
     type: "national-park",
@@ -231,7 +298,14 @@ export const poiExtraVietnamNatureV2: POI[] = [
       hu: ["1450 méteres csúcs panorámás kilátással.", "Magas csapadékmennyiség, ami buja növényzetet eredményez.", "Öt tó túraútvonal és Đỗ Quyên-vízesés.", "Biodiverzitás-folyosó Észak- és Dél-Vietnám között."],
       ro: ["Vârf la 1.450 de metri cu vederi panoramice.", "Precipitații ridicate, ducând la o vegetație luxuriantă.", "Traseul celor Cinci Lacuri și Cascada Đỗ Quyên.", "Coridor de biodiversitate între nordul și sudul Vietnamului."],
       en: ["Peak at 1,450 meters with panoramic views.", "High rainfall, leading to lush vegetation.", "Five Lakes Trail and Đỗ Quyên Waterfall.", "Biodiversity corridor between North and South Vietnam."]
-    }, image: "/poi-images/bach-ma-national-park-nature-v2.webp"},
+    }, image: "/poi-images/bach-ma-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul Național Bach Ma este o regiune muntoasă care protejează o zonă de tranziție între ecosistemele din nordul și sudul Vietnamului, fiind renumit pentru biodiversitatea sa unică."
+    },
+    factsAdvanced: {
+      ro: ["Zonă de tranziție ecologică majoră", "Renumit pentru diversitatea biologică", "Include numeroase cascade și poteci montane", "Altitudine înaltă cu vedere spre ocean", "Istorie bogată ca stațiune montană colonială", "Habitat pentru specii rare de mamifere"]
+    }
+  },
   {
     id: "dong-van-karst-plateau-geopark-nature-v2",
     type: "national-park",

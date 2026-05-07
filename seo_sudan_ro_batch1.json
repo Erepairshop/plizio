@@ -1,0 +1,289 @@
+{
+  "lang": "ro",
+  "country": "sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "omdurman-cities-v2",
+      "descriptionAdvanced": "Omdurman, cel mai mare oraș din Sudan, este situat pe malul vestic al Nilului, vizavi de Khartoum, fiind considerat inima culturală și religioasă a națiunii. Orașul a devenit capitală în timpul revoltei mahdiste de la sfârșitul secolului al XIX-lea și păstrează până astăzi o identitate sudaneză profundă. Vizitatorii pot explora vastul Souq Omdurman, una dintre cele mai mari piețe din Africa, și impresionantul Mausoleu al lui Mahdi. Orașul este, de asemenea, un centru vibrant al tradițiilor sufi, manifestate prin dansurile rituale săptămânale. Geografie K7 — Centre urbane și istorie culturală.",
+      "factsAdvanced": [
+        "Cel mai populat oraș din Sudan în zona metropolitană.",
+        "Fosta capitală a Statului Mahdist între 1885 și 1898.",
+        "Găzduiește Muzeul Casa Khalifa, fosta rezidență a conducătorului.",
+        "Renumit pentru dansurile dervișilor sufi desfășurate săptămânal.",
+        "Souq Omdurman se întinde pe o suprafață de peste un kilometru pătrat.",
+        "Orașul este situat strategic la confluența Nilului Alb și a Nilului Albastru.",
+        "Joacă un rol crucial în industria artizanală sudaneză.",
+        "Populația sa depășește 2,5 milioane de locuitori."
+      ]
+    },
+    {
+      "id": "khartoum-bahri-cities-v2",
+      "descriptionAdvanced": "Khartoum Bahri, cunoscut și sub numele de Khartoum de Nord, formează împreună cu Khartoum și Omdurman regiunea metropolitană cunoscută sub numele de 'Capitala Triplă'. Ca principal centru industrial al țării, orașul găzduiește numeroase fabrici, unități textile și cea mai mare rafinărie de petrol din Sudan. În ciuda caracterului său industrial, orașul oferă zone de promenadă atractive și parcuri de-a lungul Nilului Albastru. Bahri este conectat prin mai multe poduri de celelalte districte, jucând un rol vital în logistica și comerțul regional. Economie K8 — Dezvoltare industrială și infrastructură.",
+      "factsAdvanced": [
+        "Un pilon central al aglomerației celor trei orașe capitale.",
+        "Găzduiește cel mai important district industrial din Sudan.",
+        "Situat strategic pe malul nordic al Nilului Albastru.",
+        "Dispune de numeroase fabrici textile și de procesare a alimentelor.",
+        "Important nod feroviar și de transport rutier.",
+        "Conectat de Khartoum prin podurile Shambat și Mac Nimir.",
+        "Populația orașului depășește 1 milion de locuitori.",
+        "Esențial pentru aprovizionarea cu bunuri a întregii capitale."
+      ]
+    },
+    {
+      "id": "port-sudan-cities-v2",
+      "descriptionAdvanced": "Port Sudan este poarta maritimă a Sudanului către Marea Roșie și cel mai important port comercial al țării. Fondat în 1905 de către britanici pentru a înlocui vechiul port Suakin, orașul este astăzi un nod modern pentru exportul de bumbac, gumă arabică și petrol. Pe lângă importanța sa economică, Port Sudan este o destinație populară pentru scafandri, datorită recifelor de corali neatinse și epavelor spectaculoase din apropiere. Orașul îmbină arhitectura colonială cu atmosfera vibrantă a portului și relaxarea specifică zonelor de coastă. Geografie K8 — Comerț mondial și ecologie marină.",
+      "factsAdvanced": [
+        "Principalul port maritim al Republicii Sudan.",
+        "Fondat in 1905 pentru a găzdui nave comerciale moderne.",
+        "Punct terminal pentru conductele de petrol care vin din interior.",
+        "Găzduiește o rafinărie de petrol și facilități portuare masive.",
+        "Bază importantă pentru turismul de scufundări în Marea Roșie.",
+        "Exportă majoritatea bumbacului și gumei arabice din Sudan.",
+        "Dispune de un aeroport internațional care conectează regiunea.",
+        "Punct de tranzit vital pentru pelerinii care merg spre Mecca."
+      ]
+    },
+    {
+      "id": "kassala-cities-v2",
+      "descriptionAdvanced": "Kassala, situat în estul Sudanului, lângă granița cu Eritreea, este renumit pentru peisajul său spectaculos dominat de Munții Taka cu vârfuri de granit. Orașul este un centru agricol important, beneficiind de pământuri fertile irigate de râul sezonier Gash, fiind celebru pentru livezile sale de portocali și banani. Arhitectura orașului reflectă o moștenire culturală bogată, fiind centrul ordinului religios Khatmiyya. Piața locală este una dintre cele mai colorate din țară, oferind o perspectivă asupra vieții triburilor locale. Földrajz K7 — Agricultură și forme de relief.",
+      "factsAdvanced": [
+        "Faimos pentru munții de granit Taka care înconjoară orașul.",
+        "Un centru major pentru cultivarea fructelor și legumelor.",
+        "Găzduiește sediul istoric al sectei sufite Khatmiyya.",
+        "Râul Gash curge prin oraș doar în sezonul ploios.",
+        "Localizare strategică la intersecția rutelor comerciale cu Eritreea.",
+        "Cunoscut pentru piețele sale vibrante și diversitatea etnică.",
+        "Munții săi oferă trasee spectaculoase pentru alpiniști.",
+        "Unul dintre cele mai verzi și mai pitorești orașe din Sudan."
+      ]
+    },
+    {
+      "id": "al-qadarif-cities-v2",
+      "descriptionAdvanced": "Al-Qadarif este considerat 'grânarul Sudanului', fiind centrul producției agricole mecanizate din estul țării. Orașul este faimos pentru culturile sale vaste de sorg, susan și gumă arabică, care sunt esențiale pentru economia națională. Situat pe o rută comercială importantă care leagă Khartoum de Etiopia, Al-Qadarif este un punct de întâlnire cultural și economic vibrant. Peisajul din jurul orașului este caracterizat de câmpii întinse și dealuri joase, oferind o priveliște impresionantă asupra agriculturii la scară largă. Geografie K8 — Producția agricolă și economia regională.",
+      "factsAdvanced": [
+        "Cel mai mare centru de agricultură mecanizată din Sudan.",
+        "Principalul producător de susan și sorg pentru export.",
+        "Găzduiește cea mai mare piață de susan din lume.",
+        "Punct strategic pe coridorul comercial Khartoum-Addis Abeba.",
+        "Solurile sale negre sunt extrem de fertile și productive.",
+        "Orașul are o populație diversă, cu influențe din statele vecine.",
+        "Juca un rol crucial în securitatea alimentară a regiunii.",
+        "Înconjurat de numeroase ferme de mari dimensiuni."
+      ]
+    },
+    {
+      "id": "wad-madani-cities-v2",
+      "descriptionAdvanced": "Wad Madani, situat pe malul vestic al Nilului Albastru, este capitala statului Gezira și centrul administrativ al celebrului proiect de irigații Gezira. Orașul este un nod economic crucial, legând regiunile agricole din est de capitala Khartoum. Wad Madani este cunoscut pentru atmosfera sa plăcută, cu grădini publice și o universitate de prestigiu care atrage studenți din tot Sudanul. Dezvoltarea sa a fost strâns legată de producția de bumbac, devenind un centru pentru industria textilă și alimentară. Geografie K7 — Sisteme de irigații și centre urbane.",
+      "factsAdvanced": [
+        "Capitala regiunii agricole Gezira, inima economică a Sudanului.",
+        "Centru administrativ pentru cel mai mare proiect de irigații din lume.",
+        "Găzduiește Universitatea din Gezira, una dintre cele mai bune din țară.",
+        "Situat strategic pe malul Nilului Albastru.",
+        "Un nod important în rețeaua feroviară și rutieră sudaneză.",
+        "Cunoscut pentru producția de bumbac de înaltă calitate.",
+        "Orașul a fost fondat la sfârșitul secolului al XVIII-lea.",
+        "Are o viață culturală activă și numeroase cluburi sportive."
+      ]
+    },
+    {
+      "id": "rabak-cities-v2",
+      "descriptionAdvanced": "Rabak este un important centru industrial și de transport situat pe malul estic al Nilului Alb, fiind capitala statului Nilul Alb. Orașul a cunoscut o creștere rapidă datorită poziției sale strategice ca nod feroviar și rutier care leagă Khartoum de regiunile din sud. Rabak este renumit pentru fabrica sa de ciment, una dintre cele mai mari din Sudan, și pentru industria zahărului din apropiere. Ca punct de tranzit vital, orașul joacă un rol major în comerțul cu bunuri manufacturate și resurse naturale. Economie K8 — Transport și infrastructură industrială.",
+      "factsAdvanced": [
+        "Capitala administrativă a statului Nilul Alb din 1994.",
+        "Nod feroviar vital care leagă capitala de zonele sudice.",
+        "Găzduiește una dintre cele mai mari fabrici de ciment din țară.",
+        "Situat pe malul estic al Nilului Alb, vizavi de orașul Kosti.",
+        "Centru important pentru colectarea și distribuția zahărului.",
+        "Un punct de tranzit major pentru comerțul fluvial pe Nil.",
+        "Orașul s-a dezvoltat rapid dintr-o așezare mică într-un centru industrial.",
+        "Nod rutier strategic pe axa nord-sud a Sudanului."
+      ]
+    },
+    {
+      "id": "ad-damazin-cities-v2",
+      "descriptionAdvanced": "Ad-Damazin este capitala statului Nilul Albastru și este cel mai bine cunoscut pentru Barajul Roseires din apropiere, care este o sursă vitală de energie hidroelectrică și apă pentru irigații în Sudan. Orașul este situat într-o regiune bogată în resurse naturale, fiind înconjurat de păduri și terenuri agricole fertile unde se cultivă susan și gumă arabică. Ad-Damazin servește ca un centru comercial important pentru produsele forestiere și agricole, fiind totodată un punct de plecare pentru explorarea regiunii muntoase din sudul Sudanului. Geografie K8 — Managementul resurselor de apă și energie.",
+      "factsAdvanced": [
+        "Găzduiește barajul Roseires, crucial pentru electricitatea națională.",
+        "Capitala administrativă a statului Nilul Albastru.",
+        "Centru major pentru comerțul cu lemn și produse forestiere.",
+        "Regiunea este renumită pentru producția sa de susan.",
+        "Capătul liniei feroviare care vine de la Khartoum.",
+        "Situat într-o zonă cu precipitații ridicate și vegetație bogată.",
+        "Orașul are o compoziție etnică foarte diversă.",
+        "Bază importantă pentru proiectele de dezvoltare agricolă din zonă."
+      ]
+    },
+    {
+      "id": "sennar-cities-v2",
+      "descriptionAdvanced": "Sennar este un oraș cu o importanță istorică și economică imensă, situat pe Nilul Albastru. În secolele XVI-XIX, a fost capitala puternicului Sultanat Funj, cunoscut și sub numele de Sultanatul Negru, care a dominat o mare parte a Sudanului. Astăzi, orașul este faimos pentru Barajul Sennar, construit în 1925, care a fost primul baraj major de pe Nilul Albastru și a permis lansarea Proiectului Gezira. Sennar rămâne un centru comercial vital și un punct de legătură între centrul și sud-estul țării. Istorie K8 — Sultanate africane și dezvoltare modernă.",
+      "factsAdvanced": [
+        "Fosta capitală a Sultanatului Funj între 1504 și 1821.",
+        "Găzduiește primul baraj major construit pe Nilul Albastru.",
+        "Un nod feroviar istoric care leagă estul de vestul Sudanului.",
+        "Orașul este situat la aproximativ 300 km sud de Khartoum.",
+        "Centru important pentru procesarea culturilor agricole irigate.",
+        "Păstrează vestigii ale perioadei sultanatului în satele din jur.",
+        "Situat strategic pe rutele comerciale de-a lungul Nilului.",
+        "Regiunea este cunoscută pentru tradiția sa în educația islamică."
+      ]
+    },
+    {
+      "id": "ad-damir-cities-v2",
+      "descriptionAdvanced": "Ad-Damir este capitala statului Râul Nil și este situat la nord de confluența râului Atbara cu Nilul. Orașul are o istorie lungă ca centru de învățătură islamică și este renumit pentru școlile sale religioase tradiționale (khalwas). Ad-Damir este, de asemenea, un centru administrativ și comercial important pentru comunitățile de agricultori de-a lungul văii Nilului. Piața sa de animale este una dintre cele mai mari din regiune, fiind un punct focal pentru comerțul cu cămile și vite în nordul Sudanului. Geografie K7 — Centre administrative de-a lungul Nilului.",
+      "factsAdvanced": [
+        "Capitala administrativă a statului Râul Nil din Sudan.",
+        "Centru istoric renumit pentru educația religioasă sufită.",
+        "Situat strategic lângă gura de vărsare a râului Atbara în Nil.",
+        "Găzduiește una dintre cele mai mari piețe de cămile din țară.",
+        "Nod comercial important pe ruta dintre Khartoum și Egipt.",
+        "Orașul este cunoscut pentru atmosfera sa liniștită și tradițională.",
+        "Agricultura pe malul Nilului este principala sursă de venit.",
+        "Găzduiește numeroase instituții guvernamentale regionale."
+      ]
+    },
+    {
+      "id": "berber-cities-v2",
+      "descriptionAdvanced": "Berber este un oraș istoric situat pe malul estic al Nilului, fiind în trecut un punct de oprire crucial pe rutele caravanelor care legau valea Nilului de Marea Roșie. Orașul a servit drept punct de plecare pentru traversarea deșertului Nubian către Suakin, fiind un centru comercial prosper în secolele XVIII și XIX. Astăzi, Berber este un centru agricol important, producând fructe, legume și cereale de calitate superioară. Orașul păstrează o arhitectură tradițională și o atmosferă care amintește de epoca în care era un nod vital al comerțului trans-saharian. Istorie K8 — Rute comerciale și caravane.",
+      "factsAdvanced": [
+        "Fost punct terminus pentru ruta caravanelor către Marea Roșie.",
+        "Centru comercial vital în timpul perioadei otomane și mahdiste.",
+        "Renumit pentru calitatea datoliei și a altor fructe produse aici.",
+        "Orașul este situat la nord de Atbara, pe malul Nilului.",
+        "Păstrează clădiri istorice din epoca de aur a comerțului.",
+        "Important centru de învățământ tradițional în nordul Sudanului.",
+        "Situat pe linia feroviară principală care leagă Khartoum de Wadi Halfa.",
+        "Economia actuală se bazează pe agricultura irigată din Nil."
+      ]
+    },
+    {
+      "id": "dongola-cities-v2",
+      "descriptionAdvanced": "Dongola este unul dintre cele mai vechi și mai importante orașe din nordul Sudanului, situat pe malul Nilului, în inima regiunii nubiene. Orașul este moștenitorul glorioasei culturi nubiene și a fost capitala regatului creștin Makuria în perioada medievală. Dongola este astăzi un centru agricol renumit pentru plantațiile sale vaste de curmali, fiind cel mai mare producător de curmale din țară. Orașul este, de asemenea, un centru cultural pentru poporul nubian, păstrând limba, tradițiile și arhitectura specifică acestei civilizații milenare. Geografie K7 — Civilizația nubiană și agricultura irigată.",
+      "factsAdvanced": [
+        "Centrul cultural și lingvistic al poporului nubian din Sudan.",
+        "Capitala statului de Nord și fost centru al regatelor nubiene.",
+        "Cunoscut pentru producția masivă de curmale de înaltă calitate.",
+        "Situat în apropierea siturilor arheologice din Dongola Veche.",
+        "Orașul are un microclimat care favorizează agricultura de oază.",
+        "Un punct important de tranzit pentru comerțul cu Egiptul.",
+        "Găzduiește Universitatea din Dongola, un centru academic regional.",
+        "Păstrează tradiții nubiene unice în muzică și meșteșuguri."
+      ]
+    },
+    {
+      "id": "al-fashir-cities-v2",
+      "descriptionAdvanced": "Al-Fashir este capitala istorică a Darfurului și a fost sediul puternicului Sultanat Darfur timp de secole. Orașul este situat în vestul Sudanului, la marginea deșertului, fiind un centru comercial vital pe rutele caravanelor care traversau Sahara. Al-Fashir este renumit pentru palatul sultanului Ali Dinar, care astăzi servește drept muzeu și documentează istoria bogată a regiunii. Orașul rămâne un nod administrativ și umanitar esențial, fiind un centru de distribuție pentru bunurile care ajung în întreaga regiune Darfur. Istorie K8 — Sultanatul Darfur și cultura deșertului.",
+      "factsAdvanced": [
+        "Fosta capitală a Sultanatului Darfur până în 1916.",
+        "Găzduiește palatul și muzeul celebrului sultan Ali Dinar.",
+        "Situat la o altitudine de aproximativ 700 de metri.",
+        "Nod comercial istoric între Niltal și Africa Centrală.",
+        "Centru administrativ major pentru operațiunile umanitare.",
+        "Orașul este înconjurat de un peisaj semi-deșertic spectaculos.",
+        "Cunoscut pentru piețele sale de piele și produse artizanale.",
+        "Găzduiește Universitatea Al-Fashir, fondată în 1990."
+      ]
+    },
+    {
+      "id": "geneina-cities-v2",
+      "descriptionAdvanced": "Geneina, situată în extremitatea vestică a Sudanului, este capitala statului Darfur de Vest și se află la doar câțiva kilometri de granița cu Ciadul. Orașul este un centru cultural important pentru poporul Masalit și servește ca principală poartă comercială între Sudan și țările din Africa Centrală. Numele său înseamnă 'grădină' în arabă, reflectând vegetația relativ bogată și livezile de pomi fructiferi din zonă, alimentate de wadi-urile sezoniere. Geneina este un punct focal pentru diplomația regională și comerțul transfrontalier. Geografie K8 — Comerț transfrontalier și diversitate etnică.",
+      "factsAdvanced": [
+        "Cea mai vestică capitală de stat din Republica Sudan.",
+        "Situată strategic la doar 27 km de granița cu Ciadul.",
+        "Centrul tradițional al Sultanatului Masalit.",
+        "Numele orașului provine de la numeroasele grădini din zonă.",
+        "Punct cheie pentru comerțul cu animale și cereale cu Ciadul.",
+        "Orașul este traversat de Wadi Kaja, o sursă vitală de apă.",
+        "Găzduiește un aeroport internațional important pentru regiune.",
+        "Un centru vital pentru stabilitatea și securitatea în vestul țării."
+      ]
+    },
+    {
+      "id": "nyala-cities-v2",
+      "descriptionAdvanced": "Nyala este capitala statului Darfur de Sud și este cel mai mare oraș din regiunea Darfur, fiind un motor economic major pentru vestul Sudanului. Orașul s-a dezvoltat spectaculos ca nod feroviar, fiind capătul liniei care vine de la Khartoum, ceea ce l-a transformat într un centru de distribuție pentru cereale, guma arabică și animale. Nyala este renumită pentru piețele sale vibrante și pentru industria sa diversă, de la prelucrarea alimentelor la fabricarea materialelor de construcții. Poziția sa geografică la poalele Munților Jebel Marra îi conferă o importanță strategică și un potențial turistic deosebit. Economie K8 — Centre comerciale și infrastructură feroviară.",
+      "factsAdvanced": [
+        "Cel mai mare centru comercial și industrial din regiunea Darfur.",
+        "Capătul liniei feroviare strategice care vine din Khartoum.",
+        "Unul dintre cei mai mari producători de gumă arabică din lume.",
+        "Găzduiește numeroase industrii de prelucrare a produselor animale.",
+        "Orașul are o populație de peste un milion de locuitori.",
+        "Centru major pentru comerțul cu vite în întreaga Africa de Est.",
+        "Găzduiește Universitatea Nyala, un centru educațional de top.",
+        "Situat strategic pentru accesul către masivul Jebel Marra."
+      ]
+    },
+    {
+      "id": "ed-daein-cities-v2",
+      "descriptionAdvanced": "Ed-Daein este capitala statului Darfur de Est și un centru vital pentru comerțul cu animale în Sudan. Orașul este situat pe linia feroviară care leagă Nyala de restul țării, ceea ce facilitează transportul masiv de vite și oi către piețele din nord și pentru export. Regiunea din jurul orașului este caracterizată prin savane vaste, ideale pentru pășunat, fiind patria tribului Rizeigat. Ed-Daein joacă un rol crucial în economia agricolă a Sudanului, fiind un punct de colectare major pentru culturile de arahide și gumă arabică. Geografie K7 — Economie pastorală și rute de transport.",
+      "factsAdvanced": [
+        "Capitala statului Darfur de Est, înființat în 2012.",
+        "Unul dintre cele mai mari centre de comerț cu animale din Sudan.",
+        "Situat pe ruta feroviară principală dintre Babanusa și Nyala.",
+        "Centrul administrativ și cultural al tribului Rizeigat.",
+        "Zona este renumită pentru producția de arahide de calitate.",
+        "Punct important de colectare pentru guma arabică.",
+        "Orașul a cunoscut o expansiune rapidă în ultimele două decenii.",
+        "Sursă majoră de aprovizionare cu carne pentru Khartoum."
+      ]
+    },
+    {
+      "id": "zalingei-cities-v2",
+      "descriptionAdvanced": "Zalingei este capitala statului Darfur Central și este situat într-o vale pitorească la vest de Munții Jebel Marra. Orașul este renumit pentru clima sa moderată și solurile fertile, fiind un centru agricol care produce citrice, legume și cereale. Zalingei găzduiește o universitate importantă care a transformat orașul într-un centru de învățământ și cercetare pentru vestul Sudanului. Datorită poziției sale între orașele mari Nyala și Geneina, Zalingei servește ca un punct de legătură esențial pentru comerțul și transportul din inima Darfurului. Geografie K7 — Agricultură montană și centre de educație.",
+      "factsAdvanced": [
+        "Capitala administrativă a statului Darfur Central.",
+        "Găzduiește Universitatea din Zalingei, un reper educațional regional.",
+        "Faimos pentru producția de portocale și alte citrice.",
+        "Situat la o altitudine care oferă o climă mai blândă decât în restul regiunii.",
+        "Orașul este înconjurat de peisaje montane spectaculoase.",
+        "Punct strategic de oprire pe ruta Nyala-Geneina.",
+        "Centru pentru colectarea și procesarea produselor agricole locale.",
+        "Juca un rol vital în integrarea comunităților din jurul Jebel Marra."
+      ]
+    },
+    {
+      "id": "el-obeid-cities-v2",
+      "descriptionAdvanced": "El-Obeid este capitala statului Kordofan de Nord și este cunoscut la nivel mondial drept centrul principal pentru comerțul cu gumă arabică. Orașul este un nod de transport strategic, fiind legat prin cale ferată și șosele moderne de Khartoum și de regiunile din vest. El-Obeid găzduiește o catedrală impresionantă și numeroase instituții de învățământ, fiind un centru cultural și religios major. Economia sa se bazează pe agricultură și creșterea animalelor, piața sa fiind un punct de referință pentru prețurile semințelor oleaginoase la nivel național. Geografie K8 — Piețe globale și produse forestiere.",
+      "factsAdvanced": [
+        "Cea mai mare piață de gumă arabică din întreaga lume.",
+        "Capitala statului Kordofan de Nord și nod feroviar major.",
+        "Găzduiește Catedrala Maicii Domnului, una dintre cele mai mari din Sudan.",
+        "Punct de tranzit vital pe ruta feroviară către Darfur.",
+        "Centru pentru cercetarea agricolă în zonele aride.",
+        "Orașul a fost fondat la începutul secolului al XIX-lea.",
+        "Renumit pentru rafinăriile de petrol și industria de prelucrare a susanului.",
+        "Dispune de un aeroport internațional cu rol strategic."
+      ]
+    },
+    {
+      "id": "kaduqli-cities-v2",
+      "descriptionAdvanced": "Kaduqli este capitala statului Kordofan de Sud și este situat la poalele sudice ale Munților Nuba. Orașul este un centru cultural vibrant, reflectând diversitatea etnică a regiunii Nuba, fiind renumit pentru festivalurile sale și competițiile tradiționale de lupte. Kaduqli servește ca un centru comercial important pentru bumbac, cereale și animale, beneficiind de precipitațiile mai abundente din această zonă. Arhitectura orașului și stilul de viață sunt profund influențate de peisajul muntos din jur, făcându-l unul dintre cele mai unice orașe din Sudan din punct de vedere cultural. Geografie K7 — Cultura Munților Nuba și agricultura tropicală.",
+      "factsAdvanced": [
+        "Capitala administrativă a statului muntos Kordofan de Sud.",
+        "Poarta de intrare în regiunea culturală unică a Munților Nuba.",
+        "Faimos pentru tradiția luptelor Nuba (Nuba wrestling).",
+        "Centru agricol major, în special pentru producția de bumbac.",
+        "Situat într-o zonă cu vegetație bogată și climă tropicală umedă.",
+        "Găzduiește numeroase instituții de dezvoltare rurală.",
+        "Orașul este înconjurat de dealuri spectaculoase de granit.",
+        "Nod comercial esențial pentru rutele care duc spre Sudanul de Sud."
+      ]
+    },
+    {
+      "id": "al-fulah-cities-v2",
+      "descriptionAdvanced": "Al-Fulah este capitala statului Kordofan de Vest și joacă un rol crucial în economia energetică a Sudanului, fiind situat în apropierea principalelor câmpuri petroliere ale țării. Orașul este un centru administrativ în creștere și servește ca punct de legătură între comunitățile de păstori nomazi și economia națională. Dezvoltarea sa recentă a fost impulsionată de industria extractivă, ducând la îmbunătățirea infrastructurii rutiere și a serviciilor. Al-Fulah rămâne, de asemenea, un centru important pentru creșterea animalelor, reflectând moștenirea pastorală a regiunii Kordofan. Economie K8 — Industria petrolieră și administrarea resurselor.",
+      "factsAdvanced": [
+        "Capitala administrativă a statului Kordofan de Vest.",
+        "Situat strategic lângă zonele de extracție a petrolului din Sudan.",
+        "Centru administrativ pentru gestionarea resurselor naturale ale regiunii.",
+        "Punct de întâlnire pentru rutele de migrație ale triburilor de păstori.",
+        "Orașul a beneficiat de investiții masive în infrastructură recent.",
+        "Nod important pe axa de transport între Khartoum și Nyala.",
+        "Găzduiește unități de procesare a produselor lactate și din carne.",
+        "Joacă un rol cheie în politica de reconciliere tribală locală."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mina-rosita-economic-v2",
+      "descriptionAdvanced": "A Rosita arany- és rézbánya a Karib-tengeri régió Bányászati Háromszögének (Triángulo Minero) történelmi létesítménye. Míg a közeli Siuna az aranyról lett híres, a La Luz vállalat által üzemeltetett Rosita bánya a 20. század közepén Közép-Amerika legnagyobb rézkitermelőjévé vált. A masszív, nyílt színi fejtés eredménye egy hatalmas kráter, amely mára vízzel telt meg, létrehozva a látványos, de nehézfémekkel szennyezett Rosita-lagúnát. A nagyüzemi kitermelés az 1970-es években leállt, a réz árának zuhanása és a készletek kimerülése miatt, de az elhagyatott gépek és a bányató ma is meghatározza a tájat. Földrajz K8 — bányászati örökség és nehézipar.",
+      "factsAdvanced": [
+        "1959 és 1971 között a bánya napi szinten több száz tonna rezet termelt ki.",
+        "A bányászati jogokat egykor a Rosario Mining Company birtokolta.",
+        "A bánya krátere, a jelenlegi tó, mintegy 100 méter mély.",
+        "A kitermelt ércet hajókon szállították Prinzapolka kikötőjébe a Karib-tengeren.",
+        "Jelenleg a helyi kisipari bányászok (güiriseros) főként aranyat keresnek a régi meddőhányókban.",
+        "A bányaváros lakosságának etnikai összetétele nagyon vegyes: miszkító, mestizo és kínai leszármazottak is élnek itt."
+      ]
+    },
+    {
+      "id": "cafe-soluble-sa-economic-v2",
+      "descriptionAdvanced": "A Café Soluble S.A. Nicaragua egyik legfontosabb kávéfeldolgozó és élelmiszeripari vállalata, amelynek központja Managua ipari zónájában található. A vállalatot az 1950-es évek végén alapították azzal a céllal, hogy a kiváló nicaraguai kávébabokat helyben dolgozzák fel azonnal oldódó (instant) kávévá, növelve az exporttermékek hozzáadott értékét. Az évtizedek során a cég diverzifikált, ma már gabonapelyheket, szójatermékeket és fűszereket is gyártanak. A létesítmény hatalmas pörkölőgépekkel és porlasztásos szárítótornyokkal rendelkezik, amelyek a nemzetközi élelmiszeripari szabványoknak is megfelelnek. Földrajz K7 — élelmiszer-feldolgozás és agrárexport.",
+      "factsAdvanced": [
+        "A vállalatot 1958-ban alapította három prominens nicaraguai üzletember.",
+        "Közép-Amerika egyik legelső és legnagyobb instant kávégyára.",
+        "Napi feldolgozási kapacitása több tíz tonna nyers kávébab.",
+        "Termékeit (mint a 'Presto' kávé) több mint 15 országba exportálják.",
+        "Az üzem a Carretera Norte mentén, a managuai repülőtér közelében fekszik.",
+        "A vállalat saját napenergia-parkkal is rendelkezik az energiaköltségek csökkentésére."
+      ]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "descriptionAdvanced": "A San Jacinto Hacienda egy történelmi jelentőségű ranch Managuától északra, amely az 1856-os San Jacinto-i csata helyszíneként vált a nicaraguai nemzeti büszkeség szimbólumává. Szeptember 14-én José Dolores Estrada tábornok vezetésével mintegy 160 nicaraguai hazafi és őslakos íjász győzte le William Walker 300 fős amerikai zsoldosseregét ezen a helyen. Kiemelkedő alakja a csatának Andrés Castro, aki lőszere elfogytával egy kővel vert agyon egy támadót. A birtok ma nemzeti múzeum, ahol fegyvereket és a csata relikviáit állítják ki. Történelem K8 — a nicaraguai függetlenség és a filibuster-háborúk.",
+      "factsAdvanced": [
+        "A csata napja, szeptember 14. hivatalos nemzeti ünnep Nicaraguában.",
+        "Az eredeti vályogépületet többször restaurálták, megőrizve 19. századi formáját.",
+        "A csatában részt vevő 60 matagalpai őslakos íjász (flecheros) kulcsszerepet játszott a győzelemben.",
+        "William Walker célja az volt, hogy Közép-Amerikában angol nyelvű, rabszolgatartó államot hozzon létre.",
+        "A múzeum Tipitapa városának közelében, a Panamerikai úttól nem messze fekszik.",
+        "Minden évben diákok tízezrei látogatják meg az emlékhelyet a 'Fiestas Patrias' (Nemzeti Ünnepek) során."
+      ]
+    },
+    {
+      "id": "palacio-nacional-cultura-history-v2",
+      "descriptionAdvanced": "A Kulturális Nemzeti Palota (Palacio Nacional de la Cultura) Managua szívében, a Forradalom terén álló lenyűgöző, neoklasszicista stílusú épület. 1935 és 1943 között építették az 1931-es földrengésben elpusztult régi palota helyén. Évtizedekig az ország kongresszusának (parlament) adott otthont. Legtörténelmibb pillanata 1978. augusztus 22-én zajlott, amikor a Sandinista Nemzeti Felszabadítási Front (FSLN) gerillái – Edén Pastora vezetésével – túszul ejtették a teljes kongresszust, ezzel indítva el a Somoza-diktatúra bukását. Ma a Nemzeti Múzeum, a Nemzeti Archívum és a Könyvtár működik a falai között. Történelem K8 — sandinista forradalom és diktatúrák.",
+      "factsAdvanced": [
+        "Az épületet Pablo Dambach belga-nicaraguai mérnök tervezte.",
+        "Túlélte az 1972-es pusztító managuai földrengést, ellentétben a város legtöbb épületével.",
+        "A homlokzaton négy masszív korinthoszi oszlop található.",
+        "A múzeum több mint 5000 négyzetméteres kiállítótérrel rendelkezik.",
+        "Az 1978-as túszdráma, az 'Operación Chanchera' 48 órán át tartott.",
+        "A Nemzeti Archívum több millió történelmi dokumentumot őriz a gyarmati időktől kezdve."
+      ]
+    },
+    {
+      "id": "antigua-catedral-managua-history-v2",
+      "descriptionAdvanced": "A Régi Managuai Katedrális (Catedral de Santiago) egy melankolikus, ugyanakkor lenyűgöző történelmi műemlék a Forradalom terén. A belga tervek alapján, acélvázzal épült neoklasszicista székesegyházat 1938-ban szentelték fel. Az épület túlélte az 1931-es földrengést, de az 1972-es, 6.2-es erősségű rengés helyrehozhatatlanul megrongálta a szerkezetét. Bár soha nem bontották le, az épület belsejébe a beomlás veszélye miatt tilos belépni. A romos, kupola nélküli katedrális az 1972-es katasztrófa legfőbb mementója, és a régi, elveszett Managua szimbóluma maradt. Történelem K7 — szeizmikus katasztrófák és városkép.",
+      "factsAdvanced": [
+        "A katedrális fémvázát Belgiumban gyártották, majd hajón szállították Nicaraguába az 1920-as években.",
+        "Szent Jakab apostol (Santiago) tiszteletére szentelték fel.",
+        "Az 1972. december 23-i földrengés után a tetőszerkezet nagy része beszakadt.",
+        "A 2000-es évek elején stabilizálták az épület homlokzatát a teljes összeomlás elkerülése végett.",
+        "Sok éven át elhagyatott volt, és a sandinista forradalom idején lőszerraktárként is használták.",
+        "Éjszaka különleges kivilágítást kap, kiemelve a megmaradt tornyokat és oszlopokat."
+      ]
+    },
+    {
+      "id": "iglesia-la-merced-granada-history-v2",
+      "descriptionAdvanced": "A granadai La Merced templom a spanyol barokk és neoklasszicista építészet lenyűgöző ötvözete, és a város egyik legismertebb történelmi épülete. A templomot eredetileg 1534-ben építették, de a történelem során kalózok – köztük William Walker amerikai zsoldos csapatai is 1856-ban – többször felgyújtották. Jelenlegi formáját a 19. század végi újjáépítés során nyerte el. A turisták körében különösen népszerű a templom harangtornya, ahonnan csodálatos panoráma nyílik Granada színes tetőire, a Nicaragua-tóra és a Mombacho vulkánra. Történelem K7 — gyarmati építészet és kalóztámadások.",
+      "factsAdvanced": [
+        "1856-ban William Walker tábornoka, Charles Henningsen felgyújtotta a templomot a város elhagyásakor.",
+        "Az épület homlokzata a barokk stílust tükrözi, gazdagon díszített oszlopokkal.",
+        "A harangtoronyba vezető keskeny csigalépcső az eredeti építmény része.",
+        "A templom védőszentjét, a Kegyelmes Szűzanyát (Virgen de las Mercedes) a város is tiszteli.",
+        "Egy 1862-es földrengés miatt a tornyot teljesen újjá kellett építeni.",
+        "A templom Granada történelmi központjában, a Calle Real Xalteva utcán található."
+      ]
+    },
+    {
+      "id": "convento-san-francisco-granada-history-v2",
+      "descriptionAdvanced": "A granadai Szent Ferenc-kolostor (Convento de San Francisco) Közép-Amerika egyik legrégebbi építészeti emléke, amelyet Francisco Hernández de Córdoba alapított 1529-ben. A vastag, fehérre meszelt falakkal és nyugodt belső udvarokkal rendelkező épület túlélte a kalóztámadásokat és William Walker gyújtogatását is. Ma a komplexum a város legjelentősebb múzeumának ad otthont, amelynek legfőbb látványossága a Zapatera-szigetről származó, hatalmas prekolumbián kőszobrok (idolos) gyűjteménye. Ezek a chorotega indiánok által faragott bazaltfigurák az állatok és emberek fúzióját ábrázolják. Történelem K6 — prekolumbián régészet és spanyol hódítás.",
+      "factsAdvanced": [
+        "Ez az egyik legrégebbi ferences kolostor az amerikai kontinensen.",
+        "1665-ben Henry Morgan angol kalóz kifosztotta az épületet.",
+        "A Zapatera-szigetről származó bazaltszobrok korát i.sz. 800-1200 közé teszik.",
+        "A múzeumban egy hatalmas, makett-szerű dioráma mutatja be Granada ősi utcáit.",
+        "Az épület katakombáiban egykor spanyol nemeseket és papokat temettek el.",
+        "Az 1980-as években az épületet teljesen restaurálták svéd támogatással."
+      ]
+    },
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "descriptionAdvanced": "A La Pólvora erőd (Fortaleza de la Pólvora) Granada nyugati szélén, a Xalteva negyed végén álló masszív építmény. A 18. század közepén (1748) épült azzal a céllal, hogy biztonságosan tárolják a város puskaporát, amelyet gyakran támadtak meg kalózok és helyi lázadók. Vastag kőfalai, sarokbástyái (tornyai) és lőrései a spanyol katonai építészet tipikus példái. A történelem során fegyverraktárként, kaszárnyaként és börtönként is funkcionált, különösen a Somoza-diktatúra idején. Ma múzeum, amelynek tornyaiból remek kilátás nyílik a vulkánokra. Történelem K7 — spanyol katonai építészet és városerődítések.",
+      "factsAdvanced": [
+        "A komplexum négy őrtoronnyal és egy vastag falakkal körülvett belső udvarral rendelkezik.",
+        "Soha nem ostromolták meg sikeresen a spanyol gyarmati időkben.",
+        "Az 1970-es években politikai foglyok ezreit tartották itt a Somoza Nemzeti Gárda (Guardia Nacional) emberei.",
+        "A lőporraktárt azért építették a központtól távolabb, hogy egy esetleges robbanás ne pusztítsa el a várost.",
+        "Jelenleg a fegyver- és hadtörténeti múzeum gyűjteményét gondozzák a falai között.",
+        "Gyakran szolgál esküvők és kulturális rendezvények helyszínéül."
+      ]
+    },
+    {
+      "id": "museo-de-la-revolucion-leon-history-v2",
+      "descriptionAdvanced": "A leóni Forradalmi Múzeum (Museo de la Revolución) egy megkopott dicsőségű, egykori kommunikációs palota (Palacio de Comunicaciones) épületében található a központi parkkal szemben. A múzeum egyedülálló abban a tekintetben, hogy az idegenvezetők szinte mind az FSLN egykori gerillái (ex-combatientes), akik személyes történeteiken keresztül mutatják be a diktatúra elleni küzdelmet. A falakat régi újságkivágások, fényképek és golyónyomok borítják. A látogatók a tetőre is felmehetnek, ahonnan a leóni katedrálisra nyílik kilátás, és ahol egykor mesterlövészek harcoltak. Történelem K8 — a nicaraguai forradalom és az FSLN története.",
+      "factsAdvanced": [
+        "Az épületet 1979 júniusában foglalták el véglegesen a sandinista felkelők.",
+        "A falakon lévő golyónyomok többsége az 1979-es városi harcokból származik.",
+        "A múzeum nem rendelkezik modern vitrinekkel, a kiállítás puritán és autentikus.",
+        "A tető fémlapjain való séta során az idegenvezetők megmutatják a mesterlövészek egykori állásait.",
+        "A gyűjtemény rengeteg korabeli FSLN propagandaplakátot és kéziratot tartalmaz.",
+        "Leónt a nicaraguai forradalom 'első fővárosaként' tisztelik."
+      ]
+    },
+    {
+      "id": "el-calvario-church-leon-history-v2",
+      "descriptionAdvanced": "Az El Calvario templom León egyik legszembetűnőbb és legszínesebb vallási épülete, amely a Calle Real (Királyi utca) végén található. A 18. század első felében épült templom a barokk és a neoklasszicista stílus lenyűgöző keveréke, jellegzetes élénkpiros, sárga és fehérre festett homlokzatával és két tornyával. A homlokzaton téglából faragott, Jézus szenvedéstörténetét ábrázoló domborművek (Calvario) láthatók. Az 1979-es forradalmi harcok során a templom súlyosan megrongálódott a Somoza-erők tüzérségi támadásaiban, de később aprólékosan helyreállították. Történelem K7 — egyházi építészet és városi harcok.",
+      "factsAdvanced": [
+        "A templomot egy korábbi kápolna helyén építették fel, amelyet a kalózok pusztítottak el a 17. században.",
+        "A homlokzat színeinek élénksége (piros, sárga) szokatlan a közép-amerikai gyarmati templomoknál.",
+        "A nagyhét (Semana Santa) alatt a város egyik legfontosabb körmenete innen indul.",
+        "A belső tér mennyezetét francia stílusú, kézzel festett fapanelek díszítik.",
+        "A bal oldali tornyot az 1979-es harcok során majdnem teljesen lerombolták.",
+        "A templom előtt egy kicsi, csendes tér (plazuela) húzódik."
+      ]
+    },
+    {
+      "id": "casa-museo-ruben-dario-leon-history-v2",
+      "descriptionAdvanced": "A leóni Rubén Darío Múzeumház (Casa Museo Rubén Darío) abban a gyarmati stílusú házban található, ahol a modernista költészet atyja, Rubén Darío felnőtt, miután nagynénje (Bernarda) örökbe fogadta. Ez az épület a nicaraguai irodalom legszentebb helye. A múzeum gondosan megőrizte a 19. századi belső tereket, az eredeti bútorokat, a költő kéziratait, személyes tárgyait (köztük hírhedt diplomata-egyenruháját) és egy felbecsülhetetlen értékű első kiadású 'Azul' kötetet. Az udvar hagyományos andalúz stílusú, oszlopcsarnokkal és csobogóval. Történelem K8 — irodalmi modernizmus és kulturális örökség.",
+      "factsAdvanced": [
+        "A házat 1964-ben alakították múzeummá.",
+        "Darío ebben a házban élt születésétől (40 napos korától) egészen 14 éves koráig.",
+        "A múzeumban található Darío eredeti halotti ágya, ahol 1916-ban elhunyt.",
+        "A gyűjtemény több mint 2000 személyes dokumentumot és könyvet tartalmaz az archívumában.",
+        "Az épület klasszikus 'L' alakú leóni udvarháznak épült.",
+        "Februárban, a költő halálának évfordulóján országos irodalmi szimpóziumot tartanak itt."
+      ]
+    },
+    {
+      "id": "santuario-de-jesus-del-rescate-popoyuapa-history-v2",
+      "descriptionAdvanced": "A Popoyuapa városrészben (Rivas közelében) található Jesús del Rescate Nemzeti Szentély Nicaragua egyik legfontosabb zarándokhelye. A legenda szerint a 17. században egy fakitermelő talált rá a keresztre feszített Krisztus csodatevő faszobrára. Minden évben, a húsvét előtti hetekben (Nagyböjt) több ezer zarándok érkezik szekereken (carretas peregrinas) az ország minden tájáról, főleg Masayából és Granadából. Ez a hagyományos, lassú utazás több napig is eltart, az emberek a szekereken alszanak és énekelve vonulnak a szentélyhez, így tisztelegve a csodatévő szobor előtt. Történelem K6 — vallási zarándoklatok és népi hit.",
+      "factsAdvanced": [
+        "A zarándoklat (Carretas Peregrinas) hagyománya több mint egy évszázadra nyúlik vissza.",
+        "A szentély 2013-ban kapott hivatalos Nemzeti Szentély rangot a Püspöki Konferenciától.",
+        "Évente mintegy 400-500 díszített ökörfogat (carreta) érkezik a szentélyhez.",
+        "Az eredeti kisméretű fakápolnát a 19. század végén cserélték kőépületre.",
+        "A 'Jesús del Rescate' a szenvedő, megkötözött kezű Krisztust ábrázolja.",
+        "A zarándokok hagyományosan ingyenes élelmet (chicha, tamales) osztanak útközben."
+      ]
+    },
+    {
+      "id": "zapatera-archaeological-park-history-v2",
+      "descriptionAdvanced": "A Zapatera Régészeti Park (Parque Nacional Archipiélago de Zapatera) a Nicaragua-tó azonos nevű szigetén helyezkedik el. Ez a sziget az őslakos chorotega kultúra egyik legfontosabb vallási és temetkezési központja volt. Az 1800-as évek végén Ephraim Squier és Carl Bovallius fedezték fel az itt található, vulkáni bazaltból faragott gigantikus istenszobrokat, melyek embert és jaguárt, vagy krokodilt (alter ego állatokat) ötvöznek. Bár a legszebb szobrokat Managuába és a granadai múzeumba szállították, a szigeten máig számos kőfaragás, prekolumbián temető és ősi töltés maradt. Történelem K7 — prekolumbián szobrászat és animizmus.",
+      "factsAdvanced": [
+        "A sziget valójában egy 600 méter magas kialudt pajzsvulkán.",
+        "A szigetet 1983-ban nyilvánították Nemzeti Parkká (bár a védelem gyakran hiányos).",
+        "A leghíresebb lelőhely a szigeten a 'Punta de las Figuras'.",
+        "Az itt talált kerámiatöredékek alapján a sziget i.sz. 800 és 1350 között volt a leglakottabb.",
+        "Carl Bovallius svéd régész 1886-ban publikálta az első részletes rajzokat a szobrokról.",
+        "A helyiek úgy hitték, a szobrok a varázslókat (nahuales) ábrázolják állati formájukban."
+      ]
+    },
+    {
+      "id": "petroglifos-ometepe-history-v2",
+      "descriptionAdvanced": "Az Ometepe-szigeti sziklarajzok (petroglifák) Közép-Amerika leggazdagabb őskori sziklaművészeti lelőhelyei közé tartoznak. A sziget vulkáni kőzeteibe faragott több ezer ábra spirálokat, napokat, majmokat, kígyókat és furcsa istenségeket ábrázol. A legjelentőserősebb lelőhelyek a Maderas vulkán lábánál fekvő Finca Magdalena, az El Porvenir és a San Diego haciendák környékén találhatók. Ezek az ősi karcrajzok valószínűleg i.e. 300 és i.sz. 1200 között készültek, és a chorotega, nicarano, valamint korábbi kultúrák rituális naptárát, térképét vagy animista hitvilágát örökítik meg. Történelem K6 — sziklarajzok és ősi asztronómia.",
+      "factsAdvanced": [
+        "Az Ometepe szigeten több mint 1700 különálló petroglifa lelőhelyet regisztráltak eddig.",
+        "A leggyakoribb motívum a 'kettős spirál', amely a két vulkánt vagy az életciklust jelképezheti.",
+        "Néhány sziklán (pl. a Calendario nevűn) 13 holdhónapot követő faragásokat azonosítottak.",
+        "A rajzokat keményebb kövek (obszidián) segítségével vésték a bazalttömbökbe.",
+        "Sok petroglifa a mezőgazdasági terjeszkedés miatt veszélybe került.",
+        "A szigetet az őslakosok szent helynek, az 'Ígéret földjének' tartották."
+      ]
+    },
+    {
+      "id": "san-agustin-church-somoto-history-v2",
+      "descriptionAdvanced": "A somotói Szent Ágoston-templom (Iglesia de San Agustín) az észak-nicaraguai gyarmati építészet egyik legszebb és legépebben fennmaradt példája. A templomot 1661-ben építették vastag, fehérre meszelt vályogfalakkal és hagyományos terrakotta cseréptetővel. Míg a déli városok templomait gyakran lerombolták földrengések vagy kalózok, ez a hegyvidéki építmény átvészelte az évszázadokat. A belső tér egyszerű, de fenséges; sötét fagerendái és a faragott faoltár visszarepíti a látogatót a 17. századi spanyol birodalom peremvidékére. A harangtorony a falu legmagasabb pontja. Történelem K7 — északi gyarmati építészet és egyház.",
+      "factsAdvanced": [
+        "A templom hivatalos építési éve 1661, ami Nicaragua egyik legrégebbi épületévé teszi.",
+        "A vastag vályogfalak (adobe) helyenként elérik az egy méteres vastagságot.",
+        "Az oltárkép (retablo) finoman faragott cédrusfából készült a 18. században.",
+        "1995-ben Nemzeti Történelmi Műemlékké nyilvánították az épületet.",
+        "A harangtoronyban lévő harangok egyike 1776-ból származik.",
+        "A templom Somoto központi terén, a Parqué Central szívében áll."
+      ]
+    },
+    {
+      "id": "antiguo-hospital-san-juan-de-dios-esteli-history-v2",
+      "descriptionAdvanced": "A régi San Juan de Dios Kórház Estelí belvárosának szélén álló romos, de tiszteletet parancsoló neoklasszicista épület. A kórházat a 20. század elején építették közadakozásból, és évtizedekig a régió legfontosabb egészségügyi intézménye volt. Történelmi jelentőségét az 1978-79-es forradalmi harcok adták; az FSLN gerillái és a Somoza Nemzeti Gárda (Guardia Nacional) heves harcokat vívtak az épület ellenőrzéséért. A Gárda nehéztüzérséggel és bombázókkal szinte porig rombolta. Ma a romok között egy kis parkot alakítottak ki, és emlékműként funkcionál. Történelem K7 — háborús romok és közösségi intézmények.",
+      "factsAdvanced": [
+        "A kórház alapkövét 1913-ban tették le, de a teljes épület csak az 1930-as évekre készült el.",
+        "A főépület kiterjedt belső udvarokkal és íves folyosókkal rendelkezett.",
+        "1979 júliusában a Somoza-erők helikopterekről lőtték rakétákkal az FSLN által védett épületet.",
+        "Sok éven át elhagyatott volt, és a helyiek 'kísértetkórházként' emlegették.",
+        "2010 után a romok egy részét stabilizálták és nyilvános térré alakították.",
+        "A megmaradt homlokzaton több száz golyónyom látható ma is."
+      ]
+    },
+    {
+      "id": "santuario-nacional-nuestra-senora-de-la-concepcion-el-viejo-history-v2",
+      "descriptionAdvanced": "Az El Viejo-i Nemzeti Szentély (Basílica de Nuestra Señora de la Inmaculada Concepción) Nicaragua legfontosabb katolikus épületeinek egyike. A 17. században épült, barokk stílusú székesegyház ad otthont a "La Purísima" fából faragott szobrának, amelyet 1562-ben hozott egy spanyol nemes, Pedro de Ahumada az Újvilágba. Amikor viharok miatt nem tudott elvitorlázni Peruba, a szobrot végleg a helyi templomban hagyta. A zarándokok ezrei érkeznek ide minden decemberben a 'Lavada de la Plata' (az ezüsttárgyak rituális megtisztítása) ünnepére, amely az ország egyik legmélyebben gyökerező vallási eseménye. Történelem K8 — gyarmati vallástörténet és pápai bazilikák.",
+      "factsAdvanced": [
+        "II. János Pál pápa 1996-os látogatása során a templomot 'Basilica Minor' rangra emelte.",
+        "A Szűz Mária szobor eredeti, 16. századi spanyol fafaragás.",
+        "A 'Lavada de la Plata' esemény során a hívek rongyokkal tisztítják a szentély ezüst kincseit.",
+        "A templomot 1673-ban építették fel végleges kő- és tégla formájában.",
+        "Az oltár mögötti 'Camarín' nevű kis kápolnában őrzik az aranykoronát.",
+        "A szentély 2001 óta Nicaragua Nemzeti Történelmi Örökségének része."
+      ]
+    },
+    {
+      "id": "batalla-de-coyotepe-site-history-v2",
+      "descriptionAdvanced": "A Coyotepe-domb (Loma de Coyotepe) Masaya határában fekszik, és az 1912-es nicaraguai forradalom (a Mena-lázadás) leghevesebb csatájának helyszíne. Benjamín Zeledón tábornok nicaraguai hazafiak egy csoportjával erődítményt emelt a dombtetőn, hogy megállítsa az amerikai tengerészgyalogosok és a konzervatív kormánycsapatok előrenyomulását. 1912. október 4-én a jól felfegyverzett amerikaiak tüzérségi tűzzel bevették a dombot, a menekülő Zeledónt pedig később kivégezték. A domb ma múzeum és emlékhely, alatta a később épült sötét kazamatákkal (Fortaleza Coyotepe), amelyeket a Somoza-rezsim politikai börtönként használt. Történelem K8 — amerikai intervenciók és politikai börtönök.",
+      "factsAdvanced": [
+        "Benjamín Zeledón tábornok holttestét a csata után lóháton vonszolták végig a környező falvakon.",
+        "A csatában 32 amerikai tengerészgyalogos és több száz nicaraguai vesztette életét.",
+        "Az amerikai Smedley Butler őrnagy vezette a sikeres rohamot a domb ellen.",
+        "A hegy tetején lévő kőerődöt csak a csata után, 1939-ben építette fel Anastasio Somoza.",
+        "Az erőd alatt három szint mély, csillag alakú alagútrendszer húzódik (börtöncellák).",
+        "A dombról 360 fokos panoráma nyílik Masaya városára és a vulkánra."
+      ]
+    },
+    {
+      "id": "casa-hacienda-de-simon-bolivar-el-vapor-history-v2",
+      "descriptionAdvanced": "Az El Vapor Hacienda egy történelmi jelentőségű kávéültetvény Managua déli hegyvidékén, a Crucero régióban. A terület azért kapta a nevét ('A Gőz'), mert a hűvös, hegyi mikroklíma és az óceáni szelek találkozása miatt gyakran sűrű köd (gőz) borítja. A 19. század végén német és olasz telepesek ezen a területen alakították ki az első nagyipari kávéfarmokat (haciendákat), amelyek bekapcsolták Nicaraguát a világkereskedelembe. Bár a birtokok nagyrészt magántulajdonban vannak, a terület ma is a hagyományos nicaraguai 'aranyháromszög' mezőgazdasági örökségének egyik szimbóluma. Történelem K7 — kávéboom és európai bevándorlás.",
+      "factsAdvanced": [
+        "A terület tengerszint feletti magassága eléri a 900 métert, ami hűvös (18-20 °C) klímát biztosít.",
+        "A 19. század végén az itt termelt kávét ökrös szekereken (carretas) szállították a Corinto kikötőbe.",
+        "A német bevándorlók fejlett pörkölő és mosó berendezéseket (beneficios) hoztak a haciendára.",
+        "Az El Vapor régióban ma is megtalálhatók a 100 éves mahagóni és guapinol árnyékoló fák.",
+        "Somoza elnök idején több hacienda az államhoz vagy a diktátor családjához került.",
+        "A terület kedvelt célpontja a Managuából a hőség elől menekülő turistáknak."
+      ]
+    },
+    {
+      "id": "nacimiento-de-ciudad-dario-history-v2",
+      "descriptionAdvanced": "A Rubén Darío szülőháza (Casa Natal) Ciudad Darío (korábban Metapa) városában áll, egy szerény, hagyományos andalúz stílusú, vályogból és nádtetőből épült ház. A sors különös fintora, hogy a spanyol nyelv egyik legnagyobb irodalmi géniusza, Rubén Darío egy utazás során, útközben született meg ebben a kölcsönzött épületben 1867. január 18-án, amikor édesanyja (Rosa Sarmiento) épp Leónba tartott. Az eredeti bútorokkal, korhű konyhával és a költő keresztlevelének másolatával berendezett Nemzeti Múzeum az egyszerű vidéki nicaraguai életet mutatja be a 19. század közepéről. Történelem K6 — Rubén Darío és a nicaraguai falusi élet.",
+      "factsAdvanced": [
+        "A ház egy egyszerű, 'L' alakú épület (casona), nyitott belső udvarral.",
+        "1943-ban nyilvánították Nemzeti Műemlékké.",
+        "A szoba, ahol Darío született, egy apró, ablaktalan hálófülke a ház végében.",
+        "A szülőház felújítását az 1990-es években fejezték be, hogy ellenálljon az időjárásnak.",
+        "Minden év januárjában tartják a Daríai Irodalmi Hetet a szülőház udvarán.",
+        "Az épületben egy eredeti, 19. századi fa kávédaráló is látható."
+      ]
+    },
+    {
+      "id": "iglesia-de-xalteva-granada-history-v2",
+      "descriptionAdvanced": "A granadai Xalteva templom (Iglesia de Xalteva) azon a területen épült, amely az eredeti chorotega őslakos település (Jalteva) központja volt, mielőtt a spanyolok megalapították Granadát. Az épület egyedülálló, barokk-mór stílusú, kéttornyú templom, amelyet vastag erődfalak vettek körül, mivel a város szélén állt, és védelmi funkciót is betöltött. A 19. század folyamán William Walker csapatai ezt az épületet is súlyosan megrongálták, de az 1890-es években teljesen újjáépítették. Különösen szép a templom előtti park, amelyet 1892-ben alakítottak ki. Történelem K7 — őslakos városrészek és gyarmati újjáépítés.",
+      "factsAdvanced": [
+        "A név a navatl 'Xalli' (homok) és 'Tepetl' (hegy) szavakból származik.",
+        "Eredetileg ez volt a 'Katonai Templom', ahová a gyarmati helyőrség járt misére.",
+        "1856-ban William Walker katonái a tornyokból lőtték a várost ostromló közép-amerikai sereget.",
+        "Jelenlegi formáját 1890 és 1898 között nyerte el svéd és spanyol mérnökök vezetésével.",
+        "Az egyik legépebben megmaradt 19. századi ólomüveg ablakokkal rendelkezik.",
+        "A templom melletti kis parkot a 19. század végén egzotikus fákkal ültették tele."
+      ]
+    },
+    {
+      "id": "sitio-arqueologico-el-paisaje-history-v2",
+      "descriptionAdvanced": "Az El Paisaje régészeti lelőhely Chontales megye dombvidékén található, Juigalpa közelében, és a prekolumbián chontales-i szobrászat egyik legfontosabb forrása. A területet a helyiek sokáig csak legelőként használták, amíg fel nem fedeztek tucatnyi masszív, ember alakú kőoszlopot, amelyek harcosokat és isteneket ábrázolnak. Ezek a szobrok eltérnek az Ometepe vagy Zapatera régió stílusától; szögletesebbek, durvábban faragottak, és magas, hengeres bazaltoszlopokból készültek. Bár a legjobb leleteket a juigalpai múzeumba szállították, a lelőhely rituális halmai (moundok) és a környező táj még mindig őrzik az őslakosok szellemét. Történelem K6 — chontalesi kőfaragás és rituális központok.",
+      "factsAdvanced": [
+        "A chontalesi kőszobrok (statues) kora i.sz. 800 és 1200 közé tehető.",
+        "A leletek többsége férfi harcosokat ábrázol, kezükben fegyverrel (baltával).",
+        "A régészek szerint a terület nem város, hanem szent temetkezési (nekropolisz) központ volt.",
+        "Az oszlopok némelyike eléri a 3-4 méteres magasságot is.",
+        "Számos szobor sajnos az illegális műkincs-kereskedelem áldozata lett a 20. században.",
+        "A területen talált sírokban jelentős mennyiségű arany- és jádeékszert fedeztek fel az 1960-as években."
+      ]
+    },
+    {
+      "id": "muelle-de-granada-history-v2",
+      "descriptionAdvanced": "A granadai móló (Muelle de Granada) a Nicaragua-tó (Cocibolca) partján fekszik, és a 19. század egyik legfontosabb közép-amerikai kikötője volt. Építése és bővítése egybeesett a kaliforniai aranylázzal és Cornelius Vanderbilt tranzitvállalatának felemelkedésével. A gőzhajók (vaporok) itt kötöttek ki San Carlosból érkezve, majd az utasok postakocsival folytatták útjukat a Csendes-óceán felé. Bár a 20. század közepére elveszítette kereskedelmi jelentőségét a vasút és az utak miatt, a 700 méter hosszan a tóba nyúló móló ma is ikonikus turisztikai látványosság, amely történelmi sétányként (Malecón) funkcionál. Történelem K8 — a Vanderbilt tranzitútvonal és a gőzhajózás.",
+      "factsAdvanced": [
+        "A móló jelenlegi vasbeton és fém szerkezetét a 20. század elején építették.",
+        "Hossza egyedülálló, több mint 700 méter, hogy a sekély tópart ellenére a nagyobb hajók is kiköthessenek.",
+        "Az 1850-es években havonta ezernél is több aranyásó tranzitállomása volt a New York - San Francisco útvonalon.",
+        "A móló végén található egy történelmi világítótorony-maradvány.",
+        "Ma az Ometepe-szigetre induló turistahajók is innen indulnak (kisebb számban, mint San Jorgéból).",
+        "Gyakran sújtják a tó viharos szelei (Papagayos), amelyek hullámzása rombolja az alapokat."
+      ]
+    },
+    {
+      "id": "ferrocarril-del-pacifico-ruinas-history-v2",
+      "descriptionAdvanced": "A Csendes-óceáni Vasút (Ferrocarril del Pacífico de Nicaragua) romjai országszerte fellelhetők (Managua, León, Granada, Corinto), de a leglátványosabb állomások Managuában és Granadában találhatók. A hálózat építését 1878-ban kezdték meg José Santos Zelaya elnöksége alatt, hogy összekössék a kávétermő régiókat a Corinto kikötővel. Bár a vasút több mint egy évszázadig a nicaraguai gazdaság motorja volt, a karbantartás hiánya és a Violeta Barrios de Chamorro-kormány (1993-as) döntése miatt a síneket felszedték, a mozdonyokat pedig ócskavasként eladták. Ma az elhagyatott állomásépületek – köztük a restaurált granadai állomás – nosztalgikus emlékművek egy letűnt korról. Történelem K8 — a nicaraguai vasút fénykora és bukása.",
+      "factsAdvanced": [
+        "A teljes vasúthálózat hossza fénykorában megközelítette a 373 kilométert.",
+        "A mozdonyok többsége fatüzelésű amerikai gőzmozdony (Baldwin) volt a korai időkben.",
+        "Az utolsó vonatút 1993. december 31-én indult Managuából Leónba.",
+        "A granadai vasútállomást a közelmúltban teljesen restaurálták, ma művészeti iskola működik benne.",
+        "A síneket felszedték, és a kohókba olvasztották, ami miatt a hálózat visszaállíthatatlanná vált.",
+        "Az 1972-es managuai földrengés súlyos, de nem végzetes károkat okozott a fővárosi vonalakon."
+      ]
+    },
+    {
+      "id": "sitio-historico-pancas-history-v2",
+      "descriptionAdvanced": "A Pancasáni történelmi helyszín (Sitio Histórico Pancasán) Matagalpa megye sűrű erdőiben található. Ez a terület a Sandinista Nemzeti Felszabadítási Front (FSLN) egyik legnagyobb és legismertebb gerillaháborús kudarcának színtere volt 1967. augusztus 27-én. A Somoza Nemzeti Gárda felderítette a gerillák hegyvidéki kiképzőtáborát, és a harcokban az FSLN vezetőségének több fontos tagja (köztük Silvio Mayorga) életét vesztette. Bár katonailag vereség volt, a 'Gesta de Pancasán' politikai győzelemmé vált, mivel rávilágított a diktatúra kegyetlenségére, és nemzeti támogatást szerzett a mozgalomnak. Történelem K8 — a sandinista forradalom kulcsfontosságú csatái.",
+      "factsAdvanced": [
+        "A tábort a Fila Grande nevű hegygerincen alakították ki, bízva a helyi parasztok (campesinos) támogatásában.",
+        "A Gárda helikopterekkel és nehézfegyverzettel támadta meg a rosszul felszerelt gerillákat.",
+        "Pancasán után az FSLN évekre visszavonult az 'erőgyűjtés csendje' (acumulación de fuerzas en silencio) stratégiájába.",
+        "Egy szerény emlékművet és keresztet emeltek a hegyoldalban az elesettek tiszteletére.",
+        "Carlos Mejía Godoy híres 'Himno a Pancasán' című dala megörökítette az eseményt.",
+        "A terület ma is nehezen megközelíthető, zord hegyvidéki terep."
+      ]
+    }
+  ]
+}

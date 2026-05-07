@@ -1,0 +1,246 @@
+{
+  "netherlandsPoi": [
+    {
+      "id": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "id": "NL-DR",
+      "name": "Drenthe"
+    },
+    {
+      "id": "NL-FL",
+      "name": "Flevoland"
+    },
+    {
+      "id": "NL-FR",
+      "name": "Friesland"
+    },
+    {
+      "id": "NL-GE",
+      "name": "Gelderland"
+    },
+    {
+      "id": "NL-GR",
+      "name": "Groningen"
+    },
+    {
+      "id": "NL-LI",
+      "name": "Limburg"
+    },
+    {
+      "id": "NL-NB",
+      "name": "North Brabant"
+    },
+    {
+      "id": "NL-NH",
+      "name": "North Holland"
+    },
+    {
+      "id": "NL-OV",
+      "name": "Overijssel"
+    },
+    {
+      "id": "NL-UT",
+      "name": "Utrecht"
+    },
+    {
+      "id": "NL-ZE",
+      "name": "Zeeland"
+    },
+    {
+      "id": "NL-ZH",
+      "name": "South Holland"
+    },
+    {
+      "id": "NL-CT-AMS",
+      "name": "Amsterdam"
+    },
+    {
+      "id": "NL-CT-ROT",
+      "name": "Rotterdam"
+    },
+    {
+      "id": "NL-CT-HAA",
+      "name": "The Hague"
+    },
+    {
+      "id": "NL-CT-UTR",
+      "name": "Utrecht"
+    },
+    {
+      "id": "NL-CT-EIN",
+      "name": "Eindhoven"
+    },
+    {
+      "id": "NL-CT-GRO",
+      "name": "Groningen"
+    },
+    {
+      "id": "NL-CT-TIL",
+      "name": "Tilburg"
+    },
+    {
+      "id": "NL-CT-NIJ",
+      "name": "Nijmegen"
+    },
+    {
+      "id": "NL-CT-HAR",
+      "name": "Haarlem"
+    },
+    {
+      "id": "NL-CT-LEI",
+      "name": "Leiden"
+    },
+    {
+      "id": "NL-CT-DEL",
+      "name": "Delft"
+    },
+    {
+      "id": "NL-CT-MAA",
+      "name": "Maastricht"
+    },
+    {
+      "id": "NL-LM-AFH",
+      "name": "Anne Frank House"
+    },
+    {
+      "id": "NL-LM-RJM",
+      "name": "Rijksmuseum"
+    },
+    {
+      "id": "NL-LM-VGM",
+      "name": "Van Gogh Museum"
+    },
+    {
+      "id": "NL-LM-VOL",
+      "name": "Volendam"
+    },
+    {
+      "id": "NL-LM-KEU",
+      "name": "Keukenhof"
+    },
+    {
+      "id": "NL-LM-GIE",
+      "name": "Giethoorn"
+    },
+    {
+      "id": "NL-LM-KIN",
+      "name": "Kinderdijk"
+    },
+    {
+      "id": "NL-LM-TEX",
+      "name": "Texel"
+    },
+    {
+      "id": "NL-LM-HOG",
+      "name": "Hoge Veluwe"
+    },
+    {
+      "id": "NL-LM-ZAA",
+      "name": "Zaanse Schans"
+    },
+    {
+      "id": "NL-LM-ERA",
+      "name": "Erasmus Bridge"
+    },
+    {
+      "id": "NL-LM-MAD",
+      "name": "Madurodam"
+    },
+    {
+      "id": "NL-LM-EFT",
+      "name": "Efteling"
+    },
+    {
+      "id": "NL-LM-ZUI",
+      "name": "Zuiderzee"
+    },
+    {
+      "id": "NL-LM-IJS",
+      "name": "IJsselmeer"
+    },
+    {
+      "id": "nl-gouda",
+      "name": "Gouda"
+    },
+    {
+      "id": "nl-enschede",
+      "name": "Enschede"
+    },
+    {
+      "id": "nl-arnhem",
+      "name": "Arnhem"
+    },
+    {
+      "id": "nl-zwolle",
+      "name": "Zwolle"
+    },
+    {
+      "id": "nl-breda",
+      "name": "Breda"
+    },
+    {
+      "id": "nl-s-hertogenbosch",
+      "name": "'s-Hertogenbosch"
+    },
+    {
+      "id": "nl-dordrecht",
+      "name": "Dordrecht"
+    },
+    {
+      "id": "nl-alkmaar",
+      "name": "Alkmaar"
+    },
+    {
+      "id": "nl-mauritshuis",
+      "name": "Mauritshuis"
+    },
+    {
+      "id": "nl-royal-palace-dam",
+      "name": "Royal Palace Amsterdam"
+    },
+    {
+      "id": "nl-kinderdijk-wind",
+      "name": "Windmills at Kinderdijk"
+    },
+    {
+      "id": "nl-afsluitdijk",
+      "name": "Afsluitdijk"
+    },
+    {
+      "id": "nl-peace-palace",
+      "name": "Peace Palace"
+    },
+    {
+      "id": "nl-waddenzee",
+      "name": "Wadden Sea"
+    },
+    {
+      "id": "nl-biesbosch",
+      "name": "De Biesbosch"
+    },
+    {
+      "id": "nl-dunes-kennemerland",
+      "name": "Zuid-Kennemerland National Park"
+    },
+    {
+      "id": "nl-drenthe-hunebed",
+      "name": "Hunebedden in Drenthe"
+    },
+    {
+      "id": "nl-vondelpark",
+      "name": "Vondelpark"
+    }
+  ],
+  "poiExtra": [
+    {
+      "id": "port-maasvlakte-2-extra",
+      "name": "Maasvlakte 2"
+    },
+    {
+      "id": "animal-habitat-burgers-zoo-extra",
+      "name": "Burgers' Zoo"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "mesa-verde-national-park-history-v2",
+    "name_en": "Mesa Verde National Park",
+    "name_hu": "Mesa Verde Nemzeti Park"
+  },
+  {
+    "id": "cahokia-mounds-history-v2",
+    "name_en": "Cahokia Mounds",
+    "name_hu": "Cahokia Mounds"
+  },
+  {
+    "id": "trinity-site-history-v2",
+    "name_en": "Trinity Site",
+    "name_hu": "Trinity-telephely"
+  },
+  {
+    "id": "saratoga-battlefield-history-v2",
+    "name_en": "Saratoga Battlefield",
+    "name_hu": "Saratogai csatatér"
+  },
+  {
+    "id": "gateway-arch-landmarks-v2",
+    "name_en": "Gateway Arch",
+    "name_hu": "Gateway Arch"
+  },
+  {
+    "id": "mount-rushmore-landmarks-v2",
+    "name_en": "Mount Rushmore",
+    "name_hu": "Mount Rushmore"
+  },
+  {
+    "id": "cloud-gate-landmarks-v2",
+    "name_en": "Cloud Gate",
+    "name_hu": "Cloud Gate"
+  },
+  {
+    "id": "space-needle-landmarks-v2",
+    "name_en": "Space Needle",
+    "name_hu": "Space Needle"
+  },
+  {
+    "id": "hoover-dam-landmarks-v2",
+    "name_en": "Hoover Dam",
+    "name_hu": "Hoover-gát"
+  },
+  {
+    "id": "faneuil-hall-landmarks-v2",
+    "name_en": "Faneuil Hall",
+    "name_hu": "Faneuil Hall"
+  },
+  {
+    "id": "hollywood-sign-landmarks-v2",
+    "name_en": "Hollywood Sign",
+    "name_hu": "Hollywood Felirat"
+  },
+  {
+    "id": "lincoln-memorial-landmarks-v2",
+    "name_en": "Lincoln Memorial",
+    "name_hu": "Lincoln-emlékmű"
+  },
+  {
+    "id": "washington-monument-landmarks-v2",
+    "name_en": "Washington Monument",
+    "name_hu": "Washington-emlékmű"
+  },
+  {
+    "id": "empire-state-building-landmarks-v2",
+    "name_en": "Empire State Building",
+    "name_hu": "Empire State Building"
+  },
+  {
+    "id": "one-world-trade-center-landmarks-v2",
+    "name_en": "One World Trade Center",
+    "name_hu": "One World Trade Center"
+  },
+  {
+    "id": "chrysler-building-landmarks-v2",
+    "name_en": "Chrysler Building",
+    "name_hu": "Chrysler Building"
+  },
+  {
+    "id": "willis-tower-landmarks-v2",
+    "name_en": "Willis Tower",
+    "name_hu": "Willis Tower"
+  },
+  {
+    "id": "kennedy-space-center-landmarks-v2",
+    "name_en": "Kennedy Space Center",
+    "name_hu": "Kennedy Űrközpont"
+  },
+  {
+    "id": "grand-central-terminal-landmarks-v2",
+    "name_en": "Grand Central Terminal",
+    "name_hu": "Grand Central Terminal"
+  },
+  {
+    "id": "gettysburg-battlefield-landmarks-v2",
+    "name_en": "Gettysburg Battlefield",
+    "name_hu": "Gettysburgi csatatér"
+  },
+  {
+    "id": "the-alamo-landmarks-v2",
+    "name_en": "The Alamo",
+    "name_hu": "Az Alamo"
+  },
+  {
+    "id": "las-vegas-strip-landmarks-v2",
+    "name_en": "Las Vegas Strip",
+    "name_hu": "Las Vegas Strip"
+  },
+  {
+    "id": "times-square-landmarks-v2",
+    "name_en": "Times Square",
+    "name_hu": "Times Square"
+  },
+  {
+    "id": "fenway-park-landmarks-v2",
+    "name_en": "Fenway Park",
+    "name_hu": "Fenway Park"
+  },
+  {
+    "id": "wrigley-field-landmarks-v2",
+    "name_en": "Wrigley Field",
+    "name_hu": "Wrigley Field"
+  },
+  {
+    "id": "madison-square-garden-landmarks-v2",
+    "name_en": "Madison Square Garden",
+    "name_hu": "Madison Square Garden"
+  },
+  {
+    "id": "national-september-11-memorial-landmarks-v2",
+    "name_en": "National September 11 Memorial",
+    "name_hu": "Nemzeti Szeptember 11-i Emlékhely"
+  },
+  {
+    "id": "us-capitol-landmarks-v2",
+    "name_en": "United States Capitol",
+    "name_hu": "Az Amerikai Egyesült Államok Capitoliuma"
+  },
+  {
+    "id": "white-house-landmarks-v2",
+    "name_en": "White House",
+    "name_hu": "Fehér Ház"
+  },
+  {
+    "id": "independence-hall-landmarks-v2",
+    "name_en": "Independence Hall",
+    "name_hu": "Independence Hall"
+  },
+  {
+    "id": "liberty-bell-landmarks-v2",
+    "name_en": "Liberty Bell",
+    "name_hu": "Szabadság-harang"
+  },
+  {
+    "id": "st-patricks-cathedral-landmarks-v2",
+    "name_en": "St. Patrick",
+    "name_hu": "Szent Patrik-székesegyház"
+  },
+  {
+    "id": "brooklyn-bridge-landmarks-v2",
+    "name_en": "Brooklyn Bridge",
+    "name_hu": "Brooklyn híd"
+  },
+  {
+    "id": "hollywood-bowl-landmarks-v2",
+    "name_en": "Hollywood Bowl",
+    "name_hu": "Hollywood Bowl"
+  },
+  {
+    "id": "san-diego-zoo-life-v2",
+    "name_en": "San Diego Zoo",
+    "name_hu": "San Diego-i Állatkert"
+  },
+  {
+    "id": "yellowstone-national-park-life-v2",
+    "name_en": "Yellowstone National Park",
+    "name_hu": "Yellowstone Nemzeti Park"
+  },
+  {
+    "id": "disney-world-orlando-life-v2",
+    "name_en": "Walt Disney World",
+    "name_hu": "Walt Disney World"
+  },
+  {
+    "id": "everglades-national-park-life-v2",
+    "name_en": "Everglades National Park",
+    "name_hu": "Everglades Nemzeti Park"
+  },
+  {
+    "id": "central-park-zoo-life-v2",
+    "name_en": "Central Park Zoo",
+    "name_hu": "Central Park Állatkert"
+  },
+  {
+    "id": "napa-valley-vineyards-life-v2",
+    "name_en": "Napa Valley Vineyards",
+    "name_hu": "Napa-völgyi szőlőültetvények"
+  },
+  {
+    "id": "denali-national-park-life-v2",
+    "name_en": "Denali National Park",
+    "name_hu": "Denali Nemzeti Park"
+  },
+  {
+    "id": "cedar-point-amusement-park-life-v2",
+    "name_en": "Cedar Point",
+    "name_hu": "Cedar Point"
+  },
+  {
+    "id": "california-central-valley-life-v2",
+    "name_en": "California",
+    "name_hu": "Kaliforniai Central Valley"
+  },
+  {
+    "id": "bronx-zoo-life-v2",
+    "name_en": "Bronx Zoo",
+    "name_hu": "Bronx-i Állatkert"
+  },
+  {
+    "id": "kansas-wheat-fields-life-v2",
+    "name_en": "Kansas Wheat Fields",
+    "name_hu": "Kansas-i búzaföldek"
+  },
+  {
+    "id": "glacier-national-park-life-v2",
+    "name_en": "Glacier National Park",
+    "name_hu": "Glacier Nemzeti Park"
+  },
+  {
+    "id": "hersheypark-life-v2",
+    "name_en": "Hersheypark",
+    "name_hu": "Hersheypark"
+  },
+  {
+    "id": "idaho-potato-farms-life-v2",
+    "name_en": "Idaho Potato Farms",
+    "name_hu": "Idahói burgonyafarmok"
+  },
+  {
+    "id": "monterey-bay-aquarium-life-v2",
+    "name_en": "Monterey Bay Aquarium",
+    "name_hu": "Monterey Bay Akvárium"
+  },
+  {
+    "id": "olympic-national-park-life-v2",
+    "name_en": "Olympic National Park",
+    "name_hu": "Olympic Nemzeti Park"
+  },
+  {
+    "id": "florida-citrus-groves-life-v2",
+    "name_en": "Florida Citrus Groves",
+    "name_hu": "Floridai citrusligetek"
+  },
+  {
+    "id": "shedd-aquarium-chicago-life-v2",
+    "name_en": "Shedd Aquarium",
+    "name_hu": "Shedd Akvárium"
+  },
+  {
+    "id": "rocky-mountain-national-park-life-v2",
+    "name_en": "Rocky Mountain National Park",
+    "name_hu": "Sziklás-hegység Nemzeti Park"
+  },
+  {
+    "id": "wisconsin-dairy-farms-life-v2",
+    "name_en": "Wisconsin Dairy Farms",
+    "name_hu": "Wisconsini tejgazdaságok"
+  },
+  {
+    "id": "legoland-california-life-v2",
+    "name_en": "Legoland California",
+    "name_hu": "Legoland Kalifornia"
+  },
+  {
+    "id": "grand-teton-national-park-life-v2",
+    "name_en": "Grand Teton National Park",
+    "name_hu": "Grand Teton Nemzeti Park"
+  },
+  {
+    "id": "georgia-peach-orchards-life-v2",
+    "name_en": "Georgia Peach Orchards",
+    "name_hu": "Georgiai őszibarack-ültetvények"
+  },
+  {
+    "id": "seaworld-orlando-life-v2",
+    "name_en": "SeaWorld Orlando",
+    "name_hu": "SeaWorld Orlando"
+  },
+  {
+    "id": "zion-national-park-life-v2",
+    "name_en": "Zion National Park",
+    "name_hu": "Zion Nemzeti Park"
+  },
+  {
+    "id": "iowa-corn-fields-life-v2",
+    "name_en": "Iowa Corn Fields",
+    "name_hu": "Iowai kukoricaföldek"
+  },
+  {
+    "id": "busch-gardens-tampa-bay-life-v2",
+    "name_en": "Busch Gardens Tampa Bay",
+    "name_hu": "Busch Gardens Tampa Bay"
+  },
+  {
+    "id": "great-smoky-mountains-life-v2",
+    "name_en": "Great Smoky Mountains National Park",
+    "name_hu": "Great Smoky Mountains Nemzeti Park"
+  },
+  {
+    "id": "washington-apple-orchards-life-v2",
+    "name_en": "Washington Apple Orchards",
+    "name_hu": "Washingtoni almakertek"
+  },
+  {
+    "id": "knott-s-berry-farm-life-v2",
+    "name_en": "Knott",
+    "name_hu": "Knott"
+  }
+]

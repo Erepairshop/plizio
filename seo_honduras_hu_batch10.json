@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "laguna-de-guaimoreto-life-v2",
+      "descriptionAdvanced": "A Guaimoreto-lagúna (Laguna de Guaimoreto) egy gyönyörű, védett vizes élőhely Colón megyében, közvetlenül Trujillo városának hátterében. A Karib-tengerrel összeköttetésben lévő, brakkvízi (félsós) lagúnát sűrű vörös, fekete és fehér mangroveerdők szegélyezik, amelyek labirintusai ideális menedéket nyújtanak a tengeri és szárazföldi állatoknak egyaránt. A terület madármegfigyelők paradicsoma: kócsagok, íbiszek, pelikánok és kárókatonák ezrei költenek itt, a vizekben pedig kajmánok és iguánák rejtőznek. A lagúna gazdaságilag is fontos a helyi garifuna és ladino halászok számára, akik hagyományos módszerekkel rákásznak és halásznak. Kenuval vagy csendes csónakkal végzett ökotúrák lehetővé teszik a trópusi vizes élőhelyek érintetlen nyugalmának megtapasztalását. Élővilág K7 — mangrove ökoszisztémák.",
+      "factsAdvanced": [
+        "Trujillo városa mögött elterülő, Karib-tengerrel érintkező lagúna.",
+        "Sűrű mangroveerdők (vörös, fekete, fehér) veszik körbe.",
+        "A helyi garifuna halászközösségek hagyományos halászterülete.",
+        "Kiemelkedő ornitológiai (madármegfigyelő) helyszín (pelikánok, íbiszek).",
+        "A mangrovegyökerek között kajmánok és leguánok élnek.",
+        "Brakkvíz (édes és sós víz keveréke) biztosítja a biológiai sokszínűséget.",
+        "Kajakos és csónakos ökotúrák népszerű és csendes célpontja."
+      ]
+    },
+    {
+      "id": "punta-sal-national-park-life-v2",
+      "descriptionAdvanced": "A Punta Sal Nemzeti Park (Park Nacional Jeannette Kawas) egy páratlan szépségű, tengerparti és vizes élőhely Tela (Atlántida megye) nyugati részén. A park nevét Jeannette Kawas hondurasi környezetvédő tiszteletére kapta, akit 1995-ben gyilkoltak meg, miután hevesen küzdött a park területének pálmaolaj-ültetvényekké és illegális fakitermeléssé történő átalakítása ellen. A rezervátum elképesztő sokszínűséggel bír: találhatók itt fehér homokos, pálmafás karibi strandok, kiterjedt mangroveerdők (Los Micos lagúna), sziklás félszigetek és korallzátonyok. A park otthont ad tengeri teheneknek (manátusz), több tengeri teknősfajnak, bőgőmajmoknak és több száz madárfajnak. A Jeannette Kawas Park Honduras egyik leglátogatottabb ökoturisztikai célpontja, a természetvédelemért hozott áldozat szimbóluma. Élővilág K8 — tengerparti természetvédelem.",
+      "factsAdvanced": [
+        "Karibi tengerparti és mangroveerdő rezervátum Tela városa mellett.",
+        "Nevét a meggyilkolt környezetvédő aktivistáról, Jeannette Kawasról kapta.",
+        "Korábban Punta Sal Nemzeti Park néven volt ismert.",
+        "Magában foglalja a Los Micos lagúnát, Honduras egyik legnagyobb vizes élőhelyét.",
+        "Tengeri tehenek (manátuszok) és tengeri teknősök kritikus menedékhelye.",
+        "Gyakori konfliktusövezet az illegális afrikai pálma ültetvények terjeszkedése miatt.",
+        "Fehér homokos strandjai a legszebbek közé tartoznak az ország szárazföldi részén."
+      ]
+    },
+    {
+      "id": "reserva-biologica-el-chile-life-v2",
+      "descriptionAdvanced": "Az El Chile Biológiai Rezervátum (Reserva Biológica El Chile) egy viszonylag elszigetelt és kevéssé ismert magaslati felhőerdő Francisco Morazán és El Paraíso megyék határán. A terület több mint 2000 méteres csúcsai kulcsfontosságú vízgyűjtő területeket jelentenek, amelyek tucatnyi helyi közösség és mezőgazdasági terület ivó- és öntözővíz-ellátását biztosítják. A sűrű, epifitákkal, páfrányokkal és orchideákkal borított erdő menedéket nyújt a kihalás szélén álló trópusi állatoknak, köztük a jaguárnak, a quetzál madárnak és a ritka hegyi szalamandráknak. Mivel az infrastruktúra hiányos, a park nehezen megközelíthető, ami paradox módon megvédi a tömegturizmustól, ugyanakkor kiszolgáltatottá teszi az illegális fakitermelésnek és a peremterületeken terjeszkedő mezőgazdaságnak. Élővilág K8 — érintetlen felhőerdők.",
+      "factsAdvanced": [
+        "Magaslati felhőerdő Francisco Morazán és El Paraíso megyék határán.",
+        "Több mint 2000 méteres csúcsokkal és rendkívül dús növényzettel rendelkezik.",
+        "Kritikus vízgyűjtő terület, amely tucatnyi falut lát el friss vízzel.",
+        "Endémikus kétéltűek, quetzál madarak és nagymacskák élőhelye.",
+        "Infrastruktúra szinte alig van, nehezen megközelíthető a turisták számára.",
+        "Állandó veszélyt jelent az illegális fakitermelés és az agrárium terjeszkedése.",
+        "A tudományos kutatások egyik ígéretes, még feltáratlan központja."
+      ]
+    },
+    {
+      "id": "montana-de-yoro-national-park-life-v2",
+      "descriptionAdvanced": "A Yoro-hegység Nemzeti Park (Parque Nacional Montaña de Yoro) Yoro megye szívében, egy hatalmas, fenyő- és felhőerdőkkel borított hegyvonulaton terül el. A több mint 2200 méteres magasságot is elérő park az ország északi részének egyik legfontosabb ökológiai tüdeje és vízgyűjtője. Területén élnek a jicaque (tolupán) őslakos közösségek utolsó csoportjai, akiknek kultúrája és túlélése szorosan összefonódik az erdő egészségével. A park flóráját a hatalmas mahagóni- és fenyőfák dominálják, míg faunája magában foglalja a jaguárokat, ocelotokat és a Közép-Amerikában ritka hárpiákat. Bár a turizmus minimális, a park az ország egyik legfontosabb erdészet-védelmi övezete, ahol a helyi őslakosok bevonásával próbálják megfékezni az illegális erdőirtást. Élővilág K7 — őslakosok és természetvédelem.",
+      "factsAdvanced": [
+        "Hatalmas fenyő- és felhőerdő rezervátum Yoro megyében.",
+        "Csúcsai elérik a 2200 méteres tengerszint feletti magasságot.",
+        "Területén élnek a tolupán (jicaque) őslakos törzs maradékai.",
+        "Fontos menedék a jaguárok és a ritka hárpiasasmadarak számára.",
+        "A park megóvja a régió vízbázisát a fakitermeléstől.",
+        "Az ökoturizmus szinte egyáltalán nincs jelen a nehéz megközelíthetőség miatt.",
+        "Az őslakosok túlélése közvetlenül az erdő fennmaradásától függ."
+      ]
+    },
+    {
+      "id": "montana-de-comayagua-life-v2",
+      "descriptionAdvanced": "A Comayagua-hegység Nemzeti Park (Parque Nacional Montaña de Comayagua - PANACO) a hatalmas Comayagua-völgy keleti oldalán magasodó, lenyűgöző felhőerdő. A 2405 méter magas 'Portillo de los Encinos' csúcs köré épülő park drámai éghajlati kontrasztot alkot az alatta elterülő, forró és száraz mezőgazdasági völggyel. A hegyvidék sűrű, állandóan nedves erdei számtalan patakot táplálnak, amelyek létfontosságúak a lenti öntözéses földművelés és Comayagua városának vízellátása szempontjából. A park rendkívül gazdag orchideákban, páfrányfákban és a csak Közép-Amerikában élő ritka madárfajokban (például a quetzálban). A hegyre felvezető ösvények meredekek és kihívást jelentenek, de a kilátópontokról az egész völgy és a korábbi főváros belátható. Élővilág K8 — klímakontrasztok.",
+      "factsAdvanced": [
+        "A Comayagua-völgy fölé tornyosuló hegyvidéki nemzeti park.",
+        "Legmagasabb pontja a 2405 méteres Portillo de los Encinos.",
+        "Éles klímakontrasztot alkot az alatta lévő forró, száraz völggyel.",
+        "A völgyi öntözéses mezőgazdaság (zöldségek) fő vízszolgáltatója.",
+        "A sűrű felhőerdő orchideáknak és a quetzál madárnak ad otthont.",
+        "Túraútvonalai nehezek, de páratlan panorámát nyújtanak Comayaguára.",
+        "A park kezelése jelentős kihívás a környékbeli agrárterjeszkedés miatt."
+      ]
+    },
+    {
+      "id": "reserva-biologica-opalaca-life-v2",
+      "descriptionAdvanced": "Az Opalaca Biológiai Rezervátum (Reserva Biológica Opalaca) egy kiterjedt, vad hegyvidéki ökoszisztéma, amely Lempira és Intibucá megyék határán húzódik. Ez a régió a lenca őslakosok ősi földje, akik hagyományosan védelmezik a környező, 2300 métert is meghaladó felhőerdőket. A rezervátum az egyik utolsó menedéke a pumának, a tapírnak és számos endémikus közép-amerikai rovarnak és kétéltűnek. Az Opalaca különös jelentőségét a folyók adják: az itt eredő patakok táplálják a térség nagy folyóit, amelyek a helyi mezőgazdaság számára létfontosságúak. Bár a turisztikai infrastruktúra hiányos, az egyre inkább fenyegető klímaváltozás és az illegális fakitermelés miatt a tudósok és a helyi lenca közösségek szorosan együttműködnek a rezervátum megmentéséért. Élővilág K8 — őslakos területvédelem.",
+      "factsAdvanced": [
+        "Lempira és Intibucá megyék határán elterülő magaslati biológiai rezervátum.",
+        "A 2300 méteres hegyvonulatok sűrű trópusi felhőerdőket rejtenek.",
+        "A terület a lenca őslakos közösségek történelmi és kulturális otthona.",
+        "Kritikus vízgyűjtő terület a nyugati hondurasi folyók számára.",
+        "Pumák, tapírok és számos endémikus kétéltű élőhelye.",
+        "A lenca közösségek aktívan küzdenek a terület fakitermelés elleni védelméért.",
+        "Minimális turisztikai kiépítettségű, elsősorban tudományos kutatási terep."
+      ]
+    },
+    {
+      "id": "reserva-biologica-la-muralla-life-v2",
+      "descriptionAdvanced": "A La Muralla Biológiai Rezervátum (Refugio de Vida Silvestre La Muralla) Olancho megye északi részén (La Unión közelében) egy érintetlen, misztikus felhőerdő, amelyet a világ egyik legfajgazdagabb területeként tartanak számon Közép-Amerikában. Neve (A Fal) a meredek, falként emelkedő szikláira és hegyoldalaira utal. A park különösen híres a quetzál madarakról, amelyek a fák magasan lévő odvaiban fészkelnek, valamint a lenyűgözően változatos orchideákról és mohákról. Honduras első ökoturisztikai célpontjainak egyikeként viszonylag jól karbantartott látogatóközponttal és ösvényekkel (pl. El Pizote ösvény) rendelkezik, ahol a túrázók jaguár- és ocelotnyomokra is bukkanhatnak. Az 1990-es évek hurrikánjai és a kávéültetvények közelsége ellenére az erdő megőrizte ősi, sűrű dzsungel karakterét. Élővilág K7 — ökoturizmus.",
+      "factsAdvanced": [
+        "Olancho megye északi részén található sűrű hegyi felhőerdő.",
+        "Nevét (A Fal) a meredek, szinte áthatolhatatlan hegyoldalairól kapta.",
+        "Honduras egyik legkiválóbb helyszíne a ritka quetzál madár megfigyelésére.",
+        "Híres a hihetetlenül gazdag orchidea- és bromélia-flórájáról.",
+        "Kiépített ösvényhálózata van, ami ritkaság a hondurasi rezervátumok közt.",
+        "Jaguárok, ocelotok és tapírok is élnek a park háborítatlan részein.",
+        "A közeli La Unión település biztosítja a turisztikai szolgáltatásokat."
+      ]
+    },
+    {
+      "id": "islas-del-cisne-nature-v2",
+      "descriptionAdvanced": "A Hattyú-szigetek (Islas del Cisne, angolul Swan Islands) egy apró, rendkívül elszigetelt szigetcsoport a Karib-tengeren, körülbelül 150 kilométerre Honduras északi partjaitól. A három kis sziget (Nagy-Hattyú, Kis-Hattyú és Booby Cay) korallmészkőből épül fel, és nem rendelkezik állandó civil lakossággal, csupán egy kisebb hondurasi haditengerészeti bázis működik itt. A szigetek különleges ökológiai menedéket jelentenek: több százezer vándormadár, köztük szulák (boobies) és fregattmadarak fészkelőhelye. A szigeten él egy endémikus leguánfaj (Hutia) és az endemikus Hattyú-szigeti anolisz is. Történelmileg a szigetek kalóztanyaként, majd amerikai guano-bányászközpontként, később pedig a CIA titkos rádióadójaként szolgáltak a hidegháború alatt. Ma a hondurasi kormány egy szigorúan őrzött börtön építését tervezi a szigeten, ami komoly aggályokat vet fel a törékeny ökoszisztéma miatt. Természet K8 — izolált szigetek.",
+      "factsAdvanced": [
+        "Honduras legelszigeteltebb karibi szigetcsoportja (150 km-re a parttól).",
+        "Állandó civil lakosság nélküli, apró korallmészkő szigetek.",
+        "Több százezer tengeri és vándormadár (szulák, fregattmadarak) fészkelőhelye.",
+        "Itt él az endémikus Hattyú-szigeti leguán és több ritka gyíkfaj.",
+        "A hidegháború alatt amerikai meteorológiai állomás és CIA rádióadó működött itt.",
+        "Csak a hondurasi haditengerészet bázisa található jelenleg a szigeten.",
+        "A tervezett szuperbörtön építése súlyos fenyegetést jelent az élővilágra."
+      ]
+    },
+    {
+      "id": "cerro-pico-cristal-nature-v2",
+      "descriptionAdvanced": "A Cerro Pico Cristal (Kristály-csúcs Hegy) a Pico Bonito Nemzeti Park egyik legimpozánsabb és legnehezebben megközelíthető csúcsa, Atlántida és Yoro megyék határán. A hegycsúcs és a környező meredek gerincek szinte állandóan felhőbe burkolóznak. Nevét az itt található kvarckristály-képződményekről és a kristálytiszta, sziklák közül eredő forrásvizekről kapta. A hegy trópusi felhőerdeje rendkívül dús, hatalmas páfrányfákkal, orchideákkal és mohákkal borított, ami ideális környezetet biztosít a ritka hegyi szalamandrák és a quetzál számára. Mivel a hegymászó ösvények kiépítetlenek és a terep rendkívül veszélyes, a Pico Cristal megmászása csak tapasztalt túrázók és kutatók számára ajánlott, így megőrizte abszolút érintetlenségét. Természet K8 — extrém csúcsok.",
+      "factsAdvanced": [
+        "A Pico Bonito Nemzeti Park egyik legnehezebben megmászható hegycsúcsa.",
+        "Nevét a kvarckristály-lerakódásokról és a tiszta hegyi forrásokról kapta.",
+        "Állandó köd és sűrű trópusi felhőerdő borítja.",
+        "Rendkívül gazdag orchideákban, páfrányfákban és epifita növényekben.",
+        "Menedéket nyújt a quetzál madárnak és ritka hegyi kétéltűeknek.",
+        "Nincsenek kiépített turistautak, látogatása komoly hegymászó tapasztalatot igényel.",
+        "Megőrizte az ország egyik legzavartalanabb ökoszisztémáját."
+      ]
+    },
+    {
+      "id": "montana-de-comayagua-np-nature-v2",
+      "descriptionAdvanced": "A Montaña de Comayagua Nemzeti Park (PANACO) a Hondurasi központi hegyvidék ékköve, amely drámai hátteret ad a történelmi Comayagua városának. A több mint 2400 méteres magasságig nyúló, sötétzöld színben pompázó hegytömb hűvös, esős felhőerdői éles ellentétben állnak a völgy perzselő hőségével. A hegy természeti jelentőségét az a hatalmas vízmennyiség adja, amelyet a fák lombozata a felhőkből „kicsap”, majd több mint 50 patak és folyó formájában a völgybe juttat, lehetővé téve a régió intenzív mezőgazdaságát. A parkban több rejtett vízesés található (köztük a látványos Cascada de los Ensueños). Bár az alsóbb lejtőkön a kávétermelés és a fenyőirtás károkat okozott, a felső régiók érintetlenek, és a közép-amerikai biodiverzitás kincseit rejtik. Természet K8 — vízgyűjtő hegyek.",
+      "factsAdvanced": [
+        "A Comayagua-völgy és a város vízellátásának kritikus biztosítója.",
+        "Csúcsai elérik a 2400 métert, állandóan felhőerdő borítja őket.",
+        "Több mint 50 patak és folyó ered a hegyvonulat erdeiben.",
+        "A híres 'Cascada de los Ensueños' (Álmok Vízesése) is itt található.",
+        "A hegy lábánál kávéültetvények és mezőgazdaság található.",
+        "Az éles klímakontraszt egyedülálló fajgazdagságot (pl. tukánok) eredményez.",
+        "Comayagua városából lenyűgöző panorámát nyújt a sötétzöld hegytömb."
+      ]
+    },
+    {
+      "id": "rio-ulua-nature-v2",
+      "descriptionAdvanced": "Az Ulúa-folyó (Río Ulúa) Honduras legfontosabb és gazdaságilag legjelentősebb folyója, amely az ország nyugati hegyvidékein (Intibucá megye) ered, és átszelve a Sula-völgyet, a Karib-tengerbe ömlik. A folyó vízgyűjtő területe az ország területének közel harmadát lefedi. Az Ulúa völgye (Valle de Sula) Honduras legtermékenyebb vidéke, ahol hatalmas banán-, cukornád- és pálmaolaj-ültetvények virágzanak a folyó hordalékos, gazdag talaján. A gazdasági áldás mellett a folyó komoly veszélyt is jelent: a trópusi hurrikánok idején (mint a Fifi, Mitch vagy Eta/Iota) az Ulúa megállíthatatlanul árad meg, hatalmas területeket elöntve és településeket elpusztítva. Felső folyásán a víz tiszta és vadvízi evezésre is alkalmas, míg az alsó szakaszokon a mezőgazdasági és ipari szennyezés komoly ökológiai problémát okoz. Természet K7 — a folyók gazdasága.",
+      "factsAdvanced": [
+        "Honduras legfontosabb, a nyugati hegyekből a Karib-tengerig tartó folyója.",
+        "Kialakította az ország legtermékenyebb régióját, a Sula-völgyet.",
+        "Vizét és hordalékát intenzív banán- és cukornádtermesztésre használják.",
+        "A hurrikánszezonban rendszeresen okoz pusztító, katasztrofális áradásokat.",
+        "Alsó folyásánál komoly ipari és mezőgazdasági szennyezéssel küzd.",
+        "Történelmileg az őslakosok és a banánipar legfőbb szállítási útvonala volt.",
+        "A folyótorkolat (Puerto Cortés mellett) fontos mangrove ökoszisztéma."
+      ]
+    },
+    {
+      "id": "laguna-de-los-micos-nature-v2",
+      "descriptionAdvanced": "A Los Micos Lagúna (Laguna de Los Micos) egy lenyűgöző, tengerparti sós vizű lagúna, amely a Jeannette Kawas (Punta Sal) Nemzeti Park szerves része, Tela (Atlántida) közelében. Nevét (A Majmok Lagúnája) a környező sűrű mangroveerdőkben élő nagyszámú fehérképű kapucinus- és bőgőmajomról kapta. A lagúna egy vékony homokdűnével csatlakozik a Karib-tengerhez, ami biztosítja a tenger és az édesvízi folyók vizének keveredését. Ez a brakkvízi környezet hihetetlenül gazdag hal- és rákállományt tart fenn, ami nemcsak a tengeri madarak (kócsagok, halászsasok) ezreit vonzza ide, hanem a partjainál fekvő hagyományos garifuna halászfalvak (mint Miami) megélhetését is biztosítja. A lagúna érintetlen, tükörsima vize népszerű célpont a csónakos ökotúrák és a naplementét csodáló turisták körében. Természet K8 — karibi lagúnák.",
+      "factsAdvanced": [
+        "Atlántida megyében, a Jeannette Kawas Nemzeti Park területén fekszik.",
+        "Nevét a környező mangroveerdőkben élő nagyszámú majomról kapta.",
+        "A Karib-tengerrel összeköttetésben álló, brakkvízi (félsós) lagúna.",
+        "A partján hagyományos, nádtetős garifuna halászfalvak (pl. Miami) állnak.",
+        "Hatalmas vízimadár-populációk (pelikánok, halászsasok) táplálkozóhelye.",
+        "Rendkívül gazdag rák- és halfajokban, 'tengeri óvodaként' funkcionál.",
+        "Kizárólag csónakkal (lanchas) járható be, az ökoturizmus népszerű helyszíne."
+      ]
+    },
+    {
+      "id": "tawahka-asagni-reservat-nature-v2",
+      "descriptionAdvanced": "A Tawahka Asagni Bioszféra Rezervátum Honduras és Közép-Amerika egyik legvadabb, leginkább érintetlen és legelzártabb természeti övezete, amely Olancho és Gracias a Dios megyék határán terül el. A rezervátum a hatalmas Mezoamerikai Biológiai Folyosó (Corredor Biológico Mesoamericano) kritikus láncszeme, amely összeköti a Río Plátano Rezervátumot a nicaraguai Bosawás Bioszférával. Nevét az itt élő, mindössze ezer főt számláló tawahka őslakos népcsoportról kapta, akik a terület sűrű esőerdeiben és a Patuca-folyó partjain élnek izolálva, hagyományos fakenuikkal közlekedve. A rezervátum hihetetlenül gazdag nagymacskákban (jaguár, puma), tapírokban és színpompás arapapagájokban. A területet – és a tawahkák túlélését – ugyanakkor drasztikusan fenyegeti az illegális fakitermelés és a szarvasmarha-farmerek erőszakos terjeszkedése. Természet K8 — őslakos rezervátumok.",
+      "factsAdvanced": [
+        "Honduras északkeleti dzsungelében, a La Mosquitia régió határán fekszik.",
+        "A nicaraguai és a hondurasi (Río Plátano) bioszféra-rezervátumokat köti össze.",
+        "Otthont ad a kritikusan veszélyeztetett tawahka őslakos törzsnek.",
+        "A közlekedés szinte kizárólag a Patuca-folyón, fakenukkal (pipantes) lehetséges.",
+        "Közép-Amerika egyik legnagyobb egybefüggő, érintetlen trópusi esőerdeje.",
+        "Kiemelkedően fontos élőhelye a jaguárnak, tapírnak és hárpiának.",
+        "Folyamatosan fenyegeti az illegális fakitermelés (caoba) és az állattenyésztés."
+      ]
+    },
+    {
+      "id": "rio-negro-nature-v2",
+      "descriptionAdvanced": "A Río Negro (Fekete-folyó) egy történelmi és természeti szempontból is kiemelkedő folyó, amely az ország keleti határvidékén ered, és egy szakaszon természetes határt képez Honduras és Nicaragua között. Bár folyása lassú és vizének sötét, barnás-feketés színe (amelyet a dzsungel rothadó növényzetéből származó tanninok okoznak) adja a nevét, az ökoszisztéma, amelyet táplál, lenyűgöző. A folyó alsó szakasza hatalmas, érintetlen mangrovemocsarakba és lagúnákba torkollik a Karib-tengernél. Történelmileg a Río Negro az angol kalózok és a miszkító zambók (afro-őslakosok) fontos búvóhelye és kereskedelmi útvonala volt a spanyolok elleni harcokban (a régió volt az egykori 'Szúnyog-part' brit protektorátus központja). Ma a folyó elszigetelt, és a helyi halászközösségek éltető vize. Természet K7 — határfolyók.",
+      "factsAdvanced": [
+        "Kelet-Hondurasban található, egy szakaszon nicaraguai határfolyó.",
+        "Vizének sötét, teás színét a trópusi növényzetből kioldódó tanninok adják.",
+        "A Karib-tengerbe ömlik egy hatalmas, mocsaras deltán keresztül.",
+        "Történelmileg az angol kalózok és fegyvercsempészek kedvelt búvóhelye volt.",
+        "A brit 'Mosquito Coast' protektorátus idején fontos közlekedési út volt.",
+        "A folyó és torkolata gazdag tengeri tehenekben és krokodilokban.",
+        "A mai napig rendkívül nehezen megközelíthető, érintetlen természeti terület."
+      ]
+    },
+    {
+      "id": "laguna-de-alvarado-nature-v2",
+      "descriptionAdvanced": "Az Alvarado-lagúna (Laguna de Alvarado) egy festői és egyben gazdaságilag kritikus sós vizű ökoszisztéma, amely Puerto Cortés kikötővárosát öleli körbe Cortés megyében. A Karib-tengerrel közvetlen kapcsolatban álló lagúna a modern tengeri kikötő és a város terjeszkedése ellenére megőrizte sűrű mangroveerdeit, amelyek egyfajta zöld gátként védik a várost a hurrikánok és a vihardagályok ellen. A lagúna vize a helyi kézműves halászok számára rákokban és halfajokban gazdag, míg a csendesebb öblök madármegfigyelők (kócsagok, pelikánok) számára vonzók. Ugyanakkor a terület folyamatos ökológiai nyomás alatt áll az ország legnagyobb ipari kikötőjéből származó hajóforgalom, a városi szennyvíz és a partmenti feltöltések miatt, így megmentése az ország egyik legnagyobb környezetvédelmi kihívása. Természet K8 — városi lagúnák.",
+      "factsAdvanced": [
+        "Közvetlenül Puerto Cortés városában és annak ipari kikötője mellett fekszik.",
+        "Brakkvízi (félsós) lagúna, amely egy keskeny csatornán át érintkezik a Karib-tengerrel.",
+        "A mangroveerdők természetes védgátként funkcionálnak a viharok ellen.",
+        "Súlyos ökológiai terhelést jelent számára a kikötői hajóforgalom és az urbanizáció.",
+        "A helyi kisüzemi halászat és rákászat fontos bázisa.",
+        "A városi szennyezés ellenére nagyszámú tengeri madár táplálkozóhelye.",
+        "A lagúna partvidékén egyre több rekreációs turisztikai központ épül."
+      ]
+    },
+    {
+      "id": "la-muralla-nationalpark-nature-v2",
+      "descriptionAdvanced": "A La Muralla Nemzeti Park (Refugio de Vida Silvestre La Muralla) Honduras északkeleti részén, Olancho megyében található, a La Unión település közelében. Ez a sűrű, ködös felhőerdő nevét (A Fal) azokról a szinte függőleges, áthatolhatatlannak tűnő sziklafalakról kapta, amelyek védik az erdő belső, érintetlen részeit. A La Muralla Közép-Amerika egyik legfajgazdagabb területe a kétéltűek, a mohák és az orchideák tekintetében, emellett a legkiválóbb hondurasi helyszín a ritka, színpompás quetzál madár megfigyelésére. Az ország első olyan védett területei közé tartozik, ahol kiépített látogatóközpont és túraösvények (mint a híres El Pizote) várták a turistákat, ám a Mitch hurrikán pusztításai és az elzártság miatt az infrastruktúra karbantartása kihívássá vált. Ennek ellenére a park a biológusok és a kalandvágyó ökoturisták Szent Grálja maradt. Természet K7 — felhőerdők.",
+      "factsAdvanced": [
+        "Olancho megyében, szinte függőleges sziklafalakkal (La Muralla) védett felhőerdő.",
+        "Honduras egyik legjobb helyszíne a szent quetzál madár megfigyelésére.",
+        "Kiemelkedő fajgazdagsággal bír az endémikus kétéltűek és orchideák terén.",
+        "Történelmileg Honduras egyik legelső kiépített ökoturisztikai központja volt.",
+        "Kiépített ösvényekkel rendelkezik (pl. az El Pizote), amelyek a dzsungel mélyére vezetnek.",
+        "A jaguárok, tapírok és ocelotok menedékhelye a keleti régióban.",
+        "A közeli fakitermelés és kávéültetvények veszélyeztetik a park peremvidékeit."
+      ]
+    },
+    {
+      "id": "cerro-el-pital-nature-v2",
+      "descriptionAdvanced": "A Cerro El Pital Közép-Amerika egyik legkülönlegesebb földrajzi képződménye, amely Honduras (Ocotepeque megye) és El Salvador határán emelkedik, és 2730 méteres tengerszint feletti magasságával El Salvador legmagasabb, Hondurasnak pedig a harmadik legmagasabb csúcsa. A hegy trópusi felhőerdeje drámai, hűvös mikroklímával rendelkezik; a hőmérséklet télen gyakran fagypont közelébe esik, ami egyedülálló jelenség ebben a régióban. A dús, ködös erdőben orchideák, fenyők és hatalmas páfrányok nőnek, miközben a terület menedéket nyújt a ritka hegyi szalamandráknak és a quetzál madaraknak. Az El Pital csúcsa népszerű túrázóhely és kempingezőhely mindkét ország lakói számára, az innen nyíló lenyűgöző panoráma tiszta időben lehetővé teszi a hondurasi, guatemalai és salvadori hegyvonulatok együttes megtekintését. Természet K8 — határhegyek.",
+      "factsAdvanced": [
+        "2730 méteres csúcsával El Salvador legmagasabb, Honduras 3. legmagasabb hegye.",
+        "Pontosan a két ország határvonalán fekszik Ocotepeque megyében.",
+        "Kivételesen hideg mikroklímával rendelkezik, télen fagyok is előfordulnak.",
+        "A sűrű felhőerdő quetzáloknak és endémikus kétéltűeknek ad otthont.",
+        "Népszerű kemping- és túrázócélpont mindkét nemzet természetjárói számára.",
+        "Tiszta időben a csúcsról Honduras, El Salvador és Guatemala is belátható.",
+        "A hegy oldalain (alacsonyabb szinteken) intenzív kávé- és zöldségtermesztés zajlik."
+      ]
+    },
+    {
+      "id": "aguacatal-waldreservat-nature-v2",
+      "descriptionAdvanced": "Az Aguacatal Erdei Rezervátum (Reserva Forestal El Aguacatal) egy kevésbé ismert, de ökológiailag kulcsfontosságú hegyvidéki terület Honduras nyugati részén, Copán és Santa Bárbara megyék határvidékén. Nevét a vadon termő avokádófákról ('aguacate') kapta, amelyek bőségesen megtalálhatók a sűrű lombkorona alatt. A rezervátum felhőerdői és tölgyes-fenyves átmeneti zónái kritikus vízgyűjtőként szolgálnak a környező völgyek, köztük a kávétermelő régiók és a kisebb folyók számára. A terület biodiverzitása lenyűgöző: trópusi madarak, kisebb hegyi ragadozók és ritka rovarok élnek háborítatlanul a meredek lejtőkön. Bár a terület nem rendelkezik kiépített turisztikai infrastruktúrával, a biológusok és a természetvédők fokozott figyelmet fordítanak rá, hogy megvédjék a szomszédos terjeszkedő mezőgazdaságtól. Természet K7 — helyi vízgyűjtők.",
+      "factsAdvanced": [
+        "Hegyvidéki erdei rezervátum Copán és Santa Bárbara megyék közelében.",
+        "Nevét a vadon növő avokádófákról ('aguacate') kapta.",
+        "A terület a trópusi tölgy- és fenyőerdők, valamint a felhőerdők átmenete.",
+        "Kritikus vízgyűjtő terület a környező települések és kávéültetvények számára.",
+        "Minimális turisztikai infrastruktúrával rendelkezik, szinte teljesen érintetlen.",
+        "Ritka madárfajok (pl. hegyi tukánok) és kisméretű emlősök otthona.",
+        "Védelme folyamatos küzdelmet igényel az illegális fakitermelés ellen."
+      ]
+    },
+    {
+      "id": "montana-de-la-sierra-nature-v2",
+      "descriptionAdvanced": "A Montaña de la Sierra, más néven a Sierra-hegység (Sierra de La Paz), Honduras délnyugati részén (La Paz és Intibucá megyék határán) húzódó hatalmas, sziklás és sűrűn erdősült hegyvonulat. A régió éghajlata az egyik leghidegebb az országban, csúcsai gyakran burkolóznak ködbe, és az alacsony hőmérséklet (különösen éjszaka) próbára teszi a meredek hegyoldalakon élő, őslakos lenca közösségeket. A hegyvidék a hondurasi vízrajz egyik legfontosabb forrásvidéke: itt ered a Goascorán-folyó, amely a Csendes-óceánba (Fonseca-öböl) ömlik. A terület sűrű fenyő- és felhőerdei elképesztő élővilágot rejtenek, bár a meredek, járhatatlan terep miatt nagyrészt feltáratlanok. A Montaña de la Sierra vad, drámai tájai a közép-amerikai cordillerák nyers erejét testesítik meg. Természet K8 — déli hegyvonulatok.",
+      "factsAdvanced": [
+        "Hatalmas és elszigetelt hegyvonulat La Paz és Intibucá megyékben.",
+        "Honduras egyik leghidegebb régiója, gyakori fagyokkal a csúcsokon.",
+        "A hegyoldalak meredekek és nehezen járhatók, sűrű fenyvesekkel borítottak.",
+        "Itt van a Csendes-óceánba ömlő Goascorán-folyó vízgyűjtő és forrásvidéke.",
+        "A terület nagyrészt a hagyományőrző lenca őslakosok otthona.",
+        "Flórája és faunája nagyrészt feltáratlan a terepviszonyok miatt.",
+        "A hegyvidék megvédi a belső völgyeket a csendes-óceáni trópusi viharoktól."
+      ]
+    },
+    {
+      "id": "punta-sal-nationalpark-nature-v2",
+      "descriptionAdvanced": "A Punta Sal (ma hivatalosan Jeannette Kawas Nemzeti Park) Tela városától (Atlántida) nyugatra a Karib-tengerbe nyúló félsziget és a hozzá tartozó tengeri, valamint földi ökoszisztéma. A félszigetet egyedülálló, drámai sziklaképződmények és barlangok jellemzik, amelyeket a tenger hullámai vájtak ki; ezek az eldugott öblök a 17. században kalózok (például William Parker) rejtekhelyeként szolgáltak. A természetes szépség lenyűgöző: a sűrű trópusi dzsungel közvetlenül a fehér homokos, pálmafákkal szegélyezett karibi tengerpartokon ér véget. A tengeri rész színpompás korallzátonyai kiváló sznorkelező és búvárhelyek, míg a dzsungelben majmok, tapírok és több száz madárfaj él. Bár a park a meggyilkolt környezetvédőről kapta új nevét, a helyiek és a turisták körében a 'Punta Sal' név maradt a legismertebb. Természet K7 — sziklás partvidékek.",
+      "factsAdvanced": [
+        "A Karib-tengerbe nyúló drámai, sziklás félsziget Tela (Atlántida) mellett.",
+        "A félsziget barlangjai történelmileg kalózok búvóhelyéül szolgáltak.",
+        "A trópusi esőerdő közvetlenül a tengerparti homokdűnéken ér véget.",
+        "A tengeri védett terület gazdag korallzátonyokat és halállományt foglal magában.",
+        "Kiváló ökoturisztikai helyszín sznorkelezésre és dzsungeltúrákra.",
+        "A park hivatalos neve Jeannette Kawas Nemzeti Parkra változott 1995-ben.",
+        "Szigorúan védett terület, ahová csak hajóval, engedéllyel rendelkező túrákon lehet eljutni."
+      ]
+    }
+  ]
+}

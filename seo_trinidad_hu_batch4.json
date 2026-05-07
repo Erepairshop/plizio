@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-piparo-cities-v2",
+      "descriptionAdvanced": "Piparo egy csendes falu Trinidad központi részén, amely 1997-ben vált világszerte ismertté egy hatalmas sárvulkánkitörés miatt, amely a település egy részét eltemette. A falu ma egyfajta geológiai zarándokhely, ahol a látogatók megtekinthetik az aktív sárvulkánokat és a természet erejének nyomait. Piparo hangulata békés és vidéki, a lakók főként mezőgazdaságból élnek. A falu dombos fekvése szép kilátást nyújt a környező tájra. A közösség emlékezetében mélyen él a kitörés napja, ami megerősítette az összefogást a helyiek között. Földrajz K7 — geológiai folyamatok és sárvulkánok.",
+      "factsAdvanced": [
+        "Híres az 1997-es pusztító sárvulkánkitörésről.",
+        "A falu egy része ma is a megkövült sár alatt fekszik.",
+        "Az aktív sárvulkánok ma is látogathatók a település határában.",
+        "Csendes mezőgazdasági közösség a Central Range lábánál.",
+        "Híres a különleges, kénes illatú forrásairól.",
+        "Népszerű célpont a geológusok és egyetemi kutatók számára.",
+        "A falu neve feltehetően őslakos eredetű.",
+        "Erős vallási közösségekkel és szép templomokkal rendelkezik."
+      ]
+    },
+    {
+      "id": "tt-preysal-cities-v2",
+      "descriptionAdvanced": "Preysal egy dinamikus település Közép-Trinidadban, a Sir Solomon Hochoy autópálya mentén. A város híres a sport iránti rajongásáról, különösen a krikettről, hiszen számos nemzeti és nemzetközi szintű játékos származik innen. Preysal stratégiai elhelyezkedése miatt fontos lakóövezetté vált az ingázók számára, akik San Fernando vagy Port of Spain felé tartanak. A település arculatát a modern házak és a hagyományos vidéki üzletek keveréke határozza meg. A közösség büszke az elért sportsikereire és a pezsgő társadalmi életére. Sachkunde K4 — sport és közösségi élet.",
+      "factsAdvanced": [
+        "Trinidad egyik 'krikett-bölcsőjeként' ismert.",
+        "Közvetlenül az autópálya mentén fekszik, kiváló közlekedéssel.",
+        "Híres a tehetséges sportolóiról és sikeres krikettklubjáról.",
+        "Dinamikusan fejlődő lakóövezet Közép-Trinidadban.",
+        "A lakosság nagy része az energiaiparban vagy a szolgáltatásokban dolgozik.",
+        "Számos vallási és kulturális szervezet központja.",
+        "Élénk esti utcai étkezési kultúra jellemzi.",
+        "A település neve egy korábbi ültetvényes családhoz kötődik."
+      ]
+    },
+    {
+      "id": "tt-tortuga-cities-v2",
+      "descriptionAdvanced": "Tortuga egy festői falu a Central Range dombjai között, amely híres a történelmi római katolikus templomáról és a lenyűgöző panorámájáról. A település neve spanyolul 'teknőst' jelent, ami a domborzat alakjára utalhat. Tortuga az ország egyik legrégebbi kakaótermelő vidéke, ahol a hűvösebb klíma és a termékeny talaj ideális feltételeket biztosít. A falu temploma, az Immaculate Conception, gyönyörű ólomüveg ablakairól és békés környezetéről ismert. Tortuga a nyugalom szigete, ahol a természet és a történelem kéz a kézben jár. Történelem K7 — gyarmati építészet és vallás.",
+      "factsAdvanced": [
+        "Híres a történelmi Immaculate Conception katolikus templomáról.",
+        "A Central Range egyik legmagasabb és legszebb pontján fekszik.",
+        "Nevének jelentése spanyolul: 'teknős'.",
+        "Fontos kakaótermelő központ volt a 19. században.",
+        "Csodálatos kilátást nyújt a Paria-öbölre és a síkságokra.",
+        "Híres a hűvös és kellemes mikroklímájáról.",
+        "A falu környékén számos egzotikus növény és madár él.",
+        "Békés zarándokhely és kedvelt kirándulóhely."
+      ]
+    },
+    {
+      "id": "tt-mamoral-cities-v2",
+      "descriptionAdvanced": "Mamoral egy csendes, rejtett település Trinidad belső dombvidékén, mélyen a Central Range erdőiben. A falu híres az érintetlen természetéről és a hagyományos mezőgazdasági életmódjáról. Mamoral lakói generációk óta kakaó- és kávétermesztéssel foglalkoznak, megőrizve a sziget régi gazdasági alapjait. A település elszigeteltsége segített megőrizni a közösség szoros összefogását és a vendégszerető falusi hangulatot. Mamoral környéke ideális a madárlesőknek és azoknak, akik a trópusi esőerdők nyugalmát keresik. Sachkunde K3 — vidéki tájak és gazdálkodás.",
+      "factsAdvanced": [
+        "Trinidad központi részén, a Central Range szívében fekszik.",
+        "Hagyományos kakaó- és kávétermelő közösség.",
+        "A név feltehetően spanyol vagy őslakos eredetű.",
+        "Híres a buja, zöld környezetéről és a tiszta levegőjéről.",
+        "A falu lakossága kicsi és rendkívül összetartó.",
+        "Népszerű helyszín a természetfotózáshoz.",
+        "Az élet lassú és a mezőgazdasági munkák ritmusát követi.",
+        "Kevés a turista, így megőrizte eredeti, hamisítatlan báját."
+      ]
+    },
+    {
+      "id": "tt-flanagin-town-cities-v2",
+      "descriptionAdvanced": "Flanagin Town egy történelmi falu Trinidad központi részén, amely egykor fontos vasútállomással rendelkezett az észak-déli vonalon. A település a nevét egy gyarmati tisztviselőről kapta. Ma Flanagin Town egy csendes mezőgazdasági központ, ahol a kakaótermesztés és a zöldségtermelés a fő megélhetési forrás. A falu dombos vidéken fekszik, és híres a barátságos közösségéről. A régi vasúti emlékek még ma is felfedezhetők a környéken, emlékeztetve a falu egykori forgalmasabb napjaira. Földrajz K5 — dombvidéki mezőgazdaság és vasúttörténet.",
+      "factsAdvanced": [
+        "Nevét a 19. századi gyarmati tisztviselőről, Flanaginről kapta.",
+        "Fontos vasúti megállóhely volt a cukornád- és kakaókorszakban.",
+        "Trinidad központi dombvidékén (Central Range) található.",
+        "A mezőgazdaság ma is a legfontosabb gazdasági ágazat.",
+        "Híres a környező erdők gazdag vadvilágáról.",
+        "Csendes, hagyománytisztelő vidéki falu.",
+        "A településen keresztül vezet az út a sziget belseje felé.",
+        "Erős közösségi szellem és vallási élet jellemzi."
+      ]
+    },
+    {
+      "id": "tt-ecclesville-cities-v2",
+      "descriptionAdvanced": "Ecclesville egy csendes falu Trinidad délkeleti részén, Rio Claro közelében. A település gazdag mezőgazdasági hagyományokkal rendelkezik, és híres a termékeny földjéről, amely kiválóan alkalmas élelmiszernövények termesztésére. Ecclesville lakói büszkék a vidéki örökségükre és az összetartó közösségi életükre. A falu környéke sűrű erdőkkel és dombokkal tarkított, ami ideális környezetet biztosít a természetjáráshoz. A település nevét egy korábbi birtokos családról kapta, és megőrizte a 20. század eleji trinidadi vidék báját. Sachkunde K3 — mezőgazdasági falvak.",
+      "factsAdvanced": [
+        "Rio Claro közelében fekvő mezőgazdasági település.",
+        "Híres a jó minőségű termőföldjéről és a háztáji gazdaságokról.",
+        "A délkeleti régió egyik fontos élelmiszertermelő központja.",
+        "Csendes, elszigetelt fekvése megőrizte a falusi hangulatot.",
+        "Gazdag madárvilág és trópusi növényzet veszi körül.",
+        "A közösség aktívan részt vesz a helyi vallási fesztiválokon.",
+        "A falu építészete a hagyományos vidéki stílust tükrözi.",
+        "Népszerű célpont a vidéki nyugalomra vágyók körében."
+      ]
+    },
+    {
+      "id": "tt-brothers-road-cities-v2",
+      "descriptionAdvanced": "Brothers Road egy jellegzetes útmenti település Trinidad központi részén, a Rio Claro és Tabaquite közötti úton. A falu neve feltehetően a korai telepes testvérekre utal, akik itt kaptak földet. A település híres a mezőgazdaságáról, különösen a citrusfélék és zöldségek termesztéséről. Brothers Road fontos megállóhely az utazók számára, ahol friss vidéki terményeket és helyi ételeket vásárolhatnak. A falu dombos vidéken fekszik, és a tájat a kakaóültetvények és a trópusi erdők váltakozása határozza meg. Földrajz K5 — vidéki utak és települések.",
+      "factsAdvanced": [
+        "Fontos közlekedési pont a Rio Claro felé vezető úton.",
+        "Hagyományos mezőgazdasági közösség jellemzi.",
+        "Híres az út mentén árult friss gyümölcsökről és zöldségekről.",
+        "A település neve a korai birtokos testvérekről ered.",
+        "Dombvidéki terepén változatos növénytermesztés folyik.",
+        "Békés, barátságos falusi légkör fogadja az érkezőket.",
+        "A környék erdői kedveltek a természetjárók körében.",
+        "Erős helyi identitással és közösségi élettel bír."
+      ]
+    },
+    {
+      "id": "tt-hardbargain-cities-v2",
+      "descriptionAdvanced": "Hardbargain egy különleges nevű falu Trinidad déli részén, Princes Town közelében. A név eredete a szájhagyomány szerint a korai földvásárlások körüli nehéz alkudozásokra (hard bargain) utal. A település a cukornád-övezet szívében fekszik, és története szorosan kapcsolódik az egykori ültetvényekhez. Ma Hardbargain egy békés lakóövezet, ahol a lakók többsége mezőgazdasággal vagy a közeli városokban végzett munkával foglalkozik. A falu híres a vallási sokszínűségéről és a színes, gondozott kertjeiről. Történelem K6 — földosztás és névadás.",
+      "factsAdvanced": [
+        "A különleges név a nehéz földvásárlási alkukra utal.",
+        "Princes Town környékének egyik történelmi települése.",
+        "Egykor fontos cukornád-termesztő vidék volt.",
+        "Híres a színes és ápolt falusi kertjeiről.",
+        "Sokszínű vallási közösségek (hindu, muszlim, keresztény) élnek itt.",
+        "Dombos fekvése szép panorámát nyújt a síkságokra.",
+        "A falu megőrizte tradicionális trinidadi karakterét.",
+        "Fontos közösségi események és piaci napok jellemzik."
+      ]
+    },
+    {
+      "id": "tt-point-lisas-port-economic-v2",
+      "descriptionAdvanced": "A Point Lisas-i kikötő Trinidad és Tobago legfontosabb ipari és kereskedelmi kapuja a világ felé. Ez a modern mélyvízi kikötő kifejezetten a nehézipar, különösen a petrokémiai és acélipari termékek kiszolgálására épült. A kikötő tette lehetővé, hogy az ország globális szereplővé váljon a földgázalapú termékek exportjában. A terminálok éjjel-nappal üzemelnek, hatalmas tankhajókat és konténerszállítókat fogadva. A kikötő infrastruktúrája világszínvonalú, és közvetlen összeköttetést biztosít a Point Lisas-i ipari park gyáraival. Földrajz K8 — globális kereskedelem és ipari kikötők.",
+      "factsAdvanced": [
+        "A Karib-térség egyik legmodernebb ipari kikötője.",
+        "Mélyvízi termináljai alkalmasak a legnagyobb teherhajók fogadására.",
+        "Elsődleges kiviteli pontja a trinidadi metanolnak és ammóniának.",
+        "Korszerű konténerterminállal rendelkezik a kereskedelmi áruk számára.",
+        "Saját vontatóhajó-flotta és navigációs rendszer segíti a forgalmat.",
+        "A kikötő éves forgalma több millió tonna árut tesz ki.",
+        "Közvetlen vasúti és közúti kapcsolatokkal bír az ipari zónával.",
+        "Kulcsszerepet játszik az ország devizabevételeinek biztosításában."
+      ]
+    },
+    {
+      "id": "tt-port-of-spain-port-economic-v2",
+      "descriptionAdvanced": "Port of Spain kikötője Trinidad és Tobago legrégebbi és legforgalmasabb általános kereskedelmi kikötője, amely a főváros szívében található. Ez a kikötő az ország legfontosabb import-kapuja, itt érkezik be a fogyasztási cikkek, élelmiszerek és járművek döntő többsége. A kikötő története a spanyol időkig nyúlik vissza, de ma már modern konténerterminálokkal és raktárakkal rendelkezik. Itt található a nemzetközi személyhajó-terminál is, ahol a hatalmas tengerjáró üdülőhajók kötnek ki. A kikötő élete szorosan összefonódik a főváros vibráló gazdasági vérkeringésével. Földrajz K8 — nemzetközi szállítás és logisztika.",
+      "factsAdvanced": [
+        "Az ország első számú kereskedelmi és konténerkikötője.",
+        "Itt érkezik be Trinidad importtermékeinek legnagyobb része.",
+        "Fontos bázisa a Tobago és Trinidad közötti kompjáratoknak.",
+        "Nemzetközi luxus üdülőhajók (cruise ships) fogadására is alkalmas.",
+        "Történelmi jelentősége a gyarmati idők óta meghatározó.",
+        "Hatalmas raktárkapacitással és logisztikai központtal rendelkezik.",
+        "Közvetlen szomszédságban van a főváros üzleti negyedével.",
+        "Modern biztonsági és vámkezelési rendszereket alkalmaz."
+      ]
+    },
+    {
+      "id": "tt-la-brea-port-economic-v2",
+      "descriptionAdvanced": "A La Brea-i kikötő egy speciális ipari és energiaipari csomópont Trinidad délnyugati partján. Elsődleges feladata a környező kőolaj- és aszfaltmezők termelésének kiszolgálása, valamint az újabb tengeri fúróplatformok logisztikai támogatása. A kikötő mélyvízi mólói lehetővé teszik a nehéz berendezések és az aszfalt exportját. Az utóbbi években a kikötő jelentősége nőtt a tengeri olaj- és gázipar kiszolgáló bázisaként. La Brea kikötője a délnyugati régió gazdasági fejlődésének egyik kulcspontja. Földrajz K8 — energiaipari logisztika és aszfaltexport.",
+      "factsAdvanced": [
+        "A délnyugati régió legfontosabb ipari kikötője.",
+        "Hagyományosan az aszfalt (Pitch Lake) kiviteli pontja.",
+        "Modern logisztikai bázis a tengeri olajfúrótornyok számára.",
+        "Mélyvízi mólója alkalmas nehézgépek és platform-alkatrészek fogadására.",
+        "Szoros kapcsolatban áll a közeli ipari parkkal (La Brea Industrial Estate).",
+        "Fontos szerepe van a kőolajtermékek regionális elosztásában.",
+        "Korszerű javító- és karbantartó műhelyekkel rendelkezik.",
+        "Stratégiai pont a Paria-öböl déli részén."
+      ]
+    },
+    {
+      "id": "tt-tembladora-port-economic-v2",
+      "descriptionAdvanced": "Tembladora egy különleges célú kikötő Port of Spaintól nyugatra, Chaguaramas közelében. Ez a terminál elsősorban a bauxit és az alumínium-oxid átrakodására szakosodott, amelyet a környező országokból (pl. Guyana, Suriname) szállítanak ide nagyobb hajókra való áttöltés céljából. A kikötő hatalmas tárolósilói és futószalagrendszere messziről felismerhető a parton. Tembladora stratégiai elhelyezkedése a védett öbölben ideális a por alakú nyersanyagok biztonságos kezeléséhez. A kikötő évtizedek óta kulcsszerepet játszik a regionális bányászati logisztikában. Földrajz K8 — nyersanyag-átrakodás és ipari szállítás.",
+      "factsAdvanced": [
+        "Speciális kikötő a bauxit és alumínium-oxid kezelésére.",
+        "Hatalmas, messziről látható tárolósilókkal rendelkezik.",
+        "Fontos regionális logisztikai hub a dél-amerikai bányászat számára.",
+        "A védett Paria-öböl nyugati részén fekszik.",
+        "Sajátos, nagy teljesítményű futószalagos rakodórendszere van.",
+        "Éjjel-nappali üzemmódban szolgálja ki a teherhajókat.",
+        "Szoros kapcsolatban áll a nemzetközi alumíniumiparral.",
+        "A környező vizek mélysége ideális a nagy merülésű hajóknak."
+      ]
+    },
+    {
+      "id": "tt-savonetta-port-economic-v2",
+      "descriptionAdvanced": "A Savonetta-kikötő a Point Lisas-i ipari zóna szerves része, és kifejezetten a folyékony ipari termékek, például a metanol és az ammónia kezelésére szakosodott. A terminálok modern csővezeték-rendszereken keresztül kapcsolódnak a környező vegyi gyárakhoz, lehetővé téve a gyors és biztonságos hajórakodást. Savonetta a világ egyik legforgalmasabb vegyipari kikötője, ahol a legszigorúbb biztonsági előírások érvényesek. A kikötő működése elengedhetetlen Trinidad globális energiapiaci szerepvállalásához. Földrajz K8 — vegyipari logisztika és biztonság.",
+      "factsAdvanced": [
+        "A Point Lisas-i komplexum legfontosabb vegyipari terminálja.",
+        "Kifejezetten metanol, ammónia és karbamid exportjára épült.",
+        "Világszínvonalú automatizált rakodó- és csővezeték-rendszerrel bír.",
+        "A legmagasabb szintű ipari biztonsági minősítésekkel rendelkezik.",
+        "Közvetlen összeköttetésben áll a szomszédos petrokémiai gyárakkal.",
+        "A Paria-öböl középső részén, stratégiai helyen fekszik.",
+        "A kikötő éves forgalma kritikus az ország bevételei szempontjából.",
+        "Folyamatos technológiai fejlesztések jellemzik a hatékonyság növelése érdekében."
+      ]
+    },
+    {
+      "id": "tt-chaguaramas-port-economic-v2",
+      "descriptionAdvanced": "Chaguaramas kikötője Trinidad északnyugati félszigetén található, és az ország első számú jacht- és hajójavító központja. A védett öböl és a mély víz ideális feltételeket biztosít a vitorlások és motoros jachtok téli tárolására és karbantartására. Chaguaramas emellett fontos bázisa a tengeri olaj- és gázipari kiszolgálóhajóknak is. A területen számos modern marina, daru és műhely található, amelyek világszínvonalú szolgáltatásokat nyújtanak. A kikötő gazdasági jelentősége mellett a turizmusban is fontos szerepet játszik. Földrajz K8 — hajóépítés, javítás és tengeri turizmus.",
+      "factsAdvanced": [
+        "A Karib-térség egyik legfontosabb jacht- és hajójavító hubja.",
+        "Védett fekvése miatt népszerű menedék a hurrikánszezonban.",
+        "Számos modern marina és hajókiemelő daru üzemel a területen.",
+        "Fontos bázisa a tengeri olajkutatást támogató flottáknak.",
+        "A kikötő környékén virágzik a hajós turizmus és a szolgáltatások.",
+        "II. világháborús amerikai katonai bázis helyén alakult ki.",
+        "Kiváló szaktudással rendelkező hajóépítő és javító mesterek dolgoznak itt.",
+        "A kikötő kapuként szolgál a közeli Bocas-szigetek felé."
+      ]
+    },
+    {
+      "id": "tt-scaborough-port-economic-v2",
+      "descriptionAdvanced": "Scarborough kikötője Tobago legfontosabb gazdasági kapuja és adminisztratív központja. Ez a kikötő fogadja a Trinidad és Tobago közötti összes kompjáratot, amelyek alapvető fontosságúak a szigetek közötti utas- és áruforgalom számára. A kikötő modern mélyvízi mólója a nemzetközi üdülőhajók fogadására is alkalmas, így a turizmus egyik fő belépési pontja. Scarborough kikötője körül összpontosul a sziget kereskedelme, raktározása és vámügyintézése. A kikötő folyamatos fejlesztése elengedhetetlen Tobago gazdasági fejlődéséhez. Földrajz K8 — szigetek közötti logisztika és turizmus.",
+      "factsAdvanced": [
+        "Tobago legfontosabb tengeri kikötője és logisztikai központja.",
+        "A Trinidad-Tobago kompjáratok elsődleges terminálja.",
+        "Mélyvízi mólója alkalmas a legnagyobb üdülőhajók (cruise ships) fogadására.",
+        "Itt zajlik Tobago importcikkeinek döntő többségének vámkezelése.",
+        "Közvetlen szomszédságában van Scarborough belvárosa és piaca.",
+        "Modern utasváróval és logisztikai létesítményekkel rendelkezik.",
+        "A kikötő forgalma alapvetően meghatározza a sziget árellátását.",
+        "Fontos gazdasági motor és munkahelyteremtő a helyiek számára."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-port-economic-v2",
+      "descriptionAdvanced": "Guayaguayare kikötője Trinidad délkeleti csücskében az ország legrégebbi olajkikötője. Feladata ma elsősorban a keleti part menti hatalmas gáz- és olajmezők kiaknázásának logisztikai támogatása. A kikötő termináljai kiszolgálóhajókat, fúrótornyokat és platform-alkatrészeket fogadnak. Guayaguayare távoli fekvése ellenére a trinidadi energiaipar egyik legkritikusabb pontja. A kikötő infrastruktúrája folyamatosan modernizálódik, hogy megfeleljen a mélytengeri fúrások növekvő igényeinek. Földrajz K8 — energiaipari bázisok és távoli logisztika.",
+      "factsAdvanced": [
+        "Trinidad legrégebbi kőolaj-logisztikai kikötője.",
+        "A keleti part menti (East Coast) olaj- és gázplatformok fő kiszolgálója.",
+        "Termináljai kifejezetten a tengeri ipar igényeire lettek kialakítva.",
+        "Mélytengeri kutatások és fúrások fontos támogató bázisa.",
+        "A kikötő üzemeltetése szigorú környezetvédelmi felügyelet alatt áll.",
+        "Közvetlen összeköttetésben van az ország csővezeték-hálózatával.",
+        "Fontos munkaadó a délkeleti régió lakossága számára.",
+        "Stratégiai elhelyezkedése kulcsfontosságú az energiaellátás szempontjából."
+      ]
+    },
+    {
+      "id": "tt-point-fortin-port-economic-v2",
+      "descriptionAdvanced": "Point Fortin kikötője világszinten is jelentős az LNG (cseppfolyósított földgáz) exportja miatt. Itt található az Atlantic LNG hatalmas terminálja, ahol a földgázt lehűtik és speciális tankhajókra töltik, hogy elszállítsák a világ minden tájára. A kikötő története a kőolajjal kezdődött, de mára a gázipar vált a dominánssá. A terminálok és mólók technológiája a legmodernebbek közé tartozik. Point Fortin kikötője nélkülözhetetlen Trinidad globális energiapiaci pozíciójának fenntartásához. Földrajz K8 — földgázexport és speciális terminálok.",
+      "factsAdvanced": [
+        "Az Atlantic LNG termináljának és kiviteli pontjának otthona.",
+        "A világ egyik legfontosabb cseppfolyósított földgáz (LNG) kikötője.",
+        "Speciális mólói a hatalmas LNG-szállító tankhajókra lettek tervezve.",
+        "A sziget délnyugati részének legfontosabb ipari kapuja.",
+        "Korszerű biztonsági és tűzvédelmi rendszerekkel rendelkezik.",
+        "Történelmileg az ország egyik első kőolaj-exportáló kikötője volt.",
+        "Közvetlen kapcsolatban áll a földgáz-feldolgozó egységekkel.",
+        "Jelentős hatással van a globális energiapiaci árakra."
+      ]
+    },
+    {
+      "id": "tt-cedros-port-economic-v2",
+      "descriptionAdvanced": "Cedros kikötője egy fontos tengeri határátkelőhely és halászati központ Trinidad legnyugatibb csücskében. Bár ipari léptéke kisebb, mint a többi nagy kikötőé, gazdasági és biztonsági szerepe jelentős a Venezuelával való szomszédság miatt. Itt zajlik a szigetek közötti kishajós forgalom ellenőrzése, a vám- és bevándorlási ügyintézés. A kikötő mólói emellett a helyi kókusz- és halipar termékeinek szállítását is szolgálják. Cedros kikötője a délnyugati félsziget életvonalát jelenti. Földrajz K8 — határmenti logisztika és halászat.",
+      "factsAdvanced": [
+        "Fontos tengeri határátkelőhely Venezuela irányába.",
+        "Elsődleges bázisa a délnyugati régió halászflottájának.",
+        "Vám- és bevándorlási hivatallal rendelkezik a nemzetközi forgalomhoz.",
+        "A helyi kókusztermékek (olaj, kopra) hagyományos kiviteli pontja.",
+        "Fontos szerepet játszik a tengeri biztonság felügyeletében.",
+        "Kikötője a hagyományos fahajók és modern motorcsónakok keverékét fogadja.",
+        "Gazdaságilag meghatározó a Cedros-félsziget lakói számára.",
+        "A kikötő hangulata autentikus és vendégszerető."
+      ]
+    },
+    {
+      "id": "tt-petrotrin-industrial-v2",
+      "descriptionAdvanced": "A Petrotrin (korábban az állami olajtársaság) ipari létesítményei Trinidad kőolajiparának gerincét alkották évtizedeken át. A központ Pointe-à-Pierre-ben található, ahol a hatalmas olajfinomító és a hozzá tartozó tárolóparkok helyezkednek el. Bár a finomítási tevékenységet 2018-ban leállították, a terület ma is fontos logisztikai és üzemanyag-tároló központként üzemel Heritage Petroleum néven. Az ipari zóna mérete és komplexitása jól mutatja Trinidad kőolajipari múltjának nagyságát. Földrajz K8 — kőolajfinomítás és ipari örökség.",
+      "factsAdvanced": [
+        "A sziget legnagyobb és legfontosabb olajipari komplexuma.",
+        "Pointe-à-Pierre-ben található, közvetlenül a tengerparton.",
+        "Évtizedekig itt működött az ország egyetlen nagy olajfinomítója.",
+        "Hatalmas tárolótartály-parkkal (tank farm) rendelkezik.",
+        "Ma a Heritage Petroleum és Paria Fuel Trading logisztikai bázisa.",
+        "Saját kikötői terminálokkal és csővezeték-hálózattal bír.",
+        "Jelentős szerepet játszott az ország iparosításában.",
+        "A finomító kéményei messziről látható tájékozódási pontok."
+      ]
+    },
+    {
+      "id": "tt-tringen-industrial-v2",
+      "descriptionAdvanced": "A TRINGEN (Trinidad Nitrogen Company Limited) az ország egyik legfontosabb műtrágyagyártó vállalata, amely Point Lisas ipari parkjában üzemel. A cég ammónia előállítására szakosodott, amelyet a trinidadi földgázból állítanak elő. A TRINGEN üzemei a technológiai hatékonyság és a környezetvédelmi előírások tekintetében is élen járnak. A termelt ammóniát világszerte értékesítik a mezőgazdasági ipar számára. A vállalat sikere példa Trinidad földgázalapú iparának sikerességére. Földrajz K8 — vegyipar és földgáz-feldolgozás.",
+      "factsAdvanced": [
+        "Trinidad egyik vezető ammóniagyártó vállalata.",
+        "A Point Lisas-i ipari parkban található hatalmas gyártelepe.",
+        "A termeléshez alapanyagként helyi földgázt használnak.",
+        "A termékek döntő többségét nemzetközi piacokon értékesítik.",
+        "Modern és energiahatékony gyártási technológiákat alkalmaz.",
+        "Fontos szerepet játszik a globális műtrágyaellátásban.",
+        "A vállalat jelentős adóbevételt generál az állam számára.",
+        "Szigorú ipari biztonsági és minőségbiztosítási rendszereket működtet."
+      ]
+    },
+    {
+      "id": "tt-methanex-industrial-v2",
+      "descriptionAdvanced": "A Methanex Trinidad üzemei a világ legnagyobb metanolgyártó létesítményei közé tartoznak, szintén a Point Lisas-i ipari parkban. A kanadai székhelyű Methanex két hatalmas gyárat (Titan és Atlas) üzemeltet itt, amelyek a globális metanoligény jelentős részét fedezik. A metanolt számtalan iparágban használják, a műanyaggyártástól az üzemanyag-adalékokig. A Methanex jelenléte Trinidadon bizonyítja az ország vonzerejét a nagy nemzetközi befektetők számára az energiaiparban. Földrajz K8 — globális vegyipar és metanolgyártás.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb metanolgyártó komplexuma.",
+        "Két nagy üzemből (Titan és Atlas) áll Point Lisas-ban.",
+        "Trinidad a világ egyik vezető metanolexportőre az itt zajló termelésnek köszönhetően.",
+        "A gyárak a legkorszerűbb biztonsági és környezetvédelmi technológiát használják.",
+        "A termékeket speciális tankhajókon szállítják a világ minden tájára.",
+        "Jelentős munkaadó a magasan képzett mérnökök és technikusok számára.",
+        "A vállalat aktívan támogatja a helyi közösségi projekteket.",
+        "Folyamatosan fejleszti a gyártási folyamatokat a fenntarthatóság érdekében."
+      ]
+    },
+    {
+      "id": "tt-centrin-industrial-v2",
+      "descriptionAdvanced": "A CENTRIN (Central Trinidad Steel Limited) Trinidad és Tobago egyik legjelentősebb acélipari vállalata, amely az építőipar számára gyárt alapanyagokat. A Point Lisas-ban található üzem acélrudakat, huzalokat és egyéb szerkezeti elemeket állít elő, kiszolgálva a hazai és a regionális piacokat. Az acélipar fontos kiegészítője a trinidadi nehéziparnak, hiszen munkát és alapanyagot biztosít a gazdaság számára. A CENTRIN híres a termékeinek magas minőségéről és a rugalmas gyártási folyamatairól. Sachkunde K8 — acélgyártás és építőipar.",
+      "factsAdvanced": [
+        "Trinidad egyik vezető acélipari gyártója.",
+        "Point Lisas ipari övezetében található a központja.",
+        "Elsősorban az építőipar számára gyárt acéltermékeket.",
+        "Fontos szerepet játszik a karibi régió alapanyag-ellátásában.",
+        "Korszerű hengerművel és feldolgozó egységekkel rendelkezik.",
+        "Termékei megfelelnek a legszigorúbb nemzetközi szabványoknak.",
+        "A gyár jelentős számú helyi szakmunkást foglalkoztat.",
+        "Aktívan részt vesz az ország infrastruktúrális fejlesztéseiben."
+      ]
+    },
+    {
+      "id": "tt-nu-iron-industrial-v2",
+      "descriptionAdvanced": "A Nu-Iron egy modern vaskohászati üzem Point Lisas-ban, amely közvetlen redukcióval állít elő kiváló minőségű vasat (DRI). A gyár a földgázt használja fel a vasérc redukálásához, ami tisztább és hatékonyabb folyamat, mint a hagyományos szénnel történő kohászat. A Nu-Iron termékeit világszerte acélgyárak vásárolják meg alapanyagként. Az üzem technológiája a legmagasabb szintet képviseli az iparágban, és hozzájárul Trinidad ipari diverzifikációjához. Földrajz K8 — modern vaskohászat és technológia.",
+      "factsAdvanced": [
+        "Közvetlen redukált vasat (DRI) előállító modern üzem.",
+        "A gyártási folyamat során helyi földgázt alkalmaznak.",
+        "A világ egyik legtisztább és leghatékonyabb vaskohászati létesítménye.",
+        "A termékek döntő többségét nemzetközi exportra szánják.",
+        "A Nucor Corporation, az USA legnagyobb acélgyártójának leányvállalata.",
+        "Korszerű környezetvédelmi szűrőberendezésekkel rendelkezik.",
+        "Jelentős mértékben járul hozzá az ország ipari exportjához.",
+        "Saját speciális mólóval rendelkezik a Point Lisas-i kikötőben."
+      ]
+    },
+    {
+      "id": "tt-caroni-sugar-industrial-v2",
+      "descriptionAdvanced": "A Caroni (1975) Limited a trinidadi cukoripar állami óriása volt, amely évszázadokon át meghatározta az ország gazdaságát és társadalmát. A központja Brechin Castle-ben volt, ahol a hatalmas cukorgyár és a lepárló üzemelt. Bár a cukortermelést 2003-ban hivatalosan beszüntették, a Caroni név ma is él a helyiek emlékezetében és a tájban maradt rozsdásodó gyárakban. A cukoripar leépülése után a földeket diverzifikálták, de a Caroni történelmi és kulturális hatása, mint az ország egyik legnagyobb munkaadója, kitörölhetetlen. Történelem K8 — cukoripar és gazdasági átalakulás.",
+      "factsAdvanced": [
+        "Trinidad állami cukorvállalata volt évtizedeken keresztül.",
+        "Központja és fő gyára Brechin Castle-ben található.",
+        "Tízezreknek biztosított megélhetést a cukornádültetvényeken és gyárakban.",
+        "A trinidadi cukortermelés 2003-ban szűnt meg véglegesen.",
+        "A terület ma ipari parkoknak és új lakóövezeteknek ad helyet.",
+        "A gyár romjai ma ipari műemléknek számítanak.",
+        "Itt készítették az ország egyik leghíresebb rumalapanyagát is.",
+        "A vállalat megszűnése alapjaiban változtatta meg Közép-Trinidad életét."
+      ]
+    },
+    {
+      "id": "tt-trinidad-cement-industrial-v2",
+      "descriptionAdvanced": "A Trinidad Cement Limited (TCL) a sziget legnagyobb és a régió egyik vezető cementgyártója, amely Claxton Bay-ben üzemel. A gyár hatalmas kemencéi és tárolói meghatározzák a part menti tájképet. A TCL biztosítja az ország építőiparának szükséges cementmennyiséget, és jelentős mennyiséget exportál a többi karibi szigetre is. A gyártáshoz szükséges mészkövet és agyagot helyi bányákból nyerik, ami a vállalatot az egyik legfontosabb hazai nyersanyag-feldolgozóvá teszi. A TCL folyamatosan modernizálja üzemeit a fenntarthatóbb építőanyag-gyártás érdekében. Sachkunde K8 — építőanyag-gyártás és ipar.",
+      "factsAdvanced": [
+        "Trinidad és Tobago legfontosabb cementgyára.",
+        "Claxton Bay tengerpartján fekszik a hatalmas üzem.",
+        "A Karib-térség számos országába exportál építőanyagot.",
+        "Saját kikötői terminállal rendelkezik a késztermékek szállításához.",
+        "Helyi mészkőbányákat üzemeltet az alapanyag-ellátáshoz.",
+        "Fontos szerepet játszik a régió infrastruktúrális fejlődésében.",
+        "A gyár kéményei és silói messziről látható ipari szimbólumok.",
+        "Dinamikusan fejleszti a környezetbarátabb gyártási technológiákat."
+      ]
+    }
+  ]
+}

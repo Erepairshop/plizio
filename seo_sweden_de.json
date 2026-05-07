@@ -1,0 +1,172 @@
+{
+  "lang": "de",
+  "country": "sweden",
+  "files": ["lib/visualLab/data/swedenPoi.ts"],
+  "items": [
+    {
+      "id": "city-stockholm",
+      "descriptionAdvanced": "Stockholm, die Hauptstadt Schwedens, ist auf 14 Inseln erbaut, die durch über 50 Brücken verbunden sind. Bekannt als 'Venedig des Nordens', ist es eine Stadt mit beeindruckender Architektur, sauberem Wasser und zahlreichen Grünflächen. Die historische Altstadt Gamla Stan besticht durch Kopfsteinpflasterstraßen und bunte Gebäude, während die Stadt auch erstklassige Museen wie das Vasa-Museum und das ABBA-Museum beherbergt. Stockholm ist ein globales Zentrum für Technologie, Design und Mode. Geografie K8.",
+      "factsAdvanced": [
+        "Die Stockholmer U-Bahn erstreckt sich über 110 Kilometer und ist mit über 90 gestalteten Stationen die längste Kunstgalerie der Welt.",
+        "Stockholm verteilt sich auf 14 Inseln, die durch ein komplexes Netzwerk von 57 Brücken verbunden sind.",
+        "Der Stockholmer Königspalast verfügt über mehr als 600 Zimmer und ist einer der größten aktiven königlichen Paläste weltweit.",
+        "Das Vasa-Museum beherbergt das einzige nahezu intakte Schiff des 17. Jahrhunderts, das 1961 nach 333 Jahren Unterwasserzeit geborgen wurde.",
+        "Die Stadt ist für ihren hohen Anteil an öffentlichen Grünflächen bekannt, die etwa ein Drittel der gesamten Stadtfläche ausmachen."
+      ]
+    },
+    {
+      "id": "city-gothenburg",
+      "descriptionAdvanced": "Göteborg an der Westküste Schwedens ist die zweitgrößte Stadt des Landes und sein wichtigster Hafen. Sie ist bekannt für ihre freundliche Atmosphäre, ihre schönen Kanäle und ihre lebendige kulinarische Szene, insbesondere für frische Meeresfrüchte. Die Stadt beherbergt Liseberg, den größten Vergnügungspark Skandinaviens, und das Wissenschaftszentrum Universeum. Göteborg bietet eine Mischung aus städtischer Kultur und einfachem Zugang zum beeindruckenden südlichen Schärengarten. Geografie K7.",
+      "factsAdvanced": [
+        "Die Stadt Göteborg wurde im Jahr 1621 mit einem königlichen Freibrief gegründet, um als strategisch wichtiger Handelsposten zu fungieren.",
+        "Das Unternehmen Volvo wurde 1927 in Göteborg gegründet und hat dort noch immer einen seiner wichtigsten Hauptsitze.",
+        "Der Gothia Cup in Göteborg gilt als das größte Jugendfußballturnier der Welt und begrüßt jährlich zehntausende Spieler aus über 80 Nationen.",
+        "Liseberg ist der am meisten besuchte Vergnügungspark in Skandinavien und wurde 1923 eröffnet.",
+        "Das Göteborg Naturhistoriska Museum beherbergt eine der weltweit größten Wal-Ausstellungen."
+      ]
+    },
+    {
+      "id": "city-malmo",
+      "descriptionAdvanced": "Malmö ist die drittgrößte Stadt Schwedens und liegt in der südlichsten Provinz Schonen. Es ist eine vielfältige und multikulturelle Stadt, die durch die ikonische Öresundbrücke mit Kopenhagen verbunden ist. Malmö ist bekannt für seine innovative Architektur, wie den Wolkenkratzer Turning Torso, und sein Engagement für Nachhaltigkeit. Die Stadt bietet schöne Parks, ein lebendiges Uferviertel namens Västra Hamnen und ein reiches Kulturleben mit vielen Festivals und Veranstaltungen. Sachkunde K5.",
+      "factsAdvanced": [
+        "Die Öresundbrücke verbindet Schweden mit Dänemark und ist insgesamt 7,8 Kilometer lang.",
+        "Der Wolkenkratzer 'Turning Torso' ist 190 Meter hoch und weist eine Verdrehung von 90 Grad von der Basis bis zur Spitze auf.",
+        "Malmö wandelt sich durch das Projekt 'Västra Hamnen' von einer Industriegemeinde zu einem nachhaltigen, modernen Wohnviertel.",
+        "Mit Bewohnern aus über 170 Nationen gilt Malmö als eine der diversesten Städte Schwedens.",
+        "Das Malmöhus-Schloss ist die älteste erhaltene Renaissance-Festung Skandinaviens."
+      ]
+    },
+    {
+      "id": "city-uppsala",
+      "descriptionAdvanced": "Uppsala ist eine historische Stadt nördlich von Stockholm, berühmt für ihre renommierte Universität, die älteste in Skandinavien. Die Stadt wird vom prächtigen Dom zu Uppsala, der größten Kirche der nordischen Länder, und dem historischen Schloss Uppsala dominiert. Uppsala hat eine reiche akademische und religiöse Geschichte und ist nach wie vor ein lebendiges Zentrum für Bildung, Forschung und Kultur mit vielen Museen und botanischen Gärten. Geschichte K6.",
+      "factsAdvanced": [
+        "Die Universität Uppsala wurde bereits 1477 gegründet und ist damit die älteste Universität in den skandinavischen Ländern.",
+        "Carl von Linné, der Begründer der modernen Taxonomie, arbeitete in Uppsala; sein ehemaliger Wohnsitz ist heute ein botanisches Museum.",
+        "Der Dom zu Uppsala ist das höchste Kirchengebäude in den nordischen Ländern und beherbergt die Gräber vieler schwedischer Könige.",
+        "Die Universitätsbibliothek 'Carolina Rediviva' beherbergt den 'Codex Argenteus', eine berühmte gotische Silberbibel aus dem 6. Jahrhundert.",
+        "Die Walpurgisnacht am 30. April ist in Uppsala ein großes studentisches Fest mit Fackelzügen und traditionellen Gesängen."
+      ]
+    },
+    {
+      "id": "city-kiruna",
+      "descriptionAdvanced": "Kiruna ist die nördlichste Stadt Schwedens und liegt in der Provinz Lappland. Sie ist bekannt für das weltweit größte unterirdische Eisenerzbergwerk sowie für ihre Nähe zum Abisko-Nationalpark und zum Eishotel. Die Stadt wird derzeit im Rahmen eines massiven Umsiedlungsprojekts verlegt, um zu verhindern, dass sie vom expandierenden Bergwerk verschluckt wird. Erdkunde K8.",
+      "factsAdvanced": [
+        "Aufgrund des Bergbaus muss die gesamte Stadt Kiruna um etwa 3 Kilometer verlegt werden, ein weltweit beispielloses Bauvorhaben.",
+        "Die Erzgrube in Kiruna produziert jährlich Millionen Tonnen Eisenerz und ist essenziell für die europäische Stahlindustrie.",
+        "Die Kiruna-Kirche, ein Meisterwerk der Holzarchitektur, wurde beim Umzug der Stadt originalgetreu versetzt.",
+        "Kiruna liegt nördlich des Polarkreises, was spektakuläre Polarlichter im Winter und die Mitternachtssonne im Sommer ermöglicht.",
+        "Die Stadt ist der wichtigste Stützpunkt für die schwedische Raumfahrtforschung im Esrange Space Center."
+      ]
+    },
+    {
+      "id": "city-umea",
+      "descriptionAdvanced": "Umeå ist eine schnell wachsende Universitätsstadt am Umeälven in Nordschweden. Sie ist bekannt für ihre kreative Energie, ihre starken öffentlichen Dienste und den leichten Zugang zu Wäldern und Küste in Västerbotten. Die Stadt erhielt 2014 als Europäische Kulturhauptstadt internationale Aufmerksamkeit. Umeå verbindet modernes Stadtleben mit einer klaren nordschwedischen Identität. Sachkunde K7.",
+      "factsAdvanced": [
+        "Umeå trägt den Beinamen 'Stadt der Birken', da nach einem Stadtbrand im Jahr 1888 tausende Birken gepflanzt wurden, um Feuer zu verhindern.",
+        "Im Jahr 2014 wurde Umeå gemeinsam mit Riga zur Europäischen Kulturhauptstadt ernannt.",
+        "Die Universität Umeå ist ein bedeutendes Forschungszentrum und beherbergt eine der größten Medizinfakultäten des Landes.",
+        "Die Stadt ist bekannt für ihre lebendige Musik- und Kunstszene, die tief in der nordschwedischen Kultur verwurzelt ist.",
+        "Umeå ist ein wichtiges Zentrum für Filmproduktion im Norden und beheimatet ein jährliches Filmfestival."
+      ]
+    },
+    {
+      "id": "city-lund",
+      "descriptionAdvanced": "Lund ist eine der ältesten und intellektuellsten Städte Schwedens, geprägt von Dom und Universität. Sie liegt im südlichen Schonen und zieht das ganze Jahr über Studierende, Forscher und Besucher an. Das kompakte Zentrum lässt sich leicht zu Fuß erkunden und ist voller historischer Straßen, Cafés und fahrradfreundlicher Wege. Lund ist auch ein wichtiger Standort für Wirtschaft und Innovation in der größeren Öresund-Region. Geschichte K6.",
+      "factsAdvanced": [
+        "Die Universität Lund gehört regelmäßig zu den 100 besten Universitäten der Welt und ist ein zentraler Akteur in der Öresund-Region.",
+        "Der Dom von Lund wurde im 12. Jahrhundert errichtet und gilt als einer der wichtigsten Bauwerke der Romanik in Skandinavien.",
+        "Mit einem hohen Anteil an Studierenden an der Gesamtbevölkerung bietet Lund eine lebendige, junge Atmosphäre und eine sehr hohe Dichte an Cafés.",
+        "Lund ist ein Zentrum für High-Tech-Forschung, insbesondere in den Bereichen Biowissenschaften und Nanotechnologie.",
+        "Der Botanische Garten in Lund umfasst über 7.000 Arten und ist einer der ältesten und vielfältigsten in Schweden."
+      ]
+    },
+    {
+      "id": "city-linkoping",
+      "descriptionAdvanced": "Linköping ist eine wichtige Stadt in Ost-Zentralschweden und bekannt für Luftfahrt, Logistik und Technologie. Sie verbindet ein starkes Wirtschaftsprofil mit einer historischen Innenstadt und einer lebendigen Studentenatmosphäre. In der Stadt befinden sich das bekannte Schwedische Luftwaffenmuseum und der große Campus der Universität Linköping. Besucher nutzen Linköping als Tor nach Östergötland und in die klassische schwedische Landschaft. Erdkunde K7.",
+      "factsAdvanced": [
+        "Die Stadt ist das Zentrum des schwedischen Luftfahrt-Clusters, maßgeblich geprägt durch Unternehmen wie Saab, das hier Kampfflugzeuge entwickelt.",
+        "Das Schwedische Luftwaffenmuseum zeigt eine umfangreiche Sammlung von Flugzeugen aus verschiedenen Epochen der schwedischen Geschichte.",
+        "Die Universität Linköping wurde 1975 gegründet und ist heute eng mit der lokalen High-Tech-Industrie verzahnt.",
+        "Der Dom zu Linköping ist eine der am besten erhaltenen mittelalterlichen Kathedralen Schwedens und markantes Wahrzeichen der Stadt.",
+        "Linköping ist für seine Fahrradfreundlichkeit bekannt, mit einem der besten Radwegenetze in Schweden."
+      ]
+    },
+    {
+      "id": "city-vasteras",
+      "descriptionAdvanced": "Västerås ist eine historische Stadt am Mälarensee mit einer starken industriellen Basis und moderner Uferidentität. Sie wuchs durch Handel, Schifffahrt und später durch fortschrittlichen Maschinenbau, was die lokale Wirtschaft bis heute prägt. Die Stadt ist von Stockholm aus leicht erreichbar und eignet sich gut als regionales Zentrum für Geschäfts- und Familienreisen. Västerås bietet außerdem Erholung am See, alte Kirchen und eine kompakte Innenstadt. Erdkunde K7.",
+      "factsAdvanced": [
+        "Die Wurzeln von Västerås reichen bis in die Wikingerzeit zurück, was es zu einer der historisch bedeutendsten Städte Schwedens macht.",
+        "Västerås gilt als 'Mälaren-Stadt' und nutzt den See als zentralen Erholungs- und Wirtschaftsfaktor.",
+        "Der Dom von Västerås stammt aus dem 13. Jahrhundert und ist ein herausragendes Beispiel mittelalterlicher Kirchenbaukunst.",
+        "Das Kokpunkten Actionbad in Västerås ist ein innovatives Erlebnisbad, das in einem ehemaligen Kraftwerksgebäude untergebracht ist.",
+        "Västerås ist ein wichtiger Standort für erneuerbare Energietechnologien und intelligente Energienetze."
+      ]
+    },
+    {
+      "id": "city-orebro",
+      "descriptionAdvanced": "Örebro ist eine zentral schwedische Stadt, die von einer Burg, einer großen Universität und einer lebendigen Dienstleistungswirtschaft geprägt ist. Ihre Lage macht sie zu einem wichtigen Knotenpunkt für Bahn- und Straßenreisen im ganzen Land. Das Stadtzentrum ist fußläufig und verbindet Einkauf, Restaurants und Flusslandschaft. Örebro ist außerdem für die Mischung aus Geschichte, Bildung und praktischen Regionalfunktionen bekannt. Sachkunde K5.",
+      "factsAdvanced": [
+        "Das Schloss Örebro wurde im 14. Jahrhundert als Verteidigungsfestung erbaut und diente später als königliche Residenz.",
+        "Örebro beherbergt eine Universität mit rund 15.000 Studierenden, die ein wichtiger Motor für Innovation in der Region ist.",
+        "Der Fluss Svartån durchquert das Stadtzentrum und bietet einen pittoresken Anblick, besonders im Sommer.",
+        "Das Open-Air-Museum Wadköping zeigt historische Gebäude aus der Stadtgeschichte und bewahrt so das kulturelle Erbe von Örebro.",
+        "Örebro ist ein bedeutendes Zentrum für die schwedische Lebensmittelindustrie und Logistik."
+      ]
+    },
+    {
+      "id": "city-halmstad",
+      "descriptionAdvanced": "Halmstad ist eine Küstenstadt an der schwedischen Westküste mit langer Geschichte im Handel und im Seetourismus. Sie ist besonders im Sommer beliebt dank Stränden, Golf und entspannter Hafenatmosphäre. Die Stadt dient außerdem als regionales Zentrum für Verwaltung, Einzelhandel und Verkehr in Halland. Halmstad verbindet Altstadtcharakter mit einem starken modernen Urlaubsgefühl. Geografie K6.",
+      "factsAdvanced": [
+        "Der Stadtstrand Tylösand gilt als einer der schönsten Sandstrände in ganz Schweden und ist ein beliebtes Ziel für Touristen.",
+        "Halmstad ist bekannt für seine hohe Dichte an exzellenten Golfplätzen, die Besucher aus ganz Europa anziehen.",
+        "Die historische Altstadt hat Teile ihrer Befestigungsanlagen bewahrt und verleiht Halmstad einen ganz besonderen, altmodischen Charme.",
+        "Das Halland-Kunstmuseum zeigt umfangreiche Sammlungen zur regionalen Geschichte und Kunst.",
+        "Halmstad ist für seine lebendige Live-Musik-Szene bekannt, die in den Sommermonaten durch zahlreiche Konzerte am Strand geprägt ist."
+      ]
+    },
+    {
+      "id": "city-sundsvall",
+      "descriptionAdvanced": "Sundsvall ist eine nördliche Küstenstadt, die für ihre Steinarchitektur und ihr industrielles Erbe bekannt ist. Nach dem Großbrand von 1888 wurde sie in einem monumentalen Stil neu aufgebaut, der das Stadtzentrum bis heute prägt. Heute ist sie eine Mischung aus Regionalverwaltung, Bildung, digitalen Diensten und altem Industriecharakter. Sundsvall ist auch ein praktischer Halt für Reisende zwischen Mittel- und Nordschweden. Geschichte K7.",
+      "factsAdvanced": [
+        "Nach dem verheerenden Brand von 1888 wurde das Stadtzentrum massiv aus Stein gebaut, was dem Beinamen 'Stenstaden' (Steinstadt) seinen Ursprung gab.",
+        "Die Architektur von Sundsvall gilt als eines der schönsten Beispiele für städtische Planung im späten 19. Jahrhundert.",
+        "Durch seine Lage am Bottnischen Meerbusen war Sundsvall ein Zentrum der schwedischen Forstindustrie und des Holzexports.",
+        "Der Södra Berget bietet einen beeindruckenden Panoramablick über die Stadt und ist ein beliebtes Ziel für Outdoor-Aktivitäten zu jeder Jahreszeit.",
+        "Sundsvall ist heute ein wachsendes Zentrum für IT-Dienstleistungen und digitale Medien."
+      ]
+    },
+    {
+      "id": "city-lulea",
+      "descriptionAdvanced": "Luleå ist die Hauptstadt von Schwedisch-Lappland am Bottnischen Meerbusen. Sie verbindet Hafenaktivität im Norden, arktisches Klima und wachsende technische Infrastruktur in kompakter urbaner Form. Die Stadt ist berühmt für ihre UNESCO-geschützte Kirchenstadt, ihre Universitätspraxis und ihre Rolle in der regionalen Wirtschaft. Luleå ist ein starker Ausgangspunkt für Wintertourismus, Küstenreisen und Nordindustrie. Erdkunde K8.",
+      "factsAdvanced": [
+        "Gammelstad ist die am besten erhaltene Kirchenstadt Schwedens und zeigt, wie Menschen aus der Umgebung früher reisten, um Gottesdienste zu besuchen.",
+        "Luleå hat sich zu einem Zentrum für digitale Infrastruktur und grüne Technologie entwickelt, insbesondere durch die Nähe zu kostengünstigen und nachhaltigen Energiequellen.",
+        "Der Hafen von Luleå ist essenziell für den Export von Eisenerz aus den nahegelegenen Minen.",
+        "Die Schären vor Luleå bestehen aus über 1.300 Inseln, die im Winter oft über Eisstraßen erreichbar sind.",
+        "Luleå ist bekannt für seine starke Forschung im Bereich der Technik und Materialwissenschaften."
+      ]
+    },
+    {
+      "id": "city-karlstad",
+      "descriptionAdvanced": "Karlstad liegt dort, wo der Klarälven in den Vänernsee mündet, und ist eine der angenehmsten Regionalstädte Westschwedens. Sie ist bekannt für ihre hellen Wasserwege, ihr ruhiges Tempo und ihre starke Rolle in Verwaltung und Handel. Die Stadt hat den Ruf von viel Sonne, offenen Plätzen und einfachem Zugang zur Binnenlandschaft. Karlstad eignet sich gut als Reisebasis für Värmland und das Seenland. Sachkunde K5.",
+      "factsAdvanced": [
+        "Karlstad wird aufgrund einer populären Kellnerin namens 'Sola i Karlstad' (Die Sonne in Karlstad) oft als besonders sonnige Stadt bezeichnet.",
+        "Durch die Lage im Mündungsdelta des Klarälven ist Karlstad ein Paradies für Wassersportler und Naturliebhaber.",
+        "Als Sitz der Universität Karlstad ist die Stadt ein bedeutender Bildungsknotenpunkt in Mittelschweden.",
+        "Das Värmland-Museum in Karlstad bietet exzellente Einblicke in die Kunst und kulturelle Geschichte der Region.",
+        "Karlstad ist ein wichtiger Knotenpunkt für den Schienenverkehr in der westlichen Region des Vänernsees."
+      ]
+    },
+    {
+      "id": "city-jonkoping",
+      "descriptionAdvanced": "Jönköping ist eine strategisch gelegene Binnenstadt am südlichen Ufer des Vätternsees. Sie entwickelte sich zu einem Handels-, Produktions- und Verkehrszentrum und spielt bis heute eine starke regionale Rolle. Die Stadt ist bekannt für Messen, Logistik und gute Verbindungen zum Rest Südschwedens. Jönköping bietet Besuchern außerdem eine gute Mischung aus Seeblick, Stadtdiensten und naher Landschaft. Erdkunde K7.",
+      "factsAdvanced": [
+        "Jönköping war früher weltweit als 'Zündholz-Hauptstadt' bekannt, da das Unternehmen 'Svenska Tändsticks AB' dort seinen Sitz hatte.",
+        "Die Stadt ist ein bedeutender Knotenpunkt für den Güterverkehr in Schweden, da sich hier wichtige Autobahnrouten kreuzen.",
+        "Der Vätternsee sorgt für ein mildes Klima und bietet eine wunderschöne Kulisse für die gesamte Stadt.",
+        "Das Tändsticksmuseet in Jönköping ist eines der wenigen Museen weltweit, das sich der Geschichte der Zündholzherstellung widmet.",
+        "Die Jönköping University ist bekannt für ihre starke Ausrichtung auf unternehmerische Studiengänge."
+      ]
+    }
+  ]
+}

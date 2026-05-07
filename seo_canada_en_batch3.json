@@ -1,0 +1,249 @@
+{
+  "lang": "en",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "guelph-cities-v2",
+      "descriptionAdvanced": "Guelph is a prominent city in southwestern Ontario, known for its limestone architecture and as home to the University of Guelph. The city maintains a strong focus on agricultural research and environmental sustainability, reflecting its historical roots as a planned community set within a rich natural landscape. Geography K7 — university towns.",
+      "factsAdvanced": [
+        "Home to the University of Guelph, specializing in agricultural science.",
+        "Renowned for its historic limestone architecture.",
+        "Planned city established in the 19th century.",
+        "Strong focus on environmental sustainability initiatives.",
+        "Situated within a fertile agricultural region of southern Ontario.",
+        "Known for a vibrant, creative local community."
+      ]
+    },
+    {
+      "id": "kingston-cities-v2",
+      "descriptionAdvanced": "Kingston is a historic city situated at the confluence of the Saint Lawrence River, Lake Ontario, and the Rideau Canal, a UNESCO World Heritage site. Often called the 'Limestone City', it boasts a rich military and colonial heritage, including its former role as the first capital of the Province of Canada. Geography K7 — historical significance.",
+      "factsAdvanced": [
+        "Known as the 'Limestone City' for its numerous 19th-century buildings.",
+        "Served as the first capital of the Province of Canada (1841-1844).",
+        "Home to the Royal Military College of Canada.",
+        "Gateway to the Thousand Islands region.",
+        "Situated at the mouth of the Rideau Canal.",
+        "Rich naval and military historical background."
+      ]
+    },
+    {
+      "id": "kamloops-cities-v2",
+      "descriptionAdvanced": "Kamloops is a major city in British Columbia's Interior, situated at the confluence of the North and South Thompson rivers. Its landscape is characterized by semi-arid hills and wide valleys, making it a hub for outdoor adventure, transportation, and regional services in the Thompson-Nicola region. Geography K7 — semi-arid landscapes.",
+      "factsAdvanced": [
+        "Located at the confluence of the North and South Thompson rivers.",
+        "Serves as a regional transportation and business hub.",
+        "Features a distinctive semi-arid, mountainous landscape.",
+        "Renowned for extensive outdoor adventure opportunities.",
+        "Home to Thompson Rivers University.",
+        "Major junction for highways and rail lines in British Columbia."
+      ]
+    },
+    {
+      "id": "nanaimo-cities-v2",
+      "descriptionAdvanced": "Nanaimo, located on the east coast of Vancouver Island, is a coastal city famously known for the Nanaimo bar, a popular Canadian dessert. It serves as a major gateway to the island, supported by ferry and air connections, and is recognized for its harbor-front activities and marine culture. Geography K7 — coastal cities.",
+      "factsAdvanced": [
+        "Known internationally for the famous 'Nanaimo bar' dessert.",
+        "Major harbor city on the east coast of Vancouver Island.",
+        "Key gateway for ferry and air travel to the island.",
+        "Harbor-front features significant marine and recreational activity.",
+        "Once a coal-mining hub in the 19th century.",
+        "Excellent access to Gulf Islands for marine tourism."
+      ]
+    },
+    {
+      "id": "prince-george-cities-v2",
+      "descriptionAdvanced": "Prince George is the principal city of northern British Columbia, positioned at the confluence of the Fraser and Nechako rivers. It acts as a primary hub for commerce, industry, and transportation in the north, serving the vast forest and resource-rich lands of the province's interior. Geography K7 — regional hubs.",
+      "factsAdvanced": [
+        "Largest city in northern British Columbia.",
+        "Confluence of the Fraser and Nechako rivers.",
+        "Major hub for the forestry and resource-based industries.",
+        "Primary service and commercial center for northern BC.",
+        "Home to the University of Northern British Columbia (UNBC).",
+        "Key railway and highway hub for the province's interior."
+      ]
+    },
+    {
+      "id": "chilliwack-cities-v2",
+      "descriptionAdvanced": "Chilliwack is located in the eastern part of the Fraser Valley, characterized by its stunning mountain backdrop and rich agricultural lands. It has evolved from an agrarian center into a popular community for those seeking both outdoor access and an accessible suburban lifestyle within the regional sphere of Metro Vancouver. Geography K7 — mountain regions.",
+      "factsAdvanced": [
+        "Situated in the eastern Fraser Valley.",
+        "Surrounded by the Cascade and Coast mountains.",
+        "Rich heritage as a center for dairy and agricultural production.",
+        "Excellent access to hiking, fishing, and outdoor recreation.",
+        "Growing community within the Fraser Valley Regional District.",
+        "Features the scenic Chilliwack River."
+      ]
+    },
+    {
+      "id": "abbotsford-cities-v2",
+      "descriptionAdvanced": "Abbotsford is the largest city in the Fraser Valley and a significant agricultural and industrial center. Known for its strong presence in aviation, as host to a major airshow, it serves as a dynamic regional hub with an expansive agricultural base and diverse community life. Geography K7 — agricultural industry.",
+      "factsAdvanced": [
+        "Largest city in the Fraser Valley region.",
+        "Major center for agricultural and berry production.",
+        "Hosts the annual Abbotsford International Airshow.",
+        "Significant presence in the aerospace and aviation sectors.",
+        "Strategically located near the US border.",
+        "Diverse community serving as a hub for commercial activity."
+      ]
+    },
+    {
+      "id": "thunder-bay-cities-v2",
+      "descriptionAdvanced": "Thunder Bay, situated on the shores of Lake Superior, is the principal city of northwestern Ontario. It serves as a vital shipping and transportation point, linking the Great Lakes to the rest of Canada via its major grain elevator complexes and transportation networks. Geography K7 — port cities.",
+      "factsAdvanced": [
+        "Located on the north shore of Lake Superior.",
+        "Major shipping hub for grain, coal, and bulk resources.",
+        "Features the Sleeping Giant, a iconic geological formation.",
+        "Economic heart of northwestern Ontario.",
+        "Home to Lakehead University.",
+        "Crucial transport connection for Canada's Great Lakes trade."
+      ]
+    },
+    {
+      "id": "sudbury-cities-v2",
+      "descriptionAdvanced": "Sudbury is the largest city in northern Ontario and a world-renowned center for nickel mining. Its distinctive landscape, once dramatically altered by industry, has undergone significant environmental regeneration, now hosting major scientific and educational institutions like Science North. Geography K7 — environmental restoration.",
+      "factsAdvanced": [
+        "Largest city in northern Ontario by area and population.",
+        "World-renowned center for nickel mining and metallurgy.",
+        "Major environmental restoration success story.",
+        "Home to the Science North museum and planetarium.",
+        "Significant hub for Laurentian University.",
+        "Characterized by a unique geography of lakes and rocky terrain."
+      ]
+    },
+    {
+      "id": "brantford-cities-v2",
+      "descriptionAdvanced": "Brantford, known as the 'Telephone City', is the birthplace of the telephone, invented by Alexander Graham Bell. Situated along the Grand River in southern Ontario, it has a rich history as an industrial and cultural center, contributing significantly to Canada's technological and telecommunications evolution. Geography K7 — historical landmarks.",
+      "factsAdvanced": [
+        "Known as the 'Telephone City'.",
+        "Birthplace of the telephone, invented by Alexander Graham Bell.",
+        "Located along the banks of the Grand River.",
+        "Strong history of industrial manufacturing.",
+        "Features the Bell Homestead National Historic Site.",
+        "Active community in southern Ontario's industrial corridor."
+      ]
+    },
+    {
+      "id": "peterborough-cities-v2",
+      "descriptionAdvanced": "Peterborough is a city in the Kawarthas region, famous for its association with the Trent-Severn Waterway and the world-renowned Peterborough Lift Lock. It is a hub for higher education and culture, serving the picturesque lakes region of Ontario with a focus on outdoor leisure and local commerce. Geography K7 — water management infrastructure.",
+      "factsAdvanced": [
+        "Famous for the Peterborough Lift Lock, the highest in the world.",
+        "Situated on the historic Trent-Severn Waterway.",
+        "Regional hub for the Kawarthas lakes area.",
+        "Home to Trent University and Fleming College.",
+        "Vibrant center for cultural and outdoor activity.",
+        "Economy focused on services, manufacturing, and tourism."
+      ]
+    },
+    {
+      "id": "sarnia-cities-v2",
+      "descriptionAdvanced": "Sarnia, located at the mouth of the Saint Clair River, is a major industrial hub in southwestern Ontario. Known for its 'Chemical Valley', it is a cornerstone of Canada's petrochemical industry, with a strategic position as an international border crossing to Port Huron, Michigan. Geography K7 — industrial geography.",
+      "factsAdvanced": [
+        "Situated at the mouth of the Saint Clair River on Lake Huron.",
+        "Key center for the Canadian petrochemical industry.",
+        "Known as the hub of 'Chemical Valley'.",
+        "Strategic international crossing point via the Blue Water Bridge.",
+        "Features extensive waterfront parks on Lake Huron.",
+        "Significant manufacturing and maritime hub."
+      ]
+    },
+    {
+      "id": "niagara-falls-city-cities-v2",
+      "descriptionAdvanced": "Niagara Falls is one of the world's most famous tourist destinations, centered around the stunning Niagara Falls themselves on the Niagara River. The city attracts millions of visitors annually to witness the natural spectacle, sustaining a massive hospitality, tourism, and entertainment economy. Geography K7 — natural wonders.",
+      "factsAdvanced": [
+        "Home to the world-famous Niagara Falls natural wonder.",
+        "One of Canada's most popular tourism and entertainment destinations.",
+        "Significant source of hydroelectric power generation.",
+        "Hospitality and gaming form the core of the local economy.",
+        "Connected to the US via the Rainbow Bridge.",
+        "Attracts millions of visitors from across the globe each year."
+      ]
+    },
+    {
+      "id": "st-catharines-cities-v2",
+      "descriptionAdvanced": "St. Catharines is the largest city in the Niagara Region, famously nicknamed 'The Garden City' due to its extensive trail network, parks, and lush fruit-growing landscapes. It is a critical hub for the regional economy, linking the Niagara Peninsula to the Greater Toronto Area via the Welland Canal. Geography K7 — garden cities.",
+      "factsAdvanced": [
+        "Nicknamed 'The Garden City' for its parkland and trails.",
+        "Largest city in the Niagara Region.",
+        "Strategically located along the Welland Canal.",
+        "Center for fruit and viticulture production.",
+        "Vibrant hub for regional commerce and services.",
+        "Host to major regional events and festivals."
+      ]
+    },
+    {
+      "id": "chatham-kent-cities-v2",
+      "descriptionAdvanced": "Chatham-Kent is a large municipality in southwestern Ontario, characterized by its expansive agricultural lands and history as a focal point for North American trade. Positioned between Lake Erie and Lake St. Clair, the region is highly productive for farming and has a rich heritage in early Black Canadian history. Geography K7 — agricultural production.",
+      "factsAdvanced": [
+        "Expansive municipality in southwestern Ontario.",
+        "Rich, productive agricultural land between two major lakes.",
+        "Historically important for early Black Canadian settlements.",
+        "Economy primarily driven by agriculture and automotive parts.",
+        "Centrally located in the Ontario agricultural corridor.",
+        "Includes multiple small communities within one municipality."
+      ]
+    },
+    {
+      "id": "new-westminster-cities-v2",
+      "descriptionAdvanced": "New Westminster is the former capital of the Colony of British Columbia, located on the banks of the Fraser River in the Metro Vancouver region. It retains a distinct historic charm, with a legacy as one of the oldest cities in the west, balancing its past with modern residential developments. Geography K7 — historic capitals.",
+      "factsAdvanced": [
+        "Former capital of the Colony of British Columbia.",
+        "One of the oldest cities in Western Canada.",
+        "Strategically located along the Fraser River.",
+        "Features historic architecture in its downtown core.",
+        "Transit-oriented community within the Metro Vancouver region.",
+        "Significant heritage as a bustling port and commercial city."
+      ]
+    },
+    {
+      "id": "port-coquitlam-cities-v2",
+      "descriptionAdvanced": "Port Coquitlam is a growing community at the confluence of the Pitt and Fraser rivers in the Metro Vancouver area. Known for its expansive trail network and emphasis on outdoor living, it maintains a small-town feel while benefitting from its proximity to regional urban centers. Geography K7 — riverside communities.",
+      "factsAdvanced": [
+        "Situated at the confluence of the Pitt and Fraser rivers.",
+        "Extensive network of riverside trails and parks.",
+        "Suburban residential community in Metro Vancouver.",
+        "Strong emphasis on outdoor recreational living.",
+        "Historic rail center dating back to the late 19th century.",
+        "Growing rapidly as a regional commercial hub."
+      ]
+    },
+    {
+      "id": "langley-cities-v2",
+      "descriptionAdvanced": "Langley, encompassing both the City of Langley and the Township of Langley, is a rapidly urbanizing area of the Fraser Valley. It serves as a regional hub for commerce, equestrian activities, and agriculture, blending traditional rural roots with modern suburban development and density. Geography K7 — suburban expansion.",
+      "factsAdvanced": [
+        "Rapidly growing urbanized region in the Fraser Valley.",
+        "Known for its strong agricultural and equestrian sectors.",
+        "Regional hub for commerce and retail in the valley.",
+        "Blends suburban development with historic rural areas.",
+        "Strategically located near major transit corridors.",
+        "Significant population growth due to regional demand."
+      ]
+    },
+    {
+      "id": "white-rock-cities-v2",
+      "descriptionAdvanced": "White Rock is a picturesque seaside community south of Surrey, famous for its long sandy beach, historic pier, and unique geological white rock landmark. Its stunning ocean views and relaxed atmosphere have made it a preferred residential area and an attractive destination for visitors in the Lower Mainland. Geography K7 — seaside communities.",
+      "factsAdvanced": [
+        "Renowned for its long, scenic sandy beach and pier.",
+        "Named after a distinct, large white boulder landmark.",
+        "Popular seaside destination in the Lower Mainland.",
+        "Characterized by hillside views of Semiahmoo Bay.",
+        "Compact residential community with high visitor appeal.",
+        "Established as a relaxed, scenic retreat near Vancouver."
+      ]
+    },
+    {
+      "id": "terrebonne-cities-v2",
+      "descriptionAdvanced": "Terrebonne is a rapidly growing suburb on the north shore of Montreal, in Quebec. Positioned along the Mille Îles River, it has evolved into a prominent residential community with a mix of historical charm, extensive parklands, and modern urban infrastructure supporting its expanding population. Geography K7 — suburban growth.",
+      "factsAdvanced": [
+        "Significant suburban community on the North Shore of Montreal.",
+        "Positioned along the Mille Îles River.",
+        "Features a well-preserved historic downtown area.",
+        "Rapidly expanding residential and retail infrastructure.",
+        "Economy based on local services, manufacturing, and commerce.",
+        "Extensive parks and riverfront recreational spaces."
+      ]
+    }
+  ]
+}

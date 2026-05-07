@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "salt-house-ruins-crooked-island-history-v2",
+      "descriptionAdvanced": "Die Salt House Ruins auf Crooked Island sind eindrucksvolle Zeugen der einst florierenden Salzindustrie der Bahamas im 19. Jahrhundert. Dieses massive Steingebäude diente als zentrales Lagerhaus für das 'weiße Gold', das in den nahegelegenen Salinen gewonnen wurde, bevor es auf Schiffe verladen wurde. Die Architektur mit ihren dicken Kalksteinmauern war darauf ausgelegt, das wertvolle Gut vor Feuchtigkeit und Stürmen zu schützen. Heute stehen die Ruinen als würdevolle Monumente in der einsamen Landschaft von Crooked Island und erzählen von einer Zeit harter körperlicher Arbeit und globalem Handel. Sie sind ein wichtiger Bestandteil des industriellen Erbes der südlichen Bahamas und bieten Fotografen sowie Geschichtsinteressierten ein faszinierendes Motiv inmitten unberührter Natur.",
+      "factsAdvanced": [
+        "Ehemaliges zentrales Salzlagerhaus von Crooked Island",
+        "Wichtiges Denkmal der bahamaischen Wirtschaftsgeschichte",
+        "Erbaut aus massivem lokalem Kalkstein (19. Jh.)",
+        "Zentrum der lokalen Salzpfannen-Logistik",
+        "Zeugnis der loyalistischen Industrietradition",
+        "Malerische Ruine in Küstennähe"
+      ]
+    },
+    {
+      "id": "queens-staircase-nassau-landmarks-v2",
+      "descriptionAdvanced": "Die Queen's Staircase, oft einfach 'The 66 Steps' genannt, ist eines der beeindruckendsten und meistbesuchten Wahrzeichen von Nassau. Zwischen 1793 und 1794 wurde diese monumentale Treppe von hunderten versklavten Menschen direkt aus dem massiven Kalkstein gehauen. Sie diente als direkter Fluchtweg vom Fort Fincastle hinunter zur Stadt. Der Name ehrt Königin Victoria, die während ihrer 64-jährigen Regierungszeit die Sklaverei auf den Bahamas abschaffte. Die Stufen liegen in einer kühlen, schattigen Schlucht, die von üppiger tropischer Vegetation und Moos bewachsen ist, was dem Ort eine fast spirituelle Atmosphäre verleiht. Die handgemeißelten Wände zeigen noch heute die Spuren der Werkzeuge und erinnern an die immense körperliche Anstrengung ihrer Erbauer.",
+      "factsAdvanced": [
+        "In nur zwei Jahren (1793-1794) von Hand erbaut",
+        "Direkt aus massivem Kalkstein gemeißelt",
+        "Benannt zu Ehren von Königin Victoria",
+        "Besteht ursprünglich aus 66 Stufen (65 heute sichtbar)",
+        "Kühle Schlucht mit üppiger tropischer Flora",
+        "Wichtiger historischer Fluchtweg für Fort Fincastle"
+      ]
+    },
+    {
+      "id": "christ-church-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die Christ Church Cathedral in Nassau ist die 'Mutterkirche' der anglikanischen Diözese der Bahamas und der Turks- und Caicosinseln. Das heutige Gebäude, das vierte an dieser Stelle, wurde im Jahr 1841 fertiggestellt und ist ein herausragendes Beispiel für koloniale Kirchenarchitektur. Mit ihren prächtigen Buntglasfenstern, dem polierten Mahagoni-Interieur und der majestätischen Orgel strahlt die Kathedrale eine tiefe Ruhe und Würde aus. Die Kirche spielt eine zentrale Rolle im zeremoniellen Leben der Bahamas und ist oft Schauplatz staatlicher Gottesdienste. Ihre Lage im historischen Zentrum Nassaus macht sie zu einem wichtigen kulturellen Orientierungspunkt. Der umliegende Kirchgarten beherbergt Denkmäler, die bis in die Gründungszeit der Kolonie zurückreichen.",
+      "factsAdvanced": [
+        "Sitz des anglikanischen Bischofs der Bahamas",
+        "Viertes Kirchengebäude an diesem historischen Standort",
+        "Erbaut im neogotischen Kolonialstil (1841)",
+        "Berühmt für herausragende Buntglasfenster",
+        "Besitzt eine der größten Kirchenorgeln der Karibik",
+        "Zentrum für staatliche und religiöse Zeremonien"
+      ]
+    },
+    {
+      "id": "rawson-square-nassau-landmarks-v2",
+      "descriptionAdvanced": "Rawson Square ist der lebendige Mittelpunkt von Downtown Nassau und dient als Willkommensplatz für Millionen von Kreuzfahrtpassagieren. Benannt nach Sir Rawson W. Rawson, einem ehemaligen Gouverneur, verbindet der Platz das moderne Leben der Stadt mit ihrer politischen Geschichte. In der Mitte steht die Bronzestatue von Sir Lynden Pindling, dem 'Vater der Nation', der die Bahamas in die Unabhängigkeit führte. Der Platz wird oft für kulturelle Veranstaltungen, Junkanoo-Paraden und offizielle Feierlichkeiten genutzt. Umgeben von Regierungsgebäuden und direkt gegenüber dem berühmten Straw Market, ist Rawson Square der ideale Ausgangspunkt, um die bunte Atmosphäre, die Architektur und den pulsierenden Rhythmus der bahamaischen Hauptstadt zu erleben.",
+      "factsAdvanced": [
+        "Zentraler öffentlicher Platz in Downtown Nassau",
+        "Eingangstor für Besucher des Kreuzfahrthafens",
+        "Standort der Statue von Sir Lynden Pindling",
+        "Bühne für nationale Feiertage und Paraden",
+        "Benannt nach einem Gouverneur des 19. Jahrhunderts",
+        "Zentrum für Information und Tourismus-Services"
+      ]
+    },
+    {
+      "id": "fort-fincastle-landmarks-v2",
+      "descriptionAdvanced": "Fort Fincastle thront auf dem Bennet's Hill, dem höchsten Punkt von Nassau, und wurde 1793 von Lord Dunmore erbaut. Die Festung hat die ungewöhnliche Form eines Raddampfers und sollte die Stadt sowie den Hafen vor Angreifern schützen. Interessanterweise feuerte das Fort nie einen Schuss in einer kriegerischen Auseinandersetzung ab, diente aber lange Zeit als wichtiger Leuchtturm und Signaleinrichtung für die Schifffahrt. Heute ist es eines der besterhaltenen Forts der Bahamas und bietet Besuchern einen fantastischen Ausblick über Nassau und das türkisfarbene Meer. Die massiven Mauern und die historischen Kanonen vermitteln einen starken Eindruck von der strategischen Bedeutung der Bahamas während der kolonialen Konflikte des späten 18. Jahrhunderts.",
+      "factsAdvanced": [
+        "Erbaut 1793 in der Form eines Raddampfers",
+        "Höchstgelegene Festungsanlage in Nassau",
+        "Diente primär als Ausguck und Leuchtturm (bis 1817)",
+        "Bietet den besten Panoramablick über die Stadt",
+        "Beherbergt mehrere Kanonen aus der Kolonialzeit",
+        "Erreichbar über die berühmte Queen's Staircase"
+      ]
+    },
+    {
+      "id": "sir-sidney-poitier-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Sir Sidney Poitier Bridge ist das markante Bindeglied zwischen Nassau und Paradise Island. Benannt zu Ehren des legendären bahamaisch-amerikanischen Schauspielers und Oscar-Preisträgers Sidney Poitier, ist die Brücke ein Symbol für den Nationalstolz und die moderne Infrastruktur des Landes. Die hohe Bogenkonstruktion ermöglicht es großen Schiffen, den Kanal zu passieren, während sie Fahrzeugen und Fußgängern den Zugang zu den weltberühmten Resorts auf Paradise Island eröffnet. Besonders bei Sonnenauf- und untergang bietet die Überquerung atemberaubende Ausblicke auf den Hafen und die Skyline von Atlantis. Die Brücke ist nicht nur ein technisches Bauwerk, sondern ein Denkmal für einen der berühmtesten Söhne der Bahamas, der die Inseln weltweit repräsentierte.",
+      "factsAdvanced": [
+        "Zentrale Verbindung nach Paradise Island",
+        "2012 zu Ehren des Schauspielers Sidney Poitier benannt",
+        "Imposante Hochbrücke mit weitem Panoramablick",
+        "Ersetzte die ursprüngliche, flachere Brücke von 1966",
+        "Wichtiger Verkehrsknotenpunkt für den Tourismus",
+        "Beliebtes Motiv für Landschaftsfotografen"
+      ]
+    },
+    {
+      "id": "baha-mar-resort-landmarks-v2",
+      "descriptionAdvanced": "Baha Mar an der Cable Beach in Nassau ist einer der größten und luxuriösesten Resort-Komplexe der westlichen Hemisphäre. Dieses moderne Wahrzeichen hat die Skyline von New Providence nachhaltig verändert und neue Standards für den Luxustourismus in der Karibik gesetzt. Das Resort umfasst mehrere Weltklasse-Hotels, das größte Casino der Region, einen spektakulären Wasserpark und einen von Jack Nicklaus entworfenen Golfplatz. Neben seiner touristischen Bedeutung ist Baha Mar ein massiver Wirtschaftsfaktor und Arbeitgeber. Besonders hervorzuheben ist das Engagement für bahamaische Kunst, mit einer der größten Sammlungen zeitgenössischer Werke des Landes in der hauseigenen Galerie 'The Current'. Baha Mar verkörpert die Ambitionen der Bahamas als führende globale Destination für erstklassiges Reisen.",
+      "factsAdvanced": [
+        "Größter integrierter Resort-Komplex der Karibik",
+        "Standort des größten Casinos in der Region",
+        "Umfasst die Luxusmarken Grand Hyatt, SLS und Rosewood",
+        "Heimat des Baha Bay Wasserparks",
+        "Bedeutendes Zentrum für bahamaische Kunst (The Current)",
+        "Großinvestition zur Revitalisierung der Cable Beach"
+      ]
+    },
+    {
+      "id": "gregorys-arch-landmarks-v2",
+      "descriptionAdvanced": "Gregory's Arch ist ein historisches Steinbauwerk in Nassau, das die Grenze zwischen dem geschäftigen Stadtzentrum und der Wohngegend Over-the-Hill markiert. Der 1852 fertiggestellte Bogen wurde nach Gouverneur John Gregory benannt und dient als Brücke für die Market Street über die tief eingeschnittene Duke Street. Die Architektur aus massiven Kalksteinblöcken spiegelt die viktorianische Ingenieurskunst der Kolonialzeit wider. Für die Bewohner von Nassau hat der Bogen eine symbolische Bedeutung, da er traditionell den Übergang in die Viertel darstellte, in denen nach der Emanzipation die befreite Bevölkerung lebte. Heute ist Gregory's Arch ein malerisches Fotomotiv und ein wichtiges Puzzleteil im historischen Stadtbild Nassaus, das täglich von hunderten Fahrzeugen und Fußgängern passiert wird.",
+      "factsAdvanced": [
+        "Historischer Torbogen aus dem Jahr 1852",
+        "Benannt nach Gouverneur John Gregory",
+        "Verbindet Downtown mit den Over-the-Hill Vierteln",
+        "Herausragendes Beispiel für viktorianischen Steinbau",
+        "Wichtiges historisches Wahrzeichen im Straßennetz",
+        "Symbol für die soziale Geographie von Nassau"
+      ]
+    },
+    {
+      "id": "nassau-cenotaph-landmarks-v2",
+      "descriptionAdvanced": "Das Nassau Cenotaph ist das zentrale Denkmal der Bahamas zu Ehren der gefallenen Soldaten des Ersten und Zweiten Weltkriegs. Gelegen vor dem Garden of Remembrance in der Nähe des Parliament Square, ist diese weiße Steinsäule der Ort für die jährlichen Gedenkfeiern am Remembrance Sunday. Das Monument erinnert an den Mut der bahamaischen Freiwilligen, die in den britischen Streitkräften dienten, sowie an die Seeleute, die auf den gefährlichen Handelsrouten ihr Leben ließen. Die schlichte und würdevolle Gestaltung des Kenotaphs lädt zur Reflexion über die globalen Beiträge des Inselstaates in Zeiten des Weltkonflikts ein. Es ist ein heiliger Ort des nationalen Erbes, der die historische Verbundenheit der Bahamas mit dem Commonwealth und den universellen Werten von Freiheit und Opferbereitschaft ehrt.",
+      "factsAdvanced": [
+        "Nationales Ehrenmal für die Gefallenen beider Weltkriege",
+        "Zentraler Punkt der Gedenkfeiern am Volkstrauertag",
+        "Gelegen im feierlichen Garden of Remembrance",
+        "Klassisches Kenotaph-Design in Weiß",
+        "Symbol der Treue zum Commonwealth",
+        "Ehrung der bahamaischen Kriegsteilnehmer"
+      ]
+    },
+    {
+      "id": "villa-doyle-landmarks-v2",
+      "descriptionAdvanced": "Villa Doyle ist ein prachtvolles historisches Herrenhaus in Nassau, das heute die National Art Gallery of the Bahamas (NAGB) beherbergt. Erbaut in den 1860er Jahren für den Obersten Richter Sir William Doyle, ist das Gebäude ein Meisterwerk der neoklassizistischen Kolonialarchitektur mit seinen eleganten Verandas und weitläufigen Gärten. Nach einer umfassenden Restaurierung in den 1990er Jahren wurde es zum wichtigsten Schaufenster für bahamaische Kunst und Kultur. Die Villa selbst ist ebenso sehenswert wie die darin ausgestellten Werke, da sie den luxuriösen Lebensstil der kolonialen Elite widerspiegelt. Als Nationalgalerie fördert sie heute den Dialog über bahamaische Identität durch wechselnde Ausstellungen zeitgenössischer und historischer Kunst. Villa Doyle ist ein Ort, an dem Architekturgeschichte und künstlerische Innovation harmonisch aufeinandertreffen.",
+      "factsAdvanced": [
+        "Sitz der National Art Gallery of the Bahamas (NAGB)",
+        "Erbaut 1860 als prestigeträchtiges privates Wohnhaus",
+        "Herausragendes Beispiel kolonialer Neoklassik",
+        "Restauriertes architektonisches Juwel von Nassau",
+        "Zentrum für bahamaische Kunst und Identität",
+        "Bietet Raum für Bildungsprogramme und Workshops"
+      ]
+    },
+    {
+      "id": "dundas-centre-landmarks-v2",
+      "descriptionAdvanced": "Das Dundas Centre for the Performing Arts in Nassau ist das kulturelle Herz der darstellenden Künste auf den Bahamas. Benannt nach Lady Dundas, wurde das Zentrum in den 1930er Jahren gegründet, um lokale Talente in den Bereichen Theater, Musik und Tanz zu fördern. Über Jahrzehnte war es die Bühne für bedeutende bahamaische Produktionen, die die soziale und politische Geschichte des Landes reflektierten. Das Gebäude selbst hat einen funktionalen Charme und beherbergt mehrere Bühnen sowie Probenräume. Es ist ein Ort des kreativen Widerstands und der kulturellen Selbstdarstellung, an dem Klassiker sowie zeitgenössische bahamaische Stücke uraufgeführt werden. Für Besucher bietet das Dundas Centre die einzigartige Möglichkeit, die lebendige Theaterkultur und den sprachlichen Reichtum der Inseln jenseits der Touristenpfade zu erleben.",
+      "factsAdvanced": [
+        "Hauptspielstätte für Theater und Tanz in Nassau",
+        "Gegründet in den 1930er Jahren zur Kulturförderung",
+        "Heimat der bahamaischen Theateravantgarde",
+        "Wichtiger Ort für die Bewahrung lokaler Dialekte",
+        "Standort nationaler Festivals und Wettbewerbe",
+        "Pulsierendes Zentrum der lokalen Künstlergemeinschaft"
+      ]
+    },
+    {
+      "id": "hole-in-the-wall-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Hole-in-the-Wall Lighthouse liegt an der extremen Südspitze von Great Abaco in einer der abgelegensten Gegenden der Insel. Der 1836 erbaute Leuchtturm verdankt seinen Namen einer markanten, natürlichen Felsöffnung in der Nähe, die jedoch durch einen Hurrikan im Jahr 2012 zerstört wurde. Der Turm selbst ist ein einsamer Wächter über die strategisch wichtige Passage zwischen Abaco und Nassau. Die Reise dorthin führt über kilometerlange, unbefestigte Wege durch dichte Kiefernwälder und bietet ein echtes Abenteuer. Die raue Atlantikküste mit ihren hohen Klippen und der tosenden Brandung verleiht dem Ort eine wilde Schönheit. Für Naturliebhaber und Individualreisende ist Hole-in-the-Wall ein Symbol für die unbezähmbare Kraft der Natur und die maritime Geschichte der Bahamas.",
+      "factsAdvanced": [
+        "Historischer Leuchtturm von 1836 an der Südspitze Abacos",
+        "Benannt nach einer legendären natürlichen Felsbrücke",
+        "Wichtiger Wegweiser für Schiffe Richtung Nassau",
+        "Gelegen in einer extrem abgelegenen Wildnis",
+        "Umgeben von dramatischen Kalksteinklippen",
+        "Hervorragender Ort zur Walbeobachtung (Saison)"
+      ]
+    },
+    {
+      "id": "dixon-hill-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Dixon Hill Lighthouse auf San Salvador ist einer der wenigen weltweit verbliebenen Leuchttürme, die noch immer mit einer klassischen Fresnel-Linse und Petroleum betrieben werden. Erbaut im Jahr 1887 auf einem der höchsten Hügel der Insel, bietet er einen atemberaubenden 360-Grad-Blick über San Salvador und die umliegenden Riffe. Der Leuchtturmwärter zieht die Mechanik noch immer von Hand auf, was diesen Ort zu einem lebendigen Museum maritimer Technik macht. Für die Bewohner von San Salvador ist der Turm ein Symbol für Beständigkeit und Sicherheit. Besucher können die steile Treppe erklimmen und die faszinierende Optik aus nächster Nähe bewundern. Dixon Hill Lighthouse ist ein Muss für jeden, der die Geschichte der Navigation und den unberührten Charme der Out Islands erleben möchte.",
+      "factsAdvanced": [
+        "Einer der letzten handbetriebenen Leuchttürme der Welt",
+        "Erbaut 1887 auf San Salvador Island",
+        "Besitzt eine originale Fresnel-Linse 4. Ordnung",
+        "Bietet Panoramablick über die gesamte Insel",
+        "Wird noch immer von einem Leuchtturmwärter betreut",
+        "Wichtiges historisches Monument der Seefahrt"
+      ]
+    },
+    {
+      "id": "great-isaac-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Great Isaac Lighthouse liegt auf einer winzigen, isolierten Felseninsel nördlich von Bimini und ist eines der geheimnisvollsten Wahrzeichen der Bahamas. Der 1859 errichtete Turm aus Gusseisen ist fast 46 Meter hoch und sollte die Schifffahrt vor den gefährlichen Gewässern der Bimini-Bank schützen. Bekannt ist der Ort vor allem für seine zahlreichen Legenden und Spukgeschichten, insbesondere nach dem mysteriösen Verschwinden zweier Wärter im Jahr 1969. Die Insel ist karg und windgepeitscht, was dem Leuchtturm eine fast unheimliche Schönheit verleiht. Da er nur per Boot erreichbar ist, bleibt er ein Ziel für abenteuerlustige Segler und Forscher. Great Isaac ist ein kraftvolles Symbol für die Einsamkeit und die Gefahren des Meeres in der Ära vor der modernen Satellitennavigation.",
+      "factsAdvanced": [
+        "Imposanter gusseiserner Leuchtturm (46 Meter hoch)",
+        "Isolierte Lage auf Great Isaac Cay nördlich von Bimini",
+        "Bekannt für lokale Legenden und Geistergeschichten",
+        "Strategischer Punkt an der Schnittstelle wichtiger Seewege",
+        "Erbaut 1859 zur Sicherung der Florida-Straße",
+        "Nur per Privatboot oder Charter erreichbar"
+      ]
+    },
+    {
+      "id": "dolphin-house-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Dolphin House in Alice Town, Bimini, ist ein einzigartiges architektonisches Kunstwerk und ein 'Liebesbrief an den Ozean'. Erschaffen von dem lokalen Künstler und Historiker Ashley Saunders, ist dieses Gebäude vollständig aus recycelten Materialien, Muscheln, Korallen und Strandgut gebaut. Jedes Mosaik und jedes Detail erzählt eine Geschichte über die reiche Geschichte Biminis, von den Abenteuern Ernest Hemingways bis hin zu den Legenden von Atlantis. Das Dolphin House dient nicht nur als Museum, sondern auch als Gästehaus und Inspiration für nachhaltiges Bauen. Es verkörpert den kreativen Geist der Bahamas und die tiefe spirituelle Verbindung der Inselbewohner mit dem Meer. Ein Besuch bietet eine faszinierende Reise durch die Farben und Mythen der nördlichen Bahamas, festgehalten in Beton und Muschelkalk.",
+      "factsAdvanced": [
+        "Einzigartiges Öko-Museum aus recycelten Materialien",
+        "Lebenswerk des Künstlers Ashley Saunders",
+        "Fassade aus Mosaiken, Muscheln und Strandgut",
+        "Architektonische Hommage an die Delfine von Bimini",
+        "Zentrum für lokale Geschichte und Poesie",
+        "Ein Muss für Kunstliebhaber und Individualreisende"
+      ]
+    },
+    {
+      "id": "preachers-cave-landmarks-v2",
+      "descriptionAdvanced": "Preacher's Cave im Norden von Eleuthera ist eine Stätte von immenser historischer und spiritueller Bedeutung für die Bahamas. Hier fanden die Eleutherian Adventurers, eine Gruppe religiöser Exilanten aus den Bermudas, im Jahr 1648 Zuflucht, nachdem ihr Schiff an den Riffen von 'Devil's Backbone' zerschellt war. Die große Kalksteinhöhle diente ihnen als erste Kirche und als Wohnort während der harten Anfangsjahre der Kolonialisierung. Archäologische Ausgrabungen haben gezeigt, dass die Höhle bereits Jahrhunderte zuvor von den Lucayanern genutzt wurde. Heute ist der Ort ein geschütztes Denkmal, das durch seine kühle Stille und die natürliche Kathedralenform beeindruckt. Ein Altar aus Stein erinnert an die ersten Gottesdienste und den Mut der Siedler, die hier den Grundstein für das moderne Bahamas legten.",
+      "factsAdvanced": [
+        "Geburtsort der modernen bahamaischen Kolonisation (1648)",
+        "Zufluchtsort der Eleutherian Adventurers",
+        "Naturhöhle, die als erste Kirche der Insel diente",
+        "Bedeutende archäologische Stätte lucayanischer Kultur",
+        "Gelegen im malerischen Norden von Eleuthera",
+        "Eindrucksvolles Naturdenkmal mit historischem Altar"
+      ]
+    },
+    {
+      "id": "ocean-atlas-statue-landmarks-v2",
+      "descriptionAdvanced": "Ocean Atlas ist eine monumentale Unterwasserstatue vor der Westküste von New Providence und gilt als die größte Unterwasserskiptur der Welt. Erschaffen von dem Künstler Jason deCaires Taylor, stellt sie ein hockendes bahamaisches Mädchen dar, das die Last des Ozeans auf ihren Schultern trägt – eine moderne Anspielung auf den antiken Mythos des Atlas. Die Statue besteht aus pH-neutralem Zement, der das Wachstum von Korallen fördert und so ein künstliches Riff bildet. Ocean Atlas ist nicht nur ein spektakuläres Ziel für Schnorchler und Taucher, sondern auch ein kraftvolles Statement zum Meeresschutz und zum Klimawandel. Die Platzierung in den klaren Gewässern des Clifton Heritage National Park verbindet zeitgenössische Kunst mit ökologischem Bewusstsein und lokaler Identität auf faszinierende Weise.",
+      "factsAdvanced": [
+        "Größte Unterwasserstatue der Welt (über 5 Meter hoch)",
+        "Werk des renommierten Künstlers Jason deCaires Taylor",
+        "Dient als künstliches Riff zur Förderung der Biodiversität",
+        "Symbol für die Verantwortung des Menschen für die Ozeane",
+        "Gelegen in den Gewässern des Clifton Heritage Park",
+        "Weltbekanntes Motiv für Unterwasserfotografie"
+      ]
+    },
+    {
+      "id": "royal-victoria-hotel-ruins-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen des Royal Victoria Hotel in Nassau erinnern an das 'Goldene Zeitalter' des frühen Tourismus und die turbulente Zeit des amerikanischen Bürgerkriegs. Erbaut im Jahr 1861, war es das erste Luxushotel der Bahamas und galt als eines der elegantesten Häuser der gesamten Karibik. Während des Bürgerkriegs war es der Treffpunkt für Blockadebrecher, Spione und Offiziere. Die Architektur mit ihren weitläufigen Verandas und tropischen Gärten setzte Maßstäbe für das Inseldesign. Nachdem das Hotel 1971 geschlossen wurde und später einem Brand zum Opfer fiel, blieben nur die steinernen Skelette und der einst berühmte Garten übrig. Heute strahlen die Ruinen eine melancholische Schönheit aus und bieten einen faszinierenden Einblick in die mondäne Vergangenheit Nassaus und die Vergänglichkeit von Ruhm und Glanz.",
+      "factsAdvanced": [
+        "Erstes Luxushotel der Bahamas (erbaut 1861)",
+        "Historischer Treffpunkt während des US-Bürgerkriegs",
+        "Pionierbau des karibischen Tourismus-Stils",
+        "Malerische Ruinen inmitten eines botanischen Gartens",
+        "Ort unzähliger historischer Anekdoten und Legenden",
+        "Wichtiges Zeugnis der Stadtgeschichte von Nassau"
+      ]
+    },
+    {
+      "id": "hermitage-tomb-landmarks-v2",
+      "descriptionAdvanced": "Die Hermitage auf dem Mount Alvernia, Cat Island, ist das Lebenswerk von Pater Jerome, einem anglikanischen Priester, der später zum Katholizismus konvertierte und sich als Eremit zurückzog. Das kleine Kloster, das er im Alleingang aus lokalem Stein errichtete, thront auf dem höchsten Punkt der Bahamas und ist ein Ort von außergewöhnlicher spiritueller Kraft und architektonischer Schönheit. Der Kreuzweg, der zum Gipfel führt, ist ebenso handgefertigt wie die kleine Kapelle und der Wohntrakt. In der Nähe der Kapelle befindet sich auch die schlichte Grabstätte, die Pater Jerome für sich selbst vorbereitete. Ein Besuch der Hermitage ist eine körperliche und geistige Erfahrung, die durch die absolute Stille und den 360-Grad-Blick über die gesamte Insel belohnt wird. Es ist ein Monument des Glaubens, der Einsamkeit und der menschlichen Schaffenskraft.",
+      "factsAdvanced": [
+        "Eremitage am höchsten Punkt der Bahamas (63 Meter)",
+        "Erbaut von Hand durch Pater Jerome (John Hawes)",
+        "Architektonisches Kleinod aus lokalem Stein",
+        "Inklusive eines handgemeißelten Kreuzwegs",
+        "Ort der Grabstätte von Pater Jerome",
+        "Bietet den spektakulärsten Ausblick der Out Islands"
+      ]
+    },
+    {
+      "id": "great-stirrup-cay-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Great Stirrup Cay Lighthouse ist ein historischer Leuchtturm in den Berry Islands, der seit 1863 die Schifffahrt durch die Nordwest-Providence-Passage sichert. In einer Zeit, in der diese Route eine der wichtigsten für den Handel zwischen Europa und dem Golf von Mexiko war, erfüllte der Turm eine überlebenswichtige Funktion. Der weiße Turm ist ein klassisches Beispiel für die britische Leuchtturm-Architektur des 19. Jahrhunderts. Heute liegt er in einer Gegend, die vor allem als exklusives Ziel für Kreuzfahrtpassagiere bekannt ist, was einen interessanten Kontrast zwischen historischer Funktionalität und modernem Urlaubstreiben bildet. Obwohl der Turm heute automatisiert ist, bleibt er ein würdevolles Wahrzeichen und erinnert an die Ära der Segelschifffahrt, in der die Berry Islands für Seefahrer sowohl Hoffnung als auch Gefahr bedeuteten.",
+      "factsAdvanced": [
+        "Wichtiger historischer Leuchtturm der Berry Islands",
+        "Erbaut 1863 zur Sicherung der Providence Passage",
+        "Klassisches Design des 19. Jahrhunderts",
+        "Wahrzeichen an einer der meistbefahrenen Schifffahrtsrouten",
+        "Heute Teil einer exklusiven Privatinsel-Destination",
+        "Symbol für die maritime Tradition der Region"
+      ]
+    },
+    {
+      "id": "supreme-court-landmarks-v2",
+      "descriptionAdvanced": "Der Supreme Court der Bahamas in Nassau ist ein beeindruckendes Symbol für Gerechtigkeit und das britische Erbe des Landes. Gelegen im historischen Zentrum am Parliament Square, ist das neoklassizistische Gebäude in seinem charakteristischen Pink und Weiß ein fester Bestandteil des Stadtbildes. Hier wird nach dem Common Law Recht gesprochen, wobei die Richter und Anwälte bei feierlichen Anlässen noch immer die traditionellen Roben und Perücken tragen. Das Gebäude strahlt eine feierliche Würde aus und spiegelt die Stabilität der bahamaischen Institutionen wider. Für Besucher ist das Gerichtsgebäude nicht nur architektonisch interessant, sondern auch ein Ort, an dem die lebendige Rechtsgeschichte des Landes täglich praktiziert wird. Der Vorplatz ist oft Schauplatz offizieller Zeremonien, die den Respekt vor dem Gesetz und der Verfassung unterstreichen.",
+      "factsAdvanced": [
+        "Höchstes Gericht der Bahamas in Nassau",
+        "Teil des historischen Parliament Square Ensembles",
+        "Prachtvolle neoklassizistische Architektur",
+        "Zentrum der bahamaischen Rechtsprechung (Common Law)",
+        "Ort traditioneller juristischer Zeremonien",
+        "Wichtiges Symbol der nationalen Souveränität"
+      ]
+    },
+    {
+      "id": "shirley-street-post-office-landmarks-v2",
+      "descriptionAdvanced": "Das Hauptpostamt an der Shirley Street ist ein bedeutendes administratives Wahrzeichen in Nassau. In einer Zeit vor dem digitalen Zeitalter war dieses Gebäude die zentrale Nabelschnur für die Kommunikation zwischen den Bahamas und der restlichen Welt. Die Architektur ist funktional und spiegelt den Stil öffentlicher Bauten der Mitte des 20. Jahrhunderts wider. Für die Bewohner von Nassau war der Gang zur Shirley Street Post über Jahrzehnte ein fester Bestandteil des Alltags, um Briefe abzugeben, Briefmarken zu kaufen oder Pakete von Verwandten aus dem Ausland abzuholen. Das Gebäude beherbergt auch wichtige Archive und Sammlungen bahamaischer Briefmarken, die weltweit bei Sammlern für ihre Schönheit und Seltenheit geschätzt werden. Es steht stellvertretend für die organisierte Infrastruktur, die den Inselstaat zusammenhält.",
+      "factsAdvanced": [
+        "Zentrales Postamt der Bahamas in Nassau",
+        "Architektonisches Wahrzeichen der Shirley Street",
+        "Einstiges Herz der nationalen und internat. Kommunikation",
+        "Bekannt für seine exklusiven bahamaischen Briefmarkeneditionen",
+        "Wichtiger administrativer Standort in Downtown",
+        "Symbol für den öffentlichen Dienst des Landes"
+      ]
+    },
+    {
+      "id": "saint-matthews-anglican-church-landmarks-v2",
+      "descriptionAdvanced": "Saint Matthew's Anglican Church ist die älteste noch genutzte Kirche auf der Insel New Providence. Erbaut im Jahr 1800, ist sie ein herausragendes Beispiel für die loyalisitische Kirchenarchitektur der Bahamas. Mit ihrem markanten Turm und den eleganten Rundbogenfenstern ist sie ein architektonisches Juwel im Osten von Nassau. Die Kirche wurde zu einer Zeit errichtet, als die Stadt rasant wuchs und ein Bedürfnis nach spiritueller Betreuung für die neue Bevölkerung bestand. Im Inneren finden sich zahlreiche Gedenktafeln, die die Geschichte bedeutender Familien Nassaus erzählen. Der umliegende Friedhof ist eine historische Schatzkammer, deren Grabsteine bis in das späte 18. Jahrhundert zurückreichen. Saint Matthew's ist nicht nur ein Ort des Gebets, sondern ein lebendiges Denkmal, das die Beständigkeit des Glaubens über zwei Jahrhunderte hinweg verkörpert.",
+      "factsAdvanced": [
+        "Ältestes aktives Kirchengebäude auf New Providence",
+        "Herausragende koloniale Architektur (Baujahr 1800)",
+        "Zentrum der anglikanischen Tradition im Osten Nassaus",
+        "Beherbergt einen der historisch wertvollsten Friedhöfe",
+        "Ort bedeutender nationaler und lokaler Ereignisse",
+        "Hervorragend erhaltene Innenausstattung aus Holz"
+      ]
+    },
+    {
+      "id": "thomas-a-robinson-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Thomas A. Robinson National Stadium ist das sportliche Herz der Bahamas und ein Symbol für den Stolz des Landes auf seine Weltklasse-Athleten. Benannt nach dem legendären Sprinter Thomas Robinson, ist das Stadion ein modernes Wahrzeichen für nationale Einheit und internationale sportliche Exzellenz. Es ist der Austragungsort für große Leichtathletik-Wettbewerbe, Fußballspiele und kulturelle Großveranstaltungen wie die CARIFTA Games oder die World Relays. Die moderne Architektur mit ihrer markanten Tribünenkonstruktion bietet Tausenden von Zuschauern Platz. Das Stadion steht stellvertretend für die 'Sport-Power' der Bahamas, eines kleinen Landes, das im Verhältnis zu seiner Bevölkerung überproportional viele olympische Erfolge feiert. Es ist ein Ort der Begeisterung und ein wichtiger Treffpunkt für die sportbegeisterte Jugend des Archipels.",
+      "factsAdvanced": [
+        "Nationalstadion der Bahamas in Nassau",
+        "Benannt nach dem bahamaischen Leichtathletik-Idol",
+        "Modernstes Sportzentrum des Landes",
+        "Austragungsort der prestigeträchtigen World Relays",
+        "Kapazität für über 15.000 Zuschauer",
+        "Zentrum der nationalen Sportförderung und Identität"
+      ]
+    },
+    {
+      "id": "ss-sapona-shipwreck-landmarks-v2",
+      "descriptionAdvanced": "Das Wrack der SS Sapona vor Bimini ist eines der faszinierendsten und geschichtsträchtigsten Tauchziele der Bahamas. Dieses Betonschiff wurde ursprünglich im Ersten Weltkrieg erbaut und diente später während der Prohibition als schwimmendes Schnapslager für Schmuggler, bevor es 1926 durch einen Hurrikan auf das Riff getrieben wurde. Im Zweiten Weltkrieg nutzten die US-Streitkräfte das Wrack sogar als Zielscheibe für Bombenabwürfe – wovon noch heute Einschusslöcher zeugen. Heute ragt das Wrack gespenstisch aus dem flachen, türkisfarbenen Wasser empor und ist ein Paradies für Schnorchler. Unter Wasser hat sich ein lebendiges künstliches Riff gebildet, in dem sich unzählige bunte Fische tummeln. Die Sapona ist eine einzigartige Kombination aus Kriegsgeschichte, Schmuggel-Legenden und mariner Artenvielfalt.",
+      "factsAdvanced": [
+        "Historisches Betonschiff-Wrack aus dem 1. Weltkrieg",
+        "Legendäres Schnapslager während der US-Prohibition",
+        "Diente im 2. Weltkrieg als militärisches Übungsziel",
+        "Top-Destination für Schnorchler und Wrack-Enthusiasten",
+        "Beeindruckendes künstliches Riff mit hoher Artenvielfalt",
+        "Eines der meistfotografierten Schiffswracks der Karibik"
+      ]
+    }
+  ]
+}

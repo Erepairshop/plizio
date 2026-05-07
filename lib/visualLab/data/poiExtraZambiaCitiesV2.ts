@@ -115,7 +115,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Known for copper mining", "Nchanga Open Pit Mine", "Founded in 1943"],
       ro: ["Known for copper mining", "Nchanga Open Pit Mine", "Founded in 1943"],
       en: ["Known for copper mining", "Nchanga Open Pit Mine", "Founded in 1943"]
-    }, image: "/poi-images/chingola-cities-v2.webp"},
+    }, image: "/poi-images/chingola-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chingola is one of the most prominent towns in Zambia's Copperbelt Province, famous for the Nchanga Open Pit Mine, formerly one of the largest open-pit copper mines in the world. The town is known for its relatively green and organized layout compared to other mining centers, having been developed with careful urban planning during the mid-20th century. Chingola continues to thrive as a mining and industrial hub, playing a vital role in national mineral production and regional commerce. Its history is deeply rooted in the Copperbelt's industrial identity. Industry — mining and urban planning."
+    },
+    factsAdvanced: {
+      en: ["Home to the massive Nchanga Open Pit Mine", "Located in the Copperbelt Province", "Known for structured urban planning and green spaces", "Major contributor to Zambia's copper export economy", "Established mid-20th century as a mining hub", "Key administrative center for mining operations"]
+    }
+  },
   {
     id: "mufulira-cities-v2",
     type: "city",
@@ -205,7 +212,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Eastern Tartomány", "Gateway to South Luangwa", "Határ Város near Malawi"],
       ro: ["Capitala of Eastern Provincia", "Gateway to South Luangwa", "Graniță Oraș near Malawi"],
       en: ["Capital of Eastern Province", "Gateway to South Luangwa", "Border town near Malawi"]
-    }, image: "/poi-images/chipata-cities-v2.webp"},
+    }, image: "/poi-images/chipata-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chipata is the primary commercial and administrative center of Eastern Province, located close to the border with Malawi. It serves as a vital hub for trade, agriculture, and cross-border logistics. The town is known for its lively marketplace and its role as an entry point for international trade from Malawi and Mozambique. Chipata's economy is diverse, encompassing everything from agricultural processing to retail and transport services. It is a bustling center that reflects the cross-border cultural and economic exchanges prevalent in eastern Zambia. Geography K7 — international trade centers."
+    },
+    factsAdvanced: {
+      en: ["Administrative capital of Eastern Province", "Close proximity to the Malawi border", "Major commercial hub for agricultural trade", "Central point for regional retail and transport", "Well-known for its vibrant central market", "Gateway city for international trade via the Nacala Corridor"]
+    }
+  },
   {
     id: "solwezi-cities-v2",
     type: "city",
@@ -512,7 +526,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Muchinga Tartomány", "Historical independence site", "Birthplace of notable politicians"],
       ro: ["Capitala of Muchinga Provincia", "Historical independence site", "Birthplace of notable politicians"],
       en: ["Capital of Muchinga Province", "Historical independence site", "Birthplace of notable politicians"]
-    }, image: "/poi-images/chinsali-cities-v2.webp"},
+    }, image: "/poi-images/chinsali-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chinsali is the administrative capital of Muchinga Province, serving as a gateway to the northern parts of Zambia. The town has experienced significant growth following its designation as the provincial headquarters, with new infrastructure and government buildings reshaping its urban core. Its location on the Great North Road makes it an important logistics and transit point connecting Lusaka with the far north and neighboring countries. Chinsali is central to regional development, administration, and the administration of justice for the Muchinga region. Geography K7 — administrative capitals."
+    },
+    factsAdvanced: {
+      en: ["Provincial capital of Muchinga Province", "Strategic location on the Great North Road", "Recently expanded administrative and government center", "Key transit point for Northern Zambia logistics", "Central hub for provincial government operations", "Experienced rapid development in the last decade"]
+    }
+  },
   {
     id: "mpulungu-cities-v2",
     type: "city",
@@ -746,6 +767,12 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Konkola Copper Mines", "Található near DRC border", "Copperbelt Tartomány"],
       ro: ["Konkola Copper Mines", "Situat near DRC border", "Copperbelt Provincia"],
       en: ["Konkola Copper Mines", "Located near DRC border", "Copperbelt Province"]
+    },
+    descriptionAdvanced: {
+      en: "Chililabombwe is a major mining town located in the Copperbelt Province, situated at the extreme northern end of the region near the border with the Democratic Republic of the Congo. The town's economy is almost entirely dependent on the nearby Konkola Copper Mines, which are among the largest in the country. Chililabombwe serves as a key industrial center and a gateway for regional trade. The town's development is heavily tied to the fluctuations of global mineral markets, making it a critical barometer for Zambia's mining-dependent economy. Industry — mineral extraction and border logistics."
+    },
+    factsAdvanced: {
+      en: ["Located near the border with the DRC", "Major operations hub for Konkola Copper Mines", "Primary economy centered on copper mining", "Key transit town for international trade routes", "Significant population center within the Copperbelt", "Industrial growth linked to deep-shaft mining technology"]
     }
   },
   {
@@ -765,7 +792,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Mining Város", "Multi-facility economic zone", "Copperbelt Tartomány"],
       ro: ["Mining Oraș", "Multi-facility economic zone", "Copperbelt Provincia"],
       en: ["Mining town", "Multi-facility economic zone", "Copperbelt Province"]
-    }, image: "/poi-images/chambishi-cities-v2.webp"},
+    }, image: "/poi-images/chambishi-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chambishi is a significant mining town situated in Zambia's Copperbelt Province. It is renowned for its large-scale copper and cobalt mining operations, which serve as a primary economic driver for both the town and the nation. As an industrial center, Chambishi is characterized by its heavy infrastructure and large workforce engaged in the processing of mineral resources. The town plays a pivotal role in the Zambian economy, representing the historical and ongoing importance of the Copperbelt to the country's GDP. Industry — mineral extraction and processing."
+    },
+    factsAdvanced: {
+      en: ["Major hub for copper and cobalt mining", "Located in the Copperbelt Province", "Primary economy relies on industrial mining operations", "Host to international mining company investments", "Significant contributor to Zambian industrial exports", "Key urban development tied to mineral extraction"]
+    }
+  },
   {
     id: "kalulushi-cities-v2",
     type: "city",
@@ -837,7 +871,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Cement manufacturing", "Lusaka Tartomány", "Mount Makulu Research Station"],
       ro: ["Cement manufacturing", "Lusaka Provincia", "Mount Makulu Research Station"],
       en: ["Cement manufacturing", "Lusaka Province", "Mount Makulu Research Station"]
-    }, image: "/poi-images/chilanga-cities-v2.webp"},
+    }, image: "/poi-images/chilanga-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chilanga is a rapidly growing town located just south of Lusaka, serving as both a residential area for commuters and a hub for industrial and cement production. Its strategic location makes it a prime candidate for urban expansion, balancing modern housing developments with established industrial zones. Chilanga's economy is diversified, benefiting from both its proximity to the capital and its own manufacturing capabilities. The town is increasingly becoming a preferred location for businesses seeking to operate near Lusaka while avoiding the city center's high costs. Geography K7 — urban growth and industrial hubs."
+    },
+    factsAdvanced: {
+      en: ["Located in Lusaka Province, bordering the capital", "Known for major cement manufacturing operations", "Fast-growing residential and industrial hub", "Strategically positioned along key southern highways", "Significant contributor to national construction materials", "Popular satellite town for Lusaka professionals"]
+    }
+  },
   {
     id: "serenje-cities-v2",
     type: "city",
@@ -891,7 +932,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Farming community", "Central Tartomány", "Közelében Lukanga Swamp"],
       ro: ["Farming community", "Central Provincia", "Aproape de Lukanga Swamp"],
       en: ["Farming community", "Central Province", "Near Lukanga Swamp"]
-    }, image: "/poi-images/chibombo-cities-v2.webp"},
+    }, image: "/poi-images/chibombo-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chibombo is an administrative and market town located in the Central Province of Zambia, serving as a critical nexus for agricultural activities in the surrounding area. The town benefits from its proximity to major transport routes, enabling the efficient distribution of maize and other agricultural products from nearby farms. Chibombo acts as a essential service center for the rural communities in the district, providing schools, health facilities, and a central marketplace for local trade. Its growth is closely linked to the productivity of the central Zambian agricultural sector. Geography K7 — agricultural trade towns."
+    },
+    factsAdvanced: {
+      en: ["Administrative center of Chibombo District", "Located in Central Province", "Key hub for regional maize and crop trade", "Serves as a transit point for goods to Lusaka", "Population largely engaged in district-wide agriculture", "Essential service center for nearby rural villages"]
+    }
+  },
   {
     id: "nyimba-cities-v2",
     type: "city",
@@ -927,7 +975,14 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Administrative Város", "Eastern Tartomány", "Upper Luangwa valley"],
       ro: ["Administrative Oraș", "Eastern Provincia", "Upper Luangwa valley"],
       en: ["Administrative town", "Eastern Province", "Upper Luangwa valley"]
-    }, image: "/poi-images/chama-cities-v2.webp"},
+    }, image: "/poi-images/chama-cities-v2.webp",
+    descriptionAdvanced: {
+      en: "Chama is an administrative town located in the Muchinga Province of Zambia, serving as a hub for the surrounding agricultural community. The region is largely rural, with the town acting as a center for trade and essential services for local residents. Its geographical isolation in the eastern part of the country has contributed to a distinct cultural identity and reliance on local subsistence farming. Chama is a critical point for local transport routes connecting the northern parts of the province. Geography K7 — rural administrative centers."
+    },
+    factsAdvanced: {
+      en: ["Administrative capital of Chama District", "Situated within Muchinga Province", "Primarily agricultural and rural economy", "Key trade point for regional agricultural goods", "Connected to other regions via regional transport corridors", "Population largely engaged in small-scale farming"]
+    }
+  },
   {
     id: "luwingu-cities-v2",
     type: "city",

@@ -1,0 +1,195 @@
+{
+  "lang": "hu",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "laguna-de-ayarza-nature-v2",
+      "descriptionAdvanced": "A Laguna de Ayarza (Ayarza-tó) egy ikerkráter-tó, amely Santa Rosa megye hegyei között, Casillas és San Rafael Las Flores községek határán bújik meg. A tó vulkanikus eredetű, körülbelül 20 000 évvel ezelőtt alakult ki egy hatalmas, két kamrás vulkáni robbanás nyomán. Tengerszint feletti magassága 1400 méter körüli, így a víz hűvös, tiszta és mély (akár 230 méter is lehet). A tavat szinte függőleges sziklafalak veszik körül, amelyeken csak gyalogösvényeken vagy négykerék-meghajtású járművekkel lehet leereszkedni. A helyi legenda szerint a tónak nincs feneke, és a víz alatt egy ősi elsüllyedt falu fekszik. Ma a Laguna de Ayarza népszerű a sporthorgászok, búvárok és a nyugalomra vágyó kalandturisták körében, mivel elszigeteltsége miatt mentes a tömegturizmustól. Földrajz K8 — vulkáni krátertavak (kalderák) és hidrogeológia.",
+      "factsAdvanced": [
+        "A tó vulkáni kaldera, amely két egybeolvadt kráterből (iker-kráter) jött létre kb. 20 000 éve.",
+        "Santa Rosa megyében fekszik, 1 410 méteres tengerszint feletti magasságban.",
+        "Rendkívül mély, a mérések szerint a mélysége eléri a 230 métert (egyesek szerint a 250 métert is).",
+        "Meredek sziklafalak veszik körül, így megközelítése (leereszkedés a vízhez) nehézkes.",
+        "Népszerű a búvárok körében, akik a tiszta vízben és a meredek mélyben edzenek.",
+        "A helyi legendák egy feneketlen tóról és egy víz alatti ősi városról (vagy szörnyről) szólnak."
+      ]
+    },
+    {
+      "id": "rio-polochic-delta-nature-v2",
+      "descriptionAdvanced": "A Polochic-folyó deltája (Bocas del Polochic) Guatemala egyik legnagyobb és legfontosabb trópusi vizesélőhelye, amely az ország keleti részén (Izabal megye) található, ott, ahol a folyó beömlik a hatalmas Izabal-tóba. A delta több mint 20 000 hektáron elterülő rezervátum (Refugio de Vida Silvestre), amely szövevényes mocsarakból, lagúnákból, nádasokból és elárasztott pálmaerdőkből áll. Ez az érintetlen terület a nyugati félteke vándormadarainak kritikus fontosságú menedéke, télen gyakran tízmilliószámra lepik el a vízimadarak (pl. kormoránok, gémek). A mocsaras dzsungelben élnek az egyre ritkább tapírok, a bőgőmajmok és a manátuszok (tengeri tehenek). A terület megközelítése csak lanchával (motorcsónakkal) lehetséges El Estor kikötőjéből. Földrajz K7 — mocsári delták és vándormadár-útvonalak.",
+      "factsAdvanced": [
+        "A Polochic-folyó az Izabal-tóba érkezve egy kiterjedt mocsaras deltát (Bocas del Polochic) hoz létre.",
+        "Közép-Amerika egyik legfontosabb vizesélőhelye (Ramsari terület) több mint 20 000 hektáron.",
+        "A rezervátum évente több millió észak-amerikai vándormadár (aves migratorias) számára nyújt téli menedéket.",
+        "A sűrű, iszapos mocsárvidék otthont ad Közép-Amerika legnagyobb emlősének, a tapírnak (danta).",
+        "A vízi labirintusban számos manátusz (tengeri tehén) él, akik a sekély, növényekben gazdag vizeket kedvelik.",
+        "Közút nem vezet a rezervátumba, kizárólag El Estor városából csónakkal közelíthető meg."
+      ]
+    },
+    {
+      "id": "cerro-miramundo-nature-v2",
+      "descriptionAdvanced": "A Cerro Miramundo (Miramundo-hegy) egy festői kilátópont és védett erdőterület Jalapa és Zacapa megyék határvidékén, közel a híres Pino Dulce ökoparkhoz. Neve, a 'Világnéző' nem véletlen: a 2500 méter körüli hegytetőről tiszta időben hihetetlen, 360 fokos panoráma nyílik Guatemala keleti felére, beleértve a Jutiapai síkságokat, a Chingo vulkánt, sőt egészen El Salvador határáig ellátni. A hegycsúcs klímája a magaslat miatt fagyos és ködös, sűrű tölgy- és fenyőerdők (bosques de pino-encino) borítják, amelyek éles kontrasztban állnak az alatta elterülő 'Corredor Seco' (Száraz Folyosó) perzselő sivatagi völgyeivel. Miramundo ma egyre kedveltebb hegymászó és kempingező hely, ahová a fővárosiak menekülnek a hőség elől. Földrajz K6 — magashegyi kilátók és klimatikus kontrasztok.",
+      "factsAdvanced": [
+        "A Jalapa hegyvidéki peremén található csúcsról egyedülálló, több megyét átfogó kilátás nyílik az Oriente régióra.",
+        "Tengerszint feletti magassága 2 500 méter feletti, a hegytető éghajlata kifejezetten hűvös, éjjel gyakran fagyos.",
+        "A hegyet sűrű fenyő- és tölgyerdők ('pinares' és 'encinares') borítják, amelyek védett ökoszisztémát alkotnak.",
+        "Drámai kontrasztot képez a lábánál elterülő Zacapa megyei száraz, kaktuszos völgyekkel.",
+        "Egyre népszerűbb ökoturisztikai és kemping célpont (gyakran összekötik a Pino Dulce park látogatásával).",
+        "Az utolsó kilométerek a csúcs felé csak 4x4-es jármüvekkel vagy kihívást jelentő túrával tehetők meg."
+      ]
+    },
+    {
+      "id": "isla-de-flores-nature-v2",
+      "descriptionAdvanced": "A festői Isla de Flores a Petén Itzá-tó déli medencéjéből emelkedik ki, és Petén megye turisztikai, valamint – a szárazföldi Santa Elenával közösen – közigazgatási központja is egyben. A sziget eredetileg az utolsó független maja királyság, a Tayasal nevű itza főváros helyszíne volt, amíg a spanyolok 1697-ben el nem pusztították. Ma a sziget egy sűrűn beépített, gyarmati hangulatú kis ékszerdoboz: szűk, macskaköves utcácskák, piros cserepes tetők és pasztellszínűre (rózsaszín, sárga, kék) festett, trópusi növényekkel befuttatott házak jellemzik. A szigetet egy 500 méter hosszú, mesterséges gát (terraplén) köti össze a szárazfölddel. Flores nemcsak lenyűgöző tóparti naplementéiről és éttermeiről ismert, hanem ez a Tikal maja romvárosába tartó nemzetközi hátizsákos turisták első számú bázisa is. Földrajz K6 — szigeti települések és a turizmus logisztikája.",
+      "factsAdvanced": [
+        "A sziget a Petén Itzá-tó vizében fekszik, és egy mesterséges gát köti össze a szárazföldi Santa Elenával.",
+        "A 17. század végéig az utolsó ellenálló maja királyság (Tayasal) központja volt.",
+        "Macskaköves utcái és színes (pasztell) gyarmati stílusú házai miatt a 'Guatemalai Velence' becenevet is ráaggatták.",
+        "A Tikal Nemzeti Parkba és más peténi maja romokhoz tartó turisták ('mochileros') fo logisztikai központja.",
+        "A szigetet gyakran sújtja a tó vizének ciklikus emelkedése, ami elárasztja a parti sétányokat (malecón).",
+        "Nincs igazi strandja, de a látogatók a fából épült mólókról (muelles) ugrálnak a tó tiszta, meleg vizébe."
+      ]
+    },
+    {
+      "id": "rio-chixoy-negro-nature-v2",
+      "descriptionAdvanced": "A Río Chixoy (amely a felsőbb hegyi szakaszain Río Negro, vagy 'Fekete-folyó' néven ismert) Guatemala egyik leghosszabb és legfontosabb folyórendszere. A Huehuetenango magasföldjein eredő folyó átszeli Quiché és Alta Verapaz megyéket, lenyűgöző, kanyargós kanyonokat vésve a Cuchumatanes-hegység oldalába, majd észak felé, a mexikói határon a Río Usumacintába torkollik. A Chixoy-folyó drámai és sötét történelmet is hordoz: völgyében épült meg az 1980-as évek elején a Chixoy-gát (Közép-Amerika egyik legnagyobb vízerőműve). A gát építése és a völgy elárasztása erőszakos, katonai kitelepítésekkel és tömegmészárlásokkal (mint a hírhedt Río Negro-i mészárlás) járt a helyi achí maja lakosság körében. Ma a gát mögötti hatalmas mesterséges tó (Embalse de Chixoy) csendes, lenyűgöző hegyi táj. Földrajz K8 — folyószabályozás, gátépítés és emberi jogi konfliktusok.",
+      "factsAdvanced": [
+        "A Río Chixoy a guatemalai magasföldeken (Río Negro néven) ered és az Usumacinta egyik fő táplálója.",
+        "A folyón épült fel a Chixoy Vízerőmű, amely Guatemala áramellátásának (hidroeléctrica) jelentős részét biztosítja.",
+        "A folyóvölgy elárasztása miatt több maja achí falut töröltek el (ami tömeges erőszakkal is járt 1982-ben).",
+        "A folyó medre a magasföldeken meredek, sötét vizű, gyakran fenyőerdőkkel (pinares) övezett kanyonokat alkot.",
+        "Vize az esős évszakban haragos barnára és feketére színeződik a hordaléktól.",
+        "Quiché és Alta Verapaz megyék közötti természetes határt is képez egy hosszú szakaszon."
+      ]
+    },
+    {
+      "id": "volcan-santa-maria-nature-v2",
+      "descriptionAdvanced": "A Santa María vulkán (Gagxanul a maják nyelvén) egy hatalmas, 3772 méter magas stratovulkán Quetzaltenango (Xela) városa felett, amely a 20. század egyik legbrutálisabb geológiai eseményének helyszíne volt. 1902 októberében, évszázados 'alvás' után a vulkán délnyugati oldala egy kataklizmikus robbanással (VEI 6, a 20. század harmadik legnagyobb kitörése) megsemmisült. A robbanás több milliárd tonna hamut és habkövet lövellt a légkörbe, elsötétítve a napot Guatemalában és Mexikó egy részén napokig, és több ezer ember halálát okozva. A hegynek ma a várostól (északról) nézve tökéletes kúp alakja van, de a csendes-óceáni oldalról nézve hiányzik a hegy harmada; ebben a gigantikus kráterben nőtt fel és fortyog azóta is a hírhedt Santiaguito lávadóm. A Santa María megmászása rendkívül népszerű és kimerítő túra, ahonnan fentről lehet lenézni a kitörő Santiaguitóra. Földrajz K8 — Plinius-típusú kitörések és a vulkáni katasztrófák.",
+      "factsAdvanced": [
+        "A vulkán 1902-es kitörése (VEI 6 besorolás) a 20. század egyik legnagyobb globális vulkánkitörése volt.",
+        "A robbanás a hegy délnyugati oldalának hatalmas részét a levegőbe röpítette, létrehozva egy óriási krátert.",
+        "A 3 772 méter magas hegycsúcs északi oldala (Xela felől) megőrizte szimmetrikus, erdős kúp alakját.",
+        "A hegymászók gyakran éjjel indulnak a csúcsra, hogy hajnalban fentről nézhessék a szomszédos Santiaguito kitöréseit.",
+        "A vulkán lejtőin a guatemalai őslakosok (k'iche' maják) ma is füstöloket (copal) égetnek vallási szertartásaikon.",
+        "Az 1902-es hamu (arena) beterítette és részben elpusztította a csendes-óceáni partvidék gazdag kávéültetvényeit."
+      ]
+    },
+    {
+      "id": "santiaguito-lava-dome-nature-v2",
+      "descriptionAdvanced": "A Santiaguito lávadóm a Föld egyik legaktívabb és legveszélyesebb vulkanikus komplexuma, amely a Santa María vulkán 1902-es kitörése során keletkezett hatalmas kráterben született meg (1922-ben kezdett kiemelkedni). Quetzaltenangótól délre található. A Santiaguito nem egy klasszikus, magas kúp, hanem egymásba fonódó (El Caliente, La Mitad, El Monje, El Brujo), viszkózus lávából felépült masszív dómok sora, amelyek folyamatos, heves kitörésekben (stromboli és vulcani típusú) öntenek ki lávát, hamufelhőket és mérgező gázokat magukból. A hegycsúcs környékét sűrű, kénszagú gőzök borítják. Az esős évszakban a vulkáni hamu vízzel keveredve pusztító kő- és iszapárakat (laharok) alkot, amelyek rendszeresen elsöprik a Nimá- és Samalá-folyók hídjait és a környező (pl. El Palmar) ültetvényeket, falvakat. Földrajz K8 — vulkáni lávadómok növekedése és a lahar (iszapár) folyamatok.",
+      "factsAdvanced": [
+        "A Santiaguito egy folyamatosan növekvő és kitörő (aktív) lávadóm a Santa María vulkán oldalában.",
+        "Több dóm-csúcsból áll (a legaktívabb az 'El Caliente'), amelyek magassága jelenleg kb. 2 500 méter.",
+        "Szinte minden nap produkál kisebb-nagyobb hamukitöréseket és piroklaszt-árakat.",
+        "Az inaktív Santa María csúcsáról lenyűgöző – és biztonságos – kilátás nyílik a Santiaguito robbanásaira.",
+        "Az esőzések idején a felgyülemlett vulkáni hamu hatalmas, pusztító iszapárakká ('laharokká') változik a folyóvölgyekben.",
+        "Veszélyessége miatt megmászása szigorúan tilos, a hatóságok (CONRED) folyamatosan megfigyelik."
+      ]
+    },
+    {
+      "id": "rio-sarstun-nature-v2",
+      "descriptionAdvanced": "A Río Sarstún (vagy Sarstoon-folyó) egy rövid, de geopolitikai és biológiai szempontból rendkívül fontos trópusi folyó, amely az Atlanti-óceánba (Amatique-öböl) ömlik. A folyó képezi a hivatalos (bár Guatemala által sokáig vitatott) nemzetközi határvonalat Guatemala (Izabal megye) és Belize délnyugati része között. A folyó torkolatvidéke sűrű mangrovemocsarakból és trópusi esőerdőkből (Sarstún-Temash Nemzeti Park a belize-i oldalon) áll. A guatemalai szakaszon q'eqchi' és garífuna halászfalvak bújnak meg a parton, az élet kizárólag a vízen zajlik. A folyó vize sötét, csendes, és menedéket nyújt a Morelet-krokodilnak, a jaguároknak és a tengeri teheneknek (manátusz). A határvita miatt a folyón gyakoriak a feszültségek a két ország haditengerészete és a helyi halászok között. Földrajz K7 — határfolyók geopolitikája és karibi torkolatok.",
+      "factsAdvanced": [
+        "A Río Sarstún alkotja a természetes és politikai határt Guatemala és Belize között a Karib-tengernél.",
+        "A folyó teljes hosszában suru trópusi dzsungel és áthatolhatatlan mangroveerdők szegélyezik.",
+        "Torkolata az Amatique-öbölbe nyílik, vízgyüjtoje fontos élöhely a karibi manátuszok számára.",
+        "Nincsenek hídjai vagy útjai, az egyetlen közlekedési eszköz a motorcsónak ('lancha') vagy a kenu.",
+        "A torkolatában lévő apró sziget, a Sarstoon Island gyakori guatemalai-belize-i határvillongások helyszíne.",
+        "A helyi lakosság többnyire elszigetelt maja q'eqchi' és afro-karibi garífuna halászközösségekből áll."
+      ]
+    },
+    {
+      "id": "laguna-del-tigre-national-park-nature-v2",
+      "descriptionAdvanced": "A Parque Nacional Laguna del Tigre (A Tigris Lagúnája Nemzeti Park) Közép-Amerika legnagyobb egybefüggő édesvízi mocsárrendszere (humedales), és a Maya Bioszféra Rezervátum legnagyobb nemzeti parkja Petén megyében. Az UNESCO Ramsari-egyezménye által is védett, hatalmas, lagúnákkal és folyókkal szabdalt dzsungel kritikus fontosságú a nyugati félteke vándormadarai és a mezoamerikai nagyemlősök, különösen a jaguárok (amelyeket a helyiek 'tigre'-nek, tigrisnek neveznek) számára. Sajnos ez a hatalmas (több mint 300 000 hektáros) terület Guatemala egyik legveszélyeztetettebb ökoszisztémája: az állam gyenge jelenléte miatt narco-rancherek (drogkartellek), illegális fakitermelők és a kőolajipar (Xan mező) folyamatosan pusztítják az erdőt, hatalmas tüzeket okozva a száraz évszakban. Földrajz K8 — hatalmas vizesélőhelyek (Ramsar) és környezeti konfliktusok.",
+      "factsAdvanced": [
+        "Ez Közép-Amerika legnagyobb védett édesvízi láp- és mocsárrendszere (Ramsari terület).",
+        "A park a nevét a jaguárról kapta, amelyet a guatemalai vidékiek hagyományosan 'tigre'-nek neveznek.",
+        "Területén folyik a guatemalai kőolaj-kitermelés (petróleo) jelentős része (Xan olajmező).",
+        "A park az észak-amerikai vándormadarak egyik legfontosabb téli pihenőhelye.",
+        "Hatalmas részei pusztultak el az elmúlt évtizedekben illegális marhalegelők kialakítása és erdőtüzek miatt.",
+        "Az elszigetelt dzsungelben több prekolumbián maja romváros is megbújik (pl. El Perú-Waka')."
+      ]
+    },
+    {
+      "id": "cuevas-de-candelaria-nature-v2",
+      "descriptionAdvanced": "A Cuevas de Candelaria (Candelaria-barlangrendszer) Közép-Amerika egyik legnagyobb, leglátványosabb és kulturálisan legfontosabb karsztos barlanghálózata Alta Verapaz megye északi részén (a Karst de Candelaria Nemzeti Parkban). A földalatti labirintust a Río Candelaria véste ki a mészkőhegyből, és mintegy 30 kilométer hosszan kanyarog (ebből több kilométer magas boltívekkel). A barlangokat a maják szentként tisztelték: az alvilágba, a Xibalbába vezető kapuként tekintettek rájuk. A járatokban ma is hatalmas, akár 30 méter magas mészkőoszlopok (cseppkövek), földalatti vízesések és beomlott krátereken (cenoték) beömlő misztikus fénypászmák láthatók. A barlangrendszer nagy részét gumiabroncsokon lebegve (tubing), sötétben sodródva (a Candelaria folyón) fedezik fel az ide látogató ökoturisták. Földrajz K8 — karsztos (szpeleológiai) barlangrendszerek és a maja Xibalbá.",
+      "factsAdvanced": [
+        "Közép-Amerika egyik leghosszabb (kb. 30 km) és legbővízűbb karsztos barlanghálózata.",
+        "A Candelaria folyó (Río Candelaria) folyik rajta keresztül, amelyet barlangi 'tubing'-gal (gumibelsőn lebegve) lehet bejárni.",
+        "A maják számára a barlangrendszer az alvilág, a 'Xibalbá' egyik fő bejárata (szent hely) volt.",
+        "A barlangcsarnokok némelyike eléri a 30 méteres magasságot és 60 méteres szélességet.",
+        "Fellazult karsztablakain (beomlásokon) keresztül sok helyen drámai fénypászmák világítják meg a sötét vizet.",
+        "A park kezelését jórészt a helyi q'eqchi' maja közösségek végzik (pl. Mucbilpe közösség)."
+      ]
+    },
+    {
+      "id": "parque-nacional-rio-dulce-nature-v2",
+      "descriptionAdvanced": "A Río Dulce (Édes Folyó) egy viszonylag rövid (kb. 43 km), de földrajzilag és gazdaságilag kulcsfontosságú vízi útvonal, amely az Izabal-tó hatalmas víztömegét vezeti le a Karib-tengerbe (Amatique-öböl). A folyó az 'El Golfete' nevű tóvá szélesedik ki, mielőtt bevetné magát a híres Kanyonba (El Cañón del Río Dulce), ahol sűrű trópusi dzsungellel borított, függőleges, 100 méteres mészkőfalak között kanyarog. A folyó sötét, meleg vize az egyik utolsó közép-amerikai menedéke a kihalófélben lévő karibi manátusznak (tengeri tehén), amelyet a helyi Chocón Machacas biotóp próbál védeni. A folyót a spanyoloktól kezdve a kalózokig mindenki használta, ma pedig a jachtok (hurrikánmenedék) és az ökoturizmus paradicsoma, amit a garífuna és q'eqchi' kultúra övez. Földrajz K6 — karibi folyami torkolatok és mészkőkanyonok.",
+      "factsAdvanced": [
+        "Az Izabal-tavat (Guatemala legnagyobb tava) köti össze a Karib-tengerrel Livingstonnál.",
+        "Alsó folyásán egy látványos, 100 méter mély mészkő kanyonon halad keresztül.",
+        "A 'hurricane hole' (hurrikánmenedék) a Karib-tengeri jachtosok egyik legfontosabb kikötője.",
+        "Otthont ad a ritka és szigorúan védett karibi manátuszoknak (tengeri teheneknek).",
+        "A spanyol gyarmati időkben a Castillo de San Felipe erőd védte a kalózok betöréseitől.",
+        "A folyó feletti hatalmas híd (Puente Río Dulce) az egyik legfontosabb összeköttetés a Petén régió felé."
+      ]
+    },
+    {
+      "id": "laguna-chichoj-nature-v2",
+      "descriptionAdvanced": "A Laguna Chichoj egy festői, ködbe burkolózó magaslati tó Alta Verapaz megyében, közvetlenül San Cristóbal Verapaz városának szélén. A fenyő- és felhőerdőkkel (bosque nuboso) körbevett lagúna mély, hideg vize és a rajta lassan úszó ködfoltok (chipi-chipi) melankolikus szépséget árasztanak. Bár a tó fontos tájképalkotó elem és a helyi poqomchi' maják legendáinak (köztük egy elsüllyedt város történetének) helyszíne, ökológiai állapota aggasztó: a környező település és a mezőgazdaság szűretlen szennyvize miatt a tó egyre inkább eutrofizálódik (elalgásodik), és felszínét vízi jácintok (ninfa) lepik el. A helyiek komoly erőfeszítéseket tesznek a tavon tenyésző tőzeg (tul) betakarítására, amelyből hagyományos szőnyegeket fonnak (petates), és egyben próbálják megtisztítani a vizet. Földrajz K7 — magaslati tavak eutrofizációja és az ökológiai rehabilitáció.",
+      "factsAdvanced": [
+        "A tó szorosan San Cristóbal Verapaz városa mellé ékelodik be, 1 390 méter magasságban.",
+        "Vize hűvös, a tó környékét gyakran sűrű, szitáló hegyi köd (chipi-chipi) borítja.",
+        "Súlyos eutrofizációval küzd a városi szennyvíz és a mütrágyák bemosódása miatt.",
+        "A vízfelületet gyakran invazív vízi jácintok (ninfa) és nád (tul) borítják el.",
+        "A helyiek a 'tul' nádat begyujtik, hogy 'petates'-eket (hagyományos guatemalai fonott szőnyegeket) készítsenek.",
+        "A helyi legenda szerint a tó alján egy elsüllyedt falu fekszik büntetésből (hasonlóan sok más maja tó-legendához)."
+      ]
+    },
+    {
+      "id": "cerro-de-la-cruz-nature-v2",
+      "descriptionAdvanced": "A Cerro de la Cruz (A Kereszt Dombja) a legismertebb és legkönnyebben megközelíthető kilátópont Antigua Guatemala északi oldalán, a Cerro del Manchén lejtőjén. Ezt a kisebb magaslatot egy hatalmas, masszív kőkereszt koronázza meg, amelyet 1930-ban állítottak fel a város oltalmazására. A hegyoldalból elénk táruló látvány a világ egyik legklasszikusabb képeslap-panorámája: az előtérben Antigua piros cserepes tetői, rejtett udvarai és sárga barokk templomtornyai láthatók tökéletes rácsos (sakktábla) elrendezésben, míg a háttérben fenyegetően, mégis fenségesen magasodik a tökéletes kúp alakú Agua vulkán. A domb sűrű ciprus- és tölgyfákkal (cipreses) van beültetve, és népszerű gyalogos túra (bár a múltbeli közbiztonsági gondok miatt ma már turisztikai rendőrség őrzi). Földrajz K6 — vulkáni völgyek városépítészete (panoráma).",
+      "factsAdvanced": [
+        "Egy könnyen megmászható, sűrű fákkal borított domb Antigua Guatemala északi szélén.",
+        "A csúcson egy hatalmas kőkereszt áll (1930-ból), amely védi a várost.",
+        "Kínálja az ország leghíresebb 'képeslap-panorámáját': a gyarmati város és az Agua vulkán tökéletes együttesét.",
+        "A kilátóból jól kivehető Antigua spanyol gyarmati, szigorú sakktábla-szerű (rácsos) úthálózata.",
+        "A dombot borító növényzet foleg fenyőkből és ciprusfákból áll.",
+        "Az ösvény (bár aszfaltozott út is felvisz) közkedvelt a zarándokok és a sportolók körében."
+      ]
+    },
+    {
+      "id": "monterrico-nature-reserve-nature-v2",
+      "descriptionAdvanced": "Monterrico Guatemala legismertebb és legnépszerűbb tengerparti nyaralóhelye, amely a Csendes-óceán partján, Santa Rosa megyében fekszik. A falu fő vonzerejét a különleges, finom tapintású, koromfekete vulkáni homokos tengerpartja és az óceán hatalmas, gyakran veszélyes, szörfözésre alkalmas hullámai ('olas') adják. A város hátországát a 'Canal de Chiquimulilla', egy végtelen mangrove-csatornarendszer alkotja, amelyben motorcsónakkal (lancha) lehet hajnalban madárlesre és aligátornézőbe indulni. Monterrico ugyanakkor a guatemalai teknősvédelem központja is: az itt működő Biotopo Monterrico-Hawaii és a helyi 'Tortugarios' (teknőskeltetők) minden évben (főleg szeptember és december között) tízezer számra engedik szabadon az újszülött olajzöld fattyúteknősöket és kérgesteknősöket (liberación de tortugas), amely esemény mágnesként vonzza az ökoturistákat és a családokat. Sachkunde K5 — vulkáni partok és teknős-mentőprogramok.",
+      "factsAdvanced": [
+        "Guatemala leghíresebb fekete (vulkáni) homokos tengerpartja a Csendes-óceánon.",
+        "Szeptember és december között itt zajlik az ország legnagyobb tengeri teknős szabadon engedési ('liberación') programja.",
+        "A település mögött a kiterjedt 'Canal de Chiquimulilla' mocsaras mangroveerdeje fekszik.",
+        "A helyi CECON 'Tortugario' (Teknősvédelmi Központ) megvásárolja a helyiektől a tojásokat, hogy védett helyen keltse ki ket.",
+        "Az óceán sodrása és hullámzása ('resaca') gyakran extrém erős és veszélyes a fürdőzők számára.",
+        "A falu klímája egész évben tikkasztóan forró, a fekete homok a déli órákban szinte égeti a talpat."
+      ]
+    },
+    {
+      "id": "fuentes-georginas-nature-v2",
+      "descriptionAdvanced": "A Fuentes Georginas egy lélegzetelállító, vulkáni eredetű melegvízű fürdő (aguas termales) magasan a Zunil vulkán ködös lejtőin, Quetzaltenango (Xela) közelében. Az 1902-ben, Jorge Ubico diktátor (akinek a feleségét Georginának hívták) idején felfedezett és kiépített fürdő a guatemalai magasföld egyik leghíresebb pihenőhelye. A forró (akár 40-50 °C-os), kénes, gyógyító hatású víz egyenesen a vulkanikus sziklafalakból zuhog a természetes kövekből kialakított medencékbe. A fürdő egyedülálló varázsát a drámai kontraszt adja: miközben az ember a forró vízben ázik, a környező fagyos, több mint 2400 méter magasan fekvő felhőerdő (bosque nuboso) vastag páfrányai, óriási orchideái és a fákról csöpögő, sűrű fehér köd öleli körül. Földrajz K7 — geotermikus energia és a magaslati felhőerdők.",
+      "factsAdvanced": [
+        "A geotermikus hőforrás a 3 542 méter magas inaktív Zunil vulkán magmájából (kénes gőzökbol) nyeri a hojét.",
+        "Jorge Ubico elnök idején építették ki a fürdot, és feleségérol, Georgináról nevezték el.",
+        "A termálmedencék 2 400 méternél is magasabban, sűrű és fagyos felhőerdőben (bosque nuboso) találhatók.",
+        "A víz homérséklete az elso medencében meghaladhatja a 45 °C-ot, ami drasztikus kontraszt a fagyos hegyi levegővel.",
+        "A medencék mögötti mohás sziklafalakon gigantikus páfrányfák (helechos) és broméliák élnek.",
+        "A hely a helyi k'iche' maják számára szakrális jelentoségu is, a gyógyvíz és a vulkáni barlangok miatt."
+      ]
+    }
+  ]
+}

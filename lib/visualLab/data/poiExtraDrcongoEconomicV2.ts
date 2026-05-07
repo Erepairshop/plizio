@@ -16,13 +16,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Produces copper and cobalt", "Located in the Katanga region", "Major economic driver"]
     }, image: "/poi-images/cd-mine-tenke-fungurume-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Tenke-Fungurume-Mine steht für den kongolesischen Kupfer- und Kobaltgürtel wie kaum ein anderer Ort. In der Provinz Lualaba verbinden sich hier Erzvorkommen, Tagebau, Energiebedarf und Exportlogistik zu einem einzigen Wirtschaftsraum. Die Anlage liegt nahe Fungurume und zeigt, wie stark Rohstoffe die Raumordnung im Süden der Demokratischen Republik Kongo prägen. Für den Plizio-Unterricht eignet sich der Standort als Fallbeispiel für Globalisierung, Bergbau und Infrastruktur. Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-tenke-fungurume-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-tenke-fungurume-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Lualaba", "Kupfer und Kobalt", "Kongolesischer Kupfergürtel", "Nähe zu Fungurume", "Tagebau im Süden des Landes", "Bergbau als Exportmotor"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-tenke-fungurume-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -42,13 +42,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["One of Africa's largest gold mines", "Located in Haut-Uele province", "Uses automated systems"]
     }, image: "/poi-images/cd-mine-kibali-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kibali-Goldmine im Nordosten des Landes ist ein gutes Beispiel für modernen Großbergbau in einer abgelegenen Region. Rund um die Anlage in Haut-Uele trifft Goldförderung auf weite Distanzen, neue Infrastruktur und starke Abhängigkeit von internationalen Rohstoffmärkten. Der Standort zeigt, wie aus einem entlegenen Raum ein strategischer Wirtschaftspol werden kann. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume bietet Kibali einen klaren Zugang zu Ressourcen, Verkehr und Wertschöpfung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-kibali-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-kibali-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Haut-Uele", "Goldförderung", "Nordosten der DR Kongo", "Kibali Gold Mine", "Großbergbau", "Internationale Rohstoffmärkte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kibali-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -68,13 +68,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Near the city of Lubumbashi", "Open-pit operation", "Mines copper and cobalt"]
     }, image: "/poi-images/cd-mine-ruashi-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Ruashi liegt unweit von Lubumbashi und gehört zu den bekanntesten Kupfer- und Kobaltstandorten im Süden des Kongo. Der Tagebau macht sichtbar, wie eng Stadt, Industrie und Erzgewinnung in Haut-Katanga miteinander verflochten sind. Die Mine ist kein isolierter Punkt auf der Karte, sondern Teil eines ganzen Rohstoffgürtels mit Straßen, Energieversorgung und Verarbeitungswegen. Im Plizio-Unterricht lässt sich Ruashi sehr gut für Geografie K7 - Rohstoffe und Wirtschaftsräume einsetzen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-ruashi-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-ruashi-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfer und Kobalt", "Tagebaubetrieb", "Südlicher Rohstoffgürtel", "Wirtschaftsraum um Lubumbashi"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-ruashi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -94,13 +94,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["World-leading cobalt production", "Copper extraction as a byproduct", "Owned by Glencore"]
     }, image: "/poi-images/cd-mine-mutanda-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Mutanda-Mine zählt zu den markantesten Kobaltstandorten in Lualaba. Der Ort zeigt, wie eng Kupfer, Kobalt und internationale Batterielieferketten im südlichen Kongo verbunden sind. Zwischen Erzabbau, Transport und Marktpreisen entsteht ein Wirtschaftsraum, der weit über die Provinz hinaus wirkt. Für den Plizio-Unterricht eignet sich Mutanda als Beispiel für moderne Rohstoffgeografie, Exportabhängigkeit und die Rolle großer Betreiber im Bergbau. Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-mutanda-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-mutanda-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Lualaba", "Kobaltproduktion", "Kupfer als Nebenprodukt", "Mutanda Mine", "Weltmarkt für Batterierohstoffe", "Südlicher Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-mutanda-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -120,13 +120,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Part of the copper belt", "Underground and open-pit", "Produces copper cathodes"]
     }, image: "/poi-images/cd-mine-kamoto-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Kamoto ist einer der klassischen Namen im kongolesischen Kupfergürtel und steht für eine Mischung aus Untertage- und Tagebau. Der Standort in der Region Katanga zeigt, wie tief Bergbau die Wirtschaftslandschaft von Lualaba und Haut-Katanga geprägt hat. Hier geht es nicht nur um Erz, sondern auch um Verarbeitungsstufen, Energie und Transport in einem eng verflochtenen Netz. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume ist Kamoto ein besonders anschauliches Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-kamoto-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-kamoto-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kongolesischer Kupfergürtel", "Untertage- und Tagebau", "Provinz Lualaba", "Region Katanga", "Kamoto Copper Mine", "Kupferkathoden"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kamoto-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -146,13 +146,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Extremely high copper grade", "Green energy supply planned", "Huge reserves"]
     }, image: "/poi-images/cd-mine-kamoa-kakula-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Kamoa-Kakula-Komplex gilt als einer der modernsten Kupferstandorte der DR Kongo. Zwischen Kamoa und Kakula entsteht in Lualaba ein industrieller Raum, in dem Geologie, Aufbereitung und globale Lieferketten direkt zusammenlaufen. Die Anlage ist ein gutes Beispiel dafür, wie neue Großprojekte das Profil eines Rohstofflandes verändern können. Für den Plizio-Unterricht passt der Ort sehr gut zu Geografie K7 - Rohstoffe und Wirtschaftsräume sowie zu globalen Wertschöpfungsketten.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-kamoa-kakula-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-kamoa-kakula-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Lualaba", "Kamoa und Kakula", "Kupferförderung", "Kamoa Copper SA", "Ivanhoe Mines", "Zijin Mining"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kamoa-kakula-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -172,13 +172,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Rich in zinc and copper", "Near the border with Zambia", "Historic mining site"]
     }, image: "/poi-images/cd-mine-kipushi-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Kipushi ist ein traditionsreicher Bergbauort südlich von Lubumbashi, der besonders durch Zink und Kupfer bekannt ist. Der Standort verbindet alte Bergbautradition mit neuen wirtschaftlichen Erwartungen, weil Infrastruktur, Verarbeitungsanlagen und Arbeitsplätze eng zusammenhängen. In der Geografie zeigt Kipushi sehr gut, wie ein einzelner Minenort ganze Räume in Haut-Katanga strukturieren kann. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume ist Kipushi ein prägnantes Fallbeispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-kipushi-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-kipushi-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Zink und Kupfer", "Kipushi Corporation", "Untertagebergbau", "Südlicher Bergbauraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kipushi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -198,13 +198,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Focus on copper extraction", "Advanced technology", "Major employer"]
     }, image: "/poi-images/cd-mine-kinsevere-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kinsevere-Mine zeigt den industriellen Charakter des Bergbaus im Raum Lubumbashi besonders deutlich. Hier stehen Kupferkonzentrat, Aufbereitung und die Nähe zu wichtigen Verkehrswegen im Mittelpunkt. Der Ort macht sichtbar, dass Bergbau im Kongo nicht nur aus dem Abbau selbst besteht, sondern auch aus Logistik, Stromversorgung und Exportketten. Für den Plizio-Unterricht eignet sich Kinsevere für Geografie K7 - Rohstoffe und Wirtschaftsräume und für die Analyse von Industrie- und Rohstoffräumen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-kinsevere-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-kinsevere-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfermine", "Kinsevere Mine", "Aufbereitung und Export", "Industrieller Bergbauraum"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kinsevere-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -224,13 +224,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Produces high-quality tin", "Located in North Kivu", "Reduces conflict mineral trade"]
     }, image: "/poi-images/cd-mine-bisie-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Bisie liegt weit im Nordosten des Landes und ist vor allem als bedeutender Zinnstandort bekannt. Der Ort in Nord-Kivu zeigt, wie Rohstoffgewinnung auch in schwer zugänglichen Wald- und Hügellandschaften organisiert wird. Zwischen Abbau, Transport und regionalen Sicherheitsfragen entsteht hier ein sehr spezieller Wirtschaftsraum. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume bietet Bisie einen klaren Zugang zu Fragen von Lage, Infrastruktur und Nutzung natürlicher Ressourcen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-bisie-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-bisie-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Nord-Kivu", "Zinnbergbau", "Bisie Mine", "Abgelegene Lage", "Rohstoffraum im Nordosten", "Wald- und Hügellandschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-bisie-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -250,13 +250,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Center of diamond mining", "Located near Mbuji-Mayi", "State-managed"]
     }, image: "/poi-images/cd-mine-miba-mbuji-mayi-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "MIBA in Mbuji-Mayi steht für die lange Diamantengeschichte der DR Kongo. Der Name ist mit Bakwanga, der Stadt Mbuji-Mayi und dem industriellen Diamantenabbau in Kasai-Oriental verbunden. Der Ort zeigt, wie sehr ein Rohstoffzentrum die Entwicklung einer ganzen Stadt prägen kann - von Arbeitsplätzen bis zu Verkehrsachsen. Im Plizio-Unterricht ist MIBA ein sehr gutes Beispiel für Geografie K7 - Rohstoffe und Wirtschaftsräume und für die Rolle von Diamanten im Landesinneren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-miba-mbuji-mayi-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-miba-mbuji-mayi-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Mbuji-Mayi", "Provinz Kasai-Oriental", "Société Minière de Bakwanga", "Diamanten", "Bakwanga", "Industriegeschichte des Kongo"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-miba-mbuji-mayi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -276,13 +276,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Alluvial diamonds", "Kasai province", "Major source of income"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Tshikapa ist einer der wichtigsten Diamantorte im Westen des Kongo und verbindet Handel, Alluvialabbau und regionale Mobilität. Die Stadt in der Provinz Kasaï zeigt, wie Rohstoffe lokale Märkte formen und wie sich daraus ein ganz eigener urbaner Raum entwickelt. Hier stehen Diamanten, Flussnähe und der Austausch mit anderen Teilen des Landes im Mittelpunkt. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume ist Tshikapa ein besonders greifbares Beispiel für Ressourcenstädte.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-tshikapa-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-tshikapa-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Kasaï", "Diamantenhandel", "Tshikapa", "Alluvialbergbau", "Regionale Marktstadt", "Landesinneres"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-tshikapa-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -302,13 +302,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Oil production in Congo", "Located near Muanda", "Only coastal province"]
     }, image: "/poi-images/cd-oil-perenco-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Ölsektor von Perenco an der Atlantikküste zeigt eine andere Seite der kongolesischen Wirtschaft. In Muanda treffen Offshore-Förderung, Küsteninfrastruktur und Exportlogistik aufeinander, sodass Energiegewinnung direkt mit dem Seehandel verbunden ist. Der Standort macht klar, dass der Kongo nicht nur ein Bergbauland ist, sondern auch einen Öl- und Küstenraum besitzt. Für Plizio Geografie K7 - Energie und Küstenwirtschaft ist Perenco ein sehr geeignetes Fallbeispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-oil-perenco-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-oil-perenco-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Muanda", "Atlantikküste", "Offshore-Förderung", "Perenco Congo", "Kongo Central", "Energie- und Exportsektor"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-oil-perenco-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -328,13 +328,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Inga I and II in operation", "Huge hydroelectric potential", "Supplies power for mines"]
     }, image: "/poi-images/cd-dam-inga-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Die Inga-Talsperren am Kongo-Fluss sind ein Schlüsselort für die Energiegeografie der DR Kongo. Zwischen Inga I und Inga II zeigt sich, wie Wasserkraft, Fernversorgung und industrielle Erwartungen zusammenkommen. Der Standort in Kongo Central ist weit mehr als ein technisches Bauwerk: Er prägt Stromnetze, Wirtschaftsplanung und Zukunftsdebatten im ganzen Land. Für Plizio Geografie K7 - Energie und Flüsse ist Inga ein klassisches Beispiel für Wasserkraft und Standortfaktoren.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-dam-inga-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-dam-inga-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kongo-Fluss", "Inga I", "Inga II", "Provinz Kongo Central", "Wasserkraft", "Nationales Stromnetz"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-dam-inga-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -354,13 +354,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Industrial facility", "Near Kinshasa", "Former prestige project"]
     }, image: "/poi-images/cd-industry-maluku-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Maluku am Rand von Kinshasa steht für ein industrielles und logistisches Vorfeld der Hauptstadt. Die Lage am Kongo-Fluss macht den Ort für Lagerung, Verarbeitung und Verkehr interessant, weil städtische Nachfrage und Flussanbindung hier zusammenkommen. Der Raum zeigt, wie Industrie in der DR Kongo oft an Flussufern wächst und sich an die Metropole Kinshasa anbindet. Für Plizio Geografie K7 - Stadtwirtschaft und Verkehr ist Maluku ein sehr anschauliches Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-industry-maluku-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-industry-maluku-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kinshasa", "Maluku", "Kongo-Fluss", "Industriezone", "Stadtnahe Logistik", "Metropolraum Kinshasa"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-maluku-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -380,13 +380,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Cement production", "City of Lukala", "Important for infrastructure"]
     }, image: "/poi-images/cd-industry-cilu-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "CILU steht für die Zementproduktion in Lukala und damit für einen wichtigen Baustoffstandort in Kongo Central. Die Fabrik zeigt, wie Industrien dort entstehen, wo Verkehr, Absatzmärkte und Rohstoffe zusammenpassen. Zement ist in der Hauptstadtregion und im Süden des Landes stark gefragt, weshalb der Standort eine klare regionale Funktion besitzt. Für Plizio Geografie K7 - Industrie und Versorgung ist CILU ein gutes Beispiel für schwerindustrielle Standortlogik.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-industry-cilu-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-industry-cilu-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Lukala", "Provinz Kongo Central", "CILU", "Zementproduktion", "Baustoffindustrie", "Versorgung der Hauptstadtregion"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-cilu-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -406,13 +406,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Largest port in the country", "Connects Congo to the ocean", "Most important trading base"]
     }, image: "/poi-images/cd-port-matadi-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Hafen von Matadi ist einer der wichtigsten Verkehrsknoten der DR Kongo. Am Unterlauf des Kongo-Flusses bündelt er Import, Export und den Weitertransport Richtung Hauptstadtregion. Die Lage in Kongo Central zeigt, wie sehr Fluss, Straße und Eisenbahn zusammenarbeiten müssen, damit ein Binnenmarkt überhaupt versorgt werden kann. Für Plizio Geografie K7 - Verkehr und Handel ist Matadi ein zentrales Beispiel für einen strategischen Flusshafen.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-matadi-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-matadi-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Matadi", "Provinz Kongo Central", "Kongo-Fluss", "Handels- und Umschlaghafen", "Verbindung zur Hauptstadtregion", "Fluss- und Landverkehr"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-matadi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -432,13 +432,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Deep water port", "On the Atlantic coast", "Oil export point"]
     }, image: "/poi-images/cd-port-banana-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Banana liegt an der Atlantikküste nahe der Mündung des Kongo und hat damit eine klassische Schlüsselrolle für den Seehandel. Der Ort markiert den Übergang zwischen Flusswirtschaft und Ozeanwirtschaft, was für die Außenanbindung der DR Kongo besonders wichtig ist. In Kongo Central wird hier sichtbar, wie Küste, Hafenfunktion und internationale Routen zusammenkommen. Für Plizio Geografie K7 - Küstenwirtschaft und Handel ist Banana ein sehr klares Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-banana-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-banana-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Atlantikküste", "Mündung des Kongo", "Banana", "Provinz Kongo Central", "Seehandel", "Küstenraum des Landes"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-banana-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -458,13 +458,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Export of wood", "Located on the Congo River", "Historical significance"]
     }, image: "/poi-images/cd-port-boma-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Boma ist ein historisch gewachsener Flusshafen, der eng mit der frühen Handels- und Verwaltungsgeschichte des Kongo verbunden ist. Die Stadt in Kongo Central liegt an einer wichtigen Wasserroute und zeigt, wie alte Hafenorte bis heute eine wirtschaftliche Funktion behalten. Zwischen Flusstransport, regionalem Handel und städtischer Entwicklung entsteht hier ein Raum mit langer Kontinuität. Für Plizio Geografie K7 - Verkehr und Handel ist Boma sehr gut geeignet.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-boma-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-boma-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Boma", "Provinz Kongo Central", "Kongo-Fluss", "Historischer Hafen", "Regionaler Handel", "Koloniale Handelsgeschichte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-boma-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -484,13 +484,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Connection to the inland", "Located on the Pool Malebo", "Center of river navigation"]
     }, image: "/poi-images/cd-port-kinshasa-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Hafen von Kinshasa ist der große Umschlagpunkt der Hauptstadt am Pool Malebo. Hier laufen Flussverkehr, Versorgung der Metropole und der Austausch mit dem gegenüberliegenden Brazzaville-Raum zusammen. Als Binnenhafen zeigt Kinshasa, wie wichtig der Kongo-Fluss für die wirtschaftliche Organisation der Hauptstadt ist. Für Plizio Geografie K7 - Stadtwirtschaft und Verkehr ist dieser Ort ein besonders anschauliches Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-kinshasa-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-kinshasa-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kinshasa", "Pool Malebo", "Kongo-Fluss", "Binnenhafen", "Hauptstadtversorgung", "Gegenüber von Brazzaville"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-kinshasa-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -510,13 +510,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["End point of navigation", "Near the Boyoma Falls", "Important for Eastern Congo"]
     }, image: "/poi-images/cd-port-kisangani-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Kisangani ist der wichtigste Flusshafen im Nordosten des Landes und ein klassischer Knoten für Handel und Weitertransport. Die Lage am Kongo-Fluss macht die Stadt zu einem strategischen Zwischenpunkt zwischen dem östlichen Landesinneren und dem großen Flusssystem Richtung Westen. Damit verbindet Kisangani regionale Märkte mit nationalen Verkehrswegen. Für Plizio Geografie K7 - Verkehr und Handel ist der Ort ein sehr gutes Beispiel für Binnenhafen und Drehscheibenfunktion.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-kisangani-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-kisangani-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kisangani", "Provinz Tshopo", "Kongo-Fluss", "Flusshafen", "Nordöstlicher Handelsknoten", "Binnenland-Verkehr"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-kisangani-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -536,13 +536,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["On the Kasai River", "Connection to the railway", "Central transshipment point"]
     }, image: "/poi-images/cd-port-ilebo-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Ilebo ist ein wichtiger Flusshafen im Landesinneren und bildet zusammen mit der Bahn einen zentralen Umschlagplatz. Die Stadt in Kasaï zeigt, wie Wasserwege und Schienenverkehr im Kongo eng ineinandergreifen müssen, um große Distanzen zu überbrücken. Ilebo ist damit ein Paradebeispiel für einen logistischen Knoten im Binnenland. Für Plizio Geografie K7 - Verkehr und Handel ist der Ort besonders lehrreich.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-ilebo-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-ilebo-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Ilebo", "Provinz Kasaï", "Kasai-Fluss", "Fluss-Bahn-Umschlag", "Binnenhafen", "Logistischer Knotenpunkt"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-ilebo-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -562,13 +562,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["On Lake Tanganyika", "Trade with Tanzania", "Important inland port"]
     }, image: "/poi-images/cd-port-kalemie-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Kalemie am Ufer des Tanganjikasees verbindet Seehandel, Fischerei und regionale Mobilität. Der Hafen in der Provinz Tanganyika zeigt, wie ein Binnensee einen ganzen Wirtschaftsraum strukturieren kann. Von hier aus laufen Verkehrsströme in Richtung Uferstädte, Grenzräume und weiter ins Landesinnere. Für Plizio Geografie K7 - Verkehr und Seenwirtschaft ist Kalemie ein sehr anschauliches Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-kalemie-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-kalemie-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kalemie", "Tanganjikasee", "Provinz Tanganyika", "Seehafen", "Fischerei und Handel", "Regionale Verkehrsdrehscheibe"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-kalemie-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -588,13 +588,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Located on the Inkisi River", "Generates renewable energy", "Supports Kinshasa"]
     }, image: "/poi-images/cd-mine-zongo-ii-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Zongo II steht für die Energiegewinnung im Westen der DR Kongo und ergänzt die Wasserkraftlandschaft des Landes. Der Standort im Raum Zongo zeigt, wie Flüsse und technische Infrastruktur gemeinsam Strom für Haushalte und Wirtschaft bereitstellen können. Gerade in einer Region mit wachsendem Bedarf ist die Rolle solcher Anlagen strategisch wichtig. Für Plizio Geografie K7 - Energie und Flüsse eignet sich Zongo II sehr gut als Fallbeispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-zongo-ii-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-zongo-ii-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Zongo", "Provinz Kongo Central", "Wasserkraft", "Energieversorgung", "Flussstandort", "Industrielle Strombasis"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-zongo-ii-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -614,13 +614,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["South Kivu province", "Artisanal mining", "Rich in gold deposits"]
     }, image: "/poi-images/cd-mine-kamituga-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Kamituga ist ein bekannter Goldort in Süd-Kivu und zeigt die Bedeutung des kleinteiligen und regionalen Bergbaus im Osten des Landes. Die Stadt liegt in einem Raum, in dem Handel, Abbau und lokale Wege stark voneinander abhängen. Gold ist hier nicht nur ein Rohstoff, sondern Teil des Alltags, der Migration und der regionalen Wirtschaft. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume ist Kamituga ein sehr brauchbares Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-kamituga-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-kamituga-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Süd-Kivu", "Goldbergbau", "Kamituga", "Ostkongolesischer Rohstoffraum", "Regionale Handelswege", "Kleinbergbau"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-kamituga-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -640,13 +640,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Produces Primus beer", "Traditional company", "Located in Kinshasa"]
     }, image: "/poi-images/cd-industry-bralima-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Bralima steht für die Getränkeindustrie in Kinshasa und damit für einen ganz anderen Typ von Wirtschaftsraum als die Minen des Ostens. Die Brauerei zeigt, wie ein urbaner Markt, Konsumgüter und industrielle Produktion in der Hauptstadt zusammenwirken. Marken wie Primus sind eng mit dem Alltagsleben in der DR Kongo verknüpft und machen die Stadtökonomie greifbar. Für Plizio Geografie K7 - Industrie und Stadtwirtschaft ist Bralima ein besonders anschauliches Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-industry-bralima-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-industry-bralima-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Kinshasa", "Bralima", "Getränkeindustrie", "Primus", "Städtischer Konsummarkt", "Heineken-Gruppe"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-bralima-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -666,13 +666,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Former uranium mine", "Historical significance", "Officially closed"]
     }, image: "/poi-images/cd-industry-shinkolobwe-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Shinkolobwe ist ein historisch außergewöhnlicher Ort im Bergbauraum von Haut-Katanga, weil hier Uranerz die Weltpolitik berührte. Der Name steht für eine Mine, deren Bedeutung weit über die Region hinausreichte und die im 20. Jahrhundert international bekannt wurde. Heute ist der Ort vor allem ein Beispiel dafür, wie Rohstoffe, Geschichte und geopolitische Interessen ineinandergreifen. Für Plizio Geografie K7 - Rohstoffe, Geschichte und Wirtschaft ist Shinkolobwe ein besonders eindrückliches Fallbeispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-industry-shinkolobwe-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-industry-shinkolobwe-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Haut-Katanga", "Uranerz", "Shinkolobwe Mine", "Belgisch-Kongo", "20. Jahrhundert", "Geopolitische Bedeutung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-shinkolobwe-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -692,13 +692,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Located in South Kivu", "Commercial mining", "Mines gold"]
     }, image: "/poi-images/cd-mine-twangiza-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Twangiza ist eine moderne Goldmine im Osten der DR Kongo und zeigt sehr deutlich die wirtschaftliche Rolle von Süd-Kivu. Der Standort liegt in einer Region, in der Bergbau, Verkehrswege und die Nähe zu den Großen Seen eng zusammenhängen. Twangiza steht damit für den Übergang von regionalem Goldabbau zu einem industriell organisierten Rohstoffprojekt. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume eignet sich der Ort sehr gut als Beispiel für den ostkongolesischen Goldsektor.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-twangiza-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-twangiza-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Süd-Kivu", "Goldmine Twangiza", "Moderne kommerzielle Förderung", "Region der Großen Seen", "Ostkongolesischer Bergbau", "Rohstoffexport"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-twangiza-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -718,13 +718,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Open-pit mine", "Maniema province", "Significant gold deposits"]
     }, image: "/poi-images/cd-mine-namoya-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Namoya liegt in Maniema und gehört zu den Goldstandorten, die den Rohstoffreichtum des zentralen Ostkongo sichtbar machen. Der Ort ist ein gutes Beispiel dafür, wie sich selbst abgelegene Landesteile durch Bergbau in regionale Wirtschaftsnetze einbinden. Goldförderung, Transport und lokale Arbeitsmärkte bilden hier eine enge Einheit. Für den Plizio-Unterricht ist Namoya ideal für Geografie K7 - Rohstoffe und Wirtschaftsräume sowie für die Analyse von Binnenlage und Erschließung.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-namoya-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-namoya-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Provinz Maniema", "Goldmine Namoya", "Binnenlage", "Ost- und Zentralraum", "Bergbauwirtschaft", "Regionale Erschließung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-namoya-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -744,13 +744,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Right on the equator", "Crossing of two rivers", "Trade center of the province"]
     }, image: "/poi-images/cd-port-mbandaka-economic-v2.webp",
     descriptionAdvanced: {
-      de: "",
+      de: "Der Flusshafen von Mbandaka liegt direkt am Äquator und bündelt Handel, Flussverkehr und urbane Versorgung in einer einzigen Lage. Die Stadt an der Mündung des Ruki in den Kongo-Fluss zeigt, wie sehr Wasserwege im Äquatorraum die wirtschaftliche Ordnung bestimmen. Mbandaka ist damit nicht nur ein Hafen, sondern auch ein regionales Zentrum mit klarer logistischer Funktion. Für Plizio Geografie K7 - Verkehr und Handel ist der Ort ein sehr gutes Beispiel.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-port-mbandaka-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-port-mbandaka-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Mbandaka", "Direkt am Äquator", "Kongo-Fluss", "Ruki-Fluss", "Provinz Équateur", "Flusshafen"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-port-mbandaka-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []
@@ -770,13 +770,13 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: ["Copper and cobalt", "Proximity to Lubumbashi", "Open-pit operation"]
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Luiswishi liegt nahe Lubumbashi und gehört zu den wichtigen Kupfer- und Kobaltstandorten im südlichen Rohstoffgürtel. Der Ort zeigt, wie eng hochwertige Erze, Stadtnähe und industrielle Verarbeitung zusammenhängen. In Haut-Katanga wird an solchen Standorten sichtbar, wie Bergbau nicht nur Gruben, sondern ganze Versorgungs- und Exportketten erzeugt. Für Plizio Geografie K7 - Rohstoffe und Wirtschaftsräume ist Luiswishi ein klares Beispiel für den südkongolesischen Bergbauraum.",
       hu: "Ez egy részletes, K7-K8 szintű leírás a(z) cd-mine-luiswishi-economic-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
       ro: "Descriere unică pentru cd-mine-luiswishi-economic-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
       en: ""
     },
     factsAdvanced: {
-      de: [],
+      de: ["Nähe zu Lubumbashi", "Provinz Haut-Katanga", "Kupfer und Kobalt", "Luiswishi Mine", "Südlicher Rohstoffgürtel", "Bergbau und Verarbeitung"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-mine-luiswishi-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: []

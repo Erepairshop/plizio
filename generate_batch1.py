@@ -1,309 +1,320 @@
 import json
-import os
 
-faqs = {
-    "bosnia": {
-        "de": [
-            {"q": "Was ist die Hauptstadt von Bosnien und Herzegowina?", "a": "Sarajevo ist die Hauptstadt und größte Stadt des Landes."},
-            {"q": "Welche Währung wird in Bosnien verwendet?", "a": "Die Währung ist die Konvertible Mark (BAM)."},
-            {"q": "Wie viele Entitäten gibt es in Bosnien und Herzegowina?", "a": "Das Land besteht aus zwei Entitäten: der Föderation Bosnien und Herzegowina und der Republika Srpska."},
-            {"q": "Welche Sprachen werden offiziell gesprochen?", "a": "Die Amtssprachen sind Bosnisch, Kroatisch und Serbisch."},
-            {"q": "Ist Bosnien ein Mitglied der EU?", "a": "Bosnien und Herzegowina ist ein Beitrittskandidat für die Europäische Union."}
-        ],
-        "hu": [
-            {"q": "Mi Bosznia-Hercegovina fővárosa?", "a": "Szarajevó az ország fővárosa és legnagyobb városa."},
-            {"q": "Milyen pénznemet használnak Boszniában?", "a": "A hivatalos pénznem a konvertibilis márka (BAM)."},
-            {"q": "Hány entitásból áll Bosznia-Hercegovina?", "a": "Az ország két entitásból áll: a Bosznia-hercegovinai Föderációból és a Szerb Köztársaságból."},
-            {"q": "Melyek a hivatalos nyelvek?", "a": "A hivatalos nyelvek a bosnyák, a horvát és a szerb."},
-            {"q": "Tagja-e Bosznia az EU-nak?", "a": "Bosznia-Hercegovina az Európai Unió tagjelölt országa."}
-        ],
-        "ro": [
-            {"q": "Care este capitala Bosniei și Herțegovinei?", "a": "Sarajevo este capitala și cel mai mare oraș al țării."},
-            {"q": "Ce monedă se folosește în Bosnia?", "a": "Moneda oficială este marca convertibilă (BAM)."},
-            {"q": "Din câte entități este formată Bosnia și Herțegovina?", "a": "Țara este formată din două entități: Federația Bosniei și Herțegovinei și Republica Srpska."},
-            {"q": "Ce limbi oficiale se vorbesc?", "a": "Limbile oficiale sunt bosniaca, croata și sârba."},
-            {"q": "Este Bosnia membră a UE?", "a": "Bosnia și Herțegovina este o țară candidată la Uniunea Europeană."}
-        ],
-        "en": [
-            {"q": "What is the capital of Bosnia and Herzegovina?", "a": "Sarajevo is the capital and largest city of the country."},
-            {"q": "What currency is used in Bosnia?", "a": "The currency is the Convertible Mark (BAM)."},
-            {"q": "How many entities are there in Bosnia and Herzegovina?", "a": "The country consists of two entities: the Federation of Bosnia and Herzegovina and the Republika Srpska."},
-            {"q": "What languages are officially spoken?", "a": "The official languages are Bosnian, Croatian, and Serbian."},
-            {"q": "Is Bosnia a member of the EU?", "a": "Bosnia and Herzegovina is a candidate country for the European Union."}
-        ]
+data = {
+  "lang": "en",
+  "country": "guinea",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kindia-cities-v2",
+      "descriptionAdvanced": "Located approximately 137 kilometers northeast of Conakry, Kindia serves as the administrative headquarters of the Kindia Region in western Guinea. Established around 1904 following the construction of the Conakry-Kankan railway, the city quickly grew as an agricultural hub, particularly known for its extensive pineapple, banana, and citrus plantations. The urban center lies near the foot of Mount Gangan, providing a dramatic backdrop and a cooler microclimate than the coastal capital. Kindia is characterized by its vibrant markets, such as the Wondy market, where local farmers trade fresh produce daily. The region is also significant for its bauxite mining activities, which contribute heavily to the national economy alongside agriculture. Kindia's diverse population mainly comprises the Susu and Fulani ethnic groups, creating a rich cultural tapestry. Geography K7 — African agricultural centers and regional geography.",
+      "factsAdvanced": [
+        "Situated about 137 km northeast of Conakry.",
+        "Founded around 1904 with the railway construction.",
+        "Home to the Mount Gangan peak rising nearby.",
+        "Known nationally for pineapple and banana production.",
+        "Headquarters of the Armed Forces of Guinea's first military region.",
+        "The population exceeded 170,000 residents in the 2014 census."
+      ]
     },
-    "ba-sarajevo": {
-        "de": [
-            {"q": "Wofür ist Sarajevo historisch bekannt?", "a": "Es ist bekannt als Ort des Attentats auf Erzherzog Franz Ferdinand, das den Ersten Weltkrieg auslöste."},
-            {"q": "Wann fanden die Olympischen Winterspiele in Sarajevo statt?", "a": "Sarajevo war 1984 Gastgeber der Olympischen Winterspiele."},
-            {"q": "Wie wird Sarajevo oft genannt?", "a": "Es wird oft als das 'Jerusalem Europas' bezeichnet, aufgrund seiner religiösen Vielfalt."},
-            {"q": "Welcher Fluss fließt durch Sarajevo?", "a": "Der Fluss Miljacka fließt durch das Stadtzentrum."},
-            {"q": "Was ist das historische Zentrum von Sarajevo?", "a": "Baščaršija ist der alte Basar und das historische Zentrum der Stadt."}
-        ],
-        "hu": [
-            {"q": "Miről nevezetes Szarajevó történelmileg?", "a": "Itt történt a Ferenc Ferdinánd főherceg elleni merénylet, amely kirobbantotta az első világháborút."},
-            {"q": "Mikor rendeztek téli olimpiát Szarajevóban?", "a": "Szarajevó 1984-ben adott otthont a téli olimpiai játékoknak."},
-            {"q": "Hogyan nevezik gyakran Szarajevót?", "a": "Gyakran emlegetik 'Európa Jeruzsálemeként' a vallási sokszínűsége miatt."},
-            {"q": "Melyik folyó folyik át Szarajevón?", "a": "A Miljacka folyó szeli át a városközpontot."},
-            {"q": "Mi Szarajevó történelmi központja?", "a": "A Baščaršija a régi bazár és a város történelmi központja."}
-        ],
-        "ro": [
-            {"q": "Pentru ce este faimos Sarajevo din punct de vedere istoric?", "a": "Este cunoscut ca locul atentatului asupra arhiducelui Franz Ferdinand, care a declanșat Primul Război Mondial."},
-            {"q": "Când au avut loc Jocurile Olimpice de iarnă la Sarajevo?", "a": "Sarajevo a găzduit Jocurile Olimpice de iarnă în 1984."},
-            {"q": "Cum este supranumit adesea orașul Sarajevo?", "a": "Este adesea numit 'Ierusalimul Europei' datorită diversității sale religioase."},
-            {"q": "Ce râu curge prin Sarajevo?", "a": "Râul Miljacka traversează centrul orașului."},
-            {"q": "Care este centrul istoric al orașului Sarajevo?", "a": "Baščaršija este vechiul bazar și centrul istoric al orașului."}
-        ],
-        "en": [
-            {"q": "What is Sarajevo historically famous for?", "a": "It is known as the site of the assassination of Archduke Franz Ferdinand, which triggered World War I."},
-            {"q": "When were the Winter Olympics held in Sarajevo?", "a": "Sarajevo hosted the Winter Olympic Games in 1984."},
-            {"q": "What is Sarajevo often called?", "a": "It is often called the 'Jerusalem of Europe' due to its religious diversity."},
-            {"q": "Which river flows through Sarajevo?", "a": "The Miljacka River flows through the city center."},
-            {"q": "What is the historical center of Sarajevo?", "a": "Baščaršija is the old bazaar and the historical center of the city."}
-        ]
+    {
+      "id": "labe-cities-v2",
+      "descriptionAdvanced": "Labé is the principal city of the Fouta Djallon region in middle Guinea, positioned at an elevation of roughly 1,026 meters above sea level. Founded in 1755 by Karamoko Alpha mo Labé, an Islamic scholar, the city has maintained its status as a critical center of Islamic learning and Fulani culture for centuries. Its high-altitude location grants it a temperate climate, which is relatively cool compared to the rest of the country, making it a prominent agricultural zone for potatoes, onions, and various fruits. The city serves as a vital commercial crossroads, connecting Guinea with neighboring Senegal and Mali through extensive trade networks. The grand mosque of Labé stands as a major architectural and spiritual landmark, drawing worshippers from across the region. Labé's historical significance and thriving local economy make it one of Guinea's most important urban centers. History K8 — Islamic centers in West Africa.",
+      "factsAdvanced": [
+        "Founded in 1755 by the scholar Karamoko Alpha mo Labé.",
+        "Located at an elevation of approximately 1,026 meters.",
+        "Principal city of the mountainous Fouta Djallon region.",
+        "Population reached over 141,000 in the 2014 census.",
+        "Key commercial hub for trade with Senegal and Mali.",
+        "Known for its large central mosque and Islamic education."
+      ]
     },
-    "ba-banjaluka": {
-        "de": [
-            {"q": "Welche Rolle spielt Banja Luka in der Republika Srpska?", "a": "Es ist das administrative Zentrum und die de facto Hauptstadt der Republika Srpska."},
-            {"q": "Welcher Fluss fließt durch Banja Luka?", "a": "Die Vrbas fließt durch die Stadt."},
-            {"q": "Was ist eine berühmte Festung in Banja Luka?", "a": "Die Festung Kastel ist eines der ältesten Baudenkmäler der Stadt."},
-            {"q": "Wofür ist Banja Luka bekannt?", "a": "Sie ist bekannt für ihre vielen Alleen, Parks und ihr reges Nachtleben."},
-            {"q": "Welche Kathedrale ist ein Wahrzeichen der Stadt?", "a": "Die Christ-Erlöser-Kathedrale im Stadtzentrum."}
-        ],
-        "hu": [
-            {"q": "Milyen szerepet tölt be Banja Luka a Szerb Köztársaságban?", "a": "Ez a Szerb Köztársaság adminisztratív központja és de facto fővárosa."},
-            {"q": "Melyik folyó folyik át Banja Lukán?", "a": "Az Orbász (Vrbas) folyó szeli át a várost."},
-            {"q": "Melyik a leghíresebb erőd Banja Lukában?", "a": "A Kastel erőd a város egyik legrégebbi műemléke."},
-            {"q": "Miről ismert Banja Luka?", "a": "Számos fasoráról, parkjáról és pezsgő éjszakai életéről ismert."},
-            {"q": "Melyik katedrális a város jelképe?", "a": "A városközpontban található Krisztus Megváltó székesegyház."}
-        ],
-        "ro": [
-            {"q": "Ce rol are Banja Luka în Republika Srpska?", "a": "Este centrul administrativ și capitala de facto a Republika Srpska."},
-            {"q": "Ce râu curge prin Banja Luka?", "a": "Râul Vrbas traversează orașul."},
-            {"q": "Care este o fortăreață faimoasă din Banja Luka?", "a": "Fortăreața Kastel este unul dintre cele mai vechi monumente ale orașului."},
-            {"q": "Pentru ce este cunoscut Banja Luka?", "a": "Este cunoscut pentru numeroasele sale bulevarde, parcuri și viața de noapte vibrantă."},
-            {"q": "Care catedrală este un simbol al orașului?", "a": "Catedrala Hristos Mântuitorul din centrul orașului."}
-        ],
-        "en": [
-            {"q": "What role does Banja Luka play in Republika Srpska?", "a": "It is the administrative center and de facto capital of Republika Srpska."},
-            {"q": "Which river flows through Banja Luka?", "a": "The Vrbas River flows through the city."},
-            {"q": "What is a famous fortress in Banja Luka?", "a": "Kastel Fortress is one of the city's oldest monuments."},
-            {"q": "What is Banja Luka known for?", "a": "It is known for its many avenues, parks, and vibrant nightlife."},
-            {"q": "Which cathedral is a landmark of the city?", "a": "The Christ the Saviour Cathedral in the city center."}
-        ]
+    {
+      "id": "kissidougou-cities-v2",
+      "descriptionAdvanced": "Situated in the Forest Guinea region, Kissidougou is a rapidly growing urban center that serves as a crucial transit point between the capital and the deeper forested interior. The city is renowned for its vibrant weekly market, which attracts traders from surrounding villages and neighboring countries like Sierra Leone and Liberia to exchange agricultural goods, textiles, and local crafts. Kissidougou's landscape is defined by the transition from savanna to dense tropical rainforest, creating a unique ecological zone rich in biodiversity. Historically, the area was heavily influenced by the Kissi people, who established intricate agricultural systems and fortified settlements long before colonial rule. In modern times, the city hosts a large refugee population from neighboring conflicts, adding to its demographic diversity and dynamic urban atmosphere. The local museum preserves artifacts from the Kissi culture, highlighting the region's deep historical roots. Geography K7 — forest transition zones and West African trade.",
+      "factsAdvanced": [
+        "Located in the transitional zone between savanna and forest.",
+        "Key transit hub connecting Conakry to the Forest Region.",
+        "Population grew significantly to over 102,000 by 2014.",
+        "The city's name translates to 'City of the Kissi people'.",
+        "Hosts a major regional market for agricultural produce.",
+        "Historically impacted by refugee influxes from Liberia and Sierra Leone."
+      ]
     },
-    "ba-mostar": {
-        "de": [
-            {"q": "Was ist das bekannteste Wahrzeichen von Mostar?", "a": "Die Alte Brücke (Stari Most), die zum UNESCO-Weltkulturerbe gehört."},
-            {"q": "Welcher Fluss teilt die Stadt Mostar?", "a": "Die Neretva fließt durch Mostar."},
-            {"q": "Wann wurde die Alte Brücke ursprünglich erbaut?", "a": "Sie wurde im 16. Jahrhundert während der osmanischen Zeit erbaut."},
-            {"q": "Was passierte mit der Alten Brücke im Jahr 1993?", "a": "Sie wurde während des Bosnienkrieges zerstört und später originalgetreu wieder aufgebaut."},
-            {"q": "Welche sportliche Tradition ist mit der Brücke verbunden?", "a": "Das traditionelle Brückenspringen in die Neretva."}
-        ],
-        "hu": [
-            {"q": "Mi Mostar legismertebb jelképe?", "a": "Az Öreg híd (Stari Most), amely az UNESCO világörökség része."},
-            {"q": "Melyik folyó szeli át Mostart?", "a": "A Neretva folyó folyik keresztül a városon."},
-            {"q": "Mikor épült eredetileg az Öreg híd?", "a": "A 16. században épült, az oszmán uralom idején."},
-            {"q": "Mi történt az Öreg híddal 1993-ban?", "a": "A boszniai háború alatt elpusztult, de később hűen újjáépítették."},
-            {"q": "Milyen sportolási hagyomány kötődik a hídhoz?", "a": "A hagyományos híd ugrás a Neretva folyóba."}
-        ],
-        "ro": [
-            {"q": "Care este cel mai cunoscut simbol al Mostarului?", "a": "Podul Vechi (Stari Most), care face parte din patrimoniul mondial UNESCO."},
-            {"q": "Ce râu traversează orașul Mostar?", "a": "Neretva curge prin Mostar."},
-            {"q": "Când a fost construit inițial Podul Vechi?", "a": "A fost construit în secolul al XVI-lea, în perioada otomană."},
-            {"q": "Ce s-a întâmplat cu Podul Vechi în 1993?", "a": "A fost distrus în timpul războiului din Bosnia și reconstruit ulterior identic."},
-            {"q": "Ce tradiție sportivă este legată de pod?", "a": "Tradiția săriturilor de pe pod în râul Neretva."}
-        ],
-        "en": [
-            {"q": "What is Mostar's most famous landmark?", "a": "The Old Bridge (Stari Most), which is a UNESCO World Heritage site."},
-            {"q": "Which river divides the city of Mostar?", "a": "The Neretva River flows through Mostar."},
-            {"q": "When was the Old Bridge originally built?", "a": "It was built in the 16th century during the Ottoman period."},
-            {"q": "What happened to the Old Bridge in 1993?", "a": "It was destroyed during the Bosnian War and later faithfully reconstructed."},
-            {"q": "What sporting tradition is associated with the bridge?", "a": "The traditional bridge diving into the Neretva River."}
-        ]
+    {
+      "id": "gueckedou-cities-v2",
+      "descriptionAdvanced": "Guéckédou is a bustling commercial city located in southern Guinea, strategically positioned near the borders of Sierra Leone and Liberia. The city is famous throughout the region for its massive weekly market, which is considered one of the largest in West Africa, drawing tens of thousands of merchants who trade in textiles, electronics, agricultural tools, and local produce. Guéckédou's geographic location has historically made it a flashpoint during regional conflicts, suffering significant destruction during cross-border rebel incursions in the early 2000s, though it has since seen substantial rebuilding. The city is set within the lush environment of the Guinean forests, where the climate supports the cultivation of coffee, cocoa, and palm oil, which form the backbone of the local economy. In 2013, Guéckédou gained global attention as the epicenter of the West African Ebola outbreak, highlighting its interconnectedness with surrounding nations. History K8 — modern West African borders and regional health history.",
+      "factsAdvanced": [
+        "Located near the tri-point border of Guinea, Liberia, and Sierra Leone.",
+        "Hosts one of the largest weekly cross-border markets in West Africa.",
+        "The population was recorded at roughly 79,000 in 2014.",
+        "A major production area for coffee, cocoa, and palm oil.",
+        "Suffered extensive damage during rebel attacks in 2000 and 2001.",
+        "The initial epicenter of the 2013-2016 West African Ebola epidemic."
+      ]
     },
-    "ba-tuzla": {
-        "de": [
-            {"q": "Wofür ist Tuzla bekannt?", "a": "Tuzla ist bekannt für seine Salzvorkommen und die künstlichen Salzseen im Stadtzentrum."},
-            {"q": "Was sind die Pannonischen Seen?", "a": "Es sind künstliche Salzseen in Tuzla, die als Freizeit- und Kurort dienen."},
-            {"q": "Welche industrielle Bedeutung hat Tuzla?", "a": "Tuzla ist ein wichtiges Zentrum der chemischen Industrie und Energiewirtschaft."},
-            {"q": "Was bedeutet der Name 'Tuzla'?", "a": "Der Name leitet sich vom türkischen Wort 'tuz' für Salz ab."},
-            {"q": "Gibt es in Tuzla eine Universität?", "a": "Ja, die Universität Tuzla ist eine bedeutende Bildungseinrichtung im Land."}
-        ],
-        "hu": [
-            {"q": "Miről ismert Tuzla?", "a": "Tuzla a sókészleteiről és a városközpontban található mesterséges sóstavairól ismert."},
-            {"q": "Mik azok a Pannóniai-tavak?", "a": "Mesterséges sóstavak Tuzlában, amelyek szabadidős és gyógyhelyként szolgálnak."},
-            {"q": "Milyen ipari jelentősége van Tuzlának?", "a": "Tuzla a vegyipar és az energiaipar fontos központja."},
-            {"q": "Mit jelent a 'Tuzla' név?", "a": "A név a török 'tuz' (só) szóból származik."},
-            {"q": "Van-e egyetem Tuzlában?", "a": "Igen, a Tuzlai Egyetem az ország egyik jelentős oktatási intézménye."}
-        ],
-        "ro": [
-            {"q": "Pentru ce este cunoscut Tuzla?", "a": "Tuzla este cunoscut pentru zăcămintele sale de sare și lacurile sărate artificiale din centrul orașului."},
-            {"q": "Ce sunt lacurile pannonice?", "a": "Sunt lacuri sărate artificiale din Tuzla, care servesc ca loc de recreere și tratament."},
-            {"q": "Ce importanță industrială are Tuzla?", "a": "Tuzla este un centru important al industriei chimice și al sectorului energetic."},
-            {"q": "Ce înseamnă numele 'Tuzla'?", "a": "Numele provine din cuvântul turcesc 'tuz', care înseamnă sare."},
-            {"q": "Există o universitate în Tuzla?", "a": "Da, Universitatea din Tuzla este o instituție de învățământ importantă din țară."}
-        ],
-        "en": [
-            {"q": "What is Tuzla known for?", "a": "Tuzla is known for its salt deposits and the artificial salt lakes in the city center."},
-            {"q": "What are the Pannonian Lakes?", "a": "They are artificial salt lakes in Tuzla that serve as a recreation and spa resort."},
-            {"q": "What is the industrial importance of Tuzla?", "a": "Tuzla is an important center for the chemical industry and energy sector."},
-            {"q": "What does the name 'Tuzla' mean?", "a": "The name is derived from the Turkish word 'tuz' for salt."},
-            {"q": "Is there a university in Tuzla?", "a": "Yes, the University of Tuzla is a major educational institution in the country."}
-        ]
+    {
+      "id": "mamou-cities-v2",
+      "descriptionAdvanced": "Known affectionately as the 'Crossroads City', Mamou is situated in the Fouta Djallon highlands and serves as a vital transportation hub linking Conakry to the northern, eastern, and southern regions of Guinea. Developed in the early 20th century specifically as a station on the Conakry-Kankan railway, the city has retained its strategic importance for road transport long after the railway ceased full operations. The city's elevated position at approximately 746 meters provides a mild climate that favors the processing and trade of agricultural goods, particularly meat and dairy products supplied by the surrounding pastoralist Fulani communities. Mamou's urban layout reflects its history as a transit center, with numerous markets, transport terminals, and commercial enterprises catering to travelers. The nearby Pinselli forest reserve offers critical habitat for regional wildlife, including chimpanzees, making the area ecologically significant. Geography K7 — transportation networks and highland climates.",
+      "factsAdvanced": [
+        "Established in 1908 as a key railway station.",
+        "Situated at an elevation of 746 meters in the Fouta Djallon.",
+        "Often referred to as the 'Crossroads City' of Guinea.",
+        "Population was approximately 68,000 in the 2014 census.",
+        "A major center for the region's meat and dairy trade.",
+        "Located near the ecologically important Pinselli forest."
+      ]
     },
-    "ba-zenica": {
-        "de": [
-            {"q": "Welche Industrie dominiert Zenica?", "a": "Zenica ist das Zentrum der bosnischen Stahlindustrie."},
-            {"q": "An welchem Fluss liegt Zenica?", "a": "Zenica liegt am Fluss Bosna."},
-            {"q": "Was ist ein bekanntes kulturelles Ereignis in Zenica?", "a": "Das Festival 'Zeničko proljeće' (Zenica-Frühling)."},
-            {"q": "Welche Festung befindet sich in der Nähe von Zenica?", "a": "Die mittelalterliche Festung Vranduk liegt in der Nähe."},
-            {"q": "Welches Stadion ist ein Wahrzeichen von Zenica?", "a": "Das Bilino Polje Stadion, in dem oft die Nationalmannschaft spielt."}
-        ],
-        "hu": [
-            {"q": "Melyik iparág dominál Zenicában?", "a": "Zenica a bosnyák acélipar központja."},
-            {"q": "Melyik folyó partján fekszik Zenica?", "a": "Zenica a Boszna folyó partján fekszik."},
-            {"q": "Milyen ismert kulturális esemény van Zenicában?", "a": "A 'Zeničko proljeće' (Zenicai Tavasz) fesztivál."},
-            {"q": "Melyik erőd található Zenica közelében?", "a": "A közelben található a középkori Vranduk vára."},
-            {"q": "Melyik stadion Zenica jelképe?", "a": "A Bilino Polje stadion, ahol gyakran játszik a válogatott."}
-        ],
-        "ro": [
-            {"q": "Ce industrie domină în Zenica?", "a": "Zenica este centrul industriei siderurgice din Bosnia."},
-            {"q": "Pe ce râu este situat Zenica?", "a": "Zenica este situat pe râul Bosna."},
-            {"q": "Care este un eveniment cultural cunoscut în Zenica?", "a": "Festivalul 'Zeničko proljeće' (Primăvara din Zenica)."},
-            {"q": "Ce fortăreață se află în apropiere de Zenica?", "a": "Fortăreața medievală Vranduk se află în apropiere."},
-            {"q": "Ce stadion este un simbol al orașului Zenica?", "a": "Stadionul Bilino Polje, unde joacă adesea echipa națională."}
-        ],
-        "en": [
-            {"q": "What industry dominates Zenica?", "a": "Zenica is the center of the Bosnian steel industry."},
-            {"q": "On which river is Zenica located?", "a": "Zenica is located on the Bosna River."},
-            {"q": "What is a well-known cultural event in Zenica?", "a": "The 'Zeničko proljeće' (Zenica Spring) festival."},
-            {"q": "Which fortress is located near Zenica?", "a": "The medieval Vranduk Fortress is located nearby."},
-            {"q": "Which stadium is a landmark of Zenica?", "a": "The Bilino Polje Stadium, where the national team often plays."}
-        ]
+    {
+      "id": "boke-cities-v2",
+      "descriptionAdvanced": "Boké is a historically and economically significant city located in northwestern Guinea, near the border with Guinea-Bissau, sitting on the banks of the Nuñez River. Originally an important center for the pre-colonial slave trade due to its navigable river access to the Atlantic Ocean, the city later became the site of a major French colonial fort constructed in 1878, which now houses a museum. Today, Boké is the administrative center of Guinea's primary bauxite mining region, with massive extraction operations nearby driving the local and national economy. The influx of mining investments has led to rapid urban expansion and modernization, though it has also brought environmental challenges related to dust and water management. Despite its industrial focus, the city retains a vibrant cultural life, predominantly influenced by the local Baga, Susu, and Fulani communities who continue traditional fishing and farming along the riverbanks. History K8 — colonial river trade and modern extractive industries.",
+      "factsAdvanced": [
+        "Located along the Nuñez River in northwestern Guinea.",
+        "Site of an 1878 French fort, now the Boké Museum.",
+        "The administrative capital of Guinea's main bauxite mining region.",
+        "Population reached over 61,000 according to the 2014 census.",
+        "Historically a major port for the transatlantic slave trade.",
+        "Connected by a heavy-duty railway to the port of Kamsar."
+      ]
     },
-    "ba-bihac": {
-        "de": [
-            {"q": "An welchem Fluss liegt Bihać?", "a": "Bihać liegt am wunderschönen Fluss Una."},
-            {"q": "Wofür ist die Region um Bihać bekannt?", "a": "Sie ist bekannt für Naturtourismus, insbesondere Rafting auf der Una."},
-            {"q": "Was ist die Kapitänsburg (Kapetanova kula)?", "a": "Ein historisches Bauwerk in Bihać, das heute ein Museum beherbergt."},
-            {"q": "Welcher Nationalpark liegt in der Nähe von Bihać?", "a": "Der Nationalpark Una liegt ganz in der Nähe."},
-            {"q": "Welche religiöse Stätte ist architektonisch interessant?", "a": "Die Fethija-Moschee, die ursprünglich eine gotische Kirche war."}
-        ],
-        "hu": [
-            {"q": "Melyik folyó partján fekszik Bihać?", "a": "Bihać a gyönyörű Una folyó partján fekszik."},
-            {"q": "Miről ismert Bihać környéke?", "a": "A természeti turizmusról, különösen az Una folyón való raftingról."},
-            {"q": "Mi az a Kapitány-torony (Kapetanova kula)?", "a": "Egy történelmi épület Bihaćban, amely ma múzeumnak ad otthont."},
-            {"q": "Melyik nemzeti park van Bihać közelében?", "a": "Az Una Nemzeti Park a közvetlen közelben található."},
-            {"q": "Melyik vallási helyszín érdekes építészetileg?", "a": "A Fethija-mecset, amely eredetileg gótikus templom volt."}
-        ],
-        "ro": [
-            {"q": "Pe ce râu se află Bihać?", "a": "Bihać este situat pe frumosul râu Una."},
-            {"q": "Pentru ce este cunoscută regiunea din jurul Bihać?", "a": "Este cunoscută pentru turismul de natură, în special rafting pe râul Una."},
-            {"q": "Ce este Turnul Căpitanului (Kapetanova kula)?", "a": "O clădire istorică din Bihać care găzduiește astăzi un muzeu."},
-            {"q": "Ce parc național se află lângă Bihać?", "a": "Parcul Național Una este situat foarte aproape."},
-            {"q": "Ce lăcaș de cult este interesant din punct de vedere arhitectural?", "a": "Moscheea Fethija, care a fost inițial o biserică gotică."}
-        ],
-        "en": [
-            {"q": "On which river is Bihać located?", "a": "Bihać is located on the beautiful Una River."},
-            {"q": "What is the region around Bihać known for?", "a": "It is known for nature tourism, especially rafting on the Una."},
-            {"q": "What is the Captain's Tower (Kapetanova kula)?", "a": "A historical building in Bihać that now houses a museum."},
-            {"q": "Which national park is near Bihać?", "a": "The Una National Park is located very close by."},
-            {"q": "Which religious site is architecturally interesting?", "a": "The Fethija Mosque, which was originally a Gothic church."}
-        ]
+    {
+      "id": "macenta-cities-v2",
+      "descriptionAdvanced": "Nestled in the lush, mountainous terrain of the Forest Guinea region, Macenta is a vital agricultural and administrative center near the Liberian border. The city's high altitude and heavy annual rainfall create ideal conditions for the cultivation of cash crops, making it Guinea's premier hub for coffee, cocoa, and tea production. The landscape around Macenta is characterized by dense tropical rainforests and impressive peaks, including the nearby Mount Ziama, which is part of a biosphere reserve critical for the protection of forest elephants and chimpanzees. Historically, the area was a stronghold of the Toma people and featured heavily in the resistance against French colonial expansion in the late 19th century. Today, Macenta features a bustling market where agricultural products are traded, though the city has faced infrastructure challenges due to its remote location and difficult terrain. Biology K7 — tropical cash crops and rainforest biomes.",
+      "factsAdvanced": [
+        "Located in the mountainous Forest Guinea region near Liberia.",
+        "Guinea's main center for coffee, cocoa, and tea processing.",
+        "Situated near the Ziama Massif Biosphere Reserve.",
+        "Population was roughly 65,000 in the 2014 national census.",
+        "Historically a stronghold of the Toma ethnic group.",
+        "Receives some of the highest annual rainfall in the country."
+      ]
     },
-    "ba-starimost": {
-        "de": [
-            {"q": "Wer baute die Stari Most ursprünglich?", "a": "Sie wurde 1566 vom osmanischen Architekten Mimar Hayruddin erbaut."},
-            {"q": "Warum ist die Brücke so besonders?", "a": "Sie ist ein Meisterwerk der osmanischen Architektur und ein Symbol für die Verbindung der Kulturen."},
-            {"q": "Wie hoch ist die Brücke?", "a": "Der Bogen ist an seinem höchsten Punkt etwa 24 Meter über dem Fluss."},
-            {"q": "Was ist der Red Bull Cliff Diving Weltcup?", "a": "Ein internationaler Wettbewerb, der regelmäßig an der Stari Most stattfindet."},
-            {"q": "Woraus wurde die Brücke gebaut?", "a": "Aus lokalem Tenelija-Stein."}
-        ],
-        "hu": [
-            {"q": "Ki építette eredetileg a Stari Most-ot?", "a": "1566-ban építette Mimar Hajruddin oszmán építész."},
-            {"q": "Miért olyan különleges a híd?", "a": "Az oszmán építészet remekműve és a kultúrák közötti kapcsolat szimbóluma."},
-            {"q": "Milyen magas a híd?", "a": "Az ív legmagasabb pontja körülbelül 24 méterrel van a folyó felett."},
-            {"q": "Mi az a Red Bull Cliff Diving Világkupa?", "a": "Egy nemzetközi verseny, amelyet rendszeresen megrendeznek a Stari Most-nál."},
-            {"q": "Miből épült a híd?", "a": "Helyi Tenelija kőből."}
-        ],
-        "ro": [
-            {"q": "Cine a construit inițial Stari Most?", "a": "A fost construit în 1566 de arhitectul otoman Mimar Hayruddin."},
-            {"q": "De ce este podul atât de special?", "a": "Este o capodoperă a arhitecturii otomane și un simbol al conexiunii dintre culturi."},
-            {"q": "Cât de înalt este podul?", "a": "Arcul se află la aproximativ 24 de metri deasupra râului în cel mai înalt punct."},
-            {"q": "Ce este Cupa Mondială Red Bull Cliff Diving?", "a": "O competiție internațională care are loc regulat la Stari Most."},
-            {"q": "Din ce a fost construit podul?", "a": "Din piatră locală Tenelija."}
-        ],
-        "en": [
-            {"q": "Who originally built the Stari Most?", "a": "It was built in 1566 by the Ottoman architect Mimar Hayruddin."},
-            {"q": "Why is the bridge so special?", "a": "It is a masterpiece of Ottoman architecture and a symbol of the connection between cultures."},
-            {"q": "How high is the bridge?", "a": "The arch is about 24 meters above the river at its highest point."},
-            {"q": "What is the Red Bull Cliff Diving World Series?", "a": "An international competition regularly held at the Stari Most."},
-            {"q": "What was the bridge built from?", "a": "From local Tenelija stone."}
-        ]
+    {
+      "id": "coyah-cities-v2",
+      "descriptionAdvanced": "Coyah is a rapidly expanding city located just 50 kilometers east of Conakry, increasingly functioning as a vibrant suburb to the capital. Nestled at the base of the Mount Kakoulima range, the city is renowned across Guinea for its natural spring water, which is commercially bottled and distributed nationwide under the 'Coyah' brand. The city's strategic location along the National Highway 1 makes it a mandatory transit point for all land traffic moving between Conakry and the country's interior, leading to a bustling transport and commercial sector. Historically a quiet agricultural town focused on mango and palm oil production, Coyah has experienced a massive population boom as residents seek affordable housing outside the congested capital. The surrounding hills offer scenic hiking routes and small waterfalls, providing a popular weekend retreat for city dwellers. Geography K7 — suburban expansion and natural water resources.",
+      "factsAdvanced": [
+        "Located 50 kilometers east of the capital, Conakry.",
+        "Famous nationally for its commercially bottled natural mineral water.",
+        "Acts as the main gateway linking Conakry to the interior.",
+        "Experienced massive growth, reaching over 217,000 residents regionally (2014).",
+        "Situated near the scenic Mount Kakoulima range.",
+        "Traditionally an agricultural area known for mango production."
+      ]
     },
-    "ba-visegrad": {
-        "de": [
-            {"q": "Wie heißt die berühmte Brücke in Višegrad?", "a": "Die Mehmed-Paša-Sokolović-Brücke."},
-            {"q": "Wer hat die Brücke entworfen?", "a": "Der berühmte osmanische Architekt Mimar Sinan."},
-            {"q": "Welcher Roman machte die Brücke weltberühmt?", "a": "Der Roman 'Die Brücke über die Drina' von Literaturnobelpreisträger Ivo Andrić."},
-            {"q": "Welcher Fluss fließt unter der Brücke?", "a": "Die Drina fließt durch Višegrad."},
-            {"q": "Ist die Brücke Teil des UNESCO-Weltkulturerbes?", "a": "Ja, sie wurde 2007 in die Liste aufgenommen."}
-        ],
-        "hu": [
-            {"q": "Hogy hívják Višegrad híres hídját?", "a": "Szokollu Mehmed pasa hídja."},
-            {"q": "Ki tervezte a hidat?", "a": "A híres oszmán építész, Mimar Sinan."},
-            {"q": "Melyik regény tette világhírűvé a hidat?", "a": "Ivo Andrić Nobel-díjas író 'Híd a Drinán' című regénye."},
-            {"q": "Melyik folyó folyik a híd alatt?", "a": "A Drina folyó folyik keresztül Višegradon."},
-            {"q": "A híd része az UNESCO világörökségnek?", "a": "Igen, 2007-ben került fel a listára."}
-        ],
-        "ro": [
-            {"q": "Cum se numește faimosul pod din Višegrad?", "a": "Podul Mehmed Paša Sokolović."},
-            {"q": "Cine a proiectat podul?", "a": "Faimosul arhitect otoman Mimar Sinan."},
-            {"q": "Ce roman a făcut podul faimos în întreaga lume?", "a": "Romanul 'E un pod pe Drina' de laureatul premiului Nobel Ivo Andrić."},
-            {"q": "Ce râu curge pe sub pod?", "a": "Râul Drina trece prin Višegrad."},
-            {"q": "Face podul parte din patrimoniul mondial UNESCO?", "a": "Da, a fost inclus pe listă în 2007."}
-        ],
-        "en": [
-            {"q": "What is the name of the famous bridge in Višegrad?", "a": "The Mehmed Paša Sokolović Bridge."},
-            {"q": "Who designed the bridge?", "a": "The famous Ottoman architect Mimar Sinan."},
-            {"q": "Which novel made the bridge world-famous?", "a": "The novel 'The Bridge on the Drina' by Nobel Prize winner Ivo Andrić."},
-            {"q": "Which river flows under the bridge?", "a": "The Drina River flows through Višegrad."},
-            {"q": "Is the bridge a UNESCO World Heritage site?", "a": "Yes, it was added to the list in 2007."}
-        ]
+    {
+      "id": "forecariah-cities-v2",
+      "descriptionAdvanced": "Forécariah is a coastal city located in southwestern Guinea, serving as the administrative center for the region bordering Sierra Leone. The city is deeply rooted in Islamic scholarship, having been established as a prominent center of learning by the Susu and Mandinka scholars in the pre-colonial era. The surrounding landscape consists of extensive mangrove swamps, fertile floodplains, and numerous tidal estuaries, which support a robust local economy based on rice farming and artisanal fishing. In recent years, Forécariah has gained economic prominence due to the development of nearby iron ore mining projects, bringing new infrastructure and a growing expatriate workforce to the area. The city also played a critical role as a frontier medical and logistical base during the 2014 Ebola response efforts, given its proximity to heavily affected cross-border regions. History K8 — West African coastal communities and modern mining logistics.",
+      "factsAdvanced": [
+        "Located in southwestern Guinea, near the Sierra Leone border.",
+        "Surrounded by an extensive network of coastal mangroves.",
+        "Historically a major center for Islamic education.",
+        "A key agricultural zone for rice cultivation and fishing.",
+        "Population of the urban center was around 20,000 in 2014.",
+        "Experiencing growth due to nearby iron ore export projects."
+      ]
     },
-    "ba-jajce": {
-        "de": [
-            {"q": "Was ist das markanteste Merkmal von Jajce?", "a": "Der 22 Meter hohe Wasserfall im Stadtzentrum, wo die Pliva in die Vrbas mündet."},
-            {"q": "Welche historische Bedeutung hat Jajce?", "a": "Es war die Hauptstadt des mittelalterlichen bosnischen Königreichs."},
-            {"q": "Gibt es eine Festung in Jajce?", "a": "Ja, die Festung von Jajce thront über der Stadt."},
-            {"q": "Was sind die Katakomben von Jajce?", "a": "Eine unterirdische Kirche und Gruft, die in den Fels gehauen wurde."},
-            {"q": "Welches politische Ereignis fand 1943 in Jajce statt?", "a": "Die zweite Sitzung des AVNOJ, bei der das moderne Jugoslawien gegründet wurde."}
-        ],
-        "hu": [
-            {"q": "Mi Jajca legfeltűnőbb jellemzője?", "a": "A 22 méter magas vízesés a városközpontban, ahol a Pliva az Orbászba (Vrbas) torkollik."},
-            {"q": "Milyen történelmi jelentősége van Jajcának?", "a": "A középkori Bosnyák Királyság fővárosa volt."},
-            {"q": "Van-erőd Jajcában?", "a": "Igen, Jajca vára a város fölé magasodik."},
-            {"q": "Mik azok a jajcai katakombák?", "a": "Egy sziklába vájt földalatti templom és sírbolt."},
-            {"q": "Milyen politikai esemény történt Jajcában 1943-ban?", "a": "Az AVNOJ második ülése, ahol megalapították a modern Jugoszláviát."}
-        ],
-        "ro": [
-            {"q": "Care este cea mai distinctivă trăsătură a orașului Jajce?", "a": "Cascada de 22 de metri din centrul orașului, unde râul Pliva se varsă în Vrbas."},
-            {"q": "Ce importanță istorică are Jajce?", "a": "A fost capitala regatului bosniac medieval."},
-            {"q": "Există o fortăreață în Jajce?", "a": "Da, cetatea Jajce tronează deasupra orașului."},
-            {"q": "Ce sunt catacombele din Jajce?", "a": "O biserică și o criptă subterană săpate în stâncă."},
-            {"q": "Ce eveniment politic a avut loc la Jajce în 1943?", "a": "A doua sesiune a AVNOJ, unde a fost fondată Iugoslavia modernă."}
-        ],
-        "en": [
-            {"q": "What is the most striking feature of Jajce?", "a": "The 22-meter high waterfall in the city center, where the Pliva meets the Vrbas river."},
-            {"q": "What historical significance does Jajce have?", "a": "It was the capital of the medieval Bosnian Kingdom."},
-            {"q": "Is there a fortress in Jajce?", "a": "Yes, the Jajce Fortress towers over the town."},
-            {"q": "What are the catacombs of Jajce?", "a": "An underground church and crypt carved into the rock."},
-            {"q": "What political event took place in Jajce in 1943?", "a": "The second session of AVNOJ, where modern Yugoslavia was founded."}
-        ]
+    {
+      "id": "kamsar-cities-v2",
+      "descriptionAdvanced": "Kamsar is a major industrial port city located on the mouth of the Nuñez River in northwestern Guinea, functioning as the country's economic lifeline for bauxite exports. The city was dramatically transformed in the 1970s with the establishment of the Compagnie des Bauxites de Guinée (CBG), which built a deep-water port, a dedicated railway linking to the Sangarédi mines, and modern residential infrastructure. Kamsar is uniquely divided into the affluent 'Cité' area, housing mining executives and expatriates with uninterrupted electricity and paved roads, and the older, bustling local neighborhoods. The massive port facilities handle millions of tons of bauxite annually, loading bulk carrier ships destined for global aluminum refineries. Despite its industrial nature, the coastal waters support a significant local fishing community, though they face challenges from maritime traffic and environmental impacts. Geography K8 — industrial port cities and global commodity supply chains.",
+      "factsAdvanced": [
+        "Guinea's largest port dedicated exclusively to mineral exports.",
+        "Developed into a major city in the 1970s by the CBG mining company.",
+        "Located at the mouth of the Nuñez River on the Atlantic coast.",
+        "Handles over 15 million tons of bauxite exports annually.",
+        "Features a dedicated heavy-haul railway line to inland mines.",
+        "Population was estimated at around 113,000 in 2014."
+      ]
+    },
+    {
+      "id": "fria-cities-v2",
+      "descriptionAdvanced": "Fria is an industrial city in western Guinea, renowned globally as the site of Africa's first alumina refinery, established in 1960. The city was meticulously planned and built by the Pechiney company to house workers for the massive Friguia bauxite-to-alumina complex, giving it a unique grid layout and European-style architecture uncommon in the region. For decades, Fria was considered the most modern and prosperous city in Guinea, boasting an artificial lake, a large hospital, and excellent recreational facilities. The city's fortunes fluctuated wildly with global aluminum prices and management disputes, suffering a devastating multi-year shutdown of the plant in 2012 that severely depressed the local economy before operations slowly resumed. The surrounding landscape features striking red earth and rolling hills, heavily marked by decades of surface mining operations. History K8 — post-colonial industrialization and company towns.",
+      "factsAdvanced": [
+        "Home to Africa's first alumina refinery, operational since 1960.",
+        "Originally built as a planned company town by a French consortium.",
+        "Located approximately 160 kilometers north of Conakry.",
+        "The urban population was recorded at about 61,000 in 2014.",
+        "Suffered a severe economic crisis when the refinery closed from 2012 to 2018.",
+        "Features an artificial lake created to supply water to the plant."
+      ]
+    },
+    {
+      "id": "siguiri-cities-v2",
+      "descriptionAdvanced": "Siguiri is a dynamic city in northeastern Guinea, situated on the banks of the Niger River within the expansive savanna region bordering Mali. The area has an ancient history intertwined with the powerful Mali Empire and has been famous for centuries as a center of traditional artisanal gold mining. Today, Siguiri is the epicenter of Guinea's modern gold rush, hosting one of the country's largest industrial gold mines while simultaneously supporting thousands of independent prospectors who work the surrounding red soils. This gold-driven economy has led to rapid, somewhat chaotic urban growth, drawing migrants from across West Africa in search of wealth, which has put significant pressure on local infrastructure and water resources. The city also features significant cultural heritage sites, including remnants of French colonial forts and traditional Mandinka architecture along the riverbanks. Geography K7 — mineral wealth and savanna urbanization.",
+      "factsAdvanced": [
+        "Located in northeastern Guinea on the banks of the Niger River.",
+        "Famous historically and currently for its massive gold deposits.",
+        "Hosts one of Guinea's largest industrial commercial gold mines.",
+        "Experienced extreme population growth, exceeding 183,000 by 2014.",
+        "Historically part of the sphere of influence of the ancient Mali Empire.",
+        "Site of a notable French colonial fort built in the 19th century."
+      ]
+    },
+    {
+      "id": "telimele-cities-v2",
+      "descriptionAdvanced": "Télimélé is a remote and picturesque administrative center situated in the western foothills of the Fouta Djallon highlands. The city is characterized by its dramatic topography, surrounded by steep cliffs, deep valleys, and numerous waterfalls that define this transitional zone between the coastal plains and the mountainous interior. Télimélé relies primarily on agriculture, with local farmers cultivating rice, groundnuts, and various fruits in the fertile valleys, while the Fulani population manages extensive cattle herds on the higher pastures. Due to its rugged terrain and historical lack of paved access roads, the city has remained relatively isolated, preserving a strong sense of traditional culture and community cohesion. However, recent infrastructure investments and the discovery of nearby bauxite deposits are beginning to integrate Télimélé more closely into the national economy. Geography K7 — highland valleys and agricultural isolation.",
+      "factsAdvanced": [
+        "Located in the western foothills of the Fouta Djallon region.",
+        "Surrounded by dramatic cliffs, valleys, and waterfalls.",
+        "Population of the urban commune was around 16,000 in 2014.",
+        "The local economy is heavily dependent on agriculture and pastoralism.",
+        "Historically isolated due to unpaved and difficult mountain roads.",
+        "Currently experiencing new interest due to regional bauxite exploration."
+      ]
+    },
+    {
+      "id": "kouroussa-cities-v2",
+      "descriptionAdvanced": "Kouroussa is a historic city located on the upper reaches of the Niger River in eastern Guinea, deeply embedded in the cultural heartland of the Mandinka people. The city gained international literary fame as the birthplace of the acclaimed Guinean author Camara Laye, whose autobiographical novel 'The Dark Child' vividly describes life in Kouroussa during the 1930s. Geographically, it sits within the expansive savanna biome, serving as an important center for the cultivation of rice, millet, and peanuts, utilizing the fertile floodplains of the Niger River. Kouroussa also functions as a critical transport node on the route connecting Conakry to the eastern metropolis of Kankan. The surrounding landscape is dotted with traditional gold mining camps, and recent large-scale industrial gold mining projects have begun to reshape the local economy and urban landscape. History K8 — African literature and Niger River settlements.",
+      "factsAdvanced": [
+        "Situated on the upper Niger River in eastern Guinea.",
+        "Birthplace of the famous African author Camara Laye.",
+        "An important agricultural center for savanna crops like rice and millet.",
+        "Population was approximately 39,000 in the 2014 census.",
+        "Features an iconic bridge crossing the Niger River.",
+        "Increasingly impacted by both artisanal and industrial gold mining."
+      ]
+    },
+    {
+      "id": "dubreka-cities-v2",
+      "descriptionAdvanced": "Dubréka is a bustling coastal city situated just north of Conakry, characterized by its extensive network of mangrove swamps and coastal estuaries. The city serves as a critical agricultural and fishing hub, supplying the capital's massive daily demand for fresh seafood, rice, and vegetables. Dubréka is notable for its dramatic natural landmarks, most prominently the 'Chien Qui Fume' (The Smoking Dog), a unique rock formation on nearby Mount Dixinn that appears to smoke when shrouded in morning mist. Historically, the area was a center of the Susu kingdom and later became a prime location for early French colonial agricultural experiments. Today, rapid urban sprawl from Conakry is transforming Dubréka into a major suburban logistics and residential center, significantly altering its traditional coastal ecosystem. Geography K7 — urban sprawl and mangrove ecosystems.",
+      "factsAdvanced": [
+        "Located on the Atlantic coast, immediately north of Conakry.",
+        "Home to the famous 'Chien Qui Fume' mountain rock formation.",
+        "A major supplier of seafood and rice to the capital city.",
+        "Historically an important center of the Susu ethnic group.",
+        "Population surpassed 157,000 in the region by 2014.",
+        "The surrounding landscape is dominated by dense mangrove forests."
+      ]
+    },
+    {
+      "id": "boffa-cities-v2",
+      "descriptionAdvanced": "Boffa is a serene coastal town located along the banks of the Fatala River, shortly before it empties into the Atlantic Ocean. The town holds profound historical significance as one of the earliest sites of European contact in Guinea, serving as a major hub for the transatlantic slave trade and later hosting the first permanent Catholic mission in the country, established in 1877. The town's architecture still features decaying colonial-era trading houses and the historic church, making it a site of cultural pilgrimage. Today, Boffa's economy relies heavily on artisanal fishing, mangrove rice cultivation, and palm oil processing. The construction of a major bridge over the Fatala River in 2004 significantly improved Boffa's connectivity, transforming it from a slow ferry-crossing town into an accessible transit point along the coastal highway. History K8 — early European missions and coastal trade routes.",
+      "factsAdvanced": [
+        "Situated on the Fatala River near the Atlantic coast.",
+        "Home to the first permanent Catholic mission in Guinea, built in 1877.",
+        "Historically a significant center for the transatlantic slave trade.",
+        "The local economy is driven by fishing and mangrove rice farming.",
+        "Population of the urban area was about 27,000 in 2014.",
+        "Connectivity greatly improved by the 2004 Fatala River bridge."
+      ]
+    },
+    {
+      "id": "beyla-cities-v2",
+      "descriptionAdvanced": "Beyla is a deeply historic city situated in the Forest Guinea region, serving as the administrative center for the country's southeastern-most prefecture. Founded in the 13th century, it was a crucial resting point on the ancient trans-Saharan trade routes that connected the forest region's kola nut producers to the savanna empires of the north. The city sits near the massive Simandou mountain range, which holds some of the world's largest untapped reserves of high-grade iron ore. Anticipation of the massive Simandou mining project has brought speculative growth and infrastructural planning to Beyla, though it remains predominantly an agricultural community surrounded by dense forests. The local culture is a vibrant mix of Kpelle, Konianké, and Mano traditions, reflecting its position at the crossroads of several major West African ethnic groups. History K8 — ancient trade routes and modern mega-projects.",
+      "factsAdvanced": [
+        "Located in southeastern Guinea, near the border with Côte d'Ivoire.",
+        "Founded in the 13th century as a key stop on ancient trade routes.",
+        "Situated near the Simandou mountains, site of massive iron ore reserves.",
+        "A major historical trading center for kola nuts.",
+        "Population of the town was roughly 32,000 in 2014.",
+        "Features a mix of savanna and dense tropical forest ecosystems."
+      ]
+    },
+    {
+      "id": "dabola-cities-v2",
+      "descriptionAdvanced": "Dabola marks the exact geographic center of Guinea, situated where the Fouta Djallon highlands transition into the vast eastern savannas. Established as a critical railway junction by the French colonial administration, the city features notable industrial remnants, including a long-defunct peanut oil processing factory that once drove the local economy. The city is defined by the Tinkisso River, a major tributary of the Niger, which provides water for extensive agriculture and local fishing, and features a small hydroelectric dam built with Chinese assistance in the 1970s. Dabola's landscape is highly scenic, combining rolling grassy plains with striking granite inselbergs. Today, it remains an important commercial crossroads connecting the nation's capital to the far eastern regions, with a diverse population of Fulani and Malinke residents. Geography K7 — geographic centers and river systems.",
+      "factsAdvanced": [
+        "Considered the exact geographic center of the country of Guinea.",
+        "Located on the banks of the Tinkisso River.",
+        "Historically an important station on the Conakry-Kankan railway.",
+        "Features a 1970s hydroelectric dam on the Tinkisso River.",
+        "Population was approximately 38,000 in the 2014 census.",
+        "The local landscape features prominent granite inselbergs."
+      ]
+    },
+    {
+      "id": "dinguiraye-cities-v2",
+      "descriptionAdvanced": "Dinguiraye is a city of immense spiritual and historical prestige located in the savanna region of northern Guinea. It was founded in the mid-19th century by El Hadj Umar Tall, a revered Toucouleur scholar and military leader, who made it the launching point for his vast Islamic empire that spread across West Africa. The city is dominated by its grand historic mosque, originally built by Umar Tall himself, characterized by its massive thatched roof and traditional Sudanese architectural elements, drawing thousands of pilgrims annually. Beyond its spiritual significance, Dinguiraye is a tranquil agricultural town heavily reliant on livestock rearing and the cultivation of millet and groundnuts. Its remote location away from major national highways has helped preserve its unique historical character and status as a center of religious learning. History K8 — West African empires and Islamic heritage.",
+      "factsAdvanced": [
+        "Founded in the 19th century by the military and religious leader El Hadj Umar Tall.",
+        "Home to a highly venerated, historic thatched-roof mosque.",
+        "Served as the launching point for the Toucouleur Empire.",
+        "Located in the dry savanna region of northern Guinea.",
+        "Population of the urban commune was around 47,000 in 2014.",
+        "An important regional center for cattle herding and groundnut farming."
+      ]
+    },
+    {
+      "id": "gaoual-cities-v2",
+      "descriptionAdvanced": "Gaoual is a remote and culturally distinct city located in northwestern Guinea, situated in a low-lying basin bordered by the majestic Fouta Djallon mountains to the east. The city sits near the Tominé River, which flows towards Guinea-Bissau, creating a fertile valley system that is excellent for agriculture and extensive cattle grazing. Gaoual is widely recognized as the traditional capital of the Bassari and Koniagui people, ethnic groups known for their rich pre-Islamic animist traditions, elaborate initiation ceremonies, and unique architecture. The area's relative isolation has preserved these cultural practices, though the dominant Fulani pastoralist culture also heavily influences the city. The local economy is driven by weekly livestock markets, honey production, and cross-border trade with neighboring Senegal and Guinea-Bissau. Geography K7 — cultural enclaves and river basins.",
+      "factsAdvanced": [
+        "Located in northwestern Guinea near the border with Guinea-Bissau.",
+        "Situated in a geographic basin near the Tominé River.",
+        "The traditional heartland of the Bassari and Koniagui ethnic groups.",
+        "Population was roughly 20,000 in the 2014 census.",
+        "A major regional hub for cattle trading and honey production.",
+        "Known for preserving unique animist cultural traditions."
+      ]
+    },
+    {
+      "id": "kerouane-cities-v2",
+      "descriptionAdvanced": "Kérouané is a historically significant city in eastern Guinea, situated in the Milo River basin. During the late 19th century, it served as a major military stronghold and temporary capital for Samori Touré, the legendary founder of the Wassoulou Empire, who fiercely resisted French colonial expansion for decades. The city is surrounded by expansive savannas and is a major center for both agriculture and artisanal diamond mining, with the nearby Banankoro region producing some of the country's highest-quality gems. Kérouané's infrastructure is relatively underdeveloped, making travel difficult during the rainy season, yet it remains a vibrant hub for the Malinke people, maintaining strong traditions in music, griot storytelling, and agriculture. History K8 — African resistance to colonization and the Wassoulou Empire.",
+      "factsAdvanced": [
+        "Located in eastern Guinea along the Milo River basin.",
+        "Served as a major stronghold for Emperor Samori Touré in the 19th century.",
+        "A primary center for Guinea's artisanal diamond mining industry.",
+        "Population of the urban area was about 36,000 in 2014.",
+        "The local culture is deeply rooted in Malinke traditions and griot music.",
+        "Access to the city is notoriously difficult during the heavy rainy season."
+      ]
+    },
+    {
+      "id": "koubia-cities-v2",
+      "descriptionAdvanced": "Koubia is a small, tranquil administrative center perched high in the northern Fouta Djallon mountains. It is one of the most geographically isolated prefectural capitals in Guinea, characterized by rugged terrain, steep ravines, and sweeping panoramic views of the highland plateaus. The city's climate is notably cool, supporting the cultivation of specialized crops like fonio, potatoes, and various citrus fruits, alongside traditional Fulani cattle herding. Koubia's isolation has limited its industrial and commercial growth, but it has fostered a strong, tight-knit community deeply committed to Islamic education and traditional pastoralist lifestyles. The surrounding landscape features numerous undocumented waterfalls and caves, offering immense, yet largely untapped, potential for eco-tourism. Geography K7 — high-altitude settlements and pastoralism.",
+      "factsAdvanced": [
+        "One of the most isolated prefectural capitals in the Fouta Djallon.",
+        "Situated at a high elevation, featuring a distinctly cool climate.",
+        "Population of the central town was roughly 15,000 in 2014.",
+        "The economy is heavily reliant on subsistence agriculture and cattle herding.",
+        "A major production area for fonio, a traditional West African grain.",
+        "The surrounding terrain is characterized by steep ravines and plateaus."
+      ]
+    },
+    {
+      "id": "koundara-cities-v2",
+      "descriptionAdvanced": "Koundara is Guinea's northernmost city, located just a few kilometers from the Senegalese border in a dry, low-lying savanna plain. Due to its geography, Koundara experiences some of the hottest temperatures in the country, distinctly different from the cooler highlands to its south. The city is a bustling transit and customs hub, handling the vast majority of overland trade and passenger traffic moving between Guinea and Senegal. The region is ethnically diverse, home to Fulani, Badiaranké, and Bassari communities, creating a unique cross-border cultural atmosphere. Koundara also serves as the gateway to the Badiar National Park, a protected savanna ecosystem that borders Senegal's Niokolo-Koba National Park, providing crucial habitat for antelopes, monkeys, and diverse bird species. Biology K7 — savanna ecosystems and national park borders.",
+      "factsAdvanced": [
+        "The northernmost prefectural capital in Guinea.",
+        "Located near the main border crossing into Senegal.",
+        "Experiences the highest average temperatures in the country.",
+        "Serves as the gateway to the Badiar National Park.",
+        "Population of the urban center was around 27,000 in 2014.",
+        "Home to a mix of Fulani, Badiaranké, and Bassari ethnic groups."
+      ]
+    },
+    {
+      "id": "lelouma-cities-v2",
+      "descriptionAdvanced": "Lélouma is a picturesque town situated deep within the Fouta Djallon highlands, surrounded by dramatic escarpments and verdant valleys. The town is highly regarded for its intellectual and religious heritage, historically producing many prominent Islamic scholars and community leaders within the Fulani culture. The local economy is agrarian, focused on terrace farming, orange orchards, and cattle grazing, adapted perfectly to the challenging mountainous topography. Lélouma is famous for the nearby 'Echelles de Lélouma' (Lélouma Ladders), a series of ancient, precarious bamboo and vine ladders constructed by locals to navigate the sheer cliffs and connect isolated plateau villages to the valleys below. This stunning, rugged environment makes the area one of the most visually spectacular, though difficult to access, regions in Guinea. Geography K7 — mountain adaptations and terraced agriculture.",
+      "factsAdvanced": [
+        "Located in the central highlands of the Fouta Djallon.",
+        "Famous for the ancient 'Echelles de Lélouma' cliff ladders.",
+        "A prominent historical center of Islamic scholarship.",
+        "Population of the town was approximately 16,000 in 2014.",
+        "Local agriculture specializes in orange orchards and terrace farming.",
+        "Characterized by steep escarpments and deep valley geography."
+      ]
+    },
+    {
+      "id": "lola-cities-v2",
+      "descriptionAdvanced": "Lola is the easternmost city in the Forest Guinea region, situated near the border with Côte d'Ivoire. The city serves as the gateway to the world-renowned Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site famous for its exceptional biodiversity, including unique viviparous toads and tool-using chimpanzees. Lola is a bustling agricultural center where local farmers from the surrounding dense forests bring coffee, cocoa, palm oil, and kola nuts to market. The population is a diverse mix of Mano, Konianké, and Guerze people, creating a vibrant cultural dynamic. Despite its ecological wealth, the city faces tension between conservation efforts on Mount Nimba and the economic pressure of massive iron ore mining concessions located just outside the protected boundaries. Biology K8 — UNESCO biodiversity hotspots and conservation.",
+      "factsAdvanced": [
+        "The easternmost prefectural capital in Guinea.",
+        "Acts as the main base for access to the Mount Nimba Strict Nature Reserve.",
+        "Located near the border with Côte d'Ivoire.",
+        "Population of the urban area was about 48,000 in 2014.",
+        "A major regional market for coffee, palm oil, and kola nuts.",
+        "Faces ongoing tension between ecological conservation and iron ore mining."
+      ]
     }
+  ]
 }
 
-# Next batch will be generated in the next turn
-with open("faqs_batch1.json", "w", encoding="utf-8") as f:
-    json.dump(faqs, f, ensure_ascii=False, indent=2)
+with open('/mnt/c/Users/User/plizio_orch/seo_outputs/seo_guinea_en_batch1.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)

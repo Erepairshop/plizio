@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bui-gorge-relief-v2",
+      "descriptionAdvanced": "The Bui Gorge is a spectacular, steep-sided topographical chasm located on the border between the Bono and Savannah regions. Geologically, it was formed where the powerful Black Volta River cuts violently through the southern extension of the Banda Hills. The massive, compressed kinetic energy of the river rushing through this narrow, rocky bottleneck made it the absolute ideal geographical location for large-scale hydroelectric power generation. Consequently, the gorge was permanently altered by the construction of the Bui Dam, converting the wild, rushing rapids into a massive, placid artificial lake, while permanently submerging the gorge's original rugged floor. Geography K7 — river gorges and hydroelectricity.",
+      "factsAdvanced": [
+        "A deep, steep-sided topographical gorge located on the Black Volta River.",
+        "Formed geographically where the river cuts directly through the Banda Hills.",
+        "The narrow, rocky chasm created intense, highly compressed river rapids.",
+        "Identified in the 1920s as the optimal site for a major hydroelectric dam.",
+        "Permanently altered and submerged by the completion of the Bui Dam in 2013.",
+        "Historically marked the ecological boundary between dense forest and savanna."
+      ]
+    },
+    {
+      "id": "ashanti-uplands-relief-v2",
+      "descriptionAdvanced": "The Ashanti Uplands represent a massive, heavily dissected plateau covering much of the Ashanti Region and parts of the Western and Central regions. Ranging in elevation from 150 to 300 meters, this undulating terrain is deeply carved by numerous rapid river systems, including the Pra and the Offin. The geology here is absolutely critical to Ghana's economy, as these uplands are composed of the ancient, highly mineralized Birimian and Tarkwaian rock systems, which contain the vast majority of the nation's world-class gold and bauxite deposits. The combination of rich, well-drained upland soils and high rainfall also makes this the premier zone for commercial cocoa farming. Geography K7 — mineralized uplands.",
+      "factsAdvanced": [
+        "A massive, undulating plateau system covering the central forest belt of Ghana.",
+        "Average elevations range consistently between 150 and 300 meters above sea level.",
+        "Composed primarily of ancient, highly mineralized Birimian and Tarkwaian rocks.",
+        "Geographically hosts the vast majority of Ghana's immense commercial gold deposits.",
+        "Deeply dissected by major, fast-flowing river valleys like the Pra and Offin.",
+        "Provides the ideal, well-drained topography required for intensive cocoa cultivation."
+      ]
+    },
+    {
+      "id": "denu-coastal-plain-relief-v2",
+      "descriptionAdvanced": "The Denu Coastal Plain is a distinct, highly fragile, low-lying topographical zone situated in the extreme southeastern corner of the Volta Region, bordering Togo. Unlike the rocky cliffs of the western coast, this plain is exceptionally flat, consisting almost entirely of loose marine sands, tidal mudflats, and shallow estuarine lagoons. Because the elevation is barely above sea level, the entire geographical area is profoundly vulnerable to aggressive coastal erosion and devastating storm surges from the Atlantic Ocean. The local communities continuously battle this encroaching ocean through the construction of massive, expensive coastal defense groynes and sea defense walls. Geography K7 — coastal vulnerability and erosion.",
+      "factsAdvanced": [
+        "An extremely flat, low-lying coastal plain located in the southeastern Volta Region.",
+        "Consists primarily of loose marine sands, tidal mudflats, and estuarine lagoons.",
+        "Geographically sits precariously just at or barely above average sea level.",
+        "Faces intense, constant devastation from aggressive Atlantic coastal erosion.",
+        "Requires massive, ongoing investments in heavy sea defense walls and rock groynes.",
+        "The highly porous, sandy soils support intensive commercial shallot and coconut farming."
+      ]
+    },
+    {
+      "id": "gambo-hills-relief-v2",
+      "descriptionAdvanced": "The Gambo Hills, forming part of the broader Gambaga Escarpment in the North East Region, constitute a formidable geological boundary overlooking the White Volta valley. These hills are characterized by horizontally bedded, ancient Voltaian sandstones that have been sharply eroded to form steep, dramatic cliff faces and flat-topped mesas. The sheer elevation of these hills historically provided a massive tactical and defensive advantage for the indigenous Mamprusi Kingdom, serving as a natural fortress against invading cavalry from the Sahel. Today, the rugged, rocky terrain makes large-scale agriculture difficult, though the hills provide critical watershed management for the northern savanna. Geography K7 — sandstone escarpments.",
+      "factsAdvanced": [
+        "Located in the North East Region, forming part of the massive Gambaga Escarpment.",
+        "Composed primarily of ancient, horizontally bedded Voltaian sandstone formations.",
+        "Characterized by steep, dramatic cliff faces and heavily eroded, flat-topped mesas.",
+        "Historically functioned as a massive, natural defensive fortress for the Mamprusi Kingdom.",
+        "The steep, rocky topography severely limits large-scale, mechanized agriculture.",
+        "Provides critical, high-elevation watershed management for the White Volta valley."
+      ]
+    },
+    {
+      "id": "akuapem-ridge-relief-v2",
+      "descriptionAdvanced": "The Akuapem Ridge is the striking, southernmost section of the massive Akwapim-Togo mountain range, beginning just north of the coastal plains of Accra. Rising abruptly to an elevation of around 400 meters, the ridge forms a highly visible, steep topographical wall that physically contains the outward expansion of the capital. The ridge's elevation generates a significantly cooler, more pleasant microclimate compared to the sweltering coastal city below, prompting early European missionaries to establish headquarters in towns like Akropong and Aburi. The ridge's steep eastern scarp drops violently into the plains, making it highly susceptible to severe landslides during heavy rains. Geography K7 — coastal mountain ridges.",
+      "factsAdvanced": [
+        "The steep, southernmost anchor of the massive Akwapim-Togo mountain range.",
+        "Rises abruptly from the flat coastal plains to an average elevation of 400 meters.",
+        "Geographically contains the northward urban sprawl of the Greater Accra Region.",
+        "The high elevation generates a highly sought-after, remarkably cooler microclimate.",
+        "The steep, heavily deforested eastern slopes are highly vulnerable to severe landslides.",
+        "Historically served as the primary healthy retreat for European colonial missionaries."
+      ]
+    },
+    {
+      "id": "tano-basin-relief-v2",
+      "descriptionAdvanced": "The Tano Basin is a massive, heavily forested topographical depression occupying much of the Western and Western North regions. Structurally, it functions as the primary catchment area for the Tano River and its numerous tributaries. The terrain is characterized by deeply weathered, rolling hills covered in incredibly dense, wet evergreen and semi-deciduous forests. This basin is geographically synonymous with extreme rainfall, making its soils deeply leached (lateritic) yet highly suitable for deep-rooted tree crops. Consequently, the basin is the absolute epicenter of Ghana's massive commercial timber and rubber industries, though the aggressive extraction is accelerating severe soil erosion across the slopes. Geography K7 — high-rainfall river basins.",
+      "factsAdvanced": [
+        "A massive, deeply forested topographical depression in the western regions of Ghana.",
+        "Functions as the primary hydrological catchment area for the powerful Tano River.",
+        "Characterized by deeply weathered, rolling hills and extremely heavy annual rainfall.",
+        "The intense rainfall results in deeply leached, iron-rich lateritic soils.",
+        "Geographically serves as the absolute epicenter for the national rubber and timber industries.",
+        "Aggressive logging on the slopes has dramatically accelerated severe soil erosion."
+      ]
+    },
+    {
+      "id": "kintampo-plateau-relief-v2",
+      "descriptionAdvanced": "The Kintampo Plateau, situated in the Bono East Region, forms a massive, elevated transitional step between the southern forest highlands and the vast, flat northern Volta Basin. Averaging roughly 300 meters in elevation, the plateau is characterized by massive, horizontally bedded sandstone formations that frequently end in sharp, dramatic drop-offs. It is precisely these sheer geological drops that create the region's famous cascading waterfalls, such as the Kintampo and Fuller falls. The plateau's intermediate elevation supports a highly distinct, transitional ecology where dense gallery forests mix with open woodland savanna, making it a critical zone for both agriculture and ancient human settlement. Geography K7 — transitional plateaus.",
+      "factsAdvanced": [
+        "A massive, elevated geological block located primarily in the Bono East Region.",
+        "Averages roughly 300 meters in elevation, formed from ancient bedded sandstones.",
+        "Functions as a massive transitional step down into the flat, low-lying Volta Basin.",
+        "The sharp, sheer drop-offs of the plateau form massive, dramatic regional waterfalls.",
+        "Supports a highly distinct ecological transition zone blending forest and savanna.",
+        "Geographically critical as a site of extensive prehistoric human agricultural settlement."
+      ]
+    },
+    {
+      "id": "white-volta-valley-relief-v2",
+      "descriptionAdvanced": "The White Volta Valley is an immense, extremely broad topographical trench cutting north-to-south through the Upper East and Northern regions. Unlike the steep V-shaped valleys of the southern highlands, this valley is incredibly wide and flat, featuring extensive, slow-draining floodplains. During the brief but violent northern wet season, the river easily overtops its shallow banks, inundating massive tracts of surrounding land. While this unpredictable flooding poses severe risks to human settlements, it continuously deposits a thick, highly fertile layer of alluvial silt, making the valley the absolute premier zone for large-scale, mechanized commercial rice farming in northern Ghana. Geography K7 — broad alluvial valleys.",
+      "factsAdvanced": [
+        "An immense, broad topographical trench dominating the northern savanna landscape.",
+        "Characterized by incredibly flat, extensive, and slow-draining riverine floodplains.",
+        "The river frequently overtops its shallow banks during the intense, brief wet season.",
+        "The seasonal flooding deposits massive layers of highly fertile, nutrient-rich alluvial silt.",
+        "Considered the absolute premier geographical zone for massive commercial rice cultivation.",
+        "The flat topography is highly conducive to large-scale, mechanized tractor farming."
+      ]
+    },
+    {
+      "id": "fanteakwa-escarpment-relief-v2",
+      "descriptionAdvanced": "The Fanteakwa Escarpment is a sheer, dramatic geological fault line forming the eastern edge of the massive Kwahu Plateau in the Eastern Region. This steep, rocky wall drops precipitously down to the lower Afram Plains, creating a formidable natural barrier. The escarpment is densely forested, and its steep gradient generates localized orographic rainfall, resulting in numerous rapid, cascading streams that flow violently down the rock face into the plains below. The treacherous, steep terrain severely limits road infrastructure, but it provides a pristine, highly inaccessible habitat for numerous primate and bird species fleeing the intense agricultural development of the surrounding areas. Geography K7 — steep geological fault lines.",
+      "factsAdvanced": [
+        "A sheer, dramatic geological fault line located in the Eastern Region of Ghana.",
+        "Forms the abrupt, steeply dropping eastern boundary of the massive Kwahu Plateau.",
+        "Drops precipitously down to meet the expansive, flat Afram Plains below.",
+        "The steep topography forces air upward, generating highly localized orographic rainfall.",
+        "Features numerous rapid, cascading streams cutting directly down the rock face.",
+        "The treacherous, steep terrain acts as a natural barrier to massive infrastructure development."
+      ]
+    },
+    {
+      "id": "akwapim-plains-relief-v2",
+      "descriptionAdvanced": "The Akwapim Plains, merging into the broader Accra Plains, form a distinct, remarkably flat topographical region situated directly between the steep Akuapem Ridge and the Atlantic coastline. Geologically, these plains consist of highly ancient, heavily eroded Precambrian rocks overlaid with a thin layer of dry, cracking clay soils (vertisols). Due to a unique climatic shadow effect, the plains receive anomalously low rainfall, resulting in a stark, dry savanna landscape that contrasts sharply with the lush mountains just kilometers away. The flat, open terrain makes it highly suitable for large-scale cattle ranching, though it suffers from severe, chronic water scarcity. Geography K7 — coastal rain shadows.",
+      "factsAdvanced": [
+        "A remarkably flat, low-lying topographical region extending toward the Greater Accra coast.",
+        "Geographically wedged directly between the steep Akuapem Ridge and the Atlantic Ocean.",
+        "Characterized by a highly distinct, severe rain shadow effect causing extreme aridity.",
+        "The soils are predominantly heavy, cracking clays (vertisols) that are difficult to farm.",
+        "The stark, open savanna landscape is highly suitable for extensive commercial cattle grazing.",
+        "Suffers from chronic, severe dry-season water scarcity despite its proximity to the coast."
+      ]
+    },
+    {
+      "id": "nsuta-hills-relief-v2",
+      "descriptionAdvanced": "The Nsuta Hills, located near Tarkwa in the Western Region, are a series of heavily mineralized, undulating ridges forming part of the broader Tarkwaian geological system. While the hills are relatively modest in elevation, they are globally significant due to the massive, ultra-high-grade deposits of manganese carbonate trapped within their ancient sedimentary layers. Over a century of aggressive, large-scale open-pit mining has completely and irreversibly altered the natural topography of the hills, replacing natural peaks with colossal, terraced mining craters and massive artificial dumps of waste rock, serving as a stark visual example of heavy industrial landscape modification. Geography K7 — industrial topographical alteration.",
+      "factsAdvanced": [
+        "A series of undulating, heavily mineralized ridges located near Tarkwa in the Western Region.",
+        "Forms a highly significant part of the ancient, gold-rich Tarkwaian geological rock system.",
+        "Contains massive, globally significant deposits of high-grade manganese carbonate ore.",
+        "The natural topography has been totally, irreversibly altered by a century of open-pit mining.",
+        "Natural peaks have been systematically replaced by colossal, terraced mining craters.",
+        "Serves as a premier geographical example of extreme industrial landscape modification."
+      ]
+    },
+    {
+      "id": "bongo-hills-relief-v2",
+      "descriptionAdvanced": "The Bongo Hills, situated in the Upper East Region near Bolgatanga, present one of the most unique and visually dramatic topographical features in northern Ghana. Unlike continuous mountain ranges, this area is defined by massive, isolated granite boulder formations (inselbergs) that look as though they were scattered by a giant across the flat, semi-arid Sahelian landscape. These towering, smooth rock formations hold deep spiritual significance for the indigenous communities and historically served as impenetrable natural fortresses against invading slave raiders. Today, the intense heat absorbed and radiated by these massive rocks significantly influences the harsh, localized microclimate of the Bongo district. Geography K7 — granite inselbergs.",
+      "factsAdvanced": [
+        "Located in the Bongo district near Bolgatanga in the Upper East Region.",
+        "Defined by massive, visually dramatic, isolated granite boulder formations (inselbergs).",
+        "The rocks rise abruptly from the surrounding extremely flat, semi-arid Sahelian plains.",
+        "Historically utilized as impenetrable natural fortresses by indigenous communities against raiders.",
+        "The massive granite blocks absorb and intensely radiate heat, raising local temperatures.",
+        "The unique geological formations attract significant regional tourism and academic study."
+      ]
+    },
+    {
+      "id": "dagbon-plateau-relief-v2",
+      "descriptionAdvanced": "The Dagbon Plateau is a massive, relatively uniform upland region occupying a large portion of the Northern Region, centering around the historic city of Yendi. Composed primarily of ancient Voltaian sandstones, the plateau is characterized by a gently undulating, flat-topped topography with very few steep gradients. This broad, stable terrain historically facilitated the rapid movement of cavalry, allowing the ancient Dagbon Kingdom to easily conquer and unify the surrounding territories. The plateau's soils are generally thin and highly prone to severe laterization (iron-hardening) during the intense dry season, requiring highly specialized, extensive farming techniques to cultivate staple crops like yams and millet. Geography K7 — extensive savanna plateaus.",
+      "factsAdvanced": [
+        "A massive, broadly uniform upland region dominating the eastern half of the Northern Region.",
+        "Composed primarily of highly ancient, horizontally bedded Voltaian sandstone layers.",
+        "Characterized by a gently undulating, flat-topped topography lacking sheer drop-offs.",
+        "The flat terrain historically provided a massive tactical advantage for Dagbon cavalry armies.",
+        "Soils are typically thin and highly prone to severe iron-hardening during the dry season.",
+        "The geography heavily dictates an extensive, rather than intensive, agricultural farming model."
+      ]
+    },
+    {
+      "id": "akposso-hills-relief-v2",
+      "descriptionAdvanced": "The Akposso Hills represent a highly rugged, isolated segment of the Togo Mountains extending into the Oti Region of eastern Ghana. Characterized by deeply incised, V-shaped valleys and extremely steep ridges, this topographical zone is incredibly difficult to traverse. The hills are heavily forested and receive significant orographic rainfall, making them an isolated but highly fertile pocket for specialized agriculture, particularly hill-rice and robusta coffee. The severe gradient of the hills has historically isolated the indigenous Akposso communities from broader national infrastructure, preserving deeply unique cultural traditions but severely limiting modern economic development. Geography K7 — isolated mountain ecologies.",
+      "factsAdvanced": [
+        "A highly rugged, steep segment of the broader Togo Mountains located in the Oti Region.",
+        "Characterized geographically by deeply incised, sharp V-shaped river valleys.",
+        "The extreme topographical gradient makes the entire zone incredibly difficult to traverse.",
+        "Receives heavy orographic rainfall, creating a highly fertile, isolated agricultural pocket.",
+        "The steep terrain has historically physically isolated local communities from national infrastructure.",
+        "The unique microclimate supports the specialized cultivation of hill-rice and robusta coffee."
+      ]
+    },
+    {
+      "id": "buem-escarpment-relief-v2",
+      "descriptionAdvanced": "The Buem Escarpment is a spectacular, highly pronounced geological fault line running north-to-south through the Oti Region, near the town of Jasikan. It marks the abrupt tectonic boundary where the massive, flat Voltaian sedimentary basin violently meets the folded, highly deformed rocks of the Togo structural belt. The escarpment features sheer, dramatic cliff faces that drop hundreds of meters down toward Lake Volta. This massive topographical barrier severely restricts east-west transportation routes, funneling all major road traffic through a few narrow, treacherous passes. The sheer cliffs are also heavily utilized by massive colonies of roosting raptors and bats. Geography K7 — tectonic boundary escarpments.",
+      "factsAdvanced": [
+        "A spectacular, highly pronounced geological fault line located near Jasikan in the Oti Region.",
+        "Marks the violent tectonic boundary between the flat Volta basin and the folded Togo mountains.",
+        "Features sheer, dramatic cliff faces that drop hundreds of meters in elevation.",
+        "Functions as a massive, formidable topographical barrier to east-west road transportation.",
+        "Forces major infrastructure and traffic through a few highly treacherous, narrow mountain passes.",
+        "The sheer rock faces provide ideal, inaccessible habitats for massive colonies of raptors."
+      ]
+    },
+    {
+      "id": "shai-hills-relief-v2",
+      "descriptionAdvanced": "The Shai Hills are a distinct cluster of highly dramatic, isolated rocky outcrops (inselbergs) rising abruptly from the flat, dry expanse of the Accra Plains. Geologically, these hills are composed of incredibly ancient, highly resistant Precambrian granite and gneiss that withstood millions of years of severe erosion that flattened the surrounding landscape. The steep, boulder-strewn slopes of the hills feature deep natural caves and crevices, which historically provided the indigenous Shai people with a highly defensible, near-impenetrable fortress against coastal slave raiders. Today, the rugged relief of the hills makes them a premier, rigorous destination for technical rock climbing and hiking. Geography K7 — coastal granite inselbergs.",
+      "factsAdvanced": [
+        "A distinct, dramatic cluster of massive rocky outcrops rising from the flat Accra Plains.",
+        "Geologically composed of highly resistant, ancient Precambrian granite and gneiss rock.",
+        "Formed through millions of years of severe differential erosion of the surrounding plains.",
+        "Features steep, boulder-strewn slopes riddled with deep, highly defensible natural caves.",
+        "Historically utilized as an impenetrable natural fortress by the indigenous Shai communities.",
+        "The sheer, rugged topography makes it a premier national destination for technical rock climbing."
+      ]
+    },
+    {
+      "id": "kweku-hills-relief-v2",
+      "descriptionAdvanced": "The Kweku Hills, located within the broader structural highlands of the Eastern Region, represent a highly dissected, densely forested upland zone. The relief here is incredibly chaotic, consisting of a tight maze of steep, rounded hills separated by deeply entrenched, rapid-flowing streams. This intense, irregular topography makes large-scale, mechanized agriculture completely impossible, forcing local farmers to rely on traditional, highly labor-intensive terrace farming for crops like cocoa and cocoyam. The heavy, continuous rainfall deeply leaches the soils on the steep slopes, making the entire region highly susceptible to devastating mudslides if the protective forest canopy is removed by illegal logging. Geography K7 — heavily dissected uplands.",
+      "factsAdvanced": [
+        "A highly dissected, chaotic upland zone located within the forested Eastern Region.",
+        "Characterized by a tight maze of steep, rounded hills and deeply entrenched river valleys.",
+        "The extreme, irregular topography completely prevents large-scale, mechanized agriculture.",
+        "Requires highly labor-intensive, traditional slope-farming techniques for cash crops.",
+        "The steep slopes are incredibly vulnerable to severe, devastating mudslides if deforested.",
+        "Features numerous rapid, aggressive streams that rapidly erode the upland topsoil."
+      ]
+    },
+    {
+      "id": "oti-plain-relief-v2",
+      "descriptionAdvanced": "The Oti Plain is a massive, exceptionally flat and low-lying geographical expanse that heavily defines the eastern border of northern Ghana. Flanking the powerful Oti River, this vast floodplain is totally devoid of significant hills or ridges, allowing the river to meander wildly and change its course frequently during the massive floods of the rainy season. Because the topographical gradient is so incredibly low, water drains extremely slowly, creating massive, seasonal, nutrient-rich swamps. While this flat relief is an absolute paradise for large-scale, mechanized rice and yam cultivation, it routinely subjects the local, low-lying communities to catastrophic, deeply devastating infrastructural flooding. Geography K7 — massive river floodplains.",
+      "factsAdvanced": [
+        "A massive, exceptionally flat and low-lying geographical expanse in the Oti Region.",
+        "Flanks the powerful Oti River, acting as its primary, massive seasonal floodplain.",
+        "Totally devoid of significant hills, ridges, or natural topographical drainage gradients.",
+        "The extremely low elevation causes water to drain slowly, forming massive seasonal swamps.",
+        "The flat terrain is highly ideal for massive, mechanized commercial rice and yam farming.",
+        "Routinely subjects local, low-lying infrastructure to catastrophic, devastating seasonal floods."
+      ]
+    },
+    {
+      "id": "nkawkaw-escarpment-relief-v2",
+      "descriptionAdvanced": "The Nkawkaw Escarpment is an absolutely colossal, sheer rock wall that forms the highly dramatic southern face of the Kwahu Plateau in the Eastern Region. Rising near-vertically from the bustling transit town of Nkawkaw, the escarpment creates a formidable, towering visual barrier that completely dominates the local skyline. Geologically, the steep face exposes thick, ancient bands of Voltaian sandstone. The extreme, near-vertical topographical gradient necessitates the famous, highly treacherous, tightly winding mountain road required to reach the affluent plateau towns above. The escarpment heavily dictates the local microclimate, forcing moist southern winds upward to generate dense, permanent cloud cover and heavy rainfall at the summit. Geography K7 — sheer plateau escarpments.",
+      "factsAdvanced": [
+        "A colossal, sheer rock wall forming the southern boundary of the massive Kwahu Plateau.",
+        "Rises abruptly and near-vertically from the bustling transit town of Nkawkaw.",
+        "Geologically exposes massive, thick bands of ancient Voltaian sandstone rock formations.",
+        "Necessitates a highly treacherous, tightly winding mountain road to reach the summit.",
+        "Forces moist southern winds sharply upward, generating heavy, localized orographic rainfall.",
+        "The extreme gradient completely isolates the plateau communities from the plains below."
+      ]
+    },
+    {
+      "id": "gambia-hills-relief-v2",
+      "descriptionAdvanced": "The Gambia Hills, situated in the remote, northwestern corner of the Savannah Region near the border with Côte d'Ivoire, are a rugged, highly isolated series of heavily wooded ridges. Unlike the flat savanna that dominates the rest of the region, these hills feature a complex, highly folded topography composed of ancient Birimian rocks. The sharp ridges and deep, concealed valleys provide an incredibly vital, undisturbed sanctuary for rare savanna wildlife, particularly leopards and massive troops of baboons. Due to the incredibly harsh, steep terrain and extreme distance from major logistical routes, the Gambia Hills remain one of the least explored and most geologically pristine topographical zones in Ghana. Geography K7 — remote folded ridges.",
+      "factsAdvanced": [
+        "A rugged, highly isolated series of wooded ridges located in the far northwestern Savannah Region.",
+        "Features a complex, highly folded topography composed of ancient Birimian rock formations.",
+        "Stands in stark, dramatic topographical contrast to the otherwise flat surrounding savanna.",
+        "The deep, concealed valleys provide a critical, undisturbed sanctuary for rare regional wildlife.",
+        "The extremely harsh, steep terrain makes large-scale commercial agriculture impossible.",
+        "Remains one of the least explored and most structurally pristine regions in the country."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "lang": "en",
+  "country": "guinea",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "timbo-mosque-history-v2",
+      "descriptionAdvanced": "The Timbo Mosque is a profound symbol of the Fouta Djallon's Islamic heritage, located in the historic village of Timbo. Founded in the early 18th century, Timbo served as the political and spiritual capital of the Fulani theocratic state, which exerted immense influence over West Africa for nearly two centuries. The original mosque, established by Karamoko Alpha, was the site where the ruling Almamys were crowned and where major state councils were held. While the structure has been rebuilt and modernized over the centuries, the site retains its aura of supreme religious authority and historical gravity. Pilgrims and scholars still visit Timbo to connect with the roots of West African Islamic scholarship and the legacy of a state that successfully resisted early colonial encroachment before finally falling to the French in 1896. History K8 — the Fouta Djallon theocracy and Islamic statecraft.",
+      "factsAdvanced": [
+        "Located in the village of Timbo in the Mamou Prefecture.",
+        "Timbo was the historic capital of the Fouta Djallon theocratic state.",
+        "The original mosque was founded in the early 18th century by Karamoko Alpha.",
+        "Served as the coronation site for the ruling Almamys of the empire.",
+        "Remains a significant pilgrimage site for West African Islamic scholars.",
+        "Represents a state that fiercely resisted French colonization until 1896."
+      ]
+    },
+    {
+      "id": "benty-port-history-v2",
+      "descriptionAdvanced": "The Benty Colonial Port, situated in the Forécariah Prefecture on the Mellacorée estuary, was once a thriving hub of maritime commerce during the late 19th and early 20th centuries. Established primarily by the French to export the region's abundant agricultural products—specifically bananas, pineapples, and palm oil—the port featured extensive wharves, warehouses, and a narrow-gauge railway system. Benty was highly active during the colonial 'banana boom', serving as the primary exit point for tropical fruits bound for European markets. However, following Guinea's independence in 1958 and the subsequent withdrawal of French capital and expertise, the port rapidly fell into disrepair. Today, the decaying concrete pylons and rusting iron tracks set against the encroaching mangroves serve as a melancholic monument to the extractive nature and subsequent collapse of colonial-era export economies. History K8 — colonial export economies and infrastructure abandonment.",
+      "factsAdvanced": [
+        "Located on the Mellacorée estuary in the Forécariah Prefecture.",
+        "A major French colonial port active during the late 19th and early 20th centuries.",
+        "Served as the primary export hub for Guinea's 'banana boom'.",
+        "Featured extensive infrastructure including wharves and a narrow-gauge railway.",
+        "Rapidly abandoned following Guinea's sudden independence in 1958.",
+        "The ruins now stand as a stark monument to collapsed colonial economies."
+      ]
+    },
+    {
+      "id": "kankan-milo-battlefield-history-v2",
+      "descriptionAdvanced": "The Kankan-Milo Battlefield marks the sites of a series of pivotal late 19th-century engagements between the expanding French colonial forces and the fiercely independent armies of Samori Touré's Wassoulou Empire. Located near the strategic city of Kankan along the Milo River, the area witnessed intense tactical warfare as Samori's well-equipped and highly disciplined 'Sofas' (soldiers) utilized the river's geography to delay the French advance. Samori's forces famously employed scorched-earth tactics and sophisticated guerrilla warfare, manufacturing their own modern rifles to counter the European artillery. Although the physical markers of the battles have largely faded into the savanna, the surrounding region remains steeped in the oral histories of these conflicts. The site is a testament to one of the most prolonged and organized resistance movements against European colonization in African history. History K8 — the Wassoulou Empire and anti-colonial military tactics.",
+      "factsAdvanced": [
+        "Located near the city of Kankan along the banks of the Milo River.",
+        "Site of major late 19th-century battles between the French and the Wassoulou Empire.",
+        "The Wassoulou forces were led by the legendary Emperor Samori Touré.",
+        "Samori's 'Sofas' uniquely manufactured their own modern firearms for the conflict.",
+        "The resistance featured sophisticated guerrilla and scorched-earth tactics.",
+        "Represents one of the longest resistance movements in African colonial history."
+      ]
+    },
+    {
+      "id": "wassoulou-empire-remains-history-v2",
+      "descriptionAdvanced": "The Wassoulou Empire Remains consist of scattered archaeological and historical sites spread across the eastern savannas of Guinea, primarily centered around the Kérouané and Kankan prefectures. Founded in 1878 by Samori Touré, the Wassoulou Empire was a highly organized, militaristic, and Islamic state that briefly dominated a vast swathe of West Africa. The empire was renowned for its sophisticated administrative structures, standing army, and extensive trade networks. Touré established several temporary capitals and fortifications across the region as he strategically retreated from advancing French forces over two decades. Today, visitors can find remnants of earthwork defensive walls, traditional forges used to manufacture weapons, and specific sites commemorated by local griots. These remains are crucial for understanding the scale and sophistication of pre-colonial African state-building and resistance. History K8 — pre-colonial state-building and the legacy of Samori Touré.",
+      "factsAdvanced": [
+        "Scattered sites located primarily in the Kérouané and Kankan prefectures.",
+        "Remnants of the Wassoulou Empire, founded by Samori Touré in 1878.",
+        "The empire featured a highly sophisticated administration and standing army.",
+        "Includes remnants of earthwork fortifications and traditional weapon forges.",
+        "The empire fiercely resisted French colonial expansion for over twenty years.",
+        "The history is actively preserved by the region's traditional Malinke griots."
+      ]
+    },
+    {
+      "id": "kindia-colonial-quarter-history-v2",
+      "descriptionAdvanced": "The Kindia Colonial Quarter offers a distinct architectural window into Guinea's early 20th-century history as a French protectorate. Developed primarily after the arrival of the Conakry-Niger railway in 1904, the quarter features wide, tree-lined avenues and fading examples of French colonial tropical architecture, including elevated administrative buildings with wide verandas and louvered windows designed to mitigate the heat. The area was historically the administrative heart of the region's booming agricultural export sector, managing the massive surrounding banana and citrus plantations. Key structures include the old railway station, the former governor's residence, and various historic trading houses. While many buildings have fallen into disrepair or been repurposed since independence, the quarter remains a tangible record of colonial urban planning and economic administration in West Africa. History K8 — colonial urban planning and early 20th-century administration.",
+      "factsAdvanced": [
+        "Located in the center of the regional capital city of Kindia.",
+        "Developed rapidly following the arrival of the Conakry-Niger railway in 1904.",
+        "Features distinctive French colonial tropical architecture with wide verandas.",
+        "Served as the administrative hub for the region's massive fruit export industry.",
+        "Key sites include the historic railway station and the former governor's residence.",
+        "Provides a physical record of European colonial urban design in West Africa."
+      ]
+    },
+    {
+      "id": "tinkisso-battlefield-history-v2",
+      "descriptionAdvanced": "The Tinkisso Battlefield, located near the town of Dabola along the Tinkisso River, marks the site of early resistance efforts by the Toucouleur Empire against French colonial expansion in the late 1880s. The region was a strategic crossroads where the forces of Ahmadu Tall, successor to El Hadj Umar Tall, clashed with French military columns advancing from the coast. The Toucouleur armies, utilizing a combination of cavalry charges and fortified positions, attempted to halt the European push into the resource-rich savannas and the Fouta Djallon. The battles were characterized by significant technological disparities but fierce local determination. Today, the battlefield is largely unmarked savanna, but it holds profound significance in local oral traditions as a symbol of the immense struggles faced by West African empires attempting to maintain their sovereignty during the Scramble for Africa. History K8 — the Toucouleur Empire and the Scramble for Africa.",
+      "factsAdvanced": [
+        "Located near the town of Dabola along the banks of the Tinkisso River.",
+        "Site of late 1880s clashes between the Toucouleur Empire and French forces.",
+        "The Toucouleur resistance was led by Ahmadu Tall, son of El Hadj Umar Tall.",
+        "The area was a highly strategic crossroads between the coast and the interior.",
+        "Characterized by fierce traditional cavalry charges against modern artillery.",
+        "Remains a vital part of local oral history despite lacking physical monuments."
+      ]
+    },
+    {
+      "id": "fouta-djallon-archives-history-v2",
+      "descriptionAdvanced": "The Fouta Djallon Archives, though often informal and dispersed among the private collections of prominent scholarly families in cities like Labé, Pita, and Timbo, represent an invaluable repository of West African intellectual history. These collections primarily consist of centuries-old manuscripts written in 'Ajami' (the Fulani language transcribed using the Arabic alphabet) alongside classical Arabic texts. The archives cover a vast array of subjects, including Islamic jurisprudence, astronomy, poetry, local history, and medicine, reflecting the profound scholarly culture of the Fouta Djallon theocracy from the 18th to the early 20th centuries. Efforts by modern historians and international organizations are currently underway to digitize and preserve these fragile documents, which are vulnerable to the humid climate and physical degradation, to ensure this rich African intellectual legacy is not lost to time. History K8 — West African intellectual history and Ajami manuscripts.",
+      "factsAdvanced": [
+        "A dispersed collection of historic manuscripts located primarily in the Fouta Djallon.",
+        "Consists heavily of texts written in 'Ajami' (Fulani written in Arabic script).",
+        "Dates from the height of the Fouta Djallon theocracy (18th-20th centuries).",
+        "Covers subjects ranging from Islamic jurisprudence to astronomy and poetry.",
+        "Many documents are held in the private collections of traditional scholarly families.",
+        "Currently the focus of vital international digitization and preservation efforts."
+      ]
+    },
+    {
+      "id": "grand-mosque-kankan-history-v2",
+      "descriptionAdvanced": "The Grand Mosque of Kankan is one of the most important and visually striking Islamic structures in Guinea, acting as the spiritual heart of the eastern savanna region. The current structure, which replaced older traditional mud-brick mosques, features distinctive green and white minarets and expansive prayer halls capable of holding thousands of worshippers. Kankan has historically been a major center of the Malinke people and a crucial hub for the influential 'Mori' (Islamic scholar) families who guided regional trade and education for centuries. The mosque is particularly vibrant during the annual Maouloud (Mawlid) celebrations, drawing massive crowds of pilgrims from across Guinea and neighboring Mali and Ivory Coast. It stands as a powerful testament to the enduring strength and unity of Islamic culture in West Africa. History K8 — Islamic architecture and Malinke spiritual centers.",
+      "factsAdvanced": [
+        "Located in the heart of Kankan, the largest city in eastern Guinea.",
+        "Serves as the primary spiritual center for the regional Malinke population.",
+        "Features distinctive, modern green and white minarets and large prayer halls.",
+        "Built on the site of historic, traditional mud-brick Islamic structures.",
+        "A major destination for thousands of pilgrims during the annual Maouloud festival.",
+        "Represents the historical influence of the 'Mori' Islamic scholarly families."
+      ]
+    },
+    {
+      "id": "palais-du-peuple-landmarks-v2",
+      "descriptionAdvanced": "The Palais du Peuple (Palace of the People) in Conakry is an iconic national landmark and the primary seat of Guinea's National Assembly. Constructed in the late 1960s with substantial assistance from the Chinese government, the building's massive, brutalist architecture reflects the socialist-aligned political orientation of President Sékou Touré's early regime. The sprawling complex includes a massive auditorium used for parliamentary sessions, international conferences, and major cultural performances, including the renowned national ballets. Over the decades, the esplanade surrounding the Palais has been the site of some of the most significant and tumultuous events in Guinean history, from massive independence rallies and state funerals to fierce political protests and strikes. It remains the undeniable epicenter of Guinean civic and political life. History K8 — post-colonial civic architecture and political history.",
+      "factsAdvanced": [
+        "Located in the capital city of Conakry, serving as the seat of the National Assembly.",
+        "Constructed in the late 1960s with major assistance from the Chinese government.",
+        "Features imposing, monumental brutalist architecture typical of the era.",
+        "Houses a massive auditorium used for parliament, conferences, and national ballets.",
+        "The surrounding esplanade is the historic site of major national protests and rallies.",
+        "A profound symbol of Guinea's post-independence socialist-aligned era."
+      ]
+    },
+    {
+      "id": "kindia-pineapple-plantations-life-v2",
+      "descriptionAdvanced": "The Kindia Pineapple Plantations represent one of Guinea's most dynamic and historically significant agricultural sectors. Located in the fertile valleys surrounding the city of Kindia, the region benefits from a unique microclimate with abundant rainfall and rich soils that are perfectly suited for tropical fruit cultivation. Commercial pineapple farming here dates back to the French colonial era when the fruit was exported heavily to Europe via the coastal railway. Today, the vast, spiky green fields are managed by a mix of large-scale commercial operations and vital cooperatives of local smallholder farmers. The most famous variety grown is the 'Baronne de Rothschild', prized regionally for its exceptional sweetness. The plantations are the economic lifeblood of the region, employing thousands of workers in cultivation, harvesting, and juice processing operations. Geography K7 — tropical cash crops and agricultural cooperatives.",
+      "factsAdvanced": [
+        "Located in the fertile, rain-abundant valleys of the Kindia Prefecture.",
+        "Commercial cultivation in the area dates back to the French colonial period.",
+        "Managed by a mix of large commercial farms and local smallholder cooperatives.",
+        "Famous for producing the highly prized 'Baronne de Rothschild' pineapple variety.",
+        "The industry is a massive regional employer for cultivation and harvesting.",
+        "A significant portion of the crop is processed locally into juices for domestic sale."
+      ]
+    },
+    {
+      "id": "kankan-rice-fields-life-v2",
+      "descriptionAdvanced": "The Kankan Rice Fields encompass the vast, fertile floodplains of the Milo River basin in eastern Guinea. Agriculture here is the cornerstone of life for the Malinke population, and the region is considered one of the primary 'breadbaskets' of the country. During the intense rainy season, the Milo River overflows its banks, depositing nutrient-rich silt across the wide savanna plains, creating ideal conditions for traditional lowland rice cultivation. The farming cycle dictates the cultural rhythm of the region, involving immense communal effort during the planting and harvest seasons, often accompanied by traditional griot music and drumming to encourage the workers. While modernization and mechanization are slowly being introduced, the vast majority of the fields are still worked using traditional, labor-intensive methods passed down through generations. Geography K7 — floodplain agriculture and seasonal farming cycles.",
+      "factsAdvanced": [
+        "Situated in the expansive floodplains of the Milo River basin near Kankan.",
+        "Considered one of the most vital agricultural 'breadbaskets' of Guinea.",
+        "Relies heavily on the annual flooding of the river to deposit nutrient-rich silt.",
+        "The primary crop is lowland rice, central to the local Malinke diet and economy.",
+        "Farming involves intense communal labor, often accompanied by traditional music.",
+        "Largely worked using traditional methods, with slow integration of mechanization."
+      ]
+    },
+    {
+      "id": "bafing-river-nature-v2",
+      "descriptionAdvanced": "The Bafing River, whose name translates to 'Black River' in the Manding languages, is one of the most critical waterways in West Africa, originating in the high, rugged plateaus of the Fouta Djallon. Flowing generally northwards, it is the primary upper tributary of the mighty Senegal River, eventually merging with the Bakoy River in Mali. The Bafing carved deep, spectacular gorges through the Guinean highlands, creating a diverse range of micro-habitats that support rare flora and fauna, including significant populations of West African chimpanzees. The river is not only an ecological lifeline but also a vital resource for local Fulani and Malinke communities who rely on it for fishing, dry-season agriculture, and the watering of extensive cattle herds. Its powerful flow also holds immense, yet largely undeveloped, hydroelectric potential for the region. Geography K7 — major West African watersheds and riverine ecology.",
+      "factsAdvanced": [
+        "Originates in the high plateaus of the Fouta Djallon in central Guinea.",
+        "The name 'Bafing' translates to 'Black River' in local Manding languages.",
+        "Serves as the primary upper tributary forming the mighty Senegal River.",
+        "Carves deep, ecologically diverse gorges through the Guinean highlands.",
+        "Provides critical habitat for endangered species, including West African chimpanzees.",
+        "A vital water resource for local pastoralist and agricultural communities."
+      ]
+    },
+    {
+      "id": "konkoure-river-nature-v2",
+      "descriptionAdvanced": "The Konkouré River is the most economically significant waterway within Guinea, flowing entirely within the country's borders from the Fouta Djallon highlands to the Atlantic Ocean just north of Conakry. The river descends rapidly through a series of steep cataracts and deep valleys, making it the premier location for Guinea's massive hydroelectric infrastructure, including the critical Kaléta and Souapiti dams. Before entering the ocean, the Konkouré widens into a massive, muddy estuary surrounded by one of the largest and most ecologically important mangrove swamp networks in West Africa. These mangroves are vital nurseries for marine life and protect the coastline from erosion. However, the river faces severe environmental pressure; its flow is highly regulated by the upstream dams, and its lower reaches are heavily impacted by nearby bauxite mining operations and port activities. Geography K7 — hydroelectric watersheds and estuarine ecosystems.",
+      "factsAdvanced": [
+        "Flows entirely within Guinea from the Fouta Djallon to the Atlantic Ocean.",
+        "The primary source of Guinea's hydroelectric power via the Kaléta and Souapiti dams.",
+        "Forms a massive, ecologically critical mangrove estuary at its coastal mouth.",
+        "The mangrove networks serve as vital nurseries for regional marine life.",
+        "The river's natural flow is now heavily regulated by massive upstream reservoirs.",
+        "Faces severe environmental pressure from regional bauxite mining and port activity."
+      ]
+    },
+    {
+      "id": "mount-soumba-nature-v2",
+      "descriptionAdvanced": "Mount Soumba is a striking and prominent mountain peak located near the city of Dubréka, just north of the capital, Conakry. Rising dramatically from the flat coastal plains, the mountain offers spectacular, sweeping views of the Atlantic Ocean, the sprawling mangrove estuaries, and the expanding urban sprawl of Conakry. The slopes of Mount Soumba are covered in thick, humid gallery forests that house a diverse array of bird species, monkeys, and small mammals, providing a crucial pocket of biodiversity in an increasingly urbanized region. The mountain features several stunning waterfalls that cascade down its rocky faces during the intense rainy season, making it a highly popular weekend retreat and hiking destination for city dwellers seeking to escape the heat and congestion of the capital. Geography K7 — coastal topography and urban nature retreats.",
+      "factsAdvanced": [
+        "A prominent mountain peak located in the Dubréka Prefecture near Conakry.",
+        "Offers sweeping panoramic views of the Atlantic coast and mangrove estuaries.",
+        "The slopes are covered in dense gallery forests supporting diverse local wildlife.",
+        "Features impressive seasonal waterfalls active during the heavy rainy season.",
+        "Serves as a vital, accessible nature retreat and hiking destination for city residents.",
+        "Represents a critical pocket of biodiversity amidst rapid regional urban sprawl."
+      ]
+    }
+  ]
+}

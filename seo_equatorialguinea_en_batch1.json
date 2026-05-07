@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ebebiyin-cities-v2",
+      "descriptionAdvanced": "Ebebiyin is strategically located on the northeastern border of Equatorial Guinea, serving as a vital trade outpost at the junction with Gabon and Cameroon. Situated in the Kie-Ntem province, the city has evolved into an essential economic hub due to its location at the 'tri-border' point, attracting daily transit of merchants and travelers. Despite the bustling cross-border activity, Ebebiyin maintains the vibrant character of a border town where local markets define the urban landscape and facilitate the exchange of goods and cultural influences. Infrastructure development continues to support the growing demand for efficient logistics in this connected border region. Geography K7, Economics K8.",
+      "factsAdvanced": [
+        "Located in the northeast of the Rio Muni region.",
+        "Border crossing point with Cameroon and Gabon.",
+        "Key transit hub for goods in the northeast.",
+        "Population is a diverse mix of local ethnic groups.",
+        "Climate characterized by lush tropical rainforests.",
+        "Center of the regional service sector."
+      ]
+    },
+    {
+      "id": "mongomo-cities-v2",
+      "descriptionAdvanced": "Mongomo is a modern and rapidly developing city in the eastern part of the Rio Muni region, serving as one of the most important administrative centers in Equatorial Guinea. Known as the hometown of influential political figures, the city has seen significant structural investment in recent years, highlighted by modern government buildings and a majestic basilica. These landmarks distinguish Mongomo from typical rural towns and reflect the nation's ambitious development goals. Its proximity to the Gabonese border fosters regional trade and strengthens the economic integration of the eastern mainland. History K8, Social Studies K7.",
+      "factsAdvanced": [
+        "Dominated by the architecture of the Basilica of Mongomo.",
+        "Strategically significant location near the Gabonese border.",
+        "Substantial infrastructural investments in recent years.",
+        "Key administrative hub for the eastern region.",
+        "The Basilica is one of the largest in West Africa.",
+        "Economic center for the eastern portion of the country."
+      ]
+    },
+    {
+      "id": "luba-cities-v2",
+      "descriptionAdvanced": "Luba, situated on the southwest coast of Bioko Island, is the second-largest city on the island and a crucial port location for the local timber industry. Its idyllic setting between dense forests of the island's interior and the expansive Atlantic coast gives Luba a unique character. Serving as a gateway to the less explored southern side of Bioko, it offers travelers an authentic glimpse into the island's lifestyle. With volcanic beaches and proximity to unspoiled woodland, Luba has become a starting point for nature enthusiasts and hikers seeking to explore the ecological diversity of the region. Geography K7, Ecology K8.",
+      "factsAdvanced": [
+        "Second-largest settlement on Bioko Island.",
+        "Major deep-water port for timber exports.",
+        "Surrounded by fertile volcanic soil.",
+        "Vital departure point for expeditions into the southern part of the island.",
+        "Climate heavily influenced by moist Atlantic winds.",
+        "Long historical significance as a trading center."
+      ]
+    },
+    {
+      "id": "evinayong-cities-v2",
+      "descriptionAdvanced": "Evinayong, the picturesque capital of the Centro Sur province, is nestled in the wooded highlands and is renowned for its comparatively mild and pleasant inland climate. As the administrative heart of the region, the city is a central hub for agricultural produce and a key connection point for the road network of Rio Muni. The city boasts a relaxed atmosphere, contrasting with the hectic coastal metropolises. Despite its modest size, Evinayong plays an essential role in supporting the local population and preserving traditional rural lifestyles that define the rhythm of life in Equatorial Guinea's central provinces. Geography K6, Agriculture K8.",
+      "factsAdvanced": [
+        "Capital of the Centro Sur province.",
+        "Situated in the central highlands of Rio Muni.",
+        "Known for trade in local agricultural products.",
+        "Climate is more temperate than the coastal region due to altitude.",
+        "Critical transit hub for the interior of the country.",
+        "Surrounding area largely comprised of pristine secondary forest."
+      ]
+    },
+    {
+      "id": "san-antonio-de-pale-cities-v2",
+      "descriptionAdvanced": "San Antonio de Pale is the only significant settlement and capital of the remote volcanic island of Annobon, located far south of the equator in the Gulf of Guinea. Due to its geographical isolation, a unique cultural identity has emerged there, distinct from both the mainland and Bioko Island. A notable feature of local society is the use of a Portuguese-based dialect, a remnant of historical connections to neighboring Sao Tome and Principe. The town is modest and deeply connected to the sea, which serves as the primary livelihood for most inhabitants. Geography K5, Culture K7.",
+      "factsAdvanced": [
+        "Only town on the island of Annobon.",
+        "Distinct linguistic identity rooted in Portuguese influences.",
+        "Geographically distant from the mainland of Equatorial Guinea.",
+        "Island of volcanic origin.",
+        "Economy based largely on traditional small-scale fishing.",
+        "Extremely isolated and peaceful location in the South Atlantic."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "lang": "ro",
+  "country": "lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLesothoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sehlabathebe-cities-v2",
+      "descriptionAdvanced": "Sehlabathebe este un sat montan minuscul, dar de o importanță enormă, servind drept poartă de acces către primul parc național al țării. Numele său înseamnă sugestiv 'platoul larg al scutului', o descriere perfectă pentru relieful stâncos, aparent neted, dar plin de capcane. Această localitate trăiește într-o izolare aproape completă, neavând o conexiune prin drum asfaltat fiabil până de curând, forțând locuitorii să folosească vehicule 4x4 sau cai. Aici se găsește o stațiune de cercetare dedicată protejării unui pește rar, endemic, numit peștele de râu Maloti (Pseudobarbus quathlambae). Comunitatea oferă servicii esențiale pentru puținii turiști aventuroși care ajung în parc, incluzând ghizi locali care cunosc traseele labirintice și grotele împodobite cu picturi preistorice. Geografie K7 — comunități izolate și parcuri naționale.",
+      "factsAdvanced": [
+        "Numele se traduce prin 'platoul larg al scutului'.",
+        "Este principalul punct de acces spre Parcul Național Sehlabathebe.",
+        "Altitudinea sa medie depășește 2.400 de metri.",
+        "Găzduiește sediul rangerilor pentru protejarea parcului (est. 1969).",
+        "Protejează ecosistemul endemic al peștelui de râu Maloti.",
+        "Așezarea rămâne înzăpezită și greu accesibilă iarna.",
+        "Turiștii depind adesea de ghizii locali pentru a naviga terenul."
+      ]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "descriptionAdvanced": "Ha Lejone este un sat impresionant situat de-a lungul meandrelor rezervorului creat de uriașul Baraj Katse, în nordul muntos al țării. Construcția barajului a transformat fundamental viața în Ha Lejone, inundând fostele pășuni, dar creând în același timp o resursă masivă de apă pentru o formă de acvacultură cu totul nouă în Lesotho: păstrăvul. Astăzi, localitatea găzduiește o fermă de păstrăv de succes care exportă produse premium pe piețele internaționale. Priveliștea este definită de contrastul dramatic dintre apa de un albastru profund și rocile cenușii ale munților. Satul profită și de noul drum asfaltat construit pentru baraj, devenind o haltă scenică pentru călători. Geografie K8 — schimbări ecologice majore.",
+      "factsAdvanced": [
+        "Așezat pe malurile inundate de marele Baraj Katse.",
+        "Găzduiește prima mare fermă de păstrăv din Lesotho.",
+        "Altitudinea zonei este de aproximativ 2.100 de metri.",
+        "A fost transformat radical de proiectul de apă Highlands Water Project.",
+        "Comunitatea s-a adaptat de la păstorit la piscicultură.",
+        "Oferă priveliști spectaculoase ale văii râului Bokong.",
+        "Este conectat de capitală printr-un drum montan modern."
+      ]
+    },
+    {
+      "id": "katse-cities-v2",
+      "descriptionAdvanced": "Katse nu este doar o așezare, ci epicentrul unuia dintre cele mai mari proiecte inginerești din Africa: Barajul Katse. Satul a fost construit inițial ca o tabără pentru miile de muncitori și ingineri implicați în megaproiectul demarat în 1990. Acum, localitatea prosperă datorită turismului generat de structura masivă de beton a barajului, care este cea mai înaltă de acest fel din Africa. Un element surprinzător aici este prezența unei grădini botanice alpine dedicate conservării plantelor care au fost mutate din calea apelor inundatoare. Katse reprezintă inima hidrologică a economiei statului, exportând 'aur alb' (apă) către regiunea uscată Gauteng din Africa de Sud. Geografie K8 — managementul resurselor hidrice și inginerie.",
+      "factsAdvanced": [
+        "Orașul a fost dezvoltat special pentru construcția Barajului Katse.",
+        "Altitudinea sa depășește frecvent 2.050 de metri.",
+        "Găzduiește faimoasa Grădină Botanică Alpină Katse.",
+        "Structura barajului din apropiere are o înălțime de 185 de metri.",
+        "Turismul inginereșc este principala sursă de venit locală.",
+        "Este nodul central al Lesotho Highlands Water Project.",
+        "Furnizează un procent uriaș din PIB-ul țării prin export de apă."
+      ]
+    },
+    {
+      "id": "thaba-bosiu-cities-v2",
+      "descriptionAdvanced": "Thaba-Bosiu este cel mai sacru sit istoric din Lesotho, tradus prin 'muntele nopții'. Acest munte cu vârf plat a fost fortăreața inexpugnabilă a regelui fondator Moshoeshoe I, servind ca adăpost și capitală pe parcursul secolului al XIX-lea, rezistând nenumăratelor asedii. Potrivit legendei locale, muntele creștea pe parcursul nopții pentru a împiedica invadatorii să-l escaladeze. Astăzi, platoul găzduiește mormintele regilor Basotho și rămășițele vechilor sate fortificate, fiind un loc de profund respect național. La baza muntelui s-a dezvoltat un centru turistic și un muzeu care păstrează artefacte din perioada războaielor Lifaqane. Este o mărturie vie a spiritului neînfricat și a diplomației care au format națiunea. Istorie K8 — simboluri naționale și fortărețe istorice.",
+      "factsAdvanced": [
+        "Considerat locul de naștere al națiunii Basotho.",
+        "Numele înseamnă literar 'muntele nopții'.",
+        "Aici se află mormintele vechilor regi, inclusiv Moshoeshoe I.",
+        "Fortăreața nu a fost niciodată cucerită prin asediu militar.",
+        "Situat la 24 de kilometri est de Maseru.",
+        "Înălțimea platoului domină câmpiile cu aproximativ 120 de metri.",
+        "Este cel mai important monument național al regatului."
+      ]
+    },
+    {
+      "id": "saint-michaels-cities-v2",
+      "descriptionAdvanced": "Saint Michael's este o așezare fondată în jurul unei misiuni catolice impunătoare situate în drumul către istoricul oraș Roma. Comunitatea și-a căpătat importanța ca punct spiritual și educațional, misiunea atrăgând inițial credincioși din văile izolate. Astăzi, satul a crescut de-a lungul arterei rutiere principale, combinând viața rurală tradițională cu facilități moderne de bază pentru navetiști. Biserica centrală din gresie masivă domină vizual peisajul și servește drept punct de adunare pentru festivitățile religioase majore. Câmpurile din jur sunt meticulos terasate de fermierii locali pentru a preveni eroziunea solului de pe dealurile aspre, protejând recoltele vitale de sorg. Geografie K7 — misiuni catolice și impact local.",
+      "factsAdvanced": [
+        "Numit după sfântul arhanghel, așezarea a început ca o misiune.",
+        "Se află pe principala rută rutieră dintre Maseru și Roma.",
+        "Biserica centrală este construită din gresie locală.",
+        "Servește ca un important centru comunitar și de învățământ.",
+        "Agricultura pe terase mici este esențială pentru subzistență.",
+        "Comunitatea combină moștenirea creștină cu cultura Basotho.",
+        "Altitudinea sa medie este în jur de 1.620 de metri."
+      ]
+    },
+    {
+      "id": "khabos-cities-v2",
+      "descriptionAdvanced": "Khabo's, sau simplu Khabo, este o localitate pitorească de pe malul râului Hlotse, înconjurată de dealuri stâncoase abrupte acoperite cu vegetație specifică stepelor înalte. Satul este adânc înrădăcinat în cultura creșterii cailor, reprezentând o comunitate unde abilitățile ecvestre sunt respectate și cultivate încă din copilărie. Viața așezării este adesea dictată de variațiile puternice ale debitului râului, care poate inunda terenurile agricole în veri ploioase. Femeile din Khabo sunt cunoscute pentru abilitățile lor excepționale de olărit tradițional, producând vase robuste destinate utilizării casnice. Oamenii de aici trăiesc o viață austeră, modelată de vremea capricioasă și de solidaritatea necesară pentru a supraviețui în munți. Geografie K6 — economie meșteșugărească și ecvestră.",
+      "factsAdvanced": [
+        "Așezat strategic în valea spectaculoasă a râului Hlotse.",
+        "Renumit pentru producția de olărit tradițional funcțional.",
+        "Creșterea cailor este o sursă importantă de mândrie.",
+        "Comunitatea se luptă adesea cu eroziunea solului (dongas).",
+        "Este un sat izolat care își bazează economia pe agricultură.",
+        "Se găsește în districtul Leribe din nord-vestul țării.",
+        "Altitudinea atinge aproximativ 1.680 de metri."
+      ]
+    },
+    {
+      "id": "maphutseng-cities-v2",
+      "descriptionAdvanced": "Maphutseng este un tărâm al secretelor geologice și arheologice, fiind celebru la nivel mondial pentru "Rada Dinozaurilor", un sit uimitor care expune șiruri întregi de amprente de dinozauri din perioada Triasicului. Localitatea, situată la sud de Mohale's Hoek, atrage cercetători și călători dornici să vadă dovezile vechi de milioane de ani păstrate pe lespezile netede de gresie ale albiilor de râu. În ciuda acestei bogății științifice, viața cotidiană a localnicilor rămâne ancorată în rutina păstoritului oilor și a cultivării porumbului. Dificultatea accesului și terenul stâncos limitează dezvoltarea urbană, păstrând satul într-o atmosferă autentică, netulburată de zgomotul orașelor. Acesta este locul în care timpul pare suspendat între milenii și prezentul imediat. Geografie K7 — situri paleontologice.",
+      "factsAdvanced": [
+        "Locația unuia dintre cele mai renumite situri paleontologice din țară.",
+        "Amprentele de dinozauri au o vechime de peste 200 de milioane de ani.",
+        "Este situat în districtul Mohale's Hoek, în sud.",
+        "Situl atrage turiști, dar nu dispune de infrastructură masivă.",
+        "Solurile stâncoase dictează un stil de viață pastoral sever.",
+        "Numele se traduce prin 'locul dovlecilor' (Maphutsi).",
+        "Așezarea este înconjurată de vârfuri mici și canioane."
+      ]
+    },
+    {
+      "id": "alwynskop-cities-v2",
+      "descriptionAdvanced": "Alwynskop este un mic punct nodal situat în districtul extrem sudic Quthing, definit de muntele ascuțit care dă numele așezării (Colina lui Alwyn în limba afrikaans). Comunitatea a crescut inițial ca un loc de odihnă și de comerț pentru negustorii care treceau granița colonială. Cu un climat aspru, influențat de altitudinea moderat-ridicată și de curenții de aer puternici, vegetația este predominant alcătuită din arbuști rezistenți și ierburi. Viața de zi cu zi este o ilustrare a tenacității umane: fermierii practică rotația culturilor pe soluri aride și se bazează masiv pe caprele de rasă Angora. Rutele comerciale locale cu provinciile sud-africane vecine rămân o resursă financiară crucială pentru multe familii. Geografie K6 — topografie rurală și arbuști.",
+      "factsAdvanced": [
+        "Numele are o rezonanță afrikaans, însemnând 'Colina lui Alwyn'.",
+        "Situat în apropierea regiunii sudice Quthing.",
+        "Comerțul se desfășoară intens cu regiunea Eastern Cape.",
+        "Altitudinea este de aproximativ 1.550 de metri.",
+        "Creșterea caprelor Angora pentru mohair este o industrie cheie.",
+        "Pământurile suferă de o lipsă cronică de apă vara.",
+        "Calea de acces este presărată cu trecători deluroase."
+      ]
+    },
+    {
+      "id": "letseng-la-terae-cities-v2",
+      "descriptionAdvanced": "Letšeng-la-Terae este excepțional la nivel global: găzduiește mina de diamante funcțională situată la cea mai mare altitudine din lume, la peste 3.100 de metri. Numele se traduce prin 'mlaștina de la capăt', făcând referire la zona mlăștinoasă originară acoperită acum de operațiunile miniere vaste. Așezarea în sine este dominată complet de infrastructura minei Letšeng, faimoasă pentru extragerea unora dintre cele mai mari și clare diamante albe găsite vreodată pe Pământ. Climatul aici este siberian, cu zăpezi frecvente care paralizează uneori zborurile, iar vegetația este practic absentă. Muncitorii locuiesc în facilități securizate și încălzite, subliniind caracterul de enclavă industrială extremă, vitală pentru economia monarhiei. Geografie K8 — mineritul de mare altitudine.",
+      "factsAdvanced": [
+        "Găzduiește mina de diamante la cea mai mare altitudine (3.100 m).",
+        "Aici a fost descoperit faimosul diamant 'Lesotho Promise' de 603 carate.",
+        "Temperaturile anuale medii sunt foarte scăzute, existând ninsori mari.",
+        "Numele înseamnă 'mlaștina de la capăt'.",
+        "Produce cele mai valoroase diamante pe carat din lume.",
+        "Mina operează printr-un parteneriat între guvern și companii private.",
+        "Nu este un oraș tradițional, ci un sit minier super-securizat."
+      ]
+    },
+    {
+      "id": "mantsonyane-cities-v2",
+      "descriptionAdvanced": "Situat în chiar inima geografică a regatului, Mantsonyane funcționează ca un punct vital de respirație pe lunga și sinuoasa rută est-vest a țării. Orașul este o oază urbană într-un peisaj montan altfel ostil, înconjurat de văi adânci și râuri cu debit rapid. Importanța sa strategică a dus la înființarea spitalului St. James de către misionarii anglicani în 1963, o unitate medicală crucială pentru comunitățile montane. Localnicii își mențin mijloacele de trai printr-un echilibru între mici afaceri rutiere pentru șoferi și creșterea ovinelor pe pajiștile înalte. Iarna, zona devine adesea izolată, făcând ca spiritul comunitar și resursele din Mantsonyane să fie esențiale pentru supraviețuire. Geografie K7 — centre medicale în zone izolate.",
+      "factsAdvanced": [
+        "Aici funcționează importantul spital misionar St. James (est. 1963).",
+        "Este un punct de oprire cheie pe ruta Maseru – Thaba-Tseka.",
+        "Situat la o altitudine impresionantă de circa 2.150 de metri.",
+        "Serviciile sale sunt vitale pentru zeci de sate izolate.",
+        "Afectat adesea de zăpezi grele și vreme extremă.",
+        "Este un nod pentru transportul pacienților aeropurtați iarna.",
+        "Populația este profund ancorată în creșterea ovinelor."
+      ]
+    },
+    {
+      "id": "ha-ntsi-cities-v2",
+      "descriptionAdvanced": "Ha Ntsi este un sat pitoresc ascuns în relieful complex al districtului Maseru, remarcabil pentru conservarea aproape perfectă a tradițiilor agrare de altădată. Departe de traficul intens, așezarea se distinge prin casele sale tradiționale din piatră de râu cioplită manual și acoperișuri conice din stuf, demonstrând măiestria locală în izolație termică. Agricultura aici depinde aproape exclusiv de precipitațiile sezoniere, familiile lucrând pământul cu unelte simple și atelaje cu boi. Seara, valea se umple de ecourile clopotelor de la gâtul vacilor, aduse înapoi în kraal-uri (țarcuri) de piatră. Este genul de loc care oferă o perspectivă profundă asupra modului în care generațiile trecute au conviețuit cu munții Maloti. Geografie K6 — sate tradiționale și tehnici de construcție.",
+      "factsAdvanced": [
+        "Comunitatea folosește arhitectura clasică a caselor rondavel.",
+        "Este situat într-o zonă muntoasă izolată a districtului Maseru.",
+        "Transportul și lucrul câmpului se bazează pe atelaje cu boi.",
+        "Nu are conexiune directă la rețele de apă curentă moderne.",
+        "Terenul stâncos necesită metode tradiționale de păstrare a apei.",
+        "Altitudinea este de aproximativ 1.700 de metri.",
+        "Este înconjurat de ravene spectaculoase și stânci golașe."
+      ]
+    },
+    {
+      "id": "ha-baroana-cities-v2",
+      "descriptionAdvanced": "Ha Baroana, tradus ca 'casa oamenilor mici', este un sit de importanță antropică colosală, un sanctuar neprețuit de artă rupestră lăsată de locuitorii antici San (boșimani). Situat într-o surplombă uriașă deasupra râului Liphiring, locul expune sute de picturi detaliate ale vânătorilor și animalelor sălbatice, inclusiv antilope eland, pantere și chiar struți, care odată cutreierau aceste tărâmuri. Deși este o așezare mică, importanța sa istorică atrage vizitatori din toată lumea. Din păcate, unele picturi au suferit deteriorări din cauza expunerii și vandalismului, declanșând eforturi locale de conservare. Comunitatea din apropiere oferă ghizi și povestitori care mențin vie conexiunea dintre arta dispărută și pământul prezent. Istorie K8 — poporul San și arheologie africană.",
+      "factsAdvanced": [
+        "Numele 'Ha Baroana' înseamnă 'casa oamenilor mici' (San).",
+        "Este unul dintre cele mai mari site-uri de artă rupestră din Lesotho.",
+        "Situl prezintă animale sălbatice demult dispărute din zonă.",
+        "Picturile sunt realizate cu pigmenți naturali ocru și sânge.",
+        "Situat la o distanță scurtă de mers pe jos de râul Liphiring.",
+        "A suferit degradări, dar acum beneficiază de protecție locală.",
+        "Altitudinea este relativ accesibilă, în jur de 1.650 de metri."
+      ]
+    },
+    {
+      "id": "ha-moitsupeli-cities-v2",
+      "descriptionAdvanced": "Ha Moitsupeli este o așezare liniștită care poartă numele unuia dintre liderii tribali care au ajutat la consolidarea puterii în regiune în timpul formării regatului Basotho. Aflată într-o vale favorizată de vânturi blânde, comunitatea se distinge printr-o coeziune socială foarte puternică, susținută prin adunările frecvente în casa șefului de sat. Păstoritul reprezintă sufletul economic al satului, turmele de capre Angora fiind o priveliște comună pe coastele abrupte din jur. Primăvara, florile sălbatice alpine transformă pantele sterpe într-un mozaic de culori efemere. Aici, copiii învață de timpuriu importanța cunoașterii surselor de apă și a plantelor medicinale din zonă, cunoștințe esențiale pentru supraviețuire. Geografie K6 — coeziune socială rurală.",
+      "factsAdvanced": [
+        "Satul poartă numele unui șef istoric local, Moitsupeli.",
+        "Se găsește în văile ondulate din regiunile inferioare montane.",
+        "Populația este expertă în creșterea caprelor Angora.",
+        "Agricultura practicată se bazează pe cunoștințe ancestrale.",
+        "Primăvara este marcată de scurte, dar intense înfloriri alpine.",
+        "Relațiile tribale sunt structurate în jurul unui 'khotla' (curte de sat).",
+        "Izolarea a menținut intact folclorul și dialectul tradițional."
+      ]
+    },
+    {
+      "id": "molimo-nthuse-cities-v2",
+      "descriptionAdvanced": "Cu un nume extrem de evocator care se traduce prin 'Dumnezeu ajută-mă', Molimo-Nthuse este o trecătoare montană legendară și un centru pentru ecoturism. Numele reflectă dificultatea teribilă a rutei originale pe care o parcurgeau călătorii pe spatele cailor pentru a traversa munții Machache. Astăzi, localitatea adiacentă este renumită pentru rezervația naturală pitorească și pentru tabăra de ponei, de unde turiștii pornesc în expediții de câteva zile pe trasee montane înguste. Râul Makhaleng curge curat și vijelios prin apropiere, alimentând cascade mici și iazuri glaciare perfecte pentru păstrăv. Vremea imprevizibilă de munte este o constantă, formând un mediu aspru, dar uimitor de frumos. Geografie K7 — turism ecvestru și trecători montane.",
+      "factsAdvanced": [
+        "Numele se traduce direct prin sintagma 'Dumnezeu ajută-mă'.",
+        "Altitudinea trecătorii adiacente este de 2.318 metri.",
+        "Găzduiește un faimos centru de trekking ecvestru (Pony Trekking).",
+        "A fost una dintre cele mai mortale rute montane din vechime.",
+        "Străbătută de cursul superior al râului Makhaleng.",
+        "Vremea poate schimba dramatic în câteva ore.",
+        "Vegetația include ierburi scurte și arbuști pitici."
+      ]
+    },
+    {
+      "id": "marakabei-cities-v2",
+      "descriptionAdvanced": "Marakabei, înființat în mijlocul defileurilor dramatice, este un nod de tranzit situat lângă inima geografică a regatului. Locul a devenit important odată cu dezvoltarea barajelor din munți, deoarece râul Senqunyane, un afluent major, taie un drum sinuos chiar pe lângă sat. În Marakabei funcționează o tabără mică care servea istoric ca han pentru negustorii și oficialii care încercau să ajungă în districtele estice. Terasele verzi îngrijite cu atenție demonstrează ambiția localnicilor de a stoarce hrană dintr-un sol capricios. Zăpezile abundente din iarnă oferă așezării o imagine de basm, dar complică sever accesul la piețele mari și la spitale, făcând independența o necesitate absolută. Geografie K6 — afluenți montani și rute de tranzit.",
+      "factsAdvanced": [
+        "Situat adiacent râului vijelios Senqunyane.",
+        "Un punct tradițional de odihnă pentru călătorii spre Thaba-Tseka.",
+        "Altitudinea depășește 2.000 de metri, atrăgând zăpezi abundente.",
+        "Satul susține mici hanuri de tradiție pentru drumeți.",
+        "Agricultura se face pe pantele extrem de abrupte.",
+        "Râul din apropiere susține pescuitul de păstrăv curcubeu.",
+        "Comunitatea se bazează adesea pe cai pentru transport iarna."
+      ]
+    },
+    {
+      "id": "ha-kome-cities-v2",
+      "descriptionAdvanced": "Ha Kome este unul dintre cele mai enigmatice sate din Africa de Sud, faimos pentru casele sale în peșteri construite sub o uriașă boltă de stâncă bazaltică. Așezarea a fost fondată la începutul secolului al XIX-lea de clanul Basia și Baphuthi ca ascunzătoare împotriva atacurilor și a triburilor canibale în timpul haosului generat de războaiele Lifaqane. Surprinzător, descendenții direcți ai fondatorilor locuiesc și astăzi în aceleași colibe semisferice din noroi și bălegar amestecat, construite direct pe pereții peșterii. Această continuitate de peste două secole oferă o imagine inestimabilă asupra istoriei pre-coloniale. Comunitatea a devenit un sit național protejat, atrăgând vizitatori dornici să vadă miracolul rezilienței umane într-un mediu atât de primitiv. Istorie K8 — ascunzători și războaiele Lifaqane.",
+      "factsAdvanced": [
+        "Colibele sunt construite complet sub o boltă de stâncă masivă.",
+        "Fondat la începutul secolului XIX pentru a scăpa de Lifaqane.",
+        "Unii dintre refugiați se ascundeau inclusiv de grupuri canibale.",
+        "Descendenții fondatorilor locuiesc în peșteri și în ziua de azi.",
+        "Casele sunt realizate din noroi, bălegar de vacă și paie.",
+        "Situl a fost declarat monument de patrimoniu național.",
+        "Izvorul din peșteră a furnizat mereu o sursă sigură de apă."
+      ]
+    },
+    {
+      "id": "ha-belo-cities-v2",
+      "descriptionAdvanced": "Ha Belo este o comunitate industrială tânără și extrem de importantă, situată la nord de orașul Butha-Buthe. Așezarea s-a transformat dintr-un sat agricol într-un complex efervescent datorită înființării unei zone industriale speciale destinate producției textile și atracției investițiilor străine. Scopul principal a fost crearea de locuri de muncă pentru comunitățile sărăcite din nordul țării. Datorită facilităților moderne de utilități și proximității față de granița sud-africană, sute de muncitori fac naveta zilnic. Această tranziție brutală de la creșterea tradițională a bovinelor la munca la bandă rulantă ilustrează perfect provocările economice ale statului Lesotho în secolul 21. Geografie K8 — zone industriale și globalizare.",
+      "factsAdvanced": [
+        "Găzduiește cel mai nou complex industrial major (Ha Belo Industrial Estate).",
+        "A fost conceput pentru a crea mii de locuri de muncă în nord.",
+        "Se concentrează puternic pe producția textilă pentru export.",
+        "Se află la mică distanță de orașul nordic Butha-Buthe.",
+        "Reprezintă o deviere economică majoră de la tradițiile rurale.",
+        "Complexul este susținut masiv prin investiții și granturi guvernamentale.",
+        "Populația satului a explodat datorită forței de muncă migrante."
+      ]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "descriptionAdvanced": "Likalaneng este o mică așezare expusă la elemente pe vastul platou montan central, unde orizontul este dominat de iarbă aurie, zăpadă și vânt. Comunitatea se mândrește cu faptul că trăiește într-una dintre cele mai spectaculoase trecători rutiere ale țării, reprezentând un punct de popas pentru traficul către barajul Mohale. Populația locală este adânc conectată de turmele lor de oi de lână, pastorii construind cabane joase din piatră pentru a se apăra de viscole. Pe parcursul iernii, stratul de zăpadă poate bloca orice activitate, impunând o pauză forțată și o dependență absolută de proviziile stocate toamna. Satul este o dovadă clară a vieții desfășurate în armonie strictă cu limitele impuse de natură. Geografie K7 — adaptarea sezonieră.",
+      "factsAdvanced": [
+        "Se găsește de-a lungul rutei esențiale către Barajul Mohale.",
+        "Altitudinea sa este printre cele mai înalte ale așezărilor locuite permanent.",
+        "Este renumit pentru vânturile reci ce străbat platoul golaș.",
+        "Locuințele sunt predominant structuri solide din piatră fără ferestre mari.",
+        "Economia satului este legată de vânzarea lânii pe piețele centrale.",
+        "Vremea extremă face necesară izolarea comunității săptămâni întregi.",
+        "Nu există copaci autohtoni de talie mare din cauza frigului."
+      ]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "descriptionAdvanced": "Maphutsaneng este o așezare liniștită, situată la poalele colinelor din zona de tranziție a districtului Mohale's Hoek, unde văile largi încep să urce spre platoul alpin. Viața curge lent aici, dictată de ciclurile recoltelor de vară și de iernile uscate. Spre deosebire de așezările pur montane, Maphutsaneng beneficiază de terenuri relativ argiloase și puține izvoare perene, permițând cultivarea unor loturi de legume verzi pe lângă recolta tradițională de porumb. Comunitatea își menține coeziunea prin adunări tradiționale denumite 'pitso', unde deciziile referitoare la pășunat și împărțirea apei sunt luate colectiv sub îndrumarea capului de sat. Femeile din localitate sunt cunoscute pentru rețetele lor locale pe bază de legume uscate. Geografie K6 — sate de tranziție altitudinală.",
+      "factsAdvanced": [
+        "Situat în districtul Mohale's Hoek, în zona de pre-munte.",
+        "Terenul permite o agricultură ușor mai diversificată.",
+        "Comunitatea se adună frecvent la 'pitso' (adunări publice).",
+        "Apele izvoarelor locale sunt gestionate printr-un sistem tradițional strict.",
+        "Altitudinea moderată permite cultivarea legumelor perene.",
+        "Așezarea este dispersată, fără un centru urban dens.",
+        "Folclorul local este menținut puternic de femeile din sat."
+      ]
+    },
+    {
+      "id": "tele-cities-v2",
+      "descriptionAdvanced": "Tele, un oraș-graniță fascinant din sud-vestul extrem al Lesotho-ului, stă ca o poartă îngustă între munții regatului și câmpiile Africii de Sud. Punctul vamal Tele Bridge traversează râul Tele, fiind o arteră crucială pentru schimbul comercial și migrația forței de muncă. Satul și-a căpătat importanța ca hub pentru trecătorii legali și ilegali în perioada în care minele sud-africane cereau masiv forță de muncă Basotho. Deși traficul internațional este o sursă importantă de venit, comunitatea suferă din cauza problemelor de contrabandă, așezarea fiind mereu sub supravegherea patrulelor de poliție. Valea râului Tele, totuși, este deosebit de roditoare, ascunzând ferme mici care prosperă pe ambele părți ale frontierei invizibile. Geografie K7 — economii transfrontaliere.",
+      "factsAdvanced": [
+        "Este locația importantului post vamal Tele Bridge.",
+        "Așezat pe malurile râului Tele, care formează granița naturală.",
+        "Este unul dintre cele mai sud-vestice puncte din Lesotho.",
+        "Traficul zilnic implică muncitori minieri și comercianți.",
+        "Râul de frontieră oferă o importantă sursă de irigații locale.",
+        "Este situat în jurisdicția districtului Quthing.",
+        "A fost un punct critic de migrație istorică spre mine."
+      ]
+    },
+    {
+      "id": "ha-mpiti-cities-v2",
+      "descriptionAdvanced": "Ascuns în districtul montan estic Qacha's Nek, Ha Mpiti este un exemplu remarcabil al izolației pastorale. Așezarea s-a format inițial ca o grupare de colibe de piatră ('motebong') folosite de păstorii aflați în transhumanță sezonieră, transformându-se treptat într-o comunitate stabilă. Terenul este incredibil de pietros, forțând locuitorii să sape terase înguste cu uneltele de mână pentru a planta sorg. Transportul rutier modern a sosit aici abia recent, iar infrastructura este susceptibilă la alunecări de teren în timpul musonului de vară. Copiii din sat parcurg distanțe uluitoare pe jos pentru a ajunge la singura școală primară din vale, reflectând valoarea uriașă pe care comunitatea o acordă educației într-un mediu izolat. Geografie K6 — bariere topografice în educație.",
+      "factsAdvanced": [
+        "Localitate situată în districtul estic Qacha's Nek.",
+        "A evoluat dintr-un simplu punct de transhumanță montană.",
+        "Altitudinea ridicată limitează dramatic opțiunile agricole.",
+        "Educația necesită călătorii lungi pe poteci periculoase.",
+        "Este vulnerabil la alunecări de teren și ploi abundente de vară.",
+        "Populația este profund devotată creșterii oilor pentru lână.",
+        "Tradițiile orale compensează lipsa facilităților moderne."
+      ]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "descriptionAdvanced": "Ha Sekake este o mică localitate care și-a dobândit notorietatea ca un avanpost regional important datorită clinicii sale misionare și a pistelor de aterizare scurte, vitale pentru 'Zborurile Doctorilor' ('Flying Doctors'). Aflat într-o zonă muntoasă severă a districtului Qacha's Nek, satul servește mii de locuitori din văile învecinate care nu au alte mijloace de a primi asistență medicală de urgență. Pista de pământ a satului este adesea o linie de salvare pentru pacienții blocați de drumurile noroioase iarna. Viața zilnică este orientată în jurul agriculturii pe scară mică, dominată de femei, deoarece mulți dintre bărbați sunt plecați cu turmele pe pășunile de mare altitudine sau lucrează în districtele urbane. Geografie K7 — asistență medicală aeriană și comunitate.",
+      "factsAdvanced": [
+        "Găzduiește o pistă de pământ esențială pentru elicopterele medicale.",
+        "Programul 'Flying Doctors' sprijină frecvent clinica locală.",
+        "Aflat într-o zonă montană îndepărtată din districtul Qacha's Nek.",
+        "Economia casnică este susținută în mare parte de femei.",
+        "Reprezintă o linie de salvare pentru satele montane lipsite de drumuri.",
+        "Drumurile din regiune sunt printre cele mai dificile din Lesotho.",
+        "Vremea poate face pista de aterizare impracticabilă zile întregi."
+      ]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "descriptionAdvanced": "Ha Rafanyane este o localitate obscură și fascinantă cuibărită în mijlocul reliefului stâncos, unde ritmurile vechiului regat Basotho bat netulburate. Este un sat de o frumusețe sălbatică, unde turmele de capre Angora cutreieră pantele amețitoare în căutarea ierburilor dulci de munte. Așezarea s-a format în jurul unui mic izvor vulcanic și se bazează pe sistemul cutumiar de gestionare a pământului administrat de liderul local (Morena). Fără acces la o rețea electrică stabilă, noptile din sat sunt de un întuneric absolut, iar comunitatea se bazează pe lămpi solare sau foc deschis. Aici, arta țeserii pălăriilor Mokotjeli este predată la perfecție, fiecare model de paie spunând o poveste locală distinctă. Geografie K6 — arte tradiționale și energie off-grid.",
+      "factsAdvanced": [
+        "Sat izolat ce păstrează vii tehnici prețioase de împletit.",
+        "Populația trăiește majoritar fără conectare la rețeaua electrică (off-grid).",
+        "Așezarea este guvernată de structuri tradiționale (Morena).",
+        "Turmele de capre Angora reprezintă 'banca' economică a satului.",
+        "S-a dezvoltat istoric în jurul unui izvor vulcanic stabil.",
+        "Altitudinea aduce frig extrem la primele ore ale dimineții.",
+        "Noaptea, cerul oferă una dintre cele mai clare vederi stelare."
+      ]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "descriptionAdvanced": "În districtul vast și aspru Thaba-Tseka se află Mashai, o așezare care funcționează ca poartă estică spre cheile și defileurile fluviilor majore. Numele său este sinonim cu pășunile imense, neîngrădite, unde generații de bărbați își aduc caii pentru a-i testa pe rute inaccesibile mașinilor. În mod istoric, satul a fost o stație pe rutele comercianților de vite, iar astăzi susține mici afaceri legate de vânătoarea ecologică, pescuit și drumeții montane extreme. Agricultura este periclitată de înghețurile târzii care decimează adesea culturile de grâu local. Comunitatea posedă un sentiment profund de rezistență, învățând să construiască diguri de pământ (terracing) pentru a salva puținul sol arabil împotriva torenților ploioși. Geografie K7 — ecologie montană și transport antic.",
+      "factsAdvanced": [
+        "Nod important pentru traseele ecvestre montane îndepărtate.",
+        "Se găsește în districtul central, muntos, Thaba-Tseka.",
+        "Găzduiește pescari datorită râurilor cu debit puternic.",
+        "Este amenințat constant de înghețuri agricole devastatoare.",
+        "Localnicii folosesc extensively diguri de pământ anti-eroziune.",
+        "Vastele pajiști neîngrădite atrag sute de crescători de animale.",
+        "Caii rămân principala modalitate de transport pe timp de viscol."
+      ]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "descriptionAdvanced": "Linakaneng este o mică dar rezilientă localitate de pe un platou înalt bătut de vânturi, unde clima dură a modelat fiecare aspect al vieții. Numele său evocă ideea de ramificare sau intersecție a crestelor muntoase. Deoarece sezonul cald este de scurtă durată, locuitorii trebuie să se grăbească în recoltarea porumbului și a legumelor rădăcinoase rezistente, uscându-le meticulos pe acoperișurile plate pentru rezervele de iarnă. Linakaneng este, de asemenea, cunoscut pentru lăcașul său tradițional de învățare, o tabără în care băieții adolescenți (lebollo) sunt trimiși pentru a trece la stadiul de adulți prin rituri de trecere riguroase. Această comunitate a rămas o redută a valorilor autentice Basotho în fața influențelor externe. Geografie K6 — rituri de trecere și securitate alimentară.",
+      "factsAdvanced": [
+        "Așezarea este faimoasă pentru practicarea intensă a riturilor 'lebollo'.",
+        "Numele sugerează o zonă de intersecție a crestelor montane.",
+        "Altitudinea sa determină un sezon agricol neobișnuit de scurt.",
+        "Conservarea hranei (uscarea) este vitală pentru supraviețuirea iernii.",
+        "Se bazează pe culturi de rădăcinoase rezistente la frig.",
+        "Majoritatea clădirilor sunt joase pentru a rezista vânturilor de platou.",
+        "Izolarea geografică menține cultura indigenă extrem de puternică."
+      ]
+    }
+  ]
+}

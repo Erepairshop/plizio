@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hollywood-sign-landmarks-v2",
+      "descriptionAdvanced": "The Hollywood Sign, perched on Mount Lee in the Hollywood Hills of Los Angeles, is perhaps the most globally recognizable symbol of the American entertainment industry. Originally erected in 1923 as 'Hollywoodland' to advertise a local real estate development, the sign eventually became an icon of the burgeoning movie industry as the 'Golden Age of Hollywood' flourished. While the sign has been restored and altered over time, it remains a powerful representation of the ambition, glamour, and mythology of the American film capital. Today, it stands not just as a landmark, but as a cultural beacon that draws millions to Los Angeles, symbolizing the city's role as the global center for cinematic imagination and celebrity fame. Geschichte K7 — Hollywood's growth and the evolution of film culture.",
+      "factsAdvanced": [
+        "Originally erected in 1923 as 'Hollywoodland' for a real estate project.",
+        "Became a global icon for the American entertainment industry.",
+        "Symbolizes the glamour, ambition, and history of the cinematic Golden Age.",
+        "Perched on Mount Lee in the Hollywood Hills of Los Angeles.",
+        "Has been restored and altered several times to become the current sign.",
+        "Globally recognized landmark representing the heart of Hollywood imagination."
+      ]
+    },
+    {
+      "id": "lincoln-memorial-landmarks-v2",
+      "descriptionAdvanced": "The Lincoln Memorial in Washington, D.C., is a monumental tribute to the 16th president of the United States, Abraham Lincoln, who preserved the Union during the American Civil War. Designed to resemble a Greek Doric temple, the monument features a massive seated statue of Lincoln, whose watchful gaze overlooks the Reflecting Pool and the Washington Monument. The memorial serves as more than just a monument to Lincoln; it is an enduring stage for American civic life. It was the site of Dr. Martin Luther King Jr.'s historic 'I Have a Dream' speech during the 1963 March on Washington, cementing its status as an essential site for demonstrations of freedom and the pursuit of civil rights in modern American history. Geschichte K8 — Civic engagement and the pursuit of equality.",
+      "factsAdvanced": [
+        "Monumental tribute to Abraham Lincoln in Washington, D.C.",
+        "Designed in the style of a classic Greek Doric temple.",
+        "Features a massive seated statue of President Lincoln.",
+        "Site of Martin Luther King Jr.’s famous 'I Have a Dream' speech.",
+        "Enduring stage for the American civil rights movement and civic protest.",
+        "Stands as a globally recognized symbol of freedom and American unity."
+      ]
+    },
+    {
+      "id": "washington-monument-landmarks-v2",
+      "descriptionAdvanced": "The Washington Monument, located in the center of the National Mall in Washington, D.C., is an iconic white marble obelisk built to commemorate George Washington, the nation’s first president and commander of the Continental Army. Construction of the monument, completed in 1884 after many delays, was a testament to the nation’s enduring reverence for Washington’s leadership during the American Revolution. As the tallest structure in the District of Columbia, its presence is a cornerstone of the American capital’s skyline and the symbolic center of national governance. Today, the monument remains a globally recognized site, symbolizing the foundational ideals of the United States and the enduring memory of the man who served as the architect of American republican democracy. Geschichte K8 — Founding leadership and capital monumentality.",
+      "factsAdvanced": [
+        "Iconic white marble obelisk commemorating President George Washington.",
+        "Completed in 1884 after many delays in the 19th century.",
+        "Stands as the tallest structure in the District of Columbia.",
+        "Located at the symbolic center of the American capital's National Mall.",
+        "Represents the nation's foundational commitment to republican leadership.",
+        "A cornerstone of the American capital’s architectural and symbolic identity."
+      ]
+    }
+  ]
+}

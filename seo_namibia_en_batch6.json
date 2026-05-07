@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "leuchtturm-swakopmund-history-v2",
+      "descriptionAdvanced": "The Swakopmund Lighthouse is one of the most prominent historical landmarks along the Namibian coast. Originally constructed in 1902 at a height of 11 meters, it was extended by a further 10 meters in 1910 to improve visibility for the increasingly busy German shipping traffic. The lighthouse was critical for navigating the treacherous, fog-bound Skeleton Coast before modern GPS. Today, it still functions as a working lighthouse, towering over the Swakopmund Museum and the historic Mole, serving as a powerful symbol of the town's maritime heritage. Geschichte K8 — maritime navigation.",
+      "factsAdvanced": [
+        "Located in the coastal town of Swakopmund.",
+        "Originally constructed in 1902 at a height of 11 meters.",
+        "Extended to its current height of 21 meters in 1910.",
+        "Built to guide German ships through the treacherous coastal fog.",
+        "Still functions as an operational lighthouse today.",
+        "Features a prominent red and white striped design."
+      ]
+    },
+    {
+      "id": "hohenzollernhaus-history-v2",
+      "descriptionAdvanced": "The Hohenzollernhaus in Swakopmund is a striking example of neo-Baroque architecture, originally built in 1906 as a luxurious hotel. Designed by architect Hermann Muthesius, its imposing facade is decorated with stucco angels and features a prominent corner tower, reflecting the wealth and ambition of the early German colonial period. Due to financial struggles, it was soon converted into an administrative building and later a residential complex. It remains one of the most photographed and architecturally significant colonial buildings in the country. Geschichte K8 — colonial architecture.",
+      "factsAdvanced": [
+        "Located in the center of Swakopmund.",
+        "Originally built in 1906 as a highly luxurious hotel.",
+        "Designed in a distinctive neo-Baroque architectural style.",
+        "The facade is famously decorated with stucco angels.",
+        "Converted into an administrative building shortly after opening.",
+        "Now functions as a private residential complex."
+      ]
+    },
+    {
+      "id": "woermannhaus-history-v2",
+      "descriptionAdvanced": "The Woermannhaus is a National Monument in Swakopmund, constructed in 1905 as the headquarters for the Woermann-Linie, a massive German shipping company. The building is renowned for its distinctive Damara Tower, which served as a lookout point to monitor arriving ships and incoming ox-wagons from the desert interior. During the South African administration, it was used as a school hostel before falling into disrepair. Extensively restored in the 1970s, it now houses the Swakopmund Public Library and an art gallery. Geschichte K8 — colonial trade networks.",
+      "factsAdvanced": [
+        "Constructed in 1905 as a maritime corporate headquarters.",
+        "Built for the powerful German shipping company, Woermann-Linie.",
+        "Features the prominent Damara Tower used as a lookout.",
+        "Restored extensively and declared a National Monument in 1976.",
+        "Currently houses the Swakopmund Public Library.",
+        "Built with distinctive wooden timber framing and courtyards."
+      ]
+    },
+    {
+      "id": "eduard-bohlen-history-v2",
+      "descriptionAdvanced": "The Eduard Bohlen is a famous shipwreck located along the treacherous Skeleton Coast, roughly 400 kilometers south of Walvis Bay. A 2,272-ton German cargo ship, it ran aground in thick fog on September 5, 1909, while en route to Swakopmund. What makes the wreck extraordinary is that over the past century, the relentless desert winds have pushed the coastline outward, leaving the massive rusted hull stranded almost 500 meters inland, completely surrounded by sand dunes. It serves as a stark visual reminder of the harsh, ever-changing Namib environment. Earth Science K6 — coastal desertification.",
+      "factsAdvanced": [
+        "A 2,272-ton German cargo ship that wrecked in 1909.",
+        "Located along the notorious Skeleton Coast.",
+        "Ran aground due to thick fog while en route to Swakopmund.",
+        "Currently sits roughly 500 meters inland due to desertification.",
+        "Completely surrounded by the shifting sand dunes of the Namib.",
+        "One of the most photographed shipwrecks in the world."
+      ]
+    },
+    {
+      "id": "bogenfels-diamantensiedlung-history-v2",
+      "descriptionAdvanced": "The Bogenfels Diamond Settlement was a thriving mining camp established in the early 1910s during the height of the German South West African diamond rush. Located in the highly restricted Sperrgebiet near the massive Bogenfels rock arch, the settlement housed hundreds of workers extracting diamonds from the harsh coastal gravels. The harsh climate and the discovery of richer deposits near Oranjemund led to its eventual abandonment in the 1930s. Today, only rusted machinery and crumbling stone ruins remain, preserved by the arid, salty desert air. Geschichte K8 — early mining settlements.",
+      "factsAdvanced": [
+        "Established in the early 1910s during the diamond rush.",
+        "Located in the highly restricted Sperrgebiet (Forbidden Area).",
+        "Situated near the famous 55-meter-high Bogenfels rock arch.",
+        "Housed hundreds of workers in extreme coastal conditions.",
+        "Abandoned in the 1930s as richer southern deposits were found.",
+        "Ruins are remarkably well-preserved by the dry desert climate."
+      ]
+    },
+    {
+      "id": "pomona-geisterstadt-history-v2",
+      "descriptionAdvanced": "Pomona is a desolate ghost town situated in the Sperrgebiet, renowned for having been one of the richest diamond deposits ever discovered. During its peak in the 1910s, diamonds were so plentiful they could literally be picked up off the ground by moonlight. The town boasted significant infrastructure, including a school and a doctor's practice, despite being located in one of the windiest places on Earth. After the richer deposits were exhausted, the town was abandoned in 1931, leaving behind a haunting collection of ruins slowly decaying in the harsh desert winds. Geschichte K8 — boom and bust economics.",
+      "factsAdvanced": [
+        "Located in the Sperrgebiet, south of Lüderitz.",
+        "Once home to the richest surface diamond deposits in the world.",
+        "Peak production occurred during the 1910s.",
+        "Known as one of the windiest locations on the planet.",
+        "Completely abandoned by 1931 as surface diamonds ran out.",
+        "Now functions as a strictly controlled tourist ghost town."
+      ]
+    },
+    {
+      "id": "diaz-spitze-history-v2",
+      "descriptionAdvanced": "Diaz Point (Diaz-Spitze) is a rugged, windswept promontory located just outside the coastal town of Lüderitz. It holds immense historical significance as the site where Portuguese explorer Bartolomeu Dias erected a stone cross (padrão) on July 25, 1488, during his pioneering voyage around the Cape of Good Hope. The original cross stood for centuries before being destroyed by the harsh elements; a replica now stands in its place. The point also features a classic 1915 lighthouse, warning modern ships away from the treacherous, rocky Atlantic coastline. Geschichte K8 — early European exploration.",
+      "factsAdvanced": [
+        "Located on a rocky peninsula just south of Lüderitz.",
+        "Site where Bartolomeu Dias landed on July 25, 1488.",
+        "Dias erected a stone cross (padrão) to mark the claim.",
+        "The original cross was destroyed by weather and replaced with a replica.",
+        "Features a functioning lighthouse built in 1915.",
+        "Exposed to extremely powerful winds and cold Atlantic swells."
+      ]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "descriptionAdvanced": "The Nakambale Museum is located in the northern town of Olukonda, within the Omusati Region. It is housed in the former residence of Martti Rautanen, a pioneering Finnish missionary who lived here from 1880 until his death in 1926. Rautanen, affectionately nicknamed 'Nakambale' (the one who wears a hat) by the locals, played a crucial role in translating the Bible into the Oshindonga language. The museum and the adjacent historic church offer a profound look at the intersection of Finnish missionary work and traditional Owambo culture. Geschichte K8 — missionary history and linguistics.",
+      "factsAdvanced": [
+        "Located in the village of Olukonda in northern Namibia.",
+        "Housed in the former home of Finnish missionary Martti Rautanen.",
+        "Rautanen lived here continuously from 1880 to 1926.",
+        "Locals nicknamed him 'Nakambale' due to his distinctive hat.",
+        "Rautanen translated the Bible into the local Oshindonga language.",
+        "The site includes a historic church built in 1889."
+      ]
+    },
+    {
+      "id": "ombalantu-baobab-history-v2",
+      "descriptionAdvanced": "The Ombalantu Baobab, located in the northern town of Outapi, is a living monument of immense historical and cultural significance. Estimated to be over 800 years old, this massive tree features a completely hollow trunk large enough to hold over 20 people. Historically, it served as a refuge for the local Ombalantu people during tribal raids. In the 20th century, the hollow interior was utilized as a post office, a chapel, and even a coffee shop. Today, it stands as a protected heritage site, symbolizing resilience and community heritage. Geschichte K8 — living monuments.",
+      "factsAdvanced": [
+        "Located in the town of Outapi in the Omusati Region.",
+        "Estimated to be approximately 800 years old.",
+        "Features a massive hollow trunk that can fit over 20 people.",
+        "Historically used as a hiding place during tribal conflicts.",
+        "Served variously as a post office and a Christian chapel.",
+        "Declared a national heritage site to protect its legacy."
+      ]
+    },
+    {
+      "id": "turnhalle-windhoek-history-v2",
+      "descriptionAdvanced": "The Turnhalle building in Windhoek is a site of critical political history for Namibia. Originally built in 1909 as a gymnasium ('Turnhalle' in German) for the local sports club, it became internationally famous in 1975 when it hosted the Turnhalle Constitutional Conference. This conference was a controversial attempt by the South African administration to draft a constitution for the territory, heavily criticized for entrenching ethnic divisions and excluding the SWAPO liberation movement. Today, the building serves as the headquarters for the SADC Tribunal. Geschichte K8 — political history and independence.",
+      "factsAdvanced": [
+        "Located in the central business district of Windhoek.",
+        "Built in 1909 originally as a German gymnastics hall.",
+        "Hosted the controversial Turnhalle Constitutional Conference in 1975.",
+        "The conference attempted to draft a constitution under South African rule.",
+        "Declared a National Monument due to its political significance.",
+        "Currently serves as the headquarters for the SADC Tribunal."
+      ]
+    },
+    {
+      "id": "schwerinsburg-history-v2",
+      "descriptionAdvanced": "Schwerinsburg is the largest of three distinctive, castle-like residences situated on the hills overlooking Windhoek. Originally built in 1890 by Curt von François as a defensive watchtower (Sperrburg), it was later purchased by the architect Wilhelm Sander in 1913. Sander transformed the tower into a romantic, sprawling neo-romantic castle for the wealthy Count von Schwerin. Built using local stone, the castle commands a dominating view of the city. Today, Schwerinsburg serves as the private residence of the Italian Ambassador to Namibia and is not open to the public. Geschichte K8 — colonial residential architecture.",
+      "factsAdvanced": [
+        "The largest of three castle-like buildings in Windhoek.",
+        "Originally constructed in 1890 as a defensive watchtower.",
+        "Transformed into a massive castle by architect Wilhelm Sander in 1913.",
+        "Named after its prominent owner, Count von Schwerin.",
+        "Commands a dominating view over the Windhoek city center.",
+        "Currently serves as the private residence of the Italian Ambassador."
+      ]
+    },
+    {
+      "id": "heinitzburg-history-v2",
+      "descriptionAdvanced": "Heinitzburg is one of the three prominent 'castles' of Windhoek, built in 1914 by the prolific architect Wilhelm Sander. Commissioned by Count von Schwerin as a residence for his fiancé, Margarethe von Heinitz, the building combines robust stone walls with elegant, romantic architectural flourishes. After changing hands multiple times throughout the 20th century, the castle was meticulously restored and converted into a luxury hotel in 1996. It is highly regarded for its historical ambiance and features a famous wine cellar built deep into the rock. Geschichte K8 — colonial history and tourism.",
+      "factsAdvanced": [
+        "One of the three famous historic castles located in Windhoek.",
+        "Constructed in 1914 by architect Wilhelm Sander.",
+        "Commissioned by Count von Schwerin for Margarethe von Heinitz.",
+        "Constructed using locally quarried natural stone.",
+        "Meticulously restored and converted into a luxury hotel in 1996.",
+        "Features an extensive wine cellar carved directly into the mountain rock."
+      ]
+    },
+    {
+      "id": "tintenpalast-history-v2",
+      "descriptionAdvanced": "The Tintenpalast, which translates to 'Ink Palace' in German, is the seat of both houses of the Namibian legislature: the National Council and the National Assembly. Built in 1913 by the German colonial administration to serve as the headquarters for the colonial government, the name playfully mocked the massive amount of ink used by the bureaucrats working within. Located prominently at the top of a hill, the building is surrounded by the beautifully manicured Parliament Gardens, which remain a highly popular public space for Windhoek residents. Geschichte K8 — government architecture.",
+      "factsAdvanced": [
+        "The name translates from German to 'Ink Palace'.",
+        "Built in 1913 to house the German colonial administration.",
+        "Currently serves as the seat of the Namibian Parliament.",
+        "The name was originally a satirical reference to bureaucratic paperwork.",
+        "Located prominently overlooking the Windhoek city center.",
+        "Surrounded by the popular, beautifully maintained Parliament Gardens."
+      ]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "descriptionAdvanced": "The Goerke Haus is one of the most magnificent historical residences in the coastal town of Lüderitz. Built in 1910 during the height of the diamond rush, it was the home of Hans Goerke, a prominent diamond inspector and magistrate. Designed in the Art Nouveau style, the house features opulent stained-glass windows, a sweeping wooden staircase, and sundials, built precariously into the solid rock of Diamond Mountain. Fully restored to its former glory, the house now functions as a museum, offering a glimpse into the immense wealth of the era. Geschichte K8 — diamond rush architecture.",
+      "factsAdvanced": [
+        "Built in 1910 during the height of the Lüderitz diamond rush.",
+        "Originally the residence of diamond inspector Hans Goerke.",
+        "Designed in a lavish, imported Art Nouveau architectural style.",
+        "Constructed directly onto the rock face of Diamond Mountain.",
+        "Features original imported stained-glass windows and woodwork.",
+        "Currently maintained as a public museum by the mining industry."
+      ]
+    },
+    {
+      "id": "marine-denkmal-history-v2",
+      "descriptionAdvanced": "The Marine Memorial (Marine-Denkmal) is a prominent historical monument located in Swakopmund, directly adjacent to the State House. Unveiled in 1908, the striking bronze statue depicts a German marine infantryman standing ready in combat gear. It was commissioned to commemorate the German marines who died assisting the Schutztruppe during the Herero-German War of 1904-1908. While deeply controversial due to its association with colonial oppression and the ensuing genocide, the monument is preserved as a complex historical artifact of Namibia's turbulent past. Geschichte K8 — colonial war monuments.",
+      "factsAdvanced": [
+        "Located in Swakopmund, next to the modern State House.",
+        "Unveiled in 1908 to commemorate German marine infantry.",
+        "Honors marines who died during the Herero-German War.",
+        "The central bronze statue was cast in Berlin and shipped to Africa.",
+        "Declared an official National Monument in 1969.",
+        "A controversial symbol preserved for its historical context."
+      ]
+    },
+    {
+      "id": "apollo-11-hoehle-history-v2",
+      "descriptionAdvanced": "The Apollo 11 Cave is a critical archaeological site located in the //Kharas Region, situated in a gorge above the Nuab River. Discovered in 1969 by German archaeologist Wolfgang Erich Wendt, the cave gained its unique name because Wendt heard the radio broadcast of the Apollo 11 moon landing while excavating the site. The cave is world-renowned for yielding some of the oldest mobile art ever discovered in Africa: seven painted stone slabs dating back approximately 27,500 years. This site is pivotal to understanding the early cognitive development of Homo sapiens. Geschichte K8 — prehistoric art and archaeology.",
+      "factsAdvanced": [
+        "Located in the //Kharas Region above the Nuab River.",
+        "Discovered and excavated by Wolfgang Erich Wendt in 1969.",
+        "Named after the Apollo 11 moon landing broadcast heard during excavation.",
+        "Contains some of the oldest mobile art discovered in Africa.",
+        "Yielded painted stone slabs estimated to be 27,500 years old.",
+        "Critical site for studying early human cognitive evolution."
+      ]
+    },
+    {
+      "id": "altes-amtsgericht-history-v2",
+      "descriptionAdvanced": "The Altes Amtsgericht (Old Magistrate's Court) is a remarkable historical building located in Swakopmund. Designed by Otto Ertl and completed in 1908, it was originally intended to function as a private school. However, due to funding shortages, the government took over the project, and it subsequently served as a magistrate's court until the 1970s. The building is renowned for its striking, ornate facade featuring prominent gables and intricate brickwork, standing as one of the finest examples of German colonial architecture along the Namibian coast. Geschichte K8 — colonial civic architecture.",
+      "factsAdvanced": [
+        "Located in the coastal town of Swakopmund.",
+        "Completed in 1908 and designed by architect Otto Ertl.",
+        "Originally planned as a private school before funding ran out.",
+        "Functioned as the local magistrate's court until the 1970s.",
+        "Renowned for its elaborate gables and decorative brickwork.",
+        "Now serves as municipal administrative offices."
+      ]
+    },
+    {
+      "id": "rheinische-missionskirche-history-v2",
+      "descriptionAdvanced": "The Rhenish Mission Church in Keetmanshoop is a beautifully preserved historical structure in southern Namibia. Constructed in 1895 by the Rhenish Missionary Society, the church was built using distinctive local stone, featuring a mix of Gothic elements that stand in stark contrast to the surrounding arid environment. For decades, it served as the spiritual and educational center for the local Nama community. Deconsecrated in the mid-20th century, the building was saved from demolition and currently houses the Keetmanshoop Museum, preserving local cultural history. Geschichte K8 — missionary history in the south.",
+      "factsAdvanced": [
+        "Located in Keetmanshoop, the capital of the //Kharas Region.",
+        "Constructed in 1895 by the Rhenish Missionary Society.",
+        "Built using distinctive local natural stone.",
+        "Served as a spiritual and educational center for the Nama people.",
+        "Declared a National Monument in 1978.",
+        "Currently functions as the Keetmanshoop Museum."
+      ]
+    },
+    {
+      "id": "christuskirche-windhoek-landmarks-v2",
+      "descriptionAdvanced": "The Christuskirche is an iconic landmark dominating the skyline of central Windhoek. Consecrated in 1910, the church was designed by Gottlieb Redecker following the end of the Herero and Namaqua wars. It features a highly unique architectural blend of neo-Gothic and Art Nouveau elements, constructed entirely from local quartz sandstone. Its striking spire and central location on a traffic island make it the most photographed building in the capital. The original stained-glass windows were a personal gift from Emperor Wilhelm II of Germany. Geography K7 — iconic national landmarks.",
+      "factsAdvanced": [
+        "The most recognizable and photographed landmark in Windhoek.",
+        "Consecrated in 1910 to commemorate the end of regional wars.",
+        "Designed in a blend of neo-Gothic and Art Nouveau styles.",
+        "Constructed from locally quarried quartz sandstone.",
+        "Located prominently on a traffic island in the city center.",
+        "Features stained-glass windows gifted by Emperor Wilhelm II."
+      ]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "descriptionAdvanced": "The Tintenpalast, meaning 'Ink Palace', is the historic seat of the Namibian Parliament, housing both the National Assembly and the National Council. Built in 1913, the building is a prime example of German colonial administrative architecture, featuring long corridors and high ceilings designed to manage the intense summer heat without modern air conditioning. The landmark is highly prized not just for its political significance, but for the lush Parliament Gardens that surround it, which are a vital recreational green space for the residents of Windhoek. Geography K7 — political landmarks and green spaces.",
+      "factsAdvanced": [
+        "Seat of the Namibian National Assembly and National Council.",
+        "Constructed in 1913 as the colonial government headquarters.",
+        "The name playfully references the massive use of bureaucratic ink.",
+        "Designed with high ceilings to naturally mitigate intense summer heat.",
+        "Surrounded by the popular, well-manicured Parliament Gardens.",
+        "A central symbol of Namibia's political and administrative history."
+      ]
+    }
+  ]
+}

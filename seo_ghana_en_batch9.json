@@ -1,0 +1,195 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tano-river-nature-v2",
+      "descriptionAdvanced": "The Tano River is a highly revered and ecologically vital river flowing through the western forest belt of Ghana. Originating near Techiman in the Bono East Region, it winds southward to form the final natural border between Ghana and Côte d'Ivoire before emptying into the Aby Lagoon. The river holds immense spiritual significance in Akan cosmology, widely considered a sacred deity (Okomfo Anokye allegedly drew mystical powers from it). Because of strict local taboos prohibiting fishing and the killing of its crocodiles, certain stretches of the river serve as pristine, indigenous conservation zones. However, its upper and middle reaches face severe threats from rampant illegal alluvial gold mining. Geography K7 — sacred rivers and indigenous conservation.",
+      "factsAdvanced": [
+        "Originates near Techiman and flows south to form the Ghana-Côte d'Ivoire border.",
+        "Empties into the expansive, coastal Aby Lagoon rather than directly into the ocean.",
+        "Considered a highly sacred deity within traditional Akan religious cosmology.",
+        "Local taboos strictly prohibit fishing and hunting crocodiles in specific sections.",
+        "Provides a rare example of highly effective, indigenous environmental conservation.",
+        "The upper basin is currently severely threatened by intensive illegal gold mining."
+      ]
+    },
+    {
+      "id": "oti-river-nature-v2",
+      "descriptionAdvanced": "The Oti River is a massive, powerful eastern tributary of the Volta River system, dominating the geography of the newly created Oti Region. Originating in the high plateaus of Burkina Faso and Benin, it flows aggressively southward, forming the international border between Ghana and Togo for a significant distance. The river basin is characterized by expansive, highly fertile floodplains that support immense agricultural activity, particularly yam and rice cultivation. Historically, the river was incredibly difficult to cross during the rainy season, deeply isolating the eastern corridor until modern bridges and ferry networks were established to integrate the region into the national economy. Geography K7 — eastern river borders.",
+      "factsAdvanced": [
+        "A major eastern tributary flowing directly into the massive Lake Volta system.",
+        "Forms a significant, natural geographical border between Ghana and Togo.",
+        "The extensive floodplains are incredibly fertile, driving regional yam production.",
+        "Originates in the elevated plateaus of neighboring Burkina Faso and Benin.",
+        "Historically acted as a massive physical barrier isolating the eastern corridor.",
+        "Features rapid, aggressive flows during the intense northern rainy season."
+      ]
+    },
+    {
+      "id": "busua-beach-nature-v2",
+      "descriptionAdvanced": "Busua Beach is widely regarded as one of the most pristine and picturesque coastal stretches in the Western Region of Ghana. Situated near the historic town of Dixcove, the beach features a long, incredibly broad sweep of clean, white sand completely sheltered by a natural bay, making it unusually safe for swimming compared to the treacherous rip currents common elsewhere on the Gulf of Guinea. The geography of the bay also creates consistent, manageable waves, transforming Busua into Ghana's premier destination for surfing. The beach is a critical economic anchor for the local community, blending traditional artisanal fishing with a booming international eco-tourism sector. Geography K7 — coastal eco-tourism and recreation.",
+      "factsAdvanced": [
+        "Located near the historic coastal settlement of Dixcove in the Western Region.",
+        "Features a highly sheltered natural bay, rendering the waters unusually calm.",
+        "Widely recognized as the premier destination for surfing in Ghana.",
+        "The wide, clean sandy beach is heavily utilized for international eco-tourism.",
+        "A small, uninhabited island sits directly offshore, accessible via local canoe.",
+        "Maintains a delicate balance between a booming tourist economy and traditional fishing."
+      ]
+    },
+    {
+      "id": "labadi-beach-nature-v2",
+      "descriptionAdvanced": "Labadi Beach, officially known as La Pleasure Beach, is the most heavily patronized and intensely active urban beach in the Greater Accra Region. Stretching along the coastline of the La township, the beach is characterized by strong Atlantic surf, wide sandy expanses, and a relentless, chaotic commercial atmosphere. While it serves as a primary recreational outlet for thousands of Accra residents every weekend—featuring horseback riding, acrobats, and massive outdoor concerts—it also perfectly illustrates the severe ecological pressures of urban coastal zones. The beach requires constant, intensive municipal management to combat severe plastic pollution and rapid coastal erosion driven by the expanding megacity. Geography K7 — urban coastal management.",
+      "factsAdvanced": [
+        "The most popular and heavily visited commercial urban beach in Greater Accra.",
+        "Located along the coastline of the traditional La township.",
+        "Characterized by a highly intense, chaotic blend of recreation and commerce.",
+        "Features strong, potentially dangerous Atlantic rip currents requiring constant lifeguards.",
+        "Faces extremely severe, continuous environmental challenges from urban plastic waste.",
+        "Serves as a massive, open-air cultural venue for weekend music and arts festivals."
+      ]
+    },
+    {
+      "id": "ada-foah-sea-nature-v2",
+      "descriptionAdvanced": "Ada Foah is a geographically stunning and highly dynamic coastal town located exactly where the massive Volta River violently merges with the Atlantic Ocean in the Greater Accra Region. The landscape is a complex, shifting estuarine environment composed of palm-lined sandy peninsulas, calm riverine islands, and aggressive oceanic surf. This unique meeting of fresh and salt water creates a highly specialized habitat for marine turtles, which use the isolated sandy spits for nesting. While Ada Foah is a rapidly growing luxury eco-tourism destination, the entire geographical structure of the estuary is profoundly threatened by aggressive, accelerating coastal erosion and rising sea levels. Geography K7 — estuarine dynamics and erosion.",
+      "factsAdvanced": [
+        "Located precisely at the massive estuary where the Volta River enters the Atlantic.",
+        "Features a highly dynamic, shifting geography of sandy peninsulas and river islands.",
+        "The isolated, sandy spits serve as critical nesting grounds for endangered marine turtles.",
+        "Represents a booming, high-end destination for water sports and luxury eco-tourism.",
+        "The specific meeting of fresh and saltwater creates a highly unique estuarine ecology.",
+        "Currently facing incredibly severe, aggressive structural threats from coastal erosion."
+      ]
+    },
+    {
+      "id": "cape-three-points-sea-nature-v2",
+      "descriptionAdvanced": "Cape Three Points, located at the extreme southern tip of the Western Region, holds the geographical distinction of being the southernmost point in Ghana. More remarkably, it is famously known as the 'land nearest nowhere,' as it is the closest landmass globally to the exact intersection of the Equator (0° latitude) and the Prime Meridian (0° longitude). The cape features a rugged, dramatic rocky coastline backed by a pristine, protected tropical forest reserve. While historically notable for its colonial lighthouse, the offshore waters of the cape have recently gained immense national strategic importance following massive discoveries of deep-water commercial oil and gas reserves. Geography K7 — extreme geographical coordinates.",
+      "factsAdvanced": [
+        "Geographically marks the absolute southernmost tip of the Ghanaian landmass.",
+        "The closest landmass globally to the intersection of the Equator and Prime Meridian.",
+        "Features a highly rugged, dramatic rocky coastline facing the violent open ocean.",
+        "Backed directly by the pristine, legally protected Cape Three Points Forest Reserve.",
+        "The offshore waters are the site of Ghana's massive commercial oil and gas discoveries.",
+        "Features a historic working lighthouse originally constructed in the year 1925."
+      ]
+    },
+    {
+      "id": "gulf-of-guinea-sea-nature-v2",
+      "descriptionAdvanced": "The Gulf of Guinea forms the entirety of Ghana's southern geographical boundary, stretching over 500 kilometers from the Togolese border in the east to the Ivorian border in the west. This massive, warm-water oceanic basin is the absolute lifeblood of the coastal economy, supporting hundreds of traditional artisanal fishing communities and massive commercial deep-water ports at Tema and Takoradi. The Gulf is characterized by strong, treacherous rip currents and a relatively narrow continental shelf that plunges quickly into the deep ocean. In the 21st century, the Gulf has been transformed into a highly militarized and industrialized zone due to intensive offshore petroleum extraction. Geography K7 — oceanic resources and maritime borders.",
+      "factsAdvanced": [
+        "Forms the absolute southern boundary of Ghana, stretching over 500 kilometers.",
+        "A warm-water, tropical oceanic basin constituting part of the eastern Atlantic Ocean.",
+        "Characterized geographically by a relatively narrow continental shelf.",
+        "Supports massive, indispensable national artisanal and commercial marine fishing fleets.",
+        "Features strong, highly dangerous coastal rip currents and heavy surf action.",
+        "Currently a zone of intense, highly strategic offshore petroleum drilling operations."
+      ]
+    },
+    {
+      "id": "kakum-canopy-forest-nature-v2",
+      "descriptionAdvanced": "The dense upper canopy of the Kakum National Park is a highly distinct, biologically segregated ecosystem hovering up to 40 meters above the dark, damp forest floor. This elevated environment is exposed to significantly more sunlight and intense tropical rains, supporting an entirely different array of flora and fauna than the ground level. It is dominated by massive emergent trees, thick parasitic lianas, and heavy clusters of epiphytic ferns and orchids. Biologically, the canopy is the most active zone of the rainforest, sheltering elusive, arboreal species such as the endangered Diana monkey, flying squirrels, and hundreds of species of specialized frugivorous birds. Sachkunde K3 — rainforest stratification.",
+      "factsAdvanced": [
+        "A highly distinct, biologically segregated ecosystem located 40 meters above ground.",
+        "Characterized by massive, towering emergent trees breaking through the dense ceiling.",
+        "Receives significantly higher levels of direct sunlight compared to the forest floor.",
+        "Supports massive, heavy clusters of epiphytic plants including ferns and rare orchids.",
+        "The primary habitat for highly specialized arboreal species like the Diana monkey.",
+        "Accessible to researchers and tourists via the famous suspended Kakum Canopy Walkway."
+      ]
+    },
+    {
+      "id": "bui-dam-lake-nature-v2",
+      "descriptionAdvanced": "The Bui Reservoir is a massive, artificial body of water created in 2013 by the damming of the Black Volta River at the Bui Gorge. Straddling the Bono and Savannah regions, the reservoir flooded roughly 444 square kilometers of pristine gallery forest and savanna within the Bui National Park. The creation of the lake dramatically and permanently altered the regional hydrology, displacing local communities and submerging a significant portion of the natural habitat of Ghana's largest hippopotamus population. However, it also created a massive new freshwater fishery and provides 400 megawatts of absolutely critical, renewable peaking power to the national electricity grid. Geography K7 — large-scale hydrological alteration.",
+      "factsAdvanced": [
+        "A massive artificial reservoir created in 2013 by damming the Black Volta River.",
+        "Flooded approximately 444 square kilometers of the protected Bui National Park.",
+        "Provides 400 megawatts of critical, renewable peaking power to the national grid.",
+        "Submerged significant portions of the prime habitat for a major hippopotamus population.",
+        "Fundamentally and permanently altered the hydrology of the western savanna region.",
+        "Has rapidly developed into a massive, highly active inland freshwater fishery."
+      ]
+    },
+    {
+      "id": "shai-hills-savanna-nature-v2",
+      "descriptionAdvanced": "The coastal savanna ecosystem surrounding the Shai Hills in the Greater Accra Region represents a stark, incredibly arid geographical anomaly. Despite being located near the coast, the Accra Plains receive exceptionally low rainfall due to a specific climatic phenomenon where the rain-bearing monsoon winds run parallel to the shore. Consequently, the landscape is defined by short, tough grasses, scattered drought-resistant neem trees, and massive termite mounds, closely resembling the deep Sahel rather than the humid tropics. This tough, open terrain is prone to natural bushfires but provides excellent visibility for observing the reserve's population of kobs and baboons against the backdrop of massive granite inselbergs. Geography K7 — coastal dry zones.",
+      "factsAdvanced": [
+        "An unusually arid coastal savanna ecosystem located on the flat Accra Plains.",
+        "Receives exceptionally low annual rainfall compared to the rest of the coastline.",
+        "The dry climate is caused by rain-bearing winds blowing parallel to the shore.",
+        "Dominated biologically by short, tough grasses and highly drought-resistant neem trees.",
+        "Prone to frequent, natural dry-season bushfires which maintain the open grasslands.",
+        "Visually punctuated by massive, ancient granite inselbergs rising from the plains."
+      ]
+    },
+    {
+      "id": "akwapim-togo-relief-v2",
+      "descriptionAdvanced": "The Akwapim-Togo range is the most prominent and continuous mountain chain in Ghana, representing a massive fold belt of ancient Precambrian rocks. Beginning just north of Accra as the relatively low Akuapem Ridge, the range stretches diagonally across the eastern corridor of the country, steadily gaining elevation as it crosses the Volta River and extends into the Oti Region before crossing into Togo. This dramatic topographical spine forms the absolute eastern boundary of the massive Volta River basin. The rugged, heavily forested slopes fundamentally dictate the hydrology, microclimates, and agricultural practices of the entire eastern half of Ghana. Geography K7 — structural fold mountains.",
+      "factsAdvanced": [
+        "The most massive, continuous mountain chain in the entire geographical territory of Ghana.",
+        "Formed by the intense tectonic folding of highly ancient Precambrian rock formations.",
+        "Stretches diagonally from near the capital city, Accra, northeast directly into Togo.",
+        "Forms the absolute, towering eastern boundary of the immense Volta River basin.",
+        "The high elevation drastically increases local rainfall compared to the surrounding plains.",
+        "Creates deep, highly fertile valleys supporting intense commercial agriculture."
+      ]
+    },
+    {
+      "id": "mount-afadja-relief-v2",
+      "descriptionAdvanced": "Mount Afadja, commonly referred to as Afadjato, is the highest officially recognized mountain peak in Ghana, standing at an elevation of exactly 885 meters (2,904 feet) above sea level. Located in the Agumatsa Range near the village of Liati Wote in the Volta Region, the mountain sits directly on the international border with Togo. The mountain's steep, sharply rising slopes are covered in incredibly dense, humid tropical forest, making the ascent highly challenging. The peak offers spectacular, sweeping panoramic views of the adjacent deep valleys and the Tagbo Falls. It is a premier destination for rugged eco-tourism and high-altitude ecological research. Geography K7 — highest national elevations.",
+      "factsAdvanced": [
+        "The highest officially recognized mountain peak within the borders of Ghana.",
+        "Stands at a measured elevation of exactly 885 meters (2,904 feet) above sea level.",
+        "Located within the rugged Agumatsa Range in the Hohoe municipality of the Volta Region.",
+        "The steep slopes are entirely blanketed by dense, humid tropical forest.",
+        "Geographically sits directly on the international borderline separating Ghana and Togo.",
+        "A highly popular, physically demanding destination for hiking and rigorous eco-tourism."
+      ]
+    },
+    {
+      "id": "kwae-escarpment-relief-v2",
+      "descriptionAdvanced": "The Kwae Escarpment is a sharp, heavily forested geological fault line located in the Eastern Region, forming part of the broader structural highlands that border the dense Ashanti forest. The escarpment features steep, abrupt drops in elevation, exposing deep layers of ancient sedimentary rock. This dramatic topography forces moist air masses upward, creating intense, localized orographic rainfall that sustains the highly fertile, humid microclimate below the ridge. The area surrounding the escarpment is renowned for massive, highly productive commercial oil palm and cocoa estates, which rely heavily on the rich, well-drained soils resulting from millennia of slope erosion. Geography K7 — fault lines and orographic rainfall.",
+      "factsAdvanced": [
+        "A sharp, geologically abrupt fault line located in the heavily forested Eastern Region.",
+        "Characterized by steep, dramatic vertical drops exposing ancient sedimentary rock layers.",
+        "The topography forcefully drives air masses upward, causing intense orographic rainfall.",
+        "The resulting heavy erosion creates incredibly deep, well-drained soils at the base.",
+        "The surrounding lands are dominated by massive commercial oil palm and cocoa estates.",
+        "Acts as a formidable natural barrier separating different regional ecological zones."
+      ]
+    },
+    {
+      "id": "kwahu-plateau-relief-v2",
+      "descriptionAdvanced": "The Kwahu Plateau is a massive, elevated block of sandstone located primarily in the Eastern Region, functioning as one of the most critical geographical features in southern Ghana. Stretching over 250 kilometers, the plateau rises sharply from the surrounding plains to an average elevation of 450 meters, creating a sheer, highly dramatic southern escarpment. Because of its massive elevation and dense forest cover, the plateau acts as the absolute primary watershed for several of Ghana's most vital rivers, including the Pra and the Afram. The cool, healthy climate atop the plateau historically attracted dense indigenous settlements and continues to support thriving agricultural communities. Geography K7 — massive sandstone plateaus.",
+      "factsAdvanced": [
+        "A colossal, elevated block of ancient sandstone situated primarily in the Eastern Region.",
+        "Rises sharply to an average elevation of 450 meters, featuring a sheer southern escarpment.",
+        "Stretches continuously for over 250 kilometers forming a massive geographical barrier.",
+        "Acts as the indispensable, primary watershed for the vital Pra and Afram river systems.",
+        "The extreme elevation produces a noticeably cooler, highly favorable local microclimate.",
+        "Hosts prosperous, historically significant mountaintop towns such as Abetifi and Mpraeso."
+      ]
+    },
+    {
+      "id": "volta-basin-relief-v2",
+      "descriptionAdvanced": "The Volta Basin is the absolute defining topographical feature of Ghana, a colossal, shallow geological depression that occupies nearly half of the entire nation's landmass. Structurally, it is a vast saucer of ancient sedimentary rocks surrounded by higher plateaus and escarpments, such as the Kwahu Plateau to the south and the Gambaga Escarpment to the north. Because it is the lowest geographical point in the region, practically all major river systems in northern and central Ghana—including the White, Black, and Red Volta—naturally drain into this massive central basin. The basin's geography was fundamentally exploited and permanently altered by the creation of Lake Volta in the 1960s. Geography K7 — massive sedimentary basins.",
+      "factsAdvanced": [
+        "A colossal geological depression occupying nearly 45% of Ghana's total land area.",
+        "Structurally formed as a massive saucer composed of ancient Voltaian sedimentary rocks.",
+        "Surrounded entirely by higher geological features like the Kwahu and Gambaga escarpments.",
+        "Functions as the ultimate drainage sink for all major northern and central river systems.",
+        "The consistently flat, low-lying topography made the creation of Lake Volta possible.",
+        "The soils within the basin are generally shallow and prone to severe dry-season hardening."
+      ]
+    }
+  ]
+}

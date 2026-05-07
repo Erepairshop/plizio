@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "tahoua-cities-v2",
+    "name": "Tahoua",
+    "desc": "Ein wichtiger Knotenpunkt f\u00fcr den Handel zwischen den W\u00fcstenregionen im Norden und dem fruchtbaren S\u00fcden."
+  },
+  {
+    "id": "agadez-cities-v2",
+    "name": "Agadez",
+    "desc": "Die legend\u00e4re W\u00fcstenstadt dient als Tor zur weiten Sahara und beeindruckt mit uralten Lehmmoscheen."
+  },
+  {
+    "id": "arlit-cities-v2",
+    "name": "Arlit",
+    "desc": "Die Industriestadt im rauen Norden entstand durch den Abbau von Uranvorkommen in der W\u00fcstenlandschaft."
+  },
+  {
+    "id": "dosso-cities-v2",
+    "name": "Dosso",
+    "desc": "Ein kulturell reiches Zentrum im S\u00fcdwesten, das tief in den vorkolonialen Traditionen verwurzelt ist."
+  },
+  {
+    "id": "diffa-cities-v2",
+    "name": "Diffa",
+    "desc": "Die \u00f6stlichste Metropole des Landes liegt strategisch nah an der Grenze zu Nigeria und dem Tschadsee."
+  },
+  {
+    "id": "birni-nkonni-cities-v2",
+    "name": "Birni-Nkonni",
+    "desc": "Eine lebendige Grenzstadt, die stark vom florierenden Austausch von landwirtschaftlichen Produkten profitiert."
+  },
+  {
+    "id": "tessaoua-cities-v2",
+    "name": "Tessaoua",
+    "desc": "Einst ein m\u00e4chtiges lokales F\u00fcrstentum, ist dieser Ort heute ein ruhiges Zentrum f\u00fcr Getreidebauern."
+  },
+  {
+    "id": "dogondoutchi-cities-v2",
+    "name": "Dogondoutchi",
+    "desc": "Eine malerische Kleinstadt, die durch trockene T\u00e4ler und von B\u00e4umen ges\u00e4umte Stra\u00dfen charakterisiert ist."
+  },
+  {
+    "id": "gaya-cities-v2",
+    "name": "Gaya",
+    "desc": "Direkt am Ufer des Niger positioniert, profitiert dieser Ort stark vom Grenzverkehr mit Benin."
+  },
+  {
+    "id": "madaoua-cities-v2",
+    "name": "Madaoua",
+    "desc": "Inmitten einer wichtigen Agrarzone gelegen, ist diese Ortschaft ber\u00fchmt f\u00fcr ihren Zwiebelanbau."
+  },
+  {
+    "id": "mayahi-cities-v2",
+    "name": "Mayahi",
+    "desc": "Eine wachsende Gemeinde, in der traditionelle Landwirtschaft und lokale Viehzucht die lokale \u00d6konomie antreiben."
+  },
+  {
+    "id": "tera-cities-v2",
+    "name": "T\u00e9ra",
+    "desc": "Eine ruhige Ortschaft im \u00e4u\u00dfersten Westen des Landes, nahe der Grenze zu Burkina Faso."
+  },
+  {
+    "id": "mirriah-cities-v2",
+    "name": "Mirriah",
+    "desc": "Dieses historische Dorf hat sich zu einer modernen Verwaltungseinheit mit starkem Fokus auf Landwirtschaft entwickelt."
+  },
+  {
+    "id": "tibiri-cities-v2",
+    "name": "Tibiri",
+    "desc": "Eine kompakte Ansiedlung im landwirtschaftlichen Herzen Nigers, die eng mit der Nachbarstadt Maradi verbunden ist."
+  },
+  {
+    "id": "tillaberi-cities-v2",
+    "name": "Tillab\u00e9ri",
+    "desc": "Als Tor zur Sahelzone bietet diese Stadt am Nigerufer gr\u00fcne Reisfelder inmitten trockener Gebiete."
+  },
+  {
+    "id": "magaria-cities-v2",
+    "name": "Magaria",
+    "desc": "Nahe der nigerianischen Grenze gelegen, floriert dieser Ort durch den konstanten Austausch von Handelswaren."
+  },
+  {
+    "id": "dakoro-cities-v2",
+    "name": "Dakoro",
+    "desc": "Eine entlegene Kommune, die von pastoralen Traditionen lebt und gro\u00dfe Herden von Nutztieren beherbergt."
+  },
+  {
+    "id": "nguigmi-cities-v2",
+    "name": "N",
+    "desc": "Die Oasenstadt im weiten Osten grenzt an die Ausl\u00e4ufer des schwindenden Tschadsees und bietet Zuflucht."
+  },
+  {
+    "id": "matameye-cities-v2",
+    "name": "Matameye",
+    "desc": "Dieses st\u00e4dtische Zentrum liegt eingebettet in fruchtbare Ebenen und ist ein Pfeiler der lokalen Versorgung."
+  },
+  {
+    "id": "illela-cities-v2",
+    "name": "Ill\u00e9la",
+    "desc": "Ein markantes Handelsdorf, das sich durch seine dynamischen Freiluftm\u00e4rkte einen Namen gemacht hat."
+  },
+  {
+    "id": "tanout-cities-v2",
+    "name": "Tanout",
+    "desc": "Gelegen am Rande der Sahara, trotzt diese Siedlung den trockenen Winden mit widerstandsf\u00e4higen Kulturen."
+  },
+  {
+    "id": "goure-cities-v2",
+    "name": "Gour\u00e9",
+    "desc": "Umgeben von sanften H\u00fcgeln, bietet dieses abgelegene Zentrum der Agrarwirtschaft eine friedliche Atmosph\u00e4re."
+  },
+  {
+    "id": "abalak-cities-v2",
+    "name": "Abalak",
+    "desc": "Diese Gemeinde feiert das nomadische Erbe und ist allj\u00e4hrlich Gastgeber farbenfroher kultureller Zusammenk\u00fcnfte."
+  },
+  {
+    "id": "aguie-cities-v2",
+    "name": "Agui\u00e9",
+    "desc": "Ein stark bev\u00f6lkerter Ort im S\u00fcden, der durch florierende Bauernm\u00e4rkte und handwerkliche Betriebe auff\u00e4llt."
+  },
+  {
+    "id": "ouallam-cities-v2",
+    "name": "Ouallam",
+    "desc": "Eine beschauliche Kleinstadt n\u00f6rdlich der Hauptstadt, die vorwiegend vom Hirtenwesen und Trockenfeldbau lebt."
+  },
+  {
+    "id": "filingue-cities-v2",
+    "name": "Filingu\u00e9",
+    "desc": "Eingebettet in trockene Steppen, bewahrt diese Siedlung den urspr\u00fcnglichen Lebensstil der Sahel-Bewohner."
+  },
+  {
+    "id": "bouza-cities-v2",
+    "name": "Bouza",
+    "desc": "Inmitten einer rauen Landschaft gelegen, bietet dieser Ort durch lokale Wasserprojekte gr\u00fcne R\u00fcckzugsorte."
+  },
+  {
+    "id": "keita-cities-v2",
+    "name": "Keita",
+    "desc": "Bekannt durch internationale Projekte zur Aufforstung, zeigt diese kleine Stadt beispielhaften Kampf gegen Bodenerosion."
+  },
+  {
+    "id": "tchirozerine-cities-v2",
+    "name": "Tchiroz\u00e9rine",
+    "desc": "Eine Industriestadt nahe Agadez, die prim\u00e4r von der Kohlef\u00f6rderung lebt und die Region mit Energie versorgt."
+  },
+  {
+    "id": "say-cities-v2",
+    "name": "Say",
+    "desc": "Als tiefreligi\u00f6ses Zentrum s\u00fcdlich der Hauptstadt lockt dieser Ort Gl\u00e4ubige mit alten Moscheen an das Nigerufer."
+  },
+  {
+    "id": "madarounfa-cities-v2",
+    "name": "Madarounfa",
+    "desc": "Ein malerisches Dorf in der N\u00e4he eines Sees, das in der Mythenwelt der lokalen St\u00e4mme eine gro\u00dfe Rolle spielt."
+  },
+  {
+    "id": "guidan-roumdji-cities-v2",
+    "name": "Guidan Roumdji",
+    "desc": "Versteckt zwischen weiten \u00c4ckern, dient diese aufstrebende Kommune als wichtiger Versorger f\u00fcr die Provinz."
+  },
+  {
+    "id": "maine-soroa-cities-v2",
+    "name": "Ma\u00efn\u00e9-Soroa",
+    "desc": "Diese \u00f6stliche Ansiedlung zeichnet sich durch die N\u00e4he zum Komadougou-Yob\u00e9-Fluss und fruchtbare Uferzonen aus."
+  },
+  {
+    "id": "tchin-tabaraden-cities-v2",
+    "name": "Tchin-Tabaraden",
+    "desc": "Als administratives Zentrum f\u00fcr Nomaden bietet dieser entlegene Ort wichtige Infrastruktur in der trockenen Sahel-Weite."
+  },
+  {
+    "id": "goudoumaria-cities-v2",
+    "name": "Goudoumaria",
+    "desc": "Eine isolierte kleine W\u00fcstenkommune im Osten, die stark vom lokalen Handel mit Datteln profitiert."
+  },
+  {
+    "id": "dungass-cities-v2",
+    "name": "Dungass",
+    "desc": "Gepr\u00e4gt von landwirtschaftlicher Expansion, ist dieser dynamische Ort ein Magnet f\u00fcr junge Familien der Region."
+  },
+  {
+    "id": "kollo-cities-v2",
+    "name": "Kollo",
+    "desc": "Nur einen Steinwurf von Niamey entfernt, bewahrt diese Siedlung dennoch ihren charmanten d\u00f6rflichen Charakter."
+  },
+  {
+    "id": "ayorou-cities-v2",
+    "name": "Ayorou",
+    "desc": "Malerisch auf Flussinseln des Niger gebaut, ist dieser Ort besonders f\u00fcr seinen bunten Sonntagsmarkt bekannt."
+  },
+  {
+    "id": "bermo-cities-v2",
+    "name": "Bermo",
+    "desc": "Inmitten der Halbw\u00fcste gelegen, dient das Dorf als wichtiger Rastplatz f\u00fcr wandernde Hirten und ihre Tiere."
+  },
+  {
+    "id": "banibangou-cities-v2",
+    "name": "Banibangou",
+    "desc": "Die kleine, raue Grenzsiedlung k\u00e4mpft tapfer mit klimatischen Bedingungen und bewahrt ihre Kultur."
+  },
+  {
+    "id": "ngourti-cities-v2",
+    "name": "N",
+    "desc": "Tief in den \u00f6stlichen Steppen verloren, verl\u00e4sst sich diese Gemeinde auf alte \u00dcberlebensstrategien in der D\u00fcrre."
+  },
+  {
+    "id": "tassara-cities-v2",
+    "name": "Tassara",
+    "desc": "Als Teil der weiten Nomadenrouten im Norden dient diese W\u00fcstengemeinde als seltener Zufluchtsort."
+  },
+  {
+    "id": "bankilare-cities-v2",
+    "name": "Bankilar\u00e9",
+    "desc": "Eine kleine l\u00e4ndliche Gemeinde, die ihre Lebendigkeit durch regelm\u00e4\u00dfige Viehm\u00e4rkte unter Beweis stellt."
+  },
+  {
+    "id": "tillia-cities-v2",
+    "name": "Tillia",
+    "desc": "Diese abgelegene Siedlung trotzt der feindlichen W\u00fcstenlandschaft und sch\u00fctzt uralte Quellen."
+  },
+  {
+    "id": "belbedji-cities-v2",
+    "name": "Belb\u00e9dji",
+    "desc": "Als agrarische Bastion in den trockenen Ebenen steht das Dorf f\u00fcr bemerkenswerte landwirtschaftliche Ausdauer."
+  },
+  {
+    "id": "iferouane-cities-v2",
+    "name": "If\u00e9rouane",
+    "desc": "Tief im majest\u00e4tischen A\u00efr-Gebirge gelegen, verzaubert diese ruhige Oase mit \u00fcppigen G\u00e4rten."
+  },
+  {
+    "id": "bilma-cities-v2",
+    "name": "Bilma",
+    "desc": "Bekannt in ganz Afrika f\u00fcr seine jahrhundertealten Salzminen, markiert dieser Ort das Ende historischer Karawanen."
+  },
+  {
+    "id": "fachi-cities-v2",
+    "name": "Fachi",
+    "desc": "Umgeben von Sandmeeren ist dieses kleine ummauerte Dorf ein Wunder menschlicher \u00dcberlebenskunst."
+  },
+  {
+    "id": "dirkou-cities-v2",
+    "name": "Dirkou",
+    "desc": "Diese wichtige Transitsiedlung in der Sahara verbindet Niger direkt mit den Karawanenwegen nach Libyen."
+  },
+  {
+    "id": "ingall-cities-v2",
+    "name": "Ingall",
+    "desc": "Als historisches R\u00fcckzugsgebiet der Sultane begeistert dieses Dorf mit jahrhundertealten Moscheen und Ruinen."
+  },
+  {
+    "id": "kantche-cities-v2",
+    "name": "Kantch\u00e9",
+    "desc": "Ein malerisches landwirtschaftliches Zentrum im S\u00fcden, das von ausgedehnten Feldern gepr\u00e4gt ist."
+  },
+  {
+    "id": "kornaka-cities-v2",
+    "name": "Kornaka",
+    "desc": "Die Kommune dient als ruhiges Bindeglied zwischen den weiten Savannen und den gesch\u00e4ftigeren St\u00e4dten im S\u00fcden."
+  },
+  {
+    "id": "malbaza-cities-v2",
+    "name": "Malbaza",
+    "desc": "Vor allem durch eine gewaltige Zementfabrik gepr\u00e4gt, ist dieser Ort ein seltener industrieller Eckpfeiler Nigers."
+  },
+  {
+    "id": "loga-cities-v2",
+    "name": "Loga",
+    "desc": "Eingebettet im Dosso-Departement, erh\u00e4lt diese Region ihr Wasser aus dem historischen Dallol-Tal-System."
+  },
+  {
+    "id": "balleyara-cities-v2",
+    "name": "Balleyara",
+    "desc": "Dieser Ort explodiert regelrecht vor Energie, wenn sein landesweit bekannter Viehmarkt jeden Sonntag stattfindet."
+  },
+  {
+    "id": "gotheye-cities-v2",
+    "name": "Goth\u00e8ye",
+    "desc": "Die Siedlung liegt idyllisch am gro\u00dfen Flussufer und pflegt eine tief verwurzelte Tradition des Bootsbaus."
+  },
+  {
+    "id": "damagaram-takaya-cities-v2",
+    "name": "Damagaram Takaya",
+    "desc": "Eingetaucht in die lange Geschichte der Damagaram-Sultane, ist dieser kleine Ort ein stolzer Bewahrer der Vergangenheit."
+  },
+  {
+    "id": "somair-uranium-mine-economic-v2",
+    "name": "Uranmine SOMAIR",
+    "desc": "Eine der gr\u00f6\u00dften und \u00e4ltesten Uranminen im Niger nahe Arlit, die von der Gesellschaft SOMAIR im Tagebau betrieben wird."
+  },
+  {
+    "id": "cominak-akouta-mine-economic-v2",
+    "name": "Uranmine COMINAK",
+    "desc": "Eine historische Untertage-Uranmine in Akouta nahe Arlit, die jahrzehntelang zu den gr\u00f6\u00dften der Welt geh\u00f6rte, bevor sie 2021 geschlossen wurde."
+  },
+  {
+    "id": "imouraren-mine-economic-v2",
+    "name": "Uranprojekt Imouraren",
+    "desc": "Eines der gr\u00f6\u00dften unerschlossenen Uranvorkommen der Welt, s\u00fcdlich von Arlit gelegen, mit Pl\u00e4nen f\u00fcr einen massiven zuk\u00fcnftigen Abbau."
+  },
+  {
+    "id": "soraz-zinder-refinery-economic-v2",
+    "name": "Raffinerie SORAZ",
+    "desc": "Die einzige Erd\u00f6lraffinerie Nigers nahe Zinder, betrieben als Joint Venture mit China zur Verarbeitung des in Agadem gef\u00f6rderten Roh\u00f6ls."
+  },
+  {
+    "id": "agadem-oil-field-economic-v2",
+    "name": "\u00d6lfeld Agadem",
+    "desc": "Ein gro\u00dfes Erd\u00f6lf\u00f6rdergebiet im Osten Nigers, das die Grundlage f\u00fcr die aufstrebende Erd\u00f6lindustrie und den Export des Landes bildet."
+  },
+  {
+    "id": "sonichar-tchirozerine-economic-v2",
+    "name": "Kohlekraftwerk SONICHAR",
+    "desc": "Ein Bergbau- und Kraftwerkskomplex in Tchirozerine, der Kohle abbaut, um Strom haupts\u00e4chlich f\u00fcr die Uranminen der Region Agadez zu erzeugen."
+  },
+  {
+    "id": "samira-hill-gold-mine-economic-v2",
+    "name": "Goldmine Samira Hill",
+    "desc": "Die erste kommerzielle Goldmine im Niger, im Liptako-Gourma-Gebiet nahe der Grenze zu Burkina Faso gelegen, ein Schl\u00fcsselfaktor f\u00fcr den Goldexport."
+  },
+  {
+    "id": "tchibarakaten-gold-mine-economic-v2",
+    "name": "Goldabbau Tchibarakaten",
+    "desc": "Ein abgelegenes, aber bedeutendes Goldabbaugebiet im A\u00efr-Gebirge, das viele handwerkliche Bergleute anzieht und die lokale Wirtschaft ankurbelt."
+  },
+  {
+    "id": "djado-gold-fields-economic-v2",
+    "name": "Goldfelder von Djado",
+    "desc": "Die historischen Regionen von Djado in der Sahara erlebten ab 2014 einen massiven Goldrausch, der Tausende von Goldsuchern in die extreme W\u00fcste lockte."
+  },
+  {
+    "id": "dosso-dry-port-economic-v2",
+    "name": "Trockenhafen Dosso",
+    "desc": "Ein wichtiges Logistikzentrum in Dosso zur Erleichterung des internationalen Frachtverkehrs vom und zum Binnenstaat Niger \u00fcber Seeh\u00e4fen in Benin."
+  },
+  {
+    "id": "niamey-river-port-economic-v2",
+    "name": "Flusshafen Niamey",
+    "desc": "Ein Hafen am Niger-Fluss in der Hauptstadt Niamey, der f\u00fcr die lokale und regionale Schifffahrt sowie den Warentransport w\u00e4hrend der Regenzeit genutzt wird."
+  },
+  {
+    "id": "gaya-river-port-economic-v2",
+    "name": "Hafen von Gaya",
+    "desc": "Gaya, an der Grenze zu Benin gelegen, dient als wichtiger Flusshafen am Niger und Grenzposten f\u00fcr den Handel in Richtung S\u00fcdatlantik."
+  },
+  {
+    "id": "malbaza-cement-plant-economic-v2",
+    "name": "Zementwerk Malbaza",
+    "desc": "Die wichtigste Zementfabrik im Niger, die lokal abgebaute Rohstoffe nutzt, um die wachsende Bauindustrie des Landes zu versorgen."
+  },
+  {
+    "id": "diori-hamani-cargo-hub-economic-v2",
+    "name": "Frachtflughafen Diori Hamani",
+    "desc": "Der internationale Flughafen von Niamey fungiert auch als der wichtigste Luftfracht- und Logistik-Hub f\u00fcr den Binnenstaat Niger."
+  },
+  {
+    "id": "goudel-water-plant-economic-v2",
+    "name": "Wasserwerk Goudel",
+    "desc": "Die zentrale Wasseraufbereitungsanlage in Niamey, die Wasser aus dem Niger entnimmt und die Hauptstadt mit wichtigem Trinkwasser versorgt."
+  },
+  {
+    "id": "kandadji-dam-project-economic-v2",
+    "name": "Kandadji-Talsperre",
+    "desc": "Ein riesiges Wasserkraft- und Bew\u00e4sserungsprojekt im Bau am Niger-Fluss, das die Energieunabh\u00e4ngigkeit und Landwirtschaft des Landes revolutionieren soll."
+  },
+  {
+    "id": "gorou-banda-power-economic-v2",
+    "name": "Kraftwerk Gorou Banda",
+    "desc": "Ein thermisches Kraftwerk in der N\u00e4he von Niamey, das zur Stabilisierung der Stromversorgung der Hauptstadt und zur Verringerung der Importabh\u00e4ngigkeit gebaut wurde."
+  },
+  {
+    "id": "bilma-salt-pans-economic-v2",
+    "name": "Salinen von Bilma",
+    "desc": "Ein historisches und immer noch aktives Zentrum der Salzgewinnung in der T\u00e9n\u00e9r\u00e9-W\u00fcste, von wo aus Kamelkarawanen das Salz bis heute transportieren."
+  },
+  {
+    "id": "fachi-salt-works-economic-v2",
+    "name": "Salinen von Fachi",
+    "desc": "Eine weitere wichtige Oase f\u00fcr die Salzgewinnung in der Sahara, deren Wirtschaft stark von der Salzproduktion f\u00fcr den Transsaharahandel abh\u00e4ngt."
+  },
+  {
+    "id": "zinder-tannery-economic-v2",
+    "name": "Gerbereien von Zinder",
+    "desc": "Traditionelle und semi-industrielle Anlagen in Zinder, die hochwertiges Leder produzieren, ein wichtiger Wirtschaftszweig in dieser historischen Handelsstadt."
+  },
+  {
+    "id": "niamey-abattoir-economic-v2",
+    "name": "Schlachthof Niamey",
+    "desc": "Der industrielle Schlachthofkomplex in der Hauptstadt, der eine zentrale Rolle in der Fleischverarbeitung und der Viehwirtschaft des Landes spielt."
+  },
+  {
+    "id": "galmi-onion-processing-economic-v2",
+    "name": "Zwiebelzentrum Galmi",
+    "desc": "Galmi ist das Epizentrum des Anbaus und der Verarbeitung der ber\u00fchmten violetten Zwiebeln, die in ganz Westafrika exportiert werden."
+  },
+  {
+    "id": "teguidda-salt-extraction-economic-v2",
+    "name": "Salzgewinnung Teguidda-n-Tessoumt",
+    "desc": "Eine einzigartige St\u00e4tte, an der salzige Tonerde abgebaut und in Hunderten von bunten Verdunstungsbecken zu Salz f\u00fcr Vieh verarbeitet wird."
+  },
+  {
+    "id": "maradi-dry-port-project-economic-v2",
+    "name": "Trockenhafen Maradi",
+    "desc": "Ein in Entwicklung befindliches Logistikzentrum in Maradi, das den Handel mit dem nahegelegenen Nigeria und anderen K\u00fcstenstaaten beschleunigen soll."
+  },
+  {
+    "id": "diffa-oil-exploration-economic-v2",
+    "name": "Erd\u00f6lexploration Diffa",
+    "desc": "Das Gebiet um Diffa ist ein wichtiger Sektor f\u00fcr die Erkundung und F\u00f6rderung von Erd\u00f6l im Tschadbecken, was erhebliche Investitionen anzieht."
+  },
+  {
+    "id": "koma-bangou-gold-economic-v2",
+    "name": "Goldfeld Koma Bangou",
+    "desc": "Einer der wichtigsten handwerklichen Goldabbauorte im Tillab\u00e9ri-Gebiet, an dem Zehntausende Menschen unter schwierigen Bedingungen nach Gold suchen."
+  },
+  {
+    "id": "ayorou-livestock-market-economic-v2",
+    "name": "Viehmarkt Ayorou",
+    "desc": "Einer der gr\u00f6\u00dften und wichtigsten Viehm\u00e4rkte in der Sahelzone, auf dem sonntags Tausende von Rindern, Schafen und Kamelen gehandelt werden."
+  },
+  {
+    "id": "zinder-peanut-processing-economic-v2",
+    "name": "Erdnussverarbeitung Zinder",
+    "desc": "Zinder war und ist ein wichtiges Zentrum f\u00fcr die Verarbeitung und den Handel mit Erdn\u00fcssen, einem historischen Exportgut Nigers."
+  },
+  {
+    "id": "tahoua-phosphate-mining-economic-v2",
+    "name": "Phosphatabbau Tahoua",
+    "desc": "Das Gebiet um Tahoua verf\u00fcgt \u00fcber bedeutende Phosphatvorkommen, die f\u00fcr die Herstellung von D\u00fcngemitteln und die lokale Landwirtschaft abgebaut werden."
+  },
+  {
+    "id": "agadez-logistics-hub-economic-v2",
+    "name": "Logistikzentrum Agadez",
+    "desc": "Agadez fungiert als wichtiger Umschlagplatz und "
+  },
+  {
+    "id": "ne-agadez-historic-centre-history-v2",
+    "name": "Historisches Zentrum von Agadez",
+    "desc": "Ein altes Karawanenzentrum der Tuareg und UNESCO-Weltkulturerbe, bekannt f\u00fcr seine Lehmarchitektur."
+  },
+  {
+    "id": "ne-agadez-mosque-history-v2",
+    "name": "Gro\u00dfe Moschee von Agadez",
+    "desc": "Ein beeindruckendes Bauwerk aus dem 16. Jahrhundert mit einem 27 Meter hohen Minarett aus Lehm."
+  },
+  {
+    "id": "ne-djado-ruins-history-v2",
+    "name": "Verlassene Stadt Djado",
+    "desc": "Die Ruinen einer alten befestigten Stadt in der Sahara, die einst ein wichtiger Rastplatz f\u00fcr Karawanen war."
+  },
+  {
+    "id": "ne-zinder-birni-history-v2",
+    "name": "Historisches Viertel Birni",
+    "desc": "Das alte Stadtzentrum von Zinder, bekannt f\u00fcr seine verwinkelten Gassen und traditionelle Hausa-Architektur."
+  },
+  {
+    "id": "ne-damagaram-palace-history-v2",
+    "name": "Sultanspalast von Zinder",
+    "desc": "Die historische Residenz des Sultans von Damagaram, ein Symbol der regionalen Macht und Tradition im 19. Jahrhundert."
+  },
+  {
+    "id": "ne-assode-ruins-history-v2",
+    "name": "Ruinen von Assod\u00e9",
+    "desc": "Die \u00dcberreste der einst wichtigsten und \u00e4ltesten Stadt der Tuareg im A\u00efr-Gebirge."
+  },
+  {
+    "id": "ne-fachi-fort-history-v2",
+    "name": "Karawanen-Fort Fachi",
+    "desc": "Eine historische Festung in der Oase Fachi, die dem Schutz der lebenswichtigen Salzkarawanen diente."
+  },
+  {
+    "id": "ne-bilma-salt-history-v2",
+    "name": "Historische Salzminen von Bilma",
+    "desc": "Die uralten Salinen von Bilma waren jahrhundertelang das R\u00fcckgrat des Transsaharahandels."
+  },
+  {
+    "id": "ne-dirkou-outpost-history-v2",
+    "name": "Historischer Vorposten Dirkou",
+    "desc": "Eine traditionelle Raststation in der Sahara, die seit der Antike Reisenden und H\u00e4ndlern Zuflucht bietet."
+  },
+  {
+    "id": "ne-arbre-tenere-history-v2",
+    "name": "Arbre du T\u00e9n\u00e9r\u00e9 Denkmal",
+    "desc": "Ein Metallbaum erinnert an den einst isoliertesten Baum der Welt, der als wichtiger Orientierungspunkt diente."
+  },
+  {
+    "id": "ne-dosso-palace-history-v2",
+    "name": "Historischer Palast von Dosso",
+    "desc": "Das traditionelle Machtzentrum des Zarma-K\u00f6nigreichs, das die Geschichte der Region Dosso pr\u00e4gte."
+  },
+  {
+    "id": "ne-maradi-history-v2",
+    "name": "Historisches K\u00f6nigreich Katsina-Maradi",
+    "desc": "Eine historische Hauptstadt, die von Fl\u00fcchtlingen aus dem von Fulani eroberten Katsina gegr\u00fcndet wurde."
+  },
+  {
+    "id": "ne-ouallam-capital-history-v2",
+    "name": "Alte Zarma-Hauptstadt Ouallam",
+    "desc": "Eine bedeutende historische Siedlung der Zarma, die eine wichtige Rolle bei der Abwehr regionaler Invasionen spielte."
+  },
+  {
+    "id": "ne-say-islamic-history-v2",
+    "name": "Say Islamisches Zentrum",
+    "desc": "Say war im 19. Jahrhundert einflussreich als intellektuelles und religi\u00f6ses Zentrum Westafrikas."
+  },
+  {
+    "id": "ne-tahoua-crossroads-history-v2",
+    "name": "Tahoua Karawanenkreuzung",
+    "desc": "Ein historischer Treffpunkt f\u00fcr Tuareg-Nomaden und sesshafte Hausa-Bauern, bekannt f\u00fcr den Handel."
+  },
+  {
+    "id": "ne-tillaberi-crossing-history-v2",
+    "name": "Tillab\u00e9ri Fluss\u00fcbergang",
+    "desc": "Ein alter, strategisch wichtiger Punkt zur \u00dcberquerung des Flusses Niger f\u00fcr Handelskarawanen."
+  },
+  {
+    "id": "ne-birni-nkonni-history-v2",
+    "name": "Historisches Birni-N",
+    "desc": "Eine historische Grenzstadt, die f\u00fcr ihren heftigen Widerstand gegen die franz\u00f6sische Kolonialherrschaft bekannt ist."
+  },
+  {
+    "id": "ne-gaya-history-v2",
+    "name": "Gaya Historisches Tor",
+    "desc": "Die s\u00fcdlichste Stadt Nigers hat eine lange Geschichte als wichtiges Handelsportal nach Benin und Nigeria."
+  },
+  {
+    "id": "ne-niamey-grand-market-history-v2",
+    "name": "Historischer Gro\u00dfer Markt Niamey",
+    "desc": "Ein traditioneller Handelsplatz, der im Herzen der Hauptstadt gewachsen ist und die koloniale mit der modernen Zeit verbindet."
+  },
+  {
+    "id": "ne-boubon-pottery-history-v2",
+    "name": "Historisches Boubon",
+    "desc": "Ein kleines Dorf auf einer Insel, das seit Generationen f\u00fcr seine traditionelle T\u00f6pferkunst bekannt ist."
+  },
+  {
+    "id": "ne-gobirawa-ruins-history-v2",
+    "name": "Gobirawa Ruinen",
+    "desc": "\u00dcberreste von Siedlungen, die an die Macht der Hausa aus Gobir vor der Fulani-Eroberung erinnern."
+  },
+  {
+    "id": "ne-tessaoua-history-v2",
+    "name": "Tessaoua Handelszentrum",
+    "desc": "Ein historisch wichtiges Zentrum f\u00fcr den Handel in der Sahelzone, bekannt f\u00fcr seine Unabh\u00e4ngigkeit im 19. Jahrhundert."
+  },
+  {
+    "id": "ne-arlit-uranium-history-v2",
+    "name": "Arlit Bergbau-Ursprung",
+    "desc": "Der historische Ort der Uranentdeckung im Jahr 1969, die die Wirtschaft Nigers grundlegend ver\u00e4nderte."
+  },
+  {
+    "id": "ne-madaoua-fort-history-v2",
+    "name": "Historisches Madaoua",
+    "desc": "Eine ehemals stark befestigte Siedlung in der Region Tahoua, die eine Rolle in den lokalen Konflikten spielte."
+  },
+  {
+    "id": "ne-goudoumaria-history-v2",
+    "name": "Goudoumaria Historische St\u00e4tte",
+    "desc": "Ein alter Rastplatz nahe dem Tschadsee, der von den Kanem-Bornu-Herrschern gepr\u00e4gt wurde."
+  },
+  {
+    "id": "ne-ngourti-well-history-v2",
+    "name": "Historischer Brunnen von N",
+    "desc": "Ein lebenswichtiger historischer Brunnen in der \u00f6stlichen W\u00fcste, um den sich Nomadengeschichten ranken."
+  },
+  {
+    "id": "ne-diffa-outpost-history-v2",
+    "name": "Historischer Kanem-Posten Diffa",
+    "desc": "Eine historische Grenzregion, die lange Zeit unter dem starken kulturellen Einfluss des Reiches von Bornu stand."
+  },
+  {
+    "id": "ne-nguigmi-chad-history-v2",
+    "name": "Historischer Hafen N",
+    "desc": "Einst eine florierende Siedlung direkt am Wasser, die die Geschichte des schrumpfenden Tschadsees bezeugt."
+  },
+  {
+    "id": "ne-madarounfa-lake-history-v2",
+    "name": "Historischer Madarounfa-See",
+    "desc": "Eine historische Wasserquelle, um die sich Legenden ranken und die heilige Gr\u00e4ber an ihren Ufern beherbergt."
+  },
+  {
+    "id": "ne-filingue-valley-history-v2",
+    "name": "Historisches Filingu\u00e9",
+    "desc": "Eine alte Siedlung im Dallol Bosso, die seit Jahrhunderten als Agrar- und Handelszentrum dient."
+  },
+  {
+    "id": "tapoa-animal-habitat-life-v2",
+    "name": "Tapoa Fluss-Reservat",
+    "desc": "Ein bedeutendes Schutzgebiet f\u00fcr Flusspferde am Niger-Nebenfluss."
+  },
+  {
+    "id": "goudel-kid-landmark-life-v2",
+    "name": "Goudel Spielpark",
+    "desc": "Ein beliebter Park f\u00fcr Familien in Niamey mit vielen Spielm\u00f6glichkeiten."
+  },
+  {
+    "id": "mara-agriculture-life-v2",
+    "name": "Maradi Getreide-Hub",
+    "desc": "Ein zentraler Ort f\u00fcr die landwirtschaftliche Produktion in der Region."
+  },
+  {
+    "id": "ter-animal-habitat-life-v2",
+    "name": "T\u00e9ra Vogelschutzgebiet",
+    "desc": "Ein wichtiges Habitat f\u00fcr Zugv\u00f6gel nahe der Grenze zu Burkina Faso."
+  },
+  {
+    "id": "gaya-agriculture-life-v2",
+    "name": "Gaya Zuckerrohr-Plantage",
+    "desc": "Eine gro\u00dfe landwirtschaftliche Anbaufl\u00e4che f\u00fcr Zuckerrohr im S\u00fcden."
+  },
+  {
+    "id": "doso-kid-landmark-life-v2",
+    "name": "Dosso Kindermuseum",
+    "desc": "Ein interaktives Museum f\u00fcr Kinder, um die Kultur des Landes zu entdecken."
+  },
+  {
+    "id": "agadez-kamel-habitat-life-v2",
+    "name": "Agadez Kamel-Oase",
+    "desc": "Ein traditionelles Gebiet zur Haltung und Pflege von W\u00fcstentieren."
+  },
+  {
+    "id": "zinder-land-kid-life-v2",
+    "name": "Zinder Kinder-Garten",
+    "desc": "Ein gesch\u00fctzter Bereich f\u00fcr Kinder zum Spielen und G\u00e4rtnern."
+  },
+  {
+    "id": "diffa-agri-life-v2",
+    "name": "Diffa Gem\u00fcsebau",
+    "desc": "Wichtige Anbaufl\u00e4chen f\u00fcr die lokale Versorgung im Osten des Landes."
+  },
+  {
+    "id": "tahoua-zoo-life-v2",
+    "name": "Tahoua Mini-Zoo",
+    "desc": "Ein kleiner Tierpark mit einheimischen Arten, ideal f\u00fcr Kinder."
+  },
+  {
+    "id": "filingue-agri-life-v2",
+    "name": "Filingu\u00e9 Getreide-Feld",
+    "desc": "Traditioneller Anbau von Hirse und Sorghum."
+  },
+  {
+    "id": "maradi-kids-life-v2",
+    "name": "Maradi Abenteuerplatz",
+    "desc": "Ein Freizeitort f\u00fcr Kinder mit Kletterm\u00f6glichkeiten."
+  },
+  {
+    "id": "gaya-bird-life-v2",
+    "name": "Gaya Feuchtgebiet",
+    "desc": "Ein reiches Habitat f\u00fcr Wasserv\u00f6gel am Fluss."
+  },
+  {
+    "id": "dosso-agri-life-v2",
+    "name": "Dosso Obstplantage",
+    "desc": "Anbau von Mangos und Zitrusfr\u00fcchten in kleinen Familienbetrieben."
+  },
+  {
+    "id": "tessaoua-agri-life-v2",
+    "name": "Tessaoua Gartenbau",
+    "desc": "Lokaler Gartenbau mit Fokus auf saisonales Gem\u00fcse."
+  },
+  {
+    "id": "konni-kids-life-v2",
+    "name": "Konni Kinder-Freizeitpark",
+    "desc": "Ein sicher eingez\u00e4unter Park f\u00fcr Kleinkinder."
+  },
+  {
+    "id": "madaoua-agri-life-v2",
+    "name": "Madaoua Ackerbau",
+    "desc": "Anbau von Zwiebeln und verschiedenen Getreidearten."
+  },
+  {
+    "id": "gour\u00e9-goat-life-v2",
+    "name": "Gour\u00e9 Ziegenweide",
+    "desc": "Ein weitl\u00e4ufiges Weidegebiet f\u00fcr Ziegenherden."
+  },
+  {
+    "id": "tera-bird-life-v2",
+    "name": "T\u00e9ra Vogelbeobachtung",
+    "desc": "Ein ruhiger Beobachtungspunkt f\u00fcr die lokale Vogelwelt."
+  },
+  {
+    "id": "kollo-mango-life-v2",
+    "name": "Kollo Mangohain",
+    "desc": "Ein Hain mit hundertj\u00e4hrigen Mangob\u00e4umen f\u00fcr den lokalen Markt."
+  },
+  {
+    "id": "say-river-life-v2",
+    "name": "Say Flussufer",
+    "desc": "Ein Habitat am Flussufer, wichtig f\u00fcr Amphibien und Wasserv\u00f6gel."
+  },
+  {
+    "id": "nga-fishing-life-v2",
+    "name": "N",
+    "desc": "Ein bedeutender Ort f\u00fcr den Fischfang nahe dem Tschadsee."
+  },
+  {
+    "id": "birni-kids-life-v2",
+    "name": "Birni Kinderspielplatz",
+    "desc": "Ein zentraler, kleiner Spielplatz f\u00fcr Familien."
+  },
+  {
+    "id": "magaria-agri-life-v2",
+    "name": "Magaria Getreideanbau",
+    "desc": "Weite Felder f\u00fcr den Anbau von Getreide und H\u00fclsenfr\u00fcchten."
+  },
+  {
+    "id": "tanout-kamel-life-v2",
+    "name": "Tanout Kamelweide",
+    "desc": "Ein ruhiges Weidegebiet am Rande der W\u00fcste."
+  },
+  {
+    "id": "mayahi-agri-life-v2",
+    "name": "Mayahi Anbaugebiet",
+    "desc": "Eine Region mit starkem Fokus auf die Landwirtschaft."
+  },
+  {
+    "id": "gaya-agri-life-v2",
+    "name": "Gaya Bew\u00e4sserungsland",
+    "desc": "Modernes Landwirtschaftsprojekt mit k\u00fcnstlicher Bew\u00e4sserung."
+  },
+  {
+    "id": "zinder-zoo-life-v2",
+    "name": "Zinder Tiergarten",
+    "desc": "Ein kleiner Tiergarten mit Fokus auf lokale Fauna."
+  },
+  {
+    "id": "maradi-kids-park-life-v2",
+    "name": "Maradi Kinderoase",
+    "desc": "Ein gr\u00fcner Spielbereich in der st\u00e4dtischen Umgebung."
+  },
+  {
+    "id": "diffa-frucht-life-v2",
+    "name": "Diffa Obstgarten",
+    "desc": "Anbau von einheimischen Obstsorten in kleinen Gruppen."
+  },
+  {
+    "id": "niger-fluss-nature-v2",
+    "name": "Niger",
+    "desc": "Der l\u00e4ngste Fluss Westafrikas, der eine lebenswichtige Lebensader f\u00fcr Niger darstellt."
+  },
+  {
+    "id": "tschadsee-nature-v2",
+    "name": "Tschadsee",
+    "desc": "Ein bedeutender endorheischer See, der an der Grenze zwischen Niger, Tschad, Kamerun und Nigeria liegt."
+  },
+  {
+    "id": "air-gebirge-nature-v2",
+    "name": "A\u00efr-Gebirge",
+    "desc": "Ein isoliertes Gebirgsmassiv im Norden Nigers, das aus vulkanischen Gesteinen besteht."
+  },
+  {
+    "id": "tenere-wueste-nature-v2",
+    "name": "T\u00e9n\u00e9r\u00e9",
+    "desc": "Ein riesiges Sandmeer in der Sahara, das fast vollst\u00e4ndig in Niger liegt."
+  },
+  {
+    "id": "dallol-bosso-nature-v2",
+    "name": "Dallol Bosso",
+    "desc": "Ein altes, fossiles Flusstal im S\u00fcdwesten Nigers, das periodisch Wasser f\u00fchrt."
+  },
+  {
+    "id": "gourma-nature-v2",
+    "name": "Gourma",
+    "desc": "Eine Region mit Baumsavannen und Waldland, die sich \u00fcber Niger und Mali erstreckt."
+  },
+  {
+    "id": "plateau-djado-nature-v2",
+    "name": "Djado-Plateau",
+    "desc": "Ein Hochplateau im Nordosten Nigers, ber\u00fchmt f\u00fcr seine antiken Felszeichnungen."
+  },
+  {
+    "id": "gueltas-air-nature-v2",
+    "name": "Gueltas im A\u00efr-Gebirge",
+    "desc": "Nat\u00fcrliche Wasserbecken in Felsspalten, die in der trockenen W\u00fcstenlandschaft \u00fcberdauern."
+  },
+  {
+    "id": "kaouar-oasen-nature-v2",
+    "name": "Kaouar-Oasen",
+    "desc": "Eine Kette von Oasen entlang der Kaouar-Klippen in der Sahara."
+  },
+  {
+    "id": "erg-t\u00e9n\u00e9r\u00e9-nature-v2",
+    "name": "Erg T\u00e9n\u00e9r\u00e9",
+    "desc": "Ein Teilbereich der T\u00e9n\u00e9r\u00e9-W\u00fcste, gepr\u00e4gt durch riesige, wandernde Sandd\u00fcnen."
+  },
+  {
+    "id": "goulbi-maradi-nature-v2",
+    "name": "Goulbi de Maradi",
+    "desc": "Ein saisonaler Fluss im S\u00fcden Nigers, der durch die Region Maradi flie\u00dft."
+  },
+  {
+    "id": "komadougou-yobe-nature-v2",
+    "name": "Komadougou Yob\u00e9",
+    "desc": "Ein Grenzfluss, der in den Tschadsee m\u00fcndet."
+  },
+  {
+    "id": "massif-termite-nature-v2",
+    "name": "Termit-Massiv",
+    "desc": "Ein Gebirgszug im Osten Nigers, der durch spektakul\u00e4re Felsformationen besticht."
+  },
+  {
+    "id": "fachi-oase-nature-v2",
+    "name": "Fachi-Oase",
+    "desc": "Eine abgelegene Oase in der W\u00fcste T\u00e9n\u00e9r\u00e9."
+  },
+  {
+    "id": "bilma-oase-nature-v2",
+    "name": "Bilma-Oase",
+    "desc": "Eine bedeutende Oase, die seit Jahrhunderten f\u00fcr ihren Salz- und Dattelhandel bekannt ist."
+  },
+  {
+    "id": "plateau-damagaram-nature-v2",
+    "name": "Damagaram-Plateau",
+    "desc": "Ein Plateau im s\u00fcdlichen Niger, gepr\u00e4gt durch trockene Savannenlandschaften."
+  },
+  {
+    "id": "vall\u00e9e-dallol-maouri-nature-v2",
+    "name": "Dallol Maouri",
+    "desc": "Ein bedeutendes fossiles Flusstal im S\u00fcdwesten, das heute ein wichtiges Feuchtgebiet ist."
+  },
+  {
+    "id": "goulbi-n-kaba-nature-v2",
+    "name": "Goulbi N\u2019Kaba",
+    "desc": "Ein weiterer saisonaler Wasserlauf, der zur Bew\u00e4sserung in den s\u00fcdlichen Gebieten beitr\u00e4gt."
+  },
+  {
+    "id": "massif-adrar-bous-nature-v2",
+    "name": "Adrar Bous",
+    "desc": "Ein isoliertes Bergmassiv im Norden der T\u00e9n\u00e9r\u00e9-W\u00fcste."
+  },
+  {
+    "id": "plateau-tchigai-nature-v2",
+    "name": "Tchiga\u00ef-Plateau",
+    "desc": "Ein abgelegenes Hochplateau an der Grenze zum Tschad."
+  },
+  {
+    "id": "goulbi-kaba-nature-v2",
+    "name": "Goulbi Kaba",
+    "desc": "Ein kleinerer, saisonaler Wasserlauf im S\u00fcden Nigers."
+  },
+  {
+    "id": "erg-mourzouk-rand-nature-v2",
+    "name": "Rand des Erg Mourzouk",
+    "desc": "Die Randgebiete des gro\u00dfen Sandmeeres Mourzouk, die in Niger hineinreichen."
+  },
+  {
+    "id": "dallol-fogha-nature-v2",
+    "name": "Dallol Fogha",
+    "desc": "Ein weiteres wichtiges fossiles Flusstal im S\u00fcdwesten, das hydrologisch relevant ist."
+  },
+  {
+    "id": "plateau-koutous-nature-v2",
+    "name": "Koutous-Massiv",
+    "desc": "Eine Gebirgs- und Hochebenen-Region im S\u00fcdosten Nigers."
+  },
+  {
+    "id": "goulbi-goulbi-nature-v2",
+    "name": "Goulbi Goulbi",
+    "desc": "Ein kleines, episodisches Flusssystem, das Teil des lokalen Netzwerks ist."
+  },
+  {
+    "id": "massif-if\u00e9rouane-nature-v2",
+    "name": "If\u00e9rouane-Massiv",
+    "desc": "Eine Bergregion im Herzen des A\u00efr-Gebirges."
+  },
+  {
+    "id": "goulbi-kane-nature-v2",
+    "name": "Goulbi Kane",
+    "desc": "Ein episodisches Flusssystem, das typisch f\u00fcr den sudanischen Sahel-G\u00fcrtel ist."
+  },
+  {
+    "id": "plateau-damagaram-est-nature-v2",
+    "name": "\u00d6stliches Damagaram-Plateau",
+    "desc": "Der \u00f6stliche Teil des Damagaram-Plateaus, gepr\u00e4gt durch trockene B\u00f6den."
+  },
+  {
+    "id": "mont-greboun-relief-v2",
+    "name": "Mont Gr\u00e9boun",
+    "desc": "Ein bedeutender Gipfel im A\u00efr-Gebirge."
+  },
+  {
+    "id": "plateau-djado-relief-v2",
+    "name": "Djado-Plateau-Erhebung",
+    "desc": "Eine steinige Hochfl\u00e4che im Nordosten Nigers."
+  },
+  {
+    "id": "massif-termit-relief-v2",
+    "name": "Termit-Massiv-Gipfel",
+    "desc": "Ein markantes Bergmassiv am Rande der W\u00fcste."
+  },
+  {
+    "id": "plateau-damagaram-relief-v2",
+    "name": "Damagaram-Plateau-Kante",
+    "desc": "Ein sanft gewelltes Hochland."
+  },
+  {
+    "id": "dallol-bosso-relief-v2",
+    "name": "Dallol-Bosso-Talung",
+    "desc": "Ein altes, ausgetrocknetes Flusstal."
+  },
+  {
+    "id": "adrar-bous-relief-v2",
+    "name": "Adrar-Bous-H\u00f6hen",
+    "desc": "Ein Gebirgszug n\u00f6rdlich des A\u00efr."
+  },
+  {
+    "id": "plateau-tchigai-relief-v2",
+    "name": "Tchiga\u00ef-Plateau-Felsen",
+    "desc": "Eine abgelegene Felsregion im extremen Norden."
+  },
+  {
+    "id": "dallol-maouri-relief-v2",
+    "name": "Dallol-Maouri-Senke",
+    "desc": "Eine breite Niederung in S\u00fcdwest-Niger."
+  },
+  {
+    "id": "goulbi-maradi-relief-v2",
+    "name": "Goulbi-de-Maradi-Talung",
+    "desc": "Ein bedeutendes saisonales Flusstal."
+  },
+  {
+    "id": "koutous-relief-v2",
+    "name": "Koutous-Massiv-H\u00f6he",
+    "desc": "Ein isoliertes Massiv \u00f6stlich des A\u00efr."
+  },
+  {
+    "id": "komadougou-yobe-relief-v2",
+    "name": "Komadougou-Yob\u00e9-Niederung",
+    "desc": "Das Becken des Komadougou Yob\u00e9 Flusses."
+  },
+  {
+    "id": "dallol-fogha-relief-v2",
+    "name": "Dallol-Fogha-Ebene",
+    "desc": "Eine weitere fossile Talstruktur."
+  },
+  {
+    "id": "goulbi-kaba-relief-v2",
+    "name": "Goulbi-Kaba-Tal",
+    "desc": "Ein Nebenarm des Goulbi-Systems."
+  },
+  {
+    "id": "ife-massif-relief-v2",
+    "name": "If\u00e9rouane-Massiv-Anstieg",
+    "desc": "Ein Teil des A\u00efr-Massivs."
+  },
+  {
+    "id": "goulbi-goulbi-relief-v2",
+    "name": "Goulbi-Goulbi-Talung",
+    "desc": "Ein trockenes Flusstalgebiet."
+  },
+  {
+    "id": "er-erg-tenere-relief-v2",
+    "name": "Erg T\u00e9n\u00e9r\u00e9-D\u00fcnen",
+    "desc": "Ein riesiges Sandmeer."
+  },
+  {
+    "id": "gourma-lowland-relief-v2",
+    "name": "Gourma-Tiefland",
+    "desc": "Ein flaches Gebiet im S\u00fcdwesten."
+  },
+  {
+    "id": "eastern-damagaram-relief-v2",
+    "name": "\u00d6stliches Damagaram-Plateau",
+    "desc": "Der \u00f6stliche Teil der Damagaram-Region."
+  },
+  {
+    "id": "goulbi-kane-relief-v2",
+    "name": "Goulbi-Kane-Talung",
+    "desc": "Ein kleineres Flusstalbecken."
+  },
+  {
+    "id": "tchad-basin-relief-v2",
+    "name": "Niger-Becken des Tschad",
+    "desc": "Der zum Tschadsee geneigte Bereich Nigers."
+  },
+  {
+    "id": "air-massif-relief-v2",
+    "name": "A\u00efr-Gebirgs-Kern",
+    "desc": "Das Herzst\u00fcck des A\u00efr-Massivs."
+  },
+  {
+    "id": "bilma-escarpment-relief-v2",
+    "name": "Bilma-Steilstufe",
+    "desc": "Eine markante Gel\u00e4ndestufe bei Bilma."
+  },
+  {
+    "id": "kawar-cliff-relief-v2",
+    "name": "Kaouar-Klippen",
+    "desc": "Steile Felsformationen entlang der Oasen."
+  },
+  {
+    "id": "fachi-hill-relief-v2",
+    "name": "Fachi-Erhebung",
+    "desc": "Ein H\u00fcgel bei der Fachi-Oase."
+  },
+  {
+    "id": "koutous-east-relief-v2",
+    "name": "\u00d6stlicher Koutous-Ausl\u00e4ufer",
+    "desc": "Ein Ausl\u00e4ufer des Koutous-Massivs."
+  }
+]

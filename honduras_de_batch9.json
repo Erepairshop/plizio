@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hn-sierra-de-omao-relief-v2",
+      "descriptionAdvanced": "Die Sierra de Omoa ist eine steile, küstennahe Bergkette im Nordwesten von Honduras, die sich direkt aus der Karibik bei Puerto Cortés erhebt und bis an die Grenze zu Guatemala erstreckt. Das Relief ist extrem zerklüftet und von steilen, regenwaldbedeckten Schluchten durchzogen. Wegen der unmittelbaren Küstennähe zwingt die Sierra de Omoa die feuchten Passatwinde zum Aufsteigen, was zu ständigen Regenfällen und dichten Wolkenformationen an ihren Gipfeln führt. Diese raue Topografie machte den Landweg nach Guatemala historisch extrem schwierig und bietet heute einen der wichtigsten Schutzräume für das Wassereinzugsgebiet des Flusses Motagua und die nahe gelegenen Karsthöhlensysteme. Geografie K7 — Küstengebirge und Grenzübergänge.",
+      "factsAdvanced": [
+        "Steile Küstengebirgskette, die sich direkt westlich von Puerto Cortés erhebt.",
+        "Bildet eine natürliche geologische Barriere an der Grenze zu Guatemala.",
+        "Das Relief verursacht intensive Steigungsregen an der Karibikküste.",
+        "Die Berge sind von tiefen, dichten Dschungelschluchten zerschnitten.",
+        "Historisch ein Hindernis für den Straßenbau zwischen Honduras und Guatemala.",
+        "Bedeutendes Wassereinzugsgebiet für den unteren Verlauf des Río Motagua."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-colomoncagua-relief-v2",
+      "descriptionAdvanced": "Die Montañas de Colomoncagua bilden das raue, abgelegene Grenzrelief im Departement Intibucá, direkt an der Demarkationslinie zu El Salvador. Diese Berge zeichnen sich durch ein Labyrinth aus trockenen Kiefernwäldern, extrem tief eingeschnittenen Flusscanyons und steilen Steinwänden aus. Die Unzugänglichkeit dieses Reliefs machte es in den 1980er Jahren zu einem strategischen Rückzugsgebiet und einem Ort für massive Flüchtlingslager während des salvadorianischen Bürgerkriegs. Heute ist die Region bekannt für ihre unberührte, wilde Schönheit und die starken indigenen Lenca-Gemeinschaften, die an den isolierten, windgepeitschten Hängen Landwirtschaft betreiben. Geografie K8 — Grenzgebirge und historische Flüchtlingslager.",
+      "factsAdvanced": [
+        "Raue Bergkette im Departement Intibucá an der Grenze zu El Salvador.",
+        "Geprägt durch trockene Kiefernwälder und extrem steile Flusscanyons.",
+        "Diente in den 1980er Jahren als Standort für riesige salvadorianische Flüchtlingslager.",
+        "Die raue Topografie sorgt für eine starke Isolation der lokalen Lenca-Dörfer.",
+        "Wird nur von wenigen, schwer passierbaren unbefestigten Straßen durchquert.",
+        "Das Relief bietet eine natürliche Verteidigungslinie und Grenzdifferenzierung."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-la-sierra-de-sulaco-relief-v2",
+      "descriptionAdvanced": "Die Sierra de Sulaco ist ein zentrales Bergmassiv, das die Departemente Yoro und Comayagua trennt. Dieses Relief besteht aus langgezogenen, stark bewaldeten Bergrücken, die eine kritische Wasserscheide in der Mitte des Landes bilden. Das Wasser, das an den steilen Nordhängen abfließt, nährt die Flüsse in Richtung Atlantik, während die Südhänge das gigantische El-Cajón-Wasserkraftwerk (Embalse Francisco Morazán) speisen. Die tiefen, V-förmigen Täler der Sierra de Sulaco sind extrem fruchtbar und werden zunehmend für den Kaffeeanbau terrassiert, was jedoch das fragile geologische Gleichgewicht an den Steilhängen gefährdet. Geografie K7 — Wasserscheiden und Staudammversorgung.",
+      "factsAdvanced": [
+        "Eine langgezogene Bergkette, die das Zentrum von Honduras durchzieht.",
+        "Trennt die Departemente Yoro (Norden) und Comayagua (Süden).",
+        "Bildet eine entscheidende geologische Wasserscheide für Zentralhonduras.",
+        "Die Flüsse der Südhänge sind die Hauptspeiser des riesigen El-Cajón-Staudamms.",
+        "Das Relief zeichnet sich durch V-förmige Täler und dichte Kiefernwälder aus.",
+        "Die Steilhänge werden zunehmend und riskant für Kaffeeplantagen terrassiert."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-paz-relief-v2",
+      "descriptionAdvanced": "Die Montañas de Paz (Friedensberge) sind eine Ausläuferkette im Osten des Departements Olancho und bilden den Übergang zwischen den flachen, grasbewachsenen Tälern Olanchos und dem dichten, flachen Dschungel von La Mosquitia. Das Relief hier ist sanfter als in den westlichen Ketten, mit abgerundeten, stark verwitterten Gipfeln und breiten Sätteln. Diese Berge sind historisch eine wichtige Transitzone; hier enden die Straßen und beginnen die unberührten Pfade in den Regenwald. Die sanfteren Hänge haben es der Rinderzucht ermöglicht, immer tiefer in die Waldgebiete vorzudringen, was das Relief zu einer Frontlinie des ökologischen Konflikts macht. Geografie K6 — Übergangszonen und landwirtschaftliche Fronten.",
+      "factsAdvanced": [
+        "Sanftere Ausläuferkette im östlichen Teil des Departements Olancho.",
+        "Bildet den topografischen Übergang zwischen den Olanchano-Tälern und La Mosquitia.",
+        "Gekennzeichnet durch stark verwitterte, abgerundete Gipfel und breite Talsättel.",
+        "Dient als geografische Frontlinie für das Vordringen der Viehzucht in den Dschungel.",
+        "Hier enden die meisten befestigten Straßenverbindungen in Richtung Osten.",
+        "Das Relief ist reich an unentdeckten archäologischen Stätten der Paya-Kultur."
+      ]
+    },
+    {
+      "id": "hn-montana-de-flor-relief-v2",
+      "descriptionAdvanced": "Die Montaña de la Flor ist ein isoliertes, dicht bewaldetes Bergmassiv im nördlichen Teil des Departements Francisco Morazán. Das Relief zeichnet sich durch extreme Unzugänglichkeit aus: Steile, rutschige Hänge und dichte Eichenwälder formen eine natürliche Festung. Genau wegen dieser rauen Geografie flohen im 19. Jahrhundert die indigenen Tolupanes (Jicaques) aus Yoro hierher, um sich vor Ausbeutung und Zwangsarbeit zu verstecken. Bis heute dient die Montaña de la Flor als das letzte große indigene Reservat der Tolupanes. Die topografische Isolation ist der einzige Grund, warum ihre Sprache (Tol) und ihre Jäger-und-Sammler-Traditionen in diesem Bergrefugium überlebt haben. Geografie K8 — Indigene Refugien und natürliche Festungen.",
+      "factsAdvanced": [
+        "Extrem isoliertes, bewaldetes Bergmassiv im Departement Francisco Morazán.",
+        "Bietet ein Relief wie eine natürliche Festung aus steilen Hängen und tiefen Tälern.",
+        "Das letzte große Rückzugsgebiet und Reservat des indigenen Volkes der Tolupanes.",
+        "Die raue Geografie schützte die indigene Kultur im 19. Jh. vor Zwangsarbeit.",
+        "Nur über extrem schlechte, oft unpassierbare Feldwege erreichbar.",
+        "Der Ort, an dem die isolierte indigene Sprache Tol bis heute überlebt hat."
+      ]
+    }
+  ]
+}

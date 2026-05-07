@@ -1,0 +1,81 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ankarana-karst-relief-v2",
+      "descriptionAdvanced": "Das Ankarana-Karstplateau im Norden Madagaskars (Südlich von Antsiranana) ist eines der spektakulärsten Karstgebiete der Welt. Die Basis bildete ein etwa 150 Millionen Jahre altes Korallenriff. Durch Hebung und extreme Wassererosion verwandelte sich das Relief in einen dichten Wald aus messerscharfen Kalksteinnadeln, die «Tsingy». Darunter verbirgt sich das größte Höhlensystem Afrikas mit über 100 Kilometern kartierten Gängen. Die unterirdischen Flüsse, die das Relief durchschneiden, sind die Heimat heiliger Krokodile, weshalb die Höhlen bei den lokalen Antakarana tief verehrt werden. Geografie K8 — Karstsysteme und Speleologie.",
+      "factsAdvanced": [
+        "Spektakuläres Karstplateau, entstanden aus einem urzeitlichen Korallenriff",
+        "Oberfläche besteht aus messerscharfen, dicht gedrängten Kalksteinnadeln (Tsingy)",
+        "Beherbergt das längste und größte Höhlensystem auf dem afrikanischen Kontinent",
+        "Unterirdische Flüsse beheimaten große Populationen von Nilkrokodilen",
+        "Höhlen sind von tiefer spiritueller Bedeutung für die Antakarana-Volksgruppe",
+        "Oft als Zufluchtsort in historischen Kriegen genutzt"
+      ]
+    },
+    {
+      "id": "vohimana-relief-v2",
+      "descriptionAdvanced": "Das Vohimana-Massiv ist eine markante topografische Erhebung an der Falaise, der steilen östlichen Abbruchkante Madagaskars, nahe Andasibe. Das Relief besteht aus dicht bewaldeten, extrem steilen Hängen und tief eingeschnittenen Flusstälern. Diese orografische Barriere zwingt die Passatwinde vom Indischen Ozean zum Aufsteigen und Abregnen, was Vohimana zu einem der nassesten und biodiversesten Orte der Insel macht. Das schwierige Terrain bewahrt den Wald vor Abholzung, während lokale NGOs (wie L'Homme et l'Environnement) hier nachhaltigen Ökotourismus und den Anbau von Heilpflanzen fördern. Geografie K6 — Ostküsten-Eschneise.",
+      "factsAdvanced": [
+        "Steiles Gebirgsmassiv an der östlichen Abbruchkante (Falaise) Madagaskars",
+        "Topografie zwingt Ozeanwinde zum Aufsteigen, was extrem hohe Niederschläge bringt",
+        "Relief ist von unzähligen steilen Flusstälern und Wasserfällen durchzogen",
+        "Schwierige Zugänglichkeit bietet natürlichen Schutz vor Brandrodung",
+        "Wichtiger Standort für Pilotprojekte im gemeindebasierten Ökotourismus",
+        "Beherbergt eine extrem hohe Dichte an endemischen Heilpflanzen"
+      ]
+    },
+    {
+      "id": "ranomafana-hills-relief-v2",
+      "descriptionAdvanced": "Die Hügel und Berge um Ranomafana bilden ein klassisches Bruchschollen-Relief an der madagassischen Ostküste. Die Landschaft ist extrem steil, stark zerklüftet und von V-förmigen Tälern zerschnitten, die durch schnelle, erosive Bergbäche geformt wurden. Die Granitfelsen unter dem dichten Nebelwald sind die Reste uralter Kontinentalverschiebungen, als sich Madagaskar von Indien löste. Das Relief macht den Bau von Straßen (wie die kurvenreiche RN45) zu einer enormen ingenieurtechnischen Herausforderung und schützt gleichzeitig die abgelegenen Waldgebiete vor Zerstörung. Geografie K7 — Bruchschollen und Flusserosion.",
+      "factsAdvanced": [
+        "Steiles, dicht bewaldetes Bruchschollen-Relief an der Ostküste",
+        "Geprägt durch tiefe, V-förmige Täler und schnell fließende Bergbäche",
+        "Granitischer Untergrund verweist auf die Trennung Madagaskars von Indien",
+        "Extrem hohe Niederschläge verursachen ständige, starke Flusserosion",
+        "Das steile Terrain ist eine enorme Herausforderung für den Straßenbau (RN45)",
+        "Schützt die Primärwälder des Ranomafana-Nationalparks auf natürliche Weise"
+      ]
+    },
+    {
+      "id": "andohahela-massif-relief-v2",
+      "descriptionAdvanced": "Das Andohahela-Massiv im tiefen Süden (in der Region Anosy) ist das südlichste Ausläufergebiet der zentralen madagassischen Bergkette. Das Massiv erhebt sich bis auf knapp 2.000 Meter. Sein Relief ist asymmetrisch: Die nach Osten gerichteten Flanken fallen steil ab und fangen die Wolken auf, während das Massiv nach Westen hin sanfter in trockene Ebenen übergeht. Dieses Relief erzeugt einen der extremsten Regenschatten-Effekte weltweit, was zu einer abrupten Grenze zwischen üppigem Regenwald und knochentrockenem Dornenwald innerhalb weniger Kilometer führt. Geografie K8 — Orographischer Regenschatten.",
+      "factsAdvanced": [
+        "Südlichstes großes Bergmassiv der madagassischen Hauptgebirgskette",
+        "Erreicht Höhen von knapp 2.000 Metern (Pic Trafonomby)",
+        "Relief verursacht einen der extremsten Wetterscheiden-Effekte der Welt",
+        "Ostflanken sind feucht, steil und regenwaldbedeckt",
+        "Westflanken fallen in extrem trockene, wüstenartige Dornenwälder ab",
+        "Bildet eine scharfe topografische Grenze im Anosy-Trockenland"
+      ]
+    },
+    {
+      "id": "tsitondroina-relief-v2",
+      "descriptionAdvanced": "Das Tsitondroina-Massiv ist ein abgelegener, gebirgiger Ausläufer im südlichen Zentralmadagaskar. Das Relief besteht primär aus verwitterten Granit- und Gneisblöcken, die eine hügelige, oft baumlose Landschaft bilden, die stark an die schottischen Highlands erinnert. Die Böden sind arm, weshalb das Relief primär als extensives Weideland für Zebu-Rinder genutzt wird. Gelegentliche Lavaka (große Erosionskrater) durchschneiden die sanften Hänge. Es ist ein typisches Beispiel für die geologisch alten, stark abgetragenen Rumpfgebirge des madagassischen Hochlandes. Geografie K6 — Rumpfgebirge und Weideland.",
+      "factsAdvanced": [
+        "Stark verwittertes, geologisch altes Massiv im südlichen Zentralhochland",
+        "Relief besteht aus Granit und Gneis mit sanften, abgerundeten Formen",
+        "Landschaft erinnert stark an baumlose Hochmoore (Highlands)",
+        "Sanfte Hänge werden intensiv als Weideland für Zebu-Rinder genutzt",
+        "Wird regelmäßig von massiven Erosionskratern (Lavaka) durchschnitten",
+        "Typisches Beispiel für die fortgeschrittene Erosion im madagassischen Hochland"
+      ]
+    },
+    {
+      "id": "itasy-volcanic-field-relief-v2",
+      "descriptionAdvanced": "Das vulkanische Feld von Itasy, westlich von Antananarivo gelegen, bietet ein klassisches, oft noch gut erkennbares postvulkanisches Relief. Auf einer großen Hochebene verteilen sich Dutzende perfekt geformte Schlackenkegel, Maare (Explosionskrater) und erstarrte Lavaströme. Obwohl die Vulkane seit Jahrtausenden erloschen sind, formen sie eine sanft wellige Landschaft. Ein massiver Lavastrom blockierte in der Vergangenheit ein Flusstal und schuf so das Becken für den heutigen Itasy-See. Das Relief ist extrem fruchtbar und das Zentrum der madagassischen Gemüseproduktion. Geografie K7 — Postvulkanismus und Maare.",
+      "factsAdvanced": [
+        "Weitläufiges Gebiet erloschener Vulkane westlich der Hauptstadt",
+        "Relief wird von Dutzenden Aschekegeln und tiefen Kratern (Maaren) dominiert",
+        "Ein alter Lavastrom stürzte ein Tal ab und formte so den Itasy-See",
+        "Trotz fehlender aktueller Eruptionen ist die vulkanische Struktur perfekt sichtbar",
+        "Vulkanböden (Andosole) machen das Relief extrem fruchtbar für die Landwirtschaft",
+        "Region ist berühmt für geothermale Nebenprodukte wie Geysire und Thermalquellen"
+      ]
+    }
+  ]
+}

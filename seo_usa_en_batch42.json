@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "descriptionAdvanced": "Great Smoky Mountains National Park, spanning the border of North Carolina and Tennessee, is the most visited national park in the United States, celebrated for its ancient mountain formations and remarkably diverse temperate ecosystem. The park’s deep coves and ridge lines protect an extraordinary range of biodiversity, including one of the highest concentrations of salamander species in the world, as well as flourishing populations of black bears and migratory songbirds. The name 'Smoky' comes from the natural blue mist—actually vapor released by the forest’s dense vegetation—that constantly blankets the ridges. Today, the park serves as a critical model for Appalachian conservation, balancing high-intensity public visitation with the necessity of preserving an ancient, fragile forest habitat. Biologie K7 — Temperate mountain ecology and biodiversity.",
+      "factsAdvanced": [
+        "Most visited national park in the United States.",
+        "Home to ancient, rounded Appalachian mountain formations.",
+        "Remarkably high biodiversity, including the world's most diverse salamander populations.",
+        "Famous 'smoke-like' blue mist is caused by vapor released from forest vegetation.",
+        "Critical sanctuary for iconic fauna such as North American black bears.",
+        "Serves as a vital model for balancing high tourism with forest preservation."
+      ]
+    },
+    {
+      "id": "washington-apple-orchards-life-v2",
+      "descriptionAdvanced": "Washington state is world-renowned as the premier producer of high-quality apples, a result of the state's ideal climate, unique volcanic soils, and sophisticated horticultural practices. The orchards, primarily concentrated in the fertile valleys east of the Cascade Mountains, benefit from a natural rain shadow that provides a reliable, semi-arid environment, allowing growers to manage water and sunlight precisely for optimal fruit flavor and quality. This highly specialized industry is a cornerstone of Washington's economy and its international agricultural reputation, representing decades of investment in science-driven farming and efficient global logistics. The apple orchards are not just economic assets but cultural landmarks that define Washington's rural landscape and its essential role in global fruit distribution. Landwirtschaft K7 — Horticultural innovation and agricultural landscape identity.",
+      "factsAdvanced": [
+        "Washington state is the global premier producer of high-quality apples.",
+        "Ideal orchard conditions created by volcanic soils and the Cascade rain shadow.",
+        "Semi-arid environment allows for precise control of sunlight and fruit quality.",
+        "Cornerstone of the state's economy and its international agricultural reputation.",
+        "Represents decades of continuous investment in science-driven horticulture.",
+        "Defines the state’s rural identity and its major role in global fruit distribution."
+      ]
+    },
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "descriptionAdvanced": "Knott's Berry Farm in Buena Park, California, holds the unique title of America's first theme park, having evolved from a humble roadside berry stand and chicken dinner restaurant during the 1920s. Established by Walter and Cordelia Knott, the park successfully pioneered the 'theme park' model, eventually adding elaborate themed areas like Ghost Town to entertain their hungry customers. Its journey from a simple farm stand to a major Southern California amusement destination reflects the broader evolution of the American leisure economy, showing how personal enterprise, unique regional products, and themed immersion could create a powerful, multi-generational commercial phenomenon. Today, Knott’s Berry Farm remains a celebrated cultural landmark, cherished for its historical roots and its identity as a pioneer of theme park entertainment. Wirtschaft K7 — Theme park evolution and agricultural history.",
+      "factsAdvanced": [
+        "America's first theme park, having evolved from a 1920s roadside berry stand.",
+        "Founded by Walter and Cordelia Knott to serve diners at their restaurant.",
+        "Pioneered the 'themed area' model for amusement parks, starting with Ghost Town.",
+        "Represents the broader evolution of the American leisure and tourism economy.",
+        "Cherished cultural landmark that maintains its historical farm-origin identity.",
+        "A monumental pioneer in the rise of the modern theme park industry."
+      ]
+    }
+  ]
+}

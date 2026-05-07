@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nkurenkuru-cities-v2",
+      "descriptionAdvanced": "Nkurenkuru a dinamikusan fejlődő Kavango West régió adminisztratív központja, mely az Okavango folyó délnyugati partján fekszik, szemben az angolai Cuangar településsel. Eredetileg a Kwangali Királyság történelmi székhelye volt, és jelentős kulturális örökséggel bír a régió etnikai közösségei számára. Az elmúlt évtizedben gyors ütemű urbanizáción ment keresztül, amelyet a határkereskedelem növekedése és az infrastrukturális beruházások serkentettek. A folyó közelsége dús növényzetet biztosít, és a mezőgazdaság, különösen a halászat és az öntözéses növénytermesztés, a helyi gazdaság alappillére maradt. Földrajz K7 — afrikai folyómenti települések",
+      "factsAdvanced": [
+        "A Kavango West régió közigazgatási fővárosa",
+        "Közvetlenül az Okavango folyó partján, Angola határánál fekszik",
+        "Történelmileg a Kwangali hagyományos vezetők székhelye",
+        "A város neve helyi nyelven azt jelenti: 'Ahol folyik a víz'",
+        "Namíbia egyik leggyorsabban növekvő új települése",
+        "Lakossága nagyrészt a Kavango népcsoporthoz tartozik"
+      ]
+    },
+    {
+      "id": "henties-bay-cities-v2",
+      "descriptionAdvanced": "Henties Bay egy nyugodt, de népszerű tengerparti üdülőhely Swakopmundtól északra, az Atlanti-óceán partvidékén. Eredetileg egy forrás felfedezése miatt vált ismertté, de mára elsősorban a sporthorgászok és a belföldi nyaralók mekkája. Nincsenek nagy ipari létesítmények; a város gazdasága szinte teljes egészében a turizmusra épül, amely a nyári szünetben megsokszorozza a lakosságot. Különlegessége, hogy a sivatag itt közvetlenül az óceánnal találkozik, és a település kiváló kiindulópontja a hírhedt Csontvázpart (Skeleton Coast) felfedezésének. Földrajz K7 — partvidéki ökoturizmus",
+      "factsAdvanced": [
+        "Nevét Hendrik (Hentie) van der Merwe orrszarvúvadászról kapta",
+        "Kiemelkedő célpont a parti sporthorgászat szerelmeseinek",
+        "A nyári hónapokban lakossága a többszörösére duzzad",
+        "A Csontvázpart Nemzeti Park déli kapujához közel fekszik",
+        "Friss ivóvizét a föld alatti Omaruru folyó medréből nyeri",
+        "Állandó lakossága mintegy 4 500 fő"
+      ]
+    },
+    {
+      "id": "arandis-cities-v2",
+      "descriptionAdvanced": "Arandis a Namíb-sivatag szívében épült "uránváros", amelyet kifejezetten a közeli Rössing uránbánya dolgozóinak elszállásolására hoztak létre 1978-ban. Bár történelmileg egyetlen iparágtól függött, a város igyekszik diverzifikálni gazdaságát, és az oktatás területén is fejlesztéseket hajtott végre, például a Namíbiai Bányászati és Technológiai Intézet (NIMT) otthonaként. Az infrastruktúra, a modern kórházak és az iskolák nagyrészt a bányavállalat beruházásainak köszönhetők. Sivatagi környezete kíméletlen, de a település zöldellő, gondozott parkokkal és fákkal próbál oázist teremteni a homokdűnék között. Kémia K8 — uránbányászat és településfejlesztés",
+      "factsAdvanced": [
+        "1978-ban alapították a Rössing bánya dolgozói számára",
+        "Gyakran a namíbiai uránipar 'fővárosának' is nevezik",
+        "Itt működik a Namíbiai Bányászati és Technológiai Intézet (NIMT)",
+        "A Namíb-sivatag zord, száraz környezetében fekszik",
+        "Gazdasága a bányászat ingadozásaitól nagymértékben függ",
+        "Népessége nagyjából 7 500 fő"
+      ]
+    },
+    {
+      "id": "otavi-cities-v2",
+      "descriptionAdvanced": "Otavi egy mezőgazdasági és történelmi kisváros az Otjozondjupa régióban, az úgynevezett namíbiai 'rézháromszög' (Tsumeb, Grootfontein, Otavi) délnyugati csúcsa. A város környékén zajlott az első világháború namíbiai frontjának utolsó jelentős ütközete 1915-ben, amikor a német gyarmati csapatok megadták magukat a dél-afrikai erőknek; ennek emlékét őrzi a közeli Khorab emlékmű. Otavit termékeny mezőgazdasági földek és erdős hegyek veszik körül, a térség különösen a kukoricatermesztéséről híres. Emellett a város mellett működik az Ohorongo Cementgyár, Namíbia legmodernebb és legnagyobb cementelőállító üzeme. Történelem K8 — I. világháború Afrikában",
+      "factsAdvanced": [
+        "A Khorab emlékmű a német csapatok 1915-ös kapitulációját jelöli",
+        "A helyi gazdaság gerince a kukoricatermesztés és az állattenyésztés",
+        "A híres namíbiai 'rézháromszög' egyik meghatározó települése",
+        "A közelben található az ország legnagyobb cementgyára (Ohorongo)",
+        "Jelentős földalatti vízkészletekkel rendelkezik",
+        "Lakossága megközelíti az 5 000 főt"
+      ]
+    },
+    {
+      "id": "bethanie-cities-v2",
+      "descriptionAdvanced": "Bethanie egy csendes, mélyen gyökerező történelmi település a Karas régió kietlen, sivatagi tájain, Namíbia déli részén. A városka az ország egyik legrégebbi missziós állomása, melyet 1814-ben alapítottak a Londoni Missziós Társaság képviselői, hogy kapcsolatot teremtsenek a helyi nama törzsekkel. Bethanie ad otthont a történelmi Schmelen-háznak (Schmelenhaus), amely az ország egyik legkorábbi európai stílusú kőépülete, ma múzeumként működik. A település a nama kultúra központja, ahol a hagyományos pásztorkodás – főként juh- és kecsketenyésztés – továbbra is a legfőbb megélhetési forrás maradt. Történelem K7 — korai misszionáriusok Namíbiában",
+      "factsAdvanced": [
+        "Namíbia egyik legrégebbi, 1814-ben alapított települése",
+        "A történelmi Schmelenhaus nemzeti műemlék és múzeum",
+        "A Nama népcsoport, azon belül a !Aman törzs hagyományos székhelye",
+        "Kopár sivatagi és félsivatagi környezet öleli körbe",
+        "Gazdasága elsősorban a kisüzemi karakuljuh-tenyésztésre épül",
+        "Lakossága mindössze 2 500 fő körüli"
+      ]
+    },
+    {
+      "id": "ruacana-cities-v2",
+      "descriptionAdvanced": "Ruacana a Kunene folyó völgyében fekvő, Angola határán elhelyezkedő település az Omusati régióban. A város legfőbb vonzerejét a káprázatos Ruacana-vízesés adja, amely az esős évszakban, a tavaszi áradások idején éri el leglenyűgözőbb vízhozamát, hatalmas zuhatagokat képezve. A természeti csoda mellett a város stratégiai fontosságát a földalatti Ruacana Vízerőmű biztosítja, amely a folyó energiáját hasznosítva Namíbia áramellátásának jelentős részét biztosítja. Ruacana kulturálisan a helyi ovambo és himba közösségek találkozási pontja is, ahol az ősi tradíciók a modern energetikai infrastruktúrával élnek együtt. Földrajz K8 — megújuló energiaforrások",
+      "factsAdvanced": [
+        "A Kunene folyó partján, közvetlenül az angolai határ mellett fekszik",
+        "A Ruacana-vízesés Namíbia egyik leglátványosabb természeti képződménye",
+        "A város földalatti vízerőműve az ország energiaellátásának alappillére",
+        "A település körül gazdag trópusi növényzet található",
+        "A helyi kultúra a himba és ovambo népszokások keveréke",
+        "Lakossága eléri a 3 000 főt"
+      ]
+    },
+    {
+      "id": "maltahohe-cities-v2",
+      "descriptionAdvanced": "Maltahöhe egy apró vidéki csomópont a Hardap régióban, Namíbia délnyugati peremvidékén, ahonnan a Namíb-sivatag végtelen dűnéi felé indulnak a kalandorok. A várost 1895-ben alapította Henning von Burgsdorff német katonai parancsnok, és feleségéről, Maltáról nevezte el. Ma is fontos megállóhely a turizmusban, különösen a híres Sossusvlei, a világ legmagasabb homokdűnéi, valamint a lenyűgöző Duwisib-kastély felé tartó utazók számára. Bár méretében szerény, a település vendégszeretetéről híres, és a helyi gazdaságot a hagyományos juh- és marhatenyésztés mellett a folyamatosan növekvő tranzitforgalom tartja életben. Földrajz K7 — turisztikai csomópontok a sivatagban",
+      "factsAdvanced": [
+        "1895-ben alapították német katonai posztként",
+        "Nevét a parancsnok felesége, Malta von Burgsdorff után kapta",
+        "A Sossusvlei és a Duwisib-kastély egyik legfontosabb megközelítési pontja",
+        "A város körül elterülő régióban jelentős a karakuljuh tenyésztése",
+        "Itt működik az ország egyik legrégebbi vidéki szállodája (Maltahöhe Hotel)",
+        "Állandó lakossága nagyjából 2 500 fő"
+      ]
+    },
+    {
+      "id": "khorixas-cities-v2",
+      "descriptionAdvanced": "Khorixas a Kunene régió déli részének egykori fővárosa (korábban Damaraland központja), és a zord, ősi sziklákkal borított régió turisztikai kapuja. A település egy száraz völgyben fekszik, és kiváló kiindulópontja a Twyfelfontein lenyűgöző, évezredes sziklarajzainak – amely Namíbia első UNESCO világörökségi helyszíne –, valamint a híres Megkövesedett Erdő (Petrified Forest) felfedezésének. Lakossága nagyrészt a damara etnikumhoz tartozik, akik egyedi csettintő nyelvet (khoekhoegowab) beszélnek. Bár gazdaságilag küzd a sivatagosodással és a magas munkanélküliséggel, a turizmus fellendülése folyamatos reményt ad a közösség számára. Történelem K8 — ősi afrikai sziklaművészet",
+      "factsAdvanced": [
+        "Az egykori Damaraland bantusztán adminisztratív központja volt",
+        "Kaput nyit a Twyfelfontein UNESCO Világörökségi sziklarajzaihoz",
+        "A közelben található a hírhedt 280 millió éves Megkövesedett Erdő",
+        "Lakossága többségében a damara népcsoportból kerül ki",
+        "Klímajellemzői miatt mezőgazdasága csak marginális szintű",
+        "Népessége körülbelül 6 500 fő"
+      ]
+    },
+    {
+      "id": "kamanjab-cities-v2",
+      "descriptionAdvanced": "Kamanjab egy kis szarvasmarha- és vadtenyésztő falu Namíbia északnyugati részén, az Etosha Nemzeti Park nyugati bejáratától (Galton-kapu) mintegy 70 kilométerre. A település kulcsfontosságú útelágazás, ahonnan északra az érintetlen Kaokoveld és Epupa, keletre az Etosha, nyugatra pedig a Csontvázpart felé folytathatják útjukat a turisták. Kamanjab környékén több hagyományos Himba és Herero település található, ahol a helyi lakosok igyekeznek megőrizni ősi nomád életmódjukat a modern kihívások ellenére. A tájat gigantikus, kerek gránitsziklák (kopjék) uralják, amelyek drámai hátteret biztosítanak az amúgy poros, mezőgazdasági kisvárosnak. Földrajz K7 — afrikai etnoturizmus",
+      "factsAdvanced": [
+        "Fontos közlekedési csomópont az Etosha, Kaokoveld és a Csontvázpart felé",
+        "A helyi gazdaság a marhatenyésztésre és a tranzitturizmusra támaszkodik",
+        "A város melletti sziklás dombokat gyakran hatalmas gránittömbök borítják",
+        "A Galton-kapun keresztül biztosít bejutást az Etosha Nemzeti Parkba",
+        "Közelében található a népszerű Otjitotongwe Gepárdfarm",
+        "Állandó lakossága nagyjából 1 500 fő"
+      ]
+    },
+    {
+      "id": "okakarara-cities-v2",
+      "descriptionAdvanced": "Okakarara egy Herero-dominanciájú város az Otjozondjupa régió keleti szélén, amely szoros történelmi és kulturális kapcsolatot ápol a Waterberg-fennsíkhoz. A település közelében zajlott az 1904-es pusztító waterbergi csata a német gyarmati haderő és a fellázadt hererók között, amelynek emléke mélyen él a helyi közösség emlékezetében. Minden évben az Okakarara Kereskedelmi Vásár (Okakarara Trade Fair) vonzza a régió üzletembereit és gazdáit, felpezsdítve a helyi gazdaságot. Emellett a város kiindulópontja lehet a Waterberg-fennsík Park (Waterberg Plateau Park) szafari túráinak, amely menedéket nyújt számos ritka és veszélyeztetett vadállatnak, például orrszarvúknak és afrikai vadkutyáknak. Történelem K8 — a herero népirtás emlékei",
+      "factsAdvanced": [
+        "A történelmi waterbergi csata helyszínének közvetlen közelében fekszik",
+        "Lakossága nagyrészt a herero népcsoport hagyományait őrzi",
+        "Az éves Okakarara Kereskedelmi Vásár a régió legnagyobb eseménye",
+        "Fontos kapuja a ritka állatfajokat védő Waterberg-fennsík Parknak",
+        "Gazdasága elsősorban a közösségi marhatenyésztésen alapszik",
+        "Népessége körülbelül 5 000 fő"
+      ]
+    },
+    {
+      "id": "aranos-cities-v2",
+      "descriptionAdvanced": "Aranos egy távoli kisváros Namíbia délkeleti részén, az Omaheke és Hardap régiók határán, közvetlenül a vörös homokdűnéiről ismert Kalahári-sivatag peremén. A település nevét eredetileg a német 'Ara' és 'Nos' szavakból alkották, de korábban Arahoabként is emlegették. Aranos az ország juh- és kecsketenyésztésének egyik leginkább elszigetelt, de jelentős központja. A vízellátást a Nossob-folyó földalatti medencéi biztosítják, lehetővé téve, hogy a sivatagos környezet dacára bizonyos szintű mezőgazdasági tevékenységet folytassanak. A város nyugodt, poros utcáin a hagyományos dél-afrikai vidéki élet atmoszférája uralkodik. Földrajz K8 — sivatagi vízgazdálkodás",
+      "factsAdvanced": [
+        "A Kalahári-sivatag peremén, vörös homokdűnék között fekszik",
+        "Korábbi neve Arahoab volt a gyarmati időkben",
+        "A helyi gazdaság kizárólag a juh-, kecske- és szarvasmarha-tenyésztésre épül",
+        "Ivóvizét a föld alatti Nossob-folyó rendszere biztosítja",
+        "Az infrastruktúra szerény, a turizmus csekély",
+        "Állandó lakossága nagyjából 3 500 fő"
+      ]
+    },
+    {
+      "id": "stampriet-cities-v2",
+      "descriptionAdvanced": "Stampriet egy különleges mezőgazdasági oázis a száraz Hardap régióban, amely artézi kútjainak és földalatti vízkészleteinek köszönheti létezését. A bőséges vízellátás lehetővé teszi a sivatagi környezetben egyébként elképzelhetetlen növénytermesztést; Stampriet környéke hatalmas zöldségeskertjeiről, lucernatábláiról és még a sivatagi dinnyetermesztésről is híres. A település az egykori Délnyugat-Afrika egyik fontos csatatere volt az 1904–1908-as namaqua felkelés idején. Ma a zöldellő pálmafák és pálmaligetek alatt a falu nyugalmat és sajátos mikroklimát kínál az ide látogatóknak. Földrajz K7 — artézi vizek és oázisok",
+      "factsAdvanced": [
+        "Híres gazdag artézi kútjairól és felszín alatti vízbázisáról",
+        "A sivatagos környezet ellenére intenzív zöldség- és gyümölcstermesztés zajlik",
+        "A 20. század elején a német csapatok és a nama lázadók összecsapásának helyszíne",
+        "Rengeteg datolyapálma és fás liget található a településen",
+        "Gazdasága a fenntartható vízhasználatra és az agráriumra épül",
+        "Lakossága kicsi, mindössze 1 000 fő körüli"
+      ]
+    },
+    {
+      "id": "gibeon-cities-v2",
+      "descriptionAdvanced": "Gibeon történelmi jelentőségű település a Fish folyó mentén, Namíbia déli részén. 1863-ban alapította a Rajnai Missziós Társaság egy Kido Witbooi nevű nama vezetővel közösen. A város leghíresebb hagyatéka az úgynevezett 'Gibeon-meteoritraj', amely több millió évvel ezelőtt hullott a térségre, és eddig több tucat vasmeteoritot találtak itt a tudósok, melyek egy része ma Windhoek belvárosában van kiállítva. A település a Nama közösség, különösen a híres Witbooi-klán történelmi székhelye, amely meghatározó szerepet játszott a német gyarmatosítók elleni ellenállásban. Csillagászat K8 — meteorit-hullások",
+      "factsAdvanced": [
+        "1863-ban alapították missziós állomásként",
+        "A hírhedt Gibeon-meteoritraj hullási területe (vasmeteoritok)",
+        "A Nama népcsoport és a Witbooi-klán kulturális és politikai központja",
+        "Hendrik Witbooi nama vezető fontos csatákat vívott a térségben",
+        "Környezete kopár, félsivatagos vidék",
+        "Népessége körülbelül 3 000 fő"
+      ]
+    },
+    {
+      "id": "aroab-cities-v2",
+      "descriptionAdvanced": "Aroab egy poros, de barátságos mezőgazdasági kisváros a Kalahári-sivatag legszélén, mintegy 170 kilométerre délkeletre Keetmanshooptól, nem messze a dél-afrikai határtól. A város gazdasága szinte teljes egészében a karakuljuh-tenyésztésen és a szarvasmarha-tartáson alapul, mivel a kevés csapadék nem teszi lehetővé az intenzív növénytermesztést. A helyiek büszkék a csendes, vidéki tempójú életmódra. Bár a turisztikai térképeken ritkán szerepel, Aroab népszerű tranzitpont a kalandvágyó utazók számára, akik a Kalahári eldugottabb részeit vagy a Mata-Mata határátkelőt szeretnék megközelíteni. Földrajz K7 — határmenti települések klímája",
+      "factsAdvanced": [
+        "A Karas régió mély délkeleti részén, a Kalahári-sivatag peremén fekszik",
+        "Közel található a Dél-Afrikába átvezető Mata-Mata és Rietfontein határállomásokhoz",
+        "A helyi gazdaság fókuszában a karakuljuh- és marhatenyésztés áll",
+        "Éghajlatát extrém szárazság és magas nyári hőmérséklet jellemzi",
+        "Infrastruktúrája alapszintű, a közösségi élet a helyi farmerek köré szerveződik",
+        "Lakossága nagyjából 1 500 fő"
+      ]
+    },
+    {
+      "id": "koes-cities-v2",
+      "descriptionAdvanced": "Koës egy apró, archaikus település Namíbia délkeleti sarkában, elrejtve a Kalahári-sivatag homokdűnéi és kiterjedt birkafarmjai között. A falu történelme összefonódik a namíbiai függetlenségi mozgalmakkal és a helyi nama közösségek sorsával. Lakossága jórészt önellátó gazdálkodásból és kecsketenyésztésből él, az infrastruktúra pedig csak az alapvető szükségletekre szorítkozik. A vidék rendkívül elszigetelt, ami különleges békét és csillagos éjszakákat biztosít a kevés ide látogató utazónak, akik a közeli Quiver Tree (tegezfa) erdőket fedezik fel. Földrajz K8 — elszigetelt falvak és éghajlat",
+      "factsAdvanced": [
+        "A Kalahári-sivatag peremvidékén fekszik, Keetmanshooptól északkeletre",
+        "Rendkívül alacsony népsűrűségű, elszigetelt közösség",
+        "A helyiek fő megélhetési forrása a kecske- és juhtenyésztés",
+        "Nincsenek jelentős ipari vagy kereskedelmi létesítmények",
+        "Az éjszakai égbolt itt fényszennyezéstől mentes",
+        "Népessége alig haladja meg az 1 000 főt"
+      ]
+    },
+    {
+      "id": "warmbad-cities-v2",
+      "descriptionAdvanced": "Warmbad az ország egyik legdélebbi és legmelegebb klímájú történelmi faluja, mely nevét a környékén feltörő forró vizű (termál) forrásokról kapta. Már az 1700-as évek végén a khoikhoi népek gyülekezőhelye volt, majd 1805-ben a londoni misszionáriusok az első missziós állomások egyikét alapították meg itt. A település a Bondelswarts (egy nama törzs) otthona, akik 1903-ban és 1922-ben is véres felkeléseket vezettek a német, majd a dél-afrikai hatóságok ellen. Ma csendes, poros falu, de a felújított történelmi emlékek, mint a Régi Erőd és a termálfürdők lassan újra vonzzák az érdeklődőket. Történelem K8 — afrikai felkelések és missziók",
+      "factsAdvanced": [
+        "1805-ben missziós állomásként alapították a termálforrások mellé",
+        "A Bondelswarts nama törzs történelmi otthona és központja",
+        "A forró vízű források vizének hőmérséklete eléri a 30-40 Celsius fokot",
+        "Itt zajlott a hírhedt 1922-es Bondelswarts-felkelés a dél-afrikaiak ellen",
+        "Kopár, forró karoo-növényzettel borított vidék öleli körbe",
+        "Lakossága rendkívül kicsi, megközelítőleg 500-800 fő"
+      ]
+    },
+    {
+      "id": "rosh-pinah-cities-v2",
+      "descriptionAdvanced": "Rosh Pinah egy modern, zárt bányaváros Namíbia déli partvidékének közelében, a zord Huib-hegység ölelésében. A várost az 1960-as évek végén alapították az ólom- és cinkbányászat céljából, és jelenleg két nagy bánya (a Rosh Pinah Zinc Corporation és a Skorpion Zinc) ad munkát a lakosság többségének. Bár az elszigetelt, sivatagi táj kíméletlen, a bányatársaságok kiváló infrastruktúrát – modern lakóparkokat, iskolákat és sportlétesítményeket – építettek ki. Ahogy a Skorpion bánya élettartama a végéhez közeledik, a város új kihívásokkal néz szembe, hogy megőrizze gazdasági stabilitását a bányászat utáni korszakban. Kémia K8 — cinkbányászat és feldolgozás",
+      "factsAdvanced": [
+        "Az 1960-as években alapították a cink- és ólombányászat támogatására",
+        "Két jelentős bányaüzem, a Rosh Pinah Zinc és a Skorpion Zinc dominálja",
+        "Nevét a héber 'Rosh Pinah' szóból kapta, ami 'Sarokkövet' jelent",
+        "Kiváló bányavállalati infrastruktúrával rendelkező zárt jellegű város",
+        "Az Oranje folyó és az Atlanti-óceán között, a hegyekben fekszik",
+        "Népessége a bányászat fellendülése miatt megközelítette a 7 000 főt"
+      ]
+    },
+    {
+      "id": "noordoewer-cities-v2",
+      "descriptionAdvanced": "Noordoewer a namíbiai-dél-afrikai határ egyik legfontosabb városa, amely stratégiai fekvésének köszönhetően az Oranje folyó északi partján épült fel. A város neve afrikaans nyelven 'északi partot' jelent, és egy forgalmas tranzitállomás a két országot összekötő B1-es autópályán. A sivatagos környezet dacára a folyó közelsége virágzó öntözéses mezőgazdaságot tesz lehetővé, a környék pedig hatalmas szőlőültetvényeiről (különösen a csemegeszőlőről) és mangófarmjairól vált híressé. Turisztikai szempontból is vonzó, mivel innen indulnak az Oranje folyón a népszerű többnapos kenu- és raftingtúrák a Richtersveld drámai hegyei között. Földrajz K8 — határfolyók és agrárium",
+      "factsAdvanced": [
+        "A Namíbia és Dél-Afrika közötti legfontosabb határátkelőhely (B1 autópálya)",
+        "Neve afrikaans nyelven 'Északi part'-ot jelent",
+        "A térség Namíbia legnagyobb szőlőtermesztő és -exportáló régiója",
+        "Népszerű bázis az Oranje folyó kenu- és raftingtúráinak",
+        "A helyi klíma rendkívül forró nyáron, de a folyó kellemes hűsítő hatást nyújt",
+        "A gazdaság a mezőgazdaságra és a határforgalomra fókuszál"
+      ]
+    },
+    {
+      "id": "aussenkehr-cities-v2",
+      "descriptionAdvanced": "Aussenkehr eredetileg egy magántulajdonban lévő hatalmas mezőgazdasági birtok volt az Oranje folyó partján, amely az évtizedek során egy nyüzsgő, informális várossá nőtte ki magát. A sivatagi völgy mikroklimája és a folyamatos folyóvíz-ellátás Namíbia legfontosabb csemegeszőlő-termesztő központjává tette a helyet; az itteni szőlő a korai érés miatt prémium áron kel el az európai piacokon. A szüret idején (novembertől januárig) a lakosság akár 30 000 főre is duzzadhat a szezonális munkások beáramlása miatt. Az infrastruktúra azonban nehezen tart lépést ezzel a növekedéssel, így a munkások jelentős része még mindig hagyományos nádkunyhókban (reed huts) él a folyó mentén. Földrajz K7 — exportcélú öntözéses gazdálkodás",
+      "factsAdvanced": [
+        "Namíbia legnagyobb csemegeszőlő-termesztő régiója az Oranje folyó mentén",
+        "A betakarítási szezonban a lakosság száma 30 000 főre is megnőhet",
+        "A szőlőt elsősorban az európai piacokra exportálják (korai szüret)",
+        "Eredetileg egy gigantikus magánfarm volt, amely várossá fejlődött",
+        "A munkások jelentős része az ikonikus nádkunyhókban él",
+        "Rendkívül forró nyarak jellemzik, mikroklímáját a völgy zártsága fokozza"
+      ]
+    },
+    {
+      "id": "aus-cities-v2",
+      "descriptionAdvanced": "Aus egy apró, széltől tépázott történelmi falu Namíbia déli részén, a Namib-sivatag sziklás hegyei között. A település az első világháború alatt vált ismertté, amikor a dél-afrikai erők itt hoztak létre egy hadifogolytábort a megadó német katonák számára; a tábor romjai és a katonai temető ma is látogatható. Aus leghíresebb nevezetessége azonban a közeli Garub síkságon élő sivatagi vadlovak (Namib Desert Horses), amelyek a világ kevés vadló-populációinak egyikét alkotják, és hihetetlen módon alkalmazkodtak a kíméletlen, vízhiányos sivatagi környezethez. Történelem K8 — I. világháborús hadifogolytáborok",
+      "factsAdvanced": [
+        "1915-ben dél-afrikai hadifogolytábort létesítettek itt a német katonák számára",
+        "Otthont ad a Namíb-sivatag híres, vadon élő lóállományának (Namib Desert Horses)",
+        "A falu klímája zord, a hegyek miatt télen gyakran fagyos, nyáron pedig forró",
+        "Fontos vasúti csomópont volt a Lüderitz és Keetmanshoop közötti vonalon",
+        "A helyi hegyvidéki táj kiváló túrázási lehetőségeket kínál",
+        "Állandó lakossága kevesebb mint 1 000 fő"
+      ]
+    },
+    {
+      "id": "uis-cities-v2",
+      "descriptionAdvanced": "Uis egy poros kis bányászváros az Erongo régióban, Namíbia legmagasabb csúcsa, a Brandberg-hegy (Tűzhegy) lábánál. A település az 1950-es években élte fénykorát, amikor a világ egyik legnagyobb külszíni ónbányája működött itt. Miután a bánya a kilencvenes években bezárt, Uis gazdasági visszaesést élt át, de a közelmúltban a ritkaföldfémek és a lítium iránti növekvő kereslet miatt az ásványi kutatások ismét feléledtek. A város manapság leginkább a Brandberghez tartó turisták és hegymászók alaptáboraként funkcionál, akik a híres 'Fehér Hölgy' (White Lady) ősi sziklafestményt jönnek megcsodálni a hegység barlangjaiban. Földrajz K8 — külszíni bányászat és bányavárosok utóélete",
+      "factsAdvanced": [
+        "A Namíbia legmagasabb hegye, a Brandberg (2 573 m) lábánál fekszik",
+        "Egykor a világ legnagyobb nyílt színi ónbányájának adott otthont",
+        "A híres 'Fehér Hölgy' sziklafestmény a város közelében található",
+        "Térsége gazdag ritka ásványokban és kristályokban (pl. ametiszt, turmalin)",
+        "Gazdasága manapság egyre inkább a turizmusra és a kézműves bányászatra épül",
+        "Lakossága megközelítőleg 3 500 fő"
+      ]
+    },
+    {
+      "id": "okombahe-cities-v2",
+      "descriptionAdvanced": "Okombahe egy kulturálisan és történelmileg gazdag falu az Erongo régióban, amelyet a Damara nép szívének és spirituális központjának tartanak. Az Omaruru folyó kiszáradt medre mentén fekvő településen rendezték meg először a Damara Királyok Fesztiválját, amely azóta is évente százakat vonz, hogy megemlékezzenek az ősi vezetőikről és ápolják zenei és táncos hagyományaikat. A tájat gigantikus, magányosan álló gránitsziklák (kopjék) uralják, amelyek drámai szépséget kölcsönöznek a kopár vidéknek. A lakosság nagyrészt önellátó kecske- és szarvasmarhatartásból él a helyi kommunális földeken. Történelem K7 — a Damara nép kulturális öröksége",
+      "factsAdvanced": [
+        "A Damara etnikai csoport kulturális és hagyományos központja",
+        "A település mellett található a Gaob (Király) emlékmű",
+        "Minden évben itt tartják a Damara nép legfontosabb kulturális fesztiválját",
+        "Az Omaruru folyó mentén, sziklás hegyek ölelésében helyezkedik el",
+        "Az infrastruktúra nagyon alapvető, a lakosság a kommunális mezőgazdaságból él",
+        "Népessége nagyjából 1 000-1 500 fő"
+      ]
+    },
+    {
+      "id": "omatjete-cities-v2",
+      "descriptionAdvanced": "Omatjete egy csendes közösségi farmvidéki központ az Erongo régió eldugott, sziklás peremén. A falu elsősorban a Herero lakosság otthona, és a városi nyüzsgéstől távol, a hagyományos életmód konzerválódott itt leginkább. A környék félsivatagos jellege miatt a mezőgazdaság szigorúan a ridegtartásos szarvasmarha- és kecsketenyésztésre korlátozódik. A helyiek életét nagyban nehezítik az időszakos aszályok, valamint az emberek és a szabadon kószáló sivatagi elefántok közötti konfliktusok, mivel az állatok gyakran megrongálják a kutakat és a víztartályokat a vízkeresés során. Biológia K8 — ember és vadvilág konfliktusa",
+      "factsAdvanced": [
+        "Herero közösségek által lakott kommunális falu az Erongo régióban",
+        "A falu neve helyi nyelven 'Ahol a fák vizet találnak' jelentéssel bír",
+        "Gyakoriak az ember és a sivatagi elefántok közötti konfliktusok a vízhiány miatt",
+        "Kizárólag önellátó és hagyományos pásztorkodás jellemzi",
+        "Rendkívül elszigetelt település, minimális turizmussal",
+        "Lakossága kicsi, az infrastruktúra hiányos"
+      ]
+    },
+    {
+      "id": "kalkfeld-cities-v2",
+      "descriptionAdvanced": "Kalkfeld egy apró település az Otjozondjupa régióban, az Otjiwarongo és Omaruru közötti C33-as főút mentén. Egykor virágzó kereskedelmi és vasúti megállóhely volt, ám a 20. század második felében gazdasága hanyatlásnak indult, így ma a város csendes, elhagyatott atmoszférát áraszt omladozó régi épületeivel. Ugyanakkor a város közelében található az Otjihaenamaparero farm, ahol a világ egyik legépebben megmaradt dinoszaurusz-lábnyomait fedezték fel. Ezek a 190 millió éves, sziklába kövült nyomok a történelem előtti időkbe repítik vissza a geológia és a paleontológia szerelmeseit. Történelem K7 — paleontológia és dinoszaurusz leletek",
+      "factsAdvanced": [
+        "Félúton található Otjiwarongo és Omaruru között",
+        "A közeli farmon 190 millió éves, kövült dinoszaurusz-lábnyomok láthatók",
+        "Egykor fontos vasúti és bányászati megálló volt a gyarmati időkben",
+        "A gazdasági hanyatlás miatt sok régi épület elhagyatottan áll",
+        "Neve németül 'Mészkőmezőt' jelent a helyi kőzet összetétele miatt",
+        "Lakossága megközelítőleg 2 000 fő"
+      ]
+    },
+    {
+      "id": "hochfeld-cities-v2",
+      "descriptionAdvanced": "Hochfeld egy tipikus közép-namíbiai agrárcsomópont, amely nem is annyira város, mint inkább a környező hatalmas magánfarmok központja. A település mindössze néhány épületből – egy benzinkútból, egy rendőrőrsből és egy kisboltból – áll, és elsősorban a szarvasmarha- és vadtenyésztő gazdák találkozási pontja. A tájat sűrű, tüskés bozótos szavanna borítja, amely kiválóan alkalmas a szarvasmarhatartásra, bár a bozótosodás (bush encroachment) komoly problémát jelent az állattenyésztők számára. A régió egyben népszerű vadászati terület is, ahol a farmerek vendégházakat (guest farms) üzemeltetnek a trófeavadászok számára. Földrajz K8 — szavannai mezőgazdaság és bozótosodás",
+      "factsAdvanced": [
+        "Az Otjozondjupa régió kereskedelmi farmvidékének apró központja",
+        "Környezetét kiterjedt magán-marhafarmok és sűrű bozótos (bush) uralja",
+        "Fontos benzinkút és ellátó pont a C30-as földút mentén utazóknak",
+        "A 'bozótosodás' (encroachment) ellen aktív faszénégetéssel küzdenek a helyiek",
+        "Jelentős célpontja a nemzetközi és belföldi trófeavadászoknak",
+        "Nem rendelkezik jelentős állandó lakossággal, inkább szolgáltató központ"
+      ]
+    }
+  ]
+}

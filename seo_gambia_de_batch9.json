@@ -1,0 +1,39 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "albreda-cities-v2",
+      "descriptionAdvanced": "Albreda ist ein geschichtsträchtiger Handelsposten am Nordufer des Gambia-Flusses, der auf eine bewegte koloniale Vergangenheit zurückblickt. Die Stadt ist vor allem für ihre historische Rolle als französischer Handelsposten und ihre Verstrickung in den transatlantischen Sklavenhandel bekannt. Heute ist Albreda ein integraler Bestandteil eines UNESCO-Welterbes, das die Erinnerung an diese dunkle Epoche wachhält und Besuchern Einblicke in die Auswirkungen der Kolonialisierung auf die Region gibt. Die Auseinandersetzung mit dieser Vergangenheit ist ein zentraler Bestandteil der heutigen kulturellen Identität von Albreda. Geschichte K8 — Kolonialismus und historisches Erbe.",
+      "factsAdvanced": ["Ehemaliger französischer Handelsposten.", "Teil des UNESCO-Welterbes.", "Historische Verbindungen zum Sklavenhandel.", "Wichtiger Ort des kolonialen Erbes.", "Zeugnis der transatlantischen Geschichte.", "Kulturelle Auseinandersetzung mit der Vergangenheit.", "Lage am Nordufer des Gambia-Flusses."]
+    },
+    {
+      "id": "juffureh-cities-v2",
+      "descriptionAdvanced": "Juffureh hat durch Alex Haleys berühmten Roman 'Roots' weltweite Bekanntheit erlangt, in dem das Dorf als die Heimat von Kunta Kinte beschrieben wird. Dieser literarische Ruhm hat Juffureh zu einem zentralen Ort für Reisende gemacht, die mehr über die Geschichte der Versklavung und die Wurzeln der afrikanischen Diaspora erfahren möchten. Juffureh versteht sich heute als ein Ort der Erinnerung und der historischen Aufklärung. Die Bedeutung des Dorfes geht weit über die lokale Ebene hinaus und macht es zu einem Symbol für die Suche nach Identität und Herkunft. Geschichte K7 — Literarisches Erbe und historische Aufklärung.",
+      "factsAdvanced": ["Weltbekannt durch Alex Haleys 'Roots'.", "Heimat von Kunta Kinte.", "Zentrum für Roots-Tourismus.", "Bedeutende historische Stätte der Diaspora-Geschichte.", "Symbol für die Suche nach Identität.", "Wichtiger Ort der historischen Erinnerungskultur.", "Symbolträchtiges Dorf in Gambia."]
+    },
+    {
+      "id": "garowol-cities-v2",
+      "descriptionAdvanced": "Garowol ist eine der bedeutenden Siedlungen in der Upper River Region und ein Zentrum der soninkesprachigen Kultur. Die lokale Wirtschaft ist stark von der Landwirtschaft geprägt, wobei die Viehzucht einen besonderen Stellenwert für den Wohlstand und die Stabilität der dörflichen Gemeinschaft einnimmt. Durch die Bewahrung traditioneller Praktiken und die enge soziale Verbundenheit der Einwohner ist Garowol ein Beispiel für das ländliche Gambia abseits der urbanen Zentren. Die Stadt verbindet traditionelle Lebensweisen mit den Anforderungen einer modernen Agrarwirtschaft. Soziologie K6 — Ländliche Gemeinschaften und Tradition.",
+      "factsAdvanced": ["Bedeutende Siedlung der Soninke.", "Zentrum für traditionelle Viehzucht.", "Starke landwirtschaftliche Prägung.", "Bewahrung traditioneller Lebensformen.", "Stabile dörfliche Gemeinschaftsstrukturen.", "Wichtiger lokaler Wirtschaftsfaktor.", "Repräsentativ für das ländliche Gambia."]
+    },
+    {
+      "id": "koina-cities-v2",
+      "descriptionAdvanced": "Koina ist der östlichste Außenposten Gambias, gelegen am Ufer des Gambia-Flusses unmittelbar an der Grenze zum Senegal. Aufgrund dieser Grenzlage und der Entfernung zu den städtischen Ballungszentren spielt der Ort eine spezielle Rolle im regionalen Grenzhandel und der lokalen Logistik. Die geografische Isolation verleiht Koina einen ganz eigenen Charakter, der durch das Leben am Fluss und den Austausch mit den senegalesischen Nachbarn geprägt ist. Die Stadt ist ein Beispiel für ein Leben in einer Grenzregion, in der geografische Gegebenheiten den täglichen Rhythmus maßgeblich bestimmen. Geographie K7 — Leben in Grenzregionen.",
+      "factsAdvanced": ["Östlichster Punkt Gambias.", "Grenzlage zum Senegal.", "Wichtiger Flusshafen im Osten.", "Eigener Charakter durch geografische Isolation.", "Reger Austausch mit senegalesischen Nachbarn.", "Zentrum für lokalen Grenzhandel.", "Lebensweise geprägt durch den Fluss."]
+    },
+    {
+      "id": "sabi-cities-v2",
+      "descriptionAdvanced": "Sabi ist eine lebhafte Handelsstadt in der Upper River Region, deren wirtschaftliche Aktivität eng mit der Nähe zur senegalesischen Grenze verknüpft ist. Als bedeutender Grenzübergang ist Sabi ein zentraler Punkt für den grenzüberschreitenden Handel und den Austausch von Waren und Menschen zwischen den beiden Nationen. Die Stadt fungiert als wirtschaftlicher Ankerpunkt für die gesamte Umgebung und zieht Händler aus einem weiten Umkreis an. Diese grenznahe Dynamik prägt das Gesicht der Stadt und macht sie zu einem unverzichtbaren Akteur für die regionale Wirtschaftsleistung. Wirtschaft K7 — Grenzüberschreitende Handelsbeziehungen.",
+      "factsAdvanced": ["Bedeutender Grenzübergang zum Senegal.", "Zentrum für den grenzüberschreitenden Handel.", "Wirtschaftlicher Ankerpunkt für die Region.", "Anziehungspunkt für Händler aus der Umgebung.", "Dynamische wirtschaftliche Handelsstruktur.", "Wichtiger Akteur für den regionalen Austausch.", "Prägend durch grenznahe Lage."]
+    },
+    {
+      "id": "gambissara-cities-v2",
+      "descriptionAdvanced": "Gambissara ist eine der größten Siedlungen in der Upper River Region und bekannt für eine tief verwurzelte religiöse Tradition, die den Alltag der Bewohner stark beeinflusst. Die religiöse Gelehrsamkeit in Gambissara zieht Menschen aus weiten Teilen des Landes an, die hier Inspiration und Wissen suchen. Neben dem religiösen Aspekt ist die Stadt ein bedeutender landwirtschaftlicher Akteur in der Region, der die wirtschaftliche Basis für viele Familien bildet. Diese Kombination aus geistlicher Ausstrahlung und bodenständiger Agrarwirtschaft macht Gambissara zu einem kulturell und ökonomisch wichtigen Ort im gambischen Osten. Geschichte/Soziologie K7 — Religion und Gemeinschaft.",
+      "factsAdvanced": ["Bekannt für religiöse Gelehrsamkeit.", "Eines der größten Dörfer im Osten Gambias.", "Starke landwirtschaftliche Basis.", "Zentrum für religiöse Traditionen.", "Wichtiger Ort für kulturellen Austausch.", "Hohe sozio-ökonomische Relevanz in der Region.", "Kulturelle Ausstrahlung weit über den Ort hinaus."]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghana-tema-port",
+      "descriptionAdvanced": "Der Tema-Hafen, eröffnet 1962, ist der wichtigste und modernste Seehafen Ghanas und fertigt fast 70 Prozent des nationalen Seehandels ab. Gelegen auf dem Nullmeridian, wurde der Hafen in den letzten Jahren massiv ausgebaut, einschließlich eines neuen Containerterminals, das riesige Frachtschiffe aufnehmen kann. Er dient nicht nur der ghanaischen Wirtschaft, sondern ist auch ein lebenswichtiger Transitpunkt für die Binnenländer Burkina Faso, Mali und Niger, die auf diese maritime Anbindung angewiesen sind. Wirtschaft K8 — globale Handelswege.",
+      "factsAdvanced": ["Eröffnet 1962", "Wichtigster Seehafen Ghanas", "Liegt auf dem Nullmeridian", "Fertigt ca. 70% des Seehandels ab", "Besitzt neues Containerterminal", "Wichtiger Transitpunkt für Mali und Burkina Faso"]
+    },
+    {
+      "id": "ghana-takoradi-port",
+      "descriptionAdvanced": "Als ältester kommerzieller Seehafen Ghanas wurde der Hafen von Takoradi 1928 in Betrieb genommen, ursprünglich konzipiert für den Export von Kakao, Holz und Mineralien aus dem rohstoffreichen Hinterland. Heute erlebt der Hafen eine Renaissance als logistisches Zentrum für Ghanas aufstrebende Offshore-Öl- und Gasindustrie im Golf von Guinea. Trotz der Modernisierung ist er immer noch der primäre Umschlagplatz für Bauxit- und Manganerze, die per Bahn aus den umliegenden Minen herantransportiert werden. Geografie K7 — Hafenlogistik.",
+      "factsAdvanced": ["Ältester kommerzieller Seehafen Ghanas", "In Betrieb seit 1928", "Ursprünglich für Kakao- und Holzexport", "Logistikzentrum für Offshore-Ölindustrie", "Primärer Umschlagplatz für Bauxit", "Liegt in der Western Region"]
+    },
+    {
+      "id": "ghana-anglogold-ashanti",
+      "descriptionAdvanced": "Die AngloGold Ashanti Mine in Obuasi ist eine der ältesten und tiefsten Goldminen der Welt und ein Symbol für Ghanas historischen Reichtum als Goldküste. Seit über hundert Jahren wird hier massiv Gold gefördert, wobei die Schächte teilweise mehrere Kilometer in die Erde reichen. Obwohl der Bergbau der Region enormen wirtschaftlichen Reichtum brachte, hat er auch tiefgreifende soziale und ökologische Spuren in Form von Wasserverschmutzung und massiven Abraumhalden hinterlassen. Umwelt K8 — Bergbau und Nachhaltigkeit.",
+      "factsAdvanced": ["Eine der ältesten Goldminen der Welt", "Gehört zu den tiefsten Minen global", "Liegt in Obuasi", "Teilweise mehrere Kilometer tiefe Schächte", "Hinterließ massive Abraumhalden", "Schwere ökologische Spuren"]
+    },
+    {
+      "id": "ghana-tarkwa-mine",
+      "descriptionAdvanced": "Die Tarkwa Goldmine, betrieben in der Western Region, ist der größte Goldbergbaubetrieb Ghanas und zeichnet sich durch ihren massiven Tagebau aus. Im Gegensatz zu den tiefen Schächten von Obuasi wird das goldhaltige Gestein hier großflächig an der Oberfläche abgetragen, was die Landschaft dauerhaft umgestaltet hat. Der Abbau konzentriert sich auf die Tarkwaian-Konglomerate, geologische Formationen, die denen im südafrikanischen Witwatersrand-Becken stark ähneln. Geografie K8 — Geologie und Bodenschätze.",
+      "factsAdvanced": ["Größter Goldbergbaubetrieb in Ghana", "Massiver Tagebau", "Liegt in der Western Region", "Baut Tarkwaian-Konglomerate ab", "Goldhaltiges Gestein wird großflächig abgetragen", "Landschaft massiv umgestaltet"]
+    },
+    {
+      "id": "ghana-awaso-bauxite",
+      "descriptionAdvanced": "Die Mine in Awaso ist der einzige aktive Bauxit-Abbauort in Ghana und liefert den kritischen Rohstoff für die globale Aluminiumproduktion. Der Abbau begann in den 1940er Jahren, getrieben von der enormen britischen Nachfrage während des Zweiten Weltkriegs. Das erzhaltige Gestein wird per Schiene an die Küste zum Hafen von Takoradi transportiert, wobei große Mengen an rötlichem Staub die umliegende Landschaft der Western North Region prägen. Wirtschaft K7 — industrielle Rohstoffe.",
+      "factsAdvanced": ["Einziger aktiver Bauxit-Abbauort in Ghana", "Abbau begann in den 1940er Jahren", "Liefert Rohstoff für Aluminiumproduktion", "Transport per Bahn nach Takoradi", "Große Mengen an rötlichem Staub", "Liegt in der Western North Region"]
+    },
+    {
+      "id": "ghana-nsuta-manganese",
+      "descriptionAdvanced": "Die Nsuta-Manganmine liegt nahe Tarkwa und ist seit 1916 ununterbrochen in Betrieb, womit sie zu den traditionsreichsten Minen des Landes zählt. Mangan ist ein unerlässlicher Zusatzstoff für die Herstellung von hochfestem Stahl, und Ghana gehört dank Nsuta zu den wichtigsten Manganexporteuren weltweit. Die Mine ist tief in die lokale Wirtschaft integriert, wenngleich der massive Abtransport per Schwerlastverkehr die örtlichen Straßen stark belastet. Chemie K8 — Metalle und Legierungen.",
+      "factsAdvanced": ["Seit 1916 in Betrieb", "Liegt in der Nähe von Tarkwa", "Abbau von Manganerz", "Wichtig für die Stahlherstellung", "Ghana ist ein globaler Top-Exporteur von Mangan", "Starke Belastung durch Schwerlastverkehr"]
+    },
+    {
+      "id": "ghana-akwatia-diamonds",
+      "descriptionAdvanced": "Die Diamantenfelder von Akwatia waren jahrzehntelang das schlagende Herz der ghanaischen Diamantenindustrie, die vor allem Industriediamanten förderte. Entdeckt in den 1920er Jahren, verwandelte der Fund das kleine Dorf rasch in eine lebendige Bergbaustadt. Heute sind die großflächigen kommerziellen Minen weitgehend erschöpft, und das Gebiet wird hauptsächlich von artisanalen Schürfern (Galamsey) bearbeitet, die den verbliebenen Schlamm nach den letzten Steinen durchkämmen. Geografie K7 — Rohstoffzyklen.",
+      "factsAdvanced": ["Herz der ghanaischen Diamantenindustrie", "Diamanten in den 1920er Jahren entdeckt", "Liegt in Akwatia", "Förderte vor allem Industriediamanten", "Kommerzielle Minen weitgehend erschöpft", "Heute viel illegaler Kleinstbergbau (Galamsey)"]
+    },
+    {
+      "id": "ghana-jubilee-oil",
+      "descriptionAdvanced": "Das Jubilee-Ölfeld, entdeckt im Jahr 2007 vor der Küste von Cape Three Points, markierte den Beginn von Ghanas Ära als Erdöl produzierende Nation. Mit geschätzten Reserven von mehreren hundert Millionen Barrel wird das Öl mithilfe hochmoderner FPSO-Schiffe (Floating Production Storage and Offloading) gefördert, die direkt auf dem Ozean das Öl verarbeiten und lagern. Die Einnahmen aus diesem Feld sind mittlerweile zu einer tragenden Säule der nationalen Wirtschaft geworden. Wirtschaft K8 — fossile Brennstoffe.",
+      "factsAdvanced": ["Entdeckt im Jahr 2007", "Liegt vor der Küste von Cape Three Points", "Beginn der ghanaischen Öl-Ära", "Mehrere hundert Millionen Barrel Reserven", "Förderung durch hochmoderne FPSO-Schiffe", "Tragende Säule der nationalen Wirtschaft"]
+    },
+    {
+      "id": "ghana-tema-oil-refinery",
+      "descriptionAdvanced": "Die Tema Oil Refinery (TOR) ist die einzige Erdölraffinerie in Ghana und ein kritisches Rückgrat für die nationale Energieversorgung. Die Anlage wurde 1963 in Betrieb genommen, um die Abhängigkeit von importierten raffinierten Kraftstoffen zu verringern, und verarbeitet Rohöl zu Benzin, Diesel und Flüssiggas (LPG) für den heimischen Markt. Trotz wiederholter technologischer Upgrades kämpft die Raffinerie oft mit finanziellen und operativen Engpässen, was zu temporären Treibstoffknappheiten führen kann. Physik K8 — Erdölverarbeitung.",
+      "factsAdvanced": ["Einzige Erdölraffinerie in Ghana", "In Betrieb seit 1963", "Liegt in Tema", "Produziert Benzin, Diesel und Flüssiggas (LPG)", "Ziel war Unabhängigkeit von Importen", "Kämpft oft mit finanziellen Engpässen"]
+    },
+    {
+      "id": "ghana-valco-aluminum",
+      "descriptionAdvanced": "Die Volta Aluminium Company (VALCO) in Tema war einst ein Flaggschiffprojekt zur Industrialisierung Ghanas nach der Unabhängigkeit. Die gigantische Schmelzanlage nutzt die kostengünstige hydroelektrische Energie des Akosombo-Staudamms, um importiertes Aluminiumoxid zu hochwertigen Aluminiumbarren zu schmelzen. Obwohl die Anlage nie die ursprünglich geplante Kapazität erreichte, bleibt sie ein wichtiges Beispiel für den Versuch, afrikanische Rohstoffe lokal zu veredeln statt nur zu exportieren. Wirtschaft K7 — Wertschöpfungsketten.",
+      "factsAdvanced": ["Flaggschiffprojekt zur Industrialisierung", "Gigantische Schmelzanlage in Tema", "Nutzt Energie des Akosombo-Staudamms", "Schmilzt importiertes Aluminiumoxid", "Versuch der lokalen Rohstoffveredelung", "Produziert hochwertige Aluminiumbarren"]
+    },
+    {
+      "id": "ghana-takoradi-thermal",
+      "descriptionAdvanced": "Das Takoradi Thermal Power Station ist ein unverzichtbares Wärmekraftwerk in der Aboadze-Enklave, das zur Stabilisierung von Ghanas schwankender Stromversorgung beiträgt. Es wurde in den späten 1990er Jahren gebaut, als schwere Dürren die Stromproduktion des Akosombo-Staudamms drastisch reduzierten, und wird sowohl mit Erdgas als auch mit leichtem Rohöl betrieben. Das Kraftwerk ist ein Paradebeispiel für den hybriden Energiemix des Landes, der Wasserkraft und thermische Energie kombiniert. Physik K8 — Energiegewinnung.",
+      "factsAdvanced": ["Wärmekraftwerk in der Aboadze-Enklave", "Gebaut in den späten 1990er Jahren", "Stabilisiert schwankende Stromversorgung", "Wird mit Erdgas und Rohöl betrieben", "Teil von Ghanas hybridem Energiemix", "Liegt nahe Takoradi"]
+    },
+    {
+      "id": "ghana-chirano-gold",
+      "descriptionAdvanced": "Die Chirano Goldmine ist ein hochmoderner Bergbaubetrieb in der südwestlichen Region Ghanas, der sowohl im Tagebau als auch unter Tage arbeitet. Sie zeichnet sich durch ihren hohen Automatisierungsgrad und strenge Umweltauflagen aus, wodurch sie als Modell für moderne Bergbaupraktiken in Westafrika gilt. Die Mine liegt in einer stark bewaldeten Zone, weshalb intensive Aufforstungsprogramme parallel zum Abbau betrieben werden, um das ökologische Gleichgewicht zu wahren. Umwelt K8 — moderner Bergbau.",
+      "factsAdvanced": ["Liegt in der südwestlichen Region", "Betreibt Tagebau und Untertagebau", "Hoher Automatisierungsgrad", "Modell für moderne Bergbaupraktiken", "Strenge Umweltauflagen", "Intensive Aufforstungsprogramme"]
+    },
+    {
+      "id": "ghana-iduapriem-gold",
+      "descriptionAdvanced": "Die Iduapriem Mine, nahe Tarkwa gelegen, ist ein riesiger Tagebaubetrieb, der sich über ein ausgedehntes Gebiet in der rohstoffreichen Western Region erstreckt. Um das Gold aus dem widerstandsfähigen Gestein zu lösen, werden hier gigantische Gesteinsmühlen und komplexe chemische Auswaschverfahren (Cyanidlaugung) eingesetzt. Die Minenbetreiber investieren stark in die lokale Infrastruktur, um die sozialen Auswirkungen des massiven Flächenverbrauchs auf die umliegenden Dörfer zu mildern. Geografie K7 — Landnutzung.",
+      "factsAdvanced": ["Riesiger Tagebaubetrieb nahe Tarkwa", "Gigantische Gesteinsmühlen im Einsatz", "Nutzt chemische Cyanidlaugung", "Erstreckt sich über ausgedehntes Gebiet", "Hoher Flächenverbrauch", "Investitionen in lokale Infrastruktur"]
+    },
+    {
+      "id": "ghana-bogoso-gold",
+      "descriptionAdvanced": "Die Bogoso Goldmine hat eine wechselvolle Geschichte von Stilllegungen und Reaktivierungen hinter sich, die stark von den globalen Goldpreisen diktiert wurde. Die Anlage ist bekannt für ihre Fähigkeit, besonders refraktäres (schwer lösliches) Gestein zu verarbeiten, was spezielle und teure biologische Oxidationsverfahren erfordert. Die gigantischen Abraumhalden rund um Bogoso sind ein ständiges visuelles Zeugnis der enormen Erdmassen, die für wenige Unzen Gold bewegt werden müssen. Chemie K8 — Stofftrennung.",
+      "factsAdvanced": ["Verarbeitet schwer lösliches (refraktäres) Gestein", "Nutzt spezielle biologische Oxidationsverfahren", "Wechselvolle Geschichte von Stilllegungen", "Gigantische Abraumhalden", "Liegt in der Western Region", "Stark abhängig vom globalen Goldpreis"]
+    },
+    {
+      "id": "ghana-ahafo-gold",
+      "descriptionAdvanced": "Tief in der waldreichen Ahafo Region gelegen, ist diese Mine eine der profitabelsten in Westafrika und das Herzstück von Newmonts Aktivitäten in Ghana. Seit Produktionsbeginn im Jahr 2006 hat die Mine die zuvor rein landwirtschaftlich geprägte Region dramatisch transformiert, was Tausende von Arbeitssuchenden anlockte. Die Betreiber haben einen speziellen Entwicklungsfonds eingerichtet, in den ein Teil des Gewinns fließt, um Schulen, Straßen und Kliniken in der Region zu finanzieren. Sozialkunde K7 — wirtschaftliche Entwicklung.",
+      "factsAdvanced": ["Eine der profitabelsten Minen Westafrikas", "Liegt tief in der waldreichen Ahafo Region", "Produktionsbeginn im Jahr 2006", "Herzstück von Newmonts Aktivitäten", "Eigener Entwicklungsfonds für die Region", "Transformation der Agrarregion"]
+    },
+    {
+      "id": "ghana-akyem-gold",
+      "descriptionAdvanced": "Die Akyem Goldmine in der Eastern Region gilt als eine der effizientesten und am besten verwalteten Minen des Landes, gelegen im dichten Birim North Distrikt. Bevor der Abbau begann, führte ein jahrelanger Disput mit Umweltschützern über die Rodung von Teilen des Ajenjua Bepo Forest Reserve zu strengen Auflagen. Als Ausgleich betreibt das Bergbauunternehmen nun eines der ehrgeizigsten Wiederaufforstungs- und Biodiversitätsprogramme in der ghanaischen Bergbaugeschichte. Biologie K8 — Biodiversität und Industrie.",
+      "factsAdvanced": ["Gilt als extrem effizient verwaltete Mine", "Liegt im dichten Birim North Distrikt", "Rodung im Ajenjua Bepo Forest Reserve", "Strengste Umweltauflagen", "Ehrgeizige Wiederaufforstungsprogramme", "Konflikte mit Umweltschützern vor Start"]
+    },
+    {
+      "id": "ghana-damang-gold",
+      "descriptionAdvanced": "Die Damang Mine liegt nördlich von Tarkwa und ist bekannt für ihren Abbau tief liegender Gesteinsschichten, die enorme Bohrtiefen im Tagebau erfordern. Der massive Damang Pit (Krater) gehört zu den spektakulärsten künstlichen Landschaften des Landes und zeigt eindrucksvoll die stratigrafischen Schichten der ghanaischen Geologie. Nachdem die oberflächennahen Reserven weitgehend erschöpft waren, investierten die Betreiber Hunderte Millionen Dollar in Spezialmaschinen, um an das tiefere Gestein zu gelangen. Geografie K8 — Erdgeschichte.",
+      "factsAdvanced": ["Liegt nördlich von Tarkwa", "Abbau tief liegender Gesteinsschichten", "Enorme Bohrtiefen im Tagebau", "Spektakulärer Krater (Damang Pit)", "Hunderte Millionen Dollar in Maschinen investiert", "Zeigt stratigrafische Schichten"]
+    },
+    {
+      "id": "ghana-asanko-gold",
+      "descriptionAdvanced": "Die Asanko Goldmine, gelegen im Amansie West Distrikt der Ashanti-Region, ist ein bemerkenswertes Projekt, das aus der Zusammenlegung zweier benachbarter Goldvorkommen entstand. Sie fördert im Tagebauverfahren und verarbeitet das Erz in einer zentralen, hochmodernen Aufbereitungsanlage, die täglich Tausende Tonnen Gestein bewältigt. Das Projekt ist ein wichtiger Arbeitgeber in einer ansonsten stark von Kakaofarmen und illegalem Kleinstbergbau dominierten Gegend. Wirtschaft K7 — industrielle Konsolidierung.",
+      "factsAdvanced": ["Zusammenschluss zweier Goldvorkommen", "Liegt im Amansie West Distrikt", "Zentrale hochmoderne Aufbereitungsanlage", "Täglich Tausende Tonnen Gestein verarbeitet", "Wichtiger regionaler Arbeitgeber", "Fördert im großflächigen Tagebau"]
+    },
+    {
+      "id": "ghana-edikan-gold",
+      "descriptionAdvanced": "Die Edikan Mine (früher Central Ashanti Gold Project) hat eine lange Geschichte und operiert in einem geologisch komplexen Gebiet, das mehrfache tektonische Verschiebungen aufweist. Im Vergleich zu den gigantischen Minen in Tarkwa fördert Edikan in mehreren, kleineren Tagebaugruben, die durch ein Netzwerk von Transportstraßen mit der zentralen Mühle verbunden sind. Die Mine hat umfangreiche Umsiedlungsprogramme für lokale Gemeinden durchgeführt, um den Abbau unterhalb bestehender Siedlungen zu ermöglichen. Sozialkunde K6 — Umsiedlung und Rechte.",
+      "factsAdvanced": ["Früher als Central Ashanti Gold Project bekannt", "Geologisch extrem komplexes Gebiet", "Fördert aus mehreren kleineren Tagebaugruben", "Umfangreiche Umsiedlungsprogramme", "Netzwerk von Transportstraßen zur Mühle", "Abbau unterhalb alter Siedlungen"]
+    },
+    {
+      "id": "ghana-nzema-gold",
+      "descriptionAdvanced": "Ganz im Südwesten des Landes, nicht weit von der ivorischen Grenze entfernt, liegt die Nzema Goldmine, benannt nach der lokalen ethnischen Gruppe. Diese Mine operiert in einer Region mit extrem hohem Niederschlag, was komplexe Pumpen- und Entwässerungssysteme erfordert, um die Tagebaugruben nicht überfluten zu lassen. Der Bergbau hier hat der relativ isolierten Küstenregion eine wichtige wirtschaftliche Lebensader neben dem traditionellen Fischfang und der Landwirtschaft gebracht. Geografie K7 — Klimatische Herausforderungen.",
+      "factsAdvanced": ["Liegt im äußersten Südwesten Ghanas", "Nahe der ivorischen Grenze", "Region mit extrem hohem Niederschlag", "Komplexe Entwässerungssysteme nötig", "Wirtschaftliche Lebensader für die Küstenregion", "Benannt nach der lokalen ethnischen Gruppe"]
+    },
+    {
+      "id": "ghana-prestea-underground",
+      "descriptionAdvanced": "Die Prestea Untertagemine ist ein technisches Meisterwerk, dessen Schächte über einen Kilometer tief in die Erde reichen und teilweise noch aus dem frühen 20. Jahrhundert stammen. Nach jahrelangem Stillstand und massiven Investitionen wurde die Mine reaktiviert und nutzt heute hochmoderne, ferngesteuerte Bohrmaschinen. Die extremen Temperaturen und die erdrückende Luftfeuchtigkeit in der Tiefe machen die Arbeit hier zu einer der anspruchsvollsten in der gesamten globalen Bergbauindustrie. Physik K8 — Thermodynamik unter Tage.",
+      "factsAdvanced": ["Schächte über einen Kilometer tief", "Stammt teilweise aus dem frühen 20. Jh.", "Nach jahrelangem Stillstand reaktiviert", "Nutzt ferngesteuerte Bohrmaschinen", "Extreme Hitze und Luftfeuchtigkeit in der Tiefe", "Technisches Meisterwerk unter Tage"]
+    },
+    {
+      "id": "ghana-buipe-cement",
+      "descriptionAdvanced": "Die Zementfabrik in Buipe in der Savannah Region ist eine der wenigen großen Industrieanlagen im Norden Ghanas und ein strategischer Dreh- und Angelpunkt für die Bauwirtschaft der Region. Sie profitiert von der Nähe zum Volta-See, über den Rohstoffe kostengünstig per Schiff transportiert werden, sowie von massiven lokalen Kalksteinvorkommen. Die Fabrik brach das Monopol der südlichen Küstenwerke und senkte die Baukosten im Norden des Landes dramatisch. Wirtschaft K7 — regionale Infrastruktur.",
+      "factsAdvanced": ["Große Industrieanlage im Norden Ghanas", "Liegt in der Savannah Region am Volta-See", "Nutzt lokale Kalksteinvorkommen", "Kostengünstiger Schiffstransport", "Senkte Baukosten im Norden dramatisch", "Wichtig für lokale Bauwirtschaft"]
+    },
+    {
+      "id": "ghana-ghacem-tema",
+      "descriptionAdvanced": "Das GHACEM-Werk in Tema, das 1967 vom ghanaischen Staat in Zusammenarbeit mit norwegischen Investoren gegründet wurde, ist der dominierende Zementhersteller des Landes. Importierter Klinker wird hier im Seehafen direkt entladen und mit lokalem Kalkstein zu Millionen Tonnen Zement gemahlen. Diese Fabrik war jahrzehntelang buchstäblich das Fundament für Ghanas Immobilien- und Infrastrukturboom, von Straßen bis hin zu Hochhäusern. Chemie K6 — Baustoffe und Zement.",
+      "factsAdvanced": ["Gegründet 1967 vom ghanaischen Staat", "Dominierender Zementhersteller des Landes", "Liegt direkt am Seehafen Tema", "Klinkerimport und lokaler Kalkstein", "Milliarden Tonnen Zement produziert", "Fundament des nationalen Baubooms"]
+    },
+    {
+      "id": "ghana-ghacem-takoradi",
+      "descriptionAdvanced": "Die Zementmühle in Takoradi ist das Schwesternwerk zur Fabrik in Tema und sichert die Baustoffversorgung für die boomende westliche Küstenregion Ghanas. Die strategische Platzierung am Hafen von Takoradi ermöglicht den reibungslosen Import von Klinker und Gips sowie den Export von fertigem Zement in benachbarte westafrikanische Länder. Das Werk profitierte stark vom jüngsten Ölboom in der Region, der einen beispiellosen Bauboom in und um Sekondi-Takoradi auslöste. Geografie K7 — Industriezentren.",
+      "factsAdvanced": ["Sichert Baustoffversorgung der Westküste", "Liegt direkt am Hafen von Takoradi", "Schwesternwerk der Anlage in Tema", "Exportiert Zement in Nachbarländer", "Profitierte stark vom regionalen Ölboom", "Importiert Klinker und Gips per Schiff"]
+    },
+    {
+      "id": "ghana-blue-skies",
+      "descriptionAdvanced": "Die Blue Skies Fabrik nahe Nsawam ist ein Pionierprojekt für agro-industrielle Entwicklung, das frische ghanaische Früchte — Ananas, Mango, Papaya — innerhalb von 48 Stunden nach der Ernte in europäische Supermärkte bringt. Anstatt rohe Früchte zu exportieren, werden sie direkt vor Ort geschnitten und verpackt, wodurch ein großer Teil der Wertschöpfung im Land bleibt. Die Fabrik kooperiert eng mit Hunderten lokaler Kleinbauern, die nach strengen globalen Nachhaltigkeitsstandards zertifiziert sind. Wirtschaft K8 — internationale Lieferketten.",
+      "factsAdvanced": ["Pionierprojekt für agro-industrielle Entwicklung", "Exportiert in 48 Stunden nach Europa", "Verpackt frische Früchte (Ananas, Mango) vor Ort", "Liegt nahe Nsawam", "Kooperiert mit Hunderten Kleinbauern", "Hält Wertschöpfung im Land"]
+    },
+    {
+      "id": "ghana-twifo-oil-palm",
+      "descriptionAdvanced": "Die Twifo Oil Palm Plantations (TOPP) in der Central Region ist eine der größten kommerziellen Palmölplantagen Westafrikas und erstreckt sich über Tausende Hektar. Die gigantische Plantage verfügt über eine eigene Raffinerie vor Ort, die aus den roten Palmfrüchten hochwertiges Speiseöl und Rohstoffe für die Seifenherstellung extrahiert. Das Unternehmen fungiert als wirtschaftlicher Motor der Region, steht jedoch oft im Zentrum von Debatten über den Verlust von natürlichem Regenwald zugunsten von Monokulturen. Umwelt K8 — Monokulturen und Ökosysteme.",
+      "factsAdvanced": ["Riesige kommerzielle Palmölplantage", "Erstreckt sich über Tausende Hektar", "Liegt in der Central Region", "Verfügt über eigene Öl-Raffinerie", "Produziert Speiseöl und Seifenrohstoffe", "Oft Kritik wegen Monokultur-Anbau"]
+    },
+    {
+      "id": "ghana-cargill-cocoa",
+      "descriptionAdvanced": "Die hochmoderne Cargill-Kakaofabrik in der Freihandelszone von Tema ist ein massiver Schritt Ghanas, seine wichtigste Exportfrucht vor Ort zu veredeln. Anstatt nur rohe Kakaobohnen zu exportieren, verarbeitet diese Milliarden-Dollar-Anlage die Bohnen zu Kakaomasse, -pulver und -butter für den Weltmarkt. Diese lokale Verarbeitung erhöht die Einnahmen des Landes erheblich und schafft hochqualifizierte technische Arbeitsplätze im Bereich der Lebensmitteltechnologie. Wirtschaft K7 — industrielle Verarbeitung.",
+      "factsAdvanced": ["Hochmoderne Kakaoverarbeitungsanlage", "Liegt in der Freihandelszone von Tema", "Milliarden-Dollar-Investition von Cargill", "Produziert Kakaomasse und -butter", "Erhöht nationale Wertschöpfung enorm", "Schafft technische Arbeitsplätze"]
+    },
+    {
+      "id": "ghana-cpc-cocoa",
+      "descriptionAdvanced": "Die staatliche Cocoa Processing Company (CPC) in Tema wurde 1965 von Präsident Kwame Nkrumah gegründet, um den Wert des ghanaischen Kakaos im eigenen Land zu maximieren. Die Anlage ist berühmt für die Herstellung der Golden Tree Schokolade, einer der wenigen hochwertigen Schokoladenmarken, die vollständig vom Anbau bis zur Tafel in Afrika produziert werden. Trotz starker internationaler Konkurrenz bleibt das Unternehmen ein nationaler Stolz und ein Symbol für wirtschaftliche Unabhängigkeit. Geschichte K6 — postkoloniale Wirtschaft.",
+      "factsAdvanced": ["Gegründet 1965 von Kwame Nkrumah", "Staatliches Kakaoverarbeitungsunternehmen", "Produziert die berühmte Golden Tree Schokolade", "Komplette Wertschöpfung in Afrika", "Symbol für wirtschaftliche Unabhängigkeit", "Liegt in Tema"]
+    },
+    {
+      "id": "ghana-atuabo-gas",
+      "descriptionAdvanced": "Die Gasverarbeitungsanlage in Atuabo in der Western Region markiert Ghanas Eintritt in die Ära der Erdgas-Unabhängigkeit. Die Anlage empfängt rohes Erdgas per Unterseepipeline aus den Offshore-Feldern und verarbeitet es zu trockenem Gas für die nationalen Kraftwerke sowie zu Flüssiggas (LPG) für Haushaltskocher. Der Bau dieses massiven Energieprojekts reduzierte die Abhängigkeit von teuren Ölimporten dramatisch und minderte die gefährlichen Stromausfälle (Dumsor), die das Land jahrelang plagten. Physik K8 — Energieträger.",
+      "factsAdvanced": ["Liegt in Atuabo in der Western Region", "Empfängt Offshore-Gas per Unterseepipeline", "Verarbeitet rohes Erdgas zu trockenem Gas", "Reduzierte Abhängigkeit von Ölimporten", "Produziert LPG für Haushaltskocher", "Beendete schwere nationale Stromausfälle"]
+    },
+    {
+      "id": "ghana-kantanka-auto",
+      "descriptionAdvanced": "Kantanka Automobile ist Ghanas erster und einziger heimischer Automobilhersteller, gegründet von dem Erfinder und Geistlichen Kwadwo Safo Kantanka. Die Fabrik in der Central Region montiert Geländewagen, Pick-ups und Limousinen, die oft mit innovativen, lokalen Features wie Bedienungsanleitungen in ghanaischen Sprachen ausgestattet sind. Obwohl das Unternehmen stark mit asiatischen Importen konkurriert, gilt es als leuchtendes Beispiel für afrikanische Ingenieurskunst und Erfindergeist. Technologie K7 — Maschinenbau in Afrika.",
+      "factsAdvanced": ["Erster heimischer Automobilhersteller Ghanas", "Gegründet von Erfinder Kwadwo Safo Kantanka", "Fabrik in der Central Region", "Montiert Geländewagen und Pick-ups", "Bietet Bedienungsanleitungen in lokalen Sprachen", "Konkurriert mit asiatischen Importen"]
+    }
+  ]
+}

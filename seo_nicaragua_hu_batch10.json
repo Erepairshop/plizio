@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "la-flor-wildlife-refuge-nature-v2",
+      "descriptionAdvanced": "A La Flor Vadvédelmi Terület (Refugio de Vida Silvestre La Flor) Rivas megye csendes-óceáni partvidékén, San Juan del Sur közelében található. Chacocente mellett ez a másik legfontosabb nicaraguai helyszín, ahol a veszélyeztetett olajzöld fattyúteknősök (paslamas) tömegesen, az 'arribadas' nevű szinkronizált jelenség keretében rakják le tojásaikat. A mintegy 3000 hektáros védett terület egy gyönyörű, félhold alakú, homokos öblöt és az azt övező trópusi száraz erdőt foglalja magában, ahol iguanák, bőgőmajmok és ritka trópusi madarak élnek. A teknősök fészkelési időszakában a parkot szigorúan őrzik a hadsereg és az önkéntesek. Földrajz K8 — tömeges teknősfészkelés és száraz trópusi erdők.",
+      "factsAdvanced": [
+        "Egyetlen 'arribada' alatt akár 100 000 teknős is kimehet a partra néhány nap leforgása alatt.",
+        "A fészkelési főszezon júliustól januárig tart.",
+        "Nicaragua azon 7 hely egyike a világon, ahol ez a tömeges teknős-jelenség megfigyelhető.",
+        "A tojásokból mintegy 45-50 nap elteltével kelnek ki a kisteknősök.",
+        "Az erdőben pókmajmok és különféle színpompás tukánok is élnek.",
+        "A helyi közösségek ökoturizmusból származó bevételei segítettek visszaszorítani a tojások orvvadászatát."
+      ]
+    },
+    {
+      "id": "gulf-of-fonseca-nicaragua-nature-v2",
+      "descriptionAdvanced": "A Fonseca-öböl (Golfo de Fonseca) egy hatalmas, sekély, természetes tengeri öböl a Csendes-óceán partján, amelyen három ország – Nicaragua, Honduras és El Salvador – osztozik. A nicaraguai partszakasz legmarkánsabb pontja a Cosigüina-félsziget. Az öböl egyedülálló ökológiai rendszer; partjait kiterjedt mangrovecserjések (például az Estero Real) szegélyezik, vulkanikus szigetei pedig menedéket nyújtanak a költöző madaraknak és tengeri teknősöknek. Történelmileg az öböl fontos kalóztanya volt, modern korunkban pedig a három ország közötti területi és halászati viták helyszíne, bár a gazdag rákászat és halászat miatt kulcsfontosságú a helyiek számára. Földrajz K8 — határon átnyúló öblök és mangrove-ökoszisztémák.",
+      "factsAdvanced": [
+        "A Fonseca-öböl vizét a történelem során gyakran nevezték 'Béke-öbölnek' a közös használati egyezmények miatt.",
+        "A spanyol felfedező, Gil González Dávila fedezte fel 1522-ben.",
+        "Nicaraguához tartozik az öböl partvonalának körülbelül 40%-a.",
+        "Vizei sekélyek, az átlagos mélység 15 méter alatt van, ami ideális a ráktenyésztéshez.",
+        "Az öböl bejáratát két vulkán, a nicaraguai Cosigüina és a salvadori Conchagua 'őrzi'.",
+        "Nagy mennyiségben élnek itt pelikánok, fregattmadarak és halászsasok."
+      ]
+    },
+    {
+      "id": "rio-tuma-nature-v2",
+      "descriptionAdvanced": "A Tuma-folyó Matagalpa és Jinotega megyék hegyvidékén ered, és az ország egyik legfontosabb, a Karib-tenger (pontosabban a Río Grande de Matagalpa) felé tartó vízfolyása. Történelmi és gazdasági jelentőségét az adja, hogy ez volt Nicaragua első nagy, mesterségesen felduzzasztott folyója az 1960-as években, aminek eredményeként létrejött az Apanás-tó és az ország energiaellátásának alapját képező Centroamérica vízerőmű. A hegyvidéki szakaszon a Tuma vad és zuhatagos, meredek kanyonokat vág a sziklákba, sűrű, kávéültetvényekkel és köderdőkkel övezett vidéken folyik át. Földrajz K7 — hegyvidéki vízgyűjtők és vízerőművek.",
+      "factsAdvanced": [
+        "A folyó a Peñas Blancas hegység közelében, több mint 1000 méteres magasságban ered.",
+        "A felduzzasztott vízenergia az ország tiszta energia termelésének kulcseleme.",
+        "A Tuma a Río Grande de Matagalpa legfőbb mellékfolyója.",
+        "Partjain olyan történelmi kávéfarmok működnek, mint a Selva Negra.",
+        "Sodrása rendkívül erős az esős évszakban, gyakran okozva földcsuszamlásokat a völgyekben.",
+        "A folyóban számos hegyi édesvízi halfaj és rák él."
+      ]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "descriptionAdvanced": "A Tisey-Estanzuela Természetvédelmi Terület Estelí városától délre fekszik egy magasan (1000-1400 méter) elterülő fennsíkon. A rezervátum elképesztő biológiai változatossággal büszkélkedhet: megtalálhatók itt fenyvesek (pinares), tölgyerdők és kisebb kiterjedésű köderdők is. A terület legismertebb látványossága az Estanzuela-vízesés, amely mintegy 40 méter magasból zuhan alá egy bazaltmedencébe. A rezervátum emellett otthont ad az El Jalacate nevű különleges sziklafalnak is, ahová egy helyi remete, Alberto Gutiérrez évtizedek alatt több száz bibliai és történelmi figurát faragott a kőzetbe, egyedülálló sziklaművészeti galériát hozva létre. Földrajz K8 — magaslati rezervátumok és sziklaművészet.",
+      "factsAdvanced": [
+        "A Tisey csúcs (1550 m) a hegyvidék egyik legmagasabb pontja, ahonnan a Momotombo vulkánig is ellátni.",
+        "A rezervátum területén több mint 100 különböző orchideafajt regisztráltak.",
+        "Alberto Gutiérrez, az 'El Ermitaño' (a remete), a 70-es évek óta faragja a sziklákat a dzsungelben.",
+        "Az Estanzuela-vízesés környéki sziklák egy ősi vulkáni kaldera maradványai.",
+        "A rezervátumban élő közösségek (La Garnacha) ökológiai farmokat és sajtkészítő műhelyeket üzemeltetnek.",
+        "A terület a nicaraguai 'Tierra Fría' (Hideg Föld) éghajlati zónába tartozik."
+      ]
+    },
+    {
+      "id": "rio-prinza-nature-v2",
+      "descriptionAdvanced": "A Prinzapolka-folyó (Río Prinzapolka) a Bányászati Háromszög hegyeiből (Siuna környékéről) indulva halad keleti irányba, és egy kiterjedt mangrovedeltán keresztül ömlik a Karib-tengerbe. Ez a 250 kilométer hosszú folyó egy klasszikus, trópusi dzsungelfolyó, amely a szárazföldi utak hiányában a régió – beleértve Alamikamba városát is – legfőbb közlekedési és kereskedelmi ütőere. A 19. és 20. században ezen a folyón szállították a kitermelt mahagónit és aranyat az óceán felé. A folyó mentén élő miszkító és mayangna közösségek megélhetése teljesen a vízhez kötött, gyakran építik házaikat cölöpökre a gyakori trópusi áradások miatt. Földrajz K7 — dzsungelfolyók és őslakos logisztika.",
+      "factsAdvanced": [
+        "A folyó teljes hossza mintegy 254 kilométer, vízgyűjtő medencéje hatalmas (több mint 11 000 km²).",
+        "A torkolatvidéke sűrű mangrovecserjés, tele amerikai krokodilokkal és lamantinokkal.",
+        "A torkolatnál lévő Prinzapolka városa a 20. század elején fontos arany-exportőr kikötő volt.",
+        "A hajózás (pangas és pipantes) az egyetlen megbízható közlekedési mód a folyó mentén.",
+        "1998-ban a Mitch hurrikán pusztító iszapáradatot zúdított a folyó völgyébe.",
+        "Vize gyakran iszapos és barna a bányászat és a hegyi erózió miatt."
+      ]
+    },
+    {
+      "id": "miskito-cays-nature-v2",
+      "descriptionAdvanced": "A Miskito Cays (Cayos Miskitos) egy izolált, mintegy 130 apró, mangrove-borította szigetből és korallzátonyból álló szigetcsoport a Karib-tengeren, több tíz kilométerre Nicaragua északkeleti partjaitól. Ez a sekély (gyakran csak pár méter mély) vízterület a zöld teknősök (Chelonia mydas) világ egyik legfontosabb tengerifű-legelője és a karibi lamantinok menedéke. A szigeteknek nincs állandó, szárazföldi lakossága; a miszkító halászok víz feletti cölöpházakban élnek itt a halászati szezon (homár, teknős) alatt. 1991-ben a területet hivatalosan is Biológiai Rezervátummá nyilvánították az egyedülálló, érintetlen tengeri ökoszisztéma védelme érdekében. Földrajz K8 — tengerifű-mezők és cölöpházas halászat.",
+      "factsAdvanced": [
+        "A terület a Nyugati-félteke egyik legnagyobb tengerifű (sea grass) mezőjét foglalja magában.",
+        "A zöld teknős vadászata történelmileg a miszkító kultúra része, bár ma szigorúan kvótákhoz kötött.",
+        "17-18. századi kalózok (köztük Henry Morgan) gyakran használták búvóhelyként a zátonyokat.",
+        "A szigetek többsége csak alacsony mangrovecserjékből áll, amelyek dagálykor nagyrészt víz alá kerülnek.",
+        "Az 1990-es években a dinamitos halászat komoly károkat okozott, amit azóta betiltottak.",
+        "A 2007-es Felix hurrikán szinte az összes cölöpházat megsemmisítette a zátonyokon."
+      ]
+    },
+    {
+      "id": "rio-grande-de-matagalpa-nature-v2",
+      "descriptionAdvanced": "A Río Grande de Matagalpa Nicaragua második leghosszabb (Nicaraguában teljes egészében futó) folyója a Coco-folyó után. A kávétermő központi hegységben, Matagalpa városa felett ered apró hegyi patakként, majd több mint 450 kilométert tesz meg a trópusi dzsungeleken keresztül, míg Karawala mellett beleömlik a Karib-tengerbe. Ahogy a folyó leereszkedik a hegyekből, magába gyűjti a Tuma és a Murra folyókat, széles, sáros víztömeggé duzzadva. Alsó folyásánál a Río Grande az egyetlen kapcsolat a külvilággal a dzsungelben élő őslakos közösségek (ulwas és miszkítók) számára. Földrajz K8 — folyórendszerek kiterjedése és az Amazonas-jellegű dzsungelek.",
+      "factsAdvanced": [
+        "Teljes hossza 465 kilométer, vízgyűjtő területe pedig lefedi Nicaragua középső részének nagy részét.",
+        "A folyót egykor az őslakosok 'Ucumulali'-nak nevezték.",
+        "A Tuma-folyóval való összefolyás után válik mély és hajózható trópusi folyamá.",
+        "Felső szakaszán (Sébaco-völgy) kritikus fontosságú az öntözéses mezőgazdaság számára.",
+        "Alsó szakaszain sűrű esőerdők szegélyezik, melyekben jaguárok és hárpiák élnek.",
+        "Torkolata (Desembocadura de Río Grande) egy elzárt, autonóm őslakos terület."
+      ]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "descriptionAdvanced": "A Zapatera-sziget (Isla Zapatera) a Nicaragua-tó (Cocibolca) második legnagyobb szigete Ometepe után. Valójában egy 600 méter magas, sűrű trópusi erdővel borított, kihalt pajzsvulkán. Míg Ometepe sűrűn lakott, Zapatera nagyrészt lakatlan, titokzatos és vad. A sziget a történelem során a chorotega indiánok szent temetkezési és vallási központja volt, ahol a híres bazaltból faragott (alter-ego) istenszobrokat és számtalan sziklarajzot találtak. A szigetet és a körülötte lévő apró szigetcsoportot Nemzeti Parkká nyilvánították, amely buja növényzetével majmok, ritka papagájok és csónakcsőrű gémek érintetlen menedéke. Földrajz K7 — pajzsvulkánok a tavakban és régészeti parkok.",
+      "factsAdvanced": [
+        "A Zapatera pajzsvulkán kora ellenére még láthatók kisebb vulkáni kúpok a szigeten.",
+        "A sziget neve a spanyol 'zapatero' (cipész) szóból ered, a sziget állítólagos cipő-formája miatt.",
+        "A sziget körül több tucat apró sziget (isletas) található, amelyeket a vulkán omlása hozott létre.",
+        "A prekolumbián bazaltszobrok nagy részét a 19. század végén Managuába és Granadába vitték.",
+        "A sziget belseje nehezen megközelíthető a sűrű aljnövényzet és az utak hiánya miatt.",
+        "Élővilágában a bőgőmajmok (monos aulladores) a leginkább feltűnőek."
+      ]
+    },
+    {
+      "id": "laguna-de-perlas-nature-v2",
+      "descriptionAdvanced": "A Gyöngy-lagúna (Laguna de Perlas / Pearl Lagoon) egy hatalmas, sekély, sós vizű öböl (esztuárium) a Karib-tenger partján, Dél-Nicaraguában. Kiterjedt mangroveligetei, a Karib-tengerrel való folytonos vízcseréje és az ide torkolló édesvízi folyók miatt ez a térség a tengeri és édesvízi faunák lenyűgöző találkozási pontja. A lagúna az ország legfontosabb garnélarák- és halászati területe. Partjain színes, angol kreol és miszkító etnikumú közösségek (mint Pearl Lagoon városa vagy Orinoco) élnek, akik teljes mértékben a lagúna vizétől függenek. A lagúna nyugalma éles ellentétben áll a Karib-tenger viharos nyílt vizeivel. Földrajz K7 — sós vizű lagúnák és kreol kultúrák.",
+      "factsAdvanced": [
+        "A lagúna területe meghaladja a 500 négyzetkilométert, de mélysége átlagosan csak 2-4 méter.",
+        "A 18. században kalózok (köztük Feketeszakáll) búvóhelye volt az angol protektorátus alatt.",
+        "A vizében élnek a veszélyeztetett karibi lamantinok (tengeri tehenek).",
+        "A part menti falvakat csak a közelmúltban, az elmúlt évtizedben kötötték össze szárazföldi utakkal.",
+        "A lagúna neve a 16. századi spanyol felfedezők idejéből származik, akik gyöngyöket kerestek (bár ma már nem jellemző).",
+        "Minden évben hagyományos vitorlás csónak (panga) versenyeket tartanak a lagúnán."
+      ]
+    },
+    {
+      "id": "telica-volcano-nature-v2",
+      "descriptionAdvanced": "A Telica vulkán (Volcán Telica) León megyében a Maribios vulkáni hegylánc egyik legaktívabb és leglátványosabb tagja. A 1061 méter magas hegy tetején egy hatalmas, dupla kráter található, amely szinte folyamatosan ontja magából a gőz- és kéngázokat (fumarolák). Különlegessége, hogy a sötétedés beálltával a kráter pereméről letekintve tiszta éjszakákon megpillantható a mélyben izzó magma fénye. Az állandó aktivitás és az időszakos, kisebb hamukitörések miatt a vulkán lejtői kopárak, a sziklák vöröses és sárgás (kén) színben pompáznak. A csúcsra való éjszakai túrázás a kalandturisták egyik kedvenc programja. Földrajz K8 — aktív vulkánok és magma megfigyelés.",
+      "factsAdvanced": [
+        "A vulkán kettős kráterének átmérője eléri a 700 métert.",
+        "1527 óta több mint tucatnyi jelentős kitörését jegyezték fel a krónikákban.",
+        "A legutóbbi nagyobb hamukilövellések (robbantásos kitörések) 2015-ben és 2021-ben történtek.",
+        "A vulkán lábánál fekszenek a San Jacinto forró iszapmedencéi, amelyeket a hegy magmája melegít.",
+        "A túra a csúcsra általában San Jacinto falu mellől, sűrű cserjésen keresztül indul.",
+        "Az állandó kén-dioxid gázok miatt a kráter peremén a légzés nehézkessé válhat."
+      ]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "descriptionAdvanced": "A San Lorenzo-i köderdő (Bosque Nuboso de San Lorenzo) Boaco és Matagalpa megye határán, a Cordillera Chontaleña és a Macizos de Peñas Blancas hegyeinek egy magaslati szakaszán található, kevéssé ismert, de lenyűgöző ökológiai zóna. Ezek a magasan fekvő (1200 méter feletti) erdők szinte állandóan felhőkbe és ködbe burkolóznak, amelyet a Karib-tenger felől érkező páradús szelek hoznak létre. Ennek eredményeként az erdő folyamatosan 'csepeg', a fákat vastag moha-, orchidea- és bromélia-takaró borítja. A terület kritikus fontosságú a vízgyűjtés szempontjából, és számos ritka rovarnak és madárnak (köztük a kvézálnak) biztosít menedéket. Földrajz K8 — köderdők klimatológiája és vízmegtartás.",
+      "factsAdvanced": [
+        "A fák a köd lecsapódása (occult precipitation) révén a szükséges vízmennyiség jelentős részét a levegőből nyerik.",
+        "A San Lorenzo-i erdőkben található több patak és vízesés is sosem szárad ki.",
+        "A köderdők kiterjedését egyre inkább fenyegeti a klímaváltozás és a felmelegedés (a felhőszint emelkedése).",
+        "Itt találhatók Közép-Amerika legnagyobb páfrányfái (helechos arborescentes), melyek dinoszaurusz-kori reliktumok.",
+        "A területen gyakori a fákra tapadó, apró epifita orchideák virágzása.",
+        "Az erdőt nagyrészt nehéz megközelíteni a meredek, sárga agyagos utak miatt."
+      ]
+    },
+    {
+      "id": "little-corn-island-nature-v2",
+      "descriptionAdvanced": "Little Corn Island (Kis Kukorica-sziget) a Karib-tenger egyik rejtett, autómentes ékköve, amely a nagyobb szigettől (Big Corn Island) mindössze félórás motorcsónak-útra fekszik. A szigeten nincsenek aszfaltozott utak, nincsenek motoros járművek; az élet gyalogos ösvényeken (senderos) és trópusi pálmafák alatt zajlik. A mindössze 3 négyzetkilométeres területet ragyogó, fehér homokos partok és egy rendkívül egészséges korallzátony (reef) veszi körül, amely kiváló búvárkodási (scuba és snorkeling) lehetőségeket nyújt, cápákkal, rájákkal és színes trópusi halakkal. A sziget angol-kreol hangulata teljes karibi kikapcsolódást nyújt. Földrajz K7 — autómentes szigetek és korallzátonyok.",
+      "factsAdvanced": [
+        "A szigeten nincsenek autók vagy robogók; minden árut kézikocsikon szállítanak.",
+        "A sziget egészét egyetlen sétával, alig egy óra alatt körbe lehet járni.",
+        "Áramszolgáltatás sokáig csak napi néhány órában volt, generátorokkal.",
+        "A part menti zátony (barrier reef) védi a szigetet a heves karibi hullámoktól.",
+        "A szigeten jelentős rákászat (languszta) folyik a helyi közösségek részéről.",
+        "2018 előtt a szigeten a hurrikánok viszonylag ritkák voltak, de egyre gyakoribbá válnak."
+      ]
+    },
+    {
+      "id": "cosiguina-lagoon-nature-v2",
+      "descriptionAdvanced": "A Cosigüina-lagúna (Laguna del Volcán Cosigüina) egy látványos, mélykék-smaragdzöld krátertó, amely a Cosigüina-vulkán beszakadt kalderájának mélyén, mintegy 500 méterrel a perem alatt rejtőzik a Fonseca-öböl félszigetén. A tó az 1835-ös apokaliptikus vulkánkitörés nyomán keletkezett mélyedésben gyűlt össze az esővízből. A lagúnát szinte függőleges, több száz méter magas bazalt sziklafalak veszik körül, ami miatt a vízfelület gyalogosan megközelíthetetlen. A kráter pereméről (ahova egy meredek túra vezet) letekintve a tó érintetlen, vad szépsége és a három szomszédos ország (Honduras, El Salvador, Nicaragua) panorámája páratlan látványt nyújt. Földrajz K8 — vulkáni kalderák és nehezen megközelíthető tavak.",
+      "factsAdvanced": [
+        "A krátertó átmérője hozzávetőlegesen 1,5 kilométer.",
+        "Mivel nincs lefolyása, és mélyen a hegyben van, a víz enyhén savas és ásványi anyagokban gazdag.",
+        "A tó vize a benne élő ásványi anyagok és algák miatt kapja a jellegzetes zöldes-kék színt.",
+        "Az 1835-ös robbanás olyannyira masszív volt, hogy egy ideig a napot is elsötétítette Közép-Amerikában.",
+        "A kráter belső sziklafalain gyakran fészkelnek trópusi vándorsólymok és ara papagájok.",
+        "A tó vizének hőmérsékletét a mélyben található hidrotermális források tartják egyenletesen melegen."
+      ]
+    },
+    {
+      "id": "estero-real-nature-v2",
+      "descriptionAdvanced": "Az Estero Real (Királyi Torkolat) egy óriási, szövevényes mangrove-ökoszisztéma (esztuárium) Chinandega megyében, amely a Fonseca-öbölbe torkollik. Ez Közép-Amerika egyik legkiterjedtebb vizes élőhelye (több mint 40 000 hektár), és Ramsari területként nemzetközi jelentőségű. Az Estero Real sós és édesvíz keveredéséből álló lagúnái és csatornái tökéletes bölcsődét biztosítanak a tengeri halaknak, a Csendes-óceáni rákoknak (camarones) és kagylóknak. A vörös és fekete mangrovefák (mangles) sűrű gyökérzete áthatolhatatlan dzsungelt alkot, amely véd a part menti erózió ellen, miközben gémek, pelikánok és krokodilok ezreinek ad otthont. Földrajz K7 — esztuáriumok és mangrove-védelem.",
+      "factsAdvanced": [
+        "Az Estero Real az egyik legfontosabb fészkelő- és pihenőhelye a vonuló vízimadaraknak Észak- és Dél-Amerika között.",
+        "A régióban a 90-es évektől robbanásszerűen megnőtt a mesterséges ráktenyésztés (camaroneras), ami komolyan veszélyezteti a mangrovékat.",
+        "Az esztuárium egy hatalmas tektonikus süllyedékben alakult ki a vulkáni hegylánc és a tenger között.",
+        "A víz szintje az árapály hatására naponta drasztikusan változik a csatornákban.",
+        "Történelmileg ez az útvonal kötötte össze a szárazföldi Chinandegát a tengerrel Puerto Morazánnál.",
+        "Az itt növő vörös mangrove (Rhizophora mangle) gyökerei a tengeri só kiszűrésére specializálódtak."
+      ]
+    },
+    {
+      "id": "rio-bocay-nature-v2",
+      "descriptionAdvanced": "A Bocay-folyó (Río Bocay) egy lenyűgöző és elszigetelt dzsungelfolyó, amely Jinotega megye sűrű, hegyvidéki esőerdeiben (a Bosawás Bioszféra Rezervátumban) folyik, mielőtt a Coco-folyóba ömlene a hondurasi határnál. A Bocay völgye az őslakos mayangna és miszkító indiánok érintetlen őshazája. A folyót hatalmas mahagónifák, köderdők és meredek hegyoldalak szegélyezik, vizét tiszta hegyi patakok táplálják. Mivel aszfaltozott utak errefelé nincsenek, a folyó – bár tele van veszélyes zúgókkal (raudales) – a közlekedés egyetlen módja fatörzsből vájt kenukkal (pipantes). Földrajz K8 — esőerdei vízgyűjtők és bioszféra rezervátumok.",
+      "factsAdvanced": [
+        "A Bocay-folyó a Bosawás (Közép-Amerika legnagyobb esőerdeje) nyugati határát képezi.",
+        "Az Ayapal falu a folyó egyik legfontosabb települése, ami a 'civilizáció' utolsó határa a dzsungel előtt.",
+        "A folyóban számos endemikus halfaj és a híres 'zöld iguána' (iguana verde) is él.",
+        "A nyolcvanas évek kontraháborúja alatt a folyó völgye az egyik legveszélyesebb hadműveleti terület volt.",
+        "A mayangna őslakosok számára a folyó szent; ők irányítják az itt folyó fakitermelést és vadászatot.",
+        "A heves esőzések (hurrikánok) idején a folyó szintje órák alatt métereket emelkedhet."
+      ]
+    },
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "descriptionAdvanced": "Az El Arenal-hegy Természeti Rezervátum (Cerro El Arenal) Matagalpa városa felett magasodik, a központi hegylánc sűrűn erdősített részén. A területet a buja, örökzöld köderdők (bosque nuboso) jellemzik, melyek több mint 1400 méteres magasságban húzódnak. Az erdőt broméliák, orchideák és sűrű páfrányok borítják, fái pedig szinte állandóan felhőben úsznak. Az El Arenal híres kávétermelő övezet (az árnyékban termesztett 'shade-grown' arabica kávé itt a legkiválóbb), de ami még fontosabb, rengeteg hegyi patak forrásvidéke, amely Matagalpa vízellátását is biztosítja. Gyakran látogatják a madarászok a ritka trópusi fajok miatt. Földrajz K6 — köderdők biodiverzitása és forrásvidékek.",
+      "factsAdvanced": [
+        "A hegy neve ('homokos') egykori helyi vulkáni hamu lerakódásokra vagy homokos bányákra utal.",
+        "A rezervátumban található a világ egyik legritkább békafaja, amely az esőerdei broméliák kelyhében él.",
+        "A területen található az őslakosok által is használt, kanyargós 'La Macarena' hegyi ösvény.",
+        "A köderdő 'szivacsként' működik: a ködből kicsapódó vizet a mohák felfogják és lassan adagolják a talajba.",
+        "Több helyi eco-lodge épült a rezervátum határában, amely fenntartható turizmust kínál.",
+        "A kvézál madár (quetzal) fészkelési időszakban gyakran megfigyelhető a hegy magasabb pontjain."
+      ]
+    },
+    {
+      "id": "saslaya-national-park-nature-v2",
+      "descriptionAdvanced": "A Saslaya Nemzeti Park (Parque Nacional Saslaya) a Bosawás Bioszféra Rezervátum szigorúan védett, érintetlen központi magja (nucleo). A park a Saslaya-hegység (Cordillera Saslaya) 1600 méternél is magasabbra nyúló sziklás, dzsungellel benőtt csúcsait foglalja magában az Észak-Karib-tengeri Autonóm Régióban. Ez Nicaragua egyik legkevésbé feltérképezett, legvadabb területe, ahová sem utak, sem kiépített ösvények nem vezetnek. Az egyenlítői esőerdő otthont ad jaguároknak, ocelotoknak, pumáknak, hárpiáknak és az ország legveszélyesebb kígyóinak. A parkba való belépés komoly expedíciót igényel mayangna vezetőt (guía) bevonva a Bocay vagy a Waspuk folyón keresztül. Földrajz K8 — érintetlen esőerdők és bioszféra rezervátumok magterületei.",
+      "factsAdvanced": [
+        "A Saslaya volt Nicaragua egyik legelső nemzeti parkja, melyet 1971-ben hoztak létre.",
+        "A terület kiterjedése több mint 630 négyzetkilométer primer (érintetlen) dzsungel.",
+        "A Saslaya csúcs (1650 m) a Karib-térség legmagasabb pontja Nicaraguában.",
+        "A park területe az UNESCO által is elismert Bosawás Bioszféra Rezervátum legvédettebb része.",
+        "Az éves csapadékmennyiség itt gyakran meghaladja az 5000 mm-t, így szinte lehetetlen tűzet rakni a dzsungelben.",
+        "A helyi mayangna törzsek hitvilágában a Saslaya csúcsai a szellemek lakhelyei."
+      ]
+    },
+    {
+      "id": "caribbean-sea-nicaragua-nature-v2",
+      "descriptionAdvanced": "A Karib-tenger nicaraguai szakasza (Mar Caribe) az ország keleti partvidékét mossa több mint 500 kilométer hosszan. Ez a terület teljesen különbözik a csendes-óceáni oldaltól: sekélyebb (platform tenger), melegebb, és szinte folyamatosan a passzátszelek (trade winds) hatása alatt áll. A tenger rendkívül gazdag korallzátonyokban (mint a Miskito Cays vagy a Pearl Cays), tengerifű-mezőkben és olyan értékes fajokban, mint a zöld teknős és a karibi languszta. A Karib-tenger partvidéke sűrű mangrovékkal és lagúnákkal tagolt, és az ország trópusi hurrikánjainak fő érkezési kapuja, amely formálja a helyi kreol és miszkító kultúra életét. Földrajz K7 — trópusi tengerek és korall ökoszisztémák.",
+      "factsAdvanced": [
+        "A nicaraguai karibi partvidék kontinentális talapzata (platform) a legszélesebb Közép-Amerikában (akár 200 km).",
+        "A sötét, iszapos folyótorkolatok (pl. San Juan) miatt a part menti vizek kevésbé tiszták, mint a szigeteknél.",
+        "A tenger hőmérséklete szinte soha nem csökken 27 °C alá.",
+        "A 20. század végéig Kolumbia és Nicaragua területi vitákat folytatott a karibi tengeri határokról (melyet Hága döntött el).",
+        "Az angol kalózok (buccaneers) évszázadokig rejtekhelyként használták ezt a szigetekkel teli partvidéket.",
+        "A hurrikánok (mint a Joan 1988-ban vagy a Felix 2007-ben) pusztító vihardagályokat okoznak ezen a szakaszon."
+      ]
+    },
+    {
+      "id": "pacific-ocean-nicaragua-nature-v2",
+      "descriptionAdvanced": "Nicaragua Csendes-óceáni partvidéke (Océano Pacífico) az ország nyugati felét határolja egy egyenesebb, több mint 300 kilométer hosszú szakaszon a Fonseca-öböltől a Costa Rica-i határig. Ezt a partvidéket a meredek sziklák, sötét, vulkanikus homokú strandok és a nyílt óceán felől érkező hatalmas, erőteljes hullámok (swell) jellemzik, amelyek a világ minden tájáról vonzzák a szörfösöket (mint San Juan del Sur és Popoyo). A víz hűvösebb és mélyebb, mint a Karib-tenger, a kontinentális talapzat (platform) keskeny, ami gyors árapályt eredményez. A part menti vizek gazdagok makrélában, marlinban és tengeri teknősökben. Földrajz K7 — óceáni áramlatok és szörf-turizmus.",
+      "factsAdvanced": [
+        "A Papagayo-szelek (erős keleti szelek) télen fújnak a Csendes-óceán felé, tökéletes hullámokat képezve a szörfösöknek.",
+        "A part menti mély óceáni árkok miatt ez a régió szeizmikusan nagyon aktív (szubdukciós zóna).",
+        "Nicaragua legnépesebb és gazdaságilag legfejlettebb régiója a Csendes-óceáni partszakasz mögötti síkság.",
+        "Az árapály különbség (dagály és apály) elérheti a 2-3 métert is ezen a parton.",
+        "Számos strand, mint a Playa La Flor, a tengeri teknősök millióinak költőhelye.",
+        "Az itteni strandok homokja sötétszürke vagy fekete a Maribios hegység vulkáni hamuja miatt."
+      ]
+    },
+    {
+      "id": "cerro-negro-forest-nature-v2",
+      "descriptionAdvanced": "A Cerro Negro körüli erdő és szavanna León megyében egy rendkívül zord, mégis lenyűgöző természeti képződmény. A Közép-Amerika legfiatalabb (1850-ben született) vulkánja körül elterülő vidéket folyamatosan vastag fekete vulkáni hamu (arena negra) borítja az ismétlődő kitörések miatt. Ebben az extrém, sivatag-szerű ('holdbéli') környezetben csak a legszívósabb szárazságtűrő cserjék és fűfélék képesek megélni a lejtők alján. Az erdő ezen a ponton az élet folyamatos újraindulását (primer szukcesszió) szimbolizálja a katasztrofális vulkáni pusztítás után. Földrajz K8 — primer szukcesszió és vulkáni hamu.",
+      "factsAdvanced": [
+        "A Cerro Negro az elmúlt 170 évben több mint 20 alkalommal tört ki, vastag hamuval borítva a vidéket.",
+        "A vulkán fekete lejtőin ('volcano boarding') lecsúszó turisták ezt az egyedi holdbéli tájat csodálhatják meg.",
+        "A növényzet kizárólag a vulkán tövében lévő völgyekben él túl, ahol a víz felhalmozódik.",
+        "A forró fekete hamu miatt a talajhőmérséklet a nyári napsütésben elérheti a 60 °C-ot is.",
+        "A pionír növények (pl. bizonyos fűfélék és zuzmók) lassan elkezdik megkötni a fekete port a hegy lábánál.",
+        "A terület a Maribios hegylánc része, amely Nicaragua legaktívabb vulkáni övezete."
+      ]
+    },
+    {
+      "id": "laguna-nejapa-nature-v2",
+      "descriptionAdvanced": "A Nejapa-lagúna (Laguna de Nejapa) egy szinte teljesen kiszáradt, sötét iszapú krátertó Managua délnyugati peremén, közvetlenül a főváros mellett. Az asososca- és a Tiscapa-tavakkal ellentétben a Nejapa az elmúlt évtizedek aszályai és a klímaváltozás miatt drasztikusan elvesztette vízszintjét. A tó sekély vize erősen kénes és sós, egykor a helyiek gyógyászati célokra ('iszapfürdő') használták a sötét, ásványi anyagokban gazdag sarat. Ma a kráter peremén kanyargó Carretera Sur (Déli főút) alatt tátongó mélyedés szomorú figyelmeztetés a természeti erőforrások kimerülésére. Földrajz K7 — krátertavak kiszáradása és városi klímaváltozás.",
+      "factsAdvanced": [
+        "A kráter 160 méter mély, de a tó vízszintje ma már gyakran alig éri el a néhány métert.",
+        "A Nejapa név a navatl nyelvből származik, jelentése 'kőrises víz' vagy 'hamus víz'.",
+        "Az aszályos években (mint a 2010-es évek El Niño jelenségei alatt) a tó többször teljesen kiszáradt.",
+        "Az 1950-es években még csónakversenyeket és fürdőzéseket rendeztek a lagúnában.",
+        "A kráter falai rendkívül meredekek, omlásveszélyesek, és ritkás növényzet borítja őket.",
+        "A tó vizének eltűnése részben a managuai lakosság vízkivételének (talajvíz-csökkenés) is betudható."
+      ]
+    },
+    {
+      "id": "rio-wawa-nature-v2",
+      "descriptionAdvanced": "A Wawa-folyó (Río Wawa) egy kanyargós, sötét vizű dzsungelfolyó az Észak-Karib-tengeri Autonóm Régióban (RACCN). A folyó Puerto Cabezas (Bilwi) városától északra ömlik a Karib-tengerbe (egy nagy lagúnán, a Laguna de Karatá-n keresztül). A Wawa rendkívül fontos közlekedési akadály: mivel nincs híd, az ország belsejéből Puerto Cabezas felé tartó teherautókat és buszokat egy öreg, motoros uszályon (ponton) kell átkelniük ('Paso del Wawa'). A folyó áradásai (hurrikánok idején) gyakran hetekre elvágják Bilwit a külvilágtól. Partjait őslakos miszkító közösségek lakják. Földrajz K7 — infrastrukturális akadályok és esőerdei logisztika.",
+      "factsAdvanced": [
+        "A folyó teljes hossza megközelítőleg 160 kilométer.",
+        "A folyó torkolata ('Bocana') a Laguna de Karatá nevű sós-édesvizű mocsárba vezet.",
+        "A 'Paso del Wawa' kompjárat gyakran órákig tartó sorban állást jelent a teherautóknak.",
+        "A folyó vizének sötét (gyakran fekete) színét az esőerdő bomló szerves anyagaiból kioldódó tanninok okozzák.",
+        "Az esős évszakban a folyó szélessége a duplájára nőhet, lehetetlenné téve a komp közlekedését.",
+        "Egy modern híd építése a Wawa folyón 2021-ben kezdődött meg a régió elszigeteltségének feloldására."
+      ]
+    },
+    {
+      "id": "cordillera-chontale-relief-v2",
+      "descriptionAdvanced": "A Chontaleña-hegység (Cordillera Chontaleña) Nicaragua középső részén, Chontales és Boaco megyéken húzódik keresztül, mint egy zöld, dombos gerinc. A hegység nem vulkanikus, hanem idősebb geológiai gyűrődésekből származik, lankái és völgyei rendkívül termékenyek. Ez a hegység alkotja vízválasztót a Karib-tenger felé tartó folyók (Siquia, Mico) és a Nicaragua-tó (Cocibolca) felé tartó rövidebb vízfolyások között. A tájat kiterjedt szarvasmarha-legelők, hegyi haciendák, és ritkás, sziklás (bazalt) kitüremkedések, mint a Piedra de Cuapa jellemzik. A hűvös, dombos vidék Nicaragua tejiparának szíve. Földrajz K7 — vízválasztó hegységek és dombvidéki állattartás.",
+      "factsAdvanced": [
+        "A hegység legmagasabb csúcsai alig haladják meg az 1200 métert (mint a Cerro Cumaica).",
+        "Több ősi aranybányász település (La Libertad, Santo Domingo) is a hegység keleti, esősebb oldalán fekszik.",
+        "A domborzat lágy, lekerekített formái ideálisak az extenzív legeltetésre.",
+        "A hegylánc egyfajta klímaválasztó: nyugati oldala szárazabb, míg a karibi oldal (kelet) rendkívül csapadékos.",
+        "A hegyoldalakon az erózió és az erdőirtás komoly problémát jelent a legelők terjeszkedése miatt.",
+        "A régiót gyakran illetik a nicaraguai 'vadnyugat' ('far west') jelzővel a cowboy (sabanero) kultúra miatt."
+      ]
+    },
+    {
+      "id": "cerro-saslaya-relief-v2",
+      "descriptionAdvanced": "A Saslaya-hegy (Cerro Saslaya) a Bosawás Bioszféra Rezervátum mélyén, az Isabelia és a Dariense hegyláncok (Cordillera) találkozásánál emelkedik. Az 1650 méter (más források szerint 1656 m) magas sziklás csúcs Észak-Nicaragua leginkább érintetlen és legnehezebben megközelíthető hegye. Az egyenlítői klímában a hegycsúcsot állandó felhőréteg és áthatolhatatlan köderdő borítja. Geológiailag a Saslaya ősi, kemény kőzetekből (gránit, kvarc) álló masszívum, amely nem vulkanikus eredetű. Szürreális, csipkézett gerincei és izoláltsága miatt ez a hegy a nicaraguai vadvilág (jaguárok, pumák, hárpiák) végső menedéke. Földrajz K8 — izolált hegységek és bioszféra rezervátumok.",
+      "factsAdvanced": [
+        "A hegy a Saslaya Nemzeti Park (1971-ben alapított) névadója és központja.",
+        "A csúcs megmászása napokig tartó machetés dzsungeltúrát igényel, kiépített ösvények nincsenek.",
+        "Ez a legmagasabb pont az ország Karib-tengeri vízgyűjtő medencéjében.",
+        "A mayangna és miszkító őslakosok szent helyként, a dzsungel szellemeinek ('Dawan') lakhelyeként tisztelik.",
+        "Az esőzések ezen a hegyen olyan hevesek, hogy gyakran okoznak hatalmas, természetes földcsuszamlásokat a lejtőkön.",
+        "Két nagy folyó, a Waspuk és a Bocay forrásvidéke is ezen a masszívumon található."
+      ]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "descriptionAdvanced": "A Los Pueblos-fennsík (Meseta de los Pueblos vagy Carazo-fennsík) egy enyhén emelkedő, vulkáni hamuból és tufából álló magasan fekvő síkság Managuától délre, Masaya és Carazo megyékben. Ez a 400-600 méter magas, hűvös klímájú (22-26 °C) földrajzi képződmény a Csendes-óceáni síkság és a Nicaragua-tó medencéje között terül el. A termékeny vulkáni talajnak (andozol) és az enyhe hőmérsékletnek köszönhetően a fennsík történelmileg a minőségi kávétermesztés, a virágok és a citrusfélék központja. A fennsíkon apró, történelmi őslakos (chorotega) falvak – a 'Fehér Falvak' (Pueblos Blancos) – sorakoznak, melyek megőrizték gyarmati bájukat és kézműves hagyományaikat. Földrajz K6 — vulkáni fennsíkok és agrár-kultúra.",
+      "factsAdvanced": [
+        "A fennsíkot a Masaya és a Mombacho vulkánok ősi kitörései hozták létre vulkáni hamu (toba) lerakódásával.",
+        "A hűvös mikroklíma miatt a 19. században ez volt a nicaraguai kávé-boom eredeti központja.",
+        "Olyan híres kézműves falvak találhatók rajta, mint Catarina, San Juan de Oriente és Masatepe.",
+        "A fennsíkról meredek sziklafalak (escarpments) ereszkednek le a Csendes-óceán (Casares, La Boquita) irányába.",
+        "A csapadék nagy része könnyen átszivárog a porózus vulkáni kőzeten, kevés a felszíni folyó.",
+        "A terület a Managuában dolgozó ingázók és nyugdíjasok népszerű lakóhelye a tiszta levegő miatt."
+      ]
+    }
+  ]
+}

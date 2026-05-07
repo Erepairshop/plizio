@@ -1,0 +1,255 @@
+{
+  "lang": "ro",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "anchorage-cities-v2",
+      "descriptionAdvanced": "Anchorage, situat în zona central-sudică a statului Alaska, pe țărmurile golfului Cook Inlet, este de departe cea mai populată așezare din stat, adăpostind aproape 40% din întreaga populație a Alaskăi. Spre deosebire de alte orașe alaskane născute din febra aurului sau industria pescuitului, Anchorage a fost fondat în 1914 ca un hub logistic și sediu pentru Calea Ferată din Alaska. Cutremurul din Vinerea Mare din 1964 (cu magnitudinea de 9,2) a devastat centrul orașului, dar reconstrucția ulterioară a dus la o modernizare masivă. În prezent, aeroportul internațional din oraș este unul dintre cele mai tranzitate hub-uri cargo din lume, conectând zboruri de pe axa polară între Asia, America de Nord și Europa. Este înconjurat de munții impunători Chugach și este renumit pentru viața sălbatică (elani și urși) care se aventurează frecvent pe străzile orașului. Geografie K7 — adaptarea urbană la un climat subarctic.",
+      "factsAdvanced": [
+        "A fost înființat în 1914 ca sediu central pentru Calea Ferată din Alaska.",
+        "Un cutremur devastator cu magnitudinea de 9,2 a lovit orașul în anul 1964.",
+        "Aeroportul internațional din oraș este un nod global major pentru transportul de marfă.",
+        "Conține aproape 40% din întreaga populație a statului Alaska.",
+        "Cea mai lungă cursă de sănii trase de câini, Iditarod, are startul ceremonial aici.",
+        "Este înconjurat de o întindere sălbatică vastă, incluzând Parcul Național Chugach."
+      ]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "descriptionAdvanced": "Stockton, situat în regiunea Văii Centrale din California, a fost fondat în 1849 de Căpitanul Charles Maria Weber în timpul Goanei după Aur din California. Orașul s-a transformat rapid dintr-o așezare de corturi într-un centru agricol și de transport prosper, fiind poziționat strategic pe râul San Joaquin. În 1933 a fost finalizat un canal de adâncime masiv (Stockton Deep Water Ship Channel), transformând orașul într-un port maritim interior esențial, capabil să primească nave oceanice la peste 100 de kilometri de coastă, facilitând exportul produselor agricole ale regiunii pe piețele asiatice. Datorită economiei sale orientate pe agricultură, a atras valuri succesive de imigranți, ceea ce îi conferă o diversitate etnică uriașă. De asemenea, orașul găzduiește University of the Pacific, fondată în 1851, cea mai veche universitate din California. Geografie K7 — dezvoltarea infrastructurii pentru porturile interioare.",
+      "factsAdvanced": [
+        "A fost fondat oficial în 1849 pe fondul Febrei Aurului.",
+        "Găzduiește cea mai veche universitate privată din California, University of the Pacific (1851).",
+        "A devenit un port interior de apă adâncă în anul 1933.",
+        "Prima școală publică superioară din regiunea Văii Centrale a fost deschisă aici în 1869.",
+        "Canalul orașului este o arteră vitală pentru exportul de produse agricole californiene.",
+        "Populația sa a depășit bariera de 320.000 de locuitori, remarcându-se prin diversitate."
+      ]
+    },
+    {
+      "id": "toledo-cities-v2",
+      "descriptionAdvanced": "Toledo este un oraș industrial semnificativ din nord-vestul statului Ohio, așezat la extremitatea vestică a Lacului Erie. Încorporat în 1837, orașul a fost centrul unui mic conflict de frontieră numit Războiul din Toledo (1835-1836) între Ohio și Michigan, rezolvat ulterior prin intervenția Congresului. De-a lungul secolului XX, orașul și-a câștigat supranumele de „Orașul Sticlei” datorită inovațiilor colosale aduse de antreprenori locali precum Edward Drummond Libbey și Michael Owens, care au transformat Toledo în centrul mondial al industriei sticlei (de la sticlă pentru ferestre și automobile, la sticlărie artistică). Ulterior, Toledo a dezvoltat o industrie auto robustă, fiind locul de naștere al faimosului vehicul militar Jeep, produs aici încă din anul 1941. Astăzi, Muzeul de Artă Toledo are una dintre cele mai rafinate colecții de artă din sticlă din lume. Istorie K8 — dezvoltarea industrială și conflictele teritoriale timpurii.",
+      "factsAdvanced": [
+        "A fost fondat în 1833 prin unirea a două așezări aflate pe râul Maumee.",
+        "Războiul din Toledo (1835-1836) a decis apartenența orașului la statul Ohio.",
+        "Este renumit ca „Orașul Sticlei” datorită inovațiilor revoluționare în domeniu.",
+        "Uzina locală produce vehicule Jeep încă de la apariția acestora în 1941.",
+        "Muzeul de Artă Toledo deține pavilionul exclusivist Glass Pavilion (deschis în 2006).",
+        "Canalul Miami și Erie, terminat în 1845, i-a impulsionat puternic economia portuară."
+      ]
+    },
+    {
+      "id": "st-paul-cities-v2",
+      "descriptionAdvanced": "Saint Paul este capitala statului Minnesota, situat pe malurile abrupte ale fluviului Mississippi, vizavi de „fratele” său geamăn, orașul Minneapolis. Fondat inițial sub un nume pitoresc, Pig's Eye (după un comerciant local de băuturi alcoolice), a fost redenumit Saint Paul în 1841 de către un misionar catolic care a construit o capelă din bușteni. Până în anii 1850, așezarea a devenit un port fluvial dominant, facilitând comerțul pionierilor spre vestul sălbatic. Cunoscut pentru arhitectura sa deosebită din perioada victoriană târzie, orașul prezintă atracții magnifice, precum clădirea Capitoliului statal, inspirată de Bazilica Sfântul Petru de la Roma (finalizată în 1905). Spre deosebire de centrul ultra-modern și comercial din Minneapolis, Saint Paul și-a păstrat cartierele istorice liniștite și este sediul mai multor colegii private prestigioase. Istorie K8 — extinderea teritorială și comerțul fluvial.",
+      "factsAdvanced": [
+        "A fost denumit oficial Saint Paul în anul 1841 de către părintele Lucien Galtier.",
+        "Orașul a devenit capitala teritorială a Minnesotei în anul 1849.",
+        "Axa Summit Avenue conține una dintre cele mai lungi rețele de clădiri victoriene din SUA.",
+        "Formează o metropolă uriașă alături de orașul vecin Minneapolis (Twin Cities).",
+        "Clădirea Capitoliului din Minnesota a fost deschisă oficial publicului în 1905.",
+        "Faimosul scriitor F. Scott Fitzgerald s-a născut aici în anul 1896."
+      ]
+    },
+    {
+      "id": "newark-cities-v2",
+      "descriptionAdvanced": "Newark, situat pe fluviul Passaic, este cel mai populat oraș din statul New Jersey și una dintre cele mai vechi așezări coloniale din Statele Unite, fiind fondat în 1666 de puritani veniți din colonia New Haven. De-a lungul secolului al XIX-lea, Newark a evoluat într-un colos industrial renumit pentru fabricarea pielăriei, berii și prelucrarea metalelor fine. Astăzi, deși producția a scăzut, Newark este un hub global pentru logistică și asigurări corporative. Aeroportul Internațional Newark Liberty a fost, în 1928, primul aeroport comercial major al Americii de Nord, iar Portul Newark-Elizabeth formează principala facilitate de containere de pe coasta de est a SUA. În centrul renașterii culturale recente se remarcă Centrul de Arte Performative din New Jersey (NJPAC), inaugurat în 1997. Geografie K8 — logistică internațională și porturi moderne.",
+      "factsAdvanced": [
+        "A fost fondat în 1666 de un grup strict de imigranți puritani englezi.",
+        "Aeroportul Newark Liberty a fost deschis în anul 1928, pionier în domeniul comercial.",
+        "Portul Newark a fost primul din lume care a folosit masiv sistemul containerelor (1956).",
+        "Orașul este sediul gigantului corporației financiare și de asigurări Prudential.",
+        "NJPAC este a șasea cea mai mare sală de arte spectacole din Statele Unite.",
+        "Până în secolul XX, a fost centrul dominant american pentru industria de marochinărie."
+      ]
+    },
+    {
+      "id": "henderson-cities-v2",
+      "descriptionAdvanced": "Henderson, situat în extremitatea sudică a Văii Las Vegas, este al doilea cel mai populat oraș din Nevada. Spre deosebire de Las Vegas, Henderson a fost planificat inițial în timpul celui de-al Doilea Război Mondial (în jurul anului 1941) exclusiv pentru a furniza locuințe muncitorilor fabricii guvernamentale Basic Magnesium Plant, care producea magneziu vital pentru muniția militară și piesele de avioane. Deși fabrica a intrat în declin după război, eforturile legislative au evitat transformarea așezării într-un „oraș fantomă”, Henderson fiind încorporat oficial abia în 1953. Astăzi, orașul s-a transformat dintr-un bastion industrial murdar într-o rețea de comunități rezidențiale de lux, faimos pentru nivelul său ridicat de siguranță publică, terenurile de golf spectaculoase și proximitatea față de Lacul Mead. Istorie K8 — mobilizarea industrială din al Doilea Război Mondial.",
+      "factsAdvanced": [
+        "A fost înființat în 1941 ca o așezare muncitorească pentru fabrica de magneziu.",
+        "Încorporarea sa oficială ca oraș a fost înregistrată în anul 1953.",
+        "A fost desemnat frecvent unul dintre cele mai sigure orașe din Statele Unite.",
+        "A furnizat peste 166.000 de tone de magneziu în timpul celui de-al Doilea Război Mondial.",
+        "Granița estică a orașului se află la doar câțiva kilometri de Rezervația Națională Lacul Mead.",
+        "Populația orașului a crescut constant, depășind pragul de 310.000 de locuitori."
+      ]
+    },
+    {
+      "id": "plano-cities-v2",
+      "descriptionAdvanced": "Plano, un oraș proeminent din nordul statului Texas, funcționează ca un nucleu corporativ cheie pentru vasta zonă metropolitană Dallas-Fort Worth. Așezarea a fost fondată în anii 1840 și numită din termenul spaniol „plano” (plat), o referire la terenul său neted și ușor agricol. Timp de peste un secol, Plano a fost o modestă comunitate de fermieri, dar odată cu deceniul anilor 1980 a suferit o transformare uriașă, atrăgând un val imens de sedii corporative datorită impozitelor atractive și calității ridicate a vieții. Astăzi, companii gigantice precum Toyota Motor North America, Frito-Lay și J.C. Penney au sediul central în acest oraș. Aceste politici economice i-au asigurat constant titlul de „Cel mai bun oraș pentru a găsi un loc de muncă din America”. Geografie K7 — expansiunea suburbană corporativă (edge cities).",
+      "factsAdvanced": [
+        "Numele orașului provine din limba spaniolă, însemnând un teritoriu „plat”.",
+        "Așezarea a fost încorporată legal în anul 1873, la sosirea căii ferate.",
+        "Găzduiește sediul central din SUA al corporației japoneze Toyota.",
+        "Inventarea chipsurilor tortilla s-a legat parțial de mutarea Frito-Lay aici.",
+        "A fost adesea clasat în top 10 orașe cu cea mai înaltă calitate a vieții din SUA.",
+        "Sistemul școlar din Plano a obținut nenumărate premii pentru excelență academică."
+      ]
+    },
+    {
+      "id": "irvine-cities-v2",
+      "descriptionAdvanced": "Irvine, situat central în comitatul Orange, California, este unul dintre cele mai de succes exemple de „oraș complet planificat” (master-planned city) din Statele Unite. Istoria sa a început la mijlocul secolului XX, când uriașa companie agrară Irvine Company a colaborat cu arhitecți vizionari, în special William Pereira, pentru a dezvolta un oraș în jurul noii universități, Universitatea din California, Irvine (deschisă oficial în 1965). Încorporat în 1971, Irvine a fost divizat în sate distincte („villages”), fiecare având un stil arhitectural specific, parcuri centrale și rețele școlare proprii. Astăzi, Irvine este un magnet pentru companiile din domeniul tehnologiei, semiconductoarelor și biotehnologiei, atrăgând o populație bogată și înalt educată. Mai mult, a fost numit constant de către FBI „Cel mai sigur oraș mare al Americii”. Geografie K8 — planificare urbană avansată și comunități master-planned.",
+      "factsAdvanced": [
+        "Planul urbanistic general al orașului a fost elaborat în anii 1960 de arhitectul William Pereira.",
+        "A fost încorporat oficial în data de 28 decembrie 1971.",
+        "Campusul Universității din California, Irvine (UCI), și-a deschis porțile în 1965.",
+        "Orașul a câștigat titlul FBI de cel mai sigur oraș din categoria sa pentru peste 15 ani consecutivi.",
+        "Dispune de zeci de „sate” planificate minuțios cu coduri arhitecturale stricte.",
+        "Atrage masiv investiții din industria mondială a jocurilor video și tehnologiei."
+      ]
+    },
+    {
+      "id": "durham-cities-v2",
+      "descriptionAdvanced": "Durham este un oraș efervescent din inima Carolinei de Nord, care formează o latură vitală a celebrului Research Triangle Park. După Războiul Civil American, fondarea companiei de tutun de către Washington Duke în 1865 a propulsat rapid așezarea într-unul dintre cei mai mari producători globali de țigarete, oferindu-i apelativul „Orașul Bull” după marca de succes „Bull Durham”. Beneficiind de filantropia acestei averi din tutun, Trinity College s-a mutat aici și a fost redenumit, în 1924, prestigioasa Universitate Duke. De asemenea, orașul are un trecut remarcabil pentru drepturile civile, Parrish Street fiind cunoscută la începutul secolului XX drept „The Black Wall Street”, datorită prosperității sale financiare de neegalat pentru comunitatea afro-americană de atunci. Astăzi, vechile fabrici de tutun au fost transformate în complexe imobiliare, hub-uri bio-tech și zone de agrement elegante. Istorie K8 — prosperitatea afro-americană și tranziția post-industrială.",
+      "factsAdvanced": [
+        "A fost încorporat în mod oficial la data de 10 aprilie 1869.",
+        "Compania gigant American Tobacco Company a fost fondată aici în 1890.",
+        "Universitatea Duke, redenumită astfel în 1924, este inima academică a orașului.",
+        "A fost fondatorul faimoasei companii de asigurări „North Carolina Mutual Life Insurance”.",
+        "Face parte integrantă din cel mai mare parc național de cercetare (Research Triangle).",
+        "Majoritatea fabricilor sale istorice de tutun au fost transformate modern (ex: American Tobacco Campus)."
+      ]
+    },
+    {
+      "id": "st-petersburg-fl-cities-v2",
+      "descriptionAdvanced": "St. Petersburg, așezat fermecător pe peninsula dintre Golful Tampa și Golful Mexic în Florida, se distinge printr-un climat absolut excepțional, deținând recordul mondial Guinness pentru cele mai multe zile consecutive însorite (768 de zile, înregistrate între 1967 și 1969). Fondat în 1888 de co-proprietarii Peter Demens, un nobil de origine rusă, și John C. Williams, orașul a primit, printr-o tragere la sorți cu banul, numele fostei capitale imperiale rusești. Deceniile timpurii ale secolului XX l-au consacrat drept stațiune națională principală, cu plaje remarcabile și hoteluri spectaculoase cu influențe spaniole. Din punct de vedere cultural, găzduiește celebrul Muzeu Dali (inaugurat în 1982, cu o nouă clădire iconică în 2011), care deține cea mai mare colecție a maestrului suprarealist spaniol din afara Europei. Geografie K7 — clima subtropicală și dezvoltarea stațiunilor de coastă.",
+      "factsAdvanced": [
+        "A fost fondat în anul 1888, numele fiindu-i ales prin simpla aruncare a unei monede.",
+        "Se bucură în medie de aproximativ 361 de zile cu soare în fiecare an.",
+        "Deține recordul Guinness pentru 768 de zile consecutive neumbrite de ploaie sau nori.",
+        "Noua clădire a Muzeului Salvador Dali, extrem de apreciată vizual, a fost deschisă în 2011.",
+        "Aici s-a operat prima companie comercială de aviație programată, cu un zbor deasupra golfului în 1914.",
+        "Găzduiește anual curse de mașini (IndyCar) pe un traseu spectaculos amenajat pe străzile orașului."
+      ]
+    },
+    {
+      "id": "jersey-city-cities-v2",
+      "descriptionAdvanced": "Jersey City ocupă un punct nevralgic al coastei estice a Statelor Unite, fiind localizat în statul New Jersey, la vest de râul Hudson, oferind panorame uluitoare direct spre zgârie-norii din Manhattan (New York). Teritoriul orașului deține o semnificație istorică rară: o mare parte din insulele Ellis și Liberty, deși renumite global ca simboluri ale imigrației spre New York, se află de fapt în apele teritoriale ale statului New Jersey. Orașul a devenit în secolele XIX și XX unul dintre cele mai masive noduri feroviare de marfă și hub-uri industriale orientate spre docuri. Începând cu anii 1990, regenerarea sa urbană a atras investiții masive pe malul apei, conturând orizontul propriu al orașului („Wall Street West”), cu turnuri financiare înalte (precum Goldman Sachs Tower). Astăzi, este lăudat ca unul dintre cele mai diversificate etnic orașe din Statele Unite. Istorie K8 — urbanizarea din proximitatea porturilor de imigrație.",
+      "factsAdvanced": [
+        "Prima achiziționare de teren de la nativi pe actualul teritoriu a avut loc în anul 1630.",
+        "Monumentala Statuie a Libertății se află la granița apelor teritoriale ale orașului.",
+        "Orașul este conectat de New York prin tunelurile feroviare subacvatice PATH (deschise în 1908).",
+        "A fost un terminal feroviar masiv (Central Railroad of New Jersey) esențial în preluarea imigranților.",
+        "Orașul este recunoscut oficial drept una dintre cele mai diverse comunități etnice din Statele Unite.",
+        "Regenerarea urbană din anii '90 a dezvoltat o zonă financiară proprie supranumită „Wall Street West”."
+      ]
+    },
+    {
+      "id": "chandler-cities-v2",
+      "descriptionAdvanced": "Chandler, oraș aflat în sud-estul regiunii metropolitane a văii Phoenix din Arizona, s-a dezvoltat inițial în urma unor progrese inovatoare în ingineria hidrotehnică. Așezarea a fost fondată în 1912 de doctorul veterinar A.J. Chandler, care a adus aici primul sistem viabil de puțuri de apă bazat pe energie electrică, facilitând crearea fermelor întinse de struți și recoltelor prospere de lucernă și bumbac în plin deșert. Hotelul San Marcos, deschis în 1913, a plasat orașul pe harta turistică națională a timpului. Schimbarea majoră s-a produs la sfârșitul secolului al XX-lea, când Chandler s-a transformat dintr-un orășel agricol pitoresc în epicentrul coridorului tehnologic „Silicon Desert”. Astăzi, companii gigantice producătoare de microcipuri, cum ar fi Intel (cu imensele sale facilități de fabricare pe semiconductori), angajează zeci de mii de locuitori, schimbând fața economică a regiunii. Geografie K7 — utilizarea apei și boom-ul tehnologic.",
+      "factsAdvanced": [
+        "Orașul a fost proiectat cu o piață centrală (plaza) și fondat în anul 1912.",
+        "O componentă inedită a istoriei a fost creșterea struților, deținând ferme masive la începutul anilor 1900.",
+        "Corporația Intel și-a început activitatea principală de producție în acest oraș în anul 1980.",
+        "Peste 10% din totalul locurilor de muncă locale sunt direct legate de industria high-tech.",
+        "Festivalul local dedicat struților onorează și azi fosta industrie agricolă de nișă.",
+        "Populația a depășit vertiginos pragul de 270.000 de rezidenți, marcând o creștere susținută."
+      ]
+    },
+    {
+      "id": "laredo-cities-v2",
+      "descriptionAdvanced": "Laredo, un oraș poziționat adânc în sudul statului Texas, de-a lungul malului nordic al fluviului Rio Grande, este singurul oraș din Statele Unite sub care au fluturat pe rând șapte steaguri diferite. Fondat inițial în anul 1755 sub regimul spaniol, a reprezentat chiar capitala Republicii Independente Rio Grande pentru un scurt și tensionat an (1840). Locația sa inegalabilă la poarta de frontieră dintre SUA și Mexic îl face astăzi un motor indispensabil al economiei nord-americane. Mai presus de orice, el este considerat cel mai vast port interior american, prelucrând lunar sute de mii de camioane și garnituri feroviare (incluzând podul esențial World Trade Bridge, construit în 2000). Cultura locală celebrează permanent festivalul „Zilele lui George Washington” (Washington's Birthday Celebration), cel mai mare eveniment patriotic american dintr-o regiune predominant hispanică, fondat în 1898. Geografie K7 — granițe, tratate NAFTA/USMCA și porturile terestre.",
+      "factsAdvanced": [
+        "Așezarea colonială spaniolă Villa de San Agustin de Laredo a fost fondată în anul 1755.",
+        "A servit drept capitală exclusivă pentru micro-națiunea „Republic of the Rio Grande” în 1840.",
+        "Orașul are patru poduri internaționale rutiere ce facilitează schimburi uriașe de mărfuri.",
+        "Peste 95% din locuitorii orașului se identifică etnic și cultural drept hispanici.",
+        "Găzduiește cel mai mare port de trecere (inland port) de pe frontiera terestră dintre SUA și Mexic.",
+        "Universitatea Texas A&M International oferă resurse majore acestei comunități de graniță."
+      ]
+    },
+    {
+      "id": "norfolk-cities-v2",
+      "descriptionAdvanced": "Norfolk, aflat în inima maritimă a statului Virginia, este încadrat la intersecția Golfului Chesapeake cu estuarul strategic format de râul Elizabeth. Istoria sa a fost definită de portul adânc excepțional. Fondat oficial ca oraș în 1682 printr-un act colonial englez, el s-a afirmat rapid ca nucleu de schimb comercial transatlantic. Distrugerea aproape totală a orașului din cauza artileriei britanice în timpul Războiului de Independență (1776) nu a împiedicat renașterea sa militară. În anul 1917, aici a fost stabilită Naval Station Norfolk, care s-a extins masiv de-a lungul deceniilor, devenind astăzi cea mai mare bază navală și garnizoană de forțe armate combinate din lume. Metropola domină și domeniul logistic al coastelor estice, susținând parcuri de containere și transport feroviar colosal. Muzeul Nauticus atrage vizitatorii care doresc să admire istoricul cuirasat USS Wisconsin, expus aici. Geografie K8 — facilități militare strategice pe coaste.",
+      "factsAdvanced": [
+        "Orașul a fost fondat la ordin guvernamental prin Actul de Comerț englez din 1682.",
+        "A fost complet mistuit de un incendiu devastator după atacul britanic din 1 ianuarie 1776.",
+        "Aici se află Naval Station Norfolk, cea mai gigantică bază navală operațională din lume.",
+        "Cuirasatul USS Wisconsin, participant activ la al Doilea Război Mondial, ancorat definitiv aici în 2000.",
+        "Sediu permanent pentru Comandamentul Suprem Aliat (SACLANT/ACT) al forțelor armate NATO din anul 1952.",
+        "Portul regiunii este vital pentru exportul cărbunelui extras de pe continentul nord-american."
+      ]
+    },
+    {
+      "id": "reno-cities-v2",
+      "descriptionAdvanced": "Reno, adăpostit într-o vale aridă din partea de nord-vest a statului Nevada și flancat de maiestuoșii munți Sierra Nevada, se mândrește internațional cu pseudonimul „Cel mai mare orășel din lume” (The Biggest Little City in the World). Fondarea sa în 1868 s-a aliniat construcției Căii Ferate Transcontinentale. Dincolo de mineritul primitiv din faimoasa zonă adiacentă Comstock Lode, Reno a inovat complet legea socială la scară națională: în anul 1931 a adoptat reglementări care legalizau jocurile de noroc deschise și permisiunea divorțurilor extrem de rapide (obținute în 6 săptămâni). Acest dublu pol l-a transformat în principalul loc de agrement al țării până la ridicarea Las Vegas-ului. Astăzi, deși cazinourile rămân centrale, economia este profund reînviată de firme de tehnologie de masă (inclusiv mega-fabrica Gigafactory 1 a companiei Tesla, localizată la est), un aflux turistic bazat pe activități outdoor în Munții Sierra și lacul Tahoe. Istorie K8 — schimbările legislației de stat și efectul lor economic.",
+      "factsAdvanced": [
+        "A fost numit în mod onorific după un comandant căzut în Războiul Civil, generalul Jesse L. Reno.",
+        "O lege din 1931 a impulsionat drastic economia, permițând oficial divorțuri ușoare de 6 săptămâni.",
+        "Faimosul arc cu textul „Biggest Little City in the World” a fost înălțat în anul 1926.",
+        "Prima afacere majoră a gigantului hotelier Harrah's a fost deschisă aici (Harrah's Club) în anul 1937.",
+        "Găzduiește anual cursa Națională a Campionatelor de Aviație (Reno Air Races), inaugurată în 1964.",
+        "Industria tehnologică masivă locală susține producția bateriilor pentru vehicule la Tesla Gigafactory 1."
+      ]
+    },
+    {
+      "id": "buffalo-cities-v2",
+      "descriptionAdvanced": "Buffalo este situat la granița de nord-vest a statului New York, chiar la sursa râului Niagara, la punctul estic de scurgere din masivul Lac Erie. Importanța sa unică derivă din construirea epocală a Canalului Erie, finalizat complet în anul 1825. Acel drum pe apă a legat direct Oceanul Atlantic (prin fluviul Hudson) de Marile Lacuri, transformând miraculos așezarea frontalieră Buffalo în al optulea cel mai uriaș și mai bogat oraș american la intrarea în anii 1900. Câștigând titulatura de „Orașul Luminii” (City of Light), a fost primul metroul american dotat pe scară largă cu iluminat public, generat tocmai din captarea hidroelectrică a Cascadei Niagara aflate în preajmă (1896). Reculul greu al economiei industriale după anii 1950 a dus la declin, dar peisajul lui reînvie astăzi, protejând o incredibilă varietate din primele modele de zgârie-nori naționali. Istorie K8 — rolul strategic al canalelor navigabile.",
+      "factsAdvanced": [
+        "Deschiderea rutei terestre prin Canalul Erie (1825) i-a adus creșterea economică absolută.",
+        "Orașul a fost pionier la iluminarea extinsă pe curent alternativ de la Cascada Niagara în 1896.",
+        "A găzduit cu mare lux Expoziția Pan-Americană globală la pragul anului 1901.",
+        "Președintele țării William McKinley a fost asasinat brutal aici, tot în septembrie 1901.",
+        "Are privilegiul național de a fi locul de invenție al aripioarelor „Buffalo wings” în rețeta originală din 1964.",
+        "Populația maximă urbană s-a concentrat aici în anul 1950, cu mult peste jumătate de milion de suflete."
+      ]
+    },
+    {
+      "id": "fort-wayne-cities-v2",
+      "descriptionAdvanced": "Fort Wayne, cel de-al doilea cel mai aglomerat pol demografic din statul Indiana, are rădăcini geostrategice unice la intersecția cursurilor a trei râuri navigabile: St. Joseph, St. Marys și Maumee. Recunoscut ca poartă teritorială cheie la marginea preriilor, la finele lui 1794, armata a fondat aici o fortificație menită să asigure siguranța granițelor apusene a nou-formatelor Statele Unite (sub conducerea faimosului general Anthony Wayne). O explozie economică s-a materializat o dată cu deschiderea în 1843 a canalului intern Wabash și Erie. Inovativ la bază, așezarea a adus în secolul XX fabrici vitale, aici inventându-se de exemplu pompa mecanică casnică de benzină, primul model practic de frigider cu uz casnic modern (1913) și inovații cruciale în cablajele electrice și motoare. Orașul susține în prezent una dintre rețelele excepționale de parcuri din regiunea central-vestică americană. Istorie K8 — expansiunea teritorială din Lumea Veche și inovațiile din inventică.",
+      "factsAdvanced": [
+        "Așezarea fortificată ce îi dă numele a fost construită direct sub comanda generalului Anthony Wayne în toamna anului 1794.",
+        "Infrastructura economică masivă s-a impus în anul 1843 odată cu operaționalizarea canalului Wabash și Erie.",
+        "Este recunoscut drept pol al spiritului de invenție, introducând în 1913 frigiderul complet utilitar.",
+        "Prima partidă americană de baseball consemnată public a ligii naționale s-a disputat la Fort Wayne pe parcursul lui mai 1871.",
+        "Poreclit adeseori informal drept „City of Churches” din cauza marii mulțimi de așezăminte ecleziastice (peste 300 de clădiri).",
+        "Rețeaua vastă locală dedicată conservării parcurilor a primit premiul de calitate național."
+      ]
+    },
+    {
+      "id": "boise-cities-v2",
+      "descriptionAdvanced": "Boise, un paradis natural la poalele nordice acoperite de stânci ale Munților Stâncoși, își trage renumele și demografia ca nucleu central al vastului stat Idaho. Având numele provenit din aprecierea sinceră din limba franceză veche (les bois – lemn, arbori) de către primii vânători europeni, regiunea s-a organizat într-un perimetru stabil sub supravegherea militară Fort Boise din 1863 în timpul freneziei din căutarea minereurilor și argintului. Este cunoscut național drept „Orașul Arborilor” (City of Trees), un exemplu verde izolat direct printre câmpiile semi-aride ale deșertului stâncos vestic. Datorită abundenței neobișnuite locale de energie de adâncime (pânze freatice vulcanice), orașul se mândrește cu cel mai gigantic sistem rezidențial național dedicat furnizării căldurii pe izvoare strict geotermale (aplicat cu succes din perioada 1890). Sectorul public s-a axat profund pe mediul aerian liber modern (precum uriașa alee de 40 de kilometri Boise River Greenbelt). Geografie K7 — impactul geotermiei naturale asupra traiului uman sustenabil.",
+      "factsAdvanced": [
+        "Numele franțuzesc original a fost lăsat de exploratorii timpurii impresionați de pădurea răsărită lângă malul apei.",
+        "Un detașament de pionieri militari a ridicat așezarea fortificată apărută cu precădere în anul istoric 1863.",
+        "Dispune de un sistem imens geotermal național care este capabil să încălzească activ întreg centrul public.",
+        "Ruta principală care a colonizat Pacificul – celebrul traseu The Oregon Trail – ocolea marginea nordică a așezării urbane.",
+        "Baza universitară renumită regional (Boise State University) se află pe teritoriul său administrativ din 1932.",
+        "Ecosistemul masiv găzduiește pe o coastă un uriaș sanctuar aviar dedicat șoimilor și vulturilor (World Center for Birds of Prey)."
+      ]
+    },
+    {
+      "id": "richmond-va-cities-v2",
+      "descriptionAdvanced": "Richmond, localizat în sectorul est-central, veghează peste porțiunile navigabile esențiale din regiunea de câmpie spre dealuri de pe fluviul James și este centrul istoric fundamental al statului Virginia. Prima sa mențiune atinge zorii secolului 17, preluând de la faimosul pionier englez rolul cheie național după anul încorporării ferme 1737. Această prestigioasă enclavă s-a impus terifiant asupra agendelor americane de la mijlocul deceniilor, funcționând timp îndelungat sub presiunea Războiului Civil (1861-1865) ca centrul și capitala unică stabilită a Statelor Confederate beligerante din America (CSA), înainte de a cădea în fața asediului greu de tip pârjol din final. Arhitectura uimitoare a capitoliului, concepută meticulos încă din 1785 sub sfaturile ilustrului președinte fondator Thomas Jefferson, este una dintre pietrele de bază naționale ale neo-clasicismului masiv american. Astăzi zona reprezintă și acasă pentru o varietate uriașă de sectoare guvernamentale. Istorie K8 — Capitala Confederației și războaiele unificării civile.",
+      "factsAdvanced": [
+        "A primit cu onoare desemnarea capitală a Statului Federal Virginia în timpul revoluției anul 1780, mutată special în detrimentul așezării Williamsburg.",
+        "Biserica Episcopală locală a fost martoră la retorica naționalistă intensă formulată public („Dă-mi libertate sau dă-mi moartea” de P. Henry, anul 1775).",
+        "Timp de un întreg calvar istoric (1861–1865) a funcționat oficial ca sediul și capitala exclusivă de comandă a Statelor Confederate opozante.",
+        "La finalul aprilie din anul istoric de asediu 1865 orașul a fost transformat prin foc de armatele forțate ce se retrăgeau precipitat.",
+        "Forma de guvernare bancară centralizată a instalat chiar pe teritoriul zonei una din marile filiale de siguranță Federal Reserve.",
+        "A fost orașul nord american inaugural care a finalizat constructiv pe scară largă primul tramvai de putere propulsată de electricitate activ din 1888."
+      ]
+    },
+    {
+      "id": "des-moines-cities-v2",
+      "descriptionAdvanced": "Des Moines este nu doar axul decizional fundamental al guvernului, dar este de asemenea suprema forță demografică a statului Iowa, tronând chiar pe văile pitorești cu un bogat flux al râului eponim de unde ia titulatura sa. Primă originare civilă s-a stabilizat treptat din paza strictă din perimetrul Fortului Des Moines amplasat precis în timpul mai 1843 pentru liniștea tratatelor regionale native. Evoluția explozivă s-a impulsionat puternic la începuturile perioadelor agrare și datorită extracției primare de pământ și resurse miniere din regiune. Această putere a dat roade la începutul anilor 20, urcând direct orașul în topurile marilor giganți globali la capitolul sectorului birocratic complex pentru emiterea polițelor mari naționale din rândul ramurii comerciale a asigurărilor. Este bine recunoscut pentru procesele masive democrate preelectorale tip Caucus care propulsează candidaturile de pe întreg teritoriul național, testând pe rând voința populară națională. Geografie K7 — expansiunea câmpiilor imense agrare și serviciile primare corporative.",
+      "factsAdvanced": [
+        "Nucleul fortificat original a debutat chiar la marginea primei porțiuni din sezonul din 1843 ca punct ferm defensiv pe linia estică.",
+        "Numele se presupune masiv fondat parțial derivând din vocabularul explorator al francezilor referitor concret la cursurile majore cu debit alăturate terenului (River des Moines).",
+        "Servește administrativ ca și mare capitală națională funcțională a aparatului politic de stat al statului de mijloc Iowa oficial de-a lungul anului de grație istorică 1857.",
+        "Structura capitoliului administrativ este vizibil remarcabilă având adăugat la extremitatea superioară cel mai extins finisaj complet compus din filigran prețios bazat pe foița scumpă pură aurită la un perimetru de stat american.",
+        "Sectorul economic local se află clasat global exact printre primele puteri și cele mai voluminoase noduri operaționale globale pentru industria financiar-asigurativă.",
+        "Ciclul primar faimos din politica națională Iowa Caucus atrage constant anual de la prima ediție valuri masive de reporteri mondiali curioși public."
+      ]
+    }
+  ]
+}

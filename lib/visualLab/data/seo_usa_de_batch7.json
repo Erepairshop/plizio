@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "plymouth-rock-history-v2",
+      "descriptionAdvanced": "Plymouth Rock an der Küste von Massachusetts ist ein massives symbolisches Monument der US-amerikanischen Geschichte. Der Legende nach betraten hier im Jahr 1620 die Passagiere der Mayflower – oft als 'Pilgerväter' bezeichnet – zum ersten Mal dauerhaft den amerikanischen Boden, um die Kolonie Plymouth zu gründen. Historisch gesehen wurde der spezifische Felsen erst 1741, mehr als ein Jahrhundert später, durch einen 94-jährigen Einheimischen identifiziert, weshalb die historische Akkuratesse von Historikern stark angezweifelt wird. Dennoch wurde der Granitblock zu einer der meistbesuchten nationalen Pilgerstätten. Heute ruht der oft zerbrochene und stark verkleinerte Stein in einem aufwendigen Portikus (Pilgrim Memorial State Park) am Ufer, als unsterbliches Symbol für die Suche nach religiöser Freiheit in der Neuen Welt. Geschichte K7 — Mythen und Wahrheiten der englischen Besiedlung.",
+      "factsAdvanced": [
+        "Symbolisiert den Ort, an dem die Passagiere der Mayflower im Jahr 1620 an Land gingen",
+        "Die erste schriftliche Erwähnung des Felsens stammt kurioserweise erst aus dem Jahr 1741",
+        "Der ursprüngliche Stein ist in den letzten 400 Jahren stark geschrumpft und mehrfach zerbrochen",
+        "Wird von einem klassischen neoklassizistischen Portikus (erbaut 1920) umrahmt",
+        "Das Datum '1620' ist massiv und gut sichtbar in den Fels gemeißelt",
+        "Zieht jährlich über eine Million Besucher in den Pilgrim Memorial State Park"
+      ]
+    },
+    {
+      "id": "colonial-williamsburg-history-v2",
+      "descriptionAdvanced": "Das koloniale Williamsburg in Virginia ist das größte interaktive Freilichtmuseum für lebendige Geschichte ('Living History') in den Vereinigten Staaten. Ursprünglich von 1699 bis 1780 die wohlhabende Hauptstadt der Virginia-Kolonie, verfiel die Stadt nach der Verlegung der Regierung nach Richmond. In den 1920er Jahren initiierte und finanzierte der Industrielle John D. Rockefeller Jr. die gigantische Restaurierung. Mehr als 300 Gebäude wurden massiv rekonstruiert oder auf den originalen Fundamenten exakt neu erbaut. Heute schlendern kostümierte Handwerker, Politiker und Bürger (Reenactors) durch die sandigen Straßen und erwecken den Alltag, die Handwerkstechniken und die intensiven politischen Debatten am Vorabend der Amerikanischen Revolution eindrucksvoll und extrem detailgetreu zum Leben. Geschichte K8 — Die britischen Kolonien und der Weg zur Unabhängigkeit.",
+      "factsAdvanced": [
+        "War von 1699 bis 1780 die offizielle und wohlhabende Hauptstadt der Kolonie Virginia",
+        "Das Freilichtmuseum erstreckt sich über 120 Hektar mit mehr als 300 originalen oder rekonstruierten Gebäuden",
+        "Die massive Restaurierung in den 1920er Jahren wurde von John D. Rockefeller Jr. finanziert",
+        "Besitzt das historische Kapitol und den prachtvollen Governor's Palace",
+        "Hunderte kostümierte 'Reenactors' leben und arbeiten hier streng nach Methoden des 18. Jahrhunderts",
+        "Ein absolutes Epizentrum der politischen Debatten vor der Amerikanischen Revolution (z.B. Patrick Henry)"
+      ]
+    },
+    {
+      "id": "valley-forge-history-v2",
+      "descriptionAdvanced": "Valley Forge, im Südosten von Pennsylvania gelegen, war der historische Schauplatz des extrem harten Winterlagers der Kontinentalarmee von 1777 bis 1778. Unter dem Kommando von General George Washington zogen sich hier 12.000 völlig erschöpfte amerikanische Soldaten zurück, während die britische Armee das nahegelegene Philadelphia besetzt hielt. Obwohl es in Valley Forge keine einzige Schlacht gab, starben durch Krankheiten, extremen Hunger und furchtbare Kälte mehr als 2.000 Männer. Der Winter gilt jedoch als absoluter Wendepunkt der Amerikanischen Revolution: Unter der brillanten Führung des preußischen Offiziers Baron von Steuben wurde die zerlumpte Truppe durch massiven Drill und Disziplin in eine professionelle, kampffähige Armee transformiert. Der heutige National Historical Park bewahrt die nachgebauten Blockhütten und Schützengräben. Geschichte K8 — Wendepunkte und Reorganisation im Unabhängigkeitskrieg.",
+      "factsAdvanced": [
+        "Das Winterlager der Kontinentalarmee dauerte von Dezember 1777 bis Juni 1778",
+        "Es fand hier keine militärische Schlacht statt, aber fast 2.000 Soldaten starben an Kälte und Krankheit",
+        "Der preußische General Baron von Steuben trainierte hier die Truppen zu einer professionellen Armee",
+        "George Washington wählte den Ort wegen der strategischen Nähe zu den Briten in Philadelphia",
+        "Der Park bewahrt zahlreiche nachgebaute hölzerne Soldatenhütten und Washingtons Hauptquartier",
+        "Wurde 1976 anlässlich der Zweihundertjahrfeier der USA zum National Historical Park ernannt"
+      ]
+    },
+    {
+      "id": "yorktown-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Yorktown in Virginia ist der historische Ort der entscheidendsten und finalen großen militärischen Auseinandersetzung im Amerikanischen Unabhängigkeitskrieg. Im Herbst 1781 wurde die britische Armee unter General Lord Cornwallis hier auf einer Halbinsel massiv in die Enge getrieben. George Washingtons amerikanische Truppen belagerten die Stadt zu Lande, während eine gigantische französische Flotte unter Admiral de Grasse den Fluchtweg über die Chesapeake Bay zur See blockierte ('Schlacht von den Virginia Capes'). Nach dreiwöchigem Dauerbeschuss kapitulierte Cornwallis am 19. Oktober 1781. Dieser kolossale Sieg zwang die britische Regierung, Friedensverhandlungen aufzunehmen, was zwei Jahre später zur offiziellen Anerkennung der Vereinigten Staaten im Vertrag von Paris führte. Geschichte K8 — Die entscheidende Belagerung und das Ende des Unabhängigkeitskriegs.",
+      "factsAdvanced": [
+        "Schauplatz der letzten massiven Schlacht im Amerikanischen Unabhängigkeitskrieg (1781)",
+        "Eine kombinierte Armee aus Amerikanern und Franzosen besiegte hier die Briten",
+        "Die französische Flotte spielte eine absolut entscheidende Rolle bei der Seeblockade",
+        "Lord Cornwallis ergab sich am 19. Oktober 1781 mit über 7.000 britischen Soldaten",
+        "Die Übergabe des Schwertes fand auf dem sogenannten 'Surrender Field' statt",
+        "Teil des Colonial National Historical Park, der auch Jamestown umfasst"
+      ]
+    },
+    {
+      "id": "monticello-history-v2",
+      "descriptionAdvanced": "Monticello, gelegen auf einem kleinen Berg in der Nähe von Charlottesville, Virginia, war der primäre Plantagensitz von Thomas Jefferson, dem dritten Präsidenten der USA und Hauptautor der Unabhängigkeitserklärung. Jefferson, ein brillanter autodidaktischer Architekt, entwarf das Anwesen selbst im neoklassizistischen Palladio-Stil und baute es über 40 Jahre hinweg ständig um. Das Haus ist berühmt für seine geniale Integration von Erfindungen (wie Aufzügen für Weinflaschen) und versteckten Dienstwegen. Die Pracht von Monticello basierte jedoch vollständig auf der systematischen Ausbeutung von Hunderten versklavten Menschen, die den riesigen landwirtschaftlichen Betrieb am Laufen hielten. Heute ist Monticello das einzige US-amerikanische Privathaus, das als UNESCO-Weltkulturerbe anerkannt ist, und bietet einen tiefen, dualen Einblick in Jeffersons Genie und die grausame Realität der Sklaverei. Geschichte K8 — Thomas Jefferson, Architektur und Plantagensklaverei.",
+      "factsAdvanced": [
+        "Entworfen und bewohnt von Thomas Jefferson, dem dritten US-Präsidenten",
+        "Der Name 'Monticello' ist italienisch und bedeutet 'kleiner Berg'",
+        "Das Anwesen wurde von mehr als 400 versklavten Menschen im Laufe von Jeffersons Leben betrieben",
+        "Gilt als Meisterwerk der amerikanischen neoklassizistischen Architektur (Palladianismus)",
+        "Das einzige amerikanische Privathaus, das auf der UNESCO-Weltkulturerbe-Liste steht",
+        "Abgebildet auf der Rückseite der amerikanischen 5-Cent-Münze (Nickel)"
+      ]
+    },
+    {
+      "id": "fort-mchenry-history-v2",
+      "descriptionAdvanced": "Fort McHenry ist ein sternförmiges Küstenfort aus Ziegelsteinen in Baltimore, Maryland. Seine historische Unsterblichkeit erlangte es im Krieg von 1812. Im September 1814 attackierte die gewaltige britische Royal Navy das Fort mit einem 25-stündigen, massiven Bombardement, um die Hafenstadt Baltimore zu erobern. Die amerikanischen Verteidiger hielten dem gnadenlosen Beschuss stand. Als der Anwalt Francis Scott Key am nächsten Morgen die riesige amerikanische Flagge (das 'Star-Spangled Banner') unversehrt über dem Fort wehen sah, verfasste er tief bewegt ein Gedicht. Dieses Gedicht wurde 1931 offiziell zur Nationalhymne der Vereinigten Staaten erklärt. Heute ist das Fort das einzige Gebiet in den USA, das den einzigartigen Titel 'National Monument and Historic Shrine' trägt. Geschichte K8 — Der Krieg von 1812 und die Entstehung der Nationalhymne.",
+      "factsAdvanced": [
+        "Erfolgreiche Verteidigung gegen die britische Flotte im September 1814 (Krieg von 1812)",
+        "Inspirierte Francis Scott Key zum Text der amerikanischen Nationalhymne",
+        "Das sternförmige Design bot ein maximales Schussfeld zur Abwehr von Seeangriffen",
+        "Die originale, massive Flagge ist heute im Smithsonian Museum in Washington ausgestellt",
+        "Trägt als einziger Ort in den USA die Bezeichnung 'National Monument and Historic Shrine'",
+        "Diente im Ersten Weltkrieg vorübergehend als riesiges Militärkrankenhaus"
+      ]
+    },
+    {
+      "id": "pearl-harbor-history-v2",
+      "descriptionAdvanced": "Pearl Harbor, gelegen auf der hawaiianischen Insel Oahu, ist der primäre Marinestützpunkt der US-Pazifikflotte und Schauplatz eines der folgenreichsten Ereignisse der Weltgeschichte. Am frühen Morgen des 7. Dezember 1941 führte die Kaiserlich Japanische Marine einen verheerenden, völlig unangekündigten Luftangriff auf die Basis durch. Mehr als 2.400 Amerikaner starben, und die Schlachtschiffflotte wurde massiv zerstört. Dieser Angriff zwang die bis dahin isolationistischen USA sofort zum Eintritt in den Zweiten Weltkrieg ('Ein Datum, das in Schande leben wird'). Das Herzstück der heutigen Gedenkstätte ist das weiße USS Arizona Memorial, das direkt über dem gesunkenen Wrack des Schlachtschiffs schwebt, in dem noch immer über 1.100 Besatzungsmitglieder eingeschlossen sind. Geschichte K8 — Der Pazifikkrieg und der Eintritt der USA in den Zweiten Weltkrieg.",
+      "factsAdvanced": [
+        "Ziel eines massiven japanischen Überraschungsangriffs am 7. Dezember 1941",
+        "Der Angriff zwang die USA am folgenden Tag offiziell in den Zweiten Weltkrieg",
+        "Beim Untergang der USS Arizona starben 1.177 Matrosen, die noch heute im Wrack ruhen",
+        "Das USS Arizona Memorial ist ein schwimmendes Denkmal, das quer über das Wrack gebaut wurde",
+        "Auch das Schlachtschiff USS Missouri, auf dem Japan 1945 kapitulierte, liegt heute hier vor Anker",
+        "Ist bis heute ein hochgradig aktiver und strategisch entscheidender Stützpunkt der US Navy"
+      ]
+    },
+    {
+      "id": "little-bighorn-battlefield-history-v2",
+      "descriptionAdvanced": "Das Little Bighorn Battlefield im südöstlichen Montana bewahrt den Schauplatz eines der berühmtesten militärischen Gefechte in der Geschichte der USA, oft als 'Custer's Last Stand' bezeichnet. Am 25. und 26. Juni 1876 stießen hier Truppen der 7. US-Kavallerie unter dem arroganten Kommando von Lieutenant Colonel George A. Custer auf ein gigantisches vereinigtes Lager von Lakota-Sioux, Nördlichen Cheyenne und Arapaho (angeführt von Sitting Bull und Crazy Horse). Die völlige Fehleinschätzung der indigenen Truppenstärke führte zur absoluten Vernichtung von Custers Einheit; er und 267 seiner Männer wurden getötet. Obwohl es ein gewaltiger Sieg für die Ureinwohner war, verschärfte sich danach die militärische Reaktion der US-Regierung massiv, was das Ende des freien nomadischen Lebens in den Great Plains besiegelte. Geschichte K8 — Die Indianerkriege und das Ende der nomadischen Lebensweise.",
+      "factsAdvanced": [
+        "Schauplatz der legendären Schlacht am Little Bighorn am 25. und 26. Juni 1876",
+        "Die US-Kavallerie unter George A. Custer wurde hier vernichtend geschlagen",
+        "Ein massives indigenes Bündnis aus Lakota, Cheyenne und Arapaho errang den Sieg",
+        "Auf dem weiten Hügelgelände markieren weiße Grabsteine die exakten Orte, an denen US-Soldaten fielen",
+        "Ein separates Denkmal (Indian Memorial, 2003) ehrt die indigenen Verteidiger ihrer Heimat",
+        "Der Sieg war ein Pyrrhussieg, da das US-Militär danach noch brutaler zurückschlug"
+      ]
+    },
+    {
+      "id": "ellis-island-history-v2",
+      "descriptionAdvanced": "Ellis Island in der Bucht von New York (vor der Küste von New Jersey) ist das ultimative Symbol der amerikanischen Einwanderungsgeschichte. Von 1892 bis 1954 fungierte die Insel als das absolut größte und wichtigste föderale Einwanderungszentrum der Vereinigten Staaten. Etwa 12 Millionen Einwanderer, überwiegend aus Süd- und Osteuropa, auf der Flucht vor Armut, Hunger oder politischer Verfolgung, betraten hier zum ersten Mal amerikanischen Boden. In der massiven 'Great Hall' fanden nervenaufreibende medizinische und juristische Inspektionen statt, bevor die Einreise gestattet oder seltener verweigert wurde. Schätzungen zufolge können fast 40 Prozent aller heutigen US-Bürger mindestens einen Vorfahren auf Ellis Island zurückführen. Das restaurierte Hauptgebäude beherbergt heute das eindrucksvolle National Immigration Museum. Geschichte K8 — Die große europäische Migrationswelle am Ende des 19. Jahrhunderts.",
+      "factsAdvanced": [
+        "War von 1892 bis 1954 die zentrale und gigantischste Einwanderungsstation der USA",
+        "Rund 12 Millionen Menschen passierten diese Insel auf ihrem Weg in ein neues Leben",
+        "Fast 40 % der aktuellen US-Bevölkerung haben direkte Vorfahren, die über Ellis Island einwanderten",
+        "Medizinische Inspektionen waren gefürchtet, führten aber nur bei ca. 2 % zur Zurückweisung",
+        "Liegt in direkter Sichtweite zur Freiheitsstatue, getrennt durch das Hafengewässer",
+        "Die Insel wurde künstlich massiv mit Aushuberde der New Yorker U-Bahn vergrößert"
+      ]
+    },
+    {
+      "id": "fort-sumter-history-v2",
+      "descriptionAdvanced": "Fort Sumter ist ein massives Ziegelsteinfort, das künstlich auf einer Insel an der Einfahrt zum Hafen von Charleston, South Carolina, erbaut wurde. Es ist unsterblich in die Geschichte eingegangen als der Ort, an dem der Amerikanische Bürgerkrieg begann. Als sich South Carolina 1860 von der Union lossagte, weigerte sich die US-Garnison unter Major Robert Anderson, das Fort aufzugeben. Am 12. April 1861 eröffneten konföderierte Artilleriebatterien das Feuer auf Fort Sumter. Nach 34 Stunden massiven Bombardements musste Anderson kapitulieren. Dieser Angriff war der absolute Funke, der den blutigsten Konflikt in der Geschichte der Vereinigten Staaten entzündete. Das Fort lag während des gesamten Krieges in Schutt und Asche und wurde später nur teilweise wieder aufgebaut. Geschichte K8 — Die Sezession und die ersten Schüsse des Amerikanischen Bürgerkriegs.",
+      "factsAdvanced": [
+        "Der Ort, an dem am 12. April 1861 der Amerikanische Bürgerkrieg offiziell begann",
+        "Wurde 34 Stunden lang von konföderierten Truppen massiv bombardiert",
+        "Beim anfänglichen Angriff gab es erstaunlicherweise keine militärischen Todesopfer",
+        "Das Fort wurde nach dem Krieg nie wieder in seiner ursprünglichen dreistöckigen Höhe aufgebaut",
+        "Liegt strategisch auf einer künstlichen Insel aus Tonnen von Granitblöcken aus Neuengland",
+        "Ist heute ein National Monument und kann nur per Boot von Charleston aus erreicht werden"
+      ]
+    },
+    {
+      "id": "appomattox-court-house-history-v2",
+      "descriptionAdvanced": "Der Appomattox Court House National Historical Park in Virginia markiert das geografische und symbolische Ende des blutigsten Konflikts auf US-Boden. Im Wilmer McLean House – einem scheinbar gewöhnlichen Ziegelhaus in diesem winzigen Dorf – unterzeichnete der konföderierte General Robert E. Lee am 9. April 1865 die Kapitulationsurkunde seiner Army of Northern Virginia gegenüber dem Unions-General Ulysses S. Grant. Dieses historische Treffen, das von bemerkenswertem Respekt und großzügigen Kapitulationsbedingungen geprägt war, signalisierte faktisch das Ende des Amerikanischen Bürgerkriegs, auch wenn andere Scharmützel noch Wochen andauerten. Der Park bewahrt das penibel rekonstruierte Dorf und vermittelt eindrucksvoll die ruhige Atmosphäre dieses weltverändernden Moments. Geschichte K8 — Die Kapitulation von General Lee und das Ende des Bürgerkriegs.",
+      "factsAdvanced": [
+        "Ort der formellen Kapitulation der konföderierten Hauptarmee am 9. April 1865",
+        "Das Treffen zwischen General Lee und General Grant fand im Wohnzimmer des McLean-Hauses statt",
+        "Ulysses S. Grant gewährte sehr großzügige Bedingungen (Offiziere durften ihre Pferde behalten)",
+        "Markiert das de-facto Ende des verheerenden Amerikanischen Bürgerkriegs",
+        "Das heutige McLean House ist eine genaue Rekonstruktion aus dem Jahr 1949",
+        "Wilmer McLean zog ironischerweise hierher, um dem Krieg zu entkommen (die erste Schlacht fand auf seinem alten Land statt)"
+      ]
+    },
+    {
+      "id": "antietam-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Antietam bei Sharpsburg in Maryland war der Schauplatz des blutigsten Einzeltages in der gesamten amerikanischen Militärgeschichte. Am 17. September 1862 stieß die konföderierte Army of Northern Virginia unter Robert E. Lee auf die unionistische Army of the Potomac unter George B. McClellan. In nur zwölf Stunden Kampf entlang des Antietam Creek gab es entsetzliche 23.000 Tote, Verwundete und Vermisste (berühmt wurden die Kämpfe am 'Cornfield', der 'Sunken Road' und der 'Burnside Bridge'). Obwohl die Schlacht taktisch eher in einem Unentschieden endete, zog sich Lee nach Virginia zurück. Dieser dringend benötigte strategische Sieg gab Präsident Abraham Lincoln die entscheidende politische Deckung, um die Emanzipationsproklamation zu erlassen, die die Sklavenbefreiung zum offiziellen Kriegsziel machte. Geschichte K8 — Der blutigste Tag und die Emanzipationsproklamation.",
+      "factsAdvanced": [
+        "Der 17. September 1862 gilt mit fast 23.000 Opfern als der blutigste Einzeltag der US-Geschichte",
+        "Der strategische Sieg der Union erlaubte Lincoln die Verkündung der Emanzipationsproklamation",
+        "Besonders brutale Kämpfe fanden auf einem kleinen Maisfeld ('The Cornfield') statt",
+        "Die berühmte Burnside Bridge wurde stundenlang von wenigen Konföderierten massiv verteidigt",
+        "Verhinderte, dass europäische Mächte (England/Frankreich) die Konföderation diplomatisch anerkannten",
+        "Das Schlachtfeld ist heute eines der am besten erhaltenen des gesamten Krieges"
+      ]
+    },
+    {
+      "id": "harpers-ferry-history-v2",
+      "descriptionAdvanced": "Harpers Ferry ist ein historisch unfassbar bedeutsames Städtchen in West Virginia, gelegen an dem spektakulären, tief eingeschnittenen Zusammenfluss von Potomac River und Shenandoah River. Hier betrieb die US-Regierung ein massives Waffenarsenal. Die Stadt ging am 16. Oktober 1859 in die Weltgeschichte ein, als der radikale Abolitionist John Brown mit einer kleinen Gruppe Unterstützer das Arsenal überfiel, um einen bewaffneten Sklavenaufstand im gesamten Süden auszulösen. Der Überfall scheiterte katastrophal; Brown wurde von US-Marines unter Robert E. Lee gefangen genommen und gehängt. Dieser Überfall elektrisierte und spaltete die Nation jedoch massiv und gilt als einer der wichtigsten Auslöser des Amerikanischen Bürgerkriegs. Während des Krieges wechselte die strategisch wichtige Stadt mehrfach den Besitzer. Geschichte K8 — Radikaler Abolitionismus und der Vorabend des Bürgerkriegs.",
+      "factsAdvanced": [
+        "Strategisch gelegen am dramatischen Zusammenfluss von Potomac und Shenandoah River",
+        "Heimat eines massiven, historischen US-Waffenarsenals, das 1859 Ziel eines Überfalls wurde",
+        "Der Überfall von John Brown (1859) scheiterte, verschärfte aber extrem den Nord-Süd-Konflikt",
+        "Im Bürgerkrieg ergaben sich hier 1862 über 12.000 Unionstruppen an General Stonewall Jackson",
+        "Gehört heute zum National Historical Park und ist ein beliebtes Ziel am Appalachian Trail",
+        "Der Lower Town-Bereich wurde oft von katastrophalen Flussüberschwemmungen verwüstet"
+      ]
+    },
+    {
+      "id": "promontory-summit-history-v2",
+      "descriptionAdvanced": "Promontory Summit, im wüstenartigen Norden von Utah gelegen, ist der historische Treffpunkt, an dem die Erste Transkontinentale Eisenbahn der Vereinigten Staaten vollendet wurde. Am 10. Mai 1869 stießen hier die von Sacramento (Westen) kommenden Gleise der Central Pacific Railroad auf die von Omaha (Osten) vorangetriebenen Schienen der Union Pacific Railroad. Mit dem feierlichen Einschlagen des 'Golden Spike' (Goldener Nagel) wurde der amerikanische Kontinent technologisch und wirtschaftlich revolutioniert; eine monatelange, extrem gefährliche Planwagenreise wurde auf eine sechstägige, bequeme Zugfahrt reduziert. Diese monumentale Ingenieursleistung, massiv getragen von chinesischen und irischen Einwanderern, beschleunigte die Besiedlung des Westens drastisch und veränderte das Land für immer. Wirtschaft K8 — Die Transkontinentale Eisenbahn und die Vernetzung eines Kontinents.",
+      "factsAdvanced": [
+        "Ort der Fertigstellung der ersten transkontinentalen Eisenbahn am 10. Mai 1869",
+        "Verband das Schienennetz der Union Pacific (aus Osten) mit dem der Central Pacific (aus Westen)",
+        "Die Zeremonie ist berühmt für das Einschlagen des feierlichen 'Golden Spike'",
+        "Verkürzte die Reisedauer quer durch Amerika von sechs Monaten auf knapp eine Woche",
+        "Wurde 1904 umgangen (durch das Lucin Cutoff über den Salzsee) und das alte Gleis abgebaut",
+        "Heute eine National Historic Site, wo die historischen Loks (Jupiter und No. 119) nachgebaut wurden"
+      ]
+    },
+    {
+      "id": "chaco-canyon-history-v2",
+      "descriptionAdvanced": "Der Chaco Canyon (Chaco Culture National Historical Park) in der kargen Wüstenlandschaft von New Mexico war zwischen 850 und 1250 n. Chr. das unbestrittene kulturelle, religiöse und politische Zentrum der alten Pueblo-Völker. Die Architektur hier ist für Nordamerika präkolumbianisch unerreicht: Gigantische mehrstöckige Steingebäude, sogenannte 'Great Houses' (wie Pueblo Bonito mit über 600 Räumen), wurden mit enormer Präzision und ohne Metallwerkzeuge errichtet. Viele dieser massiven Gebäude sind exakt nach astronomischen Zyklen der Sonne und des Mondes ausgerichtet. Ein ausgeklügeltes, meilenweites Straßensystem verband den Canyon mit Außenposten. Trotz der unwirtlichen Wüste florierte hier ein gigantisches Handelszentrum, das bis nach Mesoamerika (Kakaobohnen, Ara-Federn) reichte. Geschichte K7 — Astronomie und Ingenieurskunst der Pueblo-Kultur.",
+      "factsAdvanced": [
+        "Eines der wichtigsten zeremoniellen Zentren der präkolumbianischen Pueblo-Kulturen",
+        "Pueblo Bonito war das größte mehrstöckige Bauwerk in Nordamerika bis ins 19. Jahrhundert",
+        "Die monumentalen Steingebäude ('Great Houses') wurden oft nach astronomischen Punkten ausgerichtet",
+        "Ein gigantisches, meilenweites prähistorisches Straßensystem lief hier sternförmig zusammen",
+        "Beweise zeigen regen Handel mit dem fernen Mittelamerika (z.B. Papageienfedern und Kakao)",
+        "Wurde als UNESCO-Weltkulturerbe klassifiziert und liegt extrem isoliert in der Wüste"
+      ]
+    },
+    {
+      "id": "serpent-mound-history-v2",
+      "descriptionAdvanced": "Der Serpent Mound im ländlichen Südwesten von Ohio ist das weltweit größte und beeindruckendste Beispiel für ein prähistorisches Bildnis ('Effigy Mound'). Dieses monumentale Erdwerk, das sich über fast 400 Meter in der Form einer sich windenden Schlange entlang eines steilen Flussufers schlängelt, wurde vor über 1.000 Jahren von den indigenen Völkern der Fort Ancient-Kultur (oder früher der Adena-Kultur) errichtet. Der Kopf der Schlange scheint ein offenes Maul zu haben, das nach einem Ei oder der Sonne schnappt. Forschungen haben gezeigt, dass die Krümmungen der gigantischen Erdschlange exakt auf die Mond- und Sonnenwenden sowie auf Tagundnachtgleichen ausgerichtet sind, was eine extrem komplexe astronomische Kenntnis der Erbauer beweist. Es wurden hier keine Gräber gefunden, was auf eine rein zeremonielle Funktion hindeutet. Geographie K7 — Prähistorische Erdwerke und indigene Astronomie.",
+      "factsAdvanced": [
+        "Das weitaus größte prähistorische Erd-Bildnis (Effigy Mound) auf dem gesamten Planeten",
+        "Erstreckt sich auf einer Länge von 411 Metern und gleicht einer sich windenden Schlange",
+        "Wird auf Basis von Kohlenstoffdatierungen auf die Fort Ancient Kultur (ca. 1070 n.Chr.) geschätzt",
+        "Die Krümmungen der Schlange sind nach astronomischen Ereignissen (Sonnenwenden) ausgerichtet",
+        "Es wurden keine Bestattungen im Mound gefunden, es diente rein zeremoniellen Zwecken",
+        "Liegt kurioserweise direkt am Rand eines extrem alten, erodierten Meteoritenkraters"
+      ]
+    },
+    {
+      "id": "taos-pueblo-history-v2",
+      "descriptionAdvanced": "Das Taos Pueblo im Norden von New Mexico, idyllisch gelegen am Fuß der steilen Sangre de Cristo Mountains, ist eine der faszinierendsten lebendigen Siedlungen Nordamerikas. Seit über 1.000 Jahren ist dieses Dorf von den Tiwa-sprachigen Indigenen kontinuierlich bewohnt. Die atemberaubenden, mehrstöckigen Wohnkomplexe (bestehend aus reinem Lehm und Stroh, sogenanntem Adobe) wurden in aufeinanderfolgenden Terrassen errichtet und vermitteln einen perfekten Eindruck der vor-europäischen Architektur. Noch heute leben viele Bewohner extrem traditionell in den historischen Strukturen, streng ohne fließendes Wasser oder Elektrizität innerhalb der alten Mauern. Das Taos Pueblo ist das einzige lebende indianische Gemeinwesen, das sowohl als National Historic Landmark als auch als UNESCO-Weltkulturerbe gewürdigt wird. Geschichte K7 — Die Architektur und Kontinuität der Pueblo-Völker.",
+      "factsAdvanced": [
+        "Eines der ältesten kontinuierlich bewohnten Dörfer in den Vereinigten Staaten (über 1000 Jahre)",
+        "Berühmt für die markanten mehrstöckigen, terrassenförmigen Adobe-Lehmbauten",
+        "In den historischen Wohnungen gibt es bis heute strikt kein fließendes Wasser und keinen Strom",
+        "Der Río Pueblo de Taos, der direkt durch das Dorf fließt, ist die heilige Trinkwasserquelle",
+        "Die Bewohner sprechen traditionell Tiwa und bewahren ihre stark geheimen religiösen Riten",
+        "Ist sowohl eine National Historic Landmark als auch ein UNESCO-Weltkulturerbe"
+      ]
+    },
+    {
+      "id": "st-augustine-history-v2",
+      "descriptionAdvanced": "St. Augustine, an der nordöstlichen Küste Floridas gelegen, ist historisch die absolut älteste durchgehend bewohnte von Europäern gegründete Stadt auf dem amerikanischen Festland (innerhalb der heutigen USA). Sie wurde 1565 von dem spanischen Admiral Pedro Menéndez de Avilés gegründet – unglaubliche 42 Jahre vor der englischen Siedlung Jamestown. Die Stadt diente über Jahrhunderte als massiver militärischer Vorposten zur Verteidigung der spanischen Schatzflotten gegen britische Piraten und Angriffe aus Carolina. Das gewaltige, im 17. Jahrhundert aus Muschelkalk ('Coquina') erbaute Castillo de San Marcos ist die älteste Steinfestung der USA. Die Stadt ist ein faszinierendes Labyrinth aus engen Gassen, spanischer Kolonialarchitektur und einer komplexen Geschichte von Belagerungen und Piratenüberfällen. Geschichte K7 — Die frühe spanische Kolonisation Floridas.",
+      "factsAdvanced": [
+        "1565 durch Spanien gegründet, ist es die älteste kontinuierliche europäische Stadt der USA",
+        "Wurde lange vor Jamestown (1607) und der Landung der Mayflower (1620) besiedelt",
+        "Das Castillo de San Marcos (erbaut 1672) ist das älteste gemauerte Fort der USA",
+        "Die Festung wurde aus 'Coquina' (komprimierten Muschelschalen) gebaut, das Kanonenkugeln absorbierte",
+        "Wurde im späten 16. Jahrhundert durch den berühmten Freibeuter Sir Francis Drake niedergebrannt",
+        "Das Kolonialviertel bewahrt immer noch den strengen spanischen Stadtgrundriss von 1573"
+      ]
+    },
+    {
+      "id": "mission-san-juan-capistrano-history-v2",
+      "descriptionAdvanced": "Die Mission San Juan Capistrano in Südkalifornien (Orange County) wird aufgrund ihrer tiefen historischen und romantischen Aura oft als das 'Juwel der kalifornischen Missionen' bezeichnet. Sie wurde 1776 von dem spanischen Franziskanerpater Junípero Serra als siebte von 21 Missionen entlang der kalifornischen Küste ('El Camino Real') gegründet, um die indigene Acjachemen-Bevölkerung zu konvertieren und das Gebiet für Spanien zu sichern. Das beeindruckendste Bauwerk, die riesige Steinkirche ('Great Stone Church'), wurde 1812 durch ein katastrophales Erdbeben schwer zerstört, und ihre massiven Ruinen stehen bis heute. International bekannt ist die Mission für das Naturphänomen der Klippenschwalben ('Swallows'), die angeblich jeden Frühling am St. Josephs-Tag aus Argentinien zu ihren Nestern in den alten Ruinen zurückkehren. Geschichte K7 — Spanische Missionen und die Kolonisierung Kaliforniens.",
+      "factsAdvanced": [
+        "1776 gegründet, ist sie die siebte von 21 historischen spanischen Missionen in Kalifornien",
+        "Trägt den Beinamen 'Jewel of the Missions' wegen ihrer prachtvollen Gärten und Architektur",
+        "Die gewaltige Steinkirche stürzte 1812 bei einem Erdbeben ein und tötete 40 Ureinwohner",
+        "Besitzt die Serra-Kapelle (1782), das älteste noch genutzte Gebäude in ganz Kalifornien",
+        "Weltberühmt für die angebliche pünktliche Rückkehr der Schwalben an jedem 19. März",
+        "Zeugt von der erzwungenen kulturellen Umwandlung der lokalen indigenen Bevölkerung (Acjachemen)"
+      ]
+    },
+    {
+      "id": "manzanar-history-v2",
+      "descriptionAdvanced": "Manzanar, gelegen im trockenen und unwirtlichen Owens Valley im Osten Kaliforniens am Fuße der steilen Sierra Nevada, ist ein düsteres Mahnmal der amerikanischen Geschichte. Es war eines von zehn massiven Internierungslagern, in denen die US-Regierung während des Zweiten Weltkriegs über 110.000 Amerikaner japanischer Abstammung (die meisten davon US-Bürger) unschuldig inhaftierte. Nach dem Angriff auf Pearl Harbor 1941 führte rassistische Hysterie zur Executive Order 9066 durch Präsident Roosevelt. Ab 1942 lebten in Manzanar bis zu 10.000 Menschen in hastig errichteten, isolationsarmen Baracken, bewacht von Stacheldraht und bewaffneten Wachen. Die Inhaftierten versuchten jedoch durch den Bau von japanischen Gärten, Schulen und landwirtschaftlichen Farmen einen Alltag zu schaffen. Heute erinnert die National Historic Site schmerzhaft an diesen massiven Bruch der Bürgerrechte. Geschichte K8 — Rassismus und die Internierung japanischstämmiger Amerikaner.",
+      "factsAdvanced": [
+        "War von 1942 bis 1945 eines von zehn Internierungslagern für japanischstämmige Amerikaner",
+        "Basierte auf der rassistisch motivierten Executive Order 9066 von Franklin D. Roosevelt",
+        "Bis zu 10.000 inhaftierte Menschen lebten unter harten Wüstenbedingungen in Baracken",
+        "Zwei Drittel der Internierten waren in den USA geborene amerikanische Staatsbürger",
+        "Ein massiver weißer Obelisk, der 'Soul Consoling Tower', wurde von Inhaftierten errichtet",
+        "Ein bedrückendes Beispiel dafür, wie Verfassungsrechte während Kriegszeiten ausgesetzt wurden"
+      ]
+    },
+    {
+      "id": "wounded-knee-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Wounded Knee, gelegen in der Pine Ridge Indian Reservation in South Dakota, ist der historische Schauplatz einer der tragischsten und brutalsten Episoden der amerikanischen Indianerkriege. Am 29. Dezember 1890 versuchte das 7. US-Kavallerie-Regiment (Custers ehemalige Einheit) das Lager des Miniconjou-Häuptlings Big Foot zu entwaffnen, nachdem die religiöse Geistertanz-Bewegung zu Panik unter weißen Siedlern geführt hatte. Als sich ein Schuss versehentlich löste, eröffneten die US-Truppen mit schweren Schnellfeuerwaffen (Hotchkiss-Kanonen) wahllos das Feuer. Mehr als 250 unbewaffnete Männer, Frauen und Kinder der Lakota wurden brutal massakriert. Wounded Knee markierte das absolute Ende des bewaffneten indigenen Widerstands in den Great Plains und bleibt bis heute ein massives Symbol für Unterdrückung und historische Wunden. Geschichte K8 — Das Wounded-Knee-Massaker und das Ende der Indianerkriege.",
+      "factsAdvanced": [
+        "Schauplatz des Massakers vom 29. Dezember 1890 durch das 7. US-Kavallerieregiment",
+        "Über 250 unbewaffnete indigene Männer, Frauen und Kinder wurden brutal erschossen",
+        "Der Vorfall wurde durch Hysterie über den friedlichen religiösen 'Geistertanz' ausgelöst",
+        "Markiert das historische und psychologische Ende der US-Indianerkriege in den Plains",
+        "Die Opfer wurden massiv und respektlos in einem einzigen großen Massengrab beerdigt",
+        "1973 wurde der Ort durch das American Indian Movement (AIM) medienwirksam besetzt"
+      ]
+    },
+    {
+      "id": "angel-island-immigration-station-history-v2",
+      "descriptionAdvanced": "Die Einwanderungsstation auf Angel Island, oft als das 'Ellis Island des Westens' bezeichnet, liegt in der Bucht von San Francisco. Zwischen 1910 und 1940 fungierte die Station als massives Hauptportal für Hunderttausende Einwanderer, hauptsächlich aus Asien (vor allem China und Japan). Im krassen Gegensatz zu Ellis Island, wo die Durchreise meist rasch erfolgte, war Angel Island stark von den rassistischen Ausgrenzungsgesetzen (wie dem Chinese Exclusion Act von 1882) geprägt. Chinesische Einwanderer wurden oft wochen- oder monatelang in kargen Baracken festgehalten und harten Verhören unterzogen. Während dieser zermürbenden Isolation ritzten viele Inhaftierte aus Verzweiflung klassische chinesische Gedichte tief in die Holzwände der Station, die heute als ergreifendes historisches Mahnmal der Migrationsgeschichte dienen. Geschichte K8 — Asiatische Einwanderung und der Chinese Exclusion Act.",
+      "factsAdvanced": [
+        "Fungierte von 1910 bis 1940 als zentrales Einwanderungslager an der Westküste",
+        "Wurde oft zur strengen Durchsetzung des Chinese Exclusion Act von 1882 genutzt",
+        "Einwanderer, vor allem aus China, wurden oft über viele Monate hinweg festgehalten und verhört",
+        "Hunderte von Gedichten wurden aus Verzweiflung heimlich in die Holzwände geschnitzt",
+        "Wird aufgrund seiner Isolationsfunktion oft als 'Ellis Island des Westens' bezeichnet",
+        "Die Station wurde nach einem Feuer 1940 aufgegeben und fast abgerissen"
+      ]
+    },
+    {
+      "id": "shiloh-national-military-park-history-v2",
+      "descriptionAdvanced": "Der Shiloh National Military Park im Südwesten von Tennessee bewahrt das Schlachtfeld einer der brutalsten und verlustreichsten Auseinandersetzungen im westlichen Schauplatz des Amerikanischen Bürgerkriegs. Am 6. und 7. April 1862 wurden die Unionstruppen unter Ulysses S. Grant hier massiv und überraschend von der konföderierten Armee unter Albert Sidney Johnston angegriffen. Die Kämpfe konzentrierten sich auf dichte Waldstücke (das berühmte 'Hornet's Nest' - Wespennest), in denen Tausende fielen. Obwohl Grant die Konföderierten am zweiten Tag zurückschlug, waren die Verluste auf beiden Seiten mit fast 24.000 Opfern so unfassbar hoch, dass die amerikanische Öffentlichkeit völlig schockiert realisierte, dass der Krieg lang und extrem blutig werden würde. Der Park enthält zudem einen der größten indianischen Hügelkomplexe (Shiloh Indian Mounds). Geschichte K8 — Die Schlacht von Shiloh und das Ausmaß des Bürgerkriegs.",
+      "factsAdvanced": [
+        "Schauplatz einer massiven, extrem blutigen Bürgerkriegsschlacht im April 1862",
+        "Die Verluste (ca. 24.000 Opfer) waren höher als in allen vorherigen US-Kriegen zusammen",
+        "Das Zentrum der heftigsten Kämpfe wurde als 'Hornet's Nest' (Wespennest) berühmt",
+        "Der konföderierte General Albert Sidney Johnston fiel hier als ranghöchster Offizier des Krieges",
+        "Der Park bewahrt auch bedeutende 800 Jahre alte prähistorische indianische Erdhügel (Mounds)",
+        "Die National Cemetery von Shiloh birgt tausende unbekannte Soldatengräber"
+      ]
+    },
+    {
+      "id": "vicksburg-national-military-park-history-v2",
+      "descriptionAdvanced": "Der Vicksburg National Military Park am Mississippi River in Mississippi dokumentiert eine der strategisch absolut entscheidendsten Kampagnen des Amerikanischen Bürgerkriegs. Die hoch gelegene, stark befestigte Stadt Vicksburg ('Der Gibraltar des Südens') kontrollierte den gesamten Schiffsverkehr auf dem Mississippi. Im Sommer 1863 belagerten die Unionstruppen unter General Ulysses S. Grant die Stadt massiv für 47 Tage. Zivilisten und Soldaten hungerten und mussten in Höhlen leben. Mit der Kapitulation Vicksburgs am 4. Juli 1863 – ironischerweise am selben Tag, an dem Lee in Gettysburg verlor – erlangte die Union die vollständige Kontrolle über den mächtigen Fluss und spaltete die Konföderation geografisch in zwei Hälften. Der riesige Park ist berühmt für seine kilometerlangen erhaltenen Schützengräben und das restaurierte Kanonenboot USS Cairo. Geschichte K8 — Die Belagerung von Vicksburg und die Kontrolle des Mississippis.",
+      "factsAdvanced": [
+        "Schauplatz der 47-tägigen Belagerung durch Ulysses S. Grant im Sommer 1863",
+        "Die Kapitulation am 4. Juli 1863 spaltete die Konföderation effektiv in zwei Hälften",
+        "Die stark befestigte Stadt wurde oft als das 'Gibraltar der Konföderation' bezeichnet",
+        "Zivilisten überlebten den massiven Artilleriebeschuss, indem sie Höhlen in Lehmhügel gruben",
+        "Der Park verfügt über mehr als 1.300 Denkmäler und extrem gut erhaltene Schützengräben",
+        "Beherbergt die USS Cairo, das erste gepanzerte US-Kanonenboot, das jemals geborgen wurde"
+      ]
+    },
+    {
+      "id": "trinity-site-history-v2",
+      "descriptionAdvanced": "Die Trinity Site, gelegen in der abgelegenen Wüste Jornada del Muerto (Jornada del Muerto) im White Sands Missile Range in New Mexico, ist der historische Ort der Geburt des Atomzeitalters. Hier wurde am 16. Juli 1945 um 5:29 Uhr morgens die weltweit erste Atombombe im Rahmen des hochgeheimen Manhattan-Projekts (geleitet von J. Robert Oppenheimer) erfolgreich gezündet. Die gigantische Explosion der Plutoniumbombe (Codename 'The Gadget') verdampfte den stählernen Testturm völlig, schmolz den Wüstensand zu grünlichem Glas (Trinitit) und läutete eine neue Ära der globalen Kriegsführung und der internationalen Politik (Kalter Krieg) ein. Der Ground Zero ist heute durch einen einfachen Lava-Obelisken markiert und aus Strahlenschutz- und Sicherheitsgründen für die Öffentlichkeit nur an zwei Tagen im Jahr zugänglich. Geschichte K8 — Das Manhattan-Projekt und der Beginn des Atomzeitalters.",
+      "factsAdvanced": [
+        "Ort der Detonation der ersten Atombombe der Welt am 16. Juli 1945",
+        "Teil des ultrageheimen 'Manhattan Project' unter Leitung von J. Robert Oppenheimer",
+        "Die Explosion schmolz den Wüstensand zu einem einzigartigen grünen Glas namens 'Trinitit'",
+        "Ein Obelisk aus Vulkangestein markiert den exakten 'Ground Zero'",
+        "Das Gelände ist streng militärisch und nur an zwei Tagen im Jahr für die Öffentlichkeit zugänglich",
+        "Die Bombe besaß eine gigantische Sprengkraft von rund 21 Kilotonnen TNT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toliara-sands-economic-v2",
+      "descriptionAdvanced": "Das Toliara Sands Projekt (Ranobe) ist ein geplantes, großes Bergbauvorhaben nördlich von Toliara im Südwesten Madagaskars. Ziel ist der Abbau massiver Vorkommen von schweren Mineralsanden, insbesondere Ilmenit, Zirkon und Rutil, die in den trockenen Dünen und Küstenwäldern lagern. Das Projekt, das von internationalen Konzernen (Base Resources) getragen wird, stieß jedoch auf starken lokalen Widerstand und Proteste von Naturschützern und Anwohnern, die um ihre Lebensgrundlagen und die einzigartigen Mikea-Wälder fürchteten, was zu Verzögerungen führte. Wirtschaft K8 — Ressourcenabbau und Umweltkonflikte.",
+      "factsAdvanced": [
+        "Geplantes Großbergbauprojekt für schwere Mineralsande (Ilmenit, Zirkon)",
+        "Befindet sich im Gebiet Ranobe, nördlich der Stadt Toliara",
+        "Projekt wird durch den internationalen Konzern Base Resources vorangetrieben",
+        "Auf Eis gelegt durch massive Proteste lokaler Gemeinden und Umweltschützer",
+        "Abbaugebiet überschneidet sich mit dem Lebensraum der indigenen Mikea",
+        "Bedroht Teile der hochgradig endemischen südwestlichen Dornenwälder"
+      ]
+    },
+    {
+      "id": "savonnerie-tropicale-economic-v2",
+      "descriptionAdvanced": "Die Savonnerie Tropicale ist eines der bekanntesten Seifen- und Ölunternehmen in Madagaskar. Das Hauptwerk in Toamasina verarbeitet pflanzliche Öle, insbesondere Palmöl, Kokosöl und andere pflanzliche Fette, zu Seifenprodukten und Speiseölen für den lokalen Markt. Als eines der wichtigsten Agroindustrie-Unternehmen an der Ostküste versucht die Savonnerie, die Abhängigkeit des Landes von importierten Seifen zu verringern, kämpft jedoch mit Herausforderungen in der lokalen Rohstoffbeschaffung. Wirtschaft K5 — Agroindustrie und Konsumgüter.",
+      "factsAdvanced": [
+        "Bedeutender madagassischer Hersteller von Seifen und Speiseölen",
+        "Produktionsanlagen befinden sich primär in der Hafenstadt Toamasina",
+        "Verarbeitet große Mengen an lokalem Palm- und Kokosnussöl",
+        "Produkte zielen vorwiegend auf den heimischen Massenmarkt ab",
+        "Wichtiges Beispiel für lokale Wertschöpfung in der Agrarindustrie",
+        "Kämpft oft mit der starken Konkurrenz durch asiatische Importprodukte"
+      ]
+    },
+    {
+      "id": "jb-confectionery-economic-v2",
+      "descriptionAdvanced": "Die JB-Gruppe (Biscuiterie JB) ist das größte und bekannteste madagassische Unternehmen in der Herstellung von Keksen, Süßwaren und Snacks. Die Fabrikanlagen befinden sich im industriellen Gürtel der Hauptstadt Antananarivo. Die Produkte von JB sind allgegenwärtig in fast jedem kleinen Lebensmittelladen (Épicerie) im Land und tief im madagassischen Alltag verankert. Das Unternehmen nutzt sowohl importierten Weizen als auch lokalen Zucker und zeigt den wachsenden madagassischen Konsumgütermarkt. Wirtschaft K5 — Lebensmittelproduktion.",
+      "factsAdvanced": [
+        "Größter Hersteller von Keksen und Süßwaren auf Madagaskar",
+        "Fabrikanlagen befinden sich in der Hauptstadt Antananarivo",
+        "Produkte sind landesweit in fast jedem Lebensmittelgeschäft verfügbar",
+        "Verwendet eine Mischung aus importiertem Weizen und lokalem Zucker",
+        "Wichtiger Arbeitgeber im industriellen Sektor der Hauptstadt",
+        "Marke hat einen sehr hohen Bekanntheitsgrad in der madagassischen Bevölkerung"
+      ]
+    },
+    {
+      "id": "tsimiroro-oil-economic-v2",
+      "descriptionAdvanced": "Das Tsimiroro-Ölfeld im Westen Madagaskars (Region Melaky) ist eines der größten Schweröl-Vorkommen Afrikas. Das von der Firma Madagascar Oil betriebene Projekt fördert extrem viskoses, schweres Erdöl, das mithilfe von Dampfinjektion (Steam Flood) an die Oberfläche gepumpt werden muss. Das Schweröl wird vorwiegend zur Befeuerung von Schweröl-Kraftwerken für die nationale madagassische Stromproduktion (JIRAMA) genutzt. Das Projekt ist ein wichtiger Schritt zur Verringerung der Energieabhängigkeit, obwohl die Infrastruktur logistisch anspruchsvoll ist. Wirtschaft K8 — Fossile Energien.",
+      "factsAdvanced": [
+        "Bedeutendes Schwerölfeld in der Morondava-Senke im Westen",
+        "Wird vom Unternehmen Madagascar Oil erschlossen und betrieben",
+        "Öl ist extrem dickflüssig und muss durch Dampfinjektion gefördert werden",
+        "Wird genutzt, um staatliche Kraftwerke (JIRAMA) mit Brennstoff zu versorgen",
+        "Soll Madagaskars Abhängigkeit von teuren importierten Brennstoffen senken",
+        "Logistik ist schwierig wegen fehlender Straßen- und Pipeline-Infrastruktur"
+      ]
+    },
+    {
+      "id": "bemolanga-tar-sands-economic-v2",
+      "descriptionAdvanced": "Das Bemolanga-Feld im Morondava-Becken im Westen Madagaskars beherbergt eines der größten Teersandvorkommen (Bitumen) der Welt außerhalb Kanadas. Im Gegensatz zum flüssigeren Schweröl in Tsimiroro ist das Bitumen in Bemolanga fest im Sandstein gebunden und muss ähnlich wie im Bergbau abgebaut und danach aufwendig getrennt werden. Verschiedene internationale Konsortien (wie TotalEnergies) haben die Machbarkeit untersucht, die hohen Kosten und Umweltrisiken haben eine großflächige kommerzielle Ausbeutung jedoch bisher verzögert. Wirtschaft K8 — Unkonventionelle Energien.",
+      "factsAdvanced": [
+        "Zählt zu den größten Teersandvorkommen (Bitumen) der Welt",
+        "Befindet sich im abgelegenen Morondava-Becken im Westen",
+        "Bitumen muss bergmännisch abgebaut und durch Hitze vom Sand getrennt werden",
+        "Wurde intensiv von internationalen Konzernen (z.B. Total) evaluiert",
+        "Hohe Förderkosten und Umweltbedenken verzögerten die Umsetzung",
+        "Vorkommen wurden bereits in den 1920er Jahren entdeckt"
+      ]
+    },
+    {
+      "id": "sakoa-coal-economic-v2",
+      "descriptionAdvanced": "Das Sakoa-Kohlefeld im Südwesten Madagaskars, nahe der Stadt Bezaha, ist das einzige wirtschaftlich bedeutende Steinkohlevorkommen des Landes. Die Kohlevorkommen wurden in der Kolonialzeit entdeckt und phasenweise abgebaut, um Züge und Schiffe zu betreiben. Heute gibt es Bestrebungen, den Abbau im großen Stil für den Export (hauptsächlich nach Indien und China) wieder aufzunehmen. Das Projekt erfordert jedoch massive Investitionen in die Infrastruktur, einschließlich einer neuen Eisenbahnlinie zum Bau eines neuen Hafens im Südwesten. Wirtschaft K7 — Kohlebergbau und Infrastruktur.",
+      "factsAdvanced": [
+        "Einziges nachgewiesenes großes Steinkohlevorkommen auf Madagaskar",
+        "Gelegen im Sakoa-Becken im trockenen Südwesten des Landes",
+        "Kohle wurde historisch während der Kolonialzeit abgebaut",
+        "Aktuelle Großprojekte zielen auf den Export nach Asien (Indien/China) ab",
+        "Erfordert den Bau einer neuen Eisenbahnlinie und eines Hafens (Soalara)",
+        "Reserven werden auf mehrere hundert Millionen Tonnen geschätzt"
+      ]
+    },
+    {
+      "id": "fanalamanga-forestry-economic-v2",
+      "descriptionAdvanced": "Fanalamanga ist ein staatlich kontrolliertes madagassisches Forstwirtschaftsunternehmen in der Region Alaotra-Mangoro, rund um Moramanga. Das Unternehmen verwaltet riesige Plantagen von Kiefern (Pinus) und Eukalyptusbäumen, die während der französischen Kolonialzeit angelegt wurden. Fanalamanga produziert große Mengen an Holz, Bauholz und vor allem Harz für den Export und den heimischen Markt. Die künstlichen Plantagen sind wirtschaftlich enorm wichtig, stehen jedoch ökologisch im Kontrast zu den artenreichen, natürlichen Regenwäldern der Region. Wirtschaft K6 — Forstwirtschaft.",
+      "factsAdvanced": [
+        "Größtes Forstwirtschaftsunternehmen in staatlichem Besitz auf Madagaskar",
+        "Verwaltet zehntausende Hektar künstlicher Kiefern- und Eukalyptuswälder",
+        "Hauptstandort ist Moramanga in der Region Alaotra-Mangoro",
+        "Produziert große Mengen an industriellem Bauholz und Baumharz",
+        "Wichtiger Arbeitgeber für die lokale Landbevölkerung",
+        "Wälder wurden ursprünglich im frühen 20. Jahrhundert angelegt"
+      ]
+    },
+    {
+      "id": "pecheries-nosy-be-economic-v2",
+      "descriptionAdvanced": "Les Pêcheries de Nosy Be (PNB) ist eines der historischen Zentren der industriellen Fischerei und Garnelenzucht auf Madagaskar. Das Unternehmen mit Sitz auf der Insel Nosy Be war Pionier in der kommerziellen Ausbeutung von Meeresfrüchten im Kanal von Mosambik, wo große Mengen an Garnelen (Camarons) gefangen und für den Export nach Europa und Asien schockgefroren wurden. In den letzten Jahrzehnten hat sich die Industrie teilweise von der Wildfischerei zur umweltschonenderen marinen Aquakultur (Garnelenzucht) verlagert. Wirtschaft K6 — Industrielle Fischerei und Aquakultur.",
+      "factsAdvanced": [
+        "Historisch bedeutendes Zentrum der madagassischen Fischereiindustrie",
+        "Standort ist die Nordwestküste um die Insel Nosy Be",
+        "Spezialisiert auf den Fang und Export von Riesengarnelen (Camarons)",
+        "Garnelen zählen zu den wichtigsten Devisenbringern Madagaskars",
+        "Industrie hat sich zunehmend in Richtung Garnelenzucht (Aquakultur) verlagert",
+        "Betrieb von großen Flotten von Tiefkühl-Trawlern im Kanal von Mosambik"
+      ]
+    },
+    {
+      "id": "somacou-textile-economic-v2",
+      "descriptionAdvanced": "Somacou ist ein bedeutendes madagassisches Textil- und Deckenunternehmen mit Sitz in Antananarivo. Das Unternehmen ist im ganzen Land berühmt für die Herstellung von dichten, warmen Wolldecken und Matratzenschonern, die im oft kühlen zentralen Hochland Madagaskars (wo es im Winter frieren kann) zur Grundausstattung der Haushalte gehören. Somacou steht für die erfolgreiche Binnenmarktproduktion und trotzt den massiven Importen von Billigtextilien aus Asien. Wirtschaft K5 — Heimtextilien und Binnenmarkt.",
+      "factsAdvanced": [
+        "Bekannter madagassischer Hersteller von Decken und Heimtextilien",
+        "Fabrikanlagen befinden sich im industriellen Umfeld der Hauptstadt",
+        "Spezialisiert auf dicke Wolldecken, die für das Hochlandklima wichtig sind",
+        "Marktführer auf dem madagassischen Binnenmarkt für Bettwaren",
+        "Produkte sind auf den lokalen Bedarf und nicht auf den Export ausgerichtet",
+        "Wichtiges Beispiel für lokale industrielle Resilienz gegen Importe"
+      ]
+    },
+    {
+      "id": "antsingy-port-economic-v2",
+      "descriptionAdvanced": "Der kleine Hafen von Antsingy (nahe Morafenobe) an der Westküste Madagaskars ist ein rudimentärer Umschlagplatz, der vor allem für den extrem abgelegenen Transport von Agrargütern und Rindern genutzt wird. Die fehlende Straßeninfrastruktur in der Melaky-Region bedeutet, dass kleine Küstenschiffe (Boutres) oft die einzige Möglichkeit sind, Güter nach Mahajanga oder Toliara zu transportieren. Die Anlagen sind minimal, und Fracht wird meist per Hand oder kleinen Beibooten be- und entladen. Geografie K5 — Küstenhandel und Isolation.",
+      "factsAdvanced": [
+        "Kleiner, rudimentärer Hafen an der unzugänglichen Westküste (Melaky)",
+        "Wichtig für die Kabotage (Küstenschifffahrt) aufgrund fehlender Straßen",
+        "Hauptumschlagplatz für landwirtschaftliche Güter und Vieh",
+        "Verfügt über keine moderne Tiefwasserinfrastruktur",
+        "Güter werden oft per Hand in traditionelle Segelboote (Boutres) verladen",
+        "Bietet eine lebenswichtige Verbindung zur Großstadt Mahajanga"
+      ]
+    },
+    {
+      "id": "maintirano-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Maintirano ist der wichtigste Seezugang für die isolierte Melaky-Region an der mittleren Westküste Madagaskars. Die Küste hier ist von Mangroven und Sandbänken geprägt, weshalb der Hafen nur für Schiffe mit geringem Tiefgang zugänglich ist. Maintirano exportiert vor allem getrockneten Fisch, Meeresfrüchte, Rinder und regionale Agrarprodukte. Während der Regenzeit, wenn die Nationalstraße RN8a in ein Schlammbad verwandelt wird, ist dieser kleine Hafen oft die einzige Versorgungsader für die Bevölkerung der Stadt. Geografie K6 — Isolation und Versorgung.",
+      "factsAdvanced": [
+        "Wichtigster Hafen der isolierten Melaky-Region im Westen",
+        "Nur für Küstenschiffe mit geringem Tiefgang erreichbar",
+        "Umschlagplatz für getrockneten Fisch, Krabben und Zebu-Rinder",
+        "Lebenswichtige Versorgungsader während der monatelangen Regenzeit",
+        "Küste ist von ausgedehnten Mangrovenwäldern gesäumt",
+        "Wartet seit Jahrzehnten auf strukturelle Modernisierung"
+      ]
+    },
+    {
+      "id": "sainte-marie-port-economic-v2",
+      "descriptionAdvanced": "Der kleine Hafen in Ambodifotatra auf der Insel Île Sainte-Marie (Nosy Boraha) ist das maritime Herzstück der Insel. Da die Insel über keinen großen Flughafen für schwere Fracht verfügt, laufen alle Versorgungsgüter für die Bevölkerung und die zahlreichen Touristenhotels über diesen Fährhafen. Er verbindet die Insel primär mit Soanierana Ivongo auf dem madagassischen Festland. In der Saison (Juli bis September) ist der Hafen zudem der geschäftige Ausgangspunkt für Dutzende kleiner Boote zur Buckelwal-Beobachtung. Wirtschaft K5 — Fährverkehr und Tourismus.",
+      "factsAdvanced": [
+        "Zentraler Fährhafen auf der Touristeninsel Île Sainte-Marie",
+        "Sichert die komplette Güterversorgung der Insel vom Festland",
+        "Hauptverbindungslinie führt nach Soanierana Ivongo an der Ostküste",
+        "Startpunkt für unzählige Boote zur Buckelwal-Beobachtung im Südwinter",
+        "Wird oft von rauer See und tropischen Zyklonen in Mitleidenschaft gezogen",
+        "Infrastruktur ist stark auf Personen- und Kleingüterverkehr ausgelegt"
+      ]
+    },
+    {
+      "id": "soavoanio-coconut-economic-v2",
+      "descriptionAdvanced": "Soavoanio (Société Sambava Voanio) ist eine gigantische staatlich-private Kokosnussplantage in Sambava, an der Nordostküste. Sie gilt als eine der größten zusammenhängenden Kokosplantagen der Welt und erstreckt sich über Tausende von Hektar entlang des Strandes. Die Plantage produziert riesige Mengen an Kokosnüssen, aus denen Kopra (getrocknetes Kokosfleisch) und Kokosöl für den Export und die heimische Seifenproduktion gewonnen werden. Trotz ihres Alters ist die symmetrisch gepflanzte Plantage eine beeindruckende Landmarke der Sava-Region. Wirtschaft K6 — Plantagenwirtschaft.",
+      "factsAdvanced": [
+        "Eine der größten Kokosnussplantagen der Welt (über 4.000 Hektar)",
+        "Gelegen in Sambava an der feuchten Nordostküste Madagaskars",
+        "Produziert vorwiegend Kopra und rohes Kokosöl",
+        "Bäume wurden streng symmetrisch entlang des Indischen Ozeans gepflanzt",
+        "Öl wird unter anderem für die madagassische Seifenindustrie genutzt",
+        "Wichtiger lokaler Arbeitgeber in einer sonst von Vanille dominierten Region"
+      ]
+    },
+    {
+      "id": "ambohimanga-royal-hill-history-v2",
+      "descriptionAdvanced": "Der Königshügel von Ambohimanga, nördlich von Antananarivo, ist die heiligste historische Stätte Madagaskars und UNESCO-Weltkulturerbe. Er war die spirituelle Hauptstadt des Merina-Königreichs und die Residenz von König Andrianampoinimerina, der im 18. Jahrhundert die Grundlagen für ein geeintes Madagaskar schuf. Die Anlage besteht aus einem Palastkomplex aus dunklem Holz, Opfersteinen, heiligen Quellen und mächtigen Steinmauern, deren Mörtel der Legende nach mit Eiweiß angerührt wurde. Der Ort ist bis heute ein wichtiges Pilgerziel. Geschichte K8 — Merina-Königreich und UNESCO-Stätten.",
+      "factsAdvanced": [
+        "UNESCO-Weltkulturerbe und heiligste Stätte der Merina",
+        "Ehemalige Residenz des Königs Andrianampoinimerina (18. Jh.)",
+        "Umschlossen von einer Festungsmauer, gemauert mit Eiklar-Mörtel",
+        "Beherbergt traditionelle Holzpaläste und königliche Königsgräber",
+        "Wichtiger Ort für Ahnenverehrung und rituelle Opfergaben",
+        "Liegt auf einem der zwölf heiligen Hügel Imerinas"
+      ]
+    },
+    {
+      "id": "rova-antananarivo-history-v2",
+      "descriptionAdvanced": "Der Rova von Antananarivo (Manjakamiadana) ist ein beeindruckender Palastkomplex, der auf dem höchsten Hügel der Hauptstadt thront. Er diente vom 17. bis ins späte 19. Jahrhundert als Hauptsitz der madagassischen Herrscher. Die Königinnen bauten ihn im 19. Jahrhundert massiv aus, unter anderem mit einem gewaltigen Holzpalast, der später von europäischen Architekten mit einer Steinfassade ummantelt wurde. Im Jahr 1995 wurde der gesamte Komplex bei einem verheerenden Brand fast vollständig zerstört und wird seitdem langsam wieder aufgebaut. Geschichte K7 — Königspaläste und Architektur.",
+      "factsAdvanced": [
+        "Ehemaliger Hauptsitz der madagassischen Könige und Königinnen",
+        "Thront auf dem Analamanga, dem höchsten Hügel der Hauptstadt",
+        "Hauptpalast (Manjakamiadana) hatte einen Holzkern mit Steinfassade",
+        "Ein Brand im Jahr 1995 zerstörte einen Großteil der historischen Bauten",
+        "Beherbergt die Steingräber der wichtigsten madagassischen Monarchen",
+        "Wird aktuell mit staatlichen Mitteln rekonstruiert"
+      ]
+    },
+    {
+      "id": "ile-sainte-marie-pirate-cemetery-history-v2",
+      "descriptionAdvanced": "Der Piratenfriedhof auf der kleinen Insel Île aux Forbans in der Bucht von Ambodifotatra (Île Sainte-Marie) ist ein einzigartiges Relikt aus dem Goldenen Zeitalter der Piraterie. Im 17. und frühen 18. Jahrhundert nutzten hunderte Freibeuter, darunter legendäre Namen wie Thomas Tew und William Kidd, die Insel als sicheren Hafen, um Schiffe auf der Gewürzroute zu überfallen. Der kleine, von Vegetation überwucherte Friedhof zeigt noch heute etwa 30 verwitterte Grabsteine, einige davon verziert mit dem klassischen Totenkopf-Motiv (Jolly Roger). Geschichte K6 — Piraterie im Indischen Ozean.",
+      "factsAdvanced": [
+        "Einer der wenigen authentischen Piratenfriedhöfe der Welt",
+        "Gelegen auf einer kleinen Insel vor der Île Sainte-Marie",
+        "Stammt aus dem Goldenen Zeitalter der Piraterie (17. - 18. Jh.)",
+        "Etwa 30 historische Grabsteine sind noch sichtbar",
+        "Einige Gräber tragen das klassische Jolly-Roger-Symbol",
+        "Piraten nutzten die Insel als Basis zum Überfall der Gewürzrouten"
+      ]
+    },
+    {
+      "id": "fianarantsoa-old-town-history-v2",
+      "descriptionAdvanced": "Die Altstadt von Fianarantsoa (Haute Ville oder Tanàna Ambony) wurde 1830 auf Befehl von Königin Ranavalona I. auf einem steilen Hügel erbaut. Die Architektur ist spektakulär erhalten und spiegelt den Übergang vom madagassischen Königreich zur Kolonialzeit wider. Schmale, gepflasterte Gassen winden sich zwischen traditionellen mehrstöckigen Ziegelhäusern mit Holzbalkonen und fast einem halben Dutzend historischer Kirchen hindurch. Die Altstadt wurde 2008 in die Liste des World Monuments Fund der gefährdeten Kulturerbestätten aufgenommen. Geschichte K7 — Stadtplanung und religiöse Architektur.",
+      "factsAdvanced": [
+        "Gegründet 1830 als administrative Hochburg des Südens",
+        "Besteht aus engen, gepflasterten Gassen und steilen Treppen",
+        "Architektur ist geprägt von roten Ziegelhäusern mit Holzbalkonen",
+        "Beherbergt die ältesten protestantischen und katholischen Kirchen der Region",
+        "Gelistet auf dem World Monuments Watch für gefährdete Stätten (2008)",
+        "Spiegelt den starken Einfluss europäischer Missionare wider"
+      ]
+    },
+    {
+      "id": "fort-dauphin-tolanaro-history-v2",
+      "descriptionAdvanced": "Fort-Dauphin (heute Tôlanaro) ist einer der ältesten Orte europäischer Präsenz auf Madagaskar. Im Jahr 1643 landete hier der französische Kapitän Jacques de Pronis im Auftrag der Ostindien-Kompanie und gründete eine Festung, die er nach dem damaligen Kronprinzen (Dauphin), dem späteren König Ludwig XIV., benannte. Die Kolonie war geprägt von ständigen blutigen Konflikten mit dem lokalen Antanosy-Volk und Krankheiten, was 1674 zur fast vollständigen Evakuierung der Überlebenden führte. Reste der historischen Festung sind noch sichtbar. Geschichte K8 — Frühe Kolonisationsversuche.",
+      "factsAdvanced": [
+        "Gegründet 1643 durch die französische Ostindien-Kompanie",
+        "Benannt nach dem Dauphin, dem späteren französischen König Ludwig XIV.",
+        "Eine der ersten europäischen Siedlungen auf madagassischem Boden",
+        "Siedlung wurde 1674 nach massiven Konflikten mit den Antanosy aufgegeben",
+        "Historische Kanonen und Festungsmauern sind teilweise erhalten",
+        "War jahrhundertelang ein abgelegener Außenposten"
+      ]
+    },
+    {
+      "id": "prime-minister-palace-andafiavaratra-history-v2",
+      "descriptionAdvanced": "Der Palast von Andafiavaratra in Antananarivo, ein markantes rotes Backsteingebäude mit einem großen Glockenturm, war die Residenz von Rainilaiarivony, der im späten 19. Jahrhundert als Premierminister von Madagaskar amtierte. Rainilaiarivony war der tatsächliche Herrscher des Landes, da er nacheinander drei Königinnen heiratete. Der Palast war das politische Zentrum des Königreichs, wo der Premierminister ausländische Diplomaten empfing und versuchte, die Unabhängigkeit des Landes zu bewahren. Heute dient der Palast als Museum, das gerettete Artefakte aus dem Rova-Brand ausstellt. Geschichte K8 — Diplomatie und Ministerherrschaft.",
+      "factsAdvanced": [
+        "Ehemalige Residenz des mächtigen Premierministers Rainilaiarivony",
+        "Erbaut in den 1870er Jahren nach Plänen eines britischen Architekten",
+        "War das diplomatische und politische Machtzentrum im 19. Jahrhundert",
+        "Charakteristische Architektur aus rotem Backstein mit Glasturm",
+        "Dient heute als Museum für Artefakte des Königshauses",
+        "Rainilaiarivony herrschte hier durch Heirat mit drei Königinnen"
+      ]
+    },
+    {
+      "id": "maromokotro-royal-tombs-history-v2",
+      "descriptionAdvanced": "In der tiefen, schwer zugänglichen Berglandschaft um den Berg Maromokotro im Tsaratanana-Massiv (dem höchsten Berg Madagaskars) verbergen sich heilige Gräber und Zufluchtsorte der Sakalava-Könige. Während der Ausweitung des Merina-Königreichs im 19. Jahrhundert flohen einige nördliche Stammesführer in diese isolierten Gebiete, um der Unterwerfung zu entgehen. Die Stätten sind bis heute streng durch «Fady» (Tabus) geschützt und dürfen von Fremden ohne komplexe Rituale und Zustimmung der lokalen Wächter (Mpanjaka) nicht betreten werden. Anthropologie K7 — Tabus und Widerstand.",
+      "factsAdvanced": [
+        "Liegt im isolierten Tsaratanana-Massiv in Nord-Madagaskar",
+        "Historischer Rückzugsort lokaler Fürsten vor der Merina-Armee",
+        "Beherbergt heilige Ahnengräber der Sakalava- und Antakarana-Völker",
+        "Zugang ist streng durch madagassische Tabus (Fady) reglementiert",
+        "Gilt als einer der spirituell stärksten und gefährlichsten Orte der Insel",
+        "Erfordert Erlaubnis der lokalen Stammesältesten für den Zugang"
+      ]
+    },
+    {
+      "id": "amozon-fort-flacourt-history-v2",
+      "descriptionAdvanced": "Das Fort Flacourt in Tôlanaro ist nach Étienne de Flacourt benannt, dem wohl berühmtesten Gouverneur der frühen französischen Kolonie auf Madagaskar (1648–1655). Flacourt dokumentierte als Erster umfassend die Geografie, Flora, Fauna und Kulturen Madagaskars in seinem berühmten Buch «Histoire de la Grande Isle Madagascar». Das historische Fort diente als Verwaltungszentrum, Kaserne und Gefängnis. Heute sind die Ruinen auf der Halbinsel von Fort-Dauphin in das Camp der madagassischen Armee (Camp Flacourt) integriert, jedoch sind einige Mauern noch zu besichtigen. Geschichte K8 — Geschichtsschreibung und Festungsbau.",
+      "factsAdvanced": [
+        "Benannt nach Étienne de Flacourt, Gouverneur der Kolonie (1648–1655)",
+        "Flacourt verfasste das erste umfassende europäische Buch über Madagaskar",
+        "War das militärische Herz der ersten französischen Siedlung im Süden",
+        "Heute befinden sich die Ruinen innerhalb eines militärischen Geländes",
+        "Alte Steinmauern und historische Kanonen blicken auf den Ozean",
+        "Zeugnis der blutigen frühen Kolonialkriege im 17. Jahrhundert"
+      ]
+    },
+    {
+      "id": "ila-fitsarana-history-v2",
+      "descriptionAdvanced": "Ila Fitsarana (der Ort des Gerichts) ist ein historischer Gerichts- und Versammlungsplatz im Zentrum von Antananarivo, nahe dem alten Zoma-Markt. In der Zeit des Merina-Königreichs wurden hier öffentliche Prozesse abgehalten und Urteile, oft durch das Ordeal des Tangena-Gifts (einem giftigen Nusssamen), vollstreckt. Das Kabary (die traditionelle königliche Ansprache) fand hier vor Tausenden von Untertanen statt. Heute erinnert wenig an die dunkle Geschichte des Platzes, jedoch bleibt er im kollektiven Gedächtnis der Stadt als Ort der königlichen Autorität verankert. Geschichte K7 — Rechtssysteme und königliche Dekrete.",
+      "factsAdvanced": [
+        "Historischer öffentlicher Gerichtsplatz im Merina-Königreich",
+        "Schauplatz öffentlicher Hinrichtungen und Urteilsverkündungen",
+        "Hier wurde oft das tödliche Tangena-Gift-Ordeal praktiziert",
+        "Ort für große königliche Ansprachen (Kabary) an das Volk",
+        "Gelegen im historischen Kern der madagassischen Hauptstadt",
+        "Symbol für die absolute Autorität der madagassischen Monarchen"
+      ]
+    },
+    {
+      "id": "betioky-royal-tombs-history-v2",
+      "descriptionAdvanced": "Die Gegend um Betioky im Südwesten Madagaskars ist berühmt für die spektakulären Königs- und Familiengräber des Mahafaly-Volkes. Die Gräber sind massiv aus Stein gebaut und mit Dutzenden von Zebu-Schädeln dekoriert, die bei der Beerdigung geopfert wurden (je mehr Schädel, desto mächtiger der Verstorbene). Zusätzlich sind die Gräber mit farbenfroh bemalten Holzstelen, sogenannten «Aloalo», geschmückt, die Szenen aus dem Leben des Toten darstellen — von Rinderdiebstahl über Flugzeuge bis hin zu Polizisten. Diese Totenstadt zeugt von der enormen Bedeutung des Ahnenkults. Kunst K7 — Begräbniskultur und Aloalo-Schnitzerei.",
+      "factsAdvanced": [
+        "Bedeutende Ansammlung von Steingräbern des Mahafaly-Volkes",
+        "Gräber sind mit geopferten Zebu-Hörnern dekoriert",
+        "Verziert mit bunt bemalten, geschnitzten Holzstelen (Aloalo)",
+        "Aloalo-Schnitzereien erzählen oft Szenen aus dem Leben des Toten",
+        "Ahnenverehrung spielt im Südwesten eine zentrale kulturelle Rolle",
+        "Einige Gräber weisen europäische Einflüsse in den Malereien auf"
+      ]
+    },
+    {
+      "id": "mahabo-royal-cemetery-history-v2",
+      "descriptionAdvanced": "Das Dorf Mahabo in der Nähe von Morondava an der Westküste beherbergt die heiligen königlichen Begräbnisstätten der mächtigen Sakalava-Könige von Menabe. Die Könige, die im 17. und 18. Jahrhundert große Teile Westmadagaskars beherrschten, werden in kleinen, hölzernen Schreinen verehrt. Das Gelände wird von speziellen Wächtern streng bewacht, und der Zugang ist nur unter Einhaltung strenger Fady (Tabus) gestattet, wie etwa dem Verbot, rotes Tuch zu tragen. Die Stätte ist auch heute noch ein Ort aktiver spiritueller Rituale und Opfergaben. Geschichte K8 — Sakalava-Dynastie und Ahnenrituale.",
+      "factsAdvanced": [
+        "Heilige königliche Nekropole des Sakalava-Königreichs Menabe",
+        "Liegt nahe der Westküstenstadt Morondava",
+        "Könige aus dem 17. und 18. Jahrhundert liegen hier begraben",
+        "Stätte ist von strengen madagassischen Tabus (Fady) umgeben",
+        "Das Tragen von roter Kleidung ist auf dem Gelände oft strengstens verboten",
+        "Bis heute ein aktiver Ort für Ahnenverehrung und Tromba-Rituale"
+      ]
+    },
+    {
+      "id": "zoma-market-historical-site-history-v2",
+      "descriptionAdvanced": "Der Zoma-Markt («Freitagsmarkt») auf der Avenue de l'Indépendance in Antananarivo war einst der zweitgrößte Freiluftmarkt der Welt und das pulsierende Herz der madagassischen Hauptstadt. Ursprünglich im 18. Jahrhundert von König Andrianampoinimerina gegründet, erstreckten sich die weißen Sonnenschirme freitags über die gesamte Innenstadt. Im Jahr 1997 wurde der Markt aus hygienischen und verkehrstechnischen Gründen von der Stadtverwaltung massiv verkleinert und dezentralisiert. Heute ist der historische Ort nur noch eine Erinnerung an das ehemalige chaotische Handelszentrum der Nation. Geschichte K6 — Stadtentwicklung und Handel.",
+      "factsAdvanced": [
+        "War historisch der zweitgrößte Freiluftmarkt der Welt",
+        "Fand traditionell immer freitags (Zoma) in Antananarivo statt",
+        "Ursprünglich im 18. Jahrhundert vom Merina-König gegründet",
+        "Markt wurde 1997 von der Stadtverwaltung massiv dezentralisiert",
+        "Geprägt durch zehntausende weiße Sonnenschirme (Parasols)",
+        "Einstiges wirtschaftliches und soziales Herz der madagassischen Hauptstadt"
+      ]
+    }
+  ]
+}

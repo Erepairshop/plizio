@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-gaberoun-nature-v2",
+      "descriptionAdvanced": "Der Gaberoun-See (Gaberoun-Oase) ist ein malerischer Salzwassersee tief im Sandmeer von Ubari. Obwohl das Wasser stark salzhaltig ist und eine Vielzahl kleiner Krustentiere beherbergt, speist Süßwasser die umgebenden Palmen und Schilfgürtel. Im Winter bildet der von riesigen Dünen umrahmte See ein beliebtes und surreal wirkendes Ziel für Wüstenexpeditionen. Geografie K7 — Wüstenökosysteme.",
+      "factsAdvanced": [
+        "Natürlicher Salzwassersee im Sandmeer von Ubari",
+        "Eingeschlossen von extrem hohen Sanddünen",
+        "Wasser ist extrem salzhaltig, ähnlich dem Toten Meer",
+        "Umgeben von Dattelpalmen und Schilf",
+        "Berühmtes Ziel für Sahara-Expeditionen",
+        "Einst bewohnt von einem kleinen isolierten Stamm"
+      ]
+    },
+    {
+      "id": "mandara-lakes-nature-v2",
+      "descriptionAdvanced": "Die Mandara-Seen sind eine faszinierende Gruppe flacher Wüstenseen im Fezzan, nahe Ubari. Viele dieser Seen sind heute aufgrund sinkender Grundwasserspiegel oft ausgetrocknet und hinterlassen eine krustige, weiße Salzebene, doch nach seltenen Regenfällen füllen sie sich und ziehen Zugvögel mitten in die Sahara an. Geografie K7 — Hydrologische Zyklen.",
+      "factsAdvanced": [
+        "Gruppe flacher Seen in der Ubari-Wüste",
+        "Oft vollständig oder teilweise ausgetrocknet",
+        "Hinterlassen krustige Salzpfannen (Sebkhas)",
+        "Ziehen gelegentlich Wüstenzugvögel an",
+        "Früher dicht von Tuareg-Familien besiedelt",
+        "Gefährdet durch sinkende Grundwasserspiegel"
+      ]
+    },
+    {
+      "id": "jebel-nafusa-nature-v2",
+      "descriptionAdvanced": "Das Nafusa-Gebirge (Dschabal Nafusa) ist eine sichelförmige, felsige Schichtstufe im Nordwesten Libyens, die steil zur Küstenebene Jafara abfällt. Die Region bietet mit ihrem gemäßigten Klima und ihren kargen, von tiefen Tälern durchzogenen Hochebenen den perfekten Rückzugsort für die traditionelle Agrarkultur der indigenen Amazigh. Geografie K8 — Schichtstufenlandschaften.",
+      "factsAdvanced": [
+        "Sichelförmiges Gebirge in Nordwest-Libyen",
+        "Erhebt sich bis zu 968 Meter über dem Meeresspiegel",
+        "Trennt die Küstenebene von der Sahara",
+        "Historische Heimat der Amazigh (Berber)",
+        "Geprägt von steilen Klippen und tiefen Wadis",
+        "Wichtige agrarische Region für Oliven und Feigen"
+      ]
+    },
+    {
+      "id": "gar-al-marah-nature-v2",
+      "descriptionAdvanced": "Gar al-Marah ist ein bemerkenswertes Naturwunder nahe der tunesischen Grenze, geprägt von ungewöhnlichen geologischen Felsformationen und Höhlensystemen. Diese Region im westlichen Nafusa-Gebirge zieht durch ihre raue, zerklüftete Schönheit sowohl lokale Naturliebhaber als auch Geologen an, die die Erosion der Kalksteinschichten untersuchen. Geografie K8 — Karstgeologie.",
+      "factsAdvanced": [
+        "Zerklüftete Felsregion im westlichen Nafusa-Gebirge",
+        "Gelegen nahe der tunesischen Grenze",
+        "Geprägt durch starke Erosion und Höhlen",
+        "Bedeutend für geologische Untersuchungen",
+        "Trockenes, unzugängliches Terrain",
+        "Zeigt die raue Schönheit der nordafrikanischen Felswüste"
+      ]
+    },
+    {
+      "id": "ubari-sand-sea-nature-v2",
+      "descriptionAdvanced": "Die Ubari-Sandsee im Fezzan (Südwestlibyen) ist eines der spektakulärsten Dünengebiete der Sahara. Sie erstreckt sich über Tausende von Quadratkilometern und ist berühmt für ihre bis zu 100 Meter hohen, sichelförmigen Barchan-Dünen, zwischen denen unerwartet kleine, blaue Salzwasserseen wie Gaberoun auftauchen. Geografie K7 — Äolische Geomorphologie.",
+      "factsAdvanced": [
+        "Riesiges Dünenmeer (Erg) im Südwesten Libyens",
+        "Teil der größeren Fezzan-Wüstenregion",
+        "Berühmt für extrem hohe Barchan-Dünen",
+        "Beherbergt malerische, versteckte Wüstenseen",
+        "Historisches Durchgangsgebiet für Karawanen",
+        "Sichtbares Beispiel stetiger Winderosion"
+      ]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "descriptionAdvanced": "Das Gargaf-Gebirge (Jebel Gargaf) bildet eine natürliche, felsige Barriere in Zentrallibyen, die die nördliche Wüste vom tiefen Süden des Fezzan trennt. Die dunklen, von Wind und Sand geschliffenen Felsplateaus sind extrem trocken und dienten historisch als natürliche Grenze und Orientierungspunkt für Wüstenreisende. Geografie K7 — Gebirgsbarrieren.",
+      "factsAdvanced": [
+        "Zentrale Gebirgskette in Libyen",
+        "Trennt Tripolitanien vom südlichen Fezzan",
+        "Besteht aus dunklem, hartem Gestein",
+        "Extrem trockenes und lebensfeindliches Klima",
+        "Historisch eine Barriere für Invasoren",
+        "Wichtiger geologischer Orientierungspunkt"
+      ]
+    },
+    {
+      "id": "mizdah-plateau-nature-v2",
+      "descriptionAdvanced": "Das Mizdah-Plateau bildet eine weite, flache Hochebene südlich des Nafusa-Gebirges. Die Landschaft markiert den landschaftlichen Übergang von den etwas grüneren Küstengebirgen zur trockenen, gnadenlosen Al-Hamada al-Hamra-Steinwüste und ist durch Trockentäler (Wadis) und spärlichen, anpassungsfähigen Pflanzenwuchs gekennzeichnet. Geografie K7 — Übergangszonen.",
+      "factsAdvanced": [
+        "Weite Hochebene südlich des Nafusa-Gebirges",
+        "Übergangszone zur Al-Hamada al-Hamra-Wüste",
+        "Durchzogen von flachen, trockenen Wadis",
+        "Spärliche Vegetation (hauptsächlich Steppengras)",
+        "Traditionelles Weideland für Nomaden",
+        "Karges, von Wind gezeichnetes Terrain"
+      ]
+    },
+    {
+      "id": "al-hamada-al-hamra-nature-v2",
+      "descriptionAdvanced": "Die Al-Hamada al-Hamra, übersetzt die 'Rote Steinwüste', ist ein riesiges, flaches und völlig kahles Kalksteinplateau, das einen großen Teil Westlibyens bedeckt. Das rötlich schimmernde Felsplateau ist extrem lebensfeindlich, nahezu ohne Sand und Vegetation, und erstreckt sich über Hunderte von Kilometern in Richtung Süden. Geografie K8 — Hammada (Felswüste).",
+      "factsAdvanced": [
+        "Riesige Felswüste (Hammada) in Westlibyen",
+        "Wörtlich übersetzt 'Die rote Steinwüste'",
+        "Fast vollständig frei von Sand und Wasser",
+        "Bedeckt zehntausende Quadratkilometer",
+        "Eines der unwirtlichsten Gebiete der Erde",
+        "Rötliches Gestein prägt das Satellitenbild"
+      ]
+    },
+    {
+      "id": "tibesti-foothills-nature-v2",
+      "descriptionAdvanced": "Die Ausläufer des Tibesti-Gebirges im äußersten Süden Libyens (Grenze zum Tschad) bilden eine der dramatischsten Vulkanlandschaften Nordafrikas. Die Gegend ist geprägt von schroffen Vulkangipfeln, dunklem Lavagestein und tiefen Canyons, die von den nomadischen Tebu bewohnt werden und weitgehend von der Außenwelt isoliert sind. Geografie K8 — Vulkanismus.",
+      "factsAdvanced": [
+        "Vulkanische Ausläufer im extremen Süden Libyens",
+        "Teil des riesigen Tibesti-Massivs (Tschad)",
+        "Geprägt durch dunkles Basalt- und Lavagestein",
+        "Extrem isoliertes, schroffes Terrain",
+        "Heimat des nomadischen Tebu-Volkes",
+        "Höchste und unzugänglichste Region der Sahara"
+      ]
+    },
+    {
+      "id": "sarir-tanezrouft-nature-v2",
+      "descriptionAdvanced": "Die Sarir Tanezrouft (oder das Sarir Tibesti) ist eine gigantische, völlig flache Kieswüste im Südosten Libyens, nördlich des Tibesti. In dieser Region gibt es weder Wasserlöcher noch Orientierungspunkte; sie ist so flach und makellos, dass bereits antike Händler und Entdecker diese 'Wüste in der Wüste' fürchteten. Geografie K7 — Kieswüsten (Serir).",
+      "factsAdvanced": [
+        "Riesige, makellos flache Kieswüste (Serir)",
+        "Gelegen im südöstlichen Libyen",
+        "Absolut keine natürlichen Orientierungspunkte",
+        "Fehlen von Oasen oder Wasserquellen",
+        "Oft als 'Wüste in der Wüste' bezeichnet",
+        "Extrem hohe Tagestemperaturen im Sommer"
+      ]
+    },
+    {
+      "id": "wadi-kuf-nature-v2",
+      "descriptionAdvanced": "Das Wadi al-Kuf im Dschabal al-Achdar ist ein spektakuläres, tief eingeschnittenes grünes Tal, das sich durch dichte Macchie und steile Felswände auszeichnet. Das Tal ist berühmt für seine reiche Biodiversität, die seltene Brücke, die es überspannt, und die zahlreichen Karsthöhlen in den Kalksteinfelsen. Geografie K7 — Tal- und Karstgeografie.",
+      "factsAdvanced": [
+        "Tiefes, bewaldetes Tal im Dschabal al-Achdar",
+        "Reich an dichter, mediterraner Vegetation",
+        "Beherbergt seltene Flora und Fauna",
+        "Überspannt von der massiven Wadi-Kuf-Brücke",
+        "Zahlreiche natürliche Karsthöhlen in den Felswänden",
+        "Wichtiger Lebensraum in der Kyrenaika"
+      ]
+    },
+    {
+      "id": "sirte-basin-nature-v2",
+      "descriptionAdvanced": "Das geologische Sirte-Becken, eine massive, tiefe Senke, die sich vom Golf von Sidra in die Sahara erstreckt, ist weltberühmt. Unter den kargen Sanden und Felsen dieser extrem trockenen Region verbergen sich die gewaltigen fossilen Überreste eines urzeitlichen Meeres, die Libyen zu einem der erdölreichsten Länder der Welt machen. Geografie K8 — Petrologie und Beckenbildung.",
+      "factsAdvanced": [
+        "Riesige geologische Senke (Becken) in Zentrallibyen",
+        "Heimat von über 80% der libyschen Ölreserven",
+        "Ursprünglich ein prähistorisches, flaches Meer",
+        "Geologisch geprägt durch Verwerfungen und Rifts",
+        "Oberflächlich eine extrem trockene Wüstenlandschaft",
+        "Eines der produktivsten Ölbecken Afrikas"
+      ]
+    },
+    {
+      "id": "gulf-of-sidra-nature-v2",
+      "descriptionAdvanced": "Der Golf von Sidra (Große Syrte) ist eine weite Bucht des Mittelmeers, an der die libysche Wüste direkt an die Küste trifft. Die flache, teils unübersichtliche Küstenlinie ist durch Salzsümpfe und Wadis geprägt und besitzt das wärmste Meerwasser des gesamten Mittelmeerraums, was sie biologisch einzigartig macht. Geografie K7 — Küstengeografie.",
+      "factsAdvanced": [
+        "Weite Mittelmeer-Bucht an der Küste Zentrallibyens",
+        "Historisch bekannt als Große Syrte",
+        "Treffpunkt der Sahara-Wüste und des Meeres",
+        "Hat das wärmste Wasser im Mittelmeer",
+        "Wichtige Thunfisch-Fischgründe",
+        "Geprägt durch Salzpfannen (Sebkhas) an der Küste"
+      ]
+    },
+    {
+      "id": "al-haruj-nature-v2",
+      "descriptionAdvanced": "Al-Haruj ist das größte Basalt-Vulkanfeld in ganz Nordafrika und liegt zentral im Herzen der libyschen Sahara. Die rabenschwarze Landschaft besteht aus über hundert erloschenen Vulkankratern und erstarrten Lavaströmen, die einen dramatischen und fast außerirdischen Kontrast zu den umgebenden gelben und weißen Sanddünen bilden. Geografie K8 — Vulkanismus.",
+      "factsAdvanced": [
+        "Größtes Vulkanfeld Nordafrikas",
+        "Gelegen in Zentrallibyen",
+        "Besteht aus schwarzem Basalt und Lavaströmen",
+        "Über 120 erloschene Vulkankrater",
+        "Schroffer Kontrast zum umgebenden Sand",
+        "Einzigartiges geologisches Wüsten-Feature"
+      ]
+    },
+    {
+      "id": "jebel-aswad-nature-v2",
+      "descriptionAdvanced": "Das Jebel Aswad, wörtlich übersetzt der 'Schwarze Berg', ist ein dunkles, vulkanisches Felsplateau, das den nördlichen Rand des Fezzan markiert. Das extrem raue, zerklüftete Basaltgestein erschwerte seit jeher das Reisen und zwingt die Karawanenrouten, dieses lebensfeindliche Gebiet weiträumig zu umgehen. Geografie K7 — Wüstengebirge.",
+      "factsAdvanced": [
+        "Wörtlich übersetzt der 'Schwarze Berg'",
+        "Dunkles vulkanisches Plateau in Zentrallibyen",
+        "Markiert die nördliche Grenze des Fezzan",
+        "Besteht aus schroffem Basaltgestein",
+        "Extrem trocken und unwirtlich",
+        "Historisches Hindernis für Wüstenreisen"
+      ]
+    },
+    {
+      "id": "wadi-zamzam-nature-v2",
+      "descriptionAdvanced": "Das Wadi Zamzam ist ein riesiges, meist völlig ausgetrocknetes Flusssystem im Nordwesten Libyens, das sich bei starken Winterregen in einen reißenden Strom verwandeln kann. Diese seltenen Fluten sind entscheidend für die Erneuerung der spärlichen Wüstenvegetation in der Region und versorgen die Grundwasserleiter der Küstenebene. Geografie K7 — Ephemere Flüsse (Wadis).",
+      "factsAdvanced": [
+        "Eines der größten Flusssysteme (Wadis) Libyens",
+        "Die meiste Zeit des Jahres ausgetrocknet",
+        "Verursacht gefährliche Sturzfluten nach Regenfällen",
+        "Zentral für die lokale Wüstenökologie",
+        "Speist lokale Grundwasserreservoirs",
+        "Reicht von den Bergen bis zur Küste"
+      ]
+    },
+    {
+      "id": "al-kufra-basin-nature-v2",
+      "descriptionAdvanced": "Das Al-Kufra-Becken im tiefen Südosten Libyens ist geologisch weltberühmt für das gigantische fossile Grundwasservorkommen, den 'Nubischen Sandstein-Aquifer', der sich unter ihm verbirgt. Oberirdisch ist die Region eine der trockensten Sandwüsten der Welt, in deren Zentrum isolierte Oasen wie Kufra liegen. Geografie K8 — Hydrogeologie.",
+      "factsAdvanced": [
+        "Tiefes geologisches Becken im Südosten",
+        "Einer der trockensten Orte der Welt an der Oberfläche",
+        "Beherbergt riesige fossile Grundwasserleiter",
+        "Kerngebiet des Great Man-Made River Projekts",
+        "Überwiegend flache, sandige Wüstenlandschaft",
+        "Zentrum alter Meteoriten-Krater (Arkenu)"
+      ]
+    },
+    {
+      "id": "jebel-uwaynat-nature-v2",
+      "descriptionAdvanced": "Das Jebel Uwaynat (Uweinat) ist ein massives, isoliertes Granit- und Sandsteingebirge im extremen Südosten am Dreiländereck von Libyen, Ägypten und dem Sudan. Die abgelegenen, schroffen Gipfel erreichen knapp 2.000 Meter Höhe und beherbergen eine einzigartige Mikrobiologie sowie Tausende wertvoller prähistorischer Felszeichnungen von Giraffen, Löwen und Straußen. Geografie K8 — Bergmassive der Sahara.",
+      "factsAdvanced": [
+        "Granit- und Sandsteinmassiv am Dreiländereck",
+        "Gipfelhöhe erreicht bis zu 1.934 Meter",
+        "Berühmt für prähistorische Felsmalereien (Petroglyphen)",
+        "Einzigartige Vegetation aufgrund von Nebel und Regen",
+        "Geographisch extrem isoliert",
+        "Bedeutendes Zentrum für prähistorische Studien"
+      ]
+    },
+    {
+      "id": "wadi-al-ajal-nature-v2",
+      "descriptionAdvanced": "Das Wadi al-Ajal, oft auch Wadi al-Hayat genannt, ist eine geologische Senke zwischen dem Ubari-Sandmeer und dem Messak-Plateau. Das Tal fängt das spärliche Grundwasser ab und bildete vor Tausenden von Jahren das fruchtbare Kernland der sagenumwobenen Garamanten, deren Wasserstollen (Foggaras) noch heute tief in der Landschaft zu finden sind. Geografie K7 — Historische Wüstentäler.",
+      "factsAdvanced": [
+        "Tiefes Tal in der südwestlichen Fezzan-Region",
+        "Geologische Grenze zur Ubari-Sandsee",
+        "Historisches Kernland der Garamanten-Kultur",
+        "Beherbergt alte unterirdische Wasserkanäle (Foggaras)",
+        "Heute von der Tuareg-Bevölkerung bewohnt",
+        "Reich an archäologischen Überresten"
+      ]
+    },
+    {
+      "id": "gargaf-desert-nature-v2",
+      "descriptionAdvanced": "Die Gargaf-Wüste umgibt das gleichnamige felsige Gebirgsmassiv in Zentrallibyen. Sie zeichnet sich durch eine Mischung aus harten, schwarzen Felsbrocken und feinem Sand aus. Diese lebensfeindliche und extrem windige Region bietet keinerlei Grundwasserquellen und war stets eines der am meisten gefürchteten Hindernisse für Karawanen auf dem Weg nach Süden. Geografie K7 — Wüstentypen.",
+      "factsAdvanced": [
+        "Mischung aus Fels- und Sandwüste in Zentrallibyen",
+        "Umgibt das Gargaf-Gebirge",
+        "Geprägt durch extreme Stürme und Winderosion",
+        "Keinerlei oasenhafte Wasserquellen vorhanden",
+        "Bedeutendes natürliches Hindernis",
+        "Sehr dünn besiedelt"
+      ]
+    }
+  ]
+}

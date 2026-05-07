@@ -1,0 +1,70 @@
+[
+  {
+    "id": "kid-landmark-dublin-zoo",
+    "name": "Dublin Zoo"
+  },
+  {
+    "id": "kid-landmark-fota-wildlife-park",
+    "name": "Fota Wildlife Park"
+  },
+  {
+    "id": "kid-landmark-emerald-park",
+    "name": "Emerald Park"
+  },
+  {
+    "id": "kid-landmark-lough-key-adventure-park",
+    "name": "Lough Key Adventure Park"
+  },
+  {
+    "id": "animal-habitat-dublin-zoo-extra",
+    "name": "Grădina Zoologică Dublin"
+  },
+  {
+    "id": "animal-habitat-fota-wildlife-extra",
+    "name": "Parcul Național Fota"
+  },
+  {
+    "id": "animal-habitat-tayto-park-zoo-extra",
+    "name": "Zoo Emerald Park"
+  },
+  {
+    "id": "animal-habitat-wild-ireland-extra",
+    "name": "Wild Ireland"
+  },
+  {
+    "id": "animal-habitat-burren-birds-extra",
+    "name": "Centrul Păsărilor de Pradă Burren"
+  },
+  {
+    "id": "city-drogheda-extra",
+    "name": "Drogheda"
+  },
+  {
+    "id": "city-bray-extra",
+    "name": "Bray"
+  },
+  {
+    "id": "city-swords-extra",
+    "name": "Swords"
+  },
+  {
+    "id": "animal-habitat-emerald-zoo-extra",
+    "name": "Zoo Emerald Park"
+  },
+  {
+    "id": "animal-habitat-wild-ireland-extra",
+    "name": "Wild Ireland"
+  },
+  {
+    "id": "animal-habitat-burren-birds-extra",
+    "name": "Păsări de Pradă Burren"
+  },
+  {
+    "id": "animal-habitat-national-reptile-extra",
+    "name": "Zoo Națională de Reptile"
+  },
+  {
+    "id": "animal-habitat-secret-valley-extra",
+    "name": "Secret Valley Wildlife"
+  }
+]

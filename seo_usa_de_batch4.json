@@ -1,0 +1,33 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-diego-zoo-life-v2",
+      "descriptionAdvanced": "Der San Diego Zoo im Balboa Park ist eine der bedeutendsten zoologischen Einrichtungen der Welt und ein Vorreiter in der Tierhaltung und Artenschutzforschung. Er erstreckt sich über 40 Hektar und beherbergt mehr als 3.500 Tiere aus über 650 Arten in Anlagen, die ihre natürlichen Lebensräume detailreich nachahmen. Ein besonderes Merkmal ist die parkähnliche Gestaltung mit üppiger Vegetation, die den Tieren Schutz bietet und gleichzeitig ein angenehmes Erlebnis für Besucher schafft. Der Zoo spielt eine entscheidende Rolle beim Schutz bedrohter Arten weltweit. Biologie K5 — Tierhaltung und Artenschutz.",
+      "factsAdvanced": [
+        "Beheimatet eine der größten Koala-Gruppen außerhalb Australiens",
+        "Pionier bei der Gestaltung von Zooanlagen ohne Gitter (geprägt durch Felsformationen)",
+        "Betreibt ein eigenes Zentrum für Artenschutz, den San Diego Zoo Wildlife Alliance",
+        "Der Zoo wurde 1916 nach der Panama-California Exposition gegründet",
+        "Umfasst eine Gondelbahn (Skyfari), die eine tolle Aussicht bietet",
+        "Wichtige Anlaufstelle für die Zucht von bedrohten Tierarten wie dem Kalifornischen Kondor"
+      ]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "descriptionAdvanced": "Der Yellowstone-Nationalpark, gegründet 1872, war der weltweit erste Nationalpark und erstreckt sich primär über den Bundesstaat Wyoming. Er ist berühmt für seine geothermische Aktivität, einschließlich des Old Faithful Geysirs, sowie für seine beeindruckende Megafauna, zu der Grizzlybären, Wölfe und große Bisonherden zählen. Der Park liegt auf einem aktiven Supervulkan, dessen caldera-geprägte Landschaft eine Vielzahl von heißen Quellen und farbenprächtigen mineralischen Becken schafft. Die ökologische Vielfalt macht ihn zu einem der weltweit wichtigsten Forschungsobjekte für die Wildtierbiologie. Geographie K6 — vulkanische Landschaften und Ökosysteme.",
+      "factsAdvanced": [
+        "Erste Nationalpark-Gründung der Welt (1872)",
+        "Beheimatet die größte Ansammlung von Geysiren weltweit",
+        "Der Yellowstone-Supervulkan ist seit Millionen von Jahren aktiv",
+        "Die Bisonherden im Park sind die größten auf öffentlichem Land in den USA",
+        "Der Grand Canyon of the Yellowstone bietet spektakuläre Wasserfälle",
+        "Die jährliche Anzahl der Besucher übersteigt oft 4 Millionen"
+      ]
+    }
+  ]
+}

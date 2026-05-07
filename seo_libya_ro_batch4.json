@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bouri-offshore-field-economic-v2",
+      "descriptionAdvanced": "Câmpul Offshore Bouri este o realizare titanică de inginerie marină aflată departe în Marea Mediterană, la nord-vest de coasta Tripolitaniei. Este cel mai mare câmp petrolier submarin din toată Marea Mediterană și utilizează platforme masive susținute pe piloni scufundați adânc în placa continentală. Condițiile de lucru aici sunt extreme, dependente de elicoptere și nave de aprovizionare, dar cantitățile imense de gaze și țiței dulce obținute fac din Bouri un activ național inestimabil administrat în comun de Libia și companii internaționale. Geografie K8 — resurse submarine și inginerie offshore.",
+      "factsAdvanced": [
+        "Este poziționat la peste 120 de kilometri distanță de litoralul vestic al Libiei.",
+        "Prima sa fază masivă de dezvoltare a fost implementată la mijlocul anilor 1980 de Agip (Eni).",
+        "A fost sursa unor lungi tensiuni și delimitări ale platoului continental cu Malta și Tunisia.",
+        "Gazul natural asociat extracției este vital pentru complexul de procesare de pe coasta din Mellitah.",
+        "Pilonii platformelor sale sunt proiectați să reziste la valuri și furtuni mediteraneene rare, dar severe.",
+        "Folosește masiv o navă FSO (Floating Storage and Offloading) imensă numită "Sloug"."
+      ]
+    },
+    {
+      "id": "al-jurf-offshore-field-economic-v2",
+      "descriptionAdvanced": "Al Jurf este un alt colos al explorării offshore a Libiei, o extensie tehnologică spectaculoasă aflată la vest de Bouri. Platformele din Al Jurf au fost puse în funcțiune la începutul anilor 2000, beneficiind de sisteme robotice avansate de foraj și extracție pentru a diminua numărul personalului expus la rigorile mării deschise. Câmpul este exploatat de o asociere condusă de NOC (corporația libiană) și gigantul francez Total, marcând prezența unei diversități de parteneriate europene critice pentru economia statului. Economie K7 — parteneriate petroliere multinaționale și siguranță maritimă.",
+      "factsAdvanced": [
+        "A fost dezvoltat intens de gigantul petrolier francez Total împreună cu compania națională libiană.",
+        "Se regăsește în blocul maritim C137, faimos pentru pungile adânci de țiței.",
+        "Utilizează nave avansate FPSO (Floating Production, Storage, and Offloading) numite 'Farwah'.",
+        "Costurile sale de producție per baril sunt mai mari decât pe uscat, dar justificate de lipsa pericolelor terestre.",
+        "Acostarea tancurilor petroliere de export se face direct în mare liberă, la instalații dedicate.",
+        "Platforma principală are un design modular complex pentru rezistența structurală marină."
+      ]
+    },
+    {
+      "id": "mabruk-oil-field-economic-v2",
+      "descriptionAdvanced": "Mabruk, situat în adâncul uscat al deșertului din bazinul Sirte, a primit inițial mai puțină atenție datorită structurii sale geologice extrem de fragmentate și dificile care a împiedicat primele eforturi de extracție din anii '60. A cunoscut o resurecție fabuloasă în anii 1990 când experții francezi de la Total au introdus tehnologii hidraulice și de fracturare sofisticate. Însă, deceniul trecut i-a adus distrugeri aproape totale în urma asediilor militante, orașul său modular fiind devastat și necesitând reconstrucție completă. Istorie K8 — tehnologii petroliere terțiare și conflict asimetric.",
+      "factsAdvanced": [
+        "Situat la aproximativ 170 de kilometri sud de marile terminale petroliere litorale.",
+        "Are una dintre cele mai complexe și fracturate structuri de zăcământ din zona Sirte.",
+        "A necesitat tehnici speciale de extracție cu injecție de apă pentru a produce cantități comerciale.",
+        "Instalațiile centrale au suferit un atac militant devastator în anul 2015, fiind masiv avariate.",
+        "Este un simbol al eforturilor tehnice franceze și norvegiene în zona sahariana.",
+        "Zăcământul este înconjurat de un peisaj total arid de "hamada" (deșert stâncos) steril."
+      ]
+    },
+    {
+      "id": "amal-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Amal, tradus simbolic ca "Speranță", este unul dintre vechii și loialii piloni ai industriei libiene de stat, gestionat de compania Harouge Oil. Situat în regiunile mai estice ale bazinului Sirte, zăcământul este faimos pentru consistența și calitatea constantă a fluxului său de țiței destinat rafinăriei și portului de la Ras Lanuf. Sistemul complex de pompare care asigură circulația acestui țiței valoros peste distanțe masive sub căldura arzătoare rămâne un triumf clasic al ingineriei de conducte. Geografie K7 — conducte magistrale și continuitatea industrială.",
+      "factsAdvanced": [
+        "A fost dat în producție de peste o jumătate de secol, fiind foarte matur.",
+        "Administrarea operațională este preluată de compania statală Harouge Oil Operations.",
+        "A fost vizat de eforturi repetate de reactivare a sondelor oprite pe parcursul ultimului deceniu.",
+        "Un rezervor masiv de stocare temporară asigură tamponul fluxului în perioada furtunilor pe mare.",
+        "Este interconectat strâns cu zăcămintele vecine Nafoora, formând o super-rețea de transport.",
+        "Echipele de pe teren se bazează adesea pe zboruri logistice locale de la Brega sau Ras Lanuf."
+      ]
+    },
+    {
+      "id": "nafoora-oil-field-economic-v2",
+      "descriptionAdvanced": "Nafoora, ascuns în marginea estică și severă a bazinului Sirte lângă Jalu, este un mega-zăcământ crucial din constelația estică. Acționează ca un veritabil nod circulator, colectând țiței atât din propriile sonde adânci, cât și din exploatările adiacente. Este cunoscut pentru condițiile atmosferice nemiloase și infrastructura solidă, fiind administrat de compania AGOCO, cel mai mare jucător complet autohton din estul Libiei. Întreruperile activității la Nafoora atrag automat secătuirea terminalului de coastă Zueitina, demonstrând vulnerabilitatea în lanț. Economie K8 — monopoluri petroliere regionale și interdependență.",
+      "factsAdvanced": [
+        "Este una dintre "bijuteriile" companiei estice de petrol AGOCO (Arabian Gulf Oil Company).",
+        "Pompează petrol brut direct către uriașul terminal Zueitina de la est de Benghazi.",
+        "Condițiile de la fața locului sunt adesea definite de valuri uriașe de praf saharian și căldură extremă.",
+        "Găzduiește facilități mari de separare a gazelor asociate și stații de pompare electrice de înaltă tensiune.",
+        "Extracția la acest câmp se sprijină pe o rețea de zeci de stații colectoare modulare.",
+        "Personalul din Nafoora locuiește într-o comunitate închisă, autarhică din inima deșertului."
+      ]
+    },
+    {
+      "id": "messla-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Messla este adânc îngropat în sud-estul stâncos și formează jumătatea "de nord" a legendarului complex Sarir-Messla. Acest gigant liniștit susține practic o mare parte din eforturile companiei naționale de a finanța statul. Descoperit cu mult după Sarir, a dovedit că regiunea deșertului de est încă ascunde comori vaste. La Messla se găsește o minirafinărie faimoasă care distilează carburant esențial exclusiv pentru supraviețuirea flotei imense de camioane și mașini care operează operațiunile sudice. Geografie K7 — rafinării interne modulare și autosuficiență.",
+      "factsAdvanced": [
+        "Include o rafinărie de mici dimensiuni (topping plant) care produce carburant exclusiv uzului intern.",
+        "Situat la nord-vest de uriașul câmp Sarir, împărțind mare parte din logistica de transport.",
+        "Zăcământul este administrat în totalitate de operatori naționali libieni fără prezență străină directă.",
+        "O singură conductă magistrală unește Messla și Sarir direct de portul Hariga din Tobruk.",
+        "Declinul natural al presiunii zăcământului a necesitat proiecte ambițioase de ridicare artificială (lift).",
+        "Tabăra principală a fost adesea asediată de condiții climaterice și lipsuri de piese de schimb."
+      ]
+    },
+    {
+      "id": "abu-attifel-oil-field-economic-v2",
+      "descriptionAdvanced": "Abu Attifel, situat extrem de izolat la granița Marelui Erg de Nisip Calanshio, se mândrește cu faptul că a fost prima descoperire semnificativă realizată de gigantul petrolier italian Eni în Libia anilor 1960. Țițeiul extras de la Abu Attifel are particularitatea interesantă de a fi extrem de "parafinos", conținând ceruri naturale, ceea ce face ca acest petrol să se solidifice rapid la temperaturi scăzute, necesitând conducte specializate și încălzite pentru export către coastă. Chimia K8 — proprietățile hidrocarburilor și fracții parafinice.",
+      "factsAdvanced": [
+        "Este faimos pentru calitatea unică de "waxy crude" (țiței parafinos) care tinde să înghețe la suprafață.",
+        "A fost decoperit oficial în anul 1968, consolidând permanent relația energetică italo-libiană.",
+        "Țițeiul este expediat nord-vest către terminalul Zueitina printr-o conductă cu sistem de încălzire intern.",
+        "Situat în apropierea dunelor gigantice mișcătoare din Calanshio, care complică frecvent transportul logisticii.",
+        "Găzduiește un aerodrom mic pe o platformă izolată pentru zboruri directe ale tehnicienilor.",
+        "Echipele lucrează pe cicluri riguroase de schimburi (rotații tip lună-la-lună) din cauza depărtării urbane."
+      ]
+    },
+    {
+      "id": "zawiya-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria Petrolieră Zawiya, o structură titanică și fumegândă ce domină linia coastei la vest de Tripoli, este piesa centrală a securității energetice interne a Libiei. Inaugurată în 1974, funcția sa este rafinarea țițeiului adus din câmpul sudic Sharara în combustibili de bază necesari pieței domestice — în special benzină, combustibil de aviație și asfalt. Deoarece consumul intern libian a explodat în ultimele decenii, această uzină nu mai poate satisface singură nevoia națională, dar rămâne vitală pentru evitarea paraliziei capitalei. Economie K7 — procesarea de hidrocarburi și importul de deficit.",
+      "factsAdvanced": [
+        "A intrat în funcțiune în 1974 și a fost modernizată progresiv pentru a atinge 120.000 de barili prelucrați zilnic.",
+        "Are monopol asupra aprovizionării pieței urbane și a rețelelor de stat din partea vestică a Libiei.",
+        "Produce, de asemenea, kerosen pentru marile aeroporturi din Tripolitania.",
+        "Capacitatea sa internă nu face față cererii, Libia fiind obligată paradoxal să și importe benzină rafinată.",
+        "Luptele armate din 2011 și din anii următori i-au afectat frecvent porțile și terminalul aferent.",
+        "Dispune de un debarcader conectat direct pentru tancurile maritime specializate de transport intern."
+      ]
+    },
+    {
+      "id": "ras-lanuf-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria Ras Lanuf este o structură de o magnitudine copleșitoare, construită pe malul deșertic al Golfului Sidra. Cu o capacitate masivă proiectată inițial în anii 1980 pentru export internațional rafinat, a fost dotată pentru a produce zeci de derivate petroliere și un flux major de produse petrochimice brute, cum ar fi propilena. Când funcționează la putere maximă, imensele sale coșuri iluminate pe timp de noapte transformă orizontul golfului într-un veritabil oraș al focului și oțelului. Istorie K8 — industrializarea litorală nord-africană din anii '80.",
+      "factsAdvanced": [
+        "Complexul masiv a fost ridicat cu asistență tehnică internațională la începutul anilor 1980.",
+        "Capacitatea nominală ajunge până la un impresionant volum de 220.000 barili prelucrați zilnic.",
+        "Infrastructura este interconectată cu marele terminal de export brut aflat la aceeași locație.",
+        "Frecventele schimbări de proprietate politică a portului au dus la ruginirea multor unități secundare.",
+        "Rafinăria este vizată pentru ample modernizări în atragerea investițiilor din Turcia și zona Golfului.",
+        "Complexul rezidențial din jurul său a fost planificat pentru a găzdui o comunitate de zeci de mii de tehnicieni."
+      ]
+    },
+    {
+      "id": "lisco-misrata-steel-economic-v2",
+      "descriptionAdvanced": "Compania Libiană pentru Fier și Oțel (LISCO), amplasată în uriașa zonă portuară din Misrata, este de departe cea mai prodigioasă investiție industrială non-petrolieră din istoria statului libian. Inaugurată cu speranța diversificării economiei naționale, ea consumă pelete de minereu de fier importat și gaz natural intern pentru a fabrica milioane de tone de oțel brut, plăci, armături și țevi anual. Puterea sa colosală i-a adus recunoaștere la nivel african, iar repornirea cu succes a cuptoarelor sale masive după crizele recente este văzută ca simbol al mândriei regionale. Economie K8 — industria metalurgică grea și diversificarea post-petrolieră.",
+      "factsAdvanced": [
+        "A fost inaugurată oficial în anul 1989 și funcționează complet autonom la marginea Misratei.",
+        "Capacitatea anuală nominală teoretică de oțel lichid se situează la 1,3 milioane de tone.",
+        "Funcționarea sa se bazează integral pe injecția masivă a energiei ieftine din gazul natural național.",
+        "Furnizează majoritatea armăturilor de beton folosite în refacerea marilor orașe libiene.",
+        "Complexul este susținut de un mic port cu benzi rulante specializate și un doc pentru vrac.",
+        "În ciuda dificultăților logistice din ultimii ani, oțelul său este încă exportat către sudul Europei."
+      ]
+    },
+    {
+      "id": "zliten-cement-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica de Ciment din Zliten, una dintre marile unități de procesare chimică a țării, beneficiază pe deplin de imensele depozite calcaroase și cariere de nisip ale platourilor interioare. Reprezintă forța motrice ascunsă a sectorului construcțiilor din Libia modernă, eliberând o cantitate enormă de ciment gri tip Portland ambalat și vrac. Deși a provocat preocupări serioase legate de poluarea aerului pentru rezidenții orașului istoric vecin, necesitatea critică de clinker pentru reconstrucția imobilelor distruse în conflict garantează expansiunea sa constantă. Chimia K7 — producția de ciment și calitatea aerului urban.",
+      "factsAdvanced": [
+        "Unitatea generează constant un milion de tone de ciment anual pentru infrastructura națională vestică.",
+        "Alimentarea uzinei necesită resurse vaste de energie preluată din sistemul central de gaze naturale.",
+        "A fost supusă la repetate plângeri de mediu din cauza depunerilor masive de praf fin în zonele rezidențiale.",
+        "Bazează logistica pe transporturile frecvente ale zecilor de camioane de mare tonaj zilnic.",
+        "Este parte a marii inițiative de stat pentru naționalizarea materialelor de construcții libiene (Ahlia).",
+        "Piatra de var este exploatată la doar o scurtă distanță rutieră pe uscat în cariere deschise."
+      ]
+    },
+    {
+      "id": "mellitah-gas-plant-economic-v2",
+      "descriptionAdvanced": "Mellitah Gas Plant (Complexul de prelucrare) funcționează ca punctul de convergență tehnică unde cantități de gaze neprelucrate din inima mării (Offshore) și din adâncul extrem al Deșertului Vestic se întâlnesc. Este locul în care gazul sulfuros extrem de letal este "îndulcit" și procesat printr-o tehnologie complicată înainte de a fi livrat Italiei pe sub mare și centralelor electrice libiene interne. Datorită periculozității operațiunilor de extracție a sulfului și riscului presiunilor uriașe din conducte, complexul respectă proceduri de securitate fără egal la nivel de continent. Chimie K8 — îndulcirea gazului și deșeurile de sulf.",
+      "factsAdvanced": [
+        "Include zeci de coloane și furnale uriașe menite să incinereze sau să extragă compușii letali (H2S).",
+        "A reprezentat o investiție comună evaluată la multiple miliarde de euro realizată de gigantul Eni.",
+        "Procesează sute de mii de metri cubi de gaz în fiecare oră operativă.",
+        "Este strict reglementat de protocolul național antitero, fiind punct major de interes pentru siguranța Europei.",
+        "Sulful obținut din extracție este procesat în pelete solide, de culoare galben strălucitor, pentru a fi exportat.",
+        "Găzduiește și terminale pentru fracțiuni prețioase de condensat, transformându-l într-un complex de înaltă puritate petrochimică."
+      ]
+    },
+    {
+      "id": "khoms-power-plant-economic-v2",
+      "descriptionAdvanced": "Centrala Electrică Al Khoms, aflată vizavi de Marea Mediterană pentru răcire naturală, reprezintă o piatră de temelie în rețeaua națională de electricitate de care depinde vestul populat al Libiei. Această imensă instalație cu turbine cu ciclu combinat arde gaze naturale abundente primite prin conductele naționale pentru a menține aprinse luminile de la Tripoli la Misrata. Importanța sa strategică devine cumplit de vizibilă în zilele toride de vară, când orice scădere a performanței sale duce automat la pene uriașe de curent ce scot mase de oameni în stradă. Fizica K7 — centrale termoelectrice și disiparea termică.",
+      "factsAdvanced": [
+        "Deține mai multe generații de turbine complexe (abur și gaz) furnizate de parteneri sud-coreeni și nemți.",
+        "Ciclul său de răcire folosește permanent mii de litri de apă marină rece dezaerată.",
+        "Extinderea capacității de ultimă generație a fost implementată cu asistență din partea unor companii turcești mari.",
+        "Pierderile de capacitate ale acestei unități produc efecte instabile imediate asupra tensiunii din capitală.",
+        "Este frecvent apărată de structuri masive de securitate pentru a proteja rețeaua energetică vestică vulnerabilă.",
+        "Proiectată pe un principiu modular, capacitatea de megawați a centralei poate fi teoretic extinsă fără perturbare totală."
+      ]
+    },
+    {
+      "id": "ly-leptis-magna-history-v2",
+      "descriptionAdvanced": "Leptis Magna, denumit pe bună dreptate "Roma Africii", reprezintă cu certitudine unul dintre cele mai bine conservate, întinse și spectaculoase orașe romane vechi din toată lumea. Ridicat masiv și grandios de Împăratul Septimius Severus (născut aici), orașul captivează azi prin amfiteatrul său colosal, o piață imensă și ruinele băilor de marmură decorate luxos de la Marea Mediterană. Supraviețuind invaziilor, furtunilor de nisip, dar cel mai important ignorării evului mediu care l-a ascuns sub o pătură de nisip, Leptis Magna continuă să uimească fiecare arheolog pasionat. Istorie K8 — dinastia Severilor și urbanism roman de apogeu.",
+      "factsAdvanced": [
+        "Include uriașul Arc de Triumf al lui Septimius Severus, masiv sculptat din roci importate.",
+        "Băile Hadrianice dețin mozaicuri murale masive și bazine perfecte, vizibile și azi.",
+        "Piața Macellum are pavilioane centrale circulare deosebit de grandioase și rare ca design antic.",
+        "Înscris ferm pe lista prestigioasă a Patrimoniului Mondial UNESCO încă din anul 1982.",
+        "A supraviețuit o bună bucată de timp pentru că dunele groase de nisip au îngropat protector orașul după abandonare.",
+        "Ruinele impresionante sunt poziționate direct la gura naturală a valei mediteraneene Wadi Lebda."
+      ]
+    },
+    {
+      "id": "ly-sabratha-history-v2",
+      "descriptionAdvanced": "Ruinele arheologice colosale de la Sabratha, scăldate de apa albastră a Mării Mediterane la est de granița vestică, constituie un sit protejat UNESCO de rezonanță globală. Deși cartierul rezidențial este bogat, faima absolută aparține marelui teatru roman, meticulos și îndelung restaurat de istoricii italieni în perioada interbelică. Frumoasele podele decorate cu mozaic din bazilicile adiacente reflectă vechea bunăstare feniciană și romană câștigată în urma afacerilor extinse și profitabile făcute cu oazele sahariene din inima deșertului. Istorie K8 — rute feniciene și monumente mediteraneene romane.",
+      "factsAdvanced": [
+        "Teatrul de la Sabratha a fost reasamblat aproape complet de savanții italieni pe baza fragmentelor colapsate timp de decenii.",
+        "Fațada spectaculoasă (scena) teatrului este înconjurată de rânduri grandioase de coloane înalte de marmură roz și de piatră.",
+        "Își are originea primordială din fostul mic port de schimb, esențial de controlat pentru navigatorii fenicieni și cartaginezi.",
+        "Zona băilor la mare cuprinde bazine extinse mozaicate cu motive marine complexe, reprezentând o valoare inestimabilă.",
+        "Acest sit uluitor a fost declarat monument cu risc în timpul violențelor și lipsurilor financiare provocate de revoluțiile din 2011.",
+        "Ruinele paralele dezvăluie rămășițe importante dintr-un sanctuar al faimosului zeu punic venerat al sănătății."
+      ]
+    },
+    {
+      "id": "ly-cyrene-history-v2",
+      "descriptionAdvanced": "Cyrene a funcționat drept cea mai proeminentă capitală culturală din strălucitoarea grupare Cyrenaica antică grecească. Susținut adânc pe platourile superioare bogate în vegetație, orașul a fost inițial colonizat datorită îndrumării legendarului Oracol grec din Delphi. A atins o mare prosperitate prin recoltarea și vânzarea masivă a silphiumului, un panaceu și condiment cu proprietăți rare și miraculoase, în prezent dispărut de pe glob. Astăzi, vasta zonă acoperită de teatre, necropole gigantice și uriașul Templu original al lui Zeus amintesc de vremurile apogeului helen. Istorie K8 — expansiune colonială elenistică și ierburi medicinale antice.",
+      "factsAdvanced": [
+        "Situl se află integrat natural cu centrul modern din Shahhat, având vederi muntoase uimitoare și climat temperat.",
+        "Planta numită Silphium, unică pentru recolta lor, a fost atât de dorită antic încât era tipărită des pe vechile monede bătute la Cyrene.",
+        "Impresionantul sanctuar al lui zeului Apollo prezintă un izvor natural folosit non-stop milenii de locuitori.",
+        "Uriașul și uimitorul Templu principal din stâncă al lui Zeus era superior la scara măsurătorilor faimosului Parthenon din Atena.",
+        "Sutele de pietre de mormânt din vasta necropolă a orașului acoperă terasele stâncoase superioare din apropierea mării.",
+        "În acest oraș legendar a trăit și și-a publicat operele mari Eratostene, primul erudit capabil să măsoare corect cu geometrie dimensiunea reală a sferei Terrei."
+      ]
+    },
+    {
+      "id": "ly-apollonia-history-v2",
+      "descriptionAdvanced": "Apollonia a existat drept faimosul port fortificat și independent al puternicului Cyrene. Construit de coloniști antici fix la marginea apei pentru facilitarea comerțului elen rapid, Apollonia posedă astăzi farmecul incontestabil de a fi pe jumătate sub nivelul valurilor moderne din cauza coborârii geologice tectonice. Situl conservă remarcabil bazinele vechi, bisericile creștine antice și rămășițele clădirilor de putere locale. Teatrul original, parțial excavat din țărm, funcționează perfect ca o fereastră atemporală direct în orizontul nesfârșit al Mediteranei. Istorie K8 — ingineria portuară elenistică și scufundarea tectonică.",
+      "factsAdvanced": [
+        "Jumătatea din inima uriașului palat ducal antic al guvernatorului de epocă bizantină este impresionant localizat la granița marină.",
+        "Marea a inundat portul antic natural formând o arie subacvatică studiată intensiv de curajoșii scafandri arheologi din întreaga Europă.",
+        "Se cunoaște actualmente modern sub numele așezării litorale libiene recunoscute ca Susa din Cyrenaica.",
+        "Coloane groase creștine realizate din prețioasă rocă monolit stau alături de temeliile elenistice în stratificarea unică a puterii vechi.",
+        "Teatrul din rocă din capătul sitului arheologic era protejat istoric printr-un sistem solid de ziduri anti-val maritim.",
+        "O mică și excepțională insuliță înconjurătoare în estuarul antic conține rămășițele grandiosului Far original de îndrumare nautică."
+      ]
+    },
+    {
+      "id": "ly-ptolemais-history-v2",
+      "descriptionAdvanced": "Ptolemais este un oraș vechi cu o alură regală, o creație a fondatorilor regiunilor estice nord africane de influență ptolemeică și fosta mare capitală de facto din vechea provincie. Aflat la nivelul de câmpie muntoasă spre vest de marea vecină Cyrene, acest oraș dispune de străzi impecabil desenate și de remarcabilul Palat subteran elaborat plin de mozaicuri (cunoscut ca Vila Coloanelor) extrem de rar vizitat și conservat intact. Un centru cultural complet care subliniază opulența uimitoare a coloniștilor greci regali și tranziția lor perfectă către administrația târzie bizantină africană. Istorie K8 — regatul Ptolemeic extins din Egipt și planificarea hipodamică.",
+      "factsAdvanced": [
+        "Orașul antic a fost planificat strict având o grilă rutieră matematică (cunoscută azi drept inconfundabila grilă tip hipodamică din epocă).",
+        "Structurile masive ale cisternelor publice de rezervare a apei acoperă subsolul regiunii centrale pe kilometri uluitori ca mărime.",
+        "Găzduiește renumitul Palat spectaculos de influență imperială supranumit Casa Coloanelor, care prezintă mozaicuri bogate din lumea acvatică mediteraneană.",
+        "A atins titlul onorific de mare capitală superioară militară a puternicei regiuni Cyrenaica în vremea ultimului Imperiu roman creștin (perioada lui Dioclețian).",
+        "A fost vizitat doar rar de excursioniști moderni, fiind puternic ocultat pe rutele de vacanță comerciale față de Cyrene și Apollonia.",
+        "Ruine remarcabile aparținând bazilicii episcopale a episcopului istoric faimos, martirul Synesius, sunt în întregime conservate în areal."
+      ]
+    },
+    {
+      "id": "ly-tocra-history-v2",
+      "descriptionAdvanced": "Taucheira (supranumit Tocra modernă) reprezintă fosta fortăreață defensivă masivă din alianța veche Pentapolis, ridicată curajos pe faleza prăpăstioasă la nord de Benghazi de azi. Rămâne cel mai memorabil pentru peretele său gros și impunător ridicat în antichitate de greci și apărat masiv mai apoi de comandanții Marelui Imperiu Bizantin. Oricine vizitează azi situl este imediat impresionat de modul misterios și înfricoșător în care constructorii săi antici au tăiat cu măiestrie o enormă rețea subterană de catacombe de înhumare în piatra aspră fix sub albia Mediteranei, care astăzi se umple vizibil de valuri datorită creșterii nivelului oceanic. Istorie K7 — alianțele defensive ale Pentapolis-ului și necropole litorale.",
+      "factsAdvanced": [
+        "Are o istorie defensivă extrem de militarizată ca avanpost masiv grecesc și roman aflat lângă țărmul golfului din nord.",
+        "O enormă și misterioasă serie extinsă de cavouri mortuare a fost creată pe verticală sub zidurile așezării în apropierea fluxului maritim.",
+        "Zidul gros antic a fost în mare măsură refăcut la mari ordine militare impuse sub conducerea curții marelui domnitor bizantin Iustinian.",
+        "Găzduiește vestigiile clare ale mai multor vechi incinte bisericești timpurii cu planimetrie clară în formă vizibilă de cruce.",
+        "Orașul a fost menționat scurt ca Arsinoe din onoare strict pentru regina de la curtea marelui regat din Egipt (dinastia ptolemeică).",
+        "Cercetările sub nivelul marin au descoperit nenumărate ceramică exportată elenă provenită de la corăbii naufragiate în portul îngust periculos."
+      ]
+    },
+    {
+      "id": "ly-ghadames-old-town-history-v2",
+      "descriptionAdvanced": "Orașul Istoric Vechi din Ghadames este unul dintre cele mai extraordinare monumente arhitecturale tradiționale din toată lumea sahariană. O rețea incredibilă și labirintică de mii de ziduri înalte vopsite în argilă curată formează galerii lungi umbrite care reduc inteligent radiația necruțătoare a deșertului saharian. Etajele inferioare acoperite și închise reprezentau coridoarele de schimb valutar tradițional pentru transportatorii beduini și liderii comerciali, iar terasele deschise albe interconectate au fost create excepțional cu scopul rezervării plimbărilor luminoase din timpul zilei doar pentru femei, o minune pură antropologică unică lumii din Africa. Antropologie K8 — medine autohtone și separarea patriarhală a clădirilor de patrimoniu.",
+      "factsAdvanced": [
+        "Include denumirea turistică oficială mondială recunoscută sub numele Perla Arhitecturală Ascunsă a Saharei.",
+        "Are fântâna mare istorică artizanală numită fântâna veche Ain al-Faras, din care depindea fiecare așezare interioară existentă.",
+        "Structurile caselor masive din lut de izolare, construite stratificat, și paie rezistă constant și natural până la extrem de peste zeci de metri de căldură.",
+        "Camerele de onoare pentru recepția bogată a vizitatorilor dispun integral de zeci de picturi uimitoare detaliate în culoare caldă roșie.",
+        "Există porți de blocare strategice cu chei interioare ascunse pe vechi ulițe ale triburilor rivale vechi din inima orașului antic.",
+        "Marea structură antică era împărțită complet teritorial de vechi familii istorice dominante precum vechiul mare trib local din Bani Walid și marele trib Bani Wazid."
+      ]
+    },
+    {
+      "id": "ly-marcus-aurelius-arch-history-v2",
+      "descriptionAdvanced": "Arcul de Triumf al grandiosului împărat Marcus Aurelius stă, cu un aer extrem de melancolic și solitar, printre fațadele islamice ulterioare ale centrului capitalei libiene (Medina de pe vechiul țărm Oea). Ca singura uriașă relicvă din vechiul nucleu comercial roman pre-islamic supraviețuitor total neatins în toată capitala Tripoli, arcada spectaculoasă octogonală este construită din marmură antică adusă la ordin de peste ocean. Acest monument cu o vârstă de secole acționează constant ca punct fix atemporal, în timp ce piețele zgomotoase arăbești, bazarurile colorate vibrante și turiștii de pretutindeni pulsează continuu împrejurul vechiului său pavaj imperial neatins. Istorie K7 — expansiunea arhitecturală imperială în afara provinciilor peninsulare.",
+      "factsAdvanced": [
+        "Ridicarea oficială finală este datată în inscripții extrem de clar cu mari litere pentru finele gloriosului an 165 d.Hr.",
+        "A fost comandată oficial și sponsorizată ca investiție personală imensă din punga guvernatorului roman administrativ și magistrat al cetății antice.",
+        "Dispune uluitor de frumos detaliat de cupole reliefate care descriu chipurile protectoare faimoase ale vechiului și respectatului templu antic zeul Apollo și impunătoarea zeiță Minerva.",
+        "Cândva arcada strălucea poziționată la vechea încrucișare enormă dintre cardo maximus (axă nord-sud) și marele decumanus (axă est-vest) al cetății vechi imperiale Oea.",
+        "Arheologii străini din colonii l-au eliberat și excavat efectiv complet din nisip și moloz la mijlocul tumultos al secolului 20.",
+        "Piatra de construcție de calitate a arcului octogonal mare a fost adusă și cioplită minuțios din cariere valoroase situate direct pe continentul mare elenic european."
+      ]
+    },
+    {
+      "id": "ly-red-castle-history-v2",
+      "descriptionAdvanced": "Uriașul Castel Roșu al capitalei Tripolitane (cunoscut local drept impunătoarea Assaraya al-Hamra) tronează uriaș chiar deasupra apelor mediteraneene și faimoasei structuri largi de piață deschisă (Martyrs Square). Este nucleul istoric absolut necontestat din care întreaga istorie a orașului s-a conturat, construit inițial pe baza micilor ziduri lăsate în urmă de corăbierii pnici preistorici. Secole mai târziu, fortul gros și imens, pătat de vopseaua ocră-roșiatică intensă, a adăpostit faimoși vasali otomani temători, pirați temuți neînduplecați și suverani pașă independenți masivi (inclusiv marea dinastie sângeroasă independentă a Karamanlilor din istorie), dominând toată comerțul extins mediteranean secol cu secol. Istorie K8 — fortificații piraterești regionale și dinastia Karamanli nord-africană.",
+      "factsAdvanced": [
+        "Complexul găzduiește azi în mod remarcabil sălile enorme și diverse aparținând exclusiv Muzeului Istoric Național major al Libiei plin de statui antice extrem de valoroase.",
+        "Structura uriașă roșiatică masivă care îi oferă porecla celebră s-a format în principal din adunarea repetitivă cu reparații de mare complex fortificat colonial pe vremea influenței uriașe din Spania extinsă.",
+        "Curtea extrem de vastă din centrul palatelor groase cu fântâni spectaculoase frumos decorate amintește de imensul și bogatul trai dus la curțile marilor domnitori puternici Karamanli nord africani din istorie.",
+        "Înglobează nenumărate vestigii mici din primele baze ridicate ca ancoraj pe malul stâncos de vechii navigatori fenicieni străvechi antici retrași ce se ascundeau din fața valurilor mării aspre de nord libiene.",
+        "Tunuri britanice și italiene mari folosite în masivele lupte navale grele stau constant martore alături de bastioanele groase superioare de apărare vopsite roșu permanent al acestui colos unic arhitectural impunător pe mare.",
+        "O mică și excepțională veche curte superioară cu vedere direct pe orizont conținea ascunzătoarea și haremii mari de concubine extrem de extinși ale domnitorilor absolutști temători care luau tribut maritim din corăbiile străine trecătoare comercial."
+      ]
+    },
+    {
+      "id": "ly-tadrart-acacus-history-v2",
+      "descriptionAdvanced": "Magnificul masiv din piatră stâncoasă roșie denumit Tadrart Acacus din deșertul izolator de sud-vest, acționează similar unei uriașe arhive incredibil colorate și complet în aer liber despre vechile transformări ale schimbării climatice globale profunde și despre vechea reziliență absolută umană sahariana preistorică. Zecile de mii de scene vechi extrem de rare scrijelite uluitor ori frumos colorate minunat preistoric care prezintă efectivele imense de vânătoare curajoasă umană, animale pierdute din climă preistorică (girafe masive africane străvechi zvelte și mari crocodili hidrologici preistorici de apă dulce) alături de imagini de turme pașnice dovedesc clar cum regiunea sahariana fierbinte a reprezentat un ecosistem verde și bogat la suprafață din vechime pierdut azi complet istoric și global. Antropologie K8 — picturi rupestre deșertice extinse și ecologie de bază primitivă preistorică din savană complet schimbată.",
+      "factsAdvanced": [
+        "Situl natural este înscris și protejat internațional recunoscut oficial din partea patrimoniului mondial uriaș listat din 1985 ca urmare de către Marea Comisie Culturală U.N.E.S.C.O.",
+        "Conține scene care reflectă istoric faze climatice din vechime de la vechile popoare vânători-culegători vechi, de la oameni nomazi cu bovine domestice străvechi extrem de timpurii până inclusiv masive introduceri comerciale locale folosind uriași cai deșertici și cămile importate târzii rezistente.",
+        "Micul și fermecătorul sit montan Awiss a oferit mormintele cu vechile practici uimitor conservate ale procesului intenționat remarcabil foarte vechi prin folosirea formei clare preistorice incredibil de complicate și izolate din preistorie numite tehnic uluitor faimoasa formă izolatoare prin "mumificare extremă uluitor africană timpurie neobișnuit complet antică naturală internă numită local mumia din ued Tashwinat masivă faimoasă din Libia deșertică neobișnuită global din vest".",
+        "Regiunea abundă natural azi de un relief fascinant geologic masiv tip arcade mari arcuite imens spectaculos formate natural prin eroziune și monoliti giganți sculptați sub formele și direcțiile uriașelor furtuni frecvente neiertătoare libiene izolate periculoase extrem de vânt nisipos.",
+        "Unele scene uimitoare redau extrem de clar ceremonii magice comunitare vechi sociale și diverse petreceri ritmice necunoscute din cadrul societăților primitive ale familiilor pierdute din vechiul saharian vast timp.",
+        "Peisajul masiv arid izolat a funcționat din plin foarte istoric decenii la rând la explorarea intensă științifică asiduă realizată prin sprijinul unor mari exploratori moderni importanți profesioniști ai expedițiilor lungi faimoase din Italia peninsulară precum marele Fabrizio Mori de renume mondial respectat și important modern."
+      ]
+    },
+    {
+      "id": "ly-germa-history-v2",
+      "descriptionAdvanced": "Ruinele arheologice antice și fascinante deținute de așezarea uluitoare tăcută cunoscută demult la nivel istoric prin vechea chemare "măreața de necuprins cetate din sud antică capitala Germa extinsă regional izolat misterios ca vechea structură Garama" formează cu uimire complet miezul legendar al Marelui Imperiu temut complet necunoscut istoric denumit misterios grupul istoric de trib al marilor Garamanți antici africani. Aflate complet sub dune și așezate solitar sub umbra prăpăstiilor din regiunea deșertică profundă Wadi al Ajal sudică vest, fostul grup al marii culturi neînvinse Garamante antice care prospera controlând exclusiv traficul antic de caravane cu roți trase de prețioși cai din deșert și menținând uluitor prin irigații cu rețea foggara complex subteran enorm un masiv trai extrem de verde la limita cu Saharan absolut complet necruțătoare, fiind o societate impresionantă ignorată extrem de des și foarte complet pe tot continentul extins de nord arheologic. Istorie K8 — uluitoare rețele complexe sahariene foggara apeducte ascunse și dominația anticilor imperii locale complet izolate nord africani uitați.",
+      "factsAdvanced": [
+        "A fost sediul principal, inima strategică de bază extinsă uriaș militar din care se lansa influența extrem de complet extinsă necunoscută uluitoare veche sahariana masiv numită Marea Stăpânire Garamantă a Antichității sudului izolat vest din inima complet sălbatică sahariană uscată.",
+        "Civilizația dispunea uluitor de un complex uimitor ingenios sistem enorm complet subteran săpat din stânca așezării care scotea apa pentru sere, irigații locale prin structuri uluitoare masive recunoscute ca rețele foggara sau mari tunele hidraulice faimoase din antichitatea lor ascunse perfect masiv în sud.",
+        "Situl găzduiește uimitor ruinele de structură clare cu coloane romane aduse acolo de negustori, indicând vizitele uluitoare frecvente neîntrerupte lungi ale armatei Romei la o mie de km profund izolați de coastă mediteraneana clară.",
+        "Rămășițele izolate prezente abundent la marginea așezărilor conțin un stil propriu misterios tip morminte mari piramidale din chirpici folosite faimos de nobilimea Garamantă.",
+        "Locul central a supraviețuit complet mult după abandonul Romei dar a fost capturat brutal, jefuit și distrus parțial extrem de târziu în era complet islamică timpurie regională din partea marelui comandant arabo-musulman renumit istoric vechi extrem Uqba ibn Nafi extins de războinic puternic.",
+        "Descoperirile de sticle rafinate roșii, prețioase ceramici masive din import maritim grecesc roman și de comori unice din bazinul Mării Mediteranei au atestat un trafic bogat prin schimb de mărfuri exotice pe sclavi și lei masivi exotici de la sud la sud prin acești neînfricați mari intermediari călăreți rapizi mari ai Saharei extins curajoși misterioși curajoși Garamanți remarcabili mereu activi vechi."
+      ]
+    },
+    {
+      "id": "ly-slonta-history-v2",
+      "descriptionAdvanced": "Ascuns bine și profund sub un acoperiș muntos izolat din regiunile estice mediteraneene tipice din Jebel Akhdar oriental, Sanctuarul spectaculos pre-istoric uimitor din rocile de la umbroasa așezare din stânci montane pre-islamic numită tradițional rural extrem Slonta oferă absolut un sentiment uluitor macabru rar extrem misterios unic profund straniu cu mult diferit extrem de orice s-a mai remarcat vizual arhitectural vechi construit din partea regiunii complet masiv estice izolate. Sculpturile extrem de expresive macabre uriaș uluitor masiv grotești din piatra calcaroasă roșiatică locală cu capete umane descarnate uriaș ciudat de tăiate cu chipuri mari și un șir de animale misterioase cu rol complet absolut încă de nerezolvat au condus instant pe numeroși arheologi să presupună temător o legătură macabră veche profund religioasă a spațiului de onoare adus complet ritualic cu scop de mare ofrandă complet jertfită, legat misterios la un nivel comunitar tribal vechi de temuta mare lume a divinităților din infern aparținând clar masiv societăților indigene pământești tipice de cultură necunoscută tribală libiană locală extrem de straniu misterios extrem local ascuns de lume înainte complet de influența masivă complet civilizată venită de la coloniștii din Roma antică sau vechea Mare Elenă masivă cultură. Antropologie K8 — practici chthonice păgâne indigene obscure sahariene necunoscute de masă.",
+      "factsAdvanced": [
+        "Decorul sitului prezintă scrijelit adânc neobișnuit grobian scene mari și groase extrem de expresive cu chipuri decapitate lipsite de ochi ce flanchează ziduri stâncoase mari extrem reci la vedere de mari și ciudat din stâncă extrem natural dură calcaroasă roșie mediteraneana masivă nord africane libiene izolate muntoase estice.",
+        "Datarea temporală extrem de oficială a așezământului este masiv complet învăluită continuu într-o dezbatere aprinsă constant între toți oamenii de știință extrem specializați unici care au cercetat mormântul, mulți atribuind-o cert pe seama populațiilor antice tribale din interior total neelene vechi pre-romane masive ignorate.",
+        "Atmosfera greoaie lugubră extrem de grea și prezența neexplicată deloc a atâtor mari cranii mari umane cu porci ciudați reprezintă probabil clar la vederea generală cel mai probabil prezența fixă a unui mare cult mortuar mare neobișnuit straniu dedicat direct unor vechi extrem zei subpământeni puternici ignorat masiv ascunși la margine.",
+        "Se găsește ușor coborând complet pe la jumătatea stâncilor ascunse de copaci dintr-un traseu izolat ferit lateral stâncos abrupt rural mediteranean din aproprierea vechilor mari plantații de livezi a micuței așezări sudice montane liniștite de provincie numite izolat pitoresc sat rural Slonta tradițional complet pitoresc montan curat sud Bayda.",
+        "Acest templu extrem tăcut masiv ascuns la vedere ignoră absolut direct orice urmă fină de detaliu clar frumos tipic grațios perfect fin aparținând curentelor coloniștilor mediteraneeni clasici vechi grecești ce de regulă domină perfect zona estului marin vizibil masiv complet arhitectural izolat grandios mare de la mare la munți masivi nord libieni estici pitoresc clar grecesc complet antic perfect fin curat vechi mediteranean masiv din coastă la centru muntos curat istoric vechi.",
+        "Unii foarte respectați extrem academic exploratori istorici sugerează cert parțial o legătură rară posibilă clar de conexiune unică tematic cu masiv descrisele din mitologie triburi mari pre-romane vechi temute mari izolate de munte ale anticilor masiv războinici libieni rebeli munteni cunoscuți foarte vag ca vechii oameni războinici călare masiv misterioși izolați din neamul antic uitat și asuprit clar masiv trib extrem nomad montan cunoscut ca "neam de băștinași antici numiți extrem temut Macai uitați vechi locali războinici estici curajosi uimitor"."
+      ]
+    }
+  ]
+}

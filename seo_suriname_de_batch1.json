@@ -1,0 +1,323 @@
+{
+  "lang": "de",
+  "country": "suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLifeV2.ts",
+    "lib/visualLab/data/poiExtraSurinameNatureV2.ts",
+    "lib/visualLab/data/poiExtraSurinameReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "paramaribo-cities-v2",
+      "descriptionAdvanced": "Paramaribo, das Herz von Suriname, besticht durch eine einzigartige Mischung aus niederländischer Kolonialarchitektur und einer vielfältigen, multikulturellen Gesellschaft. Die historische Innenstadt gehört seit 2002 zum UNESCO-Weltkulturerbe und zeigt mit ihren prachtvollen, weißen Holzhäusern den Reichtum vergangener Jahrhunderte. Entlang des Suriname-Flusses finden Besucher das Fort Zeelandia, das einst zur Verteidigung der Kolonie diente. Heute ist die Stadt ein lebendiges Zentrum, in dem Kirchen, Moscheen und Synagogen friedlich nebeneinander bestehen. Paramaribo bietet Reisenden nicht nur kulturelle Einblicke, sondern auch kulinarische Erlebnisse, die die Geschichte des Landes widerspiegeln. Földrajz K7 — városok és kulturális örökség.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1613 von den Niederländern als Handelsposten gegründet.",
+        "Das historische Zentrum wurde 2002 zum UNESCO-Weltkulturerbe erklärt.",
+        "Die St.-Peter-und-Paul-Kathedrale ist die größte Holzkirche der westlichen Hemisphäre.",
+        "Über 240.000 Menschen leben hier, was fast der Hälfte der Gesamtbevölkerung entspricht.",
+        "Paramaribo liegt etwa 15 Kilometer landeinwärts am Westufer des Suriname-Flusses.",
+        "Die Stadt ist bekannt für das friedliche Nebeneinander von Synagoge und Moschee.",
+        "Der Name stammt wahrscheinlich von der indigenen Siedlung 'Parmurbo' ab.",
+        "Das Fort Zeelandia beherbergt heute das bedeutende Suriname-Museum."
+      ]
+    },
+    {
+      "id": "lelydorp-cities-v2",
+      "descriptionAdvanced": "Lelydorp, südlich der Hauptstadt Paramaribo gelegen, ist ein wichtiges regionales Zentrum und die zweitgrößte Stadt Surinames. Ursprünglich unter dem Namen Kofi-Djompo bekannt, erinnert der heutige Name an Cornelis Lely, den niederländischen Ingenieur, der maßgeblich an den Plänen für die Entwässerung und die Infrastruktur des Landes beteiligt war. Die Stadt zeichnet sich heute durch ihre vielfältige ethnische Bevölkerung aus, wobei insbesondere die javanische Kultur eine bedeutende Rolle spielt. Als ehemaliger wichtiger Knotenpunkt der Lawa-Eisenbahn hat Lelydorp seine koloniale Bedeutung bewahrt und dient heute als geschäftiger Ort mit lebendigen Märkten und einer lebendigen Gemeinschaft. Földrajz K6 — közlekedési csomópontok.",
+      "factsAdvanced": [
+        "Lelydorp ist der Hauptort des Distrikts Wanica in Suriname.",
+        "Die Stadt war ein zentraler Halt der ehemaligen Lawaspurbahn (1903–1986).",
+        "Der ursprüngliche Name 'Kofi-Djompo' erinnert an den geflüchteten Sklaven Kofi.",
+        "Die heutige Benennung erfolgte zu Ehren des Ingenieurs Cornelis Lely.",
+        "Die Stadt gilt als das kulturelle Herz der javanischen Gemeinschaft in Suriname.",
+        "Lelydorp liegt strategisch an der Hauptstraße zum internationalen Flughafen.",
+        "Die Region ist bekannt für ihre fruchtbare Landwirtschaft und Gärtnereien.",
+        "In der Nähe befindet sich der Neotropical Butterfly Park für Naturinteressierte."
+      ]
+    },
+    {
+      "id": "sr-dr-jules-sedney-haven-economic-v2",
+      "descriptionAdvanced": "Der Dr. Jules Sedney Haven ist das logistische Tor Surinames zur Welt und spielt eine entscheidende Rolle für die wirtschaftliche Entwicklung des Landes. Benannt nach dem ehemaligen Premierminister Jules Sedney, der maßgeblich zur Modernisierung beigetragen hat, bildet er den wichtigsten Knotenpunkt für den Güterumschlag. Der Hafen am Ufer des Suriname-Flusses fungiert als zentrale Umschlagstelle für Importe und Exporte, die den täglichen Bedarf der Bevölkerung und die industrielle Produktion sichern. Durch kontinuierliche Erweiterungen und Modernisierungen hat sich der Hafen zu einer modernen maritimen Anlage entwickelt, die für die surinamische Handelsbilanz unverzichtbar ist. Földrajz K8 — világgazdaság és szállítás.",
+      "factsAdvanced": [
+        "Der Hafen wurde nach Dr. Jules Sedney, einem Ökonomen und Politiker, benannt.",
+        "Er ist der größte und modernste Tiefwasserhafen von Suriname.",
+        "Die Anlage wird von der staatlichen Behörde 'Havenbeheer Suriname' verwaltet.",
+        "Jährlich werden hier über 2 Millionen Tonnen Fracht umgeschlagen.",
+        "Das Terminal bietet spezialisierte Anlagen für den Container- und Stückgutverkehr.",
+        "Der Hafen erhielt mehrfach Auszeichnungen für Effizienz in der Karibik-Region.",
+        "Er liegt strategisch günstig etwa 15 km von der Mündung des Suriname-Flusses entfernt.",
+        "Moderne Scansysteme sorgen für eine hohe Sicherheit bei der Zollabwicklung."
+      ]
+    },
+    {
+      "id": "sr-rosebel-goldmine-economic-v2",
+      "descriptionAdvanced": "Die Rosebel-Goldmine im Brokopondo-Distrikt ist ein Gigant der surinamischen Industrie und eine der bedeutendsten Goldminen in ganz Südamerika. Seit ihrer Eröffnung hat sie die regionale Landschaft maßgeblich geprägt und ist zu einem unverzichtbaren Motor für die nationale Wirtschaft geworden. Der industrielle Tagebau erfordert komplexe technische Prozesse, um das Gold aus dem Gestein zu gewinnen, was Tausende von Arbeitsplätzen schafft. Rosebel steht nicht nur für wirtschaftlichen Erfolg, sondern auch für die Herausforderungen der nachhaltigen Ressourcenbewirtschaftung in einer ökologisch sensiblen Region. Als wichtiger Exporteur leistet die Mine einen wesentlichen Beitrag zu den Staatseinnahmen Surinames. Földrajz K8 — nyersanyagok és ipar.",
+      "factsAdvanced": [
+        "Die Goldförderung in der Rosebel-Mine begann offiziell im Jahr 2004.",
+        "Die Mine erstreckt sich über eine Fläche von etwa 17.000 Hektar.",
+        "Sie wird heute mehrheitlich von der chinesischen Zijin Mining Group betrieben.",
+        "Gold ist das wichtigste Exportgut Surinames und sichert die Deviseneinnahmen.",
+        "Der Tagebau umfasst mehrere aktive Gruben im Brokopondo-Distrikt.",
+        "Rosebel beschäftigt direkt und indirekt über 2.000 Menschen vor Ort.",
+        "Die Mine verfügt über eine eigene Verarbeitungsanlage für Golderz.",
+        "Große Investitionen in Umweltschutz und Rekultivierung werden kontinuierlich getätigt."
+      ]
+    },
+    {
+      "id": "sr-merian-goldmine-economic-v2",
+      "descriptionAdvanced": "Die Merian-Goldmine im Osten Surinames stellt ein hochmodernes Bergbauprojekt dar, das eine zentrale Rolle in der Wirtschaftslandschaft des Landes einnimmt. Betrieben unter internationaler Führung durch Newmont, nutzt die Mine effiziente Verfahren, um die Goldvorkommen in dieser abgelegenen Region nachhaltig und rentabel zu erschließen. Durch die Schaffung von Infrastruktur in bisher schwer erreichbaren Gebieten hat Merian nicht nur die lokale Wirtschaft gestärkt, sondern auch die Erschließung des Ostens vorangetrieben. Das Projekt ist ein herausragendes Beispiel für moderne internationale Investitionen, die auf technologische Präzision und skalierbare Produktion setzen, um den nationalen Export massiv zu steigern. Földrajz K8 — bányászat és globális tőke.",
+      "factsAdvanced": [
+        "Die Merian-Goldmine wird von Newmont Suriname (75%) und Staatsolie (25%) betrieben.",
+        "Die kommerzielle Produktion in der Mine startete im Oktober 2016.",
+        "Sie befindet sich etwa 60 Kilometer südlich der Stadt Moengo im Osten.",
+        "Die Mine hat eine geschätzte jährliche Produktion von über 400.000 Unzen Gold.",
+        "Newmont investiert massiv in Bildungsprogramme für die lokale Maroon-Bevölkerung.",
+        "Das Projekt nutzt modernste Technologien zur Reduzierung des Quecksilber-Einsatzes.",
+        "Die Stromversorgung erfolgt teilweise über eine eigene Hochspannungsleitung.",
+        "Merian ist eine der kosteneffizientesten Goldminen im weltweiten Newmont-Portfolio."
+      ]
+    },
+    {
+      "id": "sr-tout-lui-faut-raffinerie-economic-v2",
+      "descriptionAdvanced": "Die Raffinerie in Tout Lui Faut ist das Herzstück der surinamischen Energiebranche und wird vom staatlichen Ölkonzern Staatsolie betrieben. Als einzige Anlage dieser Art im Land verarbeitet sie das lokal geförderte Rohöl zu hochwertigen Kraftstoffen wie Diesel und Benzin. Diese Unabhängigkeit bei der Kraftstoffversorgung ist ein entscheidender Faktor für die wirtschaftliche Stabilität Surinames. Durch kontinuierliche technologische Upgrades, insbesondere durch die Erweiterungen in den 2010er Jahren, konnte die Kapazität massiv gesteigert werden. Heute versorgt die Raffinerie nicht nur den wachsenden nationalen Markt, sondern trägt durch gezielten Export auch aktiv zur Devisenbilanz bei. Földrajz K8 — energiaipar és feldolgozás.",
+      "factsAdvanced": [
+        "Die Raffinerie gehört zu 100% der staatlichen Ölgesellschaft Staatsolie.",
+        "Sie befindet sich südlich von Paramaribo am Ufer des Suriname-Flusses.",
+        "Die Kapazität wurde 2014 durch einen massiven Ausbau auf 15.000 Barrel pro Tag verdoppelt.",
+        "Die Anlage produziert schwefelarmen Diesel, Benzin und Schweröl (Fuel Oil).",
+        "Das Rohöl wird über eine Pipeline direkt von den Onshore-Ölfeldern geliefert.",
+        "Staatsolie deckt mit der Raffinerie einen Großteil des nationalen Kraftstoffbedarfs.",
+        "An der Anlage ist ein modernes Kraftwerk zur Eigenstromversorgung angeschlossen.",
+        "Die Raffinerie erfüllt internationale Standards für Sicherheit und Umweltschutz."
+      ]
+    },
+    {
+      "id": "sr-tambaredjo-oelfeld-economic-v2",
+      "descriptionAdvanced": "Das Ölfeld Tambaredjo im Distrikt Saramacca ist ein historischer Grundpfeiler der surinamischen Erdölproduktion. Als eines der ersten großen Felder, die von der staatlichen Staatsolie erschlossen wurden, hat es den Weg für die energetische Autonomie des Landes geebnet. Die Förderung von schwerem Rohöl in dieser Onshore-Region ist ein komplexes, aber eingespieltes Verfahren. Mittels einer eigens errichteten Pipeline wird das geförderte Öl direkt zur Raffinerie nach Tout Lui Faut geleitet, was den Prozess hocheffizient macht. Das Feld bleibt durch kontinuierliche Exploration und den Einsatz moderner Fördertechnik weiterhin ein zentraler Leistungsträger für Staatsolie. Földrajz K8 — fosszilis tüzelőanyagok.",
+      "factsAdvanced": [
+        "Die erste kommerzielle Ölförderung in Tambaredjo begann im Jahr 1982.",
+        "Das Feld produziert hauptsächlich schweres Rohöl (Saramacca Crude).",
+        "Es befinden sich tausende aktive Bohrungen in der Küstenebene von Saramacca.",
+        "Die gesamte Förderung erfolgt on shore (an Land), nicht im Meer.",
+        "Eine 55 Kilometer lange Pipeline verbindet das Feld mit der Raffinerie.",
+        "Tambaredjo ist das produktivste Onshore-Ölfeld in der Geschichte Surinames.",
+        "Staatsolie nutzt moderne Dampfinjektionsverfahren zur Steigerung der Ausbeute.",
+        "Das Ölfeld liegt in einem ökologisch sensiblen Gebiet mit Mangroven und Sümpfen."
+      ]
+    },
+    {
+      "id": "sr-calcutta-oelfeld-economic-v2",
+      "descriptionAdvanced": "Das Ölfeld Calcutta im Distrikt Saramacca ergänzt die nationale Erdölförderung und ist ein strategischer Bestandteil der Onshore-Aktivitäten von Staatsolie. Benannt nach der nahegelegenen Siedlung Calcutta, leistet dieses Feld einen wertvollen Beitrag zur Gesamtproduktion des Unternehmens. Durch moderne Explorationstechniken konnten auch hier gezielt Reserven erschlossen werden, die zur stabilen Versorgung der Raffinerie beitragen. Das Feld unterstreicht das Engagement von Staatsolie, auch in kleineren oder ergänzenden Onshore-Gebieten die Förderung voranzutreiben, um die Energieautonomie Surinames weiter zu stärken. Földrajz K8 — kőolajbányászat.",
+      "factsAdvanced": [
+        "Das Calcutta-Feld wurde nach dem erfolgreichen Tambaredjo-Feld erschlossen.",
+        "Es befindet sich westlich von Paramaribo im Distrikt Saramacca.",
+        "Die Förderung erfolgt unter der Leitung der staatlichen Staatsolie Maatschappij.",
+        "Calcutta trägt wesentlich zur täglichen Rohölproduktion von etwa 16.000 Barrel bei.",
+        "Das geförderte Öl wird zusammen mit dem Tambaredjo-Öl verarbeitet.",
+        "Explorationsbohrungen in Calcutta nutzen modernste 3D-Seismik-Daten.",
+        "Das Feld sichert langfristige Reserven für die nationale Energieversorgung.",
+        "Lokale Arbeitskräfte aus Saramacca sind maßgeblich am Betrieb beteiligt."
+      ]
+    },
+    {
+      "id": "sr-hafen-paranam-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Paranam blickt auf eine geschichtsträchtige industrielle Vergangenheit zurück, die eng mit dem Aufstieg Surinames als Bauxit-Produzent verknüpft ist. Gelegen am Ufer des Suriname-Flusses, diente er über Jahrzehnte hinweg als zentraler Umschlagplatz für Bauxit und Aluminiumoxid. Diese Güter wurden in der nahegelegenen Raffinerie verarbeitet und von Paranam aus in die ganze Welt verschifft. Heute zeugt der Hafen von einer Ära, in der der Bergbau das Rückgrat der surinamischen Exportwirtschaft bildete. Auch wenn die ursprüngliche industrielle Nutzung zurückgegangen ist, bleibt Paranam ein bedeutender Ort für das Verständnis der ökonomischen Transformation Surinames. Földrajz K8 — ipari örökség és kikötők.",
+      "factsAdvanced": [
+        "Paranam wurde in den 1940er Jahren als Zentrum für den Bauxitabbau gegründet.",
+        "Der Hafen liegt am tiefen Fahrwasser des Suriname-Flusses, ideal für Hochseeschiffe.",
+        "Jahrzehntelang war dies der wichtigste Exporthafen für Aluminiumoxid weltweit.",
+        "Suralco (Alcoa) betrieb hier eine große Aluminiumschmelze und Raffinerie.",
+        "Nach Einstellung der Bauxitförderung 2015 wandelte sich die Nutzung des Hafens.",
+        "Heute wird Paranam als Logistikstandort für die Öl- und Gasindustrie geprüft.",
+        "Die Infrastruktur umfasst schwere Verladebrücken und Siloanlagen.",
+        "Paranam ist durch eine befestigte Straße direkt mit Paramaribo verbunden."
+      ]
+    },
+    {
+      "id": "sr-hafen-nieuw-nickerie-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Nieuw Nickerie fungiert als das landwirtschaftliche Herz des Westens und ist der wichtigste Exportpunkt für surinamischen Reis. Gelegen im Distrikt Nickerie, sichert dieser Hafen den Zugang zu internationalen Märkten für die Erzeugnisse der regionalen Bauern. Die Verladung von Reis und anderen Agrarprodukten bildet die ökonomische Basis der Region und unterstreicht die Bedeutung Nickeries als Kornkammer des Landes. Durch seine strategische Lage nahe der Grenze zu Guyana spielt der Hafen auch eine Rolle im grenzüberschreitenden Handel und in der Versorgung des nordwestlichen Teils von Suriname. Földrajz K7 — mezőgazdasági export.",
+      "factsAdvanced": [
+        "Nieuw Nickerie ist der zweitwichtigste Hafenstandort von Suriname.",
+        "Der Hafen ist spezialisiert auf den Export von Reis (Husked und Cargo-Rice).",
+        "Er liegt am Nickerie-Fluss, kurz vor dessen Mündung in den Atlantik.",
+        "Die Verladekapazitäten sind eng mit den Erntezyklen der Reisfelder verknüpft.",
+        "Große Silos und Reismühlen befinden sich in unmittelbarer Hafennähe.",
+        "Der Hafen ist ein zentraler Arbeitgeber für die lokale Bevölkerung im Nordwesten.",
+        "Regelmäßige Küstenschifffahrt verbindet Nickerie mit der Hauptstadt Paramaribo.",
+        "Pläne zum Ausbau als Deep-Water-Port für die Offshore-Industrie existieren."
+      ]
+    },
+    {
+      "id": "sr-hafen-moengo-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Moengo ist ein historisches Zeugnis des Bergbaubooms, der den Osten Surinames im 20. Jahrhundert nachhaltig prägte. Gelegen im Landesinneren am Cottica-Fluss, diente diese Umschlagstelle als lebenswichtige Arterie für den Transport von Bauxit. Die industrielle Entwicklung, die mit der Ausbeutung der lokalen Vorkommen an Bauxit einherging, machte Moengo zu einem zentralen Wirtschaftsknotenpunkt. Auch wenn die Ära des großen Bergbaubooms heute vorbei ist, bleibt der Hafen ein bedeutendes Element der industriellen Geschichte und der geografischen Erschließung des östlichen Surinames, das die Transformation des Landes widerspiegelt. Történelem K8 — iparosítás és bányászat.",
+      "factsAdvanced": [
+        "Moengo war einst die erste 'Bauxit-Stadt' der Welt, gegründet 1916.",
+        "Der Hafen liegt weit landeinwärts am gewundenen Cottica-Fluss.",
+        "Früher fuhren riesige Bauxitfrachter den schmalen Fluss bis nach Moengo hinauf.",
+        "Suralco betrieb hier jahrzehntelang die Gewinnung und den Export von Roherz.",
+        "Die Stadt Moengo wurde am Reißbrett als Industriesiedlung entworfen.",
+        "Nach 2015 wurde der Bauxit-Umschlag aufgrund erschöpfter Minen eingestellt.",
+        "Heute dient der Hafen als Umschlagplatz für land- und forstwirtschaftliche Güter.",
+        "Das Moengo-Kulturzentrum nutzt ehemalige Industriegebäude in der Nähe."
+      ]
+    },
+    {
+      "id": "sr-surinaamse-brouwerij-economic-v2",
+      "descriptionAdvanced": "Die Surinaamse Brouwerij ist mehr als nur eine Produktionsstätte; sie ist ein kulturelles Wahrzeichen und der stolze Hersteller des landesweit bekannten Parbo Biers. Seit ihrer Gründung im Jahr 1954 hat sie sich als fester Bestandteil der surinamischen Getränkeindustrie etabliert. Als Teil der Heineken-Gruppe verbindet die Brauerei lokale Tradition mit internationalem Qualitätsanspruch. Mit ihren Produktionsprozessen ist sie ein bedeutender Arbeitgeber und ein Inbegriff für surinamische Gastfreundschaft. Das Parbo Bier ist weit mehr als nur ein Erfrischungsgetränk; es ist ein Symbol für die lokale Identität und das soziale Leben, das in keinem Haushalt und keiner Feier fehlen darf. Földrajz K8 — élelmiszeripar és márkák.",
+      "factsAdvanced": [
+        "Die Surinaamse Brouwerij wurde offiziell im Jahr 1954 gegründet.",
+        "Das bekannteste Produkt, Parbo Bier, kam 1955 auf den Markt.",
+        "Die Brauerei gehört heute mehrheitlich zum Heineken-Konzern.",
+        "Die ikonische 1-Liter-Flasche wird in Suriname liebevoll 'Djogo' genannt.",
+        "Die Produktion erfolgt nach strengen Qualitätsstandards am Standort Paramaribo.",
+        "Neben Bier produziert das Unternehmen auch Erfrischungsgetränke und Malzgetränke.",
+        "Die Brauerei exportiert Parbo Bier auch in die Niederlande und die Karibik.",
+        "Sie ist einer der größten Steuerzahler und Sponsoren im Bereich Kultur und Sport."
+      ]
+    },
+    {
+      "id": "sr-fernandes-bottling-economic-v2",
+      "descriptionAdvanced": "Die Fernandes Bottling Company ist ein Eckpfeiler der surinamischen Konsumgüterindustrie. Als autorisierter Abfüller für Coca-Cola bringt das Unternehmen weltweit bekannte Marken in das Land. Gleichzeitig produziert es die eigene, ikonische Softdrink-Marke 'Fernandes', die nicht nur in Suriname, sondern auch in der Diaspora einen legendären Status genießt. Aus einem kleinen Familienunternehmen hervorgegangen, hat sich Fernandes zu einem modernen, dynamischen Konzern entwickelt, der die Geschmackskultur maßgeblich mitgeprägt hat. Mit seinem Fokus auf Qualität und Innovation ist das Unternehmen ein unverzichtbarer Akteur, der die tägliche Versorgung mit erfrischenden Getränken sicherstellt. Földrajz K8 — fogyasztási cikkek és kereskedelem.",
+      "factsAdvanced": [
+        "Fernandes Bottling wurde 1938 gegründet und startete mit der Coca-Cola Lizenz.",
+        "Die Eigenmarke 'Fernandes Softdrinks' ist berühmt für Geschmacksrichtungen wie Cherry Bouquet.",
+        "Das Unternehmen ist Teil der Fernandes Group, einem der größten Konglomerate Surinames.",
+        "Nach einem verheerenden Brand 2021 wurde die Produktion modernisiert wiederaufgebaut.",
+        "Fernandes Produkte sind in den Niederlanden ein Symbol für surinamische Identität.",
+        "Das Unternehmen betreibt eine der modernsten Abfüllanlagen in der Region.",
+        "Nachhaltigkeit wird durch Recyclingprogramme für PET-Flaschen aktiv gefördert.",
+        "Fernandes beliefert über 4.000 Einzelhändler in ganz Suriname."
+      ]
+    },
+    {
+      "id": "sr-sab-rum-destillerie-economic-v2",
+      "descriptionAdvanced": "Die SAB Rum-Destillerie (Suriname Alcoholic Beverages) steht für die jahrhundertealte Tradition der Rum-Herstellung in Suriname. Bekannt für Marken wie Mariënburg Rum und Borgoe, verarbeitet die Destillerie surinamische Melasse zu preisgekrönten Spirituosen. Die Geschichte des Unternehmens ist eng mit der Zuckerrohrvergangenheit des Landes verknüpft. Heute nutzt SAB moderne Destillationsverfahren, um Produkte zu kreieren, die sowohl lokal als auch international für ihre Qualität und ihren einzigartigen Geschmack geschätzt werden. Als Symbol für surinamische Genusskultur leistet die Destillerie einen wichtigen Beitrag zur Wertschöpfung aus agrarischen Rohstoffen und zur Repräsentation des Landes im Ausland. Történelem K8 — gyarmati áruk és feldolgozóipar.",
+      "factsAdvanced": [
+        "SAB wurde 1966 gegründet, führt aber die Tradition der Plantagendestillerien fort.",
+        "Der 'Borgoe Rum' ist nach der Plantage Mariënburg (Burg/Borgoe) benannt.",
+        "Die Destillerie befindet sich in Paramaribo am Suriname-Fluss.",
+        "Borgoe 82 und Borgoe 15 gehören zu den international prämierten Premium-Rums.",
+        "Grundstoff der Produktion ist Melasse, ein Nebenprodukt der Zuckerherstellung.",
+        "SAB betreibt ein eigenes Rum-Museum auf dem Firmengelände.",
+        "Die Produkte werden in die gesamte Karibik und nach Europa exportiert.",
+        "Das Unternehmen bewahrt das handwerkliche Erbe der surinamischen Destillationskunst."
+      ]
+    },
+    {
+      "id": "sr-sail-garnelenfabrik-economic-v2",
+      "descriptionAdvanced": "Die SAIL Garnelenfabrik ist ein zentraler Akteur in der surinamischen Fischereiindustrie und ein wichtiger Exporteur von Meeresfrüchten. Als staatliches Unternehmen hat sich SAIL auf die Verarbeitung und den Export von hochwertigen Garnelen spezialisiert, die in den Gewässern vor der Küste Surinames gefangen werden. Die Fabrik erfüllt strengste internationale Hygienestandards, um Märkte in Europa, Japan und Nordamerika zu bedienen. Durch die nachhaltige Nutzung mariner Ressourcen leistet SAIL einen wesentlichen Beitrag zur Ernährungssicherung und zur Devisenbeschaffung. Die Fabrik ist ein Symbol für die Bedeutung des blauen Sektors für die wirtschaftliche Vielfalt und die industrielle Basis des Landes. Földrajz K8 — halászat és világkereskedelem.",
+      "factsAdvanced": [
+        "SAIL steht für 'Suriname American Industries Limited' und wurde 1955 gegründet.",
+        "Das Unternehmen ist heute zu 100% im Besitz des surinamischen Staates.",
+        "Die Fabrik ist spezialisiert auf Seabob-Garnelen und Tiefseegarnelen.",
+        "Suriname ist einer der führenden Exporteure für MSC-zertifizierte Seabob-Garnelen.",
+        "Die moderne Verarbeitungsanlage befindet sich am Ufer des Suriname-Flusses.",
+        "SAIL betreibt eine eigene flotte von Trawlern für den Fischfang.",
+        "Strenge EU-Zertifizierungen ermöglichen den Export in den europäischen Binnenmarkt.",
+        "Das Unternehmen sichert hunderte Arbeitsplätze in der Fischverarbeitung."
+      ]
+    },
+    {
+      "id": "sr-de-molen-getreidemuehle-economic-v2",
+      "descriptionAdvanced": "Die Getreidemühle De Molen ist eine lebenswichtige industrielle Anlage, die die Grundversorgung Surinames mit Mehl und Getreideprodukten sicherstellt. Da Weizen in Suriname nicht angebaut werden kann, importiert De Molen Rohgetreide und verarbeitet es vor Ort zu hochwertigem Mehl für Bäckereien und Haushalte. Diese lokale Verarbeitung reduziert die Abhängigkeit von teuren Importen fertiger Lebensmittel und stärkt die nationale Ernährungssicherheit. Mit modernen Mühlenanlagen und einem Fokus auf Qualität ist De Molen ein unverzichtbarer Teil der lokalen Lebensmittelkette, der sicherstellt, dass Grundnahrungsmittel wie Brot für die gesamte Bevölkerung erschwinglich und verfügbar bleiben. Földrajz K8 — élelmezésbiztonság és ipar.",
+      "factsAdvanced": [
+        "De Molen wurde 1968 gegründet, um die Abhängigkeit von Mehlimporten zu senken.",
+        "Die Mühle befindet sich in unmittelbarer Nähe zum Dr. Jules Sedney Hafen.",
+        "Der benötigte Weizen wird hauptsächlich aus Nordamerika und Europa importiert.",
+        "De Molen deckt nahezu 100% des Mehlbedarfs der surinamischen Bäckereien.",
+        "Neben Weizenmehl produziert das Unternehmen auch Tierfutter aus Kleie.",
+        "Die Anlage nutzt modernste Silosysteme zur Lagerung von Getreidereserven.",
+        "Qualitätskontrollen im eigenen Labor sichern den Standard für die Brotherstellung.",
+        "Das Unternehmen ist ein Schlüsselbetrieb für die nationale Ernährungssicherheit."
+      ]
+    },
+    {
+      "id": "sr-vsh-foods-margarinefabrik-economic-v2",
+      "descriptionAdvanced": "Die VSH Foods Margarinefabrik ist ein herausragender Akteur in der karibischen Lebensmittelindustrie. Als Teil der renommierten VSH United Group hat sich das Unternehmen auf die Produktion hochwertiger Margarine und Speisefette spezialisiert. Durch modernste Produktionsmethoden und zertifizierte Herstellungsverfahren konnte VSH Foods eine führende Marktposition erreichen. Das Unternehmen trägt nicht nur zur lokalen Versorgung bei, sondern bedient auch einen wachsenden regionalen Markt mit Exporten in verschiedene karibische Staaten. Qualität und Innovationskraft sind die Säulen, auf denen VSH Foods sein Renommee aufgebaut hat, und das Unternehmen bleibt ein wichtiger industrieller Arbeitgeber im Land. Földrajz K8 — regionális kereskedelem.",
+      "factsAdvanced": [
+        "VSH Foods wurde 1963 gegründet und startete die Produktion in Paramaribo.",
+        "Die bekanntesten Marken sind 'Gelebek' und 'Yolanda' Margarine.",
+        "Das Unternehmen ist an der surinamischen Börse (SSX) gelistet.",
+        "VSH Foods exportiert erfolgreich nach Guyana, Trinidad und in andere Inselstaaten.",
+        "Die Produktion nutzt pflanzliche Öle, teilweise aus regionaler Erzeugung.",
+        "Es war das erste Unternehmen in Suriname mit ISO-Zertifizierung für Lebensmittel.",
+        "Die Fabrik beschäftigt hochqualifizierte Fachkräfte in der Verfahrenstechnik.",
+        "Innovativ ist das Unternehmen auch bei fettreduzierten und laktosefreien Produkten."
+      ]
+    },
+    {
+      "id": "sr-kuldipsingh-zementwerk-economic-v2",
+      "descriptionAdvanced": "Das Kuldipsingh Zementwerk steht für technologischen Fortschritt im Bauwesen Surinames. Als hochmoderne Produktionsstätte beliefert es den landesweiten Infrastruktursektor mit essenziellen Zementprodukten und Baumaterialien. Eingebettet in die Kuldipsingh-Gruppe, ein bedeutendes Konglomerat, profitiert das Werk von weitreichenden Synergien. Die Produktion ist auf Langlebigkeit und internationale Standards ausgerichtet, um sowohl private Wohnbauprojekte als auch öffentliche Infrastrukturvorhaben nachhaltig zu unterstützen. Durch den Einsatz moderner Fertigungstechniken stellt das Werk sicher, dass die wachsende Bauwirtschaft des Landes mit verlässlichen und qualitativ hochwertigen Materialien versorgt wird. Földrajz K8 — építőipar és urbanizáció.",
+      "factsAdvanced": [
+        "Das Werk gehört zur Kuldipsingh Group, dem größten Baukonzern Surinames.",
+        "Es produziert verschiedene Zementsorten für unterschiedliche Klimabedingungen.",
+        "Die Anlage befindet sich am Saramacca-Kanal für effizienten Warentransport.",
+        "Kuldipsingh ist maßgeblich an großen Brücken- und Straßenbauprojekten beteiligt.",
+        "Das Zementwerk nutzt eine automatisierte Absackanlage für hohe Kapäzitäten.",
+        "Ein großer Teil der Rohstoffe wird über eigene Hafenanlagen angeliefert.",
+        "Das Unternehmen bietet auch Transportbeton für Großbaustellen in Paramaribo an.",
+        "Das Werk hat zur deutlichen Senkung der Baukosten in Suriname beigetragen."
+      ]
+    },
+    {
+      "id": "sr-argos-zementterminal-economic-v2",
+      "descriptionAdvanced": "Das Argos Zementterminal ist ein entscheidender Logistikpunkt im Hafen von Paramaribo, der die Versorgung Surinames mit hochwertigem Zement sicherstellt. Betrieben durch den kolumbianischen Baustoffgiganten Argos, dient diese spezialisierte Anlage als wichtiges Bindeglied für den internationalen Import und die sichere Lagerung des Materials. Durch das Terminal kann ein konstanter Fluss an Baustoffen gewährleistet werden, was für die Realisierung zahlreicher Bauvorhaben im ganzen Land von strategischer Bedeutung ist. Mit direktem Zugang zum Wasser wird der Zement effizient in die Silos geladen, von wo aus er für die Verteilung in die Regionen bereitsteht, was die logistische Grundlage für den modernen Hoch- und Tiefbau festigt. Földrajz K8 — multinacionális vállalatok.",
+      "factsAdvanced": [
+        "Argos ist ein kolumbianisches Unternehmen und Marktführer in Zentralamerika.",
+        "Das Terminal in Paramaribo wurde 2011 zur Stärkung der Präsenz eröffnet.",
+        "Es verfügt über eine Lagerkapazität von mehreren tausend Tonnen Zement.",
+        "Der Zement wird meist in großen Bulk-Schiffen aus der Region angeliefert.",
+        "Die Entladung erfolgt über ein geschlossenes, staubfreies pneumatisches System.",
+        "Argos beliefert sowohl kleine Händler als auch große Bauprojekte in Suriname.",
+        "Das Unternehmen setzt auf hohe Umweltstandards beim Umschlag des Baumaterials.",
+        "Die Lage am Hafen verkürzt die Lieferwege für das urbane Zentrum Paramaribo."
+      ]
+    },
+    {
+      "id": "sr-dp-world-paramaribo-economic-v2",
+      "descriptionAdvanced": "DP World Paramaribo repräsentiert die globale Spitze in der Hafenlogistik und ist ein integraler Bestandteil des Haupthafens von Paramaribo. Als einer der weltweit führenden Hafenbetreiber bringt DP World modernste Managementtechnologien und technologische Standards nach Suriname. Die effiziente Containerabwicklung und der Einsatz leistungsstarker Krananlagen haben die Produktivität des Hafens signifikant gesteigert. Diese globale Anbindung sichert Suriname einen verlässlichen Zugang zum internationalen Seehandel und erhöht die Wettbewerbsfähigkeit der lokalen Wirtschaft. Durch den Einsatz moderner Infrastruktur ermöglicht DP World Paramaribo eine reibungslose Logistik, die für den Warenstrom in und aus dem Land absolut kritisch ist. Földrajz K8 — globális logisztikai hálózatok.",
+      "factsAdvanced": [
+        "DP World (Dubai Ports) übernahm 2011 die Mehrheit am Container-Terminal.",
+        "Das Unternehmen investierte Millionen in neue Portalkräne und Reachstacker.",
+        "DP World Paramaribo ist das Tor für ca. 90% der Containerimporte des Landes.",
+        "Die Abwicklung der Frachtpapiere erfolgt über ein digitales Echtzeit-System.",
+        "Der Hafenbetreiber ist ein wichtiger Partner für globale Reedereien wie Maersk.",
+        "Durch DP World wurde die Umschlagzeit pro Schiff massiv reduziert.",
+        "Das Terminal bietet auch spezialisierte Kühlcontainer-Anschlüsse (Reefer).",
+        "Regelmäßige Trainings für lokale Mitarbeiter sichern internationales Know-how."
+      ]
+    },
+    {
+      "id": "sr-kuldipsingh-hafen-economic-v2",
+      "descriptionAdvanced": "Der Kuldipsingh Hafen ist ein privater, auf Schwerlasten spezialisierter Hafen, der eine unverzichtbare Infrastruktur für die industrielle Basis Surinames darstellt. Vor allem für Unternehmen in der Öl- und Gasförderung sowie für die Bauindustrie ist diese Anlage ein zentraler Knotenpunkt. Mit speziellen Umschlagplätzen können hier sperrige Güter und Materialanforderungen der Schwerindustrie effizient bedient werden. Eingebettet in die breiter aufgestellte Kuldipsingh-Gruppe, dient dieser Hafen als logistische Basis, um komplexe industrielle Projekte im Land zu unterstützen. Die spezialisierte Ausstattung macht ihn zu einem einzigartigen Hafen in der nationalen Landschaft, der den spezifischen Bedarf der Schwerindustrie gezielt deckt. Földrajz K8 — nehézipar és offshore támogatás.",
+      "factsAdvanced": [
+        "Der Hafen wird von Kuldipsingh Port Facility N.V. betrieben.",
+        "Er befindet sich im Vorort Dijkveld, südlich von Paramaribo.",
+        "Spezialisierung liegt auf Schwergut (Project Cargo) und Offshore-Support.",
+        "Die Kaimauer ist für extrem hohe Punktlasten ausgelegt.",
+        "Der Hafen dient als Basis für die Erschließung der Offshore-Ölfelder.",
+        "Eigene Lagerhallen bieten Platz für empfindliche Industriegüter.",
+        "Moderne Kräne können Lasten von über 100 Tonnen sicher umschlagen.",
+        "Der Hafen verfügt über eine ISPS-Zertifizierung für internationale Sicherheit."
+      ]
+    },
+    {
+      "id": "sr-traymore-hafen-economic-v2",
+      "descriptionAdvanced": "Die Traymore Hafenanlage in Paramaribo leistet einen bedeutenden Beitrag zur städtischen Logistik, indem sie den Handel mit lebenswichtigen Gütern und Baustoffen effizient abwickelt. In der Hauptstadt gelegen, fungiert sie als vitales Bindeglied für den Import von Produkten des täglichen Bedarfs, die direkt in den urbanen Versorgungsstrom einfließen. Durch die Bereitstellung spezifischer Kapazitäten für unterschiedlichste Handelsgüter unterstützt Traymore die lokale Wirtschaft und sichert eine reibungslose Versorgungssituation. Die Anlage ist ein wichtiger Bestandteil des Paramaribo-Hafengebiets, der vor allem durch seine Flexibilität bei der Abfertigung verschiedenster Waren zur dynamischen Entwicklung der lokalen Handelsinfrastruktur beiträgt. Földrajz K7 — városi ellátás és kereskedelem.",
+      "factsAdvanced": [
+        "Traymore ist ein spezialisiertes privates Terminal für Schütt- und Stückgut.",
+        "Die Anlage liegt strategisch im Industriegebiet von Paramaribo.",
+        "Sie ist ein wichtiger Umschlagpunkt für Zement, Stahl und Baumaterialien.",
+        "Das Terminal entlastet den staatlichen Haupthafen bei spezifischen Frachtarten.",
+        "Moderne Förderbänder ermöglichen eine schnelle Entladung von Schüttgut.",
+        "Traymore bietet auch Lagerkapazitäten für Transitgüter in die Region.",
+        "Die Anlage ist eng mit der lokalen Bauwirtschaft vernetzt.",
+        "Regelmäßige Modernisierungen halten die Anlage auf dem neuesten Stand der Technik."
+      ]
+    }
+  ]
+}

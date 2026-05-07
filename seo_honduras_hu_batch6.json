@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cueva-del-gigante-marcala-history-v2",
+      "descriptionAdvanced": "A Cueva del Gigante (Az Óriás Barlangja) Közép-Amerika egyik legfontosabb és legrégebbi régészeti lelőhelye, amely La Paz megyében, Marcala közelében található. A hatalmas, vulkanikus sziklafalban nyíló barlangban a régészek több mint 10 000 éves emberi maradványokat, eszközöket és barlangrajzokat tártak fel, amelyek az első nomád vadászó-gyűjtögető közösségek jelenlétét bizonyítják a régióban. A barlang méretei lenyűgözőek, a bejáratnál található ősi piktogramok – köztük egy stilizált óriás emberi alak (innen a név) és állatmotívumok – pedig egyedülálló bepillantást engednek a prehispán kultúrák hitvilágába. Bár a terület nehezen megközelíthető és kevéssé feltárt a nagyközönség számára, kulcsfontosságú az amerikai kontinens benépesedésének kutatásában. Történelem K8 — őskori lelőhelyek.",
+      "factsAdvanced": [
+        "Közép-Amerika egyik legrégebbi ismert emberi lakóhelye.",
+        "Több mint 10 000 éves régészeti leleteket (csontok, szerszámok) rejt.",
+        "Marcala városa közelében, La Paz megyében fekszik.",
+        "A barlang falain ősi, vörös és fehér piktogramok láthatók.",
+        "Nevét a falon lévő gigantikus, embert formázó barlangrajzról kapta.",
+        "A leletek a legkorábbi vadászó-gyűjtögető társadalmakhoz köthetők.",
+        "A helyszín még ma is aktív régészeti kutatások tárgya."
+      ]
+    },
+    {
+      "id": "kirche-san-marcos-gracias-history-v2",
+      "descriptionAdvanced": "A San Marcos templom (Iglesia de San Marcos) Gracias városának egyik legikonikusabb gyarmati építészeti emléke Lempira megyében. A 18. században (körülbelül az 1700-as évek elején) épült katolikus templom lenyűgöző példája a közép-amerikai barokk építészetnek, és közvetlenül a város központi terének (Parque Central) szomszédságában helyezkedik el. A templom homlokzata egyszerű, mégis elegáns, vastag vályogfalakkal és faragott kődíszítésekkel. A helyiek életében központi szerepet játszik: áprilisban a San Marcos-nap (Feria de San Marcos) alkalmával a templom környéke megtelik élettel, lenca hagyományokkal és vallási körmenetekkel. A templom egykori politikai jelentőségét is jelzi, hogy Gracias egy ideig a spanyol Közép-Amerika fővárosa volt (Audiencia de los Confines). Történelem K7 — gyarmati vallás.",
+      "factsAdvanced": [
+        "Gracias történelmi városában, a Parque Central mellett található.",
+        "A 18. század elején épült, a spanyol gyarmati barokk stílusában.",
+        "Masszív vályogfalai és egyedi faragott homlokzata van.",
+        "A város védőszentjének, Szent Márknak van szentelve.",
+        "Április végén nagyszabású vallási fesztiválnak ad otthont.",
+        "Gracias a 16. században Közép-Amerika politikai központja volt.",
+        "A belső térben értékes gyarmati kori oltárképek találhatók."
+      ]
+    },
+    {
+      "id": "kirche-san-sebastian-comayagua-history-v2",
+      "descriptionAdvanced": "A San Sebastián templom (Iglesia de San Sebastián) Comayagua városának egyik legrégebbi vallási épülete, amely 1550 körül épült, így Honduras egyik első katolikus temploma. A szerény méretű, egyhajós épület a spanyol gyarmatosítás legkorábbi időszakának puritán építészeti stílusát tükrözi. A templom különösen híres történelmi és kulturális jelentőségéről: itt nyugszik a spanyol hódítás elleni lenca felkelés legendás hőse, Lempira kacika földi maradványainak egy része (bár a pontos sírhely vitatott). Ezen felül az épület hagyományosan a pardo és az afro-hondurasi közösségek templomaként funkcionált a gyarmati korban. A San Sebastián templom ma egy csendes téren áll, távolabb a monumentális katedrálistól, megőrizve a 16. századi Comayagua misztikus hangulatát. Történelem K8 — korai gyarmatosítás.",
+      "factsAdvanced": [
+        "Comayagua egyik legrégebbi temploma, 1550 körül épült.",
+        "A korai spanyol hódítás puritán, egyhajós építészeti stílusát őrzi.",
+        "A legenda szerint itt temették el részben Lempira kacikát.",
+        "A gyarmati korban az afro-hondurasi (pardo) közösség használta.",
+        "Szent Sebestyén vértanúnak van szentelve.",
+        "A Comayagua történelmi központjának csendesebb részén áll.",
+        "Az épület több földrengést is átvészelt jelentős károk nélkül."
+      ]
+    },
+    {
+      "id": "kirche-san-juan-de-dios-history-v2",
+      "descriptionAdvanced": "A San Juan de Dios templom és a hozzá kapcsolódó egykori kórházépület Comayagua városának jelentős gyarmati kori műemléke. A 16. század végén (körülbelül 1590-ben) alapított komplexum eredetileg a szegények és a betegek ápolására szolgált, amit a San Juan de Dios (Istenes Szent János) szerzetesrend irányított. Az épületegyüttes a spanyol gyarmati társadalom szociális és egészségügyi rendszerének fontos mementója. A templom homlokzata egyszerű, a belső tér azonban több évszázados vallási relikviákat és festményeket rejt. A 19. századi függetlenségi harcok és földrengések során az épület súlyos károkat szenvedett, de a 20. században gondosan restaurálták. Ma a komplexum a város vallási és kulturális útvonalának szerves része. Történelem K7 — gyarmati intézmények.",
+      "factsAdvanced": [
+        "Comayaguában található, a 16. század végén (kb. 1590) alapították.",
+        "Eredetileg a szegények és betegek ápolására szolgáló kórház volt.",
+        "A San Juan de Dios (Istenes Szent János) rend szerzetesei vezették.",
+        "Kiemelkedő példája a gyarmati szociális intézményrendszernek.",
+        "A 19. században földrengések és politikai harcok során megsérült.",
+        "Restaurálták, ma a vallási turizmus egyik fontos megállója.",
+        "Belső terében értékes gyarmati relikviák és festmények maradtak fenn."
+      ]
+    },
+    {
+      "id": "kloster-san-francisco-comayagua-history-v2",
+      "descriptionAdvanced": "A San Francisco kolostor és templom (Iglesia y Convento de San Francisco) Comayaguában Közép-Amerika egyik legelső ferences rendi alapítása. Az épületegyüttest 1560-ban kezdték építeni, mindössze két évtizeddel a város alapítása után, ami jól mutatja a ferencesek domináns szerepét a régió evangelizációjában. A templom leghíresebb műkincse a lenyűgöző, Spanyolországból hozott Mór Kereszt (Cristo de los Moros) oltárkép, valamint az itt őrzött harang, az 'Antonina', amelyet 1350-ben öntöttek Spanyolországban, és egyike Amerika legrégebbi harangjainak. A kolostor masszív falai és árkádos udvara többször is menedékként szolgált a város lakóinak a kalóztámadások és a polgárháborúk idején. Ma Honduras egyik legfontosabb történelmi és vallási múzeuma. Történelem K8 — ferences missziók.",
+      "factsAdvanced": [
+        "1560-ban alapították, Közép-Amerika egyik első ferences kolostora.",
+        "Itt található az 'Antonina' (1350), Amerika egyik legrégebbi harangja.",
+        "Az épületegyüttes a korai spanyol evangelizáció központja volt.",
+        "Híres műkincse a lenyűgöző spanyol Mór Kereszt (Cristo de los Moros).",
+        "A vastag falak katonai menedékként is szolgáltak ostromok idején.",
+        "Több földrengést élt túl, de építészeti integritását megőrizte.",
+        "A kolostor ma múzeumként működik Comayagua történelmi központjában."
+      ]
+    },
+    {
+      "id": "casa-de-la-moneda-tegucigalpa-history-v2",
+      "descriptionAdvanced": "A Casa de la Moneda (Pénzverde) Tegucigalpa történelmi belvárosában, a Parque Central közelében található, és a 18. század végi gyarmati gazdagság szimbóluma. Az 1780-ban épült grandiózus kő- és vályogépületet azért hozták létre, hogy a régió ezüst- és aranybányáiból (mint például Ojojona és Santa Lucía) származó nemesfémeket helyben dolgozzák fel és verjenek belőlük spanyol birodalmi érméket, csökkentve a guatemalai pénzverde függőségét. Az épület egyedülálló, robusztus kialakítású, amely a biztonságot és a védelmet szolgálta. A függetlenség kivívása után az épület funkciót váltott, hosszú ideig az ország nemzeti nyomdájaként működött. Ma a kulturális minisztérium kezelésében áll, és jelentős történelmi kiállításoknak ad otthont. Történelem K8 — gyarmati gazdaság.",
+      "factsAdvanced": [
+        "1780-ban épült Tegucigalpa történelmi központjában.",
+        "Célja a helyi ezüst- és aranybányák nemesfémeinek érmévé verése volt.",
+        "Létrehozásával csökkentették Guatemala pénzügyi monopóliumát.",
+        "Robusztus, biztonsági szempontok alapján tervezett épület.",
+        "A hondurasi függetlenség után nemzeti nyomdaként (Tipografía Nacional) is működött.",
+        "A helyi gyarmati gazdaság és bányászat csúcsidőszakát szimbolizálja.",
+        "Ma kulturális és történelmi kiállításoknak ad otthont."
+      ]
+    },
+    {
+      "id": "kirche-san-francisco-tegucigalpa-history-v2",
+      "descriptionAdvanced": "A San Francisco templom (Iglesia de San Francisco) Tegucigalpa legrégebbi egyházi épülete, amelyet 1592-ben alapítottak a ferences rendi szerzetesek. A templom a gyarmati Tegucigalpa – akkor még bányászfalu – első jelentős kőépítménye volt. Bár a homlokzata a későbbi évszázadok során több átalakításon is átesett, a masszív belső falak és a gyönyörűen faragott faoltárok az eredeti spanyol reneszánsz és barokk stílusjegyeit őrzik. Különös történelmi jelentőséggel bír, hogy a templomban tartották a gyarmati kor legfontosabb társadalmi gyűléseit. Az épülethez egykor egy nagyméretű kolostor is tartozott, amelyet azonban a 19. század végén az állam kisajátított, és katonai kaszárnyává alakított. Történelem K7 — Tegucigalpa alapítása.",
+      "factsAdvanced": [
+        "Tegucigalpa legrégebbi temploma, 1592-ben épült.",
+        "A ferences rend szerzetesei alapították az egykori bányászfaluban.",
+        "Belső terében eredeti spanyol barokk faoltárok találhatók.",
+        "Kiemelt társadalmi és vallási központ volt a gyarmati korban.",
+        "A hozzá tartozó kolostort a 19. században katonai kaszárnyává tették.",
+        "A templom többször átesett homlokzati felújításokon az évszázadok alatt.",
+        "A város történelmi magjának egyik legfontosabb sarokköve."
+      ]
+    },
+    {
+      "id": "palast-der-ministerien-tegucigalpa-history-v2",
+      "descriptionAdvanced": "A Minisztériumok Palotája (Palacio de los Ministerios), amely ma a Hondurasi Nemzeti Identitás Múzeumának (Museo para la Identidad Nacional - MIN) ad otthont, Tegucigalpa egyik legimpozánsabb 19. századi épülete. Az 1882-ben, neoklasszikus stílusban épült komplexum eredetileg közkórháznak (Hospital General) készült, és a spanyol gyarmati időszakot követő köztársasági éra modernizációs törekvéseit szimbolizálta. A 20. század közepén az épületet átalakították, és az államigazgatás központjává, a minisztériumok székhelyévé vált, a hondurasi politikai élet lüktető szívévé. Hatalmas belső udvara és oszlopcsarnokai a korszak legkiválóbb építészeti alkotásai közé emelik. Ma az épület a hondurasi történelem és kultúra legátfogóbb bemutatóhelye. Történelem K8 — köztársasági építészet.",
+      "factsAdvanced": [
+        "1882-ben épült neoklasszikus stílusban Tegucigalpa szívében.",
+        "Eredetileg közkórháznak (Hospital General) tervezték és használták.",
+        "A 20. században a kormányzati minisztériumok központja lett.",
+        "Hatalmas, oszlopos belső udvarral és elegáns homlokzattal rendelkezik.",
+        "A 19. századi hondurasi modernizációs törekvések szimbóluma.",
+        "Ma a Nemzeti Identitás Múzeumának (MIN) ad otthont.",
+        "Az ország egyik leglátogatottabb kulturális és történelmi intézménye."
+      ]
+    },
+    {
+      "id": "hebraeischer-friedhof-tegucigalpa-history-v2",
+      "descriptionAdvanced": "A tegucigalpai zsidó temető (Cementerio Judío) egy apró, de történelmileg rendkívül jelentős emlékhely a város szívében, amely a hondurasi zsidó közösség bevándorlásának történetét meséli el. A 19. század végén és a 20. század elején, különösen Európából és a Közel-Keletről (Sefárd zsidók) jelentős számú bevándorló érkezett Hondurasba, akik kulcsszerepet játszottak az ország kereskedelmének, bankszektorának és iparának fellendítésében. A temetőt az 1920-as években alapították, mivel a helyi katolikus temetőkben a vallási szabályok miatt nem temetkezhettek. A sírkövek feliratai gyakran spanyol, héber és német nyelven íródtak, hűen tükrözve a közösség sokszínű származását. Ez a békés, fákkal övezett hely a kulturális tolerancia és a migráció fontos mementója. Történelem K7 — migráció és vallás.",
+      "factsAdvanced": [
+        "Az 1920-as években alapították a tegucigalpai zsidó bevándorlók.",
+        "A hondurasi zsidó (főként sefárd) közösség jelenlétének fő emléke.",
+        "A sírfeliratok gyakran többnyelvűek (héber, spanyol, német).",
+        "A zsidó bevándorlók kulcsszerepet játszottak a helyi kereskedelemben.",
+        "Az önálló temetőre a katolikus vallási szabályozások miatt volt szükség.",
+        "A temető a kulturális tolerancia és az integráció történelmi jelképe.",
+        "Ma is gondozott, bár már kevéssé aktív temetkezési hely."
+      ]
+    },
+    {
+      "id": "carias-bruecke-tegucigalpa-history-v2",
+      "descriptionAdvanced": "A Puente Carías (Carías-híd) Tegucigalpa egyik legfontosabb történelmi és mérnöki műemléke, amely a Choluteca-folyót íveli át, összekötve a történelmi Tegucigalpát a szomszédos, egykori ikervárossal, Comayagüelával. A masszív, kőből és betonból készült, lenyűgöző boltíves hidat 1933-ban adták át, nevét az ország akkori teljhatalmú diktátoráról, Tiburcio Carías Andinóról kapta. Az építmény a Carías-korszak (El Cariato) diktatúrájának modernizációs törekvéseit szimbolizálta, és sokáig az ország legkorszerűbb hídjának számított. Tervezése olyannyira masszívra sikerült, hogy 1998-ban, amikor a Mitch hurrikán pusztító áradásai szinte az összes hidat elsodorták a folyón, a Puente Carías sértetlenül állta a sarat, megmentve ezzel a város közlekedését. Történelem K8 — infrastruktúra és diktatúrák.",
+      "factsAdvanced": [
+        "A Choluteca-folyót íveli át Tegucigalpa és Comayagüela között.",
+        "1933-ban épült Tiburcio Carías Andino diktátor uralma alatt.",
+        "A Carías-korszak (El Cariato) masszív infrastrukturális projektje volt.",
+        "Többíves, kőből és betonból készült masszív szerkezet.",
+        "Túlélte az 1998-as Mitch hurrikán pusztító áradásait.",
+        "Hosszú ideig Honduras legmodernebb és legbiztonságosabb hídja volt.",
+        "Ma is a főváros forgalmának egyik legfontosabb artériája."
+      ]
+    },
+    {
+      "id": "kirche-unbefleckte-empfaengnis-danli-history-v2",
+      "descriptionAdvanced": "A Szeplőtelen Fogantatás templom (Iglesia de la Inmaculada Concepción) Danlí történelmi városának legfőbb vallási és építészeti nevezetessége El Paraíso megyében. A 19. század közepén épült, klasszicista és késő barokk stílusjegyeket ötvöző templomot a helyi közösség adományaiból, valamint a virágzó dohány- és kávékereskedelemből származó bevételekből emelték. A hófehér homokzattal, elegáns oszlopokkal és két szimmetrikus harangtoronnyal rendelkező épület uralja a Parque Centralt (Központi Park). A belső térben spanyol mesterek által faragott értékes faoltárok és a védőszent gyönyörű szobra található. A templom minden év decemberében a Szeplőtelen Fogantatás ünnepének (Feria Patronal) központja, amely a régió egyik legnagyobb vallási fesztiválja. Történelem K7 — vallási építészet.",
+      "factsAdvanced": [
+        "Danlí városának központi, legfontosabb katolikus temploma.",
+        "A 19. század közepén épült a dohánykereskedelem bevételeiből.",
+        "Klasszicista és késő barokk elemeket ötvöző fehér homokzata van.",
+        "Két szimmetrikus harangtornya uralja a városi látképet.",
+        "Belső terében spanyol faragású, értékes gyarmati faoltárok állnak.",
+        "A Szeplőtelen Fogantatás tiszteletére szentelték fel.",
+        "Decemberben a város legnagyobb vallási fesztiváljának központja."
+      ]
+    },
+    {
+      "id": "kirche-san-matias-la-campa-history-v2",
+      "descriptionAdvanced": "A San Matías templom (Iglesia de San Matías) Honduras egyik leglenyűgözőbb és legépebb állapotban fennmaradt gyarmati kori kőtemploma, amely La Campa sziklás, lenca őslakosok lakta hegyi falvában, Lempira megyében magasodik. A 18. században épült templom építészetileg egyedülálló, mivel a vastag falakat a helyben fejtett vulkanikus sziklákból és andezitből faragták, kötőanyagként pedig a legenda szerint mészkövet, vért és tojást használtak a tartósság érdekében. A templom hatalmas, robusztus faajtajai és a belső terét díszítő naiv, színpompás oltárképek a spanyol hittérítők és a lenca kézművesek különleges találkozását tükrözik. Szent Mátyás ünnepén, februárban zarándokok ezrei érkeznek ide az egész országból. Történelem K8 — őslakosok és missziók.",
+      "factsAdvanced": [
+        "A 18. században épült La Campa hegyvidéki, lenca falvában.",
+        "Vastag falait helyben fejtett andezitből és vulkanikus kőből rakták.",
+        "A legenda szerint a habarcsba tojást és állati vért is kevertek.",
+        "A spanyol barokk és a lenca naiv művészet egyedi ötvözete.",
+        "Hatalmas faajtajai és színes oltárképei művészettörténeti ritkaságok.",
+        "Szent Mátyás apostolnak van szentelve.",
+        "Februárban Honduras egyik legnagyobb vallási zarándoklatának célpontja."
+      ]
+    },
+    {
+      "id": "gualjoquito-archaeology-history-v2",
+      "descriptionAdvanced": "Gualjoquito egy rejtélyes régészeti lelőhely Santa Bárbara megyében, az Ulúa-folyó völgyében, a Comayagua és a Karib-tenger közötti történelmi tranzitútvonal mentén. A település a késő klasszikus korban (Kr. u. 600–900) érte el zenitjét, mint fontos kereskedelmi és politikai állomás a nagy maja városok (mint Copán) és a Lenca-zóna (mint Los Naranjos) között. Gualjoquito építészete különbözik a hagyományos maja stílustól: a piramisok és az épületek nagyrészt döngölt földből és folyami kavicsokból épültek, nem pedig faragott mészkőből. A régészek itt találták meg a régió legfejlettebb korai kerámiáinak egy részét, a polikróm (többszínű) edényeket, amelyek fejlett kereskedelmi hálózatokra utalnak. Bár a terület nagyrészt fedetlen és turisztikailag kevéssé kiépített, a kutatók számára aranybánya. Történelem K8 — maja kereskedelmi utak.",
+      "factsAdvanced": [
+        "Az Ulúa-folyó völgyében, Santa Bárbara megyében fekvő lelőhely.",
+        "A Kr. u. 600–900 (késő klasszikus kor) közötti időszakban virágzott.",
+        "Stratégiai kereskedelmi kapocs volt Copán és a Lenca-zóna között.",
+        "Épületei faragott kő helyett főleg döngölt földből és kavicsból épültek.",
+        "Gazdag polikróm (többszínű) kerámialeleteiről híres.",
+        "Kulturálisan átmenetet képez a maja és az egyéb mezoamerikai népek között.",
+        "Turisztikai infrastruktúrája minimális, de tudományos jelentősége hatalmas."
+      ]
+    },
+    {
+      "id": "travesia-archaeology-history-v2",
+      "descriptionAdvanced": "Travesía Honduras egyik legkiterjedtebb és legjelentősebb prekolumbián régészeti lelőhelye a termékeny Sula-völgyben (Valle de Sula), Cortés megyében. A Kr. u. 500 és 1000 között virágzó város igazi metropolisz volt az Ulúa-folyó mentén, hatalmas palotákkal, több tucat térrel (plazas) és egy nagy, faragott kövekkel kirakott labdajáték-pályával (juego de pelota). Travesía multietnikus kereskedelmi központként funkcionált, ahol a kakaó, a tollak, a jáde és a helyben készült világhírű 'Ulúa-völgyi polikróm márványvázák' (mármoles de Ulúa) cseréltek gazdát. Sajnálatos módon a 20. században a terület nagy részét buldózerekkel letarolták a cukornád- és banánültetvények terjeszkedése miatt, így a város csupán töredéke maradt fenn a régészeti kutatások számára. Történelem K8 — elveszett metropoliszok.",
+      "factsAdvanced": [
+        "A Sula-völgy legnagyobb ismert prekolumbián metropolisza volt.",
+        "Fénykorát Kr. u. 500 és 1000 között élte az Ulúa-folyó partján.",
+        "Nagy labdajáték-pályával és több tucat ceremoniális térrel rendelkezett.",
+        "Multietnikus gazdasági központja volt a kakaó- és jáde-kereskedelemnek.",
+        "Híres a csak itt készített 'Ulúa-völgyi márványvázákról'.",
+        "A 20. században az ültetvények terjeszkedése miatt nagyrészt elpusztult.",
+        "A megmaradt leletek kulcsfontosságúak a nem-maja kultúrák megértésében."
+      ]
+    },
+    {
+      "id": "kirche-san-jeronimo-comayagua-history-v2",
+      "descriptionAdvanced": "A San Jerónimo templom (Iglesia de San Jerónimo) Comayagua történelmi óvárosának egyik legrejtettebb és legszerényebb, de rendkívül fontos gyarmati kincse. Az 1620 körül épült kis kápolna eredetileg a város peremén élt őslakos és afrikai rabszolga közösségek (pardos) vallási oktatását és hitéletét szolgálta, elkülönítve őket a spanyol elit által használt katedrálistól. A templom egyszerűsége, az alacsony, vastag vályogfalak és a fa tetőszerkezet a korai ferences misszionáriusok építészeti pragmatizmusát tükrözi. Bár történelme során többször megrongálódott földrengésekben, és egy ideig raktárként is használták, a közelmúltban gondosan restaurálták. Ma a San Jerónimo egy kulturális központ, amely az egykori elnyomott közösségek történelmi jelenlétét szimbolizálja a városban. Történelem K7 — gyarmati társadalom.",
+      "factsAdvanced": [
+        "Comayaguában található, 1620 körül épült kisebb kápolna.",
+        "Kifejezetten az őslakosok és afrikai rabszolgák hitéletére alapították.",
+        "A gyarmati kori társadalmi szegregáció építészeti példája.",
+        "Egyszerű, puritán ferences építészeti stílus (vastag vályog, fa tető).",
+        "Több földrengést és funkcióváltást (pl. raktár) is átvészelt.",
+        "A közelmúltban sikeresen restaurálták az eredeti formájába.",
+        "Ma a város történelmi és kulturális örökségvédelmi útvonalának része."
+      ]
+    },
+    {
+      "id": "historische-bruecke-santa-barbara-history-v2",
+      "descriptionAdvanced": "A Santa Bárbara-i történelmi vashíd (Puente de Hierro vagy Puente de La Arada) a 20. század eleji ipari forradalom és az infrastrukturális fejlődés lenyűgöző emléke Hondurasban. Az 1910-es években az Egyesült Államokban gyártott, és darabokban, hajóval Hondurasba szállított acélszerkezetű rácsos hidat az Ulúa-folyó felett építették fel, hogy összekösse a kávéban és ásványkincsekben gazdag Santa Bárbara megyét a San Pedro Sula-i vasúthálózattal és a kikötőkkel. A híd mérnöki csodának számított a maga korában a nehéz, hegyvidéki terepen. Bár a modern közúti forgalom nagy részét már egy új betonhíd vette át, a rozsdásodó, de stabil Történelmi Híd ma a gyalogosok és az ökoturisták kedvelt átkelője, egy letűnt gazdasági aranykor ipari mementója. Történelem K7 — ipari infrastruktúra.",
+      "factsAdvanced": [
+        "A 20. század elején (1910-es évek) épült az Ulúa-folyó felett.",
+        "Az acélszerkezetet az Egyesült Államokban gyártották és importálták.",
+        "Célja Santa Bárbara kávé- és ércszállítmányainak San Pedro Sulába juttatása volt.",
+        "Korának egyik legnagyobb és legfontosabb mérnöki alkotása Hondurasban.",
+        "Rácsos (truss) szerkezetű ipari vashíd.",
+        "Ma már csak gyalogosok és könnyű járművek, valamint turisták használják.",
+        "A hondurasi infrastrukturális és gazdasági fejlődés ikonikus mementója."
+      ]
+    },
+    {
+      "id": "hoehlen-von-masca-history-v2",
+      "descriptionAdvanced": "A Masca barlangjai (Cuevas de Masca) a karibi partvidéken, Omoa település (Cortés megye) közelében találhatók, és rendkívül fontosak mind geológiai, mind régészeti szempontból. A mészkőbarlang-rendszer nemcsak cseppkő-képződményekben (sztalagmitok és sztalaktitok) gazdag, hanem ősi rituális helyszínként is szolgált. A régészek prekolumbián kerámiatöredékeket, csontokat és obszidián tárgyakat fedeztek fel a mélyebb kamrákban, ami arra utal, hogy a területen élő őslakosok (feltehetően a pesch vagy mezoamerikai kereskedők) az alvilághoz, a 'Xibalbához' kötődő ceremóniákat tartottak itt. A barlangokat a helyi közösségek ma is tisztelet övezi, a turisták számára pedig izgalmas barlangászati célpontot jelentenek a tengerpart közelsége mellett. Történelem K8 — rituális barlangok.",
+      "factsAdvanced": [
+        "Cortés megyében, az omoai karibi partvidék közelében található mészkőbarlangok.",
+        "Ősi prehispán rituális és áldozati helyszínként szolgáltak.",
+        "A barlang alvilági szimbólum volt az őslakos vallásokban (Xibalba).",
+        "Kerámiatöredékeket és obszidián áldozati tárgyakat tártak fel itt.",
+        "Látványos sztalaktit és sztalagmit képződmények (cseppkövek) borítják.",
+        "A helyi legendák és az afro-karibi folklór is kapcsolódik a helyhez.",
+        "Népszerű kalandturisztikai és barlangászati célpont."
+      ]
+    },
+    {
+      "id": "ruinen-rincon-del-buey-history-v2",
+      "descriptionAdvanced": "A Rincón del Buey romjai Olancho megye kiterjedt erdeiben rejtőző, kevéssé feltárt, de rendkívül izgalmas régészeti helyszín. Ez a prehispán település a pech őslakos kultúra egyik központja lehetett, amely a maja területektől távol, sajátos fejlődési utat járt be. A lelőhelyen nagyméretű, kőből épült teraszok, lakóépületek alapjai és monolitikus kőfaragványok találhatók, amelyek egy szervezett és jelentős népességgel rendelkező társadalomra utalnak. Mivel Olancho területe a mezoamerikai és a makro-csibcsa kultúrák ütközőzónája volt, Rincón del Buey leletei (főleg a kerámiák és a mezőgazdasági eszközök) mindkét világ hatásait mutatják. A terület a hondurasi dzsungel mélyén fekszik, megóvva az emberi pusztítástól, és a jövő kutatásainak egyik legnagyobb ígérete. Történelem K8 — keleti őslakosok.",
+      "factsAdvanced": [
+        "Olancho megye keleti, sűrű dzsungellel borított részén rejtőzik.",
+        "Feltehetően a pech őslakos kultúra egyik jelentős központja volt.",
+        "Kőből rakott teraszokat, alapozásokat és monolitokat találtak itt.",
+        "A mezoamerikai és a déli makro-csibcsa kultúrák ütközőzónája volt.",
+        "A maja romoktól eltérő, sajátos építészeti stílust képvisel.",
+        "Rendkívül elszigetelt, feltártsága ma is minimális szintű.",
+        "A terület érintetlensége miatt óriási potenciállal bír a régészet számára."
+      ]
+    },
+    {
+      "id": "kirche-santa-ana-yuscaran-history-v2",
+      "descriptionAdvanced": "A Santa Ana templom (Iglesia de Santa Ana) Yuscarán bájos, hegyvidéki kisvárosának legszebb ékköve, El Paraíso megyében. A 18. században épült, amikor a város az ezüst- és aranybányászat miatt a spanyol korona egyik legfontosabb hondurasi települése volt. A fehérre meszelt, robusztus barokk homlokzatú templom egy lenyűgöző macskaköves tér fölé magasodik. A bányászati gazdagság megmutatkozik a templom belső terében is: a főoltárt Spanyolországból hozatott, aranyfüsttel bevont, gazdagon faragott fából (retablo) készítették, amely a mai napig eredeti pompájában tündököl. A templom és maga a város is 1979 óta nemzeti műemléki védelem alatt áll, így a Santa Ana templom a hondurasi gyarmati bányászvárosok letűnt aranykorának legtökéletesebben megőrzött mementója. Történelem K7 — bányászati gazdagság.",
+      "factsAdvanced": [
+        "Yuscaránban, az egykori gazdag bányászvárosban található (El Paraíso megye).",
+        "A 18. századi ezüstbányászati fellendülésből származó vagyonból épült.",
+        "Robusztus, fehér barokk homlokzata uralja a macskaköves főteret.",
+        "Főoltára aranyfüsttel bevont, Spanyolországból származó faragott fa (retablo).",
+        "Honduras egyik legépebb állapotban fennmaradt gyarmati belső terével rendelkezik.",
+        "Az épület és a város 1979 óta nemzeti műemléki védelem alatt áll.",
+        "Szent Annának, a bányászok egyik védőszentjének van szentelve."
+      ]
+    },
+    {
+      "id": "alter-bahnhof-san-pedro-sula-history-v2",
+      "descriptionAdvanced": "A San Pedro Sula-i Régi Vasútállomás (Antigua Estación del Ferrocarril Nacional) a város és Honduras 20. századi gazdaságtörténetének egyik legikonikusabb épülete. Az 1900-as évek elején épült, jellegzetes karibi-viktoriánus faépítészetet tükröző állomás a 'Banánköztársaság' korszakának központja volt. Innen indultak a szerelvények a hatalmas Sula-völgyi banánültetvényekről Puerto Cortés kikötőjébe. A vasútvonalakat a külföldi gyümölcstársaságok (Standard Fruit, United Fruit) építették, és évtizedekig ez a hálózat volt a hondurasi gazdaság és közlekedés ütőere. A vasúti közlekedés hanyatlásával az épület elvesztette eredeti funkcióját, azonban megmentették a pusztulástól, és ma kulturális központként, valamint vasúttörténeti múzeumként működik, emléket állítva a vasutasoknak és a banániparnak. Történelem K8 — ipartörténet és vasút.",
+      "factsAdvanced": [
+        "San Pedro Sula történelmi központjában található.",
+        "Az 1900-as évek elején épült karibi-viktoriánus faépítészeti stílusban.",
+        "A hondurasi Nemzeti Vasút (és a banáncégek) központi csomópontja volt.",
+        "Összekötötte a Sula-völgy banánültetvényeit Puerto Cortés kikötőjével.",
+        "A 'Banánköztársaság' korszak legfontosabb infrastrukturális szimbóluma.",
+        "A vasúti áruszállítás hanyatlása után műemlékké nyilvánították.",
+        "Ma kulturális tér és vasúttörténeti múzeum (Museo del Ferrocarril) működik benne."
+      ]
+    }
+  ]
+}

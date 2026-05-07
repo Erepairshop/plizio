@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bissau-cities-v2",
+      "descriptionAdvanced": "Bissau este capitala și cel mai mare oraș al statului Guineea-Bissau, situat pe estuarul râului Geba. Fondat în 1687 de portughezi, a devenit centrul administrativ al coloniei în 1941, înlocuind Bolama. Orașul este principalul port, centru economic și militar al țării. Cartierul vechi, cunoscut sub numele de Bissau Velho, păstrează străduțe înguste și arhitectură colonială, precum Fortaleza de São José da Amura, unde se află mausoleul lui Amílcar Cabral. Bissau este renumit pentru carnavalul său vibrant anual. Economia locală se bazează pe exportul de nuci de caju, arahide, lemn și ulei de palmier. Este principalul nod de transport, găzduind Aeroportul Internațional Osvaldo Vieira. Populația a crescut masiv după independență, formând un mozaic cultural complex dominat de grupurile Balanta, Fula și Mandinka, care se reflectă în piețele animate precum Bandim. Geografie K7 — așezări urbane și demografie.",
+      "factsAdvanced": [
+        "Fondat de portughezi în 1687 ca port fortificat.",
+        "A devenit capitala Guineei Portugheze în 1941.",
+        "Populația orașului depășește 490.000 de locuitori.",
+        "Fortaleza de São José da Amura găzduiește mormântul lui Amílcar Cabral.",
+        "Aeroportul Internațional Osvaldo Vieira (OXB) este singurul aeroport internațional din țară.",
+        "Exportă anual zeci de mii de tone de nuci de caju prin portul său."
+      ]
+    },
+    {
+      "id": "bafata-cities-v2",
+      "descriptionAdvanced": "Bafatá este al doilea oraș ca mărime din Guineea-Bissau, situat în regiunea central-estică pe malurile râului Geba. Orașul este recunoscut istoric ca locul de naștere al liderului revoluționar Amílcar Cabral în 1924, a cărui casă a fost transformată într-un monument. Bafatá servește ca un important nod comercial și de transport pentru regiunea estică, facilitând comerțul cu produse agricole, în special nuci de caju și arahide. Arhitectura din centrul orașului păstrează clădiri coloniale cu o influență vizibilă islamică, reflectând populația majoritar Fula și Mandinka. Râul Geba asigură o sursă vitală de apă pentru agricultură, dar în sezonul uscat nivelul apei scade considerabil. În jurul orașului, fauna include numeroase specii de păsări și maimuțe. Istorie K8 — mișcări de eliberare națională.",
+      "factsAdvanced": [
+        "Este al doilea oraș ca mărime, cu peste 29.000 de locuitori.",
+        "Amílcar Cabral s-a născut aici pe 12 septembrie 1924.",
+        "Situat la o altitudine de aproximativ 10 metri deasupra nivelului mării.",
+        "Reprezintă centrul cultural al grupului etnic Fula din regiune.",
+        "Este traversat de râul Geba, o arteră navigabilă istorică.",
+        "Producția de cărămizi din argilă este o industrie locală importantă."
+      ]
+    },
+    {
+      "id": "gabu-cities-v2",
+      "descriptionAdvanced": "Gabú, cunoscut anterior ca Nova Lamego în perioada colonială, este cel mai mare oraș din estul statului Guineea-Bissau. A fost capitala istorică a Imperiului Kaabu, un puternic stat Mandinka care a controlat regiunea între secolele XVI și XIX. Astăzi, Gabú este un centru comercial efervescent datorită apropierii sale de frontiera cu Senegal și Guineea, atrăgând comercianți din toată Africa de Vest. Populația orașului, predominant musulmană (Fula și Mandinka), influențează direct arhitectura locală, piața centrală și Marea Moschee fiind puncte de referință. Economia este dominată de agricultura de subzistență, creșterea vitelor și comerțul transfrontalier. Zona se confruntă cu un climat de savană, având veri foarte umede și ierni secetoase. Istorie K7 — imperii africane precoloniale.",
+      "factsAdvanced": [
+        "A fost numit Nova Lamego până la independența țării.",
+        "A servit drept centru al puternicului Imperiu Kaabu din 1537.",
+        "Este al treilea oraș ca mărime, având aproximativ 43.000 de rezidenți.",
+        "Se află la intersecția rutelor comerciale către Senegal și Guineea.",
+        "Islamul este religia practicată de peste 90% din populația locală.",
+        "Comerțul cu vite și bumbac domină piața locală de duminică."
+      ]
+    },
+    {
+      "id": "bissora-cities-v2",
+      "descriptionAdvanced": "Bissora este un oraș situat în regiunea Oio, în partea central-nordică a Guineei-Bissau. Această localitate este renumită pentru importanța sa agricolă, fiind un centru de colectare și procesare primară pentru nucile de caju, arahide și orez. Din punct de vedere istoric, Bissora a fost scena unor confruntări importante în timpul Războiului de Independență (1963-1974), iar un monument impresionant din centrul orașului onorează luptătorii mișcării PAIGC. Populația, predominant din grupurile etnice Balanta și Mandinka, menține o economie tradițională. Piața din Bissora este una dintre cele mai mari din regiunea Oio, aducând laolaltă fermieri din zeci de sate înconjurătoare. Relieful este plat, acoperit parțial de păduri deschise și terenuri defrișate pentru agricultură. Geografie K6 — agricultura de subzistență.",
+      "factsAdvanced": [
+        "Bissora găzduiește un monument dedicat victimelor războiului de independență.",
+        "Populația orașului a ajuns la aproape 12.000 de locuitori.",
+        "Face parte din regiunea Oio, cea mai populată zonă agricolă.",
+        "Nucile de caju reprezintă principala sursă de venit pentru familii.",
+        "Este conectat prin drumuri neasfaltate cu capitala regională Farim.",
+        "Terenul înconjurător este situat la doar 25 de metri altitudine."
+      ]
+    },
+    {
+      "id": "bolama-cities-v2",
+      "descriptionAdvanced": "Bolama este o insulă și un oraș situat în arhipelagul Bijagós, care a funcționat ca prima capitală a Guineei Portugheze din 1879 până în 1941. Astăzi, orașul pare oprit în timp, caracterizat prin ruinele clădirilor coloniale impunătoare acoperite de vegetație tropicală luxuriantă, cum ar fi fostul Palat al Guvernatorului, inspirat de arhitectura neo-clasică. În 1870, disputa teritorială dintre Marea Britanie și Portugalia asupra insulei a fost rezolvată în favoarea Portugaliei de președintele american Ulysses S. Grant. Declinul a început odată cu mutarea capitalei la Bissau, din cauza lipsei apei potabile pe insulă. Populația actuală se bazează pe pescuit și cultivarea fructelor (în special mango), iar turismul istoric prinde treptat avânt. Istorie K8 — epoca colonialismului european.",
+      "factsAdvanced": [
+        "A fost capitala administrativă a Guineei Portugheze între 1879 și 1941.",
+        "Arbitrajul lui Ulysses S. Grant în 1870 a acordat insula Portugaliei.",
+        "Fostul Palat al Guvernatorului zace astăzi parțial în ruine.",
+        "Populația insulei a scăzut sub 10.000 de locuitori permanenți.",
+        "Este cea mai apropiată insulă din Arhipelagul Bijagós de continent.",
+        "A suferit un puternic declin economic din cauza lipsei de apă dulce."
+      ]
+    },
+    {
+      "id": "cacheu-cities-v2",
+      "descriptionAdvanced": "Cacheu, situat pe estuarul râului Cacheu din nord-vestul Guineei-Bissau, este una dintre cele mai vechi așezări coloniale europene din Africa sub-sahariană, fondată în 1588 de comercianții portughezi. A fost inițial inima comerțului cu sclavi în regiune, activitate ce a transformat complet demografia și istoria Atlanticului. Vechiul Fort din Cacheu, restaurat parțial, stă mărturie acestui trecut întunecat, alături de un muzeu memorial deschis recent. În apropiere se află Parcul Național al Mangrovelor Râului Cacheu, un ecosistem vital ce acoperă zeci de mii de hectare, adăpostind crocodili, hipopotami și numeroase specii de păsări migratoare. Astăzi, comunitatea locală trăiește preponderent din pescuitul pe estuar și extragerea lemnului din mangrove, activități amenințate de schimbările climatice. Biologie K7 — ecosistemele de mangrove.",
+      "factsAdvanced": [
+        "A fost fondat de portughezi în anul 1588.",
+        "A fost un centru major al comerțului cu sclavi în secolul al XVII-lea.",
+        "Găzduiește Parcul Național al Mangrovelor, extins pe 88.615 hectare.",
+        "Vechiul fort colonial conține 16 tunuri originale din fontă.",
+        "Este situat în inima teritoriului istoric al poporului Papel.",
+        "A fost prima capitală a regiunii înainte de formarea Guineei Portugheze."
+      ]
+    },
+    {
+      "id": "buba-cities-v2",
+      "descriptionAdvanced": "Buba este cel mai mare oraș din regiunea Quinara, situat pe un estuar adânc care se varsă în Oceanul Atlantic. Este renumit pentru Parcul Național Lacul Cufada, situat în apropiere, care este cea mai mare întindere de apă dulce din țară și un refugiu esențial pentru cimpanzei și specii rare de păsări. Orașul a fost un important centru de comandă militară în timpul războiului anticolonial. Datorită apelor sale adânci, Buba are potențialul de a deveni un port de ape adânci, un proiect care ar stimula exportul de minereu de bauxită din zona Boé. Economia locală se bazează puternic pe pescuitul tradițional, cultura orezului în zonele inundabile și extragerea uleiului de palmier. Geografie K8 — dezvoltare economică și porturi.",
+      "factsAdvanced": [
+        "Aflat la o altitudine de doar 3 metri deasupra nivelului mării.",
+        "Are o populație estimată la peste 17.000 de persoane.",
+        "Situat în apropierea Parcului Național Lacul Cufada (89.000 hectare).",
+        "Estuarul său poate găzdui nave de mare tonaj (peste 10 metri adâncime).",
+        "A fost un bastion major pentru armata portugheză în anii '60.",
+        "Este planificat să devină principalul port de export pentru bauxita din Boé."
+      ]
+    },
+    {
+      "id": "catio-cities-v2",
+      "descriptionAdvanced": "Catió este centrul administrativ al regiunii sudice Tombali, o zonă puternic împădurită și izolată, denumită adesea grânarul țării datorită solurilor fertile și a precipitațiilor abundente. Localitatea are o populație diversă formată din grupurile Balanta, Fula și Nalu. Orezul este cultura supremă aici, cultivat tradițional în câmpiile de coastă sărate. Catió este poarta de acces spre Parcul Național Pădurea Cantanhez, unul dintre ultimele fragmente de pădure tropicală virgină din Guineea-Bissau, locuită de o populație unică de cimpanzei sălbatici (Pan troglodytes verus). Izolarea orașului în timpul sezonului ploios, când drumurile neasfaltate devin impracticabile, limitează dezvoltarea sa economică, dar menține ecosistemul intact. Biologie K7 — conservarea pădurilor tropicale.",
+      "factsAdvanced": [
+        "Este capitala regiunii Tombali, cea mai ploioasă din Guineea-Bissau.",
+        "Precipitațiile medii anuale depășesc 2.500 mm în această zonă.",
+        "Aproape 70% din populația locală este implicată în cultura orezului.",
+        "Situat la granița cu Parcul Național Pădurea Cantanhez (1067 km²).",
+        "În timpul Războiului de Independență (1963-74) a suferit daune grave.",
+        "Grupul etnic Balanta reprezintă forța principală în agricultura de aici."
+      ]
+    },
+    {
+      "id": "farim-cities-v2",
+      "descriptionAdvanced": "Farim, un oraș istoric de pe malul de nord al râului Cacheu, este situat la doar 25 de kilometri de granița cu Senegalul. Fondat ca post de tranzacționare în 1641, a facilitat comerțul cu sclavi și mai târziu cu arahide, ceară și piei de animale spre porturile de coastă. Astăzi, importanța sa a renăscut datorită descoperirii unuia dintre cele mai mari zăcăminte de fosfați din Africa de Vest, situat în apropiere. Râul Cacheu, lat de aproximativ 200 de metri în această zonă, este în continuare folosit pentru pescuitul de subzistență de către comunitatea predominant Mandinka. Peisajul din jur este dominat de savană împădurită, unde temperaturile pot depăși 38°C în timpul sezonului secetos. Chimie K8 — resurse minerale și minerit.",
+      "factsAdvanced": [
+        "A fost fondat de portughezi și comercianți luso-africani în 1641.",
+        "Zăcământul local de fosfați conține rezerve de peste 100 de milioane de tone.",
+        "Populația orașului depășește 8.000 de rezidenți permanenți.",
+        "Este o poartă principală pentru comerțul cu regiunea Casamance din Senegal.",
+        "Situat pe un mal înalt al râului Cacheu pentru a preveni inundațiile.",
+        "Vechea piață colonială a fost reconstruită în anii '90 cu sprijin extern."
+      ]
+    },
+    {
+      "id": "quinhamel-cities-v2",
+      "descriptionAdvanced": "Quinhámel, capitala regiunii Biombo, este situată la scurtă distanță vest de Bissau. Această așezare se află pe teritoriul tradițional al etniei Papel și este strâns legată de practicile lor culturale și animiste. Orașul este recunoscut în toată țara pentru meșteșugurile sale autentice, în special țesutul pânzelor tradiționale 'pano di pinti' și producția vinului de palmier fermentat natural. Estuarele din jurul Quinhámel sunt bogate în stridii, recoltate tradițional de femeile locale din rădăcinile de mangrove. Din punct de vedere turistic, micile hoteluri aflate pe malul mării și excursiile cu piroga atrag locuitorii din Bissau pe durata weekend-urilor, fiind un sanctuar liniștit față de agitația capitalei. Geografie K6 — culturi indigene și turism local.",
+      "factsAdvanced": [
+        "Este centrul cultural tradițional al poporului animist Papel.",
+        "Situat la aproximativ 40 de kilometri de capitala Bissau.",
+        "Țesutul de 'pano di pinti' (bumbac manual) este un pilon economic.",
+        "O mare parte din teren este acoperită de plantații de palmier de ulei.",
+        "Pescuitul artizanal și recoltarea stridiilor angajează 30% din femei.",
+        "A fost un centru cheie de rezistență indigenă împotriva dominației portugheze în secolul XIX."
+      ]
+    },
+    {
+      "id": "mansoa-cities-v2",
+      "descriptionAdvanced": "Mansôa este un oraș comercial extrem de dinamic, situat în inima Guineei-Bissau, la punctul de intersecție dintre nordul și centrul țării. Datorită locației sale strategice pe autostrada principală, a devenit un nod logistic crucial pentru piața agricolă. Râul Mansoa, un curs de apă cu un regim mareic pronunțat, trece prin apropiere, iar podul care îl traversează este vital pentru transportul național. Populația, care reunește etniile Balanta și Mandinka, se concentrează pe cultivarea orezului pe terenurile litorale inundate de maree, cunoscute sub numele de bolanhas. Fosta Misiune Catolică din Mansôa a jucat un rol educațional central înainte de independență. Orașul are, de asemenea, o bază militară importantă, moștenire a războiului de eliberare (1963-1974). Istorie K7 — infrastructură post-colonială.",
+      "factsAdvanced": [
+        "Aflat la aproximativ 60 de kilometri distanță de capitala Bissau.",
+        "Piața sa agrară este a doua ca mărime ca volum de tranzacționare.",
+        "Podul peste râul Mansoa a fost finanțat cu asistență internațională.",
+        "Populația este estimată la 8.000 - 10.000 de locuitori permanenți.",
+        "Centru principal de prelucrare a orezului cultivat în mlaștinile litorale (bolanhas).",
+        "Fosta Misiune Catolică, înființată în 1946, continuă să ofere asistență."
+      ]
+    },
+    {
+      "id": "bambadinca-cities-v2",
+      "descriptionAdvanced": "Bambadinca este o așezare din regiunea centrală Bafatá, devenită celebră la nivel național și internațional pentru pionieratul său în domeniul energiei regenerabile. În 2015, comunitatea a inaugurat una dintre primele și cele mai mari micro-rețele hibride din Africa de Vest (Bambadinca Nobo), o centrală solară de peste 300 kW care alimentează non-stop întregul oraș, transformând radical calitatea vieții și stimulând micro-afacerile. Aflat la intersecția unor drumuri regionale majore, Bambadinca servește ca punct de oprire comercial. Pământurile fertile irigate din jur favorizează producția de legume, orez și caju. Inițiativele energetice au dus la crearea de locuințe moderne și o piață digitalizată emergentă. Fizică K8 — energie solară și micro-rețele electrice.",
+      "factsAdvanced": [
+        "Găzduiește o centrală fotovoltaică de 312 kW cu baterii de stocare.",
+        "Micro-rețeaua sa electrică funcționează complet independent de rețeaua națională.",
+        "Proiectul 'Bambadinca Nobo' a beneficiat de finanțare de la Uniunea Europeană.",
+        "Populația orașului depășește 6.000 de persoane.",
+        "Electricitatea 24/7 a dus la o creștere cu 40% a micilor afaceri.",
+        "Situat pe un teren de savană cu soluri feruginoase roșii."
+      ]
+    },
+    {
+      "id": "canchungo-cities-v2",
+      "descriptionAdvanced": "Canchungo (denumit Teixeira Pinto în perioada colonială) este al doilea cel mai important pol urban al regiunii Cacheu, situat în nord-vestul țării. Sub administrația portugheză a fost un puternic centru comercial și administrativ, arhitectura sa centrală conservând clădiri coloniale solide, cu arcade și acoperișuri de țiglă, dar adesea neîngrijite astăzi. Zona este o fortăreață a culturii etniei Manjaco, recunoscuți drept fermieri iscusiți de orez și palmieri. Orașul dispune de un spital de referință și numeroase școli, fiind un centru educațional regional. Agricultura bazată pe arbori de caju a înlocuit masiv alte culturi tradiționale în ultimii 30 de ani. Geografie K7 — monoculturi și impactul agricol.",
+      "factsAdvanced": [
+        "Numit anterior Teixeira Pinto în onoarea unui ofițer militar portughez.",
+        "Are o populație urbană de aproximativ 11.000 de locuitori.",
+        "Centrul istoric cuprinde zeci de clădiri din anii 1930-1950.",
+        "Aria este centrul spiritual și politic al poporului Manjaco.",
+        "Peste 60% din terenurile arabile locale sunt dedicate nucilor de caju.",
+        "Dispune de un spital regional care deservește peste 50.000 de pacienți anual."
+      ]
+    },
+    {
+      "id": "quebo-cities-v2",
+      "descriptionAdvanced": "Quebo este o localitate din sudul Guineei-Bissau (regiunea Tombali), aflată într-o zonă puternic influențată de clima ecuatorială, cu precipitații masive. Poziția sa în proximitatea graniței cu Guineea (Conakry) o transformă într-un hub de tranzit pentru comerțul informal și schimbul de mărfuri agricole, precum ulei de palmier, fructe tropicale și orez. Istoric, zona Quebo a fost epicentrul unor bătălii feroce în anii de sfârșit ai Războiului Colonial (1973), când mișcarea de eliberare PAIGC a preluat controlul garnizoanelor izolate. Parcul Național Cantanhez, aflat la sud de oraș, oferă potențial ecoturistic încă neexploatat. Infrastructura limitată de transport o menține izolată în timpul lunilor musonice. Geografie K6 — climat tropical și comerț.",
+      "factsAdvanced": [
+        "A fost cunoscut sub numele de Aldeia Formosa în timpul epocii portugheze.",
+        "Primește peste 2.400 mm de ploaie pe an, majoritatea între iunie și octombrie.",
+        "A fost cucerit de forțele PAIGC în 1973, fiind o victorie strategică.",
+        "Aproape de Parcul Național Cantanhez, renumit pentru cimpanzei.",
+        "Conectat printr-un drum de pământ de capitala regională Catió.",
+        "Fructele de mango și citricele cresc abundent fără irigații artificiale."
+      ]
+    },
+    {
+      "id": "bedanda-cities-v2",
+      "descriptionAdvanced": "Bedanda este un sector rural izolat situat pe peninsula Cubucaré, în sudul îndepărtat al Guineei-Bissau. Așezarea are un caracter profund rural, locuitorii săi din etniile Balanta, Fula și Nalu supraviețuind aproape exclusiv din agricultură și pescuit în ecosistemele estuarelor cu mangrove. Bedanda este considerată 'capitala' orezului de mangrove, un sistem agricol complex dezvoltat de localnici care implică diguri de noroi pentru a opri apa sărată. Totodată, localitatea este o piatră de temelie pentru intrarea în Parcul Național Pădurea Cantanhez, ghizii comunitari operând mici eco-tururi în satele adiacente, unde turiștii pot urmări macaci, cimpanzei rari și păsări rinocer. Biologie K7 — agricultura de subzistență lângă păduri virgine.",
+      "factsAdvanced": [
+        "Baza de acces principală pentru pădurea seculară Cantanhez.",
+        "Recunoscut pentru sistemul antic al 'bolanhas' (plantații de orez în mangrove).",
+        "A fost complet distrus și abandonat temporar în timpul războiului (1970).",
+        "Peste 40 de specii de mamifere mari trăiesc în pădurile din jur.",
+        "Populația sectorului depășește rar 25.000 de locuitori în total.",
+        "Energie electrică este obținută doar prin panouri solare sau generatoare diesel."
+      ]
+    },
+    {
+      "id": "nhacra-cities-v2",
+      "descriptionAdvanced": "Nhacra, aflată la doar 35 de kilometri nord-est de Bissau, este un important centru de distribuție și o mică așezare industrială. Datorită poziției sale strategice la răscrucea autostrăzilor principale care leagă Bissau de nordul și estul țării, orașul s-a transformat dintr-un sat tradițional într-un punct de comerț angro. Solul argilos de aici permite existența unor mici fabrici de producere a cărămizilor și prelucrarea materialelor de construcții. Pădurile din împrejurimi au fost masiv reduse pentru a face loc plantațiilor de anacardier, lemnul rezultat fiind transformat în cărbune pentru piața din capitală, ridicând mari probleme de sustenabilitate. Economie K8 — defrișări și comerț de proximitate.",
+      "factsAdvanced": [
+        "Aflat pe ruta principală rutieră asfaltată din Guineea-Bissau.",
+        "Populația este formată majoritar din grupuri Balanta și Papel.",
+        "Distanța mică de Bissau a stimulat migrația navetiștilor.",
+        "Producția de cărbune de lemn este o sursă primară de venit neoficial.",
+        "Deține numeroase depozite de colectare pentru nuci de caju.",
+        "Terenul este acoperit predominant de un strat subțire de laterit."
+      ]
+    },
+    {
+      "id": "safim-cities-v2",
+      "descriptionAdvanced": "Safim este practic o suburbie aflată la periferia nordică a capitalei Bissau, acționând ca un punct de intrare și ieșire vital pentru traficul de pe uscat. Localitatea este flancată de estuarul Râului Mansoa la vest, unde pescuitul de crabi și stridii rămâne tradițional. În ultimii 20 de ani, Safim a cunoscut o expansiune imobiliară necontrolată, transformându-se într-o zonă rezidențială pentru clasa mijlocie emergentă din Bissau, doritoare să scape de aglomerația capitalei. Un monument simplu, dar plin de însemnătate la marginea orașului, comemorează locul în care Amílcar Cabral a intrat clandestin în țară pentru a impulsiona lupta armată. Geografie K6 — expansiunea urbană și suburbiile.",
+      "factsAdvanced": [
+        "Situat la doar 15 kilometri distanță de centrul orașului Bissau.",
+        "Populația a crescut cu peste 300% din anul 2000.",
+        "Servește ca un punct de tranziție rutieră obligatoriu spre regiunea nordică.",
+        "Prezintă situri istorice secrete folosite de liderii PAIGC în 1963.",
+        "Aria este amenințată constant de poluarea venită din capitală.",
+        "Se extrage nisip pentru construcții direct din râurile adiacente."
+      ]
+    },
+    {
+      "id": "bubaque-cities-v2",
+      "descriptionAdvanced": "Bubaque este principalul centru urban al Arhipelagului Bijagós, funcționând ca port maritim, hub turistic și reședință administrativă. Insula cu același nume este singura din arhipelag conectată regulat prin feribot de Bissau. Orășelul are un aer nostalgic, străzile sale liniștite, adesea neasfaltate, fiind flancate de ruine coloniale portugheze și palmieri giganți. Turismul, bazat pe pescuit sportiv și ecoturism, este principalul motor economic. Bubaque este baza UNESCO pentru Rezervația Biosferei Bijagós, găzduind un mic muzeu care explică biodiversitatea unică (țestoase marine, hipopotami de apă sărată) și cultura matriarhală a poporului autohton Bijagó. Biologie K7 — rezervații ale biosferei și insule.",
+      "factsAdvanced": [
+        "Este considerată capitala neoficială a Arhipelagului Bijagós.",
+        "Feribotul Bissau-Bubaque acoperă o distanță maritimă de 60 km.",
+        "Populația totală a insulei Bubaque este de circa 9.000 de locuitori.",
+        "Sediul administrativ al Rezervației Biosferei Boloma-Bijagós (UNESCO).",
+        "Poporul Bijagó de aici practică tradiții cu elemente matriarhale.",
+        "Are mici resorturi turistice orientate spre pescuit sportiv internațional."
+      ]
+    },
+    {
+      "id": "fulacunda-cities-v2",
+      "descriptionAdvanced": "Fulacunda este o mică localitate istorică din regiunea Quinara, situată într-o zonă muntoasă și dens împădurită pe malurile Râului Grande de Buba. Inițial fondat ca un post fortificat de comerț în secolul XIX, orașul păstrează încă ruinele unor baze comerciale vechi. Poziția sa geografică l-a transformat într-un bastion militar contestat în timpul războiului de eliberare din anii '70. Astăzi, Fulacunda este un centru agricol pașnic, dominat de cultivarea orezului și extracția fructelor de palmier, având majoritatea populației din etniile Fula și Beafada. Lipsa de infrastructură modernă și a drumurilor asfaltate contribuie la izolarea sa, conservând în schimb tradițiile locale. Istorie K6 — comerțul fluvial din era colonială.",
+      "factsAdvanced": [
+        "Fost centru major al companiei comerciale coloniale 'Casa Gouveia'.",
+        "Populația majoritară este musulmană, etnia Fula dominând zona.",
+        "Râul adiacent (Rio Grande de Buba) este navigabil pentru ambarcațiuni mici.",
+        "Aici s-au dus lupte de gherilă grele în intervalul 1968-1973.",
+        "Sunt încă vizibile zidurile de piatră ale garnizoanei portugheze abandonate.",
+        "Se produc volume mari de ulei de palmier roșu nerafinat."
+      ]
+    },
+    {
+      "id": "bigene-cities-v2",
+      "descriptionAdvanced": "Bigene se află în extremitatea nordică a Guineei-Bissau (regiunea Cacheu), foarte aproape de frontiera poroasă cu Senegalul (regiunea Casamance). Această așezare de frontieră are un caracter transnațional pronunțat; localnicii din diverse etnii (Diola, Manjaco, Fula) trec granița frecvent pentru comerț, munci agricole și adunări familiale. Din cauza conflictului armat de zeci de ani din Casamance, Bigene a servit frecvent ca un refugiu sigur pentru mii de refugiați senegalezi, ceea ce a pus presiune pe resursele sale modeste. Mediul este tipic pentru savana sudaneză, cu o defrișare ridicată pentru culturile de caju și obținerea lemnului de foc. Geografie K7 — frontiere internaționale și migrație.",
+      "factsAdvanced": [
+        "Așezat la mai puțin de 10 kilometri de granița cu Senegal (Casamance).",
+        "A găzduit peste 5.000 de refugiați senegalezi în anii 1990 și 2000.",
+        "Majoritatea economiei depinde de comerțul transfrontalier neoficial.",
+        "Comunitățile Diola (Jola) împart legături culturale de ambele părți ale graniței.",
+        "Lipsa de apă curată în sezonul secetos este o provocare majoră.",
+        "Piața săptămânală acceptă atât Franci CFA, cât și trocul de bunuri agricole."
+      ]
+    },
+    {
+      "id": "ingore-cities-v2",
+      "descriptionAdvanced": "Ingoré este o așezare dinamică situată pe autostrada principală de nord-vest, un punct de tranzit obligatoriu spre și dinspre orașul de graniță São Domingos. Acest statut geografic l-a transformat dintr-un simplu sat agricol într-un pol logistic în plină expansiune. Zeci de camioane încărcate cu caju, cherestea și mărfuri din Senegal opresc zilnic aici. Centrul orașului este un amestec vibrant de ateliere auto, piețe și mici pensiuni. Populația locală prosperă pe baza agriculturii, producând arahide și bumbac. Biserica Catolică din Ingoré și misiunile aferente oferă sprijin educațional vital pentru copiii din satele îndepărtate. Economie K6 — noduri de transport și logistică rutieră.",
+      "factsAdvanced": [
+        "Situat strategic pe drumul național N2 (Bissau - Ziguinchor).",
+        "Peste 50% din traficul internațional de mărfuri al țării trece pe aici.",
+        "A cunoscut o dublare a populației între anii 2000 și 2020.",
+        "Industria reparațiilor auto și vulcanizărilor este foarte dezvoltată.",
+        "Sute de tone de anacarde sunt colectate de la micii fermieri anual.",
+        "Găzduiește o importantă comunitate educațională catolică."
+      ]
+    },
+    {
+      "id": "pirada-cities-v2",
+      "descriptionAdvanced": "Pirada este situată la nord-est de Gabú, chiar la granița cu Senegalul. Geografic, reprezintă o tranziție spre peisajele mai aride ale Sahelului, având precipitații mai scăzute și o floră formată din baobabi și salcâmi. Populația, predominant musulmană de etnie Fula, este specializată în pastorat și creșterea bovinelor, pe care le mută sezonier după sursele de apă. Pirada operează un punct de trecere a frontierei oficial, fiind esențială pentru importul de produse manufacturate dinspre Dakar și exportul de vite în viață și piei brute. Datorită schimbărilor climatice și deșertificării lente, regiunea se confruntă cu un declin al productivității pajiștilor. Geografie K8 — deșertificare și schimbări climatice.",
+      "factsAdvanced": [
+        "Reprezintă extremitatea nord-estică a Guineei-Bissau.",
+        "Punct oficial de control vamal cu Senegalul (regiunea Kolda).",
+        "Temperaturile medii în aprilie pot atinge 40° Celsius constant.",
+        "Creșterea transhumanței a vitelor Zebu este fundamentul economiei.",
+        "Nu există surse perene de apă dulce la suprafață, bazându-se pe puțuri adânci.",
+        "Este considerat unul dintre cele mai secetoase orașe din țară."
+      ]
+    },
+    {
+      "id": "pitche-cities-v2",
+      "descriptionAdvanced": "Pitche, localizat în sud-estul îndepărtat (regiunea Gabú), este despărțit de statul Guineea (Conakry) de cursul impetuos al râului Corubal. Această locație de graniță este vitală, podurile sau punctele de trecere cu feribotul artizanal fiind singura cale de acces către minele nordice din Guineea. Peisajul este marcat de savana colinară a masivului Boé, cu soluri roșii bogate în bauxită neexploatată încă. Populația este majoritar formată din triburi Fula. În lunile musonice (iulie-septembrie), nivelul râului Corubal crește masiv, inundând frecvent drumurile joase și izolând temporar orașul. Pescuitul fluvial asigură o diversificare importantă a dietei locale bazate pe orez și porumb. Fizică K7 — debite hidrologice.",
+      "factsAdvanced": [
+        "Așezat pe malul nordic al râului Corubal (250 m lățime locală).",
+        "A fost teatru de luptă intensă în Războiul Colonial Portughez.",
+        "Situat la granița estică muntoasă, lângă rezerve masive de bauxită.",
+        "Conectează comercial Guineea-Bissau de zonele miniere din Guineea.",
+        "Corubal furnizează cantități vaste de pește de apă dulce locuitorilor.",
+        "Deconectat frecvent de centrul țării pe durata sezonului ploios intens."
+      ]
+    },
+    {
+      "id": "sonaco-cities-v2",
+      "descriptionAdvanced": "Sonaco este un orășel situat pe platoul central din regiunea Gabú, recunoscut pentru agricultura sa extensivă și fermele de animale. Economia sa este puternic axată pe cultivarea arahidelor, sorgului și bumbacului, culturi adaptate climei calde și perioadelor scurte de precipitații. În fiecare vineri, Sonaco prinde viață datorită 'lumo' (piața săptămânală), un eveniment social și comercial imens unde se adună mii de oameni, de la păstori de vaci la comercianți de haine. Din punct și vedere etnic, mozaicul este dominat de populațiile Fula și Mandinka. Dezvoltarea școlilor coranice (madrassa) atrage tineri din tot județul, oferind educație tradițională. Educație K5 — târguri tradiționale.",
+      "factsAdvanced": [
+        "Găzduiește unul dintre cele mai mari 'lumo' (târguri) din regiunea Gabú.",
+        "Peste 4.000 de bovine sunt tranzacționate anual în piața sa de animale.",
+        "Populația orașului numără aproximativ 7.500 de locuitori.",
+        "Islamul sunnit este practicat de marea majoritate a locuitorilor.",
+        "Arahidele reprezintă 40% din producția agricolă a familiilor de aici.",
+        "Majoritatea drumurilor locale sunt din pământ roșu bătătorit."
+      ]
+    },
+    {
+      "id": "contuboel-cities-v2",
+      "descriptionAdvanced": "Contuboel, așezat pe un afluent al Râului Geba, este epicentrul testărilor agricole guvernamentale și al irigațiilor din Guineea-Bissau. Aici se găsește Centrul Național de Cercetare Agricolă, fondat în anii 1970 pentru a îmbunătăți soiurile de orez și a asigura securitatea alimentară. Datorită unei rețele mici dar eficiente de canale de irigații, fermierii din Contuboel pot obține adesea două recolte de orez pe an, un fapt rar în țară. Populația, predominant de religie musulmană, este susținută de această siguranță alimentară. În pofida potențialului agricol, infrastructura mecanică degradată (pompe vechi) limitează extinderea producției la capacitatea sa maximă. Biologie K8 — agronomie și geneticii plantelor.",
+      "factsAdvanced": [
+        "Sediul unui important Centru de Cercetare Agronomică și dezvoltare a orezului.",
+        "Aproximativ 1.000 de hectare sunt amenajate pentru irigații controlate.",
+        "Râul Geba asigură debitul de apă esențial în sezonul secetos.",
+        "Fermierii obțin randamente de până la 3-4 tone de orez la hectar.",
+        "Se experimentează introducerea semințelor rezistente la secetă și salinitate.",
+        "Are o populație relativ stabilă de aproximativ 6.000 de persoane."
+      ]
+    }
+  ]
+}

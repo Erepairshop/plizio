@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "songa-relief-v2",
+      "descriptionAdvanced": "Regiunea Songa este cunoscută pentru relieful său colinar care oferă o diversitate de microclimate, esențiale pentru practicarea unei agriculturi variate. Peisajul, marcat prin tranziția între zonele muntoase și platourile joase, susține comunitățile rurale prin resurse agricole diversificate și un sistem de irigații natural, alimentat de numeroasele izvoare montane. Songa servește ca un exemplu de adaptare umană la un relief care impune respect și necesită o gestionare atentă a resurselor naturale pentru a asigura sustenabilitatea pe termen lung a comunităților. Geografie K6 — adaptarea agriculturii la relief.",
+      "factsAdvanced": [
+        "Regiunea este un amestec de relief colinar și văi.",
+        "Agricultura locală este susținută de izvoarele naturale.",
+        "Peisajul este specific zonelor intermediare din Burundi.",
+        "Managementul apei este crucial pentru productivitatea agricolă.",
+        "Zona a cunoscut o dezvoltare agricolă treptată în ultimii ani.",
+        "Relieful oferă condiții potrivite pentru mai multe tipuri de culturi."
+      ]
+    },
+    {
+      "id": "karonje-relief-v2",
+      "descriptionAdvanced": "Zona Karonje se remarcă prin relieful său accidentat, care a creat peisaje naturale impresionante, dar și provocări în ceea ce privește infrastructura de transport. Această regiune montană servește ca un habitat pentru specii locale și este importantă pentru reglarea locală a regimului precipitațiilor în zona înconjurătoare. Utilizarea terenului în Karonje demonstrează reziliența populației locale, care a reușit să transforme versanții abrupți în terenuri arabile prin practici agricole tradiționale care previn eroziunea solului. Geografie K7 — conservarea solului și agricultură.",
+      "factsAdvanced": [
+        "Relieful este caracterizat prin versanți cu înclinație mare.",
+        "Eroziunea solului este o provocare gestionată prin terasare.",
+        "Zona joacă un rol în reținerea apelor de suprafață.",
+        "Regiunea oferă peisaje montane deosebite pentru pasionații de natură.",
+        "Infrastructura de acces în zonă este adaptată terenului dificil.",
+        "Comunitățile locale practică agricultura adaptată reliefului accidentat."
+      ]
+    },
+    {
+      "id": "cene-relief-v2",
+      "descriptionAdvanced": "Cene prezintă un relief caracterizat prin dealuri și văi care compun un ecosistem propice dezvoltării agriculturii de subzistență și comerțului local. Această zonă reflectă aspectul rural tipic al multor provincii din Burundi, unde relieful determină distribuția așezărilor umane și a rețelelor de comunicare. Valorificarea acestui relief, deși provocatoare, a permis crearea unui peisaj cultural în care agricultura se îmbină cu viața cotidiană, susținând populația locală într-un mod sustenabil și eficient. Geografie K6 — relief și așezări umane.",
+      "factsAdvanced": [
+        "Regiunea este marcată prin dealuri și văi interconectate.",
+        "Așezările umane sunt distribuite conform disponibilității terenului arabil.",
+        "Cene este un exemplu de zonă rurală tipică pentru Burundi.",
+        "Relieful influențează rețeaua de drumuri rurale și accesul la servicii.",
+        "Practicile agricole sunt strâns legate de caracteristicile reliefului.",
+        "Zona este recunoscută pentru dinamismul său agricol local."
+      ]
+    },
+    {
+      "id": "birira-relief-v2",
+      "descriptionAdvanced": "Masivul Birira este o formațiune muntoasă care contribuie la diversitatea geografică a Burundiului, oferind un habitat pentru flora montană și influențând tiparele climatice din zona adiacentă. Relieful său, marcat prin culmi și versanți abrupți, este un element cheie în peisajul natural care definește identitatea vizuală a provinciei în care se află. Protejarea mediului natural din Birira este esențială pentru menținerea biodiversității și pentru prevenirea dezastrelor naturale, precum alunecările de teren, într-o zonă unde relieful impune o gestionare activă a terenului. Geografie K7 — managementul mediului și relief.",
+      "factsAdvanced": [
+        "Masivul prezintă un relief montan dominant în peisaj.",
+        "Zona este importantă pentru protecția biodiversității locale.",
+        "Este esențială prevenirea eroziunii pe versanții masivului.",
+        "Relieful influențează direct precipitațiile în regiune.",
+        "Birira este un punct de reper natural pentru comunitățile din jur.",
+        "Gestionarea terenului este vitală pentru siguranța zonelor joase."
+      ]
+    },
+    {
+      "id": "nkoma-relief-v2",
+      "descriptionAdvanced": "Zona Nkoma se distinge printr-un relief format din dealuri înalte care oferă perspective panoramice asupra regiunilor adiacente, făcând-o o zonă de interes atât pentru agricultură, cât și pentru turismul montan. Relieful determină structura și modul de viață al populației, care a dezvoltat strategii de utilizare a terenului capabile să maximizeze productivitatea în condiții geografice variate. Importanța acestei zone rezidă în echilibrul dintre resursele naturale oferite de relief și eforturile comunităților locale de a dezvolta un mediu de viață stabil. Geografie K6 — relief și oportunități economice.",
+      "factsAdvanced": [
+        "Zona este caracterizată prin dealuri înalte și văi adânci.",
+        "Relieful oferă perspective unice pentru turismul montan.",
+        "Agricultura locală profită de altitudinea variată a dealurilor.",
+        "Nkoma este un punct strategic pentru supravegherea regiunilor învecinate.",
+        "Comunitățile au adaptat structura satelor la relieful colinar.",
+        "Resursele naturale ale zonei sunt valorificate printr-o agricultură inteligentă."
+      ]
+    }
+  ]
+}

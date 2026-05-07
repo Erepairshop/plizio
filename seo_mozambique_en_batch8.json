@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "descriptionAdvanced": "The Gaza educational farm is a brilliant hands-on learning center located in the fertile Limpopo River valley! Here, kids can learn exactly how their food is grown by getting their hands dirty. They can help plant seeds, learn how massive irrigation systems bring water from the river to the dry fields, and see giant tractors harvesting maize and rice. The farm teaches visitors about the importance of farming in Mozambique and how taking care of the soil ensures there is enough food for everyone in the country. It's a fun, muddy, and delicious way to learn about agriculture! Sachkunde K3 — Farming and how plants grow.",
+      "factsAdvanced": [
+        "Located in the fertile Limpopo River valley in Gaza Province.",
+        "Teaches kids about large-scale farming and irrigation.",
+        "Visitors can see how staple foods like rice and maize are grown.",
+        "Shows how water is pumped from the river to dry farm fields.",
+        "A great place to learn about the importance of healthy soil.",
+        "Helps kids understand where the food in local markets comes from."
+      ]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "descriptionAdvanced": "A Cabo Delgado mango grove is like stepping into a sweet-smelling, tropical jungle! In the hot, sunny northern province, farmers grow massive orchards of mango trees that provide incredibly thick, cool shade. Kids can learn how a tiny blossom turns into a huge, juicy fruit and the best ways to pick them without bruising the skin. It's also a fantastic place to spot colorful local birds that come to feast on the sweet fruit. Visiting a mango grove is a sticky, sweet adventure that shows how amazing tropical farming can be! Sachkunde K3 — Tropical fruits and orchards.",
+      "factsAdvanced": [
+        "Located in the hot, tropical climate of northern Cabo Delgado.",
+        "Mango trees provide huge canopies of thick, cool shade.",
+        "A great place to learn the life cycle of fruit trees.",
+        "The sweet fruit attracts many beautiful, colorful birds.",
+        "Harvesting requires special long sticks with nets on the end.",
+        "Mangoes are an important source of vitamins and income for locals."
+      ]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "descriptionAdvanced": "The Tete agricultural project is a cool science experiment happening right in the middle of a hot, dry province! Because Tete can be incredibly hot, farmers have to use very clever tricks to keep their plants alive. Kids visiting the project can see how special shade nets, drought-resistant seeds, and smart drip-irrigation systems are used to grow healthy vegetables even when it hasn't rained in weeks! It is a great place to learn how science and farming work together to help people survive and thrive in tough climates. Sachkunde K3 — Drought farming and science.",
+      "factsAdvanced": [
+        "Tete is one of the hottest and driest provinces in Mozambique.",
+        "The project uses smart drip-irrigation to save precious water.",
+        "Farmers use special nets to protect delicate plants from the harsh sun.",
+        "Teaches how to grow food in tough, drought-prone environments.",
+        "A great place to see science applied directly to farming.",
+        "Helps local communities ensure they have food all year round."
+      ]
+    },
+    {
+      "id": "zambezi-river-nature-v2",
+      "descriptionAdvanced": "The mighty Zambezi River is the fourth-longest river in Africa and the largest flowing into the Indian Ocean from the continent. Slicing through central Mozambique, it has historically served as a critical trade and exploration artery linking the deep interior to the coastal ports. Today, it remains an indispensable water source for agriculture, massive hydroelectric projects like the Cahora Bassa Dam, and rural transportation. The river's vast, meandering floodplains and sprawling delta support incredibly diverse ecosystems, ranging from dense mangrove swamps to vibrant riverine forests teeming with hippos and crocodiles. Geography K8 — Major river systems, deltas, and riparian ecosystems.",
+      "factsAdvanced": [
+        "The fourth-longest river in Africa, stretching over 2,500 kilometers.",
+        "The largest African river flowing into the Indian Ocean.",
+        "Historically the primary trade route penetrating the African interior.",
+        "Hosts the massive Cahora Bassa hydroelectric dam.",
+        "Its massive delta is a critical, highly diverse ecological zone.",
+        "Acts as a natural geographic boundary in central Mozambique."
+      ]
+    },
+    {
+      "id": "lake-niassa-nature-v2",
+      "descriptionAdvanced": "Lake Niassa, known internationally as Lake Malawi, is the third-largest and second-deepest lake in Africa, located in the spectacular Great Rift Valley. Mozambique borders the eastern shore of this massive freshwater sea, which is renowned for its incredible crystal-clear waters and dramatic, mountainous shoreline. The lake holds profound ecological significance as it contains more species of fish than any other lake in the world, particularly the vibrant, endemic cichlids that attract researchers and scuba divers globally. The Mozambican side is exceptionally remote, offering pristine, untouched wilderness and supporting isolated artisanal fishing communities. Geography K8 — Rift valley lakes, freshwater biodiversity, and endemic species.",
+      "factsAdvanced": [
+        "The third-largest and second-deepest lake in Africa.",
+        "Located within the geological trench of the Great Rift Valley.",
+        "Contains more fish species than any other lake on Earth.",
+        "Famous for its hundreds of endemic cichlid fish species.",
+        "Mozambique controls the remote, largely undeveloped eastern shore.",
+        "The lake's waters are exceptionally clear, ideal for snorkeling."
+      ]
+    },
+    {
+      "id": "bazaruto-island-nature-v2",
+      "descriptionAdvanced": "Bazaruto Island is the largest and most spectacular island in the Bazaruto Archipelago, located off the coast of Inhambane Province. Geologically formed by the accumulation of sand deposited by the Save River, the island is characterized by towering, shifting sand dunes that plunge directly into the bright turquoise Indian Ocean. The island's interior features freshwater lakes that surprisingly support local crocodile populations. Surrounded by vibrant coral reefs, it is a globally recognized hotspot for marine conservation, protecting critical habitats for manta rays, sea turtles, and the highly endangered dugong. Geography K8 — Barrier islands, coastal dunes, and marine conservation.",
+      "factsAdvanced": [
+        "The largest island within the Bazaruto Archipelago National Park.",
+        "Formed over millennia by sand deposited from the mainland rivers.",
+        "Features massive sand dunes on its eastern, ocean-facing side.",
+        "Interior freshwater lakes host unexpected crocodile populations.",
+        "Surrounded by pristine coral reefs popular for scuba diving.",
+        "A critical sanctuary for the endangered dugong."
+      ]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "descriptionAdvanced": "Mount Gorongosa is a magnificent, isolated massif rising dramatically from the central Mozambican plains to an elevation of 1,862 meters. It is geographically and ecologically critical to the survival of the adjacent Gorongosa National Park. The mountain functions as a massive 'water tower', capturing moisture from the Indian Ocean to feed the rivers and floodplains of the park below. Its isolated, high-altitude slopes are covered in rare, endemic rainforests that host species found nowhere else on Earth. Recognizing its vital hydrological and ecological role, the mountain was officially incorporated into the national park in 2010. Geography K8 — Inselbergs, hydrological cycles, and endemic rainforests.",
+      "factsAdvanced": [
+        "Rises to an elevation of 1,862 meters in Sofala Province.",
+        "Functions as a critical 'water tower' for Gorongosa National Park.",
+        "Captures oceanic moisture, ensuring year-round river flow to the plains.",
+        "Hosts isolated, high-altitude rainforests with unique endemic species.",
+        "Added to the official boundaries of the national park in 2010.",
+        "Conservation efforts here focus heavily on stopping illegal logging."
+      ]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "descriptionAdvanced": "The Limpopo River is one of southern Africa's most significant waterways, flowing in a massive arc before cutting through the Gaza Province of Mozambique to reach the Indian Ocean. Often characterized by its wide, sandy, and seasonally sluggish flow, the river transforms dramatically during the rainy season, occasionally causing catastrophic flooding in the vast, flat coastal plains, as seen in 2000. Despite its volatility, the Limpopo basin is the agricultural heartland of southern Mozambique, supporting massive irrigation schemes in Chókwè that provide critical national food security through rice and vegetable production. Geography K8 — River basins, floodplains, and seasonal hydrology.",
+      "factsAdvanced": [
+        "The second-largest African river draining into the Indian Ocean.",
+        "Flows through the arid interior before crossing the Mozambican coastal plain.",
+        "Prone to dramatic seasonal fluctuations, from dry sandbeds to massive floods.",
+        "The surrounding floodplains are highly fertile agricultural zones.",
+        "Supports the massive Chókwè irrigation scheme.",
+        "Empties into the ocean near the city of Xai-Xai."
+      ]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "descriptionAdvanced": "The Primeiras and Segundas Environmental Protection Area is the largest marine reserve in Africa, stretching along the coastlines of Zambezia and Nampula provinces. This vast, remote string of ten barrier islands and expansive coastal mangroves protects an incredibly rich but highly vulnerable ecosystem. The islands offer crucial nesting grounds for endangered green and hawksbill sea turtles, while the deep, cold nutrient upwellings offshore support robust populations of pelagic fish. Establishing this massive reserve was a critical step in combating illegal international trawling and protecting the livelihoods of tens of thousands of local artisanal fishers. Geography K8 — Marine reserves, barrier islands, and ocean upwelling.",
+      "factsAdvanced": [
+        "The largest designated marine protected area on the African continent.",
+        "Comprises a chain of ten remote barrier islands.",
+        "Protects vital nesting sites for endangered sea turtles.",
+        "Features extensive, highly intact coastal mangrove forests.",
+        "Helps safeguard artisanal fishing grounds from illegal foreign trawlers.",
+        "Located off the coasts of Zambezia and Nampula provinces."
+      ]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "descriptionAdvanced": "Maputo Bay, historically known as Delagoa Bay, is a massive, sheltered inlet on the Indian Ocean that forms the geographical and economic heart of southern Mozambique. The bay is protected from the open ocean by the Machangulo peninsula and Inhaca Island, creating a highly favorable natural harbor that drove the establishment of the capital city. Ecologically, the bay is an incredibly complex estuarine system, receiving freshwater from multiple major rivers including the Incomati, Umbeluzi, and Maputo. Its shallow, nutrient-rich waters support extensive seagrass beds, mangrove forests, and a highly productive local fishing industry. Geography K8 — Estuaries, natural harbors, and coastal geography.",
+      "factsAdvanced": [
+        "Historically referred to by European explorers as Delagoa Bay.",
+        "Measures approximately 90 kilometers long and 30 kilometers wide.",
+        "Protected from the rough Indian Ocean by Inhaca Island.",
+        "Receives freshwater from the Incomati, Umbeluzi, and Maputo rivers.",
+        "Functions as a vital, highly sheltered deep-water port.",
+        "Features extensive, ecologically important mangrove and seagrass ecosystems."
+      ]
+    },
+    {
+      "id": "cahora-bassa-lake-nature-v2",
+      "descriptionAdvanced": "Cahora Bassa Reservoir is a colossal artificial lake created by the damming of the Zambezi River in Tete Province. Stretching over 250 kilometers in length and plunging to depths of over 150 meters, it is one of the largest man-made bodies of water in Africa. The creation of the lake in the 1970s fundamentally permanently altered the ecology of the Zambezi valley, trapping massive amounts of sediment and stabilizing the historical seasonal flood cycles. Today, the deep, canyon-bound waters support a massive, highly lucrative kapenta (freshwater sardine) commercial fishing industry. Geography K8 — Artificial lakes, river damming, and ecological alteration.",
+      "factsAdvanced": [
+        "Created by the construction of the Cahora Bassa Dam in 1974.",
+        "One of the largest artificial reservoirs on the African continent.",
+        "Stretches approximately 250 kilometers in length.",
+        "Fundamentally altered the downstream hydrology of the Zambezi River.",
+        "Supports a highly lucrative commercial 'kapenta' fishing industry.",
+        "Surrounded by steep, dramatic, and arid mountain gorges."
+      ]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "descriptionAdvanced": "The Quirimbas Archipelago is a magnificent, highly isolated chain of 32 coral islands stretching along the northern coast of Cabo Delgado. The islands are ecologically remarkable, featuring towering ancient baobab trees growing directly on coral-rag rock and surrounded by some of the most pristine coral reef systems in the western Indian Ocean. These reefs drop sharply into deep, nutrient-rich waters, creating an incredible vertical marine habitat that attracts migratory whales and massive schools of pelagic fish. The archipelago's isolation has largely protected its fragile ecosystems, though it remains highly vulnerable to climate-induced coral bleaching. Geography K8 — Coral islands, reef drops, and marine isolation.",
+      "factsAdvanced": [
+        "A string of 32 coral islands in northernmost Mozambique.",
+        "Features unique ecosystems of ancient baobabs growing on coral rock.",
+        "Surrounded by steep, vertical coral reef drop-offs.",
+        "Highly isolated, protecting it from massive commercial overfishing.",
+        "A critical migratory route for humpback whales.",
+        "Highly vulnerable to warming oceans and coral bleaching."
+      ]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "descriptionAdvanced": "Mount Romue is a prominent, ecologically significant inselberg located in the remote interior of Zambezia Province. Rising sharply and unexpectedly from the surrounding flat, miombo-woodland plains, the mountain creates its own unique microclimate. The cooler, moister conditions on the upper slopes support dense, isolated patches of Afromontane forest, which act as a vital refuge for rare bird species and endemic plants entirely absent from the drier plains below. Mountains like Romue serve as crucial 'ecological islands' that biologists are urgently studying to understand biodiversity in Mozambique's isolated highlands. Geography K8 — Inselbergs, Afromontane forests, and microclimates.",
+      "factsAdvanced": [
+        "Located in the remote interior of Zambezia Province.",
+        "A classic 'inselberg'—an isolated rock mountain rising from a plain.",
+        "The high altitude creates a much cooler and wetter microclimate.",
+        "Supports isolated patches of rare Afromontane forest.",
+        "Acts as a critical 'ecological island' for unique bird and plant species.",
+        "Highly vulnerable to encroaching slash-and-burn agriculture."
+      ]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "descriptionAdvanced": "The Rovuma River is a massive, largely untamed waterway that forms the spectacular northern border between Mozambique and Tanzania. Flowing over 800 kilometers from the interior highlands to the Indian Ocean, it is characterized by its wide, shifting sandy channels and dense, crocodile-infested riverine thickets. Unlike the Zambezi or Limpopo, the Rovuma remains undammed and highly wild, preserving its natural, dramatic seasonal flooding cycles. The river is culturally and historically significant, famously crossed by both ancient trading caravans and modern liberation fighters during the struggle for Mozambican independence. Geography K8 — Border rivers, untamed hydrology, and riverine ecosystems.",
+      "factsAdvanced": [
+        "Forms the official northern border between Mozambique and Tanzania.",
+        "Flows approximately 800 kilometers to the Indian Ocean.",
+        "Remains entirely undammed, preserving natural flood cycles.",
+        "Characterized by extremely wide, shifting, sandy river channels.",
+        "A historic crossing point for trade and military movements.",
+        "Supports massive, undisturbed populations of hippos and crocodiles."
+      ]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "descriptionAdvanced": "Inda Island is a small, pristine barrier island located within the Primeiras and Segundas Environmental Protection Area off the coast of Nampula Province. Uninhabited and incredibly remote, the island is completely dominated by shifting white sand dunes and dense, scrubby coastal vegetation. Its primary ecological importance lies in its completely undisturbed beaches, which serve as absolutely critical nesting sites for the highly endangered green and hawksbill sea turtles. The island's strict protection status is vital for ensuring these ancient marine reptiles can breed safely away from the pressures of coastal human development. Geography K8 — Barrier islands, turtle nesting sites, and marine protection.",
+      "factsAdvanced": [
+        "Located within the Primeiras and Segundas Marine Reserve.",
+        "A completely uninhabited, remote barrier island.",
+        "A highly critical nesting ground for endangered green and hawksbill turtles.",
+        "Characterized by bright white sand dunes and coastal scrub.",
+        "Protected from commercial development and large-scale fishing.",
+        "Accessible only by small boats under strict environmental regulation."
+      ]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "descriptionAdvanced": "Lake Chiuta is a shallow, highly productive freshwater lake located on the border between Mozambique's Niassa Province and neighboring Malawi. Surrounded by extensive, dense papyrus swamps and seasonal floodplains, the lake's water levels fluctuate wildly depending on the seasonal rains. This dynamic, shallow ecosystem is incredibly rich in nutrients, supporting massive populations of waterfowl and a vital artisanal fishing industry. Because it lacks a direct, deep outflow, the lake's health is entirely dependent on the preservation of the surrounding catchment area, making it highly sensitive to agricultural runoff. Geography K8 — Shallow lakes, border wetlands, and seasonal hydrology.",
+      "factsAdvanced": [
+        "A shallow freshwater lake shared between Mozambique and Malawi.",
+        "Located in the remote Niassa Province.",
+        "Surrounded by vast, ecologically vital papyrus swamps.",
+        "Water levels fluctuate dramatically based on seasonal rainfall.",
+        "Supports a large, informal artisanal fishing economy.",
+        "Highly sensitive to environmental changes and agricultural runoff."
+      ]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "descriptionAdvanced": "Mount Pungo is a striking, rugged granite peak located in the Manica highlands near the Zimbabwean border. Part of the broader Eastern Highlands geological formation, the mountain is characterized by steep, sheer rock faces and deep, heavily forested ravines. The area is renowned for its high annual rainfall, which feeds numerous spectacular waterfalls and crystal-clear mountain streams. The cooler, misty climate of the Pungo slopes supports a unique biome of ferns, orchids, and rare highland birds, standing in stark contrast to the hot, dry savannahs located just a few dozen kilometers to the east. Geography K8 — Granite highlands, mountain hydrology, and high-altitude biomes.",
+      "factsAdvanced": [
+        "Located in the mountainous Eastern Highlands of Manica Province.",
+        "Characterized by steep, sheer granite rock faces.",
+        "Experiences significantly higher rainfall than the surrounding plains.",
+        "Source of numerous permanent mountain streams and waterfalls.",
+        "Supports unique, high-altitude flora including tree ferns and orchids.",
+        "Popular with extreme hikers and birdwatching enthusiasts."
+      ]
+    },
+    {
+      "id": "buzi-river-nature-v2",
+      "descriptionAdvanced": "The Buzi River is a highly dynamic and ecologically critical waterway flowing through the central Sofala Province. Originating in the high Eastern Highlands near the Zimbabwean border, it carves through the central plains before emptying into the Indian Ocean just south of the city of Beira. The river is notorious for its extreme seasonal volatility; during the dry season, it can be a sluggish, shallow stream, but during cyclonic rains—such as the devastating Cyclone Idai—it transforms into a massive, terrifying torrent that completely inundates the surrounding low-lying agricultural floodplains. Geography K8 — River volatility, floodplains, and cyclonic impacts.",
+      "factsAdvanced": [
+        "Originates in the Eastern Highlands near Zimbabwe.",
+        "Flows across Sofala Province, emptying into the ocean south of Beira.",
+        "Highly prone to extreme, catastrophic seasonal flooding.",
+        "Severely inundated the surrounding landscape during Cyclone Idai.",
+        "The surrounding floodplains are extensively used for agriculture.",
+        "Shares a massive, complex coastal estuary system with the Pungwe River."
+      ]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "descriptionAdvanced": "The inland lakes of Gaza Province, particularly the interconnected systems located near the Limpopo floodplain, are critical hydrological features in an otherwise arid, drought-prone landscape. These shallow, pan-like lakes are formed by ancient river paleochannels and are almost entirely dependent on seasonal rainfall and flood overflows from the Limpopo River. When full, they explode with life, attracting massive flocks of migratory birds, including flamingos and pelicans, and supporting localized grazing for cattle. During severe droughts, these lakes often dry up entirely, revealing striking, sun-baked clay pans. Geography K8 — Inland pans, seasonal wetlands, and arid hydrology.",
+      "factsAdvanced": [
+        "Formed in ancient, abandoned river channels (paleochannels).",
+        "Highly dependent on seasonal rains and Limpopo River floodwaters.",
+        "Crucial watering holes in the generally arid Gaza Province.",
+        "Attract massive flocks of migratory waterfowl when full.",
+        "Often dry up completely during prolonged drought periods.",
+        "Serve as vital grazing land for local pastoralist communities."
+      ]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "descriptionAdvanced": "Bangue Island is a tiny, incredibly beautiful, and completely uninhabited island forming the southernmost point of the Bazaruto Archipelago. Measuring only a few hundred meters across, the island is essentially a massive sandbank crowned with low coastal scrub. Despite its small size, it plays a massive role in the local marine ecosystem. Its surrounding shallow, sun-warmed waters feature some of the most pristine and untouched coral gardens in the region, teeming with vibrant reef fish. The island is totally protected, ensuring it remains an undisturbed sanctuary for marine life and nesting seabirds. Geography K8 — Sandbank islands, coral gardens, and marine sanctuaries.",
+      "factsAdvanced": [
+        "The southernmost and smallest island of the Bazaruto Archipelago.",
+        "Completely uninhabited and highly protected by conservation laws.",
+        "Geologically composed entirely of sand and low coastal scrub.",
+        "Surrounded by incredibly pristine, shallow coral reef gardens.",
+        "A critical sanctuary for nesting seabirds and marine life.",
+        "Accessible only by small boat, with strict visitor limits."
+      ]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "descriptionAdvanced": "The scattered remnant forests of Nampula Province, particularly those clinging to the steep sides of the region's massive granite inselbergs, are critical hotspots for biodiversity. Unlike the vast, dry miombo woodlands that cover much of the province, these isolated forest patches benefit from moisture trapped by the rock formations, creating dense, humid, jungle-like environments. These fragmented forests are of immense interest to biologists, as they often harbor highly localized, endemic species of chameleons, butterflies, and bats. Tragically, these unique micro-ecosystems are under severe threat from unchecked logging and the expansion of slash-and-burn agriculture. Geography K8 — Fragmented forests, inselberg ecology, and endemic species.",
+      "factsAdvanced": [
+        "Located on the steep slopes of granite inselbergs in Nampula.",
+        "Provide a humid, jungle-like microclimate in a generally dry region.",
+        "Act as isolated biological 'islands' for endemic species.",
+        "Home to highly specialized species of reptiles and insects.",
+        "Under severe threat from charcoal production and slash-and-burn farming.",
+        "A primary focus for urgent botanical and zoological research."
+      ]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "descriptionAdvanced": "Mount Songo is a rugged, highly strategic plateau-mountain located in Tete Province, famously overlooking the immense Cahora Bassa Dam. The mountain's steep, rocky slopes provide a natural, impenetrable barrier that heavily influenced the engineering and placement of the dam in the narrow gorge below. The town of Songo, built entirely on the flat top of the mountain, was originally constructed to house the engineers and military personnel defending the dam during the colonial era. The mountain's geology is characterized by incredibly hard, ancient igneous rock, defining the dramatic, harsh landscape of the Zambezi valley. Geography K8 — Strategic plateaus, igneous geology, and dam engineering.",
+      "factsAdvanced": [
+        "A prominent plateau-mountain overlooking the Cahora Bassa Dam.",
+        "Located in the hot, rugged terrain of Tete Province.",
+        "The town of Songo is built entirely on the mountain's flat summit.",
+        "Provided a strategic, highly defensible location during the civil war.",
+        "Composed of incredibly hard, ancient igneous and metamorphic rock.",
+        "Offers spectacular, sheer drops down into the Zambezi gorge."
+      ]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "descriptionAdvanced": "The Lupata Gorge is a spectacular and historic geological feature on the Zambezi River, located downstream from Tete city. Here, the incredibly wide, meandering Zambezi is violently forced through a narrow, steep-sided canyon composed of dark volcanic basalt rock. The gorge creates rapid, deep, and treacherous water currents that were historically a massive obstacle for early Portuguese explorers and steamships attempting to navigate into the African interior. The towering, sheer cliffs of the Lupata Gorge remain one of the most dramatic and awe-inspiring natural sights along the entire 2,500-kilometer length of the river. Geography K8 — River gorges, volcanic basalt, and navigational hazards.",
+      "factsAdvanced": [
+        "Located on the Zambezi River, southeast of the city of Tete.",
+        "Forms a narrow, deep canyon cutting through ancient basalt rock.",
+        "Violently constricts the normally wide, slow-flowing Zambezi River.",
+        "Historically a major, dangerous obstacle for riverboat navigation.",
+        "Features towering, almost vertical dark stone cliffs.",
+        "The fast-flowing water here is incredibly deep and treacherous."
+      ]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "descriptionAdvanced": "The Macossa Forest region, situated in the remote northern districts of Manica Province, represents one of the largest remaining tracts of intact miombo woodland in central Mozambique. This vast, deciduous forest ecosystem is adapted to a strict cycle of wet and dry seasons, famously losing its leaves in the dry winter before exploding into a stunning canopy of deep reds and bright greens just before the spring rains. The forest supports diverse wildlife, including sable antelope and elusive leopards, but is increasingly threatened by illegal commercial logging targeting valuable hardwood timber like African mahogany. Geography K8 — Miombo woodlands, seasonal deciduous forests, and hardwood logging.",
+      "factsAdvanced": [
+        "Located in the remote Macossa District of Manica Province.",
+        "One of the largest intact tracts of miombo woodland in the region.",
+        "The trees undergo a dramatic, colorful leaf-change before the rainy season.",
+        "Supports specialized woodland wildlife like sable and roan antelope.",
+        "A critical area for protecting valuable, slow-growing hardwood trees.",
+        "Faces severe environmental pressure from illegal, commercial timber poaching."
+      ]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "descriptionAdvanced": "Massingir Lake is a massive, incredibly beautiful artificial reservoir created by the damming of the Elephants River in Gaza Province. Bordering the arid scrublands of the Limpopo National Park, the lake acts as a vital oasis, drawing massive herds of thirsty elephants and other wildlife to its shores during the dry season. The deep, clear waters are famously home to massive Nile crocodiles and a thriving population of tigerfish, making it a premier destination for adventurous sport fishing. The lake's vast expanse of water provides a stark, stunning contrast to the hot, dusty savannah that surrounds it. Geography K8 — Artificial reservoirs, savannah oases, and freshwater ecology.",
+      "factsAdvanced": [
+        "Created by the Massingir Dam on the Elephants River.",
+        "Located directly adjacent to the Limpopo National Park.",
+        "Acts as a crucial dry-season water source for regional wildlife.",
+        "Famous for excellent sport fishing, particularly for aggressive tigerfish.",
+        "Hosts a very large and highly visible population of Nile crocodiles.",
+        "Provides a massive aquatic contrast to the surrounding arid mopane scrub."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mangrove-forest-ada-animal-life-v2",
+      "descriptionAdvanced": "The expansive mangrove forests located around the coastal town of Ada Foah in the Greater Accra Region form one of the most critical, highly dynamic estuarine ecosystems in Ghana. Situated directly at the massive delta where the Volta River finally meets the powerful Atlantic Ocean, the dense, interwoven stilt roots of the mangroves physically stabilize the fragile sandy shoreline against severe coastal erosion. More importantly, this brackish environment serves as an indispensable biological nursery for countless species of marine fish and crustaceans, which fundamentally underpins the local artisanal fishing economy. The ecosystem is heavily reliant on the delicate balance of fresh and saltwater mixing. Geography K7 — estuarine conservation.",
+      "factsAdvanced": [
+        "Located at the massive estuary where the Volta River empties into the Atlantic Ocean.",
+        "Characterized by dense, highly adapted networks of salt-tolerant mangrove trees.",
+        "The dense stilt roots physically stabilize the sandy coastline against aggressive wave erosion.",
+        "Functions as a highly critical biological nursery for commercial marine fish species.",
+        "Provides a vital habitat for various coastal bird species and estuarine crocodiles.",
+        "The ecosystem is highly sensitive to changes in the upstream flow of the Volta River."
+      ]
+    },
+    {
+      "id": "maize-farm-east-agri-life-v2",
+      "descriptionAdvanced": "The massive commercial maize farms stretching across the Afram Plains in the Eastern Region constitute a major pillar of Ghana's domestic food supply. The relatively flat topography and highly fertile, loamy soils of the plains allow for extensive, mechanized plowing and harvesting, contrasting sharply with the smallholder plots typical of the southern forest belt. Often organized as large-scale outgrower schemes backed by agricultural corporations, these farms utilize high-yielding hybrid seeds and heavy synthetic fertilizers. The immense volume of grain produced here is trucked directly to major urban centers like Accra, serving as the foundational raw material for both human consumption and the burgeoning national poultry industry. Geography K7 — mechanized staple farming.",
+      "factsAdvanced": [
+        "Concentrated heavily across the expansive, fertile Afram Plains in the Eastern Region.",
+        "Focuses on the massive, highly mechanized commercial cultivation of hybrid maize.",
+        "Utilizes extensive tractor plowing and mechanical harvesting unlike smaller forest farms.",
+        "Frequently organized through corporate-backed outgrower schemes and cooperatives.",
+        "Provides the foundational grain supply required for the national commercial poultry industry.",
+        "Features large-scale storage silos to stabilize grain prices throughout the dry season."
+      ]
+    },
+    {
+      "id": "animal-shelter-tamale-animal-life-v2",
+      "descriptionAdvanced": "While large-scale institutional animal shelters are rare in the north, specialized veterinary and wildlife intervention facilities operate in Tamale to address the unique animal welfare challenges of the Savannah Region. These small, highly dedicated centers primarily deal with the medical treatment and rehabilitation of working animals—such as donkeys, horses, and cattle—which are absolutely indispensable to the rural agricultural and transport economy of the Sahelian zone. Furthermore, these facilities occasionally intervene to rescue native wildlife that has wandered into urbanizing areas or been injured by poachers, providing critical education to local communities regarding sustainable human-animal coexistence. Sachkunde K3 — working animal welfare.",
+      "factsAdvanced": [
+        "Located in Tamale, addressing the specific animal welfare needs of the northern savanna.",
+        "Focuses heavily on providing critical veterinary care to essential working livestock.",
+        "Treats donkeys, horses, and cattle which are vital for regional rural transport.",
+        "Intervenes to rescue local savanna wildlife injured by poaching or urban expansion.",
+        "Operates often in collaboration with international animal welfare NGOs.",
+        "Provides vital community education regarding the ethical treatment of working animals."
+      ]
+    },
+    {
+      "id": "zoo-takoradi-kid-life-v2",
+      "descriptionAdvanced": "Although Takoradi does not host a massive national zoo comparable to Kumasi, smaller, localized wildlife enclosures and botanical parks serve the dense urban population of the Western Region. These educational facilities typically house smaller native primates, reptiles, and highly colorful tropical bird species endemic to the surrounding wet equatorial forest. They function primarily as accessible, low-cost educational excursions for local schoolchildren, providing a rare opportunity to observe native fauna without needing to travel deep into the commercial logging and mining concessions that dominate the region's rural hinterlands. Sachkunde K3 — accessible wildlife education.",
+      "factsAdvanced": [
+        "Represents localized, smaller-scale wildlife enclosures serving the Takoradi metropolis.",
+        "Focuses on exhibiting smaller native fauna such as local primates and tropical birds.",
+        "Provides highly accessible, low-cost educational excursions for urban schoolchildren.",
+        "Offers an alternative to traveling into the heavily industrialized rural forest zones.",
+        "Frequently maintained through local municipal funding or private conservation initiatives.",
+        "Highlights the biodiversity of the wet equatorial climate zone."
+      ]
+    },
+    {
+      "id": "citrus-orchard-central-agri-life-v2",
+      "descriptionAdvanced": "The Central Region, particularly the districts surrounding Cape Coast and Abura-Asebu-Kwamankese, is nationally renowned for its massive, sprawling commercial citrus orchards. Benefiting from a highly specific coastal savanna microclimate and well-drained soils, the region produces immense quantities of sweet oranges, tangerines, and limes. During peak harvest seasons, the landscape is dominated by heavy trucks and local traders engaged in a frenetic agricultural economy. A significant portion of this citrus is channeled directly into large-scale domestic fruit juice processing factories, making these orchards a critical upstream component of Ghana's growing agro-processing and beverage industry. Geography K7 — commercial horticulture.",
+      "factsAdvanced": [
+        "Concentrated heavily in the Abura-Asebu-Kwamankese district of the Central Region.",
+        "Benefits from a unique coastal savanna microclimate highly suitable for citrus trees.",
+        "Produces massive commercial quantities of sweet oranges, limes, and tangerines.",
+        "Functions as the primary raw material source for major domestic fruit juice factories.",
+        "The harvest season triggers intense, widespread logistical and trading activity.",
+        "Provides substantial seasonal employment for rural farming communities in the region."
+      ]
+    },
+    {
+      "id": "volta-lake-nature-v2",
+      "descriptionAdvanced": "Lake Volta is an absolutely colossal geographical feature dominating eastern Ghana, holding the record as the largest artificial reservoir in the world based on surface area. Created in 1965 by the damming of the Volta River at Akosombo, the lake stretches over 500 kilometers from the southern dam to the northern town of Yapei. The creation of the lake flooded massive tracts of forest and displaced approximately 80,000 people, fundamentally altering the nation's demography and ecology. Today, the vast inland sea is a critical resource, supporting a massive inland fishing industry, providing vital north-south commercial water transport, and generating the baseload electricity for the entire country. Geography K7 — mega-engineering and hydrology.",
+      "factsAdvanced": [
+        "The largest completely artificial reservoir in the world by surface area (8,502 sq km).",
+        "Created in 1965 by the construction of the massive Akosombo Hydroelectric Dam.",
+        "Stretches roughly 520 kilometers from the southern gorge to the northern savannas.",
+        "Its formation required the controversial relocation of approximately 80,000 residents.",
+        "Supports a massive inland freshwater fishing industry vital to local economies.",
+        "Serves as a major navigational artery connecting northern and southern Ghana."
+      ]
+    },
+    {
+      "id": "kakum-forest-nature-v2",
+      "descriptionAdvanced": "Kakum National Park, located in the Central Region, is one of the most rigorously protected and highly celebrated tracts of primary tropical rainforest remaining in West Africa. Covering an expansive 375 square kilometers, the forest is characterized by an incredibly dense, multi-layered canopy of towering mahogany and ebony trees, many draped in thick lianas and epiphytes. The park is a critical biodiversity sanctuary, sheltering highly endangered species including the Diana monkey, the elusive bongo antelope, and small populations of forest elephants. Its pristine, unlogged state offers a crucial, living baseline for studying complex equatorial ecosystems. Geography K7 — tropical rainforest conservation.",
+      "factsAdvanced": [
+        "A highly protected, 375-square-kilometer tract of primary tropical rainforest.",
+        "Located in the Central Region, easily accessible from the historic coast.",
+        "Characterized by towering emergent trees including valuable mahogany and ebony.",
+        "Shelters highly endangered species such as the Diana monkey and forest elephants.",
+        "One of the few remaining unlogged, pristine forest reserves in southern Ghana.",
+        "Features an incredibly dense, multi-layered canopy supporting massive biodiversity."
+      ]
+    },
+    {
+      "id": "mole-forest-nature-v2",
+      "descriptionAdvanced": "Mole National Park represents the most expansive and ecologically significant stretch of pristine Guinea savanna in Ghana. Covering over 4,500 square kilometers in the Savannah Region, the landscape is a stark, beautiful contrast to the southern forests, defined by vast, rolling grasslands dotted with resilient baobab and acacia trees. The terrain is dramatically punctuated by a prominent sandstone escarpment that overlooks critical dry-season watering holes. This specific geography provides the perfect habitat for large, roaming herds of African elephants, roan antelopes, and buffalo, making it the premier destination for serious wildlife conservation and ecological study in the country. Geography K7 — savanna ecosystems.",
+      "factsAdvanced": [
+        "The largest wildlife refuge in Ghana, covering over 4,500 square kilometers.",
+        "Located in the Savannah Region, protecting a vast tract of Guinea savanna ecosystem.",
+        "The landscape features open grasslands heavily dotted with baobab and acacia trees.",
+        "Dominated geographically by a massive, steep sandstone escarpment.",
+        "Provides critical, expansive roaming territory for large herds of African elephants.",
+        "Functions as a major, strictly protected buffer against encroaching desertification."
+      ]
+    },
+    {
+      "id": "wli-waterfalls-nature-v2",
+      "descriptionAdvanced": "The Wli Waterfalls, locally known as Agumatsa Falls, is a spectacular natural landmark located in the Hohoe municipality of the Volta Region. Plunging from a sheer height of approximately 80 meters, it holds the distinction of being the highest waterfall in both Ghana and the broader West African region. The falls are situated deep within the lush, rugged Agumatsa Wildlife Sanctuary, part of the Akwapim-Togo mountain range. The surrounding sheer cliffs are famously home to massive colonies of fruit bats, which fill the sky at dusk. The sheer force of the cascading water creates a permanent, highly humid microclimate at its base. Geography K7 — dramatic topography and hydrology.",
+      "factsAdvanced": [
+        "Officially recognized as the highest waterfall in Ghana and the West African region.",
+        "Plunges from a sheer, dramatic cliff height of approximately 80 meters.",
+        "Located within the heavily forested Agumatsa Wildlife Sanctuary near Hohoe.",
+        "The surrounding steep cliffs host incredibly large colonies of roosting fruit bats.",
+        "Accessible only via a long, winding hike through dense tropical vegetation.",
+        "The constant spray generates a unique, highly humid microclimate at the plunge pool."
+      ]
+    },
+    {
+      "id": "bui-national-forest-nature-v2",
+      "descriptionAdvanced": "Bui National Park, straddling the Bono and Savannah regions, is a massive, ecologically critical reserve bisected by the powerful Black Volta River. The park's geography is characterized by a complex, highly biodiverse transition zone where dense gallery forests along the riverbanks quickly yield to open, wooded savanna. Historically, the park was globally renowned for sheltering one of the largest populations of hippopotamuses in West Africa. The recent construction of the massive Bui Hydroelectric Dam has flooded significant portions of the park's core riverine habitat, creating a highly controversial, ongoing tension between urgent national energy requirements and irreplaceable ecological conservation. Geography K7 — ecological impacts of infrastructure.",
+      "factsAdvanced": [
+        "A massive national park straddling the border between the Bono and Savannah regions.",
+        "Geographically bisected by the flow of the powerful Black Volta River.",
+        "Represents a critical ecological transition zone between forest and open savanna.",
+        "Historically famous for sheltering a massive, thriving population of hippopotamuses.",
+        "Significant portions of the original habitat were flooded by the Bui Hydroelectric Dam.",
+        "A major site for studying the intense conflict between development and conservation."
+      ]
+    },
+    {
+      "id": "digya-forest-nature-v2",
+      "descriptionAdvanced": "Digya National Park is an expansive, highly remote, and largely inaccessible wilderness located primarily on a massive peninsula extending into the western shores of Lake Volta in the Bono East Region. Covering over 3,400 square kilometers, it is the second-largest national park in Ghana. The terrain is a rugged, transitional mix of tall-grass savanna and dense gallery forests that fringe the lake. Due to its extreme isolation, Digya functions as a pristine sanctuary for species that have been eradicated elsewhere, including leopards, various primates, and an endangered population of West African manatees that navigate the flooded inlets of the lake. Geography K7 — remote wilderness preservation.",
+      "factsAdvanced": [
+        "The second-largest national park in Ghana, covering over 3,400 square kilometers.",
+        "Located on a massive, isolated peninsula jutting into the western side of Lake Volta.",
+        "Features a highly rugged transitional landscape of tall grass and gallery forests.",
+        "Extremely remote and difficult to access, ensuring high levels of pristine preservation.",
+        "Shelters highly elusive fauna including leopards and the West African manatee.",
+        "Only accessible via specialized boats navigating the vast expanse of Lake Volta."
+      ]
+    },
+    {
+      "id": "kyabobo-forest-nature-v2",
+      "descriptionAdvanced": "Kyabobo National Park is a striking, highly elevated conservation area located in the Nkwanta South District of the Oti Region, situated directly on the border with Togo. The park's geography is dominated by the dramatic, sharply rising peaks and deep, forested valleys of the Akwapim-Togo mountain range, including Ghana's second-highest peak, Mount Dzebobo. This high-altitude environment creates a distinct, cooler microclimate that supports entirely different vegetation from the surrounding lowlands. The rugged, steep terrain provides a formidable natural defense for wildlife, offering a sanctuary for numerous primate species and acting as a critical, undisturbed watershed for the region. Geography K7 — high-altitude ecosystems.",
+      "factsAdvanced": [
+        "Located in the Oti Region, situated directly along the international border with Togo.",
+        "Dominated by the highly dramatic, steep topography of the Akwapim-Togo mountains.",
+        "Encompasses Mount Dzebobo, which is the second-highest mountain peak in Ghana.",
+        "The extreme elevation creates a unique, significantly cooler local microclimate.",
+        "The rugged, highly inaccessible terrain naturally deters poaching and logging.",
+        "Serves as a critical, pristine watershed for numerous rivers feeding into Lake Volta."
+      ]
+    },
+    {
+      "id": "ankasa-forest-nature-v2",
+      "descriptionAdvanced": "The Ankasa Conservation Area, located in the extreme southwestern corner of the Western Region, is widely considered the most biologically diverse and pristine tropical evergreen rainforest remaining in Ghana. Receiving the highest annual rainfall in the country, the forest is incredibly dense, characterized by towering, ancient timber species, massive ferns, and rapid, crystal-clear streams. The sheer density of the vegetation makes it incredibly difficult to navigate, which has successfully deterred widespread logging. Ankasa is a critical global biodiversity hotspot, sheltering elusive forest elephants, chimpanzees, and hundreds of rare, endemic plant species found nowhere else on earth. Geography K7 — wet equatorial biodiversity.",
+      "factsAdvanced": [
+        "Located in the extreme southwest of the Western Region, near the Ivorian border.",
+        "Receives the absolute highest annual rainfall of any geographical region in Ghana.",
+        "Classified as a highly pristine, ultra-dense tropical evergreen rainforest.",
+        "Recognized globally as an incredibly rich, irreplaceable biodiversity hotspot.",
+        "Shelters highly elusive, endangered species including the African forest elephant.",
+        "Features pristine, rapidly flowing forest streams that remain unpolluted by mining."
+      ]
+    },
+    {
+      "id": "nini-suhien-forest-nature-v2",
+      "descriptionAdvanced": "The Nini Suhien National Park is a relatively small, yet absolutely vital, highly protected core area nestled directly within the broader Ankasa Conservation Area in the Western Region. This specific zone is heavily guarded to preserve a completely untouched, virgin tract of wet evergreen forest. The terrain is complex, deeply intersected by the Nini and Suhien rivers, which provide a constant, humid microclimate. The park is a crucial scientific baseline, offering researchers a rare glimpse into an ancient, pre-human African rainforest ecosystem, totally free from commercial logging, hunting, or agricultural encroachment. Geography K7 — virgin forest protection.",
+      "factsAdvanced": [
+        "A highly protected, strict core zone located within the Ankasa Conservation Area.",
+        "Geographically defined and intersected by the rapid Nini and Suhien rivers.",
+        "Preserves a completely untouched, virgin tract of wet equatorial evergreen forest.",
+        "Maintained strictly as a scientific baseline, prohibiting all commercial activity.",
+        "Features incredibly high, dense canopies with minimal light reaching the forest floor.",
+        "Critical habitat for studying deeply endemic, highly specialized rainforest flora."
+      ]
+    },
+    {
+      "id": "bia-forest-nature-v2",
+      "descriptionAdvanced": "The Bia National Park and the adjacent Bia Resource Reserve form an immense, deeply forested conservation block located in the Western North Region. Geographically, it is situated in the transition zone between the moist evergreen and moist semi-deciduous forest belts. This unique positioning makes it incredibly rich in biodiversity. Historically, Bia was heavily targeted for its immensely valuable timber, leading to its bifurcation into a strict national park and a managed resource reserve. Today, it remains one of the last major sanctuaries in Ghana for the critically endangered forest elephant and chimpanzee populations, standing as an embattled fortress against encroaching cocoa farms. Geography K7 — forest transition zones.",
+      "factsAdvanced": [
+        "A massive conservation block situated in the remote Western North Region.",
+        "Straddles the ecological transition between moist evergreen and semi-deciduous forests.",
+        "Divided administratively into a strict National Park and a managed Resource Reserve.",
+        "One of the final major strongholds for Ghana's endangered forest elephant population.",
+        "Historically suffered from severe, aggressive commercial timber extraction.",
+        "Currently faces intense border pressure from the massive expansion of cocoa farming."
+      ]
+    },
+    {
+      "id": "shai-hills-mountain-nature-v2",
+      "descriptionAdvanced": "The Shai Hills Resource Reserve is a visually striking, highly accessible conservation area located on the expansive, flat Accra Plains in the Greater Accra Region. The landscape is instantly recognizable by its dramatic topography: five massive, ancient granite inselbergs (isolated rock hills) that rise abruptly from the surrounding dry coastal savanna. Historically, these steep, defensible rocky hills served as the ancestral home of the indigenous Shai people until they were relocated by the British in 1892. Today, the reserve protects a unique ecosystem of short grass, thickets, and native fauna such as olive baboons and kobs, while offering spectacular, rugged hiking trails. Geography K7 — inselbergs and coastal savanna.",
+      "factsAdvanced": [
+        "Located just outside the capital, directly on the flat, dry coastal Accra Plains.",
+        "The terrain is dominated by five massive, steep granite inselbergs (isolated hills).",
+        "Historically the heavily fortified, ancestral stronghold of the indigenous Shai people.",
+        "The local population was forcefully relocated from the hills by the British in 1892.",
+        "Protects a distinct coastal savanna ecosystem featuring short grass and dense thickets.",
+        "Supports highly visible populations of olive baboons, kobs, and diverse birdlife."
+      ]
+    },
+    {
+      "id": "atiwa-mountain-nature-v2",
+      "descriptionAdvanced": "The Atewa Range, located in the Eastern Region, is a highly prominent range of steep-sided hills characterized by flat summits. It is recognized as an exceptionally critical ecosystem, containing one of the last remaining tracts of upland evergreen forest in Ghana. The unique, high-altitude geology of the range acts as a massive natural sponge, serving as the absolute primary watershed for three major river systems: the Densu, Birim, and Ayensu, which provide drinking water for millions in Accra. However, the range sits atop massive deposits of high-grade bauxite, triggering an intense, ongoing national conflict between aggressive mining interests and critical hydrological conservation. Geography K7 — watersheds and mineral conflicts.",
+      "factsAdvanced": [
+        "A prominent, steep-sided hill range featuring uniquely flat, plateau-like summits.",
+        "Contains one of the extremely rare upland evergreen forest ecosystems in West Africa.",
+        "Serves as the indispensable, primary watershed for the Densu, Birim, and Ayensu rivers.",
+        "Provides the raw drinking water supply for millions of residents in Greater Accra.",
+        "Sits directly atop massive, highly valuable commercial deposits of bauxite ore.",
+        "Currently the center of intense, high-profile national environmental controversy."
+      ]
+    },
+    {
+      "id": "akwapim-mountain-nature-v2",
+      "descriptionAdvanced": "The Akwapim-Togo mountain range is a massive, defining geological spine that stretches diagonally across eastern Ghana, beginning near Accra and extending northeast directly into Togo. Formed by ancient tectonic folding, the range consists of steep, rugged ridges separated by deep, highly fertile valleys. This elevation significantly alters the local climate, creating a noticeably cooler and wetter environment compared to the adjacent coastal plains and the Volta basin. This unique microclimate historically made the Akwapim ridge a strategic, healthy retreat for European missionaries and colonial administrators, and today it supports a thriving agricultural economy and the scenic Aburi Botanical Gardens. Geography K7 — tectonic ridges and microclimates.",
+      "factsAdvanced": [
+        "A massive, continuous tectonic ridge extending from near Accra northeast into Togo.",
+        "Features highly rugged, steep terrain intersected by deep, fertile river valleys.",
+        "The significant elevation creates a noticeably cooler and wetter local microclimate.",
+        "Historically functioned as a healthy, strategic retreat for European colonial officials.",
+        "The unique climate supports diverse, intensive agriculture along the mountain slopes.",
+        "Visually and geographically separates the coastal plains from the massive Volta basin."
+      ]
+    },
+    {
+      "id": "fosu-lake-nature-v2",
+      "descriptionAdvanced": "The Fosu Lagoon is a highly significant coastal wetland and shallow estuarine lake situated precisely within the city limits of Cape Coast in the Central Region. Geographically, it is separated from the violent Atlantic Ocean by a very narrow, fragile sandbar, creating a calm, brackish water environment. The lagoon is not only a vital ecological habitat for diverse estuarine fish and waterfowl but also holds immense spiritual importance for the local Fante people. It is the central focal point of the massive annual Fetu Afahye festival, where traditional priests cast nets into the lagoon to lift an ancient ban on fishing, symbolizing renewal and sustenance. Geography K7 — coastal lagoons and urban ecology.",
+      "factsAdvanced": [
+        "A shallow, highly brackish coastal lagoon located within the city of Cape Coast.",
+        "Geographically separated from the Atlantic Ocean by a narrow, shifting sandbar.",
+        "Functions as a critical estuarine habitat for local fish species and waterbirds.",
+        "Holds immense, deeply rooted spiritual significance for the indigenous Fante people.",
+        "The central, defining location for the massive annual Fetu Afahye cultural festival.",
+        "Subject to severe environmental stress from heavy urban runoff and pollution."
+      ]
+    },
+    {
+      "id": "keta-lake-nature-v2",
+      "descriptionAdvanced": "The Keta Lagoon is a massive, sprawling complex of brackish water bodies, salt marshes, and mangrove swamps located in the Volta Region. As the largest natural lagoon in Ghana, it forms an immensely critical, internationally recognized Ramsar wetland site. The lagoon sits precariously behind a thin, rapidly eroding coastal sandbar, leaving the surrounding communities highly vulnerable to oceanic flooding. The incredibly rich, shallow waters support a massive artisanal fishing industry, highly specialized shallot farming on the sandy banks, and provide an absolutely indispensable wintering habitat for hundreds of thousands of migratory birds traversing the East Atlantic Flyway. Geography K7 — extensive estuarine wetlands.",
+      "factsAdvanced": [
+        "The absolute largest natural coastal lagoon complex located in Ghana.",
+        "Situated in the Volta Region, separated from the ocean by a highly fragile sandbar.",
+        "Designated as a massive, internationally critical Ramsar wetland conservation site.",
+        "Provides an indispensable wintering habitat for massive flocks of migratory birds.",
+        "The shallow, nutrient-rich waters support a massive local artisanal fishing economy.",
+        "The surrounding area faces severe, ongoing devastation from aggressive coastal erosion."
+      ]
+    },
+    {
+      "id": "white-volta-river-nature-v2",
+      "descriptionAdvanced": "The White Volta is one of the massive, primary northern tributaries of the larger Volta River system. Originating far north in the arid plateaus of Burkina Faso, it carves a slow, meandering path southward through the hot, dry savanna landscapes of the Upper East and Northern regions of Ghana. The river is absolutely critical to the survival of the northern ecology and economy, providing the only reliable, year-round water source for massive irrigation projects and livestock grazing during the punishing, prolonged dry season. Its flow is eventually captured and tamed as it empties into the vast expanse of Lake Volta. Geography K7 — Sahelian hydrology.",
+      "factsAdvanced": [
+        "A massive, primary northern tributary feeding into the main Volta River system.",
+        "Originates high in the arid, scrub-covered plateaus of neighboring Burkina Faso.",
+        "Flows southward directly through the Upper East and Northern regions of Ghana.",
+        "Provides the absolutely critical, sole year-round water source for regional agriculture.",
+        "Heavily utilized to feed massive, highly mechanized rice irrigation projects.",
+        "Merges with the Black Volta to form the primary volume of Lake Volta."
+      ]
+    },
+    {
+      "id": "black-volta-river-nature-v2",
+      "descriptionAdvanced": "The Black Volta is a powerful, highly significant river that forms the western boundary of the massive Volta River basin. Like the White Volta, it originates in Burkina Faso, but it flows southward to form the natural, geopolitical border between Ghana and Côte d'Ivoire for hundreds of kilometers. The river cuts a dramatic path through both dense savanna woodlands and transitional gallery forests before plunging into the Bui Gorge. Here, its immense kinetic energy was recently harnessed by the construction of the colossal Bui Hydroelectric Dam, before the river continues its journey to merge into the expanse of Lake Volta. Geography K7 — international river borders and hydropower.",
+      "factsAdvanced": [
+        "A massive, powerful western tributary of the primary Volta River system.",
+        "Originates in Burkina Faso before flowing rapidly southward.",
+        "Forms a long, natural geopolitical border between Ghana and Côte d'Ivoire.",
+        "Flows through a highly diverse, transitional ecosystem of savanna and gallery forest.",
+        "Its massive kinetic flow was harnessed by the construction of the Bui Hydroelectric Dam.",
+        "Provides a critical freshwater habitat for significant populations of hippopotamuses."
+      ]
+    },
+    {
+      "id": "pra-river-nature-v2",
+      "descriptionAdvanced": "The Pra River is the easternmost and arguably the most historically significant of Ghana's three principal southwestern river systems. Rising in the highly elevated Kwahu Plateau, it carves a long, deeply entrenched path through the dense, fertile heart of the Ashanti and Central regions before emptying into the Atlantic Ocean near Shama. Historically, the Pra was the undisputed lifeline of the colonial economy, utilized extensively to float massive, raw timber logs from the deep interior forests down to the coastal ports. Today, the river's ecological health is severely compromised, suffering from intense, toxic pollution and heavy siltation caused by rampant illegal gold mining (galamsey) along its banks. Geography K7 — riverine pollution and logging.",
+      "factsAdvanced": [
+        "One of the three major, powerful river systems draining southwestern Ghana.",
+        "Originates high in the elevated, fertile terrain of the Kwahu Plateau.",
+        "Historically utilized as a massive, natural transport artery for raw timber logs.",
+        "Empties forcefully into the Atlantic Ocean near the historic Fort San Sebastian.",
+        "Currently suffers from extremely severe, highly toxic heavy metal pollution.",
+        "The pollution and massive siltation are driven directly by illegal artisanal gold mining."
+      ]
+    },
+    {
+      "id": "offin-river-nature-v2",
+      "descriptionAdvanced": "The Offin River is a massive, highly vital tributary that flows aggressively southward through the dense, gold-rich forests of the Ashanti Region before merging with the larger Pra River. Geographically, it cuts directly through some of the most heavily mineralized terrain in West Africa. Consequently, the riverbed and its extensive floodplains have been subjected to over a century of intense alluvial gold dredging. While this extraction has generated immense wealth, it has left the river's course deeply scarred, diverted, and choked with heavy industrial silt. Despite this degradation, the Offin remains a critical, albeit compromised, hydrological artery for the central forest belt. Geography K7 — alluvial mining degradation.",
+      "factsAdvanced": [
+        "A massive, powerful tributary flowing directly into the Pra River system.",
+        "Flows aggressively southward through the dense, gold-rich Ashanti forest belt.",
+        "Passes directly through major, historic mining centers like Dunkwa-on-Offin.",
+        "The riverbed has been subjected to over a century of intense alluvial gold dredging.",
+        "The natural watercourse is severely diverted and deeply scarred by mining activities.",
+        "Suffers from massive, chronic siltation that heavily impacts regional water quality."
+      ]
+    },
+    {
+      "id": "ankobra-river-nature-v2",
+      "descriptionAdvanced": "The Ankobra River is a powerful, highly significant waterway dominating the geography of the Western Region. Originating in the lush hills near Wiawso, it flows directly southward, carving a path through an incredibly dense, wet evergreen rainforest before reaching the Atlantic Ocean near Axim. The Ankobra basin encompasses some of the highest concentrations of gold deposits in Ghana, including the massive mining complexes at Tarkwa, Prestea, and Bogoso. Historically navigable in its lower reaches, the river facilitated early European colonial penetration into the interior. Today, it is arguably the most critically threatened river in Ghana, heavily poisoned by cyanide and mercury runoff from relentless illegal mining operations. Geography K7 — toxic runoff in river basins.",
+      "factsAdvanced": [
+        "A massive, powerful river entirely situated within the Western Region of Ghana.",
+        "Originates near Wiawso and flows directly south into the Atlantic near Axim.",
+        "The river basin drains the most intensely concentrated gold mining districts in the country.",
+        "Historically navigable, allowing early colonial traders to penetrate the deep interior.",
+        "Currently ranks as one of the most severely polluted major rivers in West Africa.",
+        "Heavily contaminated by toxic cyanide and mercury runoff from illegal mining."
+      ]
+    }
+  ]
+}

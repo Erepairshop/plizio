@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-olumene-farm-life-v2",
+      "descriptionAdvanced": "The Olumene Cocoa Farm is a sprawling, deeply historic agricultural estate located in the fertile heartland of Oyo State. Established during the early 20th-century agricultural boom, it played a pivotal role in establishing southwestern Nigeria as a global powerhouse in cocoa production. Today, the farm continues to operate using a blend of traditional harvesting techniques and modern sustainable agroforestry practices. It serves as a living museum of the region's agrarian history, where visitors can witness the entire lifecycle of chocolate production, from the pod to the drying racks. The estate heavily supports the local rural economy, providing employment for generations of farmers. Geography K7 — cash crops and plantation agriculture.",
+      "factsAdvanced": [
+        "Located in the fertile tropical agricultural belt of Oyo State.",
+        "One of the oldest continuously operating cocoa plantations in the region.",
+        "Historically contributed significantly to the immense wealth of the Western Region.",
+        "Practices sustainable agroforestry, blending modern and traditional farming techniques.",
+        "Offers educational tours demonstrating the entire cocoa harvesting and drying process.",
+        "Crucial source of generational employment for the surrounding rural communities."
+      ]
+    },
+    {
+      "id": "ng-jos-wildlife-life-v2",
+      "descriptionAdvanced": "The Jos Wildlife Park is a spectacular, highly popular conservation and recreation center located in Plateau State. Uniquely situated at an elevation of over 1,200 meters, the park enjoys a cool, temperate climate that drastically distinguishes it from other Nigerian wildlife reserves. Covering roughly 8 square kilometers of savanna woodland, it houses a wide variety of species, including elephants, lions, baboons, and pygmy hippopotamuses. The park features intricate hiking trails, picnic spots, and a small museum, making it a beloved destination for families and school excursions. It represents one of the most accessible and well-maintained urban wildlife sanctuaries in the country. Geography K7 — high-altitude parks and urban conservation.",
+      "factsAdvanced": [
+        "Located in Jos, Plateau State, covering approximately 8 square kilometers.",
+        "Features a uniquely cool, temperate climate due to its high altitude.",
+        "Houses diverse wildlife including elephants, lions, baboons, and pygmy hippos.",
+        "A highly popular destination for family picnics, tourism, and educational trips.",
+        "Contains well-maintained hiking trails winding through pine forests and Vwang Valley.",
+        "Established in 1972 to integrate wildlife conservation directly into an urban setting."
+      ]
+    },
+    {
+      "id": "ng-lekkiconservation-life-v2",
+      "descriptionAdvanced": "The Lekki Conservation Centre (LCC) is a breathtaking, 78-hectare urban oasis located in the heart of the bustling Lekki Peninsula in Lagos. Managed by the Nigerian Conservation Foundation, it was established in 1990 to protect the fragile coastal mangrove ecology from the rapid, aggressive urbanization of the city. The absolute highlight of the center is its magnificent 401-meter-long canopy walkway, the longest in Africa, suspended high above the swamp forest. Visitors can observe Mona monkeys, crocodiles, and exotic birds in their natural habitat while surrounded by massive skyscrapers. It is a triumphant example of preserving critical biodiversity within a megacity. Geography K8 — coastal mangroves and urban ecology.",
+      "factsAdvanced": [
+        "A 78-hectare protected wetland and mangrove forest located in Lekki, Lagos.",
+        "Established in 1990 by the Nigerian Conservation Foundation (NCF).",
+        "Features a spectacular 401-meter-long canopy walkway, the longest in Africa.",
+        "Provides a critical sanctuary for Mona monkeys, crocodiles, and diverse birdlife.",
+        "Serves as an essential ecological buffer against the aggressive urbanization of Lagos.",
+        "Attracts thousands of eco-tourists and researchers annually."
+      ]
+    },
+    {
+      "id": "ng-ibadan-cocoa-life-v2",
+      "descriptionAdvanced": "The Ibadan Cocoa Centre, operated under the auspices of the Cocoa Research Institute of Nigeria (CRIN), is the absolute nerve center for agricultural innovation in West Africa. Located in Oyo State, this massive research complex is dedicated to improving the yield, disease resistance, and overall quality of cocoa, cashew, and kola nut crops. Founded in 1964, the institute's cutting-edge agronomic research directly supports millions of smallholder farmers across the continent. The sprawling campus includes extensive experimental plantations and high-tech laboratories. The center's work is critical to maintaining Nigeria's position as a leading global exporter in the highly competitive chocolate industry. Geography K8 — agricultural research and genetic crop improvement.",
+      "factsAdvanced": [
+        "Located in Ibadan, Oyo State, operating under the Cocoa Research Institute of Nigeria.",
+        "Established in 1964 to modernize the West African agricultural sector.",
+        "Focuses on genetic improvement and disease resistance for cocoa, cashew, and kola nuts.",
+        "Provides direct technical support and improved seedlings to millions of smallholder farmers.",
+        "Features extensive experimental plantations and state-of-the-art agronomic laboratories.",
+        "Plays a critical role in sustaining Nigeria's global standing in cocoa exports."
+      ]
+    },
+    {
+      "id": "ng-calabar-monkey-life-v2",
+      "descriptionAdvanced": "The Calabar Drill Monkey Sanctuary, officially known as the Drill Rehabilitation and Breeding Center, is a highly specialized and internationally acclaimed conservation project located in Cross River State. Founded by the Pandrillus NGO, the sanctuary is dedicated to saving the highly endangered Drill monkey, a rare primate species found only in the rainforests of Nigeria and Cameroon. The center rescues orphaned drills from the illegal bushmeat and pet trades, rehabilitating them in massive, semi-wild forested enclosures. The sanctuary has achieved unprecedented global success in captive breeding, acting as the absolute last line of defense against the extinction of this unique species. Geography K8 — endangered primate conservation and anti-poaching.",
+      "factsAdvanced": [
+        "Located in Cross River State, specifically dedicated to primate conservation.",
+        "Focuses on the highly endangered Drill monkey, native only to Nigeria and Cameroon.",
+        "Founded and operated by the international conservation NGO, Pandrillus.",
+        "Rescues orphaned primates primarily from the illegal bushmeat and exotic pet trades.",
+        "Utilizes massive, electrified forest enclosures to simulate a natural wild environment.",
+        "Holds the world record for the most successful captive breeding program for Drill monkeys."
+      ]
+    },
+    {
+      "id": "ng-crossriver-nat-life-v2",
+      "descriptionAdvanced": "Cross River National Park is an ecological crown jewel, encompassing over 4,000 square kilometers of pristine, primary tropical rainforest in southeastern Nigeria. It is widely recognized as one of the most biologically diverse, untouched ecosystems remaining in all of West Africa, contiguous with the Korup National Park in Cameroon. The dense, multi-canopied forest is a critical sanctuary for critically endangered species, including the incredibly rare Cross River gorilla, forest elephants, and the Nigeria-Cameroon chimpanzee. The park also features breathtaking waterfalls and rugged terrain, making it a challenging but profoundly rewarding destination for serious eco-tourism and global biological research. Geography K8 — primary rainforests and global biodiversity hotspots.",
+      "factsAdvanced": [
+        "Covers over 4,000 square kilometers of primary tropical rainforest in southeastern Nigeria.",
+        "Considered one of the most biologically diverse ecosystems remaining in West Africa.",
+        "A critical sanctuary for the critically endangered Cross River gorilla.",
+        "Contiguous with the Korup National Park across the border in Cameroon.",
+        "Features dense, multi-layered forest canopies, rugged mountains, and pristine waterfalls.",
+        "Highly restricted and protected to facilitate global biological and botanical research."
+      ]
+    },
+    {
+      "id": "ng-kano-zoo-life-v2",
+      "descriptionAdvanced": "The Kano Zoological Garden, popularly known as Gidan Zoo, is a beloved and highly frequented urban recreational facility in the heart of Kano State. Established in 1971, it serves as the premier zoological park in northern Nigeria, providing essential wildlife education to millions of urban residents who might never visit the remote national parks. The zoo houses a diverse array of African wildlife, including lions, elephants, giraffes, and various primate species, alongside a dedicated botanical section. It is a massive focal point for family outings during major Islamic holidays like Eid, blending environmental education with deep-rooted community socialization. Geography K7 — urban zoological parks and civic recreation.",
+      "factsAdvanced": [
+        "Located in Kano City, established by the state government in 1971.",
+        "The premier and most visited zoological garden in northern Nigeria.",
+        "Houses a wide variety of indigenous African wildlife, including lions and elephants.",
+        "Serves as a critical center for urban wildlife education and environmental awareness.",
+        "Features a dedicated botanical garden section for indigenous plant species.",
+        "Experiences massive surges in attendance during major holidays like Eid."
+      ]
+    },
+    {
+      "id": "ng-ekiti-agri-life-v2",
+      "descriptionAdvanced": "The Ekiti Agricultural Centre is a highly active, sprawling agricultural hub designed to maximize the immense natural fertility of Ekiti State's rolling hills. Moving away from the region's traditional over-reliance on cocoa, this center heavily focuses on the large-scale cultivation of staple food crops, particularly high-yield grains, yams, and diverse vegetables. The facility operates as both a commercial farm and an extensive training center, introducing modern mechanized farming and advanced irrigation techniques to local cooperative farmers. By increasing local food security and reducing post-harvest losses, the center acts as a crucial engine for economic diversification in the southwest. Geography K7 — food security and mechanized farming.",
+      "factsAdvanced": [
+        "Located in the fertile, rolling hills of Ekiti State in southwestern Nigeria.",
+        "Focuses heavily on the cultivation of staple food crops rather than traditional cash crops.",
+        "A major producer of high-yield yams, maize, and assorted vegetables.",
+        "Functions dual-purpose as a commercial farm and a farmer training facility.",
+        "Introduces modern mechanized farming techniques and irrigation to local cooperatives.",
+        "Critical for driving agricultural diversification and regional food security."
+      ]
+    },
+    {
+      "id": "ng-omo-reserve-life-v2",
+      "descriptionAdvanced": "The Omo Forest Reserve, located in Ogun State, is a massive, strictly protected biosphere covering over 130,000 hectares of critical tropical rainforest. Named after the Omo River that flows through it, the reserve is a UNESCO-designated Biosphere Reserve, recognized globally for its immense, untouched biodiversity. It is one of the very last strongholds for the highly endangered African forest elephant in southwestern Nigeria. The reserve features a stunning, dense canopy of indigenous hardwood trees and supports hundreds of bird species. Strict anti-poaching and anti-logging patrols operate within the reserve to protect this fragile, irreplaceable ecological treasure from surrounding urban encroachment. Geography K8 — biosphere reserves and forest elephant conservation.",
+      "factsAdvanced": [
+        "A massive 130,000-hectare protected tropical rainforest in Ogun State.",
+        "Officially recognized globally as a UNESCO Biosphere Reserve.",
+        "Named after the Omo River, which provides a critical water source for the ecosystem.",
+        "One of the last remaining sanctuaries for forest elephants in southwestern Nigeria.",
+        "Contains an incredibly dense, pristine canopy of indigenous African hardwood trees.",
+        "Heavily patrolled to prevent illegal logging and commercial poaching activities."
+      ]
+    },
+    {
+      "id": "ng-kaduna-zoo-life-v2",
+      "descriptionAdvanced": "The Kaduna Zoo, historically intertwined with the beautifully manicured Lord Lugard Botanical Gardens, is a premier recreational and educational facility in Northern Nigeria. Established during the colonial era, the expansive park offers a serene, lush environment that starkly contrasts with the bustling city outside its gates. The zoo features a modest collection of indigenous wildlife, but its true strength lies in its sprawling botanical gardens, which preserve rare indigenous trees and plants from across the savanna region. It is highly popular for family picnics, school excursions, and leisurely walks, acting as the primary green lung for the city of Kaduna. Geography K7 — botanical gardens and urban green spaces.",
+      "factsAdvanced": [
+        "Located in the heart of Kaduna, originally established during the British colonial era.",
+        "Seamlessly integrated with the historic, beautifully manicured Lord Lugard Botanical Gardens.",
+        "Houses a modest but well-maintained collection of indigenous African wildlife.",
+        "The botanical section preserves rare and endangered plant species from the savanna.",
+        "Acts as a major 'green lung' and environmental buffer for the city of Kaduna.",
+        "A highly popular destination for educational school excursions and family recreation."
+      ]
+    },
+    {
+      "id": "ng-kwara-farm-life-v2",
+      "descriptionAdvanced": "The Kwara Agricultural Project is a massive, highly ambitious commercial farming initiative located in the fertile transitional zone of Kwara State. Originally famous for the Shonga Farms project, which invited displaced commercial farmers from Zimbabwe to revolutionize local agriculture, the region has become a national model for mechanized, large-scale farming. The vast fields produce enormous commercial quantities of maize, soybeans, and rice, alongside massive dairy and poultry operations. The project has drastically modernized the local agrarian economy, introducing massive irrigation pivots and industrial processing facilities, transforming Kwara into an undisputed powerhouse of Nigerian food production. Geography K8 — commercial mega-farms and agricultural investment.",
+      "factsAdvanced": [
+        "Located in the highly fertile transitional ecological zone of Kwara State.",
+        "Historically catalyzed by the invitation of commercial farmers displaced from Zimbabwe.",
+        "A national model for large-scale, highly mechanized commercial agriculture.",
+        "Produces massive commercial quantities of maize, soybeans, and rice.",
+        "Features highly advanced agricultural infrastructure, including massive pivot irrigation systems.",
+        "Integrates extensive dairy and poultry operations into the crop farming model."
+      ]
+    },
+    {
+      "id": "ng-imo-zoo-life-v2",
+      "descriptionAdvanced": "The Imo State Zoo and Wildlife Park, located in the Nekede area of Owerri, is a vital, compact conservation and recreational facility serving the southeastern region of Nigeria. Tucked within a dense pocket of preserved rainforest, the zoo provides a sanctuary for various indigenous species, including ostriches, crocodiles, pythons, and several monkey species. The facility plays a crucial role in local environmental education, offering a rare opportunity for urban residents to interact closely with wildlife. Despite its smaller size compared to national parks, its lush, shaded walkways and picnic areas make it a highly beloved weekend retreat for families across Imo State. Geography K7 — urban wildlife parks and regional conservation.",
+      "factsAdvanced": [
+        "Located in the Nekede district of Owerri, Imo State.",
+        "Tucked within a beautifully preserved, dense pocket of natural rainforest.",
+        "Houses indigenous species including ostriches, crocodiles, and various primates.",
+        "Serves as the primary center for wildlife and environmental education in the southeast.",
+        "Features heavily shaded, serene walkways highly popular for family picnics.",
+        "Operates as a critical, accessible green space within a rapidly urbanizing region."
+      ]
+    },
+    {
+      "id": "ng-enugu-park-life-v2",
+      "descriptionAdvanced": "The Enugu Recreational Park, specifically centered around the historic Polo Park and the scenic Oakland Amusement Park, forms the vibrant recreational core of the 'Coal City'. Surrounded by the beautiful, undulating Udi Hills, these carefully manicured green spaces provide essential leisure facilities for the city's residents. The parks feature expansive lawns, classic amusement rides, and quiet, tree-lined walkways. Historically utilized by the colonial elite for equestrian sports, the area has been democratized into a massive, bustling hub for public festivals, concerts, and family gatherings. It perfectly encapsulates Enugu's reputation as a peaceful, highly organized urban center. Geography K7 — urban parks and civic leisure spaces.",
+      "factsAdvanced": [
+        "Located in the heart of Enugu, the historic capital of the Eastern Region.",
+        "Centered around the historically significant Polo Park and modern amusement facilities.",
+        "Surrounded by the highly scenic, rolling topography of the Udi Hills.",
+        "Historically utilized as an exclusive equestrian center during the British colonial era.",
+        "Currently serves as the primary public venue for massive cultural festivals and concerts.",
+        "Provides an essential, highly organized green space for urban recreation."
+      ]
+    },
+    {
+      "id": "ng-borno-safari-life-v2",
+      "descriptionAdvanced": "The Borno Safari and Chad Basin National Park represent a massive, rugged expanse of protected wilderness in the extreme northeast of Nigeria, extending to the borders of Chad and Cameroon. This starkly beautiful, harsh Sahelian landscape is characterized by sprawling dry savannas, wetlands, and the shrinking shores of Lake Chad. The park is a critical sanctuary for highly specialized desert wildlife, including the rare Saharan cheetah, giraffes, and massive flocks of migratory birds that rely on the wetlands. Despite severe, long-term disruptions due to regional conflict, the park remains an incredibly vital, deeply fascinating ecological frontier requiring urgent global conservation efforts. Geography K8 — Sahelian ecosystems and conflict-zone conservation.",
+      "factsAdvanced": [
+        "Located in Borno State, extending toward the borders of Chad and Cameroon.",
+        "Features a harsh, starkly beautiful Sahelian landscape of dry savannas and wetlands.",
+        "Part of the massive, ecologically critical Chad Basin National Park system.",
+        "A vital sanctuary for specialized desert wildlife, including giraffes and Saharan cheetahs.",
+        "Serves as a massive, crucial stopover for millions of palearctic migratory birds.",
+        "Conservation efforts have been severely disrupted by long-term regional security conflicts."
+      ]
+    },
+    {
+      "id": "ng-delta-nature-life-v2",
+      "descriptionAdvanced": "The Delta Nature Conservation Zone is a highly critical, fragile network of protected mangrove swamps and intricate waterways located deep within the Niger Delta. Recognizing the immense ecological damage caused by decades of intense crude oil extraction, these protected zones were established to preserve the region's unique, irreplaceable aquatic and terrestrial biodiversity. The thick, impenetrable mangrove roots provide essential breeding grounds for countless fish species, while the forests shelter the endangered Sclater's guenon and West African manatee. These conservation zones highlight the desperate, ongoing struggle to balance Nigeria's massive economic reliance on oil with the survival of its most vital wetland ecosystems. Geography K8 — mangrove conservation and oil-industry ecology.",
+      "factsAdvanced": [
+        "A network of highly fragile, protected mangrove swamps within the Niger Delta.",
+        "Established specifically to counteract severe ecological damage from crude oil extraction.",
+        "Features dense, impenetrable mangrove forests that serve as massive aquatic nurseries.",
+        "Provides critical habitat for endangered species like the West African manatee.",
+        "Represents the complex, ongoing conflict between fossil fuel economics and ecology.",
+        "Crucial for sustaining the traditional fishing livelihoods of indigenous riverine communities."
+      ]
+    },
+    {
+      "id": "ng-abia-agri-life-v2",
+      "descriptionAdvanced": "The Abia Agricultural Hub is a massive, highly productive engine of traditional and commercial farming located in southeastern Nigeria. Building upon a long, historic legacy of palm oil production that predates the colonial era, the region features vast, sprawling estates of high-yield oil palms. Beyond palm produce, the hub is a national leader in the aggressive cultivation and industrial processing of cassava and yams. Supported by regional research institutes, the local cooperative farmers utilize modern milling and refining machinery, transforming raw harvests into export-ready commodities. This hub is absolutely critical to sustaining the food security and economic wealth of the southeast. Geography K7 — palm oil processing and agricultural hubs.",
+      "factsAdvanced": [
+        "Located in the highly fertile, tropical environment of Abia State.",
+        "A national leader in the massive commercial production and refinement of palm oil.",
+        "Features vast, historic oil palm estates deeply tied to the region's pre-colonial history.",
+        "Aggressively cultivates and industrially processes staple crops like cassava and yams.",
+        "Utilizes modern, cooperative-owned milling machinery to produce export-ready commodities.",
+        "A critical, indispensable component of southeastern Nigeria's food security network."
+      ]
+    },
+    {
+      "id": "ng-anambra-forest-life-v2",
+      "descriptionAdvanced": "The Anambra Forest Reserve, primarily centered around the dense Mamu River forest area, is a highly protected ecological sanctuary in southeastern Nigeria. As the surrounding region experiences some of the most aggressive urbanization and high population densities in Africa, this reserve serves as an absolutely vital, irreplaceable green lung. It protects incredibly rare indigenous hardwood tree species and provides a secure habitat for diverse birdlife and small mammals that have been entirely displaced elsewhere. The reserve is heavily managed to prevent illegal logging and severe gully erosion, showcasing a desperate, crucial effort to maintain primary forests in a rapidly modernizing landscape. Geography K8 — urban encroachment and forest preservation.",
+      "factsAdvanced": [
+        "A highly protected ecological sanctuary centered around the Mamu River in Anambra State.",
+        "Serves as a crucial, irreplaceable 'green lung' in a massively urbanized, densely populated region.",
+        "Specifically protects incredibly rare, highly sought-after indigenous hardwood tree species.",
+        "Provides a vital, secure habitat for displaced birdlife and small regional mammals.",
+        "Heavily managed and patrolled to combat aggressive illegal logging and deforestation.",
+        "Crucial in preventing the severe, destructive gully erosion common in the southeast."
+      ]
+    },
+    {
+      "id": "ng-sokoto-zoo-life-v2",
+      "descriptionAdvanced": "The Sokoto Zoo, situated in the historic capital of the Sokoto Caliphate, is a modest yet highly cherished recreational and educational facility in northwestern Nigeria. Given the extreme, harsh semi-arid climate of the region, the zoo serves as a vital oasis of shaded greenery and wildlife conservation. It houses a collection of animals adapted to the Sahelian environment, including camels, hyenas, and various reptiles. The zoo is heavily utilized by local schools for environmental education, offering children a rare, safe opportunity to study wildlife up close. It is a highly popular, peaceful destination for families during the long, dry afternoons. Geography K7 — Sahelian zoos and community recreation.",
+      "factsAdvanced": [
+        "Located in the historic, extreme northwestern city of Sokoto.",
+        "Serves as a vital, shaded green oasis within a harsh, semi-arid Sahelian climate.",
+        "Specializes in housing wildlife naturally adapted to dry, desert-like environments.",
+        "A highly popular, peaceful recreational destination for local families and children.",
+        "Heavily utilized by regional schools for practical environmental and biological education.",
+        "Represents a modest but deeply cherished community conservation effort."
+      ]
+    },
+    {
+      "id": "ng-bauchi-orchard-life-v2",
+      "descriptionAdvanced": "The Bauchi Orchard is a massive, sprawling agricultural achievement located on the highly fertile edges of the Jos Plateau in northeastern Nigeria. Taking brilliant advantage of the region's slightly cooler, moderate micro-climate, the orchard specializes in the massive, commercial cultivation of citrus fruits, particularly oranges, lemons, and grapefruits. During the harvest season, the landscape transforms into a vibrant sea of green and bright orange, attracting wholesale traders from across the nation. The orchard utilizes extensive, modern irrigation networks drawing from local rivers, serving as a highly successful, shining model of agricultural diversification away from traditional grain crops. Geography K7 — micro-climates and commercial orchards.",
+      "factsAdvanced": [
+        "A massive commercial agricultural estate located in Bauchi State.",
+        "Takes strategic advantage of the cooler, moderate micro-climate near the Jos Plateau.",
+        "A national leader in the massive commercial cultivation of citrus fruits.",
+        "Produces enormous quantities of high-quality oranges, lemons, and grapefruits.",
+        "Utilizes highly extensive, modern irrigation networks to maintain year-round production.",
+        "A highly successful model of agricultural diversification in northeastern Nigeria."
+      ]
+    },
+    {
+      "id": "ng-benue-farm-life-v2",
+      "descriptionAdvanced": "The Benue Agricultural Community is the absolute, undisputed beating heart of Nigeria's food production, universally recognized by the official moniker: 'The Food Basket of the Nation'. Located in the incredibly fertile Middle Belt, the entire region is essentially one massive, interconnected farming powerhouse. Fed by the mighty Benue River, the deep, rich soils produce staggering, unparalleled quantities of yams, soybeans, sesame seeds, and massive citrus harvests. The region relies heavily on deeply rooted traditional farming cooperatives mixed with increasingly mechanized processing hubs. The sheer volume of food exported from Benue sustains millions of Nigerians across both the northern and southern extremes of the country. Geography K7 — the Middle Belt and national food baskets.",
+      "factsAdvanced": [
+        "Located in Benue State, universally known as the 'Food Basket of the Nation'.",
+        "The absolute, undisputed powerhouse of food production in the Nigerian Middle Belt.",
+        "Produces staggering, unparalleled quantities of yams, soybeans, and sesame seeds.",
+        "Heavily relies on the deep, incredibly fertile soils sustained by the Benue River.",
+        "Operates through massive, highly efficient traditional farming cooperative networks.",
+        "Crucial for sustaining the food security of both northern and southern Nigeria."
+      ]
+    },
+    {
+      "id": "ng-ondo-cacao-life-v2",
+      "descriptionAdvanced": "The Ondo Cocoa Cooperative represents the massive, highly organized agricultural backbone of Ondo State, Nigeria's premier cocoa-producing region. Rooted in deep historical traditions dating back to the early 20th century, these massive cooperatives unite tens of thousands of smallholder farmers. By pooling their resources, the farmers achieve massive economies of scale in purchasing fertilizers, securing fair global market prices, and operating highly advanced, centralized drying and fermentation facilities. The cooperative ensures that the incredibly high quality of Nigerian cocoa is maintained for export to European chocolate manufacturers. It is the absolute lifeblood of the regional economy, sustaining entire communities. Geography K8 — agricultural cooperatives and export cash crops.",
+      "factsAdvanced": [
+        "A massive, highly organized network of farmers located in Ondo State.",
+        "Ondo State is recognized as the absolute premier cocoa-producing region in Nigeria.",
+        "Unites tens of thousands of smallholder farmers to achieve massive economies of scale.",
+        "Operates highly advanced, centralized facilities for cocoa fermentation and drying.",
+        "Secures fair, highly competitive pricing for farmers on the global export market.",
+        "The absolute economic lifeblood of the state, sustaining generations of rural families."
+      ]
+    },
+    {
+      "id": "ng-ebonyi-rice-life-v2",
+      "descriptionAdvanced": "The Ebonyi Rice Farm is a colossal, aggressively modernizing agricultural complex that has catapulted Ebonyi State to the forefront of national food production. Capitalizing on the region's naturally swampy, highly fertile terrain, the state government and private investors have established massive, highly mechanized rice paddies. The facility is nationally famous for producing 'Abakaliki Rice', a brand highly prized for its exceptional nutritional value and distinct taste. The complex features massive, state-of-the-art automated milling and de-stoning plants, drastically reducing reliance on imported rice. It is a stunning, triumphant example of targeted, aggressive agricultural industrialization. Geography K8 — mechanized rice milling and import substitution.",
+      "factsAdvanced": [
+        "A colossal, highly mechanized agricultural complex located in Ebonyi State.",
+        "Capitalizes on the state's naturally swampy, incredibly fertile terrain.",
+        "Nationally famous for producing the highly prized, nutritious 'Abakaliki Rice' brand.",
+        "Features massive, state-of-the-art automated milling and de-stoning factories.",
+        "A highly successful, targeted effort to drastically reduce Nigeria's reliance on imported rice.",
+        "Has transformed Ebonyi State into a premier, undisputed powerhouse of national agriculture."
+      ]
+    },
+    {
+      "id": "ng-ekiti-bird-life-v2",
+      "descriptionAdvanced": "The Ekiti Birdwatching Zone is a pristine, highly specialized ecological sanctuary nestled within the rugged, heavily forested hills of Ekiti State. This beautifully isolated region has been meticulously preserved as a haven for ornithologists and global eco-tourists. The dense, multi-layered forest canopy supports a staggering diversity of avian life, including incredibly rare, endemic species of hornbills, turacos, and vibrant kingfishers. The zone is equipped with elevated, highly camouflaged observation blinds and extensive, quiet hiking trails. It represents a highly successful, niche eco-tourism initiative that perfectly balances the preservation of fragile wildlife with sustainable, low-impact economic generation. Geography K8 — ornithology and niche eco-tourism.",
+      "factsAdvanced": [
+        "A pristine, highly specialized ecological sanctuary located in the hills of Ekiti State.",
+        "Specifically dedicated to the protection and observation of diverse avian life.",
+        "Supports a staggering array of rare, endemic species including hornbills and turacos.",
+        "Features elevated, highly camouflaged observation blinds for professional ornithologists.",
+        "A highly successful, sustainable model of low-impact, niche eco-tourism.",
+        "Protects the fragile forest canopy from surrounding agricultural encroachment."
+      ]
+    },
+    {
+      "id": "ng-jigawa-farm-life-v2",
+      "descriptionAdvanced": "The Jigawa Agricultural Project is a massive, highly innovative farming initiative designed to conquer the harsh, semi-arid conditions of northern Nigeria. Faced with a short rainy season and encroaching desertification, this colossal project utilizes highly advanced, drought-resistant seed varieties and massive, deep-well irrigation networks. The sprawling farms specialize in the aggressive, large-scale cultivation of essential Sahelian staples: millet, sorghum, and sesame seeds. Additionally, the project has heavily integrated massive commercial date palm plantations, creating a highly lucrative export commodity. It stands as a brilliant, deeply resilient monument to human ingenuity and agricultural adaptation in extreme environments. Geography K8 — Sahelian agriculture and drought resistance.",
+      "factsAdvanced": [
+        "A massive, highly innovative agricultural initiative located in Jigawa State.",
+        "Specifically designed to overcome the harsh, semi-arid climate and short rainy seasons.",
+        "Utilizes highly advanced, massive deep-well irrigation and drought-resistant seeds.",
+        "A national leader in the massive cultivation of millet, sorghum, and sesame seeds.",
+        "Features highly lucrative, massively expansive commercial date palm plantations.",
+        "A brilliant, resilient model of agricultural adaptation in extreme Sahelian environments."
+      ]
+    },
+    {
+      "id": "ng-kebbi-rice-life-v2",
+      "descriptionAdvanced": "The Kebbi Rice Hub is a staggering, monumental agricultural achievement situated in the massive, highly fertile floodplains of the Sokoto-Rima River basin in Kebbi State. Leveraging the immense, naturally occurring floodwaters, the region has been aggressively transformed into the absolute epicenter of Nigeria's rice revolution. Backed by massive federal initiatives like the Anchor Borrowers' Program, the hub utilizes hundreds of square kilometers of highly organized, irrigated paddies. It is the birthplace of the famous 'LAKE Rice' (Lagos-Kebbi Rice) partnership, directly feeding the massive population of Lagos. The hub is the ultimate, undeniable success story of modern Nigerian agricultural policy. Geography K8 — river basin agriculture and national food policy.",
+      "factsAdvanced": [
+        "Located in the massive, highly fertile Sokoto-Rima River floodplains of Kebbi State.",
+        "The absolute epicenter and undisputed powerhouse of Nigeria's modern rice revolution.",
+        "Heavily backed by massive, transformative federal funding like the Anchor Borrowers' Program.",
+        "Utilizes hundreds of square kilometers of highly organized, heavily irrigated paddies.",
+        "The birthplace of the highly successful, massive 'LAKE Rice' partnership with Lagos State.",
+        "The ultimate success story of modern Nigerian agricultural import-substitution policy."
+      ]
+    }
+  ]
+}

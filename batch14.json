@@ -1,0 +1,135 @@
+{
+  "lang": "hu",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "valle-de-guatemala-relief-v2",
+      "descriptionAdvanced": "A Valle de la Ermita, más néven a Valle de Guatemala (Guatemalai Völgy), egy magasan fekvő (1500 méter), tágas tektonikus és vulkáni medence, amely otthont ad Guatemala hatalmas fővárosának és agglomerációjának. A völgyet körös-körül hegyek és ikonikus vulkánok (mint a Pacaya és az Agua a távolban) határolják, de geológiailag a legérdekesebb jellemzői a mély, V-alakú szakadékok ('barrancos'). Ezeket a kanyonokat a folyók és a heves esőzések vájták a puha, vastag habkő- (póruskőzet) és hamurétegekbe, amelyeket a történelem előtti vulkánkitörések hagytak hátra. A barrancók hálózata teljesen széttagolja a várost, megnehezítve a közlekedést és elősegítve a szegregációt, ugyanakkor az urbanizáció ellenére is megőriztek zöld, gyakran érintetlen erdőfoltokat ('cinturón ecológico') a város szívében. Földrajz K7 — vulkáni habkő-völgyek és városi geomorfológia.",
+      "factsAdvanced": [
+        "A völgy (1 500 m) adott otthont az új fovárosnak (Nueva Guatemala de la Asunción) 1776-tól.",
+        "A talajrendszert vastag, laza szerkezetű vulkáni hamu és habkő (pómez) alkotja.",
+        "Ezt a puha alapkőzetet a víz könnyen erodálta, mély szakadékokat ('barrancos') hozva létre.",
+        "A barrancók hálózata természetes határokat és közlekedési akadályokat jelent a metropoliszban.",
+        "Az esős évszakban a laza talaj (és az erdoirtás) miatt gyakoriak a súlyos földcsuszamlások a völgy peremén.",
+        "A völgy északi része nyitottabb, míg délen a Pacaya vulkán vonulatai zárják le."
+      ]
+    },
+    {
+      "id": "volcan-toliman-relief-v2",
+      "descriptionAdvanced": "A Tolimán vulkán a lenyűgöző Atitlán-tó déli partján emelkedő, 3158 méter magas stratovulkán, amely az Atitlán és a San Pedro vulkánokkal együtt alkotja a tó ikonikus 'Három Vulkán' sziluettjét. Geológiailag a Tolimán egy összetett vulkán: két csúcsa van (északi és déli), ráadásul az északi oldalán egy parazita lávadóm, a Cerro de Oro ('Aranyhegy') emelkedik. A Tolimán inaktív, és lejtőit sűrű, szinte áthatolhatatlan eső- és felhőerdők borítják (ellentétben a megművelt San Pedróval), emiatt megmászása rendkívül nehéz és kevesen is próbálkoznak vele. Tövében fekszenek a festői tz'utujil és kaqchikel maja falvak, mint Santiago Atitlán és San Lucas Tolimán. A vulkán a maja mitológiában a tavat védelmező hatalmas őrszellemek egyike. Földrajz K8 — inaktív stratovulkánok és parazita lávadómok.",
+      "factsAdvanced": [
+        "A 3 158 méter magas vulkán az Atitlán-tó déli medencéjének meghatározó eleme.",
+        "Két különálló csúcsa van, és a hegy testéhez kapcsolódik a Cerro de Oro ('Aranyhegy') lávadóm is.",
+        "Inaktív, lejtőit rendkívül sűrű és áthatolhatatlan köderdő borítja, ezért ritkán másszák meg.",
+        "A tövében élo maja falvak (pl. San Lucas Tolimán) kávétermesztéssel és halászattal foglalkoznak.",
+        "Tiszta idoben az ikercsúcsok sziluettje az Atitlán-tó minden pontjáról látható.",
+        "A Tolimán közvetlenül csatlakozik a nála magasabb Atitlán vulkán gerincéhez."
+      ]
+    },
+    {
+      "id": "altiplano-central-relief-v2",
+      "descriptionAdvanced": "A Középső Felföld (Altiplano Central) Guatemala földrajzi és demográfiai középpontja, amely magában foglalja Chimaltenango, Sacatepéquez és Guatemala megyék magaslati területeit. Ez a térség átmenetet képez a Nyugati Felföld (Altiplano Occidental) fagyos, zord, maja k'iche' hagyományai és a keleti, alacsonyabb, 'ladino' régiók között. Az 1500–2200 méter közötti átlagmagasság tökéletes, enyhe ('tavaszi') klímát biztosít egész évben. A domborzatot lankás, zöldellő hegyoldalak és széles, termékeny völgyek (mint a Panchoy vagy a Parramos völgy) jellemzik, amelyeket olyan fenséges, ma is aktív vulkánok szegélyeznek, mint a Fuego és a Pacaya. Ez az intenzív vulkáni jelenlét az oka a talaj (andosolok) kiemelkedő termékenységének is: az Altiplano Central ma Guatemala legfontosabb exportzöldség-, virág- és epertermelő régiója, egyben az ország legsűrűbben lakott területe. Földrajz K7 — központi vulkáni medencék és andosolok.",
+      "factsAdvanced": [
+        "A 1 500-2 200 méteres magasság miatt az éghajlat egész évben enyhe és kellemes (Eterna Primavera).",
+        "Talaja ('andosol') vulkáni hamuból képződött, hihetetlenül termékeny a mezőgazdaság számára.",
+        "Az ország legsűrűbben lakott régiója, amely magában foglalja a fővárosi agglomerációt is.",
+        "Az aktív Fuego és Pacaya vulkánok folyamatosan friss ásványi hamuval látják el a földeket.",
+        "Földrengések szempontjából rendkívül aktív zóna a Motagua törésvonal közelsége miatt.",
+        "Itt található Guatemala legtöbb magas technológiájú, csepegtető öntözéses zöldségültetvénye."
+      ]
+    },
+    {
+      "id": "volcan-atitlan-relief-v2",
+      "descriptionAdvanced": "A Volcán Atitlán a lenyűgöző Atitlán-tó körüli 'Három Vulkán' legmagasabb és legfenségesebb tagja, csúcsa eléri a 3537 métert. A szomszédos Tolimán vulkánnal együtt egy hatalmas ikervulkán-komplexumot alkot a tó déli partján, olyannyira, hogy a két hegyet egy közös gerinc, a 'La Horqueta' köti össze. Az Atitlán geológiailag is jelentős: míg a tó körüli többi hegy inaktív, az Atitlán az elmúlt 500 évben többször is kitört (legutóbb 1853-ban), így aktív – bár jelenleg csendes – vulkánnak számít. A csúcsa felé haladva az erdőritkulás drámai: a sűrű köderdőt kietlen, sötét vulkáni salak (arena) és sziklás pampa váltja fel. A csúcsról egyedülálló, két óceánra nyíló kilátás fogad: északra az Atitlán-tó kalderája, délre pedig a Csendes-óceán végtelen síksága látható. Földrajz K8 — aktív vulkánok övezetei és kalderák.",
+      "factsAdvanced": [
+        "A tó körüli három nagy vulkán közül a legmagasabb (3 537 méter).",
+        "Geológiailag aktívnak számít, az 1800-as évek közepén is volt dokumentált kitörése.",
+        "Déli oldalán (Boca Costa) az ország leggazdagabb kávé-, gumi- és teafincái muködnek.",
+        "A csúcsára vezető fárasztó túra során a dzsungelt fokozatosan fátlan, vulkáni kősivatag váltja fel.",
+        "A kráterében és a csúcson még ma is kénes gozölgések (fumarolák) figyelhetok meg.",
+        "Tiszta időben a csúcsról egyszerre látható a csendes-óceáni partvidék és a teljes tómedence."
+      ]
+    },
+    {
+      "id": "sierra-de-las-minas-norte-relief-v2",
+      "descriptionAdvanced": "A Sierra de las Minas északi oldala (Veritente Norte) drasztikus geológiai és klimatikus ellentéte a száraz, sivatagos déli oldalnak. Ez a meredeken leszakadó, áthatolhatatlan hegyoldal a Polochic-folyó tágas és forró völgyébe (Valle del Polochic) fut le Alta Verapaz megyében. Mivel az uralkodó szelek az Atlanti-óceán felől meleg, nedves levegőt szállítanak, és ezek a hegyvonulatnak ütközve kénytelenek felemelkedni, az északi oldal hatalmas mennyiségű csapadékot kap egész évben (orografikus csapadék). Ennek eredményeként a lejtőket sűrű, buja, széleslevelű trópusi dzsungel és – magasabban – örökzöld felhőerdő borítja, több tucat sebes hegyi patakkal és vízeséssel. Ez a zord és nedves vidék ad otthont Közép-Amerika leggazdagabb biodiverzitásának, köztük jaguároknak, hárpiáknak és az őshonos quetzalnak. Földrajz K8 — orografikus esők és az aszimmetrikus hegységek ökoszisztémái.",
+      "factsAdvanced": [
+        "A Sierra de las Minas északi lejtője a Polochic-folyó (Alta Verapaz) völgyébe ereszkedik le.",
+        "Az orografikus hatás (felszálló nedves légtömegek) miatt az egyik legcsapadékosabb terület Guatemalában.",
+        "Szinte teljes egészében érintetlen trópusi esőerdo és - feljebb - felhőerdő (bosque nuboso) borítja.",
+        "Több tucat sebes sodrású hegyi folyót és vízesést táplál a folyamatos esőzés.",
+        "Biológiailag az ország egyik legértékesebb és legváltozatosabb rezervátuma (Bioszféra Rezervátum).",
+        "Nehéz terepviszonyai miatt a fakitermelés (szerencsére) kevésbé pusztította, mint más régiókat."
+      ]
+    },
+    {
+      "id": "valle-del-polochic-relief-v2",
+      "descriptionAdvanced": "A Valle del Polochic (Polochic-völgy) egy széles, lapos, meleg és rendkívül párás geológiai süllyedék, amely Alta Verapaz megyén és Izabalon keresztül egészen az Izabal-tóig húzódik. A völgyet északról a Sierra de Santa Cruz és a karsztos hegyek, délről pedig a monumentális Sierra de las Minas határolja. A völgy szívében, a Polochic-folyó mentén burjánzó trópusi élet zajlik. A történelem során a völgy folyami útvonala a kávé (Cobánból) és a kakaó Atlanti-óceán felé történő szállításának fő ütőere volt. Ma azonban a terület leginkább az extrém társadalmi és környezeti konfliktusairól ismert: a völgy sík területeinek túlnyomó részét hatalmas pálmaolaj- (palma africana) és cukornádültetvények foglalják el, amelyek térnyerése (és vízelvezetései) miatt gyakoriak a fegyveres konfliktusok a földjüket követelő, szegénységben élő q'eqchi' maja falvakkal. Földrajz K8 — geológiai süllyedékek, monokultúrák és földkonfliktusok.",
+      "factsAdvanced": [
+        "Egy kiterjedt, forró és mocsaras (nedves) tektonikus völgy Alta Verapaz és Izabal megyék között.",
+        "A Polochic-folyó az egész völgy vízgyűjtőjét képezi, majd az Izabal-tóba ömlik.",
+        "A német kávétermelők (19-20. sz.) a Polochic-folyón és a völgyön keresztül exportálták az árujukat az óceánhoz.",
+        "Ma a guatemalai pálmaolaj- és cukornádtermesztés egyik legfobb, nagyipari területe.",
+        "A területen gyakoriak a fegyveres harcok és a kilakoltatások (desalojos) a birtokosok és a maja parasztok között.",
+        "A völgy rendkívül sérülékeny az áradásokkal szemben az esős évszak (hurrikánok) idején."
+      ]
+    },
+    {
+      "id": "cerro-cahabon-sur-relief-v2",
+      "descriptionAdvanced": "A Cerro Cahabón Sur (Déli Cahabón-hegyvonulat) a Cahabón folyóvölgytől délre és a Polochic völgyétől északra elterülő markáns, karsztos (mészkő) hegygerinc Alta Verapaz megyében. Ez az esőerdővel borított zord domborzat nemcsak a két folyó vízválasztóját képezi, hanem Közép-Amerika egyik legösszetettebb földalatti barlangrendszerének, a Lanquín barlangoknak (Grutas de Lanquín) az otthona. A hegy gyomrában lévő mészkövet a sok millió éves trópusi esőzések és búvópatakok szivacsosra oldották. Az itt található Lanquín barlanghálózat több kilométer hosszan kanyarog a föld alatt, hatalmas, sötét, denevérek tízezreit rejtő csarnokokkal és földalatti vízesésekkel, amelyek a maják (q'eqchi') számára máig a Xibalbá (alvilág) félelmetes kapuit jelentik. A hegy felszínét hagyományos, elszigetelt maja 'milpák' (kukoricaföldek) pöttyözik a meredek falakon. Földrajz K7 — karszt vízválasztók és barlangképződés.",
+      "factsAdvanced": [
+        "Ez a hegygerinc képez vízválasztót a Cahabón-folyó és a déli Polochic-völgy között.",
+        "Domborzata karsztos (mészkő), amely telis-tele van földalatti járatokkal, patakokkal és barlangokkal.",
+        "Itt találhatók a híres Lanquín barlangok (Grutas de Lanquín), amelyek denevérek ('murciélagos') tízezreinek adnak otthont.",
+        "A barlangrendszer számos pontján még sosem járt ember, méretük felbecsülhetetlen.",
+        "A felszíni talaj (rendzina) vékony és sziklás, ami megnehezíti a helyi mezőgazdaságot.",
+        "A hegyről lezúduló vizek táplálják a híres Semuc Champey mészkőmedencéit is."
+      ]
+    },
+    {
+      "id": "volcan-siete-orejas-relief-v2",
+      "descriptionAdvanced": "A Volcán Siete Orejas ('Hét Fül' Vulkán) egy lenyűgöző és masszív, de erodálódott, 3370 méter magas inaktív vulkán Quetzaltenango (Xela) városa felett, közvetlenül a Santa María szomszédságában. Nevét egyedi, csipkézett, 'hét csúcsból' (vagy 'fülből') álló kráterpereméről kapta, amely valójában egy gigantikus, dél felé nyitott, beomlott kaldera (kráter). A hegy a mam maják szent helye. Mivel régóta inaktív, a Siete Orejas lejtőit – egészen a kráter pereméig – sűrű, sötét tűlevelű és széleslevelű felhőerdők borítják. Az ökoturisták és a xelai egyetemisták kedvelt túracélpontja, mert viszonylag könnyebben megmászható, mint a Santa María, és a déli, nyitott kalderából fantasztikus kilátás nyílik a csendes-óceáni síkságra (Boca Costa), valamint a lent füstölgő Santiaguito lávadómra. Földrajz K6 — nyitott (beomlott) kalderák és hegyvidéki erózió.",
+      "factsAdvanced": [
+        "A 3 370 méter magas vulkánnak nincs klasszikus kúp alakja, a kráterének déli fala beomlott.",
+        "Neve, a 'Hét Fül' (Siete Orejas) a kráterperemen található, távolról hét kiemelkedésnek tűnő csúcsra utal.",
+        "Erősen erodálódott (nagyon régen inaktív), a hegyoldalakat és a kaldera belsejét is sürü erdo borítja.",
+        "A mam maják egyik szent hegye a Quetzaltenango-völgy körül.",
+        "A beomlott déli falon ('U-alakú' kráter) keresztül lenézni egyenesen a parti síkságra lehet.",
+        "Gyakran szolgál akklimatizációs vagy edzőtúraként a nehezebb Tajumulco vagy Santa María vulkánok előtt."
+      ]
+    },
+    {
+      "id": "sierra-de-las-minas-este-relief-v2",
+      "descriptionAdvanced": "A Sierra de las Minas keleti szárnya (Vertiente Este) az a zord, hegylábi terület, ahol a gigantikus hegység fokozatosan 'belemerül' a Karib-tenger (Amatique-öböl) és az Izabal-tó trópusi lapályaiba Izabal megyében. Ahogy a hegység veszít magasságából (2000 méterről a tengerszintig), a hűvös felhőerdőket felváltják a forró, páradús trópusi síkvidéki dzsungelek. Geológiailag ez a zóna azért rendkívül fontos, mert itt, a tektonikus lemezek mozgása nyomán olyan ősi óceáni kőzetek (szerpentinit és ofiolit) kerültek a felszínre, amelyek masszív, felszíni nikkel-, króm- és aranylelőhelyeket hoztak létre. Ez a gazdagság okozta, hogy a keleti lábaknál (El Estor és Morales környékén) drasztikus nyíltszíni bányászat (minería a cielo abierto) folyik, ami a trópusi erdők és a karsztos vizek pusztulásával, valamint éles társadalmi ellentétekkel jár a q'eqchi' őslakosok körében. Földrajz K8 — nehézfém-lerakódások (ofiolitok) és a trópusi bányászat.",
+      "factsAdvanced": [
+        "A Sierra de las Minas itt ereszkedik le a Karib-tenger és az Izabal-tó tengerszintjéig.",
+        "Klímája a hegy többi részével ellentétben tikkasztóan forró, páradús (trópusi alföldi dzsungel).",
+        "Geológiailag ősi, óceáni kéregmaradványok (ofiolit, szerpentinit) alkotják a hegy lábát.",
+        "Emiatt itt találhatók Guatemala legfőbb, gyakran vitatott nyíltszíni nikkelbányái (pl. Fénix projekt).",
+        "A bányászat okozta erdőirtás éles konfliktusokat gerjeszt a földeket követelő q'eqchi' maja közösségekkel.",
+        "A hegyekből lefutó tiszta patakok a völgybe érve gyorsan meleg, mocsaras folyókká válnak."
+      ]
+    },
+    {
+      "id": "valle-de-las-flores-relief-v2",
+      "descriptionAdvanced": "A Valle de las Flores (A Virágok Völgye) egy idilli, lankás vulkáni medence Guatemala Középső Felföldjén (Sacatepéquez és Chimaltenango megyék találkozásánál), nem messze Sumpango és Parramos városaitól. A völgy a nevét nem a természetes vadvirágokról kapta, hanem az itteni intenzív, kereskedelmi célú, teraszos virágkertészetekről, amelyek a guatemalavárosi, amerikai és közép-amerikai piacokat (export) is ellátják (pl. rózsák, liliomok, krizantémok). A völgy rendkívül termékeny, az Agua, a Fuego és az Acatenango vulkánok szomszédsága révén sötét, tápanyagdús vulkáni hamu (andosol) borítja. Klímája az 'Örök Tavasz' iskolapéldája: sosem túl hideg és sosem túl meleg. Bár domborzatilag viszonylag nyitott, a völgy peremeit mély, áthatolhatatlan vízmosások ('barrancos') védik. Földrajz K6 — vulkáni medencék és intenzív (kereskedelmi) virágkertészet.",
+      "factsAdvanced": [
+        "A völgy (1 800 m) Guatemala egyik legfontosabb kereskedelmi virágtermesztő és epertermelő régiója.",
+        "Talaja a környező hatalmas vulkánoknak köszönhetően gazdag (és porózus) andosol.",
+        "A területen található farmok ('fincas') gyakran fóliasátrak (invernaderos) alatt termesztik az exportvirágokat.",
+        "A völgy éghajlata egyenletesen enyhe, a guatemalai 'Eterna Primavera' (Örök Tavasz) tökéletes példája.",
+        "A mély, stukkós vízmosások ('barrancos') a völgy szélén természetes földrajzi elzártságot biztosítanak.",
+        "Történelmileg az ország egyik legsűrűbben lakott, maja kaqchikel mezőgazdasági területe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "harar-jugol-walls-landmarks-v2",
+      "descriptionAdvanced": "The Harar Jugol walls, a UNESCO World Heritage site, represent the historic fortification surrounding the ancient walled city of Harar. Constructed between the 13th and 16th centuries, these walls enclose 82 mosques, including the 10th-century Mosque of the Companions, and over 100 shrines. Harar is considered the fourth holiest city of Islam and features a unique architectural blend of traditional African and Islamic styles. The walls have served as a symbol of the city's independence and cultural identity for centuries. History K8 — Walled cities and Islamic architecture.",
+      "factsAdvanced": ["Constructed between the 13th and 16th centuries.", "UNESCO World Heritage site.", "Encloses 82 historic mosques.", "Harar is the fourth holiest city of Islam.", "Unique blend of African and Islamic architecture.", "Significant symbol of cultural identity."]
+    }
+  ]
+}

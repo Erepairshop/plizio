@@ -1,0 +1,99 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "descriptionAdvanced": "Das Relief der Hartmann-Berge bildet eine der entlegensten und schroffsten Grenzregionen im extremen Nordwesten Namibias, tief im Kaokoland. Die steilen, dunklen Granit- und Gneisgipfel ragen unbarmherzig in den heißen Himmel und grenzen direkt an das majestätische, breite Hartmann-Tal, das zum Kunene-Fluss hinabführt. Diese Gebirgskette wirkt wie das Ende der Welt: Das Relief ist fast baumlos, extrem zerklüftet und wird nur sporadisch von grünen Adern, den trockenen Flussbetten, durchbrochen, in denen Nomaden des Himba-Volkes nach rarem Weideland für ihre Rinder suchen. Wegen des gnadenlosen Geländes wagen sich nur extrem ausgestattete Offroad-Expeditionen in diese einsame Landschaft, deren Faltenstrukturen noch immer von Millionen Jahren tektonischer Gewalten zeugen. Geografie K7 — Prähistorische Faltungszonen und Extremgrenzen.",
+      "factsAdvanced": [
+        "Die Hartmann-Berge verlaufen parallel zur Skelettküste im extrem abgelegenen Kaokoland.",
+        "Das westlich angrenzende Hartmann-Tal ist bekannt für seine einsame, weiße Sandfläche.",
+        "Die Region erhält oftmals jahrelang überhaupt keinen nennenswerten Niederschlag.",
+        "Das Relief zwingt Allrad-Fahrzeuge zu tagelangen, extrem gefährlichen und langsamen Kletterpartien.",
+        "Das Gestein ist stark metamorphen Ursprungs, geprägt durch immensen tektonischen Druck.",
+        "In den Tälern existieren sogenannte Feenkreise (Fairy Circles), ein bisher ungeklärtes ökologisches Phänomen."
+      ]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "descriptionAdvanced": "Das Grootberg-Massiv, ein monumentales tafelbergartiges Gebirge, dominiert die Landschaft im nördlichen Damaraland in Form eines riesigen Hufeisens (einer Schlucht), das spektakulär in das Klip-Flusstal abfällt. Geologisch gesehen ist das flache Plateau des Berges ein Überbleibsel gigantischer Vulkanausbrüche: Massive Schichten aus hartem Etendeka-Basalt schützten das Gestein über Millionen von Jahren vor Erosion, während die Umgebung tief ausgespült wurde. Vom steilen Rand des Plateaus, auf dem sich heute auch namibische Öko-Lodges befinden, stürzen die Klippen Hunderte von Metern senkrecht in die wilde, zerklüftete Dornsavanne ab. Dieses unzugängliche Plateau und seine Schluchten dienen als wichtiges Refugium für Wüstenelefanten und gefährdete Spitzmaulnashörner. Geologie K7 — Vulkanische Deckschichten und Randstufen.",
+      "factsAdvanced": [
+        "Der Grootberg besteht aus massiven Basaltschichten, die vor über 130 Millionen Jahren abgelagert wurden.",
+        "Das markante u-förmige Tal auf der Westseite bietet einen Panoramablick über das gesamte Damaraland.",
+        "Auf dem Rand des Plateaus befindet sich die Grootberg Lodge, die zu 100% einer lokalen Conservancy gehört.",
+        "Die Klippen bieten perfekten Lebensraum für zahlreiche Felsenadler (Verreaux-Adler).",
+        "Aufgrund der steilen Flanken (Escarpment) sind große Teile des Berges für Fahrzeuge völlig unzugänglich.",
+        "Unterhalb des Massivs erstrecken sich weite Ebenen voller rötlicher Mopane-Bäume."
+      ]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "descriptionAdvanced": "Das Relief der Epupa-Fälle ist eine dramatische Anomalie im Verlauf des Kunene-Flusses an der Grenze zu Angola. Hier durchbricht der Fluss einen mächtigen Quarzit-Damm und stürzt nicht in einem einzigen, großen Fall hinab, sondern fächert sich auf und fällt kaskadenartig über eine Strecke von etwa eineinhalb Kilometern in ein extrem zerklüftetes, tief eingeschnittenes Gesteinslabyrinth. Die Erosion hat den Fels in unzählige kleine, schroffe Inseln gespalten, auf denen majestätische, teils über die Abgründe hinausragende Baobab-Bäume (Affenbrotbäume) balancieren. Der ständige, feine Wassernebel hat das Mikroklima verändert und eine üppige, fast tropische Miniatur-Dschungelwelt direkt auf den blanken Felsklippen mitten in der ansonsten toten Felswüste geschaffen. Geomorphologie K6 — Flussbett-Katarakte und Mikroklima.",
+      "factsAdvanced": [
+        "Die Epupa-Fälle stürzen sich kaskadenförmig über hartes, erosionsresistentes Quarzitgestein.",
+        "Der Fluss spaltet sich auf dem Relief in ein komplexes Netzwerk aus Wasserkanälen und Felsinseln.",
+        "Die tiefste Schlucht (Main Gorge) hat eine maximale vertikale Fallhöhe von 37 Metern.",
+        "Der aufsteigende Nebel fördert das Wachstum von Moosen und Farnen direkt an den heißen Klippen.",
+        "Die umliegenden Felsformationen reflektieren den Schall, wodurch das Wasser ohrenbetäubend laut dröhnt.",
+        "Das Relief ist so verwinkelt, dass zahlreiche Krokodile in versteckten, ruhigen Seitenpools jagen können."
+      ]
+    },
+    {
+      "id": "khoe-khoe-mountains-relief-v2",
+      "descriptionAdvanced": "Die Khoe-Khoe-Berge, die topografisch die nördlichsten Ausläufer der Randstufe formen, sind eine spektakuläre und oft unbarmherzige Felsregion im Kaokoland. Das Relief ist gekennzeichnet durch spitz zulaufende Grate, enge Schluchten und tiefe, V-förmige Erosionstäler, die von temporären Sturzfluten tief in das Sedimentgestein gegraben wurden. Wegen der gnadenlosen Hitze und des extremen Wassermangels gehört diese Kette zu den unwirtlichsten Regionen Namibias. Die schroffen Berghänge wirken wie riesige Treppenstufen, auf denen lose Felsblöcke und grober Schotter das Vorankommen nahezu unmöglich machen. Nur die anspruchslosesten Gewächse, wie stachelige Akazien oder die hochgiftige Milchbusch-Euphorbia, klammern sich in die Felsspalten dieses isolierten Bergmassivs. Geografie K7 — Hochland-Erosion und isolierte Trockenmassive.",
+      "factsAdvanced": [
+        "Das Gebirge bildet eine extrem schroffe natürliche Barriere zwischen dem Binnenland und der Skelettküste.",
+        "Das Relief ist so unzugänglich, dass es bis heute große Gebiete gibt, die kaum kartiert sind.",
+        "Auf den kahlen Bergkämmen (Ridges) erreichen die Oberflächentemperaturen im Sommer bis zu 60 Grad Celsius.",
+        "In den Tälern (Riviere) sammeln nomadische Himba gelegentlich Wasser aus tief gebohrten Löchern.",
+        "Die dunkle Verfärbung der Steine resultiert aus intensiver Sonneneinstrahlung ('Wüstenlack').",
+        "Das raue Gelände dient als seltener Zufluchtsort für das endemische Hartmann-Bergzebra."
+      ]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "descriptionAdvanced": "Ongongo, versteckt in der extrem felsigen und staubigen Wildnis der Kunene-Region, ist ein wahrhaftiges morphologisches Wunder. Das Relief bildet hier eine natürliche, tief ins Dolomit- und Kalkgestein gefräste Felsschlucht, an deren Ende eine artesische Quelle entspringt. Über Jahrtausende hinweg hat das konstante Wasser einen tiefen, kristallklaren Pool ('Ongongo Waterfall') am Fuß eines kreisrunden, amphitheaterartigen Klippenkessels ausgehöhlt. Dieser natürliche Swimmingpool, umgeben von schattigen Bäumen und senkrechten weißen Felswänden, wirkt völlig deplatziert im trockenen Kaokoland. Es ist ein perfektes Beispiel dafür, wie lokale Karstquellen in einer trockenen Gebirgslandschaft winzige, von der Außenwelt isolierte Oasen formen können. Geografie K5 — Artesische Quellen und Karstschluchten.",
+      "factsAdvanced": [
+        "Ongongo bedeutet in der lokalen Herero-Sprache 'Ort der Magie' oder 'magisches Wasser'.",
+        "Die Felsenschlucht besteht primär aus hellem Dolomitgestein, das vom warmen Wasser ausgewaschen wurde.",
+        "Das Wasser in dem tiefen Felsenpool hat oft eine angenehm kühle und konstante Temperatur.",
+        "Der Kessel wirkt wie ein Amphitheater, wobei die Felswände den Ort fast gänzlich vor Wind schützen.",
+        "Die Quelle führt auch während schwerer jahrelanger Dürreperioden verlässlich kristallklares Wasser.",
+        "Ongongo liegt abseits der Piste nahe der Siedlung Warmquelle im entlegenen Nordwesten."
+      ]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "descriptionAdvanced": "Das Relief der Palmwag-Konzession im nördlichen Damaraland präsentiert eine atemberaubende Mondlandschaft. Es ist berühmt für seine weiten, welligen Ebenen aus rötlich oxidiertem Basaltgestein, die von tiefen Trockenflüssen durchschnitten werden. Ein besonderes topografisches Merkmal sind die weiten Flächen mit sogenanntem 'Etendeka-Lava-Geröll', das den Boden wie grober Schotter überzieht und Fahrzeugreifen innerhalb von Minuten zerschneiden kann. Mitten in dieser scheinbar trostlosen, roten Vulkanwüste erheben sich vereinzelt weiche, grüne Oasen rund um natürliche Quellen, an denen Makalani-Palmen wachsen (daher der Name Palmwag). Das harte, zerkratzte Relief ist die unbestrittene Heimat der größten freilebenden Spitzmaulnashorn-Population der Erde. Geologie K8 — Vulkanische Schotterebenen und Wüstenquellen.",
+      "factsAdvanced": [
+        "Die Landschaft ist stark von verwitterten Basalt-Lavaschichten ('Etendeka-Basalte') geprägt.",
+        "Die rot-braunen, spitzen Felsbrocken stammen aus gewaltigen Vulkanausbrüchen vor 130 Millionen Jahren.",
+        "Die Konzession erstreckt sich über eine massive Fläche von fast 5.000 Quadratkilometern.",
+        "Die Landschaft wird durch große Trockenflüsse wie den Uniab und den Huab tief eingeschnitten.",
+        "Die rauen Basaltebenen speichern Feuchtigkeit extrem schlecht, wodurch Pflanzen nur in Tälern gedeihen.",
+        "Trotz des abweisenden Reliefs ist die Palmwag-Region ein Paradies für Wüstenelefanten und Wüstenlöwen."
+      ]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "descriptionAdvanced": "Die Urichab-Berge (oft zu den entlegenen Ausläufern des Khomas-Hochlandes gezählt) sind ein klassisches namibisches Faltengebirge, das durch seine tiefe Einsamkeit besticht. Das Relief zeichnet sich durch scharfe, parallel verlaufende Bergrücken aus metamorphem Gestein (Glimmerschiefer) aus, die von der Erosion beinahe rasiermesserscharf in den Himmel geschnitten wurden. Die Täler zwischen den Graten sind extrem eng und mit losem Geröll gefüllt, was das Wandern oder Durchqueren der Landschaft unglaublich kräftezehrend macht. Vegetation ist spärlich und beschränkt sich auf ausdauernde Büsche, die sich in die Felsspalten klammern. Die Berge werfen bei Sonnenaufgang und -untergang tiefe, dramatische Schatten, die die harte und kompromisslose Topografie dieser Faltenlinien betonen. Geologie K7 — Faltengebirge und metamorphes Gestein.",
+      "factsAdvanced": [
+        "Das Relief wurde durch massive tektonische Kollisionen vor fast 600 Millionen Jahren ('Pan-Afrikanische Orogenese') gefaltet.",
+        "Die Bergrücken bestehen großteils aus sehr hartem Quarzit und extrem schieferhaltigem Gestein.",
+        "An den Flanken der Berge bilden sich ausgedehnte, stark erosionsgefährdete Schuttkegel ('Talus').",
+        "Die Täler (Synklinalen) bleiben meist völlig wasserlos, da der Regen am harten Gestein extrem schnell abfließt.",
+        "Aufgrund der Abgeschiedenheit ist das Gebirge fast völlig frei von landwirtschaftlichen Zäunen.",
+        "Dichte Felder von extrem scharfkantigen Sukkulenten (wie Kap-Aloe) erschweren die Begehung des Reliefs."
+      ]
+    }
+  ]
+}

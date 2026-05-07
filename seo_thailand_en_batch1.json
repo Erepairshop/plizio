@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangkok-cities-v2",
+      "descriptionAdvanced": "Bangkok, known locally as Krung Thep Maha Nakhon, is the vibrant heart of Thailand and one of the world's most visited cities. Established as the capital in 1782 by King Rama I, it evolved from a small trading post on the banks of the Chao Phraya River into a sprawling megacity. The urban landscape is a fascinating mix of ancient gold-spired temples, such as Wat Arun and Wat Pho, standing alongside futuristic skyscrapers and luxury malls. Bangkok is world-renowned for its street food scene, where Michelin-starred stalls compete with traditional vendors in bustling districts like Chinatown (Yaowarat). The city also serves as the nation's political, economic, and cultural hub, hosting the Grand Palace and numerous government institutions. Despite its modern hustle, the city maintains a deep connection to its canals (khlongs), earning it the nickname 'Venice of the East.'",
+      "factsAdvanced": [
+        "The city's full ceremonial name holds the record for the longest place name in the world.",
+        "Bangkok was built on a series of canals, which once served as the primary transport routes.",
+        "The Grand Palace, built in 1782, was the official residence of the Kings of Siam for 150 years.",
+        "Wat Pho houses the largest collection of Buddha images in Thailand, including the Reclining Buddha.",
+        "The city is home to the world's largest Chinatown, known as Yaowarat.",
+        "Bangkok's BTS Skytrain and MRT Subway systems handle millions of commuters daily.",
+        "The city consistently ranks as the world's top destination for international tourists.",
+        "Bangkok's climate is tropical, often cited as one of the hottest cities globally year-round."
+      ]
+    },
+    {
+      "id": "chiang-mai-cities-v2",
+      "descriptionAdvanced": "Chiang Mai, the 'Rose of the North,' was founded in 1296 as the capital of the Lanna Kingdom. Nestled among the highest mountains in Thailand, the city's historic center is still partially enclosed by defensive walls and a moat, reflecting its strategic importance in ancient times. Chiang Mai is a spiritual haven, home to over 300 Buddhist temples, including the iconic Wat Phra Singh and Wat Chedi Luang. Unlike the fast-paced life of Bangkok, Chiang Mai offers a more laid-back atmosphere, deeply rooted in Northern Thai traditions, handicrafts, and unique Lanna cuisine. The city is a hub for digital nomads and artists, drawn by its blend of modern amenities and cultural richness. Its proximity to national parks like Doi Inthanon makes it a premier destination for nature lovers and trekkers seeking to explore Thailand's misty highlands.",
+      "factsAdvanced": [
+        "Founded by King Mangrai in 1296 as the successor to Chiang Rai.",
+        "The Old City is a perfect square surrounded by a moat and restored brick walls.",
+        "Wat Phra That Doi Suthep, overlooking the city, is one of Thailand's most sacred temples.",
+        "The city hosts the famous Sunday Night Walking Street, a massive open-air market.",
+        "Chiang Mai is the center of the Lanna culture, distinct from central Thai culture.",
+        "It was once a separate kingdom before being annexed by Siam in the late 18th century.",
+        "The city is famous for its silver-working, wood-carving, and silk-weaving industries.",
+        "The annual Yi Peng Lantern Festival sees thousands of lanterns released into the night sky."
+      ]
+    },
+    {
+      "id": "phuket-city-cities-v2",
+      "descriptionAdvanced": "Phuket City, the capital of Thailand's largest island, is a treasure trove of cultural heritage often overlooked by beach-bound tourists. The heart of the city is its Old Town, where the legacy of the 19th-century tin mining boom is preserved in beautifully restored Sino-Portuguese shophouses. These colorful buildings, featuring ornate facades and arched walkways, reflect a unique blend of Chinese and European architectural influences. Historically, Phuket was a vital stop on the maritime trade route between India and China, attracting Hokkien Chinese immigrants who significantly influenced the local culture, religion, and gastronomy. Today, the city is a vibrant culinary destination, recognized by UNESCO as a City of Gastronomy. Beyond its architecture, Phuket City serves as the island's administrative and commercial hub, offering a sophisticated mix of traditional markets, boutique hotels, and contemporary art galleries.",
+      "factsAdvanced": [
+        "Phuket City's Old Town is famous for its Sino-Portuguese architecture from the tin-mining era.",
+        "The city was designated a UNESCO Creative City of Gastronomy in 2015.",
+        "Thalang Road is the main artery of the Old Town, hosting the weekly Sunday market.",
+        "The Thai Hua Museum tells the story of Chinese immigrants in Phuket.",
+        "Jui Tui Shrine is one of the oldest and most respected Chinese temples in the city.",
+        "Phuket City was a major hub for the tin trade in Southeast Asia during the 19th century.",
+        "The city hosts the colorful and intense Phuket Vegetarian Festival every October.",
+        "Soi Rommanee was once the red-light district but is now a trendy, colorful alleyway."
+      ]
+    },
+    {
+      "id": "pattaya-cities-v2",
+      "descriptionAdvanced": "Pattaya is a dynamic resort city located on the eastern coast of the Gulf of Thailand, just 150 kilometers from Bangkok. Once a quiet fishing village, it transformed into a major tourism destination during the 1960s when it served as a R&R (Rest and Relaxation) spot for American soldiers during the Vietnam War. Today, Pattaya is known for its diverse attractions, ranging from vibrant nightlife and water sports to family-friendly theme parks and cultural landmarks. The city's skyline is dominated by high-rise condominiums and luxury hotels, reflecting its status as a premier retirement and vacation hub. Notable sites include the Sanctuary of Truth, a massive wooden structure carved entirely by hand, and the hillside Big Buddha Temple. While famous for its lively Walking Street, the city has recently rebranded itself to attract more diverse travelers, focusing on high-end dining, golf courses, and nearby island getaways like Koh Larn.",
+      "factsAdvanced": [
+        "Pattaya was a quiet fishing village until U.S. troops discovered it in the 1960s.",
+        "The Sanctuary of Truth is a 105-meter-high building made entirely of wood without metal nails.",
+        "Pattaya is home to the world's first Cartoon Network-themed water park.",
+        "The city hosts the annual Pattaya International Music Festival, one of the largest in Asia.",
+        "Walking Street is one of Thailand's most famous nightlife zones, closed to vehicles in the evening.",
+        "The nearby Koh Larn (Coral Island) is a popular spot for day-trip snorkeling and diving.",
+        "Pattaya has its own special administrative status, separate from Chonburi's provincial government.",
+        "The city features a 4-kilometer-long beach crescent lined with shops and hotels."
+      ]
+    },
+    {
+      "id": "nonthaburi-cities-v2",
+      "descriptionAdvanced": "Nonthaburi, located directly north of Bangkok, is the second-largest city in Thailand and an integral part of the Greater Bangkok Metropolitan Area. Despite its proximity to the capital, Nonthaburi retains its own distinct identity, characterized by historic riverside communities and traditional pottery industries. The city is situated along the Chao Phraya River, which serves as a vital transportation artery. One of its most famous landmarks is Koh Kret, an island in the river inhabited by the Mon people, renowned for their intricate hand-thrown terracotta pottery. Nonthaburi is also known for its lush fruit orchards, particularly its premium durians, which are considered among the finest and most expensive in the world. The city seamlessly blends suburban residential areas with bustling markets, such as the Nonthaburi Market, and grand government complexes, including the Ministry of Public Health.",
+      "factsAdvanced": [
+        "Nonthaburi is the second most populous city in Thailand after Bangkok.",
+        "The city is famous for the 'Nonthaburi Durian,' often sold for thousands of dollars per fruit.",
+        "Koh Kret is an artificial island formed by a canal bypass in 1722, home to the Mon community.",
+        "The Nonthaburi Pier features a clock tower that is a well-known local meeting point.",
+        "The city's old provincial hall is a beautiful example of traditional wooden architecture.",
+        "It is home to Wat Chaloem Phra Kiat, a royal temple built by King Rama III.",
+        "Nonthaburi is a major hub for the Chao Phraya Express Boat service to Bangkok.",
+        "The city has experienced rapid growth due to the expansion of the Bangkok MRT Purple Line."
+      ]
+    },
+    {
+      "id": "udon-thani-cities-v2",
+      "descriptionAdvanced": "Udon Thani is a major regional hub in Northeast Thailand, famously known as the gateway to Laos and the Indochina region. The city gained international prominence during the Vietnam War as the site of a large U.S. Air Force base, which left a lasting impact on its infrastructure and cosmopolitan feel. Today, Udon Thani is a bustling commercial center with a large expatriate community and modern shopping complexes. It serves as a base for exploring the nearby Ban Chiang Archaeological Site, a UNESCO World Heritage site that revealed evidence of a sophisticated prehistoric bronze-age culture. One of the city's most breathtaking natural spectacles is the Red Lotus Sea (Talay Bua Daeng) located just outside the urban area, where millions of pink lotuses bloom on a large freshwater lake during the winter months. The city's parks, particularly Nong Prajak Park, are central to local life, providing green spaces for recreation and exercise.",
+      "factsAdvanced": [
+        "Udon Thani was a strategic U.S. Air Force base location during the Vietnam War.",
+        "The nearby Ban Chiang is one of the world's most important prehistoric settlements.",
+        "The 'Red Lotus Sea' (Nong Han) features millions of blooming lotuses from December to February.",
+        "Udon Thani has one of Thailand's largest Vietnamese-Thai communities.",
+        "The city is a major transportation link between Bangkok and Vientiane, the capital of Laos.",
+        "Nong Prajak Park is famous for its giant inflatable yellow ducks on the lake.",
+        "Udon Sunshine Orchid Farm is known for its fragrant orchids used in perfume production.",
+        "The city's airport is a key regional hub for Northeast Thailand (Isan)."
+      ]
+    },
+    {
+      "id": "nakhon-ratchasima-cities-v2",
+      "descriptionAdvanced": "Nakhon Ratchasima, commonly known as Korat, is the largest city in Northeast Thailand and serves as the traditional gateway to the Isan region. Located on the western edge of the Khorat Plateau, it has historically functioned as a strategic buffer between the central Thai plains and the eastern provinces. The city is deeply proud of its history, centered around the heroine Thao Suranari (Ya Mo), who famously led the local resistance against an invading Lao army in 1826. Her monument in the city center is a major site of pilgrimage and veneration. Korat is a hub for trade, education, and industry, hosting several major universities and manufacturing plants. It is also the primary jumping-off point for visitors to Khao Yai National Park, Thailand's first national park, and the stunning Khmer ruins at Phimai Historical Park, which rival the architecture of Angkor Wat in Cambodia.",
+      "factsAdvanced": [
+        "Nakhon Ratchasima is often called 'Korat,' a shortened version of its ancient name.",
+        "The Thao Suranari Monument commemorates a local woman who saved the city from invasion in 1826.",
+        "It is the main gateway to the Isan region, connected by the historic Friendship Highway.",
+        "The city is home to the world-class Korat Fossil Museum, featuring ancient elephants and dinosaurs.",
+        "Nakhon Ratchasima was a key airbase for the U.S. Air Force during the 1960s and 70s.",
+        "The city is famous for its Korat cats, a blue-gray breed considered a symbol of good luck.",
+        "Phimai Historical Park, accessible from the city, features 11th-century Khmer architecture.",
+        "The city's silk industry, particularly in Pak Thong Chai, is world-renowned."
+      ]
+    },
+    {
+      "id": "hat-yai-cities-v2",
+      "descriptionAdvanced": "Hat Yai is the largest city in Southern Thailand and a vibrant commercial crossroads located near the border with Malaysia. Often mistaken for the provincial capital, Hat Yai actually eclipses Songkhla in size and economic activity. It is a major hub for tourism, shopping, and logistics, attracting millions of visitors annually, particularly from neighboring Malaysia and Singapore. The city is famous for its diverse markets, such as Kim Yong Market and Santisuk Market, where everything from imported goods and electronics to local snacks like roasted cashews can be found. Hat Yai is also a center for education and healthcare, hosting the prestigious Prince of Songkla University. Cultural attractions include the Hat Yai Municipal Park, which offers panoramic views of the city and houses a giant standing Buddha statue. The city's culinary scene is a unique fusion of Thai, Chinese, and Malay influences, making it a paradise for food lovers.",
+      "factsAdvanced": [
+        "Hat Yai is the largest city in the South, though not the provincial capital of Songkhla.",
+        "It is a major shopping destination for Malaysians due to its proximity to the border.",
+        "The city's name comes from 'Mahat Yai,' meaning 'Big Mahat Tree.'",
+        "Kim Yong Market is one of the most famous traditional markets in all of Thailand.",
+        "The Hat Yai Cable Car was Thailand's first cable car, located in the Municipal Park.",
+        "Wat Hat Yai Nai houses the world's third-largest reclining Buddha statue.",
+        "The city is a key junction for the Southern Line railway connecting Bangkok to Singapore.",
+        "Hat Yai is a major center for the rubber industry in Southeast Asia."
+      ]
+    },
+    {
+      "id": "ayutthaya-cities-v2",
+      "descriptionAdvanced": "Ayutthaya, or Phra Nakhon Si Ayutthaya, was the glorious capital of the Kingdom of Siam for over 400 years, from 1350 to 1767. At its peak, it was one of the largest and most prosperous cities in the world, a global center of trade where merchants from Europe and Asia marveled at its hundreds of gold-laden temples and palaces. Strategically located on an island surrounded by three rivers, it was considered invincible until it was destroyed by an invading Burmese army in 1767. Today, the Ayutthaya Historical Park, a UNESCO World Heritage site, preserves the atmospheric ruins of this once-mighty empire. Iconic sites include Wat Mahathat, famous for the Buddha head entwined in tree roots, and the towering prangs of Wat Chaiwatthanaram. The modern city of Ayutthaya thrives alongside these ancient monuments, offering a unique blend of historical reverence and contemporary Thai life, famous for its giant river prawns and traditional candy floss wraps (Roti Sai Mai).",
+      "factsAdvanced": [
+        "Ayutthaya was the capital of Siam for 417 years under 35 different kings.",
+        "At its zenith in the 1700s, the city had an estimated population of over 1 million people.",
+        "The Ayutthaya Historical Park was designated a UNESCO World Heritage site in 1991.",
+        "Wat Mahathat is world-famous for the sandstone Buddha head naturally embraced by banyan tree roots.",
+        "The city's island geography was created by digging a canal to connect the three rivers.",
+        "Foreign settlements, including Portuguese, Dutch, and Japanese, existed outside the city walls.",
+        "Ayutthaya was a major center for Theravada Buddhism in Southeast Asia.",
+        "The 1767 destruction was so complete that the capital had to be moved to Thonburi and then Bangkok."
+      ]
+    },
+    {
+      "id": "khon-kaen-cities-v2",
+      "descriptionAdvanced": "Khon Kaen is a major educational, political, and commercial center in Northeast Thailand (Isan). As one of the 'Big Four' cities of the region, it plays a crucial role in the development of the Indochina trade route. The city is home to Khon Kaen University, the largest and most prestigious higher education institution in Isan, which gives the city a youthful and intellectual atmosphere. Khon Kaen is also a center for the regional silk industry, specifically the intricate 'Mudmee' silk, which is a significant part of the local cultural heritage. The city is centered around the scenic Bueng Kaen Nakhon Lake, a popular spot for evening exercise and dining. Landmarks include the nine-story stupa of Wat Nong Wang, which offers a commanding view of the city. Khon Kaen is also known for its paleontological significance; the first dinosaur fossils in Thailand were discovered in the nearby Phu Wiang National Park, leading to the city's association with dinosaur tourism.",
+      "factsAdvanced": [
+        "Khon Kaen University is the primary educational hub for the entire Northeast region.",
+        "The city is famous for 'Mudmee' silk, a traditional hand-woven fabric with tie-dye patterns.",
+        "Wat Nong Wang's 9-story stupa (Phra Mahathat Kaen Nakhon) houses sacred Buddha relics.",
+        "The first dinosaur fossil in Thailand (Phuwiangosaurus sirindhornae) was found nearby.",
+        "Bueng Kaen Nakhon is a 600-acre lake in the city center used for recreation.",
+        "The city is a key station on the State Railway of Thailand's Northeastern Line.",
+        "Khon Kaen hosts the International Silk Festival every year in late November.",
+        "The city has been designated as a 'MICE City' (Meetings, Incentives, Conventions, and Exhibitions)."
+      ]
+    },
+    {
+      "id": "surat-thani-cities-v2",
+      "descriptionAdvanced": "Surat Thani, whose name translates to 'City of Good People,' is a vital transportation and administrative hub in Southern Thailand. Situated near the mouth of the Tapi River on the Gulf of Thailand, the city serves as the main gateway for travelers heading to the world-famous islands of Koh Samui, Koh Phangan, and Koh Tao. Historically, the area was part of the ancient Srivijaya Empire, a fact reflected in the archaeological finds at nearby Chaiya. While many tourists pass through Surat Thani quickly, those who stay discover a city rich in southern Thai culture and exceptional cuisine, particularly its oysters and salted duck eggs. The city is surrounded by vast plantations of rubber and palm oil, which drive the local economy. A boat trip along the Tapi River at night offers a magical view of fireflies, while the nearby Khao Sok National Park provides some of the most stunning rainforest and limestone scenery in Southeast Asia.",
+      "factsAdvanced": [
+        "The name 'Surat Thani' was bestowed by King Rama VI in 1915.",
+        "It is the largest province in Southern Thailand by land area.",
+        "The city is the primary hub for ferries and speedboats to the Samui Archipelago.",
+        "Surat Thani is famous for its large, fresh oysters, considered the best in Thailand.",
+        "Chaiya, located nearby, was an important center of the 8th-century Srivijaya Empire.",
+        "The province produces a significant portion of Thailand's rubber and palm oil.",
+        "The Monkey Training College in Surat Thani teaches macaques to harvest coconuts.",
+        "The Tapi River is the longest river in Southern Thailand, flowing into the Bandon Bay."
+      ]
+    },
+    {
+      "id": "chiang-rai-cities-v2",
+      "descriptionAdvanced": "Chiang Rai is Thailand's northernmost major city, established in 1262 by King Mangrai as the first capital of the Lanna Kingdom. Located near the borders of Myanmar and Laos, it is the center of the famous 'Golden Triangle' region. While often overshadowed by its sister city Chiang Mai, Chiang Rai has gained international fame for its unique and contemporary religious architecture. The most iconic is Wat Rong Khun, or the 'White Temple,' a surreal masterpiece by artist Chalermchai Kositpipat. This is complemented by the 'Blue Temple' (Wat Rong Suea Ten) and the 'Black House' (Baan Dam Museum), which showcase the darker, more avant-garde side of Northern Thai art. The city serves as a base for exploring the surrounding mountains, home to numerous ethnic hill tribes and lush tea plantations like Choui Fong. Chiang Rai offers a tranquil atmosphere, rich in history and artistic innovation, making it a must-visit for cultural explorers.",
+      "factsAdvanced": [
+        "Chiang Rai was the first capital of the Lanna Kingdom, founded before Chiang Mai.",
+        "The White Temple (Wat Rong Khun) is an ongoing art project started in 1997.",
+        "Chiang Rai is the gateway to the Golden Triangle, where the Mekong and Ruak rivers meet.",
+        "The city's Clock Tower, designed by the same artist as the White Temple, features a light show.",
+        "The Blue Temple (Wat Rong Suea Ten) is known for its vivid sapphire interior.",
+        "Baan Dam Museum (Black House) was the residence of national artist Thawan Duchanee.",
+        "The region is home to several hill tribes, including the Akha, Lahu, and Karen.",
+        "Doi Tung, located nearby, features a royal villa and stunning botanical gardens."
+      ]
+    },
+    {
+      "id": "rayong-cities-v2",
+      "descriptionAdvanced": "Rayong is a thriving coastal city on the eastern shore of the Gulf of Thailand, serving as a critical engine for the nation's economy. It is the heart of the Eastern Economic Corridor (EEC), hosting the massive Map Ta Phut Industrial Estate, one of the largest petrochemical hubs in Southeast Asia. Despite its industrial significance, Rayong is equally famous for its natural beauty and agricultural bounty. The province boasts over 100 kilometers of coastline, featuring popular beaches and serving as the primary gateway to the idyllic island of Koh Samet. Rayong is also celebrated as the 'Fruit Capital' of Thailand, renowned for its production of high-quality durian, rambutan, and mangosteen. The city has a rich literary history as the birthplace of Sunthorn Phu, Thailand's most famous epic poet. Visitors can enjoy a mix of modern industrial prowess, traditional fishing communities, and vibrant seafood markets along the Ban Phe pier.",
+      "factsAdvanced": [
+        "Rayong is the heart of Thailand's petrochemical and heavy industry sectors.",
+        "The province is a leading producer of fish sauce (nam pla) in Thailand.",
+        "Rayong is the gateway to Koh Samet, a popular island national park.",
+        "The annual Rayong Fruit Festival showcases the region's famous tropical harvests.",
+        "Sunthorn Phu, the 'Shakespeare of Thailand,' was born in the Rayong district.",
+        "The city features the Phra Chedi Klang Nam, a stupa built in the middle of a river mouth.",
+        "Rayong has one of the highest GDP per capita rates in all of Thailand.",
+        "The Khao Chamao-Khao Wong National Park nearby is famous for its waterfalls and caves."
+      ]
+    },
+    {
+      "id": "ubon-ratchathani-cities-v2",
+      "descriptionAdvanced": "Ubon Ratchathani, often simply called Ubon, is a prominent city in the southern part of Northeast Thailand (Isan), located on the banks of the Mun River. The city's name, meaning 'Royal City of the Lotus Blossom,' reflects its historic importance and spiritual heritage. Ubon is most famous for its spectacular Candle Festival, held annually in July to mark the beginning of the Buddhist Lent. During this event, massive, intricately carved wax sculptures are paraded through the streets, showcasing the incredible skill of local artisans. Historically, Ubon was a center for the Laotian and Thai cultures, and it retains a strong Buddhist tradition with numerous beautiful temples like Wat Nong Pa Pong, founded by the revered monk Ajahn Chah. The city is the gateway to the 'Emerald Triangle' where Thailand, Laos, and Cambodia meet, and it serves as a base for visiting the stunning rock formations of Pha Taem National Park and the Sam Pan Bok 'Grand Canyon' of Thailand.",
+      "factsAdvanced": [
+        "The city's name was given by King Rama I in 1792.",
+        "The Ubon Candle Festival is one of Thailand's most famous and elaborate festivals.",
+        "Wat Phra That Nong Bua features a unique rectangular stupa inspired by Bodh Gaya in India.",
+        "Ubon Ratchathani was the site of a U.S. Air Force base during the Vietnam War.",
+        "The city is a major center for the 'Forest Tradition' of Theravada Buddhism.",
+        "Pha Taem National Park nearby features 3,000-year-old prehistoric cliff paintings.",
+        "The Mun River, which flows through the city, is the largest tributary of the Mekong.",
+        "Sam Pan Bok, the '3,000 holes' canyon, is a natural wonder located in the province."
+      ]
+    },
+    {
+      "id": "nakhon-sawan-cities-v2",
+      "descriptionAdvanced": "Nakhon Sawan, literally the 'Heavenly City,' is a major transportation and commercial hub situated in the lower northern region of Thailand. Its most defining geographic feature is 'Pak Nam Pho,' the confluence where the Ping and Nan rivers meet to form the mighty Chao Phraya River, the lifeline of the nation. Historically, this strategic location made Nakhon Sawan a crucial trading post between Northern Thailand and the central plains. The city is famous for its vibrant Chinese community, which has significantly influenced local culture and commerce. This is most evident during the annual Chinese New Year Festival, featuring spectacular dragon and lion dances that are considered among the best in the country. Landmarks include the hilltop Wat Khiriwong, which offers panoramic views of the city and the river junction, and Bueng Boraphet, Thailand's largest freshwater swamp and a haven for birdwatchers and nature enthusiasts.",
+      "factsAdvanced": [
+        "The city is the birthplace of the Chao Phraya River, formed by the Ping and Nan rivers.",
+        "The name 'Nakhon Sawan' means 'Heavenly City' in Thai.",
+        "The annual Chinese New Year celebration in Nakhon Sawan lasts for 12 days.",
+        "Bueng Boraphet is Thailand's largest freshwater lake and swamp, covering 212 sq km.",
+        "The city is a major center for rice trading and agricultural logistics.",
+        "Wat Khiriwong features a massive golden pagoda (Phra Chulamanee) on a hill.",
+        "The Dechatiwong Bridge is a vital transport link between Central and Northern Thailand.",
+        "Nakhon Sawan hosts a large aquarium at Bueng Boraphet showcasing local freshwater fish."
+      ]
+    },
+    {
+      "id": "nakhon-si-thammarat-cities-v2",
+      "descriptionAdvanced": "Nakhon Si Thammarat is one of Thailand's most ancient and culturally significant cities, located in the southern part of the country. Historically known as Ligor, it was the capital of a powerful kingdom that played a central role in the spread of Theravada Buddhism across the Thai peninsula. The city's spiritual heart is Wat Phra Mahathat Woramahawihan, home to a massive stupa said to contain a tooth relic of the Buddha. This temple is a major site of pilgrimage, especially during the jhrliche 'Hae Pha Khuen That' festival. Nakhon Si Thammarat is also the birthplace of 'Nang Talung' (shadow puppetry) and 'Niello' silverware, traditional arts that are still practiced and celebrated today. The city is surrounded by diverse landscapes, from the beaches of Khanom, famous for pink dolphins, to the lush mountains of Khao Luang National Park, which contains some of the highest peaks in Southern Thailand and the pristine village of Kiriwong.",
+      "factsAdvanced": [
+        "Nakhon Si Thammarat is one of the oldest cities in Thailand, dating back over 1,500 years.",
+        "Wat Phra Mahathat features a 78-meter-high stupa crowned with solid gold.",
+        "The city is the traditional center of Thai shadow puppetry (Nang Talung).",
+        "It was a major port on the maritime Silk Road connecting India and China.",
+        "The nearby village of Kiriwong is claimed to have the cleanest air in Thailand.",
+        "Nakhon Si Thammarat is famous for its unique 'Nielloware' (khruang thom) silver craft.",
+        "The province is home to pink dolphins, often spotted in the waters near Khanom.",
+        "The 'Hae Pha Khuen That' festival involves wrapping a long piece of holy cloth around the stupa."
+      ]
+    },
+    {
+      "id": "phitsanulok-cities-v2",
+      "descriptionAdvanced": "Phitsanulok is a major historical and strategic city in the lower north of Thailand, situated on the banks of the Nan River. Known as the birthplace of King Naresuan the Great, who liberated Siam from Burmese rule in the 16th century, the city holds a deep sense of national pride. Its most revered landmark is Wat Phra Si Rattana Mahathat, which houses the Phra Phuttha Chinnarat, widely considered the most beautiful Buddha image in Thailand. This golden statue is so highly regarded that numerous replicas exist in temples across the country, including the Marble Temple in Bangkok. Phitsanulok serves as a vital transportation hub, connecting the central plains with the northern and northeastern regions. Despite a devastating fire in the 1950s that destroyed much of the old wooden city, Phitsanulok has rebuilt into a modern regional center while preserving its spiritual heritage and its unique tradition of houseboat communities along the river.",
+      "factsAdvanced": [
+        "Phitsanulok was the capital of the Ayutthaya Kingdom for 25 years during the 15th century.",
+        "The Phra Phuttha Chinnarat is considered by many Thais to be the most beautiful Buddha statue.",
+        "The city is the birthplace of King Naresuan the Great and his brother King Ekathotsarot.",
+        "Phitsanulok is located at the crossroads of the East-West and North-South economic corridors.",
+        "The Sgt. Maj. Thawee Folk Museum in the city is a renowned collection of traditional Thai tools.",
+        "The city is famous for its 'flying morning glory' (phak bung loi fa) cooking performance.",
+        "Phitsanulok hosts a major annual boat racing festival on the Nan River.",
+        "The Chan Royal Palace ruins mark the birthplace of King Naresuan."
+      ]
+    },
+    {
+      "id": "kanchanaburi-cities-v2",
+      "descriptionAdvanced": "Kanchanaburi is a city in western Thailand known worldwide for its somber history and stunning natural beauty. Located at the confluence of the Kwai Noi and Kwai Yai rivers, it became infamous during World War II as the site of the 'Death Railway' and the Bridge on the River Kwai, built by Allied prisoners of war and Asian laborers under brutal conditions by the Japanese Imperial Army. Today, the city honors this history through the Kanchanaburi War Cemetery and several museums, including the Thailand-Burma Railway Centre. Beyond its wartime legacy, Kanchanaburi is a paradise for outdoor enthusiasts, surrounded by lush jungles, limestone mountains, and emerald-green reservoirs. It is the gateway to Erawan National Park, famous for its seven-tiered waterfall, and the remote hills bordering Myanmar. The city's riverside setting offers a relaxed atmosphere with floating restaurants and guesthouses, making it one of Thailand's most popular destinations for both history buffs and nature lovers.",
+      "factsAdvanced": [
+        "The Bridge on the River Kwai is a real bridge, though the famous movie was filmed in Sri Lanka.",
+        "The 'Death Railway' was intended to connect Bangkok to Yangon (Rangoon) in Burma.",
+        "Over 12,000 Allied POWs and an estimated 90,000 Asian laborers died during the railway's construction.",
+        "The Kanchanaburi War Cemetery (Don-Rak) contains the graves of 6,982 Allied POWs.",
+        "Hellfire Pass is a particularly difficult section of the railway cut through solid rock by hand.",
+        "Erawan Waterfall's tiers are said to resemble the three-headed white elephant of Hindu mythology.",
+        "The city is home to the JEATH War Museum, one of the oldest museums in the area.",
+        "Kanchanaburi is Thailand's third-largest province by land area."
+      ]
+    },
+    {
+      "id": "songkhla-cities-v2",
+      "descriptionAdvanced": "Songkhla is a charming coastal city in Southern Thailand, situated on a narrow peninsula between the Gulf of Thailand and the massive Songkhla Lake. As the provincial capital, it retains a refined and historic atmosphere, distinct from the bustling commercial vibe of nearby Hat Yai. The city's Old Town is a highlight, featuring a blend of Thai, Chinese, and Malay architecture, particularly along Nakhon Nai and Nakhon Nok roads. Songkhla is famous for Samila Beach, where a golden mermaid statue serves as the city's iconic symbol. Historically, the city was an important maritime trading post, influenced by seafaring merchants from across Asia and Europe. Today, it is an administrative and educational hub, known for its seafood, colorful street art, and the Tang Kuan Hill, which offers panoramic views of the lake and the sea. The city's unique position makes it a center for both the fishing industry and offshore oil and gas exploration.",
+      "factsAdvanced": [
+        "Songkhla Lake is the largest natural lake in Thailand, spanning two provinces.",
+        "The Golden Mermaid Statue at Samila Beach is based on a local folk legend.",
+        "The city's Old Town was nominated for UNESCO World Heritage status due to its architecture.",
+        "Songkhla was a separate sultanate before becoming part of the Thai kingdom.",
+        "The National Museum of Songkhla is housed in a beautiful 19th-century Chinese-style palace.",
+        "Ko Yo, an island in Songkhla Lake, is famous for its hand-woven cotton fabrics.",
+        "Tang Kuan Hill features a royal pavilion and a Dvaravati-style stupa.",
+        "The city hosts a significant community of offshore oil and gas workers."
+      ]
+    },
+    {
+      "id": "chonburi-cities-v2",
+      "descriptionAdvanced": "Chonburi is the capital of the eponymous province and a vital industrial and commercial powerhouse on the eastern coast of Thailand. Strategically located along the Gulf of Thailand, it serves as the administrative heart of the Eastern Seaboard, one of the most developed regions in the country. The city is a hub for logistics and manufacturing, supported by the nearby Laem Chabang port, Thailand's largest deep-sea port. While often associated with industry, Chonburi has a rich cultural life and is famous for its annual Buffalo Racing Festival, a tradition that dates back over a century. The city's coastal areas, such as Bang Saen, offer popular weekend getaways for Bangkok residents, featuring long stretches of beach and a vibrant seafood scene. Chonburi is also known for its 'Khao Lam' (sticky rice in bamboo), a local delicacy. As a center of growth, the city seamlessly integrates heavy industry with traditional Thai community life and coastal charm.",
+      "factsAdvanced": [
+        "Chonburi is a central part of the Eastern Economic Corridor (EEC) development project.",
+        "The annual Buffalo Racing Festival (Wing Khwai) is one of Thailand's most unique events.",
+        "Laem Chabang, located in the province, is one of the top 25 busiest ports in the world.",
+        "Bang Saen Beach is the closest major beach to Bangkok, popular for family day trips.",
+        "The city is famous for its 'Khao Lam' (sweet sticky rice cooked in bamboo tubes).",
+        "Chonburi hosts several major industrial estates, including Amata City.",
+        "Ang Sila, a nearby fishing village, is famous for its hand-carved stone mortars.",
+        "The name 'Chonburi' means 'City of Water,' referring to its coastal location."
+      ]
+    }
+  ]
+}

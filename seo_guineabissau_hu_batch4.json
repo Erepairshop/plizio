@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-von-cacheu-economic-v2",
+      "descriptionAdvanced": "Cacheu kikötője az ország egyik legrégebbi kereskedelmi csomópontja a Cacheu-folyó torkolatánál. Bár a nemzetközi teherforgalom nagy része mára Bissau-ba terelődött, a kikötő még mindig létfontosságú a regionális halászat és az északi területek mezőgazdasági termékeinek szállítása szempontjából. Történelmileg ez a kikötő volt a portugál rabszolga-kereskedelem egyik legfőbb nyugat-afrikai bázisa. Ma kisebb teherhajók és halászbárkák (pirogue-ok) használják. A közelben tervezett foszfátbánya miatt a kikötő jövőbeli bővítése és egy mélyvízi terminál építése is felmerült, ami fellendítené a térség gazdaságát. Földrajz K7 — folyami logisztika.",
+      "factsAdvanced": [
+        "A Cacheu-folyó torkolatánál található történelmi kikötő.",
+        "A gyarmati időkben a rabszolga-kereskedelem egyik fő központja volt.",
+        "Jelenleg a helyi halászat és mezőgazdasági szállítás a fő profilja.",
+        "Nagy nemzetközi teherhajókat a folyó sekélysége miatt nem fogad.",
+        "A tervezett farim-i foszfátbánya miatt a bővítése napirenden van.",
+        "Fontos összekötő kapocs a környező szigetek és a szárazföld között."
+      ]
+    },
+    {
+      "id": "port-von-farim-economic-v2",
+      "descriptionAdvanced": "Farim folyami kikötője a Cacheu-folyó felső folyásánál fekszik, stratégiai ponton, ahonnan a szárazföld belsejéből érkező árukat a tengerpart felé továbbítják. A kikötő hagyományosan a földimogyoró és a fát szállító bárkák gyűjtőhelye. Az elmúlt években a figyelem középpontjába került, mivel a közeli, hatalmas foszfátlelőhelyek kiaknázása során ez a kikötő lenne az érc elszállításának kiindulópontja. Ennek érdekében nagyszabású infrastrukturális fejlesztéseket és mederkotrást terveznek. Addig is a kikötő csendes, helyi jelentőségű közlekedési csomópont, amelyet a környékbeli közösségek mindennapos árucserére használnak. Földrajz K8 — nyersanyagszállítás vízi úton.",
+      "factsAdvanced": [
+        "Folyami kikötő a Cacheu-folyó felső szakaszán.",
+        "A belső területek mezőgazdasági termékeinek (földimogyoró, fa) rakodóhelye.",
+        "Kulcsszerepet szánnak neki a jövőbeli foszfát-exportban.",
+        "Mederkotrási és bővítési tervek készültek a nagy teherhajók fogadására.",
+        "A folyó vízállása szezonálisan befolyásolja a hajózhatóságot.",
+        "Jelenleg főként hagyományos áruszállító bárkák (pirogue) használják."
+      ]
+    },
+    {
+      "id": "port-von-cacine-economic-v2",
+      "descriptionAdvanced": "Cacine kikötője Bissau-Guinea legdélibb pontján, a Cacine-folyó torkolatánál található. Elszigeteltsége miatt a szárazföldi infrastruktúra fejletlen, így a kikötő jelenti a legfőbb kapcsolatot a külvilággal. A forgalmat elsősorban a helyi halászat és az illegális, vagy félig legális fakitermelésből származó faanyag szállítása teszi ki. A kikötőből kisebb hajók indulnak a szomszédos Guinea (Conakry) part menti települései felé is. A környék mangrove-erdőinek védelme és a gazdasági érdekek folyamatos konfliktusban állnak. Az ökoturizmus megjelenése a térségben új alternatívát jelenthet a kikötő hasznosítására. Földrajz K7 — izolált partvidékek.",
+      "factsAdvanced": [
+        "Bissau-Guinea legdélibb folyami és tengeri kikötője.",
+        "Létfontosságú a szárazföldi úton nehezen megközelíthető régió számára.",
+        "Jelentős szerepet játszik a trópusi faanyag (gyakran illegális) szállításában.",
+        "Élénk tengeri kapcsolatokat ápol a szomszédos Guineával.",
+        "A helyi halászflotta legfontosabb logisztikai bázisa.",
+        "A környező mangrove-erdők biológiai sokfélesége kiemelkedő."
+      ]
+    },
+    {
+      "id": "port-von-sao-domingos-economic-v2",
+      "descriptionAdvanced": "São Domingos kikötője egy kis forgalmú folyami tranzitpont a szenegáli határ közelében, a Cacheu-folyó északi ágán. Bár a város elsősorban a közúti határátkelőjéről ismert, a folyami szállítás fontos kiegészítője a helyi gazdaságnak. Kisebb áruszállító hajók és halászbárkák horgonyoznak itt, amelyek sót, szárított halat és mezőgazdasági terményeket szállítanak a folyó menti települések és a szomszédos Casamance régió között. A kikötő infrastruktúrája minimális, nagyrészt természetes partfalakból és néhány fa mólóból áll. A csempészet elleni küzdelem miatt a terület fokozott határőri ellenőrzés alatt áll. Társadalomföldrajz K8 — határmenti vízi forgalom.",
+      "factsAdvanced": [
+        "Kisebb folyami kikötő a szenegáli határ közvetlen közelében.",
+        "Kiegészíti a város jelentős közúti határátkelőjének forgalmát.",
+        "A Cacheu-folyó északi ágának tranzitpontja.",
+        "Infrastruktúrája fejletlen, főként kis merülésű hajókat fogad.",
+        "A szárított hal és só kereskedelmének fontos helyszíne.",
+        "Fokozott parti őrségi és vámellenőrzési pont a csempészet miatt."
+      ]
+    },
+    {
+      "id": "port-von-tite-economic-v2",
+      "descriptionAdvanced": "Tite történelmi folyami kikötője a Rio Grande de Buba északi partján található. A portugál gyarmati időkben pezsgő forgalmat bonyolított le, katonai és adminisztratív központként funkcionált. Ma már elsősorban a helyi halászok és a környező falvak közötti mezőgazdasági cserekereskedelem kiszolgálója. A kikötőből szállítják Bissau felé a Quinara régió pálmaolaját, pálmaborát és rizstermését. A kikötő melletti sekély, iszapos partvidék ideális a hagyományos, kivájt fatörzsekből készült kenuk (pirogue) számára. A régi mólók maradványai még ma is láthatók, mementóként szolgálva a múltra. Történelem K7 — gyarmati vízi utak.",
+      "factsAdvanced": [
+        "A Rio Grande de Buba tölcsértorkolatában elhelyezkedő kikötő.",
+        "A gyarmati érában fontos katonai és logisztikai bázis volt.",
+        "Jelenleg a Quinara régió mezőgazdasági termékeinek elosztója.",
+        "A helyi pálmaolaj-kereskedelem egyik legfontosabb tranzitpontja.",
+        "Elsősorban sekély merülésű hagyományos csónakok használják.",
+        "A történelmi portugál kőmólók romjai még megtalálhatók."
+      ]
+    },
+    {
+      "id": "port-von-prabis-economic-v2",
+      "descriptionAdvanced": "Prábis kikötője egy kis, hagyományos halászkikötő, amely Bissau-tól mindössze néhány kilométerre nyugatra található. Mivel a terület mangrove-erdőkkel övezett, a kikötő kialakítása teljesen természetes, az árapály-jelenség nagyban befolyásolja a használhatóságát. A kikötő leginkább az asszonyok által gyűjtött friss osztriga és a helyi halászok napi fogásának kirakodóhelye, amelyet azonnal Bissau piacaira szállítanak. A kikötő környékén élénk fafaragó- és csónaképítő tevékenység zajlik, ahol a hagyományos papel kézművesek készítik és javítják a halászbárkákat. Kulturális antropológia K6 — partmenti mesterségek.",
+      "factsAdvanced": [
+        "Kisméretű, hagyományos halászkikötő a főváros közelében.",
+        "Működését erősen befolyásolja az óceáni árapály-jelenség.",
+        "A főváros hal- és osztrigaellátásának egyik fontos bázisa.",
+        "Természetes partfalakkal, épített betonmólók nélkül üzemel.",
+        "A helyi hagyományos csónaképítés (pirogue) egyik központja.",
+        "A part menti mangrove-ökoszisztéma szerves része."
+      ]
+    },
+    {
+      "id": "port-von-encheia-economic-v2",
+      "descriptionAdvanced": "Encheia kikötője egy csendes, folyóparti megállóhely a Quinara régióban. A kikötő infrastruktúrája szinte alig létezik, a bárkák a lágy, iszapos folyóparton kötnek ki. Ennek ellenére a helyi közösségek számára életfontosságú: itt rakodják be a szigetekre és Bissau-ba szánt ártéri rizst, valamint a környező erdőkből származó tüzifát és faszenet. A kikötő forgalmát teljes egészében a hagyományos, evezős vagy kis motoros pirogue-ok adják. A part mentén gyakran látni a halászhálókat javító és a zsákmányt szárító helyieket. Földrajz K6 — rurális kikötők.",
+      "factsAdvanced": [
+        "Rurális folyami kikötő a Quinara régióban.",
+        "Minimális infrastruktúrával, természetes iszapos parton működik.",
+        "Az ártéri rizs (bolanha) és a faszén kereskedelmének tranzitpontja.",
+        "Kizárólag kis merülésű, hagyományos bárkák fogadására alkalmas.",
+        "A helyi biafada és balanta közösségek mindennapi életének része.",
+        "A part mentén a halak napon történő szárítása is itt zajlik."
+      ]
+    },
+    {
+      "id": "port-von-bion-economic-v2",
+      "descriptionAdvanced": "A Bion-kikötő egy apró, elszigetelt halászkikötő a Biombo régió tagolt, öblökkel teli partvidékén. A terület nehéz megközelíthetősége miatt szinte érintetlen a modern ipari hatásoktól. A kikötőt kizárólag a helyi papel etnikum halászai használják, akik apálykor a kiterjedt iszapmezőkön rákásznak és kagylót gyűjtenek. A falu élete a tenger ritmusához igazodik, a fogást gyakran füstöléssel vagy sózással tartósítják a kikötő melletti kunyhókban, mielőtt a belföldi piacokra szállítanák. A kikötő környezete sűrű mangrove, amely védi a partot a viharoktól. Biológia K7 — árapály-övezetek ökológiája.",
+      "factsAdvanced": [
+        "Elszigetelt, kisméretű halászkikötő a Biombo régióban.",
+        "Az óceáni árapály jelentősen átalakítja a partvonalát naponta.",
+        "A helyi rák- és kagylógyűjtés kiemelt helyszíne.",
+        "A halak füstölése és sózása közvetlenül a parton történik.",
+        "Kizárólag a helyi papel közösség halászhajói használják.",
+        "Sűrű mangrove-növényzet veszi körül, ami védi a partot."
+      ]
+    },
+    {
+      "id": "bissau-reismuehle-economic-v2",
+      "descriptionAdvanced": "A bissaui rizsmalom az ország legfontosabb élelmiszer-feldolgozó létesítményeinek egyike, amely a főváros ipari negyedében található. Bissau-Guinea alapvető élelmiszere a rizs, amelyből az ország jelentős importra is szorul. A malom feladata mind a helyben termelt (bolanha) nyers rizs hántolása és csomagolása, mind pedig az ömlesztve importált rizs feldolgozása a kiskereskedelmi piac számára. Bár az üzem a közelmúltban technológiai felújításon esett át külföldi befektetések révén, a gyakori áramkimaradások sokszor hátráltatják a folyamatos termelést. A létesítmény kulcsszerepet játszik az ország élelmezésbiztonságának javításában. Gazdaságföldrajz K7 — élelmiszeripar és import.",
+      "factsAdvanced": [
+        "Bissau főváros legfontosabb gabonafeldolgozó üzeme.",
+        "Helyi termesztésű és importált nyers rizst is hántol.",
+        "Kulcsszerepet tölt be az ország élelmezésbiztonságában.",
+        "Külföldi fejlesztési tőke bevonásával modernizálták a gépsorokat.",
+        "Az instabil áramellátás gyakran okoz termeléskiesést.",
+        "A készterméket innen osztják szét a helyi piacokra."
+      ]
+    },
+    {
+      "id": "amilcar-cabral-house-history-v2",
+      "descriptionAdvanced": "Amílcar Cabral szülőháza Bafatá városában az ország egyik legfontosabb történelmi és nemzeti zarándokhelye. A szerény, gyarmati stílusú épületben született 1924-ben az a forradalmár, aki később megalapította a PAIGC-t, és vezette Bissau-Guinea és a Zöld-foki szigetek függetlenségi harcát. A házat halála után múzeummá alakították, amely fotókat, személyes tárgyakat és a forradalommal kapcsolatos dokumentumokat mutat be. Bár a kiállítás szerény és a karbantartás időnként akadozik, az épület a nemzeti öntudat és a pán-afrikai felszabadító mozgalmak fontos mementója. Történelem K8 — afrikai felszabadítók.",
+      "factsAdvanced": [
+        "Bafatá városában található történelmi emlékhely.",
+        "Amílcar Cabral, a függetlenségi mozgalom vezetőjének szülőháza (1924).",
+        "A ház jelenleg emlékmúzeumként funkcionál.",
+        "Fényképeket és személyes dokumentumokat állítanak ki a forradalom idejéből.",
+        "Az ország egyik leglátogatottabb nemzeti történelmi helyszíne.",
+        "A pán-afrikai mozgalom szimbóluma."
+      ]
+    },
+    {
+      "id": "bolama-governor-palace-history-v2",
+      "descriptionAdvanced": "A bolamai Kormányzói Palota romjai lenyűgöző és melankolikus látványt nyújtanak a Bijagós-szigetcsoport egyik keleti szigetén. Az épület a 19. század második felében épült neoklasszicista stílusban, amikor Bolama a Portugál Guinea fővárosa volt (1941-ig). Hatalmas oszlopcsarnokai és tágas udvarai az egykori gyarmati birodalom gazdagságát hirdették. Ma a természet lassan visszahódítja az elhagyatott épületet: a repedésekből fák nőnek, és a tetőszerkezet nagy része már beomlott. Az épület romjai ma is vonzzák a történelmi turizmus iránt érdeklődőket, mint a gyarmati elmúlás tökéletes szimbóluma. Történelem K8 — a gyarmati építészet hanyatlása.",
+      "factsAdvanced": [
+        "A volt gyarmati főváros, Bolama legimpozánsabb épülete volt.",
+        "Neoklasszicista stílusban épült a 19. század végén.",
+        "1941-ig a portugál kormányzó hivatalos rezidenciája volt.",
+        "Az épület ma romos állapotban van, a természet lassan benövi.",
+        "Tetőzete beszakadt, de a hatalmas oszlopok még állnak.",
+        "Népszerű célpontja a fotósoknak és az ökoturistáknak."
+      ]
+    },
+    {
+      "id": "madina-boe-site-history-v2",
+      "descriptionAdvanced": "Madina do Boé történelmi emlékhelye az ország függetlenségének bölcsője. Ezen a távoli, erdős hegyvidéken, a Gabú régió délkeleti részén tartotta a PAIGC az első Nemzeti Népgyűlését 1973. szeptember 24-én. Itt kiáltották ki Bissau-Guinea függetlenségét Portugáliától, még mielőtt Lisszabon azt elismerte volna. A helyszínen egy egyszerű, de nagy jelentőségű emlékmű áll, amely a függetlenségi nyilatkozatot és az elesett hősöket ünnepli. Bár a terület nehezen megközelíthető, minden évben megemlékezéseket tartanak itt a függetlenség napján. A környék sűrű erdei biztosítottak egykor védelmet a gerillaharcosoknak. Történelem K8 — függetlenségi nyilatkozatok Afrikában.",
+      "factsAdvanced": [
+        "1973. szeptember 24-én itt kiáltották ki Bissau-Guinea függetlenségét.",
+        "A Gabú régió nehezen megközelíthető, délkeleti hegyvidékén található.",
+        "A PAIGC első Nemzeti Népgyűlésének helyszíne.",
+        "A területen egy szerény, de fontos függetlenségi emlékmű áll.",
+        "A függetlenség napján (szept. 24.) rendszeres állami megemlékezések helyszíne.",
+        "Az egykori gerillatáborok erdős környezete ma is érintetlen."
+      ]
+    },
+    {
+      "id": "guiledje-military-museum-history-v2",
+      "descriptionAdvanced": "A Guiledje Függetlenségi Múzeum a Tombali régió déli erdeiben található, egy korábbi portugál erődített tábor helyén. 1973-ban a PAIGC erők itt aratták a háború egyik legfontosabb győzelmét, amikor elfoglalták az addig bevehetetlennek hitt támaszpontot. A múzeumot a veteránok kezdeményezésére hozták létre, és lenyűgöző gyűjteményt mutat be az ostrom során használt fegyverekből (köztük szovjet RPG-k és légvédelmi ágyúk), járművekből és személyes tárgyakból. A helyszínen láthatók a korabeli lövészárkok és a tüzérségi állások maradványai is. A múzeum az ország büszkeségének egyik legfőbb jelképe. Történelem K8 — hadtörténet és dekolonizáció.",
+      "factsAdvanced": [
+        "Egy egykori portugál katonai támaszpont helyén épült fel.",
+        "A PAIGC 1973-as sorsdöntő katonai győzelmének állít emléket.",
+        "Gazdag gyűjteménnyel rendelkezik a háborúban használt szovjet fegyverekből.",
+        "Korabeli lövészárkok és bunkerek is megtekinthetők a helyszínen.",
+        "Háborús veteránok és történészek közös munkájával hozták létre.",
+        "Bissau-Guinea legfontosabb hadtörténeti intézménye."
+      ]
+    },
+    {
+      "id": "cacheu-historic-center-history-v2",
+      "descriptionAdvanced": "Cacheu történelmi óvárosa Bissau-Guinea legelső európai alapítású településének magja, amelyet 1588-ban hoztak létre a portugálok. A városközpont legkiemelkedőbb épülete a Forte de Cacheu, egy masszív, kőből épült 16. századi erőd, amelyet a rabszolga-kereskedelem és a folyami torkolat védelmére építettek. Az erőd ágyúi ma is a folyóra néznek. Az óváros szűk, kockaköves utcái és a régi gyarmati adminisztráció épületeinek romjai mind a város egykori fontosságáról tanúskodnak. A közelmúltban egy emlékművet és egy múzeumot is emeltek a főtéren, hogy emléket állítsanak a transzatlanti rabszolgaság áldozatainak. Történelem K8 — gyarmati erődrendszerek.",
+      "factsAdvanced": [
+        "Nyugat-Afrika egyik legrégebbi európai alapítású településközpontja (1588).",
+        "Központjában áll a 16. századi Forte de Cacheu kőerőd.",
+        "Évszázadokig a portugál rabszolga-kereskedelem fő bázisa volt.",
+        "Az óvárosban régi portugál ágyúk és katonai épületek romjai találhatók.",
+        "Egy új múzeum emlékezik meg a rabszolga-kereskedelem áldozatairól.",
+        "A történelmi utcákat még mindig eredeti kockakövek borítják."
+      ]
+    },
+    {
+      "id": "kansala-ruins-history-v2",
+      "descriptionAdvanced": "Kansala romjai a Gabú régióban, a kelet-guineai határ közelében találhatók, és a hatalmas mandinka Kaabu Birodalom utolsó fővárosának maradványai. A város a 19. század közepén, az 1867-es kansalai csatában pusztult el, amikor a fula seregek hosszú ostrom után elfoglalták. A legenda szerint a mandinka védők, látva a vereséget, felrobbantották a lőporraktárukat, magukkal rántva a támadókat is. Ma a helyszínen már csak néhány kőfal és halom emlékeztet a valaha volt gazdag városra, de a terület szent helynek számít a nyugat-afrikai mandinka közösségek számára. A romok körül végzett régészeti feltárások folyamatosak. Történelem K8 — Nyugat-Afrika nagy birodalmai.",
+      "factsAdvanced": [
+        "A történelmi Kaabu Birodalom utolsó fővárosa volt.",
+        "A Gabú régióban, a mai Szenegál és Guinea határvidékén fekszik.",
+        "1867-ben, a fula seregek által vezetett heves ostromban pusztult el.",
+        "A legenda szerint a védők felrobbantották a várost a megadás helyett.",
+        "A romok ma szent zarándokhelynek számítanak a mandinkák körében.",
+        "A területen fontos régészeti ásatások zajlanak."
+      ]
+    },
+    {
+      "id": "porto-gole-history-v2",
+      "descriptionAdvanced": "Porto Gole egy történelmi folyami rakodóhely és település a Geba-folyó felső szakaszán, amely a 19. és kora 20. században az európaiak és a helyi afrikai királyságok közötti kereskedelem egyik kulcspontja volt. A portugálok itt létesítettek egy erődített kereskedelmi állomást (feitoria), hogy ellenőrizzék a földimogyoró, a méhviasz és a bőrök áramlását a partvidék felé. Porto Gole többször volt célpontja a helyi törzsek lázadásainak a magas adók ellen. Ma a történelmi móló maradványai és a régi kereskedőházak alapjai még kivehetők a folyóparti iszapban. A hely a folyami kereskedelem aranykorának elfeledett mementója. Történelem K7 — afrikai folyami kereskedelem.",
+      "factsAdvanced": [
+        "Történelmi kereskedelmi poszt (feitoria) a Geba-folyó mentén.",
+        "A 19. században a földimogyoró- és viaszkereskedelem központja volt.",
+        "Az európai kereskedők és helyi törzsek közötti feszültségek helyszíne.",
+        "Több bennszülött lázadás során is megtámadták és lerombolták.",
+        "A régi kikötő mólójának maradványai ma is láthatók.",
+        "A folyami gőzhajózás hanyatlásával elvesztette jelentőségét."
+      ]
+    },
+    {
+      "id": "bissau-old-port-history-v2",
+      "descriptionAdvanced": "A Bissaui Öreg Kikötő (Porto Velho de Bissau) a főváros történelmi központja mellett, a Pidjiguiti kikötőnegyedben található. Ez a helyszíne az ország történetének egyik legtragikusabb eseményének: az 1959. augusztus 3-i Pidjiguiti mészárlásnak. Ezen a napon a jobb bérért sztrájkoló dokkmunkásokra a portugál rendőrség tüzet nyitott, több mint 50 ember halálát okozva. Ez az esemény radikalizálta a PAIGC mozgalmat, és a fegyveres függetlenségi harc megindításához vezetett. A kikötőben ma egy hatalmas fekete ököl emlékmű (Mártírok Emlékműve) emlékeztet a munkások áldozatára. A kikötő ma is használatban van helyi halászok által. Történelem K8 — afrikai munkásmozgalmak és függetlenség.",
+      "factsAdvanced": [
+        "Bissau történelmi Pidjiguiti negyedében található.",
+        "Az 1959-es, több mint 50 áldozatot követelő Pidjiguiti mészárlás helyszíne.",
+        "A tragédia a fegyveres függetlenségi harcok közvetlen kiváltó oka volt.",
+        "A helyszínen áll a 'Mártírok Emlékműve', egy hatalmas fekete ököl.",
+        "Történelmileg az ország legfontosabb exportkikötője volt.",
+        "Jelenleg főleg a hagyományos halászflotta használja."
+      ]
+    },
+    {
+      "id": "mansoa-mission-history-v2",
+      "descriptionAdvanced": "A Mansôa történelmi katolikus misszió az ország belső területeinek evangelizációs és oktatási központja volt a 20. század elején. A portugál misszionáriusok által alapított komplexum nemcsak egy impozáns templomból, hanem egy iskolából és egy kórházból is állt, amely generációk számára biztosította a hozzáférést a modern oktatáshoz és egészségügyhöz. Bár az ország lakosságának többsége iszlám vagy animista vallású, a misszió nagy tiszteletnek örvendett a helyi közösségben, és menedéket nyújtott a függetlenségi háború éveiben a lakosoknak. Az épület gyarmati architektúrája ma is Mansôa városának egyik legszebb látványossága. Vallástörténet K7 — missziók Afrikában.",
+      "factsAdvanced": [
+        "A 20. század elején alapított portugál katolikus misszió.",
+        "Mansôa városának oktatási és egészségügyi központja volt.",
+        "A komplexum templomot, iskolát és kórházépületet foglal magában.",
+        "A függetlenségi háború alatt civil menedékhelyként szolgált.",
+        "Jelentős szerepet játszott az ország első értelmiségi rétegének oktatásában.",
+        "A klasszikus gyarmati építészet egyik legszebb példája a régióban."
+      ]
+    },
+    {
+      "id": "canchungo-historic-site-history-v2",
+      "descriptionAdvanced": "Canchungo történelmi központja (korábbi nevén Vila Teixeira Pinto) a manzacu etnikum hagyományos fővárosa és a portugál gyarmati adminisztráció egyik legkorábbi északnyugati bázisa. A város központjában számos jól megőrzött, teraszos gyarmati épület található, amelyeket a 20. század elején emeltek. A helyszín különlegessége a helyi afrikai hagyományok és a portugál építészet szoros egymás mellett élése: a régi portugál hivatalok közelében találhatók a manzacu törzsi vezetők ('régulos') szentélyei is. A város névadója, João Teixeira Pinto egy kegyetlen portugál katonatiszt volt, akinek szobrát a függetlenség után eltávolították, és a város visszakapta afrikai nevét. Történelem K8 — dekolonizáció és toponímia.",
+      "factsAdvanced": [
+        "A gyarmati időszakban a város neve Vila Teixeira Pinto volt.",
+        "Egy kegyetlen portugál katonatisztről kapta korábbi nevét.",
+        "A függetlenség után eltávolították a gyarmati szobrokat és visszakapta eredeti nevét.",
+        "Központjában jól megőrzött teraszos, gyarmati stílusú épületek állnak.",
+        "A manzacu törzsi vezetők ('régulos') székhelye és szent helye.",
+        "A portugál építészet és az afrikai animista szentélyek különleges keveréke."
+      ]
+    },
+    {
+      "id": "bafata-colonial-quarter-history-v2",
+      "descriptionAdvanced": "Bafatá történelmi, gyarmati negyede (Bairro Colonial) Bissau-Guinea talán leglátványosabb építészeti örökségét őrzi. A Geba-folyó fölé magasodó domboldalon épült negyed utcáit hatalmas fákkal övezett, pasztellszínűre festett, vörös cseréptetős portugál villák és közigazgatási épületek alkotják. A 20. század első felében épült negyed a pezsgő folyami kereskedelemből meggazdagodott kereskedők otthona volt. Ma az épületek nagy része kopott, a festék pereg a falakról, de az árkádos teraszok és a kovácsoltvas erkélyek még mindig a dicső múltat idézik. A negyed csendes utcái a fotósok és a történelmi építészet szerelmeseinek kedvenc célpontjai. Művészettörténet K8 — portugál gyarmati építészet.",
+      "factsAdvanced": [
+        "A Geba-folyó fölé magasodó domboldalon épült Bafatá központjában.",
+        "Pasztellszínű, teraszos portugál villák sora jellemzi a negyedet.",
+        "A 20. század eleji gazdag folyami kereskedők otthona volt.",
+        "Az épületek legtöbbje ma felújításra szorul, kopottas állapotú.",
+        "Kovácsoltvas erkélyek és vörös cseréptetők dominálják az utcaképet.",
+        "Az ország egyik legépebben maradt, összefüggő gyarmati negyede."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pikes-peak-nature-v2",
+      "descriptionAdvanced": "Pikes Peak in Colorado, reaching 14,115 feet, is one of the most famous 'fourteeners' in the United States and a landmark of American western expansion. Its towering, snow-capped presence inspired Katharine Lee Bates to write the patriotic anthem 'America the Beautiful' after visiting the summit. Beyond its symbolic importance, the peak acts as a critical watershed for the surrounding region and a diverse ecological bridge, hosting everything from lower-elevation foothills to the fragile, high-altitude alpine tundra. Today, it remains a premier site for studying high-altitude climate adaptation, tourism impact on fragile mountain ecosystems, and the long-term ecological consequences of rapid regional development in the American West. Geografie K7 — Alpine ecosystem management and national symbols.",
+      "factsAdvanced": [
+        "Famous 'fourteener' reaching 14,115 feet in the Colorado Rockies.",
+        "Inspired the patriotic anthem 'America the Beautiful'.",
+        "Serves as a critical watershed for the surrounding regional environment.",
+        "Hosts diverse ecosystems, from foothills to fragile high-altitude alpine tundra.",
+        "Premier site for studying high-altitude climate adaptation and ecosystem resilience.",
+        "Symbolic landmark of American western expansion and national identity."
+      ]
+    },
+    {
+      "id": "great-salt-lake-nature-v2",
+      "descriptionAdvanced": "The Great Salt Lake in Utah is the largest saltwater lake in the Western Hemisphere, a remnant of the massive prehistoric Lake Bonneville. This hypersaline ecosystem is remarkably unique, supporting a relatively low diversity of aquatic life—primarily brine shrimp and brine flies—but providing an essential stopover habitat for millions of migratory birds each year. The lake’s extreme salinity and rapidly fluctuating water levels make it a critical site for studying limnology, regional climate cycles, and the management of fragile, hypersaline biomes. Today, the Great Salt Lake faces existential threats from water diversion and severe, climate-induced drying, forcing a major reckoning regarding water policy in the American arid West. Biologie K7 — Hypersaline ecology and migratory bird sanctuaries.",
+      "factsAdvanced": [
+        "Largest saltwater lake in the Western Hemisphere, remnant of Lake Bonneville.",
+        "Hypersaline ecosystem supporting massive annual migrations of shorebirds.",
+        "Crucial stopover for millions of migratory birds in the Pacific Flyway.",
+        "Unique aquatic biology dominated by brine shrimp and brine flies.",
+        "Essential laboratory for studying regional climate cycles and limnology.",
+        "Currently facing severe existential threats from water diversion and rapid drying."
+      ]
+    },
+    {
+      "id": "key-west-nature-v2",
+      "descriptionAdvanced": "Key West, the southernmost point of the continental United States, is a unique tropical island ecosystem defined by its coral-rock geology and immediate proximity to the third-largest barrier reef in the world. The Florida Keys archipelago provides a fragile habitat for diverse tropical species, including endangered corals, sea grasses, and specialized marine megafauna. Its isolation and extreme vulnerability to climate-driven sea-level rise and storm events make it a critical site for studying the future of subtropical coastal resilience and ocean conservation management. Today, Key West is a celebrated landmark for its unique environmental beauty and its role as an essential center for marine biodiversity protection and climate-adaptive resource management. Geografie K7 — Tropical coastal ecology and maritime conservation.",
+      "factsAdvanced": [
+        "Southernmost point of the continental United States.",
+        "Geology defined by ancient coral rock formations in the Florida Keys.",
+        "Proximity to the third-largest barrier reef system in the world.",
+        "Fragile habitat for endangered corals, sea grasses, and diverse marine megafauna.",
+        "Critical study site for subtropical coastal resilience and climate-adaptive management.",
+        "Essential center for maritime biodiversity protection in the subtropics."
+      ]
+    }
+  ]
+}

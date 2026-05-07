@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-argyle-waterfall-landmarks-v2",
+      "descriptionAdvanced": "Az Argyle-vízesés Tobago legmagasabb és legimpozánsabb vízesése, amely Roxborough közelében, egy buja trópusi erdő mélyén található. A vízesés három lépcsőben zúdul alá, összesen 54 méter magasból, kristálytiszta medencéket alkotva, amelyek kiválóan alkalmasak a frissítő fürdőzésre. A vízeséshez vezető ösvény gazdag egzotikus növényekben és pillangókban, igazi ökoturisztikai élményt nyújtva. Az Argyle-vízesés Tobago természeti szépségének egyik legfontosabb szimbóluma, és a sziget egyik leglátogatottabb kirándulóhelye. Sachkunde K5 — vízesések és trópusi élőhelyek.",
+      "factsAdvanced": [
+        "Tobago legmagasabb vízesése, 54 méteres magassággal.",
+        "Három különböző szintből áll, mindegyiknél természetes medencével.",
+        "A Roxborough-folyó táplálja a vízesést.",
+        "A vízeséshez vezető túraútvonal kb. 15-20 percet vesz igénybe.",
+        "A területen számos ritka madárfaj és trópusi pillangó látható.",
+        "Fontos szerepet játszik a sziget ökoturizmusában.",
+        "A vízesés neve a területet egykor birtokló Argyle-birtokról ered.",
+        "A természetes medencék vize hűvös és frissítő."
+      ]
+    },
+    {
+      "id": "tt-buccoo-reef-landmarks-v2",
+      "descriptionAdvanced": "A Buccoo-zátony (Buccoo Reef) a Karib-térség egyik legjelentősebb korallzátonya, amely Tobago délnyugati partjainál található. Ez a védett tengeri park hihetetlenül gazdag tengeri élővilággal büszkélkedhet, beleértve a színes korallokat, trópusi halakat és tengeri teknősöket. A zátony híres a nyugodt, sekély vizéről, ami ideálissá teszi a sznorkelezésre és az üvegfenekű hajós túrákra. A Buccoo-zátony nemcsak turisztikai látványosság, hanem kritikus fontosságú ökoszisztéma is, amely védi a partvonalat az eróziótól. Sachkunde K5 — korallzátonyok és tengerbiológia.",
+      "factsAdvanced": [
+        "Trinidad és Tobago legfontosabb védett tengeri parkja.",
+        "Itt található a világhírű Nylon Pool természetes medence.",
+        "A zátony területe több mint 7 négyzetkilométer.",
+        "Számos korallfaj, például agykorall és agancskorall otthona.",
+        "A terület szigorú természetvédelmi szabályok alatt áll.",
+        "Innen indulnak a híres üvegfenekű hajós túrák.",
+        "A zátony ökoszisztémája közvetlen kapcsolatban áll a mangrovéerdőkkel.",
+        "A korallok állapota folyamatos tudományos megfigyelés alatt áll."
+      ]
+    },
+    {
+      "id": "tt-fort-bennett-landmarks-v2",
+      "descriptionAdvanced": "Fort Bennett egy történelmi erődítmény romja Black Rock-ban, Tobago nyugati partján. Az erődöt a 18. század végén építették, hogy védelmet nyújtson a szomszédos Stonehaven-öbölnek a kalózok és az ellenséges flották ellen. Bár mára csak a falak és néhány ágyú maradt meg, a helyszín gyönyörűen parkosított, és lenyűgöző kilátást nyújt a Karib-tengerre. Fort Bennett híres a nyugalmáról és a látványos naplementéiről, ami miatt a turisták és a helyiek kedvelt pihenőhelye. Történelem K7 — erődök és partvédelem.",
+      "factsAdvanced": [
+        "A 18. század végén épült a Stonehaven-öböl védelmére.",
+        "Ma népszerű kilátóhely és történelmi emlékpark.",
+        "Az erőd falai között még ma is láthatók eredeti brit ágyúk.",
+        "Nevét egy korábbi gyarmati tisztviselőről kapta.",
+        "A környező sziklák kiváló sznorkelezési helyszínek.",
+        "Az erőd története a britek és franciák közötti rivalizálást tükrözi.",
+        "Gyakran látogatható a teknősök fészkelési idején is a közeli parton.",
+        "A terület dús trópusi növényzettel van körülvéve."
+      ]
+    },
+    {
+      "id": "tt-hanuman-statue-landmarks-v2",
+      "descriptionAdvanced": "A Hanuman-szobor Carapichaimában a nyugati félteke legnagyobb Hanuman-szobra, amely Trinidad indiai örökségének egyik legimpozánsabb jelképe. A 26 méter magas, élénk színekre festett szobor a hindu istenséget, Hanumant ábrázolja, aki az erőt, a hűséget és az önfeláldozást szimbolizálja. A szobor mellett található a gyönyörűen díszített Dattatreya Yoga Centre templomkomplexum is. Ez a vallási helyszín nemcsak a hinduk számára fontos, hanem Trinidad egyik legnépszerűbb turisztikai látványossága is, vonzva a látogatókat a világ minden tájáról. Sachkunde K6 — vallási sokszínűség és monumentális szobrok.",
+      "factsAdvanced": [
+        "A nyugati félteke legmagasabb Hanuman-szobra (26 méter).",
+        "Carapichaimában található, egy hindu templomkomplexum részeként.",
+        "Indiából érkezett szobrászok készítették több év alatt.",
+        "A szobor színei és díszítései mély vallási jelentéssel bírnak.",
+        "Hanuman a hindu mitológiában a majomisten, az erő jelképe.",
+        "A helyszín fontos zarándokhely és kulturális központ.",
+        "Az építészet a tradicionális dél-indiai stílusokat követi.",
+        "Évente ezrek látogatják meg a vallási fesztiválok idején."
+      ]
+    },
+    {
+      "id": "tt-mount-st-benedict-abbey-landmarks-v2",
+      "descriptionAdvanced": "A Mount St. Benedict apátság a Karib-térség legrégebbi bencés kolostora, amely Trinidad Északi-hegységének meredek oldalában, Tunapuna felett található. Az 1912-ben alapított apátság a béke és a spiritualitás oázisa, ahonnan csodálatos kilátás nyílik a Caroni-síkságra. A kolostor híres a vendégszeretetéről, a saját készítésű finom joghurtjáról és a gyönyörű kápolnájáról. Az apátság környezete ideális a meditációra és a természetjárásra, hiszen számos ösvény vezet innen a hegyek közé. Mount St. Benedict fontos kulturális és vallási tájékozódási pont a szigeten. Történelem K8 — vallási intézmények és építészet.",
+      "factsAdvanced": [
+        "A Karib-térség legrégebbi bencés kolostora (alapítva 1912-ben).",
+        "Strategiai helyen, az Északi-hegység oldalában fekszik.",
+        "Híres a szerzetesek által készített tradicionális joghurtról.",
+        "Lélegzetelállító panorámát kínál Trinidad középső részére.",
+        "Itt található az ország egyik legfontosabb teológiai szemináriuma.",
+        "A kolostor kertjei gazdagok trópusi virágokban és madarakban.",
+        "Minden vallású látogatót szívesen látnak a csendes elvonulásra.",
+        "Az építészet a klasszikus európai kolostori stílust követi."
+      ]
+    },
+    {
+      "id": "tt-maracas-beach-landmarks-v2",
+      "descriptionAdvanced": "A Maracas-strand (Maracas Beach) Trinidad leghíresebb és legnépszerűbb tengerpartja, amely az északi parton, Port of Spaintól egy látványos hegyi úton érhető el. A strandot meredek, esőerdővel borított hegyek veszik körül, a homok pedig aranyszínű és puha. Maracas világhírű a 'Bake and Shark' nevű helyi ételéről, amit az út menti árusoknál kínálnak. A strand hullámai népszerűek a szörfösök és a vízi sportok kedvelői körében. Maracas-öböl a trinidadiak kedvenc hétvégi célpontja, ahol a karibi életérzés a legteljesebben mutatkozik meg. Földrajz K5 — tengerparti turizmus és gasztronómia.",
+      "factsAdvanced": [
+        "Trinidad legismertebb és leglátogatottabb strandja.",
+        "Híres a 'Bake and Shark' (sült cápahúsos lepény) nevű specialitásáról.",
+        "A strand hossza kb. 2 kilométer, védett öbölben fekszik.",
+        "Az Északi-hegységen átvezető út gyönyörű panorámát kínál.",
+        "Népszerű helyszín szörfözésre és testdeszkázásra.",
+        "Számos kulturális és zenei fesztivál helyszíne.",
+        "A part mentén hatalmas kókuszpálmák nyújtanak árnyékot.",
+        "Szigorú életmentő szolgálat felügyeli a fürdőzők biztonságát."
+      ]
+    },
+    {
+      "id": "tt-pitch-lake-landmarks-v2",
+      "descriptionAdvanced": "A Pitch Lake (Aszfalt-tó) La Brea-ban a világ egyik legkülönlegesebb geológiai képződménye és Trinidad egyik legfontosabb természeti látványossága. Ez a világ legnagyobb természetes aszfaltlelőhelye, amely több mint 40 hektáron terül el. A tó felszíne szilárdnak tűnik, de folyamatosan mozog, és a mélyéből feltörő bitumen miatt állandóan 'újratermeli' önmagát. A legenda szerint Sir Walter Raleigh is itt javította meg hajóit 1595-ben. A Pitch Lake nemcsak gazdasági forrás, hanem gyógyhatású kénes vizeiről is híres. Sachkunde K5 — természeti csodák és bányászat.",
+      "factsAdvanced": [
+        "A világ legnagyobb természetes aszfalt-tava (kb. 40 hektár).",
+        "A tó becsült mélysége a közepén meghaladja a 75 métert.",
+        "Az itt kitermelt aszfalttal burkolták le a világ számos hírneves útját.",
+        "A helyiek szerint a tó vize kénes és gyógyhatású.",
+        "Számos őslakos leletet és állati maradványt konzervált az aszfalt.",
+        "A tó felszínén különleges gázbuborékok és kénes tavacskák láthatók.",
+        "Folyamatosan 'nyeli el' és 'veti ki' magából a tárgyakat.",
+        "A világ minden tájáról érkeznek ide geológusok kutatni."
+      ]
+    },
+    {
+      "id": "tt-botanic-gardens-landmarks-v2",
+      "descriptionAdvanced": "A Királyi Botanikus Kert (Royal Botanic Gardens) Port of Spainben az egyik legrégebbi ilyen jellegű intézmény a nyugati féltekén. Az 1818-ban alapított kert több mint 700 fafajt és egzotikus növényt mutat be a világ minden tájáról. A kert közvetlenül az Elnöki Ház (President's House) mellett fekszik, és a fővárosiak kedvenc pihenőhelye. A látogatók sétálhatnak az árnyas ösvényeken, megcsodálhatják a színes orchideákat és a hatalmas kápokfákat. A Botanikus Kert fontos tudományos központ is, amely segít megőrizni Trinidad gazdag flóráját. Sachkunde K5 — botanika és városi parkok.",
+      "factsAdvanced": [
+        "A világ egyik legrégebbi botanikus kertje (alapítva 1818-ban).",
+        "Több mint 700 különböző trópusi fafaj található a területén.",
+        "Közvetlenül az Elnöki Ház és a Queens Park Savannah mellett fekszik.",
+        "Híres az egzotikus orchidea-gyűjteményéről és pálmafáiról.",
+        "Népszerű helyszín családi piknikekhez és csendes sétákhoz.",
+        "Fontos szerepet játszik a környezeti nevelésben és kutatásban.",
+        "A kertben számos különleges madárfaj is megfigyelhető.",
+        "Gondosan karbantartott ösvényei és pázsitja az angol stílust idézik."
+      ]
+    },
+    {
+      "id": "tt-pigeon-point-jetty-landmarks-v2",
+      "descriptionAdvanced": "A Pigeon Point móló (Jetty) Tobago legikonikusabb és legtöbbet fotózott építménye, amely a nádtetős kilátójával a sziget turisztikai jelképévé vált. A móló a Pigeon Point Heritage Parkban található, ahol a víz kristálytiszta és türkizkék, a homok pedig vakítóan fehér. Ez a helyszín a karibi paradicsom megtestesítője, ahol a látogatók élvezhetik a napsütést és a lágy tengeri szellőt. A mólóról indulnak a hajótúrák a Buccoo-zátony és a Nylon Pool felé. Pigeon Point mólója minden tobago-i utazás kötelező állomása. Sachkunde K4 — turizmus és tengerparti jelképek.",
+      "factsAdvanced": [
+        "Tobago legismertebb jelképe és legnépszerűbb fotóhelyszíne.",
+        "A nádtetős mólóépület (gazebo) világszerte felismerhető.",
+        "A Pigeon Point Heritage Park részeként szigorú védelem alatt áll.",
+        "A környék vize híres a ragyogó türkizkék színéről.",
+        "Ideális helyszín esküvői szertartásokhoz és romantikus naplementékhez.",
+        "Fontos indulási pont a tengeri kirándulások és búvártúrák számára.",
+        "A strand a vízi sportok, például a kiteszörf paradicsoma is.",
+        "A móló környékén számos hangulatos tengerparti bár található."
+      ]
+    },
+    {
+      "id": "tt-fort-king-peter-landmarks-v2",
+      "descriptionAdvanced": "Fort King Peter egy eldugottabb történelmi erődítmény Tobago északi partján, amely az azonos nevű öböl felett őrködik. Az erődöt a 18. században építették, és fontos szerepet játszott a sziget északi védelmi vonalában a franciák és a kalózok ellen. Bár ma már csak romos állapotban látható, a környező természet és a tengeri kilátás különleges, vadregényes hangulatot áraszt. Fort King Peter kevésbé látogatott, mint a nagy erődök, így ideális azoknak, akik a történelmet és a természet nyugalmát egyszerre keresik. Történelem K7 — erődök és elszigetelt védelmi pontok.",
+      "factsAdvanced": [
+        "Tobago északi partjának egyik legfontosabb történelmi védműve.",
+        "A 18. században épült stratégiai megfigyelőpontként.",
+        "Csodálatos kilátást nyújt a King Peter-öbölre és a partokra.",
+        "A romok között spanyol és brit stílusjegyek is felfedezhetők.",
+        "Népszerű célpont a kalandvágyó túrázók és történészek körében.",
+        "Az erőd körül érintetlen trópusi erdő és gazdag vadvilág található.",
+        "Segít megérteni Tobago egykori katonai hálózatának szerkezetét.",
+        "Békés, csendes emlékhely messze a városi zajtól."
+      ]
+    },
+    {
+      "id": "tt-trinidad-memorial-park-landmarks-v2",
+      "descriptionAdvanced": "A Memorial Park Port of Spain szívében az I. és II. világháborúban elesett trinidadi katonák előtt tiszteleg. A park központjában egy impozáns cenotáfium (emlékmű) áll, amelyen a hősök nevei olvashatók. Ez a helyszín a nemzeti kegyelet és az emlékezés központja, ahol minden évben megrendezik a fegyverszünet napi ünnepségeket. A park gondosan ápolt gyepével és virágaival csendes méltóságot áraszt a forgalmas főváros közepén. A Memorial Park emlékeztet Trinidad és Tobago szerepvállalására a globális történelmi eseményekben. Történelem K8 — háborús emlékezet és nemzeti hősök.",
+      "factsAdvanced": [
+        "Az I. és II. világháború trinidadi áldozatainak központi emlékműve.",
+        "Port of Spain belvárosában, a NAPA mellett található.",
+        "A cenotáfium 1924-ben készült el a brit birodalmi katonák emlékére.",
+        "Minden év novemberében nagyszabású koszorúzási ünnepséget tartanak itt.",
+        "A park egy csendes, méltóságteljes oázis a városban.",
+        "Fontos szerepet játszik a nemzeti identitás és a történelem ápolásában.",
+        "Az emlékművön szerepelnek a sziget minden részéről származó hősök.",
+        "A park kialakítása a brit emlékműkertek stílusát követi."
+      ]
+    },
+    {
+      "id": "tt-bocas-islands-landmarks-v2",
+      "descriptionAdvanced": "A Bocas-szigetek (The Dragon's Mouths) egy apró szigetcsoport Trinidad északnyugati csücske és Venezuela között. Ezek a szigetek, mint Chacachacare, Monos és Huevos, lenyűgöző természeti szépségükről és történelmi emlékeikről (például az egykori lepratelep Chacachacarén) híresek. A szigetek közkedvelt célpontjai a hajós kirándulásoknak, a horgászatnak és a búvárkodásnak a kristálytiszta öblökben. A Bocas-szigetek vadregényes tájai és a tengeri barlangok az ökoturizmus paradicsomai. Földrajz K5 — szigetvilág és tengeri szorosok.",
+      "factsAdvanced": [
+        "A Trinidad és Venezuela közötti 'Sárkány szájában' (Bocas del Dragón) fekszenek.",
+        "Chacachacare szigete egykor híres bálnavadász-állomás és lepratelep volt.",
+        "Népszerű hétvégi kirándulóhelyek a vitorlázók és jachtosok körében.",
+        "A szigetek gazdagok tengeri barlangokban és különleges madárfajokban.",
+        "Itt található Trinidad néhány legtisztább strandja.",
+        "A szorosok áramlatai híresen erősek és veszélyesek a hajósoknak.",
+        "Történelmileg fontos megállóhelyek voltak a spanyol felfedezőknek.",
+        "A szigetek lakatlanok, megőrizve érintetlen természeti állapotukat."
+      ]
+    },
+    {
+      "id": "tt-caribbean-cinema-landmarks-v2",
+      "descriptionAdvanced": "A Caribbean Cinemas hálózata Trinidadon a modern szórakoztatóipar és a közösségi élet egyik központja. Ezek a modern multiplex mozik a legújabb technológiával felszerelve hozzák el a hollywoodi és a helyi filmeket a trinidadi közönségnek. A mozik gyakran bevásárlóközpontokhoz kapcsolódnak (például a Trincity Mallban), és a családok, fiatalok legnépszerűbb találkozóhelyei közé tartoznak. A Caribbean Cinemas jelenléte jelzi a modern, globális popkultúra térnyerését a szigeten. Sachkunde K4 — modern szórakozás és mozi.",
+      "factsAdvanced": [
+        "Trinidad és a régió vezető mozihálózata.",
+        "Hatalmas multiplexekkel rendelkezik a sziget stratégiai pontjain.",
+        "Fontos szerepet játszik a trinidadi és karibi filmek népszerűsítésében.",
+        "Modern 3D és IMAX technológiát is alkalmaznak.",
+        "Népszerű helyszín ifjúsági rendezvényekhez és premier-vetítésekhez.",
+        "A mozik környékén gyakran pezsgő éjszakai élet zajlik.",
+        "Szimbolizálja a modern trinidadi középosztály szabadidős szokásait.",
+        "Évente több millió látogatót fogadnak az országban."
+      ]
+    },
+    {
+      "id": "tt-national-museum-landmarks-v2",
+      "descriptionAdvanced": "A Nemzeti Múzeum és Művészeti Galéria Port of Spainben Trinidad és Tobago kulturális kincstára. Az 1892-ben alapított intézmény gazdag gyűjteménnyel rendelkezik az ország történelméről, a karneválról, a fesztiválokról és a helyi művészetekről. Itt láthatók az őslakosok tárgyai, a gyarmati korszak emlékei és neves trinidadi festők, mint Michel-Jean Cazabon művei. A múzeum célja a nemzeti örökség megőrzése és bemutatása a jövő generációi számára. Az épület maga is történelmi emlék, amely méltó otthont ad a kiállításoknak. Történelem K8 — múzeumok és kulturális örökség.",
+      "factsAdvanced": [
+        "Trinidad és Tobago legfontosabb múzeuma (alapítva 1892-ben).",
+        "Hatalmas gyűjteményt őriz a trinidadi karnevál történetéről.",
+        "A művészeti galériában láthatók Cazabon híres tájképei.",
+        "Bemutatja a sziget geológiai és természettörténeti fejlődését.",
+        "Fontos oktatási központ iskolai csoportok és kutatók számára.",
+        "A múzeum épülete a Victoria Institute nevet viselte eredetileg.",
+        "Rendszeresen otthont ad kortárs művészeti kiállításoknak.",
+        "Közvetlen szomszédságában található a Memorial Park."
+      ]
+    },
+    {
+      "id": "tt-san-fernando-hill-landmarks-v2",
+      "descriptionAdvanced": "A San Fernando Hill, eredeti nevén Anaparima, egy hatalmas mészkőkúp, amely méltóságteljesen emelkedik a déli 'főváros', San Fernando felett. A domb az őslakosok számára szent hely volt, ma pedig egy népszerű szabadidőpark és kilátóhely. Bár évtizedekig mészkőbányászat folyt itt, ami megváltoztatta a domb alakját, ma már védett terület. A tetőről lélegzetelállító panoráma nyílik a Paria-öbölre, a központi síkságokra és tiszta időben egészen Venezueláig. San Fernando Hill a déli régió legfontosabb tájékozódási pontja és büszkesége. Földrajz K5 — domborzati formák és városi kilátók.",
+      "factsAdvanced": [
+        "San Fernando legmagasabb pontja és ikonikus tájékozódási pontja.",
+        "Eredeti őslakos neve Anaparima, jelentése: 'egyetlen domb'.",
+        "A domb tetején kialakított park népszerű piknikezőhely.",
+        "Csodálatos 360 fokos panorámát kínál a sziget déli részére.",
+        "A mészkőbányászat miatt a domb elvesztette eredeti csúcsos alakját.",
+        "Fontos szerepet játszik a helyi kultúrában és legendákban.",
+        "A területen szabadtéri amfiteátrum és játszótér is található.",
+        "A domb köveiből épült a déli országrész számos történelmi épülete."
+      ]
+    },
+    {
+      "id": "tt-caroni-bird-sanctuary-life-v2",
+      "descriptionAdvanced": "A Caroni Madárrezervátum élővilága Trinidad egyik legizgalmasabb ökoszisztémája, ahol a mangrovéerdők és a sós vizek találkoznak. Itt látható az ország nemzeti madara, a skarlát íbisz, amely élénkvörös tollazatával kápráztatja el a látogatókat. A mocsárvilágban kaimanok, mangrovékígyók és számtalan rákfaj él harmóniában. A terület kritikus fontosságú a vándormadarak számára is, akik pihenőhelyként használják a sűrű erdőket. A Caroni-mocsár az ökológiai egyensúly és a biodiverzitás élő laboratóriuma. Sachkunde K5 — mocsári ökoszisztémák és vadvilág.",
+      "factsAdvanced": [
+        "A skarlát íbisz (Scarlet Ibis) nemzeti madár legfőbb élőhelye.",
+        "Három különböző mangrovéfaj alkotja az erdő gerincét.",
+        "Több mint 180 madárfaj figyelhető meg a területen.",
+        "Itt élnek a különleges négyszemű halak és kék rákok.",
+        "A mocsár fontos szerepet játszik a tengeri halak szaporodásában.",
+        "A naplemente idején a madarak tömeges visszatérése látványos esemény.",
+        "Szigorúan védett terület, csak engedéllyel látogatható.",
+        "Az ökoszisztéma segít kiszűrni a szennyeződéseket a szárazföldről."
+      ]
+    },
+    {
+      "id": "tt-asa-wright-life-v2",
+      "descriptionAdvanced": "Az Asa Wright Természetvédelmi Központ élővilága a neotropikus esőerdők biodiverzitásának ékköve. Az Arima-völgyben található rezervátum világhírű a kolibrik sokféleségéről, a különleges olajmadarakról és a ritka endemikus Pawi madárról. Az erdő sűrű lombkoronája alatt majmok, lajhárok és színes pillangók is otthonra lelnek. A központ tudományos kutatómunkája révén ismerhetjük meg jobban a trópusi fajok közötti bonyolult kapcsolatokat. Asa Wright a természetvédelem és az ökoturizmus tökéletes szimbiózisa. Sachkunde K5 — esőerdei biodiverzitás.",
+      "factsAdvanced": [
+        "A Karib-térség egyik leggazdagabb madárvilágával rendelkező területe.",
+        "Itt található az egyetlen könnyen hozzáférhető olajmadár-kolónia a világon.",
+        "Az endemikus Trinidad Piping Guan (Pawi) egyik utolsó menedéke.",
+        "Több mint 150 madárfaj és 600 lepkefaj él a rezervátumban.",
+        "Híres az esőerdei túraösvényeiről és vízeséseiről.",
+        "A központ fontos bázisa a nemzetközi ökológiai kutatásoknak.",
+        "A biodiverzitás megőrzése érdekében szigorú szabályok érvényesek.",
+        "A látogatók közvetlen közelről figyelhetik meg a természet ritmusát."
+      ]
+    },
+    {
+      "id": "tt-yerette-life-v2",
+      "descriptionAdvanced": "Yerette, a kolibrik otthona, egy különleges magánrezervátum a Maracas-völgyben, amely a világ egyik legtöbb kolibrifaját mutatja be egyetlen helyszínen. A tulajdonos, Theo Ferguson szenvedélye révén ez a kert a kolibrik paradicsomává vált, ahol tucatnyi faj, köztük az apró Rubin-topáz kolibri és a különleges 'fecskefarkú' fajok is megfigyelhetők. A látogatók interaktív előadásokon ismerhetik meg ezeknek az apró, de lenyűgöző madaraknak az életmódját és biológiáját. Yerette a természet és az emberi gondoskodás csodálatos találkozóhelye. Sachkunde K3 — kolibrik és trópusi kertek.",
+      "factsAdvanced": [
+        "Trinidad 17 kolibrifajából 14 megfigyelhető itt rendszeresen.",
+        "A Maracas-völgy buja, virágokkal teli környezetében található.",
+        "Világszínvonalú helyszín a kolibrik fotózásához.",
+        "Itt látható a világ egyik legkisebb madara, a Rubin-topáz kolibri.",
+        "Theo Ferguson kurátor mélyreható ismeretekkel rendelkezik a fajokról.",
+        "A kertet kifejezetten a madarak igényei szerint alakították ki.",
+        "Fontos szerepet játszik a kolibrik védelmében és népszerűsítésében.",
+        "A látogatás felejthetetlen élmény a természet szerelmeseinek."
+      ]
+    },
+    {
+      "id": "tt-emperor-valley-zoo-life-v2",
+      "descriptionAdvanced": "Az Emperor Valley Állatkert Port of Spainben Trinidad legfontosabb vadvédelmi és oktatási központja, amely a Queens Park Savannah szomszédságában található. Az állatkert bemutatja Trinidad és a világ egzotikus állatfajait, köztük oroszlánokat, tigriseket, de elsősorban a helyi faunára, mint a vörös bőgőmajmokra, ocelotokra és anakondákra fókuszál. Az intézmény célja a fajmegőrzés és a látogatók érzékenyítése a környezetvédelem iránt. Az állatkert árnyas ösvényei és modern kifutói kellemes kikapcsolódást nyújtanak minden korosztálynak. Sachkunde K4 — állatvilág és fajmegőrzés.",
+      "factsAdvanced": [
+        "Trinidad és Tobago egyetlen hivatalos és legnagyobb állatkertje.",
+        "Nevét a gyönyörű kék Emperor (Császár) lepkéről kapta.",
+        "Híres a helyi vadvilág, például az ocelotok és tengeri teknősök bemutatásáról.",
+        "Modern oktatási programokat szerveznek gyermekek számára.",
+        "Fontos szerepet játszik a sérült vadállatok mentésében és rehabilitációjában.",
+        "Az állatkert területe buja trópusi növényzettel van beültetve.",
+        "A közeli Botanikus Kerttel együtt alkotnak egy nagy zöld övezetet.",
+        "Számos nemzetközi fajmegőrzési projektben vesznek részt."
+      ]
+    },
+    {
+      "id": "tt-queens-park-savannah-life-v2",
+      "descriptionAdvanced": "A Queens Park Savannah Port of Spain 'tüdeje' és a városi élet legfontosabb színtere. Ez a hatalmas, 105 hektáros park egykor cukornádültetvény volt, ma pedig a világ legnagyobb körforgalma veszi körül. A Savannah a sportolók, a családok és a karnevál szerelmeseinek találkozóhelye. Itt zajlanak a nagyszabású karneváli felvonulások és a Steelpan-versenyek is. A park szélén sorakoznak a 'Magnificent Seven' történelmi kúriák, belül pedig krikettpályák és árnyas sétányok találhatók. A Savannah a trinidadi identitás és a közösségi szabadság szimbóluma. Sachkunde K5 — városi terek és rekreáció.",
+      "factsAdvanced": [
+        "A világ legnagyobb körforgalma (kb. 3,5 km kerületű) veszi körül.",
+        "Port of Spain legnagyobb és legfontosabb nyilvános parkja.",
+        "Itt építik fel minden évben a Karnevál központi színpadát.",
+        "Híres az esti utcai ételárusairól, ahol helyi ízeket kóstolhatunk.",
+        "Számos krikett- és labdarúgópálya található a területén.",
+        "A parkot gyönyörű flóra és fauna jellemzi, köztük hatalmas Samaan-fák.",
+        "Fontos történelmi emlékhelyek és kúriák övezik.",
+        "A lakosság kedvenc helyszíne az esti futáshoz és pihenéshez."
+      ]
+    },
+    {
+      "id": "tt-maracas-bay-life-v2",
+      "descriptionAdvanced": "A Maracas-öböl élővilága és tengerparti kultúrája Trinidad északi partjának legélénkebb része. A tengerparti élet itt a pihenésről, a szörfözésről és a híres cápás lepény (Bake and Shark) élvezetéről szól. A dús, esőerdővel borított hegyek meredeken szakadnak a tengerbe, különleges mikroklímát és gazdag növényzetet biztosítva. Az öböl vizeiben számos színes hal és rákfaj él, a part menti pálmaligetek pedig madarak és rágcsálók otthonai. Maracas nemcsak egy strand, hanem a trinidadi tengerparti életmód esszenciája. Sachkunde K3 — tengerparti élet és természet.",
+      "factsAdvanced": [
+        "Trinidad legnépszerűbb üdülőhelye az északi parton.",
+        "Híres a 'Bake and Shark' nevű tradicionális tengerparti ételéről.",
+        "A dús esőerdők és az óceán találkozásának lenyűgöző példája.",
+        "A part mentén hatalmas kókuszültetvények találhatók.",
+        "Népszerű helyszín a hétvégi családi összejövetelekhez és 'liming'-hoz.",
+        "A tenger hullámai kiválóan alkalmasak a vízi sportokra.",
+        "Számos helyi árus kínál kézműves termékeket és friss gyümölcsöket.",
+        "A terület tiszta levegője és a természet közelsége vonzza a turistákat."
+      ]
+    },
+    {
+      "id": "tt-cleaver-woods-life-v2",
+      "descriptionAdvanced": "A Cleaver Woods Park Arima közelében egy fontos természetvédelmi és történelmi terület, amely Trinidad őslakos örökségét őrzi. A park dús fenyőerdői és trópusi növényzete között található az Amerindian Múzeum, amely bemutatja az arauaca és karib népek életmódját és eszközeit. A terület népszerű a túrázók és a madárlesők körében, hiszen csendes ösvényei elvezetnek a sziget ősi múltjába. Cleaver Woods a nyugalom és az oktatás helyszíne, ahol a természet és a történelem mélyen összefonódik. Történelem K7 — őslakos örökség és erdei élőhelyek.",
+      "factsAdvanced": [
+        "Itt található az ország egyetlen, kifejezetten őslakosoknak szentelt múzeuma.",
+        "A park Arima határában, egy buja erdős területen fekszik.",
+        "Híres a fenyőfákról, amelyeket egykor kísérleti céllal telepítettek.",
+        "A terület gazdag őslakos (Amerindian) régészeti leletekben.",
+        "Népszerű hétvégi kirándulóhely és tanösvény központ.",
+        "A park segít megérteni Trinidad első lakóinak kultúráját.",
+        "Számos ritka növény- és madárfaj otthona.",
+        "A közösség aktívan részt vesz az őslakos hagyományok ápolásában."
+      ]
+    },
+    {
+      "id": "tt-pointe-a-pierre-wildfowl-life-v2",
+      "descriptionAdvanced": "A Pointe-à-Pierre Vadvédelmi Rezervátum (Wildfowl Trust) egyedülálló ökológiai projekt, amely egy hatalmas olajfinomító területén belül jött létre. Ez a rezervátum bebizonyította, hogy az ipar és a természetvédelem békésen megférhet egymás mellett. A tavak és mocsarak számos veszélyeztetett vízimadár, köztük a vöröshasú fütyülőlúd fészkelőhelyei. A rezervátum fontos kutatási és oktatási központ, amely a vizes élőhelyek védelmére és a madarak visszatelepítésére összpontosít. A látogatók a tavak mentén sétálva csodálhatják meg a trópusi vadvilág szépségeit. Sachkunde K5 — madármentés és ipari ökológia.",
+      "factsAdvanced": [
+        "Egyedülálló módon egy olajfinomító komplexum területén fekszik.",
+        "A világ egyik legrégebbi ilyen jellegű nonprofit természetvédelmi szervezete.",
+        "Fő célja a veszélyeztetett vízimadarak tenyésztése és visszatelepítése.",
+        "Több mint 25 hektáros vizes élőhelyet kezelnek.",
+        "Számos tanösvény és madárfigyelő torony várja a látogatókat.",
+        "Fontos szerepet játszanak a környezeti nevelésben az iskolák számára.",
+        "A terület gazdag gyógyhatású növényekben és egzotikus virágokban.",
+        "Világszerte elismert példa a fenntartható ipari környezetkezelésre."
+      ]
+    },
+    {
+      "id": "tt-caroni-sugarcane-belt-life-v2",
+      "descriptionAdvanced": "A Caroni cukornád-övezet (Caroni Sugarcane Belt) évszázadokon át Trinidad gazdaságának és életmódjának központja volt. Ez a hatalmas síkság adott otthont a cukornádültetvényeknek, ahol generációk dolgoztak a földeken, megalapozva a sziget társadalmi szerkezetét. Bár a cukortermelés mára megszűnt, a táj és a közösség még mindig őrzi a múlt nyomait a régi gyárakkal, öntözőcsatornákkal és az indiai hagyományokkal. Az övezet ma a mezőgazdasági diverzifikáció és az új lakóparkok helyszíne, de történelmi emlékezete továbbra is meghatározó. Történelem K8 — cukoripar és társadalmi átalakulás.",
+      "factsAdvanced": [
+        "A 18. századtól a 2003-as bezárásig a trinidadi gazdaság gerince volt.",
+        "Itt alakult ki a legjelentősebb indo-trinidadi kulturális közösség.",
+        "A síkság domborzata ideális volt a nagyüzemi nádtermeléshez.",
+        "Számos történelmi cukorgyár és kistelepülés romja látható itt.",
+        "A terület ma rizstermesztésnek és kistermelői gazdaságoknak ad helyet.",
+        "Itt futott az ország leghosszabb ipari vasúthálózata.",
+        "A cukoripar leépülése mély nyomokat hagyott a régió gazdaságában.",
+        "A tájképet egykor végtelen nádtengerek uralták."
+      ]
+    },
+    {
+      "id": "tt-central-range-cocoa-life-v2",
+      "descriptionAdvanced": "A Central Range (Központi-hegység) kakaóövezete Trinidad 'barna aranyának' szülőhelye, ahol a világ legjobb minőségű Trinitario kakaóját termesztik. A dombos terep, a termékeny talaj és az árnyas esőerdők ideális feltételeket biztosítanak a kakaófák számára. Az itt élő közösségek élete generációk óta a kakaó szüreteléséhez és feldolgozásához kötődik, megőrizve a tradicionális 'kakaótánc' és a szárítás rítusait. A kakaóbirtokok nemcsak gazdasági egységek, hanem a sziget biológiai sokféleségének is fontos őrzői. Sachkunde K5 — kakaótermesztés és trópusi mezőgazdaság.",
+      "factsAdvanced": [
+        "Trinidad híres Trinitario kakaójának legfőbb termőterülete.",
+        "A dombos vidék hűvösebb klímája kedvez a növények fejlődésének.",
+        "Számos kisbirtokos gazda őrzi a tradicionális termesztési módokat.",
+        "A kakaóültetvények fontos életteret biztosítanak az erdei állatoknak.",
+        "Itt találhatók a sziget legrégebbi és legnevesebb kakaóbirtokai.",
+        "A szüret idején a falu élete felpezsdül a közös munka hatására.",
+        "A trinidadi kakaó világszerte elismert a sötét csokoládék alapanyagaként.",
+        "A terület turisztikai szempontból is vonzó a 'csokoládé-túrák' révén."
+      ]
+    }
+  ]
+}

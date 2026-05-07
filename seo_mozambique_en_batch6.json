@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maputo-katembe-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Maputo-Katembe Bridge is a monumental feat of modern engineering and currently holds the title for the longest suspension bridge in Africa. Spanning the expansive Maputo Bay, it connects the bustling capital directly to the previously isolated Katembe peninsula. Opened in 2018 and financed primarily by Chinese investment, the bridge features towering concrete pylons and a main span of 680 meters. Its construction drastically reduced travel times south toward the South African border at Ponta do Ouro, fundamentally reshaping the urban geography and real estate development of the entire southern Maputo metropolitan area. Geography K8 — Civil engineering, urban expansion, and megaprojects.",
+      "factsAdvanced": [
+        "The longest suspension bridge on the African continent.",
+        "Main suspension span measures an impressive 680 meters.",
+        "Officially opened to the public in November 2018.",
+        "Connects central Maputo across the bay to Katembe.",
+        "Constructed by the China Road and Bridge Corporation (CRBC).",
+        "Drastically reduced travel time to the southern border at Ponta do Ouro."
+      ]
+    },
+    {
+      "id": "beira-railway-station-landmarks-v2",
+      "descriptionAdvanced": "The Beira Railway Station is an iconic architectural landmark in central Mozambique, renowned for its striking modernist design. Constructed between 1958 and 1966 by the visionary trio of Portuguese architects—João Garizo do Carmo, Paulo de Melo Sampaio, and Francisco de Castro—it features sweeping, parabolic concrete arches that provide immense natural ventilation and light. This massive, airy structure was built to anchor the critical Beira-Machipanda railway, serving as the primary transport gateway for landlocked Rhodesia (Zimbabwe). Today, despite the scars of civil war and Cyclone Idai, it remains a breathtaking example of African tropical modernism. History K8 — Modernist architecture, railway hubs, and tropical design.",
+      "factsAdvanced": [
+        "Constructed in the modernist style between 1958 and 1966.",
+        "Designed by acclaimed Portuguese architects including João Garizo do Carmo.",
+        "Features distinctive parabolic, sweeping concrete arches.",
+        "Served as the crucial railway terminus connecting to landlocked Zimbabwe.",
+        "Considered a masterpiece of 'tropical modernism'.",
+        "Remains largely operational despite severe cyclonic damage."
+      ]
+    },
+    {
+      "id": "grande-hotel-beira-landmarks-v2",
+      "descriptionAdvanced": "The Grande Hotel Beira is one of the most famous, haunting ruins in Africa. Opened in 1954 with extreme colonial opulence, it was intended to be the grandest luxury resort on the continent, boasting an Olympic-sized swimming pool, sweeping spiral staircases, and a massive Art Deco facade. However, it was a colossal financial failure and closed just eight years later. During the Mozambican Civil War, it became a massive refugee camp. Today, the skeletal, decaying structure is home to thousands of squatters, acting as an informal, vertical city and a stark, living monument to the dramatic rise and fall of colonial ambition. History K8 — Colonial luxury, civil war refugees, and informal settlements.",
+      "factsAdvanced": [
+        "Opened in 1954 as the most luxurious hotel in southern Africa.",
+        "Closed due to massive financial losses in 1962.",
+        "Features grand Art Deco architecture and an Olympic-sized pool.",
+        "Housed thousands of refugees during the Mozambican Civil War.",
+        "Currently functions as a massive, informal vertical squatter settlement.",
+        "Stripped entirely of its original fixtures, glass, and plumbing."
+      ]
+    },
+    {
+      "id": "cathedral-of-beira-landmarks-v2",
+      "descriptionAdvanced": "The Cathedral of Beira (Our Lady of the Rosary) is an impressive religious landmark located near the city center of Beira. Built in the early 20th century, the church features a distinct Gothic-revival architectural style, unusual for the region, characterized by its pointed arches, tall spires, and striking stained glass windows. The building famously survived the catastrophic winds and flooding of Cyclone Idai in 2019 with only moderate damage, standing as a profound symbol of resilience for the local Catholic community. It remains the seat of the Archdiocese of Beira. History K8 — Gothic-revival architecture, religious centers, and storm resilience.",
+      "factsAdvanced": [
+        "Located in the center of Beira in Sofala Province.",
+        "Built in the early 20th century featuring a Gothic-revival style.",
+        "Dedicated to Our Lady of the Rosary.",
+        "Serves as the seat of the Roman Catholic Archdiocese of Beira.",
+        "Survived the devastating impacts of Category 4 Cyclone Idai in 2019.",
+        "Constructed using massive stone blocks, unlike the city's modern concrete buildings."
+      ]
+    },
+    {
+      "id": "fortaleza-sao-sebastiao-landmarks-v2",
+      "descriptionAdvanced": "The Fort of São Sebastião, located on the northern tip of the Island of Mozambique, is the oldest complete fort still standing in sub-Saharan Africa. Construction began in 1558 and took fifty years to complete, utilizing massive stone blocks transported from Portugal as ship ballast. Built to protect the vital Portuguese spice and gold trade routes from rival Dutch and Arab fleets, its sheer scale and impregnable walls never fell in battle. The fort's vast interior houses an ingenious rainwater harvesting cistern system, allowing defenders to withstand prolonged sieges in the Indian Ocean heat. History K8 — Coastal fortifications, maritime empires, and siege warfare.",
+      "factsAdvanced": [
+        "Construction began in 1558 and concluded in 1608.",
+        "The oldest complete European fort in sub-Saharan Africa.",
+        "Located on the UNESCO World Heritage Island of Mozambique.",
+        "Built using massive stone blocks brought as ballast in Portuguese galleons.",
+        "Features an enormous, highly engineered central rainwater cistern.",
+        "Successfully repelled major sieges by the Dutch in the 17th century."
+      ]
+    },
+    {
+      "id": "palacio-sao-paulo-landmarks-v2",
+      "descriptionAdvanced": "The Palace of São Paulo (Palácio de São Paulo) is a striking crimson-red colonial building located on the Island of Mozambique. Originally constructed in 1610 as a Jesuit college, it was later repurposed as the luxurious residence for the Portuguese Governors-General of East Africa. Today, it serves as a spectacular museum, its interior perfectly preserved with opulent Indo-Portuguese furniture, intricate tapestries, and stunning imported Ming dynasty porcelain. The palace's grand halls and courtyards provide a vivid glimpse into the wealth and administrative power of the Portuguese maritime empire during its peak. History K8 — Colonial administration, Jesuit history, and global trade wealth.",
+      "factsAdvanced": [
+        "Constructed in 1610 originally as a Jesuit college.",
+        "Served as the official residence of the Portuguese Governor-General until 1898.",
+        "Located on the UNESCO World Heritage Island of Mozambique.",
+        "Now operates as a museum of decorative arts and colonial history.",
+        "Features extensive collections of original Indo-Portuguese furniture.",
+        "The striking red facade is an iconic symbol of the island's 'Stone Town'."
+      ]
+    },
+    {
+      "id": "hospital-sao-joao-deus-landmarks-v2",
+      "descriptionAdvanced": "The Hospital de São João de Deus is an immense, imposing neoclassical ruin occupying almost an entire block on the Island of Mozambique. Constructed in 1877 during a period of massive colonial investment, it was originally designed as a sprawling, state-of-the-art medical facility to serve the colonial elite and military personnel. The massive white structure features grand colonnades and wide courtyards. Abandoned in the late 20th century as the island's population dwindled, the striking, overgrown ruins now stand as a powerful architectural testament to the scale of public works undertaken in the former capital. History K8 — Colonial public health, neoclassical ruins, and monumental architecture.",
+      "factsAdvanced": [
+        "Built in 1877 on the historic Island of Mozambique.",
+        "Designed in a grand neoclassical architectural style with expansive colonnades.",
+        "Historically the largest and most advanced hospital in Portuguese East Africa.",
+        "Occupies a massive footprint within the island's 'Stone Town'.",
+        "Currently stands abandoned, in a state of picturesque ruin.",
+        "Reflects the massive public infrastructure investments of the late 19th century."
+      ]
+    },
+    {
+      "id": "inhambane-central-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Inhambane Central Mosque is a striking religious and cultural landmark in one of Mozambique's oldest cities. Situated near the historic waterfront, the mosque reflects the deep, centuries-old influence of Arab and Swahili maritime trade on the southern coast. Its distinctive architecture features brilliant white walls, intricate geometric details, and a prominent, vibrant green dome that dominates the town's skyline. The mosque serves as the spiritual heart for the city's significant Muslim community, representing the enduring legacy of Islamic culture in the 'Land of the Good People.' History K8 — Islamic architecture, Swahili coast culture, and religious heritage.",
+      "factsAdvanced": [
+        "Located near the historic harbor of Inhambane city.",
+        "Features a highly distinctive, large green dome and minaret.",
+        "Serves as the primary place of worship for the local Muslim community.",
+        "Reflects the deep historical ties to Arab maritime trade routes.",
+        "One of the most photographed architectural landmarks in the province.",
+        "Stands in close proximity to the city's historic Catholic Cathedral."
+      ]
+    },
+    {
+      "id": "fortaleza-sao-joao-baptista-ibo-landmarks-v2",
+      "descriptionAdvanced": "The Fortaleza de São João Baptista is a massive, star-shaped military fortress located on Ibo Island in the Quirimbas Archipelago. Completed in 1791, it was the principal defensive structure of what was then the second most important trading post in Portuguese East Africa. The fort was heavily armed with bronze cannons and built to protect the incredibly lucrative ivory and slave trades from rival European powers and Omani Arab forces. Its thick coral-rag walls famously housed local silversmiths who operated workshops inside the historic bastions. History K8 — Star forts, slave trade hubs, and coastal defense.",
+      "factsAdvanced": [
+        "Located on Ibo Island in Cabo Delgado Province.",
+        "Completed in 1791 to defend the lucrative ivory and slave trades.",
+        "Features a classic pentagonal star-fort design with distinct bastions.",
+        "Constructed using massive blocks of local coral rag stone.",
+        "Still houses ancient bronze and iron cannons on its ramparts.",
+        "Historically utilized by traditional Makonde silversmiths for their workshops."
+      ]
+    },
+    {
+      "id": "forte-de-santo-antonio-ibo-landmarks-v2",
+      "descriptionAdvanced": "The Forte de Santo António is the smaller, older sister fortification to the massive São João Baptista on Ibo Island. Completed around 1753, this square coastal battery was built directly on the water's edge to command the primary shipping channel entering the island's harbor. Constructed from local coral stone, the fort is smaller in scale but played a crucial early role in securing Portuguese control over the northern Quirimbas Archipelago. Today, the heavily weathered ruins, slowly being reclaimed by mangroves and high tides, offer a romantic, evocative glimpse into early colonial maritime strategy. History K8 — Coastal batteries, maritime history, and the Quirimbas.",
+      "factsAdvanced": [
+        "Completed circa 1753 on the shores of Ibo Island.",
+        "A smaller, square coastal battery predating the main star fort.",
+        "Positioned specifically to control the narrow shipping channel.",
+        "Built using local coral stone and mangrove timber.",
+        "Currently in a state of ruin, affected heavily by tidal erosion.",
+        "Represents the earliest phase of permanent Portuguese military presence on Ibo."
+      ]
+    },
+    {
+      "id": "armando-emilio-guebuza-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Armando Emílio Guebuza Bridge is a massive, crucial piece of national infrastructure that finally united the northern and southern halves of Mozambique by road. Spanning the immense Zambezi River at Caia in Sofala Province, the 2.37-kilometer bridge was completed in 2009. Prior to its construction, all vehicular traffic relied on a notoriously slow and unreliable ferry service, severely crippling national trade. Named after the country's former president, the bridge is vital for transporting agricultural produce, timber, and manufactured goods along the EN1 highway. Geography K8 — Civil engineering, national highways, and river crossings.",
+      "factsAdvanced": [
+        "Spans the Zambezi River between Sofala and Zambezia provinces.",
+        "Completed in August 2009, eliminating the need for a ferry crossing.",
+        "Measures a massive 2,376 meters in total length.",
+        "Features a main central span of 137 meters.",
+        "Funded largely by the European Union and bilateral international aid.",
+        "Critical infrastructure on the EN1, the country's primary north-south highway."
+      ]
+    },
+    {
+      "id": "cahora-bassa-dam-landmarks-v2",
+      "descriptionAdvanced": "The Cahora Bassa Dam is an engineering marvel and one of the largest hydroelectric facilities in Africa, spanning the mighty Zambezi River in Tete Province. Constructed during the final years of Portuguese colonial rule and completed in 1974, it creates an enormous artificial lake that stretches over 250 kilometers. The dam's massive turbines generate over 2,000 megawatts of electricity, the vast majority of which is exported to South Africa via a remarkable high-voltage direct current (HVDC) transmission line. Cahora Bassa remains the undisputed powerhouse of Mozambique's economy and regional energy diplomacy. Geography K8 — Megadams, hydroelectric power, and HVDC transmission.",
+      "factsAdvanced": [
+        "Located on the Zambezi River in Tete Province.",
+        "The largest hydroelectric power station in southern Africa, producing 2,075 MW.",
+        "Completed in 1974 during the Portuguese colonial administration.",
+        "Exports the majority of its power to South Africa via a 1,400 km HVDC line.",
+        "Creates Lake Cahora Bassa, one of Africa's largest artificial reservoirs.",
+        "Ownership was fully transferred to the Mozambican state (HCB) in 2007."
+      ]
+    },
+    {
+      "id": "massingir-dam-landmarks-v2",
+      "descriptionAdvanced": "The Massingir Dam is a monumental earth-fill dam located on the Elephants River in Gaza Province, mere kilometers from the South African border. Originally initiated in the 1970s but delayed for decades by civil war, it was fully completed and rehabilitated in the 2000s. The dam forms a massive reservoir crucial for regulating water flow into the lower Limpopo River valley, sustaining the massive agricultural irrigation schemes around Chókwè. Additionally, the dam provides a spectacular scenic backdrop to the adjacent Limpopo National Park, supporting a growing eco-tourism and freshwater fishing sector. Geography K8 — Earth-fill dams, irrigation reservoirs, and water management.",
+      "factsAdvanced": [
+        "Constructed on the Elephants River (Rio dos Elefantes) in Gaza Province.",
+        "An enormous earth-fill dam structure, vital for regional water security.",
+        "Regulates irrigation water for the massive agricultural schemes in Chókwè.",
+        "Construction was interrupted for over 20 years due to the civil war.",
+        "The reservoir borders the Limpopo National Park.",
+        "Supports a significant local freshwater artisanal fishing industry."
+      ]
+    },
+    {
+      "id": "limpopo-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Limpopo Bridge at Xai-Xai is a critical infrastructural chokepoint on the EN1, Mozambique's primary north-south highway. The modern bridge spans the wide, fertile floodplains of the Limpopo River just before it empties into the Indian Ocean. Historically, the crossing point has been highly vulnerable to extreme weather; the old suspension bridge was severely damaged, and the entire area was catastrophically submerged during the massive 2000 Limpopo floods. The new, robust concrete bridge ensures that heavy freight and passenger traffic can continuously connect the capital, Maputo, to the central and northern provinces. Geography K7 — River crossings, highway infrastructure, and floodplains.",
+      "factsAdvanced": [
+        "Spans the Limpopo River near the city of Xai-Xai in Gaza Province.",
+        "A critical infrastructural link on the EN1 national highway.",
+        "Connects Maputo to the central and northern regions of the country.",
+        "Replaced older infrastructure heavily damaged by historic flooding.",
+        "The surrounding floodplains are incredibly fertile agricultural zones.",
+        "Must be rigorously maintained due to the massive volume of heavy freight traffic."
+      ]
+    },
+    {
+      "id": "gil-vicente-theatre-landmarks-v2",
+      "descriptionAdvanced": "The Gil Vicente Theatre in Maputo is a striking example of early 20th-century Art Deco architecture and one of the capital's premier cultural institutions. Named after the renowned Portuguese playwright, the theatre has hosted generations of performing arts, from colonial-era plays and cinema to modern Mozambican music, dance, and political rallies. The building's elegant, symmetrical facade and historic interior have been meticulously maintained, preserving its status as a cornerstone of Maputo's vibrant intellectual and artistic scene. It remains a key venue for the city's numerous international film and arts festivals. History K8 — Art Deco architecture, performing arts, and cultural history.",
+      "factsAdvanced": [
+        "Located in the downtown cultural district of Maputo.",
+        "Designed in a classic, elegant Art Deco architectural style.",
+        "Named after Gil Vicente, the 16th-century Portuguese playwright.",
+        "Historically a major venue for cinema, theatre, and intellectual gatherings.",
+        "Remains an active host for international arts and film festivals.",
+        "A cherished symbol of Maputo's enduring cultural vibrancy."
+      ]
+    },
+    {
+      "id": "national-library-mozambique-landmarks-v2",
+      "descriptionAdvanced": "The National Library of Mozambique (Biblioteca Nacional de Moçambique), located in Maputo, is the country's primary repository for literary, historical, and academic archives. Established during the colonial period, it houses an extensive collection of rare Portuguese administrative documents, early Mozambican literature, and exhaustive records of the independence struggle. The library's architecture reflects mid-20th-century institutional design, providing a quiet, scholarly refuge amidst the bustling capital. As a legal deposit library, it is tasked with preserving the nation's intellectual heritage and promoting literacy across a linguistically diverse population. History K8 — National archives, literary heritage, and colonial records.",
+      "factsAdvanced": [
+        "Located in the heart of Maputo city.",
+        "Serves as the official legal deposit library for the nation.",
+        "Established formally in 1961 during the Portuguese colonial administration.",
+        "Houses rare historic documents, colonial archives, and modern literature.",
+        "Acts as the central hub for the national public library network.",
+        "Crucial for academic research and the preservation of Mozambican heritage."
+      ]
+    },
+    {
+      "id": "central-market-maputo-landmarks-v2",
+      "descriptionAdvanced": "The Central Market of Maputo (Mercado Central) is a vibrant, bustling sensory experience housed within a magnificent neo-classical iron building. Designed in 1901 by David Carvalho, the structure features intricate wrought-iron arches and a high, ventilated roof imported from Europe. Inside, hundreds of vendors sell a staggering array of fresh produce, massive tiger prawns from the Indian Ocean, fiery peri-peri spices, and artisan crafts. It is not merely a tourist attraction but the authentic, beating heart of the city's daily commerce, offering a vivid cross-section of Mozambican culinary and cultural life. History K8 — Urban markets, iron architecture, and culinary geography.",
+      "factsAdvanced": [
+        "Located in the Baixa (downtown) district of Maputo.",
+        "Designed in 1901 featuring a massive, imported wrought-iron roof structure.",
+        "Historically known as the Bazar da Baixa.",
+        "The premier location for purchasing fresh seafood, spices, and cashew nuts.",
+        "A critical hub for the daily informal economy of the capital.",
+        "Considered a masterpiece of functional colonial-era architecture."
+      ]
+    },
+    {
+      "id": "nucleo-de-arte-landmarks-v2",
+      "descriptionAdvanced": "The Núcleo de Arte in Maputo is the absolute epicenter of Mozambique's contemporary visual arts movement. Founded in 1921, this historic artists' cooperative survived colonialism, a grueling civil war, and economic hardship to foster generations of the nation's most celebrated painters and sculptors, including Malangatana Ngwenya. Following the civil war, the collective gained international acclaim for the 'Transforming Arms into Tools' project, wherein artists welded decommissioned assault rifles and landmines into stunning sculptures. Today, it remains a vibrant, collaborative workshop and gallery space, essential to the nation's creative identity. History K8 — Contemporary art, post-war healing, and cultural cooperatives.",
+      "factsAdvanced": [
+        "Founded in 1921, making it one of the oldest artists' cooperatives in Africa.",
+        "Located in the heart of Maputo.",
+        "Fostered the careers of legendary artists like Malangatana and Chissano.",
+        "Famous for the 'Transforming Arms into Tools' post-civil war sculpture project.",
+        "Functions as a working studio, exhibition space, and intellectual hub.",
+        "A critical institution for preserving and evolving Mozambican visual arts."
+      ]
+    },
+    {
+      "id": "xipamanine-market-landmarks-v2",
+      "descriptionAdvanced": "The Xipamanine Market is the largest and most intense informal market in Maputo, located deep within the city's sprawling suburban bairros. Unlike the tourist-friendly Central Market, Xipamanine is an overwhelming labyrinth of commerce where everything from secondhand clothing and auto parts to traditional medicine (muthi) is traded. It is the absolute core of the capital's massive informal economy, serving tens of thousands of working-class residents daily. Navigating its crowded, vibrant alleys offers an unfiltered, authentic look at the immense resilience and entrepreneurial spirit that drives modern urban Mozambique. Geography K7 — Informal economies, suburban markets, and urban geography.",
+      "factsAdvanced": [
+        "The largest informal market (mercado abastecedor) in the Maputo metropolitan area.",
+        "Located in the historic suburban bairro of Xipamanine.",
+        "Famous for its massive section dedicated to traditional medicine and healers.",
+        "A vital economic lifeline for thousands of informal vendors.",
+        "Sells a vast array of goods including electronics, clothing, and bulk foods.",
+        "Represents the true, unvarnished commercial heart of the working-class city."
+      ]
+    },
+    {
+      "id": "feima-art-market-landmarks-v2",
+      "descriptionAdvanced": "The FEIMA Art Market (Feira de Artesanato, Flores e Gastronomica de Maputo) is a vibrant, organized, open-air market set within a lush, shaded park in the upscale Polana district. It is the premier destination in the capital for purchasing high-quality Mozambican handicrafts, including intricate Makonde wood carvings from the north, vibrant capulana textiles, and handmade jewelry. Beyond shopping, FEIMA is renowned for its bustling food stalls offering authentic national dishes like Zambezian chicken and matapa. It serves as a safe, relaxed cultural hub blending artisan commerce with local gastronomy. Geography K7 — Artisan markets, cultural tourism, and urban parks.",
+      "factsAdvanced": [
+        "Located in the affluent Polana neighborhood of Maputo.",
+        "Set within a beautifully shaded, landscaped public park.",
+        "The primary, organized market for purchasing authentic national handicrafts.",
+        "Famous for selling intricate Makonde ebony wood carvings.",
+        "Hosts numerous popular food stalls serving traditional Mozambican cuisine.",
+        "A major cultural gathering place for both locals and international visitors."
+      ]
+    },
+    {
+      "id": "banco-de-mocambique-landmarks-v2",
+      "descriptionAdvanced": "The new Bank of Mozambique Headquarters in Maputo is a towering, ultra-modern skyscraper that profoundly alters the capital's skyline. Completed in 2017, the striking twin-tower complex features a massive, curving glass facade and state-of-the-art corporate architecture, reflecting the country's aspirations for rapid economic modernization and foreign investment. As the central bank, it dictates national monetary policy, manages the metical currency, and oversees the financial sector. The gleaming structure stands in stark contrast to the nearby historic colonial buildings, symbolizing Maputo's aggressive pivot toward a 21st-century globalized economy. Geography K8 — Corporate architecture, central banking, and urban skylines.",
+      "factsAdvanced": [
+        "Located in the central business district (Baixa) of Maputo.",
+        "A massive, ultra-modern twin-tower skyscraper completed in 2017.",
+        "Currently one of the tallest and most prominent buildings in the country.",
+        "The official headquarters of the national central bank.",
+        "Features a highly distinctive, curved glass architectural design.",
+        "Symbolizes Mozambique's modern economic aspirations and financial sector growth."
+      ]
+    },
+    {
+      "id": "zimpeto-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Estádio Nacional do Zimpeto is Mozambique's premier, state-of-the-art multi-purpose sports facility, located in the northern suburbs of Maputo. Financed by the Chinese government and opened in 2011 to host the All-Africa Games, the stadium boasts a seating capacity of 42,000 and an Olympic-standard athletics track. It serves as the proud home ground for the 'Mambas', the national football team, hosting massive, passionate crowds for international qualifiers. The stadium's construction sparked significant infrastructural development in the Zimpeto area, pushing the city's suburban boundaries further north. Geography K7 — Mega-stadiums, sports geography, and suburban development.",
+      "factsAdvanced": [
+        "Located in the Zimpeto suburb, north of central Maputo.",
+        "Mozambique's largest national stadium with a capacity of 42,000.",
+        "Financed and constructed by Chinese state-owned enterprises.",
+        "Officially opened in 2011 to host the 10th All-Africa Games.",
+        "The primary home venue for the Mozambican national football team.",
+        "Features an Olympic-standard athletics track and modern sporting facilities."
+      ]
+    },
+    {
+      "id": "chimoio-water-tower-landmarks-v2",
+      "descriptionAdvanced": "The Chimoio Water Tower is an unusual, highly distinctive architectural landmark dominating the skyline of the Manica provincial capital. Constructed during the mid-20th century, the tower's brutalist concrete design resembles a massive, futuristic mushroom or a flying saucer perched on a stalk. Beyond its striking aesthetic, the tower remains a vital piece of municipal infrastructure, regulating water pressure for the rapidly expanding agricultural city. It serves as a proud, quirky symbol of Chimoio, featuring prominently on local postcards and acting as a central navigational point for residents. Geography K7 — Municipal infrastructure, brutalist design, and urban landmarks.",
+      "factsAdvanced": [
+        "Located in the center of Chimoio, the capital of Manica Province.",
+        "Features a highly unique, brutalist 'mushroom' or 'saucer' shape.",
+        "Constructed during the mid-20th century colonial expansion.",
+        "A fully functioning piece of critical municipal water infrastructure.",
+        "The tallest and most recognizable architectural landmark in the city.",
+        "Serves as a popular, informal meeting point and navigational aid."
+      ]
+    },
+    {
+      "id": "gorongosa-national-park-life-v2",
+      "descriptionAdvanced": "Gorongosa National Park, located in the Great Rift Valley of central Mozambique, is one of Africa's most spectacular conservation success stories. Once a premier safari destination, its wildlife was almost entirely decimated during the brutal 15-year civil war. Following a massive, internationally funded public-private partnership initiated in 2004, the park has experienced a miraculous ecological rebirth. Today, massive herds of elephants, waterbuck, and lions have returned to the stunning floodplains and fever-tree forests. Gorongosa's model brilliantly integrates cutting-edge scientific research with aggressive community development, ensuring that the surrounding human population directly benefits from the ecosystem's protection. Geography K8 — Ecological restoration, rift valleys, and community conservation.",
+      "factsAdvanced": [
+        "Located at the southern end of the Great African Rift Valley in Sofala Province.",
+        "Lost up to 95% of its large mammal population during the civil war.",
+        "Undergoing a massive, globally acclaimed ecological restoration project.",
+        "Managed via a 20-year public-private partnership with the Carr Foundation.",
+        "Features diverse ecosystems ranging from floodplains to Mount Gorongosa.",
+        "Heavily emphasizes human development and education for surrounding communities."
+      ]
+    },
+    {
+      "id": "limpopo-national-park-life-v2",
+      "descriptionAdvanced": "Limpopo National Park forms the vast, rugged Mozambican component of the Great Limpopo Transfrontier Park, linking directly with South Africa's Kruger National Park and Zimbabwe's Gonarezhou. Established in 2001, the park covers over a million hectares of pristine mopane woodlands, arid savannahs, and the massive Shingwedzi river basin. Conservation efforts have focused on dropping international border fences, allowing massive herds of elephants and other wildlife to re-establish ancient, cross-border migration routes. The park offers an incredibly wild, remote safari experience, prioritizing expansive, untouched wilderness over high-density tourist infrastructure. Geography K8 — Transfrontier conservation, mopane woodlands, and wildlife migration.",
+      "factsAdvanced": [
+        "Located in Gaza Province, bordering South Africa to the west.",
+        "Covers a massive area of approximately 10,000 square kilometers.",
+        "Forms a critical third of the Great Limpopo Transfrontier Park.",
+        "Created by dropping physical border fences with Kruger National Park.",
+        "Characterized by rugged mopane woodlands and remote, arid savannah.",
+        "Facilitates the natural, ancient migration patterns of elephant herds."
+      ]
+    }
+  ]
+}

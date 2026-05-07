@@ -1,307 +1,316 @@
 import json
 
-faqs = {
-    "ba-medjugorje": {
-        "de": [
-            {"q": "Warum ist Međugorje weltberühmt?", "a": "Aufgrund der Berichte über Marienerscheinungen, die seit 1981 andauern."},
-            {"q": "Welches ist der wichtigste Ort für Pilger in Međugorje?", "a": "Die Kirche des Heiligen Jakobus (Sveti Jakov)."},
-            {"q": "Was ist der Erscheinungsberg?", "a": "Der Berg Crnica, wo die Kinder die Jungfrau Maria zum ersten Mal gesehen haben sollen."},
-            {"q": "Wie viele Menschen besuchen Međugorje jährlich?", "a": "Es wird geschätzt, dass jährlich über eine Million Pilger aus aller Welt kommen."},
-            {"q": "Wird Međugorje vom Vatikan offiziell anerkannt?", "a": "Der Vatikan hat Wallfahrten offiziell erlaubt, die Erscheinungen selbst werden noch untersucht."}
-        ],
-        "hu": [
-            {"q": "Miért világhírű Međugorje?", "a": "Az 1981 óta tartó Mária-jelenésekről szóló beszámolók miatt."},
-            {"q": "Melyik a zarándokok legfontosabb helyszíne Međugorjéban?", "a": "A Szent Jakab-templom (Sveti Jakov)."},
-            {"q": "Mi az a Jelenések hegye?", "a": "A Crnica-hegy, ahol a gyermekek állítólag először látták Szűz Máriát."},
-            {"q": "Hányan látogatják Međugorjét évente?", "a": "Becslések szerint évente több mint egymillió zarándok érkezik a világ minden tájáról."},
-            {"q": "Hivatalosan elismeri-e a Vatikán Međugorjét?", "a": "A Vatikán hivatalosan engedélyezte a zarándoklatokat, magukat a jelenéseket még vizsgálják."}
-        ],
-        "ro": [
-            {"q": "De ce este Međugorje faimos în întreaga lume?", "a": "Datorită relatărilor despre aparițiile Fecioarei Maria, care continuă din 1981."},
-            {"q": "Care este cel mai important loc pentru pelerini în Međugorje?", "a": "Biserica Sfântul Iacob (Sveti Jakov)."},
-            {"q": "Ce este Dealul Aparițiilor?", "a": "Muntele Crnica, unde se spune că copiii au văzut-o pe Fecioara Maria pentru prima dată."},
-            {"q": "Câți oameni vizitează Međugorje anual?", "a": "Se estimează că peste un milion de pelerini din întreaga lume vin anual."},
-            {"q": "Este Međugorje recunoscut oficial de Vatican?", "a": "Vaticanul a autorizat oficial pelerinajele, în timp ce aparițiile în sine sunt încă sub investigație."}
-        ],
-        "en": [
-            {"q": "Why is Međugorje world-famous?", "a": "Due to reports of apparitions of the Virgin Mary, which have been ongoing since 1981."},
-            {"q": "What is the most important site for pilgrims in Međugorje?", "a": "The Church of Saint James (Sveti Jakov)."},
-            {"q": "What is Apparition Hill?", "a": "Crnica Hill, where children are said to have seen the Virgin Mary for the first time."},
-            {"q": "How many people visit Međugorje annually?", "a": "It is estimated that over one million pilgrims from all over the world visit each year."},
-            {"q": "Is Međugorje officially recognized by the Vatican?", "a": "The Vatican has officially authorized pilgrimages, while the apparitions themselves are still under investigation."}
-        ]
+data = {
+  "lang": "de",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tomb-of-king-tongmyong-history-v2",
+      "descriptionAdvanced": "Das Grab des Königs Tongmyŏng, des legendären Gründers des Goguryeo-Reiches (37 v. Chr. – 668 n. Chr.), liegt nahe Pjöngjang. Es ist ein zentrales Monument der nordkoreanischen Geschichtsschreibung, um die historische Legitimität und tiefen Wurzeln der koreanischen Nation zu betonen. Die Anlage wurde in den 1990er Jahren massiv rekonstruiert und umfasst das zentrale Grabhügelmonument sowie einen buddhistischen Tempel und Steinstatuen von Würdenträgern und Tigern. Die UNESCO hat dieses Grab zusammen mit anderen Goguryeo-Stätten wegen seiner einzigartigen Wandmalereien und architektonischen Bedeutung in die Liste des Weltkulturerbes aufgenommen. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Das Grab ehrt König Tongmyŏng, den Gründer von Goguryeo.",
+        "Die Stätte wurde in den frühen 1990er Jahren aufwendig restauriert.",
+        "Es gehört zum UNESCO-Weltkulturerbe der Goguryeo-Gräber.",
+        "Die Anlage umfasst auch den buddhistischen Jongrung-Tempel.",
+        "Vor dem Grab stehen lebensgroße Steinstatuen von Tigern und Ministern.",
+        "Das Königreich Goguryeo bestand von 37 v. Chr. bis 668 n. Chr."
+      ]
     },
-    "ba-film-festival": {
-        "de": [
-            {"q": "Was ist das Sarajevo Film Festival?", "a": "Das größte und bedeutendste Filmfestival auf dem Balkan."},
-            {"q": "Wann wurde das Festival gegründet?", "a": "Es wurde 1995 während der Belagerung von Sarajevo gegründet."},
-            {"q": "Wie heißt die höchste Auszeichnung des Festivals?", "a": "Das 'Herz von Sarajevo' (Srce Sarajeva)."},
-            {"q": "Wann findet das Festival normalerweise statt?", "a": "Jedes Jahr im August."},
-            {"q": "Welche bekannten Stars haben das Festival bereits besucht?", "a": "Stars wie Robert De Niro, Angelina Jolie, Brad Pitt und Bono Vox."}
-        ],
-        "hu": [
-            {"q": "Mi az a Szarajevói Filmfesztivál?", "a": "A Balkán legnagyobb és legjelentősebb filmfesztiválja."},
-            {"q": "Mikor alapították a fesztivált?", "a": "1995-ben alapították, Szarajevó ostroma idején."},
-            {"q": "Hogy hívják a fesztivál legrangosabb díját?", "a": "Szarajevó Szíve (Srce Sarajeva)."},
-            {"q": "Mikor szokták megrendezni a fesztivált?", "a": "Minden év augusztusában."},
-            {"q": "Milyen ismert sztárok látogattak már el a fesztiválra?", "a": "Olyan sztárok, mint Robert De Niro, Angelina Jolie, Brad Pitt és Bono Vox."}
-        ],
-        "ro": [
-            {"q": "Ce este Festivalul de Film de la Sarajevo?", "a": "Cel mai mare și mai important festival de film din Balcani."},
-            {"q": "Când a fost fondat festivalul?", "a": "A fost fondat în 1995, în timpul asediului orașului Sarajevo."},
-            {"q": "Cum se numește cel mai mare premiu al festivalului?", "a": "Inima orașului Sarajevo (Srce Sarajeva)."},
-            {"q": "Când are loc de obicei festivalul?", "a": "În fiecare an, în luna august."},
-            {"q": "Ce vedete faimoase au vizitat deja festivalul?", "a": "Vedete precum Robert De Niro, Angelina Jolie, Brad Pitt și Bono Vox."}
-        ],
-        "en": [
-            {"q": "What is the Sarajevo Film Festival?", "a": "The largest and most prominent film festival in the Balkans."},
-            {"q": "When was the festival founded?", "a": "It was founded in 1995 during the Siege of Sarajevo."},
-            {"q": "What is the highest award of the festival called?", "a": "The 'Heart of Sarajevo' (Srce Sarajeva)."},
-            {"q": "When does the festival usually take place?", "a": "Every year in August."},
-            {"q": "Which famous stars have visited the festival?", "a": "Stars like Robert De Niro, Angelina Jolie, Brad Pitt, and Bono Vox."}
-        ]
+    {
+      "id": "arch-of-triumph-pyongyang-history-v2",
+      "descriptionAdvanced": "Der Triumphbogen in Pjöngjang wurde 1982 errichtet, um den Widerstandskampf Kim Il-sungs gegen die japanische Kolonialherrschaft von 1925 bis 1945 zu würdigen. Mit einer Höhe von 60 Metern ist er absichtlich etwas größer gebaut als sein Pendant in Paris und stellt somit den höchsten Triumphbogen der Welt dar. Das massive Monument aus weißem Granit markiert die Stelle, an der Kim Il-sung nach der Befreiung Koreas 1945 seine erste öffentliche Rede hielt. Die 25.500 Granitblöcke des Bogens stehen symbolisch für jeden Tag im Leben Kim Il-sungs bis zu seinem 70. Geburtstag. Geschichte K8 — moderner Staat.",
+      "factsAdvanced": [
+        "Der Triumphbogen ist mit 60 Metern Höhe der größte der Welt.",
+        "Er wurde 1982 zum 70. Geburtstag von Kim Il-sung eingeweiht.",
+        "Das Monument besteht aus genau 25.500 weißen Granitblöcken.",
+        "Er feiert den koreanischen Widerstand gegen die Japaner (1925–1945).",
+        "Der Bogen markiert den Ort von Kim Il-sungs erster Rede 1945.",
+        "Die Säulen sind mit massiven Bronzereliefs verziert."
+      ]
     },
-    "ba-blidinje": {
-        "de": [
-            {"q": "Was ist der Naturpark Blidinje?", "a": "Ein geschütztes Naturgebiet auf einem Hochplateau zwischen den Bergen Čvrsnica und Vran."},
-            {"q": "Was ist das bekannteste Naturdenkmal im Park?", "a": "Der Blidinje-See, der größte Bergsee in Bosnien und Herzegowina."},
-            {"q": "Was sind die Stećci von Dugo Polje?", "a": "Eine Nekropole mit mittelalterlichen Grabsteinen, die zum UNESCO-Welterbe gehört."},
-            {"q": "Wofür ist die Flora des Parks bekannt?", "a": "Für die endemische Schlangenhaut-Kiefer (Munika)."},
-            {"q": "Welche Aktivitäten kann man im Park unternehmen?", "a": "Skifahren im Winter, Wandern, Radfahren und Reiten im Sommer."}
-        ],
-        "hu": [
-            {"q": "Mi a Blidinje Natúrpark?", "a": "Egy védett természeti terület a Čvrsnica- és a Vran-hegység közötti fennsíkon."},
-            {"q": "Mi a park legismertebb természeti látványossága?", "a": "A Blidinje-tó, Bosznia-Hercegovina legnagyobb hegyi tava."},
-            {"q": "Mik azok a Dugo Polje-i stećci-k?", "a": "Egy középkori sírkövekből álló nekropolisz, amely az UNESCO világörökség része."},
-            {"q": "Miről ismert a park flórája?", "a": "Az endemikus páncélfenyőről (Munika)."},
-            {"q": "Milyen tevékenységeket lehet végezni a parkban?", "a": "Télen síelést, nyáron túrázást, kerékpározást és lovaglást."}
-        ],
-        "ro": [
-            {"q": "Ce este Parcul Natural Blidinje?", "a": "O zonă naturală protejată pe un platou înalt între munții Čvrsnica și Vran."},
-            {"q": "Care este cel mai cunoscut monument natural din parc?", "a": "Lacul Blidinje, cel mai mare lac montan din Bosnia și Herțegovina."},
-            {"q": "Ce sunt monumentele stećci de la Dugo Polje?", "a": "O necropolă cu pietre funerare medievale, care face parte din patrimoniul mondial UNESCO."},
-            {"q": "Pentru ce este cunoscută flora parcului?", "a": "Pentru pinul endemic de munte (Munika)."},
-            {"q": "Ce activități pot fi desfășurate în parc?", "a": "Schi în timpul iernii, drumeții, ciclism și echitație în timpul verii."}
-        ],
-        "en": [
-            {"q": "What is the Blidinje Nature Park?", "a": "A protected natural area on a high plateau between the Čvrsnica and Vran mountains."},
-            {"q": "What is the most famous natural landmark in the park?", "a": "Lake Blidinje, the largest mountain lake in Bosnia and Herzegovina."},
-            {"q": "What are the stećci of Dugo Polje?", "a": "A necropolis of medieval tombstones that is a UNESCO World Heritage site."},
-            {"q": "What is the flora of the park known for?", "a": "For the endemic Bosnian pine (Munika)."},
-            {"q": "What activities can be done in the park?", "a": "Skiing in winter, hiking, cycling, and horseback riding in summer."}
-        ]
+    {
+      "id": "juche-tower-history-v2",
+      "descriptionAdvanced": "Der Juche-Turm am Ufer des Taedong-Flusses in Pjöngjang ist das ideologische Zentrum Nordkoreas. Er wurde 1982 erbaut, um die von Kim Il-sung entwickelte Juche-Ideologie der staatlichen Eigenständigkeit zu verherrlichen. Der obeliskartige Turm erreicht mit seiner leuchtend roten Fackel aus Glas eine beeindruckende Höhe von 170 Metern. Am Fuß des Turms befindet sich eine ikonische 30 Meter hohe Bronzestatue, die drei Figuren zeigt: einen Arbeiter mit Hammer, einen Bauern mit Sichel und einen Intellektuellen mit Schreibpinsel. Diese drei Werkzeuge bilden zusammen das Emblem der Partei der Arbeit Koreas. Geschichte K8 — moderner Staat.",
+      "factsAdvanced": [
+        "Der Turm ist insgesamt 170 Meter hoch.",
+        "Er wurde 1982 anlässlich des 70. Geburtstags von Kim Il-sung fertiggestellt.",
+        "Die rote Fackel auf der Spitze wiegt rund 45 Tonnen.",
+        "Die Statue am Fuß ist 30 Meter hoch und zeigt drei Arbeiterklassen.",
+        "Der Turm besteht aus 25.550 weißen Granitblöcken.",
+        "Er widmet sich der ideologischen Doktrin der Juche (Eigenständigkeit)."
+      ]
     },
-    "ba-trebinje": {
-        "de": [
-            {"q": "Wo liegt Trebinje?", "a": "Im äußersten Süden von Bosnien und Herzegowina, nahe der Grenze zu Kroatien und Montenegro."},
-            {"q": "Welcher Fluss fließt durch Trebinje?", "a": "Der Fluss Trebišnjica."},
-            {"q": "Wofür ist Trebinje bekannt?", "a": "Für sein mediterranes Klima, den Weinbau und die schöne Altstadt."},
-            {"q": "Was ist die Arslanagić-Brücke?", "a": "Eine berühmte osmanische Brücke aus dem 16. Jahrhundert."},
-            {"q": "Welches Kloster thront über der Stadt?", "a": "Das Kloster Hercegovačka Gračanica auf dem Crkvina-Hügel."}
-        ],
-        "hu": [
-            {"q": "Hol fekszik Trebinje?", "a": "Bosznia-Hercegovina legdélibb részén, a horvát és a montenegrói határ közelében."},
-            {"q": "Melyik folyó folyik át Trebinjén?", "a": "A Trebišnjica folyó."},
-            {"q": "Miről ismert Trebinje?", "a": "Mediterrán éghajlatáról, borászatáról és gyönyörű óvárosáról."},
-            {"q": "Mi az az Arslanagić-híd?", "a": "Egy híres 16. századi oszmán híd."},
-            {"q": "Melyik kolostor magasodik a város fölé?", "a": "A Hercegovačka Gračanica kolostor a Crkvina-dombon."}
-        ],
-        "ro": [
-            {"q": "Unde se află Trebinje?", "a": "În extremitatea sudică a Bosniei și Herțegovinei, aproape de granița cu Croația și Muntenegru."},
-            {"q": "Ce râu trece prin Trebinje?", "a": "Râul Trebišnjica."},
-            {"q": "Pentru ce este cunoscut Trebinje?", "a": "Pentru clima sa mediteraneană, viticultură și frumosul oraș vechi."},
-            {"q": "Ce este podul Arslanagić?", "a": "Un faimos pod otoman din secolul al XVI-lea."},
-            {"q": "Ce mănăstire tronează deasupra orașului?", "a": "Mănăstirea Hercegovačka Gračanica de pe dealul Crkvina."}
-        ],
-        "en": [
-            {"q": "Where is Trebinje located?", "a": "In the far south of Bosnia and Herzegovina, near the border with Croatia and Montenegro."},
-            {"q": "Which river flows through Trebinje?", "a": "The Trebišnjica River."},
-            {"q": "What is Trebinje known for?", "a": "For its Mediterranean climate, winemaking, and beautiful old town."},
-            {"q": "What is the Arslanagić Bridge?", "a": "A famous 16th-century Ottoman bridge."},
-            {"q": "Which monastery towers over the city?", "a": "The Hercegovačka Gračanica monastery on Crkvina Hill."}
-        ]
+    {
+      "id": "kumsusan-palace-of-the-sun-history-v2",
+      "descriptionAdvanced": "Der Kumsusan-Sonnenpalast in Pjöngjang ist das gewaltigste Mausoleum für kommunistische Führer weltweit. Ursprünglich als Amtssitz und Residenz für Kim Il-sung erbaut, wurde das massiv wirkende Gebäude nach seinem Tod 1994 in eine Ruhestätte umgewandelt. Heute sind hier die einbalsamierten Leichname von Kim Il-sung und seinem Sohn Kim Jong-il in Glassarkophagen aufgebahrt. Der Palast ist ein heiliger Ort für die nordkoreanische Bevölkerung, und Besucher müssen einen strengen Dresscode und komplexe Rituale der Ehrerbietung einhalten. Im Inneren sind zudem die persönlichen Waggons, Autos und sogar ein Boot der verstorbenen Führer ausgestellt. Geschichte K8 — moderner Staat.",
+      "factsAdvanced": [
+        "Der Palast ist das Mausoleum für Kim Il-sung und Kim Jong-il.",
+        "Bis 1994 diente das Gebäude als offizieller Amtssitz von Kim Il-sung.",
+        "Die Leichname der Führer sind hier dauerhaft einbalsamiert aufgebahrt.",
+        "Das Gebäude ist von einem gewaltigen Vorplatz flankiert.",
+        "Im Inneren werden auch die persönlichen Luxuszüge der Führer ausgestellt.",
+        "Der Zugang unterliegt extrem strengen Protokollen und Sicherheitskontrollen."
+      ]
     },
-    "ba-vranduk": {
-        "de": [
-            {"q": "Was ist Vranduk?", "a": "Eine mittelalterliche Festung und ein Dorf in der Nähe von Zenica."},
-            {"q": "Welche Rolle spielte Vranduk in der Geschichte?", "a": "Es war eine wichtige strategische Festung und zeitweise Residenz der bosnischen Könige."},
-            {"q": "An welchem Fluss liegt die Festung?", "a": "An einer engen Stelle des Flusses Bosna."},
-            {"q": "Kann man die Festung besichtigen?", "a": "Ja, sie wurde restauriert und beherbergt eine kleine ethnologische Ausstellung."},
-            {"q": "Was macht Vranduk architektonisch interessant?", "a": "Die erhaltene mittelalterliche Struktur und die Kombination mit traditionellen bosnischen Häusern."}
-        ],
-        "hu": [
-            {"q": "Mi az a Vranduk?", "a": "Egy középkori erőd és falu Zenica közelében."},
-            {"q": "Milyen szerepet játszott Vranduk a történelemben?", "a": "Fontos stratégiai erőd volt, és időnként a bosnyák királyok székhelye."},
-            {"q": "Melyik folyó partján fekszik az erőd?", "a": "A Boszna folyó egyik szűkületénél."},
-            {"q": "Látogatható-e az erőd?", "a": "Igen, felújították, és egy kis néprajzi kiállításnak ad otthont."},
-            {"q": "Mi teszi Vrandukot építészetileg érdekessé?", "a": "A megőrzött középkori szerkezete és a hagyományos bosnyák házakkal való kombinációja."}
-        ],
-        "ro": [
-            {"q": "Ce este Vranduk?", "a": "O cetate medievală și un sat situat lângă Zenica."},
-            {"q": "Ce rol a jucat Vranduk în istorie?", "a": "A fost o fortăreață strategică importantă și, uneori, reședința regilor bosniaci."},
-            {"q": "Pe ce râu se află cetatea?", "a": "Într-un punct îngust al râului Bosna."},
-            {"q": "Poate fi vizitată cetatea?", "a": "Da, a fost restaurată și găzduiește o mică expoziție etnologică."},
-            {"q": "Ce face ca Vranduk să fie interesant din punct de vedere arhitectural?", "a": "Structura medievală păstrată și combinația cu casele tradiționale bosniace."}
-        ],
-        "en": [
-            {"q": "What is Vranduk?", "a": "A medieval fortress and a village near Zenica."},
-            {"q": "What role did Vranduk play in history?", "a": "It was an important strategic fortress and sometimes the residence of Bosnian kings."},
-            {"q": "On which river is the fortress located?", "a": "At a narrow point of the Bosna River."},
-            {"q": "Can you visit the fortress?", "a": "Yes, it has been restored and houses a small ethnological exhibition."},
-            {"q": "What makes Vranduk architecturally interesting?", "a": "The preserved medieval structure and its combination with traditional Bosnian houses."}
-        ]
+    {
+      "id": "uss-pueblo-history-v2",
+      "descriptionAdvanced": "Die USS Pueblo (AGER-2) ist ein amerikanisches Spionageschiff, das im Januar 1968 von nordkoreanischen Streitkräften vor der Ostküste des Landes gekapert wurde. Der Vorfall, der als 'Pueblo-Krise' bekannt wurde, brachte die USA und Nordkorea an den Rand eines Krieges. Die Besatzung wurde fast ein Jahr lang gefangen gehalten, bevor sie nach zähen Verhandlungen freigelassen wurde. Das Schiff selbst blieb jedoch in Nordkorea und liegt heute als Trophäe am Ufer des Pothong-Flusses in Pjöngjang vor dem Victorious War Museum vertäut. Es ist das einzige Schiff der US-Marine, das sich aktuell in der Hand einer fremden Macht befindet. Geschichte K8 — Kalter Krieg.",
+      "factsAdvanced": [
+        "Die USS Pueblo wurde am 23. Januar 1968 von Nordkorea gekapert.",
+        "Es war ein amerikanisches Aufklärungsschiff der Navy.",
+        "Die Besatzung wurde 11 Monate lang in Nordkorea festgehalten.",
+        "Das Schiff liegt heute als Museumsschiff in Pjöngjang.",
+        "Es ist das einzige US-Marineschiff in ausländischer Gefangenschaft.",
+        "Die Erbeutung gilt in Nordkorea als großer Sieg im Kalten Krieg."
+      ]
     },
-    "ba-hutovo-blato": {
-        "de": [
-            {"q": "Was ist Hutovo Blato?", "a": "Ein Natur- und Vogelschutzgebiet im Süden der Herzegowina."},
-            {"q": "Warum ist es ökologisch so wichtig?", "a": "Es ist eines der wichtigsten Rastgebiete für Zugvögel in Europa."},
-            {"q": "Wie viele Vogelarten gibt es dort?", "a": "Über 240 verschiedene Vogelarten wurden dort registriert."},
-            {"q": "Welche Aktivität wird Touristen dort angeboten?", "a": "Fotosafaris mit dem Boot durch die Sümpfe und Kanäle."},
-            {"q": "Was für eine Art von Ökosystem ist Hutovo Blato?", "a": "Ein submediterranes Sumpfgebiet, das durch den Fluss Krupa gespeist wird."}
-        ],
-        "hu": [
-            {"q": "Mi az a Hutovo Blato?", "a": "Természetvédelmi terület és madárrezervátum Hercegovina déli részén."},
-            {"q": "Miért olyan fontos ökológiailag?", "a": "Európa egyik legfontosabb pihenőhelye a vonuló madarak számára."},
-            {"q": "Hány madárfaj található ott?", "a": "Több mint 240 különböző madárfajt regisztráltak a területen."},
-            {"q": "Milyen tevékenységet kínálnak ott a turistáknak?", "a": "Csónakos fotószafarit a mocsarakon és csatornákon keresztül."},
-            {"q": "Milyen típusú ökoszisztéma Hutovo Blato?", "a": "Szubmediterrán mocsárvidék, amelyet a Krupa folyó táplál."}
-        ],
-        "ro": [
-            {"q": "Ce este Hutovo Blato?", "a": "O rezervație naturală și ornitologică în sudul Herțegovinei."},
-            {"q": "De ce este atât de importantă din punct de vedere ecologic?", "a": "Este una dintre cele mai importante zone de odihnă pentru păsările migratoare din Europa."},
-            {"q": "Câte specii de păsări există acolo?", "a": "Peste 240 de specii diferite de păsări au fost înregistrate acolo."},
-            {"q": "Ce activitate este oferită turiștilor acolo?", "a": "Safari foto cu barca prin mlaștini și canale."},
-            {"q": "Ce fel de ecosistem este Hutovo Blato?", "a": "O zonă mlăștinoasă submediteraneană, alimentată de râul Krupa."}
-        ],
-        "en": [
-            {"q": "What is Hutovo Blato?", "a": "A nature and bird reserve in southern Herzegovina."},
-            {"q": "Why is it ecologically so important?", "a": "It is one of the most important resting areas for migratory birds in Europe."},
-            {"q": "How many bird species are there?", "a": "Over 240 different bird species have been registered there."},
-            {"q": "What activity is offered to tourists there?", "a": "Photo safaris by boat through the marshes and canals."},
-            {"q": "What kind of ecosystem is Hutovo Blato?", "a": "A sub-Mediterranean marshland fed by the Krupa River."}
-        ]
+    {
+      "id": "korean-demilitarized-zone-history-v2",
+      "descriptionAdvanced": "Die demilitarisierte Zone (DMZ) durchschneidet die koreanische Halbinsel am 38. Breitengrad und ist ein direktes Relikt des Koreakriegs (1950–1953). Entstanden durch das Waffenstillstandsabkommen von 1953, ist sie ein etwa 250 Kilometer langer und 4 Kilometer breiter Pufferstreifen zwischen Nord- und Südkorea. Paradoxerweise ist die DMZ trotz ihres Namens eine der am stärksten militarisierten Grenzen der Welt, gesichert durch Millionen von Landminen, Stacheldraht und Wachtürme auf beiden Seiten. Da Menschen das Gebiet jahrzehntelang gemieden haben, hat sich die DMZ ungewollt zu einem florierenden, unberührten Naturschutzgebiet für seltene Tier- und Pflanzenarten entwickelt. Geschichte K8 — Kalter Krieg.",
+      "factsAdvanced": [
+        "Die DMZ wurde 1953 durch den Waffenstillstand von Panmunjom geschaffen.",
+        "Sie ist etwa 250 Kilometer lang und 4 Kilometer breit.",
+        "Die Zone verläuft in der Nähe des 38. Breitengrads.",
+        "Sie trennt die Staaten Nordkorea und Südkorea.",
+        "Das Gebiet ist massiv vermint und extrem stark bewacht.",
+        "Aufgrund der Isolation ist sie ein wichtiges Rückzugsgebiet für Wildtiere."
+      ]
     },
-    "ba-doboj": {
-        "de": [
-            {"q": "Was ist das bekannteste Wahrzeichen von Doboj?", "a": "Die Festung Gradina, die auf einem Hügel über der Stadt liegt."},
-            {"q": "In welchem Jahrhundert wurde die Festung Doboj erbaut?", "a": "Im 13. Jahrhundert."},
-            {"q": "Welche verkehrstechnische Bedeutung hat Doboj?", "a": "Es ist einer der wichtigsten Eisenbahn- und Straßenknotenpunkte in Bosnien."},
-            {"q": "Welche Flüsse fließen bei Doboj zusammen?", "a": "Die Flüsse Bosna, Usora und Spreča."},
-            {"q": "Gibt es Museen in Doboj?", "a": "Ja, das Regionalmuseum Doboj zeigt archäologische und historische Funde."},
-        ],
-        "hu": [
-            {"q": "Mi Doboj legismertebb jelképe?", "a": "A Gradina vár, amely a város feletti dombon található."},
-            {"q": "Melyik században épült Doboj vára?", "a": "A 13. században."},
-            {"q": "Milyen közlekedési jelentősége van Dobojnak?", "a": "Bosznia egyik legfontosabb vasúti és közúti csomópontja."},
-            {"q": "Melyik folyók találkoznak Dobojnál?", "a": "A Boszna, az Usora és a Spreča folyók."},
-            {"q": "Vannak-e múzeumok Dobojban?", "a": "Igen, a Doboji Regionális Múzeum régészeti és történelmi leleteket mutat be."},
-        ],
-        "ro": [
-            {"q": "Care este cel mai cunoscut simbol al orașului Doboj?", "a": "Cetatea Gradina, situată pe un deal deasupra orașului."},
-            {"q": "În ce secol a fost construită cetatea Doboj?", "a": "În secolul al XIII-lea."},
-            {"q": "Ce importanță are Doboj pentru transport?", "a": "Este unul dintre cele mai importante noduri feroviare și rutiere din Bosnia."},
-            {"q": "Ce râuri se întâlnesc la Doboj?", "a": "Râurile Bosna, Usora și Spreča."},
-            {"q": "Există muzee în Doboj?", "a": "Da, Muzeul Regional Doboj prezintă descoperiri arheologice și istorice."},
-        ],
-        "en": [
-            {"q": "What is Doboj's most famous landmark?", "a": "The Gradina Fortress, located on a hill above the city."},
-            {"q": "In which century was Doboj Fortress built?", "a": "In the 13th century."},
-            {"q": "What transportation significance does Doboj have?", "a": "It is one of the most important railway and road junctions in Bosnia."},
-            {"q": "Which rivers meet at Doboj?", "a": "The Bosna, Usora, and Spreča rivers."},
-            {"q": "Are there museums in Doboj?", "a": "Yes, the Doboj Regional Museum displays archaeological and historical finds."},
-        ]
+    {
+      "id": "panmunjom-history-v2",
+      "descriptionAdvanced": "Panmunjom ist das ikonische 'Waffenstillstandsdorf' inmitten der demilitarisierten Zone (DMZ), wo am 27. Juli 1953 das Abkommen unterzeichnet wurde, das die Kampfhandlungen des Koreakriegs beendete. Die Joint Security Area (JSA) in Panmunjom ist der einzige Ort, an dem sich Soldaten aus Nord- und Südkorea direkt gegenüberstehen. Die blauen Baracken, die genau auf der Demarkationslinie stehen, werden für seltene diplomatische Gespräche genutzt. Panmunjom war Schauplatz historischer Ereignisse, darunter der Axtmord-Vorfall 1976 und das Treffen zwischen Kim Jong-un und US-Präsident Donald Trump 2019, das kurzzeitige Entspannung suggerierte. Geschichte K8 — Kalter Krieg.",
+      "factsAdvanced": [
+        "Das Waffenstillstandsabkommen wurde hier am 27. Juli 1953 unterzeichnet.",
+        "In der Joint Security Area stehen sich Nord- und Südkoreaner direkt gegenüber.",
+        "Die Demarkationslinie verläuft genau durch die Mitte der Verhandlungsbaracken.",
+        "1976 ereignete sich hier der berüchtigte Axtmord-Vorfall.",
+        "Panmunjom liegt etwa 53 Kilometer von Seoul und 160 Kilometer von Pjöngjang entfernt.",
+        "2019 trafen sich hier Kim Jong-un und Donald Trump."
+      ]
     },
-    "ba-prijedor": {
-        "de": [
-            {"q": "In welcher Region liegt Prijedor?", "a": "In der Region Bosanska Krajina im Nordwesten des Landes."},
-            {"q": "Welcher Fluss fließt durch Prijedor?", "a": "Der Fluss Sana."},
-            {"q": "Welcher Nationalpark liegt ganz in der Nähe von Prijedor?", "a": "Der Nationalpark Kozara."},
-            {"q": "Wofür ist die Wirtschaft von Prijedor historisch bekannt?", "a": "Für den Bergbau (Eisenerz) und die Industrie."},
-            {"q": "Gibt es kulturelle Veranstaltungen in der Stadt?", "a": "Ja, zum Beispiel das Literaturtreffen auf der Kozara."},
-        ],
-        "hu": [
-            {"q": "Melyik régióban található Prijedor?", "a": "Az ország északnyugati részén, a Bosanska Krajina régióban."},
-            {"q": "Melyik folyó folyik át Prijedoron?", "a": "A Szana (Sana) folyó."},
-            {"q": "Melyik nemzeti park fekszik Prijedor közvetlen közelében?", "a": "A Kozara Nemzeti Park."},
-            {"q": "Miről volt Prijedor gazdasága történelmileg ismert?", "a": "A bányászatról (vasérc) és az iparról."},
-            {"q": "Vannak-e kulturális események a városban?", "a": "Igen, például a Kozara-i irodalmi találkozó."},
-        ],
-        "ro": [
-            {"q": "În ce regiune se află Prijedor?", "a": "În regiunea Bosanska Krajina, în nord-vestul țării."},
-            {"q": "Ce râu trece prin Prijedor?", "a": "Râul Sana."},
-            {"q": "Ce parc național este situat foarte aproape de Prijedor?", "a": "Parcul Național Kozara."},
-            {"q": "Pentru ce este cunoscută istoric economia din Prijedor?", "a": "Pentru minerit (minereu de fier) și industrie."},
-            {"q": "Există evenimente culturale în oraș?", "a": "Da, de exemplu întâlnirea literară de pe Kozara."},
-        ],
-        "en": [
-            {"q": "In which region is Prijedor located?", "a": "In the Bosanska Krajina region in the northwest of the country."},
-            {"q": "Which river flows through Prijedor?", "a": "The Sana River."},
-            {"q": "Which national park is located very close to Prijedor?", "a": "The Kozara National Park."},
-            {"q": "What was Prijedor's economy historically known for?", "a": "For mining (iron ore) and industry."},
-            {"q": "Are there cultural events in the city?", "a": "Yes, for example, the literary meeting on Kozara."},
-        ]
+    {
+      "id": "monument-to-party-founding-history-v2",
+      "descriptionAdvanced": "Das Monument zur Gründung der Partei der Arbeit Koreas in Pjöngjang wurde 1995 anlässlich des 50. Jahrestages der Parteigründung enthüllt. Das aus Granit bestehende Monument ist einzigartig in seiner Symbolik: Es zeigt einen Hammer für die Arbeiter, eine Sichel für die Bauern und einen traditionellen koreanischen Schreibpinsel für die Intellektuellen. Diese drei Elemente sind jeweils 50 Meter hoch, was die 50 Jahre der Parteigeschichte repräsentiert. Ein riesiger steinerner Ring, der die Einheit von Führer, Partei und Volk symbolisiert, umschließt die drei Werkzeuge. Im Inneren des Rings befinden sich eindrucksvolle Bronzereliefs zur Geschichte der Revolution. Geschichte K8 — moderner Staat.",
+      "factsAdvanced": [
+        "Das Monument wurde 1995 zum 50. Parteijubiläum errichtet.",
+        "Die drei steinernen Werkzeuge sind genau 50 Meter hoch.",
+        "Es zeigt Hammer, Sichel und den Schreibpinsel der Intellektuellen.",
+        "Ein massiver Ring aus Granit umschließt die Werkzeuge.",
+        "Das Monument liegt auf einer Achse mit der Kim-Il-sung-Statue auf dem Mansu-Hügel.",
+        "Der innere Ring trägt den Schriftzug: 'Lang lebe die Partei der Arbeit Koreas!'."
+      ]
     },
-    "ba-lukomir": {
-        "de": [
-            {"q": "Was macht Lukomir so besonders?", "a": "Es ist das höchste und isolierteste Dorf in Bosnien und Herzegowina (1495 m)."},
-            {"q": "Auf welchem Berg liegt das Dorf?", "a": "Auf dem Berg Bjelašnica."},
-            {"q": "Welche Traditionen haben sich dort bewahrt?", "a": "Die traditionelle Lebensweise der Hirten, Steinbauweise der Häuser und handgestrickte Wollprodukte."},
-            {"q": "Wann ist das Dorf bewohnt?", "a": "Die Bewohner leben dort hauptsächlich von Frühling bis Spätherbst; im Winter ist es oft eingeschneit und verlassen."},
-            {"q": "Welche Aussicht bietet Lukomir?", "a": "Einen spektakulären Blick auf den Rakitnica-Canyon."},
-        ],
-        "hu": [
-            {"q": "Mi teszi Lukomirt olyan különlegessé?", "a": "Ez Bosznia-Hercegovina legmagasabban fekvő és legelszigeteltebb faluja (1495 m)."},
-            {"q": "Melyik hegyen található a falu?", "a": "A Bjelašnica-hegyen."},
-            {"q": "Milyen hagyományok maradtak fenn ott?", "a": "A pásztorok hagyományos életmódja, a kőházak és a kézzel kötött gyapjútermékek."},
-            {"q": "Mikor lakott a falu?", "a": "A lakók főleg tavasztól késő őszig élnek ott; télen a falu gyakran elnéptelenedik a nagy hó miatt."},
-            {"q": "Milyen kilátást nyújt Lukomir?", "a": "Látványos kilátást a Rakitnica-kanyonra."},
-        ],
-        "ro": [
-            {"q": "Ce face ca Lukomir să fie atât de special?", "a": "Este cel mai înalt și mai izolat sat din Bosnia și Herțegovina (1495 m)."},
-            {"q": "Pe ce munte este situat satul?", "a": "Pe muntele Bjelašnica."},
-            {"q": "Ce tradiții s-au păstrat acolo?", "a": "Modul tradițional de viață al păstorilor, construcția caselor din piatră și produsele din lână împletite manual."},
-            {"q": "Când este locuit satul?", "a": "Locuitorii stau acolo în principal din primăvară până în toamna târzie; iarna satul este adesea înzăpezit și pustiu."},
-            {"q": "Ce priveliște oferă Lukomir?", "a": "O vedere spectaculoasă asupra canionului Rakitnica."},
-        ],
-        "en": [
-            {"q": "What makes Lukomir so special?", "a": "It is the highest and most isolated village in Bosnia and Herzegovina (1495 m)."},
-            {"q": "On which mountain is the village located?", "a": "On Mount Bjelašnica."},
-            {"q": "What traditions have been preserved there?", "a": "The traditional way of life of shepherds, stone construction of houses, and hand-knitted wool products."},
-            {"q": "When is the village inhabited?", "a": "Inhabitants live there mainly from spring to late autumn; in winter it is often snowed in and deserted."},
-            {"q": "What view does Lukomir offer?", "a": "A spectacular view of the Rakitnica Canyon."},
-        ]
+    {
+      "id": "victorious-war-museum-history-v2",
+      "descriptionAdvanced": "Das Museum für den siegreichen vaterländischen Befreiungskrieg in Pjöngjang ist eine massive Einrichtung, die der nordkoreanischen Sicht auf den Koreakrieg (1950–1953) gewidmet ist. Das 2013 völlig neu gestaltete Museum präsentiert den Krieg als einen von den USA provozierten Überfall, der durch die Führung Kim Il-sungs glorreich abgewehrt wurde. Auf dem Außengelände werden erbeutete amerikanische Panzer, Hubschrauber und abgeschossene Flugzeuge zur Schau gestellt. Im Inneren dominieren riesige Panoramabilder, lebensechte Dioramen der Schlachten und aufwendige Multimedia-Präsentationen, die die Heldentaten der Volksarmee veranschaulichen. Es ist das wichtigste militärhistorische Propagandazentrum des Landes. Geschichte K8 — Kalter Krieg.",
+      "factsAdvanced": [
+        "Das Museum behandelt den Koreakrieg aus nordkoreanischer Sicht.",
+        "Der heutige, extrem aufwendige Museumsbau wurde 2013 eröffnet.",
+        "Vor dem Museum liegt die 1968 gekaperte USS Pueblo.",
+        "Es zeigt eine große Sammlung erbeuteten amerikanischen Kriegsgeräts.",
+        "Im Inneren gibt es ein rotierendes 360-Grad-Panorama einer Schlacht.",
+        "Die Anlage ist ein zentraler Pfeiler der militärischen Erziehung."
+      ]
     },
-    "ba-tvrkos": {
-        "de": [
-            {"q": "Wofür ist das Kloster Tvrdoš bekannt?", "a": "Es ist eines der bedeutendsten serbisch-orthodoxen Klöster und berühmt für seine lange Weinbautradition."},
-            {"q": "Wann wurde das Kloster ursprünglich gegründet?", "a": "Die Fundamente gehen auf das 4. Jahrhundert zurück, das heutige Kloster stammt aus dem 15. Jahrhundert."},
-            {"q": "In welcher Stadt liegt das Kloster?", "a": "In der Nähe von Trebinje."},
-            {"q": "Welcher berühmte Heilige lebte dort?", "a": "Der heilige Vasilije Ostroški empfing dort seine Weihe."},
-            {"q": "Kann man die Weine des Klosters probieren?", "a": "Ja, das Kloster hat einen Weinkeller und bietet Weinverkostungen an."},
-        ],
-        "hu": [
-            {"q": "Miről ismert a Tvrdoš kolostor?", "a": "Az egyik legjelentősebb szerb ortodox kolostor, amely híres hosszú borászati hagyományairól."},
-            {"q": "Mikor alapították eredetileg a kolostort?", "a": "Alapjai a 4. századig nyúlnak vissza, a mai kolostor a 15. századból származik."},
-            {"q": "Melyik város közelében található a kolostor?", "a": "Trebinje közelében."},
-            {"q": "Melyik híres szent élt ott?", "a": "Szent Vazul (Vasilije Ostroški) ott kapta meg szerzetesi felszentelését."},
-            {"q": "Meg lehet kóstolni a kolostor borait?", "a": "Igen, a kolostornak van borpincéje, és borkóstolókat is tartanak."},
-        ],
-        "ro": [
-            {"q": "Pentru ce este cunoscută mănăstirea Tvrdoš?", "a": "Este una dintre cele mai importante mănăstiri ortodoxe sârbe și este renumită pentru lunga sa tradiție viticolă."},
-            {"q": "Când a fost fondată inițial mănăstirea?", "a": "Fundațiile datează din secolul al IV-lea, mănăstirea actuală fiind din secolul al XV-lea."},
-            {"q": "Lângă ce oraș se află mănăstirea?", "a": "Lângă Trebinje."},
-            {"q": "Ce sfânt faimos a trăit acolo?", "a": "Sfântul Vasile de la Ostrog a primit acolo tunderea în monahism."},
-            {"q": "Se pot gusta vinurile mănăstirii?", "a": "Da, mănăstirea are o cramă și oferă degustări de vinuri."},
-        ],
-        "en": [
-            {"q": "What is the Tvrdoš Monastery known for?", "a": "It is one of the most significant Serbian Orthodox monasteries and is famous for its long winemaking tradition."},
-            {"q": "When was the monastery originally founded?", "a": "The foundations date back to the 4th century, the current monastery is from the 15th century."},
-            {"q": "In which city is the monastery located?", "a": "Near Trebinje."},
-            {"q": "Which famous saint lived there?", "a": "Saint Basil of Ostrog received his consecration there."},
-            {"q": "Can you taste the monastery's wines?", "a": "Yes, the monastery has a wine cellar and offers wine tastings."},
-        ]
+    {
+      "id": "sinchon-museum-history-v2",
+      "descriptionAdvanced": "Das Sinchŏn-Museum der amerikanischen Kriegsgräuel in der Provinz Süd-Hwanghae ist eine erschütternde Gedenkstätte. Sie erinnert an das Massaker von Sinchŏn während des Koreakriegs im Herbst 1950, bei dem laut nordkoreanischer Darstellung rund 35.000 Zivilisten durch US-Truppen ermordet wurden. Das Museum präsentiert in drastischen und grausamen Dioramen und Gemälden die angeblichen Foltermethoden und Gräueltaten. Es dient als Kernstück der stark anti-amerikanischen Erziehung in Nordkorea, in das regelmäßig Schulklassen und Militäreinheiten gebracht werden, um den unversöhnlichen Hass auf den 'imperialistischen Feind' zu festigen. Die historische Genauigkeit der Täterzuschreibung wird von westlichen Historikern oft angezweifelt. Geschichte K8 — Kalter Krieg.",
+      "factsAdvanced": [
+        "Das Museum gedenkt des Massakers von Sinchŏn im Jahr 1950.",
+        "Laut Nordkorea wurden dabei 35.000 Zivilisten, etwa ein Viertel der Landkreisbevölkerung, getötet.",
+        "Das Museum nutzt explizite und drastische Bilder von Gräueltaten.",
+        "Es ist ein Zentrum der anti-amerikanischen Propaganda.",
+        "Die Einrichtung wurde am 26. März 1958 eröffnet.",
+        "Kim Jong-un ließ das Museum 2015 deutlich erweitern."
+      ]
+    },
+    {
+      "id": "mausoleum-of-tan-gun-history-v2",
+      "descriptionAdvanced": "Das Mausoleum des Dangun in der Nähe von Pjöngjang ist eine faszinierende Mischung aus Mythos und staatlicher Geschichtsschreibung. Dangun ist der legendäre Gründer des ersten koreanischen Königreichs Gojoseon im Jahr 2333 v. Chr. Im Jahr 1993 verkündete Nordkorea, das Grab von Dangun und seiner Frau gefunden zu haben, und errichtete an dieser Stelle ein gewaltiges Pyramidenmausoleum aus weißem Stein. Die Entdeckung wird von ausländischen Historikern stark angezweifelt und gilt als politisches Manöver Nordkoreas, um Pjöngjang als den wahren, historischen Ursprung der gesamten koreanischen Nation (vor Südkorea) zu etablieren. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Dangun ist der mythische Gründer des ersten koreanischen Reiches Gojoseon.",
+        "Laut Mythos wurde Gojoseon im Jahr 2333 v. Chr. gegründet.",
+        "Das heutige Pyramiden-Mausoleum wurde 1994 fertiggestellt.",
+        "Der Bau besteht aus 1994 massiven Steinblöcken.",
+        "Die angebliche Entdeckung der Knochen untermauert Nordkoreas Führungsanspruch.",
+        "Die Stätte umfasst Steinstatuen von Söhnen und Ministern Danguns."
+      ]
+    },
+    {
+      "id": "pohyon-temple-history-v2",
+      "descriptionAdvanced": "Der Pohyŏn-Tempel liegt in den landschaftlich atemberaubenden Myohyang-Bergen und ist einer der bedeutendsten buddhistischen Tempel Nordkoreas. Er wurde im Jahr 1042 während der Koryŏ-Dynastie gegründet und war lange Zeit ein Zentrum des koreanischen Buddhismus. Trotz schwerer Zerstörungen durch amerikanische Bombenangriffe im Koreakrieg wurden viele der wunderschön bemalten Pavillons und Hallen später im traditionellen Stil restauriert. Der Tempel beherbergt kostbare Relikte, darunter eine Kopie der Tripitaka Koreana, einer Sammlung buddhistischer Schriften. Die Tempelanlage dient heute mehr als historisches Museum denn als aktives religiöses Zentrum. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Der Tempel wurde im Jahr 1042 gegründet.",
+        "Er befindet sich in der Bergregion Myohyang-san.",
+        "Der Tempel erlitt im Koreakrieg erhebliche Schäden, wurde aber restauriert.",
+        "Er beherbergt eine bedeutende 13-stöckige Steinpagode.",
+        "Im Tempelarchiv liegt ein Druck der Tripitaka Koreana.",
+        "Die Stätte spiegelt die Architektur der Koryŏ-Zeit wider."
+      ]
+    },
+    {
+      "id": "three-charters-reunification-arch-history-v2",
+      "descriptionAdvanced": "Das Monument der drei Chartas für die nationale Wiedervereinigung stand südlich von Pjöngjang über dem 'Reunification Highway', der zur DMZ führt. Das im Jahr 2001 eingeweihte Monument bestand aus zwei massiven, 30 Meter hohen Steinstatuen von Frauen in traditioneller koreanischer Kleidung, die sich über die Autobahn beugen und gemeinsam eine Karte eines vereinten Koreas halten. Die Frauen symbolisierten Nord- und Südkorea. Über Jahrzehnte war der Bogen das Symbol für das offizielle Staatsziel einer friedlichen Wiedervereinigung. Im Januar 2024 wurde das Monument jedoch auf Anordnung von Kim Jong-un abgerissen, als Nordkorea die Wiedervereinigungspolitik offiziell aufgab. Geschichte K8 — moderner Staat.",
+      "factsAdvanced": [
+        "Das Monument wurde 2001 fertiggestellt.",
+        "Es zeigte zwei Frauen, die eine Karte des ungeteilten Koreas hielten.",
+        "Der Bogen überspannte den Highway in Richtung der südkoreanischen Grenze.",
+        "Es symbolisierte die drei Prinzipien der Wiedervereinigung von Kim Il-sung.",
+        "Die Skulptur war 30 Meter hoch und über 60 Meter breit.",
+        "Im Januar 2024 wurde das Monument von der Regierung zerstört."
+      ]
+    },
+    {
+      "id": "goguryeo-tombs-complex-history-v2",
+      "descriptionAdvanced": "Der Koguryŏ-Gräberkomplex umfasst mehrere Dutzend antike Hügelgräber in der Umgebung von Pjöngjang und Namp'o. Diese Stätten stammen aus dem Königreich Koguryŏ, das zwischen dem 3. und 7. Jahrhundert weite Teile der koreanischen Halbinsel und der Mandschurei beherrschte. Die Gräber sind besonders für ihre außergewöhnlich gut erhaltenen, farbenprächtigen Wandmalereien im Inneren berühmt. Diese Fresken zeigen detailliert das damalige Hofleben, militärische Rüstungen, Jagdszenen sowie mythologische Symbole wie den blauen Drachen und den weißen Tiger. Wegen ihrer immensen historischen Bedeutung wurden die Gräber 2004 als erste Stätte Nordkoreas ins UNESCO-Weltkulturerbe aufgenommen. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Die Gräber gehören zum UNESCO-Weltkulturerbe (seit 2004).",
+        "Die Wandmalereien stammen aus der Zeit zwischen dem 3. und 7. Jahrhundert.",
+        "Es gibt über 60 entdeckte Gräber mit Fresken in der Region.",
+        "Sie zeigen den Alltag und die Mythologie der Koguryŏ-Dynastie.",
+        "Die Farben der Malereien sind nach Jahrhunderten immer noch lebendig.",
+        "Viele Gräber wurden von Grabräubern im 20. Jahrhundert geplündert."
+      ]
+    },
+    {
+      "id": "ryongtong-temple-history-v2",
+      "descriptionAdvanced": "Der Ryŏngt'ong-Tempel ist eine bedeutende buddhistische Stätte in der Nähe der historischen Stadt Kaesŏng. Er wurde ursprünglich in den frühen Jahren der Koryŏ-Dynastie erbaut und diente als Rückzugsort für den prominenten Mönch Uichon, der eine wichtige Rolle bei der Synthese verschiedener buddhistischer Schulen spielte. Nachdem der Tempel im 16. Jahrhundert während eines Feuers niedergebrannt war, blieb er lange eine Ruine. Im Jahr 2005 wurde die Tempelanlage jedoch in einer seltenen grenzüberschreitenden Kooperation zwischen nord- und südkoreanischen Buddhisten aufwendig und originalgetreu wieder aufgebaut. Die Restaurierung galt als Symbol des kulturellen Austauschs während der 'Sonnenscheinpolitik'. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Der Tempel stammt ursprünglich aus dem 11. Jahrhundert (Koryŏ-Zeit).",
+        "Der berühmte Mönch Uichon lebte und lehrte in diesem Tempel.",
+        "Die Anlage brannte im 16. Jahrhundert ab und verfiel.",
+        "2005 wurde der Tempel mit Hilfe südkoreanischer Spenden komplett rekonstruiert.",
+        "Der Wiederaufbau war ein Zeichen religiöser Diplomatie zwischen Nord und Süd.",
+        "Der Tempel liegt in den Bergen am Rande von Kaesŏng."
+      ]
+    },
+    {
+      "id": "koryo-songgyungwan-university-history-v2",
+      "descriptionAdvanced": "Die Koryŏ Sŏnggyungwan ist eine alte konfuzianische Akademie in Kaesŏng, die heute als Universität für Leichtindustrie dient und gleichzeitig ein wertvolles historisches Museum beherbergt. Ursprünglich im Jahr 992 gegründet, war sie die höchste Bildungseinrichtung des Koryŏ-Reiches. Die Anlage ist berühmt für ihre klassische koreanische Architektur mit geschwungenen Ziegeldächern, umgeben von jahrhundertealten Ginkgo- und Zelkovenbäumen. Heute beherbergt die Sŏnggyungwan das Koryŏ-Museum, das wertvolle Töpferwaren, seltene Schriften und bronzene Artefakte auslegt. Die ruhige Atmosphäre der Anlage vermittelt einen tiefen Eindruck in die Gelehrtenkultur des mittelalterlichen Koreas. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Die Sŏnggyungwan wurde im Jahr 992 als nationale Akademie gegründet.",
+        "Sie war die höchste konfuzianische Schule der Koryŏ-Dynastie.",
+        "Die Anlage beherbergt heute das Koryŏ-Museum in Kaesŏng.",
+        "Es gibt über 1.000 historische Relikte in den Pavillons zu sehen.",
+        "Auf dem Gelände stehen über 1.000 Jahre alte Ginkgobäume.",
+        "Seit 2013 ist die Akademie Teil des UNESCO-Weltkulturerbes Kaesŏng."
+      ]
+    },
+    {
+      "id": "chosan-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Chosan in der Provinz Chagang hat eine enorme strategische und psychologische Bedeutung im Kontext des Koreakriegs. Im Spätherbst 1950, nach der erfolgreichen Landung bei Incheon, stießen UN-Truppen tief in den Norden vor und erreichten bei der Stadt Chosan erstmals den Yalu-Fluss, die Grenze zu China. Dies war der Wendepunkt des Krieges, da das Eintreffen der US-Truppen an der Grenze die massive Intervention der chinesischen 'Volksfreiwilligenarmee' auslöste, die die UN-Truppen wieder über den 38. Breitengrad zurückdrängte. Die Berge um Chosan zeugen von den eisigen, brutalen Rückzugsgefechten, die den weiteren Verlauf der modernen koreanischen Geschichte prägten. Geschichte K8 — Kalter Krieg.",
+      "factsAdvanced": [
+        "Chosan liegt am Yalu-Fluss an der Grenze zu China.",
+        "UN-Truppen erreichten diesen Punkt am 26. Oktober 1950.",
+        "Das Erreichen der Grenze löste den massiven chinesischen Kriegseintritt aus.",
+        "Die Kämpfe fanden bei extremen Minustemperaturen im Winter statt.",
+        "Die UN-Kräfte wurden von hier aus in einem der längsten Rückzüge der US-Geschichte zurückgedrängt.",
+        "Das Gelände ist extrem gebirgig und unwirtlich."
+      ]
+    },
+    {
+      "id": "chollima-statue-history-v2",
+      "descriptionAdvanced": "Die Chollima-Statue in Pjöngjang ist eines der dynamischsten Denkmäler Nordkoreas. Sie wurde 1961 eingeweiht und zeigt das mythische geflügelte Pferd Chollima, das laut Legende 1.000 Li (etwa 400 km) an einem Tag laufen kann. Auf dem Pferd reiten ein Arbeiter mit einer Propagandaschrift und eine Bäuerin mit einer Reisgarbe. Die Statue verkörpert die 'Chollima-Bewegung', eine Kampagne zur rapiden industriellen und landwirtschaftlichen Leistungssteigerung, die Kim Il-sung in den 1950er Jahren nach dem verheerenden Koreakrieg startete, ähnlich dem sowjetischen Stachanow-Kult. Das Pferd steht symbolisch für die unaufhaltsame Geschwindigkeit des nordkoreanischen Wiederaufbaus. Geschichte K8 — moderner Staat.",
+      "factsAdvanced": [
+        "Die Bronzestatue wurde am 15. April 1961 fertiggestellt.",
+        "Die Skulptur misst 46 Meter in der Höhe (inklusive Granitsockel).",
+        "Das mythische Pferd Chollima kann angeblich 400 km pro Tag laufen.",
+        "Die Reiter stellen die Arbeiterklasse und die Bauernschaft dar.",
+        "Es symbolisiert Nordkoreas raschen Wiederaufbau in den 1950er Jahren.",
+        "Das Denkmal steht weithin sichtbar auf dem Mansu-Hügel in Pjöngjang."
+      ]
+    },
+    {
+      "id": "samsok-prehistoric-site-history-v2",
+      "descriptionAdvanced": "Die prähistorische Stätte Samsŏk in den Randbezirken von Pjöngjang liefert wichtige archäologische Beweise für die frühe Besiedlung der koreanischen Halbinsel. Die Ausgrabungen dort haben Gräberfelder und Siedlungsreste aus der Bronzezeit freigelegt, die charakteristische Dolmen (Steintischgräber) und Überreste der Mumun-Keramikkultur aufweisen. Nordkoreanische Archäologen nutzen diese Funde oft, um die lange und kontinuierliche Kulturgeschichte in der Taedong-Flussebene zu belegen und Pjöngjang als eine Wiege der koreanischen Zivilisation darzustellen. Die hier gefundenen polierten Steinwerkzeuge und Bronzedolche sind wesentliche Ausstellungsstücke in den historischen Nationalmuseen. Geschichte K8 — asiatische Antike.",
+      "factsAdvanced": [
+        "Die Stätte Samsŏk liegt in einem Außenbezirk von Pjöngjang.",
+        "Es wurden bedeutende Dolmen (Großsteingräber) entdeckt.",
+        "Die Funde stammen mehrheitlich aus der koreanischen Bronzezeit.",
+        "Artefakte umfassen schlichte Keramik und Bronzedolche.",
+        "Die Stätte stützt die nordkoreanische Theorie der Taedong-Kultur.",
+        "Grabbeigaben gaben Aufschluss über frühe agrarische Gesellschaftsstrukturen."
+      ]
+    },
+    {
+      "id": "juche-tower-landmarks-v2",
+      "descriptionAdvanced": "Der 170 Meter hohe Juche-Turm ist das markanteste architektonische Wahrzeichen an der Uferpromenade von Pjöngjang. Er wurde zur Verherrlichung der nordkoreanischen Juche-Ideologie errichtet und dominiert die Skyline der Hauptstadt. Besucher können mit einem Aufzug zur Aussichtsplattform unterhalb der roten, beleuchteten Glasfackel fahren und einen ungehinderten 360-Grad-Blick über die Taedong-Flussachse, den Kim-Il-sung-Platz und das May-Day-Stadion genießen. Am Fuß des aus weißem Granit erbauten Turms befinden sich Pavillons und Gedenktafeln internationaler Juche-Studiengruppen, die die vermeintlich weltweite Bedeutung der nordkoreanischen Staatsphilosophie demonstrieren sollen. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Der Turm besitzt eine Aussichtsplattform auf 150 Metern Höhe.",
+        "Die rote Fackel ist von innen stark beleuchtet, auch bei Stromausfällen.",
+        "Am Sockel gibt es eine Mauer mit über 250 steinernen Gedenktafeln aus dem Ausland.",
+        "Der Aufzug bringt Touristen und Würdenträger zur Turmspitze.",
+        "Der Turm steht exakt auf einer Achse mit dem Kim-Il-sung-Platz über den Fluss.",
+        "Er wurde in Rekordzeit in weniger als einem Jahr gebaut (1982)."
+      ]
+    },
+    {
+      "id": "arch-of-triumph-pyongyang-landmarks-v2",
+      "descriptionAdvanced": "Der Triumphbogen in Pjöngjang ist ein monumentales Wahrzeichen, das den Straßenverkehr an einer zentralen Kreuzung der Hauptstadt überspannt. Architektonisch stark am Arc de Triomphe in Paris orientiert, übertrifft er diesen mit 60 Metern Höhe bewusst. Das Bauwerk aus strahlend weißem Granit besticht durch präzise eingemeißelte Jahreszahlen ('1925' und '1945') auf der Fassade, flankiert von meterhohen Reliefs nordkoreanischer Soldaten, Arbeiter und Bauern. Besonders eindrucksvoll sind die kunstvoll gestalteten azaleenblütenförmigen Ornamente, die den Triumph über den japanischen Imperialismus symbolisieren. Er ist nachts oft hell erleuchtet. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Der Bogen hat eine Höhe von 60 Metern und eine Breite von 50 Metern.",
+        "Er hat vier massive Gewölbedurchgänge für den Verkehr.",
+        "Die Jahreszahl 1925 markiert den angeblichen Beginn von Kim Il-sungs Widerstand.",
+        "Die Jahreszahl 1945 steht für die Befreiung Koreas von Japan.",
+        "Im Bogen befinden sich Beobachtungsräume und Aufzüge.",
+        "Das Bauwerk wurde im klassischen koreanischen Stil mit modernen Proportionen verziert."
+      ]
+    },
+    {
+      "id": "kumsusan-palace-of-the-sun-landmarks-v2",
+      "descriptionAdvanced": "Der Kumsusan-Sonnenpalast ist nicht nur ein Grabmal, sondern auch ein architektonisch einschüchterndes Wahrzeichen am Rande Pjöngjangs. Das Gebäude ist umgeben von einem schier endlosen, leeren Steinplatz, der für Massenkundgebungen konzipiert ist. Die Fassade ist klassisch stalinistisch, geprägt von massiven Steinsäulen und Marmor. Ein mehrere hundert Meter langes Netzwerk aus klimatisierten Rollwegen bringt ausländische und einheimische Besucher vom Eingangsbereich langsam ins innerste Sanktuarium. Die schiere Größe und Isolation des Palastes vom restlichen städtischen Leben unterstreichen seinen Status als heiligster Ort der staatlichen Ideologie. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Der Platz vor dem Palast fasst Zehntausende von Menschen.",
+        "Das Innere ist fast vollständig mit Marmor und Granit verkleidet.",
+        "Der Palast ist an der Außenfassade nachts tiefrot angestrahlt.",
+        "Besucher erreichen das Hauptgebäude über lange überdachte Laufbänder.",
+        "Das Gelände ist von einem Burggraben-ähnlichen Flusslauf umgeben.",
+        "Fotografieren ist auf dem riesigen Vorplatz nur aus großer Entfernung gestattet."
+      ]
+    },
+    {
+      "id": "grand-monument-on-mansu-hill-landmarks-v2",
+      "descriptionAdvanced": "Das Großmonument auf dem Mansu-Hügel in Pjöngjang ist die optisch präsenteste Kultstätte des Landes. Im Zentrum stehen zwei über 20 Meter hohe Bronzestatuen von Kim Il-sung (ursprünglich 1972 errichtet) und Kim Jong-il (nach dessen Tod 2011 hinzugefügt). Sie blicken majestätisch über die Hauptstadt in Richtung Osten. Flankiert werden die beiden Führer von gewaltigen, flügelartigen Monumenten, die hunderte bronzene Soldaten und Zivilisten im Revolutionskampf darstellen. Ein Besuch dieses Hügels ist für ausländische Touristen meist Pflichtprogramm, bei dem das feierliche Niederlegen von Blumen erwartet wird. Die Statuen glänzen und werden makellos gepflegt. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Die Bronzestatuen der beiden Führer sind 22 Meter hoch.",
+        "Die Statue von Kim Jong-il wurde 2012 nachträglich hinzugefügt.",
+        "Flankierend stehen zwei Monumente mit insgesamt 228 Bronzefiguren.",
+        "Hinter den Statuen befindet sich das Koreanische Revolutionsmuseum.",
+        "Die Statuen blicken genau nach Osten in Richtung des Sonnenaufgangs.",
+        "Kim Il-sung trug anfangs einen Mao-Anzug, was später in einen Anzug geändert wurde."
+      ]
+    },
+    {
+      "id": "pyongyang-tv-tower-landmarks-v2",
+      "descriptionAdvanced": "Der Fernsehturm Pjöngjang ist ein 150 Meter hohes Bauwerk, das 1967 errichtet wurde, um das analoge Farbfernsehen in der Hauptstadtregion auszustrahlen. Architektonisch ist er stark vom Ost-Berliner Fernsehturm beeinflusst und fungiert als auffälliges Wahrzeichen im Kaeson-Park. Der Turm verfügt über eine rotierende Aussichtsplattform und ein kreisrundes Restaurant, das jedoch oft für die Öffentlichkeit geschlossen ist. Da Nordkorea die Frequenzen stark kontrolliert, strahlt der Turm nur die wenigen staatlichen Propagandasender aus. Er ist ein markantes Beispiel für die sozialistische Zweckarchitektur der 1960er Jahre. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Der Fernsehturm wurde 1967 in Betrieb genommen.",
+        "Er hat eine Gesamthöhe von 150 Metern.",
+        "Das Design ähnelt stark sowjetischen und ostdeutschen Fernsehtürmen.",
+        "Er befindet sich im Kaeson-Park unweit des Triumphbogens.",
+        "Der Turm sendet die Signale für das staatliche Koreanische Zentralfernsehen.",
+        "Die kreisrunde Plattform besitzt ein Restaurant mit Panoramablick."
+      ]
+    },
+    {
+      "id": "party-foundation-monument-landmarks-v2",
+      "descriptionAdvanced": "Das Monument zur Parteigründung ist ein gewaltiges Wahrzeichen im Osten Pjöngjangs. Seine Architektur bricht mit traditionellen Statuen, indem es überlebensgroß die ideologischen Symbole Hammer, Sichel und Pinsel aus massivem Stein darstellt. Es steht am Ende einer breiten Sichtachse und reflektiert eine fast brutalistische Monumentalität. Das Wahrzeichen umschließt ein großes kreisrundes Areal, in dessen Inneren drei massive Bronzereliefs die Geschichte der nordkoreanischen Arbeiterpartei erzählen. Nachts ist das Monument beleuchtet und dient als beliebte Kulisse für staatliche Feierlichkeiten und das jährliche Arirang-Massenspektakel auf den Straßen davor. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Das Monument steht am Rande der Straße der Wiedervereinigung in Pjöngjang.",
+        "Die drei Granitsäulen messen jeweils 50 Meter.",
+        "Der umschließende Ring hat einen Durchmesser von 50 Metern.",
+        "Die Granitkonstruktion symbolisiert die Stabilität der Regierungspartei.",
+        "Hammer, Sichel und Pinsel wiegen Tausende von Tonnen.",
+        "Es wurde am 10. Oktober 1995 der Öffentlichkeit übergeben."
+      ]
     }
+  ]
 }
 
-with open("faqs_batch3.json", "w", encoding="utf-8") as f:
-    json.dump(faqs, f, ensure_ascii=False, indent=2)
+with open('/mnt/c/Users/User/plizio-repo/seo_outputs/seo_northkorea_de_batch3.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+

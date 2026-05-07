@@ -36,7 +36,14 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
         "Sursă majoră de cărbune termic din țară.",
         "Crucial pentru operațiunile Centralei Electrice Hwange."
       ]
-    }, image: "/poi-images/hwange-colliery-economic-v2.webp"},
+    }, image: "/poi-images/hwange-colliery-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "The Hwange Colliery, located in western Zimbabwe, is one of the largest coal mines in Africa. Coal extracted here is vital for Zimbabwe's energy production, supplying the Hwange Power Station, which is the country's largest thermal power facility. Mining operations have transformed the landscape and the socio-economic life of the surrounding region, creating an industrial hub in a previously remote area. Economics K7 — energy resources and infrastructure."
+    },
+    factsAdvanced: {
+      en: ["Significance: One of Africa's largest coal deposits.", "Role: Primary fuel source for the Hwange Power Station.", "Infrastructure: Supported by extensive rail networks.", "Location: Western Zimbabwe, near Hwange National Park.", "Impact: Essential for national electricity generation.", "Mining Method: Both open-cast and underground extraction."]
+    }
+  },
   {
     id: "zimplats-ngezi-mine-economic-v2",
     type: "industry",
@@ -71,7 +78,14 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
         "Produce platină, paladiu, rodiu și aur.",
         "Operează complexe miniere subterane masive."
       ]
-    }, image: "/poi-images/zimplats-ngezi-mine-economic-v2.webp"},
+    }, image: "/poi-images/zimplats-ngezi-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "The Zimplats Ngezi mine, situated on the Great Dyke, is a major producer of platinum group metals (PGMs). As one of the largest mining operations in Zimbabwe, it significantly contributes to foreign currency earnings and national GDP. The mine employs thousands and has spurred infrastructure development in the Mashonaland West province, including roads and housing complexes. Economics K8 — extraction industries and export economy."
+    },
+    factsAdvanced: {
+      en: ["Product: Platinum group metals (PGMs).", "Geological feature: Located on the mineral-rich Great Dyke.", "Economic weight: Top-tier contributor to national exports.", "Scale: Thousands of personnel employed on-site.", "Infrastructure: Extensive off-site processing facilities.", "Province: Mashonaland West."]
+    }
+  },
   {
     id: "mimosa-platinum-mine-economic-v2",
     type: "industry",
@@ -106,7 +120,14 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
         "Contribuie semnificativ la exporturile de minerale ale statului Zimbabwe.",
         "Utilizează metode de exploatare subterană foarte mecanizate."
       ]
-    }, image: "/poi-images/mimosa-platinum-mine-economic-v2.webp"},
+    }, image: "/poi-images/mimosa-platinum-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Mimosa Mining Company operates the lowest-cost platinum mine in Zimbabwe, located on the southern end of the Great Dyke near Zvishavane. It has a long history of operational efficiency and has been a cornerstone of the regional economy in the Midlands province. The mine produces platinum, palladium, gold, nickel, copper, and rhodium, which are critical components in global industrial and automotive manufacturing. Economics K8 — global commodity markets."
+    },
+    factsAdvanced: {
+      en: ["Location: Near Zvishavane, Midlands province.", "Geology: Southern portion of the Great Dyke.", "Products: Platinum, palladium, gold, nickel, copper, rhodium.", "Operational status: Long-standing profitable enterprise.", "Economic role: Major source of employment in the Midlands.", "Key output: Essential inputs for automotive catalytic converters."]
+    }
+  },
   {
     id: "unki-platinum-mine-economic-v2",
     type: "industry",
@@ -141,7 +162,14 @@ export const poiExtraZimbabweEconomicV2: POI[] = [
         "Are o uzină de topire dedicată pentru procesarea locală a minereului.",
         "Joacă un rol cheie în economia regională a zonei Shurugwi."
       ]
-    }, image: "/poi-images/unki-platinum-mine-economic-v2.webp"},
+    }, image: "/poi-images/unki-platinum-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "The Unki mine, owned by Anglo American Platinum, is a significant platinum producer situated near Gweru on the Great Dyke. The operation includes both mining and a large-scale platinum processing plant, allowing for value addition before export. The mine is known for its modern infrastructure, including a solar power plant that provides energy to its operations, emphasizing industrial sustainability. Economics K8 — sustainable mining practices."
+    },
+    factsAdvanced: {
+      en: ["Ownership: Managed by Anglo American Platinum.", "Location: Great Dyke, near Gweru.", "Value addition: Features an on-site platinum processing plant.", "Innovation: Utilizes solar power for operational sustainability.", "Economic impact: Significant employer in the Midlands.", "Products: Platinum group metals and base metals."]
+    }
+  },
   {
     id: "murowa-diamond-mine-economic-v2",
     type: "industry",

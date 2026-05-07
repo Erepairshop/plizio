@@ -1,0 +1,291 @@
+{
+  "lang": "ro",
+  "country": "mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "casela-nature-parks-life-v2",
+      "descriptionAdvanced": "Casela Nature Parks este una dintre cele mai vizitate destinații de agrement și viață sălbatică din Mauritius, situată în partea de vest a insulei, la poalele muntelui Rempart. Întins pe o suprafață de peste 350 de hectare, parcul evocă atmosfera unui safari african, unde vizitatorii pot observa girafe, zebre și struți din vehicule de teren deschise. Parcul a câștigat faimă mondială datorită programului 'Walk with Lions' (Plimbarea cu leii), care permite cunoașterea acestor feline maiestuoase de la mică distanță sub supraveghere strictă. Dincolo de viața sălbatică, Casela oferă numeroase aventuri, inclusiv cele mai lungi trasee de tiroliană din Mauritius și oportunități de canyoning. Educația este, de asemenea, o componentă esențială, fiind prezentate specii de păsări endemice și eforturile locale de conservare a biodiversității. Természetismeret K5 — Animalele și habitatele lor.",
+      "factsAdvanced": [
+        "Se întinde pe peste 350 de hectare pe coasta vestică",
+        "Faimos la nivel mondial pentru programul 'Plimbarea cu leii'",
+        "Găzduiește peste 1.500 de păsări exotice în aviarele sale",
+        "Secțiunea de safari include girafe, zebre și antilope oryx",
+        "Deține una dintre cele mai lungi tiroliene din Oceanul Indian",
+        "Operează propriul program de salvare și reabilitare a animalelor",
+        "Include o fermă interactivă unde copiii pot mângâia animalele",
+        "Este una dintre cele mai importante destinații de ecoturism din țară"
+      ]
+    },
+    {
+      "id": "la-vanille-nature-park-life-v2",
+      "descriptionAdvanced": "Parcul Natural La Vanille, situat în sudul pitoresc al insulei Mauritius, este o rezervație ecologică unică, ce evocă vegetația luxuriantă a pădurilor tropicale umede. Inițial conceput ca o fermă de crocodili, parcul este astăzi casa a mii de crocodili de Nil și țestoase gigantice. Aici se află una dintre cele mai mari populații de țestoase gigantice Aldabra din lume, trăind în captivitate, unde vizitatorii pot interacționa direct cu aceste reptile matusalemitice și chiar le pot hrăni. Parcul se mândrește și cu un insectar impresionant, care conține colecția privată a lui Jacques Siedlecki, prezentând fluturi și gândaci rari din întreaga lume. La Vanille joacă un rol crucial în protejarea speciilor pe cale de dispariție și în educația ecologică a tinerelor generații. Természetismeret K3 — Protecția animalelor și reptilele.",
+      "factsAdvanced": [
+        "Adăpostește cea mai mare colonie de țestoase Aldabra din lume",
+        "Peste 2.000 de crocodili de Nil trăiesc în bazinele parcului",
+        "Insectarul prezintă peste 23.000 de specii de fluturi și gândaci",
+        "Parcul este amenajat pe locul unei foste plantații de vanilie",
+        "Oferă posibilitatea observării puilor de țestoasă în 'creșă'",
+        "Deține un muzeu propriu despre istoria faunei insulare",
+        "Restaurantul 'Hungry Crocodile' oferă specialități locale inedite",
+        "Participă activ la programele de salvare a liliecilor din Rodrigues"
+      ]
+    },
+    {
+      "id": "mauritius-aquarium-life-v2",
+      "descriptionAdvanced": "Acvariul din Mauritius este o lume subacvatică magică situată în satul de coastă Pointe aux Piments, în nord-vestul insulei. Această facilitate cu atmosferă familială găzduiește peste 200 de specii de animale marine, toate provenind din apele cristaline care înconjoară Mauritius. Scopul acvariului este de a prezenta biodiversitatea incredibilă a recifelor de corali din Oceanul Indian fără ca vizitatorii să fie nevoiți să intre în apă. Un punct de atracție major este bazinul interactiv, unde copiii pot cunoaște de aproape stelele de mare și alte creaturi marine inofensive. Atracția principală rămâne însă marele bazin central, unde rechinii de recif și țestoasele uriașe înoată maiestuos în fața vizitatorilor. Acvariul este un centru educațional important pentru conservarea oceanelor. Természetismeret K4 — Viața marină.",
+      "factsAdvanced": [
+        "Găzduiește peste 200 de specii de pești și creaturi marine",
+        "Dispune de un bazin central imens cu o capacitate de 150.000 litri",
+        "Pot fi observați rechini de recif cu înotătoare negre și murene",
+        "Situat în satul pescăresc Pointe aux Piments din nord",
+        "Bazinul interactiv permite atingerea stelelor de mare și a crabilor",
+        "Zilnic au loc sesiuni de hrănire spectaculoasă a rechinilor și țestoaselor",
+        "Colecția include exclusiv specii native din apele mauritiene",
+        "Îndeplinește un rol cheie în popularizarea biologiei marine"
+      ]
+    },
+    {
+      "id": "odysseo-oceanarium-life-v2",
+      "descriptionAdvanced": "Odysseo este cel mai mare oceanariu din regiunea Oceanului Indian, situat strategic în portul capitalei Port Louis. Acest complex modern nu este doar o atracție turistică, ci și un centru de excelență pentru științele marine și protecția mediului. Cele 45 de bazine expoziționale conțin peste 2 milioane de litri de apă, prezentând ecosisteme variate, de la apele de coastă până la abisurile marine. Vizitatorii pot parcurge un tunel transparent sub bazinul cu rechini, oferind o experiență imersivă de neuitat. Misiunea prioritară a Odysseo este educarea tineretului mauritian și creșterea angajamentului pentru salvarea oceanelor. Expozițiile abordează teme sensibile precum distrugerea recifelor și poluarea cu plastic, încurajând un stil de viață sustenabil. Geografie K8 — Importanța și protecția oceanelor.",
+      "factsAdvanced": [
+        "Cel mai mare oceanariu din regiune, cu peste 3.500 de animale",
+        "Gestionează un volum total de apă de peste 2.000 de metri cubi",
+        "Dispune de un tunel subacvatic de 15 metri lungime printre rechini",
+        "Localizat în zona Caudan Waterfront din portul Port Louis",
+        "Deține un centru de reabilitare pentru țestoasele marine rănite",
+        "Focus major pe speciile marine endemice și periclitate",
+        "Ecrane interactive moderne susțin învățarea biologiei marine",
+        "Infrastructura permite cercetarea științifică a habitatelor locale"
+      ]
+    },
+    {
+      "id": "curious-corner-life-v2",
+      "descriptionAdvanced": "Curious Corner of Chamarel este o atracție neconvențională și extrem de distractivă, situată chiar vizavi de intrarea la Pământul celor Șapte Culori. Această galerie este o lume a iluziilor optice, a labirinturilor de oglinzi și a ghicitorilor logice care pun la încercare simțurile și concepțiile noastre despre gravitație. Vizitatorii pot explora o casă construită parțial cu susul în jos, se pot pierde într-un coridor de oglinzi ce pare infinit sau se pot 'micșora' în camera Ames. Scopul Curious Corner este de a prezenta într-o formă ludică legile fundamentale ale fizicii și psihologiei, oferind totodată oportunități excelente pentru fotografii creative. Este programul ideal pentru familii, unde învățarea și râsul se îmbină armonios. Fizika K7 — Optica și fenomenele luminoase.",
+      "factsAdvanced": [
+        "Dispune de peste 40 de stații interactive cu iluzii optice",
+        "Găzduiește cel mai mare și spectaculos labirint de oglinzi din Mauritius",
+        "Toate obiectele din 'Camera Inversată' sunt fixate pe tavan",
+        "În camera Ames, vizitatorii par a fi uriași sau pitici",
+        "Cea mai populară destinație pentru familii din regiunea Chamarel",
+        "Include o cafenea dotată cu puzzle-uri și jocuri de logică",
+        "Expozițiile sunt actualizate periodic cu noi provocări vizuale",
+        "Exemplu excelent de popularizare a științei prin divertisment"
+      ]
+    },
+    {
+      "id": "gros-cailloux-leisure-park-life-v2",
+      "descriptionAdvanced": "Parcul de Agrement Gros Cailloux este situat în vestul Mauritius-ului și îmbină moștenirea agricolă a insulei cu recreerea modernă. Terenul a fost în trecut o imensă plantație de trestie de zahăr, fiind astăzi o oază verde de 1000 de hectare unde vizitatorii pot alege dintr-o gamă largă de activități în aer liber. Parcul dispune de un lac mare unde se pot face plimbări cu barca sau caiacul, în timp ce pe uscat, traseele de quad și ciclism îi așteaptă pe cei dornici de aventură. Pentru copii, o fermă cu animale de mângâiat și un teren de joacă plin de provocări asigură distracția. Gros Cailloux găzduiește și o pepinieră activă, unde este prezentat procesul de înmulțire a plantelor tropicale. Életvitel K3 — Timpul liber și odihna activă.",
+      "factsAdvanced": [
+        "Se întinde pe o suprafață de 1.000 de hectare în câmpiile vestice",
+        "Combinație unică între o fermă agricolă activă și parc de agrement",
+        "Deține o fermă interactivă cu capre, iepuri și alte animale",
+        "Lacul artificial din centru permite practicarea sporturilor nautice",
+        "Găzduiește una dintre cele mai mari pepiniere de plante tropicale",
+        "Organizează tururi cu quad-ul de-a lungul fostelor câmpuri de trestie",
+        "Destinație populară pentru excursii școlare și evenimente de familie",
+        "Aplică metode de agricultură durabilă pe întregul domeniu"
+      ]
+    },
+    {
+      "id": "domaine-de-letoile-life-v2",
+      "descriptionAdvanced": "Domaine de l'Etoile este cea mai mare rezervație naturală privată din Mauritius, întinzându-se în partea de est a țării, între munți și mare. Această proprietate de 1200 de hectare este unul dintre ultimele refugii ale naturii virgine de pe insulă, unde pădurile dese, râurile cristaline și panoramele spectaculoase se succed neîncetat. Zona are o faună bogată, populația de căprioare Java fiind deosebit de importantă, dar pot fi observate și numeroase specii de păsări endemice. Vizitatorii pot participa la drumeții, tururi cu quad-ul sau echitație pentru a descoperi comorile ascunse ale domeniului. Aici se află și cea mai lungă tiroliană de pe insulă, formată din mai multe secțiuni, care oferă vederi uluitoare asupra văilor. Geografie K6 — Protecția naturii și ecoturismul.",
+      "factsAdvanced": [
+        "Cea mai mare rezervație privată din Mauritius, cu 1200 de hectare",
+        "Peste 1.500 de căprioare Java trăiesc liber pe domeniu",
+        "Găzduiește cea mai lungă tiroliană din țară, cu 7 secțiuni",
+        "Fost domeniu de vânătoare transformat în arie protejată",
+        "Pot fi admirați arbori endemici rari, precum abanosul",
+        "Cel mai înalt punct oferă o panoramă completă a coastei de est",
+        "Oferă tururi ghidate cu quad-ul în zonele greu accesibile",
+        "Restaurantul propriu oferă preparate din vânat și bucătărie creolă"
+      ]
+    },
+    {
+      "id": "ile-aux-aigrettes-life-v2",
+      "descriptionAdvanced": "Ile aux Aigrettes este o mică insulă coralieră de doar 26 de hectare situată în largul coastei de sud-est a Mauritius, lângă Mahebourg. Această insulă este un muzeu viu unde Fundația Mauritiană pentru Viața Sălbatică (MWAF) lucrează de decenii pentru restaurarea pădurii de coastă originale. Insula este ultimul refugiu pentru specii rare precum porumbelul roz sau pasărea cu ochelari. Vizitatorii pot face tururi ghidate pentru a cunoaște țestoasele gigantice Aldabra, introduse aici pentru a înlocui rolul ecologic al speciilor locale de țestoase dispărute. Ile aux Aigrettes este un exemplu de succes al modului în care un ecosistem condamnat poate fi salvat prin intervenție umană responsabilă. Biológia K8 — Restaurarea ecosistemelor și conservarea speciilor.",
+      "factsAdvanced": [
+        "Insulă de calcar coralier de 26 de hectare în golful Mahebourg",
+        "Sub protecția strictă a Mauritius Wildlife Foundation",
+        "Habitat crucial pentru extrem de rarul Porumbel Roz (Pink Pigeon)",
+        "Vizitatorii pot întâlni țestoase gigantice Aldabra trăind liber",
+        "Păstrează ultimele rămășițe ale pădurii de coastă originale",
+        "Accesul este permis doar cu autorizație și ghid specializat",
+        "Adăpostește numeroase specii de reptile rare, cum este șopârla Telfair",
+        "Veniturile din vizite susțin direct proiectele de conservare"
+      ]
+    },
+    {
+      "id": "ebony-forest-life-v2",
+      "descriptionAdvanced": "Rezervația Ebony Forest din Chamarel este o inițiativă privată de mare amploare, având ca scop salvarea și restaurarea pădurilor de abanos originale din Mauritius. La descoperirea insulei, cea mai mare parte a teritoriului era acoperită de acești arbori prețioși, care au fost aproape complet distruși de coloniști. În rezervație au fost plantați până acum peste 140.000 de arbori nativi, punând bazele unei păduri virgine pentru viitor. Vizitatorii se pot plimba pe pasarele de lemn suspendate sub coronamentul pădurii, evitând tasarea solului. Din punctul de belvedere 'Sublime Point' se deschide una dintre cele mai frumoase panorame din Mauritius asupra peninsulei Le Morne și a coastei de vest. Biológia K7 — Comunitățile forestiere și biodiversitatea.",
+      "factsAdvanced": [
+        "Proiect major de conservare situat în munții Chamarel",
+        "Scopul este refacerea pădurilor de abanos negru (Diospyros tessellaria)",
+        "Peste 140.000 de puieți nativi au fost plantați în rezervație",
+        "Punctul 'Sublime Point' oferă o panoramă de 360 de grade asupra coastei",
+        "Pasarelele suspendate protejează integritatea solului forestier",
+        "Șoimul de Mauritius a fost reintrodus cu succes în zonă",
+        "Centrul de vizitatori include un muzeu interactiv despre istoria insulei",
+        "Vizitatorii pot 'adopta' și planta propriul arbore nativ"
+      ]
+    },
+    {
+      "id": "takamaka-winery-life-v2",
+      "descriptionAdvanced": "Vinăria Takamaka este singura din Mauritius care a rupt tradiția viticulturii clasice, producând vinuri de clasă mondială din litchi, fructul care crește din abundență pe insulă. Fondatorul vinăriei, Alexander Oxenham, a îmbinat tehnicile franceze de vinificație cu caracterul exotic al fructelor tropicale. Vizitatorii cramei din Vacoas pot descoperi procesul de fermentare și maturare prin care dulceața fructului litchi se transformă într-un vin nobil. Gama Takamaka cuprinde vinuri seci, demidulci și de desert, care completează perfect aromele bucătăriei creole. Această afacere este un exemplu excelent de utilizare inovatoare a resurselor locale și de reînnoire a gastronomiei mauritiene. Életvitel K7 — Industria alimentară și agricultura inovatoare.",
+      "factsAdvanced": [
+        "Singura vinărie din lume care produce vin exclusiv din litchi",
+        "Fondată de oenologul Alexander Oxenham",
+        "Aplică procedee tradiționale de vinificație în producție",
+        "Fructele de litchi sunt selectate de pe cele mai bune plantații locale",
+        "Sala de degustare oferă 5-6 tipuri diferite de vin de fructe",
+        "Numele provine de la arborele Takamaka, nativ pe insulă",
+        "A câștigat numeroase premii internaționale la categoria vinuri tropicale",
+        "Susține activ micii cultivatori de fructe de pe insulă"
+      ]
+    },
+    {
+      "id": "rhumerie-de-chamarel-life-v2",
+      "descriptionAdvanced": "Rhumerie de Chamarel este una dintre cele mai frumoase și moderne distilerii de rom din Mauritius, situată în munții din sud-vest, la 300 de metri deasupra nivelului mării. Particularitatea distileriei constă în utilizarea sucului proaspăt de trestie provenit de pe propriile plantații (proces numit 'Rom Agricol'), spre deosebire de romurile comerciale produse din melasă. Stilul elegant al clădirii și vederea spre câmpurile de trestie înconjurătoare oferă o experiență vizuală deosebită. Vizitatorii pot vedea cazanele de cupru și pivnițele de maturare unde licoarea se înobilează în butoaie de stejar. Rhumerie este dedicată sustenabilității, deșeurile de producție fiind folosite pentru energie și îngrășământ. Istorie K8 — Prelucrarea agricolă și modernizarea.",
+      "factsAdvanced": [
+        "Situată în valea fertilă Chamarel la 300 metri altitudine",
+        "Folosește exclusiv suc proaspăt de trestie pentru distilare",
+        "Trestia este tăiată manual de pe plantațiile domeniului",
+        "Aplică tehnici tradiționale de distilare în coloană și cazan de cupru",
+        "Maturarea romului are loc în butoaie selecționate de stejar francez",
+        "Unitatea este ecologică, reciclând toate produsele secundare",
+        "Restaurantul 'L'Alchimiste' oferă experiențe gastronomice rafinate",
+        "Distileria este premiată pentru soluțiile sale arhitecturale unice"
+      ]
+    },
+    {
+      "id": "chamarel-coffee-plantation-life-v2",
+      "descriptionAdvanced": "Plantația de Cafea Chamarel este singurul loc de cultivare a cafelei din Mauritius, unde se produce varietatea specială Arabica, mai exact 'Coffea Arabica var. Nana'. Arbuștii de cafea se găsesc pe platoul vulcanic din Chamarel, unde climatul este ideal pentru o coacere lentă și dezvoltarea unor arome bogate. Cafeaua este cultivată aici din 1967 și este recoltată manual până în prezent pentru a asigura cea mai înaltă calitate. Vizitatorii pot observa procesul de prelucrare, de la uscare până la prăjire. Cafeaua Chamarel este renumită pentru conținutul său scăzut de cofeină și gustul său blând, fructat. Această producție artizanală păstrează tradițiile cafelei de pe insulă, care datează din epoca colonială. Életvitel K7 — Cultivarea plantelor tropicale.",
+      "factsAdvanced": [
+        "Singura plantație activă de cafea din Mauritius, în munții vestici",
+        "Cultivă o varietate specială de Arabica cu statură joasă",
+        "Boabele de cafea sunt selectate și culese manual și astăzi",
+        "Solul vulcanic și altitudinea conferă cafelei o aromă unică",
+        "Dispune de propria unitate de prăjire la fața locului",
+        "Producția a fost reluată în regiunea Chamarel în anul 1967",
+        "Cafeaua este vândută în magazine și cafenele selecționate de pe insulă",
+        "Vizitatorii pot degusta cafeaua proaspăt prăjită la cafeneaua locală"
+      ]
+    },
+    {
+      "id": "heritage-nature-reserve-life-v2",
+      "descriptionAdvanced": "Rezervația Naturală Heritage se întinde în regiunea Bel Ombre din sudul Mauritius-ului și este una dintre cele mai diverse arii protejate ale țării. Rezervația de 2500 de hectare cuprinde de la câmpii de coastă până la păduri montane, fiind punctată de chei spectaculoase și cascade. Zona este un habitat important pentru căprioarele Java și mistreți, precum și pentru numeroase specii de păsări endemice. Vizitatorii pot explora sălbăticia prin safari-uri cu vehicule 4x4, tururi cu quad-ul sau drumeții ghidate. Pe teritoriul rezervației se află ruinele vechilor plantații de trestie și case de piatră care păstrează vie memoria trecutului. Heritage este dedicată turismului sustenabil, limitând numărul de vizitatori pentru a păstra liniștea naturii. Természetismeret K6 — Fauna locală și echilibrul ecologic.",
+      "factsAdvanced": [
+        "Suprafață de 2500 de hectare în sudul nealterat al insulei",
+        "A făcut parte din domeniul istoric de zahăr Bel Ombre",
+        "Faună bogată: căprioare Java, maimuțe și mistreți",
+        "Găzduiește spectaculoasa cascadă Frederica",
+        "Adăpostește specii de plante dispărute în alte zone ale insulei",
+        "Organizează safari-uri nocturne pentru observarea animalelor",
+        "Numărul vizitatorilor este limitat pentru protejarea mediului",
+        "Ghid specialiști prezintă istoria ecologică a Mauritius-ului"
+      ]
+    },
+    {
+      "id": "splash-n-fun-life-v2",
+      "descriptionAdvanced": "Parcul de Agrement Splash N Fun este situat pe coasta de est a Mauritius, la Belle Mare, fiind cel mai mare și modern parc acvatic din țară. Complexul situat pe 25 de hectare oferă numeroase tobogane incitante, piscine cu valuri și un râu leneș pentru iubitorii de experiențe nautice. În proiectarea parcului s-a pus mare accent pe siguranță și pe un mediu prietenos pentru familii, astfel că pentru cei mici există bazine speciale și mini-tobogane. Pe lângă atracțiile acvatice, parcul oferă jocuri pe uscat, un cinematograf 5D și numeroase restaurante. Splash N Fun este o destinație populară de weekend atât pentru familiile locale, cât și pentru turiști, fiind locul ideal pentru relaxare activă în zilele tropicale fierbinți. Életvitel K4 — Odihna activă și sporturile nautice.",
+      "factsAdvanced": [
+        "Cel mai mare parc tematic acvatic din Mauritius, în Belle Mare",
+        "Se întinde pe 25 de hectare în apropierea plajei",
+        "Dispune de numeroase tobogane cu adrenalină (ex. Black Hole)",
+        "Bazin imens cu valuri și un 'Lazy River' relaxant",
+        "Secțiune tematică special construită pentru copiii mici",
+        "Include un cinematograf 5D modern și jocuri VR",
+        "Numeroase puncte gastronomice cu specific creol și internațional",
+        "Salvamari calificați asigură securitatea în întregul perimetru"
+      ]
+    },
+    {
+      "id": "mauritius-horse-trails-life-v2",
+      "descriptionAdvanced": "Mauritius Horse Trails este un centru de echitație renumit în nordul insulei, oferind o experiență unică: plimbări cu calul pe plajele cu nisip alb și prin pădurile tropicale. Particularitatea centrului este că mulți dintre caii lor sunt animale salvate, adoptate după retragerea din industria curselor locale și reantrenate pentru echitație de agrement. Tururile îi poartă pe vizitatori prin cele mai frumoase peisaje din jurul Mon Choisy și Grand Baie, oferind și posibilitatea de a intra cu caii în apa turcoaz puțin adâncă. Echitația nu este doar un sport, ci o experiență terapeutică ce apropie omul de natură. Centrul primește călăreți de toate nivelurile, de la începători la profesioniști. Természetismeret K5 — Relația dintre om și animale.",
+      "factsAdvanced": [
+        "Centru ecvestru situat în zona pitorească Mon Choisy",
+        "Specializat în reabilitarea și dresajul cailor de curse retrași",
+        "Organizează tururi unice în laguna cu apă mică",
+        "Călăreții pot intra în ocean alături de cai",
+        "Oferă plimbări cu ponei pentru copiii mici",
+        "Traseele traversează zonele istorice ale plantațiilor de trestie",
+        "Pune accent pe bunăstarea animalelor și călăria etică",
+        "Tururile la apus sunt cele mai apreciate de cupluri"
+      ]
+    },
+    {
+      "id": "belle-mare-fruit-orchards-life-v2",
+      "descriptionAdvanced": "Livezile din Belle Mare fac parte din comorile agricole ale regiunii de est a insulei. Această zonă a Mauritius este celebră pentru cultivarea fructelor tropicale, unde mango, papaya, litchi și guava cresc pe plantații vaste. În timpul vizitei, putem cunoaște ciclurile agriculturii tropicale și metodele tradiționale ale fermierilor locali. În sezonul de coacere, în special în noiembrie și decembrie, peisajul strălucește datorită arborilor de litchi încărcați de fructe roșii. Aceste grădini nu oferă doar hrană, ci sunt părți importante ale identității culturale a insulei, oferind ingredientele de bază pentru bucătăria locală. Degustarea fructelor proaspăt culese la tarabele de lângă plantații este o experiență obligatorie. Életvitel K4 — Alimentația sănătoasă și fructele tropicale.",
+      "factsAdvanced": [
+        "Cea mai mare zonă compactă de producție pomicolă din est",
+        "Renumită pentru producția de litchi în sezonul din noiembrie",
+        "Zeci de varietăți de mango sunt cultivate în livezi",
+        "Furnizor major pentru piețele locale și marile hoteluri",
+        "Unele grădini sunt deschise vizitatorilor pentru degustări",
+        "Include producție semnificativă de papaya și ananas",
+        "Folosește metode tradiționale de recoltare manuală",
+        "Mulți dintre arborii fructiferi au o vechime de peste un secol"
+      ]
+    },
+    {
+      "id": "flacq-sugar-cane-life-v2",
+      "descriptionAdvanced": "Districtul Flacq este centrul istoric al industriei zahărului din Mauritius, unde câmpurile verzi de trestie ce se întind până la orizont definesc peisajul. Cultivarea trestiei de zahăr este de secole piatra de temelie a economiei insulei, iar câmpiile fertile din Flacq oferă cele mai bune condiții pentru aceasta. În perioada de creștere, trestia ajunge la câțiva metri înălțime, iar la înflorire, spice argintii ondulează în vânt. În sezonul recoltării, cunoscut sub numele de 'la coupe', zona prinde viață, iar mirosul de trestie proaspăt tăiată umple aerul. Trestia oferă nu doar zahăr, ci și melasă pentru rom și energie pentru întreaga insulă. Peisajul agricol din Flacq este un monument viu al perseverenței mauritiene. Geografie K7 — Monocultura și istoria.",
+      "factsAdvanced": [
+        "Cea mai mare regiune cultivatoare de trestie de zahăr din Mauritius",
+        "Această plantă acoperă o parte semnificativă din suprafața totală a țării",
+        "Recoltarea are loc de obicei din iulie până în decembrie",
+        "Toate părțile plantei sunt utilizate: zahăr, rom și electricitate",
+        "În regiune pot fi văzute numeroase ruine de mori de zahăr vechi",
+        "Trestia joacă un rol vital în prevenirea eroziunii solului",
+        "Economia locală este strâns legată de prețul global al zahărului",
+        "Imaginea trestiilor înflorite (flèche) este un simbol iconic al insulei"
+      ]
+    },
+    {
+      "id": "pamplemousses-deer-park-life-v2",
+      "descriptionAdvanced": "Parcul de Căprioare Pamplemousses este o zonă îngrădită situată în interiorul faimoasei Grădini Botanice Sir Seewoosagur Ramgoolam. Aici trăiește o turmă de căprioare Java (Cervus timorensis), care au fost introduse în Mauritius în secolul al XVII-lea de către coloniștii olandezi. Parcul oferă vizitatorilor, în special familiilor, ocazia de a vedea de aproape aceste animale grațioase care au devenit parte integrantă a faunei insulare. Căprioarele pasc liniștite la umbra palmierilor gigantici și a arborilor exotici, amintind de istoria insulei și de impactul speciilor introduse de om. Vizitarea parcului este un punct de relaxare preferat în timpul plimbării botanice, copiii fiind încântați să vadă animalele la gard. Természetismeret K4 — Speciile introduse și impactul lor.",
+      "factsAdvanced": [
+        "Situat în perimetrul faimoasei Grădini Botanice Pamplemousses",
+        "Adăpostește o turmă de căprioare Java (Cervus timorensis)",
+        "Specia a fost adusă de olandezi în 1639 de pe insula Java",
+        "Scopul parcului este prezentarea speciilor istorice ale insulei",
+        "În imediata vecinătate pot fi văzute și țestoase gigantice",
+        "Punct de oprire preferat al copiilor în timpul turului grădinii",
+        "Animalele sunt complet obișnuite cu prezența vizitatorilor",
+        "Ajută la înțelegerea istoriei introducerii speciilor noi pe insulă"
+      ]
+    },
+    {
+      "id": "vallee-des-couleurs-life-v2",
+      "descriptionAdvanced": "Parcul Natural Vallée des Couleurs din sudul Mauritius-ului este un centru geologic și de recreere unic. Atracția principală este pământul în 23 de culori, rezultat al activității vulcanice care a produs diverse oxidări și minerale. Acest peisaj deluros și colorat oferă un contrast spectaculos cu pădurile verzi din jur. Parcul nu încântă însă doar privirea, ci și pe iubitorii de adrenalină: aici se află cea mai lungă tiroliană din Oceanul Indian, precum și tururi cu quad-ul, poduri suspendate și o serie de cascade. În interiorul parcului pot fi observate specii indigene, inclusiv țestoase și căprioare. Vallée des Couleurs este întâlnirea perfectă între forța naturii și turismul de aventură modern. Geografie K5 — Activitatea vulcanică și rocile.",
+      "factsAdvanced": [
+        "Atracția principală este solul vulcanic rar în 23 de nuanțe",
+        "Găzduiește cea mai lungă tiroliană din regiune, de 1,5 kilometri",
+        "Patru cascade spectaculoase se află pe teritoriul parcului",
+        "Tururi cu quad-ul sunt organizate pe un domeniu de 450 hectare",
+        "Un pod suspendat de 350 metri oferă o traversare palpitantă",
+        "Include o rezervație de plante și animale endemice",
+        "Dispune de un muzeu geologic propriu pentru prezentarea rocilor",
+        "Oferă panorame superbe spre ocean din punctele sale înalte"
+      ]
+    },
+    {
+      "id": "pangia-kids-park-life-v2",
+      "descriptionAdvanced": "Pangia Kids Park este un centru de divertisment creat special pentru cei mai tineri vizitatori în cadrul complexului Casela World of Adventures. Acest concept de 'parc în parc' oferă jocuri sigure și incitante pentru copii, în timp ce părinții se pot relaxa. În zona Pangia se găsesc mini-tobogane, carusele și un cinematograf interactiv 4D care îi poartă pe cei mici în lumea naturii. În proiectarea parcului s-a pus mare accent și pe educație: prin intermediul jocurilor, copiii învață despre animale și protecția mediului fără să simtă efortul. Pangia este completarea perfectă pentru experiența de safari, asigurându-se că toți membrii familiei găsesc activități potrivite. Életvitel K2 — Jocul și mișcarea.",
+      "factsAdvanced": [
+        "Univers dedicat copiilor în interiorul parcului Casela",
+        "Include numeroase carusele mini și elemente de joacă sigure",
+        "Găzduiește unul dintre primele cinematografe 4D științifice pentru copii",
+        "Jocurile sunt tematizate după flora și fauna locală",
+        "Dispune de zone de joacă atât acoperite cât și în aer liber",
+        "Locație populară pentru petreceri aniversare și evenimente școlare",
+        "Personalul este instruit special pentru supravegherea celor mici",
+        "Scopul parcului este educarea timpurie privind protecția mediului"
+      ]
+    }
+  ]
+}

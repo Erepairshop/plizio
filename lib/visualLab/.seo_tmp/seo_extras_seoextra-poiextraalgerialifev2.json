@@ -1,0 +1,36 @@
+{
+  "lang": "all",
+  "files": ["lib/visualLab/data/poiExtraAlgeriaLifeV2.ts"],
+  "items": [
+    {
+      "id": "tassili-n-ajjer-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tassili n'Ajjer ist ein gewaltiges Sandsteinplateau in der Zentralsahara, das als UNESCO-Welterbe bekannt ist. Es beherbergt eine erstaunliche Vielfalt an Felsmalereien, die bis zu 10.000 Jahre alt sind und auf eine einst blühende Tierwelt hinweisen. Heute ist es eines der letzten Rückzugsgebiete für den extrem seltenen Saharagazellen-Bestand. Geographisch gesehen bietet das Plateau durch seine zerklüftete Landschaft Mikroklimata, die eine überraschend reiche Flora ermöglichen. Geographie K6 — Wüstenökosysteme.",
+        "hu": "A Tassili n'Ajjer egy hatalmas homokkő-fennsík a közép-szaharai régióban, amely az UNESCO Világörökség része. Az itt található több mint 15.000 sziklarajz 10.000 évre visszamenőleg dokumentálja a régió hajdani gazdag élővilágát. Ma a terület a rendkívül ritka szaharai gepárd egyik utolsó menedéke. A fennsík egyedülálló geomorfológiája sajátos mikroklímákat alakít ki, amelyek a sivatagi környezet ellenére változatos növénytakarót tesznek lehetővé. Földrajz K6 — sivatagi ökoszisztémák.",
+        "ro": "Tassili n'Ajjer este un platou masiv de gresie din Sahara centrală, inclus în Patrimoniul Mondial UNESCO. Regiunea este renumită pentru cele peste 15.000 de picturi rupestre, unele datând de acum 10.000 de ani, care ilustrează diversitatea biologică de odinioară. Astăzi, platoul reprezintă unul dintre ultimele refugii pentru ghepardul saharian, o specie critic periclitată. Geomorfologia unică creează microclimate care susțin o floră surprinzător de bogată în ciuda aridității. Geografie K6 — ecosisteme deșertice.",
+        "en": "Tassili n'Ajjer is a massive sandstone plateau in the central Sahara, designated as a UNESCO World Heritage site. It contains an extraordinary collection of over 15,000 rock paintings, some dating back 10,000 years, depicting an ancient, lush environment. Today, it serves as a critical refuge for the critically endangered Saharan cheetah. The plateau's rugged landscape creates unique microclimates that support surprising biodiversity despite the harsh desert surroundings. Geography K6 — desert ecosystems."
+      },
+      "factsAdvanced": {
+        "de": ["UNESCO-Status seit 1982", "Über 15.000 Felsmalereien", "Plateaufläche ca. 72.000 km²", "Höchste Erhebung 2.158 m", "Lebensraum der Saharagazelle", "Saharageparden-Population kritisch"],
+        "hu": ["UNESCO-státusz 1982 óta", "Több mint 15.000 sziklarajz", "Fennsík területe kb. 72.000 km²", "Legmagasabb pont 2.158 m", "Szaharai gazella élőhelye", "Súlyosan veszélyeztetett gepárd-populáció"],
+        "ro": ["Statut UNESCO din 1982", "Peste 15.000 de picturi rupestre", "Suprafața platoului cca. 72.000 km²", "Altitudine maximă 2.158 m", "Habitat pentru gazela sahariană", "Populația de ghepard saharian critică"],
+        "en": ["UNESCO status since 1982", "Over 15,000 rock paintings", "Plateau area approx. 72,000 km²", "Highest point 2,158 m", "Habitat of the Saharan gazelle", "Critically endangered cheetah population"]
+      }
+    },
+    {
+      "id": "hoggar-mountains-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Hoggar-Gebirge, auch Ahaggar genannt, ist eine vulkanische Bergregion im Süden Algeriens mit Gipfeln, die bis auf 2.918 Meter ansteigen. Diese karge, aus vulkanischem Basalt geformte Landschaft bildet einen extremen Kontrast zur umliegenden Sandwüste. Trotz der extremen Trockenheit finden sich hier endemische Arten wie die seltene Saharazypresse. Das Gebiet ist eng mit der Tuareg-Kultur verbunden, die sich an die schwierigen Lebensbedingungen des Massivs angepasst hat. Geographie K7 — vulkanische Landschaften.",
+        "hu": "A Hoggar-hegység, más néven Ahaggar, egy vulkanikus régió Algéria déli részén, amelynek csúcsai elérik a 2.918 méteres magasságot. A kopár, vulkanikus bazaltból álló táj éles ellentétben áll a környező homoksivataggal. Az extrém szárazság ellenére itt élnek olyan endemikus fajok, mint a ritka szaharai ciprus. A terület szorosan kötődik a tuareg kultúrához, akik alkalmazkodtak a masszívum zord életkörülményeihez. Földrajz K7 — vulkanikus tájak.",
+        "ro": "Munții Hoggar, cunoscuți și sub numele de Ahaggar, reprezintă o regiune muntoasă vulcanică în sudul Algeriei, cu vârfuri care ating 2.918 metri. Acest peisaj arid, format din bazalt vulcanic, contrastează puternic cu deșertul de nisip înconjurător. În ciuda secetei extreme, aici se găsesc specii endemice, cum este rarisimul chiparos saharian. Zona este strâns legată de cultura tuaregă, care s-a adaptat condițiilor dificile din masiv. Geografie K7 — peisaje vulcanice.",
+        "en": "The Hoggar Mountains, also known as the Ahaggar, are a volcanic mountain range in southern Algeria with peaks reaching 2,918 meters. This stark landscape, carved from volcanic basalt, forms a dramatic contrast to the surrounding sand desert. Despite extreme aridity, endemic species such as the rare Saharan cypress are found here. The area is deeply connected to the Tuareg culture, which has adapted to the harsh living conditions of the massif. Geography K7 — volcanic landscapes."
+      },
+      "factsAdvanced": {
+        "de": ["Gipfel Tahat erreicht 2.918 m", "Vulkanisches Alter ca. 2 Mio. Jahre", "Tuareg-Zentrum Assekrem", "Heimat der Saharazypresse", "Extreme Temperaturschwankungen", "Schutzgebiet Ahaggar-Nationalpark"],
+        "hu": ["Tahat csúcs eléri a 2.918 m-t", "Vulkáni kor kb. 2 millió év", "Assekrem: tuareg központ", "Szaharai ciprus élőhelye", "Extrém hőmérséklet-ingadozás", "Ahaggar Nemzeti Park védterület"],
+        "ro": ["Vârful Tahat atinge 2.918 m", "Vârsta vulcanică cca. 2 mil. ani", "Centru tuareg Assekrem", "Habitatul chiparosului saharian", "Variații extreme de temperatură", "Parcul Național Ahaggar"],
+        "en": ["Tahat peak reaches 2,918 m", "Volcanic age approx. 2 million years", "Tuareg center Assekrem", "Habitat of Saharan cypress", "Extreme temperature fluctuations", "Ahaggar National Park protected area"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santos-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Santos ist der größte und wichtigste Seehafen Lateinamerikas im Bundesstaat São Paulo. Er wickelt einen Großteil der brasilianischen Exporte ab, insbesondere Kaffee, Zucker und Soja. Der Hafen ist entscheidend für die globale Handelsbilanz Brasiliens und verbindet die industrielle Herzregion mit internationalen Märkten. Erdkunde K7 – Welthandel und maritime Infrastruktur.",
+      "factsAdvanced": [
+        "Größter Hafen Lateinamerikas",
+        "Haupt-Exportgut: Kaffee",
+        "Wichtigster Logistik-Hub Brasiliens",
+        "Umschlagvolumen in Millionen Tonnen",
+        "Wichtige Anbindung an São Paulo",
+        "Schnittstelle für Container-Schifffahrt"
+      ]
+    },
+    {
+      "id": "paranagua-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Paranaguá im Bundesstaat Paraná ist ein zentraler Umschlagplatz für landwirtschaftliche Massengüter, vor allem Soja. Er ist einer der effizientesten Terminals Brasiliens und spielt eine Schlüsselrolle in der Versorgung des asiatischen Marktes. Die Infrastruktur wird stetig modernisiert, um den wachsenden Exportmengen gerecht zu werden. Erdkunde K7 – globale Nahrungsmittelversorgung.",
+      "factsAdvanced": [
+        "Zentrum für Agrar-Exporte",
+        "Wichtigster Umschlagplatz für Soja",
+        "Moderne Terminal-Infrastruktur",
+        "Exportpartner: China & Asien",
+        "Effizienz-Leader in Brasilien",
+        "Bedeutender Wirtschaftsmotor in Paraná"
+      ]
+    },
+    {
+      "id": "ouro-preto-history-v2",
+      "descriptionAdvanced": "Ouro Preto war das Herz des brasilianischen Goldrausches im 18. Jahrhundert und ist heute ein UNESCO-Welterbe voller barocker Kunst. Die Stadt besticht durch ihre engen kopfsteingepflasterten Gassen und prachtvolle Kirchen, die mit Gold verziert sind. Sie ist ein lebendiges Denkmal für den wirtschaftlichen und künstlerischen Aufstieg Brasiliens während der Kolonialzeit. Geschichte K8 – Goldrausch und Barockkunst.",
+      "factsAdvanced": [
+        "Zentrum des Goldrausches (18. Jhd)",
+        "UNESCO-Welterbe seit 1980",
+        "Barockkunst (Aleijadinho)",
+        "Ehemalige Hauptstadt von Minas Gerais",
+        "Kopfsteingepflasterte Altstadt",
+        "Wichtige Universitätsstadt heute"
+      ]
+    },
+    {
+      "id": "pelourinho-history-v2",
+      "descriptionAdvanced": "Pelourinho, die historische Altstadt von Salvador, ist ein Symbol für die koloniale Architektur und das Erbe des Sklavenhandels. Heute ist das Gebiet ein pulsierendes Zentrum für afro-brasilianische Kultur, Musik und Tanz. Die bunten Häuserfronten und der prachtvolle Largo do Pelourinho machen es zu einem weltweit einzigartigen historischen Ensemble. Geschichte K8 – koloniales Erbe und kulturelle Identität.",
+      "factsAdvanced": [
+        "Kern von Salvador (Altstadt)",
+        "UNESCO-Welterbe",
+        "Afro-brasilianisches Zentrum",
+        "Koloniale Häuser-Ensembles",
+        "Symbol für kulturelles Erbe",
+        "Treffpunkt der Musikgruppen (Olodum)"
+      ]
+    },
+    {
+      "id": "sao-miguel-missoes-history-v2",
+      "descriptionAdvanced": "Die Ruinen von São Miguel das Missões in Rio Grande do Sul sind die Überreste einer jesuitischen Reduktion aus dem 17. Jahrhundert. Sie zeugen von der missionarischen Arbeit und der Ansiedlung von Guaraní-Indigenen unter jesuitischer Führung. Die Stätte ist ein bedeutendes Zeugnis der Kulturbegegnung und späteren Konflikte im Grenzgebiet zu Argentinien. Geschichte K8 – Jesuitische Missionen in Südamerika.",
+      "factsAdvanced": [
+        "Jesuitische Reduktion (17. Jhd)",
+        "UNESCO-Welterbe",
+        "Architektur aus Sandstein",
+        "Siedlung der Guaraní-Indigenen",
+        "Ort der Kulturbegegnung",
+        "Wichtiges archäologisches Denkmal"
+      ]
+    }
+  ]
+}

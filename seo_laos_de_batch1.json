@@ -1,0 +1,249 @@
+{
+  "lang": "de",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "phou-bia-relief-v2",
+      "descriptionAdvanced": "Phou Bia ist der höchste Gipfel in Laos und ein faszinierendes geografisches Wahrzeichen in der Provinz Xiangkhoang. Mit einer beeindruckenden Höhe von fast dreitausend Metern dominiert dieser majestätische Berg das zerklüftete Annamitengebirge. Obwohl die Region von dichter, unberührter Dschungel-Vegetation geprägt ist, bleibt der Berg für Zivilisten unzugänglich. Die unberührte Natur rund um den Gipfel dient als lebenswichtiges Wassereinzugsgebiet für die umliegenden Täler. Historisch gesehen spielte das Gebiet während der Konflikte in Indochina eine strategische Rolle. Heute ist es ein Symbol für die wilde, ungezähmte Landschaft von Südostasien. Sachkunde K6 — Gebirgslandschaften.",
+      "factsAdvanced": [
+        "Höhe von 2.819 Metern über dem Meeresspiegel.",
+        "Liegt in der Provinz Xiangkhoang.",
+        "Teil des langgestreckten Annamitengebirges.",
+        "Das Gebiet ist wegen alter Munition gesperrt.",
+        "Dient als wichtige Wasserquelle für Nordlaos.",
+        "Tief in dichtem tropischem Regenwald verborgen."
+      ]
+    },
+    {
+      "id": "xiangkhoang-plateau-relief-v2",
+      "descriptionAdvanced": "Die Xiangkhoang-Hochebene in Nordlaos ist ein faszinierendes geografisches und historisches Zentrum. Auf über tausend Metern Höhe gelegen, bietet sie ein kühleres Klima als die tropischen Tiefländer. Diese weite Hochebene ist weltberühmt für die mysteriöse Ebene der Tonkrüge, deren Ursprung bis heute Rätsel aufgibt. Die Region ist von sanften Hügeln und Grasland geprägt, das einen starken Kontrast zu den dichten Dschungeln anderer laotischer Provinzen bildet. Leider zeugt die zerklüftete Landschaft auch von den massiven Bombardierungen während des Vietnamkriegs, die tiefe Krater hinterließen. Heute erholt sich die Natur und zieht Archäologen und Abenteurer an. Geografie K7 — Hochplateaus.",
+      "factsAdvanced": [
+        "Durchschnittliche Höhe von rund 1.100 Metern.",
+        "Heimat der prähistorischen Ebene der Tonkrüge.",
+        "Erlebte massive Bombardierungen in den 1960er und 1970er Jahren.",
+        "Landschaft dominiert von Grasland und sanften Hügeln.",
+        "Wichtiges Zentrum der laotischen Phuan-Kultur.",
+        "Bietet ein relativ kühles Mikroklima in Laos."
+      ]
+    },
+    {
+      "id": "bolaven-plateau-relief-v2",
+      "descriptionAdvanced": "Das Bolaven-Plateau im Süden von Laos ist eine außergewöhnlich fruchtbare Hochebene, die von malerischen Wasserfällen und üppigen Regenwäldern durchzogen wird. Mit Höhen zwischen tausend und über tausenddreihundert Metern bietet es ein erfrischendes Klima. Diese geografische Besonderheit ist das schlagende Herz der laotischen Kaffeeproduktion. Besucher werden von atemberaubenden Naturschauspielen wie dem Zwillingswasserfall Tad Fane oder dem majestätischen Tad Yuang angezogen. Die vulkanischen Böden der Hochebene sind nicht nur ideal für Kaffee, sondern auch für Kardamom, Tee und verschiedene Früchte. Die Region ist zudem die Heimat zahlreicher indigener ethnischer Minderheiten. Geografie K8 — Agrarwirtschaft.",
+      "factsAdvanced": [
+        "Liegt auf einer Höhe von 1.000 bis 1.350 Metern.",
+        "Befindet sich hauptsächlich in der Provinz Champasak.",
+        "Berühmt für spektakuläre Wasserfälle wie Tad Fane.",
+        "Hauptanbaugebiet für den hochwertigen laotischen Kaffee.",
+        "Entstand durch historische vulkanische Aktivitäten.",
+        "Heimat vieler Mon-Khmer-sprechender ethnischer Gruppen."
+      ]
+    },
+    {
+      "id": "phou-den-din-relief-v2",
+      "descriptionAdvanced": "Phou Den Din ist ein abgelegener Berg im gleichnamigen Nationalpark im äußersten Norden von Laos, an der Grenze zu Vietnam. Diese Region gehört zu den unberührtesten und am wenigsten erforschten Wildnisgebieten Südostasiens. Die steilen Hänge und dichten Wälder des Berges bieten einen sicheren Hafen für eine Vielzahl seltener Tier- und Pflanzenarten, darunter wilde Elefanten und unzählige Vogelarten. Die schwer zugängliche Topografie hat diese majestätische Landschaft vor starker menschlicher Entwicklung bewahrt. Expeditionen in dieses Gebiet erfordern tagelange Bootsfahrten auf dem Fluss Nam Ou. Die ungezähmte Natur hier ist ein wahres Paradies für Biodiversität. Biologie K7 — Biodiversität.",
+      "factsAdvanced": [
+        "Befindet sich in der nördlichsten Provinz Phongsali.",
+        "Teil des 2.220 Quadratkilometer großen Phou Den Din Nationalparks.",
+        "Liegt direkt an der unwegsamen Grenze zu Vietnam.",
+        "Beheimatet seltene Arten wie asiatische Elefanten.",
+        "Nur über den Wasserweg auf dem Fluss Nam Ou erreichbar.",
+        "Eines der größten zusammenhängenden Waldgebiete in Laos."
+      ]
+    },
+    {
+      "id": "nam-ou-valley-relief-v2",
+      "descriptionAdvanced": "Das malerische Nam-Ou-Tal in Nordlaos wird von dramatischen, steil aufragenden Kalksteinkarstfelsen gesäumt. Der Fluss Nam Ou schlängelt sich über Hunderte von Kilometern durch tiefe Schluchten, bevor er in den Mekong mündet. Diese beeindruckende Flusstallandschaft beherbergt traditionelle Dörfer, die eng mit dem Wasser verbunden sind. Die hoch aufragenden Klippen und geheimnisvollen Höhlen entlang des Flussufers, wie die heiligen Pak-Ou-Höhlen, ziehen seit Jahrhunderten Pilger an. Kürzlich errichtete Staudämme verändern langsam die Dynamik des Tals, doch die raue Schönheit der steilen Karstberge bleibt ein atemberaubendes Naturwunder. Geografie K6 — Flusstäler.",
+      "factsAdvanced": [
+        "Der Fluss Nam Ou erstreckt sich über 448 Kilometer.",
+        "Das Tal ist berühmt für seine steilen Kalksteinberge.",
+        "Mündet bei den Pak-Ou-Höhlen in den Mekongfluss.",
+        "Traditioneller Transportweg für Bergvölker im Norden.",
+        "In den letzten Jahren wurden mehrere Staudämme gebaut.",
+        "Bekannt für seine extrem tiefe und enge Flussschlucht."
+      ]
+    },
+    {
+      "id": "phou-samsoun-relief-v2",
+      "descriptionAdvanced": "Phou Samsoun erhebt sich als markanter und isolierter Berggipfel in der gebirgigen Provinz Xiangkhoang. Mit über zweitausendsechshundert Metern Höhe gehört er zu den herausragenden Erhebungen im Norden von Laos. Die raue Topografie und die dichten, schwer durchdringlichen Nebelwälder machen ihn zu einem echten Abenteuer für Entdecker. Für die lokalen indigenen Gemeinschaften hat dieser Berg eine tiefe spirituelle Bedeutung und wird oft in Legenden erwähnt. Die extrem isolierte Lage fernab großer Straßen hat seine ursprüngliche Flora und Fauna bewahrt. Sein markantes Profil ist schon aus großer Entfernung ein Orientierungspunkt. Geografie K7 — Bergökosysteme.",
+      "factsAdvanced": [
+        "Erreicht eine beeindruckende Höhe von etwa 2.620 Metern.",
+        "Befindet sich in der zerklüfteten Provinz Xiangkhoang.",
+        "Gilt als heiliger Ort für lokale ethnische Minderheiten.",
+        "Bedeckt mit dichtem tropischem und subtropischem Nebelwald.",
+        "Extrem abgelegen und schwer für Zivilisten erreichbar.",
+        "Bietet Lebensraum für zahlreiche unentdeckte Pflanzenarten."
+      ]
+    },
+    {
+      "id": "nakai-plateau-relief-v2",
+      "descriptionAdvanced": "Die Nakai-Hochebene in Zentrallaos ist ein Gebiet von enormer ökologischer und wirtschaftlicher Bedeutung. Einst von ausgedehnten Wäldern und Feuchtgebieten geprägt, veränderte das gigantische Nam Theun 2 Wasserkraftprojekt die Landschaft dramatisch. Ein erheblicher Teil der Hochebene ist heute ein riesiger Stausee, der als wichtige Energiequelle dient. Trotz dieser Veränderungen bleibt die umliegende Nakai-Nam Theun National Protected Area ein globaler Hotspot für Biodiversität. Hier leben einige der seltensten Säugetiere der Erde, darunter das mysteriöse Saola, auch bekannt als asiatisches Einhorn. Das Plateau ist ein Paradebeispiel für den Spagat zwischen Naturschutz und Entwicklung. Sachkunde K8 — Wasserkraft.",
+      "factsAdvanced": [
+        "Heimat des Nam Theun 2 Wasserkraftwerks, fertiggestellt 2010.",
+        "Der Stausee bedeckt etwa 450 Quadratkilometer der Hochebene.",
+        "Wichtigster Lebensraum für das extrem seltene Saola-Rind.",
+        "Befindet sich in der zentralen laotischen Provinz Khammouane.",
+        "Umfasst das Nakai-Nam Theun Nationale Schutzgebiet.",
+        "Spielt eine Schlüsselrolle in der Stromversorgung für Thailand."
+      ]
+    },
+    {
+      "id": "phou-khoun-pass-relief-v2",
+      "descriptionAdvanced": "Der Phou-Khoun-Pass ist eine lebenswichtige, hochgelegene Bergstraße, die sich durch die dramatische Bergwelt im Norden von Laos schlängelt. Auf rund eintausenddreihundert Metern Höhe bietet der Pass spektakuläre, wolkenverhangene Ausblicke über tief eingeschnittene Täler. Als wichtigster Verkehrsknotenpunkt verbindet diese kurvenreiche Route die einstige Königsstadt Luang Prabang mit der Hauptstadt Vientiane sowie den Ebenen im Osten. Die Fahrt über den Pass ist berüchtigt für ihre zahllosen Haarnadelkurven und die steilen Abgründe. Kleine Bergdörfer der Hmong-Minderheit säumen die Straße und profitieren vom durchreisenden Verkehr. Geografie K5 — Verkehrswege.",
+      "factsAdvanced": [
+        "Liegt auf einer Höhe von etwa 1.300 Metern über dem Meer.",
+        "Verbindet die Provinzen Vientiane, Luang Prabang und Xiangkhoang.",
+        "Ein wichtiger Knotenpunkt auf der historischen Nationalstraße 13.",
+        "Berühmt für dichten Nebel und extreme Haarnadelkurven.",
+        "Dient als Handelsroute für die in den Bergen lebenden Hmong.",
+        "Bietet weitreichende Panoramablicke über die laotischen Alpen."
+      ]
+    },
+    {
+      "id": "nam-ha-valley-relief-v2",
+      "descriptionAdvanced": "Das malerische Nam-Ha-Tal liegt tief im Nordwesten von Laos, verborgen in der gebirgigen Provinz Luang Namtha. Das Tal ist das Herzstück des gleichnamigen Nam Ha Nationalparks, einem der am besten geschützten Naturreservate des Landes. Durchzogen vom wilden Fluss Nam Ha, ist diese Region ein Zentrum für nachhaltigen Ökotourismus, wo Besucher durch unberührte Dschungel trekken. Die steilen, bewaldeten Hänge des Tals sind das Rückzugsgebiet für Nebelparder, asiatische Schwarzbären und eine Vielzahl von Affenarten. Für die lokalen Bergvölker, die am Flussufer leben, bietet das Tal wertvolle Ressourcen und fruchtbares Land. Biologie K7 — Naturschutz.",
+      "factsAdvanced": [
+        "Kerngebiet des 2.224 Quadratkilometer großen Nam Ha Nationalparks.",
+        "Der Fluss Nam Ha ist ein wichtiger Nebenfluss des Mekong.",
+        "Anerkannt als bedeutender ASEAN-Kulturerbe-Park.",
+        "Vorreiterregion für von der Gemeinschaft geführten Ökotourismus.",
+        "Beheimatet seltene asiatische Raubtiere und Primatenarten.",
+        "Zahlreiche indigene Dörfer befinden sich entlang der Flussufer."
+      ]
+    },
+    {
+      "id": "phou-ane-relief-v2",
+      "descriptionAdvanced": "Der majestätische Berg Phou Ane erhebt sich in der südlichen laotischen Provinz Attapeu, nahe der dicht bewaldeten Grenze zu Vietnam. Dieser Gipfel ist Teil des ausgedehnten Annamitengebirges, das als natürliche Barriere zwischen den beiden Ländern dient. Die Hänge des Phou Ane sind von immergrünem tropischem Regenwald bedeckt, der eine unberührte und wilde Atmosphäre ausstrahlt. Diese abgelegene Grenzregion ist bekannt für ihre schwer zugängliche Topografie, was sie zu einem perfekten Zufluchtsort für eine noch kaum erforschte Tierwelt macht. In der Vergangenheit war diese raue Landschaft Schauplatz logistischer Routen während regionaler Konflikte. Geografie K8 — Gebirgsketten.",
+      "factsAdvanced": [
+        "Teil des südlichen Abschnitts des Annamitengebirges.",
+        "Liegt in der südöstlichen Provinz Attapeu.",
+        "Bildet eine natürliche geografische Grenze zu Vietnam.",
+        "Die Flora besteht hauptsächlich aus dichtem tropischem Regenwald.",
+        "Historisch wichtig für Transportrouten im 20. Jahrhundert.",
+        "Einer der am wenigsten erforschten Berge in Südslaos."
+      ]
+    },
+    {
+      "id": "plain-of-jars-relief-v2",
+      "descriptionAdvanced": "Die geheimnisvolle Ebene der Tonkrüge ist ein riesiges archäologisches Areal, das sich über die grüne Xiangkhoang-Hochebene in Nordlaos erstreckt. Tausende massiver Steinkrüge, einige davon bis zu drei Meter hoch und mehrere Tonnen schwer, sind hier über weite Felder verstreut. Forscher glauben, dass diese megalithischen Strukturen vor über zweitausend Jahren im Rahmen komplexer Bestattungsrituale errichtet wurden. Die Stätte wurde im Jahr 2019 offiziell in die Liste des UNESCO-Weltkulturerbes aufgenommen. Trotz der schweren Verwüstungen durch Bombenangriffe im 20. Jahrhundert bleibt die Ebene ein eindrucksvolles Zeugnis einer längst untergegangenen Eisenzeitkultur. Geschichte K6 — Archäologie.",
+      "factsAdvanced": [
+        "Umfasst mehr als 90 verschiedene Fundstellen auf der Hochebene.",
+        "Die größten Krüge wiegen bis zu 14 Tonnen.",
+        "Datierung der Krüge reicht in die Eisenzeit (500 v. Chr. bis 500 n. Chr.).",
+        "Wurde 2019 zum UNESCO-Weltkulturerbe ernannt.",
+        "Vermutlich für antike Bestattungspraktiken genutzt.",
+        "Das Gebiet wurde im Vietnamkrieg intensiv bombardiert."
+      ]
+    },
+    {
+      "id": "phongsali-highlands-relief-v2",
+      "descriptionAdvanced": "Das Hochland von Phongsali im äußersten Norden von Laos ist eine raue, gebirgige Region, die auf drei Seiten von China und Vietnam umschlossen ist. Diese hochgelegene Landschaft zeichnet sich durch tiefe Schluchten, kühle Temperaturen und dichte, immergrüne Wälder aus. Die kühlen klimatischen Bedingungen auf über eintausendfünfhundert Metern machen die Region ideal für den Teeanbau, wobei einige Teebäume Jahrhunderte alt sind. Die isolierte geografische Lage hat zur Bewahrung einer unglaublichen ethnischen Vielfalt geführt, mit Dutzenden von Minderheiten, die in den steilen Bergen leben. Die traditionelle Architektur und Landwirtschaft prägen dieses abgelegene Hochplateau. Geografie K7 — Kulturlandschaften.",
+      "factsAdvanced": [
+        "Liegt auf durchschnittlich über 1.500 Metern Höhe.",
+        "Teilt direkte Grenzen mit der chinesischen Provinz Yunnan.",
+        "Berühmt für den Anbau von hochwertigem, altem Pu-Erh-Tee.",
+        "Beheimatet mehr als 20 verschiedene sino-tibetische Minderheiten.",
+        "Das Klima ist deutlich kühler als im Rest von Laos.",
+        "Erreichbar über kurvenreiche, steile Bergstraßen."
+      ]
+    },
+    {
+      "id": "mekong-river-valley-vientiane-relief-v2",
+      "descriptionAdvanced": "Das Mekong-Tal bei Vientiane ist eine weite, flache Alluvialebene, die durch die jahrtausendelange Ablagerung nährstoffreicher Sedimente des großen Flusses entstanden ist. Diese fruchtbare Flussebene bildet das landwirtschaftliche Herzstück von Laos, wo Reis, Gemüse und Früchte in Hülle und Fülle angebaut werden. Der breite, ruhige Strom markiert hier die natürliche und politische Grenze zum benachbarten Thailand. Die flache Topografie des Tals hat nicht nur die Landwirtschaft gefördert, sondern auch die Entwicklung von Vientiane zur größten Stadt des Landes ermöglicht. Bei Sonnenuntergang leuchten die ruhigen Gewässer des Flusses in spektakulären Farben. Geografie K5 — Flussebenen.",
+      "factsAdvanced": [
+        "Geformt durch die Sedimente des mächtigen Mekongflusses.",
+        "Das bedeutendste landwirtschaftliche Anbaugebiet des Landes.",
+        "Die Hauptstadt Vientiane liegt direkt in dieser weiten Ebene.",
+        "Bildet die offizielle Landesgrenze zwischen Laos und Thailand.",
+        "Besonders wichtig für den Nassreisanbau in der Region.",
+        "Verbunden mit Thailand durch die Erste Thailändisch-Laotische Freundschaftsbrücke."
+      ]
+    },
+    {
+      "id": "khammouane-karst-relief-v2",
+      "descriptionAdvanced": "Die Khammouane-Karstlandschaft in Zentrallaos ist ein geologisches Wunderwerk, bestehend aus einem endlosen Labyrinth aus steilen Kalksteinpfeilern und dichten Wäldern. Diese zerklüftete Bergkette wurde über Millionen von Jahren von Wasser geformt und beherbergt einige der gigantischsten Höhlensysteme Südostasiens. Die berühmteste Formation ist die riesige Kong-Lor-Höhle, ein sieben Kilometer langer unterirdischer Tunnel, durch den ein schiffbarer Fluss fließt. Die steilen Felswände und tiefen Canyons machen die Region zu einem Zufluchtsort für extrem seltene Tiere, die nur in diesem speziellen Karst-Ökosystem überleben können. Sachkunde K8 — Geologie.",
+      "factsAdvanced": [
+        "Besteht vorwiegend aus alten, verwitterten Kalksteinformationen.",
+        "Heimat der 7 Kilometer langen schiffbaren Kong-Lor-Höhle.",
+        "Zentrum des Nationalen Schutzgebiets Phou Hin Poun.",
+        "Beheimatet spezialisierte, endemische Karst-Tierarten.",
+        "Entstand durch jahrtausendelange Erosion durch Wasser.",
+        "Zieht Höhlenforscher und Kletterer aus aller Welt an."
+      ]
+    },
+    {
+      "id": "phou-that-relief-v2",
+      "descriptionAdvanced": "Phou That ist ein markanter Hügel in der Provinz Bokeo, der sich sanft über die Stadt Huay Xai und den mächtigen Mekong erhebt. Obwohl er nicht besonders hoch ist, bietet dieser Berg eine der beeindruckendsten strategischen Aussichten im sogenannten Goldenen Dreieck. Auf seinem Gipfel thront ein prächtiger goldener Stupa, der als wichtiges buddhistisches Heiligtum für die lokale Bevölkerung dient. Ein steiler, von Naga-Schlangen flankierter Treppenaufgang führt die Pilger durch den Wald zur Spitze. Von oben können Besucher die spektakulären Sonnenuntergänge beobachten, wie sie den Mekong an der Grenze zu Thailand in goldenes Licht tauchen. Geschichte K6 — Heilige Berge.",
+      "factsAdvanced": [
+        "Befindet sich in Huay Xai im berühmten Goldenen Dreieck.",
+        "Auf dem Gipfel steht der historische Stupa Wat Chomkhaou Manilat.",
+        "Der Tempel auf dem Berg wurde im Jahr 1880 erbaut.",
+        "Bietet eine weite Aussicht auf den Mekong und das thäländische Ufer.",
+        "Erreichbar über eine charakteristische Naga-Treppe.",
+        "Ein zentraler Ort für lokale buddhistische Zeremonien."
+      ]
+    },
+    {
+      "id": "sayaboury-highlands-relief-v2",
+      "descriptionAdvanced": "Das Hochland von Sayaboury bildet eine gebirgige Enklave westlich des Mekongs und teilt eine lange, bewaldete Grenze mit Thailand. Diese hügelige Region ist von weiten Laubwäldern und wertvollen Teakholzbeständen überzogen. Das bergige Terrain bietet den idealen, natürlichen Lebensraum für die größte verbliebene Population wilder und domestizierter asiatischer Elefanten in Laos. Das Elephant Conservation Center nutzt die ausgedehnten Wälder und Wasserquellen des Hochlands, um verwaiste Elefanten zu rehabilitieren. Die Täler zwischen den steilen Hügeln werden von den Einheimischen intensiv für den Anbau von Mais und Baumwolle genutzt. Biologie K7 — Artenschutz.",
+      "factsAdvanced": [
+        "Einzige laotische Provinz, die vollständig westlich des Mekongs liegt.",
+        "Hauptlebensraum für etwa 75 % der laotischen Elefantenpopulation.",
+        "Heimat des bekannten Elephant Conservation Centers.",
+        "Früher berühmt für seinen immensen Reichtum an Teakholzwäldern.",
+        "Teilt eine über 600 Kilometer lange Grenze mit Thailand.",
+        "Die hügelige Landschaft ist stark von Landwirtschaft geprägt."
+      ]
+    },
+    {
+      "id": "nam-ngum-reservoir-valley-relief-v2",
+      "descriptionAdvanced": "Das Nam-Ngum-Tal nördlich von Vientiane verwandelte sich in den 1970er Jahren radikal, als ein massiver Staudamm die weite Flussebene überflutete. Was einst ein tiefes Tal mit Wäldern war, ist heute ein riesiger Stausee, aus dem Hunderte von kleinen, dicht bewaldeten Inseln – die Gipfel der ehemaligen Hügel – ragen. Dieses künstliche Gewässer erstreckt sich über zweihundertfünfzig Quadratkilometer und dient als gigantische Wasserreserve. Die atemberaubende, seeartige Landschaft hat sich zu einem florierenden Ökosystem entwickelt, das Fischerdörfer versorgt und Wochenendausflügler aus der Hauptstadt anzieht. Sachkunde K8 — Staudämme.",
+      "factsAdvanced": [
+        "Entstand durch den Bau des Nam-Ngum-Staudamms im Jahr 1971.",
+        "Das Reservoir bedeckt eine Fläche von etwa 250 Quadratkilometern.",
+        "Gilt als das größte Gewässer innerhalb der laotischen Grenzen.",
+        "Beinhaltet hunderte kleiner Inseln, die ehemalige Hügelspitzen sind.",
+        "Wichtiger Lieferant von Wasserkraft für Laos und Thailand.",
+        "Ein bedeutendes Zentrum für die laotische Süßwasserfischerei."
+      ]
+    },
+    {
+      "id": "annamite-range-laos-relief-v2",
+      "descriptionAdvanced": "Das Annamitengebirge ist eine gewaltige, schroffe Gebirgskette, die sich über mehr als tausend Kilometer erstreckt und die natürliche Grenze zwischen Laos und Vietnam formt. Diese isolierten und steilen Berge zeichnen sich durch dichten, fast undurchdringlichen tropischen Monsunwald aus. Die Region gehört zu den globalen Hotspots der Biodiversität, in der in den letzten Jahrzehnten erstaunliche neue Säugetierarten wie der Riesenmuntjak entdeckt wurden. Die raue Topografie bot historische Zufluchtsorte und stellte eine enorme Herausforderung für den Straßenbau dar. Die dichten Regenwälder wirken als gigantischer Kohlenstoffspeicher für die Region. Biologie K8 — Gebirgswälder.",
+      "factsAdvanced": [
+        "Erstreckt sich über 1.100 Kilometer entlang der Ostgrenze von Laos.",
+        "Lokal unter dem Namen Truong-Son-Gebirgskette bekannt.",
+        "Der höchste laotische Gipfel, Phou Bia, ist Teil dieser Kette.",
+        "Einer der weltweit wichtigsten Hotspots für unentdeckte Arten.",
+        "Diente während des Vietnamkriegs als Pfad für den Ho-Chi-Minh-Pfad.",
+        "Geprägt von extrem feuchtem, dichtem Monsunwald."
+      ]
+    },
+    {
+      "id": "luang-prabang-range-relief-v2",
+      "descriptionAdvanced": "Das Luang-Prabang-Gebirge ist ein beeindruckendes Faltengebirge, das die zerklüftete Landschaft von Nordwestlaos und Nordthailand bestimmt. Diese steilen Bergketten bestehen aus Sandstein und Granit und fungieren als massive Wasserscheide zwischen dem Mekong und anderen großen Flusssystemen. Die dicht bewaldeten Hänge sind von tiefen, schwer zugänglichen Tälern durchzogen, die traditionellen Bergvölkern ein isoliertes Zuhause bieten. Die Höhenlagen erreichen oft über zweitausend Meter und sind bekannt für ihre ausgedehnten tropischen Trockenwälder. Diese Berge prägen entscheidend das Klima der historischen Königsstadt Luang Prabang, indem sie Regenwolken aufhalten. Geografie K7 — Gebirgsbildung.",
+      "factsAdvanced": [
+        "Fungiert als natürliche Wasserscheide zwischen Mekong und Nan-Fluss.",
+        "Erstreckt sich von der thäländischen Grenze weit nach Nordlaos.",
+        "Besteht vorwiegend aus Granit und altem Sandstein.",
+        "Die Gipfel erreichen Höhen von bis zu 2.079 Metern.",
+        "Stark von tropischen Trockenwäldern und Teakbäumen bewachsen.",
+        "Benannt nach der historischen laotischen Königsstadt in der Nähe."
+      ]
+    },
+    {
+      "id": "phou-loei-massif-relief-v2",
+      "descriptionAdvanced": "Das gigantische Phou-Loei-Massiv ist der dominierende Gebirgszug innerhalb des Nam Et-Phou Louey Nationalparks im bergigen Nordosten von Laos. Übersetzt bedeutet sein Name "Immergrüner Berg", was die dichten, unberührten Nebelwälder beschreibt, die die Flanken bis auf über zweitausendzweihundert Meter bedecken. Dieses abgelegene Massiv ist das wichtigste Schutzgebiet für die letzten verbliebenen Indochinesischen Tiger und wilde Leoparden in Laos. Die steilen Hänge und die dichte Vegetation machen das Gebiet für Menschen fast unpassierbar. Es fungiert als gewaltiger Wasserspeicher, aus dem zahlreiche wichtige Flüsse der Region entspringen. Biologie K8 — Raubtierschutz.",
+      "factsAdvanced": [
+        "Gipfel erreicht eine Höhe von etwa 2.256 Metern.",
+        "Kerngebiet des 5.959 Quadratkilometer großen Nationalparks.",
+        "Bedeutet in der lokalen Sprache wörtlich "Immergrüner Berg".",
+        "Letztes großes Rückzugsgebiet für wilde Tiger in Indochina.",
+        "Von extrem dichten, feuchten Bergregenwäldern bedeckt.",
+        "Quellgebiet für viele Nebenflüsse des Nam Et und Nam Khan."
+      ]
+    }
+  ]
+}

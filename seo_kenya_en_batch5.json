@@ -1,0 +1,340 @@
+{
+  "lang": "en",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mnarani-ruins-history-v2",
+      "descriptionAdvanced": "Perched high on a bluff overlooking the deep Kilifi Creek, the Mnarani Ruins represent a classic, heavily fortified Swahili settlement dating back to the early 14th century. Established originally by Arab and Persian merchants, the town flourished as a crucial node in the Indian Ocean dhow trade networks, exporting timber and ivory. The site's most prominent surviving feature is the Great Mosque, which features a highly unusual carved mihrab containing eleven inset bowls, believed to be imported Ming Dynasty porcelain. The surrounding landscape features massive, ancient baobab trees that shade a complex of deeply carved pillar tombs. Like many coastal settlements of its era, Mnarani was violently destroyed and subsequently abandoned in the late 16th century following devastating attacks by the nomadic Galla (Oromo) tribes. History K7 — Swahili coastal trade.",
+      "factsAdvanced": [
+        "A heavily ruined Swahili trading settlement founded in the early 14th century.",
+        "Located strategically on a high bluff overlooking the Kilifi Creek estuary.",
+        "The Great Mosque features a deeply carved mihrab originally decorated with Ming porcelain.",
+        "Features numerous elaborate coral stone pillar tombs shaded by massive baobab trees.",
+        "Flourished by trading ivory and timber with merchants from Oman and Persia.",
+        "Violently attacked and permanently abandoned in the late 16th century due to Galla raids.",
+        "Gazetted and protected as a national historical monument by the Kenyan government."
+      ]
+    },
+    {
+      "id": "pate-island-ruins-history-v2",
+      "descriptionAdvanced": "The Pate Island Ruins constitute the scattered, haunting remains of what was once one of the most powerful and fiercely independent city-states in the entire Lamu Archipelago. Founded in the 8th century, Pate reached the absolute zenith of its military and economic power in the 14th century under the Nabahani dynasty, which aggressively expanded its influence down the East African coast. The ruins are characterized by massive, labyrinthine coral stone walls and sprawling palaces, reflecting a highly developed, intensely prosperous Islamic civilization. However, Pate's history is deeply defined by relentless, centuries-long warfare—first fighting off Portuguese incursions, and later engaged in a bitter, ultimately fatal struggle against the Omani Sultanate of Zanzibar. The city's harbor eventually silted up, leading to a slow, irreversible decline. History K8 — Swahili city-state empires.",
+      "factsAdvanced": [
+        "Historically one of the most powerful Islamic city-states on the Swahili coast.",
+        "Located on the highly remote Pate Island within the Lamu Archipelago.",
+        "Founded by Arab immigrants, reaching its zenith under the Nabahani dynasty in the 14th century.",
+        "Fought relentless, bitter wars against the Portuguese and the Omani Empire of Zanzibar.",
+        "The ruins feature massive, highly intricate coral stone palaces and defensive walls.",
+        "The city's economic collapse was accelerated when its crucial deep-water harbor silted up.",
+        "Remains a highly isolated, deeply traditional archaeological site accessible only by boat."
+      ]
+    },
+    {
+      "id": "shanga-ruins-history-v2",
+      "descriptionAdvanced": "The Shanga Ruins, located on the remote southern coast of Pate Island, represent an extraordinary, deeply layered archaeological site that radically changed the understanding of early Islamic expansion in East Africa. Excavated extensively in the 1980s by Mark Horton, the site revealed an unprecedented continuous sequence of occupation from the 8th century to its sudden abandonment in the 15th century. Crucially, beneath the visible coral rag ruins, archaeologists discovered the post-holes of a timber mosque dating to roughly 780 AD, making it one of the absolute oldest known Islamic structures in sub-Saharan Africa. The settlement grew into a massively wealthy trading hub, evidenced by the discovery of vast quantities of imported Islamic ceramics, glass beads, and Chinese porcelain, before being mysteriously deserted. History K8 — Early Islamic archaeology.",
+      "factsAdvanced": [
+        "A highly significant archaeological site located on Pate Island in the Lamu Archipelago.",
+        "Features a continuous, deeply layered sequence of occupation from the 8th to 15th centuries.",
+        "Extensive excavations in the 1980s revealed one of Africa's oldest timber mosques (circa 780 AD).",
+        "The later coral stone city featured massive walls, numerous mosques, and pillar tombs.",
+        "Unearthed thousands of artifacts including early Islamic ceramics and Chinese porcelain.",
+        "Provides massive empirical evidence of early, peaceful Islamic integration on the Swahili coast.",
+        "The town was suddenly and mysteriously abandoned during the 15th century."
+      ]
+    },
+    {
+      "id": "uhuru-gardens-history-v2",
+      "descriptionAdvanced": "Uhuru Gardens, located just outside the bustling center of Nairobi, is Kenya's largest and most profoundly significant memorial park. The site marks the exact location where the British Union Jack was lowered, and the new Kenyan flag was raised for the very first time on midnight of December 12, 1963, symbolizing the absolute birth of the independent nation. The massive, meticulously landscaped 35-acre park is dominated by a towering 24-meter commemorative monument, erected in 1973 to celebrate a decade of independence. In recent years, the park underwent a colossal, highly secure modernization spearheaded by the Kenya Defence Forces, transforming it into a massive, state-of-the-art national museum and heritage complex detailing Kenya's pre-colonial, colonial, and modern political history. History K8 — National independence.",
+      "factsAdvanced": [
+        "The exact site where Kenya's independence was officially declared on December 12, 1963.",
+        "Features a massive 24-meter tall monument commemorating ten years of independence.",
+        "Located in the Lang'ata area of Nairobi, sprawling across 35 acres.",
+        "The name 'Uhuru' translates to 'Freedom' or 'Independence' in the Swahili language.",
+        "Underwent a massive, multi-billion-shilling redevelopment directed by the military in 2021.",
+        "Now hosts a highly advanced, expansive national history and heritage museum.",
+        "Serves as a deeply revered site for national political and military ceremonies."
+      ]
+    },
+    {
+      "id": "olorgesailie-history-v2",
+      "descriptionAdvanced": "Olorgesailie is a stark, geologically spectacular prehistoric site located deep within the floor of the Great Rift Valley, approximately 70 kilometers southwest of Nairobi. Discovered in 1919 by geologist J.W. Gregory and later excavated extensively by Mary and Louis Leakey in the 1940s, the site is globally famous as the 'factory of stone tools'. It features the absolute highest concentration of Acheulean hand axes ever found, perfectly preserved in ancient lakebed sediments dating back over 1.2 million years. These massive accumulations of meticulously knapped stone tools provide profound, highly localized evidence of the cognitive evolution and hunting strategies of Homo erectus. The surrounding hyper-arid landscape, dominated by Mount Suswa, vividly illustrates the dramatic tectonic forces that shaped human evolution. History K8 — Paleolithic stone tool industries.",
+      "factsAdvanced": [
+        "A globally critical prehistoric site situated on the floor of the Great Rift Valley.",
+        "Globally renowned for having the highest known concentration of Acheulean hand axes.",
+        "Extensively excavated by the famous paleoanthropologists Louis and Mary Leakey in the 1940s.",
+        "The massive tool accumulations date between roughly 1.2 million and 400,000 years ago.",
+        "Provides massive empirical evidence of the behavioral patterns of Homo erectus.",
+        "Located in a highly arid basin that was formerly an ancient, massive freshwater lake.",
+        "The site features a raised wooden walkway allowing visitors to view artifacts in situ."
+      ]
+    },
+    {
+      "id": "kariandusi-history-v2",
+      "descriptionAdvanced": "The Kariandusi Prehistoric Site, located near Gilgil in the Great Rift Valley, is one of the earliest and most spectacularly preserved Acheulean hand axe sites discovered in East Africa. Unearthed by Louis Leakey in 1928, the site is positioned on an ancient raised lake terrace, indicating that early hominins, primarily Homo erectus, camped along the fluctuating shores of a massive Pleistocene lake roughly 1 million years ago. What makes Kariandusi highly unique is the sheer abundance of heavy cleavers and hand axes fashioned exclusively from deeply dark, locally sourced obsidian and trachyte rocks. The site vividly demonstrates early human exploitation of volcanic geology for tool-making. A small, highly informative museum on-site preserves these massive stone tools exactly as they were excavated from the pumice-rich soil. History K8 — Obsidian tool making.",
+      "factsAdvanced": [
+        "Discovered in 1928 by the pioneering paleoanthropologist Louis Leakey.",
+        "Located near the town of Gilgil in the central Great Rift Valley.",
+        "An incredibly rich Acheulean site dating back approximately 1 million years.",
+        "Famous for massive hand axes and cleavers made almost entirely from volcanic obsidian.",
+        "Positioned on the ancient, raised shoreline of a massive Pleistocene-era lake.",
+        "Demonstrates the highly selective use of specific local volcanic rocks by Homo erectus.",
+        "Operates as a highly accessible national monument managed by the National Museums."
+      ]
+    },
+    {
+      "id": "hyrax-hill-history-v2",
+      "descriptionAdvanced": "Hyrax Hill is a highly prominent, multi-layered archaeological site located just on the outskirts of Nakuru city. Discovered in 1926 by Mary Leakey, the site is absolutely crucial for understanding the transition from late Stone Age hunter-gatherers to early Iron Age pastoralist and agricultural communities in the Rift Valley. The rocky, lava-dome hill features a massive complex of ancient stone-walled enclosures, deeply stratified settlement mounds, and numerous burial pits dating back roughly 3,000 years. The site is uniquely famous for unearthing the Sirikwa holes—highly distinct, sunken circular hollows built by early Kalenjin ancestors specifically to pen and protect livestock at night. The on-site museum, housed in a former colonial farmhouse, displays an incredibly rich collection of ancient pottery, iron tools, and beads. History K7 — Iron Age pastoralism.",
+      "factsAdvanced": [
+        "A deeply stratified archaeological site located immediately adjacent to Nakuru city.",
+        "Discovered and initially excavated by the legendary Mary Leakey in 1926.",
+        "Provides massive evidence of the transition from Stone Age hunting to Iron Age pastoralism.",
+        "Features highly distinctive 'Sirikwa holes' used historically for penning livestock.",
+        "The settlement mounds and massive burial sites date back approximately 3,000 years.",
+        "Named after the numerous rock hyraxes that naturally inhabit the rocky lava dome.",
+        "Gazetted as a deeply protected national monument in 1943."
+      ]
+    },
+    {
+      "id": "kenyatta-house-maralal-history-v2",
+      "descriptionAdvanced": "The Kenyatta House in Maralal is a highly unassuming yet profoundly historical bungalow located deep in the remote, arid highlands of Samburu County. This modest, three-roomed colonial residence was the final detention site of Jomo Kenyatta, the founding father of the Kenyan nation. After being moved from the harsh desert prison of Lodwar, Kenyatta was held here in relative isolation from 1959 until his ultimate release in August 1961. The site is deeply significant as it was here that he famously negotiated the final framework for Kenya's independence with British colonial authorities. Today, the highly preserved house operates as a national monument, retaining the original, austere furniture and personal artifacts from Kenyatta's detention, symbolizing the quiet, tense culmination of the national liberation struggle. History K8 — The final days of detention.",
+      "factsAdvanced": [
+        "Located in the remote highland town of Maralal within Samburu County.",
+        "Served as the final colonial detention site for Kenya's founding father, Jomo Kenyatta.",
+        "Kenyatta was detained in this relatively isolated house from 1959 to August 1961.",
+        "The exact site where final independence negotiations with British authorities occurred.",
+        "A highly modest, three-roomed colonial bungalow transformed into a national monument.",
+        "Maintains the highly preserved original furniture and historical artifacts from the 1960s.",
+        "Symbolizes the quiet, tense transition from colonial rule to national independence."
+      ]
+    },
+    {
+      "id": "rabai-museum-history-v2",
+      "descriptionAdvanced": "The Rabai Museum, located in the lush, hilly hinterland just northwest of Mombasa, represents the absolute geographical starting point of modern Christianity and formal Western education in Kenya. Established in 1846 by the pioneering German missionary Johann Ludwig Krapf, it was the very first Christian mission station built in the country. The highly preserved site features the original, deeply historic church building, which remains an active place of worship today. Historically, the mission was a deeply disruptive force, offering an incredibly rare safe haven for rescued slaves fleeing the massive Arab-led coastal slave trade, fundamentally altering local demographics. The museum meticulously details the complex, highly impactful intersection of early European missionary zeal, local Mijikenda culture, and the abolitionist movement. History K8 — Early missions and abolition.",
+      "factsAdvanced": [
+        "The very first Christian mission station established in Kenya, founded in 1846.",
+        "Built by the pioneering German CMS missionary Johann Ludwig Krapf.",
+        "Located in the lush, hilly Rabai region, roughly 25 kilometers northwest of Mombasa.",
+        "Historically served as a highly crucial, fortified sanctuary for rescued slaves.",
+        "Features Kenya's oldest functioning Christian church building, heavily preserved.",
+        "Marks the absolute starting point of formal Western education in the country.",
+        "The museum details the profound cultural clash between missionaries and the Mijikenda people."
+      ]
+    },
+    {
+      "id": "krapf-memorial-history-v2",
+      "descriptionAdvanced": "The Krapf Memorial is a deeply poignant historical monument located near the bustling coastal hub of Mombasa, dedicated to the extraordinary life and tragic losses of the German missionary Johann Ludwig Krapf. Operating under the Church Missionary Society (CMS), Krapf arrived on the Kenyan coast in 1844, becoming the very first European to systematically document the Swahili language and famously translating the book of Genesis into Swahili. The highly solemn memorial marks the gravesite of his wife Rosine and their infant daughter, both of whom died of severe malaria just months after arriving on the coast. Despite this massive personal tragedy, Krapf remained, mapping the interior and becoming the first European to officially report the snow-capped peak of Mount Kenya to a highly skeptical Europe. History K7 — Missionary exploration.",
+      "factsAdvanced": [
+        "A monument dedicated to the pioneering German missionary Johann Ludwig Krapf.",
+        "Marks the tragic gravesite of Krapf's wife and infant daughter, who died in 1844.",
+        "Located in the coastal region near Mombasa, where Krapf initially landed.",
+        "Krapf was the very first European to systematically document the Swahili language.",
+        "He famously produced the first translation of the Book of Genesis into Swahili.",
+        "Despite his massive losses, he continued inland, 'discovering' Mount Kenya in 1849.",
+        "Maintained as a deeply historical symbol of early European missionary perseverance."
+      ]
+    },
+    {
+      "id": "fort-ternan-history-v2",
+      "descriptionAdvanced": "Fort Ternan is an incredibly significant paleontological and historical site located in the rolling, incredibly lush tea-growing highlands of Kericho County. Discovered by a local farmer in 1961 and subsequently excavated by the legendary Louis Leakey, the site yielded massive fossil evidence of Kenyapithecus wickeri, an ancient ape species dating back roughly 14 million years to the Miocene epoch. This discovery was an absolute breakthrough, providing crucial evolutionary links between early apes and later hominins. Beyond its deep prehistoric gravity, the town of Fort Ternan was also the site of a highly fortified British colonial military outpost established to secure the massively strategic route of the Uganda Railway against local resistance. Today, it remains a quiet agricultural hub steeped in deep historical layers. History K8 — Miocene paleontology and colonial forts.",
+      "factsAdvanced": [
+        "Located in the deeply lush, high-altitude tea-growing region of Kericho County.",
+        "Yielded the massive 1961 discovery of Kenyapithecus wickeri fossils by Louis Leakey.",
+        "The highly critical Miocene-era fossils date back approximately 14 million years.",
+        "Provided a massive, crucial evolutionary link between ancient apes and hominins.",
+        "Historically the site of a heavily fortified British colonial military outpost.",
+        "The fort was established to militarily secure the construction of the Uganda Railway.",
+        "The area is now dominated by massive, highly manicured commercial tea estates."
+      ]
+    },
+    {
+      "id": "songhor-history-v2",
+      "descriptionAdvanced": "The Songhor Prehistoric Site is a highly specialized, deeply critical paleontological reserve situated at the foot of the Nandi Escarpment in Kisumu County. Covering roughly 78 acres of deeply eroded, heavily fossilized terrain, the site is globally famous for yielding massive quantities of Early Miocene fossils dating back nearly 19 million years. Since systematic excavations began in the 1930s, Songhor has produced incredibly well-preserved fossils of various ancient hominoids, most notably Proconsul africanus, an absolutely fundamental species in the evolutionary tree of modern apes and humans. The site also contains massive deposits of fossilized rhinos, ancient elephants, and primitive carnivores, providing a highly vivid, incredibly detailed reconstruction of the lush, forested ecosystem that dominated the Rift Valley millions of years ago. History K8 — Early Miocene hominoids.",
+      "factsAdvanced": [
+        "A highly critical Early Miocene paleontological site located in Kisumu County.",
+        "Situated at the base of the dramatic Nandi Escarpment in the Rift Valley basin.",
+        "Yielded massive fossil evidence of Proconsul africanus, a crucial ancient hominoid.",
+        "The deeply stratified fossil beds date back an astonishing 19 million years.",
+        "Excavations have unearthed massive deposits of ancient rhinos and primitive elephants.",
+        "Provides massive empirical data on the ancient, densely forested Rift Valley ecosystem.",
+        "Gazetted as a highly protected national monument by the Kenyan government in 1982."
+      ]
+    },
+    {
+      "id": "italian-war-memorial-church-history-v2",
+      "descriptionAdvanced": "The Italian War Memorial Church is a deeply evocative, beautifully constructed monument located just outside the bustling town of Nyeri, resting at the foothills of Mount Kenya. Built in 1952, this highly solemn brick sanctuary serves as the final resting place for 676 Italian prisoners of war captured by British forces during the intense East African Campaign of World War II. These prisoners were heavily utilized as forced labor for massive regional infrastructure projects, including the construction of the extremely treacherous road over the Aberdare Escarpment. The church's architecture features stunning, highly detailed vaulted ceilings and a massive central altar, offering a quiet, deeply respectful atmosphere that sharply contrasts with the brutal conflict that brought these men to East Africa. History K8 — World War II in East Africa.",
+      "factsAdvanced": [
+        "Located near Nyeri town at the foothills of the Mount Kenya massif.",
+        "Built in 1952 as a highly solemn memorial and ossuary for Italian Prisoners of War.",
+        "Contains the remains of 676 Italian soldiers captured during World War II.",
+        "The prisoners were utilized heavily for massive colonial infrastructure projects.",
+        "The architecture features highly detailed brickwork and stunning vaulted ceilings.",
+        "The Duke of Aosta, a prominent Italian general, was historically interred here before repatriation.",
+        "Maintained closely by the Italian government as a deeply significant war memorial."
+      ]
+    },
+    {
+      "id": "lokitaung-gorge-history-v2",
+      "descriptionAdvanced": "Lokitaung Gorge is an incredibly remote, deeply rugged geographical formation situated in the hyper-arid, extreme northwestern corner of Turkana County near the Ethiopian border. Historically, this deeply unforgiving landscape was the site of the highly isolated Lokitaung Prison, where British colonial authorities banished the most prominent leaders of the Mau Mau rebellion, including Jomo Kenyatta, in 1953. The prisoners endured intensely brutal conditions, tasked with performing highly punitive, agonizing hard labor, explicitly designed to break their political will. The sheer isolation of the gorge, surrounded by baking hot, impassable desert terrain, made it an absolute fortress of colonial containment. Today, the ruins of the prison stand as a highly stark, deeply emotional monument to the immense suffering endured during the struggle for national liberation. History K8 — Colonial penal colonies.",
+      "factsAdvanced": [
+        "Located in the extreme, hyper-arid northwestern corner of Turkana County.",
+        "Historically the site of an incredibly remote, heavily fortified colonial prison camp.",
+        "Jomo Kenyatta and the 'Kapenguria Six' were exiled here in 1953.",
+        "The prisoners endured massively brutal conditions and intensely punitive hard labor.",
+        "Surrounded by extremely hostile, baking hot desert terrain to prevent escapes.",
+        "The physical isolation was a highly calculated strategy to silence the nationalist leaders.",
+        "The ruined structures remain a deeply significant symbol of the independence struggle."
+      ]
+    },
+    {
+      "id": "wajir-fort-history-v2",
+      "descriptionAdvanced": "Wajir Fort, situated in the deep, highly arid heartland of Kenya's North Eastern Province, is a massive, incredibly striking piece of colonial military architecture. Constructed entirely from locally quarried limestone by Italian prisoners of war in the 1920s, the fort resembles a classic Saharan desert garrison, complete with high, whitewashed defensive walls and prominent watchtowers. Historically, the fort was established by the British to project military power over the fiercely independent, highly nomadic Somali pastoralists and to secure the highly strategic local groundwater wells. The structure has witnessed intense, highly localized conflict, including the brutal Shifta War of the 1960s. Today, it serves as a deeply imposing historical landmark, reflecting the complex, often violent history of state control in Kenya's most remote frontier. History K7 — Desert military garrisons.",
+      "factsAdvanced": [
+        "A massive colonial military fort located in the arid heart of Wajir County.",
+        "Constructed in the 1920s using forced labor from Italian prisoners of war.",
+        "Built entirely from locally quarried limestone in a classic Saharan defensive style.",
+        "Established to militarily secure the highly vital local groundwater wells.",
+        "Served as a highly critical base during the brutal Shifta War in the 1960s.",
+        "Features high, heavily fortified whitewashed walls and distinct defensive watchtowers.",
+        "Stands as a highly prominent symbol of historical state control in the northern frontier."
+      ]
+    },
+    {
+      "id": "nandi-hills-history-v2",
+      "descriptionAdvanced": "The Nandi Hills represent a massive, deeply undulating highland region in western Kenya, fiercely defined by both its intense modern tea production and its profound anti-colonial history. Located at a commanding elevation averaging 2,000 meters, the region is the ancestral and spiritual heartland of the Nandi people. In the late 19th and early 20th centuries, the hills were the epicenter of the highly organized, massive Nandi Resistance against the encroaching British Empire and the construction of the Uganda Railway. Led by the deeply revered supreme chief, Koitalel Arap Samoei, the Nandi fought a highly effective guerrilla war for over a decade. The conflict only ended when Samoei was deceitfully assassinated under the guise of a peace truce in 1905, an event still intensely commemorated locally. History K8 — Armed indigenous resistance.",
+      "factsAdvanced": [
+        "A highly elevated, intensely green highland region located in western Kenya.",
+        "The absolute ancestral and spiritual heartland of the Nandi community.",
+        "The epicenter of the massive, decade-long Nandi Resistance (1895-1905).",
+        "The resistance was led by the highly revered Orkoiyot (supreme chief) Koitalel Arap Samoei.",
+        "The Nandi forces fought a highly effective guerrilla war against the British railway construction.",
+        "The resistance ended with the highly controversial assassination of Samoei in 1905.",
+        "The region is today globally renowned for massive, highly productive commercial tea estates."
+      ]
+    },
+    {
+      "id": "makupa-causeway-history-v2",
+      "descriptionAdvanced": "The Makupa Causeway is a massive, deeply historic land bridge connecting the bustling Mombasa Island to the Kenyan mainland. Constructed in 1929 by the British colonial administration, the causeway replaced an earlier, highly inadequate pontoon bridge, fundamentally revolutionizing the logistics of the entire region. The massive engineering feat successfully carried the critical Uganda Railway line, the primary road highway, and the massive water pipelines supplying the island. For nearly a century, it was the absolute, congested bottleneck for all overland freight entering or exiting the colossal Port of Mombasa. Recently, acknowledging the severe ecological damage the solid causeway caused to the surrounding tidal creeks, the government undertook a massive infrastructure project to replace it with a modern, highly elevated bridge, restoring natural ocean flows. History K7 — Colonial transport engineering.",
+      "factsAdvanced": [
+        "A massive artificial land bridge connecting Mombasa Island to the western mainland.",
+        "Constructed in 1929 by the British colonial government to replace a pontoon bridge.",
+        "Carried the highly critical Uganda Railway line and the primary national highway.",
+        "Acted as the absolute chokepoint for all overland freight entering the Port of Mombasa.",
+        "The solid structure caused massive, long-term ecological damage to the local tidal creeks.",
+        "A massive modern bridge was recently completed to replace the solid earth causeway.",
+        "The new bridge design aims to restore the ancient, highly critical tidal ocean flows."
+      ]
+    },
+    {
+      "id": "pwani-mosque-history-v2",
+      "descriptionAdvanced": "The Pwani Mosque is a deeply historical, highly revered Islamic sanctuary located within the labyrinthine alleyways of Mombasa's Old Town. Often cited as the oldest functioning mosque in the city, its architectural foundations date back to the early 14th century, though it has undergone massive, repeated renovations over the centuries. The structure is a highly vivid representation of classical Swahili coastal architecture, constructed from massive blocks of coral rag and featuring highly intricate, deeply carved wooden doors and an elegantly simple, unadorned minaret. Positioned exceptionally close to the old dhow harbor, the mosque historically served as the primary, deeply spiritual focal point for arriving Omani and Persian merchants. Today, it remains an intensely active, highly prestigious center of daily worship and Islamic scholarship for the coastal community. History K7 — Early Islamic architecture.",
+      "factsAdvanced": [
+        "Widely recognized as the oldest functioning Islamic mosque in Mombasa city.",
+        "The original architectural foundations date back to the early 14th century.",
+        "Constructed using massive blocks of local coral rag in the classic Swahili style.",
+        "Located deep within the highly dense, labyrinthine alleyways of Mombasa Old Town.",
+        "Historically served the massive influx of Omani and Persian maritime merchants.",
+        "Features highly intricate, deeply carved wooden doors typical of Swahili craftsmanship.",
+        "Remains an intensely active, highly revered center for daily worship and religious study."
+      ]
+    },
+    {
+      "id": "fort-smith-history-v2",
+      "descriptionAdvanced": "Fort Smith is a highly significant, though heavily ruined, colonial military outpost located in the rapidly suburbanizing area of Kabete, just west of Nairobi. Established in 1891 by the Imperial British East Africa Company (IBEAC), it was constructed specifically to militarily secure the crucial caravan route running between Mombasa and Uganda. Surrounded by a massive, deep defensive trench, the fort became a highly intense flashpoint of conflict during the early colonial pacification campaigns against the local Kikuyu population, particularly under the command of the notoriously brutal Captain Francis Hall. Today, the massive trench and scattered earthworks are all that remain, quietly persisting amidst the massive real estate development of modern Kiambu County, serving as a stark reminder of the violent origins of colonial land acquisition. History K8 — Early colonial pacification.",
+      "factsAdvanced": [
+        "A highly strategic colonial military outpost established in 1891 in Kabete.",
+        "Built by the Imperial British East Africa Company (IBEAC) to secure the Uganda caravan route.",
+        "The primary defensive structure featured a massive, deeply dug surrounding trench.",
+        "A highly intense flashpoint for early colonial conflicts against the local Kikuyu people.",
+        "Commanded historically by the notoriously brutal British officer Captain Francis Hall.",
+        "The site is currently heavily encroached upon by massive modern suburban development.",
+        "The remaining massive earthworks stand as a stark monument to violent colonial expansion."
+      ]
+    },
+    {
+      "id": "ishakani-ruins-history-v2",
+      "descriptionAdvanced": "The Ishakani Ruins represent an incredibly remote, deeply mysterious archaeological site situated on the extreme northern coast of Kenya, literally straddling the Somali border. Dating from the 15th to the 17th centuries, the site is globally renowned for containing the highest concentration of highly elaborate Swahili pillar tombs in East Africa. These massive coral stone structures are uniquely adorned with inset Ming Dynasty porcelain bowls and feature highly complex, deeply carved geometric motifs. Unlike other major Swahili settlements, Ishakani lacks massive palace structures, suggesting it may have served primarily as a highly venerated, deeply sacred burial ground or a specialized outpost for the coastal ivory trade. The extreme geographical isolation of the site has kept it highly preserved, yet deeply under-researched. History K8 — Coastal burial architecture.",
+      "factsAdvanced": [
+        "An incredibly remote archaeological site located exactly on the Kenya-Somalia border.",
+        "Dates primarily from the highly prosperous Swahili period of the 15th to 17th centuries.",
+        "Features the absolute highest concentration of elaborate Swahili pillar tombs in East Africa.",
+        "The massive coral tombs are highly decorated with inset Chinese Ming Dynasty porcelain.",
+        "Lacks the massive palace ruins typical of other major Swahili city-states like Gedi.",
+        "Likely served as a highly specialized, deeply sacred regional burial ground.",
+        "Remains heavily unexcavated and highly preserved due to its extreme geographical isolation."
+      ]
+    },
+    {
+      "id": "ke-kenyatta-international-convention-centre-landmarks-v2",
+      "descriptionAdvanced": "The Kenyatta International Convention Centre (KICC) is undeniably the most iconic, highly recognizable architectural landmark in Nairobi's skyline. Commissioned by founding President Jomo Kenyatta and officially opened in 1973, the massive 28-story, 105-meter tower was specifically designed to project a highly modern, deeply independent African identity. Designed by architect Karl Henrik Nøstvik, its highly unique cylindrical tower and massive amphitheater were heavily inspired by the shape of traditional African huts and lotus flowers. For over two decades, it reigned as the absolute tallest building in East Africa. Today, it remains the absolute premier venue for massive international summits and conferences, while its rooftop helipad provides tourists with highly spectacular, 360-degree panoramic views of the entire sprawling metropolis. Landmarks K7 — Post-independence monumental architecture.",
+      "factsAdvanced": [
+        "Officially opened in 1973, commissioned by Kenya's first president, Jomo Kenyatta.",
+        "Stands at a massive 105 meters (344 feet), featuring 28 functioning stories.",
+        "Designed by Karl Henrik Nøstvik, heavily incorporating traditional African design motifs.",
+        "Reigned as the absolute tallest building in East Africa until the late 1990s.",
+        "The massive, saucer-shaped amphitheater is explicitly designed to resemble a lotus flower.",
+        "The rooftop helipad is a highly popular public attraction offering 360-degree city views.",
+        "The absolute premier national venue for hosting massive global MICE tourism events."
+      ]
+    },
+    {
+      "id": "ke-times-tower-landmarks-v2",
+      "descriptionAdvanced": "The Times Tower, officially known as the New Central Bank Tower, is a massive, highly imposing skyscraper that heavily dominates the administrative center of Nairobi's central business district. Completed in 2000, the brutalist-inspired structure reaches a staggering height of 140 meters with 38 floors, successfully dethroning the KICC to become the tallest building in East Africa for over a decade. The highly secure tower serves exclusively as the absolute operational headquarters for the Kenya Revenue Authority (KRA), making it the financial nervous center of the national government. Built to withstand massive seismic activity and heavily fortified against potential attacks, the building is a highly stark, deeply utilitarian monument to bureaucratic power, lacking public viewing decks but commanding immense visual gravity in the city's skyline. Landmarks K8 — Bureaucratic skyscrapers.",
+      "factsAdvanced": [
+        "Completed in 2000, serving as the massive headquarters for the Kenya Revenue Authority (KRA).",
+        "Reaches a towering height of 140 meters (459 feet), comprising exactly 38 floors.",
+        "Dethroned the KICC to become the absolute tallest building in East Africa until 2013.",
+        "Designed with massive, highly fortified structural engineering to withstand severe earthquakes.",
+        "Features a highly brutalist architectural style, emphasizing raw concrete and strict utility.",
+        "Operates under extremely tight security protocols due to its highly sensitive financial function.",
+        "Features a massive, highly complex seven-story split-level parking silo."
+      ]
+    },
+    {
+      "id": "ke-britam-tower-landmarks-v2",
+      "descriptionAdvanced": "The Britam Tower is an absolute masterpiece of modern skyscraper engineering, currently standing as the second-tallest building in Africa and the absolute tallest in Kenya. Completed in 2017 in the rapidly expanding Upper Hill financial district of Nairobi, the massive structure soars to an astonishing 200 meters, comprising 31 highly advanced commercial floors. The tower's design is highly distinctive, featuring a sleek, prismatic, deeply faceted glass facade that tapers elegantly into a massive, 60-meter-tall architectural spire. Beyond its sheer visual dominance, the building is highly celebrated for its extreme environmental sustainability, utilizing massive wind turbines integrated into the spire and a highly advanced water recycling system. It represents the absolute pinnacle of Nairobi's emergence as a premier, highly modernized global financial hub. Landmarks K8 — Ultra-modern sustainable skyscrapers.",
+      "factsAdvanced": [
+        "Completed in 2017, currently standing as the absolute tallest building in Kenya.",
+        "Reaches a massive architectural height of 200 meters (656 feet) with 31 floors.",
+        "Located in the highly modern, rapidly expanding Upper Hill financial district.",
+        "Features a highly distinct, prismatic glass facade that tapers into a 60-meter spire.",
+        "Globally recognized for extreme sustainability, winning the Emporis Skyscraper Award.",
+        "Integrates massive wind turbines and highly advanced water recycling systems.",
+        "Operates as the massive corporate headquarters for the Britam Holdings financial group."
+      ]
+    },
+    {
+      "id": "ke-uap-old-mutual-tower-landmarks-v2",
+      "descriptionAdvanced": "The UAP Old Mutual Tower is a massive, highly dominant commercial skyscraper situated at the absolute highest elevation point in Nairobi's Upper Hill financial district. Completed in 2016, the building stands at a staggering 163 meters with 33 floors, briefly holding the title of the tallest building in Kenya before the completion of the Britam Tower. Its highly robust, post-modern architectural design is characterized by massive vertical concrete ribs and highly reflective blue glass, topped with an incredibly prominent, brightly illuminated mast that makes the building visible from virtually anywhere in the city at night. The massive structure is a highly critical node in the local economy, hosting numerous multinational corporations and heavily anchoring Upper Hill's status as the absolute premier corporate address in East Africa. Landmarks K7 — Corporate skyline dominance.",
+      "factsAdvanced": [
+        "Completed in 2016 in the highly elevated Upper Hill district of Nairobi.",
+        "Stands at a massive 163 meters (535 feet) tall, comprising exactly 33 floors.",
+        "Briefly held the absolute title of the tallest building in Kenya upon its completion.",
+        "Features a highly prominent, deeply illuminated roof mast visible across the city at night.",
+        "Built at the absolute highest natural geographical point in the capital city.",
+        "Serves as a massive corporate hub for multinational financial and legal firms.",
+        "The highly robust design features massive exterior vertical concrete supporting ribs."
+      ]
+    },
+    {
+      "id": "ke-global-trade-centre-landmarks-v2",
+      "descriptionAdvanced": "The Global Trade Centre (GTC) Nairobi is an incredibly massive, ultra-modern mixed-use architectural complex that has radically redefined the skyline of the Westlands district. Completed in 2021, this colossal multi-billion-dollar project is the absolute largest single real estate development in East Africa, heavily financed and constructed by massive Chinese state-backed corporations. The complex features six highly imposing towers, the tallest of which is a massive 184-meter, 43-story office skyscraper that currently ranks as the second-tallest building in Kenya. The GTC seamlessly integrates a highly luxurious JW Marriott hotel, massive high-end residential apartments, and a sprawling, highly exclusive retail mall. The sleek, deeply uniform glass facades of the towers represent a massive leap forward in the city's high-density, highly globalized urban planning. Landmarks K8 — Megaproject mixed-use developments.",
+      "factsAdvanced": [
+        "A colossal, highly integrated mixed-use megaproject completed in the Westlands district in 2021.",
+        "The absolute largest single real estate development ever constructed in East Africa.",
+        "Features six massive towers, including a highly luxurious 35-story JW Marriott hotel.",
+        "The primary office tower stands at a massive 184 meters (604 feet) with 43 floors.",
+        "Heavily financed and constructed by massive Chinese state-backed engineering firms.",
+        "Integrates high-end commercial office space, residential apartments, and a massive retail mall.",
+        "Represents a highly aggressive shift toward ultra-dense, highly globalized urban planning."
+      ]
+    }
+  ]
+}

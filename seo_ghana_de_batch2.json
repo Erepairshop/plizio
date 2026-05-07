@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nsawam-cities-v2",
+      "descriptionAdvanced": "Nsawam, in der Eastern Region, liegt am malerischen Fluss Densu und ist berühmt als das Zentrum der ghanaischen Ananasproduktion. Die Stadt beheimatet die Astek-Fruchtsaftfabrik sowie die Blue Skies-Anlage, die täglich tonnenweise frische Säfte nach Europa exportiert. Historisch gewann der Ort an Bedeutung als Eisenbahnknotenpunkt in den 1910er Jahren, doch heute ist er vor allem für das angrenzende Nsawam Medium Security Prison, Ghanas größtes Gefängnis, landesweit bekannt. Wirtschaft K6 — Agrarindustrie.",
+      "factsAdvanced": ["Zentrum der Ananasproduktion", "Liegt am Fluss Densu", "Heimat der Blue Skies-Anlage", "Exportiert frische Säfte nach Europa", "Eisenbahnknotenpunkt seit den 1910er Jahren", "Standort von Ghanas größtem Gefängnis"]
+    },
+    {
+      "id": "kasoa-cities-v2",
+      "descriptionAdvanced": "Kasoa in der Central Region ist berüchtigt für sein atemberaubendes Bevölkerungswachstum und den massiven Verkehrsknotenpunkt an der Hauptküstenstraße. Einst ein beschaulicher ländlicher Markt, wo Bauern aus dem Landesinneren ihre Waren an die Küstenbewohner verkauften, ist die Stadt heute zu einem riesigen Handelszentrum für das westliche Accra mutiert. Der Kasoa-Markt zieht freitags Tausende von Großhändlern an, die hier landwirtschaftliche Produkte, Kleidung und Haushaltswaren umsetzen. Geografie K7 — städtisches Wachstum.",
+      "factsAdvanced": ["Liegt in der Central Region", "Berüchtigt für atemberaubendes Bevölkerungswachstum", "Massiver Verkehrsknotenpunkt an der Küstenstraße", "Riesiges Handelszentrum für Accra", "Freitagsmarkt zieht Tausende Großhändler an", "Einst beschaulicher ländlicher Markt"]
+    },
+    {
+      "id": "yendi-cities-v2",
+      "descriptionAdvanced": "Yendi ist die traditionelle Hauptstadt des historischen Dagbon-Königreichs in der Northern Region und Sitz des Ya-Naa, des obersten Königs. Im späten 19. Jahrhundert wurde die Stadt durch den deutsch-britischen Vertrag geteilt, wovon heute noch Gräber deutscher Soldaten zeugen. Das trockene Savannenklima zwingt die mehrheitlich von der Landwirtschaft lebende Bevölkerung, sich auf den Anbau von trockenheitsresistenten Pflanzen wie Hirse, Sorghum und Yams zu konzentrieren. Geschichte K8 — das Dagbon-Königreich.",
+      "factsAdvanced": ["Hauptstadt des Dagbon-Königreichs", "Sitz des Ya-Naa (oberster König)", "Durch deutsch-britischen Vertrag im 19. Jh. geteilt", "Gräber deutscher Soldaten vorhanden", "Trockenes Savannenklima", "Anbau von Hirse und Sorghum"]
+    },
+    {
+      "id": "winneba-cities-v2",
+      "descriptionAdvanced": "Winneba, lokal als Simpa bekannt, ist eine geschichtsträchtige Küstenstadt, die für ihr spektakuläres Aboakyer-Festival berühmt ist, bei dem junge Männer traditionell einen lebenden Buschbock fangen. Sie beherbergt die University of Education, die wichtigste Ausbildungsstätte für Lehrer im Land, was der Stadt ein akademisches Flair verleiht. Der Fischfang im Golf von Guinea bleibt jedoch die Lebensader für die ursprüngliche Bevölkerung, deren bunt bemalte Boote die Strände säumen. Kultur K6 — traditionelle Feste.",
+      "factsAdvanced": ["Lokaler Name ist Simpa", "Berühmt für das Aboakyer-Festival", "Junge Männer fangen lebenden Buschbock", "Sitz der University of Education", "Fischfang im Golf von Guinea ist essenziell", "Geschichtsträchtige Küstenstadt"]
+    },
+    {
+      "id": "mampong-cities-v2",
+      "descriptionAdvanced": "Mampong in der Ashanti-Region fungiert als administratives und erzieherisches Zentrum mit einer starken historischen Bedeutung im Ashanti-Königreich. Es ist der Sitz des Mamponghene, dem zweithöchsten Führer nach dem Asantehene, was die Stadt zu einem zentralen Ort für königliche Rituale macht. Die Region ist von fruchtbaren Böden geprägt, und die örtliche Agrarhochschule zieht Studenten aus dem ganzen Land an, um moderne Anbaumethoden für Kakao und Cashew zu erlernen. Geografie K7 — Landwirtschaft und Bildung.",
+      "factsAdvanced": ["Zentrum in der Ashanti-Region", "Sitz des Mamponghene (zweithöchster Führer)", "Wichtiger Ort für königliche Rituale", "Bekannt für fruchtbare Böden", "Standort einer großen Agrarhochschule", "Anbau von Kakao und Cashew"]
+    },
+    {
+      "id": "navrongo-cities-v2",
+      "descriptionAdvanced": "Navrongo, tief in der trockenen Upper East Region gelegen, zeichnet sich durch seine bemerkenswerte Lehmarchitektur aus. Das berühmteste Wahrzeichen ist die faszinierende Basilica of Our Lady of Seven Sorrows, eine katholische Kirche, die 1906 von französischen Priestern vollständig aus Schlamm erbaut wurde. Die Stadt profitiert maßgellich vom Tono-Staudamm, der eine ganzjährige Bewässerungslandwirtschaft in der sonst trockenen Savanne ermöglicht. Geografie K6 — Bewässerung und Architektur.",
+      "factsAdvanced": ["Liegt in der Upper East Region", "Bemerkenswerte Lehmarchitektur", "Basilica aus Schlamm (erbaut 1906)", "Gegründet von französischen Priestern", "Profitiert vom Tono-Staudamm", "Ganzjährige Bewässerungslandwirtschaft möglich"]
+    },
+    {
+      "id": "akim-oda-cities-v2",
+      "descriptionAdvanced": "Akim Oda ist das pulsierende Zentrum der Birim Central Municipal in der Eastern Region und historisch bekannt für den Handel mit Tropenholz und Diamanten. Der Markt in Oda ist einer der größten der Region, besonders beliebt für den Handel mit Kassava und Palmöl, die im feuchten, dichten Waldklima gedeihen. Die Stadt war jahrzehntelang Standort der größten Sägemühle Westafrikas, doch der Rückgang der Wälder hat zu einem wirtschaftlichen Umdenken in Richtung nachhaltigerer Landwirtschaft geführt. Umwelt K7 — Waldwirtschaft.",
+      "factsAdvanced": ["Zentrum der Birim Central Municipal", "Historisch bekannt für Tropenholz und Diamanten", "Einer der größten Märkte der Region", "Handel mit Kassava und Palmöl", "Einst größte Sägemühle Westafrikas", "Wirtschaftlicher Wandel durch Waldrückgang"]
+    },
+    {
+      "id": "prestea-cities-v2",
+      "descriptionAdvanced": "Tief in der waldreichen Western Region gelegen, ist Prestea eine der traditionsreichsten Goldgräberstädte Ghanas. Seit über einem Jahrhundert wird hier tief unter der Erde Gold abgebaut, was ein riesiges Labyrinth an Minenschächten hinterlassen hat. Der Bergbau brachte einst enormen Reichtum und eine Eisenbahnanbindung 1901, aber auch schwere ökologische Schäden durch Schwermetalle und Chemikalien, die bis heute das Flusssystem der Region belasten. Wirtschaft K8 — Goldabbau und Umweltfolgen.",
+      "factsAdvanced": ["Traditionsreiche Goldgräberstadt", "Liegt in der Western Region", "Gold unter der Erde abgebaut", "Eisenbahnanbindung im Jahr 1901", "Riesiges Labyrinth an Minenschächten", "Schwere ökologische Schäden durch Schwermetalle"]
+    },
+    {
+      "id": "effiakuma-cities-v2",
+      "descriptionAdvanced": "Effiakuma ist ein dicht besiedelter Vorort innerhalb der Zwillingsstadt Sekondi-Takoradi, der ursprünglich in den 1950er Jahren als geplante Arbeitersiedlung angelegt wurde. Mit dem Boom der ghanaischen Ölindustrie wuchs das Viertel rasant, und heute ist es bekannt für seine lebendige Straßenkultur und die passionierte Unterstützung des lokalen Fußballs. Die meisten Einwohner pendeln zum nahegelegenen Hafen oder arbeiten in den Raffinerien und Fabriken der Industriebahn von Takoradi. Sozialkunde K7 — Arbeiterklasse und Industrie.",
+      "factsAdvanced": ["Vorort von Sekondi-Takoradi", "Geplante Arbeitersiedlung in den 1950ern", "Rasanter Wachstum durch Ölindustrie", "Lebendige Straßenkultur", "Bewohner pendeln zum Hafen und Raffinerien", "Passionierte Fußball-Unterstützer"]
+    },
+    {
+      "id": "agogo-cities-v2",
+      "descriptionAdvanced": "Eingebettet in ein fruchtbares Tal in der Ashanti-Region, hat sich Agogo den Ruf als Plantain-Hauptstadt Ghanas erarbeitet, da hier unglaubliche Mengen an Kochbananen angebaut werden. Die Stadt wurde in den 1930er Jahren durch das presbyterianische Krankenhaus bekannt, das noch heute zu den besten medizinischen Einrichtungen im Hinterland zählt. Durch die Ansiedlung großer Rinderherden durch Fulani-Hirten in der Region kam es jedoch in den letzten Jahren immer wieder zu Spannungen mit den lokalen Bauern. Geografie K6 — Landkonflikte.",
+      "factsAdvanced": ["Ruf als Plantain-Hauptstadt", "Anbau riesiger Mengen von Kochbananen", "Presbyterianisches Krankenhaus (1930er)", "Beste medizinische Einrichtung im Hinterland", "Spannungen mit Fulani-Hirten", "Ansiedlung großer Rinderherden"]
+    },
+    {
+      "id": "dunkwa-on-offin-cities-v2",
+      "descriptionAdvanced": "Am Ufer des Flusses Offin gelegen, ist Dunkwa ein entscheidender Knotenpunkt für den Kakao- und Goldbergbau in der Central Region. In den frühen 1900er Jahren florierte die Stadt dank ihrer Lage an der Eisenbahnstrecke, die riesige Holzstämme aus dem Regenwald zur Küste transportierte. Heutzutage leidet der Fluss stark unter den Auswirkungen des Galamsey (illegaler Kleinstbergbau), der das Wasser verschmutzt und die Landwirtschaft flussabwärts massiv beeinträchtigt. Umwelt K8 — illegaler Bergbau.",
+      "factsAdvanced": ["Liegt am Ufer des Flusses Offin", "Knotenpunkt für Kakao und Gold", "Florierte in den frühen 1900er Jahren", "Lage an historischer Eisenbahnstrecke", "Fluss leidet unter Galamsey (illegaler Bergbau)", "Wasserverschmutzung beeinträchtigt Landwirtschaft"]
+    },
+    {
+      "id": "begoro-cities-v2",
+      "descriptionAdvanced": "Begoro liegt auf einem malerischen Plateau der Akwapim-Togo-Bergkette in der Eastern Region und zeichnet sich durch ein auffällig kühles Klima aus. Diese geografische Besonderheit macht das Gebiet zu einem der besten Orte Ghanas für den Anbau von Gemüse und Obst, die ansonsten in den Tropen schwer gedeihen. Die Wasserfälle von Osubin in der Nähe der Stadt sind eine beliebte, wenn auch schwer zugängliche Attraktion für einheimische Wanderer. Geografie K6 — Höhenklima und Flora.",
+      "factsAdvanced": ["Auf dem Plateau der Akwapim-Togo-Bergkette", "Zeichnet sich durch kühles Klima aus", "Optimaler Anbauort für Obst und Gemüse", "Osubin Wasserfälle in der Nähe", "Beliebt bei einheimischen Wanderern", "Liegt in der Eastern Region"]
+    },
+    {
+      "id": "kintampo-cities-v2",
+      "descriptionAdvanced": "Kintampo wird oft als das exakte geografische Zentrum Ghanas bezeichnet und ist ein bedeutender historischer Knotenpunkt für Handelskarawanen, die Kola-Nüsse aus dem Süden gegen Salz aus dem Norden tauschten. Die berühmten Kintampo-Wasserfälle ziehen jährlich Tausende von Touristen an, während die Stadt gleichzeitig als Zentrum für die Erforschung der Kintampo-Kultur (ca. 2500–1400 v. Chr.) durch Archäologen bekannt ist. Geschichte K7 — prähistorische Kulturen Westafrikas.",
+      "factsAdvanced": ["Exaktes geografisches Zentrum Ghanas", "Historischer Knotenpunkt für Handelskarawanen", "Tausch von Kola-Nüssen gegen Salz", "Berühmte Kintampo-Wasserfälle", "Forschungszentrum der prähistorischen Kintampo-Kultur", "Archäologische Funde aus 2500–1400 v. Chr."]
+    },
+    {
+      "id": "aflao-cities-v2",
+      "descriptionAdvanced": "Aflao liegt direkt an der östlichen Grenze zu Togo und ist der geschäftigste Landgrenzübergang Ghanas, durch den täglich Tausende von Menschen, Fahrzeugen und Gütern pendeln. Die Wirtschaft der Stadt basiert nahezu vollständig auf dem grenzüberschreitenden Handel und den dazugehörigen Logistikdienstleistungen. Trotz des hohen Handelsvolumens ist Aflao oft Schauplatz von Schmuggelaktivitäten, was eine ständige Herausforderung für den Zoll darstellt. Wirtschaft K8 — Grenzübergänge und Zoll.",
+      "factsAdvanced": ["Geschäftigster Landgrenzübergang Ghanas", "Grenzt direkt an Togo", "Täglich Tausende Pendler und Fahrzeuge", "Wirtschaft basiert auf grenzüberschreitendem Handel", "Wichtiger Ort für Logistik", "Ständige Herausforderung durch Schmuggel"]
+    },
+    {
+      "id": "nkoranza-cities-v2",
+      "descriptionAdvanced": "Nkoranza liegt in der Bono East Region und spielt eine zentrale Rolle in der landwirtschaftlichen Lebensmittelversorgung des Landes, insbesondere beim Anbau von Yams und Mais. Die Region ist berühmt für ihr traditionelles Munufie-Festival, bei dem die Dorfbewohner den Geistern ihrer Vorfahren für eine erfolgreiche Ernte danken. Historisch gesehen leistete Nkoranza erbitterten Widerstand gegen die Expansion des Ashanti-Reiches im späten 19. Jahrhundert. Geschichte K6 — regionale Kriege.",
+      "factsAdvanced": ["Zentral für Lebensmittelversorgung (Yams, Mais)", "Liegt in der Bono East Region", "Berühmt für das Munufie-Festival", "Dank an Ahnengeister für Ernte", "Widerstand gegen Ashanti-Reich im 19. Jh.", "Reiches landwirtschaftliches Erbe"]
+    },
+    {
+      "id": "oduponkpehe-cities-v2",
+      "descriptionAdvanced": "Ursprünglich unter dem Namen Kasoa Zongo bekannt, hat sich Oduponkpehe zu einer riesigen Wohnstadt für Pendler entwickelt, die in Accra arbeiten, aber der Enge der Hauptstadt entfliehen wollten. Die rasante, oft ungeplante Bebauung hat zu erheblichen infrastrukturellen Herausforderungen geführt, insbesondere bei der Abfallwirtschaft und der Entwässerung während der Regenzeit. Trotzdem blüht die lokale Wirtschaft durch unzählige kleine Handwerksbetriebe und informelle Straßenmärkte auf. Geografie K7 — Zersiedelung.",
+      "factsAdvanced": ["Früher als Kasoa Zongo bekannt", "Riesige Wohnstadt für Accra-Pendler", "Rasantes und oft ungeplantes Wachstum", "Infrastrukturelle Herausforderungen bei Entwässerung", "Blühende informelle Straßenmärkte", "Viele kleine Handwerksbetriebe"]
+    },
+    {
+      "id": "saltpond-cities-v2",
+      "descriptionAdvanced": "Saltpond ist eine historische Küstenstadt in der Central Region und gilt als Geburtsort der ersten politischen Partei Ghanas (UGCC) im Jahr 1947, was sie zu einem Meilenstein der Unabhängigkeitsbewegung macht. Wie der Name andeutet, war der Ort einst ein Zentrum der Salzgewinnung, doch heute basiert die Wirtschaft vor allem auf der Küstenfischerei. Etwas vor der Küste wurde auch die erste Offshore-Ölplattform Ghanas in Betrieb genommen, wenngleich mit geringer Fördermenge. Geschichte K8 — der Weg zur Unabhängigkeit.",
+      "factsAdvanced": ["Geburtsort der UGCC-Partei (1947)", "Meilenstein der ghanaischen Unabhängigkeitsbewegung", "Früher ein Zentrum der Salzgewinnung", "Wirtschaft basiert heute auf Küstenfischerei", "Standort der ersten Offshore-Ölplattform Ghanas", "Historische Küstenstadt in der Central Region"]
+    },
+    {
+      "id": "akwatia-cities-v2",
+      "descriptionAdvanced": "Akwatia, in der Eastern Region, ist das Herz der ghanaischen Diamantenindustrie. Die Stadt wurde in den 1920er Jahren um eine riesige Diamantenmine der Consolidated African Selection Trust herum erbaut. Mehr als ein halbes Jahrhundert lang lieferte die Mine Industrie-Diamanten in alle Welt, was der Stadt einen gewissen Wohlstand brachte. Heute ist die Mine weitgehend erschöpft, und die Bevölkerung wendet sich zunehmend dem illegalen Kleinstbergbau oder der Landwirtschaft zu. Wirtschaft K7 — Diamantenabbau.",
+      "factsAdvanced": ["Herz der ghanaischen Diamantenindustrie", "Mine 1920er Jahre erbaut (CAST)", "Mehr als 50 Jahre Industrie-Diamanten geliefert", "Heute sind Minen weitgehend erschöpft", "Zunehmender illegaler Kleinstbergbau", "Liegt in der Eastern Region"]
+    },
+    {
+      "id": "apam-cities-v2",
+      "descriptionAdvanced": "Das Fischerstädtchen Apam an der Küste der Central Region wird dominiert vom historischen Fort Patience, einer niederländischen Festung, die 1697 auf einem Hügel mit Blick auf den Hafen errichtet wurde. Die Wirtschaft ist stark vom saisonalen Fischfang abhängig, wobei der lokale Markt für geräucherten Fisch Händler aus dem gesamten Hinterland anlockt. Bedauerlicherweise kämpft die Stadt aufgrund ihrer niedrigen Lage zunehmend mit Küstenerosion durch den steigenden Meeresspiegel. Geografie K6 — Küstenerosion.",
+      "factsAdvanced": ["Standort von Fort Patience (erbaut 1697)", "Niederländische Festung auf einem Hügel", "Wirtschaft hängt vom Fischfang ab", "Lokaler Markt für geräucherten Fisch", "Zunehmende Bedrohung durch Küstenerosion", "Liegt in der Central Region"]
+    },
+    {
+      "id": "salaga-cities-v2",
+      "descriptionAdvanced": "In der Savannenregion gelegen, war Salaga im 18. und 19. Jahrhundert einer der größten Sklaven- und Kolanussmärkte in Westafrika, oft als Timbuktu des Südens bezeichnet. Karawanen aus dem fernen Sahelgebieten trafen hier auf Händler aus den Aschanti-Wäldern. Noch heute können Besucher die alten Sklavenmärkte und die von Baobabs gesäumten Brunnen besichtigen, die an diese dunkle Epoche erinnern. Geschichte K8 — der Transsaharahandel.",
+      "factsAdvanced": ["Ehemaliger Sklaven- und Kolanussmarkt", "Oft Timbuktu des Südens genannt", "Treffpunkt für Sahel- und Aschanti-Händler", "Alte Brunnen von Baobab-Bäumen gesäumt", "Historisch wichtig im 18. und 19. Jahrhundert", "Wichtige Station im Transsaharahandel"]
+    },
+    {
+      "id": "bibiani-cities-v2",
+      "descriptionAdvanced": "Umgeben von dichten Waldreservaten, ist Bibiani ein wichtiges Bergbauzentrum in der Western North Region. Gold- und Bauxitminen treiben die Wirtschaft der Stadt an, doch in jüngster Zeit spielt auch die Holzverarbeitung eine zentrale Rolle. Die Stadt hat oft mit den Umweltauswirkungen des Abbaus zu kämpfen, insbesondere mit der Verschmutzung der Flüsse, die das Leben in den umliegenden Dörfern beeinträchtigen. Umwelt K7 — Bergbaufolgen.",
+      "factsAdvanced": ["Bergbauzentrum in der Western North Region", "Gold- und Bauxitminen treiben Wirtschaft an", "Umgeben von dichten Waldreservaten", "Zunehmende Holzverarbeitung", "Starke Flussverschmutzung durch Bergbau", "Lokale Dörfer leiden unter Umweltauswirkungen"]
+    },
+    {
+      "id": "somanya-cities-v2",
+      "descriptionAdvanced": "Als Hauptort der Krobo-Volksgruppe in der Eastern Region, ist Somanya berühmt für seine farbenfrohen Glasperlen, die hier seit Generationen in traditionellen Brennöfen hergestellt werden. Das jährliche Ngmayem-Festival feiert den Anbau von Hirse und dient als großes Treffen der Krobo-Familien aus dem ganzen Land. Darüber hinaus beherbergt die Stadt den Campus der neuen University of Environment and Sustainable Development, was einen Wandel hin zur Akademisierung markiert. Kultur K6 — traditionelles Handwerk.",
+      "factsAdvanced": ["Hauptort der Krobo-Volksgruppe", "Berühmt für handgemachte Glasperlen", "Traditionelle Brennöfen für Perlenproduktion", "Jährliches Ngmayem-Festival (Hirseernte)", "Standort der University of Environment", "Zentrum für Bildung und Tradition"]
+    },
+    {
+      "id": "foso-cities-v2",
+      "descriptionAdvanced": "Oft Assin Foso genannt, ist die Stadt ein wichtiger Verkehrs- und Handelsknotenpunkt entlang der Hauptverkehrsstraße zwischen Cape Coast und Kumasi. Sie dient als wichtiges landwirtschaftliches Sammelzentrum, in dem lokale Bauern Kakao, Palmöl und Kochbananen verladen. Die örtliche Pädagogische Hochschule hat den Ruf der Stadt als Bildungszentrum im Hinterland der Central Region zementiert. Geografie K6 — Handel und Infrastruktur.",
+      "factsAdvanced": ["Bekannt als Assin Foso", "Handelsknotenpunkt zwischen Cape Coast und Kumasi", "Sammelzentrum für Kakao und Palmöl", "Heimat einer bekannten Pädagogischen Hochschule", "Wichtiger Verkehrsknotenpunkt", "Bildungszentrum der Central Region"]
+    },
+    {
+      "id": "wenchi-cities-v2",
+      "descriptionAdvanced": "Wenchi ist die historische Hauptstadt der Bono-Region und reich an kulturellem Erbe der Akan. Die Stadt ist landesweit bekannt als Geburtsort von Dr. Kofi Abrefa Busia, einem ehemaligen ghanaischen Premierminister. Wirtschaftlich stützt sich die Region stark auf die Landwirtschaft, wobei Wenchi für seinen hervorragenden Cashewanbau und den großen wöchentlichen Yams-Markt berühmt ist. Geschichte K7 — ghanaische Politiker.",
+      "factsAdvanced": ["Historische Hauptstadt der Bono-Region", "Geburtsort von Dr. Kofi Abrefa Busia", "Reiches kulturelles Erbe der Akan", "Zentrum für den Cashewanbau", "Großer wöchentlicher Yams-Markt", "Wirtschaft stützt sich auf Landwirtschaft"]
+    },
+    {
+      "id": "mumford-cities-v2",
+      "descriptionAdvanced": "Mumford ist eine traditionelle Fischergemeinde an der Küste der Central Region, bekannt für ihre riesige Flotte aus bunten Holzkanus. Die Bevölkerung, mehrheitlich vom Volk der Fante, ist für ihre tief verwurzelten maritimen Traditionen und handwerklichen Fähigkeiten im Bootsbau bekannt. Leider leidet die Gemeinde unter der zunehmenden Überfischung durch ausländische Trawler, was das traditionelle Einkommen der Fischer massiv bedroht. Umwelt K8 — Überfischung der Ozeane.",
+      "factsAdvanced": ["Traditionelle Fischergemeinde (Central Region)", "Riesige Flotte bunter Holzkanus", "Bevölkerung gehört mehrheitlich zum Fante-Volk", "Bekannt für traditionellen Bootsbau", "Leidet unter ausländischer Überfischung", "Maritimes Einkommen massiv bedroht"]
+    },
+    {
+      "id": "duayaw-nkwanta-cities-v2",
+      "descriptionAdvanced": "Duayaw Nkwanta, in der Ahafo Region gelegen, ist ein geschäftiges landwirtschaftliches Zentrum am Rande des tropischen Regenwaldes. Die Stadt profitiert von fruchtbaren Lehmböden, auf denen Kakaobohnen und Tomaten in großen Mengen für den nationalen Markt angebaut werden. Als Residenz eines einflussreichen traditionellen Königs bewahrt die Gemeinde strenge Akan-Rituale, die in regelmäßigen Abständen während des Jahres gefeiert werden. Kultur K6 — Agrargesellschaften.",
+      "factsAdvanced": ["Liegt in der Ahafo Region am Regenwald", "Fruchtbare Lehmböden begünstigen Anbau", "Große Produktion von Kakao und Tomaten", "Residenz eines traditionellen Königs", "Bewahrt strenge Akan-Rituale", "Wichtiges landwirtschaftliches Zentrum"]
+    },
+    {
+      "id": "bekwai-cities-v2",
+      "descriptionAdvanced": "Bekwai ist eine der historisch einflussreichsten Städte des alten Ashanti-Reiches und liegt etwa eine Autostunde südlich von Kumasi. Zu Beginn des 20. Jahrhunderts spielte die Stadt eine Schlüsselrolle, da sie sich während des Yaa-Asantewaa-Krieges mit den Briten verbündete, um lokale Vorteile zu erlangen. Heute dominiert die Kakaowirtschaft das Leben in den umliegenden Dörfern, während Bekwai selbst als wichtiger Verwaltungssitz fungiert. Geschichte K8 — koloniale Allianzen.",
+      "factsAdvanced": ["Historisch einflussreich im Ashanti-Reich", "Liegt südlich von Kumasi", "Verbündete sich im Yaa-Asantewaa-Krieg mit Briten", "Kakaowirtschaft dominiert die Region", "Wichtiger Verwaltungssitz", "Schlüsselrolle im frühen 20. Jahrhundert"]
+    },
+    {
+      "id": "bechem-cities-v2",
+      "descriptionAdvanced": "Bechem, ebenfalls in der Ahafo Region, ist ein florierendes Bildungszentrum, in dem das angesehene St. Josephs College of Education viele der besten Lehrer des Landes ausbildet. Neben der Bildung ist die Wirtschaft stark von der Landwirtschaft geprägt, wobei die Region oft als eine der Brotkörbe des Landes gilt. Der Anbau von Cashewnüssen hat in den letzten Jahren rasant zugenommen und bietet den Bauern eine lukrative Alternative zum Kakao. Wirtschaft K7 — Cash Crops.",
+      "factsAdvanced": ["Florierendes Bildungszentrum in der Ahafo Region", "Sitz des St. Josephs College of Education", "Wichtige Agrarregion (Brotkorb des Landes)", "Rasant wachsender Cashewanbau", "Lukrative Alternative zur Kakaoproduktion", "Ausbildung für ghanaische Lehrkräfte"]
+    },
+    {
+      "id": "denu-cities-v2",
+      "descriptionAdvanced": "Denu ist eine geschäftige Küstenstadt in der Volta-Region, die nahezu mit der Grenzstadt Aflao verschmolzen ist. Die Lage an der Hauptroute nach Togo und Nigeria macht Denu zu einem Knotenpunkt für grenzüberschreitenden Handel und Transport. Die Stadt zeichnet sich auch durch ihre ausgedehnten Kokosnussplantagen entlang der Sandstrände aus, aus denen Kopra für die Ölgewinnung produziert wird. Geografie K6 — Küstenwirtschaft.",
+      "factsAdvanced": ["Nahezu mit der Grenzstadt Aflao verschmolzen", "Knotenpunkt nach Togo und Nigeria", "Ausgedehnte Kokosnussplantagen", "Produktion von Kopra für Ölgewinnung", "Wichtiger Ort für grenzüberschreitenden Handel", "Küstenstadt in der Volta-Region"]
+    },
+    {
+      "id": "anloga-cities-v2",
+      "descriptionAdvanced": "Anloga ist das kulturelle und spirituelle Herz des Anlo-Ewe-Volkes in der Volta-Region, wunderschön gelegen auf einem schmalen Sandstreifen zwischen der Keta-Lagune und dem Ozean. Jedes Jahr im November feiert die Stadt das berühmte Hogbetsotso-Festival, das an die legendäre Flucht der Ewe aus dem Königreich Notsie erinnert. Die Bauern in Anloga sind Meister der Schalottenzucht und nutzen hochentwickelte, intensive Anbaumethoden auf dem sandigen Boden rund um die Lagune. Kultur K7 — Ewe-Migration.",
+      "factsAdvanced": ["Spirituelles Herz des Anlo-Ewe-Volkes", "Liegt zwischen Keta-Lagune und Ozean", "Jährliches Hogbetsotso-Festival im November", "Erinnerung an Flucht aus dem Königreich Notsie", "Bauern sind Meister der Schalottenzucht", "Intensive Anbaumethoden auf sandigem Boden"]
+    }
+  ]
+}

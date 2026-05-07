@@ -1,0 +1,362 @@
+{
+  "lang": "hu",
+  "country": "mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monterrey-cities-v2",
+      "descriptionAdvanced": "Monterrey, Új-León állam fővárosa, Mexikó egyik legfontosabb ipari és gazdasági központja, amelyet gyakran az ország 'Iparvárosaként' emlegetnek. A város lenyűgöző természeti környezetben, a Keleti-Sierra Madre hegység lábánál fekszik, leghíresebb jelképe a Cerro de la Silla hegycsúcs. Monterrey modern metropolisz, ahol a felhőkarcolók és a fejlett technológiai parkok jól megférnek a történelmi Barrio Antiguo negyeddel. A város híres gasztronómiájáról, különösen a sült kecskehúsról (cabrito), valamint pezsgő kulturális életéről. Monterrey a felsőoktatás fellegvára is, itt található Latin-Amerika egyik legrangosabb egyeteme, a Tec de Monterrey. Földrajz K7 — városi fejlődés és ipari központok.",
+      "factsAdvanced": [
+        "Monterrey Mexikó harmadik legnagyobb metropolisza.",
+        "A Cerro de la Silla hegy nevét nyereg alakjáról kapta.",
+        "A Macroplaza a világ egyik legnagyobb városi tere.",
+        "A város ad otthont a híres Tec de Monterrey egyetemnek.",
+        "Híres hagyományos étele a 'cabrito', azaz a sült kecske.",
+        "A Santa Lucía folyóparti sétány mesterséges csatorna mentén fut.",
+        "Itt található Latin-Amerika egyik legmagasabb épülete, a Torre Obispado.",
+        "A várost 1596-ban alapította Diego de Montemayor."
+      ]
+    },
+    {
+      "id": "puebla-cities-v2",
+      "descriptionAdvanced": "Puebla de Zaragoza Mexikó egyik legrégebbi és legszebb gyarmati városa, amely az UNESCO Világörökség része. A várost 1531-ben alapították a spanyol hódítók, és híres gazdag építészeti örökségéről, különösen a színes Talavera kerámiával díszített épületeiről. Puebla fekvése drámai, hiszen közel található a Popocatépetl és az Iztaccíhuatl vulkánokhoz. A város a mexikói konyhaművészet egyik bölcsője, innen származik a híres mole poblano és a chiles en nogada. A történelemben is kiemelt szerepet játszott, hiszen itt vívták a híres pueblai csatát 1862. május 5-én a francia seregek ellen. Földrajz K7 — gyarmati építészet és vulkáni környezet.",
+      "factsAdvanced": [
+        "Puebla történelmi központja az UNESCO Világörökség része.",
+        "Híres a Talavera kerámiáról, amely egyedülálló kézműves termék.",
+        "Itt épült fel Amerika első nyilvános könyvtára, a Biblioteca Palafoxiana.",
+        "A várost a 'Szentek Városának' is nevezik a sok templom miatt.",
+        "A pueblai katedrális tornyai a legmagasabbak Mexikóban.",
+        "A város közelében található a világ legnagyobb alapzatú piramisa, Cholula.",
+        "Innen származik a híres mexikói mártás, a mole poblano.",
+        "Minden évben itt ünneplik a Cinco de Mayo győzelmét."
+      ]
+    },
+    {
+      "id": "tijuana-cities-v2",
+      "descriptionAdvanced": "Tijuana Mexikó legészaknyugatibb városa, közvetlenül az amerikai határ mellett fekszik, és a világ egyik leglátogatottabb határvárosaként ismert. A város az utóbbi évtizedekben jelentős kulturális és gazdasági átalakuláson ment keresztül, ma már nemcsak a kereskedelemről, hanem pezsgő művészeti életéről és gasztronómiájáról is híres. Itt született meg a 'Baja Med' konyha, amely a mexikói és a mediterrán ízeket ötvözi. Tijuana fontos ipari központ is, különösen az elektronikai és orvostechnikai eszközök gyártásában. A város határánál található a San Ysidro bejárat, amely a legforgalmasabb szárazföldi határátkelő a nyugati féltekén. Földrajz K8 — határmenti gazdaság and kulturális hibriditás.",
+      "factsAdvanced": [
+        "Tijuana a világ leglátogatottabb határvárosa.",
+        "A várost gyakran 'Mexikó kapujának' nevezik.",
+        "Itt találták fel a híres Caesar-salátát a 1920-as években.",
+        "A város ad otthont a monumentális Tijuana Kulturális Központnak (CECUT).",
+        "Fontos központja a kézműves sörgyártásnak Mexikóban.",
+        "A San Ysidro határátkelőn naponta több mint 300 000 ember kel át.",
+        "Az Avenida Revolución a város leghíresebb turistaútvonala.",
+        "A város mottója: 'Itt kezdődik a haza'."
+      ]
+    },
+    {
+      "id": "ciudad-juarez-cities-v2",
+      "descriptionAdvanced": "Ciudad Juárez egy dinamikus iparváros Chihuahua államban, közvetlenül a Rio Grande folyó mentén, szemben az amerikai El Paso városával. Mexikó egyik legfontosabb gazdasági kapuja, amely a 'maquiladora' (összeszerelő üzem) iparágra épült, és számos multinacionális vállalatnak ad otthont. A város története szorosan összefügg a határmenti kereskedelemmel és a mexikói forradalommal, amelynek egyik fontos színhelye volt. Ciudad Juárez jelentős közlekedési csomópont, ahol az észak-déli kereskedelmi útvonalak találkoznak. Bár a város korábban biztonsági kihívásokkal küzdött, az utóbbi években jelentős fejlesztések történtek a közterek és a kulturális élet fellendítésére. Földrajz K8 — ipari övezetek és nemzetközi kereskedelem.",
+      "factsAdvanced": [
+        "A várost eredetileg El Paso del Norte néven alapították 1659-ben.",
+        "Benito Juárez elnökről nevezték el 1888-ben.",
+        "Mexikó egyik legfontosabb ipari központja és exportkapuja.",
+        "A városban található a Chamizal Park, egy korábbi határvita helyszíne.",
+        "Fontos szerepet játszott a mexikói forradalom idején.",
+        "A Rio Grande (Río Bravo) alkotja a természetes határt az USA felé.",
+        "Itt található a Monumento a la Mexicanidad, egy hatalmas piros 'X' alakú szobor.",
+        "A város repülőtere fontos logisztikai központ Észak-Mexikóban."
+      ]
+    },
+    {
+      "id": "leon-cities-v2",
+      "descriptionAdvanced": "León de los Aldama, röviden csak León, Guanajuato állam legnagyobb városa, amelyet a világ egyik cipőgyártó fővárosaként ismernek. A város gazdasága évszázadok óta a bőr- és cipőiparra épül, termékeit világszerte exportálják. León modern város, széles sugárutakkal és fejlett infrastruktúrával, ugyanakkor megőrizte történelmi központját is, ahol a lenyűgöző neogótikus stílusú Expiatorio templom található. Minden évben itt rendezik meg a Nemzetközi Hőlégballon Fesztivált, amely az egyik legnagyobb ilyen esemény Latin-Amerikában. A város lakói büszkék vallási hagyományaikra és a helyi labdarúgócsapatra is. Földrajz K7 — könnyűipar és városi specializáció.",
+      "factsAdvanced": [
+        "Leónt a világ 'Cipőfővárosaként' emlegetik.",
+        "A városban rendezik meg minden novemberben a Nemzetközi Hőlégballon Fesztivált.",
+        "Itt található a gyönyörű neogótikus Templo Expiatorio de la Sagrada Familia.",
+        "A Diadalív (Arco de la Calzada) a város egyik fő jelképe.",
+        "A várost 1576-ban alapították spanyol telepesek.",
+        "León Mexikó egyik legfontosabb kereskedelmi központja.",
+        "A városban fejlett integrált tömegközlekedési rendszer működik (Optibús).",
+        "Híres helyi itala a 'cebadina', egy gyümölcsös, szénsavas ital."
+      ]
+    },
+    {
+      "id": "zapopan-cities-v2",
+      "descriptionAdvanced": "Zapopan a guadalajarai agglomeráció része Jalisco államban, és Mexikó egyik leggazdagabb és legfejlettebb települése. A város híres kettősségéről: egyszerre vallási központ és modern gazdasági metropolisz. Itt található a Zapopani Szűzanya-bazilika, amely fontos zarándokhely, és minden év október 12-én milliókat vonz a híres körmenet (Romería) alkalmával. Ezzel szemben a város északi része, mint például Puerta de Hierro, ultramodern felhőkarcolóknak, luxus bevásárlóközpontoknak és technológiai cégeknek ad otthont. Zapopan jelentős kulturális központ is, itt található a Guadalajara-i Egyetem kulturális negyede. Földrajz K7 — urbanizáció és vallási turizmus.",
+      "factsAdvanced": [
+        "Zapopan a guadalajarai metropolisz övezet második legnépesebb városa.",
+        "A Zapopani Bazilika a város legfontosabb történelmi emléke.",
+        "A Romería de Zapopan az UNESCO szellemi kulturális örökségének része.",
+        "Itt található Mexikó egyik legmodernebb üzleti negyede, a Puerta de Hierro.",
+        "A város neve nahuatl eredetű, jelentése 'szapotifa-fák helye'.",
+        "Zapopan fontos oktatási központ számos egyetemmel.",
+        "Itt található a Telmex Auditorium, az ország egyik legfontosabb koncerthelyszíne.",
+        "A várost 1541-ben alapították, közvetlenül a spanyol hódítás után."
+      ]
+    },
+    {
+      "id": "nezahualcoyotl-cities-v2",
+      "descriptionAdvanced": "Ciudad Nezahualcóyotl, vagy ahogy a helyiek hívják, 'Ciudad Neza', a Mexikóvárosi agglomeráció egyik legnépesebb városa Mexikó államban. A város története a 20. század közepén kezdődött, amikor a kiszáradt Texcoco-tó medrében gyors és szabálytalan betelepülés vette kezdetét. Kezdetben infrastruktúra nélküli terület volt, de a lakók kitartó munkájának köszönhetően mára teljesen kiépült, élénk kereskedelmi és kulturális élettel rendelkező várossá vált. Neza a nevét a híres azték uralkodóról és költőről kapta, akinek szobra a város főterén áll. A város az önellátás és a közösségi fejlődés szimbólumává vált Mexikóban. Földrajz K8 — szuburbanizáció és társadalmi fejlődés.",
+      "factsAdvanced": [
+        "A várost 1963-ben alapították hivatalosan.",
+        "Nevét Nezahualcóyotl-ról, Texcoco költő-királyáról kapta.",
+        "A Texcoco-tó egykori sós medrére épült.",
+        "Mexikó egyik legsűrűbben lakott települése.",
+        "Híres az élénk utcai művészetéről és falfestményeiről.",
+        "A város híres szülötte a rockzene és a képzőművészet számos alakja.",
+        "Itt található a 'Cabeza de Coyote' nevű monumentális szobor.",
+        "Neza mára fontos kereskedelmi csomóponttá vált a fővárostól keletre."
+      ]
+    },
+    {
+      "id": "merida-cities-v2",
+      "descriptionAdvanced": "Mérida, Yucatán állam fővárosa, a maja kultúra és a spanyol gyarmati örökség lenyűgöző találkozási pontja. A várost 1542-ben alapították a maja T'hó város romjain, és 'Fehér Városként' is ismerik, részben a fehér mészkő épületei, részben a tisztasága miatt. Mérida híres elegáns sugárútjáról, a Paseo de Montejóról, amelyet európai mintára terveztek a 19. századi henequen-boom (agávérost-termelés) idején. A város a régió kulturális központja, ahol a gasztronómia, a zene és a hagyományos viseletek mind a maja-spanyol keveredést tükrözik. Mérida rendszeresen elnyeri Mexikó legbiztonságosabb és legjobb életminőségű városa címet. Földrajz K7 — kulturális örökség és trópusi urbanizáció.",
+      "factsAdvanced": [
+        "Méridát a maja T'hó város romjaira építették a spanyolok.",
+        "Gyakran nevezik 'La Ciudad Blanca'-nak (A Fehér Város).",
+        "A Paseo de Montejo sugárutat a párizsi Champs-Élysées ihlette.",
+        "A városban található Amerika egyik legrégebbi katedrálisa.",
+        "Híres a maja hatású gasztronómiájáról, mint a 'cochinita pibil'.",
+        "A környéken számos 'cenote' (természetes víznyelő) található.",
+        "Mérida a henequen-ipar központja volt a 19. században.",
+        "Minden vasárnap autómentes napot tartanak a belvárosban (BiciRuta)."
+      ]
+    },
+    {
+      "id": "cancun-cities-v2",
+      "descriptionAdvanced": "Cancún a világ egyik legismertebb turisztikai célpontja, Quintana Roo államban, a Yucatán-félsziget északkeleti csücskén található. A város története rendkívüli, hiszen az 1970-es évek elejéig csak egy elhagyatott halászfalu és dzsungel volt itt, mielőtt a mexikói kormány tervezett luxusüdülőhellyé fejlesztette. Cancún két fő részből áll: a szárazföldi belvárosból és a Karib-tengerbe nyúló, 'L' alakú szállodasorból. Fehér homokos strandjai, türkizkék vize és a közeli maja romok (mint El Rey) évente több millió látogatót vonzanak. A város kapuja a Riviera Maya régiónak is, amely gazdag természeti és történelmi látnivalókban. Földrajz K7 — turizmus és part menti fejlesztés.",
+      "factsAdvanced": [
+        "Cancún neve maja nyelven 'kígyófészket' jelent.",
+        "Az 1970-es évekig csak három ember lakott a területen.",
+        "A szállodasor (Zona Hotelera) egy 22 km hosszú homokpadon fekszik.",
+        "Itt található a világ második legnagyobb korallzátonyának egy része.",
+        "A város repülőtere a második legforgalmasabb Mexikóban.",
+        "A tengerpart homoka koralleredetű, ezért sosem forrósodik fel.",
+        "Cancún közelében található az Isla Mujeres, a nők szigete.",
+        "A város fontos helyszíne a nemzetközi környezetvédelmi konferenciáknak."
+      ]
+    },
+    {
+      "id": "queretaro-city-cities-v2",
+      "descriptionAdvanced": "Santiago de Querétaro Mexikó egyik leggyorsabban fejlődő és legmagasabb életminőséget kínáló városa, Querétaro állam központja. A város történelmi belvárosa az UNESCO Világörökség része, híres kiváló állapotban fennmaradt gyarmati épületeiről, tereiről és monumentális kő akvaduktjáról, amely a 18. században épült. Querétaro kulcsszerepet játszott a mexikói függetlenségi mozgalomban és az 1917-es alkotmány megalkotásában is. Ma a város a mexikói repülőgépgyártás és autóipar egyik legfontosabb központja, ahol a modern technológia és a történelem harmonikusan találkozik. Földrajz K7 — történelmi örökség és modern iparosodás.",
+      "factsAdvanced": [
+        "Querétaro történelmi központja 1996 óta UNESCO Világörökség.",
+        "A 74 íves akvadukt a város egyik legfőbb építészeti szimbóluma.",
+        "Itt írták alá a jelenlegi mexikói alkotmányt 1917-ben.",
+        "A város neve nahuatl nyelven 'a labdajáték helyét' jelenti.",
+        "Itt végezték ki I. Miksa mexikói császárt 1867-ben.",
+        "Querétaro Mexikó egyik legfontosabb bortermelő vidékének kapuja.",
+        "A városban található Mexikó egyik legfontosabb repülőgépgyártó klasztere.",
+        "A főtéren áll a La Corregidora, a függetlenségi harc hősnőjének szobra."
+      ]
+    },
+    {
+      "id": "aguascalientes-cities-v2",
+      "descriptionAdvanced": "Aguascalientes az azonos nevű állam fővárosa Mexikó szívében, amely nevét a területén található bőséges termálvizekről kapta. A város híres tisztaságáról, rendezett parkjairól és a minden évben megrendezett Feria Nacional de San Marcos-ról, amely Mexikó legnagyobb és legrégebbi népi fesztiválja. Aguascalientes fontos ipari központ, különösen az autógyártás (Nissan üzemek) és a vasúti közlekedés terén játszik kiemelt szerepet. A város építészete a gyarmati stílus és a modern megoldások keveréke, legismertebb látnivalója a Kormányzati Palota gyönyörű falfestményeivel. Földrajz K7 — természeti erőforrások és ipari fejlődés.",
+      "factsAdvanced": [
+        "A város neve 'forró vizeket' jelent a spanyol nyelvben.",
+        "Itt rendezik meg Mexikó legnagyobb vásárát, a San Marcos-fesztivált.",
+        "A város Mexikó egyik legfontosabb autógyártó központja.",
+        "Itt található a Halál Nemzeti Múzeuma (Museo Nacional de la Muerte).",
+        "A város vasúti története a 19. századig nyúlik vissza.",
+        "A történelmi központban található a gyönyörű barokk Katedrális.",
+        "Aguascalientes híres finom kézműves hímzéseiről és textiláruiról.",
+        "Itt született a híres grafikus, José Guadalupe Posada, a La Catrina alkotója."
+      ]
+    },
+    {
+      "id": "chihuahua-city-cities-v2",
+      "descriptionAdvanced": "Chihuahua város az azonos nevű, legnagyobb mexikói állam székhelye, amely az ország északi részén, a Chihuahua-sivatag szélén fekszik. A város gazdag történelmi múlttal rendelkezik: itt raboskodott és végezték ki Miguel Hidalgót, a függetlenségi háború atyját, és később a mexikói forradalom egyik legfontosabb központja volt Pancho Villa vezetésével. Chihuahua ma modern ipari város, ahol a bányászat és a gyártóipar mellett a kereskedelem is virágzik. Innen indul a híres 'Chepe' vasút, amely átvág a Réz-kanyonon a Csendes-óceán felé. Földrajz K8 — sivatagi gazdálkodás és forradalmi történelem.",
+      "factsAdvanced": [
+        "Chihuahua Mexikó legnagyobb területű államának fővárosa.",
+        "A város katedrálisa a mexikói barokk építészet remekműve.",
+        "Itt található Pancho Villa egykori háza, amely ma múzeum.",
+        "A várost 1709-ben alapították San Francisco de Cuéllar néven.",
+        "A közeli Réz-kanyon (Barranca del Cobre) nagyobb, mint az amerikai Grand Canyon.",
+        "A város gazdasága jelentős részben a bányászatra épül.",
+        "Itt található a gyönyörű Quinta Gameros szecessziós épülete.",
+        "A város nevéről nevezték el a világ legkisebb kutyafajtáját."
+      ]
+    },
+    {
+      "id": "hermosillo-cities-v2",
+      "descriptionAdvanced": "Hermosillo, Sonora állam fővárosa, Mexikó északnyugati részén található, a Sonora-sivatag szívében. A várost gyakran 'A Nap Városaként' (La Ciudad del Sol) emlegetik forró éghajlata és napsütéses napjainak száma miatt. Hermosillo fontos mezőgazdasági és ipari központ, ahol a fejlett öntözőrendszereknek köszönhetően jelentős a szőlő- és zöldségtermesztés, valamint itt található egy nagy Ford autógyár is. A város közel van a Kaliforniai-öbölhöz, így kaput nyit a tengerparti turizmus felé is. Gasztronómiájában a kiváló minőségű marhahús játssza a főszerepet. Földrajz K8 — arid éghajlati övezetek és modern mezőgazdaság.",
+      "factsAdvanced": [
+        "Hermosillo Sonora állam politikai és gazdasági központja.",
+        "A város nyári hőmérséklete gyakran meghaladja a 45 Celsius-fokot.",
+        "Híres a 'carne asada' (grillezett marhahús) elkészítéséről.",
+        "Itt található Mexikó egyik legfontosabb Ford autógyára.",
+        "A Cerro de la Campana hegyről nyílik a legjobb kilátás a városra.",
+        "A város katedrálisa a Plaza Zaragoza téren áll.",
+        "Hermosillo fontos állomása az USA felé irányuló kereskedelemnek.",
+        "A közeli Bahía de Kino népszerű tengerparti üdülőhely."
+      ]
+    },
+    {
+      "id": "saltillo-cities-v2",
+      "descriptionAdvanced": "Saltillo, Coahuila állam fővárosa, egy magasan fekvő város Észak-Mexikóban, amely hűvösebb éghajlatáról és gazdag kulturális hagyományairól ismert. A várost gyakran 'Észak Athénjának' nevezik számos oktatási intézménye és múzeuma miatt. Saltillo híres a 'serape' nevű színes szövött takaróiról, amelyek a mexikói identitás egyik jelképévé váltak. Gazdaságilag a város az 'autóipari völgy' része, ahol jelentős járműgyártó kapacitás (pl. Chrysler, GM) összpontosul. A város katedrálisa, a Santiago Apóstol, a gyarmati barokk építészet egyik legszebb példája az ország északi részén. Földrajz K7 — hegyvidéki urbanizáció és kézműves hagyományok.",
+      "factsAdvanced": [
+        "Saltillo Mexikó 'Serape-fővárosa', a híres színes takarók hazája.",
+        "A várost 1577-ben alapították, Észak-Mexikó egyik legrégebbi települése.",
+        "Gyakran nevezik az 'Észak Athénjának' kulturális élete miatt.",
+        "Itt található a sivatagi élővilágot bemutató Museo del Desierto.",
+        "A város fontos autógyártó központ, több világmárka gyárával.",
+        "Saltillo katedrálisa lenyűgöző churriguereszk stílusú homlokzattal bír.",
+        "A város híres a finom helyi édességeiről (dulce de leche).",
+        "Saltillo volt Texas fővárosa is a mexikói fennhatóság idején."
+      ]
+    },
+    {
+      "id": "culiacan-cities-v2",
+      "descriptionAdvanced": "Culiacán Rosales, Sinaloa állam fővárosa és legnagyobb városa, két folyó, a Humaya és a Tamazula találkozásánál fekszik. A város Mexikó egyik legfontosabb mezőgazdasági központja, a környező völgyeket gyakran az ország 'éléskamrájaként' emlegetik a jelentős zöldség- és gabonatermesztés miatt. Culiacán modern város, pezsgő kereskedelmi élettel és gazdag gasztronómiával, különösen a tenger gyümölcsei terén. A város híres botanikus kertjéről és a modern katedrálisáról is. Bár a médiában gyakran negatív összefüggésben szerepel, a helyiek büszkék vendégszeretetükre és a város folyamatos gazdasági fejlődésére. Földrajz K8 — folyóvölgyi gazdálkodás és élelmiszeripar.",
+      "factsAdvanced": [
+        "Culiacán a nahuatl 'hely, ahol a folyók találkoznak' szóból ered.",
+        "Mexikó egyik vezető zöldségexportőre az USA felé.",
+        "Botanikus kertje világszinten is kiemelkedő gyűjteménnyel rendelkezik.",
+        "A város felett magasodik a Szűzanya-kegyeleti templom (La Lomita).",
+        "A környéken található a több mint 1000 éves petroglifák lelőhelye.",
+        "Culiacán híres a 'chilorio' nevű fűszeres sertéshús ételéről.",
+        "Itt található Sinaloa Tudományos Központja a híres meteoritjával.",
+        "A várost 1531-ben alapította Nuño de Guzmán spanyol hódító."
+      ]
+    },
+    {
+      "id": "acapulco-cities-v2",
+      "descriptionAdvanced": "Acapulco de Juárez Mexikó egyik legrégebbi és legikonikusabb tengerparti üdülőhelye Guerrero államban, a Csendes-óceán partján. A város egy hatalmas, félkör alakú öbölben fekszik, amely már a gyarmati időkben is fontos kikötő volt a Fülöp-szigetekkel folytatott kereskedelemben (Manila-galleonok). Acapulco az 1950-es években vált a hollywoodi sztárok kedvencévé, és bár azóta újabb üdülőhelyek is megjelentek, varázsa ma is töretlen. Legismerteba látványossága a La Quebrada szikláiról fejest ugró férfiak látványa. A város ma is fontos turisztikai és kulturális központ, bár az utóbbi időben jelentős erőfeszítéseket tesznek a közbiztonság javítására. Földrajz K7 — tengerparti turizmus és történelmi kikötők.",
+      "factsAdvanced": [
+        "Acapulco öble a világ egyik legszebb természetes kikötője.",
+        "A La Quebrada sziklaugrói több mint 35 méter magasból vetik magukat a vízbe.",
+        "A gyarmati időkben itt kötöttek ki a kincsekkel teli Manila-galleonok.",
+        "A San Diego-erőd ma a város történelmi múzeumának ad otthont.",
+        "Acapulco volt Mexikó első nemzetközi hírű turisztikai desztinációja.",
+        "A város híres pezsgő éjszakai életéről és luxusszállodáiról.",
+        "A környező vizek kiválóak sporthorgászatra.",
+        "A város nevéről kapta a nevét egy híres típusú kerti szék is."
+      ]
+    },
+    {
+      "id": "tlalnepantla-de-baz-cities-v2",
+      "descriptionAdvanced": "Tlalnepantla de Baz a Mexikóvárosi agglomeráció egyik legfontosabb ipari és kereskedelmi csomópontja Mexikó államban. A város neve nahuatl nyelven 'középső földet' jelent, ami földrajzi elhelyezkedésére utal a fővárostól északra. Tlalnepantla különlegessége, hogy területén jelentős régészeti lelőhelyek találhatók, mint a Tenayuca és Santa Cecilia Acatitlán piramisok, amelyek a csicsimék és azték kultúra emlékei. Ma a város modern ipari központ, ahol több száz gyár és logisztikai bázis található, miközben modern bevásárlóközpontjai a régió kereskedelmi életét is meghatározzák. Földrajz K8 — ipari övezetek és elővárosi fejlődés.",
+      "factsAdvanced": [
+        "Tlalnepantla Mexikó egyik legfontosabb ipari termelési központja.",
+        "Itt található the Tenayuca piramis, az azték építészet egyik előfutára.",
+        "A város neve 'középső földet' jelent nahuatl nyelven.",
+        "A gyarmati időkből származik a Corpus Christi székesegyház.",
+        "A várost 1978-ban nevezték el Gustavo Baz orvos és politikus után.",
+        "Fontos vasúti és közúti csomópont Észak-Mexikóváros határán.",
+        "Területén több mint 2000 ipari létesítmény működik.",
+        "A városban modern technológiai parkok és üzleti negyedek épültek."
+      ]
+    },
+    {
+      "id": "chimalhuacan-cities-v2",
+      "descriptionAdvanced": "Chimalhuacán Mexikó állam egyik leggyorsabban növekvő települése a fővárosi agglomeráció keleti szélén. A város ősi történelmi gyökerekkel rendelkezik, már az azték időkben is lakott volt, nevét a harcosok pajzsáról kapta. Chimalhuacán híres hagyományos kőfaragó művészetéről, amely nemzedékről nemzedékre öröklődik a helyi családokban. Bár korábban súlyos infrastrukturális hiányosságokkal küzdött, az elmúlt két évtizedben jelentős fejlődésen ment keresztül, új utak, parkok és kulturális létesítmények épültek. A város jelképe a 'Guerrero Chimalli' monumentális szobor, amely a város bejáratánál áll. Földrajz K8 — urbanizációs kihívások and kulturális identitás.",
+      "factsAdvanced": [
+        "Chimalhuacán neve nahuatl nyelven 'pajzsosok helyét' jelenti.",
+        "Híres a hagyományos kőfaragó mestereiről és szobrairól.",
+        "A Guerrero Chimalli szobor magasabb, mint a New York-i Szabadság-szobor.",
+        "A várost 1259-ben alapították, így Mexikó egyik legrégebbi települése.",
+        "Itt található az 'El Chimalhuache' nevű rekreációs és kulturális park.",
+        "A város híres színes karneváljáról és néptánccsoportjairól.",
+        "Területe a Texcoco-tó egykori partján fekszik.",
+        "A lakosság nagy része a környező ipari övezetekben dolgozik."
+      ]
+    },
+    {
+      "id": "reynosa-cities-v2",
+      "descriptionAdvanced": "Reynosa Tamaulipas állam legnépesebb városa, közvetlenül az amerikai határ (Texas) mentén, a Rio Grande folyó partján. A város Mexikó egyik legfontosabb energiagazdálkodási és ipari központja, ahol a földgázkitermelés és a maquiladora iparág dominál. Reynosa stratégiai elhelyezkedése miatt kulcsszerepet játszik az USA és Mexikó közötti kereskedelemben, több nemzetközi híd köti össze a szomszédos McAllen városával. A város pezsgő gazdasági élete mellett gazdag zenei hagyományokkal is rendelkezik, különösen az északi (norteño) stílusban. Bár a határmenti biztonság kihívást jelent, a város folyamatosan fejlődik és vonzza a befektetéseket. Földrajz K8 — energiaipar és határmenti logisztika.",
+      "factsAdvanced": [
+        "Reynosa a Rio Grande (Río Bravo) déli partján fekszik.",
+        "A város Mexikó egyik legnagyobb földgázkitermelő központja.",
+        "Több mint 150 maquiladora üzem működik a városban.",
+        "A várost 1749-ben alapították a spanyol hódítók.",
+        "A nemzetközi hidak naponta hatalmas teherforgalmat bonyolítanak le.",
+        "A város katedrálisa a Plaza Principal központjában található.",
+        "Híres a 'norteño' zenéről és a határmenti kultúráról.",
+        "Reynosa repülőtere fontos regionális összeköttetést biztosít."
+      ]
+    },
+    {
+      "id": "torreon-cities-v2",
+      "descriptionAdvanced": "Torreón Coahuila állam egyik legjelentősebb városa, a Comarca Lagunera régió központja. A város viszonylag fiatal, csak a 19. század végén kezdett fejlődni a vasút megérkezésével és a gyapottermesztés fellendülésével. Ma Torreón modern ipari és kereskedelmi központ, ahol a kohászat (itt található a világ egyik legnagyobb ólomöntödéje), az autóipar és a tejtermelés (Lala csoport) játssza a főszerepet. A város jelképe a Cristo de las Noas szobor, amely egy hegytetőn állva tekint le a városra. Torreón híres sportéletéről és modern infrastruktúrájáról is. Földrajz K7 — vasúti csomópontok és modern iparosodás.",
+      "factsAdvanced": [
+        "Torreón Mexikó egyik legfiatalabb nagyvárosa, 1907-ben lett város.",
+        "Nevét egy őrtoronyról (torreón) kapta, amely egykor itt állt.",
+        "Itt található a világ egyik legnagyobb ezüst- és ólomfinomítója.",
+        "A Cristo de las Noas szobor Latin-Amerika harmadik legnagyobb Krisztus-szobra.",
+        "A város a mexikói gyapottermesztés történelmi központja.",
+        "Itt alapították a Lala tejipari óriásvállalatot.",
+        "A városban egyedülálló földalatti csatornarendszer működik (Canal de la Perla).",
+        "Híres modern stadionjáról, a Territorio Santos Modelo-ról."
+      ]
+    },
+    {
+      "id": "morelia-cities-v2",
+      "descriptionAdvanced": "Morelia, Michoacán állam fővárosa, Mexikó egyik legszebb barokk városa, amelynek történelmi központja az UNESCO Világörökség része. A várost 1541-ben alapították Valladolid néven, majd később a függetlenségi hős, José María Morelos tiszteletére nevezték át. Morelia híres egységes építészeti képéről, épületeit a helyi rózsaszín kőből emelték, ami különleges hangulatot áraszt, különösen naplementekor. A monumentális katedrális, a gyönyörű akvadukt és a számos egyetem Moreliát az ország egyik legfontosabb kulturális és oktatási központjává teszi. Minden évben itt rendezik meg a nemzetközi hírű Moreliai Filmfesztivált. Földrajz K7 — gyarmati építészet és kulturális örökség.",
+      "factsAdvanced": [
+        "Morelia történelmi központja több mint 200 műemlék épülettel bír.",
+        "A város katedrálisának tornyai 62 méter magasak.",
+        "Rózsaszín kőből épült házai miatt 'Rózsaszín Városnak' is hívják.",
+        "Itt található Mexikó egyik legrégebbi egyeteme, a San Nicolás de Hidalgo.",
+        "A moreliai akvadukt 253 ívből áll és a 18. században épült.",
+        "Híres finom édességeiről, mint a 'ate de Morelia'.",
+        "A város a függetlenségi hős, José María Morelos szülőhelye.",
+        "A Moreliai Nemzetközi Filmfesztivál a legfontosabb Mexikóban."
+      ]
+    },
+    {
+      "id": "veracruz-city-cities-v2",
+      "descriptionAdvanced": "Veracruz, hivatalos nevén Puerto de Veracruz, Mexikó legfontosabb és legrégebbi kikötővárosa a Mexikói-öböl partján. Hernán Cortés alapította 1519-ben, és évszázadokon át ez volt az egyetlen kapu az ország és Európa között. A város gazdag történelmi múlttal rendelkezik, amelyet 'négyszeres hősi város' címmel is elismertek a külföldi inváziók elleni védekezésért. Veracruz híres pezsgő, karibi hangulatú kulturális életéről, a marimba zenéről és a híres karneváljáról. A tengerparti sétány (Malecón) és a San Juan de Ulúa erőd a város legfőbb látnivalói, gasztronómiájában pedig a tenger gyümölcsei dominálnak. Földrajz K7 — tengeri kereskedelem és történelmi kikötők.",
+      "factsAdvanced": [
+        "Veracruz volt az első spanyolok által alapított város a szárazföldi Mexikóban.",
+        "A San Juan de Ulúa erőd évszázadokig védte a kikötőt a kalózoktól.",
+        "Híres a 'Café de Parroquia' kávézóról, ahol kanállal kocogtatják a poharat.",
+        "A veracruzi karnevál a legnagyobb és legvidámabb Mexikóban.",
+        "A város kultúrája erős afrikai és karibi hatásokat tükröz.",
+        "Itt található Latin-Amerika egyik legnagyobb akváriuma.",
+        "A kikötő ma is kulcsszerepet játszik az autóexportban.",
+        "Híres étele a 'Huachinango a la Veracruzana' (vörös sügér mártásban)."
+      ]
+    },
+    {
+      "id": "villahermosa-cities-v2",
+      "descriptionAdvanced": "Villahermosa, Tabasco állam fővárosa, Mexikó délkeleti részén fekszik, a hatalmas Grijalva folyó partján. A várost 'A Délkelet Metropoliszaként' ismerik, és fontos központja a mexikói olajiparnak. Villahermosa trópusi éghajlatú, buja növényzettel és számos tóval tarkított, ami különleges természeti hangulatot ad neki. Legfontosabb kulturális látnivalója a La Venta Park-Múzeum, ahol az ősi olmék kultúra monumentális kőfejeit csodálhatják meg a látogatók egy szabadtéri dzsungelkörnyezetben. A város modern üzleti negyedekkel és gazdag kulturális élettel rendelkezik, kaput nyitva a maja világ déli területei felé. Földrajz K8 — trópusi övezetek és szénhidrogén-ipar.",
+      "factsAdvanced": [
+        "Villahermosát 1564-ben alapították San Juan Bautista néven.",
+        "A város Mexikó egyik legfontosabb olajipari központja.",
+        "Itt található a világ egyetlen szabadtéri olmék múzeuma (La Venta).",
+        "A várost két nagy folyó, a Grijalva és a Carrizal szeli át.",
+        "A Grijalva folyó mentén épült sétány a város egyik fő közösségi tere.",
+        "Villahermosa trópusi monszun éghajlata miatt nagyon csapadékos.",
+        "A város híres a 'pozol' nevű hagyományos kukorica- és kakaóitalról.",
+        "A közeli Yumká szafari park a régió gazdag élővilágát mutatja be."
+      ]
+    },
+    {
+      "id": "xalapa-cities-v2",
+      "descriptionAdvanced": "Xalapa-Enríquez, Veracruz állam fővárosa, a Keleti-Sierra Madre hegység lábánál fekszik, és híres hűvös, ködös éghajlatáról, valamint pezsgő kulturális életéről. Gyakran nevezik a 'Virágok Városának' (Ciudad de las Flores) és 'Mexikó Athénjának' a számos parkja, kertje és rangos egyeteme miatt. Xalapa a mexikói antropológia és régészet egyik központja, az itt található Antropológiai Múzeum világhírű az olmék óriásfejek gyűjteményéről. A város dombos utcái, hangulatos terei és a környező kávéültetvények különleges európaias bájt kölcsönöznek neki. Földrajz K7 — hegyvidéki éghajlat és kulturális központok.",
+      "factsAdvanced": [
+        "Xalapa a híres jalapeño paprika névadója.",
+        "Itt található Mexikó második legfontosabb antropológiai múzeuma.",
+        "A várost gyakran borítja köd, amit a helyiek 'chipi-chipi'-nek hívnak.",
+        "A környező régió Mexikó egyik legkiválóbb kávétermesztő vidéke.",
+        "Xalapa a Veracruzi Egyetem székhelye, amely híres művészeti képzéséről.",
+        "A város parkjai, mint a Juárez-park, dús szubtrópusi növényzettel rendelkeznek.",
+        "Dombos terepviszonyai miatt az utcák gyakran meredekek és kanyargósak.",
+        "Xalapa fontos politikai és közigazgatási központ Kelet-Mexikóban."
+      ]
+    },
+    {
+      "id": "mazatlan-cities-v2",
+      "descriptionAdvanced": "Mazatlán Mexikó egyik legfontosabb kikötője és legnépszerűbb tengerparti üdülőhelye a Csendes-óceán partján, Sinaloa államban. A várost gyakran a 'Csendes-óceán Gyöngyeként' emlegetik, mert egyedülálló módon ötvözi a modern szállodasorokat a gyönyörűen felújított 19. századi történelmi belvárossal. Mazatlán büszkélkedhet a világ egyik leghosszabb tengerparti sétányával (Malecón), amely több mint 20 kilométeren át kanyarog az óceán mentén. A város híres gazdag tengeri gasztronómiájáról (különösen a garnélarákról), a hagyományos 'banda' zenéről és a látványos karneváljáról, amely az egyik legnagyobb az országban. Földrajz K7 — part menti turizmus és halászati ipar.",
+      "factsAdvanced": [
+        "Mazatlán neve nahuatl nyelven 'szarvasok helyét' jelenti.",
+        "A város Malecónja (tengerparti sétány) a világ egyik leghosszabbja.",
+        "Itt található a világ egyik legmagasabb természetes világítótornya, az El Faro.",
+        "A mazatláni karnevál több mint 120 éves múltra tekint vissza.",
+        "A város Mexikó egyik legfontosabb garnélarák-halászati központja.",
+        "Történelmi központjában található a gyönyörű Angela Peralta Színház.",
+        "Híres a 'pulmonía' nevű, nyitott tetejű taxiiról.",
+        "Mazatlán az egyetlen mexikói üdülőhely, ahol klasszikus opera is hallható."
+      ]
+    }
+  ]
+}

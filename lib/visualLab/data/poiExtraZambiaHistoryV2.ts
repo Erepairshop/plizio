@@ -186,7 +186,14 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A központosított Bemba rendszer csúcsát képviseli.", "Az utódlási rituálék több évszázadra nyúlnak vissza."],
       ro: ["Reprezintă vârful sistemului politic centralizat Bemba.", "Ritualurile de succesiune datează de secole."],
       en: ["Represents the apex of the centralized Bemba political system.", "Succession rituals here date back centuries."]
-    }, image: "/poi-images/chitimukulu-palace-history-v2.webp"},
+    }, image: "/poi-images/chitimukulu-palace-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Palace of the Chitimukulu is the traditional seat of the paramount chief of the Bemba people, located in the Northern Province of Zambia. The site is a repository of Bemba history, culture, and traditional authority. It is not just a residence but a spiritual and administrative landmark for the Bemba community, representing centuries of leadership and tribal structure. Visitors interested in Zambian heritage often look to the palace as a primary site for understanding traditional governance and historical power dynamics that persist into the modern era. History K8 — traditional governance."
+    },
+    factsAdvanced: {
+      en: ["Traditional seat of the Bemba paramount chief", "Located in Northern Zambia", "Symbol of ancient tribal governance and history", "Key site for preserving Bemba traditions and culture", "Represents long-standing leadership structures", "Important landmark for regional cultural heritage"]
+    }
+  },
 {
     id: "lealui-royal-village-history-v2",
     type: "historical",
@@ -419,7 +426,14 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A csapatok csak három nappal az európai fegyverszünet után tették le a fegyvert.", "Egy korabeli ágyú is megtekinthető itt."],
       ro: ["Trupele au depus armele la trei zile după armistițiul din Europa.", "Prezintă un tun din acea epocă."],
       en: ["The forces laid down their arms three days after the armistice in Europe.", "Features a cannon from the era."]
-    }, image: "/poi-images/chambeshi-monument-history-v2.webp"},
+    }, image: "/poi-images/chambeshi-monument-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Chambeshi Monument marks the site of the final surrender of the German forces in World War I, which occurred on the Chambeshi River in November 1918. This historic event concluded the East African Campaign of the Great War, ending hostilities in what was then Northern Rhodesia. The monument stands as a somber reminder of the global nature of the conflict and its impact on the region. It is a significant site for historians studying the colonial history of Zambia and the conclusion of WWI in Africa. History K8 — world wars and colonial impact."
+    },
+    factsAdvanced: {
+      en: ["Site of the German surrender in Northern Rhodesia (1918)", "Marks the end of WWI hostilities in East Africa", "Located near the Chambeshi River bridge", "Declared a national monument for historical importance", "Reflects regional role in the global Great War", "Visited primarily for heritage education"]
+    }
+  },
 {
     id: "kilwa-island-arab-settlement-history-v2",
     type: "historical",
@@ -627,7 +641,14 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Az 1930-as években gyorsan fejlődött.", "A város legkorábbi kereskedelmi épületeinek ad otthont."],
       ro: ["S-a dezvoltat rapid în anii 1930.", "Dispune de unele dintre cele mai vechi clădiri comerciale ale orașului."],
       en: ["Developed rapidly in the 1930s.", "Features several of the city's earliest commercial buildings."]
-    }, image: "/poi-images/cairo-road-commercial-heritage-history-v2.webp"},
+    }, image: "/poi-images/cairo-road-commercial-heritage-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Cairo Road is the principal commercial artery of Lusaka, Zambia's capital. Its name is said to have originated from the vision of a Cape-to-Cairo railway connection, linking South Africa to Egypt. Today, the street remains the bustling heart of the city's trade, hosting numerous banks, businesses, and retail outlets. Historically, it reflects the city's urban planning efforts during the 20th century and its transformation from a colonial outpost to a modern metropolitan center. It is an essential site for understanding Lusaka's development and commercial significance. History K8 — urban development."
+    },
+    factsAdvanced: {
+      en: ["The central commercial thoroughfare of Lusaka", "Named after the proposed Cape-to-Cairo railway route", "Historically significant for early 20th-century administration", "Home to the Zambia stock exchange and major banks", "Represents the city's modern business center", "Extends north to south through Lusaka's downtown"]
+    }
+  },
 {
     id: "chikabola-battlefield-history-v2",
     type: "historical",
@@ -650,7 +671,14 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A ngoni észak felé terjeszkedett, miközben a bemba védte a területét.", "Jelentős gyarmatosítás előtti konfliktust jelöl."],
       ro: ["Ngoni se extindeau spre nord în timp ce Bemba își apărau teritoriul.", "Marchează un conflict precolonial semnificativ."],
       en: ["The Ngoni were expanding northward while the Bemba defended their territory.", "Marks a significant pre-colonial conflict."]
-    }, image: "/poi-images/chikabola-battlefield-history-v2.webp"},
+    }, image: "/poi-images/chikabola-battlefield-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Chikabola battlefield site marks an area of significant historical conflict from the early 20th century. While less widely documented than major international battles, such local sites are integral to understanding the regional power struggles and colonial confrontations that shaped Zambia's borders. The battlefield stands as a testament to the resilience of local groups during periods of expansion and colonial influence. Today, it serves as a site of historical interest for those wishing to explore the lesser-known narratives of Zambia's past. History K8 — regional conflicts and colonial history."
+    },
+    factsAdvanced: {
+      en: ["Associated with historical colonial confrontations", "Important site for understanding regional border history", "Reflects local resistance to expansionist pressures", "Preserved by local communities as a historical landmark", "Significant for regional anthropological research", "Marks an important transition point in local control"]
+    }
+  },
 {
     id: "marrapodi-settlement-history-v2",
     type: "historical",

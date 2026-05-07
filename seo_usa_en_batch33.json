@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-diego-zoo-life-v2",
+      "descriptionAdvanced": "The San Diego Zoo, located in Balboa Park, is one of the world's most renowned zoological gardens, known for its pioneering approach to wildlife conservation, open-air habitat design, and extensive biodiversity. Founded in 1916, it has played a leading role in the transition from traditional menagerie-style exhibits to immersive, naturalistic environments that emphasize animal welfare and public education. The zoo is a global hub for research, actively participating in breeding programs for endangered species like the giant panda and the California condor. With its lush, curated landscapes and year-round favorable climate, it attracts millions of visitors annually, standing as a premier destination for studying global biology and conservation science. Sachkunde K5 — Wildlife habitats and conservation biology.",
+      "factsAdvanced": [
+        "One of the world's most renowned zoological gardens in Balboa Park.",
+        "Founded in 1916 and globally influential in modern habitat design.",
+        "Pioneered the transition to naturalistic, open-air animal environments.",
+        "Leader in global conservation research and endangered species breeding.",
+        "Essential research site for giant pandas and California condors.",
+        "Attracts millions of visitors annually for science and conservation education."
+      ]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "descriptionAdvanced": "Yellowstone National Park, established in 1872 as the first national park in the world, is an ecological wonderland defined by its extraordinary geothermal activity and diverse wildlife populations. Sitting atop a massive supervolcano, the park hosts half of the world’s active geysers, including the world-famous Old Faithful. Its vast, pristine landscape is home to thriving populations of iconic North American fauna, such as bison, grizzly bears, wolves, and elk, making it a critical site for understanding trophic cascades and habitat management. The park represents the foundational birth of the modern global conservation movement, preserving a unique high-altitude wilderness that serves as a vital laboratory for biological research and ecological stability. Biologie K7 — Geothermal ecology and megafauna habitat management.",
+      "factsAdvanced": [
+        "First national park in the world, established in 1872.",
+        "Located atop a massive volcanic caldera with unique geothermal features.",
+        "Hosts half of all active geysers in the world, including Old Faithful.",
+        "Critical habitat for North American megafauna like bison and grizzly bears.",
+        "Pioneering site for the study of trophic cascades and ecological stability.",
+        "Vital laboratory for high-altitude biology and conservation science."
+      ]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "descriptionAdvanced": "Walt Disney World Resort in Orlando, Florida, is the largest and most-visited theme park resort in the world, acting as a profound cultural and economic engine for the American entertainment industry. Since its opening in 1971, it has fundamentally reshaped the model for modern tourism, creating an immersive, multi-park vacation experience that seamlessly integrates technology, storytelling, and high-capacity infrastructure. The resort is a massive city-like enterprise, employing tens of thousands and setting global standards for service excellence, crowd management, and themed hospitality. Its influence extends far beyond entertainment, serving as a masterclass in operational logistics and the commercial power of intellectual property and brand-driven consumer culture. Wirtschaft K8 — Tourism infrastructure and immersive entertainment models.",
+      "factsAdvanced": [
+        "Largest and most-visited multi-park theme resort in the world.",
+        "Opened in 1971, defining the modern, immersive vacation model.",
+        "Massive economic engine employing tens of thousands in the Florida region.",
+        "Global benchmark for service excellence and operational logistics management.",
+        "Commercial powerhouse for the American brand-driven entertainment culture.",
+        "Integrates high-capacity technology and infrastructure for immersive storytelling."
+      ]
+    }
+  ]
+}

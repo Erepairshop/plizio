@@ -3,6 +3,37 @@ import re
 import sys
 import os
 
+def find_object_bounds(content, start_index):
+    """
+    Finds the closing brace of a JSON-like object in a string,
+    handling nested braces and strings correctly.
+    """
+    brace_count = 0
+    in_string = False
+    escape = False
+    
+    for i in range(start_index, len(content)):
+        char = content[i]
+        
+        if in_string:
+            if escape:
+                escape = False
+            elif char == '\\':
+                escape = True
+            elif char == '"':
+                in_string = False
+        else:
+            if char == '"':
+                in_string = True
+            elif char == '{':
+                brace_count += 1
+            elif char == '}':
+                brace_count -= 1
+                if brace_count == 0:
+                    return i # index of closing brace
+                    
+    return -1
+
 def apply_seo(json_file):
     with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -11,7 +42,6 @@ def apply_seo(json_file):
     items = data.get('items', [])
     files = data.get('files', [])
 
-    # Map items by ID for easy access
     item_map = {item['id']: item for item in items}
 
     for ts_file in files:
@@ -23,82 +53,82 @@ def apply_seo(json_file):
             content = f.read()
 
         updated = False
-        # Find all POI IDs in this file
-        file_ids = re.findall(r'id:\s*"(.*?)"', content)
         
-        for poi_id in file_ids:
-            if poi_id not in item_map:
+        # Process each POI ID specified in the JSON file
+        for poi_id, item in item_map.items():
+            # Find the exact start of the POI object
+            id_match = re.search(r'\{\s*id:\s*"' + re.escape(poi_id) + r'"', content)
+            if not id_match:
                 continue
             
-            item = item_map[poi_id]
-            new_desc = item['descriptionAdvanced'].replace('"', '\\"').replace('\n', ' ')
-            new_facts = item['factsAdvanced']
-            facts_json = json.dumps(new_facts, ensure_ascii=False)
-
-            # Find the POI block
-            # This regex is a bit more flexible
-            poi_pattern = r'(\{\s*id:\s*"' + re.escape(poi_id) + r'"[\s\S]*?\n\s*\})'
-            match = re.search(poi_pattern, content)
-            if not match:
-                continue
+            start_index = id_match.start()
+            end_index = find_object_bounds(content, start_index)
             
-            poi_block = match.group(1)
+            if end_index == -1:
+                print(f"Could not find bounds for {poi_id}")
+                continue
+                
+            poi_block = content[start_index:end_index + 1]
             new_poi_block = poi_block
+            
+            if 'descriptionAdvanced' in item:
+                new_desc = item['descriptionAdvanced'].replace('"', '\\"').replace('\n', ' ')
+            else:
+                new_desc = None
+                
+            if 'factsAdvanced' in item:
+                new_facts = item['factsAdvanced']
+                facts_json = json.dumps(new_facts, ensure_ascii=False)
+            else:
+                new_facts = None
 
             # --- Handle descriptionAdvanced ---
-            if "descriptionAdvanced" in new_poi_block:
-                # Update existing lang entry or add it
-                desc_inner_pattern = r'(descriptionAdvanced:\s*\{)([\s\S]*?)(\})'
-                desc_match = re.search(desc_inner_pattern, new_poi_block)
-                if desc_match:
-                    prefix, inner, suffix = desc_match.groups()
-                    lang_pattern = r'(' + lang + r':\s*)(["\'`][\s\S]*?["\'`])'
-                    if re.search(lang_pattern, inner):
-                        new_inner = re.sub(lang_pattern, r'\1"' + new_desc + r'"', inner)
-                    else:
-                        # Append new lang
-                        sep = "," if inner.strip() and not inner.strip().endswith(',') else ""
-                        new_inner = inner.rstrip() + f'{sep}\n      {lang}: "{new_desc}"\n    '
-                    new_poi_block = new_poi_block.replace(desc_match.group(0), prefix + new_inner + suffix)
-            else:
-                # Add descriptionAdvanced before factsAdvanced or at the end
-                addition = f',\n    descriptionAdvanced: {{\n      {lang}: "{new_desc}"\n    }}'
-                if "factsAdvanced" in new_poi_block:
-                    new_poi_block = new_poi_block.replace(",\n    factsAdvanced", addition + ",\n    factsAdvanced")
-                elif "facts:" in new_poi_block:
-                     # Find end of facts: { ... }
-                     facts_match = re.search(r'(facts:\s*\{[\s\S]*?\})', new_poi_block)
-                     if facts_match:
-                         new_poi_block = new_poi_block.replace(facts_match.group(1), facts_match.group(1) + addition)
+            if new_desc is not None:
+                if "descriptionAdvanced" in new_poi_block:
+                    desc_inner_pattern = r'(descriptionAdvanced:\s*\{)([\s\S]*?)(\})'
+                    desc_match = re.search(desc_inner_pattern, new_poi_block)
+                    if desc_match:
+                        prefix, inner, suffix = desc_match.groups()
+                        lang_pattern = r'(' + lang + r':\s*)(["\'`][\s\S]*?["\'`])'
+                        if re.search(lang_pattern, inner):
+                            new_inner = re.sub(lang_pattern, r'\1"' + new_desc + r'"', inner)
+                        else:
+                            sep = "," if inner.strip() and not inner.strip().endswith(',') else ""
+                            new_inner = inner.rstrip() + f'{sep}\n      {lang}: "{new_desc}"\n    '
+                        new_poi_block = new_poi_block.replace(desc_match.group(0), prefix + new_inner + suffix)
                 else:
-                    new_poi_block = new_poi_block.rstrip().rstrip('}') + addition + "\n  }"
+                    addition = f',\n    descriptionAdvanced: {{\n      {lang}: "{new_desc}"\n    }}'
+                    # Strip closing brace and trailing comma if present
+                    inner_content = new_poi_block[:-1].rstrip()
+                    if inner_content.endswith(','):
+                        inner_content = inner_content[:-1].rstrip()
+                    new_poi_block = inner_content + addition + "\n  }"
 
             # --- Handle factsAdvanced ---
-            if "factsAdvanced" in new_poi_block:
-                facts_inner_pattern = r'(factsAdvanced:\s*\{)([\s\S]*?)(\})'
-                facts_match = re.search(facts_inner_pattern, new_poi_block)
-                if facts_match:
-                    prefix, inner, suffix = facts_match.groups()
-                    lang_pattern = r'(' + lang + r':\s*)(\[[\s\S]*?\])'
-                    if re.search(lang_pattern, inner):
-                        new_inner = re.sub(lang_pattern, r'\1' + facts_json, inner)
-                    else:
-                        sep = "," if inner.strip() and not inner.strip().endswith(',') else ""
-                        new_inner = inner.rstrip() + f'{sep}\n      {lang}: {facts_json}\n    '
-                    new_poi_block = new_poi_block.replace(facts_match.group(0), prefix + new_inner + suffix)
-            else:
-                addition = f',\n    factsAdvanced: {{\n      {lang}: {facts_json}\n    }}'
-                if "descriptionAdvanced" in new_poi_block:
-                    # Append after descriptionAdvanced
-                    desc_match = re.search(r'(descriptionAdvanced:\s*\{[\s\S]*?\})', new_poi_block)
-                    if desc_match:
-                        new_poi_block = new_poi_block.replace(desc_match.group(1), desc_match.group(1) + addition)
+            if new_facts is not None:
+                if "factsAdvanced" in new_poi_block:
+                    facts_inner_pattern = r'(factsAdvanced:\s*\{)([\s\S]*?)(\})'
+                    facts_match = re.search(facts_inner_pattern, new_poi_block)
+                    if facts_match:
+                        prefix, inner, suffix = facts_match.groups()
+                        lang_pattern = r'(' + lang + r':\s*)(\[[\s\S]*?\])'
+                        if re.search(lang_pattern, inner):
+                            new_inner = re.sub(lang_pattern, r'\1' + facts_json, inner)
+                        else:
+                            sep = "," if inner.strip() and not inner.strip().endswith(',') else ""
+                            new_inner = inner.rstrip() + f'{sep}\n      {lang}: {facts_json}\n    '
+                        new_poi_block = new_poi_block.replace(facts_match.group(0), prefix + new_inner + suffix)
                 else:
-                     # Just append at end
-                     new_poi_block = new_poi_block.rstrip().rstrip('}') + addition + "\n  }"
+                    addition = f',\n    factsAdvanced: {{\n      {lang}: {facts_json}\n    }}'
+                    # Strip closing brace and trailing comma if present
+                    inner_content = new_poi_block[:-1].rstrip()
+                    if inner_content.endswith(','):
+                        inner_content = inner_content[:-1].rstrip()
+                    new_poi_block = inner_content + addition + "\n  }"
 
             if new_poi_block != poi_block:
-                content = content.replace(poi_block, new_poi_block)
+                # Replace the exact block in the content, avoiding duplicates or structural breakage
+                content = content[:start_index] + new_poi_block + content[end_index + 1:]
                 updated = True
                 print(f"Updated {poi_id}")
 

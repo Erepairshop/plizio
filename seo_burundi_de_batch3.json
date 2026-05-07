@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "musee-vivant-life-v2",
+      "descriptionAdvanced": "Das Musée Vivant in Bujumbura ist ein einzigartiges kulturelles und biologisches Zentrum, das Besuchern einen Einblick in die Tierwelt und die Handwerkstraditionen Burundis bietet. Die Anlage beherbergt lebende Exponate, darunter Krokodile und verschiedene Schlangenarten, sowie eine Sammlung traditioneller Artefakte und Kunsthandwerke. Es ist ein wichtiger Ort für Bildung und Erhaltung des kulturellen Erbes. Sachkunde K4 — Tiere und Kultur.",
+      "factsAdvanced": [
+        "Lage: Bujumbura",
+        "Besonderheit: Kombination aus Zoo und Museum",
+        "Exponate: Lokale Reptilien, traditionelles Kunsthandwerk",
+        "Bildung: Fokus auf Artenschutz und Kulturerhalt",
+        "Geschichte: Eines der ältesten Museen des Landes",
+        "Bedeutung: Touristischer Anziehungspunkt"
+      ]
+    },
+    {
+      "id": "rusizi-delta-life-v2",
+      "descriptionAdvanced": "Das Rusizi-Delta ist eine faszinierende Sumpflandschaft an der Mündung des Rusizi-Flusses in den Tanganjika-See. Dieses Ökosystem ist Lebensraum für seltene Vogelarten und dient als wichtige Pufferzone für den See. Die lokale Bevölkerung nutzt das Delta traditionell für Fischerei und den Anbau von wasserliebenden Pflanzen, was ein harmonisches Zusammenleben von Mensch und Natur ermöglicht. Biologie K5 — Sumpfökosysteme.",
+      "factsAdvanced": [
+        "Standort: Mündung des Rusizi in den Tanganjika-See",
+        "Besonderheit: Vielfältige Sumpfvegetation",
+        "Tierwelt: Wichtiger Rastplatz für Zugvögel",
+        "Nutzung: Traditionelle Fischerei",
+        "Pufferfunktion: Sedimentfilter für den See",
+        "Landschaftstyp: Delta-Feuchtgebiet"
+      ]
+    },
+    {
+      "id": "imbo-plain-rice-life-v2",
+      "descriptionAdvanced": "Die Imbo-Ebene ist das landwirtschaftliche Herz Burundis für den Reisanbau. Die fruchtbaren alluvialen Böden, kombiniert mit einer effizienten Bewässerung durch das Ruzizi-Tal, ermöglichen mehrere Ernten pro Jahr. Der Anbau ist für die Ernährungssicherheit der Region Bujumbura von entscheidender Bedeutung und prägt das soziale Leben in den ländlichen Gemeinden. Sachkunde K5 — Landwirtschaft in den Tropen.",
+      "factsAdvanced": [
+        "Region: Imbo-Ebene",
+        "Haupterzeugnis: Reis",
+        "Boden: Fruchtbare Alluvialböden",
+        "Bedeutung: Ernährungssicherheit",
+        "Bewässerung: Nutzung des Ruzizi-Flusssystems",
+        "Wirtschaft: Zentrale Rolle für den lokalen Markt"
+      ]
+    },
+    {
+      "id": "mugamba-tea-life-v2",
+      "descriptionAdvanced": "Die Region Mugamba ist berühmt für ihre weitläufigen Teeplantagen, die sich über die sanften Hügel des Hochlands erstrecken. Das kühle, neblige Klima in diesen Höhenlagen ist ideal für die Qualität und das Aroma der Teeblätter. Tee aus Mugamba ist einer der bedeutendsten Exportartikel Burundis und bietet Tausenden Familien eine Lebensgrundlage. Geographie K6 — Agrarwirtschaft und Klima.",
+      "factsAdvanced": [
+        "Region: Hochland von Mugamba",
+        "Hauptanbau: Tee",
+        "Klima: Kühl und neblig",
+        "Bedeutung: Exportgut Burundis",
+        "Arbeitsplätze: Beschäftigung für viele Kleinbauern",
+        "Charakter: Hügelige Plantagenlandschaft"
+      ]
+    },
+    {
+      "id": "kayanza-coffee-life-v2",
+      "descriptionAdvanced": "Kayanza im Norden Burundis ist weltweit für seinen hochwertigen Arabica-Kaffee bekannt. Die hohen Lagen und die vulkanischen Böden verleihen dem Kaffee ein besonderes Profil, das von Experten geschätzt wird. Kaffee ist mehr als nur ein Produkt; er ist ein zentraler Bestandteil des sozialen Gefüges in Kayanza und das Rückgrat der lokalen Wirtschaft. Sachkunde K6 — Welthandel und Kaffee.",
+      "factsAdvanced": [
+        "Region: Kayanza, Nord-Burundi",
+        "Produkt: Hochwertiger Arabica-Kaffee",
+        "Anbaubedingungen: Vulkanische Böden, große Höhe",
+        "Bedeutung: Exportprodukt",
+        "Soziale Rolle: Basis für ländliche Einkommen",
+        "Qualität: International geschätzt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "lang": "en",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nairobi-cities-v2",
+      "descriptionAdvanced": "Established in 1899 as a simple rail depot on the Uganda Railway, Nairobi has rapidly transformed into one of Africa's most prominent metropolises. Earning the moniker 'Green City in the Sun', it stands out globally by hosting the Nairobi National Park, a sprawling wildlife reserve situated merely 7 kilometers from its bustling central business district. The city serves as a crucial hub for international diplomacy, housing the headquarters of the United Nations Environment Programme (UNEP) since 1972. Sitting at an elevation of roughly 1,795 meters above sea level, Nairobi enjoys a remarkably temperate climate despite its proximity to the equator. Its skyline is defined by modern architectural marvels like the 200-meter-tall Britam Tower, completed in 2017. As the financial heartbeat of East Africa, the city drives innovation in mobile banking and tech startups. Geography K7 — African metropolises.",
+      "factsAdvanced": [
+        "Founded in 1899 as a Uganda Railway supply depot.",
+        "Replaced Machakos as the capital of the East Africa Protectorate in 1907.",
+        "Situated at an altitude of approximately 1,795 meters (5,889 feet).",
+        "Nairobi National Park was established in 1946, covering 117 square kilometers.",
+        "The Britam Tower, completed in 2017, reaches a height of 200 meters.",
+        "Hosts the UN Environment Programme (UNEP) headquarters, established in 1972.",
+        "The city's population surpassed 4.3 million during the 2019 national census."
+      ]
+    },
+    {
+      "id": "mombasa-cities-v2",
+      "descriptionAdvanced": "Strategically positioned on the Indian Ocean coast, Mombasa is Kenya's oldest city, boasting a documented history that stretches back to at least the 12th century. The city's layout spans Mombasa Island and the adjacent mainland, connected by the Nyali Bridge built in 1980. Its deep-water port, Kilindini Harbour, handles millions of tonnes of cargo annually, serving not only Kenya but also landlocked neighbors like Uganda and Rwanda. The historic Fort Jesus, constructed by the Portuguese between 1593 and 1596, dominates the coastline and was designated a UNESCO World Heritage site in 2001. Mombasa's cultural fabric is deeply influenced by centuries of Swahili, Arab, and Omani trade networks, reflected in the narrow, winding alleys of its Old Town. The city experiences a tropical wet and dry climate, making it a pivotal center for East African tourism. History K8 — Colonial trade routes.",
+      "factsAdvanced": [
+        "Documented history dates back to around 1150 AD by geographer al-Idrisi.",
+        "Fort Jesus was built by Portuguese architect João Batista Cairato in 1593.",
+        "Kilindini Harbour was officially inaugurated for deep-water shipping in 1896.",
+        "Mombasa served as the capital of the British East Africa Protectorate until 1907.",
+        "The iconic Mombasa Tusks were erected in 1952 to commemorate Princess Elizabeth's visit.",
+        "Fort Jesus was recognized as a UNESCO World Heritage site in 2001.",
+        "The New Nyali Bridge, linking the island to the north mainland, opened in 1980."
+      ]
+    },
+    {
+      "id": "kisumu-cities-v2",
+      "descriptionAdvanced": "Anchoring the eastern shores of Lake Victoria, Kisumu serves as the principal inland port city of Kenya and the administrative capital of Kisumu County. Originally established in 1901 as Port Florence, the settlement was the vital terminus of the Uganda Railway, facilitating trade across the expansive inland waters. The city sits at an elevation of 1,131 meters and is characterized by a warm, humid climate ideal for regional agriculture. Kisumu is culturally significant as the heartland of the Luo community and hosts the Kisumu Museum, founded in 1980, which preserves intricate ethnographic exhibits. In recent decades, the modernization of the Kisumu port facilities has rejuvenated regional shipping networks connecting Kenya, Uganda, and Tanzania. The nearby Impala Sanctuary offers critical conservation space for the endangered sitatunga antelope. Geography K7 — Inland water transport hubs.",
+      "factsAdvanced": [
+        "Founded in 1901 and originally named Port Florence after Florence Preston.",
+        "Located on the shores of Lake Victoria at an elevation of 1,131 meters.",
+        "The Kisumu Museum officially opened its doors to the public in 1980.",
+        "Served as the western terminus of the Uganda Railway upon its completion in 1901.",
+        "The city's population was recorded at approximately 397,000 in the 2019 census.",
+        "Features the Ndere Island National Park, gazetted in 1986.",
+        "Major renovations of the Kisumu Port were completed in 2019 to boost regional trade."
+      ]
+    },
+    {
+      "id": "nakuru-cities-v2",
+      "descriptionAdvanced": "Nestled within the Great Rift Valley at an altitude of 1,850 meters, Nakuru is the fourth-largest urban center in Kenya and officially attained city status in 2021. Established in 1904 as a critical node on the evolving railway network, the city developed rapidly into a major agricultural hub, surrounded by expansive farmlands producing coffee, wheat, and dairy. The area is globally renowned for Lake Nakuru National Park, created in 1961, which historically attracted millions of lesser flamingos feeding on the lake's alkaline algae. Nakuru is also distinguished by the massive Menengai Crater, an extinct shield volcano located just north of the city limits, featuring a caldera spanning 12 kilometers in diameter. The region's geological volatility provides substantial geothermal energy potential, shaping its modern industrial landscape. Earth Sciences K7 — Rift Valley geology.",
+      "factsAdvanced": [
+        "Established by the British in 1904 along the Uganda Railway route.",
+        "Officially elevated from municipality to city status in December 2021.",
+        "Lake Nakuru National Park was established as a bird sanctuary in 1961.",
+        "Situated at an elevation of roughly 1,850 meters (6,070 feet).",
+        "The nearby Menengai Crater spans approximately 12 kilometers in diameter.",
+        "Hyrax Hill Prehistoric Site, discovered in 1926, is located on the city outskirts.",
+        "The city's population reached around 393,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "eldoret-cities-v2",
+      "descriptionAdvanced": "Situated on the Uasin Gishu Plateau at a commanding elevation of 2,100 meters, Eldoret is one of Kenya's fastest-growing urban centers, historically shaped by Afrikaner settlement in the early 20th century. Established around 1910 under the name 'Farm 64', the town officially became Eldoret in 1912, named after the Maasai word 'eldore' meaning stony river. The high altitude and temperate climate create optimal conditions for agriculture, making the region a massive producer of maize and wheat. Furthermore, this unique geography has transformed Eldoret into a world-renowned training ground for elite long-distance runners, producing multiple Olympic gold medalists. The city's industrial sector expanded significantly with the establishment of the Rivatex textile mill in 1975, contributing to its modern economic vitality. Social Studies K6 — High-altitude demographics.",
+      "factsAdvanced": [
+        "Founded around 1910 and initially referred to as 'Farm 64' by settlers.",
+        "Officially named Eldoret in 1912, deriving from the local term for 'stony river'.",
+        "Located at a high altitude of approximately 2,100 meters (6,900 feet).",
+        "The Uganda Railway extension reached Eldoret in 1924, boosting its growth.",
+        "Moi University, a major regional institution, was established here in 1984.",
+        "Rivatex East Africa, a major textile facility, commenced operations in 1975.",
+        "The town's population was approximately 475,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "thika-cities-v2",
+      "descriptionAdvanced": "Located just 42 kilometers northeast of Nairobi, Thika is a critical industrial town situated in Kiambu County along the Thika River. The settlement gained formal township status in 1924 and rapidly evolved into an agricultural processing powerhouse, surrounded by extensive pineapple and coffee plantations. It is most famously home to the Del Monte pineapple cannery, established in the mid-20th century, which exports massive quantities of canned fruit and juice globally. The town is geographically defined by the nearby Chania Falls and Thika Falls, which provide scenic natural boundaries and local water resources. In 2012, the completion of the eight-lane Thika Superhighway drastically reduced travel time to the capital, accelerating suburban expansion and real estate development in the area. Economics K8 — Agro-industrial processing.",
+      "factsAdvanced": [
+        "Gazetted as a formal township by the colonial government in 1924.",
+        "Located at an elevation of 1,631 meters above sea level.",
+        "Home to the massive Del Monte Kenya pineapple processing facility.",
+        "The eight-lane Thika Superhighway connecting it to Nairobi was completed in 2012.",
+        "Mount Kenya University established its main campus in Thika in 2008.",
+        "Features the historic Blue Posts Hotel, established in 1908 near the Chania Falls.",
+        "The town recorded a population of about 251,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "malindi-cities-v2",
+      "descriptionAdvanced": "Malindi is a historically rich coastal town situated at the mouth of the Galana River on the Indian Ocean, characterized by pristine white beaches and ancient coral reefs. The settlement has been a prominent Swahili trading port since the 13th century, hosting the Portuguese explorer Vasco da Gama in 1498, an event commemorated by a coral pillar still standing today. During the late 20th century, Malindi transformed into a major tourism hub, notably attracting a large Italian expatriate community that heavily influenced local architecture and cuisine. The adjacent Malindi Marine National Park, established in 1968, was the first of its kind in Africa, protecting extensive seagrass beds and marine biodiversity. Despite modern development, the town preserves its historical layout, including the Juma Mosque dating back to the 15th century. History K7 — Indian Ocean trade networks.",
+      "factsAdvanced": [
+        "Has functioned as a major Swahili coastal settlement since the 13th century.",
+        "Vasco da Gama visited in 1498 and erected a coral pillar near the shore.",
+        "Malindi Marine National Park was established in 1968, a first for Africa.",
+        "The historic Juma Mosque on the seafront dates back to the late 15th century.",
+        "Located 120 kilometers northeast of Mombasa at the Galana River estuary.",
+        "Features the nearby Gedi Ruins, a 12th-century abandoned Swahili city.",
+        "The urban population was recorded at approximately 119,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kitale-cities-v2",
+      "descriptionAdvanced": "Positioned in the fertile northern Rift Valley between Mount Elgon and the Cherangani Hills, Kitale functions as the agricultural nerve center of Trans-Nzoia County. Founded in 1920 by European settlers drawn to its high elevation of 1,900 meters and rich volcanic soils, the town quickly became the primary trading hub for Kenya's 'breadbasket' region, producing vast quantities of maize and sunflower seeds. The arrival of the railway branch line in 1926 catalyzed the export of agricultural goods. Kitale is distinguished by the Kitale Museum, opened in 1924, which was the first domestic museum in Kenya and houses extensive natural history collections and ethnographic artifacts. The surrounding terrain also serves as a critical base for expeditions into the Mount Elgon National Park and the Saiwa Swamp reserve. Geography K6 — Agricultural heartlands.",
+      "factsAdvanced": [
+        "Founded by European colonial settlers in 1920.",
+        "Located at a high altitude of 1,900 meters (6,200 feet).",
+        "The Kitale branch of the railway line was completed in 1926.",
+        "The National Museum of Western Kenya (Kitale Museum) was opened in 1924.",
+        "Serves as the administrative capital of Trans-Nzoia County.",
+        "Acts as the primary gateway to the Saiwa Swamp National Park, created in 1974.",
+        "The urban area had a population of roughly 162,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "garissa-cities-v2",
+      "descriptionAdvanced": "Garissa serves as the administrative headquarters of Garissa County, situated along the eastern banks of the Tana River in the expansive, semi-arid North Eastern Province. Characterized by a hot and dry desert climate, the city is a critical commercial and livestock trading hub connecting coastal regions with the interior arid lands. Historically, Garissa evolved as a crucial watering point and market center for nomadic Somali pastoralists who dominate the local demographic. The landscape around the city is defined by resilient scrubland, with the Tana River providing the sole reliable water source, sustaining localized agriculture and riverine ecosystems. In 2013, the establishment of Garissa University expanded the city's role as an educational center in a historically marginalized region. Social Studies K7 — Arid region urban development.",
+      "factsAdvanced": [
+        "Functions as the capital of Garissa County in northeastern Kenya.",
+        "Situated directly on the eastern banks of the Tana River.",
+        "Features a hot desert climate with average annual rainfall below 300 mm.",
+        "Garissa University was officially established as a public institution in 2013.",
+        "The Bour-Algi Giraffe Sanctuary is located 5 kilometers south of the town.",
+        "A major 50-megawatt solar power plant was commissioned near Garissa in 2019.",
+        "The town's population was recorded at approximately 163,000 in 2019."
+      ]
+    },
+    {
+      "id": "kakamega-cities-v2",
+      "descriptionAdvanced": "Kakamega, the headquarters of Kakamega County, is a prominent urban center in western Kenya, historically defined by the brief but intense 1930s gold rush that catalyzed its early expansion. Located at an elevation of 1,535 meters, the city experiences high annual rainfall, creating an exceptionally green and fertile environment. It is intrinsically linked to the Kakamega Forest, the easternmost remnant of the Guineo-Congolian rainforest, established as a reserve in 1933 and renowned for its unique primate and avian biodiversity. Today, the local economy is largely driven by agricultural commerce, particularly sugarcane farming, and serves as a major cultural epicenter for the Luhya people. The establishment of Masinde Muliro University in 2007 has further accelerated the city's modernization and demographic growth. Geography K7 — Rainforest fringe settlements.",
+      "factsAdvanced": [
+        "Experienced a significant gold rush starting in 1931.",
+        "Located at an altitude of approximately 1,535 meters (5,036 feet).",
+        "The adjacent Kakamega Forest was declared a strict nature reserve in 1933.",
+        "Masinde Muliro University of Science and Technology was founded in 2007.",
+        "Serves as the administrative center and cultural heart for the Luhya community.",
+        "The region receives high annual rainfall, often exceeding 2,000 millimeters.",
+        "The urban population reached approximately 107,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "nyeri-cities-v2",
+      "descriptionAdvanced": "Nestled in the central highlands at a cool elevation of 1,750 meters, Nyeri is situated between the majestic massifs of Mount Kenya and the Aberdare Range. Established by the British in 1902 as a military post, the town quickly developed into a prosperous agricultural center specializing in high-quality Arabica coffee and tea production. Nyeri holds profound historical significance; it was a focal point during the Mau Mau uprising in the 1950s and contains the gravesite of Robert Baden-Powell, the founder of the Scout movement, who spent his final years here until his death in 1941. The city serves as a crucial staging point for mountaineering expeditions and wildlife tourism directed toward the Aberdare National Park. Its red volcanic soils and consistent rainfall make it one of Kenya's most productive agronomic zones. History K8 — Colonial legacy and agriculture.",
+      "factsAdvanced": [
+        "Founded as a British military post in December 1902.",
+        "Located at an elevation of 1,750 meters (5,740 feet) in the central highlands.",
+        "Serves as the administrative headquarters for Nyeri County.",
+        "Lord Baden-Powell, founder of the Scouts, was buried here in 1941.",
+        "Dedan Kimathi University of Technology was granted its charter in 2012.",
+        "Situated between Mount Kenya to the east and the Aberdare Range to the west.",
+        "The town's population was roughly 140,000 according to the 2019 national census."
+      ]
+    },
+    {
+      "id": "machakos-cities-v2",
+      "descriptionAdvanced": "Machakos holds the distinction of being the first administrative capital of the British East Africa Protectorate, established in 1887 before the colonial headquarters were relocated to Nairobi in 1899. Nestled within a hilly terrain at an altitude of 1,715 meters, the city is surrounded by the picturesque Mua Hills and serves as the primary commercial and cultural nucleus for the Kamba people. Despite the semi-arid climate of the broader region, the hilly topography surrounding the town supports the cultivation of drought-resistant crops, fruits, and subsistence farming. In recent years, Machakos has undergone significant infrastructural modernization, including the construction of the Kenyatta Stadium, completed in 2013, and the development of the Machakos People's Park, which has revitalized local tourism and recreational commerce. History K7 — Early colonial administrative centers.",
+      "factsAdvanced": [
+        "Established by the Imperial British East Africa Company in 1887.",
+        "Served as the capital of the East Africa Protectorate until 1899.",
+        "Located at an elevation of 1,715 meters (5,626 feet).",
+        "The modern 10,000-seat Kenyatta Stadium was completed in 2013.",
+        "Machakos University was officially chartered as an independent institution in 2016.",
+        "Features the anti-gravity phenomen of Kyamwilu, located a few kilometers outside the city.",
+        "The urban population was recorded at approximately 63,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "meru-cities-v2",
+      "descriptionAdvanced": "Perched on the northeastern slopes of Mount Kenya at an altitude of approximately 1,580 meters, Meru is a vital commercial and agricultural center in the eastern highlands. The city was formally established in 1911 as a colonial administrative post, strategically positioned in a region characterized by exceptionally fertile volcanic soils and reliable rainfall. Meru is historically renowned as a major production zone for coffee, tea, and notably khat (miraa), which forms a massive segment of the local export economy. The proximity to the Meru National Park, established in 1968 and famous for the conservation of the lioness Elsa, positions the town as an important logistical hub for northern tourism circuits. The urban layout reflects a blend of traditional market dynamics and expanding modern retail infrastructure. Economics K8 — Cash crop economies.",
+      "factsAdvanced": [
+        "Formally established as a colonial administrative post in 1911.",
+        "Located on the northeastern slopes of Mount Kenya at 1,580 meters.",
+        "Serves as the headquarters for Meru County.",
+        "A major national hub for the cultivation and export of khat (miraa).",
+        "Meru University of Science and Technology was chartered in 2013.",
+        "Meru National Park, located to the east, was established in 1968.",
+        "The town's population reached approximately 110,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "embu-cities-v2",
+      "descriptionAdvanced": "Embu is a robust agricultural town situated on the southeastern slopes of Mount Kenya, acting as the administrative headquarters for Embu County. Founded in 1906 by British colonial administrators, the settlement leveraged its favorable altitude of 1,350 meters and rich volcanic loam soils to become a major center for macadamia nut, coffee, and tea cultivation. The landscape is intensely green, bisected by the Rupingazi and Kapingazi rivers, which provide vital irrigation and contribute to the region's hydroelectric potential, notably linked to the nearby Seven Forks dam cascade on the Tana River. The town boasts a strong educational legacy, hosting institutions like the University of Embu, which was fully chartered in 2016. The local economy is tightly woven into the intensive terraced farming of the surrounding hillsides. Geography K6 — Slope agriculture and hydrology.",
+      "factsAdvanced": [
+        "Founded as a colonial administrative center in 1906.",
+        "Located at an altitude of 1,350 meters (4,429 feet).",
+        "Serves as the administrative capital of Embu County.",
+        "University of Embu received its official charter in 2016.",
+        "The nearby Seven Forks Hydroelectric project began construction in the 1960s.",
+        "A major regional producer of macadamia nuts and Arabica coffee.",
+        "The town's population was recorded at roughly 64,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "bungoma-cities-v2",
+      "descriptionAdvanced": "Located in western Kenya near the Uganda border, Bungoma is an expanding commercial hub serving the densely populated agrarian regions of Bungoma County. The town evolved around the railway line constructed in the 1920s, which connected the coastal ports to the Ugandan interior, facilitating the export of regional agricultural produce. Bungoma's economy is heavily anchored in sugarcane farming, feeding the massive Nzoia Sugar Company factory located nearby, which was established in 1978. Situated at an elevation of 1,385 meters, the climate is highly favorable for both cash crops and extensive maize production. Culturally, it is the stronghold of the Bukusu sub-tribe of the Luhya people, maintaining deep-rooted traditions and annual circumcision ceremonies that shape the social calendar. Economics K7 — Border trade and agriculture.",
+      "factsAdvanced": [
+        "Developed primarily following the arrival of the railway in the late 1920s.",
+        "Serves as the administrative headquarters of Bungoma County.",
+        "Located at an elevation of roughly 1,385 meters (4,543 feet).",
+        "The nearby Nzoia Sugar Company was established in 1978.",
+        "Kibabii University, located on the outskirts, was chartered in 2015.",
+        "Functions as a major transit route for cargo moving into neighboring Uganda.",
+        "The urban center had a population of approximately 114,000 in 2019."
+      ]
+    },
+    {
+      "id": "naivasha-cities-v2",
+      "descriptionAdvanced": "Naivasha is a bustling market town situated at an altitude of 1,900 meters on the floor of the Great Rift Valley, historically positioned on the shores of Lake Naivasha. Originating as a colonial settler hub and a station on the Uganda Railway in 1899, the town has dramatically transformed into the epicenter of Kenya's multi-billion-shilling floriculture industry. Dozens of vast greenhouses line the lake, producing roses and carnations exported daily to European markets via Nairobi. The region is characterized by intense geothermal activity, with the Olkaria Geothermal Power Station, first commissioned in 1981, providing a significant percentage of the national grid's electricity. Naivasha also serves as the primary gateway to Hell's Gate National Park, renowned for its dramatic volcanic scenery and geothermal features. Economics K8 — Floriculture and renewable energy.",
+      "factsAdvanced": [
+        "Established as a railway station on the Uganda Railway in 1899.",
+        "Situated at an altitude of 1,900 meters (6,233 feet) in the Rift Valley.",
+        "The epicenter of Kenya's export floriculture, specializing in roses.",
+        "Olkaria Geothermal Power Station I was commissioned south of the town in 1981.",
+        "Serves as the gateway to Hell's Gate National Park, established in 1984.",
+        "Lake Naivasha is a freshwater lake, unlike most other Rift Valley lakes.",
+        "The urban population was recorded at approximately 198,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kericho-cities-v2",
+      "descriptionAdvanced": "Kericho is synonymous with Kenya's globally renowned tea industry, situated in the verdant highlands west of the Great Rift Valley. Founded in 1902, the town sits at a commanding elevation of 2,000 meters, an environment characterized by consistent daily rainfall and deep, well-drained volcanic soils perfect for Camellia sinensis cultivation. The landscape is dominated by vast, manicured tea estates established in the 1920s by multinational corporations, making Kericho the largest tea-producing region in Africa. The local economy revolves almost entirely around tea picking, processing, and export logistics. Beyond agriculture, the town hosts the massive Holy Trinity Cathedral, completed in 2015, which stands as a landmark of modern architectural design in the region. Economics K7 — Monoculture and global exports.",
+      "factsAdvanced": [
+        "Founded as an administrative and trading post in 1902.",
+        "Located at an elevation of 2,000 meters (6,560 feet) in the western highlands.",
+        "The first commercial tea was planted in the Kericho area in 1924.",
+        "Serves as the headquarters for Kericho County.",
+        "The striking Holy Trinity Cathedral in Kericho was completed and consecrated in 2015.",
+        "The region receives near-daily rainfall, often exceeding 1,700 mm annually.",
+        "The town's population was recorded at roughly 104,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "lamu-cities-v2",
+      "descriptionAdvanced": "Lamu Town, situated on Lamu Island off the northern coast of Kenya, is the oldest continuously inhabited Swahili settlement in East Africa, dating back to at least the 14th century. Designated a UNESCO World Heritage site in 2001, the town is a masterful preservation of Swahili architecture, characterized by narrow, winding streets, intricately carved wooden doors, and coral stone buildings. With no motorized vehicles allowed, transport relies exclusively on donkeys, dhows, and foot traffic, preserving an atmosphere untouched by modern urbanization. The town historically served as a major center for the timber, ivory, and spice trades. Today, its economy is heavily reliant on cultural tourism and traditional maritime activities, while the nearby Lamu Port (LAPSSET) project on the mainland introduces a stark contrast of 21st-century infrastructure. History K8 — Swahili coastal civilization.",
+      "factsAdvanced": [
+        "Established as a Swahili trading settlement in the 14th century.",
+        "Lamu Old Town was inscribed as a UNESCO World Heritage site in 2001.",
+        "The historic Lamu Fort was constructed between 1813 and 1821.",
+        "Motorized vehicles are largely banned; transport relies on donkeys and boats.",
+        "The Riyadha Mosque in Lamu, a major Islamic learning center, was built in 1900.",
+        "Serves as the administrative center of Lamu County.",
+        "The town features an annual cultural festival celebrating traditional dhow racing."
+      ]
+    },
+    {
+      "id": "isiolo-cities-v2",
+      "descriptionAdvanced": "Isiolo functions as the crucial geographical and cultural gateway between the fertile central highlands of Kenya and the expansive, arid northern frontier. Established in the 1920s as a military post by the British to monitor pastoralist movements, the town has grown into a major transport logistics hub, highly diverse and populated largely by Borana, Somali, and Meru communities. The landscape transitions sharply here from green slopes to acacia scrubland. As a central node in the ambitious LAPSSET corridor project, Isiolo's infrastructure was drastically upgraded, marked by the opening of the Isiolo International Airport in 2017. The town also serves as the primary staging ground for tourism into the nearby Buffalo Springs, Shaba, and Samburu National Reserves. Geography K7 — Ecotone transitions and transport corridors.",
+      "factsAdvanced": [
+        "Established as a British military outpost in the 1920s.",
+        "Located at an altitude of 1,145 meters (3,756 feet).",
+        "Isiolo International Airport was officially opened in July 2017.",
+        "Serves as the administrative capital of Isiolo County.",
+        "Positioned as a central hub in the LAPSSET (Lamu Port-South Sudan-Ethiopia-Transport) corridor.",
+        "Acts as the gateway to the Samburu National Reserve, established in 1948.",
+        "The urban population was roughly 80,000 according to the 2019 national census."
+      ]
+    },
+    {
+      "id": "homa-bay-cities-v2",
+      "descriptionAdvanced": "Homa Bay is a prominent port town situated on the southern shores of the Winam Gulf of Lake Victoria, framed by the backdrop of the volcanic Mount Homa. Established in the mid-20th century, the town has grown primarily as a fishing and agricultural center, heavily reliant on the lake's resources, particularly the Nile perch and tilapia fisheries. The surrounding topography is distinguished by the nearby Ruma National Park, gazetted in 1983, which protects one of the last remaining populations of the endangered roan antelope in Kenya. The local climate is warm and semi-humid, supporting the cultivation of sorghum, maize, and cotton in the hinterlands. Recent infrastructural investments have sought to revive passenger and cargo ferry services across the lake to Kisumu and neighboring countries. Economics K6 — Lake economies and fishing.",
+      "factsAdvanced": [
+        "Located on the southern shores of Lake Victoria's Winam Gulf.",
+        "Serves as the administrative headquarters of Homa Bay County.",
+        "Mount Homa, a broad volcanic complex, is located 20 kilometers north.",
+        "Ruma National Park, known for roan antelopes, was gazetted in 1983.",
+        "The local economy relies heavily on the Nile perch and tilapia fishing industries.",
+        "Situated at an elevation of approximately 1,135 meters (3,724 feet).",
+        "The town's population was recorded at roughly 112,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "migori-cities-v2",
+      "descriptionAdvanced": "Migori is a bustling commercial center located in southwestern Kenya, positioned strategically just 20 kilometers from the Tanzanian border crossing at Isebania. The town sits at an elevation of 1,400 meters within the fertile Lake Victoria basin, facilitating robust agricultural production including sugarcane, tobacco, and maize. Migori developed rapidly in the late 20th century as a critical transit point for cross-border trade, fostering a highly cosmopolitan demographic comprising Luo, Kuria, and Kisii communities. The region has also seen significant artisanal gold mining activity along the Macalder greenstone belt, which heavily influences the local informal economy. The nearby Thimlich Ohinga, a remarkable 16th-century dry-stone walled settlement, adds immense historical gravity to the broader county landscape. Economics K7 — Border economies and artisanal mining.",
+      "factsAdvanced": [
+        "Located 20 kilometers from the Isebania border crossing into Tanzania.",
+        "Serves as the administrative capital of Migori County.",
+        "Situated at an altitude of approximately 1,400 meters (4,593 feet).",
+        "The region experiences significant artisanal gold mining along the Macalder belt.",
+        "The nearby Thimlich Ohinga archaeological site was built in the 16th century.",
+        "Cross-border commerce heavily drives the local retail and transport sectors.",
+        "The urban population reached approximately 100,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "kajiado-cities-v2",
+      "descriptionAdvanced": "Kajiado is the administrative heart of Kajiado County, positioned in the semi-arid plains south of Nairobi at an elevation of 1,700 meters. Evolving from a small railway stop on the Magadi branch line built in 1915 to transport soda ash, the town has deep roots in the pastoralist culture of the Maasai people, who have historically dominated the region. In recent decades, Kajiado has experienced rapid demographic expansion due to urban spillover from Nairobi, leading to a transition from pure pastoralism to mixed land-use and real estate development. Despite modernization, the town remains a critical livestock trading hub. The surrounding savannah landscape is characterized by acacia scrub and serves as a dispersal area for wildlife moving between the Amboseli and Nairobi national parks. Geography K6 — Urban sprawl and pastoralism.",
+      "factsAdvanced": [
+        "Grew as a station on the Magadi Railway line, completed in 1915.",
+        "Serves as the administrative headquarters of Kajiado County.",
+        "Located at an elevation of roughly 1,700 meters (5,577 feet).",
+        "A major cultural and administrative center for the Maasai people.",
+        "Experiences a semi-arid climate with distinct wet and dry seasons.",
+        "Functions as a major livestock trading market for the southern region.",
+        "The urban center had a population of approximately 24,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "wajir-cities-v2",
+      "descriptionAdvanced": "Situated in the deep arid heartland of Kenya's North Eastern Province, Wajir is an isolated yet crucial administrative and commercial hub. The settlement is geologically unique, built upon a limestone bed with a high water table that allows for numerous shallow wells, a feature that has made it a vital watering point for Somali pastoralists for centuries. Established formally as a colonial outpost in 1912, Wajir features distinctive architecture, including the Wajir Fort built in the 1920s and numerous whitewashed, dome-shaped structures adapted to the severe desert heat. The city's economy is almost entirely dependent on the livestock trade, particularly camels and goats. In 2016, the expansion of the Wajir Airport to handle commercial flights significantly reduced the town's geographic isolation. Earth Sciences K7 — Groundwater oases in deserts.",
+      "factsAdvanced": [
+        "Formally established as a colonial administrative post in 1912.",
+        "Built on a limestone plain featuring numerous shallow groundwater wells.",
+        "The historic Wajir Fort was constructed by the British in the 1920s.",
+        "Serves as the administrative headquarters for Wajir County.",
+        "Features a hot desert climate with extremely low annual rainfall.",
+        "Wajir Airport was upgraded to accommodate commercial civilian flights in 2016.",
+        "The town's population was recorded at approximately 90,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "narok-cities-v2",
+      "descriptionAdvanced": "Narok is the primary economic and administrative center of Narok County, positioned on the edge of the Great Rift Valley at an altitude of 1,827 meters. The town has evolved from a small trading outpost into a bustling commercial hub, serving as the essential gateway to the world-famous Maasai Mara National Reserve located to the southwest. Surrounded by expansive, fertile highlands, the local economy is a dual engine of massive wheat farming and robust tourism logistics. Culturally, it remains a vital nexus for the Maasai community, balancing rapid agricultural modernization with traditional pastoralist heritage. The town sits along the Enkare Narok river, which occasionally causes severe flash flooding due to heavy rains in the nearby Mau Escarpment. Economics K7 — Tourism gateways and agriculture.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters of Narok County.",
+        "Located at an altitude of approximately 1,827 meters (5,994 feet).",
+        "The primary urban gateway for tourists traveling to the Maasai Mara National Reserve.",
+        "A major national center for large-scale commercial wheat production.",
+        "Situated along the Enkare Narok river, originating from the Mau Forest.",
+        "Maasai Mara University, located in the town, was fully chartered in 2013.",
+        "The town recorded a population of roughly 119,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "lodwar-cities-v2",
+      "descriptionAdvanced": "Lodwar is the largest town in northwestern Kenya and serves as the administrative capital of the vast Turkana County. Located in a hyper-arid desert environment west of Lake Turkana, the settlement experiences extreme heat year-round and is defined by the ephemeral Turkwel River, which provides a critical green corridor of doum palms through the barren landscape. Originally established in 1933 as a remote colonial outpost, it later became infamous as the site where Jomo Kenyatta and other political leaders were detained in 1959 during the Mau Mau state of emergency. Today, Lodwar is a growing frontier town, its economy historically reliant on nomadic pastoralism and fishing from the lake, but recently energized by oil exploration in the nearby South Lokichar basin. History K8 — Political exile and frontier towns.",
+      "factsAdvanced": [
+        "Established as a British colonial outpost in 1933.",
+        "Jomo Kenyatta was detained here by colonial authorities in 1959.",
+        "Serves as the administrative headquarters for Turkana County.",
+        "Located near the ephemeral Turkwel River in a hot desert climate.",
+        "The nearby South Lokichar basin saw significant oil discoveries starting in 2012.",
+        "Lodwar Airport connects the remote region to Nairobi and Eldoret.",
+        "The urban population was recorded at approximately 82,000 in the 2019 census."
+      ]
+    }
+  ]
+}

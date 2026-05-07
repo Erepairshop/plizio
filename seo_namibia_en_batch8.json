@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sam-nujoma-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Sam Nujoma Stadium is a major sports and cultural landmark located in Katutura, Windhoek. Named after the founding President of Namibia, Sam Nujoma, the stadium was completed in 2005 at a cost of N$ 64 million. With a seating capacity of over 10,000, it is the premier venue for domestic football matches, including the Namibian Premier League, as well as significant political and cultural gatherings. Its location in Katutura—a township historically created by the apartheid regime—makes it a powerful symbol of modern, integrated Namibian civic life. Geography K7 — modern urban landmarks.",
+      "factsAdvanced": [
+        "Located in the historically significant Katutura township of Windhoek.",
+        "Named after Namibia's founding President, Sam Nujoma.",
+        "Officially completed in 2005 at a cost of N$ 64 million.",
+        "Features a seating capacity of approximately 10,300 spectators.",
+        "Premier venue for domestic football and large cultural events.",
+        "Constructed to bring high-quality facilities to previously marginalized areas."
+      ]
+    },
+    {
+      "id": "owambo-campaign-memorial-landmarks-v2",
+      "descriptionAdvanced": "The Owambo Campaign Memorial is a striking historical monument situated prominently in front of the Windhoek railway station. Erected in 1919, it commemorates the German Schutztruppe and South African troops who fought during the controversial Owambo Campaign of 1917, which sought to establish colonial control over the northern Owambo kingdoms. The memorial features a prominent bronze eagle perched atop an obelisk. Like many colonial-era monuments in Windhoek, its presence in the modern capital is debated, serving as a complex reminder of the violent pacification of northern Namibia. Geschichte K8 — colonial campaigns.",
+      "factsAdvanced": [
+        "Located in front of the Windhoek railway station.",
+        "Erected in 1919 to commemorate the 1917 Owambo Campaign.",
+        "Honors German and South African troops who fought in the north.",
+        "Features a prominent bronze eagle perched on a stone obelisk.",
+        "Represents the violent colonial pacification of the Owambo kingdoms.",
+        "Declared an official National Monument."
+      ]
+    },
+    {
+      "id": "kapps-hotel-luderitz-landmarks-v2",
+      "descriptionAdvanced": "Kapps Hotel in Lüderitz is one of the oldest and most historically significant hotels in Namibia. Built in 1907 during the very beginning of the diamond boom, the hotel served as a primary social and business hub for prospectors, mining executives, and German colonial officials. Its classic colonial architecture, featuring deep verandas and robust stonework, provided a luxurious refuge from the harsh, windswept desert environment. Today, it remains a fully functioning hotel, offering tourists an authentic glimpse into the opulent, chaotic early days of the Lüderitz diamond rush. Geschichte K8 — boomtown hospitality.",
+      "factsAdvanced": [
+        "One of the oldest functioning hotels in Namibia.",
+        "Constructed in 1907 at the start of the Lüderitz diamond boom.",
+        "Served as a primary social hub for early diamond prospectors.",
+        "Features classic German colonial architecture and deep verandas.",
+        "Provided a luxurious refuge from the harsh coastal climate.",
+        "Still operates today as a prominent historic tourist hotel."
+      ]
+    },
+    {
+      "id": "walvis-bay-pelican-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "The Pelican Point Lighthouse is a crucial navigational landmark located on the remote tip of the Pelican Point sand spit, protecting the Walvis Bay harbor. Constructed in 1932 by the South African administration, the 34-meter-high tower warns shipping traffic away from the treacherous sandbanks of the Skeleton Coast. Uniquely, the lighthouse was built using cast iron to withstand the highly corrosive, salt-laden sea fog. Today, the isolated area surrounding the lighthouse is famous for its massive Cape fur seal colony and serves as a remote, luxury tourist lodge. Geography K7 — coastal navigation.",
+      "factsAdvanced": [
+        "Located on the remote tip of the Pelican Point sand spit.",
+        "Constructed in 1932 by the South African administration.",
+        "The distinctive black and white tower stands 34 meters tall.",
+        "Built from cast iron to resist extreme coastal corrosion.",
+        "Surrounded by a massive, noisy Cape fur seal colony.",
+        "Currently functions as both an active lighthouse and a luxury lodge."
+      ]
+    },
+    {
+      "id": "keetmanshoop-railway-station-landmarks-v2",
+      "descriptionAdvanced": "The Keetmanshoop Railway Station is an iconic historical landmark in southern Namibia, built in 1908 by the German colonial administration. Serving as the primary railway junction between Windhoek and Lüderitz, the station was critical for transporting troops, supplies, and eventually, diamonds across the vast, arid interior. The building features an elegant, sprawling colonial design with high ceilings and extensive shaded platforms to combat the intense southern heat. It remains an active station today, serving both freight and the luxury Desert Express passenger train. Geschichte K8 — colonial railway infrastructure.",
+      "factsAdvanced": [
+        "Located in the southern regional capital of Keetmanshoop.",
+        "Constructed in 1908 by the German colonial administration.",
+        "Served as a critical railway junction for Windhoek and Lüderitz.",
+        "Features an elegant colonial design with extensive shaded platforms.",
+        "Essential for transporting troops and supplies across the arid interior.",
+        "Remains an active station for freight and passenger trains."
+      ]
+    },
+    {
+      "id": "rhenish-mission-church-walvis-bay-landmarks-v2",
+      "descriptionAdvanced": "The Rhenish Mission Church is the oldest surviving building in Walvis Bay, making it a critical historical landmark. Because building materials were incredibly scarce in the desert environment, the entire timber structure was prefabricated in Hamburg, Germany, shipped to Africa, and assembled on-site in 1880. Situated near the bustling modern harbor, the stark wooden church provides a sharp contrast to the surrounding industrial development. It served the local coastal community for decades before being declared a National Monument in 1972, preserving its unique architectural heritage. Geschichte K8 — prefabricated colonial architecture.",
+      "factsAdvanced": [
+        "The oldest surviving building in the coastal city of Walvis Bay.",
+        "The entire timber structure was prefabricated in Hamburg, Germany.",
+        "Shipped to Africa and fully assembled on-site in 1880.",
+        "Built entirely from wood due to the lack of local building materials.",
+        "Declared an official Namibian National Monument in 1972.",
+        "Stands in stark contrast to the modern industrial harbor."
+      ]
+    },
+    {
+      "id": "katutura-state-hospital-landmarks-v2",
+      "descriptionAdvanced": "The Katutura State Hospital is a massive, sprawling medical facility and a major civic landmark in Windhoek. Built in 1973 by the South African administration to serve the segregated black population of Katutura township, the hospital is one of the largest public healthcare facilities in the country. Following independence, it was integrated into the national health system. Today, it operates as a critical teaching hospital and the primary public healthcare provider for the majority of Windhoek's residents, standing as a vital, if overburdened, pillar of Namibian society. Geography K7 — civic infrastructure.",
+      "factsAdvanced": [
+        "One of the largest public medical facilities in Namibia.",
+        "Located in the historically significant Katutura township.",
+        "Constructed in 1973 during the apartheid era.",
+        "Serves as the primary public healthcare provider for Windhoek.",
+        "Functions as a critical national teaching hospital.",
+        "Operates alongside the nearby Windhoek Central Hospital."
+      ]
+    },
+    {
+      "id": "trans-namib-transport-museum-landmarks-v2",
+      "descriptionAdvanced": "The Trans-Namib Transport Museum is housed in the beautiful, historic Windhoek Railway Station building, which was constructed in 1912. The museum is a fascinating landmark dedicated entirely to the history of transportation in Namibia, a country where vast distances make logistics incredibly challenging. The museum features extensive collections of historic railway equipment, original telecommunications gear, and the famous 'Poor Old Joe', a narrow-gauge steam locomotive from 1899 parked out front. It offers a deep dive into the engineering feats that connected the remote corners of the nation. Sachkunde K3 — transportation history.",
+      "factsAdvanced": [
+        "Housed in the historic Windhoek Railway Station, built in 1912.",
+        "Dedicated to the comprehensive history of Namibian transportation.",
+        "Features extensive collections of colonial railway and telecom equipment.",
+        "The famous 1899 steam locomotive 'Poor Old Joe' is displayed outside.",
+        "Highlights the engineering challenges of crossing the Namib Desert.",
+        "Operated by TransNamib, the national railway parastatal."
+      ]
+    },
+    {
+      "id": "namibia-etosha-animal-habitat-life-v2",
+      "descriptionAdvanced": "Etosha National Park is Namibia's premier wildlife sanctuary, covering over 22,000 square kilometers in the northern part of the country. The park is dominated by the massive Etosha Pan, a blindingly white salt depression that is visible from space. The surrounding mopane woodland and savanna support an extraordinary concentration of wildlife, including four of the 'Big Five'. The park's numerous natural and artificial waterholes draw massive herds of elephants, lions, and the highly endangered black rhinoceros, making it one of the most accessible and spectacular wildlife viewing destinations globally. Sachkunde K3 — savanna ecosystems.",
+      "factsAdvanced": [
+        "Covers an immense area of over 22,000 square kilometers.",
+        "Dominated by the massive, brilliantly white Etosha salt pan.",
+        "Home to four of the famous 'Big Five' African species.",
+        "Famous for incredible wildlife concentrations around dry-season waterholes.",
+        "Provides critical sanctuary for the endangered black rhinoceros.",
+        "Proclaimed as a game reserve in 1907, making it one of Africa's oldest."
+      ]
+    },
+    {
+      "id": "namibia-namib-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Namib-Naukluft National Park encompasses a vast swathe of the Namib Desert, the oldest desert on Earth. This hyper-arid habitat is famous for its towering red sand dunes at Sossusvlei and the haunting, dead acacia trees of Deadvlei. Despite receiving less than 50mm of rain annually, the desert supports a surprising variety of specialized life. Animals like the gemsbok (oryx), springbok, and the unique fog-basking Tok-Tokkie beetle survive by extracting moisture from the thick, cold coastal fog that rolls in from the Atlantic Ocean. Sachkunde K3 — desert adaptation.",
+      "factsAdvanced": [
+        "Encompasses a massive portion of the world's oldest desert.",
+        "Features the towering, iconic red sand dunes of Sossusvlei.",
+        "Home to the famous, dead acacia trees of the Deadvlei pan.",
+        "Receives less than 50 millimeters of rainfall annually.",
+        "Animals survive by utilizing moisture from dense coastal fog.",
+        "Supports highly adapted species like the gemsbok and Tok-Tokkie beetle."
+      ]
+    },
+    {
+      "id": "namibia-waterberg-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Waterberg Plateau Park is an elevated, sheer-sided sandstone plateau rising 200 meters above the surrounding plains in the Otjozondjupa Region. Because the plateau is largely inaccessible from the bottom, it was designated as a sanctuary for rare and endangered species in 1972. The park features a remarkably lush, subtropical ecosystem on top, contrasting with the dry plains below. It is a critical breeding ground for white and black rhinos, disease-free buffalo, and sable antelope, successfully protecting these vulnerable populations from widespread poaching. Sachkunde K3 — protected plateau ecosystems.",
+      "factsAdvanced": [
+        "A sheer-sided sandstone plateau rising 200 meters above the plains.",
+        "Designated as a sanctuary for endangered species in 1972.",
+        "Features a surprisingly lush, subtropical ecosystem on the plateau.",
+        "Critical breeding ground for white and black rhinoceroses.",
+        "Protects disease-free Cape buffalo and sable antelope.",
+        "The steep cliffs naturally deter poachers from accessing the top."
+      ]
+    },
+    {
+      "id": "namibia-cape-cross-animal-habitat-life-v2",
+      "descriptionAdvanced": "The Cape Cross Seal Reserve is a small but incredibly significant coastal habitat located along the Skeleton Coast north of Swakopmund. It is home to one of the largest breeding colonies of Cape fur seals in the world. During the breeding season in November and December, the rocky shoreline is packed with up to 200,000 seals, creating a chaotic, deafening, and uniquely pungent natural spectacle. The nutrient-rich Benguela Current provides the massive amounts of fish necessary to sustain this enormous marine predator population. Sachkunde K3 — marine predator colonies.",
+      "factsAdvanced": [
+        "Located on the rugged Skeleton Coast north of Swakopmund.",
+        "Home to one of the world's largest Cape fur seal colonies.",
+        "Can host up to 200,000 seals during the peak breeding season.",
+        "Supported entirely by fish from the cold, nutrient-rich Benguela Current.",
+        "Also the historical site where explorer Diogo Cão landed in 1486.",
+        "Attracts numerous predators, including brown hyenas and jackals."
+      ]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "descriptionAdvanced": "The Hardap Region in southern Namibia is a major agricultural hub, driven almost entirely by the presence of the massive Hardap Dam on the Fish River. The dam, completed in 1963, provides critical irrigation water to an otherwise arid landscape. This allows for the extensive cultivation of lucerne (alfalfa), maize, and high-value export crops like dates and melons. Beyond irrigation, the wider region is the national center for Karakul sheep farming, producing high-quality pelts (Swakara) that are exported globally for the luxury fashion industry. Geography K7 — irrigation and livestock.",
+      "factsAdvanced": [
+        "Agriculture is heavily reliant on irrigation from the Hardap Dam.",
+        "The dam was completed on the Fish River in 1963.",
+        "Allows for the cultivation of lucerne, maize, dates, and melons.",
+        "The wider region is the national center for Karakul sheep farming.",
+        "Produces high-quality Swakara pelts for the luxury fashion industry.",
+        "Transforms a hyper-arid desert into a productive agricultural zone."
+      ]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "descriptionAdvanced": "The agricultural area surrounding Tsumeb, often referred to as part of the 'Otavi Triangle', is one of the most fertile and productive regions in Namibia. Unlike the arid south and coast, this area receives significantly higher annual rainfall and features rich, deep soils. The region is primarily characterized by extensive dryland crop farming, focusing heavily on white maize, which is the staple food of the nation, as well as sorghum and sunflowers. The strong agricultural output makes Tsumeb a crucial contributor to Namibia's national food security. Geography K7 — dryland crop farming.",
+      "factsAdvanced": [
+        "Forms a crucial part of the highly fertile 'Otavi Triangle'.",
+        "Receives significantly higher rainfall than the national average.",
+        "Features rich soils highly suited for dryland crop farming.",
+        "A major national producer of white maize, the staple food.",
+        "Also cultivates significant quantities of sorghum and sunflowers.",
+        "Crucial for reducing Namibia's reliance on imported staple grains."
+      ]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "descriptionAdvanced": "Gobabis and the surrounding Omaheke Region are universally recognized as the heartland of Namibia's cattle farming industry, often referred to as 'Cattle Country'. The expansive, flat savanna provides ideal grazing conditions for massive herds of commercial beef cattle, particularly the hardy Brahman and Brahman-cross breeds. The local economy is entirely structured around livestock, with regular massive cattle auctions and a thriving meat processing sector. The region supplies a vast portion of the premium, free-range beef that Namibia exports to Europe and China. Geography K7 — commercial beef production.",
+      "factsAdvanced": [
+        "Universally recognized as the 'Cattle Country' of Namibia.",
+        "Located in the flat, expansive savanna of the Omaheke Region.",
+        "Provides ideal grazing for massive commercial beef cattle herds.",
+        "Focuses heavily on breeding hardy Brahman and Brahman-cross cattle.",
+        "Hosts regular, massive cattle auctions that drive the local economy.",
+        "Supplies premium free-range beef for lucrative international export."
+      ]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "descriptionAdvanced": "The Tintenpalast Gardens, officially known as the Parliament Gardens, are a beloved landmark and recreational space for families and children in central Windhoek. Surrounding the historic Parliament building, these beautifully manicured, expansive green lawns offer a stark, refreshing contrast to the dry hills surrounding the capital. The gardens feature large, shady trees, colorful flower beds, and a prominent bowling green. It is highly popular on weekends for family picnics, wedding photography, and children playing, serving as a peaceful, safe civic oasis in the busy city. Sachkunde K3 — urban green spaces.",
+      "factsAdvanced": [
+        "Officially known as the Parliament Gardens in central Windhoek.",
+        "Surrounds the historic Tintenpalast (Namibian Parliament).",
+        "Features beautifully manicured, expansive green lawns and shade trees.",
+        "Provides a lush, green contrast to the arid hills of the capital.",
+        "A highly popular weekend destination for family picnics.",
+        "Considered a safe, peaceful civic oasis for Windhoek residents."
+      ]
+    },
+    {
+      "id": "namibia-swakopmund-kid-landmark-life-v2",
+      "descriptionAdvanced": "The National Marine Aquarium of Namibia in Swakopmund is a premier educational and entertaining landmark for children. Situated right on the Atlantic coastline, it provides an immersive look into the rich, cold-water ecosystem of the Benguela Current. The centerpiece is a massive main tank featuring a walk-through acrylic tunnel, allowing kids to see large ragged-tooth sharks, rays, and green turtles swimming directly overhead. The aquarium focuses heavily on educating the youth about marine conservation and the economic importance of Namibia's sustainable fishing industry. Sachkunde K3 — marine education.",
+      "factsAdvanced": [
+        "Located directly on the Atlantic coastline in Swakopmund.",
+        "Focuses on the marine life of the cold, nutrient-rich Benguela Current.",
+        "Features a massive main tank with a walk-through acrylic viewing tunnel.",
+        "Visitors can view ragged-tooth sharks, rays, and green turtles.",
+        "A premier educational destination focusing on marine conservation.",
+        "Highlights the importance of Namibia's sustainable fishing sector."
+      ]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "descriptionAdvanced": "The Okahandja Mbangura Woodcarvers Market is a vibrant, bustling landmark that offers children an incredible, hands-on look at traditional Namibian craftsmanship. Located alongside the main B1 highway, it is one of the largest craft markets in the country. Children can watch local artisans actively carving massive blocks of dolfwood and kiaat into intricate giraffes, elephants, and traditional masks. The market serves as an interactive cultural experience, teaching kids about indigenous art forms, the sustainable use of local timber, and the bustling informal economy. Sachkunde K3 — traditional crafts.",
+      "factsAdvanced": [
+        "Located alongside the main B1 highway in Okahandja.",
+        "One of the largest traditional craft markets in Namibia.",
+        "Artisans actively carve wood on-site, offering a hands-on experience.",
+        "Features intricate carvings of wildlife like giraffes and elephants.",
+        "Utilizes local hardwoods such as dolfwood and kiaat.",
+        "Provides an interactive lesson on indigenous art and informal trade."
+      ]
+    },
+    {
+      "id": "namibia-bwabwata-animal-habitat-life-v2",
+      "descriptionAdvanced": "Bwabwata National Park is a unique, deeply lush animal habitat located in the Zambezi and Kavango East regions, stretching across the narrow Caprivi Strip. Unlike most of Namibia, this park features dense tropical riverine forests and vast floodplains, bordered by the Okavango and Kwando rivers. The park acts as a crucial migratory corridor for thousands of elephants moving between Angola, Botswana, and Zambia. It is also uniquely designated as a 'multiple use area', meaning it integrates wildlife conservation with the traditional settlements of the local Khwe San communities. Sachkunde K3 — riverine ecosystems.",
+      "factsAdvanced": [
+        "Located in the narrow, tropical Caprivi Strip region.",
+        "Features dense riverine forests and vast, seasonal floodplains.",
+        "Bordered by the major Okavango and Kwando rivers.",
+        "A critical migratory corridor for thousands of African elephants.",
+        "Designated as a 'multiple use area' integrating human settlements.",
+        "Supports traditional communities like the local Khwe San people."
+      ]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "descriptionAdvanced": "Mudumu National Park is a wild, unfenced wilderness area centered on the Kwando River in the Zambezi Region. Characterized by dense mopane woodlands and expansive riverine swamps, the habitat is entirely different from the deserts of southern Namibia. The park is renowned for its massive, roaming herds of buffalo and elephants, as well as a high density of predators including lions, leopards, and African wild dogs. Because the park is unfenced, wildlife moves freely between Namibia and neighboring Botswana, making it a vital component of the massive Kavango-Zambezi Transfrontier Conservation Area. Sachkunde K3 — transfrontier conservation.",
+      "factsAdvanced": [
+        "Centered around the Kwando River in the lush Zambezi Region.",
+        "Features dense mopane woodlands and expansive riverine swamps.",
+        "Renowned for massive, roaming herds of Cape buffalo and elephants.",
+        "Completely unfenced, allowing free wildlife movement into Botswana.",
+        "A vital part of the Kavango-Zambezi Transfrontier Conservation Area.",
+        "Supports high densities of predators like lions and African wild dogs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ly-ptolemais-history-v2",
+    "name": "Ptolemais",
+    "desc": "An ancient city founded by the Egyptian Ptolemies, rich in large Hellenistic palaces."
+  },
+  {
+    "id": "ly-tocra-history-v2",
+    "name": "Taucheira (Tocra)",
+    "desc": "One of the five ancient cities of Cyrenaica, surrounded by strong Byzantine walls."
+  },
+  {
+    "id": "ly-ghadames-old-town-history-v2",
+    "name": "Ghadames Old Town",
+    "desc": "Known as the pearl of the desert, the city is distinguished by its traditional mud-brick architecture and covered alleys."
+  },
+  {
+    "id": "ly-marcus-aurelius-arch-history-v2",
+    "name": "Arch of Marcus Aurelius",
+    "desc": "A Roman triumphal arch in Tripoli, the only surviving Roman monument in the city."
+  },
+  {
+    "id": "ly-red-castle-history-v2",
+    "name": "Red Castle (Assaraya al-Hamra)",
+    "desc": "A massive fortress in Tripoli with a rich history spanning Ottoman and Spanish periods."
+  },
+  {
+    "id": "ly-tadrart-acacus-history-v2",
+    "name": "Tadrart Acacus",
+    "desc": "A desert area containing prehistoric rock art that shows environmental and lifestyle changes."
+  },
+  {
+    "id": "ly-germa-history-v2",
+    "name": "Germa (Garama)",
+    "desc": "The ancient capital of the Garamantes, a people who controlled the Saharan trade routes in antiquity."
+  },
+  {
+    "id": "ly-slonta-history-v2",
+    "name": "Sanctuary of Slonta",
+    "desc": "A mysterious pre-Islamic temple featuring unique, grotesque sculptures carved into the rock."
+  },
+  {
+    "id": "ly-villa-silin-history-v2",
+    "name": "Villa Silin",
+    "desc": "A luxurious Roman coastal villa near Leptis Magna featuring well-preserved mosaics and frescoes."
+  },
+  {
+    "id": "ly-qasr-libya-history-v2",
+    "name": "Qasr Libya",
+    "desc": "Site of Byzantine ruins famous for a Byzantine church containing fantastic floor mosaics."
+  },
+  {
+    "id": "ly-tripoli-medina-history-v2",
+    "name": "Medina of Tripoli",
+    "desc": "The walled historical heart of Tripoli, featuring traditional souks, old mosques, and narrow alleys."
+  },
+  {
+    "id": "ly-gharyan-troglodyte-history-v2",
+    "name": "Gharyan Troglodyte Caves",
+    "desc": "Underground houses dug into the mountains, used for centuries for protection against extreme desert heat."
+  },
+  {
+    "id": "ly-zawiya-jaghbub-history-v2",
+    "name": "Zawiya of Al Jaghbub",
+    "desc": "Former center of the Senussi order in the desert, an important historical and religious site."
+  },
+  {
+    "id": "ly-fort-capuzzo-history-v2",
+    "name": "Fort Capuzzo",
+    "desc": "An Italian WWII fort on the border with Egypt, site of numerous military engagements."
+  },
+  {
+    "id": "ly-tobruk-war-cemetery-history-v2",
+    "name": "Tobruk War Cemetery",
+    "desc": "A memorial for Allied soldiers who fell during the Siege of Tobruk in World War II."
+  },
+  {
+    "id": "ly-malta-castle-history-v2",
+    "name": "Knights of Malta Castle",
+    "desc": "Remains of the short-lived fortifications of the Knights Hospitaller in Tripoli before the Ottoman conquest."
+  },
+  {
+    "id": "ly-murzuq-fort-history-v2",
+    "name": "Murzuq Old Fort",
+    "desc": "A ruin of a massive Ottoman fort in the Fezzan, once a key bastion for trans-Saharan caravans."
+  },
+  {
+    "id": "ly-awjila-mosque-history-v2",
+    "name": "Awjila Old Mosque",
+    "desc": "One of the oldest mosques in the Sahara, famous for its unusual conical domes."
+  },
+  {
+    "id": "ly-gurgi-mosque-history-v2",
+    "name": "Gurgi Mosque",
+    "desc": "A beautifully decorated mosque in the heart of Tripoli, famous for its tile and marble work."
+  },
+  {
+    "id": "ly-karamanli-mosque-history-v2",
+    "name": "Karamanli Mosque",
+    "desc": "An Ottoman mosque in Tripoli with fine stucco decorations, built by Ahmed Karamanli."
+  },
+  {
+    "id": "ly-al-naga-mosque-history-v2",
+    "name": "Al-Naga Mosque",
+    "desc": "One of the oldest mosques in North Africa, rebuilt in 1610 following a fire."
+  },
+  {
+    "id": "ly-bir-hakeim-history-v2",
+    "name": "Bir Hakeim Battlefield",
+    "desc": "The site of a significant WWII battle where Free French forces heroically stood their ground."
+  },
+  {
+    "id": "ly-hospitaller-fort-benghazi-history-v2",
+    "name": "Hospitaller Fort (Benghazi)",
+    "desc": "Historical fort remains in Benghazi associated with the knightly orders and Ottoman rule."
+  }
+]

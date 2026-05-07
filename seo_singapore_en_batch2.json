@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "singapore",
+  "files": [
+    "lib/visualLab/data/poiExtraSingaporeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeLifeV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeNatureV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marine-parade-cities-v2",
+      "descriptionAdvanced": "Marine Parade is an upscale and well-established residential area in the Central Region of Singapore, famous for its coastal living and proximity to East Coast Park. It was the first housing estate to be built entirely on reclaimed land, a testament to Singapore's innovative land reclamation efforts. The town center features Marine Parade Central, with numerous shops and the Marine Parade Public Library. One of its key landmarks is the Parkway Parade shopping mall, a major retail destination for the East Coast. Marine Parade is also known for its strong community spirit and has been represented by several prominent political figures. Its location along the southeastern coast offers residents scenic views and easy access to recreational activities such as cycling, jogging, and water sports at the nearby beach.",
+      "factsAdvanced": [
+        "First housing estate in Singapore built entirely on reclaimed land.",
+        "Land reclamation for the area began in the 1960s.",
+        "Home to Parkway Parade, one of the oldest suburban shopping malls.",
+        "Bounded by East Coast Park to the south.",
+        "Known for its proximity to Katong, a center for Peranakan culture.",
+        "Marine Parade Public Library is a major community landmark.",
+        "Represented by Singapore's second Prime Minister, Goh Chok Tong.",
+        "The area is served by the Thomson-East Coast Line."
+      ]
+    },
+    {
+      "id": "sentosa-island-cities-v2",
+      "descriptionAdvanced": "Sentosa Island is Singapore's premier island resort getaway, located just off the southern coast. Once a British military base known as Pulau Blakang Mati, it was renamed Sentosa, meaning 'peace and tranquility' in Malay, and transformed into a world-class tourism destination. The island features three sandy beaches—Siloso, Palawan, and Tanjong—and numerous attractions including Universal Studios Singapore, S.E.A. Aquarium, and Adventure Cove Waterpark. Sentosa is also home to several high-end resorts, luxury residences at Sentosa Cove, and the award-winning Tanjong and Serapong golf courses. Visitors can access the island via the Sentosa Express monorail, a cable car ride, or a scenic walk across the Sentosa Boardwalk. With its blend of nature, adventure, and entertainment, Sentosa is a must-visit for both locals and international tourists.",
+      "factsAdvanced": [
+        "Name means 'peace and tranquility' in the Malay language.",
+        "Formerly a British military fortress known as Pulau Blakang Mati.",
+        "Home to Universal Studios Singapore, which opened in 2010.",
+        "Features the S.E.A. Aquarium, one of the world's largest aquariums.",
+        "Sentosa Cove is a prestigious waterfront residential enclave.",
+        "Connected to mainland Singapore by a monorail and cable car.",
+        "The island has a total area of about 5 square kilometers.",
+        "Hosted the historic 2018 North Korea–United States summit."
+      ]
+    },
+    {
+      "id": "orchard-road-cities-v2",
+      "descriptionAdvanced": "Orchard Road is Singapore's iconic shopping belt and a world-renowned retail and entertainment destination. Originally an area for fruit orchards, nutmeg plantations, and pepper farms in the 1830s, it has evolved into a 2.2-kilometer-long boulevard lined with mega-malls, flagship stores, and luxury hotels. Key landmarks include ION Orchard, Ngee Ann City (Takashimaya), and Paragon. Beyond shopping, Orchard Road offers a diverse range of dining options, from Michelin-starred restaurants to local food courts. The area is also famous for its annual Christmas light-up, which transforms the street into a festive wonderland. Despite its commercial nature, Orchard Road features green pockets like the Istana, the official residence of the President of Singapore. Its vibrant energy and constant evolution make it the heartbeat of Singapore's lifestyle scene.",
+      "factsAdvanced": [
+        "Originally named after the fruit and nutmeg orchards that lined it.",
+        "Evolved into a shopping district starting in the late 1950s.",
+        "Home to the Istana, the official residence of Singapore's President.",
+        "ION Orchard is a landmark mall with a distinctive futuristic design.",
+        "Ngee Ann City is one of the largest shopping malls in the district.",
+        "The street is approximately 2.2 kilometers long.",
+        "Features the annual 'Christmas on A Great Street' light-up event.",
+        "Served by the Orchard, Somerset, and Dhoby Ghaut MRT stations."
+      ]
+    },
+    {
+      "id": "chinatown-cities-v2",
+      "descriptionAdvanced": "Chinatown is a historic and culturally rich district in Singapore's Central Region, reflecting the heritage of the early Chinese immigrants. The area is characterized by its well-preserved shophouses, traditional medicine halls, and bustling street markets. Key attractions include the Buddha Tooth Relic Temple and Museum, the Sri Mariamman Temple (Singapore's oldest Hindu temple), and the Jamae Mosque, showcasing the district's religious diversity. Chinatown is a haven for food lovers, with the Chinatown Complex Food Centre and Maxwell Food Centre offering legendary local dishes like Hainanese chicken rice and laksa. The district comes alive during the Lunar New Year with festive lights and markets. Modern Chinatown also features trendy bars and boutiques, blending its historic charm with contemporary lifestyle, making it a vibrant destination for all visitors.",
+      "factsAdvanced": [
+        "Known as 'Niu Che Shui' (Bullock Cart Water) in Mandarin.",
+        "Home to Sri Mariamman Temple, the oldest Hindu temple in Singapore.",
+        "The Buddha Tooth Relic Temple is a major landmark built in 2007.",
+        "Chinatown Heritage Centre offers insights into early migrant life.",
+        "Maxwell Food Centre is home to the world-famous Tian Tian Chicken Rice.",
+        "The area was designated for Chinese settlers in the 1822 Raffles Plan.",
+        "Features a mix of Buddhist, Hindu, and Islamic places of worship.",
+        "Chinatown MRT is a major interchange on the North East and Downtown lines."
+      ]
+    },
+    {
+      "id": "little-india-cities-v2",
+      "descriptionAdvanced": "Little India is a vibrant and colorful ethnic district in Singapore, serving as the heart of the Indian community. Originally a site for cattle trading and lime kilns, it has developed into a bustling neighborhood filled with the aroma of spices and the sound of Bollywood music. The main thoroughfare, Serangoon Road, is lined with traditional shops selling flower garlands, silk sarees, and intricate jewelry. Key landmarks include the Sri Veeramakaliamman Temple, the Abdul Gafoor Mosque, and the colorful house of Tan Teng Niah. Little India is also a culinary hotspot, offering a wide range of authentic Indian cuisines at places like Tekka Centre and Komala Vilas. During the Deepavali festival, the district is transformed with spectacular lights and decorations, celebrating the triumph of light over darkness and showcasing Singapore's multicultural spirit.",
+      "factsAdvanced": [
+        "Serangoon Road is one of the oldest roads in Singapore.",
+        "Home to Sri Veeramakaliamman Temple, dedicated to the goddess Kali.",
+        "The house of Tan Teng Niah is the last surviving Chinese villa in the area.",
+        "Tekka Centre is a major wet market and food center for the community.",
+        "Mustafa Centre is a famous 24-hour shopping mall in the district.",
+        "Historically associated with the cattle and buffalo trade.",
+        "Deepavali is the biggest festival celebrated in Little India.",
+        "Served by the Little India and Farrer Park MRT stations."
+      ]
+    },
+    {
+      "id": "kampong-glam-cities-v2",
+      "descriptionAdvanced": "Kampong Glam is a historic district in Singapore, originally designated for the Malay, Bugis, and Arab communities. It was once the seat of the Malay royalty, with the Istana Kampong Glam serving as the sultan's palace. Today, the palace houses the Malay Heritage Centre, which showcases the rich culture and history of the Malay community. The Sultan Mosque, with its iconic golden domes, is the centerpiece of the district and one of Singapore's most important religious landmarks. The area is famous for its eclectic mix of traditional shops on Arab Street and trendy cafes and boutiques on Haji Lane. Visitors can find high-quality textiles, perfumes, and authentic Middle Eastern and Malay cuisine. Kampong Glam's unique blend of heritage and modern creativity makes it one of Singapore's most atmospheric and popular neighborhoods.",
+      "factsAdvanced": [
+        "Name is derived from the Gelam tree that once grew in the area.",
+        "Home to the Sultan Mosque, completed in its current form in 1932.",
+        "The Istana Kampong Glam was built for Sultan Hussein Shah in 1840.",
+        "Malay Heritage Centre provides a deep dive into Malay history.",
+        "Haji Lane is one of Singapore's narrowest and trendiest streets.",
+        "Arab Street is renowned for its high-quality fabrics and textiles.",
+        "Designated as a conservation area in 1989.",
+        "Served by the Bugis and Jalan Besar MRT stations."
+      ]
+    },
+    {
+      "id": "bukit-timah-cities-v2",
+      "descriptionAdvanced": "Bukit Timah is an affluent and prestigious residential area in Singapore, known for its lush greenery and high-quality living environment. It is home to the Bukit Timah Hill, the highest natural point in Singapore, located within the Bukit Timah Nature Reserve. The district is characterized by its low-density housing, including numerous Good Class Bungalows and luxury condominiums. Bukit Timah is also an educational hub, hosting top schools like Hwa Chong Institution and National Junior College. The area offers a mix of urban convenience and nature, with the Singapore Botanic Gardens nearby and the Rail Corridor providing a scenic trail for outdoor enthusiasts. Shopping and dining options abound at places like Beauty World, Bukit Timah Plaza, and various cafes along Bukit Timah Road. Its central location and serene atmosphere make it one of Singapore's most desirable residential enclaves.",
+      "factsAdvanced": [
+        "Home to Bukit Timah Hill, the highest point in Singapore (163m).",
+        "Contains the Bukit Timah Nature Reserve, established in 1883.",
+        "The name means 'Tin Hill' in Malay, although tin was never found.",
+        "Features numerous Good Class Bungalows (GCB), Singapore's rarest homes.",
+        "A major educational belt with several elite schools.",
+        "The historic Bukit Timah Railway Station is a key landmark.",
+        "Served by the Downtown Line and future Cross Island Line.",
+        "Known for its high density of greenery and secondary forests."
+      ]
+    },
+    {
+      "id": "serangoon-cities-v2",
+      "descriptionAdvanced": "Serangoon is a mature and vibrant residential town in the North-East Region of Singapore, with a rich history and a strong community feel. Its name is believed to be derived from the 'burung serangoon,' a type of stork that once populated the area. The town is home to the NEX shopping mall, one of the largest suburban malls in Singapore, which is integrated with a major transport interchange. Serangoon is also famous for its 'Little India' feel in the Serangoon Gardens area, which features the popular Chomp Chomp Food Centre and myVillage mall. The town offers a mix of housing, from HDB flats to private landed estates. It is well-connected by the North-East and Circle MRT lines. With its wide range of amenities, reputable schools, and diverse food options, Serangoon is a highly popular and self-contained town for families and individuals alike.",
+      "factsAdvanced": [
+        "Name likely comes from the 'burung serangoon' (small white stork).",
+        "NEX mall is the largest shopping center in North-East Singapore.",
+        "Serangoon Gardens is a historic private residential estate.",
+        "Chomp Chomp Food Centre is a legendary spot for late-night local food.",
+        "Served by the Serangoon MRT interchange (North-East and Circle lines).",
+        "The town was a center for early Indian and Chinese settlers.",
+        "Features Serangoon Sunshine Park and various community spaces.",
+        "Home to the Australian International School Singapore."
+      ]
+    },
+    {
+      "id": "downtown-core-cities-v2",
+      "descriptionAdvanced": "The Downtown Core is the historic heart and the modern financial center of Singapore, located in the Central Region. It encompasses the Central Business District (CBD) and is home to the headquarters of numerous multinational corporations and financial institutions. The area is characterized by its impressive skyline of skyscrapers, including the UOB Plaza, OUB Centre, and Marina Bay Sands. The Downtown Core also features significant cultural and historical landmarks such as the Padang, the National Gallery Singapore, and the Victoria Theatre and Concert Hall. It is a hub for high-end dining, luxury hotels, and entertainment, with Marina Bay serving as a focal point for events like the Formula 1 Singapore Grand Prix. The district seamlessly blends modern commerce with historical heritage, representing Singapore's status as a leading global city and a dynamic urban center.",
+      "factsAdvanced": [
+        "The economic and financial heart of Singapore.",
+        "Includes the historic Raffles Place, named after Singapore's founder.",
+        "Home to the National Gallery Singapore, housed in former civic buildings.",
+        "Marina Bay Sands is the district's most iconic modern landmark.",
+        "The Padang was the site of the first National Day Parade in 1966.",
+        "Hosted the world's first Formula 1 night race around its streets.",
+        "Features the Merlion Park, home to Singapore's national icon.",
+        "Served by multiple MRT stations including Raffles Place, Downtown, and Bayfront."
+      ]
+    },
+    {
+      "id": "sembawang-cities-v2",
+      "descriptionAdvanced": "Sembawang is a residential and industrial town located in the North Region of Singapore, with a strong naval heritage. Its name is derived from the Sembawang tree (Kayea ferruginea). The town was historically the site of the Sembawang Naval Base, one of the most important British naval bases in the Far East. Today, this heritage is reflected in the Sembawang Park and the Beaulieu House, a former colonial residence. Sembawang offers a mix of modern HDB estates and private housing. Key amenities include the Sun Plaza shopping mall and the Sembawang Public Library. The town is also known for its Sembawang Hot Spring Park, the only natural hot spring on mainland Singapore. With its coastal location, Sembawang provides a peaceful and green environment, while continuing to develop as a self-sufficient town with improved connectivity and new community facilities.",
+      "factsAdvanced": [
+        "Named after the Sembawang tree (Kayea ferruginea).",
+        "Historically the site of the British Sembawang Naval Base.",
+        "Home to Sembawang Hot Spring Park, Singapore's only natural hot spring.",
+        "Sembawang Park features a tranquil beach and historical relics.",
+        "The Beaulieu House is a preserved colonial building within the park.",
+        "Served by the Sembawang MRT station on the North-South Line.",
+        "Sembawang Shipyard is a major maritime repair facility in the area.",
+        "The town features many 'Black and White' colonial bungalows."
+      ]
+    },
+    {
+      "id": "jurong-island-petrochemical-hub-economic-v2",
+      "descriptionAdvanced": "Jurong Island is a man-made island located off the southwestern coast of Singapore, serving as the cornerstone of the country's energy and chemicals industry. Formed by the amalgamation of seven smaller islands through extensive land reclamation, it is now one of the world's leading integrated petrochemical hubs. The island hosts over 100 global companies, including oil majors and chemical giants like ExxonMobil, Shell, and BASF. Its integrated infrastructure allows companies to exchange products and services efficiently, reducing costs and environmental impact. Key facilities include refineries, cracker plants, and the Jurong Rock Caverns, Southeast Asia's first underground liquid hydrocarbons storage facility. Jurong Island is a restricted area and a critical asset for Singapore's economy, contributing significantly to its manufacturing output and status as a global energy hub.",
+      "factsAdvanced": [
+        "Formed by reclaiming and joining seven smaller offshore islands.",
+        "Land reclamation began in 1995 and was completed in 2009.",
+        "Hosts over 100 global energy and chemical companies.",
+        "Features the Jurong Rock Caverns, located 150 meters underground.",
+        "Home to one of the world's largest integrated petrochemical complexes.",
+        "Connected to mainland Singapore via the Jurong Island Highway.",
+        "The island has a total land area of approximately 32 square kilometers.",
+        "Critical pillar of Singapore's manufacturing sector."
+      ]
+    },
+    {
+      "id": "port-of-singapore-economic-v2",
+      "descriptionAdvanced": "The Port of Singapore is one of the busiest and most efficient maritime hubs in the world, playing a crucial role in international trade and Singapore's economy. Strategically located at the crossroads of major shipping routes between the East and West, it serves as a premier transshipment hub, connecting over 600 ports in more than 120 countries. The port is managed by PSA Singapore and Jurong Port, featuring advanced container terminals like Pasir Panjang, Keppel, and Tanjong Pagar. It handles millions of shipping containers (TEUs) annually and is a leader in maritime technology and sustainability. The massive Tuas Port project is currently underway, aiming to consolidate all container operations into a single, fully automated mega-port that will double the current capacity, ensuring Singapore remains at the forefront of the global maritime industry for decades to come.",
+      "factsAdvanced": [
+        "Consistently ranked as the world's busiest transshipment hub.",
+        "Connected to over 600 ports in more than 120 countries.",
+        "Handled over 37 million TEUs of containers in 2023.",
+        "Strategic location at the southern entrance to the Strait of Malacca.",
+        "Includes the massive Pasir Panjang Terminal with deep-water berths.",
+        "Currently developing Tuas Port, which will be the world's largest automated port.",
+        "A major global center for bunkering (fueling ships).",
+        "Contributes about 7% to Singapore's Gross Domestic Product (GDP)."
+      ]
+    },
+    {
+      "id": "marina-bay-financial-centre-economic-v2",
+      "descriptionAdvanced": "The Marina Bay Financial Centre (MBFC) is a landmark mixed-use development that defines Singapore's modern skyline and its status as a leading global financial hub. Located in the Downtown Core, MBFC consists of three Grade-A office towers, two luxury residential towers (Marina Bay Suites and Marina Bay Residences), and the Marina Bay Link Mall. It provides over 3 million square feet of prime office space, hosting major multinational corporations and financial institutions such as Standard Chartered Bank, DBS Bank, and BHP. The development is integrated with a comprehensive transport network, including several MRT stations, and offers breathtaking views of Marina Bay. MBFC represents the extension of Singapore's Central Business District into the new Marina Bay area, embodying a 'live-work-play' concept that integrates corporate business with high-end living and retail in a spectacular waterfront setting.",
+      "factsAdvanced": [
+        "Premier financial hub located in the new Downtown at Marina Bay.",
+        "Developed on a 3.55-hectare site of reclaimed land.",
+        "Consists of three office towers and two luxury residential blocks.",
+        "Hosts major global banks like Standard Chartered and DBS.",
+        "Features the Marina Bay Link Mall, an underground retail space.",
+        "Integrated with the Raffles Place and Downtown MRT stations.",
+        "Completed in phases between 2010 and 2012.",
+        "Provides breathtaking views of the Marina Bay waterfront."
+      ]
+    },
+    {
+      "id": "tuas-biomedical-park-economic-v2",
+      "descriptionAdvanced": "Tuas Biomedical Park is a world-class manufacturing hub dedicated to the life sciences and biotechnology industries, located in the West Region of Singapore. Spanning hundreds of hectares, it provides a specialized environment with the necessary infrastructure for large-scale production of pharmaceuticals and medical devices. The park is home to numerous multinational pharmaceutical companies, including GlaxoSmithKline, Pfizer, Novartis, and AbbVie. These companies operate state-of-the-art manufacturing plants that produce active pharmaceutical ingredients, biologics, and nutritional products for global markets. Singapore's strong regulatory framework, intellectual property protection, and skilled workforce have made Tuas Biomedical Park a preferred location for these high-value industries. The park's success has significantly boosted Singapore's manufacturing sector and established the country as a leading global center for biomedical sciences manufacturing.",
+      "factsAdvanced": [
+        "Specialized 360-hectare park for the biomedical sciences industry.",
+        "Hosts manufacturing plants of global giants like GSK, Pfizer, and Novartis.",
+        "Singapore's first dedicated biomedical manufacturing cluster.",
+        "Produces a significant portion of the world's active pharmaceutical ingredients.",
+        "Strategically located in the Tuas industrial area with sea access.",
+        "Features specialized infrastructure for high-purity water and steam.",
+        "Critical to Singapore's Biopolis-Tuas integrated biomedical strategy.",
+        "A major contributor to Singapore's manufacturing GDP."
+      ]
+    },
+    {
+      "id": "sembcorp-marine-tuas-boulevard-yard-economic-v2",
+      "descriptionAdvanced": "The Sembcorp Marine Tuas Boulevard Yard is one of the largest and most advanced integrated shipyards in the world, located in the Tuas industrial district of Singapore. This state-of-the-art facility is designed to meet the growing demand for complex offshore and marine engineering projects. The yard features several large dry docks, including one capable of accommodating the world's largest cruise ships and container vessels. It is equipped with advanced automation and robotics to improve efficiency and safety in shipbuilding, repair, and conversion. The Tuas Boulevard Yard serves as a hub for the construction of high-specification offshore rigs, floating production storage and offloading (FPSO) units, and specialized vessels. Its development represents a significant step in the modernization of Singapore's maritime industry, consolidating multiple smaller yards into a single, high-efficiency complex to maintain the country's global leadership in the sector.",
+      "factsAdvanced": [
+        "One of the world's largest and most advanced integrated shipyards.",
+        "Features a massive 206,000-square-meter hull shop.",
+        "Dry Dock 1 is capable of handling the largest vessels in the world.",
+        "Incorporates advanced automation and green technologies in its operations.",
+        "Consolidated Sembcorp Marine's operations into a single mega-yard.",
+        "Specializes in offshore rig construction and FPSO conversions.",
+        "Phase 1 of the yard began operations in 2013.",
+        "Strategic asset for Singapore's marine and offshore engineering industry."
+      ]
+    },
+    {
+      "id": "changi-business-park-economic-v2",
+      "descriptionAdvanced": "Changi Business Park (CBP) is a leading regional business hub located in the East Region of Singapore, near Changi Airport. Launched in 1997, it is designed for companies in high-technology, research and development, and data-intensive industries. CBP is particularly known as a center for financial technology (fintech) and back-office operations for major international banks such as Citibank, DBS, and Credit Suisse. The park features a vibrant campus-like environment with modern office buildings, retail spaces at City Square mall, and hotels. It is home to the Singapore University of Technology and Design (SUTD), fostering collaboration between academia and industry. CBP's strategic location and excellent connectivity via the Changi City Point and Expo MRT stations make it a highly desirable location for multinational corporations looking to establish a regional presence in Southeast Asia.",
+      "factsAdvanced": [
+        "Launched in 1997 as a hub for high-tech and financial services.",
+        "Home to the Singapore University of Technology and Design (SUTD).",
+        "Hosts back-office operations for major banks like Citi and DBS.",
+        "Located adjacent to the Expo MRT station and near Changi Airport.",
+        "Features Changi City Point, a major shopping and dining destination.",
+        "Designed with a green, campus-style environment.",
+        "Houses numerous multinational R&D and data centers.",
+        "Part of the Changi region's transformation into an innovation district."
+      ]
+    },
+    {
+      "id": "singapore-exchange-sgx-economic-v2",
+      "descriptionAdvanced": "The Singapore Exchange (SGX) is the country's primary stock exchange and a leading international multi-asset exchange in Asia. Located in the Central Business District, SGX provides a platform for trading a wide range of securities, including stocks, bonds, and derivatives. It is renowned for its strong regulatory framework, transparency, and high-quality listing standards, attracting companies from around the world. SGX is also a pioneer in sustainability and green finance, being the first exchange in Asia to require sustainability reporting for listed companies. As a critical infrastructure for Singapore's financial system, SGX plays a vital role in capital raising and wealth management. It serves as a gateway for international investors seeking exposure to Asian markets, offering a diverse range of products and services that cater to the needs of both institutional and retail participants.",
+      "factsAdvanced": [
+        "Asia's most international multi-asset stock and derivatives exchange.",
+        "Formed in 1999 through the merger of SES and SIMEX.",
+        "Home to the Straits Times Index (STI), the benchmark index for Singapore.",
+        "A global leader in REITs (Real Estate Investment Trusts) listings.",
+        "Pioneer in sustainability reporting for listed companies in Asia.",
+        "Operates a high-speed electronic trading platform.",
+        "Critical component of Singapore's status as a global financial center.",
+        "Provides a gateway for global capital into the Asian markets."
+      ]
+    },
+    {
+      "id": "tuas-power-station-economic-v2",
+      "descriptionAdvanced": "Tuas Power Station is one of Singapore's largest and most efficient power generation facilities, located in the Tuas industrial district. Operated by Tuas Power, the station plays a critical role in ensuring the country's energy security and supporting its industrial development. The facility utilizes advanced combined-cycle gas turbine (CCGT) technology, which burns natural gas to generate electricity with high efficiency and lower carbon emissions compared to traditional fossil fuel plants. Tuas Power Station has a significant generation capacity, providing a substantial portion of Singapore's total electricity demand. In addition to electricity generation, the station is involved in the supply of utilities like steam and industrial water to the surrounding industrial customers. Its continuous investment in modern technology and sustainable practices reflects Singapore's commitment to a reliable and environmentally responsible energy sector.",
+      "factsAdvanced": [
+        "One of Singapore's primary and most efficient power plants.",
+        "Utilizes advanced Combined-Cycle Gas Turbine (CCGT) technology.",
+        "Primarily fueled by natural gas imported via pipelines and LNG.",
+        "Provides approximately 20% of Singapore's total electricity needs.",
+        "The station has a total generation capacity exceeding 2,600 MW.",
+        "Owned and operated by Tuas Power, a major utility company.",
+        "Features state-of-the-art environmental control and monitoring systems.",
+        "Critical infrastructure for Singapore's industrial and residential energy supply."
+      ]
+    },
+    {
+      "id": "keppel-shipyard-economic-v2",
+      "descriptionAdvanced": "Keppel Shipyard is a world leader in the repair, conversion, and construction of specialized vessels and offshore rigs, with a history that spans over a century in Singapore. As part of the Keppel Offshore & Marine group, it has built a global reputation for its technical expertise and high-quality execution. The shipyard is renowned for its pioneering work in the conversion of oil tankers into floating production storage and offloading (FPSO) units, as well as the fabrication of advanced jack-up and semi-submersible rigs. Keppel Shipyard operates several facilities across Singapore, equipped with extensive dry docks and specialized workshops. Its commitment to innovation and safety has made it a preferred partner for global oil and gas companies. The shipyard's success is a cornerstone of Singapore's maritime industry, contributing to the country's status as a premier global offshore and marine engineering hub.",
+      "factsAdvanced": [
+        "A world leader in FPSO (Floating Production Storage and Offloading) conversions.",
+        "Boasts over 150 years of maritime heritage in Singapore.",
+        "Renowned for technical excellence in offshore rig construction.",
+        "Operates major facilities in Tuas, Benoi, and Gul.",
+        "Part of the Keppel Group, a leading Singaporean conglomerate.",
+        "Has successfully completed hundreds of complex marine projects.",
+        "A pioneer in sustainable solutions for the offshore and marine industry.",
+        "Crucial contributor to Singapore's status as a global maritime capital."
+      ]
+    },
+    {
+      "id": "one-north-business-park-economic-v2",
+      "descriptionAdvanced": "one-north is a vibrant 200-hectare research and business park in Singapore, designed to foster innovation and entrepreneurship in key growth sectors. Developed by JTC Corporation, it is divided into specialized hubs such as Biopolis (for biomedical sciences), Fusionopolis (for physical sciences and engineering), and Mediapolis (for digital media). one-north features a unique 'work-live-play-learn' environment, integrating research facilities with residential spaces, parks, and retail amenities. It is home to world-class research institutes, multinational corporations, and a thriving startup ecosystem centered at LaunchPad @ one-north. The park's architecture is characterized by its modern and iconic buildings, designed by renowned architects like Zaha Hadid. By bringing together academia, industry, and talent, one-north has become a global icon for Singapore's knowledge-based economy and a leading center for cutting-edge R&D in Asia.",
+      "factsAdvanced": [
+        "200-hectare innovation district developed by JTC Corporation.",
+        "Home to Biopolis, Fusionopolis, and Mediapolis research hubs.",
+        "Features the LaunchPad @ one-north, a vibrant startup cluster.",
+        "Master-planned by the late world-renowned architect Zaha Hadid.",
+        "Integrates research, residential, and recreational spaces.",
+        "Host to A*STAR (Agency for Science, Technology and Research) institutes.",
+        "Strategically located near the National University of Singapore.",
+        "A global showcase for Singapore's knowledge-based economic strategy."
+      ]
+    }
+  ]
+}

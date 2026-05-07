@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pirada-cities-v2",
+      "descriptionAdvanced": "Pirada egy határmenti település a Gabú régióban, közvetlenül Szenegál déli szomszédságában. Fekvése révén fontos kereskedelmi pontként szolgál a két ország közötti informális és legális árucserében, különös tekintettel a mezőgazdasági termékekre és az állatállományra. A lakosság nagyrészt fula és mandinka származású, akiknek mindennapjait az iszlám vallási hagyományok határozzák meg. Bár a város infrastruktúrája fejletlen, a helyi piacnapok (lumo) idején hatalmas tömegek gyűlnek össze a környékből. Pirada stratégiai pont volt a portugál gyarmati időkben a határvédelem szempontjából, aminek néhány katonai rom ma is emléket állít. Földrajz K7 — határokon átnyúló kereskedelem.",
+      "factsAdvanced": [
+        "A Gabú régióban, a szenegáli határ közvetlen közelében fekszik.",
+        "A határon átnyúló kereskedelem fontos állomása.",
+        "Lakossága döntően fula és mandinka etnikumú.",
+        "A heti piac (lumo) jelentős regionális gazdasági esemény.",
+        "A portugál gyarmati időkben fontos határőrállomás volt.",
+        "Gazdasága nagyban függ a szarvasmarha- és földimogyoró-kereskedelemtől."
+      ]
+    },
+    {
+      "id": "pitche-cities-v2",
+      "descriptionAdvanced": "Pitche egy kelet-guineai település a Gabú régióban, amely elsősorban határvárosként funkcionál Guinea (Conakry) felé. A várost a történelmi Kaabu Birodalom öröksége lengi be, mivel a terület évszázadokig e hatalmas államalakulat befolyása alatt állt. Ma Pitche a régió egyik fő marhakereskedelmi központja, ahonnan az állatokat gyakran a tengerparti piacokra vagy a szomszédos országokba szállítják. A helyi közösség megélhetése a mezőgazdaságra, azon belül is a köles- és ciroktermesztésre épül. A település klímája szavannai, így a száraz évszakban a vízhez való hozzáférés gyakran kihívást jelent. Történelem K8 — afrikai birodalmak.",
+      "factsAdvanced": [
+        "A Gabú régió egyik legkeletibb települése, a guineai határ közelében.",
+        "A történelmi Kaabu Birodalom befolyási övezetéhez tartozott.",
+        "Fontos szerepet játszik az élőállat-kereskedelemben.",
+        "A mezőgazdaság főbb növényei a köles és a cirok.",
+        "A száraz évszakban gyakori problémát jelent a vízhiány.",
+        "A fula etnikum hagyományos kultúrája erősen jelen van."
+      ]
+    },
+    {
+      "id": "sonaco-cities-v2",
+      "descriptionAdvanced": "Sonaco a Gabú régió központi részén található pezsgő mezőgazdasági kisváros. A település az ország egyik legfontosabb földimogyoró-termesztő vidékén fekszik, és a betakarítási szezonban a helyi feldolgozóüzemek gőzerővel működnek. Sonaco emellett fontos közlekedési csomópont Bafatá és Gabú városok között, ami élénk tranzitforgalmat generál. A város lakossága nagyrészt fula származású, akiknek társadalmi szerkezete a mai napig őrzi a hagyományos hierarchiát. A helyi kézművesek által készített bőráruk és textíliák messze földön híresek. Társadalomismeret K7 — agrárközösségek.",
+      "factsAdvanced": [
+        "A Gabú régió fontos mezőgazdasági központja.",
+        "Az ország egyik legjelentősebb földimogyoró-termelő zónájában fekszik.",
+        "Közlekedési csomópont Bafatá és Gabú városok között.",
+        "A fula lakosság hagyományos kézművessége, különösen a bőrművesség kiemelkedő.",
+        "Társadalmi szerkezete erős hagyományokon alapul.",
+        "A helyi piac a mezőgazdasági idénymunkások találkozóhelye."
+      ]
+    },
+    {
+      "id": "contuboel-cities-v2",
+      "descriptionAdvanced": "Contuboel a Bafatá régió egyik jelentős városa, amely a Geba-folyó mentén terül el. Fekvésének köszönhetően a település körül kiterjedt ártéri rizsföldek találhatók, amelyek az ország egyik fő rizstermelő vidékévé teszik a területet. A portugál gyarmati időkben kísérleti agrárbázisok is működtek itt, amelyek nyomai ma is láthatók. Contuboel lakossága sokszínű, a mandinka és fula gazdák békésen élnek együtt, közösen művelve a folyóparti termékeny földeket. A városban található piac a helyi élelmiszer-ellátás fontos bázisa. Földrajz K6 — folyóvölgyi mezőgazdaság.",
+      "factsAdvanced": [
+        "A Geba-folyó partján helyezkedik el a Bafatá régióban.",
+        "Bissau-Guinea egyik legfontosabb rizstermelő központja.",
+        "A gyarmati időszakban agráripari kísérleti bázisként szolgált.",
+        "Lakossága nagyrészt fula és mandinka földművesekből áll.",
+        "Az ártéri mezőgazdaság (bolanha) biztosítja a megélhetést.",
+        "A város piaca fontos agrárelogisztikai központ."
+      ]
+    },
+    {
+      "id": "galomaro-cities-v2",
+      "descriptionAdvanced": "Galomaro a Bafatá régió egy csendes kisvárosa, amely elsősorban a gyapot- és földimogyoró-termesztésre építi gazdaságát. A település a régió déli felén helyezkedik el, ahol az erdős szavanna nyújt ideális körülményeket a hagyományos mezőgazdaságnak. A függetlenségi háború éveiben a környék a portugál hadsereg fontos logisztikai központja volt, de ma már a béke és a nyugalom jellemzi. A város kulturális életében jelentős szerepet játszanak a helyi iszlám ünnepek, amelyeket a közösség hagyományos zenével és tánccal ünnepel. A falu infrastrukturális fejlesztése az elmúlt években kezdett felgyorsulni. Társadalomföldrajz K7 — szavannai kultúrák.",
+      "factsAdvanced": [
+        "A Bafatá régió déli, erdős szavanna övezetében található.",
+        "Gazdaságának alappillére a gyapot és a földimogyoró termesztése.",
+        "A függetlenségi háború során a portugálok logisztikai bázist tartottak itt fenn.",
+        "A helyi közösség életét az iszlám vallási ünnepek határozzák meg.",
+        "Infrastruktúrája viszonylag alulfejlett, bár fejlődésnek indult.",
+        "Kulturálisan a fula és mandinka hagyományok ötvöződnek itt."
+      ]
+    },
+    {
+      "id": "buruntuma-cities-v2",
+      "descriptionAdvanced": "Buruntuma egy keleti határváros a Gabú régióban, közvetlenül a guineai (Conakry) határállomásnál. A település az ország egyik legfontosabb hivatalos határátkelőhelye, amelyen keresztül jelentős áru- és személyforgalom zajlik. Stratégiai elhelyezkedése miatt Buruntuma a csempészet és a legális kereskedelem keverékéből él, ahol a vámbevételek jelentik a gazdaság egyik fő motorját. A város körül elterülő szavannás vidék tökéletes a szarvasmarha-tartásra, így a helyi piacon az élőállatok cseréje is mindennapos. A fula lakosság hagyományos pásztorkodó életmódot folytat a környező vidékeken. Földrajz K8 — nemzetközi tranzitútvonalak.",
+      "factsAdvanced": [
+        "Közvetlen határátkelőhely Guinea (Conakry) irányába.",
+        "A Gabú régió legkeletibb tranzitvárosa.",
+        "A legális és informális kereskedelem egyik fő központja.",
+        "A helyi gazdaságban jelentős a határőrizet és vámkezelés szerepe.",
+        "A szavannai környezet kedvez a szarvasmarha-tenyésztésnek.",
+        "A fula etnikum pásztorkodó hagyományai ma is élnek."
+      ]
+    },
+    {
+      "id": "madina-do-boe-cities-v2",
+      "descriptionAdvanced": "Madina do Boé az ország egyik legfontosabb történelmi helyszíne a Gabú régió ritkán lakott, dombos délkeleti részén. 1973. szeptember 24-én ezen a településen kiáltották ki egyoldalúan Bissau-Guinea függetlenségét Portugáliától, még mielőtt a gyarmati hatalom azt elismerte volna. Bár a város rövid ideig (1973-1974) de facto fővárosként funkcionált, ma egy elszigetelt, apró település, amelyet nehezen járható utak kötnek össze az ország többi részével. A környék, a Boé-hegység (Colinas de Boé) lenyűgöző természeti szépségekkel, köztük érintetlen erdőkkel és gazdag vadvilággal bír. Történelem K8 — afrikai függetlenségi mozgalmak.",
+      "factsAdvanced": [
+        "1973. szeptember 24-én itt kiáltották ki Bissau-Guinea függetlenségét.",
+        "Az ország első, de facto független fővárosa volt 1973 és 1974 között.",
+        "A Gabú régió délkeleti részén, a Boé-hegység területén fekszik.",
+        "Rendkívül elszigetelt, úthálózata a monszun idején nehezen járható.",
+        "A környék érintetlen természeti környezettel és változatos faunával rendelkezik.",
+        "Az ország történelmi emlékezetének egyik legfontosabb zarándokhelye."
+      ]
+    },
+    {
+      "id": "empada-cities-v2",
+      "descriptionAdvanced": "Empada a Quinara régió egyik dinamikusan fejlődő városa, amely a tengerparti síkság és a belső erdőségek találkozásánál fekszik. A település híres a kiterjedt pálmaerdőiről, így a pálmaolaj és a pálmamag kitermelése a helyi gazdaság alapköve. Empada kikötője révén összeköttetésben áll Bissau-val és más parti városokkal, ami megkönnyíti a mezőgazdasági termékek szállítását. A függetlenségi háború alatt a város stratégiai fontosságú volt, a PAIGC gerillái korán átvették felette az irányítást. A lakosság nagyrészt biafada és balanta származású, akik erős kulturális identitással rendelkeznek. Földrajz K7 — partmenti agrárgazdaság.",
+      "factsAdvanced": [
+        "A Quinara régió fontos pálmaolaj-termelő központja.",
+        "A helyi gazdaság a pálmafeldolgozásra és mezőgazdaságra épül.",
+        "Kikötője révén tengeri összeköttetéssel rendelkezik a fővárossal.",
+        "A függetlenségi háború egyik korai PAIGC-bázisa volt.",
+        "A biafada és balanta etnikumok jelentős számban élnek a városban.",
+        "Környezetét mangrove-erdők és trópusi növényzet uralja."
+      ]
+    },
+    {
+      "id": "guilege-cities-v2",
+      "descriptionAdvanced": "Guiledje (Guílege) egy történelmi jelentőségű település a Tombali régió déli részén. A város neve egybeforrt a függetlenségi háború egyik legfontosabb győzelmével: 1973-ban a PAIGC erők itt foglalták el a portugálok egyik legjobban erődített katonai bázisát. A 'Guiledje-i csata' fordulópontot jelentett a háborúban. Ma a városban található az ország egyik legfontosabb katonai múzeuma, a Guiledje Függetlenségi Múzeum, amely bemutatja a harcok történetét és a használt fegyvereket. A települést körülölelő sűrű erdőségek ma békés mezőgazdasági területek, ahol a helyiek rizst és maniókát termesztenek. Történelem K8 — fordulópontok a függetlenségi harcokban.",
+      "factsAdvanced": [
+        "1973-ban itt zajlott a függetlenségi háború egyik sorsdöntő csatája.",
+        "Itt található a Guiledje Függetlenségi Múzeum.",
+        "A Tombali régió déli részén, sűrű erdőségek között fekszik.",
+        "A portugál gyarmati hadsereg egyik legerősebb bázisa állt itt.",
+        "A lakosság főként rizstermesztéssel és erdészettel foglalkozik.",
+        "A múzeum a nemzeti büszkeség fontos szimbóluma."
+      ]
+    },
+    {
+      "id": "cacine-cities-v2",
+      "descriptionAdvanced": "Cacine egy izolált, de gyönyörű kikötőváros az azonos nevű Cacine-folyó torkolatánál, mélyen a Tombali régió déli csücskében. Fekvése miatt a halászat és az osztrigagyűjtés a helyi gazdaság legfőbb pillérei. A város környéke egyedülálló biológiai sokféleséggel bír; a környező mangrove-erdőkben és a közeli Cantanhez Nemzeti Parkban számos ritka faj, például tengeri tehenek és csimpánzok is megtalálhatók. Bár Cacine közúti megközelítése az esős évszakban szinte lehetetlen, a folyami közlekedés folyamatos kapcsolatot biztosít a külvilággal. A város nyugodt atmoszférája vonzza az ökoturizmus szerelmeseit. Biológia K8 — mangrove-ökoszisztémák.",
+      "factsAdvanced": [
+        "A Cacine-folyó torkolatánál, az ország legdélebbi részén fekszik.",
+        "Gazdasága szinte kizárólag a halászatra és az osztrigagyűjtésre épül.",
+        "Az esős évszakban közúton rendkívül nehezen megközelíthető.",
+        "A folyami és tengeri közlekedés létfontosságú a város számára.",
+        "A környező vizekben ritka tengeri tehenek (manátuszok) is élnek.",
+        "A Cantanhez Nemzeti Park természeti gazdagsága a közelben található."
+      ]
+    },
+    {
+      "id": "jemberem-cities-v2",
+      "descriptionAdvanced": "Jemberem egy kis falu a Tombali régióban, amely az ország ökoturisztikai hálózatának egyik legfontosabb bázisa. A település közvetlenül a Cantanhez Nemzeti Park szívében helyezkedik el, így a parkot látogató kutatók és turisták kiindulópontjául szolgál. A helyi közösség úttörő szerepet játszik a közösségi alapú természetvédelemben: a falusiak aktívan részt vesznek a csimpánzok és az erdő védelmében, miközben a turizmusból származó bevételeket a falu fejlesztésére fordítják. Jemberem hagyományosan a nalú etnikumhoz tartozik, akiknek animista hitvilága szorosan kötődik az erdő szellemeihez. Természetismeret K7 — közösségi természetvédelem.",
+      "factsAdvanced": [
+        "A Cantanhez Nemzeti Park központi ökoturisztikai bázisa.",
+        "Kiemelkedő szerepet játszik a helyi csimpánzpopuláció védelmében.",
+        "A közösségi alapú természetvédelem modellértékű példája az országban.",
+        "A falu bevételeinek nagy része a fenntartható turizmusból származik.",
+        "A lakosság jelentős része a nalú etnikumhoz tartozik.",
+        "A falut sűrű, érintetlen trópusi esőerdő veszi körül."
+      ]
+    },
+    {
+      "id": "tite-cities-v2",
+      "descriptionAdvanced": "Tite egy történelmi kikötőváros a Quinara régióban, amely a Rio Grande de Buba torkolatának északi partján fekszik. A gyarmati időkben Tite jelentős adminisztratív és katonai központ volt, ami a ma is álló robusztus portugál épületekből látszik. A város stratégiai elhelyezkedése miatt fontos szerepet játszott a régió vízi közlekedésében. Napjainkban Tite egy álmos mezőgazdasági és halásztelepülés, ahol a pálmaolaj-termelés és a rizstermesztés biztosítja az emberek megélhetését. A közeli Cufada-tó (Lagoa de Cufada) gazdag madárvilága miatt egyre több ökoturista keresi fel a környéket. Földrajz K6 — tölcsértorkolatok és halászat.",
+      "factsAdvanced": [
+        "A Rio Grande de Buba északi partján fekvő kikötőváros.",
+        "A portugál gyarmati időszakban fontos katonai és adminisztratív központ volt.",
+        "A Quinara régió egyik legfontosabb történelmi települése.",
+        "Gazdaságának alapja a rizstermesztés és a pálmaolaj.",
+        "A közelben található a védett Cufada-tó (Lagoa de Cufada).",
+        "A vízi közlekedés ma is fontos szerepet tölt be a város életében."
+      ]
+    },
+    {
+      "id": "encheia-cities-v2",
+      "descriptionAdvanced": "Encheia egy kisebb, folyóparti település a Quinara régióban, amely hagyományosan a tengeri és folyami kereskedelemre támaszkodik. A város kikötője kisebb halászhajók és áruszállító bárkák (pirogue-ok) fogadására alkalmas, amelyek a környező szigetekről és falvakból hozzák az árut. Encheia környéke mocsaras, mangrove-erdőkkel sűrűn benőtt terület, ami ideális a rizstermesztés számára az ártéri földeken (bolanha). A lakosság kultúráját erősen befolyásolják az animista hagyományok, amelyek a természet, különösen a víz és az erdő tiszteletén alapulnak. Társadalomföldrajz K7 — ártéri gazdálkodás.",
+      "factsAdvanced": [
+        "Folyóparti település a Quinara régióban.",
+        "Kikötője a helyi áruszállító bárkák (pirogue-ok) központja.",
+        "Környezetét sűrű mangrove-erdők és mocsarak jellemzik.",
+        "A lakosság főként az ártéri rizstermesztésből (bolanha) él.",
+        "A biafada és balanta etnikumok jelentős jelenléttel bírnak.",
+        "A helyi animista hagyományok erősen kötődnek a vízi környezethez."
+      ]
+    },
+    {
+      "id": "olossato-cities-v2",
+      "descriptionAdvanced": "Olossato az Oio régió egyik legdinamikusabb városa, amely fontos közlekedési és mezőgazdasági csomópont Bissau-Guinea északi részén. A település a földimogyoró- és kesudió-termesztés központja, a betakarítási szezonban a helyi piacok megtelnek az ország minden tájáról érkező kereskedőkkel. Olossato történelmileg a függetlenségi háború egyik legvitatottabb területe volt, ahol a PAIGC és a portugál hadsereg is heves csatákat vívott a stratégiai útvonalak feletti ellenőrzésért. A város demográfiája rendkívül vegyes, a balanta és mandinka népcsoportok mellett a fula kereskedők is meghatározóak. Történelem K8 — háborús logisztika.",
+      "factsAdvanced": [
+        "Fontos mezőgazdasági és közlekedési csomópont az Oio régióban.",
+        "Az ország egyik legjelentősebb földimogyoró- és kesudió-piaca.",
+        "A függetlenségi háború alatt stratégiai fontosságú útvonalak metszéspontja volt.",
+        "A lakosság sokszínű: balanta, mandinka és fula etnikumok is élnek itt.",
+        "A város gyors ütemben növekszik a belső migráció következtében.",
+        "A helyi gazdaság nagymértékben függ az agrárkereskedelemtől."
+      ]
+    },
+    {
+      "id": "pelundo-cities-v2",
+      "descriptionAdvanced": "Pelundo egy történelmi város a Cacheu régióban, amely a manzacu etnikum hagyományos székhelye és kulturális központja. A település királyi központként funkcionált a gyarmatosítás előtti időkben, és a hagyományos vezetők, az úgynevezett 'régulos' (helyi királyok) ma is jelentős társadalmi befolyással bírnak. Pelundo a környező pálmaerdőknek köszönhetően a hagyományos pálmabor (vinho de palma) és pálmaolaj előállításának egyik legfontosabb helyszíne. A város ünnepei, különösen a beavatási rítusok, rengeteg látogatót vonzanak a régió más részeiből is. Kulturális antropológia K8 — afrikai királyságok öröksége.",
+      "factsAdvanced": [
+        "A manzacu etnikum történelmi és kulturális központja.",
+        "A gyarmatosítás előtt jelentős helyi királyi székhely volt.",
+        "A hagyományos vezetők ('régulos') társadalmi befolyása ma is erős.",
+        "A város a pálmabor és pálmaolaj előállításáról híres.",
+        "A beavatási rítusok fontos közösségi és turisztikai események.",
+        "A Cacheu régió egyik legfontosabb kulturális csomópontja."
+      ]
+    },
+    {
+      "id": "caio-cities-v2",
+      "descriptionAdvanced": "Caió (vagy Caio) egy különleges fekvésű partmenti település a Cacheu régió nyugati részén. A város a papel etnikai csoport kulturális fellegvára, akik őrzik az ősi animista szokásaikat, mint például az ősök szellemeivel való kommunikációt. Caió gazdaságát évszázadok óta a tengeri halászat, a sólepárlás és a pálmaolaj-készítés határozza meg. A terület viszonylagos elszigeteltsége miatt a hagyományos mesterségek, köztük a fafaragás és a kosárfonás ma is virágzik. A gyarmati adminisztráció nehezen tudta ellenőrzése alá vonni a területet, így Caió viszonylagos autonómiát élvezett a portugál uralom alatt is. Társadalomismeret K7 — tengerparti kultúrák.",
+      "factsAdvanced": [
+        "A partmenti Cacheu régióban található, erős tengeri kapcsolattal.",
+        "A papel etnikum egyik legfontosabb kulturális központja.",
+        "A halászat és a hagyományos sólepárlás a fő bevételi forrás.",
+        "Az animista vallási hagyományok és a szellemtisztelet mélyen gyökerezik.",
+        "A gyarmati időkben is erős autonómiát őrzött meg.",
+        "A kézművesség (fafaragás, kosárfonás) kiemelkedő a városban."
+      ]
+    },
+    {
+      "id": "bulula-cities-v2",
+      "descriptionAdvanced": "Bulula egy apró, szinte elfeledett település a Tombali régió mélyén, amelyet sűrű trópusi erdők és kanyargós folyók határolnak. A város megközelítése kihívást jelent, ami hozzájárult ahhoz, hogy természeti környezete és a hagyományos balanta életmód jórészt érintetlen maradt. A falu lakói ártéri rizstermesztésből (bolanha) és a közeli erdőkben gyűjtött terményekből élnek. A függetlenségi harcok alatt a régió a PAIGC gerilláinak búvóhelye volt, akik az áthatolhatatlan dzsungelt használták fedezékként. Ma Bulula csendes hely, amely az ökoturizmus felfedezésére vár. Földrajz K6 — elszigetelt közösségek.",
+      "factsAdvanced": [
+        "A Tombali régió egy nehezen megközelíthető, elszigetelt települése.",
+        "Sűrű trópusi erdők és folyók övezik.",
+        "A lakosság jórészt a balanta etnikumhoz tartozik.",
+        "Az ártéri rizstermesztés (bolanha) az élet alapja.",
+        "A függetlenségi háború alatt a gerillák egyik biztonságos búvóhelye volt.",
+        "Természeti környezete szinte teljesen érintetlen."
+      ]
+    },
+    {
+      "id": "uno-cities-v2",
+      "descriptionAdvanced": "Uno városa a Bijagós-szigetcsoport azonos nevű szigetén fekszik, és a szigetvilág egyik legautentikusabb települése. Uno megőrizte a bijagó kultúra legmélyebb hagyományait, vrátva a bonyolult matriarchális társadalmi berendezkedést és a szigorú beavatási szertartásokat (fanado). A sziget viszonylagos elszigeteltsége miatt a modern világ hatásai kevésbé érezhetők itt, mint Bubaque-ban. A helyiek gazdálkodása a fenntartható halászaton, a pálmabor-készítésen és a kesudió-termesztésen alapul. Uno az UNESCO bioszféra-rezervátum szívében helyezkedik el, tengerpartjain gyakran látni fészkelő tengeri teknősöket. Kulturális antropológia K8 — matriarchális társadalmak.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport azonos nevű szigetén található.",
+        "A bijagó kultúra, beleértve a matriarchális vonásokat, itt a legerősebb.",
+        "A szigorú beavatási szertartások (fanado) ma is a társadalom alapjai.",
+        "A fenntartható halászat és pálmafeldolgozás biztosítja a megélhetést.",
+        "Az UNESCO bioszféra-rezervátum központi részén fekszik.",
+        "Partjain gyakran fészkelnek tengeri teknősök."
+      ]
+    },
+    {
+      "id": "caravela-cities-v2",
+      "descriptionAdvanced": "Caravela a Bijagós-szigetcsoport északi peremén található sziget és annak központi települése. A város leginkább csodálatos, fehér homokos strandjairól és a kristálytiszta vizekről ismert, amelyek kiváló feltételeket teremtenek a sporthorgászat és a jövőbeli ökoturizmus számára. Bár a turisztikai infrastruktúra még hiányos, a sziget természeti szépsége páratlan. A helyi bijagó közösség élete szorosan összefonódik a tenger ritmusával; az osztrigagyűjtés és a mélytengeri halászat a mindennapok része. Caravela kikötője fontos állomás a kisebb szigetek közötti hajóforgalomban. Földrajz K7 — trópusi szigetvilágok.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport északi részének központi települése.",
+        "Fehér homokos strandjai az ország legszebbjei közé tartoznak.",
+        "Kiemelkedő potenciállal rendelkezik a sporthorgászat és ökoturizmus terén.",
+        "A helyi gazdaság alapja a halászat és az osztrigagyűjtés.",
+        "A bijagó lakosság hagyományos életmódot folytat.",
+        "Kikötője a szigetközi hajóforgalom fontos csomópontja."
+      ]
+    },
+    {
+      "id": "formosa-cities-v2",
+      "descriptionAdvanced": "Formosa a Bijagós-szigetcsoport legnagyobb szigeteinek egyike, városközpontja pedig a hagyományos szigeti élet központja. A település és a sziget neve ('Gyönyörű') a portugál felfedezőktől származik, akik elámultak a buja növényzet és a gazdag állatvilág láttán. Formosa különlegessége a kiterjedt mangrove-ökoszisztéma, amely az Urok-szigetek Tengeri Védett Területének része. A helyi lakosok részt vesznek egy úttörő, közösség által irányított természetvédelmi programban, amely védi a halállományt és a mangrove-erdőket. A városban az ősi hiedelemvilág és a fenntartható gazdálkodás harmonikus egységet alkot. Biológia K8 — tengeri védett területek.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport egyik legnagyobb szigetének központja.",
+        "Nevét, amely 'Gyönyörű'-t jelent, a portugál felfedezőktől kapta.",
+        "Az Urok-szigetek Tengeri Védett Területének része.",
+        "Közösség által irányított fenntartható halászati program működik itt.",
+        "Kiterjedt mangrove-erdők veszik körül a települést.",
+        "A bijagó animista hagyományok jelentős szerepet játszanak a természetvédelemben."
+      ]
+    }
+  ]
+}

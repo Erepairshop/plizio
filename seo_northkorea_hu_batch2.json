@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chongju-cities-v2",
+      "descriptionAdvanced": "Csongdzsu Észak-Phjongan tartomány egyik jelentős középvárosa, amely az ország északnyugati síkságain terül el. A város hagyományosan a mezőgazdaságáról, ezen belül is az almatermesztésről és a selyemhernyó-tenyésztésről ismert, bár az elmúlt évtizedekben a nehézipar is teret nyert. Történelmileg is fontos szerepe van: az 1811-es Hong Gjong-ne vezette parasztfelkelés egyik központja volt a Csoszon-korszakban. A város határában található a híres Csongdzsu forrás, amelynek vizét állítólag a történelmi királyok is fogyasztották. Ma Csongdzsu fontos oktatási és kulturális központ a tartományban, szoros kapcsolatban áll a közeli Sinidzsuval. Plizio tanterv: Történelem K7 — parasztfelkelések és helyi mezőgazdaság.",
+      "factsAdvanced": [
+        "A város környékén zajlott az 1811-es Hong Gjong-ne parasztfelkelés.",
+        "Csongdzsu Észak-Phjongan tartomány fő almatermő vidéke.",
+        "Hagyományosan jelentős volt itt a selyemhernyó-tenyésztés.",
+        "A város a Phenjan és Sinidzsu közötti főútvonalon fekszik.",
+        "A helyi Csongdzsu-forrás vize történelmi hírnévvel bír.",
+        "A lakosság jelentős része az agráriumban vagy élelmiszeriparban dolgozik."
+      ]
+    },
+    {
+      "id": "kimchaek-cities-v2",
+      "descriptionAdvanced": "Kimcshök, korábbi nevén Szongdzsin, egy jelentős kikötő- és iparváros a Japán-tenger partján, Észak-Hamgjong tartományban. A várost 1951-ben nevezték át Kim Cshök (Kim Chaek) tábornok, a koreai háború egyik vezető katonai parancsnokának tiszteletére. Fő iparága az acélgyártás és a vaskohászat, amely szorosan kapcsolódik az ország hadi- és nehézipari szükségleteihez. Tengeri kikötője az áruszállítás mellett a tengeri halászat egyik keleti bázisa is. Télen a hideg áramlatok miatt a klíma zord, de a nehézipar számára elengedhetetlen termelési kapacitást a helyi szén- és vaskészletek biztosítják. Plizio tanterv: Történelem K8 — hidegháborús személyi kultusz és névadások.",
+      "factsAdvanced": [
+        "A város 1951-ig a Szongdzsin nevet viselte.",
+        "Kim Cshök tábornokról nevezték el, aki a koreai háborúban (1951) esett el.",
+        "A város ad otthont a Kimcshök Vasműnek (bár a nagyobb üzem Cshongdzsinban van).",
+        "A Japán-tenger partján található fontos halászkikötő.",
+        "Itt épült Észak-Korea egyik jelentős acélipari kutatóintézete.",
+        "Az ipari tevékenység miatt a városban gyakori a szmog és a környezetszennyezés."
+      ]
+    },
+    {
+      "id": "songnim-cities-v2",
+      "descriptionAdvanced": "Szongnim Észak-Hvanghe tartomány ipari városa, a Taedong folyó partján, Phenjantól délre fekszik. A település szinte kizárólag a Hvanghe Vas- és Acélmű (Hwanghae Iron and Steel Complex) köré épült, amely az ország egyik legrégebbi és legnagyobb kohászati üzeme, eredetileg a japán megszállás idején hozták létre. A várost korábban Kjomiphónak hívták. Folyami kikötője révén a megtermelt acélt könnyen szállítják Phenjanba és Nampóba. Bár az acélipar drasztikusan visszaesett az 1990-es évek gazdasági válságában, Szongnim megmaradt az észak-koreai nehézipar egyik ikonikus szimbólumának. Plizio tanterv: Gazdaság K8 — nehézipar és monostruktúrás iparvárosok.",
+      "factsAdvanced": [
+        "A várost a japán uralom idején (1910–1945) Kjomiphónak hívták.",
+        "Itt működik a hatalmas Hvanghe Vas- és Acélmű.",
+        "A Taedong folyó partján fekszik, biztosítva a vízi szállítást.",
+        "Az acélgyárat többször súlyosan bombázták a koreai háború során.",
+        "Szongnim tipikus 'egy gyáras' város, ahol minden az acélról szól.",
+        "A lakosság életminősége szorosan összefügg a gyár termelési ingadozásaival."
+      ]
+    },
+    {
+      "id": "huichon-cities-v2",
+      "descriptionAdvanced": "Hicshon Csagang tartomány déli részén elhelyezkedő kulcsfontosságú iparváros, amely a Cshongcshon folyó völgyében terül el. A hegyvidéki elszigeteltség okán a koreai háború után a várost választották a fegyvergyártás és a precíziós gépészet (például szerszámgépek) egyik központjává. A Hicshoni Gépgyár nemzetközileg is ismert (illetve vizsgált) az észak-koreai iparban játszott szerepe miatt. A közelmúltban, 2012-ben fejezték be a Hicshoni Vízerőművet (Huichon Power Station), egy óriási gát- és erőműprojektet a várostól északra, amely Phenjan energiaellátásának javítását hivatott szolgálni. Emellett a város híres selyemiparáról is. Plizio tanterv: Földrajz K8 — energiaellátás és precíziós gépészet.",
+      "factsAdvanced": [
+        "A Hicshoni Gépgyár az észak-koreai precíziós ipar egyik ékköve.",
+        "A 2012-ben átadott Hicshoni Vízerőmű Phenjant látja el árammal.",
+        "A Cshongcshon folyó völgye természetes védelmet nyújt az iparnak.",
+        "A város az 1950-es évek óta fegyveripari központként is funkcionál.",
+        "Hicshonban található egy jelentős elektronikai és telekommunikációs gyár is.",
+        "A nehézipar mellett hagyományos selyemgyártás is zajlik a városban."
+      ]
+    },
+    {
+      "id": "munchon-cities-v2",
+      "descriptionAdvanced": "Muncshon egy haditengerészeti és bányászváros Kangvon tartományban, a Japán-tenger partján, Vonszantól északra. A tengerparti város a Keleti Flotta egyik kiemelt bázisa, így területe jórészt katonai ellenőrzés alatt áll. Emellett bányászata is meghatározó: jelentős a szén-, cink- és aranykitermelés a környező hegyekben. Muncshon gazdaságában a kohászat, valamint az építőanyag- és téglagyártás játssza a fő szerepet, kihasználva a helyi ásványi kincseket. Természeti szempontból a várost festői partvidék övezi, azonban a turizmus itt másodlagos a stratégiai és katonai funkciók mögött. Plizio tanterv: Földrajz K8 — nyersanyag-kitermelés és katonai kikötők.",
+      "factsAdvanced": [
+        "Muncshon az észak-koreai Keleti Flotta egyik fő támaszpontja.",
+        "A várostól északra és nyugatra intenzív szén- és cinkbányászat folyik.",
+        "Jelentős építőanyag- és téglagyártással rendelkezik.",
+        "Kangvon tartomány egyik legészakibb parti városa.",
+        "Az ipar és a haditengerészet miatt az övezet szigorúan zárt.",
+        "Természeti adottságai ellenére a parti sávot főleg katonai célokra használják."
+      ]
+    },
+    {
+      "id": "kujang-cities-v2",
+      "descriptionAdvanced": "Kudzshang Dél-Phjongan tartomány hegyvidéki bányászvárosa, amely egy sűrű vasúti hálózat fontos csomópontja. A település az Észak-Koreát átszelő vasúti fővonalakon helyezkedik el, így a kibányászott nyersanyagok, főként az antracit szén elosztásában játszik kulcsszerepet. A Kudzshangi szénmedence az ország egyik legmagasabb kalóriaértékű szenét adja, amelyet az erőművekben és az iparban használnak. A közelben található híres természeti látványosság a Rjongmun-barlang (Ryongmun-barlangrendszer), amely egy több kilométer hosszú, egyedülálló cseppkőképződményekkel teli barlang, gyakran látogatott hazai turistacélpont. Plizio tanterv: Földrajz K7 — szénbányászat és karsztbarlangok.",
+      "factsAdvanced": [
+        "A Kudzshangi szénmedence kiváló minőségű antracitot ad.",
+        "Fontos vasúti csomópont: itt találkozik a Manpho és a Phjongdok vasútvonal.",
+        "A közeli Rjongmun-barlang Észak-Korea egyik legismertebb cseppkőbarlangja.",
+        "A város gazdasága szinte teljes egészében a szénbányászaton alapul.",
+        "A környező hegyek a bányászat miatt súlyos környezeti károkat szenvedtek.",
+        "A lakosság főleg a bányavállalatoknál dolgozik."
+      ]
+    },
+    {
+      "id": "tokchon-cities-v2",
+      "descriptionAdvanced": "Tokcshon Dél-Phjongan tartomány városa, az észak-koreai jármű- és motorgyártás szíve. Az 1950-ben alapított Szungni Gépgyár (Sungri Motor Plant) a város legismertebb létesítménye, ahol teherautókat, buszokat és személygépkocsikat szerelnek össze; az első koreai gyártmányú teherautó, a 'Szungni-58' is itt gördült le a szalagról 1958-ban. Bár a termelés az elmúlt évtizedekben drasztikusan lecsökkent, Tokcshon megmaradt a közlekedésipar szimbólumának. A várost a Taedong folyó szeli ketté, és a szénbányászat itt is kiegészíti a nehézipart. A 2010-es években egy sikertelen ballisztikusrakéta-teszt során a város ipari területeit állítólag törmelék találta el. Plizio tanterv: Technika K8 — autóipar fejlődése és nehézipari komplexumok.",
+      "factsAdvanced": [
+        "Itt található a Szungni Gépgyár, az ország első számú autógyára.",
+        "1958-ban itt gyártották le a Szungni-58-at, az első hazai teherautót.",
+        "A várost átszeli az ország legfőbb folyója, a Taedong.",
+        "2017-ben egy Hwasong-12 rakétateszt állítólag a város területére zuhant.",
+        "A környékbeli szénbányák is támogatják a város gazdaságát.",
+        "A termelés a csúcspontját az 1970-es és 80-as években érte el."
+      ]
+    },
+    {
+      "id": "yongbyon-cities-v2",
+      "descriptionAdvanced": "Rjongbjon Észak-Phjongan tartomány történelmi múltú, ám modern jelentőségét tekintve rendkívül hírhedt települése, hiszen itt működik a Nyongbyoni Nukleáris Kutatóközpont (Yongbyon Nuclear Scientific Research Center). A Kuryong folyó partján épült titkos komplexum az észak-koreai nukleáris fegyverprogram központja, amely az 1960-as évektől kezdve szovjet segítséggel épült ki. Az 5 megawattos grafitmoderátoros atomreaktor plutóniumot termelt a katonai program számára. A létesítmény körüli városrész hermetikusan elzárt, szigorú katonai védelem alatt áll. Történelmileg a régió finom selyemgyártásáról és hegyvidéki szépségéről volt ismert a nukleáris korszak előtt. Plizio tanterv: Társadalomismeret K8 — nukleáris technológia és nemzetközi konfliktusok.",
+      "factsAdvanced": [
+        "Rjongbjon Észak-Korea nukleáris fegyverprogramjának központja.",
+        "A központot még az 1960-as években alapították szovjet mérnökökkel.",
+        "Az 5 megawattos reaktor termelte a plutóniumot az első atomtesztekhez (2006).",
+        "A város katonai zónája az egyik leginkább megfigyelt terület a világon.",
+        "2008-ban egy hűtőtornyot robbantottak fel itt a leszerelési tárgyalások jeleként.",
+        "A történelmi Rjongbjon korábban híres volt selyemszövéséről."
+      ]
+    },
+    {
+      "id": "pakchon-cities-v2",
+      "descriptionAdvanced": "Pakcshon Észak-Phjongan tartomány déli részén található, a Cshongcshon folyó mentén. A település elsősorban mezőgazdasági karakterű, hatalmas rizstermő síkságokkal és kiterjedt gabonaföldekkel rendelkezik. Bár kisebb jelentőségű városnak tűnik, területén stratégiai fontosságú létesítmények – uránfeldolgozó és bányászati telepek – is működnek, amelyek a közeli rjongbjoni nukleáris központot látják el nyersanyaggal. A koreai háború során heves harcok, köztük a pakcshoni csata helyszíne volt az ausztrál és a brit csapatok, valamint a kínai erők között. Ma a mezőgazdaság a fő arculata, eper-, alma- és selyemtermesztéssel. Plizio tanterv: Történelem K8 — koreai háborús csaták és bányászat.",
+      "factsAdvanced": [
+        "Pakcshon környékén 1950-ben a brit nemzetközösségi erők harcoltak a kínaiakkal.",
+        "A város közelében uránérc-feldolgozó létesítmények találhatók.",
+        "A Cshongcshon folyó völgye kiváló termőföldeket biztosít a rizsnek.",
+        "A nukleáris ipart kiszolgáló nyersanyagokat innen is szállítják Rjongbjonba.",
+        "A selyemhernyó-tenyésztés történelmi hagyomány a településen.",
+        "Pakcshon egy kisebb, kevésbé urbanizált, csendes agrárrégió."
+      ]
+    },
+    {
+      "id": "anbyon-cities-v2",
+      "descriptionAdvanced": "Anbjon egy történelmi parti város Kangvon tartományban, Vonszantól délre, amely már a Goryeo és Csoszon dinasztiák idején is fontos közigazgatási és katonai központ volt a Japán-tenger (Keleti-tenger) védelmében. A város gazdasága elsősorban a rizstermesztésre és a gyümölcstermesztésre fókuszál az Anbjon-síkságon, amely a hegyvidéki Kangvon tartomány kevés sík termőterületének egyike. Anbjonban található Észak-Korea egyik legnagyobb ifjúsági vízerőműve (Anbyon Youth Power Station), amelyet a hegyeken átvezetett víz táplál. Emellett a város híres a buddhista Pophjon-templom egykori helyszínéről is, valamint a környék kedvelt vadász- és halászterület. Plizio tanterv: Földrajz K6 — hegyvidéki mezőgazdaság és vízerőművek.",
+      "factsAdvanced": [
+        "Az Anbjon-síkság Kangvon tartomány legfontosabb rizstermő vidéke.",
+        "Az Anbjon Ifjúsági Vízerőmű az ország egyik mérnöki büszkesége.",
+        "A város a Csoszon-dinasztia (1392–1897) idején fontos tengerparti erődítmény volt.",
+        "Az itteni gyümölcsösök különösen a datolyaszilva-termelésről ismertek.",
+        "A Vonszan–Kumgangszan vasútvonal átszeli a várost.",
+        "Több ősi buddhista szentély romja is a város határában fekszik."
+      ]
+    },
+    {
+      "id": "chongjin-steel-works-economic-v2",
+      "descriptionAdvanced": "A Cshongdzsini Acélmű (Kim Cshek Vasmű) Észak-Korea legnagyobb és legfontosabb vaskohászati komplexuma, amely Cshongdzsin kikötővárosában található. A gyárat eredetileg a japán megszállás idején, az 1930-as években alapították 'Mitsubishi Vasgyár' néven. A második világháború után a szovjet technológiával kibővített üzem az ország ipari gerincévé vált, amely vasat, acéllemezeket és építőanyagokat állít elő a hadi- és gépipar számára. Az 1990-es évek gazdasági krízise (az Aranyos Menetelés) drasztikusan visszavetette a termelést, mivel hiányoztak az alkatrészek és az energia. Bár kapacitása ma is elmarad a fénykorától, a gyár továbbra is a dzsucse-ideológia önellátásának egyik szimbóluma. Plizio tanterv: Gazdaság K8 — nehézipar és kohászat Ázsiában.",
+      "factsAdvanced": [
+        "A komplexum Észak-Korea legnagyobb acél- és vaskohója.",
+        "A gyárat az 1930-as években a japán Mitsubishi alapította.",
+        "Nevét Kim Cshök tábornokról kapta, aki az 1950-es években volt jelentős vezető.",
+        "Fő nyersanyagát a közeli Muszan vasércbányából kapja.",
+        "Az 1990-es években a szén- és áramhiány miatt a termelés szinte leállt.",
+        "A gyár dolgozói a város elit munkásosztályát képviselik."
+      ]
+    },
+    {
+      "id": "hungnam-fertilizer-complex-economic-v2",
+      "descriptionAdvanced": "A Hungnami Műtrágyagyár (Hungnam Fertilizer Complex) Észak-Korea agráriumának talán legfontosabb ipari létesítménye, amely Hamhung városához tartozik. Az 1920-as években, még a japán gyarmati uralom alatt épült létesítmény akkoriban Ázsia legnagyobb vegyi üzemének számított. Fő profilja a nitrogén- és foszforműtrágyák gyártása, amelyek elengedhetetlenek a hegyvidéki ország gyenge minőségű termőföldjeinek feljavításához. Az éhínségek idején a gyár termelése kritikus szintre esett, ami hozzájárult a mezőgazdaság összeomlásához. Észak-Korea azóta többször is modernizálta a gyárat, hogy növelje az élelmezésbiztonságot. Külföldi elemzők szerint a létesítmény vegyifegyverek (például ideggázok) előállítására is alkalmas technológiával rendelkezhet. Plizio tanterv: Kémia K8 — ipari kémia és mezőgazdasági hozamnövelés.",
+      "factsAdvanced": [
+        "A gyárat 1927-ben alapították, a japán korszakban, a Jun Chisso cég vezetésével.",
+        "Célja a nitrogén- és ammóniaalapú műtrágyák tömeggyártása.",
+        "A koreai háború alatt az üzemet az amerikai légierő teljesen megsemmisítette.",
+        "Az 1950-es években szovjet és kelet-német segítséggel épült újjá.",
+        "Szakértők szerint a vegyipari kapacitás vegyifegyver-gyártást is lehetővé tesz.",
+        "A gyár folyamatos áramigénye óriási terhet ró az energiahálózatra."
+      ]
+    },
+    {
+      "id": "musan-iron-mine-economic-v2",
+      "descriptionAdvanced": "A Muszan Vasércbánya Ázsia egyik legnagyobb nyíltszíni vasércbányája, amely Észak-Hamgjong tartományban, a kínai határon fekvő Muszan város mellett helyezkedik el. A bánya az ország fémiparának és az acélexportnak az alapja; innen szállítják az ércet a Cshongdzsini Vasműbe és Kínába is. A kitermelést több száz méter mély teraszos gödrökben végzik, a munkát hatalmas dömperekkel és bányagépekkel segítik. Az érc becsült készletei elérik a 3 milliárd tonnát, azonban az elavult berendezések és az állandó áramhiány miatt a bánya nem tud teljes kapacitáson üzemelni. Az innen Kínába exportált érc Észak-Korea egyik legfőbb valutabevételi forrása. Plizio tanterv: Földrajz K8 — nyíltszíni bányászat és ásványkincsek.",
+      "factsAdvanced": [
+        "A Muszan bánya Ázsia legnagyobb nyíltszíni vasérclelőhelye.",
+        "A vasérckészletet mintegy 3 milliárd tonnára becsülik.",
+        "Közvetlen földalatti vezetékrendszeren (zagyvezeték) szállították az ércet a tengerpartra.",
+        "A kitermelt érc jelentős részét azonnal Kínába exportálják.",
+        "Az áramszünetek gyakran hónapokra megbénítják a kitermelést.",
+        "A bányaóriás szabad szemmel is látható a kínai határról."
+      ]
+    },
+    {
+      "id": "rason-port-economic-v2",
+      "descriptionAdvanced": "A Raszoni kikötő a Raszon Különleges Gazdasági Övezet legfontosabb tengeri létesítménye a Japán-tenger partján. Stratégiai értékét az adja, hogy ez egy mélyvízi, télen is jégmentes kikötő (ellentétben az orosz Vlagyivosztokkal). Észak-Korea a 2000-es években engedélyezte, hogy orosz és kínai vállalatok bérbe vegyék a kikötő egyes mólóit. Kína számára ez azért kulcsfontosságú, mert Jilin tartományának nincs közvetlen tengeri kijárata, így az ésszakkeleti kínai áruk Raszonon keresztül jutnak el a Csendes-óceánra. Oroszország felől szélesnyomtávú vasútvonal is épült a kikötőig a szénexport megkönnyítésére. A kikötő Észak-Korea próbálkozása a nemzetközi logisztikába való bekapcsolódásra. Plizio tanterv: Földrajz K8 — nemzetközi kereskedelem és logisztikai csomópontok.",
+      "factsAdvanced": [
+        "A raszoni kikötő egész évben jégmentes, mélyvízi kikötő.",
+        "Kína és Oroszország hosszú távra bérbe vett több dokkot (mólót) itt.",
+        "A kínai Jilin tartomány legfőbb tengeri kijárataként funkcionál.",
+        "2013-ban szélesnyomtávú vasúti összeköttetés épült ki az orosz hatáig.",
+        "Évente több millió tonna orosz és kínai szenet exportálnak innen.",
+        "Az övezetben lazábbak a vám- és vízumellenőrzések a külföldiek számára."
+      ]
+    },
+    {
+      "id": "sinuiju-cosmetics-factory-economic-v2",
+      "descriptionAdvanced": "A Sinidzsui Kozmetikai Gyár (Pomhyanggi) Észak-Korea egyik legismertebb könnyűipari létesítménye, amely az ország északnyugati határvárosában működik. A gyár a "tavaszi illat" (Pomhyanggi) márkanevű kozmetikumokat gyártja, amelyeket az ország elitje is használ, beleértve az arckrémeket, samponokat és ginzeng-alapú termékeket. A létesítményt a modern észak-koreai ipar egyik bemutató példájaként tartják számon, Kim Dzsongun is többször meglátogatta, hangsúlyozva a hazai termékek minőségének javítását a külföldi árukkal szemben. A gyár nemcsak a belföldi piacot szolgálja ki, hanem Oroszországba és Kínába is exportál, bizonyítva, hogy Észak-Korea képes a luxuscikkek gyártására is. Plizio tanterv: Gazdaság K7 — könnyűipar, kozmetikumok és luxuscikkek.",
+      "factsAdvanced": [
+        "A gyár zászlóshajó-márkája a 'Pomhyanggi' (Tavaszi Illat).",
+        "A termékek fő alapanyaga gyakran a helyi Koryo-ginzeng.",
+        "A vállalat több mint 300 féle szépségápolási terméket állít elő.",
+        "Észak-Korea a termékeket orosz és kínai piacokra is exportálja.",
+        "Kim Dzsongun 2018-as látogatása során a nyugati minőséget követelte meg a gyártól.",
+        "A gyár a kínai határ közelében fekszik, megkönnyítve az alapanyag-beszerzést."
+      ]
+    },
+    {
+      "id": "pukchang-thermal-power-plant-economic-v2",
+      "descriptionAdvanced": "A Pukcshangi Hőerőmű az ország legnagyobb elektromos áramot termelő létesítménye, amely Dél-Phjongan tartományban található. Az 1970-es évek elején, szovjet technikai segítséggel épült széntüzelésű erőmű Észak-Korea iparának és Phenjan városának is a legfőbb áramforrása. Beépített kapacitása papíron 1600 MW, a valóságban azonban az elöregedett berendezések és a gyenge minőségű szén miatt ennek csak töredékét képes előállítani. A helyi környezetszennyezés a szűretlen füst miatt rendkívül súlyos. Az erőmű folyamatos üzemben tartása nemzetbiztonsági kérdés Észak-Koreában, mivel leállása a teljes fővárosi hálózat omlását eredményezné. Plizio tanterv: Fizika K8 — hőerőművek működése és az áramellátás kihívásai.",
+      "factsAdvanced": [
+        "A Pukcshangi Hőerőmű Észak-Korea legnagyobb áramtermelő létesítménye.",
+        "Az 1960-as és 1970-es évek fordulóján épült szovjet mérnökök irányításával.",
+        "Az üzem a közeli szénbányák termelésére (antracit) támaszkodik.",
+        "Névleges teljesítménye 1600 megawatt (MW), bár a valós teljesítmény kevesebb.",
+        "Az erőmű felel Phenjan és az északi iparvárosok elektromos ellátásának nagy részéért.",
+        "16 hatalmas kéménye miatt a terület az ország egyik legszmogosabb régiója."
+      ]
+    },
+    {
+      "id": "supung-hydroelectric-plant-economic-v2",
+      "descriptionAdvanced": "A Szuphung-gát (Supung Dam) és vízerőmű a Jalu folyón található, Észak-Korea és Kína határán. Az 1937 és 1943 között, a japán megszállás alatt épült gigantikus gát az egyik legnagyobb volt a maga korában Ázsiában. A gát és az erőmű közös kínai-észak-koreai tulajdonban van, és mindkét országot ellátja árammal. A 106 méter magas betonépítmény a koreai háború alatt többször is célpontja volt az ENSZ légicsapásainak, hogy megbénítsák az északiak és a kínaiak áramellátását, de később újjáépítették. A vízerőmű szimbóluma lett Észak-Korea mérnöki büszkeségének, és még az ország címerében is szerepel egy hidroelektromos gát. Plizio tanterv: Földrajz K8 — megagátak, megújuló energia és határfolyók.",
+      "factsAdvanced": [
+        "A 106 méter magas Szuphung-gát az 1940-es évek elejére készült el.",
+        "A Jalu folyón fekszik, és Kína (Dandong) és Észak-Korea közösen üzemelteti.",
+        "A koreai háború idején (1952) amerikai bombázók súlyos csapást mértek rá.",
+        "A gát víztározója (Szuphung-tó) az egyik legnagyobb mesterséges tó a térségben.",
+        "A termelt elektromos áramot 50-50%-ban osztja meg a két nemzet.",
+        "A gát ikonikus képe ihlette az észak-koreai nemzeti címerben látható erőművet."
+      ]
+    },
+    {
+      "id": "hwanghae-iron-and-steel-complex-economic-v2",
+      "descriptionAdvanced": "A Hvanghe Vas- és Acélmű Szongnim városában (Észak-Hvanghe tartomány) található gigantikus nehézipari komplexum. Az eredetileg 'Mitsubishi Kjomipho' néven alapított üzem az észak-koreai kohászat egyik pillére, amely a főváros és a déli régiók építőanyag- és hadiipari szükségleteit elégíti ki. Az üzem az 1990-es években drasztikus hanyatlást élt át; az 'Aranyos Menetelés' éhínsége idején a dolgozók a gyár alkatrészeit adták el fémhulladékként az élelemért. A 2000-es években azonban a kormány jelentős forrásokat ölt a korszerűsítésbe, új oxigénbefúvásos kemencéket telepítve, hogy a gyár kevésbé függjön az importált kokszolható széntől. A komplexum a dzsucse (önellátás) eszméjének fontos gyakorlati helyszíne. Plizio tanterv: Gazdaság K8 — acélgyártás technológiája és gazdasági krízisek.",
+      "factsAdvanced": [
+        "A komplexum Szongnim városának gazdasági motorja.",
+        "Eredetileg 1918-ban kezdte meg működését a japán birodalom részeként.",
+        "A koreai háború alatt az amerikai légierő csaknem földig rombolta.",
+        "1998 körül a teljes összeomlás szélére került az országos éhínség miatt.",
+        "A közelmúltban technológiai átállást hajtottak végre az import-szén kiváltására.",
+        "A gyár saját folyami kikötővel rendelkezik a Taedong folyón."
+      ]
+    },
+    {
+      "id": "tanchon-port-economic-v2",
+      "descriptionAdvanced": "A Tancshoni kikötő (Dél-Hamgjong tartomány) Észak-Korea egyik legfontosabb tengeri exportcsomópontja a Japán-tenger partján. A kikötőt kifejezetten arra a célra bővítették és modernizálták 2012-ben a hadsereg bevonásával, hogy a Tancshon környéki hegyekben bányászott ásványkincseket – főként magnezitet, cinket és ólmot – hatékonyan tudják exportálni. Tancshon az ország ásványi nyersanyag-vagyonának központja, az új, mélyvízi dokkok pedig lehetővé teszik a nagy űrtartalmú teherhajók fogadását is. Az innen származó ércexport, bár az ENSZ-szankciók korlátozzák, Észak-Korea egyik legfontosabb külföldi valutabevételi forrása maradt. Plizio tanterv: Földrajz K8 — kikötőépítés és nemzetközi embargók hatása.",
+      "factsAdvanced": [
+        "Tancshon kikötőjét 2012-ben adták át nagyszabású bővítési munkálatok után.",
+        "A kikötő építését a Koreai Néphadsereg alakulatai végezték el.",
+        "Fő funkciója a komdoki cink- és magnezitbányák termelésének tengeri exportja.",
+        "A kikötő vízmélysége lehetővé teszi több tízezer tonnás hajók fogadását.",
+        "Kína az egyik legfőbb felvásárlója a tancshoni ércszállítmányoknak.",
+        "Az ENSZ fémexport-tilalma miatt a kikötő forgalma jelentősen ingadozik."
+      ]
+    },
+    {
+      "id": "kumgol-zinc-mine-economic-v2",
+      "descriptionAdvanced": "A Kumgol (Aranyvölgy) bánya, amely gyakran a Komdok bányászati régió részeként szerepel, Észak-Korea és a világ egyik legnagyobb cink- és ólomlelőhelye Tancshon közelében. A hegyvidéki bányarendszer mélyaknás fejtéssel működik, munkások tízezreit foglalkoztatva zord körülmények között. Az itt kitermelt cink Észak-Korea exportgazdaságának mentőöve, a világpiacon nagy kereslet van rá. 2020-ban a régiót súlyos tájfunok és áradások pusztították el, ami több bányaaknát elárasztott és falvakat mosott el; a helyreállításra az államvezetés azonnal katonai egységeket vezényelt, bizonyítva a bánya kritikus fontosságát. A munkások városrészei szinte a bánya árnyékában, meredek völgyekben helyezkednek el. Plizio tanterv: Földrajz K8 — ércbányászat, természeti katasztrófák és nyersanyagpiac.",
+      "factsAdvanced": [
+        "A Kumgol-Komdok régió a világ egyik legnagyobb cinklelőhelye.",
+        "A bányák több mint 800-1000 méter mélyen fúródnak a hegyekbe.",
+        "A cink- és ólomexport elengedhetetlen az államkassza túléléséhez.",
+        "2020-ban a Maysak tájfun súlyos áradásokat és omlásokat okozott a bányában.",
+        "Kim Dzsongun személyesen rendelte el a térség rohamléptekben történő újjáépítését.",
+        "A bányaváros lakói szinte kizárólag a kitermelésben vagy feldolgozásban dolgoznak."
+      ]
+    }
+  ]
+}

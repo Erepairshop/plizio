@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-arp-industrial-v2",
+      "descriptionAdvanced": "Az ARP (Alutrint) ipari terület La Brea-ban eredetileg egy nagyszabású alumíniumkohó-projekt helyszíneként szolgált volna. Bár a projektet környezetvédelmi és gazdasági okokból leállították, a terület ma fontos ipari bázisként és logisztikai központként funkcionál. A helyszín előnyös fekvése a tengerparton ideálissá teszi a nehézipari berendezések tárolására és mozgatására. Az ARP terület fejlesztése része Trinidad délnyugati régiójának ipari diverzifikációs törekvéseinek. Földrajz K8 — ipari fejlesztések és környezetvédelem.",
+      "factsAdvanced": [
+        "Eredetileg egy alumíniumkohó-projekt helyszíne volt.",
+        "La Brea ipari övezetében található stratégiai pont.",
+        "Ma logisztikai és nehézgép-tároló központként üzemel.",
+        "Közvetlen tengerparti hozzáféréssel rendelkezik.",
+        "A terület infrastruktúrája alkalmas nagyüzemi gyártásra.",
+        "Fontos szerepet játszik a délnyugati régió gazdasági életében.",
+        "A környezetvédelmi viták hatására a projekt arculata megváltozott.",
+        "Modern közműhálózattal és biztonsági rendszerekkel van ellátva."
+      ]
+    },
+    {
+      "id": "tt-chaguaramas-industrial-v2",
+      "descriptionAdvanced": "Chaguaramas ipari övezete az északnyugati félszigeten Trinidad tengeri iparának központja. Ez a terület híres a hajójavító üzemeiről, a dokkjairól és a tengeri olajfúrást kiszolgáló logisztikai bázisairól. A II. világháború alatt amerikai katonai bázisként szolgált, és az akkori infrastruktúra alapozta meg a mai ipari tevékenységet. Chaguaramas a jachtszervizelésben is regionális vezető szerepet tölt be, vonzva a hajótulajdonosokat az egész Karib-térségből. Földrajz K8 — tengeri ipar és katonai múlt.",
+      "factsAdvanced": [
+        "A sziget északnyugati félszigetén található tengeri ipari zóna.",
+        "A II. világháborús amerikai bázis helyén alakult ki.",
+        "A Karib-térség egyik legfontosabb hajójavító és karbantartó központja.",
+        "Számos marina és dokk szolgálja ki a tengeri flottákat.",
+        "Fontos bázisa a mélytengeri olaj- és gázipari támogatásnak.",
+        "Gazdag történelmi emlékekkel és régi katonai épületekkel rendelkezik.",
+        "A terület ötvözi az ipart a természetvédelemmel (Nemzeti Park).",
+        "Kiemelkedő szaktudású munkaerő dolgozik a hajóépítésben."
+      ]
+    },
+    {
+      "id": "tt-piarco-logistics-industrial-v2",
+      "descriptionAdvanced": "A Piarco Logisztikai Park a nemzetközi repülőtér közvetlen szomszédságában található, és Trinidad egyik legmodernebb kereskedelmi hubja. A parkot kifejezetten a légi áruszállítás, a raktározás és a gyors disztribúció igényeire tervezték. Számos multinacionális vállalat tart fenn itt központi elosztó raktárakat a karibi régió számára. A Piarco-i övezet kiváló infrastruktúrája és a repülőtér közelsége felgyorsítja a nemzetközi kereskedelmi folyamatokat. Földrajz K8 — légi logisztika és raktározás.",
+      "factsAdvanced": [
+        "A Piarco Nemzetközi Repülőtér közvetlen közelében fekszik.",
+        "Modern logisztikai és elosztó központ nemzetközi cégek számára.",
+        "Kifejezetten légi szállítmányozásra és raktározásra specializálódott.",
+        "Kiváló közúti kapcsolatokkal rendelkezik a sziget minden részébe.",
+        "A park infrastruktúrája megfelel a legmagasabb nemzetközi szabványoknak.",
+        "Segíti az ország kereskedelmi diverzifikációját.",
+        "Szigorú vám- és biztonsági felügyelet alatt áll.",
+        "Dinamikusan bővülő terület új irodákkal és raktárakkal."
+      ]
+    },
+    {
+      "id": "tt-point-fortin-industry-v2",
+      "descriptionAdvanced": "Point Fortin ipara elválaszthatatlan a cseppfolyósított földgáz (LNG) gyártásától, de a város történelme a kőolajjal kezdődött. Az Atlantic LNG hatalmas üzeme uralja a város gazdaságát, munkahelyek ezreit biztosítva közvetlenül és közvetve. Az ipari zóna magában foglalja a gázfeldolgozó egységeket, a tárolóparkokat és a speciális exportterminálokat. Point Fortin ipari sikere tette Trinidadot a világ egyik vezető LNG-exportőrévé. A város közössége szoros szimbiózisban él ezzel a modern energetikai óriással. Sachkunde K8 — energiaipar és földgáz.",
+      "factsAdvanced": [
+        "Point Fortin a trinidadi LNG-gyártás központja.",
+        "Itt található az Atlantic LNG, a nyugati félteke egyik legnagyobb gázüzeme.",
+        "Az ipar már az 1900-as évek elején elindult a kőolaj-kitermeléssel.",
+        "A város gazdaságának több mint 90%-a az energiaiparhoz kötődik.",
+        "Modern oktatási központok segítik a helyi szakemberképzést.",
+        "A gyárterület szigorúan védett és ellenőrzött ipari zóna.",
+        "Point Fortin híres az iparhoz kapcsolódó kulturális támogatásairól.",
+        "Az üzem technológiája a világ élvonalába tartozik."
+      ]
+    },
+    {
+      "id": "tt-siparia-energy-industrial-v2",
+      "descriptionAdvanced": "Siparia energiaipari övezete a szárazföldi kőolaj- és földgázkitermelés egyik legrégebbi bázisa Trinidadon. A város környéke tele van működő olajkutakkal, amelyek generációk óta biztosítják a nyersanyagot az ország számára. Az ipari tevékenység itt kevésbé látványos, mint Point Lisas-ban, de a kiterjedt csővezeték-hálózat és a kisméretű gyűjtőállomások behálózzák a tájat. Siparia gazdasága stabilan támaszkodik erre az ágazatra, miközben kiszolgálja a délnyugati régió energiaigényeit. Földrajz K8 — szárazföldi olajkitermelés.",
+      "factsAdvanced": [
+        "Trinidad egyik legfontosabb szárazföldi (onshore) olajmezője.",
+        "A kitermelés már több mint 100 éve folyik a régióban.",
+        "Sűrű kőolaj- és földgázvezeték-hálózat jellemzi a környéket.",
+        "Számos kisebb szervizcég és mérnöki iroda székhelye.",
+        "A helyi gazdaság motorja az állami és magán olajvállalatok tevékenysége.",
+        "A fúrási technológiák folyamatosan modernizálódnak.",
+        "Az ipari terület jól integrálódik a mezőgazdasági tájba.",
+        "Fontos szerepet játszik a hazai energiaellátás biztonságában."
+      ]
+    },
+    {
+      "id": "tt-la-brea-asphalt-v2",
+      "descriptionAdvanced": "A La Brea-i aszfaltipar alapja a Pitch Lake, a világ legnagyobb természetes aszfalt-tava. Ez a bányászati tevékenység egyedülálló, hiszen a tó folyamatosan 'újratermeli' önmagát a föld mélyéből feltörő bitumen révén. A kitermelt nyers aszfaltot helyben finomítják és dolgozzák fel, majd hordókban szállítják a világ minden tájára útépítési és vízszigetelési célokra. A Lake Asphalt of Trinidad and Tobago vállalat a terület kezelője, amely évszázados hagyományokat ötvöz a modern exportkövetelményekkel. Sachkunde K8 — különleges bányászat és aszfalt.",
+      "factsAdvanced": [
+        "A világ legnagyobb természetes aszfaltbányája a Pitch Lake.",
+        "A tó becsült mélysége több mint 75 méter a közepén.",
+        "Az aszfaltot világszerte használják olyan helyeken, mint a Buckingham-palota előtti út.",
+        "A bánya öntisztuló: a kitermelt lyukak pár nap alatt visszatöltődnek.",
+        "Fontos turisztikai látványosság és gazdasági erőforrás egyszerre.",
+        "A finomított aszfaltot speciális hőálló csomagolásban exportálják.",
+        "A terület geológiai ritkaság, amely tudósokat vonz a világ minden részéről.",
+        "A bányászat nagy részét ma is speciális gépekkel végzik a tó felszínén."
+      ]
+    },
+    {
+      "id": "tt-point-lisas-desal-v2",
+      "descriptionAdvanced": "A Point Lisas-i sótalanító üzem (Desalcott) a Karib-térség legnagyobb ilyen jellegű létesítménye, amely tengervízből állít elő ipari és lakossági felhasználásra alkalmas édesvizet. Az üzem kritikus fontosságú a Point Lisas-i ipari park gyárai számára, amelyeknek hatalmas mennyiségű tiszta vízre van szükségük a hűtési és gyártási folyamatokhoz. A fordított ozmózis technológiát alkalmazó telep segít enyhíteni Trinidad vízhiányát, különösen a száraz évszakban. Ez a létesítmény a technológiai fejlődés és a fenntartható erőforrás-gazdálkodás példája. Földrajz K8 — vízgazdálkodás és technológia.",
+      "factsAdvanced": [
+        "A Karib-térség legnagyobb édesvíz-előállító sótalanító üzeme.",
+        "Fordított ozmózis (reverse osmosis) technológiát alkalmaz.",
+        "Napi több millió gallon vizet szolgáltat az iparnak és a lakosságnak.",
+        "Point Lisas ipari parkjának szívében található.",
+        "Csökkenti a sziget függőségét a természetes vízgyűjtőktől.",
+        "Kiemelt biztonsági és higiéniai előírások mellett működik.",
+        "A létesítmény az ország infrastrukturális biztonságának záloga.",
+        "Modern monitorozó rendszerekkel felügyelik a vízminőséget."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-oil-v2",
+      "descriptionAdvanced": "Guayaguayare olajmezői Trinidad kőolaj-történelmének bölcsőjét jelentik, hiszen itt kezdődött a kereskedelmi kitermelés a 20. század elején. A falu környékén és a tengerpart mentén ma is számos működő kút látható, amelyek dacolnak az idővel. Ez a terület a keleti parti olaj- és gázkitermelés (East Coast Marine) szárazföldi bázisa is. Guayaguayare gazdasága és társadalmi szerkezete teljesen összefonódott az energiaiparral, büszkén viselve a 'Trinidad olajvárosa' címet. Földrajz K8 — az olajipar története és kitermelés.",
+      "factsAdvanced": [
+        "Trinidad első kereskedelmi olajtermelő területe (1902 óta).",
+        "A szárazföldi és tengeri olajbányászat találkozási pontja.",
+        "Számos történelmi és modern olajkút (nodding donkeys) látható a tájban.",
+        "Központi szerepet játszik a keleti parti gázvezetékek kezelésében.",
+        "A lakosság generációk óta az olajiparban dolgozik.",
+        "Fontos kutatási terület a geológusok számára az olajképződés megértéséhez.",
+        "A terület infrastruktúrája szorosan kötődik az energetikai hálózathoz.",
+        "Trinidad gazdasági függetlenségének egyik történelmi pillére."
+      ]
+    },
+    {
+      "id": "tt-fort-gros-islet-history-v2",
+      "descriptionAdvanced": "Fort Gros Islet egykor stratégiai jelentőségű erődítmény volt, amely Trinidad partjait védte a gyarmati háborúk idején. Az erőd elhelyezkedése lehetővé tette a tengeri útvonalak ellenőrzését és a korai figyelmeztetést az ellenséges hajók érkezésekor. Ma az erőd maradványai, köztük a vastag kőfalak és az öreg ágyúk, a sziget viharos katonai múltjáról mesélnek. A romok népszerűek a történelem szerelmesei és a kirándulók körében, mivel lenyűgöző panorámát nyújtanak az óceánra. Az erőd sorsa hűen tükrözi a Karib-térségért folytatott európai nagyhatalmi küzdelmeket. Történelem K7 — erődítmények és gyarmati védelem.",
+      "factsAdvanced": [
+        "A 18. században épült a partvonal védelmére.",
+        "Stratégiai kilátóhelyként szolgált a tengeri forgalom felügyeletére.",
+        "Ma népszerű történelmi emlékhely és kilátópont.",
+        "A falak között még ma is láthatók eredeti brit ágyúk.",
+        "Fontos szerepet játszott a francia és brit flották közötti harcokban.",
+        "A romok jól mutatják a korszak katonai építészetét.",
+        "Többször cserélt gazdát a gyarmati hatalmak között.",
+        "Környezete gazdag helyi növényvilágban."
+      ]
+    },
+    {
+      "id": "tt-st-joseph-ruins-history-v2",
+      "descriptionAdvanced": "St. Joseph, Trinidad legelső spanyol fővárosának romjai a sziget korai gyarmati korszakának néma tanúi. Az 1592-ben alapított város központjában még láthatók a régi spanyol épületek alapjai és az egykori kormányzati negyed maradványai. Itt történt Trinidad hivatalos átadása a briteknek 1797-ben, ami lezárta a spanyol korszakot. A romok és a környék ódon hangulata emlékeztet a sziget spanyol örökségére és a korai telepesek küzdelmeire. A terület ma fontos történelmi emlékhely, amely segít megérteni Trinidad nemzeti identitásának gyökereit. Történelem K7 — az első főváros és a brit hódítás.",
+      "factsAdvanced": [
+        "Trinidad első spanyol fővárosának, San José de Oruñának a helyszíne.",
+        "A romok között találhatók a legkorábbi európai építmények maradványai.",
+        "Itt írták alá az 1797-es kapitulációs okmányt a britekkel.",
+        "A terület a 16. század óta lakott és központi jelentőségű volt.",
+        "A Szent József-templom alapjai a spanyol vallási építészetet tükrözik.",
+        "Számos régészeti feltárás zajlott a területen.",
+        "A város egykor az Északi-hegység védelmében épült.",
+        "Történelmi temetője a gyarmati elit nyughelye."
+      ]
+    },
+    {
+      "id": "tt-san-fernando-fort-history-v2",
+      "descriptionAdvanced": "A San Fernando Hill tetején álló erődítmény maradványai fontos stratégiai pontot jelentettek Dél-Trinidad védelmében. Az erőd ágyúi a Paria-öbölre és a környékbeli cukornádültetvényekre néztek, ellenőrizve a déli régió forgalmát. A domb maga is fontos tájékozódási pont volt a hajósok számára már az őslakosok idejében is. Bár az erőd nagy része az idők során elpusztult, a megmaradt falak és a történelmi környezet ma is vonzza a látogatókat. A San Fernando-i erőd a déli 'főváros' katonai büszkeségének szimbóluma. Történelem K7 — várostervezés és katonai megfigyelés.",
+      "factsAdvanced": [
+        "A San Fernando Hill (Anaparima) stratégiai magaslatán épült.",
+        "Kiváló kilátást biztosított a Paria-öböl déli részére.",
+        "A 18. és 19. században fontos védelmi funkciót töltött be.",
+        "A domb neve az őslakos amerikaiaktól származik (Anaparima).",
+        "Az erőd maradványai ma egy népszerű park területén találhatók.",
+        "Segített megvédeni a várost a tengeri kalózoktól és ellenséges flottáktól.",
+        "A katonai építészet és a természet találkozásának szép példája.",
+        "A domb kövét évtizedekig bányászták, ami megváltoztatta az alakját."
+      ]
+    },
+    {
+      "id": "tt-mission-ruins-history-v2",
+      "descriptionAdvanced": "A Mission romjai Princes Town szívében az egykori spanyol katolikus missziós tevékenység emlékét őrzik. A települést eredetileg 'Mission' néven alapították a 18. században az őslakosok keresztény hitre térítésére. A templom és a hozzá tartozó épületek romjai a spanyol gyarmati építészeti stílus jegyeit viselik, és emlékeztetnek a misszionáriusok és az őslakosok közötti bonyolult viszonyra. Princes Town átnevezése előtt ez a helyszín volt a régió spirituális és közigazgatási központja. A romok ma a vallástörténet és a településfejlődés fontos tanúi. Történelem K7 — missziók és őslakos kultúra.",
+      "factsAdvanced": [
+        "A missziót spanyol kapucinus szerzetesek alapították a 18. században.",
+        "Princes Town eredeti neve 'Mission' volt ezen helyszín után.",
+        "A romok az őslakosok és a spanyolok közötti érintkezés helyszínei.",
+        "A területen korai keresztény templomok alapjai láthatók.",
+        "Fontos szerepet játszott a dél-trinidadi mezőgazdaság elindításában.",
+        "A romok a spanyol barokk építészet egyszerűsített változatait mutatják.",
+        "A terület ma védettség alatt álló történelmi emlékhely.",
+        "Kiválóan dokumentálja a missziós falvak szerkezetét."
+      ]
+    },
+    {
+      "id": "tt-carenage-fort-history-v2",
+      "descriptionAdvanced": "Carenage erődje egy kisebb, de annál fontosabb tengerparti védmű volt, amely Port of Spaintól nyugatra őrizte az öblöt. A név a hajók karbantartására (carenage) utal, amihez elengedhetetlen volt a fegyveres védelem a kalózok ellen. Az erőd maradványai ma is láthatók a parton, emlékeztetve arra az időre, amikor a tengeri kereskedelem még állandó veszélyben volt. Az erőd elhelyezkedése lehetővé tette a Chaguaramas felé vezető vízi utak hatékony ellenőrzését. Carenage történelmi erődje a helyi halászközösség büszkesége is. Történelem K7 — partvédelem és tengeri kereskedelem.",
+      "factsAdvanced": [
+        "A 18. században épült a nyugati partvonal védelmére.",
+        "Nevét a hajók tisztításának és javításának (carenage) helyszínéről kapta.",
+        "Ágyúi a Paria-öböl bejáratát tartották szemmel.",
+        "Fontos szerepet játszott a gyarmati flotta biztonságának garantálásában.",
+        "A romok ma népszerű fotóhelyszínek és pihenőpontok a parton.",
+        "A falak helyi kövekből és korallmészkőből épültek.",
+        "Története szorosan összefonódik a francia telepesek jelenlétével.",
+        "Az erőd maradványai ma is meghatározzák a tengerpart képét."
+      ]
+    },
+    {
+      "id": "tt-trinidad-sugar-mill-history-v2",
+      "descriptionAdvanced": "A történelmi trinidadi cukormalmok maradványai a sziget egykori 'Cukor-királyságának' mementói. Ezek a kőből épült tornyok és kémények egykor az ültetvények szívei voltak, ahol a rabszolgák és később a szerződéses munkások feldolgozták a nádat. A malmok technológiája az állati erőtől a gőzgépekig fejlődött, amit a romok különböző rétegei is jól mutatnak. Számos ilyen malom maradt fenn az ország központi síkságain, emlékeztetve a cukoripar gazdasági és társadalmi súlyára. A romok ma a rabszolgaság és a gyarmati gazdaság fájdalmas, de fontos emlékei. Történelem K8 — cukornád-korszak és ipari technológia.",
+      "factsAdvanced": [
+        "A 18. és 19. századi trinidadi gazdaság alapjai voltak.",
+        "Számos romos állapotú malomtorony látható Közép-Trinidadban.",
+        "A legkorábbi malmokat szél vagy igásállatok hajtották.",
+        "Később modern gőzgépeket telepítettek beléjük a hatékonyság növelésére.",
+        "A romok a rabszolgamunka és a gyarmati kizsákmányolás helyszínei.",
+        "Építészetükre a robusztus kő- és téglafalak jellemzőek.",
+        "Mára a természet és az erdő gyakran benőtte ezeket a tornyokat.",
+        "Fontos ipartörténeti emlékek a Karib-térségben."
+      ]
+    },
+    {
+      "id": "tt-spanishtown-ruins-history-v2",
+      "descriptionAdvanced": "Spanishtown romjai Trinidad egyik legrejtélyesebb történelmi helyszíne, amely a korai spanyol települések szerkezetét mutatja be. Ez a terület egykor a sziget belsejében kialakított adminisztratív központ volt, mielőtt Port of Spain vette volna át a vezető szerepet. A romok között lakóházak, közösségi terek és vallási épületek nyomai találhatók, amelyek a spanyol gyarmati élet mindennapjairól tanúskodnak. Spanishtown pusztulása és elhagyása szorosan kötődik a 18. századi politikai változásokhoz és a gazdasági hangsúlyok átrendeződéséhez. A terület ma fontos régészeti és történelmi kutatópont. Történelem K7 — korai települések és közigazgatás.",
+      "factsAdvanced": [
+        "A 17. és 18. századi spanyol telepesek egyik bázisa volt.",
+        "A romok a korabeli spanyol várostervezés jegyeit mutatják.",
+        "Fontos leleteket találtak itt a gyarmati háztartási eszközökből.",
+        "A terület elhagyása a brit hódítás után gyorsult fel.",
+        "A romok között spanyol stílusú kőfalak és boltívek láthatók.",
+        "Fontos kapocs a sziget spanyol és brit korszaka között.",
+        "A környékbeli növényzet ma már nagyrészt visszahódította a területet.",
+        "A romok védett történelmi és kulturális örökségnek számítanak."
+      ]
+    },
+    {
+      "id": "tt-tobago-french-fort-history-v2",
+      "descriptionAdvanced": "Tobago francia erődje (Fort Milford) a sziget sűrűn változó gyarmati sorsának egyik jelképe. Az erődöt a franciák építették a 18. század végén, hogy megerősítsék uralmukat a sziget felett a britekkel szemben. Az erődítmény vastag falai és stratégiai elhelyezkedése a Crown Point-félszigeten lehetővé tette a tengeri útvonalak ellenőrzését. Bár ma már csak romos állapotban látható, a James-erőd mellett ez a sziget egyik legfontosabb katonai emléke. A romok között sétálva megelevenedik a Karib-tengerért folytatott küzdelmek kora. Történelem K7 — a britek és franciák harca Tobagóért.",
+      "factsAdvanced": [
+        "A 18. században épült a franciák által Tobago védelmére.",
+        "Stratégiai elhelyezkedése a délnyugati félszigeten kulcsfontosságú volt.",
+        "Az erőd neve a francia és brit korszakok változásait tükrözi.",
+        "Ma népszerű kilátópont a repülőtér és a tenger felé.",
+        "Eredeti francia ágyúk maradványai még ma is láthatók.",
+        "Fontos szerepet játszott az 1781-es Tobagóért folytatott csatában.",
+        "A romok jól mutatják a korszak katonai mérnöki tudományát.",
+        "A környék parkosított területei kedveltek a turisták körében."
+      ]
+    },
+    {
+      "id": "tt-old-courthouse-history-v2",
+      "descriptionAdvanced": "A régi bíróság épülete Trinidad történelmi városaiban a gyarmati igazságszolgáltatás és a brit rend szimbóluma volt. Ezek az épületek gyakran a városok legimpozánsabb, neoklasszicista stílusú építményei voltak, tükrözve a birodalom erejét. Az ódon falak között zajlottak a sziget sorsát meghatározó perek és jogi döntések. Számos ilyen régi bíróság ma is áll, némelyikük még mindig eredeti funkciójában vagy múzeumként üzemel. Ezek az épületek a jogfolytonosság és a társadalmi rend fejlődésének fontos mérföldkövei Trinidadon. Történelem K8 — jogrendszer és brit adminisztráció.",
+      "factsAdvanced": [
+        "A 19. századi brit gyarmati építészet jellegzetes példái.",
+        "Gyakran a városok főterén (Savannah) helyezkednek el.",
+        "Híres neoklasszicista stílusjegyek és vastag kőfalak jellemzik.",
+        "Itt hozták meg a legfontosabb ítéleteket a gyarmati időkben.",
+        "Számos épületet ma műemlékként tartanak számon.",
+        "A belső terekben gyakran megmaradtak az eredeti fabútorok.",
+        "A jog és a rend szimbólumai voltak a helyi lakosság számára.",
+        "Fontos szerepük volt a rabszolgaság utáni társadalom formálásában."
+      ]
+    },
+    {
+      "id": "tt-port-of-spain-citadel-history-v2",
+      "descriptionAdvanced": "A Port of Spain-i Citadella (Fort San Andres) a főváros kikötőjét védő legfontosabb erődítmény volt a spanyol és brit időkben. Az erőd bástyái közvetlenül a vízparton álltak, ágyúik pedig az egész öblöt ellenőrzés alatt tartották. A Citadella nemcsak katonai bázis, hanem adminisztratív központ és börtön is volt a történelem során. Ma az erődítmény egy része modern épületekbe integrálódva látható a város központjában. A Citadella története Port of Spain felemelkedésének és stratégiai fontosságának krónikája. Történelem K7 — fővárosi erődök és stratégia.",
+      "factsAdvanced": [
+        "Az utolsó jelentős spanyol erődítmény volt Trinidadon.",
+        "A 18. század végén épült Port of Spain kikötőjének védelmére.",
+        "Ágyúi megakadályozták az ellenséges hajók partraszállását.",
+        "A brit hódítás után Fort San Andres néven működött tovább.",
+        "Ma a városi forgalom közepén, történelmi emlékhelyként áll.",
+        "A romok falai masszív kőből és téglából épültek.",
+        "Fontos szerepet játszott a városi rend fenntartásában.",
+        "Itt található az országos közlekedési múzeum egy része."
+      ]
+    },
+    {
+      "id": "tt-dutch-settlement-site-history-v2",
+      "descriptionAdvanced": "A holland település helyszíne Tobagón a sziget egyik legrégebbi európai emlékhelye, amely a 17. századi holland gyarmatosítási kísérleteket idézi. A hollandok 'New Walcheren' néven alapítottak itt kolóniát, és erődöt is emeltek a terület védelmére. Bár a település végül elpusztult a britekkel és spanyolokkal folytatott harcokban, a régészeti leletek (kerámiák, fegyverek) sokat elárulnak a korabeli életről. A helyszín fontos emlékeztető arra, hogy Tobago a gyarmati hatalmak egyik legvitatottabb célpontja volt a Karib-térségben. Történelem K7 — a hollandok jelenléte és a szigetekért folytatott harc.",
+      "factsAdvanced": [
+        "A 17. századi holland telepesek bázisa volt Tobagón.",
+        "Eredeti neve 'Nieuw Walcheren' volt a holland régió után.",
+        "A települést többször lerombolták az ellenséges flották.",
+        "Fontos régészeti lelőhely, ahol európai és őslakos tárgyak keverednek.",
+        "Az erődítmény alapjai ma is felismerhetők a terepen.",
+        "Tobago egyik legkorábbi európai típusú városa volt.",
+        "Híres a holland tégla- és kerámialeleteiről.",
+        "A terület ma védett történelmi park."
+      ]
+    },
+    {
+      "id": "tt-plantation-manor-ruins-history-v2",
+      "descriptionAdvanced": "Az ültetvényes kúriák (Great Houses) romjai Trinidadon a gyarmati arisztokrácia fényűző, mégis kegyetlen alapokon nyugvó életét mutatják be. Ezek az épületek általában a birtokok legmagasabb pontjain álltak, hogy a gazda szemmel tarthassa a földeket és a munkásokat. A romok között gyakran láthatók a díszes oszlopok, a széles verandák és a vastag, hűvös kőfalak maradványai. Ezek a házak a rabszolgatartó gazdaság irányító központjai voltak, és történetük elválaszthatatlan a felszabadítási küzdelmektől. Ma a romok a társadalmi egyenlőtlenség és a történelmi átalakulás mementói. Történelem K8 — ültetvényes társadalom és építészet.",
+      "factsAdvanced": [
+        "A 18. és 19. századi cukor- és kakaóbirtokok központi épületei voltak.",
+        "Építészetük a trópusi klímához igazított európai stílusokat követte.",
+        "A romok gyakran meredek dombtetőkön találhatók.",
+        "Szerkezetükben keveredik a helyi kő, a tégla és a trópusi keményfa.",
+        "A házak alatt gyakran börtönök vagy büntetőkamrák is voltak.",
+        "A felszabadítás után sok kúriát felégettek vagy elhagytak.",
+        "Mára a természet gyakran visszahódította ezeket az ódon falakat.",
+        "Fontos helyszínek a gyarmati kor társadalmi rendjének megértéséhez."
+      ]
+    },
+    {
+      "id": "tt-signal-station-history-v2",
+      "descriptionAdvanced": "A történelmi jelzőállomások (Signal Stations) Trinidad és Tobago legmagasabb pontjain alkottak egy komplex kommunikációs hálózatot a rádió előtti korszakban. Zászlókkal, fényekkel vagy lövésekkel továbbították az üzeneteket a hajók érkezéséről vagy ellenséges fenyegetésről az erődök és a főváros között. A leghíresebb ilyen állomások Fort George-ban és a Chaguaramas-hegyeken találhatók. Ezek a pontok ma is a sziget legjobb kilátóhelyei, ahonnan tiszta időben messzire el lehet látni az óceánon. A jelzőállomások a korabeli 'internet' szerepét töltötték be. Földrajz K7 — kommunikáció és tájékozódás a múltban.",
+      "factsAdvanced": [
+        "A 18. és 19. századi katonai távközlés legfontosabb pontjai voltak.",
+        "Zászlókkal és fényjelekkel (szemafor) továbbították az üzeneteket.",
+        "Stratégiai magaslatokon, például a Fort George tetején helyezkedtek el.",
+        "Segítségükkel órákkal a hajók érkezése előtt értesítették a kikötőt.",
+        "A hálózat lehetővé tette a szigetek közötti gyors kommunikációt.",
+        "Ma népszerű kilátóhelyek és történelmi emlékhelyek.",
+        "Az állomások épületei robusztus és időjárásálló kivitelben készültek.",
+        "A korabeli technológia zseniális mérnöki megoldásait tükrözik."
+      ]
+    },
+    {
+      "id": "tt-parang-centre-history-v2",
+      "descriptionAdvanced": "A Parang Központ a spanyol kreol zenei örökség és a tradicionális trinidadi kultúra őrzőhelye. A parang zene a spanyol telepesek és a venezuelai bevándorlók hatására alakult ki, és ma is a trinidadi karácsony elengedhetetlen része. A központban bemutatják a hagyományos hangszereket, mint a cuatro vagy a maracas, és dokumentálják a híres parang-énekesek életművét. Ez a kulturális helyszín segít megőrizni a spanyol nyelv és zene befolyását a sziget életében. A Parang Központ a közösségi identitás és a zenei sokszínűség fontos bázisa. Sachkunde K3 — zene, hagyomány és karácsony.",
+      "factsAdvanced": [
+        "A spanyol-venezuelai eredetű parang zene kulturális központja.",
+        "Itt őrizik a legfontosabb tradicionális hangszereket és kottákat.",
+        "Központi szerepet játszik a karácsonyi parang-fesztiválok szervezésében.",
+        "Híres énekesek (paranderos) emléktárgyait és felvételeit mutatja be.",
+        "A központ fontos oktatási helyszín a fiatal generációk számára.",
+        "A spanyol kreol nyelv és zene trinidadi bázisa.",
+        "Minden évben tízezreket vonzanak a központ által támogatott koncertek.",
+        "A zenei stílus ötvözi a vallási témákat a népi ritmusokkal."
+      ]
+    },
+    {
+      "id": "tt-military-hospital-ruins-history-v2",
+      "descriptionAdvanced": "A régi katonai kórház romjai Port of Spain és Chaguaramas között a gyarmati egészségügy és a hadsereg történetének fontos emlékei. Az épületet a 19. században emelték a szigeten állomásozó katonák ellátására, akik gyakran küzdöttek trópusi betegségekkel, például sárgalázzal vagy maláriával. A romok monumentális méretei és a vastag falak a korabeli orvostudomány és katonai fegyelem szellemét tükrözik. Ma az elhagyatott falak és a természet találkozása kísérteties, mégis méltóságteljes látványt nyújt. A romok a sziget egészségügyi fejlődésének egyik korai állomását jelképezik. Történelem K8 — orvostudomány és katonai élet.",
+      "factsAdvanced": [
+        "A 19. századi brit katonai orvoslás egyik központja volt.",
+        "Kifejezetten trópusi betegségek kezelésére specializálódott.",
+        "Az épület robusztus kő- és téglafalai ma is állnak.",
+        "Hatalmas belső terei és folyosói a korabeli kórházak szerkezetét mutatják.",
+        "A romok a természetvédelmi területek szélén találhatók.",
+        "Fontos szerepet játszott a gyarmati flotta egészségügyi védelmében.",
+        "A terület ma védett történelmi és építészeti emlékhely.",
+        "A romok kísérteties hangulata legendákat is szült a helyiek körében."
+      ]
+    },
+    {
+      "id": "tt-slave-market-site-history-v2",
+      "descriptionAdvanced": "A rabszolgapiac egykori helyszíne Trinidadon a sziget történetének legsötétebb és legfájdalmasabb korszakára emlékeztet. Itt adták-vették az Afrikából elhurcolt embereket az ültetvényesek számára, mielőtt a mezőkre küldték volna őket dolgozni. Bár ma már csak egy emlékhely vagy emléktábla jelzi a helyet, a társadalmi és emberi hatása a mai napig érezhető a trinidadi társadalomban. Ez a helyszín a kollektív emlékezet része, amely figyelmeztet a szabadság értékére és az ősök küzdelmére. Az emlékhely fontos állomása a történelmi zarándoklatoknak. Történelem K7 — rabszolga-kereskedelem és emberi jogok.",
+      "factsAdvanced": [
+        "Az afrikai rabszolgák értékesítésének központi helyszíne volt.",
+        "A 18. és 19. századi gyarmati gazdaság kegyetlen központja.",
+        "Ma emléktáblák és kulturális események emlékeztetnek az áldozatokra.",
+        "Fontos szerepet játszott a sziget demográfiai képének kialakulásában.",
+        "A rabszolgaság 1834-es eltörlése után vált emlékhellyé.",
+        "A terület a trinidadi ellenállás és túlélés szimbóluma.",
+        "Rendszeresen tartanak itt megemlékezéseket a felszabadulás napján.",
+        "Segít megérteni a Karib-térség modern társadalmának gyökereit."
+      ]
+    },
+    {
+      "id": "tt-sugar-refinery-history-v2",
+      "descriptionAdvanced": "A történelmi cukorfinomítók romjai a cukornád-feldolgozás technológiai csúcsát képviselték a 19. században. Itt tisztították és kristályosították a nyers cukorlevet, hogy a világhírű trinidadi kristálycukrot előállítsák. A finomítók hatalmas gőzgépei és bonyolult csőrendszerei az ipari forradalom hatásait mutatták a gyarmatokon. A romok ma ipari műemlékek, amelyek elmesélik, hogyan vált a kézi munka gépesített nagyiparvá. Ezek a helyszínek a modern trinidadi ipar és gazdaság közvetlen előfutárai. Történelem K8 — az ipari forradalom és a cukoripar.",
+      "factsAdvanced": [
+        "A nyerscukor feldolgozásának és tisztításának központjai voltak.",
+        "A 19. század második felében épültek a legmodernebb egységek.",
+        "Hatalmas gőzkazánok és finomító berendezések maradványai láthatók.",
+        "Fontos szerepük volt a trinidadi export gazdasági értékének növelésében.",
+        "A romok a technológiai fejlődés és a munkásélet tanúi.",
+        "Gyakran a vasútvonalak mellett helyezkedtek el a könnyebb szállításért.",
+        "Mára sok helyszínt múzeummá vagy ipari parkká alakítottak.",
+        "Dokumentálják a cukornád-korszak utolsó nagy technológiai korszakát."
+      ]
+    }
+  ]
+}

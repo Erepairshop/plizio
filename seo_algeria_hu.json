@@ -1,0 +1,100 @@
+
+{
+  "lang": "hu",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "algiers-cities-v2", "descriptionAdvanced": {"hu": "Algír, Algéria fővárosa, a Földközi-tenger partján fekszik. Két fő része van: a modern, európai stílusú város és a történelmi Kasbah, amely az UNESCO Világörökség része. A Kasbah labirintusszerű utcái és oszmán palotái a város gazdag múltjáról tanúskodnak. Fontos kikötővárosként Algír gazdasági és kulturális központ. Földrajz K8 – Városföldrajz.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Lakossága meghaladja a 3,5 millió főt.", "A Kasbah 1992 óta UNESCO Világörökségi helyszín.", "Az algíri metrót 2011-ben nyitották meg.", "A Mártírok Emlékműve a függetlenségi háború áldozatainak állít emléket.", "A Notre-Dame d'Afrique bazilika a város egyik fontos jelképe.", "A város neve arabul 'a szigeteket' jelenti."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "oran-cities-v2", "descriptionAdvanced": {"hu": "Orán Algéria második legnagyobb városa, az északnyugati parton. Ismert a spanyol építészeti hatásokról és a raï zene szülőhelyeként. Fontos ipari és kereskedelmi központ, forgalmas kikötővel. A város felett a Santa Cruz erőd őrködik, ahonnan csodálatos kilátás nyílik. Történelem K7 – Kulturális kölcsönhatások.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A 10. században alapították.", "Albert Camus 'A pestis' című regénye itt játszódik.", "Lakossága kb. 1,5 millió fő.", "A Santa Cruz erődöt a 16. században a spanyolok építették.", "A raï zene innen indult világhódító útjára.", "A Bey palota az oszmán korból származik."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "constantine-cities-v2", "descriptionAdvanced": {"hu": "Constantine, a 'hidak városa', egy mély szurdok fölé épült. Hét híd köti össze a városrészeket, köztük a híres Sidi M'Cid függőhíd. Gazdag történelme a numida királyságig nyúlik vissza. Kulturális és intellektuális központ, számos egyetemmel. Földrajz K7 – Ember és természet kapcsolata.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Nagy Konstantin császárról nevezték el.", "Ókori neve Cirta volt.", "A Sidi M'Cid híd 175 méter magasan ível át a szurdok felett.", "Az Emir Abdelkader Mecset Algéria egyik legnagyobbja.", "A Cirta Múzeum római leleteket őriz.", "Híres a malouf zenéről."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "annaba-cities-v2", "descriptionAdvanced": {"hu": "Annaba, az ókori Hippo Regius, fontos kikötőváros. Hippói Szent Ágoston püspöki székhelye volt. A Szent Ágoston-bazilika a város egyik dombján áll. Modern ipari központ, acél- és műtrágyagyártással. Gyönyörű tengerparti sétányokkal rendelkezik. Történelem K6 – Késő ókor.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Hippo Regius romjai a város mellett találhatók.", "Szent Ágoston itt írta a 'Vallomásokat'.", "Francia neve Bône volt.", "Az El-Hadjar acélmű az ország legnagyobbja.", "Lakossága meghaladja a 600 000 főt.", "Jelentős a foszfátkivitel."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "timgad-roman-ruins-history-v2", "descriptionAdvanced": {"hu": "Timgad, az ókori Thamugadi, a Római Birodalom egyik legjobb állapotban fennmaradt városa. Traianus császár alapította Kr. u. 100 körül. Rácsos utcaszerkezete tökéletesen megmaradt. Lenyűgöző diadalív, színház és könyvtár romjai is láthatók. UNESCO Világörökségi helyszín. Történelem K6 – Római várostervezés.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["'A sivatag Pompeji'-jeként is emlegetik.", "A Traianus-kapu a város jelképe.", "A színházat ma is használják fesztiválokhoz.", "Egy felirat szerint a helyiek mottója volt: 'Vadászni, fürdeni, játszani, nevetni – ez az élet!'", "A könyvtárban egykor 28 000 tekercs lehetett.", "Homok őrizte meg az évszázadok során."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "djemila-cuicul-history-v2", "descriptionAdvanced": {"hu": "Djémila, az ókori Cuicul, egy hegyvidéki római romváros. A 1. század végén alapították. A hegyvidéki terephez igazodó, egyedi elrendezés jellemzi. Két fórum, templomok és gazdagon díszített házak romjai találhatók itt. Múzeuma jelentős mozaikgyűjteménnyel rendelkezik. UNESCO Világörökségi helyszín. Történelem K6 – Római művészet.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A Legio III Augusta veteránjai alapították.", "A Caracalla-diadalív Kr. u. 216-ban épült.", "A Severus-kori fórum az egyik legimpozánsabb épületegyüttes.", "A múzeum mozaikjai kiváló állapotban maradtak fenn.", "Saját capitoliuma és piaca (macellum) is volt.", "A város neve arabul 'a gyönyörű'-t jelenti."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "tipasa-ruins-history-v2", "descriptionAdvanced": {"hu": "Tipasa régészeti lelőhely a Földközi-tenger partján, ahol föníciai, római és bizánci emlékek keverednek. Eredetileg föníciai kereskedelmi állomás volt. A romok között amfiteátrum, bazilikák és villák találhatók a tengerparti sziklákon. Albert Camus is írt a hely szépségéről. UNESCO Világörökségi helyszín. Történelem K6 – Kultúrák találkozása.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Neve föníciai eredetű, 'átkelőhelyet' jelent.", "Az amfiteátrumot a tengerparti sziklába vájták.", "Albert Camus 'Násztipasa' című esszéjében örökítette meg.", "A közelben található a Királyi Mauritániai Mauzóleum.", "A vandálok 484-ben elfoglalták.", "A régészeti park közvetlenül a tengerparton fekszik."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "kasbah-algiers-history-v2", "descriptionAdvanced": {"hu": "Az algíri Kasbah egyedülálló iszlám városrész (medina), UNESCO Világörökségi helyszín. Meredek hegyoldalra épült, labirintusszerű utcákkal. A 16-18. századi oszmán Algír hangulatát idézi. Citadella, régi mecsetek és paloták találhatók itt. A függetlenségi háború alatt az FLN fontos bázisa volt. Történelem K7 – Oszmán építészet.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["1992-ben lett Világörökségi helyszín.", "'Az algíri csata' című film itt játszódik.", "A Ketchaoua mecset eredetileg a 17. században épült.", "Sok ház belső udvarral (patio) rendelkezik.", "Hagyományos kézműves műhelyek ma is működnek itt.", "A 'kasbah' szó erődöt jelent."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "qala-beni-hammad-history-v2", "descriptionAdvanced": {"hu": "A Qal'a Beni Hammad romjai a Hammadida emírek első fővárosát rejtik. A 11. században alapították, és az iszlám civilizáció egyik fényes központja volt. Egy hatalmas mecset és egy 20 méter magas, épségben maradt minaret található itt. A paloták kifinomult építészetről tanúskodnak. UNESCO Világörökségi helyszín. Történelem K7 – Iszlám dinasztiák.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["1007-ben alapította Hammad ibn Buluggin.", "A minaret Algéria második legrégebbi, ma is álló minaretje.", "A Dar al-Bahr (Tenger Palotája) egy nagy medencével rendelkezett.", "A várost 1152-ben az Almohádok pusztították el.", "A Qal'a 'erődöt' jelent arabul.", "A helyszín stratégiai védelmet nyújtott."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "mzab-valley-history-v2", "descriptionAdvanced": {"hu": "Az M'zab-völgy öt erődített városból (ksour) áll, amelyeket a 11. században az ibádita berberek alapítottak. Ghardaïa a főváros. Egyedülálló példái a sivatagi környezethez való alkalmazkodásnak. Minden város egy központi mecset köré épült. Az építészetet Le Corbusier is tanulmányozta. UNESCO Világörökségi helyszín. Kultúratörténet K7 – Vallás és társadalom.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Az öt várost pentapolisznak is nevezik.", "Beni Isguen a legkonzervatívabb város.", "Le Corbusier-t is inspirálta az itteni építészet.", "A pálmaligetek öntözőrendszere évszázados.", "A mozabiták saját berber dialektust beszélnek.", "A piac Ghardaïa központjában ma is a társadalmi élet központja."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "port-of-algiers-economic-v2", "descriptionAdvanced": {"hu": "Az algíri kikötő Algéria legnagyobb és legfontosabb tengeri kapuja. A Földközi-tenger egyik legforgalmasabb kikötője. Hatalmas konténerterminálokkal és mélyvízi dokkokkal rendelkezik. Az ország importjának és exportjának jelentős része itt halad át. Fejlesztése folyamatosan zajlik. Gazdaságföldrajz K8 – Világkereskedelem.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Éves forgalma meghaladja a 20 millió tonnát.", "Konténerforgalma évi több mint 1 millió TEU.", "Az oszmán korban a berber kalózok bázisa volt.", "A DP World dubaji cég üzemelteti a konténerterminált.", "Közvetlen vasúti és közúti összeköttetéssel rendelkezik.", "Jelentős az utasforgalom Franciaország felé."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "hassi-messaoud-oil-field-economic-v2", "descriptionAdvanced": {"hu": "A Hassi Messaoud olajmező Algéria legnagyobb kőolajlelőhelye a Szaharában. 1956-os felfedezése átalakította az ország gazdaságát. Több ezer kút termeli a kiváló minőségű nyersolajat. A kitermelést a Sonatrach állami vállalat felügyeli. A mező köré egy modern város épült. Gazdaságföldrajz K8 – Energiaforrások.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["1956-ban egy francia konzorcium fedezte fel.", "Területe kb. 2000 négyzetkilométer.", "A kumulált kitermelés meghaladja a 8 milliárd hordót.", "Csővezetékeken szállítják a partra.", "A Sonatrach Afrika legnagyobb vállalata.", "A név arabul 'a boldog forrást' jelenti."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "hassi-r-mel-gas-field-economic-v2", "descriptionAdvanced": {"hu": "A Hassi R'Mel gázmező a világ egyik legnagyobb földgázlelőhelye. 1956-os felfedezése a földgázt is Algéria gazdaságának pillérévé tette. Jelentős mennyiségű kondenzátumot is tartalmaz. Innen indulnak a legfontosabb transz-mediterrán gázvezetékek Európába. A kitermelést a Sonatrach irányítja. Gazdaságföldrajz K8 – Energiaellátó rendszerek.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Becsült gázvagyona kb. 2400 milliárd köbméter.", "Algéria gáztermelésének több mint 60%-át adja.", "A Trans-Med gázvezeték 1983 óta működik.", "A Medgaz vezeték 2011-ben kezdte meg a szállítást Spanyolországba.", "A neve arabul 'a homokos forrást' jelenti.", "Jelentős propán- és butántermelés is folyik itt."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "makam-echahid-landmarks-v2", "descriptionAdvanced": {"hu": "A Makam Echahid (Mártírok Emlékműve) egy 92 méter magas betonmonumentum Algír felett. 1982-ben emelték a függetlenségi háború áldozatainak emlékére. Három stilizált pálmalevélből áll, amelyek az ipar, a mezőgazdaság és a kultúra egységét szimbolizálják. Lábánál múzeum található. Történelem K8 – Nemzeti emlékezet.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Egy kanadai cég tervezte és építette.", "A három pálmalevél egyenként 92 méter magas.", "Az építkezés kilenc hónapig tartott.", "Csúcsán 'örök láng' ég.", "Gyakran 'a három pálmalevél' néven is emlegetik.", "Panorámás kilátás nyílik róla Algírra."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "djamaa-el-djazair-landmarks-v2", "descriptionAdvanced": {"hu": "A Djamaa el Djazaïr (Algíri Nagymecset) a világ harmadik legnagyobb mecsete. Minaretje 265 méterével a világ legmagasabbja. 2019-ben fejezték be. A komplexum 120 000 hívő befogadására alkalmas, és könyvtár, múzeum, valamint Korán-iskola is tartozik hozzá. Földrengésbiztosra tervezték. Építészet K8 – Modern szakrális építészet.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A minaret 265 méter magas.", "A költsége meghaladta az 1 milliárd eurót.", "Egy kínai vállalat építette.", "Az imaterem kupolájának átmérője 50 méter.", "A komplexum 25 hektáron terül el.", "A mihrab carrarai márványból készült."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "notre-dame-d-afrique-landmarks-v2", "descriptionAdvanced": {"hu": "A Notre-Dame d'Afrique (Afrika Miasszonya) egy neobizánci bazilika Algír felett, kilátással a tengerre. 1872-ben készült el. Különlegessége a kupolája és a kék-fehér belső mozaikok. Az apszis felirata a vallások közötti párbeszédet hirdeti. Népszerű zarándokhely. Művészettörténet K8 – Historizmus.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Az építkezés 14 évig tartott.", "Híres Szűz Mária fekete bronz szobráról.", "Egy 2007-es földrengés után felújították.", "Felvonó vezet fel hozzá.", "A belső falakat tengerészek fogadalmi táblái díszítik.", "A lyoni Notre-Dame de Fourvière bazilika 'párja'."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "tassili-n-ajjer-life-v2", "descriptionAdvanced": {"hu": "A Tassili n'Ajjer egy homokkő-fennsík a Szaharában, amely holdbéli tájra emlékeztet. Neve 'a folyók fennsíkját' jelenti, utalva a nedvesebb múltra. A 'kőerdők' a világ egyik legjelentősebb őskori sziklaművészeti gyűjteményét rejtik. Több mint 15 000 festmény és véset található itt. UNESCO Világörökségi és Bioszféra Rezervátum. Őstörténet K6 – Ember és környezete.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A legkorábbi rajzok kb. Kr. e. 8000-re datálhatók.", "A 'kerekfejű emberek' stílusú festmények sámánisztikus rituálékra utalhatnak.", "Itt él a ritka szaharai ciprus.", "A nemzeti park területe több mint 72 000 négyzetkilométer.", "A tuareg nép kulturális bölcsője.", "A festékek okkerből, kaolinból és faszénből készültek."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "hoggar-mountains-life-v2", "descriptionAdvanced": {"hu": "A Hoggar-hegység egy drámai vulkanikus masszívum a Szahara déli részén. Zord környezete ellenére gazdag élővilágnak ad otthont. A guelták (víztározók) lehetővé teszik a növényzet, például az olajfa és a mirtusz túlélését. Itt él a rendkívül ritka szaharai gepárd is. A tuareg nomádok otthona. Biológia K7 – Adaptáció.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A szaharai gepárd a világ egyik legritkább nagymacskája.", "A guelták kulcsfontosságúak a helyi élővilág számára.", "Az Atakor vulkanikus mező a hegység szívében található.", "A tuareg társadalom hagyományosan matriarchális.", "A sziklarajzok tanúsága szerint egykor zsiráfok és elefántok is éltek itt.", "A hegységben reliktum növényfajok is találhatók."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "el-kala-national-park-life-v2", "descriptionAdvanced": {"hu": "Az El Kala Nemzeti Park Algéria északkeleti csücskében fekszik. A Földközi-tenger medencéjének egyik legfontosabb vizes élőhelye. UNESCO bioszféra-rezervátum. Tavak, mocsarak, dűnék és erdők mozaikja. Rendkívül gazdag madárvilággal rendelkezik, fontos pihenőhely a vonuló madarak számára. Itt él a berber szarvas egyik utolsó populációja. Ökológia K8 – Vizes élőhelyek.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["Évente több mint 60 000 vonuló vízimadár telel itt.", "A Mellah-tó egy tengeri kapcsolattal rendelkező lagúna.", "Itt találhatók Algéria legnagyobb parafatermő erdői.", "A berber szarvas a park szimbóluma.", "Több mint 870 növény- és 200 madárfaj él itt.", "A RAMSAR-i egyezmény védi."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "tassili-n-ajjer-relief-v2", "descriptionAdvanced": {"hu": "A Tassili n'Ajjer egy rendkívüli fennsík Délkelet-Algériában, egyedülálló geológiai és kulturális szempontból. A szél és a víz által formált homokkő 'kőerdők' és kanyonok teszik holdbéli tájjá. Ez az eróziós táj rejti a világ egyik legfontosabb őskori sziklaművészeti lelőhelyét, amely a Szahara 'zöld korszakának' tanúja. Földrajz K7 – Eróziós formák.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A 'kőerdőket' a homokkő eltérő eróziója hozta létre.", "Átlagos magassága 1500-1800 méter.", "Legmagasabb pontja az Adrar Afao (2158 m).", "Geológiailag paleozoikumi homokkövekből áll.", "1982 óta UNESCO Világörökségi helyszín.", "A Djanet oázis a felfedezésének kiindulópontja."], "de": [], "ro": [], "en": []}
+    },
+    {
+      "id": "djebel-tahat-relief-v2", "descriptionAdvanced": {"hu": "A Tahat-hegy Algéria legmagasabb pontja (2908 m). A Hoggar-hegység szívében, az Atakor vulkáni mezőn található. A csúcs egy kialudt vulkán része. Megmászása komoly kihívást jelent. A csúcsról lélegzetelállító panoráma nyílik a Szaharára. A tuareg kultúra szent helye. Földrajz K7 – Vulkáni hegységek.", "de": "", "ro": "", "en": ""},
+      "factsAdvanced": {"hu": ["A Tahat egy komplex vulkáni dóm része.", "Az Atakor mezőn több mint 450 vulkáni kúp található.", "Először 1931-ben mászták meg.", "Kora meghaladja a 2 milliárd évet, de a vulkáni tevékenység fiatal.", "Télen hó is eshet a csúcson.", "Az Assekrem-fennsík híres a naplementéiről."], "de": [], "ro": [], "en": []}
+    }
+  ]
+}

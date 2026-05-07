@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "egypt",
+  "files": [
+    "lib/visualLab/data/poiExtraEgyptCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shubra-el-kheima-cities-v2",
+      "descriptionAdvanced": "Subra el-Hajma jelentős ipari központ, amely Kairó közvetlen északi elővárosaként helyezkedik el a Nílus deltájának peremén. A város alapvetően a 20. században fejlődött nagyvárossá, elsősorban a textilipar és a gépgyártás köré épülő gazdasága révén. Bár sűrűn lakott és iparilag fejlett, szerves része a Kairót övező nagyvárosi régiónak. Földrajz K8 — ipari központok és városi fejlődés.",
+      "factsAdvanced": ["A város lakossága meghaladja az 1 milliót.", "Kairó egyik legfontosabb ipari elővárosa.", "Jelentős textil- és gépipari központ.", "A Nílus partján fekvő sűrűn lakott terület.", "A modern egyiptomi iparosítás egyik szimbóluma.", "A város gyorsan növekedett a 20. század második felében."]
+    },
+    {
+      "id": "port-said-cities-v2",
+      "descriptionAdvanced": "Port Szaíd stratégiailag kulcsfontosságú kikötőváros, amely a Szuezi-csatorna északi bejáratánál, a Földközi-tenger partján fekszik. 1859-ben alapították a csatorna építésének kezdetekor, és máig a világ egyik legforgalmasabb tengeri kereskedelmi csomópontja. A város építészetén ma is látszanak az európai hatások, amelyek az egykori gyarmati időszakból maradtak fenn. Földrajz K8 — nemzetközi kereskedelmi csomópontok.",
+      "factsAdvanced": ["A Szuezi-csatorna északi végpontja.", "1859-ben alapították.", "Fontos vámmentes övezet és kereskedelmi központ.", "Építészetében keverednek az európai és egyiptomi stílusok.", "A Földközi-tenger és a csatorna találkozásánál fekszik.", "A város lakossága kb. 600 ezer fő."]
+    }
+  ]
+}

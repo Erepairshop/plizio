@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "empire-state-building-landmarks-v2",
+      "descriptionAdvanced": "The Empire State Building in New York City is an enduring architectural icon of the 20th century. Completed in 1931 during the depth of the Great Depression, the 1,454-foot-tall Art Deco skyscraper was the world's tallest building for 40 years. It stands as a powerful symbol of American industrial ambition, built in a record time of just over a year through the labor of thousands of workers. Today, it remains one of the most recognizable structures in the world, offering unparalleled panoramic views from its observation decks and serving as a beacon of New York’s resilience and vertical growth. It represents the pinnacle of interwar Art Deco skyscraper design. Architektur K8 — Art Deco innovation and urban verticality.",
+      "factsAdvanced": [
+        "Standing at 1,454 feet, it was the world’s tallest building for 40 years.",
+        "Completed in 1931 during the height of the Great Depression.",
+        "An enduring global icon of Art Deco skyscraper architecture.",
+        "Built in record time, showcasing massive interwar industrial efficiency.",
+        "Offers iconic observation decks providing panoramic NYC views.",
+        "Stands as a powerful symbol of New York’s resilience and architectural history."
+      ]
+    },
+    {
+      "id": "one-world-trade-center-landmarks-v2",
+      "descriptionAdvanced": "One World Trade Center in New York City is the primary building of the rebuilt World Trade Center complex in Lower Manhattan. Standing exactly 1,776 feet tall—a deliberate reference to the year of the American Declaration of Independence—the tower serves as a symbol of resilience, renewal, and remembrance following the tragic events of September 11, 2001. Its contemporary glass-and-steel design contrasts with the historic skyline, representing a forward-looking vision for the city. Today, it is not only an essential business hub but also a poignant tribute to the strength of the nation, standing as a landmark of modern architectural courage and memorialization in the heart of New York City. Geschichte K8 — Modern renewal and national resilience.",
+      "factsAdvanced": [
+        "Primary building of the rebuilt World Trade Center complex.",
+        "Standing 1,776 feet tall, referencing the year of US independence.",
+        "Symbolizes resilience, renewal, and remembrance after September 11, 2001.",
+        "Contemporary design contrasts with historic NYC skyscraper architecture.",
+        "Serves as both a vital business hub and a poignant national tribute.",
+        "Represents modern architectural courage in the heart of Manhattan."
+      ]
+    },
+    {
+      "id": "chrysler-building-landmarks-v2",
+      "descriptionAdvanced": "The Chrysler Building is widely considered the ultimate masterpiece of Art Deco skyscraper architecture in New York City. Completed in 1930, its signature stainless-steel terraced crown, adorned with sunburst patterns and gargoyles modeled after Chrysler car radiator caps, remains an elegant and uniquely beautiful profile on the Manhattan skyline. Commissioned by Walter Chrysler as a testament to the success of his automobile company, the building’s design embodies the speed, jazz-age energy, and technological optimism of the late 1920s. Today, it stands as a celebrated work of art, a symbol of the creative energy of the interwar period, and one of the most beloved architectural landmarks in the history of New York. Kunst K8 — Art Deco ornamentation and skyscraper aesthetics.",
+      "factsAdvanced": [
+        "Widely considered the ultimate masterpiece of Art Deco skyscraper design.",
+        "Features a stainless-steel crown with signature sunburst patterns.",
+        "Gargoyles and ornaments were modeled after Chrysler car radiator caps.",
+        "Commissioned as a monument to the success of the Chrysler Corporation.",
+        "Embodies the energy, speed, and optimism of the 1920s Jazz Age.",
+        "A cherished landmark and a unique highlight of the Manhattan skyline."
+      ]
+    }
+  ]
+}

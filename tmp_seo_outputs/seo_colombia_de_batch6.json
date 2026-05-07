@@ -1,0 +1,399 @@
+{
+  "lang": "de",
+  "country": "colombia",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "parque-explora-life-v2",
+      "descriptionAdvanced": "Parque Explora in Medellín ist ein hochmodernes interaktives Wissenschaftsmuseum und das größte Süßwasseraquarium Südamerikas. Der markante Komplex aus vier roten Würfeln dient als Zentrum für Bildung und soziale Integration im Herzen der Stadt. Das Museum bietet über 300 interaktive Exponate zu Themen wie Physik, Biologie und Technologie, die Besucher jeden Alters zum Experimentieren einladen. Besonders beeindruckend ist das Vivarium mit seiner Vielfalt an kolumbianischen Amphibien und Reptilien. Parque Explora ist ein Symbol für die innovative Transformation Medellín und ein Ort, an dem Neugier und wissenschaftliche Entdeckung auf spielerische Weise gefördert werden, was ihn zu einem der beliebtesten Bildungsziele Kolumbiens macht.",
+      "factsAdvanced": [
+        "Beherbergt das größte Süßwasseraquarium Südamerikas.",
+        "Besitzt über 300 interaktive Erlebnisstationen.",
+        "Verfügt über ein hochmodernes 3D-Planetarium.",
+        "Wurde im Jahr 2007 als Teil der Stadterneuerung eröffnet.",
+        "Gewann zahlreiche internationale Architektur- und Bildungspreise.",
+        "Liegt direkt gegenüber dem Botanischen Garten von Medellín.",
+        "Wichtiges Zentrum für informelles Lernen und Wissenschaftsförderung."
+      ]
+    },
+    {
+      "id": "parque-del-cafe-life-v2",
+      "descriptionAdvanced": "Der Parque del Café im Departement Quindío ist ein spektakulärer Themenpark, der ganz der kolumbianischen Kaffeekultur gewidmet ist. Inmitten der malerischen Kaffeezone gelegen, verbindet der Park auf einzigartige Weise Bildungsangebote über den Kaffeeanbau mit aufregenden Fahrgeschäften und Achterbahnen. Besucher können die Reise der Kaffeebohne von der Pflanzung bis zur Tasse verfolgen, Museen zur Geschichte des Kaffees besuchen und eine beeindruckende Kaffeeshow erleben, die die Traditionen der Region feiert. Der Park ist wunderschön in eine echte Kaffeeplantage eingebettet und bietet Panoramablicke auf die Andenlandschaft. Er ist nicht nur ein Ort des Vergnügens, sondern auch ein Denkmal für die Arbeit der kolumbianischen Kaffeebauern und ein Symbol für den Stolz der Region.",
+      "factsAdvanced": [
+        "Wurde 1995 von der Nationalen Föderation der Kaffeebauern gegründet.",
+        "Liegt im Herzen des UNESCO-Welterbes Kaffee-Kulturlandschaft.",
+        "Besitzt eines der wichtigsten Kaffeemuseen der Welt.",
+        "Einer der meistbesuchten Themenparks in Lateinamerika.",
+        "Beherbergt die 'Krater'-Achterbahn, die höchste Kolumbiens.",
+        "Verfügt über eine Seilbahn mit spektakulärer Aussicht über die Plantagen.",
+        "Zentrum für die Bewahrung der Paisa-Kultur und Kaffeetradition."
+      ]
+    },
+    {
+      "id": "hacienda-napoles-life-v2",
+      "descriptionAdvanced": "Die Hacienda Nápoles in Doradal ist ein Ort mit einer außergewöhnlichen Geschichte, der sich von dem privaten Anwesen eines berüchtigten Drogenbarons in einen der größten Themenparks Südamerikas verwandelt hat. Heute ist der Park ein Symbol für den Sieg der Zivilgesellschaft über die Kriminalität und bietet eine Mischung aus Safari-Abenteuer, Wasserparks und Museen. Besonders bekannt ist der Park für seine Herde von Nilpferden, die einzige wildlebende Population außerhalb Afrikas, sowie für ein großes Schutzgebiet für gerettete Wildtiere wie Elefanten, Nashörner und Tiger. Die Hacienda Nápoles dient heute als wichtiges Bildungszentrum für Artenschutz und Geschichte und zieht tausende Besucher an, die die Transformation dieses geschichtsträchtigen Ortes erleben wollen.",
+      "factsAdvanced": [
+        "Ehemaliges Anwesen von Pablo Escobar, heute ein Natur- und Erlebnispark.",
+        "Beherbergt die einzige wildlebende Nilpferdpopulation Südamerikas.",
+        "Besitzt einen der größten Wasserparks der Region (Acuasaurus).",
+        "Schutzgebiet für zahlreiche gerettete afrikanische und heimische Tierarten.",
+        "Historisches Museum erinnert an die dunkle Ära des Narcoterrorismus.",
+        "Umfasst eine Fläche von fast 1.600 Hektar.",
+        "Wichtiges Ziel für Ökotourismus im Departement Antioquia."
+      ]
+    },
+    {
+      "id": "parque-jaime-duque-life-v2",
+      "descriptionAdvanced": "Der Parque Jaime Duque nördlich von Bogotá ist ein monumentaler Kultur- und Erlebnispark, der durch seine eklektische Mischung aus Bildungsdenkmälern und Unterhaltung beeindruckt. Gegründet vom Luftfahrtpionier Jaime Duque, beherbergt der Park originalgetreue Repliken historischer Weltwunder, wie den Taj Mahal und den Leuchtturm von Alexandria, sowie ein riesiges Relief Kolumbiens. Ein Highlight ist das 'Bioparque Wakatá', ein bedeutendes Zentrum für den Schutz und die Rehabilitation bedrohter Tierarten. Der Park ist zudem bekannt für sein Engagement für soziale Zwecke und dient als lebendiges Museum für Weltgeschichte, Geografie und Kunst. Mit seinen weiten Grünflächen und dem Fokus auf Wissen und Naturschutz bietet er ein einzigartiges Erlebnis für Familien in der Sabana de Bogotá.",
+      "factsAdvanced": [
+        "Gegründet 1983 vom kolumbianischen Piloten Jaime Duque.",
+        "Beherbergt eine exakte Kopie des Taj Mahal (Museum für Kunst).",
+        "Besitzt das größte 3D-Reliefmodell Kolumbiens.",
+        "Enthält das Bioparque Wakatá für bedrohte Tierarten.",
+        "Wurde als einer der besten Freizeitparks Lateinamerikas ausgezeichnet.",
+        "Besitzt ein Kriegsschiff und Flugzeuge als begehbare Exponate.",
+        "Alle Gewinne fließen in soziale und wohltätige Projekte."
+      ]
+    },
+    {
+      "id": "maloka-museo-interactivo-life-v2",
+      "descriptionAdvanced": "Maloka in Bogotá ist das erste interaktive Zentrum für Wissenschaft und Technologie in Kolumbien und ein Pionier für informelle Bildung in Südamerika. Der Komplex, dessen Name auf die traditionellen Versammlungshäuser indigener Völker anspielt, lädt Besucher ein, die Welt durch Experimente und Spiel zu entdecken. In den verschiedenen Themenräumen können Gäste Phänomene der Physik, Biologie und digitaler Technologien hautnah erleben. Ein besonderes Merkmal ist das unterirdische Design und das imposante Cine Dome, eines der modernsten Imax-Kinos der Region. Maloka fördert kritisches Denken und die Begeisterung für Forschung bei Kindern und Erwachsenen gleichermaßen und bleibt ein unverzichtbarer Ort für die Förderung der wissenschaftlichen Kultur in der kolumbianischen Hauptstadt.",
+      "factsAdvanced": [
+        "Erstes interaktives Wissenschaftszentrum Kolumbiens (eröffnet 1998).",
+        "Der Großteil des Museums befindet sich unter der Erdoberfläche.",
+        "Besitzt einen Cine Dome mit einer der größten Leinwände Südamerikas.",
+        "Name stammt von den indigenen 'Malocas' (Häusern des Wissens).",
+        "Wichtigstes Ziel für Schulausflüge im Bereich MINT in Bogotá.",
+        "Verfügt über mehr als 9 Themenbereiche und Hunderte Exponate.",
+        "Zentrum für die Popularisierung von Wissenschaft und Technologie."
+      ]
+    },
+    {
+      "id": "salitre-magico-life-v2",
+      "descriptionAdvanced": "Salitre Mágico ist einer der traditionsreichsten und beliebtesten Freizeitparks von Bogotá, gelegen im Herzen des Metropolitanparks Simón Bolívar. Der Park ist bekannt für seine Adrenalin-Fahrgeschäfte, darunter moderne Achterbahnen und das ikonische Riesenrad, von dem aus man einen spektakulären Blick über die Stadt und die Anden hat. Salitre Mágico bietet eine breite Palette an Attraktionen für alle Altersgruppen, von Kinderkarussells bis hin zu interaktiven Shows. Während der Halloween-Saison verwandelt sich der Park in das berühmte 'Festival del Terror', eines der größten Gruselevent in Kolumbien. Durch seine zentrale Lage und seine ständige Erneuerung bleibt Salitre Mágico ein klassisches Ziel für die Wochenenderholung der Familien in der Hauptstadt.",
+      "factsAdvanced": [
+        "Einer der ältesten und größten Freizeitparks in Bogotá.",
+        "Heimat der Achterbahn 'Drakko', eine der modernsten der Region.",
+        "Besitzt ein ikonisches 50 Meter hohes Riesenrad.",
+        "Liegt innerhalb des weitläufigen Parks Simón Bolívar.",
+        "Bekannt für das jährliche 'Festival del Terror' im Oktober.",
+        "Bietet über 30 verschiedene mechanische Attraktionen.",
+        "Wichtiges Zentrum für städtische Unterhaltung und Events."
+      ]
+    },
+    {
+      "id": "mundo-aventura-life-v2",
+      "descriptionAdvanced": "Mundo Aventura ist ein bedeutender Freizeitpark im Südwesten von Bogotá, der von der Handelskammer der Stadt betrieben wird und einen starken Fokus auf soziale Inklusion legt. Der Park bietet eine Vielzahl von Attraktionen, die in verschiedene Themenbereiche unterteilt sind, darunter Mechanik, Natur und traditionelle Jahrmarktsspiele. Besonders beliebt sind die Achterbahnen und der 'Sillas Voladoras' (Kettenkarussell) sowie der kleine Zoo 'Mundo Natural'. Mundo Aventura ist bekannt dafür, dass er hochwertigen Freizeitspaß für breite Bevölkerungsschichten zugänglich macht und oft kostenlose Eintritte für benachteiligte Kinder ermöglicht. Die lebendige Atmosphäre und die Nähe zu großen Einkaufszentren machen ihn zu einem pulsierenden Treffpunkt im Süden der Hauptstadt.",
+      "factsAdvanced": [
+        "Wird von der Handelskammer Bogotá zu sozialen Zwecken geführt.",
+        "Besitzt den Themenbereich 'Mundo Natural' mit heimischen Tieren.",
+        "Meistbesuchter Freizeitpark Kolumbiens nach Besucherzahlen.",
+        "Wurde im Jahr 1998 im Viertel Kennedy eröffnet.",
+        "Bietet spezielle Programme für soziale Verantwortung.",
+        "Verfügt über Achterbahnen wie 'Quantum' und 'Tropicana'.",
+        "Zentraler Punkt für Unterhaltung im bevölkerungsreichen Süden Bogotás."
+      ]
+    },
+    {
+      "id": "piscilago-life-v2",
+      "descriptionAdvanced": "Piscilago, gelegen in der warmen Region von Girardot (nahe Bogotá), ist der meistbesuchte Wasserpark Kolumbiens und kombiniert auf einzigartige Weise Badespaß mit einem bedeutenden Naturschutzprojekt. Der Park bietet riesige Schwimmbecken, rekordverdächtige Wasserrutschen und Entspannungsbereiche inmitten tropischer Vegetation. Gleichzeitig beherbergt Piscilago einen erstklassigen Zoo, der sich der Rettung und Erforschung bedrohter kolumbianischer Arten wie dem Braunen Klammeraffen und verschiedenen Papageienarten widmet. Piscilago gehört zur Sozialkasse Colsubsidio und ist ein Paradebeispiel dafür, wie kommerzieller Tourismus, soziale Dienstleistungen und wissenschaftlicher Artenschutz erfolgreich miteinander verknüpft werden können. Für viele Familien aus der Hauptstadt ist ein Besuch in Piscilago ein klassischer Bestandteil der Ferienkultur.",
+      "factsAdvanced": [
+        "Größter Wasserpark Kolumbiens und unter den Top 10 weltweit.",
+        "Kombiniert Wasserattraktionen mit einem bedeutenden Zoo.",
+        "Liegt im Departement Cundinamarca in einem heißen Tropenklima.",
+        "Führend im Schutz des vom Aussterben bedrohten Braunen Klammeraffen.",
+        "Besitzt über 30 verschiedene Wasserattraktionen.",
+        "Wird jährlich von über einer Million Menschen besucht.",
+        "Teil des sozialen Programms der Organisation Colsubsidio."
+      ]
+    },
+    {
+      "id": "parque-panaca-life-v2",
+      "descriptionAdvanced": "PANACA, der Nationale Landwirtschaftspark im Herzen der kolumbianischen Kaffeezone, ist der weltweit erste Themenpark seiner Art, der sich ganz der Landwirtschaft und Viehzucht widmet. Unter dem Motto 'Ohne Landwirtschaft gibt es kein Essen' lädt der Park Besucher dazu ein, wieder eine Verbindung zur Natur und zum Landleben herzustellen. In zehn verschiedenen Stationen können Gäste tausende Tiere aus nächster Nähe erleben, füttern und an interaktiven Präsentationen teilnehmen. Der Park zeigt die Bedeutung verschiedener Tierrassen, von Rindern und Pferden bis hin zu Seidenraupen und Bienen. PANACA ist ein Bildungszentrum für nachhaltige ländliche Praktiken und feiert die Identität des kolumbianischen Bauern (Campesino) in einer unterhaltsamen und spektakulären Umgebung.",
+      "factsAdvanced": [
+        "Weltweit erster Themenpark für Landwirtschaft.",
+        "Beherbergt über 4.500 Tiere aus hunderten verschiedenen Rassen.",
+        "Besitzt 10 thematische Stationen auf einer Fläche von 143 Hektar.",
+        "Bekannt für die spektakulären Tiershows, insbesondere die Pferdeshow.",
+        "Befindet sich in Quimbaya im Departement Quindío.",
+        "Fördert das Motto: 'Sin campo no hay ciudad' (Ohne Land kein Stadtleben).",
+        "Wichtiges Ziel für Familien- und Bildungstourismus in der Kaffeezone."
+      ]
+    },
+    {
+      "id": "bioparque-ukumari-life-v2",
+      "descriptionAdvanced": "Der Biopark Ukumarí in Pereira ist eines der ehrgeizigsten Naturschutzprojekte Kolumbiens und ein modernes Zentrum für Biodiversität. Als Nachfolger des alten Stadtzoos von Pereira wurde Ukumarí nach dem Konzept der 'Biosphären' entworfen, in denen Tiere in großräumigen, naturnahen Habitaten leben, die ihre Herkunftsregionen widerspiegeln. Der Park ist in verschiedene Zonen unterteilt, wie die afrikanische Savanne und die kolumbianischen Andenwälder. Ukumarí legt großen Wert auf Bildung, Forschung und die Rehabilitation von Tieren, die aus illegalem Handel gerettet wurden. Mit seinem Fokus auf Tierwohl und ökologisches Bewusstsein ist der Park ein Vorbild für moderne Zoos weltweit und ein wichtiger Motor für den Tourismus in der Kaffeezone.",
+      "factsAdvanced": [
+        "Größter Biopark seiner Art in Lateinamerika.",
+        "Ersetzte den historischen Matecaña-Zoo von Pereira.",
+        "Tiere leben in naturnah gestalteten Ökosystemen statt in Käfigen.",
+        "Beherbergt seltene Arten wie den Brillenbären und afrikanische Elefanten.",
+        "Wichtiges Zentrum für Forschung und Umwelterziehung.",
+        "Umfasst eine Fläche von 82 Hektar in der Region Cerritos.",
+        "Zentrum für die Rehabilitation geretteter Wildtiere."
+      ]
+    },
+    {
+      "id": "zoologico-de-cali-life-v2",
+      "descriptionAdvanced": "Der Zoologische Garten von Cali gilt regelmäßig als einer der besten Zoos Lateinamerikas und ist ein weltweit anerkanntes Zentrum für den Schutz der Biodiversität. Gelegen am Ufer des Río Cali, besticht der Zoo durch seine üppige, parkähnliche Gestaltung und seinen Fokus auf die heimische Fauna Kolumbiens. Hier können Besucher Jaguare, Ameisenbären, Kondore und eine beeindruckende Vielfalt an Amphibien in modernen, naturnahen Gehegen beobachten. Der Zoo von Cali zeichnet sich durch seine exzellenten Zuchtprogramme für bedrohte Arten und sein Engagement in der wissenschaftlichen Forschung aus. Ein Besuch im Zoo ist nicht nur ein Freizeiterlebnis, sondern eine Bildungsreise durch die verschiedenen Ökosysteme Kolumbiens, die das Bewusstsein für die fragile Schönheit der Natur schärft.",
+      "factsAdvanced": [
+        "Regelmäßig unter den Top 5 der besten Zoos Lateinamerikas.",
+        "Führend in der Erhaltungszucht des Andenkondors und des Jaguars.",
+        "Besitzt ein beeindruckendes Schmetterlingshaus und ein Aquarium.",
+        "Wurde im Jahr 1969 eröffnet und 2000 umfassend modernisiert.",
+        "Mitglied der World Association of Zoos and Aquariums (WAZA).",
+        "Umfasst über 250 Tierarten auf einer Fläche von 10 Hektar.",
+        "Wichtiges Bildungszentrum für Umwelt- und Artenschutz im Valle del Cauca."
+      ]
+    },
+    {
+      "id": "aviario-nacional-colombia-life-v2",
+      "descriptionAdvanced": "Das Aviario Nacional de Colombia auf der Insel Barú bei Cartagena ist die größte Voliere Amerikas und ein Paradies für Vogelliebhaber. In einer spektakulären Anlage, die verschiedene kolumbianische Ökosysteme wie Regenwald, Küste und Wüste originalgetreu nachbildet, können Besucher hunderte von bunten und seltenen Vogelarten beobachten. Von dem majestätischen Andenkondor über farbenprächtige Aras bis hin zu den eleganten Flamingos bietet der Park einen umfassenden Einblick in die reiche Avifauna Kolumbiens, dem Land mit der weltweit größten Vogelvielfalt. Das Projekt widmet sich intensiv dem Schutz, der Zucht und der Erforschung bedrohter Arten und bietet eine einzigartige Lernerfahrung inmitten einer atemberaubenden karibischen Naturlandschaft.",
+      "factsAdvanced": [
+        "Größte Voliere Amerikas und sechstgrößte weltweit.",
+        "Beherbergt ca. 1.800 Vögel aus 138 verschiedenen Arten.",
+        "Umfasst 22 Stationen, die 3 verschiedene kolumbianische Biome simulieren.",
+        "Wichtigstes Zentrum für die Erhaltungszucht des Harpyie-Adlers.",
+        "Liegt auf der Halbinsel Barú, ca. 45 Minuten von Cartagena entfernt.",
+        "Bietet spektakuläre Flugvorführungen 'Vögel im Flug'.",
+        "Wesentlicher Beitrag zur Positionierung Kolumbiens als Weltmarktführer im Birdwatching."
+      ]
+    },
+    {
+      "id": "acuario-del-rodadero-life-v2",
+      "descriptionAdvanced": "Das Acuario y Museo del Mar del Rodadero in Santa Marta ist eine der traditionsreichsten maritimen Attraktionen Kolumbiens. Es wurde in die Felsen der Karibikküste gehauen und ist nur mit dem Boot erreichbar, was den Besuch zu einem besonderen Erlebnis macht. Das Aquarium beherbergt eine beeindruckende Sammlung mariner Arten, darunter Haie, Meeresschildkröten und Rochen. Besonders beliebt sind die Delfin-Shows, die den Besuchern die Intelligenz dieser Tiere näherbringen. Neben den lebenden Exponaten bietet das Museum einen Einblick in die prähistorische Meeresfauna und die Kultur der Tayrona-Indigenen und deren Verbindung zum Meer. Das Aquarium spielt eine wichtige Rolle in der Rettung und Rehabilitation von Meeresschildkröten und ist ein zentraler Bestandteil des touristischen Angebots von Santa Marta.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1965 vom Kapitän Francisco Ospina Navia.",
+        "Nur per Boot von El Rodadero oder Playa Blanca erreichbar.",
+        "Besitzt 13 große Aquarien und Becken mit natürlichem Meerwasser.",
+        "Wichtiges Rehabilitationszentrum für verletzte Meeresschildkröten.",
+        "Beherbergt ein Museum für Unterwasserarchäologie.",
+        "Bekannt für seine Delfin-Präsentationen und Interaktionsprogramme.",
+        "Fokus auf Bildung über die Meeresökosysteme der kolumbianischen Karibik."
+      ]
+    },
+    {
+      "id": "oceanario-islas-del-rosario-life-v2",
+      "descriptionAdvanced": "Das Oceanario Islas del Rosario liegt inmitten des kristallklaren Wassers des Korallen-Nationalparks vor der Küste von Cartagena. Es ist ein einzigartiges Freiluft-Aquarium, das in einer natürlichen Lagune errichtet wurde und Besuchern ermöglicht, die marine Artenvielfalt der Karibik in ihrer natürlichen Umgebung zu erleben. Hier können Gäste majestätische Haie, Rochen und hunderte bunte Korallenfische beobachten. Ein Höhepunkt ist die Delfin-Show, die in den offenen Gewässern des Nationalparks stattfindet. Das Ozeanarium engagiert sich stark für den Schutz der Korallenriffe und bedrohter Arten wie der Karettschildkröte. Ein Besuch verbindet die Schönheit der Rosario-Inseln mit einer wichtigen Botschaft über den Erhalt der Meeresökosysteme und ist ein Muss für jeden Besucher der Region.",
+      "factsAdvanced": [
+        "Liegt im Nationalen Naturpark Corales del Rosario y de San Bernardo.",
+        "Freiluft-Design ermöglicht ständigen Wasseraustausch mit dem Meer.",
+        "Führend im Schutzprogramm für die bedrohte Karettschildkröte.",
+        "Beherbergt über 100 marine Arten der kolumbianischen Karibik.",
+        "Bietet geführte Touren und interaktive Erlebnisse mit Delfinen.",
+        "Nur per Schnellboot von Cartagena aus erreichbar.",
+        "Wichtiges Zentrum für marine Umweltbildung und Korallenregeneration."
+      ]
+    },
+    {
+      "id": "santuario-los-flamencos-life-v2",
+      "descriptionAdvanced": "Das Santuario de Flora y Fauna Los Flamencos ist ein verstecktes Naturjuwel im Departement La Guajira an der Karibikküste. Dieses Schutzgebiet ist berühmt für seine flachen Lagunen, in denen hunderte von leuchtend rosa Flamingos leben und brüten. Die Landschaft ist geprägt von Trockenwäldern und Mangroven, die einen faszinierenden Kontrast zum Wüstencharakter der Halbinsel bilden. Besucher können in traditionellen Segelbooten der lokalen Wayuu-Indigenen lautlos über das Wasser gleiten, um die Vögel aus nächster Nähe zu beobachten, ohne sie zu stören. Das Santuario ist nicht nur ein Paradies für Ornithologen, sondern auch ein Ort, an dem man die harmonische Verbindung zwischen der indigenen Kultur und dem Schutz der artenreichen Küstenökosysteme Kolumbiens erleben kann.",
+      "factsAdvanced": [
+        "Heimat einer der größten Populationen von Rosaflamingos in Kolumbien.",
+        "Liegt im Dorf Camarones, nahe der Stadt Riohacha.",
+        "Schützt wichtige Lagunenökosysteme (Laguna Grande und Navío Quebrado).",
+        "Wichtiger Standort für den Ökotourismus unter Leitung der Wayuu-Gemeinschaft.",
+        "Beherbergt über 185 verschiedene Vogelarten.",
+        "Besitzt ausgedehnte Mangrovenwälder von hoher ökologischer Bedeutung.",
+        "Zentrum für den Schutz wandernder Küstenvogelarten."
+      ]
+    },
+    {
+      "id": "bioparque-los-ocarros-life-v2",
+      "descriptionAdvanced": "Der Bioparque Los Ocarros in Villavicencio ist das wichtigste Zentrum für die Bewahrung der Fauna und Flora der kolumbianischen Llanos Orientales. Benannt nach dem riesigen Gürteltier (Ocarro), das ein Symbol der Region ist, beherbergt der Park ausschließlich Tiere, die in den weiten Ebenen des Orinoco-Beckens heimisch sind. In naturnah gestalteten Gehegen können Besucher Kaimane, Jaguare, Anakondas und die beeindruckenden Riesenameisenbären beobachten. Der Park spielt eine entscheidende Rolle bei der Rehabilitation von Tieren, die Opfer des illegalen Wildtierhandels wurden. Mit seinem Fokus auf die regionale Identität und den Schutz der Savannenökosysteme ist der Bioparque Los Ocarros ein unverzichtbares Ziel für alle, die die wilde und faszinierende Natur des kolumbianischen Flachlands entdecken wollen.",
+      "factsAdvanced": [
+        "Erster Biopark Kolumbiens, der sich ausschließlich der regionalen Fauna widmet.",
+        "Benannt nach dem Riesengürteltier (Priodontes maximus).",
+        "Umfasst 38 verschiedene Tieranlagen auf einer Fläche von 15 Hektar.",
+        "Besitzt ein beeindruckendes Aquarium mit Arten des Orinoco-Flusssystems.",
+        "Wichtiges Zentrum für die Erholung von geretteten Wildtieren.",
+        "Beherbergt einen der größten Kaiman-Bestände des Landes.",
+        "Liegt an der Straße zwischen Villavicencio und Restrepo."
+      ]
+    },
+    {
+      "id": "zoologico-de-barranquilla-life-v2",
+      "descriptionAdvanced": "Der Zoologische Garten von Barranquilla ist eine grüne Oase inmitten der geschäftigen Hafenstadt und der älteste Zoo Kolumbiens. Trotz seiner vergleichsweise geringen Fläche beherbergt er eine beeindruckende Sammlung von Tieren aus fünf Kontinenten, wobei der Schwerpunkt auf den Ökosystemen der kolumbianischen Karibikküste liegt. Der Zoo ist bekannt für seine Bildungsarbeit und seine Bemühungen zum Schutz bedrohter Arten wie der Baumwollkopf-Tamarin (Titi Cabeciblanco), einer Primatenart, die nur im Norden Kolumbiens vorkommt. Mit seinen schattigen Wegen, dem Elefanten-Gehege und dem Schmetterlingshaus bietet der Zoo eine willkommene Erholung vom tropischen Klima der Stadt. Er ist ein fester Bestandteil der Kultur Barranquillas und ein Ort, an dem Generationen von 'Costeños' ihre Liebe zur Natur entdeckt haben.",
+      "factsAdvanced": [
+        "Ältester Zoologischer Garten Kolumbiens (eröffnet 1953).",
+        "Besitzt das erste 'Amphibium' des Landes zur Erforschung von Fröschen.",
+        "Führend im Erhaltungsprogramm für den endemischen Titi Cabeciblanco.",
+        "Beherbergt den einzigen afrikanischen Elefanten in der Karibikregion.",
+        "Wichtiges Bildungszentrum für Kinder in Nordkolumbien.",
+        "Zentrum für die Behandlung verletzter Wildtiere aus der Region.",
+        "Mitglied der lateinamerikanischen Zoo-Vereinigung (ALPZA)."
+      ]
+    },
+    {
+      "id": "otun-quimbaya-life-v2",
+      "descriptionAdvanced": "Das Santuario de Fauna y Flora Otún Quimbaya ist ein herausragendes Beispiel für den Schutz der Bergnebelwälder in den kolumbianischen Anden. Gelegen im Tal des Flusses Otún, nahe Pereira, dient es als wichtiger Puffer für den Nationalpark Los Nevados. Das Schutzgebiet ist berühmt für seine hohe Dichte an Brüllaffen, deren Rufe oft durch den Wald hallen, und für die Beobachtung des seltenen Kaukaguans. Einzigartig ist, dass das Schutzgebiet gemeinschaftlich von der lokalen Bevölkerung verwaltet wird, was es zu einem preisgekrönten Modell für nachhaltigen Ökotourismus macht. Besucher können durch dichte Wälder wandern, Wasserfälle entdecken und in die Stille einer fast unberührten Natur eintauchen, die für die Wasserversorgung der gesamten Kaffeezone von entscheidender Bedeutung ist.",
+      "factsAdvanced": [
+        "Weltweit ausgezeichnetes Modell für gemeindebasierten Naturschutz.",
+        "Bester Ort in Kolumbien zur Beobachtung von roten Brüllaffen.",
+        "Wichtiges Schutzgebiet für den endemischen Kaukaguan (Vogelart).",
+        "Liegt nur ca. 16 Kilometer vom Stadtzentrum von Pereira entfernt.",
+        "Beherbergt über 300 verschiedene Vogelarten.",
+        "Schützt die Quellen des Flusses Otún, der die Stadt Pereira speist.",
+        "Bietet exzellente Pfade für wissenschaftliche Forschung und Trekking."
+      ]
+    },
+    {
+      "id": "cueva-de-los-guacharos-life-v2",
+      "descriptionAdvanced": "Die Cueva de los Guácharos war 1960 der erste Nationalpark, der in Kolumbien zum Schutz eines einzigartigen Ökosystems gegründet wurde. Der Park im Departement Huila beherbergt ein riesiges System von Höhlen, die die Heimat der geheimnisvollen Guácharos (Fettschwalme) sind, nachtaktive Vögel, die in völliger Dunkelheit leben und sich mittels Echoortung orientieren. Das Schutzgebiet umfasst zudem unberührte Nebelwälder und Moore (Páramos), die eine enorme biologische Vielfalt beherbergen, darunter Eichenwälder und den Brillenbären. Die Region ist von mystischer Schönheit, geprägt von kristallklaren Flüssen und bizarren Felsformationen. Als Pionier des Naturschutzes in Kolumbien ist der Park ein Symbol für das nationale Engagement zum Erhalt der biologischen Schätze der Anden.",
+      "factsAdvanced": [
+        "Erster National-Naturpark Kolumbiens (gegründet am 9. November 1960).",
+        "Schutzgebiet für den Guácharo (Steatornis caripensis), einen einzigartigen Höhlensvogel.",
+        "Enthält spektakuläre Karsthöhlen und natürliche Brücken.",
+        "Beherbergt eine der letzten unberührten Eichenwald-Regionen der Anden.",
+        "Teil des Biosphärenreservats Gürtel der Anden (UNESCO).",
+        "Wichtiges Refugium für den Andenbären und den Bergtapir.",
+        "Zentrum für wissenschaftliche Forschung und Höhlenkunde."
+      ]
+    },
+    {
+      "id": "pnn-amacayacu-life-v2",
+      "descriptionAdvanced": "Der National-Naturpark Amacayacu ist das Herz des kolumbianischen Amazonas-Tourismus und ein Ort von überwältigender Wildnis und kulturellem Reichtum. Das Schutzgebiet im sogenannten 'Amazonas-Trapez' beherbergt eine unglaubliche Vielfalt an Leben, von winzigen Seidenäffchen bis hin zu den gewaltigen Seekühen (Manatis) und Jaguaren. Der Park ist zudem die Heimat der indigenen Tikuna, die aktiv am Schutz des Waldes und am nachhaltigen Tourismus beteiligt sind. Besucher können durch den Regenwald wandern, Flüsse im Einbaum erkunden und die riesigen Victoria-Amazonica-Seerosen bewundern. Amacayacu bietet die seltene Gelegenheit, in die 'grüne Unendlichkeit' des Amazonas einzutauchen und gleichzeitig die jahrtausendealte Weisheit der Menschen kennenzulernen, die im Einklang mit diesem mächtigen Ökosystem leben.",
+      "factsAdvanced": [
+        "Größtes Schutzgebiet im kolumbianischen Amazonas-Trapez.",
+        "Beherbergt die größte Vielfalt an Primatenarten im Land.",
+        "Schutzgebiet für den bedrohten Amazonas-Seekuh (Manati).",
+        "Heimat der indigenen Gemeinschaft der Tikuna.",
+        "Besitzt Hunderte von Vogelarten, ideal für Birdwatching.",
+        "Wurde im Jahr 1975 gegründet.",
+        "Basis für die Erforschung der Amazonas-Biodiversität."
+      ]
+    },
+    {
+      "id": "pnn-utria-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Ensenada de Utría an der Pazikikküste des Chocó ist einer der magischsten Orte Kolumbiens, wo der dichte Regenwald direkt auf das Meer trifft. Die Ensenada ist eine geschützte Bucht mit ruhigem Wasser, die jährlich von Buckelwalen als Kinderstube für ihre Kälber gewählt wird. Die Landschaft ist geprägt von Mangrovenwäldern, Korallenriffen und einsamen Stränden mit dunklem Vulkansand. Utría ist ein Paradies für Ökotouristen, die in die Stille der unberührten Natur eintauchen möchten, weit weg von der Zivilisation. Die Biodiversität ist extrem hoch, sowohl an Land als auch unter Wasser. Für die afrokolumbianischen und indigenen Gemeinschaften der Region ist Utría ein heiliger Ort des Lebens, der die unbezähmbare Kraft und Schönheit des kolumbianischen Pazifiks verkörpert.",
+      "factsAdvanced": [
+        "Einziger Nationalpark Kolumbiens, der Regenwald, Mangroven und Korallen vereint.",
+        "Wichtigste Geburtsstätte für Buckelwale im Ostpazifik.",
+        "Besitzt eine der größten Artenvielfalten weltweit pro Quadratmeter.",
+        "Beherbergt seltene Mangrovenarten und endemische Seevögel.",
+        "Nur per Flugzeug nach Nuquí oder Bahía Solano und weiter per Boot erreichbar.",
+        "Nationalpark seit 1987.",
+        "Wichtiges Zentrum für nachhaltigen Gemeindetourismus."
+      ]
+    },
+    {
+      "id": "pnn-chingaza-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Chingaza, unmittelbar östlich von Bogotá gelegen, ist ein mystischer Ort aus Wasser und Nebel und das wichtigste Wasserschloss für die kolumbianische Hauptstadt. Das Schutzgebiet bewahrt eine der besterhaltenen Paramo-Landschaften der Welt, ein hochalpines Ökosystem, das nur in den Tropen vorkommt. Chingaza ist berühmt für seine tausenden Frailejones-Pflanzen, die wie stille Wächter im Nebel stehen, und für seine kristallklaren Lagunen, die einst heilige Stätten der Muisca-Indigenen waren. Der Park bietet Lebensraum für den majestätischen Brillenbären und den Andenkondor. Für Besucher ist Chingaza ein Ort der Stille und der tiefen Verbindung mit der Natur, der die lebenswichtige Bedeutung des Wassers für Millionen von Menschen veranschaulicht und gleichzeitig die wilde Schönheit der Anden bewahrt.",
+      "factsAdvanced": [
+        "Liefert etwa 80 % des Trinkwassers für Bogotá.",
+        "Beherbergt die größte Population von Brillenbären in Zentralkolumbien.",
+        "Schützt über 40 Gletscherseen andiner Herkunft.",
+        "Wichtiges RAMSAR-Feuchtgebiet von internationaler Bedeutung.",
+        "Gegründet im Jahr 1977.",
+        "Höchster Punkt liegt auf 4.020 Metern über dem Meeresspiegel.",
+        "Heiliges Territorium der Muisca-Zivilisation."
+      ]
+    },
+    {
+      "id": "zoologico-santacruz-life-v2",
+      "descriptionAdvanced": "Der Zoologische Garten Santacruz liegt malerisch in den Anden zwischen Bogotá und Mesitas del Colegio und ist eine bedeutende private Institution für den Tierschutz. Gegründet als Zufluchtsort für verletzte und beschlagnahmte Tiere, hat sich Santacruz zu einem Bildungszentrum entwickelt, das besonders für seine Programme zum Schutz einheimischer Arten bekannt ist. In einer Umgebung mit kühlem Klima und üppiger Vegetation können Besucher Löwen, Tiger, Jaguare und eine Vielzahl von Primaten beobachten. Der Zoo legt großen Wert auf die emotionale Verbindung zwischen Mensch und Tier und engagiert sich intensiv in der Umwelterziehung für Kinder. Santacruz ist mehr als nur ein Zoo; es ist ein Ort der Hoffnung und der Heilung für viele Tiere, die ohne menschliche Hilfe nicht überlebt hätten.",
+      "factsAdvanced": [
+        "Privat geführte gemeinnützige Institution für Tierrettung.",
+        "Liegt im Departement Cundinamarca in ca. 1.800 m Höhe.",
+        "Besitzt eine der erfolgreichsten Pflegestationen für Raubkatzen.",
+        "Wurde 1975 vom Tierliebhaber Jaime Duque gegründet (nicht zu verwechseln mit dem gleichnamigen Park).",
+        "Wichtiges Ziel für Familienausflüge aus der Hauptstadt.",
+        "Besitzt ein spezielles Zentrum für die Erholung von Greifvögeln.",
+        "Fokus auf die Interaktion und das Bewusstsein für die Tierwelt."
+      ]
+    },
+    {
+      "id": "kolumbianische-kaffeeachse-life-v2",
+      "descriptionAdvanced": "Die kolumbianische Kaffeeachse (Eje Cafetero) ist eine der reizvollsten Kulturlandschaften der Welt und wurde von der UNESCO zum Welterbe erklärt. Sie umfasst die Departements Caldas, Quindío und Risaralda und ist das Herz der weltweiten Kaffeeproduktion. Die Region zeichnet sich durch ihre sanften grünen Hügel, die bunten Dörfer mit ihrer Paisa-Architektur und die herzliche Gastfreundschaft ihrer Bewohner aus. Hier können Reisende auf traditionellen Haciendas den gesamten Prozess der Kaffeeherstellung erleben, durch das spektakuläre Cocora-Tal mit seinen riesigen Wachspalmen wandern oder in Thermalquellen entspannen. Die Kaffeeachse ist nicht nur ein wirtschaftliches Kraftzentrum, sondern ein Symbol für den kolumbianischen Lebensstil, in dem Arbeit, Tradition und die Liebe zur Natur eine harmonische Einheit bilden.",
+      "factsAdvanced": [
+        "UNESCO-Welterbe 'Kaffee-Kulturlandschaft Kolumbiens' seit 2011.",
+        "Produziert einige der besten Arabica-Kaffees der Welt.",
+        "Zentrum des kolumbianischen Agrotourismus.",
+        "Heimat des Nationalbaums von Kolumbien, der Quindío-Wachspalme.",
+        "Bekannt für die farbenfrohen Willys-Jeeps ('Yipaos').",
+        "Region mit der höchsten Dichte an Naturschutzgebieten und Themenparks.",
+        "Sitz der Städte Manizales, Pereira und Armenia."
+      ]
+    },
+    {
+      "id": "finca-recuca-life-v2",
+      "descriptionAdvanced": "RECUCA (Recorrido de la Cultura Cafetera) im Departement Quindío bietet Besuchern ein einzigartiges und tiefgreifendes Eintauchen in die Welt des kolumbianischen Kaffees. In diesem interaktiven Erlebnispark werden Gäste zu 'Kaffeebauern für einen Tag'. Man lernt nicht nur den Anbau und die Ernte kennen, sondern kleidet sich auch in traditionelle Trachten, nimmt an typischen Tänzen teil und probiert die traditionelle Gastronomie der Region. RECUCA legt großen Wert auf den Erhalt der 'Paisa'-Traditionen und vermittelt auf humorvolle und lehrreiche Weise die harte Arbeit und den Stolz, der hinter jeder Tasse Kaffee steckt. Es ist ein Ort, an dem Kultur gelebt wird und Besucher die Seele der kolumbianischen Kaffeeachse durch eigenes Handeln und Erleben begreifen können.",
+      "factsAdvanced": [
+        "Interaktives Kulturzentrum zum Thema Kaffeeanbau.",
+        "Besucher nehmen aktiv an der Ernte und Verarbeitung teil.",
+        "Fördert den Erhalt der traditionellen Paisa-Kleidung und Bräuche.",
+        "Befindet sich in der Gemeinde Calarcá, Quindío.",
+        "Bekannt für den 'Bogadera', ein traditionelles Erfrischungsgetränk.",
+        "Vermittelt die Geschichte der Kaffeekolonisierung in Kolumbien.",
+        "Hervorragendes Beispiel für agrotouristische Bildung."
+      ]
+    },
+    {
+      "id": "finca-el-ocaso-life-v2",
+      "descriptionAdvanced": "Die Finca El Ocaso in Salento ist eine traditionelle Kaffeeplantage, die Besuchern einen authentischen Einblick in den nachhaltigen Anbau von Spezialitätenkaffee bietet. Umgeben von einer atemberaubenden Bergkulisse und üppiger Flora, führt die Tour durch die schattigen Plantagen, wo der Fokus auf ökologischen Praktiken und der Erhaltung der Biodiversität liegt. Gäste können die reifen Kirschen selbst pflücken und den gesamten Prozess vom Waschen und Trocknen bis zum Rösten und Verkosten begleiten. Die Finca bewahrt den klassischen Baustil der Region mit ihren weitläufigen Veranden und bunten Farben. El Ocaso ist ein Ort der Ruhe und des Genusses, der zeigt, wie moderne Qualitätsansprüche und traditionelle Landwirtschaft im Herzen der kolumbianischen Anden erfolgreich koexistieren.",
+      "factsAdvanced": [
+        "Eine der bekanntesten Kaffeetouren in Salento, Quindío.",
+        "Fokus auf nachhaltigen und zertifizierten ökologischen Anbau.",
+        "Bietet spezialisierte Workshops zur Kaffee-Sensorik und Barista-Kunst.",
+        "Wunderschöne Lage im Tal unterhalb von Salento.",
+        "Klassische koloniale Architektur einer Kaffee-Hacienda.",
+        "Exportiert hochwertigen Spezialitätenkaffee weltweit.",
+        "Ideal zur Beobachtung von Vögeln inmitten der Kaffeeplantagen."
+      ]
+    },
+    {
+      "id": "uraba-bananenplantagen-life-v2",
+      "descriptionAdvanced": "Die Bananenplantagen in der Region Urabá im Nordwesten Kolumbiens sind das grüne Herz eines der wichtigsten Agrarexportsektoren des Landes. In den Departements Antioquia und Chocó erstrecken sich endlose Felder mit Bananenstauden, die von einem komplexen Kanalsystem bewässert werden. Die Region Urabá ist dank ihres fruchtbaren Bodens und des tropischen Klimas einer der weltweit führenden Produzenten von Cavendish-Bananen. Die Plantagen sind nicht nur ein wirtschaftlicher Motor, sondern prägen auch das soziale und kulturelle Leben der Region. Ein Besuch in der Zone ermöglicht es, den beeindruckenden logistischen Prozess zu verstehen, bei dem Millionen von Bananen geerntet, verpackt und über die Häfen von Turbo und Apartadó in die ganze Welt verschifft werden. Die Region steht heute für wirtschaftliche Resilienz und sozialen Wandel.",
+      "factsAdvanced": [
+        "Hauptanbaugebiet für Exportbananen in Kolumbien.",
+        "Wichtigster Arbeitgeber in der Region Urabá.",
+        "Kolumbien ist der viertgrößte Bananenexporteur der Welt.",
+        "Das Gebiet umfasst über 50.000 Hektar Anbaufläche.",
+        "Zentrum für technologische Innovation im tropischen Ackerbau.",
+        "Strategische Anbindung an die Häfen des Golfs von Urabá.",
+        "Wesentlicher Beitrag zum Bruttoinlandsprodukt von Antioquia."
+      ]
+    },
+    {
+      "id": "hacienda-venecia-life-v2",
+      "descriptionAdvanced": "Die Hacienda Venecia bei Manizales ist eine geschichtsträchtige Kaffeeplantage, die seit über 100 Jahren exzellenten kolumbianischen Kaffee produziert. Die Hacienda bietet Reisenden ein luxuriöses und zugleich authentisches Erlebnis inmitten der Andenberge. Mit ihrem preisgekrönten Gästehaus im Kolonialstil und den weiten Kaffee- und Kakaofeldern ist sie ein Symbol für die Eleganz und Tradition der Kaffeeachse. Die Touren auf der Hacienda Venecia sind für ihre Tiefe und Qualität bekannt, wobei besonderer Wert auf die sozialen und ökologischen Aspekte der Kaffeeproduktion gelegt wird. Besucher können hier die Stille der Natur genießen, seltene Vögel beobachten und tief in die Kultur der Region Caldas eintauchen, während sie den Duft von frisch geröstetem Kaffee in der Luft atmen.",
+      "factsAdvanced": [
+        "Traditionsreiche Kaffee-Hacienda mit über einem Jahrhundert Geschichte.",
+        "Bietet Unterkünfte in einem authentischen, denkmalgeschützten Herrenhaus.",
+        "Wurde mehrfach für die Qualität ihres Kaffees und ihrer Touren ausgezeichnet.",
+        "Liegt in der Nähe von Manizales in einer spektakulären Andenlandschaft.",
+        "Besitzt eigene Kakaoplantagen und bietet Schokoladen-Workshops an.",
+        "Wichtiges Ziel für hochwertigen Ökotourismus in Kolumbien.",
+        "Fördert nachhaltige Anbaumethoden zum Schutz der Bergwälder."
+      ]
+    },
+    {
+      "id": "jardin-botanico-quindio-life-v2",
+      "descriptionAdvanced": "Der Botanische Garten von Quindío in Calarcá ist ein herausragendes Zentrum für Naturschutz und Umweltbildung im Herzen des Kaffeedreiecks. Weltberühmt ist er für sein riesiges Schmetterlingshaus in Form eines Schmetterlings, das über 1.500 Exemplare aus 30 verschiedenen Arten beherbergt. Der Garten ist zudem ein wichtiger Ort für die Bewahrung bedrohter Pflanzenarten, insbesondere Palmen und Farne. Besucher können auf Waldwegen die reiche Flora der Anden entdecken, Vögel beobachten oder von einem hohen Turm den Blick über das grüne Baldachin des Waldes genießen. Der Botanische Garten von Quindío ist eine Oase der Biodiversität, die wissenschaftliche Forschung mit ästhetischem Naturgenuss verbindet und das Bewusstsein für die ökologischen Schätze Kolumbiens stärkt.",
+      "factsAdvanced": [
+        "Beherbergt eines der spektakulärsten Schmetterlingshäuser der Welt.",
+        "Führendes Zentrum für die Erhaltung kolumbianischer Palmenarten.",
+        "Besitzt einen 22 Meter hohen Aussichtsturm über dem Wald.",
+        "Gegründet im Jahr 1978 vom Botaniker Alberto Gómez Mejía.",
+        "Wichtiges Ziel für Birdwatching mit über 110 Vogelarten auf dem Gelände.",
+        "Beinhaltet ein Insektenmuseum und ein Zentrum für Pflanzenforschung.",
+        "Liegt inmitten der UNESCO-Kaffee-Kulturlandschaft."
+      ]
+    },
+    {
+      "id": "zuckerrohrplantagen-cauca-life-v2",
+      "descriptionAdvanced": "Die Zuckerrohrplantagen im Valle del Cauca bilden eine der produktivsten Agrarlandschaften Kolumbiens und sind das Rückgrat der nationalen Zuckerindustrie. Das flache, fruchtbare Tal zwischen der Zentral- und der Westkordillere bietet ideale Bedingungen für den großflächigen Anbau, der die Region wirtschaftlich dominiert. Das 'Meer aus Zuckerrohr' erstreckt sich über tausende Hektar und prägt das Landschaftsbild mit seinen grünen Wellen. Die Industrie ist nicht nur für die Zuckerproduktion von Bedeutung, sondern auch ein weltweit führender Akteur in der Erzeugung von Bioethanol. Ein Besuch im Tal ermöglicht es, die beeindruckende industrielle Kette von der Ernte bis zur modernen Raffinerie kennenzulernen und das Erbe der alten Zucker-Haciendas zu entdecken, die von der kolonialen Geschichte der Region erzählen.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum der Zuckerproduktion in Kolumbien.",
+        "Das Valle del Cauca liefert fast 100 % des kolumbianischen Zuckers.",
+        "Führende Region in der Produktion von Bioethanol aus Zuckerrohr.",
+        "Zentrum für technologische Forschung im Agrarsektor (Cenicaña).",
+        "Wirtschaftliches Herz der Departements Valle del Cauca und Cauca.",
+        "Beherbergt historische Haciendas wie 'El Paraíso' und 'Piedechinche'.",
+        "Einer der effizientesten Standorte für Zuckerrohranbau weltweit."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "country-czech-republic": {
+    "descriptionAdvanced": {
+      "hu": "Csehország, Közép-Európa történelmi szívében fekvő ország, amelyet gazdag múltja és lenyűgöző építészete emel ki a régió államai közül. Területe három történelmi régióra: Csehországra, Morvaországra és Cseh-Sziléziára oszlik, melyek mindegyike egyedi kulturális arculattal rendelkezik. A középkori várak, gótikus templomok és barokk paloták sűrű hálózata tanúskodik a terület egykori gazdagságáról és stratégiai jelentőségéről. A természeti adottságok között az Óriás-hegység hófödte csúcsai és a morvaországi lankás szőlővidékek is megtalálhatók. Az ország ipari fejlődése a 19. században indult meg, ma pedig a világ egyik vezető gépjármű- és gépipari központjaként tartják számon. A cseh kultúra elválaszthatatlan része a sörfőzés több évszázados hagyománya és az egyedülálló gasztronómia. Földrajz K8 — európai régiók."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A prágai Károly Egyetemet 1348-ban alapították, Közép-Európa legrégebbi egyeteme.",
+        "Csehországban található Európa egyik legsűrűbb jelzett turistautakból álló hálózata, több mint 40 000 km hosszan.",
+        "Az ország az egy főre jutó kastélyok számában a világ élmezőnyébe tartozik.",
+        "A híres cseh kémikus, Otto Wichterle találta fel a lágy kontaktlencsét 1959-ben."
+      ]
+    }
+  },
+  "city-prague": {
+    "descriptionAdvanced": {
+      "hu": "Prága, a száztornyú város a Moldva folyó két partján fekszik, és Európa egyik legszebb történelmi fővárosaként tartják számon. Évszázadokon át a cseh királyok és a Német-római Birodalom császárainak székhelye volt, ami páratlan építészeti gazdagságot hagyott hátra. A városképben a román, gótikus, barokk és szecessziós stílusok varázslatos harmóniája fedezhető fel, amelyet a második világháború pusztításai szerencsére megkíméltek. A történelmi belváros 1992 óta az UNESCO Világörökség része, olyan ikonikus látnivalókkal, mint a Károly-híd és a prágai Orloj. Az egykori zsidó negyed, a Josefov, Közép-Európa egyik legépebb zsidó történelmi emléke. Prága ma nemcsak a turizmus, hanem a tudomány, az oktatás és a modern művészetek lüktető központja is. Történelem K7 — középkori fővárosok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A prágai vár a Guinness Rekordok Könyve szerint a világ legnagyobb ősi vára.",
+        "Az Orloj csillagászati óra 1410 óta működik, ezzel a világ legrégebbi, még mindig működő ilyen szerkezete.",
+        "Prágában található a világ egyik legkeskenyebb utcája, amelynek forgalmát közlekedési lámpa irányítja.",
+        "A Károly-hidat 1357-ben, pontosan 5 óra 31 perckor kezdték el építeni egy asztrológiai számítás alapján."
+      ]
+    }
+  },
+  "city-brno": {
+    "descriptionAdvanced": {
+      "hu": "Brno, Morvaország történelmi központja és Csehország második legnagyobb városa, pezsgő kulturális és gazdasági csomópont. A város domborzatát két ikonikus magaslat határozza meg: a Špilberk várhegy és a Petrov-domb, ahol a Szent Péter és Pál-katedrális magasodik. A 19. században a várost fejlett textilipara miatt a 'morva Manchesternek' is nevezték. Brno modern építészeti öröksége is kiemelkedő, különösen a funkcionalista Tugendhat-villa, amely az UNESCO Világörökség része. Napjainkban a város jelentős egyetemi központ, ami fiatalos és innovatív atmoszférát kölcsönöz az utcáknak. A közeli Morva-karszt barlangrendszere kiváló kirándulási lehetőségeket kínál a természetbarátoknak. Földrajz K6 — ipari városok és fejlődés."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A brnói katedrális harangjai minden nap 11 órakor harangozzák a delet a svéd ostrom emlékére.",
+        "A város alatt Európa második legnagyobb csontkamrája található a párizsi katakombák után.",
+        "Gregor Mendel brnói kolostorának kertjében fektette le a modern genetika alapjait.",
+        "A Špilberk vár az Osztrák Birodalom legszigorúbb börtöne volt a 18-19. században."
+      ]
+    }
+  },
+  "city-plzen": {
+    "descriptionAdvanced": {
+      "hu": "Plzeň, Nyugat-Csehország központja, világszerte a sörfőzés fellegváraként ismert. 1295-ben alapította II. Vencel cseh király, és stratégiai elhelyezkedésének köszönhetően hamar jelentős kereskedelmi csomóponttá vált. A város igazi hírnevét 1842-ben szerezte, amikor itt főzték le a világ első aranyszínű lager sörét, a Pilsner Urquellt. Plzeň történelmi főtere, a Köztársaság tér, egyike a legnagyobbaknak Európában, közepén a gótikus Szent Bertalan-katedrálissal. Az ipari forradalom idején a város a Škoda Művek megalapításával a gépgyártás és a nehézipar egyik legfontosabb központja lett. A gazdag történelmi múlt és a modern ipari örökség izgalmas kontrasztot alkot a város mindennapjaiban. Gazdaság K8 — ipari forradalom."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Szent Bertalan-katedrális tornya 102 méter magas, ezzel a legmagasabb templomtorony Csehországban.",
+        "Plzeň alatt egy 20 kilométer hosszú, középkori pincerendszer húzódik.",
+        "A város a második világháború végén az amerikai csapatok által felszabadított terület része volt.",
+        "A pilseni sörfőzési eljárás alapja a különleges helyi lágy víz."
+      ]
+    }
+  },
+  "city-cesky-krumlov": {
+    "descriptionAdvanced": {
+      "hu": "Český Krumlov Dél-Csehország ékszerdoboza, amelynek középkori hangulatát a Moldva folyó kettős kanyarulata öleli körül. A város felett magasodó hatalmas várkastély Prága után az ország második legnagyobb rezidenciája. A történelmi belváros több mint három évszázada szinte változatlan formában maradt fenn, így 1992-ben felkerült az UNESCO Világörökségi listájára. Az utcákon sétálva gótikus, reneszánsz és barokk épületek lenyűgöző együttese tárul a látogatók elé. A város szorosan kapcsolódik a híres Rosenberg családhoz, akik a 16. században virágzó reneszánsz központtá tették. Ma a pezsgő kulturális élet és a romantikus atmoszféra vonzza a világ minden tájáról érkező turistákat. Történelem K6 — középkori városképek."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A várkastély egyik legkülönlegesebb része a világ egyik legrégebbi, ma is működő barokk színháza.",
+        "A várárokban a 16. század óta hagyományosan medvéket tartanak.",
+        "Egon Schiele osztrák festő itt élt és alkotott, a város sok képét megihlette.",
+        "A város neve a német 'Krumme Aue' kifejezésből ered, ami görbe rétet jelent."
+      ]
+    }
+  },
+  "city-karlovy-vary": {
+    "descriptionAdvanced": {
+      "hu": "Karlovy Vary Csehország leghíresebb és legnagyobb fürdővárosa, amely az ország nyugati részén, a Teplá folyó völgyében fekszik. A legendák szerint a várost IV. Károly német-római császár alapította 1370-ben, miután egy szarvasvadászat során felfedezte a gyógyító forrásokat. A 18. és 19. században a város az európai arisztokrácia, művészek és uralkodók kedvelt találkozóhelyévé vált. Elegáns, szecessziós stílusú kolonnádjai alatt összesen tizenhárom fő gyógyforrás buzog fel. A fürdőkultúra mellett a város híres a Moser kristályról, a Becherovka nevű gyógynövénylikőrről és az egyedi ízesítésű fürdőostyáról. A város építészeti pompája és a környező zöldellő hegyek lenyűgöző vizuális élményt nyújtanak. Földrajz K7 — gyógyvizek és turizmus."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A leghíresebb forrás, a Vřídlo (Hévíz), akár 12 méter magasra is fellövi a 72 Celsius-fokos vizet.",
+        "Karlovy Vary minden évben otthont ad Közép-Európa egyik legnevesebb filmfesztiváljának.",
+        "A várost gyakran emlegetik 'Közép-Európa szalonjaként' az elegáns építészet miatt.",
+        "Goethe, Beethoven és Chopin is rendszeresen vendégeskedett a fürdővárosban."
+      ]
+    }
+  },
+  "city-kutna-hora": {
+    "descriptionAdvanced": {
+      "hu": "Kutná Hora Közép-Csehország egyik legfontosabb történelmi városa, amely a középkorban a gazdag ezüstbányáinak köszönhetően Prágával vetekedett. A 13. században itt alapították az ország központi pénzverdéjét, a Vencel-garas szülőhelyét. A város elképesztő gazdagsága lehetővé tette olyan monumentális épületek felhúzását, mint a késő gótikus Szent Borbála-katedrális, amely a bányászok védőszentjének lett szentelve. A közeli Sedlec városrész ad otthont a világhírű csontkápolnának, amelynek belső terét emberi csontok tízezreiből alakították ki. Az egykori bányaváros zegzugos, macskaköves utcái és történelmi épületei miatt az UNESCO Világörökség része. Ma Kutná Hora a középkori építészet szerelmeseinek zarándokhelye. Történelem K6 — középkori bányászat."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A középkorban az európai ezüstkitermelés mintegy harmada Kutná Horából származott.",
+        "A sedleci osszáriumban található csillár és a Schwarzenberg család címere is emberi csontokból készült.",
+        "A Szent Borbála-katedrális építése több mint 500 évig tartott, és csak 1905-ben fejeződött be.",
+        "Az Olasz Udvar (Vlašský dvůr) volt a cseh királyok egykori rezidenciája és pénzverdéje."
+      ]
+    }
+  },
+  "nature-sumava": {
+    "descriptionAdvanced": {
+      "hu": "A Šumava, vagy Cseh-erdő, Csehország délnyugati határán húzódó, kiterjedt és vadregényes középhegység. Sűrű fenyvesei, kiterjedt tőzeglápjai és kristálytiszta gleccsertavai Európa egyik legnagyobb egybefüggő erdőségét alkotják. A terület évtizedeken át a vasfüggöny szigorúan őrzött határsávjába esett, ami hozzájárult ahhoz, hogy a természet szinte érintetlen maradt. A hegyvidék a Moldva (Vltava) folyó forrásvidéke is, amely a csehek nemzeti folyójaként kanyarog át az országon. A Šumava Nemzeti Park egyedülálló élőhelyet biztosít olyan ritka fajoknak, mint az eurázsiai hiúz és a siketfajd. A régió manapság a túrázók, kerékpárosok és a téli sportok szerelmeseinek paradicsoma. Földrajz K5 — erdők és hegyvidékek élővilága."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Šumava és a bajor oldal együtt Közép-Európa 'Zöld Tetőjeként' ismert.",
+        "A hegységben öt természetes glaciális tó található, amelyek a jégkorszakból maradtak fenn.",
+        "A területen található a híres Boubín-őserdő, amelyet már 1858-ban védetté nyilvánítottak.",
+        "A vasfüggöny idején több tucat falut ürítettek ki és romboltak le a határ mentén."
+      ]
+    }
+  },
+  "city-ostrava": {
+    "descriptionAdvanced": {
+      "hu": "Ostrava, Csehország harmadik legnagyobb városa, az ország északkeleti részén, a sziléziai régió szívében található. A település fejlődését évszázadokon át a feketeszén bányászata és a nehézipar határozta meg, ami miatt gyakran a 'köztársaság acélszíveként' emlegették. Noha az utolsó bányát a 90-es években bezárták, Ostrava sikeresen integrálta ipari örökségét a modern városképbe. A Dolní Vítkovice hatalmas, rozsdásodó vasműve ma Európa egyik legizgalmasabb kulturális és fesztiválközpontja. A város zöld területei és a közeli Beszkidek hegység kiváló ellensúlyt nyújtanak az indusztriális múltnak. Ostrava az ipari újjászületés és a modern kreativitás kiemelkedő példája. Gazdaság K8 — ipari szerkezetváltás."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "Ostrava ad otthont a Colours of Ostrava zenei fesztiválnak, amelyet a régi vasmű területén rendeznek.",
+        "Az Ema nevű meddőhányó a belső égések miatt egyedülálló, szubtrópusi mikroklímával rendelkezik.",
+        "A város új városházájának tornya 85 méter magas, lenyűgöző kilátást nyújtva a régióra.",
+        "Az egykori bányák ma látogathatók, bemutatva a 19. századi kemény munkakörülményeket."
+      ]
+    }
+  },
+  "city-liberec": {
+    "descriptionAdvanced": {
+      "hu": "Liberec Észak-Csehország központja, amely a festői Jizera-hegység és a Ještěd-gerinc lábánál fekszik. A város gazdasági és kulturális felvirágzása a 19. századi textiliparnak köszönhető, amely hatalmas vagyont hozott a régióba. Ennek az aranykornak az emlékét őrzik a lenyűgöző neoreneszánsz városháza és az elegáns villanegyedek. A város felett tornyosuló Ještěd-hegy csúcsán található ikonikus tévétorony, amely egyben szálloda is, a modern cseh építészet remekműve. Liberecben található Csehország legrégebbi botanikus kertje és egy jelentős, fehér tigriseiről híres állatkert is. A város télen-nyáron a természetjárók és a sportolók kedvelt bázisa. Földrajz K6 — hegyvidéki városok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Ještěd-torony 1969-ben elnyerte az építészet egyik legrangosabb díját, az Auguste Perret-díjat.",
+        "A libereci állatkertet 1919-ben alapították, ezzel a legrégebbi az országban.",
+        "A város ad otthont Közép-Európa egyik legnagyobb szórakoztató komplexumának, a Babylon Centrumnak.",
+        "A libereci városháza kísértetiesen hasonlít a bécsi városházára, mivel ugyanaz a bécsi építész tervezte."
+      ]
+    }
+  },
+  "city-olomouc": {
+    "descriptionAdvanced": {
+      "hu": "Olomouc Morvaország történelmi szívében fekszik, és Prága után a második legjelentősebb műemlékegyüttessel rendelkezik az országban. A középkorban a régió fővárosa és püspöki székhely volt, ami lenyűgöző egyházi épületek és terek kialakulását eredményezte. A város legkiemelkedőbb látványossága a monumentális Szentháromság-oszlop, amely a barokk szobrászat remekműve és UNESCO Világörökségi helyszín. Olomouc nyüzsgő egyetemi város, a Palacký Egyetem révén tele van fiatalos energiával és kulturális programokkal. A város különlegessége a hat gyönyörűen kidolgozott, barokk stílusú szökőkút, amelyek mitológiai alakokat ábrázolnak. A történelmi atmoszféra és a modern életérzés itt harmonikus egységet alkot. Történelem K7 — vallási központok és építészet."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A 35 méter magas Szentháromság-oszlop Közép-Európa legnagyobb szabadon álló barokk szoborcsoportja.",
+        "Olomoucban a prágaihoz hasonló, de szocialista realizmus stílusban átépített csillagászati óra található.",
+        "A város híres különleges, erős illatú sajtjáról, az Olomouci tvarůžky-ról.",
+        "Wolfgang Amadeus Mozart tizenegy éves korában itt komponálta a 6. szimfóniáját."
+      ]
+    }
+  },
+  "city-hradec-kralove": {
+    "descriptionAdvanced": {
+      "hu": "Hradec Králové az Elba (Labe) és az Orlice folyók összefolyásánál fekvő észak-csehországi nagyváros. A település neve 'A királyné várát' jelenti, mivel a középkorban a cseh királynék hozománybirtoka volt. A városképet két teljesen eltérő, mégis lenyűgöző stílus határozza meg: a középkori, gótikus téglaépítészet és az 1920-as, 30-as évek avantgárd urbanisztikája. Josef Gočár építész mesteri várostervezésének köszönhetően Hradec Královét gyakran a 'Köztársaság Szalonjaként' emlegetik. Az Óváros központjában található Fehér Toronyból lélegzetelállító kilátás nyílik az egész régióra. A város ma a modern építészet és a pezsgő kulturális élet fontos csehországi központja. Művészet K8 — modern várostervezés."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A 72 méter magas Fehér Toronyban található az ország második legnagyobb harangja, az Augustin.",
+        "Hradec Králové a cseh modern építészet bölcsőjeként ismert a két világháború közötti időszakból.",
+        "A város főtere a gótikus Szentlélek-katedrális hatalmas téglaépületéről nevezetes.",
+        "A helyi zenei fesztiválok, mint a Rock for People, Európa-szerte vonzzák a látogatókat."
+      ]
+    }
+  },
+  "city-pardubice": {
+    "descriptionAdvanced": {
+      "hu": "Pardubice az Elba folyó partján fekvő város, amely a lovassportokról és a különleges mézeskalácsáról híres Európa-szerte. A város történelmi magja egy csodálatos, reneszánsz stílusú tér köré épült, amelyet a monumentális Pardubicei kastély ural. A kastély a Pernštejn család keze nyomát viseli, akik a 16. században az ország egyik legbefolyásosabb nemesi famíliája voltak. A modern korban a város az ipar, különösen a vegyipar és a gépgyártás központjává fejlődött. Pardubice leginkább a Velká pardubická (Pardubicei Nagy Akadályverseny) révén ismert, amely a kontinens egyik legnehezebb és legrégebbi lovasversenye. A város így a hagyományok és a modern fejlődés tökéletes egyensúlyát kínálja. Földrajz K6 — mezőgazdaság és ipar."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Pardubicei mézeskalács hagyománya a 16. századra nyúlik vissza, és szigorúan őrzött recept alapján készül.",
+        "A Velká pardubická lovasversenyt 1874 óta rendezik meg, leghírhedtebb akadálya a Taxis-árok.",
+        "A városban található Európa egyik legnagyobb, ma is működő lőpor- és robbanóanyaggyára (Semtex szülőhelye).",
+        "Jan Kašpar itt hajtotta végre az első sikeres motoros repülést Csehországban 1910-ben."
+      ]
+    }
+  },
+  "city-zlin": {
+    "descriptionAdvanced": {
+      "hu": "Zlín, a kelet-morvaországi iparváros története szorosan összefonódik a Baťa cipőbirodalom felemelkedésével. A 20. század elején Tomáš Baťa egy kis faluból modern, funkcionalista ipari központtá varázsolta a települést, amely egyedülálló építészeti és társadalmi modellt képviselt. A vörös téglás gyárépületek és a dolgozók számára épült szabványosított házak ma is meghatározzák a város arculatát. A városközpont legikonikusabb épülete a 21-es épület (Mrakodrap), amely építésekor Európa egyik legmagasabb épülete volt, és mozgó irodaként funkcionáló lifttel rendelkezett. Zlín ma is a design, az ipar és a filmművészet fontos központja. Várostörténet K8 — funkcionalizmus és ipari fejlődés."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Zlíni 21-es számú épületben található Tomáš Baťa egykori irodája egy hatalmas, berendezett liftben kapott helyet.",
+        "A város a funkcionalista urbanisztika egyik legfontosabb európai példája.",
+        "Zlín ad otthont a világ egyik legrégebbi és legnagyobb gyermek- és ifjúsági filmfesztiváljának.",
+        "A Baťa cég fénykora alatt a város lakossága harminc év alatt a tízszeresére nőtt."
+      ]
+    }
+  },
+  "city-jihlava": {
+    "descriptionAdvanced": {
+      "hu": "Jihlava, a Cseh-Morva-dombság szívében található történelmi város, pontosan Csehország és Morvaország határán fekszik. A középkorban gazdag ezüstbányái révén az ország egyik leggazdagabb települése volt, amelynek bevételei a prágai királyi udvart gazdagították. A város hatalmas főtere az egyik legnagyobb az országban, amelyet gyönyörűen felújított reneszánsz és barokk házak öveznek. Jihlava igazi különlegessége a föld alatt rejlik: a középkori katakombarendszer mintegy 25 kilométer hosszan kanyarog a város alatt. A település történelme során erős német hatás alatt állt, ami az építészeten és a kulturális hagyományokon is megfigyelhető. Ma nyugodt, de látnivalókban gazdag regionális központ. Történelem K6 — bányavárosok fénykora."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Jihlavai katakombákban található egy különleges, lumineszkáló falakkal rendelkező alagút.",
+        "1436-ban itt írták alá a huszita háborúkat lezáró bázeli kompaktátumokat.",
+        "A város 13. századi bányászati jogrendje, a Jihlavai jog, egész Közép-Európában mintául szolgált.",
+        "A Jihlava folyó hagyományosan a természetes határ Csehország és Morvaország között."
+      ]
+    }
+  },
+  "city-ceske-budejovice": {
+    "descriptionAdvanced": {
+      "hu": "České Budějovice Dél-Csehország közigazgatási és kulturális központja, amely a Moldva (Vltava) és a Malše folyók találkozásánál épült. A várost 1265-ben II. Ottokár cseh király alapította, hogy megerősítse a királyi hatalmat a régióban a befolyásos Rosenberg családdal szemben. Történelmi központjának ékköve a hatalmas, szabályos négyzet alakú II. Ottokár tér, amelyet árkádos polgárházak és a lenyűgöző barokk Sámson-kút díszít. A város világhírnevét a sörfőzésnek köszönheti: itt készül a híres Budweiser (Budvar) sör, amelynek története a középkorig nyúlik vissza. A közeli Hluboká kastéllyal együtt a régió a dél-csehországi turizmus egyik legfontosabb pillére. Gazdaság K7 — söripar és kereskedelem."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A II. Ottokár tér területe pontosan egy hektár, ezzel az egyik legnagyobb tér Európában.",
+        "A téren található egy 'Kóbor kő' nevű bazaltkocka; a legenda szerint, aki este tíz után rálép, eltéved.",
+        "A város 72 méter magas Fekete tornyából kiváló kilátás nyílik az Alpok vonulataira tiszta időben.",
+        "A Budweiser Budvar sörgyár a világ egyik legutolsó, még mindig állami tulajdonban lévő nagy sörfőzdéje."
+      ]
+    }
+  },
+  "city-usti-nad-labem": {
+    "descriptionAdvanced": {
+      "hu": "Ústí nad Labem Észak-Csehország egyik legfontosabb ipari és közlekedési csomópontja, amely az Elba (Labe) folyó festői völgyében fekszik. A Cseh Középhegység meredek dombjai közé ékelődő város drámai tájképet kínál, ahol a nehézipar emlékei és a zöldellő természet találkozik. A város fölé magasodó Střekov várának romjai romantikus inspirációt nyújtottak Wagnernek és Goethének is. Bár Ústí a második világháború és a szocialista iparosítás során sokat vesztett történelmi épületeiből, megmaradt a különleges, dőlő tornyú Mária Mennybemenetele-templom. Napjainkban a város folyamatosan modernizálódik, miközben fontos folyami kikötőként szolgál a Hamburg felé tartó teherforgalom számára. Földrajz K8 — folyami hajózás és ipar."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A város templomának tornya közel két métert dől a függőlegestől, miután 1945-ben bombatalálat érte.",
+        "A Mariánská skála feletti modern, függőhíd-szerű Mariánský híd a kortárs építészet ikonja.",
+        "Ústí nad Labem az ország legnagyobb folyami kikötőjével rendelkezik az Elbán.",
+        "A Větruše kilátóhoz egyenesen a városközpontból induló libegővel lehet feljutni."
+      ]
+    }
+  },
+  "city-tabor": {
+    "descriptionAdvanced": {
+      "hu": "Tábor városa a huszita mozgalom bölcsőjeként írta be magát a cseh és európai történelembe. 1420-ban alapították a radikális husziták Jan Žižka vezetésével, akik a települést egy eszményi, egyenlőségen alapuló társadalom központjának szánták. A város szerkezete tükrözi katonai múltját: a zegzugos, kanyargós utcákat szándékosan úgy alakították ki, hogy megzavarják a betörő ellenséget. A főtér alatt egy kiterjedt alagútrendszer található, amely egykor raktárként és óvóhelyként szolgált a polgárok számára. Ma Tábor egy gyönyörűen megőrzött középkori város, amely múzeumaival és fesztiváljaival büszkén ápolja forradalmi múltját. Történelem K7 — vallásháborúk és társadalmi mozgalmak."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A város nevét a bibliai Tábor-hegyről kapta, ami a husziták vallási meggyőződését tükrözi.",
+        "A történelmi belváros utcái egy bonyolult labirintust alkotnak a védekezés megkönnyítésére.",
+        "A város alatti pincerendszer hossza meghaladja a 14 kilométert.",
+        "Tábor mellett található a Jordán, Közép-Európa legrégebbi (1492) mesterséges víztározója."
+      ]
+    }
+  },
+  "city-cheb": {
+    "descriptionAdvanced": {
+      "hu": "Cheb, a német határ közelében fekvő nyugat-csehországi város, évszázadokon át ütközőzóna és közvetítő volt a cseh és a német kultúra között. Építészetében a jellegzetes favázas, német stílusú polgárházak, az úgynevezett 'Špalíček', a főtér leglátványosabb elemei. A város történetének legdrámaibb eseménye 1634-ben történt, amikor Albrecht von Wallenstein hadvezért a helyi Pachelbel-házban meggyilkolták. A Chebi vár, amely egykor rőfös császári rezidencia volt, Csehország egyetlen megmaradt román stílusú császári palotája. A város történelmi atmoszférája, a macskaköves utcák és a közeli gyógyfürdők miatt a régió egyik legvonzóbb célpontja. Történelem K8 — a harmincéves háború."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A 'Špalíček' egy 13. századból származó, szorosan egymás mellé épült favázas kereskedőház-csoport.",
+        "A Chebi várban található Fekete Torony teljes egészében bazalttömbökből épült.",
+        "A város évszázadokon át önálló birodalmi városként működött a Német-római Birodalomban.",
+        "A Wallenstein-gyilkosság helyszíne ma múzeumként látogatható."
+      ]
+    }
+  },
+  "city-as": {
+    "descriptionAdvanced": {
+      "hu": "Aš a Cseh Köztársaság legnyugatibb városa, amely egy egyedülálló, Németországba nyúló földrajzi kiszögellésben, az úgynevezett Aši-kiszögellésben (Ašský výběžek) található. Történelme során a textilipar tette gazdaggá, a 19. században a pamut- és csipkegyártás egyik legfontosabb központja volt az Osztrák-Magyar Monarchiában. A II. világháború után a város fejlődését visszavetette a határmenti vasfüggöny kialakítása. Ma Aš egy békés határváros, amely a természetközeli turizmusra fókuszál. A környék sűrű erdői és túraútvonalai kiváló lehetőséget nyújtanak a Smrčiny (Fichtelgebirge) hegység felfedezésére. Földrajz K6 — határmenti régiók."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "Aš környékén található Csehország legnyugatibb pontja, amelyet egy kőoszlop jelez.",
+        "A város egyetlen ismert protestáns temploma a 17. században épült, de 1960-ban egy tűzvészben megsemmisült.",
+        "A hidegháború idején Aš három oldalról is szögesdróttal volt elzárva a Nyugattól.",
+        "A város címerében három pénr (pénz) található, utalva a történelmi Zedtwitz családra."
+      ]
+    }
+  },
+  "city-domazlice": {
+    "descriptionAdvanced": {
+      "hu": "Domažlice a nyugat-csehországi Chodsko régió történelmi központja, amely a határőrző chodok (szabad parasztok) hagyományairól híres. A város főtere egyike az ország legfestőibb tereinek, amelyet lenyűgöző, színes árkádos házak és egy karcsú, enyhén dőlő hengeres torony díszít. A chodok, akik kutyás címerükről ismertek, évszázadokon át kiváltságokat élveztek a cseh határ védelméért cserébe. Domažlice ma is ápolja ezt az egyedülálló népi kultúrát, ami megmutatkozik a helyi dialektusban, a népviseletben és az évente megrendezett Chod Fesztiválon. A város a cseh népi hagyományok és a nyugati határvidék történelmének fontos őrzője. Kultúra K5 — néphagyományok és határvédelem."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Domažlicei főtér templomának tornya közel 60 centimétert dől a függőlegestől.",
+        "A chod népcsoport címere egy kutyafej, amely a határvédő őrkutyákra utal.",
+        "Alois Jirásek cseh író 'A kutyafejűek' című híres regénye a chodok felkeléséről szól.",
+        "A helyi péksütemény, a Chodský koláč, egy gazdagon díszített, túróval és mákkal töltött kerek sütemény."
+      ]
+    }
+  },
+  "city-tachov": {
+    "descriptionAdvanced": {
+      "hu": "Tachov egy csendes történelmi város Nyugat-Csehországban, a Mže folyó völgyében, közel a bajor határhoz. A város egykor jelentős középkori erődítmény volt, amelynek lenyűgöző városfalai a mai napig az egyik legépebben fennmaradt védelmi rendszerek az országban. Tachov a történelem viharaiban többször is ostrom alá került, leginkább a huszita háborúk idején játszott fontos szerepet. A város közelében fekszik a híres Světce lovarda, amely Közép-Európa második legnagyobb történelmi lovardája a bécsi Spanyol Lovasiskola után. Tachov környéke a Cseh-erdő természeti szépségeivel ideális célpont a nyugalomra vágyó turisták számára. Történelem K6 — középkori erődítések."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "Tachov városfalai mintegy 700 méter hosszan maradtak fenn, több mint 20 eredeti bástyával.",
+        "1427-ben a husziták a tachovi csatában döntő vereséget mértek a keresztes seregekre.",
+        "A Světce lovardát a Windisch-Graetz hercegi család építtette a 19. században neoromán stílusban.",
+        "A város a sóút nevű középkori kereskedelmi útvonal fontos állomása volt."
+      ]
+    }
+  },
+  "city-zatec": {
+    "descriptionAdvanced": {
+      "hu": "Žatec, az Ohře folyó partján fekvő északnyugat-csehországi város, világszerte a sörgyártás 'Szent Gráljaként', a cseh komlótermesztés központjaként ismert. A város történelmi magja és egyedülálló ipari építészete, a komlószárítók és -raktárak sűrű hálózata 2023-ban felkerült az UNESCO Világörökség listájára. Az itt termesztett 'Saaz' komlófajta a pilseni típusú sörök elengedhetetlen alapanyaga, amelyet az egész világon használnak. A város gazdag polgárházai, zsinagógája és kanyargós utcái filmkészítők tucatjait vonzzák, így Žatec gyakran szolgál történelmi filmek díszleteként. A Komló és Sör Temploma nevű komplexum interaktív módon mutatja be e növény jelentőségét. Mezőgazdaság K7 — komlótermesztés és ipar."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Žateci 'Saaz' komló a világ legfinomabb aromájú komlófajtáinak egyike.",
+        "A városban található egy kilátótorony, amely egy hatalmas komlóindát formáz.",
+        "Több mint 100 filmet és sorozatot forgattak a városban, köztük a Nyomorultak és a Jojo Nyuszi jeleneteit.",
+        "Žatecben található a világ legnagyobb komlómúzeuma."
+      ]
+    }
+  },
+  "city-litomerice": {
+    "descriptionAdvanced": {
+      "hu": "Litoměřice Észak-Csehország egyik legrégebbi és legszebb városa, amely az Elba (Labe) és az Ohře folyók összefolyásánál fekszik. A püspöki székhelyként működő város színes történelmi központja a gótikus, reneszánsz és barokk építészet valóságos kincsesbányája. A város enyhe klímája miatt a környéket 'Csehország Kertjének' is nevezik, amely gyümölcstermesztéséről és borászatáról híres. A Dóm tér és a Szent István-katedrális a cseh egyházi élet fontos központjai. A város alatt egy kiterjedt, történelmi pincerendszer húzódik, amelyet évszázadokon át bor- és élelmiszertárolásra használtak. Litoměřice romantikus fekvése a Cseh Középhegység kapujában festői látványt nyújt. Történelem K6 — egyházi központok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A városban élt és alkotott Karel Hynek Mácha, a cseh romantika legjelentősebb költője.",
+        "Litoměřice földalatti pincerendszere mintegy 3 kilométer hosszan látogatható.",
+        "A város környéki szőlőültetvények az ország legészakibb borvidékét alkotják.",
+        "A Kehely alakú ház (Dům U Kalicha) tetején lévő réz kilátó a város egyik jelképe."
+      ]
+    }
+  },
+  "city-decin": {
+    "descriptionAdvanced": {
+      "hu": "Děčín az ország legalsó pontján fekvő városa, ahol az Elba (Labe) folyó áttöri a Cseh-Szász Svájc homokkő szikláit. A város látképét egy meredek sziklaszirtre épült, hatalmas kastély uralja, amely századokon át védte az Észak felé tartó kereskedelmi útvonalakat. Děčín a természetkedvelők Mekkája, hiszen innen indulnak a legszebb túraútvonalak a környező nemzeti park lélegzetelállító sziklaformációihoz. A városban működő folyami kikötő történelmileg kulcsfontosságú kapocs volt Hamburg és a cseh iparvidékek között. Az Elba partján futó kerékpárút a kontinens egyik legnépszerűbb turisztikai útvonala. Földrajz K6 — folyók és nemzeti parkok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Děčíni kastély Rózsakertjében komponálta Chopin a híres Děčíni keringőt.",
+        "A városban található a Pastýřská stěna (Pásztorfal), ahonnan drótkötélpályás mászóutakon lehet feljutni.",
+        "A děčíni kikötő Csehország legfontosabb összeköttetése az Északi-tengerrel.",
+        "A város legalacsonyabb pontja mindössze 135 méterrel fekszik a tengerszint felett."
+      ]
+    }
+  },
+  "city-trutnov": {
+    "descriptionAdvanced": {
+      "hu": "Trutnov a festői Óriás-hegység (Krkonoše) keleti kapujában fekvő ipari és történelmi város. A legenda szerint a várost egy sárkány legyőzése után alapították, és a sárkány motívuma a mai napig a város címerében és kultúrájában is központi szerepet játszik. A 19. században a régió a cseh textilipar egyik legfontosabb központjává fejlődött. Trutnov történelmében fontos esemény volt az 1866-os porosz-osztrák háború helyi csatája, amelynek emlékművei ma is láthatók a várost övező dombokon. Ma a város a hegyvidéki turizmus, a síelés és a nyári fesztiválok fontos bázisa. Földrajz K5 — hegyvidéki kapuvárosok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "Minden év májusában a város sárkányünnepet tart, amely során egy fából készült sárkányt húznak fel a városháza tornyára.",
+        "Václav Havel volt cseh köztársasági elnök hosszú éveken át dolgozott a trutnovi sörgyárban.",
+        "A város melletti csatatéren osztrák győzelem született az 1866-os háború egyetlen sikeres ütközetében.",
+        "A Krakonoš nevű helyi sör a hegység mitikus szellemének nevét viseli."
+      ]
+    }
+  },
+  "city-nachod": {
+    "descriptionAdvanced": {
+      "hu": "Náchod, a lengyel határ közelében fekvő kelet-csehországi város, fontos stratégiai és kereskedelmi csomópont volt évszázadokon át. A várost a föléje magasodó reneszánsz kastély uralja, amelyet az idők során erődítményből alakítottak át pompás nemesi rezidenciává. Náchod és környéke az 1930-as években az ország védelmi vonalának kiépítése miatt vált jelentőssé; a határ mentén ma is láthatók az egykori csehszlovák betonbunkerek. A város híres a textiliparáról és a Primátor sörgyárról, amely különleges sörfajtáival nemzetközi hírnevet szerzett. Náchod a közeli Adršpach-Teplice sziklavárosba induló kirándulások kedvelt kiindulópontja. Történelem K8 — határvédelem a 20. században."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Náchodi kastély vizesárkányában a 90-es évek óta élő medvéket tartanak.",
+        "A közeli Dobrošov tüzérségi erőd a csehszlovák Maginot-vonal egyik legnagyobb megőrzött komplexuma.",
+        "A náchodi Primátor sörfőzde többször is elnyerte a 'Világ Legjobb Söre' címet búzasör kategóriában.",
+        "Josef Škvorecký, a híres cseh író itt született, és műveiben gyakran 'Kostelec' néven szerepeltette a várost."
+      ]
+    }
+  },
+  "city-trebic": {
+    "descriptionAdvanced": {
+      "hu": "Třebíč a morvaországi Jihlava folyó partján fekvő történelmi város, amely egyedülálló módon őrzi a keresztény és zsidó kultúra békés egymás mellett élésének emlékét. A város két legfőbb nevezetessége a román-gótikus Szent Prokop-bazilika és a lenyűgöző Zsidó Negyed, amelyek együttesen az UNESCO Világörökség részét képezik. A Třebíči Zsidó Negyed Európa egyik legjobb állapotban fennmaradt ilyen jellegű műemlékegyüttese, több mint 120 megőrzött házzal, zsinagógákkal és egy régi temetővel. A város gazdag történelme ellenére nyugodt atmoszférájú, ahol a látogatók időutazáson vehetnek részt a középkori sikátorokban sétálva. Történelem K8 — zsidó örökség és kultúrák együttélése."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Třebíči Zsidó Negyed az egyetlen zsidó műemlék Izraelen kívül, amely önállóan felkerült az UNESCO listájára.",
+        "A város régi zsidó temetőjében mintegy 3000 sírkő található, a legrégebbi a 17. századból származik.",
+        "A Szent Prokop-bazilika kapuzata, az úgynevezett 'Paradicsomkapu', a román építészet egyik csúcspontja.",
+        "A város környéke a Morva-dombság tipikus festői tájait kínálja."
+      ]
+    }
+  },
+  "city-mikulov": {
+    "descriptionAdvanced": {
+      "hu": "Mikulov Dél-Morvaország borvidékének gyöngyszeme, amely az osztrák határ közelében, a festői Pálava-hegység lábánál fekszik. A település látképét a dombtetőn trónoló barokk kastély és a szomszédos Szent-hegy (Svatý kopeček) uralja. A város évszázadokon át az egyik legfontosabb morvaországi zsidó központ volt, a helyi zsidó temető és a zsinagóga ma is látogatható. Mikulov egykor a befolyásos Dietrichstein család székhelye volt, akik pompás épületekkel gazdagították a várost. A napfényes lankákon termelt borok és a mediterrán hangulat a cseh borkultúra és gasztronómia egyik legfontosabb célpontjává teszik a települést. Földrajz K7 — borvidékek és mezőgazdaság."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A mikulovi kastély pincéjében található Európa egyik legnagyobb boroshordója, amely 101 ezer literes.",
+        "A Szent-hegyre vezető keresztút az egyik legrégebbi Csehországban, és népszerű zarándokhely.",
+        "Mikulovban írták alá 1866-ban a porosz-osztrák háborút lezáró fegyverszünetet.",
+        "A helyi zsidó temetőben nyugszik a híres Löw rabbi, a prágai Gólem mondakörének egyik alakja, bár ő főként Prágában élt."
+      ]
+    }
+  },
+  "city-valtice": {
+    "descriptionAdvanced": {
+      "hu": "Valtice egy dél-morvaországi kisváros, amelyet gyakran a 'cseh borok fővárosaként' is emlegetnek. A város igazi hírnevét a Liechtenstein családnak köszönheti, akik évszázadokon át itt rendezték be fényűző rezidenciájukat. A hatalmas barokk Valticei kastély a szomszédos Lednicével együtt Európa legnagyobb mesterségesen kialakított tájképi parkját, a Lednice-Valtice Kultúrtájat alkotja, amely UNESCO Világörökség. A kastély pincerendszere ad otthont a Cseh Köztársaság Nemzeti Borszalonjának, ahol az ország száz legjobb borát állítják ki és kínálják kóstolásra. Valtice harmonikus ötvözete a főúri pompának és a nagy múltú borászati hagyományoknak. Történelem K6 — nemesi birtokok és borászat."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Lednice-Valtice területet gyakran 'Európa Kertjeként' emlegetik a több száz négyzetkilométeres parkrendszer miatt.",
+        "A Valticei kastély pincéje a 15. századból származik, és több ezer palack bort tárol.",
+        "A város egykor Alsó-Ausztriához tartozott, és csak az I. világháború után csatolták Csehszlovákiához.",
+        "A kastély barokk színházát nemrégiben korhűen restaurálták."
+      ]
+    }
+  },
+  "city-breclav": {
+    "descriptionAdvanced": {
+      "hu": "Břeclav Dél-Morvaország egyik legfontosabb közlekedési csomópontja, amely a Dyje folyó partján, Ausztria és Szlovákia határának közelében fekszik. A település a középkorban egy fontos határvár körül alakult ki, amelyet később kastéllyá építettek át. A 19. század közepén, a Bécsből induló Északi Vasút megépítésével Břeclav hirtelen hatalmas jelentőségre tett szert, mint az első gőzvontatású vasútállomás a mai Csehország területén. A város ma a Lednice-Valtice kultúrtáj déli kapuja, és népszerű kiindulópontja a régió kiterjedt kerékpárút-hálózatának. Břeclav ipara és kereskedelme továbbra is erősen profitál kiváló földrajzi helyzetéből. Földrajz K6 — közlekedési csomópontok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "Břeclav vasútállomása 1839-ben nyílt meg, az Osztrák-Magyar Monarchia egyik legfontosabb vasúti átszállóhelye volt.",
+        "A helyi kastélyt a 19. században mesterséges műrom stílusban építették át a romantika jegyében.",
+        "A közeli Pohansko területén egy jelentős, 9. századi Nagymorva Birodalom kori erődítmény maradványai találhatók.",
+        "A várost kiterjedt ártéri erdők övezik, amelyek a Dyje folyó gazdag ökoszisztémáját alkotják."
+      ]
+    }
+  },
+  "city-uherske-hradiste": {
+    "descriptionAdvanced": {
+      "hu": "Uherské Hradiště a délkelet-morvaországi Slovácko (Morva-Szlovákia) régió kulturális és történelmi központja. A várost a 13. században II. Ottokár cseh király alapította a Morva folyó szigetén, hogy védje az ország keleti határait a magyar betörésekkel szemben – innen ered a neve, amely 'Magyar Hradiště'-t (Magyarvár) jelent. A város a morva néphagyományok bástyája; az itt lakók büszkén ápolják a gazdag népviseleti, zenei és borászati kultúrájukat. A történelmi belvárost elegáns polgárházak és a barokk jezsuita komplexum ékesíti. Minden ősszel itt rendezik meg a híres borünnepet, amely a cseh népi kultúra egyik legszínesebb eseménye. Kultúra K5 — népszokások és hagyományőrzés."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A város környéke a Nagymorva Birodalom egyik lehetséges központja volt a 9. században.",
+        "A helyi börtön (Věznice Uherské Hradiště) a kommunista diktatúra idején hírhedt politikai börtönként működött.",
+        "A Slovácko régió egyedülálló, kézzel festett ornamentikájáról ismert, amely a házak falait is díszíti.",
+        "A helyi Bor- és Nyitott Műemlékek Fesztiválja az egyik legnagyobb ilyen jellegű rendezvény az országban."
+      ]
+    }
+  },
+  "city-frydek-mistek": {
+    "descriptionAdvanced": {
+      "hu": "Frýdek-Místek egy különleges kettős város Északkelet-Csehországban, amely a sziléziai Frýdek és a morvaországi Místek egyesüléséből jött létre. A két történelmi települést az Ostravice folyó választotta el, amely évszázadokon át a Morvaország és Szilézia közötti természetes határt képezte. Místek egy forgalmasabb, történelmi terekkel büszkélkedő kereskedőváros volt, míg Frýdek egy dombon épült kastéllyal és a Mária-zarándoktemplommal rendelkezik. A 19. században a textilipar és az Ostrava környéki szénbányászat hatására a két város egybeépült, hivatalosan 1943-ban egyesítették őket. Ma a város a Beszkidek hegység kapuja, népszerű turisztikai bázis. Földrajz K7 — folyók mint történelmi határok."
+    },
+    "factsAdvanced": {
+      "hu": [
+        "A Frýdeki kastélyban állandó kiállítás mutatja be a Beszkidek régió néprajzát.",
+        "A város Szilézia és Morvaország történelmi határán fekszik, amit a folyó hídjai szimbolizálnak.",
+        "A místeki főteret gyönyörű árkádos házak veszik körül, hasonlóan más morva városokhoz.",
+        "A városból származik a híres 'Marlenka' mézes sütemény gyártásának cseh hagyománya."
+      ]
+    }
+  }
+}

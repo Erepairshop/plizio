@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "st-patricks-cathedral-landmarks-v2",
+      "descriptionAdvanced": "St. Patrick's Cathedral, located on Fifth Avenue in Manhattan, is a stunning Neo-Gothic architectural masterpiece and the seat of the Archbishop of New York. Completed in 1878, its towering twin spires and intricate marble facade stand in dramatic contrast to the modern skyscrapers of midtown Manhattan, reflecting the strong influence of the Irish immigrant community in 19th-century New York. As one of the most prominent Catholic churches in the United States, it serves as a center for religious life and a site for major national events and ceremonies. Today, the cathedral is a beloved sanctuary and a historic landmark, embodying both the religious dedication and the immense cultural contribution of New York’s diverse immigrant history. Architektur K8 — Neo-Gothic design and immigrant history.",
+      "factsAdvanced": [
+        "Neo-Gothic cathedral and seat of the Archbishop of New York.",
+        "Completed in 1878, showcasing soaring twin spires.",
+        "Stands as a historical reflection of 19th-century Irish-American influence.",
+        "One of the most iconic and prominent Catholic churches in the US.",
+        "Provides a historic sanctuary in the heart of modern midtown Manhattan.",
+        "Embodies the religious and cultural heritage of New York’s immigrant communities."
+      ]
+    },
+    {
+      "id": "brooklyn-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Brooklyn Bridge, spanning the East River between Manhattan and Brooklyn, was the first steel-wire suspension bridge ever constructed and an unparalleled feat of 19th-century engineering. Completed in 1883 after 14 years of arduous labor—often under dangerous conditions—the bridge became an instant symbol of American industrial might and New York’s growth into a modern global metropolis. With its distinctive neo-Gothic stone arches and web of steel cables, the bridge transformed regional transit, effectively unifying the cities of Brooklyn and New York. Today, it remains an essential transit artery and a celebrated architectural landmark, symbolizing the connection between the boroughs and the enduring ingenuity of American bridge building. Geschichte K8 — 19th-century engineering and urban unification.",
+      "factsAdvanced": [
+        "First steel-wire suspension bridge ever constructed.",
+        "Completed in 1883, serving as a feat of 19th-century engineering.",
+        "Symbolizes American industrial progress and New York’s urban growth.",
+        "Features iconic neo-Gothic stone arches and complex steel cabling.",
+        "Crucial in unifying Brooklyn and Manhattan as a single metropolis.",
+        "Remains one of the most celebrated and historic transit landmarks in the US."
+      ]
+    },
+    {
+      "id": "hollywood-bowl-landmarks-v2",
+      "descriptionAdvanced": "The Hollywood Bowl in Los Angeles, California, is one of the world's most famous outdoor amphitheaters, known for its unique 'shell' structure and acoustical brilliance. Since its opening in 1922, it has become a central venue for live music, hosting everything from world-class classical orchestras and jazz legends to the biggest names in contemporary popular music. The bowl’s setting in the natural hills of the Hollywood area provides a signature backdrop, reinforcing its position as a central cultural icon of Los Angeles’ entertainment scene. Today, it stands as a celebrated landmark for musical performance, blending the natural environment with high-end live arts and serving as a beloved community space for music fans throughout Southern California. Kunst K7 — Outdoor amphitheater design and performance legacy.",
+      "factsAdvanced": [
+        "World-renowned outdoor amphitheater famous for its unique 'shell' structure.",
+        "Opened in 1922, establishing a central venue for live performance.",
+        "Hosts a diverse range of events from classical music to modern pop.",
+        "Iconic setting in the Hollywood Hills defines its visual appeal.",
+        "Central cultural landmark in the Los Angeles entertainment scene.",
+        "A cherished space for live music fans across Southern California."
+      ]
+    }
+  ]
+}

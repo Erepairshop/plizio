@@ -1,0 +1,351 @@
+{
+  "lang": "en",
+  "country": "southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yeongju-city-cities-v2",
+      "descriptionAdvanced": "Yeongju is a city of profound academic and spiritual heritage located in the northernmost part of North Gyeongsang Province, nestled at the foot of Sobaeksan Mountain. It is most famous for the Buseoksa Temple, a UNESCO World Heritage site known for its exquisite wooden architecture and the 'Anyangmun' gate which offers some of the most beautiful sunset views in Korea. Yeongju is also home to the Sosu Seowon, the first Confucian academy in Korea to receive a royal charter, representing the pinnacle of Joseon-era education. The city is a major center for traditional lifestyle preservation through the Seonbichon (Scholar) Village, where visitors can experience the noble and modest life of ancient Korean scholars. Known for its high-quality red ginseng and crisp apples, Yeongju offers a tranquil environment where the values of traditional Korean scholarship and natural beauty continue to flourish.",
+      "factsAdvanced": [
+        "Buseoksa Temple is home to the Muryangsujeon Hall, one of the oldest wooden buildings in Korea.",
+        "Sosu Seowon was the first Confucian academy to be officially recognized by the king in 1550.",
+        "Yeongju Punggi Ginseng was the first ginseng brand in Korea to be exported to the West.",
+        "The city hosts the annual Yeongju Punggi Insam (Ginseng) Festival every October.",
+        "Yeongju is a major gateway to Sobaeksan National Park, a favorite for winter hiking.",
+        "The Museom Village is famous for its unique 'one-log' bridge over the Naeseongcheon Stream.",
+        "The city's name 'Yeongju' literally means 'Island of God,' referring to its blessed environment.",
+        "Yeongju is a major producer of high-grade Korean beef known as Yeongju Hanwoo."
+      ]
+    },
+    {
+      "id": "tongyeong-city-cities-v2",
+      "descriptionAdvanced": "Tongyeong is a breathtaking coastal city in South Gyeongsang Province, often celebrated as the 'Naples of Korea' for its stunning maritime scenery and artistic soul. Surrounded by over 150 islands, the city is a hub for maritime culture, famously serving as the naval base for Admiral Yi Sun-shin during the Imjin War. The city's identity is defined by the Tongyeong Marine Cable Car, which offers panoramic views of the Hallyeosudo Marine National Park, and the Dongpirang Wall Painting Village, a vibrant hillside community decorated with murals. Tongyeong is also a city of high art, being the birthplace of many world-class composers and writers. Culinary enthusiasts flock here for 'Chungmu Gimbap' and fresh oysters, which are considered the best in Korea. Its combination of historic naval glory, idyllic island-hopping opportunities, and a flourishing arts scene makes Tongyeong a unique and soulful maritime destination.",
+      "factsAdvanced": [
+        "The Tongyeong Marine Cable Car was the first and longest dual-rope cable car in Korea.",
+        "Admiral Yi Sun-shin won his greatest naval victory at the nearby Battle of Hansando.",
+        "Dongpirang Village was saved from demolition by an art project that turned it into a mural landmark.",
+        "Tongyeong produces over 70% of South Korea's total oyster output.",
+        "The city hosts the Tongyeong International Music Festival (TIMF) every spring.",
+        "The 'Dara Park' is considered one of the best spots in Korea to view the sunset over the sea.",
+        "Tongyeong is the only place where you can find 'Kkul-ppang' (honey bread), a famous local snack.",
+        "The city is home to the Sebyeonggwan Hall, one of the largest wooden naval headquarters from the Joseon era."
+      ]
+    },
+    {
+      "id": "sacheon-city-cities-v2",
+      "descriptionAdvanced": "Sacheon is a dynamic coastal and industrial city in South Gyeongsang Province, famously known as the center of South Korea's aerospace industry. Home to Korea Aerospace Industries (KAI), the city is the birthplace of the nation's first indigenous fighter jets and space launch vehicles. Beyond its high-tech industrial base, Sacheon offers spectacular natural beauty, characterized by the Sacheon Sea Cable Car, which connects the mainland to Choyang and Daeyang islands across the emerald sea. The city is also a significant spiritual center, housing the Dasolsa Temple, known for its tranquil forest setting. Historically, Sacheon played a crucial role in naval defense, and the nearby Sacheon Bridge offers stunning views of the rugged coastline. With its unique blend of futuristic aerospace technology, important maritime logistics, and scenic island-studded waters, Sacheon is a vital economic and tourism engine on the southern coast.",
+      "factsAdvanced": [
+        "Sacheon is the headquarters of Korea Aerospace Industries (KAI), the nation's only aircraft manufacturer.",
+        "The Sacheon Sea Cable Car is unique because it integrates mountain, sea, and island views in one ride.",
+        "The city hosts the Sacheon Air Show, the largest aerospace festival in the region.",
+        "Sacheon was a major naval base during the Goryeo and Joseon dynasties.",
+        "The Samcheonpo Bridge is one of the most beautiful bridges in Korea, especially when illuminated at night.",
+        "Sacheon is a major producer of high-quality agricultural products like strawberries and persimmons.",
+        "The city's 'Sil-an Sunset' is recognized as one of the top eight scenic views in Korea.",
+        "The Sacheon Aerospace Museum features a wide collection of real aircraft and space artifacts."
+      ]
+    },
+    {
+      "id": "miryang-city-cities-v2",
+      "descriptionAdvanced": "Miryang is a charming and historic city in South Gyeongsang Province, nestled in a valley surrounded by the scenic peaks of the 'Yeongnam Alps.' The city is most famous for the Yeongnamnu Pavilion, considered one of the three most beautiful pavilions in Korea, offering a majestic view over the Miryang River. Miryang is also home to the mysterious 'Eoreum-gol' (Ice Valley), where ice forms in the summer and melts in the winter, a natural phenomenon that draws scientists and tourists alike. The city has a deep connection to Korean folklore, being the setting of the famous Arirang folk song variant, 'Miryang Arirang.' Culturally, Miryang is known for its traditional performing arts and its hearty 'Dwaeji-gukbap' (pork soup). With its lush mountain trails, ancient Buddhist temples like Pyochungsa, and its status as a filming location for acclaimed movies, Miryang offers a rich blend of natural mystery and traditional elegance.",
+      "factsAdvanced": [
+        "Yeongnamnu Pavilion is designated as a National Treasure and is famous for its architectural scale.",
+        "Eoreum-gol (Ice Valley) is a designated Natural Monument where ice remains until the hottest summer months.",
+        "The Miryang Arirang is one of the three most famous versions of Korea's representative folk song.",
+        "Pyochungsa Temple is unique for housing a shrine dedicated to patriotic monks who fought foreign invasions.",
+        "Miryang is a major producer of high-quality jujubes (Korean dates).",
+        "The city's 'Man-eo-sa' (Ten Thousand Fish Temple) features a field of rocks that resemble a school of fish.",
+        "The movie 'Secret Sunshine,' which won the Best Actress award at Cannes, was filmed entirely in Miryang.",
+        "Miryang's 'Dwaeji-gukbap' is considered one of the original and best variants of the dish in Korea."
+      ]
+    },
+    {
+      "id": "ulsan-hyundai-heavy-industries-economic-v2",
+      "descriptionAdvanced": "The Hyundai Heavy Industries (HHI) shipyard in Ulsan is a monumental symbol of South Korea's industrial transformation and its global dominance in the maritime sector. Covering over 9 million square meters, it is the world's largest shipyard and a primary driver of the nation's economy. Founded by Chung Ju-yung in 1972, HHI has evolved from a fledgling enterprise into a global leader that produces a wide range of vessels, from massive oil tankers and LNG carriers to sophisticated naval ships and offshore platforms. The Ulsan complex is a 'city within a city,' featuring its own medical facilities, research centers, and housing for thousands of workers. As the heart of the world's shipbuilding industry, this facility showcases Korea's unparalleled engineering capabilities and its strategic role in global trade and energy logistics.",
+      "factsAdvanced": [
+        "Hyundai Heavy Industries in Ulsan is the largest shipyard in the world by production volume.",
+        "The facility spans over 9 million square meters along the coast of Ulsan.",
+        "HHI delivered its first two VLCC tankers in 1974, before the shipyard was even completed.",
+        "The shipyard features massive 'Goliath' cranes, some capable of lifting over 1,600 tons.",
+        "It accounts for a significant portion of the global market for high-value LNG carriers.",
+        "HHI Ulsan is a major employer, providing jobs for over 30,000 workers directly.",
+        "The facility includes specialized dry docks that can build several ships simultaneously.",
+        "The shipyard is a leading innovator in eco-friendly vessel technologies, such as ammonia-powered ships."
+      ]
+    },
+    {
+      "id": "busan-port-economic-v2",
+      "descriptionAdvanced": "The Port of Busan is the maritime gateway of South Korea and one of the busiest container ports in the world. Strategically located at the southeastern tip of the Korean Peninsula, it serves as a vital transshipment hub connecting Asia to Europe and the Americas. The port is divided into several sections, including the North Port, which is currently undergoing a massive urban regeneration project, and the New Port (Busan New Port), a cutting-edge automated terminal that handles the world's largest container vessels. As the lifeblood of Korea's export-oriented economy, the Port of Busan handles over 70% of the nation's container cargo. Its efficiency, advanced logistics systems, and deep-water berths have made it a critical node in the global supply chain, cementing Busan's status as a top-tier international maritime city.",
+      "factsAdvanced": [
+        "The Port of Busan is consistently ranked among the top 10 busiest container ports globally.",
+        "It handles approximately 75% of South Korea's total container traffic.",
+        "Busan New Port features some of the world's most advanced automated terminal operating systems.",
+        "The port serves as a primary transshipment hub for cargo moving between China, Japan, and the Americas.",
+        "The North Port redevelopment project is one of the largest urban waterfront projects in Asia.",
+        "Busan Port includes specialized terminals for automobiles, cruise ships, and frozen seafood.",
+        "It has a total quay length of over 30 kilometers across its various terminals.",
+        "The port is a key engine for the regional economy, supporting thousands of logistics and maritime businesses."
+      ]
+    },
+    {
+      "id": "posco-pohang-steel-works-economic-v2",
+      "descriptionAdvanced": "The POSCO Pohang Steel Works is a cornerstone of South Korea's industrial modernization and one of the most efficient steel production facilities in the world. Established in 1968 during a period of rapid national development, this massive complex transformed Pohang from a small fishing village into a global industrial powerhouse. POSCO (Pohang Iron and Steel Company) operates this fully integrated mill, which produces a wide array of high-quality steel products used in automobiles, shipbuilding, and construction worldwide. The facility is renowned for its technological innovation and environmental management systems. The 'Pohang Park' within the complex and the surrounding infrastructure highlight POSCO's role as a social and economic anchor for the region, symbolizing the 'Miracle on the Han River' and Korea's rise as a top-tier global steel exporter.",
+      "factsAdvanced": [
+        "POSCO Pohang Steel Works was the first integrated steel mill in South Korea.",
+        "It has an annual crude steel production capacity of approximately 15 million tons.",
+        "The facility is one of the few steel mills in the world located directly on a deep-water port.",
+        "POSCO is a global leader in high-value steel products, such as GigaSteel for electric vehicles.",
+        "The Pohang complex covers an area of roughly 9 million square meters.",
+        "It features the world's first commercialized FINEX plant, an eco-friendly steelmaking technology.",
+        "The facility's 'Park1538' is a modern cultural and historical space for visitors.",
+        "POSCO has been ranked as the world's most competitive steelmaker for 13 consecutive years."
+      ]
+    },
+    {
+      "id": "incheon-international-airport-economic-v2",
+      "descriptionAdvanced": "Incheon International Airport is the primary gateway to South Korea and one of the world's most acclaimed aviation hubs. Located on reclaimed land between Yeongjong and Yongyu islands, the airport is a masterpiece of modern engineering and logistics. Since its opening in 2001, it has consistently been ranked as one of the best airports globally for its efficiency, cleanliness, and passenger service. The airport serves as a critical economic engine, facilitating over 70% of Korea's international air travel and a significant portion of its high-value air cargo. Featuring world-class amenities such as indoor gardens, cultural museums, and high-speed rail connectivity to Seoul, Incheon International Airport is more than a transit point; it is a 'smart city' that reflects Korea's leadership in technology, hospitality, and global connectivity.",
+      "factsAdvanced": [
+        "Incheon Airport has been rated as the best airport in the world by ACI for 12 consecutive years.",
+        "It handles over 60 million passengers and 3 million tons of cargo annually in peak years.",
+        "Terminal 2 is a state-of-the-art 'eco-friendly' terminal that opened in 2018.",
+        "The airport is built on a massive artificial landmass created by joining two islands.",
+        "It features the fastest baggage handling system in the world, with an error rate near zero.",
+        "Incheon Airport is a major hub for Korean Air and Asiana Airlines.",
+        "The airport includes a golf course, spa, ice skating rink, and a casino within its complex.",
+        "It is connected to Seoul by the Incheon Bridge, the longest cable-stayed bridge in Korea."
+      ]
+    },
+    {
+      "id": "gwangyang-port-economic-v2",
+      "descriptionAdvanced": "Gwangyang Port is a critical maritime hub in South Korea, serving as the nation's second-largest container port and a major industrial gateway. Located in the Gwangyang Bay, it was developed as part of a national strategy to create a two-hub port system along with Busan. The port is uniquely positioned as an 'industrial support port,' directly serving the Gwangyang Steelworks and the Yeosu Petrochemical Complex. It features deep-water berths capable of handling the largest container ships and bulk carriers. Gwangyang Port is also a leader in smart logistics, implementing automated systems to improve turnaround times and reduce costs. Its strategic location on the southern coast makes it an essential link for Korea's heavy industries and a growing center for international transshipment and cold-chain logistics.",
+      "factsAdvanced": [
+        "Gwangyang Port is the second largest container port in South Korea.",
+        "It serves as the primary maritime gateway for POSCO's Gwangyang Steelworks.",
+        "The port has a natural deep-water harbor that requires no dredging.",
+        "It handles a significant portion of Korea's steel, oil, and chemical exports.",
+        "Gwangyang Port is part of a Free Trade Zone, offering tax incentives for logistics companies.",
+        "It is a major transshipment hub for cargo moving between Southeast Asia and North America.",
+        "The port features advanced automated container terminals to enhance efficiency.",
+        "It is a key node in the 'Golden Triangle' of Korea's southern industrial belt."
+      ]
+    },
+    {
+      "id": "samsung-digital-city-economic-v2",
+      "descriptionAdvanced": "Samsung Digital City, located in Suwon, is the global headquarters and the primary research and development hub for Samsung Electronics. Covering over 1.6 million square meters, this massive campus is the 'brain' of the world's leading technology company, where innovations in smartphones, semiconductors, and home appliances are conceived. The Digital City is home to over 35,000 employees and features state-of-the-art laboratories, design centers, and production testing lines. It is designed as a self-sufficient smart city, providing workers with diverse amenities including sports complexes, medical centers, and cultural spaces. As a symbol of Korea's technological leadership, Samsung Digital City is a high-security facility that drives global digital trends and sets the standard for future-tech R&D environments.",
+      "factsAdvanced": [
+        "Samsung Digital City is the global headquarters of Samsung Electronics, founded in Suwon in 1969.",
+        "The campus houses over 35,000 employees, mostly highly skilled researchers and engineers.",
+        "It features the 'Samsung Innovation Museum,' which showcases the history of the electronics industry.",
+        "The Digital City includes over 130 buildings, including the 37-story R5 R&D Center.",
+        "It is a completely self-contained campus with its own transportation and catering systems.",
+        "Most of the world's 'Galaxy' smartphone innovations are developed within this campus.",
+        "The facility is a leader in implementing 5G and AI technologies in a corporate environment.",
+        "It serves as the central node for Samsung's global network of R&D centers."
+      ]
+    },
+    {
+      "id": "hanul-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "The Hanul Nuclear Power Plant, located in Uljin, North Gyeongsang Province, is one of the largest and most critical energy production facilities in South Korea. Operated by Korea Hydro & Nuclear Power (KHNP), the plant consists of several pressurized water reactors that provide a massive and stable supply of electricity to the national grid. Hanul is a key pillar of Korea's energy security strategy, helping to reduce the country's dependence on imported fossil fuels. The facility is renowned for its high safety standards and its role in pioneering indigenous nuclear technology, with the latest Shin-Hanul units featuring advanced Korean-designed reactors. As one of the largest nuclear power complexes in the world by capacity, Hanul represents Korea's advanced engineering capabilities and its commitment to carbon-free baseload power generation.",
+      "factsAdvanced": [
+        "Hanul Nuclear Power Plant is one of the largest nuclear power complexes in the world by capacity.",
+        "The facility currently operates six active reactors, with more under construction at Shin-Hanul.",
+        "It provides approximately 10-15% of South Korea's total electricity supply.",
+        "The Shin-Hanul units use the APR1400, a Korean-designed advanced pressurized water reactor.",
+        "The plant is located on the East Sea coast to utilize seawater for its cooling systems.",
+        "Hanul is a major economic anchor for the Uljin region, providing thousands of jobs.",
+        "The facility has a visitor center that educates the public on nuclear energy safety.",
+        "Korea is a leading exporter of the nuclear technology used at the Hanul plant."
+      ]
+    },
+    {
+      "id": "sk-hynix-icheon-plant-economic-v2",
+      "descriptionAdvanced": "The SK Hynix Icheon Plant is a world-class semiconductor manufacturing hub and the headquarters of SK Hynix, the world's second-largest memory chipmaker. Located in Icheon, Gyeonggi Province, this massive facility is at the heart of the global technology supply chain, producing advanced DRAM and NAND flash memory chips used in everything from smartphones and PCs to cloud servers and AI systems. The Icheon complex features state-of-the-art 'fabs' (fabrication plants), including the M14 and the recently completed M16, which is the company's largest and most advanced production line. As a critical driver of Korea's export economy, the SK Hynix Icheon Plant showcases the nation's dominance in the global semiconductor market and its continuous investment in next-generation chip technology and Extreme Ultraviolet (EUV) lithography.",
+      "factsAdvanced": [
+        "SK Hynix Icheon is the global headquarters for the world's second-largest memory chip manufacturer.",
+        "The M16 fab in Icheon is the company's largest production facility, completed in 2021.",
+        "The plant produces a significant portion of the global supply of DRAM and NAND flash memory.",
+        "The M16 fab is the first SK Hynix facility to utilize advanced EUV lithography equipment.",
+        "The Icheon campus employs over 20,000 highly skilled engineers and technicians.",
+        "Semiconductors account for about 20% of South Korea's total exports, with Icheon being a key hub.",
+        "The facility is a leader in water recycling and environmental management in the chip industry.",
+        "SK Hynix is a primary economic driver for Icheon city and the surrounding Gyeonggi region."
+      ]
+    },
+    {
+      "id": "dangjin-thermal-power-plant-economic-v2",
+      "descriptionAdvanced": "The Dangjin Thermal Power Plant is one of the largest coal-fired power stations in the world and a vital component of South Korea's energy infrastructure. Located on the coast of Dangjin, South Chungcheong Province, the plant is operated by Korea East-West Power. It consists of multiple high-capacity units that generate a significant portion of the electricity required for the Seoul Metropolitan Area and the industrial hubs of the West Coast. The facility is equipped with advanced environmental protection systems, including desulfurization and dust collectors, to minimize its ecological footprint. In recent years, the Dangjin complex has also integrated renewable energy sources like solar and wind power, reflecting Korea's gradual transition toward a more sustainable energy mix while maintaining the reliability of its heavy industrial power supply.",
+      "factsAdvanced": [
+        "Dangjin Thermal Power Plant is one of the largest coal-fired power stations globally by capacity.",
+        "The facility has a total installed capacity of over 6,000 megawatts across 10 units.",
+        "It provides a critical stable power supply for the heavy industries of Dangjin and Pyeongtaek.",
+        "The plant features a massive indoor coal storage facility to prevent dust pollution.",
+        "It is a major employer and taxpayer in the South Chungcheong province.",
+        "The facility has integrated a 3.4 MW solar power system on its grounds.",
+        "Dangjin is part of a national plan to phase out older coal units in favor of cleaner energy.",
+        "The plant uses advanced 'ultra-supercritical' technology to improve coal combustion efficiency."
+      ]
+    },
+    {
+      "id": "lg-chem-yeosu-plant-economic-v2",
+      "descriptionAdvanced": "The LG Chem Yeosu Plant is a flagship facility of South Korea's petrochemical industry and one of the largest and most competitive naphtha cracking centers in the world. Situated within the Yeosu Petrochemical Complex, this massive site produces basic raw materials like ethylene and propylene, which are the building blocks for countless products, from plastics and synthetic rubbers to high-tech materials for batteries and electronics. LG Chem has continuously invested in this facility to enhance its energy efficiency and expand its production capacity for high-value-added products. As the heart of LG Chem's basic materials business, the Yeosu plant plays a pivotal role in the global chemical supply chain and is a primary driver of Korea's manufacturing competitiveness and export growth in the energy sector.",
+      "factsAdvanced": [
+        "LG Chem Yeosu is one of the world's largest naphtha cracking centers.",
+        "The facility produces over 1 million tons of ethylene annually.",
+        "It is a key supplier of raw materials for LG Chem's global battery and electronics businesses.",
+        "The Yeosu plant is highly integrated with the surrounding petrochemical ecosystem.",
+        "LG Chem has implemented AI-driven process optimization to maximize efficiency at this site.",
+        "The facility produces specialized materials like ABS and PVC for global export.",
+        "It is a major economic pillar for Yeosu city, supporting thousands of related jobs.",
+        "The plant is increasingly focusing on 'circular economy' initiatives, such as plastic recycling."
+      ]
+    },
+    {
+      "id": "gumi-electronics-complex-economic-v2",
+      "descriptionAdvanced": "The Gumi National Industrial Complex is South Korea's premier electronics manufacturing hub, located in Gumi, North Gyeongsang Province. Established in the late 1960s, it was the birthplace of the nation's electronics industry and played a decisive role in the 'Miracle on the Han River.' The complex is home to thousands of companies, including major global players like Samsung Electronics and LG Display, which produce semiconductors, mobile phones, and advanced display panels. Gumi's industrial ecosystem is highly specialized, featuring a dense network of suppliers and research institutes. Although it faces competition from newer tech hubs, the Gumi Complex remains a vital center for high-tech manufacturing, export-driven growth, and technological innovation, symbolizing Korea's rise as a global digital leader.",
+      "factsAdvanced": [
+        "Gumi National Industrial Complex was founded in 1969 as the nation's first electronics hub.",
+        "It is the largest inland industrial complex in South Korea.",
+        "Samsung Electronics produces a significant portion of its flagship 'Galaxy' smartphones here.",
+        "LG Display has major facilities in Gumi producing high-end OLED and LCD panels.",
+        "The complex accounts for a significant share of South Korea's total annual exports.",
+        "Gumi is known as the 'Electronic City of Korea' due to its industrial specialization.",
+        "The complex has successfully transitioned from basic assembly to high-tech R&D.",
+        "It hosts over 3,000 companies and employs more than 100,000 workers."
+      ]
+    },
+    {
+      "id": "pyeongtaek-port-economic-v2",
+      "descriptionAdvanced": "Pyeongtaek Port is one of South Korea's fastest-growing maritime gateways and the nation's primary hub for automobile logistics. Located on the West Coast, it is strategically positioned to handle trade with China and Southeast Asia. The port is uniquely specialized in the import and export of vehicles, serving major manufacturers like Hyundai, Kia, and various international brands. Beyond automobiles, Pyeongtaek Port is a major center for bulk cargo, including grain and iron ore, and is home to a massive LNG terminal. Its proximity to the Samsung Electronics Pyeongtaek Campus and various industrial complexes in Gyeonggi Province has fueled its rapid expansion. With its modern infrastructure, deep-water berths, and extensive logistics parks, Pyeongtaek Port is a vital engine for the regional economy and a critical node in Korea's international trade network.",
+      "factsAdvanced": [
+        "Pyeongtaek Port has been the No. 1 port in Korea for automobile handling for over a decade.",
+        "It handles over 1.5 million vehicles annually for both domestic and foreign manufacturers.",
+        "The port is the closest Korean maritime gateway to major Chinese industrial cities.",
+        "It is home to the Pyeongtaek LNG Terminal, one of the largest of its kind in the world.",
+        "The port is a major hub for the import of industrial raw materials and energy resources.",
+        "It is directly connected to the Pyeongtaek-Dangjin industrial belt.",
+        "The port's 'Grand Bridge' is a landmark of the West Coast's logistics infrastructure.",
+        "It is undergoing a massive expansion to become a world-class smart logistics port."
+      ]
+    },
+    {
+      "id": "seosan-petrochemical-complex-economic-v2",
+      "descriptionAdvanced": "The Seosan Petrochemical Complex, specifically located in the Daesan district, is one of South Korea's three major petrochemical hubs along with Yeosu and Ulsan. This massive coastal industrial site is home to global energy giants like Hanwha TotalEnergies, Hyundai Oilbank, and LG Chem. The complex is a fully integrated site that handles everything from crude oil refining to the production of high-value chemical products like paraxylene, ethylene, and synthetic resins. Its strategic location on the West Coast allows for efficient trade with China and other Asian markets. As a critical pillar of Korea's heavy industry, the Seosan complex contributes significantly to the national GDP and export volume, showcasing the country's world-class competitiveness in energy refining and chemical engineering.",
+      "factsAdvanced": [
+        "Seosan's Daesan Complex is the third-largest petrochemical hub in South Korea.",
+        "It is home to Hyundai Oilbank's primary refinery and Hanwha TotalEnergies' flagship site.",
+        "The complex specializes in high-value aromatic products and basic olefins.",
+        "It accounts for approximately 15-20% of South Korea's total petrochemical production.",
+        "The facility has its own deep-water berths for supertankers and chemical carriers.",
+        "It is a major center for the development of eco-friendly plastic and carbon capture technologies.",
+        "The complex is a primary economic driver for the South Chungcheong province.",
+        "It has a high level of industrial synergy, with companies sharing energy and raw material pipelines."
+      ]
+    },
+    {
+      "id": "kori-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "The Kori Nuclear Power Plant, located in Gijang, Busan, is a landmark facility as the birthplace of nuclear energy in South Korea. It is home to Kori Unit 1, the nation's first commercial nuclear reactor, which began operation in 1978 and was officially decommissioned in 2017. Today, the Kori and the adjacent Shin-Kori sites form one of the world's largest nuclear power complexes, providing a vast and stable supply of electricity to the Busan and Ulsan industrial regions. Operated by Korea Hydro & Nuclear Power (KHNP), the plant uses advanced pressurized water reactors and serves as a model for Korea's nuclear technology exports. The Kori site is not only a vital energy hub but also a center for research into reactor safety and the decommissioning of nuclear facilities, representing both the history and the future of Korea's energy independence.",
+      "factsAdvanced": [
+        "Kori Unit 1 was South Korea's first commercial nuclear reactor, starting in 1978.",
+        "The Kori complex is one of the most densely populated nuclear sites in the world.",
+        "It provides a significant portion of the electricity for the Busan-Ulsan industrial belt.",
+        "Shin-Kori Unit 3 was the first to use the APR1400 reactor, which was exported to the UAE.",
+        "The site is a major hub for the development of Korea's nuclear decommissioning industry.",
+        "It is one of the largest nuclear power complexes in the world by the number of reactors.",
+        "The facility includes an energy museum that educates the public on nuclear history.",
+        "Kori is a key site for testing advanced safety systems for next-generation reactors."
+      ]
+    },
+    {
+      "id": "changwon-machinery-industrial-complex-economic-v2",
+      "descriptionAdvanced": "The Changwon National Industrial Complex is the heart of South Korea's heavy machinery and defense industries. Established in 1974, this meticulously planned industrial city was designed to transform Korea into a global manufacturing powerhouse. The complex is home to world-class companies like Doosan Enerbility, Hanwha Aerospace, and Hyundai Rotem, which produce everything from nuclear power plant components and massive turbines to tanks, K9 howitzers, and high-speed trains. Changwon's industrial ecosystem is highly integrated, supporting thousands of small and medium-sized enterprises that form a robust supply chain. As a symbol of Korea's 'Heavy and Chemical Industrialization' era, the Changwon Complex remains a vital driver of national exports and a global leader in high-precision machinery and advanced defense technology.",
+      "factsAdvanced": [
+        "Changwon National Industrial Complex is the center of the South Korean defense industry.",
+        "It was established in 1974 as the nation's primary hub for heavy and precision machinery.",
+        "Major companies like Doosan Enerbility and Hanwha Aerospace are headquartered here.",
+        "The complex produces the K9 Self-Propelled Howitzer, one of Korea's most successful defense exports.",
+        "Hyundai Rotem produces South Korea's high-speed KTX trains in this complex.",
+        "It accounts for about 15% of the total production in Korea's machinery industry.",
+        "Changwon was the first planned industrial city in South Korea.",
+        "The complex is currently being transformed into a 'Smart Green Industrial Complex'."
+      ]
+    },
+    {
+      "id": "taean-mine-economic-v2",
+      "descriptionAdvanced": "The Taean Thermal Power Complex is one of the largest and most significant energy production sites in South Korea. Located on the coast of Taean, South Chungcheong Province, it is operated by Korea Western Power. This massive facility consists of multiple high-capacity coal-fired units that play a crucial role in providing stable baseload power to the Seoul Metropolitan Area and the surrounding industrial regions. The Taean complex is notable for its use of state-of-the-art 'Integrated Gasification Combined Cycle' (IGCC) technology, which significantly reduces emissions compared to traditional coal plants. As a major node in the national power grid, the Taean facility represents Korea's efforts to balance its massive industrial energy demands with the implementation of advanced, cleaner coal technologies and the integration of large-scale renewable energy projects on its grounds.",
+      "factsAdvanced": [
+        "Taean Thermal Power Plant is one of the largest coal power complexes in the world.",
+        "It features South Korea's first commercial-scale IGCC (Integrated Gasification Combined Cycle) plant.",
+        "The facility has a total installed capacity of over 6,500 megawatts.",
+        "It provides a vital stable power supply for the northwestern industrial belt of Korea.",
+        "The plant has invested heavily in desulfurization and denitrification systems to reduce pollution.",
+        "Taean is a major economic driver for the Taean-gun region, providing thousands of jobs.",
+        "The complex includes large-scale solar power arrays on its idle lands.",
+        "It is a primary site for researching carbon capture and storage (CCS) technologies in Korea."
+      ]
+    },
+    {
+      "id": "pangyo-techno-valley-economic-v2",
+      "descriptionAdvanced": "Pangyo Techno Valley is South Korea's premier technology and innovation hub, often referred to as the 'Silicon Valley of Korea.' Located in Seongnam, Gyeonggi Province, this meticulously planned district is the headquarters for the nation's leading IT, gaming, and biotech companies. Major industry giants like Kakao, Naver, NCSoft, and Nexon are centered here, creating a high-density ecosystem of tech talent and creative capital. Pangyo is a hub for software development, artificial intelligence, and digital platform innovation. The district is characterized by its futuristic architecture, high-tech research centers, and a vibrant culture of startups and venture capital. As the center of Korea's 'New Economy,' Pangyo Techno Valley is a critical driver of the nation's digital transformation and its competitiveness in the global fourth industrial revolution.",
+      "factsAdvanced": [
+        "Pangyo Techno Valley is home to over 1,300 companies with total annual sales exceeding $100 billion.",
+        "It is the headquarters for Korea's major 'platform' companies like Kakao and Naver.",
+        "The district is the undisputed center of the Korean gaming industry (K-Games).",
+        "It was established in 2006 on reclaimed land as part of a national strategy to foster IT.",
+        "Pangyo has the highest concentration of software engineers and tech R&D talent in Korea.",
+        "The valley includes a specialized 'Startup Campus' to nurture global tech ventures.",
+        "It is seamlessly connected to the Seoul subway via the high-speed Shinbundang Line.",
+        "Pangyo is a testbed for autonomous driving and smart city technologies in Korea."
+      ]
+    },
+    {
+      "id": "daesan-petrochemical-complex-economic-v2",
+      "descriptionAdvanced": "The Daesan Petrochemical Complex, located in Seosan, is one of the pillars of South Korea's heavy industry and a global leader in chemical production. This massive coastal industrial zone is home to four major conglomerates: Hanwha TotalEnergies, Hyundai Oilbank, LG Chem, and Lotte Chemical. The complex is a fully integrated industrial ecosystem, refining crude oil into basic chemicals and high-value materials for the global market. Its strategic position on the West Coast facilitates efficient trade with China, the world's largest chemical consumer. The Daesan complex is renowned for its energy efficiency and its role in producing high-tech materials for semiconductors, electric vehicle batteries, and lightweight plastics. As a critical economic engine, it contributes significantly to Korea's trade surplus and showcases the nation's world-class engineering and refining capabilities.",
+      "factsAdvanced": [
+        "Daesan is one of the top three petrochemical hubs in South Korea.",
+        "The complex features Hanwha TotalEnergies' primary integrated chemical site.",
+        "It handles about 20% of South Korea's total ethylene and propylene production.",
+        "Hyundai Oilbank's most advanced refining facility is located within this complex.",
+        "The facility has a massive private port capable of handling VLCC (Very Large Crude Carrier) ships.",
+        "It is a major center for the production of paraxylene, a key material for polyester fibers.",
+        "The complex is increasingly focused on developing hydrogen energy and bio-plastics.",
+        "It accounts for a substantial portion of the regional GDP of South Chungcheong Province."
+      ]
+    },
+    {
+      "id": "sihwa-lake-tidal-power-station-economic-v2",
+      "descriptionAdvanced": "The Sihwa Lake Tidal Power Station is a world-class renewable energy landmark and the largest tidal power plant in the world. Located on the Sihwa Lake seawall between Ansan and Siheung, this facility is a masterpiece of green engineering. Opened in 2011, it utilizes the massive tidal range of the West Sea to generate clean, predictable electricity for over 500,000 households. Beyond power generation, the station played a crucial role in improving the water quality of Sihwa Lake by facilitating regular water exchange with the open sea. As a symbol of Korea's commitment to the 'Green New Deal' and sustainable energy, the Sihwa Lake Tidal Power Station attracts international researchers and tourists interested in marine energy. It serves as a global model for large-scale tidal energy projects and a key component of Korea's strategy to reach carbon neutrality.",
+      "factsAdvanced": [
+        "Sihwa Lake Tidal Power Station is the largest tidal power plant in the world by capacity (254 MW).",
+        "It generates enough electricity annually to save approximately 860,000 barrels of oil.",
+        "The plant uses 10 bulb-type turbines that operate on the incoming tide.",
+        "The facility reduced carbon dioxide emissions by about 315,000 tons per year.",
+        "It was built on a 12.7-kilometer long seawall originally constructed for land reclamation.",
+        "The project helped restore the ecosystem of Sihwa Lake, which was once heavily polluted.",
+        "The 'T-Light Park' and observatory on site are popular tourist attractions.",
+        "It provides approximately 550 GWh of electricity annually to the national grid."
+      ]
+    },
+    {
+      "id": "kia-hwaseong-plant-economic-v2",
+      "descriptionAdvanced": "The Kia Hwaseong Plant, officially known as Kia Autoland Hwaseong, is a massive and state-of-the-art automotive manufacturing complex located on the western coast of Gyeonggi Province. Covering over 3.3 million square meters, it is Kia's largest production facility and one of the most efficient car plants in the world. The site is a fully integrated automotive 'city,' featuring its own high-speed testing track, research centers, and a dedicated shipping port for global exports. The Hwaseong plant produces many of Kia's most popular global models, including the Sorento, Niro, and EV6, and is at the forefront of the company's transition to electric vehicles. As a critical driver of Korea's export-oriented automotive industry, this facility showcases advanced manufacturing technologies, such as smart robotics and eco-friendly production systems, cementing Korea's status as a top-tier global car manufacturer.",
+      "factsAdvanced": [
+        "Kia Hwaseong is the company's largest and most productive manufacturing site.",
+        "The facility has an annual production capacity of over 600,000 vehicles.",
+        "It features a 14-kilometer high-speed testing track for vehicle quality control.",
+        "The plant produces the EV6, Kia's first dedicated electric vehicle built on the E-GMP platform.",
+        "It has a dedicated port facility capable of shipping 40,000 cars simultaneously.",
+        "The plant employs over 15,000 workers directly, making it a major regional employer.",
+        "Hwaseong Autoland is being transformed into a dedicated hub for Purpose Built Vehicles (PBV).",
+        "It utilizes advanced 'Smart Factory' technologies, including AI-driven paint and assembly lines."
+      ]
+    }
+  ]
+}

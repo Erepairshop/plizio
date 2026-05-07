@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-howe-cities-v2",
+      "descriptionAdvanced": "Port Howe liegt am südlichen Zipfel von Cat Island und ist eine Siedlung mit tiefer historischer Bedeutung. Der Ort beherbergt die beeindruckenden Ruinen der Devereux Mansion, einer ehemaligen loyalistischen Plantage, die einst das Zentrum der lokalen Wirtschaft bildete. Port Howe ist bekannt für seine ruhige Atmosphäre und die unberührte Natur, die es umgibt. Die Küstenabschnitte hier sind rau und bieten spektakuläre Ausblicke auf den Atlantik. Die Bewohner pflegen eine traditionelle Lebensweise, die stark vom Meer und dem Gartenbau geprägt ist. Für Geschichtsinteressierte bietet Port Howe einen authentischen Einblick in die Zeit der Baumwollbarone auf den Bahamas.",
+      "factsAdvanced": [
+        "Südlichste Siedlung auf Cat Island",
+        "Standort der historischen Devereux Mansion Ruinen",
+        "Wichtiger Ort für loyalistische Geschichte",
+        "Dramatische Küstenlandschaft am Atlantik",
+        "Zentrum für traditionellen Gartenbau",
+        "Einstiger Knotenpunkt der Baumwollindustrie"
+      ]
+    },
+    {
+      "id": "bain-town-cities-v2",
+      "descriptionAdvanced": "Bain Town ist eine traditionsreiche Gemeinde auf Cat Island, die für ihren starken Gemeinschaftssinn und ihre landwirtschaftliche Expertise bekannt ist. Der Ort liegt im Herzen der Insel und ist ein Paradebeispiel für die 'Out Island' Kultur der Bahamas. Die Bewohner von Bain Town sind Meister der Selbstversorgung und bauen eine Vielzahl von tropischen Früchten und Gemüse an. Die Siedlung ist geprägt von kleinen, gepflegten Häusern und einer lebendigen Gemeinschaft, die lokale Feste und religiöse Traditionen mit großer Hingabe feiert. Bain Town bietet Besuchern eine herzliche Gastfreundschaft und die Möglichkeit, das echte, unverfälschte Leben auf Cat Island kennenzulernen.",
+      "factsAdvanced": [
+        "Traditionelle Gemeinde auf Cat Island",
+        "Zentrum für lokale Landwirtschaft und Selbstversorgung",
+        "Starke religiöse und soziale Gemeinschaft",
+        "Bekannt für herzliche Gastfreundschaft",
+        "Authentische Architektur der Out Islands",
+        "Wichtiger Standort für lokale Kulturtraditionen"
+      ]
+    },
+    {
+      "id": "smiths-bay-cities-v2",
+      "descriptionAdvanced": "Smith's Bay ist ein wichtiger Hafenort auf Cat Island und dient als eines der logistischen Zentren der Insel. Hier legen regelmäßig Versorgungsschiffe und Postboote an, die die Insel mit lebensnotwendigen Gütern versorgen. Der Ort liegt malerisch an einer tiefen Bucht und bietet Schutz für Fischerboote und Yachten. Smith's Bay ist auch ein Zentrum für den lokalen Handel und beherbergt mehrere kleine Geschäfte und Regierungsstellen. In der Nähe befinden sich interessante Höhlensysteme, die einst von den Lucayanern genutzt wurden. Die Atmosphäre ist geschäftiger als in anderen Teilen der Insel, bewahrt aber dennoch den entspannten bahamaischen Rhythmus.",
+      "factsAdvanced": [
+        "Wichtiger Versorgungshafen für Cat Island",
+        "Anlegestelle für das wöchentliche Postboot",
+        "Malerische Lage an einer geschützten Bucht",
+        "Handels- und Verwaltungszentrum der Region",
+        "Nähe zu prähistorischen Lucayaner-Höhlen",
+        "Wichtiger Stützpunkt für die lokale Fischereiflotte"
+      ]
+    },
+    {
+      "id": "orange-creek-cities-v2",
+      "descriptionAdvanced": "Orange Creek liegt an der Nordspitze von Cat Island und ist bekannt für seine spektakulären Strände und das klare, türkisfarbene Wasser. Die Siedlung ist nach dem Bach benannt, der bei Sonnenuntergang oft in einem leuchtenden Orangeton schimmert. Der Ort ist ein Paradies für Ruhesuchende und Naturliebhaber, da er weit entfernt von jeglicher Hektik liegt. In Orange Creek findet man noch die traditionelle Kunst des Strohflechtens, wobei die Frauen des Ortes einige der feinsten Hüte und Taschen der Bahamas herstellen. Die Umgebung bietet hervorragende Bedingungen zum Schnorcheln und für lange Spaziergänge an einsamen Sandstränden. Orange Creek ist der Inbegriff von Gelassenheit und natürlicher Schönheit.",
+      "factsAdvanced": [
+        "Nördlichste Siedlung auf Cat Island",
+        "Berühmt für das Leuchten des Wassers bei Sonnenuntergang",
+        "Zentrum für exzellentes Strohkunsthandwerk",
+        "Top-Destination für absolute Ruhe und Privatsphäre",
+        "Hervorragende Schnorchelgründe direkt vor der Küste",
+        "Zugang zu den weitläufigsten Stränden der Nordinsel"
+      ]
+    },
+    {
+      "id": "bennetts-harbour-cities-v2",
+      "descriptionAdvanced": "Bennett's Harbour ist eine idyllische Küstengemeinde auf Cat Island, die für ihre malerische Schönheit und ihre Seefahrertradition bekannt ist. Die Siedlung liegt an einer tiefen, natürlichen Bucht, die Seglern einen sicheren Ankerplatz bietet. Bennett's Harbour hat eine reiche Geschichte, die bis in die Zeit der frühen Siedler zurückreicht. Die Architektur ist eine charmante Mischung aus alten Steinhäusern und modernen karibischen Farben. Die Bewohner sind eng mit dem Meer verbunden und leben primär vom Fischfang. Der Ort strahlt eine zeitlose Ruhe aus und ist ein wunderbares Ziel für Reisende, die die authentische Seele der Bahamas in einer traumhaften Küstenkulisse suchen.",
+      "factsAdvanced": [
+        "Malerischer Küstenort mit natürlichem Tiefwasserhafen",
+        "Beliebter Ankerplatz für internationale Segler",
+        "Reiche maritime Geschichte und Tradition",
+        "Hervorragende Bedingungen zum Küstenfischen",
+        "Authentische Architektur und bunte Gartenanlagen",
+        "Gelegen im malerischen Norden von Cat Island"
+      ]
+    },
+    {
+      "id": "lower-bogue-cities-v2",
+      "descriptionAdvanced": "Lower Bogue ist eine wichtige Binnensiedlung im Norden von Eleuthera, die strategisch günstig zwischen dem Flughafen und der Fähre nach Harbour Island liegt. Der Ort ist das logistische Herz der Region und beherbergt wichtige Schulen, Kirchen und Handelsgeschäfte. Lower Bogue ist bekannt für seine fruchtbaren Böden, auf denen die Bewohner seit Generationen erfolgreich Landwirtschaft betreiben, insbesondere den Anbau von Tomaten und Papayas. Die Siedlung hat eine geschäftige, aber freundliche Atmosphäre und dient als Treffpunkt für Menschen aus den umliegenden Cays. Trotz der modernen Entwicklung pflegt Lower Bogue seine traditionellen Werte und den starken sozialen Zusammenhalt seiner Bewohner.",
+      "factsAdvanced": [
+        "Zentraler Verkehrsknotenpunkt im Norden von Eleuthera",
+        "Logistisches Zentrum für Reisende nach Harbour Island",
+        "Wichtiger Standort für regionale Bildungseinrichtungen",
+        "Zentrum für produktive Binnenlandwirtschaft",
+        "Bekannt für den Anbau hochwertiger Tomaten",
+        "Große und aktive Kirchengemeinden"
+      ]
+    },
+    {
+      "id": "cecil-cities-v2",
+      "descriptionAdvanced": "Cecil ist eine kleine, ruhige Siedlung auf Eleuthera, die oft im Schatten ihrer größeren Nachbarorte steht, aber genau deshalb ihren ursprünglichen Charme bewahrt hat. Der Ort ist geprägt von einer entschleunigten Lebensweise und einer engen Verbindung zur Natur. Die Architektur besteht aus schlichten, funktionalen Häusern, die oft von blühenden Bougainvilleen geschmückt sind. Cecil ist ein idealer Ort für Reisende, die das tägliche Leben der Bahama-Insulaner ohne touristische Filter erleben möchten. Die Bewohner sind bekannt für ihre Freundlichkeit und ihren Stolz auf ihre lokale Identität. Die umliegende Landschaft bietet Möglichkeiten für Wanderungen durch die typische Buschvegetation der Bahamas und Entdeckungen an einsamen Küstenabschnitten.",
+      "factsAdvanced": [
+        "Ruhige Nebensiedlung auf Eleuthera",
+        "Unberührtes, authentisches bahamaisches Alltagsleben",
+        "Traditioneller Gartenbau und Kleinfischerei",
+        "Geheimtipp für Individualreisende",
+        "Üppige tropische Vegetation in der Umgebung",
+        "Enge soziale Bindungen innerhalb der Gemeinde"
+      ]
+    },
+    {
+      "id": "barratarre-cities-v2",
+      "descriptionAdvanced": "Barratarre ist eine faszinierende Siedlung am nördlichen Ende von Great Exuma, die über eine kleine Brücke mit der Hauptinsel verbunden ist. Der Ort ist historisch eng mit der Geschichte der befreiten Sklaven verbunden, die hier Land erhielten und eine eigenständige Gemeinde aufbauten. Heute ist Barratarre ein bedeutender Ausgangspunkt für Bootsausflüge in die mittleren Exuma Cays, insbesondere für den Besuch der schwimmenden Schweine und der Leguan-Inseln. Der Ort hat sich seinen rustikalen Charme bewahrt, mit bunten Fischerbooten im Hafen und kleinen Restaurants, die frischen Fisch servieren. Die Aussicht von Barratarre auf die umliegenden Cays und das türkisblaue Flachwasser ist schlichtweg atemberaubend.",
+      "factsAdvanced": [
+        "Gelegen auf einem mit Great Exuma verbundenen Cay",
+        "Wichtiger Ausgangspunkt für Exuma-Cays-Bootstouren",
+        "Geschichtsträchtige Gründung durch ehemals Versklavte",
+        "Zentrum für Fischfang und maritimen Tourismus",
+        "Bietet einige der besten Ausblicke der Exumas",
+        "Bekannt für traditionelle Fischküche"
+      ]
+    },
+    {
+      "id": "stewart-manor-cities-v2",
+      "descriptionAdvanced": "Stewart Manor ist eine exklusive Wohn- und Siedlungsgegend an der Westküste von Great Exuma. Der Ort ist bekannt für seine traumhaften, weißen Sandstrände und das ruhige, flache Wasser, das ideal zum Schwimmen und Kajakfahren ist. In den letzten Jahrzehnten hat sich Stewart Manor zu einem beliebten Ziel für den gehobenen Tourismus entwickelt, wobei exklusive Villen und kleine Boutique-Resorts das Bild prägen. Trotz dieser Entwicklung hat die Gegend ihre natürliche Schönheit und Ruhe bewahrt. Die Küste hier bietet hervorragende Möglichkeiten zur Beobachtung von Meeresvögeln und Rochen im seichten Wasser. Stewart Manor verbindet modernen Komfort mit der unvergleichlichen Idylle der Exuma-Inseln.",
+      "factsAdvanced": [
+        "Gehobenes Wohn- und Urlaubsgebiet auf Great Exuma",
+        "Bekannt für kilometerlange, unberührte Sandstrände",
+        "Erstklassige Bedingungen für Wassersportler",
+        "Standort luxuriöser Ferienunterkünfte",
+        "Ruhige Westküstenlage mit sanften Gezeiten",
+        "Ideal für Naturbeobachtungen (Vögel und Meereslebewesen)"
+      ]
+    },
+    {
+      "id": "alexandria-cities-v2",
+      "descriptionAdvanced": "Alexandria ist eine kleine Siedlung auf Great Exuma, die tief in der landwirtschaftlichen Geschichte der Insel verwurzelt ist. Benannt nach einem der ursprünglichen Großgrundbesitzer, hat sich der Ort zu einer ruhigen Wohngemeinde entwickelt. Das Leben hier ist geprägt vom Rhythmus der Natur und der traditionellen Landwirtschaft. Alexandria bietet einen Einblick in das ländliche Bahama, wo die Bewohner noch Obstbäume und Gemüse für den eigenen Bedarf anbauen. Die Architektur ist schlicht und spiegelt den funktionalen Charakter einer Arbeitersiedlung wider. Die Nähe zu George Town macht Alexandria zu einem praktischen Wohnort für Menschen, die in der Hauptstadt arbeiten, aber die Ruhe des Landes bevorzugen.",
+      "factsAdvanced": [
+        "Ländlich geprägte Siedlung auf Great Exuma",
+        "Benannt nach einem historischen Plantagenbesitzer",
+        "Zentrum für lokalen Gartenbau und Viehzucht",
+        "Ruhige Wohngegend nahe der Hauptstadt George Town",
+        "Traditionelle bahamaische Lebensweise",
+        "Wichtiger Bestandteil des kulturellen Erbes der Exumas"
+      ]
+    },
+    {
+      "id": "rocky-point-cities-v2",
+      "descriptionAdvanced": "Rocky Point ist eine markante Siedlung auf Grand Bahama, die an einem felsigen Küstenabschnitt im Osten der Insel liegt. Der Name ist Programm, da die Küstenlinie hier von Kalksteinformationen und rauen Felsen geprägt ist, die einen faszinierenden Kontrast zum türkisfarbenen Wasser bilden. Die Siedlung ist klein und vor allem bei Fischern bekannt, die die reichen Fischgründe vor der felsigen Küste schätzen. Rocky Point ist ein idealer Ort für Abenteurer und Naturfotografen, die die wildere Seite der Bahamas suchen. Die Umgebung ist weitgehend unerschlossen und bietet eine raue Schönheit, die man in den touristischen Zentren von Freeport selten findet. Die Bewohner leben in enger Harmonie mit dem Meer.",
+      "factsAdvanced": [
+        "Gelegen am östlichen Ende von Grand Bahama",
+        "Namensgebung durch markante Kalksteinfelsen an der Küste",
+        "Bekannt für hervorragende Angelmöglichkeiten",
+        "Wildere, weniger touristische Seite der Insel",
+        "Spektakuläre Fotomotive der Brandung",
+        "Ruhige und naturverbundene Gemeinschaft"
+      ]
+    },
+    {
+      "id": "mcleans-town-cities-v2",
+      "descriptionAdvanced": "McLean's Town ist die östlichste Siedlung auf Grand Bahama und weltbekannt für sein jährliches 'Conch Cracking Festival' im Oktober. Der Wettbewerb, wer am schnellsten die Conch-Muschel aus ihrer Schale lösen kann, zieht Besucher aus dem ganzen Land an. Der Ort dient als wichtigster Fährhafen für die Verbindung zu den benachbarten Abaco-Inseln. McLean's Town hat eine starke Identität als Fischerdorf und ist ein Zentrum für das Sammeln von Conch-Muscheln, die eine tragende Säule der lokalen Ernährung und Wirtschaft sind. Die Siedlung liegt inmitten von ausgedehnten Mangrovensümpfen, die für die Biodiversität der Insel von entscheidender Bedeutung sind. Ein Besuch bietet tiefe Einblicke in die authentische bahamaische Meereskultur.",
+      "factsAdvanced": [
+        "Heimat des berühmten Conch Cracking Festivals",
+        "Östlichster Punkt von Grand Bahama",
+        "Wichtiger Fährhafen zu den Abaco-Inseln",
+        "Zentrum des Conch-Fangs und der Verarbeitung",
+        "Umgeben von ökologisch wertvollen Mangrovenwäldern",
+        "Traditionelle Gemeinschaft mit starker maritimer Bindung"
+      ]
+    },
+    {
+      "id": "pelican-point-cities-v2",
+      "descriptionAdvanced": "Pelican Point ist eine charmante Siedlung an der Nordküste von Grand Bahama, die für ihre entspannte Atmosphäre und ihre wunderschönen Strände bekannt ist. Der Ort ist berühmt für sein Kokosnuss-Festival, das jeden Ostermontag stattfindet und bei dem alles rund um die Kokosnuss gefeiert wird. Pelican Point hat eine enge Verbindung zur Natur und die Bewohner sind stolz auf ihre unberührte Umgebung. Die Siedlung besteht aus hübschen, oft bunt bemalten Häusern, die entlang der Küstenstraße aufgereiht sind. Es ist ein idealer Ort für Reisende, die abseits der Massen die wahre Gastfreundschaft der 'Grand Bahamians' erleben möchten. Die Strände hier sind ruhig und bieten fantastische Möglichkeiten zum Muschelsammeln und Entspannen.",
+      "factsAdvanced": [
+        "Gastgeber des jährlichen Coconut Festivals am Ostermontag",
+        "Ruhige Küstensiedlung auf Grand Bahama",
+        "Bekannt für exzellente lokale Kokosnuss-Produkte",
+        "Malerische, bunt bemalte Architektur",
+        "Ideal für Ökotourismus und Strandspaziergänge",
+        "Authentisches Inselflair abseits des Massentourismus"
+      ]
+    },
+    {
+      "id": "long-bay-cays-cities-v2",
+      "descriptionAdvanced": "Long Bay Cays liegt im Süden von Andros und ist eine Ansammlung kleiner Siedlungen, die sich entlang einer atemberaubenden Bucht erstrecken. Die Gegend ist bekannt für ihre unendlichen, weißen Sandstrände und die Nähe zum Andros Barrier Reef, dem drittgrößten der Welt. Long Bay Cays bietet eine perfekte Kulisse für Taucher, Schnorchler und Bonefishing-Enthusiasten. Die Siedlung hat eine ruhige, fast mystische Atmosphäre, geprägt von dichten Wäldern und der Abgeschiedenheit von South Andros. Die Bewohner führen ein traditionelles Leben, das stark auf den Ressourcen des Meeres und der Erde basiert. Für Reisende ist es ein Ort der absoluten Erholung und der tiefen Verbindung mit der unberührten Natur der größten bahamaischen Insel.",
+      "factsAdvanced": [
+        "Siedlungskomplex im Süden von Andros",
+        "Lage an einer weitläufigen, traumhaften Bucht",
+        "Direkter Zugang zum drittgrößten Barriereriff der Welt",
+        "Top-Destination für Bonefishing und Tauchsport",
+        "Umgeben von dichter, tropischer Vegetation",
+        "Refugium für Ruhe und ökologische Entdeckungen"
+      ]
+    },
+    {
+      "id": "sandy-point-cities-v2",
+      "descriptionAdvanced": "Sandy Point ist eine malerische Siedlung an der südwestlichen Spitze von Great Abaco. Der Ort ist bekannt für seine flachen, sandigen Ufer und das kristallklare Wasser, das kilometerweit ins Meer hinausreicht. Sandy Point ist ein bedeutendes Zentrum für die Fischerei, insbesondere für den Fang von Hummern und Muscheln. Die Siedlung strahlt eine friedliche Ruhe aus und ist ein beliebtes Ziel für Tagesausflügler, die die berühmte lokale Küche in den kleinen Restaurants am Wasser genießen möchten. In der Nähe befindet sich der Abaco National Park, die Heimat des seltenen Abaco-Papageis. Sandy Point bietet eine perfekte Kombination aus maritimem Leben und Naturschutz und ist ein Muss für jeden Besucher der Abacos.",
+      "factsAdvanced": [
+        "Gelegen an der Südwestspitze von Great Abaco",
+        "Bekannt für extrem flache und klare Sandbänke",
+        "Zentrum des Hummerfangs in der Region",
+        "Tor zum Abaco National Park (Papageien-Schutzgebiet)",
+        "Beliebt für authentische bahamaische Fischgerichte",
+        "Hervorragendes Gebiet zum Muschelsammeln und Waten"
+      ]
+    },
+    {
+      "id": "cherokee-sound-cities-v2",
+      "descriptionAdvanced": "Cherokee Sound ist eine einzigartige und geschichtsträchtige Siedlung auf Great Abaco. Gegründet von Loyalisten, hat der Ort eine ganz eigene Architektur und Atmosphäre bewahrt, mit schmalen Wegen und dicht gedrängten, bunten Häusern. Eine der Hauptattraktionen ist die längste Holzbrücke (Long Dock) der Bahamas, die weit in das flache Wasser der Bucht hineinreicht. Cherokee Sound ist eine eng verbundene Gemeinschaft, die stolz auf ihre Seefahrertradition und ihre Unabhängigkeit ist. Der Ort ist bekannt für seine Ruhe, da es kaum Durchgangsverkehr gibt. Die umliegende Natur bietet fantastische Möglichkeiten zum Beobachten von Meereslebewesen in den weiten Flachwasserzonen (Flats), die bei Ebbe trockenfallen.",
+      "factsAdvanced": [
+        "Historische Siedlung mit loyalistischen Wurzeln",
+        "Standort der längsten Holzpier (Long Dock) der Bahamas",
+        "Einzigartige Architektur mit engen Gassen",
+        "Sehr ruhige Lage ohne Durchgangsverkehr",
+        "Starke Seefahrer- und Schiffbautradition",
+        "Hervorragendes Gebiet zur Naturbeobachtung in den Flats"
+      ]
+    },
+    {
+      "id": "little-harbour-abaco-cities-v2",
+      "descriptionAdvanced": "Little Harbour ist eine versteckte Perle auf Great Abaco und vor allem als Künstlerkolonie bekannt. Gegründet von der Bildhauerfamilie Johnston, ist der Ort heute die Heimat des berühmten 'Pete's Pub' und einer Gießerei für Bronzeskulpturen. Die Siedlung liegt in einer perfekt geschützten, kreisrunden Bucht, die von hohen Klippen umgeben ist. Die Bewohner nutzen größtenteils Solarenergie, was dem Ort einen umweltfreundlichen und autarken Charakter verleiht. In der Nähe befinden sich beeindruckende Meereshöhlen und Korallenriffe, die ideal zum Schnorcheln sind. Little Harbour verbindet auf einzigartige Weise Kunst, Bohème-Lebensstil und unberührte Natur, was es zu einem der faszinierendsten Orte der Bahamas macht.",
+      "factsAdvanced": [
+        "Bekannte Künstlerkolonie der Bahamas",
+        "Standort der weltberühmten Pete's Pub & Gallery",
+        "Einzige Bronze-Gießerei in der Karibik",
+        "Nachhaltige Gemeinschaft, primär durch Solarenergie betrieben",
+        "Malerische, kreisrunde und geschützte Bucht",
+        "Zugang zu spektakulären Meereshöhlen und Riffen"
+      ]
+    },
+    {
+      "id": "crossing-rocks-cities-v2",
+      "descriptionAdvanced": "Crossing Rocks ist eine kleine, traditionelle Siedlung an der Ostküste von Great Abaco, die auf einem schmalen Landstreifen zwischen dem Atlantik und einem Binnensee liegt. Der Ort wurde nach dem Hurrikan von 1932 an diese sicherere Stelle verlegt. Die Bewohner sind fast ausschließlich im Fischfang tätig und der Ort ist bekannt für seine erstklassigen Hummerfischer. Crossing Rocks bietet einen unverfälschten Einblick in das ländliche Leben der Bahamas, weit weg von den touristischen Pfaden. Die Küste hier ist rau und bietet fantastische Möglichkeiten zum Strandgut-Sammeln und zur Beobachtung der gewaltigen Atlantikbrandung. Die Gemeinschaft ist klein, aber sehr gastfreundlich und eng miteinander verbunden.",
+      "factsAdvanced": [
+        "Fischerdorf auf einem schmalen Küstenstreifen",
+        "Umsiedlung an den aktuellen Standort nach 1932",
+        "Zentrum für professionellen Hummerfang",
+        "Lage zwischen wildem Atlantik und ruhigem See",
+        "Authentisches, untouristisches Inselflair",
+        "Bekannt für starken Zusammenhalt der Bewohner"
+      ]
+    },
+    {
+      "id": "spring-city-cities-v2",
+      "descriptionAdvanced": "Spring City ist eine moderne Siedlung auf Great Abaco, die ursprünglich als Arbeitersiedlung für die Holzindustrie geplant wurde. Heute ist es eine lebendige Wohngemeinde in der Nähe von Marsh Harbour. Der Ort zeichnet sich durch seine geplante Struktur mit breiten Straßen und großzügigen Grundstücken aus. Spring City dient als wichtiges Wohngebiet für Menschen, die in der Verwaltung und im Handel der Inselhauptstadt tätig sind. Die Siedlung ist umgeben von Kiefernwäldern, die typisch für die nördlichen Bahamas sind. In den letzten Jahren hat Spring City eine positive Entwicklung mit neuen Schulen und Gemeinschaftseinrichtungen erlebt. Es bietet eine ruhige, vorstädtische Alternative zum geschäftigen Treiben in Marsh Harbour.",
+      "factsAdvanced": [
+        "Geplante Siedlung nahe Marsh Harbour",
+        "Ursprüngliches Zentrum für Arbeiter der Holzindustrie",
+        "Wichtiges Wohngebiet für die regionale Verwaltung",
+        "Umgeben von ausgedehnten karibischen Kiefernwäldern",
+        "Moderne Infrastruktur und Bildungseinrichtungen",
+        "Ruhige Wohnatmosphäre mit guter Verkehrsanbindung"
+      ]
+    },
+    {
+      "id": "dundas-town-cities-v2",
+      "descriptionAdvanced": "Dundas Town ist eine der größeren Gemeinden auf Great Abaco und grenzt direkt an Marsh Harbour an. Zusammen mit Murphy Town bildet es ein bedeutendes kulturelles und soziales Zentrum der Insel. Der Ort wurde in den 1930er Jahren gegründet, um der wachsenden Bevölkerung Wohnraum zu bieten. Dundas Town ist bekannt für seine lebendige Atmosphäre, seine vielen Kirchen und seine starke lokale Wirtschaft. Die Bewohner sind in allen Bereichen des Inselflebens tätig, vom Tourismus bis zum Handwerk. Die Siedlung bietet einen authentischen Einblick in das städtische Leben der Bahamas, mit lokalen Märkten und einer aktiven Gemeinschaft, die großen Wert auf Bildung und sportliche Aktivitäten legt.",
+      "factsAdvanced": [
+        "Bedeutende Gemeinde direkt neben Marsh Harbour",
+        "Gegründet in den 1930er Jahren als Siedlungsprojekt",
+        "Kulturelles und soziales Herzstück von Great Abaco",
+        "Standort zahlreicher Kirchen und lokaler Unternehmen",
+        "Lebendige Gemeinschaft mit starkem Fokus auf Sport",
+        "Wichtiger Wohnstandort für die lokale Arbeitnehmerschaft"
+      ]
+    },
+    {
+      "id": "murphy-town-cities-v2",
+      "descriptionAdvanced": "Murphy Town ist eine dynamische Siedlung auf Great Abaco, die unmittelbar westlich von Marsh Harbour liegt. Zusammen mit Dundas Town bildet sie eine geschlossene Siedlungseinheit, die das wirtschaftliche Rückgrat der Region stärkt. Murphy Town hat eine reiche Geschichte und ist für den Unternehmergeist seiner Bewohner bekannt. Hier finden sich viele lokale Handwerksbetriebe und kleine Dienstleistungsunternehmen. Der Ort ist auch ein Zentrum für kulturelle Veranstaltungen und lokale Feste, die die Identität der Abacos feiern. Die Architektur ist vielfältig und spiegelt das stetige Wachstum der Gemeinde wider. Für Besucher bietet Murphy Town die Möglichkeit, das tägliche Leben und die geschäftige Energie der Bahamas jenseits der Resorts zu erleben.",
+      "factsAdvanced": [
+        "Wichtige Siedlung im Ballungsraum Marsh Harbour",
+        "Zentrum für lokales Handwerk und Unternehmertum",
+        "Starke soziale Identität und Gemeinschaftssinn",
+        "Austragungsort vielfältiger kultureller Events",
+        "Wichtiger Motor für die regionale Wirtschaft",
+        "Authentisches städtisches Leben der Out Islands"
+      ]
+    },
+    {
+      "id": "crown-haven-cities-v2",
+      "descriptionAdvanced": "Crown Haven ist die nördlichste Siedlung auf Little Abaco und dient als strategisches Tor zum Rest der Inselkette. Der Ort ist vor allem als wichtiger Fährpunkt bekannt, da hier die Postboote und Fähren von Grand Bahama anlegen. Crown Haven ist eine typische bahamaische Fischergemeinde, in der das Leben vom Kommen und Gehen der Schiffe bestimmt wird. Die Küste ist geprägt von Mangroven und flachen Buchten, die reich an Meeresfrüchten sind. Die Bewohner sind für ihre nautischen Fähigkeiten und ihre Gastfreundschaft bekannt. Für Reisende bietet Crown Haven einen ruhigen, funktionalen Aufenthalt, bevor sie die weiteren Schönheiten der Abaco-Inseln erkunden. Es ist ein Ort, der die Verbundenheit zwischen den Inseln symbolisiert.",
+      "factsAdvanced": [
+        "Nördlichste Siedlung von Little Abaco",
+        "Strategischer Fährhafen für Verbindungen nach Grand Bahama",
+        "Traditionelles Zentrum der Küstenfischerei",
+        "Wichtiger Logistikpunkt für die Postboot-Versorgung",
+        "Typische bahamaische Architektur und Lebensweise",
+        "Umgeben von ökologisch wertvollen Mangrovenlandschaften"
+      ]
+    },
+    {
+      "id": "fox-town-cities-v2",
+      "descriptionAdvanced": "Fox Town ist eine malerische Siedlung im Norden von Little Abaco und bekannt für seine lange Fischereitradition. Der Ort liegt an einer geschützten Küste und bietet ideale Bedingungen für den Fang von Riff-Fischen und Hummern. Fox Town hat eine sehr entspannte Atmosphäre und die Zeit scheint hier langsamer zu vergehen. Die Bewohner leben in engem Kontakt mit dem Meer und pflegen Bräuche, die seit Generationen weitergegeben werden. In der Nähe gibt es interessante Blue Holes und Naturpfade durch den Kiefernwald. Fox Town ist ein wunderbares Ziel für Ökotouristen, die die unberührte Natur der nördlichen Abacos schätzen. Die Gemeinschaft ist sehr gastfreundlich und teilt gerne ihr Wissen über die Geheimnisse der Insel.",
+      "factsAdvanced": [
+        "Bedeutende Fischergemeinde auf Little Abaco",
+        "Zentrum für den Fang von Riff-Fischen und Langusten",
+        "Nähe zu spektakulären Blue Holes der Umgebung",
+        "Ruhige, traditionelle Inselatmosphäre",
+        "Hervorragendes Revier für Naturbeobachtungen",
+        "Bekannt für herzliche Gastfreundschaft und lokales Wissen"
+      ]
+    },
+    {
+      "id": "wood-cay-cities-v2",
+      "descriptionAdvanced": "Wood Cay ist eine kleine, idyllische Siedlung an der Nordspitze von Little Abaco. Der Ort ist bekannt für seine Abgeschiedenheit und die unglaubliche Schönheit der umliegenden Gewässer. Die Bewohner von Wood Cay führen ein einfaches, naturverbundenes Leben, das primär vom Fischfang und der Selbstversorgung geprägt ist. Die Siedlung ist umgeben von dichten Wäldern und unberührten Küstenabschnitten, die ein Paradies für Vögel und andere einheimische Tierarten sind. Aufgrund der geringen Größe herrscht in Wood Cay eine sehr persönliche und familiäre Atmosphäre. Es ist der perfekte Ort für Reisende, die die totale Einsamkeit suchen und die ursprüngliche Wildnis der Bahamas in ihrer reinsten Form erleben möchten.",
+      "factsAdvanced": [
+        "Abgelegene Siedlung im hohen Norden von Little Abaco",
+        "Zentrum für nachhaltige Fischerei und Selbstversorgung",
+        "Refugium für seltene Vogelarten und unberührte Natur",
+        "Sehr ruhige und familiäre Gemeinschaft",
+        "Tor zur Erkundung der nördlichsten Cays",
+        "Ideal für absolute Ruhe und digitale Entgiftung"
+      ]
+    },
+    {
+      "id": "mount-pleasant-cities-v2",
+      "descriptionAdvanced": "Mount Pleasant ist eine kleine Siedlung auf Little Exuma, die ihren Namen der leicht erhöhten Lage verdankt, die einen angenehmen Blick über die umliegenden Buchten bietet. Der Ort ist bekannt für seine friedliche Atmosphäre und die Nähe zu einigen der verstecktesten und schönsten Strände der Exumas. Das Leben in Mount Pleasant ist ruhig und wird von den Jahreszeiten und dem Fischfang bestimmt. Die Architektur ist typisch für die kleineren Siedlungen der Exumas, mit schlichten, aber farbenfrohen Häusern. In der Umgebung finden sich interessante Kalksteinformationen und eine üppige Vegetation. Mount Pleasant ist ein idealer Ausgangspunkt für Wanderungen entlang der Küste von Little Exuma und bietet eine perfekte Zuflucht vor den touristischen Strömen.",
+      "factsAdvanced": [
+        "Erhöhte Siedlung auf Little Exuma",
+        "Bietet Panoramablicke auf das türkisblaue Meer",
+        "Nähe zu exklusiven, versteckten Sandbuchten",
+        "Ruhige Wohngegend mit traditionellem Charme",
+        "Ideal für Wanderungen und Naturerkundungen",
+        "Authentisches bahamaisches Inselflair"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ogun-forest-nature-v2",
+      "descriptionAdvanced": "Das Ogun-Waldgebiet, insbesondere das Omo Forest Reserve, ist eine der letzten großen Lungen im stark urbanisierten Südwesten Nigerias. Benannt nach dem Fluss Omo, der den dichten Dschungel durchschneidet, beherbergt dieser fast 1.300 Quadratkilometer große Wald eine extrem seltene, aber leider stark gefährdete Population von afrikanischen Waldelefanten. Diese Tiere sind kleiner als ihre Verwandten in der Savanne und bleiben tief im Unterholz verborgen. Der Wald kämpft täglich ums Überleben gegen illegale Holzfäller, die das wertvolle Mahagoni und Obeche-Holz rauben, sowie gegen Kakaobauern, die illegal Brandrodung betreiben. Lokale Ranger riskieren hier oft ihr Leben für den Naturschutz. Biologie K8 — Waldelefanten und illegaler Tropenholzeinschlag.",
+      "factsAdvanced": [
+        "Das Omo Forest Reserve ist der wichtigste Regenwald im Ogun-Staat.",
+        "Es erstreckt sich über eine Fläche von rund 1.305 Quadratkilometern.",
+        "Ist eines der letzten Refugien für die vom Aussterben bedrohten Waldelefanten in Nigeria.",
+        "Beherbergt seltene Baumarten wie Mahagoni, Iroko und Obeche.",
+        "Wird intensiv von illegalen Holzfällern und Kakaobauern bedroht.",
+        "Besitzt eine internationale Naturschutz-Initiative, um die Elefanten zu retten."
+      ]
+    },
+    {
+      "id": "osun-forest-nature-v2",
+      "descriptionAdvanced": "Der Osun-Wald, vor allem der heilige Hain von Osogbo, ist ein Primärwald, der nur durch die tiefe Religiosität der Yoruba-Menschen vor der Abholzung bewahrt wurde. Jeder andere Wald in der Nähe wurde für Landwirtschaft gerodet, aber dieser dunkle Hain gilt als Wohnsitz der mächtigen Flussgöttin Osun. Mitten im Wald fließen die klaren Wasser des Osun-Flusses, an dessen Ufern in den 1950er Jahren die österreichische Künstlerin Susanne Wenger gewaltige Skulpturen im Stil der 'New Sacred Art' aus Lehm und Zement errichtete, um die heiligen Schreine zu beschützen. Heute ist der Wald ein UNESCO-Welterbe und ein faszinierendes Beispiel dafür, wie Naturreligion einen Wald wirksamer schützen kann als staatliche Gesetze. Gesellschaft K7 — Heilige Wälder und Naturreligionen.",
+      "factsAdvanced": [
+        "Ein erhaltener Restprimärwald am Stadtrand von Osogbo (Osun State).",
+        "Ist ein offizielles UNESCO-Weltkulturerbe (seit 2005).",
+        "Wurde nicht durch Gesetze, sondern durch traditionelle Yoruba-Religion ('Tabus') geschützt.",
+        "Beherbergt den Osun-Fluss und Dutzende von massiven, mystischen Kunstskulpturen.",
+        "Die österreichische Künstlerin Susanne Wenger (Adunni Olorisha) rettete ihn vor der Abholzung.",
+        "Das jährliche Osun-Osogbo-Festival zieht Zehntausende Besucher in den Wald."
+      ]
+    },
+    {
+      "id": "kainji-forest-nature-v2",
+      "descriptionAdvanced": "Der Kainji-Nationalpark-Wald ist eine der vielfältigsten Übergangszonen (Ökotone) in Westafrika, in der die feuchte Guinea-Savanne auf die viel trockenere Sudan-Savanne trifft. Gelegen im Westen Nigerias (Bundesstaaten Niger und Kwara), umschließt der Wald den gigantischen, künstlich angelegten Kainji-Stausee. Im Borgu-Sektor des Parks durchstreifen Paviane, Warzenschweine und Pferdeantilopen die weiten Graslandschaften, während an den bewaldeten Ufern des Sees Flusspferde weiden. Der Park leidet, wie so viele Schutzgebiete in der Region, unter chronischer Unterfinanzierung, weshalb Löwen und Leoparden hier mittlerweile als nahezu ausgestorben gelten. Biologie K7 — Übergangssavannen und Nationalpark-Management.",
+      "factsAdvanced": [
+        "Ein riesiger Nationalpark (über 5.300 km²) rund um den künstlichen Kainji-Stausee.",
+        "Besteht aus zwei Hauptsektoren: dem Borgu-Wildreservat und dem Zugurma-Wildreservat.",
+        "Zeigt eine klassische Übergangsvegetation von der Guinea- zur Sudan-Savanne.",
+        "Ist Heimat für hunderte Flusspferde, Kob-Antilopen und seltene Vogelarten.",
+        "Leidet seit Jahren massiv unter Wilderei und dem illegalen Weiden von Rinderherden.",
+        "Der ehemals berühmte Löwenbestand des Parks gilt heute leider als praktisch erloschen."
+      ]
+    },
+    {
+      "id": "cross-river-forest-nature-v2",
+      "descriptionAdvanced": "Der Cross-River-Regenwald ist das wertvollste, komplexeste und älteste Ökosystem in ganz Nigeria. Dieser unglaublich dichte Primärwald im äußersten Südosten hat die letzte große afrikanische Eiszeit überstanden, ohne auszutrocknen. Deshalb findet man hier eine unfassbare Biodiversität: Mehr als die Hälfte aller in Nigeria bekannten Vogelarten und unzählige seltene Pflanzen, die in der modernen Medizin erforscht werden, wachsen in diesem Dschungel. Sein berühmtester Bewohner ist der vom Aussterben bedrohte Cross-River-Gorilla, von dem es weltweit nur noch wenige Hundert Exemplare gibt. Doch dieser Urwald schrumpft täglich, zerfressen von Kettensägen und Bulldozern für eine geplante Mega-Autobahn. Erdkunde K8 — Primärregenwald, Eiszeit-Refugien und Gorillaschutz.",
+      "factsAdvanced": [
+        "Einer der ältesten und artenreichsten noch existierenden Primärregenwälder Afrikas.",
+        "Überstand die pleistozänen Eiszeiten als sogenanntes Dschungel-Refugium.",
+        "Heimat der seltensten Gorilla-Unterart der Welt, dem Cross-River-Gorilla.",
+        "Beherbergt zudem Drills, Schimpansen und seltene Waldelefanten.",
+        "Zentrum des Cross River National Parks (Okwangwo und Oban Division).",
+        "Wird durch illegales Tropenholzfällen und Landwirtschaft massiv dezimiert."
+      ]
+    },
+    {
+      "id": "buea-mountain-nature-v2",
+      "descriptionAdvanced": "Die Berge an der Grenze zu Kamerun, oft fälschlicherweise in touristischen Kontexten als Ausläufer von Buea bezeichnet (obwohl der Mount Buea/Kamerunberg selbst in Kamerun liegt), bilden die beeindruckenden Obudu-Berge auf der nigerianischen Seite. Auf über 1.500 Metern Höhe klammert sich hier Nebel an die grasbewachsenen, tiefgrünen Hänge. Diese hochgelegene Region im Cross River State ist wie eine völlig fremde Welt in Nigeria: Statt der üblichen tropischen 35 Grad kühlt es hier nachts extrem ab. Die Vegetation wechselt von dichtem Regenwald in den steilen Tälern zu sanftem, fast alpinem Grasland auf den Gipfeln, auf dem seltene Gorillas (in den abgelegenen Schluchten) und Rinder (auf dem Plateau) ein friedliches, isoliertes Leben führen. Geografie K7 — Hochgebirgsvegetation und Bergtourismus.",
+      "factsAdvanced": [
+        "Bezieht sich auf die hochgelegenen Gebirgszüge im Grenzgebiet zwischen Nigeria und Kamerun.",
+        "In Nigeria bilden sie das berühmte Obudu-Plateau (Südosten) und Mambilla (Norden).",
+        "Zeichnen sich durch ein kühles, oft nebliges und fast gemäßigtes Mikroklima aus.",
+        "Die Berge wirken als gigantische natürliche Barriere für atlantische Wolken (Steigungsregen).",
+        "Die Gipfel sind geprägt von baumlosen Grasländern, während die Schluchten dichter Dschungel sind.",
+        "Ein wichtiger Hub für den Luxus-Ökotourismus (Obudu Mountain Resort) in Nigeria."
+      ]
+    },
+    {
+      "id": "mandara-mountains-nature-v2",
+      "descriptionAdvanced": "Das Mandara-Gebirge ist eine extrem raue, vulkanische Kette von Granitbergen, die sich über 200 Kilometer an der nördlichen Grenze zwischen Nigeria und Kamerun erstreckt. Diese Berge sind kein Ort für schwache Nerven; die Landschaft ist karg, felsig und extrem heiß. Doch diese isolierte Festung war jahrhundertelang die rettende Zuflucht für kleine, animistische Bergbauernvölker (wie in der Sukur-Kulturlandschaft), die sich hier vor den großen islamischen Imperien der Ebenen versteckten. Die Bergvölker legten unglaubliche, in den Stein gehauene Terrassen an, um Hirse anzubauen. In jüngster Zeit boten diese tiefen Höhlen und Schluchten leider auch den Kämpfern der Boko-Haram-Miliz ein kaum einnehmbares Versteck. Geschichte K8 — Bergvölker, Terrassenfeldbau und Rückzugsgebiete.",
+      "factsAdvanced": [
+        "Eine etwa 200 Kilometer lange, schroffe Gebirgskette an der nigerianisch-kamerunischen Grenze.",
+        "Besteht geologisch hauptsächlich aus extrem harten Granit- und Vulkansteinformationen.",
+        "War historisch das perfekte, uneinnehmbare Rückzugsgebiet für unzählige kleine Ethnien.",
+        "Die Bewohner betrieben spektakulären Terrassen-Feldbau, um im Fels überleben zu können.",
+        "Beinhaltet Nigerias erstes UNESCO-Welterbe, die Sukur-Kulturlandschaft.",
+        "Das unwegsame Terrain wurde in den 2010er Jahren stark vom Boko-Haram-Konflikt gezeichnet."
+      ]
+    },
+    {
+      "id": "guinea-gulf-sea-nature-v2",
+      "descriptionAdvanced": "Der Golf von Guinea ist der feuchte, stürmische Ozean, der Nigerias gesamte 850 Kilometer lange Südküste formt. Er ist der eigentliche Motor der nigerianischen Wirtschaft und gleichzeitig ihre größte Schwachstelle. Hier, weit draußen auf dem oft rauen Meer, stehen Hunderte von gewaltigen Offshore-Ölplattformen (wie die Bonga Field Anlage), die den Großteil der Devisen des Landes erwirtschaften. Das extrem warme Wasser zieht riesige Fischschwärme an, aber leider auch Kriminelle: Der Golf von Guinea gilt aufgrund bewaffneter Gruppen aus dem Nigerdelta, die Öltanker und Frachter angreifen und Geiseln nehmen, weltweit als eines der gefährlichsten Gewässer für moderne Piraterie. Erdkunde K8 — Offshore-Ölförderung und moderne Piraterie.",
+      "factsAdvanced": [
+        "Bildet die gesamte, etwa 850 Kilometer lange Küstenlinie Nigerias im Süden.",
+        "Ist das unbestrittene Zentrum der lukrativen nigerianischen Offshore-Erdölförderung.",
+        "Das Wasser ist extrem warm und nährstoffreich, was den Golf zu einem reichen Fischgrund macht.",
+        "Berüchtigt als weltweiter 'Hotspot' für hochorganisierte, bewaffnete Piraterie.",
+        "Die Küstenlinie ist stark geprägt von Mangrovenwäldern, Lagunen und dem Nigerdelta.",
+        "Beherbergt wichtige Seehäfen wie Lagos (Apapa), Port Harcourt und den neuen Lekki Deep Sea Port."
+      ]
+    },
+    {
+      "id": "kainji-dam-nature-v2",
+      "descriptionAdvanced": "Das Ufer des Kainji-Stausees ist eine bizarre, menschengemachte Landschaft, die heute wie reine Natur wirkt. Als der gewaltige Damm in den 1960er Jahren den Fluss Niger blockierte, versanken alte Bäume und Dörfer für immer im Schlamm. Heute säumen verdorrte Baumstümpfe, die wie Geister aus dem Wasser ragen, weite Teile des Ufers. Diese Untiefen sind ein extremes Risiko für Bootsfahrer, aber ein absolutes Paradies für Krokodile, die sich auf den nackten Ästen in der Sonne aufwärmen. Die Uferzonen, an denen das Wasser saisonal sinkt (Fadamas), ziehen zudem Bauern an, die den extrem fruchtbaren, nassen Schlamm für den Anbau von Zwiebeln und Reis nutzen. Biologie K7 — Stausee-Ökosysteme und versunkene Wälder.",
+      "factsAdvanced": [
+        "Die Ufer des Kainji-Sees entstanden erst künstlich im Jahr 1968 durch den Dammbau.",
+        "Unter dem Wasser liegen noch heute die Reste unzähliger alter, toter Wälder.",
+        "Die abgestorbenen, aus dem Wasser ragenden Baumstümpfe sind eine massive Gefahr für Fischerboote.",
+        "Das Ufer bietet perfekte, sonnige Ruheplätze für große Krokodilpopulationen.",
+        "Die schwankenden Wasserstände ('Drawdown Zones') schaffen hochfruchtbares Ackerland.",
+        "Ist das Rückgrat der Fischerei-Industrie im Bundesstaat Niger."
+      ]
+    },
+    {
+      "id": "niger-river-delta-nature-v2",
+      "descriptionAdvanced": "Die Mangroven des Nigerdeltas sind ein schlammiges, extrem salziges Labyrinth, das größer ist als viele europäische Staaten. Dieses Wurzelgewirr wächst dort, wo das Süßwasser des Niger auf den salzigen Atlantik trifft, und schützt das nigerianische Festland vor Stürmen und Küstenerosion. Mangroven sind die ultimativen 'Kinderstuben' des Ozeans, wo sich Fische, Garnelen und Austern sicher vor Raubfischen entwickeln. Tragischerweise ersticken diese Atemrohre der Natur seit Jahrzehnten an schwarzem, zähem Rohöl. Lecks aus Tausenden von Pipelines durchtränken den Schlamm, töten die Wurzeln ab und zerstören die Grundlage der Fischerdörfer, in denen Menschen oft noch auf Stelzen direkt über dem schwarzen, öligen Wasser leben. Erdkunde K8 — Brackwasser-Mangroven und Ölverschmutzung.",
+      "factsAdvanced": [
+        "Das Nigerdelta besitzt den drittgrößten zusammenhängenden Mangrovenwald der gesamten Erde.",
+        "Mangroven wachsen im extrem harschen Übergangsbereich von Süß- und Salzwasser (Brackwasser).",
+        "Die Wurzeln bieten einen unersetzlichen Schutz (Kinderstube) für zahllose marine Fischarten.",
+        "Verhindern massiv die drohende Küstenerosion durch die starken Gezeiten des Atlantiks.",
+        "Sind durch tausende Öllecks schwer beschädigt; oft sind die Wurzeln schwarz von Rohöl.",
+        "Das Fällen von Mangroven für Feuerholz verstärkt die ökologische Katastrophe der Region weiter."
+      ]
+    },
+    {
+      "id": "gashaka-hills-relief-v2",
+      "descriptionAdvanced": "Die Gashaka-Berge im Südosten Nigerias sind ein Relief von brutaler, fast unzugänglicher Wildheit. Sie bilden den massiven, hügeligen Kern des Gashaka-Gumti-Nationalparks und schrauben sich langsam aus der heißen Savanne hinauf bis zum Fuß des höchsten Berges, dem Chappal Waddi. Dieses Relief ist durchsetzt von tiefen, messerscharf in den Fels geschnittenen Flusstälern, durch die extrem klares, eisiges Wasser stürzt. Diese tiefen Täler (Galeriewälder) sind völlig vom umgebenden Savannengras isoliert und bilden feuchte, dichte Dschungel-Mikroklimata, in denen die seltenen Schimpansen der Region überleben können. Wer dieses Relief bezwingen will, muss wochenlang ohne Wege wandern. Geografie K7 — Tiefentäler, Galeriewälder und Isolation.",
+      "factsAdvanced": [
+        "Eine massiv zerklüftete, hochgelegene Bergregion im Bundesstaat Taraba.",
+        "Bildet das steile, schwer zugängliche Herzstück des Gashaka-Gumti-Nationalparks.",
+        "Das Relief zwingt Flüsse dazu, tiefe, feuchte 'V-Täler' (Galeriewälder) in den Fels zu graben.",
+        "Diese tiefen Täler sind ein extrem wichtiger Überlebensraum für Primaten in der Trockenzeit.",
+        "Gilt als eine der am wenigsten erforschten und unzugänglichsten Regionen Westafrikas.",
+        "Besteht geologisch aus extrem alten und harten Granit- und Gneisformationen."
+      ]
+    },
+    {
+      "id": "obudu-mountains-relief-v2",
+      "descriptionAdvanced": "Das Obudu-Berge (Teil des Plateaus) zeigen ein Relief, das man eher in den schottischen Highlands vermuten würde als in Westafrika. Auf über 1.500 Metern Höhe breitet sich hier eine sanfte, wellige Topografie aus, die fast baumlos ist und aus extrem dichtem, kurzem Berggras besteht. Was dieses Relief berühmt macht, sind seine 'Ränder': Die Berge fallen an ihren Rändern in extrem steilen, fast senkrechten Abgründen (Steilstufen) tausende Meter tief in den heißen, dichten Dschungel des Cross-River-Tals ab. Um dieses steile Relief für Touristen nutzbar zu machen, wurde eine spektakuläre Straße mit zahlreichen, gefährlichen Haarnadelkurven (Devil's Elbow) buchstäblich in die Felswand gesprengt. Erdkunde K7 — Steilstufen und alpine Bergwiesen.",
+      "factsAdvanced": [
+        "Das Relief zeichnet sich durch eine wellige, baumlose Hochebene auf über 1.500 Metern aus.",
+        "Die Ränder des Plateaus bestehen aus extrem schwindelerregenden, fast senkrechten Steilabfällen.",
+        "Das sanfte Grasland (Montane Grassland) wird seit Jahrzehnten zur Rinderzucht genutzt.",
+        "Die steilen Felswände erforderten den Bau der gefährlichen Passstraße ('Devil's Elbow').",
+        "Die hohe, wolkenfängende Lage (Steigungsregen) speist unzählige tiefe Wasserfälle.",
+        "Das Relief ist das Zentrum des nigerianischen Hochland-Ökotourismus."
+      ]
+    },
+    {
+      "id": "uadi-niger-relief-v2",
+      "descriptionAdvanced": "Das Tal des Flusses Niger (Niger-Tal) ist ein massiver Einschnitt im geologischen Gesicht Nigerias. Wie ein gigantischer Trichter sammelt dieses Reliefbecken das Wasser aus dem Westen und Norden und leitet es in Richtung Atlantik. Die Landschaft hier ist flach, aber alles andere als langweilig. In der Trockenzeit zeigt das Tal riesige, kilometerbreite Sandbänke, auf denen lokale Bauern in Windeseile Erdnüsse und Bohnen pflanzen, bevor das Wasser zurückkehrt. Während der Regenzeit verwandelt sich dieses Relief jedoch in einen monströsen See, der weite Überschwemmungsebenen ('Fadamas') flutet und oft ganze Dörfer, die zu nah am Ufer gebaut wurden, einfach wegschwemmt. Geografie K7 — Überschwemmungsebenen und Flusstäler.",
+      "factsAdvanced": [
+        "Ein gigantisches, tief in das Land geschnittenes Tal, das dem Lauf des Flusses Niger folgt.",
+        "Zeichnet sich durch extrem weite, flache Überschwemmungsebenen (Floodplains) aus.",
+        "Die Uferzonen ('Fadamas') sind massiv wichtig für den intensiven landwirtschaftlichen Anbau.",
+        "Das Relief ist in der Regenzeit sehr flach, wodurch der Fluss oft zerstörerisch über die Ufer tritt.",
+        "Bildet die historische, geografische Trennlinie zwischen dem Westen und Osten Nigerias.",
+        "Bietet in der Trockenzeit riesige, freiliegende Sandbänke, die agrarisch genutzt werden."
+      ]
+    },
+    {
+      "id": "plateau-jos-relief-v2",
+      "descriptionAdvanced": "Die Jos-Hochebene (Jos-Plateau) ist ein massiver, abrupter Fehler in der sonst relativ flachen Geografie Nord- und Zentralnigerias. Es ist ein riesiger vulkanischer Tisch, der durchschnittlich fast 1.300 Meter hoch liegt. Die Kanten dieses Plateaus sind keine sanften Hügel, sondern brutale, senkrechte Steilstufen (Escarpments), von denen atemberaubende Wasserfälle wie die Assop-Fälle herabstürzen. Das Innere der Hochebene ist eine windgepeitschte, kühle und baumlose Graslandschaft, unter deren Oberfläche sich massive Mengen an wertvollem Zinn und Kolumbit verbergen. Dieser geologische Reichtum führte dazu, dass die Briten im 20. Jahrhundert das Plateau mit Dynamit und Schaufelradbaggern regelrecht umpflügten. Erdkunde K8 — Vulkanische Plateaus und Bergbau-Zerstörung.",
+      "factsAdvanced": [
+        "Ein enormer, stark abgetrennter vulkanischer Tischberg (ca. 8.600 km²) im Zentrum Nigerias.",
+        "Die Ränder des Plateaus fallen als steile, oft senkrechte Felswände (Escarpments) ab.",
+        "Die Höhe (Ø 1.280 m) schuf ein historisch kühles, von britischen Siedlern bevorzugtes Klima.",
+        "Das felsige, baumlose Relief ist extrem reich an begehrten Mineralien (Zinn, Kolumbit).",
+        "Der jahrzehntelange industrielle Zinnabbau hinterließ ein durchlöchertes, vernarbtes Relief ('Mining Ponds').",
+        "Bildet eine gigantische Wasserscheide für viele wichtige nigerianische Flüsse."
+      ]
+    },
+    {
+      "id": "kainji-becken-relief-v2",
+      "descriptionAdvanced": "Das Kainji-Becken ist eine von Menschenhand massiv veränderte Senke im Nordwesten Nigerias. Bevor der Kainji-Damm 1968 erbaut wurde, war dieses Relief ein langes, flaches Flusstal, durch das der Niger strömte. Heute ist es eine gigantische, künstliche Wasserpfanne, deren Uferlinien extrem mit den Jahreszeiten atmen. Wenn in der Trockenzeit die Turbinen des Wasserkraftwerks weiterlaufen, zieht sich der See Kilometerweit zurück und hinterlässt flache, schlammige Ebenen (Drawdown Zones). Diese Zone ist ein geografischer Magnet: Nomaden bringen ihre Kühe zum Grasen auf das frische Grün im Schlamm, während Krokodile in den flachen, warmen Restwassertümpeln jagen. Geografie K7 — Künstliche Stausee-Senken und Drawdown-Zonen.",
+      "factsAdvanced": [
+        "Eine ursprünglich natürliche Flusssenke, die durch den Dammbau 1968 massiv umgestaltet wurde.",
+        "Das Relief formt heute das riesige Wasserbecken des Kainji-Stausees (über 1.300 km²).",
+        "Die Ränder des Beckens ('Drawdown Zones') schwanken saisonal um mehrere Kilometer.",
+        "Die freiliegenden Schlammflächen in der Trockenzeit sind extrem fruchtbar für Gras und Bauern.",
+        "Die Senke ist ein kritischer, geschützter Überlebensraum im Kainji-Lake-Nationalpark.",
+        "Veränderte die Mikrotoptografie der Region (versunkene Inseln, neue Wasserläufe) dauerhaft."
+      ]
+    },
+    {
+      "id": "delta-niger-relief-v2",
+      "descriptionAdvanced": "Das Relief des Nigerdeltas ist extrem trügerisch. Auf der Karte sieht es aus wie festes Land, aber in Wirklichkeit ist es ein gigantischer, matschiger Schwamm. Es ist eine der größten 'Vogel-Fuß'-Deltas der Welt, geformt durch Jahrmillionen von Sand und Schlamm, die der Fluss Niger aus dem Landesinneren ins Meer gespült hat. Es gibt hier keine echten Hügel oder Berge. Das Land ist völlig flach und wird täglich von den extrem starken Gezeiten des Atlantiks bestimmt, die zweimal täglich Salzwasser in das Delta drücken. Die Menschen bauen hier oft auf Pfählen, da fester, bebaubarer Boden extrem selten ist, was den Bau von Straßen und Pipelines zu einem logistischen und ökologischen Albtraum macht. Erdkunde K8 — Flussmündungen, Alluvialböden und Gezeiten.",
+      "factsAdvanced": [
+        "Eines der größten Deltas der Erde (über 70.000 km²), geprägt von alluvialen (angeschwemmten) Böden.",
+        "Das extrem flache Relief wird stark durch die Gezeiten (Ebbe und Flut) des Atlantiks definiert.",
+        "Fester, tragfähiger Boden ('Dry Land') ist extrem selten, das meiste ist feuchter Sumpf.",
+        "Es gibt absolut keine Hügel oder nennenswerten natürlichen Erhebungen in dieser Region.",
+        "Die fehlende Steigung zwingt den Fluss Niger, sich in hunderte winzige Kanäle aufzuspalten.",
+        "Straßenbau in diesem schlammigen Relief ist extrem teuer, komplex und oft von kurzer Lebensdauer."
+      ]
+    },
+    {
+      "id": "mandara-berge-relief-v2",
+      "descriptionAdvanced": "Die Mandara-Berge an der Grenze zu Kamerun sind ein geologisches Festungs-Relief. Diese Bergkette entstand nicht durch Faltung, sondern besteht größtenteils aus nacktem, extrem hartem vulkanischem Basalt und Granit, der der Witterung Jahrtausende lang trotzte. Das Relief ist geprägt von 'Inselbergen' – das sind runde, steile Felskuppen, die aus dem Nichts aufragen. Die Hänge sind extrem steil, was sie für Angreifer aus den Ebenen früher uneinnehmbar machte. Um auf diesen kahlen, steilen Felswänden überhaupt überleben zu können, meißelten und mauerten kleine Bergbauern-Völker über Jahrhunderte zehntausende von winzigen Feld-Terrassen in den Berg, um Erde und Wasser für ihre Hirse aufzufangen. Geografie K8 — Vulkanische Inselberge und Terrassenbau.",
+      "factsAdvanced": [
+        "Eine 200 Kilometer lange vulkanische Gebirgskette an der Grenze zwischen Nigeria und Kamerun.",
+        "Das Relief ist geprägt von markanten, oft runden 'Inselbergen' (Plutonen) aus extrem hartem Granit.",
+        "Die sehr steilen Felswände boten animistischen Völkern historischen Schutz vor Kavallerie-Angriffen.",
+        "Um Landwirtschaft zu betreiben, wurde das raue Relief in Tausende von künstlichen Terrassen umgestaltet.",
+        "Die höchsten Spitzen erreichen über 1.200 Meter und bieten ein extrem trockenes Mikroklima.",
+        "Die Geologie gehört zum großen afrikanischen Grabensystem (Kamerun-Linie)."
+      ]
+    },
+    {
+      "id": "shebshi-berge-relief-v2",
+      "descriptionAdvanced": "Die Shebshi-Berge im Bundesstaat Taraba bilden eine mächtige, raue Barriere im Osten Nigerias. Das Relief hier ist extrem zerklüftet, wild und dicht bewaldet. Die Berge erreichen Höhen von über 2.000 Metern und gipfeln im Berg Dimlang, der oft fälschlicherweise für den höchsten Berg Nigerias gehalten wird. Das Terrain zwingt Wolken aus dem Westen zum Aufstieg, was extreme Regenfälle ('Steigungsregen') auslöst. Dieser Regen hat unzählige, tiefe Flusstäler (wie das Tal des Flusses Taraba) in das weiche Gestein geschnitten. Die Shebshi-Berge sind so unzugänglich, dass es nur sehr wenige Straßen gibt; Dörfer liegen oft isoliert auf hochgelegenen Spornen, geschützt vor Fluten und Feinden. Erdkunde K7 — Faltengebirge, Steigungsregen und Erosionstäler.",
+      "factsAdvanced": [
+        "Ein hohes, massiv zerklüftetes Gebirgsmassiv im extremen Osten (Taraba-Staat).",
+        "Der höchste Gipfel der Kette, der Mount Dimlang (Vogel Peak), erreicht fast 2.042 Meter.",
+        "Das Relief fungiert als gewaltige Wetterbarriere und löst massiven Steigungsregen aus.",
+        "Durch die starken Niederschläge hat sich eine extrem dichte, tief eingegrabene Fluss-Erosion gebildet.",
+        "Die zerklüftete Topografie verhindert bis heute den Bau größerer Verkehrsachsen.",
+        "Beherbergt dichte, unberührte Bergwälder, die als Rückzugsort für extrem seltene Primaten dienen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "filingue-cities-v2",
+      "descriptionAdvanced": "Filingué a zarma és tuareg népcsoportok történelmi találkozási pontja, amely a Dallol Bosso száraz folyóvölgyben helyezkedik el. A város fontos agrármarkettel rendelkezik, amely a régió gazdasági motorjaként szolgál. Bár az éghajlat félsivatagi, a völgy talajvize lehetővé teszi a korlátozott földművelést és az állattartást. Az utóbbi évtizedekben a térség biztonsági kérdésekkel és aszályokkal küzdött. Földrajz K7 — száraz völgyek és agrárium.",
+      "factsAdvanced": [
+        "A történelmi Dallol Bosso száraz folyóvölgyben fekszik.",
+        "A zarma és tuareg kultúrák jelentős központja.",
+        "A helyi piac a régió fő mezőgazdasági csomópontja.",
+        "A talajvíz kulcsfontosságú a növénytermesztéshez.",
+        "A félsivatagi éghajlat kihívás elé állítja a gazdákat.",
+        "Átmeneti zónát képez a főváros és az északi sivatag között."
+      ]
+    },
+    {
+      "id": "bouza-cities-v2",
+      "descriptionAdvanced": "Bouza egy festői kisváros Tahoua régióban, amelyet hegyvidéki domborzat és zöldellő völgyek jellemeznek. Ez az egyedi mikroklíma kedvez a fatermesztésnek és a mezőgazdaságnak, így a település fás környezete éles kontrasztot mutat a környező száraz tájakkal. Bouza lakossága hagyományosan az állattenyésztésre és a teraszos földművelésre támaszkodik a sziklás domboldalakon. Természetismeret K6 — hegyvidéki mikroklímák a Száhelben.",
+      "factsAdvanced": [
+        "Ritka hegyvidéki környezet jellemzi Tahoua régióban.",
+        "Egyedi mikroklímája fásabb növényzetet tesz lehetővé.",
+        "A lakosok teraszos földművelési technikákat alkalmaznak.",
+        "Éles kontrasztot képez a sivatagos, száraz környékkel.",
+        "Kiemelkedő a helyi kecske- és juhtenyésztés.",
+        "Történelmileg fontos erődített település volt."
+      ]
+    },
+    {
+      "id": "keita-cities-v2",
+      "descriptionAdvanced": "Keita a fenntartható vidékfejlesztés nemzetközi szimbólumává vált a híres \"Keita Projekt\" révén, amely az elsivatagosodás elleni küzdelmet tűzte ki célul az 1980-as években. A város lakói, olasz támogatással, hatalmas területeken építettek kőgátakat és ültettek fákat a talajerózió megállítására. Bár a kihívások továbbra is fennállnak, Keita ma is az afrikai környezetvédelem egyik fontos esettanulmánya. Társadalomföldrajz K8 — sivatagosodás és talajvédelem.",
+      "factsAdvanced": [
+        "Világhírűvé vált az 1980-as évek sivatagellenes projektje révén.",
+        "Olasz nemzetközi segítséggel küzdött a talajerózió ellen.",
+        "Több ezer kilométernyi kőgátat építettek a víz megtartására.",
+        "A Száhel-övezet környezetvédelmi mintapéldája.",
+        "A helyi lakosság aktívan részt vesz az erdősítésben.",
+        "Fő gazdasági ágazata a helyreállított mezőgazdaság."
+      ]
+    },
+    {
+      "id": "tchirozerine-cities-v2",
+      "descriptionAdvanced": "Tchirozerine az Agadez régió egyik kulcsfontosságú iparvárosa, amely az itt található jelentős szénbányáknak köszönheti létezését. A város biztosítja a közeli uránbányák és a régió energiaszükségletét a Sonichar hőerőmű révén. A sivatagos, kietlen tájon elterülő város élete szorosan összefonódott a bányászattal és a tuareg munkások mindennapjaival. Kémia és fizika K8 — szénbányászat és energiatermelés.",
+      "factsAdvanced": [
+        "Niger legjelentősebb szénbányászati központja.",
+        "Itt működik az országot ellátó Sonichar hőerőmű.",
+        "Az ipari létesítmények látják el árammal az északi uránbányákat.",
+        "Zord, sivatagi környezetben épült fel.",
+        "Lakosságának jelentős része a bányászatban dolgozik.",
+        "Fontos szerepet játszik az ország energiafüggetlenségében."
+      ]
+    },
+    {
+      "id": "say-cities-v2",
+      "descriptionAdvanced": "Say a Niger folyó partján fekvő történelmi város, amely a 19. században Nyugat-Afrika egyik legfontosabb iszlám tudományos központja volt. A város alapítója, Alfa Mahaman Diobo, híres vallási iskolákat hozott létre itt, amelyek egész Afrikából vonzották a diákokat. Say gazdasága ma a folyami halászatra, a rizstermesztésre és a közeli Niamey piacainak ellátására fókuszál. Történelem K8 — iszlám tudományos központok Afrikában.",
+      "factsAdvanced": [
+        "A 19. századi nyugat-afrikai iszlám tudomány fellegvára.",
+        "Alfa Mahaman Diobo alapította fontos vallási központként.",
+        "Közvetlenül a Niger folyó termékeny partján fekszik.",
+        "Gazdasága a folyami halászatra és rizstermesztésre épül.",
+        "Közeli kulturális és gazdasági kapcsolatban áll Niamey-vel.",
+        "Híres hagyományos afrikai vályogépítészetéről."
+      ]
+    },
+    {
+      "id": "madarounfa-cities-v2",
+      "descriptionAdvanced": "Madarounfa egy kulturálisan és természetileg is kiemelkedő város Maradi régióban, amely híres a közelében található szent tóról. A Madarounfa-tó körüli sűrű erdő és a víz animista és muszlim zarándoklatok helyszíne, mivel a helyiek szerint varázserővel bír. A város egyúttal fontos határ menti kereskedelmi csomópont is Nigéria irányába, különösen az élőállat-kereskedelem területén. Földrajz K7 — szent tavak és helyi hitvilág.",
+      "factsAdvanced": [
+        "A helyiek által szentként tisztelt tó partján fekszik.",
+        "A tó környéke zarándoklatok és gyógyító rituálék helyszíne.",
+        "Az animista és muszlim hiedelmek találkozási pontja.",
+        "Jelentős határ menti állatkereskedelmi csomópont.",
+        "Nigéria közelsége meghatározza a helyi gazdaságot.",
+        "A tó vizét nem halásszák vallási okokból."
+      ]
+    },
+    {
+      "id": "guidan-roumdji-cities-v2",
+      "descriptionAdvanced": "Guidan Roumdji a haúsza kultúra egyik virágzó mezőgazdasági központja, amely a termékeny déli sávban helyezkedik el. A város híres a heti piacáról, amely az egész régióból vonzza a gazdákat és a nigériai felvásárlókat. A lakosság elsősorban köles, cirok és földimogyoró termesztésével foglalkozik, miközben a hagyományos kézművesség, például a szövés és kosárfonás is jelen van. Társadalomtudomány K6 — afrikai mezőgazdasági piacok.",
+      "factsAdvanced": [
+        "A déli termékeny sáv fontos mezőgazdasági városa.",
+        "Jelentős heti piaccal rendelkezik a régióban.",
+        "Gazdaságának alapja a köles és földimogyoró.",
+        "Erős kereskedelmi szálak fűzik a szomszédos Nigériához.",
+        "A haúsza kultúra hagyományai dominálják a mindennapokat.",
+        "A lakosok jelentős része hagyományos kézművességgel is foglalkozik."
+      ]
+    },
+    {
+      "id": "maine-soroa-cities-v2",
+      "descriptionAdvanced": "Mainé-Soroa egy különleges határváros a Diffa régióban, ahol a hagyományos haúsza, kanuri és peul kultúrák keverednek. A település történelmileg jelentős volt a francia gyarmati adminisztráció alatt, építészetén ma is látszanak a vörös téglás koloniális nyomok. A város a Komadougou Yobe folyó termékeny völgyében fekszik, amely lehetővé teszi a zöldségtermesztést a száraz régióban. Történelem K7 — gyarmati építészet és határvidékek.",
+      "factsAdvanced": [
+        "A kanuri, haúsza és peul kultúrák találkozási pontja.",
+        "A Komadougou Yobe folyó termékeny völgyében található.",
+        "Híres a vörös téglás, gyarmati kori épületeiről.",
+        "A zöldségtermesztés a helyi gazdaság egyik alappillére.",
+        "Fontos stratégiai határváros Nigéria közelében.",
+        "Jelentős szerepet játszik a regionális paprika-exportban."
+      ]
+    },
+    {
+      "id": "tchin-tabaraden-cities-v2",
+      "descriptionAdvanced": "Tchin-Tabaraden a nomád tuareg közösségek egyik legfontosabb politikai és kulturális központja Tahoua régióban. Neve a helyi nyelven \"A fiatal lányok völgyét\" jelenti. A település az 1990-es évek tuareg lázadásának egyik kiindulópontja volt, ma azonban békés adminisztratív központ. A város minden évben hatalmas nomád gyűléseknek ad otthont, ahol a sivatagi pásztorok találkoznak. Történelem K8 — tuareg történelem és modern konfliktusok.",
+      "factsAdvanced": [
+        "A tuareg nomád közösségek fontos politikai bázisa.",
+        "Neve tuareg nyelven \"A fiatal lányok völgyét\" jelenti.",
+        "Az 1990-es évekbeli tuareg lázadások egyik történelmi helyszíne.",
+        "A város környéke hatalmas kiterjedésű sivatagi legelő.",
+        "Rendszeres nomád találkozóknak és vásároknak ad otthont.",
+        "Gazdasága szinte teljes egészében a tevetenyésztésre épül."
+      ]
+    },
+    {
+      "id": "goudoumaria-cities-v2",
+      "descriptionAdvanced": "Goudoumaria a Diffa régió sivatagi oázisvárosa, amely egyedülálló pálmaligeteiről és sós tavaiból ismert. A terület az ősi kanem-bornui birodalom hatásövezetébe tartozott, ma pedig fontos megálló a keleti nomád útvonalakon. A lakosság a datolyatermesztésből és a nátrium-karbonát (natron) bányászatából él, amelyet tevekaravánokon szállítanak dél felé. Földrajz K8 — sós tavak és oázisgazdálkodás.",
+      "factsAdvanced": [
+        "Sivatagi oázisváros, amely hatalmas pálmaligetekkel rendelkezik.",
+        "A helyi gazdaság egyik alapja a natron (só) kitermelése.",
+        "Történelmileg a Kanem-Bornu birodalom határvidéke volt.",
+        "Jelentős a minőségi datolyatermesztés a régióban.",
+        "A nomád karavánok kritikus fontosságú vízellátó pontja.",
+        "Elszigetelt fekvése miatt a hagyományos életmód erősen megmaradt."
+      ]
+    },
+    {
+      "id": "dungass-cities-v2",
+      "descriptionAdvanced": "Dungass egy fiatal, de dinamikusan növekvő mezőgazdasági város Zinder régió déli peremén. A település termékeny talajának köszönhetően az ország egyik \"éléskamrája\", ahol hatalmas mennyiségű gabonát és hüvelyest termesztenek. Központi fekvése a nigériai határon élénk feketepiacot és hivatalos kereskedelmet is generál, amely a lakosság gyors növekedését eredményezte. Társadalomföldrajz K7 — demográfiai robbanás a határokon.",
+      "factsAdvanced": [
+        "Dinamikusan növekvő agrárváros a nigériai határnál.",
+        "A régió egyik legfontosabb gabonatermesztő területe.",
+        "Gazdaságát a hivatalos és informális határkereskedelem hajtja.",
+        "Lakossága az elmúlt évtizedekben megsokszorozódott.",
+        "A fiatalabb generációk számára fontos munkaerő-piaci bázis.",
+        "Infrastruktúrája küzd a gyors demográfiai növekedéssel."
+      ]
+    },
+    {
+      "id": "kollo-cities-v2",
+      "descriptionAdvanced": "Kollo egy nyugodt folyóparti település, mindössze rövid távolságra Niameytől, amely zöldellő mangó- és banánligeteiről híres. A város pihenőhelyként és mezőgazdasági beszállítóként is funkcionál a főváros számára. A Niger folyó közelsége gazdag madárvilágot vonz, így a környék a helyiek és a turisták körében is kedvelt természetjáró helyszín. Biológia K6 — folyóparti növénytermesztés.",
+      "factsAdvanced": [
+        "Közvetlenül a Niger folyó mentén, Niamey közelében fekszik.",
+        "Hatalmas, sűrű mangó- és banánültetvényeiről ismert.",
+        "A főváros egyik legfontosabb frissgyümölcs-beszállítója.",
+        "Gazdag folyóparti madárvilággal büszkélkedhet.",
+        "Kedvelt hétvégi pihenőhely a fővárosiak számára.",
+        "A lakosság főleg a djerma (zarma) népcsoporthoz tartozik."
+      ]
+    },
+    {
+      "id": "ayorou-cities-v2",
+      "descriptionAdvanced": "Ayorou a Niger folyó szigetein és partján elterülő lenyűgöző város, amely Észak-Niger egyik legszebb természeti fekvésével bír. A város vasárnapi piaca legendás: tuareg, fulani és songhai kereskedők találkoznak itt, hogy állatokat, kézműves termékeket és sót cseréljenek. A folyóban élő vízilovak rendkívüli látványt nyújtanak, ami miatt a város korábban jelentős turisztikai célpont volt. Földrajz K8 — afrikai folyami piacok és vadvilág.",
+      "factsAdvanced": [
+        "A Niger folyó szigetein és festői partján épült fel.",
+        "Vasárnapi állat- és kézműves piaca országos hírű.",
+        "A régióban vadon élő vízilovak találhatók a folyóban.",
+        "Tuareg, fulani és songhai kultúrák fontos olvasztótégelye.",
+        "Történelmileg Mali és Niger közötti kulcsfontosságú kapu.",
+        "A csónakos közlekedés a mindennapi élet szerves része."
+      ]
+    },
+    {
+      "id": "bermo-cities-v2",
+      "descriptionAdvanced": "Bermo a fulani és wodaabe nomádok \"titkos fővárosa\" a Maradi régió északi, száraz szavannáin. A település egész évben csendes, kivéve az esős évszak végét, amikor a hatalmas csordák visszatérnek a legelőkről, és kezdetét veszik a hagyományos afrikai szépségversenyek és találkozók. Bermo gazdasága kizárólag a pásztorkodásra, az állatgyógyászatra és a tejtermékek kereskedelmére épül. Társadalomtudomány K7 — a Wodaabe nomádok élete.",
+      "factsAdvanced": [
+        "A wodaabe nomád pásztorok egyik legfőbb találkozási helye.",
+        "Gazdasága szinte kizárólag a szarvasmarha-tenyésztésre épül.",
+        "Hatalmas kulturális fesztiválok színhelye az esős évszak végén.",
+        "Sivatagi átmeneti zónában, távol a nagy kereskedelmi utaktól fekszik.",
+        "A tej- és hústermékek helyi feldolgozása a fő bevételi forrás.",
+        "A vízkutak birtoklása és fenntartása társadalmi státuszt jelent."
+      ]
+    },
+    {
+      "id": "banibangou-cities-v2",
+      "descriptionAdvanced": "Banibangou a mali határ mentén fekvő zarma település, amely a történelmi Zarmaganda régió szívében található. A város kemény, sziklás talajon fekszik, ami megnehezíti a földművelést, így a lakosság elsősorban kölest termeszt és extenzív állattartást folytat. Stratégiai elhelyezkedése miatt Banibangou a határon átnyúló migráció és biztonsági kihívások fókuszpontjává vált az elmúlt években. Társadalomföldrajz K8 — határmenti konfliktusok és életmód.",
+      "factsAdvanced": [
+        "A történelmi Zarmaganda régió központja a mali határnál.",
+        "A zord, sziklás talaj miatt a köles az egyetlen biztos termény.",
+        "Fontos szerepe van a Mali felé irányuló tranzitforgalomban.",
+        "A zarma népcsoport egyik legősibb települése a térségben.",
+        "Az elmúlt években jelentős biztonsági kihívásokkal küzdött.",
+        "Építészete erődített, zárt udvaros családi házakból áll."
+      ]
+    },
+    {
+      "id": "ngourti-cities-v2",
+      "descriptionAdvanced": "Ngourti a hatalmas Diffa régió legelszigeteltebb és legészakibb közigazgatási központja. A város a homokdűnék tengerében fekszik, ahol a tubu és toubou nomád törzsek uralják a tájat. A terület fontossága drasztikusan megnőtt az Agadem olajmező felfedezésével, amely jelentős befektetéseket és modern infrastruktúrát hozott ebbe az ősi, sivatagi környezetbe. Földrajz K8 — kőolaj-kitermelés a sivatagban.",
+      "factsAdvanced": [
+        "A Diffa régió legészakibb, sivatagi közigazgatási pontja.",
+        "A tubu nomád törzsek történelmi központja a régióban.",
+        "A közelben felfedezett Agadem olajmező átalakította a gazdaságát.",
+        "Extrém szárazság és hatalmas homokdűnék jellemzik a tájat.",
+        "Az ivóvizet több száz méter mély kutakból nyerik.",
+        "Az olajipar új utakat és modern technológiát hozott a térségbe."
+      ]
+    },
+    {
+      "id": "tassara-cities-v2",
+      "descriptionAdvanced": "Tassara egy újonnan fejlődő nomád város a Tahoua régió északi részén, amely kifejezetten a nomád lakosság letelepedésének elősegítésére jött létre. A város célja, hogy oktatási, egészségügyi és közigazgatási szolgáltatásokat nyújtson a vándorló arab és tuareg törzseknek. A település küzd a sivatagi környezet jelentette infrastrukturális nehézségekkel, de fontos kapocs a nomádok és az állam között. Társadalomtudomány K7 — nomádok letelepedési programjai.",
+      "factsAdvanced": [
+        "Fiatal település, amelyet a nomádok integrálására alapítottak.",
+        "Alapvető oktatási és egészségügyi szolgáltatásokat nyújt a pásztoroknak.",
+        "Az arab és tuareg vándorló törzsek találkozási pontja.",
+        "A szavanna és a Ténéré sivatag átmeneti határán található.",
+        "Gazdasága a regionális állatpiacra és az államigazgatásra épül.",
+        "Jelentős erőfeszítéseket tesznek a kutak fúrására és karbantartására."
+      ]
+    },
+    {
+      "id": "bankilare-cities-v2",
+      "descriptionAdvanced": "Bankilaré a Tillabéri régió egyik nyugati végpontja, amely a Liptako-Gourma térségben található, közvetlenül a Burkina Fasó-i határnál. A város lakossága meglehetősen sokszínű: tuaregek, songhaiok és fulanik élnek itt együtt. A gazdaság a helyi aranyásásra és a határon átnyúló állatkereskedelemre támaszkodik, miközben a település próbálja fenntartani a hagyományos életmódot a modern geopolitikai feszültségek közepette. Földrajz K8 — kézműves aranybányászat Afrikában.",
+      "factsAdvanced": [
+        "A hármashatár régió (Liptako-Gourma) közelében található.",
+        "Jelentős a hagyományos, kézműves aranyásás a környéken.",
+        "Etnikailag rendkívül sokszínű (tuareg, songhai, fulani).",
+        "Az állatkereskedelem Burkina Faso felé kiemelt fontosságú.",
+        "Elszigetelt fekvése miatt az infrastruktúra fejlesztésre szorul.",
+        "A helyi heti piac az egyik legnagyobb a térségben."
+      ]
+    },
+    {
+      "id": "tillia-cities-v2",
+      "descriptionAdvanced": "Tillia egy forró, sivatagi falu Tahoua régió északi határán, amely a tuareg kultúra egyik legautentikusabb őrzője. A város hatalmas wadi-rendszerek (kiszáradt folyómedrek) mentén épült, amelyek az esős évszakban zöld legelőkké változnak, vonzva a pásztorokat. Tillia arról is ismert, hogy a hagyományos tuareg teveversenyek és fesztiválok fontos állomása az északi területeken. Történelem K6 — tuareg kultúra és hagyományok.",
+      "factsAdvanced": [
+        "Tahoua régió egyik legészakibb közigazgatási települése.",
+        "Hatalmas wadi-rendszerek (száraz völgyek) veszik körül.",
+        "A hagyományos tuareg teveversenyek kedvelt helyszíne.",
+        "Kizárólag az extenzív, nomád tevetenyésztésből tartja fenn magát.",
+        "Társadalmi élete szorosan kötődik az esős évszak ritmusához.",
+        "A helyi kézművesség, főként a bőr- és fegyverművesség kiemelkedő."
+      ]
+    },
+    {
+      "id": "belbedji-cities-v2",
+      "descriptionAdvanced": "Belbédji egy tipikus száheli város, amely Zinder régió nyugati határán fekszik, és a nomád pásztorok, valamint a letelepedett haúsza földművesek békés együttélésének szimbóluma. A város gazdasága a földimogyoró, a köles és a szarvasmarha-kereskedelem kényes egyensúlyán nyugszik. Kiterjedt heti piacán mindkét életmód termékei gazdát cserélnek, így Belbédji kulcsszerepet játszik a régió élelmiszerellátásában. Társadalomtudomány K7 — agrár- és nomád gazdaságok szimbiózisa.",
+      "factsAdvanced": [
+        "A haúsza földművesek és a nomád pásztorok találkozási pontja.",
+        "Jelentős kereskedelmi csomópont a köles és a szarvasmarha számára.",
+        "Zinder régió nyugati határvidékén, átmeneti övezetben fekszik.",
+        "Élénk heti piaca az egész környék gazdasági motorja.",
+        "Építészete egyszerű, lapos tetős agyagházakból áll.",
+        "A vízgazdálkodás kritikus a város túlélése szempontjából."
+      ]
+    },
+    {
+      "id": "iferouane-cities-v2",
+      "descriptionAdvanced": "Iférouane egy lenyűgöző oázisváros, amely az Air-hegység északi részének völgyeiben rejtőzik. A település a tuareg kultúra bölcsője, amely zöldellő pálmaligeteivel és termékeny kertjeivel földi paradicsomot alkot a zord hegyek között. A város híres az évente megrendezett \"Air Fesztiválról\", ahol a sivatagi zene, a költészet és a tevék versenyeznek. A térség turisztikai szempontból is kiemelkedő. Földrajz K8 — hegyvidéki oázisok a Szaharában.",
+      "factsAdvanced": [
+        "Az Air-hegység északi részének legnagyobb oázisa.",
+        "Rendkívül termékeny kertekkel és pálmaligetekkel rendelkezik.",
+        "Házigazdája az évente megrendezett híres Air kulturális Fesztiválnak.",
+        "A hagyományos tuareg zene (assouf) és művészet központja.",
+        "Gazdasága a turizmusra, datolyára és a kézművességre épül.",
+        "Lélegzetelállító vulkanikus hegycsúcsok veszik körül."
+      ]
+    },
+    {
+      "id": "bilma-cities-v2",
+      "descriptionAdvanced": "Bilma a Ténéré sivatag keleti peremén fekvő legendás oázis, amely évszázadok óta a szaharai sókereskedelem szíve. A város ősi sólepárló medencéiből (kawar) fejtik ki a sót, amelyet a híres Azalai tevekaravánok szállítanak Agadez és Dél-Niger felé. A települést datolyapálmák sűrű erdeje védi a folyamatosan vándorló homokdűnéktől. Bilma a szaharai túlélés és alkalmazkodás lenyűgöző példája. Történelem K8 — az Azalai sókaravánok.",
+      "factsAdvanced": [
+        "A Ténéré sivatag egyik legismertebb és legelzártabb oázisa.",
+        "Évszázadok óta az afrikai sókitermelés (natron és asztali só) központja.",
+        "A híres Azalai tevekaravánok végállomása és indulási pontja.",
+        "Hatalmas pálmaliget védi a települést a homokviharoktól.",
+        "Lakossága a kanuri és toubou (tubu) népcsoportokból áll.",
+        "Történelmileg az iszlám kereskedők fontos szaharai bázisa."
+      ]
+    },
+    {
+      "id": "fachi-cities-v2",
+      "descriptionAdvanced": "Fachi egy apró, fallal körülvett erőd-oázis a Ténéré sivatag közepén, úton Agadez és Bilma között. A települést egy ősi agyagerődítmény, a \"ksar\" védi, amely történelmileg menedéket nyújtott a lakosoknak a sivatagi rablókkal szemben. A város lakói kizárólag a sószállításra megálló karavánok kiszolgálásából és a datolyatermesztésből élnek a Föld egyik legszélsőségesebb éghajlatú pontján. Földrajz K7 — erődített oázisok és túlélés.",
+      "factsAdvanced": [
+        "Elszigetelt oázis az Agadez és Bilma közötti karavánúton.",
+        "Egyedülálló, ősrégi agyagerődítmény (ksar) található a központjában.",
+        "Lakossága kizárólag a sókaravánok kiszolgálásából tartja fenn magát.",
+        "Kizárólag a kanuri és toubou nyelvjárásokat beszélik.",
+        "A világ egyik legforróbb és legszárazabb klímájú települése.",
+        "A magas homokdűnék miatt közúton rendkívül nehezen megközelíthető."
+      ]
+    },
+    {
+      "id": "dirkou-cities-v2",
+      "descriptionAdvanced": "Dirkou a Kawar-völgy északi végvárának számító stratégiai oázisváros, amely ma az észak-afrikai migrációs útvonalak és a csempészutak egyik legfontosabb csomópontja. A történelmi só- és datolyakereskedelmet mára nagyrészt felváltotta a tranzitforgalom kiszolgálása és a Líbia felé tartó utazók támogatása. A városban jelentős katonai jelenlét biztosítja az ország északi határainak védelmét. Társadalomföldrajz K8 — transzszaharai migráció.",
+      "factsAdvanced": [
+        "A Kawar-oázisrendszer legészakibb, kulcsfontosságú települése.",
+        "A Líbia felé tartó modern transzszaharai migráció csomópontja.",
+        "Kiemelkedő katonai bázissal rendelkezik az északi határ védelmére.",
+        "Történelmileg fontos oázis volt a só- és rabszolgakereskedelemben.",
+        "Gazdasága a tranzitutasok és kamionosok kiszolgálására épül.",
+        "Klímahajlatát állandó, erős sivatagi szelek és hőség jellemzik."
+      ]
+    },
+    {
+      "id": "ingall-cities-v2",
+      "descriptionAdvanced": "In-Gall az Agadez régió történelmi települése, amely különleges agyagépítészetéről és az évente megrendezett \"Cure Salée\" (Sós Kúra) fesztiválról világhírű. Szeptemberben több ezer tuareg és wodaabe nomád érkezik ide, hogy állataikat a helyi ásványi anyagokban gazdag forrásoknál megitassák. A város egyúttal a szaharai iszlám tudományosság egyik korai bázisa is volt, régi mecsetjének minaretje messziről kimagaslik. Történelem K7 — nomád hagyományok és ünnepek.",
+      "factsAdvanced": [
+        "Világhírű a Cure Salée (Sós Kúra) nomád fesztivál házigazdájaként.",
+        "Az állatok számára elengedhetetlen ásványi források találhatók itt.",
+        "Jellegzetes, ősi szaharai agyagépítészettel rendelkezik.",
+        "Egykor fontos szaharai iszlám tudományos és oktatási központ volt.",
+        "A wodaabe és tuareg kultúrák békés találkozóhelye.",
+        "Az oázisban minőségi datolyát és sót termelnek."
+      ]
+    }
+  ]
+}

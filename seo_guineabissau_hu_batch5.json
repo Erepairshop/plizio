@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "farim-historic-town-history-v2",
+      "descriptionAdvanced": "Farim történelmi óvárosa a Cacheu-folyó északi partján található, és a 17. századi portugál folyami terjeszkedés egyik kulcsfontosságú állomása volt. A várost 1641-ben alapították, hogy biztosítsák a belső területekről származó rabszolgák és javak (méhviasz, elefántcsont) folyamatos áramlását a tengerpart felé. A település arculatát a 20. század elején a libanoni és szír kereskedők határozták meg, akiknek boltjai és lakóházai ma is állnak a főtéren, bár erősen romos állapotban. A függetlenségi háború alatt Farim egy erősen védett portugál katonai támaszpont volt. Az óváros omladozó épületei és a folyó közelsége egy melankolikus, letűnt kort idéznek. Történelem K8 — gyarmati kereskedővárosok.",
+      "factsAdvanced": [
+        "1641-ben alapították a portugálok a Cacheu-folyó mentén.",
+        "A belső területek áruinak és rabszolgáinak fontos gyűjtőhelye volt.",
+        "A 20. század elején jelentős libanoni és szír kereskedőkolónia élt itt.",
+        "A történelmi főtéren máig állnak a régi kereskedőházak romjai.",
+        "A függetlenségi harcok alatt fontos portugál támaszpontként szolgált.",
+        "Építészeti öröksége erősen pusztul, kevés a felújítás."
+      ]
+    },
+    {
+      "id": "fulacunda-ruins-history-v2",
+      "descriptionAdvanced": "Fulacunda történelmi romjai a Quinara régióban, sűrű trópusi erdők és mangrovék ölelésében találhatók. Ezek a romok egy egykor virágzó portugál gyarmati adminisztratív központ maradványai, amelyet a 20. század közepén építettek a helyi pálmaolaj-termelés és a földimogyoró-kereskedelem felügyeletére. A függetlenségi háború kitörésekor, 1963-ban a PAIGC gerillái hamar elfoglalták a területet, a portugálok pedig kénytelenek voltak kiüríteni a bázist. Azóta az épületek nagy részét visszafoglalta a természet. A romokat benövő indák és gyökerek között sétálva a látogató bepillantást nyerhet a gyarmati birodalom gyors és végleges összeomlásába Bissau-Guineában. Történelem K7 — gyarmati települések hanyatlása.",
+      "factsAdvanced": [
+        "A Quinara régió egykori fontos közigazgatási központjának maradványai.",
+        "Az épületeket a PAIGC előrenyomulása miatt a 60-as években hagyták el.",
+        "A helyszínt ma szinte teljesen benőtte a trópusi növényzet.",
+        "A romok között egykori raktárak és katonai barakkok azonosíthatók.",
+        "A helyiek számára a romok a gyarmatosítás végleges lezárultát jelképezik.",
+        "Turisztikai potenciálja jelentős az ökoturizmus és a történelem iránt érdeklődők körében."
+      ]
+    },
+    {
+      "id": "buba-historic-port-history-v2",
+      "descriptionAdvanced": "A történelmi bubai kikötő a Rio Grande de Buba mély, tölcséres torkolatában fekszik. Bár ma csendes és jórészt kihalt, a 19. század végén és a 20. század elején ez volt Dél-Bissau-Guinea legfontosabb tengeri kapuja. A portugálok itt rakták hajóra a Cantanhez erdőkből származó fát és a környékbeli ültetvények terményeit. A történelmi dokkok fa- és kőmaradványai máig láthatók az iszapos parton. A kikötő hanyatlása akkor kezdődött, amikor a szárazföldi úthálózat fejlődésével és Bissau kikötőjének központosításával a teherforgalom északra tolódott. A helyszín ma már csak egy csendes emlékeztető a folyami gőzhajók aranykorára. Történelem K7 — kikötői infrastruktúra története.",
+      "factsAdvanced": [
+        "A Rio Grande de Buba torkolatában található régi folyami kikötő.",
+        "A 19. és 20. században a délvidék legfontosabb logisztikai pontja volt.",
+        "Főként faanyagot és mezőgazdasági terményeket exportáltak innen.",
+        "A szárazföldi utak fejlődésével és Bissau térnyerésével veszített jelentőségéből.",
+        "A történelmi mólók kő- és famaradványai ma is megfigyelhetők.",
+        "Csendes, elhagyatott környezete népszerű a fotósok körében."
+      ]
+    },
+    {
+      "id": "catio-historical-center-history-v2",
+      "descriptionAdvanced": "Catió történelmi központja mélyen a Tombali régió déli erdeiben fekszik. A várost a portugálok stratégiai helyőrségként és adminisztratív központként építették ki a 20. század elején, hogy ellenőrizzék a lázadó déli törzseket és a határon átnyúló kereskedelmet. Az egykori kormányzói hivatal és a katonai barakkok vörös téglás, árkádos épületei ma is meghatározzák a központ arculatát, bár legtöbbjük felújításra szorul. Catió jelentősége a függetlenségi háborúban csúcsosodott ki, amikor a portugál csapatok egyike utolsó déli bástyájaként funkcionált, miközben a várost a PAIGC gerillái teljesen körbekerítették. Történelem K8 — gyarmati városépítészet és katonai helyőrségek.",
+      "factsAdvanced": [
+        "A Tombali régió közigazgatási és történelmi központja.",
+        "A 20. század elején épült portugál helyőrségként és hivatalként.",
+        "Az építészetet a vörös tégla és az árkádos, teraszos kialakítás jellemzi.",
+        "A függetlenségi háborúban a portugálok egyik utolsó, bekerített déli bástyája volt.",
+        "Az egykori kormányzói épület ma a helyi önkormányzatnak ad otthont.",
+        "Az elszigeteltség miatt a történelmi épületek eredeti formájukban maradtak fenn."
+      ]
+    },
+    {
+      "id": "lino-correia-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Lino Correia Stadion Bissau belvárosában található, és az ország egyik legfontosabb sport- és kulturális létesítménye. A körülbelül 12 000 néző befogadására alkalmas stadion nevét Lino Correia-ról, a függetlenségi harcok egyik legendás mártírjáról kapta. Az aréna nem csupán a helyi bajnoki labdarúgó-mérkőzések otthona, hanem hatalmas politikai gyűlések, koncertek és függetlenség-napi ünnepségek helyszíne is. A lelátókról nagyszerű kilátás nyílik a nyüzsgő városra. Bár az infrastruktúra kissé elavult, a stadion atmoszférája a mérkőzések napján hihetetlenül energikus és szenvedélyes. Társadalomismeret K7 — sport és közösség.",
+      "factsAdvanced": [
+        "Bissau központjában elhelyezkedő többfunkciós stadion.",
+        "Befogadóképessége körülbelül 12 000 fő.",
+        "Nevét a PAIGC egyik híres mártírjáról, Lino Correia-ról kapta.",
+        "A helyi futballbajnokságok és politikai nagygyűlések fő helyszíne.",
+        "A függetlenség-napi katonai és civil parádék központja.",
+        "A guineai labdarúgó-kultúra és rajongás szimbolikus helye."
+      ]
+    },
+    {
+      "id": "presidential-palace-bissau-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Elnöki Palota (Palácio Presidencial) az ország legfőbb politikai szimbóluma, amely a Praça dos Heróis Nacionais (Nemzeti Hősök Tere) egyik oldalán magasodik. A grandiózus, neoklasszicista stílusú épület eredetileg a portugál gyarmati kormányzó rezidenciája volt. Az épület súlyos károkat szenvedett az 1998-99-es pusztító polgárháború során, amikor szinte teljesen kiégett. A 2010-es évek elején a kínai kormány nagyszabású pénzügyi és technikai segítségével építették újjá, így ma ismét teljes pompájában ragyog. Hófehér falai és elegáns oszlopcsarnoka éles kontrasztot alkotnak a város forgatagával. Állampolgári ismeretek K8 — állami jelképek és hatalmi központok.",
+      "factsAdvanced": [
+        "A Nemzeti Hősök Terén (Praça dos Heróis Nacionais) található Bissauban.",
+        "Eredetileg a portugál gyarmati kormányzók hivatalos rezidenciája volt.",
+        "Az 1998-99-es polgárháborúban az épület szinte teljesen megsemmisült.",
+        "Kínai állami támogatással és kivitelezéssel építették újjá a 2010-es években.",
+        "Hófehér, neoklasszicista stílusú, oszlopos főhomlokzattal rendelkezik.",
+        "A mindenkori bissau-guineai elnök hivatala és ceremoniális központja."
+      ]
+    },
+    {
+      "id": "colinas-de-boe-palace-landmarks-v2",
+      "descriptionAdvanced": "A Colinas de Boé Palota (Palácio das Colinas de Boé) a Nemzeti Népgyűlés, azaz a bissau-guineai parlament székhelye a fővárosban. Nevét az ország történelmi bölcsőjéről, a Boé-hegységről kapta, ahol 1973-ban kikiáltották a függetlenséget. A modern, masszív épületkomplexum jól tükrözi a 20. század végi intézményi építészet stílusát, hangsúlyozva az állami hatalom stabilitását. A parlament falai között heves és gyakran fordulatos politikai viták zajlanak, mivel az ország politikai élete az elmúlt évtizedekben meglehetősen instabil volt. A palota a törvényhozás és a demokratikus törekvések szimbóluma a helyiek számára. Állampolgári ismeretek K8 — parlamentarizmus és törvényhozás.",
+      "factsAdvanced": [
+        "A bissau-guineai Nemzeti Népgyűlés (parlament) hivatalos székhelye.",
+        "Nevét a történelmi Boé-hegységről (Colinas de Boé) kapta.",
+        "A modern afrikai intézményi építészet példája Bissau városában.",
+        "Az ország gyakran viharos politikai életének és vitáinak központja.",
+        "Az épület előtt rendszeresek a békés politikai demonstrációk.",
+        "A demokratikus hatalomgyakorlás és a törvényhozás szimbóluma."
+      ]
+    },
+    {
+      "id": "central-market-bissau-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Központi Piac (Mercado Central vagy Mercado de Bandim) az ország kereskedelmi ütőere és a mindennapi élet legnyüzsgőbb helyszíne. A hatalmas, több háztömböt elfoglaló labirintusban szinte minden kapható: friss hal a partról, füstölt rák, helyi zöldségek, színes nyugat-afrikai textíliák (panos), hagyományos gyógynövények és modern elektronikai cikkek. A piac nemcsak kereskedelmi, hanem társadalmi központ is, ahol a pletykák és a politikai hírek gyorsabban terjednek, mint a rádióban. A fojtogató hőség, a fűszerek illata és a folyamatos alkudozás hangzavara egyedülálló, intenzív afrikai élményt nyújt. Társadalomföldrajz K6 — városi piacok és kereskedelem.",
+      "factsAdvanced": [
+        "Bissau-Guinea legnagyobb és legforgalmasabb kiskereskedelmi piaca.",
+        "Az élelmiszerektől a kézműves termékeken át az elektronikáig minden kapható.",
+        "Hagyományos afrikai textíliák (pl. 'pano de pinti') fontos lelőhelye.",
+        "Az árak nincsenek rögzítve, az alkudozás a vásárlás szerves része.",
+        "A főváros társadalmi életének és információcseréjének központja.",
+        "A higiéniai és infrastrukturális feltételek (pl. tetők, csatornázás) sokszor hiányosak."
+      ]
+    },
+    {
+      "id": "bceao-building-bissau-landmarks-v2",
+      "descriptionAdvanced": "A Nyugat-afrikai Államok Központi Bankjának (BCEAO) bissaui központja a főváros egyik legmagasabb és legmodernebb épülete. Ez az impozáns toronyház a városkép egyik meghatározó eleme, amely a Praça dos Heróis Nacionais közelében emelkedik. Az épület szimbolizálja az ország pénzügyi integrációját a Nyugat-afrikai Gazdasági és Monetáris Unióba (UEMOA), és a CFA frank használatát. Szigorú biztonsági intézkedések védik, építészeti stílusa pedig a modern afrikai brutalizmus és az üveg-acél konstrukciók ötvözete. A BCEAO tornya éles kontrasztot alkot Bissau többnyire alacsony, gyakran romos gyarmati épületeivel. Gazdaságföldrajz K8 — monetáris uniók Afrikában.",
+      "factsAdvanced": [
+        "A Nyugat-afrikai Államok Központi Bankjának (BCEAO) nemzeti központja.",
+        "Bissau egyik legmagasabb és legkorszerűbb toronyháza.",
+        "A CFA frank pénzügyi stabilitásának és az UEMOA tagságnak a szimbóluma.",
+        "Modern üveg és beton építészeti megoldások jellemzik.",
+        "A Nemzeti Hősök Tere (Praça dos Heróis Nacionais) közelében áll.",
+        "Szigorúan őrzött terület, a város pénzügyi negyedének szíve."
+      ]
+    },
+    {
+      "id": "simao-mendes-hospital-landmarks-v2",
+      "descriptionAdvanced": "A Simão Mendes Nemzeti Kórház (Hospital Nacional Simão Mendes) Bissau-Guinea legnagyobb és legfontosabb állami egészségügyi intézménye, amely Bissauban található. Nevét a függetlenségi háború egyik kiemelkedő hőséről, Simão Mendesről kapta. A kórház a legösszetettebb orvosi eseteket látja el az egész országból, bár felszereltsége és a gyógyszerellátás gyakran hiányos. Az intézmény számos nemzetközi segélyszervezet és külföldi orvoscsoport (többek között kubai és portugál missziók) támogatásával működik. Az épületegyüttes kiterjedt, de az infrastruktúra folyamatos felújításra és modernizációra szorul. Társadalomismeret K8 — közegészségügyi kihívások a fejlődő országokban.",
+      "factsAdvanced": [
+        "Bissau-Guinea legnagyobb kapacitású, központi állami kórháza.",
+        "Nevét Simão Mendesről, a PAIGC egyik híres harcosáról kapta.",
+        "Az ország legmagasabb szintű, speciális ellátást nyújtó egészségügyi intézménye.",
+        "Gyakran küzd krónikus gyógyszer- és eszközhiánnyal.",
+        "Számos nemzetközi egészségügyi misszió (pl. kubai orvosok) dolgozik itt.",
+        "A fővárosi lakosság és a vidékről érkező súlyos betegek fő ellátója."
+      ]
+    },
+    {
+      "id": "ilheu-do-rei-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Az Ilhéu do Rei világítótorony egy apró, jórészt lakatlan szigeten (Király-sziget) áll, közvetlenül Bissau kikötőjének bejáratánál, a Geba-folyó tölcsértorkolatában. A történelmi, 20. század elején épült világítótorony kulcsfontosságú szerepet játszott abban, hogy a tengeri hajókat biztonságosan vezesse át az iszapos, változó mélységű torkolatvidéken a főváros kikötőjébe. Maga a sziget egykor egy kis gyarmati helyőrségnek és börtönnek is otthont adott. Ma a világítótorony környékét sűrű bozót és mangrovék nőtték be, a torony fénye pedig már modern, napelemes technológiával működik. Földrajz K6 — partmenti navigáció és torkolatok.",
+      "factsAdvanced": [
+        "A Geba-folyó tölcsértorkolatában, az Ilhéu do Rei szigeten található.",
+        "A 20. század elején épült a Bissau-ba tartó hajóforgalom biztosítására.",
+        "A sziget a gyarmati időkben börtönként és karanténállomásként is szolgált.",
+        "Navigációs szempontból ma is elengedhetetlen a sekély vizek miatt.",
+        "Modernizálták, jelenleg napelemes rendszerről üzemel.",
+        "A főváros partjairól tiszta időben jól látható."
+      ]
+    },
+    {
+      "id": "stadium-24-september-landmarks-v2",
+      "descriptionAdvanced": "A Szeptember 24. Nemzeti Stadion (Estádio Nacional 24 de Setembro) Bissau-Guinea legnagyobb és legfontosabb sportarénája, amely a fővárosban található. A mintegy 20 000 néző befogadására alkalmas létesítmény nevét az ország függetlenségének kikiáltásának napjáról (1973. szeptember 24.) kapta. A stadion a nemzeti labdarúgó-válogatott, a 'Djurtus' (Hiénakutyák) hivatalos otthona. A lelátók a nemzetközi mérkőzések alkalmával zsúfolásig megtelnek, a hangulatot pedig dobok, énekek és hihetetlen nemzeti büszkeség jellemzi. A stadiont az elmúlt években kínai támogatással újították fel, modern műfüves borítást és világítást kapott. Társadalomismeret K7 — a sport nemzetépítő szerepe.",
+      "factsAdvanced": [
+        "Az ország legnagyobb sportlétesítménye, befogadóképessége kb. 20 000 fő.",
+        "A 'Djurtus' nevű bissau-guineai nemzeti labdarúgó-válogatott otthona.",
+        "Nevét a függetlenség kikiáltásának dátumáról kapta (1973. szept. 24.).",
+        "A 2010-es években kínai segítséggel nagyszabású felújításon esett át.",
+        "Nemzetközi FIFA-mérkőzések és atlétikai versenyek helyszíne.",
+        "A sportesemények mellett nagy tömegeket vonzó koncerteknek is otthont ad."
+      ]
+    },
+    {
+      "id": "french-cultural-center-bissau-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Francia Kulturális Központ (Centro Cultural Franco-Bissau-Guineense) a város szellemi és művészeti életének egyik legfontosabb csomópontja. Bár Bissau-Guinea portugál nyelvű ország, a teljesen frankofón környezet (Szenegál és Guinea) miatt a francia nyelv és kultúra befolyása hatalmas. A központ lenyűgöző gyarmati épületben kapott helyet, amely egy kiterjedt könyvtárat, egy kiállítótermet és egy szabadtéri színpadot foglal magában. Rendszeresen szerveznek itt filmvetítéseket, afrikai zenei koncerteket, képzőművészeti kiállításokat és nyelvtanfolyamokat. Az intézmény fontos találkozóhelye a helyi értelmiségnek és a külföldi közösségnek egyaránt. Kulturális antropológia K8 — frankofón kulturális diplomácia.",
+      "factsAdvanced": [
+        "Bissau szellemi és kulturális életének egyik legaktívabb központja.",
+        "Egy szépen felújított, árkádos gyarmati épületben működik.",
+        "Az ország frankofón szomszédai miatt stratégiai kulturális szerepe van.",
+        "Rendszeres házigazdája helyi és nemzetközi zenei koncerteknek, kiállításoknak.",
+        "Jelentős könyvtárral és francia nyelvoktatási programmal rendelkezik.",
+        "Az afrikai és európai művészek közötti párbeszéd kiemelt színtere."
+      ]
+    },
+    {
+      "id": "amilcar-cabral-university-landmarks-v2",
+      "descriptionAdvanced": "Az Amílcar Cabral Egyetem (Universidade Amílcar Cabral, UAC) Bissau-Guinea egyetlen állami egyeteme és a nemzet felsőoktatásának csúcsa. Az intézményt 2003-ban alapították, és a függetlenségi mozgalom mártír vezetőjéről nevezték el. Az egyetem Bissau központjában található, és olyan kulcsfontosságú karokat foglal magában, mint az orvosi, a jogi és a bölcsészettudományi kar. Működését gyakran nehezítik az alulfinanszírozottság, a tanári sztrájkok és az infrastrukturális hiányosságok, de ennek ellenére a guineai fiatalok számára a társadalmi felemelkedés legfőbb eszköze. Számos külföldi egyetemmel ápol partneri viszonyt, főként Portugáliával és Brazíliával. Társadalomismeret K8 — felsőoktatás a fejlődő világban.",
+      "factsAdvanced": [
+        "Bissau-Guinea első és egyetlen állami felsőoktatási intézménye.",
+        "2003-ban alapították, nevét a nemzetalapító Amílcar Cabral-ról kapta.",
+        "A legnépszerűbb karok az orvosi, a jogi és az agrár-tudományi.",
+        "Működését gyakran nehezítik pénzügyi nehézségek és infrastrukturális hiányok.",
+        "Erős akadémiai kapcsolatokat ápol más portugál nyelvű országokkal (CPLP).",
+        "A helyi értelmiség képzésének legfontosabb bázisa."
+      ]
+    },
+    {
+      "id": "commercial-port-bissau-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Kereskedelmi Kikötő (Porto de Bissau vagy Porto Pidjiguiti) az ország gazdaságának szó szerinti értelemben vett kapuja, a Geba-folyó torkolatában. Bissau-Guinea nemzetközi kereskedelmének több mint 85%-a ezen a kikötőn halad keresztül. Innen exportálják a hatalmas mennyiségű kesudiót Ázsiába, és ide érkeznek a létfontosságú importcikkek, mint az üzemanyag, a rizs és az építőanyagok. A kikötőt a 2010-es években modernizálták, új konténerterminálokat és darukat telepítettek, bár a sekély folyómeder miatt a legnagyobb óceánjárók még mindig nem tudnak kikötni. A létesítmény környéke hatalmas forgalmat és logisztikai nyüzsgést generál a városban. Földrajz K8 — nemzetközi tengeri logisztika.",
+      "factsAdvanced": [
+        "Az ország legfontosabb nemzetközi kereskedelmi és konténerkikötője.",
+        "A nemzetközi áruforgalom (import/export) több mint 85%-át bonyolítja le.",
+        "Az ország fő exportcikkének, a kesudiónak a legfőbb kiindulópontja.",
+        "A Geba-folyó tölcsértorkolatában helyezkedik el.",
+        "A folyamatos mederkotrás elengedhetetlen a közepes teherhajók fogadásához.",
+        "A Pidjiguiti történelmi mészárlás emlékműve a kikötő szomszédságában áll."
+      ]
+    },
+    {
+      "id": "bubaque-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Bubaque világítótorony a Bijagós-szigetcsoport központi szigetének, Bubaque-nak a peremén emelkedik, és évtizedek óta szolgálja a szigetvilág veszélyes, zátonyokkal és erős árapállyal nehezített vizein navigáló hajósokat. Az egyszerű, henger alakú, fehérre festett építmény a gyarmati korszak navigációs hálózatának része volt. Ma már jórészt automatizált, de a torony és környéke a turisták egyik kedvenc kilátópontja, ahonnan lenyűgöző panoráma nyílik az Atlanti-óceánra és a szomszédos Rubane szigetre. A világítótorony lábánál gyakran látni hagyományos módszerekkel halászó bijagó embereket. Földrajz K6 — tengeri navigáció és zátonyok.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport legfontosabb turisztikai szigetén, Bubaque-on áll.",
+        "Létfontosságú a szigetvilág zátonyos, erős árapályú vizein történő navigációhoz.",
+        "A gyarmati éra alatt építették, ma már modern technikával működik.",
+        "Népszerű kilátópont, ahonnan látható a szomszédos Rubane sziget is.",
+        "Fehér, henger alakú kialakítása a klasszikus tengerészeti stílust követi.",
+        "Környezete fontos helyszíne a helyiek partmenti halászatának."
+      ]
+    },
+    {
+      "id": "bafata-bridge-landmarks-v2",
+      "descriptionAdvanced": "A bafatai Geba-híd (Ponte de Bafatá) Bissau-Guinea egyik legfontosabb infrastrukturális mérnöki alkotása. A Geba-folyót átívelő masszív vasszerkezet köti össze az ország keleti és északi régióit a fővárossal és a déli területekkel. Építése előtt a folyón való átkelés kizárólag komppal volt lehetséges, ami a monszun idején rendkívül veszélyes és lassú volt. A híd nemcsak gazdasági szempontból kulcsfontosságú (ezen keresztül érkezik a gabúi szarvasmarha és a pamut), hanem szimbolikusan is egyesíti a nemzetet. A híd pilléreinél az esős évszakban megfigyelhető a folyó drasztikus vízszint-emelkedése. Fizika K7 — hídépítés és statika.",
+      "factsAdvanced": [
+        "A Geba-folyón ível át Bafatá városánál.",
+        "Az ország egyik leghosszabb és legfontosabb közúti hídja.",
+        "Létfontosságú az ország keleti (Gabú) és nyugati részének összekötésében.",
+        "Megépítése megszüntette a lassú és veszélyes kompközlekedést a szakaszon.",
+        "Stratégiai fontosságú a mezőgazdasági termékek szállításában.",
+        "Az esős évszakban a folyó vízszintje akár több métert is emelkedik a pilléreknél."
+      ]
+    },
+    {
+      "id": "gabu-great-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Gabúi Nagymecset (Grande Mesquita de Gabú) Bissau-Guinea egyik leglenyűgözőbb és legfontosabb iszlám vallási épülete. A keleti régió, és különösen Gabú városa az iszlám hit fellegvára, főként a fula és mandinka lakosság révén. A mecset modern, tágas épülete magas minaretekkel és díszes zöld-fehér homlokzattal büszkélkedhet. Péntekenként (Jumu'ah) és a nagy vallási ünnepeken, mint az Eid al-Fitr, több ezer hívő imádkozik a mecsetben és az azt körülvevő hatalmas téren. A mecset nemcsak vallási, hanem fontos közösségi és oktatási központ is, ahol Korán-iskola (madrasza) működik. Vallástörténet K7 — az iszlám Nyugat-Afrikában.",
+      "factsAdvanced": [
+        "Bissau-Guinea keleti régiójának legnagyobb iszlám imahelye.",
+        "Gabú város központjában áll, magas minaretjei a városkép meghatározói.",
+        "A fula és mandinka muszlim közösség szellemi központja.",
+        "Homlokzata az iszlám hagyományos zöld és fehér színeiben pompázik.",
+        "A nagy ünnepekkor több ezer hívő gyűlik össze a környékéről.",
+        "Az épületkomplexumban tradicionális Korán-iskola (madrasza) is működik."
+      ]
+    },
+    {
+      "id": "gabu-catholic-church-landmarks-v2",
+      "descriptionAdvanced": "Gabú Katolikus Temploma (Igreja Católica de Gabú) egy visszafogott, mégis jelentős vallási épület a muzulmán többségű városban. A templom a gyarmati időkben épült a portugál adminisztráció és a keresztény kisebbség számára. Az egyszerű, fehérre meszelt, egyhajós épület egy kis harangtoronnyal rendelkezik. Jelenléte Gabú szívében kiváló példája a Bissau-Guineára oly jellemző vallási toleranciának és békés együttélésnek. Bár a gyülekezet kicsi — főként a déli régiókból (balanta, papel) származó betelepülőkből és külföldi dolgozókból áll —, a templom aktív közösségi életet él, és egy kis iskolát is fenntart. Társadalomismeret K7 — vallási tolerancia.",
+      "factsAdvanced": [
+        "Egy keresztény templom a túlnyomórészt muszlim Gabú városában.",
+        "A portugál gyarmati időszakban épült egyszerű, letisztult stílusban.",
+        "Bissau-Guinea kiemelkedő vallási toleranciájának egyik szimbóluma.",
+        "A gyülekezet főként belső migránsokból és külföldiekből áll.",
+        "A katolikus misszió szociális és oktatási munkát is végez a városban.",
+        "Fehér falaival és kis harangtornyával szerényen illeszkedik a városképbe."
+      ]
+    },
+    {
+      "id": "bissau-city-hall-landmarks-v2",
+      "descriptionAdvanced": "A bissaui Városháza (Câmara Municipal de Bissau) a főváros közigazgatásának központja, amely a nyüzsgő belvárosban, a kikötő közelében található. Az épület egy klasszikus, 20. század eleji portugál gyarmati épület, amelyet zsalugáteres ablakok, árkádos földszint és pasztellsárga homlokzat jellemez. Az önkormányzat innen irányítja a több mint félmilliós metropolisz mindennapi működését, beleértve a piacok szabályozását, a hulladékgazdálkodást és a városrendezést — ami a gyors és tervezetlen urbanizáció miatt hatalmas kihívás. Az épület előtti tér gyakran hivatalos ceremóniák és civil tiltakozások helyszíne. Állampolgári ismeretek K8 — önkormányzatiság és városvezetés.",
+      "factsAdvanced": [
+        "Bissau főváros önkormányzatának hivatalos székhelye.",
+        "Klasszikus 20. századi portugál gyarmati építészeti stílusban épült.",
+        "A történelmi belvárosban, a kikötő (Pidjiguiti) közelében helyezkedik el.",
+        "Felelős a gyorsan növekvő metropolisz városüzemeltetéséért.",
+        "Árkádos, pasztellsárga homlokzata a városkép egyik ikonikus eleme.",
+        "A polgármesteri hivatal gyakran küzd komoly infrastrukturális kihívásokkal."
+      ]
+    }
+  ]
+}

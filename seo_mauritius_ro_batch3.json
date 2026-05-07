@@ -1,0 +1,291 @@
+{
+  "lang": "ro",
+  "country": "mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "piton-de-la-petite-riviere-noire-relief-v2",
+      "descriptionAdvanced": "Piton de la Petite Rivière Noire este cel mai înalt punct din Mauritius, ridicându-se la 828 de metri deasupra Oceanului Indian. Vârful se află în inima Parcului Național Black River Gorges și este accesibil printr-un traseu de drumeție relativ ușor, dar cu porțiuni abrupte spre final. Mergând de-a lungul crestei, drumeții au parte de una dintre cele mai spectaculoase panorame din Mauritius: munții din nord, peninsula Le Morne la vest și lagunele turcoaz. Aproape de vârf, vegetația devine mai joasă și mai rezistentă, adaptată vânturilor puternice și precipitațiilor frecvente. Un mic scaun de odihnă și un marcaj cu culorile naționale ale Mauritius marchează punctul culminant al insulei. Geografie K7 — Relieful insular și etajarea altitudinală.",
+      "factsAdvanced": [
+        "Cel mai înalt vârf de pe insula Mauritius, cu o altitudine de 828 metri",
+        "Situat în zona protejată a Parcului Național Black River Gorges",
+        "Oferă o panoramă de 360 de grade asupra întregii insule",
+        "Traseul de drumeție dus-întors are o lungime de aproximativ 7 kilometri",
+        "Specii endemice de orhidee și arbori pot fi observate lângă vârf",
+        "În zilele senine, se poate vedea până la insula vecină Réunion",
+        "Numele se traduce din franceză prin 'Vârful Micuțului Râu Negru'",
+        "Un reper de piatră vopsit în culorile drapelului marchează vârful"
+      ]
+    },
+    {
+      "id": "pieter-both-relief-v2",
+      "descriptionAdvanced": "Muntele Pieter Both este unul dintre cei mai emblematici și ușor de recunoscut munți din Mauritius, făcând parte din lanțul muntos Moka. Numele său onorează primul Guvernator General al Companiei Olandeze a Indiilor de Est. Caracteristica unică a muntelui este uriașa rocă de bazalt rotundă situată pe vârf, care pare să se echilibreze precar pe creastă, semănând de la distanță cu un cap de om sau cu o coroană regală. Cu o înălțime de 820 de metri, este al doilea cel mai înalt vârf al insulei. Escaladarea sa necesită o pregătire fizică serioasă și cunoștințe tehnice de alpinism, în special pentru secțiunea finală de acces la 'cap'. Muntele este un simbol al alpinismului mauritian și un personaj central în legendele locale. Geografie K7 — Roci vulcanice și forme de eroziune.",
+      "factsAdvanced": [
+        "Al doilea cel mai înalt munte din Mauritius, având 820 metri",
+        "Vârful este dominat de o rocă de echilibru cu diametrul de 9 metri",
+        "Numit după guvernatorul olandez Pieter Both, naufragiat în apropiere",
+        "Silueta muntelui este vizibilă din majoritatea punctelor din Port Louis",
+        "Conform legendei locale, roca reprezintă un om transformat în piatră",
+        "Ascensiunea finală pe vârf este recomandată doar alpiniștilor experimentați",
+        "Adăpostește numeroase specii de plante rare, endemice pe versanți",
+        "Cârlige metalice fixe ajută la escaladarea ultimului segment abrupt"
+      ]
+    },
+    {
+      "id": "le-pouce-relief-v2",
+      "descriptionAdvanced": "Le Pouce, sau 'Muntele Hüvelykujj', este una dintre cele mai populare destinații de drumeție din Mauritius, ridicându-se între Port Louis și Moka. Numele său provine de la forma sa distinctivă, care seamănă cu un deget mare ridicat spre cer. Vârful de 812 metri este relativ ușor de accesat, fiind preferat și de drumeții începători. Vederea de pe vârf este inegalabilă: pe o parte se vede capitala Port Louis și portul său aglomerat, iar pe cealaltă parte platourile interioare ale insulei și muntele Pieter Both. O curiozitate istorică este faptul că în 1836, Charles Darwin a urcat pe acest munte în timpul călătoriei sale în jurul lumii. Deși spațiul pe vârf este limitat, panorama de 360 de grade merită orice efort. Istorie K8 — Călători și exploratori faimoși în Mauritius.",
+      "factsAdvanced": [
+        "Al treilea cel mai înalt vârf al insulei, cu o altitudine de 812 metri",
+        "Numele provine de la vârful de bazalt în formă de deget mare",
+        "Charles Darwin a escaladat muntele la data de 2 mai 1836",
+        "Traseul pornește din satul Moka și durează aproximativ 2 ore",
+        "În zilele senine, pot fi văzute toate insulele din nord (ex. Coin de Mire)",
+        "Creasta muntelui formează o barieră naturală pentru Port Louis",
+        "Este de origine vulcanică, format acum aproximativ 10-7 milioane de ani",
+        "Locație favorită pentru drumeții la răsărit printre tinerii localnici"
+      ]
+    },
+    {
+      "id": "trou-aux-cerfs-relief-v2",
+      "descriptionAdvanced": "Trou aux Cerfs este un crater vulcanic latent situat chiar în centrul orașului Curepipe, pe platoul central al insulei Mauritius. Craterul are un diametru de aproximativ 350 de metri și o adâncime de 80-85 de metri, având în mijloc un mic lac și o vegetație densă. Deși vulcanul nu a mai erupt de sute de mii de ani, geologii consideră că ar putea deveni activ oricând. Pe marginea craterului există o pistă de alergare și o alee asfaltată, fiind locul de recreere preferat al localnicilor. De pe margine se deschide o vedere excelentă spre munții Rempart, Trois Mamelles și, în zilele senine, chiar spre mare. Versanții interiori sunt abrupți și acoperiți de pini și alte plante tropicale. Geografie K5 — Forme vulcanice și cratere.",
+      "factsAdvanced": [
+        "Crater vulcanic latent situat în inima orașului Curepipe",
+        "Diametru de circa 350 metri și o adâncime de 85 metri",
+        "La baza craterului se află o zonă mlaștină și un mic lac",
+        "Ultima activitate vulcanică a avut loc acum 600-700 mii de ani",
+        "O alee circulară de 1,2 kilometri înconjoară marginea craterului",
+        "Oferă panorame superbe spre lanțurile muntoase din vest",
+        "Locație preferată pentru jogging matinal și viață comunitară",
+        "Din punct de vedere geologic, aparține celei de-a doua perioade vulcanice"
+      ]
+    },
+    {
+      "id": "chamarel-seven-coloured-earths-relief-v2",
+      "descriptionAdvanced": "Pământul celor Șapte Culori din Chamarel este una dintre cele mai deosebite minuni naturale ale Mauritius-ului. Această zonă relativ mică de dune ondulate strălucește în șapte culori distincte (roșu, maro, violet, verde, albastru, purpuriu și galben). Fenomenul a apărut în timpul transformării lavei bazaltice în minerale argiloase, unde diferiți oxizi metalici (fier și aluminiu) au colorat solul. O proprietate unică este că particulele de praf de culori diferite nu se amestecă niciodată permanent, modelul dungat restabilindu-se chiar și după ploi torențiale. Zona este îngrădită pentru protecția împotriva eroziunii, dar poate fi observată excelent de pe potecile amenajate. Geografie K5 — Alterarea rocilor și formarea solului.",
+      "factsAdvanced": [
+        "Dune erodate formate din cenușă vulcanică și bazalt",
+        "Cele șapte culori sunt rezultatul concentrațiilor de oxizi de fier și aluminiu",
+        "Straturile de sol colorat nu se amestecă niciodată pe cale naturală",
+        "Cunoscut ca obiectiv turistic major încă din anii 1960",
+        "Lângă dune se află și un țarc cu țestoase gigantice",
+        "Intensitatea culorilor este maximă în lumina răsăritului și a apusului",
+        "Geologic, se leagă de cea mai veche activitate vulcanică a insulei",
+        "La fața locului se pot cumpăra suveniruri cu nisip în șapte culori"
+      ]
+    },
+    {
+      "id": "grand-bassin-relief-v2",
+      "descriptionAdvanced": "Grand Bassin, cunoscut și sub numele de Ganga Talao, este un lac de crater sacru situat în zona montană izolată a districtului Savanne. Lacul s-a format în craterul unui vulcan stins, la aproximativ 550 de metri deasupra nivelului mării. Pentru comunitatea hindu din Mauritius, acesta este cel mai sfânt loc de pe insulă: legenda spune că apa lacului este conectată cu fluviul Gange din India. Pe malul lacului se află numeroase temple și sanctuare bogat decorate, precum și două statui monumentale (Shiva și Durga Maa), cele mai înalte monumente de pe insulă. Anual, sute de mii de pelerini vin aici pe jos în timpul sărbătorii Maha Shivaratri. Atmosfera locului este mistică, adesea învăluită în ceață. Vallásismeret K8 — Hinduismul și locurile de pelerinaj.",
+      "factsAdvanced": [
+        "Lac de crater sacru situat la 550 metri altitudine",
+        "Conform credinței hindu, apa lacului provine din fluviul Gange",
+        "Găzduiește statuia de 33 metri a lui Mangal Mahadev (Shiva)",
+        "Locația centrală pentru marea sărbătoare anuală Maha Shivaratri",
+        "Zona din jurul lacului este plină de pădure tropicală și maimuțe",
+        "Apa lacului este foarte adâncă, alimentată de izvoare vulcanice",
+        "Numeroase sanctuare mici și locuri de meditație mărginesc malul",
+        "Vizitatorii trebuie să respecte normele religioase (ex. descălțarea)"
+      ]
+    },
+    {
+      "id": "black-river-gorges-relief-v2",
+      "descriptionAdvanced": "Parcul Național Black River Gorges este cea mai mare și importantă arie protejată din Mauritius, întinzându-se pe peste 6500 de hectare în sud-vestul insulei. Parcul protejează ultimele păduri tropicale neatinse ale țării și chei spectaculoase. Aici trăiesc majoritatea speciilor de plante și animale endemice mauritiene, inclusiv rarul șoim de Mauritius și porumbelul roz. Parcul dispune de peste 60 de kilometri de trasee de drumeție care traversează văi adânci și păduri dese. Din numeroase puncte de belvedere, cum este Gorges Viewpoint, se deschide o vedere minunată spre adâncimile de sute de metri și spre oceanul din depărtare. Parcul este vital pentru gestionarea apei pe insulă. Természetismeret K7 — Parcuri naționale și specii periclitate.",
+      "factsAdvanced": [
+        "Fondat în 1994, acoperă o suprafață de peste 6500 de hectare",
+        "Adăpostește toate speciile de păsări endemice ale țării",
+        "Peste 300 de specii de plante native se găsesc pe teritoriul său",
+        "Include cascade spectaculoase, cum este cascada Alexandra",
+        "Traseele de drumeție au dificultăți variate, între 2 și 15 kilometri",
+        "Găzduiește cel mai înalt punct al insulei, Piton de la Petite Rivière Noire",
+        "Întreținerea parcului este susținută de organizații internaționale",
+        "Loc de cercetare crucial pentru experții în ecologie tropicală"
+      ]
+    },
+    {
+      "id": "le-morne-brabant-relief-v2",
+      "descriptionAdvanced": "Le Morne Brabant este un munte de bazalt monumental în extremitatea sud-vestică a Mauritius, care se ridică la 556 de metri deasupra mării. Muntele nu este doar o atracție geologică, ci are și o adâncă semnificație istorică: în secolele XVIII și XIX a fost un loc de refugiu pentru sclavii fugari (maroni), care găseau siguranță în peșterile inaccesibile și pe vârf. Din acest motiv, muntele a devenit un simbol universal al rezistenței împotriva sclaviei și al libertății, fiind inclus în lista Patrimoniului Mondial UNESCO în 2008. Laguna de la poalele muntelui este faimoasă în rândul surferilor, iar drumeția spre vârf oferă o experiență intensă, deși ultima porțiune este stâncoasă și expusă. Istorie K8 — Sclavia și rezistența în Mauritius.",
+      "factsAdvanced": [
+        "Sit al Patrimoniului Mondial UNESCO din 2008 ca monument al sclaviei",
+        "Vârful muntelui se află la 556 metri deasupra nivelului mării",
+        "Accesibil astăzi prin poteci marcate după ce a fost domeniu privat",
+        "Adăpostește plante endemice rare (ex. Trochetia boutoniana)",
+        "O cruce metalică mare pe vârf onorează memoria refugiaților",
+        "La poale se află fenomenul optic 'Underwater Waterfall'",
+        "Rocile bazaltice aparțin primei serii vulcanice a insulei",
+        "Numeroase peșteri de pe versanți au servit drept adăpost istoric"
+      ]
+    },
+    {
+      "id": "corps-de-garde-relief-v2",
+      "descriptionAdvanced": "Corps de Garde este un munte distinctiv, înalt de 720 de metri, situat în partea centrală a Mauritius, deasupra orașelor Beau Bassin și Rose Hill. Numele său provine din epoca colonială franceză, deoarece silueta sa amintește de la distanță de o santinelă sau un soldat care doarme la post. Muntele este de origine vulcanică, având pereți de bazalt abrupți care domină peisajul. Din punct de vedere biologic, este o zonă extrem de valoroasă, adăpostind numeroase specii de plante rare și endemice, cum ar fi o varietate de 'Trochetia' pe versanții stâncoși. Traseul spre vârf este abrupt și accidentat, dar panorama spre coasta de vest și spre interiorul insulei este spectaculoasă. Természetismeret K7 — Munții locali și flora endemică.",
+      "factsAdvanced": [
+        "Înălțimea muntelui este de 720 metri, parte a lanțului Moka",
+        "Numele se traduce din franceză prin 'Garda' sau 'Corpul de Gardă'",
+        "Silueta seamănă cu un bărbat culcat, supranumit 'soldatul adormit'",
+        "Rezervație naturală pentru protejarea speciilor de plante rare",
+        "Traseul pornește din Stanley și durează aproximativ 3-4 ore",
+        "Format din bazalt vulcanic vechi de 10-7 milioane de ani",
+        "De pe vârf se văd clar Ebène Cybercity și sudul Port Louis",
+        "La poale se găsesc importante rezervoare de apă și canale"
+      ]
+    },
+    {
+      "id": "signal-mountain-relief-v2",
+      "descriptionAdvanced": "Muntele Signal este un deal înalt de 323 de metri situat chiar deasupra capitalei Port Louis. Numele său provine din rolul său istoric: în secolele XVIII și XIX, orașul și portul erau anunțate de aici prin semnale cu steaguri despre navele care se apropiau. Astăzi, vârful este acoperit de numeroase antene de telecomunicații și radio, dar rămâne una dintre cele mai populare destinații de excursie. Un drum asfaltat confortabil duce spre vârf, fiind folosit zilnic de localnici pentru jogging și plimbare. Vederea de pe vârf este uluitoare: se vede întregul port din Port Louis, clădirile moderne de birouri și, în depărtare, munții înconjurători și oceanul. Este cel mai frumos la apus. Istorie K7 — Comunicarea în era pre-radio.",
+      "factsAdvanced": [
+        "Înălțime de 323 metri, situat adiacent capitalei Port Louis",
+        "A funcționat istoric ca stație de semnalizare pentru traficul maritim",
+        "Drumul spre vârf este complet asfaltat, accesibil doar pietonal",
+        "Găzduiește antenele principalelor posturi TV și radio din Mauritius",
+        "Locație favorită a localnicilor pentru alergare și antrenament de seară",
+        "Punct fotografic excelent pentru panorama urbană a capitalei",
+        "Pot fi văzute resturi ale vechiului sistem de semnalizare pe versant",
+        "Reprezintă extremitatea vestică a lanțului muntos 'Le Pouce'"
+      ]
+    },
+    {
+      "id": "bras-deau-forest-relief-v2",
+      "descriptionAdvanced": "Parcul Național Bras d'Eau este situat în partea de est a Mauritius și este una dintre puținele păduri uscate rămase în țară. Particularitatea acestei arii de 497 de hectare este că nu se află pe munți vulcanici, ci pe un câmp de lavă relativ plat. Parcul a primit numele de la fostul domeniu de zahăr și oferă astăzi un refugiu important pentru numeroase specii de păsări endemice, cum ar fi muscarul de paradis mauritian. De-a lungul potecilor tematice amenajate în pădure pot fi văzute ruine de zahăr vechi, fundații de case și ferigi deosebite. Parcul include și un centru pentru vizitatori pentru cunoașterea istoriei pădurii. Természetismeret K7 — Pădurile de câmpie și biodiversitatea.",
+      "factsAdvanced": [
+        "Declarat parc național în 2011, cu o suprafață de 497 hectare",
+        "Una dintre ultimele păduri uscate naturale rămase pe insulă",
+        "Adăpostește una dintre cele mai mari populații de muscar de paradis",
+        "Ruinele vechilor plantații de trestie sunt vizibile în parc",
+        "Fenomene carstice și peșteri de lavă se găsesc pe teritoriu",
+        "Pădurea conține multe specii invazive, cum este guava chinezească",
+        "Include o zonă de mlaștină (mare) care atrage păsările de apă",
+        "Potecile amenajate sunt ușor de parcurs chiar și cu copii mici"
+      ]
+    },
+    {
+      "id": "macchabee-forest-relief-v2",
+      "descriptionAdvanced": "Pădurea Macchabée este cea mai înaltă și nealterată parte a Parcului Național Black River Gorges. Această pădure tropicală de munte este unul dintre ultimele bastioane ale naturii originale din Mauritius, unde cresc arbori de abanos seculari și alte specii rare. Zona este faimoasă pentru ceața deasă și precipitațiile abundente, care creează un mediu luxuriant și mohorât. Pentru drumeți, poteca Macchabée este cea mai populară, ducând la punctul de belvedere Macchabée, de unde se deschide o vedere maiestuoasă asupra cheilor Black River și a coastei de vest. În pădure pot fi întâlnite adesea maimuțe și papagali endemici rari. Biológia K8 — Pădurile tropicale și nișele ecologice.",
+      "factsAdvanced": [
+        "Situată în partea nordică montană a Black River Gorges",
+        "Renumită pentru populația de abanos nativ (Diospyros tessellaria)",
+        "Altitudinea variază între 500 și 650 de metri deasupra mării",
+        "Poteca pornește de la centrul Petrin și este bine semnalizată",
+        "Belvederea Macchabée este unul dintre cele mai fotografiate puncte",
+        "Adăpostește papagalul sándorpapagáj, specie pe cale de dispariție",
+        "Cantitatea de precipitații este printre cele mai mari de pe insulă",
+        "Joacă un rol crucial în conservarea rezervelor de apă dulce"
+      ]
+    },
+    {
+      "id": "plaine-champagne-relief-v2",
+      "descriptionAdvanced": "Plaine Champagne este cel mai înalt platou din Mauritius, situat în partea de sud-vest a insulei, la o altitudine de 600-750 de metri. Zona este cunoscută pentru climatul său mai răcoros și mai umed, care diferă de zonele tropicale de coastă. Cea mai mare parte a platoului este acoperită de păduri joase și tufișuri bogate în specii de plante endemice. Plaine Champagne este renumit în special pentru recoltarea guavei chinezești (Goyaves de Chine): din mai până în iunie, mii de oameni vin aici pentru a culege acest fruct care crește sălbatic. De-a lungul drumurilor sinuoase care traversează platoul se găsesc mai multe puncte de belvedere spre cheile adânci sau spre lacul sacru Grand Bassin. Geografie K6 — Platourile și diferențele climatice.",
+      "factsAdvanced": [
+        "Cel mai înalt platou din Mauritius, la o medie de 700 metri",
+        "Una dintre cele mai răcoroase zone locuite de pe insulă",
+        "Faimos pentru guava chinezească recoltată în luna mai",
+        "Numeroase grupuri de maimuțe pot fi observate de-a lungul drumului",
+        "Găzduiește mai multe intrări în Parcul Național Black River Gorges",
+        "Reprezintă bazinul de colectare pentru rezervoarele centrale ale țării",
+        "Solul are o culoare roșiatică din cauza oxidului de fier",
+        "Iarna, temperaturile nocturne pot scădea până la 10-12 grade"
+      ]
+    },
+    {
+      "id": "mont-limon-relief-v2",
+      "descriptionAdvanced": "Muntele Limon este cel mai înalt punct al insulei Rodrigues, ridicându-se la 398 de metri deasupra mării. Deși înălțimea sa este mai mică decât a munților din Mauritius, datorită reliefului relativ jos al insulei Rodrigues, acest vârf oferă cea mai spectaculoasă panoramă de 360 de grade. De pe vârf se pot observa laguna imensă care înconjoară insula, recifele de corali și micile insule din jur. Muntele Limon face parte din creasta centrală și este accesibil în câteva minute de la drum printr-o potecă bine întreținută. Pe vârf există o terasă de belvedere și panouri informative. Vârful este vântos și răcoros, fiind locul ideal pentru a înțelege structura micii insule. Geografie K7 — Lumea insulară și lagunele.",
+      "factsAdvanced": [
+        "Cel mai înalt punct de pe insula Rodrigues, cu 398 metri",
+        "Oferă vizibilitate asupra întregii linii de coastă și a lagunei",
+        "Situat în partea centrală, aproape de Port Mathurin",
+        "Accesibil printr-o plimbare scurtă de 5 minute de la drumul principal",
+        "Adesea acoperit de nori sau ceață din cauza vânturilor alizee",
+        "Dispune de un punct de observație din beton și un reper geodezic",
+        "Locație perfectă pentru observarea recifului de corali înconjurător",
+        "Pe versanții din jur se practică agricultura de subzistență"
+      ]
+    },
+    {
+      "id": "mont-malartic-relief-v2",
+      "descriptionAdvanced": "Muntele Malartic este al doilea cel mai înalt vârf al insulei Rodrigues, având o înălțime de 392 de metri, fiind doar cu puțin mai mic decât Mont Limon. Muntele se află în partea centrală a insulei și este un reper important pentru localnici și excursioniști. De pe vârful muntelui se deschide o vedere uluitoare spre Port Mathurin, capitala, și spre coasta de nord a insulei. Împrejurimile Muntelui Malartic sunt tipic mai aride și ierboase decât pădurile tropicale din Mauritius, reflectând climatul mai uscat al insulei Rodrigues. Pe vârf se află și un punct trigonometric folosit pentru cartografierea exactă a insulei. Drumeția nu este dificilă și oferă ocazia de a simți liniștea rurală a insulei. Geografie K7 — Măsurători de relief și geodezie.",
+      "factsAdvanced": [
+        "Al doilea cel mai înalt vârf din Rodrigues, la 392 metri",
+        "Situat în lanțul muntos central, lângă Mont Limon",
+        "Vârful permite vizualizarea coastelor de nord și de est",
+        "A jucat un rol cheie în primele ridicări topografice ale insulei",
+        "Vegetația este compusă în principal din ierburi și arbuști joși",
+        "Fermierii locali pasc adesea vitele în zonele învecinate",
+        "Mai puțin vizitat decât Mont Limon, oferind o destinație mai calmă",
+        "Numele provine probabil de la un oficial colonial francez"
+      ]
+    },
+    {
+      "id": "chamarel-waterfall-relief-v2",
+      "descriptionAdvanced": "Cascada Chamarel este cea mai înaltă și probabil cea mai frumoasă cascadă din Mauritius, unde apele râului St. Denis se prăbușesc de la o înălțime de aproximativ 100 de metri peste o stâncă abruptă de bazalt. Cascada este situată într-un amfiteatru natural spectaculos, acoperit de o vegetație tropicală luxuriantă. Vizitatorii pot admira căderea de apă din două puncte de belvedere diferite: de la nivelul inferior se simte întreaga înălțime, în timp ce de la cel superior se vede sosirea râului și adâncimea văii. Cascada impresionează mai ales în perioada ploioasă prin forța sa imensă, dar oferă o priveliște elegantă și în perioadele mai uscate. Adesea pot fi văzuți aici liliecii fructivori mauritieni zburând deasupra stâncilor. Geografie K5 — Eroziunea fluvială și cascadele.",
+      "factsAdvanced": [
+        "Cea mai înaltă cascadă din Mauritius, cu circa 100 de metri",
+        "Alimentată de râul St. Denis care traversează platoul Chamarel",
+        "Peretele cascadei arată straturi de bazalt vechi de milioane de ani",
+        "Două terase de belvedere asigură perspective ideale pentru turiști",
+        "Bazinul cascadei este greu accesibil din cauza junglei dese",
+        "Papagalii sándorpapagáj pot fi observați frecvent în zonă",
+        "Face parte din parcul privat Pământul celor Șapte Culori",
+        "După ploi, apa capătă o nuanță maronie de la solul vulcanic spălat"
+      ]
+    },
+    {
+      "id": "bassin-blanc-relief-v2",
+      "descriptionAdvanced": "Bassin Blanc este un lac de crater mai puțin cunoscut, dar extrem de important din punct de vedere ecologic, situat în munții din sudul insulei Mauritius. Lacul se află în craterul unui vulcan stins și și-a primit numele de la rocile albicioase care acoperă peretele craterului sau de la păsările albe care cuibăresc acolo. Lacul este înconjurat de o pădure densă, neatinsă, care oferă refugiu celor mai rare specii de păsări din Mauritius. Zona a fost clasificată ca 'Arie Importantă pentru Păsări' (IBA), deoarece aici cuibăresc pasărea cu ochelari și muscarul mauritian. Liniștea și atmosfera mistică de la Bassin Blanc sunt departe de zgomotul turiștilor, fiind un paradis pentru ornitologi. Biológia K8 — Zone protejate și rezervații de păsări.",
+      "factsAdvanced": [
+        "Lac de crater vulcanic situat în zona montană de sud",
+        "Arie de importanță internațională pentru conservarea păsărilor (IBA)",
+        "Loc de cuibărit pentru numeroase specii endemice rare",
+        "Peretele craterului este abrupt și acoperit de vegetație luxuriantă",
+        "Apa lacului provine din precipitații și izvoare subterane",
+        "Mai puțin vizitat de turiști comparativ cu Grand Bassin",
+        "Locație excelentă pentru observarea discretă a naturii",
+        "Vânătoarea și activitățile dăunătoare mediului sunt strict interzise"
+      ]
+    },
+    {
+      "id": "lion-mountain-relief-v2",
+      "descriptionAdvanced": "Muntele Leului (Lion Mountain) este unul dintre cei mai caracteristici munți de pe coasta de sud-est a Mauritius. Numele său provine de la forma sa distinctivă: privit de la distanță, seamănă cu un leu mascul culcat care veghează asupra golfului Grand Port. Muntele are 480 de metri înălțime și, deși nu este cel mai înalt, escaladarea sa reprezintă una dintre cele mai mari provocări din cauza secțiunilor stâncoase și abrupte. În timpul drumeției, vizitatorii parcurg practic 'spatele leului'. Panorama de pe vârf este probabil cea mai frumoasă de pe insulă: se vede întregul golf istoric, insulele înconjurătoare și culorile albastre și turcoaz ale recifelor. Muntele este important și istoric, fiind martor la bătălia navală de la Grand Port din 1810. Istorie K7 — Bătălii navale și puncte strategice de observație.",
+      "factsAdvanced": [
+        "Înălțime de 480 metri, dominând zona istorică Grand Port",
+        "Numit după silueta în formă de leu (capul, spatele și coada sunt vizibile)",
+        "Traseul este abrupt, necesitând uneori cățărare pe rocile bazaltice",
+        "Vârful oferă vederi clare spre Ile aux Aigrettes și insulele vecine",
+        "Martor al bătăliei maritime din 1810 dintre britanici și francezi",
+        "Versanții păstrează încă arbori nativi printre tufișurile invazive",
+        "Drumeția pornește de regulă din satul Vieux Grand Port",
+        "Vântul este puternic la vârf, necesitând îmbrăcăminte adecvată"
+      ]
+    },
+    {
+      "id": "coin-de-mire-relief-v2",
+      "descriptionAdvanced": "Coin de Mire, cunoscut și sub numele de Gunner's Quoin, este o insulă stâncoasă impresionantă situată la 4 kilometri de coasta de nord a Mauritius. Această insulă în formă de pană este restul unei vechi activități vulcanice, pereții săi de bazalt ridicându-se vertical din ocean. Deși debarcarea pe insulă este interzisă (fiind rezervație naturală), este una dintre principalele destinații pentru excursiile cu barca. Apa cristalină din jurul insulei este unul dintre cele mai bune locuri de scufundări din Mauritius, unde pot fi văzute țestoase marine, pești colorați și uneori delfini. Pe stâncile din Coin de Mire cuibăresc numeroase păsări marine, inclusiv pasărea trópusi albă (Paille-en-Queue). Természetismeret K7 — Ecosisteme insulare și păsări marine.",
+      "factsAdvanced": [
+        "Insulă vulcanică în formă de pană situată vizavi de Cap Malheureux",
+        "Rezervație naturală strict protejată, debarcarea fiind interzisă",
+        "Principal loc de cuibărit pentru pasărea trópusi (Paille-en-Queue)",
+        "Zonă de scufundări celebră pentru locul numit 'The Wall'",
+        "Stâncile ating o înălțime de 160 de metri deasupra mării",
+        "Numele se traduce din franceză prin 'Punct de Miră' sau 'Pană'",
+        "Joacă un rol esențial în conservarea speciilor de reptile locale",
+        "Rocile de bazalt arată clar stratificarea activității vulcanice"
+      ]
+    },
+    {
+      "id": "kanaka-crater-relief-v2",
+      "descriptionAdvanced": "Craterul Kanaka este un vulcan stins mai puțin cunoscut, dar interesant din punct de vedere geologic, situat pe platoul central al Mauritius, lângă Bois Cheri. Acest crater este unul dintre martorii celei mai recente activități vulcanice de pe insulă. Marginea craterului este relativ ușor de accesat și, deși este acoperită de o vegetație densă, forma sa regulată este clar vizibilă. Interiorul craterului este un mediu umed, mlaștinos, unde s-au stabilit ferigi și mușchi deosebiți. Vizitarea craterului Kanaka oferă o oportunitate unică pentru cei interesați de vulcanologie de a descoperi părțile interioare, mai ascunse ale insulei. Vederea plantațiilor de ceai din jur face drumeția și mai specială. Geografie K5 — Ultimele etape ale activității vulcanice în Mauritius.",
+      "factsAdvanced": [
+        "Crater vulcanic stins pe platoul central, lângă Bois Cheri",
+        "Face parte din cele mai tinere formațiuni vulcanice ale insulei",
+        "Înconjurat de vaste plantații de ceai cu peisaje pitorești",
+        "Interiorul are un microclimat propriu și un sol mlaștinos",
+        "Puțin dezvoltat turistic, păstrându-și caracterul sălbatic",
+        "Exemplu excelent pentru evoluția geologică a platoului central",
+        "Potecile pot fi noroioase din cauza ploilor montane frecvente",
+        "De pe marginea craterului se poate vedea zona deluroasă din sud"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "choluteca-cities-v2",
+      "descriptionAdvanced": "Choluteca Honduras déli részének legjelentősebb városa és egyben az azonos nevű megye székhelye. A spanyol gyarmati korban, 1522-ben alapított település a Choluteca-folyó partján fekszik, és a régió gazdasági, valamint mezőgazdasági központjaként funkcionál. A város történelmi központjában gyönyörűen megőrzött koloniális épületek találhatók, amelyek hűen tükrözik a spanyol hódítás idejének építészeti stílusát. Choluteca klímája kifejezetten meleg és száraz, ami kedvez a dinnye, a cukornád és az okra termesztésének, valamint a garnélarák-tenyésztésnek a közeli parti területeken. A város az elmúlt évtizedekben jelentős infrastrukturális fejlődésen ment keresztül, a Pánamerikai főútvonal egyik fontos állomásává válva. Földrajz K7 — városok és gazdaság.",
+      "factsAdvanced": [
+        "1522-ben alapították a spanyol hódítók.",
+        "A Choluteca-folyó partján helyezkedik el.",
+        "Honduras egyik legmelegebb régiójában fekszik.",
+        "Gazdaságának alapja a mezőgazdaság és a ráktenyésztés.",
+        "A város történelmi központja koloniális stílusú.",
+        "A Pánamerikai főútvonal fontos tranzitállomása.",
+        "Jelentős exportcikke a dinnye és a cukornád."
+      ]
+    },
+    {
+      "id": "danli-cities-v2",
+      "descriptionAdvanced": "Danlí városa El Paraíso megyében található, Honduras keleti részén, mindössze 92 kilométerre a fővárostól, Tegucigalpától. A települést gyakran nevezik a \"Dombok Városának\" (Ciudad de las Colinas), mivel festői hegyvonulatok ölelik körbe. Danlí Honduras egyik legfontosabb mezőgazdasági központja, különösen híres a kiváló minőségű dohánytermesztésről és a nemzetközileg is elismert szivargyártásról. A város minden augusztusban megrendezi a híres Nemzetközi Kukorica Fesztivált (Festival Internacional del Maíz), amely több ezer látogatót vonz az egész országból. A történelmi belvárosban a 19. századi építészet elemei dominálnak, megőrizve a hagyományos hondurasi kisvárosok hangulatát. Földrajz K7 — városok és gazdaság.",
+      "factsAdvanced": [
+        "A várost gyakran Dombok Városának hívják.",
+        "Honduras egyik legfontosabb szivargyártó központja.",
+        "Minden évben megrendezik a Nemzetközi Kukorica Fesztivált.",
+        "Tegucigalpától 92 kilométerre keletre fekszik.",
+        "Gazdasága nagyrészt a dohány- és kukoricatermesztésre épül.",
+        "Belvárosa megőrizte 19. századi építészeti stílusát.",
+        "El Paraíso megye legnépesebb települése."
+      ]
+    },
+    {
+      "id": "la-esperanza-cities-v2",
+      "descriptionAdvanced": "La Esperanza Intibucá megye székhelye, amely Honduras legmagasabban fekvő városaként ismert, mintegy 1700 méteres tengerszint feletti magasságban. A település szorosan egybeépült testvérvárosával, Intibucával, így a két várost gyakran egyetlen egységként kezelik. La Esperanza a lenca őslakos kultúra egyik legfontosabb központja, ahol a helyiek mind a mai napig őrzik hagyományaikat, beleértve a színes kézműves termékek készítését és a tradicionális mezőgazdaságot. A hűvös hegyvidéki éghajlat miatt a régió ideális burgonya, eper és különféle zöldségek termesztésére. A város egyik leghíresebb nevezetessége a hegyoldalba épült La Gruta barlangkápolna, amely csodálatos kilátást nyújt a völgyre. Földrajz K8 — őslakos kultúrák.",
+      "factsAdvanced": [
+        "Honduras legmagasabban fekvő városa (1700 méter).",
+        "Szorosan egybeépült testvérvárosával, Intibucával.",
+        "A lenca őslakos kultúra jelentős központja.",
+        "Hűvös éghajlata kedvez a burgonya és eper termesztésének.",
+        "A La Gruta kápolna a város egyik fő látványossága.",
+        "Fontos szerepet játszik a hondurasi kézműves iparban.",
+        "A helyiek hagyományos lenca textíliákat készítenek."
+      ]
+    },
+    {
+      "id": "nacaome-cities-v2",
+      "descriptionAdvanced": "Nacaome egy nyüzsgő város Honduras déli részén, Valle megye székhelye, amely a Nacaome-folyó partján fekszik. A település neve a helyi őslakos nyelven \"két hús\" vagy \"két test\" jelentéssel bír, ami a korábban itt élő cholula és chaparrastique törzsek egyesülésére utal. A város klímája rendkívül forró, ami ideális környezetet biztosít a sólepárláshoz és a tengerparti halászathoz a közeli Fonseca-öbölben. Nacaome fontos kereskedelmi csomópont a Pánamerikai főútvonal mentén, összekötve Hondurast El Salvadorral és Nicaraguával. A környék mezőgazdasága főként a dinnye- és cukornádtermesztésre összpontosít, amelyek a régió fő exportcikkei. Földrajz K7 — városok és gazdaság.",
+      "factsAdvanced": [
+        "Valle megye adminisztratív és kereskedelmi központja.",
+        "Neve az őslakos nyelven két törzs egyesülését jelenti.",
+        "A város a Pánamerikai főútvonal mentén helyezkedik el.",
+        "Honduras egyik legforróbb és legszárazabb települése.",
+        "Gazdaságában jelentős a sólepárlás és a dinnyetermesztés.",
+        "Közel fekszik a Fonseca-öböl partvidékéhez.",
+        "A Nacaome-folyó biztosítja a régió vízellátását."
+      ]
+    },
+    {
+      "id": "yoro-cities-v2",
+      "descriptionAdvanced": "Yoro egy hegyvidéki város Honduras északi-középső részén, Yoro megye székhelye, amely leginkább a \"Lluvia de Peces\" (Halak esője) elnevezésű meteorológiai jelenségről híres. A helyi beszámolók szerint minden évben, általában májusban vagy júniusban, hatalmas viharok után apró halak ezrei hullanak az égből a város utcáira. Yoro gazdaságilag elsősorban az erdőgazdálkodásra, a kávétermesztésre és a szarvasmarha-tenyésztésre támaszkodik, a környező sűrű fenyőerdők révén. A település környékén él a jicaque (tolupán) őslakos népcsoport is, akik még mindig őrzik hagyományos életmódjukat a Montana de la Flor rezervátumban. A város történelmi központja békés, vidéki hangulatot áraszt. Földrajz K8 — meteorológiai érdekességek.",
+      "factsAdvanced": [
+        "Világhírű a Halak esője (Lluvia de Peces) jelenségről.",
+        "A jelenség általában május és június között történik.",
+        "A város gazdaságát a fakitermelés és a kávé határozza meg.",
+        "A régióban él a jicaque (tolupán) őslakos népcsoport.",
+        "Yoro megye közigazgatási központja.",
+        "Hegyvidéki, fenyőerdőkkel borított területen fekszik.",
+        "Mezőgazdaságában a szarvasmarha-tenyésztés is kiemelkedő."
+      ]
+    },
+    {
+      "id": "choloma-cities-v2",
+      "descriptionAdvanced": "Choloma Honduras egyik legfontosabb ipari központja, amely Cortés megyében, San Pedro Sula közvetlen közelében helyezkedik el. A város az ország harmadik legnépesebb települése, és az elmúlt évtizedekben robbanásszerű fejlődésen ment keresztül a \"maquiladora\" (exportra termelő összeszerelő üzem) iparág növekedésének köszönhetően. A helyi gyárak főként textilipari termékeket, ruházati cikkeket és autóalkatrészeket állítanak elő, amelyeket nagyrészt az Egyesült Államokba exportálnak. Noha Choloma ma elsősorban ipari arculatáról ismert, történelme a spanyol hódítás előtti időkre nyúlik vissza, amikor egy tholomac nevű őslakos település állt a területén. A város jelentős belső migrációt vonz az ország más részeiről a munkalehetőségek miatt. Földrajz K8 — iparosodás.",
+      "factsAdvanced": [
+        "Honduras harmadik legnépesebb városa.",
+        "Az ország legnagyobb maquiladora (összeszerelő üzem) központja.",
+        "Gazdasága a textil- és ruházati iparra épül.",
+        "Cortés megyében, San Pedro Sula mellett fekszik.",
+        "Történelmi elődje egy tholomac nevű maja falu volt.",
+        "A lakosság száma a munkalehetőségek miatt gyorsan nőtt.",
+        "Exportcikkeinek jelentős része az Egyesült Államokba irányul."
+      ]
+    },
+    {
+      "id": "tela-cities-v2",
+      "descriptionAdvanced": "Tela egy festői karibi tengerparti város Atlántida megyében, Honduras északi partvidékén. Az 1524-ben alapított település a 20. század elején a United Fruit Company főhadiszállásaként szolgált, és a hondurasi banánipar egyik legfontosabb kikötője volt. Ma Tela elsősorban turisztikai központ, amely fehér homokos strandjairól és a közeli természeti rezervátumokról ismert. A város mellett található a híres Lancetilla Botanikus Kert, a világ egyik legnagyobb trópusi botanikus kertje, valamint a Punta Sal és Punta Izopo Nemzeti Parkok. A környéken számos hagyományos garifuna közösség él, akik egyedi afro-karibi kultúrájukkal, zenéjükkel és gasztronómiájukkal gazdagítják a régiót. Földrajz K7 — turizmus és természetvédelem.",
+      "factsAdvanced": [
+        "1524-ben alapították, Honduras egyik legrégebbi városa.",
+        "Egykor a United Fruit Company banánipari központja volt.",
+        "Közvetlen közelében található a Lancetilla Botanikus Kert.",
+        "A város környékén hagyományos garifuna falvak fekszenek.",
+        "Népszerű turisztikai célpont fehér homokos strandjai miatt.",
+        "A Punta Sal és Punta Izopo nemzeti parkok védik élővilágát.",
+        "Jelentős szerepet játszott az ország 20. századi exportjában."
+      ]
+    },
+    {
+      "id": "catacamas-cities-v2",
+      "descriptionAdvanced": "Catacamas Olancho megye egyik legjelentősebb települése, és egyben Honduras legnagyobb területű önkormányzata. A város egy hatalmas, termékeny völgyben helyezkedik el, és az ország fő mezőgazdasági és állattenyésztési központjai közé tartozik, különösen a hús- és tejtermelés révén. Catacamas a turizmus térképére is felkerült, köszönhetően a közelben található Talgua-barlangoknak (Cuevas de Talgua), ahol világító, kalcittal borított ősi csontvázakat fedeztek fel. A település körül magasodó hegyek, köztük a Sierra de Agalta Nemzeti Park lenyűgöző túraútvonalakat és gazdag biodiverzitást kínálnak. Catacamas gyorsan fejlődő infrastruktúrája és mezőgazdasági ereje révén kulcsfontosságú a hondurasi gazdaságban. Földrajz K8 — természeti kincsek.",
+      "factsAdvanced": [
+        "Olancho megye egyik legnagyobb és legfontosabb városa.",
+        "Honduras legnagyobb kiterjedésű önkormányzata.",
+        "A híres Talgua-barlangok a város közelében találhatók.",
+        "Kiemelkedő a hús- és tejtermelő szarvasmarha-tenyésztése.",
+        "A Sierra de Agalta Nemzeti Park határolja a várost.",
+        "Jelentős mezőgazdasági központ az ország keleti részén.",
+        "A régióban jelentős a kávé- és gabonatermesztés is."
+      ]
+    },
+    {
+      "id": "la-lima-cities-v2",
+      "descriptionAdvanced": "La Lima egy ipari és kereskedelmi város Cortés megyében, amelyet gyakran Honduras \"banánfővárosaként\" is emlegetnek. A város a 20. század nagy részében a United Brands Company (korábban United Fruit Company) hondurasi központjaként működött, és a helyi gazdaság teljesen a banántermesztésre és exportra épült. A településen ma is megfigyelhető a külföldi vállalatok által épített „amerikai zóna” jellegzetes faépítészete, ahol az egykori cégvezetők laktak. La Lima mindössze 15 percre található San Pedro Sula nemzetközi repülőterétől, így stratégiai fontosságú logisztikai központ. Napjainkban a város gazdasága diverzifikálódott, és a maquiladorák, valamint az afrikai pálma termesztése is megjelent a banán mellett. Földrajz K8 — agrártörténelem.",
+      "factsAdvanced": [
+        "Honduras hagyományos banánfővárosaként ismert.",
+        "A United Fruit Company korábbi központja volt.",
+        "Cortés megyében, San Pedro Sula közelében fekszik.",
+        "Az úgynevezett 'amerikai zóna' egyedi faépületekkel rendelkezik.",
+        "A Ramón Villeda Morales nemzetközi repülőtér mellett található.",
+        "Gazdasága ma már az afrikai pálma és a maquiladorák felé is nyitott.",
+        "A város egy sík, termékeny alluviális völgyben épült."
+      ]
+    },
+    {
+      "id": "saba-cities-v2",
+      "descriptionAdvanced": "Sabá egy dinamikusan fejlődő kereskedelmi és mezőgazdasági csomópont Colón megyében, Honduras északi részén. A város a régió egyik legfontosabb tranzitállomása, mivel a La Ceibát, Tocóát és Olancho megyét összekötő fő közlekedési útvonalak kereszteződésében fekszik. Sabá gazdasága jelentős mértékben az afrikai pálmaolaj kitermelésére és feldolgozására épül, amely az utóbbi évtizedekben átvette a banántermesztés dominanciáját a térségben. Emellett a banán, a citrusfélék és a kakaó termesztése is jelen van a környező földeken. A települést átszeli a Río Aguán, amely nélkülözhetetlen vízforrást biztosít a hatalmas ültetvények számára, de az esős évszakban gyakran okoz áradásokat is. Földrajz K7 — mezőgazdaság és infrastruktúra.",
+      "factsAdvanced": [
+        "Colón megye egyik legdinamikusabban növekvő városa.",
+        "A térség fő tranzitközpontja az északi partvidéken.",
+        "Gazdaságának mozgatórugója az afrikai pálma ültetvények.",
+        "Az Aguán-folyó völgyében helyezkedik el.",
+        "Jelentős a banán- és citrusfélék termesztése is.",
+        "Kereskedelmi csomópont La Ceiba és Trujillo között.",
+        "Az esős évszakban gyakran érintik folyami áradások."
+      ]
+    },
+    {
+      "id": "marcovia-cities-v2",
+      "descriptionAdvanced": "Marcovia egy hatalmas tengerparti önkormányzat Choluteca megyében, a Fonseca-öböl partján. A település elsősorban gazdag tengeri és partvidéki természeti erőforrásairól, valamint intenzív garnélarák-tenyésztéséről híres, amely Honduras egyik legfőbb exportágazata. Marcovia kiterjedt mangróveerdői nemcsak ökológiai szempontból felbecsülhetetlen értékűek, hanem a helyi halászközösségek megélhetését is biztosítják. A város emellett jelentős cukornád- és dinnyetermesztő központ a forró, száraz klímának köszönhetően. A Cedeño nevű tengerparti falva népszerű helyi turisztikai célpont, ahol a látogatók a vulkáni fekete homokos tengerparton pihenhetnek és élvezhetik a csendes-óceáni naplementéket. Földrajz K8 — akvakultúra.",
+      "factsAdvanced": [
+        "A Fonseca-öböl mentén található Choluteca megyében.",
+        "Honduras egyik legfontosabb garnélarák-tenyésztő központja.",
+        "Partvidékét hatalmas kiterjedésű mangróveerdők borítják.",
+        "A Cedeño strand fekete vulkáni homokjáról híres.",
+        "A régióban jelentős a cukornád és a dinnye termesztése.",
+        "Gazdasága szorosan kötődik az akvakultúrához és a halászathoz.",
+        "Tengerparti településeit a klímaváltozás okozta erózió fenyegeti."
+      ]
+    },
+    {
+      "id": "la-paz-cities-v2",
+      "descriptionAdvanced": "La Paz történelmi városa az azonos nevű La Paz megye közigazgatási és kereskedelmi székhelye, amely Honduras középső részén, a Comayagua-völgy közelében helyezkedik el. A várost 1750-ben alapították, és a 19. század során komoly politikai és kulturális jelentőségre tett szert, több neves hondurasi elnök szülővárosaként. La Paz gazdasága hagyományosan a hegyvidéki kávétermesztésre, a kukoricára és a babra, valamint az agyagművességre épül. A város egyik legismertebb kulturális eseménye a Szűz Mária tiszteletére rendezett novemberi fesztivál, amely zenével és hagyományos táncokkal tölti meg az utcákat. A környék lenca őslakos gyökerei a mai napig érezhetők a helyi gasztronómiában és a kézműves hagyományokban. Földrajz K7 — kultúra és történelem.",
+      "factsAdvanced": [
+        "La Paz megye közigazgatási székhelye.",
+        "A várost a spanyol gyarmatosítók alapították 1750-ben.",
+        "Számos korábbi hondurasi elnök szülővárosa.",
+        "A környező hegyekben magas minőségű kávét termesztenek.",
+        "Erős lenca őslakos kulturális gyökerekkel rendelkezik.",
+        "A helyi kézműiparban kiemelkedő a kerámiakészítés.",
+        "A Comayagua-völgy szélén fekszik, termékeny környezetben."
+      ]
+    },
+    {
+      "id": "amapala-cities-v2",
+      "descriptionAdvanced": "Amapala egy egyedülálló, vulkanikus szigeten fekvő város a Fonseca-öbölben, amely az Isla del Tigre (Tigris-sziget) területét foglalja el. A 19. és a 20. század elején Amapala volt Honduras legfontosabb csendes-óceáni kikötője, ahol a nemzetközi kereskedelmi hajók kikötöttek, és az ország exportjának jelentős része haladt át rajta. Bár kikötői szerepét a modern San Lorenzo vette át, a város történelmi faépületei és macskaköves utcái ma is őrzik az egykori gazdagság emlékét. A szigetet egy inaktív, kúp alakú vulkán uralja, amelynek csúcsáról lenyűgöző kilátás nyílik három országra: Hondurasra, El Salvadorra és Nicaraguára. Ma Amapala csendes halászfalu és egyre népszerűbb ökoturisztikai célpont. Földrajz K8 — kikötővárosok.",
+      "factsAdvanced": [
+        "A Fonseca-öbölben, az Isla del Tigre szigeten fekszik.",
+        "Honduras legfőbb csendes-óceáni kikötője volt a 19. században.",
+        "Egy inaktív vulkán közepén helyezkedik el.",
+        "Csúcsáról látható El Salvador, Nicaragua és Honduras.",
+        "A város történelmi faépületekkel és szűk utcákkal rendelkezik.",
+        "Gazdasága ma főleg a helyi halászatra és turizmusra épül.",
+        "Szárazföldi összeköttetése nincs, csónakkal közelíthető meg."
+      ]
+    },
+    {
+      "id": "intibuca-cities-v2",
+      "descriptionAdvanced": "Intibucá egy magaslati város Honduras délnyugati részén, amely közvetlenül határos La Esperanza városával; a kettőt gyakran 'iker-városokként' tartják számon. A település a lenca őslakosok egyik legfontosabb kulturális fellegvára, ahol a lakosság többsége mind a mai napig őrzi a tradicionális mezőgazdasági módszereket, a színes népviseletet és a kézművességet. A város több mint 1700 méteres tengerszint feletti magasságban fekszik, így éghajlata szokatlanul hűvös Közép-Amerikához képest. Intibucá gazdaságának alapját a burgonya, a káposzta, a szeder és a híres helyi őszibarack termesztése adja. A város hagyományos piacain a látogatók a lenca asszonyok által készített különleges textíliákat és kerámiákat vásárolhatnak. Földrajz K8 — kultúra.",
+      "factsAdvanced": [
+        "La Esperanza ikervárosa, amellyel egyetlen településhálót alkot.",
+        "Honduras legmagasabban fekvő városainak egyike.",
+        "A lakosság jelentős része lenca őslakos.",
+        "Hűvös klímája ideális az eper, a szeder és a burgonya termesztésére.",
+        "A lenca kézművesség és textilszövés központja.",
+        "Saját, hagyományos lenca önkormányzattal is rendelkezik.",
+        "A helyi piacokon dominál a tradicionális cserekereskedelem."
+      ]
+    },
+    {
+      "id": "puerto-lempira-cities-v2",
+      "descriptionAdvanced": "Puerto Lempira a félreeső Gracias a Dios megye székhelye, amely Honduras keleti részén, a La Mosquitia régióban található, a Caratasca-lagúna partján. A város az ország egyik legnehezebben megközelíthető települése, ahová közúton szinte lehetetlen eljutni, így a közlekedés többnyire légi úton vagy csónakkal történik. Puerto Lempira a miszkító őslakosok kulturális és kereskedelmi központja, ahol a mindennapi élet a halászathoz, a lagúna adta erőforrásokhoz és az apró földműveléshez kötődik. A régió érintetlen trópusi esőerdőkkel, hatalmas mocsarakkal és gazdag biodiverzitással rendelkezik. A település kulcsfontosságú kapu az UNESCO Világörökség részét képező Río Plátano Bioszféra Rezervátum felfedezéséhez. Földrajz K8 — elzárt régiók.",
+      "factsAdvanced": [
+        "Gracias a Dios megye közigazgatási központja.",
+        "A hatalmas Caratasca-lagúna partján épült.",
+        "Közúton szinte megközelíthetetlen, a légi és vízi közlekedés dominál.",
+        "A miszkító őslakosok legfontosabb kulturális központja.",
+        "A város gazdasága a halászatra és a homárgyűjtésre épül.",
+        "Kaput jelent a Río Plátano Bioszféra Rezervátumhoz.",
+        "Trópusi esőerdők és mocsarak veszik körül a várost."
+      ]
+    },
+    {
+      "id": "la-entrada-cities-v2",
+      "descriptionAdvanced": "La Entrada, hivatalos nevén Nueva Arcadia, egy élénk kereskedelmi csomópont Copán megyében, Honduras nyugati részén. A város nevét (A Bejárat) annak köszönheti, hogy stratégiai elhelyezkedése révén ez a fő útvonal vezet a világhírű copáni maja romokhoz, valamint a guatemalai és El Salvador-i határátkelőkhöz. La Entrada az elmúlt évtizedekben gyorsan növekedett, mivel a környező mezőgazdasági régiók kávé- és dohánytermelői itt értékesítik termékeiket. Bár a város viszonylag új alapítású, a folyamatos áruforgalom és a turizmus tranzitpontjaként betöltött szerepe az egyik legélénkebb gazdasági központtá tette a nyugati országrészben. Földrajz K7 — közlekedés.",
+      "factsAdvanced": [
+        "Hivatalos közigazgatási neve Nueva Arcadia.",
+        "Copán megye egyik legforgalmasabb kereskedelmi csomópontja.",
+        "Nevét arról kapta, hogy a maja romokhoz vezető főútvonal kapuja.",
+        "Fontos tranzitállomás Guatemala és El Salvador felé.",
+        "A kávé- és dohánykereskedelem regionális központja.",
+        "Gyors népességnövekedést tapasztalt az elmúlt évtizedekben.",
+        "Jelentős logisztikai bázis Honduras nyugati részén."
+      ]
+    },
+    {
+      "id": "valle-de-angeles-cities-v2",
+      "descriptionAdvanced": "Valle de Ángeles egy festői szépségű, gyarmati stílusú kisváros Francisco Morazán megyében, mindössze rövid autóútra Tegucigalpától. A várost eredetileg bányászközpontként alapították az ezüstláz idején, de ma elsősorban turisztikai és kézműves központként ismert. A macskaköves utcákkal, színes vályogházakkal és fenyőerdőkkel övezett település népszerű hétvégi menedékhely a fővárosiak számára, akik a hűvösebb klíma és a csendes környezet miatt érkeznek. Valle de Ángeles Honduras legfontosabb kézműves piaca, ahol fafaragásokat, bőrdíszműves termékeket, kerámiákat és hagyományos textileket árulnak. A város egyben kapu a közeli La Tigra Nemzeti Park felé is. Földrajz K7 — turizmus.",
+      "factsAdvanced": [
+        "Tegucigalpától mintegy 22 kilométerre fekszik.",
+        "Eredetileg spanyol ezüstbányászati település volt.",
+        "Ma Honduras egyik legfontosabb kézműves központja.",
+        "Híres fafaragásairól és bőrdíszműves termékeiről.",
+        "Népszerű ökoturisztikai és hétvégi pihenőhely.",
+        "A városból könnyen megközelíthető a La Tigra Nemzeti Park.",
+        "Történelmi központja megőrizte a gyarmati építészetet."
+      ]
+    },
+    {
+      "id": "santa-rita-cities-v2",
+      "descriptionAdvanced": "Santa Rita egy élénk mezőgazdasági és kereskedelmi város Yoro megyében, a termékeny Sula-völgy szélén. A település közvetlenül a Río Comayagua (később Río Ulúa) partján fekszik, amely létfontosságú öntözővizet biztosít a régió hatalmas banán-, afrikai pálma- és cukornádültetvényei számára. Santa Rita stratégiai elhelyezkedése San Pedro Sula és El Progreso közelében az északi partvidék egyik fontos agrár-logisztikai központjává tette. A város lakosságának nagy része a mezőgazdaságban dolgozik, vagy a közeli maquiladora ipari parkokban vállal munkát. Bár a folyó gazdasági áldás, az esős évszakokban, különösen hurrikánok idején, a város gyakran néz szembe súlyos árvizekkel. Földrajz K8 — folyóvölgyek.",
+      "factsAdvanced": [
+        "Yoro megyében, a Sula-völgy keleti peremén helyezkedik el.",
+        "A Comayagua-folyó partján fekszik.",
+        "Gazdasága a banán- és afrikai pálma termesztésére épül.",
+        "Fontos agrár-logisztikai csomópont El Progreso közelében.",
+        "A települést gyakran sújtják folyami árvizek hurrikánok idején.",
+        "Lakossága nagyrészt a mezőgazdaságban és az iparban dolgozik.",
+        "Hídja kulcsfontosságú a Yoro megyei közlekedésben."
+      ]
+    },
+    {
+      "id": "potrerillos-cities-v2",
+      "descriptionAdvanced": "Potrerillos történelmi jelentőségű város Cortés megyében, a Comayagua-folyó és a Blanco-folyó találkozásánál. A település a 20. század első felében kulcsszerepet játszott Honduras közlekedési hálózatában, mivel itt ért véget az északi partvidékről induló Nemzeti Vasút (Ferrocarril Nacional), amely a banánültetvényeket szolgálta ki. Potrerillos egykor forgalmas átszállási pont volt a vasút és a belföldi öszvérkaravánok között. Napjainkban a város gazdasága főként a mezőgazdaságra, a cukornád- és kukoricatermesztésre támaszkodik, miközben a közeli Yojoa-tó irányába tartó turisták egyik tranzitállomása. A város alacsony fekvése miatt az esős évszakban különösen kitett a folyók áradásainak. Földrajz K7 — infrastruktúra.",
+      "factsAdvanced": [
+        "Cortés megyében, a Blanco és Comayagua folyók találkozásánál fekszik.",
+        "Egykor a hondurasi Nemzeti Vasút végállomása volt.",
+        "A 20. században fontos áruszállítási csomópontként működött.",
+        "Gazdasága ma főleg a cukornád- és gabonatermesztésre épül.",
+        "A Yojoa-tó közelében, a Pánamerikai főútvonal mentén található.",
+        "Alacsony tengerszint feletti magassága miatt árvízveszélyes.",
+        "Történelme szorosan kötődik az északi banániparhoz."
+      ]
+    },
+    {
+      "id": "morazan-cities-v2",
+      "descriptionAdvanced": "Morazán egy mezőgazdasági kisváros Yoro megye nyugati részén, amelyet festői hegyek és sűrű erdők vesznek körül. A települést Francisco Morazánról, a közép-amerikai függetlenség és az egykori Közép-Amerikai Szövetségi Köztársaság hőséről nevezték el. A város gazdaságának gerincét a kávétermesztés, az állattenyésztés és az erdőgazdálkodás adja, a környező lankás dombvidék ideális feltételeket biztosít a magas minőségű árnyékban termesztett kávé számára. Morazán csendes, vidéki életmódja és erős közösségi kötelékei jellemzőek a hondurasi hegyvidéki településekre. A területen több kisebb folyó és vízesés található, amelyek potenciális ökoturisztikai célpontokká tehetik a régiót a jövőben. Földrajz K8 — hegyvidéki gazdaság.",
+      "factsAdvanced": [
+        "Yoro megye nyugati részén, hegyvidéki környezetben fekszik.",
+        "Nevét Francisco Morazán közép-amerikai hősről kapta.",
+        "Gazdasága nagyrészt a magaslati kávétermesztésre támaszkodik.",
+        "A szarvasmarha-tenyésztés és a fakitermelés is jelentős.",
+        "A települést sűrű fenyő- és tölgyfaerdők veszik körül.",
+        "Csendes, hagyományos hondurasi vidéki életmód jellemzi.",
+        "A régió gazdag vízforrásokban és apróbb vízesésekben."
+      ]
+    }
+  ]
+}

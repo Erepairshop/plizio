@@ -1,0 +1,291 @@
+{
+  "lang": "ro",
+  "country": "mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-louis-harbor-economic-v2",
+      "descriptionAdvanced": "Portul Port Louis reprezintă inima economică a statului Mauritius, servind drept principalul nod maritim pentru întregul flux de mărfuri al insulei. Amplasarea sa strategică în Oceanul Indian facilitează conexiunile comerciale esențiale între Asia, Africa și Europa. Peste 99% din volumul total al comerțului exterior este gestionat aici, transformând portul într-un pilon indispensabil al economiei naționale. Infrastructura include terminale de containere de ultimă generație, cum este Mauritius Container Terminal (MCT), capabil să primească nave de mare tonaj datorită adâncimii sale remarcabile. Dincolo de activitatea de marfă, portul a devenit o destinație importantă pentru navele de croazieră internaționale, susținând activ sectorul turistic. Modernizarea continuă asigură competitivitatea portului în rețeaua logistică globală. Geografie K7 — Sectoare economice și comerț mondial.",
+      "factsAdvanced": [
+        "Gestionează peste 90% din volumul comerțului exterior al țării",
+        "Găzduiește terminalul MCT, unul dintre cele mai adânci din regiune",
+        "Este un punct major de buncheraj pentru navele de pe ruta Capului Speranței",
+        "Capacitatea de manipulare a containerelor depășește 500.000 TEU anual",
+        "Include silozuri specializate pentru depozitarea zahărului și a cerealelor",
+        "Autoritatea portuară (MPA) coordonează extinderea infrastructurii",
+        "Servește ca bază principală pentru flota regională de pescuit",
+        "Lungimea totală a docurilor de acostare depășește 2 kilometri"
+      ]
+    },
+    {
+      "id": "mauritius-freeport-economic-v2",
+      "descriptionAdvanced": "Zona Liberă Mauritius a fost înființată în anul 1992 cu scopul strategic de a poziționa insula ca un hub logistic și comercial de referință între Asia și continentul african. Acest centru logistic scutit de taxe, situat în Port Louis, oferă facilități de clasă mondială pentru depozitarea, prelucrarea cu valoare adăugată și reexportul mărfurilor. Companiile beneficiază de avantajele tratatelor de liber schimb semnate de Mauritius, ceea ce face locația extrem de atractivă pentru investitorii internațitors. Infrastructura modernă cuprinde depozite cu temperatură controlată, ideale pentru păstrarea fructelor de mare și a produselor farmaceutice. Zona Liberă este un exemplu elocvent al diversificării economiei mauritiene, marcând trecerea de la producția agricolă la servicii logistice avansate. Geografie K8 — Relații comerciale internaționale.",
+      "factsAdvanced": [
+        "Fondată în 1992 sub reglementarea Freeport Act",
+        "Dispune de o suprafață de depozitare de peste 270.000 metri pătrați",
+        "Oferă facilități frigorifice avansate pentru exportul de ton",
+        "Peste 300 de companii internaționale sunt înregistrate în zonă",
+        "Permite activități de asamblare și reambalare fără taxe vamale",
+        "Este certificată conform standardelor internaționale de calitate ISO",
+        "Susține fluxul de tranzit către țările din regiunea SADC",
+        "Contribuie semnificativ la veniturile din sectorul serviciilor maritime"
+      ]
+    },
+    {
+      "id": "ebene-cybercity-economic-v2",
+      "descriptionAdvanced": "Ebène Cybercity, situată la aproximativ 15 kilometri sud de Port Louis, simbolizează ascensiunea rapidă a Mauritius către o economie bazată pe cunoaștere. Construită la începutul anilor 2000 pe foste terenuri cultivate cu trestie de zahăr, aceasta este astăzi centrul tehnologic și financiar al țării. Impunătorul Cyber Tower 1, inaugurat în 2005, a marcat începutul stabilirii a numeroși furnizori de servicii IT, centre de outsourcing (BPO) și bănci internaționale. Ebène oferă o infrastructură modernă de fibră optică și un mediu dinamic pentru inovație. Prin concentrarea specialiștilor și a marilor corporații, Ebène s-a dezvoltat într-un 'Smart City' care integrează armonios munca, locuințele și timpul liber. Este un factor decisiv pentru creșterea PIB-ului în sectorul terțiar. Geografie K8 — Globalizare și tehnologia informației.",
+      "factsAdvanced": [
+        "Inaugurată oficial în 2005 odată cu finalizarea Cyber Tower 1",
+        "Găzduiește sediul central al Financial Services Commission (FSC)",
+        "Concentreză numeroase companii din topul Fortune 500 și giganți IT",
+        "Principalul hub de Business Process Outsourcing din Oceanul Indian",
+        "Dispune de un centru de date securizat de clasă Tier IV",
+        "Peste 25.000 de profesioniști lucrează zilnic în acest district",
+        "Este conectată la rețeaua feroviară modernă Metro Express",
+        "Arhitectura este dominată de fațade moderne din sticlă și oțel"
+      ]
+    },
+    {
+      "id": "mer-rouge-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Mer Rouge este amplasată strategic în vecinătatea portului Port Louis, fiind un centru vital pentru industria prelucrătoare. Datorită proximității directe față de terminalele de containere, companiile rezidente beneficiază de rute logistice extrem de scurte pentru importul materiilor prime și exportul produselor finite. În această zonă s-au stabilit în special unități de producție textilă, prelucrarea alimentelor și industria ușoară. Mer Rouge face parte integrantă din strategia națională de promovare a exporturilor manufacturiere. Zona oferă infrastructură modernă și utilități adaptate nevoilor industriale specifice. Aici se produce o parte considerabilă a mărfurilor care poartă eticheta 'Made in Mauritius', contribuind la renumele insulei pe piețele globale. Geografie K7 — Locații industriale și infrastructură.",
+      "factsAdvanced": [
+        "Localizare strategică adiacentă portului de mare adâncime",
+        "Focus major pe procesarea fructelor de mare, în special a tonului",
+        "Găzduiește mori de cereale și fabrici de nutrețuri de mari dimensiuni",
+        "Hub logistic central pentru bunurile de capital grele",
+        "Sediul multor unități din sectorul de export al textilelor",
+        "Infrastructura include sisteme avansate de tratare a apelor industriale",
+        "Numeroase depozite de gros și centre de distribuție sunt active aici",
+        "Funcționează în strânsă sinergie cu Zona Liberă Mauritius"
+      ]
+    },
+    {
+      "id": "coromandel-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Coromandel este una dintre cele mai vechi și extinse arii economice din Mauritius, având o tradiție îndelungată în sprijinirea producției locale. A fost înființată în anii 1970 pentru a încuraja diversificarea economiei și reducerea dependenței de zahăr. Astăzi, zona găzduiește o varietate impresionantă de companii, de la mici ateliere meșteșugărești la mari fabrici orientate spre export. Sunt bine reprezentate industria textilă, fabricarea materialelor de construcții și a bunurilor de larg consum. Situată pe drumul principal dintre Port Louis și zonele rezidențiale de pe platou, Coromandel este un angajator esențial pentru populația locală. De-a lungul deceniilor, a contribuuit la formarea forței de muncă calificate și la succesul industrial al țării. Geografie K7 — Schimbarea sectoarelor economice.",
+      "factsAdvanced": [
+        "Înființată la începutul anilor 1970 pentru industrializare",
+        "Găzduiește peste 100 de unități industriale diverse",
+        "Locație pionier pentru industria de confecții din Mauritius",
+        "Sediul unor producători majori de vopsele, plastice și mobilă",
+        "Nod regional crucial pentru rețeaua de transport de marfă",
+        "Include centre de formare profesională pentru meserii tehnice",
+        "Infrastructura de utilități a fost modernizată constant",
+        "Factor cheie în rata de ocupare a forței de muncă din districtul Port Louis"
+      ]
+    },
+    {
+      "id": "medine-sugar-mill-economic-v2",
+      "descriptionAdvanced": "Fabrica de Zahăr Médine, situată în partea de vest a insulei, are o istorie de peste un secol, fiind un pilon al dezvoltării agroindustriale din Mauritius. De la fondarea sa in 1911, Médine a evoluat de la o simplă unitate de producție a zahărului la un grup agricol și imobiliar diversificat. Fabrica procesează trestia de zahăr recoltată de pe câmpiile vaste ale coastei de vest. Pe lângă zahărul brut, grupul a investit masiv în producția de energie regenerabilă din biomasă și în distilarea de băuturi spirtoase premium. Astăzi, Médine este și centrul ambițiosului proiect Uniciti, care integrează educația, afacerile și recreerea. Reprezintă un model de transformare a unei plantații coloniale într-o afacere modernă și sustenabilă. Istorie K8 — Economia colonială și schimbarea industrială.",
+      "factsAdvanced": [
+        "Fondată în 1911 pe coasta vestică a insulei Mauritius",
+        "Produce anual zeci de mii de tone de zahăr pentru export",
+        "Deține o centrală electrică proprie ce utilizează bagasa drept combustibil",
+        "Inima primului proiect de 'Smart City' din vestul insulei",
+        "Produce romuri premium în distileria proprie (Penny Blue)",
+        "Administrează o suprafață de teren de peste 10.000 de hectare",
+        "Pionier în mecanizarea recoltării trestiei de zahăr",
+        "Susține educația și conservarea prin parcul natural Casela"
+      ]
+    },
+    {
+      "id": "omnicane-sugar-refinery-economic-v2",
+      "descriptionAdvanced": "Rafinăria de Zahăr Omnicane din La Baraque, situată în sudul insulei, este considerată una dintre cele mai eficiente și avansate unități industriale de acest tip din lume. Ea reprezintă nucleul unui cluster agroindustrial integrat care valorifică întreaga biomasă rezultată din trestia de zahăr. Rafinăria produce zahăr alb de înaltă calitate pentru piața europeană și operează o distilerie modernă de bioetanol. Un aspect definitoriu este sustenabilitatea: bagasa rezultată din procesarea trestiei este arsă într-o centrală de cogenerare care furnizează o parte semnificativă din necesarul de electricitate al țării. Chiar și dioxidul de carbon captat în timpul fermentației este utilizat în industria băuturilor răcoritoare. Omnicane este un model global de economie circulară. Geografie K7 — Energii regenerabile și managementul resurselor.",
+      "factsAdvanced": [
+        "Cluster industrial integrat cu focus pe economia circulară",
+        "Produce peste 200.000 de tone de zahăr alb rafinat anual",
+        "Centrala atașată furnizează aproximativ 15% din energia națională",
+        "Deține una dintre cele mai mari unități de bioetanol din regiune",
+        "Captează CO2 pentru utilizarea în băuturile carbogazoase",
+        "Utilizează tehnologie de difuzie avansată pentru extracția zahărului",
+        "Principal furnizor de melasă pentru industria romului",
+        "Amplasată strategic lângă aeroportul din sudul insulei"
+      ]
+    },
+    {
+      "id": "alteo-sugar-mill-economic-v2",
+      "descriptionAdvanced": "Alteo este cel mai mare producător de zahăr din Mauritius și operează o instalație industrială impresionantă în estul insulei. Fabrica din Union Flacq procesează cantități uriașe de trestie de zahăr cultivată pe câmpiile fertile din est. Alteo s-a specializat în producția de zaharuri speciale, apreciate la nivel mondial pentru calitatea lor superioară și gustul distinct. Fabrica reprezintă motorul economiei regionale, asigurând mii de locuri de muncă în agricultură și industrie. La fel ca alte unități moderne, Alteo utilizează bagasa pentru a genera energie verde, injectată ulterior în rețeaua națională. Grupul investește masiv și în turism și dezvoltare imobiliară, reflectând reorientarea strategică a marilor companii zaharoase. Geografie K7 — Marile exploatații agricole și exportul.",
+      "factsAdvanced": [
+        "Cea mai mare capacitate de măcinare a trestiei din Mauritius",
+        "Specializată în zahăr 'Muscovado' și alte sortimente nerafinate",
+        "Producător major de energie electrică din biomasă regenerabilă",
+        "Dispune de propriul laborator avansat de control al calității",
+        "Administrează sisteme extinse de irigații pentru câmpurile proprii",
+        "Parte a unui grup activ în întreaga regiune a Oceanului Indian",
+        "Principal furnizor pentru piața europeană de zaharuri speciale",
+        "Promovează metode de agricultură durabilă în regiunea Flacq"
+      ]
+    },
+    {
+      "id": "terra-mauricia-mill-economic-v2",
+      "descriptionAdvanced": "Terra Mauricia, cunoscută anterior sub numele de Harel Frères, operează în nordul insulei istorica fabrică de la Belle Vue. Această unitate este un actor central în istoria industrială a Mauritius-ului. Terra a gestionat cu succes tranziția de la simpla producție de zahăr la un grup diversificat cu interese în energie, construcții și servicii. Un punct de atracție major pe domeniu este muzeul 'L'Aventure du Sucre', care documentează impresionant istoria zahărului pe insulă. Fabrica este la zi din punct de vedere tehnologic, utilizând procese eficiente pentru extracția zahărului și generarea de electricitate. Prin locația sa din nord, este strâns legată de structurile comunitare locale și definește peisajul prin câmpurile vaste de trestie. Istorie K8 — Moștenirea economiei de plantație.",
+      "factsAdvanced": [
+        "Sediul fabricii Belle Vue Mauricia din nordul insulei",
+        "Găzduiește muzeul premiat 'L'Aventure du Sucre'",
+        "Operează o centrală electrică în parteneriat cu actori internaționali",
+        "Pionier în diversificarea agroindustriei mauritiene",
+        "Produce sortimente de rom de înaltă calitate în distileria proprie",
+        "Investește masiv în proiecte de Smart City (Beau Plan)",
+        "Deține o flotă importantă de utilaje agricole pentru recoltare",
+        "Susținător major al proiectelor culturale și educaționale în regiune"
+      ]
+    },
+    {
+      "id": "port-mathurin-economic-v2",
+      "descriptionAdvanced": "Portul Port Mathurin este artera vitală de aprovizionare pentru insula Rodrigues, situată la aproximativ 600 de kilometri est de Mauritius. Fiind singurul port comercial al insulei, acesta reprezintă punctul central pentru importul de alimente, combustibili și materiale de construcție. În același timp, portul facilitează exportul produselor agricole locale, cum ar fi ceapa, ardeiul iute și animalele vii către insula mamă. Sosirea navei de aprovizionare 'Mauritius Trochetia' este de fiecare dată un eveniment de o importanță majoră pentru întreaga populație. Portul a fost modernizat în ultimii ani pentru a putea gestiona nave mai mari și pentru a eficientiza logistica. Este un simbol al conexiunii micii insule cu restul lumii. Geografie K7 — Geografia insulară și siguranța aprovizionării.",
+      "factsAdvanced": [
+        "Principalul port și centru administrativ al insulei Rodrigues",
+        "Singurul punct de acces pentru navele de containere și petroliere",
+        "Centru pentru exportul de animale vii și produse agricole locale",
+        "Oferă facilități de acostare pentru bărcile de pescuit regional",
+        "Sediul autorităților vamale și al portului din Rodrigues",
+        "Nod esențial pentru transportul de pasageri pe cale maritimă",
+        "Infrastructura a fost extinsă pentru a primi nave cu pescaj mai mare",
+        "Punct central pentru distribuția tuturor bunurilor pe insulă"
+      ]
+    },
+    {
+      "id": "plaisance-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Plaisance este situată strategic în imediata apropiere a Aeroportului Internațional Sir Seewoosagur Ramgoolam, în sud-estul Mauritius-ului. Această locație este ideală pentru companiile care depind de o conexiune rapidă cu piețele internaționale, în special în domeniul transportului aerian de marfă. Aici s-au stabilit firme din sectorul tehnologic, industria farmaceutică și cea textilă, care trebuie să își exporte produsele conform sistemului 'Just-in-Time'. Apropierea de aeroport permite minimizarea costurilor logistice și scurtarea drastică a timpilor de livrare. Plaisance este un exemplu de zonă industrială modernă, orientată spre export, care profită de infrastructura aeriană excelentă a țării. Geografie K8 — Logistică și rute de transport internațional.",
+      "factsAdvanced": [
+        "Localizare directă lângă aeroportul internațional al insulei",
+        "Focus pe bunuri de export cu valoare mare și sensibile la timp",
+        "Găzduiește companii din sectorul de înaltă tehnologie (High-Tech)",
+        "Centru pentru procesarea textilelor destinate exportului rapid",
+        "A beneficiat masiv de construcția noului terminal aeroportuar",
+        "Oferă facilități moderne de securitate și vămuire la fața locului",
+        "Locație cheie pentru serviciile de curierat și expediții aeriene",
+        "Contribuie la revitalizarea economică a regiunii de sud"
+      ]
+    },
+    {
+      "id": "riche-terre-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Riche Terre, situată la nord de Port Louis, s-a dezvoltat ca unul dintre cele mai importante centre de logistică și distribuție din Mauritius. Datorită conexiunii excelente la rețeaua de autostrăzi și proximității față de port, este locația ideală pentru companiile de gros și importatori. Zona oferă depozite vaste și moderne, dotate cu tehnologii avansate pentru managementul stocurilor. Pe lângă logistică, numeroase unități de producție pentru materiale de construcții și bunuri de larg consum s-au stabilit aici. Riche Terre joacă un rol esențial în aprovizionarea eficientă a pieței locale și în susținerea comerțului exterior. Dezvoltarea continuă a noi parcele demonstrează cererea mare pentru spații industriale în acest punct strategic. Geografie K7 — Comerț și noduri de transport.",
+      "factsAdvanced": [
+        "Centru logistic lider la nord de capitala Port Louis",
+        "Conexiune excelentă la autostrada M1 și la portul principal",
+        "Găzduiește centre de distribuție majore pentru rețele de supermarketuri",
+        "Locație pentru numeroase showroom-uri auto și ateliere de reparații",
+        "Dispune de depozite specializate pentru produse chimice și industriale",
+        "Angajator important pentru regiunea Pamplemousses",
+        "Infrastructura include rețele moderne de curent și fibră optică",
+        "Sediul multor companii din sectorul construcțiilor metalice"
+      ]
+    },
+    {
+      "id": "phoenix-beverages-factory-economic-v2",
+      "descriptionAdvanced": "Phoenix Beverages este principalul producător de băuturi din Mauritius și operează o unitate de producție impresionantă în orașul Phoenix. Fabrica este faimoasă pentru Phoenix Beer, considerată băutura națională a insulei, premiată de numeroase ori la nivel internațional. Pe lângă bere, compania produce o gamă largă de băuturi răcoritoare sub licență, inclusiv mărci globale precum Coca-Cola. Unitatea utilizează tehnologii de îmbuteliere de ultimă oră și acordă o importanță deosebită sustenabilității, în special în managementul apei și reciclarea sticlelor. Phoenix Beverages nu este doar un actor economic major și un plătitor important de taxe, ci și un simbol al calității mauritiene exportate cu succes în întreaga regiune. Geografie K7 — Industria bunurilor de larg consum și producția locală.",
+      "factsAdvanced": [
+        "Cea mai mare berărie și unitate de îmbuteliere din Oceanul Indian",
+        "Producătorul exclusiv al faimoasei beri premiate Phoenix Beer",
+        "Îmbuteliator licențiat pentru produsele Coca-Cola în Mauritius",
+        "Produce și populara apă minerală locală 'Crystal'",
+        "Deține linii de îmbuteliere moderne pentru sticlă și PET",
+        "Exportator major către insulele vecine (Reunion, Madagascar)",
+        "Implementează tehnologii prietenoase cu mediul și reciclarea apei",
+        "Sponsor important pentru evenimentele sportive și culturale naționale"
+      ]
+    },
+    {
+      "id": "fort-william-oil-terminal-economic-v2",
+      "descriptionAdvanced": "Terminalul Petrolier Fort William din portul Port Louis este absolut indispensabil pentru securitatea energetică a Mauritius-ului. Aproape întregul necesar de combustibili lichizi – de la benzină și motorină până la păcura pentru centralele electrice – este gestionat prin acest terminal. Instalația dispune de rezervoare masive de stocare și docuri specializate pentru navele petroliere. Având în vedere dependența insulei de importurile de energie, aici se coordonează managementul strategic al rezervelor naționale. Terminalul respectă cele mai stricte norme de siguranță și protecție a mediului pentru a proteja ecosistemul marin sensibil al portului. Este un nod critic al infrastructurii care menține în mișcare transportul și producția de electricitate a țării. Geografie K8 — Aprovizionarea cu energie și combustibili fosili.",
+      "factsAdvanced": [
+        "Depozit central pentru toate produsele petroliere importate",
+        "Punct de alimentare pentru centralele termice ale țării",
+        "Dispune de dane de mare adâncime pentru tancuri petroliere mari",
+        "Locație cheie pentru rezerva strategică de petrol a statului",
+        "Oferă servicii de buncheraj pentru flota maritimă internațională",
+        "Respectă cele mai înalte standarde internaționale de siguranță la foc",
+        "Monitorizează transferul de combustibili printr-un sistem de conducte",
+        "Conectat direct la infrastructura logistică a portului Port Louis"
+      ]
+    },
+    {
+      "id": "beau-plan-business-park-economic-v2",
+      "descriptionAdvanced": "Beau Plan Business Park este un exemplu remarcabil de transformare reușită a patrimoniului industrial. Creat pe locul unei foste fabrici de zahăr, acesta îmbină astăzi arhitectura modernă cu farmecul istoric. Parcul găzduiește agenții creative, startup-uri tehnologice și companii de servicii într-un mediu verde și stimulant. Beau Plan face parte dintr-o dezvoltare mai largă de tip 'Smart City', menită să aducă locurile de muncă mai aproape de zonele rezidențiale din nord. Pe lângă spațiile de birouri, parcul oferă facilități comerciale, restaurante și instituții culturale precum muzeul zahărului. Revitalizarea vechilor clădiri de fabrică arată cum planificarea urbană durabilă poate onora istoria unei regiuni în timp ce îi modelează viitorul economic. Geografie K7 — Dezvoltare urbană și schimbare structurală.",
+      "factsAdvanced": [
+        "Dezvoltat pe terenul istoricei fabrici de zahăr Beau Plan",
+        "Element central al conceptului inovator de Smart City din nord",
+        "Hub pentru industriile creative și inovația digitală",
+        "Oferă un mix unic de clădiri istorice și birouri moderne",
+        "Include centrul comercial modern Mahogany Shopping Promenade",
+        "Dispune de zone verzi generoase și un lac artificial pentru recreere",
+        "Accesibilitate excelentă prin autostrada către Grand Baie",
+        "Găzduiește apreciatul muzeu 'L'Aventure du Sucre'"
+      ]
+    },
+    {
+      "id": "triolet-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona industrială din Triolet, unul dintre cele mai mari sate din Mauritius, joacă un rol crucial pentru antreprenoriatul local. Spre deosebire de zonele industriale portuare mari, Triolet se concentrează pe întreprinderile mici și mijlocii (IMM). Aici se găsesc ateliere textile, unități de prelucrare a metalelor și producători de mobilă care servesc în principal piața locală, dar sunt și furnizori pentru industria turismului. Zona oferă locuri de muncă importante în afara marilor centre urbane și promovează independența economică a populației rurale. Triolet este recunoscut pentru spiritul său antreprenorial, iar zona industrială este manifestarea fizică a acestei energii care îmbină tradiția cu modernitatea. Geografie K7 — Dezvoltare economică regională și sectorul IMM.",
+      "factsAdvanced": [
+        "Centru economic important în nordul dens populat al insulei",
+        "Focus pe nevoile întreprinderilor mici și mijlocii (IMM)",
+        "Găzduiește unități de industrie ușoară și meșteșuguri",
+        "Hub pentru fabricarea textilelor destinate pieței locale",
+        "Promovează ocuparea forței de muncă în zonele rurale",
+        "Locație pentru numeroase ateliere de tâmplărie și mobilă",
+        "Strâns integrată în comunitatea locală vibrantă din Triolet",
+        "Oferă spații industriale accesibile pentru tinerii antreprenori"
+      ]
+    },
+    {
+      "id": "baie-du-tombeau-industry-v2",
+      "descriptionAdvanced": "Baie du Tombeau s-a impus ca un centru semnificativ pentru industria maritimă și prelucrarea peștelui. Datorită locației sale pe coastă, la nord de Port Louis, această zonă este ideală pentru companiile active în 'Economia Albastră' (Blue Economy). Se remarcă în special unitățile moderne de procesare a tonului, care pregătesc peștele capturat în tot Oceanul Indian pentru piața mondială. Pe lângă pescuit, aici se află șantiere navale pentru reparații de ambarcațiuni mici și depozite pentru necesitățile portuare. Baie du Tombeau profită de apropierea de capitală, păstrându-și totodată caracterul de zonă industrială maritimă. Dezvoltarea acestui sector este esențială în strategia mauritiană de valorificare a resurselor oceanice. Geografie K8 — Utilizarea mărilor și Economia Albastră.",
+      "factsAdvanced": [
+        "Principalul hub al industriei de conserve de ton din Mauritius",
+        "Găzduiește unități de procesare ultramoderne certificate pentru UE",
+        "Locație cheie pentru mentenanța navelor și servicii maritime",
+        "Pilon al strategiei naționale pentru 'Blue Economy'",
+        "Asigură mii de locuri de muncă în sectorul prelucrării peștelui",
+        "Localizare strategică între portul principal și regiunea de nord",
+        "Include centre logistice frigorifice specializate",
+        "Colaborează strâns cu flotele internaționale de pescuit"
+      ]
+    },
+    {
+      "id": "constance-sugar-estate-economic-v2",
+      "descriptionAdvanced": "Domeniul de Zahăr Constance din estul Mauritius-ului este un exemplu de manual pentru modernizarea agriculturii tradiționale. Compania a reușit să își păstreze rădăcinile agricole, extinzându-se în același timp în sectoare profitabile precum turismul de lux și serviciile financiare. În agricultură, Constance utilizează cele mai noi tehnologii de irigații și metode de recoltare mecanizate pentru a maximiza eficiența pe câmpiile vaste din est. Producția este strâns legată de protecția mediului, fiind promovate metode de cultivare sustenabile. Astăzi, Constance este una dintre cele mai respectate mărci din Mauritius, demonstrând cum o fostă companie de plantație poate evolua într-un grup activ global fără a-și uita originile. Geografie K7 — Schimbarea structurală în agricultură.",
+      "factsAdvanced": [
+        "Una dintre cele mai vechi și prestigioase companii zaharoase de pe insulă",
+        "Pionier în îmbinarea agriculturii cu turismul de lux",
+        "Administrează plantații de trestie mecanizate extinse în est",
+        "Produce energie proprie din biomasă pentru autoconsum",
+        "Actor major în sectoarele financiar și imobiliar din Mauritius",
+        "Susține producția de zahăr special de înaltă calitate",
+        "Recunoscută pentru programele excelente de formare a angajaților",
+        "Implicată activ în conservarea naturii și a biodiversității"
+      ]
+    },
+    {
+      "id": "savannah-sugar-estate-economic-v2",
+      "descriptionAdvanced": "Domeniul de Zahăr Savannah din sudul îndepărtat al Mauritius-ului este parte integrantă a clusterului Omnicane și reprezintă forța industrială a regiunii. Câmpiile vaste din Savannah beneficiază de solul vulcanic fertil și de microclimatul specific din sud. Cantitățile de trestie recoltate aici sunt procesate în rafinăria centrală Omnicane din apropiere. Savannah nu înseamnă doar producție agricolă, ci și o utilizare vizionară a terenurilor. În ultimii ani, aici au fost inițiate tot mai multe proiecte pentru producerea de energie regenerabilă și planificare urbană durabilă. Regiunea își păstrează caracterul brut și autentic, formând totodată avangarda tehnologică a industriei zahărului mauritiene. Geografie K7 — Caracteristici regionale și agroprelucrare.",
+      "factsAdvanced": [
+        "Zonă centrală pentru producția de trestie de zahăr în sudul insulei",
+        "Principal furnizor pentru clusterul industrial modern Omnicane",
+        "Peisajul este dominat de câmpii vaste și deschise",
+        "Locație pentru proiecte de cercetare și dezvoltare în biomasă",
+        "Angajator esențial pentru locuitorii satelor din sud",
+        "Calitatea solului este ideală pentru cultivarea plantelor energetice",
+        "Parte a unui peisaj industrial istoric în districtul Savanne",
+        "Implicată activ în revitalizarea comunităților rurale"
+      ]
+    },
+    {
+      "id": "goodlands-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Goodlands este motorul economic al regiunii de nord-est. Orașul Goodlands este un centru comercial vibrant, iar zona industrială completează acest profil prin capacități de producție, în special în sectorul textil și de confecții. Multe companii de aici produc pentru exportul către Europa și America de Nord, dar deservesc și cererea locală. Zona a contribuit semnificativ la transformarea Goodlands dintr-un sat mic într-un oraș cu o putere economică considerabilă. Pe lângă textile, aici se găsesc unități de procesare a alimentelor și mici ateliere meșteșugărești. Dinamismul din Goodlands este un exemplu excelent al descentralizării economiei mauritiene, aducând locurile de muncă direct în regiunile dens populate. Geografie K7 — Industrializarea rurală și comerțul.",
+      "factsAdvanced": [
+        "Cel mai important hub industrial din nord-estul insulei Mauritius",
+        "Accent major pe fabricarea textilelor și a confecțiilor",
+        "Angajează un număr mare de lucrători din localitățile învecinate",
+        "Principalul motor de creștere pentru centrul comercial Goodlands",
+        "Găzduiește firme care produc pentru mărci internaționale renumite",
+        "Bază regională pentru meșteșugurile locale și industria ușoară",
+        "Conexiune logistică bună cu regiunile de coastă",
+        "Promovează diversitatea economică în afara capitalei"
+      ]
+    }
+  ]
+}

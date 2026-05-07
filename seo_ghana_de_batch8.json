@@ -1,0 +1,140 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "akwapim-togo-relief-v2",
+      "descriptionAdvanced": "Die Akwapim-Togo-Bergkette ist das markanteste geologische Relief Ghanas und zieht sich wie eine natürliche Wirbelsäule vom Südosten nahe Accra bis über die Grenze nach Togo. Diese schmalen, gefalteten Quarzitberge wirken wie eine gigantische Wetterscheide, die den trockenen Küstenstreifen drastisch vom fruchtbaren, regenreichen Hinterland trennt. Mit Höhen von bis zu 800 Metern zwingt die Kette die feuchten Meereswinde zum Aufsteigen, was dichte Wolken und stetigen Niederschlag an ihren Westhängen garantiert. Geografie K7 — Gebirgsbildung und Klima.",
+      "factsAdvanced": ["Markantestes geologisches Relief Ghanas", "Schmale, gefaltete Quarzitberge", "Trennungslinie zwischen trockener Küste und feuchtem Hinterland", "Höhen bis zu 800 Metern", "Zwingt Meereswinde zum Aufsteigen", "Zieht sich bis über die Grenze nach Togo"]
+    },
+    {
+      "id": "mount-afadja-relief-v2",
+      "descriptionAdvanced": "Mount Afadja (oft Afadjato genannt) in der Volta-Region ist mit 885 Metern der offiziell höchste Berg in Ghana. Er ist Teil der Agumatsa-Kette und stellt eine steile, kegelförmige Erhebung dar, die vollständig von dichtem, feuchtem Tropenwald überwuchert ist. Der Aufstieg ist extrem steil und durch das schwüle Klima physisch herausfordernd, belohnt Kletterer jedoch mit einem endlosen Panoramablick über die weite grüne Senke nach Togo. Geografie K6 — topografische Spitzen.",
+      "factsAdvanced": ["Höchster Berg in Ghana (885 Meter)", "Auch Afadjato genannt", "Steile, kegelförmige Erhebung", "Vollständig von feuchtem Tropenwald bewachsen", "Extrem steiler, herausfordernder Aufstieg", "Bietet Panoramablick nach Togo"]
+    },
+    {
+      "id": "kwae-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Kwae-Escarpment (Kwae-Steilstufe) in der Ashanti-Region markiert eine schroffe topografische Grenze, an der die waldreichen Ashanti-Hügel abrupt in tiefere, sanftere Täler abfallen. Diese gigantische geologische Verwerfungslinie entstand durch Millionen Jahre alte tektonische Verschiebungen und ist heute von dichtem Wald bewachsen. Sie stellt ein kritisches Hindernis für den Straßenbau dar, formt jedoch gleichzeitig tiefe, geschützte Täler, in denen winzige Dörfer vor den heftigen Tropenstürmen der Regenzeit sicher sind. Physik K8 — tektonische Verwerfungen.",
+      "factsAdvanced": ["Schroffe topografische Grenze (Steilstufe)", "Liegt in der Ashanti-Region", "Trennt Ashanti-Hügel von tiefen Tälern", "Entstanden durch tektonische Verschiebungen", "Kritisches Hindernis für den Straßenbau", "Bewahrt Dörfer vor Tropenstürmen"]
+    },
+    {
+      "id": "kwahu-plateau-relief-v2",
+      "descriptionAdvanced": "Das Kwahu-Plateau ist eine massiv erhöhte, weitläufige Hochebene im Zentrum Ghanas, die abrupt über 500 Meter aus dem flachen Volta-Becken emporragt. Diese flache, aber stark erodierte Sandsteinscholle wirkt wie eine natürliche Festung und war historisch extrem schwer einzunehmen. Das Plateau ist berühmt für sein kühleres Klima, das den Anbau von Gemüse und den Paragliding-Sport während des legendären Kwahu-Osterfestivals an seinen steilen Klippen (Escarpments) ermöglicht. Geografie K7 — Hochebenen und Erosion.",
+      "factsAdvanced": ["Massiv erhöhte Hochebene im Zentrum Ghanas", "Ragt über 500 Meter aus dem Volta-Becken empor", "Flache, stark erodierte Sandsteinscholle", "Historische natürliche Festung", "Kühleres Klima begünstigt Gemüseanbau", "Berühmt für Paragliding-Sport"]
+    },
+    {
+      "id": "volta-basin-relief-v2",
+      "descriptionAdvanced": "Das gigantische Volta-Becken dominiert als massive, flache Senke fast die Hälfte der gesamten Landmasse Ghanas. Geologisch handelt es sich um eine extrem alte Senkungszone, die auf hartem Vulkangestein ruht und mit weichen Sedimentschichten aufgefüllt wurde. Diese sanft geschwungene Topografie, die kaum durch Hügel unterbrochen wird, machte den enormen Rückstau des Volta-Sees nach dem Bau des Akosombo-Damms erst physisch möglich. Geografie K8 — Beckenlandschaften.",
+      "factsAdvanced": ["Gigantische, flache Senke", "Dominiert fast die halbe Landmasse Ghanas", "Extrem alte Senkungszone (auf Vulkangestein)", "Mit weichen Sedimentschichten aufgefüllt", "Ermöglichte den enormen Rückstau des Volta-Sees", "Kaum durch Hügel unterbrochen"]
+    },
+    {
+      "id": "bui-gorge-relief-v2",
+      "descriptionAdvanced": "Die Bui-Schlucht (Bui Gorge) war vor dem Dammbau eine der dramatischsten landschaftlichen Einkerbungen im Black Volta-Flusssystem. Hier hatte sich der gewaltige Fluss über Jahrtausende durch harte Gesteinsschichten gefressen und steile, fast vertikale Felswände hinterlassen. Diese enge natürliche Flaschenhals-Topografie machte die Schlucht zur idealen, aber ökologisch umstrittenen Position für die Errichtung der riesigen Bui-Staumauer im Jahr 2013. Geografie K7 — Flusserosion und Talsperren.",
+      "factsAdvanced": ["Dramatische Einkerbung im Black Volta-System", "Steile, fast vertikale Felswände", "Geformt durch Jahrtausende Flusserosion", "Natürliche Flaschenhals-Topografie", "Ideal für den Bau der Bui-Staumauer (2013)", "Ehemaliger Standort der Schlucht"]
+    },
+    {
+      "id": "ashanti-uplands-relief-v2",
+      "descriptionAdvanced": "Die Ashanti-Hügel (Ashanti Uplands) bilden ein komplexes Netzwerk aus sanften, kuppelförmigen Hügeln und tief eingeschnittenen Tälern im waldreichen Südwesten. Diese Erhebungen sind die erodierten Überreste eines uralten Gebirges, das durch endlose tropische Regenfälle im Laufe von Jahrmillionen rundgewaschen wurde. Die zerklüftete Topografie macht großflächige Landwirtschaft fast unmöglich, weshalb sich hier stattdessen das komplexe System kleiner, terrassenartiger Kakaofarmen der Ashanti-Bauern etablierte. Geografie K6 — Verwitterung.",
+      "factsAdvanced": ["Netzwerk sanfter, kuppelförmiger Hügel", "Liegt im waldreichen Südwesten", "Erodierte Reste eines uralten Gebirges", "Zerklüftete Topografie verhindert Großlandwirtschaft", "Zentrum terrassenartiger Kakaofarmen", "Massiv durch Tropenregen rundgewaschen"]
+    },
+    {
+      "id": "denu-coastal-plain-relief-v2",
+      "descriptionAdvanced": "Die Küstenebene bei Denu im äußersten Südosten ist ein völlig flaches, nahezu reliefartiges Sand- und Sumpfgebiet, das nur knapp über dem Meeresspiegel liegt. Im starken Gegensatz zu den schroffen Klippen der Westküste ist das Land hier so eben, dass während extremer Hochwasserphasen der Keta-Lagune und des Atlantiks oft ganze Landstriche überschwemmt werden. Diese Topografie begünstigt zwar die Landwirtschaft auf sandigen Böden, macht die Region jedoch extrem anfällig für Küstenerosion und den Klimawandel. Umwelt K7 — Küstenebenen.",
+      "factsAdvanced": ["Völlig flaches Sand- und Sumpfgebiet im Südosten", "Liegt nur knapp über dem Meeresspiegel", "Enormer Gegensatz zur Klippenküste im Westen", "Oft von Lagune und Atlantik überschwemmt", "Landwirtschaft auf sandigen Böden", "Extrem anfällig für Küstenerosion"]
+    },
+    {
+      "id": "gambo-hills-relief-v2",
+      "descriptionAdvanced": "Die Gambo-Hügel in der nördlichen Savanne (North East Region) heben sich als karge, steinige Rücken deutlich aus der flachen Landschaft ab. Diese Hügel bestehen größtenteils aus hartem, witterungsbeständigem Granit und Quarzit, das den erodierenden Winden der Sahara (Harmattan) trotzt. Sie dienen den lokalen Gemeinschaften nicht nur als wichtige Landmarken und natürliche Begrenzungen für weidende Viehherden, sondern gelten auch als heilige Wohnorte für alte Erdgeister. Geografie K6 — Winderosion.",
+      "factsAdvanced": ["Karge, steinige Rücken in der Nordsavanne", "Bestehen aus hartem Granit und Quarzit", "Trotzen den Sahara-Winden (Harmattan)", "Wichtige Landmarken für Viehherden", "Gelten als heilige Wohnorte für Erdgeister", "Heben sich deutlich von der Ebene ab"]
+    },
+    {
+      "id": "akuapem-ridge-relief-v2",
+      "descriptionAdvanced": "Der Akuapem Ridge ist der südlichste und bekannteste Teil der Akwapim-Togo-Kette, der sich direkt nördlich der Hauptstadt Accra steil erhebt. Diese steinerne Barriere steigt abrupt aus der flachen Küstensavanne auf und erreicht schnell Höhen von über 400 Metern, was zu einer steilen, kurvigen Auffahrt führt. An klaren Tagen bietet der Rücken einen unvergleichlichen Panoramablick bis auf den glitzernden Golf von Guinea und die wuchernde Metropole unter ihm. Geografie K7 — Gebirgsrücken.",
+      "factsAdvanced": ["Südlichster Teil der Akwapim-Togo-Kette", "Erhebt sich steil direkt nördlich von Accra", "Steigt abrupt aus der Küstensavanne auf", "Erreicht Höhen von über 400 Metern", "Führt zu einer kurvigen, steilen Bergstraße", "Bietet Panoramablick auf den Golf von Guinea"]
+    },
+    {
+      "id": "tano-basin-relief-v2",
+      "descriptionAdvanced": "Das Tano-Becken im tiefen Südwesten Ghanas ist eine sanfte, feuchte Senke, die fast vollständig vom Primärregenwald eingenommen wird. Die Topografie ist extrem flach und von Tausenden winziger Flussarme und Sumpfgebiete durchzogen, die stetig Wasser in den Tano-Fluss ableiten. Dieses schwer zugängliche Relief wirkt wie ein riesiger biologischer Schwamm, der sintflutartige Tropenregenfälle aufnimmt und vor verheerenden Sturzfluten schützt. Umwelt K8 — Schwammwirkung von Wäldern.",
+      "factsAdvanced": ["Sanfte, feuchte Senke im Südwesten", "Fast vollständig von Primärregenwald eingenommen", "Durchzogen von winzigen Flussarmen", "Wirkt wie ein riesiger biologischer Schwamm", "Nimmt sintflutartige Regenfälle auf", "Schützt Region vor zerstörerischen Sturzfluten"]
+    },
+    {
+      "id": "kintampo-plateau-relief-v2",
+      "descriptionAdvanced": "Das Kintampo-Plateau ist eine markante, leicht geneigte Hochebene, die als Übergangszone zwischen den feuchten Wäldern des Südens und der trockenen Savanne des Nordens fungiert. Die Ränder dieses Plateaus sind oft von schroffen Klippen gezeichnet, über die spektakuläre Wasserfälle (wie die Kintampo-Fälle) in die darunter liegenden Täler stürzen. Die flache Oberfläche des Plateaus ermöglicht eine extensive landwirtschaftliche Nutzung, während die steilen Flanken die Erosion beschleunigen. Geografie K6 — Plateaus und Wasserfälle.",
+      "factsAdvanced": ["Markante, leicht geneigte Hochebene", "Übergangszone zwischen Wald und Savanne", "Ränder sind von schroffen Klippen gezeichnet", "Spektakuläre Wasserfälle an den Flanken", "Flache Oberfläche für extensive Landwirtschaft", "Steile Klippen beschleunigen Erosion"]
+    },
+    {
+      "id": "white-volta-valley-relief-v2",
+      "descriptionAdvanced": "Das Tal des Weißen Volta (White Volta Valley) durchschneidet den flachen Norden Ghanas als breite, sanfte U-förmige Senke. Über Jahrtausende hat der Fluss während massiver Überschwemmungen eine breite Aue geschaffen, die mit fruchtbarem Alluvialboden (Schwemmland) bedeckt ist. Die fehlenden Erhebungen im Tal bedeuten jedoch, dass das Wasser in der Regenzeit schnell aus den Ufern tritt und Hunderte Quadratkilometer Land in einen temporären, knietiefen See verwandelt. Geografie K7 — Flusstäler und Auen.",
+      "factsAdvanced": ["Breite, U-förmige Senke im Norden Ghanas", "Entstanden durch Fluss-Überschwemmungen", "Bedeckt mit fruchtbarem Alluvialboden (Schwemmland)", "Wasser tritt in der Regenzeit schnell über Ufer", "Verwandelt sich in temporären See", "Perfektes Beispiel für Flusstäler"]
+    },
+    {
+      "id": "fanteakwa-escarpment-relief-v2",
+      "descriptionAdvanced": "Die Fanteakwa-Steilstufe (Escarpment) in der Eastern Region bildet eine dramatische geologische Klippe, an der das Land hunderte Meter steil abfällt. Die Hänge sind extrem stark von dichten Baumwurzeln durchzogen, die das lockere Gestein vor den massiven Erdrutschen während der Monsunzeit bewahren. Diese raue, schwer zugängliche Topografie formte in der Vergangenheit eine natürliche Festungslinie, die von kleinen Dörfern genutzt wurde, um sich vor Angreifern aus dem Tal zu verstecken. Geschichte K8 — Topografie und Verteidigung.",
+      "factsAdvanced": ["Dramatische geologische Klippe in der Eastern Region", "Land fällt hunderte Meter steil ab", "Hänge durch dichte Baumwurzeln gesichert", "Wurzeln verhindern Erdrutsche im Monsun", "Schwer zugängliche Naturfestung", "Historischer Schutzort für Dorfbewohner"]
+    },
+    {
+      "id": "akwapim-plains-relief-v2",
+      "descriptionAdvanced": "Eingeklemmt zwischen den Akwapim-Bergen und dem breiten Volta-Fluss bilden die Akwapim-Ebenen (Plains) eine völlig flache, grasbewachsene Senke. Die Topografie ist hier so eben, dass sich das Regenwasser in der Nasszeit nicht abfließen kann und riesige temporäre Sümpfe bildet. In der Trockenzeit backt der tonige Boden (Black Cotton Soil) extrem hart zusammen, was die Ebenen schwer bebaubar macht, aber ideal für großflächige Viehzucht ist. Geografie K6 — Tonebenen.",
+      "factsAdvanced": ["Völlig flache, grasbewachsene Senke", "Liegt zwischen Bergen und dem Volta-Fluss", "Bildet in Regenzeit riesige temporäre Sümpfe", "Boden (Black Cotton Soil) backt in Trockenzeit hart", "Schwer bebaubar für Ackerbau", "Ideal für großflächige Viehzucht"]
+    },
+    {
+      "id": "nsuta-hills-relief-v2",
+      "descriptionAdvanced": "Die Nsuta-Hügel in der Western Region erscheinen auf den ersten Blick als unscheinbare grüne Kuppen, sind aber geologisch von massiver Bedeutung. Im Kern dieser steilen, stark bewaldeten Hügel lagern einige der reinsten Mangan-Erze der Welt, die tief im Gestein eingebettet sind. Die steile Topografie erfordert beim industriellen Abbau riesige terrassenförmige Einschnitte, was die ursprüngliche Form der Hügel im Laufe eines Jahrhunderts komplett verändert hat. Umwelt K7 — Bergbau-Topografie.",
+      "factsAdvanced": ["Steile, stark bewaldete Hügel in der Western Region", "Bergen einige der reinsten Mangan-Erze der Welt", "Geologisch von massiver Bedeutung", "Industrieller Abbau zwingt zu Terrasseneinschnitten", "Ursprüngliche Form komplett verändert", "Umwelt massiv durch Topografie-Eingriffe geprägt"]
+    },
+    {
+      "id": "bongo-hills-relief-v2",
+      "descriptionAdvanced": "Die Bongo-Hügel in der Upper East Region gehören zu den bizarrsten Reliefs in Ghana. Es handelt sich um ein gigantisches Trümmerfeld aus riesigen, glattgeschliffenen Granitfelsen (Wollsackverwitterung), die aussehen, als wären sie von Riesen übereinandergestapelt worden. Diese Felsformationen bieten nicht nur spektakuläre Klettermöglichkeiten, sondern speichern in ihren tiefen Rissen auch wertvolles Regenwasser, das den Einheimischen in der gnadenlos trockenen Savanne das Überleben sichert. Geografie K8 — Granitverwitterung.",
+      "factsAdvanced": ["Bizarrstes Granit-Relief (Wollsackverwitterung) in Ghana", "Riesige, glattgeschliffene Felsen (Upper East Region)", "Wirken wie von Riesen gestapelt", "Speichern wertvolles Regenwasser in Rissen", "Sichern Überleben in trockener Savanne", "Spektakuläre Klettermöglichkeiten"]
+    },
+    {
+      "id": "dagbon-plateau-relief-v2",
+      "descriptionAdvanced": "Das Dagbon-Plateau erstreckt sich als riesige, sanft gewellte Hochebene über den größten Teil der Northern Region. Die Landschaft ist extrem monoton, fast ohne signifikante Berge, und wird von einer dicken Schicht harter Lateritkruste (Eisenstein) bedeckt. Dieses flache Relief sorgt dafür, dass sich Flüsse nur oberflächlich einschneiden, was zu einer großflächigen, flachen Verteilung des spärlichen Regenwassers führt und den Anbau von Yams auf der weiten Fläche begünstigt. Geografie K7 — Lateritböden.",
+      "factsAdvanced": ["Riesige, sanft gewellte Hochebene", "Erstreckt sich über größte Teile der Northern Region", "Bedeckt von dicker Lateritkruste (Eisenstein)", "Extrem monotone Landschaft ohne große Berge", "Verhindert tiefes Einschneiden von Flüssen", "Begünstigt Anbau von Yams"]
+    },
+    {
+      "id": "akposso-hills-relief-v2",
+      "descriptionAdvanced": "Die Akposso-Hügel in der Volta-Region nahe der togoischen Grenze bilden ein wildes, zerklüftetes Relief aus spitzen Kämmen und tiefen Schluchten. Die Faltengebirge zwingen Wolken zum Aufstieg, was das Gebiet mit Feuchtigkeit versorgt und eine dichte Tropenvegetation in einer sonst trockeneren Umgebung ermöglicht. Wegen ihrer extremen Steilheit und Unzugänglichkeit sind die Hügel nur spärlich besiedelt, was sie zu einem perfekten, ungestörten Habitat für seltene Bergvögel macht. Biologie K6 — Isolation und Habitat.",
+      "factsAdvanced": ["Wildes, zerklüftetes Relief (Volta-Region)", "Besteht aus spitzen Kämmen und tiefen Schluchten", "Zwingt Wolken zum Aufsteigen für Niederschlag", "Ermöglicht dichte Tropenvegetation in Trockenzone", "Sehr schwer zugänglich und spärlich besiedelt", "Perfektes Habitat für seltene Bergvögel"]
+    },
+    {
+      "id": "buem-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Buem-Escarpment ist eine weitere steile, dramatische Felskante in der Oti-Region, die eine abrupte geologische Verwerfung markiert. Der schroffe Abfall des Geländes macht die Region extrem schwer für den Straßenbau zugänglich, bietet aber atemberaubende Ausblicke über das östliche Volta-Becken. Die harten Gesteinsschichten der Steilstufe wehren sich hartnäckig gegen die Erosion, wodurch die Klippe auch nach Jahrtausenden tropischer Regengüsse scharfkantig und massiv bleibt. Geografie K8 — Geologische Verwerfungen.",
+      "factsAdvanced": ["Steile Felskante in der Oti-Region", "Markiert eine abrupte geologische Verwerfung", "Macht Straßenbau extrem schwer", "Bietet Ausblicke über das östliche Volta-Becken", "Harte Gesteinsschichten trotzen der Erosion", "Bleibt trotz Monsunregenfällen scharfkantig"]
+    },
+    {
+      "id": "shai-hills-relief-v2",
+      "descriptionAdvanced": "Das Relief der Shai Hills in der Greater Accra Region ist ein Schulbuchbeispiel für das Phänomen der Inselberge. Diese steilen, isolierten Granitkuppen erheben sich ohne Vorwarnung aus der völlig flachen Küstenebene und wirken wie gestrandete Meteoriten. Das Gestein ist extrem hart und rissig, durchzogen von riesigen Höhlensystemen, die von alten Zivilisationen genutzt wurden, um sich vor Feinden und wilden Tieren zu verstecken. Geografie K7 — Inselberge.",
+      "factsAdvanced": ["Schulbuchbeispiel für das Phänomen der Inselberge", "Steile Granitkuppen in der Küstenebene", "Ragen ohne Vorwarnung auf (Greater Accra)", "Wirken wie gestrandete Meteoriten", "Durchzogen von riesigen Höhlensystemen", "Historisches Versteck für alte Zivilisationen"]
+    },
+    {
+      "id": "kweku-hills-relief-v2",
+      "descriptionAdvanced": "Die Kweku-Hügel bilden eine sanfte, wellige Erhebungslinie im westlichen Hinterland. Im Gegensatz zu den schroffen Klippen im Osten sind diese Hügel stark erodiert und abgerundet, bedeckt von extrem tiefer, nährstoffreicher Erde. Diese sanfte Topografie ermöglichte es den Bauern der Region, riesige Flächen relativ einfach mit Kakaobäumen zu bepflanzen, ohne die Gefahr massiver Erdrutsche fürchten zu müssen. Geografie K6 — Hügellandschaften.",
+      "factsAdvanced": ["Sanfte, wellige Erhebungslinie im westlichen Hinterland", "Stark erodiert und abgerundet", "Bedeckt von extrem tiefer, nährstoffreicher Erde", "Verhindert die Gefahr massiver Erdrutsche", "Ermöglicht riesige, sichere Kakaoplantagen", "Sanfte Topografie im Gegensatz zu Ost-Klippen"]
+    },
+    {
+      "id": "oti-plain-relief-v2",
+      "descriptionAdvanced": "Die Oti-Ebene (Oti Plain) erstreckt sich östlich des Volta-Sees als extrem flaches Becken. Das absolute Fehlen jeglichen Reliefs bedeutet, dass das Wasser des Oti-Flusses in der Regenzeit massiv über die Ufer tritt und die Ebene in ein flaches, schlammiges Feuchtgebiet verwandelt. Während der Trockenzeit trocknet die Ebene komplett aus, und die Hitze lässt tiefe Risse im harten Boden entstehen, was das Gebiet ideal für nomadische Viehhirten macht. Geografie K7 — Schwemmebenen.",
+      "factsAdvanced": ["Extrem flaches Becken östlich des Volta-Sees", "Fehlen jeglichen Reliefs", "Wasser tritt in Regenzeit massiv über Ufer", "Verwandelt Ebene in schlammiges Feuchtgebiet", "Trocknet im Sommer komplett mit tiefen Rissen aus", "Ideal für nomadische Viehhirten"]
+    },
+    {
+      "id": "nkawkaw-escarpment-relief-v2",
+      "descriptionAdvanced": "Die gigantische Felswand des Nkawkaw Escarpment thront bedrohlich über der Stadt Nkawkaw in der Eastern Region. Diese gewaltige geologische Kante markiert den abrupten Beginn des hohen Kwahu-Plateaus. Die fast vertikalen, dicht bewaldeten Hänge verursachen einzigartige Aufwinde (Thermik), die dieses spezielle Relief zum afrikanischen Zentrum des Paragliding-Sports machen, wenn sich jährlich hunderte Springer in die Tiefe stürzen. Physik K8 — Thermik und Windströmungen.",
+      "factsAdvanced": ["Gigantische Felswand in der Eastern Region", "Markiert Beginn des hohen Kwahu-Plateaus", "Bedrohlicher Überhang über der Stadt Nkawkaw", "Vertikale Hänge verursachen starke Aufwinde", "Zentrum der ghanaischen Thermik-Forschung", "Afrikanisches Zentrum des Paragliding-Sports"]
+    },
+    {
+      "id": "gambia-hills-relief-v2",
+      "descriptionAdvanced": "Die Gambia-Hügel (in Ghana) bezeichnen eine kleine, stark erodierte Hügelkette, die aus hartem Quarzit und Sandstein besteht. Die raue Oberfläche dieser Hügel weist auf extreme Verwitterungsprozesse im Laufe von Jahrmillionen hin. Die geringe Bodenbedeckung der Hänge zwingt die spärliche Vegetation, ihre Wurzeln tief in die Gesteinsspalten zu treiben, was das Relief zu einem hervorragenden Forschungsort für Geologen und Botaniker macht. Geografie K6 — Gesteinsverwitterung.",
+      "factsAdvanced": ["Kleine, stark erodierte Hügelkette", "Besteht aus extrem hartem Quarzit und Sandstein", "Rauhe Oberfläche zeigt Jahrtausende der Verwitterung", "Sehr spärliche Bodenbedeckung", "Pflanzenwurzeln sprengen das Gestein", "Hervorragender Forschungsort für Geologen"]
+    }
+  ]
+}

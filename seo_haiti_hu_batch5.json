@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "habitation-des-laurier-bas-history-v2",
+      "descriptionAdvanced": "Az Habitation des Lauriers Bas a híres Lauriers ültetvénykomplexum (feltehetően a Nord megyében) alacsonyabban fekvő, síksághoz közelebbi része volt. Míg a hegyvidéki 'Haut' (felső) területeken a hűvösebb klímát igénylő kávét termesztették, a 'Bas' (alsó) zónák melegebb és párásabb időjárása tökéletes volt a cukornád és az indigó tömeges termesztésére. Ez az alsó birtok valóságos ipartelep volt a 18. században: rabszolgák százai dolgoztak a tűző napon, hogy levágják a cukornádat, amelyet aztán az itt működő malmokban (moulins) dolgoztak fel. A földrajzi elkülönülés ellenére az alsó és felső birtokok egyetlen integrált ellátási láncot alkottak a francia tulajdonos számára. A forradalom viharában ez a terület is megsemmisült, a malmok és forralóházak kőből rakott üstjeinek nyomait pedig lassan benőtte a nád és a trópusi cserjés. Geschichte K8 — a gyarmati vertikális integráció.",
+      "factsAdvanced": [
+        "A kiterjedt Lauriers ültetvényrendszer alacsonyabban fekvő, agráripari része.",
+        "Míg a felső részeken kávét, itt főleg cukornádat és indigót termesztettek.",
+        "A cukornád-feldolgozás legnehezebb, legforróbb szakaszai itt zajlottak.",
+        "Egyetlen komplex gazdasági egységet alkotott a felső (Haut) birtokokkal.",
+        "Az 1790-es évek rabszolgafelkelései során a létesítményeket lerombolták.",
+        "Ma az egykori forralóüzemek (sucreries) elszórt kőalapjai láthatók a területen."
+      ]
+    },
+    {
+      "id": "fort-de-la-riviere-blanche-history-v2",
+      "descriptionAdvanced": "A Fort de la Rivière Blanche egy stratégiai védekező pont volt a Rivière Blanche (Fehér-folyó) kanyonjában, amely a Cul-de-Sac síkságot kötötte össze a hegyvidéki területekkel. A 19. század hajnalán, Haiti függetlenségének kikiáltása után Jean-Jacques Dessalines kiterjedt erődrendszert építtetett ki az ország belsejében. Ezek a belső erődök szolgáltak menedékül arra az esetre, ha a francia hadsereg újra partra szállna, és a haiti erők kénytelenek lennének alkalmazni a felperzselt föld taktikáját, visszavonulva a hegyekbe. A Rivière Blanche erődje a vízutánpótlás biztosítása és a völgy szűk átjárójának lezárása miatt kapott kiemelt szerepet. Ma a nehezen megközelíthető, trópusi bozótossal benőtt romok a korabeli haiti hadmérnöki találékonyságról tanúskodnak, akik kiválóan használták ki a meredek terep adottságait. Geschichte K7 — posztkoloniális hegyvidéki védelmi stratégiák.",
+      "factsAdvanced": [
+        "A Rivière Blanche völgyének szűk, stratégiai átjáróját védte az Ouest megyében.",
+        "A függetlenség (1804) után épült a Dessalines-féle belső erődrendszer részeként.",
+        "Feladata egy esetleges újabb francia invázió hegyvidéki lassítása volt.",
+        "Az erőd kiválóan alkalmazkodott a meredek sziklafalak természetes védelméhez.",
+        "Biztosította a hegyekbe visszavonuló haiti csapatok vízellátását.",
+        "A természet által visszahódított romok ma is megtalálhatók a kanyon felett."
+      ]
+    },
+    {
+      "id": "habitation-saint-jean-history-v2",
+      "descriptionAdvanced": "Az Habitation Saint-Jean egy gazdag és befolyásos 18. századi gyarmati ültetvény volt, amelynek neve az egész országban több megyében is felbukkan (leggyakrabban a Sud vagy az Ouest síkságain). Mint oly sok tipikus francia birtok, ez is a rabszolgamunka kegyetlen rendszerén alapult. Amitől a Saint-Jean birtokok (és az azonos nevű lakou-k) különlegessé váltak a függetlenség után, az a helyi vudu hiedelemrendszer megszilárdulása volt. A gyarmati romok körül kialakuló új, szabad paraszti közösségek gyakran sajátították ki a katolikus szentek (mint Keresztelő Szent János) neveit, és kapcsolták össze őket a vudu loa-kkal (szellemekkel). Az Habitation Saint-Jean egykori központja így idővel fontos vallási és spirituális találkozóhellyé válhatott a nyári napforduló (Szent János éjszakája) idején tartott rituálék során. Sachkunde K8 — a gyarmati ültetvényektől a vudu közösségekig.",
+      "factsAdvanced": [
+        "A francia gyarmati korszakban jövedelmező cukor- vagy indigóültetvény volt.",
+        "A forradalom után a terület a felszabadított rabszolgák közösségi tulajdonába (lakou) került.",
+        "A helyszín neve (Saint-Jean) szorosan összefonódott a haiti vudu vallási szinkretizmusával.",
+        "Szent János (és a neki megfeleltetett vudu szellem) ünnepekor fontos ceremóniák helyszíne.",
+        "A fizikai épületek (kúria, malom) a 18. század végén nagyrészt elpusztultak.",
+        "A terület ma a hagyományos haiti rurális közösségi élet egyik színtere."
+      ]
+    },
+    {
+      "id": "fort-bambou-history-v2",
+      "descriptionAdvanced": "A Fort Bambou egy lenyűgöző példája a haiti forradalom alatti irreguláris, gerilla típusú erődítményépítésnek. Szemben a franciák által kőből és habarcsból épített masszív parti erődökkel, a felkelő afrikai rabszolgák és marroonok a belső, hegyes-erdős vidékeken gyakran a természet adta anyagokat használták. A Fort Bambou eredetileg egy olyan magaslati tábor vagy sáncrendszer volt, amelyet óriási, összefont bambusztörzsekkel és földsáncokkal (redoute) erősítettek meg. Ezek a 'bambusz erődök' gyorsan felépíthetők voltak, meglepően jól ellenálltak a könnyűfegyverek tüzének, és szinte észrevehetetlenül olvadtak bele a trópusi környezetbe. Bár a fizikai maradványok az évszázadok során biológiailag lebomlottak, a helyszín dűlőnévként fennmaradt, emléket állítva a felkelők taktikai zsenialitásának és a helyi nyersanyagok maximális kihasználásának. Geschichte K7 — aszimmetrikus hadviselés és gerilla erődítmények.",
+      "factsAdvanced": [
+        "A haiti forradalom idején a felkelők által használt gerilla-sáncrendszer volt.",
+        "Építéséhez elsősorban helyben fellelhető, masszív bambusztörzseket és földet használtak.",
+        "Kialakítása lehetővé tette, hogy az erőd beleolvadjon a sűrű trópusi dzsungelbe.",
+        "Ideiglenes, de hatékony védelmet nyújtott a reguláris francia csapatokkal szemben.",
+        "Szerves anyagból épült, így fizikai romjai ma már szinte teljesen hiányoznak.",
+        "Nevét dűlőnévként vagy történelmi emlékezetként őrzi a helyi közösség."
+      ]
+    },
+    {
+      "id": "habitation-du-nord-history-v2",
+      "descriptionAdvanced": "Az Habitation du Nord (Északi Birtok) egy gyűjtőnév és történelmi szimbólum, amely a Nord megye gazdag Plaine du Nord (Északi Síkság) területén fekvő hatalmas cukorültetvények egyikét jelöli. Ez a régió volt Saint-Domingue legértékesebb gyöngyszeme, a francia gyarmatbirodalom gazdasági motorja. Ugyanakkor éppen ezen az 'Északi Birtokon' és a környező ültetvényeken (mint a Bréda birtok) lobbant fel a forradalom lángja 1791 augusztusában, a híres Bois Caïman-i vudu ceremónia után. A rabszolgák fellázadtak az embertelen körülmények ellen, és mindössze néhány nap alatt porig égették a Plaine du Nord több száz ültetvényét, beleértve a kúriákat és a cukormalmokat. Az égő 'Északi Birtokok' füstje Cap-Français (ma Cap-Haïtien) egét is elsötétítette, végérvényesen megváltoztatva a világtörténelmet. Geschichte K8 — az 1791-es északi rabszolgafelkelés kirobbanása.",
+      "factsAdvanced": [
+        "A Plaine du Nord régióban található jövedelmező francia cukorültetvény volt.",
+        "A 18. században ez a régió volt a globális cukortermelés egyik központja.",
+        "Az 1791. augusztusi hatalmas rabszolgalázadás egyik kezdőpontja vagy korai áldozata.",
+        "A birtokon a munkakörülmények extrém módon brutálisak és halálosak voltak.",
+        "A felkelők szisztematikusan elpusztították a birtok forralóházait és malmait.",
+        "A romok ma is a haiti forradalom pusztító, de felszabadító erejét szimbolizálják."
+      ]
+    },
+    {
+      "id": "fort-des-trois-baies-history-v2",
+      "descriptionAdvanced": "A Fort des Trois Baies (A Három Öböl Erődje) a Nord-Est (Északkeleti) megye partvidékének, pontosabban a Parc National des Trois Baies (Három Öböl Nemzeti Park) védett partvonalának egykori katonai támaszpontja. A gyarmati időkben a franciák azért építették, hogy szemmel tartsák az Atlanti-óceán felől érkező kalózokat, és védelmezzék a környező öblök (Baie de Fort-Liberté, Baie de Caracol, Baie de Limonade) nyugalmas vizein horgonyzó kereskedelmi hajókat. Később a bázis jelentősége csökkent, amikor a független Haiti figyelme a belső fenyegetésekre irányult. Ma a romok a nemzeti park érintetlen mangroveerdei és lagúnái között fekszenek. A helyszín különleges ötvözete a katonai történelemnek és a biológiai sokféleségnek, ahol az évszázados ágyúcsövek között vízimadarak fészkelnek. Földrajz K8 — partvédelmi rendszerek és tengeri nemzeti parkok.",
+      "factsAdvanced": [
+        "A Nord-Est megye történelmi tengerparti védvonalának része.",
+        "Nevét a környező három nagy öbölről (Fort-Liberté, Caracol, Limonade) kapta.",
+        "A francia gyarmati hatóságok emelték a kalóztámadások és a csempészek ellen.",
+        "Ma a Parc National des Trois Baies védett ökológiai övezetének területén található.",
+        "A kőfalak és a tengerparti erődítés maradványait sűrű mangroveerdő veszi körül.",
+        "Kiváló példája a természeti örökség és a történelmi romok szimbiózisának."
+      ]
+    },
+    {
+      "id": "habitation-le-vieux-history-v2",
+      "descriptionAdvanced": "Az Habitation Le Vieux (Az 'Öreg' Birtok) a gyarmati kor hajnalára, a 17. század végére vagy a 18. század elejére tehető telepes gazdaságok egyik korai példája. Ez az ültetvény valószínűleg még azelőtt alakult ki, hogy Saint-Domingue teljesen átállt volna az ipari méretű cukortermelésre; kezdetben dohányt, pamutot és indigót termeltek itt. A 'Le Vieux' név utalhat a birtokos család hosszú helyi történelmére (a 'grands blancs' vagyis a régi telepes elit tagjai). Mivel az ültetvény régebbi volt a legtöbbnél, építészeti stílusa és elrendezése kevésbé volt racionális és geometrikus, mint a későbbi felvilágosodás korabeli cukorbirtokoké. A forradalom ugyanúgy elsöpörte, mint a többit, de földrajzi elhelyezkedése miatt (gyakran a tengerparti síkságok elsőként művelésbe vont sávjain) a korai gyarmati agrártörténet fontos mementója. Geschichte K7 — a korai gyarmati mezőgazdaság Saint-Domingue-ban.",
+      "factsAdvanced": [
+        "A korai francia telepes korszakból (17. sz. vége - 18. sz. eleje) származó birtok.",
+        "A név ('Az Öreg') valószínűleg a tulajdonos család régi gyarmati gyökereire utal.",
+        "A cukor térhódítása előtt főként dohányt, pamutot vagy indigót termeszthettek itt.",
+        "Építészeti elrendezése organikusabb, kevésbé tervezett volt, mint a későbbi nagybirtokoké.",
+        "Az 1791-es és az azt követő felkelések során a birtok épületei megsemmisültek.",
+        "Helyszíne a legkorábban művelés alá vont parti síkságokon keresendő."
+      ]
+    },
+    {
+      "id": "fort-de-la-presquile-est-history-v2",
+      "descriptionAdvanced": "A Fort de la Presqu'île Est, a 'Keleti Félsziget Erődje', egy katonai bázis volt Haiti északnyugati (Nord-Ouest) vagy északkeleti félszigeti nyúlványán, amelynek feladata a partmenti tengeri forgalom felügyelete volt a 18. század során. Szemben a déli és nyugati nagy öblökkel, a keleti partszakaszokon az erődök kisebbek voltak, és inkább a csempészek, valamint az illegális fakitermelők (például a spanyol területekről érkezők) elriasztására szolgáltak. Az erőd stratégiai magaslatra, egy félsziget orrára épült, így a helyőrség több tengeri mérföldnyire belátta az óceánt. A függetlenség elnyerése után a bázist elhagyták, mivel a fiatal haiti államnak nem volt számottevő flottája, amelyet védenie kellett volna az itteni partoknál. A kőalapzatok dacolnak a szelekkel és a sóval, magányos őrtoronyként állva az időben. Geschichte K7 — partvédelmi figyőhálózatok és csempészet.",
+      "factsAdvanced": [
+        "A félsziget ('presqu'île') tengerfokára épült őr- és tüzérségi poszt.",
+        "Fő feladata a tengeri forgalom figyelése és az illegális kereskedelem megfékezése volt.",
+        "A spanyol és brit csempészhajók jelentették a legnagyobb kihívást ezen a részen.",
+        "Haiti függetlensége (1804) után a hadsereg hamar kiürítette a bázist.",
+        "A szélnek és az óceáni viharoknak kitett helyszín miatt az erózió jelentős.",
+        "Fizikai maradványai zömmel az alapzatokból és néhány kőfalból állnak."
+      ]
+    },
+    {
+      "id": "habitation-du-sud-history-v2",
+      "descriptionAdvanced": "Az Habitation du Sud ('Déli Birtok') a Sud (Déli) megye gazdag, síkvidéki területein (például a Plaine des Cayes) elhelyezkedő 18. századi nagybirtokok prototípusa volt. Ez a régió különösen híres volt a cukor- és kávétermelés diverzifikációjáról. Az északi síkságokkal ellentétben a déli birtokokon gyakrabban fordult elő, hogy a szabad színesbőrűek (affranchis) is jelentős földekkel és rabszolgákkal rendelkeztek, ami a forradalom idején egyedülálló, hármas hatalmi harcot (fehérek, szabad színesbőrűek, rabszolgák) eredményezett a régióban. Az Habitation du Sud a Kések Háborúja (Guerre des Couteaux, 1799–1800) idején, Toussaint Louverture és André Rigaud seregeinek összecsapásakor is hadszíntér volt. A háborúk nyomán a birtok épületei megsemmisültek, és a korábbi monokultúrás rabszolgagazdaság helyét a paraszti kisbirtokok (lakou) rendszere vette át. Geschichte K8 — a déli megyék egyedi társadalma és a Kések Háborúja.",
+      "factsAdvanced": [
+        "Kiterjedt 18. századi ültetvény a Sud (Déli) megye termékeny síkságain.",
+        "A régióban a szabad színesbőrű elit is jelentős birtokosi réteget képzelt.",
+        "Az ültetvény heves harcok színtere volt a Kések Háborúja (1799-1800) alatt.",
+        "Toussaint Louverture (észak) és André Rigaud (dél) csapatai ütköztek itt meg.",
+        "A pusztítás után a területet a felszabadult lakosság apró parcellákra osztotta.",
+        "Tipikus példája a déli társadalmi dinamikák radikális átalakulásának."
+      ]
+    },
+    {
+      "id": "haiti-cathedral-cap-haitien-landmarks-v2",
+      "descriptionAdvanced": "A Notre-Dame de l'Assomption Katedrális (Cathédrale Notre-Dame du Cap-Haïtien) Haiti északi részének legjelentősebb vallási és történelmi műemléke, amely Cap-Haïtien főterén, a Place d'Armes-on áll. A jelenlegi épület helyén már 1670-ben épült egy kápolna, de a mai impozáns kőtemplom építése a 19. század végén és a 20. század elején (1942-ig) zajlott, a francia gyarmati építészet stílusjegyeit követve. A katedrális történelmi jelentősége óriási: 1793. augusztus 29-én Léger-Félicité Sonthonax francia biztos ezen a téren, a templom előtt hirdette ki a rabszolgák felszabadítását (az általános emancipációt megelőzve). Az épület túlélte a történelem számos viharát, köztük városi tüzeket és forradalmakat. Fenséges homlokzata, ikertornyai és tágas, boltíves beltere ma is a város szellemi központjává teszi, ahol a katolikus ünnepek alatt ezrek gyűlnek össze. Sachkunde K8 — gyarmati építészet és történelmi terek.",
+      "factsAdvanced": [
+        "Cap-Haïtien szívében, a történelmi Place d'Armes (Fegyverek Tere) oldalán áll.",
+        "A jelenlegi kőépület javarészt 1878 és 1942 között épült.",
+        "Előtte hirdette ki Sonthonax a rabszolgák első, regionális felszabadítását 1793-ban.",
+        "Építészeti stílusa francia gyarmati és neoklasszicista elemeket ötvöz.",
+        "1911-ben X. Pius pápa emelte egyházmegyei katedrális rangra.",
+        "Az északi megye (Nord) legfontosabb katolikus központja és zarándokhelye."
+      ]
+    },
+    {
+      "id": "haiti-fort-liberte-landmarks-v2",
+      "descriptionAdvanced": "Fort-Liberté városa önmagában is egy szabadtéri múzeum, de a legfontosabb történelmi nevezetessége maga az azonos nevű erőd, amelyet a franciák Fort Dauphin néven építettek 1731-ben. Az építményt a tengeröböl (Baie de Fort-Liberté) szűk bejáratának keleti oldalára emelték, Étienne Chaussegros de Léry híres francia hadmérnök tervei alapján, hogy megvédje Észak-Saint-Domingue partjait. A csillag alakú, vastag kőfalakkal és bástyákkal rendelkező erődítményből lenyűgöző kilátás nyílik az Atlanti-óceánra és a palack alakú öbölre. Haiti függetlenné válása (1804) után az erődöt Fort-Liberté-re nevezték át, szimbolizálva a rabszolgaság alóli felszabadulást. Noha a fegyverek elnémultak, és az épület romos állapotban van – sok ágyút belepett a fű –, történelmi és építészeti jelentősége miatt a haiti nemzeti örökség egyik legértékesebb gyöngyszeme. Geschichte K7 — 18. századi hadmérnöki munkák a Karib-térségben.",
+      "factsAdvanced": [
+        "A Nord-Est (Északkeleti) megye azonos nevű székhelyén található.",
+        "Eredetileg 1731-ben épült francia parancsra, Fort Dauphin néven.",
+        "Étienne Chaussegros de Léry, neves francia királyi hadmérnök tervezte.",
+        "A 'palacknyakú' Fort-Liberté öböl szűk, tengeri bejáratát védte.",
+        "Haiti 1804-es függetlensége után kapta a 'Szabadság Erődje' nevet.",
+        "Számos korabeli, 18. századi rozsdásodó ágyú ma is a helyszínen látható."
+      ]
+    },
+    {
+      "id": "haiti-palais-aux-365-portes-landmarks-v2",
+      "descriptionAdvanced": "A Palais aux 365 Portes (A 365 Ajtó Palotája), más néven a Palais de la Petite-Rivière, egy lenyűgöző és titokzatos történelmi épület Petite-Rivière-de-l'Artibonite városában. A helyi legenda szerint Henri Christophe király (Henri I.) kezdte el építtetni a 19. század elején, de a valóságban az épületet Jean-Jacques Dessalines rendelte el még uralkodása alatt (1804-1806) palotaként és adminisztratív központként. A hatalmas, európai barokk és neoklasszikus stílusjegyeket idéző épület nevét a benne található rengeteg ajtóról és ablakról kapta, amelyek állítólag az év napjait szimbolizálták. Az épületet sosem fejezték be teljesen a vezetők korai halála miatt. Később, a 20. században az épületet felújították, és hosszú ideig a helyi polgármesteri hivatalnak és bíróságnak adott otthont. Méretei és pompája jól mutatják a korai haiti vezetők birodalomépítő ambícióit. Geschichte K8 — a korai haiti állam monumentális építészete.",
+      "factsAdvanced": [
+        "Petite-Rivière-de-l'Artibonite városközpontjában (Artibonite megye) áll.",
+        "Építését Jean-Jacques Dessalines, Haiti alapító atyja kezdte meg a 19. sz. elején.",
+        "Nevét ('365 Ajtó Palotája') a homlokzatot tagoló rengeteg nyílászáróról kapta.",
+        "A korai haiti független állam adminisztratív központjának szánták.",
+        "Soha nem fejezték be az eredeti tervek szerint az uralkodók halála miatt.",
+        "A 20. századi felújítás után közigazgatási épületként (városháza) működött."
+      ]
+    },
+    {
+      "id": "haiti-fort-alexandre-landmarks-v2",
+      "descriptionAdvanced": "A Fort Alexandre egy fontos, Port-au-Prince felett emelkedő katonai erődítmény volt, amelyet Alexandre Pétion, a haiti köztársaság (déli) első elnöke építtetett a 19. század elején. Az erőd stratégiai célja a főváros és a kormányzati negyed védelme volt mind a belső ellenségekkel (az északi Christophe királyság csapataival), mind pedig egy esetleges francia tengeri vagy szárazföldi invázióval szemben. Az építmény Pétion nevét viseli, és a hegygerincen elfoglalt pozíciója (valószínűleg a Morne l'Hôpital lejtőin) lehetővé tette a teljes öböl és a város szemmel tartását. Mint sok korabeli haiti erőd, ez is ötvözte a gyorsan felhúzott sáncokat a masszívabb kőbástyákkal. Ma a város gyors urbanizációja és a nyomornegyedek (bidonvilles) terjeszkedése miatt a történelmi alapzatok szinte teljesen beleolvadtak Port-au-Prince sűrűn beépített, kaotikus városképébe. Geschichte K7 — a dél-haiti köztársaság védelmi stratégiája.",
+      "factsAdvanced": [
+        "Port-au-Prince városát védő magaslati erőd a 19. század elejéről.",
+        "Alexandre Pétion haiti elnök (a déli Köztársaság vezetője) építtette.",
+        "Fő feladata a főváros védelme volt a belső és külső (francia) fenyegetésekkel szemben.",
+        "A Morne l'Hôpital hegy lejtőiről teljes rálátást biztosított a Gonâve-öbölre.",
+        "Az észak-dél haiti polgárháborúk idején is katonai funkciót látott el.",
+        "Maradványai ma nagyrészt eltűntek a modern kori fővárosi beépítés miatt."
+      ]
+    },
+    {
+      "id": "haiti-monument-toussaint-louverture-landmarks-v2",
+      "descriptionAdvanced": "A Toussaint Louverture-emlékmű Port-au-Prince szívében, a Nemzeti Palota (Palais National) előtti parkban (Champ de Mars) áll. Ez a hatalmas bronzszobor Haiti egyik legnagyobb nemzeti hősének, François-Dominique Toussaint Louverture-nek állít emléket, aki az 1791-es rabszolgafelkelés vezetőjéből lett zseniális katonai stratéga, és az egész szigetet felszabadította a rabszolgaság alól. A szobor egy büszke, korabeli francia tábornoki egyenruhában álló alakot ábrázol, kezében a függetlenségi nyilatkozat alapjait jelentő 1801-es alkotmánnyal. Az emlékművet a haiti nemzettudat egyik legszentebb zarándokhelyeként tisztelik. Bár a 2010-es földrengés során a környező épületek (beleértve a Palotát is) súlyos károkat szenvedtek vagy megsemmisültek, a szobor sértetlenül vészelte át a katasztrófát, a haiti nép kitartásának szimbólumává válva. Sachkunde K8 — nemzeti szimbólumok és történelmi emlékezet.",
+      "factsAdvanced": [
+        "Port-au-Prince főterén, a Champ de Mars parkban található.",
+        "Toussaint Louverture-t, a haiti forradalom zseniális vezérét ábrázolja.",
+        "A bronzszobor a hőst tábornoki egyenruhában, kezében az 1801-es alkotmánnyal jeleníti meg.",
+        "A 2010-es földrengés során szimbolikus módon sértetlen maradt.",
+        "A tér hagyományosan a nemzeti ünnepek és politikai gyűlések fő helyszíne.",
+        "Haiti legfontosabb szabadtéri emlékműveinek (Les Héros de l'Indépendance) egyike."
+      ]
+    },
+    {
+      "id": "haiti-cathedrale-de-la-sainte-trinite-landmarks-v2",
+      "descriptionAdvanced": "A Szentháromság Püspöki Katedrális (Cathédrale de la Sainte-Trinité) Port-au-Prince-ben a haiti Episzkopális (Anglikán) Egyház központja volt, és világhírnévre tett szert lenyűgöző belső falfestményei révén. A 20. század közepén (1949-1951) az épület falait Haiti leghíresebb naiv festői (köztük Philomé Obin, Castera Bazile, Rigaud Benoit) borították be monumentális, élénk színű freskókkal, amelyek bibliai jeleneteket ábrázoltak – de mindezt haiti karakterekkel, haiti vidéki és városi környezetben. A művek a haiti művészeti reneszánsz csúcspontját jelentették. Tragikus módon a 2010. január 12-i földrengés a katedrálist szinte teljesen romba döntötte, és a felbecsülhetetlen értékű freskóknak csak mintegy harmada élte túl a katasztrófát, súlyosan sérülten. Azóta nemzetközi (köztük a Smithsonian Intézet) összefogás zajlik a megmaradt műalkotások konzerválására és a templom újjáépítésére. Sachkunde K8 — a haiti naiv művészet és a földrengés pusztítása.",
+      "factsAdvanced": [
+        "Port-au-Prince-ben található, a haiti Episzkopális Egyház főtemploma.",
+        "Világhírű volt az 1949–1951 között készült haiti naiv falfestményeiről (freskóiról).",
+        "A freskók bibliai jeleneteket ábrázoltak haiti kontextusba helyezve.",
+        "A 2010-es pusztító földrengés az épületet és a műalkotások 70%-át megsemmisítette.",
+        "A megmaradt freskókat (pl. Philomé Obin műveit) nemzetközi stábok restaurálják.",
+        "Az épület romjai ma a haiti kulturális veszteség és az újjáépítési remény szimbólumai."
+      ]
+    },
+    {
+      "id": "haiti-fort-relais-landmarks-v2",
+      "descriptionAdvanced": "A Fort Relais (Relé Erőd) egyike a kevésbé monumentális, de taktikailag annál fontosabb híradó- és megfigyelőposztoknak, amelyeket a korai 19. században építettek Haiti hegyvidékein. Henri Christophe (északon) és Alexandre Pétion (délen) is komoly optikai távíró- (szemafor) és jelzőtűz-hálózatot hozott létre a hegycsúcsokon, hogy egy esetleges francia partraszállás esetén órák alatt értesíteni tudják az egész országot. A Fort Relais egy ilyen kommunikációs láncszem volt, ahol egy kisméretű kőtorony vagy sánc biztosította a katonai helyőrség védelmét, akiknek feladata a jelek (füst, zászlók, vagy később fénytükrök) továbbítása volt a következő hegycsúcs felé. Ezek az építmények, bár mára teljesen beleolvadtak az erdőkbe, bizonyítják a fiatal haiti állam rendkívüli szervezettségét és fejlett honvédelmi stratégiáját a fenyegetettség éveiben. Geschichte K7 — 19. századi katonai távközlési hálózatok.",
+      "factsAdvanced": [
+        "Hegyvidéki katonai megfigyelő- és híradóállomás a 19. század elejéről.",
+        "Része volt a fiatal haiti állam (pl. Christophe királysága) optikai kommunikációs láncának.",
+        "Célja a gyors riasztás (jelzőtüzek, szemaforok) volt egy ellenséges flotta feltűnésekor.",
+        "Csak kisebb helyőrség és könnyűfegyverzet állomásozott itt.",
+        "Építészeti szempontból kisebb tornyokból és sáncokból állt a hegygerincen.",
+        "A fenyegetés elmúltával az állomást elhagyták, ma csak elszórt kőnyomok maradtak."
+      ]
+    },
+    {
+      "id": "haiti-monument-marron-inconnu-landmarks-v2",
+      "descriptionAdvanced": "Le Marron Inconnu (Az Ismeretlen Szökött Rabszolga) vagy más néven a 'Nèg Mawon', Haiti egyik leghíresebb és leghatásosabb köztéri emlékműve, amely a Port-au-Prince-i Champ de Mars téren, a Nemzeti Palota mellett található. A bronzszobrot 1967-ben alkotta a haiti szobrász, Albert Mangonès. Az alkotás egy izmos, láncaitól (fél lábán még ott az eltört béklyó) megszabadult férfit ábrázol, aki térdre ereszkedve egy kagylókürtöt (lambi) fúj. Ez a kürt volt az a jelzés, amellyel a szökött rabszolgák (marroonok) a hegyekből harcba és lázadásba hívták társaikat (mint például az 1791-es Macaya felkeléskor). A szobor tövében egy örökláng lobog. Ez a műalkotás nemcsak Haiti nemzetközi szimbóluma, hanem a világ összes szabadságért küzdő és a rabszolgaság ellen lázadó elnyomottjának egyetemes emlékműve is, amely csodával határos módon túlélte a 2010-es földrengést. Sachkunde K8 — az afrikai diaszpóra és a szabadság szimbólumai.",
+      "factsAdvanced": [
+        "Albert Mangonès haiti szobrászművész alkotása 1967-ből.",
+        "Port-au-Prince főterén, a Champ de Mars-on áll a Nemzeti Palota romjai közelében.",
+        "Egy 'lambi'-t (kagylókürtöt) fújó, láncait letépő szökött rabszolgát (marroont) ábrázol.",
+        "A kagylókürt hangja volt a lázadásra és gyülekezőre hívó történelmi jelzés.",
+        "A szobor talapzatán egy örökláng ég a szabadság hőseinek tiszteletére.",
+        "Az ENSZ (UNESCO) által is elismert egyetemes szimbóluma a rabszolgaság elleni harcnak."
+      ]
+    },
+    {
+      "id": "haiti-fort-toussaint-landmarks-v2",
+      "descriptionAdvanced": "A Fort Toussaint (vagy gyakran Fort Louverture néven emlegetett) egy újabb gyöngyszeme annak a védelmi rendszernek, amelyet a haiti vezetők építettek ki az ország függetlenségének védelmében. Ezt a létesítményt Toussaint Louverture-ről, a forradalom 'Fekete Spartacusáról' nevezték el. Az erőd (amely több helyen is állhatott az országban, gyakran dombtetőkön az északi vagy a középső megyékben) tipikus példája a korszak 'citadella-doktrínájának'. A haitiak, tanulva a síkságon elszenvedett veszteségekből, rájöttek, hogy a nehezen járható, hegyes vidékeken felépített kőerődök bevehetetlenek az európai hadseregek számára. A Fort Toussaint masszív bazalt- és mészkőfalai apró lőréseket rejtettek a muskétások számára, míg a lapos tetőn ágyúkat helyeztek el. Mára a helyszínt visszahódította a dzsungel, így az erőd romjai csendes, titokzatos mementóként állnak a hegyekben. Geschichte K7 — Toussaint Louverture katonai stratégiája.",
+      "factsAdvanced": [
+        "A haiti forradalom zseniális vezetőjéről, Toussaint Louverture-ről elnevezett erőd.",
+        "A hegyvidéki védelmi láncolat (a 'citadella-doktrína') része volt a 19. sz. elején.",
+        "Célja a síkságok felől érkező támadó ellenség megállítása volt egy magasan fekvő ponton.",
+        "Masszív helyi bazalt- és mészkőblokkokból épült, lőrésekkel a muskétásoknak.",
+        "A nehéz megközelíthetőség kulcsfontosságú volt a védelmi stratégiában.",
+        "Mára a trópusi növényzet (indák, fák) nagyrészt elrejtik a kőfalakat a külvilág elől."
+      ]
+    },
+    {
+      "id": "haiti-cathedrale-jacmel-landmarks-v2",
+      "descriptionAdvanced": "A Saint-Philippe és Saint-Jacques Katedrális (Cathédrale Saint-Philippe et Saint-Jacques) Jacmel városának építészeti és spirituális ékköve, amely a Sud-Est (Délkeleti) megye partvidékén, a történelmi városközpontban emelkedik. Az eredeti templom a francia gyarmati időkben épült, de a jelenlegi, lenyűgöző építmény a 19. század végén, 1859-es leégése után kapta meg mai formáját. A katedrális építészetében keverednek a francia neoklasszicista stílusjegyek és a karibi alkalmazkodóképesség; különlegessége a hatalmas fém tetőszerkezet és a vöröstéglás homlokzat, amelyek a korban Európából importált építőanyagokról tanúskodnak. A 2010-es földrengés súlyos károkat okozott az épületben – a tetőzet és a falak megrepedtek –, de Jacmel lakossága és nemzetközi szervezetek azonnal összefogtak a restaurálásáért. Minden évben a májusi védőszent-ünnepeken (Fête Patronale) a katedrális és a tér a városi karneválokhoz hasonló, lüktető ünneplés központja. Sachkunde K8 — karibi városközpontok és vallási ünnepek.",
+      "factsAdvanced": [
+        "Jacmel történelmi központjában (Centre Historique) található a Sud-Est megyében.",
+        "A város védőszentjeinek, Fülöp és Jakab apostoloknak szentelték.",
+        "A jelenlegi épület a 19. század második felében épült francia és viktoriánus stílusban.",
+        "Jellegzetes vöröstégla homlokzata és öntöttvas elemei az akkori gazdag kávékereskedelemből származnak.",
+        "A 2010-es földrengés komoly szerkezeti károkat okozott, de a felújítása folyamatos.",
+        "Minden év május 1-jén többezres tömeg ünnepli itt a város védőszentjeit."
+      ]
+    },
+    {
+      "id": "haiti-place-saint-pierre-landmarks-v2",
+      "descriptionAdvanced": "A Place Saint-Pierre a Pétion-Ville negyed (Port-au-Prince külvárosa) lüktető, elegáns központi tere, amely éles kontrasztot alkot a lenti főváros zsúfoltságával. A teret a Saint-Pierre katolikus templom uralja, amelyről a nevét is kapta. A 2010-es földrengés után a Place Saint-Pierre drámai átalakuláson ment keresztül: a park fákkal övezett sétányai hónapokig több ezer hajléktalanná vált embernek (IDP tábor) adtak menedéket a rögtönzött sátrakban. Később a területet sikeresen rehabilitálták, és ma ismét a városi elit, a diákok és a művészek kedvelt találkozóhelye. A parkban modern szobrok, padok és ápolt kertek találhatók, míg a teret luxusüzletek, kávézók és bankok veszik körül. A Place Saint-Pierre így nem csupán egy fizikai tér, hanem Haiti modern kori társadalmi rétegződésének és a katasztrófa utáni ellenállóképességének szimbolikus mikrokozmosza. Földrajz K8 — városi közterek rehabilitációja és társadalmi tagozódás.",
+      "factsAdvanced": [
+        "Pétion-Ville exkluzív negyedének központi és legfontosabb köztere (Ouest megye).",
+        "A teret az északi oldalról a Saint-Pierre plébániatemplom határolja.",
+        "A 2010-es földrengés után hatalmas sátortáborrá (IDP camp) alakult a menekültek számára.",
+        "A tábor felszámolása után a kormány és a lakosság sikeresen felújította a parkot.",
+        "Környezetében találhatók Port-au-Prince legdrágább éttermei, bankjai és galériái.",
+        "Fontos kulturális központ, ahol szabadtéri művészeti kiállításokat és koncerteket tartanak."
+      ]
+    }
+  ]
+}

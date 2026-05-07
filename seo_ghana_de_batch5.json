@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kwame-nkrumah-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "Das Kwame Nkrumah Mausoleum ist eines der markantesten Denkmäler in Accra und eine visuelle Hommage an den ersten Präsidenten Ghanas. Das Gebäude ist aus wunderschönem italienischem Marmor gefertigt und hat die Form eines Sterns, der von der Seite betrachtet wie ein umgedrehtes, nach oben weisendes Schwert aussieht – ein Symbol für Frieden und Stabilität. Umgeben von Wasserbecken, die das Leben symbolisieren, ruht im Inneren der Sarkophag des panafrikanischen Anführers, während eine Bronzestatue ihn in seiner typischen vorwärtsweisenden Pose darstellt. Kultur K7 — Gedenkstätten.",
+      "factsAdvanced": ["Mausoleum von Präsident Kwame Nkrumah", "Gebäude in Form eines Sterns/umgedrehten Schwerts", "Aus italienischem Marmor gefertigt", "Umgeben von Wasserbecken (Symbol des Lebens)", "Ruhestätte des Panafrikanisten", "Liegt in Accra"]
+    },
+    {
+      "id": "independence-arch-landmarks-v2",
+      "descriptionAdvanced": "Der Independence Arch ist das monumentale Wahrzeichen des Independence Square in Accra und wurde gebaut, um Ghanas Loslösung von der britischen Kolonialherrschaft 1957 zu zelebrieren. An der Spitze des Bogens prangt das ghanaische Wappen, das den heldenhaften Kampf für Freiheit und Gerechtigkeit symbolisiert. Unter dem Bogen brennt die Flamme der afrikanischen Befreiung, die 1961 von Kwame Nkrumah selbst entzündet wurde und seitdem ununterbrochen als leuchtendes Symbol für den gesamten Kontinent brennt. Geschichte K8 — afrikanische Unabhängigkeit.",
+      "factsAdvanced": ["Zelebriert Ghanas Unabhängigkeit (1957)", "Wahrzeichen des Independence Square", "Ghanaisches Wappen an der Spitze", "Flamme der afrikanischen Befreiung brennt unter dem Bogen", "1961 von Nkrumah entzündet", "Symbol für Freiheit und Gerechtigkeit"]
+    },
+    {
+      "id": "black-star-gate-landmarks-v2",
+      "descriptionAdvanced": "Das Black Star Gate, oft einfach als das Sternentor bezeichnet, ist das dominierende architektonische Element des Black Star Square in Accra. Es ist eine massive Betonstruktur, auf deren Spitze der namensgebende schwarze Stern thront, der Ghanas Rolle als Pionier der afrikanischen Befreiungsbewegung repräsentiert. Das Tor dient als zentraler Fokuspunkt für Militärparaden, bei denen die Truppen in perfekter Formation durch den Torbogen marschieren, während hochrangige Würdenträger von den Ehrentribünen zuschauen. Sozialkunde K6 — nationale Identität.",
+      "factsAdvanced": ["Auch als Sternentor bekannt", "Massive Betonstruktur in Accra", "Schwarzer Stern auf der Spitze", "Repräsentiert afrikanische Befreiungsbewegung", "Zentraler Punkt für Militärparaden", "Ehrentribünen für Würdenträger integriert"]
+    },
+    {
+      "id": "accra-sports-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Accra Sports Stadium, früher bekannt als Ohene Djan Stadium, ist Ghanas nationales Sportmekka und fasst bis zu 40.000 begeisterte Zuschauer. Erbaut im Jahr 1952, war es der Austragungsort zahlreicher legendärer Fußballspiele, darunter mehrere Finals des Africa Cup of Nations. Leider ist das Stadion auch mit einer Tragödie verbunden: Im Jahr 2001 starben hier 127 Fußballfans bei einer Massenpanik, was das Stadion zu einem Ort der intensiven emotionalen Erinnerung für die gesamte Nation macht. Gesellschaft K8 — Sport und Massenveranstaltungen.",
+      "factsAdvanced": ["Früher Ohene Djan Stadium genannt", "Fasst bis zu 40.000 Zuschauer", "Erbaut im Jahr 1952", "Austragungsort von Africa Cup Finals", "Ort einer Stadion-Tragödie (127 Tote im Jahr 2001)", "Ghanas nationales Sportmekka"]
+    },
+    {
+      "id": "national-museum-ghana-landmarks-v2",
+      "descriptionAdvanced": "Das 1957 am Vorabend der Unabhängigkeit eröffnete Nationalmuseum in Accra ist das älteste und größte Museum des Landes. Seine zylindrische Architektur beherbergt eine unschätzbare Sammlung afrikanischer Kunst, darunter seltene Ashanti-Goldgewichte, traditionelle Kente-Stoffe, Ausgrabungsfunde aus der Steinzeit und Ritualmasken aus ganz Westafrika. Es dient nicht nur als Aufbewahrungsort historischer Artefakte, sondern auch als Bildungszentrum, das Schülern die tiefe, vor-koloniale Geschichte und die ethnische Vielfalt Ghanas näherbringt. Kultur K7 — Museen und Erbe.",
+      "factsAdvanced": ["Eröffnet 1957 (Vorabend der Unabhängigkeit)", "Ältestes und größtes Museum in Ghana", "Zylindrische Architektur", "Sammlung seltener Ashanti-Goldgewichte", "Ausgrabungsfunde aus der Steinzeit", "Zentrum für Bildung und Historie"]
+    },
+    {
+      "id": "osu-castle-landmarks-v2",
+      "descriptionAdvanced": "Osu Castle in Accra, ein markantes weißes Gebäude direkt an den Wellen des Golfs von Guinea, ist ein visuelles Zeugnis jahrhundertelanger wechselvoller Geschichte. Einst von Dänen erbaut, ist seine Architektur eine faszinierende Mischung aus europäischer Festungsbaukunst und späteren Erweiterungen für Regierungszwecke. Obwohl es heute nicht mehr als Sitz der Präsidentschaft dient, bleiben seine massiven weißen Mauern und die mit Kanonen bestückten Bastionen ein ikonisches Wahrzeichen an der Skyline der ghanaischen Hauptstadt. Architektur K8 — historische Gebäude.",
+      "factsAdvanced": ["Ursprünglich von Dänen erbaut", "Weißes Gebäude am Golf von Guinea", "Ehemaliger Sitz der Präsidentschaft", "Mischung aus Festungs- und Regierungsarchitektur", "Mit Kanonen bestückte Bastionen", "Ikonisches Wahrzeichen an der Küste Accras"]
+    },
+    {
+      "id": "elmina-castle-landmarks-v2",
+      "descriptionAdvanced": "Das schneeweiße Elmina Castle ist aufgrund seiner schieren Größe und seiner dramatischen Lage direkt an der Mündung des Benya-Flusses in den Ozean eine der beeindruckendsten Strukturen Westafrikas. Die von den Portugiesen 1482 errichteten, massiven Steinmauern erheben sich wie eine Festung aus einer anderen Welt aus dem geschäftigen Fischerhafen von Elmina. Der starke architektonische Kontrast zwischen dem weiten, sonnigen Innenhof und den klaustrophobischen, pechschwarzen Sklavenverliesen unter der Erde macht einen Besuch zu einem tiefgreifenden emotionalen Erlebnis. Geschichte K7 — Kolonialarchitektur.",
+      "factsAdvanced": ["Erbaut 1482 von Portugiesen", "Liegt an der Mündung des Benya-Flusses", "Beeindruckend große Kolonialfestung", "Kontrast zwischen sonnigem Innenhof und dunklen Verliesen", "Ehemaliger Sklaven-Hauptumschlagplatz", "UNESCO-Weltkulturerbe"]
+    },
+    {
+      "id": "cape-coast-castle-landmarks-v2",
+      "descriptionAdvanced": "Mit seiner markanten dreieckigen Form, die ins Meer hinausragt, ist das Cape Coast Castle ein dominierendes Wahrzeichen der ghanaischen Zentralküste. Die Architektur wurde im Laufe der Jahrhunderte ständig von den Briten erweitert und verstärkt, um feindlichen Kanonenangriffen von See aus standzuhalten. Besonders auffällig ist der achteckige Leuchtturm (Dalzel Tower), der dem Komplex im 18. Jahrhundert hinzugefügt wurde und noch heute eine hervorragende Aussicht über die zerklüftete Küste und die Stadt bietet. Geografie K6 — Küstenverteidigung.",
+      "factsAdvanced": ["Markante dreieckige Festungsform", "Liegt an der Zentralküste (Cape Coast)", "Mehrfach von den Briten erweitert", "Achteckiger Leuchtturm (Dalzel Tower) integriert", "Bietet hervorragende Aussicht aufs Meer", "Sollte feindlichen Kanonenangriffen standhalten"]
+    },
+    {
+      "id": "larabanga-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Larabanga-Moschee ist ein architektonisches Wunderwerk und das am meisten fotografierte Wahrzeichen in der Savannenregion im Norden Ghanas. Sie zeichnet sich durch ihre unregelmäßige, fast organische Form aus, die durch dicke weiße Lehmmauern und aus der Fassade ragende Holzpfähle geprägt ist, die zur Stabilisierung und als Gerüst für Reparaturen dienen. Der Legende nach ist das Gebäude auf mystische Weise aus dem Boden gewachsen, was seine Anziehungskraft als heiliger Pilgerort für Muslime aus ganz Westafrika nur verstärkt. Kultur K8 — Lehmarchitektur.",
+      "factsAdvanced": ["Das meistfotografierte Wahrzeichen im Norden", "Unregelmäßige, organische Form", "Aus weißen Lehmmauern und Holzpfählen erbaut", "Soll mystisch aus dem Boden gewachsen sein", "Heiliger Pilgerort für Muslime", "Beispiel für sudanesisch-sahelische Bauweise"]
+    },
+    {
+      "id": "baba-yara-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Baba Yara Stadium in Kumasi ist mit einer Kapazität von über 40.000 Plätzen das größte Stadion in Ghana und die gefürchtete Heimstätte des legendären Fußballclubs Asante Kotoko. Benannt nach einem talentierten ghanaischen Fußballspieler, dessen Karriere durch einen tragischen Unfall beendet wurde, ist das Stadion bekannt für seine elektrisierende, ohrenbetäubende Atmosphäre an Spieltagen. Die weitläufige Anlage dient auch für große Leichtathletikveranstaltungen und wichtige politische Massenkundgebungen in der Ashanti-Region. Gesellschaft K7 — Sportstätten.",
+      "factsAdvanced": ["Größtes Stadion in Ghana (40.000 Plätze)", "Heimstätte des Fußballclubs Asante Kotoko", "Liegt in Kumasi", "Benannt nach talentiertem ghanaischen Fußballspieler", "Bekannt für elektrisierende Atmosphäre", "Wird auch für politische Massenkundgebungen genutzt"]
+    },
+    {
+      "id": "manhyia-palace-landmarks-v2",
+      "descriptionAdvanced": "Als offizieller Palast des Asantehene besticht der Manhyia-Palast weniger durch hoch aufragende europäische Architektur, sondern durch seine würdevolle Einbettung in weitläufige Höfe und traditionelle Versammlungsplätze. Die Gebäude zeichnen sich durch elegante, offene Veranden und Holzschnitzereien aus, die komplexe Akan-Sprichwörter und Symbole (Adinkra) darstellen. Während des Akwasidae-Festivals verwandeln sich diese Höfe in ein unglaubliches Meer aus Farben, wenn Tausende von Untertanen in goldenem Schmuck und Kente-Stoffen zusammenkommen. Kultur K6 — traditionelle Paläste.",
+      "factsAdvanced": ["Offizieller Palast des Asantehene", "Einbettung in weitläufige Höfe", "Elegante offene Veranden", "Holzschnitzereien zeigen Adinkra-Symbole", "Zentrum des farbenfrohen Akwasidae-Festivals", "Symbolisiert königliche Ashanti-Würde"]
+    },
+    {
+      "id": "kejetia-market-landmarks-v2",
+      "descriptionAdvanced": "Der Kejetia-Markt in Kumasi ist nicht nur ein Wirtschaftszentrum, sondern ein gigantisches architektonisches und logistisches Phänomen — der größte Freiluftmarkt in Westafrika. Von oben betrachtet wirkt der Markt wie ein riesiges, endloses Labyrinth aus rostigen Wellblechdächern, unter denen sich ein organisiertes Chaos von über 11.000 winzigen Geschäften verbirgt. Der Markt wurde kürzlich in Phasen modernisiert, um Brandschutz und Infrastruktur zu verbessern, was ihm nun eine Mischung aus modernem Terminalbau und traditionellem Straßenmarkt verleiht. Geografie K8 — urbane Märkte.",
+      "factsAdvanced": ["Größter Freiluftmarkt in Westafrika", "Wirkt wie ein endloses Labyrinth aus Wellblech", "Beherbergt über 11.000 winzige Geschäfte", "Liegt im Herzen von Kumasi", "Mischung aus Markt und modernem Terminalbau", "Wirtschaftliches Epizentrum der Region"]
+    },
+    {
+      "id": "jubilee-house-landmarks-v2",
+      "descriptionAdvanced": "Das Jubilee House (früher Flagstaff House) in Accra ist der moderne Amtssitz und die Residenz des ghanaischen Präsidenten. Die futuristische Architektur des Gebäudes ist inspiriert vom Goldenen Stuhl der Ashanti, einem Symbol für höchste Autorität, und wurde 2008 mit finanzieller Unterstützung der indischen Regierung fertiggestellt. Das massiv bewachte, schneeweiße Gebäude mit seiner markanten, geschwungenen Dachkonstruktion steht heute als Symbol für das moderne, demokratische und aufstrebende Ghana im 21. Jahrhundert. Architektur K7 — moderne Regierungsgebäude.",
+      "factsAdvanced": ["Moderner Amtssitz des Präsidenten in Accra", "Früher als Flagstaff House bekannt", "Architektur vom Goldenen Stuhl inspiriert", "Fertiggestellt 2008 mit indischer Hilfe", "Massiv bewachte, schneeweiße Struktur", "Symbol für das moderne Ghana"]
+    },
+    {
+      "id": "national-theatre-ghana-landmarks-v2",
+      "descriptionAdvanced": "Das Nationaltheater in Accra ist zweifellos das ungewöhnlichste moderne Gebäude Ghanas, gebaut 1992 mit massiver Unterstützung Chinas. Die Architektur ahmt in ihrer geschwungenen, segmentierten Dachstruktur ein riesiges Schiff oder, wie einige Einheimische sagen, die fliegenden Vögel am Golf von Guinea nach. Im Inneren bietet es einen hochmodernen Saal mit 1500 Plätzen und dient als nationales Zentrum für Theatervorführungen, zeitgenössischen Tanz und das renommierte National Symphony Orchestra. Kultur K8 — darstellende Künste.",
+      "factsAdvanced": ["Gebaut 1992 mit Unterstützung Chinas", "Dachstruktur ähnelt einem riesigen Schiff", "Beherbergt einen Saal mit 1500 Plätzen", "Zentrum für zeitgenössischen Tanz und Theater", "Heimat des National Symphony Orchestra", "Modernes architektonisches Highlight in Accra"]
+    },
+    {
+      "id": "jamestown-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der 1928 erbaute Leuchtturm von Jamestown ist das unverkennbare Wahrzeichen des ältesten Stadtteils von Accra. Der rot-weiß gestreifte Steinturm erhebt sich fast 30 Meter über den geschäftigen Fischereihafen und diente jahrzehntelang als entscheidende Navigationshilfe für Schiffe, die die gefährliche Küste ansteuerten. Heute ist der Turm, umgeben von kolonialen Ruinen und lebendiger Straßenkunst, ein Magnet für Fotografen und ein Symbol für das reiche maritime Erbe der Ga-Bevölkerung. Geografie K6 — maritime Wahrzeichen.",
+      "factsAdvanced": ["Erbaut 1928 im Stadtteil Jamestown", "Rot-weiß gestreifter Steinturm", "Fast 30 Meter hoch", "Wichtige Navigationshilfe für Schiffe", "Symbol für das maritime Erbe der Ga", "Umgeben von kolonialen Ruinen und Straßenkunst"]
+    },
+    {
+      "id": "holy-trinity-cathedral-accra-landmarks-v2",
+      "descriptionAdvanced": "Die Holy Trinity Cathedral in Accra wurde 1894 fertiggestellt und ist eines der schönsten Beispiele anglikanischer Kolonialarchitektur in Westafrika. Das massive Gebäude aus lokalem Sandstein und importiertem britischem Backstein wurde größtenteils durch die Spenden von britischen Expatriates und wohlhabenden ghanaischen Kaufleuten finanziert. Mit ihren prächtigen Buntglasfenstern und dem hoch aufragenden Glockenturm bietet die Kathedrale einen stillen, spirituellen Rückzugsort inmitten des hektischen Treibens der Hauptstadt. Kultur K7 — sakrale Architektur.",
+      "factsAdvanced": ["Fertiggestellt 1894", "Beispiel anglikanischer Kolonialarchitektur", "Erbaut aus lokalem Sandstein und britischem Backstein", "Finanziert durch britische Expatriates und Kaufleute", "Besitzt prächtige Buntglasfenster und Glockenturm", "Spiritueller Rückzugsort in Accra"]
+    },
+    {
+      "id": "national-mosque-ghana-landmarks-v2",
+      "descriptionAdvanced": "Die Nationalmoschee in Accra ist der größte islamische Bau des Landes und ein funkelndes architektonisches Juwel im Stadtteil Kanda. Die Moschee wurde mit massiver finanzieller Unterstützung der türkischen Regierung erbaut und ist eine nahezu originalgetreue, etwas kleinere Kopie der berühmten Blauen Moschee in Istanbul. Mit ihren hoch aufragenden Minaretten und den prächtig verzierten Kuppeln, die Platz für 15.000 Gläubige bieten, symbolisiert sie die wachsende Bedeutung und den starken Zusammenhalt der muslimischen Gemeinschaft in Ghana. Architektur K8 — moderne Sakralbauten.",
+      "factsAdvanced": ["Größter islamischer Bau des Landes (Kanda, Accra)", "Erbaut mit finanzieller Hilfe der Türkei", "Kleinere Kopie der Blauen Moschee in Istanbul", "Bietet Platz für 15.000 Gläubige", "Prächtig verzierte Kuppeln und hohe Minarette", "Symbol der muslimischen Gemeinschaft in Ghana"]
+    },
+    {
+      "id": "fort-metal-cross-landmarks-v2",
+      "descriptionAdvanced": "Eingebettet in die üppig grüne Küstenlandschaft von Dixcove, wirkt Fort Metal Cross wie eine postkartenperfekte Festung aus einem Piratenfilm. Die Architektur ist auf Kompaktheit und Verteidigung ausgelegt, mit dicken Steinmauern, die einen zentralen Innenhof umschließen, und Bastionen, die in alle vier Himmelsrichtungen weisen. Vom Festungsdach aus, wo noch heute verrostete Kanonen auf den Ozean gerichtet sind, haben Besucher einen atemberaubenden Blick auf die malerische Bucht und die bunten Fischerboote. Geografie K6 — Festungsarchitektur.",
+      "factsAdvanced": ["Liegt auf einem Felsvorsprung in Dixcove", "Kompakte Festung mit dicken Steinmauern", "Bastionen weisen in alle Himmelsrichtungen", "Verrostete Kanonen auf dem Festungsdach", "Atemberaubender Blick auf Fischerboote", "Architektur auf Verteidigung ausgelegt"]
+    },
+    {
+      "id": "fort-batenstein-landmarks-v2",
+      "descriptionAdvanced": "Fort Batenstein thront hoch auf einem unglaublich steilen Hügel in der Stadt Butre und bietet einen der dramatischsten Ausblicke aller ghanaischen Forts. Erbaut im Jahr 1656 von den Niederländern, war der steile Aufstieg der beste natürliche Schutz gegen Angriffe aus dem Landesinneren. Heute sind von der kleinen, aber robusten Festung nur noch beeindruckende Ruinen übrig, die von üppiger tropischer Vegetation überwuchert werden und die unerbittliche Rückeroberung der Natur demonstrieren. Umwelt K7 — historische Ruinen.",
+      "factsAdvanced": ["Thront auf einem extrem steilen Hügel in Butre", "Erbaut 1656 von den Niederländern", "Steiler Aufstieg als natürlicher Schutz", "Beeindruckende Ruinen heute", "Von üppiger tropischer Vegetation überwuchert", "Bietet einen dramatischen Küstenausblick"]
+    },
+    {
+      "id": "fort-san-sebastian-landmarks-v2",
+      "descriptionAdvanced": "Fort San Sebastian in Shama zeichnet sich durch sein strahlend weißes Äußeres und seine solide rechteckige Form mit markanten Eckbastionen aus. Das von Portugiesen begonnene und von Niederländern vollendete Bauwerk hat einen gut erhaltenen, weitläufigen Innenhof, der einst als Sammelplatz diente. Durch sorgfältige Restaurierungsarbeiten in den 1950er Jahren zählt es heute zu den besterhaltenen mittelgroßen Festungen entlang der Küste und dient als malerische Kulisse für lokale Veranstaltungen. Architektur K8 — europäische Bastionen.",
+      "factsAdvanced": ["Rechteckige Form mit markanten Eckbastionen", "Strahlend weißes Äußeres in Shama", "Von Portugiesen begonnen, von Niederländern vollendet", "Weitläufiger Innenhof als ehemaliger Sammelplatz", "In den 1950er Jahren sorgfältig restauriert", "Gut erhaltene mittelgroße Festung"]
+    },
+    {
+      "id": "adomi-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Adomi-Brücke ist Ghanas ikonischste Brücke und überspannt majestätisch den mächtigen Volta-Fluss nahe Atimpoku. Der 1957 fertiggestellte elegante Stahlbogen, der eine Spannweite von 245 Metern erreicht, war ein technisches Meisterwerk seiner Zeit und ersetzte die mühsamen Fährüberfahrten. Die Brücke ist nicht nur ein lebenswichtiger Verkehrsweg, der die Volta-Region mit dem Rest des Landes verbindet, sondern auch ein nationales Symbol, das sogar auf ghanaischen Banknoten abgedruckt wurde. Technologie K7 — Ingenieurskunst.",
+      "factsAdvanced": ["Ikonischste Brücke in Ghana", "Überspannt den mächtigen Volta-Fluss", "Eleganter Stahlbogen (245 Meter Spannweite)", "Fertiggestellt im Jahr 1957", "Verbindet Volta-Region mit dem Rest des Landes", "Auf ghanaischen Banknoten abgedruckt"]
+    },
+    {
+      "id": "akosombo-dam-landmarks-v2",
+      "descriptionAdvanced": "Der Akosombo-Staudamm ist das massivste Ingenieurprojekt in der Geschichte Ghanas und ein Monument des nationalen Fortschritts. Der 1965 fertiggestellte Damm staut den Volta-Fluss zum riesigen Volta-See auf — dem flächenmäßig größten künstlichen See der Welt. Die über 100 Meter hohe und 660 Meter lange Staumauer aus Gesteinsschüttung liefert die dringend benötigte Wasserkraft (Hydroenergie), die das Rückgrat der ghanaischen Industrialisierung bildete, veränderte aber auch die Ökologie der Region für immer. Physik K8 — Wasserkraft.",
+      "factsAdvanced": ["Massivstes Ingenieurprojekt in Ghanas Geschichte", "Staut den Volta-Fluss zum Volta-See auf", "Fertiggestellt 1965", "Über 100 Meter hohe Staumauer", "Liefert essenzielle Wasserkraft", "Veränderte die Ökologie der Region für immer"]
+    },
+    {
+      "id": "aliu-mahama-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Aliu Mahama Sports Stadium in Tamale ist das größte und modernste Sportstadion im Norden Ghanas. Mit einer Kapazität von 20.000 Zuschauern wurde es speziell für die Austragung des Africa Cup of Nations 2008 errichtet und nach dem ehemaligen Vizepräsidenten Aliu Mahama benannt. Die markante, halboffene Dachkonstruktion schützt die Zuschauer vor der brennenden Sonne der Savanne und ist zu einem Wahrzeichen der schnellen städtischen Entwicklung von Tamale geworden. Gesellschaft K6 — Sport und Infrastruktur.",
+      "factsAdvanced": ["Modernstes Sportstadion im Norden Ghanas", "Kapazität von 20.000 Zuschauern (in Tamale)", "Speziell für den Africa Cup 2008 errichtet", "Benannt nach Vizepräsident Aliu Mahama", "Halboffene Dachkonstruktion gegen die Sonne", "Wahrzeichen der städtischen Entwicklung in Tamale"]
+    },
+    {
+      "id": "ndewura-jakpa-tomb-landmarks-v2",
+      "descriptionAdvanced": "Das Grab von Ndewura Jakpa in der Savannenregion ist ein bescheidenes, aber tief verehrtes Monument, das an den legendären Kriegerkönig und Gründer des Gonja-Reiches erinnert. Das Wahrzeichen ist weniger durch pompöse Architektur gekennzeichnet, sondern durch seine tiefgreifende spirituelle und historische Bedeutung für das Gonja-Volk. Jährlich pilgern Tausende hierher, um rituelle Gebete und Zeremonien abzuhalten, was den Ort zu einem lebendigen Zentrum afrikanischer Ahnenverehrung macht. Kultur K7 — Ahnenverehrung in Westafrika.",
+      "factsAdvanced": ["Grab des Kriegerkönigs Ndewura Jakpa", "Gründer des Gonja-Reiches", "Bescheidenes, aber tief verehrtes Monument", "Wichtiges spirituelles Zentrum in der Savanne", "Ort für rituelle Gebete und Zeremonien", "Lebendiges Zentrum afrikanischer Ahnenverehrung"]
+    },
+    {
+      "id": "wesley-methodist-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die Wesley Methodist Cathedral in Kumasi ist das imposanteste christliche Bauwerk im Herzen des traditionell von lokalen Religionen geprägten Ashanti-Königreichs. Die gewaltige Backsteinkathedrale, erbaut im frühen 20. Jahrhundert, symbolisiert die feste Etablierung des Methodismus in der Region, der eng mit der Einführung der westlichen Schulbildung verbunden war. Ihre beeindruckende Orgel und die riesigen Bogenfenster machen sie zu einem Wahrzeichen des christlichen Glaubens in Zentralghana. Architektur K8 — Kolonialkirchen.",
+      "factsAdvanced": ["Imposantestes christliches Bauwerk in Kumasi", "Gewaltige Backsteinkathedrale (frühes 20. Jh.)", "Symbol der methodistischen Etablierung", "Eng mit Einführung westlicher Schulbildung verbunden", "Beeindruckende Orgel und Bogenfenster", "Wahrzeichen des christlichen Glaubens in Zentralghana"]
+    },
+    {
+      "id": "fort-saint-anthony-landmarks-v2",
+      "descriptionAdvanced": "Fort Saint Anthony in Axim, 1515 von den Portugiesen errichtet, ist das zweitälteste Fort in Ghana und zeichnet sich durch seine extrem dreieckige, asymmetrische Form aus, die sich perfekt an die felsige Halbinsel anpasst. Aufgrund seiner isolierten Lage weit im Westen war es eine Schlüsselposition für den Goldhandel und später ein hart umkämpfter Posten gegen niederländische Flotten. Die dunklen, in den massiven Fels gehauenen Räume bieten heute eine beklemmende Atmosphäre, die die harte Realität der Kolonialzeit widerspiegelt. Geografie K7 — Küstenforts.",
+      "factsAdvanced": ["1515 von den Portugiesen errichtet (in Axim)", "Zweitältestes Fort in Ghana", "Dreieckige, asymmetrische Form an Felsen angepasst", "Schlüsselposition für Goldhandel im Westen", "Dunkle, in Fels gehauene Räume", "Hart umkämpft gegen niederländische Flotten"]
+    },
+    {
+      "id": "fort-gross-friedrichsburg-landmarks-v2",
+      "descriptionAdvanced": "Fort Groß Friedrichsburg in Princes Town ist das einzige brandenburgisch-preußische Fort in Westafrika und ein einzigartiges Stück deutscher Kolonialgeschichte in Ghana. Erbaut 1683, zeichnete sich die Festung durch ihre für deutsche Ingenieurskunst typische Strenge aus, bevor sie unter den Kontrolle der unberechenbaren lokalen Anführer (insbesondere des Händlers John Canoe) geriet. Die spektakulären Ruinen auf dem Hügel zeugen von dem kurzen, aber intensiven Versuch Preußens, sich einen Anteil am afrikanischen Sklaven- und Goldhandel zu sichern. Geschichte K8 — brandenburgische Kolonien.",
+      "factsAdvanced": ["Einziges brandenburgisch-preußisches Fort in Westafrika", "Erbaut 1683 in Princes Town", "Typisch deutsche Ingenieursstrenge in Architektur", "Später von Händler John Canoe kontrolliert", "Spektakuläre Ruinen auf einem Hügel", "Teil des afrikanischen Sklaven- und Goldhandels"]
+    },
+    {
+      "id": "navrongo-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die Basilica of Our Lady of Seven Sorrows in Navrongo ist eine absolute architektonische Anomalie: eine riesige katholische Kathedrale, vollständig aus Lehm im sudanesisch-sahelischen Stil erbaut. Die 1906 errichteten Mauern sind nicht wie in Europa mit Fresken bemalt, sondern mit traditionellen, abstrakten Kassena-Schwarz-Weiß-Mustern verziert, die von den Frauen der lokalen Gemeinde aufgetragen wurden. Dieser unglaubliche Mix aus afrikanischer Baumethode und christlicher Symbolik macht die Kathedrale zu einem der faszinierendsten Gebäude Westafrikas. Kultur K7 — synkretistische Architektur.",
+      "factsAdvanced": ["Riesige katholische Kathedrale aus Lehm", "Erbaut 1906 im sudanesisch-sahelischen Stil", "Steht in Navrongo", "Verziert mit traditionellen Kassena-Mustern", "Muster von lokalen Frauen aufgetragen", "Faszinierender Mix aus lokaler Bauweise und Christentum"]
+    },
+    {
+      "id": "essipong-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Essipong Stadium in Sekondi-Takoradi ist ein hochmodernes Sportstadion, das 2008 für den Africa Cup of Nations erbaut wurde. Seine kreisrunde Architektur mit den markanten gelben und grünen Sitzen fasst 20.000 Zuschauer und bringt ein Stück moderne internationale Sportinfrastruktur in die westliche Küstenregion. Bedauerlicherweise kämpft die beeindruckende Struktur aufgrund der extremen Nähe zum salzigen Meerwasser und mangelnder Wartung mit starken Rost- und Verfallsproblemen. Technologie K6 — Instandhaltung von Stahlbauten.",
+      "factsAdvanced": ["Hochmodernes Stadion in Sekondi-Takoradi", "Erbaut 2008 für den Africa Cup of Nations", "Kreisrunde Architektur (20.000 Zuschauer)", "Markante gelbe und grüne Sitze", "Kämpft mit starkem Rost durch salziges Meerwasser", "Wichtige Sportinfrastruktur an der Küste"]
+    },
+    {
+      "id": "villaggio-vistas-landmarks-v2",
+      "descriptionAdvanced": "Die Villaggio Vistas in Accra sind das markanteste Beispiel für Ghanas Immobilienboom des 21. Jahrhunderts und bilden die derzeit höchsten Gebäude des Landes. Die drei miteinander verbundenen Wohntürme fallen durch ihre grelle, rote und gelbe Kente-inspirierte Fassadenbemalung sofort ins Auge. Sie repräsentieren den extremen Luxus und den wachsenden Wohlstand der ghanaischen Oberschicht, stehen aber auch sinnbildlich für die wachsende Kluft zwischen Arm und Reich in der rasant wachsenden Metropole. Gesellschaft K8 — moderne Urbanisierung.",
+      "factsAdvanced": ["Höchste Gebäude in Ghana", "Beispiel für Immobilienboom in Accra", "Drei miteinander verbundene Wohntürme", "Grelle, Kente-inspirierte Fassadenbemalung", "Repräsentiert extremen Luxus der Oberschicht", "Symbol der rasenden Urbanisierung"]
+    }
+  ]
+}

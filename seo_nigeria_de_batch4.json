@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dangote-refinery-economic-v2",
+      "descriptionAdvanced": "Die Dangote-Raffinerie ist ein industrielles Monster und das größte Einzelstrang-Raffinerieprojekt der Welt. Erbaut von Aliko Dangote, dem reichsten Mann Afrikas, liegt diese gewaltige Anlage in der Lekki Free Zone östlich von Lagos. Obwohl Nigeria seit Jahrzehnten einer der größten Erdölexporteure der Welt ist, musste das Land paradoxerweise fast alle seine raffinierten Treibstoffe importieren, da die staatlichen Anlagen verfielen. Die Dangote-Raffinerie, die 2024 die Produktion aufnahm, soll dieses historische Absurdum beenden. Mit einer Kapazität von 650.000 Barrel pro Tag verändert sie die gesamte Energiearchitektur Westafrikas und macht Nigeria potenziell zu einem Treibstoff-Exporteur. Wirtschaft K8 — Petrochemische Industrie und afrikanische Mega-Projekte.",
+      "factsAdvanced": [
+        "Die größte Einzelstrang-Ölraffinerie (Single-Train) der gesamten Welt.",
+        "Besitzt eine immense Verarbeitungskapazität von 650.000 Barrel Rohöl pro Tag.",
+        "Erbaut von der Dangote Group, gehört dem nigerianischen Milliardär Aliko Dangote.",
+        "Liegt auf einem 2.635 Hektar großen Gelände in der Lekki Free Zone (Lagos).",
+        "Soll Nigerias komplette Abhängigkeit von importiertem Benzin und Diesel beenden.",
+        "Beherbergt auch eine der größten Düngemittelfabriken der Welt auf demselben Gelände."
+      ]
+    },
+    {
+      "id": "port-harcourt-refinery-economic-v2",
+      "descriptionAdvanced": "Die Port Harcourt Raffinerie ist ein Symbol für die wechselhafte Industriegeschichte Nigerias. Sie besteht eigentlich aus zwei Anlagen: einer alten, 1965 erbauten Raffinerie und einer neueren, komplexeren Anlage aus dem Jahr 1989 in Alesa-Eleme. Jahrzehntelang waren diese vom Staat (NNPC) betriebenen Anlagen berüchtigt für Ineffizienz, Korruption und ständigen Stillstand, was dazu führte, dass die Menschen in der ölreichsten Stadt Afrikas oft in kilometerlangen Schlangen an den Tankstellen standen. Ein massives, milliardenschweres Rehabilitationsprojekt versucht derzeit, diese schlafenden stählernen Riesen wieder zum Leben zu erwecken. Wirtschaft K8 — Staatliche Betriebe und Infrastrukturverfall.",
+      "factsAdvanced": [
+        "Besteht aus zwei Anlagen in Alesa-Eleme im Bundesstaat Rivers.",
+        "Die alte Raffinerie (1965) hat eine Kapazität von 60.000 Barrel/Tag.",
+        "Die neue Raffinerie (1989) hat eine Kapazität von 150.000 Barrel/Tag.",
+        "Befindet sich im Staatsbesitz und wird von der NNPC betrieben.",
+        "Litt jahrzehntelang unter massiver Vernachlässigung und extrem niedriger Auslastung.",
+        "Unterläuft derzeit ein 1,5 Milliarden Dollar teures Rehabilitationsprogramm."
+      ]
+    },
+    {
+      "id": "warri-refinery-economic-v2",
+      "descriptionAdvanced": "Die Warri Refining and Petrochemical Company (WRPC) war der nigerianische Stolz der späten 1970er Jahre, erbaut auf dem Höhepunkt des Ölbooms. Diese komplexe Anlage im Bundesstaat Delta wurde nicht nur zur Herstellung von Benzin und Kerosin entworfen, sondern besaß auch eine große petrochemische Abteilung zur Produktion von Ruß (Carbon Black) und Polypropylen für die lokale Reifen- und Plastikindustrie. Wie ihre Schwesteranlagen litt sie extrem unter chronischer Unterfinanzierung und Vandalismus an den Zuliefer-Pipelines, was sie über Jahre in einen totalen Stillstand zwang. Wirtschaft K8 — Petrochemische Derivate und Sabotage.",
+      "factsAdvanced": [
+        "Erbaut 1978 in der ölreichen Stadt Warri (Bundesstaat Delta).",
+        "Verfügt über eine nominale Verarbeitungskapazität von 125.000 Barrel pro Tag.",
+        "Integriert mit einer Fabrik für petrochemische Grundstoffe (Ruß und Polypropylen).",
+        "Eigentum der staatlichen Nigerian National Petroleum Corporation (NNPC).",
+        "Wurde oft durch Sabotage an der Escravos-Pipeline von Rohöl abgeschnitten.",
+        "Sollte ursprünglich die lokale Gummi- und Plastikindustrie Westafrikas versorgen."
+      ]
+    },
+    {
+      "id": "kaduna-refinery-economic-v2",
+      "descriptionAdvanced": "Die Kaduna-Raffinerie ist ein logistisches Kuriosum. Im Gegensatz zu den Raffinerien im Süden liegt diese gewaltige Anlage über 600 Kilometer tief im Landesinneren Nordnigerias. Um sie mit schwerem Rohöl zu versorgen, musste eine unglaublich lange, anfällige Pipeline von Escravos im Nigerdelta durch das ganze Land gebaut werden. Ursprünglich wurde die Anlage konzipiert, um Schmieröle, Asphalt und Wachse zu produzieren – hochspezialisierte Produkte, die der Norden dringend brauchte. Die extrem lange Lieferkette machte die Raffinerie jedoch zum bevorzugten Ziel von Pipeline-Vandalen, was sie lange Zeit lahmlegte. Wirtschaft K8 — Logistikketten und Binnen-Raffinerien.",
+      "factsAdvanced": [
+        "Eröffnet 1980, ist sie die einzige Ölraffinerie in Nordnigeria.",
+        "Wird über ein 600 Kilometer langes Pipelinenetz vom Atlantik (Escravos) versorgt.",
+        "Verfügt über eine nominale Kapazität von 110.000 Barrel pro Tag.",
+        "Speziell konzipiert für die Produktion von Asphalt, Schmierölen und Wachsen.",
+        "Extrem anfällig für Unterbrechungen durch Pipeline-Vandalismus im Süden.",
+        "Sollte ursprünglich die Industrialisierung des nigerianischen Nordens vorantreiben."
+      ]
+    },
+    {
+      "id": "ajaokuta-steel-mill-economic-v2",
+      "descriptionAdvanced": "Das Ajaokuta-Stahlwerk am Ufer des Nigers ist der Inbegriff des 'Weißen Elefanten' in Afrika. Geplant in den späten 1970er Jahren in gigantischer Zusammenarbeit mit der Sowjetunion, sollte dieses Werk ganz Afrika mit hochwertigem Stahl versorgen. Eine ganze Stadt mit Zehntausenden Häusern, Schulen und einem Flugplatz wurde für die Arbeiter aus dem Boden gestampft. Doch politische Instabilität, Korruption und fehlende Eisenbahnverbindungen für Eisenerz und Kohle ließen das Projekt bei einem Fertigstellungsgrad von 98% jahrzehntelang verrotten. Bis heute hat das Werk, das Milliarden verschlang, nicht eine einzige Platte kommerziellen Stahl produziert. Geschichte K8 — Industrielle Träume und afrikanische Mega-Ruinen.",
+      "factsAdvanced": [
+        "Das größte und ehrgeizigste Industrieprojekt in der Geschichte Nigerias.",
+        "Begonnen 1979 in enger technologischer Kooperation mit der Sowjetunion (Tiazhpromexport).",
+        "Sollte eine komplette Stadt für 500.000 Einwohner (Ajaokuta Steel City) umfassen.",
+        "Trotz Investitionen in Milliardenhöhe und 98% Fertigstellung nie kommerziell in Betrieb.",
+        "Scheiterte unter anderem am fehlenden Transportnetz für Eisenerz und Kohle.",
+        "Wird in Nigeria oft als das ultimative Beispiel für misslungene staatliche Großprojekte zitiert."
+      ]
+    },
+    {
+      "id": "delta-steel-company-economic-v2",
+      "descriptionAdvanced": "Die Delta Steel Company (DSC) in Aladja bei Warri war Nigerias zweiter, weitaus funktionalerer Versuch in der Schwerindustrie. Im Gegensatz zu Ajaokuta, das klassische Hochöfen nutzte, wurde DSC 1982 mit moderner Direktreduktionstechnologie erbaut, die reichlich vorhandenes Erdgas aus dem Delta anstelle von Kohle nutzte. In ihren frühen Jahren war die DSC äußerst erfolgreich und produzierte Stahlknüppel für Walzwerke im ganzen Land. Doch Korruption, Schulden und der Zusammenbruch der staatlichen Stromversorgung brachten das Werk in die Knie. Heute wird versucht, die Anlage durch private Investoren wiederzubeleben. Wirtschaft K8 — Stahlindustrie und Privatisierung.",
+      "factsAdvanced": [
+        "Eröffnet 1982 im Bundesstaat Delta, finanziert durch den nigerianischen Staat.",
+        "Nutzt fortschrittliche Direktreduktion (DRI) anstelle von klassischen Hochöfen.",
+        "Verwendete lokales Erdgas anstelle von importierter Kohle.",
+        "Versorgte in den 1980er Jahren zahlreiche Binnen-Walzwerke in Jos, Oshogbo und Katsina.",
+        "Brach durch massive Schulden, Managementfehler und Stromausfälle zusammen.",
+        "Wurde im Rahmen umstrittener Privatisierungen an ausländische Investoren verkauft."
+      ]
+    },
+    {
+      "id": "obajana-cement-plant-economic-v2",
+      "descriptionAdvanced": "Mitten in der savannenartigen Landschaft des Kogi-Staates liegt das Zementwerk Obajana – eine Anlage, die die afrikanische Bauindustrie revolutionierte. Mit ihrer gewaltigen Kapazität ist sie die größte Zementfabrik auf dem gesamten afrikanischen Kontinent. Dieses Werk, das zur Dangote-Gruppe gehört, stützt sich auf schier endlose, lokale Kalksteinvorkommen und wird durch eine eigene 90 Kilometer lange Gaspipeline angetrieben. Obajana ist der Hauptgrund, warum Nigeria sich vom massiven Importeur von Zement zu einem Nettoexporteur gewandelt hat. Das Werk arbeitet Tag und Nacht und versorgt riesige Bauprojekte in ganz Westafrika mit grauem Gold. Wirtschaft K8 — Baustoffindustrie und afrikanische Konglomerate.",
+      "factsAdvanced": [
+        "Mit weitem Abstand das größte Zementwerk des afrikanischen Kontinents.",
+        "Gehört zu Dangote Cement, einem der wertvollsten Unternehmen Afrikas.",
+        "Produktionskapazität von weit über 16 Millionen Tonnen Zement pro Jahr.",
+        "Verfügt über ein eigenes gigantisches Gaskraftwerk zur autarken Stromversorgung.",
+        "Nutzt direkt angrenzende, massive natürliche Kalksteinbrüche.",
+        "Verwandelte Nigeria historisch von einem Zement-Importeur zu einem Exporteur."
+      ]
+    },
+    {
+      "id": "ibese-cement-plant-economic-v2",
+      "descriptionAdvanced": "Das Zementwerk Ibese im Bundesstaat Ogun ist das zweite Rückgrat der Dangote-Zement-Dominanz in Nigeria. Erbaut, um den extrem hungrigen Baumarkt in der Millionenmetropole Lagos und im Südwesten des Landes zu stillen, ist diese hochmoderne Anlage ein Paradebeispiel für industrielle Automatisierung in Afrika. Da die Region nicht über ausreichende Gasleitungen verfügt, operiert die Fabrik mit einem komplexen Kohle-Mix. Das Werk hat die ländliche Umgebung von Ibese drastisch verändert; Hunderte schwerer Lkw donnern täglich über die Straßen und transportieren den Zement zu unzähligen Baustellen und in Nachbarländer wie Benin. Wirtschaft K7 — Industrielle Cluster und Baustofflogistik.",
+      "factsAdvanced": [
+        "Die zweitgrößte Zementfabrik der Dangote Group in Nigeria.",
+        "Liegt strategisch perfekt nahe der rasant wachsenden Megacity Lagos.",
+        "Besitzt eine Produktionskapazität von über 12 Millionen Tonnen jährlich.",
+        "Deckt primär den Bedarf in Südwestnigeria und exportiert in Nachbarländer.",
+        "Die Anlage operiert großteils mit modernster, hochautomatisierter Robotik.",
+        "Hat stark zur schnellen Urbanisierung der ländlichen Umgebung beigetragen."
+      ]
+    },
+    {
+      "id": "gboko-cement-plant-economic-v2",
+      "descriptionAdvanced": "Die Benue Cement Company (BCC) in Gboko hat eine tiefe historische und kulturelle Bedeutung. In den 1970er Jahren als staatliches Projekt gegründet, war sie jahrzehntelang das einzige große industrielle Zentrum im mittleren Gürtel Nigerias und beschäftigte Tausende Menschen aus der Tiv-Ethnie. Der Abbau der reichhaltigen Kalksteinvorkommen bei Yandev prägte die lokale Wirtschaft. Nach einem schmerzhaften Niedergang in den 1990er Jahren wurde die verrostete Anlage von Dangote Cement übernommen, massiv ausgebaut und in ein hochprofitables Werk verwandelt, das heute den Osten und Norden des Landes beliefert. Geschichte K8 — Privatisierung von Staatsbetrieben.",
+      "factsAdvanced": [
+        "Gegründet in den 1970er Jahren als staatliche Benue Cement Company (BCC).",
+        "Wurde 2007 in einem umstrittenen Prozess von Dangote Cement übernommen.",
+        "Wichtigster wirtschaftlicher Motor für das Volk der Tiv im Benue-Staat.",
+        "Verarbeitet den extrem hochwertigen Kalkstein der Yandev-Brüche.",
+        "Versorgt logistisch primär den Osten und die 'Middle Belt'-Region Nigerias.",
+        "Symbolisiert den erfolgreichen Übergang vom Staats- zum Privatbetrieb in Nigeria."
+      ]
+    },
+    {
+      "id": "mfamosing-cement-plant-economic-v2",
+      "descriptionAdvanced": "Tief im feuchten, dichten Regenwald des Cross-River-Staates versteckt sich das Zementwerk Mfamosing, betrieben von LafargeHolcim. Diese relativ junge, hochmoderne Anlage ist das industrielle Zentrum im äußersten Südosten Nigerias. Die Fabrik profitiert von absolut exzellenten Kalkstein- und Tonvorkommen in der Region. Mfamosing ist berühmt für seinen Fokus auf Nachhaltigkeit in einer extrem sensiblen ökologischen Umgebung; das Werk nutzt stark Biomasse, einschließlich landwirtschaftlicher Abfälle wie Palmkernschalen, als alternativen Brennstoff für seine gewaltigen Öfen. Von hier aus wird Zement über den nahegelegenen Hafen Calabar verschifft. Erdkunde K7 — Industrielle Ökologie und alternative Brennstoffe.",
+      "factsAdvanced": [
+        "Hochmodernes Werk im tropischen Südosten Nigerias (nahe Calabar).",
+        "Gehört zum französisch-schweizerischen Baustoffgiganten LafargeHolcim (Lafarge Africa).",
+        "Produziert jährlich etwa 5 Millionen Tonnen Zement.",
+        "Gilt als Vorreiter bei der Nutzung von Biomasse (z.B. Palmkernschalen) als Brennstoff.",
+        "Beliefert vorwiegend den Osten Nigerias und exportiert über den Hafen Calabar.",
+        "Erbaut in einer ökologisch sensiblen Regenwald- und Kalksteinregion."
+      ]
+    },
+    {
+      "id": "bua-cement-sokoto-economic-v2",
+      "descriptionAdvanced": "Weit im trockenen Nordwesten Nigerias, wo die Winde der Sahara wehen, dominiert das BUA Zementwerk Sokoto die Landschaft. Historisch als Cement Company of Northern Nigeria (CCNN) in den 1960er Jahren gegründet, war dieses Werk das stolze Projekt des damaligen Premierministers Sir Ahmadu Bello, um den Norden unabhängig von Zementimporten aus dem Süden zu machen. Nach jahrzehntelangem Verfall wurde die Anlage von der BUA-Gruppe erworben und zu einer massiven, modernen Fabrik ausgebaut. Da es hier kein Pipeline-Gas gibt, wird das Werk mit einem eigenen Kraftwerk betrieben, das oft schwere Heizöle, LNG oder Kohle nutzt. Wirtschaft K8 — Industrielle Entwicklung im Sahel.",
+      "factsAdvanced": [
+        "Gegründet in den 1960er Jahren als Cement Company of Northern Nigeria (CCNN).",
+        "Liegt im heißen, trockenen Sokoto-Staat im extremen Nordwesten.",
+        "Heute im Besitz der mächtigen nigerianischen BUA Group.",
+        "Hauptversorger für Baumaterial in Nordwest-Nigeria und im benachbarten Niger.",
+        "Wurde massiv erweitert (neue Produktionslinien Kalambaina I & II).",
+        "Operiert mit autarken Kraftwerken, da das nationale Gasnetz hier endet."
+      ]
+    },
+    {
+      "id": "lafarge-ashaka-cement-economic-v2",
+      "descriptionAdvanced": "Das Ashaka Zementwerk trägt in Nordnigeria den stolzen Spitznamen 'Der Stern des Nordens'. Erbaut 1974 in der trockenen Savanne des Gombe-Staates, ist es ein absoluter Überlebenskünstler in einer wirtschaftlich schwierigen und oft von Konflikten geprägten Region. Die Fabrik, die zu Lafarge Africa gehört, verlässt sich auf die massiven Kalksteinvorkommen in der Gegend und baut sogar ihre eigene Kohle in nahegelegenen Minen ab, um ihre riesigen Öfen unabhängig von importierten Brennstoffen befeuern zu können. Ashaka war entscheidend für den Bau von Dämmen, Universitäten und Straßen im gesamten Nordosten Nigerias. Wirtschaft K7 — Autarke Energieversorgung in der Industrie.",
+      "factsAdvanced": [
+        "Wird aufgrund seiner Bedeutung oft der 'Star of the North' genannt.",
+        "Befindet sich im Bundesstaat Gombe im Nordosten Nigerias.",
+        "Gehört mehrheitlich zum internationalen Baustoffkonzern LafargeHolcim.",
+        "Nutzt eine eigene lokale Kohlemine (Maiganga), um die Brennöfen zu befeuern.",
+        "Überstand die schweren Sicherheitskrisen der Region (Boko Haram) weitgehend unbeschadet.",
+        "Hauptlieferant für Zement im krisengeplagten Nordosten Nigerias."
+      ]
+    },
+    {
+      "id": "ewekoro-cement-plant-economic-v2",
+      "descriptionAdvanced": "Ewekoro ist die Großmutter aller nigerianischen Zementfabriken. Eröffnet im Jahr 1960, kurz nachdem Nigeria die Unabhängigkeit von den Briten erlangte, war dies das erste voll funktionsfähige Zementwerk des Landes. Gelegen im Ogun-Staat, versorgte Ewekoro (Lafarge) jahrzehntelang den Bauboom von Lagos. Die Anlage ist so alt, dass sie die Geschichte der Zementtechnologie widerspiegelt: Hier kann man noch Reste alter Nassverfahren-Öfen sehen, neben den modernen, effizienten Trockenverfahren-Linien, die heute die Produktion sichern. Das kleine Dorf Ewekoro wurde durch das Werk zu einem industriellen Knotenpunkt transformiert. Geschichte K8 — Frühe Industrialisierung nach der Unabhängigkeit.",
+      "factsAdvanced": [
+        "Das älteste voll kommerzielle Zementwerk in Nigeria (Eröffnung 1960).",
+        "Gehört zu Lafarge Africa (ehemals West African Portland Cement - WAPCO).",
+        "Liegt strategisch an der Verkehrsader zwischen Lagos und Abeokuta.",
+        "Das Werk spiegelt den historischen Wechsel vom Nass- zum Trockenverfahren wider.",
+        "Verfügt über ein eigenes großes Gaskraftwerk zur Stromerzeugung.",
+        "Baute das historische Fundament der Megacity Lagos auf."
+      ]
+    },
+    {
+      "id": "okpella-cement-plant-economic-v2",
+      "descriptionAdvanced": "Das Zementwerk Okpella, eingebettet in die Hügellandschaft des Edo-Staates, hat eine raue, wechselhafte Geschichte hinter sich. Ursprünglich in den 1970er Jahren von der Regierung des Edo-Staates als Bendel Cement Company gegründet, rottete die Fabrik nach schlechtem Management lange Zeit vor sich hin. Erst als die BUA-Gruppe die Anlage kaufte und dreistellige Millionenbeträge in brandneue Produktionslinien pumpte, erwachte Okpella wieder zum Leben. Die Qualität des hier abgebauten Kalksteins gilt als eine der reinsten in Westafrika, was dem Zement aus Okpella einen exzellenten Ruf bei Brücken- und Dammbauern eingebracht hat. Wirtschaft K7 — Revitalisierung von Industrieanlagen.",
+      "factsAdvanced": [
+        "Historisch bekannt als Edo Cement oder Bendel Cement Company.",
+        "Heute im Besitz der BUA Group (BUA Cement Plc).",
+        "Der lokal abgebaute Kalkstein gilt als extrem rein und hochwertig.",
+        "Wurde nach jahrzehntelangem Stillstand komplett modernisiert und erweitert.",
+        "Besitzt eine Produktionskapazität von über 3 Millionen Tonnen jährlich.",
+        "Liegt verkehrsgünstig an den Routen zwischen dem Süden und der Hauptstadt Abuja."
+      ]
+    },
+    {
+      "id": "alscon-smelter-economic-v2",
+      "descriptionAdvanced": "Die ALSCON Aluminiumhütte in Ikot Abasi war ein monumentaler Versuch Nigerias, nicht nur rohes Gas zu exportieren, sondern es industriell zu veredeln. Die Idee: Das massenhaft vorhandene, billige Erdgas des Nigerdeltas sollte genutzt werden, um Bauxit (das importiert werden musste) bei extremer Hitze und enormem Stromverbrauch zu hochwertigem Aluminium zu schmelzen. Die 1997 eröffnete, technologisch brillante Anlage am Imo-Fluss arbeitete nur wenige Jahre erfolgreich. Massive ungelöste rechtliche Streitereien um die Privatisierung zwischen einem russischen Konzern (Rusal) und amerikanischen Investoren (BFI Group) sowie fehlende Gasversorgung führten zur kompletten Schließung. Heute ruht das Milliardenprojekt wie ein schlafender Riese am Fluss. Wirtschaft K8 — Aluminiumschmelzen und Privatisierungsstreitigkeiten.",
+      "factsAdvanced": [
+        "Aluminium Smelter Company of Nigeria (ALSCON) in Ikot Abasi (Akwa Ibom).",
+        "Erbaut in den 1990er Jahren, um billiges lokales Erdgas industriell zu nutzen.",
+        "Konzipiert, um jährlich fast 200.000 Tonnen hochreines Aluminium zu produzieren.",
+        "Musste Bauxit/Tonerde aus Guinea und anderen Ländern importieren.",
+        "Ist seit 2014 nach massiven rechtlichen Streitigkeiten komplett geschlossen.",
+        "Ein russisches Konsortium (Rusal) ist in einen ewigen Rechtsstreit um die Eigentümerschaft verwickelt."
+      ]
+    },
+    {
+      "id": "benin-city-walls-history-v2",
+      "descriptionAdvanced": "Die Stadtmauern von Benin City zählen zu den absolut gigantischsten Bauwerken, die die Menschheit jemals vor dem Industriezeitalter errichtet hat. Das Guinness-Buch der Rekorde beschrieb sie einst als das größte von Menschen geschaffene Erdwerk der Welt. Über vier Jahrhunderte (etwa vom 13. bis zum 15. Jahrhundert) hoben die Arbeiter des Königreichs Benin gewaltige Gräben aus und schütteten die Erde zu massiven Wällen auf, um ein über 16.000 Kilometer langes Netz aus Verteidigungslinien um unzählige Dörfer zu schaffen. Die tiefen Gräben schützten die Hauptstadt vor Invasoren. Tragischerweise wurden große Teile dieses Meisterwerks der Militärarchitektur durch die britische Strafexpedition 1897 zerstört und verfallen heute aufgrund städtischer Bebauung. Geschichte K7 — Afrikanische Imperien und historische Festungsanlagen.",
+      "factsAdvanced": [
+        "Historisch eines der größten künstlichen Erdbauwerke der Menschheitsgeschichte.",
+        "Das Mauersystem umfasste Schätzungen zufolge über 16.000 Kilometer Wälle.",
+        "Errichtet primär zwischen dem 13. und 15. Jahrhundert (Oba Oguola).",
+        "Wurde größtenteils während der britischen Invasion 1897 verwüstet.",
+        "Die Mauern dienten dem Schutz und der Kontrolle des Handels im Benin-Königreich.",
+        "Heute stark durch urbane Überbauung in Benin City gefährdet."
+      ]
+    },
+    {
+      "id": "sukur-cultural-landscape-history-v2",
+      "descriptionAdvanced": "Hoch in den abgelegenen Mandara-Bergen an der Grenze zu Kamerun liegt ein magischer Ort: die Kulturlandschaft Sukur, Nigerias erstes UNESCO-Weltkulturerbe. Wer den steilen, meisterhaft gepflasterten Steinweg hinaufsteigt, betritt eine andere Zeit. Das Dorf auf dem Plateau ist weltberühmt für seinen heiligen Hidi-Palast (den Sitz des Häuptlings) und die terrassenförmig angelegten Felder, die seit Jahrhunderten das Überleben in den Bergen sichern. Die Bewohner von Sukur waren historisch meisterhafte Eisenschmiede; ihre runden, lehmverputzten Öfen produzierten hochwertiges Eisen, das in weiten Teilen der Region als Währung gehandelt wurde. Geschichte K8 — Prähistorische Eisenverhüttung und afrikanische Bergvölker.",
+      "factsAdvanced": [
+        "Im Jahr 1999 zum ersten UNESCO-Weltkulturerbe Nigerias erklärt.",
+        "Liegt isoliert auf einem Plateau in den Mandara-Bergen (Adamawa-Staat).",
+        "Der Häuptling (Hidi) residiert in einem einzigartigen, trocken gemauerten Steinpalast.",
+        "Berühmt für die massive historische Eisenverhüttung in Lehmöfen.",
+        "Die Hänge sind mit uralten, mühsam angelegten Steinterrassen für die Landwirtschaft bedeckt.",
+        "Wurde 2014 durch Angriffe von Boko Haram schwer beschädigt, aber wieder aufgebaut."
+      ]
+    },
+    {
+      "id": "osun-osogbo-sacred-grove-history-v2",
+      "descriptionAdvanced": "Der heilige Hain von Osun-Osogbo ist einer der letzten verbliebenen dichten Primärwälder im Südwesten Nigerias – und er ist nicht nur Natur, er ist pure Religion. Dieser dunkle, mystische Wald am Ufer des Osun-Flusses ist die irdische Heimat der Yoruba-Göttin der Fruchtbarkeit und des Wassers. Entlang der gewundenen Waldpfade stehen über 40 hoch aufragende, teils skurrile Schreine und Skulpturen. Viele dieser modernen Kunstwerke wurden ab den 1950er Jahren von der österreichischen Künstlerin Susanne Wenger (bekannt als Adunni Olorisha) zusammen mit lokalen Priestern aus Lehm und Zement geschaffen, um den Wald vor der Abholzung zu retten. Heute ist der Hain ein UNESCO-Welterbe und das Herzstück des jährlichen, farbenprächtigen Osun-Festivals. Gesellschaft K7 — Yoruba-Religion, Susanne Wenger und Umweltschutz.",
+      "factsAdvanced": [
+        "UNESCO-Weltkulturerbe seit 2005, gelegen im Bundesstaat Osun.",
+        "Einer der letzten Reste des heiligen Urwalds der Yoruba-Kultur.",
+        "Zentrum der Verehrung der Fluss- und Fruchtbarkeitsgöttin Osun.",
+        "Die österreichische Künstlerin Susanne Wenger rettete den Wald vor Zerstörung.",
+        "Beherbergt über 40 massive Skulpturen und Schreine ('New Sacred Art').",
+        "Zieht jährlich im August Zehntausende Gläubige zum Osun-Festival an."
+      ]
+    },
+    {
+      "id": "kano-city-walls-history-v2",
+      "descriptionAdvanced": "Die massiven braunen Lehmwände der alten Stadtmauern von Kano erzählen von einer Zeit, in der Städte wie Festungen in der staubigen Savanne standen. Der Bau begann im 11. Jahrhundert, doch ihre gewaltigste Ausdehnung erreichten sie im 16. Jahrhundert. Mit einer Höhe von teilweise über 15 Metern und gigantischen Holztoren, die bei Sonnenuntergang verschlossen wurden, boten sie Schutz vor Invasoren und sicherten den Reichtum aus dem Transsaharahandel. Obwohl heute viele Teile der fast 14 Kilometer langen Mauer der Witterung und dem modernen Kano zum Opfer gefallen sind, vermitteln die noch stehenden massiven Tore (Kofar) ein Gefühl von der unglaublichen Macht, die das alte Emirat einst besaß. Geschichte K7 — Transsaharahandel und islamische Stadtstaaten.",
+      "factsAdvanced": [
+        "Historische Lehmziegelmauern, die die Altstadt von Kano umschlossen.",
+        "Der Bau wurde im 11. Jahrhundert (unter König Gijimasu) begonnen.",
+        "Besaß einst eine Länge von 14 Kilometern und 15 massive Stadttore.",
+        "Die Tore ('Kofar') wurden nachts verschlossen, um die Handelsstadt zu sichern.",
+        "Teile der Mauer verfallen heute durch starke Regenfälle und urbane Ausbreitung.",
+        "Wurden 2003 auf die Vorschlagsliste für das UNESCO-Welterbe gesetzt."
+      ]
+    },
+    {
+      "id": "sungbos-eredo-history-v2",
+      "descriptionAdvanced": "Tief im feuchten Regenwald in der Nähe von Ijebu-Ode verbirgt sich Sungbo's Eredo, ein gigantisches, jahrhundertealtes Geheimnis, das selbst viele Nigerianer nicht kennen. Es handelt sich um ein massives System von tiefen Gräben und hohen Erdwällen, das einen Umfang von unglaublichen 160 Kilometern hat – mehr als die Ringautobahn von London. Lokale Legenden besagen, dass es von der kinderlosen, extrem wohlhabenden Königin Bilikisu Sungbo erbaut wurde, die manche mit der mythischen Königin von Saba gleichsetzen. Archäologen gehen davon aus, dass dieses astronomisch große Erdwerk um das 10. Jahrhundert n. Chr. erbaut wurde, wahrscheinlich als spirituelle Barriere oder zum Schutz des damaligen Ijebu-Königreichs. Geschichte K8 — Mystische afrikanische Erdbauwerke und das Ijebu-Reich.",
+      "factsAdvanced": [
+        "Ein 160 Kilometer langes System aus Gräben und Erdwällen (Erdwerk).",
+        "Umschließt ein Gebiet von fast 1.000 Quadratkilometern bei Ijebu-Ode.",
+        "Radiokarbon-Datierungen datieren den Bau auf etwa das 10. Jahrhundert n. Chr.",
+        "Nach lokalen Mythen von der herrschsüchtigen Königin Bilikisu Sungbo erbaut.",
+        "Die Gräben sind teilweise bis zu 20 Meter tief in den Lateritboden gegraben.",
+        "Gilt als das größte vorkoloniale Monumentalbauwerk in ganz Afrika."
+      ]
+    },
+    {
+      "id": "olumo-rock-history-v2",
+      "descriptionAdvanced": "Der Olumo-Felsen ist nicht einfach nur ein Berg; er ist der Retter eines ganzen Volkes. Im 19. Jahrhundert, während der blutigen Yoruba-Bürgerkriege und den Raubzügen des benachbarten Dahomey-Reiches, suchten Flüchtlinge der Egba-Ethnie Schutz in den tiefen Höhlen und Spalten dieses massiven Granitbrockens. Der Felsen bot eine uneinnehmbare Festung, und unter ihm entstand die Stadt Abeokuta (was wörtlich 'Unter dem Felsen' bedeutet). Wenn man heute die aus dem Stein gehauenen Treppen erklimmt, kann man immer noch die alten Schreine der Egba-Priester sehen, die den Felsgeist anbeten, der ihr Volk vor der völligen Vernichtung bewahrte. Geschichte K6 — Die Yoruba-Kriege und natürliche Zufluchtsorte.",
+      "factsAdvanced": [
+        "Massiver Granitmonolith im Zentrum der Stadt Abeokuta (Ogun-Staat).",
+        "Diente im 19. Jahrhundert als Zufluchtsort und Festung für das Egba-Volk.",
+        "Höchster Punkt erreicht etwa 137 Meter über dem Meeresspiegel.",
+        "Der Felsen beherbergt noch heute aktive traditionelle Schreine und Priesterinnen.",
+        "Es gibt Höhlen, in denen sich die Krieger vor den Amazonen von Dahomey versteckten.",
+        "Heute eine große Touristenattraktion, erreichbar über Treppen oder einen modernen Aufzug."
+      ]
+    },
+    {
+      "id": "badagry-slave-port-history-v2",
+      "descriptionAdvanced": "Badagry, an der Küste westlich von Lagos gelegen, war das dunkle Tor, durch das Hunderttausende Afrikaner ihre Heimat für immer verließen. Gegründet im 15. Jahrhundert, wurde diese verschlafene Lagunenstadt zu einem der brutalsten Sklavenhäfen an der sogenannten Sklavenküste Westafrikas. Heute ist der Ort ein stummes, melancholisches Freilichtmuseum. Hier findet man das Vlekete Slave Market Museum und den berüchtigten Point of No Return, wo Gefangene auf Schiffe nach Brasilien, Kuba oder Amerika verladen wurden. Ironischerweise war Badagry Jahrzehnte später auch der erste Ort, an dem befreite Sklaven und christliche Missionare wieder in Nigeria an Land gingen und die erste Schule des Landes bauten. Geschichte K8 — Der transatlantische Sklavenhandel.",
+      "factsAdvanced": [
+        "War im 18. und 19. Jahrhundert ein massiver Exporthafen für Sklaven.",
+        "Der 'Point of No Return' liegt auf der Insel Gberefu gegenüber von Badagry.",
+        "Beherbergt das Vlekete-Sklavenmarkt-Museum mit Ketten und historischen Artefakten.",
+        "War später das Einfallstor für christliche Missionare (Thomas Birch Freeman).",
+        "Der Agia-Baum war der Ort, an dem 1842 das Christentum im Südwesten gepredigt wurde.",
+        "Heute eine sehr ruhige Grenzstadt nahe der Republik Benin."
+      ]
+    },
+    {
+      "id": "first-storey-building-history-v2",
+      "descriptionAdvanced": "Dieses weiß getünchte, zweistöckige Haus in Badagry sieht auf den ersten Blick unscheinbar aus, aber es veränderte die Geschichte Nigerias. Erbaut 1845 vom anglikanischen Missionar Rev. Henry Townsend, ist es das älteste europäisch inspirierte, mehrstöckige Gebäude des Landes. Hier lebten nicht Sklavenhändler, sondern die Menschen, die gegen den Sklavenhandel predigten. In einem der kleinen Räume dieses Hauses saß der berühmte Bischof Samuel Ajayi Crowther – selbst ein ehemaliger Sklave – und vollbrachte das monumentale Werk, die englische Bibel zum ersten Mal komplett in die Yoruba-Sprache zu übersetzen, was die Alphabetisierung und Kultur in Westnigeria nachhaltig prägte. Geschichte K7 — Christliche Missionierung und Alphabetisierung.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1845 durch den britischen Missionar Rev. Henry Townsend.",
+        "Gilt als das älteste mehrstöckige Gebäude Nigerias nach westlichem Vorbild.",
+        "Hier übersetzte Bischof Samuel Ajayi Crowther die Bibel in die Yoruba-Sprache.",
+        "Enthält den angeblich ersten jemals in Nigeria gegrabenen Wasserbrunnen (1842).",
+        "Das Gebäude diente als Missionshaus der Church Missionary Society (CMS).",
+        "Noch heute steht das Haus am Yachthafen (Marina) von Badagry und ist ein Museum."
+      ]
+    },
+    {
+      "id": "arochukwu-long-juju-history-v2",
+      "descriptionAdvanced": "Tief in den dunklen Höhlen von Arochukwu im Osten Nigerias befand sich einst das mächtigste und gefürchtetste Orakel Westafrikas: das 'Ibin Ukpabi' oder 'Long Juju'. Dieses Orakel diente als oberstes Gericht für die Völker der Region. Wer wegen Hexerei, Mord oder Schulden verurteilt wurde, betrat die Höhlenkaskade und verschwand spurlos, angeblich von den Göttern verschlungen. In Wahrheit war das Orakel das Herzstück eines brillanten und brutalen Sklavenhandels-Netzwerks, das von der Aro-Ethnie kontrolliert wurde: Die Verurteilten wurden nicht getötet, sondern heimlich durch Tunnel ans Wasser gebracht und als Sklaven an die Küste von Calabar verkauft. Die Briten zerstörten den Schrein 1902 in einer massiven Militärexpedition. Geschichte K8 — Afrikanische Orakel und das Aro-Netzwerk.",
+      "factsAdvanced": [
+        "Das berühmteste und gefürchtetste traditionelle Orakel ('Ibin Ukpabi') der Igbo.",
+        "Versteckt in einem Komplex aus Höhlen und unterirdischen Wasserläufen.",
+        "Diente historisch als oberster Gerichtshof für Konflikte im gesamten Südosten.",
+        "War das Zentrum eines massiven, von den Aro kontrollierten Sklavenhandelsrings.",
+        "Verurteilte wurden nicht von den Göttern gefressen, sondern als Sklaven an die Küste verkauft.",
+        "Wurde 1902 durch die britische 'Aro Anglo-Expedition' teilweise gesprengt."
+      ]
+    },
+    {
+      "id": "national-war-museum-history-v2",
+      "descriptionAdvanced": "Das National War Museum in Umuahia ist der Ort, an dem die Geister des nigerianischen Bürgerkriegs ruhen. Die Wahl des Standorts ist tief symbolisch: Das Museum ist teilweise um den originalen 'Ojukwu Bunker' herum gebaut, einen tief in die Erde gegrabenen, bombensicheren Bunker, in dem die Führung der Separatistenrepublik Biafra in den letzten, verzweifelten Tagen des Krieges Schutz suchte. Das Museum zeigt nicht nur traditionelle Waffen und britische Kolonialgewehre, sondern vor allem den unglaublichen Erfindergeist der blockierten Biafra-Ingenieure. Hier stehen die 'Ogbunigwe' (Massenvernichtungs-Minen), umgebaute Zivilflugzeuge und winzige gepanzerte Traktoren, die gegen eine moderne Armee eingesetzt wurden. Geschichte K8 — Der nigerianische Bürgerkrieg (Biafra-Krieg).",
+      "factsAdvanced": [
+        "Das größte Museum Nigerias, das sich mit der Militärgeschichte des Landes befasst.",
+        "Liegt in Umuahia, der letzten faktischen Hauptstadt der Separatisten-Republik Biafra.",
+        "Beherbergt den Voice of Biafra Radiosender-Bunker und den unterirdischen Kommando-Bunker.",
+        "Stellt die berühmte selbstgebaute Waffentechnologie der Biafra-Truppen aus (Ogbunigwe).",
+        "Zeigt auch Waffen aus vorkolonialen Kriegen und britischen Expeditionen.",
+        "Dient als offizielles Denkmal zur nationalen Versöhnung nach dem Krieg (1967-1970)."
+      ]
+    }
+  ]
+}

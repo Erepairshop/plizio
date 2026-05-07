@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "banjul-cities-v2",
+      "descriptionAdvanced": "Banjul, the vibrant capital city of The Gambia, sits gracefully on St Mary's Island where the mighty Gambia River meets the Atlantic Ocean. Established in 1816 as Bathurst by Captain Alexander Grant, it initially served as a British trading post and a base for suppressing the slave trade. Today, this island city is connected to the mainland by the Denton Bridge and ferries crossing from Barra. Despite being one of Africa's smallest capitals with an area of roughly 12 square kilometers, Banjul remains the economic and administrative heartbeat of the nation. It boasts iconic landmarks such as the Arch 22, standing 35 meters tall, and the bustling Albert Market, dating back to the mid-19th century. (Geography K6 — coastal cities and river estuaries)",
+      "factsAdvanced": [
+        "Originally founded in 1816 as Bathurst.",
+        "Located entirely on St Mary's Island at the river's mouth.",
+        "Covers a total area of approximately 12 square kilometers.",
+        "Renamed to Banjul in 1973 after independence.",
+        "Features the 35-meter tall Arch 22 monument.",
+        "Connected to the mainland via the Denton Bridge."
+      ]
+    },
+    {
+      "id": "serekunda-cities-v2",
+      "descriptionAdvanced": "Serekunda is the largest and most populous urban center in The Gambia, dramatically eclipsing the capital city in size and commercial activity. Situated just southwest of Banjul, it evolved from a collection of smaller villages established by the Sayerr Jobe family in the 19th century into a sprawling metropolis. The city's legendary central market is a labyrinth of vibrant stalls selling everything from fresh produce to intricately dyed fabrics and electronics. Known for its intense energy and dense population, Serekunda serves as the primary transport hub linking the coastal resort areas like Senegambia to the inland regions. The city is famous for its cultural festivals and traditional wrestling arenas. (Social Studies K7 — urban development and African markets)",
+      "factsAdvanced": [
+        "The largest urban agglomeration in The Gambia.",
+        "Named after Sayerr Jobe, a 19th-century founder.",
+        "Located roughly 13 kilometers southwest of Banjul.",
+        "Renowned for the vast Serekunda Market.",
+        "Acts as the main transit hub for the coastal regions.",
+        "Home to traditional Senegambian wrestling arenas."
+      ]
+    },
+    {
+      "id": "brikama-cities-v2",
+      "descriptionAdvanced": "Brikama stands as one of the major cities in The Gambia and serves as the administrative headquarters of the West Coast Region. Situated south of the capital, it is deeply rooted in Mandinka culture and history. The city is celebrated nationwide as the undisputed capital of traditional Gambian music, having produced numerous master kora players and modern afro-manding artists. Brikama is also famous for its expansive craft market, which is particularly renowned for exceptional woodcarvings and traditional instruments. It acts as a crucial commercial crossroads for agricultural produce traveling from the southern Casamance region of Senegal into Gambian markets. (Arts & Culture K5 — traditional African music and crafts)",
+      "factsAdvanced": [
+        "Serves as the capital of the West Coast Region.",
+        "Widely known as the musical hub of The Gambia.",
+        "Home to a famous traditional woodcarving market.",
+        "Located approximately 36 kilometers south of Banjul.",
+        "A major center for Mandinka cultural heritage.",
+        "Key transit point for trade with the Casamance region."
+      ]
+    },
+    {
+      "id": "bakau-cities-v2",
+      "descriptionAdvanced": "Bakau is a vibrant coastal town situated on the Atlantic coastline, just west of the capital, Banjul. Renowned for its botanical gardens and sweeping ocean views, it seamlessly blends traditional fishing community life with modern tourism. The town's daily life centers around its bustling fish market and the historic Kachikally Crocodile Pool, a sacred site where locals and visitors alike have interacted with tame crocodiles for generations. Bakau has long been a favored residential area, featuring colonial-era architecture alongside lively street scenes. The coastal cliffs here offer a dramatic contrast to the flat sandy beaches found further south along the Kombo peninsula. (Geography K6 — coastal settlements and marine ecosystems)",
+      "factsAdvanced": [
+        "Located on the Atlantic coast west of Banjul.",
+        "Home to the sacred Kachikally Crocodile Pool.",
+        "Features a prominent and active artisanal fishing port.",
+        "Hosts the historic Bakau Botanical Gardens.",
+        "Characterized by dramatic coastal cliffs facing the ocean.",
+        "A major residential and tourism hub in the Kombo area."
+      ]
+    },
+    {
+      "id": "farafenni-cities-v2",
+      "descriptionAdvanced": "Farafenni is a crucial commercial town located in the North Bank Region of The Gambia, positioned strategically near the border with Senegal. Its rapid growth is fueled by its status as a vital transit point along the Trans-Gambia Highway, connecting the northern and southern halves of Senegal via Gambian territory. The town gained further prominence following the completion of the monumental Senegambia Bridge in 2019, which replaced the old ferry crossing over the Gambia River. Farafenni boasts a massive weekly market (lumo) that attracts traders from across the region, making it a bustling center for agricultural trade and regional commerce. (Economics K8 — regional trade routes and infrastructure)",
+      "factsAdvanced": [
+        "Located in the North Bank Region near the Senegalese border.",
+        "A major transit hub on the Trans-Gambia Highway.",
+        "Situated near the Senegambia Bridge, completed in 2019.",
+        "Hosts a large weekly regional market known as a 'lumo'.",
+        "Serves as a critical link between northern and southern Senegal.",
+        "A fast-growing center for cross-border agricultural trade."
+      ]
+    },
+    {
+      "id": "soma-cities-v2",
+      "descriptionAdvanced": "Soma is a prominent town located in the Lower River Region, serving as a vital commercial and transport nexus in the heart of The Gambia. Sitting at the intersection of the primary east-west South Bank Road and the north-south Trans-Gambia Highway, it is heavily focused on transit trade. The town historically served as the southern terminus for the Trans-Gambia ferry crossing before the Senegambia Bridge was constructed nearby in 2019. Soma's economy revolves around transport services, hospitality for travelers, and agricultural trade, particularly peanuts and regional produce. Its strategic central position makes it a mandatory stop for most cross-country travelers. (Geography K6 — transport geography and regional hubs)",
+      "factsAdvanced": [
+        "Located at the major intersection of the South Bank Road.",
+        "Historically the southern base for the Trans-Gambia ferry.",
+        "Situated just south of the new Senegambia Bridge.",
+        "A primary transit and commercial hub in the Lower River Region.",
+        "Heavily reliant on transport and regional agricultural trade.",
+        "Serves as a major rest stop for cross-country travelers."
+      ]
+    },
+    {
+      "id": "basse-santa-su-cities-v2",
+      "descriptionAdvanced": "Basse Santa Su, commonly known simply as Basse, is the easternmost major town in The Gambia and the capital of the Upper River Region. Founded in the late 19th century, it has long been a critical inland port and trading center located on the banks of the Gambia River. The town is culturally diverse, serving as a melting pot for Mandinka, Fula, and Serahule communities, which is reflected in its vibrant markets and varied architecture. Basse historically thrived on the groundnut trade, serving as a collection point where river barges would load crops for export downriver. Its remote location gives it a distinct character compared to the coastal cities. (History K7 — colonial trading posts and river navigation)",
+      "factsAdvanced": [
+        "Capital and largest town of the Upper River Region.",
+        "The easternmost major commercial center in The Gambia.",
+        "Historically a vital inland river port for the peanut trade.",
+        "Features a culturally diverse population including Fula and Serahule.",
+        "Located approximately 400 kilometers upriver from Banjul.",
+        "Known for its bustling regional market near the riverbank."
+      ]
+    },
+    {
+      "id": "janjanbureh-cities-v2",
+      "descriptionAdvanced": "Janjanbureh, formerly known as Georgetown, is a historically significant town located on MacCarthy Island in the middle of the Gambia River. Established by the British in 1832 as a settlement for freed slaves, it served as the administrative center for the river's middle reaches during the colonial era. The town is steeped in history, featuring remnants of colonial architecture, the historic Freedom Tree, and the old slave house. Today, Janjanbureh is a quiet but culturally rich administrative capital of the Central River Region. Its island location makes it a popular base for eco-tourism and river cruises exploring the nearby River Gambia National Park. (History K8 — colonial settlements and the abolition of slavery)",
+      "factsAdvanced": [
+        "Founded by the British in 1832 as Georgetown.",
+        "Located entirely on MacCarthy Island in the Gambia River.",
+        "Capital of the Central River Region.",
+        "Originally established as a settlement for freed slaves.",
+        "Home to historical landmarks like the Freedom Tree.",
+        "A key starting point for river eco-tourism and wildlife viewing."
+      ]
+    },
+    {
+      "id": "bansang-cities-v2",
+      "descriptionAdvanced": "Bansang is a bustling town in the Central River Region, situated on the southern bank of the Gambia River. While smaller than some coastal cities, it holds immense regional importance primarily due to the Bansang Hospital, which was established in 1938 and remains the primary medical facility for the entire rural interior of the country. The town has a strong Fula cultural presence and serves as a major agricultural trading center, particularly for peanuts and rice grown in the surrounding fertile river plains. Bansang's daily rhythm is tied closely to the river, with a small ferry connecting it to the agricultural communities on the northern bank. (Social Studies K6 — rural infrastructure and healthcare)",
+      "factsAdvanced": [
+        "Located on the south bank of the Gambia River.",
+        "Home to Bansang Hospital, the main referral hospital inland.",
+        "Hospital was established during the colonial era in 1938.",
+        "A major center for the regional Fula ethnic community.",
+        "Key trading hub for locally grown rice and groundnuts.",
+        "Features a local river crossing connecting to the north bank."
+      ]
+    },
+    {
+      "id": "barra-cities-v2",
+      "descriptionAdvanced": "Barra is a historically and commercially vital coastal town situated at the northern edge of the Gambia River estuary, directly across from the capital city of Banjul. Often referred to as Niumi in historical texts, it was once the capital of the powerful Kingdom of Niumi which controlled the river's entrance. Today, Barra is best known as the northern terminus for the busy Banjul-Barra ferry crossing, a lifeline for trade and passenger transport connecting the capital to northern Senegal. Just outside the town lies Fort Bullen, a UNESCO World Heritage site built by the British in 1826 to enforce the abolition of the slave trade. (History K7 — coastal kingdoms and colonial forts)",
+      "factsAdvanced": [
+        "Located on the north bank of the Gambia River estuary.",
+        "Directly faces the capital city of Banjul across the water.",
+        "Serves as the vital northern terminal for the Banjul ferry.",
+        "Historically the seat of the powerful Kingdom of Niumi.",
+        "Located near the historic Fort Bullen, built in 1826.",
+        "A major transit point for overland travel to Dakar, Senegal."
+      ]
+    },
+    {
+      "id": "gunjur-cities-v2",
+      "descriptionAdvanced": "Gunjur is a large, vibrant coastal town in the southwestern corner of The Gambia, deeply rooted in Islamic scholarship and traditional fishing. The town boasts one of the most active artisanal fishing beaches in the country, where hundreds of colorful wooden pirogues bring in daily catches, sustaining a bustling local economy. Historically, Gunjur has been a center for Islamic learning since the 19th century and hosts important annual religious gatherings. In recent years, it has also become a focal point for environmental conservation efforts, particularly focused on protecting local sea turtle populations and maintaining the surrounding coastal dune ecosystems. (Geography K6 — artisanal fishing economies and coastal conservation)",
+      "factsAdvanced": [
+        "Located in the southwestern coastal region of The Gambia.",
+        "Features one of the country's largest artisanal fishing ports.",
+        "Historically renowned as a center for Islamic scholarship.",
+        "Hosts a major fish smoking and processing industry.",
+        "Known for local environmental and turtle conservation projects.",
+        "The beach is characterized by hundreds of colorful wooden pirogues."
+      ]
+    },
+    {
+      "id": "sukuta-cities-v2",
+      "descriptionAdvanced": "Sukuta is a densely populated and historically rich town situated in the Kombo North District, positioned between the urban sprawl of Serekunda and the coastal resorts. It is one of the oldest settlements in the region, with deep agricultural roots and a strong sense of community tradition. Sukuta is widely known for its sprawling horticultural gardens, where local women cultivate vegetables that supply the major markets and hotels of the coast. The town maintains a traditional layout with distinct wards and continues to host vibrant cultural ceremonies, managing to preserve its heritage despite the rapid urbanization pressing in from all sides. (Social Studies K5 — traditional agriculture and urban expansion)",
+      "factsAdvanced": [
+        "One of the oldest traditional settlements in the Kombo region.",
+        "Located between Serekunda and the Atlantic coastal strip.",
+        "Renowned for extensive women-led horticultural vegetable gardens.",
+        "Maintains traditional ward structures and cultural leadership.",
+        "Acts as a major food supplier for nearby urban centers.",
+        "Experiencing rapid urbanization and population growth."
+      ]
+    },
+    {
+      "id": "brufut-cities-v2",
+      "descriptionAdvanced": "Brufut is a rapidly developing coastal town located south of the main Senegambia tourist strip, known for its pristine beaches and historic significance. The town sits slightly inland, with an expansive, quieter beachfront that has recently seen significant real estate and eco-tourism development. Historically, Brufut is famous as the site of the Sanneh-Mentering, a sacred grove and traditional meeting place of immense spiritual importance to the local Mandinka population. The town seamlessly blends modern residential expansions with deep-rooted traditions, offering a calmer alternative to the bustling tourist hubs to the north while still supporting a vibrant local fishing community. (Geography K7 — coastal development and cultural heritage)",
+      "factsAdvanced": [
+        "Located on the Atlantic coast south of the main tourist areas.",
+        "Home to the sacred Sanneh-Mentering historical site.",
+        "Features a large, active traditional fishing beach.",
+        "Experiencing significant modern residential and eco-resort development.",
+        "Known for having quieter, less crowded beaches than Kololi.",
+        "Maintains strong traditional Mandinka cultural roots."
+      ]
+    },
+    {
+      "id": "tanji-cities-v2",
+      "descriptionAdvanced": "Tanji is perhaps the most famous and visually spectacular fishing village in The Gambia, situated along the Atlantic coast. Every late afternoon, the beach transforms into a chaotic, vibrant spectacle as dozens of brightly painted fishing boats return with their catch, greeted by crowds of merchants, processors, and onlookers. The village is enveloped in the smoke of numerous traditional fish-smoking houses, which preserve the catch for distribution far inland. Besides its fishing industry, Tanji is home to the Tanji Village Museum, which meticulously preserves traditional Mandinka crafts and architecture, and borders a significant bird reserve popular with naturalists. (Economics K6 — traditional industries and local supply chains)",
+      "factsAdvanced": [
+        "Renowned as The Gambia's most vibrant artisanal fishing village.",
+        "Features a massive daily fish market directly on the beach.",
+        "Home to a large traditional fish smoking and processing industry.",
+        "Hosts the Tanji Village Museum preserving local heritage.",
+        "Located adjacent to the Tanji Bird Reserve.",
+        "Brightly painted wooden pirogues are a hallmark of the shoreline."
+      ]
+    },
+    {
+      "id": "kerewan-cities-v2",
+      "descriptionAdvanced": "Kerewan is a key administrative and agricultural town located on the north bank of the Gambia River, serving as the headquarters for the North Bank Region. Situated along a major tributary called the Miniminiyang Bolong, it has historically been an important center for trade and river transport. The town is surrounded by expansive agricultural lands primarily dedicated to peanut farming, which remains the backbone of the local economy. Kerewan gained improved connectivity with the construction of a modern bridge over its tributary, replacing an old ferry system and significantly boosting the flow of goods and people across the northern districts. (Geography K6 — regional administration and agricultural hubs)",
+      "factsAdvanced": [
+        "Serves as the administrative capital of the North Bank Region.",
+        "Located along the Miniminiyang Bolong, a river tributary.",
+        "A major center for regional groundnut (peanut) farming.",
+        "Connected by the Kerewan Bridge, replacing a former ferry.",
+        "Historically an important inland trading post on the north bank.",
+        "Acts as a central hub for rural agricultural communities."
+      ]
+    },
+    {
+      "id": "mansa-konko-cities-v2",
+      "descriptionAdvanced": "Mansa Konko, whose name translates to 'Hill of Kings' in Mandinka, is an administrative town located in the Lower River Region. Situated on a rare elevated ridge overlooking the Gambia River valley, it offers panoramic views of the surrounding wetlands and agricultural plains. The town served as a significant colonial administrative center, and several older buildings from the British era still stand. Today, Mansa Konko functions as the regional capital, housing local government offices and serving as an educational hub for the area. Its proximity to the bustling transit town of Soma makes it a quiet bureaucratic counterpart to its commercial neighbor. (History K7 — colonial administration and regional geography)",
+      "factsAdvanced": [
+        "The name translates to 'Hill of Kings' in the Mandinka language.",
+        "Serves as the administrative headquarters of the Lower River Region.",
+        "Located on a prominent ridge offering views of the river valley.",
+        "Features historic administrative buildings from the British colonial era.",
+        "Situated very close to the commercial transit hub of Soma.",
+        "Functions as a primary educational center for the region."
+      ]
+    },
+    {
+      "id": "kartong-cities-v2",
+      "descriptionAdvanced": "Kartong is the southernmost coastal settlement in The Gambia, situated right on the border with the Casamance region of Senegal where the Allahein River meets the ocean. It is reputed to be one of the oldest coastal villages in the country, maintaining a serene, untouched atmosphere distinct from the northern resorts. Kartong is celebrated for its commitment to eco-tourism and environmental preservation, hosting an annual cultural festival that highlights traditional music and sustainable living. The area is rich in biodiversity, particularly birdlife, and the local economy relies heavily on sustainable fishing, oyster harvesting in the river mangroves, and eco-lodges. (Science K6 — estuarine environments and eco-tourism)",
+      "factsAdvanced": [
+        "The southernmost coastal village in The Gambia.",
+        "Located at the estuary of the Allahein River, bordering Senegal.",
+        "One of the oldest traditional settlements on the Gambian coast.",
+        "A major hub for sustainable eco-tourism and bird watching.",
+        "Known for traditional oyster harvesting in the nearby mangroves.",
+        "Hosts the annual Kartong Festival celebrating local culture."
+      ]
+    },
+    {
+      "id": "kaur-cities-v2",
+      "descriptionAdvanced": "Kaur is an important historical and commercial town located in the Central River Region, situated on the north bank of the Gambia River. During the mid-20th century, Kaur was a booming center for the groundnut trade, serving as a major collection and processing point where river steamers would load massive quantities of peanuts destined for export. The town's landscape is still marked by the remnants of large colonial-era warehouses and trading company buildings. Although the river trade has diminished with the rise of road transport, Kaur remains a vital agricultural market town, surrounded by some of the most fertile farming lands in the country. (History K7 — cash crop economies and river trade)",
+      "factsAdvanced": [
+        "Located on the north bank of the river in the Central River Region.",
+        "Historically one of the largest groundnut trading ports in The Gambia.",
+        "Features colonial-era warehouses and trading infrastructure.",
+        "Situated near the strategic Kaur Hill overlooking the river.",
+        "Remains a significant agricultural market for the northern districts.",
+        "Surrounded by highly fertile floodplain farming areas."
+      ]
+    },
+    {
+      "id": "kuntaur-cities-v2",
+      "descriptionAdvanced": "Kuntaur is a lively river port town situated deep inland within the Central River Region. It serves as a crucial transit point for agricultural produce, particularly rice and peanuts, and features a significant rice mill that processes grain from the surrounding floodplains. Kuntaur is also the primary gateway for tourists visiting the nearby Wassu Stone Circles and the Baboon Islands in the River Gambia National Park. The town retains the rustic charm of a classic river outpost, where life is dictated by the flow of the river and the cycles of the agricultural seasons. (Geography K6 — river ports and agricultural processing)",
+      "factsAdvanced": [
+        "A major inland river port located in the Central River Region.",
+        "Serves as the gateway to the River Gambia National Park (Baboon Islands).",
+        "Located a short distance from the UNESCO-listed Wassu Stone Circles.",
+        "Features a prominent regional rice processing mill.",
+        "Historically a vital collection point for the upriver groundnut trade.",
+        "Economy is heavily dependent on river transport and agriculture."
+      ]
+    },
+    {
+      "id": "bwiam-cities-v2",
+      "descriptionAdvanced": "Bwiam is a prominent town in the Foni Kansala district of the West Coast Region, located along the primary South Bank Road. The town is culturally significant as a major center for the Jola ethnic group and serves as a commercial hub for the surrounding rural villages. Bwiam is well-known nationally for the Bwiam General Hospital, which provides critical healthcare services to the eastern stretches of the West Coast Region and beyond. The town's location near the Bintang Bolong tributary adds to its historical and geographical importance, supporting local fishing and acting as a bridge between the coastal urban centers and the deep interior. (Social Studies K6 — regional healthcare and ethnic demographics)",
+      "factsAdvanced": [
+        "Located in the Foni Kansala district along the South Bank Road.",
+        "A major cultural and commercial center for the Jola ethnic group.",
+        "Home to the Bwiam General Hospital, a key regional health facility.",
+        "Situated in close proximity to the Bintang Bolong river tributary.",
+        "Serves as a crucial transit town between the coast and the interior.",
+        "Surrounded by traditional agricultural and forest lands."
+      ]
+    }
+  ]
+}

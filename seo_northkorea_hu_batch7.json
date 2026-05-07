@@ -1,0 +1,190 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mantap-san-nature-v2",
+      "descriptionAdvanced": "A Mantap-hegy (Mantapsan) egy 2205 méter magas gránitcsúcs Észak-Hamgjong tartományban. Földrajzi és természeti adottságai – a rendkívül kemény kőzet és az elszigeteltség – miatt az észak-koreai vezetés ezt a hegyet választotta a Punggje-ri kísérleti nukleáris teszttelep helyszínéül. Az összes eddigi észak-koreai kísérleti atomrobbantást a Mantap-hegy alá fúrt mély alagutakban hajtották végre. A robbantások következtében a hegy szerkezete súlyosan károsodott, kutatók szerint a csúcs több métert süllyedt, és a 'Fáradt Hegy Szindróma' (kőzetmegereszkedés) lépett fel nála. Bár a felszínt sűrű erdő borítja, a sugárzás és a földrengések ökológiai hatásai miatt a terület szigorúan zárt katonai zóna. Plizio tanterv: Fizika K8 — kőzettan, szeizmikus hullámok és nukleáris tesztek hatása.",
+      "factsAdvanced": [
+        "A Mantap-hegy 2205 méter magas, kemény gránitkőzetből áll.",
+        "Kizárólagos helyszíne Észak-Korea összes eddigi kísérleti földalatti atomrobbantásának.",
+        "A legutóbbi, 2017-es termonukleáris teszt során a hegy csúcsa meg is süllyedt.",
+        "Szeizmológusok a gyakori utórengések miatt 'Fáradt Hegy Szindrómát' állapítottak meg.",
+        "A Punggje-ri teszttelep bejáratait hivatalosan 2018-ban nemzetközi újságírók előtt felrobbantották.",
+        "A terület a legmagasabb szintű katonai és titokvédelmi zárlat alatt áll."
+      ]
+    },
+    {
+      "id": "jangja-river-nature-v2",
+      "descriptionAdvanced": "A Jangdzsa (Jangja) folyó a Jalu folyó egyik legfontosabb mellékága, amely Csagang tartomány hegyein keresztül folyik. A folyó sebes sodrása és a szűk, meredek völgyek miatt a terület tökéletes helyszín a vízerőművek számára. A folyón egymást követik a kisebb-nagyobb gátak, köztük a Kanggje környéki erőművek, amelyek a tartomány hatalmas, rejtett fegyvergyárait és ipari központjait látják el folyamatos elektromos árammal. A Jangdzsa vize télen vastagon befagy. Bár ipari és katonai jelentősége óriási, a folyó felső szakaszain ma is érintetlen hegyi patakok és kiterjedt fenyvesek biztosítanak természetes élőhelyet. Plizio tanterv: Földrajz K7 — hegyvidéki vízrajz, energiatermelés és hadiipari elhelyezkedés.",
+      "factsAdvanced": [
+        "A Jangdzsa folyó a Jalu bal oldali, hegyvidéki mellékfolyója.",
+        "Meredek esése miatt Észak-Korea egyik legfőbb vízerőművi központja.",
+        "Vize létfontosságú Csagang tartomány titkos földalatti fegyvergyárai számára.",
+        "Kanggje városa, az északi hadiipar központja is a folyó partján fekszik.",
+        "Vízminősége az ipari létesítmények ellenére a felső szakaszokon viszonylag tiszta.",
+        "A folyóvölgy a koreai háború alatt stratégiai menedékként szolgált az északi erőknek."
+      ]
+    },
+    {
+      "id": "imjin-river-nature-v2",
+      "descriptionAdvanced": "Az Imdzsin (Imjin) folyó a Tethek-hegység északi, észak-koreai részén ered, majd dél felé kanyarogva átlépi a Demilitarizált Övezetet (DMZ), és Dél-Koreában a Han folyóba torkollik, éppen mielőtt a Sárga-tengerbe érne. A folyó neve az északi és déli megosztottság tragikus szimbóluma, amelyről még híres népdal is született ('Imdzsin folyó'), mivel a víz szabadon folyik a határon, ellentétben az emberekkel. Észak-Korea a felső szakaszon több gátat is épített (pl. Hvanggang-gát), amivel kontrollálni tudja a vízhozamot; ez többször okozott váratlan, halálos áradásokat Dél-Koreában, amikor előzetes figyelmeztetés nélkül nyitották meg a zsilipeket. Plizio tanterv: Földrajz K8 — határokon átnyúló folyók, vízdiplomácia és geopolitika.",
+      "factsAdvanced": [
+        "Az Imdzsin folyó 254 km hosszú, Észak-Koreában ered és Délen ömlik a tengerbe.",
+        "A folyó egy szakasza közvetlenül a Demilitarizált Övezeten (DMZ) halad keresztül.",
+        "Az északi gátnyitások (pl. 2009-ben) többször is halálos villámárvizeket okoztak Délen.",
+        "A folyó medre a koreai háború (1951) több véres csatájának (Gloster Hill) is színtere volt.",
+        "Az érintetlen határmenti szakaszon ritka madárfajok (pl. mandzsu daru) fészkelnek.",
+        "Egy híres koreai dal is megénekli a folyót, amely szabadon lépi át az államhatárt."
+      ]
+    },
+    {
+      "id": "sapho-lake-nature-v2",
+      "descriptionAdvanced": "A Szapho (Sapho) tó egy viszonylag elzárt természeti képződmény, amelynek környéke Észak-Korea nyugati hegyvidéki régiójában terül el. A mesterséges és természetes vizes élőhelyek kombinációjából álló tórendszereket leginkább mezőgazdasági öntözésre használják az ország agrárprogramjai során. Ugyanakkor a hegyek által védett fekvése miatt egyedülálló, békés ökoszisztémát tart fenn, és fontos állomása a belföldi vonuló madaraknak. A tavat kísérő sűrű erdőségekben számos vadon élő állat, köztük vaddisznó és gímszarvas is megtalálható. Mivel a turizmus erre a területre nem koncentrálódik, a környezet javarészt háborítatlan maradt. Plizio tanterv: Biológia K6 — állóvizek ökoszisztémája és az emberi beavatkozás.",
+      "factsAdvanced": [
+        "A tó vízgyűjtő területe a közeli hegyi patakokból és esőzésekből táplálkozik.",
+        "A víz minősége kiváló, részben az ipari létesítmények hiánya miatt.",
+        "Fontos édesvízi tartalék a közeli falvak rizsföldjeinek öntözésére.",
+        "A part mentén sűrű fenyvesek és nyírfaligetek találhatók.",
+        "Helyi szinten kisebb halászati szövetkezetek is hasznosítják a tavat.",
+        "A turisztikai infrastruktúra teljes hiánya miatt a vadvilág megőrizte eredeti állapotát."
+      ]
+    },
+    {
+      "id": "ohyon-ri-laarch-forest-nature-v2",
+      "descriptionAdvanced": "Az Ohjon-ri (Ohyon-ri) vörösfenyő-erdő egy különleges, államilag védett természeti rezervátum Észak-Korea északi hegyvidékein. A koreai vörösfenyő (Larix olgensis) a tajgajellegű, hideg éghajlatot kedveli, és az őszi hónapokban az erdő tűlevelei lángoló aranysárga színbe borulnak, mielőtt lehullanának. Az itteni erdők nemcsak esztétikai szempontból értékesek, hanem a helyi fakitermelés (és az abból származó gyanta) történelmi központjai is. Az állam azért nyilvánította védetté ezt a specifikus állományt, hogy megőrizze a faj genetikai sokszínűségét az országos méretű erdőirtások közepette, amelyek a tüzelőanyag-hiány miatt a legtöbb hegyoldalt lecsupaszították. Plizio tanterv: Biológia K7 — tajga növényzete, lombhullató fenyők és erdővédelem.",
+      "factsAdvanced": [
+        "A vörösfenyő (larch) ritka fenyőféle, amely ősszel aranysárgára színeződik és hullatja a tűleveleit.",
+        "Az Ohjon-ri erdő az északi hideg, hegyvidéki klímában érzi jól magát.",
+        "A terület államilag védett, hogy elkerülje a lakossági tűzifagyűjtés okozta pusztulást.",
+        "Az itteni fákat régen hajóépítéshez és értékes gyantájukért termelték ki.",
+        "Fontos menedéke az északi énekesmadaraknak és kisemlősöknek.",
+        "A területen kutatóállomások vizsgálják a klímaváltozás hatásait a vörösfenyőkre."
+      ]
+    },
+    {
+      "id": "ryongnim-virgin-forest-nature-v2",
+      "descriptionAdvanced": "A Rjongnim (Ryongnim) őserdő a Nangnim-hegység egyik legelzártabb és legmagasabban fekvő, érintetlen erdősége. Ez a kiterjedt őserdő az ország egyik utolsó valódi vadonja, ahol az emberi beavatkozás minimális. A domináns fafajok a mandzsu fenyő, a tölgy és a feketefenyő. A sűrű növényzet és a meredek sziklafalak természetes akadályt képeznek, így az erdő olyan csúcsragadozók utolsó menedéke, mint a fekete medve, a hiúz, és ritka esetekben a szibériai tigris. Észak-Korea a természeti kincsek és a magashegyi vízgyűjtők védelme érdekében természetvédelmi területté nyilvánította. Plizio tanterv: Biológia K8 — őserdők ökológiája, csúcsragadozók és az érintetlen vadon.",
+      "factsAdvanced": [
+        "A Rjongnim őserdő Észak-Korea kevés megmaradt elsődleges erdőségeinek egyike.",
+        "A Nangnim-hegység zord, gyakran megközelíthetetlen csúcsain terül el.",
+        "A fák életkora a területen gyakran a 300-400 évet is meghaladja.",
+        "A terület menedéket nyújt az ázsiai fekete medvéknek (örvös medve) és leopárdoknak.",
+        "Az őserdő a Cshongcshon és a Taedong folyók tiszta vízgyűjtő bázisának része.",
+        "Bár védett, a vadászat és az illegális orvvadászat itt is problémát jelenthet."
+      ]
+    },
+    {
+      "id": "anam-bay-tidal-flat-nature-v2",
+      "descriptionAdvanced": "Az Anam-öböl árapálysíksága a Sárga-tenger partvidékén, Észak-Phjongan tartományban található. A félsziget nyugati partjára jellemző hatalmas árapály-ingadozás (amely eléri a 8-10 métert is) hatalmas iszapos területeket hagy szárazon apály idején. Ezek az iszapos síkságok gazdagok puhatestűekben és rákokban, így kulcsfontosságú etetőhelyei a Kelet-Ázsián átvonuló partimadaraknak, például a veszélyeztetett kanalasgémnek és a pólingoknak. Bár Észak-Korea az elmúlt évtizedekben óriási területeket próbált lecsapolni mezőgazdasági (rizstermesztés) célokra polderek építésével, az Anam-öböl egy része megőrizte ökológiai fontosságát a madárvonulások szempontjából. Plizio tanterv: Földrajz K7 — árapály jelenség, vizes élőhelyek és a madárvonulás.",
+      "factsAdvanced": [
+        "Az Anam-öbölben az árapály-ingadozás az egyik legnagyobb a világon (kb. 8 méter).",
+        "Apálykor kilométeres szélességben iszapos síkságok kerülnek a felszínre.",
+        "Ez a Kelet-Ázsiai – Ausztrálázsiai madárvonulási útvonal egyik legfőbb megállója.",
+        "Észak-Korea sok árapálysíkságot lecsapolt (polderizáció) gabonatermesztés céljából.",
+        "Az itteni iszap gazdag szerves anyagokban, rákokban és kagylókban.",
+        "A helyiek apálykor gyakran gyűjtenek tengeri herkentyűket kézzel az iszapból."
+      ]
+    },
+    {
+      "id": "kwail-county-forests-nature-v2",
+      "descriptionAdvanced": "Kvajl (Kwail) megye erdőségei Dél-Hvanghe tartományban kettős arcot mutatnak: míg a völgyeket és lankákat az ország legnagyobb alma- és gyümölcsültetvényei ('kwail' jelentése gyümölcs) foglalják el, addig a megyét övező dombokat és hegyeket sűrű, vegyes (fenyő és tölgy) erdők borítják. Ezek az erdők kritikus szerepet játszanak a mikroklíma fenntartásában, megvédik az értékes gyümölcsösöket a tenger felől érkező erős szelektől és a tavaszi fagyoktól. Az erdők vízmegtartó képessége elengedhetetlen a gyümölcsfák nyári öntözéséhez is. Az állam szigorúan védi ezeket az erdősávokat, felismerve mezőgazdasági védő funkciójukat. Plizio tanterv: Biológia K6 — védőerdők szerepe, mikroklíma és gyümölcstermesztés.",
+      "factsAdvanced": [
+        "A megyét körülölelő erdőségek fő funkciója a hatalmas gyümölcsültetvények védelme.",
+        "A fák szélfogóként működnek a Sárga-tenger felől érkező viharok ellen.",
+        "Leggyakoribb fafajai a vörösfenyő és a helyi tölgyfajták.",
+        "A gyökérzet segít megtartani a csapadékot, ami táplálja az almafákat.",
+        "A terület faunája gazdag apróvadakban és énekesmadarakban.",
+        "A 'Kwail' (Gyümölcs) nevet a megye 1967-ben kapta Kim Ir Szen rendeletére."
+      ]
+    },
+    {
+      "id": "manphung-lake-nature-v2",
+      "descriptionAdvanced": "A Manphung (Manphung) tó egy hatalmas mesterséges víztározó Észak-Phjongan tartományban. Az 1960-as években hozták létre egy nagyszabású gátépítési projekt keretében, amelynek célja az északnyugati síkságok rizsföldjeinek öntözése volt. A 'Manphung' név bőséges termést vagy tízezer bőséget jelent. A hatalmas kék vízfelület gyönyörű kontrasztot alkot a környező zöld hegyekkel. A mezőgazdasági funkció mellett a tóban intenzív ponty- és amurtenyésztés folyik a helyi fehérjeellátás biztosítására. Az észak-koreai irodalom és film gyakran használja a tavat a szocialista mérnöki tudás és a természet feletti győzelem szimbólumaként. Plizio tanterv: Földrajz K6 — mesterséges tavak, vízügyi projektek és akvakultúra.",
+      "factsAdvanced": [
+        "A Manphung tó Észak-Korea egyik legnagyobb öntözési célú mesterséges tava.",
+        "A neve koreaiul bőséges termést vagy 'tízezer bőséget' jelent.",
+        "A tó vize biztosítja Észak-Phjongan tartomány rizsföldjeinek vízellátását.",
+        "Gátjának megépítése a 'dzsucse' mérnöki képességeinek egyik büszkesége volt.",
+        "Kiterjedt halászati kombinátok működnek a tavon (ponty, ezüstkárász).",
+        "A tó vizének szintje drasztikusan ingadozik a tavaszi aszályok idején."
+      ]
+    },
+    {
+      "id": "ullim-falls-nature-v2",
+      "descriptionAdvanced": "Az Ullim-vízesés (Ullim Falls) Kangvon tartomány hegyei között, Phenjan és Vonszan között helyezkedik el. A vízesés neve ('Ullim') visszhangot jelent, amely a 75 méter magasból lezúduló víz hatalmas, dübörgő hangjára utal. A természeti csodát viszonylag későn, 1999-ben fedezte fel a Koreai Néphadsereg egy alakulata útépítés közben. Kim Dzsongil utasítására a területet azonnal turisztikai és pihenőhellyé fejlesztették, utakat, kilátópavilonokat és parkolókat építettek. Ma a vízesés az egyik legkedveltebb megállója a Vonszan felé tartó hazai elitnek és a külföldi turistáknak, ahol a hegyi levegő és a lenyűgöző látvány nyújt felfrissülést. Plizio tanterv: Földrajz K6 — vízesések kialakulása, erózió és belföldi turizmus.",
+      "factsAdvanced": [
+        "Az Ullim-vízesés magassága 75 méter, vizét egy sűrű fenyvesekkel övezett hegyi patak adja.",
+        "A neve ('Ullim') magyarul visszhangot vagy dübörgést jelent.",
+        "A vízesést csak 1999-ben 'fedezték fel' katonai útépítési munkálatok során.",
+        "A lezúduló víz egy 1,5 méter mély, tiszta vizű medencébe érkezik.",
+        "Kim Dzsongil személyesen avatta fel a terület köré épített turisztikai központot 2001-ben.",
+        "A hegyi völgyben télen a vízesés lenyűgöző jégzuhataggá fagy."
+      ]
+    },
+    {
+      "id": "kaema-plateau-relief-v2",
+      "descriptionAdvanced": "A Kema-fennsík (Kaema Plateau) Észak-Korea északi belső részén, Rjanggang és Dél-Hamgjong tartományokban terül el. Több mint 10 000 négyzetkilométeres kiterjedésével és 1000–2000 méteres átlagos tengerszint feletti magasságával gyakran nevezik 'Korea tetejének'. A terület geológiailag ősi bazalt- és gránitpajzs, melyet vulkáni kitörések formáltak. Éghajlata az országban a legszélsőségesebb, szubarktikus tajga klíma uralkodik itt; a tél akár 6-7 hónapig is eltart, -30 °C alatti hőmérsékletekkel. Bár mezőgazdaságra nagyrészt alkalmatlan (kivétel a burgonyatermesztés), a hatalmas vörösfenyő-erdők miatt Észak-Korea legfontosabb fakitermelő bázisa, és a vadon élő állatok érintetlen menedéke. Plizio tanterv: Földrajz K8 — magashegyi fennsíkok, tajga éghajlat és geológiai pajzsok.",
+      "factsAdvanced": [
+        "A Kema-fennsíkot 1000-2000 méteres magassága miatt 'Korea tetejének' hívják.",
+        "Területe hatalmas, mintegy 10 000 négyzetkilométert fed le az északi tartományokban.",
+        "Klímajellemzői Szibériához hasonlítanak: a téli hideg a -40 °C-ot is elérheti.",
+        "Felszínének nagy részét összefüggő tűlevelű (tajga) erdők borítják.",
+        "A terület Észak-Korea legfontosabb faipari és vadászati régiója.",
+        "A fennsíkon termesztik az ország legtöbb hidegtűrő burgonyáját."
+      ]
+    },
+    {
+      "id": "chilbo-mountain-relief-v2",
+      "descriptionAdvanced": "A Cshilbo-hegység (Chilbosan) Észak-Hamgjong tartományban, a Japán-tenger partja mentén emelkedik, és Észak-Korea egyik leglátványosabb természeti képződménye. Neve 'Hét Kincset' jelent, amely egy buddhista legendára utal. A vulkáni eredetű hegységet az eső és a szél drámai, oszlopszerű sziklaképződményekké, mély szurdokokká és bizarr formájú csúcsokká erodálta. A Cshilbo három részre tagolódik: Belső, Külső és Tengeri Cshilbo – ez utóbbi lenyűgöző sziklákkal zuhan a tengerbe. A terület 2014 óta az UNESCO Világörökség Várományosi Listáján szerepel és UNESCO bioszféra-rezervátum. A hegység Észak-Korea egyik ritka 'homestay' (vendéglátó családoknál megszállós) turisztikai programjának is helyszíne. Plizio tanterv: Földrajz K8 — tengerparti erózió, vulkáni kőzetek formakincsei.",
+      "factsAdvanced": [
+        "A hegység neve, Cshilbosan, azt jelenti: a 'Hét Kincs Hegye'.",
+        "A Tengeri Cshilbo (Hae-Chilbo) meredek, tengerbe szakadó sziklafalairól híres.",
+        "2014-ben a régiót az UNESCO Bioszféra Rezervátummá nyilvánította.",
+        "A bizarr sziklaalakzatok vulkáni hamuból és bazaltból erodálódtak az évezredek alatt.",
+        "A hegyvidék a kevés észak-koreai helyek egyike, ahol a turisták helyi családoknál alhatnak.",
+        "Ősszel a gesztenye- és juharfák vörösbe és aranyba öltöztetik a sziklákat."
+      ]
+    },
+    {
+      "id": "kuwol-mountain-relief-v2",
+      "descriptionAdvanced": "A Kuvol-hegység (Kuwolsan), vagyis a 'Szeptember Hegye', Dél-Hvanghe tartományban, a nyugati part közelében található. Nevét onnan kapta, hogy az őszi lombhullás idején, szeptemberben a legszebb. Magassága nem kiemelkedő (a főcsúcs 954 méter), de a környező síkságokból meredeken kiemelkedő gránitcsúcsai lenyűgöző látványt nyújtanak. A hegység a koreai történelem szerves része: a legenda szerint a mitikus Dangun király itt töltötte élete utolsó éveit, és itt emelkedik Észak-Korea egyik legrégebbi történelmi romja, a Kuvol-hegyi erőd. Az 1990-es évek óta védett természeti terület, gazdag növény- és állatvilággal, nyári menedéket nyújtva a régió lakosainak a meleg elől. Plizio tanterv: Földrajz K6 — szigethegységek, őszi erdők és történelmi földrajz.",
+      "factsAdvanced": [
+        "A 'Kuwolsan' név Szeptember Hegyét jelenti az őszi lombok szépsége miatt.",
+        "Legmagasabb pontja, a Szahvang csúcs 954 méter magas.",
+        "A környező alföldből szigetszerűen kiemelkedő gránittömb alkotja.",
+        "A hegyen található az 1200 éves Vola (Woljong) buddhista templom.",
+        "Egyike az ország hat hivatalosan is kiemelt 'híres hegyének'.",
+        "A legenda szerint Dangun király, Korea alapítója a hegyen vált halhatatlanná."
+      ]
+    },
+    {
+      "id": "suyang-valley-relief-v2",
+      "descriptionAdvanced": "A Szujang (Suyang) völgy Dél-Hvanghe tartományban, Hadzsu városa közelében, a Szujang-hegy lábánál fekszik. A völgy leginkább a festői Szujang-vízesésről, meredek mészkőszikláiról és a sűrű tölgyerdőkről ismert. Geológiailag a völgy egy karsztos képződményekkel tűzdelt terület, ahol a mészkő eróziója évezredek alatt barlangokat és látványos hasadékokat hozott létre. A koreai háború alatt a mély völgyek partizánok bázisaként és természetes óvóhelyként szolgáltak. Ma a völgy a hadzsui lakosok első számú kirándulóhelye, ahol a vízesés tövében kiépített pavilonok és ösvények várják a pihenni vágyókat, egy ritka menedéket kínálva az iparosodott környezetben. Plizio tanterv: Földrajz K7 — mészkőhegységek, karsztvölgyek és lokális turizmus.",
+      "factsAdvanced": [
+        "A Szujang-völgy Dél-Hvanghe tartomány székhelye, Hadzsu mellett található.",
+        "Fő látványossága a lépcsőzetesen lezúduló Szujang-vízesés.",
+        "A völgy kőzeteit a víz által kiformált mészkő (karszt) dominálja.",
+        "A hegység meredek falain a 16. században épült kőerődítmény romjai láthatók.",
+        "A történelem során többször szolgált menedékként a part menti kalóztámadások elől.",
+        "Hétvégente a helyi munkások és diákok kedvelt piknikező helye."
+      ]
+    },
+    {
+      "id": "tongchon-coast-relief-v2",
+      "descriptionAdvanced": "A Thongcshon (Tongchon) partszakasz Kangvon tartomány keleti részén, a Japán-tenger mentén húzódik, nem messze a Kumgang-hegységtől. Ez a partszakasz híres különleges, tengeri erózió által formált bazaltoszlopairól, a Chongsokjong (Cshongsokdzsong) formációkról, amelyek szorosan egymás mellett álló, függőleges hatszögletű oszlopokként emelkednek ki a tengerből. A látvány az észak-írországi Óriások Útjához hasonlít. A partvidéken finom fehér homokos strandok, fenyvesek és apró halászfalvak váltakoznak. Thongcshon történelmi jelentősége is van: itt született a modern Dél-Korea egyik legbefolyásosabb vállalatbirodalmának, a Hyundai-nak az alapítója, Csong Dzsujong, aki később jelentős szerepet játszott az észak-déli turisztikai kapcsolatok (Kumgang-projekt) kiépítésében. Plizio tanterv: Földrajz K8 — bazaltvulkanizmus, partmenti abrázió és hatszögletű oszlopok.",
+      "factsAdvanced": [
+        "A Thongcshon partvidék fő látványossága a Cshongsokdzsong hatszögletű bazaltoszlopai.",
+        "Ezek az oszlopok vulkáni láva hirtelen lehűlésével jöttek létre a tengerparton.",
+        "A partszakasz a Kumgang-hegység tengeri meghosszabbításának számít.",
+        "Itt született a Hyundai cégcsoport alapítója, Csong Dzsujong (1915-ben).",
+        "A gyönyörű sziklás partokat évszázadok óta ábrázolják a hagyományos koreai festményeken.",
+        "Az északi haditengerészet gyakran tart járőrhajózást a part menti vizeken."
+      ]
+    }
+  ]
+}

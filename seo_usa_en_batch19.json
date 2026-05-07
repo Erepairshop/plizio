@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "serpent-mound-history-v2",
+      "descriptionAdvanced": "Serpent Mound, in Adams County, Ohio, is the largest effigy mound in the United States, an impressive 1,348-foot-long earthen structure built in the shape of a serpent. While the exact origins of the mound are still subject to ongoing archaeological research, it is generally attributed to the prehistoric cultures of the Ohio Valley, such as the Adena or the Fort Ancient people, who constructed such earthen works for ritual or symbolic purposes. Its precise solar and lunar alignments suggest that the mound served a significant astronomical and ceremonial role for ancient Indigenous populations. Today, it is recognized as a profound symbol of the complex, symbolic, and astronomical knowledge possessed by early North American Indigenous societies. History K6 — Effigy mounds and ancient astronomy.",
+      "factsAdvanced": [
+        "Largest effigy mound in the United States, stretching 1,348 feet.",
+        "Built in the shape of an undulating serpent.",
+        "Attributed to ancient Indigenous cultures of the Ohio Valley.",
+        "Alignments indicate significant astronomical and ceremonial functions.",
+        "Reflects the complex symbolic knowledge of ancient North American peoples.",
+        "An enduring testament to early monumental earthwork construction."
+      ]
+    },
+    {
+      "id": "taos-pueblo-history-v2",
+      "descriptionAdvanced": "Taos Pueblo, in New Mexico, is one of the oldest continuously inhabited communities in North America, with its famous multi-storied adobe buildings housing a community for over 1,000 years. The pueblo is constructed from sun-dried mud, straw, and water, representing the traditional, communal architecture of the Puebloan people. For centuries, the Taos people have maintained their cultural, linguistic, and religious autonomy despite the immense pressures of Spanish colonialism and later American territorial expansion. The pueblo serves as a vital symbol of the enduring sovereignty and resilient cultural heritage of the Indigenous peoples of the Southwest. Today, it remains a thriving community and a globally recognized site of cultural and architectural continuity. History K7 — Puebloan continuity and adobe architecture.",
+      "factsAdvanced": [
+        "One of the oldest continuously inhabited communities in North America.",
+        "Multi-storied adobe dwellings have been used for over 1,000 years.",
+        "Maintains cultural, linguistic, and religious sovereignty since antiquity.",
+        "Traditional adobe architecture reflects communal Southwest Indigenous living.",
+        "Resilient community that successfully resisted colonial cultural erasure.",
+        "Recognized globally as an site of cultural and architectural continuity."
+      ]
+    },
+    {
+      "id": "st-augustine-history-v2",
+      "descriptionAdvanced": "St. Augustine, Florida, established in 1565 by Spanish explorer Pedro Menéndez de Avilés, is the oldest continuously occupied European-established settlement in the United States. Founded decades before Jamestown or Plymouth, the city served as a critical defensive outpost for the Spanish Empire in the New World, protecting shipping lanes and guarding the Florida coastline. Its architecture and defensive structures, most notably the Castillo de San Marcos, reflect the intense geopolitical rivalry between Spain, France, and Britain over the control of North America. Today, St. Augustine is an important historical landmark, preserving its deep Spanish colonial heritage and its status as the starting point of European settlement in what would become the United States. History K8 — Spanish colonial foundation and colonial geopolitics.",
+      "factsAdvanced": [
+        "Oldest continuously occupied European-established settlement in the US.",
+        "Established by the Spanish in 1565.",
+        "Served as a vital defensive outpost for the Spanish Empire.",
+        "The Castillo de San Marcos is the city's iconic colonial fortress.",
+        "Reflects the intense geopolitical competition for North American control.",
+        "Preserves deep Spanish colonial roots and early European architectural styles."
+      ]
+    }
+  ]
+}

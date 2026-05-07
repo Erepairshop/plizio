@@ -1,0 +1,484 @@
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(198,7): error TS1136: Property assignment expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(199,24): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(202,18): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(205,3): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(207,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(208,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(209,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(210,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(213,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(214,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(215,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(217,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(217,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(220,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(221,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(222,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(223,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(225,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(226,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(227,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(228,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(231,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(232,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(233,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(234,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(237,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(238,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(239,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(240,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(240,66): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(243,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(244,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(245,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(246,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(248,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(249,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(250,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(251,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(254,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(255,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(256,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(257,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(260,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(261,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(262,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(263,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(263,67): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(266,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(267,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(268,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(269,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(271,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(272,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(273,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(274,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(277,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(278,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(279,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(280,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(283,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(284,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(285,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(286,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(286,62): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(289,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(290,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(291,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(292,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(294,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(295,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(296,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(297,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(300,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(301,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(302,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(303,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(306,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(307,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(308,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(309,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(309,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(312,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(313,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(314,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(315,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(317,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(318,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(319,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(320,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(323,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(324,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(325,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(326,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(329,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(330,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(331,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(333,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(336,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(337,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(338,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(339,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(341,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(342,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(343,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(344,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(347,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(348,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(349,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(350,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(353,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(354,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(355,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(356,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(356,64): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(359,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(360,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(361,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(362,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(364,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(365,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(366,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(367,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(370,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(371,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(372,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(373,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(376,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(377,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(378,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(379,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(379,64): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(382,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(383,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(384,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(385,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(387,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(388,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(389,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(390,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(393,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(394,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(395,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(396,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(399,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(400,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(401,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(402,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(402,64): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(405,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(406,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(407,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(408,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(410,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(411,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(412,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(413,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(416,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(417,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(418,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(419,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(422,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(423,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(424,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(425,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(425,60): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(428,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(429,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(430,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(431,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(433,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(434,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(435,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(436,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(439,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(440,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(441,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(442,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(445,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(446,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(447,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(448,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(448,60): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(451,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(452,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(453,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(454,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(456,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(457,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(458,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(459,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(462,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(463,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(464,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(465,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(468,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(469,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(470,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(472,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(475,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(476,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(477,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(478,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(480,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(481,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(482,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(483,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(486,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(487,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(488,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(489,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(492,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(493,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(494,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(495,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(495,63): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(498,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(499,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(500,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(501,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(503,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(504,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(505,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(506,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(509,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(510,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(511,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(512,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(515,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(516,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(517,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(518,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(518,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(521,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(522,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(523,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(524,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(526,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(527,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(528,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(529,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(532,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(533,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(534,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(535,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(538,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(539,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(540,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(541,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(541,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(544,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(545,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(546,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(547,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(549,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(550,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(551,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(552,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(555,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(556,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(557,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(558,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(561,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(562,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(563,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(564,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(564,62): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(567,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(568,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(569,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(570,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(572,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(573,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(574,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(575,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(578,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(579,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(580,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(581,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(584,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(585,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(586,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(588,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(591,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(592,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(593,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(594,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(596,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(597,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(598,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(599,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(602,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(603,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(604,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(605,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(608,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(609,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(610,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(611,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(611,68): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(614,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(615,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(616,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(617,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(619,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(620,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(621,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(622,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(625,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(626,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(627,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(628,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(631,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(632,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(633,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(634,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(634,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(637,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(638,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(639,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(640,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(642,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(643,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(644,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(645,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(648,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(652,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(656,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(657,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(658,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(659,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(662,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(663,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(664,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(665,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(665,66): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(668,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(669,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(670,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(671,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(673,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(674,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(675,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(676,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(679,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(680,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(681,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(682,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(685,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(686,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(687,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(688,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(688,64): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(691,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(692,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(693,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(694,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(696,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(697,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(698,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(699,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(702,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(703,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(704,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(705,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(708,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(709,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(710,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(711,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(711,59): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(714,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(715,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(716,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(717,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(719,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(720,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(721,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(722,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(725,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(726,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(727,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(728,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(731,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(732,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(733,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(734,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(734,64): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(737,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(738,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(739,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(740,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(742,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(743,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(744,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(745,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(748,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(749,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(750,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(751,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(754,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(755,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(756,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaEconomicV2.ts(759,1): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1162,7): error TS1136: Property assignment expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1163,24): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1166,18): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1169,3): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1171,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1172,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1173,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1174,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1180,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1184,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1188,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1192,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1192,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1192,70): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1195,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1196,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1197,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1198,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1200,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1201,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1202,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1203,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1206,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1209,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1212,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1213,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1214,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1215,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1221,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1225,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1229,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1233,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1233,72): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1236,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1237,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1238,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1239,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1241,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1242,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1243,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1244,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1247,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1248,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1249,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1250,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1256,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1260,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1264,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1269,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1272,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1273,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1274,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1275,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1277,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1278,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1279,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1280,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1283,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1284,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1285,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1286,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1292,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1296,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1300,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1304,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1304,71): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1307,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1308,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1309,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1310,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1312,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1313,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1314,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1315,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1318,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1319,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1320,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1321,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1327,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1331,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1335,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraRwandaLandmarksV2.ts(1341,1): error TS1128: Declaration or statement expected.

@@ -1,0 +1,375 @@
+{
+  "lang": "de",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ni-monumento-caidos-esteli-landmarks-v2",
+      "descriptionAdvanced": "Das Monument für die Gefallenen von Estelí (Monumento a los Caídos) ist eine beeindruckende, emotionale Gedenkstätte im Herzen der nördlichen Stadt. Die Skulptur zeigt einen Kämpfer, der einen verwundeten Kameraden trägt, umgeben von Listen mit Hunderten von Namen. Es ehrt die Opfer der drei blutigen Aufstände, die die Bürger von Estelí 1978 und 1979 gegen die Somoza-Diktatur führten. Estelí, bekannt als "Die dreimal heldenhafte Stadt" (Tres Veces Heroica), erlitt massive Bombardements, und fast jede Familie verlor Angehörige. Das Monument ist nicht nur ein Ort der Trauer, sondern ein mächtiges Symbol für die Widerstandsfähigkeit und den Kampfgeist der nördlichen Bergregion. Geschichte K8 — Revolutionäre Gedenkstätten und Bürgerkrieg.",
+      "factsAdvanced": [
+        "Ehrt die Tausenden Zivilisten und Kämpfer, die während der Befreiung von Estelí 1978-1979 starben.",
+        "Estelí trägt offiziell den Titel "Tres Veces Heroica" (Dreimal heldenhaft) wegen ihrer drei Aufstände.",
+        "Die Bronzeskulptur zeigt einen erschöpften Guerillero, der einen gefallenen Kameraden hält.",
+        "Das Denkmal befindet sich am zentralen Platz der Stadt (Plaza Parque Domingo Gadea).",
+        "Die Somoza-Nationalgarde bombardierte das Zentrum von Estelí während der Kämpfe in Schutt und Asche.",
+        "An nationalen Feiertagen wie dem 19. Juli ist das Monument der Mittelpunkt von Gedenkfeiern."
+      ]
+    },
+    {
+      "id": "ni-puente-paso-caballos-landmarks-v2",
+      "descriptionAdvanced": "Die Paso Caballos Brücke im Departement Chinandega ist ein unverzichtbares logistisches Meisterwerk und gleichzeitig ein landschaftliches Highlight. Sie überbrückt die breite Meeresmündung (Estero) und ist die einzige Straßenverbindung, die die Hafeninsel Corinto mit dem nicaraguanischen Festland verbindet. Ohne diese Brücke käme der gesamte wichtigste Seeaußenhandel des Landes zum Erliegen. Benannt nach einem historischen Übersetzpunkt für Pferde, bietet die Brücke heute einen spektakulären Panoramablick auf weite Mangrovenwälder und den mächtigen Vulkan San Cristóbal. Unter der Brücke herrscht zudem reger Bootsverkehr lokaler Fischer, die in den nährstoffreichen Gewässern des Esteros arbeiten. Geografie K7 — Logistische Engpässe und Küsteninfrastruktur.",
+      "factsAdvanced": [
+        "Die Brücke ist die exklusive Landverbindung zum wichtigsten Pazifikhafen Corinto.",
+        "Überquert das breite Mündungsgebiet (Estero Paso Caballos), ein reiches Mangroven-Ökosystem.",
+        "Der Name leitet sich von der Zeit ab, als Pferde hier durchs flache Wasser geführt wurden.",
+        "Von der Brücke aus ist Nicaraguas höchster Vulkan, der San Cristóbal, perfekt sichtbar.",
+        "Das Wasser unter der Brücke ist ein sehr beliebtes, aber strömungsstarkes lokales Badegebiet.",
+        "Wurde mehrfach modernisiert, um den massiven Belastungen schwerer Fracht-Lkw standzuhalten."
+      ]
+    },
+    {
+      "id": "ni-estadio-soberania-landmarks-v2",
+      "descriptionAdvanced": "Das Estadio Nacional Soberanía (früher bekannt als Estadio Dennis Martínez) ist der leuchtende Tempel des nicaraguanischen Nationalsports: Baseball. Eröffnet 2017 im Zentrum von Managua, ersetzte es das alte, erdbebengeschädigte Stadion und gilt als das modernste Baseballstadion Zentralamerikas, gebaut nach den Standards der Major League Baseball (MLB). Mit einer Kapazität von 15.000 Zuschauern ist es das pulsierende Herz bei nationalen Meisterschaften (Liga Profesional) und internationalen Turnieren. Die Architektur des Stadions ist nicht nur funktional, sondern auch ein Symbol für die nationale Identität und die ungebrochene Leidenschaft der Nicaraguaner für "El Béisbol". Architektur K6 — Nationale Sportkultur und moderne Stadien.",
+      "factsAdvanced": [
+        "Das größte und modernste Baseballstadion in Zentralamerika, eingeweiht im Jahr 2017.",
+        "Erbaut nach strengen Major League Baseball (MLB)-Standards.",
+        "Bietet Platz für 15.000 Zuschauer und verfügt über eine hochmoderne Flutlichtanlage.",
+        "Hieß ursprünglich nach dem nicaraguanischen MLB-Star Dennis Martínez, wurde aber 2022 umbenannt.",
+        "Ersetzte das historische, durch das Erdbeben von 1972 strukturell beschädigte alte Stadion.",
+        "Dient gelegentlich auch für massive Konzerte und große staatliche Veranstaltungen."
+      ]
+    },
+    {
+      "id": "ni-campana-paz-landmarks-v2",
+      "descriptionAdvanced": "Die Friedensglocke von Managua (Campana de la Paz) ist eines der neuesten und auffälligsten Monumente in der Hauptstadt. Der 17 Meter hohe, elegant gestaltete Turm am Rande des historischen Zentrums wurde 2020 eingeweiht. In seiner Spitze hängt eine massive Bronzeglocke, die zu jeder vollen Stunde schlägt und den Beginn des Angelus-Gebets markiert. Das Denkmal wurde als Symbol der Versöhnung und des Friedens nach den gewalttätigen politischen Unruhen des Jahres 2018 errichtet. Der Turm bietet von seiner Aussichtsplattform, die Besuchern zugänglich ist, einen herrlichen Blick über die Plaza de la Revolución, den alten Bahnhof und den Managuasee. Architektur K6 — Moderne Mahnmale und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Das Monument wurde im Juli 2020 in der Nähe der Plaza de la Revolución eingeweiht.",
+        "Der Turm ist 17 Meter hoch und wurde als Symbol für den nationalen Frieden errichtet.",
+        "Die Bronzeglocke wiegt über eine Tonne und schlägt zu jeder vollen Stunde.",
+        "Die Turmspitze verfügt über eine kleine, öffentlich zugängliche Aussichtsplattform (Mirador).",
+        "Wurde als Reaktion auf die tiefe gesellschaftliche Spaltung nach den Unruhen von 2018 erbaut.",
+        "Das mechanische Uhrwerk und die Glocke wurden speziell aus dem Ausland importiert."
+      ]
+    },
+    {
+      "id": "ni-basilica-san-sebastian-diriamba-landmarks-v2",
+      "descriptionAdvanced": "Die Basílica Menor de San Sebastián in Diriamba ist das spirituelle Herz des Carazo-Plateaus und ein architektonisches Prachtstück. Der Grundstein für dieses massive Gebäude mit seiner strahlend weißen Fassade und den Zwillingstürmen wurde 1891 gelegt. Im Gegensatz zu vielen barocken Kolonialkirchen in Nicaragua ist San Sebastián ein hervorragendes Beispiel für den Neoklassizismus und Eklektizismus. National berühmt ist die Basilika als Epizentrum der Januar-Feierlichkeiten zu Ehren des Heiligen Sebastian. Dann werden auf ihrem Vorplatz die berühmten satirischen Tänze aufgeführt, darunter "El Güegüense" (UNESCO-Kulturerbe), "El Toro Huaco" und "El Gigante", die indigene Rebellion und spanische Einflüsse vermischen. Architektur K7 — Neoklassizismus und synkretistische Tänze.",
+      "factsAdvanced": [
+        "Der Grundstein wurde 1891 gelegt, die Basilika wurde erst Mitte des 20. Jahrhunderts vollendet.",
+        "Im Oktober 1998 von Papst Johannes Paul II. in den Rang einer Basilica Menor erhoben.",
+        "Der Vorplatz ist die Bühne für den UNESCO-geschützten Tanz "El Güegüense".",
+        "Die Kirche beherbergt die hochverehrte, angeblich blutende Holzstatue des San Sebastián.",
+        "Die Fassade zeichnet sich durch neoklassizistische Säulen und symmetrische Zwillingstürme aus.",
+        "Das jährliche Treffen der Heiligen ("El Tope") im Januar findet vor ihren Toren statt."
+      ]
+    },
+    {
+      "id": "ni-iglesia-guadalupe-granada-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia de Nuestra Señora de Guadalupe in Granada trägt schwer an der militärischen Geschichte der Stadt. Ursprünglich 1626 als einfache Einsiedelei erbaut, wurde die Kirche aufgrund ihrer strategischen Lage an der Straße zum See (Calle La Calzada) oft zur Festung. Ihre dunkelste Stunde erlebte sie 1856, als die Söldnertruppen von William Walker sich für 18 Tage in der Kirche verschanzten, bevor sie aus Granada flohen. Sie schossen Schießscharten in die massiven Mauern und ließen die Kirche als ausgebrannte Ruine zurück. Das heutige Gebäude, mit seinem markanten, gedrungenen Glockenturm und den sichtbaren historischen Narben, wurde liebevoll restauriert und markiert den Beginn der touristischen Flaniermeile Richtung Seeufer. Architektur K7 — Befestigte Kirchen und Filibuster-Krieg.",
+      "factsAdvanced": [
+        "Die ursprüngliche Kirche wurde 1626 von dem Mönch Fray Benito de Baltodano erbaut.",
+        "Diente im November 1856 als letzte Bastion der US-Söldner (Filibuster) unter William Walker.",
+        "Die massiven Wände weisen noch immer Spuren von Einschusslöchern aus dem 19. Jahrhundert auf.",
+        "Die Kirche liegt auf der Calle La Calzada, der direkten Verbindungsstraße vom Zentrum zum See.",
+        "Nach der völligen Zerstörung durch Walkers Truppen wurde sie 1965 umfassend rekonstruiert.",
+        "Der Innenraum wirkt höhlenartig, da die Fenster zum Schutz oft klein gehalten wurden."
+      ]
+    },
+    {
+      "id": "ni-fortaleza-san-pablo-landmarks-v2",
+      "descriptionAdvanced": "Die Festung San Pablo (Fuerte San Pablo) ist ein bemerkenswertes kleines Fort, das auf einer der Isletas de Granada im Nicaraguasee thront. Erbaut im Jahr 1789, war es eine direkte Reaktion auf die verheerenden Angriffe britischer und französischer Piraten, die wiederholt den Fluss San Juan hinaufkamen, um die reiche Stadt Granada zu plündern. Mit dicken Steinmauern und Kanonen, die direkt auf die Fahrrinnen des Sees gerichtet sind, sollte das Fort als Vorwarnposten und erste Verteidigungslinie dienen. Heute ist die winzige Insel mit dem restaurierten Fort ein extrem beliebtes Ziel für Bootstouren. Sie bietet eine pittoreske Zeitreise und herrliche Ausblicke über den See und den majestätischen Vulkan Mombacho. Geschichte K7 — Seeverteidigung und koloniale Isletas.",
+      "factsAdvanced": [
+        "Das kleine Fort wurde 1789 unter der Herrschaft des spanischen Königs Karl IV. erbaut.",
+        "Gelegen auf einer der über 300 kleinen Inseln (Isletas), die durch den Vulkan Mombacho entstanden.",
+        "Diente als Vorposten, um Granada vor Piraten (wie William Dampier) zu schützen.",
+        "Verfügt über Original-Kanonen aus dem 18. Jahrhundert, die auf den See ausgerichtet sind.",
+        "Wurde im späten 20. Jahrhundert durch das Nationale Institut für Kultur sorgfältig restauriert.",
+        "Die Festung kann heute von Touristen per Boot erreicht und besichtigt werden."
+      ]
+    },
+    {
+      "id": "refugio-vida-silvestre-chacocente-life-v2",
+      "descriptionAdvanced": "Das Wildtierschutzgebiet Río Escalante-Chacocente im Departement Carazo ist eines der global wichtigsten Schutzgebiete für Meeresschildkröten. Zwischen Juli und Dezember ist der Strand Schauplatz sogenannter "Arribadas" – massiver, synchronisierter Ankünfte tausender gefährdeter Oliv-Bastardschildkröten (Paslama), die im Schutz der Nacht an den Strand kriechen, um ihre Eier abzulegen. Dieses Naturschauspiel ist eines von nur wenigen weltweit. Das Reservat schützt zudem ein fast intaktes Stück des seltenen tropischen Trockenwaldes an der Pazifikküste, das Brüllaffen, Tukane und Pumas beheimatet. Wilderer, die Schildkröteneier auf dem Schwarzmarkt verkaufen, stellen nach wie vor die größte Bedrohung für dieses empfindliche Ökosystem dar. Naturkunde K7 — Schildkröten-Nistplätze und tropische Trockenwälder.",
+      "factsAdvanced": [
+        "Einer von weltweit nur wenigen Stränden, an denen "Arribadas" (Massenankünfte) von Schildkröten stattfinden.",
+        "Schützt jährlich Zehntausende nistende Oliv-Bastardschildkröten (Lepidochelys olivacea).",
+        "Das 4.800 Hektar große Schutzgebiet umfasst den extrem bedrohten pazifischen tropischen Trockenwald.",
+        "Das Reservat wird während der Nistsaison oft vom nicaraguanischen Militär vor Wilderern bewacht.",
+        "Neben der Paslama-Schildkröte nistet hier gelegentlich auch die gigantische Lederschildkröte.",
+        "Besucher dürfen den Strand während einer Arribada nur nachts unter strenger Führung betreten."
+      ]
+    },
+    {
+      "id": "finca-las-nubes-managua-life-v2",
+      "descriptionAdvanced": "Die Finca Las Nubes in El Crucero, nur eine kurze Fahrt südlich der heißen Hauptstadt Managua gelegen, ist ein beeindruckendes Beispiel für einen agro-ökologischen Zufluchtsort. Auf fast 900 Metern Höhe herrscht hier ein kühles, nebliges Mikroklima. Die Finca widmet sich dem Anbau von Bio-Kaffee unter schattigen Bäumen und dem Schutz des dichten Nebelwaldes. Das Grundstück ist ein Paradies für Vogelbeobachter, da Hunderte von Arten hier auf den Migrationen zwischen Nord- und Südamerika rasten. Touristen besuchen Las Nubes, um auf Hängebrücken durch das Kronendach zu wandern und die drastische Klima- und Landschaftsveränderung im direkten Vergleich zur wenige Kilometer entfernten Pazifikebene zu erleben. Ökologie K6 — Agroforstwirtschaft und Nebelwälder.",
+      "factsAdvanced": [
+        "Ein privates Naturreservat und eine Bio-Kaffeefarm in der Gemeinde El Crucero.",
+        "Liegt auf fast 900 Metern Höhe und bietet Temperaturen, die 10 Grad kühler sind als in Managua.",
+        "Verfügt über ein System von Hängebrücken (Canopy) zur Beobachtung des dichten Walddachs.",
+        "Die Finca ist ein Hotspot für die Beobachtung von Quetzalen und Brüllaffen.",
+        "Der Kaffee wird im "Shade-Grown"-Verfahren angebaut, das den Waldlebensraum erhält.",
+        "Wird aufgrund des ständigen Bergnebels oft als "Wolkenfarm" (Las Nubes) bezeichnet."
+      ]
+    },
+    {
+      "id": "selva-negra-matagalpa-life-v2",
+      "descriptionAdvanced": "Selva Negra im Departement Matagalpa ist das Vorzeigemodell für nachhaltigen Ökotourismus und Agroforstwirtschaft in Zentralamerika. Gegründet 1975 von Nachfahren deutscher Kaffeepflanzer (der Name bedeutet Schwarzwald), vereint das Anwesen ein rustikales Resort im bayerischen Stil mit einer hochmodernen, zu 100% biologischen Kaffeefinca und einem unberührten Nebelwald-Reservat. Alles auf Selva Negra wird recycelt: Kaffeereste und Schweinemist erzeugen Biogas für die Küchen, Käse und Gemüse werden für das eigene Restaurant produziert. Dutzende Kilometer von Wanderwegen durchziehen den Urwald, in dem Ozelots, Faultiere und seltene Vogelarten wie der Quetzal leben. Es ist ein perfektes Klassenzimmer für zirkuläre Ökonomie. Naturkunde K8 — Zirkuläre Ökonomie und Öko-Resorts.",
+      "factsAdvanced": [
+        "Selva Negra wurde von Nachkommen deutscher Einwanderer aus dem Schwarzwald gegründet.",
+        "Das Anwesen funktioniert als komplett autarke Kreislaufwirtschaft (Biogas, Kompost, Lebensmittel).",
+        "Ein Drittel der Finca besteht aus geschütztem primärem Nebelwald (Bosque Nuboso).",
+        "Der Bio-Kaffee der Finca wird weltweit prämiert und oft in die USA (Whole Foods) exportiert.",
+        "Das Resort ist im Stil eines bayerischen Bergdorfes am Rande eines Sees erbaut.",
+        "Heimat seltener Tierarten, darunter Pumas, Quetzale und drei Affenarten."
+      ]
+    },
+    {
+      "id": "reserva-natural-miraflor-life-v2",
+      "descriptionAdvanced": "Das Naturschutzgebiet Miraflor im Departement Estelí ist eines der vielfältigsten Ökosysteme Nicaraguas. Aufgrund erheblicher Höhenunterschiede durchläuft das Reservat drei völlig verschiedene Klimazonen: trockener Tropenwald in den Tälern, Kiefernwälder in den mittleren Höhen und feuchter, orchideenreicher Nebelwald auf den Gipfeln. Anstatt die lokale Bevölkerung auszugrenzen, operiert Miraflor als Biosphärenreservat, in dem kleine Kaffeekooperativen und Milchbauern aktiv in den Umweltschutz eingebunden sind. Es gilt als landesweiter Pionier für "Ruralen Tourismus"; Besucher übernachten hier oft in bescheidenen Hütten bei Bauernfamilien, helfen beim Melken oder bei der Kaffeeernte und wandern zu einsamen Wasserfällen und Orchideengärten. Ökologie K7 — Höhenzonierung und ländlicher Tourismus.",
+      "factsAdvanced": [
+        "Das Reservat Miraflor umfasst drei klimatisch völlig unterschiedliche Waldtypen.",
+        "Mehr als 200 Arten seltener Orchideen wachsen in den feuchten Nebelwäldern der höchsten Lagen.",
+        "Vorzeigeprojekt für "Ruralen Tourismus" (Turismo Comunitario) in Bauernfamilien (Homestays).",
+        "Zählt über 300 katalogisierte Vogelarten, darunter Tukane und der Resplendent Quetzal.",
+        "Ein Großteil des Gebiets wird von kleinen Kooperativen bewirtschaftet (Bio-Kaffee und Viehzucht).",
+        "Die Erreichbarkeit der hochgelegenen Dörfer ist während der Regenzeit durch Schlammpisten oft schwierig."
+      ]
+    },
+    {
+      "id": "finca-magdalena-ometepe-life-v2",
+      "descriptionAdvanced": "Die Finca Magdalena liegt am üppigen Nordhang des Vulkans Maderas auf der Insel Ometepe und ist ein historisches Symbol des kooperativen Landbaus. Gegründet von 24 Bauernfamilien auf dem Land einer ehemaligen Großgrundbesitz-Hacienda, produziert die Kooperative heute exzellenten Bio-Kaffee. Die Farm dient als wichtigstes Basislager für Wanderer, die den beschwerlichen Aufstieg zum Kratersee des Maderas wagen wollen. Rund um die Plantagen der Finca sind tiefe Einblicke in die präkolumbianische Geschichte der Insel möglich, denn die Wege sind gesäumt von jahrtausendealten Petroglyphen (Felsritzungen), die von der Chorotega-Kultur zeugen. Die Finca verbindet so ökologische Landwirtschaft mit archäologischem Erbe. Kultur K6 — Agrarkooperativen und prähispanische Felskunst.",
+      "factsAdvanced": [
+        "Die Finca ist eine erfolgreiche Kooperative (Cooperativa Carlos Díaz Cajina), gegründet in den 1980ern.",
+        "Der Startpunkt für die meisten Wanderungen zur Kraterlagune des Vulkans Maderas.",
+        "Produziert biologisch angebauten Kaffee (Shade-grown), Honig und Kochbananen.",
+        "Auf dem Grundstück finden sich Dutzende massiver präkolumbianischer Petroglyphen.",
+        "Bietet extrem rustikale, ländliche Übernachtungsmöglichkeiten für Rucksacktouristen.",
+        "Die Farm liegt in einem dichten Waldgebiet, das reich an Brüllaffen und Oropéndolas ist."
+      ]
+    },
+    {
+      "id": "parque-nacional-volcan-masaya-zoo-life-v2",
+      "descriptionAdvanced": "Das Nationalzoo-Refugium (Zoológico Nacional) südlich von Managua, oft in Verbindung mit Touren zum nahen Vulkan Masaya besucht, ist die wichtigste Einrichtung für den Schutz und die Rehabilitation wilder Tiere in Nicaragua. Während es auf den ersten Blick wie ein klassischer Zoo wirken mag, dient die Einrichtung primär als Rettungszentrum. Fast alle Tiere – vom majestätischen Jaguar über riesige Tapire bis hin zu farbenfrohen Aras – wurden aus illegalem Tierhandel, Zirkussen oder Privathaltungen gerettet. Finanziert größtenteils durch Spenden, widmet sich das Zentrum der tiermedizinischen Versorgung und, wo immer möglich, der Auswilderung der Fauna in geschützte Reservate. Ökologie K5 — Tierrettungszentren und Artenschutz.",
+      "factsAdvanced": [
+        "Das einzige große Rettungs- und Rehabilitationszentrum für Wildtiere in Nicaragua.",
+        "Fast 100 % der beherbergten Tiere sind konfiszierte Opfer von Schmuggel oder Misshandlung.",
+        "Beherbergt seltene nicaraguanische Arten wie Tapire, Pumas, Jaguare und Harpyien.",
+        "Betreibt ein intensives Auswilderungsprogramm (Centro de Rescate) in entlegenen Nationalparks.",
+        "Das Zentrum kämpft ständig mit einem sehr knappen staatlichen und privaten Budget.",
+        "Verfügt über ein weitläufiges Schmetterlingshaus, das der Aufklärung von Schulkindern dient."
+      ]
+    },
+    {
+      "id": "mariposario-charco-verde-ometepe-life-v2",
+      "descriptionAdvanced": "Das Mariposario im Naturschutzgebiet Charco Verde auf der Insel Ometepe ist eines der größten und faszinierendsten Schmetterlingshäuser Nicaraguas. Gelegen zwischen den Vulkanen Concepción und Maderas, züchtet dieses Öko-Zentrum Dutzende von endemischen Schmetterlingsarten, allen voran den spektakulären, schillernd blauen Morphofalter (Morpho peleides) und den großen Eulenfalter. Die riesigen Netzzelte reproduzieren das feuchte Mikroklima des Inselurwalds. Das Projekt dient nicht nur dem Tourismus, sondern klärt Einheimische und Besucher über die fragile Insektenfauna und die Symbiose zwischen Pflanzen und Bestäubern auf. Das benachbarte Waldgebiet Charco Verde ist zudem berühmt für die gruselige lokale Legende des "Chico Largo". Naturkunde K5 — Entomologie und Inselmythen.",
+      "factsAdvanced": [
+        "Das Mariposario (Schmetterlingshaus) gehört zum privaten Naturreservat Charco Verde auf Ometepe.",
+        "Beherbergt über ein Dutzend nicaraguanische Schmetterlingsarten, inklusive des Blauen Morpho.",
+        "Die Einrichtung widmet sich der aktiven Zucht und Freilassung der Schmetterlinge in den Wald.",
+        "Die Lagune Charco Verde nebenan ist der Schauplatz der berühmten Legende um "Chico Largo".",
+        "Die Vegetation in den Kuppeln wird speziell angepflanzt, um Raupen als Nahrungsquelle zu dienen.",
+        "Das Gebiet ist von dichten Mangroven und Wäldern umgeben, die von Brüllaffen bewohnt werden."
+      ]
+    },
+    {
+      "id": "heriberto-sanchez-amusement-park-life-v2",
+      "descriptionAdvanced": "Der Heriberto Sánchez Park ist eine urbane Grünanlage, die der Erholung und der Familienfreizeit gewidmet ist. Wie viele der in den letzten Jahrzehnten renovierten Parks in nicaraguanischen Städten, spiegelt auch dieser das staatliche Bestreben wider, sichere, beleuchtete und zugängliche öffentliche Räume für die lokale Bevölkerung zu schaffen. Ausgestattet mit Spielplätzen, Sportplätzen und Spazierwegen, ist der Park an den Wochenenden und späten Nachmittagen ein Treffpunkt für Nachbarschaften. Solche Parks sind entscheidend für das urbane Klima, da sie schattenspendende Bäume erhalten und die soziale Interaktion fernab der Gefahren des Straßenverkehrs fördern. Geografie K5 — Stadtparks und soziale Erholungsräume.",
+      "factsAdvanced": [
+        "Ein lokaler urbaner Park, der sich der familiären Erholung und Sportaktivitäten widmet.",
+        "Verfügt über moderne, sichere Spielgeräte für Kinder sowie kleine Mehrzwecksportplätze.",
+        "Wird abends und an Wochenenden stark von Anwohnern für familiäre Treffen genutzt.",
+        "Teil eines landesweiten Regierungsprogramms zur Renovierung und Beleuchtung öffentlicher Plätze.",
+        "Zahlreiche fliegende Händler (Vendedores) verkaufen hier oft Raspados (Eis) und Vigorón.",
+        "Trägt durch seinen Baumbestand zur Abkühlung des städtischen Mikroklimas bei."
+      ]
+    },
+    {
+      "id": "puerto-salvador-allende-playground-life-v2",
+      "descriptionAdvanced": "Der Puerto Salvador Allende ist das glitzernde touristische Aushängeschild der Hauptstadt Managua am südlichen Ufer des Managuasees (Xolotlán). Ursprünglich ein stark verschmutztes und gefährliches Gebiet, wurde es nach jahrelanger Dekontamination des Sees zu einer kilometerlangen, sicheren und hochmodernen Hafenpromenade umgestaltet. Heute wimmelt es hier von Open-Air-Restaurants, gigantischen Kinderspielplätzen, Go-Kart-Bahnen und Nachbauten kolonialer Monumente. Der Hafen dient auch als Abfahrtsort für kleine Kreuzfahrtschiffe, die Touristen zu den nahegelegenen Vulkaninseln bringen. Dieses massive urbane Wiederbelebungsprojekt hat der Stadt Managua buchstäblich ihr "Gesicht zurück zum See" gegeben. Geografie K6 — Urbane Revitalisierung und Uferpromenaden.",
+      "factsAdvanced": [
+        "Erbaut am Ufer des Managuasees, der jahrzehntelang durch Abwässer stark verschmutzt war.",
+        "Gilt als das ehrgeizigste urbane Sanierungsprojekt (Revitalisierung) der Stadt Managua.",
+        "Benannt nach dem ehemaligen chilenischen Präsidenten Salvador Allende.",
+        "Bietet eine Flotte von Ausflugsbooten (wie die "La Novia de Xolotlán") für Touren auf dem See.",
+        "Der riesige Komplex verfügt über Dutzende Restaurants, Spielplätze und sogar eine Go-Kart-Bahn.",
+        "Hat den Bürgern Managuas einen sicheren, bewachten Ort für Familienwochenenden geschaffen."
+      ]
+    },
+    {
+      "id": "parque-luis-alfonso-velasquez-flores-life-v2",
+      "descriptionAdvanced": "Der Parque Luis Alfonso Velásquez Flores im alten Zentrum von Managua ist der größte und beeindruckendste Freizeitkomplex des Landes. Nach dem Erdbeben von 1972 lag das Areal jahrzehntelang brach, bevor es zu einem gigantischen urbanen Sport- und Familienpark umgestaltet wurde. Das Gelände umfasst Basketballarenen in NBA-Qualität, beleuchtete Fußball- und Tennisplätze, gigantische Spielplätze und einen künstlichen See. Der Park ist nach einem neunjährigen Jungen benannt, der 1979 von der Somoza-Nationalgarde wegen seiner Teilnahme am Widerstand erschossen wurde. Heute steht das Gelände als lebendiges Monument für die Jugend und ist nachts der sicherste und hellste öffentliche Raum der Hauptstadt. Kultur K5 — Städtische Sportinfrastruktur und Kinderhelden.",
+      "factsAdvanced": [
+        "Benannt nach dem neunjährigen Luis Alfonso Velásquez, einem jungen Märtyrer der Revolution (1979).",
+        "Der größte städtische Erholungspark Zentralamerikas mit über 20 Hektar Fläche.",
+        "Liegt im historischen Zentrum von Managua, einem Gebiet, das 1972 durch das Erdbeben zerstört wurde.",
+        "Beherbergt professionelle, voll beleuchtete Sportanlagen für Basketball, Fußball und Tennis.",
+        "Ein massiver künstlicher See im Zentrum bietet die Möglichkeit, Tretboot zu fahren.",
+        "Der Park ist stark bewacht, extrem sauber und das primäre Freizeitziel für Hauptstädter."
+      ]
+    },
+    {
+      "id": "finca-esperanza-verde-life-v2",
+      "descriptionAdvanced": "Die Finca Esperanza Verde, hoch in den bewaldeten Bergen von San Ramón (Departement Matagalpa), ist ein Pionierprojekt für sanften Ökotourismus. Das Reservat wurde entwickelt, um eine harmonische Balance zwischen einer Bio-Kaffeeplantage und dem Erhalt des empfindlichen Nebelwaldes zu schaffen. Die Farm bietet rustikale Eco-Lodges und ein ausgedehntes Netzwerk an Wanderwegen, das an verborgenen Wasserfällen und tiefen Dschungelschluchten vorbeiführt. Besucher können hier aktiv den Prozess der Kaffeeveredelung kennenlernen – vom Pflücken bis zur Röstung. Esperanza Verde hat zudem große Bemühungen unternommen, die lokale Brüllaffenpopulation zu schützen, die den dichten, nebligen Urwald als Rückzugsort nutzt. Ökologie K7 — Nebelwald-Erhaltung und Kaffee-Tourismus.",
+      "factsAdvanced": [
+        "Die Finca ist ein mehrfach preisgekröntes Eco-Resort und Bio-Kaffeefarm in San Ramón.",
+        "Liegt auf über 1.200 Metern Höhe und bewahrt ein weitreichendes Stück primären Nebelwald.",
+        "Das Anwesen betreibt eine komplett biologische Landwirtschaft ohne Pestizideinsatz.",
+        "Besucher können das Brüllen zahlreicher Brüllaffen-Gruppen (Congos) am frühen Morgen hören.",
+        "Die Stromversorgung der Lodges erfolgt fast vollständig über Solarenergie und Mikrowasserkraft.",
+        "Bietet Touren an, die den gesamten landwirtschaftlichen Zyklus des Schattenkaffees demonstrieren."
+      ]
+    },
+    {
+      "id": "los-guatuzos-wildlife-refuge-life-v2",
+      "descriptionAdvanced": "Das Wildtierschutzgebiet Los Guatuzos (Refugio de Vida Silvestre Los Guatuzos) ist ein atemberaubendes Feuchtgebiet am südlichen Ufer des Nicaraguasees, nahe der Grenze zu Costa Rica. Dieses Ramsar-zertifizierte Labyrinth aus Sümpfen, Galeriewäldern und langsam fließenden Flüssen (wie dem Río Papaturro) ist ein biologischer Hotspot. Über 400 Vogelarten, gigantische Tarpon-Fische, Kaimane und zahllose Leguane bevölkern die dichte Vegetation. Das Refugium wird hauptsächlich von Wissenschaftlern und spezialisierten Ökotouristen besucht, die in den biologischen Stationen übernachten und nachts per Boot auf die Suche nach Krokodilen gehen. Die Einbindung der lokalen Fluss-Gemeinschaften in den Naturschutz hat illegale Wilderei hier stark reduziert. Ökologie K8 — Tropische Feuchtgebiete und Artenvielfalt.",
+      "factsAdvanced": [
+        "Das erste Gebiet in Nicaragua, das 1997 als Ramsar-Feuchtgebiet von internationaler Bedeutung anerkannt wurde.",
+        "Liegt im Departement Río San Juan am extrem abgelegenen südlichen Rand des Nicaraguasees.",
+        "Beherbergt den Papaturro-Fluss, entlang dessen Besucher Baumkronen-Hängebrücken (Canopy) finden.",
+        "Ein Paradies für Vogelbeobachter (Birdwatching) mit fast 400 dokumentierten Arten.",
+        "Die lokale Bevölkerung betreibt Caiman- und Leguanaufzuchtstationen (Viveros) zum Artenschutz.",
+        "Ein bedeutender Teil des Reservats ist nur mit Kanus oder kleinen Motorbooten navigierbar."
+      ]
+    },
+    {
+      "id": "domitila-private-wildlife-reserve-life-v2",
+      "descriptionAdvanced": "Das private Wildreservat Domitila (Reserva Silvestre Privada Domitila) in der Nähe von Granada ist eines der faszinierendsten Umweltschutzprojekte des Landes. Es widmet sich ausschließlich dem Schutz des fast ausgestorbenen pazifischen tropischen Trockenwaldes. Dieser Waldtyp ist landesweit fast vollständig durch landwirtschaftliche Rodung verschwunden. Domitila bietet Zuflucht für eine enorme Vielfalt an Tieren, insbesondere für seltene Schmetterlingsarten und Vogelmigranten, die die rauen Trockenzeiten in der bewaldeten Schlucht überstehen. Das Projekt verdeutlicht die extrem wichtige Rolle privater Landbesitzer in Nicaragua, die sich entscheiden, ihr Land dem Naturschutz anstatt der Viehzucht oder dem Zuckerrohranbau zu widmen. Ökologie K7 — Trockenwälder und privater Naturschutz.",
+      "factsAdvanced": [
+        "Domitila war das erste offiziell anerkannte private Wildtierschutzgebiet in Nicaragua.",
+        "Das 200 Hektar große Reservat liegt unweit der Ufer des Nicaraguasees bei Granada.",
+        "Es schützt den tropischen Trockenwald, das am stärksten bedrohte Ökosystem der Pazifikküste.",
+        "In den extremen Trockenmonaten (Januar-April) verlieren fast alle Bäume hier ihre Blätter.",
+        "Ein Hotspot für Entomologen aufgrund Hunderter registrierter Schmetterlings- und Insektenarten.",
+        "Rinderzucht ist auf dem Gelände strikt verboten, was die natürliche Regeneration des Waldes ermöglicht."
+      ]
+    },
+    {
+      "id": "finca-el-chile-coffee-farm-life-v2",
+      "descriptionAdvanced": "Die Finca und das Dorf El Chile im Departement Matagalpa stehen für eine beeindruckende kulturelle und ökologische Wiederbelebung. Einerseits produzieren die umliegenden Höhenlagen exzellenten Bergkaffee. Andererseits ist das indigene Dorf El Chile landesweit dafür bekannt, die fast verlorene Kunst der traditionellen Weberei (Telares) gerettet zu haben. In den 1980er Jahren unterstützte die Regierung die lokalen indigenen Frauen dabei, alte Webstühle nachzubauen. Heute weben Frauenkooperativen farbenfrohe Rucksäcke, Geldbörsen und Kleidung aus reiner Baumwolle und verbinden dieses Handwerk eng mit landwirtschaftlichem Tourismus auf den umliegenden Fincas. Kultur K5 — Indigenes Textilhandwerk und Kaffeeanbau.",
+      "factsAdvanced": [
+        "El Chile ist eine indigene Gemeinschaft hoch in den nebligen Bergen von Matagalpa.",
+        "Die Stadt ist landesweit berühmt für die Wiederbelebung der traditionellen Fußwebstühle.",
+        "Die "Telares de El Chile" (Webkooperativen) bestehen fast ausschließlich aus einheimischen Frauen.",
+        "Neben dem Kunsthandwerk leben die Familien vom Anbau von Hochlandkaffee auf Fincas.",
+        "Das Kunsthandwerk aus dicker, gewebter Baumwolle ist ein Exportschlager der Region.",
+        "Das steile, grüne Bergland um das Dorf bietet Touristen spektakuläre Wandermöglichkeiten."
+      ]
+    },
+    {
+      "id": "hacienda-merida-ometepe-life-v2",
+      "descriptionAdvanced": "Die Hacienda Mérida am Fuße des Vulkans Maderas auf der Insel Ometepe war einst ein riesiges, wohlhabendes landwirtschaftliches Anwesen, das dem Diktator Anastasio Somoza Garcia gehörte. Heute wurde das historische Gelände in eine florierende Eco-Lodge und eine experimentelle Schule umgewandelt. Das Anwesen ist berühmt für seine extreme ökologische Nachhaltigkeit: Es nutzt "Öko-Ziegel" aus recycelten Plastikflaschen, um Schulgebäude zu bauen. Die Hacienda ist der beliebteste Ausgangspunkt für Rucksacktouristen, um Kajaks zu mieten und durch den nahegelegenen Rio Istián (die morastige Landenge, die die beiden Vulkane der Insel verbindet) zu paddeln, in dem es vor Kaimanen und Kormoranen wimmelt. Ökologie K6 — Recycling-Innovationen und Inselgeschichte.",
+      "factsAdvanced": [
+        "Das Gelände gehörte historisch zur Familie des Diktators Somoza, bevor es enteignet wurde.",
+        "Gelegen an der entlegeneren Westküste des südlichen Vulkans Maderas auf Ometepe.",
+        "Weltweit bekannt für die "Ometepe Bilingual School", die mit Flaschen-Ökoziegeln (Eco-Ladrillos) gebaut wurde.",
+        "Bietet den primären Zugang zum Kajakfahren im Rio Istián-Feuchtgebiet.",
+        "Die Hacienda betreibt eigene landwirtschaftliche Projekte, um sich und Gäste selbst zu versorgen.",
+        "Von der Küste der Hacienda kann man spektakuläre Sonnenuntergänge über dem Festland beobachten."
+      ]
+    },
+    {
+      "id": "parque-saurio-nindiri-life-v2",
+      "descriptionAdvanced": "Der Saurierpark in Nindirí (Parque Saurio) ist eine unerwartete und spektakuläre Attraktion im Departement Masaya. In den weitläufigen Grünanlagen des Parks wurden Hunderte von lebensgroßen, hyperrealistischen Dinosaurierstatuen aufgestellt. Von gewaltigen Tyrannosaurus Rex über Triceratops bis hin zu Diplodocus-Herden reicht die Ausstellung, die sich durch kleine künstliche Dschungel und Flussläufe schlängelt. Der Park wurde als Bildungs- und Freizeitprojekt der Regierung konzipiert und zieht wöchentlich Tausende nicaraguanische Familien an. Obwohl er nicht auf realen paläontologischen Funden aus Nindirí basiert, ist er ein Paradebeispiel für moderne, massenwirksame Freizeitgestaltung in einer ansonsten sehr traditionellen Gemeinde. Naturkunde K5 — Familienfreizeit und prähistorische Modelle.",
+      "factsAdvanced": [
+        "Ein massiver städtischer Themenpark in Nindirí mit über 300 lebensgroßen Dinosaurierstatuen.",
+        "Die Skulpturen wurden von lokalen Künstlern aus Fiberglas und Beton extrem detailreich modelliert.",
+        "Der Park ist völlig kostenlos und dient als Hauptattraktion für Familien an Wochenenden.",
+        "Trotz fehlender Fossilien in Masaya erfüllt der Park eine stark bildungsorientierte Rolle für Kinder.",
+        "Nachts sind die Dschungelpfade und Dinosaurier spektakulär beleuchtet und mit Soundeffekten versehen.",
+        "Wurde auf einem ehemals brachliegenden Waldgelände nahe der Straße nach Managua errichtet."
+      ]
+    },
+    {
+      "id": "el-ojo-de-agua-ometepe-life-v2",
+      "descriptionAdvanced": "Der "Ojo de Agua" (Auge des Wassers) ist eine kristallklare, natürliche Vulkanquelle, die tief im tropischen Dschungel der Landenge (Isthmus) der Insel Ometepe liegt. Das Wasser entspringt einem unterirdischen vulkanischen Fluss, der vom Vulkan Maderas gespeist wird, und staut sich in zwei großen, natürlichen Becken, die sanft von Menschenhand befestigt wurden. Das kühle, stark mineralhaltige Wasser gilt bei den Einheimischen als verjüngend und heilend. Umgeben von riesigen, Jahrhunderte alten Bäumen, in denen Brüllaffen und bunte Vögel leben, ist das Ojo de Agua der wichtigste ökologische Erholungsort für Touristen nach einer schweißtreibenden Vulkanbesteigung. Geografie K6 — Vulkanische Quellen und Grundwassersysteme.",
+      "factsAdvanced": [
+        "Eine natürliche, glasklare Quelle, gespeist von vulkanischem Grundwasser des Maderas.",
+        "Liegt exakt im Isthmus, dem schmalen Landstreifen, der die beiden Ometepe-Vulkane verbindet.",
+        "Das Wasser fließt stetig weiter und wird nie künstlich gechlort, sondern bleibt 100% natürlich.",
+        "Das Quellwasser hat aufgrund vulkanischer Mineralien eine konstant kühle Temperatur von 22-24°C.",
+        "Das Gelände wird von üppigem, dichtem Dschungel mit einer großen Affenpopulation überschattet.",
+        "Die Einrichtung bietet heute rustikale Holzstege und einfache gastronomische Versorgung."
+      ]
+    },
+    {
+      "id": "reserva-silvestre-privada-el-tesoro-life-v2",
+      "descriptionAdvanced": "Die private Wildtier-Reserve El Tesoro ist ein herausragendes Beispiel für den Mikro-Naturschutz in den pazifischen Ebenen Nicaraguas. In einer Landschaft, die historisch fast vollständig für Rinderweiden und Zuckerrohrplantagen gerodet wurde, agieren solche kleinen privaten Reservate als überlebenswichtige ökologische Trittsteine (Korridore). Auf dem Areal wird die Regeneration des tropischen Trockenwaldes gefördert, wodurch Leguane, zahlreiche Zugvogelarten und Kleinsäuger einen sicheren Lebensraum finden. Besuche auf diesen privaten Gütern bieten einen sehr intimen und lehrreichen Einblick in die Herausforderungen des Umweltschutzes in agrarisch intensiv genutzten Gebieten Nicaraguas. Ökologie K7 — Biologische Korridore und privates Landmanagement.",
+      "factsAdvanced": [
+        "Agriert als biologischer Schutzkorridor (Corredor Biológico) in stark landwirtschaftlich genutzten Gebieten.",
+        "Eines der vielen Beispiele in Nicaragua, bei denen Landbesitzer Viehweiden in Wälder zurückverwandeln.",
+        "Die Vegetation besteht aus trockenresistenten Bäumen (wie Pochote und Guanacaste).",
+        "Wichtiger Rastplatz für nordamerikanische Vögel während ihrer Wintermigration nach Süden.",
+        "Ein Fokus des Reservats liegt auf Umweltbildung (Educación Ambiental) für umliegende Schulen.",
+        "Die Waldregeneration hilft zudem, die abnehmenden Grundwasserspiegel in der Region zu stabilisieren."
+      ]
+    },
+    {
+      "id": "finca-el-paraiso-boaco-life-v2",
+      "descriptionAdvanced": "Die Finca El Paraíso in Boaco repräsentiert das klassische Landleben im Zentrum Nicaraguas, oft verbunden mit sanftem Agrotourismus. Diese ländlichen Güter (Haciendas) gewähren Besuchern direkte Einblicke in den Alltag der Viehzucht und der Herstellung von Milchprodukten, für die Boaco landesweit berühmt ist. Die Hügellandschaften um El Paraíso laden zu langen Ausritten auf Pferden (Cabalgatas) ein, was tief in der lokalen Cowboy-Kultur verankert ist. Solche Farmen demonstrieren die wirtschaftliche Lebensader der "Stadt der zwei Stockwerke" und bewahren die handwerkliche Käseherstellung (Cuajada, Quesillo) vor der Kulisse einer spektakulären, rauen Berggeometrie. Wirtschaft K6 — Agrotourismus und die Cowboykultur von Chontales.",
+      "factsAdvanced": [
+        "Typische Rinder- und Milchfinca in den rauen, grünen Hügeln des Departements Boaco.",
+        "Bietet Agrotourismus an, bei dem Gäste melken, Käse herstellen und reiten können.",
+        "Pferde (Caballos) sind hier nicht nur Freizeitbeschäftigung, sondern das primäre Transportmittel.",
+        "Die Region Boaco (und Chontales) gilt als das Herz der nicaraguanischen Kuhhirten (Vaqueros).",
+        "Die umliegende hügelige Geografie macht großmaschinelle Landwirtschaft extrem schwierig.",
+        "Der handwerklich hergestellte Käse (Queso Artesanal) wird auf den Märkten Managuas verkauft."
+      ]
+    },
+    {
+      "id": "centro-turistico-xiloa-life-v2",
+      "descriptionAdvanced": "Das Centro Turístico Xiloá am Rande von Managua ist ein massives Naherholungsgebiet, das sich an die Ufer der Xiloá-Kraterlagune schmiegt. Die kreisrunde, tiefblaue Lagune befindet sich im Inneren der vulkanischen Halbinsel Apoyeque. Da der weitaus größere Managuasee stark verschmutzt ist, dient das schwefel- und mineralhaltige Wasser von Xiloá als die wichtigste "Badewanne" für Hunderttausende Einwohner der Hauptstadt, besonders während der brütend heißen Osterwoche (Semana Santa). Die Lagune ist nicht nur zum Schwimmen beliebt, sondern birgt in ihren oft 70 Meter tiefen, vulkanisch erhitzten Gewässern auch endemische Fischarten, die von Tauchern studiert werden. Geografie K6 — Kraterseen und urbane Massenerholung.",
+      "factsAdvanced": [
+        "Xiloá ist eine tiefblaue Kraterlagune (Laguna Cratérica), die zur Apoyeque-Vulkankette gehört.",
+        "Ein vom Staat verwaltetes Tourismuszentrum, das komplett kostenlosen Eintritt bietet.",
+        "Zieht während der Feiertage (Semana Santa) Zehntausende Badegäste aus Managua an.",
+        "Das Wasser enthält vulkanische Schwefelverbindungen und wird lokal als heilend betrachtet.",
+        "Das abfallende Kraterufer der Lagune kann bis zu 70 Meter in die Tiefe stürzen.",
+        "In der Lagune leben mehrere endemische (nur hier vorkommende) Buntbarsch-Arten (Cíclidos)."
+      ]
+    },
+    {
+      "id": "parque-acuatico-salvador-allende-life-v2",
+      "descriptionAdvanced": "Der Wasserpark im Puerto Salvador Allende in Managua (Parque Acuático) ist ein schillerndes Symbol für die Modernisierung der Freizeitangebote in der nicaraguanischen Hauptstadt. Der Park liegt direkt an der Uferpromenade des Managuasees und bietet ein sicheres, kühles Refugium vor den konstant hohen Temperaturen der Stadt. Ausgestattet mit großen Rutschen, künstlichen Wellenbecken und interaktiven Wasserspielen für Kinder, stellt die Anlage ein völlig neues Maß an urbaner Infrastruktur in Nicaragua dar. Das Wasser für die Pools ist vollständig aufbereitet und getrennt vom benachbarten Xolotlán-See, was das Vertrauen der Stadtbevölkerung in diesen zentralen Freizeitort untermauert. Architektur K5 — Urbane Modernisierung und Wasserfreizeitparks.",
+      "factsAdvanced": [
+        "Teil des massiven Neuentwicklungsprojekts "Puerto Salvador Allende" am Ufer von Managua.",
+        "Der modernste öffentliche Wasserpark des Landes, ausgestattet mit Röhrenrutschen und Wellenpools.",
+        "Dient den Hauptstädtern als sichere, saubere Alternative zu unbewachten Stränden und Lagunen.",
+        "Das in der Anlage verwendete Süßwasser ist streng chemisch gereinigt und chloriert.",
+        "Zieht wöchentlich Tausende von Familien an, besonders in der trockenen und heißen Jahreszeit.",
+        "Steht symbolisch für die Transformation der Xolotlán-Küste vom Schandfleck zum Touristenmagneten."
+      ]
+    },
+    {
+      "id": "finca-san-juan-de-la-isla-ometepe-life-v2",
+      "descriptionAdvanced": "Die Finca San Juan de la Isla liegt an den ruhigen, wellengepeitschten Ufern des Santo-Domingo-Strandes auf der Insel Ometepe. Sie ist eine historische Kakao- und Kochbananenplantage, die in eine preisgekrönte Eco-Lodge umgewandelt wurde. Die rustikalen Kolonialgebäude der Farm blicken über eine weite Weide direkt auf die perfekten, pyramidenförmigen Flanken des Vulkans Concepción. Die Finca ist ein Vorreiter im Artenschutz: Riesige, uralte Mango- und Ceiba-Bäume werden gezielt geschützt, um den stark bedrohten Papageien und Brüllaffen Nistplätze zu garantieren. Gäste der Finca erleben die authentische Atmosphäre einer funktionierenden nicaraguanischen Hacienda (Reiten, Melken) kombiniert mit höchstem ökologischem Respekt. Ökologie K7 — Nachhaltige Fincas und Vulkan-Panoramen.",
+      "factsAdvanced": [
+        "Eine der ältesten noch funktionierenden landwirtschaftlichen Haciendas (Gutshöfe) auf der Insel Ometepe.",
+        "Liegt direkt am Playa Santo Domingo, dem längsten schwarzen Sandstrand der Vulkaninsel.",
+        "Bietet einen der berühmtesten, direkten Ausblicke auf den perfekten Kegel des Vulkans Concepción.",
+        "Die Farm ist stark in den Anbau von Kochbananen, Papayas und Edelkakao involviert.",
+        "Ein Großteil des Grundstücks ist als privates Wildreservat für Brüllaffen (Congos) deklariert.",
+        "Das koloniale Hauptgebäude (Casa Hacienda) wurde restauriert und dient heute als Eco-Hotel."
+      ]
+    },
+    {
+      "id": "reserva-natural-volcan-cosiguina-fauna-life-v2",
+      "descriptionAdvanced": "Das Naturreservat Vulkan Cosigüina (Reserva Natural Volcán Cosigüina) bildet die äußerste Nordwestspitze Nicaraguas im Departement Chinandega. Das Gebiet ist berühmt für seine gewaltige Eruption im Jahr 1835, die Asche bis nach Mexiko schleuderte und den Vulkan um Hunderte Meter schrumpfen ließ. Heute beherbergt der Krater eine stille, grüne Lagune. Die dichten Trockenwälder an den Hängen des Vulkans sind ein kritischer Zufluchtsort für eine einzigartige Fauna, die der extremen Hitze und Trockenheit trotzt. Zahlreiche Papageienarten (wie der vom Aussterben bedrohte Gelbnackenamazone), Pumas, Wildschweine und Leguane finden in diesem von Menschen kaum besiedelten Gebiet Schutz. Die Isolation macht es zu einem der wildesten Ökosysteme des Landes. Naturkunde K8 — Vulkanische Mega-Eruptionen und seltene Trockenwald-Fauna.",
+      "factsAdvanced": [
+        "Der Vulkan Cosigüina (859 m) erlebte 1835 die massivste Eruption der amerikanischen Geschichte.",
+        "Im tiefen Zentrum des eingestürzten Kraters befindet sich heute eine grüne Kraterlagune.",
+        "Das Reservat schützt die restlichen Bestände des stark gefährdeten tropischen Pazifik-Trockenwalds.",
+        "Heimat seltener und bedrohter Papageienarten, darunter der Gelbnackenamazone (Loro Nuca Amarilla).",
+        "Vom Kraterrand hat man eine trinationale Aussicht: El Salvador, Honduras und Nicaragua.",
+        "Das Klima an der Vulkanbasis ist eines der heißesten und trockensten in ganz Zentralamerika."
+      ]
+    }
+  ]
+}

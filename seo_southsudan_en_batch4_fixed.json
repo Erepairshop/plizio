@@ -1,0 +1,256 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fashoda-history-v2",
+      "descriptionAdvanced": "Fashoda, now known as Kodok, is one of the most significant historical sites in the Nile Valley. It is the spiritual and cultural heart of the Shilluk Kingdom and the residence of its King (Reth). Internationally, it became famous for the 'Fashoda Incident' of 1898, when a French expedition and British forces reached a diplomatic standoff over the control of the Upper Nile. This event almost triggered a war between the two European powers and ultimately defined the colonial borders of Northeast Africa. Today, it remains a vital site for the preservation of Shilluk royal traditions. History K8 – The Scramble for Africa and colonial diplomacy.",
+      "factsAdvanced": [
+        "Spiritual seat of the Shilluk King (Reth)",
+        "Site of the 1898 Fashoda Incident",
+        "Crucial point in the Anglo-French colonial rivalry",
+        "Historical residence of the Reth since ancient times",
+        "Venue for royal Shilluk coronation ceremonies",
+        "Located on the west bank of the White Nile",
+        "Focal point of Nilotic royal tradition"
+      ]
+    },
+    {
+      "id": "rejaf-fort-history-v2",
+      "descriptionAdvanced": "The Rejaf Fort is a strategic historical fortification located on a hilltop overlooking the White Nile south of Juba. It was used by various forces, including Turko-Egyptian, Belgian, and British troops, to control the movement of goods and people along the river. The fort's location was critical because the Nile rapids at Rejaf acted as a natural barrier to large-scale navigation, making it a mandatory transshipment point. From this vantage point, colonial forces could monitor the southern approaches to the Sudd. The remains of the fort offer a glimpse into the military strategies employed during the late 19th century. History K8 – Military fortifications and river control.",
+      "factsAdvanced": [
+        "Strategic hilltop fort overlooking the White Nile",
+        "Used by multiple colonial powers for river control",
+        "Located at the natural navigation barrier of Rejaf",
+        "Vantage point for monitoring Nilotic trade routes",
+        "Ruins of historical military installations",
+        "Site of late 19th-century colonial presence",
+        "Significant for regional military history"
+      ]
+    },
+    {
+      "id": "lado-enclave-history-v2",
+      "descriptionAdvanced": "The Lado Enclave was a unique and controversial territory located on the west bank of the White Nile, which was personally administered by King Leopold II of Belgium as part of the Congo Free State from 1894 to 1910. This strategically located area was a point of intense diplomatic friction between the British, French, and Belgian empires. It was fabled for its massive elephant populations and the lucrative ivory trade that attracted hunters from across the globe. After Leopold's death, the enclave was transferred back to the Anglo-Egyptian Sudan, leaving behind a complex legacy of colonial boundary shifts. History K8 – Changing colonial borders and the ivory trade.",
+      "factsAdvanced": [
+        "Territory administered by King Leopold II",
+        "Part of the Congo Free State (1894–1910)",
+        "Strategically located on the Nile's west bank",
+        "Famous for historical ivory and elephant hunting",
+        "Transferred to Sudan after Leopold's reign",
+        "Point of diplomatic conflict between three empires",
+        "Significant landmark of the 'Scramble for Africa'"
+      ]
+    },
+    {
+      "id": "dufile-fort-history-v2",
+      "descriptionAdvanced": "The ruins of Dufile Fort represent one of the few remaining 19th-century stone fortifications in the region, built by Emin Pasha in the 1870s. As a key outpost of the Equatoria Province, the fort was designed to secure control over Nile transport and halt slave raids in the southern interior. The site still preserves traces of its original defensive walls and moats, offering a rare physical link to the Turko-Egyptian administration. Dufile was a vital logistics hub for early Nilotic explorers and administrators navigating the treacherous waters between modern-day Uganda and South Sudan. History K8 – The Equatoria Province and the fight against slavery.",
+      "factsAdvanced": [
+        "Built by Emin Pasha in the 1870s",
+        "Strategic stone fortification on the Nile",
+        "Located near the border with Uganda",
+        "Former base for the Equatoria Province administration",
+        "Significant site in the struggle against the slave trade",
+        "Preserves ruins of defensive walls and moats",
+        "Important landmark for 19th-century Nilotic history"
+      ]
+    },
+    {
+      "id": "fort-berkeley-history-v2",
+      "descriptionAdvanced": "Fort Berkeley was a British colonial outpost established at the end of the 19th century on the banks of the Nile to secure the region against Mahdist forces from the north. Situated in a commanding position opposite Rejaf, the fort ensured the surveillance of river navigation and protected the supply lines for colonial expeditions moving toward the heart of Africa. The site provides a clear perspective on the military strategies used during the 'Scramble for Africa' to establish permanent territorial control along the Nile corridor. Today, it remains a site of significant interest for regional military history. History K8 – Military security and the Nile corridor.",
+      "factsAdvanced": [
+        "Strategic British colonial military outpost",
+        "Established to counter Mahdist incursions",
+        "Located in a high position overlooking the Nile",
+        "Crucial for protecting colonial supply lines",
+        "Part of a defensive network in the southern Sudan",
+        "Significant site for military history research",
+        "Located opposite the historical fort at Rejaf"
+      ]
+    },
+    {
+      "id": "doleib-hill-mission-history-v2",
+      "descriptionAdvanced": "Doleib Hill Mission was one of the first American mission stations in South Sudan, founded in 1902 at the strategic confluence of the White Nile and the Sobat River. The mission played a pioneering role in providing education and healthcare to the Shilluk people, introducing modern agricultural techniques and the region's first printing press. It served as a vital center for the spread of literacy and Christian teachings in the Upper Nile region. Today, the site stands as a symbol of the beginnings of formal education and social transformation in northeastern South Sudan. History K8 – Christian missions and the dawn of modern education.",
+      "factsAdvanced": [
+        "Founded in 1902 by American missionaries",
+        "Located at the strategic White Nile-Sobat confluence",
+        "Host of the region's first printing press",
+        "Major educational center for the Shilluk people",
+        "Introduced new vegetable crops and farming methods",
+        "Historical site of the American Presbyterian mission",
+        "Symbol of social change in the Upper Nile"
+      ]
+    },
+    {
+      "id": "lul-mission-history-v2",
+      "descriptionAdvanced": "Lul Mission was established by Austrian Catholic missionaries in 1901 on the west bank of the White Nile, making it one of the oldest settlements of its kind in the region. It became renowned for its distinctive burnt-brick architecture and its model farms, which served as reference centers for technical and agricultural education. The mission also acted as a hub for linguistic studies, preserving valuable records of the Shilluk language and culture. Lul remains a significant religious and historical landmark, reflecting the deep influence of the Catholic Church on the social development of the Upper Nile. History K8 – Missionary architecture and agricultural education.",
+      "factsAdvanced": [
+        "Established in 1901 by Catholic missionaries",
+        "Located north of Malakal in the Shilluk heartland",
+        "Known for its historical burnt-brick buildings",
+        "Pioneer center for agricultural and technical training",
+        "Significant site for Shilluk linguistic research",
+        "One of the largest and oldest missions in the region",
+        "Cultural and religious landmark on the White Nile"
+      ]
+    },
+    {
+      "id": "taufikia-military-history-v2",
+      "descriptionAdvanced": "Taufikia was a historical military station founded by the explorer Samuel Baker in 1870 during his campaign to suppress the slave trade on the Upper Nile. Strategically situated to control the river's flow, the station served as a mandatory checkpoint for all vessels traveling toward the southern interior. It was named in honor of Tewfik Pasha, the Khedive of Egypt, and represented the extension of Anglo-Egyptian authority into the heart of Africa. The site's history is characterized by the intense struggle against human trafficking and the early efforts to establish a formal administration in the region. History K8 – The campaign against the slave trade on the Nile.",
+      "factsAdvanced": [
+        "Founded by explorer Samuel Baker in 1870",
+        "Named in honor of Egypt's Khedive Tewfik Pasha",
+        "Strategic military checkpoint on the White Nile",
+        "Base for early anti-slavery operations",
+        "Located south of the modern city of Malakal",
+        "Site of 19th-century colonial administration",
+        "Landmark of military and social history on the Nile"
+      ]
+    },
+    {
+      "id": "old-fangak-history-v2",
+      "descriptionAdvanced": "Old Fangak is a historical settlement located deep within the Sudd swamps, having served as a central administrative and commercial hub for the Nuer people for over a century. Due to its naturally protected location surrounded by water, it has historically functioned as a site of resistance and a cultural sanctuary during periods of regional instability. The town preserves traditional Nuer governance structures and is a vital node for navigation along the inner channels of the Nile. It represents the resilience and adaptation of swamp communities to the challenges of their environment. Geography K7 – Urban adaptation in wetland ecosystems.",
+      "factsAdvanced": [
+        "Historical administrative center in the Sudd",
+        "Vital commercial hub for the Nuer community",
+        "Located on the strategic Phow River canal",
+        "Historical sanctuary during regional conflicts",
+        "Major hub for riverboat and canoe transport",
+        "Preserves traditional Nuer social and legal codes",
+        "Center of resilience in the central marshlands"
+      ]
+    },
+    {
+      "id": "pachodo-shrine-history-v2",
+      "descriptionAdvanced": "The Pachodo Shrine is the spiritual heart and the official coronation site of the Shilluk Kingdom, dedicated to the semi-mythical founder Nyikang. This ritual settlement consists of traditional huts built with symbolic precision, representing the unity and continuity of the Shilluk people. Pachodo remains one of Africa's most important living heritage sites, where monarchical traditions have been practiced without interruption for centuries. It is a place of deep cultural reverence, where the installation of the King (Reth) ensures the spiritual health of the entire nation. History K8 – Traditional African monarchies and living heritage.",
+      "factsAdvanced": [
+        "Spiritual heart of the Shilluk Kingdom",
+        "Official site for the coronation of the Reth",
+        "Dedicated to the founding ancestor, Nyikang",
+        "Exemplar of traditional sacred Nilotic architecture",
+        "Symbol of Shilluk national unity and identity",
+        "Located near the historical town of Kodok",
+        "Nationally protected site of cultural heritage"
+      ]
+    },
+    {
+      "id": "gelo-river-heritage-history-v2",
+      "descriptionAdvanced": "The Gelo River Heritage Site represents the historical heartland of the Anyuak Kingdom, located on the border between South Sudan and Ethiopia. The Gelo River valley was where the Anyuak developed their fortified settlements and where sacred royal emblems have been preserved for generations. This region is critical for understanding the complex political system and the migration history of the Anyuak people along the Nile's eastern tributaries. It serves as a cross-border cultural bridge, highlighting the shared heritage of communities in both nations. History K8 – Anyuak political systems and riverine heritage.",
+      "factsAdvanced": [
+        "Historical heartland of the Anyuak Kingdom",
+        "Located along the banks of the Gelo River",
+        "Home to sacred Anyuak royal artifacts",
+        "Site of traditional fortified village layouts",
+        "Significant for cross-border cultural relations",
+        "Focal point for Anyuak oral history and identity",
+        "Important ecological and cultural heritage zone"
+      ]
+    },
+    {
+      "id": "gbudwe-court-history-v2",
+      "descriptionAdvanced": "The Royal Court of Gbudwe, located near Yambio, was the center of power for the great Azande King Gbudwe, who famously resisted colonial incursions at the end of the 19th century. The site represents the zenith of Azande political organization and serves as a major place of historical pilgrimage. Gbudwe is remembered as a symbol of African sovereignty and resistance against both European and Arab expansionism. The court remains a focal point for Azande pride, preserving the memory of a monarch who fought to maintain the independence of his people in the lush forests of the southwest. History K8 – African resistance to colonial expansion.",
+      "factsAdvanced": [
+        "Official seat of the Azande King Gbudwe",
+        "Center of 19th-century anti-colonial resistance",
+        "Located in the vicinity of modern Yambio",
+        "Sacred site for the Azande cultural community",
+        "National symbol of sovereignty and independence",
+        "Monumental site dedicated to royal heritage",
+        "Historically significant for southwestern regional identity"
+      ]
+    },
+    {
+      "id": "kaka-nile-port-history-v2",
+      "descriptionAdvanced": "Kaka Nile Port was one of the most active commercial hubs on the White Nile during the 19th century, serving as a primary station for the export of ivory and gum arabic. Situated within Shilluk territory, the port attracted merchants from across the Nile Basin and served as a strategic observation point for various military expeditions. Today, Kaka remains an important historical settlement that marks the ancient river trade routes that connected the interior of Africa to the Mediterranean world. It stands as a testament to the long history of commercial navigation in the Upper Nile. Geography K8 – History of trade routes on the Nile.",
+      "factsAdvanced": [
+        "Major 19th-century commercial river hub",
+        "Specialized in the export of ivory and gum arabic",
+        "Located in the northern Upper Nile State",
+        "Strategic transit point between Juba and Sudan",
+        "Historical settlement on the Nile's west bank",
+        "Former refueling station for steam-powered barges",
+        "Landmark of the historical Nile trade network"
+      ]
+    },
+    {
+      "id": "tonga-historical-village-history-v2",
+      "descriptionAdvanced": "Tonga is a strategically located historical settlement at the confluence of the White Nile and the Sobat River (via the Zeraf Channel), having served as a meeting point for the Shilluk and Nuer cultures for centuries. The village has functioned as a military and administrative base in various periods, controlling access to the southern reaches of the country. Tonga is well-known for its traditional fish markets and its role as a transportation node in the Upper Nile region. Its history reflects the importance of river confluences in shaping cultural exchange and regional security. Geography K7 – Confluences and cultural exchange.",
+      "factsAdvanced": [
+        "Strategically located at a key river confluence",
+        "Historical meeting point for Shilluk and Nuer",
+        "Major transport node for Nile navigation",
+        "Former strategic military and administrative post",
+        "Center for traditional Nilotic fish commerce",
+        "Located near the entrance to the Zeraf Channel",
+        "Landmark of regional Nilotic history and trade"
+      ]
+    },
+    {
+      "id": "kayala-battle-site-history-v2",
+      "descriptionAdvanced": "The Kayala Battle Site in Eastern Equatoria is a place marked by historical conflicts that shaped the destiny of the Lotuko people. Kayala was a strategic point of resistance due to its rugged topography, located on the trade routes between Torit and Kapoeta. The memory of these battles is preserved in local oral traditions and monuments that honor the bravery of the region's warriors. The site offers a window into the traditional military tactics and inter-community dynamics of the southeast before and during the colonial era. History K8 – Local conflicts and military traditions.",
+      "factsAdvanced": [
+        "Site of historical battles in Eastern Equatoria",
+        "Strategically important for the Lotuko community",
+        "Located on the primary Torit-Kapoeta route",
+        "Commemorated by local oral traditions and markers",
+        "Significant for regional military and social history",
+        "Key reference point for Lotuko heritage",
+        "Located in a mountainous and defensive terrain"
+      ]
+    },
+    {
+      "id": "malek-cms-mission-history-v2",
+      "descriptionAdvanced": "Malek Mission was the first station established by the Church Missionary Society (CMS) in South Sudan, founded in 1906. Situated on the White Nile south of Bor, the mission introduced English-language education and played a crucial role in the literacy and training of the first generation of South Sudanese leaders. It is widely considered the 'cradle of the Anglican Church' in the country. The mission represents a major turning point in the social history of the region, where traditional life began to interface with modern academic and religious institutions. History K8 – The Anglican Church and formal education.",
+      "factsAdvanced": [
+        "First CMS mission station in South Sudan (1906)",
+        "Founded by Archibald Shaw, known locally as Jiir",
+        "Located on the Nile in Jonglei State near Bor",
+        "Considered the birthplace of Anglican education",
+        "Host of the first formal school in the region",
+        "Significant site of national religious heritage",
+        "Nurtured the country's early intellectual elite"
+      ]
+    },
+    {
+      "id": "mongalla-provincial-capital-history-v2",
+      "descriptionAdvanced": "Mongalla served as the provincial capital of Equatoria during the early Anglo-Egyptian period, before Juba was selected as the administrative seat. The town was a flourishing river port and a center of colonial power, featuring impressive administrative buildings and modern infrastructure for its time. Its decline began in the 1930s when the capital was moved to Juba due to better land for expansion. Mongalla remains a significant historical site that reflects the past administrative glory and the early urban development along the White Nile. History K8 – Evolution of provincial capitals.",
+      "factsAdvanced": [
+        "Former provincial capital (1906–1930)",
+        "Strategic river port on the White Nile",
+        "Direct administrative predecessor to Juba",
+        "Site of ruined colonial-era government buildings",
+        "Historical center of power in the Equatoria region",
+        "Located north of Juba in Central Equatoria",
+        "Symbol of early 20th-century urban history"
+      ]
+    },
+    {
+      "id": "katire-logging-station-history-v2",
+      "descriptionAdvanced": "The Katire Logging Station, located in the heart of the Imatong Mountains, was the center of South Sudan's timber industry starting in the colonial era. Katire processed vast quantities of teak and cedar from the surrounding montane forests, utilizing modern sawmills and dedicated transport infrastructure. The site reflects the history of natural resource utilization and remains a critical point for sustainable forestry research in the region today. Its high-elevation setting provides a unique industrial landscape nestled within a biodiversity hotspot. Geography K8 – Forestry and mountain resources.",
+      "factsAdvanced": [
+        "Historical center for regional timber processing",
+        "Situated in the biodiverse Imatong Mountains",
+        "Specialized in high-quality teak and cedar wood",
+        "Established during the British colonial period",
+        "Site of some of the country's first industrial sawmills",
+        "Key landmark for montane forestry history",
+        "Located in a region of high rainfall and forest cover"
+      ]
+    },
+    {
+      "id": "zubeir-pasha-fort-history-v2",
+      "descriptionAdvanced": "The Zubeir Pasha Fort is the fortified complex built by the most influential 19th-century merchant and governor in the Bahr el Ghazal region. The fort served as the center of a vast commercial and military network that extended as far as Darfur and Egypt. Its structure reflects the immense power accumulated by Zubeir Pasha and the complex relationships between Nile traders and the empires of the time. Today, the ruins stand as a significant historical monument, offering insights into the 'Zereba' system and the pre-colonial power dynamics of western South Sudan. History K8 – Zubeir Pasha and power in the Bahr el Ghazal.",
+      "factsAdvanced": [
+        "Historical seat of power for Zubeir Pasha",
+        "Major fortified bastion in western Bahr el Ghazal",
+        "Center of an extensive 19th-century trade network",
+        "Significant landmark for regional political history",
+        "Historical link between South Sudan and Darfur",
+        "Evidence of the 19th-century 'Zereba' trade system",
+        "Located in the historical town of Deim Zubeir"
+      ]
+    }
+  ]
+}

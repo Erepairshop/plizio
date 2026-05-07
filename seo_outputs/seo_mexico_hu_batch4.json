@@ -1,0 +1,362 @@
+{
+  "lang": "hu",
+  "country": "mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zamora-de-hidalgo-cities-v2",
+      "descriptionAdvanced": "Zamora de Hidalgo Michoacán állam északnyugati részén fekszik, és leginkább lenyűgöző neogótikus katedrálisáról, a Guadalupe-i Szűzanya-kegytemplomról ismert, amelynek tornyai az egyik legmagasabbak Mexikóban. A város fontos mezőgazdasági központ, a környező völgy híres a bogyós gyümölcsök, különösen az eper és a málna termesztéséről. Zamora gazdag kulturális örökséggel rendelkezik, számos gyarmati stílusú épülettel és egy pezsgő történelmi központtal. A város gasztronómiája is figyelemre méltó, különösen a 'chongos zamoranos' nevű hagyományos édessége, amely tejből készül és országos hírű. Földrajz K7 — neogótikus építészet és mezőgazdasági völgyek.",
+      "factsAdvanced": [
+        "Zamora katedrálisa Mexikó legmagasabb neogótikus építménye.",
+        "Híres a 'chongos zamoranos' nevű különleges tejédességéről.",
+        "A város egy rendkívül termékeny mezőgazdasági régió központja.",
+        "Itt található Michoacán állam egyik legfontosabb konzervatóriuma.",
+        "A várost 1574-ben alapították spanyol telepesek.",
+        "Zamora fontos gazdasági motor az állam északi részén.",
+        "A város környékén számos természetes forrás és tó található.",
+        "A közeli Camécuaro-tó Nemzeti Park népszerű kirándulóhely."
+      ]
+    },
+    {
+      "id": "tulum-cities-v2",
+      "descriptionAdvanced": "Tulum a Riviera Maya egyik legikonikusabb helyszíne, ahol az ősi maja romok közvetlenül a Karib-tenger türkizkék vize felett, egy meredek sziklafalon állnak. Ez volt az egyik utolsó város, amelyet a maják laktak és védtek, és fontos tengeri kikötőként szolgált. Tulum ma már nemcsak a régészeti lelőhelyéről, hanem környezettudatos luxusüdülőiről, fehér homokos strandjairól és a bohém életmódról is híres. A város két fő részből áll: a romok melletti nemzeti parkból és a dinamikusan fejlődő modern településből. A környék gazdag 'cenotékban' és trópusi erdőkben, amelyek egyedülálló ökoturisztikai élményt nyújtanak. Földrajz K7 — part menti turizmus és maja történelem.",
+      "factsAdvanced": [
+        "Tulum volt az egyik utolsó maja város, amely a spanyol hódításig fennmaradt.",
+        "A város neve maja nyelven 'falat' vagy 'kerítést' jelent.",
+        "A 'El Castillo' (A Kastély) a romterület legmagasabb és legfontosabb épülete.",
+        "Itt található a freskók temploma, ahol ősi maja festmények maradtak fenn.",
+        "Tulum az egyetlen maja város, amely közvetlenül a tengerparton épült.",
+        "A város környéke a Sian Ka'an bioszféra-rezervátum kapuja.",
+        "Híres a fenntartható turizmusról és a spirituális elvonulásokról.",
+        "A tengerparti homok itt is koralleredetű, ezért sosem forró."
+      ]
+    },
+    {
+      "id": "el-tajn-history-v2",
+      "descriptionAdvanced": "El Tajín a klasszikus Veracruz-kultúra legfontosabb székhelye és Mexikó egyik leglátványosabb régészeti lelőhelye. A város a 600 és 1200 közötti időszakban virágzott, és legfőbb jelképe a Fülkék Piramisa, amely 365 fülkéjével a napévet szimbolizálja. El Tajín különlegessége a rendkívül sok labdajáték-pálya, ami a rituális sportok kiemelt szerepére utal a totonák társadalomban. A helyszín ma is otthont ad a látványos 'Voladores de Papantla' szertartásnak, amely az UNESCO szellemi örökségének része. A romok dús trópusi növényzet között fekszenek, misztikus hangulatot árasztva. Történelem K6 — klasszikus korszak és mezoamerikai vallás.",
+      "factsAdvanced": [
+        "A Fülkék Piramisa 20 méter magas és hét szintből áll.",
+        "A területen 17 labdajáték-pályát találtak, ami egyedülálló Mezoamerikában.",
+        "A város neve totonák nyelven 'Villámlást' vagy 'Vihart' jelent.",
+        "A helyszínt 1785-ben fedezte fel véletlenül egy spanyol tisztségviselő.",
+        "Az UNESCO 1992-ben nyilvánította a Világörökség részévé.",
+        "A domborművek gyakran ábrázolnak rituális áldozatokat és jeleneteket.",
+        "El Tajín fontos csillagászati megfigyelőpontként is szolgált.",
+        "A romváros egykor több mint 20 000 lakosnak adott otthont."
+      ]
+    },
+    {
+      "id": "monte-alban-history-v2",
+      "descriptionAdvanced": "Monte Albán a zapoték civilizáció egykori fővárosa, amely egy mesterségesen elegyengetett hegytetőn fekszik az Oaxaca-völgy felett. Kr. e. 500 körül alapították, és több mint ezer éven át a régió meghatározó politikai és vallási központja volt. A hatalmas főtéren monumentális piramisok, labdajáték-pályák és titokzatos domborművek, az úgynevezett 'Danzantes' (Táncosok) láthatók. A helyszín híres gazdag sírleleteiről is, különösen a 7. számú sírról, amely az amerikai kontinens egyik legjelentősebb aranykincs-leletét rejtette. Monte Albán stratégiai elhelyezkedése lenyűgöző panorámát nyújt a környező völgyekre. Történelem K6 — zapoték civilizáció és preklasszikus kor.",
+      "factsAdvanced": [
+        "Monte Albán volt Mezoamerika egyik első valódi városa.",
+        "A központi tér 300 méter hosszú és 200 méter széles.",
+        "A 'Danzantes' kövek valószínűleg legyőzött ellenségeket ábrázolnak.",
+        "A város lakossága fénykorában meghaladta a 25 000 főt.",
+        "A J jelű épület különleges ötszögletű formájú és csillagászati célokat szolgált.",
+        "1987 óta az UNESCO Világörökség része Oaxacával együtt.",
+        "A hegytetőt több tonna föld és kő elmozdításával tették síkká.",
+        "A város hanyatlása után a misztékok használták temetkezési helyként."
+      ]
+    },
+    {
+      "id": "uxmal-history-v2",
+      "descriptionAdvanced": "Uxmal a maja építészet egyik legkifinomultabb példája Yucatánban, a Puuc stílus központja. A várost a lágy vonalak és a gazdagon díszített kőhomlokzatok jellemzik, ahol Chaac, az esőisten maszkjai mindenhol jelen vannak. Leglátványosabb épülete a Varázsló Piramisa, amely egyedülálló ovális alaprajzával magasodik a dzsungel fölé. A Kormányzati Palota a prekolumbián építészet egyik mesterműve, több mint 100 méteres hosszával és bonyolult geometriai mintáival. Uxmal elhelyezkedése és kiváló állapota miatt az egyik legfontosabb célpont a maja világ felfedezői számára. Történelem K6 — klasszikus maja kor és Puuc stílus.",
+      "factsAdvanced": [
+        "A Varázsló Piramisa a legenda szerint egyetlen éjszaka alatt épült fel.",
+        "Uxmal neve maja nyelven 'háromszor építettet' jelent.",
+        "A Kormányzati Palota homlokzatán több mint 20 000 egyedi kőfaragvány van.",
+        "A városban nincsenek cenoték, ezért esővízgyűjtő ciszterneket (chultun) használtak.",
+        "Az Apácarend-négyszög (Cuadrángulo de las Monjas) belső udvarai lenyűgözőek.",
+        "Az UNESCO 1996-ban vette fel a Világörökségi listára.",
+        "A 'Törpe háza' néven is ismert piramis 35 méter magas.",
+        "Uxmal fontos szövetségben állt Chichén Itzá várossal a 10. században."
+      ]
+    },
+    {
+      "id": "calakmul-history-v2",
+      "descriptionAdvanced": "Calakmul a maja civilizáció egyik leghatalmasabb és legfontosabb városa volt, amely Campeche állam mélyén, a trópusi dzsungel szívében fekszik. A Kán-dinasztia (a 'Kígyófej' jelkép) székhelyeként évszázadokon át rivalizált Tikallal a maja világ feletti uralomért. A területen két hatalmas piramis található, amelyekről tiszta időben ellátni egészen Guatemaláig. Calakmul nemcsak régészeti, hanem természeti szempontból is kiemelkedő, hiszen egy hatalmas bioszféra-rezervátum közepén található, ahol jaguárok és bőgőmajmok élnek. A helyszín viszonylagos elszigeteltsége miatt megőrizte ősi, érintetlen varázsát. Történelem K6 — maja birodalmak és geopolitika.",
+      "factsAdvanced": [
+        "Calakmulban található a maja világ egyik legnagyobb piramisa (II-es struktúra).",
+        "Több mint 6000 épületet azonosítottak a város területén.",
+        "A 'Kígyófej' glifa Calakmul uralkodóinak hatalmát jelképezte.",
+        "A várost 1931-ben fedezték fel repülőgépről a dzsungel sűrűjében.",
+        "Ez Mexikó egyetlen 'vegyes' (kulturális és természeti) Világörökségi helyszíne.",
+        "A területen található sztélék (kőoszlopok) száma meghaladja a 100-at.",
+        "Fénykorában Calakmul lakossága az 50 000 főt is elérhette.",
+        "A környező trópusi erdő Mexikó legnagyobb összefüggő dzsungele."
+      ]
+    },
+    {
+      "id": "coba-history-v2",
+      "descriptionAdvanced": "Cobá egy hatalmas kiterjedésű maja romváros Quintana Roo államban, amely öt tó köré épült a sűrű dzsungelben. Különlegessége a 'sacbe'-k, azaz a fehérre meszelt emelt kőutak kiterjedt hálózata, amelyek közül a leghosszabb több mint 100 kilométerre nyúlik. Cobá legfőbb látványossága a Nohoch Mul piramis, amely 42 méterével az egyik legmagasabb a Yucatán-félszigeten, és azon kevesek közé tartozik, amelyeknek a tetejére még fel szabad mászni. A csúcsról lenyűgöző kilátás nyílik a végtelen zöld erdőre. A város fontos csomópont volt a maja kereskedelmi és vallási hálózatban. Történelem K6 — klasszikus maja korszak és úthálózatok.",
+      "factsAdvanced": [
+        "A Nohoch Mul piramis 120 meredek lépcsőfokon keresztül érhető el.",
+        "Cobá területén több mint 50 emelt utat (sacbe) találtak.",
+        "A város fénykorában (Kr. u. 600-900) több mint 50 000 lakosa volt.",
+        "A romterület olyan nagy, hogy a látogatók gyakran kerékpárral közlekednek.",
+        "Itt található a 'D festmény' nevű sztélé, amely maja dátumokat tartalmaz.",
+        "A város neve maja nyelven 'zavaros vizet' vagy 'nádas vizet' jelent.",
+        "Cobá fontos rituális központ volt az esőisten tiszteletére.",
+        "A romok nagy része még mindig feltáratlanul pihen a dzsungel alatt."
+      ]
+    },
+    {
+      "id": "mitla-history-v2",
+      "descriptionAdvanced": "Mitla az Oaxaca-völgy második legfontosabb régészeti lelőhelye, amely a zapotékok és misztékok vallási központja volt. Neve nahuatl nyelven a 'Halottak helyét' jelenti, utalva a terület spirituális és temetkezési funkciójára. Mitla világhírű egyedülálló geometrikus kőmozaikjairól (grecas), amelyeket kötőanyag nélkül illesztettek össze az épületek homlokzatán. Ez a stílus teljesen eltér a többi mezoamerikai romvárostól, és a miszték kézműves zsenialitást tükrözi. A gyarmati időkben a spanyolok egy templomot építettek közvetlenül az ősi falakra, szimbolizálva a vallási áttérést. Történelem K6 — posztklasszikus kor és miszték művészet.",
+      "factsAdvanced": [
+        "Mitla mozaikjai 14 különböző geometrikus mintát ismételnek.",
+        "Az épületekhez több ezer pontosan faragott kis kőelemet használtak.",
+        "A város a zapoték királyok és főpapok temetkezési helye volt.",
+        "Itt található az 'Oszlopok Csarnoka', amely monumentális monolitokból áll.",
+        "A spanyol Keresztelő Szent János-templom a romok köveiből épült.",
+        "A miszték kultúra Mitlát az alvilág bejáratának tartotta.",
+        "A mozaikminták soha nem ismétlődnek pontosan ugyanúgy az épületeken.",
+        "A régészeti lelőhely az UNESCO Világörökség részét képezi."
+      ]
+    },
+    {
+      "id": "tula-history-v2",
+      "descriptionAdvanced": "Tula, az ősi Tollan, a tolték birodalom titokzatos fővárosa Hidalgo államban, amely a 9. és 12. század között uralta Közép-Mexikót. A város leghíresebb emlékei a Quetzalcoatl-piramis tetején álló 'Atlantok' — négy hatalmas, 4,5 méter magas bazaltszobor, amelyek harcosokat ábrázolnak. Ezek a monumentális alakok egykor a templom tetőszerkezetét tartották. Tula nagy hatással volt a későbbi azték kultúrára, amely a toltékokat tekintette az építészet és a művészetek mestereinek. A romterületen labdajáték-pályák és oszlopcsarnokok is láthatók, amelyek a város egykori dicsőségét hirdetik. Történelem K6 — tolték birodalom és harcos kultúrák.",
+      "factsAdvanced": [
+        "Az Atlantok harcosai pillangó alakú mellvértet és tollas fejdíszt viselnek.",
+        "Tula volt a legendás Quetzalcoatl (Tollas Kígyó) uralkodó hazája.",
+        "A város pusztulását valószínűleg belső konfliktusok és tűzvész okozta.",
+        "A tolték építészet elemei megjelentek a távoli Chichén Itzában is.",
+        "A területen található a 'Coatepantli' (Kígyófal), amely harci jeleneteket ábrázol.",
+        "Tula fénykorában Mexikó egyik legnagyobb népességű városa volt.",
+        "Az Atlantok szobrai eredetileg élénk színekre voltak festve.",
+        "A régészeti park fontos oktatási központ a prekolumbián történelemhez."
+      ]
+    },
+    {
+      "id": "bonampak-history-v2",
+      "descriptionAdvanced": "Bonampak egy elrejtett maja gyöngyszem Chiapas dzsungelében, a Lacandón-erdő mélyén. Világhírét a 'Falfestmények Templomának' köszönheti, ahol az ókori Amerika legjobb állapotban fennmaradt freskói láthatók. A három helyiség falait borító színes festmények hihetetlen részletességgel ábrázolják a maja udvari életet, a csatákat, a rituálékat és az áldozati szertartásokat. Ezek a freskók alapjaiban változtatták meg a tudósok képét a majákról, bebizonyítva, hogy társadalmuk sokkal harciasabb volt, mint korábban hitték. Bonampak ma is csak helyi lacandón vezetők segítségével látogatható. Történelem K6 — maja művészet és hadviselés.",
+      "factsAdvanced": [
+        "A falfestmények Kr. u. 790 körül készültek.",
+        "Bonampak neve maja nyelven 'festett falakat' jelent.",
+        "A freskók több mint ezer évig rejtve maradtak a dzsungel nedvessége elől.",
+        "A képeken több mint 270 emberi alak látható különböző jelenetekben.",
+        "A falfestmények technikája (fresco) és színei (maja kék) egyedülállóak.",
+        "A várost 1946-ban fedezte fel egy amerikai fényképész, Giles Healey.",
+        "A romok egy kis dombon állnak, ahonnan belátni az erdőt.",
+        "Bonampak szoros szövetségben állt a szomszédos Yaxchilán várossal."
+      ]
+    },
+    {
+      "id": "yaxchilan-history-v2",
+      "descriptionAdvanced": "Yaxchilán egy misztikus maja romváros az Usumacinta folyó partján, Chiapas államban, amely csak hajóval érhető el a sűrű dzsungelen keresztül. A város stratégiai helyzete miatt a klasszikus korban a folyami kereskedelem ura volt. Yaxchilán híres finoman faragott kőszemöldökfáiról (lintel), amelyek az uralkodók életét és rituáléit örökítik meg rendkívüli művészi precizitással. A romok között sétálva a bőgőmajmok hangja és az óriási fák gyökerei között megbúvó templomok egy valódi kalandfilm hangulatát idézik. Legfontosabb uralkodója, Pajzs Jaguár, tette a várost a régió hatalmi központjává. Történelem K6 — maja dinasztiák és folyami kereskedelem.",
+      "factsAdvanced": [
+        "A város neve maja nyelven 'zöld köveket' jelent.",
+        "Yaxchilán linteljei (áthidalókövei) a maja hieroglifák egyik legszebb példái.",
+        "A romok eléréséhez 45 perces csónakút szükséges a határfolyón.",
+        "A város akropolisza egy meredek dombtetőn fekszik.",
+        "Yaxchilán híres a labirintus-szerű épületeiről és sötét folyosóiról.",
+        "A legfontosabb épület a 33-as struktúra, amely az uralkodók dicsőségét hirdeti.",
+        "A területen gyakran láthatók egzotikus madarak, például tukánok.",
+        "Yaxchilán a 8. század végén érte el hatalma csúcsát."
+      ]
+    },
+    {
+      "id": "xochicalco-history-v2",
+      "descriptionAdvanced": "Xochicalco, a 'Virágok Háza', egy lenyűgöző erődített romváros Morelos államban, amely Teotihuacán bukása után vált fontos hatalmi központtá. A város egy hegytetőre épült, és híres a Tollas Kígyó Piramisáról, amelynek domborművei különböző mezoamerikai kultúrák hatását tükrözik. Xochicalco különlegessége a földalatti obszervatórium, ahol a napfordulók idején a beeső fénysugár segítségével pontos csillagászati méréseket végeztek. A város kiváló példája a klasszikus kor utáni politikai átrendeződésnek és a tudományos fejlődésnek. 1999 óta az UNESCO Világörökség része. Történelem K6 — csillagászat és erődített városok.",
+      "factsAdvanced": [
+        "Xochicalco obszervatóriumában a nap május közepén merőlegesen süt be a mélybe.",
+        "A Tollas Kígyó Piramisán maja típusú alakok és teotihuacáni motívumok keverednek.",
+        "Itt tartották meg Kr. u. 743-ban a naptárreformról szóló híres találkozót.",
+        "A várost kőfalak és árkok védték a támadásoktól.",
+        "Xochicalco fontos kereskedelmi kapu volt a partvidék és a völgyek között.",
+        "A régészeti területen három hatalmas labdajáték-pálya található.",
+        "A város egyetlen évszázad alatt pusztult el, valószínűleg lázadás következtében.",
+        "A múzeuma Mexikó egyik első teljesen ökológiai építésű múzeuma."
+      ]
+    },
+    {
+      "id": "edzna-history-v2",
+      "descriptionAdvanced": "Edzná Campeche állam egyik legimpozánsabb maja régészeti helyszíne, amely egy hatalmas völgyben fekszik. A város legfőbb ékköve az Ötszintes Palota, amely egyedülálló módon ötvözi a piramis és a lakóépület funkcióit. Edzná híres volt fejlett vízgazdálkodási rendszeréről: a maják kiterjedt csatornahálózatot építettek, hogy összegyűjtsék az esővizet a mezőgazdaság és a városi élet számára. A romok között található a Maszkok Temploma is, ahol két hatalmas, stukkóból készült arc látható, amelyek a Napistent ábrázolják. Edzná csendesebb és kevesebb turistát vonz, mint a yucatáni romok, így bensőségesebb élményt nyújt. Történelem K6 — maja mérnöki tudomány és vízgazdálkodás.",
+      "factsAdvanced": [
+        "Az Ötszintes Palota 40 méter magas és minden szintjén helyiségek találhatók.",
+        "A város csatornarendszere több mint 22 kilométer hosszú volt.",
+        "Edzná neve maja nyelven az 'Itza házát' vagy az 'Ekók házát' jelentheti.",
+        "A várost Kr. e. 400 és Kr. u. 1500 között folyamatosan lakták.",
+        "A Nagy Akropolisz udvaráról lenyűgöző rálátás nyílik a központi térre.",
+        "A Napisten maszkjai eredetileg élénkvörös színűek voltak.",
+        "Itt is látható a Puuk és a Petén építészeti stílus keveredése.",
+        "Esténként fény- és hangjáték mutatja be a város történetét."
+      ]
+    },
+    {
+      "id": "becan-history-v2",
+      "descriptionAdvanced": "Becán egy különleges maja város Campeche államban, a Río Bec régióban, amely nevét a várost körülölelő hatalmas száraz árokról kapta. Ez az árok Mezoamerika egyik legkorábbi védelmi építménye, ami arra utal, hogy a város fontos és támadható katonai központ volt. Becán építészete monumentális, magas tornyokkal és bonyolult belső terekkel, amelyek a régióra jellemző stílust tükrözik. A látogatók bejárhatják a sötét folyosókat és felmászhatnak a piramisok tetejére, ahonnan belátni az egész dzsungelt. A város stratégiai elhelyezkedése miatt fontos ellenőrző pont volt a félsziget kereskedelmi útvonalain. Történelem K6 — védelmi építmények és maja hadviselés.",
+      "factsAdvanced": [
+        "A Becánt körülvevő árok 1,9 kilométer hosszú és átlagosan 5 méter mély.",
+        "A városhoz hét bejárati híd vezetett át az árkon.",
+        "Becán neve maja nyelven 'víz által vájt utat' vagy 'szakadékot' jelent.",
+        "A IX-es számú struktúra a legmagasabb épület, eléri a 32 métert.",
+        "Itt található egy stukkómaszk, amely az éjszakai napot ábrázolja.",
+        "A város Kr. u. 600 és 900 között érte el gazdasági és politikai csúcsát.",
+        "Becán volt a Río Bec régió politikai és vallási fővárosa.",
+        "A romok között sétálva felfedezhetők a rejtett belső udvarok és átjárók."
+      ]
+    },
+    {
+      "id": "kabah-history-v2",
+      "descriptionAdvanced": "Kabah a Puuc-régió második legfontosabb városa Yucatánban, közvetlenül az Ezüstút mentén, Uxmal szomszédságában. Leghíresebb épülete a 'Maszkok Palotája' (Codz Poop), amelynek homlokzatát több mint 250 faragott kőmaszk díszíti, melyek mind Chaac-ot, az esőistent ábrázolják. Ez a dekoratív bőség a Puuc stílus egyik legextrémebb és legszebb példája. Kabah-t egy emelt maja út (sacbe) kötötte össze Uxmalli-lal, amit a város bejáratánál álló monumentális boltív jelzett. Bár kisebb, mint híres szomszédja, művészi részletgazdagsága miatt elengedhetetlen a maja kultúra megismeréséhez. Történelem K6 — Puuc stílus és rituális építészet.",
+      "factsAdvanced": [
+        "A Codz Poop név maja nyelven 'felgöngyölt gyékényt' jelent, utalva Chaac orrára.",
+        "A palota homlokzatán minden maszk egyedi, apró részletekben eltérnek.",
+        "Kabah az egyik legtisztább példája a klasszikus maja kor végi építészetnek.",
+        "Itt található egy monumentális boltív, amely a sacbe út kiindulópontja volt.",
+        "A város neve jelentheti 'az erős kezet' vagy 'azt, aki farag'.",
+        "Az épületek falain gyakran láthatók hieroglifák és uralkodói ábrázolások.",
+        "Kabah fontos mezőgazdasági központ volt, hatalmas ciszternákkal az esővíznek.",
+        "A romok egy része az országút túloldalán fekszik, kevésbé látogatott területen."
+      ]
+    },
+    {
+      "id": "la-venta-history-v2",
+      "descriptionAdvanced": "La Venta az olmék civilizáció — Mezoamerika 'anyaműveltségének' — legfontosabb szertartási központja volt Tabasco államban. A mocsaras vidéken épült város híres monumentális bazalt szobrairól, különösen az óriás kőfejekről, amelyek az olmék uralkodókat ábrázolják. Itt található Amerika egyik legrégebbi piramisa is, amely egy kialudt vulkánt formáz. Mivel az eredeti helyszínt az olajipar veszélyeztette, a legfontosabb leleteket Villahermosába szállították, ahol ma a La Venta Park-Múzeumban láthatók egy trópusi dzsungelkörnyezetben. La Venta alapozta meg a későbbi maja és azték kultúrák vallási és művészeti világát. Történelem K6 — olmék civilizáció és az első városok.",
+      "factsAdvanced": [
+        "La Venta Kr. e. 900 és 400 között volt az olmékok fővárosa.",
+        "A kőfejek súlya elérheti a 20-40 tonnát is.",
+        "A bazaltot több mint 100 kilométeres távolságból szállították ide a Tuxtla-hegységből.",
+        "Itt találták az első mezoamerikai mozaikpadlókat és áldozati felajánlásokat.",
+        "A központi piramis 34 méter magas és agyagból épült.",
+        "La Venta várostervezése már követte a csillagászati tengelyeket.",
+        "A leletek között szerepelnek finom jáde faragványok és rituális oltárok.",
+        "A park-múzeumban a szobrok pontosan olyan elrendezésben láthatók, mint az eredeti helyen."
+      ]
+    },
+    {
+      "id": "cerro-de-las-mesas-history-v2",
+      "descriptionAdvanced": "Cerro de las Mesas egy fontos régészeti lelőhely Veracruz államban, amely az olmék és a későbbi klasszikus kultúrák közötti átmenetet képviseli. A város a Kr. e. 600 és Kr. u. 900 közötti időszakban virágzott, és fontos központja volt az epiolmék kultúrának. Híres gazdag sztélé-gyűjteményéről (kőoszlopok), amelyek korai írásjeleket és naptári dátumokat tartalmaznak, segítve a kutatókat a mezoamerikai írás fejlődésének megértésében. A területen hatalmas földhalmok és piramisok maradványai találhatók, amelyek egykor egy népes vallási és közigazgatási központot alkottak. Történelem K6 — epiolmék kultúra és írásbeliség.",
+      "factsAdvanced": [
+        "Itt találták Mexikó egyik legnagyobb jádekincs-leletét, több mint 800 darabbal.",
+        "A 6-os számú sztélé az egyik legkorábbi pontos naptári dátumot hordozza.",
+        "A helyszín nevét a tetejükön lapos földhalmokról kapta (Mesas).",
+        "A város fontos szerepet játszott a távolsági kereskedelemben a felföldek és a part között.",
+        "Cerro de las Mesas a klasszikus Veracruz-stílus egyik előfutára volt.",
+        "A domborművek gyakran ábrázolnak rituális maszkokat viselő uralkodókat.",
+        "A terület nagy része ma magánkézben van és mezőgazdasági művelés alatt áll.",
+        "A leletek nagy része a Mexikóvárosi Antropológiai Múzeumban és Xalapában látható."
+      ]
+    },
+    {
+      "id": "san-lorenzo-tenochtitlan-history-v2",
+      "descriptionAdvanced": "San Lorenzo Tenochtitlán az olmék civilizáció legkorábbi és egyik leghatalmasabb központja Veracruz államban. Kr. e. 1200 körül emelkedett ki, mint Mezoamerika első igazi politikai és gazdasági központja. A város egy hatalmas, mesterségesen megemelt földteraszon feküdt, ahol az olmékok monumentális bazaltszobrokat, köztük a híres óriás kőfejeket állították fel. San Lorenzo úttörő volt a vízelvezetési rendszerek és a közösségi építészet terén is. Bár a város Kr. e. 900 körül hanyatlásnak indult, az itt kialakult művészeti és vallási formák alapvetően meghatározták Mexikó minden későbbi civilizációját. Történelem K6 — az olmékok felemelkedése és az első metropoliszok.",
+      "factsAdvanced": [
+        "Itt találták meg a valaha felfedezett 17 olmék kőfej közül az első tizet.",
+        "A város egy 50 méter magas, ember alkotta földteraszon épült.",
+        "Itt működött Mezoamerika első bonyolult kőcsatornarendszere.",
+        "San Lorenzo fénykorában több mint 10 000 embernek adott otthont.",
+        "A bazaltszobrok súlya gyakran meghaladta a 25 tonnát.",
+        "A város gazdasága a termékeny folyóparti mezőgazdaságra épült.",
+        "A szobrok nagy részét szándékosan rongálták meg vagy temették el a város elhagyásakor.",
+        "A helyszín ma is fontos kutatási terület az amerikai civilizáció hajnaláról."
+      ]
+    },
+    {
+      "id": "el-rey-history-v2",
+      "descriptionAdvanced": "El Rey egy kis, de jelentős maja régészeti lelőhely Cancún szállodasorának szívében. A romok a késő posztklasszikus korból származnak, és egy fontos halászati és tengeri kereskedelmi állomást képviselnek. A helyszín nevét ('A Király') egy ott talált kőszoborról kapta, amely egy uralkodót vagy istenséget ábrázol. El Rey különlegessége, hogy a modern luxusszállodák és strandok gyűrűjében őrizte meg az ősi múlt egy darabját. A terület ma nemcsak a romokról, hanem a rajtuk sütkérező több száz barátságos leguánról is híres, amelyek a helyszín nem hivatalos őrzőivé váltak. Földrajz K7 — maja tengerparti élet és turizmus.",
+      "factsAdvanced": [
+        "A romterületen 47 kisebb-nagyobb kőépítmény maradványa látható.",
+        "El Rey fontos vallási és temetkezési hely is volt a helyi maja közösség számára.",
+        "A romok a 13. és 16. század között voltak lakottak.",
+        "Ez a legnagyobb és legfontosabb régészeti terület Cancún belvárosában.",
+        "A látogatók közvetlenül a szállodasoron (Zona Hotelera) sétálhatnak be a múltba.",
+        "Híres a falfestményeiről, amelyek részben még láthatók egyes épületeken.",
+        "A leguánok populációja itt a legsűrűbb az egész régióban.",
+        "A romoktól sétatávolságra található a Cancúni Maja Múzeum."
+      ]
+    },
+    {
+      "id": "dzibilchaltun-history-v2",
+      "descriptionAdvanced": "Dzibilchaltún egy ősi maja város Yucatán északi részén, Mérida közelében, amelynek története több mint kétezer évet ölel át. Legismertebb épülete a Hét Baba Temploma, amely nevét a benne talált hét kis agyagfiguráról kapta. A templom különlegessége a csillagászati tájolása: a napéjegyenlőségek idején a felkelő nap fénye pontosan áthalad a templom kapuin, lenyűgöző fényjelenséget hozva létre. Dzibilchaltún területén található a kristálytiszta vizű Xlacah cenote is, amely rituális és ivóvízforrásként szolgált a lakók számára. A város fontos központja volt a sókereskedelemnek is. Történelem K6 — maja csillagászat és napéjegyenlőségek.",
+      "factsAdvanced": [
+        "Dzibilchaltún neve maja nyelven 'hely, ahol írás van a köveken'.",
+        "A Hét Baba Templomának fényjelensége minden évben ezreket vonz.",
+        "A Xlacah cenote több mint 40 méter mély, és sok maja felajánlást találtak benne.",
+        "A várost Kr. e. 500-tól egészen a spanyolok érkezéséig lakták.",
+        "Itt található egy 16. századi spanyol nyitott kápolna is a romok között.",
+        "Dzibilchaltún egykor több mint 40 000 lakosnak adott otthont.",
+        "A területen található egy kis múzeum is, ahol a hét babát őrzik.",
+        "A város közel fekszik a tengerparthoz, ami segítette a sókereskedelmet."
+      ]
+    },
+    {
+      "id": "mayapan-history-v2",
+      "descriptionAdvanced": "Mayapán volt az utolsó nagy maja főváros Yucatánban a 13. és 15. század között, Chichén Itzá hanyatlása után. A várost gyakran 'Maja zászlónak' vagy Chichén Itzá utánzatának nevezik, mert fő piramisa (Kukulka piramis) kísértetiesen hasonlít híres elődjére, csak kisebb méretben. Mayapán volt a Cocom-dinasztia székhelye és egy erős konföderáció központja, amíg egy belső lázadás el nem pusztította. A város különlegessége a sűrű beépítettség és a hatalmas várfal, amely az egész várost körülvette a támadások ellen. Mayapán ma sokkal csendesebb és felfedezhetőbb, mint a népszerűbb romvárosok. Történelem K6 — a maja civilizáció alkonya és belső konfliktusok.",
+      "factsAdvanced": [
+        "Mayapánban több mint 4000 épület található egy fallal körülvett területen.",
+        "A város fala 9 kilométer hosszú és több kapuval rendelkezik.",
+        "Fénykorában Mayapán lakossága elérte a 12 000 főt.",
+        "A Kukulka piramis (Castillo) itt is a csillagászati ciklusokat jelképezi.",
+        "A várost egy 1441-es lázadás során gyújtották fel és hagyták el.",
+        "Híres a kerek obszervatóriumáról és a finom falfestményeiről.",
+        "Mayapán politikai rendszere a különböző maja klánok szövetségén alapult.",
+        "A romok között sétálva jól megfigyelhető a késői maja kor építészeti stílusa."
+      ]
+    },
+    {
+      "id": "ek-balam-history-v2",
+      "descriptionAdvanced": "Ek' Balam, a 'Fekete Jaguár', egy látványos maja régészeti lelőhely Yucatán északi részén, amely az utóbbi években vált népszerűvé kiváló állapotban maradt díszítései miatt. A város központja az Akropolisz, a Yucatán-félsziget egyik legnagyobb maja építménye, amelynek oldalában egy hatalmas, szörnyetegszájat formázó bejárat található, stukkóból faragott angyalszerű harcosokkal. Ezek a stukkók egyedülállóak, mivel máshol a majáknál ritkán maradtak meg ilyen épségben. Ek' Balam fénykorában egy gazdag és hatalmas királyság központja volt, amit a dupla városfal is bizonyít. Történelem K6 — maja stukkóművészet és akropoliszok.",
+      "factsAdvanced": [
+        "Az Akropolisz 32 méter magas és több mint 150 méter hosszú.",
+        "A 'Fekete Jaguár' név valószínűleg a város alapító uralkodójára utal.",
+        "A stukkódíszítéseket egy védőtető óvja az esőtől és a naptól.",
+        "Ek' Balam fontos vallási központ volt a klasszikus kor végén.",
+        "A város területén két labdajáték-pálya és egy monumentális boltív is látható.",
+        "A romokról tiszta időben ellátni egészen Cobáig és Chichén Itzáig.",
+        "Itt találták meg Ukit Kan Le'k Tok' király gazdag sírkamráját.",
+        "A romok mellett egy gyönyörű cenote (Xcanche) várja a látogatókat."
+      ]
+    },
+    {
+      "id": "chapultepec-castle-history-v2",
+      "descriptionAdvanced": "A Chapultepec kastély Mexikóváros egyik legfontosabb történelmi emlékműve, amely a Chapultepec-erdő dombján, egy ősi azték szent helyen magasodik. Ez az egyetlen valódi királyi kastély Észak-Amerikában, amely egykor I. Miksa mexikói császár és felesége, Sarolta rezidenciája volt, később pedig az ország elnöki palotájaként szolgált. Ma a kastély a Nemzeti Történeti Múzeumnak ad otthont, ahol Mexikó történelmét mutatják be a spanyol hódítástól a forradalomig. Pompás kertjei, márványtermei és a városra nyíló lélegzetelállító panoráma miatt a főváros egyik leglátogatottabb helyszíne. Történelem K8 — mexikói császárság és független köztársaság.",
+      "factsAdvanced": [
+        "A kastély építése 1785-ben kezdődött Bernardo de Gálvez alkirály parancsára.",
+        "Itt vívták a mexikói-amerikai háború utolsó nagy csatáját 1847-ben.",
+        "A 'Niños Héroes' (Hősfiúk) kadétok emléke szorosan kötődik a helyszínhez.",
+        "Miksa császár innen terveztette meg a Paseo de la Reforma sugárutat.",
+        "A kastély kertjeiben európai stílusú teraszok és szökőkutak találhatók.",
+        "A belső falakat Siqueiros és O'Gorman monumentális freskói díszítik.",
+        "Itt volt Mexikó első asztrofizikai obszervatóriuma is.",
+        "A kastély szerepelt a 'Rómeó + Júlia' című 1996-os filmben is."
+      ]
+    },
+    {
+      "id": "palacio-de-bellas-artes-history-v2",
+      "descriptionAdvanced": "A Palacio de Bellas Artes (Szépművészeti Palota) Mexikóváros legfontosabb kulturális központja és egyik legszebb építészeti remekműve. Az épület a neoklasszicista és szecessziós külső, valamint a lenyűgöző art deco belső stílus egyedülálló keveréke. A 20. század elején kezdték építeni, és ma Mexikó leghíresebb operaházának, koncerttermének és múzeumának ad otthont. Falait a 'három nagy' mexikói falfestő — Rivera, Siqueiros és Orozco — monumentális művei díszítik. A palota híres üvegfüggönyéről is, amely a Tiffany stúdióban készült, és a mexikói vulkánokat ábrázolja. Művészettörténet K8 — mexikói muralizmus és art deco.",
+      "factsAdvanced": [
+        "A palota annyira nehéz a márványtól, hogy folyamatosan süllyed a város puha talajába.",
+        "Az épület tetejét színes kristálykupola díszíti.",
+        "Itt található Diego Rivera híres 'Az ember az útkereszteződésben' című freskója.",
+        "Az előadóterem kristályfüggönye több mint egy millió darabból áll.",
+        "A palota építése 30 évig tartott a forradalom miatti megszakításokkal.",
+        "Itt búcsúztatták Mexikó legfontosabb művészeit, köztük Frida Kahlót is.",
+        "A palota homlokzatát carrarai fehér márvány borítja.",
+        "Minden héten itt lép fel a világhírű Mexikói Népi Balett (Ballet Folklórico)."
+      ]
+    },
+    {
+      "id": "hospicio-cabanas-history-v2",
+      "descriptionAdvanced": "A Hospicio Cabañas Guadalajara egyik legfontosabb kulturális emlékműve, amely eredetileg a 19. század elején épült árvaházként és kórházként. Az épületegyüttes a neoklasszicista építészet remekműve, hatalmas udvaraival és oszlopsoraival. Világhírét azonban José Clemente Orozco falfestményeinek köszönheti, különösen a kápolna kupolájában látható 'Lángoló ember' (Hombre de Fuego) című művének, amely a mexikói muralizmus csúcspontja. Az UNESCO 1997-ben nyilvánította a Világörökség részévé. Ma a komplexum kulturális központként működik, kiállításoknak és művészeti iskoláknak adva otthont. Művészettörténet K8 — mexikói muralizmus és neoklasszicizmus.",
+      "factsAdvanced": [
+        "A Hospicio Cabañas 23 belső udvarral rendelkezik.",
+        "Orozco 57 monumentális freskót festett az épület falaira és mennyezetére.",
+        "A 'Lángoló ember' freskó a spanyol hódítás és a modern kor drámáját jelképezi.",
+        "Az épületet Juan Cruz de Ruiz de Cabañas püspök alapította 1791-ben.",
+        "Építésze Manuel Tolsá, Mexikó leghíresebb neoklasszicista építésze volt.",
+        "A komplexum több mint 150 évig működött szociális intézményként.",
+        "A kápolna akusztikája és fényei különleges atmoszférát teremtenek.",
+        "Ez az egyik legrégebbi és legnagyobb jótékonysági komplexum Amerikában."
+      ]
+    }
+  ]
+}

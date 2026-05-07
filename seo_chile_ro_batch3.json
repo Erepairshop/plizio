@@ -1,0 +1,46 @@
+{
+  "lang": "ro",
+  "country": "chile",
+  "files": [
+    "lib/visualLab/data/poiExtraChileLifeV2.ts",
+    "lib/visualLab/data/poiExtraChileNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cl-zoologico-nacional-life-v2",
+      "descriptionAdvanced": "Grădina Zoologică Națională din Chile, situată pe dealul San Cristóbal din Santiago, este o instituție dedicată educației, conservării și cercetării speciilor native și exotice. Acesta joacă un rol crucial în programele de reintroducere a animalelor în habitatul lor natural, oferind totodată publicului o oportunitate rară de a învăța despre biodiversitatea locală. Grădina este amenajată într-un mod care respectă topografia dealului, oferind vizitatorilor nu doar o experiență educativă, ci și vederi panoramice spectaculoase asupra orașului. Este un hub educativ esențial pentru tineri și pasionați de biologie. Științe ale Naturii K5 — biodiversitate și conservare.",
+      "factsAdvanced": [
+        "Locație: Dealul San Cristóbal, Santiago",
+        "Rol: Conservare și educație",
+        "Specie: Native și exotice",
+        "Infrastructură: Adaptată topografiei",
+        "Activitate: Programe de reintroducere",
+        "Peisaj: Vederi panoramice"
+      ]
+    },
+    {
+      "id": "parque-nacional-lauca-nature-v2",
+      "descriptionAdvanced": "Parcul Național Lauca, situat la mare altitudine în Anzii nordici, este un ecosistem unic de tip 'altiplano', dominat de lacul Chungará și vulcanii din apropiere. Această zonă protejată găzduiește o faună specifică zonelor alpine, precum vicuñas, alpaca și numeroase specii de păsări endemice, fiind un punct de interes pentru ornitologi și pasionați de fotografie. Peisajul este marcat de bofedales (zone umede de mare altitudine) care sunt vitale pentru supraviețuirea speciilor în mediul arid și rece al Anzilor. Lauca reprezintă un ecosistem extrem de fragil și spectaculos, esențial pentru înțelegerea adaptării biologice la altitudine. Geografie K7 — ecosisteme alpine.",
+      "factsAdvanced": [
+        "Altitudine: Mare (Altiplano)",
+        "Repere: Lacul Chungará, vulcani",
+        "Faună: Vicuñas, alpaca, păsări endemice",
+        "Specific: Bofedales (zone umede)",
+        "Mediu: Alpin, arid și rece",
+        "Importanță: Ecosistem fragil"
+      ]
+    },
+    {
+      "id": "parque-nacional-torres-del-paine-nature-v2",
+      "descriptionAdvanced": "Parcul Național Torres del Paine, bijuteria Patagoniei chiliene, impresionează prin masivele sale granitiene, ghețarii activi și vastele lacuri glaciare. Acesta reprezintă un exemplu remarcabil de reziliență ecologică și biodiversitate sud-patagonică, fiind gazda unor specii simbolice precum puma și guanaco. Parcul este o destinație globală pentru conservarea naturii și ecoturism, oferind un studiu fascinant despre glaciațiune și modelarea peisajului terestru în ultimele ere geologice. Traseele sale montane complexe sunt provocări pentru aventurieri, dar și puncte de observație privilegiate pentru geologi. Geografie K8 — formarea reliefului și ecologie.",
+      "factsAdvanced": [
+        "Regiune: Patagonia chiliană",
+        "Relief: Turnuri granitiene",
+        "Proces: Glaciațiune activă",
+        "Faună: Pume, guanacos",
+        "Statut: Rezervație UNESCO",
+        "Activitate: Cercetare ecologică"
+      ]
+    }
+  ]
+}

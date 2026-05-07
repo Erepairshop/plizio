@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kisumu-cities-v2",
+      "descriptionAdvanced": "Kisumu, am Ufer des riesigen Viktoriasees gelegen, ist die drittgrößte Stadt Kenias und ein wichtiges wirtschaftliches Zentrum in der westlichen Region des Landes. Ursprünglich im Jahr 1901 unter dem Namen Port Florence als Endstation der Uganda-Bahn gegründet, hat sich die Stadt zu einem dynamischen Handelsknotenpunkt entwickelt. Der Hafen von Kisumu ist ein entscheidender Umschlagplatz für den internationalen Binnenhandel mit den Nachbarländern Uganda und Tansania. Neben der Fischereiindustrie, insbesondere dem Nilbarsch, ist die Region auch für die Landwirtschaft bekannt. Kulturell ist Kisumu das Zentrum der Luo-Gemeinschaft. Besucher zieht es oft zum Kisumu Impala Sanctuary oder in das Kisumu Museum, das die reiche lokale Geschichte und Naturgeschichte dokumentiert. Diese Stadt verbindet städtisches Wachstum mit der Nähe zu bedeutenden Naturräumen (Geografie K7).",
+      "factsAdvanced": [
+        "Die Stadt wurde 1901 als Port Florence gegründet.",
+        "Kisumu ist mit etwa 500.000 Einwohnern die drittgrößte Stadt Kenias.",
+        "Sie liegt auf einer Höhe von rund 1.131 Metern über dem Meeresspiegel.",
+        "Der Hafen von Kisumu ist der wichtigste kenianische Hafen am Viktoriasee.",
+        "Das 1992 eröffnete Kisumu Impala Sanctuary schützt bedrohte Wildtiere.",
+        "Kisumu ist das kulturelle und wirtschaftliche Zentrum der Luo-Bevölkerung."
+      ]
+    },
+    {
+      "id": "nakuru-cities-v2",
+      "descriptionAdvanced": "Nakuru liegt im faszinierenden Großen Afrikanischen Grabenbruch und ist die viertgrößte Stadt Kenias sowie die Hauptstadt des gleichnamigen Nakuru Countys. Die Stadt ist vor allem als Ausgangspunkt für den berühmten Lake-Nakuru-Nationalpark bekannt, der 1961 gegründet wurde und weltweite Berühmtheit für seine riesigen Populationen von Zwergflamingos erlangte. Nakuru wuchs historisch als wichtiges Agrar- und Landwirtschaftszentrum, insbesondere während der Kolonialzeit in den "White Highlands". Heute ist es ein lebendiger Knotenpunkt für Handel, Bildung und Tourismus. Etwas außerhalb der Stadt befindet sich der Menengai-Krater, ein massiver Schildvulkan mit einer 90 Quadratkilometer großen Caldera, der ebenfalls viele Besucher anzieht. Die Region bietet hervorragende Beispiele für vulkanische Aktivitäten und Ökosysteme im Rift Valley (Geografie K8).",
+      "factsAdvanced": [
+        "Nakuru liegt im Großen Afrikanischen Grabenbruch auf 1.850 Metern Höhe.",
+        "Die Stadt hat sich zu der viertgrößten städtischen Siedlung Kenias entwickelt.",
+        "Der nahegelegene Lake-Nakuru-Nationalpark wurde 1961 etabliert.",
+        "Der Menengai-Krater nördlich der Stadt ist einer der größten Vulkankrater der Welt.",
+        "Nakuru war historisch das Zentrum des europäischen Siedlungsgebietes in Kenia.",
+        "Im Nationalpark leben bedeutende Populationen von Spitzmaulnashörnern."
+      ]
+    },
+    {
+      "id": "eldoret-cities-v2",
+      "descriptionAdvanced": "Eldoret, die fünftgrößte Stadt Kenias und Hauptstadt des Uasin Gishu Countys, liegt malerisch in den fruchtbaren Hügeln des Rift Valley auf über 2.000 Metern Höhe. Diese Höhenlage in Verbindung mit dem milden Klima bietet nicht nur exzellente Bedingungen für die Landwirtschaft, sondern hat die Stadt auch weltweit als Heimat der kenianischen Langstreckenläufer berühmt gemacht. Zahlreiche Olympiasieger und Weltmeister stammen aus dieser Region oder trainieren in den zahlreichen High-Altitude-Trainingscamps rund um die Stadt. Wirtschaftlich ist Eldoret ein Zentrum für Textilindustrie, Weizen- und Maisanbau sowie die Milchproduktion. Die Stadt entwickelte sich ursprünglich nach 1910 aus einer Farm für südafrikanische Siedler und beherbergt heute die renommierte Moi University, eine der wichtigsten Bildungseinrichtungen des Landes (Sport & Geografie K6).",
+      "factsAdvanced": [
+        "Eldoret liegt auf einer beachtlichen Höhe von rund 2.100 Metern.",
+        "Die Stadt ist international als Zentrum der kenianischen Langstreckenläufer bekannt.",
+        "Sie wurde 1910 als Farm Nummer 64 von südafrikanischen Siedlern gegründet.",
+        "Eldoret beherbergt den internationalen Flughafen Eldoret International Airport (gegründet 1995).",
+        "Die Moi University in Eldoret wurde 1984 als zweite Universität Kenias eröffnet.",
+        "Die Region Uasin Gishu ist als "Kornkammer Kenias" bekannt."
+      ]
+    },
+    {
+      "id": "thika-cities-v2",
+      "descriptionAdvanced": "Thika ist eine bedeutende Industriestadt im Kiambu County, die etwa 40 Kilometer nordöstlich von Kenias Hauptstadt Nairobi liegt. Die Stadt erlangte internationale Bekanntheit unter anderem durch Elspeth Huxleys berühmtes Buch "Die Flammenbäume von Thika". Wirtschaftlich ist Thika ein Schwergewicht in Kenia: Hier befinden sich große Fabriken für die Textil-, Fahrzeugmontage- und Lebensmittelindustrie. Besonders berühmt ist die Stadt für den Anbau und die Verarbeitung von Ananas durch das Unternehmen Del Monte Kenya, das Tausende Hektar Land bewirtschaftet. Geografisch liegt Thika an den malerischen Chania Falls und dem Thika River, die als wichtige Wasserquellen dienen. Mit dem Ausbau der Thika-Superhighway ist die Stadt noch stärker mit dem Großraum Nairobi verschmolzen (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Thika liegt etwa 40 Kilometer nordöstlich des Stadtzentrums von Nairobi.",
+        "Die Stadt ist eines der wichtigsten Industriezentren Kenias.",
+        "Die Ananasplantagen von Del Monte umfassen hier über 4.000 Hektar Land.",
+        "Der berühmte Chania-Wasserfall liegt direkt am Rande der Stadt.",
+        "Der Bau des Thika Superhighway wurde 2012 abgeschlossen und verbesserte die Infrastruktur enorm.",
+        "Elspeth Huxley beschrieb die Stadt in ihrem 1959 erschienenen Buch "The Flame Trees of Thika"."
+      ]
+    },
+    {
+      "id": "malindi-cities-v2",
+      "descriptionAdvanced": "Malindi ist eine historische Küstenstadt in Kenia, die eine faszinierende Mischung aus alter Swahili-Kultur und modernem Tourismus bietet. Bereits im 13. Jahrhundert war Malindi eine wohlhabende Handelsniederlassung. Als der portugiesische Entdecker Vasco da Gama 1498 hier landete, wurde er freundlich empfangen, und er errichtete ein Korallenkreuz, die Vasco-da-Gama-Säule, die noch heute an der Küste steht und ein bedeutendes Wahrzeichen ist. Heute ist die Stadt für ihre weißen Sandstrände, luxuriösen Resorts und den Malindi Marine National Park bekannt, der ein beliebtes Ziel für Taucher und Schnorchler ist. Die starke Präsenz italienischer Investoren und Touristen hat der Stadt den Spitznamen "Little Italy" in Kenia eingebracht. Die Architektur der Altstadt spiegelt die jahrhundertelangen Einflüsse aus dem Oman, Portugal und der lokalen Swahili-Kultur wider (Geschichte K7).",
+      "factsAdvanced": [
+        "Vasco da Gama besuchte Malindi im Jahr 1498 auf seinem Weg nach Indien.",
+        "Die Vasco-da-Gama-Säule aus Korallenstein ist eines der ältesten europäischen Bauwerke in Afrika.",
+        "Malindi war im 15. Jahrhundert ein wichtiger Konkurrent der Nachbarstadt Mombasa.",
+        "Der Malindi Marine National Park wurde 1968 als ältester Meeresnationalpark Afrikas gegründet.",
+        "Die Stadt hat eine signifikante italienische Gemeinschaft, was sich in Gastronomie und Tourismus zeigt.",
+        "Etwa 16 km südlich von Malindi liegen die historischen Gedi-Ruinen."
+      ]
+    },
+    {
+      "id": "kitale-cities-v2",
+      "descriptionAdvanced": "Kitale, gelegen im westlichen Kenia zwischen Mount Elgon und den Cherangani-Hills, ist das administrative und kommerzielle Zentrum des Trans-Nzoia Countys. Die Stadt wurde 1920 von europäischen Siedlern gegründet und entwickelte sich schnell zu einem der wichtigsten landwirtschaftlichen Knotenpunkte des Landes. Die fruchtbaren Böden und das gemäßigte Klima machen die Region zu einem Hauptproduktionsgebiet für Mais, Sonnenblumen, Bohnen und Milchprodukte. Für Besucher ist Kitale ein hervorragender Ausgangspunkt für Expeditionen in den Mount Elgon Nationalpark oder den Saiwa Swamp Nationalpark, der als kleinster Nationalpark Kenias bekannt ist und die seltene Sitatunga-Antilope beheimatet. In Kitale befindet sich auch das Kitale Museum, das sich intensiv mit den ethnografischen und naturgeschichtlichen Besonderheiten Westkenias beschäftigt (Biologie K7).",
+      "factsAdvanced": [
+        "Kitale wurde 1920 während der britischen Kolonialzeit offiziell gegründet.",
+        "Die Stadt liegt auf einer Höhe von rund 1.900 Metern über dem Meeresspiegel.",
+        "Sie ist die Hauptstadt des für seine Agrarproduktion bekannten Trans-Nzoia Countys.",
+        "In der Nähe befindet sich der Saiwa Swamp Nationalpark, Kenias kleinster Nationalpark.",
+        "Das Kitale Museum wurde 1926 gegründet und ist das erste inländische Museum in Kenia.",
+        "Die Region ist ein Hauptanbaugebiet für den Großteil des in Kenia konsumierten Maises."
+      ]
+    },
+    {
+      "id": "garissa-cities-v2",
+      "descriptionAdvanced": "Garissa ist die Hauptstadt des Garissa Countys und ein wesentlicher urbaner Knotenpunkt im semiariden Nordosten Kenias. Die Stadt liegt strategisch günstig am Ostufer des Tana-Flusses, des längsten Flusses in Kenia, der als lebenswichtige Wasserquelle für diese ansonsten trockene Region dient. Die Bevölkerung von Garissa ist vorwiegend somalischer Abstammung, was der Stadt eine ausgeprägte kulturelle Prägung in Sprache, Traditionen und Handel verleiht. Wirtschaftlich stützt sich die Stadt stark auf die nomadische und semi-nomadische Viehwirtschaft, wobei große Märkte für Kamele, Rinder und Ziegen eine zentrale Rolle spielen. In der Nähe befindet sich das Bour-Algi-Giraffen-Schutzgebiet, das die seltene Netzgiraffe beheimatet und ökologisch von großer Bedeutung ist (Geografie K8).",
+      "factsAdvanced": [
+        "Garissa liegt am Tana River, dem mit 1.000 Kilometern längsten Fluss Kenias.",
+        "Die Region um Garissa zeichnet sich durch ein semiarides Wüstenklima aus.",
+        "Die Stadt ist das wirtschaftliche Zentrum der Nordost-Provinz Kenias.",
+        "Der Viehhandel, besonders mit Kamelen und Ziegen, ist der Hauptwirtschaftszweig.",
+        "Nahe Garissa befindet sich das Bour-Algi-Giraffen-Schutzgebiet.",
+        "Im Jahr 2015 geriet die Stadt durch den Terroranschlag auf die Universität Garissa weltweit in die Schlagzeilen."
+      ]
+    },
+    {
+      "id": "kakamega-cities-v2",
+      "descriptionAdvanced": "Kakamega, die Hauptstadt des gleichnamigen Kakamega Countys, liegt im Westen Kenias und ist untrennbar mit dem berühmten Kakamega-Wald verbunden. Dieser Wald ist der letzte verbliebene Überrest des einst riesigen guineo-kongolesischen Regenwaldes in Ostafrika und bietet eine unvergleichliche Biodiversität, darunter viele endemische Vogel-, Insekten- und Primatenarten. Die Stadt selbst entwickelte sich in den 1930er Jahren infolge des Kakamega-Goldrausches sprunghaft, als europäische Goldsucher in die Region strömten. Heute ist Kakamega das kulturelle Zentrum der Luhya-Gemeinschaft. Ein weiteres bekanntes Wahrzeichen in der Nähe ist der "Crying Stone of Ilesi", eine markante Felsformation, die aufgrund von abfließendem Wasser wie ein weinendes Gesicht aussieht und tief in der lokalen Mythologie verwurzelt ist (Geografie & Biologie K7).",
+      "factsAdvanced": [
+        "In den frühen 1930er Jahren erlebte Kakamega einen großen Goldrausch.",
+        "Die Stadt ist das Tor zum Kakamega Forest Reserve, dem letzten äquatorialen Regenwald Kenias.",
+        "Kakamega ist das kulturelle und administrative Zentrum der Luhya-Bevölkerung.",
+        "Der Crying Stone (Ikhonga Murwi) in Ilesi ist ein 40 Meter hoher, sagenumwobener Felsen.",
+        "Die Region verzeichnet einige der höchsten jährlichen Niederschlagsmengen in Kenia.",
+        "Die Masinde Muliro University of Science and Technology hat hier ihren Hauptsitz."
+      ]
+    },
+    {
+      "id": "nyeri-cities-v2",
+      "descriptionAdvanced": "Nyeri ist eine historisch und landwirtschaftlich bedeutende Stadt im zentralen Hochland von Kenia und dient als Hauptstadt des Nyeri Countys. Die Stadt liegt malerisch am Fuße der Aberdare-Bergkette und unweit der Hänge des mächtigen Mount Kenya. Gegründet 1902 als britischer Kolonialposten, bewahrt Nyeri viel von seinem historischen Charme. Bekannt ist Nyeri als die letzte Ruhestätte von Lord Robert Baden-Powell, dem Gründer der weltweiten Pfadfinderbewegung, dessen Grabstätte jährlich Pilger aus aller Welt anzieht. Auch die berühmte kenianische Friedensnobelpreisträgerin Wangari Maathai wurde in dieser Region geboren. Wirtschaftlich dominiert in der Umgebung der Anbau von erstklassigem Arabica-Kaffee und Tee, die in den kühlen, fruchtbaren Hochebenen exzellent gedeihen (Geschichte K8).",
+      "factsAdvanced": [
+        "Nyeri wurde im Dezember 1902 während der britischen Kolonialzeit gegründet.",
+        "Die Stadt liegt auf einer Höhe von 1.750 Metern im fruchtbaren Hochland.",
+        "Lord Robert Baden-Powell, Gründer der Pfadfinder, starb 1941 in Nyeri und ist hier begraben.",
+        "Die Region Nyeri gilt als Heimat der Friedensnobelpreisträgerin Wangari Maathai.",
+        "In der Nähe liegt das berühmte Outspan Hotel sowie das Treetops Hotel im Aberdare-Nationalpark.",
+        "Die umliegenden Farmen produzieren einige der besten Kaffeesorten der Welt."
+      ]
+    },
+    {
+      "id": "machakos-cities-v2",
+      "descriptionAdvanced": "Machakos, benannt nach dem Kamba-Häuptling Masaku, ist eine der ältesten Verwaltungsstädte Kenias. Sie wurde bereits 1887, ein volles Jahrzehnt vor der Gründung von Nairobi, von der Imperial British East Africa Company als erster britischer Verwaltungsposten im Binnenland gegründet. Bis 1899 diente Machakos sogar als Hauptstadt des britischen Protektorats, bevor Nairobi diese Rolle übernahm. Heute ist Machakos die pulsierende Hauptstadt des Machakos Countys und ein wichtiges wirtschaftliches Zentrum, das sich durch seine Nähe zu Nairobi (nur 63 km entfernt) rasant entwickelt hat. Die hügelige Landschaft bietet eine atemberaubende Kulisse, und die Region ist ein Zentrum für Landwirtschaft und Handel. Die Stadt beherbergt auch den Machakos People's Park, eine der modernsten Freizeitanlagen des Landes (Geschichte K7).",
+      "factsAdvanced": [
+        "Machakos wurde 1887 als erster britischer Binnenposten in Kenia gegründet.",
+        "Die Stadt fungierte vor Nairobi bis 1899 als administrative Hauptstadt des Protektorats.",
+        "Der Name leitet sich von Masaku ab, einem angesehenen Häuptling des Kamba-Volkes.",
+        "Machakos liegt auf einer Höhe von rund 1.715 Metern.",
+        "Der Machakos People's Park wurde 2014 als riesiges Freizeitzentrum eröffnet.",
+        "Die Stadt ist für ihren "Magnetic Hill" am Kituluni Hill bekannt, eine optische Täuschung."
+      ]
+    },
+    {
+      "id": "meru-cities-v2",
+      "descriptionAdvanced": "Meru, im Osten der mächtigen Mount-Kenya-Region gelegen, ist das florierende Zentrum des Meru Countys. Die Stadt verdankt ihren Wohlstand den extrem fruchtbaren vulkanischen Böden und dem günstigen Klima an den Nordosthängen des Berges. Weltweit ist Meru als das Epizentrum für den Anbau von Miraa (Khat) bekannt, einer Pflanze, die wegen ihrer stimulierenden Wirkung angebaut und in ganz Ostafrika und in den Nahen Osten exportiert wird. Neben Khat gedeihen hier auch Tee, Kaffee und Bananen prächtig. Die Stadt fungiert als Tor zum faszinierenden Meru-Nationalpark, in dem einst die berühmte Löwin Elsa aus dem Buch "Frei geboren" (Born Free) von Joy Adamson lebte. Kulturell wird die Stadt vom Volk der Ameru geprägt, das eine reiche Tradition bewahrt (Geografie & Biologie K8).",
+      "factsAdvanced": [
+        "Meru liegt an den fruchtbaren Nordosthängen des Mount Kenya.",
+        "Die Stadt ist das absolute Zentrum des lukrativen Miraa- (Khat-) Anbaus in Kenia.",
+        "Sie liegt auf einer Höhe von etwa 1.580 Metern über dem Meeresspiegel.",
+        "Der nahegelegene Meru-Nationalpark ist eng mit der Geschichte der Löwin Elsa.",
+        "Das Meru National Museum dokumentiert die Kulturgeschichte der Ameru-Bevölkerung.",
+        "In der Nähe befindet sich der Ithagene Forest, der für seine Biodiversität bekannt ist."
+      ]
+    },
+    {
+      "id": "embu-cities-v2",
+      "descriptionAdvanced": "Embu ist eine geschichtsträchtige Stadt in Zentral-Ost-Kenia, die traditionell als Hauptstadt der ehemaligen Eastern Province fungierte. Am südöstlichen Fuß des Mount Kenya auf rund 1.350 Metern Höhe gelegen, profitiert Embu von reichhaltigen vulkanischen Böden und zuverlässigen Regenfällen. Dies macht die Region zu einem landwirtschaftlichen Kraftzentrum, in dem vor allem Macadamia-Nüsse, Kaffee, Tee und Mais im großen Stil angebaut werden. Die Bevölkerung besteht hauptsächlich aus den ethnischen Gruppen der Embu und Mbeere. In der Umgebung befinden sich wichtige Staudämme entlang des Tana-Flusses, wie der Masinga- und der Kiambere-Damm, die einen Großteil des kenianischen Wasserkraftstroms produzieren. Die Stadt bietet eine ruhige Atmosphäre und dient als Knotenpunkt für Reisen in die nordöstlichen Gebiete Kenias (Geografie K7).",
+      "factsAdvanced": [
+        "Embu diente historisch als Provinzhauptstadt der riesigen Eastern Province.",
+        "Die Stadt liegt auf den fruchtbaren Hängen auf 1.350 Metern Höhe.",
+        "Macadamia-Nüsse und Kaffee sind die dominierenden landwirtschaftlichen Exportgüter.",
+        "Der nahe Tana-Fluss liefert über die Seven-Forks-Staudämme den größten Teil des kenianischen Stroms.",
+        "Das Izaak Walton Inn, 1930 gegründet, ist ein berühmtes historisches Hotel der Stadt.",
+        "Die Stadt ist von tiefen Tälern und Flüssen durchzogen, die vom Mount Kenya stammen."
+      ]
+    },
+    {
+      "id": "bungoma-cities-v2",
+      "descriptionAdvanced": "Bungoma, gelegen in Westkenia nahe der Grenze zu Uganda, ist die Hauptstadt des Bungoma Countys. Die Stadt ist das wichtigste landwirtschaftliche und kommerzielle Zentrum der Region und eng mit der Bukusu-Untergruppe des Luhya-Volkes verbunden. In Bungoma dominiert der Zuckerrohranbau, angeführt von riesigen Verarbeitungsanlagen wie der Nzoia Sugar Company. Eine bedeutende historische Sehenswürdigkeit in der Nähe ist das Chetambe-Fort (Chetambe's Fort), wo 1895 die letzte große Widerstandsschlacht der Bukusu gegen die britischen Kolonialtruppen stattfand. Die Gegend ist auch für ihre traditionellen Beschneidungszeremonien (Khuketwa) bekannt, die ein wichtiges kulturelles Ereignis darstellen. Die Nähe zum Mount Elgon macht Bungoma zudem zu einem Ausgangspunkt für Exkursionen (Geschichte K8).",
+      "factsAdvanced": [
+        "Bungoma ist das kulturelle Herzland der Bukusu, einer Untergruppe der Luhya.",
+        "Der Zuckerrohranbau ist der dominierende Wirtschaftszweig in der Region Bungoma.",
+        "Das Chetambe-Fort in der Nähe war 1895 Schauplatz einer historischen Schlacht gegen die Briten.",
+        "Die Nzoia Sugar Company ist einer der größten Arbeitgeber des Countys.",
+        "Die Stadt ist ein wichtiger Knotenpunkt an der Handelsroute nach Uganda.",
+        "Der Mount-Elgon-Nationalpark liegt nur wenige Dutzend Kilometer nordwestlich."
+      ]
+    },
+    {
+      "id": "naivasha-cities-v2",
+      "descriptionAdvanced": "Naivasha ist eine aufstrebende Stadt im Nakuru County, die am Ufer des Lake Naivasha, einem der wenigen Süßwasserseen im kenianischen Teil des Rift Valley, liegt. In den letzten Jahrzehnten hat sich Naivasha zu einem der wichtigsten Zentren für den Anbau von Schnittblumen entwickelt; riesige Gewächshäuser säumen den See und exportieren Rosen in die ganze Welt. Die Stadt ist zudem ein Hotspot für den Tourismus. Der benachbarte Hell's-Gate-Nationalpark, bekannt für seine dramatischen Schluchten und die Möglichkeit, dort gefahrlos zu wandern und Fahrrad zu fahren, zog sogar die Macher des Films "Der König der Löwen" zur Inspiration an. Zudem liegt das Geothermiekraftwerk Olkaria, eines der größten in Afrika, im Süden des Sees (Wirtschaft & Geografie K8).",
+      "factsAdvanced": [
+        "Naivasha liegt am Ufer eines der bedeutendsten Süßwasserseen des Rift Valleys.",
+        "Die Stadt ist das absolute Zentrum der florierenden kenianischen Schnittblumenindustrie.",
+        "Der Hell's-Gate-Nationalpark inspirierte die Landschaft des Films "Der König der Löwen".",
+        "Südlich von Naivasha liegt der Olkaria-Komplex, Afrikas größtes Geothermiekraftwerk.",
+        "Die 1920er und 1930er Jahre sahen Naivasha als Basis für Wasserflugzeuge der Imperial Airways.",
+        "Der nahe Mount Longonot ist ein erloschener Vulkan mit einem steilen Krater."
+      ]
+    },
+    {
+      "id": "kericho-cities-v2",
+      "descriptionAdvanced": "Kericho ist die unangefochtene Teehauptstadt Kenias. In den Hochlagen des westlichen Rift Valley auf über 2.000 Metern gelegen, profitiert die Stadt von einem kühlen Klima und reichlichen Niederschlägen, die perfekte Bedingungen für den Teeanbau bieten. Kenia ist einer der größten Tee-Exporteure der Welt, und Kericho bildet das Epizentrum dieser Industrie, umgeben von schier endlosen, sattgrünen Teeplantagen, die internationalen Konzernen wie Finlays oder Unilever gehören. Die Stadt hat eine lange koloniale Geschichte, was sich in der Architektur und den gepflegten Golfplätzen widerspiegelt. Die mehrheitlich von der Kipsigis-Ethnie bewohnte Region ist nicht nur landwirtschaftlich bedeutsam, sondern auch kulturell, und beheimatet die größte Gurdwara (Sikh-Tempel) in ganz Afrika (Wirtschaft K8).",
+      "factsAdvanced": [
+        "Kericho ist das Zentrum des kenianischen Teeanbaus, einem der Hauptexportgüter des Landes.",
+        "Die Stadt liegt auf einer beachtlichen Höhe von über 2.000 Metern.",
+        "Die Region erhält fast das ganze Jahr über ergiebige Regenfälle.",
+        "Kericho beheimatet die größte Sikh-Gemeinde in Kenia und Afrikas größte Gurdwara.",
+        "Der Name der Stadt soll auf den Massai-Krieger Ole Kericho zurückgehen.",
+        "Kenia exportiert einen Großteil seines Schwarztees über den Hafen von Mombasa aus dieser Region."
+      ]
+    },
+    {
+      "id": "lamu-cities-v2",
+      "descriptionAdvanced": "Lamu Town, gelegen auf der Insel Lamu vor der Nordküste Kenias, ist die älteste erhaltene Swahili-Siedlung in Ostafrika. Gegründet im 14. Jahrhundert, ist die Stadt seit 2001 ein UNESCO-Weltkulturerbe. Die Architektur ist durch enge, verwinkelte Gassen, kunstvoll geschnitzte Holztüren und imposante Korallensteinhäuser geprägt. Bemerkenswert ist, dass es in Lamu fast keine Autos gibt; der Transport erfolgt traditionell mit Eseln oder Daus (traditionelle Segelboote). Die Stadt war einst ein blühendes Zentrum für den Handel mit Elfenbein, Gewürzen und Sklaven und ist bis heute ein wichtiges Zentrum islamischer Gelehrsamkeit in Ostafrika. Das Lamu Fort, das Lamu Museum und das jährliche Maulidi-Festival ziehen Forscher und Touristen gleichermaßen an, um diese unberührte Kultur zu erleben (Geschichte K8).",
+      "factsAdvanced": [
+        "Lamu Town wurde 2001 zum UNESCO-Weltkulturerbe erklärt.",
+        "Die Stadt wurde im 14. Jahrhundert gegründet und ist Kenias älteste durchgehend bewohnte Siedlung.",
+        "Auf der Insel gibt es so gut wie keine Autos; Esel sind das Haupttransportmittel.",
+        "Die Architektur besteht traditionell aus Korallenstein und Mangrovenholz.",
+        "Das 1821 errichtete Lamu Fort diente einst als Gefängnis und ist heute ein Museum.",
+        "Lamu ist ein historisches Zentrum islamischer Bildung und Swahili-Kultur."
+      ]
+    },
+    {
+      "id": "isiolo-cities-v2",
+      "descriptionAdvanced": "Isiolo liegt im geografischen Zentrum Kenias und dient oft als Grenze zwischen dem fruchtbaren Hochland im Süden und den weiten, halbtrockenen Wüstenregionen im Norden. Die Stadt hat eine diverse Bevölkerung, zu der Borana, Somali, Samburu und Meru gehören. Isiolo entwickelte sich historisch aus Militär- und Verwaltungslagern der Briten nach dem Ersten Weltkrieg. In den letzten Jahren hat Isiolo als geplantes Zentrum des ehrgeizigen LAPSSET-Infrastrukturkorridors (Lamu Port-South Sudan-Ethiopia Transport) enorm an strategischer Bedeutung gewonnen, was zum Bau des Isiolo International Airport führte. Für Touristen ist Isiolo das Tor zu den berühmten Wildreservaten Samburu, Buffalo Springs und Shaba National Reserve (Geografie K7).",
+      "factsAdvanced": [
+        "Isiolo liegt am nördlichen Rand des Mount-Kenya-Hochlandes.",
+        "Die Stadt gilt als "Tor zum Norden" Kenias und führt in die ariden Zonen.",
+        "Der LAPSSET-Korridor soll Isiolo in ein massives regionales Logistikzentrum verwandeln.",
+        "Der Isiolo International Airport wurde 2017 eröffnet, um den Tourismus und Handel zu fördern.",
+        "Die Stadt ist eine Schmelztiegel-Gemeinschaft aus Borana, Somali und Meru.",
+        "Die Nationalreservate Samburu, Buffalo Springs und Shaba liegen nördlich der Stadt."
+      ]
+    },
+    {
+      "id": "homa-bay-cities-v2",
+      "descriptionAdvanced": "Homa Bay liegt am malerischen südlichen Ufer des Viktoriasees und ist die Verwaltungshauptstadt des Homa Bay Countys. Die Wirtschaft der Stadt ist stark von der Fischerei geprägt, insbesondere dem Fang von Nilbarsch und Tilapia, sowie der Landwirtschaft auf dem fruchtbaren Boden der Umgebung. Homa Bay ist der ideale Ausgangspunkt für Besuche im Ruma-Nationalpark, dem einzigen Ort in Kenia, an dem die seltene Pferdeantilope (Roan Antelope) in freier Wildbahn beobachtet werden kann. Die Stadt wird im Hintergrund von den Homa-Bergen (Mount Homa) überragt, einer Reihe erloschener vulkanischer Hügel. Homa Bay spielt eine zentrale Rolle in der Luo-Kultur und ist ein wichtiges Zentrum für den Binnenhandel auf dem Viktoriasee (Biologie & Geografie K7).",
+      "factsAdvanced": [
+        "Homa Bay liegt an einer tiefen Bucht des Viktoriasees im Westen Kenias.",
+        "Die Wirtschaft stützt sich auf Fischfang (Nilbarsch) und Landwirtschaft.",
+        "Nahe der Stadt ragt der vulkanische Mount Homa auf.",
+        "Homa Bay ist der Hauptzugangspunkt zum Ruma-Nationalpark.",
+        "Der Ruma-Nationalpark schützt die stark bedrohte Pferdeantilope (Roan Antelope).",
+        "Die Inseln Rusinga und Mfangano, bekannt für Fossilienfunde, sind per Boot erreichbar."
+      ]
+    },
+    {
+      "id": "migori-cities-v2",
+      "descriptionAdvanced": "Migori, gelegen nahe der Grenze zu Tansania, ist ein geschäftiger Handelsknotenpunkt im Südwesten Kenias. Die Stadt profitiert enorm von dem grenzüberschreitenden Handel und verbindet Kenia über den Grenzübergang Isebania mit Tansania. Die Region ist reich an Bodenschätzen, und in den ländlichen Gebieten rund um Migori wird seit Jahrzehnten handwerklicher Goldabbau betrieben, was ihr den Ruf als Goldgräberstadt eingebracht hat. Neben dem Bergbau dominiert die Landwirtschaft, insbesondere der Anbau von Zuckerrohr und Tabak. Kulturell ist Migori bemerkenswert vielfältig, da hier Bevölkerungsgruppen wie die Luo, Kuria und Abasuba eng zusammenleben. Ein historisches Highlight in der Nähe ist Thimlich Ohinga, eine archäologische Stätte mit steinernen Trockenmauern aus dem 16. Jahrhundert (Geschichte K7).",
+      "factsAdvanced": [
+        "Migori ist eine wichtige Grenzstadt zu Tansania (Isebania-Grenze).",
+        "Die Region ist eines der wenigen Gebiete Kenias, in denen Gold abgebaut wird.",
+        "Zuckerrohr und Tabak sind die landwirtschaftlichen Hauptprodukte.",
+        "Das nahegelegene Thimlich Ohinga ist seit 2018 UNESCO-Weltkulturerbe.",
+        "Die Bevölkerung ist ein Mix aus Luo, Kuria und Abasuba.",
+        "Der Migori River fließt durch das Gebiet in den Viktoriasee."
+      ]
+    },
+    {
+      "id": "kajiado-cities-v2",
+      "descriptionAdvanced": "Kajiado, südlich von Nairobi gelegen, ist das administrative Zentrum des Kajiado Countys und eine Stadt, die tief im Herzen des Maasai-Landes liegt. Während die Stadt in der Vergangenheit ein kleiner Handelsposten war, ist sie heute stark in den Pendlergürtel von Nairobi integriert, was zu rasantem Bevölkerungswachstum und Immobilienentwicklung geführt hat. Dennoch bleibt Kajiado ein wichtiges Zentrum für die Kultur der Maasai, wo traditionelle Rinderzucht auf moderne Urbanisierung trifft. Die Stadt liegt in einer halbtrockenen Region in den Kitengela-Ebenen und hat historisch vom Bau der Magadi-Eisenbahnlinie profitiert, die bis heute Soda-Asche aus dem Lake Magadi transportiert (Geografie K7).",
+      "factsAdvanced": [
+        "Kajiado liegt etwa 80 Kilometer südlich der Hauptstadt Nairobi.",
+        "Die Stadt ist das administrative Herz des von den Maasai dominierten Countys.",
+        "Kajiado wuchs entlang der historischen Eisenbahnstrecke zum Magadisee.",
+        "Die Wirtschaft basiert stark auf Rinderzucht und zunehmend auf dem Immobiliensektor.",
+        "Die Region leidet häufig unter Dürren in der semiariden Landschaft.",
+        "In der Nähe befindet sich das ländliche Amboseli-Schutzgebiet (Amboseli National Park)."
+      ]
+    },
+    {
+      "id": "wajir-cities-v2",
+      "descriptionAdvanced": "Wajir ist eine abgelegene und faszinierende Stadt im nordöstlichen Kenia, die in einer extrem trockenen, flachen Wüstenlandschaft liegt. Die Stadt ist bekannt für ihre traditionellen, runden weißen Häuser, die ihr einen einzigartigen architektonischen Charakter verleihen. Da in Wajir Wasser die wertvollste Ressource ist, dreht sich das Überleben der nomadischen Bevölkerung (überwiegend Somali) um Brunnen, von denen einige jahrhundertelang in Betrieb sind. Wajir wurde 1912 unter britischer Kolonialherrschaft formell gegründet und erhielt während des Zweiten Weltkriegs durch den Bau eines Flugplatzes strategische Bedeutung. Eines der bekanntesten Wahrzeichen ist das von den Italienern im Zweiten Weltkrieg errichtete Wajir Fort. Die raue Umgebung macht die Stadt zu einem Symbol für Widerstandsfähigkeit (Geografie K8).",
+      "factsAdvanced": [
+        "Wajir liegt im trockenen Nordosten Kenias und erlebt extrem heiße Temperaturen.",
+        "Die Stadt wurde 1912 offiziell gegründet und entwickelte sich um antike Wasserbrunnen.",
+        "Das historische Wajir Fort (Fort der Italiener) ist ein bekanntes lokales Wahrzeichen.",
+        "Wajir besitzt einen internationalen Flughafen, der ursprünglich als Militärbasis diente.",
+        "Die Mehrheit der Bevölkerung gehört der ethnischen Gruppe der Somali an.",
+        "Die Wirtschaft basiert fast ausschließlich auf dem Handel mit Vieh (Kamele und Ziegen)."
+      ]
+    },
+    {
+      "id": "narok-cities-v2",
+      "descriptionAdvanced": "Narok ist die Hauptstadt des Narok Countys und das wichtigste städtische Zentrum der Maasai-Volksgruppe im südwestlichen Kenia. Weltweit ist Narok als letzter großer Zwischenstopp und "Tor" zur weltberühmten Maasai Mara bekannt. Die Stadt liegt entlang des Großen Afrikanischen Grabenbruchs und wird von der saisonalen Flutung des Enkare Narok Rivers geprägt. Wirtschaftlich lebt Narok enorm vom Wildtiertourismus in der Mara sowie vom großflächigen Weizen- und Gerstenanbau in den fruchtbaren Gebieten rund um Mau Narok. In Narok verschmelzen traditionelles Maasai-Leben mit modernen landwirtschaftlichen und touristischen Dienstleistungen, was die Stadt zu einem der reichsten Countys in Kenia macht (Wirtschaft & Geografie K7).",
+      "factsAdvanced": [
+        "Narok ist als das wichtigste Tor zur weltberühmten Maasai Mara bekannt.",
+        "Die Stadt ist das ökonomische und kulturelle Zentrum der Maasai-Gemeinschaft.",
+        "Narok County profitiert stark von den Einnahmen des Wildtiertourismus.",
+        "Große Flächen im Norden der Stadt werden intensiv für Weizenanbau genutzt.",
+        "Der Enkare Narok River durchfließt die Stadt, was gelegentlich zu Sturzfluten führt.",
+        "Die örtliche Narok University befasst sich intensiv mit Naturschutz und Tourismusmanagement."
+      ]
+    },
+    {
+      "id": "lodwar-cities-v2",
+      "descriptionAdvanced": "Lodwar, die Hauptstadt des riesigen Turkana Countys im Nordwesten Kenias, ist eine Wüstenstadt mit einer rauen, aber fesselnden Ausstrahlung. Sie liegt in einem der trockensten und heißesten Gebiete des Landes, westlich des Turkana-Sees. Die historische Bedeutung von Lodwar ist groß, denn während der britischen Kolonialzeit wurde hier 1959 Jomo Kenyatta, der erste Präsident Kenias, politisch inhaftiert; sein Haus steht heute noch als nationales Denkmal. In Lodwar dominiert die Kultur des Turkana-Volkes, bekannt für traditionelle Korbflechterei und Viehzucht. In den letzten Jahrzehnten hat die Entdeckung von Ölvorkommen in der Ngamia-1-Bohrung in der Nähe große Erwartungen geweckt und Lodwar in den Fokus der kenianischen Energiepolitik gerückt (Geschichte & Wirtschaft K8).",
+      "factsAdvanced": [
+        "Lodwar ist die größte Stadt in Nordwestkenia und Hauptstadt des Turkana Countys.",
+        "Die Stadt liegt westlich des Turkana-Sees am saisonalen Turkwel-Fluss.",
+        "Kenias Gründervater Jomo Kenyatta war 1959 in Lodwar im Exil inhaftiert.",
+        "Lodwar ist das wirtschaftliche Zentrum der nomadischen Turkana-Bevölkerung.",
+        "Die 2012 entdeckten Ölvorkommen im Lokichar-Becken liegen nicht weit von Lodwar.",
+        "Die Stadt ist bekannt für extrem heißes Wüstenklima mit geringen Niederschlägen."
+      ]
+    },
+    {
+      "id": "busia-cities-v2",
+      "descriptionAdvanced": "Busia ist eine vitale Grenzstadt im Westen Kenias, die direkt an die gleichnamige Stadt in Uganda grenzt. Sie ist die Hauptstadt des Busia Countys und der zweitwichtigste Grenzübergang zwischen Kenia und Uganda (nach Malaba). Dieser Status als Grenzstadt macht Busia zu einem ununterbrochen summenden Zentrum für internationalen Handel, Logistik und Warentransport im Rahmen der East African Community (EAC). Die Region wird hauptsächlich von den Luhya- und Teso-Gemeinschaften bewohnt. Landwirtschaft, insbesondere Fischerei im nahen Viktoriasee, sowie der Anbau von Maniok, Mais und Baumwolle bilden das Rückgrat der ländlichen Wirtschaft rund um die Stadt. Busia bietet authentische Einblicke in das dynamische Leben einer afrikanischen Grenzregion (Geografie K7).",
+      "factsAdvanced": [
+        "Busia ist einer der wichtigsten Grenzübergänge zwischen Kenia und Uganda.",
+        "Die Stadt ist stark vom grenzüberschreitenden Güter- und Personenverkehr geprägt.",
+        "Es existiert ein One-Stop Border Post (OSBP), um den Handel zu beschleunigen.",
+        "Die lokale Wirtschaft stützt sich auf Handel, Baumwolle und Maisanbau.",
+        "Die Bevölkerung besteht mehrheitlich aus den ethnischen Gruppen Teso und Luhya.",
+        "Der nahe Viktoriasee (Port Victoria) ist für die regionale Fischerei entscheidend."
+      ]
+    },
+    {
+      "id": "voi-cities-v2",
+      "descriptionAdvanced": "Voi ist die größte Stadt im Taita-Taveta County und ein entscheidender Verkehrsknotenpunkt im südöstlichen Kenia. Gegründet am Ufer des Voi-Flusses, entwickelte sich die Stadt rasant durch den Bau der historischen Uganda-Eisenbahn, die Mombasa mit dem Inland verband. Voi ist heute der wichtigste Knotenpunkt an der Fernstraße Nairobi-Mombasa und berühmt als das Tor zum riesigen Tsavo-East-Nationalpark, einem der größten Wildschutzgebiete Afrikas. Neben dem Wildtiertourismus spielt der Bergbau eine große Rolle; die umliegenden Taita-Hügel sind bekannt für Vorkommen seltener Edelsteine wie dem Tsavorit. Die strategische Lage macht Voi zudem zu einem Umschlagsplatz für landwirtschaftliche Produkte wie Sisal, die in der trockenen Region gedeihen (Wirtschaft & Geografie K8).",
+      "factsAdvanced": [
+        "Voi ist ein wichtiger Knotenpunkt an der Autobahn und Eisenbahnlinie Nairobi-Mombasa.",
+        "Die Stadt ist der Hauptausgangspunkt für Safaris in den Tsavo-East-Nationalpark.",
+        "Die historische Uganda-Bahn (Lunatic Express) war maßgeblich für die Stadtentwicklung.",
+        "In den nahegelegenen Taita-Hügeln werden wertvolle Edelsteine (wie Tsavorit) abgebaut.",
+        "Die Region um Voi ist auch bekannt für den großflächigen Sisal-Anbau.",
+        "Voi war während des Ersten Weltkriegs ein britisches Logistikzentrum."
+      ]
+    }
+  ]
+}

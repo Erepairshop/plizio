@@ -1,0 +1,310 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-okavango-agriculture-life-v2",
+      "descriptionAdvanced": "A namíbiai Okavango-régió (a Kavango folyó alsó szakasza, mielőtt belépne a botswanai Okavango-deltába) a Bwabwata Nemzeti Park nyugati szélénél helyezkedik el. A bőséges, egész évben rendelkezésre álló vízfelület és az alluviális (hordalékos) teraszok lehetővé teszik a helyiek számára a folyamatos, kisüzemi gazdálkodást. A folyó árterületén (floodplains) és a közeli Mahango-rezervátum (Nyae Nyae) területén a mezőgazdaság szorosan összefonódik a vadvilággal: a gazdáknak folyamatosan védeniük kell termésüket – főként a cirokot és a zöldségeket – a vízilovaktól és a szabadon kószáló elefántcsordáktól. A folyami horgászat, különösen a tilápia és a harcsa fogása létfontosságú fehérjeforrást jelent a parti falvak lakóinak. Földrajz K8 — folyóparti gazdálkodás és ember-vadvilág konfliktus",
+      "factsAdvanced": [
+        "A Kavango folyó alsó szakasza Namíbiában, mielőtt belép a botswanai deltába",
+        "A folyamatos vízellátás lehetővé teszi a zöldségek és gabonafélék öntözéses termesztését",
+        "Gyakoriak a termést pusztító elefánt- és víziló-támadások a part menti földeken",
+        "A halászat kritikus fontosságú a helyi élelmezésbiztonság (fehérjebevitel) szempontjából",
+        "Sok helyi közösség a vadászatról a fenntartható ökoturizmus és mezőgazdaság felé fordul",
+        "A régiót sűrű galériaerdők (riverine forests) és mocsári vegetáció jellemzi"
+      ]
+    },
+    {
+      "id": "namibia-aus-animal-habitat-life-v2",
+      "descriptionAdvanced": "Aus városa mellett, a kietlen Garub-síkságon (Namib-Naukluft Park déli pereme) található az egyik leginkább magával ragadó afrikai vadvédelmi terület, a Namíb-sivatagi vadlovak (Namib Desert Horses) élőhelye. Ezek a lovak nem őshonosak Namíbiában; valószínűleg a német Schutztruppe (gyarmati haderő) és a dél-afrikai inváziós csapatok lovainak elszabadult leszármazottai az I. világháború idejéből. A több mint egy évszázad alatt hihetetlen módon alkalmazkodtak a sivatag kegyetlenségéhez: napokig képesek víz nélkül élni a rekkenő hőségben. Fő vízforrásuk a Garub vasútállomás melletti mesterséges kút maradt, amely köré a turisták megfigyelő állomásokat építettek. Biológia K8 — invazív fajok evolúciós adaptációja",
+      "factsAdvanced": [
+        "Afrika egyetlen, zord sivatagi körülmények között élő vadló-populációja",
+        "Eredetük valószínűleg az I. világháborús német és dél-afrikai katonai lovakhoz köthető",
+        "Genetikailag egyedülálló alkalmazkodáson mentek keresztül a vízhiány és a hőség elviselésére",
+        "A populáció mérete az aszályok függvényében ingadozik, de általában 100-200 példány között van",
+        "A Garub víznyerő hely (waterhole) a legbiztosabb pont a lovak megfigyelésére",
+        "A hiénák és a tartós aszályok komoly fenyegetést jelentenek a csikók túlélésére"
+      ]
+    },
+    {
+      "id": "na-namib-desert-nature-v2",
+      "descriptionAdvanced": "A Namíb-sivatag a Föld egyik legősibb, leghíresebb és legbarátságtalanabb sivatagja, amely egy több mint 2 000 kilométer hosszú, kietlen földsávot alkot az Atlanti-óceán partvidékén, Namíbia, Angola és Dél-Afrika területén. Becslések szerint legalább 55-80 millió éve létezik, ami rendkívüli geológiai stabilitást mutat. A sivatag kettős arcú: a tengerparti sávot (ahol a Csontvázpart található) a hideg Benguela-áramlat miatt sűrű, életet adó köd borítja, míg a belső, szárazföldi területeket a szél által formált gigantikus vörös homokdűnék (mint Sossusvlei), kavicsos síkságok és zord hegyvonulatok uralják. Ez a szélsőséges környezet olyan egyedülálló, endemikus fajoknak ad otthont, mint a századokig élő Welwitschia mirabilis növény. Földrajz K8 — partmenti ködsivatagok kialakulása",
+      "factsAdvanced": [
+        "Gyakran a Föld legősibb sivatagának tartják (55-80 millió év)",
+        "Nevének jelentése a nama nyelvből: 'Hatalmas Hely' (Vast Place)",
+        "Az éghajlatot a hideg óceáni Benguela-áramlat határozza meg, amely megakadályozza az esőfelhők kialakulását",
+        "Otthont ad a világ legmagasabb (300 métert is meghaladó) homokdűnéinek",
+        "Számos endemikus (csak itt élő) fajt tart el az óceáni köd (fog) nedvessége",
+        "Rendkívül gazdag ásványkincsekben, beleértve az alluviális gyémántokat és az uránt"
+      ]
+    },
+    {
+      "id": "na-kalahari-desert-nature-v2",
+      "descriptionAdvanced": "A Kalahári-sivatag (vagy inkább Kalahári-medence) egy óriási, több mint 900 000 négyzetkilométeres, félsivatagos, homokos régió, amely Namíbia keleti részén, valamint Botswanában és Dél-Afrikában terül el. A Namíb-sivataggal ellentétben a Kalahári kap annyi éves csapadékot (100-200 mm), hogy fenntartson egy ritkás, füves-bokros szavanna (bushveld) vegetációt, valamint akáciafákat, ezért biológiai értelemben nem valódi sivatag. A tájat a szél által formált, stabil, vörös homokdűnék uralják, amelyek között hatalmas állatcsordák (springbok, oryx, gnú) és ragadozók (Kalahári oroszlán, gepárd) élnek. Több ezer éve a vadászó-gyűjtögető San (busman) nép otthona. Földrajz K7 — fosszilis homokmedencék és szavannák",
+      "factsAdvanced": [
+        "Biológiailag félsivatagos szavanna (bushveld), nem pedig valódi 'hiperarid' sivatag",
+        "A homok mélyvörös színét a magas vas-oxid tartalom adja",
+        "Nincsenek állandó felszíni vizei, az esővizet a homok gyorsan elnyeli",
+        "A helyi San (busman) őslakosok kiválóan alkalmazkodtak az itteni túléléshez",
+        "Kiemelkedő vadrezervátumok (pl. Kgalagadi Transfrontier Park) védik élővilágát",
+        "Az alacsony, hosszan elnyúló, párhuzamos dűnék (linear dunes) jellemzik a namíbiai részt"
+      ]
+    },
+    {
+      "id": "na-etosha-pan-nature-v2",
+      "descriptionAdvanced": "Az Etosha-medence (Etosha Pan) a namíbiai Etosha Nemzeti Park központjában terül el; ez egy gigantikus, 4 800 négyzetkilométeres, vakítóan fehér, sós (szikes) síkság. A geológusok szerint a medence egykor egy hatalmas belföldi tó volt, amelyet az északról érkező Kunene folyó táplált, ám amikor a folyó több millió évvel ezelőtt megváltoztatta az irányát az Atlanti-óceán felé, a tó szép lassan kiszáradt. A medence felszíne az év legnagyobb részében repedezett, száraz agyag és só, ami mérgező a növények számára. Különösen csapadékos években azonban az északi (angolai) esők nyomán a medence sekély tavakká alakul, és flamingók, valamint pelikánok százezreit vonzza magához költésre. Földrajz K8 — kiszáradt belföldi tavak geológiája",
+      "factsAdvanced": [
+        "Egy 4 800 km² kiterjedésű, lapos, szikes-sós mélyedés Észak-Namíbiában",
+        "Afrika legnagyobb sós medencéje (salt pan), és az űrből is tisztán látható",
+        "Az 'Etosha' szó oshindonga nyelven 'Nagy Fehér Helyet' vagy 'Az Üresség Helyét' jelenti",
+        "Felszíne nyáron (szárazság idején) délibábos, vakítóan fehér és repedezett",
+        "A peremén feltörő artézi források (waterholes) tartják életben a park vadvilágát",
+        "Esős években Dél-Afrika egyik legfontosabb flamingó-szaporodóhelyévé válik"
+      ]
+    },
+    {
+      "id": "na-fish-river-canyon-nature-v2",
+      "descriptionAdvanced": "A Fish River Kanyon Namíbia mélydéli részén fekszik, egy letaglózó geológiai csoda, amely a méreteit tekintve Afrika legnagyobb és a világ második legnagyobb kanyonja. A szurdok 160 kilométer hosszú, szélessége elérheti a 27 kilométert, mélysége pedig az 550 métert. Kialakulása mintegy 500 millió évvel ezelőtt kezdődött, részben a tektonikus lemezek mozgása (amikor Gondwana őskontinens szétvált), részben a Hal-folyó (Fish River) folyamatos eróziós munkája révén. A kanyon zord és kietlen, nyáron a hőmérséklet a mélyben elérheti az 50 Celsius-fokot is, de az ikonikus Fish River Canyon Hiking Trail (öt napos túraútvonal) a téli hónapokban a világ minden tájáról vonzza a kalandorokat. Földrajz K8 — tektonika és folyami erózió",
+      "factsAdvanced": [
+        "A világ második legnagyobb kanyonja az amerikai Grand Canyon után",
+        "A Gondwana őskontinens szétszakadásakor fellépő tektonikai repedések (grábenek) formálták",
+        "Az időszakos Hal-folyó (Fish River) mélyítette és szélesítette ki évmilliók alatt",
+        "A kanyon alján termálvízforrások (pl. Ais-Ais Hot Springs) fakadnak",
+        "Nyáron az extrém hőség miatt a terület életveszélyes és a túrázás szigorúan tilos",
+        "A meredek sziklafalak tökéletesen mutatják a Föld rétegtani (stratigráfiai) történetét"
+      ]
+    },
+    {
+      "id": "na-orange-river-nature-v2",
+      "descriptionAdvanced": "Az Oranje folyó (Orange River) Dél-Afrika leghosszabb folyója, amely Namíbia és Dél-Afrika természetes országhatárát képezi a sivatagos délvidéken. A folyó a távoli, esős Drakensberg-hegységben (Lesotho) ered, majd nyugat felé haladva átszeli a kietlen Karoo-t, hogy végül Oranjemund közelében az Atlanti-óceánba torkolljon. Az Oranje hatalmas jelentőséggel bír Namíbia számára: nemcsak a déli régió virágzó szőlő- és gyümölcsültetvényeinek (Aussenkehr, Noordoewer) öntözővizét biztosítja, hanem az évmilliók során hatalmas mennyiségű alluviális (hordalékos) gyémántot szállított az óceán partjára, megalapozva ezzel a modern namíbiai gyémántipart. Földrajz K7 — határfolyók és alluviális ásványkincsek",
+      "factsAdvanced": [
+        "A folyó utolsó 600 kilométere alkotja a Namíbia és Dél-Afrika közötti határt",
+        "A holland Orániai-házról (House of Orange) nevezték el",
+        "Az évmilliók során a dél-afrikai kimberlit kürtőkből gyémántokat mosott a namíbiai partokra",
+        "Vize létfontosságú az Aussenkehr környéki intenzív csemegeszőlő-termesztéshez",
+        "Népszerű turistacélpont többnapos kenu- és raftingtúrákhoz",
+        "Torkolatvidéke (Orange River Mouth) Ramsari védelmet élvező vizes élőhely"
+      ]
+    },
+    {
+      "id": "na-kunene-river-nature-v2",
+      "descriptionAdvanced": "A Kunene folyó Észak-Namíbia egyik legvadabb és leglátványosabb vízfolyása, amely Namíbia és Angola természetes határvonalát képezi. A folyó az angolai hegyekben ered, majd dél felé, aztán nyugatnak fordulva vág át a zord, sivatagos Kaokoveld régión, hogy elérje az Atlanti-óceánt a kietlen Skeleton Coast északi végénél. A Kunene folyó dús, smaragdzöld trópusi galériaerdei éles kontrasztot alkotnak a körülötte elterülő csontszáraz, sziklás sivataggal. A folyó rendkívül gyors sodrású, tele zúgókkal és vízesésekkel (Epupa, Ruacana), valamint hatalmas, agresszív nílusi krokodilokkal. A Kunene völgye a nomád, hagyományőrző himba nép évezredes otthona. Földrajz K8 — sivatagot átszelő trópusi folyók",
+      "factsAdvanced": [
+        "Namíbia és Angola északi határát képezi mintegy 340 kilométeren keresztül",
+        "A kevés 'perenniális' (egész évben folyamatosan folyó) namíbiai folyók egyike",
+        "A torkolatánál, a Csontvázpartnál hatalmas, édesvízi teknőskolóniák éltek régen",
+        "Erős sodrása és szintkülönbségei miatt ideális vízerőművek (Ruacana) működtetésére",
+        "A folyó partvidékén, a sivatag peremén a himba őslakosok legeltetik csordáikat",
+        "Hírhedt a nagyszámú és nagy méretű nílusi krokodil (Crocodylus niloticus) populációjáról"
+      ]
+    },
+    {
+      "id": "na-epupa-falls-nature-v2",
+      "descriptionAdvanced": "Az Epupa-vízesés (Epupa Falls) a Kunene folyó lélegzetelállító zuhatagrendszere Namíbia északi határán, Angola szomszédságában. Az 'Epupa' szó a helyi herero nyelvben a lezúduló víz okozta 'habból' vagy 'permetből' származik. A vízesés nem egyetlen nagy zuhatag, hanem egy körülbelül 1,5 kilométer széles, sziklás kanyonrendszer, ahol a folyó dús baobab- (majomkenyérfa) és makaláni pálmákkal borított szigetek között ágazik szét, mielőtt egy 37 méter mély, szűk szakadékba dübörögne alá. A helyszín nehezen megközelíthető, zord sivatagi utakon (Kaokoland) át vezet ide az út, de a kontraszt – a zúgó, élettel teli trópusi oázis és a forró sivatag találkozása – Namíbia egyik legszebb természeti látványosságává teszi. Földrajz K7 — vízesések és kanyonok kialakulása",
+      "factsAdvanced": [
+        "A Kunene folyón található, Kaokoland (Kunene régió) rendkívül elszigetelt északi részén",
+        "A zuhatagrendszer mintegy 1,5 km széles, a legnagyobb esés 37 méter",
+        "A sziklákon évszázados baobab (majomkenyérfa) és makaláni pálmák kapaszkodnak meg",
+        "A környező hegyvidék a hagyományőrző, vörös okkerrel kent himba közösségek otthona",
+        "Bár a medencék csábítónak tűnnek fürdésre, a krokodilveszély és a sodrás életveszélyes",
+        "A vízesés hangját és vízpermetét kilométerekről érezni a csendes sivatagban"
+      ]
+    },
+    {
+      "id": "na-brandberg-mountain-nature-v2",
+      "descriptionAdvanced": "A Brandberg-hegy (Tűzhegy) Namíbia legmagasabb hegye, melynek legmagasabb pontja a Königstein (Királykő) 2 573 méterrel emelkedik a tengerszint fölé az Erongo régió nyugati felén. A hegy egy gigantikus, durván kör alakú gránit benyomulás (pluton), amely több mint 120 millió évvel ezelőtt alakult ki vulkáni tevékenység során, majd az erózió felszínre hozta. Nevét onnan kapta, hogy naplementekor a vörös gránitsziklák szinte izzanak, lángolónak ('tüzesnek') hatnak a lemenő nap fényében. A hegy nemcsak geológiai csoda, hanem Afrika egyik leggazdagabb sziklaművészeti galériája is; barlangjaiban (pl. Maack-barlang, 'Fehér Hölgy') több ezer, busmanok (San) által készített ősi sziklafestmény rejtőzik. Földrajz K8 — vulkáni plutonok és szigethegyek",
+      "factsAdvanced": [
+        "Namíbia legmagasabb hegycsúcsa a Königstein (2 573 méter)",
+        "Egy óriási, körülbelül 30 kilométer átmérőjű, 120 millió éves gránit masszívum",
+        "Nevének jelentése (Tűzhegy) a naplementekor lángvörösen izzó kőzetre utal",
+        "Több mint 43 000 regisztrált San (busman) sziklafestményt rejt a szurdokaiban",
+        "Leghíresebb művészeti emléke az úgynevezett 'White Lady' (Fehér Hölgy) festmény",
+        "A hegy különleges ökoszisztémája számos endemikus növény- és rovarfajnak ad otthont"
+      ]
+    },
+    {
+      "id": "na-spitzkoppe-nature-v2",
+      "descriptionAdvanced": "A Spitzkoppe (Grosse Spitzkoppe) egy lenyűgöző gránit szigethegy (inselberg), amelyet meredek, tűhegyes formája miatt gyakran 'Namíbia Matterhornjának' is neveznek. A hegy mintegy 1 728 méterrel magasodik a tengerszint fölé, és több mint 700 méterrel emelkedik ki a végtelen, lapos Namíb-sivatagból. A több mint 120 millió évvel ezelőtti vulkáni tevékenység során keletkezett gránitkúpokat az erózió simára és kerekdedre csiszolta az évezredek során. A Spitzkoppe nemcsak a profi sziklamászók nemzetközi zarándokhelye (akik a sima 'slab' falakkal küzdenek meg), hanem lenyűgöző geológiai formációi – mint a fotósok kedvence, a hatalmas Sziklaív (Rock Arch) – miatt a filmforgatások (pl. 2001: Űrodüsszeia, Mad Max) népszerű helyszíne is. Földrajz K7 — gránit inzelbergek és eróziós folyamatok",
+      "factsAdvanced": [
+        "Gyakran nevezik 'Namíbia Matterhornjának' ikonikus, hegyes csúcsa miatt",
+        "A magányos gránithegy 700 méterrel emelkedik ki a Namíb-sivatag síkságából",
+        "Több mint 120 millió éves vulkáni intruzió (benyomulás), amelyet az idő lemart",
+        "Geológiailag híres a gigantikus, gömbölyű, erodált gránitsziklákról és barlangokról",
+        "Híres sziklaíve (Rock Arch) Namíbia egyik legtöbbet fotózott természeti képződménye",
+        "Több San (busman) sziklafestmény, pl. a Kis Paradicsom (Small Paradise) található itt"
+      ]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "descriptionAdvanced": "A Waterberg-fennsík egy impozáns, lapos tetejű táblahegy (mesa) Közép-Namíbiában, amely mintegy 200 méterrel magasodik a környező szavanna fölé. A vörös homokkőből (Etjo homokkő formáció) felépülő hegy kb. 50 km hosszú és 16 km széles. A geológiai adottságai lenyűgözőek: a porózus homokkő magába szívja a csapadékot, majd a hegy lábánál található vízzáró agyagréteg felett tiszta források formájában engedi a felszínre (innen ered a neve: Vízhegy). Ez a vízbőség dús, buja növényzetet – szinte szubtrópusi oázist – tart fenn a fennsíkon és annak lejtőin, menedéket nyújtva ritka páfrányoknak és Namíbia egyetlen fokföldi keselyű (Cape Vulture) populációjának. Földrajz K8 — táblahegyek és vízzáró rétegek",
+      "factsAdvanced": [
+        "Egy több mint 400 négyzetkilométeres, meredek falú homokkő táblahegy (mesa)",
+        "A porózus kőzet szivacsként nyeli el a vizet, majd forrásokként engedi ki a hegy lábánál",
+        "A sivatagos országban szokatlanul buja, sűrű növényzet és fás szavanna borítja",
+        "Kiváló természeti erődítmény, amelyet ritka vadállatok (orrszarvúk, ritka antilopok) menedékeként használnak",
+        "A sziklákon a dinoszauruszok korából származó, több mint 200 millió éves állatnyomokat találtak",
+        "Geológiailag a Karoo-szupercsoport Etjo formációjának része"
+      ]
+    },
+    {
+      "id": "na-skeletons-coast-nature-v2",
+      "descriptionAdvanced": "A Csontvázpart (Skeleton Coast) a világ egyik legbarátságtalanabb, legkietlenebb, ám lenyűgözően szép tengerpartja, amely Észak-Namíbia atlanti partvidékén, a Swakop folyótól az angolai határig (Kunene folyó) húzódik. A helyi busmanok (San) úgy tartották, a 'Teremtő haragjában alkotta', a portugál tengerészek pedig a 'Pokol Kapujának' hívták. Nevét a parton szétszóródott hatalmas bálna- és fókacsontvázakról, valamint a több tucatnyi rozsdásodó hajóroncsról kapta, amelyek a sűrű tengeri köd, a heves viharok és az erős, északra tartó Benguela-áramlat áldozataivá váltak. Aki itt hajótörést szenvedett és kiért a partra, a végtelen, víztelen Namíb-sivatag homokdűnéivel találta szembe magát. Földrajz K7 — hideg óceáni áramlatok és partmenti köd",
+      "factsAdvanced": [
+        "Afrika délnyugati partvidékének egyik legveszélyesebb és legelszigeteltebb szakasza",
+        "Nevét a rengeteg bálnacsontvázról és az évszázadok során zátonyra futott hajóroncsokról kapta",
+        "A hideg Benguela-áramlat és a forró sivatagi levegő találkozása miatt szinte folyamatos a sűrű köd",
+        "Az erős szörf (hullámverés) és a szél hatására a dűnék néhol beleomlanak az óceánba",
+        "A durva körülmények ellenére az oroszlánok és hiénák olykor a tengerpartig is kimerészkednek",
+        "Északi része (a Skeleton Coast National Park területén) csak speciális engedéllyel és vezetővel látogatható"
+      ]
+    },
+    {
+      "id": "na-cape-cross-nature-v2",
+      "descriptionAdvanced": "A Cape Cross egy sziklás, történelemmel és természettel átitatott földfok az Atlanti-óceán partján, a Namíb-sivatag peremén (a Dorob Nemzeti Park területén). Történelmi jelentőségét 1486-ban nyerte el, amikor Diogo Cão portugál felfedező kikötött itt – az első európaiként ezen a szélességi fokon –, és egy mészkő keresztet (padraõ) emelt a portugál korona nevében. Geológiailag és biológiailag a helyszín a hideg Benguela-áramlat feláramlási (upwelling) zónája felett fekszik; a mélyből feltörő tápanyagdús víz elképesztő halgazdagságot teremt. Ennek köszönhetően a sziklás fokon alakult ki a világ egyik legnagyobb, fülsiketítően zajos és átható szagú medvefóka kolóniája. Történelem K7 — portugál felfedezők és padraõk",
+      "factsAdvanced": [
+        "1486-ban Diogo Cão portugál felfedező itt érte el legdélibb afrikai pontját",
+        "Cão egy kőkeresztet (padraõ) emelt a helyszínen, melynek másolata ma is látható",
+        "A part menti Benguela-áramlat 'upwelling' jelensége miatt a víz hihetetlenül gazdag planktonokban és halakban",
+        "A világ egyik legnagyobb dél-afrikai medvefóka (Cape fur seal) kolóniájának otthona",
+        "A fókatrágya (guanó) miatt a sziklák fehéres elszíneződésűek és rendkívül erős szagúak",
+        "A történelem során guanóbányászat is folyt a területen a műtrágyaipar számára"
+      ]
+    },
+    {
+      "id": "na-dunes-sossusvlei-nature-v2",
+      "descriptionAdvanced": "Sossusvlei a Namib-Naukluft Nemzeti Park központjában elhelyezkedő, a világ leglátványosabb és legmagasabb homokdűnéivel övezett kiszáradt, fehér agyagserpenyő (salt és clay pan). A dűnék magassága eléri a 300–400 métert is (köztük a híres 'Big Daddy' dűne), színük pedig az oxidálódott vasnak köszönhetően a napszaktól függően a mélyvöröstől az élénk narancssárgáig lángol. Ezek a dűnék csillag alakúak (star dunes), ami azt jelenti, hogy a szelek minden irányból formálják őket, így évezredek óta viszonylag stabilak maradnak ezen a helyen. Ritka, nagy esőzések idején a Tsauchab folyó eléri a medencét, és egy türkizkék tavat hoz létre a vörös homoktenger közepén, ami elképesztő látványt nyújt. Földrajz K8 — csillagdűnék formálódása és vasoxidáció",
+      "factsAdvanced": [
+        "A világ egyik leghíresebb sivatagi tája, a Namíb-sivatag vörös homokdűnéivel",
+        "A dűnék lenyűgöző színét a homokban lévő magas vas-oxid tartalom okozza",
+        "A 'Big Daddy' dűne magassága megközelíti a 325 métert",
+        "Ezek a formációk csillagdűnék (star dunes), amelyeket a több irányból fújó szelek alakítanak ki",
+        "Sossusvlei jelentése: 'a víz gyülekezőhelye a zsákutcában' (ahol a dűnék elzárják a folyót)",
+        "Tíz-tizenöt évente, nagy esőzések után az agyagmedence vízzel telik meg"
+      ]
+    },
+    {
+      "id": "na-dead-vlei-nature-v2",
+      "descriptionAdvanced": "A Deadvlei ('Halott Mocsár') Sossusvlei közvetlen szomszédságában fekszik, és talán Namíbia legszürreálisabb, leginkább festővászonra kívánkozó természeti csodája. Ez a vakítóan fehér agyagserpenyő valaha a Tsauchab folyó medre volt, ahol bőven termett a Camel Thorn (teveakácia) fa. Azonban mintegy 900 évvel ezelőtt az éghajlat megváltozott, és a hatalmas vörös homokdűnék elzárták a folyó útját. A fák kiszáradtak, de a rendkívül száraz, perzselő sivatagi levegőben nem indultak bomlásnak; a nap ébenfeketére égette (petrifikálta) a törzseiket. Ma ezek az ezeréves, fekete csontváz-fák kísértetiesen emelkednek ki a fehér agyagból, a gigantikus narancsvörös dűnék (köztük a 'Big Daddy') háttere előtt. Földrajz K7 — kiszáradt völgyek és petrifikáció",
+      "factsAdvanced": [
+        "Egy kiszáradt agyagmedence a Namíb-sivatag szívében, rögtön Sossusvlei mellett",
+        "Mintegy 900 éve, amikor a dűnék elzárták a folyót, a terület teljesen kiszáradt",
+        "A völgyet a nap által megfeketedett, közel 1000 éves 'Camel Thorn' (teveakácia) fák uralják",
+        "Az extrém szárazság miatt a fák nem bomlottak el, hanem kiszáradva mumifikálódtak",
+        "A táj egyedülálló színkontrasztot nyújt: fehér agyag, fekete fák, vörös dűnék és kék ég",
+        "Namíbia legtöbbet fotózott természeti (geológiai) nevezetessége"
+      ]
+    },
+    {
+      "id": "na-kuiseb-river-nature-v2",
+      "descriptionAdvanced": "A Kuiseb folyó Közép-Namíbia egyik legfontosabb, de az év legnagyobb részében száraz (ephemer) folyója, amely a Khomas-felföldön ered és Walvis Bay közelében éri el az óceánt. A Kuiseb hatalmas geológiai és ökológiai válaszvonal a Namíb-sivatagban: a folyómeder szigorú fizikai határt von a délre fekvő, végtelen, magas vörös homokdűnék tengerje és az északra elterülő sík, sziklás kősivatag között. Amikor a folyó esős években megárad (ritkán éri el az óceánt), elsöpri a mederbe nyomuló homokot, így gátolva meg a dűnék északra terjeszkedését. A földalatti medre hatalmas víztartalékokat rejt, amelyek éltetik a parti városok lakosságát, és az ikonikus nara dinnyét (Acanthosicyos horridus), a helyi Topnaar (Khoekhoe) nép túlélési forrását. Földrajz K8 — időszakos folyók és sivatagi természetes gátak",
+      "factsAdvanced": [
+        "A Namíb-sivatagot élesen két részre – déli homokdűnék és északi sziklás sivatag – osztja",
+        "Nagy áradásai (amelyek mossák a homokot) ritkák, de meggátolják a dűnék északra vándorlását",
+        "Földalatti vízbázisa (Kuiseb aquifer) biztosítja Walvis Bay és a környéknyi uránbányák ivóvizét",
+        "Medrében dús, galériaerdős oázisok találhatók, például a Kuiseb Canyon mentén",
+        "A helyi Topnaar őslakosok megélhetése a folyó mentén vadon termő '!nara' dinnyén alapul",
+        "Hírhedt arról is, hogy a II. világháború alatt a kanyonjában bújt meg két német geológus, Hermann Korn és Henno Martin (Lásd: 'The Sheltering Desert')"
+      ]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "descriptionAdvanced": "A Swakop folyó Namíbia egyik leghosszabb időszakos (ephemer) vízfolyása, amely az ország központi hegyvidékein (Khomas-felföld) ered, majd Swakopmund városa mellett torkollik az Atlanti-óceánba. A felszínen az év szinte minden napján teljesen száraz, poros, homokos meder látszik, de mélyen a felszín alatt a víz folyamatosan szivárog az óceán felé. Ennek a felszín alatti víznek köszönhető, hogy a folyóvölgy egy kiterjedt, lineáris oázisként funkcionál a zord Namíb-sivatagban, ahol masszív Ana (Faidherbia albida) és Camel Thorn fák nőnek, és kisebb gazdaságok még spárgát, olívát és zöldségeket is tudnak termeszteni. Heves nyári esőzések után (ami évtizedenként csak párszor fordul elő) a Swakop pusztító árvízként zúdul le a tengerig. Földrajz K7 — felszín alatti vízfolyások és lineáris oázisok",
+      "factsAdvanced": [
+        "Swakopmund városa a folyó kiszáradt deltájánál épült fel",
+        "Bár a felszíne csontszáraz, a földalatti vízmozgás életben tartja a völgy növényzetét",
+        "A folyóvölgy Namíbia egyik legkülönlegesebb 'vonalmenti oázisa' (linear oasis)",
+        "Az alsó szakaszán olykor sűrű, holdbéli tájra emlékeztető rosszföldeket (badlands) alakított ki",
+        "A 'Swakop' név eredete (nama nyelven) az áradásokkor hordozott barna, iszapos trutymóra ('Tsoa-xaub') utal",
+        "Nagyon ritkán, kivételesen csapadékos években a folyó látványosan, hömpölyögve áttöri a dűnéket és eléri az óceánt"
+      ]
+    },
+    {
+      "id": "na-tsauchab-river-nature-v2",
+      "descriptionAdvanced": "A Tsauchab folyó a Namib-Naukluft Nemzeti Park leghíresebb időszakos folyója. A Naukluft-hegységben eredve mintegy 100 kilométert kanyarog nyugat felé a Namíb-sivatagban, és útja során vájta ki a lenyűgöző Sesriem kanyont. Különlegessége, hogy soha nem éri el az óceánt: a sivatag szívében, a vörös homokdűnék elzárják az útját, és a folyó a híres Sossusvlei agyagmedencében (pan) végződik. Noha a folyó medre évtizedekig porzik, a hatalmas hegyi esőzések után a víz végigsöpör a sivatagon, és feltölti a Sossusvlei-t, valamint a szomszédos tavakat, ahol a csillogó víztükör egy időre elképesztő kontrasztot teremt a vörös homokkal és a kék éggel. Földrajz K7 — endoreikus (lefolyástalan) folyók",
+      "factsAdvanced": [
+        "Egy endoreikus (lefolyástalan) időszakos folyó a Namíb-sivatagban",
+        "A folyó eróziós munkája alakította ki a meredek falú Sesriem kanyont",
+        "Végállomása a hatalmas dűnékkel elzárt Sossusvlei agyagmedence",
+        "Az utolsó fázisban a víz nem folyik tovább, hanem egyszerűen elpárolog vagy a homokba szivárog",
+        "Ritka, özönvízszerű áradásai (kb. tízévente egyszer) turistalátványosságnak számítanak",
+        "Galériaerdei (teveakáciák) éltetik az itteni sivatagi élővilágot (oryxok, struccok)"
+      ]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "descriptionAdvanced": "A Hoarusib folyó Északnyugat-Namíbia, az elszigetelt Kaokoveld (Kunene régió) egyik legfontosabb, látványos, meredek kanyonok között kanyargó időszakos vízfolyása. Míg a Namíb-sivatag legtöbb folyója teljesen kiszárad, a Hoarusib medrében az év nagy részében kisebb felszíni vízerek és mély pocsolyák maradnak fenn. Agyagos, sárgás vizű kanyonja és a partját kísérő zöldellő makaláni pálmák igazi sivatagi oázist alkotnak. Ez a folyóvölgy kritikus túlélési folyosó a világ egyik legritkább állatai, a sivatagi elefántok, oroszlánok és a fekete orrszarvúk számára. A part mentén gyakran látni a nomád Himba pásztorokat, akik a víz és legelő reményében vándorolnak ide. Biológia K8 — túlélési folyosók és sivatagi oázisok",
+      "factsAdvanced": [
+        "A Kaokoveld (Kunene régió) kietlen, sivatagos tájain kanyarog",
+        "Gyakran látványos, agyagos sárga vizet szállít a felszínen is",
+        "A völgy falait magasba törő, drámai sziklakanyonok (pl. Clay Castles) övezik",
+        "Létfontosságú útvonal a sivataghoz alkalmazkodott elefántok (desert elephants) számára",
+        "A hagyományőrző, félnomád Himba népcsoport fontos legeltetési területe",
+        "A Skeleton Coast (Csontvázpart) északi szakaszánál torkollik az Atlanti-óceánba"
+      ]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "descriptionAdvanced": "A Hoanib folyó a Skeleton Coast és a Kaokoveld régiók egyik legismertebb és biológiailag leggazdagabb időszakos (ephemer) vízfolyása. Hossza mintegy 270 km, és medre az esetek túlnyomó részében kiszáradt, fehér homokos szalagként vág át a hegyek és a kopár sziklás sivatag között. Azonban az Ana-fák (Faidherbia albida) sűrű, árnyékos galériaerdeje, mely a mélyben rejlő vizet szívja fel, bőséges táplálékot – főként a fák lehulló, tápláló gubóit – biztosít a vadvilágnak. A Hoanib a sivatagi elefántok, a sivatagi zsiráfok, és a rendkívül ritka, kíméletlen környezethez alkalmazkodott 'sivatagi oroszlánok' (desert lions) talán legbiztosabb megfigyelőhelye Namíbiában. Földrajz K8 — sivatagi táplálékláncok és ephemer folyók",
+      "factsAdvanced": [
+        "Egyike Namíbia nagy északi időszakos (ephemer) sivatagi folyóinak",
+        "A tengerhez (Csontvázpart) közeledve a dűnék gyakran teljesen elnyelik a medrét",
+        "Híres az Ana-fák (Faidherbia albida) alkotta dús galériaerdejéről",
+        "Ez a sűrű növényzet Namíbia sivatagi elefánt-populációjának egyik legfontosabb bázisa",
+        "A kutatók ezen a területen figyelték meg leginkább a ritka sivatagi oroszlánokat (desert lions)",
+        "Az utolsó szakaszán áttörő ritka áradások (floods) éltetik a tengerparti oázisokat"
+      ]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "descriptionAdvanced": "Az Ugab folyó Damaraland egyik legfontosabb földrajzi határvonala és éltető ereje. A hatalmas, hegyvidéki medencében eredő folyó az év csak néhány napján szállít látható felszíni vizet, ám széles, lapos medre alatt gazdag vízbázis rejtőzik. Ez a nedvesség táplálja azokat a sűrű Mopane és teveakácia ligeteket, amelyek az itteni élővilágot fenntartják. Az Ugab folyórendszere azért is egyedülálló, mert a völgye természetes folyosót (zöld utat) vág a magasba törő, sziklás hegyvonulatok között (mint amilyen a Brandberg). Ez a folyosó az elsődleges vándorlási útvonala Damaraland sivatagi elefántjainak és fekete orrszarvúinak. Geológiailag a völgy teraszai feltárják a régió vulkanikus és tektonikus történelmének viharos évmillióit. Biológia K7 — sivatagi vándorlási folyosók",
+      "factsAdvanced": [
+        "A Damaraland régió közepén futó, közel 500 km hosszú időszakos folyó",
+        "Természetes, zöldellő vándorlási folyosót alkot a kietlen, sziklás hegyek között",
+        "A Namíbia legmagasabb hegye, a Brandberg (Tűzhegy) északi lábánál kanyarog",
+        "Szinte csak a földfelszín alatt (szivárogva) hordoz vizet az év legnagyobb részében",
+        "A sivatagi elefántok és a fekete orrszarvúk kiemelten fontos élőhelye",
+        "Sziklás partfalai látványos, ősi vulkáni és üledékes geológiai rétegeket mutatnak be"
+      ]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "descriptionAdvanced": "A Hal-folyó (Fish River) Namíbia leghosszabb belső vízfolyása (körülbelül 650 kilométer), amely a Naukluft-hegység aszályos keleti lábainál ered, átszeli a kietlen, kősivatagos déli Karoo régiót, és végül délre, Oranjemund közelében a hatalmas Oranje folyóba (Orange River) torkollik. Bár Namíbia leghosszabb folyója, a száraz évszakokban (májustól novemberig) teljesen kiszárad, és csak az erózió által mélyített sziklás medencéiben (pools) marad vissza stagnáló víz, amelyek azonban életmentőek az állatvilág számára. A folyó leglátványosabb alkotása a világ második legnagyobb kanyonja, a Fish River Canyon, amelyet évmilliók alatt vágott a sziklába merész, kanyargós meanderekkel. Földrajz K8 — meanderező folyók és belső erózió",
+      "factsAdvanced": [
+        "Namíbia leghosszabb (kb. 650 km), kizárólag az országon belül futó folyója",
+        "Eróziós munkája alakította ki a lélegzetelállító, mély Fish River Kanyont",
+        "Folyása erősen időszakos; a nyári heves esőzések után olykor gyors és pusztító áradásokat produkál",
+        "Végállomása a dél-afrikai határt képező Oranje folyó (Orange River)",
+        "A Hardap-gát (Mariental mellett) megépítése óta a folyó alsó szakaszának vízhozama drasztikusan csökkent",
+        "Száraz évszakban elszigetelt tavacskáira (pools) támaszkodnak a kanyon hegyi zebrái és páviánjai"
+      ]
+    },
+    {
+      "id": "na-hardap-dam-nature-v2",
+      "descriptionAdvanced": "A Hardap-gát a Fish folyó (Fish River) mesterségesen felduzzasztott, gigantikus víztározója Közép-Namíbiában, Mariental városa közelében. 1963-ban adták át, és a maga 25 négyzetkilométeres vízfelületével az ország legnagyobb tavává vált. Míg elsődleges funkciója a déli száraz vidék hatalmas öntözéses mezőgazdaságának (irrigation scheme) vízellátása és Mariental árvízvédelme, a duzzasztás révén egy egyedülálló, ember alkotta édesvízi ökoszisztéma is kialakult a kietlen Karoo sivatag közepén. A tó egyaránt otthont ad hatalmas pelikán- és kormoránkolóniáknak, a vadvédelmi területén pedig oryxok és hegyi zebrák élnek. Földrajz K7 — mesterséges tavak ökológiája",
+      "factsAdvanced": [
+        "Namíbia legnagyobb víztározója (és tava), amelyet a Fish folyón építettek",
+        "1963-ban készült el, gátja mintegy 39 méter magas és 865 méter hosszú",
+        "Kapacitása közel 300 millió köbméter víz, mely elengedhetetlen a helyi mezőgazdaságnak",
+        "A tavat körülvevő Hardap Rekreációs Terület népszerű vízisport- és horgászhelyszín",
+        "Az édesvízi tó jelentősen módosította a helyi száraz mikroklímát és madárvilágot",
+        "Bár ritka, a heves esőzések okozta túlcsordulása többször is (pl. 2006-ban) elárasztotta a közeli Mariental városát"
+      ]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "descriptionAdvanced": "Az Otjikoto-tó egy geológiai és történelmi ritkaság Észak-Namíbiában, Tsumeb városától nem messze. A tó valójában egy karsztos dolina (víznyelő), amely akkor keletkezett, amikor egy gigantikus, mészköves földalatti barlangrendszer teteje beszakadt. Formája szinte tökéletesen kör alakú (kb. 100 méter átmérőjű), a vize pedig kristálytiszta, mélykék színű, bár becsült mélysége meghaladja a 140 métert, és a fenekén bonyolult barlangrendszer nyílik. Hírnevét azonban az I. világháborúnak köszönheti: 1915-ben a visszavonuló német csapatok ide süllyesztették ágyúikat, fegyvereiket és lőszerkészleteiket, hogy azok ne kerüljenek a dél-afrikaiak kezébe, ami miatt ma is népszerű búvárcélpont. Geológia K8 — karsztos víznyelők és barlangtavak",
+      "factsAdvanced": [
+        "Egy beszakadt karsztbarlang (dolina vagy cenote) eredménye az északi mészkővidéken",
+        "Az ovambo nyelvjárásban a neve 'Otjikoto' annyit tesz: 'Mély Lyuk'",
+        "Namíbia kevés állandó természetes tavainak egyike (a közeli Guinas-tóval együtt)",
+        "Az 1915-ben ide süllyesztett I. világháborús fegyverek nagy részét kiemelték és a Tsumeb Múzeumban őrzik",
+        "Két endemikus (csak itt élő), rendkívül ritka, színes halfajnak (pl. Otjikoto tilápia) is otthont ad",
+        "Tényleges, teljes mélységét és földalatti kiterjedését a búvárok a mai napig nem tudták teljes pontossággal feltérképezni"
+      ]
+    }
+  ]
+}

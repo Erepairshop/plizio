@@ -1,0 +1,21 @@
+{
+  "lang": "de",
+  "files": ["lib/visualLab/data/poiExtraIvorycoastNatureV2.ts"],
+  "items": [
+    {
+      "id": "mount-nimba-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Nimba-Massiv ist mit einer Höhe von 1752 Metern der höchste Gipfel der Elfenbeinküste und liegt im Dreiländereck zwischen Guinea, Liberia und der Elfenbeinküste. Das Gebiet ist als UNESCO-Welterbestätte geschützt und beherbergt eine einzigartige Flora und Fauna, die nirgendwo anders vorkommt. Das Massiv ist durch seine steilen Hänge und dichten Bergwälder geprägt, die ein komplexes Ökosystem bilden. Die Region ist von großem wissenschaftlichen Interesse aufgrund der seltenen endemischen Arten, die dort gefunden werden. (Geografie K8 — Hochgebirge und Schutzgebiete)",
+        "hu": "A Nimba-hegység, 1752 méteres magasságával Elefántcsontpart legmagasabb pontja, Guinea, Libéria és Elefántcsontpart hármas határánál található. A terület UNESCO világörökségi helyszínként védett, és egyedülálló növény- és állatvilágnak ad otthont, amely sehol máshol nem fordul elő. A masszívumot meredek lejtők és sűrű hegyi erdők jellemzik, amelyek összetett ökoszisztémát alkotnak. A régió nagy tudományos jelentőséggel bír az ott található ritka endemikus fajok miatt. (Földrajz K8 — magashegységek és védett területek)",
+        "ro": "Masivul Nimba, cu o înălțime de 1752 de metri, este cel mai înalt vârf din Coasta de Fildeș și este situat la granița tripartită dintre Guineea, Liberia și Coasta de Fildeș. Zona este protejată ca sit al Patrimoniului Mondial UNESCO și găzduiește o floră și faună unică, care nu se regăsește nicăieri altundeva. Masivul este caracterizat prin versanți abrupți și păduri montane dense care formează un ecosistem complex. Regiunea prezintă un mare interes științific datorită speciilor endemice rare găsite acolo. (Geografie K8 — munți înalți și arii protejate)",
+        "en": "The Nimba Massif, at a height of 1752 meters, is the highest peak in Ivory Coast and is located at the tri-border point between Guinea, Liberia, and Ivory Coast. The area is protected as a UNESCO World Heritage site and is home to unique flora and fauna found nowhere else. The massif is characterized by its steep slopes and dense mountain forests that form a complex ecosystem. The region is of great scientific interest due to the rare endemic species found there. (Geography K8 — high mountains and protected areas)"
+      },
+      "factsAdvanced": {
+        "de": ["Höhe 1752 Meter.", "UNESCO-Welterbe seit 1981.", "Dreiländereck (CI, GN, LR).", "Reich an endemischen Arten.", "Steile Hänge und Bergwälder.", "Wissenschaftlich bedeutend."],
+        "hu": ["Magasság 1752 méter.", "UNESCO világörökség 1981 óta.", "Hármas határ (CI, GN, LR).", "Gazdag endemikus fajokban.", "Meredek lejtők és hegyi erdők.", "Tudományosan jelentős."],
+        "ro": ["Înălțime 1752 metri.", "Patrimoniu Mondial UNESCO din 1981.", "Graniță tripartită (CI, GN, LR).", "Bogată în specii endemice.", "Versanți abrupți și păduri montane.", "Semnificație științifică."],
+        "en": ["Height 1752 meters.", "UNESCO World Heritage site since 1981.", "Tri-border (CI, GN, LR).", "Rich in endemic species.", "Steep slopes and mountain forests.", "Scientifically significant."]
+      }
+    }
+  ]
+}

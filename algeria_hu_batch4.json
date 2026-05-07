@@ -1,0 +1,334 @@
+{
+  "lang": "hu",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "belezma-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Belezma Nemzeti Park Algéria északi részén, Batna tartományban található, és az Aurès-hegység egyik legfontosabb természetvédelmi területe. A park hírnevét elsősorban az őshonos atlaszi cédrusoknak (Cedrus atlantica) köszönheti, amelyek hatalmas erdőségeket alkotnak a 2000 méter feletti csúcsok lankáin. A terület klímája a mediterrán és a szaharai hatások találkozása, ami különleges biodiverzitást eredményez: több mint 440 növényfaj és számos ritka állatfaj, köztük a berber szarvas és a kőris mormota otthona. A látogatókat látványos kanyonok, barlangok és sűrű erdők várják, amelyek a vándorló madarak számára is létfontosságú pihenőhelyet jelentenek. Földrajz K7 – Algéria élővilága és védett területei."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A nemzeti parkot 1984-ben alapították a biodiverzitás megőrzésére.",
+          "Területe körülbelül 262,5 négyzetkilométert tesz ki.",
+          "Itt található az atlaszi cédrus egyik legfontosabb állománya az országban.",
+          "A park legmagasabb pontja a Djebel Chenchel, amely 2136 méter magas.",
+          "Több mint 300 állatfajt azonosítottak a területen, köztük 111 madárfajt.",
+          "A parkban neolitikumi régészeti lelőhelyeket és római kori romokat is feltártak.",
+          "UNESCO bioszféra-rezervátum minősítéssel is rendelkezik."
+        ]
+      }
+    },
+    {
+      "id": "djurdjura-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Djurdjura Nemzeti Park a Tell-Atlasz szívében, a Kabília régióban fekszik, és Algéria egyik legdrámaibb hegyvidéki tája. A parkot meredek sziklafalak, mély szakadékok és hófödte csúcsok jellemzik, köztük a 2308 méter magas Lalla Khedidja. A terület híres kiterjedt barlangrendszereiről, mint például az Anou Ifflis, amely Afrika egyik legmélyebb barlangja. Az élővilág kiemelkedő képviselője a veszélyeztetett berber majom (magott), amely a sűrű cédrus- és tölgyerdőkben él. A park a túrázók és a barlangászok paradicsoma, ahol a zord terep és a buja völgyek váltakozása lenyűgöző látványt nyújt minden évszakban. Földrajz K7 – Magashegységi életközösségek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A parkot 1983-ban hozták létre a magashegyi ökoszisztéma védelmére.",
+          "Itt található Afrika legmélyebb barlangja, az Anou Ifflis (1170 méter mély).",
+          "A Lalla Khedidja-csúcs a Djurdjura-hegység legmagasabb pontja.",
+          "A park területe 185 négyzetkilométer.",
+          "A berber majom (Macaca sylvanus) egyik utolsó természetes élőhelye.",
+          "A növényvilágban az atlaszi cédrus és a magyaltölgy dominál.",
+          "Télen a terület népszerű síelési helyszín Tikjda környékén.",
+          "A parkban számos endémikus növényfaj található, amelyek csak itt élnek."
+        ]
+      }
+    },
+    {
+      "id": "theniet-el-had-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Théniet El Had Nemzeti Park, amelyet gyakran 'S'hel' néven is emlegetnek, Algéria első nemzeti parkja, amelyet még 1923-ban alapítottak. Tissemsilt tartományban található, és az Atlasz-hegység egyik legszebb cédruserdőjének, az El Meddad erdőnek ad otthont. A park különleges mikroklímája lehetővé tette, hogy az atlaszi cédrusok itt hatalmasra nőjenek, némelyikük több száz éves. A terület nemcsak botanikai szempontból értékes, hanem fontos menedékhely a helyi fauna számára is, beleértve a különféle ragadozó madarakat és vadmacskákat. A park kirándulóútvonalai a természet szerelmeseinek kínálnak felejthetetlen élményt a sűrű, óriási fákkal teli erdőben. Földrajz K7 – Erdők és természetvédelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1923-as alapításával ez Algéria legrégebbi nemzeti parkja.",
+          "A park központi eleme az El Meddad cédruserdő.",
+          "Területe 3616 hektár, amely nagyjából 1500 méteres magasságban fekszik.",
+          "A park legmagasabb pontja a Ras El Braret (1787 méter).",
+          "Számos forrás fakad a területen, amelyek tiszta ivóvizet biztosítanak.",
+          "Az atlaszi cédrusok mellett örökzöld tölgyek és borókák is alkotják az erdőt.",
+          "A területen több mint 100 madárfajt figyeltek meg a kutatók."
+        ]
+      }
+    },
+    {
+      "id": "tlemcen-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Tlemcen Nemzeti Park Algéria északnyugati részén található, és a természetvédelmi területek közül az egyik leggazdagabb történelmi és kulturális örökséggel rendelkezik. A park területén található a lenyűgöző Ourit-vízesés, valamint a Beni Add-barlang, amelynek cseppkőformációi több ezer évesek. A park ötvözi a mediterrán erdők szépségét a középkori iszlám építészet romjaival, mint például Mansourah városa. Az élővilág itt is változatos, a tölgyesekben és fenyvesekben számos kisemlős és hüllő talál otthonra. A park fontos szerepet játszik a környezeti nevelésben, bemutatva a természet és az emberi történelem szoros kapcsolatát. Földrajz K7 – Tájegységek és ökoszisztémák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A nemzeti parkot 1993-ban hozták létre Tlemcen város környékén.",
+          "Területe 8225 hektár, változatos domborzattal és növényzettel.",
+          "A Beni Add-barlang Algéria egyik leghíresebb természetes barlangrendszere.",
+          "Az Ourit-viadukt, amely a vízesés felett ível át, Gustave Eiffel tervei alapján készült.",
+          "A parkban található a Lalla Setti-fennsík, amely népszerű kilátóhely.",
+          "Több mint 140 állatfaj él a területen, köztük ritka ragadozók.",
+          "A park magában foglalja a középkori Mansourah mecset és erőd maradványait."
+        ]
+      }
+    },
+    {
+      "id": "guelma-thermal-baths-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Guelma tartomány egyik legkülönlegesebb látványossága a Hammam Debagh termálfürdő, amely híres extrém forró vizű forrásairól és látványos mésztufa-formációiról. A források vize eléri a 95°C-ot, ami a világon az egyik legmagasabb hőmérsékletű természetes víz. Az évezredek során a kicsapódó ásványi anyagokból hatalmas, színes 'kőzuhatagok' és travertin kúpok jöttek létre, amelyek a föld mélyéből feltörő vulkáni energiák tanúi. A helyiek és a turisták nemcsak gyógyító hatása miatt látogatják, hanem a természeti jelenség esztétikai értéke miatt is. A forró gőzölgő táj és a fehér mészkőfalak drámai kontrasztot alkotnak a környező zöld völgyekkel. Földrajz K7 – Hévizek és utóvulkáni jelenségek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A források vize a feltörés helyén eléri a 95 Celsius-fokot.",
+          "A Hammam Debagh mésztufa-formációit 'A vízesés' (La Cascade) néven ismerik.",
+          "A víz magas ásványianyag-tartalma miatt gyógyító hatású a reumatikus panaszokra.",
+          "A travertin lerakódások több mint 20 méter magasra is megnőhetnek.",
+          "Ez Algéria egyik leglátogatottabb belföldi turisztikai célpontja.",
+          "A források vizét már a rómaiak is használták fürdőzésre (Aquae Thibilitanae).",
+          "A közeli Guelma városában ókori római színház is található."
+        ]
+      }
+    },
+    {
+      "id": "el-oued-palm-groves-life-v2",
+      "descriptionAdvanced": {
+        "hu": "El Oued, az 'ezer kupola városa', a Szahara szívében fekszik, és híres egyedülálló mezőgazdasági módszeréről, a 'Ghout' rendszerről. A helyi gazdák hatalmas tölcsérszerű mélyedéseket ásnak a homokdűnék közé, hogy a datolyapálmák gyökerei közvetlenül elérjék a talajvizet. Ez a zseniális technika lehetővé teszi az öntözés nélküli pálmatermesztést a sivatagban. A pálmaligetek a levegőből nézve hatalmas zöld körökként tűnnek fel a sárga homoktengerben. Itt teremnek a világ legjobb minőségű Deglet Nour datolyái, amelyek a helyi gazdaság alappillérét jelentik. A táj az emberi kitartás és a természeti erőforrások okos kihasználásának szimbóluma. Földrajz K8 – Sivatagi gazdálkodás és öntözés."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A 'Ghout' rendszer lehetővé teszi a pálmák öntözés nélküli nevelését.",
+          "El Oued a Souf-régió központja, ahol több ezer ilyen pálmaliget található.",
+          "A város beceneve 'Az ezer kupola városa' a jellegzetes építészeti stílusa miatt.",
+          "A Deglet Nour datolya 'a fény ujja' jelentéssel bír, és világhírű exportcikk.",
+          "A pálmák alatti árnyékban gyakran termesztenek zöldségeket és dohányt is.",
+          "A talajvízszint emelkedése és süllyedése folyamatos kihívást jelent a gazdáknak.",
+          "A régió kultúrája szorosan kötődik a datolya betakarítási ciklusához."
+        ]
+      }
+    },
+    {
+      "id": "mascara-vineyards-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Mascara tartomány Algéria egyik történelmi bortermelő vidéke, ahol a szőlőtermesztés hagyományai az ókorig nyúlnak vissza. A régió mediterrán éghajlata, a forró nyarak és a dombos domborzat ideális feltételeket biztosítanak a minőségi szőlőműveléshez. A francia gyarmati időszakban a terület a világ egyik legjelentősebb borvidékévé vált, és bár azóta a termelés szerkezete átalakult, a szőlőkertek ma is meghatározzák a tájképet. A helyi borok híresek testességükről és karakteres ízvilágukról. A szőlőművelés mellett az olajbogyó-termesztés is jelentős, ami tovább színesíti a vidék mezőgazdasági palettáját. Földrajz K8 – Algéria mezőgazdasági régiói."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Mascara Algéria egyik legrégebbi bortermelő központja.",
+          "A régió klímáját a tenger közelsége és a hegyek védőhatása befolyásolja.",
+          "A legfontosabb szőlőfajták közé tartozik a Grenache és a Carignan.",
+          "A területen található 'Coteaux de Mascara' borok nemzetközi hírnévvel bírnak.",
+          "A szőlőskertek gyakran 400-800 méteres tengerszint feletti magasságban fekszenek.",
+          "A szüret általában augusztus végétől szeptember végéig tart.",
+          "A mezőgazdaság a helyi lakosság több mint felének biztosít megélhetést."
+        ]
+      }
+    },
+    {
+      "id": "tipaza-coastal-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Tipaza partvidéke Algéria egyik legtermékenyebb mezőgazdasági övezete, ahol a Földközi-tenger közelsége és a Mitidja-alföld gazdag talaja találkozik. A régió híres citrusféléiről, korai zöldségeiről és gyümölcsöskertjeiről. A domboldalakon gondosan kialakított teraszok és öntözőrendszerek biztosítják a folyamatos termelést a forró nyári hónapokban is. A mezőgazdasági területek közvetlenül a kék tengerpart mellett fekszenek, ahol a sós tengeri szél és a napsütés különleges zamatot ad az itt termő gyümölcsöknek. A táj itt nemcsak gazdaságilag értékes, hanem esztétikailag is lenyűgöző, ahogy a zöld ültetvények a tengerparti sziklákig nyúlnak. Földrajz K8 – Mediterrán típusú mezőgazdaság."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Tipaza régiója a citrusfélék, különösen a narancs és a mandarin fő termőhelye.",
+          "A tengerparti klíma lehetővé teszi a zöldségek korai betakarítását.",
+          "A területen jelentős az üvegházi termesztés is a hatékonyság növelése érdekében.",
+          "A római kori romok szomszédságában ma is aktív mezőgazdasági munka folyik.",
+          "A régió talaja vulkanikus és üledékes kőzetek keverékéből áll, ami rendkívül tápdús.",
+          "Tipaza híres az asztali szőlő és az eper termesztéséről is.",
+          "A mezőgazdasági termékek nagy részét a közeli Algír piacaira szállítják."
+        ]
+      }
+    },
+    {
+      "id": "ghardaia-oasis-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A M'zab-völgy in található Ghardaia oázisa az emberi találékonyság mesterműve a sivatagi környezetben. A helyi mezőgazdaság alapja a több száz éves, bonyolult öntözőrendszer, amely minden egyes csepp vizet szétoszt a pálmaligetek között. A gátak, csatornák és földalatti víztározók (foggara) rendszere biztosítja a datolyapálmák túlélését a perzselő hőségben. Az oázisban háromszintű gazdálkodás folyik: felül a pálmák árnyékolnak, alattuk gyümölcsfák (füge, gránátalma) nőnek, a talajszinten pedig takarmányt és zöldségeket termesztenek. Ez a fenntartható rendszer évszázadok óta élelmet ad a sivatagi közösségeknek, és az UNESCO Világörökség része. Földrajz K8 – Hagyományos oázisgazdálkodás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A M'zab-völgy öntözőrendszere a 11. század óta működik folyamatosan.",
+          "Az oázisban több mint 60 000 datolyapálma található.",
+          "A víz elosztása szigorú közösségi szabályok szerint történik.",
+          "A foggara-rendszer a föld alatti víztartó rétegekből vezeti a vizet az oázisba.",
+          "A háromszintes növénytermesztés maximalizálja a terület és a víz kihasználását.",
+          "A datolya betakarítása után a magokat gyakran állati takarmányként hasznosítják.",
+          "UNESCO Világörökségi helyszín a technikai és kulturális értéke miatt."
+        ]
+      }
+    },
+    {
+      "id": "souk-ahras-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Souk Ahras tartomány Algéria északkeleti részén, a tunéziai határ közelében fekszik, és az ország egyik legfontosabb gabonatermelő vidéke. A dombos, fennsíki domborzat és a viszonylav bőséges csapadék ideális a búza és az árpa termesztéséhez. A régió története szorosan összefonódik a mezőgazdasággal: már a római korban az 'Empire éléstáraként' ismerték ezt a területet. A gabonatáblák mellett kiterjedt olajfaligetek és állattenyésztő gazdaságok is találhatók itt. A táját a végtelen aranyszínű gabonamezők jellemzik, amelyek a nyári aratás idején a leglátványosabbak. Földrajz K8 – Szántóföldi növénytermesztés az Atlaszban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Souk Ahras Algéria egyik vezető tartománya a búza- és árpareprodukcióban.",
+          "A régió átlagos csapadékmennyisége meghaladja az évi 600 mm-t.",
+          "Az ókori Tagaste (a mai Souk Ahras) Szent Ágoston szülőhelye és mezőgazdasági központ volt.",
+          "A területen jelentős az olívaolaj-termelés is, számos modern feldolgozóval.",
+          "Az állattenyésztésben a szarvasmarha és a juh tartása dominál.",
+          "A mezőgazdaság modernizálása érdekében nagyszabású öntözési projektek zajlanak.",
+          "A tartomány erdeiben parafát is termelnek, ami fontos exportcikk."
+        ]
+      }
+    },
+    {
+      "id": "skikda-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Skikda, a 'szamócák városa', Algéria északkeleti partvidékén található, és híres különlegesen édes eperterméséről. A párás tengerparti klíma és a tápanyagban gazdag völgyek tökéletes környezetet biztosítanak a kertészeti kultúráknak. Az oroszországi eredetű eperfajta, amelyet a 20. század elején honosítottak meg itt, mára a város jelképévé vált. Az eper mellett a régió citrusféléiről és paradicsomtermesztéséről is ismert, amelyeket modern üvegházakban és szabadföldi ültetvényeken egyaránt művelnek. A minden évben megrendezett eper-fesztivál a helyi mezőgazdasági büszkeség és a gazdag termés ünnepe. Földrajz K8 – Kertgazdálkodás és tengerparti mezőgazdaság."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Skikda az ország epertermelésének több mint 60%-át adja.",
+          "Az eper-fesztivált minden évben júniusban rendezik meg a városban.",
+          "A tartományban található a Saf-Saf folyó völgye, amely rendkívül termékeny.",
+          "A citrusfélék közül a narancs és a citrom termesztése a legjelentősebb.",
+          "A paradicsomtermelés feldolgozóiparra (konzervgyárakra) támaszkodik.",
+          "A régió klímája szubtrópusi jellegű, enyhe telekkel.",
+          "Skikda kikötője fontos szerepet játszik a mezőgazdasági termékek exportjában."
+        ]
+      }
+    },
+    {
+      "id": "tindouf-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Tindouf Algéria távoli délnyugati sarkában, a Szaharában fekszik, ahol a mezőgazdaság a túlélés és az alkalmazkodás művészete. A szélsőséges szárazság ellenére az utóbbi évtizedekben jelentős fejlesztések történtek a sivatagi kertészkedés terén. Modern üvegházakban és gondosan öntözött parcellákon zöldségeket, gyümölcsöket és természetesen datolyát termesztenek. Ezek a projektek nemcsak a helyi lakosság élelmezését szolgálják, hanem a menekülttáborok önellátási törekvéseit is támogatják. A gazdák napenergiával működtetett szivattyúkat használnak a mélyen fekvő víztartó rétegek eléréséhez, bizonyítva, hogy a technológia segítségével még a legzordabb környezet is termőre fordítható. Földrajz K8 – Alkalmazkodás a sivatagi körülményekhez."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A mezőgazdasági területeket gyakran homokfogó kerítésekkel védik a dűnéktől.",
+          "A napenergia használata alapvető a vízkivételhez a távoli parcellákon.",
+          "A legfontosabb növények a hagyma, paradicsom és a különféle takarmánynövények.",
+          "A datolyapálmák száma folyamatosan nő a kormányzati támogatásoknak köszönhetően.",
+          "A talajvíz kinyerése több száz méter mély kutakból történik.",
+          "A mezőgazdasági oktatás kulcsfontosságú a fiatal generációk számára a régióban.",
+          "Kísérleteznek a szárazságtűrő növényfajok honosításával is."
+        ]
+      }
+    },
+    {
+      "id": "bejaia-botanical-garden-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Béjaïa városában található botanikus kert (Jardin de la Liberté) a tengerparti város egyik zöld ékköve, amely a mediterrán és egzotikus növényvilág gazdag gyűjteményét mutatja be. A kertet eredetileg a 19. század végén alapították, és azóta is fontos szerepet tölt be a tudományos kutatásban és a pihenésben. A sétányok mentén hatalmas pálmák, ritka kaktuszok és színes mediterrán virágok láthatók, amelyek a tenger sós levegőjével együtt különleges atmoszférát teremtenek. A kert nemcsak a botanikusok számára érdekes, hanem a családok kedvelt helyszíne is, ahol a gyerekek megismerhetik a különböző éghajlati övezetek növényeit. Biológia K7 – A növényvilág sokfélesége és rendszertana."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A kert Béjaïa szívében, a kikötő közelében helyezkedik el.",
+          "Több mint 200 különböző növényfajt gyűjtöttek össze a világ minden tájáról.",
+          "A kertben található néhány több mint 100 éves óriáspálma is.",
+          "Fontos helyszíne a veszélyeztetett helyi növényfajok megőrzésének.",
+          "A francia gyarmati építészet stílusjegyei is felfedezhetők a kert kialakításában.",
+          "Ingyenesen látogatható közparkként is funkcionál a helyiek számára.",
+          "Oktatási programokat is szerveznek itt iskolásoknak a biodiverzitásról."
+        ]
+      }
+    },
+    {
+      "id": "batna-amusement-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Batna városában található családi vidámpark, a Lompi Family Park, a régió legnagyobb és legmodernebb szórakoztató központja. A park széles választékát kínálja a játékoknak, a klasszikus körhintáktól a modernebb hullámvasutakig, minden korosztály számára. A tervezők nagy hangsúlyt fektetnek a zöldterületek kialakítására is, így a park egyfajta oázisként működik a városi környezetben. A látogatókat különféle tematikus zónák, éttermek és pihenőhelyek várják, ahol a családok kikapcsolódhatnak. A park különösen népszerű az esti órákban és ünnepnapokon, amikor a kivilágított játékok varázslatos hangulatot árasztanak. Technika K6 – Szabadidő, pihenés és technikai eszközök."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Lompi Family Park Batna egyik legfőbb turisztikai vonzereje.",
+          "A park területén több mint 30 különböző attrakció és játék található.",
+          "Saját óriáskereke van, amelyről szép kilátás nyílik az Aurès-hegységre.",
+          "A parkban modern biztonsági rendszereket és európai szabványú gépeket használnak.",
+          "Évente több százezer látogatót fogad Kelet-Algériából.",
+          "Külön szekciókat alakítottak ki a legkisebb gyermekek számára biztonságos játékokkal.",
+          "A park területén szabadtéri színház is működik kulturális eseményekhez."
+        ]
+      }
+    },
+    {
+      "id": "hoggar-massif-relief-v2",
+      "descriptionAdvanced": {
+        "hu": "A Hoggar-masszívum (vagy Ahaggar) egy monumentális vulkanikus hegyvidék a Szahara közepén, amelynek látványa semmihez sem fogható. A prekambriumi kőzetekből álló alapzatot drámai bazaltoszlopok, gránittornyok és kialudt vulkáni kúpok tarkítják, amelyek az erózió és a tektonikus mozgások hatására nyerték el mai, szürreális formájukat. A hegység legmagasabb pontja a Tahat-hegy, amely 2908 méterrel magasodik a tengerszint fölé. A zord, sötét kőzetek és a végtelen homoksivatag kontrasztja misztikus hangulatot kölcsönöz a tájnak. Ez a terület a tuareg kultúra bölcsője és Algéria egyik legfontosabb geológiai kincse. Földrajz K7 – Vulkáni formák és sivatagi domborzat."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Hoggar-masszívum területe körülbelül 550 000 négyzetkilométer.",
+          "A hegység kőzetei között több milliárd éves gránitot is találunk.",
+          "Az Atakor-mező a hegység legaktívabb vulkáni múltú része.",
+          "A bazaltorgonák és függőleges sziklafalak a kihűlő láva eredményei.",
+          "A hegységben található az Assekrem-fennsík, Charles de Foucauld remetelakával.",
+          "A vízhiány ellenére a mély völgyekben (gueltákban) néha megmarad az esővíz.",
+          "UNESCO Világörökségi jelölt és nemzeti parki védelmet élvez."
+        ]
+      }
+    },
+    {
+      "id": "tassili-n-ajjer-relief-v2",
+      "descriptionAdvanced": {
+        "hu": "A Tassili n'Ajjer egy hatalmas homokkő-fennsík Délkelet-Algériában, amely világszerte híres egyedülálló geomorfológiai formációiról. A szél és az időszakos folyóvizek évezredek alatt 'kőerdőket' vájtak a homokkőbe, ahol természetes kőhidak, boltívek és mély kanyonok váltják egymást. A táj úgy fest, mint egy óriási szabadtéri szoborpark, ahol a természet az építőmester. A geológiai értékek mellett a fennsík a világ egyik legfontosabb őskori művészeti gyűjteményét rejti, több mint 15 000 sziklarajzzal, amelyek egykoron dús vegetációról és gazdag állatvilágról tanúskodnak. Földrajz K7 – Homokkő-erózió és sivatagi felszínformák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A név tuareg nyelven 'A folyók fennsíkját' jelenti.",
+          "A fennsík átlagos magassága 1500 méter felett van.",
+          "A homokkő formációk a paleozoikumi korszakból származnak.",
+          "Itt található a világ egyik legnagyobb természetes kőhíd-koncentrációja.",
+          "1982 óta az UNESCO Világörökség része geológiai és kulturális értékei miatt.",
+          "A területen ritka, reliktum növényfajok, például szaharai ciprusok is élnek.",
+          "A fennsík területe 72 000 negyzetkilométer, nagyobb, mint sok európai ország."
+        ]
+      }
+    },
+    {
+      "id": "djebel-tahat-relief-v2",
+      "descriptionAdvanced": {
+        "hu": "A Djebel Tahat Algéria és az egész Szahara egyik legmagasabb csúcsai közé tartozik, amely 2908 méterrel magasodik a Hoggar-hegység fölé. Ez a vulkanikus eredetű csúcs a hegység szívében, az Atakor vulkáni mezőn található, és domináns megjelenésével uralja a környező tájat. A hegy csúcsa gyakran felhőkbe burkolózik, télen pedig ritka jelenségként hó is boríthatja. A megmászása technikai felkészültséget igényel a meredek törmeléklejtők és a ritka levegő miatt. A tetőről nyíló panoráma felejthetetlen: a látogató elé tárul a Hoggar-hegység összes bizarr sziklaformációja és a távoli sivatag végtelensége. Földrajz K7 – Algéria legmagasabb pontja és a vulkáni tevékenység."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Tahat csúcsa 2908 méter magas, ezzel Algéria rekordere.",
+          "Geológiailag egy komplex vulkáni dóm, amely bazaltból és trachitból áll.",
+          "A hegyet körülvevő Atakor-mezőn több száz kisebb vulkáni kúp található.",
+          "A tuaregek számára a hegy szent helynek számít.",
+          "Az első dokumentált modern megmászása 1931-ben történt.",
+          "A csúcson a hőmérséklet éjszaka még nyáron is fagypont alá süllyedhet.",
+          "A hegy fontos tájékozódási pont volt a karavánutak mentén."
+        ]
+      }
+    },
+    {
+      "id": "chott-melrhir-relief-v2",
+      "descriptionAdvanced": {
+        "hu": "A Chott Melrhir Algéria legnagyobb sós tava (sott), amely az ország északkeleti részén, egy hatalmas mélyföldön terül el. A tó különlegessége, hogy a tengerszint alatt fekszik, legmélyebb pontja -40 méter, ezzel Algéria legmélyebb pontja. Ez egy endorheikus (lefolyástalan) medence, ahol a téli esők idején sekély víz gyűlik össze, nyáron viszont a perzselő hőség hatására szinte teljesen elpárolog, hátrahagyva egy vakítóan fehér sókérget. A táj ilyenkor úgy fest, mint egy befagyott jégmező a sivatag közepén. A tó és környéke fontos Ramsar-i vizes élőhely, amely számos költöző madárnak nyújt menedéket. Földrajz K7 – Sós tavak és lefolyástalan medencék."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Chott Melrhir Algéria legmélyebb pontja, 40 méterrel a tengerszint alatt.",
+          "Maximális kiterjedésekor területe elérheti a 6700 négyzetkilométert.",
+          "A tó vize rendkívül sós, sokszorosan meghaladja a tengervíz sótartalmát.",
+          "Fontos fészkelőhelye a rózsás flamingóknak a nedvesebb években.",
+          "A környező területen jelentős a sóbányászat és a datolyatermesztés.",
+          "A tó medrét vastag agyag- és sóréteg borítja, ami veszélyes lehet a járművekre.",
+          "2001 óta nemzetközi jelentőségű vizes élőhelyként védik."
+        ]
+      }
+    },
+    {
+      "id": "djebel-gourine-relief-v2",
+      "descriptionAdvanced": {
+        "hu": "A Djebel Gourine a Tell-Atlasz vonulatának része Észak-Algériában, Médéa tartomány környékén. Ez a hegység reprezentálja az Atlasz-rendszer fiatal lánchegységi jellegét, ahol a meredek lejtőket sűrű mediterrán erdők borítják. A domborzatot mély völgyek és éles gerincek jellemzik, amelyeket a tektonikai erők és az erózió formáltak. A hegység fontos vízválasztó és vízgyűjtő terület, amely biztosítja a környék mezőgazdasági területeinek és városainak vízellátását. A táj változatos: a mészkősziklák és a zöld fenyvesek váltakozása ideális túrázóhelyet kínál, miközben menedéket nyújt a helyi vadon élő állatoknak, például a vaddisznóknak és sakáloknak. Földrajz K7 – Lánchegységek és mediterrán domborzat."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Djebel Gourine magassága meghaladja az 1200 métert.",
+          "A kőzetfelépítésben a mészkő és a márga dominál, ami karsztosodásra hajlamos.",
+          "Az erdők főleg aleppói fenyőből és magyaltölgyből állnak.",
+          "A hegység klímája mediterrán, csapadékos telekkel és száraz nyárral.",
+          "Fontos szerepet játszik a főváros, Algír vízbázisának védelmében.",
+          "A területen számos forrás és kisebb patak ered.",
+          "A domborzat alkalmas a teraszos földművelésre a lankásabb részeken."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hudson-river-nature-v2",
+      "descriptionAdvanced": "The Hudson River, flowing 315 miles from the Adirondack Mountains to the Atlantic Ocean, is a profound waterway that has shaped the historical, economic, and cultural development of New York state. Historically, it served as a vital commercial artery for the Dutch and English colonies, later becoming the primary freight route for the Erie Canal, which linked the Midwest to international markets via New York City. The river itself—a unique tidal estuary—has also served as a cornerstone of American art, famously celebrated by the 19th-century 'Hudson River School' painters who romanticized its dramatic landscapes. Today, the river remains an essential site for ecological restoration efforts, focusing on overcoming legacy pollution, and as an iconic, defining feature of the American Northeast’s natural and historical landscape. Geografie K7 — Tidal estuary ecosystems and industrial historical transit.",
+      "factsAdvanced": [
+        "Flows 315 miles from the Adirondack Mountains to the Atlantic Ocean.",
+        "Vital commercial artery during the colonial and post-colonial periods.",
+        "Primary freight corridor for the historic Erie Canal connection.",
+        "The river is a unique tidal estuary supporting diverse marine and aquatic life.",
+        "Famous for being the centerpiece of the 19th-century 'Hudson River School' of painting.",
+        "Critical site for ongoing environmental restoration and industrial pollution cleanup."
+      ]
+    },
+    {
+      "id": "coconino-national-forest-nature-v2",
+      "descriptionAdvanced": "The Coconino National Forest in Arizona is one of the most diverse national forests in the United States, spanning elevations from 2,600 to 12,600 feet, which creates a stunning transition from high-desert scrub to lush montane pine forests and high-alpine environments. The forest is home to an incredible variety of biomes, including the historic volcanic fields of the San Francisco Peaks. Because of this extreme elevation gradient, Coconino serves as an essential laboratory for studying how vegetation zones, climate change, and forest health are responding to rapid, high-altitude drying trends. Today, the forest is a major recreational destination and a critical site for ongoing research into how arid-region mountain forests adapt to fire, climate change, and human development pressure. Biologie K7 — Elevation-driven ecological zones and forest health research.",
+      "factsAdvanced": [
+        "One of the most ecologically diverse national forests in the United States.",
+        "Covers a massive elevation gradient from 2,600 to 12,600 feet.",
+        "Features dramatic transitions from high-desert scrub to alpine coniferous forests.",
+        "Includes the unique volcanic landscape of the San Francisco Peaks.",
+        "Essential laboratory for studying vegetation adaptation and high-altitude drying.",
+        "Critical site for forest restoration, wildfire management, and biodiversity protection."
+      ]
+    },
+    {
+      "id": "mauna-kea-nature-v2",
+      "descriptionAdvanced": "Mauna Kea, on the Big Island of Hawaii, is a dormant shield volcano and, measured from its base on the Pacific floor, the tallest mountain in the world. Its summit, rising to 13,803 feet, exists above 40 percent of the atmosphere, creating near-perfect conditions for astronomical observation, leading to the establishment of the Mauna Kea Observatories, which house some of the world’s most advanced telescopes. The mountain holds profound cultural, spiritual, and ecological significance for Native Hawaiians and remains a unique habitat for specialized, high-altitude species, including the endangered palila bird. Today, Mauna Kea is a site of deep social and legal contention, representing the ongoing challenge of balancing advanced international scientific infrastructure with the preservation of Indigenous cultural sovereignty and ecological sensitivity in sacred spaces. Geografie K8 — Astronomical infrastructure and Indigenous sovereignty conflicts.",
+      "factsAdvanced": [
+        "Measured from its seafloor base, it is the tallest mountain in the world.",
+        "Summit rising to 13,803 feet provides world-class astronomical viewing.",
+        "Hosts the Mauna Kea Observatories with many of the planet's most advanced telescopes.",
+        "Holds profound cultural and spiritual importance for Native Hawaiians.",
+        "Unique high-altitude habitat for specialized endemic species like the endangered palila.",
+        "Site of intense ongoing debate regarding scientific infrastructure vs. Indigenous sovereignty."
+      ]
+    }
+  ]
+}

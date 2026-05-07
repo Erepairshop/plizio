@@ -1,0 +1,250 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "changja-river-fish-farm-life-v2",
+      "descriptionAdvanced": "A Csangdzsa (Changja) folyami halgazdaság Csagang tartományban, Kanggje város közelében működik, és az ország egyik kiemelt akvakultúra-létesítménye. A hegyi folyó kristálytiszta és hideg vize ideális körülményeket teremt a pisztrángok, tokhalak és egyéb értékes édesvízi halfajok tenyésztéséhez. Észak-Koreában az élelmiszer-önellátás (dzsucse) jegyében az állam óriási hangsúlyt fektet a halgazdaságok fejlesztésére, hogy enyhítsék a krónikus hús- és fehérjehiányt. A létesítmény nemcsak élelmiszert termel, hanem kutatóközpont is, ahol modern keltetőrendszerekkel kísérleteznek a hozam növelése érdekében. A telepet gyakran látogatják a magas rangú pártvezetők is ellenőrzés céljából. Plizio tanterv: Biológia K6 — akvakultúra, élelmezés és fenntartható haltenyésztés.",
+      "factsAdvanced": [
+        "A halgazdaság a Csangdzsa folyó hideg, tiszta vizét használja fel.",
+        "Főként pisztrángot és tokhalat tenyésztenek, utóbbit a kaviár miatt is.",
+        "A telep zárt láncú keltető- és vízforgató rendszerekkel van felszerelve.",
+        "Az észak-koreai állam a halászatot a nemzeti fehérjeellátás kulcsának tekinti.",
+        "A tenyésztett halak nagy része a hadsereghez és az elit éttermeibe kerül.",
+        "Kim Dzsongun több alkalommal is hivatalos látogatást tett a létesítményben."
+      ]
+    },
+    {
+      "id": "wonsan-youth-park-life-v2",
+      "descriptionAdvanced": "A Vonszan Ifjúsági Park (Wonsan Youth Park) a Japán-tenger partján fekvő forgalmas kikötőváros legkedveltebb ifjúsági és családi szórakoztató központja. A 2010-es években modernizált parkban vidámparki játékok, köztük egy olasz gyártmányú hullámvasút (Zamia) és egy modern szabadesés-torony is helyet kapott. A park kialakítása követi a phenjani vidámparkok mintáját: egyszerre nyújt rekreációt és szolgál az ifjúság közösségi (és ideológiai) nevelésének színteréül. Nyári estéken és ünnepeken a park kivilágítva üzemel, és a vonszani fiatalok népszerű találkozóhelye, miközben a tengeri szellő enyhíti a városi hőséget. Plizio tanterv: Társadalomismeret K5 — városi szabadidő és szórakoztatóipar Észak-Koreában.",
+      "factsAdvanced": [
+        "A park a keleti parti Vonszan város központjában, a tenger közelében fekszik.",
+        "Modernizálása a 2010-es évek elején kezdődött, külföldi játékgépek behozatalával.",
+        "Az olasz gyártmányú hullámvasút a park egyik legfőbb attrakciója.",
+        "A jegyárakat mesterségesen alacsonyan tartják a helyi lakosok számára.",
+        "Éjszaka díszkivilágítással működik, ami ritkaság a vidéki városokban.",
+        "Rendszeres helyszíne az Ifjúsági Liga által szervezett közösségi eseményeknek."
+      ]
+    },
+    {
+      "id": "mankyongdae-funfair-life-v2",
+      "descriptionAdvanced": "A Mangjongde (Mangyongdae) Vidámpark Phenjan külvárosában, a történelmi Mangjongde kerületben (Kim Ir Szen szülőhelyének közelében) épült. Az 1982-ben átadott, majd többször bővített hatalmas komplexum klasszikus vidámparki élményt nyújt: kettős hurkú hullámvasút, óriáskerék, vízi csúszdák és dodzsemek várják a látogatókat. Évtizedekig ez volt a legmodernebb szórakoztatóközpont az országban. A 2000-es években állaga kissé leromlott, amit egy hírhedt 2012-es eset is fémjelez: Kim Dzsongun személyesen látogatott el a parkba, és nyíltan, dühösen kritizálta a karbantartás hiányát (például a gazos járdákat). Ennek hatására a parkot gyors ütemben felújították. Plizio tanterv: Társadalomismeret K6 — az állami szolgáltatások kritikája és a vezérkultusz.",
+      "factsAdvanced": [
+        "Az 1982-ben nyílt vidámpark Kim Ir Szen szülőfalujának közelében fekszik.",
+        "Több mint 50 különböző játékkal, köztük egy hatalmas dupla hullámvasúttal rendelkezik.",
+        "2012-ben Kim Dzsongun kamerák előtt szidta le a vezetőséget a park rossz állapota miatt.",
+        "A kritikát követően azonnali és teljes felújítást hajtottak végre a területen.",
+        "A park sűrű erdővel körülvett, 70 hektáros területen terül el.",
+        "Nyáron szabadtéri úszómedencéje és vízi parkja a legnépszerűbb."
+      ]
+    },
+    {
+      "id": "north-korea-ginseng-farm-kaesong-life-v2",
+      "descriptionAdvanced": "A Keszong környéki ginzengfarmok a világhírű 'Koryo ginzeng' (Insam) hazája. Ez a régió több mint ezer éve központja az értékes gyógynövény termesztésének, melyet már az ókori királyi udvarokban is csodaszerként tiszteltek. A ginzeng termesztése rendkívül időigényes és kényes folyamat: a növények hat éven át növekednek speciális, árnyékolt fóliasátrak és nádtetők alatt, mielőtt betakarítják őket. A Keszongban előállított ginzeng kivonatát, vörös és fehér ginzeng gyökereit az állam kiemelt luxuscikként exportálja a világ minden tájára, Kínától Európáig, jelentős valutabevételt generálva. A növény a hagyományos koreai orvoslás alapköve, amely immunerősítő hatásáról ismert. Plizio tanterv: Biológia K7 — gyógynövények, mezőgazdasági export és hagyományos orvoslás.",
+      "factsAdvanced": [
+        "A Keszong régió a világ egyik legrégebbi folyamatos ginzengtermő területe.",
+        "A legértékesebb gyökerek növekedési ideje pontosan hat év.",
+        "A növényeket szalmából és nádból készült speciális árnyékolókkal védik a Naptól.",
+        "A 'Vörös ginzeng' a gőzölés és szárítás folyamatáról kapja a nevét.",
+        "Az exportált ginzeng Észak-Korea egyik legmegbízhatóbb bevételi forrása.",
+        "A helyi legendák szerint a ginzeng elűzi az öregedést és minden betegséget gyógyít."
+      ]
+    },
+    {
+      "id": "songdowon-international-childrens-camp-life-v2",
+      "descriptionAdvanced": "A Szongdovon (Songdowon) Nemzetközi Gyermektábor a keleti parti Vonszan közelében, a fenyőerdős tengerparton fekszik. Az 1960-ban alapított tábor a szocialista tábor (Úttörőmozgalom) egyik presztízslétesítménye volt, ahová nemcsak a kiválóan tanuló észak-koreai gyerekeket, hanem a világ minden tájáról (Oroszország, Kína, Afrika) érkező diákokat is fogadtak 'barátság' céljából. 2014-ben a komplexumot drasztikusan felújították és modernizálták: hatalmas akváriumot, 3D mozit, uszodát és vízi csúszdákat kapott. A tábor célja az állami propaganda bemutatása a külföldi fiatalság számára, miközben a hazai elit gyermekeinek kivételes, nyugati színvonalú luxust és szórakozást biztosít heteken át. Plizio tanterv: Társadalomismeret K7 — ifjúsági mozgalmak, 'soft power' és nyári táborok.",
+      "factsAdvanced": [
+        "A tábort 1960-ban alapították a Vonszan melletti sűrű fenyvesekben.",
+        "Kezdetektől fogva fogadott külföldi diákokat a 'baráti' szocialista országokból.",
+        "2014-ben egy teljes körű modernizáción esett át, víziparkkal és akváriummal bővült.",
+        "A táborozók egyenruhát kapnak, és részt vesznek meneteléseken, énekversenyeken is.",
+        "A hazai diákok számára hatalmas kiváltság és jutalom ide bekerülni.",
+        "Az állam 'soft power' eszközként használja az ország pozitív képének terjesztésére."
+      ]
+    },
+    {
+      "id": "taesong-reservoir-fishing-area-life-v2",
+      "descriptionAdvanced": "A Teszong (Taesong) víztározó Nampo városától északra, a Phenjant és a partvidéket összekötő zónában található hatalmas mesterséges tó. Eredetileg a kiterjedt mezőgazdasági területek (főként rizsföldek) öntözésére hozták létre, de mára a régió egyik legfontosabb halászati és rekreációs területévé is vált. A tóban pontyot, kárászt és amurt tenyésztenek, a halászati brigádok mellett a helyi lakosok is gyakran horgásznak a partjain a hétvégéken. A tó egyben kedvelt csónakázóhely és kirándulócélpont is. Észak-Koreában a víztározók sokrétű kihasználása (öntözés, áramtermelés, halászat) az erőforrások maximális kiaknázásának hivatalos állami stratégiája. Plizio tanterv: Földrajz K6 — mesterséges tavak, vízgazdálkodás és horgászat.",
+      "factsAdvanced": [
+        "A Teszong-víztározó elsődleges funkciója a nyugati síkságok öntözése.",
+        "A hatalmas tóban szervezett állami halgazdálkodás folyik (ponty, amur).",
+        "A helyiek számára engedélyezett a hobbihorgászat a kijelölt partszakaszokon.",
+        "A tó vizét a Taedong folyó vízgyűjtő rendszeréből szivattyúzzák át.",
+        "Nyári hétvégéken népszerű helyszíne a családi csónakázásoknak.",
+        "A téli fagyok idején gyakori a lékhorgászat a vastag jégrétegen keresztül."
+      ]
+    },
+    {
+      "id": "kaesong-folklore-park-life-v2",
+      "descriptionAdvanced": "A Keszong (Kaesong) Folklórpark, vagy Keszongi Néprajzi Szálloda a történelmi város szívében fekszik, és a tradicionális koreai életmód egyedülálló bemutatóhelye. A komplexum a Goryeo-dinasztia (918-1392) és a Csoszon-kor eredeti, gondosan restaurált, cseréptetős udvarházaiból (hanok) áll, amelyeket egy kis patak szel ketté. A látogatók (elsősorban külföldi turisták) hagyományos koreai padlófűtéses (ondol) szobákban szállhatnak meg, földön aludva, miközben kipróbálhatják a hagyományos 'pancsan' (sok kis tálkás) étkezést és a rizstorta-verést (tteokbokki). Ez Észak-Korea egyik legautentikusabb kulturális megőrző projektje, amely sikeresen menekült meg a háborús pusztítástól. Plizio tanterv: Történelem K6 — tradicionális lakáskultúra (hanok, ondol) és néprajz.",
+      "factsAdvanced": [
+        "A folklórpark eredeti, több száz éves hanok udvarházakból áll.",
+        "A szobákat hagyományos koreai 'ondol' rendszerrel, a padló alól fűtik.",
+        "A vendégek a földön, vastag pamutmatracokon (yo) alszanak.",
+        "Itt szolgálják fel a híres 'panszangit', amely akár 12 kis bronztálkás ételből áll.",
+        "A park területén kézműves mesterek mutatják be az ősi szövési és fafaragási technikákat.",
+        "A koreai háború során a terület megmenekült az amerikai bombázásoktól."
+      ]
+    },
+    {
+      "id": "samjiyon-potato-farms-life-v2",
+      "descriptionAdvanced": "Szamdzsijon (Samjiyon) város Rjanggang tartományban, a szent Paektu-hegy lábánál található. A rendkívül hideg, hegyvidéki éghajlat miatt itt nem terem meg a rizs, így a régió Észak-Korea burgonyatermesztési központjává vált. Az 1990-es évek éhínsége idején Kim Dzsongil személyesen rendelte el a 'burgonya-forradalmat', hogy a magas kalóriatartalmú és hidegtűrő krumplival váltsák ki a gabonahiányt. Szamdzsijon gigantikus, gépesített (vagy gyakran rohammunkásokkal művelt) burgonyafarmjai látják el a környéket. A várost az elmúlt években Kim Dzsongun parancsára teljesen újjáépítették, 'szocialista utópia' várossá varázsolva azt, miközben a helyi krumpliból ma már vodkát és keményítőt is gyártanak a modern feldolgozókban. Plizio tanterv: Földrajz K7 — hegyvidéki mezőgazdaság, klíma és élelmezéspolitika.",
+      "factsAdvanced": [
+        "Szamdzsijon a Paektu-hegy fagyos fennsíkján fekszik, a rizs számára alkalmatlan klímával.",
+        "Az 1990-es években itt indult el az állami 'Burgonya-forradalom' program.",
+        "A város körüli hatalmas farmokon termesztett burgonya az északi éhínség ellenszere volt.",
+        "A városban egy modern burgonya-feldolgozó üzem működik (liszt, szesz, tészta).",
+        "A 2010-es évek végén Szamdzsijont teljesen újjáépítették 'modellvárosként'.",
+        "Októberben a betakarításkor több ezer fiatalt vezényelnek a földekre segíteni."
+      ]
+    },
+    {
+      "id": "kumgang-park-wonsan-life-v2",
+      "descriptionAdvanced": "A Kumgang Park (Wonsan Kumgang Park) a parti Vonszan város északi szélén fekszik, nevét a közeli híres Kumgang-hegységről kapta. A zöld oázis egy sűrű fenyőerdő, amely lágyan lejt a tengerpart felé, és a kikötőváros ipari zaja elől nyújt menedéket a helyieknek. A park nem annyira vidámpark, mint inkább pihenő- és sétálóövezet, gondozott virágágyásokkal, emlékművekkel és kilátópontokkal a Japán-tengerre. A fák árnyékában gyakran látni sakkozó vagy go-t játszó időseket, hétvégente pedig családokat grillezni. A parkból rálátni a várost övező hajógyárakra és a tengeren horgonyzó halászhajókra is. Plizio tanterv: Társadalomismeret K5 — közparkok szerepe az iparvárosokban.",
+      "factsAdvanced": [
+        "A park Vonszan város északi részén, sűrű tengerparti fenyvesekben fekszik.",
+        "A terület a kikötőváros lakosságának fő hétvégi menekülőhelye a szmog elől.",
+        "Nevét a közeli Gyémánt-hegységről (Kumgangsan) kapta, bár nem ott helyezkedik el.",
+        "Tökéletes kilátópontokat kínál a tengerre és a vonszani-öböl szigeteire.",
+        "Gyakori helyszíne az állami ünnepekhez köthető szabadtéri táncmulatságoknak.",
+        "Az utak mentén hagyományos koreai 'janggi' (sakk) táblákon játszanak a helyiek."
+      ]
+    },
+    {
+      "id": "rason-seafood-market-life-v2",
+      "descriptionAdvanced": "A Raszon (Rason) tengeri herkentyű és halpiac az észak-koreai Raszon Különleges Gazdasági Övezet szívében működik, az orosz és kínai határ közelében. Mivel az övezetben lazábbak a kapitalista szabályok, ez a piac az ország egyik legélénkebb, legszínesebb és legszabadabb kereskedelmi csomópontja. A kínálatban frissen fogott hatalmas tarisznyarákok, tengeri sünök, tintahalak és polipok szerepelnek, melyeket a Japán-tenger (Keleti-tenger) tiszta és hideg vizeiből halásznak. A piac fő vásárlói a kínai nagykereskedők és turisták, akik gyakran azonnal, helyben elkészíttetik az ételt a piac melletti kis kifőzdékben. Itt nyíltan lehet kínai jüannal fizetni, és a kereskedők hangosan alkudoznak – ami máshol Észak-Koreában szinte elképzelhetetlen. Plizio tanterv: Gazdaság K7 — különleges gazdasági zónák, halászat és piacgazdaság.",
+      "factsAdvanced": [
+        "A raszoni piac a kínai és orosz turisták/kereskedők legfőbb célpontja a városban.",
+        "Híres a hatalmas méretű hókirályrákokról és friss tengeri sünökről.",
+        "Ez az egyik ritka hely az országban, ahol teljesen nyíltan zajlik az alkudozás.",
+        "A piacon a hivatalos valuta helyett leginkább kínai jüant (RMB) használnak.",
+        "A vásárolt tengeri herkentyűket a piac melletti éttermek azonnal meg is főzik.",
+        "A lazább szabályok miatt az árusok gyakran magánvállalkozóként (donju) működnek."
+      ]
+    },
+    {
+      "id": "paektu-mountain-nature-v2",
+      "descriptionAdvanced": "A Paektu-hegy (Kínában Changbai-hegy) Észak-Korea és egyben a teljes Koreai-félsziget legmagasabb pontja, 2744 méter magas rétegvulkán a kínai határon. A hegy tetején a beszakadt kalderát egy lenyűgöző, kobaltkék színű, 380 méter mély krátertó, a Mennyei-tó (Cshondzsi) tölti ki. A vulkán utolsó nagy (és történelemformáló) kitörése 946-ban volt. A hegy nemcsak földrajzi csúcs, hanem a koreai nemzet szakrális bölcsője is, mind az északi, mind a déli mitológia szerint. A lejtőket zord időjárás, sűrű tajga és havasi tundra borítja, amely ritka fajoknak, köztük szibériai tigriseknek és medvéknek nyújt menedéket. A hegy látogatása az észak-koreaiak számára kvázi vallási-politikai zarándoklat. Plizio tanterv: Földrajz K8 — vulkanizmus, kalderatavak és szakrális földrajz.",
+      "factsAdvanced": [
+        "Magassága 2744 méter, a vulkán utolsó ismert kitörése 1903-ban történt.",
+        "A kalderában lévő Mennyei-tó (Cshondzsi) a világ egyik legmagasabban fekvő és legmélyebb krátertava.",
+        "A hegy területén található tajga erdők UNESCO Bioszféra Rezervátumként védettek.",
+        "Télen a hőmérséklet gyakran süllyed -40 Celsius-fok alá, a tó befagy.",
+        "A hegy címerállata a rendkívül ritka, kihalófélben lévő szibériai tigris.",
+        "A hegyoldalban számtalan hőforrás és gejzír fakad a vulkáni utóélet részeként."
+      ]
+    },
+    {
+      "id": "myohyang-mountains-nature-v2",
+      "descriptionAdvanced": "A Mjohjang (Myohyang) hegység, a 'Rejtelmes Illatok Hegye' Észak-Phjongan tartományban húzódik, Phenjantól mintegy 150 kilométerre északra. A hegyvonulat drámai gránitszikláiról, buja, illatos lombhullató és fenyőerdeiről, valamint festői vízeséseiről (például a Rjongjon-vízesés) híres. A hegy rendkívül gazdag biodiverzitással rendelkezik, több tucat endemikus növényfaj él itt, amiért az UNESCO 2009-ben bioszféra-rezervátummá nyilvánította. A turisztikai (és állami) szempontból is kiemelt terület szigorú védelem alatt áll, így mentes az ország más részein tapasztalható erdőirtásoktól. A túrázókat több kijelölt ösvény vezeti végig a völgyeken, amelyek az ősz beköszöntével lángoló vörös és arany színekbe borulnak. Plizio tanterv: Biológia K7 — biodiverzitás, hegységképződés és nemzeti parkok védelme.",
+      "factsAdvanced": [
+        "A Mjohjang-hegység Észak-Korea egyik legépebben megőrzött természeti területe.",
+        "Legmagasabb pontja a Piro csúcs, amely 1909 méter magasra emelkedik.",
+        "A hegy nevét a jellegzetes, illatos gyógynövényekről és fákról kapta.",
+        "2009 óta az UNESCO Nemzetközi Bioszféra Rezervátum-hálózatának tagja.",
+        "A hegy oldalában tucatnyi vízesés és smaragdzöld vizű hegyi tó található.",
+        "A szigorú állami védelem miatt a hegy megmenekült az országos méretű erdőirtásoktól."
+      ]
+    },
+    {
+      "id": "kumgang-mountains-nature-v2",
+      "descriptionAdvanced": "A Kumgang-hegység, vagyis a Gyémánt-hegység a Koreai-félsziget egyik legünnepeltebb természeti csodája, amely Kangvon tartományban, a keleti part és a demilitarizált övezet (DMZ) közvetlen közelében magasodik. A 1638 méter magas Pirobong csúcs köré csoportosuló több mint 12 000 tűhegyes gránit- és diorit sziklaalakzat páratlan látványt nyújt. Évszázadok óta ihleti meg a koreai festőket és költőket. A hegységet az évszakok szerint különböző neveken említik (Kumgang tavasszal, Phonge nyáron, Phungak ősszel, Kegol télen). A 2000-es években egy különleges turisztikai övezetként nyitott meg a dél-koreaiak előtt, de a program 2008-ban egy tragikus incidens miatt leállt, a hegység pedig ismét elzárkózott. Plizio tanterv: Földrajz K8 — erózió, gránithegységek és a táj kulturális jelentősége.",
+      "factsAdvanced": [
+        "A hegyvonulat több mint 12 000 meredek, tűhegyes gránitcsúcsból és sziklából áll.",
+        "Nevét (Gyémánt-hegység) a sziklák napfényben csillogó kristályairól kapta.",
+        "Az őszi időszakban (Phungak néven) a juharfák vörösbe borítják a hegyoldalt.",
+        "1998 és 2008 között több mint egymillió dél-koreai turista látogatta meg a helyszínt.",
+        "A hegy gyomrában smaragdzöld tengerszemek (pl. a Szamil-tó) rejtőznek.",
+        "Egy 2008-as, végzetes határőri lövöldözés óta a déli turizmus teljesen szünetel."
+      ]
+    },
+    {
+      "id": "taedong-river-nature-v2",
+      "descriptionAdvanced": "A Taedong (Tedong) folyó Észak-Korea legfontosabb és leghíresebb vízfolyása, amely az északi Nangnim-hegységben ered, majd 439 kilométer hosszan kanyarogva szeli át Phenjan városát, mielőtt Nampónál a Sárga-tengerbe (Koreai-öböl) ömlik. A folyó nemcsak Phenjan földrajzi és vizuális gerince, hanem az ország ivóvíz-ellátásának és folyami hajózásának ütőere is. A torkolatnál 1986-ban felépített gigantikus Nampo Gát megakadályozza a tengervíz beáramlását, így a folyó alsó szakasza lényegében egy hatalmas édesvízi tóvá alakult, ami öntözésre is alkalmassá tette. Partjait a fővárosban monumentális szobrok és kiterjedt, parkosított sétányok övezik. Plizio tanterv: Földrajz K7 — folyószabályozás, vízgyűjtő területek és városfejlődés.",
+      "factsAdvanced": [
+        "A folyó teljes hossza 439 kilométer, Észak-Korea második leghosszabb folyója a Jalu után.",
+        "Phenjan városát kettészelve történelmi és logisztikai központot teremtett.",
+        "Torkolatánál épült meg a hatalmas, 8 km hosszú Nyugati-tengeri Zsiliprendszer (Gát).",
+        "A folyó a főváros ivóvízellátásának és a környező síkságok öntözésének bázisa.",
+        "A folyón a Rungnado és Jangak szigetek fontos rekreációs területek Phenjanban.",
+        "A gát megépülése előtt a tengeri árapály egészen Phenjanig éreztette a hatását."
+      ]
+    },
+    {
+      "id": "yalu-river-nature-v2",
+      "descriptionAdvanced": "A Jalu (Yalu) folyó – koreai nevén Amnok – a Koreai-félsziget leghosszabb (790 kilométeres) folyója, amely természetes, kanyargós határt képez Észak-Korea és Kína (Mandzsúria) között. A Paektu-hegy Mennyei-tavából ered, és a Sárga-tengerbe torkollik. A folyó az évszázadok során fontos kereskedelmi útvonal volt, ma pedig a két ország közötti logisztika fő ütőere (Sinidzsut és Dandongot összekötő hidakkal). Vizét több hatalmas, közösen üzemeltetett vízerőmű gát (pl. Szuphung-gát) fogja fel, melyek mindkét országot energiával látják el. Télen a Jalu vastagon befagy, ami régebben a disszidensek számára jelentett menekülési útvonalat, bár az ellenőrzés ma már rendkívül szigorú. Plizio tanterv: Földrajz K8 — határfolyók, vízenergia és nemzetközi vízgyűjtők.",
+      "factsAdvanced": [
+        "A Jalu folyó (Amnok) hossza 790 km, végig Észak-Korea és Kína határát képezi.",
+        "A szent Paektu-hegy (Changbai) krátertavából ered a hegyekből.",
+        "Télen a zord hidegben hetekre, akár hónapokra teljesen befagy a felszíne.",
+        "A folyón épült gátak (pl. Szuphung) Ázsia legfontosabb vízerőművei közé tartoznak.",
+        "A Kínai-koreai Barátság Hídja a legfőbb vasúti és közúti átkelő a folyón.",
+        "A koreai háborúban MacArthur tábornok a Jaluig nyomult, ami kínai támadást váltott ki."
+      ]
+    },
+    {
+      "id": "tumen-river-nature-v2",
+      "descriptionAdvanced": "A Tumen folyó (koreaiul Tuman) Észak-Korea északkeleti határfolyója, amely a Paektu-hegytől ered, és a Japán-tengerbe (Keleti-tengerbe) ömlik. A folyó 521 kilométeren keresztül képez határt Kínával, és az utolsó 17 kilométeren Oroszországgal (Tengermelléki határterület). Bár a Jaluhoz képest keskenyebb és sekélyebb, geopolitikai jelentősége óriási, mivel az észak-koreai menekültek (disszidensek) a 90-es évektől kezdve főként a sekély Tumenen keresztül próbáltak Kínába jutni, különösen a téli fagyok idején. A folyó alsó szakasza a Raszon Gazdasági Övezet közelében folyik, ipari és mezőgazdasági szennyezettsége a térségben jelentős ökológiai problémákat vet fel. Plizio tanterv: Földrajz K8 — politikai földrajz, határhármasok és folyószennyezés.",
+      "factsAdvanced": [
+        "A Tumen 521 km hosszan három ország (Észak-Korea, Kína, Oroszország) határát adja.",
+        "Kínával közös szakasza hosszú, Oroszországgal mindössze 17 kilométert határol.",
+        "Sekélysége és keskenysége miatt az 1990-es évek éhínsége alatt a menekülők fő útvonala volt.",
+        "A torkolatvidék, ahol a három ország találkozik (Raszon közelében), fontos madárvonulási terület.",
+        "A téli fagyasztó hidegben a jég vastagsága gyalogos átkelést is lehetővé tesz.",
+        "A kínai és észak-koreai oldalon működő gyárak miatt vizének minősége erősen leromlott."
+      ]
+    },
+    {
+      "id": "chongchon-river-nature-v2",
+      "descriptionAdvanced": "A Cshongcshon (Chongchon) folyó Észak-Korea nyugati felén, Csagang tartományban ered, és Dél-Phjongan tartományon keresztül a Sárga-tengerbe ömlik (Sinandzsu közelében). A folyó völgye az ország egyik legfontosabb ipari és bányászati zónája, gazdag szén- és rézlelőhelyekkel (például Hicshon és Kudzshang városok). A víz áramlását az elmúlt évtizedekben számos teraszos, kis vízerőmű építésével (például a Hicshon gátak) zabolázták meg a régió áramellátásának javítása érdekében. Történelmileg a Cshongcshon völgye egy drámai és véres csata (A Cshongcshon folyói csata) helyszíne volt 1950 telén, amikor a kínai erők bekerítették és visszavonulásra kényszerítették az ENSZ haderejét. Plizio tanterv: Földrajz K7 — ipari folyóvölgyek, gátrendszerek és történelmi csataterek.",
+      "factsAdvanced": [
+        "A Cshongcshon hossza 217 kilométer, északnyugati irányból a Sárga-tengerbe torkollik.",
+        "A folyóvölgy Észak-Korea egyik legfőbb szénbányászati bázisa.",
+        "Az elmúlt 15 évben több kis és közepes lépcsőzetes vízerőművet építettek rá.",
+        "1950 telén a folyó völgye a koreai háború egyik legdöntőbb kínai ellentámadásának helyszíne volt.",
+        "Torkolatánál található a Mundok vándormadár rezervátum hatalmas árapálysíksága.",
+        "A folyó a Nangnim-hegység meredek, sűrű erdőkkel borított lejtőin ered."
+      ]
+    },
+    {
+      "id": "heaven-lake-nature-v2",
+      "descriptionAdvanced": "A Mennyei-tó (koreaiul Cshondzsi, kínaiul Tianchi) egy páratlan szépségű krátertó a Paektu-hegy kalderájának mélyén, 2189 méteres tengerszint feletti magasságban, pontosan az észak-koreai-kínai határon. A mély, kobaltkék vizű tó a világ egyik legmagasabban fekvő vulkáni tava, maximális mélysége eléri a 384 métert. A víz rendkívül hideg, és az év nyolc hónapjában (októbertől június közepéig) vastag jégpáncél borítja. A koreai mitológia szerint Dangun király innen szállt le az égből, és ma is Észak-Korea nemzeti büszkeségének egyik fő forrása. A tavon nyáron olykor motorcsónakok közlekednek a magas rangú vendégek számára, míg a turisták a meredek sziklafalakról csodálhatják a panorámát. Plizio tanterv: Földrajz K7 — kalderatavak, vulkáni domborzat és extrém hidrológia.",
+      "factsAdvanced": [
+        "A Mennyei-tó a Koreai-félsziget és egyben Kína legmélyebb tava (384 méter).",
+        "A kaldera egy i.sz. 946-os gigantikus vulkánkitörés során alakult ki.",
+        "A tavat közvetlenül átszeli az Észak-Korea és Kína közötti országhatár.",
+        "A tó vizének hőmérséklete nyáron sem emelkedik sokkal fagypont fölé.",
+        "A legenda szerint egy Nessie-hez hasonló krátertavi szörny, a 'Tianchi szörny' él benne.",
+        "Télen a jég vastagsága az 1-1,5 métert is elérheti a zord szeleken."
+      ]
+    },
+    {
+      "id": "sijung-lake-nature-v2",
+      "descriptionAdvanced": "A Szidzsung (Sijung) tó a keleti parton, Kangvon tartományban fekszik, a Japán-tenger közvetlen közelében. Ez egy festői, fenyőerdőkkel és homokdűnékkel körülvett édesvízi lagúnató. A tó legismertebb vonzereje az iszapjában található magas ásványianyag-tartalom, amelyet a helyi állami szanatóriumokban iszappakolásos gyógykezelésekre, reumatikus betegségek gyógyítására használnak. A tó körüli sétányok, pavilonok és a nyugodt vízfelület kiváló rekreációs területet biztosít a Vonszan felől a Kumgang-hegységbe tartó turisták számára. A tó felszínét nyáron lótuszvirágok, partját pedig dús mocsári növényzet borítja. Plizio tanterv: Földrajz K6 — partmenti lagúnák, gyógyiszap és ökoturizmus.",
+      "factsAdvanced": [
+        "A Szidzsung tó egy partmenti lagúna a Japán-tenger partjától néhány száz méterre.",
+        "Több mint 3 négyzetkilométeres, viszonylag sekély édesvízű tó.",
+        "Kiemelkedően magas minőségű gyógyiszapjával reumás betegségeket kezelnek.",
+        "A tó mellett egy állami építésű szanatóriumkomplexum (Sijung Guesthouse) is üzemel.",
+        "A tó vize összeköttetésben áll a tengerrel egy keskeny csatornán keresztül.",
+        "A Phenjan–Kumgang autópálya egyik legkedveltebb pihenőállomása."
+      ]
+    },
+    {
+      "id": "rangrim-mountains-nature-v2",
+      "descriptionAdvanced": "A Nangnim (Rangrim) hegység Észak-Korea északi részének központi gerincét képezi, egy több mint 200 kilométer hosszan elnyúló, sűrű erdővel borított, zord hegylánc. Ez az ország vízválasztója: innen ered a nyugat felé folyó Taedong és Cshongcshon folyó, míg keleti oldalán a hegyipatakok a Japán-tengerbe sietnek. A legmagasabb csúcsa a Vagalbong (2260 méter). A rendkívül elzárt és meredek terep miatt a hegység ritkán lakott, viszont a fakitermelés (és fakilövés) a helyi gazdaság egyik alappillére. Ugyanakkor a tajga-szerű, hideg klímájú hegyi erdőségek menedéket nyújtanak számos veszélyeztetett fajnak, többek között medvéknek és szarvasoknak. A közlekedés itt a téli havazások alatt gyakran lehetetlen. Plizio tanterv: Földrajz K7 — hegyvidéki vízválasztók, tajga éghajlat és domborzati akadályok.",
+      "factsAdvanced": [
+        "A Nangnim hegység Észak-Korea legfőbb belső vízválasztója kelet és nyugat között.",
+        "Legmagasabb csúcsa, a Vagal-bong 2260 méter magasra emelkedik.",
+        "A hegyláncon átvezető kevés hágó a téli hónapokban a sűrű havazás miatt járhatatlan.",
+        "Sűrű fenyő- és vörösfenyő erdei a faipar fontos bázisai.",
+        "Zord éghajlata miatt Észak-Korea egyik legritkábban lakott területe.",
+        "Barlangjai és rejtett völgyei a koreai háború alatt partizánbázisként szolgáltak."
+      ]
+    }
+  ]
+}

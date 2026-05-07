@@ -1,0 +1,250 @@
+{
+  "lang": "hu",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sunchon-vinalon-complex-economic-v2",
+      "descriptionAdvanced": "A Szuncshoni Vinalon Komplexum Dél-Phjongan tartomány gigantikus vegyipari központja. A vinalon (vinylon) az észak-koreai dzsucse-eszme (önellátás) egyik legfőbb technológiai vívmánya: egy szintetikus textilszál, amelyet a hazai mészkőből és szénből állítanak elő, függetlenedve a kőolaj alapú műanyagoktól. Az 1980-as évek végén, még a szovjet blokk támogatásával kezdték el építeni ezt a komplexumot, azonban az országos gazdasági válság miatt építése hosszú időre leállt, és csak a 2010-es években sikerült részben befejezni. Ma nemcsak vinalont, hanem különböző mezőgazdasági vegyi anyagokat és műtrágyát is gyártanak itt. Plizio tanterv: Kémia K8 — szintetikus szálak és a vegyipar fejlődése.",
+      "factsAdvanced": [
+        "A vinalon nevű műszálat mészkőből és antracitból hozzák létre kőolaj helyett.",
+        "A szuncshoni komplexum építése eredetileg 1983-ban vette kezdetét.",
+        "Észak-Koreában a vinalont gyakran a 'dzsucse rostjának' is nevezik.",
+        "Az 1990-es években az éhínség és áramhiány miatt az építkezés teljesen leállt.",
+        "2010-ben Kim Dzsongil személyesen avatta fel a komplexum befejezett részét.",
+        "A vegyipari műveletek jelentős környezetszennyezést okoznak a Taedong folyó mentén."
+      ]
+    },
+    {
+      "id": "pyongyang-textile-mill-economic-v2",
+      "descriptionAdvanced": "A Phenjani Textilgyár az ország egyik legrégebbi és legnagyobb könnyűipari létesítménye a főváros szívében, a Taedong folyó közelében. Az 1950-es években épült, és hagyományosan a női munkásság egyik legfontosabb munkaadója. A gyárban több ezer szövőszék működik, amelyek pamutból, selyemből és a hazai gyártású vinalonból készítenek szöveteket az állami elosztórendszer számára. Az üzem híres arról, hogy az állami propaganda gyakran használja a 'szocialista munka hőseinek' bemutatására, különös tekintettel a női brigádokra. 2014-ben egy modern, új munkásszállót adtak át a gyár területén a dolgozók életkörülményeinek javítására. Plizio tanterv: Társadalomismeret K7 — a könnyűipar társadalmi hatása és a női munka.",
+      "factsAdvanced": [
+        "A Phenjani Textilgyár Észak-Korea legnagyobb ruházati és textilipari üzeme.",
+        "A munkaerő túlnyomó többsége, több mint 80%-a nőkből áll.",
+        "A gyár alapanyagai között szerepel az importált pamut és a hazai vinalon is.",
+        "1958-ban alapították a háború utáni újjáépítési program részeként.",
+        "2014-ben Kim Dzsongun jelenlétében adtak át egy új munkásszállót a telepen.",
+        "A létesítmény termelése elsősorban a belső piac ruházati ellátását szolgálja."
+      ]
+    },
+    {
+      "id": "february-8-vinalon-complex-economic-v2",
+      "descriptionAdvanced": "A Február 8. Vinalon Komplexum Hamhung városában található, és Észak-Korea első, egyben leghíresebb szintetikusszál-gyártó üzeme. A gyárat 1961-ben avatták fel, nevét a Koreai Néphadsereg alapításának napjáról (február 8.) kapta. Ez az üzem volt az első, amely nagyüzemi méretekben kezdte el gyártani a Li Szunggi koreai vegyész által feltalált vinalon műszálat, amely a lakosság ruházkodásának alapja lett. A 2000-es évek elejére a létesítmény szinte teljesen tönkrement és leállt, majd a 2010-es években részben újjáépítették, hogy bizonyítsák a nemzeti ipar feltámadását. Plizio tanterv: Kémia K8 — polimerek és a nemzeti vegyipar története.",
+      "factsAdvanced": [
+        "Az üzemet 1961-ben nyitották meg a hamhungi ipari övezetben.",
+        "Nevét a Koreai Néphadsereg 1948. február 8-i megalapításáról kapta.",
+        "Li Szunggi, a vinalon feltalálója személyesen irányította az üzem korai munkáit.",
+        "Az 1970-es években a lakosság ruházatának nagy része az itt gyártott anyagból készült.",
+        "Az üzemhez kapcsolódó karbidgyártás iszonyatos energiaigénnyel bír.",
+        "Kim Dzsongun 2010-ben jelentette be a gyár újraindulását egy hosszú leállás után."
+      ]
+    },
+    {
+      "id": "taean-heavy-machine-complex-economic-v2",
+      "descriptionAdvanced": "A Tean Nehézgépgyártó Komplexum Nampo városának közelében (Tean megye) található, és az észak-koreai ipar egyik stratégiai bázisa. A gyárat szovjet segítséggel hozták létre, feladata pedig óriási generátorok, turbinák, kohászati berendezések és bányagépek előállítása. Az 1961-ben bevezetett 'Tean-i munkamódszer' is innen kapta a nevét, amely a kollektív vállalatirányítás és a pártbizottságok gazdasági ellenőrzésének modellje lett egész Észak-Koreában. A komplexum kritikus szerepet játszik abban, hogy az ország – az embargók ellenére – képes legyen saját víz- és hőerőműveinek karbantartására és új turbinák gyártására. Plizio tanterv: Gazdaság K8 — vállalatirányítási modellek és nehézgépgyártás.",
+      "factsAdvanced": [
+        "A komplexum állítja elő az ország erőműveinek legnagyobb generátorait.",
+        "Innen ered a 'Tean-i munkamódszer' (1961), az állami iparirányítás modellje.",
+        "A gyár kulcsfontosságú az ország importhelyettesítő politikájában.",
+        "Évente képes akár 50 000 kilowattos vízturbinák összeszerelésére is.",
+        "A komplexum hatalmas területen, külön kikötővel és vasúti ágakkal rendelkezik.",
+        "Az üzem a szovjet mérnöki technológia és segítségnyújtás öröksége."
+      ]
+    },
+    {
+      "id": "ryongsong-machine-complex-economic-v2",
+      "descriptionAdvanced": "A Rjongszong Nehézgépgyártó Komplexum Hamhung városában található, és az észak-koreai ipari 'óriásgépek' szülőhelye. Ez a gyár specializálódott a legnehezebb ipari prések, gigantikus kompresszorok, hengerművek és speciális fegyvergyártó gépsorok előállítására. A gyár történetének egyik csúcspontja egy 10 000 tonnás hidraulikus prés elkészítése volt az 1980-as években, amelyet a propaganda a dzsucse-technológia mérföldköveként ünnepelt. A Rjongszong szorosan együttműködik a bányászattal is, fúrógépeket és szellőztetőket gyártva a mélyaknás bányák számára. Az ipari embargók miatt a gyár fennmaradása létfontosságú az ország önellátása szempontjából. Plizio tanterv: Technika K8 — ipari gépészet és hidraulikus rendszerek.",
+      "factsAdvanced": [
+        "A Rjongszong a legnagyobb ipari gépek gyártója Észak-Koreában.",
+        "Az 1980-as években itt készült el egy híres 10 000 tonnás hidraulikus prés.",
+        "A gyár biztosítja a vegyipari és acélipari komplexumok pótalkatrészeit.",
+        "Speciális katonai és ballisztikus programok alkatrészeit is itt állítják elő.",
+        "A Hamhung városában lévő gyárat még a japán gyarmati időkben alapították.",
+        "A gépek mérete miatt az üzem hatalmas szerelőcsarnokokkal büszkélkedhet."
+      ]
+    },
+    {
+      "id": "kim-chaek-iron-and-steel-works-economic-v2",
+      "descriptionAdvanced": "A Kim Cshek Vasmű (Kim Chaek Iron and Steel Complex) Észak-Korea legnagyobb és legfontosabb acélgyára Cshongdzsin kikötővárosában. Az eredetileg a japán Mitsubishi konszern által az 1930-as években épített üzemet a koreai háború után szovjet segítséggel újjáépítették, és Kim Cshök tábornokról nevezték el. A hatalmas ipartelep a közeli Muszan bányából kapja a vasércet földalatti iszapvezetékeken keresztül. A termelés a hidegháború alatt élte virágkorát, amikor az acélt a keleti blokk országaiba is exportálták. Bár az 1990-es évek gazdasági összeomlása során a termelés a töredékére esett vissza, a gyár ma is az ország nehézipari és hadiipari gerincét képezi. Plizio tanterv: Földrajz K8 — nehézipar, nyersanyag-logisztika és acélgyártás.",
+      "factsAdvanced": [
+        "A gyár Észak-Korea acéltermelésének több mint a felét képes adni.",
+        "A nyers vasércet a 90 kilométerre lévő Muszan bányából csővezetéken szállítják ide.",
+        "A gyárat a japán megszállás idején alapította a Mitsubishi vállalat.",
+        "Nevét az 1951-ben elhunyt Kim Cshök észak-koreai parancsnokról kapta.",
+        "Saját kikötővel rendelkezik Cshongdzsin partjainál a készáruk exportjára.",
+        "Az üzem a szénhiány miatt napjainkban gyakran küzd leállásokkal."
+      ]
+    },
+    {
+      "id": "kusong-machine-tool-factory-economic-v2",
+      "descriptionAdvanced": "A Kuszong Szerszámgépgyár Észak-Phjongan tartományban működik, és a precíziós ipar, valamint a katonai gépészet egyik legvédettebb létesítménye. A hegyek között elszigetelt Kuszong városában lévő üzem számítógép-vezérelt (CNC) esztergagépeket, marógépeket és egyéb magas szintű ipari berendezéseket gyárt. Az észak-koreai propaganda gyakran emeli ki a Kuszongban gyártott CNC-gépeket mint a technológiai önellátás (dzsucse) és a modernizáció bizonyítékait, még saját dalt is írtak a CNC-technológiáról. A valóságban a gyár valószínűleg külföldi, csempészett alkatrészekre is támaszkodik a legmodernebb fegyverrendszerek alkatrészeinek megmunkálásához. Plizio tanterv: Technika K8 — számítógép-vezérlésű gyártás (CNC) és ipari fejlesztés.",
+      "factsAdvanced": [
+        "A gyár az észak-koreai CNC (számítógép-vezérelt) szerszámgépek fő előállítója.",
+        "Kuszong elszigetelt hegyvidéki fekvése ideális a titkos katonai termeléshez.",
+        "A CNC-gépek fejlesztését Kim Dzsongil a 2000-es években nemzeti prioritássá tette.",
+        "Az itt készült gépekkel állítják elő a ballisztikus rakéták precíziós alkatrészeit.",
+        "A gyár nevét gyakran említi az állami média a technológiai függetlenség jelképeként.",
+        "Észak-Koreában a CNC-technológiát népszerűsítő propagandadal is született."
+      ]
+    },
+    {
+      "id": "anju-coal-mining-complex-economic-v2",
+      "descriptionAdvanced": "Az Andzsu Szénbányászati Komplexum Dél-Phjongan tartományban található, a Cshongcshon folyó völgyében, és Észak-Korea egyik legnagyobb és legfontosabb szénmedencéjét fedi le. A régió adja az ország barnaszén-készletének jelentős részét. Az itt kitermelt szenet nemcsak a lakosság fűtésére, hanem az ország hőerőműveinek (például a Pukcshangi Hőerőmű) működtetésére és a vegyipari kombinátok nyersanyag-ellátására használják. A bányászat sok helyen elavult technológiával, mélyaknás módszerrel történik, ami gyakori balesetekhez vezet. A szénipar az észak-koreai gazdaság legfőbb motorja, mivel az ország minimális kőolajjal és földgázzal rendelkezik. Plizio tanterv: Földrajz K8 — ásványkincsek, energiahordozók és a bányászat nehézségei.",
+      "factsAdvanced": [
+        "Az Andzsu régió Észak-Korea legnagyobb összefüggő szénmedencéje.",
+        "A komplexum évente több millió tonna barnaszenet termel ki.",
+        "Az ország energiatermelésének nagy része az itteni szénre támaszkodik.",
+        "Az 1980-as évek végén a bányászat gépesítésének hiánya visszaesést okozott.",
+        "Az elavult szellőzőrendszerek miatt gyakoriak a bányabalesetek a térségben.",
+        "Az innen kitermelt szén egy részét Kínába exportálják valutáért."
+      ]
+    },
+    {
+      "id": "pyongyang-east-thermal-power-plant-economic-v2",
+      "descriptionAdvanced": "A Phenjan Keleti Hőerőmű a főváros energiaellátásának egyik legfontosabb pillére, amely a Taedong folyó keleti partján helyezkedik el. Ezt az erőművet eredetileg 1989-ben kezdték építeni szovjet támogatással, elsősorban azért, hogy a gyorsan növekvő phenjani lakónegyedek távfűtését és elektromos hálózatát ellássa. A Szovjetunió összeomlása után az építkezés leállt, és csak a 2000-es évek elején tudták részben beüzemelni az észak-koreai mérnökök. Az erőmű széntüzelésű, és az elavult szűrőberendezések hiánya miatt a téli hónapokban sűrű, fekete szmoggal borítja be Kelet-Phenjant. Működése elengedhetetlen a phenjani elit lakások téli fűtéséhez. Plizio tanterv: Földrajz K7 — városi infrastruktúra, távfűtés és környezetszennyezés.",
+      "factsAdvanced": [
+        "Az erőmű építését 1989-ben szovjet mérnöki segítséggel kezdték el.",
+        "A Szovjetunió bukása miatt a befejezés több mint egy évtizedet késett.",
+        "Fő feladata Phenjan keleti lakótelepeinek áram- és távhőellátása.",
+        "Az üzemeléshez szükséges szenet többnyire Dél-Phjongan tartományból hozzák.",
+        "Télen a szűretlen égéstermékek súlyos levegőszennyezést okoznak a fővárosban.",
+        "A teljes kapacitás elérése a folyamatos alkatrészhiány miatt nehézkes."
+      ]
+    },
+    {
+      "id": "wiwon-power-plant-economic-v2",
+      "descriptionAdvanced": "A Vivon Vízerőmű a Jalu folyón található gát és áramtermelő létesítmény, amely az Észak-Korea és Kína közötti határon épült Csagang tartományban. A gátat a két ország közösen tervezte és kivitelezte az 1980-as évek végén, és az általa termelt energiát fele-fele arányban osztják meg. A hegyvidéki terep miatt a víz esése ideális az áramtermelésre. A Vivon Erőmű kulcsszerepet játszik Csagang tartomány rejtett hadiipari komplexumainak és gépgyárainak (például Kanggje városának) elektromos ellátásában. A gát emellett az árvízvédelemben és a folyami hajózás szabályozásában is fontos funkciót tölt be. Plizio tanterv: Fizika K7 — vízerőművek, helyzeti energia és nemzetközi együttműködések.",
+      "factsAdvanced": [
+        "A Vivon Vízerőmű a Jalu folyón, a kínai-koreai határon épült.",
+        "A komplexum építése az 1980-as években Kína és Észak-Korea közös projektje volt.",
+        "Az előállított elektromos áramot a két ország 50-50 százalékban osztja el.",
+        "Az erőmű névleges kapacitása megközelíti a 390 megawattot (MW).",
+        "A gát stabilizálja Csagang tartomány hadiipari üzemeinek energiaellátását.",
+        "A tározó kialakítása több észak-koreai hegyi falu elárasztásával járt."
+      ]
+    },
+    {
+      "id": "tomb-of-king-tongmyong-history-v2",
+      "descriptionAdvanced": "Dongmjeong (Tongmjong) király síremléke Phenjan határában található, és az i.e. 37-ben alapított Goguryeo (Kogurjo) királyság legendás alapítójának, Dzsumongnak (Tongmjong) a feltételezett nyughelye. Bár az eredeti sír a mai Kína területén, Jilin tartományban volt, a Goguryeo fővárosának Phenjanba költözésekor (i.sz. 427) a sírt is áthelyezték. Az épületegyüttest 1993-ban Kim Ir Szen utasítására nagyszabásúan, modern elemekkel és kőszobrokkal restaurálták, hogy megerősítsék Phenjan történelmi legitimitását mint a koreai nemzet ősi bölcsője. Az UNESCO 2004-ben a Kogurjo síremlékek részeként a Világörökség listájára vette a komplexumot, amelyhez egy buddhista templom, a Dzsongnung-sza is tartozik. Plizio tanterv: Történelem K6 — az ókori koreai királyságok és a Goguryeo dinasztia.",
+      "factsAdvanced": [
+        "Tongmjong király (Dzsumong) a Goguryeo királyság alapítója volt i.e. 37-ben.",
+        "Az eredeti sírt a főváros költözésekor (i.sz. 427-ben) hozták át Phenjanba.",
+        "1993-ban Kim Ir Szen utasítására a komplexumot drasztikusan átépítették.",
+        "A sír 2004-ben az UNESCO Világörökség része lett a Kogurjo sírok csoportjában.",
+        "A komplexum területén található a Dzsongnung-sza, egy rekonstruált buddhista templom.",
+        "A sírdombot kőből faragott tigrisek és katonák szobrai védelmezik."
+      ]
+    },
+    {
+      "id": "arch-of-triumph-pyongyang-history-v2",
+      "descriptionAdvanced": "A phenjani Diadalív a világ legmagasabb diadalíve, amely 60 méteres magasságával még a párizsi Arc de Triomphe-ot is felülmúlja. A monumentális gránitépítményt 1982-ben avatták fel, Kim Ir Szen 70. születésnapja alkalmából. Az emlékmű a japán gyarmati uralom elleni koreai ellenállást és az ország 1945-ös felszabadítását hirdeti, dicsőítve Kim Ir Szen partizánharcait. Az íven két fontos évszám olvasható: az 1925-ös év, amikor Kim állítólag elindult a forradalmi úton, és 1945, a felszabadulás éve. Az építmény 25 500 fehér gránitblokkból áll, amelyek mindegyike Kim Ir Szen életének egy-egy napját jelképezi a 70. születésnapjáig. Plizio tanterv: Történelem K8 — a gyarmatosítás kora és az állami emlékezetpolitika.",
+      "factsAdvanced": [
+        "A 60 méter magas emlékmű a világ legmagasabb diadalíve.",
+        "1982-ben adták át, pontosan Kim Ir Szen 70. születésnapján.",
+        "Pontosan 25 500 gránittömbből áll, ami Kim életének napjait jelképezi 70 éves koráig.",
+        "A párizsi Diadalív mintájára készült, de annál 10 méterrel magasabb.",
+        "Az ívre felírt évszámok (1925, 1945) az antikoloniális küzdelem mérföldkövei.",
+        "Belül liftek vezetnek fel a tetején lévő kilátóteraszig."
+      ]
+    },
+    {
+      "id": "juche-tower-history-v2",
+      "descriptionAdvanced": "A Juche (Dzsucse) Eszme Tornya Phenjan egyik legikonikusabb nevezetessége, amely a Taedong folyó keleti partján, a Kim Ir Szen térrel szemben emelkedik. Az 1982-ben, szintén Kim Ir Szen 70. születésnapjára emelt 170 méter magas műemlék Észak-Korea hivatalos állami ideológiáját, a dzsucse-t, vagyis az 'önellátást' jelképezi. A tornyot egy 20 méteres, éjszaka is világító vörös lángkorona zárja le. Az obeliszk előtt egy 30 méter magas, hármas bronzszobor áll, amely egy munkást, egy parasztot és egy értelmiségit ábrázol, kezükben kalapáccsal, sarlóval és egy kalligráfus ecsettel – ez egyben a Koreai Munkapárt jelképe is. A toronyból lélegzetelállító kilátás nyílik a fővárosra. Plizio tanterv: Társadalomismeret K8 — politikai ideológiák, a Dzsucse-eszme és a propaganda.",
+      "factsAdvanced": [
+        "A torony 170 méter magas, ebből 20 métert a fém lángkorona tesz ki.",
+        "A műemléket 1982-ben avatták fel Kim Ir Szen születésnapján.",
+        "Az obeliszk 25 550 gránitkockából áll, Kim életének minden napjára egy.",
+        "A torony előtt álló szoborcsoport a munkást, a parasztot és az értelmiségit (ecset) ábrázolja.",
+        "A lángot speciális üvegből építették és belülről folyamatosan kivilágítják.",
+        "A falát külföldi 'Dzsucse-tanulmányozó csoportok' által adományozott kőtáblák díszítik."
+      ]
+    },
+    {
+      "id": "kumsusan-palace-of-the-sun-history-v2",
+      "descriptionAdvanced": "A Kumszuszan Nap Palotája Észak-Korea legszentebb épülete, a mindenkori államfők, Kim Ir Szen és fia, Kim Dzsongil mauzóleuma. Az épület eredetileg 1976-ban épült, és Kim Ir Szen elnöki rezidenciájaként (Kumszuszan Gyűlésterem) szolgált. Kim 1994-es halála után fia, Kim Dzsongil rendeletére alakították át mauzóleummá, gigantikus költségekkel. Kim Dzsongil 2011-es halálát követően az ő bebalzsamozott testét is ide helyezték. Az épület egy elzárt, hatalmas, vizesárkokkal és terekkel körülvett erődítmény Phenjan északkeleti részén. A látogatóknak szigorú öltözködési és viselkedési szabályokat kell betartaniuk, és több biztonsági ellenőrzésen, sőt egy légfúvásos fertőtlenítő kapun is át kell haladniuk. Plizio tanterv: Történelem K8 — a diktatúrák temetkezési kultusza és a személyi kultusz.",
+      "factsAdvanced": [
+        "Az épület eredetileg Kim Ir Szen hivatalos rezidenciája volt 1976-tól.",
+        "1994-ben, Kim Ir Szen halála után alakították át nyilvános mauzóleummá.",
+        "A palotában fekszik Kim Ir Szen és Kim Dzsongil bebalzsamozott teste.",
+        "A mauzóleum átépítése becslések szerint több mint 100 millió dollárba került.",
+        "A szarkofágok mellett a vezetők autói, sőt Kim Dzsongil magánvonata is ki van állítva.",
+        "A belépés kizárólag szigorú protokoll és öltözködési szabályok mellett engedélyezett."
+      ]
+    },
+    {
+      "id": "uss-pueblo-history-v2",
+      "descriptionAdvanced": "A USS Pueblo (AGER-2) az Amerikai Egyesült Államok Haditengerészetének kutatóhajója, amelyet az észak-koreai erők 1968. január 23-án foglaltak le kémkedés vádjával a Japán-tengeren, nemzetközi – vagy az északiak szerint felség- – vizeken. Az '1968-as Pueblo-incidens' a hidegháború egyik legfeszültebb pillanata volt, amely majdnem katonai konfliktushoz vezetett. A legénység egy tagja meghalt, a többieket 11 hónapig tartották fogva és kínozták, míg végül az USA kénytelen volt bocsánatot kérni. A hajó jelenleg a phenjani Győzelmes Honvédő Háború Múzeumának része, mint a 'trófea', amit az imperializmus feletti győzelemként mutatnak be. Ez az egyetlen amerikai hadihajó, amely jelenleg idegen állam fogságában van. Plizio tanterv: Történelem K8 — hidegháborús konfliktusok, tengeri incidensek és kémkedés.",
+      "factsAdvanced": [
+        "A USS Pueblót 1968 januárjában foglalta le az észak-koreai haditengerészet.",
+        "Az incidens során a 83 fős legénységből egy ember életét vesztette.",
+        "A foglyokat 11 hónapos kényszermunka és vallatások után engedték szabadon.",
+        "Ez az egyetlen amerikai hadihajó a világon, amely ma is külföldi kézen van.",
+        "Eredetileg Vonszanban horgonyzott, majd 1999-ben vontatták Phenjanba.",
+        "A hajót ma trófeaként mutatják be a phenjani Háborús Múzeumban."
+      ]
+    },
+    {
+      "id": "korean-demilitarized-zone-history-v2",
+      "descriptionAdvanced": "A Koreai Demilitarizált Övezet (DMZ) egy 250 kilométer hosszú, körülbelül 4 kilométer széles, a Koreai-félszigetet kettészelő senkiföldje, amely az 1953-as panmundzsomi fegyverszüneti egyezmény óta választja el Észak- és Dél-Koreát. Bár a neve 'demilitarizált', valójában a világ egyik legerősebben militarizált határa, amelyet mindkét oldalon aknamezők, tankcsapdák és őrtornyok ezrei védenek. Az elzártság paradox eredményeként az övezet belsejében a természet szinte érintetlen maradt az elmúlt 70 évben, így ritka, veszélyeztetett állat- és növényfajok egyedülálló menedékhelyévé vált (például az amuri leopárd és a mandzsu daru). Szimbolikusan a hidegháború utolsó élő mementója. Plizio tanterv: Földrajz K8 — politikai határok és akaratlan természetvédelmi területek.",
+      "factsAdvanced": [
+        "A DMZ-t az 1953-as koreai fegyverszüneti megállapodás hozta létre.",
+        "Az övezet hossza nagyjából 250 km, átlagos szélessége 4 km.",
+        "Neve ellenére a világ egyik legfegyveresebb és legaknább határsávja.",
+        "A 38. szélességi kör mentén halad, de nem követi azt egyenes vonalban.",
+        "Az emberi jelenlét hiánya miatt ritka állatfajok rezervátumává alakult.",
+        "A határon tilos a civil áthaladás, a katonák folyamatos készültségben állnak."
+      ]
+    },
+    {
+      "id": "panmunjom-history-v2",
+      "descriptionAdvanced": "Panmundzsom (Panmunjom), más néven a Közös Biztonsági Terület (JSA), az egyetlen hely a Koreai Demilitarizált Övezeten belül, ahol az észak- és dél-koreai erők közvetlenül, arcvonalban néznek farkasszemet egymással. Ez volt a helyszíne az 1953-as fegyverszünet aláírásának, amellyel felfüggesztették a koreai háborút (mivel békeszerződés sosem született). A terület legismertebb elemei a kék színű ENSZ-tárgyalóbarakkok, amelyek pontosan a katonai demarkációs vonalon fekszenek; a tárgyalóasztal közepén fut a két országot elválasztó határ. 2018-ban Panmundzsom adott otthont Kim Dzsongun és Mun Dzsein dél-koreai elnök történelmi csúcstalálkozójának. Különös hangulatú hely, ahol a turisták a katonák szoros felügyelete mellett látogathatják a feszült zónát. Plizio tanterv: Történelem K8 — a koreai háború fegyverszünete és a diplomáciai helyszínek.",
+      "factsAdvanced": [
+        "Itt írták alá 1953. július 27-én a koreai háborút lezáró fegyverszünetet.",
+        "A Közös Biztonsági Területen (JSA) nincs fizikai kerítés a két fél között.",
+        "A kék tárgyalóbarakkok asztalait pontosan a határvonalra helyezték.",
+        "1976-ban itt történt a 'baltás incidens', amely majdnem háborút robbantott ki.",
+        "2018 áprilisában itt lépett át Kim Dzsongun a dél-koreai oldalra tárgyalni.",
+        "A látogatóknak szigorúan tilos mutogatniuk vagy gesztikulálniuk a túloldal felé."
+      ]
+    },
+    {
+      "id": "monument-to-party-founding-history-v2",
+      "descriptionAdvanced": "A Pártalapítás Emlékműve Phenjanban a Koreai Munkapárt 1945-ös alapításának 50. évfordulójára épült 1995-ben. Az emlékmű ikonikus kialakítása a párt címerét testesíti meg három, gigantikus gránitkézből álló kompozícióban, amelyek egy kalapácsot (a munkásosztály), egy sarlót (a parasztság) és egy kalligráfus ecsetet (az értelmiség) tartanak. Ez a hármasság Észak-Korea egyedi ideológiai kiegészítése a hagyományos marxista szimbólumokhoz. A szobrok egy 50 méter átmérőjű, kerek gyűrűben állnak, amely a párt egységét hivatott jelképezni, és amelynek külső falát a dicsőséges történelmet bemutató bronz domborművek díszítik. A műemlék a Taedong folyó keleti partján, a Manszude Nagy Emlékművel egy tengelyen helyezkedik el. Plizio tanterv: Társadalomismeret K8 — pártállami jelképrendszerek és politikai emlékművek.",
+      "factsAdvanced": [
+        "Az emlékművet 1995-ben, a Koreai Munkapárt fennállásának 50. évére avatták fel.",
+        "A három kéz a munkásokat (kalapács), a parasztokat (sarló) és az értelmiséget (ecset) jelképezi.",
+        "Az építmény magassága 50 méter, ami az alapítás 50. évfordulójára utal.",
+        "A kompozíciót körülölelő kőgyűrű is pontosan 50 méter átmérőjű.",
+        "A gyűrűn olvasható felirat: 'Éljen soká a Koreai Munkapárt, a nép győzelmeinek szervezője!'",
+        "A szoborcsoport mögött két szimmetrikus lakóépület található, vörös zászlót mintázva."
+      ]
+    },
+    {
+      "id": "victorious-war-museum-history-v2",
+      "descriptionAdvanced": "A Győzelmes Honvédő Háború Múzeuma Phenjan egyik legjelentősebb múzeuma, amelyet a koreai háború (1950–1953) észak-koreai interpretációjának szenteltek. Az intézmény 1953-ban nyílt meg, de 2013-ban Kim Dzsongun utasítására egy gigantikus, modern épületkomplexumba költöztették. A múzeum célja, hogy bizonyítsa: az Egyesült Államok indította a háborút, és az észak-koreai nép, Kim Ir Szen vezetésével aratott dicsőséges győzelmet felette. A kiállítás rendkívül részletes diorámákat, zsákmányolt amerikai fegyvereket, repülőroncsokat és harckocsikat vonultat fel. Itt horgonyoz a zsákmányolt USS Pueblo amerikai kémhajó is. A múzeum látogatása minden külföldi delegáció számára kötelező program a rezsim antiimperialista narratívájának bemutatására. Plizio tanterv: Történelem K8 — a történelem átírása és a hidegháborús propaganda.",
+      "factsAdvanced": [
+        "A múzeum a koreai háborút (náluk Honvédő Háború) északi szemszögből mutatja be.",
+        "2013-ban avatták fel a múzeum teljesen új, kibővített gigantikus épületét.",
+        "Több mint 80 kiállítóteremmel rendelkezik, köztük egy 360 fokos körképpel (dioráma).",
+        "Az udvarán egy hatalmas parkban amerikai roncsok és tankok vannak kiállítva.",
+        "A múzeum folyóparti részén horgonyoz a foglyul ejtett amerikai hajó, a USS Pueblo.",
+        "A bejáratot a 'Győzelem' nevű hatalmas szoborcsoport őrzi."
+      ]
+    },
+    {
+      "id": "sinchon-museum-history-v2",
+      "descriptionAdvanced": "A Sincshoni Amerikai Háborús Bűnök Múzeuma Dél-Hvanghe tartományban, Sincshon városában található. A múzeum az 1950 őszi 'Sincshoni Mészárlásnak' állít emléket, amely során az észak-koreai állítások szerint az amerikai katonák és dél-koreai szövetségeseik mintegy 35 000 civilt, a megye lakosságának negyedét végezték ki brutális kegyetlenséggel (nyugati és dél-koreai történészek szerint a mészárlást helyi, kommunistaellenes milíciák követték el). Az intézmény a rezsim Amerika-ellenes oktatásának központja, ahol megrázó és sokkoló festmények, diorámák és állítólagos tárgyi bizonyítékok (pl. véres ruhák, kínzóeszközök) láthatók. A múzeumot arra használják, hogy az állampolgárokban ébren tartsák a gyűlöletet az 'amerikai imperialistákkal' szemben. Plizio tanterv: Történelem K8 — pszichológiai hadviselés és a történelem fegyverként való használata.",
+      "factsAdvanced": [
+        "A múzeum az 1950-es sincshoni mészárlás emlékét őrzi, ahol állítólag 35 000 civil halt meg.",
+        "Észak-Korea az amerikai hadsereget teszi felelőssé, míg a független kutatók koreai milíciákat.",
+        "A kiállítás szándékosan sokkoló grafikus festményeket és diorámákat tartalmaz.",
+        "A tárlaton megtekinthető az a légópince, ahol állítólag 900 embert égettek halálra.",
+        "A múzeum az észak-koreai diákok 'anti-imperialista nevelésének' kötelező helyszíne.",
+        "2015-ben Kim Dzsongun személyesen látogatott el ide és rendelte el a múzeum bővítését."
+      ]
+    }
+  ]
+}

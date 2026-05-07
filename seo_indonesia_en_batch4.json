@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "padar-island-viewpoint-landmarks-v2",
+      "descriptionAdvanced": "The Padar Island Viewpoint is one of the most iconic and photographed spots in Indonesia's Komodo National Park. After a steep hike up a rugged trail, visitors are rewarded with a breathtaking 360-degree panorama of the island's three main bays, each featuring a different color of sand: pearly white, charcoal black, and a rare soft pink. The island's dramatic, savannah-covered hills and jagged volcanic ridges create a prehistoric landscape that feels like a scene from another era. Padar is the third-largest island in the park and is uninhabited by humans, making it a pristine sanctuary for nature. The viewpoint symbolizes the incredible geological and biological diversity of the Lesser Sunda Islands. Geography K10 — Coastal Landforms and Island Biogeography.",
+      "factsAdvanced": [
+        "Located within the UNESCO World Heritage Komodo National Park.",
+        "Features three distinct beaches with white, black, and pink sand.",
+        "The hike to the summit takes approximately 20-40 minutes on a steep path.",
+        "The island is volcanic in origin with dramatic, serrated mountain ridges.",
+        "Padar was once home to Komodo dragons, though they are rarely seen today.",
+        "The best time for photos is at sunrise or sunset for golden light.",
+        "The island has a semi-arid climate, dominated by savanna and scrubland.",
+        "A major global destination for landscape photography and trekking."
+      ]
+    },
+    {
+      "id": "sam-poo-kong-temple-landmarks-v2",
+      "descriptionAdvanced": "Sam Poo Kong is the oldest and most important Chinese temple in Semarang, Central Java, serving as a powerful symbol of the city's multicultural history. The temple was built to honor Admiral Zheng He (Sanbao), a famous 15th-century Muslim Chinese explorer who arrived on the shores of Java during his legendary voyages. The complex is a stunning blend of Chinese and Javanese architectural styles, featuring grand red-walled structures, ornate pagodas, and a massive bronze statue of the Admiral. It is unique for being a site of worship for people of multiple faiths, including Buddhists, Taoists, and Muslims. Sam Poo Kong remains a vital cultural landmark, hosting vibrant festivals and celebrations that highlight the deep historical ties between China and Indonesia. Geography K7 — Cultural Syncretism and Historical Voyages.",
+      "factsAdvanced": [
+        "Established in the early 15th century by the crew of Admiral Zheng He.",
+        "The current bronze statue of Zheng He is 10.7 meters tall, the tallest in the world.",
+        "A rare example of a temple that is sacred to both Muslims and non-Muslims.",
+        "The site includes a cave where Zheng He is said to have meditated.",
+        "Originally located on the coastline, it now sits inland due to sedimentation.",
+        "Features intricate stone carvings depicting the Admiral's maritime journeys.",
+        "Host of the annual 'Semarang Night Carnival' and major lunar new year events.",
+        "Symbolizes the peaceful historical integration of Chinese immigrants in Java."
+      ]
+    },
+    {
+      "id": "welcome-to-jakarta-monument-landmarks-v2",
+      "descriptionAdvanced": "The Welcome to Jakarta Monument (Monumen Selamat Datang), located in the center of the Hotel Indonesia Roundabout, is a welcoming symbol of the Indonesian capital. Built in 1962, the monument features two bronze statues of a man and a woman waving towards the north, originally intended to greet international athletes arriving for the 4th Asian Games. It sits atop a massive circular fountain that has become the focal point of Jakarta's modern business district. The monument is surrounded by the city's most prestigious luxury hotels and malls, and it serves as a popular site for public gatherings and peaceful demonstrations. It remains one of Jakarta's most recognizable landmarks, representing the city's hospitality and its rapid urban modernization. Geography K9 — Urban Landmarks and International Events.",
+      "factsAdvanced": [
+        "Commissioned by President Sukarno and designed by artist Henk Ngantung.",
+        "Completed in 1962 to welcome participants of the 4th Asian Games.",
+        "The bronze statues stand approximately 7 meters tall on a 30-meter pedestal.",
+        "Located in the center of 'Bundaran HI,' Jakarta's most famous roundabout.",
+        "The statues face north toward the old Kemayoran Airport and the harbor.",
+        "A defining symbol of Jakarta's emergence as a modern Southeast Asian city.",
+        "The fountain is illuminated at night with colorful light displays.",
+        "Serves as the central point for the city's weekly 'Car Free Day' events."
+      ]
+    },
+    {
+      "id": "jam-gadang-landmarks-v2",
+      "descriptionAdvanced": "Jam Gadang, or the 'Great Clock,' is the iconic clock tower that dominates the skyline of Bukittinggi in the highlands of West Sumatra. Built in 1926 as a gift from the Dutch Queen to the city's administrator, the tower's roof has been modified several times to reflect the changing political landscape, eventually settling on the traditional Minangkabau 'Buffalo Horn' style. The clock mechanism was built by the same German clockmaker who created the Big Ben in London. Jam Gadang is not only a functional timepiece but a central social hub and a symbol of Minangkabau pride. The tower overlooks a vibrant central market and provides a spectacular view of the surrounding volcanic peaks, including Mount Singgalang and Mount Marapi. Geography K7 — Colonial Legacies and Ethnic Identity.",
+      "factsAdvanced": [
+        "The name 'Jam Gadang' literally means 'Big Clock' in the Minangkabau language.",
+        "The clock mechanism is one of only two in the world made by Vortmann of Germany.",
+        "The four clock faces were imported directly from the Netherlands in 1926.",
+        "The roof style was originally European, then Japanese-style, then Minangkabau.",
+        "A unique feature is the Roman numeral 'IV' written as 'IIII' on the clock face.",
+        "The tower stands 26 meters tall and is built without any supporting metal frames.",
+        "The focal point of the city's main square and its bustling 'Pasar Atas' market.",
+        "Survived several major earthquakes, including the devastating 2009 tremor."
+      ]
+    },
+    {
+      "id": "sultan-palace-of-tidore-landmarks-v2",
+      "descriptionAdvanced": "The Sultan Palace of Tidore (Kedaton Kie) is the historical and cultural heart of the Tidore Sultanate, one of the four legendary 'Spice Islands' of Maluku. Rebuilt in its original style after being destroyed during colonial conflicts, the palace is a elegant symbol of the sultanate's former power as a major global source of cloves. The palace grounds overlook the Halmahera Sea and offer a stunning view of the neighboring volcanic island of Ternate. It houses royal regalia and historical artifacts that tell the story of Tidore's resistance against the Portuguese, Spanish, and Dutch. Today, the Sultan of Tidore still plays a vital role as a cultural leader, and the palace remains a living site of traditional ceremonies and royal heritage. Geography K7 — The Global Spice Trade and Maritime Sultanates.",
+      "factsAdvanced": [
+        "The Tidore Sultanate was founded in the 11th century and was a major spice power.",
+        "The current palace (Kedaton Kie) was rebuilt and inaugurated in 2010.",
+        "Historically, Tidore was the base for the first Spanish voyages to the region.",
+        "Tidore and Ternate were the world's only sources of cloves for centuries.",
+        "The palace features a blend of traditional Moluccan and colonial influences.",
+        "The Sultan of Tidore once controlled territories as far as the coast of Papua.",
+        "Houses a sacred crown that is only displayed during major royal ceremonies.",
+        "The island is dominated by the near-perfect cone of Mount Kie Matubu."
+      ]
+    },
+    {
+      "id": "singapore-strait-bridge-batam-landmarks-v2",
+      "descriptionAdvanced": "The Barelang Bridge is a series of six impressive bridges that connect the islands of Batam, Rempang, and Galang in the Riau Archipelago. This massive infrastructure project was spearheaded by B.J. Habibie, who later became Indonesia's third president, to transform the islands into a major industrial and tourism hub. The first bridge, a cable-stayed structure named Tengku Fisabilillah, is the most iconic, spanning the sea with its soaring towers. Often compared to San Francisco's Golden Gate Bridge, it has become the defining landmark of Batam. The bridge system has opened up the southern islands for development while providing spectacular views of the Singapore Strait and the surrounding tropical archipelago. Geography K11 — Infrastructure Development and Island Connectivity.",
+      "factsAdvanced": [
+        "The name 'Barelang' is an acronym for the islands: Batam, Rempang, and Galang.",
+        "Consists of 6 different bridges spanning a total distance of over 2 kilometers.",
+        "Bridge I is a cable-stayed structure with a main span of 350 meters.",
+        "Construction was completed in 1997 using entirely Indonesian engineers and labor.",
+        "The project was initiated by B.J. Habibie to spur regional economic growth.",
+        "Bridge I stands 38 meters above the sea, allowing for large ship passage.",
+        "A popular spot for local tourists to enjoy the sunset over the Riau islands.",
+        "Connects Batam's industrial heart to the pristine beaches of Galang Island."
+      ]
+    },
+    {
+      "id": "an-nur-great-mosque-pekanbaru-landmarks-v2",
+      "descriptionAdvanced": "The An-Nur Great Mosque in Pekanbaru is often referred to as the 'Taj Mahal of Riau' due to its stunning architectural resemblance to the famous Indian monument. Completed in 1968 and later renovated, the mosque features five distinctive green domes and four towering minarets that dominate the city's skyline. Its design is a unique blend of Malay, Turkish, Arabic, and Indian styles, set within a vast and beautifully landscaped park. The mosque is not only a place of worship but a major center for Islamic education and community life in Riau province. At night, the mosque is brilliantly illuminated, with its reflection shimmering in the large pools in front, making it a favorite landmark for photographers and visitors. Geography K7 — Islamic Architecture and Malay Cultural Identity.",
+      "factsAdvanced": [
+        "The mosque can accommodate up to 4,500 worshippers in its main hall.",
+        "The current architecture was inspired by a mix of Turkish and Indian Mogul styles.",
+        "The four minarets represent the four main tenets of the Islamic faith.",
+        "Originally built in 1963 and underwent a major renovation in 2000.",
+        "Features a large reflecting pool similar to the one at the Taj Mahal.",
+        "Serves as the primary center for the Riau Islamic University (UIR).",
+        "The mosque's grounds cover over 12 hectares of lush green space.",
+        "A major venue for the celebration of Eid al-Fitr and other Islamic festivals."
+      ]
+    },
+    {
+      "id": "liang-bua-cave-landmarks-v2",
+      "descriptionAdvanced": "Liang Bua is a massive limestone cave on the island of Flores that gained worldwide scientific fame in 2003 with the discovery of a new human species, Homo floresiensis, popularly known as the 'Hobbit.' This tiny early human stood only about 1 meter tall and lived on the island as recently as 50,000 years ago. The cave is a vast natural cathedral that has served as a shelter for humans and animals for tens of thousands of years. Excavations have revealed fossils of pygmy elephants (Stegodon), giant rats, and Komodo dragons alongside the remains of the Hobbit. Liang Bua is a critical site for understanding human evolution and the unique biological adaptations that occur on isolated islands. Geography K7 — Human Evolution and Island Endemism.",
+      "factsAdvanced": [
+        "The first 'Hobbit' (Homo floresiensis) fossils were discovered here in 2003.",
+        "The species lived on Flores between 190,000 and 50,000 years ago.",
+        "The cave is 50 meters long and 30 meters wide at its mouth.",
+        "Flores is famous for 'island dwarfing,' where large animals evolve to be smaller.",
+        "Archaeologists found evidence of fire and stone tools used by the 'Hobbit'.",
+        "The name 'Liang Bua' means 'Cool Cave' in the local Manggarai language.",
+        "Fossils of a giant extinct stork (Leptoptilos robustus) were also found here.",
+        "The site is currently managed as a museum and archaeological research center."
+      ]
+    },
+    {
+      "id": "sleman-monjali-monument-landmarks-v2",
+      "descriptionAdvanced": "The Monumen Yogya Kembali, popularly known as Monjali, is a unique cone-shaped monument in Sleman, Yogyakarta, that commemorates the withdrawal of Dutch colonial forces in 1949. Its distinctive 31-meter tall conical shape is inspired by a traditional Javanese rice cone (Tumpeng), symbolizing the nation's gratitude for its regained independence. The monument is divided into three floors, housing a vast collection of dioramas, artifacts, and photographs that tell the story of the revolutionary struggle in Yogyakarta, which served as the capital of Indonesia during the conflict. The names of 422 heroes who fell during the struggle are inscribed on the monument's walls. Monjali is a place of deep patriotic significance and a landmark of modern Javanese design. Geography K9 — Revolutionary History and National Symbols.",
+      "factsAdvanced": [
+        "Inaugurated on July 6, 1989, to mark the return of Yogyakarta to the Republic.",
+        "The name 'Yogya Kembali' means 'The Return of Yogyakarta'.",
+        "The monument stands 31.8 meters tall and has a diameter of 45 meters.",
+        "Features 10 dioramas depicting the diplomatic and military struggle in Java.",
+        "Located exactly on the imaginary 'Sumbu Filosofis' line of Yogyakarta.",
+        "Surrounded by a park that hosts a popular 'Lantern Festival' at night.",
+        "The top floor houses the 'Garbha Graha,' a sacred room for quiet reflection.",
+        "A major destination for school study tours from across Indonesia."
+      ]
+    },
+    {
+      "id": "palace-of-the-sultan-of-sumenep-landmarks-v2",
+      "descriptionAdvanced": "The Palace of the Sultan of Sumenep (Kraton Sumenep) is a stunning architectural gem located on the island of Madura. Built in the 18th century, it is the only royal palace in East Java that remains largely intact. The palace is unique for its eclectic mix of Madurese, Islamic, Chinese, and European architectural influences, designed by a Chinese-Indonesian architect named Lauw Piango. Its grand yellow gateway, ornate audience halls, and the nearby Great Mosque of Sumenep are symbols of the sultanate's former prosperity and cultural sophistication. The palace grounds also feature a sacred bathing pool (Taman Sare) and a museum housing royal carriages and regalia. It remains the spiritual and cultural heart of the Madurese people. Geography K7 — Madurese Culture and Architectural Syncretism.",
+      "factsAdvanced": [
+        "The current palace was completed in 1781 by Sultan Panembahan Somala.",
+        "Designed by the Chinese architect Lauw Piango, showing strong Taoist influence.",
+        "The yellow-painted gateway is one of the most recognizable in Madura.",
+        "The 'Taman Sare' pool was reserved for the Sultan's queens and daughters.",
+        "Sumenep was a powerful sultanate that controlled much of Madura and East Java.",
+        "The palace museum displays a gift from the Queen of England—a gold-plated carriage.",
+        "Includes a sacred 'Gamelan' set that is only played on special occasions.",
+        "Historically a major center for the maritime trade of cattle and salt."
+      ]
+    },
+    {
+      "id": "sendang-gile-and-tiu-kelep-waterfall-landmarks-v2",
+      "descriptionAdvanced": "Sendang Gile and Tiu Kelep are two spectacular waterfalls located at the foot of Mount Rinjani on the island of Lombok. Nestled within lush tropical rainforest, these falls are fed by the crystal-clear waters flowing from the volcano's crater lake, Segara Anak. Sendang Gile is easily accessible and drops in two magnificent tiers, while the more hidden Tiu Kelep requires a short trek through the jungle and a river crossing. Local legends claim that bathing in the mists of Tiu Kelep can grant eternal youth. These waterfalls are not only stunning natural landmarks but also vital sources of irrigation for the surrounding Sasak villages. They represent the incredible volcanic hydrology and natural beauty of Lombok's highland regions. Geography K10 — Volcanic Hydrology and Eco-Tourism.",
+      "factsAdvanced": [
+        "Located in the village of Senaru, the main gateway to Mount Rinjani.",
+        "Sendang Gile drops approximately 30 meters in two cascading tiers.",
+        "Tiu Kelep is higher, standing at 45 meters, with a powerful natural pool.",
+        "The water originates directly from the Rinjani volcanic crater lake.",
+        "Surrounded by dense tropical rainforest home to grey macaque monkeys.",
+        "Local Sasak people believe the water has healing and rejuvenating properties.",
+        "A major stop for hikers before or after their trek to Rinjani's summit.",
+        "The area is prone to landslides and earthquakes due to its volcanic location."
+      ]
+    },
+    {
+      "id": "bukit-kasih-kanonang-landmarks-v2",
+      "descriptionAdvanced": "Bukit Kasih, or the 'Hill of Love,' is a unique spiritual and natural landmark in North Sulawesi that celebrates religious harmony. Located on the slopes of an active sulfurous hill near Lake Tondano, the site features five separate houses of worship—a Catholic church, a Protestant church, a mosque, a Hindu temple, and a Buddhist temple—all built side-by-side. A massive 53-meter high monument, carved with the faces of the legendary ancestors of the Minahasa people, greets visitors at the base. The hill is a popular pilgrimage site where people of all faiths come to pray and enjoy the natural hot springs. Bukit Kasih stands as a powerful testament to the 'Mapalus' spirit of cooperation and tolerance that defines Minahasan culture. Geography K7 — Religious Pluralism and Geothermal Landscapes.",
+      "factsAdvanced": [
+        "Opened in 2002 to commemorate the peaceful coexistence of five major religions.",
+        "Located in Kanonang village, about 50 kilometers from the city of Manado.",
+        "Features a massive monument carved with the faces of Toar and Lumimuut.",
+        "Accessible by climbing 2,435 steps to the top of the hill.",
+        "The hill is geothermally active, with numerous natural sulfur vents.",
+        "The name 'Bukit Kasih' translates to 'The Hill of Love and Harmony'.",
+        "Includes natural hot spring pools where visitors can boil eggs or soak their feet.",
+        "A major center for the celebration of North Sulawesi's 'Day of Harmony'."
+      ]
+    },
+    {
+      "id": "sukuh-temple-landmarks-v2",
+      "descriptionAdvanced": "Candi Sukuh is one of Indonesia's most mysterious and controversial archaeological sites, located on the western slopes of Mount Lawu in Central Java. Built in the 15th century as the Majapahit Empire was declining, its architecture is strikingly different from other Javanese temples, resembling a truncated Mayan pyramid. The temple is famous for its bold, explicit carvings that focus on fertility, birth, and spiritual liberation, reflecting a late-period revival of indigenous animist beliefs mixed with Hinduism. Its remote, high-altitude location at 910 meters adds to its mystical atmosphere. Sukuh is a fascinating example of 'divergent' Javanese art and a unique window into the spiritual transition that occurred on Java just before the widespread arrival of Islam. Geography K8 — Late-Classical Javanese Art and Spiritual Transition.",
+      "factsAdvanced": [
+        "Built around 1437 AD during the final years of the Majapahit Empire.",
+        "The main structure is a tiered, truncated pyramid, unique in Javanese architecture.",
+        "Features carvings of phallic symbols and fertility rites, rare in classical temples.",
+        "Located on the sacred Mount Lawu at an altitude of 910 meters.",
+        "Shows a distinct departure from the elaborate 'Old Indies' temple styles.",
+        "Includes statues of 'Garuda,' the mythical bird who fought for immortality.",
+        "Archaeologists believe it was a site for 'Ruwatan' (spiritual purification) rituals.",
+        "Offers a spectacular view of the Solo plain and the Bengawan Solo river."
+      ]
+    },
+    {
+      "id": "ampera-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Ampera Bridge is the iconic symbol of Palembang, South Sumatra, spanning the mighty Musi River to connect the city's Seberang Ulu and Seberang Ilir districts. Built in 1962 using Japanese war reparations, it was originally a vertical-lift bridge that could raise its central span to allow large ships to pass through. Although the lifting mechanism is no longer active, the bridge's vibrant red color and massive towers remain the center of the city's identity. At night, the bridge is beautifully lit, reflecting in the river's waters. It serves as a vital transportation link and the focal point for major city festivals, symbolizing the modernization of South Sumatra and its enduring connection to the river. Geography K11 — Urban Connectivity and Riverine Infrastructure.",
+      "factsAdvanced": [
+        "The name 'Ampera' is an acronym for 'Amanat Penderitaan Rakyat' (Mandate of People's Suffering).",
+        "Originally named the Bung Karno Bridge after Indonesia's first president.",
+        "Spans 1,177 meters in length and stands 63 meters above the water.",
+        "The central span could be raised 10 meters in just 30 minutes until 1970.",
+        "Renainted from gray to its current vibrant red color in 2002.",
+        "The bridge was built entirely using Japanese war reparation funds and engineering.",
+        "One of the longest bridges on the island of Sumatra and a major tourist landmark.",
+        "Serves as the primary viewing point for the Musi River boat races."
+      ]
+    },
+    {
+      "id": "taman-sari-water-castle-landmarks-v2",
+      "descriptionAdvanced": "Taman Sari, the 'Fragrant Garden,' is a stunning 18th-century former royal garden of the Sultanate of Yogyakarta. Built for Sultan Hamengkubuwono I, it was a multi-purpose complex that included a large artificial lake, swimming pools, a series of underground tunnels, and a fortified island for defense. The most well-preserved section is the 'Umbul Binangun' bathing pools, featuring grand towers and blue-water tanks once reserved for the royal family. Taman Sari also includes the 'Sumur Gumuling,' a unique circular underground mosque with a five-way staircase. While much of the complex was damaged by earthquakes and neglect, its remaining ruins offer a fascinating look at the luxury, spirituality, and defensive strategy of the Javanese monarchy. Geography K8 — Royal Palaces and Hydro-Architecture.",
+      "factsAdvanced": [
+        "Built between 1758 and 1765 as a royal pleasure garden and fortress.",
+        "The architect was a Portuguese man known locally as 'Demang Tegis'.",
+        "The Umbul Binangun pools were restored to their current state in the 1970s.",
+        "Sumur Gumuling is a unique underground 'mosque in a circle' with 5 stairways.",
+        "The complex was originally surrounded by a massive artificial lake called 'Segaran'.",
+        "Much of the site was destroyed by a major earthquake in 1867.",
+        "Located only 500 meters west of the Kraton (Royal Palace) of Yogyakarta.",
+        "The underground tunnels were designed as secret escape routes for the Sultan."
+      ]
+    },
+    {
+      "id": "ragunan-zoo-life-v2",
+      "descriptionAdvanced": "Ragunan Zoo, located in South Jakarta, is one of the oldest and largest urban zoos in the world, covering 140 hectares of tropical forest in the heart of the metropolis. Established in 1864, it is home to over 3,000 animals, with a strong focus on preserving Indonesia's unique and endangered wildlife, such as the Sumatran tiger, Komodo dragon, and Orangutan. The zoo is world-famous for its Schmutzer Primate Center, one of the most advanced facilities for gorillas, chimpanzees, and orangutans in a semi-natural habitat. As a 'green lung' for the congested city, Ragunan attracts millions of visitors annually, serving as a vital center for environmental education, recreation, and international conservation efforts. Geography K7 — Wildlife Conservation and Urban Biodiversity.",
+      "factsAdvanced": [
+        "Founded in 1864 in Cikini by the Dutch, then moved to Ragunan in 1966.",
+        "Covers 140 hectares, making it one of the largest urban zoos globally.",
+        "The Schmutzer Primate Center is an international model for primate conservation.",
+        "Home to the critically endangered Sumatran Tiger and Javan Hawk-Eagle.",
+        "Features over 50,000 trees, acting as a major oxygen source for Jakarta.",
+        "The zoo is closed every Monday to give the animals a 'day of rest'.",
+        "Attracts over 4 million visitors per year, especially during national holidays.",
+        "Offers a 100% natural, shaded environment with many species of wild birds."
+      ]
+    },
+    {
+      "id": "taman-mini-indonesia-indah-life-v2",
+      "descriptionAdvanced": "Taman Mini Indonesia Indah (TMII), or 'Beautiful Indonesia Miniature Park,' is a vast cultural theme park in Jakarta that showcases the incredible diversity of the Indonesian archipelago. The park features full-scale traditional houses (Rumah Adat) from every province in Indonesia, displaying the unique architecture, textiles, and traditions of over 300 ethnic groups. In the center of the park lies a large lake with a miniature map of the Indonesian islands. TMII also houses numerous museums dedicated to technology, insects, transportation, and sports, as well as a large IMAX theater and a bird park. It was created to foster national identity and unity, offering a 'tour of Indonesia' in a single day. Geography K7 — National Diversity and Cultural Landscapes.",
+      "factsAdvanced": [
+        "Inaugurated in 1975 by First Lady Siti Hartinah (Tien Suharto).",
+        "Covers an area of approximately 150 hectares in East Jakarta.",
+        "Features 33 (now 38) provincial pavilions showing traditional 'Rumah Adat'.",
+        "The central lake contains a massive scale model of the Indonesian archipelago.",
+        "Home to the Museum of Indonesia, which houses over 10,000 cultural artifacts.",
+        "Includes a large Bird Park (Taman Burung) with hundreds of tropical species.",
+        "Served by a cable car system that provides a panoramic view of the park.",
+        "A major venue for the preservation of traditional Indonesian performing arts."
+      ]
+    },
+    {
+      "id": "bali-bird-park-life-v2",
+      "descriptionAdvanced": "The Bali Bird Park is a world-class conservation and education center located in Batubulan, showcasing over 1,000 birds from 250 different species. The park is uniquely divided into seven regions that recreate the natural habitats of South America, South Africa, Australia, and the various islands of Indonesia, including Bali, Java, and Papua. It is most famous for its successful breeding program of the critically endangered Bali Starling (Jalak Bali), the island's only endemic bird. Visitors can experience immersive walk-through aviaries, witness spectacular bird shows, and see rare species like the Cassowary and the Bird of Paradise. The park represents a commitment to protecting Southeast Asia's avian biodiversity through education and international research. Geography K7 — Avian Biodiversity and Habitat Conservation.",
+      "factsAdvanced": [
+        "Houses more than 1,000 birds representing 250 tropical species.",
+        "Includes a dedicated nursery for the critically endangered Bali Starling.",
+        "Divided into geographic regions, from the African Savannah to the Papuan Rainforest.",
+        "Features rare 'Birds of Paradise' (Cendrawasih) from the eastern islands.",
+        "The park is set within two hectares of lush botanical gardens.",
+        "Offers interactive feeding sessions and bird-of-prey flying displays.",
+        "Home to a 4D cinema that shows environmental and wildlife films.",
+        "A key participant in global breeding programs for rare Southeast Asian birds."
+      ]
+    },
+    {
+      "id": "jatiluwih-rice-fields-agriculture-v2",
+      "descriptionAdvanced": "Jatiluwih, located in the highlands of central Bali, is home to some of the most spectacular and expansive rice terraces in the world. This UNESCO World Heritage site is the finest example of the 'Subak' system—a traditional Balinese irrigation cooperative that has been practiced for over 1,000 years. The terraces follow the natural contours of the hills, creating a mesmerizing green staircase that stretches as far as the eye can see. Unlike many other parts of Bali, Jatiluwih still primarily grows 'Padi Bali,' a traditional red rice variety that is prized for its taste and spiritual significance. The area represents a perfect harmony between human agriculture, religious beliefs, and the natural environment. Geography K8 — Sustainable Agriculture and Traditional Irrigation Systems.",
+      "factsAdvanced": [
+        "Designated as a UNESCO World Heritage site in 2012 as part of the Subak system.",
+        "Covers over 600 hectares of terraced rice fields at the foot of Mount Batukaru.",
+        "The Subak system is a water management cooperative dating back to the 9th century.",
+        "Farmers in Jatiluwih follow the philosophy of 'Tri Hita Karana' (Harmony with God, People, and Nature).",
+        "A major producer of traditional Balinese red rice (Beras Merah).",
+        "The name 'Jatiluwih' means 'Truly Marvelous' in the Balinese language.",
+        "Irrigation water is distributed through a complex system of canals and tunnels.",
+        "The terraces help prevent soil erosion on the steep volcanic slopes."
+      ]
+    },
+    {
+      "id": "gayo-coffee-plantations-agriculture-v2",
+      "descriptionAdvanced": "The Gayo Highlands in Central Aceh, Sumatra, are world-renowned for producing some of the highest quality Arabica coffee on the planet. Situated at an elevation of 1,200 to 1,700 meters, the region's volcanic soil and cool mountain climate are perfect for coffee cultivation. Gayo coffee is unique because it is traditionally processed using the 'Giling Basah' (Wet Hulling) method, which gives the beans a heavy body, low acidity, and a distinct spicy, earthy flavor profile. Most of the coffee is grown by thousands of small-holder farmers on family-run plots, many of which are certified Organic and Fair Trade. The Gayo Highlands represent one of Indonesia's most successful agricultural export regions, with its beans being a staple in specialty coffee shops globally. Geography K7 — Tropical Highlands and Plantation Crops.",
+      "factsAdvanced": [
+        "The Gayo Highlands are the largest Arabica coffee-producing region in Asia.",
+        "Located at altitudes between 1,200 and 1,700 meters above sea level.",
+        "Uses the unique 'Giling Basah' (wet-hulled) processing technique.",
+        "Known for its heavy body and distinct notes of cedar and spices.",
+        "Home to over 70,000 small-holder coffee farmers.",
+        "Has a Geographical Indication (GI) status, protecting the 'Gayo' brand name.",
+        "The majority of Gayo coffee is exported to the United States and Europe.",
+        "The region's economy is almost entirely dependent on the global coffee market."
+      ]
+    },
+    {
+      "id": "bogor-botanical-gardens-life-v2",
+      "descriptionAdvanced": "The Bogor Botanical Gardens (Kebun Raya Bogor), established in 1817, is the oldest and most important botanical research center in Southeast Asia. Located in the 'Rain City' of Bogor, it covers 87 hectares and adjoins the presidential palace grounds. The gardens were instrumental in the introduction of economic crops like rubber, oil palm, and cinchona (for quinine) to Indonesia, which transformed the colonial economy. Today, it houses a vast collection of over 13,000 plant species, including many rare and endangered tropical trees and the world's largest flower, the Rafflesia. As a major center for plant conservation and taxonomy, Bogor Botanical Gardens serves as a vital 'living museum' and a popular green refuge for residents of the Greater Jakarta area. Geography K7 — Tropical Botany and Economic Plant History.",
+      "factsAdvanced": [
+        "Founded in 1817 by the Dutch Governor-General Caspar Georg Carl Reinwardt.",
+        "Covers 87 hectares and contains over 13,000 plant species.",
+        "The first oil palm seeds in Southeast Asia were planted here in 1848.",
+        "Adjoins the Bogor Presidential Palace (Istana Bogor).",
+        "Home to the world's largest orchid collection and the rare Corpse Flower.",
+        "Served as the birthplace of modern agricultural research in Indonesia.",
+        "Features the 'Mexican Garden' and the 'Orchid House' with over 500 species.",
+        "A major site for global research on tropical plant conservation and climate change."
+      ]
+    },
+    {
+      "id": "cibodas-botanical-gardens-life-v2",
+      "descriptionAdvanced": "Cibodas Botanical Gardens is a high-altitude sister site to the Bogor gardens, located on the cool slopes of Mount Gede-Pangrango. Founded in 1852, it was specifically created to grow plants from temperate regions and high-altitude tropical climates that could not survive in the heat of Bogor. The gardens are world-famous for their successful cultivation of Cinchona trees, which were the first source of quinine to treat malaria. With its spectacular mountain views, misty atmosphere, and extensive collection of mosses, ferns, and cherry blossoms, Cibodas offers a unique botanical experience. It is a vital center for mountain plant conservation and a favorite destination for hikers and nature lovers in West Java. Geography K7 — Highland Botany and Medicinal Plants.",
+      "factsAdvanced": [
+        "Established in 1852 at an elevation of 1,300 to 1,425 meters.",
+        "Specifically designed for 'acclimatization' of plants from cooler climates.",
+        "Famous for the first successful planting of Cinchona (Quinine) in Indonesia.",
+        "Features a spectacular Sakura (Cherry Blossom) garden that blooms twice a year.",
+        "Home to the largest collection of mosses (Bryophytes) in the country.",
+        "Includes the 'Cibeureum' waterfall trail which leads into the national park.",
+        "Experiences a much cooler temperature than Bogor, averaging 18-20°C.",
+        "A major global site for the conservation of rare mountain orchids."
+      ]
+    },
+    {
+      "id": "monkey-forest-ubud-life-v2",
+      "descriptionAdvanced": "The Sacred Monkey Forest Sanctuary in Ubud is a unique combination of a nature reserve and a Hindu temple complex, home to over 1,000 Balinese long-tailed macaques. The forest is considered sacred by the local Padangtegal community, who manage the site based on the Balinese philosophy of 'Tri Hita Karana'—maintaining harmony between humans, nature, and God. Inside the lush tropical forest, visitors find three ancient Hindu temples covered in moss and giant Banyan trees with dangling roots. The forest is not only a major tourist attraction but an important site for primate research and the conservation of rare tree species. It represents the deep spiritual connection the Balinese people have with their natural environment and its animal inhabitants. Geography K7 — Human-Wildlife Interaction and Sacred Landscapes.",
+      "factsAdvanced": [
+        "Home to a population of approximately 1,050 Balinese long-tailed macaques.",
+        "Covers 12.5 hectares of primary tropical forest with over 186 tree species.",
+        "Includes three 14th-century temples: Pura Dalem Agung, Beji, and Prajapati.",
+        "Managed by the local village based on 'Tri Hita Karana' spiritual principles.",
+        "A major global site for research on macaque social behavior and health.",
+        "Known for its massive 'Holy Banyan Tree,' which is hundreds of years old.",
+        "The monkeys are divided into 10 separate social groups within the forest.",
+        "Located at the southern end of Ubud's main tourist thoroughfare."
+      ]
+    },
+    {
+      "id": "tangkoko-nature-reserve-life-v2",
+      "descriptionAdvanced": "Tangkoko Nature Reserve, located on the northern tip of Sulawesi, is a world-class destination for wildlife enthusiasts and researchers. This relatively small but biologically dense reserve is one of the best places on Earth to see unique endemic species in the wild, most notably the Spectral Tarsier—one of the world's smallest primates—and the Black Macaque. The reserve's coastal forest and volcanic hills are also home to the rare Maleo bird, which nests in the warm volcanic sand, and various species of hornbills. Tangkoko is a critical sanctuary for Sulawesi's unique biodiversity, which evolved in isolation from both Asia and Australia. Its pristine black sand beaches and lush greenery make it a jewel of Indonesia's conservation network. Geography K7 — Island Endemism and Tropical Biodiversity.",
+      "factsAdvanced": [
+        "Home to the Sulawesi Black Macaque, a critically endangered primate.",
+        "One of the best places to see the tiny, nocturnal Spectral Tarsier.",
+        "The reserve covers approximately 8,700 hectares of diverse habitats.",
+        "Features the 'Maleo' bird, which uses geothermal heat to incubate its eggs.",
+        "Sulawesi is part of 'Wallacea,' a transition zone between Asian and Australian fauna.",
+        "The forest is dominated by massive Fig trees, which are vital for primates.",
+        "Located at the foot of the active Dua Saudara volcano.",
+        "A major destination for world-class birdwatching and primate research."
+      ]
+    },
+    {
+      "id": "sea-world-ancol-life-v2",
+      "descriptionAdvanced": "Sea World Ancol, located in Jakarta's Ancol Dreamland waterfront complex, is one of the largest marine aquariums in Southeast Asia. This world-class facility is designed to educate the public about Indonesia's incredible marine biodiversity, which sits at the heart of the Coral Triangle. The park features over 11,000 marine and freshwater animals across 28 specialized displays, including a spectacular 80-meter long underwater tunnel where visitors can walk among sharks and rays. Sea World plays a vital role in marine conservation through its rescue and rehabilitation programs for sea turtles and other threatened species. It serves as a critical educational hub for the millions of residents of the capital, highlighting the importance of protecting Indonesia's vast ocean resources. Geography K10 — Marine Ecosystems and Ocean Conservation.",
+      "factsAdvanced": [
+        "Houses over 11,000 individual animals from 126 different species.",
+        "The main tank holds approximately 5 million liters of seawater.",
+        "Features an 80-meter long underwater tunnel made of thick acrylic.",
+        "Home to 'Antasena,' the largest giant ray ever captured in Indonesia.",
+        "Includes a 'Touch Pool' where visitors can safely interact with marine life.",
+        "A major center for sea turtle conservation and public education in Jakarta.",
+        "Displays a unique 'Jellyfish Gallery' showcasing glowing tropical species.",
+        "Located within Ancol Dreamland, Jakarta's largest coastal recreation area."
+      ]
+    }
+  ]
+}

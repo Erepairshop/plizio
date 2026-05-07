@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "armenien-city-cities-v2",
+      "descriptionAdvanced": "Armenia El Salvador nyugati részén, Sonsonate megyében található, és történelmileg szorosan kötődik a kávétermesztéshez. A dombos, festői vidéken fekvő város fontos kereskedelmi központ a környékbeli mezőgazdasági területek számára. A település központja megőrizte gyarmati báját, a régi épületek és a nyugodt légkör pedig autentikus betekintést nyújt a vidéki salvadori életbe. A város nemcsak kávéjáról híres, hanem mint fontos közlekedési csomópont is szerepet játszik a regionális forgalomban. Földrajz K7 — mezőgazdasági régiók és kereskedelmi központok.",
+      "factsAdvanced": [
+        "A város központi szerepet játszik a környékbeli kávéültetvények logisztikájában.",
+        "A helyi építészet őrzi a spanyol gyarmati korszak stílusjegyeit.",
+        "Armenia fontos kereskedelmi és közlekedési csomópont Sonsonate megyében.",
+        "A dombos terep kiváló feltételeket biztosít a magaslati kávétermesztéshez.",
+        "A város környéke számos természeti látnivalót rejt az aktív turisták számára.",
+        "A helyi piac a régió egyik legfontosabb elosztóhelye a mezőgazdasági terményeknek."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shendi-cities-v2",
+      "descriptionAdvanced": "Shendi is a historic city in the River Nile State, situated on the eastern bank of the Nile. It was a major commercial center on the ancient caravan routes connecting the Nile Valley with the Red Sea and Ethiopia. Shendi is famous for its proximity to the Royal City of Meroe, the ancient capital of the Kingdom of Kush, located just 50 kilometers to the north. The city's market is historically renowned for its size and diversity, particularly for the trade of cloth, livestock, and local handicrafts. Today, Shendi is an important agricultural and educational hub, hosting the University of Shendi and serving as a key link between Khartoum and northern Sudan.",
+      "factsAdvanced": [
+        "Located 150 kilometers north of Khartoum.",
+        "Major trade hub for the Ja'alin people.",
+        "Historically famous for its large weekly market.",
+        "Gateway to the Pyramids of Meroe.",
+        "Home to the University of Shendi, established in 1994.",
+        "Center for traditional Sudanese weaving and crafts.",
+        "Strategic stop on the railway to Wadi Halfa.",
+        "Significant producer of citrus and vegetables along the Nile."
+      ]
+    },
+    {
+      "id": "wadi-halfa-cities-v2",
+      "descriptionAdvanced": "Wadi Halfa is a frontier city in the Northern State, located on the shores of Lake Nubia (the Sudanese part of Lake Nasser). The original city was submerged in the 1960s due to the construction of the Aswan High Dam, leading to the establishment of the current 'New' Wadi Halfa. It serves as a vital gateway between Sudan and Egypt, hosting the terminus of the steamer service across the lake and a major border crossing. The city is a hub for cross-border trade and migration, and it retains a strong Nubian identity. Despite its remote desert location, Wadi Halfa is a crucial logistics node for international transit and a symbolic link between the two Nile countries.",
+      "factsAdvanced": [
+        "Sudan's northernmost city and primary border post with Egypt.",
+        "Original town submerged by Lake Nubia in 1964.",
+        "Terminus for the weekly ferry from Aswan, Egypt.",
+        "Located about 900 kilometers north of Khartoum.",
+        "Key hub for the export of livestock to Egypt.",
+        "Stronghold of Nubian language and cultural heritage.",
+        "Hosts the Nile Valley University.",
+        "Surrounded by the arid Nubian Desert."
+      ]
+    },
+    {
+      "id": "karima-cities-v2",
+      "descriptionAdvanced": "Karima is a small but historically rich town in the Northern State, situated at the foot of the sacred mountain, Jebel Barkal. It was a central location for the Kingdom of Kush, and the area is home to some of Sudan's most impressive archaeological sites, including the Temple of Amun and the pyramids of Barkal and El-Kurru. Modern Karima is a quiet agricultural center, famous for its high-quality date palms and its riverside setting. The town serves as a base for archaeologists and tourists exploring the wonders of ancient Nubia. Its atmosphere is peaceful, reflecting the timeless rhythm of life along the Nile's 'Great Bend.'",
+      "factsAdvanced": [
+        "Located on the right bank of the Nile's Great Bend.",
+        "Situated at the base of the sacred Jebel Barkal mountain.",
+        "Home to the ruins of Napata, an ancient Kushite capital.",
+        "Major center for the production of 'Gondeila' dates.",
+        "Located 400 kilometers north of Khartoum.",
+        "Gateway to the UNESCO World Heritage sites of Jebel Barkal.",
+        "Connected to Khartoum by a modern desert highway.",
+        "Hosts a major regional hospital and administrative offices."
+      ]
+    },
+    {
+      "id": "merowe-cities-v2",
+      "descriptionAdvanced": "Merowe is a town in the Northern State, located on the western bank of the Nile opposite Karima. It has gained international significance in recent years due to the construction of the Merowe Dam, the largest hydroelectric project in Sudan, situated nearby at the Nile's fourth cataract. The town serves as an administrative and logistics hub for the region's development. Historically, the area was part of the ancient Kingdom of Kush, and it hosts many significant archaeological remains. Merowe is a center for agriculture, particularly for citrus and dates, and it features modern infrastructure, including an international airport, built to support the dam project and regional growth.",
+      "factsAdvanced": [
+        "Home to the Merowe Dam, Sudan's largest hydroelectric project.",
+        "Located 380 kilometers north of Khartoum.",
+        "Hosts an international airport and modern medical facilities.",
+        "Strategically located near the Nile's Fourth Cataract.",
+        "Key center for the production of dates and citrus fruits.",
+        "Major administrative hub for the Merowe district.",
+        "Proximity to ancient Napatan and Meroitic ruins.",
+        "Climate is arid with very high summer temperatures."
+      ]
+    },
+    {
+      "id": "al-managil-cities-v2",
+      "descriptionAdvanced": "Al-Managil is one of the largest and most important agricultural cities in Al Jazirah State. It serves as the primary hub for the Managil Extension, a massive addition to the original Gezira Scheme that significantly increased Sudan's irrigated land area. The city's economy is entirely centered on agriculture, specifically the production of cotton, sorghum, wheat, and peanuts. Al-Managil is a bustling commercial center with a large market that serves the surrounding farming communities. Its growth has been rapid since the mid-20th century, reflecting the economic success of the irrigation project. The city is a vital link in Sudan's food security and export economy.",
+      "factsAdvanced": [
+        "Hub of the Managil Extension irrigation project.",
+        "Located 70 kilometers southwest of Wad Madani.",
+        "One of the most populous cities in Al Jazirah State.",
+        "Major center for mechanized cotton and wheat farming.",
+        "Hosts a large regional market for agricultural supplies.",
+        "Developed primarily after the 1950s irrigation expansion.",
+        "Key logistical center for the Gezira Scheme administration.",
+        "Connected by road to Khartoum and Wad Madani."
+      ]
+    },
+    {
+      "id": "al-hasaheisa-cities-v2",
+      "descriptionAdvanced": "Al-Hasaheisa is a significant industrial and commercial city in Al Jazirah State, located on the western bank of the Blue Nile between Khartoum and Wad Madani. It is a major center for the textile industry, hosting one of Sudan's largest spinning and weaving factories. The city's economic life is deeply intertwined with the Gezira Scheme, as it serves as a collection and processing point for agricultural products like cotton and oilseeds. Al-Hasaheisa is a bustling transportation hub with a vibrant market. Its riverside location and industrial base make it a key urban center in central Sudan, reflecting the country's efforts toward industrialization and agricultural processing.",
+      "factsAdvanced": [
+        "Located 120 kilometers southeast of Khartoum.",
+        "Home to a major textile factory complex.",
+        "Key hub for cotton ginning and processing.",
+        "Strategically located on the Blue Nile and main highway.",
+        "Opposite the town of Rufaa, connected by a bridge.",
+        "Hosts branches of several Sudanese universities.",
+        "Major commercial center for the Gezira farming area.",
+        "Renowned for its historical role in the labor movement."
+      ]
+    },
+    {
+      "id": "ad-duwaim-cities-v2",
+      "descriptionAdvanced": "Ad-Duwaim is a historic and culturally significant city in the White Nile State, located on the western bank of the White Nile. It is famously known as the site of Bakht Er Ruda, Sudan's premier educational research and teacher training institute, founded in 1934. The city has played a pivotal role in shaping the country's modern education system. Ad-Duwaim is also an important agricultural and commercial center, focusing on the trade of livestock, gum arabic, and crops from the surrounding white Nile plains. Its riverside setting and academic heritage give the city a unique intellectual and traditional character, making it a well-respected urban center in central Sudan.",
+      "factsAdvanced": [
+        "Home to the famous Bakht Er Ruda Educational Institute.",
+        "Located 190 kilometers south of Khartoum.",
+        "Historically a major center for education and teacher training.",
+        "Major market for gum arabic and livestock.",
+        "Situated on the western bank of the White Nile.",
+        "Connected to the eastern bank via a major bridge.",
+        "One of the oldest modern towns in the White Nile region.",
+        "Hosts the University of Bakht Al-Ruda."
+      ]
+    },
+    {
+      "id": "umm-ruwaba-cities-v2",
+      "descriptionAdvanced": "Umm Ruwaba is an important commercial city in North Kordofan State, situated on the railway line connecting Khartoum with El-Obeid. It serves as a major trade hub for the oilseed and livestock industries, particularly famous for its high-quality peanuts (groundnuts) and sesame. The city's market is one of the busiest in the Kordofan region, attracting traders from across central Sudan. Umm Ruwaba's location in the savanna zone makes it a productive area for rain-fed agriculture. The city is a vital logistics node and an administrative center for the surrounding rural districts, reflecting the economic vitality of the Kordofan plains.",
+      "factsAdvanced": [
+        "Major hub for the trade of peanuts and sesame seeds.",
+        "Located 150 kilometers east of El-Obeid.",
+        "Strategic stop on the railway to western Sudan.",
+        "Key center for the production of high-quality oilseeds.",
+        "Important regional market for cattle and sheep.",
+        "Located on the main highway connecting Kordofan to the Nile.",
+        "Surrounded by fertile rain-fed agricultural land.",
+        "Hosts several agricultural processing plants."
+      ]
+    },
+    {
+      "id": "bara-cities-v2",
+      "descriptionAdvanced": "Bara is a historic town in North Kordofan State, renowned for its unique 'Bara Oasis,' a lush green area in the middle of the semi-arid savanna. The town is famous for its intensive vegetable gardening, made possible by a high water table that allows for easy irrigation. For centuries, Bara was a crucial stop on the caravan routes connecting the Nile with Darfur. It is known for its traditional houses, its diverse population, and its role as an intellectual and religious center. Bara's distinctive landscape, filled with palm trees and orchards, provides a stark and beautiful contrast to the surrounding sandy plains of the Kordofan region.",
+      "factsAdvanced": [
+        "Famous for the Bara Oasis and its lush gardens.",
+        "Located 60 kilometers north of El-Obeid.",
+        "Key producer of vegetables for the Kordofan region.",
+        "Historically an important caravan stop for Darfur trade.",
+        "Renowned for its high water table and fertile soil.",
+        "Center for traditional Kordofani crafts and culture.",
+        "Known for its distinctive palm groves.",
+        "Home to many prominent Sudanese scholars and leaders."
+      ]
+    },
+    {
+      "id": "an-nahud-cities-v2",
+      "descriptionAdvanced": "An-Nahud is one of the largest and most prosperous cities in West Kordofan State. It is world-famous as a premier center for the gum arabic trade, often rivaling El-Obeid in importance. The city is a major hub for the livestock industry, especially for the high-quality cattle and sheep of the Hamar people. An-Nahud's economy is bolstered by its location on the main highway connecting central Sudan with Darfur and Chad. The city is known for its vibrant markets, its strong traditional leadership (the Hamar Nazirate), and its role as a regional educational center, hosting the University of West Kordofan. Its growth reflects the economic importance of the western Kordofan plains.",
+      "factsAdvanced": [
+        "One of the world's most important gum arabic markets.",
+        "Located 200 kilometers west of El-Obeid.",
+        "Capital of the Hamar traditional territory.",
+        "Major hub for cattle and sheep exports.",
+        "Hosts the main campus of West Kordofan University.",
+        "Strategic stop on the highway to Darfur.",
+        "Renowned for its high-quality watermelons and peanuts.",
+        "Economic powerhouse of West Kordofan."
+      ]
+    },
+    {
+      "id": "babanusa-cities-v2",
+      "descriptionAdvanced": "Babanusa is a key railway city in West Kordofan State, serving as the junction where the main line from Khartoum splits toward Nyala in Darfur and Wau in South Sudan. Its significance as a transportation hub has shaped the city's growth and economic character. Babanusa is located in the 'Bahr el Arab' region, a vast savanna that supports large-scale livestock rearing by the Misseriya people. The city hosts a major milk processing plant and is a vital market for cattle and dairy products. Its strategic position at a railway crossroads makes it a crucial logistics node for movement between central, western, and southern regions.",
+      "factsAdvanced": [
+        "Major junction for the Sudanese railway network.",
+        "Located 120 kilometers west of Al-Fulah.",
+        "Key hub for the Misseriya Arab tribe.",
+        "Hosts one of Sudan's largest milk processing factories.",
+        "Strategic logistics center for trade with South Sudan.",
+        "Major regional market for cattle and hides.",
+        "Railway connection point for Darfur and the South.",
+        "Surrounded by rich seasonal grazing lands."
+      ]
+    },
+    {
+      "id": "al-muglad-cities-v2",
+      "descriptionAdvanced": "Al-Muglad is a significant town in West Kordofan State, traditionally serving as the spiritual and administrative center of the Misseriya Humr people. Its importance has expanded in recent decades due to its location at the heart of the Muglad Basin, Sudan's most productive oil-bearing region. The town serves as a regional hub for the petroleum industry, hosting various logistics and support services. Al-Muglad is also a major center for the livestock trade and traditional agriculture. The city's atmosphere is a unique blend of modern industrial activity and deep-rooted nomadic culture, reflecting the complex economic and social dynamics of the oil-rich borderlands.",
+      "factsAdvanced": [
+        "Spiritual and traditional capital of the Misseriya Humr.",
+        "Located at the center of Sudan's main oil-producing basin.",
+        "Key hub for petroleum logistics and administration.",
+        "Located 200 kilometers south of An-Nahud.",
+        "Major livestock market, particularly for cattle.",
+        "Surrounded by the oil-rich 'Heglig' and 'Unity' fields.",
+        "Traditional seat of the Misseriya Nazirate.",
+        "Economy driven by a mix of oil and pastoralism."
+      ]
+    },
+    {
+      "id": "dalanj-cities-v2",
+      "descriptionAdvanced": "Dalanj is a picturesque city in South Kordofan State, located in the northern foothills of the Nuba Mountains. It is famously known as an educational and cultural hub, hosting the University of Dalanj, which is a key institution for the region. The city's geography is characterized by rocky hills and fertile valleys, supporting a diverse range of agriculture, including sorghum, peanuts, and various fruits. Dalanj is a melting pot of Nuba and Arab cultures, reflected in its vibrant markets and community life. Its relatively moderate climate and beautiful natural setting make it one of the most pleasant urban centers in the Kordofan region, serving as a gateway to the mountains.",
+      "factsAdvanced": [
+        "Located 150 kilometers north of Kaduqli.",
+        "Home to the University of Dalanj, founded in 1994.",
+        "Situated at an altitude of approximately 650 meters.",
+        "Major center for Nuba and Baggara cultural exchange.",
+        "Key agricultural hub for the northern Nuba Mountains.",
+        "Known for its high-quality sorghum and peanuts.",
+        "Strategic stop on the highway between El-Obeid and Kaduqli.",
+        "Features a scenic landscape of granite hills."
+      ]
+    },
+    {
+      "id": "abu-zabad-cities-v2",
+      "descriptionAdvanced": "Abu Zabad is a commercial and agricultural town in West Kordofan State, located on the border with North Kordofan. It serves as a major hub for the trade of gum arabic, livestock, and agricultural products from the fertile savanna plains. The town is situated on the railway line connecting Kosti with Nyala, making it an important transportation node. Abu Zabad is known for its ethnic diversity, hosting various Nuba and Arab communities. The town's economy is driven by its bustling market and its role as a regional collection point for the oilseed industry. Its strategic location makes it a vital commercial link between the different parts of the Kordofan region.",
+      "factsAdvanced": [
+        "Located 150 kilometers southwest of El-Obeid.",
+        "Major center for the collection of gum arabic.",
+        "Strategic stop on the railway to western Sudan.",
+        "Significant hub for the trade of peanuts and sesame.",
+        "Hosts a diverse population of Nuba and Arab tribes.",
+        "Important regional market for cattle and sheep.",
+        "Located near the traditional border of Kordofan and Darfur.",
+        "Surrounded by productive rain-fed agricultural lands."
+      ]
+    },
+    {
+      "id": "ar-rusairis-cities-v2",
+      "descriptionAdvanced": "Ar-Rusairis is a significant town in the Blue Nile State, located on the eastern bank of the Blue Nile. It is primarily famous for the Roseires Dam, one of Sudan's most vital hydroelectric and irrigation structures, situated just upstream. The town's economy and growth have been deeply linked to the dam's operation and the resulting agricultural expansion in the region. Ar-Rusairis serves as a twin city to the state capital, Ad-Damazin, and together they form the economic heart of the Blue Nile region. The town is surrounded by lush tropical vegetation and fertile lands, producing a variety of crops and supporting a rich diversity of ethnic groups and cultures.",
+      "factsAdvanced": [
+        "Home to the Roseires Dam, a major power source for Sudan.",
+        "Located 10 kilometers from the state capital, Ad-Damazin.",
+        "Major center for the Blue Nile hydroelectric project.",
+        "Growth spurred by dam construction in the 1960s.",
+        "Situated 450 kilometers south of Khartoum.",
+        "Key hub for the irrigation of the Kenana and Rahad schemes.",
+        "Features a scenic riverside landscape.",
+        "Major producer of sorghum and oilseeds in the southeast."
+      ]
+    },
+    {
+      "id": "kurmuk-cities-v2",
+      "descriptionAdvanced": "Kurmuk is a historic frontier town in the Blue Nile State, located directly on the border with Ethiopia. Its strategic position has made it a significant center for cross-border trade and a focal point during various regional conflicts. The town is nestled in a scenic area of hills and valleys, providing a unique landscape compared to the flat plains of central Sudan. Kurmuk is home to a diverse population, including the Berta and other ethnic groups with deep cultural ties across the border. Despite its remote location, the town remains a vital administrative and commercial outpost, reflecting the complexities and cultural richness of Sudan's southeastern borderlands.",
+      "factsAdvanced": [
+        "A major border town between Sudan and Ethiopia.",
+        "Located 150 kilometers south of Ad-Damazin.",
+        "Historically a strategic trade hub for the Berta people.",
+        "Known for its rugged and hilly topography.",
+        "Key center for cross-border migration and trade.",
+        "Hosts significant administrative and military presence.",
+        "Surrounded by rich natural resources and fertile land.",
+        "Gateway to the Ethiopian highlands."
+      ]
+    },
+    {
+      "id": "bau-cities-v2",
+      "descriptionAdvanced": "Bau is a small but strategically important town in the Blue Nile State, located in the Ingessana Hills. It is the traditional center of the Ingessana people, a group known for their unique cultural heritage and their historical role in the region. Bau is situated in an area rich in minerals, particularly chrome ore, which is mined in the surrounding hills. The town serves as an administrative center and a hub for the local communities. Its geography is defined by the rocky Ingessana massif, providing a distinct ecological and cultural environment. Bau's significance lies in its mineral wealth and its role as a cultural heartland for the people of the Blue Nile hills.",
+      "factsAdvanced": [
+        "Traditional center of the Ingessana people.",
+        "Located in the mineral-rich Ingessana Hills.",
+        "Major site for the mining of chrome ore in Sudan.",
+        "Located 60 kilometers southwest of Ad-Damazin.",
+        "Known for the unique 'Ingessana' cultural traditions.",
+        "Situated in a rugged, hilly landscape.",
+        "Key administrative hub for the Bau district.",
+        "Serves as a focal point for the Blue Nile hill communities."
+      ]
+    },
+    {
+      "id": "ad-dindar-cities-v2",
+      "descriptionAdvanced": "Ad-Dindar is a significant agricultural and gateway city in Sennar State, located on the banks of the seasonal Dinder River. It is world-renowned as the primary gateway to Dinder National Park, one of the largest and oldest wildlife reserves in Africa. The city serves as a major hub for tourists and researchers visiting the park. Economically, Ad-Dindar is a center for mechanized farming, focusing on the production of sorghum and sesame in the fertile clay plains. The city's atmosphere is a mix of agricultural bustle and the quiet anticipation of the nearby wilderness, making it a unique and vital urban center in southeastern Sudan.",
+      "factsAdvanced": [
+        "Primary gateway to Dinder National Park.",
+        "Located 400 kilometers southeast of Khartoum.",
+        "Situated on the banks of the Dinder River.",
+        "Major center for mechanized rain-fed agriculture.",
+        "Key hub for eco-tourism in Sudan.",
+        "Hosts the park's administrative headquarters.",
+        "Significant producer of sorghum and sesame.",
+        "Strategic town on the highway to the Ethiopian border."
+      ]
+    },
+    {
+      "id": "maiurno-cities-v2",
+      "descriptionAdvanced": "Maiurno is a historically and culturally unique city in Sennar State, located on the Blue Nile south of Sennar. It was founded in the early 20th century by Sultan Maiurno, the son of the last Caliph of the Sokoto Caliphate, following his migration from present-day Nigeria. Today, the city is a major center for the 'Fallata' (West African) communities in Sudan, preserving a rich blend of West African and Sudanese traditions. Maiurno is a productive agricultural area and a significant center for Islamic scholarship and Sufism. Its unique history as a place of refuge and its vibrant cultural life make it one of the most interesting cities in the Blue Nile valley.",
+      "factsAdvanced": [
+        "Founded by Sultan Maiurno of the Sokoto Caliphate in 1903.",
+        "Major center for West African (Fallata) culture in Sudan.",
+        "Located 15 kilometers south of Sennar on the Blue Nile.",
+        "Renowned center for Islamic learning and Sufism.",
+        "Key agricultural hub for the Sennar region.",
+        "Home to the descendants of the Sokoto royal family.",
+        "Hosts a vibrant and culturally distinct market.",
+        "Symbol of the historic migration from West to East Africa."
+      ]
+    },
+    {
+      "id": "tambul-cities-v2",
+      "descriptionAdvanced": "Tambul is a bustling commercial and agricultural town in Al Jazirah State, located in the eastern part of the Gezira Scheme. It is famously known for hosting one of Sudan's largest and most vibrant camel and livestock markets, held weekly. The market attracts traders from all over the country and even from neighboring nations. Tambul is also a major center for agricultural research and production, focusing on the crops of the Butana plains and the irrigated fields of the Gezira. Its strategic location on the highway connecting Khartoum with eastern Sudan makes it a vital logistics and trading node, reflecting the economic vitality of the central Sudanese savanna.",
+      "factsAdvanced": [
+        "Hosts one of Sudan's largest weekly camel markets.",
+        "Located 100 kilometers southeast of Khartoum.",
+        "Key trade hub for the Butana nomadic communities.",
+        "Major center for agricultural research in Al Jazirah.",
+        "Strategic stop on the Khartoum-Kassala highway.",
+        "Important market for cattle, sheep, and horses.",
+        "Surrounded by fertile irrigated and rain-fed lands.",
+        "Renowned for its traditional equestrian culture."
+      ]
+    },
+    {
+      "id": "rufaa-cities-v2",
+      "descriptionAdvanced": "Rufaa is a historic and prestigious city in Al Jazirah State, located on the eastern bank of the Blue Nile. It is famously known as the home of Sheikh Babiker Bedri, the pioneer of women's education in Sudan, who founded the country's first girls' school here in 1907. The city remains a significant intellectual and educational center, hosting various branches of the University of Al Jazirah. Rufaa is also a major agricultural and commercial hub, focusing on the trade of livestock and crops from the eastern Blue Nile region. Its traditional architecture and academic heritage give the city a refined and respected character within the Sudanese urban landscape.",
+      "factsAdvanced": [
+        "Birthplace of modern women's education in Sudan.",
+        "Located 120 kilometers southeast of Khartoum.",
+        "Home to the first girls' school founded by Babiker Bedri.",
+        "Situated on the eastern bank of the Blue Nile.",
+        "Connected to Al-Hasaheisa by a major bridge.",
+        "Important center for the Shukriya and Ruffaa tribes.",
+        "Major market for livestock and agricultural goods.",
+        "Renowned for its historical and cultural influence."
+      ]
+    },
+    {
+      "id": "al-kamlin-cities-v2",
+      "descriptionAdvanced": "Al-Kamlin is a significant town in Al Jazirah State, located on the western bank of the Blue Nile between Khartoum and Wad Madani. It is one of the oldest modern towns in the region, traditionally serving as an important administrative and commercial center. Al-Kamlin's economy is deeply tied to the Gezira Scheme, and it hosts various agricultural services and small-scale industries. The city is known for its beautiful riverside setting and its role as a key stop on the main highway and railway lines connecting the capital with the central regions. Its history is closely linked to the development of modern administration and irrigation in 20th-century Sudan.",
+      "factsAdvanced": [
+        "Located 90 kilometers southeast of Khartoum.",
+        "One of the earliest administrative centers in Al Jazirah.",
+        "Key hub for the Gezira Scheme's northern blocks.",
+        "Situated on the western bank of the Blue Nile.",
+        "Major center for the production of vegetables and fruits.",
+        "Strategic stop on the main Khartoum-Wad Madani road.",
+        "Features a well-preserved colonial-era administrative district.",
+        "Hosts several prominent educational and health facilities."
+      ]
+    },
+    {
+      "id": "al-faw-cities-v2",
+      "descriptionAdvanced": "Al-Faw is a modern agricultural city in Al Qadarif State, established as the headquarters for the Rahad Agricultural Scheme, one of Sudan's major irrigation projects. The city was designed and built in the late 1970s to manage the scheme, which uses water from the Roseires Dam to irrigate vast areas for cotton, sorghum, and groundnut production. Al-Faw is a bustling commercial and logistics hub, serving as the nerve center for the farming communities of the Rahad region. Its layout is planned and functional, reflecting its origin as a development pivot. The city is a vital contributor to Sudan's agricultural exports and regional food security.",
+      "factsAdvanced": [
+        "Headquarters of the Rahad Agricultural Scheme.",
+        "Located 260 kilometers southeast of Khartoum.",
+        "Established in 1977 as a planned development city.",
+        "Key center for mechanized cotton and peanut farming.",
+        "Irrigated by water from the Blue Nile via a long canal.",
+        "Strategic stop on the highway to Port Sudan.",
+        "Major logistics hub for agricultural machinery and inputs.",
+        "Hosts the scheme's administrative and research offices."
+      ]
+    },
+    {
+      "id": "doka-cities-v2",
+      "descriptionAdvanced": "Doka is a strategic town in Al Qadarif State, located near the border with Ethiopia. It serves as an important hub for cross-border trade and migration, and as a regional center for the surrounding agricultural plains. The town is situated in an area famous for large-scale mechanized farming of sorghum and sesame. Doka's population is diverse, reflecting its position as a borderlands pivot where Sudanese and Ethiopian cultures meet. The town plays a vital role in regional security and administration, and it remains a key commercial link on the highway connecting Al-Qadarif with the Ethiopian highlands, making it a significant outpost in southeastern Sudan.",
+      "factsAdvanced": [
+        "Located 60 kilometers south of Al-Qadarif city.",
+        "Strategic border town near the Ethiopian frontier.",
+        "Major center for mechanized rain-fed agriculture.",
+        "Key hub for cross-border trade and transit.",
+        "Significant producer of sesame and sorghum exports.",
+        "Situated on the main highway to Ethiopia (Gallabat border).",
+        "Hosts a diverse population of Sudanese and Ethiopian descent.",
+        "Important regional administrative and security outpost."
+      ]
+    },
+    {
+      "id": "aroma-cities-v2",
+      "descriptionAdvanced": "Aroma is a significant agricultural and administrative town in Kassala State, located in the heart of the Gash Delta. It is the headquarters of the Gash Delta Agricultural Scheme, a unique project that utilizes the seasonal flooding of the Gash River to irrigate land for cotton and castor bean production. Aroma is a major center for the Beja people, particularly the Hadendowa tribe, and it serves as a vital market for livestock and agricultural products in eastern Sudan. The town's life is deeply tied to the seasonal cycles of the river and the delta's farming, making it an essential food and export source for the region.",
+      "factsAdvanced": [
+        "Headquarters of the Gash Delta Agricultural Scheme.",
+        "Located 50 kilometers north of Kassala city.",
+        "Major center for the Beja (Hadendowa) people.",
+        "Utilizes seasonal flood irrigation from the Gash River.",
+        "Key producer of castor beans and high-quality cotton.",
+        "Strategic stop on the railway to Port Sudan.",
+        "Surrounded by a unique and fertile inland delta.",
+        "Hosts various regional administrative and health services."
+      ]
+    }
+  ]
+}

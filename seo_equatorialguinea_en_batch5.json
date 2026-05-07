@@ -1,0 +1,57 @@
+{
+  "lang": "en",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bitica-cities-v2",
+      "descriptionAdvanced": "Bitica is a settlement located in the southern part of the mainland, closely linked to the lifestyle defined by the Rio Muni River. For the local inhabitants, the proximity of the forest and water is equally important, as fishing and foraging complement small-scale farming. Bitica acts as an important junction in the area, where goods from different settlements are exchanged. The town is experiencing continuous development while the local community preserves its traditions and close connection to nature. Geography K6, Economics K7.",
+      "factsAdvanced": [
+        "Settlement in the southern part of the mainland.",
+        "Center for water and forest-based lifestyles.",
+        "Complementary economic activities: fishing and foraging.",
+        "Regional commercial junction.",
+        "Close connections to nature.",
+        "Traditional local community."
+      ]
+    },
+    {
+      "id": "corisco-cities-v2",
+      "descriptionAdvanced": "Corisco is located on the island of the same name, which is historically and touristically a defining point in the life of Equatorial Guinea. With its stunning sandy beaches and clear waters, the island is a unique destination for ecotourism and relaxation in the country. The historical significance of Corisco dates back to colonial times, and it has preserved the unique culture and tranquility characteristic of the island world to this day. The modernization of the island, while maintaining its natural treasures, holds significant appeal for visitors. Geography K6, Tourism K8.",
+      "factsAdvanced": [
+        "Located on the island of Corisco.",
+        "Stunning beaches and waters.",
+        "Hub for ecotourism.",
+        "Island of historical significance.",
+        "Unique island culture.",
+        "Potential for sustainable tourism development."
+      ]
+    },
+    {
+      "id": "moca-cities-v2",
+      "descriptionAdvanced": "Moca, located in the high altitude of Bioko Island, is a village renowned for its cool climate and green landscapes. The locality is an important starting point for hikes toward nearby volcanic lakes, such as Lake Biao. This area of the island preserves traditional charm, being inhabited predominantly by the Bubi ethnic group, which has maintained sustainable agricultural practices over generations. Fresh mountain air and rich biodiversity make Moca an essential destination for researching montane ecosystems in Central Africa. Geography K7, Biology K8.",
+      "factsAdvanced": [
+        "Located at an altitude of approximately 1,400 m.",
+        "Renowned for its cool mountain climate.",
+        "Main access point to Lake Biao.",
+        "Majority population of Bubi ethnicity.",
+        "Region is rich in protected mountain forests.",
+        "Historical ties to the development of subsistence agriculture on Bioko."
+      ]
+    },
+    {
+      "id": "basakato-cities-v2",
+      "descriptionAdvanced": "Basakato, located on the coast of Bioko Island, is a rural center reflecting the traditional life in this isolated region. The village is surrounded by cocoa plantations and tropical forests, offering an authentic context for understanding the export agriculture that defined the island's economic history. Life in Basakato unfolds at a slow pace, connected to the natural cycles of the harvest and the nearby sea. The local community keeps alive cultural traditions that make Bioko a territory with a distinct identity in Equatorial Guinea. Geography K7, Economics K8.",
+      "factsAdvanced": [
+        "Locality situated near the northwestern coast.",
+        "Local economy based on cocoa cultivation.",
+        "Region benefits from a humid climate ideal for tropical crops.",
+        "Limited accessibility, preserving its traditional character.",
+        "Population predominantly involved in agriculture.",
+        "Part of the rural network around Malabo."
+      ]
+    }
+  ]
+}

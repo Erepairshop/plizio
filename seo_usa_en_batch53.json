@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rocky-mountains-relief-v2",
+      "descriptionAdvanced": "The Rocky Mountains, stretching over 3,000 miles from Canada through the United States to New Mexico, represent the backbone of the North American continent. Formed primarily by the Laramide Orogeny—a massive period of tectonic uplift roughly 70 to 40 million years ago—these peaks provide the primary drainage divide for the continent, with rivers flowing toward the Pacific, Atlantic, and Arctic oceans. The Rockies’ high-altitude ruggedness serves as a critical climate regulator, capturing moisture that feeds the vast river systems of the American West. Today, they remain a world-class center for climate research, observing the impacts of rapid atmospheric warming on mountain snowpack, glacial health, and the future viability of North America’s central water supply. Geografie K8 — Tectonic uplift and continental hydrology.",
+      "factsAdvanced": [
+        "Spans over 3,000 miles from Canada to New Mexico.",
+        "Formed by the massive tectonic uplift known as the Laramide Orogeny.",
+        "Acts as the primary drainage divide for the North American continent.",
+        "Crucial climate regulator that captures moisture for western river systems.",
+        "Premier laboratory for monitoring mountain snowpack and regional water security.",
+        "Dominant geological and hydrological backbone of the American West."
+      ]
+    },
+    {
+      "id": "appalachian-mountains-relief-v2",
+      "descriptionAdvanced": "The Appalachian Mountains, stretching roughly 1,500 miles along the eastern side of North America, are among the oldest mountain systems on Earth, having formed nearly 480 million years ago during the assembly of the supercontinent Pangea. Unlike the younger, jagged peaks of the Rockies, the Appalachians have been weathered down by eons of wind, rain, and ice into a series of rounded, lushly forested ridges and deep, secluded coves. This ancient geological foundation provides a unique, highly stable temperate environment, fostering one of the most biodiversity-rich deciduous forest ecosystems in the temperate world. Today, the Appalachians remain a critical study site for temperate forest restoration, long-term geological weathering processes, and the adaptation of high-biodiversity ecosystems to current shifts in regional climate. Geografie K7 — Ancient geological weathering and temperate biodiversity.",
+      "factsAdvanced": [
+        "One of the oldest mountain systems on Earth, formed 480 million years ago.",
+        "Ancient peaks weathered down over eons by wind, rain, and ice.",
+        "Features a distinctive landscape of rounded, lushly forested ridges and coves.",
+        "Supports one of the most biodiversity-rich deciduous forest biomes in the world.",
+        "Critical study site for temperate forest restoration and geological weathering.",
+        "Represents a stable, ancient geological anchor for the eastern United States."
+      ]
+    },
+    {
+      "id": "sierra-nevada-usa-relief-v2",
+      "descriptionAdvanced": "The Sierra Nevada range, situated in California, is an iconic, tilted block of granite that rises steeply from the Central Valley to reach high-altitude peaks, including the highest point in the contiguous United States, Mount Whitney. Formed by tectonic uplift and sculpted by massive Pleistocene glacial carving, the range acts as an essential 'water tower' for California, catching Pacific moisture and storing it in a vast, vital seasonal snowpack. The range’s unique combination of extreme elevational gradients and Mediterranean-influenced climate fosters extraordinary ecological diversity, including the world’s most massive trees. Today, the Sierra is at the forefront of climate-change research, as researchers monitor the dramatic loss of seasonal snowpack, the increasing severity of mountain wildfires, and the fundamental restructuring of high-altitude alpine habitats. Geografie K8 — Tectonic block uplift and snowpack hydrology.",
+      "factsAdvanced": [
+        "Tilted block of granite rising steeply into high-altitude peaks.",
+        "Home to Mount Whitney, the highest point in the contiguous United States.",
+        "Formed by massive tectonic uplift and dramatic Pleistocene glacial carving.",
+        "Acts as California's essential 'water tower' for seasonal moisture storage.",
+        "Unique combination of extreme elevation and climate supports massive biodiversity.",
+        "Key site for research on wildfire severity and the rapid loss of seasonal snowpack."
+      ]
+    }
+  ]
+}

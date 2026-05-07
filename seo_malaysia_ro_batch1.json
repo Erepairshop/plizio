@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kuala-lumpur-cities-v2",
+      "descriptionAdvanced": "Kuala Lumpur, adesea numit simplu KL, este capitala vibrantă a Malaeziei, care a evoluat de la o mică așezare minieră de staniu din anii 1850 într-una dintre cele mai dezvoltate metropole din lume. Orașul este renumit pe plan internațional pentru Turnurile Gemene Petronas, care cu o înălțime de 452 de metri au deținut titlul de cele mai înalte clădiri din lume între anii 1998 și 2004. Numele așezării provine de la confluența râurilor Klang și Gombak, însemnând "estuar noroios" în limba malaeză. În cartierele sale istorice, cum ar fi Chinatown sau Little India, vizitatorii pot experimenta diversitatea culturală bogată a națiunii. Piața Merdeka reprezintă simbolul independenței naționale, locul unde la 31 august 1957 a fost arborat pentru prima dată steagul malaezian. Geografie K7 — Dezvoltarea urbană și metropolele globale.",
+      "factsAdvanced": [
+        "A fost fondat în anul 1857 ca o mică așezare minieră de staniu.",
+        "Turnurile Gemene Petronas ating o înălțime impresionantă de 451,9 metri.",
+        "Turnul Kuala Lumpur oferă o punte de observare la 276 de metri înălțime.",
+        "Clădirea Merdeka 118 este una dintre cele mai înalte din lume, cu 678 de metri.",
+        "Zona metropolitană Kuala Lumpur găzduiește peste 7 milioane de locuitori.",
+        "Suprafața administrativă a orașului acoperă aproximativ 243 de kilometri pătrați."
+      ]
+    },
+    {
+      "id": "george-town-penang-cities-v2",
+      "descriptionAdvanced": "George Town, situat pe insula Penang, este un oraș portuar istoric remarcabil prin trecutul său colonial și influențele multiculturale. Înființat în 1786 de căpitanul Francis Light pentru Compania Britanică a Indiilor de Est, orașul a fost numit în onoarea regelui britanic George al III-lea. Datorită moștenirii sale arhitecturale unice, centrul vechi a fost desemnat Patrimoniu Mondial UNESCO în anul 2008, protejând clădirile în care stilul colonial britanic se îmbină armonios cu elementele asiatice. Străzile sale înguste sunt renumite la nivel mondial pentru arta stradală interactivă, creată în mare parte de artistul Ernest Zacharevic în 2012. Din punct de vedere culinar, orașul este considerat un paradis al gastronomiei asiatice. Istorie K8 — Colonialismul și rutele comerciale în Asia.",
+      "factsAdvanced": [
+        "A fost fondat în anul 1786 de către căpitanul Francis Light.",
+        "Numele orașului aduce un omagiu regelui britanic George al III-lea.",
+        "Centrul istoric a fost inclus în Patrimoniul Mondial UNESCO în 2008.",
+        "Templul Kek Lok Si este unul dintre cele mai mari complexe budiste din Asia de Sud-Est.",
+        "Podul Penang conectează insula de partea continentală pe o lungime de 13,5 kilometri.",
+        "Cel mai înalt punct, Dealul Penang, se află la 833 de metri deasupra nivelului mării."
+      ]
+    },
+    {
+      "id": "johor-bahru-cities-v2",
+      "descriptionAdvanced": "Johor Bahru este metropola cea mai sudică a Peninsulei Malaeze, acționând ca o poartă directă de acces către statul vecin, Singapore. Cele două centre economice sunt strâns legate prin digul Johor-Singapore, care susține un trafic zilnic intens de sute de mii de navetiști. Orașul a fost fondat în 1855 de Temenggong Daeng Ibrahim și cunoaște o dezvoltare rapidă datorită proiectelor la scară largă, cum ar fi zona economică Iskandar Malaysia. Din punct de vedere istoric, regiunea a fost un sultanat puternic, a cărui moștenire este vizibilă la Moscheea de Stat Sultan Abu Bakar, ce îmbină arhitectura maură cu cea victoriană. Numele său actual a fost adoptat în 1866, înlocuindu-l pe cel vechi de Tanjung Puteri. Economie K8 — Zone comerciale transfrontaliere și infrastructură.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în 1855 de Temenggong Daeng Ibrahim.",
+        "Până în 1866 a purtat numele original de Tanjung Puteri.",
+        "Digul rutier către Singapore a fost deschis oficial în anul 1923.",
+        "Proiectul Iskandar Malaysia acoperă o suprafață de 2.217 kilometri pătrați.",
+        "Populația zonei metropolitane depășește numărul de 1,7 milioane de locuitori.",
+        "Construcția Moscheii Sultan Abu Bakar a fost finalizată în anul 1900."
+      ]
+    },
+    {
+      "id": "ipoh-cities-v2",
+      "descriptionAdvanced": "Ipoh, înconjurat de stânci de calcar spectaculoase, a cunoscut o ascensiune istorică fulminantă în timpul boom-ului exploatării staniului la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea. Această epocă prosperă a lăsat o moștenire arhitecturală bogată, vizibilă în clădirile neoclasice din orașul vechi și în gara magnifică, adesea supranumită "Taj Mahalul din Ipoh". În munții carstici din împrejurimi se ascund numeroase temple rupestre budiste și hinduse, precum Perak Cave Temple, care atrag mii de pelerini anual. Astăzi, orașul, care este capitala statului Perak, trece printr-o renaștere culturală și este faimos pentru cultura sa a cafelei, în special pentru cafeaua albă din Ipoh. Geografie K7 — Exploatarea resurselor și schimbările urbane.",
+      "factsAdvanced": [
+        "Orașul a crescut rapid în timpul boom-ului minier al staniului din anii 1880.",
+        "Gara din Ipoh a fost finalizată în 1917, având un stil baroc eduardian.",
+        "Castelul lui Kellie este situat la aproximativ 20 de kilometri la sud de oraș.",
+        "Peșterile de calcar din zonă au o vechime estimată de peste 400 de milioane de ani.",
+        "Orașul are aproximativ 650.000 de locuitori și se află în valea Kinta.",
+        "A primit oficial statutul de capitală a statului Perak în anul 1937."
+      ]
+    },
+    {
+      "id": "kuching-cities-v2",
+      "descriptionAdvanced": "Kuching este capitala pitorească a statului Sarawak, situată pe insula Borneo, și este faimoasă pentru diversitatea sa etnică și istoria fascinantă legată de regimul Rajah-ilor Albi. Numele orașului se traduce prin "pisică" în limba malaeză, ceea ce explică prezența numeroaselor statui de feline presărate pe străzile sale. Orașul este împărțit în două de râul Sarawak, care oferă o promenadă animată la malul apei, flancată de clădiri istorice precum Fortul Margherita, construit în 1879 de Charles Brooke. Muzeul Sarawak, fondat în 1891, găzduiește una dintre cele mai bune colecții etnografice din Asia de Sud-Est. Kuching servește, de asemenea, ca punct principal de plecare pentru explorarea parcurilor naționale și a rezervațiilor de urangutani din apropiere. Istorie K8 — Conducerea colonială și diversitatea etnică în Borneo.",
+      "factsAdvanced": [
+        "A fost capitala regatului condus de familia Brooke, cunoscuți ca Rajah-ii Albi.",
+        "Fortul Margherita a fost construit în anul 1879 pentru a proteja orașul.",
+        "Muzeul Sarawak este cel mai vechi muzeu de pe insula Borneo, deschis în 1891.",
+        "Numele orașului se traduce literalmente prin cuvântul "pisică".",
+        "Orașul are o populație metropolitană de aproximativ 600.000 de locuitori.",
+        "Este situat pe malurile râului Sarawak, o importantă arteră de transport."
+      ]
+    },
+    {
+      "id": "kota-kinabalu-cities-v2",
+      "descriptionAdvanced": "Kota Kinabalu, denumit adesea pur și simplu KK, este capitala plină de viață a statului Sabah de pe insula Borneo și un important centru turistic din regiune. Inițial cunoscut sub numele de Jesselton în timpul administrației coloniale britanice, orașul a fost redenumit în 1968, împrumutând numele magnificului Munte Kinabalu situat în apropiere. Reconstruit aproape în întregime după bombardamentele devastatoare din timpul celui de-Al Doilea Război Mondial, orașul modern se mândrește cu o faleză aglomerată și piețe de pește unde se vinde captura proaspătă a zilei. Moscheea Orașului, care pare să plutească pe o lagună artificială, este una dintre capodoperele arhitecturale locale. Orașul este poarta de acces spre Parcul Național Tunku Abdul Rahman, o rezervație marină superbă. Geografie K7 — Așezările costiere și turismul ecologic.",
+      "factsAdvanced": [
+        "A fost cunoscut sub numele de Jesselton până la redenumirea sa în 1968.",
+        "Orașul a suferit distrugeri masive în timpul celui de-Al Doilea Război Mondial.",
+        "Moscheea Orașului Kota Kinabalu a fost deschisă oficial în anul 2000.",
+        "Este cel mai mare centru urban din statul Sabah, cu peste 450.000 de locuitori.",
+        "Turnul Fundației Sabah a fost finalizat în anul 1977.",
+        "A primit oficial statutul de oraș la 2 februarie 2000."
+      ]
+    },
+    {
+      "id": "shah-alam-cities-v2",
+      "descriptionAdvanced": "Shah Alam a devenit capitala statului Selangor în 1978, preluând acest rol de la Kuala Lumpur, după ce acesta din urmă a fost desemnat Teritoriu Federal. Orașul a fost proiectat cu atenție pentru a include zone extinse de parcuri și lacuri artificiale, ceea ce i-a adus reputația de unul dintre cele mai verzi centre urbane din Malaezia. Elementul central și cel mai fotografiat monument al orașului este impresionanta Moschee Sultan Salahuddin Abdul Aziz, cunoscută și sub numele de Moscheea Albastră, datorită domului său imens din aluminiu acoperit cu panouri albastre. Pe lângă rolul său administrativ, Shah Alam este un important centru industrial, găzduind numeroase uzine de producție auto și tehnologică. Orașul este organizat meticulos pe "secțiuni", facilitând navigarea urbană. Geografie K8 — Planificarea urbană modernă și industrializarea.",
+      "factsAdvanced": [
+        "A preluat oficial rolul de capitală a statului Selangor în anul 1978.",
+        "Moscheea Albastră a fost finalizată în 1988, având un dom cu diametrul de 51,2 metri.",
+        "Minaretele Moscheii Albastre ating o înălțime de 142 de metri.",
+        "Prima fabrică națională de automobile Proton a fost deschisă aici în 1985.",
+        "Orașul acoperă o suprafață administrativă de 290 de kilometri pătrați.",
+        "Designul său urban este organizat strict pe secțiuni numerotate."
+      ]
+    },
+    {
+      "id": "malakka-stadt-cities-v2",
+      "descriptionAdvanced": "Orașul Malacca (Melaka) este una dintre cele mai importante destinații istorice din Malaezia, având un trecut definit de peste 500 de ani de influențe comerciale și coloniale. Ca un port crucial pe strâmtoarea Malacca, așezarea a atras succesiv puterile portugheze, olandeze și britanice, a căror moștenire arhitecturală este perfect conservată. Piața Roșie olandeză (Stadthuys), construită în anii 1650, și ruinele fortăreței portugheze A Famosa din 1511 stau mărturie acestor epoci. Datorită bogăției sale culturale excepționale, centrul orașului a fost înscris pe lista Patrimoniului Mondial UNESCO în 2008, alături de George Town. Strada Jonker este renumită pentru magazinele sale de antichități și cultura vibrantă Peranakan. Istorie K8 — Comerțul mondial și colonizarea în Asia de Sud-Est.",
+      "factsAdvanced": [
+        "Sultanatul Malacca a fost fondat în jurul anului 1400 de prințul Parameswara.",
+        "Forțele portugheze au cucerit orașul portuar în anul 1511.",
+        "Clădirea Stadthuys a fost construită de olandezi începând cu 1650.",
+        "Centrul istoric a fost declarat Patrimoniu Mondial UNESCO în 2008.",
+        "Cripta Bisericii Sf. Paul conține pietre funerare datând din secolul al XVI-lea.",
+        "Biserica Hristos din Malacca, construită din cărămidă roșie, a fost sfințită în 1753."
+      ]
+    },
+    {
+      "id": "kuantan-cities-v2",
+      "descriptionAdvanced": "Kuantan este capitala statului Pahang, situată pe coasta de est a Peninsulei Malaeze, la vărsarea râului cu același nume în Marea Chinei de Sud. Spre deosebire de agitația orașelor de pe coasta de vest, Kuantan oferă o atmosferă mai relaxată, fiind renumit pentru plajele sale cu nisip alb, precum Teluk Cempedak. Orașul este un centru economic major pentru regiune, dezvoltându-se considerabil datorită activităților portuare și a industriei petrochimice din apropiere. Moscheea de Stat Sultan Ahmad Shah, cu domurile sale albastre și arhitectura modernă, domină centrul orașului. Dezvoltarea sa rapidă la începutul secolului al XX-lea a fost impulsionată de minele de cositor din Sungai Lembing. Economie K7 — Porturile maritime și dezvoltarea regională.",
+      "factsAdvanced": [
+        "A devenit capitala statului Pahang în anul 1955, înlocuind orașul Kuala Lipis.",
+        "Plaja Teluk Cempedak este situată la doar 5 kilometri de centrul orașului.",
+        "Moscheea de Stat Sultan Ahmad Shah a fost construită în anii 1990.",
+        "Turnul Kuantan oferă o platformă de observare la 104 metri înălțime.",
+        "Orașul servește ca principal port pentru regiunea coastei de est.",
+        "Are o populație urbană ce depășește 420.000 de locuitori."
+      ]
+    },
+    {
+      "id": "seremban-cities-v2",
+      "descriptionAdvanced": "Seremban, capitala statului Negeri Sembilan, este un oraș cu o identitate culturală unică, puternic influențată de arhitectura tradițională Minangkabau din Sumatra. Această influență este vizibilă în formele distincte ale acoperișurilor, ce amintesc de coarnele de bivol, prezente la clădirile guvernamentale și muzeele locale. Orașul s-a dezvoltat inițial sub numele de Sungai Ujong, ca un centru prosper de minerit al staniului la sfârșitul secolului al XIX-lea. Astăzi, datorită infrastructurii rutiere și feroviare excelente, Seremban a devenit un important oraș satelit pentru Kuala Lumpur, aflat la aproximativ o oră distanță. Parcul Lacului din centrul orașului oferă o oază verde populară pentru recreerea locuitorilor. Geografie K7 — Migrația culturală și așezările urbane.",
+      "factsAdvanced": [
+        "S-a numit inițial Sungai Ujong și a fost redenumit Seremban.",
+        "Centrul cultural Minangkabau prezintă influențele din Sumatra.",
+        "Sistemul feroviar l-a conectat la Portul Dickson încă din anul 1891.",
+        "Complexul muzeal de stat este renumit pentru acoperișul său curbat specific.",
+        "Orașul are o populație de peste 600.000 de locuitori în zona sa metropolitană.",
+        "Este situat la doar aproximativ 60 de kilometri sud de capitala Kuala Lumpur."
+      ]
+    },
+    {
+      "id": "kota-bharu-cities-v2",
+      "descriptionAdvanced": "Kota Bharu este capitala statului Kelantan și centrul cultural al coastei de est, fiind profund înrădăcinat în tradițiile și valorile islamice. Orașul, al cărui nume înseamnă "Orașul Nou", este renumit pentru conservarea excelentă a meșteșugurilor tradiționale malaeze, inclusiv confecționarea zmeielor colorate Wau, țesutul pânzelor Songket și fabricarea obiectelor din argint. Piața centrală Pasar Siti Khadijah este inima vibrantă a orașului, cunoscută pentru faptul că majoritatea comercianților sunt femei care vând produse proaspete dintr-o piață octogonală cu mai multe etaje. Istoric, orașul a fost punctul de debarcare al trupelor japoneze pe 8 decembrie 1941, declanșând campania din Malaya. Geografie K7 — Meșteșuguri tradiționale și moștenire culturală.",
+      "factsAdvanced": [
+        "Numele orașului se traduce prin "Orașul Nou" în limba malaeză.",
+        "A fost fondat în 1844 de sultanul Muhammad al II-lea al Kelantanului.",
+        "Piața Pasar Siti Khadijah poartă numele soției profetului Muhammad.",
+        "Trupele japoneze au debarcat la plaja Pantai Sabak de lângă oraș în 1941.",
+        "Muzeul Regal (Istana Batu) a fost construit în anul 1939 ca reședință.",
+        "Orașul este renumit pentru promovarea intensă a culturii islamice malaeze."
+      ]
+    },
+    {
+      "id": "kuala-terengganu-cities-v2",
+      "descriptionAdvanced": "Kuala Terengganu este capitala statului Terengganu de pe coasta de est, remarcabilă prin patrimoniul său maritim și meșteșugăresc. Situat la vărsarea râului Terengganu, orașul păstrează o atmosferă tradițională, fiind recunoscut ca principal centru pentru construcția manuală a bărcilor tradiționale de pescuit malaeze. Moscheea de Cristal (Masjid Kristal), situată în Parcul Patrimoniului Islamic, este o capodoperă a arhitecturii moderne, construită din sticlă și oțel, care atrage turiști din întreaga lume. Cartierul chinezesc, Kampung Cina, adaugă un farmec istoric cu casele sale tradiționale înguste și vechi de secole, conservând moștenirea primelor valuri de imigranți. Orașul este și un important centru pentru industria petrolieră regională. Economie K7 — Industria navală și resursele naturale.",
+      "factsAdvanced": [
+        "A primit statutul oficial de oraș la 1 ianuarie 2008.",
+        "Moscheea de Cristal a fost inaugurată în luna februarie a anului 2008.",
+        "Cartierul Kampung Cina (Chinatown) conține clădiri care datează de la sfârșitul anilor 1800.",
+        "Parcul Patrimoniului Islamic găzduiește miniaturi ale unor moschei celebre din lume.",
+        "Complexul de meșteșuguri Noor Arfa este cel mai mare producător local de Batik.",
+        "Populația orașului depășește aproximativ 340.000 de rezidenți."
+      ]
+    },
+    {
+      "id": "alorsetar-cities-v2",
+      "descriptionAdvanced": "Alor Setar, capitala statului Kedah, este unul dintre cele mai vechi orașe din regiune, fondat în 1735. Este supranumit "bolul de orez al Malaeziei", datorită câmpiilor imense cultivate cu orez care înconjoară orașul și care asigură o mare parte din producția națională. Printre cele mai faimoase puncte de reper se numără impunătoarea Moschee Zahir, finalizată în 1912, care este recunoscută ca fiind una dintre cele mai frumoase moschei din Asia de Sud-Est, cu arhitectura sa de inspirație maură. Turnul Alor Setar, care se înalță la 165 de metri, domină linia orizontului și servește ca turn de telecomunicații și platformă de observație. Orașul este mândru de faptul că este locul de naștere a doi dintre foștii prim-miniștri ai Malaeziei. Geografie K7 — Agricultura și importanța cultivării orezului.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în anul 1735 de către sultanul Muhammad Jiwa Zainal Adilin al II-lea.",
+        "Moscheea Zahir, una dintre cele mai vechi din țară, a fost finalizată în 1912.",
+        "Turnul Alor Setar are o înălțime de 165,5 metri, inaugurat în 1997.",
+        "Muzeul Orezului (Muzium Padi) expune istoria și tehnicile agricole locale.",
+        "A primit statutul oficial de oraș la 21 decembrie 2003.",
+        "Este locul de naștere al prim-ministrului Mahathir Mohamad."
+      ]
+    },
+    {
+      "id": "kangar-cities-v2",
+      "descriptionAdvanced": "Kangar este capitala și centrul administrativ al statului Perlis, cel mai mic stat din Malaezia, situat la granița nordică cu Thailanda. Acest oraș liniștit, înconjurat de uitătoare câmpii de orez și stânci de calcar pitorești, și-a luat probabil numele de la o specie de copac (arborele Kangar) sau de la un tip de pasăre locală. Principalele repere includ Moscheea de Stat Syed Alwi, o clădire cu o arhitectură elegantă influențată de stilurile islamice tradiționale. Orașul servește ca un nod important de transport pentru călătorii care se îndreaptă spre Thailanda sau spre insula turistică Langkawi prin portul Kuala Perlis din apropiere. Geografie K6 — Așezările de frontieră și rolul lor agricol.",
+      "factsAdvanced": [
+        "Este capitala celui mai mic stat din Malaezia, statul Perlis.",
+        "Populația orașului în sine numără aproximativ 50.000 de locuitori.",
+        "Moscheea de Stat Syed Alwi a fost completată și deschisă în anul 1933.",
+        "Orașul este dominat de agricultura bazată pe cultivarea intensivă a orezului.",
+        "Râul Perlis traversează orașul, influențând viața agricolă a comunității.",
+        "Se află la aproximativ 45 de kilometri distanță de orașul Alor Setar."
+      ]
+    },
+    {
+      "id": "putrajaya-cities-v2",
+      "descriptionAdvanced": "Putrajaya este capitala administrativă federală a Malaeziei, un oraș meticulos planificat, conceput pentru a decongestiona Kuala Lumpur-ul suprapopulat. Funcționând ca sediu al guvernului federal din 1999, orașul este faimos pentru designul său urban ce integrează spații verzi vaste și un lac artificial masiv, de unde provine și deviza "Orașul Grădină Inteligent". Arhitectura impresionantă a orașului este dominată de Moscheea Putra, cu superbul său dom din granit de culoarea trandafirului, și clădirea Perdana Putra, biroul Prim-Ministrului. Rețeaua sa de poduri futuriste, inspirate din diverse capodopere arhitecturale globale, conectează diferite sectoare ale orașului. Geografie K8 — Planificarea noilor capitale administrative și sustenabilitatea.",
+      "factsAdvanced": [
+        "A fost desemnat ca sediu al guvernului federal malaezian în anul 1999.",
+        "Orașul a fost numit în onoarea primului prim-ministru, Tunku Abdul Rahman Putra.",
+        "Suprafața totală acoperă aproximativ 4.900 de hectare.",
+        "Lacul Putrajaya are o suprafață extinsă de 650 de hectare create artificial.",
+        "Moscheea Putra are un minaret înalt de 116 metri și poate găzdui 15.000 de credincioși.",
+        "A devenit al treilea Teritoriu Federal al Malaeziei în anul 2001."
+      ]
+    },
+    {
+      "id": "subang-jaya-cities-v2",
+      "descriptionAdvanced": "Subang Jaya a început ca o zonă rezidențială dezvoltată pe o fostă plantație de cauciuc în anii 1970, crescând ulterior într-unul dintre cele mai populate și vibrante orașe din Valea Klang. Astăzi, este un centru major de învățământ superior, găzduind numeroase campusuri universitare internaționale care atrag studenți din întreaga lume. Orașul este un centru comercial efervescent, cu un număr mare de mall-uri și cartiere de divertisment, precum celebrul parc tematic Sunway Lagoon situat în apropiere. Rețeaua complexă de autostrăzi și transport public îl conectează facil cu restul metropolei. Economie K7 — Extinderea suburbană și centrele de învățământ.",
+      "factsAdvanced": [
+        "Dezvoltarea orașului a început oficial în anul 1974 pe o veche plantație.",
+        "Orașul a primit statutul de municipiu (Majlis Perbandaran) în 1997.",
+        "Zona găzduiește universități prestigioase precum Taylor's University și Sunway University.",
+        "Populația sa se apropie de 700.000 de locuitori.",
+        "Parcul tematic Sunway Lagoon se întinde pe o fostă mină de staniu.",
+        "Sistemul de transport LRT și BRT a transformat conectivitatea zonei în ultimul deceniu."
+      ]
+    },
+    {
+      "id": "klang-cities-v2",
+      "descriptionAdvanced": "Klang este orașul regal al statului Selangor și fosta sa capitală înainte de ascensiunea orașului Kuala Lumpur. Situat strategic de-a lungul râului Klang, orașul are o istorie îndelungată legată de comerțul maritim, fiind în prezent adiacent Portului Klang, cel mai mare și mai aglomerat port din Malaezia. În centrul vechi al orașului, vizitatorii pot admira arhitectură colonială bine conservată și impresionantul Palat Regal Alam Shah, reședința oficială a Sultanului. Klang este renumit în întreaga țară pentru gastronomia sa, fiind considerat locul de naștere al faimosului fel de mâncare Bak Kut Teh, o supă concentrată de carne infuzată cu ierburi tradiționale chinezești. Istorie K8 — Orașele regale și importanța porturilor istorice.",
+      "factsAdvanced": [
+        "A fost capitala statului Selangor în două perioade, ultima încheindu-se în 1956.",
+        "Palatul Istana Alam Shah a fost construit în anul 1950 pentru sultanul din Selangor.",
+        "Este asociat strâns cu Portul Klang, care se află pe locul 12 în lume la trafic de containere.",
+        "Populația districtului depășește un milion de locuitori, conform ultimelor recensăminte.",
+        "Orașul este considerat leagănul preparatului culinar Bak Kut Teh din anii 1940.",
+        "Gara din Klang a fost deschisă în anul 1890 de către administrația britanică."
+      ]
+    },
+    {
+      "id": "petaling-jaya-cities-v2",
+      "descriptionAdvanced": "Petaling Jaya, adesea numit simplu PJ, a fost primul oraș planificat al Malaeziei, construit în 1952 pentru a rezolva problema suprapopulării din Kuala Lumpur. Dintr-un simplu cartier satelit rezidențial, orașul s-a transformat rapid într-unul dintre cele mai importante centre comerciale și tehnologice ale națiunii. PJ se mândrește cu numeroase parcuri industriale și zone comerciale prospere, care adăpostesc sediile multor corporații multinaționale și locale. Rețeaua sa de drumuri circulare caracteristice și sistemele de transport în comun, inclusiv liniile moderne de metrou ușor LRT, fac navigarea destul de eficientă, în ciuda traficului intens. Geografie K7 — Orașele satelit și tranziția lor spre independență economică.",
+      "factsAdvanced": [
+        "A fost conceput în anul 1952 ca primul oraș satelit al Malaeziei.",
+        "A primit statutul oficial de oraș cu drepturi depline pe 20 iunie 2006.",
+        "Populația orașului este de peste 600.000 de rezidenți permanenți.",
+        "Universitatea Malaya, situată la granița cu PJ, a fost fondată în 1949.",
+        "Arcul monumental Kota Darul Ehsan marchează granița orașului cu Kuala Lumpur din 1981.",
+        "A fost dezvoltat inițial pe terenul unei foste plantații de cauciuc de 480 de hectare."
+      ]
+    },
+    {
+      "id": "miri-cities-v2",
+      "descriptionAdvanced": "Miri, situat în statul Sarawak de pe insula Borneo, este orașul unde a început industria petrolieră malaeziană. În 1910, descoperirea primului puț de petrol pe colina Canada (cunoscut sub numele de "The Grand Old Lady") a transformat o mică așezare de pescari într-un oraș industrial în plină expansiune. În afara economiei bazate pe extracția hidrocarburilor, Miri este punctul principal de plecare pentru turiștii care vizitează Parcul Național Gunung Mulu, un sit al Patrimoniului Mondial UNESCO celebru pentru rețeaua sa imensă de peșteri și formațiunile carstice ascuțite. Orașul găzduiește și un renumit festival internațional de jazz, care atrage artiști din întreaga lume. Economie K8 — Industria extractivă și tranziția la eco-turism.",
+      "factsAdvanced": [
+        "Primul puț de petrol din Malaezia a fost forat aici în anul 1910.",
+        "Monumentul "The Grand Old Lady" a extras țiței timp de peste 60 de ani.",
+        "Orașul a primit oficial statutul de municipiu în anul 2005.",
+        "Este poarta principală spre Parcul Național Gunung Mulu, un sit UNESCO din 2000.",
+        "Populația orașului depășește numărul de 300.000 de locuitori.",
+        "Parcul Național Niah, situat în apropiere, conține dovezi ale prezenței umane de acum 40.000 de ani."
+      ]
+    },
+    {
+      "id": "sibu-cities-v2",
+      "descriptionAdvanced": "Sibu, amplasat la confluența râurilor Rajang și Igan în statul Sarawak, este un oraș aglomerat și al treilea ca mărime din stat. De-a lungul istoriei, așezarea a crescut ca un centru principal pentru industria forestieră și comerțul cu lemn al insulei Borneo. Sibu este faimos pentru comunitatea sa numeroasă de etnici Foochow, originari din provincia chineză Fujian, care au emigrat masiv aici în anii 1900, influențând puternic cultura locală, mâncarea și festivalurile. Piața Centrală din Sibu este cea mai mare piață interioară din Malaezia, adăpostind sute de comercianți care vând de la produse exotice din junglă până la păsări vii înfășurate în ziare, ilustrând spiritul autentic al vieții urbane locale. Geografie K7 — Migrația, influențele etnice și comerțul fluvial.",
+      "factsAdvanced": [
+        "Marea migrație a comunității chineze Foochow a avut loc în anul 1901.",
+        "Este situat pe râul Rajang, cel mai lung râu din Malaezia (563 kilometri).",
+        "Piața Centrală din Sibu adăpostește peste 1.100 de tarabe comerciale.",
+        "Orașul este deservit de un aeroport care gestionează sute de mii de pasageri anual.",
+        "Templul Tua Pek Kong, cu pagoda sa pe 7 niveluri, a fost reconstruit în 1989.",
+        "Festivalul Cultural din Borneo este găzduit de oraș în fiecare lună iulie."
+      ]
+    },
+    {
+      "id": "sandakan-cities-v2",
+      "descriptionAdvanced": "Sandakan a fost fosta capitală a Borneo-ului de Nord Britanic și este unul dintre cele mai importante centre istorice ale statului Sabah. Deși a fost devastat de bombardamentele din timpul celui de-Al Doilea Război Mondial, unele situri, precum Casa Agnes Keith, stau mărturie vieții coloniale de odinioară. Astăzi, Sandakan este renumit la nivel mondial ca punct de plecare spre destinații de conservare a vieții sălbatice remarcabile, cel mai cunoscut fiind Centrul de Reabilitare a Urangutanilor din Sepilok, unde urangutanii orfani sunt învățați să supraviețuiască în sălbăticie. În timpul războiului, orașul a fost scena infamului Marș al Morții de la Sandakan, în care mii de prizonieri de război au pierit tragic. Istorie K8 — Al Doilea Război Mondial în Pacific și eforturile moderne de conservare.",
+      "factsAdvanced": [
+        "A fost capitala Borneo-ului de Nord Britanic între anii 1884 și 1946.",
+        "Centrul de Reabilitare a Urangutanilor din Sepilok a fost fondat în 1964.",
+        "Marșul Morții de la Sandakan (1945) a dus la moartea a peste 2.400 de prizonieri de război.",
+        "Casa memorială a scriitoarei americane Agnes Newton Keith a fost restaurată în 2004.",
+        "Este al doilea oraș ca mărime din Sabah, având un port natural adânc.",
+        "Biserica Sfântul Mihail este una dintre puținele clădiri de piatră care au supraviețuit războiului."
+      ]
+    },
+    {
+      "id": "tawau-cities-v2",
+      "descriptionAdvanced": "Tawau, situat pe coasta de est a statului Sabah, aproape de granița cu Indonezia, a crescut dintr-o mică așezare comercială într-un oraș agricol prosper. Economia sa istorică și actuală este puternic influențată de cultivarea vastă a arborelui de cacao, palmierului de ulei și, anterior, a arborelui de cauciuc și abaca. Datorită pământului vulcanic fertil din zonă, Tawau găzduiește unul dintre puținele muzee dedicate industriei de cacao din Asia de Sud-Est. Pentru mulți călători, orașul servește drept important nod de transport către recifele de corali neatinse din Parcul Marin Semporna și insula legendară Sipadan, un paradis mondial pentru scafandri. Geografie K7 — Solurile vulcanice, agricultura comercială și nodurile logistice.",
+      "factsAdvanced": [
+        "Parcul Național Tawau Hills, situat în apropiere, protejează izvoarele termale și copaci uriași.",
+        "Orașul este poarta principală de acces către insula de scufundări Sipadan.",
+        "Industria sa agricolă a fost dezvoltată inițial sub compania britanică Kuhara Rubber Estate.",
+        "Muntele Lucia, de origine vulcanică, influențează fertilitatea regiunii, având 1.310 metri înălțime.",
+        "Un muzeu dedicat complet procesării boabelor de cacao a fost înființat în zonă.",
+        "Populația zonei administrative depășește numărul de 400.000 de persoane."
+      ]
+    },
+    {
+      "id": "bintulu-cities-v2",
+      "descriptionAdvanced": "Bintulu este un oraș industrial crucial din statul Sarawak, a cărui transformare economică masivă a început odată cu descoperirea unor rezerve vaste de gaze naturale în largul mării, la sfârșitul anilor 1970. Această descoperire a dus la dezvoltarea unuia dintre cele mai mari complexe de gaze naturale lichefiate (GNL) dintr-o singură locație din lume, gestionat de Petronas. Deși peisajul său este puternic industrializat, Bintulu găzduiește și Parcul Național Similajau, un refugiu uimitor pe coastă, celebru pentru plajele sale cu nisip auriu și ca zonă de cuibărit pentru broaștele țestoase. Orașul a fost locul în care s-a desfășurat prima adunare legislativă a statului Sarawak în 1867, un eveniment marcant din istoria locală sub regimul lui Charles Brooke. Economie K8 — Exploatarea gazelor naturale și echilibrul ecologic.",
+      "factsAdvanced": [
+        "Complexul GNL Petronas din Bintulu acoperă o suprafață enormă de peste 270 de hectare.",
+        "Prima adunare legislativă din istoria statului Sarawak a fost convocată aici în 1867.",
+        "Parcul Național Similajau a fost fondat în 1978, cu o suprafață de aproape 9.000 de hectare.",
+        "Portul Bintulu este cel mai aglomerat port de export GNL din toată regiunea Asiei.",
+        "Orașul dispune de o importantă fabrică de îngrășăminte pe bază de amoniac și uree.",
+        "În anii 1970, orașul era încă o mică și liniștită comunitate de pescari de 5.000 de locuitori."
+      ]
+    },
+    {
+      "id": "muar-cities-v2",
+      "descriptionAdvanced": "Muar, numit oficial Bandar Maharani, este un oraș regal pitoresc situat în nordul statului Johor, de-a lungul estuarului râului Muar. Orașul este apreciat la nivel național pentru atmosfera sa liniștită și pentru colecția bogată de clădiri cu fațade arhitecturale coloniale din perioada interbelică, care împodobesc străzile sale principale. Muar are o tradiție puternică în producția de mobilier, fiind deseori denumit capitala mobilei din Malaezia, având sute de fabrici care exportă la nivel internațional. În plus, orașul este faimos pentru gastronomia sa distinctivă, în special pentru preparatul Otak-Otak – pește condimentat amestecat cu mirodenii și copt delicat în frunze de palmier sau bananier. Geografie K7 — Orașele fluviale, producția industrială și meșteșugurile.",
+      "factsAdvanced": [
+        "A primit denumirea onorifică de Bandar Maharani în anul 1884.",
+        "Orașul a fost declarat oficial orașul regal al statului Johor în anul 2012.",
+        "Podul istoric Sultan Ismail peste râul Muar a fost deschis circulației în 1967.",
+        "Orașul furnizează o proporție semnificativă din exportul de mobilier din lemn al națiunii.",
+        "Muar este frecvent recunoscut la nivel național pentru curățenia străzilor sale.",
+        "Otak-Otak este cel mai recunoscut preparat culinar asociat cu această zonă."
+      ]
+    },
+    {
+      "id": "sungai-petani-cities-v2",
+      "descriptionAdvanced": "Sungai Petani, al cărui nume se traduce prin "râul fermierului", este cel mai mare oraș din statul Kedah în ceea ce privește populația urbană, depășind chiar capitala Alor Setar. Economia sa a prosperat enorm în deceniile recente datorită prezenței mai multor parcuri industriale mari care au atras numeroase companii multinaționale de producție de electronice și componente. Lângă oraș se află valea arheologică Bujang, unul dintre cele mai importante situri istorice din Malaezia, care relevă existența unui regat hinduso-budist prosper, ce a dominat rutele comerciale antice între secolele al III-lea și al XII-lea. Astfel, orașul modern reprezintă o intersecție fascinantă între industria hi-tech și vestigiile primelor civilizații din Peninsula Malaeză. Istorie K8 — Civilizațiile antice și zonele industriale moderne.",
+      "factsAdvanced": [
+        "Numele orașului provine din malaeză și înseamnă "râul fermierului".",
+        "Este cel mai populat oraș din statul Kedah, depășind o jumătate de milion de locuitori.",
+        "Valea Bujang din apropiere conține peste 50 de temple (Candi) hinduso-budiste dezgropate.",
+        "Turnul ceasului din centrul orașului a fost construit în anul 1936 pentru Regele George al V-lea.",
+        "Orașul se bucură de prezența unor zone industriale majore precum Bakar Arang și Tikam Batu.",
+        "Rămășițele istorice de la Lembah Bujang dovedesc existența unui port antic aglomerat."
+      ]
+    }
+  ]
+}

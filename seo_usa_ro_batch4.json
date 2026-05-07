@@ -1,0 +1,254 @@
+{
+  "lang": "ro",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "baton-rouge-cities-v2",
+      "descriptionAdvanced": "Baton Rouge este capitala statului Louisiana, situată strategic pe malurile estice ale fluviului Mississippi. Numele său, care înseamnă „bățul roșu” în franceză, provine de la un stâlp vopsit în roșu pe care exploratorul francez Pierre Le Moyne d'Iberville l-a observat în 1699, marcând granița de vânătoare dintre două triburi native. Orașul a devenit oficial capitală de stat în 1849, înlocuind New Orleans. Unul dintre cele mai remarcabile repere arhitecturale este noul Capitoliu al statului Louisiana, o capodoperă Art Deco finalizată în 1932 sub conducerea controversatului guvernator Huey P. Long, fiind și astăzi cea mai înaltă clădire de capitoliu din SUA (137 metri). Datorită locației sale pe fluviu, Baton Rouge deține unul dintre cele mai mari porturi de apă adâncă din țară, fiind un centru uriaș pentru rafinarea petrolului și industria petrochimică. Geografie K7 — industria petrochimică și transportul fluvial.",
+      "factsAdvanced": [
+        "Numele orașului derivă din expresia franceză pentru „bățul roșu”, observat în 1699.",
+        "A devenit oficial capitala statului Louisiana în anul 1849.",
+        "Clădirea Capitoliului statal măsoară 137 de metri, fiind cea mai înaltă de acest tip din SUA.",
+        "Găzduiește faimoasa Louisiana State University (LSU), fondată în anul 1860.",
+        "Guvernatorul Huey P. Long a fost asasinat chiar în clădirea Capitoliului în 1935.",
+        "Portul Baton Rouge ocupă constant un loc în top 10 porturi americane după tonaj."
+      ]
+    },
+    {
+      "id": "spokane-cities-v2",
+      "descriptionAdvanced": "Spokane, al doilea oraș ca mărime din statul Washington, este situat în partea de est a statului, aproape de Munții Stâncoși. Fondat în anii 1870, orașul a prosperat fulminant datorită descoperirilor masive de argint, aur și plumb din regiunea învecinată Coeur d'Alene, fiind la acea vreme un magnet pentru mineri și industria feroviară. Datorită abundenței pădurilor, s-a dezvoltat și o imensă industrie a lemnului. Un moment de cotitură pe plan global pentru oraș a fost găzduirea cu succes a primului Târg Mondial axat pe protecția mediului (Expo '74), eveniment care a lăsat în urmă magnificul Riverfront Park, curățând o fostă zonă industrială toxică din inima orașului. Astăzi, cu cascada Spokane Falls chiar în centrul său, orașul se mândrește cu o puternică economie centrată pe asistență medicală, sănătate și agrement în natură. Geografie K7 — reconversia urbană și protecția mediului.",
+      "factsAdvanced": [
+        "Așezarea a fost încorporată în mod oficial în toamna anului 1881.",
+        "Prima denumire a orașului a fost Spokane Falls, simplificată în anul 1891.",
+        "A găzduit cu succes prima Expoziție Universală cu tematică ecologică (Expo '74).",
+        "Cascada spectaculoasă Spokane Falls taie direct prin centrul de afaceri al orașului.",
+        "Se pretinde a fi locul unde a fost inventată sărbătoarea comercială „Ziua Tatălui” în 1910.",
+        "Rețeaua de parcuri Riverfront Park a înlocuit fosta curte feroviară grea din centru."
+      ]
+    },
+    {
+      "id": "birmingham-al-cities-v2",
+      "descriptionAdvanced": "Birmingham, cel mai populat oraș din statul Alabama, deține o istorie unică ca nucleu industrial creat după Războiul Civil American. Fondat în 1871 și denumit după faimosul oraș industrial britanic, așezarea a crescut cu o viteză atât de uluitoare datorită industriei oțelului, încât a primit porecla „Orașul Magic”. Este singurul loc de pe planetă unde minereul de fier, cărbunele și calcarul — cele trei ingrediente vitale pentru fabricarea oțelului — se găsesc împreună în cantități masive pe o rază de 10 mile. Dincolo de oțel, Birmingham are o semnificație istorică monumentală, fiind principalul teatru de luptă al Mișcării pentru Drepturile Civile din anii 1960, unde lideri precum Martin Luther King Jr. (care a scris aici celebra „Scrisoare din închisoarea din Birmingham” în 1963) au schimbat fața națiunii. Astăzi, economia sa a trecut ferm la medicină și cercetare. Istorie K8 — Mișcarea pentru Drepturile Civile.",
+      "factsAdvanced": [
+        "Orașul a fost fondat târziu, în anul 1871, după Războiul Civil American.",
+        "Este unicul loc din lume cu zăcăminte alăturate de fier, cărbune și calcar.",
+        "Monumentul uriaș al zeului Vulcan (peste 17 metri) domină orizontul orașului din 1936.",
+        "Martin Luther King Jr. a redactat aici „Scrisoarea din închisoarea din Birmingham” în 1963.",
+        "Bombardamentul tragic al bisericii baptiste din 1963 a accelerat Legile Drepturilor Civile.",
+        "Universitatea Alabama la Birmingham (UAB) este unul dintre cele mai avansate spitale din sud."
+      ]
+    },
+    {
+      "id": "rochester-ny-cities-v2",
+      "descriptionAdvanced": "Rochester, situat pe malul sudic al Lacului Ontario în vestul statului New York, a fost unul dintre primele orașe industriale de succes (boomtown) din America, crescând spectaculos odată cu deschiderea Canalului Erie. La începutul secolului al XIX-lea, mulțimea sa de mori de făină propulsate de cascadele râului Genesee i-au adus titlul de „Orașul Morilor de Făină”. Ulterior, datorită uriașelor pepiniere de plante, a fost supranumit „Orașul Florilor”. Moștenirea sa globală este însă ancorată în inventică: aici, George Eastman a fondat celebra companie Kodak în 1888, transformând orașul în centrul mondial al fotografiei. De asemenea, a fost baza de operațiuni a liderului aboliționist Frederick Douglass și a faimoasei activiste pentru drepturile femeilor Susan B. Anthony (care a votat ilegal aici în 1872). Astăzi, tehnologia optică și universitățile rămân piloni economici esențiali. Istorie K8 — aboliționismul și mișcarea sufragetelor.",
+      "factsAdvanced": [
+        "Prima moară așezată pe râul Genesee a fost construită în anul 1789.",
+        "Canalul Erie a ajuns în oraș în anul 1823, accelerând masiv exporturile.",
+        "George Eastman a înființat corporatia de aparate foto Kodak aici în anul 1888.",
+        "Celebra aboliționistă Susan B. Anthony și-a petrecut cea mai mare parte a vieții în oraș.",
+        "Universitatea din Rochester include Eastman School of Music (fondată în 1921).",
+        "Posedă o concentrare globală vitală de companii în domeniul opticii și fotonicii."
+      ]
+    },
+    {
+      "id": "aurora-co-cities-v2",
+      "descriptionAdvanced": "Aurora, al treilea cel mai mare oraș din statul Colorado, se întinde vast pe podișul înalt din estul metropolei Denver. A luat naștere inițial în anii 1880 sub numele modest de Fletcher, dar după dezastrul colapsului prețurilor la argint din 1893, s-a redenumit Aurora (în 1907) pentru un nou început. Creșterea masivă a orașului s-a materializat o dată cu secolul al XX-lea, alimentată de prezența extinsă a armatei americane (inclusiv fosta bază aeriană uriașă Lowry și campusul medical militar Fitzsimons, transformat astăzi). În ultimii ani, zona s-a dezvoltat într-un lider de necontestat în domeniul biotehnologiei și medicinei, prin crearea masivului Anschutz Medical Campus. Comunitatea se remarcă astăzi printr-una dintre cele mai diverse populații din stat și printr-o sumedenie de parcuri rezidențiale vaste și rezerve de apă protejate. Geografie K7 — extinderea medicală suburbană.",
+      "factsAdvanced": [
+        "Așezarea originală, denumită inițial Fletcher, a fost fondată în anul 1891.",
+        "În 1907 și-a schimbat numele în Aurora pentru a scăpa de datoriile panicii financiare.",
+        "Baza Forțelor Aeriene Buckley are un rol vital în supravegherea prin satelit a SUA.",
+        "Campusul Anschutz a preluat terenul fostei baze medicale militare Fitzsimons.",
+        "Peste 160 de limbi și dialecte internaționale sunt vorbite de elevii școlilor publice din oraș.",
+        "Deține recordul municipal pentru numărul extins de terenuri publice de golf în zonă."
+      ]
+    },
+    {
+      "id": "little-rock-cities-v2",
+      "descriptionAdvanced": "Little Rock este capitala și cel mai populat oraș al statului Arkansas, ocupând centrul geografic al statului, fix pe malurile râului Arkansas. A primit acest nume (Mica Stâncă) în 1722 de la exploratorul francez Jean-Baptiste Bénard de la Harpe, care a folosit formațiunea stâncoasă restrânsă de pe fluviu drept punct de reper pentru navigație. Orașul a devenit capitala teritorială în 1821. În istoria recentă americană, metropola a captat atenția globală în 1957, în urma „Crizei de la Little Rock”, când guvernatorul statului a folosit Garda Națională pentru a bloca integrarea rasială a nouă elevi afro-americani la Central High School, forțând președintele Dwight D. Eisenhower să trimită trupe federale pentru a impune legea. Astăzi, orașul deține impresionantul Centru Prezidențial și Parcul William J. Clinton, inaugurat în 2004 pentru a onora al 42-lea președinte american. Istorie K8 — drepturile civile și desegregarea școlară.",
+      "factsAdvanced": [
+        "Exploratorul francez La Harpe a numit zona „La Petite Roche” în 1722.",
+        "A devenit oficial capitala noului Teritoriu Arkansas în anul 1821.",
+        "A intrat în istorie prin criza desegregării școlare „Little Rock Nine” din anul 1957.",
+        "Biblioteca și Muzeul Prezidențial Bill Clinton au fost deschise aici în 2004.",
+        "Vechea clădire a Capitoliului de stat (Old State House) datează încă din 1833.",
+        "Industria asistenței medicale este principalul angajator economic din regiunea centrală."
+      ]
+    },
+    {
+      "id": "columbia-sc-cities-v2",
+      "descriptionAdvanced": "Columbia a fost proiectată meticulos din temelii pentru a fi prima capitală din Statele Unite construită special cu acest scop, fiind mutată strategic în 1786 în centrul geografic al statului Carolina de Sud, pentru a împăca disputele dintre regiunile de coastă bogate și fermierii din interior (upcountry). Este traversată de confluența pitorească a râurilor Saluda și Broad, care formează râul Congaree. De-a lungul tragic al Războiului Civil American, la 17 februarie 1865, aproape întregul oraș a fost transformat în cenușă de trupele Uniunii sub comanda generalului William T. Sherman, lăsând puține clădiri vechi supraviețuitoare. Astăzi, Columbia este inima administrației guvernamentale de stat, adăpostește sediul masiv al Universității din Carolina de Sud (înființată în 1801) și se mândrește cu faimoasa bază de antrenament a armatei americane, Fort Jackson, cel mai mare centru de instrucție de bază al armatei. Istorie K8 — distrugerea Războiului Civil (Marșul lui Sherman).",
+      "factsAdvanced": [
+        "A fost autorizată special de legislatura statului ca nouă capitală în 1786.",
+        "A fost practic reconstruită după un incendiu colosal ordonat de armata Uniunii în 1865.",
+        "Universitatea South Carolina (UofSC) a primit aici primii săi studenți în anul 1805.",
+        "Clădirea istorică a Capitoliului statal poartă încă urme de ghiulele de artilerie pe fațadă.",
+        "Peste 50% din soldații trupelor armatei americane trec prin pregătirea militară de bază la Fort Jackson.",
+        "Este adesea supranumită „Orașul cu inima caldă” (The Famously Hot City) din pricina verilor umede."
+      ]
+    },
+    {
+      "id": "jackson-ms-cities-v2",
+      "descriptionAdvanced": "Jackson, amplasat pe cursul pașnic al râului Pearl, este capitala și cea mai mare metropolă a statului Mississippi. Orașul a fost fondat la un deceniu după formarea statului (1821) pe un vechi avanpost de tranzacții numit LeFleur's Bluff, luând ulterior numele controversatului erou militar și președinte Andrew Jackson. La fel ca alte orașe din sud, a fost incendiat aproape complet de forțele lui Sherman în 1863 în timpul Războiului Civil, dobândind denumirea sumbră de „Hornul orașului” (Chimneyville) pentru singurele ruine rămase în picioare. Istoria recentă îl consacră pe fondul mișcării acerbe pentru drepturile civile afro-americane din anii 1960. Orașul are onoarea de a deține singurul vulcan stins existent chiar sub limitele unei capitale americane, Jackson Volcano. Istorie K8 — segregare, activiști civili și reforme (Medgar Evers).",
+      "factsAdvanced": [
+        "Capitala a fost denumită astfel în onoarea președintelui general Andrew Jackson în 1821.",
+        "Trupelor generalului Sherman le-a trebuit o zi pentru a transforma orașul în „Chimneyville” (1863).",
+        "Activistul Medgar Evers a fost asasinat pe nedrept în fața casei sale din Jackson în 1963.",
+        "Sediul Guvernatorului Statului se distinge printr-o magnifică arhitectură Neo-Greacă.",
+        "Colosalul Vulcan Jackson (stins de 65 milioane de ani) zace îngropat exact sub oraș.",
+        "A atras zeci de muzicieni afro-americani care au conturat aici primele baze ale muzicii gospel și blues."
+      ]
+    },
+    {
+      "id": "providence-cities-v2",
+      "descriptionAdvanced": "Providence, străvechea capitală și cel mai mare hub al statului Rhode Island, a fost înființat la o intersecție norocoasă a Râului Providence în 1636. Fondatorul orașului, puritanul disident Roger Williams, fugise aici persecutat din rigorista Colonie Massachusetts, garantând pe noul teren un nivel unic de toleranță religioasă și de prietenie absolută cu liderii locali ai tribului nativ Narragansett. Este așadar piatra de temelie națională unde s-a consemnat prima structură publică religioasă garantată baptistă din istoria ambelor Americi (1638). Un punct economic gigant pentru argintărie, manufactură metalică pe durata Epocii Industriale, Providence adăpostește în centrul său mândria arhitecturală a faimoasei Universități Ivy League Brown (stabilită aici din anul 1770) și uimitoarea școală globală de arte vizuale, Rhode Island School of Design (RISD). Geografie K7 — primele colonii de toleranță din Lumea Nouă.",
+      "factsAdvanced": [
+        "Acest pământ a fost fondat exilat de preotul Roger Williams exact în anul 1636.",
+        "Deține structura religioasă (Prima Biserică Baptistă a Americii) fondată funcțional încă din 1638.",
+        "Și-a ridicat un scut de protecție ca fiind printre primele locații cu separare de stat vs. religie.",
+        "Comunitatea academică de elită Brown University predă cursuri neîntrerupt pe domeniu din 1770.",
+        "Găzduiește faimosul festival al apei cu foc WaterFire, iluminând râul permanent de prin anii '90.",
+        "Posedă unele din cele mai extinse cartiere istorice neschimbate național de pe Coasta de Est."
+      ]
+    },
+    {
+      "id": "hartford-cities-v2",
+      "descriptionAdvanced": "Hartford tronează autoritar ca inima administrativă a statului Connecticut, instalată fix la mijlocul albiei de scurgere al râului omonim. Descoperirile comerciale olandeze originare (1623) au dat drumul pătrunderii exploratorului pastor britanic Thomas Hooker (în 1636). Influența istorică este masivă din simplul motiv că locuitorii din Hartford și din alte colonii limitrofe au pus imediat la punct setul documentar Fundamental Orders of Connecticut (1639), tratat privit public de comunitatea americană drept prim-modelul veritabil absolut al unei Constituții Occidentale funcționale. Secolele 19 și 20 au înclinat puterea totală la nivel corporativ, metropola fiind botezată pe bună dreptate global „Capitala Mondială a Asigurărilor” (The Insurance Capital of the World), cu giganți faimoși stabiliți permanent de foarte mult timp (ca spre exemplu grupul The Hartford în anul 1810). Istorie K8 — actele constituționale primordiale timpurii.",
+      "factsAdvanced": [
+        "Reverendul Thomas Hooker a stabilit așezarea engleză formalizată aici în primăvara anului 1636.",
+        "Fundamental Orders (1639), scrise aici, sunt prima constituție documentată cert din SUA.",
+        "Supranumită mondial „Capitala Asigurărilor” deoarece majoritatea giganților financiari își au sediul aici din anii 1800.",
+        "Cel mai vechi muzeu de artă fină public (Wadsworth Atheneum) a fost ridicat exact la Hartford în anul 1842.",
+        "Autorul universal cunoscut Mark Twain a scris principalele sale capodopere chiar din reședința luxoasă din acest oraș.",
+        "Posedă prima rețea parcuri orășenești integral planificată a țării realizată central, respectiv faimosul Bushnell Park (1854)."
+      ]
+    },
+    {
+      "id": "salt-lake-city-cities-v2",
+      "descriptionAdvanced": "Salt Lake City se impune solitar din munții de coastă ca nucleul vital cel mai populat, cât și stat-capitală perfect planificată a deșerticului stat Utah, fondat direct în vara secetoasă a lui 1847 sub ordinul și conducerea fermă teocratică a prim-pionierului mormon Brigham Young („Acesta este locul”). Pe fondul refugierii religioase disperate a mormonilor s-a materializat colosalul Temple Square (Piața Templului), adăpostind impresionantul și simetricul Templu din Salt Lake, la care mii de constructori manuali au ridicat vreme incredibilă de nu mai puțin de 40 de ani. Așezat extrem în aproprierea apelor intens saline ale uriașului Marele Lac Sărat, orașul domină activ pe o piață gigantică dedicată recreerii montane și skiului de top extrem, o ramură care s-a materializat prin onorabila susținere cu grație a Olimpiadei albe de iarnă apărută în anul 2002. Geografie K7 — relieful masiv sărat, fundul de bazin fosil și munții de zăpadă.",
+      "factsAdvanced": [
+        "Comunitatea sectară și vizionară cu scop religios a așezat orașul în vara uscată a lui 1847.",
+        "Grandiosul lor Templu (Salt Lake Temple) a consumat truda ridicării sale în exact patru decenii grele (1853-1893).",
+        "Bulevardele centrale s-au turnat la mărimea potrivită încât carul larg cu boi putea face exact o întoarcere din loc.",
+        "În apropiere extrem de vizuală se află cel mai masiv corp hiper-salin hidrologic din tot spațiul emisferei de apus.",
+        "Jocurile pure de iarnă pe tematică globală olimpică au onorat cu medaliile lor locul excelent în iarna anului 2002.",
+        "Corul muzical absolut celbru al mormonilor a înființat prima audiție acompaniat de orgă monumentală."
+      ]
+    },
+    {
+      "id": "charleston-sc-cities-v2",
+      "descriptionAdvanced": "Charleston se deschide idilic și bogat arhitectural la marginea țărmurilor oceanice atlantice sud-estice aparținând direct de regiunea administrativă a Carolinei de Sud, pe cursul apelor la întâlnirea directă pe gurile largi făcute din brațele de confluență Ashley și Cooper. Unul din bastioanele fondatoare primare originale (din cele 13 colonii masive originare) stabilit cert la comanda expresă de către domnitorul de peste ochi, Regele Carol al II-lea chiar pe durata timpurie din 1670. Istoria de peisaj întunecat a locului i-a adus așezării poziția detestată ca numărul unu port din rețeaua colosală a sistemului de import maritim greu de robi sclavi africani trecuți pentru uz de plantații pe timpul a sute de ani recenți. Cu mult mai târziu a deschis direct oficial teatrul masiv sângeros din războaiele civile tocmai prin bombardarea exact în ziua de 12 din aprilie 1861 din plin asupra structurii de piatră faimoasă din apă — Fortul Sumter. Orașul susține strict azi regulamente severe absolut obligatorii destinate spre o ocrotire fermă estetică referitoare la zonele străvechi stradale pline de balcoane sudiste superbe din metal, curți lungi, biserici cu multe culori vibrante. Istorie K8 — războiul civil și portul prim-sclavagist.",
+      "factsAdvanced": [
+        "Piatra istorică de temelie engleză (Charles Town) este atestată ca așezată administrativ direct prin 1670.",
+        "La scurt timp de la fondare devenise focarul maxim cu populație centrală și import nefiresc exclusiv bazat direct de scalvie din Marea Britanie de Nord.",
+        "Din fața faimoasei structuri navale (Fortul Sumter) din mijloc de râu a deschis primul atac crunt al Uniunii Civile Americane la anul 1861.",
+        "E unicul port național estic urban protejând neclintit estetica și patrimoniul clădirilor pline de ziduri antebelice masive.",
+        "Cea dintâi instituție administrativă pur muzeală de clasă general publică și-a așezat o fundație fermă pe teritoriul său chiar direct la jumătatea intervalului al 18-lea (anul 1773).",
+        "Fenomenul groaznic al vremii (Cutremurul greu Charleston situat fix pe anii 1886) a scuturat uriaș coasta continentală de rocă."
+      ]
+    },
+    {
+      "id": "savannah-cities-v2",
+      "descriptionAdvanced": "Savannah tronează în cel mai înalt punct romantic istoric național în fața apelor pe marginea nord-estică inferioară din întinderea statului american de bază Georgia. Generalul de avangardă vizionar filantrop englez Oglethorpe fonda structura chiar începând sub ordin la 1733, definind o grilă clar unică arhitectural ce lăsa un loc larg dedicat pentru parcuri vegetale sub forma pur simplă de mari piețe stradale pline (peste un număr original masiv de cel puțin 24 pătrate, un total impresionant supraviețuind a 22 astăzi). Spre o foarte interesantă excepție pur teritorială opus față altor așezări sudice pârjolite din acele lupte groaznice a marelui conflict (Războiul Civil American fix sfârșind cu anul de 1864), generalul tactician W. Sherman era așa covârșitor uluit privitor de bogata estetică naturală neegalată a arhitecturilor urbei sale pe mare ca prefera s-o conserve integral pe rol formal oferită drept simbolic marelui său președinte unicat statal Lincoln ca pe minunat cadou public oferit sub sărbătoarea de iarnă pe Crăciun. Așezarea are un renume masiv datorat plinirii sale portuare economice, dar se arată și recunoscut ca paradis de umbră naturală compusă cu crengile lăsate larg din falnicii săi masivi stejari. Geografie K7 — estetica urbanismului timpuriu european integrat cu flora americană.",
+      "factsAdvanced": [
+        "Orașul prim capital (oficial administrativ) pentru structura Georgiei creată strategic apărând masiv din fondurile din primăvara de april 1733.",
+        "Se întinde pur organic absolut integral proiectată precis la nivel stradal direct pe format special grilă fix complet plin cu piețe la centrul vegetativ arboric vast.",
+        "Nu se asociază fizic victimelor sudiste dărâmate crunt pe marele val din campania masivă (anul de sfârșit fiind fix al 1864).",
+        "Posedă mândru un lăcaș cu enoriași (Biserica masivă First African Baptist de negri formali) certificată funcțională națională fondată pe 1773.",
+        "Înainte de abolire oficială, se situa la capitol imens fix de tranzit central comercial greu prin pachete prețioase provenite cu culturi pe terenuri vaste cu fibre pure locale (bumbac).",
+        "Acest mare teren sudic de bază al său constituie masiv polul absolut preferat de atracție de tihnă pur conservată și străzi cu vechi fantezii naționale de groază și fantome."
+      ]
+    },
+    {
+      "id": "santa-fe-cities-v2",
+      "descriptionAdvanced": "Santa Fe este o perlă istorică situată la o altitudine impresionantă de peste 2.100 de metri la poalele munților Sangre de Cristo, remarcându-se drept capitala statului New Mexico și, de departe, cea mai înaltă capitală din teritoriul Statelor Unite. Fondat la începutul anilor 1600 (oficial în 1610) de guvernatorul spaniol Don Pedro de Peralta, este cel mai vechi scaun de capitală continuu locuit din America de Nord, precedând așezarea britanică de la Plymouth. Arhitectura sa de referință este unică, fiind impusă prin lege stilul de construcție „Pueblo Revival” (structuri din chirpici cu grinzi aparente de lemn) care se îmbină perfect cu peisajul uscat și cerul albastru vibrant. Santa Fe este un titan mondial în domeniul artei, cu renumitul său coridor Canyon Road plin de galerii care expun artă amerindiană și contemporană, clasând adesea orașul printre cele mai importante piețe de artă la nivel global. Istorie K8 — prezența spaniolă pre-britanică și sinteza culturală din sud-vest.",
+      "factsAdvanced": [
+        "A fost fondat oficial de coloniști spanioli în anul de grație 1610.",
+        "Este considerată absolut cea mai veche și timpurie capitală de stat pe teritoriul național american.",
+        "Are o altitudine extremă stabilită clar de bază fiind la 2.194 metri depărtare verticală direct pe deasupra suprafețelor vaste ale mării.",
+        "A devenit pol istoric cultural cu arhitectura unică pe stil „Pueblo” impusă legal masiv.",
+        "Clădirea administrativă Palatul vechi al Guvernatorilor este cel mai vechi sediu public neîntrerupt (construit în 1610).",
+        "Axa turistică din interior oferă cel mai extins volum de vânzări cu tablouri fine sau galerii cu artă masivă din regiune."
+      ]
+    },
+    {
+      "id": "juneau-cities-v2",
+      "descriptionAdvanced": "Juneau, capitala izolată și fascinantă a vastului stat Alaska, așezată maiestuos pe fâșia îngustă a coastei sud-estice (Alaska Panhandle), se mândrește cu faptul că este singura capitală din întregul aparat de stat american unde absolut nicio rețea terestră de mare drum public statal nu ajunge vreodată la teritoriul său, fiind astfel blocată, accesul general realizându-se pur și exclusiv maritim sub ape sau evident doar zburând. Numele său oficial provine tocmai din febra primelor clipe din faza de extracție minerală, fiind atribuit exploratorului Joe Juneau, ce descoperise colosal zăcăminte vizibile fix din anul 1880 masiv din valea de aur neexplorată din stâncă. Economia modernă generală este axată primordial masiv sub două puncte unice clare esențiale mari – gigantice structuri din instituțiile administrației statale care reglează legi și turism pe mari nave care intră uriaș chiar aproape în fața porților clădirilor de lângă port. Atracția sa primară spectaculoasă extrem vizuală rece se rezumă masiv la enormul râu activ de la ghețarul solid Mendenhall, capabil cu adevărat ca un ghețar ce merge singur prin marginea văii urbane spre ocean. Geografie K7 — așezări urbane dependente de izolare.",
+      "factsAdvanced": [
+        "Exploatarea sa s-a așezat clar din fondurile unui prim aur pur masiv aflat local acolo stabilit sub ordin de 1880.",
+        "Reprezintă oficial unicul centru administrativ-capitală unde rețeaua șoselelor grele naționale refuză orice capăt clar spre fața clădirilor.",
+        "Orașul administrativ și marea masă teritorială de lângă el se prezintă pe scara uriașelor masive depășind ușor direct ambele suprafețe insule destinații pe un continent.",
+        "Ghețarul impunător faimos Mendenhall înaintează permanent direct până extrem aproape de granița de fațadă stradală locală a urbei.",
+        "Găzduiește sediul oficial administrativ suprem de unde se conduc absolut toate activitățile de uriaș stat masiv Alaska (stabilit după anul oficial administrativ legal istoric din anul 1906).",
+        "Un sfert de million din numărul croazierelor mamut mari trag regulat marea frână în apă estival la limitele urbane la capete locale urbane izolate portuare."
+      ]
+    },
+    {
+      "id": "montgomery-cities-v2",
+      "descriptionAdvanced": "Montgomery preia istoria sudică situată strategic esențial exact în albia mijlocie, masiv înălțată administrativ drept nucleul decizional fundamental din vastul stat Alabama. Ca așezare pe râul adânc ce a preluat exact denumirea (din engleza Alabama River), s-a materializat vizibil fuziunea coloniilor primordiale pe prag de 1819 formând rapid principalul gigant național port intern dominat cert din volum de import imens negru. Astăzi locul menține o aură istorică crunt contrastantă ca „Fosta capitală supremă și de formare oficială a națiunii statelor confederate sudice separatiste” (februarie 1861), reconfigurat glorios spre rolul unui titan colosal unde dreptul afro-american a spart legal prima redută prin celebrul asediu masiv cu refuz prin staționarea neclintită condusă eroic absolut public de Rosa Parks. Prin faimosul lung și periculos „Marș de vot Selam – Montgomery” ghidat național în masă ferm la 1965 pe front clar organizat cu Martin Luther King, orizontul țării avea absolut reformat dreptul pe viitor. Istorie K8 — abolirea regimurilor inegale în spațiul sud-vestic afro-american.",
+      "factsAdvanced": [
+        "Baza sa pur de așezământ a primit formal denumire administrativ cert cu aprobarea din fața publicului de stat istoric de pe prag fix la anul oficial unificat comun 1819.",
+        "Reprezentase la debut masiv prima redută administrativă guvernamentală (capitală complet unificată a sudului) exclusiv operativ pe confederația sudică anul clar din istorie civilă grea 1861.",
+        "Revolta masivă, absolut cunoscută în lume pur național sub denumirea pură a marilor masive refuzuri de „boicot de la o cursă legală auto la transport public local de autobuz”, a plecat public cu o refuzare absolut precisă de arest sub forma Rosa Parks an curat de 1955.",
+        "Orașul domină polul masiv de sfârșit triumfător național prin celebrul drept mărșăluitor uriaș pornit masiv pe greutatea fix drumului ce cobora din perimetrul la vest Selma pe prag anul mândru de luptă de 1965.",
+        "Acolo este ancorat masiv Memorialul Monumental al Fostelor Vieți pentru Nedreptăți Rasiste Civil Național apărut deschis de scurt deceniu anul public național istoric din 2018.",
+        "Armata forțelor aeronautice menține greu prezența bazelor aeriene militare operative Maxwell de decenii de elită avansate clar active prezente activ de mult oficial din bază militară de război cu front pe 1918."
+      ]
+    },
+    {
+      "id": "annapolis-cities-v2",
+      "descriptionAdvanced": "Annapolis s-a organizat stabil cu finețe sub linia pitorească chiar adânc unde s-a deschis falnicul bazin oceanic format ca estuar a apei din Golful Chesapeake și susține puternic autoritatea statului mândru de graniță pur administrativ pe stat Maryland. Fixată solid prima așezământare stabil formată cert pur cu coloniști aduși și sosiți cert la fel din spațiul englez prim în 1649 cu prima titulatură scurtată Providence, iar botezul de la final a apărut spre onoarea numelui oficial preluat din prințesă prin 1694. Orașul are la dispoziție o perioadă clară din timpul de formare federal unde a reprezentat precis cu greutate absolut pură centrul capitalei statale SUA din rândul păcii de după final război (Tratatul la Paris an bun eliberator din 1783-1784 din greu revoluționar unde se consfințește pace totală armată engleză SUA la capitoliu său local istoric activ). De departe orașul azi s-a consacrat clar la statut extrem superior recunoscut militar educativ pe țară găzduind onorabil prestigioasa masivă instituție națională pe profil absolut de formare pur pe nave Academia Națională Navală a Armatei SUA înființată greu dar eficient cu bază pură oficial din secol 19, anul de curs stabilit 1845. Geografie K7 — conservarea golfurilor uriașe continentale.",
+      "factsAdvanced": [
+        "Mândrul pur pământ a fost fix marcat pur clar primul an precis istoric coloniștii an cert în anul general precis pur din prima așezare pe 1649.",
+        "Structura capitoliului administrativ pur de pe stat loc este clădirea original conservată funcțională masiv cu cel mai antic trecut fix ca loc de conducere pur operațional (urcat prima dată cu cărămidă stabilit fix anul fin de secol din anul clar preluat din 1772).",
+        "Oficial masiv teritoriul său general la baza apelor a operat clar formal scaun de conducere ca capitală centrală federație din toamna absolut pur de anul preluat greu de formare stat pe scurt an precis de decizie stabilit la 1783 din decenii de formare din Tratatul formator clar unificat greu stabilit legal istoric pe Paris.",
+        "Baza militar-studențească centrală masivă cu profil a apelor Academie marină pur clar federală (U.S. Naval Academy) lucrează eficient public exclusiv bazat pur fondator la data ferm de oficialitate clară cu sediu central fondat cu baza anul pe mare anul format la 1845.",
+        "A primit extrem meritatul și formal titlu uriaș informal de cel mai important de navigat la barcă din întreaga Americă datorită masivei participări mondiale pe expozițiile mari pur naționale pur dedicate clar navigat mare pe pânză vânt oceanic apărute din sezon festival mare public din an clar recunoscut de expoziții pur apărute pe anul stabilit cert deceniu modern curat stabilit organizat clar sezon festival din 1970."
+      ]
+    },
+    {
+      "id": "albany-ny-cities-v2",
+      "descriptionAdvanced": "Albany străjuiește așezarea dominant pe fluviul superior vestic la Hudson fiind așezat glorios mândru pe teritoriul central guvernamental cu sediul administrativ ca scaun mare pe tot imperiul ca un centru capital din gigant stat de la margine oceanică de sus numit vast greu complet oficial general fixat administrativ în regiune ca New York. Deține în patrimoniul fondării cert istorie masiv adâncă format așezând ferm baza colonială pur ferm stabil fortăreața din prima pură și stabilă bază Fort Orange de tip precis general fort fix format pur din tranzacționare pachet marfă masiv de blănuri fin pe mâna comerț direct olandez exact pur primul ridicat clar pur secol timpurie anul formare istoric din valea fluvial format pe primul precis punct de colonie în an oficial curat precis cu un format stabilit clar 1624. Cu un mare masiv avantaj cu poziție curată geografic din formă clar format în amonte, orașul domină central cu greutate comerț a format extrem clar oficial primul punct esențial cu prima ecluză bază la cel mai uriaș formidabil cu mare trafic curs apă navigație format om masiv cunoscut greu pe prima rută la mare vest ca fiind celebrul masiv Canal fluvial din istorie mare uriaș aplecat la canal format Erie (în deceniu apărut clar stabilit pe an curat deschidere finală din sezon format precis oficial formator de trafic general cert din anul stabilit general deschis 1825). Azi complexul administrativ oficial Empire State Plaza atrage enorm mase formidabil uriaș turism clar din arhitectură pur colosală brutalist dominant fix impunător la guvern oficial a urbei mari moderne ridicat format formidabil pur pe anul mare de complet preluare oficial formator an format din guvern an curat masiv clar stabilit oficial cert anul din deceniu modern masiv așezat precis guvern mare Rockefeller cu a doua fază greu formator an modern fix 1965.",
+      "factsAdvanced": [
+        "Un prim nod clar pur așezare pe centru a plecat fix mândru de pe formator național vechi pur fort original olandez așezat fix formator la primul loc curat național apărut clar anul din sezon an vechi de 1624.",
+        "Orașul și a adjudecat ferm formal permanentul suprem rol curat sediu oficial stat curat stabilit guvernamental centru la decenii de stat apărute curat de formator clar stabil pe general fix anul mare preluat curat an clar cu decizie istoric 1797.",
+        "Locația domină fix strategic o uriașă masiv unică răscruce masiv formidabil la extremitate pur est mare poartă cert a navigației primul pe celebrul Canal general Erie apărut oficial la inaugurare general pe val mare de barjă cu produs complet inaugurat curat mare așezat an din inaugurare trafic an masiv pe an oficial clar 1825.",
+        "Centrul gigantic de decizie oficial Empire State complet masiv finisat public cu artă clară mare statuar pe modern apărut mare pe deceniu oficial completat așezat fixat general clar în plin curat final general din prima modern final 1976.",
+        "Orașul menține respectul extrem oficial absolut formidabil în State la statut general faimos pe un loc pur din bază de pionier general fiind un complet original format stat oficial având formator prim președinte pur național curat de oraș de pe State urcat complet onoare curat președinte curat prim vice M. Van Buren.",
+        "Prezintă o climă uriaș pur cu temperaturi grele iarna datorită mare pur formidabil strat fix clar preluat cert masiv format curenți mari de mare furtuni reci clar masiv curenți mari formidabil de general masiv clar furtună extrem curat masiv vânt arctic cu un prim pur sezon din centru pe nord extrem mare frig nord an."
+      ]
+    },
+    {
+      "id": "harrisburg-cities-v2",
+      "descriptionAdvanced": "Harrisburg se găsește pur majestuos administrativ așezat clar exact cu forma pe râu la masiv din centru cursului oficial mare format din apele mândru recunoscut național Susquehanna pur din inima centrul mândrului puternic masiv pol guvernamental centru general esențial al marelui stat mare general stabilit fix extrem puternic la industrial masiv uriaș stat numit larg curat teritorial la național pur stat Pennsylvania. Preluat clar inițial pur dintr-o rută pur general pe trafic formator clar bazat pe prim formator național uriaș de barjă stabilit ferm ca la început simplu mic simplu centru la trafic din bac mic format simplu național pur pe domeniu negustor pur fix fondator masiv pe fond an așezare pur an general simplu pe vechi 1719 de prim fondator pe curat național numit domn din așezare cert de simplu masiv fondator național Harris de tată general fondator prima bază, el preia târziu onorific marele scaun fix pur suprem statal mare domeniu cu forță public a preluat formal titlu pe stat clar centru pol din anii general fix stabilit la mare mutare formal greu stabilit an național masiv oficial an guvernamental pe anul curat prim apărut cert de schimb fix pe general 1812. Fapt masiv tragic a lovit istoria clar local din apropierea pur zone din uriaș modern cel mai uriaș incident de panică radioactiv extrem absolut faimos național chiar cert masiv național incident format cu bază formidabil din centrala pe reactor nuclee mare uriaș așezat insula larg format Three Mile absolut faimos așezat sud extrem pur scurt național la câțiva mici mari distanțe a apărut la prag istoric deceniu modern spaimă pur mare pe accident masiv nuclear apărut an precis general clar în martie fix oficial anul din clar accident clar an uriaș pur format faimă clar din 1979.",
+      "factsAdvanced": [
+        "Negustorul cu rute masive național cert de râu format la început ferm ca formator primul național stabil a creat național bază fondare primul bac simplu național la prima clar pe râu format stabil din rând an cert vechi din așezământ clar masiv format național apărut an clar bază așezat la 1719.",
+        "Statutul de mare pol decizie a centrului a guvernat preluat curat formal pe titlu capital general greu masiv fixat stabilit așezat la mutare clar mare decizie a guvern național din an ferm stabilit masiv apărut clar național cert la anul prim de oficial format la mutare curat an național an cu guvern 1812.",
+        "Structura capitoliului administrativ domină absolut uriaș prin dom de piatră format enorm formidabil greu cert inspirat de mare pur național recunoscut dom pe național italian biserică mare Roma faimos San Pietro apărut finisat final an cert clar cu oficializare așezat pe a inaugurat mare național inaugurare curat la deceniu început din 1906.",
+        "Accidentul nuclear a stârnit formidabilă faimă cu reacții extreme spaimă pur pe un mare eveniment masiv extrem a lovit fix greu la faimoasa așezare mare a insulei Three Mile Island așezată la sud din apărut format general an pur masiv fix pe un an oficial național cu așezat mare pe an greu 1979.",
+        "Orașul are un gigant cu renume global la fabricare cel mai extins centru expo național anual fix agrar pur formator mare eveniment clar masiv recunoscut național an clar cu masiv show agrar clar pe național format denumit public Farm Show cert cu formare început prima deschidere agrară oficial an format la show an pur 1917.",
+        "Calea de rulaj tren formator național uriaș de prim masiv extrem la podul lung de bază format masiv la râu piatră așezată Rockville mândru punte arc la râu așezată faimos mare din forma masivă la cel mai uriaș masiv clar rând pod clar din lume de piatră lung pur final deschis oficial pur pe an curat deschis fix pe rând an formator clar an 1902."
+      ]
+    },
+    {
+      "id": "trenton-cities-v2",
+      "descriptionAdvanced": "Trenton strălucește în mod esențial administrativ fix așezat așezat clar din fața unui masiv pol uriaș pe domeniu de curs râului adânc de formator la est mare numit național râu larg din zonă denumit general clar cu faimă a fluviul Delaware apărut drept recunoscut pol de masiv forță pur supremă oficial fix stat central uriaș guvernamental pe forma pur mare pe stat a unui mândru statal loc la est format general curat cu recunoscut titlu pur formator oficial pe format New Jersey. Găzduiește clar din moment general uriaș o scenă eroică uriaș recunoscut în mare național manuale pur de lupte fix Război din Revoluție curată apărut așezat cert la bătălie formidabilă de uriaș răsunet cu surprindere națională, moment apărut așezat național formator greu după marea trecere din traversat de George Washington clar ape râului apărut de Crăciun frig pur din mare victorie greu format cu asediu luptă decisivă fix recunoscut Bătălia pur Trenton apărută pe an stabilit istoric cu cert un clar an decizie mare formator 1776 victorie. Deceniile ulterioare au propulsat gigant orașul așezat pe formidabile puteri mari uriaș uzine cu prelucrare pe greu uriaș format așezat clar domeniu masiv de greu formator prelucrat formator clar mare la cabluri tari mari prelucrat clar așezat la fier mare greu pur clar cablu gros folosit oficial curat chiar pentru punți mari formator pod așezat faimos pod format masiv faimă pe pod format mare uriaș formator așezat pod Brooklyn (produs la uzină național recunoscută masiv uzina mare clar apărut pe an cu produs formator pur Roebling format așezat clar masiv de final secol național).",
+      "factsAdvanced": [
+        "Orașul a devenit faimos prin surprinzătoarea victorie din Bătălia de la Trenton în 1776.",
+        "Slujește drept capitală oficială a statului New Jersey, confirmată permanent din 1790.",
+        "Industria sa masivă de oțel a fabricat cablurile masive pentru Podul Brooklyn din New York.",
+        "Podul istoric sub care trec rute majore are deviza 'Trenton Makes, The World Takes'.",
+        "Pentru scurt timp, a fost efectiv prima capitală națională a Americii în iarna lui 1784.",
+        "Prima mașină de poliție din America și prima fabrică de mașini cu aburi au operat aici."
+      ]
+    }
+  ]
+}

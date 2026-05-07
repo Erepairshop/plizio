@@ -24,7 +24,16 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs 2167 méteren van.", "Panorámás kilátást nyújt Đà Lạtra és a központi fennsíkra.", "A legenda szerint egy szerelmespárról nevezték el.", "Népszerű célpont túrázók és turisták számára."],
       ro: ["Cel mai înalt vârf are 2.167 de metri.", "Oferă vederi panoramice ale orașului Đà Lạt și ale Platoului Central.", "Numit după o pereche de iubiți legendari.", "Destinație populară pentru drumeții și turiști."],
       en: ["Highest peak is 2,167 meters.", "Offers panoramic views of Đà Lạt and the Central Highlands.", "Named after a legendary pair of lovers.", "Popular destination for hikers and tourists."]
-    }, image: "/poi-images/langbiang-mountain-relief-v2.webp"},
+    }, image: "/poi-images/langbiang-mountain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Langbiang-Berg ist das markanteste geografische Wahrzeichen in der Nähe von Đà Lạt und ein zentraler Bestandteil der Identität des zentralen Hochlandes. Er besteht aus zwei Hauptgipfeln, von denen der höhere, der Núi Bà, einen weiten Blick über die sanften Hügel der Umgebung und die Stadt Đà Lạt ermöglicht. Der Berg ist tief in der mythologischen Überlieferung der indigenen Koho verwurzelt, deren Kultur eng mit der bergigen Topografie dieser Region verknüpft ist. Geografie K7 — Gebirgsregionen und kulturelle Topografie.",
+      ro: "Muntele Lang Biang, simbolul orașului Dalat, este un platou montan spectaculos oferind panorame asupra regiunilor muntoase din sud, fiind locul unor legende locale despre iubirea dintre doi tineri din triburi diferite."
+    },
+    factsAdvanced: {
+      de: ["Die höchste Erhebung erreicht eine Höhe von 2.167 Metern", "Geografisch Teil der Annamit-Gebirgskette", "Starke kulturelle Bedeutung durch die Legende von Lang und Biang", "Ein wichtiges Ökosystem für die regionale Biodiversität", "Beliebte Destination für ökologischen und alpinen Tourismus", "Das Gelände ist geprägt durch Kiefernwälder und subtropische Vegetation"],
+      ro: ["Cel mai înalt punct din zona Dalat", "Locul legendei iubirii dintre Lang și Biang", "Destinație populară pentru drumeții", "Priveliște panoramică asupra platoului montan", "Punct de atracție pentru iubitorii de natură", "Regiunea este bogată în păduri de pini"]
+    }
+  },
   {
     id: "moc-chau-plateau-relief-v2",
     type: "plateau",
@@ -47,7 +56,16 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Átlagos magassága 1050 méter.", "Vietnám legnagyobb teakermesztési és tejtermelési központja.", "Tavasszal a szilva- és őszibarackfák látványos virágzása.", "Egész évben hűvös és kellemes éghajlat."],
       ro: ["Situat la o altitudine medie de 1.050 de metri.", "Cel mai mare centru de cultivare a ceaiului și producție de lapte din Vietnam.", "Înflorire spectaculoasă a prunilor și piersicilor primăvara.", "Climă răcoroasă și plăcută pe tot parcursul anului."],
       en: ["Located at an average altitude of 1,050 meters.", "Vietnam's largest center for tea cultivation and dairy production.", "Spectacular plum and peach blossoms in spring.", "Cool and pleasant climate all year round."]
-    }, image: "/poi-images/moc-chau-plateau-relief-v2.webp"},
+    }, image: "/poi-images/moc-chau-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mộc-Châu-Hochebene stellt eine geografische Besonderheit in der Provinz Sơn La dar, die sich durch ihre fruchtbaren Böden und ihr mildes, nahezu gemäßigtes Klima auszeichnet. Auf einer durchschnittlichen Höhe von über 1.000 Metern hat sich hier eine spezifische Agrarkultur entwickelt, die vor allem durch ausgedehnte Teeplantagen und eine florierende Milchwirtschaft geprägt ist. Die Landschaft verändert sich saisonal dramatisch, insbesondere durch die spektakuläre Blüte von Pflaumen- und Pfirsichbäumen, was die Hochebene zu einem herausragenden agrar-ökologischen Raum macht. Geografie K6 — Agrarlandschaften und Hochlandklima.",
+      ro: "Platoul Moc Chau este renumit pentru colinele sale verzi acoperite cu plantații de ceai și pentru clima sa răcoroasă, fiind una dintre cele mai frumoase zone montane din nord-vestul Vietnamului."
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe liegt bei etwa 1.050 Metern über dem Meeresspiegel", "Bedeutendes Zentrum für den kommerziellen Anbau von hochwertigem Tee", "Eines der wenigen Gebiete in Vietnam mit erfolgreicher Milchviehwirtschaft", "Bekannt für die saisonale 'weiße' Blüte von Pflaumenbäumen im Frühjahr", "Das milde Klima ermöglicht den Anbau von Produkten der gemäßigten Zonen", "Ein Schlüsselraum für die landwirtschaftliche Entwicklung Nordwest-Vietnams"],
+      ro: ["Platou montan renumit pentru plantații de ceai", "Climă răcoroasă pe tot parcursul anului", "Peisaje cu flori de prun și piersic în sezon", "Destinație de top pentru turism montan", "Regiune agricolă de înaltă altitudine", "Peisaje verzi pitorești"]
+    }
+  },
   {
     id: "mu-cang-chai-terraces-valley-v2",
     type: "valley",
@@ -70,6 +88,12 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["A hmong etnikum hozta létre évszázadok alatt.", "Nemzeti kulturális örökségként elismert.", "Különösen lenyűgöző a betakarítási időszakban, szeptemberben.", "A tájépítészet mesterműve."],
       ro: ["Create de etnia Hmong de-a lungul secolelor.", "Recunoscute ca sit de patrimoniu național.", "Deosebit de impresionante în timpul sezonului de recoltare din septembrie.", "O capodoperă a ingineriei peisagistice."],
       en: ["Created by the Hmong ethnic people over centuries.", "Recognized as a national heritage site.", "Especially stunning during the harvest season in September.", "A masterpiece of landscape engineering."]
+    },
+    descriptionAdvanced: {
+      ro: "Mu Cang Chai este faimos pentru terasele sale de orez spectaculoase, sculptate în versanții munților, fiind un exemplu fascinant de adaptare umană și frumusețe naturală."
+    },
+    factsAdvanced: {
+      ro: ["Renumit pentru terasele de orez pe versanți", "Peisaj cultural recunoscut la nivel național", "Regiune locuită preponderent de etnia Hmong", "Sezonul recoltei creează o imagine aurie unică", "Destinație esențială pentru fotografie", "Adaptare ingenioasă la relief muntos"]
     }
   },
   {
@@ -94,7 +118,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Trường Sơn-hegységként is ismert.", "Számos endemikus faj otthona, mint például a szaola.", "A Ho Si Minh-ösvény áthaladt ezen a hegységen.", "Vietnám sok nagy folyójának forrása."],
       ro: ["Cunoscut și sub numele de Munții Trường Sơn.", "Habitat pentru multe specii endemice, cum ar fi Saola.", "Drumul Ho Chi Minh a trecut prin acest lanț muntos.", "Sursa multor râuri majore din Vietnam."],
       en: ["Also known as the Trường Sơn mountains.", "Home to many endemic species, such as the Saola.", "The Ho Chi Minh Trail ran through this range.", "Source of many of Vietnam's major rivers."]
-    }, image: "/poi-images/an-namite-range-mountain-v2.webp"},
+    }, image: "/poi-images/an-namite-range-mountain-v2.webp",
+    descriptionAdvanced: {
+      ro: "Lanțul muntos Annamite (Truong Son) reprezintă coloana vertebrală a Indochinei, separând Vietnamul de Laos și Cambodgia, fiind un punct critic pentru biodiversitate și istorie."
+    },
+    factsAdvanced: {
+      ro: ["Lanț muntos major al Indochinei", "Separator natural între Vietnam, Laos și Cambodgia", "Regiune de o biodiversitate imensă", "Istorie militară legată de Traseul Ho Chi Minh", "Include vârfuri înalte și văi adânci", "Barieră climatică între coasta de est și interior"]
+    }
+  },
   {
     id: "da-lat-plateau-relief-v2",
     type: "plateau",
@@ -117,6 +148,12 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Fontos virág-, zöldség- és kávétermesztő terület.", "A várost a francia gyarmati építészet jellemzi.", "Tavak, vízesések és fenyőerdők veszik körül.", "Népszerű üdülőhely a vietnámiak körében."],
       ro: ["Zonă importantă pentru cultivarea florilor, legumelor și cafelei.", "Arhitectura colonială franceză caracterizează orașul.", "Înconjurat de lacuri, cascade și păduri de pini.", "Destinație populară de vacanță pentru vietnamezi."],
       en: ["Major cultivation area for flowers, vegetables, and coffee.", "French colonial architecture characterizes the city.", "Surrounded by lakes, waterfalls, and pine forests.", "A popular holiday resort for Vietnamese people."]
+    },
+    descriptionAdvanced: {
+      ro: "Platoul Da Lat este o regiune înaltă cu climat temperat, oferind un refugiu natural plin de cascade, lacuri și păduri de pini, fiind 'orașul de vacanță' al epocii coloniale."
+    },
+    factsAdvanced: {
+      ro: ["Regiune înaltă cu climat temperat", "Peisaje cu cascade, lacuri și pini", "Refugiu climatic colonial istoric", "Centru pentru agricultura montană (cafea, flori)", "Altitudine medie de 1.500 metri", "Arhitectură colonială franceză distinctivă"]
     }
   },
   {
@@ -141,7 +178,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["A Forbes magazin a világ egyik legvonzóbb strandjának nevezte.", "Enyhe hullámok és meleg víz egész évben.", "Ideális szörfözéshez és más vízi sportokhoz.", "Számos étterem és szálloda a közelben."],
       ro: ["Numită una dintre cele mai atractive plaje de pe planetă de revista Forbes.", "Valuri blânde și apă caldă pe tot parcursul anului.", "Ideal pentru surfing și alte sporturi nautice.", "Multe restaurante și hoteluri în apropiere."],
       en: ["Named one of the most attractive beaches on the planet by Forbes magazine.", "Gentle waves and warm water year-round.", "Ideal for surfing and other water sports.", "Many restaurants and hotels nearby."]
-    }, image: "/poi-images/my-khe-beach-coast-v2.webp"},
+    }, image: "/poi-images/my-khe-beach-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Plaja My Khe din Da Nang este considerată una dintre cele mai frumoase plaje din Vietnam, cu nisip alb fin și ape cristaline, fiind un punct principal de atracție turistică și relaxare."
+    },
+    factsAdvanced: {
+      ro: ["Una dintre cele mai frumoase plaje din Vietnam", "Nisip alb fin și ape limpezi", "Situată în orașul Da Nang", "Destinație populară pentru surfing și înot", "Dezvoltare turistică modernă de-a lungul coastei", "Punct de vedere spre Peninsula Son Tra"]
+    }
+  },
   {
     id: "pu-chi-leng-mountain-relief-v2",
     type: "mountain",
@@ -164,7 +208,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Vietnám 10 legmagasabb csúcsa közé tartozik.", "Érintetlen erdőket és változatos növényvilágot kínál.", "Jó fizikai állapotot és helyi vezetőt igényel.", "Híres moha- és páfrányerdőiről."],
       ro: ["Printre primele 10 cele mai înalte vârfuri din Vietnam.", "Oferă păduri virgine și o floră diversă.", "Necesită o bună condiție fizică și un ghid local.", "Renumit pentru pădurile sale de mușchi și ferigi."],
       en: ["Among the top 10 highest peaks in Vietnam.", "Offers pristine forests and diverse flora.", "Requires good physical condition and a local guide.", "Known for its moss and fern forests."]
-    }, image: "/poi-images/pu-chi-leng-mountain-relief-v2.webp"},
+    }, image: "/poi-images/pu-chi-leng-mountain-relief-v2.webp",
+    descriptionAdvanced: {
+      ro: "Pu Chi Leng este un vârf montan impresionant în regiunea de nord-vest, oferind trasee provocatoare pentru pasionații de drumeții și aventură montană."
+    },
+    factsAdvanced: {
+      ro: ["Vârf montan provocator în nord-vest", "Destinație de top pentru alpiniști", "Regiune izolată și sălbatică", "Peisaje montane dramatice", "Altitudine semnificativă în Lanțul Annamite", "Trasee pentru drumeți experimentați"]
+    }
+  },
   {
     id: "mai-chau-valley-relief-v2",
     type: "valley",
@@ -187,7 +238,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Népszerű célpont az ökoturizmus és a falusi turizmus számára.", "Ideális kerékpározáshoz és túrázáshoz.", "Betekintést nyújt a vidéki életbe.", "Körülbelül 135 km-re Hanoitól."],
       ro: ["Destinație populară pentru ecoturism și cazare la localnici.", "Ideal pentru ciclism și drumeții.", "Oferă o privire asupra vieții rurale.", "La aproximativ 135 km de Hanoi."],
       en: ["Popular destination for ecotourism and homestays.", "Ideal for cycling and hiking.", "Offers a glimpse into rural life.", "About 135km from Hanoi."]
-    }, image: "/poi-images/mai-chau-valley-relief-v2.webp"},
+    }, image: "/poi-images/mai-chau-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      ro: "Valea Mai Chau este un refugiu montan idilic, caracterizat prin sate tradiționale ale etniei Thai, culturi de orez și un peisaj de o seninătate remarcabilă în provincia Hoa Binh."
+    },
+    factsAdvanced: {
+      ro: ["Valea pitorească în provincia Hoa Binh", "Centru pentru turismul rural și cultural", "Locuită preponderent de etnia Thai", "Peisaj dominat de orezării și munți", "Destinație pentru drumeții și ciclism", "Atmosferă tradițională liniștită"]
+    }
+  },
   {
     id: "bach-dang-river-mouth-coast-v2",
     type: "coast",
@@ -210,7 +268,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Csaták 938-ban, 981-ben és 1288-ban.", "Az árapály és a cölöpök stratégiai felhasználása.", "Győzelmek a kínai megszállók ellen.", "A vietnámi ellenállás szimbóluma."],
       ro: ["Bătălii în anii 938, 981 și 1288.", "Utilizarea strategică a mareelor și a parilor.", "Victorii împotriva invadatorilor chinezi.", "Un simbol al rezistenței vietnameze."],
       en: ["Battles in 938, 981, and 1288.", "Strategic use of tides and stakes.", "Victories against Chinese invaders.", "A symbol of Vietnamese resistance."]
-    }, image: "/poi-images/bach-dang-river-mouth-coast-v2.webp"},
+    }, image: "/poi-images/bach-dang-river-mouth-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Gura râului Bach Dang are o importanță istorică legendară în Vietnam pentru victoriile navale decisive împotriva invaziilor străine, fiind un sit memorial și un peisaj fluvial strategic."
+    },
+    factsAdvanced: {
+      ro: ["Locul unor victorii navale istorice (938, 1288)", "Importanță strategică în istoria militară", "Sit memorial pentru rezistența națională", "Peisaj fluvial deosebit la vărsarea în mare", "Parte din patrimoniul istoric vietnamez", "Regiune bogată în istorie și legendă"]
+    }
+  },
   {
     id: "ta-xua-mountain-relief-v2",
     type: "mountain",
@@ -233,7 +298,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Népszerű célpont a \"felhővadászok\" számára.", "A fő csúcs 2865 méter magas.", "Kihívást jelentő túrának számít.", "Híres ősi teafáiról."],
       ro: ["Destinație populară pentru \"vânătorii de nori\".", "Vârful principal are 2.865 de metri.", "Considerată o drumeție dificilă.", "Renumit pentru arborii săi de ceai vechi."],
       en: ["Popular destination for 'cloud hunters'.", "The main peak is 2,865 meters high.", "Considered a challenging trek.", "Known for its ancient tea trees."]
-    }, image: "/poi-images/ta-xua-mountain-relief-v2.webp"},
+    }, image: "/poi-images/ta-xua-mountain-relief-v2.webp",
+    descriptionAdvanced: {
+      ro: "Muntele Ta Xua este faimos pentru fenomenul 'mării de nori' care acoperă văile în zori, oferind un peisaj oniric de o frumusețe rară, căutat intens de fotografi."
+    },
+    factsAdvanced: {
+      ro: ["Faimos pentru fenomenul 'mării de nori'", "Destinație populară pentru pasionații de fotografie", "Peisaj oniric spectaculos la răsărit", "Situat în regiunea montană de nord-vest", "Vârf montan provocator pentru drumeții", "Experiență de natură unică"]
+    }
+  },
   {
     id: "mu-ne-dunes-coast-v2",
     type: "coast",
@@ -256,7 +328,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Kétféle dűne: Vörös dűnék és Fehér dűnék.", "A Fehér dűnék a nagyobbak és lenyűgözőbbek.", "Népszerű a homokszánkózás és a quadozás.", "A szél folyamatosan változtatja."],
       ro: ["Două tipuri de dune: Dunele Roșii și Dunele Albe.", "Dunele Albe sunt mai mari și mai impresionante.", "Popular pentru sandboarding și plimbări cu ATV-ul.", "Se schimbă constant datorită vântului."],
       en: ["Two types of dunes: Red Dunes and White Dunes.", "The White Dunes are the larger and more impressive.", "Popular for sand-sledding and ATV rides.", "Constantly shifting due to the wind."]
-    }, image: "/poi-images/mu-ne-dunes-coast-v2.webp"},
+    }, image: "/poi-images/mu-ne-dunes-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Dunele de nisip din Mui Ne oferă un peisaj aproape deșertic pe coasta tropicală a Vietnamului, fiind faimoase pentru dunele roșii și albe care atrag turiștii în căutarea unor experiențe vizuale unice."
+    },
+    factsAdvanced: {
+      ro: ["Peisaj deșertic pe coasta tropicală", "Dune de nisip alb și roșu", "Destinație populară pentru sandboarding", "Situat în provincia Binh Thuan", "Contrast spectaculos între nisip și mare", "Atracție majoră pentru fotografie"]
+    }
+  },
   {
     id: "van-phong-bay-coast-v2",
     type: "coast",
@@ -279,7 +358,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Vietnám egyik legszebb öblének tartják.", "Viszonylag érintetlen a tömegturizmustól.", "Magában foglalja a Hòn Gốm-félszigetet.", "Ideális búvárkodáshoz és vízi sportokhoz."],
       ro: ["Considerat unul dintre cele mai frumoase golfuri din Vietnam.", "Relativ neatins de turismul de masă.", "Include peninsula Hòn Gốm.", "Ideal pentru scufundări și sporturi nautice."],
       en: ["Considered one of Vietnam's most beautiful bays.", "Relatively untouched by mass tourism.", "Includes the Hòn Gốm peninsula.", "Ideal for diving and water sports."]
-    }, image: "/poi-images/van-phong-bay-coast-v2.webp"},
+    }, image: "/poi-images/van-phong-bay-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Golful Van Phong este unul dintre cele mai adânci și protejate golfuri din Vietnam, renumit pentru apele sale limpezi și pentru potențialul său imens de dezvoltare turistică și portuară."
+    },
+    factsAdvanced: {
+      ro: ["Unul dintre cele mai adânci golfuri din Vietnam", "Ape cristaline și biodiversitate marină bogată", "Potențial major pentru dezvoltare portuară", "Destinație în curs de dezvoltare turistică", "Situat în provincia Khanh Hoa", "Peisaj costier spectaculos"]
+    }
+  },
   {
     id: "hon-kho-island-coast-v2",
     type: "coast",
@@ -302,7 +388,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["A 'Hòn Khô' jelentése 'Száraz sziget'.", "A víz alatti ösvény összeköti a szigetet a szárazfölddel.", "Népszerű a búvárkodás és a korallok megfigyelése.", "Rusztikus és autentikus élmény."],
       ro: ["'Hòn Khô' înseamnă 'Insula Uscată'.", "Poteca subacvatică leagă insula de continent.", "Popular pentru snorkeling și vizionarea coralilor.", "O experiență rustică și autentică."],
       en: ["'Hòn Khô' means 'Dry Island'.", "The underwater path connects the island to the mainland.", "Popular for snorkeling and coral viewing.", "A rustic and authentic experience."]
-    }, image: "/poi-images/hon-kho-island-coast-v2.webp"},
+    }, image: "/poi-images/hon-kho-island-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Insula Hon Kho este o bijuterie ascunsă de lângă Quy Nhon, faimoasă pentru plajele sale sălbatice și pentru recifele de corali care atrag pasionații de snorkeling în apele sale limpezi."
+    },
+    factsAdvanced: {
+      ro: ["Insulă sălbatică lângă Quy Nhon", "Recife de corali accesibile pentru snorkeling", "Plaje virgine fără construcții masive", "Destinație pentru turiști care caută natură", "Peisaj stâncos și ape limpezi", "Accesibilă cu barca din Quy Nhon"]
+    }
+  },
   {
     id: "co-to-island-coast-v2",
     type: "coast",
@@ -325,7 +418,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Kevésbé turistás, mint a közeli Halong-öböl.", "Hồng Vàn és Vàn Chảy a leghíresebb strandok.", "Egy világítótorony panorámás kilátást nyújt.", "Külföldi látogatók számára engedély szükséges."],
       ro: ["Mai puțin turistic decât Golful Ha Long din apropiere.", "Hồng Vàn și Vàn Chảy sunt cele mai faimoase plaje.", "Un far oferă vederi panoramice.", "Necesită un permis pentru vizitatorii străini."],
       en: ["Less touristy than nearby Ha Long Bay.", "Hồng Vàn and Vàn Chảy are the most famous beaches.", "A lighthouse offers panoramic views.", "Requires a permit for foreign visitors."]
-    }, image: "/poi-images/co-to-island-coast-v2.webp"},
+    }, image: "/poi-images/co-to-island-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Insula Co To oferă unele dintre cele mai virgine peisaje insulare din nordul Vietnamului, cu plaje cu nisip alb și o atmosferă liniștită, departe de agitația orașelor mari."
+    },
+    factsAdvanced: {
+      ro: ["Insulă cu peisaje virgine în nord", "Plaje cu nisip alb și ape curate", "Destinație pentru relaxare și natură", "Parte din arhipelagul Quang Ninh", "Atmosferă izolată și liniștită", "Populară pentru camping și explorare"]
+    }
+  },
   {
     id: "phu-yen-coastline-relief-v2",
     type: "coast",
@@ -348,7 +448,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Magában foglalja a Vũng Rô-öbölt és a Xuân Đài-öbölt.", "A Gành Đá Đĩa nemzeti nevezetesség.", "Viszonylag felfedezetlen más tengerparti régiókhoz képest.", "A 'Sárga virágok a zöld füvön' című film forgatási helyszíne."],
       ro: ["Include Golful Vũng Rô și Golful Xuân Đài.", "Gành Đá Đĩa este un reper național.", "Relativ nedescoperită în comparație cu alte regiuni de coastă.", "Locația de filmare pentru filmul 'Flori galbene pe iarbă verde'."],
       en: ["Includes Vũng Rô Bay and Xuân Đài Bay.", "Gành Đá Đĩa is a national landmark.", "Relatively undiscovered compared to other coastal regions.", "Filming location for the movie 'Yellow Flowers on the Green Grass'."]
-    }, image: "/poi-images/phu-yen-coastline-relief-v2.webp"},
+    }, image: "/poi-images/phu-yen-coastline-relief-v2.webp",
+    descriptionAdvanced: {
+      ro: "Coasta provinciei Phu Yen este spectaculoasă prin formațiunile sale geologice de bazalt, în special recifele de piatră în formă de fagure, oferind un peisaj unic în Vietnam."
+    },
+    factsAdvanced: {
+      ro: ["Renumită pentru formațiuni de coloane de bazalt", "Peisaj geologic unic de tip 'fagure'", "Coastă spectaculoasă cu stânci abrupte", "Destinație încă neexploatată masiv de turism", "Peisaje naturale brute și impresionante", "Regiune bogată în atracții geologice"]
+    }
+  },
   {
     id: "ninh-thuan-coastline-desert-v2",
     type: "coast",
@@ -371,6 +478,12 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Vietnám bor- és szőlőtermesztésének központja.", "Magában foglalja a Vĩnh Hy-öbölt és a Núi Chúa Nemzeti Parkot.", "A cham kultúra otthona.", "Az ország legkevesebb csapadékmennyisége."],
       ro: ["Centrul viticulturii și cultivării strugurilor din Vietnam.", "Include Golful Vĩnh Hy și Parcul Național Núi Chúa.", "Acasă pentru cultura Cham.", "Cele mai scăzute precipitații din țară."],
       en: ["Center of grape and wine production in Vietnam.", "Includes Vĩnh Hy Bay and Núi Chúa National Park.", "Home to the Cham culture.", "Lowest rainfall in the country."]
+    },
+    descriptionAdvanced: {
+      ro: "Coasta Ninh Thuan se remarcă prin peisajul său arid, singura zonă din Vietnam cu caracteristici cvasi-deșertice, oferind un contrast fascinant între arșiță și mare."
+    },
+    factsAdvanced: {
+      ro: ["Singura zonă aridă din Vietnam", "Peisaj de coastă cu caracteristici deșertice", "Cunoscută pentru viile sale de calitate", "Contraste vizuale între arșiță și mare", "Regiune cu soare intens pe tot parcursul anului", "Destinație pentru aventuri off-road"]
     }
   },
   {
@@ -395,7 +508,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["A Nhật Lệ strand az egyik legismertebb.", "A Đá Nhảy (táncoló sziklák) strand egyedülálló sziklaképződményekkel rendelkezik.", "Fontos hely a halászat számára.", "A vietnámi háború alatti harcok helyszíne."],
       ro: ["Plaja Nhật Lệ este una dintre cele mai renumite.", "Plaja Đá Nhảy (stâncile dansatoare) are formațiuni stâncoase unice.", "Locație importantă pentru pescuit.", "Scena luptelor din timpul Războiului din Vietnam."],
       en: ["Nhật Lệ beach is one of the most famous.", "Đá Nhảy (Dancing Rocks) beach has unique rock formations.", "Important location for fishing.", "Scene of battles during the Vietnam War."]
-    }, image: "/poi-images/quang-binh-coast-v2.webp"},
+    }, image: "/poi-images/quang-binh-coast-v2.webp",
+    descriptionAdvanced: {
+      ro: "Coasta provinciei Quang Binh este o fâșie impresionantă de nisip și stânci, fiind poarta de acces spre marile peșteri ale Vietnamului, îmbinând turismul maritim cu cel speologic."
+    },
+    factsAdvanced: {
+      ro: ["Poartă spre marile sisteme de peșteri", "Coastă lungă cu nisip fin", "Îmbină turismul maritim cu cel speologic", "Peisaje naturale diverse și atractive", "Regiune cu istorie bogată în perioada de război", "Destinație în dezvoltare turistică rapidă"]
+    }
+  },
   {
     id: "deo-ngang-pass-mountain-v2",
     type: "mountain",
@@ -418,7 +538,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["A Champa és Đại Việt királyságok történelmi határa.", "Jelentése 'Vízszintes hágó'.", "Ma egy alagút vezet a hágó alatt.", "Hoành Sơn Quan kapu a csúcson."],
       ro: ["Granița istorică dintre regatele Champa și Đại Việt.", "Înseamnă 'Pasul Orizontal'.", "Astăzi, un tunel trece pe sub pas.", "Poarta Hoành Sơn Quan la vârf."],
       en: ["Historical border between the Champa and Đại Việt kingdoms.", "Means 'Horizontal Pass'.", "A tunnel now runs beneath the pass.", "Hoành Sơn Quan gate at the summit."]
-    }, image: "/poi-images/deo-ngang-pass-mountain-v2.webp"},
+    }, image: "/poi-images/deo-ngang-pass-mountain-v2.webp",
+    descriptionAdvanced: {
+      ro: "Pasul Deo Ngang, situat la granița între provinciile Ha Tinh și Quang Binh, este un punct geografic și istoric important, oferind o priveliște grandioasă asupra mării și a munților."
+    },
+    factsAdvanced: {
+      ro: ["Pas montan istoric important", "Granița între provinciile Ha Tinh și Quang Binh", "Priveliște grandioasă asupra mării", "Punct de referință în poezia vietnameză", "Parte a drumului național strategic", "Peisaj spectaculos de munte și coastă"]
+    }
+  },
   {
     id: "ba-na-hills-mountain-v2",
     type: "mountain",
@@ -441,7 +568,14 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Közel 1500 méter magasan fekszik.", "Több világrekordot tart a felvonórendszerével.", "A kőkezek által tartott Arany híd a fő látványosság.", "Hűvösebb éghajlat, mint a tengerparti Da Nangban."],
       ro: ["Situat la o altitudine de aproape 1.500 de metri.", "Deține mai multe recorduri mondiale pentru sistemul său de telecabine.", "Podul de Aur, ținut de mâini de piatră, este atracția principală.", "Climă mai răcoroasă decât în orașul de coastă Da Nang."],
       en: ["Located at an altitude of nearly 1,500 meters.", "Holds several world records for its cable car system.", "The Golden Bridge held by stone hands is the main attraction.", "Cooler climate than coastal Da Nang."]
-    }, image: "/poi-images/ba-na-hills-mountain-v2.webp"},
+    }, image: "/poi-images/ba-na-hills-mountain-v2.webp",
+    descriptionAdvanced: {
+      ro: "Ba Na Hills este o stațiune montană dezvoltată în perioada colonială, transformată astăzi într-un parc tematic spectaculos, renumit pentru podurile sale suspendate și climatul răcoros."
+    },
+    factsAdvanced: {
+      ro: ["Stațiune montană dezvoltată în perioada colonială", "Acasă pentru faimosul Pod de Aur", "Parc tematic și complex turistic modern", "Climat răcoros la altitudine", "Acces prin una dintre cele mai lungi telecabine", "Peisaje montane impresionante"]
+    }
+  },
   {
     id: "muong-hoa-valley-relief-v2",
     type: "valley",
@@ -464,6 +598,12 @@ export const poiExtraVietnamReliefV2: POI[] = [
       hu: ["Több etnikai kisebbségi csoport otthona, mint például a hmong, dao és giay.", "A sziklavésetek nemzeti kulturális örökséget képeznek.", "Egy függőhíd szeli át a folyót.", "Népszerű túraterület Sa Pából kiindulva."],
       ro: ["Acasă pentru mai multe grupuri etnice minoritare precum H'Mông, Dao și Giáy.", "Gravurile pe piatră sunt un sit de patrimoniu național.", "Un pod suspendat traversează râul.", "Zonă populară pentru drumeții din Sa Pa."],
       en: ["Home to several ethnic minority groups like the H'Mông, Dao, and Giáy.", "The rock carvings are a national heritage site.", "A suspension bridge crosses the river.", "Popular trekking area from Sa Pa."]
+    },
+    descriptionAdvanced: {
+      ro: "Valea Muong Hoa, situată lângă Sapa, este celebră pentru terasele sale de orez care creează o mare verde pe versanții munților, găzduind totodată comunități etnice vibrante."
+    },
+    factsAdvanced: {
+      ro: ["Valea faimoasă pentru terasele de orez", "Situată în proximitatea orașului Sapa", "Locuită de comunități etnice locale (Hmong)", "Peisaje spectaculoase pentru drumeții", "Cultură tradițională bine conservată", "Punct de atracție pentru iubitorii de natură"]
     }
   }
 ]

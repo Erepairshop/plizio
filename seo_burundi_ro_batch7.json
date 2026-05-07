@@ -1,0 +1,27 @@
+{
+  "lang": "ro",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mikuba-relief-v2",
+      "descriptionAdvanced": "Zona muntoasă Mikuba se remarcă printr-un relief impunător care contribuie la diversitatea geografică a Burundiului, oferind un mediu propice pentru conservarea speciilor locale și reglarea fluxurilor de apă. Versanții săi, adesea acoperiți de vegetație montană, joacă un rol vital în prevenirea degradării solului și menținerea stabilității ecologice în regiunile joase din apropiere. Comunitățile care trăiesc în proximitatea masivului Mikuba au învățat să trăiască în armonie cu acest relief complex, utilizând resursele oferite într-un mod care respectă echilibrul natural al zonei. Geografie K7 — conservarea habitatelor montane.",
+      "factsAdvanced": [
+        "Masivul Mikuba prezintă un relief caracterizat prin înălțimi considerabile.",
+        "Zona este esențială pentru protejarea biodiversității montane.",
+        "Relieful influențează direct regimul local de precipitații.",
+        "Prevenirea alunecărilor de teren este o prioritate în gestionarea zonei.",
+        "Mikuba servește ca punct de reper natural pentru locuitorii regiunii.",
+        "Ecosistemele montane de aici sunt monitorizate pentru conservare."
+      ]
+    }
+  ]
+}

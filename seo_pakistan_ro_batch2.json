@@ -1,0 +1,115 @@
+{
+  "lang": "ro",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jacobabad-cities-v2",
+      "descriptionAdvanced": "Jacobabad este un oraș din provincia Sindh, renumit la nivel mondial pentru că înregistrează unele dintre cele mai ridicate temperaturi de pe Pământ pe timpul verii, adesea depășind 50 de grade Celsius. Orașul a fost fondat în 1847 de generalul britanic John Jacob și păstrează încă influențe din perioada colonială în arhitectura sa. Astăzi, cu o populație de peste 190.000 de locuitori, servește ca un nod agricol și feroviar esențial, conectând Sindh cu provincia Balochistan. Geografie K7 — climă extremă și infrastructură colonială.",
+      "factsAdvanced": ["Fondat în 1847 de generalul britanic John Jacob", "Renumit pentru temperaturile sale de vară de peste 50°C", "Situat în nordul provinciei Sindh", "Populația orașului depășește 190.000 de locuitori", "Nod de legătură feroviară important între Sindh și Balochistan", "Are o economie bazată în principal pe comerțul agricol"]
+    },
+    {
+      "id": "khairpur-cities-v2",
+      "descriptionAdvanced": "Khairpur a fost odinioară capitala unui stat princiar prosper condus de dinastia Talpur, care s-a alăturat Pakistanului în 1955. Orașul găzduiește minunatul palat Faiz Mahal, o structură grandioasă ce reflectă bogăția istorică a regiunii. Astăzi, zona este lider național în producția de curmale de înaltă calitate, exportate pe piețele globale. Cu o populație ce se apropie de 180.000 de locuitori, Khairpur menține un echilibru între patrimoniul său nobiliar și agricultura modernă intensivă. Istorie K8 — state princiare și arhitectură istorică.",
+      "factsAdvanced": ["Fosta capitală a unui stat princiar condus de dinastia Talpur", "Găzduiește magnificul palat istoric Faiz Mahal", "Cel mai mare producător de curmale din Pakistan", "S-a integrat oficial în statul pakistanez în anul 1955", "Populația se apropie de 180.000 de locuitori", "Cunoscut pentru universitatea sa proeminentă, Shah Abdul Latif University"]
+    },
+    {
+      "id": "burewala-cities-v2",
+      "descriptionAdvanced": "Burewala, situat în sudul Punjabului, este unul dintre cele mai importante centre asiatice pentru producția și prelucrarea bumbacului, găzduind unele dintre cele mai mari fabrici de textile din țară. Acest oraș agrar, alimentat de canalele extinse de irigații, produce, de asemenea, cantități masive de cereale și fructe. Cu o populație de peste 230.000 de locuitori, Burewala are și o latură sportivă puternică, fiind locul de naștere al faimosului jucător de cricket Waqar Younis. Geografie K7 — industria textilă și irigații.",
+      "factsAdvanced": ["Unul dintre cele mai mari centre asiatice pentru textile și bumbac", "Situat în sudul provinciei Punjab", "Locul de naștere al legendei cricketului Waqar Younis", "Populația depășește 230.000 de locuitori", "Economia se bazează pe irigațiile masive din râurile locale", "Susține zeci de fabrici mari de prelucrare a fibrelor"]
+    },
+    {
+      "id": "pakpattan-cities-v2",
+      "descriptionAdvanced": "Pakpattan este unul dintre cele mai vechi orașe din Pakistan, având o semnificație spirituală profundă ca loc de odihnă al legendarului poet și sfânt sufit Baba Fariduddin Ganjshakar. Sute de mii de pelerini vizitează anual altarul său. Așezarea are rădăcini care datează din perioada campaniilor lui Alexandru cel Mare, fiind cunoscută inițial ca Ajodhan. Astăzi, acest oraș vibrant din Punjab are peste 170.000 de locuitori și o economie susținută de solurile fertile irigate de râul Sutlej. Istorie K8 — misticismul sufit și așezări antice.",
+      "factsAdvanced": ["Cunoscut în antichitate sub numele de Ajodhan", "Găzduiește altarul marelui sfânt sufit Baba Farid", "Atrage sute de mii de pelerini anual", "Populația depășește 170.000 de locuitori", "Are origini care datează din perioada antică a regiunii", "Situat pe malurile fertile ale râului Sutlej"]
+    },
+    {
+      "id": "charsadda-cities-v2",
+      "descriptionAdvanced": "Charsadda, situat la confluența râurilor Swat și Kabul în Khyber Pakhtunkhwa, este locul unde se afla faimosul oraș antic Pushkalavati, fosta capitală a regiunii Gandhara din secolul 6 î.Hr. Astăzi, ruinele sale, precum cele de la Bala Hisar, atrag arheologi din întreaga lume. Populația actuală este de aproximativ 110.000 de locuitori, iar economia se bazează pe prelucrarea trestiei de zahăr, a tutunului și a sfeclei de zahăr, fiind o zonă cu terenuri extrem de fertile. Istorie K8 — civilizația Gandhara și situri arheologice.",
+      "factsAdvanced": ["Fosta locație a capitalei antice Pushkalavati", "Ruinele Bala Hisar datează din secolul 6 î.Hr.", "Situat la confluența râurilor Swat și Kabul", "Populația modernă este de aproximativ 110.000 de locuitori", "Centru de cultură pentru civilizația budistă Gandhara", "Bogat în culturi comerciale precum trestia și sfecla de zahăr"]
+    },
+    {
+      "id": "wazirabad-cities-v2",
+      "descriptionAdvanced": "Wazirabad, un oraș vibrant din districtul Gujranwala din Punjab, este recunoscut la nivel internațional drept capitala pakistaneză a tacâmurilor. Acesta exportă milioane de cuțite, săbii tradiționale și instrumente chirurgicale de înaltă precizie către piețele din Europa și Statele Unite. Istoric, a fost fondat de un vizir al imperiului Mughal. Astăzi, are o populație de peste 120.000 de locuitori, fiind o combinație unică de artizanat vechi de secole și inovație metalurgică modernă. Geografie K7 — metalurgie și meșteșuguri de export.",
+      "factsAdvanced": ["Cunoscut la nivel global drept capitala tacâmurilor din Pakistan", "Fondat istoric de un vizir din era Mughal", "Exportă instrumente de precizie și săbii tradiționale în Europa", "Populația depășește 120.000 de locuitori", "Situat în districtul prosper Gujranwala din Punjab", "Ocupă o poziție strategică aproape de râul Chenab"]
+    },
+    {
+      "id": "nowshera-cities-v2",
+      "descriptionAdvanced": "Nowshera, un district strategic din Khyber Pakhtunkhwa, este faimos pentru că găzduiește unul dintre cele mai mari și mai vechi cantoane militare din Pakistan. Datorită poziției sale de-a lungul râului Kabul și a autostrăzii Grand Trunk, orașul a fost vital pentru rutele comerciale și de apărare de secole. Pe lângă importanța sa militară, zona se remarcă prin prezența marii fabrici de hârtie de la Amangarh și prin terenurile sale fertile. Orașul numără peste 120.000 de locuitori activi. Geografie K7 — baze militare și rute comerciale strategice.",
+      "factsAdvanced": ["Găzduiește unul dintre cele mai mari cantoane militare din țară", "Situat pe malurile râului Kabul și pe Grand Trunk Road", "Ocupă un punct de apărare strategic istoric", "Populația sa urbană depășește 120.000 de locuitori", "Cunoscut pentru complexul de hârtie industrială de la Amangarh", "Orașul este parte din provincia Khyber Pakhtunkhwa"]
+    },
+    {
+      "id": "mingora-cities-v2",
+      "descriptionAdvanced": "Mingora este inima comercială a uimitoarei Văi Swat din Khyber Pakhtunkhwa și servește ca principal hub pentru turismul montan din nordul Pakistanului. Orașul atrage mii de vizitatori anual datorită proximității sale față de stațiuni montane precum Malam Jabba și Kalam. Populația a depășit 330.000 de locuitori, făcându-l cel mai mare oraș din districtul Swat. Regiunea este, de asemenea, celebră pentru rezervele sale de smarald și pentru obiectele artizanale fine din lemn și broderii tradiționale. Geografie K7 — turism montan și meșteșuguri regionale.",
+      "factsAdvanced": ["Cel mai mare oraș și centrul comercial al Văii Swat", "Poartă principală de acces către atracțiile montane din nord", "Populația sa depășește 330.000 de locuitori", "Regiunea găzduiește rezerve valoroase de smarald", "Cunoscut pentru obiectele de artizanat și broderiile tradiționale", "Orașul a cunoscut o expansiune rapidă datorită turismului"]
+    },
+    {
+      "id": "turbat-cities-v2",
+      "descriptionAdvanced": "Turbat este un centru cultural și administrativ esențial din regiunea Makran, în sudul provinciei Balochistan. Cunoscut pentru istoria sa bogată legată de folclorul baloch, cum ar fi povestea legendară a lui Punnu și Sassi, orașul este înconjurat de munți stâncoși. Se remarcă prin clima sa toridă și livezile extinse de curmali, care produc unele dintre cele mai dulci soiuri din lume. Deși se află într-o regiune izolată, populația sa de peste 210.000 de locuitori menține rute comerciale vitale spre portul Gwadar. Geografie K7 — regiuni de coastă deșertice și folclor.",
+      "factsAdvanced": ["Cel mai important centru din regiunea Makran a Balochistanului", "Renumit pentru producția a zeci de soiuri de curmale de lux", "Asociat cu povestea folclorică romantică a lui Punnu și Sassi", "Înregistrează frecvent temperaturi extreme pe timpul verii", "Populația a crescut semnificativ, ajungând la peste 210.000 de locuitori", "Acționează ca un coridor logistic spre portul Gwadar"]
+    },
+    {
+      "id": "gwadar-cities-v2",
+      "descriptionAdvanced": "Gwadar este un oraș-port de apă adâncă de pe Marea Arabiei, situat în sud-vestul extrem al Pakistanului. Achiziționat de la Sultanatul Omanului în 1958, orașul a cunoscut o transformare spectaculoasă în ultimul deceniu, devenind inima Coridorului Economic China-Pakistan (CPEC). Cu proiecte masive de infrastructură care includ porturi comerciale și zone industriale, Gwadar este proiectat să devină un centru de tranzit global între Asia, Orientul Mijlociu și Africa. Astăzi, populația depășește 90.000 de locuitori și crește rapid. Geografie K7 — rute maritime și macroeconomie.",
+      "factsAdvanced": ["Port maritim de apă adâncă pe Marea Arabiei", "Teritoriul a fost cumpărat de la Oman în anul 1958", "Punctul central al Coridorului Economic China-Pakistan (CPEC)", "Populația actuală este de aproximativ 90.000 de locuitori", "Dezvoltă infrastructură masivă pentru tranzitul internațional", "Conectează Asia Centrală cu apele calde ale Orientului Mijlociu"]
+    },
+    {
+      "id": "karachi-port-economic-v2",
+      "descriptionAdvanced": "Portul Karachi este cel mai vechi, cel mai mare și cel mai aglomerat port de mare adâncime din Pakistan, situat la Marea Arabiei. Gestionând peste 60% din încărcăturile naționale, el este motorul economiei pakistaneze, facilitând exporturile de textile și importurile de petrol. Cu facilități masive și terminale dedicate containerelor dezvoltate încă din epoca colonială (anul 1887), acest hub lucrează neîncetat. Portul ocupă o suprafață enormă de pe coastă și este esențial pentru funcționarea metropolei Karachi. Geografie K7 — comerț internațional și infrastructură portuară.",
+      "factsAdvanced": ["Cel mai mare și mai aglomerat port din Pakistan", "Gestionează mai mult de 60% din traficul național de mărfuri", "A fost modernizat ca un port major în anul 1887", "Esențial pentru exportul de textile și importul de carburanți", "Este administrat de Karachi Port Trust (KPT)", "Localizat strategic pe țărmul nordic al Mării Arabiei"]
+    },
+    {
+      "id": "gwadar-port-economic-v2",
+      "descriptionAdvanced": "Portul Gwadar, situat strategic pe coasta Mării Arabiei, este un proiect gigant de infrastructură la apă adâncă. Ca pilon al Coridorului Economic China-Pakistan (CPEC), acest port a primit investiții de miliarde de dolari pentru a scurta considerabil rutele comerciale dintre vestul Chinei și Orientul Mijlociu. Faza de funcționare a început în 2007 și a fost extinsă masiv. Portul nu doar că remodelează logistica maritimă regională, ci transformă un mic sat de pescari într-o zonă economică specială de anvergură globală. Geografie K7 — rute de transport și dezvoltare geopolitică.",
+      "factsAdvanced": ["Piesa centrală a Coridorului Economic China-Pakistan (CPEC)", "Prima fază a fost inaugurată oficial în anul 2007", "Conceput pentru a deservi nave cargo de foarte mare tonaj", "Scurtează dramatic rutele logistice dintre China și Orientul Mijlociu", "Atrage investiții străine directe de miliarde de dolari", "Transormă regiunea Balochistan într-un hub geopolitic vital"]
+    },
+    {
+      "id": "faisalabad-textile-industry-economic-v2",
+      "descriptionAdvanced": "Industria textilă din Faisalabad reprezintă inima manufacturii pakistaneze, orașul fiind supranumit "Manchesterul din Pakistan". Având mii de fabrici de țesături, vopsitorii și facilități de confecții, acest sector industrial produce un volum masiv de bumbac filat și îmbrăcăminte finită, generând miliarde de dolari din exporturi. Sectorul angajează sute de mii de muncitori și este vital pentru economia națională. Creșterea sa a fost susținută inițial de agricultura puternică din zona Punjab, bogată în producție de bumbac. Geografie K7 — manufactură și economia bumbacului.",
+      "factsAdvanced": ["Supranumit "Manchesterul din Pakistan" pentru industria sa", "Generează o proporție masivă din exporturile textile ale țării", "Include o rețea imensă de filaturi, țesătorii și fabrici", "Susține locuri de muncă pentru sute de mii de rezidenți", "A profitat de solul bogat în producția de bumbac al Punjabului", "Este un jucător global în piața de îmbrăcăminte gata-făcută"]
+    },
+    {
+      "id": "sialkot-surgical-instruments-economic-v2",
+      "descriptionAdvanced": "Industria instrumentelor chirurgicale din Sialkot este faimoasă la nivel mondial pentru precizia și meșteșugul său. Acest oraș produce anual peste 100 de milioane de instrumente chirurgicale și medicale, exportate către spitale de top din SUA, Europa și Asia. Bazată pe o tradiție centenară care a început prin repararea echipamentelor medicale britanice, industria locală a evoluat într-un complex de sute de fabrici certificate ISO. Inovația și calitatea oțelului folosit sunt factorii cheie ai succesului. Geografie K7 — industrii specializate și comerț global.",
+      "factsAdvanced": ["Produce peste 100 de milioane de instrumente medicale anual", "Exportă la nivel global către SUA, Germania și Marea Britanie", "Tradiția a început cu reparații în perioada colonială britanică", "Are sute de companii locale cu certificări internaționale ISO", "Un exemplu major de industrie de înaltă precizie în Pakistan", "Utilizează predominant oțel inoxidabil de foarte înaltă calitate"]
+    },
+    {
+      "id": "thar-coalfield-mine-economic-v2",
+      "descriptionAdvanced": "Zăcământul de cărbune Thar, situat în vastul Deșert Thar din provincia Sindh, este a șaptea cea mai mare rezervă de cărbune din lume, estimată la 175 de miliarde de tone. Această descoperire masivă transformă în prezent peisajul energetic al Pakistanului. Prin proiecte masive de minerit în carieră deschisă și construcția de centrale termoelectrice locale, zăcământul își propune să rezolve criza națională de electricitate pe termen lung. Proiectul a atras parteneriate internaționale, fiind esențial pentru reducerea importurilor de combustibil. Geografie K7 — resurse naturale și minerit de suprafață.",
+      "factsAdvanced": ["A șaptea cea mai mare rezervă de cărbune din întreaga lume", "Rezervele sunt estimate la 175 de miliarde de tone", "Situat în inima Deșertului Thar din provincia Sindh", "Utilizează metode de minerit la suprafață la scară industrială", "Proiectat pentru a furniza energie electrică pentru decenii", "Parte importantă a planului național de independență energetică"]
+    },
+    {
+      "id": "khewra-salt-mine-economic-v2",
+      "descriptionAdvanced": "Mina de sare Khewra, situată în provincia Punjab, este a doua cea mai mare și cea mai veche mină de sare din lume. Cunoscută pentru faimoasa "sare roz de Himalaya", situl a fost descoperit conform legendelor de caii armatei lui Alexandru cel Mare în 326 î.Hr. Astăzi, mina produce sute de mii de tone de sare anual și este, de asemenea, o atracție turistică spectaculoasă, cu monumente și moschei sculptate integral din blocuri de sare în interiorul galeriilor sale imense. Istorie K8 — minerit antic și geologia sării.",
+      "factsAdvanced": ["A doua cea mai mare mină de sare din întreaga lume", "Descoperirea este atribuită armatei lui Alexandru cel Mare (326 î.Hr.)", "Sursa faimoasei sări roz comercializate ca "sare de Himalaya"", "Include sculpturi interioare iluminate, cum ar fi o moschee de sare", "Atrage aproximativ 250.000 de turiști anuali", "Produce sute de mii de tone de sare pentru industrie și consum"]
+    },
+    {
+      "id": "sui-gas-field-economic-v2",
+      "descriptionAdvanced": "Zăcământul de gaze Sui din provincia Balochistan este cel mai mare zăcământ de gaze naturale din Pakistan, descoperit în 1952. El stă la baza infrastructurii energetice a țării, alimentând milioane de gospodării și industrii printr-o rețea masivă de conducte. Descoperirea sa a fost un punct de cotitură în istoria economică pakistaneză, reducând drastic dependența de cărbune și petrol de import. Complexul din regiunea deșertică produce sute de milioane de metri cubi standard de gaz pe zi. Geografie K7 — extracția combustibililor fosili și securitatea energetică.",
+      "factsAdvanced": ["Cel mai mare zăcământ de gaze naturale din întregul Pakistan", "Descoperit în anul 1952 în provincia aridă Balochistan", "Alimentează rețeaua energetică pentru milioane de gospodării", "A revoluționat industria și economia țării în anii 1950", "Produce sute de milioane de metri cubi de gaz în fiecare zi", "A redus masiv dependența națională de combustibili de import"]
+    },
+    {
+      "id": "tarbela-dam-energy-economic-v2",
+      "descriptionAdvanced": "Barajul Tarbela, masivul monument de inginerie de pe râul Indus, este cel mai mare baraj de pământ umplut din lume. Finalizat în 1976 în regiunea Khyber Pakhtunkhwa, acesta joacă un rol dublu, fiind esențial pentru stocarea apei folosite la irigarea întregului bazin agricol al Pakistanului și pentru generarea de energie hidroelectrică. Cu o capacitate instalată de mii de megawați, el previne inundațiile catastrofale și stabilizează debitul râului pe tot parcursul anului. Geografie K7 — hidroenergie și gestiunea apelor fluviale.",
+      "factsAdvanced": ["Cel mai mare baraj de pământ și rocă umplută din lume", "Finalizat pe parcursul anilor 1970 (1976)", "Construit pe debitul principal al fluviului Indus", "Capacitatea sa hidroelectrică este de mii de megawați", "Crucial pentru irigarea provinciilor agricole aflate în aval", "Lacul său de acumulare controlează eficient inundațiile sezoniere"]
+    },
+    {
+      "id": "lahore-knowledge-park-economic-v2",
+      "descriptionAdvanced": "Lahore Knowledge Park este un proiect tehnologic vizionar lansat în Punjab, destinat să transforme Pakistanul într-o economie bazată pe inovație digitală. Parcul, ce se întinde pe zeci de hectare, este proiectat pentru a atrage companii IT de top, universități de cercetare și startup-uri tehnologice. Prin crearea unui ecosistem asemănător cu Silicon Valley, acesta urmărește să oprească exodul de creiere prin oferirea de locuri de muncă de înaltă tehnologie tinerilor absolvenți. Infrastructura sa modernă promovează colaborarea internațională și dezvoltarea software-ului. Geografie K7 — hub-uri tehnologice și planificare corporativă.",
+      "factsAdvanced": ["Un campus tehnologic masiv dedicat inovației și IT-ului", "Proiectat pentru a crea o economie bazată pe cunoaștere în Punjab", "Urmărește să atragă investiții străine din sectorul de software", "Servește ca incubator pentru universități și startup-uri digitale", "Atrage companii pentru a preveni exodul tinerilor profesioniști", "Include facilități ecologice și laboratoare de cercetare de elită"]
+    },
+    {
+      "id": "gawadar-special-economic-zone-economic-v2",
+      "descriptionAdvanced": "Zona Economică Specială Gwadar (SEZ) este un pol industrial de sute de hectare integrat în masterplanul Coridorului Economic China-Pakistan. Această zonă liberă de taxe a fost proiectată pentru a atrage investitori internaționali în producție, procesarea peștelui și logistică. Oferind scutiri fiscale considerabile pe o perioadă lungă, zona atrage fabrici de asamblare și facilități de ambalare. Este piatra de temelie pentru a transforma orașul Gwadar dintr-un port de tranzit într-o adevărată forță de producție regională. Geografie K7 — zone economice libere și dezvoltare globală.",
+      "factsAdvanced": ["Zonă industrială masivă legată de Portul Gwadar", "Parte esențială a inițiativei Coridorului Economic China-Pakistan", "Oferă scutiri fiscale majore pentru investitorii străini", "Se concentrează pe logistică, manufactură și procesarea peștelui", "Se întinde pe sute de hectare de teren dedicat industriei", "Menită să transforme regiunea într-un pol global de producție"]
+    }
+  ]
+}

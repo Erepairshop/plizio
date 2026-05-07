@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "warri-refinery-economic-v2",
+      "descriptionAdvanced": "The Warri Refining and Petrochemical Company (WRPC) is a highly critical state-owned industrial complex located in Delta State. Commissioned in 1978, it was strategically built to process the abundant crude oil found in the surrounding western Niger Delta. The complex is unique among Nigeria's traditional refineries because it features an integrated petrochemical plant designed to produce carbon black and polypropylene, essential for the plastics and rubber industries. Like its counterpart in Port Harcourt, it has historically suffered from severe operational issues and pipeline sabotage. The facility remains a cornerstone of the national strategy to end reliance on imported petroleum products. Geography K8 — petrochemical integration and state-owned enterprises.",
+      "factsAdvanced": [
+        "Commissioned in 1978 in the oil-rich Delta State.",
+        "A state-owned facility operated by the Nigerian National Petroleum Company (NNPC).",
+        "Has a designed refining capacity of 125,000 barrels of crude oil per day.",
+        "Features an integrated petrochemical plant producing carbon black and polypropylene.",
+        "Historically impacted by severe maintenance issues and regional pipeline vandalism.",
+        "Strategically located near the Escravos River for crude oil intake."
+      ]
+    },
+    {
+      "id": "kaduna-refinery-economic-v2",
+      "descriptionAdvanced": "The Kaduna Refining and Petrochemical Company (KRPC) is a massive, highly complex industrial facility located in northern Nigeria, far from the coastal oil fields. Commissioned in 1980, it was an ambitious project designed to distribute refined fuel effectively to the northern regions. Uniquely, it was built to process both domestic light crude, piped over 600 kilometers from the Niger Delta, and imported heavy crude from Venezuela or Saudi Arabia, allowing it to produce heavy lubricating oils, asphalt, and waxes. This heavy dependency on long-distance pipelines has made it particularly vulnerable to supply disruptions. The refinery remains a vital, albeit troubled, industrial asset for the north. Geography K8 — inland refineries and long-distance pipelines.",
+      "factsAdvanced": [
+        "Commissioned in 1980 as the only oil refinery in northern Nigeria.",
+        "Has a designed capacity of 110,000 barrels per day.",
+        "Uniquely configured to process both domestic light crude and imported heavy crude.",
+        "Relies on a massive, 600-kilometer pipeline network to receive crude from the Delta.",
+        "The only Nigerian refinery designed to produce lubricating oils, asphalt, and wax.",
+        "A state-owned facility operated by the NNPC, currently undergoing rehabilitation."
+      ]
+    },
+    {
+      "id": "ajaokuta-steel-mill-economic-v2",
+      "descriptionAdvanced": "The Ajaokuta Steel Mill is widely considered Nigeria's most ambitious and tragic industrial project, located on the banks of the Niger River in Kogi State. Conceived in the late 1970s with Soviet engineering assistance, the massive, sprawling complex was intended to be the foundation of Nigeria's heavy industrialization, utilizing nearby iron ore deposits at Itakpe. Despite billions of dollars in investment and decades of work, the integrated steel plant has never been completed or fully operational, sitting as a colossal monument to bureaucratic failure and corruption. Sections of the light rolling mill have occasionally functioned, but the dream of a fully domestic steel industry remains unfulfilled. Geography K8 — heavy industry and abandoned mega-projects.",
+      "factsAdvanced": [
+        "Located in Kogi State on the western bank of the Niger River.",
+        "Construction began in 1979 with massive technical assistance from the Soviet Union.",
+        "Designed to be the largest integrated steel complex in Sub-Saharan Africa.",
+        "Relies on nearby iron ore deposits at Itakpe and coal from Enugu.",
+        "Has absorbed billions of dollars in funding but has never been fully completed.",
+        "Often cited as the ultimate example of a 'white elephant' mega-project in Africa."
+      ]
+    },
+    {
+      "id": "delta-steel-company-economic-v2",
+      "descriptionAdvanced": "The Delta Steel Company, located in Aladja, Delta State, was a massive pioneer project intended to jumpstart Nigeria's metallurgical sector. Commissioned in 1982, it was the first steel plant in Africa to utilize the advanced Direct Reduction (DR) technology, converting natural gas and iron ore into high-quality steel billets. The plant was strategically located near Warri to utilize the abundant local natural gas resources. However, severe mismanagement, massive debt, and a lack of steady power and raw materials led to its collapse in the 1990s. It was later privatized and acquired by Premium Steel and Mines, attempting a slow resurrection. Geography K8 — direct reduction steel and privatization.",
+      "factsAdvanced": [
+        "Commissioned in 1982 in Aladja, near Warri in Delta State.",
+        "The first steel plant in Africa to utilize Direct Reduction (DR) technology.",
+        "Designed to produce over 1 million tons of liquid steel annually.",
+        "Relied heavily on the abundant local supply of natural gas.",
+        "Suffered complete operational collapse in the late 1990s due to mismanagement.",
+        "Currently under private management attempting to rehabilitate the rolling mills."
+      ]
+    },
+    {
+      "id": "obajana-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Obajana Cement Plant, located in Kogi State, is a colossal industrial achievement and the undisputed crown jewel of Dangote Cement. Commissioned in 2008, it holds the title of the largest cement production facility in Africa and one of the largest globally. The plant utilizes massive local limestone deposits and is powered by a dedicated natural gas pipeline, making it highly efficient. Its sheer scale of production has fundamentally shifted Nigeria from being a massive importer of cement to a net exporter, fueling extensive infrastructure development across West Africa. The facility is a prime example of successful, large-scale indigenous African industrialization. Geography K8 — mega-factories and industrial self-sufficiency.",
+      "factsAdvanced": [
+        "Located in Kogi State, utilizing massive, high-quality local limestone deposits.",
+        "The largest cement manufacturing facility in Africa.",
+        "Operated by Dangote Cement, an indigenous multinational conglomerate.",
+        "Has a production capacity exceeding 13 million metric tonnes per annum.",
+        "Powered by a dedicated 90-kilometer natural gas pipeline.",
+        "Played a primary role in transforming Nigeria from a cement importer to an exporter."
+      ]
+    },
+    {
+      "id": "ibese-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Ibese Cement Plant is a massive, highly modernized manufacturing facility located in Ogun State, built to aggressively target the massive construction and real estate demands of Lagos and southwestern Nigeria. Operated by Dangote Cement, the plant began operations in 2012 and has continually expanded its production lines. It heavily utilizes local limestone resources and features its own dedicated multi-megawatt power plant to ensure uninterrupted operations. The facility's strategic location near the commercial center of the country drastically reduces transportation costs for bulk cement, significantly driving regional infrastructure projects. Geography K8 — strategic industrial location and construction supply chains.",
+      "factsAdvanced": [
+        "Located in Ogun State, strategically positioned near the massive Lagos market.",
+        "Operated by Dangote Cement, commissioned in 2012.",
+        "Features a production capacity of 12 million metric tonnes per annum.",
+        "Equipped with a massive, dedicated captive power plant.",
+        "Aggressively utilizes the extensive high-grade limestone deposits of the region.",
+        "Crucial for supplying the rapid urbanization and real estate boom in southwestern Nigeria."
+      ]
+    },
+    {
+      "id": "gboko-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Gboko Cement Plant, historically known as the Benue Cement Company (BCC), is a monumental industrial anchor located in the agrarian Middle Belt of Nigeria. Established in the late 1970s, it utilizes the vast limestone deposits found in Benue State. For decades, it was a state-dominated enterprise that suffered from severe inefficiencies before being acquired and massively rehabilitated by Dangote Cement in the 2000s. The plant is critically important for supplying construction materials to central and eastern Nigeria, bridging the industrial gap between the heavily industrialized south and the north. It provides massive employment in a predominantly farming region. Geography K7 — industrial rehabilitation and regional supply.",
+      "factsAdvanced": [
+        "Located in Gboko, Benue State, in Nigeria's Middle Belt.",
+        "Historically operated as the state-backed Benue Cement Company (BCC).",
+        "Acquired, upgraded, and expanded by Dangote Cement.",
+        "Has a production capacity of approximately 4 million metric tonnes per annum.",
+        "Strategically supplies the central and eastern Nigerian construction markets.",
+        "Serves as a major industrial employer in a largely agricultural state."
+      ]
+    },
+    {
+      "id": "mfamosing-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Mfamosing Cement Plant, located near Calabar in Cross River State, is a highly advanced, modern manufacturing facility operated by Lafarge Africa (part of LafargeHolcim). Commissioned in 2002 as the United Cement Company of Nigeria (UNICEM), it was established to tap into the high-quality limestone deposits of the region. The plant is particularly noted for its high environmental and technological standards compared to older facilities. It serves as the primary supplier of cement to the South-South and South-East geopolitical zones, playing a vital role in regional infrastructure. The facility also heavily utilizes alternative fuels to reduce its carbon footprint. Geography K8 — modern manufacturing and alternative fuels.",
+      "factsAdvanced": [
+        "Located in Mfamosing, near Calabar in Cross River State.",
+        "Operated by Lafarge Africa, a subsidiary of the global LafargeHolcim group.",
+        "Has a production capacity of over 5 million metric tonnes per annum.",
+        "Originally commissioned in 2002 under the UNICEM brand.",
+        "Recognized for utilizing alternative fuels to lower industrial carbon emissions.",
+        "The dominant supplier of construction materials for southeastern Nigeria."
+      ]
+    },
+    {
+      "id": "bua-cement-sokoto-economic-v2",
+      "descriptionAdvanced": "The BUA Cement facility in Sokoto, historically known as the Cement Company of Northern Nigeria (CCNN), is a massive industrial powerhouse dominating the construction supply chain in northwestern Nigeria. Originally established in the 1960s by the legendary Premier of the Northern Region, Sir Ahmadu Bello, it was heavily modernized and massively expanded after being acquired by the BUA Group. The plant utilizes the abundant, high-quality limestone of the Sokoto basin and features a large, dedicated captive power plant. It is absolutely critical for infrastructure development across the north and exports significant volumes to neighboring Niger Republic. Geography K8 — industrial modernization and cross-border export.",
+      "factsAdvanced": [
+        "Located in Sokoto State in the extreme northwest of Nigeria.",
+        "Historically founded in 1962 as the Cement Company of Northern Nigeria (CCNN).",
+        "Massively expanded and modernized following acquisition by the BUA Group.",
+        "Features a highly efficient, multi-fuel captive power plant.",
+        "The primary supplier of cement for the entire northwestern geopolitical zone.",
+        "Exports significant quantities of cement across the border to the Republic of Niger."
+      ]
+    },
+    {
+      "id": "lafarge-ashaka-cement-economic-v2",
+      "descriptionAdvanced": "The Ashaka Cement Plant, widely affectionately known as the 'Star of the North', is a massive industrial facility located in Gombe State. Commissioned in 1979, it was established to exploit local limestone and coal deposits, driving infrastructure development in the historically underdeveloped northeastern region. Operated by Lafarge Africa, the plant has shown incredible resilience, maintaining operations and supplying the region despite severe security challenges caused by insurgency in neighboring states. The facility is a massive regional employer and a critical engine for post-conflict rebuilding efforts across the northeast. Geography K7 — regional industrialization and economic resilience.",
+      "factsAdvanced": [
+        "Located in Gombe State, serving the northeastern region of Nigeria.",
+        "Commissioned in 1979 and widely known as the 'Star of the North'.",
+        "Operated by Lafarge Africa.",
+        "Utilizes local limestone and coal deposits from the surrounding region.",
+        "Has maintained operations despite severe regional security and insurgency challenges.",
+        "Crucial for supplying materials for post-conflict reconstruction in the northeast."
+      ]
+    },
+    {
+      "id": "ewekoro-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Ewekoro Cement Plant is a deeply historic industrial facility located in Ogun State, holding the prestigious title of Nigeria's oldest continuously operating cement plant. Established in 1959 by the West African Portland Cement Company (WAPCO), it marked the true beginning of heavy domestic manufacturing in the country. Now operated by Lafarge Africa, the plant has undergone multiple extensive modernizations over the decades to remain competitive. Its strategic location on the limestone belt near Lagos has allowed it to supply the materials for many of Nigeria's most iconic mid-century infrastructure projects. It stands as a monument to early Nigerian industrialization. Geography K7 — industrial history and foundational manufacturing.",
+      "factsAdvanced": [
+        "Located in Ewekoro, Ogun State, strategically close to Lagos.",
+        "The oldest continuously operating cement plant in Nigeria, established in 1959.",
+        "Originally founded by the West African Portland Cement Company (WAPCO).",
+        "Currently owned and operated by Lafarge Africa.",
+        "Provided the cement for many of Nigeria's most iconic post-independence buildings.",
+        "Has undergone multiple extensive upgrades to replace outdated wet-process technology."
+      ]
+    },
+    {
+      "id": "okpella-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Okpella Cement Plant is a massive industrial facility situated in the limestone-rich hills of Edo State. Originally established in the 1960s as a state-owned enterprise, it suffered decades of neglect and operational collapse before being acquired and completely revitalized by the BUA Group. The facility was entirely rebuilt with state-of-the-art production lines, bringing immense economic life back to the Okpella community. The plant's strategic location in the South-South region allows it to efficiently supply both the coastal markets and the middle belt. It represents a highly successful model of reviving moribund state-owned industrial assets. Geography K8 — industrial revival and strategic positioning.",
+      "factsAdvanced": [
+        "Located in Okpella, Edo State, an area famous for high-quality limestone deposits.",
+        "Originally a failing state-owned enterprise established in the 1960s.",
+        "Completely rebuilt and massively expanded by the BUA Group.",
+        "Features highly advanced, modern dry-process production lines.",
+        "Strategically located to supply both the South-South and Middle Belt regions.",
+        "Brought significant economic revival and employment to the local community."
+      ]
+    },
+    {
+      "id": "alscon-smelter-economic-v2",
+      "descriptionAdvanced": "The Aluminium Smelter Company of Nigeria (ALSCON), located in Ikot Abasi, Akwa Ibom State, is a colossal heavy industrial plant designed to monetize Nigeria's massive natural gas reserves. Commissioned in 1997, the plant was intended to import alumina and smelt it into high-grade aluminum ingots using extremely cheap, locally generated gas-powered electricity. Despite its massive scale and potential, the plant has been plagued by severe legal disputes over privatization, gas supply issues, and chronic shutdowns, leaving it largely dormant for years. It remains a striking example of the immense difficulties associated with managing complex mega-projects in the region. Geography K8 — heavy smelting and privatization disputes.",
+      "factsAdvanced": [
+        "Located in Ikot Abasi, Akwa Ibom State, near the Imo River estuary.",
+        "Designed to utilize massive amounts of cheap natural gas to generate electricity for smelting.",
+        "Commissioned in 1997 as a massive state-led industrialization project.",
+        "Has a designed production capacity of 193,000 tonnes of aluminum per annum.",
+        "Plagued for over a decade by severe legal disputes regarding its privatization to UC RUSAL.",
+        "Currently largely dormant, representing massive unfulfilled industrial potential."
+      ]
+    },
+    {
+      "id": "benin-city-walls-history-v2",
+      "descriptionAdvanced": "The ancient Benin City Walls were a staggering network of earthworks that surrounded and protected the historic Kingdom of Benin. Constructed between the 13th and 15th centuries, they are widely considered one of the largest man-made structures ever built prior to the modern era, consisting of massive deep moats and towering earthen banks. These walls effectively defended the sophisticated Edo civilization and channeled trade through heavily guarded gates. Tragically, large sections were destroyed during the British punitive expedition of 1897. Today, only fragmented, overgrown remnants survive, standing as silent testaments to the immense scale and engineering prowess of pre-colonial African empires. History K8 — pre-colonial engineering and defensive earthworks.",
+      "factsAdvanced": [
+        "Constructed primarily between the 13th and 15th centuries by the Edo people.",
+        "Considered one of the largest man-made earthworks in global history prior to the mechanical era.",
+        "Consisted of an intricate network of deep ditches (moats) and high earthen banks.",
+        "Provided immense defensive capability and controlled access to the Benin Kingdom.",
+        "Largely destroyed by the British military during the Punitive Expedition of 1897.",
+        "Only scattered, heavily overgrown fragments remain visible in modern Benin City."
+      ]
+    },
+    {
+      "id": "sukur-cultural-landscape-history-v2",
+      "descriptionAdvanced": "The Sukur Cultural Landscape, located high in the Mandara Mountains of Adamawa State, is a spectacular, exceptionally well-preserved ancient settlement and Nigeria's first UNESCO World Heritage Site. For centuries, the Sukur people thrived in isolation, creating a highly complex society known for its unique terraced agriculture, which prevented soil erosion on the steep mountain slopes. The site is dominated by the Palace of the Hidi (the traditional chief), intricate dry-stone walls, and paved walkways. Sukur was also a major historical center for iron smelting, supplying iron across the region. It remains a breathtaking example of human adaptation to a harsh, high-altitude environment. History K8 — UNESCO heritage and high-altitude terracing.",
+      "factsAdvanced": [
+        "Located in the Mandara Mountains of Adamawa State, near the Cameroon border.",
+        "Designated as Nigeria's first UNESCO World Heritage Site in 1999.",
+        "Famous for highly complex, centuries-old terraced agriculture on steep mountain slopes.",
+        "Features the Palace of the Hidi, built using intricate dry-stone architecture.",
+        "Historically a major regional center for indigenous iron smelting and trade.",
+        "The landscape remains culturally active, managed by the local Sukur community."
+      ]
+    },
+    {
+      "id": "osun-osogbo-sacred-grove-history-v2",
+      "descriptionAdvanced": "The Osun-Osogbo Sacred Grove is a profoundly spiritual and ecologically vital forest located on the outskirts of Osogbo, Osun State. Recognized as a UNESCO World Heritage Site, it is one of the last remaining remnants of primary high forest in southern Nigeria. The dense grove is dedicated to Osun, the Yoruba goddess of fertility and water, and is dotted with striking, organic sculptures and shrines, many created by the artist Susanne Wenger and the New Sacred Art movement. The site brilliantly merges deep ecological conservation with vibrant, living traditional religion, hosting a massive annual festival that draws thousands of devotees globally. History K8 — sacred forests and living traditions.",
+      "factsAdvanced": [
+        "A dense, primary high forest located along the Osun River in Osun State.",
+        "Designated as a UNESCO World Heritage Site in 2005.",
+        "Considered the sacred abode of Osun, the Yoruba goddess of fertility.",
+        "Features dozens of striking shrines and sculptures integrating art with nature.",
+        "Heavily preserved through the efforts of Austrian artist Susanne Wenger in the 20th century.",
+        "Hosts the massive annual Osun-Osogbo festival, attracting global Yoruba devotees."
+      ]
+    },
+    {
+      "id": "kano-city-walls-history-v2",
+      "descriptionAdvanced": "The Kano City Walls were a massive, formidable network of defensive earthworks constructed to protect the ancient trading hub of Kano. Begun in the 11th century and massively expanded during the 16th century, these towering mud-brick walls originally spanned over 14 kilometers, enclosing the city's residential areas, the Emir's palace, and the famous Kurmi Market. They were pierced by heavily fortified wooden gates, strictly controlling access for merchants traveling the trans-Saharan routes. While modern urbanization has severely encroached upon and eroded much of the structure, surviving sections remain a powerful symbol of Kano's historical might and architectural heritage. History K7 — trans-Saharan trade and medieval fortifications.",
+      "factsAdvanced": [
+        "Massive defensive mud-brick earthworks surrounding the ancient city of Kano.",
+        "Construction began in the 11th century and was significantly expanded in the 16th century.",
+        "Originally spanned an estimated circumference of over 14 kilometers.",
+        "Featured over a dozen heavily fortified gates to control trade and security.",
+        "Protected the city during centuries of regional conflict and trans-Saharan commerce.",
+        "Currently highly degraded due to natural erosion and rapid modern urban expansion."
+      ]
+    },
+    {
+      "id": "sungbos-eredo-history-v2",
+      "descriptionAdvanced": "Sungbo's Eredo is a monumental, awe-inspiring system of defensive walls and deep ditches located in Ogun State, historically enclosing the entire Ijebu Kingdom. Constructed over a millennium ago, it is an astonishing feat of pre-colonial engineering, forming a perimeter of roughly 160 kilometers and moving more earth during its creation than the Great Pyramid of Giza. Local legend closely associates the structure with the wealthy, mythical Queen Bilikisu Sungbo. The dense rainforest has largely reclaimed the earthworks, turning the deep, steep-sided ditches into a hidden, moss-covered wonder that continues to astound modern archaeologists and historians. History K8 — monumental earthworks and ancient Yoruba kingdoms.",
+      "factsAdvanced": [
+        "A massive, 160-kilometer network of defensive ditches and embankments in Ogun State.",
+        "Constructed roughly between 800 and 1000 AD to protect the Ijebu Kingdom.",
+        "Considered one of the largest single monuments in Africa by volume of earth moved.",
+        "Local legends associate it with the mythical, wealthy Queen Bilikisu Sungbo.",
+        "The trench walls are exceptionally steep, often exceeding 15 meters in depth.",
+        "Currently heavily overgrown by dense tropical rainforest, obscuring its massive scale."
+      ]
+    },
+    {
+      "id": "olumo-rock-history-v2",
+      "descriptionAdvanced": "Olumo Rock is a massive, spectacular outcrop of granite rocks that towers over the historic city of Abeokuta in Ogun State. During the brutal 19th-century Yoruba civil wars, the rock served as a natural, impenetrable fortress and sanctuary for the Egba people, who founded the city around its base. The rock's natural caves provided shelter, while its height offered a perfect vantage point to spot approaching enemies. Today, it is a premier tourist destination, equipped with modern elevators and walkways, allowing visitors to explore the ancient shrines and enjoy breathtaking panoramic views of the sprawling city below. History K7 — natural fortifications and refugee settlements.",
+      "factsAdvanced": [
+        "A massive granite rock formation located in the center of Abeokuta, Ogun State.",
+        "Served as an impenetrable fortress and sanctuary for the Egba people in the 1830s.",
+        "The name Abeokuta literally translates to 'Under the Rock'.",
+        "Features natural caves that contain ancient shrines and evidence of early habitation.",
+        "Now a major tourist attraction featuring an elevator, museum, and walkways.",
+        "Reaches a peak height of approximately 137 meters above sea level."
+      ]
+    },
+    {
+      "id": "badagry-slave-port-history-v2",
+      "descriptionAdvanced": "The historic town of Badagry, located on the coastal lagoon near Lagos, holds a dark and profound place in world history as a major transit point during the transatlantic slave trade. From the 16th to the 19th centuries, countless captured Africans were marched through the town, held in brutal barracoons, and transported across the lagoon to the 'Point of No Return' before being loaded onto slave ships bound for the Americas. Today, the town serves as a deeply moving living museum, preserving the chains, holding cells, and historical narratives of this tragic era, drawing descendants from the diaspora seeking their roots. History K8 — the transatlantic slave trade and historical memory.",
+      "factsAdvanced": [
+        "Located on a coastal lagoon in Lagos State, near the border with Benin Republic.",
+        "Functioned as a massive, brutal transit hub during the transatlantic slave trade.",
+        "Features preserved historical sites including slave barracoons (holding cells) and auction markets.",
+        "Visitors can walk the tragic 'Point of No Return' route to the Atlantic beach.",
+        "Preserves the original chains and shackles used on captives.",
+        "Now serves as a site of profound historical memory and diaspora pilgrimage."
+      ]
+    },
+    {
+      "id": "first-storey-building-history-v2",
+      "descriptionAdvanced": "The First Storey Building in Nigeria is a profoundly significant historical monument located in the coastal town of Badagry. Completed in 1845 by the Reverend Henry Townsend of the Christian Missionary Society (CMS), the building served as the premier operational base for early British missionaries in West Africa. It is most famous as the site where Bishop Samuel Ajayi Crowther translated the English Bible into the Yoruba language, a monumental linguistic and cultural achievement. The sturdy, well-preserved structure stands in stark contrast to the nearby slave trade relics, symbolizing the arrival of Western education and Christianity in Nigeria. History K7 — colonial missionaries and linguistic history.",
+      "factsAdvanced": [
+        "Located in Badagry, Lagos State, completed in 1845.",
+        "Widely recognized as the oldest surviving multi-story building in Nigeria.",
+        "Constructed by Reverend Henry Townsend of the Christian Missionary Society (CMS).",
+        "The exact location where Bishop Samuel Ajayi Crowther translated the Bible into Yoruba.",
+        "Served as the primary administrative and residential base for early British missionaries.",
+        "Preserves original historical artifacts, including early translated texts and missionary items."
+      ]
+    },
+    {
+      "id": "arochukwu-long-juju-history-v2",
+      "descriptionAdvanced": "The Arochukwu Long Juju Shrine, also known as Ibini Ukpabi, is a deeply mysterious and historically powerful cave complex located in Abia State. During the 18th and 19th centuries, it served as the supreme oracle and judicial center for the Aro Confederacy, wielding immense religious and political influence over southeastern Nigeria. The Aro people used the oracle's fearsome reputation to control regional trade routes and facilitate the capturing of individuals for the transatlantic slave trade, claiming the oracle 'consumed' the guilty. The complex features a dark cave system, a hidden waterfall, and the ominous 'Throne of Judgment'. History K8 — indigenous oracles and trade monopolies.",
+      "factsAdvanced": [
+        "Located in Arochukwu, Abia State, hidden within a dense forest and cave system.",
+        "Served as the supreme oracle and judicial center for the powerful Aro Confederacy.",
+        "Used strategically to control regional trade and facilitate the transatlantic slave trade.",
+        "Features a highly atmospheric cave complex, a hidden waterfall, and the 'Throne of Judgment'.",
+        "The British launched the Aro Expedition in 1901 specifically to destroy the oracle's power.",
+        "Remains a highly sensitive and mysterious site of indigenous religious history."
+      ]
+    },
+    {
+      "id": "national-war-museum-history-v2",
+      "descriptionAdvanced": "The National War Museum in Umuahia, Abia State, stands as a solemn, comprehensive repository of Nigeria's military history, with a heavy focus on the tragic Nigerian Civil War (1967-1970). Located in the town that briefly served as the capital of the secessionist Republic of Biafra, the museum preserves an astonishing array of artifacts. The outdoor exhibits feature massive decommissioned warships, armored vehicles, and locally fabricated Biafran weapons, including the famous 'Ogbunigwe' explosives. The indoor galleries, famously including an underground bunker housing the Voice of Biafra radio transmitter, offer a profound, unvarnished look at the devastating conflict. History K8 — the Nigerian Civil War and military engineering.",
+      "factsAdvanced": [
+        "Located in Umuahia, Abia State, the former temporary capital of Biafra.",
+        "Dedicated to preserving the military history of Nigeria, especially the Civil War.",
+        "Features outdoor exhibits of massive warships, aircraft, and armored vehicles.",
+        "Displays highly inventive, locally fabricated Biafran weapons like the 'Ogbunigwe'.",
+        "Includes access to a preserved underground bunker housing the Voice of Biafra radio.",
+        "Serves as a powerful, somber site for national reflection and historical education."
+      ]
+    },
+    {
+      "id": "nok-village-history-v2",
+      "descriptionAdvanced": "Nok Village, located in southern Kaduna State, is an archaeological site of immense global significance, giving its name to the ancient Nok Culture. Discovered accidentally during tin mining operations in 1928, the site yielded astonishingly sophisticated terracotta sculptures dating from around 1000 BC to 500 AD. These incredibly detailed figures, featuring distinctive triangular eyes and elaborate hairstyles, represent some of the oldest known figurative art in Sub-Saharan Africa. Furthermore, archaeological evidence at Nok indicates some of the earliest iron smelting technology on the continent, proving the existence of a highly advanced, ancient West African civilization. History K8 — ancient African civilizations and terracotta art.",
+      "factsAdvanced": [
+        "An archaeological site located in southern Kaduna State.",
+        "The namesake of the ancient Nok Culture, thriving from roughly 1000 BC to 500 AD.",
+        "World-famous for highly sophisticated, detailed terracotta sculptures.",
+        "The sculptures were initially discovered accidentally during tin mining in 1928.",
+        "Provides crucial evidence of early indigenous iron smelting in Sub-Saharan Africa.",
+        "The iconic artifacts feature distinctive triangular, perforated eyes."
+      ]
+    },
+    {
+      "id": "owo-palace-history-v2",
+      "descriptionAdvanced": "The Owo Palace, located in Ondo State, is an architectural marvel and the traditional seat of the Olowo of Owo. Covering an astonishing area of nearly 10 acres, it is widely reputed to be the largest traditional palace complex in Africa. The structure is a labyrinth of over 100 individual courtyards, each serving a specific ceremonial, judicial, or residential function, meticulously designed to reflect the profound power of the monarch. The architecture beautifully fuses Yoruba and Benin structural styles, featuring intricately carved wooden pillars, elaborate shrines, and ancient defensive walls, standing as a pristine monument to pre-colonial royal grandeur. History K7 — traditional royal architecture and Yoruba-Benin culture.",
+      "factsAdvanced": [
+        "The traditional seat of the Olowo of Owo, located in Ondo State.",
+        "Reputed to be the largest traditional palace complex in Africa, covering nearly 10 acres.",
+        "Contains a labyrinth of over 100 distinct courtyards for various ceremonial functions.",
+        "The architecture represents a unique fusion of Yoruba and Edo (Benin) styles.",
+        "Features highly intricate carved wooden pillars and preserved ancient shrines.",
+        "Designated as a national monument due to its exceptional historical preservation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zaghouan-cities-v2",
+      "descriptionAdvanced": "Zaghouan, situated at the foot of the Djebel Zaghouan mountain, holds immense historical significance as the source of the Roman aqueduct that once supplied Carthage. The city's landscape is defined by its dramatic mountain backdrop and well-preserved Roman remnants, offering a unique blend of nature and heritage. Zaghouan is also known for its traditional production of rose-scented water and essential oils, which remain a local staple. Geography K7: The integration of historical infrastructure (aqueducts) with environmental geography in North African regions.",
+      "factsAdvanced": [
+        "Historical source of the Carthage aqueduct",
+        "Situated at the base of Djebel Zaghouan",
+        "Renowned for traditional rose water distillation",
+        "Key archaeological site for Roman engineering",
+        "Region defined by rugged mountain terrain",
+        "Important center for Mediterranean agriculture"
+      ]
+    },
+    {
+      "id": "bizerte-cities-v2",
+      "descriptionAdvanced": "Bizerte, located at the northernmost tip of Tunisia, is one of the oldest cities in the country, boasting a deep-water harbor that has been central to its identity for centuries. The city is defined by its picturesque old port, historic fortifications, and strong maritime traditions that bridge its Punic, Roman, and colonial past. Modern Bizerte is a key industrial center and a popular destination for those seeking a mix of naval history and coastal living along the Mediterranean. Geography K7: Strategic coastal location and the evolution of maritime hubs in North African port cities.",
+      "factsAdvanced": [
+        "Northernmost city in North Africa",
+        "Features a famous deep-water historic port",
+        "Key naval and maritime industrial center",
+        "Rich Punic and Roman archaeological heritage",
+        "Strategic gateway to the Mediterranean",
+        "Prominent historical fortress and kasbah"
+      ]
+    },
+    {
+      "id": "beja-cities-v2",
+      "descriptionAdvanced": "Béja, situated in the fertile Medjerda Valley, serves as a major agricultural capital in northwest Tunisia, historically known as the 'granary' of the region. The city's surroundings are characterized by rolling plains and intensive grain production, which have shaped its identity and economic importance since antiquity. Béja's historic center features remnants of Roman and Byzantine structures, reflecting its long history as a strategic hub for regional agricultural trade. Geography K8: Analyzing agricultural regions and historical grain production routes in the Mediterranean.",
+      "factsAdvanced": [
+        "Known as the 'granary' of Tunisia",
+        "Strategically located in the Medjerda Valley",
+        "Core center for national grain production",
+        "Deep roots in Roman and Byzantine agriculture",
+        "Hub for regional agricultural logistics",
+        "Surrounded by fertile rolling plains"
+      ]
+    },
+    {
+      "id": "jendouba-cities-v2",
+      "descriptionAdvanced": "Jendouba, a city in the Medjerda Valley, is the heart of a region renowned for its lush landscapes, abundant water resources, and productive agricultural output. Once part of the historic 'Tunisian Tell', the city serves as a key administrative hub for the northwest, supporting industries that rely on the fertile surrounding land. Jendouba bridges the transition between the agricultural plains and the mountain ranges, playing a pivotal role in the region's rural and commercial life. Geography K7: The role of regional geography and water resources in agricultural development.",
+      "factsAdvanced": [
+        "Administrative center for the northwest region",
+        "Situated within the lush Medjerda Valley",
+        "Productive area for diverse agricultural goods",
+        "Pivotal hub between plains and mountains",
+        "Rich regional water resources supporting farms",
+        "Historically significant agricultural gateway"
+      ]
+    },
+    {
+      "id": "el-kef-cities-v2",
+      "descriptionAdvanced": "Le Kef is a historic mountain city nestled in the northwestern mountains, long serving as a vital strategic outpost and regional hub. Its iconic fortress, the Kasbah, overlooks the city, highlighting its role as a protector of mountain passes through the ages. Le Kef maintains a unique mountain culture, influenced by both Islamic and indigenous Berber traditions, and offers a glimpse into a less-urbanized, historic North Africa. The city is a key center for the cultural identity of the Tunisian northwest. Geography K8: Examining the role of mountain settlements and strategic fortifications in regional history.",
+      "factsAdvanced": [
+        "Strategically located mountain stronghold",
+        "Famous for the historic Kasbah fortress",
+        "Regional hub with unique local culture",
+        "Strong influence of Berber and Islamic history",
+        "Key cultural center of the Tunisian northwest",
+        "Protector of historic mountain trade routes"
+      ]
+    }
+  ]
+}

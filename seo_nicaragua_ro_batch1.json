@@ -1,0 +1,316 @@
+{
+  "lang": "ro",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jinotega-cities-v2",
+      "descriptionAdvanced": "Jinotega, cunoscută sub numele de "Orașul Ceții" (Ciudad de las Brumas), este situată într-o vale muntoasă la o altitudine de peste 1000 de metri în nordul statului Nicaragua. Această regiune este inima industriei de cafea a țării, producând aproximativ 80% din recolta națională destinată exportului. Datorită altitudinii sale ridicate, orașul beneficiază de un climat considerabil mai rece și mai umed decât restul teritoriului, atrăgând astfel turismul ecologic. În apropierea orașului se află Lacul Apanás, un rezervor artificial vital pentru producția de energie hidroelectrică, care contribuie semnificativ la rețeaua energetică a țării. Regiunea este mărginită de lanțul muntos Isabelia, care oferă o biodiversitate bogată. Geografie K7 — zone agricole și climat montan.",
+      "factsAdvanced": [
+        "Este situat la o altitudine medie de 1004 metri deasupra nivelului mării.",
+        "Produce aproximativ 80% din totalul recoltei de cafea din Nicaragua.",
+        "A primit oficial statutul de oraș în anul 1891.",
+        "Lacul Apanás, creat artificial în 1964, se află la nord de oraș.",
+        "Rezervația naturală Datanlí-El Diablo acoperă 58,5 kilometri pătrați în apropiere.",
+        "Populația departamentului depășește 400.000 de locuitori.",
+        "Catedrala San Juan este principala structură arhitecturală a orașului."
+      ]
+    },
+    {
+      "id": "rivas-cities-v2",
+      "descriptionAdvanced": "Rivas este un oraș istoric situat pe istmul îngust dintre Oceanul Pacific și Lacul Nicaragua, în sud-vestul țării. Datorită poziției sale geografice strategice, orașul a fost un important nod comercial și de transport încă din perioada colonială, facilitând comerțul către Costa Rica. Regiunea înconjurătoare se bazează puternic pe agricultură, principalele culturi fiind trestia de zahăr, tutunul și bananele. Rivas are o importanță istorică deosebită, fiind locul în care s-au desfășurat două bătălii decisive în timpul Războiului Național din 1855-1856, unde trupele din Nicaragua au luptat împotriva mercenarilor conduși de William Walker. Astăzi, este principala poartă de acces pentru turiștii care vizitează Insula Ometepe și plajele din San Juan del Sur. Istorie K8 — conflicte politice în America Centrală.",
+      "factsAdvanced": [
+        "A fost fondat în 1736 sub numele de Villa de la Purísima Concepción de Rivas.",
+        "Se află la doar 35 de kilometri distanță de granița cu Costa Rica.",
+        "A găzduit Prima Bătălie de la Rivas pe 29 iunie 1855.",
+        "Este principalul producător de trestie de zahăr din regiunea de sud.",
+        "Populația orașului numără aproximativ 50.000 de locuitori.",
+        "Portul San Jorge, situat la câțiva kilometri, oferă acces rutier către Insula Ometepe."
+      ]
+    },
+    {
+      "id": "juigalpa-cities-v2",
+      "descriptionAdvanced": "Juigalpa funcționează ca centrul economic și administrativ al departamentului Chontales, situat în regiunea central-estică din Nicaragua. Orașul este recunoscut drept capitala creșterii animalelor din țară, o industrie care a definit cultura și economia locală de peste un secol. Situat la est de Lacul Nicaragua, într-o zonă de tranziție între câmpiile litorale și zonele muntoase, Juigalpa facilitează comerțul cu carne și produse lactate către restul țării. Muzeul Arheologic Gregorio Aguilar Barea, fondat în 1945, găzduiește o colecție impresionantă de idoli precolumbieni sculptați în piatră, care documentează civilizațiile străvechi din Chontales. Orașul organizează anual festivaluri tradiționale care atrag mii de fermieri. Geografie K7 — zootehnie și dezvoltare regională.",
+      "factsAdvanced": [
+        "A fost declarat oraș oficial la 27 ianuarie 1879.",
+        "Se află la aproximativ 140 de kilometri est de capitala Managua.",
+        "Este centrul celei mai importante regiuni producătoare de carne de vită.",
+        "Muzeul local deține peste 130 de statui indigene sculptate în piatră bazaltică.",
+        "Altitudinea orașului este de aproximativ 116 metri deasupra nivelului mării.",
+        "Catedrala Nuestra Señora de la Asunción domină piața centrală."
+      ]
+    },
+    {
+      "id": "boaco-cities-v2",
+      "descriptionAdvanced": "Boaco este denumit adesea "Orașul cu două etaje" datorită topografiei sale abrupte și clădirilor construite pe versanții dealurilor abrupte. Ca reședință a departamentului cu același nume, orașul este o componentă esențială a lanțului de aprovizionare cu produse lactate și carne al țării. Terenul muntos oferă un climat mai blând comparativ cu regiunile joase din vest. Economia se bazează pe ferme de vaci, prelucrarea laptelui, precum și pe cultivarea de cafea la scară mai mică în zonele superioare. Orașul a fost puternic influențat de coloniștii indigeni Sumu înainte de sosirea spaniolilor, iar dialectele lor încă mai lasă urme în toponimia locală. Geografie K7 — topografie montană și economie agrară.",
+      "factsAdvanced": [
+        "A devenit oficial oraș în data de 4 martie 1895.",
+        "Numele orașului provine dintr-un dialect indigen și înseamnă "Locul Vrăjitorilor".",
+        "Altitudinea sa este de 360 de metri, dar anumite cartiere sunt situate mai sus.",
+        "Regiunea este responsabilă pentru 15% din producția națională de lactate.",
+        "Boaco are o populație urbană de aproximativ 25.000 de locuitori.",
+        "Biserica principală este închinată Sfântului Apostol Iacob (Santiago)."
+      ]
+    },
+    {
+      "id": "somoto-cities-v2",
+      "descriptionAdvanced": "Somoto, capitala departamentului Madriz din nordul țării, este situată foarte aproape de granița cu Honduras. Orașul a câștigat faimă internațională odată cu descoperirea turistică a Canionului Somoto în 2004, o formațiune geologică spectaculoasă sculptată de râul Coco, cu pereți de piatră care ating o înălțime de 120 de metri. Datorită localizării sale într-o zonă uscată din "Coridorul Uscat" al Americii Centrale, agricultura este mai provocatoare, fiind dominată de cultivarea sorgului și porumbului. Somoto este recunoscut la nivel național pentru producția artizanală a "rosquillas", biscuiți tradiționali de porumb copt, care sunt exportați în întreaga regiune. Geografie K6 — eroziune fluvială și zone aride.",
+      "factsAdvanced": [
+        "Orașul se află la doar 20 de kilometri sud de granița cu Honduras (vama El Espino).",
+        "Canionul Somoto are o vechime estimată la 5 până la 15 milioane de ani.",
+        "Somoto produce zilnic mii de "rosquillas" exportate până în SUA.",
+        "A fost locul de naștere al celebrului cântăreț nicaraguan Carlos Mejía Godoy.",
+        "Titlul de oraș i-a fost acordat în anul 1867.",
+        "Altitudinea orașului este de aproape 700 de metri."
+      ]
+    },
+    {
+      "id": "ocotal-cities-v2",
+      "descriptionAdvanced": "Ocotal servește drept capitală pentru departamentul Nueva Segovia, aflat în regiunea de nord-vest, la granița muntoasă cu Honduras. Este un centru esențial pentru cultivarea și exportul de cherestea, datorită pădurilor dense de pin din munții înconjurători. În plus, altitudinea și clima permit dezvoltarea unor plantații de cafea de înaltă calitate. Din punct de vedere istoric, Ocotal a fost scena primei bombardamente aeriene moderne din America Centrală în anul 1927, când aviația americană a atacat trupele generalului Augusto C. Sandino, un moment crucial în istoria militară a regiunii. Populația locală are o puternică identitate legată de independență și rezistență, marcată prin numeroase monumente în oraș. Istorie K8 — intervenții străine și suveranitate națională.",
+      "factsAdvanced": [
+        "Altitudinea sa medie este de 605 metri deasupra nivelului mării.",
+        "A fost ținta primei intervenții aeriene de bombardament în picaj (dive-bombing) în 1927.",
+        "Se află la mai puțin de 25 de kilometri de frontiera Las Manos (Honduras).",
+        "Este un important centru de exploatare a pinului nicaraguan (Pinus oocarpa).",
+        "Numele Ocotal derivă de la cuvântul Nahuatl pentru rășină de pin.",
+        "A primit rangul de oraș în anul 1809."
+      ]
+    },
+    {
+      "id": "san-carlos-cities-v2",
+      "descriptionAdvanced": "San Carlos este un oraș portuar de o importanță strategică majoră, situat la punctul de convergență dintre extremitatea estică a Lacului Nicaragua și originea râului San Juan, care curge spre Marea Caraibelor. Ca punct de tranzit obligatoriu între bazinul interior și coasta estică, orașul a fost puternic fortificat în perioada colonială spaniolă pentru a respinge atacurile piraților englezi, francezi și olandezi. Ruinele vechii fortărețe coloniale oferă astăzi o panoramă spectaculoasă asupra apei. San Carlos este poarta principală de plecare a navelor către rezervația biosferei Indio Maíz și către arhipelagul izolat Solentiname, fiind astfel un pilon central al ecoturismului național. Geografie K7 — cursuri de apă navigabile și rute comerciale.",
+      "factsAdvanced": [
+        "A fost fondat în 1526, fiind una dintre primele așezări din regiunea de sud.",
+        "Populația urbană este de aproximativ 17.000 de locuitori.",
+        "Fortăreața sa a fost distrusă de celebrul pirat Henry Morgan în 1665.",
+        "Râul San Juan, care izvorăște din oraș, are o lungime de 192 de kilometri.",
+        "Asigură conexiuni regulate cu feribotul către Insula Solentiname.",
+        "Este capitala departamentului Río San Juan, creat în 1949."
+      ]
+    },
+    {
+      "id": "tipitapa-cities-v2",
+      "descriptionAdvanced": "Tipitapa este un oraș industrial și rezidențial aflat pe malul râului cu același nume, care conectează Lacul Managua (Xolotlán) de Lacul Nicaragua (Cocibolca). Această așezare se află pe o intersecție vitală, legând capitala Managua de departamentele agricole și de nord. Tipitapa este renumit în întreaga țară pentru băile sale termale alimentate vulcanic, cunoscute sub numele de "Los Termales de Tipitapa", precum și pentru preparatele tradiționale din pește pescuite direct din râurile locale. Orașul a jucat un rol crucial în 1927, când a găzduit semnarea faimosului "Pact de la Espino Negro", care urmărea încheierea unui război civil cu asistența mediatorilor din SUA. Geografie K6 — cursuri de apă interconectate și hidrogeologie.",
+      "factsAdvanced": [
+        "Râul Tipitapa măsoară doar 35 de kilometri în lungime.",
+        "Pactul de la Espino Negro a fost semnat aici pe 4 mai 1927.",
+        "Orașul atrage mii de vizitatori anual la băile termale publice.",
+        "Populația sa a crescut rapid, depășind astăzi 130.000 de locuitori.",
+        "Se află la aproximativ 20 de kilometri nord-est de centrul capitalei Managua.",
+        "Regiunea produce, de asemenea, sare din zonele aflate la periferia lacului."
+      ]
+    },
+    {
+      "id": "el-viejo-cities-v2",
+      "descriptionAdvanced": "El Viejo este un oraș de mare însemnătate agricolă și religioasă, situat în departamentul vestic Chinandega, într-o câmpie dominată de vulcanul Cosigüina. În termeni economici, se bazează masiv pe extracția de trestie de zahăr, culturi de arahide și pescuit intensiv, oferind locuri de muncă pentru mii de muncitori la fabricile majore din zonă. La nivel cultural și spiritual, orașul este faimos la nivel național pentru adăpostirea Bazilicii Inmaculada Concepción, care este principalul sanctuar al patronului spiritual al statului Nicaragua. Zeci de mii de pelerini călătoresc aici în luna decembrie pentru ceremoniile religioase majore. Geografie K7 — monocultură și economii agrare.",
+      "factsAdvanced": [
+        "Biserica sa colonială a fost promovată la statutul de bazilică minoră în anul 1995.",
+        "Este cel mai vechi oraș din departamentul Chinandega, fondat în anii 1530.",
+        "Populația sa numără peste 86.000 de rezidenți, inclusiv zonele rurale.",
+        "Vulcanul Cosigüina, situat pe teritoriul său, a avut o erupție catastrofală în 1835.",
+        "Festivalul principal în onoarea "Fecioarei Maria" are loc în mod regulat la 8 decembrie.",
+        "Economia include una dintre cele mai mari fabrici de rafinare a zahărului."
+      ]
+    },
+    {
+      "id": "chichigalpa-cities-v2",
+      "descriptionAdvanced": "Chichigalpa, situat în zona plană a departamentului Chinandega, este inima necontestată a industriei producătoare de zahăr și rom din Nicaragua. Așezarea găzduiește vasta plantație "Ingenio San Antonio" și sediul principal unde se produce celebrul rom "Flor de Caña", marcă recunoscută la nivel mondial pentru procesele de îmbătrânire în butoaie de stejar. Zeci de kilometri de plantații verzi de trestie de zahăr înconjoară complet perimetrul orașului. Istoria industrială locală a adus o migrație semnificativă a forței de muncă pe parcursul secolului al XX-lea, schimbând demografia și creând un profil urban puternic industrializat. Geografie K8 — sectorul secundar și industrializarea agricolă.",
+      "factsAdvanced": [
+        "Orașul a obținut recunoașterea administrativă oficială în 1894.",
+        "Plantația de zahăr San Antonio a fost înființată în anul 1890.",
+        "Aici se produce peste 50% din necesarul național de zahăr.",
+        "Romul "Flor de Caña" exportat de aici se vinde în peste 40 de țări.",
+        "Vârful vulcanic San Cristóbal este vizibil clar din orice punct al orașului.",
+        "Are o populație de aproximativ 51.000 de locuitori."
+      ]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "descriptionAdvanced": "Diriamba, situat în zona mai răcoroasă din departamentul Carazo, este cunoscut pentru cultura sa vibrantă, arhitectura eclectică și legăturile istorice cu cultivarea cafelei încă de la introducerea acesteia în Nicaragua. Altitudinea de peste 500 de metri conferă orașului o temperatură confortabilă pe tot parcursul anului. De o importanță fundamentală este festivalul "El Güegüense" din luna ianuarie, o dramă satirică mixtă spaniolo-indigenă care datează din secolul al XVII-lea și a fost declarată capodoperă a Patrimoniului Oral și Imaterial al Umanității de către UNESCO. Biserica centrală (Basilica San Sebastián) de pe scuarul principal domină orașul cu fațada ei impunătoare. Geografie K7 — patrimoniu cultural și conservare istorică.",
+      "factsAdvanced": [
+        "Se află la aproximativ 40 de kilometri distanță sud de capitala Managua.",
+        "Altitudinea sa medie atinge 580 de metri.",
+        "Piesa teatrală "El Güegüense" a fost recunoscută de UNESCO în anul 2005.",
+        "În anii 1890, un număr considerabil de coloniști germani au deschis primele plantații de cafea.",
+        "Construcția impozantei Bazilici San Sebastián a început în 1891.",
+        "Ceasul public a fost adus special din Germania în secolul trecut."
+      ]
+    },
+    {
+      "id": "jinotepe-cities-v2",
+      "descriptionAdvanced": "Jinotepe este capitala administrativă a departamentului Carazo, recunoscut pentru plantațiile sale vechi de cafea, casele în stil colonial construite din chirpici și străzile curate cu un ritm lent. Datorită climei sale confortabile asigurate de altitudinea moderată, a reprezentat tradițional un refugiu pentru elitele agrare care administrau moșiile din zonele înconjurătoare. Fosta stație de cale ferată rămâne o amintire a perioadei de boom din anii 1920-1930, când cafeaua a propulsat rapid dezvoltarea infrastructurii locale. Sărbătorile patronale dedicate Sfântului Iacob (Santiago) atrag locuitori din tot departamentul, combinând parade religioase tradiționale cu muzică populară stradală. Geografie K7 — istoria infrastructurii și dezvoltarea urbană.",
+      "factsAdvanced": [
+        "A fost recunoscut oficial ca oraș pe 11 februarie 1883.",
+        "Este poziționat strategic la o altitudine de aproximativ 560 de metri.",
+        "Parcul Central găzduiește o biserică catolică în stil neo-clasic terminată în 1860.",
+        "Cafeaua din regiune este exportată majoritar în Europa din cauza solului său vulcanic favorabil.",
+        "Orașul menține una dintre cele mai scăzute rate ale criminalității din mediul urban nicaraguan.",
+        "Populația din nucleul orașului numără aproximativ 53.000 de locuitori."
+      ]
+    },
+    {
+      "id": "el-rama-cities-v2",
+      "descriptionAdvanced": "El Rama funcționează ca un port cheie pe versantul estic al țării, fiind ultimul punct navigabil considerabil pe cursul râului Escondido. Datorită locației, orașul are un rol geostrategic esențial ca terminal de mărfuri pentru vasele care călătoresc dinspre Marea Caraibelor spre zona de interior a continentului. Deși clima tropicală extrem de umedă poate genera precipitații ridicate, economia din El Rama prosperă pe baza comerțului inter-regional cu portul maritim Bluefields. Produsele din lemn, animalele vii și bunurile industriale importate traversează toate acest canal esențial, modelând o populație activă și diversă ce integrează descendenți mestizos și locuitori afro-caraibieni. Geografie K7 — transport intermodal fluvial și rute comerciale.",
+      "factsAdvanced": [
+        "Distanța de navigare până la portul de la Oceanul Atlantic (Bluefields) este de 100 de kilometri.",
+        "Portul principal al orașului se numește "Arlen Siu" și procesează containere internaționale.",
+        "Confluența a trei râuri — Siquia, Mico și Rama — formează râul Escondido aici.",
+        "Are o climă tropicală ploioasă, cu o medie de precipitații de peste 2.500 mm anual.",
+        "Orașul a suferit daune devastatoare în anul 1988 din cauza uraganului Joan.",
+        "Așezarea a fost recunoscută ca port deschis oficial prin decret în 1880."
+      ]
+    },
+    {
+      "id": "nueva-guinea-cities-v2",
+      "descriptionAdvanced": "Nueva Guinea este un oraș de frontieră agricolă, situat în departamentul Autonom al Coastei Caraibice de Sud. Frecvent descris ca fiind o zonă cu o rată exponențială de creștere, el a fost fondat târziu în deceniul anilor 1960 prin intermediul programelor masive de colonizare agrară direcționate de guvernul național către zonele tropicale din sud-est. S-a transformat rapid într-unul dintre cei mai importanți producători interni de cereale, porumb, fasole, precum și un centru semnificativ de creștere a porcinelor și a bovinelor. Populația sa reprezintă o fuziune a familiilor de imigranți venite din nordul și din centrul Pacificului, toate aflate în căutarea unor pământuri ieftine și cultivabile. Geografie K6 — colonizare internă și defrișări tropicale.",
+      "factsAdvanced": [
+        "A fost fondat recent, prima tabără instalându-se oficial la 5 martie 1965.",
+        "Are cea mai mare producție de porci pe cap de locuitor din întreaga țară.",
+        "Atinge o altitudine de aproximativ 280 de metri în zona tropicală umedă.",
+        "Marea majoritate a celor 78.000 de rezidenți au ajuns aici în ultimii 50 de ani.",
+        "A devenit oficial municipiu abia în anul 1981.",
+        "Extinderea agricolă locală a contribuit în timp la reducerea pădurilor virgine primare."
+      ]
+    },
+    {
+      "id": "somotillo-cities-v2",
+      "descriptionAdvanced": "Somotillo este o municipalitate plasată strategic la marginea de nord a departamentului Chinandega. Ca oraș de graniță, având punctul de trecere Guasaule cu Hondurasul chiar în vecinătatea sa, orașul profită intens de traficul comercial internațional care îl traversează. Teritoriul din jurul său aparține coridorului uscat, astfel încât secetele sunt frecvente, dar se practică o agricultură de subzistență orientată pe cultivarea de susan (ajonjolí) și pepeni verzi pentru piețele nord-americane. În timpul verilor fierbinți, peisajul prezintă un sol arhaic, prăfuit, unde creșterea extensivă a vacilor și ovinelor reprezintă o alternativă tradițională a populației locale rurale. Geografie K6 — granițe internaționale și trafic comercial.",
+      "factsAdvanced": [
+        "Punctul de trecere frontalieră Guasaule conectează țara direct cu sudul Hondurasului.",
+        "Altitudinea sa este una foarte mică, la aproximativ 41 de metri peste nivelul mării.",
+        "O componentă majoră a comerțului local se bazează pe schimbul informal de mărfuri.",
+        "Ploaia medie anuală se încadrează de obicei între 800 și 1200 mm.",
+        "Zona produce mari cantități de semințe de susan destinate exportului.",
+        "Găzduiește o populație mixtă, cu numeroși tranzitanți comerciali zilnic."
+      ]
+    },
+    {
+      "id": "la-paz-centro-cities-v2",
+      "descriptionAdvanced": "La Paz Centro este situat pe ruta principală spre nordul vestic, în departamentul León, foarte aproape de lacul vulcanic Managua. Orașul s-a impus de secole drept "Capitala Argilei" în statul Nicaragua datorită producției masive de țigle pentru acoperișuri și cărămizi roșiatice de pământ ars, realizate complet manual de zeci de mici ateliere artizanale presărate prin întregul oraș. Această tradiție meșteșugărească furnizează o mare parte din necesarul pentru construcțiile tradiționale la nivel național. Mai mult, localitatea a câștigat recent atenția vizitatorilor prin rețeta proprie a celebrului "quesillo", care atrage zilnic cumpărători la vânzătorii ambulanți de pe axa centrală. Geografie K7 — economie de subzistență și prelucrarea argilei.",
+      "factsAdvanced": [
+        "Există peste 100 de mici ateliere ceramice și fabrici de cărămizi active.",
+        "Orașul deține ruinele arheologice León Viejo, la marginea graniței sale teritoriale.",
+        "A fost recunoscută ca "Villa" în 1869 și apoi ridicată la nivel de oraș.",
+        "Sute de mii de "quesillos" sunt vândute anual trecătorilor pe șosea.",
+        "Spre est se învecinează direct cu complexul vulcanic Momotombo.",
+        "Marea parte a argilei provine din solul format de materialul vulcanic regional."
+      ]
+    },
+    {
+      "id": "nagarote-cities-v2",
+      "descriptionAdvanced": "Nagarote funcționează ca un oraș istoric și pitoresc aflat pe malul Lacului Xolotlán, la mijlocul distanței dintre capitală și León. Este extrem de renumit în întreaga țară pentru eforturile sale incredibile de dezvoltare sustenabilă, primind de nenumărate ori premiul "Municipiul cel mai curat" din Nicaragua (El Municipio Más Limpio) de-a lungul ultimelor decenii. O parte impresionantă din veniturile locale se sprijină pe prepararea tradițională a faimosului "quesillo", considerat o instituție națională la nivel culinar. Tot aici se găsește și "El Genízaro", un copac legendar imens estimat la o vârstă de peste 1000 de ani, venerat de comunitatea locală sub o decizie guvernamentală de protecție. Geografie K7 — urbanism sustenabil și ecologie.",
+      "factsAdvanced": [
+        "A câștigat titlul național de "Cel mai curat oraș" timp de mai mulți ani consecutiv.",
+        "Copacul Genízaro, situat în parc, are un diametru imens și sute de ani vechime.",
+        "Are o vechime ce o precedă chiar sosirii conquistadorilor iberici.",
+        "Populația numără aproximativ 40.000 de cetățeni în municipiu.",
+        "Plajele din Puerto Sandino aparțin de aceeași circumscripție administrativă marină.",
+        "Zeci de afaceri locale de mici dimensiuni se concentrează pe prepararea "quesillo"."
+      ]
+    },
+    {
+      "id": "san-marcos-cities-v2",
+      "descriptionAdvanced": "San Marcos este o perlă liniștită situată în regiunea deluroasă, la o altitudine prielnică de 530 de metri în departamentul Carazo. Climatul său permanent răcoros și calitatea superioară a solului au favorizat în trecutul secolului al XX-lea crearea de vaste exploatații de cafea destinate piețelor internaționale, care și astăzi rămân prezente pe la marginile orașului. O trăsătură proeminentă și modernă este faptul că găzduiește campusul principal al Keiser University, o filială universitară americană care transformă parțial această așezare istorică într-un hub studențesc și atrage tineri bilingvi din întreaga Americă Centrală, stimulând dezvoltarea locuințelor și serviciilor adiacente campusului. Geografie K7 — geografie universitară și economii de educație.",
+      "factsAdvanced": [
+        "Orașul este situat în inima departamentului Carazo, formând o aglomerație cu Diriamba.",
+        "Universitatea din incintă oferă diplome valabile în Statele Unite.",
+        "Numele orașului este dedicat apostolului Marcu, prăznuit cu mare fast la 25 aprilie.",
+        "Se află la aproximativ 45 de kilometri distanță de capitala țării, Managua.",
+        "Altitudinea de peste 530 de metri îi conferă un microclimat temperat distinct.",
+        "Mulți fermieri colaborează în prezent în mici cooperative de comerț echitabil pentru cafea."
+      ]
+    },
+    {
+      "id": "ciudad-sandinocities-v2",
+      "descriptionAdvanced": "Ciudad Sandino este un oraș dens populat ce funcționează de facto ca una dintre suburbiile capitalei Managua, fiind atașat de marginea nord-vestică a metropolei. Orașul a fost creat în urma unei decizii de re-localizare a miilor de familii care au supraviețuit catastrofalului cutremur din anul 1972 ce a distrus centrul capitalei, pe lângă cele afectate de gravele inundații provocate de revărsarea Lacului Managua din 1969. Datorită creșterii exponențiale din ultimele trei decenii, s-a dezvoltat de la o uriașă aglomerare rurală spontană într-un oraș propriu, dotat cu propria activitate comercială și cartiere distincte cu infrastructură urbană modernă emergentă. Istorie K8 — efectele dezastrelor naturale asupra urbanizării.",
+      "factsAdvanced": [
+        "A fost declarată municipalitate independentă abia în data de 1 ianuarie 2000.",
+        "Zonă rezidențială inițială a luat numele temporar de "Proyecto OPEN 3" în anul 1969.",
+        "Cutremurul masiv din decembrie 1972 i-a multiplicat populația în câteva săptămâni.",
+        "Numărătoarea a depășit deja granița de 130.000 de locuitori din motive de densitate.",
+        "Orașul nu deține un nucleu colonial tradițional cu parc spaniol și biserică centrală.",
+        "O autostradă principală recent reabilitată o leagă direct de centrul Managua."
+      ]
+    },
+    {
+      "id": "condega-cities-v2",
+      "descriptionAdvanced": "Condega reprezintă un nod agricol situat pe celebrul traseu al Autostrăzii Panamericane, traversând teritoriile nordice ale departamentului Estelí. Regiunea a devenit faimoasă din punct de vedere istoric pentru calitatea frunzelor de tutun produse pe versanți și dezvoltarea treptată a producției de țigări rulate manual, la prețuri competitive de export, devenind o sursă principală de locuri de muncă. În mod similar, ceramica realizată de artizani locali de origine indigenă menține vii tradițiile de modelare manuală din argilă fină, foarte apreciate pe plan național. Râul Estelí străbate direct centrul așezării, contribuind masiv la fertilitatea solurilor agricole adiacente în timpul anotimpurilor ploioase. Geografie K7 — cursuri de apă și soluri de luncă.",
+      "factsAdvanced": [
+        "Se află la aproximativ 185 de kilometri distanță nord față de Managua.",
+        "Râul Estelí sculptează cursul chiar prin inima teritoriului său urban.",
+        "A fost scena câtorva bătălii acerbe pe parcursul insurecției sandiniste din anii '70.",
+        "Altitudinea sa atinge cota de aproximativ 560 de metri.",
+        "A fost ridicată în grad la categoria oficială de oraș în 1962.",
+        "Sectorul secundar de manipulare a tutunului absoarbe majoritatea șomerilor tineri locali."
+      ]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "descriptionAdvanced": "Sébaco s-a transformat în mod eficient în inima comercială din nordul central al țării, poziționat favorabil la punctul geografic exact unde drumurile care leagă capitala Managua de zonele agricole bogate (Estelí, Matagalpa, Jinotega) se intersectează. Valea râului Grande de Matagalpa ce înconjoară orașul prezintă soluri de o fertilitate excepțională. Mai mult, prezența masivă de sere de ultimă generație și o rețea uriașă de irigații permit zonei să recolteze ceapă, morcovi și roșii de calitate superioară și să aprovizioneze direct supermarketurile întregii națiuni. Aceasta a adus o imigrație comercială uriașă spre oraș, care abundă în depozite logistice și camioane de marfă. Geografie K7 — hub-uri de transport și piață agricolă.",
+      "factsAdvanced": [
+        "Numele indigen "Cihuatl Coatl" se traduce prin "Femeia Șarpe" din limba Nahuatl.",
+        "Este tranzitat zilnic de aproape toate rutele de transport public către departamentele nordice.",
+        "Piața sa angro este principalul punct de distribuție a produselor horticole naționale.",
+        "Producția de orez (paddy) din zona albiei se bucură de tehnici mecanizate extinse.",
+        "Râul Viejo și râul Grande de Matagalpa confluează în apropierea graniței sale teritoriale.",
+        "Altitudinea de 470 de metri favorizează cultivarea unor zarzavaturi sensibile la căldura tropicală."
+      ]
+    },
+    {
+      "id": "nandaime-cities-v2",
+      "descriptionAdvanced": "Nandaime este integrat în geografia largă a departamentului Granada, oferind un ritm de viață rural dominat de peisajul cultivărilor întinse de orez și sorg din vecinătatea vulcanului Mombacho. Orașul este recunoscut în cronologia militară modernă ca locul de naștere al ilustrului general și patriot José Dolores Estrada, eroul național al epicei Bătălii de la San Jacinto împotriva forțelor americane ale lui William Walker din anul 1856. Astăzi, casele masive ale familiilor tradiționale cu imense porți coloniale și curți interioare încă pot fi vizitate în apropierea pieței parcului. Aflat la doar câțiva kilometri distanță, Râul Ochomogo oferă o resursă ecologică esențială fermierilor de bovine pe tot parcursul anului. Istorie K8 — personalități naționale și rezistență istorică.",
+      "factsAdvanced": [
+        "A fost recunoscut oficial ca oraș prin decretul național din 29 octombrie 1890.",
+        "Generalul patriot José Dolores Estrada a venit pe lume aici în 1792.",
+        "Economia sa beneficiază de mori moderne mari utilizate pentru prelucrarea orezului alb.",
+        "Altitudinea plană a localității este de aproximativ 130 de metri.",
+        "Sărbătoarea religioasă închinată Sfintei Ana include reprezentații unice cu costume de diavoli.",
+        "Numele orașului din limba Chorotega înseamnă literal "Loc cu multe ape abundente"."
+      ]
+    },
+    {
+      "id": "jalapa-cities-v2",
+      "descriptionAdvanced": "Jalapa servește ca centru agricol major în departamentul Nueva Segovia, izolat geografic în capătul unei văi fertile înguste chiar la linia de demarcație internațională cu statul Honduras. Faimoasă pe tot cuprinsul națiunii ca fiind "Gânarul Național al Porumbului" (El Granero Nacional), câmpiile sale plate de bază produc o proporție imensă a recoltelor anuale vitale pentru hrana zilnică a populației, alături de cultivarea fasolei și fabricarea la scară mică a cafelei montane în regiunile stâncoase superioare. Pe parcursul războiului civil "Contra" din anii 1980, Jalapa a atras mii de refugiați și a fost supusă asediilor, determinând locuitorii să construiască fortificații defensive extinse pe rutele de acces, transformând-o astfel într-o fortăreață de rezistență agricolă. Istorie K8 — impactul conflictelor armate pe piețele rurale.",
+      "factsAdvanced": [
+        "S-a organizat și promovat la un statut administrativ superior oficial în anul 1891.",
+        "Valea în care este poziționată atinge o altitudine favorabilă de aproximativ 680 de metri.",
+        "Fermierii obțin adesea trei cicluri complete de recoltă pe parcursul unui singur an de lucru.",
+        "Orașul este înconjurat aproape în întregime de dealuri extrem de abrupte acoperite cu pin.",
+        "Populația sa, alimentată de migranți interni, a crescut vertiginos depășind suma de 70.000 locuitori.",
+        "Celebrează în fiecare lună septembrie Târgul Porumbului cu expoziții gastronomice gigantice."
+      ]
+    },
+    {
+      "id": "el-sauce-cities-v2",
+      "descriptionAdvanced": "El Sauce funcționează ca un municipiu liniștit și tradițional agrar ascuns în regiunea nord-vestică aparținând teritorial de departamentul León. Așezarea are un istoric impresionant de importanță spirituală de prim rang; aici este amplasată o biserică colonială colosală ce adăpostește prețioasa statuie de lemn din secolul al XVIII-lea a lui Hristos (El Señor de los Milagros), salvată conform legendelor locale dintr-un incendiu de neoprit. O altă parte vitală a istoriei rurale implică fosta funcționare a gării, parte dintr-o cale ferată desființată care susținea comerțul agricol. Apicultura înflorește considerabil în împrejurimi, producând mii de litri de miere certificată, apreciată pe piața de export către continentul european datorită calității polenului natural. Geografie K7 — economii secundare și patrimoniu cultural.",
+      "factsAdvanced": [
+        "A primit statutul urban superior printr-o decizie guvernamentală în cursul anului 1905.",
+        "Sute de mii de pelerini converg spre acest loc în luna ianuarie în fața statuii miraculoase.",
+        "Numele orașului derivă de la o specie de salcie masivă sub care a fost găsită relicva.",
+        "Producția intensivă de miere aduce un venit colateral susținut pentru sute de fermieri asociați.",
+        "Populația rămâne stabilă și relativ redusă la nivelul general de 30.000 de locuitori.",
+        "Se află la un nivel altitudinal temperat, de aproximativ 160 de metri față de coasta marină."
+      ]
+    },
+    {
+      "id": "larreynaga-malpaisillo-cities-v2",
+      "descriptionAdvanced": "Cunoscută și sub numele combinat de Larreynaga-Malpaisillo, așezarea se distinge major printre localitățile din departamentul León datorită exploatărilor extensive de la primele zăcăminte geotermale. O imensă rețea complexă de centrale energetice extrag forța generată de lanțurile vulcanice (proiectul Telica-San Jacinto), reușind astfel să susțină și să diminueze semnificativ consumul național de derivate petroliere. Regiunea geografică este caracterizată de văi foarte izolate și temperaturi dogoritoare. Comunitatea se susține totodată și pe baza extragerii de nisipuri fine pentru materiale folosite în compoziția cimentului din capitală, creând un profil de economie cu o prezență muncitorească puternică. Geografie K8 — exploatarea energiei geotermale regenerabile.",
+      "factsAdvanced": [
+        "Municipiul principal are numele oficial de Larreynaga, în timp ce centrul urban este Malpaisillo.",
+        "Complexele geotermale moderne generează direct zeci de Megawați pe oră în sistemul național.",
+        "Localitatea urbană a luat ființă într-un mod treptat târziu, în jurul deceniului anilor 1930.",
+        "Întreaga suprafață a terenului are origini profund vulcanice și include pietre extrem de poroase.",
+        "Nivelul altitudinii scăzute aduce constant temperaturi atmosferice care depășesc cota de 35 °C.",
+        "O componentă mare din populație cultivă cu greu doar alimente pentru o subzistență de bază."
+      ]
+    }
+  ]
+}

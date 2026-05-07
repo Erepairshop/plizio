@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oklahoma-city-cities-v2",
+      "descriptionAdvanced": "Oklahoma City ist die Hauptstadt und größte Stadt des Bundesstaates Oklahoma, tief verwurzelt in der Frontier-Geschichte der USA. Sie wurde 1889 durch den 'Land Run' quasi über Nacht gegründet, als Tausende Siedler in das bis dahin den indigenen Völkern vorbehaltene Territorium strömten. Heute ist die Wirtschaft stark geprägt von Erdöl, Erdgas, IT und Bundesbehörden. Architektonisch sticht der imposante Devon Energy Center als höchstes Gebäude der Stadt hervor. Ein tiefgreifendes historisches Ereignis war der Bombenanschlag auf das Murrah Federal Building im Jahr 1995, an den heute das Oklahoma City National Memorial eindrucksvoll erinnert. Der nahegelegene Viehmarkt ('Stockyards City') verweist noch immer auf die historische Bedeutung als landwirtschaftliches Handelszentrum. Geschichte K8 — Westexpansion und der Land Run.",
+      "factsAdvanced": [
+        "Wurde 1889 während des ersten Oklahoma Land Runs innerhalb eines Tages gegründet",
+        "Hauptstadt und bevölkerungsreichste Stadt von Oklahoma",
+        "Sitz des Oklahoma City National Memorial an der Stelle des Anschlags von 1995",
+        "Eines der wichtigsten nationalen Zentren für die Energieproduktion (Öl und Gas)",
+        "Das Capitol-Gebäude von Oklahoma verfügt über aktive Ölquellen auf dem Gelände",
+        "Die Stockyards City ist einer der größten Märkte für Vieh in der Welt"
+      ]
+    },
+    {
+      "id": "las-vegas-cities-v2",
+      "descriptionAdvanced": "Las Vegas, gelegen in der Mojave-Wüste im Bundesstaat Nevada, ist das unumstrittene Unterhaltungszentrum der Vereinigten Staaten. Die 1905 gegründete Stadt erlebte in den 1930er Jahren durch den Bau des nahegelegenen Hoover-Staudamms und die Legalisierung des Glücksspiels im Jahr 1931 ein enormes Wachstum. Heute wird die Skyline vom Las Vegas Strip dominiert, einem Boulevard, an dem sich einige der größten und aufwendigsten Hotel-Casinos der Welt aneinanderreihen, darunter architektonische Nachbauten von Paris, Venedig und dem antiken Rom. Trotz der extremen Wüstenhitze zieht die Stadt jährlich Millionen Touristen an. Das Wassermanagement, stark abhängig vom stetig sinkenden Lake Mead, stellt eine andauernde technologische und ökologische Herausforderung dar. Geographie K8 — Wassermanagement in Wüstenmetropolen.",
+      "factsAdvanced": [
+        "1905 gegründet und 1911 offiziell als Stadt anerkannt",
+        "Glücksspiel wurde im Bundesstaat Nevada 1931 legalisiert",
+        "Der Las Vegas Strip befindet sich streng genommen außerhalb der Stadtgrenzen",
+        "Stark abhängig vom Wasser aus dem Lake Mead und dem Colorado River",
+        "Heimat des Stratosphere Tower, dem höchsten freistehenden Aussichtsturm der USA",
+        "Beherbergt mehr als die Hälfte der 20 größten Hotels der Welt"
+      ]
+    },
+    {
+      "id": "louisville-cities-v2",
+      "descriptionAdvanced": "Louisville ist die größte Stadt des Bundesstaates Kentucky und liegt majestätisch am Ufer des Ohio Rivers, an der Grenze zu Indiana. Die 1778 von George Rogers Clark gegründete Stadt ist nach dem französischen König Ludwig XVI. benannt. Sie ist weltweit berühmt als Austragungsort des Kentucky Derby, dem prestigeträchtigsten Pferderennen Amerikas, das jährlich auf der Pferderennbahn Churchill Downs stattfindet. Zudem bildet Louisville das Herzstück der amerikanischen Bourbon-Whiskey-Industrie. Ein weiteres kulturelles Wahrzeichen ist das Muhammad Ali Center, das an den hier geborenen legendären Boxer erinnert. Geografisch profitierte die Stadt früh von den Falls of the Ohio, den einzigen größeren Stromschnellen des Ohio Rivers, was sie zu einem zentralen Warenumschlagplatz machte. Wirtschaft K8 — Transportwesen und Spezialindustrien am Ohio River.",
+      "factsAdvanced": [
+        "1778 gegründet und nach dem französischen König Ludwig XVI. benannt",
+        "Austragungsort des jährlichen Kentucky Derby Pferderennens seit 1875",
+        "Zentrum der globalen Produktion von Kentucky Bourbon",
+        "Geburtsort des weltbekannten Boxers Muhammad Ali (geboren als Cassius Clay)",
+        "Herstellungsort des 'Louisville Slugger', einem berühmten Baseballschläger",
+        "Liegt an den Falls of the Ohio, historisch ein wichtiges Hindernis für die Schifffahrt"
+      ]
+    },
+    {
+      "id": "baltimore-cities-v2",
+      "descriptionAdvanced": "Baltimore, die einwohnerreichste Stadt Marylands, liegt am Patapsco River nahe der Mündung in die Chesapeake Bay. Gegründet im Jahr 1729, entwickelte sie sich rasant zu einem der bedeutendsten Häfen der USA. Während des Krieges von 1812 verteidigten amerikanische Truppen das örtliche Fort McHenry erfolgreich gegen die britische Flotte, ein Ereignis, das Francis Scott Key zur Dichtung der amerikanischen Nationalhymne, dem 'Star-Spangled Banner', inspirierte. Heute wird die Hafenfront vom Inner Harbor geprägt, einem revitalisierten Zentrum mit dem National Aquarium und historischen Schiffen. Die Stadt ist auch Heimat der renommierten Johns Hopkins University und ihres herausragenden medizinischen Forschungscampus. Geschichte K8 — Verteidigung von Fort McHenry und die Nationalhymne.",
+      "factsAdvanced": [
+        "1729 als wichtiger Hafen an der Chesapeake Bay gegründet",
+        "Der Angriff auf Fort McHenry 1814 inspirierte die US-Nationalhymne",
+        "Heimat des ersten Passagier-Eisenbahnnetzes der USA (B&O Railroad)",
+        "Die Johns Hopkins University (gegr. 1876) ist eine weltweit führende Forschungseinrichtung",
+        "Der Inner Harbor ist ein Vorbild für erfolgreiche urbane Revitalisierung",
+        "Verfügt über mehr Denkmäler und Statuen pro Kopf als jede andere US-Stadt"
+      ]
+    },
+    {
+      "id": "milwaukee-cities-v2",
+      "descriptionAdvanced": "Milwaukee ist die größte Stadt des Bundesstaates Wisconsin und liegt am westlichen Ufer des riesigen Michigansees. Sie wurde im frühen 19. Jahrhundert gegründet und zog bald zahlreiche deutsche Einwanderer an. Dieser tiefgreifende Einfluss manifestierte sich in der Entwicklung Milwaukees zum historischen Zentrum der amerikanischen Brauindustrie, mit Giganten wie Miller, Pabst und Schlitz, was der Stadt den Spitznamen 'Brew City' einbrachte. Die Stadt beherbergt zudem den Hauptsitz des legendären Motorradherstellers Harley-Davidson, der hier 1903 gegründet wurde. Zu den architektonischen Highlights zählt das Milwaukee Art Museum, dessen moderner Anbau von Santiago Calatrava entworfen wurde. Wirtschaft K7 — Einwanderung und der Aufbau industrieller Zentren.",
+      "factsAdvanced": [
+        "Liegt strategisch am westlichen Ufer des Lake Michigan",
+        "Aufgrund der starken deutschen Einwanderung historisch Zentrum der US-Brauereien",
+        "Sitz und Geburtsort der Harley-Davidson Motor Company (1903)",
+        "Austragungsort des Summerfest, eines der größten Musikfestivals der Welt",
+        "Das Milwaukee Art Museum ist berühmt für den Brise-Soleil-Flügel von Santiago Calatrava",
+        "Die Wirtschaft verlagerte sich von der Schwerindustrie zur Gesundheits- und Automatisierungstechnik"
+      ]
+    },
+    {
+      "id": "albuquerque-cities-v2",
+      "descriptionAdvanced": "Albuquerque, im Zentrum von New Mexico gelegen, ist die größte Stadt des Bundesstaates. Sie erstreckt sich durch das breite Tal des Rio Grande und wird im Osten von den majestätischen Sandia Mountains begrenzt. Die Stadt wurde 1706 als spanischer Kolonialaußenposten gegründet, was in der gut erhaltenen 'Old Town' mit ihrer Adobe-Architektur bis heute sichtbar ist. Albuquerque ist weltweit bekannt für die Ausrichtung der International Balloon Fiesta, dem größten Heißluftballon-Festival der Erde, das jedes Jahr im Oktober den Himmel in ein Farbenmeer verwandelt. Entlang der historischen Route 66 gewachsen, beherbergt die Metropole heute Hightech-Forschungsinstitute wie die Sandia National Laboratories und profitiert stark von der Filmindustrie und dem Universitätsbetrieb. Geographie K7 — Leben im Rio Grande Tal.",
+      "factsAdvanced": [
+        "1706 von den Spaniern als Villa de Alburquerque gegründet",
+        "Die historische Route 66 verläuft direkt durch das Stadtzentrum",
+        "Gastgeber der jährlichen Albuquerque International Balloon Fiesta",
+        "Beherbergt die Sandia National Laboratories für Nuklearforschung",
+        "Die Old Town bewahrt die traditionelle spanische Pueblo-Architektur",
+        "Hat eine Höhenlage von rund 1600 Metern über dem Meeresspiegel"
+      ]
+    },
+    {
+      "id": "tucson-cities-v2",
+      "descriptionAdvanced": "Tucson ist die zweitgrößte Stadt Arizonas und liegt im Süden des Bundesstaates inmitten der Sonora-Wüste, umgeben von markanten Gebirgsketten. Die Region war bereits lange vor der Ankunft spanischer Missionare im späten 17. Jahrhundert von indigenen Völkern bewohnt. Das 1775 offiziell gegründete Presidio San Agustín del Tucsón entwickelte sich später zu einem wichtigen Zwischenstopp für Reisende. Heute ist Tucson berühmt für die riesigen Saguaro-Kakteen, die die Landschaft im Saguaro-Nationalpark dominieren. Als Sitz der University of Arizona ist die Stadt ein florierendes Bildungszentrum mit einem Schwerpunkt auf Optik und Astronomie, gefördert durch die extrem klaren Wüstennächte und den nahegelegenen Kitt Peak. Geographie K7 — Ökosysteme der Sonora-Wüste.",
+      "factsAdvanced": [
+        "1775 als spanisches Militärfort (Presidio) gegründet",
+        "Eingebettet in ein Tal, das von fünf kleinen Gebirgsketten umgeben ist",
+        "Heimat der University of Arizona und ein Zentrum für Astronomie",
+        "Der Saguaro-Nationalpark schützt den riesigen Saguaro-Kaktus, der nur hier vorkommt",
+        "Wurde 2015 zur ersten UNESCO-Stadt der Gastronomie in den USA ernannt",
+        "Starker kultureller Einfluss durch die indigene und mexikanische Bevölkerung"
+      ]
+    },
+    {
+      "id": "fresno-cities-v2",
+      "descriptionAdvanced": "Fresno befindet sich im Herzen des San Joaquin Valley, dem südlichen Teil des landwirtschaftlich extrem ertragreichen Central Valley in Kalifornien. Gegründet 1872 als Station der Central Pacific Railroad, trägt die Stadt den spanischen Namen für die Esche, die einst zahlreich an den Ufern des San Joaquin River wuchs. Heute ist das Umland von Fresno das unbestrittene Epizentrum der US-amerikanischen Agrarindustrie. Dank massiver Bewässerungssysteme produziert das Fresno County Milliardenerträge aus dem Anbau von Mandeln, Pistazien, Trauben, Baumwolle und Tomaten. Obwohl Fresno hauptsächlich von der Landwirtschaft dominiert wird, ist es auch ein wichtiger Ausgangspunkt für Touristen, die in den nahen Yosemite-, Sequoia- und Kings-Canyon-Nationalpark reisen. Wirtschaft K8 — Bewässerungslandwirtschaft im Central Valley.",
+      "factsAdvanced": [
+        "Gegründet 1872 nach der Ankunft der Central Pacific Railroad",
+        "Gelegen im geografischen Zentrum von Kalifornien im San Joaquin Valley",
+        "Einer der landwirtschaftlich produktivsten Landkreise der gesamten USA",
+        "Spielt eine Schlüsselrolle beim globalen Export von Nüssen und Rosinen",
+        "Dient als wesentliches Tor zu drei angrenzenden Nationalparks",
+        "Eine sehr diverse Bevölkerung mit großen hispanischen und Hmong-Gemeinschaften"
+      ]
+    },
+    {
+      "id": "sacramento-cities-v2",
+      "descriptionAdvanced": "Sacramento ist die Hauptstadt des Bundesstaates Kalifornien, strategisch gelegen am Zusammenfluss des Sacramento und des American River. Sie wurde 1839 als Nueva Helvetia von dem Schweizer Einwanderer John Sutter gegründet. Historische Bedeutung erlangte die Region durch die Entdeckung von Gold bei Sutter's Mill im Jahr 1848, was den gewaltigen kalifornischen Goldrausch auslöste. Sacramento wurde rasch zum Endpunkt des Pony-Expresses und zur westlichsten Station der ersten transkontinentalen Eisenbahn, deren Bau im örtlichen Eisenbahnmuseum dokumentiert wird. Heute ist Sacramento nicht nur ein politisches Zentrum, sondern rühmt sich auch als 'Amerikas Farm-to-Fork-Hauptstadt', da das umliegende Tal reiche landwirtschaftliche Erträge liefert. Geschichte K8 — Der kalifornische Goldrausch und die transkontinentale Eisenbahn.",
+      "factsAdvanced": [
+        "Seit 1854 die ständige Hauptstadt von Kalifornien",
+        "Der nahegelegene Goldfund bei Sutter's Mill löste 1848 den Goldrausch aus",
+        "War der westliche Endpunkt des historischen Pony-Expresses",
+        "Zentrale Drehscheibe beim Bau der Ersten Transkontinentalen Eisenbahn",
+        "Das California State Capitol ist ein markantes Bauwerk im neoklassizistischen Stil",
+        "Bekannt für den Old Sacramento State Historic Park mit gepflasterten Straßen"
+      ]
+    },
+    {
+      "id": "kansas-city-mo-cities-v2",
+      "descriptionAdvanced": "Kansas City in Missouri liegt exakt an der Staatsgrenze zu Kansas am Zusammenfluss des Missouri River und des Kansas River. Es ist historisch eine absolute Schlüsselstadt für die Westexpansion der Vereinigten Staaten, da wichtige Routen wie der Santa Fe Trail, der California Trail und der Oregon Trail in dieser Region begannen. Die Stadt florierte im 19. und 20. Jahrhundert durch ihre riesigen Schlachthöfe (Stockyards) und entwickelte eine weltweit geschätzte Barbecue-Kultur. Zudem ist Kansas City musikalisch bedeutend als eine der Wiegen des amerikanischen Jazz; im historischen Viertel 18th & Vine florierte in den 1930er Jahren eine einzigartige Jazz-Szene. Visuell prägen zahlreiche Brunnen die Stadt ('City of Fountains'). Geschichte K8 — Die großen Treck-Routen in den amerikanischen Westen.",
+      "factsAdvanced": [
+        "1850 inkorporiert an der strategischen Gabelung von Missouri und Kansas River",
+        "Gilt neben Rom als die Stadt mit den meisten funktionierenden Springbrunnen",
+        "Das historische 18th and Vine Viertel war in den 1930ern ein Epizentrum des Jazz",
+        "Bekannt für Kansas City-Style Barbecue, das durch langsame Räucherung besticht",
+        "Diente im 19. Jahrhundert als primärer Ausgangspunkt für Pioniere in Richtung Westen",
+        "Beherbergt das einzige offizielle Nationalmuseum zum Ersten Weltkrieg in den USA"
+      ]
+    },
+    {
+      "id": "long-beach-cities-v2",
+      "descriptionAdvanced": "Long Beach ist eine bedeutende Küstenstadt im Los Angeles County in Südkalifornien, gelegen direkt am Pazifischen Ozean. Sie zeichnet sich vor allem durch ihren gigantischen Hafen aus; der Hafen von Long Beach bildet zusammen mit dem angrenzenden Hafen von Los Angeles den größten Hafenkomplex der Vereinigten Staaten und eine Lebensader für den pazifischen Überseehandel. Gegründet 1897, entwickelte sich die Stadt im frühen 20. Jahrhundert durch die Entdeckung reicher Ölfelder rapide weiter. Heute ist Long Beach eine diverse Metropole mit einer starken maritimen Industrie und bedeutender Luft- und Raumfahrtfertigung. Ein berühmtes touristisches Wahrzeichen ist die RMS Queen Mary, ein historischer britischer Ozeandampfer, der hier seit 1967 permanent als Hotel und Museum vor Anker liegt. Geographie K8 — Maritime Logistikzentren am Pazifik.",
+      "factsAdvanced": [
+        "1897 als eigenständige Gemeinde in Südkalifornien inkorporiert",
+        "Der Hafen ist der zweitgrößte Containerhafen der Vereinigten Staaten",
+        "Heimat des historischen Ozeandampfers RMS Queen Mary",
+        "Beherbergt das renommierte Aquarium of the Pacific",
+        "Wichtiger Standort für die US-Luft- und Raumfahrtindustrie",
+        "Bekannt für den Grand Prix of Long Beach, ein berühmtes Straßenrennen"
+      ]
+    },
+    {
+      "id": "mesa-cities-v2",
+      "descriptionAdvanced": "Mesa ist die drittgrößte Stadt in Arizona und liegt unmittelbar östlich von Phoenix in der riesigen Metropolregion 'Valley of the Sun'. Gegründet im Jahr 1878 durch Pioniere der Kirche Jesu Christi der Heiligen der Letzten Tage (Mormonen), entwickelte sich Mesa rasch durch den Ausbau eines hochentwickelten Kanalsystems, das auf den Ruinen antiker Hohokam-Wasserwege basierte. Heute ist Mesa weitaus mehr als nur eine Vorstadt; sie besitzt eine florierende Wirtschaft in den Bereichen Gesundheitswesen, Bildung und Luftfahrt (angetrieben durch den nahen Boeing-Standort). Die Stadt lockt zudem mit weitreichenden Wüstenlandschaften für Outdoor-Aktivitäten in den nahegelegenen Superstition Mountains. Geographie K7 — Bewässerungstechniken in indigenen und modernen Wüstenstädten.",
+      "factsAdvanced": [
+        "Gegründet 1878 durch mormonische Pioniere aus Utah",
+        "Der Name 'Mesa' (spanisch für Tisch) bezieht sich auf die plateauförmige Lage",
+        "Baut auf historischen Bewässerungskanälen des indigenen Hohokam-Volkes auf",
+        "Beherbergt den größten Tempel der Mormonen in Arizona",
+        "Ist ein wichtiger Produktionsstandort für Boeing-Angriffshubschrauber (Apache)",
+        "Gilt als eine der größten Vorstädte in den Vereinigten Staaten"
+      ]
+    },
+    {
+      "id": "atlanta-cities-v2",
+      "descriptionAdvanced": "Atlanta, die Hauptstadt des Bundesstaates Georgia, ist das unumstrittene wirtschaftliche und kulturelle Herz des amerikanischen Südens. Gegründet 1837 am Endpunkt einer neuen Eisenbahnlinie ('Terminus'), wuchs die Stadt rasant, bevor sie im Amerikanischen Bürgerkrieg 1864 durch die Truppen von General Sherman fast vollständig niedergebrannt wurde. In den 1960er Jahren wurde Atlanta zum Epizentrum der Bürgerrechtsbewegung, maßgeblich geprägt durch den hier geborenen Dr. Martin Luther King Jr., dessen Erbe im King Center fortlebt. Heute ist die Stadt der Hauptsitz internationaler Konzerne wie Coca-Cola, CNN und Delta Air Lines. Zudem verfügt sie über den Hartsfield-Jackson International Airport, einen der geschäftigsten Flughäfen der Welt, und war 1996 Austragungsort der Olympischen Sommerspiele. Geschichte K8 — Wiederaufbau nach dem Bürgerkrieg und die Bürgerrechtsbewegung.",
+      "factsAdvanced": [
+        "1837 als Eisenbahnknotenpunkt 'Terminus' gegründet, später in Atlanta umbenannt",
+        "Wurde im Amerikanischen Bürgerkrieg 1864 fast vollständig zerstört",
+        "Geburtsort von Dr. Martin Luther King Jr. und Zentrum der Bürgerrechtsbewegung",
+        "Hauptquartier der The Coca-Cola Company, die hier 1886 erfunden wurde",
+        "Der Hartsfield-Jackson Airport ist regelmäßig der passagierstärkste Flughafen weltweit",
+        "Gastgeberstadt der Olympischen Sommerspiele im Jahr 1996"
+      ]
+    },
+    {
+      "id": "colorado-springs-cities-v2",
+      "descriptionAdvanced": "Colorado Springs liegt am Ostrand der Rocky Mountains in Colorado, direkt am Fuße des majestätischen, über 4300 Meter hohen Pikes Peak. Die Stadt wurde 1871 von General William Palmer als eleganter Kurort (Resort) gegründet, um Touristen aufgrund der sauberen, trockenen Bergluft anzulocken. Neben dem Tourismus wird die Wirtschaft heute maßgeblich vom US-Militär geprägt; hier befinden sich die elitäre United States Air Force Academy sowie das nordamerikanische Luft- und Weltraum-Verteidigungskommando (NORAD) im nahegelegenen Cheyenne Mountain. Zu den beeindruckendsten Naturschönheiten gehört der 'Garden of the Gods', ein riesiger öffentlicher Park mit spektakulären roten Sandsteinformationen. Geographie K7 — Geologie der Rocky Mountains und militärische Standorte.",
+      "factsAdvanced": [
+        "1871 von General William Jackson Palmer als Kurort gegründet",
+        "Liegt auf einer Höhe von fast 1840 Metern direkt am Fuße des Pikes Peak",
+        "Heimat der prestigeträchtigen United States Air Force Academy",
+        "Die Felsformationen des Garden of the Gods sind ein National Natural Landmark",
+        "Sitz des United States Olympic & Paralympic Committee",
+        "Das NORAD-Kommandozentrum befindet sich im nahegelegenen Cheyenne Mountain-Komplex"
+      ]
+    },
+    {
+      "id": "virginia-beach-cities-v2",
+      "descriptionAdvanced": "Virginia Beach ist die bevölkerungsreichste Stadt im Bundesstaat Virginia und erstreckt sich an der strategisch wichtigen Mündung der Chesapeake Bay in den Atlantischen Ozean. Historisch ist der nahegelegene Cape Henry die Stelle der ersten Landung der englischen Kolonisten im Jahr 1607, bevor diese weiterzogen, um Jamestown zu gründen. Die Stadt ist vor allem als Resort-Metropole berühmt, deren riesiger Hotelgürtel und eine über fünf Kilometer lange Strandpromenade ('Boardwalk') alljährlich Millionen Urlauber anziehen. Zudem beherbergt Virginia Beach einen massiven Anteil des militärischen-industriellen Komplexes, insbesondere die Naval Air Station Oceana. Landwirtschaftlich sind die südlichen Bezirke der Stadt noch stark durch Felder geprägt. Geographie K8 — Küstenökonomie und militärische Infrastruktur am Atlantik.",
+      "factsAdvanced": [
+        "Ort des 'First Landing' der englischen Jamestown-Siedler am Cape Henry (1607)",
+        "Laut Guinness-Buch verfügt die Stadt über den längsten Vergnügungsstrand der Welt",
+        "Die Naval Air Station Oceana ist ein entscheidender Stützpunkt für Marineflugzeuge",
+        "Die Chesapeake Bay Bridge-Tunnel ist eine massive Ingenieursleistung in der Nähe",
+        "Erlebte erst ab den 1960er Jahren ein drastisches Bevölkerungswachstum",
+        "Ist flächenmäßig die größte Stadt im Bundesstaat Virginia"
+      ]
+    },
+    {
+      "id": "raleigh-cities-v2",
+      "descriptionAdvanced": "Raleigh, benannt nach dem englischen Entdecker Sir Walter Raleigh, ist die Hauptstadt von North Carolina. Sie wurde 1792 gezielt auf einem Stück Land als neue Hauptstadt entworfen und liegt im Zentrum des Bundesstaates. Raleigh wird wegen seiner vielen Eichen häufig als 'City of Oaks' bezeichnet. Zusammen mit dem nahen Durham und Chapel Hill bildet die Stadt das sogenannte 'Research Triangle'. Dieser Forschungs- und Technologiepark (Research Triangle Park), der durch hochkarätige Universitäten wie die North Carolina State University in Raleigh gestützt wird, macht die Region zu einem der bedeutendsten Innovationszentren für IT, Biotechnologie und Pharmaindustrie in den Vereinigten Staaten. Geographie K8 — Die Bildung von Technologieclustern im Südosten.",
+      "factsAdvanced": [
+        "1792 als geplante Hauptstadt für North Carolina gegründet",
+        "Trägt den Spitznamen 'City of Oaks' wegen zahlreicher alter Eichenbäume",
+        "Ein Eckpfeiler des 'Research Triangle Park' (RTP), einem der größten Technologieparks",
+        "Heimat der North Carolina State University (NC State)",
+        "Verfügt über ein staatliches Kapitol im neoklassizistischen Architekturstil",
+        "Die Wirtschaft verlagerte sich von Textilien und Landwirtschaft zur Spitzenforschung"
+      ]
+    },
+    {
+      "id": "omaha-cities-v2",
+      "descriptionAdvanced": "Omaha ist die größte Stadt des Bundesstaates Nebraska und liegt am westlichen Ufer des mächtigen Missouri River. Die Siedlung entstand 1854 kurz nach dem Kansas-Nebraska Act und diente als entscheidender Ausgangspunkt für die Pioniere, die nach Westen aufbrachen (Omaha wurde oft als das 'Tor zum Westen' bezeichnet). Ein gigantischer wirtschaftlicher Aufschwung folgte, als Omaha in den 1860er Jahren zum östlichen Endpunkt der ersten transkontinentalen Eisenbahn (Union Pacific) gewählt wurde. Bis ins späte 20. Jahrhundert dominierte die Fleischverpackungsindustrie durch die riesigen Omaha Stockyards. Heute ist die Stadt ein diversifiziertes Finanz- und Technologiezentrum, berühmt als Sitz von Warren Buffetts Holdinggesellschaft Berkshire Hathaway. Wirtschaft K8 — Eisenbahnen, Fleischindustrie und modernes Finanzwesen.",
+      "factsAdvanced": [
+        "1854 am Ufer des Missouri River von Spekulanten aus Council Bluffs gegründet",
+        "Diente ab 1862 als östlicher Endpunkt der Union Pacific Railroad",
+        "Omaha Stockyards waren in den 1950ern die größten Schlachthöfe der Welt",
+        "Ist der globale Hauptsitz von Berkshire Hathaway, geleitet von Warren Buffett",
+        "Das Henry Doorly Zoo and Aquarium besitzt eine der weltgrößten Indoor-Wüsten",
+        "Spitzname 'Gateway to the West' (Tor zum Westen)"
+      ]
+    },
+    {
+      "id": "miami-cities-v2",
+      "descriptionAdvanced": "Miami ist eine der dynamischsten Metropolen Floridas und liegt im Südosten des Staates, direkt am Atlantischen Ozean. Sie wurde 1896 gegründet, maßgeblich vorangetrieben durch die Eisenbahnlinie von Henry Flagler und den Landbesitz der Pionierin Julia Tuttle, was Miami zur einzigen großen US-Stadt macht, die von einer Frau gegründet wurde. Die Metropole ist das finanzielle und kulturelle Herzstück der Region, stark beeinflusst durch jahrzehntelange Einwanderung aus Kuba und ganz Lateinamerika. Dies brachte Miami den Spitznamen 'Hauptstadt Lateinamerikas' ein. Die berühmte Skyline und die pastellfarbenen Art-déco-Gebäude in Miami Beach machen sie zu einem Touristenmagneten. Zudem ist der PortMiami der wichtigste Hafen der Welt für Kreuzfahrtschiffe. Geographie K8 — Migration und Tourismuswirtschaft in den Subtropen.",
+      "factsAdvanced": [
+        "Gegründet 1896, gilt als einzige amerikanische Großstadt, die von einer Frau (Julia Tuttle) initiiert wurde",
+        "Trägt den Beinamen 'Hauptstadt Lateinamerikas' aufgrund der starken hispanischen Bevölkerungsmehrheit",
+        "Der Stadtteil Little Havana entstand durch massive kubanische Einwanderung ab den 1960er Jahren",
+        "Verfügt über die größte Ansammlung von Art-déco-Architektur in Miami Beach",
+        "Der Hafen von Miami (PortMiami) ist als 'Cruise Capital of the World' bekannt",
+        "Gelegen unmittelbar neben dem einzigartigen Ökosystem der Everglades"
+      ]
+    },
+    {
+      "id": "oakland-cities-v2",
+      "descriptionAdvanced": "Oakland liegt an den östlichen Ufern der Bucht von San Francisco (East Bay) in Nordkalifornien. Nach ihrer Gründung im Jahr 1852 entwickelte sich die Stadt 1868 rasant weiter, als sie als westlicher Endpunkt der transkontinentalen Eisenbahnlinie ausgewählt wurde. Diese entscheidende logistische Rolle wurde im 20. Jahrhundert durch den Hafen von Oakland untermauert, der heute einer der verkehrsreichsten Containerhäfen der US-Westküste ist und stark im asiatischen Überseehandel agiert. Die Bevölkerungsstruktur von Oakland ist historisch äußerst vielfältig; in den 1960er Jahren war die Stadt zudem der Gründungsort der Black Panther Party. Während das nahegelegene San Francisco eine technologische Explosion erlebte, hat sich Oakland als erschwinglicheres, kulturell pulsierendes Zentrum mit einer robusten Industrie behauptet. Geschichte K8 — Bürgerrechtsbewegung und maritime Logistik in Kalifornien.",
+      "factsAdvanced": [
+        "1852 während des kalifornischen Goldrauschs inkorporiert",
+        "Diente ab 1868 als der westliche Endpunkt der Transkontinentalen Eisenbahn",
+        "Der Hafen von Oakland ist einer der größten Seehäfen an der US-Pazifikküste",
+        "Wurde 1966 zum Gründungsort der radikalen Black Panther Party",
+        "Ist direkt über die Bay Bridge mit San Francisco verbunden",
+        "Verfügt über den Lake Merritt, einen markanten Gezeitensee mitten im Stadtgebiet"
+      ]
+    },
+    {
+      "id": "minneapolis-cities-v2",
+      "descriptionAdvanced": "Minneapolis bildet zusammen mit dem benachbarten St. Paul die Metropolregion der 'Twin Cities' (Zwillingsstädte) in Minnesota. Die Stadt breitet sich an den Ufern des oberen Mississippi Rivers aus und ist berühmt für ihre immense Dichte an Seen, Parks und Wasserwegen, was ihr den Spitznamen 'City of Lakes' einbrachte. Historisch wurde das Wachstum von Minneapolis durch die St. Anthony Falls angetrieben; hier nutzte man im 19. Jahrhundert die Wasserkraft, um massive Sägewerke und Getreidemühlen zu betreiben, was die Stadt zur damaligen Welthauptstadt der Mehlproduktion (Pillsbury, General Mills) machte. Heute dominiert ein florierender Dienstleistungs- und Finanzsektor die Wirtschaft. Ein umfassendes Skyway-System (geschlossene Fußgängerbrücken) verbindet die Gebäude in Downtown zum Schutz vor den bitterkalten Wintern. Wirtschaft K8 — Nutzung von Wasserkraft in der Lebensmittelproduktion.",
+      "factsAdvanced": [
+        "Wuchs an den St. Anthony Falls, dem einzigen natürlichen Wasserfall am Mississippi River",
+        "War im späten 19. und frühen 20. Jahrhundert das globale Zentrum der Mehlmüllerei",
+        "Trägt den Spitznamen 'City of Lakes' wegen seiner mehr als zehn Stadtseen",
+        "Das Minneapolis Skyway System ist das längste kontinuierliche System seiner Art (18 km)",
+        "Ist die Heimat der Mall of America, einem der größten Einkaufszentren (in der Vorstadt Bloomington)",
+        "Stark geprägt durch skandinavische und deutsche Einwanderer im 19. Jahrhundert"
+      ]
+    },
+    {
+      "id": "tulsa-cities-v2",
+      "descriptionAdvanced": "Tulsa im Nordosten von Oklahoma liegt in einer grünen, hügeligen Region in den Ozark Mountains und am Ufer des Arkansas Rivers. Die Siedlung entstand in den 1830er Jahren, als Stämme der Creek- und Lochapoka-Indianer gezwungen wurden, auf dem 'Pfad der Tränen' hierher umzusiedeln. Zu Beginn des 20. Jahrhunderts katapultierte die Entdeckung gewaltiger Ölquellen bei Red Fork und Glenn Pool Tulsa zur 'Ölhauptstadt der Welt'. Die immensen Gewinne aus der Ölindustrie finanzierten den Bau zahlreicher atemberaubender Art-déco-Wolkenkratzer, die noch heute die Skyline prägen. Ein tiefes historisches Trauma ist das Massaker von Tulsa (1921), bei dem der florierende afroamerikanische Stadtteil Greenwood, bekannt als 'Black Wall Street', von einem weißen Mob systematisch zerstört wurde. Geschichte K8 — Der Ölboom und rassistische Gewalt im 20. Jahrhundert.",
+      "factsAdvanced": [
+        "In den 1830er Jahren von zwangsumgesiedelten indigenen Völkern besiedelt",
+        "Trägt aufgrund des frühen Ölbooms den historischen Titel 'Ölhauptstadt der Welt'",
+        "Besitzt nach Miami eine der landesweit größten Sammlungen von Art-déco-Architektur",
+        "Schauplatz des verheerenden Tulsa Race Massacre im Jahr 1921 im Viertel Greenwood",
+        "Gelegen an der legendären Route 66, die maßgeblich in Tulsa konzipiert wurde",
+        "Die Wirtschaft diversifizierte sich nach dem Rückgang der Ölpreise in die Luftfahrt"
+      ]
+    },
+    {
+      "id": "arlington-tx-cities-v2",
+      "descriptionAdvanced": "Arlington, strategisch günstig im Herzen des Dallas-Fort Worth Metroplex in Nordtexas gelegen, ist eine der am schnellsten wachsenden Städte der USA. Obwohl sie von riesigen Metropolen umgeben ist, hat sich Arlington als massives Zentrum für Unterhaltung und Sport positioniert. Die Stadt beherbergt das gigantische AT&T Stadium, die Hightech-Heimat des NFL-Teams Dallas Cowboys, sowie den Globe Life Field der Texas Rangers im Baseball. Darüber hinaus befindet sich hier der ursprüngliche Six Flags Over Texas Vergnügungspark, der 1961 eröffnet wurde. Wirtschaftlich profitiert Arlington zudem von großen Produktionsanlagen, insbesondere einem riesigen Montagewerk von General Motors, sowie der University of Texas at Arlington. Geographie K7 — Freizeit- und Sportökonomie in Großstadtregionen.",
+      "factsAdvanced": [
+        "Geografisches und sportliches Zentrum der Region Dallas-Fort Worth",
+        "Heimat des massiven AT&T Stadium, in dem die Dallas Cowboys (NFL) spielen",
+        "Standort des ersten Six Flags Vergnügungsparks ('Six Flags Over Texas', eröffnet 1961)",
+        "Beherbergt ein großes Automobilmontagewerk von General Motors",
+        "Sitz der University of Texas at Arlington (UTA)",
+        "Es existiert kein öffentliches Nahverkehrssystem (Bahnen), was sehr selten für eine Stadt dieser Größe ist"
+      ]
+    },
+    {
+      "id": "new-orleans-cities-v2",
+      "descriptionAdvanced": "New Orleans liegt im Südosten Louisianas, majestätisch am Mississippi River in der Nähe seiner Mündung in den Golf von Mexiko. Gegründet 1718 von französischen Kolonisten, wurde die Stadt später spanisch regiert, bevor sie 1803 Teil der Vereinigten Staaten wurde (Louisiana Purchase). Diese komplexe Geschichte schuf eine einzigartige kreolische und Cajun-Kultur, die das Essen (Gumbo, Jambalaya), die Architektur des French Quarter und die tiefe musikalische Tradition durchdrungen hat. New Orleans gilt als unangefochtene Geburtsstätte des Jazz. Jährlich zieht das exzessive Karnevalsfest Mardi Gras Millionen von Besuchern an. Tragischerweise wurde die Stadt, die zu großen Teilen unter dem Meeresspiegel liegt, im Jahr 2005 durch die Überflutungen des Hurrikans Katrina schwer verwüstet und nachhaltig verändert. Geographie K8 — Mündungsgebiete, kulturelle Vielfalt und Naturkatastrophen.",
+      "factsAdvanced": [
+        "1718 durch den Franzosen Jean-Baptiste Le Moyne de Bienville gegründet",
+        "Liegt im Schwemmland des Mississippi Rivers, teils unter dem Meeresspiegel",
+        "Weltweit anerkannte Geburtsstätte des Jazz (z.B. Louis Armstrong)",
+        "Bekannt für die Architektur des historischen French Quarter",
+        "Austragungsort des jährlichen Mardi Gras Festivals",
+        "Wurde 2005 durch Deichbrüche nach dem Hurrikan Katrina katastrophal überflutet"
+      ]
+    },
+    {
+      "id": "wichita-cities-v2",
+      "descriptionAdvanced": "Wichita ist die bevölkerungsreichste Stadt im Bundesstaat Kansas und liegt in der weiten Prärie am Ufer des Arkansas Rivers. Gegründet in den 1860er Jahren, profitierte sie als wichtiger Handelsposten auf dem Chisholm Trail massiv von den riesigen Rindertrieben von Texas nach Norden in Richtung Eisenbahn. In den 1920er Jahren entdeckte man Öl, was den ersten Boom auslöste. Im 20. Jahrhundert verlagerte sich die Wirtschaft dramatisch auf die Luftfahrtindustrie. Pioniere wie Clyde Cessna und Walter Beech gründeten hier ihre Unternehmen, weshalb Wichita als die 'Luftfahrthauptstadt der Welt' (Air Capital of the World) bekannt ist. Noch heute produzieren Firmen wie Textron, Learjet und Spirit AeroSystems hier zivile und militärische Flugzeuge. Wirtschaft K8 — Der Wandel vom Viehhandel zur Hightech-Luftfahrt.",
+      "factsAdvanced": [
+        "Gegründet in den 1860er Jahren, inkorporiert 1870",
+        "Im 19. Jahrhundert eine entscheidende Haltestelle am Chisholm Trail für Rindertriebe",
+        "Gilt weltweit als 'Air Capital of the World' (Luftfahrthauptstadt)",
+        "Heimat großer Flugzeughersteller wie Cessna, Beechcraft und Stearman",
+        "Die Entdeckung von Öl in der Region finanzierte den frühen Ausbau der Luftfahrt",
+        "Beherbergt die McConnell Air Force Base für militärische Logistik"
+      ]
+    },
+    {
+      "id": "cleveland-cities-v2",
+      "descriptionAdvanced": "Cleveland liegt im Nordosten von Ohio am südlichen Ufer des Eriesees und an der Mündung des Cuyahoga Rivers. Die 1796 von General Moses Cleaveland gegründete Siedlung profitierte ab 1832 immens vom Bau des Ohio-Erie-Kanals, der den See mit dem Ohio River verband. Dieser geografische Vorteil katapultierte Cleveland zu einem gigantischen Industriezentrum für Stahlproduktion und Ölraffinerie, in dem John D. Rockefeller 1870 Standard Oil gründete. Nach dem industriellen Niedergang im späten 20. Jahrhundert (dem 'Rust Belt'-Syndrom) hat sich die Stadt durch Investitionen in das Gesundheitswesen (Cleveland Clinic) und die Kultur revitalisiert. Internationale Bekanntheit genießt Cleveland als Sitz der 1995 eröffneten Rock and Roll Hall of Fame. Wirtschaft K8 — Industrialisierung und Strukturwandel im Rust Belt.",
+      "factsAdvanced": [
+        "1796 durch Moses Cleaveland für die Connecticut Land Company gegründet",
+        "Der Ohio-Erie-Kanal (1832) machte die Stadt zu einem Logistikzentrum",
+        "John D. Rockefeller gründete hier 1870 die Standard Oil Company",
+        "Gehört zum historischen Industriegürtel der USA ('Rust Belt')",
+        "Heimat der weltberühmten Rock and Roll Hall of Fame an der Uferpromenade",
+        "Die Cleveland Clinic ist heute einer der weltweit besten medizinischen Komplexe"
+      ]
+    }
+  ]
+}

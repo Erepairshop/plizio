@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "homoine-cities-v2",
+      "descriptionAdvanced": "Homoine is a historic rural district capital situated in the heart of Inhambane Province. Known primarily as a vibrant agricultural center, the town is deeply rooted in the production of cashew nuts, cassava, and peanuts. Homoine gained tragic international recognition as the site of a devastating massacre during the Mozambican Civil War in 1987, a deeply somber chapter in its history. Today, the town is focused on agricultural recovery and infrastructural rebuilding, serving as a critical market hub that connects isolated rural farming communities to the larger transport networks heading toward the coast. History K8 — Civil war impacts, rural recovery, and agricultural hubs.",
+      "factsAdvanced": [
+        "Capital of the Homoine District in Inhambane Province.",
+        "Site of the tragic Homoine Massacre in July 1987 during the civil war.",
+        "A major regional producer of cashew nuts and cassava.",
+        "Located inland, west of the coastal city of Maxixe.",
+        "Features historic colonial-era administrative architecture.",
+        "The district population is approximately 115,000."
+      ]
+    },
+    {
+      "id": "panda-cities-v2",
+      "descriptionAdvanced": "Panda is a remote and deeply traditional district center located in the interior of Inhambane Province. Characterized by its vast, arid savannahs and sparse population, the town represents the challenging rural geography of southern Mozambique. The local economy is entirely dependent on subsistence agriculture and the raising of livestock, particularly cattle and goats. Panda is culturally significant for its preservation of indigenous traditions uninfluenced by coastal tourism, acting as a crucial administrative anchor for the scattered pastoralist communities navigating the harsh inland climate. Geography K7 — Arid savannahs, pastoralism, and remote administration.",
+      "factsAdvanced": [
+        "Capital of the Panda District in the interior of Inhambane Province.",
+        "Characterized by a semi-arid, savannah-like climate.",
+        "The local economy relies heavily on cattle and goat herding.",
+        "Located far off the primary EN1 coastal highway.",
+        "One of the least densely populated districts in the province.",
+        "Agriculture is highly vulnerable to seasonal droughts."
+      ]
+    },
+    {
+      "id": "maciene-cities-v2",
+      "descriptionAdvanced": "Maciene is an important cultural and educational settlement located just north of Xai-Xai in Gaza Province. It is historically renowned as the site of a massive Anglican mission established in the early 20th century. The magnificent Cathedral of St. Augustine in Maciene, constructed from striking red brick, remains one of the most iconic religious structures in southern Mozambique. The town has long served as a vital center for education, health, and spiritual life in the Limpopo Valley region, deeply influencing the intellectual and social development of generations of Mozambicans. History K8 — Missionary settlements, religious architecture, and colonial education.",
+      "factsAdvanced": [
+        "Located in Gaza Province, just a few kilometers from Xai-Xai.",
+        "Famous for the massive red-brick Cathedral of St. Augustine.",
+        "Historically a highly influential Anglican missionary center.",
+        "Served as a primary hub for education in the region during the colonial era.",
+        "Situated near the fertile floodplains of the Limpopo River.",
+        "The cathedral remains a major pilgrimage site."
+      ]
+    },
+    {
+      "id": "macia-cities-v2",
+      "descriptionAdvanced": "Macia is a bustling, rapidly growing town in Gaza Province, strategically located at the critical junction where the EN1 highway meets the road leading to the coastal tourist town of Bilene. Serving as the commercial heartbeat of the Bilene Macia District, the town thrives on transport logistics, retail, and informal trade. It acts as the primary distribution center for agricultural goods produced in the fertile Limpopo basin. Macia's constant flow of freight trucks and tourists heading to the coast makes it one of the most energetic transit hubs in southern Mozambique. Geography K7 — Highway junctions, transport logistics, and retail centers.",
+      "factsAdvanced": [
+        "Located on the EN1 highway in the Gaza Province.",
+        "Serves as the primary turn-off point for the coastal resort of Bilene.",
+        "Capital of the Bilene Macia District.",
+        "A major center for informal retail and agricultural distribution.",
+        "Strategically located between Maputo and Xai-Xai.",
+        "Experiences massive transit traffic during the holiday season."
+      ]
+    },
+    {
+      "id": "chokwe-cities-v2",
+      "descriptionAdvanced": "Chókwè is the undisputed agricultural capital of Gaza Province, situated in the heart of the Limpopo River basin. Historically known as Trigo de Morais, the city is surrounded by one of the largest and most complex irrigation schemes in southern Africa, built to maximize the region's massive agricultural potential. The area is a powerhouse for rice, maize, and tomato production, heavily contributing to Mozambique's food security. However, Chókwè's low-lying position makes it incredibly vulnerable; it was almost entirely submerged during the catastrophic Limpopo floods of 2000, requiring extensive reconstruction. Geography K7 — Irrigated agriculture, floodplains, and food security.",
+      "factsAdvanced": [
+        "Known historically as Trigo de Morais.",
+        "Located in the Limpopo River valley in Gaza Province.",
+        "Surrounded by the largest irrigation scheme in Mozambique.",
+        "The country's premier region for rice and tomato cultivation.",
+        "Suffered near-total inundation during the devastating 2000 floods.",
+        "Serves as a crucial node on the Limpopo railway line."
+      ]
+    },
+    {
+      "id": "massingir-cities-v2",
+      "descriptionAdvanced": "Massingir is a strategic border town located in western Gaza Province, adjacent to South Africa's Kruger National Park. The town's geography and economy are entirely defined by the massive Massingir Dam, an earth-fill dam constructed on the Elephants River. The dam's immense reservoir provides critical irrigation to the Limpopo valley downstream and supports a growing freshwater fishing industry. Additionally, Massingir acts as a major ecotourism gateway, hosting the border crossing that links Kruger National Park to Mozambique's Limpopo National Park, forming the Great Limpopo Transfrontier Park. Geography K8 — Hydropower dams, transfrontier parks, and irrigation geography.",
+      "factsAdvanced": [
+        "Located in Gaza Province, bordering South Africa.",
+        "Home to the massive Massingir Dam on the Elephants River.",
+        "The dam provides vital water regulation for the Limpopo valley.",
+        "Gateway to the Mozambican side of the Great Limpopo Transfrontier Park.",
+        "Features a tourist border crossing directly into Kruger National Park.",
+        "The reservoir supports a robust local freshwater fishing economy."
+      ]
+    },
+    {
+      "id": "namaacha-cities-v2",
+      "descriptionAdvanced": "Namaacha is a scenic border town situated in the Lebombo Mountains in Maputo Province, where Mozambique meets both Eswatini and South Africa. Elevated and distinctly cooler than the coastal capital, the town is enveloped by lush vegetation and pine forests, making it a historic retreat destination. Namaacha is famous for its natural mineral water springs, which are bottled and distributed nationally. The town also boasts beautiful colonial architecture, including the grand Shrine of Our Lady of Fatima, a major site for national religious pilgrimages. Geography K7 — Tri-border areas, mountain climates, and natural springs.",
+      "factsAdvanced": [
+        "Located in the Lebombo Mountains at the tri-border of Mozambique, Eswatini, and South Africa.",
+        "Known for its cool microclimate compared to Maputo.",
+        "Home to the source of Mozambique's famous 'Água da Namaacha' mineral water.",
+        "Features the iconic Shrine of Our Lady of Fatima, built in 1944.",
+        "A major crossing point for traffic entering Eswatini.",
+        "Historically a popular summer retreat for colonial administrators."
+      ]
+    },
+    {
+      "id": "boane-cities-v2",
+      "descriptionAdvanced": "Boane is a rapidly industrializing district capital situated just west of Maputo, along the banks of the Umbeluzi River. While historically a quiet agricultural zone known for vast citrus orchards and cattle ranching, it has recently transformed into a vital extension of the capital's industrial corridor. Boane is home to major national infrastructure, including extensive military barracks and a critical railway junction connecting Maputo to Eswatini. The town's growth is heavily tied to the nearby Beluluane Industrial Park, providing housing and services for the massive local workforce. Geography K7 — Suburban industrialization, rail corridors, and military geography.",
+      "factsAdvanced": [
+        "Located approximately 30 km west of central Maputo.",
+        "Situated on the banks of the Umbeluzi River.",
+        "Historically famous for large-scale citrus farming.",
+        "A key railway junction linking Maputo to the Eswatini border at Goba.",
+        "Hosts one of the largest military bases in Mozambique.",
+        "Experiencing rapid suburban expansion linked to the Beluluane Industrial Park."
+      ]
+    },
+    {
+      "id": "mz-port-maputo-economic-v2",
+      "descriptionAdvanced": "The Port of Maputo is the largest and most sophisticated maritime facility in Mozambique, strategically positioned on the sheltered waters of Maputo Bay. As the anchor of the Maputo Development Corridor, it serves as the primary export gateway for the massive industrial and mining sectors of landlocked South Africa and Eswatini. The port handles millions of tons of cargo annually, including chrome, ferrochrome, coal, and sugar. Operated through a successful public-private partnership since 2003, it has undergone extensive dredging and modernization, making it a critical logistical engine for the entire Southern African Development Community (SADC). Geography K8 — Deep-water ports, regional logistics, and international trade corridors.",
+      "factsAdvanced": [
+        "The largest port facility in Mozambique.",
+        "Strategically anchors the Maputo Development Corridor.",
+        "Handles over 25 million tons of cargo annually.",
+        "Major exports include South African chrome, coal, and ferrochrome.",
+        "Managed by the Maputo Port Development Company (MPDC) since 2003.",
+        "Features dedicated terminals for cars, sugar, and bulk minerals."
+      ]
+    },
+    {
+      "id": "mz-port-beira-economic-v2",
+      "descriptionAdvanced": "The Port of Beira, located at the mouth of the Pungwe River, is a cornerstone of central Mozambique's economy and a vital lifeline for landlocked Zimbabwe, Malawi, and Zambia. Established during the colonial era, the port is uniquely positioned to handle both regional agricultural exports and massive mineral transit. Despite the continuous challenge of heavy siltation requiring constant dredging, Beira remains one of East Africa's busiest cargo hubs. The port features specialized roll-on/roll-off and container terminals, and plays a crucial role in importing fuel via the Beira-Feruka pipeline to Zimbabwe. Geography K8 — Siltation management, landlocked country transit, and maritime logistics.",
+      "factsAdvanced": [
+        "Located at the estuary of the Pungwe River in central Mozambique.",
+        "The primary maritime gateway for Zimbabwe, Malawi, and Zambia.",
+        "Requires continuous, massive dredging operations due to heavy siltation.",
+        "Features a major terminal for the Beira-Feruka oil pipeline.",
+        "Operated by Cornelder de Moçambique since 1998.",
+        "Handles extensive exports of tobacco, cotton, and coal."
+      ]
+    },
+    {
+      "id": "mz-port-nacala-economic-v2",
+      "descriptionAdvanced": "The Port of Nacala is globally recognized as the deepest natural harbor on the eastern coast of Africa, capable of accommodating massive Capesize vessels without the need for dredging. Located in Nampula Province, it forms the terminus of the Nacala Logistics Corridor, a railway network stretching into Malawi and the coal fields of Tete. Due to a massive multibillion-dollar redevelopment driven largely by international mining conglomerates, Nacala has transformed into a high-capacity coal export terminal, while also serving regional agricultural transit. Its unmatched depth makes it strategically invaluable for heavy maritime logistics. Geography K8 — Natural harbors, Capesize vessels, and mineral export corridors.",
+      "factsAdvanced": [
+        "The deepest natural harbor on the East African coast.",
+        "Does not require artificial dredging to accommodate large vessels.",
+        "The terminus of the 912 km Nacala Logistics Corridor railway.",
+        "Underwent a massive upgrade to export Moatize basin coal.",
+        "Can handle massive Capesize bulk carriers up to 200,000 DWT.",
+        "Crucial for the import and export needs of landlocked Malawi."
+      ]
+    },
+    {
+      "id": "mz-port-pemba-economic-v2",
+      "descriptionAdvanced": "The Port of Pemba is situated on the enormous Pemba Bay in Cabo Delgado Province. Historically a small, regional facility handling timber and local agricultural produce, it has been thrust into global prominence due to the discovery of massive offshore natural gas reserves in the nearby Rovuma Basin. The port is currently undergoing profound logistical upgrades to serve as the primary supply and staging base for multinational energy corporations developing liquefied natural gas (LNG) infrastructure. Its natural deep-water characteristics and strategic northern location make it a focal point of Mozambique's emerging energy sector. Geography K8 — Offshore energy logistics, natural bays, and resource booms.",
+      "factsAdvanced": [
+        "Located on Pemba Bay, one of the world's largest natural bays.",
+        "Traditionally handled coastal shipping of timber and cashew nuts.",
+        "Currently the primary logistical base for Rovuma Basin gas exploration.",
+        "Experiencing massive infrastructural upgrades driven by the LNG sector.",
+        "Located in the capital city of Cabo Delgado Province.",
+        "Serves multinational energy giants operating offshore."
+      ]
+    },
+    {
+      "id": "mz-mozal-smelter-economic-v2",
+      "descriptionAdvanced": "The Mozal Aluminium Smelter, located in the Beluluane Industrial Park near Maputo, is the largest single industrial investment in Mozambique's history and a cornerstone of its modern economy. Commencing operations in 2000, it is a massive joint venture led by South 32. The smelter does not mine local bauxite; instead, it imports alumina from Western Australia, processes it using vast amounts of electricity imported from South Africa's Eskom and Mozambique's Cahora Bassa, and exports the high-grade aluminum ingots globally. Mozal alone accounts for a highly significant percentage of Mozambique's total export earnings. Geography K8 — Heavy industry, global supply chains, and power-intensive manufacturing.",
+      "factsAdvanced": [
+        "The largest single industrial facility in Mozambique.",
+        "Located in the Beluluane Industrial Park, 17 km from Maputo.",
+        "Produces over 500,000 tonnes of high-grade aluminum annually.",
+        "Imports raw alumina primarily from Western Australia.",
+        "Consumes a massive amount of electricity, requiring specialized power agreements.",
+        "Historically accounted for up to 30% of Mozambique's total official exports."
+      ]
+    },
+    {
+      "id": "mz-moatize-mine-economic-v2",
+      "descriptionAdvanced": "The Moatize Coal Mine in Tete Province represents one of the largest undeveloped coal reserves on the planet. Spearheaded initially by the Brazilian mining giant Vale, operations began in 2011, fundamentally altering the economic landscape of central Mozambique. The vast open-pit mine extracts high-quality metallurgical coal used for steelmaking, alongside thermal coal. The sheer volume of extraction necessitated the massive reconstruction of the Sena Railway and the creation of the Nacala Logistics Corridor to transport the millions of tons of coal to deep-water ports for Asian markets. Geography K8 — Open-pit mining, fossil fuel extraction, and global commodity markets.",
+      "factsAdvanced": [
+        "Located in the Moatize Basin, Tete Province.",
+        "One of the largest known coal reserves globally.",
+        "Primary extraction focuses on high-value metallurgical (coking) coal.",
+        "Operations necessitated the multibillion-dollar Nacala Logistics Corridor.",
+        "Initially developed by Vale, which sold its stakes to Vulcan Resources in 2021.",
+        "Transformed Tete city into a booming regional industrial hub."
+      ]
+    },
+    {
+      "id": "mz-moma-titanium-economic-v2",
+      "descriptionAdvanced": "The Moma Titanium Minerals Mine, situated on the remote northern coast of Nampula Province, is one of the world's largest deposits of heavy mineral sands. Operated by the Irish company Kenmare Resources, the mine uses massive floating dredges in artificial ponds to extract ilmenite, rutile, and zircon from the ancient coastal dunes. These minerals are critical raw materials for manufacturing titanium dioxide pigment, used globally in paints, plastics, and paper. The facility operates its own dedicated coastal jetty, allowing the processed heavy minerals to be loaded directly onto ocean-going bulk carriers. Geography K8 — Heavy mineral sands, coastal dune mining, and global supply chains.",
+      "factsAdvanced": [
+        "Located on the coast of Nampula Province.",
+        "Operated by Kenmare Resources since 2007.",
+        "Extracts ilmenite, rutile, and zircon from ancient sand dunes.",
+        "Accounts for roughly 7% of the world's titanium feedstock supply.",
+        "Utilizes massive floating dredgers operating in artificial freshwater ponds.",
+        "Features a dedicated marine terminal for direct export loading."
+      ]
+    },
+    {
+      "id": "mz-temane-gas-economic-v2",
+      "descriptionAdvanced": "The Temane and Pande Gas Fields, located in the onshore basin of Inhambane Province, represent the genesis of Mozambique's modern hydrocarbon industry. Developed in partnership with the South African energy giant Sasol, the central processing facility at Temane extracts and treats natural gas before pumping it through an 865-kilometer underground pipeline directly to the industrial heartland of Secunda, South Africa. This massive energy infrastructure project not only powers South African heavy industry but also supplies domestic power plants in Maputo, playing a crucial role in regional energy security and Mozambican revenue. Geography K8 — Natural gas extraction, cross-border pipelines, and energy security.",
+      "factsAdvanced": [
+        "Located onshore in the northern Inhambane Province.",
+        "Operated in a major joint venture led by South Africa's Sasol.",
+        "Gas is transported via an 865 km pipeline to Secunda, South Africa.",
+        "Operations commenced in 2004, pioneering Mozambique's gas sector.",
+        "A portion of the gas is reserved for domestic use, powering Maputo.",
+        "The fields have driven significant localized infrastructure development."
+      ]
+    },
+    {
+      "id": "mz-cahora-bassa-dam-economic-v2",
+      "descriptionAdvanced": "The Cahora Bassa Dam is an engineering marvel and one of the largest hydroelectric facilities in Africa, spanning the mighty Zambezi River in Tete Province. Constructed during the final years of Portuguese colonial rule and completed in 1974, it creates an enormous artificial lake that stretches over 250 kilometers. The dam's massive turbines generate over 2,000 megawatts of electricity, the vast majority of which is exported to South Africa via a remarkable high-voltage direct current (HVDC) transmission line. Cahora Bassa remains the undisputed powerhouse of Mozambique's economy and regional energy diplomacy. Geography K8 — Megadams, hydroelectric power, and HVDC transmission.",
+      "factsAdvanced": [
+        "Located on the Zambezi River in Tete Province.",
+        "The largest hydroelectric power station in southern Africa, producing 2,075 MW.",
+        "Completed in 1974 during the Portuguese colonial administration.",
+        "Exports the majority of its power to South Africa via a 1,400 km HVDC line.",
+        "Creates Lake Cahora Bassa, one of Africa's largest artificial reservoirs.",
+        "Ownership was fully transferred to the Mozambican state (HCB) in 2007."
+      ]
+    },
+    {
+      "id": "mz-coral-sul-flng-economic-v2",
+      "descriptionAdvanced": "The Coral Sul FLNG (Floating Liquefied Natural Gas) facility is a pioneering offshore engineering marvel anchored in the deep waters of the Rovuma Basin off the coast of Cabo Delgado. Operated by Eni, it is the first ultra-deepwater FLNG project in the world and the first operational gas producing asset in the Rovuma Basin. The massive vessel extracts natural gas from the ocean floor, supercools it into a liquid state aboard the ship, and offloads it directly onto specialized LNG carriers for global export. It represents a monumental leap in Mozambique's emergence as a global energy superpower. Geography K8 — Offshore gas extraction, FLNG technology, and deepwater logistics.",
+      "factsAdvanced": [
+        "Anchored in water depths of 2,000 meters in the Rovuma Basin.",
+        "The first ultra-deepwater FLNG facility deployed globally.",
+        "Operated by a consortium led by the Italian energy firm Eni.",
+        "Designed to produce 3.4 million tonnes of LNG annually.",
+        "The vessel is 432 meters long, larger than a supercarrier.",
+        "Began its first commercial LNG shipments in late 2022."
+      ]
+    },
+    {
+      "id": "mz-afungi-lng-park-economic-v2",
+      "descriptionAdvanced": "The Afungi LNG Park is a massive, multi-billion-dollar onshore infrastructure project located on the Afungi Peninsula in Cabo Delgado Province. Designed to be the terrestrial processing hub for the colossal natural gas reserves discovered in the offshore Rovuma Basin, it is spearheaded by energy giants like TotalEnergies. The project encompasses vast liquefaction trains, deep-water marine terminals, and a dedicated airport. Although designed to transform Mozambique's economy, construction was abruptly halted in 2021 due to severe regional insurgent attacks, freezing what was Africa's largest foreign direct investment project. Geography K8 — Mega-infrastructure, foreign direct investment, and geopolitical risk.",
+      "factsAdvanced": [
+        "Located on the Afungi Peninsula near Palma, Cabo Delgado.",
+        "Designed to process offshore gas from Area 1 of the Rovuma Basin.",
+        "Represented a projected investment exceeding $20 billion USD.",
+        "Led primarily by the French multinational TotalEnergies.",
+        "Includes plans for multiple onshore LNG liquefaction 'trains'.",
+        "Operations declared 'force majeure' and halted in April 2021 due to conflict."
+      ]
+    },
+    {
+      "id": "mz-chibuto-heavy-sands-economic-v2",
+      "descriptionAdvanced": "The Chibuto Heavy Sands project is a massive open-pit mining operation located in Gaza Province, exploiting one of the world's largest known continuous deposits of titanium-bearing heavy mineral sands. Operated by Chinese conglomerate Ding Sheng Minerals, the mine extracts vast quantities of ilmenite, rutile, and zircon from the arid interior plateau. The project has required immense logistical planning, including the construction of heavy-duty haul roads and proposals for a dedicated railway line to transport the dense minerals to the coast. It represents a major industrial pivot for the traditionally agricultural Gaza Province. Geography K8 — Titanium extraction, heavy minerals, and Chinese foreign investment.",
+      "factsAdvanced": [
+        "Located in the Chibuto District of Gaza Province.",
+        "Exploits a massive, world-class deposit of heavy mineral sands.",
+        "Operated by the Chinese company Ding Sheng Minerals.",
+        "Target minerals include ilmenite, rutile, and zircon.",
+        "Reserves are estimated to last for over 50 years of continuous mining.",
+        "Significantly altering the economic profile of the Limpopo valley region."
+      ]
+    },
+    {
+      "id": "mz-nacala-logistics-economic-v2",
+      "descriptionAdvanced": "The Nacala Logistics Corridor is one of the most ambitious and expensive transport infrastructure projects in African history. Stretching 912 kilometers, it is a heavy-haul railway line built specifically to transport massive quantities of metallurgical coal from the landlocked Moatize basin in Tete to the deep-water port of Nacala. Remarkably, the railway crosses directly through neighboring Malawi, requiring complex bilateral treaties. Financed largely by the mining giant Vale, the corridor not only moves millions of tons of coal but also provides critical freight and passenger services, revitalizing the agricultural economies of the northern provinces. Geography K8 — Multinational transport corridors, heavy-haul railways, and regional integration.",
+      "factsAdvanced": [
+        "A 912 km heavy-haul railway connecting Moatize to the Nacala port.",
+        "The route controversially crosses directly through the sovereign territory of Malawi.",
+        "Cost over $4 billion USD to construct and rehabilitate.",
+        "Designed to transport up to 18 million tons of coal annually.",
+        "Includes a brand new, deep-water coal terminal at Nacala-a-Velha.",
+        "Also provides vital mixed freight and passenger rail services."
+      ]
+    },
+    {
+      "id": "mz-beira-pipeline-terminal-economic-v2",
+      "descriptionAdvanced": "The Beira Pipeline Terminal is a highly strategic energy asset located within the Port of Beira. It serves as the starting point for the Companhia do Pipeline Moçambique-Zimbabwe (CPMZ), a 287-kilometer underground pipeline that pumps refined petroleum products directly into landlocked Zimbabwe. Ending at the Feruka refinery near Mutare, this pipeline is the absolute lifeblood of the Zimbabwean economy, supplying the vast majority of its petrol and diesel. The terminal highlights Mozambique's crucial geopolitical role as the logistical gateway for the landlocked nations of southern Africa. Geography K8 — Petroleum logistics, transnational pipelines, and energy supply chains.",
+      "factsAdvanced": [
+        "Located within the Port of Beira in Sofala Province.",
+        "The origin point of the 287 km CPMZ petroleum pipeline.",
+        "Transports refined petrol and diesel directly to Feruka, Zimbabwe.",
+        "Supplies the overwhelming majority of Zimbabwe's national fuel needs.",
+        "Historically a major strategic target during regional conflicts.",
+        "Operates continuously to meet the high energy demands of the interior."
+      ]
+    },
+    {
+      "id": "mz-sena-railway-yard-economic-v2",
+      "descriptionAdvanced": "The Sena Railway Hub in central Mozambique is a historic and vital transport artery linking the coal-rich Tete Province to the coastal port of Beira. Originally constructed during the colonial era to serve the sugar and cotton estates of the Zambezi valley, the 500-kilometer line was completely destroyed during the Mozambican Civil War. Following a massive reconstruction effort in the 2000s, it was restored primarily to facilitate the export of coal from Moatize. Despite facing severe challenges from flooding and limited capacity compared to the Nacala line, it remains a critical corridor for central Mozambique's economy. Geography K8 — Railway rehabilitation, coal logistics, and post-war reconstruction.",
+      "factsAdvanced": [
+        "A 500 km railway line connecting Tete Province to the Port of Beira.",
+        "Completely destroyed and abandoned during the 15-year civil war.",
+        "Reconstructed at great cost specifically to serve the Moatize coal boom.",
+        "Crosses the Zambezi River via the iconic Dona Ana Bridge.",
+        "Frequently suffers from operational disruptions due to heavy flooding.",
+        "Also facilitates the transport of regional limestone and agricultural goods."
+      ]
+    },
+    {
+      "id": "mz-beluluane-park-economic-v2",
+      "descriptionAdvanced": "The Beluluane Industrial Park (BIP) is Mozambique's premier free-trade zone and industrial hub, located just outside the capital, Maputo. Anchored heavily by the massive Mozal Aluminium Smelter, the park was designed to attract foreign direct investment by offering tax incentives, reliable electricity, and prime access to the Maputo Development Corridor. Today, it hosts dozens of multinational and domestic companies involved in manufacturing, logistics, and heavy industry. BIP serves as a blueprint for industrializing the Mozambican economy, shifting focus from raw resource extraction to value-added manufacturing and regional export. Geography K8 — Special economic zones, industrial parks, and foreign direct investment.",
+      "factsAdvanced": [
+        "Located 17 km from Maputo in the Boane District.",
+        "Mozambique's largest and most successful Special Economic Zone (SEZ).",
+        "Anchored by the massive Mozal Aluminium Smelter.",
+        "Hosts over 40 companies from more than 15 different countries.",
+        "Directly integrated into the logistics of the Maputo Development Corridor.",
+        "Employs thousands of Mozambican workers in the manufacturing sector."
+      ]
+    },
+    {
+      "id": "mz-xinavane-sugar-economic-v2",
+      "descriptionAdvanced": "The Xinavane Sugar Estate is one of the largest and most productive agricultural enterprises in Mozambique, located in Maputo Province along the fertile banks of the Incomati River. Owned primarily by the South African agribusiness giant Tongaat Hulett, the estate encompasses massive, highly modernized irrigated sugarcane plantations and a state-of-the-art processing mill. The facility produces hundreds of thousands of tons of refined sugar annually, supplying the domestic market and exporting heavily to the European Union and regional neighbors. It is a prime example of large-scale, corporate agro-industry dominating the southern floodplains. Geography K7 — Plantation agriculture, agro-processing, and river irrigation.",
+      "factsAdvanced": [
+        "Located in the Manhiça District on the Incomati River floodplains.",
+        "Majority-owned by the South African conglomerate Tongaat Hulett.",
+        "One of the highest-yielding sugar processing mills in southern Africa.",
+        "Produces over 200,000 tons of refined sugar annually.",
+        "Utilizes an extensive and highly sophisticated river irrigation system.",
+        "A major employer, profoundly shaping the local economy of Xinavane."
+      ]
+    }
+  ]
+}

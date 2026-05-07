@@ -1,0 +1,303 @@
+{
+  "lang": "de",
+  "country": "guinea",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mandiana-cities-v2",
+      "descriptionAdvanced": "Mandiana liegt im äußersten Nordosten Guineas, nahe der Grenze zu Mali und der Elfenbeinküste, in einer weiten Savannenlandschaft. Die Stadt ist das Zentrum einer Region, die für ihre landwirtschaftliche Vielfalt bekannt ist, insbesondere für den Anbau von Reis, Yamswurzeln und Erdnüssen. Der Sankarani-Fluss, ein wichtiger Nebenfluss des Niger, fließt durch die Präfektur und bietet Lebensgrundlagen für Fischerei und Bewässerung. Mandiana ist zudem ein bedeutender Standort für den handwerklichen Goldbergbau, der viele Menschen in die Region zieht. Kulturell ist die Stadt fest in den Traditionen der Malinke verwurzelt, was sich in der lokalen Musik und den Festen widerspiegelt. Geographie K6 — Savannenökonomie und Flussressourcen.",
+      "factsAdvanced": [
+        "Strategische Lage nahe der Grenzen zu Mali und der Elfenbeinküste.",
+        "Wichtiger Umschlagplatz für landwirtschaftliche Erzeugnisse der Savanne.",
+        "Zentrum des handwerklichen Goldbergbaus in Oberguinea.",
+        "Gelegen am Sankarani-Fluss, einem bedeutenden Niger-Zulauf.",
+        "Bevölkerung von ca. 25.000 Einwohnern im städtischen Zentrum.",
+        "Bedeutendes Anbaugebiet für Yamswurzeln und hochwertigen Reis.",
+        "Administrative Hauptstadt der Präfektur Mandiana.",
+        "Geprägt von der traditionellen Kultur und Gastfreundschaft der Malinke."
+      ]
+    },
+    {
+      "id": "pita-cities-v2",
+      "descriptionAdvanced": "Pita ist eine charmante Stadt im Herzen des Fouta-Djallon-Hochlands und gilt als eines der touristischen Zentren Guineas. Die Stadt liegt auf einem malerischen Plateau und ist der ideale Ausgangspunkt für Wanderungen zu den spektakulärsten Wasserfällen des Landes, wie den Kinkon-Fällen und den Kambadaga-Fällen. Pita ist bekannt für sein angenehm kühles Gebirgsklima und seine fruchtbaren Böden, auf denen unter anderem Kartoffeln und Gemüse für den nationalen Markt angebaut werden. Kulturell ist Pita ein Zentrum der Fulbe, berühmt für seine traditionellen Webereien und die handwerkliche Herstellung von Leppi-Stoffen. Die Architektur der Stadt mischt koloniale Einflüsse mit traditionellen Elementen. Geographie K7 — Ökotourismus und Hochlandlandwirtschaft.",
+      "factsAdvanced": [
+        "Zentraler Ausgangspunkt für Exkursionen zu den Kinkon-Wasserfällen.",
+        "Bekannt für die Produktion hochwertiger traditioneller Webstoffe.",
+        "Wichtiger Produzent von Kartoffeln und Gemüse im Fouta Djallon.",
+        "Bevölkerung von etwa 28.000 Einwohnern (Stand 2014).",
+        "Beherbergt das Kinkon-Wasserkraftwerk, eines der ältesten des Landes.",
+        "Gelegen auf einer Höhe von ca. 1.000 Metern über dem Meeresspiegel.",
+        "Zentrum der religiösen Bildung und der Fulbe-Traditionen.",
+        "Beliebtes Ziel für Trekking-Begeisterte aus aller Welt."
+      ]
+    },
+    {
+      "id": "tougue-cities-v2",
+      "descriptionAdvanced": "Tougué liegt im nordöstlichen Teil des Fouta-Djallon-Massivs und ist eine Region von herber Schönheit und großer mineralischer Bedeutung. Die Stadt ist das administrative Zentrum einer Präfektur, in der einige der weltweit größten unerschlossenen Bauxitvorkommen entdeckt wurden. Traditionell lebt die Bevölkerung von der extensiven Viehzucht und dem Wanderfeldbau, wobei Hirse und Erdnüsse die Hauptkulturen sind. Die Landschaft ist von weiten Plateaus (Bowé) und tiefen Flusstälern geprägt, die während der Regenzeit spektakuläre Wasserläufe bilden. Tougué bewahrt eine sehr traditionelle Lebensweise und ist ein wichtiges Zentrum der Fulbe-Kultur in dieser eher abgeschiedenen Region. Geographie K8 — Rohstoffpotential und ländlicher Strukturwandel.",
+      "factsAdvanced": [
+        "Beherbergt gewaltige, noch weitgehend unerschlossene Bauxitreserven.",
+        "Wichtiger Standort für die traditionelle Rinderzucht der Fulbe.",
+        "Gelegen im nordöstlichen Ausläufer des Fouta-Djallon-Hochlands.",
+        "Bevölkerung von ca. 26.000 Einwohnern in der Stadtgemeinde.",
+        "Zentrum für den regionalen Handel mit Getreide und Vieh.",
+        "Administrative Hauptstadt der weitläufigen Präfektur Tougué.",
+        "Geprägt von einem Klima mit markanten Temperaturunterschieden.",
+        "Heimat bedeutender historischer Moscheen und Gelehrtenfamilien."
+      ]
+    },
+    {
+      "id": "yomou-cities-v2",
+      "descriptionAdvanced": "Yomou liegt im äußersten Süden Guineas, tief in der Waldregion und unmittelbar an der Grenze zu Liberia. Die Stadt ist von dichtem tropischem Regenwald und wertvollen Holzbeständen umgeben, was die Forstwirtschaft zu einem wichtigen Wirtschaftszweig macht. In der Umgebung werden zudem Kaffee, Kakao und Kautschuk in Plantagen angebaut. Yomou ist das Zentrum des Guerzé-Volkes (Kpelle), deren reiche Kultur und traditionelle Riten die Stadt prägen. Aufgrund der Grenzlage war Yomou in der Vergangenheit stark von den regionalen Konflikten betroffen und diente als wichtiger Anlaufpunkt für Flüchtlinge. Die Region ist bekannt für ihre unberührte Natur und die biologische Vielfalt der angrenzenden Wälder. Geographie K6 — Tropische Waldwirtschaft und Grenzregionen.",
+      "factsAdvanced": [
+        "Südlichste Präfekturhauptstadt Guineas an der Grenze zu Liberia.",
+        "Zentrum der Guerzé-Kultur (Kpelle) in der Waldregion.",
+        "Wichtiger Standort für die Kautschuk- und Holzproduktion.",
+        "Bevölkerung von etwa 15.000 Einwohnern im städtischen Bereich.",
+        "Umgeben von Primär- und Sekundärregenwäldern mit hoher Biodiversität.",
+        "Bedeutender Markt für Produkte aus dem Regenwald und Grenzhandel.",
+        "Administrative Hauptstadt der Präfektur Yomou.",
+        "Klima ist ganzjährig feucht-tropisch mit hohen Niederschlagsraten."
+      ]
+    },
+    {
+      "id": "dalaba-cities-v2",
+      "descriptionAdvanced": "Dalaba ist bekannt als die 'Schweiz Guineas' und liegt auf einer Höhe von etwa 1.200 Metern im Fouta-Djallon-Hochland. Aufgrund ihres außergewöhnlich milden und gesunden Klimas wurde die Stadt während der Kolonialzeit als Höhenkurort und Sanatorium ausgebaut. Dalaba beeindruckt durch seine Alleen mit Pinien und Eukalyptusbäumen sowie durch historische Gebäude wie die 'Case à Palabres'. Die Umgebung bietet spektakuläre Ausblicke auf die Täler und ist reich an Wasserfällen wie dem 'Voile de la Mariée'. Heute ist Dalaba ein Zentrum für den Erdbeeranbau und den Tourismus, während es gleichzeitig seine Rolle als kulturelles und spirituelles Zentrum der Fulbe-Elite bewahrt. Geographie K7 — Klimatische Gunsträume und Tourismusgeschichte.",
+      "factsAdvanced": [
+        "Höchstgelegener ehemaliger Kurort Guineas (ca. 1.200 m).",
+        "Bekannt für sein mildes Klima und die europäisch anmutende Flora.",
+        "Heimat der berühmten 'Case à Palabres' mit traditionellen Schnitzereien.",
+        "Bevölkerung von ca. 24.000 Einwohnern (Stand 2014).",
+        "Wichtiger Standort für den Anbau von Erdbeeren und Gartenbauprodukten.",
+        "Zentrum der handwerklichen Herstellung von hochwertigen Lederschuhen.",
+        "Beliebtes Ziel für Wanderer und Naturliebhaber im Fouta Djallon.",
+        "Historischer Rückzugsort für die intellektuelle Elite des Landes."
+      ]
+    },
+    {
+      "id": "sanguiana-cities-v2",
+      "descriptionAdvanced": "Sanguiana ist eine bedeutende Gemeinde in der Präfektur Kouroussa in Oberguinea, gelegen in einer weiten Savannenlandschaft. Die Region ist vor allem für ihre landwirtschaftliche Produktion bekannt, insbesondere für den Anbau von Reis, Hirse und Erdnüssen. Ein wesentlicher Teil der lokalen Wirtschaft basiert zudem auf dem handwerklichen Goldbergbau, der in den alluvialen Böden der umliegenden Täler betrieben wird. Sanguiana ist ein wichtiger lokaler Marktort, an dem Waren aus der Savanne gehandelt werden. Die Bevölkerung gehört überwiegend zum Volk der Malinke, und das tägliche Leben ist stark von traditionellen sozialen Strukturen und dem Rhythmus der Landwirtschaft geprägt. Geographie K6 — Agrarische Savannennutzung.",
+      "factsAdvanced": [
+        "Wichtige Landgemeinde in der Präfektur Kouroussa.",
+        "Zentrum für den Anbau von Savannenfrüchten und Getreide.",
+        "Bedeutender Standort für den kleingewerblichen Goldbergbau.",
+        "Bevölkerung der Gemeinde umfasst mehrere zehntausend Einwohner.",
+        "Wichtiger wöchentlicher Marktplatz für die umliegenden Dörfer.",
+        "Geprägt von der traditionellen Architektur der Malinke.",
+        "Liegt in einer Zone mit ausgeprägter Trocken- und Regenzeit.",
+        "Wichtiger Knotenpunkt für den lokalen Handel in Oberguinea."
+      ]
+    },
+    {
+      "id": "sangaredi-cities-v2",
+      "descriptionAdvanced": "Sangarédi ist das industrielle Kraftzentrum Guineas und beherbergt eine der weltweit größten und hochwertigsten Bauxitminen. Die Stadt liegt in der Region Boké und wurde gezielt für den Bergbau entwickelt. Das hier abgebaute Erz hat einen außergewöhnlich hohen Aluminiumgehalt und wird über eine spezialisierte Eisenbahnlinie direkt zum Hafen von Kamsar transportiert. Sangarédi ist eine typische Bergbaustadt, deren Rhythmus komplett vom Schichtbetrieb der Compagnie des Bauxites de Guinée (CBG) bestimmt wird. Die umliegende Landschaft ist durch die gewaltigen Tagebauflächen geprägt, die die lateritischen Plateaus der Region radikal verändert haben. Trotz der industriellen Prägung ist Sangarédi ein Schmelztiegel für Arbeiter aus dem ganzen Land. Geographie K8 — Globaler Bergbau und industrielle Landschaften.",
+      "factsAdvanced": [
+        "Standort der qualitativ hochwertigsten Bauxitmine weltweit.",
+        "Zentrum des Abbaus durch die Compagnie des Bauxites de Guinée (CBG).",
+        "Startpunkt der strategisch wichtigen Erzbahn nach Kamsar.",
+        "Bevölkerung von ca. 76.000 Einwohnern (Stand 2014).",
+        "Geprägt durch großflächige Tagebau-Minen auf den Plateaus.",
+        "Wichtigster Wirtschaftsmotor für die Exporterlöse Guineas.",
+        "Moderne Infrastruktur innerhalb der Bergbausiedlungen (Cités).",
+        "Beispiel für die massiven ökologischen Auswirkungen des Bergbaus."
+      ]
+    },
+    {
+      "id": "kolaboui-cities-v2",
+      "descriptionAdvanced": "Kolaboui hat sich in den letzten Jahren von einer kleinen ländlichen Gemeinde zu einem strategischen Logistikknotenpunkt in der Bergbauregion Boké entwickelt. Die Stadt liegt am Schnittpunkt wichtiger Verkehrswege, die die Bauxitminen im Landesinneren mit den Häfen an der Küste verbinden. Durch den massiven Ausbau der Bergbauaktivitäten durch das SMB-Winning Consortium und andere Firmen ist Kolaboui zu einem boomenden Handels- und Dienstleistungszentrum geworden. Die Stadt beherbergt zahlreiche Lagerhäuser, Werkstätten und Unterkünfte für Arbeiter. Dieser rasante Wandel bringt jedoch auch Herausforderungen wie Staubbelastung und eine überlastete Infrastruktur mit sich. Kolaboui ist ein Paradebeispiel für die schnelle Transformation ländlicher Gebiete durch die Rohstoffindustrie. Geographie K8 — Infrastrukturausbau und Rohstoffboom.",
+      "factsAdvanced": [
+        "Zentraler Logistikknotenpunkt im Bauxit-Korridor von Boké.",
+        "Schnittstelle zwischen den Minen von Sangarédi und den Küstenhäfen.",
+        "Rasant wachsendes Handels- und Dienstleistungszentrum.",
+        "Bevölkerung der Gemeinde stieg in den letzten Jahren massiv an.",
+        "Wichtiger Standort für Transportunternehmen und Werkstätten.",
+        "Liegt an der strategischen Eisenbahnlinie und Nationalstraße.",
+        "Geprägt durch intensive Bauaktivitäten und Urbanisierung.",
+        "Zentrum für den Zuzug von Arbeitskräften aus ganz Guinea."
+      ]
+    },
+    {
+      "id": "salambande-cities-v2",
+      "descriptionAdvanced": "Salambandé ist eine ländliche Gemeinde in der Präfektur Mali im hohen Norden des Fouta-Djallon-Hochlands. Die Region zeichnet sich durch ihre raue, gebirgige Topografie und ihre isolierte Lage nahe der Grenze zum Senegal aus. Die Bewohner leben traditionell von der Viehzucht und dem kleinflächigen Ackerbau, wobei sie sich an die kühleren Temperaturen der Hochlagen angepasst haben. Salambandé ist bekannt für seine unberührte Natur und die traditionellen Lebensweisen der Fulbe, die hier seit Generationen verwurzelt sind. Die Abgeschiedenheit hat dazu beigetragen, dass kulturelle Bräuche und religiöse Traditionen besonders rein erhalten geblieben sind. Die Landschaft ist geprägt von weiten Plateaus und tiefen Tälern, die im Winter nebelverhangen sein können. Geographie K7 — Leben in Gebirgsregionen.",
+      "factsAdvanced": [
+        "Abgelegene Berggemeinde im Norden der Präfektur Mali.",
+        "Traditionelles Zentrum der Rinderzucht im Hochgebirge.",
+        "Gelegen in unmittelbarer Nähe zur Grenze zum Senegal.",
+        "Bevölkerung lebt überwiegend in traditionellen Rundhütten (Cases).",
+        "Wichtiger Standort für die Produktion von Butter und Honig.",
+        "Geprägt von einem der kühlsten Klimate in ganz Guinea.",
+        "Schwer erreichbar durch steile Gebirgspfade und Pisten.",
+        "Zentrum der religiösen Unterweisung in lokalen Koranschulen."
+      ]
+    },
+    {
+      "id": "popodara-cities-v2",
+      "descriptionAdvanced": "Popodara ist eine bedeutende Gemeinde in der Nähe von Labé im Fouta-Djallon-Hochland. Die Stadt ist landesweit für ihren lebhaften Wochenmarkt bekannt, der einer der größten in der Region ist und Händler von weitem anzieht. Popodara ist ein wichtiges Zentrum für den Anbau von Obst und Gemüse, insbesondere von Orangen und Gartenbauprodukten, die die Märkte von Labé und Conakry versorgen. Historisch gesehen war die Stadt ein wichtiger Knotenpunkt auf den Handelswegen der Fulbe. Die Landschaft ist typisch für den Fouta Djallon, mit sanften Hügeln, kleinen Bächen und fruchtbaren Tälern. Die Stadt bewahrt eine starke kulturelle Identität und ist bekannt für ihre traditionellen Feste und die lokale Handwerkskunst. Geographie K6 — Regionale Märkte und Gartenbau.",
+      "factsAdvanced": [
+        "Beherbergt einen der bedeutendsten Wochenmärkte Mittelguineas.",
+        "Wichtiger Lieferant von Zitrusfrüchten und Gemüse für Labé.",
+        "Gelegen an der Hauptverkehrsachse in Richtung Norden.",
+        "Bevölkerung der Gemeinde umfasst ca. 25.000 Einwohner.",
+        "Zentrum des traditionellen Handwerks, insbesondere der Weberei.",
+        "Geprägt von einem angenehmen, gemäßigten Hochlandklima.",
+        "Administrative Unterpräfektur der Region Labé.",
+        "Bekannt für seine gastfreundliche Atmosphäre und kulturellen Reichtum."
+      ]
+    },
+    {
+      "id": "diari-cities-v2",
+      "descriptionAdvanced": "Diari ist eine ländliche Gemeinde in der Präfektur Labé, gelegen in den sanften Ausläufern des Fouta-Djallon-Hochlands. Die Stadt und ihre Umgebung sind primär landwirtschaftlich geprägt, wobei der Anbau von Getreide und die Viehzucht die wichtigsten Säulen der lokalen Wirtschaft bilden. Diari ist bekannt für seine traditionellen Fulbe-Siedlungen, die sich harmonisch in die hügelige Landschaft einfügen. Die Region spielt eine wichtige Rolle in der lokalen Versorgungskette für Agrarprodukte der Region Labé. Trotz der Nähe zum regionalen Zentrum bewahrt Diari einen ruhigen, ländlichen Charakter und ist ein Ort, an dem traditionelle soziale Strukturen und religiöse Praktiken das tägliche Leben bestimmen. Geographie K6 — Ländliche Siedlungsformen.",
+      "factsAdvanced": [
+        "Wichtige Agrargemeinde in der Peripherie von Labé.",
+        "Zentrum für die Produktion von Hirse, Mais und Erdnüssen.",
+        "Bekannt für die traditionelle Rinder- und Schafzucht.",
+        "Bevölkerung der Gemeinde beträgt etwa 15.000 Einwohner.",
+        "Wichtiger lokaler Marktort für landwirtschaftliche Erzeugnisse.",
+        "Geprägt durch die typische Savannen-Hochland-Vegetation.",
+        "Administrative Unterpräfektur der Präfektur Labé.",
+        "Ort mit langer Tradition in der Gelehrsamkeit der Fulbe."
+      ]
+    },
+    {
+      "id": "timbi-madina-cities-v2",
+      "descriptionAdvanced": "Timbi-Madina ist die unbestrittene 'Kartoffel-Hauptstadt' Guineas und liegt in der Präfektur Pita im Fouta-Djallon-Hochland. Die Stadt ist das Zentrum einer hochproduktiven Agrarregion, in der moderne Anbaumethoden und Kooperativen den Kartoffelanbau revolutioniert haben. Die Erzeugnisse aus Timbi-Madina werden nicht nur landesweit verkauft, sondern auch in die Nachbarländer exportiert. Das kühle Klima und die fruchtbaren Böden bieten ideale Bedingungen für den großflächigen Gemüseanbau. Die Stadt selbst ist ein dynamisches Handelszentrum, das durch den Erfolg der Landwirtschaft einen spürbaren Aufschwung erlebt hat. Timbi-Madina gilt als Vorbild für die Modernisierung der bäuerlichen Landwirtschaft in Westafrika. Geographie K7 — Spezialisierte Landwirtschaft und Agrobusiness.",
+      "factsAdvanced": [
+        "Wichtigstes Anbauzentrum für Kartoffeln in Guinea.",
+        "Sitz erfolgreicher Bauernkooperativen (Federation des Paysans du Fouta).",
+        "Wichtiger Exporteur von Gemüse in die Nachbarstaaten.",
+        "Bevölkerung der Gemeinde übersteigt 20.000 Einwohner.",
+        "Moderner Einsatz von Bewässerungssystemen und Saatgut.",
+        "Gelegen auf einem fruchtbaren Plateau in ca. 1.000 m Höhe.",
+        "Bedeutender Markt für landwirtschaftliche Betriebsmittel.",
+        "Modellregion für ländliche Entwicklung und Ernährungssicherung."
+      ]
+    },
+    {
+      "id": "oure-kaba-cities-v2",
+      "descriptionAdvanced": "Ouré-Kaba liegt im Süden der Präfektur Mamou, nahe der Grenze zu Sierra Leone, in einer Region, die den Übergang vom Hochland zum tropischen Wald markiert. Die Stadt ist vor allem als Tor zum Nationalpark Outamba-Kilimi auf der sierra-leonischen Seite und dem angrenzenden Schutzgebiet in Guinea bekannt. Die Landschaft ist geprägt von dichten Galeriewäldern, Savannen und Flüssen, was sie zu einem wichtigen Refugium für Wildtiere wie Schimpansen und Elefanten macht. Wirtschaftlich dominiert die Subsistenzlandwirtschaft und der grenzüberschreitende Handel. Ouré-Kaba ist ein wichtiger Stützpunkt für Naturschutzbemühungen und bietet Potenzial für den grenzüberschreitenden Ökotourismus. Geographie K6 — Naturschutz und Grenzökosysteme.",
+      "factsAdvanced": [
+        "Strategische Grenzstadt zu Sierra Leone im Süden von Mamou.",
+        "Wichtiger Standort für den Schutz grenzüberschreitender Elefantenkorridore.",
+        "Gelegen in einer Zone mit hoher Dichte an Primaten.",
+        "Bevölkerung lebt überwiegend von Ackerbau und Viehzucht.",
+        "Wichtiger Durchgangspunkt für den regionalen Handel.",
+        "Administrative Unterpräfektur mit strategischer Bedeutung.",
+        "Landschaft geprägt durch die Täler des oberen Scarcies-Flusssystems.",
+        "Zentrum für Initiativen zur nachhaltigen Waldnutzung."
+      ]
+    },
+    {
+      "id": "banankoro-cities-v2",
+      "descriptionAdvanced": "Banankoro ist das pulsierende Zentrum der guineischen Diamantenindustrie und liegt in der Präfektur Kérouané. Die Stadt gleicht oft einer Boomtown, in der sich alles um den Handel mit den kostbaren Edelsteinen dreht. In den alluvialen Ablagerungen der umliegenden Flüsse suchen tausende Menschen manuell nach Diamanten, während gleichzeitig industrielle Minenbetriebe aktiv sind. Banankoro zieht Händler und Glückssucher aus ganz Westafrika und darüber hinaus an, was der Stadt eine sehr dynamische und multikulturelle Atmosphäre verleiht. Die schnelle Entwicklung hat jedoch auch soziale und ökologische Herausforderungen mit sich gebracht. Trotz des Reichtums unter der Erde bleibt die Infrastruktur der Stadt hinter dem wirtschaftlichen Potenzial zurück. Geographie K8 — Extraktive Industrien und Boomtowns.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum für den Diamantenhandel in Guinea.",
+        "Bekannt für seine massiven alluvialen Diamantenvorkommen.",
+        "Schmelztiegel von Händlern aus ganz Westafrika und dem Libanon.",
+        "Bevölkerung wächst rasant durch Zuwanderung von Schürfern.",
+        "Wichtiger Standort für industrielle Diamantenminen (z.B. AREDOR).",
+        "Administrative Unterpräfektur der Präfektur Kérouané.",
+        "Geprägt von einem informellen, aber hochprofitablen Edelsteinsektor.",
+        "Zentrum für den Export von Rohdiamanten auf den Weltmarkt."
+      ]
+    },
+    {
+      "id": "tinka-cities-v2",
+      "descriptionAdvanced": "Tinka ist eine ländliche Gemeinde in der Nähe von Dalaba im Fouta-Djallon-Hochland. Die Stadt ist für ihre malerische Lage und die traditionelle Handwerkskunst der Fulbe bekannt. Aufgrund der Höhenlage genießt Tinka ein kühles Klima, das den Anbau von Obst und Gemüse begünstigt. Historisch gesehen war die Region ein wichtiger Ort für die Versammlung lokaler Führer und Gelehrter. Die Architektur in Tinka ist geprägt von traditionellen Rundhütten und kleinen Gärten, die die Häuser umgeben. Die Stadt dient als lokales Handelszentrum für die umliegenden Bergdörfer und bewahrt eine ruhige, spirituelle Atmosphäre. Wanderer schätzen Tinka als Durchgangsstation für Touren durch das zentrale Massiv. Geographie K7 — Traditionelle Siedlungsstrukturen im Hochland.",
+      "factsAdvanced": [
+        "Malerische Berggemeinde in der Nähe des Kurortes Dalaba.",
+        "Zentrum für traditionelles Fulbe-Handwerk und Kunst.",
+        "Wichtiger Standort für den kleinflächigen Gartenbau.",
+        "Bevölkerung lebt in einer Mischung aus Tradition und Moderne.",
+        "Bekannt für seine kühlen Temperaturen und klare Bergluft.",
+        "Wichtiger Punkt auf den historischen Wanderwegen der Region.",
+        "Administrative Unterpräfektur mit starkem Fokus auf Landwirtschaft.",
+        "Heimat bedeutender Koranschulen und religiöser Lehrer."
+      ]
+    },
+    {
+      "id": "friguiagbe-cities-v2",
+      "descriptionAdvanced": "Friguiagbé liegt in der Präfektur Kindia und ist eines der wichtigsten Zentren für den Anbau von tropischen Früchten in Guinea. Die Stadt ist besonders berühmt für ihre Ananas- und Bananenplantagen, die die Hauptstadt Conakry und den Exportmarkt beliefern. Aufgrund der fruchtbaren Böden und der reichlichen Niederschläge am Fuße des Gangan-Massivs ist die Region eine der produktivsten Agrarzonen des Landes. Friguiagbé beherbergt zudem wichtige Forschungseinrichtungen für die tropische Landwirtschaft (IRAG). Die Stadt profitiert von ihrer Lage an der Hauptverkehrsstraße zwischen der Küste und dem Binnenland, was den schnellen Transport der verderblichen Waren ermöglicht. Geographie K6 — Plantagenwirtschaft und Agrarforschung.",
+      "factsAdvanced": [
+        "Hauptzentrum des kommerziellen Ananasanbaus in Guinea.",
+        "Standort des Agrarforschungsinstituts IRAG (Foulaya).",
+        "Wichtiger Lieferant von Bananen und Zitrusfrüchten für Conakry.",
+        "Bevölkerung der Gemeinde umfasst über 30.000 Einwohner.",
+        "Strategische Lage an der Nationalstraße N1 bei Kindia.",
+        "Zentrum für die Ausbildung von Landwirtschaftsexperten.",
+        "Profitierte massiv von internationalen Agrarprojekten.",
+        "Geprägt von einer Landschaft aus Plantagen und bewaldeten Hügeln."
+      ]
+    },
+    {
+      "id": "sougueta-cities-v2",
+      "descriptionAdvanced": "Souguéta liegt in der Präfektur Kindia und ist bekannt als ein wichtiger Standort für die Gewinnung von Baumaterialien, insbesondere Kalkstein. Die Stadt liegt in einer strategisch günstigen Zone an der Hauptstraße nach Conakry, was den Transport von Rohstoffen erleichtert. Neben dem Bergbau spielt die Landwirtschaft eine zentrale Rolle, wobei vor allem Getreide und Obst für den lokalen Markt angebaut werden. Die Landschaft ist geprägt von markanten Felsformationen und Tälern, die reich an natürlichen Ressourcen sind. Souguéta dient als wichtiger Rastplatz für Fernfahrer und Reisende auf dem Weg ins Landesinnere. Die Stadt entwickelt sich zunehmend zu einem kleinen Industrie- und Handelszentrum am Rande des Kindia-Beckens. Geographie K6 — Rohstoffe für die Bauwirtschaft.",
+      "factsAdvanced": [
+        "Bedeutender Standort für den Kalksteinabbau in Niederguinea.",
+        "Wichtiger Zulieferer für die Zementindustrie in Conakry.",
+        "Bevölkerung der Gemeinde liegt bei ca. 25.000 Einwohnern.",
+        "Strategischer Haltepunkt an der Nationalstraße N1.",
+        "Zentrum für den Handel mit lokalen Agrarprodukten (Mangos).",
+        "Administrative Unterpräfektur der Region Kindia.",
+        "Geprägt von Steinbrüchen und intensiv genutzten Agrarflächen.",
+        "Wichtiger Arbeitgeber durch den Bergbau und die Logistik."
+      ]
+    },
+    {
+      "id": "maferinyah-cities-v2",
+      "descriptionAdvanced": "Maferinyah liegt in der Präfektur Forécariah, südöstlich von Conakry, und ist ein Zentrum der küstennahen Landwirtschaft. Die Region ist bekannt für ihre ausgedehnten Ölpalmplantagen und den Anbau von Reis in den fruchtbaren Küstenebenen. Maferinyah spielt eine wichtige Rolle bei der Versorgung der Hauptstadt mit Palmöl und Grundnahrungsmitteln. In jüngster Zeit hat die Stadt durch Infrastrukturprojekte, wie den Bau von Straßen zur Erschließung von Eisenerzminen im Hinterland, an Bedeutung gewonnen. Die Landschaft ist geprägt von einer Mischung aus Mangrovensümpfen an der Küste und sanften Hügeln im Landesinneren. Kulturell ist die Stadt fest in den Traditionen der Soussou verwurzelt. Geographie K5 — Küstenlandwirtschaft und Ölpalmen.",
+      "factsAdvanced": [
+        "Zentrum der Palmölproduktion in der Region Niederguinea.",
+        "Wichtiger Markt für landwirtschaftliche Erzeugnisse und Fisch.",
+        "Bevölkerung der Gemeinde über 40.000 Einwohner (2014).",
+        "Strategische Lage an der Route nach Sierra Leone.",
+        "Beherbergt wichtige Einrichtungen des Gesundheitswesens (Ebola-Forschung).",
+        "Landschaft geprägt durch Ölpalm-Haine und Reisfelder.",
+        "Administrative Unterpräfektur der Präfektur Forécariah.",
+        "Wichtiger Standort für die handwerkliche Verarbeitung von Palmfrüchten."
+      ]
+    },
+    {
+      "id": "wonkifong-cities-v2",
+      "descriptionAdvanced": "Wonkifong ist eine Gemeinde in der Präfektur Coyah, nahe der Hauptstadt Conakry. Die Stadt profitiert von der fortschreitenden Urbanisierung und dem Bevölkerungswachstum der Metropolregion. Wonkifong ist ein bedeutendes Zentrum für den Gartenbau und die Geflügelzucht, wobei die Erzeugnisse fast ausschließlich für den Markt in Conakry bestimmt sind. Die Landschaft ist geprägt von Küstenebenen und kleinen Wasserläufen, die für die Bewässerung genutzt werden. Aufgrund der guten Verkehrsanbindung haben sich hier viele Pendler niedergelassen, die in der Hauptstadt arbeiten. Die Stadt bewahrt jedoch noch immer große Flächen für die Landwirtschaft, was sie zu einer wichtigen 'grünen Lunge' für die Region macht. Geographie K5 — Periurbane Landwirtschaft und Stadtwachstum.",
+      "factsAdvanced": [
+        "Wichtiges Zentrum für Geflügelzucht und Eierproduktion.",
+        "Hauptlieferant von frischem Gemüse für die Märkte von Conakry.",
+        "Bevölkerung wächst rasant durch die Nähe zur Hauptstadt.",
+        "Bevölkerung der Gemeinde ca. 35.000 Einwohner (2014).",
+        "Gelegen in der strategischen Zone zwischen Coyah und der Küste.",
+        "Wichtiger Standort für kleine Industriebetriebe und Lagerung.",
+        "Geprägt von einer Mischung aus Wohngebieten und Agrarflächen.",
+        "Administrative Unterpräfektur mit hoher wirtschaftlicher Dynamik."
+      ]
+    },
+    {
+      "id": "koule-cities-v2",
+      "descriptionAdvanced": "Koulé liegt in der Präfektur Nzérékoré in der Waldregion Guineas und ist ein bedeutendes Zentrum für den Anbau von Kaffee und Kakao. Die Stadt liegt an einer wichtigen Handelsroute, die Guinea mit Liberia verbindet, und dient als Sammelstelle für landwirtschaftliche Erzeugnisse aus dem tiefen Waldland. Koulé ist bekannt für seine fruchtbaren Böden und das feuchte, tropische Klima, das den Anbau von Exportkulturen begünstigt. Kulturell ist die Stadt von der Ethnie der Guerzé (Kpelle) geprägt, deren Traditionen und Sprachen das soziale Gefüge bestimmen. In der Umgebung von Koulé finden sich zudem wertvolle Bestände an Tropenhölzern, was die Forstwirtschaft zu einem weiteren wichtigen Wirtschaftszweig macht. Geographie K6 — Tropische Nutzpflanzen und Waldwirtschaft.",
+      "factsAdvanced": [
+        "Bedeutender Sammelpunkt für Kaffee- und Kakaoexporte.",
+        "Strategische Lage an der Hauptstraße nach Liberia.",
+        "Zentrum der Guerzé-Bevölkerung in der Präfektur Nzérékoré.",
+        "Bevölkerung der Gemeinde ca. 20.000 Einwohner.",
+        "Umgeben von produktiven Regenwald-Agrarsystemen.",
+        "Wichtiger Markt für Palmöl und Kolanüsse.",
+        "Administrative Unterpräfektur in der Waldregion.",
+        "Geprägt durch ein ganzjährig feuchtes Regenwaldklima."
+      ]
+    },
+    {
+      "id": "niagassola-cities-v2",
+      "descriptionAdvanced": "Niagassola ist eine Stadt von unschätzbarem kulturellem Wert im Nordosten Guineas, nahe der Grenze zu Mali. Sie beherbergt das 'Sosso-Bala', das heilige Ur-Xylophon des Mandinka-Volkes, das von der UNESCO als Meisterwerk des mündlichen und immateriellen Erbes der Menschheit anerkannt wurde. Das Instrument wird seit dem 13. Jahrhundert von der Familie Kouyaté gehütet und ist ein Symbol für die Geschichte des alten Mali-Reiches. Niagassola ist somit ein spirituelles Zentrum für die Griots (traditionelle Musiker und Geschichtenerzähler) in ganz Westafrika. Die Stadt liegt in einer trockenen Savannenlandschaft am Ufer des Niger und lebt traditionell von Ackerbau und Viehzucht. Geschichte K7 — Das Mali-Reich und mündliche Überlieferungen.",
+      "factsAdvanced": [
+        "Hüter des Sosso-Bala, eines UNESCO-Weltkulturerbes.",
+        "Heilige Stadt der Griots und der Kouyaté-Familie.",
+        "Historisch bedeutender Ort des alten Mali-Reiches.",
+        "Bevölkerung der Gemeinde etwa 25.000 Einwohner (2014).",
+        "Gelegen in der Savannenzone am Oberlauf des Niger.",
+        "Wichtiger Ort für traditionelle Zeremonien und Musik.",
+        "Zentrum für den Erhalt der Mandinka-Geschichte.",
+        "Wirtschaftlich geprägt von Subsistenzlandwirtschaft und Viehhandel."
+      ]
+    }
+  ]
+}

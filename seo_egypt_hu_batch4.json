@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "egypt",
+  "files": [
+    "lib/visualLab/data/poiExtraEgyptCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mansoura-cities-v2",
+      "descriptionAdvanced": "Manszúra a Nílus deltájának szívében fekvő, élénk város, amely híres kiváló orvosi egyeteméről és oktatási intézményeiről. A 13. században alapított város történelmileg jelentős szerepet játszott az keresztes hadjáratok elleni védelemben, ma pedig a régió egyik tudományos és kulturális központja. A város környezete termékeny, a Nílus Damietta-ága mentén fekszik. Földrajz K8 — egyetemi városok és mezőgazdasági régiók.",
+      "factsAdvanced": ["A 13. században alapították a keresztesek elleni harcok idején.", "Híres az orvostudományi egyeteméről.", "A Nílus Damietta-ága mentén helyezkedik el.", "Fontos kereskedelmi központ a Nílus-deltában.", "A város lakossága meghaladja az 500 ezer főt.", "A régió egyik tudományos és oktatási fellegvára."]
+    },
+    {
+      "id": "el-mahalla-el-kubra-cities-v2",
+      "descriptionAdvanced": "El-Mahalla el-Kubra az egyiptomi textilipar és a gyapotfeldolgozás fellegvára, amely a Nílus deltájának közepén, Gharbia kormányzóságban terül el. A város a 20. században vált ipari nagyhatalommá, amikor megalapították a hatalmas állami textilgyárakat, amelyek ma is sok ezer embernek adnak munkát. A város ipari karaktere meghatározza az egész környék gazdasági életét. Földrajz K8 — ipari központok és gazdaság.",
+      "factsAdvanced": ["Egyiptom legnagyobb textilipari központja.", "A gyapotfeldolgozás és ruhaipar központi városa.", "Gharbia kormányzóság legnagyobb városa.", "A 20. században vált jelentős ipari központtá.", "Hatalmas állami textilüzemek otthona.", "A város gazdasága döntően a textiliparra épül."]
+    }
+  ]
+}

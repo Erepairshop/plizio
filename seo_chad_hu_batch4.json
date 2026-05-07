@@ -1,0 +1,435 @@
+{
+  "lang": "hu",
+  "country": "chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadLifeV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "moussoro-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) moussoro-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "biltine-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) biltine-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bol-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) bol-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "goz-beida-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) goz-beida-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "oum-hadjer-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) oum-hadjer-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bitkine-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) bitkine-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "massaguet-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) massaguet-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "dourbali-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) dourbali-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lere-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) lere-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "kyabe-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) kyabe-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "benoye-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) benoye-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "gounou-gaya-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) gounou-gaya-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "beinamar-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) beinamar-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "baibokoum-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) baibokoum-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bokoro-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) bokoro-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "goundi-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) goundi-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "moissala-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) moissala-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "adre-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) adre-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "gore-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) gore-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "iriba-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) iriba-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bardai-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) bardai-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "fada-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) fada-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "am-zoer-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) am-zoer-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "mangalme-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) mangalme-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "guereda-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) guereda-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "abou-deia-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) abou-deia-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "fianga-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) fianga-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "binder-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) binder-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "ngama-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) ngama-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "massenya-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) massenya-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "rig-rig-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) rig-rig-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "nokou-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) nokou-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "zouar-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) zouar-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "bere-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) bere-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    },
+    {
+      "id": "lai-cities-v2",
+      "descriptionAdvanced": "Ez egy le\u00edr\u00e1s a(z) lai-cities-v2 helyr\u0151l, amely fontos szerepet t\u00f6lt be a helyi r\u00e9gi\u00f3 gazdas\u00e1gi \u00e9s kultur\u00e1lis \u00e9let\u00e9ben. A k\u00f6rnyez\u0151 t\u00e1j \u00e9s a helyi k\u00f6z\u00f6ss\u00e9gek hagyom\u00e1nyai meghat\u00e1rozz\u00e1k a telep\u00fcl\u00e9s karakter\u00e9t, amely kulcsfontoss\u00e1g\u00fa a r\u00e9gi\u00f3 \u00e1ruell\u00e1t\u00e1s\u00e1ban \u00e9s k\u00f6zigazgat\u00e1s\u00e1ban. F\u00f6ldrajz K5 \u2014 Helyi telep\u00fcl\u00e9sek \u00e9s fejl\u0151d\u00e9s.",
+      "factsAdvanced": [
+        "Fontos region\u00e1lis k\u00f6zpont",
+        "Mez\u0151gazdas\u00e1gi kereskedelmi \u00e1llom\u00e1s",
+        "K\u00f6zigazgat\u00e1si szerep a r\u00e9gi\u00f3ban",
+        "Hagyom\u00e1nyos k\u00f6z\u00f6ss\u00e9gi \u00e9let",
+        "Kulcsfontoss\u00e1g\u00fa az \u00e1ruell\u00e1t\u00e1sban",
+        "A r\u00e9gi\u00f3 egyik fontos telep\u00fcl\u00e9se"
+      ]
+    }
+  ]
+}

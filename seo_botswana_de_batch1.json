@@ -1,0 +1,43 @@
+{
+  "lang": "de",
+  "country": "botswana",
+  "files": ["lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"],
+  "items": [
+    {
+      "id": "jwaneng-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Die Jwaneng-Diamantenmine, oft als die wertvollste Diamantenmine der Welt bezeichnet, liegt im Süden von Botswana. Sie wird von Debswana betrieben, einem Joint Venture zwischen der Regierung von Botswana und De Beers. Die Mine trägt maßgeblich zum Bruttoinlandsprodukt des Landes bei und ist ein zentraler Pfeiler der botswanischen Wirtschaft. Jwaneng ist bekannt für die hohe Qualität und Quantität der dort geförderten Diamanten, die für Schmuck weltweit geschätzt werden. Der Abbau erfolgt im Tagebauverfahren in einem riesigen Krater, der die Landschaft prägt. Die Mine bietet zudem zahlreichen Menschen im Land Arbeitsplätze und investiert in lokale soziale Infrastrukturen. Geografie K7 — Rohstoffe und deren Abbau.",
+      "factsAdvanced": [
+        "Gehört zu Debswana, einem Joint Venture mit De Beers.",
+        "Wird oft als die reichste Diamantenmine weltweit geführt.",
+        "Die Mine trägt entscheidend zum botswanischen BIP bei.",
+        "Nutzt modernste Technologien für den Diamantenabbau.",
+        "Die Mine wurde 1982 offiziell eröffnet.",
+        "Ist ein bedeutender Arbeitgeber in der Region Kweneng."
+      ]
+    },
+    {
+      "id": "orapa-diamond-mine-economic-v2",
+      "descriptionAdvanced": "Die Orapa-Diamantenmine im Herzen des botswanischen Kalahari-Beckens war eine der ersten bedeutenden Entdeckungen nach der Unabhängigkeit des Landes. Als eine der größten Diamantenminen der Welt spielt sie eine fundamentale Rolle für die wirtschaftliche Stabilität Botswanas. Die Mine ist das Herzstück einer spezialisierten Industriegemeinde, die eine eigene Infrastruktur mit Schulen und Kliniken unterhält. Orapa ist berühmt für die Förderung großer Mengen in exzellenter Qualität, was Botswanas Ruf als Diamantennation weltweit untermauert. Der Abbau erfolgt im Tagebau in einem weitläufigen Gebiet, das strengen Sicherheits- und Umweltstandards unterliegt. Die Mine ist ein Beispiel für erfolgreiche industrielle Entwicklung in einer entlegenen Region. Geografie K7 — Industrielle Entwicklung in Afrika.",
+      "factsAdvanced": [
+        "Inbetriebnahme erfolgte im Jahr 1971.",
+        "Eine der flächenmäßig größten Diamantenminen der Welt.",
+        "Wird von Debswana betrieben.",
+        "Zentrum einer eigenständigen Industriegemeinde in Botswana.",
+        "Trägt zur stabilen wirtschaftlichen Entwicklung bei.",
+        "Strenge Umwelt- und Sicherheitsstandards im Betrieb."
+      ]
+    },
+    {
+      "id": "morupule-coal-mine-economic-v2",
+      "descriptionAdvanced": "Die Morupule-Kohlemine ist die einzige bedeutende Kohleförderstätte in Botswana und befindet sich nahe der Stadt Palapye. Sie versorgt das direkt angrenzende Morupule-Kraftwerk, welches den Großteil der nationalen Stromversorgung für Botswana garantiert. Die Mine erschließt reiche Kohlevorkommen aus den Karoo-Schichten, die für die industrielle Entwicklung des Landes von großer Bedeutung sind. Durch den Abbau wird Botswana unabhängiger von Energieimporten aus den Nachbarländern. Die Mine wird kontinuierlich ausgebaut, um die wachsende Nachfrage nach Energie in der Industrie und den Haushalten des Landes zu decken. Sie stellt zudem einen wichtigen Wirtschaftsfaktor in der Central District Region dar. Geografie K7 — Energieressourcen.",
+      "factsAdvanced": [
+        "Hauptversorger des Morupule-Kraftwerks.",
+        "Wichtigste Kohlequelle für die botswanische Stromerzeugung.",
+        "Basiert auf den Kohlevorkommen aus den Karoo-Schichten.",
+        "Trägt maßgeblich zur nationalen Energiesicherheit bei.",
+        "Wichtiger Arbeitgeber im Central District.",
+        "Ständige Kapazitätserweiterung zur Energiebedarfsdeckung."
+      ]
+    }
+  ]
+}

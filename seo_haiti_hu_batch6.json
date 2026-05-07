@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haiti-fort-ogé-landmarks-v2",
+      "descriptionAdvanced": "A Fort Ogé Jacmel történelmi hátországában, a Cap-Rouge hegyvidéken (Sud-Est megye) található, és a délkeleti partvidék egyik legfontosabb katonai mementója. Az erődöt a 19. század elején, a haiti függetlenség megszilárdítása idején építette Alexandre Pétion elnök, vagy az ő parancsára egy Magloire Ambroise nevű helyi tábornok. Névadója Vincent Ogé, a szabad színesbőrűek egyenjogúságáért küzdő korai forradalmár, akit a franciák 1791-ben brutálisan kivégeztek (kerékbe törtek). Az erőd stratégiai helyen, egy szakadék felett épült, ahonnan a teljes jacmeli öblöt és a déli kereskedelmi útvonalakat szemmel lehetett tartani. Félkör alakú kőbástyái, amelyeken ma is rozsdásodó, vasból öntött ágyúk merednek a tenger felé, a haitiak elszántságát szimbolizálják egy újabb francia invázióval szemben. Ma kedvelt, bár nehezen megközelíthető turisztikai célpont. Geschichte K7 — Vincent Ogé és a korai függetlenségi mozgalmak.",
+      "factsAdvanced": [
+        "A Sud-Est megyében, Jacmel városa felett, a Cap-Rouge hegyvidéken áll.",
+        "Vincent Ogé-ről nevezték el, aki a szabad mulattok egyenjogúságának mártírja volt.",
+        "A 19. század elején épült Alexandre Pétion déli köztársaságának védelmére.",
+        "Kiváló rálátást biztosított a Karib-tengerre és a jacmeli öbölre.",
+        "Az erőd építészetét a masszív, félkör alakú tüzérségi bástyák jellemzik.",
+        "A helyszínen több eredeti, 18-19. századi ágyú is fennmaradt az utókornak."
+      ]
+    },
+    {
+      "id": "haiti-jardin-botanique-cayes-landmarks-v2",
+      "descriptionAdvanced": "A Les Cayes Botanikus Kert (Jardin Botanique des Cayes) egy viszonylag új, de annál fontosabb ökológiai és edukációs intézmény a Sud (Déli) megyében. A 2000-es évek elején helyi agronómusok és környezetvédők (főként William Cinea) kezdeményezésére jött létre, válaszul a Haitit sújtó katasztrofális mértékű erdőirtásra. A mintegy 8 hektáros terület nemcsak egy gyönyörű park, hanem egy aktív tudományos génbank is, amely a hispaniolai endémikus és veszélyeztetett növényfajok (orchideák, pálmák, gyógynövények) megmentésére fókuszál. A kertben sétálva a látogatók különböző tematikus zónákat (például etnobotanikai kert, gyümölcsöskert) járhatnak be. Az intézmény emellett kulcsszerepet játszik a környezeti nevelésben, évente több ezer iskolást fogadva, hogy felhívja a figyelmet a biodiverzitás megőrzésének fontosságára a klímaváltozás korában. Sachkunde K6 — botanikus kertek és biodiverzitás-megőrzés.",
+      "factsAdvanced": [
+        "Les Cayes északi peremén (Bergeaud negyed) található, a Sud megyében.",
+        "2003-ban alapították helyi szakemberek az endemikus növények védelmére.",
+        "Területe mintegy 8 hektár, tematikus ökológiai zónákra osztva.",
+        "Több száz őshonos haiti és karibi növényfaj 'élő génbankjaként' funkcionál.",
+        "A kert jelentős oktatási munkát végez az erdőirtás elleni küzdelemben.",
+        "Számos ritka karibi orchidea- és pálmafaj tekinthető meg itt."
+      ]
+    },
+    {
+      "id": "haiti-mairie-cap-haitien-landmarks-v2",
+      "descriptionAdvanced": "A Cap-Haïtien-i Városháza (Mairie du Cap-Haïtien) az északi nagyváros történelmi központjának (Centre Historique) egyik legemblematikusabb épülete, közvetlenül a Place d'Armes és a Katedrális szomszédságában. Az épület stílusa tökéletesen tükrözi a 19. század végi és 20. század eleji helyi építészetet, amely ötvözi a francia gyarmati elemeket a karibi neoklasszicizmussal: jellemzőek a pasztellszínű falak, a zsalugáteres ablakok és a díszes, öntöttvas erkélyek. A Mairie nem csupán az északi megye adminisztratív központja, hanem számos történelmi esemény néma tanúja is, köztük az 1915-ös amerikai megszállás kezdeteinek és a korai haiti politikai vitáknak. Bár az épület az évek során több hurrikánt és földrengést is átvészelt, a homlokzat felújítása és karbantartása állandó kihívást jelent a helyi önkormányzat számára a szűkös költségvetés miatt. Sachkunde K8 — karibi közigazgatási építészet és városkép.",
+      "factsAdvanced": [
+        "Cap-Haïtien történelmi központjában, a Place d'Armes tér mellett fekszik.",
+        "Építészeti stílusa a 19. századi karibi neoklasszicizmust és gyarmati formákat követi.",
+        "Jellegzetes elemei az öntöttvas erkélyek és a magas zsalugáteres ablakok.",
+        "A Nord megye (Északi megye) közigazgatási és politikai központjaként működik.",
+        "Túlélte az 1842-es nagy cap-i földrengést követő városi újjáépítés viharait.",
+        "Homlokzata kedvelt fotótéma a városba látogató turisták számára."
+      ]
+    },
+    {
+      "id": "haiti-fort-bousquet-landmarks-v2",
+      "descriptionAdvanced": "A Fort Bousquet egy 18. századi tengerparti katonai építmény, amely a gyarmati partvédelmi láncolat részeként épült Saint-Domingue északi vagy nyugati partjainál (a pontos helyszín az archívumokban gyakran keveredik, de tipikusan egy kisebb öblöt védett). Az ilyen kisebb erődök vagy tüzérségi ütegek (batteries) elsősorban nem a nyílt tengeri tengerészeti csatákra voltak tervezve, hanem arra, hogy megakadályozzák a brit és spanyol kapersihajók (corsaires) gyors, zsákmányszerző rajtaütéseit a cukor- és indigószállító hajókon. A Fort Bousquet alacsony, vastag kőfalai úgy épültek, hogy elnyeljék az ágyúgolyók becsapódását, lőréseit pedig közvetlenül a tenger felszínével párhuzamosan alakították ki a maximális találati esély érdekében. A függetlenség után a helyi rurális közösségek gyakran horgonyzóhelyként vagy halászbázisként használták a védett kőfalak árnyékát. Geschichte K7 — 18. századi tengeri rajtaütések és parti ütegek.",
+      "factsAdvanced": [
+        "Francia gyarmati partvédelmi tüzérségi bázis (batterie) a 18. századból.",
+        "Fő célja a parti kereskedelmi hajózás védelme volt a kalóztámadásoktól.",
+        "Alacsony profilú kőerőd volt, amely nehezen volt észlelhető a tenger felől.",
+        "A lőréseket a tenger szintjéhez közel (vízvonal) helyezték el a hatékonyságért.",
+        "Haiti függetlensége után a haditengerészeti jelentősége elveszett.",
+        "Romjai ma gyakran helyi halászok találkozóhelyeként vagy menedékeként szolgálnak."
+      ]
+    },
+    {
+      "id": "haiti-hotel-oleander-landmarks-v2",
+      "descriptionAdvanced": "A Hotel Oloffson (amelyre gyakran Oleanderként vagy fiktív neveken is hivatkoznak az irodalomban, leginkább Graham Greene 'Szerepjátszók' című regénye nyomán 'Hotel Trianon'-ként) Port-au-Prince egyik leghíresebb építészeti és kulturális szimbóluma. A 19. század végén épült, káprázatos, fából készült, csipkézett, úgynevezett 'mézeskalács' (Gingerbread) stílusú villa eredetileg a Sam elnöki család rezidenciája volt. Később alakították át szállodává, amely a 20. század közepén az értelmiségiek, művészek, írók és még hollywoodi sztárok elit találkozóhelyévé is vált. Pazar, dús trópusi növényzettel (leánderekkel, pálmákkal) körülvett teraszai és faragott faoszlopai a haiti építészet aranykorát idézik. A 2010-es földrengést az épület szerencsésen, kisebb károkkal túlélte, és ma is az élő haiti kultúra, különösen a heti rendszerességű vudu-rock (RAM zenekar) koncertek ikonikus helyszíne. Sachkunde K8 — a 'Gingerbread' építészeti stílus és kulturális központok.",
+      "factsAdvanced": [
+        "Port-au-Prince központjában található történelmi szállodaépület.",
+        "Haiti leghíresebb 'Gingerbread' (mézeskalács) stílusú, fából épült villája.",
+        "Eredetileg Tirésias Simon Sam elnök palotájaként épült a 19. század végén.",
+        "Graham Greene híres regényének (A Szerepjátszók) fő helyszínét ihlette.",
+        "A 2010-es földrengést viszonylag jól átvészelte rugalmas faszerkezetének köszönhetően.",
+        "Ma az élő haiti könnyűzene (különösen a RAM együttes) ikonikus bázisa."
+      ]
+    },
+    {
+      "id": "haiti-place-bover-landmarks-v2",
+      "descriptionAdvanced": "A Place Boyer (sokszor helytelenül Place Bover-nek írva) a Pétion-Ville negyed egyik nagy, központi zöldterülete, közvetlenül a Place Saint-Pierre közelében. A teret Jean-Pierre Boyer-ről, Haiti leghosszabb ideig (1818–1843) hivatalban lévő elnökéről nevezték el, aki egyesítette az északi és déli országrészt, valamint a teljes Hispaniola szigetét. A park hagyományosan Pétion-Ville társadalmi életének egyik csomópontja volt, árnyas fákkal és sétautakkal. Hasonlóan a szomszédos terekhez, a 2010-es katasztrófa után a Place Boyer is azonnal óriási menekülttáborrá (IDP) alakult át, ahol ezrek éltek sátrakban évekig, alapvető higiéniai feltételek nélkül. A tábor felszámolása után a teret nemzetközi segélyszervezetek (pl. USAID) és a helyi kormányzat közösen rehabilitálta; új sportpályákat, játszótereket és modern térvilágítást kapott, ismét visszaadva azt a közösségnek. Földrajz K7 — városi parkok funkcióváltása krízis idején.",
+      "factsAdvanced": [
+        "Pétion-Ville (Port-au-Prince) egyik legnagyobb zöld köztere.",
+        "Névadója Jean-Pierre Boyer, aki 25 évig volt Haiti elnöke a 19. században.",
+        "A 2010-es földrengést követően évekig az egyik legnagyobb városi sátortábor volt.",
+        "A tábor felszámolása után átfogó városrehabilitációs program keretében újították fel.",
+        "A tér ma kosárlabdapályákkal, játszóterekkel és modern kivilágítással rendelkezik.",
+        "Népszerű találkozóhelye a fiataloknak és a helyi street-food árusoknak."
+      ]
+    },
+    {
+      "id": "haiti-fort-du-grand-riviere-landmarks-v2",
+      "descriptionAdvanced": "A Fort de la Grande Rivière (gyakran a Grande Rivière du Nord nevű városkára utalva) egy történelmi kőerőd az északi megye buja hegyvidékén. A Grande Rivière du Nord völgye volt az 1791-es rabszolgafelkelés egyik legfontosabb bölcsője; Jean-Jacques Dessalines is itt született egy közeli ültetvényen. Az erődöt eredetileg a franciák építették a dombgerincen, hogy ellenőrizzék az északról Cap-Français-ba (Cap-Haïtien) tartó kereskedelmi utakat és gyorsan reagálhassanak a lázadásokra. Az épület katonai jelentőségét később a független haiti állam is kihasználta a belső védelmi vonalak kiépítésekor. Az erőd falait a hegyekből bányászott sötét kőzetből rakták. Bár napjainkra az erődítmény elhanyagolt állapotba került, és a dús trópusi növényzet félig elnyelte, a helyszín még mindig a haiti szabadságküzdelem egyik fontos, szimbolikus terepe maradt a helyiek számára. Geschichte K8 — a rabszolgalázadások hegyvidéki bázisai.",
+      "factsAdvanced": [
+        "A Nord (Északi) megyében, a Grande Rivière du Nord völgye felett található.",
+        "A terület történelmileg a haiti forradalom (1791) egyik első és legfontosabb gócpontja.",
+        "Dessalines, Haiti alapító atyja ebben a régióban született rabszolgaként.",
+        "Az erőd feladata a hegyvidék és az északi parti főváros közti útvonal őrzése volt.",
+        "Később betagozódott a Dessalines és Christophe által kiépített nemzeti védelmi gyűrűbe.",
+        "A sötét kövekből épült romokat ma jórészt sűrű erdei növényzet fedi."
+      ]
+    },
+    {
+      "id": "haiti-gare-maritime-cayes-landmarks-v2",
+      "descriptionAdvanced": "A Les Cayes Tengerészeti Állomás (Gare Maritime des Cayes) egy modern logisztikai és utasforgalmi épület a Sud (Déli) megye székhelyének tengerpartján. Bár történelmileg az áru- és személyszállítás kis, fából faragott csónakokról történt a sekély vizeken, az elmúlt évtizedek infrastrukturális fejlesztései során egy betonozott mólóval rendelkező komplexumot alakítottak ki. Ez a létesítmény kulcsfontosságú a belföldi tengeri közlekedésben, különösen a Les Cayes és az Île-à-Vache (Tehén-sziget) között ingázó lakosok, diákok és turisták számára. Az állomás napi szinten biztosítja az összeköttetést a szigetlakók számára az alapvető egészségügyi és oktatási intézményekhez a szárazföldön. Bár felszereltsége messze elmarad egy nemzetközi kikötőétől, a helyiek számára életmentő csomópont, amely gyakran szenved károkat az errefelé gyakori trópusi hurrikánok miatt (mint például a 2016-os Matthew hurrikán). Földrajz K6 — szigeti közlekedés és belföldi személyforgalom.",
+      "factsAdvanced": [
+        "A Sud (Déli) megye központjában, Les Cayes partvonalán fekszik.",
+        "A legfontosabb utas- és teherkapcsolat az Île-à-Vache (Tehén-sziget) lakossága számára.",
+        "Betonozott mólóból és egy egyszerű utasváró terminálból áll.",
+        "Napi rendszerességgel közlekednek innen motorcsónakok és vitorlások (chaloupes).",
+        "A turisztikai szezonban innen indulnak a hajók a sziget luxusszállodái felé.",
+        "Az állomás infrastruktúrája gyakran sérül a térségre lecsapó karibi hurrikánokban."
+      ]
+    },
+    {
+      "id": "haiti-lycee-philippe-guerrier-landmarks-v2",
+      "descriptionAdvanced": "A Lycée National Philippe Guerrier Cap-Haïtien városának és egész Észak-Haitinek az egyik legpatinásabb és legtiszteltebb középfokú oktatási intézménye. Az iskolát 1845 körül alapították, és nevét Philippe Guerrier-ről, Haiti egyik korai elnökéről (1844-1845) kapta. Az intézmény történelmi falai között a haiti északi elit és értelmiség számos generációja nevelkedett. Építészeti stílusa klasszikus gyarmati és 19. századi elemeket hordoz, tágas belső udvarral és magas belmagasságú osztálytermekkel, amelyek segítik a trópusi hőség enyhítését. Bár az országos gazdasági nehézségek és a politikai instabilitás többször is rányomták bélyegüket az iskola fenntartására (például tanárhiány vagy forráshiány formájában), a Lycée Philippe Guerrier a mai napig az északi megye büszkesége marad, szimbolizálva a minőségi oktatáshoz való jogot és a haiti szellemi hagyatékot. Sachkunde K8 — az állami oktatás történelmi intézményei.",
+      "factsAdvanced": [
+        "Cap-Haïtien (Nord megye) egyik legrégebbi és legtekintélyesebb középiskolája.",
+        "Nevét Philippe Guerrier volt haiti elnökről és függetlenségi tábornokról kapta.",
+        "Az 1840-es évek közepén alapították az északi régió fiataljainak oktatására.",
+        "Több haiti író, politikus és értelmiségi végezte itt a tanulmányait.",
+        "Klasszikus 19. századi karibi iskolaépület, tágas udvarokkal.",
+        "Az állami (ingyenes) elitoktatás szimbóluma a nehéz gazdasági körülmények ellenére is."
+      ]
+    },
+    {
+      "id": "haiti-fort-biche-landmarks-v2",
+      "descriptionAdvanced": "A Fort Biche egy kisebb méretű, partmenti védmű (vagy tüzérségi üteg) volt Haiti nyugati vagy északi partjain. Ezek az építmények, amelyek gyakran csak néhány kőből rakott bástyából és földsáncból álltak, a gyarmati éra 'mikro-védelmi' hálózatát alkották. Céljuk nem a tengeri flottákkal való nyílt ütközet volt, hanem a csempészhajók megriasztása és a helyi horgonyzóhelyek biztosítása. Az 1804-es függetlenség után a Fort Biche-t is elhagyták, mivel a fiatal haiti állam a hegyvidéki belső erődöket (citadellákat) részesítette előnyben a partvédelmi állomásokkal szemben, amelyek egy francia ágyúnaszád célpontjai lehettek volna. A trópusi időjárás, a tenger sós permetje és az emberi beavatkozás (a kövek elhordása építkezésekhez) mára szinte felismerhetetlenné tették az erődöt, csupán a hely neve maradt meg a helyi folklórban. Geschichte K6 — a partmenti tüzérségi ütegek sorsa.",
+      "factsAdvanced": [
+        "Kisebb, helyi jelentőségű tengerparti tüzérségi állás (batterie) volt.",
+        "Fő funkciója a part menti hajózás és horgonyzóhelyek lokális biztosítása volt.",
+        "Nem rendelkezett masszív infrastruktúrával, földsáncok és kőalapok alkották.",
+        "A haiti állam korán felhagyott a használatával a hegyvidéki védekezés javára.",
+        "A környező lakosság később a köveket gyakran saját építkezésekhez hordta el.",
+        "Mára szinte teljesen eltűnt, nagyrészt dűlőnévként (lieu-dit) él tovább."
+      ]
+    },
+    {
+      "id": "haiti-place-bowen-landmarks-v2",
+      "descriptionAdvanced": "A Place Bowen (Bowen tér) egy jól ismert történelmi és közösségi tér Port-au-Prince belvárosához közel (gyakran Delmas vagy a Pétion-Ville felé vezető útvonalak mentén azonosítják). Nevét valószínűleg a brit vagy amerikai kereskedelmi és diplomáciai kapcsolatok valamelyik 19. vagy korai 20. századi szereplőjéről kapta, tükrözve Haiti változatos nemzetközi kapcsolatait a francia korszak után. A tér, mint oly sok más port-au-prince-i közterület, kettős életet él: nappal gyakran árnyékos pihenőhely, ahol az utcai árusok és diákok gyülekeznek, míg krízishelyzetekben – mint amilyen a 2010-es földrengés is volt – azonnal rögtönzött menedékhellyé (IDP táborrá) alakul át a város sűrű beépítettsége miatt. Bár a hivatalos turisztikai térképeken ritkábban szerepel, a Place Bowen a mindennapi, lüktető és küzdelmes haiti városi élet egyik hiteles lenyomata. Sachkunde K7 — a városi terek szociális funkciói.",
+      "factsAdvanced": [
+        "Közösségi tér a Port-au-Prince-i metropolisz forgalmas területén.",
+        "A 'Bowen' név vélhetően egy 19. vagy 20. századi nemzetközi kapcsolatra utal.",
+        "Mint sok fővárosi park, a 2010-es földrengés után évekig sátortáborként funkcionált.",
+        "Jelentős szerepet játszik az informális kiskereskedelemben (utcai árusok).",
+        "A terület a haiti diákok és fiatalok gyakori találkozóhelye iskola után.",
+        "A tér képe a karbantartás hiánya miatt gyakran viseli a városi lepusztultság nyomait."
+      ]
+    },
+    {
+      "id": "haiti-maison-dufresne-landmarks-v2",
+      "descriptionAdvanced": "A Maison Dufresne Port-au-Prince egyik ritka, fennmaradt történelmi magánrezidenciája, amely kiváló példája az úgynevezett 'Gingerbread' (mézeskalács) építészeti stílusnak. Ezek a villák a 19. század végén és a 20. század elején épültek a gazdag haiti mulatt és fekete elit számára. A Dufresne ház, hasonlóan társaihoz, magas, meredek tetőkkel, hatalmas, természetes szellőzést biztosító zsalugáteres ajtókkal, és bonyolultan faragott, fa csipkemotívumokkal (lambrequins) díszített erkélyekkel rendelkezik. Bár a 2010-es földrengés sok tégla- és betonépületet romba döntött, a Maison Dufresne faváza és rugalmas faszerkezete megmentette az épületet a teljes összeomlástól. Ma az ilyen házak a haiti építészeti örökség legértékesebb darabjai közé tartoznak, és nemzetközi alapítványok (pl. World Monuments Fund) küzdenek a megmentésükért a termeszek és a trópusi esők pusztítása ellen. Sachkunde K8 — a Gingerbread építészet és a földrengésállóság.",
+      "factsAdvanced": [
+        "Port-au-Prince egyik ikonikus, 'Gingerbread' stílusú favillája a 19. század végéről.",
+        "Az épületet eredetileg a vagyonos haiti elit számára tervezték.",
+        "Jellemzői a bonyolult fafaragások (lambrequins) és a meredek, szellőző tetőszerkezet.",
+        "Rugalmas fakonstrukciójának köszönhetően nem dőlt össze a 2010-es földrengésben.",
+        "Az épület jelenleg komoly restaurálásra szorul a trópusi időjárás és a termeszek miatt.",
+        "A World Monuments Fund 2010-ben a megmentendő kulturális örökségek listájára vette a stílust."
+      ]
+    },
+    {
+      "id": "haiti-fort-bel-air-landmarks-v2",
+      "descriptionAdvanced": "A Fort Bel-Air egy stratégiai magaslati pont és korábbi erődítmény Port-au-Prince Bel-Air negyedében. A francia gyarmati időszakban és az azt követő évtizedekben a Bel-Air dombja (amely közvetlenül a kikötő és a belváros felett magasodik) kiváló megfigyelőpontot biztosított a hadsereg számára. Maga az erőd a város katonai védelmi gyűrűjének része volt. Azonban a 20. század közepétől kezdve, ahogy Port-au-Prince lakossága robbanásszerűen megnőtt, a Bel-Air negyed egy sűrűn beépített, labirintusszerű, szegény munkásosztálybeli és informális (nyomornegyed) zónává alakult át. A történelmi erődítmény fizikai nyomai szinte teljesen eltűntek a beton- és bádogházak tengerében. Bel-Air ma már nem a katonai erejéről, hanem erős kulturális (vudu és művészeti) identitásáról, valamint a politikai aktivizmusáról és a sajnos gyakori bandaháborúkról ismert. Geschichte K8 — a történelmi dombok urbanizációja és a nyomornegyedek.",
+      "factsAdvanced": [
+        "Egykor stratégiai katonai erődítmény volt Port-au-Prince egyik központi magaslatán.",
+        "A gyarmati és kora köztársasági korban a belváros és a kikötő védelmét látta el.",
+        "A 20. században a terület (Bel-Air) a város egyik legsűrűbb nyomornegyedévé vált.",
+        "Az egykori erődítmény fizikai maradványai szinte teljesen eltűntek az építkezések alatt.",
+        "A negyed ma erős vudu gyökereiről, kézműveseiről és politikai aktivizmusáról ismert.",
+        "A történelmi helyszín a mai napig az egyik leginkább terhelt és erőszak-sújtotta zóna."
+      ]
+    },
+    {
+      "id": "haiti-kiosque-occitant-landmarks-v2",
+      "descriptionAdvanced": "A Kiosque Occide Jeanty (gyakran Kiosque Occitant-ként említve) a Port-au-Prince-i Champ de Mars park egyik legszebb és kulturálisan legfontosabb pavilonja. Az építményt Occide Jeanty-ról (1860–1936), Haiti egyik legnevesebb zeneszerzőjéről és karmesteréről, a Nemzeti Palota fúvószenekarának vezetőjéről nevezték el. A pavilon klasszikus, nyitott szerkezetű zenepavilon, amely évtizedeken át szolgált ingyenes köztéri koncertek, katonai felvonulások zenekari kísérete és ünnepi rendezvények helyszínéül. Ez a hely volt a főváros kulturális életének szabadtéri szíve a 20. század közepén. Noha a Champ de Mars 2010 után drámai módon átalakult a menekülttáborok, majd az újjáépítés miatt, a Kiosque Occide Jeanty továbbra is a haiti zenei örökség, különösen az ország klasszikus és katonai indulóinak dicső múltját szimbolizálja. Sachkunde K7 — a köztéri zenei pavilonok és a nemzeti kultúra.",
+      "factsAdvanced": [
+        "A Port-au-Prince-i főtéren, a Champ de Mars parkban található zenepavilon.",
+        "Névadója Occide Jeanty (1860–1936), Haiti egyik legjelentősebb zeneszerzője.",
+        "Évtizedeken át a katonai zenekarok és a köztéri ingyenes koncertek fő színtere volt.",
+        "Klasszikus, nyitott, kör- vagy nyolcszög alaprajzú köztéri pavilonépítészet.",
+        "A haiti zenei aranykor és a békebeli városi társadalmi élet szimbóluma.",
+        "Túlélte a 2010-es földrengést, majd a teret elfoglaló hatalmas sátortábort is."
+      ]
+    },
+    {
+      "id": "haiti-monument-pétion-landmarks-v2",
+      "descriptionAdvanced": "Az Alexandre Pétion-emlékmű szintén a Port-au-Prince-i Champ de Mars, a 'Hősök Tere' (Place des Héros de l'Indépendance) egyik központi szobra. Alexandre Pétion (1770–1818) a haiti történelem egyik legellentmondásosabb és legfontosabb alakja: a forradalom egyik tábornoka, majd Haiti déli részének első, köztársaságpárti elnöke, aki a földreformjáról (a nagy ültetvények parasztok közötti felosztásáról) és Simón Bolívar dél-amerikai függetlenségi harcának támogatásáról (fegyverekkel és menedékkel) ismert. A szobor általában katonai egyenruhában ábrázolja, tükrözve vezetői státuszát és a mulatt (gens de couleur) elitben betöltött szerepét. Az emlékmű nemcsak Haiti függetlenségének állít emléket, hanem a pánamerikai szolidaritásnak is, hiszen Pétion segítsége nélkül Bolívar dél-amerikai hadjárata valószínűleg elbukott volna. Sachkunde K8 — az amerikai kontinens függetlenségi mozgalmai és a földreform.",
+      "factsAdvanced": [
+        "A Port-au-Prince-i Champ de Mars történelmi terén, a Nemzeti Palota közelében áll.",
+        "Alexandre Pétiont, a haiti déli köztársaság első elnökét (1807-1818) ábrázolja.",
+        "Pétion a haiti paraszti földreform (a nagybirtokok felosztása) elindítójaként is ismert.",
+        "Az emlékmű szimbolizálja Pétion kulcsfontosságú támogatását Simón Bolívar felé (1815-1816).",
+        "A szobor a mulatt (gens de couleur) forradalmi elit hozzájárulásának legfőbb köztéri mementója.",
+        "A 'Les Héros de l'Indépendance' (A Függetlenség Hősei) szoborcsoport kiemelkedő része."
+      ]
+    },
+    {
+      "id": "haiti-fort-brossard-landmarks-v2",
+      "descriptionAdvanced": "A Fort Brossard romjai (melyek megegyeznek a partmenti védművek történelmi leírásaival) a karibi hadmérnökség klasszikus példái. A 18. században emelt építmény a parti sziklákra támaszkodva védte az öblöt a rivális európai flottáktól. A vastag, tengeri sótól és a széltől simára csiszolt mészkőfalak között egykor nehéz, bronzból öntött francia ágyúk sorakoztak. Érdekessége, hogy a falak építéséhez az afrikai rabszolgák gyakran zúzott korallt és kagylóhéjat is kevertek a habarcsba, ami rendkívül szívóssá tette azokat az ágyúgolyók becsapódásával szemben. Bár ma az erőd teljesen funkcióját vesztette, és belsejében vad trópusi cserjék és fák vertek gyökeret, a helyszín kiváló kilátópontot nyújt a tengerre, és a haiti partvidék felfedezetlen történelmi kincsei közé tartozik. Földrajz K6 — partvédelem és építőanyagok a trópusokon.",
+      "factsAdvanced": [
+        "A 18. század folyamán épült francia tüzérségi bázis a tengerparton.",
+        "A falak kötőanyagába gyakran zúzott korallt és kagylóhéjat kevertek a szilárdságért.",
+        "Elsődleges célja a kereskedelmi hajózási útvonalak és a kikötők védelme volt.",
+        "A magaslati elhelyezkedés kiváló lőteret biztosított a nehéztüzérségnek.",
+        "Ma az erődítmény elhagyatott, a természet nagyrészt visszahódította a romokat.",
+        "A csendes, sziklás helyszín nagyszerű kilátást nyújt a Karib-tengerre."
+      ]
+    },
+    {
+      "id": "haiti-place-toussaint-landmarks-v2",
+      "descriptionAdvanced": "A Place Toussaint (vagy gyakran Toussaint Louverture térként ismert kisebb közterek vidéki városokban, pl. Cap-Haïtien vagy Gonaïves) a helyi közösségek tisztelgése a forradalom 'Fekete Spartacusa' előtt. Míg a fővárosi Champ de Mars ad otthont a monumentális szobornak, a vidéki 'Place Toussaint'-ok gyakran sokkal szerényebbek: egy park, egy mellszobor, vagy csak egy árnyas fák alatti tér, ahol a közösség összegyűlik. Ezek a terek funkciójukat tekintve a politikai és társadalmi élet központjai vidéken. Itt tartják a nemzeti ünnepeket (például május 18-án a Zászló Napját), az iskolai felvonulásokat, és itt vitatják meg a helyi politikát. A tér fizikai állapota gyakran tükrözi a város gazdasági helyzetét, de a név önmagában is elegendő ahhoz, hogy a helyszínt a haiti függetlenség és a rabszolgaság elleni küzdelem szent földjeként tiszteljék. Sachkunde K7 — vidéki emlékhelyek és közösségi terek.",
+      "factsAdvanced": [
+        "Vidéki városokban (pl. Cap-Haïtien) található, Toussaint Louverture-ről elnevezett központi tér.",
+        "Szerényebb méretű és kialakítású, mint a port-au-prince-i nagy emlékmű.",
+        "Gyakran egy mellszobor vagy emléktábla hirdeti a forradalmár tábornok tetteit.",
+        "A vidéki közösségek politikai gyűléseinek, iskolai felvonulásainak központja.",
+        "A tér fái alatt hagyományosan dominóznak és a helyi híreket beszélik meg az idősek.",
+        "A Zászló Napja (május 18.) és a függetlenség napja (január 1.) fontos eseményhelyszíne."
+      ]
+    },
+    {
+      "id": "haiti-fort-st-joseph-landmarks-v2",
+      "descriptionAdvanced": "A Fort Saint-Joseph a haiti gyarmati és posztkoloniális partvédelmi hálózat egyik bástyája volt, vélhetően az északi partok (például Port-de-Paix vagy Cap-Haïtien közelében) egyik magaslatán. A katolikus Szent Józsefről elnevezett erődöt a 18. században emelték a franciák a kalózok elrettentésére, de igazi jelentőségét az 1790-es évek zűrzavarában nyerte el, amikor a rabszolgalázadások és a brit/spanyol inváziós kísérletek során többször is ostrom alá vették. Az erőd kialakítása a klasszikus Vauban-stílusra emlékeztet, alacsony profilú, csillag vagy sokszög alakú bástyákkal, amelyek minimalizálták a becsapódó ágyúgolyók kártételét. A függetlenség után a helyőrséget lassan leépítették. Ma az omladozó falak között kecskék legelnek, és a kőből rakott lőrésekből fák nőttek ki, festői, bár melankolikus látványt nyújtva a történelmi mulandóságról. Geschichte K6 — Vauban-típusú erődök a karibi térségben.",
+      "factsAdvanced": [
+        "A 18. században épült francia védelmi erőd a haiti északi partvidéken.",
+        "Nevét Szent Józsefről kapta, követve a gyarmati névadási hagyományokat.",
+        "Építészetében a francia Vauban-mérnöki iskola (alacsony, szögletes bástyák) nyomai fedezhetők fel.",
+        "A haiti forradalom viharos éveiben többször gazdát cserélt.",
+        "Haiti függetlenné válása után katonai jelentősége rohamosan csökkent.",
+        "A romokat a trópusi növényzet és a helyi állattartás (kecskék) vette birtokba."
+      ]
+    },
+    {
+      "id": "parc-national-macaya-life-v2",
+      "descriptionAdvanced": "A Parc National Macaya (Pic Macaya Nemzeti Park) Haiti két legfontosabb védett területének egyike, amely a Sud (Déli) és Grand'Anse megyék határán, a Massif de la Hotte hegységben terül el. A park az ország utolsó érintetlen, elsődleges trópusi köderdejeinek és hispaniolai fenyőerdeinek ad otthont. A 2347 méter magas Pic Macaya csúcsot körülölelő rendkívüli mikroklíma miatt a terület a karibi biodiverzitás egyik globális hotspotja: több mint száz őshonos orchideafaj, számos endémikus kétéltű (pl. az apró Macaya mocsáribéka) és a ritka hispaniolai trogon madár él itt. Annak ellenére, hogy hivatalosan védett terület, a parkot súlyosan fenyegeti a környező lakosság által végzett illegális fakitermelés (faszénkészítés) és a peremvidéki mezőgazdaság terjeszkedése. Földrajz K8 — elsődleges köderdők és endemikus fajok védelme.",
+      "factsAdvanced": [
+        "A Massif de la Hotte hegységben, a délnyugati félszigeten található nemzeti park.",
+        "Nevét az ország egyik legmagasabb csúcsáról, a 2347 méteres Pic Macaya-ról kapta.",
+        "Haiti utolsó megmaradt elsődleges trópusi köderdejeit és fenyveseit őrzi.",
+        "Kiemelkedően magas az endémikus (csak itt élő) növény- és kétéltűfajok aránya.",
+        "A park vízgyűjtő területe létfontosságú a félsziget folyóinak táplálásában.",
+        "Folyamatos veszélyt jelent a területre az illegális fakitermelés és a faszénégetés."
+      ]
+    },
+    {
+      "id": "parc-national-la-visite-life-v2",
+      "descriptionAdvanced": "A Parc National La Visite Haiti másik kritikus jelentőségű védett területe, amely a Sud-Est (Délkeleti) megyében, a Chaîne de la Selle hegyvonulat magaslataiban helyezkedik el, nem messze Port-au-Prince-től (Kenscoff felett). A park több mint 2000 méteres tengerszint feletti magasságban húzódik, ahol a klíma hideg és gyakran ködös. Bár eredetileg kiterjedt hispaniolai fenyőerdők (Pinus occidentalis) és füves szavannák borították, mára az erdőirtás drámai méreteket öltött a helyi földművesek faszén- és földéhsége miatt. A park még így is menedéket nyújt olyan ritka és veszélyeztetett fajoknak, mint a feketesapkás viharmadár (Diablotin) vagy a hispaniolai patkányvakond (Hutia). A park bejárata lélegzetelállító kilátást nyújt, de az utazás komoly terepjárót igényel, és a természetvédelem és a helyi szegénység drámai konfliktusának helyszíne. Földrajz K8 — magashegyi fenyvesek és a környezetvédelmi konfliktusok.",
+      "factsAdvanced": [
+        "A Chaîne de la Selle hegyvonulatban, Port-au-Prince-től délre fekvő nemzeti park.",
+        "Átlagos magassága 2000 méter feletti, hideg, alpesi jellegű trópusi klímával.",
+        "A domináns növényzet az egyre zsugorodó hispaniolai fenyő (Pinus occidentalis).",
+        "A terület a haiti főváros vízellátásának egyik legkritikusabb vízgyűjtő bázisa.",
+        "A park faállományát kritikusan megtizedelte az illegális faszénégetés.",
+        "A védett zónában ritka emlősök, mint a hispaniolai hutia (patkányvakond) élnek."
+      ]
+    }
+  ]
+}

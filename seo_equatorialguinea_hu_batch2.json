@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "micomeseng-cities-v2",
+      "descriptionAdvanced": "Micomeseng a határ menti kereskedelem egyik fontos állomása Kie-Ntem tartományban. A város elhelyezkedése miatt élénk kapcsolatot tart fenn a környező területekkel, és a határátlépő forgalom révén a kereskedelem meghatározó része a helyi gazdaságnak. A környék domborzata és éghajlata kedvez a trópusi mezőgazdaságnak, különösen a gyümölcsök és zöldségek termesztésének, amelyek a helyi piacokon is megjelennek. Tanterv: Földrajz K7, Gazdaságtan K8.",
+      "factsAdvanced": [
+        "Kie-Ntem tartományban található.",
+        "Fontos kereskedelmi központ a határ közelében.",
+        "A helyi gazdaság alapja a határmenti cserekereskedelem.",
+        "Mezőgazdasági termények termesztése jellemző.",
+        "A város folyamatosan fejlődő infrastruktúrával rendelkezik.",
+        "Központi szerepet játszik a regionális tranzitban."
+      ]
+    },
+    {
+      "id": "nsok-cities-v2",
+      "descriptionAdvanced": "Nsok egy tipikus szárazföldi kisváros Egyenlítői-Guinea keleti részén, amely a helyi közösségek életében játszik központi szerepet. A település körül a trópusi erdőgazdálkodás és a kiskerti mezőgazdaság a meghatározó, amely a helyi élelmezés gerincét adja. Nsok a belső régiók közlekedési hálózatának egy fontos csomópontja, amelyen keresztül a vidéki termékek eljutnak a nagyobb városi piacokra. A város csendesebb ritmusa lehetőséget ad a hagyományos életmód megfigyelésére. Tanterv: Földrajz K6, Szociális ismeretek K7.",
+      "factsAdvanced": [
+        "Keleti régió szárazföldi városa.",
+        "A mezőgazdaság és erdőgazdálkodás központja.",
+        "Fontos összekötő pont a vidéki és városi régiók között.",
+        "A helyi közösség életének meghatározó állomása.",
+        "Csendesebb, hagyományőrző település.",
+        "A regionális élelmiszerellátás láncolatának része."
+      ]
+    }
+  ]
+}

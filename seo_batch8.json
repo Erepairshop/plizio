@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-okavango-agriculture-life-v2",
+      "descriptionAdvanced": "Die Okavango-Region im äußersten Nordosten Namibias ist durch den ganzjährig wasserführenden Okavango-Fluss eine grüne Lebensader in einer ansonsten extrem trockenen Umgebung. Die Landwirtschaft hier ist eine lebenswichtige Mischung aus ausgedehnter Subsistenzwirtschaft der lokalen Stämme, die direkt am Flussufer Mahangu (Perlhirse) anbauen, und aufstrebenden staatlichen Großprojekten, den sogenannten 'Green Schemes'. Diese massiven Bewässerungsfarmen (wie Ndonga Linena) pumpen Millionen Liter Wasser aus dem Fluss, um großflächig Weizen, Mais und Gemüse für den nationalen Markt zu kultivieren. Die traditionelle, oft auf Brandrodung basierende Landnutzung führt jedoch zunehmend zu Konflikten um fruchtbaren Boden und zur Verschlechterung der ufernahen Galeriewälder. Landwirtschaft K7 — Flussbasierte Subsistenz und Bewässerungsprojekte.",
+      "factsAdvanced": [
+        "Die Region verlässt sich für die Landwirtschaft vollständig auf den Okavango-Fluss.",
+        "Staatliche 'Green Schemes' produzieren hier intensiv kommerzielle Nutzpflanzen.",
+        "Mahangu (Perlhirse) wird fast ausschließlich manuell von kleinen Familienbetrieben angebaut.",
+        "Krokodile und Flusspferde stellen eine tägliche Gefahr für die Bauern am Flussufer dar.",
+        "Die Entwaldung für landwirtschaftliche Flächen ist eines der drängendsten Umweltprobleme hier.",
+        "Das Bewässerungspotenzial wird auf fast 10.000 Hektar geschätzt, wird aber noch nicht voll ausgeschöpft."
+      ]
+    },
+    {
+      "id": "namibia-aus-animal-habitat-life-v2",
+      "descriptionAdvanced": "Die extrem karge und windgepeitschte Wüstenregion um Aus, am Rande des namibischen Sperrgebiets, beherbergt ein biologisches Wunder: die wilden Wüstenpferde der Namib (Namib Desert Horses). Wie diese Pferde, deren Vorfahren vermutlich europäische Kavalleriepferde der deutschen Schutztruppe oder der südafrikanischen Armee aus der Zeit des Ersten Weltkriegs waren, in dieser lebensfeindlichen Umgebung überleben konnten, fasziniert Biologen weltweit. Die Pferde haben sich physiologisch und in ihrem Verhalten perfekt an die Dürre angepasst. Sie verbringen ihre Tage auf den ausgedehnten, dürren Ebenen und konzentrieren sich um das künstlich aufrechterhaltene Wasserloch bei Garub. Strenge Dürren dezimieren die Population oft dramatisch und zeigen die Härte der namibischen Wüste. Biologie K7 — Feralisation und extreme Umweltanpassung.",
+      "factsAdvanced": [
+        "Die namibischen Wüstenpferde sind eine der wenigen wild lebenden Pferdepopulationen in ganz Afrika.",
+        "Ihre Zahl schwankt extrem und fällt in Dürrezeiten oft auf unter 100 Tiere.",
+        "Das von Menschen gewartete Wasserloch bei Garub ist ihre einzige verlässliche Wasserquelle.",
+        "Trotz harter Bedingungen entwickeln sie in regenreichen Jahren eine erstaunliche Vitalität.",
+        "Raubtiere wie die Tüpfelhyäne jagen in extremen Dürrejahren gezielt die schwachen Fohlen.",
+        "Die Pferde sind eine Hauptattraktion für Touristen auf dem Weg von Keetmanshoop nach Lüderitz."
+      ]
+    },
+    {
+      "id": "na-namib-desert-nature-v2",
+      "descriptionAdvanced": "Die Namib-Wüste, deren Alter auf bis zu 80 Millionen Jahre geschätzt wird, gilt als die älteste durchgehende Wüste der Welt. Sie erstreckt sich als knapp 2.000 Kilometer langes, schmales Band entlang der atlantischen Küste Namibias und gibt dem Staat seinen Namen, der in der Nama-Sprache 'weiter Platz' bedeutet. Die Landschaft ist radikal zweigeteilt: Nördlich des Kuiseb-Flusses dominieren riesige, flache Schotterebenen und dramatische, felsige Gebirgszüge, während sich südlich des Kuiseb das gewaltige, tiefrote Namib-Sandmeer mit den höchsten Sterndünen der Welt erstreckt. Entstanden ist dieses hyperaride System durch den antarktischen Benguelastrom, der das Meerwasser extrem abkühlt und verhindert, dass sich regenschwere Wolken bilden. Erdgeschichte K8 — Hyperaridität und die ältesten Wüsten der Erde.",
+      "factsAdvanced": [
+        "Die Namib gilt in Fachkreisen als die älteste bekannte Wüste unseres Planeten.",
+        "Ihre extreme Trockenheit wird fast ausschließlich durch den kalten Benguelastrom verursacht.",
+        "Das Namib-Sandmeer (Namib Sand Sea) im Süden wurde 2013 zum UNESCO-Weltnaturerbe erklärt.",
+        "In der Namib verzeichnet man oft weniger als 10 Millimeter Niederschlag pro Jahr.",
+        "Die Dünen im Sossusvlei-Gebiet erreichen atemberaubende Höhen von über 300 Metern.",
+        "Lebenswichtige Feuchtigkeit wird durch dichten, morgendlichen Küstennebel ins Landesinnere transportiert."
+      ]
+    },
+    {
+      "id": "na-kalahari-desert-nature-v2",
+      "descriptionAdvanced": "Die Kalahari-Wüste erstreckt sich über den Osten Namibias und hinein nach Botswana. Im Gegensatz zur sterilen, extrem trockenen Namib ist die Kalahari wissenschaftlich gesehen eher eine Halbwüste oder trockene Dornsavanne. Sie erhält deutlich mehr Niederschlag und kann weite, grasbedeckte Ebenen und dichte Baumbestände (wie majestätische Kameldornbäume) unterstützen. Die Landschaft ist geprägt von langen, parallel verlaufenden, intensiv rostroten Längsdünen, in deren sandigen Tälern sich das Leben nach Regenfällen explosionsartig entfaltet. Das Wasser versickert extrem schnell in dem durchlässigen Sandboden, weshalb Oberflächenwasser rar ist, was Flora und Fauna zu extrem wassersparenden Überlebensstrategien zwingt. Geografie K7 — Fossile Dünen und Dornsavannen.",
+      "factsAdvanced": [
+        "Die rötliche Färbung des feinen Kalahari-Sandes entsteht durch intensive Eisenoxidation.",
+        "Die Kalahari ist Heimat des traditionellen und nomadischen San-Volkes (Buschleute).",
+        "Aufgrund höherer Niederschläge beheimatet die Region riesige, schattenspendende Kameldornbäume.",
+        "Ein Großteil der namibischen Kalahari wird intensiv für die kommerzielle Rinder- und Schafzucht genutzt.",
+        "Typisch für die Landschaft sind die langen, bewachsenen, fossilen Dünenkämme.",
+        "Wasser wird in der Region fast ausschließlich über tiefe artesische Bohrlöcher gewonnen."
+      ]
+    },
+    {
+      "id": "na-etosha-pan-nature-v2",
+      "descriptionAdvanced": "Die Etosha-Pfanne ist ein gleißend weißes, massives Salzpfannensystem im Norden Namibias, das so gigantisch ist, dass es mühelos aus dem Weltall zu sehen ist. Vor etwa zwei Millionen Jahren befand sich hier ein gewaltiger Binnensee (Ekuma-See), der vom mächtigen Kunene-Fluss gespeist wurde, bevor plattentektonische Bewegungen den Flusslauf zum Atlantik umlenkten und den See austrocknen ließen. Heute bleibt eine 4.800 Quadratkilometer große, rissige Kalk- und Lehmfläche zurück, auf der fast kein pflanzliches Leben existiert. In Jahren mit außergewöhnlich starken Niederschlägen füllt sich das Becken kurzzeitig mit wenigen Zentimetern Wasser, das riesige Kolonien von rosa Flamingos anlockt, die hier ungestört im seichten, warmen Wasser brüten. Geografie K8 — Endorheische Beckensysteme und Salztonebenen.",
+      "factsAdvanced": [
+        "Die Etosha-Pfanne hat eine beeindruckende Längsausdehnung von fast 130 Kilometern.",
+        "Der Name 'Etosha' bedeutet in der Sprache der Oshindonga 'der große weiße Platz'.",
+        "Die Salzpfanne war in urgeschichtlicher Zeit ein gigantischer, wasserreicher Binnensee.",
+        "Der extrem mineralstoffreiche, weiße Staub wird oft von starken Winden über den gesamten Nationalpark geweht.",
+        "Die Ränder der Pfanne beherbergen stark mineralhaltige Quellen, die eine reiche Wildtierpopulation anziehen.",
+        "Geologen schätzen die dicke, unterirdische Salz- und Tonschicht auf mehrere Dutzend Meter Tiefe."
+      ]
+    },
+    {
+      "id": "na-fish-river-canyon-nature-v2",
+      "descriptionAdvanced": "Der Fischfluss-Canyon im tiefen Süden Namibias ist mit einer Länge von 160 Kilometern und einer Tiefe von bis zu 550 Metern der größte Canyon Afrikas und der zweitgrößte der Welt. Die gigantische, sich windende Schlucht ist das Resultat von über 500 Millionen Jahren tektonischer Plattenverschiebungen, massiver Gletschererosionen und schließlich des gewaltigen Fischflusses, der sich tief in das harte, präkambrische Gestein fräste. Im extrem heißen und trockenen Sommer trocknet der Fluss größtenteils aus und hinterlässt nur isolierte, grüne Wassertümpel, die zur einzigen Lebensader für Leoparden, Bergzebras und wilde Strauße im Canyonboden werden. Für Wanderer ist der Canyon wegen Temperaturen von über 50 Grad in den Sommermonaten streng gesperrt. Geologie K8 — Canyon-Erosion und Plattentektonik.",
+      "factsAdvanced": [
+        "Der Canyon ist an seinen breitesten Stellen bis zu 27 Kilometer weit.",
+        "Er wurde über Jahrmillionen durch tektonische Risse und die Erosion des Fischflusses geformt.",
+        "Die tiefsten Gesteinsschichten am Boden des Canyons sind über eine Milliarde Jahre alt.",
+        "Der populäre, 85 Kilometer lange Fish River Hiking Trail ist extrem anspruchsvoll und nur im Winter geöffnet.",
+        "Am südlichen Ende des Canyons entspringen in Ai-Ais natürliche, etwa 60 °C heiße Thermalquellen.",
+        "In den kleinen Tümpeln überleben Fische wie Welse trotz der extremen Hitze und Wasserknappheit."
+      ]
+    },
+    {
+      "id": "na-orange-river-nature-v2",
+      "descriptionAdvanced": "Der mächtige Oranje-Fluss (Orange River) bildet die natürliche Grenze zwischen dem südlichen Namibia und Südafrika. Entspringend im hochgelegenen und niederschlagsreichen Lesotho, durchquert er fast den gesamten Kontinent, bevor er nach über 2.200 Kilometern bei Oranjemund in den rauen Atlantik mündet. Was den Oranje so spektakulär macht, ist der unglaubliche geologische Kontrast: Er fließt als tiefblaues Band gesäumt von grünen Weiden und Schilfgürteln direkt durch die extrem lebensfeindliche, braune Gesteinswüste des Richtersveld-Gebirges. Neben seiner Funktion als Wasserlieferant für die Wein- und Landwirtschaft ist der Fluss auch weltbekannt dafür, über Jahrmillionen hinweg Milliarden von Diamanten ins Meer gewaschen zu haben, die heute an der namibischen Küste abgebaut werden. Geografie K7 — Transkontinentale Flüsse und Alluvial-Diamanten.",
+      "factsAdvanced": [
+        "Der Oranje-Fluss hat eine Gesamtlänge von etwa 2.200 Kilometern bis in den Atlantik.",
+        "Er bildet den größten Teil der offiziellen internationalen Grenze zwischen Namibia und Südafrika.",
+        "Der Fluss war historisch der primäre Transportweg für Diamanten, die aus Kimberlitschloten im Landesinneren stammen.",
+        "Seine Ufer ermöglichen lukrative und intensiv betriebene Weintrauben-Bewässerungsanlagen in Aussenkehr.",
+        "Beliebt bei Touristen sind entspannte, mehrtägige Kanutouren durch das heiße Richtersveld-Tal.",
+        "Die Mündung des Flusses ist stark versandet und für größere Schiffe nicht schiffbar."
+      ]
+    },
+    {
+      "id": "na-kunene-river-nature-v2",
+      "descriptionAdvanced": "Der Kunene-Fluss im äußersten Nordwesten Namibias markiert die oft dramatische geografische und politische Grenze zwischen Namibia und Angola. Der Fluss, der in den regenreichen Bergen des angolanischen Hochlands entspringt, stürzt sich in spektakulären Kaskaden und Wasserfällen (wie den Ruacana- und Epupa-Fällen) herab und bahnt sich seinen Weg unerbittlich durch die trockenen, tiefen Gebirgsschluchten der Namib-Wüste, bevor er den Atlantik erreicht. Entlang seiner Ufer gedeihen majestätische Makalani-Palmen und dichte Galeriewälder, die einen surrealen Kontrast zu der ausgedörrten Felswüste des Kaokolandes bilden. Seine tückischen Stromschnellen sind die Heimat großer Populationen des berüchtigten Nilkrokodils. Biologie K7 — Wüstenflüsse und Galeriewälder.",
+      "factsAdvanced": [
+        "Der Kunene ist einer der ganz wenigen ganzjährig wasserführenden Flüsse in Namibia.",
+        "Die berühmten Epupa-Fälle und das große Ruacana-Wasserkraftwerk liegen direkt am Flusslauf.",
+        "Im Fluss leben starke Populationen der aggressiven und gefährlichen Nilkrokodile.",
+        "Der Fluss mündet in einem großen Delta in den rauen, eisigen Atlantischen Ozean.",
+        "Er bildet die nördliche natürliche und völkerrechtliche Grenze zwischen Namibia und Angola.",
+        "Entlang des Flusses leben traditionell kleine Gemeinschaften des Himba-Volkes."
+      ]
+    },
+    {
+      "id": "na-epupa-falls-nature-v2",
+      "descriptionAdvanced": "Die Epupa-Fälle am wilden Kunene-Fluss sind zweifellos eines der schönsten, aber auch entlegensten Naturwunder Namibias. Der Kunene breitet sich hier in ein weites Tal aus und stürzt über eine Strecke von etwa 1,5 Kilometern über felsige Barrieren und Klippen in eine Reihe von extrem malerischen, von Baobabs (Affenbrotbäumen) gesäumten Kaskaden. Die tiefste Fallkante ist dabei beachtliche 37 Meter hoch. Das ohrenbetäubende Rauschen des Wassers gab den Fällen ihren Namen: 'Epupa' bedeutet in der Sprache der lokalen Herero 'fallendes Wasser' oder 'Schaum'. Aufgrund der massiven Präsenz großer Krokodile und tückischer Strömungen ist das Schwimmen in den einladenden Naturpools extrem gefährlich. Geografie K6 — Kaskadenwasserfälle und Flussoasen.",
+      "factsAdvanced": [
+        "Die Fälle stürzen sich über eine 1,5 Kilometer weite Zone aus Felsbarrieren in die Tiefe.",
+        "Der Hauptwasserfall weist einen beeindruckenden, fast senkrechten Fall von etwa 37 Metern auf.",
+        "Die Landschaft rund um die Fälle ist spektakulär von mächtigen Baobab-Bäumen bewachsen.",
+        "Das tosende Wasser und der ständige Dunstschleier stützen ein dichtes, tropisches Mikroklima.",
+        "Das Schwimmen ist wegen starker Strömungen und großen Nilkrokodilen extrem gefährlich.",
+        "Ein umstrittenes Staudammprojekt (Baynes Hydroelectric) droht die Fälle in Zukunft zu zerstören."
+      ]
+    },
+    {
+      "id": "na-brandberg-mountain-nature-v2",
+      "descriptionAdvanced": "Das Brandberg-Massiv, ein gigantischer und steiler Inselberg inmitten der ansonsten flachen Schotterwüste des Damaralandes, ist mit 2.573 Metern (Königstein) die höchste Erhebung Namibias. Entstanden vor etwa 130 Millionen Jahren durch aufsteigendes Magma aus dem Erdinneren, dominiert dieses kreisrunde, massive Granit-Pluton die Region. Seinen Namen verdankt der Berg dem glühenden, leuchtend roten bis orangen Farbton, den er annimmt, wenn die Sonne in der späten Dämmerung auf seine Felswände trifft. Das Massiv ist nicht nur geologisch faszinierend, sondern auch ein absolutes Zentrum für afrikanische Prähistorie, da in seinen tiefen, schattigen Schluchten (wie der Tsisab-Schlucht) Zehntausende unbezahlbarer Felsmalereien der frühen San versteckt liegen, allen voran die weltberühmte 'Weiße Dame'. Erdgeschichte K8 — Magmatische Inselberge und Felskunst.",
+      "factsAdvanced": [
+        "Der Königstein auf dem Brandbergmassiv ist mit 2.573 Metern der höchste Gipfel des Landes.",
+        "Das Massiv hat an der Basis einen gigantischen Durchmesser von beinahe 30 Kilometern.",
+        "Die gesamte Struktur ist das Resultat einer Magma-Intrusion vor etwa 130 Millionen Jahren.",
+        "Aufgrund der steilen Felswände und extremen Hitze ist die Besteigung physisch extrem fordernd.",
+        "In den zahlreichen Schluchten wurden mehr als 40.000 einzelne prähistorische Felszeichnungen gefunden.",
+        "Das raue Gestein bietet Tieren wie Klippspringern und dem seltenen Leoparden einen Rückzugsort."
+      ]
+    },
+    {
+      "id": "na-spitzkoppe-nature-v2",
+      "descriptionAdvanced": "Die Spitzkoppe, oft als das 'Matterhorn von Afrika' gerühmt, ist eine der markantesten und am meisten fotografierten Felsformationen des Kontinents. Diese majestätische Gruppe kahler, grobkörniger Granitgipfel erhebt sich abrupt fast 700 Meter aus der endlos flachen, staubigen und extrem trockenen Namib-Ebene. Entstanden vor mehr als 130 Millionen Jahren tief im Erdinneren, wurde das Magma-Gestein durch Äonen von Winderosion freigelegt und glatt poliert. Für geologisch Interessierte ist die Region ein Traum: riesige Felsbögen, glattgespülte Kugeln (Boulder) und tiefe Höhlen prägen die Landschaft. Aufgrund des Wassermangels gibt es in der Region kaum Vegetation, doch genau das verleiht den rotglühenden Felsen im dramatischen namibischen Sonnenuntergang ihre mystische Atmosphäre. Geologie K6 — Granitverwitterung und Inselberge.",
+      "factsAdvanced": [
+        "Die Groß-Spitzkoppe hat eine majestätische Höhe von 1.728 Metern über dem Meeresspiegel.",
+        "Das nackte Granitgestein wird von Archäologen und Geologen auf ein Alter von über 130 Millionen Jahren geschätzt.",
+        "Der Berg gilt wegen seiner glatten, senkrechten Granitplatten ('Slabs') als Paradies für Extremkletterer.",
+        "In den Schatten und Überhängen der Felsen existieren zahlreiche jahrtausendealte Felsmalereien.",
+        "Zahlreiche Filmproduktionen (wie Stanley Kubricks '2001: Odyssee im Weltraum') nutzten den Berg als Kulisse.",
+        "In der kleinen Felsgemeinschaft der Spitzkoppe leben extrem gefährdete Damara-Dikdiks (Zwergantilopen)."
+      ]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "descriptionAdvanced": "Das Waterberg-Plateau erhebt sich als eine gewaltige, schroffe und unzugängliche Festung aus rotem Sandstein beinahe 200 Meter senkrecht über die flache und trockene afrikanische Dornsavanne. Der Berg gleicht einem gigantischen Schwamm: Der poröse Etjo-Sandstein fängt den sommerlichen Regen ein und das Wasser tritt an den unteren Lehmschichten am Fuß des Plateaus wieder als kühle Quellen zutage. Dies führt zu einem bemerkenswert dichten, subtropischen Dschungel-Mikroklima an seinen Hängen, das einen starken Kontrast zur trockenen Hochebene darstellt. Oben auf der riesigen Tafel, die über 40 Kilometer lang ist, leben seltene und gefährdete Tierarten in einem natürlichen, hermetisch von Felswänden umschlossenen Tresor, was das Wildererproblem massiv eindämmt. Geografie K8 — Tafelberge und Karstquellen.",
+      "factsAdvanced": [
+        "Das markante rote Sandstein-Plateau hat eine Länge von über 40 Kilometern.",
+        "Die extrem poröse Sandsteinschicht speichert große Mengen Wasser, die am Grund wieder austreten.",
+        "Die unzugänglichen, steilen Felswände ('Cliffs') verhindern ein natürliches Abwandern der Tiere.",
+        "Aufgrund der sicheren Isolation wurde das Plateau 1972 zum Naturreservat für extrem gefährdete Arten.",
+        "Die Vegetation oben auf dem Plateau unterscheidet sich völlig vom feuchten, dichten Bewuchs unten.",
+        "Der Park ist eines der sichersten Reservate der Erde für Breit- und Spitzmaulnashörner."
+      ]
+    },
+    {
+      "id": "na-skeletons-coast-nature-v2",
+      "descriptionAdvanced": "Der Skeleton Coast National Park (Skelettküsten-Nationalpark) umfasst das absolut abweisendste und am dünnsten besiedelte Küstenareal Namibias. Der Name der Küste leitet sich historisch von den unzähligen Walknochen ab, die durch Walfangflotten zurückgelassen wurden, und wird heute symbolisch für die unzähligen rostigen Schiffswracks genutzt, die hier im dichten Neben der Küste gestrandet sind. Die Naturgewalten in dieser Region sind unvorstellbar brutal: Starke Strömungen, eisiges Wasser aus dem Benguelastrom und extreme Sandstürme peitschen über riesige Sanddünen, die fast direkt ins tobende Meer übergehen. Nur perfekt angepasste Wüstenbewohner, wie Schabrackenhyänen, Schakale und riesige Robbenkolonien, trotzen dieser gnadenlosen Wüste, in der schiffbrüchige Seeleute früher dem sicheren Tod ins Auge blickten. Geografie K7 — Feindliche Küstenlinien und Wracks.",
+      "factsAdvanced": [
+        "Der Skeleton Coast National Park erstreckt sich vom Ugab-Fluss bis hinauf zum Kunene an die Grenze zu Angola.",
+        "Die Region ist berühmt für dichten, oft undurchdringlichen Seenebel und eisigen Atlantikwind.",
+        "In der abgelegenen Region ragen rostige Schiffswracks direkt aus den Sandstränden heraus.",
+        "Die südliche Hälfte des Parks ist frei befahrbar, der raue Norden jedoch extrem streng reglementiert.",
+        "Löwen der Region haben gelernt, an den Stränden auf Beutezug nach Robben und Kormoranen zu gehen.",
+        "Schiffbrüchige, die hier an Land gingen, verdursteten historisch meist in den riesigen Sanddünen."
+      ]
+    },
+    {
+      "id": "na-cape-cross-nature-v2",
+      "descriptionAdvanced": "Cape Cross (Kreuzkap) ist eine kleine, felsige Landspitze tief in der rauen Küstenwüste des Atlantiks. Heute ist der Ort ein gigantisches Naturphänomen, da er die größte bekannte Brutkolonie von Südafrikanischen Seebären (Kap-Pelzrobben) auf der Erde beherbergt. Hunderttausende Tiere drängen sich hier dicht an dicht auf den glitschigen Felsen. Der Ort bietet jedoch nicht nur ein beeindruckendes und geräuschvolles biologisches Schauspiel, sondern ist auch von großer historischer Bedeutung: Im Jahr 1486 landete der portugiesische Entdecker Diego Cão auf seiner Suche nach dem Seeweg nach Indien als erster Europäer genau hier an der Küste und errichtete ein markantes steinernes Kreuzkreuz (ein Padrão), um das Land für den portugiesischen König in Besitz zu nehmen. Geschichte K7 — Entdeckerrouten und Marine Zoologie.",
+      "factsAdvanced": [
+        "Diego Cão landete 1486 am Kreuzkap und stieß dort als erster Europäer auf das heutige Namibia.",
+        "Die aktuelle Population der Kap-Pelzrobben am Strand schwankt extrem, erreicht oft über 200.000.",
+        "Das Originalkreuz (Padrão) wurde 1893 von Kapitän Becker gefunden und nach Deutschland gebracht.",
+        "Heute stehen an der Stelle zwei steinerne Replik-Kreuze (eine deutsche und eine namibische Version).",
+        "Der intensive Geruch nach Guano und verwesenden Fischen in der Robbenkolonie ist extrem stark.",
+        "Schabrackenhyänen streifen regelmäßig durch die Ränder der Kolonie, um schwache Jungtiere zu fressen."
+      ]
+    },
+    {
+      "id": "na-dunes-sossusvlei-nature-v2",
+      "descriptionAdvanced": "Die gewaltigen Dünen des Sossusvlei-Systems im Herzen des Namib-Naukluft-Parks gehören zu den höchsten und faszinierendsten Sandformationen der Erde. Geformt über Jahrmillionen durch den stetigen, gnadenlosen Wind vom Atlantischen Ozean, türmen sich diese gigantischen Sterndünen (Star Dunes) zum Teil bis zu 300 Meter hoch in den makellos blauen Wüstenhimmel auf. Der feine Sand stammt ursprünglich aus dem fernen Oranje-Fluss, wurde ins Meer gespült, an die Küste getrieben und schließlich vom Wind hunderte Kilometer tief in die Wüste getragen. Je älter der Sand ist, desto intensiver oxidiert das enthaltene Eisen, was den Dünen im Sossusvlei (besonders bei Sonnenaufgang) ihre spektakuläre, tief-orangerote und rostfarbene Leuchtkraft verleiht. Erdgeschichte K6 — Wind-Erosion und Dünen-Oxidation.",
+      "factsAdvanced": [
+        "Die berühmte 'Big Daddy'-Düne in Sossusvlei erreicht eine gewaltige Höhe von schätzungsweise 325 Metern.",
+        "Die tief orangerote Färbung des feinen Sandes ist das Resultat starker Eisenoxidation (Rost).",
+        "Es handelt sich geologisch um Sterndünen (Star Dunes), die durch multidirektionale Winde geformt werden.",
+        "Die 'Düne 45' (45 Kilometer vom Gate entfernt) ist die wohl meistfotografierte Sanddüne Afrikas.",
+        "Der Sand hat eine extrem lange Reise vom Oranje-Fluss über das Meer bis hierher hinter sich.",
+        "Im Laufe des Tages ändert sich die Farbe des Sandes durch den Sonnenstand von tiefrot bis blassgelb."
+      ]
+    },
+    {
+      "id": "na-dead-vlei-nature-v2",
+      "descriptionAdvanced": "Das Deadvlei ('Totes Vlei') am Rande des Sossusvlei-Tals ist einer der bizarrsten, fotogensten und surrealsten Orte unseres Planeten. Es handelt sich um eine völlig ausgetrocknete weiße Lehmpfanne, die von einigen der höchsten roten Sanddünen der Welt, darunter der berühmten 'Big Daddy', komplett umzingelt ist. Vor beinahe 1.000 Jahren war dieses Vlei eine wasserreiche Oase des Tsauchab-Flusses, an der Kameldornbäume prachtvoll gediehen. Massive Dürren und wandernde Sanddünen schnitten das Gebiet jedoch permanent vom Fluss ab. Das Klima wurde so extrem trocken, dass die Bäume starben, aber anstatt zu verrotten, wurden sie durch die gnadenlose Sonne buchstäblich mumifiziert. Ihre pechschwarzen, verkrüppelten Stämme stehen heute wie skelettierte Geister in dem weißen Tonboden. Geografie K7 — Mumifikation durch extreme Dürre.",
+      "factsAdvanced": [
+        "Die toten, extrem harten Kameldornbäume im Vlei sind auf ein Alter von über 900 Jahren geschätzt.",
+        "Der weiße Tonboden des Tals bildete sich durch schwere Fluten des mittlerweile abgeschnittenen Tsauchab-Flusses.",
+        "Wegen der mangelnden Feuchtigkeit in der Wüstenluft können die Baumstämme nicht biologisch verwesen.",
+        "Die umgebende 'Big Daddy'-Düne ist eine der höchsten Sanddünen im gesamten Namib-Dünenmeer.",
+        "Das Tal ist wegen der extrem harten Schatten und intensiven Farben eines der beliebtesten Fotomotive Afrikas.",
+        "Der Zugang zum Gebiet in den Sommermonaten ist oft auf die kühlen frühen Morgenstunden beschränkt."
+      ]
+    },
+    {
+      "id": "na-kuiseb-river-nature-v2",
+      "descriptionAdvanced": "Der Kuiseb-Fluss ist ein massiver, wenn auch zumeist oberflächlich völlig ausgetrockneter Trockenfluss (Rivier) in Westnamibia, der eine außergewöhnlich wichtige ökologische Barriere bildet. Er windet sich tief aus dem zentralen Khomas-Hochland und mündet schließlich bei Walvis Bay ins Meer. Seine gewaltigste Funktion erfüllt der Fluss jedoch tief in der Namib: Der Kuiseb bildet die messerscharfe natürliche Grenze zwischen dem riesigen, feuerroten Dünenmeer im Süden und den endlosen, leblosen und flachen Schotterebenen im Norden. Während seltene Flutereignisse massive Sandmassen in den Ozean waschen, weht der heftige Südwind den Sand unerbittlich aus den Dünen zurück in das Flussbett; ohne diesen schützenden Flussgraben würde das Dünenmeer weiter gnadenlos nach Norden wachsen. Geografie K8 — Fluviale Barrieren und Dünendynamik.",
+      "factsAdvanced": [
+        "Der Kuiseb-Fluss ist ephemer (temporär wasserführend) und erreicht das Meer nur bei gigantischen Flutereignissen.",
+        "Er stoppt effektiv das massive Fortschreiten des roten Dünenmeeres in Richtung der nördlichen Ebenen.",
+        "Im Kuiseb-Canyon fand das weltberühmte namibische Drama der flüchtenden Geologen Henno Martin und Hermann Korn statt.",
+        "Die tief unter der Erde liegenden Grundwasservorkommen des Kuiseb versorgen die Hafenstadt Walvis Bay mit Trinkwasser.",
+        "Dichte Galeriewälder von Kameldornbäumen und Anabäumen gedeihen prächtig im trockenen Flussbett.",
+        "Der Kuiseb-Canyon ist eine extrem raue, zerklüftete Gesteinsschlucht tief in der Namib-Wüste."
+      ]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "descriptionAdvanced": "Der Swakop-Fluss ist einer der bedeutendsten großen Trockenflüsse im Westen Namibias. Er entspringt hoch in den felsigen Bergen des Khomas-Hochlands, durchschneidet die Mondlandschaft in der Namib-Wüste in einer dramatischen, stark erodierten Schlucht und mündet schließlich bei der Hafenstadt Swakopmund in den stürmischen Atlantik. Oberflächlich führt er oft jahrzehntelang kein fließendes Wasser bis zum Meer, doch ein massiver, langsamer Grundwasserstrom fließt tief unter dem trockenen Sandbett kontinuierlich. Diese verborgene Wasserader ist das Geheimnis für intensiv grüne Flussoasen voller Tamarisken und ermöglicht Farmen in einer ansonsten extrem hyperariden Wüste den erfolgreichen Anbau von Pflanzen wie Spargel und Olivenbäumen. Geografie K7 — Ephemere Flüsse und unterirdisches Grundwasser.",
+      "factsAdvanced": [
+        "Der Swakop-Fluss führt nach extremen Niederschlägen im Inland seltene, verheerende Sturzfluten ('Flash Floods').",
+        "Tief unter der trockenen Sandoberfläche liegt ein verlässliches, oft enorm starkes Grundwasserreservoir.",
+        "Zwei Staudämme im Landesinneren (Von-Bach-Damm, Swakoppoort-Damm) kontrollieren stark den oberen Flusslauf.",
+        "Das Tal nahe der Küste, berühmt als 'Mondlandschaft' (Moon Landscape), ist stark durch den Fluss erodiert.",
+        "Im Flussbett werden erfolgreich anspruchsvolle Exportgüter wie Spargel und sogar Wein kultiviert.",
+        "Die Hafenstadt Swakopmund wurde direkt an seiner trockenen Mündung in den Atlantik gegründet."
+      ]
+    },
+    {
+      "id": "na-tsauchab-river-nature-v2",
+      "descriptionAdvanced": "Der Tsauchab-Fluss ist ein legendärer Trockenfluss in der rauen Hardap-Region, der in den imposanten Naukluft-Bergen entspringt. Nach heftigen Sommerregengüssen rast das braune Wasser durch den tief in das Gestein gegrabenen Sesriem-Canyon und strömt auf eine hoffnungslose Reise tief in die weite Wüste der Namib. Bemerkenswert ist jedoch, dass der Tsauchab den Atlantik niemals erreicht; er erstickt förmlich in dem endlosen Sand des Dünenmeers und endet endgültig in der weißen Salzpfanne des berühmten Sossusvlei. Dort verdunstet das Wasser extrem schnell und die dichten Sanddünen verhindern jegliches weiteres Vordringen. Ohne das temporäre, tief versickernde Grundwasser des Tsauchab könnten weder die massiven Kameldornbäume im Vlei noch Wildtiere wie Springböcke oder Oryxantilopen in dieser Todeszone überleben. Erdgeschichte K6 — Endorheische Systeme und Dünenmeere.",
+      "factsAdvanced": [
+        "Der Tsauchab ist ein klassischer endorheischer Fluss (er mündet nie ins Meer, sondern versiegt).",
+        "Der Fluss formte den engen, tiefen Sesriem-Canyon aus grobem Kalkstein- und Konglomeratgestein.",
+        "Die Pfannen am Ende des Flusslaufs (Sossusvlei, Deadvlei, Hiddenvlei) sind heute weltbekannte Touristenattraktionen.",
+        "Nach schweren, zyklischen Regenfällen füllt das Wasser des Tsauchab die Senke am Sossusvlei für einige Wochen.",
+        "Die unterirdische Feuchtigkeit aus dem Flussbett erlaubt es Bäumen, zwischen extrem feindlichen Dünen zu wachsen.",
+        "Die gewaltigen Sanddünen haben den Lauf des Flusses im Laufe von Jahrtausenden endgültig blockiert."
+      ]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "descriptionAdvanced": "Der Hoarusib-Fluss im Nordwesten Namibias (Region Kunene) windet sich wie ein breites, grünes Band aus den rauen Bergmassiven des Damaralandes durch die gnadenlose Skeleton Coast bis an den rauen Atlantik. Trotz seiner Klassifizierung als ephemerer Trockenfluss weist der Hoarusib in seinem unteren Verlauf in den engen Felsschluchten verblüffend häufig kleine offene Wasserstellen und kleine Bäche auf. Die steilen, roten Sandsteinwände (die sogenannten 'Clay Castles', imposante Lehmburgen) am Flussufer formen ein surreal schönes Naturschauspiel. Der Fluss ist eine essenzielle und kritische Lebensader in dieser extrem isolierten und gefährlichen Umgebung und bildet den primären Lebensraum für die berühmten wüstenangepassten Elefanten, wilde Leoparden und stolze Himba-Stämme, die ihr Vieh am Flussbett tränken. Ökologie K8 — Ephemere Riviere und Extremlebensräume.",
+      "factsAdvanced": [
+        "Der Hoarusib fließt durch spektakuläre, teils stark durch Wassererosion geformte Lehmformationen ('Clay Castles').",
+        "Er ist einer der wenigen großen Trockenflüsse, der tatsächlich manchmal den Atlantischen Ozean erreicht.",
+        "Das grüne Flusstal (Rivier) fungiert als kritischer Zufluchtsort ('Life Line') für gefährdete Wüstenelefanten.",
+        "Die Vegetation im breiten Flussbett (wie Anabäume und Mopane) ist das Hauptnahrungsmittel der großen Pflanzenfresser.",
+        "Sogenannte 'Flash Floods' können den leeren Fluss nach Gewittern im Hochland innerhalb von Minuten füllen.",
+        "Der Mündungsbereich ist von der wilden Dünenlandschaft des Skeleton Coast Parks eingeschlossen."
+      ]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "descriptionAdvanced": "Der Hoanib-Fluss ist ein atemberaubend schöner, großer Trockenfluss im tiefen Kaokoland, der zu den unberührtesten und wildesten Naturregionen der Erde zählt. Eingegraben zwischen majestätischen und schroffen Bergkämmen, ist das oft jahrelang völlig wasserlose, staubige Flussbett gesäumt von dichten Mopane-Wäldern und riesigen, uralten Kameldornbäumen, deren Pfahlwurzeln sich dutzende Meter tief in das unterirdische Wasserreservoire graben. Dieses verborgene Grundwasser erhält eine enorme Konzentration an afrikanischem Wildleben am Rande des Verhungerns: Der Hoanib ist das absolute Epizentrum der stark gefährdeten namibischen Wüstenelefanten, wüstenangepasster schwarzer Nashörner und vor allem der mythischen Wüstenlöwen (Desert Lions), die auf der Suche nach Giraffen und Gemsböcken diese isolierte Flussoase durchstreifen. Geografie K7 — Ökosystem-Management von linearen Oasen.",
+      "factsAdvanced": [
+        "Der Hoanib ist international berühmt für seine starke Population an an Wüsten angepassten Löwen ('Desert Lions').",
+        "Wie viele Riviere mündet auch der Hoanib zumeist in einem riesigen Dünenfeld, bevor er das Meer erreicht.",
+        "Starke Regenfälle treiben dicke Flutwellen den Fluss hinab, die sich manchmal tief in die Wüste stürzen.",
+        "Das weiche, grüne Tal bildet einen radikalen Kontrast zu den feindseligen Felsbergen des umliegenden Kaokolandes.",
+        "Das unterirdische Wasser im Flusstal wird von Wüstenelefanten durch das geschickte Graben tiefer Löcher ('Gorras') erreicht.",
+        "Große, jahrhundertealte Anabäume säumen das trockene Bett und bieten elementare Schattenplätze."
+      ]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "descriptionAdvanced": "Der Ugab-Fluss ist einer der längsten Flüsse im Westen Namibias und durchschneidet die raue, fast baumlose Felswüste des Damaralandes, bevor er südlich der Skelettküste in den eiskalten Atlantik stürzt. Der Ugab bildet in vielerlei Hinsicht eine geografische Trennlinie; sein tiefeingegrabenes Tal trennt das südlichere Erongogebirge vom bergigen Norden. Der extrem felsige und oft unzugängliche Lauf dieses Flusses formte auch einige der faszinierendsten geologischen Wunder der Region, wie beispielsweise den Ugab-Terrassen-Canyon. Die üppigen Akazienhaine in seinem trockenen, sandigen Bett sind eine der letzten und sichersten verbliebenen Rückzugszonen der namibischen Wüstenelefanten, weshalb intensive Schutz- und Forschungsprojekte im Bereich der Flussoase betrieben werden. Erdgeschichte K7 — Geomorphologie trockener Flussbetten.",
+      "factsAdvanced": [
+        "Der fast 500 Kilometer lange Ugab ist einer der längsten und einflussreichsten Trockenflüsse des Landes.",
+        "Der Flussverlauf bildet eine bedeutende ökologische Barriere und navigierbare Landschaft im Damaraland.",
+        "Im Mündungsdelta in den Atlantik bildet sich oft eine ausgedehnte, wildreiche Marschlandschaft.",
+        "Der Brandberg, Namibias höchstes Massiv, liegt unweit der dramatischen Schluchten des Flusses.",
+        "Der Flusslauf beherbergt dauerhaft große Gruppen gut angepasster Wüstenelefanten.",
+        "Eindrucksvolle und hohe Flussterrassen zeigen deutlich das Ausmaß alter, massiver prähistorischer Flutereignisse."
+      ]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "descriptionAdvanced": "Der Fischfluss (Fish River) ist der längste rein inländische Fluss Namibias und zieht sich wie ein mächtiges Rückgrat durch die staubtrockenen und extrem felsigen Plateaus im Süden des Landes. Er entspringt nahe Mariental, wo sein Wasser von der gewaltigen Mauer des Hardap-Damms für die dortige Bewässerungslandwirtschaft gestaut wird. Danach setzt er seinen Kurs Richtung Süden fort, wobei sein Oberflächenwasser in der Hitze oft völlig versiegt. Sein wahres geologisches Meisterwerk offenbart sich erst im tiefen Süden bei Hobas, wo er über Äonen hinweg den gigantischen, atemberaubenden Fischfluss-Canyon tief in den Kalk- und Granitstein gegraben hat. Nach diesem Kraftakt mündet er kurz vor der Atlantikküste als wichtigster Nebenfluss in den gigantischen Oranje. Geografie K8 — Fluviale Erosion und Staudämme.",
+      "factsAdvanced": [
+        "Mit einer Gesamtlänge von knapp 650 Kilometern ist der Fischfluss der längste namibische Inlandsfluss.",
+        "Der Flusslauf schuf im Laufe von geschätzt 500 Millionen Jahren den monumentalen Fischfluss-Canyon.",
+        "Sein Lauf wird bereits früh vom Hardap-Staudamm, dem größten Gewässer des Landes, blockiert und gestaut.",
+        "Der Fluss mündet etwa 100 Kilometer vor der Atlantikküste südlich von Ai-Ais in den grenzbildenden Oranje-Fluss.",
+        "In der gnadenlosen Sommerhitze stoppt der Fluss oft völlig und bildet nur tiefe isolierte Fels-Pools.",
+        "Die Fische in den überlebenden Tümpeln werden schnell zur primären Beute von Leoparden und Adlern."
+      ]
+    },
+    {
+      "id": "na-hardap-dam-nature-v2",
+      "descriptionAdvanced": "Der Hardap-Staudamm, gelegen im ariden Herzen der Region Hardap unweit von Mariental, ist ein gigantisches künstliches Wasserwunder und mit Abstand das größte Staubecken Namibias. Fertiggestellt im Jahr 1963, sperrt eine gewaltige und massive Betonmauer den natürlichen Lauf des Fischflusses und staut beinahe 300 Millionen Kubikmeter essenzielles Wasser. Er wurde primär konzipiert, um das ambitionierte landwirtschaftliche Bewässerungssystem der Region ('Hardap Irrigation Scheme') in einer Umgebung zu unterstützen, in der normaler Feldanbau fast unmöglich wäre. Neben der landwirtschaftlichen Funktion ist der riesige See auch eine Oase für Sportfischer, ein Vogelschutzgebiet für Tausende von Wasservögeln und das Zentrum eines kleinen staatlichen Wildparks für Spitzmaulnashörner. Landwirtschaft K7 — Staudamm-Technologie in der Halbwüste.",
+      "factsAdvanced": [
+        "Der Hardap-Damm ist das größte künstliche Staubecken des gesamten namibischen Staates.",
+        "Die beeindruckende Staumauer ist 39 Meter hoch und überspannt knapp 865 Meter.",
+        "Der Stausee hält die Grundlage für Namibias lukrativsten Anbau von Luzerne und Mais.",
+        "Ein angrenzender staatlicher (NWR) Game Park schützt Tiere wie Nashörner und Springböcke.",
+        "Die gelegentliche, plötzliche Öffnung der Fluttore bei Starkregen führte in der Vergangenheit zu Katastrophen in Mariental.",
+        "Zahlreiche Süßwasser-Pelikanarten und Fischadler nutzen das Gebiet als dauerhaften Brutplatz."
+      ]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "descriptionAdvanced": "Der mysteriöse Otjikoto-See, gelegen inmitten der von Karstgestein dominierten Landschaft in der Nähe von Tsumeb, gehört zu den größten natürlichen Kuriositäten in Namibia. Zusammen mit seinem 'Zwillingssee' Guinas ist er eigentlich kein See im klassischen Sinne, sondern eine riesige, eingestürzte unterirdische Karsthöhle (Cenote), die sich mit extrem klarem, tiefblauem Grundwasser gefüllt hat. Lange Zeit hielt sich unter den Einheimischen die Legende, der See sei bodenlos. Die Historie des Otjikoto ist tief mit dem Ersten Weltkrieg verbunden: Bevor die deutschen Kolonialtruppen 1915 vor der Übermacht der Südafrikaner nach Khorab flüchteten und kapitulierten, versenkten sie hier hunderte Kanonen, Artilleriegeschütze und riesige Mengen Munition. Viele dieser perfekt erhaltenen Artefakte wurden später von Tauchern mühsam geborgen und in das Tsumeb Museum gebracht. Geschichte K7 — Karstdolinen und koloniale Versenkungen.",
+      "factsAdvanced": [
+        "Otjikoto ist eine klassische Doline (Cenote) und entstand durch den Einbruch des Karstgesteinsdaches.",
+        "Die gemessene Tiefe des Sees liegt bei knapp 76 Metern, in Seitentunneln sogar weit über 100 Meter.",
+        "Die im See lebende farbenfrohe Otjikoto-Buntbarsch-Art (Tilapia guinasana) ist streng endemisch.",
+        "1915 versenkten deutsche Schutztruppen auf der Flucht ihre Waffen und Munition im extrem tiefen Wasser.",
+        "Ein Großteil der gefundenen Artillerie-Artefakte wird heute dauerhaft im Tsumeb-Museum ausgestellt.",
+        "Taucher beschreiben die Wasserqualität in den tieferen Zonen oft als vollkommen klar und kalt."
+      ]
+    }
+  ]
+}

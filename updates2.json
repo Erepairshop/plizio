@@ -1,0 +1,152 @@
+{
+  "szabolcs-szatmar-bereg": {
+    "desc_hu": "Szabolcs-Szatmár-Bereg vármegye hazánk legkeletibb régiója, mely három folyó – a Tisza, a Szamos és a Kraszna – ölelésében terül el. A táj megőrizte ősi, falusias jellegét, fa haranglábak és középkori templomok pettyezik a tájat, melyek a Felső-Tisza-vidék páratlan kulturális örökségét adják. Székhelye, Nyíregyháza, a Sóstói Múzeumfaluval és az Európa-hírű Állatparkkal jelentős turisztikai célpont. A megye az ország almatermesztésének központja, a híres szatmári szilva és az ebből készült szilvapálinka pedig hungarikumnak számít. Földrajz K6 - magyar tájak.",
+    "facts_hu": [
+      "A nyíregyházi Állatpark (Sóstó Zoo) Európa egyik legjobb állatkertjeként ismert.",
+      "A megye Magyarország legnagyobb alma- és szilvatermelő régiója.",
+      "A Felső-Tisza vidékén található hazánk középkori fatornyos templomainak jelentős része.",
+      "Tiszacsécse és Szatmárcseke a magyar irodalom két fontos alakjának, Móricz Zsigmondnak és Kölcsey Ferencnek az emlékhelye.",
+      "A szatmári szilvapálinka és a szabolcsi almapálinka elismert magyar hungarikumok."
+    ]
+  },
+  "tolna": {
+    "desc_hu": "Tolna vármegye a Dunántúl délkeleti részén, a Duna jobb partján terül el. Földrajzilag csendes, dombos vidék, mely mezőgazdasági termeléséről és kiváló borvidékéről híres. A Szekszárdi borvidék, a megyeszékhely körül, tüzes vörösborairól, különösen a bikavérről és a kadarkáról ismert. Tolna megye természeti büszkesége a Gemenci erdő, mely Közép-Európa legnagyobb összefüggő ártéri erdeje, gazdag vadállománnyal és egyedülálló flórával. Paks városa Magyarország egyetlen atomerőművének ad otthont, mely az ország villamosenergia-ellátásának alappillére. Földrajz K6 - régiók.",
+    "facts_hu": [
+      "A Gemenci erdő Magyarország legnagyobb ártéri erdeje, mely kiváló szarvasállománnyal rendelkezik.",
+      "A Szekszárdi borvidék az ország egyik történelmi borvidéke, a kadarka hazája.",
+      "Pakson működik Magyarország egyetlen nukleáris létesítménye, az atomerőmű.",
+      "Szekszárdon született Babits Mihály, a 20. századi magyar irodalom egyik legnagyobb alakja.",
+      "Báta és Decs a sárközi népművészet és a díszes népviselet központjai."
+    ]
+  },
+  "vas": {
+    "desc_hu": "Vas vármegye Magyarország legnyugatibb megyéje, az Alpokalja lankái és a Rába völgye öleli körül. Történelme során az ország védőbástyája volt, a nyugati határvidék kultúrája és építészete osztrák hatásokat is tükröz. Székhelye, Szombathely, hazánk egyik legrégebbi, rómaiak által alapított városa, mely Savaria néven fontos csomópont volt az ókori Borostyánkő úton. Kőszeg középkori várával és romantikus óvárosával a régió ékköve, míg Bükfürdő és Sárvár nemzetközi hírű gyógyfürdőivel vonzza a pihenni vágyókat. Történelem K6 - római kor.",
+    "facts_hu": [
+      "Szombathelyet (Savaria) a rómaiak alapították i.sz. 43-ban, így az ország egyik legrégebbi városa.",
+      "Kőszeg városa az 1532-es hősies, Jurisics Miklós vezette török elleni várvédelemről híres.",
+      "Sárvár és Bükfürdő a Nyugat-Dunántúl legfontosabb gyógyturisztikai központjai.",
+      "A megyében található az Őrség, egyedülálló szeres településszerkezetével.",
+      "Ják román stílusú apátsági temploma a középkori magyar építészet egyik remekműve."
+    ]
+  },
+  "veszprem": {
+    "desc_hu": "Veszprém vármegye a Közép-Dunántúlon, a Balaton északi partja és a Bakony sűrű erdei között húzódik. Ez a régió a természeti szépségek és a történelmi emlékek páratlan ötvözete. A megyeszékhely, Veszprém, a királynék városa, történelmi várnegyedével magasodik a Séd patak völgye fölé. A Balaton-felvidék vulkanikus tanúhegyei, mint a Badacsony, kiváló borokat adnak. A Bakony ősi rengetegei, a zirci apátság és a tihanyi bencés apátság mind a magyar történelem és kultúra jelentős mérföldkövei. Balatonfüred a tó legrégebbi üdülőhelye, a magyar vitorlázás központja. Földrajz K6 - Balaton.",
+    "facts_hu": [
+      "Veszprémet hagyományosan a királynék városának nevezik.",
+      "A Tihanyi Bencés Apátság alapítólevele (1055) az egyik legelső magyar nyelvű nyelvemlék.",
+      "A Badacsony vulkanikus tanúhegye az egyik legismertebb magyar fehérboros vidék.",
+      "A herendi porcelánmanufaktúra a világ egyik legnagyobb luxusporcelán-gyártója.",
+      "Balatonfüred a reformkori Magyarország fontos kulturális találkozóhelye volt."
+    ]
+  },
+  "zala": {
+    "desc_hu": "Zala vármegye a Nyugat-Dunántúl déli részén terül el, lankás, zöldellő dombvidék, mely sűrű erdőségekkel és csodás tavakkal büszkélkedhet. Zalaegerszeg, a megyeszékhely, az ország egyik legzöldebb városa, a Göcseji Falumúzeum révén a helyi népi építészet őrzője. Keszthely, a Balaton fővárosa, a lenyűgöző Festetics-kastéllyal a régió kulturális központja. A megye büszkesége Hévíz, melynek biológiailag aktív, természetes termáltava egyedülálló a világon. Zala emellett a hagyományos falusi turizmus és a göcseji pruszlikos néphagyományok földje. Földrajz K6 - dombvidékek.",
+    "facts_hu": [
+      "A Hévízi-tó a világ legnagyobb biológiailag aktív, természetes termáltava.",
+      "Keszthelyen található a Festetics-kastély, Magyarország egyik legszebb barokk kastélya.",
+      "A megye területén található a Kis-Balaton, mely fokozottan védett madárrezervátum.",
+      "Zala az egyik legerdősebb megye Magyarországon.",
+      "Zalaegerszeg mellett nyílt meg Magyarország első szabadtéri néprajzi múzeuma, a Göcseji Falumúzeum."
+    ]
+  },
+  "budapest-city": {
+    "desc_hu": "Budapest, a Duna gyöngyszeme, Közép-Európa egyik legvarázslatosabb városa, amely gazdag történelmével és lenyűgöző építészetével kápráztatja el a látogatókat. A város kétarcú: a dimbes-dombos Buda történelmi nyugalmával, míg a sík Pest nyüzsgő kulturális és éjszakai életével vonz. A 19. századi boldog békeidők hangulatát sugárzó kávéházak, a monumentális Országház és a Budai Vár mind a város fénykorát idézik. Budapest a világ egyetlen fürdőfővárosa, ahol római és török kori hagyományokra épülő gyógyfürdők várják a feltöltődni vágyókat. Földrajz K5 - európai nagyvárosok.",
+    "facts_hu": [
+      "A Duna szeli ketté a várost történelmi Budára és a nyüzsgő Pestre.",
+      "Több mint 100 termálvízforrással rendelkezik, így a világ fürdőfővárosaként is ismert.",
+      "A budapesti Parlament a világ harmadik legnagyobb országháza.",
+      "Itt közlekedik a kontinens első földalatti vasútja, az M1-es metró.",
+      "Számos világörökségi helyszínnel büszkélkedhet, mint a Hősök tere és az Andrássy út."
+    ]
+  },
+  "budai-var": {
+    "desc_hu": "A Budai Vár a magyar történelem egyik legfontosabb szimbóluma, amely évszázadokon át szolgált a magyar királyok székhelyeként. A Várhegyen elterülő hatalmas palotaegyüttes a 13. századtól kezdve folyamatosan épült, elpusztult, majd újjáépült, így gótikus, reneszánsz és barokk stílusjegyeket egyaránt hordoz. Ma az épület hazánk legjelentősebb kulturális intézményeinek, köztük a Magyar Nemzeti Galériának és az Országos Széchényi Könyvtárnak ad otthont. A várteraszokról nyíló dunai panoráma lenyűgöző látványt nyújt. Történelem K6 - középkori várak.",
+    "facts_hu": [
+      "A Várnegyed 1987 óta az UNESCO Világörökség része.",
+      "A palotát a második világháború során szinte teljesen lebombázták, majd újjáépítették.",
+      "A Halászbástya és a Mátyás-templom a Várnegyed legnépszerűbb látványosságai.",
+      "Itt található a Magyar Nemzeti Galéria és a Budapesti Történeti Múzeum.",
+      "A vár alatt kiterjedt barlang- és pincerendszer húzódik."
+    ]
+  },
+  "orszaghaz": {
+    "desc_hu": "A budapesti Országház, vagy Parlament, a magyar törvényhozás otthona és az ország egyik legismertebb jelképe. Steindl Imre tervei alapján épült a 19. és 20. század fordulóján, neogótikus stílusban, eklektikus részletekkel. A Duna partján magasodó épület lenyűgöző méreteivel és kupolájával uralja a pesti látképet. Beltere is páratlan: gazdag aranyozás, freskók és színes üvegablakok díszítik. Itt őrzik a magyar államiság legfőbb szimbólumát, a Szent Koronát és a koronázási jelvényeket. Állampolgári ismeretek K8 - magyar állam.",
+    "facts_hu": [
+      "Az épület 96 méter magas, ami a honfoglalás 896-os dátumára utal.",
+      "Megépítéséhez 40 millió téglát és 40 kilogramm aranyat használtak fel.",
+      "A világ harmadik legnagyobb parlamenti épülete.",
+      "A Kupolateremben őrzik a magyar Szent Koronát 2000 óta.",
+      "Homlokzatán 242 szobor található, melyek magyar uralkodókat és vezéreket ábrázolnak."
+    ]
+  },
+  "hosok-tere": {
+    "desc_hu": "A Hősök tere Budapest leggrandiózusabb tere, amely a magyar honfoglalás ezeréves évfordulójára épült a 19. század végén. A tér középpontjában a Millenniumi Emlékmű magasodik, tetején Gábriel arkangyal szobrával, az oszlopcsarnokokban pedig a magyar történelem legjelentősebb uralkodóinak és vezéreinek szobrai sorakoznak. A teret két lenyűgöző múzeumépület, a Szépművészeti Múzeum és a Műcsarnok fogja közre. A tér nem csupán turisztikai látványosság, hanem az ország történelmi emlékezetének szentélye is. Történelem K6 - millennium.",
+    "facts_hu": [
+      "Az emlékmű építése az 1896-os millenniumi ünnepségekre kezdődött.",
+      "Középpontjában Gábriel arkangyal 36 méter magas szobra áll.",
+      "A tér az UNESCO Világörökség része az Andrássy úttal együtt.",
+      "A szoborcsoport a honfoglaló hét vezért és a magyar történelem nagy alakjait ábrázolja.",
+      "Két oldalán a Szépművészeti Múzeum és a Műcsarnok impozáns épületei állnak."
+    ]
+  },
+  "dunapart": {
+    "desc_hu": "A budapesti Duna-part, amely a Margit hídtól a Szabadság hídig terjed, a világ egyik legszebb folyóparti panorámáját kínálja. A budai oldal zöldellő hegyoldalai, a Gellért-hegy és a Budai Vár kontrasztban állnak a pesti oldal monumentális épületeivel, mint az Országház és a Duna-korzó elegáns szállodái. A folyón átívelő hidak, különösen az éjszakai kivilágításban ragyogó Lánchíd, romantikus sétákra csábítanak. A Cipők a Duna-parton emlékmű megrázó mementóként tiszteleg a holokauszt áldozatai előtt. Földrajz K6 - magyar folyók.",
+    "facts_hu": [
+      "A budapesti Duna-part látképe 1987 óta UNESCO Világörökségi védelem alatt áll.",
+      "A legszebb panoráma a pesti oldalról a Várnegyedre, a budai oldalról a Parlamentre nyílik.",
+      "A folyó budapesti szakaszán 6 sziget és 11 híd található.",
+      "A Duna-korzó a 19. század óta a fővárosi séták kedvelt helyszíne.",
+      "A Cipők a Duna-parton emlékmű a nyilaskeresztesek által meggyilkolt áldozatokra emlékeztet."
+    ]
+  },
+  "margitsziget": {
+    "desc_hu": "A Margitsziget egy zöldellő oázis Budapest szívében, a Duna hullámai között. A szigetre autók nem hajthatnak be, így tökéletes menedék a város zajától pihenni vágyóknak. Nevét IV. Béla király lányáról, Szent Margitról kapta, aki az itteni domonkos kolostorban élt. Ma a sziget évszázados fái, a rózsakert, a japánkert és a zenélő szökőkút romantikus séták helyszínei. Emellett népszerű sportolási központ is, futókörrel, uszodával és szabadtéri stranddal várja a budapestieket és a turistákat. Földrajz K6 - természetvédelem a városban.",
+    "facts_hu": [
+      "A sziget hossza mintegy 2,5 kilométer, területe csaknem 100 hektár.",
+      "Korábbi neve Nyulak szigete volt a középkori királyi vadászatok miatt.",
+      "A zenélő szökőkút esténként fényjátékkal kísért zenei műsorral szórakoztatja a látogatókat.",
+      "A szigeten található az 1911-ben épült víztorony, amely ma kilátóként üzemel.",
+      "A Palatinus Strandfürdő Budapest egyik legnépszerűbb szabadtéri strandja."
+    ]
+  },
+  "varosliget": {
+    "desc_hu": "A Városliget Budapest legnagyobb közparkja, amely az 1896-os millenniumi ünnepségek óta a főváros kulturális és szórakoztató központja. Itt található a mesébe illő Vajdahunyad vára, amely a történelmi Magyarország különböző építészeti stílusait ötvözi. A park ad otthont a Széchenyi Gyógyfürdőnek, a Fővárosi Állat- és Növénykertnek, valamint a műjégpályának, amely nyáron csónakázótóként üzemel. A közelmúltban megvalósult Liget Projekt keretében olyan modern építészeti remekművekkel gazdagodott, mint a Magyar Zene Háza és a Néprajzi Múzeum. Környezetismeret K5 - parkok.",
+    "facts_hu": [
+      "A Városliget a világ egyik első, mesterségesen kialakított közparkja.",
+      "A Vajdahunyad vára eredetileg kartonból és fából épült fel az 1896-os kiállításra.",
+      "A Fővárosi Állat- és Növénykert Magyarország legrégebbi állatkertje, 1866-ban nyílt meg.",
+      "A Széchenyi Gyógyfürdő Európa legnagyobb fürdőkomplexuma.",
+      "A télen működő Városligeti Műjégpálya Európa legnagyobb szabadtéri korcsolyapályája."
+    ]
+  },
+  "andrassy-ut": {
+    "desc_hu": "Az Andrássy út Budapest legimpozánsabb sugárútja, amely a belvárost köti össze a Városligettel. A 19. század végén, a párizsi Champs-Élysées mintájára épült, elegáns neoreneszánsz palotákkal, luxusüzletekkel és fasorokkal szegélyezve. Az út alatt fut az európai kontinens első földalatti vasútja, az M1-es metró. Az út mentén olyan ikonikus épületek sorakoznak, mint a lenyűgöző Magyar Állami Operaház vagy a Terror Háza Múzeum. Eleganciája és történelmi jelentősége miatt az UNESCO Világörökség része. Történelem K6 - városfejlődés.",
+    "facts_hu": [
+      "Az út teljes hossza 2,3 kilométer, építését 1872-ben kezdték meg.",
+      "A sugárút alatt haladó kisföldalatti 1896-ban kezdte meg működését.",
+      "A Magyar Állami Operaházat Ybl Miklós tervezte, 1884-ben nyílt meg.",
+      "2002 óta az út és környezete az UNESCO Világörökség része.",
+      "Az út egykori Andrássy út 60. szám alatti épület ma a Terror Háza Múzeum."
+    ]
+  },
+  "nyugati-palyaudvar": {
+    "desc_hu": "A Nyugati pályaudvar Budapest egyik legszebb és legfontosabb vasúti fejpályaudvara. Az épületet a párizsi Eiffel-tornyot is tervező Gustave Eiffel cége építette a 19. század végén. A lenyűgöző üveg- és acélszerkezetű csarnok az ipari forradalom építészeti bravúrját dicséri. A pályaudvar nemcsak közlekedési csomópont, hanem történelmi műemlék is, melynek elegáns egykori királyi váróterme ma is megtekinthető. A mellette lévő tér és bevásárlóközpont Budapest egyik legforgalmasabb találkozási pontja. Technika K7 - közlekedéstörténet.",
+    "facts_hu": [
+      "Az épületet a párizsi Eiffel-cég (Eiffel & Cie) tervezte és építette.",
+      "1877-ben adták át a forgalomnak a korábbi pesti indóház helyén.",
+      "A vasútállomáson található a világ egyik legszebbnek tartott gyorsétterme.",
+      "A vágánycsarnok hatalmas üvegablakai és acélszerkezete az ipari építészet remekei.",
+      "Innen indult 1846-ban Magyarország első vasútvonala Vác felé."
+    ]
+  },
+  "lanchid": {
+    "desc_hu": "A Széchenyi Lánchíd Budapest első és legismertebb kőhídja, amely véglegesen összekötötte a történelmi Budát a fejlődő Pesttel. Építését Gróf Széchenyi István kezdeményezte, a tervezője pedig az angol William Tierney Clark volt. A híd az 1849-es átadásakor korának egyik mérnöki csodája volt. Az oroszlánszobrokkal őrzött, klasszicista stílusú építmény a magyar főváros elválaszthatatlan jelképévé vált. Éjszakai díszkivilágításban a Lánchíd a Duna fölött ívelve lenyűgöző látványt nyújt a kivilágított Várnegyed hátterével. Történelem K6 - reformkor.",
+    "facts_hu": [
+      "A híd volt az első állandó összeköttetés Buda és Pest között a Dunán.",
+      "1849-ben adták át, építését a skót Clark Ádám irányította.",
+      "A hidat őrző kőoroszlánokat Marschalkó János szobrász készítette 1852-ben.",
+      "A második világháború végén a visszavonuló német csapatok felrobbantották, majd 1949-ben épült újjá.",
+      "A pesti hídfőnél található a nulladik kilométerkő, ahonnan a magyarországi főutak távolságát mérik."
+    ]
+  }
+}

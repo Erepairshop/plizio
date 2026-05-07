@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ejura-cities-v2",
+      "descriptionAdvanced": "Ejura servește drept unul dintre cele mai prolifice centre agricole din Regiunea Ashanti a Ghanei. Amplasat strategic la granița dintre zona de pădure tropicală și savana arboricolă, orașul se bucură de condiții agronomice remarcabile. Activitatea economică de bază este cultivarea și vânzarea ignamelor și a porumbului, fiind recunoscut pe plan național drept un hub major de securitate alimentară. Orașul găzduiește și unul dintre cele mai renumite festivaluri locale, atrăgând comercianți din nord și din sud. Economie K6 — agricultură de tranziție.",
+      "factsAdvanced": [
+        "Este un important nod comercial pentru igname și cereale.",
+        "Se află la zona de tranziție ecologică dintre pădure și savană.",
+        "Aparține districtului municipal Ejura-Sekyedumase.",
+        "Populația sa depășește numărul de 50.000 de locuitori.",
+        "Atrage lucrători agricoli sezonieri din nordul țării.",
+        "Este considerat „grânarul” neoficial al regiunii Ashanti."
+      ]
+    },
+    {
+      "id": "berekum-cities-v2",
+      "descriptionAdvanced": "Berekum, cunoscut cu mândrie sub titlul de Orașul de Aur, este o localitate prosperă din Regiunea Bono, având o moștenire regală puternică în cultura Akan. Istoria orașului se leagă strâns de vânătoarea antică de aur și de consolidarea statelor vecine în jurul puterii regelui său tradițional (Berekumhene). În prezent, localitatea se bucură de un nivel de viață ridicat, susținut de vastele ferme de cacao din împrejurimi, precum și de remitențele diasporei sale foarte active. Economie K7 — creștere rural-urbană.",
+      "factsAdvanced": [
+        "Este faimos la nivel național drept Orașul de Aur.",
+        "Are o influență istorică majoră în consiliul tradițional Bono.",
+        "O parte semnificativă din populație lucrează în străinătate.",
+        "Este un nod vital de transport pentru recoltele de cacao.",
+        "Echipa sa de fotbal, Berekum Chelsea, a câștigat campionatul național.",
+        "Populația orașului numără aproximativ 60.000 de persoane."
+      ]
+    },
+    {
+      "id": "tafo-cities-v2",
+      "descriptionAdvanced": "Tafo, cunoscut oficial ca New Tafo, este un oraș prosper situat în Regiunea de Est, renumit global pentru Institutul de Cercetare a Cacauei din Ghana (CRIG). Din anii 1930, această instituție a fost pionieră în prevenirea bolilor plantelor și dezvoltarea de noi hibrizi de cacao. Centrul urbei prezintă străzi largi mărginite de copaci plantați din perioada colonială, conferindu-i un aer relaxant. Este o comunitate a cărei soartă și prosperitate s-au legat definitiv de succesul boabelor de cacao. Geografie K8 — științe agricole.",
+      "factsAdvanced": [
+        "Aici funcționează faimosul Institut de Cercetare a Cacauei (CRIG).",
+        "CRIG a fost înființat în anul 1938 pentru combaterea bolii lăstarilor umflați.",
+        "Economia orașului este aproape complet dependentă de sectorul cacauei.",
+        "Găzduiește zone rezidențiale extinse, construite pentru cercetători.",
+        "Populația este diversă, atrăgând oameni de știință din toată țara.",
+        "Este una dintre comunitățile cu venituri peste medie din Regiunea de Est."
+      ]
+    },
+    {
+      "id": "suhum-cities-v2",
+      "descriptionAdvanced": "Suhum funcționează ca un nod rutier major în Regiunea de Est, conectând direct capitala Accra de metropola Kumasi. Această poziționare pe ruta națională principală l-a transformat într-un pol logistic esențial, fiind adesea primul loc major de popas pentru vehiculele grele. Orașul susține și o viață comercială stradală febrilă, unde vânzătorii ambulanți aprovizionează pasagerii autobuzelor și șoferii. În ciuda activității de tranzit neîntrerupte, orașul este înconjurat de păduri pluviale bogate și ferme izolate. Economie K6 — noduri de transport.",
+      "factsAdvanced": [
+        "Se află chiar pe principala axă de transport nord-sud din Ghana.",
+        "Este capitala districtului municipal Suhum Kraboa Coaltar.",
+        "Creșterea populației este strâns legată de afluxul de comercianți.",
+        "Mii de vehicule grele și autobuze tranzitează orașul zilnic.",
+        "Are o piață extinsă pentru produse alimentare proaspete destinate călătorilor.",
+        "Orașul înregistrează extinderi rapide spre zonele rurale limitrofe."
+      ]
+    },
+    {
+      "id": "tarkwa-cities-v2",
+      "descriptionAdvanced": "Tarkwa este o așezare dinamică din Regiunea de Vest, recunoscută drept inima exploatării miniere din această zonă. Datorită depozitelor considerabile de aur și mangan, orașul a atras primele companii de prospecție moderne încă din secolul al XIX-lea. Astăzi, peisajul este puternic influențat de operațiunile miniere de suprafață și subterane. Tarkwa găzduiește și Universitatea de Mine și Tehnologie (UMaT), instituția principală de instruire a viitorilor ingineri minieri din Africa de Vest. Economie K8 — extracție și minerit.",
+      "factsAdvanced": [
+        "Aici funcționează Universitatea de Mine și Tehnologie (UMaT).",
+        "Este un pol major de extracție pentru aur și mangan.",
+        "Mina Tarkwa Gold Fields este una dintre cele mai profitabile din lume.",
+        "Extracția minieră atrage zeci de mii de muncitori migranți.",
+        "Spre deosebire de alte orașe rurale, infrastructura rutieră este avansată.",
+        "Pădurea înconjurătoare suferă de un impact ecologic notabil."
+      ]
+    },
+    {
+      "id": "nsawam-cities-v2",
+      "descriptionAdvanced": "Nsawam, situat la granița Regiunii de Est cu Regiunea Greater Accra, este faimos la nivel național dintr-un motiv deosebit: pâinea sa tradițională, consumată de călători ca un produs iconic de tip street-food. Situat pe râul Densu, a funcționat anterior ca un punct de colectare pentru recoltele forestiere. Orașul atrage tot mai mult interes rezidențial, deoarece servește drept „oraș-dormitor” pentru cei care lucrează în capitală. De asemenea, aici este situată cea mai renumită închisoare de maximă securitate din Ghana. Geografie K7 — navetism și extindere urbană.",
+      "factsAdvanced": [
+        "Este celebru în toată țara pentru pâinea Nsawam vândută la marginea drumului.",
+        "Găzduiește închisoarea de maximă securitate Nsawam, construită în 1960.",
+        "Funcționează masiv ca oraș-dormitor pentru capitala Accra.",
+        "Are o stație istorică importantă pe vechea linie de cale ferată.",
+        "Piața sa locală atrage cumpărători de produse agricole din capitală.",
+        "Densitatea populației a crescut constant în ultimele trei decenii."
+      ]
+    },
+    {
+      "id": "kasoa-cities-v2",
+      "descriptionAdvanced": "Kasoa a fost cândva un sat agricol obscur în Regiunea Centrală, dar astăzi reprezintă unul dintre episoadele de expansiune urbană cele mai rapide din întreaga Africă. Localizat la granița de vest a metropolei Accra, explozia sa demografică a venit din necesitatea locuitorilor de a găsi spațiu și terenuri accesibile în apropierea capitalei. Strada principală este o avalanșă comercială continuă, dominată de piețe neoficiale, ambuteiaje și mici magazine de aprovizionare. Societate K6 — mega-orașe în dezvoltare.",
+      "factsAdvanced": [
+        "Se numără printre așezările cu cea mai rapidă creștere din lume.",
+        "Cunoscută și sub numele istoric de Oduponkpehe.",
+        "Piața locală (Kasoa Market) atrage zeci de mii de cumpărători săptămânal.",
+        "Creșterea sa a absorbit numeroase localități satelit mai mici.",
+        "Populația oficială sare de 300.000 de rezidenți, conform ultimelor estimări.",
+        "Reprezintă zona principală de expansiune a navetiștilor din Accra."
+      ]
+    },
+    {
+      "id": "yendi-cities-v2",
+      "descriptionAdvanced": "Yendi servește ca sediu spiritual și politic străvechi al Regatului Dagbon, dominând istoria Regiunii de Nord a Ghanei. În centrul orașului tronează palatul Gbewaa, reședința oficială a regelui suprem (Ya-Na). Orașul are un aer arhaic și conservator, locuitorii săi fiind profund mândri de tradițiile de călărie și de structurile ierarhice centenare. Piața sa locală este colorată de țesături tradiționale smock (fugu) și rute comerciale ce aduc bunuri din regiunile saheliene ale Africii. Istorie K8 — regate precoloniale.",
+      "factsAdvanced": [
+        "Este capitala tradițională a puternicului Regat Dagbon.",
+        "Găzduiește Palatul Gbewaa, casa monarhului suprem Ya-Na.",
+        "Orașul are o istorie de conflicte coloniale majore cu germanii.",
+        "Majoritatea populației aparține etniei Dagomba.",
+        "Baza economiei este producția agricolă a ignamelor și a meiului.",
+        "A fost integrat temporar în coloniile germane înainte de Primul Război Mondial."
+      ]
+    },
+    {
+      "id": "winneba-cities-v2",
+      "descriptionAdvanced": "Winneba, cunoscută și sub vechiul nume Simpa, este o așezare costieră bogată în patrimoniu cultural și intelectual. Situată în Regiunea Centrală, urbea este renumită pentru sărbătoarea sa anuală Aboakyer, celebrând vânătoarea de antilope într-o paradă magnifică. Winneba are și un profil academic puternic, fiind sediul Universității de Educație. Peisajul arhitectural combină fortărețe prăbușite de pe plajă cu clădiri universitare elegante, subliniind dubla sa natură istorică și educativă. Cultură K7 — festivaluri locale.",
+      "factsAdvanced": [
+        "Locul de desfășurare a faimosului festival Aboakyer (vânătoarea de antilope).",
+        "Aici funcționează Universitatea de Educație din Winneba (UEW).",
+        "Populația locală este predominant etnică Effutu.",
+        "Muzica corală și fanfarele joacă un rol major în cultura locală.",
+        "Terenul înconjurător este presărat cu păduri sacre tradiționale.",
+        "A fost un port de escală minor în timpul dominației coloniale engleze."
+      ]
+    },
+    {
+      "id": "mampong-cities-v2",
+      "descriptionAdvanced": "Mampong servește drept unul dintre pilonii administrativi secundari ai Regiunii Ashanti, oprit confortabil pe niște înălțimi deluroase. Regele său tradițional, Mamponghene, ocupă locul secund în ierarhia imperiului, direct sub Asantehene, subliniind importanța strategică a orașului. Deși este o așezare liniștită, are un profil de top în domeniul educațional datorită campusurilor Universității de Educație și prezenței Centrului de Excelență Medicală. Climatul său ușor răcoros atrage navetiști obosiți de căldura altor zone. Istorie K8 — ierarhia Ashanti.",
+      "factsAdvanced": [
+        "Mamponghene este al doilea cel mai puternic șef din Regatul Ashanti.",
+        "Așezarea este poziționată la o altitudine moderată și benefică.",
+        "Orașul este remarcat pentru curățenia sa și pacea administrativă.",
+        "Găzduiește facilități universitare majore afiliate cu instituții naționale.",
+        "Zona este considerată a fi foarte propice agriculturii pe scară mică.",
+        "Populația respectă un cod moral tradițional foarte strict."
+      ]
+    },
+    {
+      "id": "navrongo-cities-v2",
+      "descriptionAdvanced": "Navrongo este o enclavă spirituală remarcabilă din nordul Ghanei, localizată la marginea deșertului Sahel. Orașul este celebru pentru incredibila Catedrală Navrongo, construită integral din cărămizi de noroi amestecat în 1906, fiind un hibrid arhitectural excepțional între tehnicile saheliene și credința romano-catolică. Așezarea are un caracter calm, dominat de grupuri etnice Kassena ale căror locuințe tradiționale, complex pictate în tonuri de pământ negru și roșu, atrag arhitecții din toată lumea. Cultură K8 — arhitectură religioasă autohtonă.",
+      "factsAdvanced": [
+        "Găzduiește faimoasa basilică catolică minoră construită din noroi în 1906.",
+        "Populația majoritară Kassena își decorează manual casele din chirpici.",
+        "A găzduit una dintre primele stațiuni de misiune catolică din nord.",
+        "Mediul înconjurător suferă perioade îndelungate de uscăciune.",
+        "Este locul înființării Centrului de Cercetare în Sănătate Navrongo (NHRC).",
+        "Terenul este frecvent afectat de expunerea dură la razele solare."
+      ]
+    },
+    {
+      "id": "akim-oda-cities-v2",
+      "descriptionAdvanced": "Akim Oda, sau simplu Oda, reprezintă inima vibrantă a subgrupului etnic Akyem din Regiunea de Est. Situat în mijlocul unei zone împădurite bogate, orașul și-a construit prosperitatea datorită industriei forestiere intensive, procesării lemnului și agriculturii comerciale masive bazate pe cacao. Dincolo de industrie, Oda uimește printr-un record mondial puțin cunoscut: aici se află cel mai mare arbore de Badi (Big Tree) din lume, o minune naturală veche de sute de ani. Economie K6 — exploatarea resurselor regenerabile.",
+      "factsAdvanced": [
+        "Aproape de oraș se găsește Big Tree, cel mai voluminos copac din Africa de Vest.",
+        "Este reședința șefului tradițional al poporului Akyem Kotoku.",
+        "Procesarea cherestelei constituie fundația economică a orașului.",
+        "Zona se bucură de un nivel de ploaie optim pentru pădurile tropicale.",
+        "Există fabrici puternice specializate pe prelucrarea primară a lemnului.",
+        "Orașul deține unul dintre cele mai longevive și vibrante târguri locale."
+      ]
+    },
+    {
+      "id": "prestea-cities-v2",
+      "descriptionAdvanced": "Prestea are reputația unui oraș forjat adânc în subteranul Regiunii de Vest. Spre deosebire de exploatările moderne la suprafață, acest oraș minier este cunoscut pentru tunelele sale tradiționale, unde de peste un secol s-au extras cantități colosale de aur. Arhitectura de la suprafață a așezării prezintă zeci de locuințe vechi de fier vopsit de pe vremea coloniștilor, alături de echipamente de foraj antice și roți gigantice oxidate. Orașul atrage continuu mineri informali (galamsey). Economie K8 — impactul minelor subterane.",
+      "factsAdvanced": [
+        "Are o istorie vastă dedicată exclusiv mineritului subteran de aur.",
+        "Găzduia una dintre cele mai adânci mine comerciale de aur din lume.",
+        "Fenomenul galamsey (minerit ilegal) are un impact puternic aici.",
+        "Are un aspect rustic și uzat, păstrând case și mașinării coloniale.",
+        "Sute de mii de uncii de aur au fost prelucrate pe teritoriul său.",
+        "Fluviile din apropiere suferă din cauza deversărilor rezultate din prelucrare."
+      ]
+    },
+    {
+      "id": "effiakuma-cities-v2",
+      "descriptionAdvanced": "Effiakuma funcționează ca o suburbie vibrantă de bază pentru metropola Sekondi-Takoradi. De la o zonă rezidențială pentru clasa muncitoare care deservea docurile din Takoradi în anii 1950, a crescut într-o comunitate colorată, plină de blocuri îngrămădite și alei animate. Orașul este recunoscut pe plan național drept un bastion al sportului și muzicii, din care au apărut mulți jucători profesioniști de fotbal și muzicieni rap. Zgomotul și viața aglomerată a locului definesc experiența tinerilor de coastă. Societate K7 — comunități muncitorești moderne.",
+      "factsAdvanced": [
+        "Este una dintre principalele zone rezidențiale pentru portul Takoradi.",
+        "Posedă reputația unui teren propice pentru sportivi și artiști rap locali.",
+        "Cartierul a fost construit inițial sub coordonarea președintelui Nkrumah.",
+        "Străzile sunt foarte dens populate, favorizând relații sociale strânse.",
+        "Păstrează piețe deschise ce activează până târziu în noapte.",
+        "A înregistrat o puternică creștere economică după boom-ul petrolier din 2007."
+      ]
+    },
+    {
+      "id": "agogo-cities-v2",
+      "descriptionAdvanced": "Agogo se profilează armonios pe Platoul Kwahu, cu un climat plăcut, remarcabil de răcoros, unic în Regiunea Ashanti. Așezarea a fost favorizată istoric de misiunile religioase prezbiteriene care au construit aici instituții masive de educație și spitale de mare calibru. Agogo Hospital este și astăzi unul dintre punctele forte de cercetare medicală din provincie. Dincolo de progresul științific, relieful său cu ierburi proaspete atrage ferme extensive de vite, inițiate adesea de comunitățile fulani. Geografie K7 — impactul altitudinii.",
+      "factsAdvanced": [
+        "Climatul său este vizibil mai răcoros datorită altitudinii superioare.",
+        "Spitalul Prezbiterian Agogo este renumit în întreaga țară din anii 1930.",
+        "A găzduit decenii la rând păstori transhumanți Fulani.",
+        "Produce numeroase plante verzi și furaje destinate zootehniei.",
+        "Zona este considerată a fi ideală pentru turism montan și ecologic.",
+        "Are o istorie îndelungată ca important sit al misiunii prezbiteriene."
+      ]
+    },
+    {
+      "id": "dunkwa-on-offin-cities-v2",
+      "descriptionAdvanced": "Dunkwa-on-Offin este inima neoficială a activităților de pe fluviul Offin, situată în Regiunea Centrală, dar aflată la granița culturală a regatului Ashanti. Poziția sa l-a menținut ca un punct tradițional de colectare și spălare a aurului, de-a lungul cursurilor noroioase de apă. În plus față de aur, orașul sprijină prelucrarea la scară largă a lemnului masiv și a boabelor de cacao. Calea ferată veche, deși mai puțin activă astăzi, a lăsat o urmă clară de stații ruginite. Istorie K6 — resurse fluviale.",
+      "factsAdvanced": [
+        "Situat pe cursul de mijloc al fluviului aurifer Offin.",
+        "Este administrativ capitala districtului municipal Denkyira Superioară.",
+        "A fost un oprire vitală pe prima mare cale ferată a coloniștilor englezi.",
+        "Este puternic afectat de practicile de minerit la scară mică (galamsey).",
+        "Reprezintă o platformă de comerț regional între comunitățile Fante și Ashanti.",
+        "Înregistrează o populație stabilă care depășește pragul de 30.000 de locuitori."
+      ]
+    },
+    {
+      "id": "begoro-cities-v2",
+      "descriptionAdvanced": "Begoro, ascuns pitoresc de-a lungul marginii estice a escarpamentului Kwahu din Regiunea de Est, pare suspendat în timp. Izolarea sa relativă i-a conservat stilul tradițional agricol, majoritatea populației fiind implicată în cultivarea pătlaginei, maniocului și cacauei. Orașul este traversat de cărări de pământ și curți umbrite de arbori tropicali, o oază de liniște departe de capitală. Cascada din zonă, numită Osubeng, este un magnet vizual rar vizitat, dar absolut uimitor. Geografie K7 — așezări montane.",
+      "factsAdvanced": [
+        "Sediul și reședința șefului tradițional al statului Benkum din zona Akyem.",
+        "Cascada Osubeng din apropiere oferă peisaje neatinse de urbanizare.",
+        "Deține piețe dedicate exclusiv tranzacționării ignamelor și fructelor proaspete.",
+        "Izolarea geografică i-a ferit mediul înconjurător de defrișările majore.",
+        "Majoritatea populației folosește exclusiv practici de agricultură ecologică primară.",
+        "Zilele de piață atrag mici agricultori din zeci de sate îndepărtate."
+      ]
+    },
+    {
+      "id": "kintampo-cities-v2",
+      "descriptionAdvanced": "Kintampo este adesea menționat simbolic drept centrul geografic absolut al statului Ghana, un fapt marcat oficial printr-un monument situat în centrul orașului. Poziționat optim pe Platoul Kintampo, urbea conectează cele două universuri culturale majore: sudul acoperit de păduri și nordul sahelian. Zona este celebră pe glob datorită descoperirilor Complexului Cultural Kintampo, vechi de milenii. În apropiere, cascadele sale pe trepte și traseele suspendate prin copaci atrag valuri de ecoturiști anual. Istorie K8 — artefacte neolitice.",
+      "factsAdvanced": [
+        "Revendică titlul onorific de centru geografic exact al Republicii Ghana.",
+        "Este renumit turistic datorită impresionantelor Cascade Kintampo.",
+        "Complexul Kintampo este unul dintre cele mai importante situri arheologice neolitice.",
+        "Orașul activează ca un portal central de intrare către nordul savanei.",
+        "Maimuțele sălbatice trăiesc adesea la marginea parcurilor din localitate.",
+        "Comerțul cu piese auto uzate are un centru major de desfacere aici."
+      ]
+    },
+    {
+      "id": "aflao-cities-v2",
+      "descriptionAdvanced": "Aflao nu doarme niciodată, fiind punctul nervos principal de la frontiera de sud-est cu țara vecină, Togo. Este tranzitat zilnic de zeci de mii de comercianți cu bagaje uriașe, călători transnaționali și camioane încărcate. Economia de frontieră domină peisajul cu standuri de schimb valutar neoficial și tarabe care vând o gamă uluitoare de produse, de la sare locală până la electronice. Aflao beneficiază de proximitatea oceanului și funcționează ca un creuzet al limbilor Ewe, franceze și engleze. Economie K7 — economie de graniță.",
+      "factsAdvanced": [
+        "Este situat exact la granița estică dintre Ghana și capitala togoleză, Lomé.",
+        "Cea mai aglomerată trecere frontalieră terestră din țară este aici.",
+        "Economia sa subterană bazată pe francul CFA are dimensiuni enorme.",
+        "Limba franceză este recunoscută și vorbită pe scară largă în mod informal.",
+        "Baza militară și vamală ghaneză reprezintă cel mai mare angajator.",
+        "Orașul are o populație extrem de mobilă, dificil de numărat oficial."
+      ]
+    },
+    {
+      "id": "nkoranza-cities-v2",
+      "descriptionAdvanced": "Nkoranza se află în Regiunea Bono East și este renumit în țară datorită inovațiilor sale timpurii. Înainte de introducerea planului național modern, locuitorii de aici și-au creat propria schemă de asigurare de sănătate, devenind modelul pentru restul țării. În centrul său, Nkoranza deține ferme spectaculoase de semințe de pepene, porumb și păsări. Turistic, așezarea se bazează pe Sanctuarul de Maimuțe Boabeng-Fiema din apropiere, unde primatele se plimbă libere, protejate de credințe religioase stricte. Societate K8 — inițiative comunitare.",
+      "factsAdvanced": [
+        "A fost prima comunitate din Ghana care a creat o schemă de sănătate mutuală.",
+        "Oferă un acces facil către Sanctuarul celebru de Maimuțe Boabeng-Fiema.",
+        "Zona este considerată sfântă pentru conviețuirea armonioasă cu maimuțele.",
+        "Populația aparține majoritar subgrupului cultural Akan numit Bono.",
+        "Se bazează masiv pe sectorul de cultivare a porumbului la scară mică.",
+        "Există situri antice ale comunității care demonstrează arhitectura circulară veche."
+      ]
+    },
+    {
+      "id": "oduponkpehe-cities-v2",
+      "descriptionAdvanced": "Oduponkpehe este un nume profund ancorat în istorie care se suprapune cu inima modernă și haotică a urbei Kasoa. Ca nucleu spiritual, acesta se concentrează în jurul pieței Oduponkpehe Market, un teren de tranzacții vibrante care unifică triburile Ga și fermierii vecini. Sătenii de aici aduc de decenii bunuri de la poalele dealurilor pentru a le vinde locuitorilor metropolei. Denumirea oficială servește ca un avertisment că orașul își menține independența culturală, în ciuda faptului că e asimilat de Marea Accra. Istorie K6 — tranziția denumirilor urbane.",
+      "factsAdvanced": [
+        "Reprezintă denumirea istorică tradițională pentru așezarea Kasoa.",
+        "Centrul acestuia funcționează ca o uriașă piață informală de alimente.",
+        "Zona a fuzionat rapid administrativ din cauza densității navetiștilor.",
+        "Sunt prezente tabere considerabile dedicate procesării fierului vechi.",
+        "Consiliul său tradițional local continuă să reglementeze viața culturală.",
+        "Rata sa rapidă de extindere ridică provocări imense de infrastructură sanitară."
+      ]
+    },
+    {
+      "id": "saltpond-cities-v2",
+      "descriptionAdvanced": "Saltpond poartă cicatricele onorabile ale unei vechi colonii britanice, așezată discret pe coasta Regiunii Centrale. Denumirea provine din zonele extinse unde se cristaliza sarea marină, resursă odată mai prețioasă ca aurul. Ceea ce distinge orașul este rolul său titanic în obținerea independenței Ghanei: acesta a fost locul în care, în 1947, a luat naștere primul partid politic veritabil care milita pentru autoguvernare (UGCC). Zidurile sale de pe faleză, acum grav erodate, depun mărturie despre deceniile de glorie apusă. Istorie K8 — mișcări de independență.",
+      "factsAdvanced": [
+        "A fost locul nașterii primului partid independentist major, UGCC, în 1947.",
+        "Extragerea sării a constituit ocupația comercială antică predominantă a locuitorilor.",
+        "Găzduiește platforme vechi petroliere în largul mării, abandonate astăzi.",
+        "O componentă mare a peisajului este presărată cu conace coloniale decăzute.",
+        "Festivalul său Okyir este esențial pentru menținerea legăturilor sociale.",
+        "Declinele recente ale industriei au condus la emigrarea masivă a tinerilor."
+      ]
+    },
+    {
+      "id": "akwatia-cities-v2",
+      "descriptionAdvanced": "Akwatia a fost mult timp echivalent cu un cuvânt magic în Ghana: diamante. Situat ferm în Regiunea de Est, subsolul său argilos a fost răscolit decenii la rând de operațiuni masive de extragere a diamantelor. Astăzi, deși marile campanii miniere s-au estompat, moștenirea minerală este evidentă în casele vechi destinate lucrătorilor și utilajele ruginite abandonate în peisaj. Mineritul informal de diamante sprijină încă visul multor tineri ce continuă să caute pe albia râului Birim. Economie K7 — orașe mono-industriale.",
+      "factsAdvanced": [
+        "Mina de diamante de aici a dominat istoric piața din Africa de Vest.",
+        "Orașul este poziționat strategic pe bazinul fluviului Birim.",
+        "Decăderea companiei miniere GCD a transformat orașul în anii 1990.",
+        "Astăzi mii de lucrători recurg la prospectarea manuală după diamante libere.",
+        "Populația menține o viață destul de rurală, îmbinând agricultura de subzistență.",
+        "Zona a atras lucrători migranți diversificați din statele francofone nordice."
+      ]
+    },
+    {
+      "id": "apam-cities-v2",
+      "descriptionAdvanced": "Apam este un oraș pescăresc de un farmec neșlefuit din Regiunea Centrală, protejat simbolic de Fortul Patience, o fortăreață olandeză ridicată pe o stâncă masivă în anul 1697. Localitatea este un labirint stâncos în care scările înlocuiesc adesea străzile, iar zgomotul constant al valurilor atlantice definește ritmul zilnic. Activitatea economică începe pe țărm dis de dimineață, odată cu întoarcerea vaselor cioplite din lemn, încărcate de pește ce este ulterior afumat manual. Geografie K6 — economii de coastă.",
+      "factsAdvanced": [
+        "Așezarea este străjuită de Fortul Patience (Fortul Răbdării) construit în anul 1697.",
+        "Este reședința șefilor tradiționali ai poporului Gomoa Akyempim.",
+        "Flota de pescuit artizanal asigură pește pentru întreg centrul țării.",
+        "Topografia deluroasă a împiedicat extinderea infrastructurii vehiculelor grele.",
+        "Afumarea și conservarea peștelui oferă locuri de muncă sigure femeilor din comunitate.",
+        "Este expus la niveluri mari de eroziune marină datorată încălzirii globale."
+      ]
+    },
+    {
+      "id": "salaga-cities-v2",
+      "descriptionAdvanced": "Salaga oferă o fereastră tăcută, dar covârșitoare, către ororile și bogăția rutei comerciale trans-sahariene. Situată în Regiunea de Nord, urbea a funcționat drept cea mai prolifică piață de sclavi a secolului al XVIII-lea, unde caravanele aduceau cai și mătăsuri la schimb. Ruinele pieței de sclavi și baia antică (unde captivii erau spălați) oferă o experiență sumbră, dar educativă. Deși astazi e doar un orășel dominat de agricultură și praf, prezența sa istorică este esențială. Istorie K8 — comerțul arab și rutele sahariene.",
+      "factsAdvanced": [
+        "A fost inima comerțului cu sclavi, vite și nuci de kola în secolele XVIII-XIX.",
+        "Așezarea este adesea denumită Timbuktu-ul zonei de sud.",
+        "Încă deține baia ceremonială antică și fântânile pieței de sclavi.",
+        "În trecut a fost complet dominată de negustorii Hausa, Zongo și Dagomba.",
+        "Agricultura se bazează pe porumb și procesarea boabelor mici.",
+        "A rămas un centru important pentru cercetarea patrimoniului Africii de Vest."
+      ]
+    }
+  ]
+}

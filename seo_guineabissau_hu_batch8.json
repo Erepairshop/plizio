@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uno-island-nature-v2",
+      "descriptionAdvanced": "Uno szigete a Bijagós-szigetcsoport egyik legérintetlenebb természeti kincse. A sziget arculatát a kiterjedt iszapos árapálysíkságok és a sűrű, sötétzöld mangrove-erdők dominálják. Az elszigeteltség és az animista hagyományok szigorú tabujai miatt Uno szigetén a természet jórészt megőrizte ősi állapotát. A tengerpartok mentén kialakuló sekély lagúnákban gyakran lehet látni táplálkozó flamingókat, pelikánokat és más gázlómadarakat. Bár a turizmus minimális, az ökológiai kutatók számára a sziget felbecsülhetetlen értékű, különösen a halak ívóhelyeinek és a tengeri emlősök viselkedésének tanulmányozásában. Környezetismeret K7 — szigeti tabuk és természetvédelem.",
+      "factsAdvanced": [
+        "Érintetlen ökológiájú sziget a Bijagós-szigetcsoport szívében.",
+        "A helyi animista tabuk (szent erdők) megakadályozzák az erdőirtást.",
+        "Hatalmas árapálysíkságok és sűrű mangrove-hálózat veszi körül.",
+        "Kiemelt jelentőségű a gázlómadarak és pelikánok táplálkozása szempontjából.",
+        "Turisztikai infrastruktúra szinte egyáltalán nincs a szigeten.",
+        "Kiváló helyszín a trópusi tengerbiológiai kutatások számára."
+      ]
+    },
+    {
+      "id": "canhabaque-island-nature-v2",
+      "descriptionAdvanced": "Canhabaque szigete a Bijagós-archipelágus egyik legmagasabban fekvő és legvulkanikusabb eredetű szigete. A többi, nagyrészt lapos szigettől eltérően itt sziklásabb partszakaszok is találhatók. Belső területeit buja, pálmákkal és baobab fákkal borított szavanna uralja. A sziget kiemelt szerepet játszik a bijagó kultúrában, mivel a legtöbb hagyományos beavatási szertartás (fanado) erdője itt található. Ezek a szent erdők egyben a biodiverzitás szigetei is, ahol a fakitermelés szigorúan tilos. Canhabaque az egyensúly tökéletes példája az emberi jelenlét (főként halászat) és a természet megóvása között. Biológia K6 — szent erdők ökológiája.",
+      "factsAdvanced": [
+        "A Bijagós-szigetek viszonylatában magasabban fekvő, dombosabb sziget.",
+        "Belsejében pálmafákkal tarkított trópusi szavanna található.",
+        "A sziget erdeinek nagy része szent (tabu) terület, ahol tilos a vadászat és favágás.",
+        "A hagyományos bijagó beavatási rítusok (fanado) központi helyszíne.",
+        "Sziklásabb partszakaszai eltérnek az archipelágus iszapos partjaitól.",
+        "Gazdag madárvilággal és kisméretű hüllőpopulációval büszkélkedhet."
+      ]
+    },
+    {
+      "id": "caravela-island-nature-v2",
+      "descriptionAdvanced": "Caravela a Bijagós-szigetcsoport északi vonulatának egyik legnagyobb szigete. Hírnevét elsősorban lenyűgöző, hosszan elnyúló fehér homokos tengerpartjainak köszönheti, amelyek drasztikus árapály-jelenségnek vannak kitéve. Apály idején a tenger több kilométert is visszahúzódik, hatalmas, tükörsima homok- és iszapmezőket hagyva hátra, amelyeken madarak ezrei lakmároznak a hátramaradt rákokból. A tengerpart mögött sűrű pálmaerdők húzódnak. A környező mélyebb vizek az ország legkiválóbb sporthorgász-területei közé tartoznak, ahol hatalmas tarponok és barrakudák élnek. Földrajz K7 — árapály-jelenségek a trópusokon.",
+      "factsAdvanced": [
+        "A szigetcsoport északi részén fekvő, hatalmas kiterjedésű sziget.",
+        "Különleges, sekély lejtésű tengerpartjai extrém árapály-ingadozást mutatnak.",
+        "Apálykor kilométeres nagyságú homok- és iszappadok kerülnek felszínre.",
+        "A madárvilág számára fontos táplálkozóhely a visszahúzódó tenger után.",
+        "A mélyebb vizek a nemzetközi sporthorgászat (pl. tarpon) paradicsomai.",
+        "A part menti övezetet sűrű pálmaerdők szegélyezik."
+      ]
+    },
+    {
+      "id": "carache-island-nature-v2",
+      "descriptionAdvanced": "Carache szigete Caravela közvetlen szomszédja az északi Bijagós-vonulatban. A szigetet finom homokos strandok, eldugott lagúnák és sűrű belső szavannák mozaikja alkotja. Mivel az emberi beavatkozás minimális, Carache a vadvilág zavartalan menedéke. A sekély parti vizekben gyakori vendégek a palackorrú delfinek, amelyek gyakran követik a helyi halászok kis fakenuijait. A sziget belsejében található őshonos erdőkben számos trópusi fafaj, köztük a hatalmas kapokfák (pamutfák) is megtalálhatók. A turizmus itt szinte ismeretlen, így a sziget megőrizte nyers, érintetlen trópusi karakterét. Biológia K6 — érintetlen szigeti ökoszisztémák.",
+      "factsAdvanced": [
+        "Caravela szigetének északi szomszédja a Bijagós-szigetvilágban.",
+        "Mozaikos táj jellemzi: homokos partok, lagúnák és belső szavanna.",
+        "A parti sekély vizekben gyakori a palackorrú delfinek jelenléte.",
+        "Őshonos erdőiben hatalmas kapokfák (pamutfák) magasodnak.",
+        "Emberi beavatkozástól és tömegturizmustól szinte teljesen mentes.",
+        "Nyugodt, érintetlen trópusi menedék a vadvilág számára."
+      ]
+    },
+    {
+      "id": "varela-coast-nature-v2",
+      "descriptionAdvanced": "Varela partvidéke geológiai és ökológiai anomália Bissau-Guinea partjain. Míg az ország partvonalának 90%-át iszapos mangrove mocsarak alkotják, Varela északnyugaton széles, aranyhomokos tengerparttal büszkélkedhet, amelyet viharvert casuarina (ausztrál fenyő) erdők szegélyeznek. A folyamatos óceáni hullámzás és az erős szelek drasztikus parti eróziót okoznak, a homokos sziklafalak folyamatosan omlanak a tengerbe. Ez a vad, sós permettel telített környezet lenyűgöző kontrasztot nyújt az ország belső, fojtogatóan párás dzsungeleivel szemben. Varela partjainál a tengeri teknősök is gyakran raknak fészket az elhagyatott dűnék között. Földrajz K8 — tengerparti erózió és dűnék.",
+      "factsAdvanced": [
+        "Kivételes, mangrove nélküli homokos partszakasz az északnyugati határon.",
+        "A partot szélfútta casuarina (ausztrál fenyő) fák szegélyezik.",
+        "A területen drasztikus, folyamatos tengerparti erózió figyelhető meg.",
+        "Éles klíma- és tájképi kontraszt az ország mocsaras torkolataival.",
+        "A hullámzás itt sokkal erősebb az óceán nyílt közelsége miatt.",
+        "A csendesebb dűnék között tengeri teknősök fészkelőhelyei is megtalálhatók."
+      ]
+    },
+    {
+      "id": "rio-grande-de-buba-nature-v2",
+      "descriptionAdvanced": "A Rio Grande de Buba Bissau-Guinea egyik legimpozánsabb folyója, amely valójában egy hatalmas, tengeri vízzel feltöltött ria (tölcsértorkolat), ami több mint 50 kilométerre nyúlik be a szárazföld belsejébe, Buba városáig. A folyó rendkívül mély, vizét a tengeri árapály mozgatja; valódi édesvizű forrása alig van. Két partját a világ egyik legsűrűbb mangrove-erdeje borítja. A folyó vize tápanyagban rendkívül gazdag, így a tengeri halak legfőbb ívóhelyeként szolgál a régióban. A nyugodt, védett vizek emellett a veszélyeztetett afrikai manátuszok (tengeri tehenek) egyik legbiztonságosabb menedékei. Földrajz K8 — ria-partok és torkolatok.",
+      "factsAdvanced": [
+        "Egy hatalmas, több mint 50 km hosszú tengeri tölcsértorkolat (ria).",
+        "Vizét szinte kizárólag az óceáni árapály mozgatja, édesvízi utánpótlása minimális.",
+        "Partjait áthatolhatatlanul sűrű mangrove-erdők védik.",
+        "Nyugat-Afrika egyik legfontosabb ívóhelye a nyíltvízi halfajok számára.",
+        "Sekély öblei a veszélyeztetett manátuszoknak adnak otthont.",
+        "Mélysége miatt a folyó sokáig fontos gyarmati hajózási útvonal volt."
+      ]
+    },
+    {
+      "id": "joao-vieira-islands-nature-v2",
+      "descriptionAdvanced": "A João Vieira szigetek (amely magában foglalja Meió, Cavalos és João Vieira szigeteit) a Bijagós-szigetcsoport déli részén egy egyedülálló, zárt ökoszisztémát alkotnak. A szigetek vulkáni sziklák, homokpadok és sűrű trópusi erdők mozaikjai. Ez a terület a róla elnevezett Tengeri Nemzeti Park magja. Az emberi jelenlét szinte teljesen hiányzik, ami lehetővé teszi, hogy az európai vándormadarak — mint a halászsasok és a különféle gázlómadarak — háborítatlanul teleljenek át itt. A környező sekély, kristálytiszta vizek korallzátony-szerű életközösségeknek adnak otthont, ahol ráják és színes trópusi halak sokasága él. Biológia K7 — tengeri madárrezervátumok.",
+      "factsAdvanced": [
+        "Egy apró szigetekből (Meió, Cavalos, João Vieira) álló védett láncolat.",
+        "A João Vieira és Poilão Tengeri Nemzeti Park központi övezete.",
+        "Emberi zavarástól mentes, ideális menedék a vonuló madarak számára.",
+        "Trópusi erdők, sziklák és homokos padok alkotják a felszínét.",
+        "A környező vizekben gazdag rája- és trópusi halpopuláció él.",
+        "Az ökoturizmus szigorúan szabályozott, csak engedéllyel látogatható."
+      ]
+    },
+    {
+      "id": "galinhas-island-nature-v2",
+      "descriptionAdvanced": "A Tyúk-sziget (Ilha das Galinhas) egy festői, könnyen megközelíthető sziget Bissau és Bolama között. Bár a múltban portugál politikai börtönként használták — aminek sötét, omladozó falai ma is állnak a dzsungelben —, természeti szempontból egy valóságos édenkert. A sziget klímája és talaja rendkívül termékeny, hatalmas baobab (majomkenyérfa) és kapokfák emelkednek a magasba, miközben a talajt sűrű, ehető vadnövényzet borítja. A sziget nevét a gyarmatosítóktól kapta, akik nagy számban tenyésztettek itt baromfit. Ma a csendes partokon az ökoturizmus első jelei mutatkoznak, apró vendégházakkal. Földrajz K6 — szigeti biodiverzitás.",
+      "factsAdvanced": [
+        "A Bissau és Bolama közötti csatornában fekvő, könnyen elérhető sziget.",
+        "Történelmileg hírhedt portugál politikai börtön működött itt.",
+        "Rendkívül termékeny talaj, hatalmas baobab és kapokfákkal.",
+        "A romokat mára szinte teljesen visszafoglalta a sűrű trópusi erdő.",
+        "Nevét a korai portugálok által betelepített tyúkokról kapta.",
+        "Lassan fejlődő ökoturisztikai célpont csendes, homokos partokkal."
+      ]
+    },
+    {
+      "id": "soga-island-nature-v2",
+      "descriptionAdvanced": "Soga egy parányi, de annál lenyűgözőbb sziget a Bijagós-szigetcsoportban, Bubaque közvetlen szomszédságában. Soga nagy része lakatlan és a helyi animista hagyományok (tabuk) által szigorúan védett 'szent erdőkből' (matas sagradas) áll. Ezekbe az erdőkbe tilos a belépés és a fakitermelés, így Soga őrzi a régió egyik legérintetlenebb elsődleges erdő-ökoszisztémáját. Az árapály idején a szigetet körülvevő mangrovék és sárpadok rákok és kagylók millióit teszik láthatóvá. A sziget misztikus aurája és a zavartalan csend tökéletes menedéket nyújt a helyi majom- és madárfajoknak. Biológia K7 — szent erdők védelme.",
+      "factsAdvanced": [
+        "Apró sziget Bubaque szomszédságában a Bijagós-szigetvilágban.",
+        "Területének nagy része a helyi hagyományok szerinti 'szent erdő' (tabu).",
+        "A szigorú animista tiltások megóvták az elsődleges erdőt a pusztulástól.",
+        "Fakitermelés és vadászat az erdők nagy részén szigorúan tilos.",
+        "Az árapály során felszínre kerülő iszapmezők gazdagok tengeri életben.",
+        "Háborítatlan menedéket nyújt majmoknak és különböző trópusi madaraknak."
+      ]
+    },
+    {
+      "id": "cacheu-mangroves-nature-v2",
+      "descriptionAdvanced": "A Cacheu-folyó mangrovéi (Tarrafes do Rio Cacheu) Nyugat-Afrika egyik legnagyobb egybefüggő, 88 000 hektáros mangrove-erdejét alkotják. A terület a sós óceán és a belföldi édesvíz találkozási pontja, egy áthatolhatatlan zöld fal, amely a gyökerek bonyolult szövevényéből áll. Ez az ökoszisztéma az óceán tüdeje és bölcsődéje: a part menti halfajok több mint 60%-a itt szaporodik. Emellett a mangrove megvédi a partvonalat a tengeri eróziótól és a vihardagályoktól. A parkban több ezer flamingó, pelikán és kormorán fészkel. Az ökológiai csoda azonban állandó nyomás alatt áll az illegális rizstermő területek kialakítása (bolanha) és a faszénégetés miatt. Biológia K8 — mangrove-ökoszisztémák jelentősége.",
+      "factsAdvanced": [
+        "Nyugat-Afrika legnagyobb egybefüggő mangrove-erdeje (88 ezer hektár).",
+        "Kritikus 'bölcsőde' az Atlanti-óceán hal- és rákfajai számára.",
+        "Megvédi a partvonalat a tengeri eróziótól és az erős viharoktól.",
+        "Ezrével fészkelnek itt flamingók, pelikánok és más vízimadarak.",
+        "A mangrove-fák sűrű léggyökerei oxigénhez juttatják a növényt az iszapban.",
+        "Komoly fenyegetést jelent rá az illegális faszénégetés és rizstermesztés."
+      ]
+    },
+    {
+      "id": "corubal-basin-relief-v2",
+      "descriptionAdvanced": "A Corubal-medence Bissau-Guinea legjelentősebb domborzati és vízrajzi képződménye, amely az ország keleti és déli felét határozza meg. A medence a Fouta Djallon fennsík lejtőiről (Guinea) indul, és mély, néhol sziklás folyóvölgyeket vág a szavannai síkságokba. A folyó eróziós munkája olyan látványosságokat hozott létre, mint a Saltinho-vízesés, ahol a víz hatalmas gránit- és lateritsziklákon bukik alá. A medence alsó szakasza kiszélesedik, lassan kanyargó ártereket hozva létre, amelyek a monszun idején hatalmas területeket öntenek el, hordalékkal gazdagítva a mezőgazdasági talajt. A medence jelentős hidroelektromos potenciállal (pl. a tervezett Saltinho-gát) is bír. Földrajz K8 — vízgyűjtő medencék és folyóerózió.",
+      "factsAdvanced": [
+        "Az ország legfontosabb folyóvölgye, amely a Fouta Djallon fennsíkról indul.",
+        "Laterit és gránit kőzeteken áttörve sziklás zuhatagokat, pl. a Saltinho-vízesést alkotja.",
+        "Az alsó szakaszon kiterjedt, tápanyagban gazdag ártereket hoz létre.",
+        "A folyó eróziós tevékenysége jelentősen alakítja a keleti régiók domborzatát.",
+        "A monszun idején az áradások hatalmas területeket borítanak el.",
+        "Kiemelkedő vízenergia-potenciállal (tervezett gátépítések) rendelkezik."
+      ]
+    },
+    {
+      "id": "mansoa-mangroves-relief-v2",
+      "descriptionAdvanced": "A Mansôa-folyó torkolatvidékének domborzatát az extrém árapály-erők és a kiterjedt iszapos mangrove-mocsarak határozzák meg. A terület szinte teljesen sík, tengerszint feletti magassága alig pár méter. Apálykor hatalmas sárpadok kerülnek a felszínre, míg dagálykor az óceán mélyen behatol a szárazföldbe, sós vízzel elárasztva a folyómedret. Ez a lapos, agyagos-iszapos domborzat tette lehetővé a helyi balanta gazdák számára, hogy bonyolult földgátak építésével (bolanha) területeket hódítsanak el a mocsártól rizstermesztés céljából. A partvonal folyamatosan változik a tenger építő és romboló munkája miatt. Földrajz K7 — árapálysíkságok domborzata.",
+      "factsAdvanced": [
+        "A tengerszinthez közeli, extrém sík árapály-torkolatvidék.",
+        "A domborzatot az óceán napi kétszeri árapálymozgása formálja.",
+        "Apálykor kilométeres nagyságú iszap- és sárpadok kerülnek szárazra.",
+        "A lapos felszín tette lehetővé az ártéri rizstermesztés gátrendszereinek kiépítését.",
+        "Nincsenek jelentős kiemelkedések, a tájat a mangrove-gyökérzet stabilizálja.",
+        "A folyómeder iszaplerakódása folyamatosan változtatja a navigációs útvonalakat."
+      ]
+    },
+    {
+      "id": "rio-grande-relief-v2",
+      "descriptionAdvanced": "A Rio Grande de Buba torkolatának domborzata geológiai értelemben egy tipikus ria (tenger által elárasztott folyóvölgy). Ahelyett, hogy a folyó hordalékából delta épülne, a tenger behatolt a mély völgybe, széles és mély öblöt hozva létre, amely több mint 50 km hosszan nyúlik Bissau-Guinea szárazföldjébe. A partokat meredekebb iszapos partfalak és sűrű mangrovék szegélyezik. A meder mélysége helyenként a 30 métert is eléri, ami kiváló természetes kikötőhelyeket biztosít. A szárazföld belseje felé a torkolat hirtelen szűkül, és a domborzat enyhén emelkedni kezd a Quinara-dombság irányába. Földrajz K8 — ria típusú torkolatok formakincse.",
+      "factsAdvanced": [
+        "Típusos ria (tenger által elárasztott ősi folyóvölgy) domborzati forma.",
+        "Több mint 50 kilométer mélyen vág be a kontinentális szárazföldbe.",
+        "A meder rendkívül mély, helyenként eléri a 30 méteres vízmélységet.",
+        "Nem rendelkezik hordalékkúppal (deltával) a folyami édesvíz hiánya miatt.",
+        "Partvonalát meredek iszappadok és sűrű mangrove-falak határolják.",
+        "A szárazföld felé haladva a partvonal fokozatosan emelkedik a Quinara-dombság felé."
+      ]
+    },
+    {
+      "id": "bolama-palm-forest-relief-v2",
+      "descriptionAdvanced": "Bolama szigetének domborzata a Bijagós-szigetcsoport többi tagjához hasonlóan alacsonyan fekvő, de felszínét enyhe hullámzás jellemzi, amely lehetővé tette a kiterjedt olajpálma-erdők és a történelmi ültetvények kialakulását. A sziget legmagasabb pontja is alig haladja meg a 20 métert. A pálmaerdők alatti talaj vastag, termékeny trópusi vörösföld (laterit), amely a csapadékos klímával párosulva buja növényzetet tart fenn. A sziget partvonalát helyenként lágy, homokos öblök, máshol pedig az óceán által alámosott alacsony, vöröses sziklafalak tagolják, amelyeken a pálmafák gyökerei a semmibe kapaszkodnak. Földrajz K6 — szigeti síkságok talajképződése.",
+      "factsAdvanced": [
+        "Alacsonyan fekvő, enyhén hullámos felszínű szigeti domborzat.",
+        "A legmagasabb pontja sem haladja meg a 20-30 méteres magasságot.",
+        "Felszínét vastag, termékeny trópusi vörös talaj (laterit) borítja.",
+        "A sziget peremén az óceáni erózió alacsony, vöröses sziklafalakat alakított ki.",
+        "A sík domborzat kedvezett a történelmi kávé- és pálmaültetvények telepítésének.",
+        "A partvonalat apró, mangrove-mentes homokos öblök tagolják."
+      ]
+    },
+    {
+      "id": "quinara-hills-relief-v2",
+      "descriptionAdvanced": "A Quinara-régió domborzata enyhe átmenetet képez a partmenti árapálysíkságok és a belső kontinentális fennsíkok között. Bár valódi hegyek nincsenek, a tájat alacsony (50-100 méter magas), fákkal borított laterit dombok és sekély völgyek sűrű hálózata tagolja. Ezek a dombok fontos vízválasztók: a völgyekben összegyűlő esővíz táplálja a régió édesvízi tavait, mint amilyen a híres Cufada-tó. A dombok talaja gyakran kemény, vasban gazdag lateritkéreg, amely a száraz évszakban vöröses porrá válik. A dombhátakon elsősorban szavannai növényzet él, míg a nedvesebb völgyekben sűrű galériaerdők burjánzanak. Földrajz K7 — laterit dombvidékek.",
+      "factsAdvanced": [
+        "A partvidék és a belső fennsíkok közötti lankás, dombos átmeneti zóna.",
+        "Átlagos magassága 50 és 100 méter között váltakozik.",
+        "Felszínét kemény, vasban és alumíniumban gazdag lateritkéreg borítja.",
+        "A dombok közötti völgyek fontos vízgyűjtők a helyi édesvízi tavak (pl. Cufada) számára.",
+        "Éles kontraszt a dombhátak szavannája és a völgyek sűrű erdőségei között.",
+        "A vörös laterittalaj a száraz évszakban jellegzetes finom porrá őrlődik."
+      ]
+    },
+    {
+      "id": "gabu-plateau-relief-v2",
+      "descriptionAdvanced": "A Gabú-fennsík (Planalto de Gabú) Bissau-Guinea legkiterjedtebb és legmagasabban fekvő síksága az ország keleti részén. A domborzat egyhangú, szinte teljesen sík, szavannával borított asztalföld, amely fokozatosan emelkedik a szenegáli és guineai határ felé. A fennsíkot mély, meredek falú folyóvölgyek vágják át, amelyek a száraz évszakban teljesen kiszáradhatnak, de a monszun idején sebes áradatokká válnak. A talaj agyagos és homokos, tápanyagban szegényebb, mint a partvidéken, ezért itt a szárazságtűrőbb növények (köles, cirok) és a nomád pásztorkodás dominál. Az egyhangú tájat néhol hatalmas, magányos baobab fák vagy termeszvárak törik meg. Földrajz K7 — szavannai asztalföldek.",
+      "factsAdvanced": [
+        "Az ország keleti felét uraló, egyhangú, szinte teljesen sík szavannai asztalföld.",
+        "Magassága fokozatosan nő a keleti, guineai határok felé haladva.",
+        "A síkságot a száraz évszakban kiszáradó mély folyóvölgyek ('wadi') tagolják.",
+        "Talaja homokos-agyagos, tápanyagban szegényebb a tengerparti zónánál.",
+        "A sík domborzat ideális az extenzív, nomád szarvasmarha-pásztorkodáshoz.",
+        "A tájképet gyakran több méter magas, kőkemény termeszvárak törik meg."
+      ]
+    },
+    {
+      "id": "tombali-rainforest-relief-v2",
+      "descriptionAdvanced": "A Tombali-régió déli részének domborzata alacsony fekvésű, ám rendkívül egyenetlen és sűrűn tagolt. Ezt a vidéket az ország legtöbb csapadéka éri, ami intenzív felszíni eróziót okozott: apró dombocskák, mély vízmosások és kanyargós patakmedrek hálózata alakult ki. Ezt a tagolt felszínt borítja be az ország utolsó trópusi esőerdeje (pl. Cantanhez). A mocsaras völgyekben (ahol a talajvízszint szinte a felszínen van) és az alacsony, erdős dombhátakon a páratartalom fojtogató. Az utak az agyagos, csúszós és meredek vízmosások miatt az esős évszakban szinte járhatatlanok, elszigetelve a helyi falvakat a külvilágtól. Földrajz K8 — csapadék okozta felszíni erózió.",
+      "factsAdvanced": [
+        "Alacsony, de vízmosásokkal és patakokkal rendkívül sűrűn tagolt domborzat.",
+        "Az ország legcsapadékosabb területe, ami extrém felszíni eróziót okoz.",
+        "A mélyebb völgyekben a talajvízszint szinte folyamatosan a felszínen van.",
+        "A tagolt felszínt sűrű trópusi esőerdő (pl. Cantanhez Nemzeti Park) borítja.",
+        "A meredek, agyagos vízmosások esős évszakban járhatatlanná teszik az utakat.",
+        "A mikrodomborzat búvóhelyet és változatos életteret nyújt a vadvilágnak."
+      ]
+    },
+    {
+      "id": "cacheu-plain-relief-v2",
+      "descriptionAdvanced": "A Cacheu-síkság az ország északi részén elterülő, egyhangúan lapos, üledékes terület, amelyet északon Szenegál, délen pedig a Cacheu-folyó határol. A domborzat annyira sík, hogy a folyók folyása rendkívül lassú, medrük sekély és kanyargós (meanderező). Az esős évszakban a vízelvezetés hiánya miatt a síkság nagy része kiterjedt mocsárrá és sekély tavakká változik, ami kedvez a szúnyogok szaporodásának, de kiváló a rizstermesztéshez. A száraz évszak beköszöntével a homokos felső talajréteg gyorsan kiszárad, és a szél porviharokat kavar. Ez a síkság a kesudió-ültetvények legfőbb nemzeti területe. Földrajz K6 — üledékes síkságok és meanderezés.",
+      "factsAdvanced": [
+        "Tökéletesen sík, fiatal üledékes kőzetekből álló alföld az északi országrészben.",
+        "A lejtés hiánya miatt a folyók (pl. Rio Cacheu) rendkívül lassan, kanyarogva folynak.",
+        "A rossz természetes vízelvezetés miatt esős évszakban kiterjedt sekély mocsarak alakulnak ki.",
+        "A talaj felső rétege homokos, ami a száraz évszakban könnyen kiszárad.",
+        "A sík domborzat ideális a hatalmas, monokultúrás kesudió-ültetvények számára.",
+        "Jelentős természeti akadály (hegy, domb) nincs a szenegáli határig."
+      ]
+    },
+    {
+      "id": "bubaque-coastal-relief-v2",
+      "descriptionAdvanced": "Bubaque partvidékének domborzata a tengeri erózió és az üledékfelhalmozódás tankönyvbe illő példája. A sziget nyugati és keleti partjai drasztikusan különböznek. Keleten a hullámzás finom homokot halmozott fel, kialakítva az ország legszebb lankás, fehér strandjait (pl. Praia de Bruce). Nyugaton és délen, ahol az áramlatok gyengébbek, az iszap rakódik le, kiterjedt, lapos árapálysíkságokat hozva létre, amelyeket azonnal meghódít a mangrove. A sziget peremén néhol méteres, vörös lateritsziklák (faléziák) magasodnak a tenger fölé, amelyeket az óceán hullámai lassan, de biztosan alámosnak és bontanak. Földrajz K8 — tengeri partformálás és erózió.",
+      "factsAdvanced": [
+        "Kettős partvonal: keleten homokos akkumulációs part, nyugaton iszapos mangrove.",
+        "Az áramlatok és a hullámzás lankás, széles fehér homokos strandokat építenek.",
+        "A védett öblökben az iszaplerakódás kilométeres árapálysíkságokat alkot.",
+        "A part mentén néhol alacsony, vörös laterit sziklafalak (faléziák) omlanak a tengerbe.",
+        "A partvonal alakja folyamatosan változik a tenger építő-romboló munkája miatt.",
+        "Az iszapos domborzat ideális rák- és kagylógyűjtő helyszín apálykor."
+      ]
+    },
+    {
+      "id": "rubane-forest-relief-v2",
+      "descriptionAdvanced": "Rubane szigetének belső domborzata csendes, lankás, amely alig emelkedik pár méterrel a tengerszint fölé. A felszínt egy ősi, megszilárdult homokdűne-rendszer maradványai alkotják, amelyet mára sűrű trópusi pálma- és kapokfaerdő kötött meg. A domborzat egyenletessége és az erdő sűrűsége megvédi a sziget belsejét a tengeri sós szelektől, egy kellemes, párás mikroklímát hozva létre. A sziget partjainál a sekély, homokos lejtők lassan mélyülnek a csatorna vizébe, nincsenek hirtelen letörések vagy sziklás peremek. Ez a békés, lankás erdei domborzat teszi Rubanét az exkluzív ökoturizmus ideális, érintetlen helyszínévé. Földrajz K6 — megkötött dűnerendszerek.",
+      "factsAdvanced": [
+        "A sziget felszínét egy ősi, mára teljesen növényzettel megkötött dűnerendszer alkotja.",
+        "A domborzat rendkívül lankás, nincsenek sziklafalak vagy éles letörések.",
+        "A sziget belseje alig néhány méterrel emelkedik a tengerszint fölé.",
+        "A homokos talajt sűrű, magas kapokfa- és pálmaerdő gyökérzete stabilizálja.",
+        "A partvonal lassan, sekélyen mélyül az óceán vizébe.",
+        "Az egyenletes domborzat védi a belső területeket a sós óceáni szelektől."
+      ]
+    }
+  ]
+}

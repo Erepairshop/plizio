@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "centralafricanrepublic",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLifeV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicNatureV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sultanat-senoussi-history-v2",
+      "descriptionAdvanced": "Das Sultanat Senoussi war eine bedeutende politische Einheit im Norden der Zentralafrikanischen Republik, die im 19. Jahrhundert eine Schlüsselrolle bei der Kontrolle über Handelswege in der Region spielte. Als Teil der islamischen Sultanate, die den transsaharischen Handel beeinflussten, hinterließ es Spuren in der kulturellen Identität der dort lebenden Gemeinschaften. Die Geschichte des Sultanats ist eng mit den lokalen Machtverhältnissen und dem Widerstand gegen koloniale Expansion verknüpft. Geschichte K8 – Sultanate und regionale Macht.",
+      "factsAdvanced": [
+        "Wichtige politische Einheit im 19. Jahrhundert.",
+        "Kontrolle über regionale Handelswege.",
+        "Teil der islamischen Sultanatsgeschichte.",
+        "Einfluss auf die kulturelle Identität im Norden.",
+        "Historisch bedeutender Widerstand gegen koloniale Mächte.",
+        "Lage im Norden des heutigen Landes."
+      ]
+    },
+    {
+      "id": "fort-crampel-history-v2",
+      "descriptionAdvanced": "Fort Crampel war ein wichtiger Stützpunkt für die französische Kolonialverwaltung im Zentrum des Landes. Es diente als administrativer Ankerpunkt zur Kontrolle der Region und zur Sicherung der Handelsrouten. Die Gründung und Nutzung von Fort Crampel markiert den Beginn der direkten kolonialen Einflussnahme in einer Region, die zuvor durch lokale Strukturen geprägt war, und spiegelt die koloniale Verwaltungslogik wider. Geschichte K8 – Koloniale Strukturen.",
+      "factsAdvanced": [
+        "Französischer Kolonialstützpunkt.",
+        "Administrativer Knotenpunkt im Zentrum.",
+        "Symbol für direkte koloniale Präsenz.",
+        "Sicherung der regionalen Handelswege.",
+        "Historische Gründung im 20. Jahrhundert.",
+        "Wichtiger Standort für die koloniale Verwaltung."
+      ]
+    },
+    {
+      "id": "fort-sibut-history-v2",
+      "descriptionAdvanced": "Fort Sibut entwickelte sich aus einem wichtigen kolonialen Stützpunkt zu einem zentralen Ort der administrativen Organisation in der Präfektur Kémo. Die Anlage war ein Pfeiler der kolonialen Infrastruktur, die darauf ausgerichtet war, das Hinterland zu kontrollieren und den Warenfluss Richtung Hauptstadt zu sichern. Das Fort ist ein Zeugnis der administrativen und militärischen Strategien der damaligen Machthaber in Zentralafrika. Geschichte K8 – Militärstrategie im Kolonialismus.",
+      "factsAdvanced": [
+        "Ehemals wichtiger kolonialer Stützpunkt.",
+        "Zentrum der regionalen Verwaltung.",
+        "Pfeiler der kolonialen Infrastruktur.",
+        "Kontrollstation für Warenrouten nach Bangui.",
+        "Historisch bedeutender Ort für Kémo.",
+        "Zeugnis kolonialer Strategie."
+      ]
+    },
+    {
+      "id": "megalithen-bouar-history-v2",
+      "descriptionAdvanced": "Die Megalithanlagen bei Bouar sind präkoloniale Steindenkmäler, die eine geheimnisvolle und kulturell bedeutsame Seite der Geschichte der Zentralafrikanischen Republik beleuchten. Als monumentale Strukturen aus Stein zeugen sie von frühen menschlichen Gesellschaften, deren genaue Lebensweise und spirituelle Praktiken noch immer Gegenstand historischer und archäologischer Forschung sind. Sie sind ein kulturelles Erbe von großer Bedeutung für die regionale Identität. Geschichte K5 – Prähistorische Kulturen.",
+      "factsAdvanced": [
+        "Präkoloniale Megalithstrukturen.",
+        "Monumentale Denkmäler aus Stein.",
+        "Bedeutendes kulturelles Erbe des Nordwestens.",
+        "Forschungsobjekt für Prähistoriker.",
+        "Kulturelles Symbol für die Region Bouar.",
+        "Spur früherer Siedlungskulturen."
+      ]
+    },
+    {
+      "id": "sultanat-bangassou-history-v2",
+      "descriptionAdvanced": "Das Sultanat Bangassou war eine bedeutende Macht im Südosten der Zentralafrikanischen Republik, die durch ihren Handel und ihre diplomatischen Beziehungen zu Nachbarregionen eine prägende Rolle spielte. Als lokales Zentrum der islamischen Kultur und Macht im Mbomou-Gebiet trug es zur gesellschaftlichen Strukturierung vor und während der kolonialen Ära bei. Die Geschichte des Sultanats ist Teil einer komplexen regionalen Vergangenheit, die verschiedene Einflüsse vereint. Geschichte K8 – Regionale Sultanats-Macht.",
+      "factsAdvanced": [
+        "Bedeutendes Sultanat im Südosten.",
+        "Zentrum der Macht in der Region Mbomou.",
+        "Einfluss lokaler Handelsbeziehungen.",
+        "Beitrag zur gesellschaftlichen Strukturierung.",
+        "Lokales islamisches Zentrum vor der Kolonialzeit.",
+        "Prägende Rolle für Bangassou."
+      ]
+    },
+    {
+      "id": "sultanat-rafai-history-v2",
+      "descriptionAdvanced": "Das Sultanat Rafai war ein weiteres bedeutendes politisches Zentrum im Südosten des heutigen Landes. Es war wie andere Sultanate der Region ein Akteur in einem Netzwerk aus Handel und lokaler Verwaltung, das die politische Landschaft vor der Kolonialisierung maßgeblich mitgestaltete. Die Existenz des Sultanats unterstreicht die historische Präsenz organisierter Machtstrukturen im entlegenen Osten Zentralafrikas. Geschichte K8 – Regionale politische Entwicklung.",
+      "factsAdvanced": [
+        "Politisches Zentrum im Südosten.",
+        "Akteur im regionalen Handelsnetzwerk.",
+        "Organisierte Machtstruktur vor der Kolonialzeit.",
+        "Beitrag zur politischen Landschaft der Region.",
+        "Prägende Rolle für Rafai.",
+        "Teil der historischen Sultanats-Regionen."
+      ]
+    },
+    {
+      "id": "sultanat-zemio-history-v2",
+      "descriptionAdvanced": "Das Sultanat Zemio spielte eine wichtige Rolle bei der Konsolidierung lokaler Machtstrukturen im äußersten Südosten. Durch seine geografische Lage war es in Handels- und Machtkämpfe involviert, die die Region vor und während der Kolonialisierung prägten. Als Zentrum für lokale Verwaltung und Handel ist die Geschichte von Zemio ein wichtiges Beispiel für die Vielfalt der politischen Einheiten, die in der Zentralafrikanischen Republik koexistierten. Geschichte K8 – Vielfalt politischer Strukturen.",
+      "factsAdvanced": [
+        "Lokale Machtstruktur im Südosten.",
+        "Bedeutung für regionale Handelskontrolle.",
+        "Beispiel für politisch organisierte Zentren.",
+        "Historisch prägend für die Region Zemio.",
+        "Teil eines komplexen Mosaiks an Sultanaten.",
+        "Politische Verwaltung vor der Kolonialzeit."
+      ]
+    },
+    {
+      "id": "fort-ouham-history-v2",
+      "descriptionAdvanced": "Fort Ouham fungierte als militärischer Außenposten im Norden des Landes und diente dazu, den französischen kolonialen Anspruch in einer landschaftlich herausfordernden und weitläufigen Region zu wahren. Die Errichtung solcher Forts war entscheidend für die koloniale Landnahme und Kontrolle. Heute sind diese ehemaligen Standorte Zeugnisse einer Epoche, die das Land tiefgreifend verändert und die Grenzen des heutigen Staates geformt hat. Geschichte K8 – Koloniale Landnahme.",
+      "factsAdvanced": [
+        "Militärischer Außenposten im Norden.",
+        "Symbol für den französischen Kolonialanspruch.",
+        "Strategische Bedeutung für die Region Ouham.",
+        "Teil des kolonialen Kontrollnetzes.",
+        "Beitrag zur historischen Grenzformung.",
+        "Zeugnis für die koloniale Epoche."
+      ]
+    },
+    {
+      "id": "bangui-kolonialviertel-history-v2",
+      "descriptionAdvanced": "Das Kolonialviertel in Bangui bewahrt ein Stück der Architekturgeschichte, die das Gesicht der Hauptstadt zu Beginn des 20. Jahrhunderts prägte. Diese Bauten zeigen den französischen Einfluss auf die städtische Entwicklung und sind Teil des kulturellen Erbes der Stadt. Die Erhaltung dieser Gebäude ermöglicht Einblicke in die koloniale Vergangenheit und städtische Entwicklung Bangui, wobei sie heute oft als öffentliche Gebäude genutzt werden. Geschichte K8 – Architekturgeschichte des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Historische Architektur aus der Kolonialzeit.",
+        "Einfluss der französischen Stadtplanung.",
+        "Teil des kulturellen Erbes von Bangui.",
+        "Architekturgeschichte der Hauptstadt.",
+        "Oft heutige Nutzung als öffentliche Gebäude.",
+        "Zeugnis des urbanen Wandels."
+      ]
+    },
+    {
+      "id": "bambari-bruecke-history-v2",
+      "descriptionAdvanced": "Die Brücke in Bambari ist ein historisch bedeutendes Infrastrukturwerk, das die koloniale Erschließung des Landes und die Verbindung der Regionen widerspiegelt. Solche Brückenbauten waren essenziell, um die großen Flusslandschaften zu überqueren und die logistischen Routen zwischen den Präfekturen und der Hauptstadt Bangui zu stabilisieren. Sie ist heute ein Symbol für die infrastrukturelle Entwicklung, die in den 1950er Jahren die wirtschaftliche Anbindung des Zentralraums stärkte. Geschichte K8 – Infrastrukturelle Erschließung.",
+      "factsAdvanced": [
+        "Historisch bedeutender Brückenbau.",
+        "Symbol für infrastrukturelle Erschließung.",
+        "Verbindung der Regionen in Zentralafrika.",
+        "Entscheidend für die Logistik im Zentrum.",
+        "Bauwerk mit Geschichte aus der Mitte des 20. Jh.",
+        "Wichtige Infrastruktur der Region Ouaka."
+      ]
+    },
+    {
+      "id": "mbaiki-kolonialpraefektur-history-v2",
+      "descriptionAdvanced": "Das ehemalige Gebäude der Kolonialpräfektur in Mbaiki ist ein Zeugnis für die verwaltungstechnische Organisation, die die Franzosen in der Region Lobaye etablierten. Als Zentrum der lokalen Verwaltung und der Organisation des Kaffeeanbaus unterstrich es die koloniale Kontrolle über die wirtschaftlich lukrativen Waldgebiete. Heute steht es als historisches Mahnmal für die administrativen Strukturen, die den Grundstein für die moderne Präfekturverwaltung legten. Geschichte K8 – Verwaltung im Kolonialismus.",
+      "factsAdvanced": [
+        "Ehemaliges Gebäude der Kolonialverwaltung.",
+        "Zentrum der Verwaltung in der Region Lobaye.",
+        "Kontrolle über den Kaffee-Wirtschaftssektor.",
+        "Zeugnis administrativer Organisationsform.",
+        "Grundstein für moderne Präfekturverwaltung.",
+        "Historisches Gebäude in Mbaiki."
+      ]
+    },
+    {
+      "id": "mobaye-kolonialerbe-history-v2",
+      "descriptionAdvanced": "Das koloniale Erbe in Mobaye, das sich in der Architektur am Flusslauf zeigt, verdeutlicht die historische Rolle der Stadt als Handels- und Verwaltungsstandort am Ubangi. Durch die Nähe zum Wasser war Mobaye ein wichtiger Punkt für den Transport und die Präsenz der kolonialen Macht. Das Erbe dieser Zeit prägt das heutige Stadtbild von Mobaye und erinnert an die Ära des regionalen Handels, die für den Südosten des Landes so entscheidend war. Geschichte K8 – Handel und Kolonialisierung.",
+      "factsAdvanced": [
+        "Architektonisches Erbe am Ubangi-Ufer.",
+        "Wichtiger Standort für Handel und Verwaltung.",
+        "Symbol für die koloniale Präsenz am Fluss.",
+        "Prägt das historische Stadtbild von Mobaye.",
+        "Erinnert an die Handelsära des Südostens.",
+        "Zeugnis der wirtschaftlichen Geschichte."
+      ]
+    },
+    {
+      "id": "berberati-diamanten-erbe-history-v2",
+      "descriptionAdvanced": "Das Erbe der Diamantengewinnung in Berbérati ist tief in der Geschichte der Stadt verwurzelt, die durch die Entdeckung und den Abbau von Diamanten während der Kolonialzeit eine enorme wirtschaftliche Aufwertung erlebte. Diese Historie erklärt die industrielle Entwicklung der Stadt und ihre Stellung als Handelszentrum für Edelsteine. Der historische Prozess der Ausbeutung und Erschließung dieser Ressourcen hat Berbérati zu dem gemacht, was es heute ist. Geschichte K8 – Wirtschaftliche Erschließung.",
+      "factsAdvanced": [
+        "Historische Wurzeln in der Diamantengewinnung.",
+        "Wirtschaftliche Aufwertung während der Kolonialzeit.",
+        "Entwicklung zum Zentrum des Edelsteinhandels.",
+        "Prozess der industriellen Erschließung.",
+        "Geschichte von Abbau und Ausbeutung.",
+        "Prägt die industrielle Stellung von Berbérati."
+      ]
+    },
+    {
+      "id": "carnot-gold-erbe-history-v2",
+      "descriptionAdvanced": "Das goldene Erbe von Carnot geht auf die frühen Zeiten der industriellen Ausbeutung durch koloniale Firmen zurück, die die Region systematisch auf Rohstoffe untersuchten. Die industrielle Geschichte der Stadt, verbunden mit der Förderung von Bodenschätzen, hat in Carnot eine spezifische städtische Identität geschaffen, die stark von der Vergangenheit als Bergbauzentrum geprägt ist. Die Stadt ist somit ein historischer Repräsentant für den Bergbausektor im Südwesten Zentralafrikas. Geschichte K8 – Bergbaugeschichte.",
+      "factsAdvanced": [
+        "Historische Verbindung zum Bergbau.",
+        "Frühe koloniale Erschließung durch Firmen.",
+        "Städtische Identität durch Rohstoffabbau.",
+        "Repräsentant für den Bergbau im Südwesten.",
+        "Erbe der industriellen Ausbeutung.",
+        "Spezifische Historie als Minenzentrum."
+      ]
+    },
+    {
+      "id": "nola-zusammenfluss-history-v2",
+      "descriptionAdvanced": "Die Geschichte von Nola am Zusammenfluss der Flüsse ist durch die strategische Bedeutung des Ortes für den Handel und den Holztransport geprägt. Seit Jahrhunderten als Knotenpunkt genutzt, erlebte der Ort während der Kolonialzeit eine Intensivierung der Aktivitäten durch die Forstwirtschaft. Nola fungierte dabei stets als Ankerpunkt für die Bewegung von Waren und Menschen im dichten Waldgürtel des Südens, was den Zusammenfluss zu einem geschichtsträchtigen Ort machte. Geschichte K8 – Handelswege.",
+      "factsAdvanced": [
+        "Historischer Knotenpunkt für Handel.",
+        "Intensivierung der Waldwirtschaft im Kolonialismus.",
+        "Strategischer Zusammenfluss der Flüsse.",
+        "Wichtiger Ankerpunkt im Waldgürtel.",
+        "Traditioneller Ort für Warentransport.",
+        "Bedeutsam für die historische Logistik."
+      ]
+    },
+    {
+      "id": "bozoum-mission-history-v2",
+      "descriptionAdvanced": "Die Missionsstation in Bozoum hat die lokale Geschichte maßgeblich beeinflusst, indem sie Bildung, Gesundheit und soziale Dienstleistungen in den Nordwesten brachte. Die missionarische Tätigkeit war oft eng mit der kolonialen Entwicklung verknüpft, bot jedoch auch neue Perspektiven und Strukturen für die lokale Bevölkerung. Die Station ist bis heute ein wichtiger Ort für das gesellschaftliche Leben und die christliche Tradition in der Präfektur Ouham-Pendé. Geschichte K8 – Missionierung und gesellschaftlicher Wandel.",
+      "factsAdvanced": [
+        "Historisch bedeutende Missionsstation.",
+        "Einfluss auf Bildung und Gesundheitswesen.",
+        "Wichtige Rolle bei der Christianisierung.",
+        "Soziales Zentrum in Ouham-Pendé.",
+        "Eng mit der kolonialen Geschichte verknüpft.",
+        "Kulturelles und soziales Erbe vor Ort."
+      ]
+    },
+    {
+      "id": "ouadda-handelsposten-history-v2",
+      "descriptionAdvanced": "Ouadda diente als wichtiger Handelsposten im Osten des Landes, der für die Kontrolle und den Austausch von Waren in entlegenen Regionen von großer Bedeutung war. Die Geschichte der Stadt als Knotenpunkt für den Handel unterstreicht die Rolle, die abgelegene Orte in der Strukturierung des Handelsnetzes der Zentralafrikanischen Republik spielten. Heute dient der historische Handelsposten als Erinnerung an eine Ära, in der Handelsrouten das Rückgrat der regionalen Entwicklung bildeten. Geschichte K8 – Handelsnetze.",
+      "factsAdvanced": [
+        "Wichtiger historischer Handelsposten.",
+        "Knotenpunkt für entlegene Regionen.",
+        "Strukturierung regionaler Handelsnetze.",
+        "Erinnerung an vergangene Handelsrouten.",
+        "Bedeutend für den Osten des Landes.",
+        "Historische Handelsinfrastruktur."
+      ]
+    },
+    {
+      "id": "birao-karawanenweg-history-v2",
+      "descriptionAdvanced": "Die Geschichte von Birao als Knotenpunkt für die transsaharischen Karawanenwege im hohen Norden unterstreicht die historische Verbindung der Region zum Mittelmeerraum und dem Sudan. Die Stadt war eine der wichtigsten Stationen für den Austausch von Gütern über Tausende Kilometer hinweg. Diese historische Dimension macht Birao zu einem Ort, an dem sich die Geschichte des überregionalen Handels mit der lokalen Identität verbindet. Geschichte K8 – Transsahara-Handel.",
+      "factsAdvanced": [
+        "Historischer Knotenpunkt für Karawanenwege.",
+        "Verbindung zum Sudan und Mittelmeer.",
+        "Wichtige Station des Warenaustauschs.",
+        "Historisch bedeutender Handelsknoten.",
+        "Verbindung von lokaler und globaler Geschichte.",
+        "Kulturelles Erbe des Nordostens."
+      ]
+    },
+    {
+      "id": "obo-grenzposten-history-v2",
+      "descriptionAdvanced": "Obo hat eine lange Geschichte als Grenzposten im Südosten, der zur Kontrolle des Handels und der Bewegung von Menschen zwischen den heutigen Staatsgebieten diente. Seine Rolle als vorgeschobener Außenposten war besonders während der Kolonialzeit für die Sicherung der imperialen Grenzen entscheidend. Diese historische Funktion als Grenzstandort prägt bis heute die Identität und strategische Bedeutung der Stadt Obo in der Region. Geschichte K8 – Grenzsicherung.",
+      "factsAdvanced": [
+        "Historisch bedeutender Grenzposten.",
+        "Kontrolle von Handels- und Menschenströmen.",
+        "Außenposten der kolonialen Grenzsicherung.",
+        "Strategische Bedeutung für den Südosten.",
+        "Ort mit langer Geschichte als Grenzhub.",
+        "Identitätsbildend für Obo."
+      ]
+    },
+    {
+      "id": "boali-kraftwerk-history-v2",
+      "descriptionAdvanced": "Die Geschichte des Boali-Kraftwerks ist eng mit der industriellen Modernisierung Bangui verknüpft, die in den 1950er Jahren begann. Die Wasserkraftnutzung war ein Meilenstein für die Energiepolitik und ermöglichte den Aufbau einer stabilen industriellen Basis in der Hauptstadt. Die technische Geschichte der Anlage steht für den Wunsch nach Entwicklung und technologischem Fortschritt im 20. Jahrhundert und bildet das Fundament der heutigen Energieinfrastruktur. Geschichte K5 – Technische Innovation.",
+      "factsAdvanced": [
+        "Meilenstein der industriellen Modernisierung.",
+        "Entwicklung in den 1950er Jahren.",
+        "Basis der heutigen Energieinfrastruktur.",
+        "Symbol für technologischen Fortschritt.",
+        "Wesentlicher Teil der Geschichte Bangui.",
+        "Technische Pionierleistung vor Ort."
+      ]
+    }
+  ]
+}

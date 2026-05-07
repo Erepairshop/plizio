@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mississippi-river-source-nature-v2",
+      "descriptionAdvanced": "The Mississippi River, the second-longest river in North America, originates at Lake Itasca in northern Minnesota. This humble, shallow outflow is the beginning of a 2,340-mile journey that bisects the American continent, fundamentally shaping the historical, agricultural, and economic landscape of the United States. The river basin acts as a critical hydrological drainage for much of the nation, supporting massive ecosystems, industrial navigation, and the agricultural productivity of the American heartland. Today, the source at Lake Itasca serves as a quiet, protected natural landmark, symbolizing the starting point of one of the world's most powerful and historically essential river systems. Geografie K7 — River basin hydrology and transcontinental geography.",
+      "factsAdvanced": [
+        "Originates as a shallow outflow at Lake Itasca in northern Minnesota.",
+        "The Mississippi River is the second-longest river system in North America.",
+        "Its basin drains much of the American continent, shaping its heartland.",
+        "Fundamental to the historical, agricultural, and economic development of the US.",
+        "The river supports massive ecosystems and critical industrial navigation.",
+        "The source is a protected landmark symbolizing the start of a massive river system."
+      ]
+    },
+    {
+      "id": "mount-rainier-nature-v2",
+      "descriptionAdvanced": "Mount Rainier, standing 14,410 feet above sea level in Washington state, is an active stratovolcano and the highest peak in the Cascade Range. Its massive glacier system—the largest single-peak glacial complex in the contiguous United States—feeds several major rivers, providing an essential, steady water source for both ecological diversity and urban growth in the Puget Sound lowlands. Rainier’s massive size and active geological state make it a premier site for studying both volcanic hazards and alpine glaciology. Today, it stands as a dominant, iconic presence on the Pacific Northwest skyline, serving as both a majestic wilderness sanctuary and a complex, critical natural feature that requires careful ongoing monitoring for potential geological activity. Geologie K8 — Volcanic stratigraphy and glacial hydrologic systems.",
+      "factsAdvanced": [
+        "Highest peak in the Cascade Range, rising to 14,410 feet.",
+        "An active stratovolcano of massive geologic scale.",
+        "Holds the largest single-peak glacial complex in the contiguous United States.",
+        "Glaciers feed major rivers, supporting urban and ecological needs in Puget Sound.",
+        "Premier laboratory for monitoring volcanic hazards and alpine glaciology.",
+        "Dominant iconic feature of the Pacific Northwest skyline."
+      ]
+    },
+    {
+      "id": "lake-tahoe-nature-v2",
+      "descriptionAdvanced": "Lake Tahoe, located in the Sierra Nevada mountains on the border of California and Nevada, is one of the world's deepest and most famously clear alpine lakes. Formed millions of years ago by massive tectonic faulting and glacial activity, the lake is a critical high-altitude ecological treasure known for its intense blue water and pristine clarity. As a primary recreational and environmental hub, Tahoe faces the modern challenge of balancing intense tourism-based economic pressure with the protection of its fragile water quality. Today, it serves as a globally studied site for water-clarity management and as an enduring sanctuary of alpine beauty, demonstrating the ongoing conflict between large-scale regional development and the necessity of ecological preservation. Biologie K7 — Alpine lake limnology and water quality preservation.",
+      "factsAdvanced": [
+        "One of the world's deepest and most famously clear alpine lakes.",
+        "Formed millions of years ago by tectonic faulting and glacial carving.",
+        "Situated high in the Sierra Nevada mountains on the CA-NV border.",
+        "Renowned globally for its intense blue water and natural clarity.",
+        "Critical study site for large-scale water-clarity and lake-ecosystem management.",
+        "Demonstrates the conflict between intensive regional tourism and water conservation."
+      ]
+    }
+  ]
+}

@@ -20,9 +20,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "Uruguay's largest seaport, handling the majority of its foreign trade." },
     descriptionAdvanced: {
       de: "Der Hafen von Montevideo ist das wirtschaftliche Herzstück Uruguays und einer der wichtigsten Logistik-Hubs in Südamerika. Seine strategische Lage am Río de la Plata macht ihn zu einem entscheidenden Umschlagplatz für den internationalen Warenverkehr innerhalb des Mercosur-Raums. Hier werden nicht nur Container und Massengüter abgefertigt, sondern auch moderne Terminals für Kreuzfahrtschiffe betrieben, die den Tourismus fördern. Die Hafenanlagen wurden in den letzten Jahren umfassend modernisiert, um auch größten Schiffsklassen Platz zu bieten. Durch sein spezielles Freihafen-Regime bietet er attraktive Bedingungen für den Transithandel nach Paraguay und Bolivien. Geographie K7 — Wirtschaft und Infrastruktur.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay legnagyobb tengeri kikötője, amelyen a külkereskedelem nagy része áthalad. Montevideo Kikötője Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Cel mai mare port maritim din Uruguay, prin care trece majoritatea comerțului exterior. Portul Montevideo se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "Uruguay's largest seaport, handling the majority of its foreign trade. Port of Montevideo lies in the Montevideo department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -32,9 +32,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Jährlich werden hier über 1 Million TEU (Standardcontainer) umgeschlagen.",
         "Der Hafen ist der tiefste natürliche Hafen am Río de la Plata."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Mélyvízi kikötő a Río de la Platán.", "Fontos csomópont a Mercosur számára.", "Konténer- és óceánjáró terminálokkal rendelkezik.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Port de ape adânci pe Río de la Plata.", "Hub important pentru Mercosur.", "Include terminale de containere și de croazieră.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Deepwater port on the Río de la Plata.", "Important hub for Mercosur.", "Includes container and cruise terminals.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Tiefwasserhafen am Río de la Plata.", "Wichtiger Hub für den Mercosur.", "Umfasst Container- und Kreuzfahrtterminals."],
@@ -60,9 +60,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "Uruguay's second-largest port, specializing in grain and pulp exports." },
     descriptionAdvanced: {
       de: "Der Hafen von Nueva Palmira liegt an der strategisch wichtigen Mündung des Uruguay-Flusses in den Río de la Plata. Er dient als wichtigster Ausgangspunkt für den Export von uruguayischem Getreide, Soja und zunehmend auch Zellstoff aus den großen Fabriken des Landes. Dank seiner Anbindung an die Wasserstraße Paraná-Paraguay ist er ein zentraler Knotenpunkt für den regionalen Handel aus dem Hinterland des Kontinents. Die Anlagen umfassen spezialisierte Silos und Förderbänder, die einen hocheffizienten Umschlag von Agrarprodukten ermöglichen. Als Teil einer Freihandelszone bietet der Standort erhebliche wirtschaftliche Vorteile für Logistikunternehmen. Geographie K7 — Transportwege und Welthandel.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay második legnagyobb kikötője, amely gabona- és cellulózexportra specializálódott. Nueva Palmira Kikötője Colonia megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Al doilea cel mai mare port din Uruguay, specializat în exportul de cereale și celuloză. Portul Nueva Palmira se află în departamentul Colonia și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "Uruguay's second-largest port, specializing in grain and pulp exports. Port of Nueva Palmira lies in the Colonia department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -71,9 +71,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Es ist ein wichtiger Freihafen, der besonders für Waren aus Paraguay von großer Bedeutung ist.",
         "Die Getreidesilos des Hafens gehören zu den modernsten Anlagen ihrer Art in Südamerika."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az Uruguay folyó mentén található.", "A Paraná-Paraguay vízi út fontos csomópontja.", "Vámmentes terület.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Situat pe râul Uruguay.", "Nod important pentru calea navigabilă Paraná-Paraguay.", "Zonă liberă.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Located on the Uruguay River.", "Key node for the Paraná-Paraguay waterway.", "Features a free trade zone.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Liegt am Fluss Uruguay.", "Wichtiger Knotenpunkt für die Wasserstraße Paraná-Paraguay.", "Zollfreies Gebiet."],
@@ -99,9 +99,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "One of the world's largest pulp mills located on the banks of the Uruguay River." },
     descriptionAdvanced: {
       de: "Das UPM-Zellstoffwerk in Fray Bentos ist ein Symbol für den modernen industriellen Aufschwung Uruguays im 21. Jahrhundert. Die Anlage nutzt Eukalyptusholz aus nachhaltig bewirtschafteten Plantagen der Region zur Herstellung von hochwertigem Zellstoff für den Weltmarkt. Direkt am Ufer des Uruguay-Flusses gelegen, verfügt das Werk über einen eigenen Hafen für den Abtransport der Produktion. Die Fabrik ist bekannt für ihre strengen Umweltstandards und den Einsatz modernster Filtertechnologien. Sie war in der Vergangenheit Gegenstand eines langjährigen diplomatischen Konflikts mit Argentinien über Wasserrechte. Geographie K8 — Industrie und Ökologie.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A világ egyik legnagyobb cellulózgyára az Uruguay folyó partján. UPM Fray Bentos Cellulózgyár Río Negro megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Una dintre cele mai mari fabrici de celuloză din lume pe malul râului Uruguay. Fabrica de celuloză UPM Fray Bentos se află în departamentul Río Negro și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "One of the world's largest pulp mills located on the banks of the Uruguay River. UPM Fray Bentos Pulp Mill lies in the Río Negro department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -110,9 +110,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "UPM Fray Bentos erzeugt durch die Verbrennung von Biomasse mehr Energie, als es selbst verbraucht.",
         "Die Anlage wurde 2007 in Betrieb genommen und hat die lokale Wirtschaft massiv verändert."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Fehérített eukaliptusz cellulózt állít elő.", "2007-ben kezdte meg működését.", "Nemzetközi vita tárgya volt Argentínával.", "Népszerű fotótéma és turisztikai látványosság.", "Río Negro megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Produce celuloză albită din eucalipt.", "A intrat în funcțiune în 2007.", "A făcut obiectul unui conflict internațional cu Argentina.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Río Negro.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Produces bleached eucalyptus kraft pulp.", "Began operations in 2007.", "Was the subject of an international dispute with Argentina.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Río Negro department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Produziert gebleichten Eukalyptus-Zellstoff.", "2007 in Betrieb genommen.", "War Gegenstand eines internationalen Konflikts mit Argentinien."],
@@ -138,9 +138,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "Major joint-venture pulp mill contributing significantly to Uruguay's GDP and exports." },
     descriptionAdvanced: {
       de: "Das Zellstoffwerk Montes del Plata in Conchillas ist ein gigantisches Gemeinschaftsprojekt der Unternehmen Arauco und Stora Enso. Es repräsentiert eine der bedeutendsten Säulen des uruguayischen Exportsektors und verarbeitet riesige Mengen an Eukalyptusholz. Die Anlage ist so konzipiert, dass sie einen integrierten Tiefwasserhafen nutzt, um den fertigen Zellstoff direkt auf Hochseeschiffe zu verladen. Neben der Zellstoffproduktion leistet das Werk durch die Nutzung von Nebenprodukten zur Stromerzeugung einen wichtigen Beitrag zum nationalen Energienetz. Die Ansiedlung hat die Infrastruktur im Departement Colonia grundlegend modernisiert. Geographie K8 — Globale Märkte und Ressourcen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Nagy vegyesvállalati cellulózgyár, amely jelentősen hozzájárul Uruguay GDP-jéhez és exportjához. Montes del Plata Cellulózgyár Colonia megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O mare fabrică de celuloză mixtă, care contribuie semnificativ la PIB-ul și exporturile Uruguayului. Fabrica de celuloză Montes del Plata se află în departamentul Colonia și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "Major joint-venture pulp mill contributing significantly to Uruguay's GDP and exports. Montes del Plata Pulp Mill lies in the Colonia department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -149,9 +149,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der integrierte Hafen ermöglicht es, den LKW-Verkehr auf den Landstraßen erheblich zu reduzieren.",
         "Montes del Plata verwaltet über 140.000 Hektar forstwirtschaftliche Flächen in ganz Uruguay."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az Arauco és a Stora Enso vegyesvállalata.", "Évi 1,4 millió tonna termelési kapacitás.", "Saját mélyvízi kikötővel rendelkezik.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Joint venture între Arauco și Stora Enso.", "Capacitate de producție de 1,4 milioane de tone pe an.", "Are propriul port de ape adânci.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Joint venture between Arauco and Stora Enso.", "Production capacity of 1.4 million tonnes per year.", "Has its own deep-water port terminal.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Joint Venture zwischen Arauco und Stora Enso.", "Produktionskapazität von 1,4 Millionen Tonnen pro Jahr.", "Verfügt über einen eigenen Tiefwasserhafen."],
@@ -177,9 +177,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A state-of-the-art pulp mill in central Uruguay, boosting national economic development." },
     descriptionAdvanced: {
       de: "Das UPM-Werk Paso de los Toros ist die neueste und modernste Zellstofffabrik Uruguays und liegt im Herzen des Landes. Mit seiner Inbetriebnahme im Jahr 2023 hat es die industrielle Kapazität des Landes massiv gesteigert und Tausende von Arbeitsplätzen geschaffen. Das Projekt umfasste nicht nur den Bau der Fabrik, sondern auch die komplette Erneuerung der zentralen Eisenbahnlinie zum Hafen von Montevideo. Die Anlage setzt weltweit Maßstäbe in Bezug auf Energieeffizienz und Umweltschutz im Bereich der Zellstoffherstellung. Sie ist ein zentraler Bestandteil der langfristigen Strategie Uruguays, sich als führender Holz- und Zellstoffexporteur zu etablieren. Geographie K8 — Regionale Entwicklung und Logistik.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Modern cellulózgyár Közép-Uruguayban, amely fellendíti a nemzeti gazdasági fejlődést. UPM Paso de los Toros Gyár Durazno megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O fabrică modernă de celuloză în centrul Uruguayului, stimulând dezvoltarea economică națională. Fabrica UPM Paso de los Toros se află în departamentul Durazno și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A state-of-the-art pulp mill in central Uruguay, boosting national economic development. UPM Paso de los Toros Mill lies in the Durazno department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -188,9 +188,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Das Werk speist eine beträchtliche Menge an überschüssiger Bioenergie in das uruguayische Stromnetz ein.",
         "Es befindet sich in der Nähe des Negro-Flusses, was eine stabile Wasserversorgung garantiert."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["2023-ban helyezték üzembe.", "Évi 2,1 millió tonna kapacitás.", "A Központi Vasút megépítését eredményezte.", "Népszerű fotótéma és turisztikai látványosság.", "Durazno megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["A intrat în funcțiune în 2023.", "Capacitate de 2,1 milioane de tone pe an.", "A determinat construcția Căii Ferate Centrale.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Durazno.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Commenced operations in 2023.", "Capacity of 2.1 million tonnes annually.", "Led to the construction of the Central Railway.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Durazno department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Inbetriebnahme im Jahr 2023.", "Kapazität von 2,1 Millionen Tonnen pro Jahr.", "Führte zum Bau der zentralen Eisenbahnlinie."],
@@ -216,9 +216,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "The only oil refinery in Uruguay, supplying all of the country's fuel needs." },
     descriptionAdvanced: {
       de: "Die Raffinerie La Teja in Montevideo ist das Herzstück der uruguayischen Kraftstoffproduktion und wird vom Staatsunternehmen ANCAP betrieben. Da Uruguay selbst nicht über nennenswerte Erdölvorkommen verfügt, wird das Rohöl per Schiff importiert und hier zu Benzin, Diesel und Heizöl verarbeitet. Die Anlage befindet sich in strategischer Lage direkt an der Bucht von Montevideo, was den direkten Entladevorgang ermöglicht. Trotz ihrer langen Geschichte wurde die Raffinerie kontinuierlich modernisiert, um strengere Umwelt- und Qualitätsstandards zu erfüllen. Sie spielt eine entscheidende Rolle für die energetische Unabhängigkeit und Preisstabilität im Transportwesen des Landes. Sachkunde K8 — Energiequellen und Industrie.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Az egyetlen olajfinomító Uruguayban, amely az ország teljes üzemanyag-szükségletét fedezi. ANCAP La Teja Finomító Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Singura rafinărie de petrol din Uruguay, care acoperă toate necesitățile de combustibil ale țării. Rafinăria ANCAP La Teja se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "The only oil refinery in Uruguay, supplying all of the country's fuel needs. ANCAP La Teja Refinery lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -227,9 +227,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "ANCAP ist ein staatliches Monopolunternehmen für die Einfuhr und Raffination von Erdöl in Uruguay.",
         "Die Schornsteine der Anlage sind weithin sichtbare Orientierungspunkte im Hafenviertel von Montevideo."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az állami ANCAP vállalat üzemelteti.", "1937-ben alapították.", "A montevideói öbölben található.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Operată de compania de stat ANCAP.", "Fondată în 1937.", "Situată în Golful Montevideo.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Operated by state-owned company ANCAP.", "Founded in 1937.", "Located in the Bay of Montevideo.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Wird vom staatlichen Unternehmen ANCAP betrieben.", "Gegründet 1937.", "Befindet sich in der Bucht von Montevideo."],
@@ -255,9 +255,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A binational hydroelectric dam on the Uruguay River, a major power source for Uruguay and Argentina." },
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Salto Grande ist ein beeindruckendes Beispiel für die grenzüberschreitende Zusammenarbeit zwischen Uruguay und Argentinien. Der gewaltige Staudamm am Uruguay-Fluss staut eine riesige Wasserfläche auf und nutzt die Kraft der Strömung zur Erzeugung sauberer Energie. Er deckt einen signifikanten Teil des Strombedarfs beider Länder und stabilisiert das regionale Energienetz. Neben der Stromerzeugung dient die Anlage auch der Regulierung des Wasserstands und ermöglicht die Schifffahrt auf dem Fluss. Über die Dammkrone führt eine internationale Verbindung für Züge und Kraftfahrzeuge, die die Städte Salto und Concordia verbindet. Geographie K7 — Nachhaltige Energiegewinnung.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Kétnemzetiségű vízerőmű az Uruguay folyón, amely Uruguay és Argentína fő áramforrása. Salto Grande Vízerőmű Salto megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un baraj hidroelectric binațional pe râul Uruguay, o sursă majoră de energie pentru Uruguay și Argentina. Centrala Hidroelectrică Salto Grande se află în departamentul Salto și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A binational hydroelectric dam on the Uruguay River, a major power source for Uruguay and Argentina. Salto Grande Dam lies in the Salto department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -266,9 +266,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der künstlich geschaffene Stausee Salto Grande hat eine Fläche von etwa 783 Quadratkilometern.",
         "Das Projekt wurde nach jahrzehntelanger Planung im Jahr 1979 in Betrieb genommen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Közös projekt Argentínával.", "Kapacitása 1890 megawatt.", "A gát tetején egy nemzetközi híd is található.", "Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Proiect comun cu Argentina.", "Capacitate de 1.890 megawați.", "Are un pod internațional deasupra barajului.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Joint project with Argentina.", "Capacity of 1,890 megawatts.", "Features an international bridge on top of the dam.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Gemeinsames Projekt mit Argentinien.", "Kapazität von 1.890 Megawatt.", "Verfügt über eine internationale Brücke auf der Dammkrone."],
@@ -294,9 +294,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A leading technology and business park operating as a free trade zone." },
     descriptionAdvanced: {
       de: "Zonamerica ist der modernste Technologiepark Uruguays und ein wichtiger Motor für den Dienstleistungsexport des Landes. Als Freihandelszone konzipiert, bietet er Hunderten von internationalen Unternehmen eine erstklassige Infrastruktur für IT, Finanzen und Logistik. Der Campus zeichnet sich durch seine parkähnliche Gestaltung, moderne Architektur und hohe Lebensqualität für die Mitarbeiter aus. Hier konzentriert sich das Wissen und die Innovation Uruguays, was den Standort zu einem Magneten für hochqualifizierte Fachkräfte macht. Zonamerica spielt eine Schlüsselrolle bei der Positionierung des Landes als digitaler Hub im Herzen Südamerikas. Wirtschaft K8 — Globaler Dienstleistungssektor.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Vezető technológiai és üzleti park, amely szabadkereskedelmi övezetként működik. Zonamerica Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un parc tehnologic și de afaceri de top care funcționează ca zonă liberă. Zonamerica se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A leading technology and business park operating as a free trade zone. Zonamerica lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -305,9 +305,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Er verfügt über ein eigenes Rechenzentrum der neuesten Generation und exzellente Glasfaseranbindungen.",
         "Der Standort wurde 1992 als erste private Freihandelszone Uruguays gegründet."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 500 vállalatnak ad otthont.", "Logisztikára, IT-re és szolgáltatásokra fókuszál.", "Az első privát szabadkereskedelmi övezet Uruguayban.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Găzduiește peste 500 de companii.", "Se concentrează pe logistică, IT și servicii.", "Prima zonă liberă privată din Uruguay.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Houses over 500 companies.", "Focuses on logistics, IT, and services.", "The first private free zone in Uruguay.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Beherbergt über 500 Unternehmen.", "Fokus auf Logistik, IT und Dienstleistungen.", "Erste private Freihandelszone in Uruguay."],
@@ -333,9 +333,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "One of the main production facilities of Uruguay's largest dairy cooperative." },
     descriptionAdvanced: {
       de: "Das Conaprole-Werk in Florida ist eine tragende Säule der uruguayischen Milchwirtschaft, die für ihre hohe Qualität weltbekannt ist. Als Teil der nationalen Molkereigenossenschaft verarbeitet diese hochmoderne Anlage die Milch von Tausenden von Bauernhöfen aus der Region. Ein Großteil der Produktion wird als Milchpulver oder Käse in alle Welt exportiert, was Uruguay zu einem bedeutenden Akteur auf dem globalen Agrarmarkt macht. Das Werk sichert durch seine Tätigkeit den Lebensunterhalt zahlreicher Familien im ländlichen Raum und fördert die landwirtschaftliche Entwicklung. Die strengen Hygienestandards und die effiziente Logistik sind beispielhaft für die uruguayische Lebensmittelindustrie. Geographie K7 — Landwirtschaft und Ernährungswirtschaft.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay legnagyobb tejipari szövetkezetének egyik fő termelési üzeme. Conaprole Florida Tejüzem Florida megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Una dintre principalele unități de producție ale celei mai mari cooperative de lactate din Uruguay. Fabrica de lactate Conaprole Florida se află în departamentul Florida și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "One of the main production facilities of Uruguay's largest dairy cooperative. Conaprole Florida Dairy Plant lies in the Florida department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -344,9 +344,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Uruguay exportiert über 70 % seiner gesamten Milchproduktion in über 60 Länder.",
         "Die Genossenschaft wurde bereits 1936 gegründet, um die Versorgung des Landes mit Milchprodukten zu sichern."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Naponta több millió liter tejet dolgoz fel.", "Tejport állít elő exportra.", "Fontos munkáltató a régióban.", "Népszerű fotótéma és turisztikai látványosság.", "Florida megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Procesează zilnic milioane de litri de lapte.", "Produce lapte praf pentru export.", "Angajator important în regiune.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Florida.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Processes millions of liters of milk daily.", "Produces milk powder for export.", "Major employer in the region.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Florida department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Verarbeitet täglich Millionen Liter Milch.", "Produziert Milchpulver für den Export.", "Wichtiger Arbeitgeber in der Region."],
@@ -372,9 +372,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "The main passenger port in the country, connecting Colonia del Sacramento with Buenos Aires." },
     descriptionAdvanced: {
       de: "Der Hafen von Colonia del Sacramento ist das wichtigste Tor für Reisende zwischen Uruguay und Argentinien. Mehrere Fährgesellschaften betreiben eine intensive Route über den Río de la Plata, die Colonia in nur einer Stunde mit Buenos Aires verbindet. Diese Verbindung ist nicht nur für den Tourismus entscheidend, sondern auch für Pendler und den kulturellen Austausch zwischen den beiden Ufern. Der Hafen wurde in den letzten Jahren modernisiert, um den jährlich steigenden Passagierstrom komfortabel abwickeln zu können. Neben den großen Fähren bietet der Standort auch Liegeplätze für Sportboote und eine kleine Fischereiflotte. Geographie K7 — Tourismus und Infrastruktur.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Az ország fő utasforgalmi kikötője, amely Colonia del Sacramentót Buenos Airesszel köti össze. Colonia Kikötője Colonia megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Principalul port de pasageri al țării, conectând Colonia del Sacramento de Buenos Aires. Portul Colonia se află în departamentul Colonia și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "The main passenger port in the country, connecting Colonia del Sacramento with Buenos Aires. Port of Colonia lies in the Colonia department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -383,9 +383,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der Hafen liegt unmittelbar neben der historischen Altstadt, die zum UNESCO-Welterbe gehört.",
         "Moderne Katamarane befördern nicht nur Passagiere, sondern auch Hunderte von Fahrzeugen pro Fahrt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Évente több millió utast szolgál ki.", "A Nemzeti Kikötői Hatóság üzemelteti.", "Teher- és RoRo hajók is használják.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Manevrează milioane de pasageri anual.", "Operat de Administrația Națională a Porturilor.", "De asemenea utilizat pentru mărfuri și nave Ro-Ro.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Handles millions of passengers annually.", "Operated by the National Ports Administration.", "Also used for cargo and Ro-Ro vessels.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Fertigt jährlich Millionen von Passagieren ab.", "Betrieben von der Nationalen Hafenverwaltung.", "Auch für Fracht und RoRo-Schiffe genutzt."],
@@ -411,9 +411,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A large meat processing plant producing high-quality Uruguayan beef for global markets." },
     descriptionAdvanced: {
       de: "Der Marfrig-Schlachthof in Tacuarembó ist eines der Flaggschiffe der uruguayischen Fleischindustrie, die traditionell das Rückgrat der Wirtschaft bildet. In dieser hochmodernen Anlage wird Rindfleisch nach höchsten internationalen Standards für anspruchsvolle Märkte wie die EU, die USA und China verarbeitet. Das Unternehmen setzt auf eine lückenlose Rückverfolgbarkeit, sodass jeder Schnitt Fleisch bis zur ursprünglichen Weide zurückverfolgt werden kann. Durch die enge Zusammenarbeit mit lokalen Viehzüchtern wird die Qualität des uruguayischen 'Grass-fed' Beefs sichergestellt. Die Fabrik ist ein entscheidender Arbeitgeber im Norden Uruguays und fördert die regionale Entwicklung. Wirtschaft K8 — Agrarindustrie und Export.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Nagy húsfeldolgozó üzem, amely kiváló minőségű uruguayi marhahúst állít elő a globális piacokra. Marfrig Tacuarembó Vágóhíd Tacuarembó megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O mare unitate de procesare a cărnii care produce carne de vită uruguayană de înaltă calitate pentru piețele globale. Abatorul Marfrig Tacuarembó se află în departamentul Tacuarembó și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A large meat processing plant producing high-quality Uruguayan beef for global markets. Marfrig Tacuarembó Slaughterhouse lies in the Tacuarembó department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -422,9 +422,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Alle uruguayischen Rinder sind durch eine elektronische Ohrmarke individuell registriert.",
         "Das Werk verfügt über spezielle Zertifizierungen für koscheres und Halal-Fleisch."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A globális Marfrig csoporthoz tartozik.", "Nagy kapacitású szarvasmarha-vágóhíd.", "Marhahúst exportál Kínába, az EU-ba és az USA-ba.", "Népszerű fotótéma és turisztikai látványosság.", "Tacuarembó megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Aparține grupului global Marfrig.", "Capacitate mare de sacrificare a bovinelor.", "Exportă carne de vită în China, UE și SUA.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Tacuarembó.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Belongs to the global Marfrig group.", "High capacity for cattle slaughter.", "Exports beef to China, the EU, and the US.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Tacuarembó department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Gehört zur globalen Marfrig-Gruppe.", "Hohe Kapazität für die Rinderschlachtung.", "Exportiert Rindfleisch nach China, in die EU und die USA."],
@@ -450,9 +450,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A river port with deep water access, supporting the export of agricultural and timber products." },
     descriptionAdvanced: {
       de: "Der Hafen von Fray Bentos ist ein bedeutender Infrastrukturknotenpunkt am Unterlauf des Uruguay-Flusses. Dank seiner beträchtlichen Wassertiefe können hier auch größere Hochseeschiffe anlegen, um Getreide, Holz und andere Rohstoffe direkt aus dem Landesinneren aufzunehmen. Die Geschichte des Hafens ist eng mit der industriellen Entwicklung der Stadt verknüpft, die einst für ihre Fleischkonserven weltberühmt war. Heute dient er vor allem als effizienter Umschlagplatz für die moderne Agrar- und Forstwirtschaft. Kontinuierliche Investitionen in die Krantechnik und Lagerkapazitäten sichern seine Wettbewerbsfähigkeit im regionalen Handel. Geographie K7 — Wasserstraßen und Ressourcenexport.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Folyami kikötő mélyvízi hozzáféréssel, amely támogatja a mezőgazdasági termékek és faipari termékek exportját. Fray Bentos Kikötője Río Negro megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un port fluvial cu acces la ape adânci, care susține exportul de mărfuri agricole și produse din lemn. Portul Fray Bentos se află în departamentul Río Negro și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "A river port with deep water access, supporting the export of agricultural and timber products. Port of Fray Bentos lies in the Río Negro department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure."
     },
     factsAdvanced: {
       de: [
@@ -461,9 +461,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Fray Bentos war historisch der Standort der berühmten 'Liebig's Extract of Meat Company'.",
         "Der Hafen ist ein wichtiger Teil des uruguayischen Logistikkorridors nach Westen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Akár 34 láb mélységű.", "Gabonasilókkal és szállítószalagokkal rendelkezik.", "Fontos a helyi erdészeti export szempontjából.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Adâncime de până la 34 de picioare.", "Dispune de silozuri de cereale și benzi transportoare.", "Important pentru exporturile forestiere locale.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Depth of up to 34 feet.", "Features grain silos and conveyor belts.", "Crucial for local forestry exports.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Tiefe von bis zu 34 Fuß.", "Verfügt über Getreidesilos und Förderbänder.", "Wichtig für lokale forstwirtschaftliche Exporte."],
@@ -489,9 +489,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "An innovation hub promoting collaboration between industry and research in life sciences." },
     descriptionAdvanced: {
       de: "Der Wissenschafts- und Technologiepark Pando (PCTP) ist ein zentrales Element in Uruguays Bestreben, eine wissensbasierte Wirtschaft aufzubauen. Er fungiert als Schnittstelle zwischen der universitären Forschung der Udelar und dem privaten Industriesektor, insbesondere in den Bereichen Chemie und Biotechnologie. Start-ups und etablierte Unternehmen finden hier modernste Laborräume und Unterstützung bei der Markteinführung neuer Produkte. Der Park fördert die Entwicklung innovativer Lösungen für die Pharma- und Lebensmittelindustrie, was den technologischen Standard des Landes erhöht. Durch Kooperationen mit internationalen Forschungseinrichtungen ist Pando ein wichtiger Akteur im globalen wissenschaftlichen Austausch. Sachkunde K8 — Forschung und technologischer Fortschritt.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Innovációs központ, amely elősegíti az ipar és a kutatás közötti együttműködést a biotechnológia területén. Pando Tudományos Park (PCTP) Canelones megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "Un pol de inovație care promovează colaborarea dintre industrie și cercetare în domeniul științelor vieții. Parcul Științific Pando (PCTP) se află în departamentul Canelones și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "An innovation hub promoting collaboration between industry and research in life sciences. Pando Science and Technology Park (PCTP) lies in the Canelones department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -500,9 +500,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Das Zentrum verfügt über spezialisierte Analysegeräte, die in ganz Südamerika selten sind.",
         "PCTP ist ein wichtiger Partner für die uruguayische Pharmaindustrie bei klinischen Studien."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az Udelar Kémiai Kara támogatja.", "A gyógyszeriparra és az élelmiszer-technológiára fókuszál.", "Inkubátor szolgáltatásokat nyújt induló vállalkozásoknak.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Susținut de Facultatea de Chimie de la Udelar.", "Focus pe produse farmaceutice și tehnologie alimentară.", "Oferă servicii de incubator pentru start-up-uri.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Backed by the Faculty of Chemistry of Udelar.", "Focuses on pharmaceuticals and food technology.", "Provides incubator services for start-ups.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Unterstützt von der Fakultät für Chemie der Udelar.", "Fokus auf Pharmazeutika und Lebensmitteltechnologie.", "Bietet Inkubator-Dienstleistungen für Start-ups."],
@@ -530,9 +530,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "The main production facility for Uruguay's most famous mineral water brand in the Sierras de Minas." },
     descriptionAdvanced: {
       de: "Die Salus-Abfüllanlage liegt eingebettet in die malerische Hügellandschaft der Sierras de Minas und nutzt die dortigen natürlichen Quellen. Salus ist das Synonym für Mineralwasser in Uruguay und blickt auf eine über hundertjährige Geschichte zurück. Die moderne Anlage stellt sicher, dass das Quellwasser unter höchsten Qualitätsstandards abgefüllt wird, ohne seine natürlichen Eigenschaften zu verlieren. Neben dem reinen Wasser werden hier auch eine Vielzahl von Erfrischungsgetränken und Fruchtsäften produziert. Der Standort ist zudem ein beliebtes Ausflugsziel, da der umliegende Park 'Parque Salus' den Schutz der Quellen mit Naturtourismus verbindet. Sachkunde K3 — Ressourcen und Umwelt.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay leghíresebb ásványvíz márkájának fő termelési üzeme a Sierras de Minasban. Salus Palackozóüzem Lavalleja megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Principala unitate de producție pentru cel mai renumit brand de apă minerală din Uruguay în Sierras de Minas. Fabrica de îmbuteliere Salus se află în departamentul Lavalleja și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "The main production facility for Uruguay's most famous mineral water brand in the Sierras de Minas. Salus Bottling Plant lies in the Lavalleja department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -541,9 +541,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Anlage gehört heute zum internationalen Nahrungsmittelkonzern Danone.",
         "Das Wasser wird direkt aus der 'Quelle des Pumas' gewonnen, die für ihre Reinheit bekannt ist."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Természetes forrásvizet használ.", "A Danone tulajdonában van.", "Ízesített vizeket és gyümölcsleveket is gyárt.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Folosește apă de izvor naturală.", "Deținut de Danone.", "Produce, de asemenea, ape aromate și sucuri.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Sources natural spring water.", "Owned by Danone.", "Also produces flavored waters and juices.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Nutzt natürliches Quellwasser.", "Im Besitz von Danone.", "Produziert auch aromatisierte Wässer und Säfte."],
@@ -569,9 +569,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "An inland port on the Uruguay River, essential for regional trade and logistics." },
     descriptionAdvanced: {
       de: "Der Hafen von Paysandú ist ein zentraler Pfeiler für den Gütertransport im Westen Uruguays. Als strategischer Flusshafen ermöglicht er den kostengünstigen Export von Getreide, Soja und Zitrusfrüchten direkt aus den landwirtschaftlichen Zentren des Landes. Die kontinuierliche Ausbaggerung des Uruguay-Flusses ist entscheidend, um die Schiffbarkeit für größere Lastkähne und kleine Hochseeschiffe zu gewährleisten. Der Hafen dient zudem als wichtiger Umschlagplatz für Düngemittel und Treibstoffe, die für die regionale Landwirtschaft benötigt werden. Die logistische Bedeutung von Paysandú stärkt die Wettbewerbsfähigkeit der uruguayischen Bauern auf dem Weltmarkt. Geographie K7 — Infrastruktur und Agrarhandel.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Belföldi kikötő az Uruguay folyón, amely fontos a regionális kereskedelem és logisztika szempontjából. Paysandú Kikötője Paysandú megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un port interior pe râul Uruguay, important pentru comerțul și logistica regională. Portul Paysandú se află în departamentul Paysandú și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "An inland port on the Uruguay River, essential for regional trade and logistics. Port of Paysandú lies in the Paysandú department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -580,9 +580,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Paysandú ist ein wichtiger Punkt innerhalb der regionalen Wasserstraße (Hidrovía).",
         "Die Hafenverwaltung investiert regelmäßig in den Ausbau der Kaianlagen und Lagerflächen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Szójababot, búzát és árpát rakodnak itt.", "Központi elhelyezkedésű a nyugati mezőgazdaság számára.", "Folyamatosan kotornak a hajózhatóság fenntartása érdekében.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Manevrează soia, grâu și orz.", "Situat central pentru agricultura din vest.", "Dragat continuu pentru a permite navigația.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Handles soybeans, wheat, and barley.", "Centrally located for western agriculture.", "Requires continuous dredging for navigability.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Schlägt Sojabohnen, Weizen und Gerste um.", "Zentral gelegen für die Landwirtschaft im Westen.", "Wird kontinuierlich baggert, um Schifffahrt zu ermöglichen."],
@@ -610,9 +610,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "Once the largest medical cannabis processing facility in Latin America." },
     descriptionAdvanced: {
       de: "Die Boreal-Anlage in Salto war ein Pionierprojekt für den Export von medizinischem Cannabis aus Uruguay. Das Land war das erste weltweit, das den gesamten Markt für Cannabis regulierte, was zu großen Investitionen in hochtechnologische Verarbeitungszentren führte. Boreal verfügte über gewaltige Gewächshäuser und Labors, die speziell für die Gewinnung hochwertiger CBD-Extrakte konzipiert waren. Das Werk symbolisiert das Potenzial Uruguays, neue Märkte in der Agrarindustrie durch innovative Gesetzgebung zu erschließen. Trotz wirtschaftlicher Herausforderungen bleibt die Infrastruktur ein Zeugnis für den technologischen Fortschritt im Norden des Landes. Wirtschaft K8 — Innovation und neue Märkte.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egykor Latin-Amerika legnagyobb orvosi kannabisz feldolgozó létesítménye volt. Boreal Kenderfeldolgozó Üzem Salto megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Cândva cea mai mare fabrică de procesare a canabisului medicinal din America Latină. Fabrica de procesare a cânepei Boreal se află în departamentul Salto și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "Once the largest medical cannabis processing facility in Latin America. Boreal Hemp Processing Facility lies in the Salto department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -621,9 +621,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Investition für dieses Projekt stammte ursprünglich aus Kanada.",
         "Die Region Salto bietet ideale klimatische Bedingungen für den Anbau von Hanf und Cannabis."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az uruguayi kannabisz-export központja.", "Magas technológiai szabványok.", "Jelentős befektetés az agráriparba.", "Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Centru al exporturilor de canabis din Uruguay.", "Standarde tehnologice înalte.", "Investiție semnificativă în industria agricolă.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Center of Uruguayan cannabis exports.", "High technological standards.", "Significant agrobusiness investment.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Zentrum des uruguayischen Cannabis-Exports.", "Hohe technologische Standards.", "Bedeutende Investition in die Agrarindustrie."],
@@ -649,9 +649,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "An urban industrial park in Montevideo supporting local small and medium-sized enterprises." },
     descriptionAdvanced: {
       de: "Der Industrie- und Technologiepark Cerro (PTI) ist ein einzigartiges Modell für soziale und wirtschaftliche Entwicklung im Westen von Montevideo. Er wurde auf dem Gelände einer ehemaligen riesigen Fleischfabrik errichtet und beherbergt heute Dutzende von kleinen Unternehmen und Kooperativen. Der Park bietet eine Plattform für Innovationen in den Bereichen Recycling, Lebensmittelverarbeitung und Handwerk. Durch die gemeinschaftliche Nutzung von Ressourcen und Dienstleistungen werden die Betriebskosten für die ansässigen Firmen gesenkt. PTI fördert zudem Bildungsprojekte und berufliche Qualifizierung für die Bewohner des historischen Viertels Cerro. Wirtschaft K8 — Regionale Wirtschaftskreisläufe und Kooperativen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Városi ipari park Montevideóban, amely a helyi kis- és középvállalkozásokat támogatja. Cerro Ipari és Technológiai Park (PTI) Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "Un parc industrial urban din Montevideo care susține întreprinderile mici și mijlocii locale. Parcul Tehnologic Industrial Cerro (PTI) se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "An urban industrial park in Montevideo supporting local small and medium-sized enterprises. Cerro Industrial Technological Park (PTI) lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -660,9 +660,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Über 70 verschiedene Firmen und Organisationen sind aktuell im PTI ansässig.",
         "Ein Schwerpunkt liegt auf der Kreislaufwirtschaft und der nachhaltigen Abfallentsorgung."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Egykori húsfeldolgozó üzem területén található.", "Több tucat szövetkezetnek ad otthont.", "Támogatja a körkörös gazdaságot.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Situat pe locul unei foste fabrici de ambalare a cărnii.", "Găzduiește zeci de cooperative.", "Promovează economia circulară.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Located on the site of a former meatpacking plant.", "Houses dozens of cooperatives.", "Promotes circular economy initiatives.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Befindet sich auf dem Gelände einer ehemaligen Fleischfabrik.", "Beherbergt Dutzende von Kooperativen.", "Fördert die Kreislaufwirtschaft."],
@@ -690,9 +690,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A major facility for bottling and distributing liquified petroleum gas (LPG) for domestic use." },
     descriptionAdvanced: {
       de: "Die Megal-Anlage in San José ist ein unverzichtbarer Teil der uruguayischen Energieinfrastruktur für den privaten Sektor. Hier wird importiertes Flüssiggas (LPG) unter strengsten Sicherheitsvorkehrungen in die charakteristischen gelben Gasflaschen abgefüllt. Da viele Haushalte in Uruguay zum Kochen und Heizen auf Gasflaschen angewiesen sind, sichert Megal die kontinuierliche Versorgung des Marktes. Das Unternehmen verfügt über eine effiziente Logistikkette, die das gesamte Land von der Hauptstadt bis in entlegene Dörfer abdeckt. Kontinuierliche Kontrollen der Behälter garantieren die Sicherheit der Verbraucher. Sachkunde K8 — Infrastruktur und Energieversorgung.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A háztartási célú cseppfolyósított propán-bután gáz (PB-gáz) palackozására és elosztására szolgáló fontos létesítmény. Megal PB-gáz Palackozóüzem San José megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "O unitate majoră pentru îmbutelierea și distribuția gazului petrolier lichefiat (GPL) de uz casnic. Fabrica de îmbuteliere GPL Megal se află în departamentul San José și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A major facility for bottling and distributing liquified petroleum gas (LPG) for domestic use. Megal LPG Bottling Plant lies in the San José department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -701,9 +701,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Flüssiggas ist in Uruguay eine der am weitesten verbreiteten Energiequellen für private Haushalte.",
         "Das Unternehmen setzt auf modernste Technologien zur Leckageerkennung und Brandverhütung."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Országos gázellátást biztosít.", "Naponta több ezer palackot töltenek meg.", "Szigorú biztonsági előírások.", "Népszerű fotótéma és turisztikai látványosság.", "San José megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Asigură aprovizionarea cu gaz la nivel național.", "Umple mii de butelii zilnic.", "Standarde stricte de siguranță.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul San José.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Ensures nationwide gas supply.", "Fills thousands of cylinders daily.", "Strict safety standards.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the San José department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Sorgt für die landesweite Gasversorgung.", "Füllt täglich Tausende von Zylindern.", "Strenge Sicherheitsstandards."],
@@ -729,9 +729,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A leading winery near Montevideo famous for producing premium Tannat wines." },
     descriptionAdvanced: {
       de: "Die Bodega Bouza ist das Aushängeschild des uruguayischen Weinbaus und steht für die Exzellenz der Tannat-Traube. Nur wenige Kilometer von Montevideo entfernt, verbindet dieses familiengeführte Weingut traditionelle Handwerkskunst mit modernster Kellertechnik. Die Weine von Bouza gewinnen regelmäßig internationale Auszeichnungen und haben dazu beigetragen, Uruguay auf der Weltkarte der Premium-Weine zu platzieren. Besucher können hier nicht nur die Weinproduktion erleben, sondern auch eine beeindruckende Oldtimer-Sammlung des Besitzers bewundern. Die Bodega ist ein Musterbeispiel für gelungenen Weintourismus, der die lokale Kultur und Wirtschaft stärkt. Sachkunde K3 — Landwirtschaft und regionale Produkte.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Vezető borászat Montevideo közelében, amely a prémium Tannat borok termeléséről híres. Bouza Pincészet Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O cramă de top lângă Montevideo, renumită pentru producția de vinuri Tannat premium. Crama Bouza se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A leading winery near Montevideo famous for producing premium Tannat wines. Bodega Bouza lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -740,9 +740,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Bouza war eines der ersten Weingüter Uruguays, das konsequent auf Weintourismus setzte.",
         "Die Weinberge werden nach ökologischen Prinzipien und mit manueller Lese bewirtschaftet."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A modern technológiát hagyományos módszerekkel ötvözi.", "Fontos szereplője az uruguayi borexportnak.", "Népszerű borturisztikai célpont.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Combină tehnologia modernă cu metodele tradiționale.", "Importantă pentru exporturile de vin ale Uruguayului.", "Destinație populară pentru enoturism.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Combines modern technology with traditional methods.", "Important for Uruguay's wine exports.", "Popular destination for wine tourism.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Verbindet moderne Technologie mit traditionellen Methoden.", "Wichtig für Uruguays Weinexporte.", "Beliebtes Ziel für den Weintourismus."],
@@ -768,9 +768,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A historic paper mill in Juan Lacaze, once the industrial core of the city." },
     descriptionAdvanced: {
       de: "Die Fanapel-Papierfabrik war über ein Jahrhundert lang das wirtschaftliche Rückgrat der Stadt Juan Lacaze. Gegründet am Ende des 19. Jahrhunderts, entwickelte sie sich zu einem der größten Papierproduzenten Südamerikas und versorgte den gesamten Kontinent mit Schreib- und Druckpapier. Die Fabrik prägte die Identität der Region und schuf eine starke Arbeiterkultur in der Stadt. Ihr Niedergang und die schließliche Schließung im Jahr 2017 stellten die lokale Gemeinschaft vor enorme Herausforderungen. Heute wird das Gelände teilweise für neue wirtschaftliche Projekte genutzt, während die alten Industriehallen an die glanzvolle industrielle Vergangenheit erinnern. Geschichte K8 — Industrieller Wandel und seine Folgen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Történelmi papírgyár Juan Lacaze-ban, amely egykor a város ipari központja volt. Fanapel Papírgyár Colonia megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O fabrică istorică de hârtie în Juan Lacaze, cândva nucleul industrial al orașului. Fabrica de hârtie Fanapel se află în departamentul Colonia și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A historic paper mill in Juan Lacaze, once the industrial core of the city. Fanapel Paper Mill lies in the Colonia department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -779,9 +779,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "In Spitzenzeiten beschäftigte das Unternehmen über 1.000 Mitarbeiter direkt.",
         "Nach der Schließung wurde Juan Lacaze zum Zentrum für Umschulungsprogramme und neue Kleingewerbe."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A 19. század végén alapították.", "Papírt gyártott egész Dél-Amerika számára.", "2017-ben bezárt a csökkenő versenyképesség miatt.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Fondată la sfârșitul secolului al XIX-lea.", "A produs hârtie pentru toată America de Sud.", "Închisă în 2017 din cauza scăderii competitivității.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Founded in the late 19th century.", "Produced paper for all of South America.", "Closed in 2017 due to declining competitiveness.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Wurde Ende des 19. Jahrhunderts gegründet.", "Produzierte Papier für ganz Südamerika.", "2017 aufgrund sinkender Wettbewerbsfähigkeit geschlossen."],
@@ -807,9 +807,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "Once a thriving glass factory symbolizing Uruguay's economic heyday in the mid-20th century." },
     descriptionAdvanced: {
       de: "Cristalerías del Uruguay war im 20. Jahrhundert eines der Symbole für den industriellen Stolz des Landes. Die Fabrik produzierte hochwertiges Glasgeschirr, Flaschen und künstlerische Glasobjekte, die in fast jedem uruguayischen Haushalt zu finden waren. Sie repräsentiert die Ära der Importsubstitution, in der Uruguay versuchte, seinen Bedarf an Industriegütern selbst zu decken. Der massive Backsteinbau im Viertel Buceo war jahrzehntelang ein Zentrum der handwerklichen und industriellen Ausbildung. Nach der Einstellung der Produktion wurde das Gelände umgestaltet, wobei Teile der markanten Architektur erhalten blieben. Heute erinnert der Ort an den Übergang von einer Industriegesellschaft zu einer Dienstleistungsökonomie. Geschichte K8 — Nationaler Aufstieg und industrielle Krisen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egykor virágzó üveggyár, amely a 20. század közepén Uruguay gazdasági fénykorát szimbolizálta. Cristalerías del Uruguay (egykor) Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Cândva o fabrică prosperă de sticlărie care a simbolizat apogeul economic al Uruguayului la mijlocul secolului XX. Cristalerías del Uruguay (fostă) se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "Once a thriving glass factory symbolizing Uruguay's economic heyday in the mid-20th century. Cristalerías del Uruguay (former) lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -818,9 +818,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der markante Ziegelschornstein der Fabrik war lange Zeit ein Wahrzeichen der Skyline von Montevideo.",
         "Nach der Schließung wurde das Gelände für den Bau von modernen Wohn- und Geschäftsgebäuden genutzt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Palackokat és poharakat gyártott.", "Az ipari munkahelyek fontos forrása volt.", "A területet később lakóövezetté alakították.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Producea sticle și pahare.", "Sursă importantă de locuri de muncă industriale.", "Situl a fost ulterior reamenajat pentru locuințe.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Produced bottles and glassware.", "Major source of industrial jobs.", "Site was later redeveloped for residential use.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Produzierte Flaschen und Gläser.", "Wichtige Quelle für industrielle Arbeitsplätze.", "Standort wurde später für Wohnzwecke umgewandelt."],
@@ -848,9 +848,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A key chemical company producing agricultural fertilizers to support Uruguay's farming sector." },
     descriptionAdvanced: {
       de: "ISUSA ist ein zentraler Akteur in der uruguayischen Agrarindustrie und liefert die notwendigen Düngemittel für die großflächigen Kulturen des Landes. Die Anlage in San José produziert eine breite Palette an chemischen Produkten, die speziell auf die Bodenbeschaffenheit in Uruguay und der Region abgestimmt sind. Ohne die Produkte von ISUSA wäre die hohe Produktivität im Anbau von Soja, Weizen und Mais kaum denkbar. Das Unternehmen hat über die Jahre massiv in umweltfreundlichere Produktionstechnologien investiert, um die Auswirkungen auf die Umgebung zu minimieren. Als nationales Unternehmen spielt es eine wichtige Rolle bei der Preisgestaltung und Verfügbarkeit von Betriebsmitteln für lokale Landwirte. Geographie K7 — Agrarchemie und Bodenfruchtbarkeit.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Fontos vegyipari vállalat, amely mezőgazdasági műtrágyákat gyárt az uruguayi agrárszektor támogatására. ISUSA Műtrágyagyár San José megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O companie chimică cheie care produce îngrășăminte agricole pentru a susține sectorul agricol uruguayan. Fabrica de îngrășăminte ISUSA se află în departamentul San José și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A key chemical company producing agricultural fertilizers to support Uruguay's farming sector. ISUSA Fertilizer Plant lies in the San José department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -859,9 +859,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Es betreibt eigene Logistikterminals für den effizienten Transport der Düngemittel per LKW und Bahn.",
         "ISUSA forscht kontinuierlich an neuen Rezepturen, um den ökologischen Fußabdruck der Düngung zu verringern."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Szuporfoszfátot és más vegyületeket állít elő.", "Erősen függ a mezőgazdasági ciklustól.", "Szerepet játszik a termésátlagok növelésében.", "Népszerű fotótéma és turisztikai látványosság.", "San José megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Produce superfosfat și alți compuși.", "Depinde puternic de ciclul agricol.", "Joacă un rol în creșterea randamentului culturilor.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul San José.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Produces superphosphate and other compounds.", "Heavily reliant on the farming cycle.", "Plays a role in increasing crop yields.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the San José department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Produziert Superphosphat und andere Verbindungen.", "Stark abhängig vom Landwirtschaftszyklus.", "Spielt eine Rolle bei der Steigerung der Ernteerträge."],
@@ -887,9 +887,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A state-owned cement factory utilizing the limestone wealth of the Lavalleja region." },
     descriptionAdvanced: {
       de: "Das Zementwerk in Minas wird vom staatlichen Konzern ANCAP betrieben und nutzt die riesigen Kalksteinvorkommen der Sierras de Lavalleja. Es ist eine der wichtigsten Quellen für Baumaterialien in Uruguay und versorgt Großprojekte im ganzen Land. Die Produktion von Zement ist ein energieintensiver Prozess, der direkt vor Ort durch die Nähe zu den Steinbrüchen optimiert wird. Das Werk ist ein bedeutender Wirtschaftsfaktor für die Stadt Minas und bietet zahlreiche Arbeitsplätze in der schweren Industrie. In den letzten Jahren wurden Filteranlagen nachgerüstet, um die Staubemissionen in der hügeligen Landschaft zu reduzieren. Sachkunde K8 — Rohstoffe und Bauindustrie.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Állami tulajdonú cementgyár, amely Lavalleja régió mészkőgazdagságát hasznosítja. Minas Cementgyár (ANCAP) Lavalleja megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O fabrică de ciment deținută de stat care utilizează bogăția de calcar din regiunea Lavalleja. Fabrica de ciment Minas (ANCAP) se află în departamentul Lavalleja și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A state-owned cement factory utilizing the limestone wealth of the Lavalleja region. Minas Cement Plant (ANCAP) lies in the Lavalleja department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -898,9 +898,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Das Werk verfügt über einen eigenen Gleisanschluss für den Abtransport schwerer Lasten.",
         "Die Fabrik wurde modernisiert, um alternative Brennstoffe wie Altreifen zur Energiegewinnung zu nutzen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az állami ANCAP vállalat üzemelteti.", "Cementet szállít az országos építkezésekhez.", "Nagy mészkőbányák veszik körül.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Operată de compania de stat ANCAP.", "Furnizează ciment pentru construcțiile naționale.", "Înconjurată de mari cariere de calcar.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Operated by state enterprise ANCAP.", "Supplies cement for national construction.", "Surrounded by large limestone quarries.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Wird vom Staatsunternehmen ANCAP betrieben.", "Liefert Zement für den nationalen Bau.", "Umgeben von großen Kalksteinbrüchen."],
@@ -928,9 +928,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "One of the largest meatpacking plants in Uruguay, exporting beef products to international markets." },
     descriptionAdvanced: {
       de: "Der Frigorífico Canelones, heute Teil des Minerva-Konzerns, ist ein Eckpfeiler der uruguayischen Lebensmittelwirtschaft. Die Anlage ist darauf spezialisiert, Rindfleisch für den globalen Export vorzubereiten, wobei höchste Hygiene- und Qualitätsstandards eingehalten werden. Dank der strategischen Lage im Departement Canelones kann das Vieh aus den umliegenden Weidegebieten schnell zur Verarbeitung transportiert werden. Uruguay genießt weltweit einen exzellenten Ruf für sein natürliches Fleisch, und dieser Betrieb ist ein wesentlicher Teil dieser Erfolgsgeschichte. Die Fabrik ist ein wichtiger Arbeitgeber in der Stadt Canelones und trägt maßgeblich zur regionalen Wertschöpfung bei. Wirtschaft K8 — Exportorientierte Fleischwirtschaft.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay egyik legnagyobb húsfeldolgozó üzeme, amely marhahústermékeket exportál a nemzetközi piacokra. Minerva Foods Canelones Vágóhíd Canelones megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Una dintre cele mai mari fabrici de ambalare a cărnii din Uruguay, exportând produse din carne de vită pe piețele internaționale. Abatorul Minerva Foods Canelones se află în departamentul Canelones și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "One of the largest meatpacking plants in Uruguay, exporting beef products to international markets. Minerva Foods Canelones Meat Plant lies in the Canelones department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -939,9 +939,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Fleischindustrie macht einen erheblichen Teil der gesamten Exporterlöse Uruguays aus.",
         "Minerva Foods ist einer der führenden Produzenten von Rindfleisch in Südamerika."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A brazil Minerva konszern tulajdonában van.", "Megfelel a szigorú nemzetközi egészségügyi előírásoknak.", "Nagy munkáltató a Canelones megyében.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Deținută de gigantul brazilian Minerva.", "Îndeplinește standarde internaționale stricte de sănătate.", "Mare angajator în departamentul Canelones.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Owned by Brazilian giant Minerva Foods.", "Meets strict international health standards.", "Major employer in Canelones Department.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Im Besitz des brasilianischen Konzerns Minerva.", "Erfüllt strenge internationale Gesundheitsstandards.", "Großer Arbeitgeber im Departement Canelones."],
@@ -967,9 +967,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A historic winery with a long tradition of crafting quality Uruguayan wines." },
     descriptionAdvanced: {
       de: "Bodegas Carrau gehört zu den traditionsreichsten Namen im uruguayischen Weinbau und blickt auf Wurzeln zurück, die bis nach Katalonien reichen. Das Weingut im Stadtteil Colón von Montevideo verbindet die historische Architektur eines Familienbetriebs mit moderner önologischer Forschung. Carrau war maßgeblich daran beteiligt, die Tannat-Traube als uruguayisches Markenzeichen auf den Weltmärkten zu etablieren. Die Keller beherbergen Schätze aus vielen Jahrzehnten und zeigen die Reifefähigkeit uruguayischer Spitzenweine. Als Pionier des Weinexports hat das Unternehmen den Ruf Uruguays als Produzent charaktervoller Weine entscheidend geprägt. Sachkunde K3 — Weinbau und Tradition.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Történelmi pincészet, amely nagy hagyományokkal rendelkezik a minőségi uruguayi borok készítésében. Bodegas Carrau Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O cramă istorică cu o lungă tradiție în fabricarea vinurilor uruguayene de calitate. Bodegas Carrau se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A historic winery with a long tradition of crafting quality Uruguayan wines. Bodegas Carrau lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -978,9 +978,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Carrau war das erste Weingut Uruguays, das seine Weine konsequent in die USA und nach Europa exportierte.",
         "Ein besonderer Fokus liegt auf der Erhaltung seltener Rebsorten und der Selektion bester Klone."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Generációk óta családi vállalkozás.", "Az uruguayi borexport úttörője.", "Montevideo Colón negyedében található.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Afacere de familie de generații.", "Pionier al exporturilor de vin din Uruguay.", "Situată în cartierul Colón din Montevideo.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Family-owned for generations.", "Pioneer in Uruguayan wine exports.", "Located in the Colón neighborhood of Montevideo.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Familienunternehmen seit Generationen.", "Pionier des Weinexports in Uruguay.", "Befindet sich im Viertel Colón in Montevideo."],
@@ -1006,9 +1006,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A special customs zone within the Port of Montevideo allowing logistics and goods handling without import taxes." },
     descriptionAdvanced: {
       de: "Der Freihafen von Montevideo ist ein rechtliches und logistisches Unikat an der südamerikanischen Atlantikküste. Durch das Freihafengesetz von 1992 können Waren hier gelagert, umgepackt und veredelt werden, ohne dass Einfuhrzölle fällig werden, solange sie nicht den uruguayischen Binnenmarkt erreichen. Dies hat Montevideo zum bevorzugten Logistikzentrum für Binnenländer wie Paraguay und Bolivien gemacht. Die Effizienz des Hafens wird durch private Terminals gesteigert, die sich auf modernste Containerlogistik spezialisiert haben. Das Regime zieht internationale Investoren an und stärkt Uruguays Position als Handelsdrehscheibe im Mercosur. Geographie K7 — Welthandel und Freihandelszonen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Különleges vámövezet a montevideói kikötőn belül, amely lehetővé teszi a logisztikát és az áruforgalmat importadók nélkül. Montevideói Szabadkikötő Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O zonă vamală specială în portul Montevideo care permite logistica și manipularea mărfurilor fără taxe de import. Portul Liber Montevideo se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "A special customs zone within the Port of Montevideo allowing logistics and goods handling without import taxes. Montevideo Free Port lies in the Montevideo department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure."
     },
     factsAdvanced: {
       de: [
@@ -1017,9 +1017,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der Freihafen trägt maßgeblich zur hohen Exportquote von Dienstleistungen in Uruguay bei.",
         "Die Zollabwicklung erfolgt vollständig digitalisiert, um die Umschlagzeiten zu minimieren."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az egyetlen szabadkikötői rendszer a dél-amerikai Atlanti-parton.", "Megkönnyíti a tranzitkereskedelmet Paraguay és Bolívia számára.", "Multinacionális logisztikai vállalatokat vonz.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Singurul regim de port liber de pe coasta atlantică a Americii de Sud.", "Facilitează comerțul de tranzit pentru Paraguay și Bolivia.", "Atrage companii multinaționale de logistică.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Only free port regime on the South American Atlantic coast.", "Facilitates transit trade for Paraguay and Bolivia.", "Attracts multinational logistics companies.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Einziges Freihafenregime an der südamerikanischen Atlantikküste.", "Erleichtert den Transithandel für Paraguay und Bolivien.", "Zieht multinationale Logistikunternehmen an."],
@@ -1047,9 +1047,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A major marina playing a crucial role in the high-end tourism and leisure economy." },
     descriptionAdvanced: {
       de: "Der Hafen von Punta del Este ist das glamouröse Herzstück des exklusivsten Badeortes Südamerikas. Er dient primär als Yachthafen für luxuriöse Freizeitboote und ist ein Magnet für den internationalen Jetset während der Sommermonate. Die wirtschaftliche Bedeutung des Hafens geht weit über das Anlegen von Booten hinaus; er ist der Mittelpunkt einer blühenden Gastronomie- und Immobilienlandschaft. Von hier aus starten zudem die Ausflugsboote zur Isla de Lobos, einer der größten Seelöwenkolonien der Welt. Während der Saison dient der Hafen auch als Anlegestelle für Tenderboote großer internationaler Kreuzfahrtschiffe. Geographie K7 — Tourismuswirtschaft an der Küste.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Jelentős jachtkikötő, amely kulcsszerepet játszik a luxusturizmusban és a szabadidőiparban. Punta del Este Kikötője Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un port de agrement major care joacă un rol crucial în turismul de lux și economia de agrement. Portul Punta del Este se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "A major marina playing a crucial role in the high-end tourism and leisure economy. Port of Punta del Este lies in the Maldonado department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -1058,9 +1058,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der Hafenbereich ist berühmt für seine Fischrestaurants, die fangfrischen Fisch direkt von den lokalen Fischern beziehen.",
         "In der Nähe des Hafens befindet sich das ikonische Gebäude der Hafenverwaltung mit seinem markanten Turm."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több száz luxusjacht számára biztosít helyet.", "Gazdasági motor a nyári szezonban.", "Cirkálóhajó transzfer szolgáltatást nyújt.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Găzduiește sute de iahturi de lux.", "Motor economic în timpul sezonului de vară.", "Oferă servicii de transfer pentru nave de croazieră.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Accommodates hundreds of luxury yachts.", "Economic driver during the summer season.", "Provides cruise ship tender services.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Bietet Platz für Hunderte von Luxusyachten.", "Wirtschaftlicher Motor während der Sommersaison.", "Bietet Kreuzfahrt-Tenderservice."],
@@ -1088,9 +1088,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A free trade zone near Carrasco Airport specialized in the pharmaceutical industry." },
     descriptionAdvanced: {
       de: "Der Parque de las Ciencias ist ein hochmoderner Industriepark, der sich als strategisches Zentrum für die Pharma- und Life-Science-Industrie in Südamerika etabliert hat. Durch seine unmittelbare Nähe zum internationalen Flughafen Carrasco bietet er ideale Bedingungen für den schnellen Export von temperaturempfindlichen Medikamenten. Als Freihandelszone ermöglicht er Unternehmen, Forschung, Entwicklung und Produktion an einem steuerbegünstigten Standort zu bündeln. Die Architektur des Parks ist funktional und modern, mit einem starken Fokus auf Nachhaltigkeit und modernster Gebäudetechnik. Hier haben sich führende multinationale Konzerne niedergelassen, die Uruguay als sicheres Tor zum lateinamerikanischen Markt nutzen. Wirtschaft K8 — Pharmazeutische Industrie und Speziallogistik.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Szabadkereskedelmi övezet a Carrasco repülőtér közelében, amely a gyógyszeriparra specializálódott. Parque de las Ciencias Canelones megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O zonă liberă lângă Aeroportul Carrasco, specializată în industria farmaceutică. Parque de las Ciencias se află în departamentul Canelones și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A free trade zone near Carrasco Airport specialized in the pharmaceutical industry. Parque de las Ciencias lies in the Canelones department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -1099,9 +1099,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Zone bietet spezialisierte Logistikdienstleistungen wie Kühlkettenmanagement auf höchstem Niveau.",
         "Der Parque de las Ciencias wurde mit Blick auf ökologische Standards und grüne Energieversorgung entworfen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A Mega Pharma gyártóüzemének ad otthont.", "Korszerű logisztikai központ.", "Elősegíti a gyógyszeripari exportot Uruguayból.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Găzduiește unitatea de producție Mega Pharma.", "Centru logistic de ultimă generație.", "Promovează exporturile farmaceutice din Uruguay.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Hosts the Mega Pharma production facility.", "State-of-the-art logistics center.", "Boosts pharmaceutical exports from Uruguay.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Beherbergt die Produktionsstätte von Mega Pharma.", "Hochmodernes Logistikzentrum.", "Fördert pharmazeutische Exporte aus Uruguay."],
@@ -1127,9 +1127,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "A high-tech nursery producing millions of eucalyptus seedlings for Uruguay's forestry industry." },
     descriptionAdvanced: {
       de: "Die UPM-Baumschule in Guichón ist ein technologisches Kraftzentrum am Beginn der forstwirtschaftlichen Wertschöpfungskette. Hier werden unter kontrollierten Bedingungen Millionen von Eukalyptus-Setzlingen gezüchtet, die später auf die Plantagen im ganzen Land verteilt werden. Durch den Einsatz moderner Klonierungstechniken und präziser Bewässerungssysteme wird sichergestellt, dass nur die widerstandsfähigsten und wachstumsstärksten Pflanzen überleben. Dieser Prozess ist die Grundlage für die hohe Effizienz der uruguayischen Zellstoffproduktion. Die Anlage schafft qualifizierte Arbeitsplätze in einer ländlichen Region und fördert das forstwirtschaftliche Know-how vor Ort. Sachkunde K3 — Pflanzenwachstum und moderne Landwirtschaft.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Csúcstechnológiás faiskola, amely több millió eukaliptusz palántát állít elő az uruguayi faipar számára. UPM Guichón Faiskola Paysandú megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O pepinieră de înaltă tehnologie care produce milioane de puieți de eucalipt pentru industria forestieră din Uruguay. Pepiniera UPM Guichón se află în departamentul Paysandú și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A high-tech nursery producing millions of eucalyptus seedlings for Uruguay's forestry industry. UPM Guichón Nursery lies in the Paysandú department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -1138,9 +1138,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Anlage nutzt ein geschlossenes Wasserkreislaufsystem, um Ressourcen zu schonen.",
         "Guichón hat sich durch diesen Standort zu einem wichtigen forstwirtschaftlichen Zentrum im Westen entwickelt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Növényeket biztosít az UPM cellulózgyárainak.", "Fejlett klónozási technikákat alkalmaz.", "Az erdészeti értéklánc fontos része.", "Népszerű fotótéma és turisztikai látványosság.", "Paysandú megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Furnizează plante pentru fabricile de celuloză UPM.", "Folosește tehnici avansate de clonare.", "Parte cheie a lanțului valoric forestier.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Paysandú.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["Supplies plants for UPM's pulp mills.", "Uses advanced cloning techniques.", "Key part of the forestry value chain.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Paysandú department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Liefert Pflanzen für die Zellstofffabriken von UPM.", "Verwendet fortschrittliche Klontechniken.", "Wichtiger Teil der Forstwirtschaftskette."],
@@ -1166,9 +1166,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       en: "An Atlantic port used for fishing, timber exports, and maritime tourism." },
     descriptionAdvanced: {
       de: "Der Hafen von La Paloma ist der einzige nennenswerte Tiefwasserzugang Uruguays direkt am offenen Atlantik. Ursprünglich als Fischereihafen konzipiert, wurde er in den letzten Jahrzehnten für den Umschlag von Holzprodukten und als Basis für den Seetourismus ausgebaut. Seine Lage macht ihn zu einem strategisch wichtigen Punkt für die Überwachung der uruguayischen Hoheitsgewässer und die Unterstützung der Marine. Trotz industrieller Ambitionen hat sich der Hafen seinen rustikalen Charme bewahrt und ist ein beliebter Ort für Spaziergänge am Meer. Die Modernisierung der Kaianlagen hat den Export von Holz aus den südöstlichen Wäldern des Landes erheblich erleichtert. Geographie K7 — Küstennutzung und Fischerei.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Atlanti-óceáni kikötő, amelyet halászatra, faexportra és tengeri turizmusra használnak. La Paloma Kikötője Rocha megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A kikötő stratégiai csomópont Uruguay külkereskedelmében és a Mercosur logisztikájában. Modern terminálok, raktárterületek és közlekedési kapcsolatok teszik hatékony átrakodóhellyé. A kikötői gazdaság számos munkahelyet teremt és erősíti a regionális fejlődést. Földrajz K7 — Gazdaság és közlekedési infrastruktúra. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un port la Atlantic utilizat pentru pescuit, exporturi de lemn și turism maritim. Portul La Paloma se află în departamentul Rocha și reprezintă un exemplu remarcabil al diversității Uruguayului. Portul este un nod strategic pentru comerțul exterior al Uruguayului și pentru logistica din spațiul Mercosur. Terminalele moderne, spațiile de depozitare și legăturile de transport fac din el un punct eficient de transbordare. Economia portuară creează numeroase locuri de muncă și consolidează dezvoltarea regională. Geografie K7 — Economie și infrastructură de transport.",
+      en: "An Atlantic port used for fishing, timber exports, and maritime tourism. Port of La Paloma lies in the Rocha department and is a notable example of Uruguay's diversity. The port is a strategic hub for Uruguay's foreign trade and for logistics within the Mercosur area. Modern terminals, storage facilities and transport connections make it an efficient transhipment point. The port economy generates many jobs and strengthens regional development. Geography Y7 — Economy and transport infrastructure. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -1177,9 +1177,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Es gibt Pläne, den Hafen weiter auszubauen, um ihn als Drehkreuz für die Öl- und Gasexploration vor der Küste zu nutzen.",
         "Das markante Leuchtfeuer in der Nähe sichert seit über einem Jahrhundert die Einfahrt in die Bucht."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Fontos a kézműves és ipari halászat szempontjából.", "A farakodás érdekében korszerűsítették.", "Rocha megyében található.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Important pentru pescuitul artizanal și industrial.", "Modernizat pentru manipularea lemnului.", "Situat în departamentul Rocha.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["Important for artisanal and industrial fishing.", "Upgraded for timber handling.", "Located in the Rocha department.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Wichtig für die handwerkliche und industrielle Fischerei.", "Wurde für die Holzverladung modernisiert.", "Befindet sich im Departement Rocha."],

@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "commercial-port-bissau-landmarks-v2",
+      "descriptionAdvanced": "Portul Comercial din Bissau (Porto Pidjiguiti) este unica poartă maritimă internațională a țării capabilă să opereze nave portcontainere. Din cauza lipsei oricărei conexiuni feroviare sau rutiere adecvate către țările vecine, acest port manevrează efectiv peste 85% din comerțul internațional al Guineei-Bissau, inclusiv exportul vital de nuci de caju spre India și Vietnam. Complexul, extins în ultimii ani cu macarale noi, suferă însă frecvent de pe urma birocrației lente și a blocajelor logistice, unde camioanele așteaptă zile întregi pentru a descărca. Apele estuarului Geba necesită dragare periodică, o operațiune costisitoare pentru stat, pentru a permite navelor mari de marfă să ancoreze în siguranță pe docurile aglomerate din inima capitalei. Geografie K8 — logistică portuară și export global.",
+      "factsAdvanced": [
+        "Gestionează aproape 85% din tot comerțul legal internațional al țării.",
+        "Exportul masiv de nuci de caju se desfășoară exclusiv prin docurile sale.",
+        "Cheiul său principal măsoară aproximativ 260 de metri lungime.",
+        "Supus unor operațiuni obligatorii de dragare din cauza acumulării de noroi în estuar.",
+        "Timpul de staționare a navelor de marfă este printre cele mai ridicate din Africa de Vest.",
+        "A fost modernizat recent cu un împrumut de zeci de milioane de dolari pentru noi macarale."
+      ]
+    },
+    {
+      "id": "bubaque-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Farul din Bubaque, o mică dar vitală structură de navigație, se înalță discret printre baobabi pe vârful nordic al Insulei Bubaque. Construit inițial de marina portugheză pentru a ghida vapoarele cu aburi prin labirintul periculos de recife coraliere și bancuri de nisip schimbătoare ale Arhipelagului Bijagós, el rămâne esențial și astăzi. Lumina sa semnalează feribotului din Bissau intrarea în siguranță spre canalul principal de acostare. Deși farul este în mare parte automatizat și lipsit de o prezență umană permanentă, scările sale metalice ruginite oferă, pentru cei suficient de curajoși, cea mai bună panoramă de la înălțime asupra apelor azurii ale oceanului, unde se pot observa adesea delfinii înotând pe lângă mal. Fizică K6 — optică și faruri.",
+      "factsAdvanced": [
+        "Funcționează ca un indicator esențial pentru traversarea periculoasă dinspre continent.",
+        "Structura sa este formată în principal din piloni de oțel și o cupolă de sticlă.",
+        "Sistemul de iluminare este acum alimentat complet de un panou solar de mici dimensiuni.",
+        "Insula Bubaque suferă de schimbări imense de nivel al apei la maree (peste 3 metri).",
+        "Farul nu deține un turn masiv de zidărie din cauza solului nisipos instabil.",
+        "Fasciculul său luminos poate fi văzut de la peste 10 mile nautice depărtare."
+      ]
+    },
+    {
+      "id": "bafata-bridge-landmarks-v2",
+      "descriptionAdvanced": "Podul Geba din Bafatá este una dintre cele mai spectaculoase opere de infrastructură rutieră din centrul țării, traversând apele lente și mâloase ale fluviului Geba. Având în vedere că, istoric, râul a reprezentat o barieră naturală greu de trecut care a tăiat comunicarea între triburile sudice și cele nordice, podul modern acționează ca un canal vital de unificare. În sezonul uscat, râul de sub pod devine suficient de îngust încât băieții locali se adună sub arcele de beton pentru a prinde pești de apă dulce cu mâinile goale, dar în sezonul ploios musonic, apele furioase amenință frecvent pilonii. La apus, pasarela podului devine un loc popular de promenadă pentru tinerii din oraș, care urmăresc canoanele trecând pe sub ei. Geografie K7 — bariere naturale și poduri.",
+      "factsAdvanced": [
+        "Asigură conexiunea națională esențială dintre regiunile vestice și estul izolat.",
+        "Structura sa este construită integral din piloni masivi și grinzi de beton armat.",
+        "Înlocuiește vechiul sistem lent și periculos de feriboturi cu cablu.",
+        "Traversează Râul Geba în punctul unde cursul de apă este semnificativ strangulat.",
+        "A rezistat fără daune structurale masive de la construcția sa post-independență.",
+        "Este o arteră cheie pentru sute de camioane încărcate cu arahide zilnic toamna."
+      ]
+    },
+    {
+      "id": "gabu-great-mosque-landmarks-v2",
+      "descriptionAdvanced": "Marea Moschee din Gabú este cel mai prestigios centru religios și arhitectural islamic din regiunea de est a Guineei-Bissau, dominând peisajul vizual cu minaretele sale înalte și cupolele verzi sau albe strălucitoare, culorile specifice profetului. Deoarece orașul Gabú este capitala de facto a etniilor majoritar musulmane (Fula și Mandinka), această moschee acționează ca un magnet uriaș în timpul sărbătorilor de Eid al-Fitr și Eid al-Adha, când zeci de mii de credincioși se revarsă în străzi pentru a se ruga. Deși designul său este modern, influențat de arhitectura maură nord-africană și finanțat din donații arabe, moscheea continuă să găzduiască un sistem profund de educație tradițională coranică, transmițând învățăturile liderilor spirituali locali (imami). Religie K7 — islamul vest-african.",
+      "factsAdvanced": [
+        "Cea mai mare și importantă moschee funcțională din estul țării.",
+        "Capacitatea curții interioare depășește câteva mii de credincioși la rugăciunile de Vineri.",
+        "Arhitectura a fost parțial sponsorizată de state și asociații din Orientul Mijlociu.",
+        "Peste 95% din locuitorii orașului Gabú respectă și practică islamul sunnit.",
+        "Minaretele oferă o acoperire vocală uriașă pentru chemarea la rugăciune (adhan).",
+        "Baza moscheii găzduiește și săli de clasă (madrassa) pentru copiii mici."
+      ]
+    },
+    {
+      "id": "gabu-catholic-church-landmarks-v2",
+      "descriptionAdvanced": "Biserica Catolică din Gabú stă ca o curiozitate arhitecturală și o mică redută spirituală într-o regiune predominant și profund islamică. Proiectată în stilul sobru specific misiunilor coloniale din anii '50, biserica prezintă o cruce uriașă și o mică capelă din cărămidă tencuită, contrastând clar cu minaretele orașului. Ea a fost construită inițial pentru a deservi garnizoanele militare portugheze și administratorii coloniali, însă astăzi servește mica minoritate creștină, formată în general din funcționari de stat, imigranți și cadre didactice mutați aici din capitala Bissau. Ceea ce este remarcabil este respectul reciproc dintre comunități: biserica nu a fost vizată niciodată de violențe religioase, reflectând spiritul național de toleranță (Guineea-Bissau fiind celebră pentru o coexistență interconfesională extrem de pașnică). Sociologie K6 — toleranța religioasă.",
+      "factsAdvanced": [
+        "Unul dintre foarte puținele lăcașuri de cult creștine mari din regiunea estică Gabú.",
+        "A fost clădită inițial exclusiv pentru coloniștii și militarii portughezi.",
+        "Comunitatea sa actuală numără doar câteva sute de practicanți permanenți.",
+        "Se distinge prin pereții vopsiți simplu și un clopotniță singular, neornamentat.",
+        "Conduce programe umanitare și o mică școală privată în oraș.",
+        "Sărbătorile sale (Crăciunul) sunt adesea onorate vizual chiar și de vecinii musulmani."
+      ]
+    },
+    {
+      "id": "bissau-city-hall-landmarks-v2",
+      "descriptionAdvanced": "Primăria Orașului Bissau (Câmara Municipal de Bissau), amplasată pe străzile pitorești ale cartierului Bissau Vechi, este o capodoperă minoră a arhitecturii administrative din epoca colonială târzie. Clădirea se remarcă printr-o fațadă elegantă, cu balcoane ample din fier forjat și un acoperiș acoperit de țigle de teracotă, sugerând un amestec de stil iberic și ajustări tropicale pentru o ventilație mai bună a aerului. De la balcoanele sale, numeroși primari și lideri, inclusiv președinții independenței, au ținut discursuri istorice maselor adunate în piațeta de dedesubt. Astăzi, deși zidăria prezintă inevitabilele semne ale uzurii din pricina umidității și a lipsei fondurilor pentru conservare, Primăria continuă să orchestreze cele mai importante servicii publice ale capitalei. Arhitectură K6 — clădiri administrative coloniale.",
+      "factsAdvanced": [
+        "Găzduiește centrul guvernării municipale a capitalei țării.",
+        "Construită la mijlocul secolului XX, domină centrul vechi (Bissau Velho).",
+        "Clădirea folosește verande uriașe pentru a diminua impactul soarelui ecuatorial.",
+        "Păstrează podele din lemn masiv și uși lamelare specifice designului luso-tropical.",
+        "Piațeta din fața clădirii a fost scena a zeci de proteste și manifestații sindicale.",
+        "Culoarea fațadei se schimbă adesea odată cu guvernele (în mod tradițional roz pal sau galben)."
+      ]
+    },
+    {
+      "id": "january-20-monument-landmarks-v2",
+      "descriptionAdvanced": "Monumentul 20 Ianuarie, situat central în Bissau, comemorează un moment întunecat și transformator al națiunii: asasinarea brutală a lui Amílcar Cabral pe 20 ianuarie 1973 în Guineea-Conakry, eveniment ce aproape a deraiat lupta de eliberare națională. Acest obelisc tăcut și sobru este locul tradițional de pelerinaj civic; în fiecare an, în această zi de doliu, veteranii revoluției (comandanții din păduri), politicienii și tinerii se reunesc aici pentru a depune coroane de flori și a asculta discursurile despre idealurile fondatorului națiunii (educație, anti-imperialism, solidaritate africană). Structura în sine evită ornamentarea excesivă, preferând un minimalism modern care invită vizitatorii la reflecție personală asupra costului suveranității. Istorie K8 — martirii mișcării de eliberare.",
+      "factsAdvanced": [
+        "Dedicat zilei de 20 ianuarie 1973, când liderul Amílcar Cabral a fost asasinat.",
+        "Are o structură simplă de obelisc/stâlp comemorativ din beton solid.",
+        "Fiecare 20 Ianuarie este Ziua Eroilor Naționali, zi liberă oficială în Guineea-Bissau.",
+        "Situat în apropierea arterelor principale guvernamentale ale orașului.",
+        "Asasinarea pe care o marchează a fost orchestrată cu sprijinul poliției secrete PIDE.",
+        "Monumentul subliniază că lupta a continuat cu succes și după moartea liderului suprem."
+      ]
+    },
+    {
+      "id": "new-national-assembly-landmarks-v2",
+      "descriptionAdvanced": "Noua Clădire a Adunării Naționale Populare, adesea confundată cu complexul guvernamental mai vechi, este un testament modern al asistenței de infrastructură chineză în inima politicii Bissau-ului. Inaugurată recent pentru a găzdui parlamentarii, clădirea este un bastion de oțel și sticlă care contrastează masiv cu arhitectura degradată din restul orașului. Sala sa de plen, echipată cu tehnologie de vot electronic, scaune acoperite cu piele și un sistem puternic de aer condiționat centralizat (foarte rar în țară), reprezintă speranța unei democrații funcționale după zeci de ani de lovituri de stat militare. Curtea din fața noii adunări a devenit rapid spațiul preferat pentru jurnaliștii care așteaptă deciziile sau destituirile fulgerătoare ale politicienilor. Educație civică K7 — instituțiile democrației parlamentare.",
+      "factsAdvanced": [
+        "A fost construită pentru a găzdui în condiții moderne cei 102 deputați ai țării.",
+        "Proiectată și finanțată ca un cadou de stat din partea Republicii Populare Chineze.",
+        "Dispune de singura sală de plen cu dotări electronice pentru numărarea voturilor din stat.",
+        "A fost locația unora dintre cele mai aprinse dispute constituționale din ultimul deceniu.",
+        "Sistemul uriaș de generatoare asigură funcționarea neîntreruptă a ședințelor parlamentare.",
+        "Include un imens covor roșu și spații formale pentru vizitele președinților africani."
+      ]
+    },
+    {
+      "id": "supreme-court-bissau-landmarks-v2",
+      "descriptionAdvanced": "Sediul Curții Supreme de Justiție a Guineei-Bissau, o clădire cu o fațadă clasică portugheză din Bissau, este vârful absolut al sistemului juridic al națiunii. Spre deosebire de forfota zgomotoasă a piețelor și a porturilor, zona din fața Curții Supreme păstrează un aer de sobrietate, impunând un anumit respect. Curtea joacă rolul de mediator final în nenumărate crize electorale, când diverse partide își contestă victoria. În ciuda arhitecturii sale care exprimă stabilitatea legii, Curtea a suferit frecvent intruziuni violente: judecătorii au fost amenințați sau chiar reținuți în perioadele loviturilor de stat militare. Astfel, curtea stă ca un simbol al luptei neîntrerupte dintre stăpânirea legii civile (rule of law) și puterea militară neoficială. Educație civică K8 — sistemul juridic și instanțele supreme.",
+      "factsAdvanced": [
+        "Este cea mai înaltă autoritate de apel și interpretare a legii în statul guineean.",
+        "Clădirea istorică din Bissau Vechi are o estetică solidă, specifică tribunalelor iberice.",
+        "Validează legal și definitiv rezultatele controversatelor alegeri prezidențiale.",
+        "Sistemul de drept aplicat aici este derivat masiv din sistemul civil portughez.",
+        "Tribunalul a fost dizolvat forțat temporar în timpul crizelor militare (ex: 2012).",
+        "Adăpostește arhive fizice vitale cu documente juridice de dinainte de 1974."
+      ]
+    },
+    {
+      "id": "bandim-fishing-port-landmarks-v2",
+      "descriptionAdvanced": "Portul de Pescuit Bandim este epicentrul neoficial și brutal de autentic al industriei piscicole artizanale din Bissau. În contrast total cu portul comercial al containerelor, Bandim este o încrengătură de bărci colorate ('pirogues'), debarcadere de noroi, gheață topită și zeci de femei ('bideiras') care negociază la sânge prețul capturilor proaspete. Aerul este saturat cu fumul lemnului de mangrove arzând sub zecile de afumători care pregătesc faimosul pește 'bonga', esențial în bucătăria națională. Este o structură economică vitală, furnizând principala sursă de proteine pentru locuitorii săraci ai capitalei, dar care se luptă disperat cu problema igienei, lipsei frigiderelor și a pescuitului ilegal offshore operat de flotele asiatice sau europene care le golește peștele din larg. Geografie K7 — industria peștelui afumat și pescuitul.",
+      "factsAdvanced": [
+        "Unul dintre cele mai mari și zgomotoase porturi dedicate strict pescuitului din pirogi.",
+        "Preia și prelucrează mii de kilograme de pește ('bonga' sau sardine) zilnic.",
+        "Femeile afumătoare folosesc sute de tone de lemn de mangrove anual ca sursă de foc.",
+        "Piața sa operează de obicei la prima oră a dimineții și seara târziu, urmând fluxul mareei.",
+        "Pirogile din port au frecvent motoare japoneze și echipaje de 5-10 tineri.",
+        "Zona suferă de mari depozite de resturi organice neprocesate, atrăgând păsări de pradă maritimă."
+      ]
+    },
+    {
+      "id": "ponta-varela-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Farul de la Ponta Varela, o structură de calibru nautic, se înalță la extremitatea nord-vestică a coastelor țării, acolo unde oceanul se împletește cu estuarele puternice. Fost bastion al controlului naval portughez, menit să prevină naufragiile frecvente pe bancurile de nisip care maschează intrarea în Casamance, structura este astăzi profund măcinată de briza sărată a oceanului și de lipsa fondurilor de întreținere. Spre deosebire de alte repere izolate, farul din Varela oferă vizitatorilor o vizibilitate incredibilă peste plajele virgine, însă accesul la turn este formal restricționat (și nesigur din punct de vedere structural). Zidurile sale de bază au fost parțial erodate de curenții oceanici tot mai puternici generați de încălzirea globală, devenind un martor al instabilității coastelor de nisip. Fizică K6 — semnalizare vizuală și eroziune marină.",
+      "factsAdvanced": [
+        "Reperează cel mai periculos promontoriu nordic pentru navele de coastă atlantice.",
+        "Baza sa din beton greu suferă vizibil din cauza creșterii bruște a nivelului mării.",
+        "Păstrează lentile optice (sistem Fresnel) din fabricația colonială originală, dar inoperabile.",
+        "Este poziționat izolat, aproape de ultimele păduri de pini de coastă (Casuarina).",
+        "Scările interne metalice sunt masiv corodate, făcând ascensiunea o provocare.",
+        "Locația are un nivel uluitor de umiditate sărată pulverizată de valurile oceanice."
+      ]
+    },
+    {
+      "id": "cacheu-river-bridge-landmarks-v2",
+      "descriptionAdvanced": "Podul peste Râul Cacheu (Ponte de São Vicente, numit de localnici Ponte de Cacheu) este a doua cea mai monumentală traversare rutieră din nordul Guineei-Bissau, finalizată abia cu câțiva ani în urmă cu fonduri internaționale (Banca Africană de Dezvoltare). Timp de secole, trecerea acestui estuar formidabil (lat de peste 600 de metri) a depins exclusiv de feriboturi lente, periculoase și imprevizibile, limitând drastic comerțul spre nord, spre Senegal. Astăzi, structura de grinzi din beton precomprimat permite fluxul liber de camioane, scurtând cu ore bune timpul de transport pentru mărfurile agricole (caju, orez). Odată cu ridicarea podului, o serie de mici afaceri și vânzători ambulanți s-au mutat la capetele sale, oferind pește afumat călătorilor. Geografie K7 — infrastructura de beton și comerțul rutier.",
+      "factsAdvanced": [
+        "Înlocuiește vechiul sistem de barje și feriboturi manuale sau vechi.",
+        "Traversează una dintre cele mai largi secțiuni interne ale Râului Cacheu.",
+        "Măsoară aproape 700 de metri lungime totală, un efort de inginerie major.",
+        "Finanțat printr-un uriaș împrumut regional pentru dezvoltarea coridoarelor vest-africane.",
+        "Structura este concepută pentru a suporta inundațiile musonice majore ale estuarului.",
+        "A redus la câteva minute o traversare care, înainte, dura adesea întreaga noapte."
+      ]
+    },
+    {
+      "id": "antula-sports-complex-landmarks-v2",
+      "descriptionAdvanced": "Complexul Sportiv din Antula, aflat în perimetrul unuia dintre cele mai aglomerate și populare cartiere periferice din nordul capitalei Bissau, este inima sportului de masă juvenil din oraș. Spre deosebire de stadionul național formal, Antula este un teren de pământ nisipos dur, unde praful se ridică în nori portocalii sub picioarele a sute de adolescenți care joacă fotbal descălțați sau cu ghete vechi. Aici se desfășoară turneele neoficiale 'Navetanes', competiții de cartier extrem de fierbinți care blochează complet ritmul vieții în sezonul uscat, descoperind ocazional talente brute care ajung să semneze cu mari cluburi din Portugalia (cum ar fi Porto sau Sporting). Terenul ilustrează pasiunea nestăvilită a africii pentru fotbal, dincolo de absența totală a ierbii verzi. Sociologie K6 — sportul urban, sărăcia și speranța.",
+      "factsAdvanced": [
+        "Terenul său de joc este format exclusiv din pământ și pietriș bătătorit, fără gazon.",
+        "Reprezintă baza principală pentru faimoasele ligi fotbalistice de vară numite 'Navetanes'.",
+        "Turneele atrag adesea sponsori locali informali sau politicieni în căutare de popularitate.",
+        "Scouți ai agenților de fotbal din Europa de Sud vin aici periodic pentru a observa jucători.",
+        "Meciurile sunt acompaniate aproape mereu de muzică de tobe Kora live de pe margine.",
+        "Jucătorii se adaptează uluitor să cadă fără protecție pe suprafața lateritică dură."
+      ]
+    },
+    {
+      "id": "portuguese-cultural-center-landmarks-v2",
+      "descriptionAdvanced": "Centrul Cultural Portughez (Centro Cultural Português em Bissau) operează ca un pilon fundamental pentru conservarea limbii oficiale și a patrimoniului lusofon în statul african, fiind un institut amplasat vizavi de vechile porturi. Este esențial de înțeles că marea majoritate a cetățenilor Guineei-Bissau vorbesc creola locală (Kriol) în viața de zi cu zi, portugheza standard fiind adesea limitată doar la școli și documente de stat. Centrul oferă cursuri avansate de limbă portugheză, esențiale pentru tinerii care doresc să emigreze, și prezintă o bibliotecă excelentă. Găzduind dezbateri, lansări de carte ale autorilor guineeni și portughezi deopotrivă (care publică în portugheză), el joacă un rol diplomatic subtil, încercând să reclădească legăturile de prietenie tăiate de brutalul război anticolonial de acum o jumătate de secol. Sociologie K7 — limba oficială versus limba creolă.",
+      "factsAdvanced": [
+        "Principalul institut al Institutului Camões în Guineea-Bissau.",
+        "Clădirea adăpostește una dintre cele mai vaste colecții de literatură lusofonă din țară.",
+        "Cursurile de portugheză de aici sunt suprasolicitate de tinerii pregătind burse la Lisabona.",
+        "Facilitează examenele oficiale de limbă pentru emigrarea în Portugalia sau Brazilia.",
+        "Găzduiește mici expoziții cu artiști post-coloniali, unind istoriile ambelor țări.",
+        "Reprezintă zona principală a diplomației soft a statului portughez ('soft power')."
+      ]
+    },
+    {
+      "id": "canchungo-church-landmarks-v2",
+      "descriptionAdvanced": "Biserica din Canchungo este o structură catolică istorică emblematică pentru nordul țării, ridicată în timpul apogeului expansiunii urbane din fosta așezare Teixeira Pinto. Cu un turn ascuțit de formă pătrată, pereți vopsiți în galben pai și geamuri simple, se află de zeci de ani chiar în mijlocul pieței prăfuite a orașului, un contrast total cu larma vânzătorilor și camioanelor de caju de afară. Biserica a rezistat tranziției post-coloniale datorită faptului că preoții misionari au ales să rămână și să educe copiii din satele de etnie Manjaco chiar și în timpul conflictului, creând o legătură de încredere rară. Interiorul este caracterizat printr-o lipsă voită de opulență (fără aur sau statui fine), folosind bănci din lemn tropical lăcuit local, reflectând realitățile aspre ale economiei enoriașilor săi. Istorie K6 — adaptarea misionarilor în zone rurale.",
+      "factsAdvanced": [
+        "Este clădirea dominantă pe înălțime a întregului centru urban Canchungo.",
+        "A fost construită cu muncă comunitară gratuită în anii '40 sub coordonarea parohiei.",
+        "Turnul clopotniței nu dispune de clopote metalice grele din Europa, ci clopote improvizate.",
+        "Rămâne un simbol cultural central chiar și pentru tribul majoritar animist Manjaco din jur.",
+        "Acoperișul său are structură din lemn scump (mahon) neatins de termite.",
+        "Este centrul liturghiilor cântate parțial în limba portugheză și parțial în Kriol."
+      ]
+    },
+    {
+      "id": "orango-nilpferde-life-v2",
+      "descriptionAdvanced": "Sanctuarul Hipopotamilor de Apă Sărată de pe Insula Orango este o minune ecologică rară la nivel planetar, aflată în Parcul Național Orango (Arhipelagul Bijagós). Acești hipopotami (Hippopotamus amphibius) și-au modificat biologic comportamentul din cauza mediului limitat în surse de apă dulce: ei petrec mare parte din zi hrănindu-se sau scufundându-se direct în estuarele sărate și valurile oceanului, o priveliște complet atipică pentru această specie de obicei continentală. Vizitarea lor se face pe jos prin savana înaltă, alături de ghizi Bijagós care cunosc potecile secrete ale animalelor. Seceta extremă amenință supraviețuirea lor, deoarece lagunele dulci de pe insulă în care aceștia trebuie să își curețe pielea de sare seacă tot mai des din cauza schimbărilor climatice, crescând conflictul cu fermierii de orez. Biologie K8 — adaptarea mamiferelor la apa sărată.",
+      "factsAdvanced": [
+        "Sunt singurii hipopotami din lume cunoscuți că înoată regulat în apele Oceanului Atlantic.",
+        "Populația izolată de pe insulă este estimată la sub 200 de exemplare supraviețuitoare.",
+        "Animalele ies adesea pe plajele de nisip la apusul soarelui.",
+        "Prezintă o piele ușor diferită de rudele de continent, o adaptare la iritația apei de mare.",
+        "Secarea lagunelor dulci de pe Orango le pune în pericol capacitatea de a se spăla.",
+        "Se plimbă frecvent prin culturile mici ale tribului Bijagós, generând pagube agrare majore."
+      ]
+    },
+    {
+      "id": "cantanhez-schimpansen-life-v2",
+      "descriptionAdvanced": "Habitatul Cimpanzeilor din Parcul Național Pădurea Cantanhez (în sudul țării, regiunea Tombali) găzduiește una dintre ultimele populații vitale de cimpanzei de vest (Pan troglodytes verus) din toată Africa. Ceea ce este de-a dreptul uimitor aici este că acești cimpanzei nu trăiesc exclusiv într-o junglă sălbatică izolată, ci coexistă (adesea la câțiva metri distanță) cu comunitățile umane. Ei culeg adesea fructe de pe ramurile pomilor din sate sau traversează drumurile de pământ dimineața. Cu toate acestea, această coexistență pașnică devine tot mai tensionată: fermierii continuă defrișarea ilegală a pădurilor primare pentru a face loc livezilor de caju, reducând masiv teritoriul maimuțelor. ONG-urile derulează programe disperate de educație, explicând fermierilor că veniturile din eco-turism generate de observarea cimpanzeilor pot fi mai profitabile decât nucile. Biologie K8 — primatele și pierderea habitatului forestier.",
+      "factsAdvanced": [
+        "Habitatul protejează specia rară 'Cimpanzeul Occidental' (Pan troglodytes verus).",
+        "Se estimează că în Cantanhez locuiesc între 400 și 800 de cimpanzei sălbatici.",
+        "Grupul etnic Nalu consideră maimuțele spirite ale pădurii și nu le vânează tradițional.",
+        "Primatele de aici folosesc roci și bețe groase drept unelte pentru a sparge nucile.",
+        "Defrișarea pentru caju rămâne principala lor cauză de extincție aici.",
+        "Există organizații care angajează locuitorii drept pădurari pentru a opri braconajul."
+      ]
+    },
+    {
+      "id": "poilao-schildkroeten-life-v2",
+      "descriptionAdvanced": "Insula Poilão, cea mai sudică piatră de ancorare din Parcul Național Maritim João Vieira și Poilão (Arhipelagul Bijagós), reprezintă cel mai important site de cuibărit din Africa pentru Țestoasa Verde (Chelonia mydas) și al treilea ca importanță din lume. În mod remarcabil, insula de mici dimensiuni este complet nelocuită uman, neavând apă dulce, fiind considerată zonă sacră ('Ilha Sagrada') de către poporul Bijagó. Tradiția lor milenară interzice strict vărsarea de sânge (inclusiv uciderea animalelor) sau petrecerea nopții aici de către neinițiați, ceea ce a asigurat supraviețuirea țestoaselor împotriva braconajului feroce care le-a exterminat în alte țări vecine. Pe timpul nopților din perioada musonului (iulie-octombrie), mii de femele masive urcă simultan pe nisipul vulcanic pentru a depune zeci de mii de ouă. Biologie K7 — protecția țestoaselor marine și zone sacre.",
+      "factsAdvanced": [
+        "Este al treilea cel mai important punct global de cuibărit pentru Țestoasa Verde.",
+        "Se estimează că între 7.000 și 10.000 de femele depun ouă aici anual.",
+        "Legile animiste Bijagó o declară 'insulă sacră', protejând-o de așezările umane de secole.",
+        "Femelele mature pot cântări peste 150 kg la momentul venirii pe plajă.",
+        "Puii proaspăt ieșiți devin prada ușoară pentru păsările fregate și crabii fantomă.",
+        "Este strict interzisă construirea de lumini artificiale pe insulă (deoarece ar dezorienta puii)."
+      ]
+    },
+    {
+      "id": "joao-vieira-voegel-life-v2",
+      "descriptionAdvanced": "Coloniile de Păsări Marine de pe Insulele João Vieira și Meio formează inima unui parc național maritim protejat, un adevărat paradis neperturbat al ornitologiei africane. Aici, bancurile vaste de noroi care apar la reflux, combinate cu curenții bogați în plancton, susțin una dintre cele mai mari densități de pești pelagici mici din regiune. Această resursă atrage o aglomerare masivă de pelicani, rândunici de mare regale (Sterna maxima) și egrete. Pentru rândunicile de mare care migrează, insulele de nisip oferă un refugiu sigur de iarnă împotriva prădătorilor tereștri precum șerpii și macacii. Turismul aici este practicat sub reguli stricte de control: vizitatorii au voie să debarce doar pe culoare specificate pentru a evita strivirea miilor de cuiburi de ouă care zac direct expuse pe nisipul fierbinte. Biologie K6 — cuibărire pe nisip și ecosisteme marine izolate.",
+      "factsAdvanced": [
+        "Sunt insule vulcanice și nisipoase lipsite total de așezări umane permanente.",
+        "Sute de mii de rândunici de mare (Terns) folosesc insula Meio exclusiv pentru a depune ouă.",
+        "Păsările marine depun ouăle cu pete negre direct pe nisip, fără a construi un cuib de crengi.",
+        "Ecosistemul oceanic atrage mii de pelicani africani în lunile de migrație de iarnă.",
+        "Bancurile vaste de noroi la reflux expun miliarde de crustacee pentru păsările limicole.",
+        "Sistemele de rangeri marini patrulează zona pentru a descuraja pescarii ilegali senegalezi."
+      ]
+    },
+    {
+      "id": "cufada-voegel-life-v2",
+      "descriptionAdvanced": "Sanctuarul Avifaunistic din Lagunele Cufada (Parque Natural das Lagoas de Cufada) din regiunea Quinara deține cea mai mare suprafață de apă dulce (nemareică) din întreaga țară, fiind un magnet hidrologic uriaș în inima pădurii dense. Laguna imensă este considerată o comoară de situl convenției Ramsar. Apa sa puțin adâncă se umple cu vegetație de lotus și stuf, creând mediul de hrănire ideal pentru mii de păsări migratoare eurasiatice și africane (precum berze, ibis, stârci, vulturi pescari africane și rațe sălbatice). Pentru poporul musulman Beafada, lacul este o sursă sacră și de pescuit moderat, ei folosind canoe din lemn cioplit. Extinderea ilegală a grădinilor de legume pe marginea lagunei a început să pompeze chimicale periculoase în apele limpezi, punând păsările în pericol de intoxicare. Biologie K7 — lagune de apă dulce și migrația euroasiatică.",
+      "factsAdvanced": [
+        "Include trei lacuri de apă dulce mari: Cufada, Bionra și Bedasse.",
+        "Lacul Cufada este desemnat ca Sit Ramsar (Zonă Umedă de Importanță Internațională).",
+        "Primește stoluri gigantice de păsări din Europa (paleartice) care fug de iarna nordică.",
+        "În apele sale trăiesc o populație formidabilă de crocodili africani cu bot scurt.",
+        "Flora suprafeței acvatice este acoperită cu nuferi gigantici și ferigi de apă.",
+        "Pescuitul comercial la scară largă este strict interzis în perimetrul lagunelor centrale."
+      ]
+    },
+    {
+      "id": "cacheu-seekuh-life-v2",
+      "descriptionAdvanced": "Sanctuarul Lamantinului African (Trichechus senegalensis) din Parcul Național Râul Cacheu oferă adăpost unuia dintre cele mai evazive, blânde și pe cale de dispariție mamifere marine de pe continent. Estuarul Râului Cacheu, flancat de peste 88.000 de hectare de labirinturi impenetrabile de mangrove, formează mediul acvatic opac și cu flux lent perfect pentru aceste 'vaci de mare'. Lamantinii sunt ierbivori masivi (pot ajunge la 500 kg) care se hrănesc cu ierburi marine și rădăcini de mangrove noaptea. Deși nu sunt prădători, numărul lor s-a prăbușit brutal din cauza braconierilor care îi ucid pentru carne și pentru credința falsă că oasele lor au proprietăți de vindecare magică, dar și datorită sufocării accidentale în plasele gigantice de nailon lăsate ilegal de pescari. Biologie K8 — mamifere marine ierbivore.",
+      "factsAdvanced": [
+        "Protejează specia rară Trichechus senegalensis (Lamantinul Vest-African).",
+        "Mlaștinile și canalele laterale (bolanhas) servesc ca bazin de hrănire excelent noaptea.",
+        "Apele estuarului Cacheu sunt noroioase (turbide), ascunzând mamiferele vizual.",
+        "Lamantinii pot consuma până la 10-15% din greutatea lor în alge marine zilnic.",
+        "Sufocarea accidentală în plase de pescuit industriale este a doua lor cauză de moarte.",
+        "Folclorul tradițional consideră adesea lamantinul drept spirit al apei (sirenă)."
+      ]
+    },
+    {
+      "id": "bijagos-delfine-life-v2",
+      "descriptionAdvanced": "Delfinii Arhipelagului Bijagós (în special Delfinul cu Cocoasă de Atlantic – Sousa teuszii) se numără printre cele mai puțin studiate, dar fascinante mamifere marine ale Africii de Vest. Preferând strict apele calde, puțin adânci, care se întrepătrund cu estuarele cu mangrove, acești delfini evită apele adânci ale oceanului deschis. Locuitorii de pe insulele precum Orango și Bubaque îi zăresc deseori dimineața vânturând apele la mai puțin de 50 de metri de plajă, unde vânează bancuri de chefal și sardine propulsate de curenții de reflux masivi (maree ce variază cu până la 4 metri). Ecosistemul lor fragil stă sub amenințarea dezvoltării turismului necontrolat (inclusiv plimbări agresive cu bărci cu motor care le tulbură sonarul biologic) și a supra-pescuitului, deși legile tribale antice de aici le interzic prinderea. Biologie K7 — cetacee costiere și ecosisteme de mică adâncime.",
+      "factsAdvanced": [
+        "Habitat preferat al delfinului extrem de rar 'Atlantic Humpback' (Sousa teuszii).",
+        "Mamiferele evită complet oceanul deschis, vânând exclusiv în limitele canalelor insulelor.",
+        "Navighează printre canale folosindu-se de curenții violenți de flux/reflux ai mareelor.",
+        "Se estimează că mai există sub o mie de exemplare ale acestei specii specifice în lume.",
+        "Turismul local necontrolat (bărci cu viteză mare) le perturbă acut ecoulocația (sonarul).",
+        "Nu intră în vizorul vânătorii indigene Bijagós datorită unui mare respect mitologic."
+      ]
+    },
+    {
+      "id": "bafata-cashew-life-v2",
+      "descriptionAdvanced": "Plantațiile de nuci de caju din regiunea Bafatá formează inima absolută a economiei de stat a Guineei-Bissau, transformând complet nu doar relieful, ci și organizarea socială a milioane de oameni. Întinderi masive de savană forestieră din această regiune deluroasă au fost rase în anii '90 pentru a face loc acestui 'aur verde'. Recoltarea nucilor, care are loc în sezonul fierbinte din primăvară (martie-mai), este un proces care adună comunități întregi, golind practic școlile, deoarece chiar și copiii ajută la culegerea și spargerea 'mărului de caju'. Un fenomen socio-economic fascinant îl reprezintă utilizarea falsului fruct cărnos (mărul pseudo-fruct), extrem de perisabil, pentru a distila o băutură alcoolică artizanală puternică (vinul de caju), din cauză că statul nu deține uzine de stoarcere a sucurilor, rezultând o risipă alimentară colosală anuală. Geografie K8 — culturile de export monoculturale.",
+      "factsAdvanced": [
+        "Guineea-Bissau este printre primii 6 producători de caju (anacard) la nivel mondial.",
+        "Regiunea Bafatá concentrează cele mai masive și profitabile plantații de anacardieri.",
+        "O singură nucă de caju crește sub un pseudo-fruct colorat galben/roșu asemănător mărului.",
+        "Peste 80% din forța de muncă națională (inclusiv copii) lucrează la recoltă primăvara.",
+        "Aproape 95% din pseudo-fructul suculent este fie lăsat să putrezească, fie distilat în alcool.",
+        "Nucile crude, în coajă toxică, sunt exportate în vrac spre Asia, nearuncând nicio valoare adăugată aici."
+      ]
+    },
+    {
+      "id": "oio-erdnuss-life-v2",
+      "descriptionAdvanced": "Fermele de Arahide (Mancarra) din regiunea Oio reprezintă cea mai veche cultură de export stabilă a țării, o moștenire colonială care a precedat nebunia nucilor de caju. Pe solurile roșii lateritice, fermierii Mandinka și Fula practică o agricultură de subzistență dură: la debutul musonului, ei folosesc arat manual sau forța vitelor zebu pentru a semăna semințele, planta care își împinge ulterior păstăile sub pământ pentru a se coace. În perioada seacă, satele din Oio devin imense depozite de uscare, unde femeile treieră tufele smulse de arahide pe pături uriașe din plastic în mijlocul drumului. Spre deosebire de caju, arahidele de aici nu sunt majoritar exportate brut, ci intră masiv în consumul local, stând la baza unei supe groase și fierbinți de pui și unt de arahide, considerată mâncare de bază. Biologie K6 — plante leguminoase de pământ.",
+      "factsAdvanced": [
+        "Până în 1990, arahidele au fost sursa numărul unu a exporturilor agrare.",
+        "Planta este o leguminoasă (Arachis hypogaea) a cărei recoltă se coace exclusiv sub pământ.",
+        "Aria Oio deține cele mai potrivite soluri argilo-nisipoase pentru penetrarea tuberculilor.",
+        "Femeile se ocupă cu separarea arahidelor și transformarea lor în pastă groasă nutritivă.",
+        "Terenurile sărăcesc rapid dacă arahida este plantată ani consecutivi fără rotație cu sorg.",
+        "Plantațiile de arahide au suferit o reducere masivă a suprafeței în favoarea anacardierilor."
+      ]
+    },
+    {
+      "id": "tombali-reis-life-v2",
+      "descriptionAdvanced": "Terasele de Orez din Regiunea Tombali (sudul extrem) demonstrează cel mai spectaculos exemplu de inginerie hidraulică tradițională din Africa de Vest. Triburile Balanta (cunoscute regional ca marii experți ai apei) au transformat mlaștinile de mangrove sărate aflate de-a lungul estuarelor Atlanticului în imense câmpuri de cultură intensivă denumite 'bolanhas de água salgada'. Munca de o generație a dus la ridicarea a zeci de kilometri de diguri groase din noroi argilos folosind o sapă specială din lemn greu ('arado'). Digurile rețin apa dulce din abundența musonilor equatoriali extremi (aici cad peste 2500 mm anual), și spală lent salinitatea lăsată de mareea oceanului. Fără mașinării, comunitatea izbutește să transforme un sol letal plantelor într-un paradis verde care asigură orezul indispensabil vieții zilnice pe o rază de sute de kilometri. Geografie K7 — inginerie agricolă fără mecanizare.",
+      "factsAdvanced": [
+        "Etnia Balanta din Tombali deține o măiestrie unică în obținerea 'bolanhas' de orez.",
+        "Sistemul implică diguri complicate, construite exclusiv prin forță manuală.",
+        "Agricultorii spală artificial solul cu apa musonică pentru a diminua salinitatea apei de mare.",
+        "Musonul din regiunea Tombali (iunie-octombrie) aduce cele mai masive ploi din Guineea-Bissau.",
+        "Munca în orezării în apă stătătoare generează rate extrem de mari de incidență a malariei.",
+        "Păsările de apă, inclusiv crocodili, locuiesc deseori în rețeaua digurilor pline cu orezării."
+      ]
+    }
+  ]
+}

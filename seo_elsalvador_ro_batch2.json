@@ -1,0 +1,129 @@
+{
+  "lang": "ro",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soyapango-cities-v2",
+      "descriptionAdvanced": "Soyapango este un hub industrial vital al zonei metropolitane San Salvador, fiind recunoscut pentru concentrarea sa mare de fabrici și unități de producție. Centrul comercial Plaza Mundo transformă orașul într-o destinație majoră pentru cumpărături și divertisment, atrăgând mii de vizitatori zilnic. Deși densitatea populației este foarte ridicată, zona continuă să evolueze printr-o infrastructură în dezvoltare. Educația K7 — Geografie: centre urbane și dezvoltarea economică regională.",
+      "factsAdvanced": [
+        "Soyapango găzduiește una dintre cele mai mari zone industriale din El Salvador.",
+        "Plaza Mundo este unul dintre cele mai vizitate centre comerciale din regiunea capitalei.",
+        "Orașul a cunoscut o transformare rapidă dintr-o zonă rurală într-un hub industrial modern.",
+        "Densitatea populației în Soyapango depășește media națională, subliniind caracterul său urban intens.",
+        "Economia locală depinde semnificativ de sectorul manufacturier și de comerțul cu amănuntul.",
+        "Administrația locală prioritizează investițiile în spații publice pentru a echilibra creșterea urbană."
+      ]
+    },
+    {
+      "id": "jucuapa-cities-v2",
+      "descriptionAdvanced": "Jucuapa este o localitate pitorească situată în departamentul Usulután, renumită pentru tradițiile sale și peisajele montane din împrejurimi. Orașul păstrează o atmosferă colonială autentică, oferind vizitatorilor o privire asupra stilului de viață tradițional salvadorian, departe de agitația capitalei. Agricultura locală, în special cultivarea cafelei, susține economia comunității și conservă moștenirea rurală. Educație K6 — Geografie: economia rurală și conservarea tradițiilor.",
+      "factsAdvanced": [
+        "Jucuapa este situată strategic în apropierea zonelor montane din departamentul Usulután.",
+        "Producția de cafea constituie principala activitate economică a regiunii.",
+        "Arhitectura orașului reflectă influențe coloniale spaniole, bine conservate în centrul istoric.",
+        "Comunitatea locală își sărbătorește tradițiile cu festivaluri dedicate patronilor spirituali.",
+        "Climatul temperat de la altitudine favorizează agricultura de înaltă calitate.",
+        "Jucuapa a jucat un rol minor, dar activ, în economia agricolă a secolului al XX-lea."
+      ]
+    },
+    {
+      "id": "metapan-cities-v2",
+      "descriptionAdvanced": "Metapán este cunoscut pentru importanța sa în industria cimentului și pentru proximitatea față de Parcul Național Montecristo, o rezervație naturală de o biodiversitate uimitoare. Situat în nord-vestul țării, orașul oferă un peisaj diversificat, combinând dezvoltarea industrială cu conservarea mediului înconjurător. Climatul și geografia sa unică atrag pasionații de ecoturism din toată regiunea. Educație K7 — Geografie: industrii extractive și conservarea ecosistemelor montane.",
+      "factsAdvanced": [
+        "Metapán este centrul principal al industriei de ciment din El Salvador.",
+        "Parcul Național Montecristo este recunoscut pentru pădurea sa nebulă unică.",
+        "Regiunea este situată în 'Trifinio', punctul unde se întâlnesc granițele El Salvador, Guatemala și Honduras.",
+        "Orașul are o istorie lungă legată de exploatarea resurselor minerale.",
+        "Biodiversitatea din Montecristo este considerată una dintre cele mai bogate din America Centrală.",
+        "Metapán îmbină dezvoltarea economică industrială cu protejarea patrimoniului natural."
+      ]
+    },
+    {
+      "id": "jocoro-cities-v2",
+      "descriptionAdvanced": "Jocoro este o localitate din departamentul Morazán, marcând tranziția către zona montană a estului țării și păstrând tradiții locale autentice. Comunitatea se remarcă prin simplitatea stilului de viață și prin implicarea în agricultura de subzistență, oferind un cadru rural pașnic pentru vizitatori. Istoria orașului reflectă reziliența populației locale în fața provocărilor socio-economice din regiune. Educație K5 — Sociologie: viața în comunități rurale și tradiții salvadoriene.",
+      "factsAdvanced": [
+        "Jocoro se află într-o regiune caracterizată prin terenuri agricole și peisaje rurale.",
+        "Comunitatea păstrează obiceiuri și tradiții locale transmise prin generații.",
+        "Agricultura reprezintă principala sursă de venit pentru majoritatea familiilor din zonă.",
+        "Jocoro a fost un centru activ al vieții comunitare în departamentul Morazán.",
+        "Climatul regiunii favorizează culturile sezoniere esențiale pentru economia locală.",
+        "Simplitatea stilului de viață rural definește identitatea culturală a locuitorilor."
+      ]
+    },
+    {
+      "id": "corinto-cities-v2",
+      "descriptionAdvanced": "Corinto, în departamentul Morazán, este celebru pentru peșterile sale cu picturi rupestre precolumbiene, cunoscute sub numele de 'Gruta del Espíritu Santo'. Aceste vestigii arheologice oferă o fereastră către trecutul antic al regiunii și atrag istorici și curioși dornici să exploreze arta străveche. Orașul este o destinație importantă pentru turismul arheologic din El Salvador. Educație K8 — Istorie: artă rupestră și civilizații precolumbiene.",
+      "factsAdvanced": [
+        "Corinto găzduiește 'Gruta del Espíritu Santo', celebră pentru picturile sale rupestre.",
+        "Picturile rupestre sunt considerate una dintre cele mai importante atracții arheologice din țară.",
+        "Regiunea Morazán este bogată în descoperiri legate de civilizațiile precolumbiene.",
+        "Turismul arheologic reprezintă o parte importantă din identitatea culturală a orașului.",
+        "Peisajul montan din jurul orașului oferă trasee excelente pentru drumeții exploratorii.",
+        "Corinto păstrează o atmosferă rurală tradițională, ideală pentru explorarea istoriei antice."
+      ]
+    },
+    {
+      "id": "el-carmen-cities-v2",
+      "descriptionAdvanced": "El Carmen, situat în departamentul La Unión, este un oraș cu o istorie strâns legată de dezvoltarea agricolă a estului salvadorian. Comunitatea se remarcă prin ospitalitatea locuitorilor și prin rolul său în rețeaua de comerț regional. Peisajele rurale din împrejurimi oferă un cadru liniștit, reprezentativ pentru estul țării, unde agricultura și tradițiile locale se împletesc armonios. Educație K5 — Geografie: rețele de comerț rural și economie agricolă.",
+      "factsAdvanced": [
+        "El Carmen joacă un rol important în rețeaua agricolă din departamentul La Unión.",
+        "Orașul este cunoscut pentru ospitalitatea comunității sale rurale.",
+        "Tradițiile agricole sunt fundamentul economiei locale de generații.",
+        "Poziția strategică a orașului facilitează comerțul regional cu produsele agricole.",
+        "Peisajul din jur reflectă estetica rurală tipică regiunilor din estul El Salvadorului.",
+        "El Carmen păstrează un stil de viață tradițional, departe de ritmul urban alert."
+      ]
+    },
+    {
+      "id": "jujutla-cities-v2",
+      "descriptionAdvanced": "Jujutla este un oraș important din departamentul Ahuachapán, renumit pentru diversitatea sa geografică ce include zone montane și proximitatea față de coasta Pacificului. Economia locală se bazează pe agricultură și creșterea animalelor, fiind un centru vital pentru regiunea de vest. Tradițiile locale și arhitectura specifică reflectă istoria îndelungată a acestei zone. Educație K6 — Geografie: diversitatea geografică și economia rurală.",
+      "factsAdvanced": [
+        "Jujutla se întinde pe o zonă geografică diversă, de la munți până aproape de coastă.",
+        "Agricultura și creșterea animalelor sunt principalele motoare economice locale.",
+        "Orașul este situat într-o zonă strategică a departamentului Ahuachapán.",
+        "Tradițiile culturale sunt bine conservate și celebrate în cadrul comunității.",
+        "Jujutla a jucat un rol istoric în dezvoltarea economică a regiunii vestice.",
+        "Climatul variat permite o diversitate mare de culturi agricole în zonă."
+      ]
+    },
+    {
+      "id": "guaymango-cities-v2",
+      "descriptionAdvanced": "Guaymango este o localitate din departamentul Ahuachapán, cunoscută pentru moștenirea sa culturală și pentru peisajele sale rurale pitorești. Orașul păstrează cu mândrie tradițiile locale, fiind un exemplu de comunitate care își prețuiește identitatea în fața schimbărilor moderne. Economia sa agricolă și atmosfera prietenoasă fac din Guaymango o destinație autentică pentru explorarea interiorului salvadorian. Educație K5 — Sociologie: identitate culturală și tradiții rurale.",
+      "factsAdvanced": [
+        "Guaymango păstrează cu mândrie identitatea sa culturală în fața modernității.",
+        "Economia se bazează în special pe agricultură tradițională și resurse locale.",
+        "Orașul oferă peisaje rurale pitorești care atrag vizitatori dornici de autenticitate.",
+        "Comunitatea pune un accent puternic pe conservarea obiceiurilor locale.",
+        "Guaymango este o destinație ideală pentru a înțelege viața rurală din Ahuachapán.",
+        "Atmosfera prietenoasă a orașului reflectă valorile tradiționale ale locuitorilor."
+      ]
+    },
+    {
+      "id": "san-julian-cities-v2",
+      "descriptionAdvanced": "San Julián, în departamentul Sonsonate, este renumit pentru producția de balsam de Peru, o rășină prețioasă extrasă din copacii locali și utilizată încă din perioada precolumbiană. Acest oraș istoric oferă o experiență culturală unică, unde tradițiile de recoltare a balsamului se împletesc cu stilul de viață rural modern. Vizitatorii pot descoperi secretele acestei vechi industrii și pot admira frumusețea naturală a regiunii. Educație K7 — Științe/Istorie: resurse naturale și metode tradiționale de recoltare.",
+      "factsAdvanced": [
+        "San Julián este celebru pentru producția istorică de balsam de Peru.",
+        "Balsamul de Peru este o rășină valoroasă folosită în parfumerie și medicină.",
+        "Tehnicile de recoltare a balsamului sunt practicate de generații întregi.",
+        "Orașul oferă o perspectivă asupra legăturii dintre resursele naturale și istorie.",
+        "Regiunea Sonsonate este unul dintre cele mai importante centre pentru acest produs tradițional.",
+        "San Julián atrage vizitatori interesați de istoria economică a balsamului."
+      ]
+    },
+    {
+      "id": "san-pedro-masahuat-cities-v2",
+      "descriptionAdvanced": "San Pedro Masahuat este un oraș din departamentul La Paz, situat strategic între zonele agricole și cele de coastă ale statului El Salvador. Comunitatea se remarcă prin activitățile sale economice variate și prin legăturile istorice cu dezvoltarea rurală din regiune. Atmosfera sa reflectă dinamica socială a statului, oferind vizitatorilor ocazia de a experimenta viața cotidiană salvadoriană într-un cadru autentic. Educație K6 — Geografie: rolul așezărilor rurale în economia regională.",
+      "factsAdvanced": [
+        "San Pedro Masahuat este situat strategic între agricultură și zonele de coastă.",
+        "Economia orașului este susținută de activități diverse și comerț local.",
+        "Orașul joacă un rol important în dinamica socială a departamentului La Paz.",
+        "Tradițiile locale sunt parte integrantă din viața de zi cu zi a comunității.",
+        "Poziția sa geografică îi conferă un rol de legătură între diferite regiuni agricole.",
+        "San Pedro Masahuat oferă o experiență autentică a vieții cotidiene salvadoriene."
+      ]
+    }
+  ]
+}

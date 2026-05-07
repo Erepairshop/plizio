@@ -1,0 +1,135 @@
+{
+  "lang": "de",
+  "country": "brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBrazilLifeV2.ts",
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts",
+    "lib/visualLab/data/poiExtraBrazilReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sao-paulo-cities-v2",
+      "descriptionAdvanced": "São Paulo ist mit über 12 Millionen Einwohnern die größte Stadt Brasiliens und ein globales Finanzzentrum. Die Stadt wurde 1554 von Jesuiten gegründet und entwickelte sich durch den Kaffee-Boom im 19. Jahrhundert zur modernen Metropole. Mit ihrer beeindruckenden Skyline und einer Vielzahl an kulturellen Angeboten ist sie ein Schmelztiegel der Kulturen. Erdkunde K7 – globale Megastädte und wirtschaftliche Zentren.",
+      "factsAdvanced": [
+        "Gründung: 1554",
+        "Einwohnerzahl: über 12 Millionen",
+        "Wichtigstes Finanzzentrum Südamerikas",
+        "Standort der Avenida Paulista",
+        "Heimat des MASP (Kunstmuseum)",
+        "Kaffee-Boom prägte die Architektur"
+      ]
+    },
+    {
+      "id": "rio-de-janeiro-cities-v2",
+      "descriptionAdvanced": "Rio de Janeiro, bekannt als 'Cidade Maravilhosa', ist berühmt für seine spektakuläre Lage zwischen Bergen und Meer. Die Stadt war von 1763 bis 1960 die Hauptstadt Brasiliens und ist weltbekannt für den Karneval und den Zuckerhut. Das Wahrzeichen, die Christusstatue auf dem Corcovado, blickt majestätisch über die Bucht von Guanabara. Erdkunde K7 – Küstenstädte und Tourismusgebiete.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt (1763–1960)",
+        "Wahrzeichen: Cristo Redentor",
+        "Zuckerhut-Gipfel: 396 m",
+        "Bucht von Guanabara",
+        "Weltberühmter Karneval",
+        "UNESCO-Welterbe (Landschaft)"
+      ]
+    },
+    {
+      "id": "brasilia-cities-v2",
+      "descriptionAdvanced": "Brasília, die 1960 als neue Hauptstadt Brasiliens eingeweiht wurde, ist ein Meisterwerk moderner Stadtplanung von Lúcio Costa und Oscar Niemeyer. Die Stadt ist im Grundriss einem Flugzeug nachempfunden und ist berühmt für ihre futuristische Architektur in der Mitte des Landes. Sie liegt auf der zentralen Hochebene und ist ein Beispiel für den 'Modernismo'. Geschichte K8 – Architektur des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Hauptstadt seit 1960",
+        "Stadtplanung: Lúcio Costa",
+        "Architekt: Oscar Niemeyer",
+        "UNESCO-Welterbe seit 1987",
+        "Liegt im Planalto Central",
+        "Grundriss in Flugzeugform"
+      ]
+    },
+    {
+      "id": "salvador-cities-v2",
+      "descriptionAdvanced": "Salvador da Bahia war die erste Hauptstadt Brasiliens und ist das Zentrum der afro-brasilianischen Kultur. Die historische Altstadt 'Pelourinho' ist für ihre farbenfrohen Kolonialbauten und barocken Kirchen bekannt, die zum UNESCO-Welterbe gehören. Die Stadt ist bekannt für ihre lebendige Musik, Tanz und Kulinarik, die tief in afrikanischen Traditionen verwurzelt sind. Geschichte K8 – Kolonialzeit und kulturelle Entwicklung.",
+      "factsAdvanced": [
+        "Erste Hauptstadt Brasiliens",
+        "Historische Altstadt: Pelourinho",
+        "UNESCO-Welterbe",
+        "Afro-brasilianisches Zentrum",
+        "Fahrstuhl Elevador Lacerda",
+        "Berühmt für Acarajé-Küche"
+      ]
+    },
+    {
+      "id": "fortaleza-cities-v2",
+      "descriptionAdvanced": "Fortaleza im Nordosten Brasiliens ist ein bedeutendes touristisches Zentrum mit kilometerlangen Sandstränden und einer lebhaften Strandpromenade. Die Stadt entwickelte sich aus einer Festung am Ufer des Pajeú-Flusses und ist heute ein wirtschaftlicher Motor der Region Ceará. Sie ist bekannt für ihr ganzjährig warmes Klima und die dynamische Wirtschaft, insbesondere im Bereich Textilien und Tourismus. Erdkunde K7 – Regionale Wirtschaft und Küstennutzung.",
+      "factsAdvanced": [
+        "Wirtschaftszentrum von Ceará",
+        "Bekannt für Praia do Futuro",
+        "Historischer Hafen",
+        "Wirtschaft: Textilindustrie",
+        "Ganzjährig tropisches Klima",
+        "Starke touristische Infrastruktur"
+      ]
+    },
+    {
+      "id": "belo-horizonte-cities-v2",
+      "descriptionAdvanced": "Belo Horizonte ist die Hauptstadt des Bundesstaates Minas Gerais und war die erste geplante Stadt Brasiliens im 19. Jahrhundert. Umgeben von Bergen ist sie bekannt für ihre lebendige Kneipenkultur und die Nähe zu den historischen Städten der Goldrausch-Ära. Die architektonische Anlage von Pampulha, entworfen von Niemeyer, ist ein bedeutendes kulturelles Zentrum. Geschichte K8 – Industrialisierung und Urbanisierung.",
+      "factsAdvanced": [
+        "Erste geplante Stadt Brasiliens",
+        "Hauptstadt von Minas Gerais",
+        "Kulturelles Zentrum: Pampulha",
+        "UNESCO-Welterbe (Pampulha)",
+        "Nächstgelegener Hub zu Goldstädten",
+        "Bekannt für kulinarische Spezialitäten"
+      ]
+    },
+    {
+      "id": "manaus-cities-v2",
+      "descriptionAdvanced": "Manaus liegt tief im Herzen des Amazonas-Regenwaldes am Zusammenfluss des Rio Negro und des Solimões. Während des Kautschuk-Booms Ende des 19. Jahrhunderts erlebte die Stadt einen extremen Reichtum, der sich im beeindruckenden Opernhaus 'Teatro Amazonas' manifestiert. Heute ist sie das wichtigste wirtschaftliche und logistische Zentrum für die gesamte Amazonasregion. Sachkunde K4 – tropische Ökosysteme und ihre Städte.",
+      "factsAdvanced": [
+        "Hafenstadt am Amazonas",
+        "Teatro Amazonas (Opernhaus)",
+        "Kautschuk-Boom: 19. Jahrhundert",
+        "Treffen der Wasser (Rio Negro/Solimões)",
+        "Wirtschafts-Hub der Region",
+        "Wichtiger Ausgangspunkt für Regenwald-Expeditionen"
+      ]
+    },
+    {
+      "id": "curitiba-cities-v2",
+      "descriptionAdvanced": "Curitiba gilt als Pionier der modernen, nachhaltigen Stadtplanung in Brasilien mit exzellenten öffentlichen Verkehrssystemen und großzügigen Parks. Die Stadt im Süden Brasiliens ist durch europäische Immigranten geprägt, was sich in der Architektur und Kultur widerspiegelt. Sie ist ein Vorbild für urbane Umweltprojekte und intelligente Infrastruktur weltweit. Erdkunde K7 – nachhaltige Stadtentwicklung.",
+      "factsAdvanced": [
+        "Hauptstadt von Paraná",
+        "Pionier im ÖPNV (BRT)",
+        "Hoher Grünflächenanteil pro Einwohner",
+        "Europäische Einwandererprägung",
+        "Nachhaltigkeits-Modell",
+        "Wichtiger Industriestandort im Süden"
+      ]
+    },
+    {
+      "id": "recife-cities-v2",
+      "descriptionAdvanced": "Recife, oft als 'Venedig Brasiliens' bezeichnet, ist durch seine zahlreichen Kanäle, Brücken und Inseln entlang der Küste von Pernambuco geprägt. Die Stadt ist ein historisches Zentrum, das eng mit der Geschichte der niederländischen Besatzung verbunden ist. Heute ist sie ein bedeutendes Zentrum für Technologie und Forschung in der Region Nordost. Geschichte K8 – kolonialer Einfluss und europäische Handelswege.",
+      "factsAdvanced": [
+        "Oft 'Venedig Brasiliens' genannt",
+        "Historisch durch Niederländer geprägt",
+        "Wichtiges Tech-Zentrum (Porto Digital)",
+        "Strände: Boa Viagem",
+        "Zentrum für Kunst und Kultur",
+        "Knotenpunkt in Pernambuco"
+      ]
+    },
+    {
+      "id": "goiania-cities-v2",
+      "descriptionAdvanced": "Goiânia wurde in den 1930er Jahren als geplante Stadt im Inneren Brasiliens entworfen, um die Entwicklung der zentralen Region zu fördern. Sie zeichnet sich durch einen hohen Anteil an Art-Déco-Architektur aus und gilt als eine der grünsten Städte des Landes. Goiânia ist das Herz einer wichtigen Agrarregion und ein bedeutender Markt für die umliegende Landwirtschaft. Erdkunde K7 – Agrarwirtschaft und Stadtplanung.",
+      "factsAdvanced": [
+        "Geplante Stadt: 1930er Jahre",
+        "Zentrum für Art-Déco",
+        "Sehr hoher Grünflächenanteil",
+        "Hub für Agrarwirtschaft",
+        "Wachstumsstarke Metropole",
+        "Zentrum des Bundesstaates Goiás"
+      ]
+    }
+  ]
+}

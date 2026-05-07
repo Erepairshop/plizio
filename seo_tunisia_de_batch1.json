@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "atlas-gebirge-relief-v2",
+      "descriptionAdvanced": "Das Atlasgebirge, das sich über Teile Tunesiens erstreckt, prägt maßgeblich das Relief des Landes. Während die nördlichen Ausläufer durch fruchtbare, grüne Hügel charakterisiert sind, werden sie nach Süden hin trockener und rauer. Geologisch gesehen ist das Gebirge ein junges Faltengebirge, das den Kontinent Afrika von der Sahara abgrenzt. Es dient als natürliches Reservoir für Niederschläge, was die landwirtschaftliche Nutzung in den Tälern erst ermöglicht. In der Plizio-Geografie-Klasse K7 lernen Schüler, wie solche Gebirgszüge das regionale Klima beeinflussen.",
+      "factsAdvanced": [
+        "Das Atlasgebirge erstreckt sich über 2.400 km in Nordafrika.",
+        "Der höchste Punkt in Tunesien ist der Djebel Chambi mit 1.544 m.",
+        "Es fungiert als Klimascheide zwischen dem Mittelmeer und der Sahara.",
+        "Die tunesische Atlas-Region es geologisch viel jünger als das zentrale Massiv.",
+        "Niederschläge im Atlas-Gebirge speisen die wichtigsten Flüsse wie den Medjerda.",
+        "Die Region ist reich an Bodenschätzen wie Phosphaten."
+      ]
+    },
+    {
+      "id": "djebel-chambi-relief-v2",
+      "descriptionAdvanced": "Der Djebel Chambi ist mit einer Höhe von 1.544 Metern die höchste Erhebung Tunesiens und ein markantes Reliefelement des Landes. Er gehört zum tunesischen Teil des Dorsal-Atlas. Die Gipfelregion ist Teil eines Nationalparks, der zum Schutz der einzigartigen Fauna und Flora eingerichtet wurde, einschließlich seltener Kiefernwälder. Für Geologen ist der Berg ein interessantes Beispiel für Kalksteinformationen in einer ansonsten eher trockenen Umgebung. Schüler der Geografie-Klasse K6 erkunden hier die ökologische Bedeutung von Höhenstufen in trockenen Klimazonen.",
+      "factsAdvanced": [
+        "Die absolute Höhe beträgt exakt 1.544 Meter.",
+        "Der Berg ist Teil des Nationalparks Djebel Chambi.",
+        "Er wurde 1977 von der UNESCO als Biosphärenreservat anerkannt.",
+        "Das Gestein besteht vorwiegend aus kreidezeitlichem Kalkstein.",
+        "Der Gipfel ist oft der einzige Ort mit Schnee in den Wintermonaten.",
+        "Die Umgebung bietet Lebensraum für den seltenen Berberhirsch."
+      ]
+    },
+    {
+      "id": "chott-el-jerid-relief-v2",
+      "descriptionAdvanced": "Der Chott el-Jerid ist der größte Salzsee Tunesiens und bildet eine der tiefsten und unwirtlichsten Senken des Landes. In diesem Becken sammelt sich das Wasser bei Regen, verdunstet jedoch schnell in der sengenden Hitze, was zur charakteristischen Salzkruste führt. Die Farben des Sees wechseln oft zwischen Weiß, Rosa und tiefem Braun, abhängig vom Salzgehalt und der Sonneneinstrahlung. Historisch ist dies eine bedeutende Region für den Salzabbau. In der Geografie-Klasse K5 lernen Kinder, wie abflusslose Becken in Wüstenlandschaften entstehen.",
+      "factsAdvanced": [
+        "Die Fläche des Chott el-Jerid beträgt über 5.000 km².",
+        "Der Salzsee liegt teilweise unter dem Meeresspiegel.",
+        "Die Dicke der Salzkruste kann bis zu einem Meter erreichen.",
+        "Chott el-Jerid ist bekannt für seine optischen Täuschungen (Fata Morgana).",
+        "Hier wurden Szenen für bekannte Filme wie Star Wars gedreht.",
+        "Das Gebiet ist ein wichtiges Ziel für die Beobachtung von Zugvögeln."
+      ]
+    },
+    {
+      "id": "tunis-ebene-relief-v2",
+      "descriptionAdvanced": "Die Ebene von Tunis, auch Medjerda-Ebene genannt, stellt das wichtigste landwirtschaftliche Tiefland Tunesiens dar. Durch das Sediment des Flusses Medjerda ist hier ein äußerst fruchtbarer Boden entstanden, der den Anbau von Getreide, Obst und Gemüse begünstigt. Das Relief ist flach bis leicht wellig, was die Bewirtschaftung erleichtert und eine hohe Bevölkerungsdichte ermöglicht hat. Die Nähe zur Hauptstadt Tunis macht die Region zudem wirtschaftlich zum Zentrum des Landes. Schüler der Klasse K6 untersuchen in diesem Kontext die Abhängigkeit der Zivilisation von fruchtbaren Schwemmlandböden.",
+      "factsAdvanced": [
+        "Die Region ist das Hauptanbaugebiet für Getreide in Tunesien.",
+        "Der Fluss Medjerda ist der längste und wasserreichste Fluss des Landes.",
+        "Das Relief wurde durch tausende Jahre Flusssedimentation geformt.",
+        "Die Ebene ist dicht besiedelt und wirtschaftlich hoch entwickelt.",
+        "Zahlreiche antike Stätten liegen am Rande dieser Ebene.",
+        "Das Mikroklima ist durch das nahe Mittelmeer moderat."
+      ]
+    },
+    {
+      "id": "djebel-zaghouan-relief-v2",
+      "descriptionAdvanced": "Der Djebel Zaghouan ist ein massives Kalksteingebirge, das markant aus der umliegenden Landschaft herausragt. Er war schon in der Antike von strategischer Bedeutung, nicht zuletzt durch seine Quellen, die das berühmte Aquädukt von Karthago speisten. Das Relief zeichnet sich durch schroffe Felswände und tiefe Täler aus, die Wanderer und Kletterer anziehen. Die geologische Struktur zeigt komplexe Verwerfungen, die für die Forschung in K8 interessant sind. Schüler lernen hier, wie Reliefformen die Wasserversorgung historischer Großstädte wie Karthago sicherstellten.",
+      "factsAdvanced": [
+        "Der Gipfel des Djebel Zaghouan liegt auf ca. 1.295 Metern.",
+        "Das Aquädukt nach Karthago war etwa 132 km lang.",
+        "Der Gebirgsstock besteht aus stark verkarstetem Kalkstein.",
+        "Der Ort Zaghouan ist bekannt für seine Rosenanbau-Tradition.",
+        "Der Djebel dient als natürlicher Wasserturm für die Region.",
+        "In den Felswänden leben seltene Greifvogelarten."
+      ]
+    }
+  ]
+}

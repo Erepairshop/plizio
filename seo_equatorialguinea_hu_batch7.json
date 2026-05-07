@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "acurenam-cities-v2",
+      "descriptionAdvanced": "Acurenam a Centro Sur tartomány egy eldugottabb, de kulturálisan gazdag települése, amely mélyen a trópusi esőerdők szívében helyezkedik el. A város környéke kiváló példája az érintetlen természetnek, ahol a helyi lakosok évszázadok óta hagyományos módszerekkel élnek összhangban az erdővel. Acurenam fontos szerepet játszik a közösségi élet fenntartásában, és egyben egyfajta kapu az ökoturizmus számára azoknak, akik felfedeznék a Río Muni belső területeinek rejtett kincseit. A város infrastruktúrája fokozatosan javul, miközben igyekszik megőrizni egyedi, csendes jellegét. Tanterv: Földrajz K6, Ökológia K8.",
+      "factsAdvanced": [
+        "Centro Sur tartomány települése.",
+        "Trópusi esőerdők szívében található.",
+        "A hagyományos életmód központja.",
+        "Az ökoturizmus egyik kiindulópontja.",
+        "A régió rejtett kincseinek kapuja.",
+        "Csendes, egyedi karakterű település."
+      ]
+    },
+    {
+      "id": "bicurga-cities-v2",
+      "descriptionAdvanced": "Bicurga a Centro Sur tartomány egyik meghatározó mezőgazdasági városa, amely fontos szerepet tölt be a régió ellátásában. A település életét a termékeny földeken folytatott gazdálkodás jellemzi, ahol a helyiek főként alapvető élelmiszereket termesztenek. Bicurga elhelyezkedése lehetővé teszi a környező falvak számára a kereskedelmi szolgáltatások elérését, ezzel is ösztönözve a helyi gazdasági tevékenységet. A város lassú, de biztos fejlődésen megy keresztül, miközben megőrzi a központi régió falusi báját és hagyományait. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      "factsAdvanced": [
+        "Centro Sur tartomány egyik városa.",
+        "Mezőgazdasági termelő központ.",
+        "Központi szerep a régió ellátásában.",
+        "Hozzáférést biztosít a kereskedelmi szolgáltatásokhoz.",
+        "Lassú, fenntartható gazdasági fejlődés.",
+        "Megőrzi a központi régió falusi hagyományait."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "ro",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "raleigh-cities-v2",
+      "descriptionAdvanced": "Raleigh, capitala statului Carolina de Nord, a fost fondată în 1792 special pentru a servi drept scaun al guvernului statal, fiind numită în onoarea exploratorului Sir Walter Raleigh. Cunoscut ca „Orașul Stejarilor” datorită abundenței acestor arbori în centrul istoric, metropola s-a transformat dintr-un centru agricol modest într-un lider tehnologic global. Raleigh formează, alături de Durham și Chapel Hill, renumitul Research Triangle Park (înființat în 1959), cel mai mare parc de cercetare științifică din Statele Unite. Acest cluster atrage sute de companii de biotehnologie, inginerie și informatică, consolidând o economie modernă vibrantă. Pe lângă inovație, orașul găzduiește Universitatea de Stat din Carolina de Nord (fondată în 1887), care alimentează continuu piața muncii cu forță de muncă înalt calificată. Geografie K8 — inovație tehnologică și poluri economice.",
+      "factsAdvanced": [
+        "A fost fondat și proiectat în 1792 pentru a fi capitala statului.",
+        "A primit numele exploratorului englez Sir Walter Raleigh.",
+        "Face parte din faimosul Research Triangle Park, înființat în 1959.",
+        "Găzduiește Universitatea de Stat din Carolina de Nord din 1887.",
+        "Este supranumit „Orașul Stejarilor” datorită copacilor seculari.",
+        "Populația sa s-a dublat în primele două decenii ale secolului XXI."
+      ]
+    },
+    {
+      "id": "omaha-cities-v2",
+      "descriptionAdvanced": "Omaha, cel mai mare oraș din statul Nebraska, este situat strategic pe malul vestic al fluviului Missouri. Fondat în 1854 de speculanți din Iowa, orașul a fost mult timp considerat „Poarta de intrare către Vest”, prosperând ca nod esențial pentru Prima Cale Ferată Transcontinentală. La sfârșitul secolului al XIX-lea, Omaha a devenit un colos în industria prelucrării cărnii, cartierul său de abatoare (Union Stockyards, fondat în 1884) dominând piața globală timp de decenii. Astăzi, orașul are o economie diversificată susținută de servicii financiare și de asigurări, fiind sediul principal al conglomeratului Berkshire Hathaway, condus de miliardarul Warren Buffett. Grădina Zoologică Henry Doorly este una dintre atracțiile de top, având cel mai mare deșert acoperit din lume. Istorie K8 — expansiunea căilor ferate.",
+      "factsAdvanced": [
+        "A fost fondat la 4 iulie 1854 de investitori din statul vecin Iowa.",
+        "A servit drept punct de plecare pentru Prima Cale Ferată Transcontinentală.",
+        "Abatoarele Union Stockyards s-au deschis aici în anul 1884.",
+        "Este sediul conglomeratului internațional Berkshire Hathaway.",
+        "Grădina Zoologică Henry Doorly adăpostește cea mai mare domă geodezică vitrată din lume.",
+        "Găzduiește anual turneul de baseball universitar College World Series din 1950."
+      ]
+    },
+    {
+      "id": "miami-cities-v2",
+      "descriptionAdvanced": "Miami, situat pe coasta de sud-est a Floridei, este o metropolă globală și un hub cultural vibrant. Încorporat ca oraș în 1896, grație eforturilor vizionare ale Juliei Tuttle (fiind singurul oraș american major fondat de o femeie) și dezvoltării feroviare aduse de Henry Flagler, Miami a evoluat spectaculos. Datorită proximității față de America Latină, este supranumit „Capitala Americii Latine”, având o populație predominant vorbitoare de spaniolă și o influență masivă din partea diasporei cubaneze, evidentă în cartierul Little Havana. Portul din Miami este lider mondial în industria croazierelor, în timp ce cartierul Art Deco din Miami Beach deține cea mai mare concentrație de arhitectură de acest tip din lume, construită majoritar în anii 1930. Geografie K7 — migrație și turism internațional.",
+      "factsAdvanced": [
+        "A fost încorporat oficial în anul 1896 cu o populație de doar 300 de oameni.",
+        "Este singurul oraș mare din SUA fondat oficial de o femeie, Julia Tuttle.",
+        "Portul său a obținut titlul de „Capitala Mondială a Croazierelor”.",
+        "Cartierul Art Deco din Miami Beach cuprinde peste 800 de clădiri istorice.",
+        "Populația hispanică reprezintă peste 70% din totalul locuitorilor orașului.",
+        "Are una dintre cele mai spectaculoase linii de zgârie-nori (skyline) din SUA."
+      ]
+    },
+    {
+      "id": "oakland-cities-v2",
+      "descriptionAdvanced": "Oakland, situat pe coasta de est a golfului San Francisco în California, este un oraș portuar de o importanță vitală. Fondat în 1852, dezvoltarea sa a explodat în 1868, când a fost desemnat terminalul vestic al Căii Ferate Transcontinentale. Astăzi, Portul din Oakland este unul dintre cele mai aglomerate hub-uri maritime din Statele Unite, facilitând masiv comerțul cu regiunea Asia-Pacific. Orașul este recunoscut pentru diversitatea sa etnică și istoria sa puternică de activism politic, fiind locul de naștere al mișcării Black Panther Party în 1966. Din punct de vedere cultural, Oakland s-a impus ca un centru de referință pentru artă, muzică și sustenabilitate ecologică, oferind o alternativă vibrantă la vecinul său mai costisitor, San Francisco. Istorie K8 — mișcări sociale și drepturi civile.",
+      "factsAdvanced": [
+        "A fost încorporat ca oraș la 4 mai 1852.",
+        "A devenit capătul vestic al Căii Ferate Transcontinentale în anul 1868.",
+        "Portul său ocupă un loc de top în comerțul cu mărfuri containerizate în SUA.",
+        "Partidul politic Black Panther a fost fondat aici în octombrie 1966.",
+        "Este despărțit de San Francisco prin faimosul pod Bay Bridge.",
+        "Lacul Merritt din centrul orașului este primul refugiu oficial pentru viața sălbatică din SUA (1870)."
+      ]
+    },
+    {
+      "id": "minneapolis-cities-v2",
+      "descriptionAdvanced": "Minneapolis, cel mai populat oraș din statul Minnesota, este cunoscut sub numele de „Orașul Lacurilor”, datorită celor peste 20 de corpuri de apă care îi punctează peisajul. Încorporat în 1867, orașul a crescut pe malurile fluviului Mississippi, utilizând cascada St. Anthony pentru a alimenta o industrie masivă de morărit și prelucrare a cherestelei. Până în secolul al XX-lea, Minneapolis a deținut titlul de capitală mondială a morăritului (flour milling capital), o moștenire vizibilă în istoricul complex Mill City Museum. Împreună cu orașul vecin Saint Paul, formează zona metropolitană Twin Cities. Astăzi, este un centru de top pentru afaceri, artă (inclusiv faimosul Walker Art Center cu grădina sa de sculpturi) și tehnologie medicală. Geografie K7 — utilizarea resurselor de apă în industrie.",
+      "factsAdvanced": [
+        "A fost încorporat oficial ca oraș în anul 1867.",
+        "Cascada St. Anthony a fost esențială pentru dezvoltarea industrială a orașului.",
+        "Până în 1930 a fost centrul mondial al măcinării făinii.",
+        "Dispune de un sistem extins de pasarele suspendate vitrate numit Skyway (peste 15 km).",
+        "Formează zona metropolitană Twin Cities împreună cu capitala St. Paul.",
+        "Metropola găzduiește cel mai mare mall din SUA, faimosul Mall of America."
+      ]
+    },
+    {
+      "id": "tulsa-cities-v2",
+      "descriptionAdvanced": "Tulsa este al doilea oraș ca mărime din statul Oklahoma, situat de-a lungul râului Arkansas. Așezarea a fost fondată în anii 1830 de tribul nativ Lochapoka Band de Creek. Istoria modernă a orașului a fost definită de descoperirea zăcămintelor masive de petrol la Glenn Pool în 1905, ceea ce i-a adus titlul de „Capitala Mondială a Petrolului” pentru o mare parte a secolului al XX-lea. Din prosperitatea anilor 1920 s-a născut o arhitectură Art Deco uimitoare, care domină și astăzi centrul orașului. În mod tragic, Tulsa a fost scena unuia dintre cele mai grave incidente de violență rasială din istoria SUA: masacrul rasial din 1921, care a distrus prosperul cartier afro-american Greenwood, supranumit „Black Wall Street”. Istorie K8 — expansiunea petrolieră și relațiile interrasiale.",
+      "factsAdvanced": [
+        "Orașul a fost fondat inițial în 1836 de nativii americani strămutați din sud-est.",
+        "Descoperirea petrolului la Glenn Pool în 1905 a declanșat un boom economic.",
+        "Tulsa a fost supranumită „Capitala Mondială a Petrolului” timp de câteva decenii.",
+        "Deține una dintre cele mai mari concentrări de clădiri în stil Art Deco din SUA.",
+        "Masacrul rasial care a distrus zona Greenwood a avut loc în anul 1921.",
+        "A fost desemnată locul de naștere oficial al rutei istorice Route 66."
+      ]
+    },
+    {
+      "id": "arlington-tx-cities-v2",
+      "descriptionAdvanced": "Arlington, situat strategic între metropolele Dallas și Fort Worth din Texas, a evoluat dintr-un mic nod feroviar fondat în 1876 într-un pol uriaș al divertismentului sportiv. Inițial o comunitate agricolă, orașul a cunoscut o dezvoltare uriașă în anii 1950, când gigantul General Motors a deschis aici o fabrică imensă de asamblare a automobilelor. Astăzi, atracția globală a orașului constă în facilitățile sale sportive monumentale. AT&T Stadium (inaugurat în 2009) este casa echipei de fotbal american Dallas Cowboys, în timp ce Globe Life Field găzduiește echipa de baseball Texas Rangers. De asemenea, Arlington a fost gazda primului parc de distracții Six Flags (deschis în 1961), definind statutul orașului drept centru regional de atracție turistică. Geografie K7 — dezvoltarea urbană și turismul.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată de-a lungul rutei feroviare Texas & Pacific în 1876.",
+        "Fabrica auto General Motors și-a început activitatea aici în anul 1954.",
+        "Primul parc tematic din lanțul Six Flags a fost inaugurat în Arlington în 1961.",
+        "Stadionul AT&T are o capacitate maximă care poate depăși 100.000 de spectatori.",
+        "Orașul găzduiește Universitatea Texas din Arlington (fondată în 1895).",
+        "Populația sa a atins pragul de 394.000 de locuitori în anul 2020."
+      ]
+    },
+    {
+      "id": "new-orleans-cities-v2",
+      "descriptionAdvanced": "New Orleans, situat pe cursul inferior al fluviului Mississippi din statul Louisiana, este mondial recunoscut pentru cultura sa unică, muzica vibrantă și festivalurile spectaculoase. Fondat de coloniști francezi în 1718, orașul a absorbit de-a lungul secolelor influențe spaniole, africane, caraibiene și americane, formând o societate creolă unică. Cartierul Francez (Vieux Carré) este inima istorică a orașului, faimos pentru arhitectura sa colonială și atmosfera de pe Bourbon Street. Considerat locul de naștere al muzicii jazz la începutul secolului al XX-lea, orașul găzduiește anual faimosul carnaval Mardi Gras. În 2005, metropola a suferit distrugeri catastrofale cauzate de uraganul Katrina, dar reconstrucția ulterioară a demonstrat o reziliență civică remarcabilă. Geografie K8 — managementul dezastrelor naturale.",
+      "factsAdvanced": [
+        "A fost fondat în primăvara anului 1718 de Jean-Baptiste Le Moyne de Bienville.",
+        "Orașul a devenit parte a SUA prin Achiziția Louisianei din anul 1803.",
+        "Peste 80% din suprafața orașului a fost inundată în urma uraganului Katrina (2005).",
+        "Este universal acceptat drept locul de naștere al stilului muzical jazz.",
+        "Primul festival oficial de Mardi Gras a fost celebrat aici în 1857.",
+        "Superdome-ul local este unul dintre cele mai faimoase stadioane acoperite din lume."
+      ]
+    },
+    {
+      "id": "wichita-cities-v2",
+      "descriptionAdvanced": "Wichita, cel mai mare oraș din statul Kansas, este așezat pe râul Arkansas și se mândrește cu o puternică istorie aviatică. Fondat în 1870, așezarea a servit la început ca destinație majoră pentru turmele de vite conduse de cowboy din Texas pe faimoasa rută Chisholm Trail. Adevărata transformare a orașului a venit în anii 1920 și 1930, când antreprenori pionieri precum Clyde Cessna, Walter Beech și Lloyd Stearman au fondat companii de producție de aeronave, câștigând orașului renumele durabil de „Capitala Aeriană a Lumii”. Astăzi, industria aerospațială (inclusiv Textron Aviation și Spirit AeroSystems) rămâne forța motrice a economiei locale. De asemenea, Wichita are un rol în cultura pop americană, fiind locul în care a fost fondat primul restaurant Pizza Hut în 1958. Geografie K7 — industria aerospațială modernă.",
+      "factsAdvanced": [
+        "A fost încorporat oficial ca oraș în iulie 1870.",
+        "Orașul a fost un nod crucial pe traseul istoric de vite Chisholm Trail.",
+        "Primele mari fabrici de avioane, precum Cessna și Beechcraft, au apărut în anii 1920.",
+        "Primul restaurant Pizza Hut s-a deschis pe teritoriul orașului în anul 1958.",
+        "Este recunoscut drept „Capitala Aeriană a Lumii” datorită volumului producției aviatice.",
+        "Găzduiește Universitatea de Stat din Wichita (fondată în 1895)."
+      ]
+    },
+    {
+      "id": "cleveland-cities-v2",
+      "descriptionAdvanced": "Cleveland, un oraș major din statul Ohio, este așezat pe țărmul sudic al Lacului Erie. Fondat în 1796 de generalul Moses Cleaveland, dezvoltarea sa a luat avânt odată cu finalizarea Canalului Ohio și Erie în 1832, devenind un centru național pentru producția de oțel și industria manufacturieră pe parcursul secolului al XX-lea. Dinastia petrolieră a lui John D. Rockefeller (Standard Oil) s-a născut aici în anul 1870. Deși a suferit o dezindustrializare severă în anii 1970 și 1980 (fenomenul Rust Belt), orașul a investit masiv în regenerare culturală. Cleveland este astăzi recunoscut global ca sediu al muzeului Rock and Roll Hall of Fame (deschis în 1995) și excelează în sectorul medical prin Cleveland Clinic, considerată unul dintre cele mai bune spitale din lume. Istorie K8 — dezvoltarea industrială și declinul Rust Belt.",
+      "factsAdvanced": [
+        "A fost fondat de generalul Moses Cleaveland în anul 1796.",
+        "Compania Standard Oil a fost înființată aici de John D. Rockefeller în 1870.",
+        "Rock and Roll Hall of Fame și-a deschis porțile pentru public în 1995.",
+        "Incendiul de pe râul Cuyahoga din 1969 a stimulat mișcarea națională pentru protecția mediului.",
+        "Cleveland Clinic este constant clasificat în topul mondial al spitalelor de cardiologie.",
+        "Canalul Ohio și Erie, finalizat în 1832, a conectat Marile Lacuri de fluviul Mississippi."
+      ]
+    },
+    {
+      "id": "tampa-cities-v2",
+      "descriptionAdvanced": "Tampa este un port maritim vibrant și o destinație turistică de top pe coasta de vest a Floridei, situat pe malurile Golfului Tampa. Apariția căilor ferate aduse de Henry B. Plant în 1884 a conectat micul sat de restul țării, transformându-l într-un hub comercial și hotelier atractiv. Adevărata ascensiune economică a început în 1886, când imigrantul Vicente Martinez Ybor a mutat aici operațiunile sale de fabricare a trabucurilor, dezvoltând faimosul cartier Ybor City, supranumit „Capitala Mondială a Trabucurilor” în prima jumătate a secolului al XX-lea. Astăzi, Portul Tampa Bay este cel mai mare port din stat, esențial pentru traficul navelor de croazieră și transportul maritim. Parcul tematic Busch Gardens, deschis în 1959, atrage anual milioane de turiști. Geografie K7 — dezvoltarea infrastructurii turistice și portuare.",
+      "factsAdvanced": [
+        "Calea ferată a ajuns în zonă abia în anul 1884.",
+        "Cartierul Ybor City a fost înființat în 1886 ca centru de fabricare a trabucurilor.",
+        "Parcul de distracții Busch Gardens a fost deschis publicului în anul 1959.",
+        "Aeroportul Internațional Tampa a fost inaugurat oficial în anul 1971.",
+        "Universitatea din South Florida (USF) are sediul principal aici din anul 1956.",
+        "Portul Tampa Bay gestionează peste o treime din traficul maritim al Floridei."
+      ]
+    },
+    {
+      "id": "honolulu-cities-v2",
+      "descriptionAdvanced": "Honolulu, situat pe insula Oahu, este capitala și cel mai populat oraș al statului Hawaii, precum și principalul port de legătură al Statelor Unite cu regiunea Pacificului. Servind drept capitală a Regatului Independent Hawaii încă din 1845 (sub conducerea regelui Kamehameha al III-lea), orașul deține o moștenire polineziană profundă, găzduind Palatul Iolani, singura reședință regală oficială de pe teritoriul SUA. Istoria sa modernă a fost marcată ireversibil de atacul aerian japonez de la baza militară Pearl Harbor, la 7 decembrie 1941, eveniment care a forțat Statele Unite să intre în al Doilea Război Mondial. Astăzi, plaja Waikiki este o destinație de talie mondială pentru surfing și turism, o forță esențială a economiei locale. Geografie K8 — așezări insulare și importanță geopolitică.",
+      "factsAdvanced": [
+        "A devenit capitala oficială a Regatului Hawaii în anul 1845.",
+        "Palatul Iolani a fost finalizat în anul 1882 sub domnia regelui Kalakaua.",
+        "Atacul asupra flotei americane de la Pearl Harbor a avut loc la 7 decembrie 1941.",
+        "Statul Hawaii a devenit cel de-al 50-lea stat american în anul 1959.",
+        "Orașul găzduiește universitatea publică University of Hawaii la Manoa.",
+        "Plaja Waikiki primește peste 4 milioane de vizitatori internaționali anual."
+      ]
+    },
+    {
+      "id": "anaheim-cities-v2",
+      "descriptionAdvanced": "Anaheim, situat în comitatul Orange din sudul Californiei, a fost fondat în 1857 de cincizeci de familii de imigranți germani, inițial ca o prosperă comunitate producătoare de vin și, mai târziu, ca un centru de plantații de portocali. Adevărata transformare a orașului a venit la 17 iulie 1955, când antreprenorul vizionar Walt Disney a inaugurat aici Disneyland, primul parc tematic de acest fel din lume. Această realizare a transformat complet economia locală, îndreptând-o masiv spre turism și divertisment. Dincolo de parcurile de distracții, metropola dispune de Centrul de Convenții Anaheim, cel mai mare de pe Coasta de Vest (deschis în 1967). De asemenea, găzduiește francize sportive de succes, precum echipa de baseball Los Angeles Angels și echipa de hochei Anaheim Ducks. Geografie K7 — impactul turismului asupra peisajului urban.",
+      "factsAdvanced": [
+        "A fost fondat de 50 de familii germane în anul 1857.",
+        "Faimosul parc tematic Disneyland a fost inaugurat la 17 iulie 1955.",
+        "Centrul de Convenții din Anaheim este activ din anul 1967.",
+        "Echipa de baseball Los Angeles Angels activează în oraș încă din anul 1966.",
+        "Echipa de hochei pe gheață Anaheim Ducks a fost fondată în anul 1993.",
+        "Numele orașului combină cuvântul german „heim” (casă) cu râul local Santa Ana."
+      ]
+    },
+    {
+      "id": "orlando-cities-v2",
+      "descriptionAdvanced": "Orlando, situat în centrul statului Florida, este recunoscut la nivel mondial ca „Capitala Mondială a Parcurilor Tematice”. Orașul s-a încorporat în 1875 și, timp de aproape un secol, a fost centrul unei vaste industrii de creștere a citricelor. Totul s-a schimbat în anii 1960, când Walt Disney a achiziționat în secret terenuri vaste pentru a construi Walt Disney World Resort, care a fost inaugurat spectaculos în 1971. Acest mega-proiect a declanșat o expansiune fulminantă, aducând alte companii gigantice, precum Universal Studios și SeaWorld, în regiune. Astăzi, turismul și ospitalitatea sunt pilonii principali ai economiei, Orlando atrăgând anual zeci de milioane de vizitatori. De asemenea, aeroportul internațional din oraș se clasează printre cele mai aglomerate din America de Nord. Geografie K7 — industria serviciilor și a turismului global.",
+      "factsAdvanced": [
+        "A fost încorporat oficial ca oraș în anul 1875.",
+        "Mega-resortul Walt Disney World s-a deschis publicului la 1 octombrie 1971.",
+        "Peste 70 de milioane de turiști au vizitat orașul în 2018, un record absolut.",
+        "Universal Studios Florida și-a deschis porțile pentru vizitatori în anul 1990.",
+        "Este al doilea oraș din SUA cu cel mai mare număr de camere de hotel.",
+        "În apropierea orașului a fost fondată celebra Universitate din Central Florida (1963)."
+      ]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "descriptionAdvanced": "Pittsburgh este așezat în vestul statului Pennsylvania, strategic localizat la confluența râurilor Allegheny, Monongahela și Ohio. Fondat oficial în 1758 și numit după omul de stat britanic William Pitt, orașul a cunoscut o creștere industrială explozivă datorită rezervelor abundente de cărbune și minereu de fier din regiune. Sub influența titanului industriei Andrew Carnegie, înființarea companiei Carnegie Steel Company la sfârșitul secolului al XIX-lea i-a adus titlul de „Orașul Oțelului”. După prăbușirea masivă a industriei siderurgice în anii 1980, Pittsburgh s-a reinventat formidabil. Astăzi, metropola este un lider global în asistență medicală, robotică și tehnologie, având printre ancore Universitatea Carnegie Mellon și Universitatea din Pittsburgh. Datorită topografiei sale accidentate, se mândrește cu peste 440 de poduri, deținând supranumele de „Orașul Podurilor”. Istorie K8 — revoluția industrială și reconversia post-industrială.",
+      "factsAdvanced": [
+        "A fost fondat în 1758 pe locul fostului Fort Duquesne.",
+        "Imperiul Carnegie Steel a dominat producția mondială la sfârșitul anilor 1800.",
+        "Are 446 de poduri, depășind orașe faimoase precum Veneția (Italia).",
+        "Vaccinul împotriva poliomielitei a fost creat aici de Jonas Salk în 1953.",
+        "Universitatea Carnegie Mellon a fost înființată în anul 1900.",
+        "Este orașul în care s-a deschis prima sală comercială de cinema, Nickelodeon, în 1905."
+      ]
+    },
+    {
+      "id": "st-louis-cities-v2",
+      "descriptionAdvanced": "St. Louis este o metropolă istorică așezată de-a lungul fluviului Mississippi din Missouri, faimoasă pentru rolul său de „Poartă către Vest” (Gateway to the West). Fondat în 1764 de comercianți de blănuri francezi, orașul a fost punctul de plecare esențial pentru faimoasa Expediție a lui Lewis și Clark în 1804. În 1904, orașul a atins un vârf de prestigiu internațional, găzduind simultan Expoziția Universală și Jocurile Olimpice de Vară. Simbolul de necontestat al orașului este impunătorul Gateway Arch, o structură arhitecturală din oțel inoxidabil finalizată în 1965, având o înălțime de 192 de metri (cel mai înalt monument creat de om în SUA). De-a lungul istoriei, moștenirea sa muzicală s-a remarcat printr-o contribuție masivă la formarea genurilor ragtime, blues și jazz. Istorie K8 — expansiunea teritorială către vest.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în februarie 1764 de Pierre Laclede și René Auguste Chouteau.",
+        "A găzduit Târgul Mondial (World's Fair) și Jocurile Olimpice în anul 1904.",
+        "Gateway Arch, cu o înălțime de 192 de metri, a fost finalizat în anul 1965.",
+        "Expediția condusă de Lewis și Clark a început de aici în luna mai a anului 1804.",
+        "Sediul gigantului din industria berii, Anheuser-Busch, funcționează aici din 1852.",
+        "Prima grădiniță publică din Statele Unite a fost deschisă în St. Louis în anul 1873."
+      ]
+    },
+    {
+      "id": "riverside-cities-v2",
+      "descriptionAdvanced": "Riverside, situat în sudul Californiei la est de Los Angeles, poartă numele râului Santa Ana care străbate zona. Fondat în 1870 de aboliționistul John W. North, orașul este faimos ca fiind locul de naștere al imensei industrii a citricelor din California. În 1871, plantarea primilor portocali de tip „Washington Navel” (portocale fără sâmburi) s-a dovedit a fi un succes formidabil, propulsând Riverside spre a deveni unul dintre cele mai bogate orașe din Statele Unite la sfârșitul anilor 1890. Arhitectura spaniolă de tip Mission Revival este predominantă, având ca punct central hotelul istoric Mission Inn, deschis în 1902 și vizitat de numeroși președinți. Riverside găzduiește, de asemenea, un campus al prestigioasei Universități din California (UCR, înființată în 1954). Geografie K7 — rolul agriculturii în dezvoltarea urbană.",
+      "factsAdvanced": [
+        "A fost fondat în 1870 de coloniști orientați spre agricultură.",
+        "Primii portocali hibrizi Washington Navel au fost plantați cu succes în 1871.",
+        "Datorită citricelor, Riverside a avut cel mai mare venit pe cap de locuitor în 1895.",
+        "Hotelul istoric Mission Inn a început ca o mică pensiune în 1876.",
+        "Universitatea din California, Riverside (UCR) a primit acest statut în 1954.",
+        "Parcul Istoric de Stat California Citrus din apropiere onorează moștenirea agricolă a regiunii."
+      ]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "descriptionAdvanced": "Santa Ana este centrul administrativ (county seat) și nucleul financiar al comitatului Orange, situat în sudul Californiei. Orașul a fost fondat în 1869 de William H. Spurgeon pe un teren achiziționat dintr-o veche concesiune de pământ spaniolă, Rancho Santiago de Santa Ana. A crescut inițial datorită agriculturii, însă în secolul al XX-lea s-a transformat rapid într-un pol industrial, comercial și guvernamental al regiunii. Astăzi, Santa Ana este caracterizată printr-o diversitate etnică profundă, având o puternică moștenire hispano-americană care îi influențează cultura, festivalurile și viața de zi cu zi. Cartierul istoric din centrul orașului (Downtown) deține clădiri arhitecturale remarcabile în stil Art Deco, un tribunal istoric spectaculos din 1901 și faimosul complex educațional și muzeal Discovery Cube Orange County. Geografie K7 — așezări urbane și administrație regională.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în 1869 și încorporat oficial în anul 1886.",
+        "Peste 75% din locuitorii orașului se identifică ca hispanici sau latino.",
+        "Muzeul Bowers de istorie culturală și artă a fost inaugurat aici în 1936.",
+        "Servește ca sediu al guvernului local pentru comitatul Orange din anul 1889.",
+        "Gara regională din oraș a devenit unul dintre cele mai tranzitate hub-uri din sudul Californiei.",
+        "Baza militară a forțelor aeriene (astăzi un aeroport) a activat pe teritoriul său în timpul războiului."
+      ]
+    },
+    {
+      "id": "cincinnati-cities-v2",
+      "descriptionAdvanced": "Cincinnati este o metropolă majoră din statul Ohio, poziționată pe malul nordic al fluviului Ohio. Fondat la scurt timp după Războiul de Independență (în 1788), orașul a prosperat formidabil în secolul al XIX-lea odată cu lansarea navigației cu aburi, devenind un centru american vital pentru prelucrarea cărnii de porc — epocă din care a derivat porecla de „Porkopolis”. Orașul se laudă cu un cartier german istoric uimitor (Over-the-Rhine) ce găzduiește una dintre cele mai vaste colecții de arhitectură italiană din secolul al XIX-lea din toată America. Pe lângă o moștenire industrială uriașă (fiind sediul gigantului de bunuri de larg consum Procter & Gamble), Cincinnati deține onoarea de a fi format prima echipă profesionistă de baseball din istoria SUA, faimoasa echipă Cincinnati Red Stockings (fondată în 1869). Istorie K8 — expansiunea teritorială și sportul american.",
+      "factsAdvanced": [
+        "Așezarea a fost fondată în iarna anului 1788 pe malul fluviului Ohio.",
+        "Corporația Procter & Gamble a fost înființată aici în anul 1837.",
+        "A găzduit prima echipă complet profesionistă de baseball din SUA în 1869.",
+        "Faimosul pod suspendat Roebling a fost inaugurat în 1866, înaintea celui din Brooklyn.",
+        "Sistemul feroviar urban nefinalizat al orașului (Cincinnati Subway) a început să fie construit în anii 1920.",
+        "Universitatea din Cincinnati a fost fondată drept colegiu municipal în anul 1819."
+      ]
+    },
+    {
+      "id": "lexington-cities-v2",
+      "descriptionAdvanced": "Lexington este al doilea cel mai mare oraș din statul Kentucky, așezat în inima regiunii faimoase Bluegrass. Fondat în 1775 de către pionieri din Virginia și denumit în onoarea primei bătălii a Revoluției Americane (Bătălia de la Lexington, Massachusetts), orașul a adoptat curând titlul neoficial de „Capitala Mondială a Cailor”. Solurile calcaroase ale regiunii oferă pășuni extrem de nutritive, fiind mediul perfect pentru creșterea cailor de curse pursânge (Thoroughbred). Hipodromul Keeneland, deschis în 1936, este un loc de venerare a tradițiilor ecvestre americane. Lexington găzduiește, de asemenea, principalul campus al Universității din Kentucky (înființată în 1865), fiind un important centru educațional. În efortul de a proteja faimoasele ferme de cai, orașul a implementat prima graniță strictă de extindere urbană (Urban Growth Boundary) din SUA în 1958. Geografie K7 — geologia solului și agricultura de nișă.",
+      "factsAdvanced": [
+        "A fost fondat în luna iunie 1775, înainte de formarea statului Kentucky.",
+        "Regiunea este renumită pentru solul său bogat în calciu, esențial pentru oasele cailor.",
+        "A instituit prima graniță de extindere urbană din țară în anul 1958.",
+        "Celebrul hipodrom și centru de licitații Keeneland a fost inaugurat în 1936.",
+        "Parcul tematic și educațional Kentucky Horse Park a fost deschis în anul 1978.",
+        "Găzduiește Universitatea din Kentucky, cu un număr uriaș de studenți."
+      ]
+    }
+  ]
+}

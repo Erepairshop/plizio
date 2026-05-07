@@ -1,0 +1,340 @@
+{
+  "lang": "en",
+  "country": "kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "busia-cities-v2",
+      "descriptionAdvanced": "Busia is a pivotal border town situated in western Kenya, acting as the primary gateway into neighboring Uganda. Positioned at an elevation of 1,220 meters, it is the administrative and commercial headquarters of Busia County. The local economy is intensely dominated by cross-border trade, logistics, and transportation, handling a massive percentage of Kenya's overland exports to the East African interior. Beyond transit commerce, the surrounding hinterland is agriculturally rich, supporting significant cultivation of sugarcane, cassava, and millet. The town is predominantly inhabited by the Luhya and Iteso communities, contributing to a vibrant, binational cultural atmosphere. In 2018, the opening of a modern One-Stop Border Post drastically reduced cargo clearance times, further solidifying Busia's status as a critical node in regional economic integration. Economics K7 — Border crossings and logistics.",
+      "factsAdvanced": [
+        "Functions as a major border crossing point between Kenya and Uganda.",
+        "Serves as the administrative capital of Busia County.",
+        "Located at an elevation of approximately 1,220 meters (4,003 feet).",
+        "A modern One-Stop Border Post was officially opened in 2018 to facilitate trade.",
+        "The surrounding agricultural region heavily cultivates cassava and sugarcane.",
+        "Handles a significant portion of overland freight traffic into landlocked East Africa.",
+        "The urban population was recorded at roughly 111,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "voi-cities-v2",
+      "descriptionAdvanced": "Voi is a crucial transit and commercial hub situated in Taita-Taveta County along the edge of the Tsavo East National Park. Established originally as a prominent trading post for the local Taita people, the town expanded significantly in the late 19th century as a key station on the Uganda Railway connecting Mombasa to the interior. Located at a relatively low altitude of 580 meters, Voi experiences a hot, semi-arid climate. Today, its economy is heavily anchored in tourism logistics, serving as the primary access point for safaris heading into the vast Tsavo conservation areas. Furthermore, Voi has benefited immensely from the modern Standard Gauge Railway (SGR), featuring a major passenger terminus that has revitalized local trade and connectivity to the coast. Economics K7 — Transport nodes and tourism.",
+      "factsAdvanced": [
+        "Evolved significantly as a major station on the Uganda Railway in the late 1890s.",
+        "Serves as the principal gateway to Tsavo East National Park.",
+        "Located at an elevation of approximately 580 meters (1,900 feet).",
+        "Features a major station on the modern Standard Gauge Railway (SGR).",
+        "The largest urban center within Taita-Taveta County by population.",
+        "Historically a vital trading post between coastal merchants and the interior Taita people.",
+        "The town's population reached approximately 53,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "ruiru-cities-v2",
+      "descriptionAdvanced": "Ruiru is a rapidly expanding industrial and residential town located within Kiambu County, functioning effectively as a major satellite city to Nairobi. Historically dominated by vast sisal and coffee plantations established by colonial settlers, the town has transitioned dramatically into an industrial powerhouse. Positioned at an elevation of 1,565 meters, Ruiru now hosts numerous major manufacturing facilities, notably the massive Brookside Dairy processing plant and the Devki Ruiru steel mills. The completion of the Thika Superhighway and the Eastern Bypass has triggered explosive real estate development, transforming former agricultural lands into modern housing estates. In addition to industry, the town has become a prominent educational center, hosting the main campus of Kenyatta University, one of Kenya's largest public institutions. Geography K7 — Urban sprawl and industrialization.",
+      "factsAdvanced": [
+        "Historically known for extensive sisal and coffee farming prior to industrialization.",
+        "Located along the Thika Superhighway just 25 kilometers from Nairobi.",
+        "Home to the massive Brookside Dairy processing facility.",
+        "Hosts the main campus of Kenyatta University.",
+        "Positioned at an elevation of roughly 1,565 meters (5,135 feet).",
+        "The Eastern Bypass highway intersects here, connecting to Jomo Kenyatta International Airport.",
+        "Registered a massive population of over 371,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kilifi-cities-v2",
+      "descriptionAdvanced": "Kilifi is a picturesque coastal resort town and the administrative capital of Kilifi County, located midway between Mombasa and Malindi. Situated on the estuary of the Goshi River where it empties into the Indian Ocean, the town is historically significant, featuring the nearby Mnarani Ruins, which date back to the 14th century and highlight early Swahili coastal architecture. Today, Kilifi is renowned for its pristine Bofa Beach and deep-water creek, which serves as a premier destination for yachting and water sports. The town's modern infrastructure is defined by the Kilifi Bridge, completed in 1991, which forms a vital link along the coastal highway. The local economy uniquely blends tourism, sisal farming, and higher education, notably hosting Pwani University. Geography K8 — Coastal estuaries and tourism.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters for Kilifi County.",
+        "Located on the Goshi River estuary, creating a deep natural creek.",
+        "The nearby Mnarani Ruins showcase 14th-century Swahili civilization.",
+        "The Kilifi Bridge, spanning 420 meters, was completed in 1991.",
+        "Home to Pwani University, originally an agricultural research institute.",
+        "The region is a major national producer of sisal and cashew nuts.",
+        "The urban population was roughly 122,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "mumias-cities-v2",
+      "descriptionAdvanced": "Mumias is a prominent town in western Kenya, historically serving as the capital of the Wanga Kingdom under the influential Paramount Chief Nabongo Mumia during the late 19th century. Located at an altitude of 1,314 meters, the town is geographically and economically defined by its highly fertile soils and consistent rainfall, which make it ideal for extensive agriculture. For decades, Mumias was synonymous with the Mumias Sugar Company, established in 1971, which was once the largest sugar producer in East Africa and the absolute backbone of the local economy. While the sugar industry has faced severe economic challenges recently, the town remains a vital commercial center for Kakamega County. The historical legacy of the Wanga Kingdom is preserved locally, maintaining a unique cultural identity within the broader Luhya community. History K8 — Pre-colonial kingdoms and agro-industry.",
+      "factsAdvanced": [
+        "Historically the capital of the Wanga Kingdom under Chief Nabongo Mumia.",
+        "Located in Kakamega County at an elevation of 1,314 meters.",
+        "The Mumias Sugar Company was established here in 1971.",
+        "At its peak, the local sugar factory was the largest in East Africa.",
+        "The first British colonial administrative post in western Kenya was set up here in 1894.",
+        "The town features a prominent mosque built in the early 1900s, reflecting early Islamic influence.",
+        "The population was recorded at approximately 116,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kapenguria-cities-v2",
+      "descriptionAdvanced": "Kapenguria is the administrative capital of West Pokot County, situated in the rugged northern Rift Valley region at the foothills of the Cherangani Hills. The town sits at an elevation of 2,130 meters, experiencing a cool climate that supports the cultivation of maize and dairy farming, sharply contrasting with the arid plains located further north. Kapenguria holds a profound place in Kenyan history; it was here in 1953 that colonial authorities held the infamous trial of the 'Kapenguria Six', including future president Jomo Kenyatta, accusing them of managing the Mau Mau rebellion. This history is meticulously preserved at the Kapenguria Museum, which occupies the former detention cells. Today, it serves as a critical commercial link between the agricultural highlands and the pastoralist communities of the deep north. History K8 — Anti-colonial resistance.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters of West Pokot County.",
+        "The site of the historic 1953 trial of the 'Kapenguria Six', including Jomo Kenyatta.",
+        "The Kapenguria Museum was opened in 1993 in the former prison cells.",
+        "Located at a high altitude of approximately 2,130 meters (6,988 feet).",
+        "Functions as a transition zone between fertile highlands and arid pastoral lands.",
+        "Situated at the western foothills of the Cherangani Hills.",
+        "The urban population reached approximately 71,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "nanyuki-cities-v2",
+      "descriptionAdvanced": "Nanyuki is a vibrant market town in Laikipia County, uniquely positioned exactly on the equator, a geographical fact marked by iconic roadside signposts popular with tourists. Founded by British settlers in 1907 at an elevation of 1,947 meters, the town was established as a major center for cattle ranching and large-scale farming on the fertile northwestern slopes of Mount Kenya. Today, Nanyuki is famous as the primary base for mountaineering expeditions tackling the Sirimon and Burguret routes up the mountain. Furthermore, the town is a major logistical hub for the numerous private wildlife conservancies spanning the Laikipia Plateau, balancing robust tourism with agricultural output. It also hosts the main base of the British Army Training Unit Kenya (BATUK), adding a distinct international dimension to the local economy. Geography K7 — Equator settlements and tourism.",
+      "factsAdvanced": [
+        "The town is famously bisected precisely by the equator.",
+        "Founded by British colonial settlers in 1907 as a farming and ranching hub.",
+        "Located at an altitude of 1,947 meters (6,388 feet) near Mount Kenya.",
+        "Serves as the primary logistics base for British Army Training Unit Kenya (BATUK).",
+        "The central gateway for expeditions climbing Mount Kenya's Sirimon route.",
+        "Surrounded by vast private wildlife conservancies like Ol Pejeta.",
+        "The town recorded a population of roughly 72,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kikuyu-cities-v2",
+      "descriptionAdvanced": "Located just 20 kilometers northwest of Nairobi, Kikuyu is one of Kenya's oldest modern towns, deeply intertwined with the early history of the Uganda Railway and Christian missionary work. Established around a railway station in the late 1890s, the town quickly became a prominent center for the Church of Scotland, which founded the iconic PCEA Church of the Torch in 1909 and the highly influential Alliance High School in 1926. Situated at an elevation of 2,000 meters, Kikuyu features a cool climate that historically supported extensive wattle and coffee plantations. Today, fueled by the expansion of the Nairobi Southern Bypass, it has largely transformed into a rapidly growing commuter suburb, blending historical missionary architecture with modern real estate developments. History K8 — Missionary education and railway towns.",
+      "factsAdvanced": [
+        "Evolved around an early station built on the Uganda Railway in the 1890s.",
+        "The PCEA Church of the Torch was completed here by missionaries in 1909.",
+        "Alliance High School, a premier national institution, was founded here in 1926.",
+        "Located at a high elevation of approximately 2,000 meters (6,561 feet).",
+        "Home to the Presbyterian University of East Africa.",
+        "Has rapidly developed into a major residential suburb of the Nairobi metropolis.",
+        "The urban center had a population of roughly 323,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "nyahururu-cities-v2",
+      "descriptionAdvanced": "Nyahururu, formerly known as Thomson's Falls, is a high-altitude town situated at 2,303 meters on the edge of the Laikipia Plateau and the Aberdare Range. The town was founded in the 1920s around the dramatic 74-meter Thomson's Falls on the Ewaso Narok river, named after the Scottish explorer Joseph Thomson who reached them in 1883. Benefiting from exceptionally cool temperatures and consistent rainfall, Nyahururu is a premier agricultural hub, producing massive quantities of potatoes, maize, and dairy products. Similar to Eldoret and Iten, its extreme high altitude makes it a highly favored training base for elite long-distance athletes from around the globe. The town remains heavily reliant on domestic tourism driven by the waterfalls, alongside its robust agricultural commerce. Geography K6 — High-altitude farming and waterfalls.",
+      "factsAdvanced": [
+        "Originally named Thomson's Falls after explorer Joseph Thomson (1883).",
+        "Located at an extreme altitude of 2,303 meters (7,555 feet).",
+        "Features the spectacular 74-meter-high Thomson's Falls on the Ewaso Narok river.",
+        "A major training center for marathon runners due to its thin, high-altitude air.",
+        "The town was a prominent filming location for the 1980 movie 'The Gods Must Be Crazy'.",
+        "A critical regional hub for large-scale potato and dairy farming.",
+        "The population was recorded at approximately 51,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "siaya-cities-v2",
+      "descriptionAdvanced": "Siaya is the administrative headquarters of Siaya County, located in the gently rolling landscape of the Lake Victoria basin in western Kenya. Situated at an elevation of 1,240 meters, the town is a major cultural and political center for the Luo community. The local economy is primarily agrarian, focusing on the cultivation of sorghum, maize, and cotton, supplemented heavily by fishing activities from the nearby shores of Lake Victoria. Siaya holds significant historical gravity, closely associated with prominent Kenyan political figures, notably the Odinga family. While traditionally a quieter administrative center, the town has seen recent modernization with the establishment of Jaramogi Oginga Odinga University of Science and Technology in nearby Bondo, which has stimulated educational and commercial growth across the entire county. Social Studies K7 — Regional administrative centers.",
+      "factsAdvanced": [
+        "Serves as the administrative capital of Siaya County.",
+        "Located at an elevation of roughly 1,240 meters (4,068 feet) near Lake Victoria.",
+        "Functions as a major cultural and political heartland for the Luo people.",
+        "The surrounding economy is driven by subsistence agriculture and lake fishing.",
+        "Positioned near the historic Alego-Kogelo village, the ancestral home of Barack Obama Sr.",
+        "The region is known for producing robust harvests of sorghum and cotton.",
+        "The urban population was roughly 33,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "bomet-cities-v2",
+      "descriptionAdvanced": "Bomet is a bustling agricultural center and the administrative headquarters of Bomet County, situated in the fertile highlands of the South Rift region. Located at an altitude of 1,950 meters, the town benefits from abundant rainfall and deep volcanic soils, making it an absolute powerhouse in Kenya's tea industry. The surrounding landscape is characterized by endless, rolling tea plantations, largely managed by smallholder farmers supplying local processing factories. Beyond tea, dairy farming forms a massive pillar of the local economy. The town has expanded rapidly as a commercial transit point connecting the southern Rift Valley to the Lake Victoria basin. The establishment of Bomet University College has recently introduced a new educational dimension to the town's predominantly agrarian character. Economics K7 — Smallholder cash crop farming.",
+      "factsAdvanced": [
+        "Serves as the administrative capital of Bomet County.",
+        "Located at a high altitude of 1,950 meters (6,397 feet) in the South Rift.",
+        "A major national production hub for tea, predominantly via smallholder farms.",
+        "The town's economy is heavily supported by intensive dairy farming cooperatives.",
+        "Bomet University College was established to expand regional higher education.",
+        "Acts as a crucial transport link connecting the Rift Valley to Nyanza Province.",
+        "The town recorded a population of roughly 110,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "athi-river-cities-v2",
+      "descriptionAdvanced": "Athi River, also known as Mavoko, is a heavily industrialized town in Machakos County, located just 30 kilometers southeast of Nairobi. Positioned along the Nairobi-Mombasa highway and the railway line, its strategic location spurred massive industrial development beginning in the mid-20th century. The town is most famous as Kenya's premier hub for cement manufacturing, hosting colossal plants for Bamburi, East African Portland, and Mombasa Cement. Additionally, Athi River is home to the expansive Export Processing Zone (EPZ), established in 1990, which houses dozens of textile and manufacturing firms producing goods specifically for international export. This intense industrialization has driven rapid demographic growth, transforming the town into a densely populated, working-class urban center highly integrated into Nairobi's broader metropolitan economy. Economics K8 — Export processing and heavy industry.",
+      "factsAdvanced": [
+        "A major industrial center formally known as Mavoko municipality.",
+        "Located along the primary transport corridor between Nairobi and Mombasa.",
+        "The epicenter of Kenya's cement industry, hosting multiple massive factories.",
+        "Home to the Athi River Export Processing Zone (EPZ), established in 1990.",
+        "Features a major station on the modern Standard Gauge Railway (SGR).",
+        "The Kenya Meat Commission established its massive processing facility here in 1953.",
+        "The urban population exploded to over 322,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "vihiga-cities-v2",
+      "descriptionAdvanced": "Vihiga is the administrative center of Vihiga County, located in the densely populated, hilly terrain of western Kenya, just north of the equator. The town sits at an elevation of 1,550 meters and is characterized by exceptionally high agricultural intensity, driven by rich soils and abundant rainfall. However, due to severe population density, land fragmentation is high, pushing the local economy toward intensive small-scale farming of tea, maize, and bananas, alongside a strong culture of out-migration for employment. Vihiga is deeply rooted in the Maragoli cultural heritage, uniquely famous for its massive annual Maragoli cultural festivals and vibrant community traditions. The landscape is dotted with dramatic granitic rock formations, creating a distinct and picturesque topography amid the dense green vegetation. Geography K7 — High population density agriculture.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters for Vihiga County.",
+        "Located just five kilometers north of the equator at an altitude of 1,550 meters.",
+        "One of the most densely populated rural municipalities in Kenya.",
+        "The local economy relies on intensive smallholder tea and maize farming.",
+        "Features dramatic granitic boulder outcrops scattered across the hilly terrain.",
+        "A major cultural epicenter for the Maragoli sub-tribe of the Luhya people.",
+        "The town's population was recorded at approximately 118,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "chuka-cities-v2",
+      "descriptionAdvanced": "Chuka is a prominent agricultural and educational town situated on the eastern slopes of Mount Kenya in Tharaka-Nithi County. Located at an altitude of 1,500 meters, the town is blessed with fertile volcanic soils and consistent rainfall, fostering a robust agrarian economy focused on coffee, tea, and macadamia nut production. Chuka is historically significant as the traditional heartland of the Chuka people, a sub-group of the larger Meru community, known for their unique drumming and cultural dances. In recent years, the town has undergone a profound transformation from a quiet farming center to a vibrant university town following the establishment and rapid expansion of Chuka University in 2004. This institutional growth has spurred massive real estate and retail development, modernizing the local economy. Social Studies K7 — University-driven urban growth.",
+      "factsAdvanced": [
+        "Located on the eastern slopes of Mount Kenya at an elevation of 1,500 meters.",
+        "The traditional cultural and commercial center for the Chuka people.",
+        "A major regional producer of Arabica coffee and macadamia nuts.",
+        "Chuka University was established in 2004, driving rapid urban expansion.",
+        "Situated along the primary Meru-Nairobi highway corridor.",
+        "The town is famous for the traditional, acrobatic Chuka drummers.",
+        "The urban population reached approximately 43,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "kiambu-cities-v2",
+      "descriptionAdvanced": "Kiambu is the historic administrative capital of Kiambu County, situated just 14 kilometers north of Nairobi at a cool elevation of 1,720 meters. Established deeply within the colonial era as a premier center for European coffee farming, the town is surrounded by some of the most lucrative and extensive coffee estates in East Africa. While it retains a strong agricultural backbone, Kiambu's extreme proximity to the capital has subjected it to intense suburbanization, with old plantations steadily yielding to high-end real estate and gated communities. The town remains a critical political and economic powerhouse, deeply influential in Kenya's national history as a core settlement for the Kikuyu people. Despite the creeping concrete, the adjacent Kiambu Golf Club, founded in 1916, preserves the town's old-world heritage. Geography K8 — Suburbanization of agricultural land.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters of Kiambu County.",
+        "Located at an elevation of roughly 1,720 meters (5,643 feet).",
+        "Historically one of the most prominent coffee-growing hubs in East Africa.",
+        "Experiencing massive suburban expansion due to its proximity to Nairobi.",
+        "The Kiambu Golf Club was established by colonial settlers in 1916.",
+        "Functions as a major cultural and political center for the Kikuyu community.",
+        "The urban center had a population of approximately 147,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "mandera-cities-v2",
+      "descriptionAdvanced": "Mandera is an incredibly remote frontier town situated at the absolute northeastern tip of Kenya, where the borders of Kenya, Ethiopia, and Somalia converge. Defined by a harsh, arid desert climate, the town sits at a low elevation of just 200 meters near the Daua River, which forms the physical boundary with Ethiopia. Historically and currently, Mandera is a crucial trading post for Somali pastoralists, its economy revolving entirely around cross-border livestock commerce, particularly camels and goats. Due to its isolated location and porous borders, the town is highly cosmopolitan yet frequently challenged by regional security dynamics. Despite its arid nature, localized agriculture thrives along the banks of the Daua River, providing essential subsistence crops to the nomadic population. Geography K7 — Tri-border desert settlements.",
+      "factsAdvanced": [
+        "Located at the tri-point border where Kenya, Ethiopia, and Somalia meet.",
+        "Serves as the administrative headquarters of Mandera County.",
+        "Situated at an elevation of roughly 200 meters (656 feet) in a hot desert climate.",
+        "The Daua River forms the northern boundary and supports localized irrigation.",
+        "The economy is overwhelmingly driven by the cross-border pastoralist livestock trade.",
+        "Considered one of the most geographically remote administrative centers in Kenya.",
+        "The urban population was recorded at approximately 114,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "marsabit-cities-v2",
+      "descriptionAdvanced": "Marsabit is a spectacular geographical anomaly, functioning as a lush, green oasis rising dramatically from the surrounding hyper-arid deserts of northern Kenya. Situated at an altitude of 1,400 meters on an extinct shield volcano, the town is frequently shrouded in thick mist, creating a microclimate that supports a dense montane forest. This forest is protected within the Marsabit National Park, established in 1949 and historically famous for its massive-tusked elephants, including the legendary 'Ahmed'. The town is highly diverse, serving as a peaceful trading nexus for the Borana, Rendille, Gabra, and Turkana communities. Recently, the paving of the Isiolo-Moyale highway has broken Marsabit's historical isolation, accelerating commercial growth and positioning it as a major stopover on the Cape-to-Cairo route. Earth Sciences K8 — Volcanic microclimates.",
+      "factsAdvanced": [
+        "Situated on an isolated extinct volcano at an elevation of 1,400 meters.",
+        "Serves as the administrative capital of the vast Marsabit County.",
+        "Features a cool, misty microclimate surrounded by harsh, low-altitude deserts.",
+        "Marsabit National Park, home to Lake Paradise, was established in 1949.",
+        "Historically famous for 'Ahmed', an elephant with extraordinarily large tusks.",
+        "A major cultural melting pot for Rendille, Borana, and Gabra pastoralists.",
+        "The town's population reached approximately 38,000 according to the 2019 census."
+      ]
+    },
+    {
+      "id": "nyamira-cities-v2",
+      "descriptionAdvanced": "Nyamira is a highly productive agricultural town and the headquarters of Nyamira County, located in the verdant highlands of southwestern Kenya. Situated at an altitude of 1,700 meters, the town is characterized by steep hills, deep valleys, and exceptional rainfall, making it a prime zone for intensive cash crop cultivation. The local economy is robustly anchored in the massive production of tea and bananas, alongside dairy farming, largely executed by smallholder farmers. Culturally, Nyamira is a core settlement for the Gusii people, renowned for their industrious farming practices. Despite its high population density, the town retains a deeply rural character, serving primarily as a collection and processing point for the surrounding agrarian hinterland. Economics K6 — Intensive highland agriculture.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters for Nyamira County.",
+        "Located at a high altitude of approximately 1,700 meters (5,577 feet).",
+        "A major national producer of high-quality tea and bananas.",
+        "The local topography is defined by extremely steep, terraced hillsides.",
+        "Functions as a primary cultural and commercial hub for the Gusii community.",
+        "The region experiences near-daily rainfall, supporting year-round agriculture.",
+        "The urban population was recorded at roughly 36,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kwale-cities-v2",
+      "descriptionAdvanced": "Kwale is the administrative capital of Kwale County, uniquely situated 30 kilometers inland from the Indian Ocean on the eastern slopes of the Shimba Hills. Positioned at an elevation of roughly 400 meters, the town enjoys a slightly cooler and less humid climate than the adjacent coastal strip. Kwale's economy is highly diversified; it acts as an agricultural market for the surrounding fruit and cashew nut farmers, a logistical base for tourism directed at the pristine Diani Beach, and a center for environmental conservation linked to the Shimba Hills National Reserve, famous for its Sable antelopes. Furthermore, the local economy was significantly boosted by the establishment of the Kwale Titanium Mine in 2013, which introduced major industrial infrastructure to this historically quiet administrative post. Geography K7 — Coastal hinterlands and mining.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters for Kwale County.",
+        "Located inland on the eastern slopes of the Shimba Hills at 400 meters elevation.",
+        "Positioned just 30 kilometers southwest of Mombasa city.",
+        "The adjacent Shimba Hills National Reserve was established in 1968.",
+        "A major logistical hub for the nearby Diani Beach tourism sector.",
+        "The massive Kwale Titanium Mine commenced operations nearby in 2013.",
+        "The town recorded a population of approximately 10,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kangundo-cities-v2",
+      "descriptionAdvanced": "Kangundo is a vibrant agricultural town situated within the fertile Mua Hills in Machakos County, located approximately 70 kilometers east of Nairobi. Sitting at a high elevation of 1,600 meters, the town benefits from a distinctly cooler and wetter microclimate compared to the surrounding semi-arid Ukambani plains. This geographical advantage has historically made Kangundo a premier hub for high-quality Arabica coffee production, managed largely by robust local farming cooperatives. The town is deeply culturally significant to the Kamba people and is renowned for its strong educational institutions, particularly Kangundo High School. The steep, terraced landscapes around the town not only support intensive agriculture but also provide striking scenic views of the Rift Valley margins. Geography K6 — Microclimates and cooperative farming.",
+      "factsAdvanced": [
+        "Located in the Mua Hills of Machakos County at an elevation of 1,600 meters.",
+        "Historically a premier center for Arabica coffee cultivation in the region.",
+        "The local economy is heavily driven by agricultural farming cooperatives.",
+        "Features a cooler, wetter microclimate than the broader Ukambani region.",
+        "Located approximately 70 kilometers east of the capital, Nairobi.",
+        "Acts as a major educational and cultural center for the Kamba community.",
+        "The combined Kangundo-Tala urban area had a population of roughly 12,000 in 2019."
+      ]
+    },
+    {
+      "id": "gilgil-cities-v2",
+      "descriptionAdvanced": "Gilgil is a prominent transit and military town situated in Nakuru County on the floor of the Great Rift Valley, between Naivasha and Nakuru. Established in the early 20th century as a crucial station on the Uganda Railway, it sits at an elevation of 2,000 meters. The town's modern identity is heavily defined by its massive military installations; it hosts the headquarters of the Kenya Defence Forces' Western Command, the Anti-Stock Theft Unit, and the National Youth Service training college, injecting substantial state-driven commerce into the local economy. Beyond the military presence, Gilgil is an important agricultural market for nearby wheat and dairy farms, and serves as the primary turn-off point for tourists traveling toward Nyahururu and the Aberdare ranges. Social Studies K7 — Garrison towns and rail history.",
+      "factsAdvanced": [
+        "Evolved around a railway station established on the Uganda Railway line.",
+        "Located at an altitude of approximately 2,000 meters (6,561 feet).",
+        "Hosts the headquarters for the Kenya Defence Forces' Western Command.",
+        "Home to the primary training college for the National Youth Service (NYS).",
+        "Positioned on the main Nairobi-Nakuru highway in the Great Rift Valley.",
+        "Serves as the main junction for traffic heading north to Nyahururu.",
+        "The urban population was recorded at roughly 60,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "kapsabet-cities-v2",
+      "descriptionAdvanced": "Kapsabet is the administrative capital of Nandi County, nestled high in the Nandi Hills at a commanding elevation of 2,000 meters. The town's geography is characterized by rolling, intensely green landscapes shaped by deep volcanic soils and heavy, consistent rainfall. This environment makes Kapsabet an absolute powerhouse for commercial tea production, with numerous sprawling estates completely surrounding the urban center. Similar to Eldoret, Kapsabet is globally celebrated as a 'cradle of champions', having produced an extraordinary number of Olympic and world-record-breaking long-distance runners who utilize the high altitude for rigorous training. The town serves as the cultural and political heartbeat of the Nandi people, balancing its deeply agrarian economy with expanding educational and athletic infrastructure. Social Studies K6 — Athletics and high-altitude tea.",
+      "factsAdvanced": [
+        "Serves as the administrative headquarters of Nandi County.",
+        "Located in the Nandi Hills at a high elevation of roughly 2,000 meters.",
+        "The surrounding region is one of Kenya's largest commercial tea producers.",
+        "Globally renowned for producing dozens of elite, world-class marathon runners.",
+        "Acts as the primary cultural and political center for the Nandi community.",
+        "Experiences an exceptionally cool and wet climate year-round.",
+        "The urban population reached approximately 104,000 in the 2019 national census."
+      ]
+    },
+    {
+      "id": "limuru-cities-v2",
+      "descriptionAdvanced": "Limuru is a historically significant, high-altitude town located on the eastern edge of the Great Rift Valley in Kiambu County, just 30 kilometers northwest of Nairobi. Positioned at an imposing elevation of 2,250 meters, it is famous for its chilly, frequently foggy climate. This unique geography led colonial settlers to establish Kenya's very first commercial tea plantations here in 1903, an industry that continues to dominate the landscape today alongside vast dairy farms. Limuru also features the massive Bata shoe factory, established in 1939, which has been a pillar of local industrial employment. Today, the town serves as a prominent commuter suburb, while its dramatic escarpment views and historic tea estates attract significant domestic tourism and real estate investment. Geography K8 — Escarpment climates and early industrialization.",
+      "factsAdvanced": [
+        "Located on the edge of the Great Rift Valley at an altitude of 2,250 meters.",
+        "The site of Kenya's first commercial tea plantations, established in 1903.",
+        "Home to the massive Bata shoe manufacturing plant, opened in 1939.",
+        "Features a famously cool, misty climate year-round due to its elevation.",
+        "Located just 30 kilometers northwest of the capital, Nairobi.",
+        "A major national hub for large-scale commercial dairy farming.",
+        "The town recorded a population of roughly 159,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "molo-cities-v2",
+      "descriptionAdvanced": "Molo is a prominent agricultural town situated high on the Mau Escarpment within Nakuru County. Benefiting from an exceptionally high elevation of 2,500 meters and rich volcanic loam soils, the town is widely regarded as the capital of Kenya's potato and pyrethrum industries. Molo grew significantly in the early 20th century as a key station on the Uganda Railway, facilitating the rapid export of massive agricultural yields and high-quality timber from the adjacent Mau Forest. The consistently cold climate historically made it a favored settlement for European farmers concentrating on sheep rearing and wheat. Today, Molo remains a critical agrarian hub, though it occasionally faces environmental challenges linked to the deforestation of the vital Mau water tower that borders the town. Economics K7 — High-altitude cash crops.",
+      "factsAdvanced": [
+        "Located on the Mau Escarpment at an extreme altitude of 2,500 meters (8,202 feet).",
+        "Historically developed as a major agricultural stop on the Uganda Railway.",
+        "Nationally famous as the primary hub for potato and pyrethrum cultivation.",
+        "The surrounding region is characterized by extensive, cool-climate sheep farming.",
+        "Borders the Mau Forest complex, Kenya's largest closed-canopy forest ecosystem.",
+        "Known for producing high-quality timber and wool products.",
+        "The town's population was recorded at approximately 163,000 in the 2019 census."
+      ]
+    },
+    {
+      "id": "ngong-cities-v2",
+      "descriptionAdvanced": "Ngong is a rapidly expanding commuter town located in Kajiado County, positioned at the foothills of the scenic Ngong Hills just southwest of Nairobi. Historically a deeply rural Maasai settlement, its name derives from the Maasai word 'enkong'u' meaning 'knuckles', describing the distinct shape of the adjacent hills. Sitting at an elevation of 1,960 meters, Ngong enjoys a cool climate and spectacular panoramic views of the Great Rift Valley. Over the last two decades, the town has transitioned explosively into a major residential suburb, absorbing massive spillover populations from the capital. Despite this urbanization, the nearby Ngong Hills remain a highly protected forest reserve, famous as a training ground for elite athletes and the site of a major wind power generation farm. Geography K7 — Topography and suburban expansion.",
+      "factsAdvanced": [
+        "Located at the eastern foothills of the Ngong Hills at an elevation of 1,960 meters.",
+        "The name 'Ngong' translates to 'knuckles' in the local Maasai language.",
+        "A major, rapidly growing commuter suburb for the Nairobi metropolitan area.",
+        "The adjacent Ngong Hills host a significant national wind power generation facility.",
+        "Historically the home of Danish author Karen Blixen during the colonial era.",
+        "The hills serve as a famous high-altitude training ground for long-distance runners.",
+        "The urban population surged to approximately 156,000 in the 2019 census."
+      ]
+    }
+  ]
+}

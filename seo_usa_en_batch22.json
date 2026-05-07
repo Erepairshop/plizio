@@ -1,0 +1,33 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "trinity-site-history-v2",
+      "descriptionAdvanced": "Trinity Site, located in the Jornada del Muerto desert in New Mexico, is the location where the first atomic bomb was detonated on July 16, 1945, as part of the Manhattan Project. The 'Trinity' test marked the beginning of the Atomic Age, fundamentally altering human history and international relations by demonstrating the unprecedented power of nuclear weapons. This secret project, led by J. Robert Oppenheimer, brought together the world’s leading scientific minds to end World War II, but it also initiated the geopolitical anxieties of the Cold War and the arms race. Today, the site is a National Historic Landmark, serving as a sobering memorial and a focal point for understanding the scientific ingenuity and moral complexities behind the dawn of the nuclear era. History K8 — Manhattan Project and the start of the Atomic Age.",
+      "factsAdvanced": [
+        "Location of the world's first atomic bomb detonation, July 16, 1945.",
+        "Crucial turning point of the Manhattan Project during World War II.",
+        "Fundamentally initiated the Atomic Age and nuclear geopolitical era.",
+        "Project led by theoretical physicist J. Robert Oppenheimer.",
+        "Demonstrated the unprecedented destructive power of nuclear fission.",
+        "National Historic Landmark serving as a memorial to nuclear history."
+      ]
+    },
+    {
+      "id": "saratoga-battlefield-history-v2",
+      "descriptionAdvanced": "The Battles of Saratoga, fought in September and October 1777 in upstate New York, are widely considered the pivotal turning point of the American Revolutionary War. The comprehensive defeat of the British army under General John Burgoyne by American forces provided the moral and political victory needed to convince the French government to formally enter the war as an American ally. This critical international partnership provided the resources and naval support that would eventually lead to American victory. Today, the battlefield is a national historical park, meticulously preserving the ground where the tide of the American Revolution turned decisively, and honoring the strategic planning that secured essential foreign aid for the nascent republic. History K8 — Revolutionary War turning points and French alliance.",
+      "factsAdvanced": [
+        "Considered the pivotal turning point of the American Revolutionary War.",
+        "American forces defeated British General John Burgoyne in 1777.",
+        "Victory directly facilitated a formal military alliance with France.",
+        "French support provided essential resources and naval power for American success.",
+        "Strategically preserved battlefield park commemorating American revolutionary victory.",
+        "The triumph is memorialized as the moment the Revolution’s tide shifted."
+      ]
+    }
+  ]
+}

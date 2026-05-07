@@ -1,0 +1,337 @@
+{
+  "lang": "de",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-kathu-cities-v2",
+      "descriptionAdvanced": "Kathu, bekannt als die 'Stadt unter den Bäumen', ist ein faszinierendes Beispiel für eine Industriestadt inmitten der Kalahari-Wüste in der Provinz Nordkap. Sie beherbergt die Sishen-Mine, eines der größten Eisenerztagebaue der Welt. Das Besondere an Kathu ist der dichte Kameldornbaumwald, der die Stadt umgibt und trotz der intensiven Bergbauaktivitäten unter Naturschutz steht. Die Stadt bietet eine hohe Lebensqualität mit modernen Einrichtungen und einem der besten Golfplätze des Landes. Wirtschaftlich ist Kathu das pulsierende Herz der südafrikanischen Eisenproduktion. Geografie K7 — Rohstoffgewinnung und ökologische Schutzgebiete.",
+      "factsAdvanced": [
+        "Beherbergt die Sishen-Mine, einen der größten Eisenerz-Tagebaue weltweit.",
+        "Gegründet 1972 zur Versorgung der Minenarbeiter.",
+        "Der Name Kathu bedeutet 'Stadt unter den Bäumen'.",
+        "Umgeben von einem seltenen, 4.000 Hektar großen Kameldornwald.",
+        "Wichtigstes Versorgungszentrum der Region Gamagara.",
+        "Heimat des bekannten Sishen Golf & Country Club.",
+        "Liegt an der Nationalstraße N14.",
+        "Das Klima ist extrem trocken mit heißen Sommertagen."
+      ]
+    },
+    {
+      "id": "southafrica-klerksdorp-cities-v2",
+      "descriptionAdvanced": "Klerksdorp, offiziell Teil des Matlosana-Distrikts in der Provinz Nordwest, ist eine der ältesten von Europäern gegründeten Siedlungen nördlich des Vaal-Flusses. Die Stadt verdankt ihren wirtschaftlichen Status dem gewaltigen Goldrausch von 1886, der die Region dauerhaft veränderte. Heute ist Klerksdorp ein bedeutendes Zentrum für den Goldbergbau, aber auch für die Landwirtschaft, insbesondere für den Anbau von Mais und Sonnenblumen sowie für die Viehzucht. Die Stadt besitzt einen historischen Stadtkern mit Gebäuden aus der Pionierzeit und dient als wichtiger medizinischer und kommerzieller Knotenpunkt. Geschichte K8 — Goldfunde und industrielle Entwicklung.",
+      "factsAdvanced": [
+        "Gegründet 1837 von Voortrekker-Siedlern.",
+        "Älteste Stadt in der ehemaligen Republik Transvaal.",
+        "Wichtiges Zentrum des Witwatersrand-Goldbeckens.",
+        "Heimat der Matlosana Mall, eines der größten Einkaufszentren der Region.",
+        "Sitz bedeutender landwirtschaftlicher Kooperativen.",
+        "Bekannt für den Fund der mysteriösen 'Klerksdorp-Kugeln' (Geoden).",
+        "Klima ist subtropisch-kontinental mit gewitterreichen Sommern.",
+        "Einwohnerzahl der Metropolregion über 350.000."
+      ]
+    },
+    {
+      "id": "southafrica-potchefstroom-cities-v2",
+      "descriptionAdvanced": "Potchefstroom, malerisch am Ufer des Mooi River gelegen, ist die akademische Seele der Provinz Nordwest. Als ehemalige Hauptstadt der Südafrikanischen Republik (Transvaal) besitzt die Stadt eine tiefe historische Bedeutung. Heute ist sie vor allem als Heimat der North-West University bekannt, die der Stadt ein lebendiges, studentisches Flair verleiht. Potchefstroom gilt als Sportzentrum Südafrikas, da es aufgrund seiner Höhenlage und erstklassigen Einrichtungen ein beliebtes Trainingslager für internationale Athleten ist. Die von Eichen gesäumten Straßen und historischen Museen machen sie zu einem kulturellen Highlight. Geschichte K8 — Hauptstädte und Bildungstradition.",
+      "factsAdvanced": [
+        "Erste Hauptstadt der Südafrikanischen Republik (ZAR).",
+        "Gegründet 1838 durch den Voortrekker-Führer Andries Potgieter.",
+        "Heimat des Hauptcampus der North-West University (NWU).",
+        "Die Eichenallee in der Stadt ist ein Nationaldenkmal (ca. 7 km lang).",
+        "Wichtiges Zentrum für Leichtathletik und Cricket.",
+        "Austragungsort des jährlichen Aardklop Kulturfestivals.",
+        "Liegt etwa 120 km südwestlich von Johannesburg.",
+        "Wirtschaftlich bedeutend für Bergbau und Agrarindustrie."
+      ]
+    },
+    {
+      "id": "southafrica-brits-cities-v2",
+      "descriptionAdvanced": "Brits ist eine dynamische Industriestadt am Fuße der Magaliesberge in der Provinz Nordwest. Die Stadt liegt in einer der fruchtbarsten Agrarregionen Südafrikas, die durch das Wasser des Hartbeespoort-Damms bewässert wird. Brits ist jedoch vor allem für seinen Bergbau bekannt; hier befinden sich einige der weltweit größten Platin- und Chromminen. Die Stadt ist zudem ein bedeutender Standort für die Automobilzulieferindustrie. Für Touristen dient Brits als Ausgangspunkt zum nahegelegenen Crocodile Ramble und verschiedenen Wildparks. Die Kombination aus Schwerindustrie und üppigen Zitrusplantagen prägt das einzigartige Landschaftsbild. Geografie K7 — Platinabbau und Bewässerungswirtschaft.",
+      "factsAdvanced": [
+        "Gegründet 1924 auf der Farm Roode Kopjes.",
+        "Zentrum des südafrikanischen Platin-Gürtels.",
+        "Bedeutender Standort für den Anbau von Tabak, Zitrusfrüchten und Getreide.",
+        "Wichtiger Lieferant für Chrom und Vanadium.",
+        "Heimat des De Wildt Cheetah Research Centre.",
+        "Liegt in unmittelbarer Nähe zum Hartbeespoort Dam.",
+        "Bedeutender Industriestandort für Autoteile-Produktion.",
+        "Benannt nach dem Siedler Johannes Nicolaas Brits."
+      ]
+    },
+    {
+      "id": "southafrica-welkom-cities-v2",
+      "descriptionAdvanced": "Welkom, die zweitgrößte Stadt der Provinz Freistaat, ist eine der wenigen planmäßig angelegten Städte Südafrikas. Sie wurde nach der Entdeckung von Gold im Jahr 1946 gegründet und zeichnet sich durch ein einzigartiges Verkehrssystem ohne Ampeln, dafür mit zahlreichen Kreisverkehren aus. Die Stadt ist das Zentrum der südafrikanischen Goldfelder und war maßgeblich am wirtschaftlichen Aufschwung des Landes in der Nachkriegszeit beteiligt. Neben dem Bergbau ist Welkom für den Phakisa Freeway bekannt, eine international renommierte Rennstrecke. Trotz des Rückgangs im Bergbau bleibt sie ein wichtiges administratives Zentrum. Geografie K7 — Geplante Städte und Goldwirtschaft.",
+      "factsAdvanced": [
+        "Gegründet 1947 nach massiven Goldfunden auf der Farm Welkom.",
+        "Bekannt für Stadtplanung ohne eine einzige Ampel im Zentrum.",
+        "Einstiger Produzent von 21% des weltweiten Goldes.",
+        "Heimat des Phakisa Freeway, einer bedeutenden Motorsport-Rennstrecke.",
+        "Besitzt ein umfangreiches System von Parkanlagen und Grünflächen.",
+        "Zentrum des Distrikts Lejweleputswa.",
+        "Der Name Welkom bedeutet schlicht 'Willkommen'.",
+        "Klima ist kontinental mit frostigen Wintern."
+      ]
+    },
+    {
+      "id": "southafrica-kroonstad-cities-v2",
+      "descriptionAdvanced": "Kroonstad ist ein bedeutendes landwirtschaftliches und administratives Zentrum im Norden der Provinz Freistaat und liegt am Ufer des Vals River. Die Stadt gilt als eine der schönsten Siedlungen der Region und ist bekannt für ihre gut erhaltene Architektur aus der Kolonialzeit. Kroonstad war während des Zweiten Burenkrieges kurzzeitig die Hauptstadt des Oranje-Freistaats. Heute ist die Stadt ein wichtiger Knotenpunkt für den Getreidehandel und die Viehzucht. Die weiten Ebenen der Umgebung werden intensiv für den Anbau von Mais und Sonnenblumen genutzt. Für Reisende ist die Stadt ein beliebter Stopp auf der Strecke zwischen Johannesburg und Kapstadt. Geschichte K8 — Burenkriege und regionale Verwaltung.",
+      "factsAdvanced": [
+        "Gegründet 1855 und benannt nach einem Pferd namens 'Kroon'.",
+        "Ehemalige Hauptstadt des Oranje-Freistaats im Jahr 1900.",
+        "Wichtiger Eisenbahnknotenpunkt an der Hauptstrecke.",
+        "Zentrum der südafrikanischen Maisproduktion.",
+        "Beherbergt das Sarel Cilliers Museum.",
+        "Beliebtes Ziel für Angler am Vals River.",
+        "Bekannt für seine exzellenten Schulen und Bildungseinrichtungen.",
+        "Liegt an der Nationalstraße N1."
+      ]
+    },
+    {
+      "id": "southafrica-bethlehem-cities-v2",
+      "descriptionAdvanced": "Bethlehem, im malerischen östlichen Freistaat gelegen, ist eine Stadt mit starkem agrarischen Charakter und dient als Tor zum Golden Gate Highlands National Park. Der Name leitet sich vom biblischen Bethlehem ab, was 'Haus des Brotes' bedeutet – passend für eine Region, die für ihren Weizenanbau berühmt ist. Die Stadt liegt in einem fruchtbaren Tal am Fuße der Maluti-Berge und besticht durch ein angenehmes Klima und historische Sandsteingebäude. Bethlehem ist ein wichtiges regionales Zentrum für Handel, Bildung und Gesundheit. Die Umgebung bietet spektakuläre Landschaften und ist ein Paradies für Wanderer und Naturfreunde. Geografie K7 — Hochlandlandwirtschaft und Tourismus.",
+      "factsAdvanced": [
+        "Gegründet 1864 durch Kirchenmitglieder der Region.",
+        "Wichtigster Standort für die südafrikanische Weizenproduktion.",
+        "Tor zum Golden Gate Highlands National Park.",
+        "Liegt am Jordan River (benannt nach dem biblischen Fluss).",
+        "Bekannt für seine markante Sandstein-Architektur.",
+        "Höchstgelegene größere Stadt im Freistaat (ca. 1.700 m).",
+        "Wichtiger Eisenbahnknotenpunkt für den Güterverkehr.",
+        "Austragungsort bedeutender Viehauktionen."
+      ]
+    },
+    {
+      "id": "southafrica-sasolburg-cities-v2",
+      "descriptionAdvanced": "Sasolburg ist eine einzigartige Industriestadt in der Provinz Freistaat, die speziell für die Beherbergung der Arbeiter der Sasol-Werke konzipiert wurde. Weltberühmt ist die Stadt für die technologische Pionierleistung, Kohle in flüssigen Kraftstoff umzuwandeln – ein Verfahren, das während der internationalen Isolation Südafrikas perfektioniert wurde. Die Stadt liegt am Südufer des Vaal-Flusses und ist ein Zentrum der petrochemischen Industrie. Trotz ihres industriellen Kerns ist Sasolburg als 'Gartenstadt' bekannt, mit Zehntausenden von Bäumen und großzügigen Grünflächen. Die Stadtplanung war visionär für ihre Zeit und legte Wert auf eine hohe Lebensqualität. Geografie K7 — Petrochemie und Energieautarkie.",
+      "factsAdvanced": [
+        "Gegründet 1954 als Werkssiedlung für Sasol (South African Coal, Oil and Gas).",
+        "Standort der weltweit ersten kommerziellen Kohleverflüssigungsanlage.",
+        "Wichtiger Produzent von Düngemitteln, Kunststoffen und Chemikalien.",
+        "Liegt in der Metropolregion Metsimaholo.",
+        "Bekannt als 'Gartenstadt' mit über 60.000 gepflanzten Bäumen.",
+        "Heimat des Ettienne Rousseau Theatre.",
+        "Wichtiger Standort für Leichtathletik-Training.",
+        "Grenzt direkt an das Industriegebiet von Vanderbijlpark."
+      ]
+    },
+    {
+      "id": "southafrica-harrismith-cities-v2",
+      "descriptionAdvanced": "Harrismith ist ein unverzichtbarer Knotenpunkt auf der Route zwischen Johannesburg und Durban und liegt am Fuße des markanten Platberg-Tafelberges. Die Stadt in der Provinz Freistaat ist bekannt für ihre raue Schönheit und dient als wichtiges Versorgungszentrum für die Landwirtschaft und den Tourismus in den Drakensbergen. Harrismith besticht durch seine viktorianische Architektur und den Deborah Retief Garden mit einem versteinerten Baumstamm, der Millionen Jahre alt ist. Die Stadt ist zudem ein Zentrum für die Wollproduktion und die Milchwirtschaft. Für Outdoor-Begeisterte ist sie der ideale Ausgangspunkt für Expeditionen in den nahegelegenen Sterkfontein Dam. Geografie K7 — Gebirgsrandlagen und Infrastruktur.",
+      "factsAdvanced": [
+        "Gegründet 1849 und benannt nach Sir Harry Smith.",
+        "Liegt am Fuße des 2.394 Meter hohen Platbergs.",
+        "Besitzt einen 250 Millionen Jahre alten versteinerten Baum (ca. 33 m lang).",
+        "Wichtiger Stopp an der Nationalstraße N3.",
+        "Zentrum für Vieh-, Woll- und Milchwirtschaft.",
+        "Höchstgelegene Stadt der Region mit oft schneereichen Wintern.",
+        "Tor zum nördlichen Teil der Drakensberge.",
+        "Bekannt für das jährliche Platberg Bergrennen."
+      ]
+    },
+    {
+      "id": "southafrica-phuthaditjhaba-cities-v2",
+      "descriptionAdvanced": "Phuthaditjhaba, gelegen im Schatten der Maluti-Berge, ist das kulturelle Zentrum der Basotho im östlichen Freistaat. Früher als Witsieshoek bekannt, diente die Stadt als Hauptstadt des ehemaligen Homelands QwaQwa. Der Name bedeutet in Sesotho 'Treffpunkt der Nationen'. Die Stadt ist geprägt von einer spektakulären Hochgebirgskulisse und dient als Zugang zum Sentinel Peak und dem berühmten Tugela Falls Trail. Die lokale Wirtschaft basiert auf Kunsthandwerk, Landwirtschaft und dem wachsenden Ökotourismus. Phuthaditjhaba ist ein bedeutendes Bildungszentrum und bewahrt die traditionelle Kultur und Sprache des Basotho-Volkes. Geschichte K8 — Basotho-Kultur und Homeland-Erbe.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt des Homelands QwaQwa.",
+        "Bedeutendes Zentrum der Sprache Sesotho.",
+        "Höchstgelegene städtische Siedlung in Südafrika (über 1.600 m).",
+        "Beherbergt einen Campus der University of the Free State.",
+        "Einstiegspunkt zum Wandern auf den Sentinel Peak (Drakensberge).",
+        "Wichtiger Standort für die Herstellung von Basotho-Decken.",
+        "Grenzt direkt an das Königreich Lesotho.",
+        "Umgeben von Sandsteinformationen des Maluti-Gebirges."
+      ]
+    },
+    {
+      "id": "southafrica-newcastle-cities-v2",
+      "descriptionAdvanced": "Newcastle ist die drittgrößte Stadt in KwaZulu-Natal und ein bedeutendes industrielles Kraftzentrum im Nordwesten der Provinz. Die Stadt liegt strategisch günstig zwischen Johannesburg und Durban und ist ein Zentrum der Stahlproduktion und des Kohlebergbaus. Newcastle blickt auf eine reiche Geschichte zurück, da sie während der Burenkriege und der Zulu-Konflikte eine strategische Rolle spielte; Gedenkstätten wie Fort Amiel zeugen davon. Heute ist Newcastle eine moderne Stadt, die auch für ihre Textilindustrie und die Viehzucht in der Umgebung bekannt ist. Die Nähe zu den Drakensbergen macht sie zudem attraktiv für Naturtouristen. Geografie K7 — Montanindustrie und historische Grenzregionen.",
+      "factsAdvanced": [
+        "Wichtigster Standort für die Stahlproduktion in KwaZulu-Natal (ArcelorMittal).",
+        "Gegründet 1864 und benannt nach dem Herzog von Newcastle.",
+        "Historischer Militärposten Fort Amiel aus dem Jahr 1876.",
+        "Wachsendes Zentrum für die chemische Industrie.",
+        "Größter Standort für die Herstellung von Schuluniformen im Land.",
+        "Schauplatz strategischer Operationen im Ersten Burenkrieg.",
+        "Heimat des Chelmsford Nature Reserve.",
+        "Einwohnerzahl der Metropolregion über 350.000."
+      ]
+    },
+    {
+      "id": "southafrica-richards-bay-cities-v2",
+      "descriptionAdvanced": "Richards Bay besitzt einen der größten und modernsten Tiefseehäfen der Welt und ist das industrielle Tor von KwaZulu-Natal. Die Stadt wurde auf einer Lagune des Mhlathuze River errichtet und hat sich in kürzester Zeit von einem kleinen Fischerdorf zu einem globalen Exportknotenpunkt für Kohle, Aluminium und Phosphat entwickelt. Der Hafen von Richards Bay ist technisch darauf spezialisiert, gewaltige Mengen an Schüttgut effizient zu bewältigen. Neben der Industrie bietet die Stadt wunderschöne Strände und dient als Tor zum iSimangaliso-Wetland-Park. Der Kontrast zwischen hochmoderner Schwerindustrie und unberührter Natur macht die Region einzigartig. Geografie K7 — Hafentechnologie und Exportwirtschaft.",
+      "factsAdvanced": [
+        "Besitzt das weltweit größte Kohleexport-Terminal (RBCT).",
+        "Hafen wurde 1976 offiziell eröffnet.",
+        "Wichtiger Standort für die Aluminiumschmelze (Hillside Aluminum).",
+        "Liegt an einer der tiefsten natürlichen Lagunen Südafrikas.",
+        "Zentrum für den Abbau von Schwermineralsanden.",
+        "Beliebtes Ziel für Hochseeangler und Segler.",
+        "Tor zum UNESCO-Welterbe iSimangaliso Wetland Park.",
+        "Klima ist feucht-subtropisch."
+      ]
+    },
+    {
+      "id": "southafrica-ladysmith-cities-v2",
+      "descriptionAdvanced": "Ladysmith, am Ufer des Klip River gelegen, ist eine Stadt mit tiefer militärhistorischer Bedeutung in KwaZulu-Natal. Weltweite Aufmerksamkeit erlangte die Stadt während des Zweiten Burenkrieges durch die 118 Tage dauernde Belagerung von Ladysmith, bei der britische Truppen von Buren umzingelt waren. Heute ist die Stadt ein wichtiges Handelszentrum für die umliegende Agrar- und Industrieregion. Ladysmith ist zudem die Heimat des weltberühmten Männerchors 'Ladysmith Black Mambazo', der die lokale Kultur international bekannt machte. Die Stadt dient als Tor zu den zentralen Drakensbergen und den berühmten Schlachtfeldern von Spion Kop und Isandlwana. Geschichte K8 — Burenkriege und kulturelle Exzellenz.",
+      "factsAdvanced": [
+        "Gegründet 1850 und benannt nach Juana Maria de los Dolores de León Smith.",
+        "Belagerung von Ladysmith dauerte von November 1899 bis Februar 1900.",
+        "Heimat des fünffachen Grammy-Gewinners Ladysmith Black Mambazo.",
+        "Besitzt das Siege Museum zur Geschichte des Burenkrieges.",
+        "Zentrum des Distrikts Uthukela.",
+        "Wichtiger Standort für die Nahrungsmittelverarbeitung und Textilindustrie.",
+        "Liegt an der Haupteisenbahnlinie zwischen Durban und Johannesburg.",
+        "Das Klima ist durch heftige Sommergewitter geprägt."
+      ]
+    },
+    {
+      "id": "southafrica-empangeni-cities-v2",
+      "descriptionAdvanced": "Empangeni ist ein vitales Handels- und Bildungszentrum in der Provinz KwaZulu-Natal und liegt nur wenige Kilometer landeinwärts von Richards Bay. Die Stadt wurde ursprünglich als Missionsstation im Jahr 1851 gegründet und entwickelte sich zu einem Herzstück der Zuckerrohr- und Forstwirtschaft in der Region. Empangeni ist Sitz der Universität von Zululand und beherbergt eine bedeutende Kunstgalerie, die zeitgenössische Zulu-Kunst präsentiert. Die hügelige, grüne Landschaft der Umgebung ist geprägt von riesigen Plantagen. Die Stadt dient als wichtiger Knotenpunkt für den Schienenverkehr, der die Agrarprodukte zum Hafen transportiert. Geografie K7 — Agrarische Wertschöpfungsketten und Forstwirtschaft.",
+      "factsAdvanced": [
+        "Gegründet 1851 durch die Norwegische Missionsgesellschaft.",
+        "Zentrum der südafrikanischen Zuckerrohr-Industrie.",
+        "Heimat der University of Zululand (gegründet 1960).",
+        "Wichtiger Standort für Eukalyptus- und Kiefernplantagen.",
+        "Beherbergt die Empangeni Art and Cultural History Museum.",
+        "Liegt in einer fruchtbaren subtropischen Küstenzone.",
+        "Wichtiger Versorgungsort für den Hafen von Richards Bay.",
+        "Der Name leitet sich vom Zulu-Wort für die Wasser-Eichen ab."
+      ]
+    },
+    {
+      "id": "southafrica-port-shepstone-cities-v2",
+      "descriptionAdvanced": "Port Shepstone ist die größte Stadt an der Südküste von KwaZulu-Natal und liegt strategisch an der Mündung des mächtigen Mzimkhulu River. Die Stadt dient als administratives und wirtschaftliches Zentrum für den Distrikt Ugu. Port Shepstone hat eine lange maritime Tradition; einst als Hafen für den Export von Marmor und landwirtschaftlichen Produkten gegründet, ist es heute ein beliebtes touristisches Ziel mit weiten Sandstränden und Korallenriffen. Die Umgebung ist bekannt für ihren Anbau von Bananen und Zuckerrohr sowie für ihre Kalksteinbrüche. Die Stadt ist zudem ein wichtiger Knotenpunkt für die Eisenbahnlinie, die entlang der Küste verläuft. Geografie K7 — Küstenverwaltung und maritime Ressourcen.",
+      "factsAdvanced": [
+        "Gegründet 1867 nach der Entdeckung von Marmorvorkommen.",
+        "Besitzt einen der markantesten Leuchttürme des Landes (schwarz-weiß kariert).",
+        "Wichtigstes Zentrum für die Bananenproduktion in Südafrika.",
+        "Liegt an der Mündung des größten Flusses der Südküste (Mzimkhulu).",
+        "Beliebtes Ziel für das jährliche 'Sardine Run' Phänomen.",
+        "Sitz der Ugu District Municipality.",
+        "Wichtiger Standort für die Zementherstellung (NPC).",
+        "Subtropisches Klima mit milden Wintern."
+      ]
+    },
+    {
+      "id": "southafrica-ulundi-cities-v2",
+      "descriptionAdvanced": "Ulundi ist ein Ort von höchster kultureller und historischer Bedeutung für das Volk der Zulu und liegt im Herzen von KwaZulu-Natal. Als ehemalige Hauptstadt des Königreichs Zululand und später des Homelands KwaZulu beherbergt Ulundi den prachtvollen königlichen Palast und das KwaZulu Cultural Museum. Die Stadt war 1879 Schauplatz der finalen Schlacht im Anglo-Zulu-Krieg, die zum Untergang der Zulu-Unabhängigkeit führte. Heute ist Ulundi ein wichtiges administratives Zentrum und Sitz der Zulu-Monarchie. Die Stadt liegt in einer hügeligen Dornsavanne und bewahrt die Traditionen und den Stolz der Zulu-Nation. Geschichte K8 — Aufstieg und Fall des Zulu-Königreichs.",
+      "factsAdvanced": [
+        "Historische Hauptstadt von König Cetshwayo.",
+        "Schauplatz der Schlacht von Ulundi (4. Juli 1879).",
+        "Beherbergt das Ondini Historical Complex Museum.",
+        "Sitz des Königs der Zulu (King Misuzulu kaZwelithini).",
+        "Ehemalige Hauptstadt des Homelands KwaZulu (1980-1994).",
+        "Liegt im fruchtbaren Tal des White Mfolozi River.",
+        "Zentrum der lokalen Viehzucht und Agrarwirtschaft.",
+        "Besitzt einen bedeutenden Regionalflughafen."
+      ]
+    },
+    {
+      "id": "southafrica-kariega-cities-v2",
+      "descriptionAdvanced": "Kariega, bis 2021 offiziell als Uitenhage bekannt, ist eine bedeutende Industriestadt in der Provinz Ostkap und bildet zusammen mit Gqeberha ein gewaltiges Ballungszentrum. Die Stadt ist weltberühmt für ihr Volkswagen-Werk, die größte Automobilfabrik auf dem afrikanischen Kontinent. Kariega wurde 1804 gegründet und besitzt einen reichen architektonischen Schatz aus der Kolonialzeit. Trotz ihrer industriellen Ausrichtung ist die Stadt von Bergen und Naturreservaten umgeben, was ihr ein grünes Umland verleiht. Der neue Name Kariega bezieht sich auf den gleichnamigen Fluss und ehrt das indigene Erbe der Region. Geografie K7 — Automobilindustrie und Urbanisierung.",
+      "factsAdvanced": [
+        "Offizielle Umbenennung von Uitenhage in Kariega am 23. Februar 2021.",
+        "Standort des größten Volkswagen-Werks außerhalb Deutschlands.",
+        "Gegründet 1804 durch den Landdrost Jacob Glen Cuyler.",
+        "Heimat des AutoPavilion, eines interaktiven Automobilmuseums.",
+        "Wichtiges Zentrum für die Reifenherstellung (Goodyear).",
+        "Zweitälteste Stadt im Ostkap nach Gqeberha.",
+        "Besitzt die historischen Cuyler Manor Museumsgebäude.",
+        "Strategische Lage am Groendal Nature Reserve."
+      ]
+    },
+    {
+      "id": "southafrica-aliwal-north-cities-v2",
+      "descriptionAdvanced": "Aliwal North, am Ufer des Oranje-Flusses im Grenzgebiet zwischen Ostkap und Freistaat gelegen, ist berühmt für seine heißen Heilquellen. Die Stadt wurde 1849 gegründet und diente als strategischer Außenposten an der Nordgrenze der Kapkolonie. Das Aliwal Spa ist seit Jahrzehnten ein Magnet für Erholungssuchende und hat den Ruf der Stadt als Wellnesszentrum geprägt. Neben dem Tourismus ist die Region ein bedeutendes Zentrum für die Schafzucht und den Getreideanbau. Die Brücke über den Oranje River ist ein markantes Wahrzeichen und verbindet zwei Provinzen. Geschichte K8 — Grenzkonflikte und die Entwicklung von Kurorten.",
+      "factsAdvanced": [
+        "Gegründet 1849 und benannt nach der Schlacht von Aliwal.",
+        "Bekannt für seine radioaktiven Schwefelquellen mit 34 °C Wassertemperatur.",
+        "Wichtiger strategischer Übergang über den Oranje-Fluss.",
+        "Zentrum der regionalen Merinoschaf-Zucht.",
+        "Beherbergt das historische Buffelspruit Nature Reserve.",
+        "Schauplatz bedeutender Truppenbewegungen im Zweiten Burenkrieg.",
+        "Klima ist kontinental mit sehr kalten Winternächten.",
+        "Liegt an der Nationalstraße N6."
+      ]
+    },
+    {
+      "id": "southafrica-middelburg-cities-v2",
+      "descriptionAdvanced": "Middelburg ist eine dynamische Stadt in der Provinz Mpumalanga und gilt als die 'Edelstahl-Hauptstadt Südafrikas'. Die Stadt verdankt ihren Aufstieg dem massiven Kohlebergbau und der Ansiedlung von Columbus Stainless, dem einzigen Edelstahlwerk des Kontinents. Middelburg ist zudem ein wichtiger Standort für die Energiegewinnung, umgeben von mehreren großen Wärmekraftwerken. Historisch spielte die Stadt eine Rolle während der Burenkriege; das nahegelegene Botshabelo ist eine ehemalige Missionsstation, die heute als Freilichtmuseum dient. Trotz der industriellen Prägung bietet die Umgebung wunderschöne Naturerlebnisse im Loskop Dam Naturreservat. Geografie K7 — Schwerindustrie und Energieerzeugung.",
+      "factsAdvanced": [
+        "Standort von Columbus Stainless, dem größten Edelstahlwerk Afrikas.",
+        "Zentrum des südafrikanischen Kohlebergbaus (Mpumalanga Coalfields).",
+        "Heimat des Botshabelo Historical Village (ehemalige Berliner Mission).",
+        "Wichtiger Lieferant für die Eskom-Kraftwerke (z.B. Arnot).",
+        "Gegründet 1864 als Nasareth.",
+        "Liegt am Klein Olifants River.",
+        "Strategischer Stopp am Maputo Development Corridor (N4).",
+        "Bekannt für hochwertige Viehzucht in den ländlichen Außenbezirken."
+      ]
+    },
+    {
+      "id": "southafrica-witbank-cities-v2",
+      "descriptionAdvanced": "Witbank, seit 2006 offiziell als Emalahleni bekannt, ist das Herz der südafrikanischen Kohleindustrie in der Provinz Mpumalanga. Der neue Name bedeutet in der Sprache isiZulu 'Ort der Kohle', was die wirtschaftliche Grundlage der Stadt perfekt beschreibt. Über 20 aktive Minen in der Umgebung versorgen die massiven Kraftwerke des Landes mit Brennstoff. Witbank ist zudem ein wichtiger Standort für die Eisen- und Stahlveredelung. Trotz der industriellen Dominanz ist der Witbank Dam ein beliebtes Ziel für Wassersportler und Angler. Die Stadt liegt verkehrsgünstig an der N4, die Pretoria mit dem Hafen von Maputo verbindet. Geografie K7 — Fossile Brennstoffe und industrielle Ballungsräume.",
+      "factsAdvanced": [
+        "Offizielle Umbenennung in Emalahleni im März 2006.",
+        "Produziert den Großteil der in Südafrika geförderten Steinkohle.",
+        "Standort der Highveld Steel and Vanadium Corporation.",
+        "Der Witbank Dam gilt als der größte industrielle Stausee des Landes.",
+        "Gegründet 1890 nach Entdeckung der Kohleflöze.",
+        "Wichtiger Knotenpunkt für den Güterverkehr nach Mosambik.",
+        "Heimat eines großen künstlichen Ökosystems in Bergbaunachsorgegebieten.",
+        "Einwohnerzahl der Metropolregion über 400.000."
+      ]
+    },
+    {
+      "id": "southafrica-secunda-cities-v2",
+      "descriptionAdvanced": "Secunda ist eine hochmoderne Industriestadt in Mpumalanga, die buchstäblich aus dem Nichts für die petrochemische Industrie aus dem Boden gestampft wurde. Der Name leitet sich vom lateinischen Wort für 'die Zweite' ab, da hier die zweite große Sasol-Anlage zur Kohleverflüssigung errichtet wurde. Die Skyline von Secunda wird von den Kühltürmen und Schornsteinen der Sasol-Werke dominiert, die zu den größten Industrieanlagen der Welt gehören. Die Stadt wurde nach modernen Prinzipien mit vielen Grünflächen und Einkaufszentren geplant, um den Tausenden von Ingenieuren und Facharbeitern eine hohe Lebensqualität zu bieten. Geografie K7 — Hochtechnologie und künstliche Stadtentwicklung.",
+      "factsAdvanced": [
+        "Gegründet 1974 für die Sasol II und III Projekte.",
+        "Besitzt die weltweit größte Anlage zur Herstellung von synthetischem Kraftstoff.",
+        "Verfügt über einen der weltweit höchsten Schornsteine (301 m).",
+        "Wichtiges Zentrum für die chemische Grundstoffindustrie.",
+        "Geplante Stadt mit klarem Fokus auf industrielle Funktionalität.",
+        "Heimat des Graceland Hotel Casino and Country Club.",
+        "Liegt in der Govan Mbeki Local Municipality.",
+        "Klima ist geprägt von milden Sommern und kalten Wintern."
+      ]
+    },
+    {
+      "id": "southafrica-standerton-cities-v2",
+      "descriptionAdvanced": "Standerton, am Ufer des Vaal-Flusses in Mpumalanga gelegen, ist ein bedeutendes landwirtschaftliches und industrielles Zentrum. Die Stadt ist das Herz einer der produktivsten Agrarregionen Südafrikas, spezialisiert auf Milchwirtschaft, Viehzucht und den Anbau von Mais. Zudem ist Standerton ein wichtiger Standort für die Energiewirtschaft; das nahegelegene Tutuka-Kraftwerk ist eines der größten Wärmekraftwerke des Landes. Historisch war die Stadt ein wichtiger Grenzposten und Schauplatz von Gefechten während der Burenkriege. Die Stadt besticht durch ihren ländlichen Charme und die strategische Lage an der Verbindungsstraße zwischen Johannesburg und den Häfen von Natal. Geografie K7 — Energiewirtschaft und Agrarregionen.",
+      "factsAdvanced": [
+        "Gegründet 1876 auf der Farm Grootverlangen.",
+        "Wichtigster Standort für die Milchproduktion in Mpumalanga.",
+        "Heimat des massiven Tutuka-Wärmekraftwerks (Eskom).",
+        "Liegt direkt am Vaal River, dem wichtigsten Fluss der Region.",
+        "Bedeutendes Zentrum für Mais- und Sonnenblumenanbau.",
+        "Bekannt für den Grootdraai-Damm (wichtig für die Wasserversorgung).",
+        "Schauplatz einer Belagerung im Ersten Burenkrieg.",
+        "Anschluss an die Eisenbahnlinie Durban-Johannesburg."
+      ]
+    },
+    {
+      "id": "southafrica-ermelo-cities-v2",
+      "descriptionAdvanced": "Ermelo ist das administrative und kommerzielle Herz des Distrikts Gert Sibande in Mpumalanga. Die Stadt liegt an einem strategischen Knotenpunkt, wo drei Nationalstraßen (N2, N11, N17) aufeinandertreffen, was sie zu einem vitalen Handelsplatz macht. Wirtschaftlich dominiert neben dem Kohlebergbau die Landwirtschaft, insbesondere die Schafzucht und der Anbau von Mais und Getreide. Ermelo blickt auf eine bewegte Geschichte zurück; während des Zweiten Burenkrieges wurde die Stadt fast vollständig zerstört und später im viktorianischen Stil wieder aufgebaut. Die umliegende Landschaft ist geprägt von sanften Grashügeln und zahlreichen archäologischen Fundstätten der frühen San-Kultur. Geschichte K8 — Wiederaufbau und Verkehrsinfrastruktur.",
+      "factsAdvanced": [
+        "Wichtigster Knotenpunkt für den Straßentransport im Osten des Landes.",
+        "Gegründet 1880 durch die Niederländisch-Reformierte Kirche.",
+        "Zentrum einer bedeutenden Anthrazit-Kohlebergbauregion.",
+        "Wichtigster Markt für Wolle und Vieh in Mpumalanga.",
+        "Fast vollständig niedergebrannt durch britische Truppen im Jahr 1901.",
+        "Beherbergt interessante Felszeichnungen der San in der Umgebung.",
+        "Liegt auf einer Höhe von 1.700 Metern auf dem Highveld.",
+        "Das Klima ist kühl-gemäßigt mit Sommerniederschlägen."
+      ]
+    }
+  ]
+}

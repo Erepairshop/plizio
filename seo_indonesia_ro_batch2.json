@@ -1,0 +1,335 @@
+{
+  "lang": "ro",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mataram-cities-v2",
+      "descriptionAdvanced": "Mataram este centrul administrativ și economic al insulei Lombok, fiind capitala provinciei Nusa Tenggara de Vest. Orașul este compus din patru districte principale: Mataram, Ampenan, Cakranegara și Selaparang. Ampenan păstrează farmecul unui vechi port colonial, în timp ce Cakranegara este centrul comercial, renumit pentru templele hinduse și piețele vibrante. Un punct de referință istoric major este Palatul de Apă Mayura, construit în 1744, care îmbină elemente arhitecturale balineze și locale. Mataram servește ca poartă principală pentru explorarea vulcanului Rinjani și a faimoaselor insule Gili. Orașul reflectă o armonie culturală între populația indigenă Sasak și comunitatea balineză. Recent, dezvoltarea infrastructurii a fost impulsionată de proximitatea noului circuit de curse de la Mandalika. Geografie K8 — Administrație și structuri urbane în arhipelag.",
+      "factsAdvanced": [
+        "Este capitala provinciei Nusa Tenggara de Vest din anul 1958.",
+        "Palatul de Apă Mayura a fost construit de regele Karangasem în 1744.",
+        "Templul Pura Meru este cel mai mare templu hindus de pe insula Lombok.",
+        "Districtul Ampenan a fost principalul port al insulei până în secolul XX.",
+        "Orașul este situat pe coasta de vest a insulei, în fața strâmtorii Lombok.",
+        "Găzduiește Centrul Islamic Mataram, cu o moschee de dimensiuni impresionante.",
+        "Populația zonei metropolitane este de aproximativ 500.000 de locuitori."
+      ]
+    },
+    {
+      "id": "bengkulu-cities-v2",
+      "descriptionAdvanced": "Bengkulu, situat pe coasta de vest a insulei Sumatra, este un oraș cu o istorie colonială unică, fiind sub control britanic timp de aproape 150 de ani sub numele de Bencoolen. Fort Marlborough, construit de britanici între 1714 și 1719, rămâne una dintre cele mai mari și mai bine conservate fortărețe europene din Asia de Sud-Est. Orașul este, de asemenea, locul unde primul președinte al Indoneziei, Sukarno, a fost exilat de olandezi între 1938 și 1942. Bengkulu este faimos pentru flora sa rară, fiind regiunea unde a fost descoperită Rafflesia arnoldii, cea mai mare floare din lume. Plaja Panjang, cu nisipul său alb și pini casuarina, se întinde pe șapte kilometri de-a lungul oceanului Indian. Economia locală se bazează pe mineritul cărbunelui și exportul de ulei de palmier. Geografie K7 — Colonizare și resurse naturale.",
+      "factsAdvanced": [
+        "Fort Marlborough a fost ridicat de Compania Britanică a Indiilor de Est în 1714.",
+        "Sukarno a locuit în exil aici timp de patru ani, până la invazia japoneză.",
+        "Rafflesia arnoldii a fost identificată oficial în această regiune în anul 1818.",
+        "Plaja Panjang are o lungime continuă de aproximativ 7 kilometri.",
+        "Orașul a fost cedat olandezilor prin Tratatul de la Londra din 1824.",
+        "Monumentul Thomas Parr comemorează un oficial britanic ucis în 1807.",
+        "Festivalul Tabot este un eveniment religios anual celebru în oraș."
+      ]
+    },
+    {
+      "id": "ternate-cities-v2",
+      "descriptionAdvanced": "Ternate este un oraș insular spectaculos în provincia Maluku de Nord, dominat vizual de vulcanul activ Gamalama. Istoric, Ternate a fost inima „Insulelor Mirodeniilor”, fiind singurul loc din lume unde creșteau cuișoarele, ceea ce l-a transformat într-unul dintre cele mai bogate sultanate din regiune. Conflictul pentru controlul acestor resurse prețioase a dus la construirea a numeroase fortificații, precum Fort Tolukko și Fort Oranje, de către puterile coloniale portugheze, spaniole și olandeze. Astăzi, Ternate păstrează o identitate culturală puternică, centrată în jurul Palatului Sultanului. Peisajul este marcat de fluxuri de lavă solidificată, precum Batu Angus, care oferă o perspectivă asupra istoriei geologice a insulei. Orașul rămâne un centru administrativ vital și un punct de plecare pentru explorarea biodiversității din estul Indoneziei. Geografie K10 — Comerțul istoric cu mirodenii și vulcanism.",
+      "factsAdvanced": [
+        "Vulcanul Gamalama are o înălțime de 1.715 metri deasupra mării.",
+        "Sultanatul Ternate a fost fondat oficial în secolul al XIII-lea.",
+        "Fort Tolukko a fost construit inițial de portughezi în anul 1540.",
+        "Batu Angus reprezintă un flux de lavă din erupția vulcanului din 1673.",
+        "Orașul a fost capitala provinciei Maluku de Nord până în anul 2010.",
+        "Insula este înconjurată de ape adânci, ideale pentru scufundări tehnice.",
+        "Palatul Sultanului de Ternate găzduiește o coroană sacră veche de secole."
+      ]
+    },
+    {
+      "id": "palu-cities-v2",
+      "descriptionAdvanced": "Palu, capitala provinciei Sulawesi Central, este situat strategic într-un golf lung și îngust, înconjurat de munți impunători. Orașul este cunoscut pentru climatul său neobișnuit de uscat, fiind una dintre cele mai secetoase zone din Indonezia. Palu se află direct pe falia tectonică activă Palu-Koro, ceea ce a dus la tragicul cutremur și tsunami din septembrie 2018, care a provocat și fenomenul rar de lichefiere a solului. Reconstrucția orașului este un proces de durată, concentrat pe creșterea rezilienței în fața dezastrelor naturale. Economia locală depinde de comerțul maritim, agricultură și prelucrarea abanosului de înaltă calitate. În ciuda riscurilor seismice, Palu rămâne un nod logistic esențial pentru transportul mărfurilor între nordul și sudul insulei Sulawesi. Frumusețea golfului și a plajei Talise atrage în continuare vizitatori dornici să înțeleagă forțele naturii. Geografie K9 — Riscuri geologice și adaptare umană.",
+      "factsAdvanced": [
+        "Cutremurul din 28 septembrie 2018 a avut o magnitudine de 7,5 grade.",
+        "Falia Palu-Koro traversează orașul pe o lungime considerabilă.",
+        "Podul Ponulele (Palu IV), un simbol local, a fost distrus de tsunami în 2018.",
+        "Orașul înregistrează cele mai scăzute precipitații anuale din Indonezia.",
+        "Găzduiește Universitatea Tadulako, principalul centru educațional din regiune.",
+        "Este un centru important pentru colectarea și exportul de rășină de copal.",
+        "Muzeul Central Sulawesi păstrează artefacte din megalitii văii Bada."
+      ]
+    },
+    {
+      "id": "kendari-cities-v2",
+      "descriptionAdvanced": "Kendari, capitala provinciei Sulawesi de Sud-Est, este un oraș portuar în plină expansiune situat pe malul unui golf pitoresc. Orașul s-a transformat rapid dintr-un mic nod comercial într-o metropolă modernă, marcată de inaugurarea Podului Golfului Kendari în 2020, o lucrare de inginerie impresionantă care facilitează transportul urban. Kendari este cunoscut pentru artizanatul său fin în argint și aur, o tradiție care datează de generații. Poziția sa geografică îl face punctul de plecare ideal pentru turiștii care vizitează Parcul Național Wakatobi, renumit pentru recifele sale de corali. Economia regiunii este strâns legată de exploatarea nichelului și de industria piscicolă bogată din marea Banda. Orașul găzduiește, de asemenea, instituții de învățământ superior importante, contribuind la dezvoltarea capitalului uman din estul arhipelagului. Mixul de modernitate și tradiție marină definește identitatea acestui oraș vibrant. Geografie K8 — Infrastructură și dezvoltare regională.",
+      "factsAdvanced": [
+        "Podul Golfului Kendari are o lungime totală de 1.348 de metri.",
+        "Orașul a devenit capitala provinciei Sulawesi de Sud-Est în 1964.",
+        "Monumentul Persatuan este un punct de reper central cu o înălțime de 99 metri.",
+        "Regiunea este un furnizor major de nichel pentru piața globală.",
+        "Kendari Beach este cel mai popular loc de relaxare pentru localnici.",
+        "Portul Bungkutoko a fost dezvoltat pentru a deveni un hub containerizat.",
+        "Găzduiește Universitatea Halu Oleo, cea mai mare din provincie."
+      ]
+    },
+    {
+      "id": "gorontalo-cities-v2",
+      "descriptionAdvanced": "Gorontalo, situat în peninsula de nord a insulei Sulawesi, este un oraș cu o identitate culturală și religioasă puternică, fiind supranumit „Veranda Medinei”. Orașul este poarta de acces către Golful Tomini, o zonă de o importanță ecologică majoră, celebră pentru biodiversitatea marină și prezența rechinilor-balenă în apropierea țărmului. Arhitectura orașului este marcată de influențe coloniale și tradiționale, Fortul Otanaha, construit în secolul al XVI-lea, oferind o panoramă superbă asupra lacului Limboto. Economia locală este dominată de agricultură, Gorontalo fiind unul dintre principalii producători de porumb din Indonezia. Bucătăria locală este distinctă, preparatul „Binte Biluhuta” (supă de porumb) fiind un simbol culinar regional. Comunitatea locală este recunoscută pentru conservarea tradițiilor religioase și a valorilor de ospitalitate. Frumusețea naturală intactă a parcurilor naționale din jur face din Gorontalo o destinație emergentă pentru ecoturism. Geografie K7 — Biodiversitate marină și resurse agricole.",
+      "factsAdvanced": [
+        "Fortul Otanaha a fost construit în anul 1522 de către regele Ilato.",
+        "Provincia Gorontalo s-a separat oficial de Sulawesi de Nord în anul 2000.",
+        "Lacul Limboto a scăzut semnificativ în adâncime în ultimele decenii.",
+        "Rechinii-balenă pot fi observați în zona satului Botubarani.",
+        "Orașul este renumit pentru producția masivă de porumb și nucă de cocos.",
+        "Moscheea Baiturrahim este una dintre cele mai vechi din regiune.",
+        "Arta tradițională a broderiei „Karawo” este unică în acest oraș."
+      ]
+    },
+    {
+      "id": "tanjung-priok-port-economic-v2",
+      "descriptionAdvanced": "Portul Tanjung Priok, situat în nordul capitalei Jakarta, este cel mai mare și mai avansat punct logistic din Indonezia, gestionând peste jumătate din traficul de containere al țării. Construit inițial de olandezi la sfârșitul secolului al XIX-lea pentru a înlocui vechiul port Sunda Kelapa, acesta a fost modernizat continuu pentru a primi nave cargo de dimensiuni uriașe. Tanjung Priok este inima comerțului internațional indonezian, conectând arhipelagul cu rutele globale către Asia, Europa și America. Infrastructura sa include terminale de containere de ultimă generație, zone de antrepozit și sisteme automatizate de gestionare a mărfurilor. Portul joacă un rol critic în securitatea alimentară și energetică a țării, fiind punctul principal de intrare pentru bunurile importate. Dezvoltarea proiectului New Priok (Kalibaru) vizează dublarea capacității portuare pentru a susține creșterea economică rapidă a Indoneziei. Geografie K10 — Transportul maritim global și noduri logistice.",
+      "factsAdvanced": [
+        "Gestionează aproximativ 50% din fluxul total de mărfuri al Indoneziei.",
+        "Construcția portului modern a început în anul 1877 de către olandezi.",
+        "Terminalul de Containere Jakarta (JICT) este cel mai mare din țară.",
+        "Proiectul New Priok vizează o capacitate finală de 18 milioane TEU.",
+        "Portul este conectat direct la o rețea vastă de autostrăzi urbane.",
+        "Este un nod esențial pentru importul de materii prime industriale.",
+        "Găzduiește sediile centrale ale autorității portuare de stat, Pelindo."
+      ]
+    },
+    {
+      "id": "grasberg-mine-economic-v2",
+      "descriptionAdvanced": "Mina Grasberg, situată în munții inaccesibili din provincia Papua, la o altitudine de peste 4.000 de metri, este una dintre cele mai mari și mai controversate operațiuni miniere de pe glob. Operată de Freeport-McMoRan în parteneriat cu guvernul indonezian, aceasta deține cele mai mari rezerve de aur și a doua cea mai mare rezervă de cupru din lume. Mina a început ca o exploatare de suprafață (open-pit), dar a făcut tranziția către una dintre cele mai complexe operațiuni subterane din lume. Importanța sa economică este colosală, contribuind semnificativ la PIB-ul Indoneziei și la veniturile din export. Totuși, mina se confruntă cu provocări majore legate de impactul ecologic asupra ecosistemelor alpine și de gestionarea reziduurilor miniere (tailings). Logistica este extrem de dificilă, necesitând un sistem complex de transport prin conducte până la portul Amamapare. Geografie K7 — Resurse minerale și impactul asupra mediului.",
+      "factsAdvanced": [
+        "Situată lângă vârful Puncak Jaya, cel mai înalt punct din Indonezia.",
+        "Deține cele mai mari rezerve de aur din lume într-o singură locație.",
+        "Producția zilnică poate depăși 200.000 de tone de minereu.",
+        "Operațiunile miniere de suprafață s-au încheiat oficial în anul 2019.",
+        "Exploatarea subterană folosește tehnologia avansată de „block caving”.",
+        "Producția de cupru a început în 1973 sub conducerea Freeport.",
+        "Angajează direct peste 30.000 de lucrători și subcontractori."
+      ]
+    },
+    {
+      "id": "bekasi-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Bekasi, situată la est de Jakarta, este unul dintre cele mai mari și mai dense conglomerate industriale din Asia de Sud-Est. Această regiune a devenit inima producției manufacturiere a Indoneziei, găzduind mii de companii multinaționale din sectoarele auto, electronic și bunuri de larg consum. Parcuri industriale precum Jababeka, MM2100 și Lippo Cikarang sunt orașe în sine, dotate cu infrastructură proprie, facilități de locuit și centre comerciale. Bekasi joacă un rol vital în lanțul de aprovizionare global, producând componente esențiale pentru mărci precum Samsung, Toyota și Unilever. Dezvoltarea sa accelerată a transformat peisajul rural în unul urban-industrial, atrăgând milioane de lucrători din întregul arhipelag. Această zonă este un motor principal al exporturilor indoneziene și un indicator al integrării țării în economia mondială. Geografie K9 — Industrializare, urbanizare și piețe globale.",
+      "factsAdvanced": [
+        "Găzduiește peste 4.000 de companii manufacturiere din diverse țări.",
+        "Parcul industrial Jababeka se întinde pe o suprafață de 5.600 hectare.",
+        "Este centrul principal pentru producția de electronice din Indonezia.",
+        "Beneficiază de acces direct la autostrada Jakarta-Cikampek.",
+        "Zona atrage peste 1 milion de navetiști zilnic din regiunea metropolitană.",
+        "Include un port uscat (dry port) pentru facilitarea exporturilor.",
+        "Valoarea investițiilor străine directe în această zonă este de miliarde de dolari."
+      ]
+    },
+    {
+      "id": "paiton-power-station-economic-v2",
+      "descriptionAdvanced": "Centrala Electrică Paiton, situată pe coasta de nord a provinciei Java de Est, este un complex energetic gigant care joacă un rol critic în alimentarea rețelei electrice Java-Bali. Acest complex pe cărbune este unul dintre cele mai mari de acest tip din emisfera sudică, având o capacitate instalată care depășește 4.600 de megawați. Paiton furnizează aproximativ 10% din necesarul total de energie al insulei Java, susținând activitățile industriale și casnice din cele mai populate zone ale Indoneziei. Facilitatea utilizează tehnologii avansate pentru a reduce emisiile, inclusiv unități de tip „supercritical”. Importanța sa strategică este dublată de poziționarea sa lângă mare, facilitând descărcarea cărbunelui adus din Kalimantan. În ultimii ani, se depun eforturi pentru co-arderea biomasei, ca parte a tranziției energetice graduale a țării către surse mai sustenabile. Geografie K7 — Resurse de energie și impactul industrial.",
+      "factsAdvanced": [
+        "Capacitatea totală instalată a complexului este de 4.680 MW.",
+        "Furnizează aproximativ 10% din necesarul de electricitate al insulei Java.",
+        "Prima unitate a centralei a devenit operațională în anul 1994.",
+        "Utilizează cărbune bituminos adus în principal din insula Kalimantan.",
+        "Complexul este administrat de mai mulți operatori, inclusiv PLN și Paiton Energy.",
+        "Tehnologia „supercritical” este folosită pentru a crește eficiența termică.",
+        "Este un obiectiv strategic de securitate națională pentru Indonezia."
+      ]
+    },
+    {
+      "id": "batam-free-trade-zone-economic-v2",
+      "descriptionAdvanced": "Zona de Liber Schimb Batam, situată la doar 20 de kilometri de Singapore, este un exemplu remarcabil de dezvoltare economică bazată pe locație strategică. Transformarea insulei a început în anii '70, având ca scop atragerea investițiilor străine prin facilități fiscale și vamale. Astăzi, Batam este un centru mondial pentru construcțiile navale, reparația platformelor petroliere și producția de componente electronice. Proximitatea față de unul dintre cele mai mari porturi din lume, Singapore, permite o integrare rapidă în lanțurile de aprovizionare globale. Batam atrage forță de muncă din toată Indonezia, contribuind la o creștere demografică explozivă. Infrastructura include numeroase parcuri industriale și terminale de feribot care conectează insula de țările vecine în mai puțin de o oră. Batam face parte din Triunghiul de Creștere SIJORI, alături de Singapore și statul malaezian Johor. Geografie K11 — Zone economice speciale și globalizare.",
+      "factsAdvanced": [
+        "Statutul de Zonă de Liber Schimb a fost acordat oficial în anul 2007.",
+        "Găzduiește peste 20 de șantiere navale active pe coasta insulei.",
+        "Se află pe una dintre cele mai aglomerate rute comerciale maritime din lume.",
+        "Aeroportul Hang Nadim are cea mai lungă pistă din întreaga Indonezie.",
+        "Populația a crescut de la 6.000 de locuitori în 1970 la peste 1 milion astăzi.",
+        "Este un hub major pentru industria de asamblare a smartphone-urilor.",
+        "Facilitățile fiscale includ scutirea de TVA și taxe de import."
+      ]
+    },
+    {
+      "id": "kaltim-prima-coal-mine-economic-v2",
+      "descriptionAdvanced": "Mina de Cărbune Kaltim Prima (KPC), situată în Sangatta, Kalimantanul de Est, este una dintre cele mai mari mine de cărbune în regim de suprafață din lume. Operată de o filială a grupului Bumi Resources, mina produce cărbune termic de înaltă calitate, destinat în principal exportului către marile economii asiatice precum China, India și Japonia. Operațiunile se desfășoară pe o suprafață vastă, implicând o logistică impresionantă, de la excavatoare gigantice până la sisteme de benzi transportoare care duc cărbunele spre terminalul maritim. KPC este un contribuabil major la bugetul de stat al Indoneziei și cel mai important angajator din regiune. Totuși, amploarea exploatării ridică probleme serioase de mediu, precum defrișarea pădurilor tropicale și modificarea cursurilor de apă. Reabilitarea terenurilor după exploatare este o prioritate declarată pentru a limita impactul pe termen lung. Geografie K11 — Resurse energetice și exploatarea resurselor.",
+      "factsAdvanced": [
+        "Suprafața totală a concesiunii miniere depășește 84.000 de hectare.",
+        "Produce anual peste 50 de milioane de tone de cărbune de calitate.",
+        "Terminalul de încărcare Tanjung Bara poate primi nave de tip Cape-size.",
+        "Cărbunele produs este renumit pentru conținutul scăzut de cenușă și sulf.",
+        "Operațiunea utilizează un sistem de benzi transportoare lung de 13 km.",
+        "Mina a început producția comercială oficială în anul 1992.",
+        "Angajează direct și indirect peste 20.000 de persoane în regiune."
+      ]
+    },
+    {
+      "id": "surabaya-port-tanjung-perak-economic-v2",
+      "descriptionAdvanced": "Portul Tanjung Perak din Surabaya este al doilea cel mai mare port din Indonezia și principala poartă maritimă pentru regiunea estică a arhipelagului. Situat în strâmtoarea Madura, portul servește ca nod logistic crucial pentru distribuția mărfurilor către insulele Sulawesi, Kalimantan și Papua. Tanjung Perak are o istorie îndelungată, fiind centrul comercial al Javei de Est încă din perioada colonială olandeză. Modernizarea recentă a inclus construirea Terminalului Teluk Lamong, un port ecologic dotat cu sisteme automate care reduc timpul de procesare. Portul facilitează exportul de produse industriale, agricole și de materii prime, fiind esențial pentru economia vibrantă a orașului Surabaya. Conexiunea excelentă cu rețeaua feroviară și rutieră transformă Tanjung Perak într-un pilon al strategiei maritime naționale a Indoneziei. Geografie K7 — Transportul fluvial și maritim în economie.",
+      "factsAdvanced": [
+        "Este al doilea cel mai aglomerat port de containere din Indonezia.",
+        "Numele derivă din locația sa istorică la gura de vărsare a râului.",
+        "Terminalul Teluk Lamong este primul port semiautomatizat din țară.",
+        "Gestionează peste 3,5 milioane de TEU-uri (containere) anual.",
+        "Este punctul principal de legătură pentru rutele de transport către est.",
+        "Găzduiește șantierul naval PT PAL, cel mai mare constructor de nave al țării.",
+        "Portul are o adâncime a canalului de navigație de 16 metri după dragare."
+      ]
+    },
+    {
+      "id": "cilegon-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Cilegon, situată în provincia Banten, la intrarea în strâmtoarea Sunda, este cunoscută drept „Orașul Oțelului” al Indoneziei. Aici se află complexul PT Krakatau Steel, cel mai mare producător de oțel din Asia de Sud-Est, care stă la baza dezvoltării industriale a țării. Orașul găzduiește, de asemenea, o concentrare masivă de industrii petrochimice și energetice, beneficiind de locația strategică lângă portul Cigading. Dezvoltarea acestei zone a fost esențială pentru susținerea proiectelor de infrastructură națională și a industriei de construcții. Cilegon este un punct nodal pentru fluxul de mărfuri între insulele Java și Sumatra, fiind situat lângă terminalul de feribot Merak. Prezența acestor coloși industriali a transformat Cilegon într-un centru urban poluat, dar economic prosper, atrăgând forță de muncă specializată. Orașul este un pilon al strategiei indoneziene de a deveni o putere industrială globală. Geografie K9 — Industria grea și amenajarea teritoriului.",
+      "factsAdvanced": [
+        "Găzduiește PT Krakatau Steel, fondat ca proiect de stat în 1970.",
+        "Portul Cigading este cel mai mare port de descărcare a vracului din țară.",
+        "Regiunea concentrează peste 70% din industria petrochimică a Indoneziei.",
+        "Este situat strategic la extremitatea vestică a insulei Java.",
+        "Orașul are o densitate mare de centrale electrice pe bază de cărbune.",
+        "Producția de oțel este esențială pentru industria auto și a construcțiilor.",
+        "Zona industrială se întinde pe mii de hectare de teren costier."
+      ]
+    },
+    {
+      "id": "tanggguh-lng-plant-economic-v2",
+      "descriptionAdvanced": "Instalația GNL Tangguh, situată în golful izolat Bintuni din provincia Papua de Vest, este unul dintre cele mai importante proiecte energetice ale Indoneziei. Operat de BP (British Petroleum) în colaborare cu parteneri internaționali, complexul prelucrează gazul natural extras din câmpurile offshore gigantice din apropiere. Gazul este lichefiat în unități de procesare masive, numite „trenuri”, și apoi exportat prin nave specializate către piețele din China, Coreea de Sud și Japonia. Tangguh este un motor economic major pentru regiunea Papua, contribuind la bugetul local și oferind oportunități de angajare. Proiectul include inițiative de dezvoltare comunitară pentru populația indigenă din jurul golfului. Finalizarea celui de-al treilea tren de producție în 2023 a crescut semnificativ capacitatea totală a instalației, consolidând poziția Indoneziei ca exportator global de gaz natural lichefiat. Geografie K11 — Resurse energetice și exporturile de gaze naturale.",
+      "factsAdvanced": [
+        "Operat de BP (British Petroleum) cu o participație majoră.",
+        "Situat în Golful Bintuni, o zonă bogată în biodiversitate marină.",
+        "Câmpurile de gaze conțin rezerve estimate la peste 14 trilioane de picioare cubice.",
+        "Dispune de trei trenuri de lichefiere a gazului natural (GNL).",
+        "Peste 50% din angajații proiectului provin din regiunea Papua.",
+        "Exportă gaz către marii consumatori industriali din Asia de Est.",
+        "Utilizează tehnologii avansate pentru captarea și stocarea carbonului."
+      ]
+    },
+    {
+      "id": "makassar-port-economic-v2",
+      "descriptionAdvanced": "Portul Makassar, cunoscut și sub numele de Soekarno-Hatta, este principalul hub comercial al insulei Sulawesi și cel mai mare port din estul Indoneziei. Situat pe ruta strategică a strâmtorii Makassar, acesta facilitează comerțul dintre partea de vest a arhipelagului și regiunile bogate în resurse din est. Portul gestionează exporturi masive de cacao, cafea, nichel și produse marine, fiind esențial pentru economia regională. Modernizarea sa constantă, inclusiv proiectul Makassar New Port, vizează transformarea acestuia într-un port hub internațional capabil să primească nave de mare tonaj. Makassar are o tradiție maritimă milenară, fiind punctul de plecare al celebrelor ambarcațiuni Pinisi. Astăzi, portul este un motor al urbanizării și dezvoltării industriale în Sulawesi de Sud, conectând fermieri și producători locali cu piețele globale. Eficiența sa logistică este crucială pentru reducerea disparităților economice între estul și vestul țării. Geografie K10 — Comerț internațional și rute maritime.",
+      "factsAdvanced": [
+        "Este cel mai mare port maritim de pe insula Sulawesi.",
+        "Proiectul Makassar New Port va crește capacitatea la 2,5 milioane TEU.",
+        "Gestionează peste 70% din exportul de cacao al Indoneziei.",
+        "Este un punct de oprire major pentru navele care traversează strâmtoarea Makassar.",
+        "Portul este echipat cu terminaler moderne pentru pasageri și containere.",
+        "Conectează direct estul Indoneziei cu Singapore și alte porturi asiatice.",
+        "Are o istorie de peste 500 de ani ca centru al comerțului cu mirodenii."
+      ]
+    },
+    {
+      "id": "palembang-trade-hub-economic-v2",
+      "descriptionAdvanced": "Palembang, situat pe malurile maiestuoase ale fluviului Musi din Sumatra de Sud, este unul dintre cele mai vechi noduri comerciale din Asia de Sud-Est, având o moștenire ce datează din timpul Imperiului Srivijaya. Astăzi, orașul servește ca un centru economic vital, facilitând exportul masiv de resurse naturale precum cărbunele, uleiul de palmier și cauciucul. Fluviul Musi joacă rolul unei „autostrăzi acvatice”, permițând barjelor încărcate să transporte mărfuri din interiorul insulei către mare. Palembang găzduiește, de asemenea, industrii strategice, inclusiv rafinării de petrol și fabrici de îngrășăminte, precum PT Pusri. Dezvoltarea infrastructurii, inclusiv primul sistem de metrou ușor (LRT) din Indonezia, a modernizat profilul orașului. Importanța sa ca nod de transport multimodal îl face esențial pentru dezvoltarea economică a Sumatrei. Orașul îmbină tradiția comerțului pe apă cu necesitățile unei industrii grele moderne. Geografie K8 — Resurse naturale și transportul fluvial.",
+      "factsAdvanced": [
+        "A fost centrul Imperiului Srivijaya, o putere maritimă în secolul VII.",
+        "Fluviul Musi are o lățime de peste 500 de metri în zona urbană.",
+        "Găzduiește fabrica PT Pusri, un producător major de îngrășăminte.",
+        "Este un centru principal pentru prelucrarea cauciucului natural.",
+        "Transportul de cărbune pe fluviu este o activitate economică dominantă.",
+        "Portul Boom Baru este principalul terminal maritim al orașului.",
+        "Beneficiază de prima linie de tren ușor (LRT) construită în Indonezia."
+      ]
+    },
+    {
+      "id": "pt-semen-gresik-plant-economic-v2",
+      "descriptionAdvanced": "Fabrica PT Semen Gresik, parte a grupului Semen Indonesia, este unul dintre pilonii industriei de construcții din Indonezia. Situată în Gresik, Java de Est, această unitate de producție masivă furnizează cimentul necesar pentru marile proiecte de infrastructură, de la autostrăzi la zgârie-nori. Compania, fiind o întreprindere de stat, joacă un rol strategic în dezvoltarea economică națională, asigurând autosuficiența în materiale de construcție. Fabrica utilizează resursele locale de calcar și argilă, transformându-le prin procese industriale complexe în diverse tipuri de ciment de înaltă calitate. Gresik, ca oraș industrial, s-a dezvoltat spectaculos în jurul acestei industrii, devenind un hub pentru servicii conexe. Dincolo de piața internă, produsele fabricii sunt exportate în regiunea Asia-Pacific, contribuind la veniturile din valută ale țării. Inovațiile recente se concentrează pe reducerea amprentei de carbon prin utilizarea combustibililor alternativi în cuptoarele de clincher. Geografie K9 — Industria materialelor de construcții și urbanizare.",
+      "factsAdvanced": [
+        "Semen Gresik a fost prima companie de stat listată la bursă în 1991.",
+        "Sediul principal se află în Gresik, un oraș industrial de lângă Surabaya.",
+        "Face parte din holdingul Semen Indonesia, cel mai mare din regiune.",
+        "Producția este esențială pentru programul național de infrastructură.",
+        "Utilizează resurse minerale extrase din carierele proprii de calcar.",
+        "Fabrica dispune de propriul terminal maritim pentru expedierea cimentului.",
+        "Implementează tehnologii de reducere a emisiilor de praf și CO2."
+      ]
+    },
+    {
+      "id": "jatiluhur-dam-economic-v2",
+      "descriptionAdvanced": "Barajul Jatiluhur, situat în provincia Java de Vest, este cea mai mare structură de acest tip din Indonezia și un element crucial al infrastructurii hidrotehnice de pe insula Java. Construit pe râul Citarum între 1957 și 1967, barajul are un scop multiplu: producerea de hidroenergie, irigarea a peste 240.000 de hectare de terenuri agricole și furnizarea apei potabile pentru capitala Jakarta. Rezervorul său imens, numit lacul Ir. H. Djuanda, este o sursă vitală pentru securitatea alimentară a țării prin susținerea producției de orez în regiunea Pantura. Pe lângă funcțiile utilitare, Jatiluhur este o destinație populară pentru recreere și piscicultură în cuști flotante. Gestionarea barajului este o provocare constantă din cauza sedimentării și a poluării râului Citarum, necesitând eforturi masive de conservare. Acesta rămâne un simbol al progresului ingineresc al Indoneziei post-independență. Geografie K7 — Gestionarea resurselor de apă și energie hidroelectrică.",
+      "factsAdvanced": [
+        "Este primul și cel mai mare baraj multifuncțional din Indonezia.",
+        "Rezervorul are o capacitate de stocare de aproximativ 3 miliarde de metri cubi.",
+        "Centrala hidroelectrică are o putere instalată de 187 megawați.",
+        "Irigă câmpiile orezicole din Java de Vest, esențiale pentru țară.",
+        "A fost construit cu asistență tehnică din partea inginerilor francezi.",
+        "Lacul format are o suprafață de aproximativ 8.300 de hectare.",
+        "Furnizează peste 80% din necesarul de apă brută pentru Jakarta."
+      ]
+    },
+    {
+      "id": "dumai-port-and-refinery-economic-v2",
+      "descriptionAdvanced": "Portul și Rafinăria Dumai, situate în provincia Riau pe coasta de est a Sumatrei, reprezintă un nod strategic pentru industria energetică și agricolă a Indoneziei. Dumai este renumit la nivel mondial ca fiind cel mai mare port de export pentru uleiul de palmier, deservind vastele plantații din inima Sumatrei. În paralel, orașul găzduiește o rafinărie de petrol uriașă operată de compania de stat Pertamina, care prelucrează țițeiul extras din câmpurile productive din Riau, precum Minas și Duri. Poziția sa directă pe strâmtoarea Malacca, una dintre cele mai circulate căi maritime din lume, îi conferă un avantaj logistic imens. Orașul s-a transformat rapid dintr-un mic nod comercial într-o zonă industrială complexă, cu terminale moderne de încărcare. Economia locală este aproape în întregime dependentă de fluctuațiile pieței globale de mărfuri, reflectând integrarea profundă a regiunii în economia mondială. Geografie K10 — Resurse naturale și rute comerciale maritime.",
+      "factsAdvanced": [
+        "Cel mai mare port de export pentru ulei de palmier din lume.",
+        "Rafinăria de petrol Pertamina are o capacitate de peste 170.000 barili/zi.",
+        "Situat pe strâmtoarea Malacca, facilitând accesul spre piețele globale.",
+        "Este poarta principală de export pentru regiunea bogată în resurse Riau.",
+        "Găzduiește facilități masive de depozitare pentru combustibili și uleiuri.",
+        "Orașul Dumai a primit statutul de oraș administrativ în anul 1999.",
+        "Infrastructura portuară include terminale specializate pentru vrac lichid."
+      ]
+    },
+    {
+      "id": "sorowako-nickel-mine-economic-v2",
+      "descriptionAdvanced": "Mina de nichel Sorowako, situată în inima insulei Sulawesi, este una dintre cele mai mari și mai longevive operațiuni miniere de nichel lateritic din lume. Operată de PT Vale Indonesia, mina a transformat o regiune izolată într-un centru industrial tehnologizat. Nichelul extras aici este esențial pentru producția globală de oțel inoxidabil și, tot mai mult, pentru bateriile vehiculelor electrice, plasând Sorowako pe harta strategică a tranziției energetice verzi. Operațiunea este unică prin integrarea propriilor centrale hidroelectrice, care furnizează energie curată pentru procesul de topire. Depozitele de nichel sunt de tip lateritic, extrase prin metode de suprafață care necesită o gestionare atentă a solului și a reabilitării forestiere. Mina este coloana vertebrală a economiei din Sulawesi de Sud, susținând mii de locuri de muncă și dezvoltarea infrastructurii locale, inclusiv a orașului Sorowako. Geografie K11 — Resurse minerale și tranziția energetică.",
+      "factsAdvanced": [
+        "Operată de PT Vale Indonesia, parte a grupului minier global Vale.",
+        "Utilizează energie de la trei centrale hidroelectrice proprii (Larona, Balambano, Karebbe).",
+        "Nichelul de aici este exportat în principal către Japonia pentru rafinare.",
+        "Regiunea deține unele dintre cele mai bogate zăcăminte de nichel din lume.",
+        "Orașul Sorowako a fost construit special pentru a deservi complexul minier.",
+        "Exploatarea a început oficial la sfârșitul anilor 1960.",
+        "Implementează programe avansate de reabilitare a pădurilor post-minare."
+      ]
+    },
+    {
+      "id": "karawang-automotive-industry-economic-v2",
+      "descriptionAdvanced": "Industria Auto din Karawang, situată în provincia Java de Vest, este cel mai mare hub de producție a vehiculelor din Indonezia, fiind supranumit „Detroit-ul Asiei de Sud-Est”. Această zonă găzduiește fabrici de asamblare gigantice aparținând unor mărci globale de prestigiu, în special japoneze, precum Toyota, Honda și Mitsubishi. Karawang beneficiază de o locație strategică excelentă, fiind conectat prin autostrăzi moderne de portul Tanjung Priok și de capitala Jakarta. Dezvoltarea acestei industrii a stimulat apariția a sute de furnizori de componente, creând un ecosistem industrial complet care generează sute de mii de locuri de muncă. Karawang nu produce doar pentru piața internă uriașă a Indoneziei, ci a devenit și un centru major de export pentru regiunea ASEAN și Orientul Mijlociu. Recent, zona a început să atragă investiții masive și în producția de vehicule electrice și baterii, aliniindu-le tendințelor globale. Geografie K9 — Dezvoltare industrială și lanțuri de aprovizionare.",
+      "factsAdvanced": [
+        "Găzduiește cele mai mari fabrici de asamblare auto din Asia de Sud-Est.",
+        "Companii precum Toyota și Honda au aici capacități de producție masive.",
+        "Este un contribuitor major la exporturile de bunuri manufacturate ale țării.",
+        "Zona beneficiază de o infrastructură logistică dedicată industriei grele.",
+        "Include parcuri industriale specializate precum KIIC și Suryacipta.",
+        "Aici se află prima fabrică de baterii pentru vehicule electrice din Indonezia.",
+        "Sectorul auto din Karawang susține o vastă rețea de IMM-uri locale."
+      ]
+    },
+    {
+      "id": "belawan-port-economic-v2",
+      "descriptionAdvanced": "Portul Belawan, situat lângă orașul Medan, este cel mai important port din insula Sumatra și a treia poartă maritimă ca mărime din Indonezia. Amplasat strategic pe malul strâmtorii Malacca, Belawan este canalul principal prin care bogățiile agricole ale Sumatrei de Nord ajung pe piețele internaționale. Portul este celebru pentru exporturile masive de ulei de palmier, cauciuc natural, cafea și tutun, produse care au definit economia regiunii timp de peste un secol. Infrastructura sa modernă include terminale de containere și facilități specializate pentru vrac lichid. Belawan joacă un rol crucial în dezvoltarea coridorului economic al Sumatrei, fiind conectat de orașul Medan prin prima autostradă construită în afara insulei Java. Planurile de extindere vizează transformarea sa întrun port hub internațional, capabil să concureze cu marile porturi vecine din Malaezia și Singapore. Geografie K8 — Comerț regional și infrastructură portuară.",
+      "factsAdvanced": [
+        "Este cel mai mare port de pe insula Sumatra.",
+        "Situat la gura de vărsare a râurilor Deli și Belawan în mare.",
+        "Exportator major de ulei de palmier și cauciuc de înaltă calitate.",
+        "Autostrada Belmera (Belawan-Medan-Tanjung Morawa) leagă portul de regiune.",
+        "Gestionează o parte semnificativă din traficul maritim din Strâmtoarea Malacca.",
+        "Găzduiește o bază navală importantă a Indoneziei.",
+        "Terminalul de containere din Belawan este în continuă expansiune."
+      ]
+    },
+    {
+      "id": "ompu-sunggu-mine-economic-v2",
+      "descriptionAdvanced": "Proiectul minier Dairi (Ompu Sunggu), situat în munții din Sumatra de Nord, este una dintre cele mai mari și mai bogate rezerve de zinc și plumb nedezvoltate din lume. Acest proiect de minerit subteran vizează exploatarea minereului de înaltă puritate aflat în depozitul Anjing Hitam. Deși potențialul său economic este semnificativ, proiectul a generat dezbateri aprinse legate de riscurile de mediu și siguranța barajului de steril, având în vedere activitatea seismică ridicată din regiune. Situat într-o zonă cu păduri tropicale dense și comunități agricole, proiectul minier Ompu Sunggu reprezintă o provocare majoră de echilibru între dezvoltarea resurselor minerale și conservarea ecosistemelor vulnerabile. Minereul extras urmează să fie procesat și exportat pentru a alimenta industria globală a galvanizării și fabricarea bateriilor. Proiectul este administrat de PT Dairi Prima Mineral, o colaborare între parteneri indonezieni și chinezi. Geografie K11 — Resurse minerale și conflicte de mediu.",
+      "factsAdvanced": [
+        "Conține una dintre cele mai bogate concentrații de zinc de pe glob.",
+        "Depozitul principal se numește Anjing Hitam și este situat în Sumatra de Nord.",
+        "Proiectul este conceput exclusiv ca o exploatare minieră subterană.",
+        "Se află într-o zonă cu precipitații extrem de mari și risc seismic.",
+        "Zincul extras este esențial pentru protecția oțelului împotriva coroziunii.",
+        "Proiectul a atras investiții majore din partea companiilor din China.",
+        "Comunitățile locale sunt implicate în dezbateri privind impactul social."
+      ]
+    },
+    {
+      "id": "jakarta-financial-district-economic-v2",
+      "descriptionAdvanced": "Districtul Financiar din Jakarta, centrat în jurul zonei Sudirman (SCBD), reprezintă inima pulsândă a economiei indoneziene și simbolul ambițiilor globale ale țării. Caracterizat de o linie a orizontului dominată de zgârie-norilor moderni, acest district găzduiește Bursa de Valori din Indonezia, sediile marilor bănci naționale și birourile corporațiilor multinaționale. Este locul unde se iau deciziile financiare majore care influențează întregul arhipelag și regiunea Asiei de Sud-Est. Infrastructura de top, inclusiv conexiunea cu metroul (MRT) și facilitățile de lux, transformă această zonă într-un hub cosmopolit de afaceri. Districtul reflectă tranziția Indoneziei către o economie bazată pe servicii și finanțe, integrată în fluxurile de capital mondiale. Dincolo de birouri, zona include centre comerciale de prestigiu și hoteluri de cinci stele, fiind centrul puterii economice și politice. Geografie K11 — Centre financiare și urbanizarea în metropole globale.",
+      "factsAdvanced": [
+        "SCBD (Sudirman Central Business District) se întinde pe 45 de hectare.",
+        "Găzduiește Bursa de Valori din Indonezia (IDX), inima pieței de capital.",
+        "Aici se află Treasury Tower, unul dintre cei mai înalți zgârie-nori din oraș.",
+        "Districtul este deservit de linia principală a metroului din Jakarta (MRT).",
+        "Concentrează cea mai mare valoare a tranzacțiilor financiare din țară.",
+        "Găzduiește majoritatea sediilor băncilor din categoria „Big Four” din Indonezia.",
+        "Este considerat centrul de afaceri cu cea mai rapidă creștere din regiune."
+      ]
+    }
+  ]
+}

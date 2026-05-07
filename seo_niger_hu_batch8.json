@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mont-greboun-relief-v2",
+      "descriptionAdvanced": "A Mont Gréboun az Air-hegység északi peremén magasodik, és a régió egyik legjellegzetesebb, fekete vulkanikus gránitcsúcsa. Bár sokáig Niger legmagasabb pontjának hitték, a modern mérések szerint az 1944 méteres magasságával a második helyre szorult a Mont Idoukal-n-Taghès mögött. Lenyűgöző sziklafalai és sötét kőzete éles, drámai kontrasztot alkot a lábánál elterülő hatalmas, aranysárga Ténéré homoktengerrel. A hegymászók és geológusok számára egyaránt kultikus helyszín. Földrajz K8 — vulkanikus szigethegyek.",
+      "factsAdvanced": [
+        "Sokáig Niger legmagasabb csúcsának hitték (1944 méter).",
+        "Sötét gránitból és vulkanikus kőzetekből épül fel.",
+        "Közvetlenül a világítóan sárga Ténéré sivatag peremén magasodik.",
+        "Rendkívül meredek, nehezen mászható sziklafalak jellemzik.",
+        "A sivatagi szelek és a homokfúvás intenzíven koptatja az alját.",
+        "Különleges mikroklímája miatt apró, endemikus növények otthona."
+      ]
+    },
+    {
+      "id": "plateau-djado-relief-v2",
+      "descriptionAdvanced": "A Djado-fennsík egy hatalmas, északkeleti homokkőasztal, amely az elsivatagosodás és a szélerózió drámai munkájának eredménye. A több mint 1000 méter magasra emelkedő sziklavilág labirintusszerű kanyonokat, természetes kőhidakat és \"gomba\" alakú sziklaképződményeket (hoodoo-kat) rejt. Mivel a terület a történelem előtti időkben sokkal nedvesebb volt, a fennsík megkövült folyómedrei ma is őrzik az egykori afrikai vízrendszerek nyomait. Földrajz K8 — eolikus (szél általi) erózió.",
+      "factsAdvanced": [
+        "Hatalmas kiterjedésű, durva homokkőből (grès) álló sziklafennsík.",
+        "A szélerózió (defláció) gigantikus \"gomba\" sziklákat formált belőle.",
+        "Labirintusszerű, mély kanyonok hálózzák be a felületét.",
+        "Átlagmagassága eléri a 1000-1100 métert a tengerszint felett.",
+        "Geológiailag a Csád-medence peremvidékéhez tartozik.",
+        "A történelem előtti idők kiszáradt folyórendszereinek nyomait viseli."
+      ]
+    },
+    {
+      "id": "massif-termit-relief-v2",
+      "descriptionAdvanced": "A Termit-masszívum a Szahara déli-középső részén egy markáns, fekete sziklatömbökből és vörös homokdűnékből álló geológiai hibrid. Kialakulásában a vulkanikus tevékenység és az évmilliókig tartó homoklerakódás is szerepet játszott. A masszívum legmagasabb pontjai alig érik el a 700 métert, mégis drámai szigetként magasodnak ki a sík sivatagból. A zegzugos sziklahasadékok fontos árnyékot és búvóhelyet nyújtanak a túlélésért küzdő sivatagi faunának. Biológia K8 — sivatagi menedékek.",
+      "factsAdvanced": [
+        "Sötét, vulkanikus sziklák és vörös homokdűnék keveréke.",
+        "Viszonylag alacsony hegység, átlagos magassága 600-700 méter.",
+        "Kiemelkedően erodált, töredezett sziklafelszín jellemzi.",
+        "A Ténéré sivatag hatalmas, sík medencéjéből emelkedik ki.",
+        "Természetes menedéket (árnyékot) biztosít az extrém hőségben.",
+        "A kőzetek ásványi összetétele teljesen elüt a környező homoktól."
+      ]
+    },
+    {
+      "id": "plateau-damagaram-relief-v2",
+      "descriptionAdvanced": "A Damagaram-fennsík egy lapos tetejű, laterites (vas-oxidokban gazdag) kiemelkedés Dél-Nigerben, amely a Száhel-övezet jellegzetes domborzati formája. A fennsík lankás oldalait a lezúduló esővíz mély völgyekkel és vízmosásokkal (wadi) szabdalta fel. A vöröses-barna kőzetréteg nagyon kemény, ezért a földművelés itt nehéz, inkább extenzív pásztorkodásra alkalmas. A fennsík természetes vízelválasztóként működik a Csád-tó medencéje és a Niger folyó vízgyűjtője között. Földrajz K7 — laterit talajok és vízelválasztók.",
+      "factsAdvanced": [
+        "Laterites, vasban és alumíniumban gazdag kemény kőzetből áll.",
+        "Lapos tetejű fennsík (plateau), meredek, de alacsony peremekkel.",
+        "Természetes vízválasztó vonal a régió folyórendszerei között.",
+        "A felszíni erózió (vízmosások) erősen formálja a lejtőit.",
+        "Talaja rendkívül nehezen művelhető a mezőgazdaság számára.",
+        "Sziklás felszíne nappal elnyeli, éjjel pedig kisugározza a hőt."
+      ]
+    },
+    {
+      "id": "dallol-bosso-relief-v2",
+      "descriptionAdvanced": "A Dallol Bosso völgye egy egyedülálló geológiai formáció: egy hatalmas, észak-déli irányú hasadék a nyugat-nigeri fennsíkon, amely az egykori (mára kiszáradt) folyóhálózat medrét jelzi. A völgy lapos feneke feltűnő mélyedést képez a környező magasabban fekvő, laterites síkságokhoz képest. A mélyföld topográfiája teszi lehetővé, hogy a talajvíz olyan közel legyen a felszínhez, ami egész évben életben tartja a sűrű vegetációt és a mezőgazdaságot ebben az amúgy aszályos régióban. Földrajz K8 — fosszilis völgyek.",
+      "factsAdvanced": [
+        "Hatalmas, több száz kilométer hosszú tektonikus-eróziós süllyedék.",
+        "Szintje látványosan alacsonyabb a környező fennsíkokénál.",
+        "A lapos, széles völgyfenék ősi folyami hordalékból (homokból) áll.",
+        "Természetes medencét alkot a környező dombokról lefutó vizeknek.",
+        "A völgy oldalfalai (peremei) sok helyen meredekek és sziklásak.",
+        "A mélyföld geológiája tartja a talajvizet (víztükröt) a felszín közelében."
+      ]
+    },
+    {
+      "id": "adrar-bous-relief-v2",
+      "descriptionAdvanced": "Az Adrar Bous egy izolált, mintegy 1100 méter magasra kiemelkedő vulkanikus hegységcsoport a Ténéré sivatag peremén. A fekete bazaltból és gránitból álló csúcsok úgy tűnnek fel a sivatagi horizonton, mint egy sötét hajóhad. Geológiailag a sziklatömbök tövében egykor egy hatalmas tó hullámzott, amelynek visszahúzódása látható teraszokat hagyott a kőzeteken. A domborzat ma a könyörtelen sivatagi szélnek van kitéve, amely lassan, de biztosan csiszolja a fekete sziklákat. Földrajz K8 — vulkanikus kúpok a sivatagban.",
+      "factsAdvanced": [
+        "Elszigetelt, sötét bazalt- és gránithegység a Ténéré sivatagban.",
+        "Lábánál ősi, mára kiszáradt tavak teraszai (vízszintjei) láthatók.",
+        "Magassága nagyjából 1120 méter a tengerszint felett.",
+        "Meredek, szakadékos formái az ősi vulkanizmus bizonyítékai.",
+        "A szél folyamatosan szállítja a homokot a sziklák lábához (homokrámpák).",
+        "Kiemelkedő topográfiai tájékozódási pont a végtelen homoktengerben."
+      ]
+    },
+    {
+      "id": "plateau-tchigai-relief-v2",
+      "descriptionAdvanced": "A Tchigai-fennsík Niger keleti határvidékén, Líbiával határosan terül el, mintegy 800-1000 méteres átlagos magasságban. Ezt a zord, megközelíthetetlen homokkőplatót a jégkorszaki időszakok hatalmas folyói drámai, több száz méter mély kanyonokkal szabdalták fel. Ma már csak a szél uralkodik a tájon, amely éles peremű sziklatűket és mély barlangokat vés a kőzetbe. A domborzat annyira szaggatott, hogy még a helyi nomádok is csak a jól ismert, titkos átjárókat használják. Földrajz K8 — szurdokvölgyek és fennsíkok.",
+      "factsAdvanced": [
+        "Mély, jégkorszaki (pleisztocén) folyók által kivájt szurdokok jellemzik.",
+        "A homokkőfennsík átlagos magassága 800 és 1000 méter közötti.",
+        "Extrém módon szaggatott, meredek falú kanyonhálózat borítja.",
+        "A szélerózió (korrázió) folyamatosan mélyíti és formálja a völgyeket.",
+        "Természetes, szinte áthatolhatatlan geológiai védvonal a keleti határon.",
+        "Nincsenek rajta lágy lankák, a sziklafalak többnyire függőlegesek."
+      ]
+    },
+    {
+      "id": "dallol-maouri-relief-v2",
+      "descriptionAdvanced": "A Dallol Maouri egy széles, lankás falú sekély völgy (fosszilis folyómeder), amely Dosso és Tahoua régiókat szeli ketté. Geomorfológiailag a völgy egy hatalmas U-alakot formáz, amelynek alján puha, homokos hordalék található. Ez a domborzati süllyedés természetes gyűjtőmedencéje a rövid esős évszakban a fennsíkokról (plateau) lezúduló víznek. A völgy alacsony fekvése és lapos topográfiája teszi lehetővé a helyiek számára a sekély kútásást és a kiterjedt pálmaligetek fenntartását. Földrajz K6 — folyóvölgyek topográfiája.",
+      "factsAdvanced": [
+        "Széles, klasszikus U-alakú fosszilis (kiszáradt) folyóvölgy.",
+        "Finom, homokos folyami hordalék (alluvium) borítja az alját.",
+        "Lankás, fokozatosan emelkedő peremek választják el a síkságtól.",
+        "Természetes gravitációs gyűjtője a környező területek felszíni vizeinek.",
+        "Topográfiája megvédi az alját a legpusztítóbb sivatagi szelektől.",
+        "Könnyen járható, sík terepe miatt történelmi közlekedési útvonal."
+      ]
+    },
+    {
+      "id": "goulbi-maradi-relief-v2",
+      "descriptionAdvanced": "A Goulbi Maradi folyóvölgy domborzata egy folyamatosan változó, aktív eróziós zóna. A délről északra tartó időszakos folyó mély medret vágott a szavanna homokos-agyagos talajába. A meder partfalai (bank) gyakran meredeken szakadnak le, ami az esős évszak alatti heves villámárvizek romboló erejét mutatja. A mederben kanyargó homokzátonyok és iszapszigetek minden évben újrarajzolják a völgy aljának topográfiáját. Földrajz K7 — folyami erózió és mederképződés.",
+      "factsAdvanced": [
+        "Erősen beágyazódott, meredek falú szezonális folyómeder.",
+        "A villámárvizek (flash floods) drasztikusan formálják és erodálják a partokat.",
+        "A meder alján évente átrendeződő homokzátonyok találhatók.",
+        "Jelentős mennyiségű felszíni talajt (termőréteget) mos el észak felé.",
+        "A folyóvölgy süllyedéke határozza meg a környező falvak elhelyezkedését.",
+        "A kiszáradt meder az év nagy részében mély homokárokként funkcionál."
+      ]
+    },
+    {
+      "id": "koutous-relief-v2",
+      "descriptionAdvanced": "A Koutous-hegység (Zinder régió) topográfiája leginkább egy óriási, félig eltemetett kőrakáshoz hasonlít. A domborzatot hatalmas, gömbölyded gránitsziklák alkotják, amelyeket az évezredes esőzések (exfoliáció) hagymalevélszerűen hámoztak le. A sziklatömbök között mély, árnyékos repedések és apró szurdokok jöttek létre, amelyek megőrzik a nedvességet. Ez a durva, tagolt kőzetfelszín igazi túlélőpálya a helyi flóra és fauna számára. Geológia K8 — gránit lepusztulás (exfoliáció).",
+      "factsAdvanced": [
+        "Hatalmas, gömbölyded gránitsziklákból (boulder) álló formáció.",
+        "A kőzetek a klasszikus exfoliáció (hagymaleveles lepusztulás) jeleit mutatják.",
+        "A domborzatot mély hasadékok és kaotikusan heverő sziklatömbök jellemzik.",
+        "A sziklák közötti mélyedések természetes vízcsapdaként (guelta) működnek.",
+        "Viszonylag alacsony kiemelkedés, de a sík környezetből élesen kitűnik.",
+        "A gránit kőzet lassan omlik szét, durva homokot (málladékot) hagyva maga után."
+      ]
+    },
+    {
+      "id": "komadougou-yobe-relief-v2",
+      "descriptionAdvanced": "A Komadougou Yobe folyó völgye egy rendkívül lapos, alacsony fekvésű árterület, amely a Diffa régióból ereszkedik le a Csád-tó medencéje felé. A szintkülönbség minimális, a folyó lustán, széles kanyarulatokkal (meanderekkel) halad előre a homokos talajon. Áradáskor a víz akadálytalanul önti el a hatalmas síkságot, természetes mocsárvidéket hozva létre. Ez a sík, hordalékos topográfia teszi lehetővé a kiterjedt mezőgazdaságot, de egyben nagyon sebezhetővé is teszi a régiót az áradásokkal szemben. Földrajz K6 — meanderező folyók és árterek.",
+      "factsAdvanced": [
+        "Kiemelkedően sík, alacsony lejtésszögű ártéri (alluviális) domborzat.",
+        "A folyó széles, kiterjedt meanderekben (kanyarulatokban) folyik a Csád-tó felé.",
+        "Természetes domborzati akadályok hiányában az áradás nagy területet érint.",
+        "Folyami iszappal és hordalékkel vastagon feltöltött lapály.",
+        "A meder elvándorlása gyakori a puha, homokos partfalak miatt.",
+        "A tájat apró, elhagyott folyóágak (holtágak) szövedéke tarkítja."
+      ]
+    },
+    {
+      "id": "dallol-fogha-relief-v2",
+      "descriptionAdvanced": "A Dallol Fogha geológiai arculatát a szikes, sós (natronos) talaj és a széles, tál alakú süllyedék határozza meg. Ellentétben a meredek kanyonokkal, ez a fosszilis völgy szinte észrevétlenül, lassan lejt befelé a környező fennsíkokról. A völgy alján lévő lapos medencék az esős évszakban megtelnek, majd a víz elpárolgásával vakítóan fehér sókéreg (evaporit) marad a felszínen. A domborzat lágy vonalvezetése ellenére a kémiai összetétel zord környezetet teremt. Kémia és földrajz K7 — evaporit medencék.",
+      "factsAdvanced": [
+        "Széles, sekély, \"tál\" alakú süllyedék (fosszilis völgy).",
+        "A lejtők rendkívül enyhék, alig észrevehető az átmenet a fennsík felé.",
+        "A völgyfenéken lapos, zárt medencék (playák) alakultak ki.",
+        "A párolgás miatt a felszínen kemény, fehér só- és natronkéreg (evaporit) képződik.",
+        "A felszín a szárazság miatt gyakran sokszögletű repedésekkel tagolt.",
+        "Felszíni lefolyása (lecsapolódása) a tál-jelleg miatt hiányos."
+      ]
+    },
+    {
+      "id": "goulbi-kaba-relief-v2",
+      "descriptionAdvanced": "A Goulbi Kaba domborzatának különlegességét a széles homokdűnék és a völgybe bevágódott időszakos folyómedrek kombinációja adja. A völgy mentén úgynevezett gátgátak (terrace-ok) figyelhetők meg, amelyek az éghajlat nedvesebb történelmi szakaszaiban rakódtak le, és amelyeket a mai gyengébb vízhozamú folyó fokozatosan erodál. Ez egy klasszikus \"völgy a völgyben\" domborzati formációt hoz létre, amely megmutatja az afrikai klímaváltozás évezredes dinamikáját. Földrajz K8 — folyami teraszok és klímaváltozás.",
+      "factsAdvanced": [
+        "A meder körül magasabban fekvő ősi folyami teraszok (terrace) láthatók.",
+        "Klasszikus \"völgy a völgyben\" (nested valley) geológiai formáció.",
+        "A homokdűnék és a folyóvölgy eróziója közvetlenül egymás mellett zajlik.",
+        "A jelenlegi meder jóval keskenyebb az ősi, történelmi folyóágaknál.",
+        "A partfalak gyakran omlanak (suvadás) a homokos szerkezet miatt.",
+        "A domborzat rögzíti az évezredes afrikai aszályok és esőzések ciklusait."
+      ]
+    },
+    {
+      "id": "ife-massif-relief-v2",
+      "descriptionAdvanced": "Az Iférouane-masszívum (Air-hegység északi része) vulkáni kráterek, kalderák és megszilárdult lávafolyamok kusza hálózata. A hegycsúcsok tűhegyesek, a völgyek pedig V-alakúak, amelyeket a gyorsan lezúduló vizek vájtak ki a fekete bazaltból. A domborzat annyira összetett és meredek, hogy csak gyalogosan vagy tevével lehet megközelíteni a belső régiókat. Ez a drámai relief a Földkéreg egykori aktív, robbanásos tevékenységének lenyűgöző mementója a Szahara közepén. Földrajz K8 — vulkáni kalderák és kúpok.",
+      "factsAdvanced": [
+        "Kusza vulkanikus hegyrendszer, ősi kalderákkal és kráterekkel.",
+        "A csúcsok hegyesek és tűszerűek (horn), anyaguk kemény bazalt.",
+        "A völgyeket V-alakú, meredek szurdokok (wadi) tagolják.",
+        "A megszilárdult, sötét lávafolyások ma is jól kivehetők a felszínen.",
+        "Rendkívül nehezen járható, magas lejtőszögű domborzat.",
+        "Éles vizuális kontrasztot alkot az alatta elterülő sík, sárga homokkal."
+      ]
+    },
+    {
+      "id": "goulbi-goulbi-relief-v2",
+      "descriptionAdvanced": "A Goulbi vízrendszerek (mint a Goulbi Maradi és Kaba) által formált síkságok a \"száraz delta\" domborzati formáját veszik fel. Ahogy ezek a folyók elérik a laposabb nigeri területeket Nigéria felől, vizük szétterül és elvész a homokban, hatalmas, legyező alakú hordalékkúpokat (alluviális fan) hátrahagyva. Ez a minimális lejtésű, finom iszappal borított domborzat teszi lehetővé, hogy a felszíni víz gyorsan a mélybe szivárogjon, így gazdagítva a talajvíz-hálózatot. Földrajz K7 — alluviális hordalékkúpok.",
+      "factsAdvanced": [
+        "A vizek lapos, legyező alakú hordalékkúpokat (alluviális fan) építenek.",
+        "A lejtésszög rendkívül alacsony, ahogy a folyók beérnek a szavannára.",
+        "A domborzat klasszikus \"száraz belső delta\" formációkat mutat.",
+        "A folyómedrek sekélyek és gyakran fonatosak (braided river).",
+        "A homokos-iszapos felszín azonnal elnyeli a lezúduló víz nagy részét.",
+        "Ideális topográfia a talajvízszint (aquifer) folyamatos újratöltéséhez."
+      ]
+    },
+    {
+      "id": "er-erg-tenere-relief-v2",
+      "descriptionAdvanced": "Az Erg Ténéré domborzatának királyai a Barchan-dűnék (kifli vagy félhold alakú homokdűnék) és a hatalmas, hosszanti homokhátak (seif-dűnék). Mivel a sivatag ezen részén a passzátszelek irányt változtatnak, a homok megállás nélkül épül fel és omlik le a dűnék szélvédett oldalán. Ezek a homokhegyek gyakran több száz kilométer hosszan futnak párhuzamosan, hatalmas \"folyosókat\" hagyva maguk között, amelyeken a karavánok haladnak. Geomorfológia K8 — sivatagi dűnetípusok.",
+      "factsAdvanced": [
+        "A tájat hatalmas kifli alakú (Barchan) és hosszanti (Seif) dűnék dominálják.",
+        "A hosszanti dűnék gyakran több száz kilométer hosszan, párhuzamosan futnak.",
+        "A dűnék szél felőli oldala lankás, a szélvédett (lee) oldaluk meredek.",
+        "A dűnék közötti lapos, kemény talajú folyosókat a karavánok használják.",
+        "A domborzat állandó, napi szintű mozgásban és átalakulásban van.",
+        "A dűnék magassága egy 10 emeletes ház magasságát is elérheti."
+      ]
+    },
+    {
+      "id": "gourma-lowland-relief-v2",
+      "descriptionAdvanced": "A Gourma-alföld (Gourma Lowlands) egy kiterjedt, enyhén hullámzó síkság a Niger folyó nyugati partján, amely a mali határhoz simul. A domborzatot alacsony, laterites dombok (mesák) és kiterjedt sekély medencék alkotják, amelyek az esős évszakban hatalmas ideiglenes tavakká (mare) válnak. Ez a \"pöttyös\" síkvidék – ahol a kemény kőzet a felszín közelében van – megakadályozza a víz gyors elszivárgását, ami létfontosságú az itteni sivatagi elefántok itatása szempontjából. Földrajz K6 — laterites síkságok és tavak.",
+      "factsAdvanced": [
+        "Enyhén hullámzó, hatalmas síkság a Niger folyótól nyugatra.",
+        "A tájat lapos tetejű, alacsony laterites dombok (mesa) tagolják.",
+        "A domborzat sekély mélyedéseiben időszakos tavak (mare) alakulnak ki.",
+        "A felszín közeli kemény kőzetréteg megakadályozza a víz elszivárgását.",
+        "A sík domborzat ideális az elefántok hatalmas távolságú vándorlásához.",
+        "Az erózió vöröses, kavicsos (vas-oxid) sivatagi burkolatot (reg) hagy a felszínen."
+      ]
+    },
+    {
+      "id": "eastern-damagaram-relief-v2",
+      "descriptionAdvanced": "A Kelet-Damagaram fennsík egy fokozatosan leereszkedő, monoton domborzati formáció, amely Zinder régiót köti össze a Csád-medence (Bassin du Tchad) mélyföldjével. Itt nincsenek meredek hegyek vagy mély völgyek; a táj szinte mérnöki pontossággal, lassan lejt kelet felé. A felszínt az úgynevezett \"széleróziós burkolat\" (desert pavement) jellemzi, ahol az apró, finom homokot a szél elhordta, és csak kavicsok, valamint kemény, napégette agyag maradt hátra. Geomorfológia K7 — sivatagi kavicstakarók (reg).",
+      "factsAdvanced": [
+        "Monoton, kelet felé fokozatosan és egyenletesen lejtő fennsík.",
+        "Összekötő geológiai láncszem a szavanna és a Csád-tó medencéje között.",
+        "A domborzat szinte teljesen mentes a drámai bevágódásoktól és hegyektől.",
+        "A felszínt jórészt sivatagi kavicstakaró (reg vagy serir) borítja.",
+        "A szélerózió (defláció) elhordta a finom port, kemény felszínt hagyva hátra.",
+        "A sík, akadálymentes táj miatt a szelek itt rendkívüli erővel fújnak."
+      ]
+    },
+    {
+      "id": "goulbi-kane-relief-v2",
+      "descriptionAdvanced": "A Goulbi Kané domborzati érdekessége a teraszos kiképzés, amely a meder két oldalán lépcsőzetesen emelkedik. Ezek a teraszok olyan ősi folyópartok maradványai, amikor a folyó vízhozama (évezredekkel ezelőtt) még nagyságrendekkel nagyobb volt. Ma a völgy aljába egy sokkal kisebb, V-alakú árok (az aktuális meder) vágódik be. Ez a teraszos domborzat megvédi a környező falvakat az áradásoktól, miközben termékeny lépcsőket kínál a hagyományos mezőgazdaságnak. Földrajz K8 — folyóteraszok kialakulása.",
+      "factsAdvanced": [
+        "A völgy oldalai lépcsőzetesek, úgynevezett folyami teraszokat (terrace) alkotva.",
+        "A lépcsők az egykori, nedvesebb klíma magasabb vízszintjeit (ősi partok) jelzik.",
+        "A jelenlegi aktív meder mélyen belevágódott az egykori hordalékba.",
+        "A teraszok biztonságos, áradásmentes helyszínt adnak a falvaknak.",
+        "Lépcsős domborzata ideális a szintvonalas mezőgazdasági művelésre.",
+        "Példája annak, ahogy a folyóerózió újra és újra formálja saját völgyét."
+      ]
+    },
+    {
+      "id": "tchad-basin-relief-v2",
+      "descriptionAdvanced": "A Csád-medence (Bassin du Tchad) nigeri szakasza (Diffa régió) egy hatalmas, zárt endorheikus (lefolyástalan) süllyedék peremvidéke. A domborzat itt egy óriási \"tálat\" formáz, amely a tengerszint felett alig 300 méteres magasságban fekszik. A felszínt az ősi (Mega-Csád) tó visszahúzódása után visszamaradt, hullámos homokdűnék (erg) és régi partvonalak nyomai tagolják. Mivel a medencének nincs kijárata a tenger felé, a beömlő vizek csak párolgással távoznak, hatalmas szikes lapályokat hagyva hátra. Földrajz K8 — endorheikus medencék.",
+      "factsAdvanced": [
+        "Hatalmas, lefolyástalan (endorheikus) kontinentális mélyföld (medence).",
+        "A terület a történelem előtti gigantikus Mega-Csád tó egykori medre.",
+        "Átlagos magassága nagyon alacsony, kb. 300 méter a tengerszint felett.",
+        "Az ősi tó hullámzása által kialakított homokbuckák és dűnék borítják.",
+        "A beérkező vizek csak elpárologni tudnak, ami szikes/sós lapályokat hoz létre.",
+        "Az egész régió lassan, tál-szerűen lejt kelet (Csád országa) felé."
+      ]
+    },
+    {
+      "id": "air-massif-relief-v2",
+      "descriptionAdvanced": "Az Air-masszívum domborzati szempontból egy pre-kambriumi kristályos alapkőzeten fekvő, gyűrűs szerkezetű vulkáni komplexum. Az űrből nézve a hegység hatalmas, sötét, koncentrikus körökből (kalderákból) áll, amelyek vulkáni intruziók (magmabenyomulások) eredményei. A legimpozánsabb ezek közül a Bagzane-hegység gyűrűje. Ez a rendkívül összetett, töredezett és sziklás domborzat labirintusként védi a belsejében megbúvó zöld oázisokat a sivatagi viharoktól. Geológia K8 — vulkáni gyűrűk és kalderák.",
+      "factsAdvanced": [
+        "A domborzatot hatalmas, gyűrűs alakú vulkáni kalderák és beomlások alkotják.",
+        "Alapkőzete ősi (prekambriumi) kristályos gránit és sötét bazalt.",
+        "Az űrből tökéletes koncentrikus (köralakú) hegyvonulatokként látható.",
+        "A töredezett (vetődéses) sziklahálózat valóságos kőlabirintust alkot.",
+        "A hegyfalak felfogják és befelé vezetik a ritka csapadékot az oázisokba.",
+        "Az erózió hatalmas, simára csiszolt kőgolyókat hagyott a hegyoldalakon."
+      ]
+    },
+    {
+      "id": "bilma-escarpment-relief-v2",
+      "descriptionAdvanced": "A Bilma-meredély (escarpment) egy megközelítőleg 150 kilométer hosszan elnyúló, szinte függőleges sziklafal (cuesta) a Ténéré sivatagban, a Kawar-völgy keleti peremén. Ez a törésvonal tektonikus erők és az erózió nyomán alakult ki. A sziklafal drámai védőpajzsként magasodik az oázisok fölé, megállítva a keletről érkező hatalmas homokdűnéket (erg). A meredély tövében kibukkanó források (artézi vizek) tartják életben a híres bilmai pálmaerdőket és sólepárlókat. Geológia K7 — sziklafalak (cuesta) és források.",
+      "factsAdvanced": [
+        "Több mint 150 km hosszú, meredek tektonikus sziklafal (escarpment).",
+        "Természetes gátként tartja vissza a keletről nyomuló homokdűnéket.",
+        "A geológiai törés (vetődés) mentén a mély talajvíz artézi forrásként tör a felszínre.",
+        "Az aszimmetrikus domborzat (cuesta) keleti fele lankás, nyugati fele meredek.",
+        "Vizuálisan élesen elválasztja az oázisokat a sárga homoksivatagtól.",
+        "Az erózió folyamatosan omlasztja a falat, kőtörmeléket halmozva a tövébe."
+      ]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "descriptionAdvanced": "A Kawar-sziklafal domborzata nemcsak fizikai gátat jelent a Ténéré sivatagban, hanem a szélcsatornák (wind gap) irányítója is. A sziklafal mentén uralkodó szelek felgyorsulnak, és mély \"szélvályúkat\" csiszolnak a hegy lábánál. Ez a szélcsatorna-effektus elhordja a finom homokot, és felszínre hozza a pálmaligetek túléléséhez elengedhetetlen, ásványokban gazdag, feketés talajrétegeket (a korábbi tómedrek alját). A domborzat és a szél dinamikája így közösen tartja fenn az oázisrendszert. Földrajz K8 — szélcsatornák a sivatagban.",
+      "factsAdvanced": [
+        "A meredek sziklafal felerősíti és irányítja az uralkodó sivatagi szeleket.",
+        "A szélcsatorna-effektus (szélvályú) folyamatosan elsöpri a fal tövéből a homokot.",
+        "A szélerózió felszínre hozta a korábbi nedvesebb korok tómedreinek ásványait.",
+        "Geomorfológiailag megakadályozza az oázisok betemetődését (homokdűnék alatt).",
+        "A sziklafal magassága eléri a 100-150 métert a völgy talpától.",
+        "A domborzat mentén gyakoriak a kis, barlangszerű szél-erodált üregek."
+      ]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "descriptionAdvanced": "Fachi települését egy apró, de jellegzetes agyag- és homokkő domb határozza meg, amely a végtelen dűnetengerből emelkedik ki. Ez a természetes magaslat (inselberg) ad otthont a város ősi erődjének (ksar). A dombocska topográfiája zseniálisan alkalmas a védekezésre: 360 fokos beláthatóságot biztosít a horizontra, így az őrszemek napokkal korábban megláthatták a közeledő nomád portyázókat vagy sókaravánokat. A hegyecske anyaga olyannyira masszív, hogy dacol a sivatagi szél folyamatos eróziójával. Földrajz K6 — sivatagi szigethegyek (inselberg).",
+      "factsAdvanced": [
+        "Apró, de markáns agyag- és homokkő domb (inselberg) a sík sivatagban.",
+        "360 fokos panorámát biztosít a végtelen homoktengerre.",
+        "A természetes magaslatra épült a híres, erődített fachi Ksar.",
+        "A domb kőzete (keményebb magja) ellenállt a környezetét elpusztító eróziónak.",
+        "Tökéletes topográfiai adottság a karavánok megfigyelésére és a védekezésre.",
+        "A domb lábánál gyülekezik a talajvíz, éltetve a pálmákat."
+      ]
+    },
+    {
+      "id": "koutous-east-relief-v2",
+      "descriptionAdvanced": "A Koutous-hegység keleti nyúlványa egy fokozatosan elaprózódó, lepusztult sziklatáj. Itt a gránittömbök már nem alkotnak egybefüggő hegyeket, hanem izolált, hatalmas kavicsokként (boulders) hevernek a sárga homokban, mintha egy óriás szórta volna szét őket. Ez a domborzati átmenet – a hegységből a síkságba (pediment) – tökéletes példája a hegyek végleges stádiumának az elsivatagosodó zónákban, ahol a kőzetek lassan durva sivatagi homokká (málladékká) őrlődnek. Geológia K8 — a hegyek lepusztulása (pediplenáció).",
+      "factsAdvanced": [
+        "A Koutous-hegység lepusztult, izolált gránittömbökből álló keleti szegélye.",
+        "Hatalmas, gömbölyded sziklák (boulder) hevernek elszórtan a homokos síkságon.",
+        "Klasszikus példája a hegyvidékek sivatagi lepusztulásának (pediplenáció).",
+        "A hőingadozás miatti repedezés (inszolációs mállás) lassan homokká őrli a köveket.",
+        "A domborzat átmenetet képez (pediment) a hegy és a sivatagi síkság között.",
+        "A sziklák alatti árnyékban apró hüllők és rovarok találnak menedéket."
+      ]
+    }
+  ]
+}

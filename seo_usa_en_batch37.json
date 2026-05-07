@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hersheypark-life-v2",
+      "descriptionAdvanced": "Hersheypark, located in Hershey, Pennsylvania, was originally founded in 1906 by Milton Hershey as a leisure garden for the employees of his rapidly growing chocolate factory. Over the decades, the park has transformed from a simple picnic and recreation area into a major, modern amusement park destination that attracts families from throughout the Northeast. The park remains deeply intertwined with the 'Sweetest Place on Earth,' showcasing the legacy of Hershey's philanthropic industrial model and the evolution of American corporate paternalism in the early 20th century. Today, it stands as a celebrated landmark for regional tourism, successfully blending its historical roots in American industrial enterprise with high-tech, modern thrill-seeking attractions. Wirtschaft K7 — Industrial legacy and regional theme park entertainment.",
+      "factsAdvanced": [
+        "Founded in 1906 as a leisure garden for Hershey chocolate factory employees.",
+        "Reflects the historical legacy of American industrial corporate paternalism.",
+        "Evolved from a local recreation area into a major regional amusement park.",
+        "Deeply intertwined with the history of the 'Sweetest Place on Earth'.",
+        "Celebrated landmark for tourism in Pennsylvania and the Northeast US.",
+        "Successfully blends industrial heritage with modern thrill-ride entertainment."
+      ]
+    },
+    {
+      "id": "idaho-potato-farms-life-v2",
+      "descriptionAdvanced": "Idaho is internationally synonymous with potato production, a status born from the state’s unique high-desert climate, volcanic soils, and essential water management through extensive irrigation. This agricultural dominance is not an accidental legacy, but the result of decades of research, breeding, and sophisticated farming technologies that allow for consistent, high-volume production of America's favorite staple. Potato farming in Idaho is a foundational pillar of the state's economy, shaping its rural landscape and driving a massive, integrated supply chain for frozen, fresh, and processed food products globally. Today, it remains a critical example of how scientific specialization and environmental adaptation can make a specific, localized crop a cornerstone of global food distribution. Landwirtschaft K7 — Specialized crop production and agricultural logistics.",
+      "factsAdvanced": [
+        "Idaho is internationally synonymous with high-volume potato production.",
+        "Agricultural dominance is driven by unique volcanic soils and specialized irrigation.",
+        "Consistent production is the result of decades of agricultural R&D and breeding.",
+        "Foundational pillar of the Idaho state economy and regional rural identity.",
+        "Drives a massive global supply chain for fresh, frozen, and processed goods.",
+        "Critical example of how scientific specialization can drive global food markets."
+      ]
+    },
+    {
+      "id": "monterey-bay-aquarium-life-v2",
+      "descriptionAdvanced": "The Monterey Bay Aquarium in California is a global leader in marine research, conservation, and public education, situated on the former site of a historic sardine cannery on Cannery Row. Since opening in 1984, the aquarium has pioneered the display of live kelp forests, complex open-ocean exhibits, and critical research into marine megafauna, including the great white shark. The aquarium is a foundational hub for the 'Seafood Watch' program, which has fundamentally shifted global consumer awareness regarding sustainable fishing and ocean-health practices. Today, it is recognized not just as a landmark visitor attraction, but as a crucial science institution that bridges the gap between public fascination with marine life and the urgent necessity of global ocean conservation. Biologie K7 — Marine science education and sustainable fishing practices.",
+      "factsAdvanced": [
+        "Global leader in marine science research, conservation, and education.",
+        "Located on the historic former site of a Monterey sardine cannery.",
+        "Pioneered immersive live kelp forest and open-ocean exhibition models.",
+        "Founding center of the highly influential 'Seafood Watch' program.",
+        "Critical hub for global marine megafauna research, including white sharks.",
+        "Essential institution bridging public wonder with urgent ocean-health advocacy."
+      ]
+    }
+  ]
+}

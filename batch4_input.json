@@ -1,0 +1,127 @@
+[
+  {
+    "id": "morrito-rio-san-juan-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Morrito"
+  },
+  {
+    "id": "san-jorge-rivas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Jorge"
+  },
+  {
+    "id": "belen-rivas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Bel\u00e9n"
+  },
+  {
+    "id": "potosi-rivas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Potos\u00ed"
+  },
+  {
+    "id": "buenos-aires-rivas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Buenos Aires"
+  },
+  {
+    "id": "cardenas-rivas-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "C\u00e1rdenas"
+  },
+  {
+    "id": "telpaneca-madriz-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Telpaneca"
+  },
+  {
+    "id": "san-juan-de-rio-coco-madriz-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Juan del R\u00edo Coco"
+  },
+  {
+    "id": "san-jose-de-cusmapa-madriz-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Jos\u00e9 de Cusmapa"
+  },
+  {
+    "id": "yalaguina-madriz-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Yalag\u00fcina"
+  },
+  {
+    "id": "totogalpa-madriz-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Totogalpa"
+  },
+  {
+    "id": "palacaguina-madriz-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Palacag\u00fcina"
+  },
+  {
+    "id": "santa-rosa-del-penon-leon-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Santa Rosa del Pe\u00f1\u00f3n"
+  },
+  {
+    "id": "el-realejo-chinandega-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "El Realejo"
+  },
+  {
+    "id": "cinco-pinos-chinandega-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Cinco Pinos"
+  },
+  {
+    "id": "san-francisco-de-cuapa-chontales-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Francisco de Cuapa"
+  },
+  {
+    "id": "santo-domingo-chontales-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Santo Domingo"
+  },
+  {
+    "id": "la-libertad-chontales-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "La Libertad"
+  },
+  {
+    "id": "teustepe-boaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Teustepe"
+  },
+  {
+    "id": "santa-lucia-boaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Santa Luc\u00eda"
+  },
+  {
+    "id": "camopa-boaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "Camoapa"
+  },
+  {
+    "id": "san-jose-de-los-remates-boaco-cities-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "name": "San Jos\u00e9 de los Remates"
+  },
+  {
+    "id": "puerto-corinto-economic-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "name": "Port of Corinto"
+  },
+  {
+    "id": "puerto-sandino-economic-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "name": "Puerto Sandino"
+  },
+  {
+    "id": "puerto-el-bluff-economic-v2",
+    "file": "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "name": "Port of El Bluff"
+  }
+]

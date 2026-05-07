@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "casa-fortin-yuscaran-history-v2",
+      "descriptionAdvanced": "A Casa Fortín Yuscarán bájos, hegyvidéki városának egyik legfontosabb történelmi és építészeti emléke El Paraíso megyében. A 19. században épült monumentális gyarmati-köztársasági udvarház az eredetileg Olaszországból származó, gazdag bányász és kereskedő Fortín család rezidenciája volt. A család vagyonát a helyi ezüstbányászatból szerezte, és ez a gazdagság visszaköszön a ház elegáns, tágas belső udvarában, a vastag vályogfalakban és a faragott famunkákban. Miután az épület funkcióját vesztette, az állam megvásárolta, és ma a 'Casa Fortín' Múzeumként működik. A kiállítások Yuscarán bányászati aranykorát, a 19. századi mindennapi életet, valamint a város híres helyi szeszfőzdéjének, az aguardiente (cukornádpárlat) gyártásának történetét mutatják be. Történelem K7 — gyarmati rezidenciák.",
+      "factsAdvanced": [
+        "A 19. században épült Yuscarán bányászvárosában.",
+        "Az olasz származású, gazdag bányász Fortín család rezidenciája volt.",
+        "Masszív vályogépület hagyományos belső udvarral (patio).",
+        "A helyi ezüstbányászat fénykorának építészeti szimbóluma.",
+        "Ma helytörténeti és bányászati múzeumként működik.",
+        "Kiállítása bemutatja az 'aguardiente' (cukornádpárlat) történetét is.",
+        "Yuscarán nemzeti műemléki védelmet élvező óvárosának része."
+      ]
+    },
+    {
+      "id": "kirche-san-jose-de-cedros-history-v2",
+      "descriptionAdvanced": "A San José templom (Iglesia de San José) Cedros történelmi bányászvárosának ékköve, Francisco Morazán megyében. A 16. század végén és a 17. század elején épült templom a spanyol gyarmati építészet remeke, amely a környező ezüst- és aranybányák gazdagságából épült fel. A templom homlokzata elegáns barokk stílusú, de igazi jelentőségét Honduras politikai történelme adja: 1824. augusztus 29-én ebben a templomban tartották a Hondurasi Állam első alkotmányozó nemzetgyűlését (Asamblea Nacional Constituyente). Itt fogadták el az ország első alkotmányát, és itt választották meg Dionisio de Herrerát az állam első vezetőjévé. A templom ma is a falu hitéletének központja, a csendes hegyi környezet pedig méltó emléket állít a köztársaság születésének. Történelem K8 — politikai születés.",
+      "factsAdvanced": [
+        "Cedros hegyvidéki, egykori bányászvárosában épült a 16-17. században.",
+        "Spanyol gyarmati barokk stílusú, vastag vályogfalakkal.",
+        "1824-ben itt tartották az első Hondurasi Alkotmányozó Nemzetgyűlést.",
+        "Ebben a templomban fogadták el Honduras első alkotmányát.",
+        "Itt választották meg Dionisio de Herrerát az első államfőnek.",
+        "Honduras politikai függetlenségének egyik legfontosabb szentélye.",
+        "Történelmi jelentősége ellenére megőrizte csendes falusi templom jellegét."
+      ]
+    },
+    {
+      "id": "cerro-de-las-mesas-archaeology-history-v2",
+      "descriptionAdvanced": "A Cerro de Las Mesas (Az Asztalok Hegye) egy izgalmas, bár kevésbé feltárt régészeti és természeti helyszín Francisco Morazán megyében, nem messze Tegucigalpától. A terület leginkább azokról a különleges, asztalra emlékeztető sziklaképződményekről kapta a nevét, amelyek dominálják a tájat. Régészeti szempontból a hegy rendkívül fontos, mivel a spanyol hódítás előtti őslakos kultúrák – valószínűleg a lencák vagy chorotegák – ceremoniális és védelmi központjaként funkcionált. A kutatók sziklarajzokat (petroglifákat), kerámiatöredékeket és ősi rituális áldozóhelyek nyomait találták meg a hegycsúcson. A terület misztikus hangulata, a panorámás kilátás és a prekolumbián emlékek miatt a Cerro de Las Mesas az alternatív régészeti turizmus és a túrázók egyre kedveltebb célpontja. Történelem K8 — ősi sziklaszentélyek.",
+      "factsAdvanced": [
+        "Francisco Morazán megyében, Tegucigalpa közelében fekvő magaslat.",
+        "Nevét a jellegzetes, lapos, asztalszerű sziklaképződményeiről kapta.",
+        "Prehispán őslakos kultúrák ceremoniális és védelmi központja volt.",
+        "A területen ősi sziklarajzok (petroglifák) és kerámiák találhatók.",
+        "Feltehetően lenca vagy chorotega törzsek használták a hegyet.",
+        "A régészeti feltárások még kezdeti szakaszban vannak.",
+        "Népszerű túrázóhely lenyűgöző kilátással és misztikus atmoszférával."
+      ]
+    },
+    {
+      "id": "petroglyphen-talanguita-history-v2",
+      "descriptionAdvanced": "A Talanguita petroglifái (sziklarajzai) Honduras egyik legtitokzatosabb régészeti leletegyüttesét alkotják Olancho megyében, Juticalpa közelében. A sűrű növényzet és a patakok által rejtett sziklákon tucatnyi, évezredekkel ezelőtt belevésett ábra található. A petroglifák spirálokat, koncentrikus köröket, stilizált állatokat (főként kígyókat és békákat) és emberszerű alakokat ábrázolnak. Bár a készítők pontos kiléte vitatott, a régészek szerint a pech vagy a tawahka őslakosok őseihez köthetők, és kormeghatározásuk a Kr. e. 1000 és Kr. u. 500 közötti időszakra tehető. A rajzok valószínűleg vízhez kötődő rituálékat, asztronómiai megfigyeléseket vagy törzsi területjelzéseket szolgáltak. A helyszín védelme nehézkes, de kritikus fontosságú a keleti hondurasi kultúrák megértésében. Történelem K8 — sziklaművészet.",
+      "factsAdvanced": [
+        "Olancho megyében, Juticalpa városa közelében találhatók.",
+        "Ősi, sziklákba vésett szimbólumok (petroglifák) gyűjteménye.",
+        "Állatokat, spirálokat és emberszerű (antropomorf) alakokat ábrázolnak.",
+        "Korukat Kr. e. 1000 és Kr. u. 500 közé teszik a kutatók.",
+        "Feltehetően a pech vagy tawahka őslakosok elődei készítették.",
+        "A rajzok valószínűleg vallási vagy csillagászati jelentőséggel bírtak.",
+        "A leletek ki vannak téve a természetes eróziónak és az emberi beavatkozásnak."
+      ]
+    },
+    {
+      "id": "kirche-san-sebastian-tegucigalpa-history-v2",
+      "descriptionAdvanced": "A San Sebastián templom (Iglesia de San Sebastián) Tegucigalpa egyik történelmi temploma, amely a Dolores negyed közelében fekszik, és jelentős szerepet játszott a város gyarmati kori fejlődésében. A 18. században épült templom a puritánabb, egyhajós spanyol stílust képviseli, kevésbé díszes, mint a közeli katedrális. Történelmi fontosságát egy sötét esemény adja: a hagyomány szerint ebben a templomban ravatalozták fel és innen temették el Francisco Morazán apját, de ami még fontosabb, a templomhoz köthető a Hondurasi Köztársaság első elnökének, Dionisio de Herrerának a drámai ostroma, amikor a guatemalai erők megtámadták a várost. Ma a San Sebastián egy csendes, meghitt imahely a nyüzsgő fővárosban, amely egyszerűségével a korai hondurasi történelem viharos éveire emlékeztet. Történelem K7 — fővárosi egyház.",
+      "factsAdvanced": [
+        "A 18. században épült Tegucigalpa történelmi központjában.",
+        "Egyhajós, puritánabb kialakítású gyarmati épület.",
+        "A város korai politikai és katonai konfliktusainak néma tanúja.",
+        "Kapcsolódik Francisco Morazán és Dionisio de Herrera történetéhez.",
+        "A spanyol elit helyett inkább az átlagos lakosságot szolgálta.",
+        "Szent Sebestyénnek, a katonák és járványok elleni védőszentnek szentelték.",
+        "Belső terében eredeti fa tetőszerkezet (artesonado) található."
+      ]
+    },
+    {
+      "id": "ehemaliges-zentralgefaengnis-history-v2",
+      "descriptionAdvanced": "A tegucigalpai Egykori Központi Börtön (Ehemaliges Zentralgefängnis / Penitenciaría Central) Honduras modern kori történelmének egyik legsötétebb és leghírhedtebb építménye volt. A 19. század végén, Marco Aurelio Soto elnöksége alatt épült masszív, erődítményszerű épület több mint egy évszázadon át szolgált az ország fő büntetés-végrehajtási intézeteként. A diktatúrák (például a Carías-korszak) idején a börtön hírhedtté vált a politikai foglyok fogvatartásáról, a túlzsúfoltságról és a brutális körülményekről. A létesítményt végül az 1990-es évek végén, a Mitch hurrikán pusztítása és a tarthatatlan humanitárius helyzet miatt zárták be véglegesen. Bár az épület nagy részét lebontották vagy átalakították, a helyszín emlékezete mélyen beleégett a hondurasi társadalom kollektív tudatába, mint az emberi jogokért folytatott küzdelem szimbóluma. Történelem K8 — politikai elnyomás.",
+      "factsAdvanced": [
+        "A 19. század végén épült Tegucigalpa központja közelében.",
+        "Több mint 100 évig az ország legfőbb és leghírhedtebb börtöne volt.",
+        "A diktatúrák alatt számtalan politikai foglyot tartottak itt fogva.",
+        "A túlzsúfoltság és az emberi jogi visszaélések miatt vált hírhedtté.",
+        "Az 1998-as Mitch hurrikán okozta károk után végleg bezárták.",
+        "Az épület helyét mára nagyrészt revitalizálták és funkciót váltott.",
+        "Az emberi jogi szervezetek gyakran hivatkoznak a börtön sötét múltjára."
+      ]
+    },
+    {
+      "id": "kirche-san-juan-ojojona-history-v2",
+      "descriptionAdvanced": "A San Juan Bautista templom (Iglesia de San Juan Bautista) Ojojona történelmi bányászvárosának főtemploma, Francisco Morazán megyében. Az 1600-as évek végén épült robusztus, fehér vályogépület a falu központi terét (Parque Central) uralja. A templom érdekessége, hogy a homlokzatán és a belső terében megfigyelhetők a helyi őslakos (lenca) és a spanyol barokk művészet keveredésének nyomai. Ojojona gazdag ezüstbányászati múltja finanszírozta az építkezést, a templomban pedig a mai napig őriznek Spanyolországból származó, arannyal és ezüsttel díszített kelyheket és oltárképeket. A templom híres arról is, hogy a helyi hagyomány szerint itt őrzik Pablo Zelaya Sierra, a híres hondurasi festőművész több vallási témájú korai vázlatát. A faluval együtt a templom is nemzeti műemlék. Történelem K7 — bányászati építészet.",
+      "factsAdvanced": [
+        "Ojojona 17. századi gyarmati bányászvárosának főtemploma.",
+        "Keresztelő Jánosnak (San Juan Bautista) szentelték fel.",
+        "A helyi ezüstbányászatból származó vagyonból finanszírozták.",
+        "Spanyol barokk és helyi őslakos építészeti elemeket ötvöz.",
+        "Belső terében eredeti, ezüsttel és arannyal díszített relikviák vannak.",
+        "Ojojona teljes történelmi központjával együtt nemzeti műemlék.",
+        "A falu vallási és kulturális életének lüktető központja."
+      ]
+    },
+    {
+      "id": "playa-de-los-muertos-archaeology-history-v2",
+      "descriptionAdvanced": "A Playa de los Muertos (A Halottak Strandja) az egyik legkülönlegesebb és legősibb régészeti lelőhely Hondurasban, amely az Ulúa-folyó völgyében, Cortés megyében található. Bár a neve morbidnak hangzik, a terület valójában egy kiterjedt, formatív kori (Kr. e. 1000 – Kr. e. 250) temetkezési és lakóhely volt. A régészek (köztük a híres George Byron Gordon az 1890-es években) itt fedezték fel Közép-Amerika legkiválóbb és legrégebbi kerámiáit, a polírozott és karcolt edényeket, valamint különleges, kézzel formázott agyagfigurákat, amelyek nőket, zenészeket és sámánokat ábrázolnak. Ezek a figurák, az úgynevezett 'Playa de los Muertos stílus', közvetlen kapcsolatot és kereskedelmi hálózatokat mutatnak az ősi olmék és a korai maja civilizációkkal. A terület kulcsfontosságú a mezoamerikai társadalmak kialakulásának megértésében. Történelem K8 — formatív kori kultúrák.",
+      "factsAdvanced": [
+        "Az Ulúa-folyó partján fekvő, ősi temetkezési és lakóhely.",
+        "A formatív korból (Kr. e. 1000 – Kr. e. 250) származó leleteket rejt.",
+        "Nevét a feltáráskor talált nagyszámú emberi maradványról kapta.",
+        "Híres az itt talált finoman megmunkált agyagfigurákról és kerámiákról.",
+        "A leletek erős kulturális kapcsolatot mutatnak az olmék civilizációval.",
+        "George Byron Gordon vezette az első jelentős ásatásokat a 19. század végén.",
+        "A terület a folyamatos mezőgazdasági művelés miatt veszélyeztetett."
+      ]
+    },
+    {
+      "id": "catedral-metropolitana-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "A Szent Mihály Arkangyal Főszékesegyház (Catedral Metropolitana de San Miguel Arcángel) Tegucigalpa szívében, a Parque Centralon magasodik, és Honduras egyik legjelentősebb barokk építészeti remekműve. Az építkezést 1765-ben kezdték meg José de Simón Celaya atya vezetésével, és a grandiózus épületet 1782-ben szentelték fel. A katedrális lenyűgöző homlokzata gazdagon faragott stukkókkal, oszlopokkal és szobrokkal díszített. Belső terének fénypontja a lenyűgöző, aranyfüsttel bevont központi faoltár (retablo mayor), amelyet egy guatemalai mester, Vicente Gálvez készített, és amely Közép-Amerika egyik legszebb gyarmati oltára. A katedrális nemcsak az ország legfőbb vallási központja, hanem a főváros történelmi és kulturális identitásának szimbóluma is. Látványosság K7 — gyarmati építészet.",
+      "factsAdvanced": [
+        "Tegucigalpa központi terén, a Parque Centralon áll.",
+        "Építése 1765-ben kezdődött és 1782-ben fejeződött be.",
+        "Honduras egyik legkiválóbb spanyol barokk stílusú épülete.",
+        "Belső terét egy grandiózus, aranyfüstös faoltár (retablo mayor) uralja.",
+        "Az oltárt a híres guatemalai fafaragó, Vicente Gálvez készítette.",
+        "Szent Mihály arkangyalnak, a város védőszentjének szentelték.",
+        "1967-ben a kormány hivatalosan is Nemzeti Műemlékké nyilvánította."
+      ]
+    },
+    {
+      "id": "basilica-de-suyapa-landmarks-v2",
+      "descriptionAdvanced": "A Suyapai Miasszonyunk Bazilika (Basílica de Nuestra Señora de Suyapa) Honduras legfontosabb katolikus zarándokhelye, amely Tegucigalpa keleti részén található. A modern, gigantikus méretű, gótikus beütésű épületet 1954-ben kezdték építeni, hogy méltó otthont adjanak Honduras védőszentjének, a Suyapai Szűz Máriának (La Morenita). A legenda szerint a mindössze 6 cm magas, cédrusfából faragott szobrocskát 1747-ben találta meg egy helyi parasztember, Alejandro Colindres. A hatalmas bazilikát lenyűgöző ólomüveg ablakok díszítik, amelyek bibliai jeleneteket és a szűz megtalálását ábrázolják. Minden év február 3-án zarándokok milliói (sokan gyalog) érkeznek az ország minden pontjáról a bazilikába, hogy tiszteletüket tegyék a nemzeti ünnepélyen. Látványosság K8 — nemzeti zarándokhelyek.",
+      "factsAdvanced": [
+        "Honduras legnagyobb és legfontosabb katolikus zarándokhelye.",
+        "A Suyapai Szűz Máriának (La Morenita), Honduras védőszentjének otthona.",
+        "A hatalmas bazilika építése 1954-ben kezdődött.",
+        "Az eredeti szobor mindössze 6 cm magas, cédrusfából faragott.",
+        "A szobrot a legenda szerint 1747-ben találta egy helyi paraszt.",
+        "Hatalmas ólomüveg ablakai a hondurasi vallási történelem jeleneteit ábrázolják.",
+        "Minden év február 3-án zarándokok milliói látogatnak el ide."
+      ]
+    },
+    {
+      "id": "estadio-olimpico-metropolitano-landmarks-v2",
+      "descriptionAdvanced": "Az Estadio Olímpico Metropolitano (Metropolitán Olimpiai Stadion) San Pedro Sula hatalmas, modern sportlétesítménye, amely több mint 37 000 néző befogadására alkalmas, így Honduras legnagyobb stadionja. Az arénát az 1997-es hatodik Közép-Amerikai Játékokra építették, és azóta a hondurasi labdarúgó-válogatott (La H) de facto otthonaként szolgál a világbajnoki selejtezőkön. Az itteni trópusi hőség, a magas páratartalom és a szurkolók ('catrachos') félelmetes, fülsiketítő hangulata miatt az ellenfelek számára az egyik legrettegettebb stadion a CONCACAF zónában, gyakran nevezik az \"El Coloso del Norte\"-nak (Az Észak Kolosszusa). A stadion emellett nagyszabású nemzetközi koncerteknek, vallási eseményeknek és atlétikai versenyeknek is helyt ad. Látványosság K7 — modern sportinfrastruktúra.",
+      "factsAdvanced": [
+        "Honduras legnagyobb stadionja, befogadóképessége 37 000 fő.",
+        "San Pedro Sula városában található.",
+        "Az 1997-es Közép-Amerikai Játékokra (Juegos Centroamericanos) épült.",
+        "A hondurasi nemzeti labdarúgó-válogatott (La H) első számú otthona.",
+        "A szurkolók intenzív atmoszférája miatt hírhedt a riválisok körében.",
+        "A stadion teljes atlétikai futópályával is rendelkezik.",
+        "Beceneve 'El Coloso del Norte' (Az Északi Kolosszus)."
+      ]
+    },
+    {
+      "id": "catedral-de-san-pedro-apostol-landmarks-v2",
+      "descriptionAdvanced": "A Szent Péter Apostol Katedrális (Catedral de San Pedro Apóstol) San Pedro Sula lüktető központjában található, és az északi országrész legfontosabb katolikus vallási épülete. Bár a város 1536-os alapítású, a jelenlegi neokoloniális stílusú, világossárga színű katedrális építése csak 1949-ben kezdődött, és hosszú évtizedekig tartott a befejezése. A homlokzatot a két magas, kupolás harangtorony és a központi boltíves bejárat dominálja. A belső teret lenyűgöző, kézzel festett freskók és gazdag fafaragások díszítik. A katedrális előtti téren (Parque Central) nap mint nap találkoznak az árusok, a diákok és az üzletemberek, így a templom nemcsak vallási központ, hanem a gyorsan forgó iparváros békés, kulturális menedéke is. Látványosság K7 — városi központok.",
+      "factsAdvanced": [
+        "San Pedro Sula, Honduras ipari fővárosának központi katedrálisa.",
+        "A jelenlegi neokoloniális épület alapkövét 1949-ben rakták le.",
+        "Két magas harangtornya és világossárga homlokzata ikonikus a városban.",
+        "Szent Péter apostolnak, a város névadó védőszentjének szentelték.",
+        "A belső teret látványos, színes freskók és faragott fa részletek díszítik.",
+        "A nyüzsgő Parque Central (Központi Park) mellett áll.",
+        "Az északi régió katolikus közösségének legfontosabb találkozási pontja."
+      ]
+    },
+    {
+      "id": "teatro-nacional-manuel-bonilla-landmarks-v2",
+      "descriptionAdvanced": "A Manuel Bonilla Nemzeti Színház (Teatro Nacional Manuel Bonilla) Tegucigalpa legfontosabb kulturális és előadó-művészeti központja. Az 1915-ben, Manuel Bonilla elnök kezdeményezésére megnyitott épület a párizsi 'Athénée' színház mintájára készült, neoreneszánsz stílusban. A külső, rózsaszínes homlokzat elegáns oszlopokkal díszített, de az igazi csoda a belső térben várja a látogatókat: a nézőtér plafonját a hondurasi festő, Carlos Zúñiga Figueroa csodálatos freskója díszíti, amely az ország tájait és allegorikus alakjait ábrázolja, míg a nézőteret vörös bársony és kristálycsillárok ékesítik. A színház több mint egy évszázada ad otthont operáknak, szimfonikus zenekari koncerteknek, balettelőadásoknak és a legfontosabb nemzeti ünnepségeknek. Látványosság K8 — kulturális örökség.",
+      "factsAdvanced": [
+        "Tegucigalpa legkiemelkedőbb kulturális és előadó-művészeti épülete.",
+        "1915-ben nyitotta meg kapuit, neoreneszánsz stílusban épült.",
+        "Nevét az építését elrendelő Manuel Bonilla elnökről kapta.",
+        "A párizsi Athénée színház belsőépítészeti mintájára tervezték.",
+        "Mennyezetét Carlos Zúñiga Figueroa lenyűgöző freskója díszíti.",
+        "A belső teret vörös bársony, arany díszítések és kristálycsillárok uralják.",
+        "A hondurasi színház, opera és klasszikus zene legfőbb otthona."
+      ]
+    },
+    {
+      "id": "puente-choluteca-landmarks-v2",
+      "descriptionAdvanced": "A Choluteca-híd (Puente de Choluteca), vagy más néven Puente Carías de Choluteca, egy lenyűgöző függőhíd, amely a Choluteca-folyó felett ível át Dél-Hondurasban. A Golden Gate hídra emlékeztető szerkezetet 1935 és 1937 között építette az amerikai hadsereg mérnöki alakulata (US Army Corps of Engineers), és a Pánamerikai főútvonal kulcsfontosságú elemeként szolgált, összekötve Hondurast Nicaraguával. Bár a modern közlekedés egy új, elkerülő hidat (Új Choluteca-híd) használ, a Régi Híd továbbra is a város ikonikus szimbóluma. Különös hírnevet szerzett 1998-ban, amikor a Mitch hurrikán pusztítása során az új japán híd alól a folyó teljesen elvitte a medret, míg ez az 1937-es régi, masszív függőhíd szinte karcolás nélkül állta az évezred viharát. Látványosság K7 — mérnöki csodák.",
+      "factsAdvanced": [
+        "A Choluteca-folyót íveli át Dél-Honduras legnagyobb városában.",
+        "1935 és 1937 között épült, amerikai mérnökök tervezésével.",
+        "Az amerikai Golden Gate híd stílusát idéző függőhíd.",
+        "Eredetileg a Pánamerikai főútvonal legfontosabb láncszeme volt délen.",
+        "Sértetlenül túlélte az 1998-as, pusztító Mitch hurrikánt.",
+        "Ma már csak könnyű forgalomra és gyalogosok számára nyitott.",
+        "Choluteca városának legkönnyebben felismerhető történelmi szimbóluma."
+      ]
+    },
+    {
+      "id": "iglesia-la-merced-gracias-landmarks-v2",
+      "descriptionAdvanced": "A La Merced templom (Iglesia de La Merced) Lempira megyében, Gracias történelmi városában található, és az ország egyik legrégebbi fennmaradt vallási épülete. A 17. század elején (1611 körül) épült templom a spanyol reneszánsz és a korai barokk egyszerűségét tükrözi. Legkiemelkedőbb látványossága a rendkívül díszes, aprólékosan faragott kőhomlokzat, amelyen a domborművek (növényi motívumok és angyalok) a helyi őslakos kőfaragók és a spanyol szerzetesek művészeti szintézisét mutatják. A templom belső tere puritán, de a vastag vályogfalak különleges békét árasztanak. A La Merced épülete nem a főtéren áll, ami a kolostori rendek elkülönülési törekvéseire utal a gyarmati korban. A műemlék a lenca turisztikai útvonal egyik fő megállója. Látványosság K8 — barokk homlokzatok.",
+      "factsAdvanced": [
+        "Gracias történelmi óvárosában található a 17. század elejéről.",
+        "Honduras egyik legszebb faragott kőhomlokzatával büszkélkedhet.",
+        "A díszítések a spanyol és a helyi lenca művészet találkozását tükrözik.",
+        "Eredetileg a Mercedárius rend (Ordo de la Merced) alapította.",
+        "Vastag vályogfalai és fa tetőszerkezete a korai gyarmati építészet példái.",
+        "Az épület elhelyezkedése eltér a hagyományos főtéri (Parque Central) elrendezéstől.",
+        "Nemzeti műemléki védelem alatt áll, népszerű turisztikai célpont."
+      ]
+    },
+    {
+      "id": "museo-para-la-identidad-nacional-landmarks-v2",
+      "descriptionAdvanced": "A Nemzeti Identitás Múzeuma (Museo para la Identidad Nacional - MIN) Honduras legmodernebb és legátfogóbb múzeuma, amely Tegucigalpa szívében, a lenyűgöző, 19. századi egykori Minisztériumok Palotájában (Palacio de los Ministerios) kapott helyet. A 2006-ban megnyitott intézmény interaktív és vizuálisan lenyűgöző kiállításokon keresztül mutatja be Honduras történelmét, földrajzát, etnikai sokszínűségét és kultúráját a geológiai kialakulástól a prekolumbián korokon át (köztük egy virtuális Copán-romok 3D túrával) egészen a modern köztársaságig. A múzeum belső udvarát gyakran használják koncertek, kortárs művészeti performanszok és filmvetítések helyszíneként, így a MIN nem csupán történelmi archívum, hanem a főváros legdinamikusabb kortárs kulturális központja is. Látványosság K8 — múzeumok és oktatás.",
+      "factsAdvanced": [
+        "Tegucigalpában, az 1882-ben épült egykori Minisztériumok Palotájában található.",
+        "Honduras leglátogatottabb és legmodernebb történelmi múzeuma.",
+        "Kiállításai átfogják az ország történelmét az ősidőktől a jelenkorig.",
+        "Leghíresebb attrakciója a Copán maja romjait bemutató virtuális 3D túra.",
+        "Kiemelten foglalkozik a hondurasi őslakos és afro-karibi kultúrákkal.",
+        "Belső udvara koncertek, kortárs kiállítások és fesztiválok helyszíne.",
+        "A kulturális nevelés és a nemzeti öntudat erősítésének fő központja."
+      ]
+    },
+    {
+      "id": "estadio-nacional-chelato-ucles-landmarks-v2",
+      "descriptionAdvanced": "Az Estadio Nacional 'Chelato Uclés' (korábban Estadio Nacional Tiburcio Carías Andino) Tegucigalpa ikonikus sportlétesítménye és a hondurasi labdarúgás bölcsője. Az 1948-ban, Tiburcio Carías Andino diktátor uralma alatt felavatott, több mint 34 000 nézőt befogadó stadion a főváros két legnépszerűbb futballcsapatának, az Olimpia és a Motagua kluboknak az otthona, amelyek közötti derbik (Clásico Nacional) az ország legfontosabb sporteseményei. A stadiont a hegyek lábánál, a városközponthoz közel építették, jellegzetes, körkörös építészeti stílusban. 2022-ben a létesítményt átnevezték a legendás hondurasi futballedző, José de la Paz Herrera ('Chelato Uclés') tiszteletére, aki 1982-ben először juttatta ki a válogatottat a világbajnokságra. A sporton kívül elnöki beiktatások és hatalmas zenei koncertek helyszíne. Látványosság K7 — történelmi sportarénák.",
+      "factsAdvanced": [
+        "Tegucigalpa legnagyobb stadionja, 1948-ban avatták fel.",
+        "Két nagy rivális klub, az Olimpia és a Motagua otthona.",
+        "Befogadóképessége körülbelül 34 000-35 000 fő.",
+        "2022-ben átnevezték a legendás hondurasi edző, 'Chelato Uclés' emlékére.",
+        "Történelmileg az összes hondurasi elnök beiktatási ceremóniájának helyszíne.",
+        "Körkörös, masszív betonszerkezete a Carías-korszak építészetét idézi.",
+        "A fővárosi társadalmi és sportélet legfontosabb közösségi tere."
+      ]
+    },
+    {
+      "id": "palacio-legislativo-honduras-landmarks-v2",
+      "descriptionAdvanced": "A Hondurasi Törvényhozási Palota (Palacio Legislativo) a Nemzeti Kongresszus (Congreso Nacional) székhelye Tegucigalpa szívében, közvetlenül a Choluteca-folyó és a Parque Merced mellett. Az 1950-es évek elején, modernista stílusban épült komplexum éles építészeti kontrasztot alkot a környező gyarmati és 19. századi épületekkel. A betonból, üvegből és fémből emelt épület egy masszív, oszlopokon nyugvó struktúra, amelynek alsó szintje nyitott teret alkot. Történelmileg és politikailag ez Honduras legfontosabb épülete, ahol az ország törvényeit megvitatják és elfogadják. A palota előtti teret gyakran használják tüntetések, politikai gyűlések és szakszervezeti felvonulások helyszíneként, így az épület a modern hondurasi demokrácia lüktető, gyakran viharos központja. Látványosság K8 — modern államigazgatás.",
+      "factsAdvanced": [
+        "A Hondurasi Nemzeti Kongresszus hivatalos ülésterme és székhelye.",
+        "Tegucigalpa belvárosában, a Choluteca-folyó mellett található.",
+        "Az 1950-es években épült, funkcionalista-modernista építészeti stílusban.",
+        "A beton és üveg struktúra kontrasztban áll a történelmi belvárossal.",
+        "A földszinti nyitott oszlopcsarnok (bajos del Congreso) ikonikus találkozóhely.",
+        "A politikai tüntetések és társadalmi megmozdulások állandó helyszíne.",
+        "Honduras törvényhozási és politikai hatalmának szimbóluma."
+      ]
+    },
+    {
+      "id": "iglesia-los-dolores-tegucigalpa-landmarks-v2",
+      "descriptionAdvanced": "A Los Dolores templom (Iglesia de Santa María de los Dolores) Tegucigalpa egyik legszebb és legkülönlegesebb gyarmati kori épülete, amely az azonos nevű téren (Plaza Los Dolores) található. Az 1732 és 1815 között épült templom a hondurasi népi barokk építészet mesterműve. A lenyűgöző homlokzaton egyedülálló módon nemcsak katolikus szenteket ábrázoló domborművek találhatók, hanem prehispán, őslakos szimbólumok, napmotívumok és helyi növények faragásai is, amelyeket a mesztic és őslakos építőmesterek alkottak. A templom a történelmi pardo (afrikai-spanyol keverék) és őslakos negyed szellemi központja volt, szemben a spanyol elit által preferált katedrálissal. Ma a Los Dolores tér a főváros egyik legnyüzsgőbb, kulturálisan legsokszínűbb találkozóhelye. Látványosság K8 — népi barokk.",
+      "factsAdvanced": [
+        "Tegucigalpa egyik legfontosabb történelmi temploma, 1732-ben kezdték építeni.",
+        "A 'népi barokk' stílus lenyűgöző példája Közép-Amerikában.",
+        "Homlokzatán katolikus szimbólumok és őslakos (nap, növény) motívumok keverednek.",
+        "A gyarmati korban a szegényebb, mesztic és pardo lakosság temploma volt.",
+        "Ikonikus, kétszínű (fehér és terrakotta) díszes elülső fallal rendelkezik.",
+        "A templom előtti Plaza Los Dolores a város egyik legélettelibb tere.",
+        "A hondurasi kulturális szinkretizmus (keveredés) építészeti jelképe."
+      ]
+    },
+    {
+      "id": "banco-central-honduras-landmarks-v2",
+      "descriptionAdvanced": "A Hondurasi Központi Bank (Banco Central de Honduras - BCH) új épületkomplexuma Tegucigalpa kormányzati negyedében (Centro Cívico Gubernamental) található, és az ország egyik legmodernebb, legimpozánsabb építménye. A 2016-ban átadott üveg- és acéltorony Honduras pénzügyi stabilitását és 21. századi modernizációs törekvéseit szimbolizálja. A szigorúan őrzött komplexum nemcsak az ország monetáris politikájának irányítóközpontja, hanem itt kapott helyet a Numizmatikai Múzeum (Museo Numismático) is, amely a prehispán cserekereskedelemtől a gyarmati ezüstérméken át a mai lempira történetét mutatja be. Az épület kortárs dizájnja, energiahatékony megoldásai és hatalmas kiterjedése éles építészeti váltást jelez a főváros hagyományos építkezési stílusához képest. Látványosság K7 — modern építészet.",
+      "factsAdvanced": [
+        "A Hondurasi Központi Bank (BCH) új, ultramodern székhelye Tegucigalpában.",
+        "2016-ban adták át, a Centro Cívico Gubernamental része.",
+        "Honduras pénzügyi stabilitásának és modernizációjának szimbóluma.",
+        "Kortárs üveg és acél architektúra, energiahatékony technológiákkal.",
+        "Az épületben kapott helyet az ország Numizmatikai Múzeuma is.",
+        "A múzeum bemutatja a hondurasi pénz (Lempira) történelmi fejlődését.",
+        "Az ország egyik legszigorúbban őrzött, csúcstechnológiás intézménye."
+      ]
+    }
+  ]
+}

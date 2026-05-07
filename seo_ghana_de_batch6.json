@@ -1,0 +1,165 @@
+{
+  "lang": "de",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kumasi-zoo-kid-life-v2",
+      "descriptionAdvanced": "Der Kumasi Zoo, eingebettet im kulturellen Herzen des Ashanti-Reiches, ist der wichtigste zoologische Garten Ghanas. Er wurde 1951 gegründet und dient nicht nur als Erholungsort für Familien, sondern hat sich stark dem Erhalt bedrohter einheimischer Arten verschrieben. Besucher, insbesondere Schulklassen, können hier Schimpansen, Paviane und eine Vielzahl afrikanischer Schlangen hautnah erleben, während Bildungsprogramme die Wichtigkeit des Artenschutzes in den schwindenden Regenwäldern betonen. Biologie K6 — Artenschutz in Afrika.",
+      "factsAdvanced": ["Wichtigster Zoo in Ghana", "1951 im Ashanti-Reich gegründet", "Liegt in Kumasi", "Beherbergt Schimpansen und Paviane", "Fokus auf Artenschutz der Regenwälder", "Beliebtes Ausflugsziel für Schulklassen"]
+    },
+    {
+      "id": "accra-botanical-kid-life-v2",
+      "descriptionAdvanced": "Die Accra Botanical Gardens bieten eine unerwartete grüne Oase inmitten der hektischen, betonlastigen Metropole Accra. Sie wurden ursprünglich als Forschungszentrum für tropische Pflanzenheilkunde konzipiert und beherbergen heute Hunderte von seltenen Baum- und Straucharten aus ganz Westafrika. Für Kinder und Studenten ist der Park ein lebendiges Freiluftlabor, um die komplexe Symbiose von Pflanzen, Insekten und dem städtischen Mikroklima zu verstehen. Biologie K7 — städtische Ökosysteme.",
+      "factsAdvanced": ["Grüne Oase mitten in Accra", "Ursprünglich Forschungszentrum für Pflanzenheilkunde", "Beherbergt seltene Baum- und Straucharten", "Dient als städtisches Freiluftlabor", "Studium von Pflanzen- und Insektensymbiose", "Botanischer Garten in der Metropole"]
+    },
+    {
+      "id": "legon-botanical-kid-life-v2",
+      "descriptionAdvanced": "Der Legon Botanical Garden, angeschlossen an die renommierte University of Ghana, ist weit mehr als nur ein Park — er ist ein Zentrum für Öko-Tourismus und Umweltbildung. Neben einer riesigen Sammlung seltener Palmen und medizinischer Kräuter lockt der Garten Familien mit einem aufregenden Hochseilgarten und einem großen Stausee für Kanufahrten an. Wissenschaftler der Universität nutzen das Areal intensiv, um die Auswirkungen des Klimawandels auf westafrikanische Pflanzenarten zu studieren. Umwelt K8 — Klimaforschung und Flora.",
+      "factsAdvanced": ["Angeschlossen an die University of Ghana", "Beherbergt einen aufregenden Hochseilgarten", "Großer Stausee für Kanufahrten vorhanden", "Sammlung seltener Palmen und Heilkräuter", "Forschungsort für Klimawandelauswirkungen", "Zentrum für Öko-Tourismus"]
+    },
+    {
+      "id": "kakum-walkway-kid-life-v2",
+      "descriptionAdvanced": "Der Canopy Walkway im Kakum-Nationalpark ist eine der spektakulärsten Attraktionen Westafrikas und hängt bis zu 40 Meter hoch in den Baumkronen des dichten Regenwaldes. Die Hängebrücke, konstruiert aus Drahtseilen, Aluminium und Holzplanken, überspannt sieben riesige Bäume und bietet Besuchern einen extrem seltenen Blick auf das Blätterdach (Canopy), wo die meiste biologische Vielfalt des Dschungels existiert. Der Nervenkitzel der schwingenden Brücke zieht besonders junge Abenteurer und Schulklassen an. Geografie K7 — Stockwerke des Regenwaldes.",
+      "factsAdvanced": ["Hängebrücke 40 Meter über dem Boden", "Befindet sich im Kakum-Nationalpark", "Überspannt sieben riesige Urwaldbäume", "Blick direkt ins Blätterdach (Canopy)", "Konstruiert aus Drahtseilen und Holzplanken", "Extremer Nervenkitzel für junge Abenteurer"]
+    },
+    {
+      "id": "cocoa-farm-tafo-agri-life-v2",
+      "descriptionAdvanced": "Die Kakaofarmen rund um Tafo sind das schlagende Herz der ghanaischen Kakaoproduktion, einem der wichtigsten Exportgüter des Landes. Hier können Besucher und Schüler den gesamten Prozess von der handgepflückten, goldgelben Kakaofrucht bis zur Fermentation und Trocknung der Bohnen in der heißen Sonne miterleben. Die Farmen arbeiten eng mit dem benacharten Forschungsinstitut zusammen, um nachhaltige Anbaumethoden zu testen, die den Einsatz chemischer Pestizide reduzieren und den Regenwald schonen. Wirtschaft K6 — Agrarwirtschaft.",
+      "factsAdvanced": ["Schlagendes Herz der ghanaischen Kakaoproduktion", "Liegt in der Region um Tafo", "Zeigt Fermentation und Sonnentrocknung der Bohnen", "Enge Kooperation mit Forschungsinstituten", "Fokus auf Reduzierung chemischer Pestizide", "Eines der wichtigsten Exportgüter Ghanas"]
+    },
+    {
+      "id": "tamale-shea-agri-life-v2",
+      "descriptionAdvanced": "Rund um Tamale erstrecken sich endlose Felder des wild wachsenden Karitébaums, dessen Nüsse die wertvolle Sheabutter liefern. Die Ernte und Verarbeitung der Nüsse ist eine extrem arbeitsintensive, traditionelle Frauenaufgabe, die das wirtschaftliche Rückgrat unzähliger Familien im rauen Norden Ghanas bildet. Besucher können den faszinierenden, mehrstufigen Prozess des Röstens, Mahlens und Knetens beobachten, bis das begehrte, goldene Fett entsteht, das weltweit in Kosmetika genutzt wird. Wirtschaft K7 — traditionelle Frauenarbeit.",
+      "factsAdvanced": ["Endlose Felder wilder Karitébäume", "Liegt in der Umgebung von Tamale", "Gewinnung der wertvollen Sheabutter", "Traditionelle, harte Frauenarbeit", "Mehrstufiger Prozess aus Rösten und Mahlen", "Wirtschaftliches Rückgrat im Norden Ghanas"]
+    },
+    {
+      "id": "koforidua-market-agri-life-v2",
+      "descriptionAdvanced": "Der Markt von Koforidua ist ein pulsierendes Zentrum des landwirtschaftlichen Austauschs in der Eastern Region, berühmt für seine unglaubliche Vielfalt an frischen Tropenfrüchten und Knollengewächsen. Jeden Donnerstag strömen Bauern aus den umliegenden Hügeln herbei, um riesige Mengen an Kassava, Kochbananen und frisch geernteten Palmfrüchten an Großhändler aus der Hauptstadt zu verkaufen. Der Markt ist ein perfektes Beispiel für die dörflichen Lieferketten, die Ghanas städtische Bevölkerungszentren ernähren. Wirtschaft K6 — Inlandsmarktstrukturen.",
+      "factsAdvanced": ["Pulsierender Agrarmarkt in der Eastern Region", "Jeden Donnerstag Großkampftag", "Berühmt für frische Tropenfrüchte und Kassava", "Handelspunkt für Bauern aus den Hügeln", "Verkauf an Großhändler aus der Hauptstadt", "Beispiel für funktionierende Inlands-Lieferketten"]
+    },
+    {
+      "id": "butterfly-sanctuary-kid-life-v2",
+      "descriptionAdvanced": "Das Bobiri Butterfly Sanctuary ist ein magischer Ort im Herzen der Ashanti-Region, wo sich über 400 verschiedene Schmetterlingsarten tummeln. In diesem unberührten Waldstück können Kinder und Forscher das empfindliche Ökosystem und die Metamorphose der Insekten studieren, während Schwärme von farbenfrohen Schwalbenschwänzen durch die Luft tanzen. Das Reservat bietet zudem geführte Lehrpfade, die das Bewusstsein für die drastischen Auswirkungen der Entwaldung auf diese fragilen Bestäuber schärfen. Biologie K7 — Insekten und Metamorphose.",
+      "factsAdvanced": ["Magischer Ort im Herzen der Ashanti-Region", "Heimat von über 400 Schmetterlingsarten", "Bobiri Butterfly Sanctuary", "Aufklärung über Metamorphose von Insekten", "Schutz vor Entwaldung", "Beherbergt farbenfrohe Schwalbenschwänze"]
+    },
+    {
+      "id": "mole-safari-kid-life-v2",
+      "descriptionAdvanced": "Der Mole-Nationalpark im Norden Ghanas bietet eine unvergleichliche Fuß-Safari, bei der Besucher unter der Führung bewaffneter Ranger wilden afrikanischen Savannenelefanten extrem nah kommen können. Neben den faszinierenden Elefantenherden, die oft an den Wasserlöchern baden, beherbergt der riesige Park Antilopen, Warzenschweine und eine unglaubliche Vielfalt an Greifvögeln. Das Erlebnis zielt darauf ab, der jungen ghanaischen Generation den Wert intakter Wildnis und die massive Bedrohung durch Wilderei aufzuzeigen. Biologie K8 — Savannenökologie und Wilderei.",
+      "factsAdvanced": ["Unvergleichliche Fuß-Safaris möglich", "Liegt im Norden Ghanas (Mole-Nationalpark)", "Heimat wilder afrikanischer Savannenelefanten", "Geführt von bewaffneten Rangern", "Sensibilisiert Jugend für Wilderei-Bedrohung", "Beherbergt Antilopen und Warzenschweine"]
+    },
+    {
+      "id": "monkey-sanctuary-boabeng-animal-life-v2",
+      "descriptionAdvanced": "Das Boabeng-Fiema Monkey Sanctuary ist ein einzigartiges ghanaisches Beispiel für den Naturschutz durch traditionelle Tabus. Die Dorfbewohner glauben, dass die hier lebenden Mona-Meerkatzen und seltenen Colobus-Affen heilige Boten der lokalen Götter sind, weshalb sie strikt vor der Jagd geschützt werden. Die Affen leben völlig furchtlos Seite an Seite mit den Menschen, stehlen gelegentlich Essen aus den Küchen und erhalten sogar feierliche Beerdigungen, wenn sie eines natürlichen Todes sterben. Kultur K7 — traditioneller Artenschutz.",
+      "factsAdvanced": ["Schutz durch traditionelle religiöse Tabus", "Dorfbewohner verehren die Affen als heilige Boten", "Mona-Meerkatzen und Colobus-Affen heimisch", "Affen leben furchtlos neben den Menschen", "Affen erhalten feierliche Beerdigungen", "Liegt in Boabeng-Fiema"]
+    },
+    {
+      "id": "crocodile-pond-paga-animal-life-v2",
+      "descriptionAdvanced": "Der Krokodilteich in Paga, nahe der Grenze zu Burkina Faso, ist weltberühmt für seine extrem zahmen Krokodile, die friedlich mit der lokalen Bevölkerung koexistieren. Die Einheimischen verehren die Reptilien als Träger der Seelen ihrer Vorfahren, weshalb es streng verboten ist, ihnen Leid zuzufügen. Gegen die Gabe eines lebenden Huhns rufen die Führer die massiven Raubtiere aus dem Wasser, und mutige Touristen (und Kinder) dürfen sich sogar für ein Foto auf den Rücken der Tiere setzen. Kultur K6 — animistische Glaubenssysteme.",
+      "factsAdvanced": ["Weltberühmt für extrem zahme Krokodile", "Liegt in Paga nahe Burkina Faso", "Krokodile gelten als Seelen der Vorfahren", "Raubtiere werden mit Hühnern angelockt", "Touristen setzen sich für Fotos auf Krokodile", "Friedliche Koexistenz von Mensch und Raubtier"]
+    },
+    {
+      "id": "ostrich-farm-shai-animal-life-v2",
+      "descriptionAdvanced": "Die Straußenfarm in der Nähe der Shai Hills bietet Familien einen faszinierenden Einblick in die Zucht der größten Vögel der Welt. Ursprünglich als landwirtschaftliches Experiment zur Fleisch- und Eierproduktion gestartet, dient die Farm heute hauptsächlich als Bildungszentrum, wo Kinder lernen, wie sich diese flugunfähigen Vögel an raue Wüstenbedingungen angepasst haben. Besucher sind oft erstaunt über die massiven Eier, die bis zu zwei Kilogramm wiegen können und eine extrem harte Schale besitzen. Biologie K6 — extreme Anpassungen bei Vögeln.",
+      "factsAdvanced": ["Straußenfarm in der Nähe der Shai Hills", "Zucht der größten flugunfähigen Vögel der Welt", "Bildungszentrum über Wüstenanpassung", "Eier wiegen bis zu zwei Kilogramm", "Eier besitzen extrem harte Schale", "Ursprünglich für Fleisch- und Eierproduktion gestartet"]
+    },
+    {
+      "id": "bird-watching-pulibu-animal-life-v2",
+      "descriptionAdvanced": "Das Vogelschutzgebiet in den nördlichen Feuchtgebieten (Pulibu) ist ein Paradies für Ornithologen und ein kritischer Rastplatz für Zugvögel aus Europa, die den afrikanischen Winter hier verbringen. Die weitläufigen Sumpfgebiete filtern nicht nur das Wasser der Savanne, sondern bieten auch Tausenden von Pelikanen, Reihern und seltenen Eisvögeln Nahrung. Umweltbildungsprogramme für lokale Schüler betonen, warum das Trockenlegen dieser Sümpfe für die Landwirtschaft katastrophale Folgen für das globale Ökosystem hätte. Biologie K8 — Vogelzug und Feuchtgebiete.",
+      "factsAdvanced": ["Paradies für Ornithologen im Norden (Pulibu)", "Rastplatz für europäische Zugvögel", "Sumpfgebiete filtern das Wasser der Savanne", "Heimat tausender Pelikane und Eisvögel", "Schutz vor Trockenlegung der Sümpfe", "Kritisch für das globale Ökosystem"]
+    },
+    {
+      "id": "cocoa-plantation-asant-agri-life-v2",
+      "descriptionAdvanced": "Tief im Ashanti-Regenwald liegen einige der ältesten kommerziellen Kakaoplantagen des Landes, wo die harte physische Arbeit der Bauern hautnah erlebt werden kann. Schüler lernen hier die strengen Rhythmen der Natur kennen, vom Beschneiden der Schattenbäume bis zum Schutz der empfindlichen Kakaoblüten vor Schädlingen. Die Plantagen sind auch ein wichtiges Lehrstück für die Herausforderungen des globalen Fairtrades, da die Bauern hier für einen gerechteren Anteil am weltweiten Milliarden-Dollar-Schokoladenmarkt kämpfen. Wirtschaft K8 — Fairtrade und globale Märkte.",
+      "factsAdvanced": ["Älteste Kakaoplantagen tief im Ashanti-Regenwald", "Handarbeit der ghanaischen Kakaobauern erlebbar", "Lehrstück für globale Fairtrade-Herausforderungen", "Bauern kämpfen um gerechten Weltmarkt-Anteil", "Schutz der empfindlichen Kakaoblüten", "Wichtiger Exportfaktor für Ghana"]
+    },
+    {
+      "id": "rubber-plantation-western-agri-life-v2",
+      "descriptionAdvanced": "In den feucht-heißen Ebenen der Western Region dominieren riesige, streng symmetrische Kautschukplantagen die Landschaft, deren Bäume den wertvollen weißen Latexsaft (Naturkautschuk) bluten. Besucher können den faszinierenden, handwerklichen Prozess des Tappens beobachten, bei dem die Rinde frühmorgens kunstvoll angeschnitten wird, um den flüssigen Kautschuk in kleinen Schalen zu sammeln. Dieser Rohstoff ist ein essenzielles Exportgut für die Reifenindustrie, doch die endlosen Monokulturen werfen kritische Fragen zum lokalen Verlust der Biodiversität auf. Umwelt K7 — industrielle Monokulturen.",
+      "factsAdvanced": ["Riesige Kautschukplantagen in der Western Region", "Streng symmetrisch gepflanzte Monokulturen", "Gewinnung von weißem Latexsaft (Naturkautschuk)", "Frühmorgendliches Tappen (Rindenanschnitt)", "Essenzieller Rohstoff für die Reifenindustrie", "Wirft Fragen zum Verlust lokaler Biodiversität auf"]
+    },
+    {
+      "id": "pineapple-farm-akw-agri-life-v2",
+      "descriptionAdvanced": "Die fruchtbaren Hänge des Akwapim-Togo-Gebirges beherbergen riesige Ananasfarmen, die sich wie geometrische Muster über die Hügel ziehen. Die ghanaische MD2-Ananas, die hier massenhaft kultiviert wird, ist wegen ihrer extremen Süße und leuchtenden Farbe auf dem europäischen Markt heiß begehrt. Für Schulkinder ist es ein lehrreiches Erlebnis zu sehen, wie die Pflanzen bewässert, geerntet und in hochmodernen Verpackungsanlagen mit Lichtgeschwindigkeit für den nächtlichen Luftfracht-Export nach Europa vorbereitet werden. Wirtschaft K6 — Agrarexporte.",
+      "factsAdvanced": ["Riesige Ananasfarmen im Akwapim-Togo-Gebirge", "Kultivierung der begehrten MD2-Ananas", "Bekannt für extreme Süße und leuchtende Farbe", "Hochmoderne Anlagen verpacken für Export", "Export erfolgt meist per nächtlicher Luftfracht", "Geometrische Felder an Berghängen"]
+    },
+    {
+      "id": "fishing-village-elmina-kid-life-v2",
+      "descriptionAdvanced": "Das Fischerdorf Elmina ist ein farbenfrohes, chaotisches Labyrinth aus riesigen, handgeschnitzten und bunt bemalten Holzkanus, die täglich in den rauen Atlantik hinausfahren. Kinder können hier die faszinierende, aber körperlich extrem anstrengende Welt der traditionellen Netzfischerei kennenlernen, während sie den Frauen beim Räuchern der Fische über offenen Feuern zuschauen. Die traditionelle Gemeinschaft ist eng organisiert und wird von einem Chef-Fischer (Chief Fisherman) geführt, der den Fischfang und die Konfliktlösung im Dorf regelt. Sozialkunde K7 — traditionelle Küstengemeinschaften.",
+      "factsAdvanced": ["Farbenfrohes Labyrinth aus Holzkanus", "Befindet sich im historischen Elmina", "Knochenharte traditionelle Netzfischerei", "Frauen räuchern Fische über offenen Feuern", "Dorf wird vom Chief Fisherman geleitet", "Harter Alltag auf dem Atlantik"]
+    },
+    {
+      "id": "wetland-sakumono-animal-life-v2",
+      "descriptionAdvanced": "Das Sakumono Ramsar-Feuchtgebiet, eingeklemmt zwischen Accra und Tema, ist eines der letzten urbanen Refugien für Wildtiere an der Küste. Die seichte Lagune dient als wichtige Pufferzone gegen Überschwemmungen und ist ein absoluter Hotspot für seltene Küstenvögel und Meereslebewesen. Leider bedrohen illegale Bebauung, Müllverschmutzung und die rasante Zersiedelung der Metropolregion dieses zerbrechliche Ökosystem drastisch, was es zu einem kritischen Fallbeispiel im Ökologieunterricht der städtischen Schulen macht. Umwelt K8 — urbane Zerstörung von Ökosystemen.",
+      "factsAdvanced": ["Letztes urbanes Feuchtgebiet an der Küste (Ramsar)", "Eingeklemmt zwischen Accra und Tema", "Wichtige Pufferzone gegen Überschwemmungen", "Hotspot für seltene Küstenvögel", "Drastisch bedroht durch Müll und Bebauung", "Beispiel für urbane Ökosystemzerstörung"]
+    },
+    {
+      "id": "crocodile-sanctuary-hapa-animal-life-v2",
+      "descriptionAdvanced": "Das kleine Krokodilschutzgebiet in der Upper West Region ist ein verstecktes Juwel und funktioniert ähnlich wie das berühmte Paga, ist jedoch weniger touristisch geprägt. Die heiligen Teiche sind streng geschützt, da die lokale Mythologie besagt, dass die Geister der Dorfgründer in den massiven Reptilien weiterleben. Das Schutzgebiet finanziert sich durch bescheidene Spenden der Besucher und trägt maßgeblich dazu bei, dass diese faszinierenden Raubtiere nicht von Wilderern für ihre Haut gejagt werden. Kultur K6 — afrikanische Mythologie.",
+      "factsAdvanced": ["Verstecktes Krokodilschutzgebiet in der Upper West Region", "Geister der Gründer sollen in Krokodilen leben", "Schützt die Tiere vor Wilderern (Hautjagd)", "Finanziert durch Spenden der Besucher", "Streng geschützte heilige Teiche", "Weniger touristisch als Paga"]
+    },
+    {
+      "id": "agric-college-farm-life-v2",
+      "descriptionAdvanced": "Die Lehrfarm der Agricultural College im Zentrum Ghanas ist ein riesiges Freiluft-Klassenzimmer, wo die nächste Generation ghanaischer Landwirte ausgebildet wird. Hier lernen Studenten und jüngere Schüler den Einsatz moderner Traktoren, die Bedeutung von Fruchtfolgen und die Herstellung von organischem Kompost zur Vermeidung chemischer Dünger. Die Farm ist entscheidend für den Versuch des Landes, von Subsistenzwirtschaft auf eine effizientere, klimaresistente und kommerzielle Landwirtschaft umzusteigen. Biologie K7 — moderne Agrarwissenschaften.",
+      "factsAdvanced": ["Riesiges Freiluft-Klassenzimmer im Zentrum Ghanas", "Ausbildung künftiger ghanaischer Landwirte", "Lehrt Einsatz moderner Traktoren und Kompostierung", "Fördert kommerzielle, klimaresistente Landwirtschaft", "Reduzierung chemischer Düngemittel im Fokus", "Wichtig für die Agrar-Zukunft des Landes"]
+    },
+    {
+      "id": "acacia-forest-savanna-animal-life-v2",
+      "descriptionAdvanced": "Der weitläufige Akazienwald in der Nordsavanne ist ein raues, extrem trockenes Ökosystem, das nur die widerstandsfähigsten Pflanzen und Tiere beheimatet. Die tief wurzelnden Akazienbäume sind die wichtigste Nahrungsquelle für umherziehende Antilopen und Giraffen, die ihre langen Hälse nutzen, um das dornige Laub zu fressen. Für Schulkinder bietet der Wald ein perfektes Anschauungsmaterial, um die Anpassung von Flora und Fauna an monatelange Dürreperioden und extreme Hitze zu studieren. Biologie K8 — Überlebensstrategien in der Wüste.",
+      "factsAdvanced": ["Raues, trockenes Ökosystem in der Nordsavanne", "Tief wurzelnde Akazienbäume dominieren", "Wichtigste Nahrungsquelle für Giraffen", "Anpassung an monatelange Dürreperioden", "Beispiel für Überlebensstrategien in Hitze", "Dorniges Laub schützt Pflanzen vor Fraß"]
+    },
+    {
+      "id": "honey-farm-central-agri-life-v2",
+      "descriptionAdvanced": "Versteckt im üppigen Grün der Central Region liegt eine innovative Imkerei, die sich der nachhaltigen Produktion von organischem Waldhonig widmet. Kinder können hier, sicher eingepackt in dicke Schutzanzüge, beobachten, wie afrikanische Wildbienen den Nektar der unzähligen Tropenblumen in wertvollen Honig verwandeln. Das Projekt lehrt die Einheimischen, dass der Schutz des Waldes weitaus lukrativer sein kann als der Verkauf von Feuerholz, da die Bienen für ihre Honigproduktion intakte blühende Bäume benötigen. Umwelt K6 — nachhaltige Waldbewirtschaftung.",
+      "factsAdvanced": ["Innovative Imkerei im Dschungel der Central Region", "Nachhaltige Produktion von organischem Waldhonig", "Nektar der Tropenblumen durch afrikanische Wildbienen", "Beweist, dass Baumschutz lukrativ ist", "Alternative zum illegalen Feuerholzverkauf", "Sichere Schutzkleidung für Besucher"]
+    },
+    {
+      "id": "wildlife-rescue-accra-animal-life-v2",
+      "descriptionAdvanced": "Das kleine Wildlife Rescue Centre am Rande von Accra fungiert als dringend benötigte Zuflucht für exotische Tiere, die aus illegaler privater Haltung oder den Händen von Schmugglern gerettet wurden. Von beschlagnahmten Papageien bis hin zu verwaisten Affenbabys werden die Tiere hier tierärztlich versorgt, mit dem ultimativen Ziel, sie wieder in den Nationalparks auszuwildern. Das Zentrum spielt eine kritische Rolle in der Aufklärung von Stadtkindern über das Leid, das der illegale Wildtierhandel den Ökosystemen zufügt. Biologie K7 — Tierschutz und Auswilderung.",
+      "factsAdvanced": ["Zuflucht für gerettete exotische Tiere in Accra", "Tiere von Schmugglern oder aus Privatbesitz befreit", "Pflege von Papageien und verwaisten Affen", "Ziel ist die Auswilderung in Nationalparks", "Klärt über das Leid des Wildtierhandels auf", "Einzige Rettungsstation ihrer Art in der Hauptstadt"]
+    },
+    {
+      "id": "rice-field-north-agri-life-v2",
+      "descriptionAdvanced": "Die ausgedehnten Reisfelder im flachen Norden Ghanas sind ein faszinierendes Beispiel für großflächigen Bewässerungsfeldbau in einer eigentlich extrem trockenen Klimazone. Durch ein komplexes Netzwerk von Kanälen und Wasserreservoirs verwandelt sich die rote Erde während der kurzen Regenzeit in ein smaragdgrünes Meer aus Reispflanzen. Die Mechanisierung des Anbaus und die Einführung hochgradig trockenheitsresistenter Reissorten sind Schlüsselstrategien der Regierung, um die nationale Abhängigkeit von asiatischen Reisimporten zu verringern. Geografie K8 — Nahrungsmittelsicherheit.",
+      "factsAdvanced": ["Großflächiger Bewässerungsfeldbau im flachen Norden", "Komplexes Kanal- und Wasserreservoir-Netzwerk", "Verwandelt Erde in smaragdgrünes Reismeer", "Einsatz trockenheitsresistenter Reissorten", "Mechanisierter Anbau für höhere Erträge", "Ziel: Senkung asiatischer Reisimporte"]
+    },
+    {
+      "id": "aquarium-accra-kid-life-v2",
+      "descriptionAdvanced": "Das Accra Aquarium, eine relativ neue Bildungsattraktion, bietet Familien einen faszinierenden Blick unter die stürmischen Wellen des nahen Golfs von Guinea. In riesigen Salzwasserbecken können Kinder Muränen, bunte Rifffische und sogar kleine Haie bestaunen, die in den ghanaischen Küstengewässern heimisch sind. Die interaktiven Ausstellungen des Aquariums warnen eindringlich vor den massiven Gefahren durch Plastikmüll im Meer und erklären die kritische Bedeutung der Mangrovenwälder als Kinderstube der Fische. Umwelt K6 — Meeresökologie.",
+      "factsAdvanced": ["Relativ neues Aquarium im Herzen von Accra", "Riesige Salzwasserbecken für Muränen und Haie", "Zeigt Unterwasserwelt des Golfs von Guinea", "Warnt vor Plastikmüll-Gefahren im Ozean", "Erklärt Wichtigkeit von Mangrovenwäldern", "Spannende edukative Einrichtung für Familien"]
+    },
+    {
+      "id": "mangrove-forest-ada-animal-life-v2",
+      "descriptionAdvanced": "Die dichten Mangrovenwälder nahe Ada an der Mündung des Volta-Flusses sind eines der geheimnisvollsten und ökologisch wertvollsten Biotope Westafrikas. Ihre verhedderten, aus dem Schlamm ragenden Stelzwurzeln bilden ein undurchdringliches Labyrinth, das als absolute Brutstätte für unzählige Fischarten, Krabben und Meeresschildkröten dient. Das Ökosystem schützt die Küste zudem wie ein riesiger Schwamm vor zerstörerischen Sturmfluten, ist jedoch durch massive Abholzungen für die lokale Brennholzgewinnung akut bedroht. Biologie K8 — Küstenökosysteme und Schutz.",
+      "factsAdvanced": ["Dichte Biotope an der Mündung des Volta (Ada)", "Undurchdringliches Labyrinth aus Stelzwurzeln", "Brutstätte für Fische und Meeresschildkröten", "Wirkt wie ein Schwamm gegen Sturmfluten", "Akut bedroht durch lokale Brennholzgewinnung", "Geheimnisvollstes Ökosystem Westafrikas"]
+    },
+    {
+      "id": "maize-farm-east-agri-life-v2",
+      "descriptionAdvanced": "In der Eastern Region erstrecken sich endlose Maisfarmen, die das absolute Grundnahrungsmittel für Ghanas beliebtestes Gericht, Banku, liefern. Der Anbau erfordert enormes Timing: Die Bauern müssen den Mais exakt zu Beginn der Regenzeit pflanzen, um eine ertragreiche Ernte vor der Trockenheit zu sichern. Schulkinder lernen hier die Bedrohungen durch den gefährlichen Heerwurm (Fall Armyworm) kennen, der ganze Ernten vernichten kann, und wie moderne biologische Methoden helfen, die Felder ohne schädliche Pestizide zu schützen. Biologie K7 — Schädlingsbekämpfung.",
+      "factsAdvanced": ["Endlose Felder in der Eastern Region", "Liefert Grundnahrungsmittel für Banku", "Pflanzung exakt zum Beginn der Regenzeit nötig", "Massive Bedrohung durch den Heerwurm (Fall Armyworm)", "Biologische Methoden ersetzen Pestizide", "Essenziell für die ghanaische Ernährung"]
+    },
+    {
+      "id": "animal-shelter-tamale-animal-life-v2",
+      "descriptionAdvanced": "Das Animal Shelter in Tamale ist eine der wenigen Einrichtungen im Norden Ghanas, die sich liebevoll um streunende und verletzte Haustiere, insbesondere Hunde und Esel, kümmert. In einer Region, in der Tiere traditionell oft nur als landwirtschaftliche Nutztiere oder Wächter betrachtet werden, leistet das Heim wichtige Überzeugungsarbeit in Schulen für einen empathischeren Umgang mit Tieren. Durch Impf- und Kastrationsprogramme hilft das Zentrum zudem maßgeblich, gefährliche Ausbrüche von Tollwut in den städtischen Gebieten zu verhindern. Sozialkunde K6 — Tierschutz und Gesellschaft.",
+      "factsAdvanced": ["Liebevolle Pflege für verletzte Hunde und Esel", "Befindet sich in Tamale (Norden Ghanas)", "Klärt Schüler über Tierschutz auf", "Führt Impf- und Kastrationsprogramme durch", "Hilft, Tollwut-Ausbrüche zu verhindern", "Seltenes Tierheim in einer Nutzlandregion"]
+    },
+    {
+      "id": "zoo-takoradi-kid-life-v2",
+      "descriptionAdvanced": "Der kleine Zoo in Takoradi, gelegen in der Küstenregion, bietet Familien einen spannenden Einblick in die reiche Tierwelt der westafrikanischen Regenwälder. Obwohl deutlich bescheidener als sein Pendant in Kumasi, punktet die Anlage mit einer beeindruckenden Freiflughalle für seltene tropische Papageien und Nashornvögel. Bildungsprogramme für Kinder fokussieren sich stark auf die tragischen Folgen des illegalen Holzschlags, der den natürlichen Lebensraum dieser farbenfrohen Vögel im ghanaischen Hinterland drastisch schrumpfen lässt. Umwelt K7 — Zerstörung von Lebensräumen.",
+      "factsAdvanced": ["Kleiner zoologischer Garten in Takoradi", "Besitzt Freiflughalle für seltene Papageien", "Fokus auf Schutz der Tropenvögel", "Klärt über illegale Abholzung auf", "Zeigt Tiere des westafrikanischen Regenwaldes", "Macht Zerstörung von Lebensräumen begreifbar"]
+    },
+    {
+      "id": "citrus-orchard-central-agri-life-v2",
+      "descriptionAdvanced": "Die riesigen Zitrusplantagen in der Central Region leuchten zur Erntezeit mit Tausenden von saftigen Orangen, Mandarinen und Grapefruits. Die Plantagen beliefern nicht nur die städtischen Märkte, sondern auch riesige Saftfabriken, die das Obst für den In- und Export pressen. Für landwirtschaftliche Studenten bieten die Felder ein perfektes Anschauungsobjekt für moderne Techniken der Baumpflege, Veredelung (Pfropfen) und die clevere Anlage von Tropfbewässerungssystemen zur Überbrückung der heißen Trockenzeit. Biologie K8 — moderne Obstkultur.",
+      "factsAdvanced": ["Riesige Plantagen in der Central Region", "Tausende Orangen, Mandarinen und Grapefruits", "Beliefert Märkte und riesige Saftfabriken", "Zeigt Veredelung (Pfropfen) von Bäumen", "Nutzt wassersparende Tropfbewässerung", "Lehrbeispiel für moderne Obstkultur in den Tropen"]
+    }
+  ]
+}

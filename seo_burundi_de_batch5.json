@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBurundiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBurundiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBurundiLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurundiNatureV2.ts",
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gitega-national-museum-history-v2",
+      "descriptionAdvanced": "Das Nationalmuseum in Gitega ist der wichtigste Aufbewahrungsort für die burundische Geschichte und Kultur. Es beherbergt eine umfangreiche Sammlung historischer Artefakte, darunter königliche Insignien und traditionelle Musikinstrumente. Das Museum spielt eine zentrale Rolle bei der Bewahrung der Identität Burundis und bietet einen tiefen Einblick in die Zeit der Monarchie. Geschichte K8 — Bewahrung von Kulturerbe.",
+      "factsAdvanced": [
+        "Lage: Gitega (ehemalige Hauptstadt)",
+        "Besonderheit: Wichtigstes kulturhistorisches Museum",
+        "Sammlung: Königliche Insignien, traditionelle Kunst",
+        "Bedeutung: Zentrum der nationalen Identität",
+        "Kulturelles Erbe: Dokumentation der burundischen Traditionen",
+        "Status: Nationalmuseum"
+      ]
+    },
+    {
+      "id": "livingstone-stanley-monument-history-v2",
+      "descriptionAdvanced": "Das Livingstone-Stanley-Denkmal markiert einen historisch bedeutenden Ort in der Nähe von Bujumbura, wo sich die berühmten Afrikaforscher David Livingstone und Henry Morton Stanley im Jahr 1871 trafen. Dieser Begegnungsort ist ein Zeugnis der europäischen Erforschung des afrikanischen Kontinents im 19. Jahrhundert und zieht heute geschichtsinteressierte Reisende aus aller Welt an. Geschichte K9 — Ära der Entdeckungsreisen.",
+      "factsAdvanced": [
+        "Personen: David Livingstone, Henry Morton Stanley",
+        "Ereignis: Historisches Treffen der Entdecker",
+        "Jahr: 1871",
+        "Standort: Nahe Bujumbura",
+        "Bedeutung: Denkmal der europäischen Exploration",
+        "Tourismus: Geschichtsträchtiger Ort"
+      ]
+    },
+    {
+      "id": "gitega-royal-palace-history-v2",
+      "descriptionAdvanced": "Der königliche Palast in Gitega ist ein stummes Zeugnis der Zeit, in der Burundi eine Monarchie war. Obwohl die politische Macht der Könige (Mwami) heute nicht mehr besteht, bleibt der Palast ein Symbol für das traditionelle politische System des Landes. Die Architektur spiegelt eine Mischung aus lokalen Baustilen und kolonialen Einflüssen wider, die die Geschichte Burundis prägten. Geschichte K8 — Ende der Monarchie.",
+      "factsAdvanced": [
+        "Funktion: Ehemaliger Sitz des Königs (Mwami)",
+        "Standort: Gitega",
+        "Symbolik: Traditionelle burundische Monarchie",
+        "Baustil: Historische Mischarchitektur",
+        "Bedeutung: Politische Vergangenheit Burundis",
+        "Erhalt: Kulturhistorisches Gebäude"
+      ]
+    },
+    {
+      "id": "gishora-drum-sanctuary-history-v2",
+      "descriptionAdvanced": "Gishora ist ein bedeutendes Heiligtum für die burundische Trommelkunst, die als immaterielles Kulturerbe anerkannt ist. Die Trommel war im historischen Burundi eng mit der königlichen Macht und rituellen Zeremonien verbunden. Heute ist Gishora ein Ort, an dem diese alten Traditionen gepflegt und der Öffentlichkeit präsentiert werden. Geschichte K8 — Immaterielles Kulturerbe.",
+      "factsAdvanced": [
+        "Kultur: Traditionelle burundische Trommelkunst",
+        "Bedeutung: Immaterielles Kulturerbe",
+        "Historie: Verbindung zur königlichen Macht",
+        "Aktivität: Vorführungen traditioneller Zeremonien",
+        "Lage: In der Nähe von Gitega",
+        "Symbol: Die Trommel als nationales Identitätssymbol"
+      ]
+    },
+    {
+      "id": "muramvya-ancient-palace-history-v2",
+      "descriptionAdvanced": "Muramvya war eine der wichtigsten historischen Hauptstädte Burundis, in der die Könige zeremonielle Pflichten erfüllten. Die alten Ruinen und der Palastplatz zeugen von der administrativen und spirituellen Bedeutung, die die Stadt einst innehatte. Die Region ist heute ein bedeutendes Ziel für Geschichtsinteressierte, die die Ursprünge der burundischen Staatsbildung erforschen wollen. Geschichte K9 — Ursprünge der Staatsbildung.",
+      "factsAdvanced": [
+        "Bedeutung: Ehemalige Zeremonial-Hauptstadt",
+        "Historik: Zentrum der königlichen Verwaltung",
+        "Ruinen: Reste des alten Palastkomplexes",
+        "Rolle: Spirituelles Zentrum der Monarchie",
+        "Standort: Muramvya",
+        "Staatsbildung: Historischer Kern Burundis"
+      ]
+    }
+  ]
+}

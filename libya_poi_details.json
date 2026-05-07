@@ -1,0 +1,1167 @@
+[
+  {
+    "id": "misrata-cities-v2",
+    "name": "Misrata",
+    "desc": "Major port and industrial city in Tripolitania, known for its economic influence."
+  },
+  {
+    "id": "bayda-cities-v2",
+    "name": "Al Bayda",
+    "desc": "One of the key cities in the Green Mountains, surrounded by fertile agricultural land."
+  },
+  {
+    "id": "zawiya-cities-v2",
+    "name": "Zawiya",
+    "desc": "A major city west of the capital featuring a highly developed petroleum industry."
+  },
+  {
+    "id": "zliten-cities-v2",
+    "name": "Zliten",
+    "desc": "Coastal city on the Mediterranean, famous for its Islamic educational centers and mosques."
+  },
+  {
+    "id": "sirte-cities-v2",
+    "name": "Sirte",
+    "desc": "A strategically located city in the middle of the Libyan coastline on the Gulf of Sirte."
+  },
+  {
+    "id": "tobruk-cities-v2",
+    "name": "Tobruk",
+    "desc": "Important port city near the Egyptian border, featuring a deep natural harbor."
+  },
+  {
+    "id": "ajdabiya-cities-v2",
+    "name": "Ajdabiya",
+    "desc": "A central crossroads connecting the coastal region with the desert hinterland."
+  },
+  {
+    "id": "derna-cities-v2",
+    "name": "Derna",
+    "desc": "A picturesque eastern city known for its green surroundings and water springs."
+  },
+  {
+    "id": "sabha-cities-v2",
+    "name": "Sabha",
+    "desc": "The largest city in the Fezzan region and the historical center of the southwest."
+  },
+  {
+    "id": "khoms-cities-v2",
+    "name": "Khoms",
+    "desc": "A coastal city east of Tripoli, in close proximity to the ruins of Leptis Magna."
+  },
+  {
+    "id": "bani-walid-cities-v2",
+    "name": "Bani Walid",
+    "desc": "Centrally located in a desert valley, it is the stronghold of the Warfalla tribe."
+  },
+  {
+    "id": "kufra-cities-v2",
+    "name": "Al Jawf (Kufra)",
+    "desc": "One of the most isolated cities in the world, located in a massive desert oasis."
+  },
+  {
+    "id": "marj-cities-v2",
+    "name": "Marj",
+    "desc": "An agricultural city built upon the ruins of the ancient settlement of Barca."
+  },
+  {
+    "id": "tarhuna-cities-v2",
+    "name": "Tarhuna",
+    "desc": "A high-altitude agricultural city renowned for its vast olive groves."
+  },
+  {
+    "id": "zuwara-cities-v2",
+    "name": "Zuwara",
+    "desc": "Small port city in the northwest where traditional Berber culture is still maintained."
+  },
+  {
+    "id": "gharyan-cities-v2",
+    "name": "Gharyan",
+    "desc": "Central mountain city in the Nafusa Mountains, famous for its underground cave dwellings."
+  },
+  {
+    "id": "sabratha-cities-v2",
+    "name": "Sabratha",
+    "desc": "Modern coastal city located directly adjacent to an important ancient theater."
+  },
+  {
+    "id": "al-jamil-cities-v2",
+    "name": "Al Jamil",
+    "desc": "A growing city in the western part of the country, near the Tunisian border."
+  },
+  {
+    "id": "surman-cities-v2",
+    "name": "Surman",
+    "desc": "A quiet coastal community nestled between Zawiya and Sabratha."
+  },
+  {
+    "id": "yefren-cities-v2",
+    "name": "Yefren",
+    "desc": "A significant mountain town deeply rooted in the traditions of Berber culture."
+  },
+  {
+    "id": "nalut-cities-v2",
+    "name": "Nalut",
+    "desc": "The westernmost major town of the mountain region, known for its well-preserved ancient granary."
+  },
+  {
+    "id": "murzuq-cities-v2",
+    "name": "Murzuq",
+    "desc": "An oasis town deep in the southwest, once a major center of the trans-Saharan trade."
+  },
+  {
+    "id": "awbari-cities-v2",
+    "name": "Awbari (Ubari)",
+    "desc": "An important hub in the Sahara, famous for the surrounding sand dunes and lakes."
+  },
+  {
+    "id": "ghat-cities-v2",
+    "name": "Ghat",
+    "desc": "Border town with Algeria in the deep south, a major cultural center of the Tuareg."
+  },
+  {
+    "id": "ghadames-cities-v2",
+    "name": "Ghadames",
+    "desc": "The "
+  },
+  {
+    "id": "hun-cities-v2",
+    "name": "Hun",
+    "desc": "The capital of the Jufra district, surrounded by black mountains and desert."
+  },
+  {
+    "id": "waddan-cities-v2",
+    "name": "Waddan",
+    "desc": "The oldest town in the Jufra oasis with deep historical roots."
+  },
+  {
+    "id": "brak-cities-v2",
+    "name": "Brak",
+    "desc": "Center of the Wadi al-Shatii valley, characterized by agricultural development."
+  },
+  {
+    "id": "al-qatrun-cities-v2",
+    "name": "Al Qatrun",
+    "desc": "A small but strategically important outpost on the route towards Chad."
+  },
+  {
+    "id": "zintan-cities-v2",
+    "name": "Zintan",
+    "desc": "A stronghold in the Nafusa Mountains that played an influential role in recent history."
+  },
+  {
+    "id": "mizda-cities-v2",
+    "name": "Mizda",
+    "desc": "A connecting point between the northern mountains and the vastness of the Fezzan."
+  },
+  {
+    "id": "shahhat-cities-v2",
+    "name": "Shahhat",
+    "desc": "Modern settlement directly adjacent to the majestic ruins of the ancient city of Cyrene."
+  },
+  {
+    "id": "susa-cities-v2",
+    "name": "Susa",
+    "desc": "A coastal town in the northeast, known historically as the ancient Apollonia."
+  },
+  {
+    "id": "jalu-cities-v2",
+    "name": "Jalu",
+    "desc": "Center of the significant oasis group in the Libyan desert in the east."
+  },
+  {
+    "id": "awjila-cities-v2",
+    "name": "Awjila",
+    "desc": "One of the oldest oasis settlements in North Africa featuring exceptional mud-brick architecture."
+  },
+  {
+    "id": "zella-cities-v2",
+    "name": "Zella",
+    "desc": "An isolated oasis in the heart of the Sirtica basin."
+  },
+  {
+    "id": "sokna-cities-v2",
+    "name": "Sokna",
+    "desc": "A quiet center in the Jufra district, rich in palm trees and traditions."
+  },
+  {
+    "id": "tiji-cities-v2",
+    "name": "Tiji",
+    "desc": "A typical small settlement at the foot of the Nafusa Mountains."
+  },
+  {
+    "id": "wazin-cities-v2",
+    "name": "Wazin",
+    "desc": "The most important land border crossing between Libya and Tunisia."
+  },
+  {
+    "id": "al-abyar-cities-v2",
+    "name": "Al Abyar",
+    "desc": "An agricultural hub east of Benghazi in the fertile highlands."
+  },
+  {
+    "id": "suluq-cities-v2",
+    "name": "Suluq",
+    "desc": "A rural town south of Benghazi with significant historical importance."
+  },
+  {
+    "id": "qaminis-cities-v2",
+    "name": "Qaminis",
+    "desc": "Small agricultural settlement in the Benghazi region, close to the Mediterranean coast."
+  },
+  {
+    "id": "tukrah-cities-v2",
+    "name": "Tukrah",
+    "desc": "An ancient Greek coastal town whose ruins lie right next to the modern center."
+  },
+  {
+    "id": "benina-cities-v2",
+    "name": "Benina",
+    "desc": "A suburb of Benghazi, known primarily as the location of the international airport."
+  },
+  {
+    "id": "jardas-al-ahrar-cities-v2",
+    "name": "Jardas al Ahrar",
+    "desc": "A small rural locality in the Marj district focusing on livestock farming."
+  },
+  {
+    "id": "masa-cities-v2",
+    "name": "Masa",
+    "desc": "A quiet settlement in the Green Mountains, known for its green landscapes."
+  },
+  {
+    "id": "martuba-cities-v2",
+    "name": "Martuba",
+    "desc": "Known for the former military airfield from World War II."
+  },
+  {
+    "id": "umm-al-rizam-cities-v2",
+    "name": "Umm al Rizam",
+    "desc": "A village in eastern Cyrenaica that traditionally relies on trade."
+  },
+  {
+    "id": "kambut-cities-v2",
+    "name": "Kambut",
+    "desc": "One of the easternmost settlements in Libya, near Tobruk."
+  },
+  {
+    "id": "jaghbub-cities-v2",
+    "name": "Jaghbub",
+    "desc": "An isolated oasis in the far east, close to the Egyptian Siwa Oasis."
+  },
+  {
+    "id": "qasr-bin-ghashir-cities-v2",
+    "name": "Qasr bin Ghashir",
+    "desc": "Southern suburb of Tripoli, dominated by the international airport."
+  },
+  {
+    "id": "tajoura-cities-v2",
+    "name": "Tajoura",
+    "desc": "Eastern suburb of the capital, known for its nuclear research center."
+  },
+  {
+    "id": "msallata-cities-v2",
+    "name": "Msallata",
+    "desc": "A hill town in Tripolitania, surrounded by countless ancient olive trees."
+  },
+  {
+    "id": "al-ajaylat-cities-v2",
+    "name": "Al Ajaylat",
+    "desc": "Agricultural center in the northwest supplying the surrounding area with goods."
+  },
+  {
+    "id": "al-qubbah-cities-v2",
+    "name": "Al Qubbah",
+    "desc": "The largest city between Derna and Al Bayda in Cyrenaica."
+  },
+  {
+    "id": "badr-cities-v2",
+    "name": "Badr",
+    "desc": "A quiet mountain village that relies on livestock farming and agriculture."
+  },
+  {
+    "id": "al-magrun-cities-v2",
+    "name": "Al Magrun",
+    "desc": "A small coastal town on the Gulf of Sidra, characterized by fishing."
+  },
+  {
+    "id": "qandulah-cities-v2",
+    "name": "Qandulah",
+    "desc": "Agriculturally characterized village in the highlands of the Green Mountains."
+  },
+  {
+    "id": "port-of-tripoli-economic-v2",
+    "name": "Port of Tripoli",
+    "desc": "The Port of Tripoli is Libya"
+  },
+  {
+    "id": "port-of-benghazi-economic-v2",
+    "name": "Port of Benghazi",
+    "desc": "The Port of Benghazi on the Mediterranean coast is a major economic center in the Cyrenaica region."
+  },
+  {
+    "id": "misrata-port-economic-v2",
+    "name": "Misrata Free Zone and Port",
+    "desc": "The Port of Misrata hosts Libya"
+  },
+  {
+    "id": "al-khums-port-economic-v2",
+    "name": "Al Khums Port",
+    "desc": "Al Khums Port is a strategically important seaport in northwest Libya, handling general cargo and containers."
+  },
+  {
+    "id": "tobruk-port-economic-v2",
+    "name": "Port of Tobruk",
+    "desc": "The Port of Tobruk benefits from its deep, natural anchorage and is a major commercial hub near the Egyptian border."
+  },
+  {
+    "id": "derna-port-economic-v2",
+    "name": "Port of Derna",
+    "desc": "The Port of Derna serves as a regional trade hub for Libya"
+  },
+  {
+    "id": "ras-lanuf-port-economic-v2",
+    "name": "Ras Lanuf Oil Port",
+    "desc": "Ras Lanuf Oil Port is one of Libya"
+  },
+  {
+    "id": "marsa-el-brega-port-economic-v2",
+    "name": "Marsa el Brega Port",
+    "desc": "The Port of Marsa el Brega is a hub for exporting natural gas and petrochemical products from the Libyan desert."
+  },
+  {
+    "id": "zueitina-oil-terminal-economic-v2",
+    "name": "Zueitina Oil Terminal",
+    "desc": "The Zueitina Oil Terminal is a major shipping point for Libyan crude oil brought via pipelines from southern fields."
+  },
+  {
+    "id": "zawiya-port-economic-v2",
+    "name": "Zawiya Port",
+    "desc": "Zawiya Port primarily serves the export of refined petroleum products produced at the nearby refinery."
+  },
+  {
+    "id": "mellitah-port-economic-v2",
+    "name": "Mellitah Oil and Gas Port",
+    "desc": "The Mellitah port complex is the starting point for the Greenstream pipeline transporting natural gas from Libya to Italy."
+  },
+  {
+    "id": "es-sider-terminal-economic-v2",
+    "name": "Es Sider Oil Terminal",
+    "desc": "Es Sider is the largest oil export terminal in Libya, centrally located on the coast of the Gulf of Sidra."
+  },
+  {
+    "id": "sharara-oil-field-economic-v2",
+    "name": "Sharara Oil Field",
+    "desc": "The Sharara oil field in the Murzuq Desert is one of Libya"
+  },
+  {
+    "id": "el-feel-oil-field-economic-v2",
+    "name": "El Feel Oil Field",
+    "desc": "The El Feel field, also known as the Elephant field, is a major source of Libyan crude oil from the southwestern desert."
+  },
+  {
+    "id": "waha-oil-field-economic-v2",
+    "name": "Waha Oil Field",
+    "desc": "The Waha oil field in the Sirte Basin is a historic and still productive source of high-quality crude oil."
+  },
+  {
+    "id": "zelten-oil-field-economic-v2",
+    "name": "Zelten Oil Field",
+    "desc": "Discovered in 1959, the Zelten field (now also called Nasser field) was one of the first major commercial oil discoveries in Libya."
+  },
+  {
+    "id": "sarir-oil-field-economic-v2",
+    "name": "Sarir Oil Field",
+    "desc": "The Sarir field in eastern Libya is considered the largest oil field in the country in terms of proven reserves."
+  },
+  {
+    "id": "bouri-offshore-field-economic-v2",
+    "name": "Bouri Offshore Field",
+    "desc": "The Bouri field in the Mediterranean Sea is the largest producing offshore oil field in the Mediterranean Basin."
+  },
+  {
+    "id": "al-jurf-offshore-field-economic-v2",
+    "name": "Al Jurf Offshore Field",
+    "desc": "Al Jurf is an offshore oil field near the Tunisian border, operated by international consortia."
+  },
+  {
+    "id": "mabruk-oil-field-economic-v2",
+    "name": "Mabruk Oil Field",
+    "desc": "The Mabruk field in the Sirte Basin is known for complex geological structures from which oil is extracted using modern technology."
+  },
+  {
+    "id": "amal-oil-field-economic-v2",
+    "name": "Amal Oil Field",
+    "desc": "The Amal field is one of the older producing fields in the Libyan Sirte Basin, connected by pipelines to the Ras Lanuf port."
+  },
+  {
+    "id": "nafoora-oil-field-economic-v2",
+    "name": "Nafoora Oil Field",
+    "desc": "The Nafoora field is a significant component of Libyan oil production and is managed by the Arabian Gulf Oil Company."
+  },
+  {
+    "id": "messla-oil-field-economic-v2",
+    "name": "Messla Oil Field",
+    "desc": "The Messla oil field in Cyrenaica was discovered in the 1970s and is known for its high-quality oil reserves."
+  },
+  {
+    "id": "abu-attifel-oil-field-economic-v2",
+    "name": "Abu Attifel Oil Field",
+    "desc": "Abu Attifel is a large oil field in the Sirte Basin, ranking among the oldest and most productive fields involving international partners."
+  },
+  {
+    "id": "zawiya-refinery-economic-v2",
+    "name": "Zawiya Oil Refinery",
+    "desc": "The Zawiya refinery is one of the most important processing facilities in Libya, supplying fuel to large parts of the country."
+  },
+  {
+    "id": "ras-lanuf-refinery-economic-v2",
+    "name": "Ras Lanuf Refinery",
+    "desc": "The Ras Lanuf Refinery is a huge petrochemical complex that processes crude oil from the Sirte Basin for domestic and export markets."
+  },
+  {
+    "id": "lisco-misrata-steel-economic-v2",
+    "name": "Libyan Iron and Steel Company (LISCO)",
+    "desc": "LISCO in Misrata is one of North Africa"
+  },
+  {
+    "id": "zliten-cement-plant-economic-v2",
+    "name": "Zliten Cement Plant",
+    "desc": "The cement plant in Zliten is a major supplier of building materials in the country, supporting infrastructure projects in the coastal region."
+  },
+  {
+    "id": "mellitah-gas-plant-economic-v2",
+    "name": "Mellitah Gas Plant",
+    "desc": "The Mellitah Gas Plant processes natural gas intended for both Libyan domestic consumption and export via the Greenstream pipeline."
+  },
+  {
+    "id": "khoms-power-plant-economic-v2",
+    "name": "Khoms Power Plant",
+    "desc": "The Khoms Power Plant is a large thermal power station playing a key role in supplying electricity to Libya"
+  },
+  {
+    "id": "ly-leptis-magna-history-v2",
+    "name": "Leptis Magna",
+    "desc": "One of the best-preserved ancient Roman cities, known for its monumental arch and large amphitheater."
+  },
+  {
+    "id": "ly-sabratha-history-v2",
+    "name": "Sabratha",
+    "desc": "An ancient city on the Mediterranean coast featuring an impressive Roman theater and beautiful mosaics."
+  },
+  {
+    "id": "ly-cyrene-history-v2",
+    "name": "Cyrene",
+    "desc": "A major ancient Greek and later Roman city that gave the region of Cyrenaica its name."
+  },
+  {
+    "id": "ly-apollonia-history-v2",
+    "name": "Apollonia",
+    "desc": "The ancient port of Cyrene, featuring important Byzantine church ruins and a sunken harbor."
+  },
+  {
+    "id": "ly-ptolemais-history-v2",
+    "name": "Ptolemais",
+    "desc": "An ancient city founded by the Egyptian Ptolemies, rich in large Hellenistic palaces."
+  },
+  {
+    "id": "ly-tocra-history-v2",
+    "name": "Taucheira (Tocra)",
+    "desc": "One of the five ancient cities of Cyrenaica, surrounded by strong Byzantine walls."
+  },
+  {
+    "id": "ly-ghadames-old-town-history-v2",
+    "name": "Ghadames Old Town",
+    "desc": "Known as the pearl of the desert, the city is distinguished by its traditional mud-brick architecture and covered alleys."
+  },
+  {
+    "id": "ly-marcus-aurelius-arch-history-v2",
+    "name": "Arch of Marcus Aurelius",
+    "desc": "A Roman triumphal arch in Tripoli, the only surviving Roman monument in the city."
+  },
+  {
+    "id": "ly-red-castle-history-v2",
+    "name": "Red Castle (Assaraya al-Hamra)",
+    "desc": "A massive fortress in Tripoli with a rich history spanning Ottoman and Spanish periods."
+  },
+  {
+    "id": "ly-tadrart-acacus-history-v2",
+    "name": "Tadrart Acacus",
+    "desc": "A desert area containing prehistoric rock art that shows environmental and lifestyle changes."
+  },
+  {
+    "id": "ly-germa-history-v2",
+    "name": "Germa (Garama)",
+    "desc": "The ancient capital of the Garamantes, a people who controlled the Saharan trade routes in antiquity."
+  },
+  {
+    "id": "ly-slonta-history-v2",
+    "name": "Sanctuary of Slonta",
+    "desc": "A mysterious pre-Islamic temple featuring unique, grotesque sculptures carved into the rock."
+  },
+  {
+    "id": "ly-villa-silin-history-v2",
+    "name": "Villa Silin",
+    "desc": "A luxurious Roman coastal villa near Leptis Magna featuring well-preserved mosaics and frescoes."
+  },
+  {
+    "id": "ly-qasr-libya-history-v2",
+    "name": "Qasr Libya",
+    "desc": "Site of Byzantine ruins famous for a Byzantine church containing fantastic floor mosaics."
+  },
+  {
+    "id": "ly-tripoli-medina-history-v2",
+    "name": "Medina of Tripoli",
+    "desc": "The walled historical heart of Tripoli, featuring traditional souks, old mosques, and narrow alleys."
+  },
+  {
+    "id": "ly-gharyan-troglodyte-history-v2",
+    "name": "Gharyan Troglodyte Caves",
+    "desc": "Underground houses dug into the mountains, used for centuries for protection against extreme desert heat."
+  },
+  {
+    "id": "ly-zawiya-jaghbub-history-v2",
+    "name": "Zawiya of Al Jaghbub",
+    "desc": "Former center of the Senussi order in the desert, an important historical and religious site."
+  },
+  {
+    "id": "ly-fort-capuzzo-history-v2",
+    "name": "Fort Capuzzo",
+    "desc": "An Italian WWII fort on the border with Egypt, site of numerous military engagements."
+  },
+  {
+    "id": "ly-tobruk-war-cemetery-history-v2",
+    "name": "Tobruk War Cemetery",
+    "desc": "A memorial for Allied soldiers who fell during the Siege of Tobruk in World War II."
+  },
+  {
+    "id": "ly-malta-castle-history-v2",
+    "name": "Knights of Malta Castle",
+    "desc": "Remains of the short-lived fortifications of the Knights Hospitaller in Tripoli before the Ottoman conquest."
+  },
+  {
+    "id": "ly-murzuq-fort-history-v2",
+    "name": "Murzuq Old Fort",
+    "desc": "A ruin of a massive Ottoman fort in the Fezzan, once a key bastion for trans-Saharan caravans."
+  },
+  {
+    "id": "ly-awjila-mosque-history-v2",
+    "name": "Awjila Old Mosque",
+    "desc": "One of the oldest mosques in the Sahara, famous for its unusual conical domes."
+  },
+  {
+    "id": "ly-gurgi-mosque-history-v2",
+    "name": "Gurgi Mosque",
+    "desc": "A beautifully decorated mosque in the heart of Tripoli, famous for its tile and marble work."
+  },
+  {
+    "id": "ly-karamanli-mosque-history-v2",
+    "name": "Karamanli Mosque",
+    "desc": "An Ottoman mosque in Tripoli with fine stucco decorations, built by Ahmed Karamanli."
+  },
+  {
+    "id": "ly-al-naga-mosque-history-v2",
+    "name": "Al-Naga Mosque",
+    "desc": "One of the oldest mosques in North Africa, rebuilt in 1610 following a fire."
+  },
+  {
+    "id": "ly-bir-hakeim-history-v2",
+    "name": "Bir Hakeim Battlefield",
+    "desc": "The site of a significant WWII battle where Free French forces heroically stood their ground."
+  },
+  {
+    "id": "ly-hospitaller-fort-benghazi-history-v2",
+    "name": "Hospitaller Fort (Benghazi)",
+    "desc": "Historical fort remains in Benghazi associated with the knightly orders and Ottoman rule."
+  },
+  {
+    "id": "ly-benghazi-cathedral-history-v2",
+    "name": "Benghazi Cathedral",
+    "desc": "A monumental abandoned building from the Italian colonial era, formerly the largest church in North Africa."
+  },
+  {
+    "id": "ly-jalu-old-fort-history-v2",
+    "name": "Jalu Old Fort",
+    "desc": "A traditional desert bastion that protected the important trade junction of Jalu."
+  },
+  {
+    "id": "ly-qasr-al-haj-history-v2",
+    "name": "Qasr Al-Haj",
+    "desc": "A huge circular fortified Berber granary, used to store the harvests of nomadic families."
+  },
+  {
+    "id": "tripoli-tower-landmarks-v2",
+    "name": "Tripoli Tower",
+    "desc": "One of the tallest buildings in Tripoli, originally known as the Al-Fateh Tower."
+  },
+  {
+    "id": "corinthia-hotel-tripoli-landmarks-v2",
+    "name": "Corinthia Hotel Tripoli",
+    "desc": "A 28-story five-star luxury hotel in the city center, a landmark of modern architecture."
+  },
+  {
+    "id": "dat-el-imad-landmarks-v2",
+    "name": "Dat El Imad Towers",
+    "desc": "A complex of five high-rise towers located in the central business district of Tripoli."
+  },
+  {
+    "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+    "name": "Gamal Abdel Nasser Mosque",
+    "desc": "A large mosque in Tripoli that was originally built as a Catholic cathedral during the colonial era."
+  },
+  {
+    "id": "martyrs-square-tripoli-landmarks-v2",
+    "name": "Martyrs",
+    "desc": "The central square and a historic landmark in Tripoli, site of numerous political events."
+  },
+  {
+    "id": "tripoli-stadium-landmarks-v2",
+    "name": "Tripoli Stadium",
+    "desc": "A large multi-purpose stadium used for football matches and athletics competitions."
+  },
+  {
+    "id": "benina-airport-terminal-landmarks-v2",
+    "name": "Benina Airport Terminal",
+    "desc": "The main terminal of Benina International Airport serving the Benghazi region."
+  },
+  {
+    "id": "tibesti-hotel-benghazi-landmarks-v2",
+    "name": "Tibesti Hotel",
+    "desc": "One of the most famous and largest hotels in Benghazi, named after the Tibesti Mountains."
+  },
+  {
+    "id": "benghazi-lighthouse-landmarks-v2",
+    "name": "Benghazi Lighthouse",
+    "desc": "A historic lighthouse in Benghazi, built during the Italian colonial period."
+  },
+  {
+    "id": "al-sahaba-mosque-derna-landmarks-v2",
+    "name": "Al-Sahaba Mosque",
+    "desc": "A prominent mosque in Derna, housing the graves of several companions of the Prophet Muhammad."
+  },
+  {
+    "id": "misrata-central-mosque-landmarks-v2",
+    "name": "Misrata Central Mosque",
+    "desc": "The main mosque of Misrata, known for its modern minarets and large prayer hall."
+  },
+  {
+    "id": "ouagadougou-conference-center-landmarks-v2",
+    "name": "Ouagadougou Conference Center",
+    "desc": "A massive architectural complex in Sirte, built to host international African summits."
+  },
+  {
+    "id": "zawiya-grand-mosque-landmarks-v2",
+    "name": "Zawiya Grand Mosque",
+    "desc": "A significant Islamic structure and religious center in the coastal city of Zawiya."
+  },
+  {
+    "id": "al-khums-lighthouse-landmarks-v2",
+    "name": "Al Khums Lighthouse",
+    "desc": "A prominent lighthouse at the port of Al Khums, guiding shipping along the historic coast."
+  },
+  {
+    "id": "brega-oil-terminal-landmarks-v2",
+    "name": "Brega Oil Terminal",
+    "desc": "A massive and economically vital industrial facility and port for Libya"
+  },
+  {
+    "id": "ras-lanuf-refinery-landmarks-v2",
+    "name": "Ras Lanuf Refinery",
+    "desc": "One of Libya"
+  },
+  {
+    "id": "fortezza-margherita-sabha-landmarks-v2",
+    "name": "Fortezza Margherita",
+    "desc": "An Italian colonial-era fortress on a hill overlooking Sabha, currently used as a military facility."
+  },
+  {
+    "id": "sabha-airport-terminal-landmarks-v2",
+    "name": "Sabha Airport Terminal",
+    "desc": "The main building of Sabha International Airport, serving as a key aviation hub for southern Libya."
+  },
+  {
+    "id": "al-asmarya-mosque-zliten-landmarks-v2",
+    "name": "Al-Asmariya Mosque",
+    "desc": "An important spiritual center in Zliten dedicated to Islamic scholarship."
+  },
+  {
+    "id": "shahat-grand-mosque-landmarks-v2",
+    "name": "Shahat Grand Mosque",
+    "desc": "The modern central mosque located near the ancient ruins of Cyrene."
+  },
+  {
+    "id": "al-baida-grand-mosque-landmarks-v2",
+    "name": "Al-Baida Grand Mosque",
+    "desc": "A prominent religious structure in the high-altitude city of Al-Baida."
+  },
+  {
+    "id": "omar-mukhtar-mausoleum-landmarks-v2",
+    "name": "Omar Mukhtar Mausoleum",
+    "desc": "A memorial site in Benghazi for the famous Libyan resistance fighter against Italian colonization."
+  },
+  {
+    "id": "tripoli-central-post-office-landmarks-v2",
+    "name": "Tripoli Central Post Office",
+    "desc": "A historic and architecturally significant building in the city center of Tripoli."
+  },
+  {
+    "id": "ghadames-grand-mosque-landmarks-v2",
+    "name": "Ghadames Grand Mosque",
+    "desc": "A spiritual center in the oasis city of Ghadames, located south of the historic old town."
+  },
+  {
+    "id": "benghazi-university-campus-landmarks-v2",
+    "name": "Benghazi University Campus",
+    "desc": "A massive educational and research complex, originally named Garyounis University."
+  },
+  {
+    "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+    "name": "Al-Majidiya Mosque",
+    "desc": "An elegant historical mosque near the old city of Tripoli, known for its detailed ornamentation."
+  },
+  {
+    "id": "tobruk-grand-mosque-landmarks-v2",
+    "name": "Tobruk Grand Mosque",
+    "desc": "The most important Islamic center in the eastern coastal city of Tobruk."
+  },
+  {
+    "id": "misrata-airport-terminal-landmarks-v2",
+    "name": "Misrata Airport Terminal",
+    "desc": "The civilian passenger terminal at Misrata Airport, an important aviation center for trade."
+  },
+  {
+    "id": "al-kish-square-mosque-landmarks-v2",
+    "name": "Al-Kish Square Mosque",
+    "desc": "A highly visible mosque on the popular Al-Kish Square in Benghazi."
+  },
+  {
+    "id": "benghazi-great-mosque-landmarks-v2",
+    "name": "Benghazi Great Mosque",
+    "desc": "The central and oldest mosque of the city of Benghazi, a place of great spiritual importance."
+  },
+  {
+    "id": "tripoli-zoo-life-v2",
+    "name": "Tripoli Zoo",
+    "desc": "A significant park with a variety of animals."
+  },
+  {
+    "id": "benghazi-zoo-life-v2",
+    "name": "Benghazi Zoo",
+    "desc": "A zoo in the coastal city of Benghazi."
+  },
+  {
+    "id": "misrata-park-life-v2",
+    "name": "Misrata City Park",
+    "desc": "A large park for relaxation and play."
+  },
+  {
+    "id": "djebel-nafusa-agri-life-v2",
+    "name": "Jebel Nafusa Olive Groves",
+    "desc": "Traditional olive growing region in the mountains."
+  },
+  {
+    "id": "gadamis-oasis-life-v2",
+    "name": "Ghadames Oasis",
+    "desc": "A green oasis with traditional cultivation."
+  },
+  {
+    "id": "kufra-orchard-life-v2",
+    "name": "Kufra Orchards",
+    "desc": "Irrigated gardens in the middle of the desert."
+  },
+  {
+    "id": "zawia-farm-life-v2",
+    "name": "Zawia Agricultural Zone",
+    "desc": "A significant area for farming."
+  },
+  {
+    "id": "gharyan-nursery-life-v2",
+    "name": "Gharyan Nursery",
+    "desc": "A center for seedlings and plants."
+  },
+  {
+    "id": "sebha-park-life-v2",
+    "name": "Sebha Family Park",
+    "desc": "A recreation park for families in the desert."
+  },
+  {
+    "id": "tubruq-garden-life-v2",
+    "name": "Tobruk City Garden",
+    "desc": "A green resting point in Tobruk."
+  },
+  {
+    "id": "al-baida-zoo-life-v2",
+    "name": "Al-Baida Zoo",
+    "desc": "A small zoo in Cyrenaica."
+  },
+  {
+    "id": "djebel-akhdar-farm-life-v2",
+    "name": "Jebel Akhdar Fruit Farming",
+    "desc": "Fruit farming area in the green mountains."
+  },
+  {
+    "id": "slonta-nursery-life-v2",
+    "name": "Slonta Nursery",
+    "desc": "Important nursery for the region."
+  },
+  {
+    "id": "jalu-oasis-farm-life-v2",
+    "name": "Jalu Oasis Farming",
+    "desc": "Traditional cultivation in the oasis."
+  },
+  {
+    "id": "awjila-orchard-life-v2",
+    "name": "Awjila Date Grove",
+    "desc": "Historical oasis with date farming."
+  },
+  {
+    "id": "tauergha-park-life-v2",
+    "name": "Tauergha Park",
+    "desc": "A recreational area in reconstruction."
+  },
+  {
+    "id": "homsh-city-park-life-v2",
+    "name": "Homs City Park",
+    "desc": "A shaded park near the coast."
+  },
+  {
+    "id": "sirte-family-life-v2",
+    "name": "Sirte Family Center",
+    "desc": "A meeting place for families in Sirte."
+  },
+  {
+    "id": "murzuq-oasis-life-v2",
+    "name": "Murzuq Oasis",
+    "desc": "Traditional farming in the desert."
+  },
+  {
+    "id": "ghat-oasis-life-v2",
+    "name": "Ghat Oasis Farming",
+    "desc": "Farming at the edge of Tassili n"
+  },
+  {
+    "id": "zwara-green-belt-life-v2",
+    "name": "Zwara Green Belt",
+    "desc": "An agricultural protected area."
+  },
+  {
+    "id": "darj-oasis-life-v2",
+    "name": "Darj Oasis Gardens",
+    "desc": "Small gardens in the Libyan desert."
+  },
+  {
+    "id": "nalut-terrace-life-v2",
+    "name": "Nalut Terrace Farming",
+    "desc": "Historical terrace fields on the mountain."
+  },
+  {
+    "id": "jufra-orchard-life-v2",
+    "name": "Jufra Palm Groves",
+    "desc": "Large-scale cultivation of date palms."
+  },
+  {
+    "id": "tarhuna-nursery-life-v2",
+    "name": "Tarhuna Seedling Center",
+    "desc": "A facility for young fruit trees."
+  },
+  {
+    "id": "msallata-olive-life-v2",
+    "name": "Msallata Olive Plantations",
+    "desc": "Important olive region near the coast."
+  },
+  {
+    "id": "ghat-family-life-v2",
+    "name": "Ghat Family Square",
+    "desc": "A central place for families in Ghat."
+  },
+  {
+    "id": "bin-jawad-park-life-v2",
+    "name": "Bin Jawad Leisure Park",
+    "desc": "A park at the edge of the gulf."
+  },
+  {
+    "id": "al-azizia-agri-life-v2",
+    "name": "Al-Azizia Farmland",
+    "desc": "Fertile farmland south of Tripoli."
+  },
+  {
+    "id": "zintan-orchard-life-v2",
+    "name": "Zintan Orchard",
+    "desc": "A small orchard in the mountains."
+  },
+  {
+    "id": "wadi-al-hayat-nature-v2",
+    "name": "Wadi al-Hayat",
+    "desc": "A desert valley in the Sahara."
+  },
+  {
+    "id": "jebel-akhdar-nature-v2",
+    "name": "Jebel Akhdar",
+    "desc": "A mountain range in northeastern Libya."
+  },
+  {
+    "id": "lake-gaberoun-nature-v2",
+    "name": "Gaberoun Lake",
+    "desc": "A salt lake in the middle of the Sahara."
+  },
+  {
+    "id": "mandara-lakes-nature-v2",
+    "name": "Mandara Lakes",
+    "desc": "A group of salt lakes in the desert."
+  },
+  {
+    "id": "jebel-nafusa-nature-v2",
+    "name": "Jebel Nafusa",
+    "desc": "A mountain plateau in northwestern Libya."
+  },
+  {
+    "id": "gar-al-marah-nature-v2",
+    "name": "Gar al-Marah",
+    "desc": "A prominent elevation in the Green Mountain."
+  },
+  {
+    "id": "ubari-sand-sea-nature-v2",
+    "name": "Ubari Sand Sea",
+    "desc": "A large area with sand dunes."
+  },
+  {
+    "id": "gargaf-mountains-nature-v2",
+    "name": "Gargaf Mountains",
+    "desc": "A desert mountain range."
+  },
+  {
+    "id": "mizdah-plateau-nature-v2",
+    "name": "Mizdah Plateau",
+    "desc": "A flat plateau."
+  },
+  {
+    "id": "al-hamada-al-hamra-nature-v2",
+    "name": "Al-Hamada al-Hamra",
+    "desc": "An extensive stone desert."
+  },
+  {
+    "id": "tibesti-foothills-nature-v2",
+    "name": "Tibesti Foothills",
+    "desc": "The foothills of the Tibesti mountains in Libya."
+  },
+  {
+    "id": "sarir-tanezrouft-nature-v2",
+    "name": "Sarir Tanezrouft",
+    "desc": "A part of the stone desert."
+  },
+  {
+    "id": "wadi-kuf-nature-v2",
+    "name": "Wadi al-Kuf",
+    "desc": "A significant valley in the northeast."
+  },
+  {
+    "id": "sirte-basin-nature-v2",
+    "name": "Sirte Basin",
+    "desc": "A large depression along the coast."
+  },
+  {
+    "id": "gulf-of-sidra-nature-v2",
+    "name": "Gulf of Sidra",
+    "desc": "An arm of the Mediterranean Sea."
+  },
+  {
+    "id": "al-haruj-nature-v2",
+    "name": "Al-Haruj",
+    "desc": "A large volcanic field."
+  },
+  {
+    "id": "jebel-aswad-nature-v2",
+    "name": "Jebel Aswad",
+    "desc": "A smaller mountain range in the desert."
+  },
+  {
+    "id": "wadi-zamzam-nature-v2",
+    "name": "Wadi Zamzam",
+    "desc": "A temporary riverbed."
+  },
+  {
+    "id": "al-kufra-basin-nature-v2",
+    "name": "Al-Kufra Basin",
+    "desc": "A large underground water basin."
+  },
+  {
+    "id": "jebel-uwaynat-nature-v2",
+    "name": "Jebel Uwaynat",
+    "desc": "A mountain on the border with Egypt."
+  },
+  {
+    "id": "wadi-al-ajal-nature-v2",
+    "name": "Wadi al-Ajal",
+    "desc": "A long valley at the edge of the sand sea."
+  },
+  {
+    "id": "gargaf-desert-nature-v2",
+    "name": "Gargaf Desert",
+    "desc": "A part of the central Sahara."
+  },
+  {
+    "id": "sirtica-desert-nature-v2",
+    "name": "Sirtica Desert",
+    "desc": "A desert area between Tripolitania and Cyrenaica."
+  },
+  {
+    "id": "wadi-mathendous-nature-v2",
+    "name": "Wadi Mathendous",
+    "desc": "A wadi with rock engravings."
+  },
+  {
+    "id": "jebel-soda-nature-v2",
+    "name": "Jebel Soda",
+    "desc": "A volcanic mountain."
+  },
+  {
+    "id": "fezzan-desert-nature-v2",
+    "name": "Fezzan Desert",
+    "desc": "A large desert region in the southwest."
+  },
+  {
+    "id": "cyrenaica-coast-nature-v2",
+    "name": "Cyrenaica Coast",
+    "desc": "The northern Mediterranean coast."
+  },
+  {
+    "id": "wadi-farigh-nature-v2",
+    "name": "Wadi al-Farigh",
+    "desc": "A large valley in the desert."
+  },
+  {
+    "id": "jebel-tarhuna-nature-v2",
+    "name": "Jebel Tarhuna",
+    "desc": "A mountain range south of Tripoli."
+  },
+  {
+    "id": "ghat-mountains-nature-v2",
+    "name": "Ghat Mountains",
+    "desc": "Mountains on the Algerian border."
+  },
+  {
+    "id": "jebel-akdar-highlands-relief-v2",
+    "name": "Jebel Akhdar Highlands",
+    "desc": "A mountain massif in northeastern Libya."
+  },
+  {
+    "id": "gargaf-range-relief-v2",
+    "name": "Gargaf Range",
+    "desc": "A remote mountain range in the desert."
+  },
+  {
+    "id": "jebel-soda-relief-v2",
+    "name": "Jebel Soda Mountains",
+    "desc": "A volcanic mountain massif."
+  },
+  {
+    "id": "tibesti-foothills-relief-v2",
+    "name": "Tibesti Foothills",
+    "desc": "Northern foothills of the Tibesti Mountains."
+  },
+  {
+    "id": "jebel-uwaynat-relief-v2",
+    "name": "Jebel Uwaynat",
+    "desc": "An isolated mountain massif at the border."
+  },
+  {
+    "id": "jebel-tarhuna-relief-v2",
+    "name": "Jebel Tarhuna",
+    "desc": "A mountain range south of Tripoli."
+  },
+  {
+    "id": "sirte-basin-relief-v2",
+    "name": "Sirte Basin",
+    "desc": "A large geological sedimentary basin."
+  },
+  {
+    "id": "al-haruj-relief-v2",
+    "name": "Al-Haruj",
+    "desc": "A vast volcanic plateau."
+  },
+  {
+    "id": "al-hamada-al-hamra-relief-v2",
+    "name": "Al-Hamada al-Hamra",
+    "desc": "A stone desert (Hamada) in western Libya."
+  },
+  {
+    "id": "jebel-nafusa-relief-v2",
+    "name": "Jebel Nafusa",
+    "desc": "A rugged mountain plateau in Tripolitania."
+  },
+  {
+    "id": "jebel-aswad-relief-v2",
+    "name": "Jebel Aswad",
+    "desc": "The "
+  },
+  {
+    "id": "wadi-al-kuf-relief-v2",
+    "name": "Wadi al-Kuf",
+    "desc": "A significant wadi (valley) in Cyrenaica."
+  },
+  {
+    "id": "wadi-al-ajal-relief-v2",
+    "name": "Wadi al-Ajal",
+    "desc": "A long valley in Fezzan."
+  },
+  {
+    "id": "wadi-zamzam-relief-v2",
+    "name": "Wadi Zamzam",
+    "desc": "A large dry valley."
+  },
+  {
+    "id": "wadi-mathendous-relief-v2",
+    "name": "Wadi Mathendous",
+    "desc": "Famous for its rock engravings."
+  },
+  {
+    "id": "wadi-al-farigh-relief-v2",
+    "name": "Wadi al-Farigh",
+    "desc": "A dry valley basin."
+  },
+  {
+    "id": "sarir-tanezrouft-relief-v2",
+    "name": "Sarir Tanezrouft",
+    "desc": "An extensive gravel desert area."
+  },
+  {
+    "id": "gaberoun-lake-relief-v2",
+    "name": "Gaberoun Lake",
+    "desc": "A salt lake in a sand desert."
+  },
+  {
+    "id": "mandara-lakes-relief-v2",
+    "name": "Mandara Lakes",
+    "desc": "Several salt lakes in the Ubari Desert."
+  },
+  {
+    "id": "ubari-sand-sea-relief-v2",
+    "name": "Ubari Sand Sea",
+    "desc": "A huge Erg desert."
+  },
+  {
+    "id": "kufra-basin-relief-v2",
+    "name": "Al-Kufra Basin",
+    "desc": "Large basin in the southeast."
+  },
+  {
+    "id": "gar-al-marah-relief-v2",
+    "name": "Gar al-Marah",
+    "desc": "A distinctive elevation."
+  },
+  {
+    "id": "sirtica-desert-relief-v2",
+    "name": "Sirtica Desert",
+    "desc": "A desert area south of the Gulf of Sidra."
+  },
+  {
+    "id": "gargaf-desert-relief-v2",
+    "name": "Gargaf Desert",
+    "desc": "The desert areas around the Gargaf Mountains."
+  },
+  {
+    "id": "cyrenaica-coast-relief-v2",
+    "name": "Cyrenaica Coast",
+    "desc": "The coastal region of Cyrenaica."
+  }
+]

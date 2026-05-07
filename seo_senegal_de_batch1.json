@@ -1,0 +1,337 @@
+{
+  "lang": "de",
+  "country": "senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "thies-cities-v2",
+      "descriptionAdvanced": "Thiès ist die drittgrößte Stadt Senegals und ein entscheidender Verkehrsknotenpunkt, der Dakar mit dem Landesinneren verbindet. Historisch gewachsen als bedeutendes Zentrum der Eisenbahnindustrie, beherbergt die Stadt die berühmte Manufaktur 'Manufactures Sénégalaises des Arts Décoratifs', die für ihre weltweit geschätzten Wandteppiche bekannt ist. Thiès ist zudem ein Bildungsstandort mit mehreren Fachhochschulen und Militärakademien. Die Stadt hat eine starke gewerkschaftliche Tradition, die besonders während der Streiks der Eisenbahner im Jahr 1947 deutlich wurde. Heute profitiert Thiès von seiner strategischen Lage und der Nähe zum internationalen Flughafen Blaise Diagne, was sie zu einem attraktiven Standort für Handel und Leichtindustrie macht. Geographie K7 — Städtische Entwicklung in Westafrika.",
+      "factsAdvanced": [
+        "Thiès liegt etwa 70 Kilometer östlich der Hauptstadt Dakar.",
+        "Die Stadt wurde 1864 als französischer Militärposten gegründet.",
+        "Hier befindet sich die Ecole Nationale Supérieure d'Agriculture.",
+        "Die Wandteppich-Manufaktur wurde 1966 auf Initiative von Senghor gegründet.",
+        "Thiès war Schauplatz des großen Eisenbahnerstreiks von 1947.",
+        "Die Stadt dient als Tor zur Region des Erdnussbeckens.",
+        "Der Bahnhof von Thiès war einst der wichtigste Knotenpunkt der Region.",
+        "Thiès beherbergt das Regionalmuseum im ehemaligen Fort."
+      ]
+    },
+    {
+      "id": "rufisque-cities-v2",
+      "descriptionAdvanced": "Rufisque ist eine historische Hafenstadt an der Südküste der Cap-Vert-Halbinsel und war einst eine der vier ursprünglichen 'communes' des kolonialen Senegals. Während des 19. und frühen 20. Jahrhunderts war sie der wichtigste Hafen für den Export von Erdnüssen, dem Haupthandelsprodukt des Landes. Die Stadt bewahrt noch heute zahlreiche Gebäude im Kolonialstil, die von ihrer glanzvollen Handelsvergangenheit zeugen. In der Moderne hat sich Rufisque zu einem industriellen Zentrum entwickelt, in dem unter anderem die große Zementfabrik SOCOCIM ansässig ist. Die Stadt kämpft jedoch mit der Küstenerosion, die Teile der historischen Bausubstanz bedroht. Als Teil der Metropolregion Dakar fungiert Rufisque als wichtiges Bindeglied im Wirtschaftsgefüge des Landes. Geschichte K8 — Koloniale Handelszentren.",
+      "factsAdvanced": [
+        "Rufisque wurde im 16. Jahrhundert als portugiesischer Posten 'Rio Fresco' bekannt.",
+        "Sie erhielt 1880 den Status einer französischen Kommune.",
+        "Die Stadt war bis in die 1920er Jahre das Zentrum des Erdnusshandels.",
+        "Hier befindet sich das Stadion Ngalandou Diouf.",
+        "Rufisque liegt etwa 25 Kilometer von Dakar entfernt.",
+        "Die SOCOCIM-Fabrik ist einer der größten Arbeitgeber der Region.",
+        "Der Name leitet sich vom portugiesischen Begriff für 'Frisches Wasser' ab.",
+        "Historische Lagerhäuser prägen noch immer das Stadtbild am Ufer."
+      ]
+    },
+    {
+      "id": "kaolack-cities-v2",
+      "descriptionAdvanced": "Kaolack liegt am Fluss Saloum und ist das pulsierende Herz des senegalesischen Erdnussgürtels. Als bedeutender Flusshafen und Handelszentrum spielt die Stadt eine Schlüsselrolle in der nationalen Wirtschaft, insbesondere bei der Verarbeitung und dem Export von Erdnüssen und Salz. Kaolack ist zudem ein bedeutendes religiöses Zentrum, da sie die Heimat der Medina Baye ist, eines der wichtigsten Viertel für die Anhänger der Tijaniyya-Bruderschaft weltweit. Die Große Moschee von Kaolack mit ihren blauen Minaretten ist ein weithin sichtbares Wahrzeichen. Die Stadt ist für ihre lebhaften Märkte bekannt, auf denen Waren aus ganz Westafrika gehandelt werden. Trotz ihrer wirtschaftlichen Bedeutung steht Kaolack vor Herausforderungen durch Versalzung und Umweltbelastung im Saloum-Delta. Sachkunde K6 — Rohstoffwirtschaft und Handel.",
+      "factsAdvanced": [
+        "Kaolack beherbergt den größten überdachten Markt Westafrikas.",
+        "Die Stadt ist das Zentrum der senegalesischen Salzgewinnung.",
+        "Hier befindet sich die heilige Stätte Medina Baye von Ibrahima Niass.",
+        "Der Hafen liegt etwa 100 Kilometer landeinwärts am Saloum-Fluss.",
+        "Kaolack ist ein wichtiger Verkehrsknotenpunkt für Reisen nach Gambia.",
+        "Die Region produzierte über ein Drittel der senegalesischen Erdnussernte.",
+        "Die Große Moschee wurde in den 1930er Jahren begonnen.",
+        "Kaolack hat eines der heißesten Klimata im Senegal."
+      ]
+    },
+    {
+      "id": "port-autonome-de-dakar-economic-v2",
+      "descriptionAdvanced": "Der Autonome Hafen von Dakar (PAD) ist das wirtschaftliche Rückgrat Senegals und einer der leistungsfähigsten Tiefwasserhäfen an der westafrikanischen Küste. Dank seiner strategischen Lage am westlichsten Punkt Afrikas dient er als Kreuzungspunkt für die großen Seewege zwischen Europa, den Amerikas und Afrika. Der Hafen umfasst spezialisierte Terminals für Container, Mineralien, Ölprodukte und Fischerei. Er spielt eine entscheidende Rolle für die Versorgung der Binnenländer der Sahelzone, insbesondere Malis, für das er als wichtigster Zugang zum Weltmarkt fungiert. In den letzten Jahren wurden massive Investitionen in die Modernisierung der Infrastruktur getätigt, um die Abfertigungskapazitäten zu erhöhen und die Logistikketten zu digitalisieren. Der Hafen trägt signifikant zum Bruttoinlandsprodukt des Landes bei. Wirtschaft K8 — Globale Handelswege und Infrastruktur.",
+      "factsAdvanced": [
+        "Der Hafen von Dakar wurde offiziell im Jahr 1862 gegründet.",
+        "Er verfügt über einen Tiefgang von bis zu 13 Metern.",
+        "Jährlich werden hier über 20 Millionen Tonnen Güter umgeschlagen.",
+        "Der Hafen ist der größte Arbeitgeber im öffentlichen Sektor Senegals.",
+        "Dakar ist ein wichtiger Bunkerhafen für die Schifffahrt im Atlantik.",
+        "Das Containerterminal wird von DP World betrieben.",
+        "Über 90 % des senegalesischen Außenhandels laufen über diesen Hafen.",
+        "Der Fischereihafen ist einer der bedeutendsten in Westafrika."
+      ]
+    },
+    {
+      "id": "sabodala-gold-mine-economic-v2",
+      "descriptionAdvanced": "Die Sabodala-Goldmine im Südosten Senegals, nahe der Grenze zu Mali, ist das größte industrielle Goldbergwerk des Landes. Seit dem Beginn der kommerziellen Produktion im Jahr 2009 hat die Mine die wirtschaftliche Landschaft der Region Kédougou grundlegend verändert. Das Projekt wird im Tagebau betrieben und verfügt über hochmoderne Verarbeitungsanlagen zur Goldgewinnung. Sabodala ist ein wesentlicher Bestandteil der nationalen Strategie zur Diversifizierung der Wirtschaft weg von der Landwirtschaft hin zum Bergbau. Neben der direkten Goldförderung investiert das Unternehmen in soziale Projekte wie Schools und Gesundheitszentren in den umliegenden Dörfern. Der Bergbau in dieser Region erfordert jedoch ein sorgfältiges Umweltmanagement, um die empfindlichen Ökosysteme zu schützen. Sachkunde K7 — Bergbau und natürliche Ressourcen.",
+      "factsAdvanced": [
+        "Die Mine befindet sich etwa 650 Kilometer südöstlich von Dakar.",
+        "Sabodala wird von der Firma Endeavour Mining betrieben.",
+        "Die jährliche Goldproduktion liegt bei über 200.000 Unzen.",
+        "Es ist die erste Goldmine im industriellen Maßstab im Senegal.",
+        "Die Mine beschäftigt über 1.000 Mitarbeiter, vorwiegend Senegalesen.",
+        "Die Reserven werden auf mehrere Millionen Unzen Gold geschätzt.",
+        "Der Bergbausektor trägt etwa 4 % zum BIP des Landes bei.",
+        "In der Nähe befinden sich auch zahlreiche handwerkliche Goldgräberstätten."
+      ]
+    },
+    {
+      "id": "port-ziguinchor-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ziguinchor ist das maritime Tor zur Casamance-Region im Süden Senegals. Er liegt am Ufer des Casamance-Flusses, etwa 60 Kilometer landeinwärts vom Atlantik entfernt. Der Hafen ist von entscheidender Bedeutung für die regionale Wirtschaft, da er den Transport von Passagieren und Gütern zwischen der isolierten südlichen Region und der Hauptstadt Dakar sicherstellt. Besonders wichtig ist die Fährverbindung, die eine lebenswichtige Alternative zum Landweg über Gambia darstellt. Exportseitig werden über Ziguinchor vor allem landwirtschaftliche Produkte wie Cashewnüsse, Mangos und Holz sowie Meeresfrüchte verschifft. Die Modernisierung des Hafens in den letzten Jahren hat dazu beigetragen, die regionale Integration zu verbessern und die wirtschaftliche Entwicklung in Südsenegal anzukurbeln. Geographie K7 — Regionale Verkehrsknotenpunkte.",
+      "factsAdvanced": [
+        "Die Fähre 'Aline Sitoe Diatta' verbindet Ziguinchor zweimal wöchentlich mit Dakar.",
+        "Der Hafen wurde während der französischen Kolonialzeit stark ausgebaut.",
+        "Cashewnüsse sind das wichtigste Exportgut des Hafens.",
+        "Die Fahrt von der Flussmündung bis zum Hafen dauert etwa 4-5 Stunden.",
+        "Der Hafen dient als Basis für die lokale Fischereiflotte.",
+        "Ziguinchor ist der zweitwichtigste Hafen des Landes.",
+        "Die Schifffahrt auf dem Casamance-Fluss ist tideabhängig.",
+        "Der Hafen wurde 2018 modernisiert, um größere Schiffe aufzunehmen."
+      ]
+    },
+    {
+      "id": "port-kaolack-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Kaolack ist ein spezialisierter Binnenhafen am Fluss Saloum, der tief in das landwirtschaftliche Herz des Senegals hineinreicht. Er ist untrennbar mit der Geschichte und dem Erfolg der Erdnussindustrie verbunden, da er jahrzehntelang als Hauptumschlagplatz für die Erdnussernte des 'Bassin Arachidier' diente. Neben Erdnussprodukten werden hier große Mengen an Salz verschifft, das in den nahegelegenen Salzpfannen gewonnen wird. Die Schifffahrt auf dem Saloum ist aufgrund von Versandung eine technologische Herausforderung und erfordert regelmäßige Baggerarbeiten, um den Zugang für Küstenmotorschiffe zu gewährleisten. Trotz der Konkurrenz durch den Straßentransport bleibt der Hafen ein strategisches Element für den kostengünstigen Export schwerer Güter aus der Zentralregion Senegals. Wirtschaft K6 — Agrarhandel und Logistik.",
+      "factsAdvanced": [
+        "Der Hafen liegt am rechten Ufer des Flusses Saloum.",
+        "Er wurde im späten 19. Jahrhundert als Hauptexporthafen für Erdnüsse etabliert.",
+        "Die Distanz zum Atlantik beträgt über den kurvenreichen Fluss etwa 100 km.",
+        "Salz ist heute eines der Hauptgüter, die hier verladen werden.",
+        "Der Hafen ist direkt an die nationale Eisenbahnlinie angebunden.",
+        "Kaolack war einst einer der geschäftigsten Häfen Westafrikas.",
+        "Die Versalzung des Flusses beeinträchtigt die Ökologie der Region.",
+        "Der Hafen wird von der staatlichen Hafenbehörde PAD verwaltet."
+      ]
+    },
+    {
+      "id": "gco-diogo-mine-economic-v2",
+      "descriptionAdvanced": "Die Grande Côte Operations (GCO) in Diogo betreiben eine der weltweit bedeutendsten Mineralsandminen. Entlang der nordwestlichen Küste Senegals werden Zirkon, Ilmenit, Rutil und Leukoxen aus den Küstendünen gewonnen. Diese Mineralien finden breite Anwendung in der Keramikindustrie, in Farbpigmenten und in der Metallurgie. Das Projekt nutzt ein innovatives Baggersystem auf einem künstlichen See, um den Sand zu fördern, gefolgt von einer komplexen Trennanlage. GCO hat eine eigene 100 Kilometer lange Eisenbahnlinie gebaut, um die Konzentrate zum Hafen von Dakar zu transportieren. Die Mine leistet einen erheblichen Beitrag zu den Exporteinnahmen des Landes und setzt hohe Standards in Bezug auf die Renaturierung der abgebauten Dünenflächen. Sachkunde K8 — Moderne Industrieprozesse und Rohstoffe.",
+      "factsAdvanced": [
+        "Das Projekt befindet sich etwa 150 Kilometer nördlich von Dakar.",
+        "Zirkon aus Diogo wird weltweit für hochwertige Keramik verwendet.",
+        "GCO wird mehrheitlich von der französischen Eramet-Gruppe kontrolliert.",
+        "Die Mine produziert jährlich etwa 750.000 Tonnen Mineralsande.",
+        "Die Förderkonzession erstreckt sich über 100 Kilometer entlang der Küste.",
+        "Für den Transport wurde eine historische Bahnstrecke reaktiviert.",
+        "Etwa 90 % der Angestellten sind senegalesische Staatsbürger.",
+        "Die Mine nutzt Solarenergie zur Unterstützung ihres Betriebs."
+      ]
+    },
+    {
+      "id": "sococim-rufisque-economic-v2",
+      "descriptionAdvanced": "SOCOCIM Industries in Rufisque ist die älteste und größte Zementfabrik Senegals sowie ein Pionier der Schwerindustrie in Westafrika. Seit ihrer Gründung im Jahr 1948 hat sie den Bauboom des Landes und der gesamten Region entscheidend unterstützt. Die Fabrik nutzt lokale Kalksteinvorkommen zur Herstellung von hochwertigem Klinker und Zement. In den letzten Jahren hat SOCOCIM massiv in ökologische Modernisierungen investiert, darunter eine eigene Photovoltaikanlage und die Nutzung von Biomasse (wie Cashew-Schalen) zur Befeuerung der Öfen, um den CO2-Fußabdruck zu reduzieren. Als Teil der Vicat-Gruppe ist das Werk ein bedeutender Arbeitgeber in Rufisque und ein wichtiger Faktor für die nationale Infrastrukturentwicklung, von Autobahnen bis hin zu modernen Wohngebäuden. Wirtschaft K8 — Industrielle Produktion und Nachhaltigkeit.",
+      "factsAdvanced": [
+        "SOCOCIM wurde im Jahr 1948 gegründet.",
+        "Die Produktionskapazität liegt bei über 3,5 Millionen Tonnen Zement pro Jahr.",
+        "Das Werk verfügt über eine der größten Solaranlagen für Eigenverbrauch in Afrika.",
+        "Kalkstein wird in unmittelbarer Nähe im Tagebau abgebaut.",
+        "SOCOCIM exportiert Zement in mehrere Nachbarländer Westafrikas.",
+        "Die Fabrik ist nach ISO-Standards für Qualität und Umwelt zertifiziert.",
+        "Sie ist ein wichtiger Sponsor für lokale soziale und kulturelle Projekte.",
+        "Der markante Schornstein ist ein Wahrzeichen der Stadt Rufisque."
+      ]
+    },
+    {
+      "id": "ics-darou-khoudoss-economic-v2",
+      "descriptionAdvanced": "Die Industries Chimiques du Sénégal (ICS) in Darou Khoudoss bilden den größten Industriekomplex des Landes. Hier werden die reichhaltigen Phosphatvorkommen der Region abgebaut und zu Phosphorsäure und Düngemitteln weiterverarbeitet. Phosphat ist eines der wichtigsten Exportgüter Senegals und erzielt weltweit bedeutende Einnahmen. Die ICS betreiben einen integrierten Prozess vom Tagebau bis zur chemischen Veredelung. Ein Großteil der Produktion wird über den Hafen von Dakar nach Indien verschifft, wo der Bedarf an Düngemitteln für die Landwirtschaft extrem hoch ist. Die Anlage ist ein Motor für die regionale Entwicklung in der Region Thiès, stellt jedoch auch hohe Anforderungen an die Wasserversorgung und den Umweltschutz in der Umgebung. Chemie K8 — Industrielle Chemie und Landwirtschaft.",
+      "factsAdvanced": [
+        "Die ICS wurden 1976 gegründet, um die Phosphatvorkommen zu nutzen.",
+        "Indorama ist der Hauptaktionär des Unternehmens.",
+        "Senegal gehört zu den weltweit führenden Produzenten von Kalziumphosphat.",
+        "Die Anlage produziert jährlich über 1 Million Tonnen Phosphorsäure.",
+        "Ein eigener Verladeterminal befindet sich im Hafen von Dakar.",
+        "Phosphatgestein wird in Darou Khoudoss und Taïba abgebaut.",
+        "Das Unternehmen ist der wichtigste Exporteur Senegals nach Asien.",
+        "ICS betreibt eigene Kraftwerke zur Energieversorgung der Fabrik."
+      ]
+    },
+    {
+      "id": "ciments-du-sahel-economic-v2",
+      "descriptionAdvanced": "Les Ciments du Sahel in Kirène ist eine der modernsten Zementfabriken Westafrikas und ein wichtiger Akteur im senegalesischen Bausektor. Seit der Inbetriebnahme im Jahr 2002 hat das Unternehmen maßgeblich dazu beigetragen, das Monopol auf dem Zementmarkt zu brechen und die Preise für Baumaterialien zu stabilisieren. Das Werk liegt strategisch günstig in der Nähe großer Kalksteinvorkommen in der Region Thiès. Mit hochmodernen Filteranlagen und effizienten Brennverfahren setzt das Unternehmen auf eine umweltfreundlichere Produktion. Die Ciments du Sahel exportieren einen beachtlichen Teil ihrer Produktion in die Binnenländer wie Mali und Burkina Faso und unterstützen so die regionale Integration im Rahmen der ECOWAS. Wirtschaft K7 — Wettbewerb und Infrastruktur.",
+      "factsAdvanced": [
+        "Die Fabrik befindet sich in Kirène, etwa 50 km von Dakar entfernt.",
+        "Die Produktion startete im November 2002.",
+        "Die Kapazität wurde auf über 3 Millionen Tonnen pro Jahr ausgebaut.",
+        "Das Unternehmen ist vollständig in privater Hand.",
+        "Kalkstein und Ton werden in werkseigenen Steinbrüchen gewonnen.",
+        "Ciments du Sahel verfügt über eine eigene Fahrzeugflotte für den Export.",
+        "Das Werk hat zur Entwicklung des Dorfes Kirène beigetragen.",
+        "Zement aus Kirène wird für den Bau des neuen Flughafens verwendet."
+      ]
+    },
+    {
+      "id": "dangote-cement-pout-economic-v2",
+      "descriptionAdvanced": "Die Dangote-Zementfabrik in Pout ist das dritte große Zementwerk Senegals und Teil des Imperiums des nigerianischen Milliardärs Aliko Dangote. Seit ihrer Eröffnung im Jahr 2015 hat sie den Wettbewerb auf dem nationalen Markt weiter verschärft. Die Fabrik ist bekannt für ihre moderne Technologie und die Produktion von hochwertigem 42,5-Grad-Zement, der besonders für Großprojekte und Brückenbau geeignet ist. Das Werk verfügt über ein eigenes Kohlekraftwerk, um eine unabhängige und stabile Energieversorgung sicherzustellen. Dangote Cement in Pout ist ein wichtiges Beispiel für innerafrikanische Investitionen und spielt eine Schlüsselrolle bei der Bereitstellung von Baumaterialien für die ambitionierten Infrastrukturprojekte des 'Plan Sénégal Emergent'. Geographie K8 — Wirtschaftliche Integration in Afrika.",
+      "factsAdvanced": [
+        "Das Werk wurde mit einer Investition von über 300 Millionen Euro errichtet.",
+        "Die jährliche Kapazität beträgt 1,5 Millionen Tonnen Zement.",
+        "Es befindet sich in der Region Thiès, nahe der Stadt Pout.",
+        "Das werkseigene Kraftwerk hat eine Leistung von 30 Megawatt.",
+        "Dangote Cement beschäftigt mehrere hundert lokale Mitarbeiter.",
+        "Die Fabrik nutzt modernste Robotertechnik zur Qualitätskontrolle.",
+        "Das Unternehmen engagiert sich in der Aufforstung der Umgebung.",
+        "Pout ist zudem ein bekanntes Zentrum für Obsthandel (Mangos)."
+      ]
+    },
+    {
+      "id": "sar-refinery-mbao-economic-v2",
+      "descriptionAdvanced": "Die Société Africaine de Raffinage (SAR) in Mbao ist die einzige Erdölraffinerie Senegals und eine strategische Einrichtung für die Energiesicherheit des Landes. Seit ihrer Gründung im Jahr 1963 verarbeitet sie importiertes Rohöl zu Benzin, Diesel, Kerosin und Butangas für den heimischen Markt. Die SAR spielt eine zentrale Rolle bei der Versorgung der Kraftwerke der Senelec und der Luftfahrt am Flughafen Dakar. Angesichts der jüngsten Erdölfunde vor der Küste Senegals (Sangomar-Feld) durchläuft die Raffinerie ein umfassendes Modernisierungsprogramm, um in Zukunft auch heimisches Rohöl verarbeiten zu können. Dies soll die Abhängigkeit von Importen verringern und die Energiekosten senken. Chemie K8 — Erdölverarbeitung und Energie.",
+      "factsAdvanced": [
+        "Die SAR wurde 1963, kurz nach der Unabhängigkeit, gegründet.",
+        "Die Raffinerie liegt direkt am Meer bei Mbao, östlich von Dakar.",
+        "Sie deckt einen großen Teil des senegalesischen Bedarfs an Erdölprodukten.",
+        "Butangas aus der SAR ist das wichtigste Kochmittel in städtischen Haushalten.",
+        "Die Anlage ist über Pipelines mit dem Hafen von Dakar verbunden.",
+        "Die Kapazität liegt bei etwa 1,2 Millionen Tonnen Rohöl pro Jahr.",
+        "Hauptaktionäre sind der Staat Senegal und die Firma Petrosen.",
+        "Modernisierungen sollen die Produktion von Euro-5-Kraftstoffen ermöglichen."
+      ]
+    },
+    {
+      "id": "taiba-ndiaye-wind-farm-economic-v2",
+      "descriptionAdvanced": "Der Windpark Parc Eolien Taiba Ndiaye (PETN) ist ein Meilenstein für die erneuerbaren Energien in Westafrika. Mit einer installierten Leistung von fast 158 Megawatt ist er das größte Projekt seiner Art in der Region. Die 46 riesigen Windturbinen nutzen die stetigen Passatwinde an der senegalesischen Küste, um sauberen Strom für das nationale Netz zu produzieren. Dieses Projekt trägt wesentlich dazu bei, den Energiemix des Landes zu diversifizieren und die Abhängigkeit von teuren fossilen Brennstoffen zu verringern. Neben der Stromerzeugung investiert der Windpark massiv in lokale Entwicklungsprojekte, wie den Bau von Schulen, Märkten und die Unterstützung der lokalen Landwirtschaft. Taiba Ndiaye ist ein Vorzeigeprojekt für die grüne Transformation Senegals. Physik K8 — Windenergie und Stromerzeugung.",
+      "factsAdvanced": [
+        "Der Windpark wurde im Jahr 2020 offiziell eingeweiht.",
+        "Er besteht aus 46 Vestas-Windturbinen mit jeweils 3,45 MW Leistung.",
+        "Die Nabenhöhe der Turbinen beträgt 117 Meter.",
+        "PETN deckt etwa 15 % des gesamten Strombedarfs von Senegal.",
+        "Es werden jährlich über 300.000 Tonnen CO2-Emissionen eingespart.",
+        "Das Projekt wurde vom Unternehmen Lekela Power entwickelt.",
+        "Der Windpark befindet sich etwa 90 Kilometer nordöstlich von Dakar.",
+        "Die Lebensdauer der Anlage ist auf mindestens 20 Jahre ausgelegt."
+      ]
+    },
+    {
+      "id": "cap-des-biches-power-station-economic-v2",
+      "descriptionAdvanced": "Das Kraftwerk Cap des Biches in Rufisque ist eine der wichtigsten Säulen der Stromversorgung der Metropolregion Dakar. Als thermisches Kraftwerk nutzt es verschiedene fossile Brennstoffe, um die Grundlast des senegalesischen Netzes zu decken. In den letzten Jahren wurde der Standort durch hocheffiziente neue Einheiten erweitert, darunter ein kombiniertes Gas-und-Dampf-Kraftwerk (GuD), das in Zukunft mit dem vor der Küste geförderten Erdgas betrieben werden soll. Cap des Biches ist entscheidend, um Stromausfälle in der Hauptstadt zu verhindern und das industrielle Wachstum voranzutreiben. Die Anlage wird von Senelec und unabhängigen Stromproduzenten (IPPs) betrieben und ständig modernisiert, um strengere Emissionsstandards einzuhalten. Technik K8 — Kraftwerkstypen und Stromnetz.",
+      "factsAdvanced": [
+        "Cap des Biches liegt strategisch günstig an der Bucht von Hann.",
+        "Die Anlage verfügt über mehrere Generationen von Generatoren.",
+        "Ein neues 130-MW-Kraftwerk wurde hier 2022 in Betrieb genommen.",
+        "West African Energy baut dort eine der größten GuD-Anlagen der Region.",
+        "Die Nähe zur SAR-Raffinerie erleichtert die Brennstoffversorgung.",
+        "Es ist ein zentraler Knotenpunkt im 225-kV-Übertragungsnetz.",
+        "Cap des Biches war Schauplatz wichtiger Pionierarbeit in der Elektrotechnik.",
+        "Die Umstellung auf Erdgas ('Gas-to-Power') ist in vollem Gange."
+      ]
+    },
+    {
+      "id": "css-richard-toll-economic-v2",
+      "descriptionAdvanced": "Die Compagnie Sucrière Sénégalaise (CSS) in Richard Toll ist der einzige integrierte Zuckerproduzent Senegals und einer der größten privaten Arbeitgeber des Landes. Inmitten der trockenen Sahel-Landschaft im Norden hat das Unternehmen eine riesige grüne Oase geschaffen, indem es Wasser aus dem Senegal-Fluss zur Bewässerung von über 12.000 Hektar Zuckerrohrfeldern nutzt. Die CSS betreibt eine eigene Fabrik zur Zuckerherstellung und produziert zudem Ethanol aus Melasse. Das Unternehmen sichert die nationale Selbstversorgung mit Zucker und exportiert Überschüsse in die Region. Richard Toll hat sich dank der CSS von einem kleinen Dorf zu einer bedeutenden Industriestadt entwickelt. Die soziale Verantwortung des Unternehmens umfasst Krankenhäuser und Schulen für die Tausenden von Angestellten. Biologie K7 — Bewässerungsfeldbau und Nutzpflanzen.",
+      "factsAdvanced": [
+        "Die CSS wurde 1970 von der Familie Mimran gegründet.",
+        "Das Unternehmen beschäftigt während der Erntezeit über 8.000 Menschen.",
+        "Jährlich werden über 150.000 Tonnen Zucker produziert.",
+        "Das Bewässerungssystem nutzt hunderte Kilometer Kanäle.",
+        "Die Fabrik erzeugt ihren eigenen Strom aus Bagasse (Pflanzenreste).",
+        "Richard Toll liegt direkt an der Grenze zu Mauretanien.",
+        "Die Zuckerrohrernte dauert etwa sechs Monate (Campagne).",
+        "CSS betreibt eine der modernsten Destillerien Westafrikas."
+      ]
+    },
+    {
+      "id": "port-saint-louis-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Saint-Louis ist ein geschichtsträchtiger Ort an der Mündung des Senegal-Flusses. Einst ein wichtiger Handelsknotenpunkt für Gummi arabicum und Sklaven, dient er heute hauptsächlich dem handwerklichen Fischfang. Die Fischer von Guet Ndar, dem bevölkerungsreichsten Viertel der Stadt, nutzen den Hafen als Basis für ihre farbenprächtigen Pirogen. Der Hafen steht vor großen geographischen Herausforderungen, insbesondere der gefährlichen 'Barre' – einer Sandbank an der Flussmündung, die die Navigation erschwert. Im Rahmen der Entwicklung der Offshore-Gasfelder (Greater Tortue Ahmeyim) wird der Hafen derzeit modernisiert, um als Versorgungsbasis für die Energieindustrie zu dienen, was Saint-Louis eine neue wirtschaftliche Zukunft jenseits des Fischfangs und Tourismus eröffnen könnte. Geschichte K7 — Wandel von Hafenstädten.",
+      "factsAdvanced": [
+        "Saint-Louis war der erste französische Handelsposten in Westafrika (1659).",
+        "Der Hafen liegt auf einer schmalen Sandzunge zwischen Fluss und Ozean.",
+        "Die Fischer von Saint-Louis gehören zu den geschicktesten der Welt.",
+        "Ein künstlicher Durchstich der Langue de Barbarie veränderte 2003 die Dynamik.",
+        "Jährlich werden hier tausende Tonnen Fisch angelandet.",
+        "Der Hafen ist bekannt für seine historische Kaimauer aus der Kolonialzeit.",
+        "Das neue Gas-Versorgungsprojekt soll hunderte Arbeitsplätze schaffen.",
+        "Die Fischverarbeitung ist ein wichtiger Erwerbszweig für Frauen vor Ort."
+      ]
+    },
+    {
+      "id": "diamniadio-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark von Diamniadio (PPD) ist das Vorzeigeprojekt der neuen Stadt Diamniadio and ein zentraler Pfeiler des 'Plan Sénégal Emergent'. Ziel dieser Sonderwirtschaftszone ist es, die industrielle Basis Senegals zu verbreitern und ausländische Investitionen in Sektoren wie Textil, Pharmazie und Elektronikmontage anzuziehen. Der Park bietet modernste Infrastruktur, Steuervergünstigungen und eine exzellente Anbindung an den neuen Flughafen und den Hafen von Dakar. Durch die Ansiedlung von Fabriken sollen tausende Arbeitsplätze für die junge Bevölkerung geschaffen und die Importabhängigkeit des Landes verringert werden. Der PPD ist ein Symbol für den Übergang Senegals zu einer modernen, exportorientierten Wirtschaft und dient als Modell für weitere Industriezonen im Land. Wirtschaft K8 — Strukturwandel und Industrialisierung.",
+      "factsAdvanced": [
+        "Die erste Phase des Parks wurde im Jahr 2018 eingeweiht.",
+        "Der PPD bietet 'Ready-to-use'-Fabrikhallen für Investoren.",
+        "Er wird von der staatlichen Agentur APROSI verwaltet.",
+        "Mehrere internationale Firmen, darunter aus China, haben sich bereits angesiedelt.",
+        "Der Park liegt direkt am Autobahnkreuz Dakar-Thiès-Mbour.",
+        "Es gelten vereinfachte Zoll- und Verwaltungsmodalitäten.",
+        "Nachhaltigkeit wird durch ökologische Baustandards gefördert.",
+        "Der Park ist Teil eines größeren urbanen Entwicklungskonzepts."
+      ]
+    },
+    {
+      "id": "matam-phosphates-economic-v2",
+      "descriptionAdvanced": "Die Phosphatmine von Matam im fernen Nordosten Senegals erschließt eines der bedeutendsten Rohstoffvorkommen des Landes außerhalb des Küstengebiets. Die Vorkommen in der Region Ndendory sind von hoher Qualität und spielen eine strategische Rolle für die Entwicklung des Agrarsektors im Senegal-Flusstal. Durch den Abbau vor Ort wird die Produktion von Düngemitteln dezentralisiert, was den Bauern im Norden kostengünstigen Zugang zu essenziellen Nährstoffen ermöglicht. Das Projekt fördert die regionale Infrastruktur, einschließlich Straßenbau und Elektrifizierung in einer bisher eher abgelegenen Region. Die Phosphatförderung in Matam ist ein wichtiger Baustein für die nationale Ernährungssicherheit und stärkt die industrielle Präsenz im Hinterland. Sachkunde K7 — Bodenfruchtbarkeit und Düngung.",
+      "factsAdvanced": [
+        "Die Vorkommen in Matam werden auf über 40 Millionen Tonnen geschätzt.",
+        "Das Projekt wird von der Société Minière de Matam (SOMIVA) betrieben.",
+        "Die Mine wurde etwa im Jahr 2010 in Betrieb genommen.",
+        "Das Phosphat wird unter anderem für die lokale Landwirtschaft genutzt.",
+        "Matam liegt etwa 700 Kilometer von der Hauptstadt Dakar entfernt.",
+        "Der Abbau erfolgt im umweltschonenden Tagebau.",
+        "Die Region profitiert von verbesserten Logistikverbindungen zum Fluss.",
+        "Das Projekt schafft Arbeitsplätze in einer strukturschwachen Zone."
+      ]
+    },
+    {
+      "id": "bokhol-solar-plant-economic-v2",
+      "descriptionAdvanced": "Das Solarkraftwerk Senergy 2 in Bokhol ist ein Pionierprojekt für erneuerbare Energien in Senegal und ganz Westafrika. Bei seiner Eröffnung im Jahr 2016 war es die größte Photovoltaikanlage der Region. In der sonnenreichen Region Saint-Louis gelegen, speist das Kraftwerk saubere Energie in das nationale Netz ein und versorgt umgerechnet zehntausende Haushalte mit Strom. Das Projekt wurde in Rekordzeit errichtet und markierte den Beginn einer ambitionierten Energiewende unter dem Motto 'Mix Energétique'. Bokhol zeigt, wie moderne Technologie genutzt werden kann, um die Stromlücke in ländlichen Gebieten zu schließen und gleichzeitig die Klimaziele zu erreichen. Die Anlage hat zudem zur Entwicklung der lokalen Infrastruktur und zur Schaffung grüner Arbeitsplätze geführt. Physik K8 — Photovoltaik und Solarenergie.",
+      "factsAdvanced": [
+        "Die Anlage hat eine installierte Leistung von 20 Megawatt (MW).",
+        "Sie besteht aus etwa 75.000 Solarmodulen auf einer Fläche von 40 Hektar.",
+        "Bokhol wurde in nur sieben Monaten Bauzeit fertiggestellt.",
+        "Das Projekt spart jährlich etwa 23.000 Tonnen CO2 ein.",
+        "Es war das erste unabhängige Solarprojekt (IPP) im Senegal.",
+        "Die Investitionskosten beliefen sich auf ca. 25 Millionen Euro.",
+        "Bokhol liegt in der Nähe des Senegal-Flusses.",
+        "Die Anlage wird fernüberwacht, um die Effizienz zu optimieren."
+      ]
+    },
+    {
+      "id": "malicounda-solar-plant-economic-v2",
+      "descriptionAdvanced": "Das Solarkraftwerk Malicounda in der Nähe von Mbour ist ein weiteres wichtiges Glied in Senegals Kette von Projekten für erneuerbare Energien. Die 22-Megawatt-Anlage wurde durch eine innovative Partnerschaft zwischen internationalen Investoren und der lokalen Gemeinde Malicounda realisiert, wobei die Gemeinde direkt am Gewinn beteiligt ist. Dieser Ansatz stellt sicher, dass die lokale Bevölkerung unmittelbar von der Energiewende profitiert. Das Kraftwerk nutzt die hohe Sonneneinstrahlung der Region Petite Côte und trägt dazu bei, die Abhängigkeit von Ölimporten für die Stromerzeugung zu senken. Malicounda ist ein Paradebeispiel für nachhaltige Energieprojekte, die soziale Akzeptanz und ökologische Notwendigkeit miteinander verbinden. Sachkunde K8 — Erneuerbare Energien und Bürgerbeteiligung.",
+      "factsAdvanced": [
+        "Die Anlage wurde im November 2016 eingeweiht.",
+        "Sie liefert Strom für etwa 11.000 Haushalte.",
+        "Die Gemeinde Malicounda hält einen Anteil von 5 % am Projekt.",
+        "Die Photovoltaik-Module erstrecken sich über 100 Hektar Land.",
+        "Das Projekt wurde teilweise durch Crowdfunding und lokale Kredite finanziert.",
+        "Malicounda spart jährlich ca. 25.000 Tonnen CO2 ein.",
+        "Es war eines der ersten Projekte im Rahmen der Scaling Solar-Initiative.",
+        "Die Anlage ist direkt an das 225-kV-Umspannwerk von Mbour angeschlossen."
+      ]
+    },
+    {
+      "id": "mako-gold-mine-economic-v2",
+      "descriptionAdvanced": "Die Mako-Goldmine ist ein bedeutendes Bergbauprojekt in der Region Kédougou im Südosten Senegals. Seit dem Produktionsstart im Jahr 2018 hat sie sich als eine der effizientesten Minen des Landes etabliert. Besonders bemerkenswert ist die Lage der Mine am Ufer des Gambia-Flusses und in unmittelbarer Nähe zum UNESCO-Weltkulturerbe Niokolo-Koba-Nationalpark. Aufgrund dieser sensiblen Lage unterliegt die Mako-Mine strengsten Umwelt- und Sozialstandards, einschließlich Programmen zum Schutz von Schimpansen und Flusspferden. Die Mine wird von Petowal Mining Company (einer Tochter von Resolute Mining) betrieben und leistet einen wesentlichen Beitrag zur lokalen Beschäftigung und zur wirtschaftlichen Belebung des Südostens. Sachkunde K7 — Bergbau und Naturschutz.",
+      "factsAdvanced": [
+        "Die erste Goldbarre wurde im Januar 2018 gegossen.",
+        "Die Mine produziert jährlich durchschnittlich 140.000 Unzen Gold.",
+        "Mako wird als Tagebaumine mit einer eigenen Verarbeitungsanlage betrieben.",
+        "Über 90 % der Belegschaft sind senegalesische Staatsbürger.",
+        "Das Unternehmen hat über 1.000 Hektar Land als Ausgleichsfläche geschützt.",
+        "Die geschätzte Minenlebensdauer liegt bei etwa 7 bis 9 Jahren.",
+        "Das Projekt umfasst ein umfangreiches Programm zur Wasseraufbereitung.",
+        "Kédougou ist das Zentrum des sogenannten 'Gold-Deltas' Senegals."
+      ]
+    },
+    {
+      "id": "sonacos-kaolack-economic-v2",
+      "descriptionAdvanced": "Die SONACOS-Fabrik in Kaolack (ehemals SUNEOR) ist das industrielle Herz der senegalesischen Erdnusswirtschaft. Als größte Erdnussöl-Raffinerie Westafrikas verarbeitet sie die Ernten von zehntausenden Kleinbauern aus dem Umland. Der Komplex umfasst Anlagen zur Schälung der Nüsse, zur Ölgewinnung und zur Raffination. Erdnussöl ist ein traditionelles Exportgut Senegals und ein Grundnahrungsmittel in der lokalen Küche. Die SONACOS spielt eine entscheidende Rolle für die nationale Ernährungssouveränität und die Stabilisierung der Einkommen im ländlichen Raum. Trotz wirtschaftlicher Umstrukturierungen bleibt der Standort Kaolack aufgrund seiner zentralen Lage und der Anbindung an den Flusshafen unverzichtbar für die Wertschöpfungskette der Erdnuss. Wirtschaft K7 — Industrielle Verarbeitung von Agrarprodukten.",
+      "factsAdvanced": [
+        "SONACOS steht für 'Société Nationale de Commercialisation des Oléagineux'.",
+        "Der Standort Kaolack-Lyndiane ist der größte des Unternehmens.",
+        "Erdnusskuchen (Viehfutter) ist ein wichtiges Nebenprodukt der Produktion.",
+        "Die Fabrik hat eine Verarbeitungskapazität von mehreren hundert Tonnen pro Tag.",
+        "Die Erdnussindustrie war jahrzehntelang der wichtigste Devisenbringer Senegals.",
+        "In der Fabrik arbeiten während der Hochsaison zahlreiche Saisonkräfte.",
+        "Kaolack gilt als die 'Hauptstadt der Erdnuss'.",
+        "Das Unternehmen wird staatlich unterstützt, um die Erzeugerpreise zu sichern."
+      ]
+    }
+  ]
+}

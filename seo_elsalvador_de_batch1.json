@@ -1,0 +1,39 @@
+{
+  "lang": "de",
+  "country": "elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorEconomicV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorHistoryV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorLifeV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorNatureV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soyapango-cities-v2",
+      "descriptionAdvanced": "Soyapango zählt zu den bedeutendsten urbanen Zentren im Großraum San Salvador und fungiert als pulsierendes industrielles Herzstück. Die Stadt beherbergt eine Vielzahl von Produktionsstätten, die maßgeblich zum lokalen Arbeitsmarkt beitragen, und ist zugleich ein zentraler Knotenpunkt für den Handel. Das im Jahr 1996 eröffnete Einkaufszentrum Plaza Mundo markierte einen Wendepunkt für den Einzelhandel in der Region und zieht täglich ein riesiges Publikum an. Trotz der Herausforderungen, die mit der hohen Bevölkerungsdichte einhergehen, treibt die Stadt kontinuierlich Infrastrukturprojekte voran, um die Lebensqualität ihrer Bewohner nachhaltig zu steigern. Geografie K7 — Urbanisierung und wirtschaftliche Zentren.",
+      "factsAdvanced": [
+        "Soyapango gilt als industrielles Zentrum für Konsumgüter in El Salvador.",
+        "Das Einkaufszentrum Plaza Mundo erstreckt sich über eine riesige Fläche und bietet über 300 Geschäfte.",
+        "Die Einwohnerzahl übersteigt die Marke von 250.000 Menschen auf relativ engem Raum.",
+        "Die strategische Lage zwischen der Hauptstadt und östlichen Regionen macht es zum Logistikstandort.",
+        "Soyapango wandelte sich in den letzten Jahrzehnten von einem landwirtschaftlichen Vorort zur modernen Industriestadt.",
+        "Die städtische Entwicklung investiert zunehmend in öffentliche Parks zur Freizeitgestaltung."
+      ]
+    },
+    {
+      "id": "mejicanos-cities-v2",
+      "descriptionAdvanced": "Die Stadt Mejicanos liegt unmittelbar nördlich der Hauptstadt San Salvador und besticht durch eine lebendige kulturelle Identität. Weithin bekannt ist der Ort für sein traditionelles Gericht 'Yuca con Chicharrón', welches die lokale Gastronomie prägt und jährlich bei speziellen Volksfesten gefeiert wird. Das Stadtbild wird durch emsige Märkte bestimmt, auf denen regionale Waren und frische Erzeugnisse direkt angeboten werden, was die Gemeinde zu einem authentischen Abbild des salvadorianischen Alltagslebens macht. Die historische Entwicklung der Stadt ist eng mit dem Wachstum San Salvadors verwoben. Geschichte K6 — Kulturelle Traditionen und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Die Stadt ist landesweit berühmt für ihr traditionelles Yuca-Gericht.",
+        "Mejicanos liegt auf einer Höhe von etwa 750 Metern über dem Meeresspiegel.",
+        "Der lokale Markt von Mejicanos gehört zu den ältesten und betriebsamsten im Großraum.",
+        "Jährliche Festivals zelebrieren die gastronomische Vielfalt der Region.",
+        "Die Stadt fungiert als wichtige Wohngegend für Tausende von Pendlern der Hauptstadt.",
+        "Die Architektur zeigt eine Mischung aus historischen Gebäuden und modernerem Ausbau."
+      ]
+    }
+  ]
+}

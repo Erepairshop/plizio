@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "walvis-bay-cities-v2",
+    "name": "Walvis Bay",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "swakopmund-cities-v2",
+    "name": "Swakopmund",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "oshakati-cities-v2",
+    "name": "Oshakati",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "rehoboth-cities-v2",
+    "name": "Rehoboth",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "katima-mulilo-cities-v2",
+    "name": "Katima Mulilo",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "ondangwa-cities-v2",
+    "name": "Ondangwa",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "okahandja-cities-v2",
+    "name": "Okahandja",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "keetmanshoop-cities-v2",
+    "name": "Keetmanshoop",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "tsumeb-cities-v2",
+    "name": "Tsumeb",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "gobabis-cities-v2",
+    "name": "Gobabis",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "grootfontein-cities-v2",
+    "name": "Grootfontein",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "luderitz-cities-v2",
+    "name": "L\u00fcderitz",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "mariental-cities-v2",
+    "name": "Mariental",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "outjo-cities-v2",
+    "name": "Outjo",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "karasburg-cities-v2",
+    "name": "Karasburg",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "karibib-cities-v2",
+    "name": "Karibib",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "omaruru-cities-v2",
+    "name": "Omaruru",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "otjiwarongo-cities-v2",
+    "name": "Otjiwarongo",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "eenhana-cities-v2",
+    "name": "Eenhana",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "opuwo-cities-v2",
+    "name": "Opuwo",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "ongwediva-cities-v2",
+    "name": "Ongwediva",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "oranjemund-cities-v2",
+    "name": "Oranjemund",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "usakos-cities-v2",
+    "name": "Usakos",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "outapi-cities-v2",
+    "name": "Outapi",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "helao-nafidi-cities-v2",
+    "name": "Helao Nafidi",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "nkurenkuru-cities-v2",
+    "name": "Nkurenkuru",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "henties-bay-cities-v2",
+    "name": "Henties Bay",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "arandis-cities-v2",
+    "name": "Arandis",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "otavi-cities-v2",
+    "name": "Otavi",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "bethanie-cities-v2",
+    "name": "Bethanie",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "ruacana-cities-v2",
+    "name": "Ruacana",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "maltahohe-cities-v2",
+    "name": "Maltah\u00f6he",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "khorixas-cities-v2",
+    "name": "Khorixas",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "kamanjab-cities-v2",
+    "name": "Kamanjab",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "okakarara-cities-v2",
+    "name": "Okakarara",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "aranos-cities-v2",
+    "name": "Aranos",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "stampriet-cities-v2",
+    "name": "Stampriet",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "gibeon-cities-v2",
+    "name": "Gibeon",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "aroab-cities-v2",
+    "name": "Aroab",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "koes-cities-v2",
+    "name": "Ko\u00ebs",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "warmbad-cities-v2",
+    "name": "Warmbad",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "rosh-pinah-cities-v2",
+    "name": "Rosh Pinah",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "noordoewer-cities-v2",
+    "name": "Noordoewer",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "aussenkehr-cities-v2",
+    "name": "Aussenkehr",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "aus-cities-v2",
+    "name": "Aus",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "uis-cities-v2",
+    "name": "Uis",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "okombahe-cities-v2",
+    "name": "Okombahe",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "omatjete-cities-v2",
+    "name": "Omatjete",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "kalkfeld-cities-v2",
+    "name": "Kalkfeld",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "hochfeld-cities-v2",
+    "name": "Hochfeld",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "witvlei-cities-v2",
+    "name": "Witvlei",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "leonardville-cities-v2",
+    "name": "Leonardville",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "epukiro-cities-v2",
+    "name": "Epukiro",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "aminuis-cities-v2",
+    "name": "Aminuis",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "oshikuku-cities-v2",
+    "name": "Oshikuku",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "okahao-cities-v2",
+    "name": "Okahao",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "tsandi-cities-v2",
+    "name": "Tsandi",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "bukalo-cities-v2",
+    "name": "Bukalo",
+    "file": "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts"
+  },
+  {
+    "id": "walvis-bay-hafen-economic-v2",
+    "name": "Port of Walvis Bay",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "luederitz-hafen-economic-v2",
+    "name": "Port of L\u00fcderitz",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "roessing-uranmine-economic-v2",
+    "name": "R\u00f6ssing Uranium Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "husab-uranmine-economic-v2",
+    "name": "Husab Uranium Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "langer-heinrich-mine-economic-v2",
+    "name": "Langer Heinrich Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "trekkopje-uranmine-economic-v2",
+    "name": "Trekkopje Uranium Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "ohorongo-zementwerk-economic-v2",
+    "name": "Ohorongo Cement Plant",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "skorpion-zinkmine-economic-v2",
+    "name": "Skorpion Zinc Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "rosh-pinah-zinkmine-economic-v2",
+    "name": "Rosh Pinah Zinc Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "navachab-goldmine-economic-v2",
+    "name": "Navachab Gold Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "otjikoto-goldmine-economic-v2",
+    "name": "Otjikoto Gold Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "tschudi-kupfermine-economic-v2",
+    "name": "Tschudi Copper Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "matchless-kupfermine-economic-v2",
+    "name": "Matchless Copper Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "otjihase-kupfermine-economic-v2",
+    "name": "Otjihase Copper Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "namdeb-oranjemund-economic-v2",
+    "name": "Namdeb Diamond Mining Oranjemund",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "elizabeth-bay-mine-economic-v2",
+    "name": "Elizabeth Bay Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "bogenfels-diamantenmine-economic-v2",
+    "name": "Bogenfels Diamond Mine",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "salzgewinnung-swakopmund-economic-v2",
+    "name": "Salt Company Swakopmund",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "walvis-bay-salzgewinnung-economic-v2",
+    "name": "Walvis Bay Salt Holdings",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "namwater-hauptsitz-economic-v2",
+    "name": "NamWater Headquarters",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "van-eck-kraftwerk-economic-v2",
+    "name": "Van Eck Power Station",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "ruacana-wasserkraftwerk-economic-v2",
+    "name": "Ruacana Hydroelectric Power Station",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "kudu-gasfeld-economic-v2",
+    "name": "Kudu Gas Field",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "omburu-solarkraftwerk-economic-v2",
+    "name": "Omburu Solar Power Station",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "erongo-entsalzungsanlage-economic-v2",
+    "name": "Erongo Desalination Plant",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "meatco-fleischfabrik-economic-v2",
+    "name": "Meatco Factory Windhoek",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "namibia-brauereien-economic-v2",
+    "name": "Namibia Breweries Limited",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "ebh-namibia-economic-v2",
+    "name": "Walvis Bay Shipyard",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "namdia-diamantenhandel-economic-v2",
+    "name": "Namdia Diamond Trade",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "dundee-precious-metals-tsumeb-economic-v2",
+    "name": "Tsumeb Copper Smelter",
+    "file": "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts"
+  },
+  {
+    "id": "kolmanskuppe-history-v2",
+    "name": "Kolmanskop Ghost Town",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "twyfelfontein-history-v2",
+    "name": "Twyfelfontein",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "christuskirche-history-v2",
+    "name": "Christ Church (Windhoek)",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "alte-feste-history-v2",
+    "name": "Alte Feste Fortress",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "heldenacker-history-v2",
+    "name": "Heroes' Acre",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "haifischinsel-history-v2",
+    "name": "Shark Island",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "felsenkirche-history-v2",
+    "name": "Felsenkirche",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "schloss-duwisib-history-v2",
+    "name": "Duwisib Castle",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "weisse-dame-history-v2",
+    "name": "White Lady of Brandberg",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "hoba-meteorit-history-v2",
+    "name": "Hoba Meteorite",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "franketurm-history-v2",
+    "name": "Franke Tower",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "fort-namutoni-history-v2",
+    "name": "Fort Namutoni",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "leuchtturm-swakopmund-history-v2",
+    "name": "Swakopmund Lighthouse",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "hohenzollernhaus-history-v2",
+    "name": "Hohenzollern Building",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "woermannhaus-history-v2",
+    "name": "Woermannhaus",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "eduard-bohlen-history-v2",
+    "name": "Eduard Bohlen Shipwreck",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "bogenfels-diamantensiedlung-history-v2",
+    "name": "Bogenfels Diamond Settlement",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "pomona-geisterstadt-history-v2",
+    "name": "Pomona Ghost Town",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "diaz-spitze-history-v2",
+    "name": "Diaz Point",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "nakambale-museum-history-v2",
+    "name": "Nakambale Museum",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "ombalantu-baobab-history-v2",
+    "name": "Ombalantu Baobab Tree",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "turnhalle-windhoek-history-v2",
+    "name": "Turnhalle Windhoek",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "schwerinsburg-history-v2",
+    "name": "Schwerinsburg",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "heinitzburg-history-v2",
+    "name": "Heinitzburg",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "tintenpalast-history-v2",
+    "name": "Tintenpalast",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "goerke-haus-history-v2",
+    "name": "Goerke House",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "marine-denkmal-history-v2",
+    "name": "Marine Memorial",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "apollo-11-hoehle-history-v2",
+    "name": "Apollo 11 Cave",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "altes-amtsgericht-history-v2",
+    "name": "Altes Amtsgericht",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "rheinische-missionskirche-history-v2",
+    "name": "Rhenish Mission Church",
+    "file": "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts"
+  },
+  {
+    "id": "christuskirche-windhoek-landmarks-v2",
+    "name": "Christ Church (Windhoek)",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "tintenpalast-landmarks-v2",
+    "name": "Tintenpalast",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "independence-memorial-museum-landmarks-v2",
+    "name": "Independence Memorial Museum",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "heroes-acre-windhoek-landmarks-v2",
+    "name": "Heroes' Acre",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "woermannhaus-landmarks-v2",
+    "name": "Woermannhaus",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "swakopmund-lighthouse-landmarks-v2",
+    "name": "Swakopmund Lighthouse",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "hohenzollernhaus-swakopmund-landmarks-v2",
+    "name": "Hohenzollern Building",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "felsenkirche-luderitz-landmarks-v2",
+    "name": "Felsenkirche L\u00fcderitz",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "goerke-haus-luderitz-landmarks-v2",
+    "name": "Goerke House",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "diaz-point-lighthouse-landmarks-v2",
+    "name": "Diaz Point Lighthouse",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "turnhalle-windhoek-landmarks-v2",
+    "name": "Turnhalle Building",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "alte-feste-windhoek-landmarks-v2",
+    "name": "Alte Feste",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "schwerinsburg-landmarks-v2",
+    "name": "Schwerinsburg",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "heinitzburg-landmarks-v2",
+    "name": "Heinitzburg",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "sanderburg-landmarks-v2",
+    "name": "Sanderburg",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "martin-luther-steam-tractor-landmarks-v2",
+    "name": "Martin Luther Steam Tractor",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "franke-tower-omaruru-landmarks-v2",
+    "name": "Franke Tower",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "fort-namutoni-landmarks-v2",
+    "name": "Fort Namutoni",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "okaukuejo-waterhole-tower-landmarks-v2",
+    "name": "Okaukuejo Water Tower",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "oorlog-memorial-okahandja-landmarks-v2",
+    "name": "Herero Heroes Memorial",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
+    "name": "Old Mine Commissariat (Tsumeb Museum)",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "grootfontein-old-fort-landmarks-v2",
+    "name": "Grootfontein Old Fort",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "sam-nujoma-stadium-landmarks-v2",
+    "name": "Sam Nujoma Stadium",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "owambo-campaign-memorial-landmarks-v2",
+    "name": "Owambo Campaign Memorial",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "kapps-hotel-luderitz-landmarks-v2",
+    "name": "Kapps Hotel Building",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "walvis-bay-pelican-point-lighthouse-landmarks-v2",
+    "name": "Pelican Point Lighthouse",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "keetmanshoop-railway-station-landmarks-v2",
+    "name": "Keetmanshoop Railway Station",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "rhenish-mission-church-walvis-bay-landmarks-v2",
+    "name": "Rhenish Mission Church Walvis Bay",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "katutura-state-hospital-landmarks-v2",
+    "name": "Katutura State Hospital",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "trans-namib-transport-museum-landmarks-v2",
+    "name": "Trans-Namib Transport Museum",
+    "file": "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  },
+  {
+    "id": "namibia-etosha-animal-habitat-life-v2",
+    "name": "Etosha National Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-namib-animal-habitat-life-v2",
+    "name": "Namib-Naukluft Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-waterberg-animal-habitat-life-v2",
+    "name": "Waterberg Plateau Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-cape-cross-animal-habitat-life-v2",
+    "name": "Cape Cross Seal Reserve",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-hardap-agriculture-life-v2",
+    "name": "Hardap Dam Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-tsumeb-agriculture-life-v2",
+    "name": "Tsumeb Farm Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-gobabis-agriculture-life-v2",
+    "name": "Gobabis Cattle Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-windhoek-kid-landmark-life-v2",
+    "name": "Windhoek Children's Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-swakopmund-kid-landmark-life-v2",
+    "name": "Swakopmund Aquarium",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-okahandja-kid-landmark-life-v2",
+    "name": "Okahandja Woodcarving Market",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-bwabwata-animal-habitat-life-v2",
+    "name": "Bwabwata National Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-mudumu-animal-habitat-life-v2",
+    "name": "Mudumu National Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-dorob-animal-habitat-life-v2",
+    "name": "Dorob National Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-kavango-agriculture-life-v2",
+    "name": "Kavango Farm Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-otjiwarongo-agriculture-life-v2",
+    "name": "Otjiwarongo Cattle Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-kalahari-animal-habitat-life-v2",
+    "name": "Kalahari Desert Reserve",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-fish-river-animal-habitat-life-v2",
+    "name": "Fish River Canyon Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-mariental-agriculture-life-v2",
+    "name": "Mariental Agricultural Hub",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-outjo-agriculture-life-v2",
+    "name": "Outjo Farming Area",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-rundu-agriculture-life-v2",
+    "name": "Rundu Agricultural Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-sesriem-kid-landmark-life-v2",
+    "name": "Sesriem Canyon Adventure",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-walvis-bay-kid-landmark-life-v2",
+    "name": "Walvis Bay Flamingo Park",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-tsumkwe-kid-landmark-life-v2",
+    "name": "Tsumkwe San Cultural Center",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-luderitz-kid-landmark-life-v2",
+    "name": "L\u00fcderitz Colonial History",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-caprivi-animal-habitat-life-v2",
+    "name": "Caprivi Wildlife Area",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-damaraland-animal-habitat-life-v2",
+    "name": "Damaraland Desert Elephants",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-spitzkoppe-kid-landmark-life-v2",
+    "name": "Spitzkoppe Adventure Rock",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-okavango-agriculture-life-v2",
+    "name": "Okavango Delta Proximity Region",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "namibia-aus-animal-habitat-life-v2",
+    "name": "Aus Desert Horses Area",
+    "file": "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  },
+  {
+    "id": "na-namib-desert-nature-v2",
+    "name": "Namib Desert",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-kalahari-desert-nature-v2",
+    "name": "Kalahari Desert",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-etosha-pan-nature-v2",
+    "name": "Etosha Pan",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-fish-river-canyon-nature-v2",
+    "name": "Fish River Canyon",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-orange-river-nature-v2",
+    "name": "Orange River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-kunene-river-nature-v2",
+    "name": "Kunene River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-epupa-falls-nature-v2",
+    "name": "Epupa Falls",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-brandberg-mountain-nature-v2",
+    "name": "Brandberg Mountain",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-spitzkoppe-nature-v2",
+    "name": "Spitzkoppe",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-waterberg-nature-v2",
+    "name": "Waterberg Plateau",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-skeletons-coast-nature-v2",
+    "name": "Skeleton Coast",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-cape-cross-nature-v2",
+    "name": "Cape Cross",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-dunes-sossusvlei-nature-v2",
+    "name": "Sossusvlei",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-dead-vlei-nature-v2",
+    "name": "Deadvlei",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-kuiseb-river-nature-v2",
+    "name": "Kuiseb River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-swakop-river-nature-v2",
+    "name": "Swakop River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-tsauchab-river-nature-v2",
+    "name": "Tsauchab River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-hoarusib-river-nature-v2",
+    "name": "Hoarusib River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-hoanib-river-nature-v2",
+    "name": "Hoanib River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-ugab-river-nature-v2",
+    "name": "Ugab River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-fish-river-nature-v2",
+    "name": "Fish River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-hardap-dam-nature-v2",
+    "name": "Hardap Dam",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-otjikoto-lake-nature-v2",
+    "name": "Otjikoto Lake",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-guinas-lake-nature-v2",
+    "name": "Guinas Lake",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-nylon-pool-nature-v2",
+    "name": "Nylon Pool",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-caprivi-floodplains-nature-v2",
+    "name": "Caprivi Floodplains",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-chobe-river-nature-v2",
+    "name": "Chobe River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-kwando-river-nature-v2",
+    "name": "Kwando River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-zambezi-river-nature-v2",
+    "name": "Zambezi River",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "na-erongo-mountains-nature-v2",
+    "name": "Erongo Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  },
+  {
+    "id": "namib-desert-relief-v2",
+    "name": "Namib Desert",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "kalahari-desert-relief-v2",
+    "name": "Kalahari Basin",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "brandberg-mountain-relief-v2",
+    "name": "Brandberg Massif",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "spitzkoppe-relief-v2",
+    "name": "Spitzkoppe",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "erongo-mountains-relief-v2",
+    "name": "Erongo Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "auas-mountains-relief-v2",
+    "name": "Auas Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "khomas-hochland-relief-v2",
+    "name": "Khomas Hochland",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "waterberg-plateau-relief-v2",
+    "name": "Waterberg Plateau",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "fish-river-canyon-relief-v2",
+    "name": "Fish River Canyon",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "aus-mountains-relief-v2",
+    "name": "Aus Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "tsau-khaeb-relief-v2",
+    "name": "Tsau //Khaeb",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "huns-mountains-relief-v2",
+    "name": "Huns Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "naukluft-mountains-relief-v2",
+    "name": "Naukluft Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "tiras-mountains-relief-v2",
+    "name": "Tiras Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "muhlo-mountains-relief-v2",
+    "name": "Khomas Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "otavi-mountains-relief-v2",
+    "name": "Otavi Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "zebra-mountains-relief-v2",
+    "name": "Zebra Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "baynes-mountains-relief-v2",
+    "name": "Baynes Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "hartmann-mountains-relief-v2",
+    "name": "Hartmann Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "grootberg-relief-v2",
+    "name": "Grootberg",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "epupa-falls-relief-v2",
+    "name": "Epupa Falls",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "khoe-khoe-mountains-relief-v2",
+    "name": "Khoe-Khoe Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "ongongo-relief-v2",
+    "name": "Ongongo Spring",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "palmwag-concession-relief-v2",
+    "name": "Palmwag Concession",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  },
+  {
+    "id": "urichab-relief-v2",
+    "name": "Urichab Mountains",
+    "file": "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  }
+]

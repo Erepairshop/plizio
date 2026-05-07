@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gateway-arch-landmarks-v2",
+      "descriptionAdvanced": "The Gateway Arch in St. Louis, Missouri, stands as a massive monument to the westward expansion of the United States. Designed by Eero Saarinen and completed in 1965, this 630-foot-tall stainless-steel catenary arch symbolizes the role of St. Louis as the historic 'Gateway to the West' for early pioneers and explorers like Lewis and Clark. The monument commemorates the Louisiana Purchase and the subsequent pioneers who journeyed through the city into the American interior. Today, it remains a globally recognized architectural icon, attracting millions of visitors who ascend to its peak for breathtaking panoramic views of the city and the Mississippi River, serving as a powerful link between national history and modern design. History K7 — Westward expansion and mid-century architecture.",
+      "factsAdvanced": [
+        "A 630-foot-tall stainless-steel catenary arch in St. Louis.",
+        "Designed by renowned architect Eero Saarinen, completed in 1965.",
+        "Symbolizes St. Louis as the historic 'Gateway to the West'.",
+        "Commemorates the Louisiana Purchase and the spirit of American pioneers.",
+        "Ascending the arch provides sweeping views of the Mississippi River.",
+        "One of the most iconic mid-century architectural monuments in the US."
+      ]
+    },
+    {
+      "id": "mount-rushmore-landmarks-v2",
+      "descriptionAdvanced": "Mount Rushmore National Memorial, located in the Black Hills of South Dakota, features the monumental carved faces of four iconic American presidents: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. Sculpted by Gutzon Borglum between 1927 and 1941, the massive granite sculpture was intended to represent the growth, development, and preservation of the United States. While internationally famous as a symbol of American leadership, the site is also marked by significant historical controversy, as the land was originally held by the Lakota Sioux people and was seized following broken treaty agreements. Today, it is an essential site for exploring the dual narratives of American democratic leadership and the ongoing struggle to honor Indigenous rights and land history. History K8 — Presidential leadership and American land history.",
+      "factsAdvanced": [
+        "Features the carved faces of four American presidents: Washington, Jefferson, Roosevelt, Lincoln.",
+        "Sculpted by Gutzon Borglum between 1927 and 1941.",
+        "Located in the Black Hills, a region sacred to the Lakota Sioux.",
+        "Symbolizes the growth, development, and preservation of the US.",
+        "Deeply controversial site due to the seizure of Indigenous Lakota land.",
+        "A monumental destination for understanding complex American democratic history."
+      ]
+    },
+    {
+      "id": "cloud-gate-landmarks-v2",
+      "descriptionAdvanced": "Cloud Gate, popularly known as 'The Bean,' is a monumental public sculpture by British-Indian artist Anish Kapoor located in Millennium Park, Chicago. Unveiled in 2006, the sculpture’s polished stainless-steel surface reflects Chicago’s famous skyline and the surrounding park, offering visitors distorted and interactive perspectives of their environment. Inspired by the qualities of liquid mercury, the 110-ton sculpture has quickly become one of the most beloved and photographed landmarks in the city. Its ability to engage the public through artistic reflection and playfulness highlights Chicago's commitment to large-scale public art in urban development. Today, Cloud Gate serves as a modern cultural anchor for Millennium Park and a favorite interactive landmark for visitors and residents alike. Kunst K7 — Public art and modern urban sculpture.",
+      "factsAdvanced": [
+        "A massive, polished stainless-steel sculpture by artist Anish Kapoor.",
+        "Popularly known as 'The Bean' due to its unique liquid-mercury shape.",
+        "Unveiled in 2006 in Millennium Park, a major center for Chicago public art.",
+        "Weighs 110 tons and creates iconic reflections of the Chicago skyline.",
+        "Designed to be interactive, encouraging visitors to walk around and beneath it.",
+        "One of the most visited and photographed landmarks in modern Chicago."
+      ]
+    }
+  ]
+}

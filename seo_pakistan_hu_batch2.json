@@ -1,0 +1,375 @@
+{
+  "lang": "hu",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "karachi-port-economic-v2",
+      "descriptionAdvanced": "A Karacsi kikötő Pakisztán legrégebbi és legnagyobb tengeri csomópontja, amely az ország nemzetközi tengeri kereskedelmének több mint 60 százalékát bonyolítja le. Az Arab-tenger partján fekvő komplexum természetes mélyvízi kikötőként már a 19. század közepén, a brit gyarmati uralom alatt stratégiai fontosságúvá vált. Ma egy gigantikus logisztikai bázis, mely hatalmas konténerterminálokkal, olajkikötőkkel és ipari zónákkal rendelkezik. Érdekesség, hogy a kikötő védelmét és nyugalmát a közeli Manora-sziget természetes hullámtörő gátja biztosítja. Wirtschaft K8 — a tengeri logisztika és a nemzetközi áruforgalom.",
+      "factsAdvanced": [
+        "A Karacsi Port Trust (KPT) 1886 óta irányítja a kikötő működését.",
+        "Az országos tengeri kereskedelem mintegy 60%-át bonyolítja le.",
+        "A kikötő a stratégiai fontosságú Hormuzi-szorostól nem messze található.",
+        "Évente több mint 50 millió tonna árut (cargo) mozgatnak itt meg.",
+        "A Manora-sziget védi a terminálokat az Arab-tenger erős hullámzásától.",
+        "A kikötőhöz hatalmas olaj- és gázterminálok (Keamari) is kapcsolódnak."
+      ]
+    },
+    {
+      "id": "gwadar-port-economic-v2",
+      "descriptionAdvanced": "A Gwadar kikötő Pakisztán modern gazdasági stratégiájának koronaékszere, a Beludzsisztán tartomány Arab-tengeri partvidékén. A Kína-Pakisztán Gazdasági Folyosó (CPEC) végpontjaként ez a mélyvízi kikötő Közép-Ázsia és Kína nyugati tartományainak leggyorsabb tengeri kijárata. Bár hivatalosan már 2007-ben átadták az első fázist, a valódi nagyszabású fejlesztések a kínai befektetésekkel indultak meg. A kikötő célja, hogy globális tranzitközponttá, szabadkereskedelmi övezetté és energiaközponttá váljon, radikálisan átalakítva a régió geopolitikai és gazdasági térképét. Wirtschaft K8 — globális kereskedelmi folyosók és geopolitika.",
+      "factsAdvanced": [
+        "A kikötő a Beludzsisztán tartomány délnyugati csücskében fekszik.",
+        "A CPEC (Kína-Pakisztán Gazdasági Folyosó) projekt legfőbb végpontja.",
+        "Első ütemét 2007-ben adták át, de folyamatos bővítés alatt áll.",
+        "Természetes mélyvízi kikötő, amely képes a legnagyobb konténerhajók fogadására.",
+        "A terület 1958-ig az Ománi Szultanátus exklávéja volt.",
+        "A tervek szerint egy új Szingapúrhoz vagy Dubajhoz hasonló szabadkereskedelmi övezet lesz."
+      ]
+    },
+    {
+      "id": "faisalabad-textile-industry-economic-v2",
+      "descriptionAdvanced": "Faisalabad városát gyakran Pakisztán Manchesterének hívják, hiszen az ország hatalmas textiliparának lüktető szíve. A város – amelyet eredetileg Lyallpur néven alapítottak az 1890-es években – ipari övezeteiben több ezer pamutmalom, szövöde, festőüzem és készruha-gyár működik. A környező pandzsábi régió gazdag gyapotföldjei biztosítják a nyersanyagot, míg a város infrastruktúrája a feldolgozást és az exportot. A pakisztáni exportbevételek jelentős hányada ebből az egyetlen városból származó textiltermékekből, ágyneműkből és ruházati cikkekből fakad. Wirtschaft K8 — a könnyűipar, a vertikális integráció és a textilgyártás.",
+      "factsAdvanced": [
+        "A várost ipari ereje miatt gyakran 'Pakisztán Manchesterének' hívják.",
+        "Itt összpontosul a pakisztáni textil- és ruházati export jelentős része.",
+        "Faisalabadban a pamutfonal-készítéstől a készruha-gyártásig minden fázis megtalálható.",
+        "A város egy központi óratorony (Ghanta Ghar) köré épült nyolc sugárúttal.",
+        "Az ipari zónák mellett itt működik az ország legrégebbi Agrártudományi Egyeteme (1906).",
+        "A textilipar mellett a festékgyártás és a vegyipar is kiemelkedő."
+      ]
+    },
+    {
+      "id": "sialkot-surgical-instruments-economic-v2",
+      "descriptionAdvanced": "Sialkot egy világhírű iparváros, amely egyedülálló módon uralja a sebészeti műszerek és sportfelszerelések globális piacát. A város kézműves fémfeldolgozó hagyományai a 19. századra nyúlnak vissza, amikor a helyi mesterek a brit kórházak számára kezdtek eszközöket kovácsolni. Ma Sialkot több mint 2000 gyártóüzemével a világ sebészeti és fogászati eszközeinek jelentős részét állítja elő. Különleges gazdasági modellje, hogy a város iparosai saját zsebből építették meg a Sialkot Nemzetközi Repülőteret, hogy megkönnyítsék a közvetlen exportot. Wirtschaft K8 — a specializált fémipar és a globális niche piacok.",
+      "factsAdvanced": [
+        "Sialkot a világ egyik legnagyobb sebészeti eszköz-gyártó központja.",
+        "A fémfeldolgozás helyi hagyománya a brit gyarmati időszakra vezethető vissza.",
+        "A város emellett a FIFA világbajnokságok hivatalos futballabdáinak gyártója is.",
+        "Az itteni gyárak rozsdamentes acélból készítenek precíziós orvosi eszközöket.",
+        "A helyi üzleti közösség saját finanszírozásból épített nemzetközi repülőteret.",
+        "A város exportja jelentősen hozzájárul Pakisztán nemzeti GDP-jéhez."
+      ]
+    },
+    {
+      "id": "thar-coalfield-mine-economic-v2",
+      "descriptionAdvanced": "A Thar szénmező Pakisztán energiabiztonságának egyik legfontosabb sarokköve, amely a szindh tartománybeli Thár-sivatag mélyén húzódik. A hatalmas kiterjedésű, lignit típusú szénkészletet 1992-ben fedezték fel, és a világ egyik legnagyobb kiaknázatlan szénmezőjeként tartják számon. A kitermelés csak a közelmúltban, a CPEC projektek keretében gyorsult fel, hatalmas nyíltvízi bányák és a bányák mellé épített széntüzelésű erőművek (mine-mouth power plants) kialakításával. Ez a gigaprojekt drasztikusan csökkenti az ország import energiahordozóktól való függőségét. Földrajz K8 — az energiahordozók, a bányászat és a sivatagi iparfejlesztés.",
+      "factsAdvanced": [
+        "A Thar szénmezőt hivatalosan a Pakisztáni Geológiai Intézet fedezte fel 1992-ben.",
+        "Becslések szerint mintegy 175 milliárd tonna lignit (barnaszén) található itt.",
+        "A világ egyik legnagyobb ismert szénkészlete egybefüggő területen.",
+        "A kitermelés nyíltfejtéses (open-pit) bányászati technológiával történik.",
+        "A helyszínen épült hőerőművek közvetlenül a bányából kapják a szenet.",
+        "A projekt drasztikusan csökkenti az ország energiafüggőségét az import olajtól."
+      ]
+    },
+    {
+      "id": "khewra-salt-mine-economic-v2",
+      "descriptionAdvanced": "A Khewra sóbánya a világ második legnagyobb és Pakisztán legrégebbi működő sóbányája, amely Pandzsáb tartományban, a Só-hegység (Salt Range) lábánál található. A legenda szerint a sót Kr. e. 326-ban Nagy Sándor hadseregének lovai fedezték fel, amikor a sziklákat nyalogatták. A bánya híres a gyönyörű, rózsaszínes árnyalatú himalájai sójáról. Ma egy kiterjedt, 18 föld alatti szintre osztott alagútrendszerből áll, amely évente több százezer tonna sót termel ki ipari és kulináris felhasználásra. Emellett a bánya belseje egyedi turisztikai attrakció is, kivilágított sószobrokkal és egy só-mecsettel. Wirtschaft K8 — ásványkincsek, bányászattörténet és ipari turizmus.",
+      "factsAdvanced": [
+        "Ez a világ második legnagyobb kiterjedésű működő sóbányája.",
+        "A helyi legenda szerint Nagy Sándor lovai fedezték fel a sóréteget Kr. e. 326-ban.",
+        "Évente több mint 350 ezer tonna rózsaszín 'himalájai' sót termelnek ki itt.",
+        "A bányában lévő alagutak összesített hossza meghaladja a 40 kilométert.",
+        "A bányában asztmaklinika is működik, kihasználva a sós mikroklímát.",
+        "A sóból épült, belülről kivilágított mecset a bánya egyik fő turistalátványossága."
+      ]
+    },
+    {
+      "id": "sui-gas-field-economic-v2",
+      "descriptionAdvanced": "A Sui gázmező Beludzsisztán tartomány Bugti körzetében fekszik, és Pakisztán ipari fejlődésének egyik legfontosabb motorja volt a 20. század második felében. Az 1952-ben felfedezett gigantikus földgázkészlet évtizedeken át az ország primer energiaellátásának alapját képezte, innen ered a pakisztáni szóhasználatban a 'Sui gas' (Sui gáz) kifejezés, amely a vezetékes földgáz szinonimájává vált. A mezőből induló több ezer kilométer hosszú csőhálózat biztosítja a fűtést és az ipari energiát Karacsitól egészen Lahorig. Földrajz K8 — a szénhidrogén-ipar és az országos energia-infrastruktúra.",
+      "factsAdvanced": [
+        "A gázmezőt 1952-ben fedezte fel a Pakistan Petroleum Limited (PPL).",
+        "Évtizedekig ez volt az ország egyedüli és legnagyobb földgázforrása.",
+        "A 'Sui gáz' kifejezés Pakisztánban a vezetékes gáz általános szinonimája lett.",
+        "A mező csúcstermelése idején a nemzeti gázigény több mint 80%-át fedezte.",
+        "A gázmező a hegyvidéki Beludzsisztán tartomány Bugti törzsi területén fekszik.",
+        "Hatalmas csővezetékrendszer épült ki Karacsi és a pandzsábi iparvárosok felé."
+      ]
+    },
+    {
+      "id": "tarbela-dam-energy-economic-v2",
+      "descriptionAdvanced": "A Tarbela-gát Pakisztán energiaellátásának gerince és a világ egyik legnagyobb föld- és kőgátja. Az Indus-folyón, Hajber-Pahtunhva tartományban 1976-ban átadott komplexum kettős célt szolgál: hatalmas vízerőműveinek köszönhetően Pakisztán legfőbb tisztaenergia-forrása, másrészt óriási víztározója (Tarbela-tó) létfontosságú a Pandzsáb és Szindh tartományok öntözéses mezőgazdasága számára. A gát méretei lenyűgözőek, a fő fal több mint 143 méter magas. A megújuló energiaforrásokba vetett bizalom miatt a gát kapacitását folyamatosan bővítik új turbinákkal. Földrajz K8 — a vízerőművek, a folyamszabályozás és a megújuló energia.",
+      "factsAdvanced": [
+        "A Tarbela-gát térfogatát tekintve a világ egyik legnagyobb föld- és kőgátja.",
+        "Az Indus folyó vizét duzzasztja fel, létrehozva a 250 négyzetkilométeres Tarbela-tavat.",
+        "A komplexum építése 1968-ban kezdődött és 1976-ban fejeződött be.",
+        "Kapacitása közel 4900 MW, de folyamatos bővítési projektek zajlanak.",
+        "A víztározó elengedhetetlen a pakisztáni mezőgazdaság aszályos időszakaiban.",
+        "A gát építésekor több mint 100 falut kellett kitelepíteni a régióból."
+      ]
+    },
+    {
+      "id": "lahore-knowledge-park-economic-v2",
+      "descriptionAdvanced": "A Lahore Tudáspark (Lahore Knowledge Park - LKPC) Pandzsáb tartomány jövőbe mutató gazdasági és oktatási gigaprojektje, amely a Szilícium-völgy mintájára jött létre. A park célja, hogy összekapcsolja az akadémiai szférát a csúcstechnológiai iparral, a biotechnológiával és az információtechnológiával. A Lahore külvárosában elterülő hatalmas terület egyetemkampuszokat, kutatóintézeteket, inkubátorházakat és globális IT-vállalatok kirendeltségeit foglalja magába. Ez az innovációs csomópont kulcsszerepet játszik Pakisztán átállásában a tudásalapú gazdaságra és a szoftverexport növelésében. Wirtschaft K8 — a tudásalapú gazdaság és az innovációs parkok.",
+      "factsAdvanced": [
+        "A projekt a technológiai ipar és a felsőoktatás összekapcsolására épül.",
+        "Lahore külvárosában, a DHA (Defence Housing Authority) közelében épül.",
+        "A park célja a szoftverfejlesztés, a biotechnológia és az IT-szolgáltatások fellendítése.",
+        "Nemzetközi és hazai egyetemek egyaránt kampuszokat nyitnak a területén.",
+        "A projekt része a pandzsábi kormány 'Vision 2025' gazdasági stratégiájának.",
+        "A cél egy dél-ázsiai Szilícium-völgy megteremtése a startupok számára."
+      ]
+    },
+    {
+      "id": "gawadar-special-economic-zone-economic-v2",
+      "descriptionAdvanced": "A Gwadar Különleges Gazdasági Övezet (SEZ) a Kína-Pakisztán Gazdasági Folyosó (CPEC) egyik legfontosabb ipari platformja. A mélyvízi kikötőhöz szorosan kapcsolódó több ezer hektáros területet úgy alakították ki, hogy adókedvezményekkel, vámszabad lehetőségekkel és modern infrastruktúrával vonzza be a nemzetközi, elsősorban kínai gyártókat. Az övezetben finomítók, acélfeldolgozó üzemek, összeszerelő gyárak és technológiai parkok kapnak helyet. Az itt előállított vagy összeszerelt árukat a kikötő közelsége miatt azonnal, minimális logisztikai költséggel tudják az afrikai, közel-keleti és globális piacokra exportálni. Wirtschaft K8 — a szabadkereskedelmi övezetek és az adókedvezmények gazdasági hatása.",
+      "factsAdvanced": [
+        "A Gwadar SEZ adó- és vámmentességet kínál a betelepülő ipari vállalatoknak.",
+        "A Kína-Pakisztán Gazdasági Folyosó (CPEC) kiemelt ipari területe.",
+        "Több ezer hektáros területen épül a kikötő közvetlen hátországában.",
+        "Célja a feldolgozóipar, az autó-összeszerelés és az acélipar meghonosítása.",
+        "Az energiaellátást a területen épült független széntüzelésű erőmű biztosítja.",
+        "A projekt a kínai sencseni mintát követi a gyors iparosítás reményében."
+      ]
+    },
+    {
+      "id": "chashma-nuclear-power-plant-economic-v2",
+      "descriptionAdvanced": "A Chashma Atomerőmű Komplexum Pakisztán polgári atomenergia-programjának központja, amely Pandzsáb tartomány északnyugati részén, a Mianwali körzetben, az Indus-folyó partján található. A komplexum a kínai technológiai együttműködés ékes példája; az első reaktort (CHASNUPP-1) az 1990-es évek végén építették kínai segítséggel, amit azóta több, modernebb és nagyobb kapacitású reaktor (CHASNUPP-2, 3 és 4) követett. Az erőmű stabil, alaperőművi (baseload) villamos energiát biztosít az országos hálózat számára, hozzájárulva a fosszilis tüzelőanyagoktól való függőség csökkentéséhez és az energiabiztonsághoz. Földrajz K8 — az atomenergia polgári felhasználása és az ipari alaperőművek.",
+      "factsAdvanced": [
+        "A komplexum Pandzsáb Mianwali körzetében, az Indus-folyó partján áll.",
+        "Az első reaktort (CHASNUPP-1) 2000-ben csatlakoztatták a hálózatra.",
+        "Minden működő reaktor a Kínai Nemzeti Nukleáris Társaság (CNNC) technológiájával épült.",
+        "A reaktorok hűtéséhez a közeli Chashma-duzzasztógát vizét használják.",
+        "A létesítmény a Nemzetközi Atomenergia-ügynökség (IAEA) biztosítékai alatt áll.",
+        "Az atomerőmű kulcsfontosságú a pakisztáni ipar stabil áramellátásához."
+      ]
+    },
+    {
+      "id": "gujranwala-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Gujranwala Pandzsáb tartomány ipari motorja, és a helyi ipari park (Gujranwala Industrial Estate) az egyik legsűrűbb gyártási központ az országban. A 'Birkózók Városaként' is ismert település ma elsősorban háztartási gépeiről, kerámiáiról, szanitereiről és fémfeldolgozásáról híres. A hatalmas ipari övezetben gyártják Pakisztán hűtőszekrényeinek, mosógépeinek és ventilátorainak túlnyomó részét, de jelentős a mezőgazdasági gépek előállítása is. Gujranwala kis- és középvállalkozásai (KKV-k) agilis hálózatot alkotnak, amely gyorsan reagál a belföldi piac és az export igényeire. Wirtschaft K8 — a kis- és középvállalkozások és a könnyűipari gyártás.",
+      "factsAdvanced": [
+        "Gujranwala a pakisztáni kerámia- és szanitergyártás fellegvára.",
+        "A város adja az országos háztartásigép-gyártás jelentős részét.",
+        "A helyi ipari park több száz kis- és középvállalkozásnak ad otthont.",
+        "Gujranwala Lahor és Sialkot között fekszik, az Arany Ipari Háromszögben.",
+        "Az ipari gépek és mezőgazdasági berendezések fémfeldolgozása is jelentős.",
+        "A város gazdasága erősen támaszkodik a szakképzett helyi kézművesekre."
+      ]
+    },
+    {
+      "id": "saindak-copper-gold-mine-economic-v2",
+      "descriptionAdvanced": "A Saindak réz- és aranybánya Pakisztán egyik legjelentősebb fémbányászati projektje, amely Beludzsisztán tartomány kietlen, sivatagi régiójában, az iráni és afgán határok közelében, Chagai körzetben fekszik. A lelőhelyet az 1970-es években fedezték fel, de a tényleges kitermelés kínai befektetők segítségével indult meg a 2000-es évek elején. A hatalmas nyíltfejtésű bánya és a hozzá tartozó kohászati üzemek naponta tonnaszám állítanak elő réz-arany koncentrátumot (blister copper), amelyet javarészt a világpiacra, főként Kínába exportálnak, értékes devizát hozva az országnak. Földrajz K8 — a nehézfémbányászat, ércek és az exportgazdaság.",
+      "factsAdvanced": [
+        "A bánya Beludzsisztán sivatagi területén, Chagai körzetben található.",
+        "A réz, arany és ezüst érceit nyíltfejtéses (open-pit) módszerrel bányásszák.",
+        "A projektet egy kínai kohászati vállalat üzemelteti koncesszióban.",
+        "Az érceket helyben kohósítják, és úgynevezett 'hólyagréz' (blister copper) formájában exportálják.",
+        "A terület extrém száraz klímájú, a vizet több tíz kilométerről kell a bányához vezetni.",
+        "A kitermelés a 2000-es évek eleji újraindulása óta folyamatos."
+      ]
+    },
+    {
+      "id": "port-qasim-economic-v2",
+      "descriptionAdvanced": "Port Qasim Pakisztán második legforgalmasabb tengeri kikötője, Karacsitól mindössze 35 kilométerre keletre. A kikötőt a 1970-es évek végén építették az Arab-tenger partján, a Gharo-patak torkolatánál, kifejezetten azért, hogy tehermentesítse a túlzsúfolt Karacsi Portot, és kiszolgálja az épülő Pakistan Steel Mills acélművet. Port Qasim ma az ország legfontosabb ipari kikötője, hatalmas szén-, vasérc- és LNG-terminálokkal rendelkezik, amelyek a környező nehézipari zónákat, erőműveket és a pakisztáni gázhálózatot táplálják. Wirtschaft K8 — célzott ipari kikötők és energiahordozó-terminálok.",
+      "factsAdvanced": [
+        "A kikötőt Muhammad bin Qasim 8. századi arab hadvezérről nevezték el.",
+        "Ez Pakisztán második legforgalmasabb kikötője a Karacsi Port után.",
+        "Az 1970-es években épült a Pakistan Steel Mills nyersanyagigényeinek kielégítésére.",
+        "Itt található az ország legfontosabb folyékony földgáz (LNG) import terminálja.",
+        "A kikötő hatalmas, saját ipari és logisztikai zónával (Port Qasim Industrial Area) rendelkezik.",
+        "A part menti ökológiát egy kiterjedt mangroveerdő-rendszer védi."
+      ]
+    },
+    {
+      "id": "reko-diq-mine-project-economic-v2",
+      "descriptionAdvanced": "A Reko Diq bányaprojekt a világ egyik legnagyobb kiaknázatlan réz- és aranykészlete, amely Beludzsisztán tartomány távoli, északnyugati régiójában, egy ősi vulkáni kráter alatt fekszik. A lelőhely neve a helyi balucsi nyelven 'Homokos Csúcsot' jelent. Hosszú évekig tartó nemzetközi jogi viták és tárgyalások után a pakisztáni kormány és egy globális bányászati konzorcium megegyezett a hatalmas nyíltvízi bánya fejlesztéséről. A projekt ígérete szerint több ezer munkahelyet teremt a régióban, és Pakisztánt a világ vezető réz- és aranyexportőrei közé emeli a jövőben. Földrajz K8 — a globális nyersanyagpiac és a geológiai erőforrások.",
+      "factsAdvanced": [
+        "A név balucsi nyelven szó szerint 'Homokos Csúcsot' jelent.",
+        "A lelőhely a Chagai vulkáni ív területén, Beludzsisztánban helyezkedik el.",
+        "A világ egyik legnagyobb ismert réz- és aranyporfír-lelőhelye.",
+        "A projekt hosszú ideig szünetelt nemzetközi jogi és arbitrációs viták miatt.",
+        "A tervek szerint évtizedekig biztosít majd globális fémellátást.",
+        "A kitermelés hatalmas infrastrukturális fejlesztést (víz, utak, áram) igényel a sivatagban."
+      ]
+    },
+    {
+      "id": "karachi-expo-centre-economic-v2",
+      "descriptionAdvanced": "A Karacsi Kiállítási Központ (Karachi Expo Centre) Pakisztán kereskedelmi és ipari életének legfontosabb találkozóhelye. A város központjában lévő modern, hatalmas pavilonokból álló komplexum évente több tucat nemzetközi és nemzeti szakkiállításnak, vásárnak ad otthont. Legismertebb rendezvénye az IDEAS (International Defence Exhibition and Seminar), a régió legnagyobb fegyverkezési és védelmi ipari kiállítása, valamint a My Karachi és a textilipari expók. A központ kulcsfontosságú szerepet játszik abban, hogy a pakisztáni cégeket összekösse a globális felvásárlókkal és befektetőkkel. Wirtschaft K8 — a nemzetközi kereskedelem, vásárok és a B2B üzleti hálózatok.",
+      "factsAdvanced": [
+        "A komplexum hat nagy, nemzetközi szabványoknak megfelelő pavilonnal rendelkezik.",
+        "Itt rendezik a kétévente megtartott híres IDEAS védelmi expót.",
+        "A központ a pakisztáni Exportfejlesztési Hivatal (TDAP) irányítása alatt áll.",
+        "Karacsi szívében, a forgalmas University Road mentén található.",
+        "Évente több tízezer nemzetközi üzletember és felvásárló látogatja az eseményeit.",
+        "A létesítmény az 1990-es évek végén épült a nemzetközi kereskedelem ösztönzésére."
+      ]
+    },
+    {
+      "id": "pakistan-stock-exchange-economic-v2",
+      "descriptionAdvanced": "A Pakisztáni Értéktőzsde (PSX) az ország pénzügyi és tőkepiaci idegközpontja, amely Karacsi üzleti negyedében (I.I. Chundrigar Road) működik. A PSX a korábbi Karacsi, Lahori és Iszlámábádi tőzsdék 2016-os sikeres fúziójával jött létre, így ma ez az ország egyetlen, egységes tőzsdéje. A piac benchmark indexe a KSE-100, amely az ország gazdasági állapotának legfontosabb barométere. A PSX nemcsak a pakisztáni vállalatok tőkebevonásának fő platformja, hanem a nemzetközi intézményi befektetők egyik legkedveltebb célpontja (frontier market) a régióban. Wirtschaft K8 — a tőkepiacok, részvényindexek és a pénzügyi központok.",
+      "factsAdvanced": [
+        "A PSX 2016-ban jött létre három regionális tőzsde fúziójából.",
+        "A legfontosabb piaci mutatója a 100 legnagyobb céget tömörítő KSE-100 index.",
+        "Karacsi pénzügyi negyedében, az I.I. Chundrigar Roadon, a 'pakisztáni Wall Streeten' található.",
+        "A tőzsde egy jelentős tulajdonrészét egy kínai konzorcium vásárolta meg.",
+        "Több mint 500 pakisztáni és multinacionális vállalat részvényeit jegyzik itt.",
+        "Történelmileg az elődjét (Karachi Stock Exchange) 1947-ben alapították."
+      ]
+    },
+    {
+      "id": "sialkot-international-airport-economic-v2",
+      "descriptionAdvanced": "A Sialkoti Nemzetközi Repülőtér (SIAL) egyedülálló a világ légiközlekedésében, mivel ez Pakisztán és a régió első teljes mértékben magántőkéből épített nemzetközi repülőtere. Sialkot ipari elitje – akik sebészeti műszereket és sportfelszereléseket exportálnak – összefogott, hogy elkerüljék a lahori repülőtér logisztikai nehézségeit, és saját zsebből finanszírozták a projektet, melyet 2007-ben adtak át. A repülőtér ma közvetlen légi teherszállítmányozást biztosít a Közel-Keletre és Európába, bizonyítva a helyi vállalkozói szellem elképesztő erejét. Wirtschaft K8 — magáninfrastruktúra-beruházások és légi logisztika.",
+      "factsAdvanced": [
+        "Ez Pakisztán első teljes egészében magántulajdonban lévő nemzetközi repülőtere.",
+        "A repülőteret 2007-ben nyitották meg a forgalom előtt.",
+        "Főként a sialkoti sebészeti és sportfelszerelés-exportőrök finanszírozták.",
+        "Az ország leghosszabb kifutópályájával (3,6 km) rendelkezik, így képes fogadni a legnagyobb gépeket is.",
+        "A Sialkoti Kereskedelmi Iparkamara (SCCI) tagjai alapították a részvénytársaságot.",
+        "Közvetlen járatok kötik össze a főbb öböl menti tranzitközpontokkal."
+      ]
+    },
+    {
+      "id": "mangla-dam-energy-economic-v2",
+      "descriptionAdvanced": "A Mangla-gát Pakisztán második legnagyobb vízerőműve és víztározója, mely a Jhelum-folyón épült az 1960-as években, az Indus-vízügyi Egyezmény keretében. Azad Kasmír területén, a pandzsábi határ közelében található gát elsődleges funkciója a tavaszi hóolvadás és a nyári monszun vizének felfogása, hogy a száraz évszakban hatalmas földterületeket öntözhessenek. Emellett a gát gigantikus turbinái tiszta, megújuló elektromos árammal látják el a nemzeti hálózatot. A víztározó kialakítása miatt a régi Mirpur városát teljesen elárasztották, lakóit pedig az újonnan épült Mirpurba telepítették át. Földrajz K8 — a vízmegosztási egyezmények és a hidroelektromos infrastruktúra.",
+      "factsAdvanced": [
+        "A gát a Jhelum-folyó vizét duzzasztja fel Azad Kasmír területén.",
+        "Építése 1967-ben fejeződött be, az Indus-vízügyi Egyezmény részeként.",
+        "A gát magasságát a 2000-es években 9 méterrel megemelték a kapacitás növelése érdekében.",
+        "A tározó kialakítása miatt az eredeti Mirpur város teljesen víz alá került.",
+        "Több mint 1000 Megawatt villamos energiát termel folyamatosan.",
+        "A gát építése nagyszabású brit és amerikai mérnöki együttműködéssel valósult meg."
+      ]
+    },
+    {
+      "id": "quetta-fruit-market-economic-v2",
+      "descriptionAdvanced": "Kvetta hatalmas nagybani gyümölcspiaca (Fruit Mandi) Beludzsisztán tartomány agrárexportjának ütőere. Beludzsisztán hűvös, hegyvidéki klímája ideális a prémium minőségű csonthéjas és bogyós gyümölcsök, például az alma, a cseresznye, a sárgabarack és a szilva termesztésére. Kora nyártól késő őszig a piac napi 24 órában pezseg; a hegyi oázisokból érkező teherautók ezrei rakodják le az árut, amit itt csomagolnak és hűtenek, majd azonnal szállítanak tovább Pakisztán nagyvárosaiba és a Közel-Keletre. A piac a nomád hagyományok és a modern logisztika találkozási pontja. Földrajz K7 — hegyvidéki mezőgazdaság, hűtólánc-logisztika és agrárkereskedelem.",
+      "factsAdvanced": [
+        "Beludzsisztán adja Pakisztán almatermésének és cseresznyéjének túlnyomó részét.",
+        "A kvettai piac (mandi) a tartomány mezőgazdasági termékeinek központi elosztója.",
+        "Hajnalban a legforgalmasabb, amikor a hegyi falvakból megérkeznek a friss szállítmányok.",
+        "A gyümölcsöket innen speciális, hűtött teherautókkal viszik Lahorba és Karacsiba.",
+        "A régió szőlő- és mandulatermesztése is ezen a piacon cserél gazdát.",
+        "A piac komoly munkaadója a helyi pastu és balucsi kereskedőknek."
+      ]
+    },
+    {
+      "id": "mohenjo-daro-ruins-history-v2",
+      "descriptionAdvanced": "Mohendzsodáro (a 'Halottak Dombja') az indiai szubkontinens egyik legfontosabb régészeti lelőhelye, az ókori Indus-völgyi civilizáció legnagyobb városa. A Kr. e. 2500 körül épült metropolisz Szindh tartományban, az Indus-folyó közelében található. Mohendzsodáro mérnöki zsenialitásról árulkodik: a világ első ismert, rács alapú várostervezésével, kifinomult égetett tégla architektúrájával, valamint komplex földalatti csatorna- és vízelvezető hálózatával rendelkezett. A Nagy Fürdő és a hatalmas magtárak bizonyítják egy rendkívül fejlett, békés, kereskedő társadalom létezését, amely rejtélyes módon hanyatlott le Kr. e. 1900 körül. Geschichte K8 — a korai folyóvölgyi civilizációk és a várostervezés kezdetei.",
+      "factsAdvanced": [
+        "A várost Kr. e. 2500 körül építették az Indus-völgyi (Harappai) civilizáció idején.",
+        "A lelőhelyet 1922-ben fedezte fel Rakhaldas Bandyopadhyay régész.",
+        "A város rendkívül modern volt: minden háznak saját kútja és zárt csatornarendszere volt.",
+        "A 'Nagy Fürdő' egy bitumenből szigetelt, hatalmas rituális medence a fellegvárban.",
+        "Mohendzsodáro 1980 óta az UNESCO Világörökség része.",
+        "A civilizáció hanyatlásának oka máig vitatott (klímaváltozás vagy folyómeder eltolódás)."
+      ]
+    },
+    {
+      "id": "taxila-ruins-history-v2",
+      "descriptionAdvanced": "Takszila egy ókori oktatási és kulturális fellegvár romvárosa, amely Iszlámábádtól északnyugatra fekszik. A város az ókorban a Selyemút egyik legfontosabb kereszteződése volt, ahol az indiai, a perzsa, a görög és a közép-ázsiai kultúrák találkoztak. Takszila a világ egyik legrégebbi egyetemének adott otthont a Kr. e. 5. században, ahová Ázsia minden tájáról érkeztek diákok a tudomány, az orvoslás és a buddhista filozófia tanulmányozására. A terület három egymást követő ősi város (Bhir Mound, Sirkap, Sirsukh) maradványait és számtalan Gandhara stílusú, görög-buddhista sztúpát rejt, köztük a lenyűgöző Dharmarajikát. Geschichte K8 — a Selyemút kulturális olvasztótégelyei és az ókori egyetemek.",
+      "factsAdvanced": [
+        "A város három különböző korszakból származó ősi település romjait foglalja magába.",
+        "Takszila (Takshashila) a világ egyik legelső egyetemi központja volt (Kr.e. 5. sz.).",
+        "A régészeti parkot 1980-ban nyilvánították UNESCO Világörökségi helyszínné.",
+        "Nagy Sándor Kr. e. 326-ban harc nélkül vonult be a városba, ahol barátságosan fogadták.",
+        "Itt virágzott a Gandhara művészet, amely ötvözte a buddhista és a görög stílusjegyeket.",
+        "A Dharmarajika sztúpa Asóka császár idejéből, a Kr. e. 3. századból származik."
+      ]
+    },
+    {
+      "id": "badshahi-mosque-monument-history-v2",
+      "descriptionAdvanced": "A Badshahi-mecset (Királyi Mecset) a mogul építészet egyik legfenségesebb remekműve, amely Lahore szívében, a Lahore-i erőd szomszédságában tornyosul. Aurangzeb császár megbízásából épült 1673-ban, és több mint három évszázadon keresztül a világ legnagyobb mecsetje volt, amelynek udvarán százezer hívő is elfér. A mecset lenyűgöző külsejét a vörös homokkő falak és a három hatalmas fehér márványkupolájának kontrasztja adja. A szikh uralom alatt (18. század) katonai helyőrségként és fegyverraktárként használták, de mára visszanyerte eredeti pompáját és spirituális jelentőségét. Kunst K8 — a Mogul Birodalom monumentális építészete.",
+      "factsAdvanced": [
+        "A mecsetet Aurangzeb mogul császár építtette 1671 és 1673 között.",
+        "A 20. század végéig a Badshahi volt Pakisztán legnagyobb mecsetje.",
+        "A hatalmas udvarban (sahn) egyszerre akár 100 000 hívő is tud imádkozni.",
+        "A minaretek egyenként 54 méter (176 láb) magasak.",
+        "A Ranjit Singh-féle szikh birodalom alatt a mecset lovas helyőrségként funkcionált.",
+        "A homlokzat indiai vörös homokkőből, a kupolák pedig fehér márványból készültek."
+      ]
+    },
+    {
+      "id": "lahore-fort-historical-site-v2",
+      "descriptionAdvanced": "A Lahore-i erőd (Shahi Qila) a Mogul Birodalom ragyogásának és történelmi viharainak élő múzeuma, amely Lahore óvárosának északi részén magasodik. Bár a helyén már az ókorban is állt erődítmény, a ma látható pompás palota- és erődrendszert Nagy Akbar császár kezdte építeni az 1560-as években, amit utódai, Jahangir, Shah Jahan és Aurangzeb tovább bővítettek. Az UNESCO Világörökség részét képező komplexum leghíresebb részei a Sheesh Mahal (Tükörpalota), amely ezernyi apró tükördarabkával van kirakva, és a lenyűgözően díszített Alamgiri kapu. Geschichte K8 — a mogul uralkodók palotaerődjei és művészeti mecénásai.",
+      "factsAdvanced": [
+        "Az erődöt a jelenlegi formájában Akbar császár építtette az 1560-as években.",
+        "1981-ben a Shalamar-kertekkel együtt felkerült az UNESCO Világörökségi listájára.",
+        "A 'Sheesh Mahal' (Tükörpalota) falait apró tükörmozaikok ezrei borítják.",
+        "Az Alamgiri kaput Aurangzeb császár építtette, mely az erőd főbejárata.",
+        "A 19. században Ranjit Singh szikh uralkodó is rezidenciájaként használta.",
+        "A 350 láb hosszú 'Picture Wall' (Képfal) lenyűgöző kerámiamozaikokat és freskókat rejt."
+      ]
+    },
+    {
+      "id": "hiran-minar-monument-history-v2",
+      "descriptionAdvanced": "A Hiran Minar (Szarvas-torony) egy egyedülálló mogul kori műemlék Sheikhupura városában, Lahore közelében. Ezt a lenyűgöző komplexumot Jahangir császár építtette a 17. század elején legkedvesebb vadászlovának (vagy antilopjának), Mansrajnak a tiszteletére. A komplexum egy 30 méter magas, hengeres téglatoronyból áll, amely előtt egy hatalmas, mesterséges, négyzet alakú víztározó húzódik. A tó közepén egy nyolcszögletű pavilon áll, amelyhez egy árkádsoros híd vezet. A hely egykor a császári udvar exkluzív vadászterülete volt, és a mogul természet- és állatszeretet ritka építészeti példája. Kunst K8 — a mogul császárok magánélete és tájépítészete.",
+      "factsAdvanced": [
+        "Jahangir császár építtette 1606-ban kedvenc vadászállata, Mansraj emlékére.",
+        "A 'Hiran Minar' név jelentése Szarvas-torony.",
+        "A komplexum egy 30 méter magas megfigyelőtoronyból és egy hatalmas tóból áll.",
+        "A tó közepén egy pavilon (baradari) található, ahova a császár pihenni járt.",
+        "A torony falán egyedi nyílások (lyukak) vannak, amelyeket egykor trófeák tárolására használtak.",
+        "A hely egy sűrű dzsungel volt, amelyet a császári udvar vadászterületként használt."
+      ]
+    },
+    {
+      "id": "takht-i-bahi-ruins-history-v2",
+      "descriptionAdvanced": "A Takht-i-Bahi (a 'Tavasz Trónja') egy lélegzetelállítóan jó állapotban fennmaradt ősi buddhista kolostoregyüttes Hajber-Pahtunhva tartomány hegyei között. Az 1. században alapított komplexum a hegyoldalakra teraszosan épült, ami valószínűleg megóvta a későbbi inváziók és pusztítások elől, ellentétben a síkságokon lévő kolostorokkal. A lelőhely számtalan cellából, központi sztúpaudvarokból és gyűléstermekből áll, amelyek kiválóan szemléltetik a Gandhara-régió buddhista szerzetesi életét. A kőből épült falak között sétálva a látogatók az ókori Ázsia egyik legfontosabb spirituális központját ismerhetik meg. Geschichte K8 — a buddhizmus terjedése és a hegyi kolostorok védett világa.",
+      "factsAdvanced": [
+        "A kolostor alapítása az indo-pártus korszakra, a Kr. u. 1. századra tehető.",
+        "A név perzsa/urdu eredetű, jelentése 'A Tavasz (vagy Forrás) Trónja'.",
+        "A hely 1980 óta szerepel az UNESCO Világörökségi helyszínek listáján.",
+        "Magas hegyi fekvése miatt menekült meg a hunok 5. századi pusztításától.",
+        "A komplexum sztúpaudvarból, szerzetesi cellákból és egy nagy tanácsteremből áll.",
+        "A feltárások során számtalan gyönyörű, görögös stílusú Buddha kőszobrot találtak itt."
+      ]
+    },
+    {
+      "id": "rohtas-fort-historical-site-v2",
+      "descriptionAdvanced": "A Rohtasz-erőd egy masszív, bevehetetlennek tervezett katonai erődítmény Jhelum városa mellett, amelyet az afgán hadúr, Sher Shah Suri építtetett a 16. század közepén. Az erőd elsődleges célja az volt, hogy blokkolja a trónfosztott mogul császár, Humayun visszatérését, és kordában tartsa a lázadó helyi Gakhar törzseket. A szabálytalan alaprajzú, hatalmas mészkő- és homokkőfalakkal körbevett erődítmény kerülete eléri a 4 kilométert, és 12 monumentális kapuval rendelkezik. A Rohtasz az iszlám hadimérnöki tudomány és Közép-Ázsia erődépítészetének egyik legkiválóbb, máig épségben lévő példája. Geschichte K8 — a Suri-dinasztia és a stratégiai erődépítészet.",
+      "factsAdvanced": [
+        "Az erődöt Sher Shah Suri építtette az 1540-es években, a Mogul Birodalom elleni védelmül.",
+        "Az erődítmény 4 kilométer hosszú, vastag várfallal és 68 bástyával rendelkezik.",
+        "Az erőd 1997 óta szerepel az UNESCO Világörökségi listáján.",
+        "Soha senki nem vette be katonai ostrommal; Humayun végül harc nélkül foglalta el.",
+        "A falakon belül található egy mély kút (baoli), amelyhez több mint 100 lépcső vezet le.",
+        "Az erőd építészete az afgán és a hindu építészeti hagyományok egyedi keveréke."
+      ]
+    },
+    {
+      "id": "minar-e-pakistan-monument-history-v2",
+      "descriptionAdvanced": "A Minar-e-Pakisztán egy ikonikus, modern emlékmű Lahore szívében, az Iqbal Parkban, amely az ország függetlenségének legfőbb szimbóluma. Ezen a pontos helyen fogadta el az Összindiai Muzulmán Liga 1940. március 23-án a híres 'Lahore-i Határozatot', amely elsőként követelt független muszlim államot (Pakisztánt) a brit Indián belül. A 70 méter magas, lótuszvirágot és iszlám építészeti motívumokat ötvöző tornyot Nasreddin Murat-Khan építész tervezte, és 1968-ban fejezték be. A torony alsó szirmain a határozat szövege, valamint a Korán és az alapító, Quaid-e-Azam Muhammad Ali Jinnah beszédei olvashatók kalligrafikus véséssel. Geschichte K8 — a dekolonizáció és a modern nemzetállamok születése.",
+      "factsAdvanced": [
+        "Az emlékmű az 1940-es 'Lahore-i Határozat' (Pakistan Resolution) elfogadásának helyszínén épült.",
+        "A torony építése 1960-ban kezdődött és 1968-ban, 8 év alatt fejeződött be.",
+        "Magassága az alaptól a csúcsig eléri a 70 métert (230 láb).",
+        "Tervezője a dagesztáni származású orosz-pakisztáni építész, Nasreddin Murat-Khan volt.",
+        "A torony alját úgy tervezték meg, mintha egy kinyíló lótuszvirág szirmai lennének.",
+        "Az építés költségeit részben a mozijegyekre és lóversenyekre kivetett extra adókból fedezték."
+      ]
+    },
+    {
+      "id": "makli-necropolis-historical-site-v2",
+      "descriptionAdvanced": "A Makli-domb nekropolisza a világ egyik legnagyobb temetkezési helye, egy lenyűgöző 'holtak városa', amely Thatta ősi városa mellett, Szindh tartományban terül el. A 10 négyzetkilométeres területen az elmúlt négyszáz év során (a 14. és 18. század között) több mint félmillió embert temettek el, köztük szindhi szultánokat, szufi szenteket, filozófusokat és katonákat. A nekropolisz építészete a helyi szindhi, hindu, perzsa és mogul stílusok lélegzetelállító fúziója; a legszebb mauzóleumokat gazdagon faragott homokkő, csipkeszerű geometriai minták és kék mázas csempék díszítik. Kunst K8 — iszlám temetkezési művészet és a kőfaragás csúcsai.",
+      "factsAdvanced": [
+        "A Makli-domb az UNESCO Világörökség része, és a világ egyik legnagyobb nekropolisza.",
+        "A területen becslések szerint mintegy félmillió sír és mauzóleum található.",
+        "A temető használata a 14. században kezdődött és a 18. század végéig tartott.",
+        "A síremlékek négy dinasztia: a Samma, az Arghun, a Tarkhan és a Mogul uralom alatt épültek.",
+        "A leghíresebb mauzóleum Isa Khan Tarkhan kormányzó kétszintes, gazdagon faragott kősírja.",
+        "Az építményeket gyakran díszítik kék, türkiz és fehér szindhi mázas csempék (Kashi kari)."
+      ]
+    },
+    {
+      "id": "shah-jahani-mosque-monument-history-v2",
+      "descriptionAdvanced": "A Thatta városában álló Sáh Dzsahán-mecset a pakisztáni iszlám építészet egyik akusztikai és vizuális csodája. A mecsetet maga Sáh Dzsahán mogul császár építtette 1647-ben hálából a szindhi népnek, amiért menedéket nyújtottak neki fiatal korában, amikor apja ellen lázadt. A mecset különlegessége, hogy Dél-Ázsiában egyedülálló módon 93 apró és nagy kupolája van, ami olyan tökéletes akusztikát teremt, hogy a mihrábnál elmondott ima a komplexum bármely sarkában hallható hangszórók nélkül is. A vörös téglás épületet Közép-Ázsiát idéző, lélegzetelállító kék-türkiz csempemozaikok borítják. Kunst K8 — az akusztikai mérnöki munka és a mogul csempeművészet.",
+      "factsAdvanced": [
+        "A mecsetet Sáh Dzsahán császár építtette 1647-ben, Thatta városában.",
+        "Dél-Ázsiában a legtöbb, pontosan 93 kupolával rendelkezik.",
+        "Tökéletes akusztikája miatt a mihrábnál elhangzó ima az udvar legvégén is hallható.",
+        "A mecsetnek egyáltalán nincsenek minaretjei, ami ritkaság a mogul építészetben.",
+        "A falakat milliónyi kék, türkiz és fehér Hala-típusú csempemozaik díszíti.",
+        "Az épület alapja indiai vörös tégla, ami erős kontrasztot ad a kék kerámiának."
+      ]
+    }
+  ]
+}

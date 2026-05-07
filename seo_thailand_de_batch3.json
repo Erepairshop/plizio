@@ -1,0 +1,295 @@
+{
+  "lang": "de",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ranong-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ranong ist Thailands wichtigstes Handelstor an der Andamanensee und spielt eine strategische Rolle für den Warenaustausch mit den Ländern des Indischen Ozeans, insbesondere Myanmar, Indien und den Ländern Südasiens. Als einziger bedeutender Tiefseehafen an der Westküste, der nicht primär touristisch genutzt wird, ist er ein essenzieller Logistikknotenpunkt für den Export von Agrarprodukten, Baumaterialien und Konsumgütern. Der Hafen profitiert von seiner Nähe zum Kra-Isthmus und ist ein zentrales Element in den Plänen der thailändischen Regierung für eine Landbrücke (Land Bridge), die den Golf von Thailand mit der Andamanensee verbinden soll. Ranong dient zudem als wichtiger Umschlagplatz für die regionale Fischereiindustrie und bietet moderne Terminaleinrichtungen für Containerschiffe. Die wirtschaftliche Bedeutung des Hafens wächst stetig, da Thailand bestrebt ist, neue Handelswege jenseits der Strasse von Malakka zu erschliessen und die regionale Integration voranzutreiben.",
+      "factsAdvanced": [
+        "Wichtigster thailändischer Tiefseehafen an der Andamanenküste.",
+        "Strategisches Tor für den Handel mit Indien und Südasien.",
+        "Zentraler Bestandteil des geplanten Land-Bridge-Projekts.",
+        "Umschlagplatz für grenzüberschreitenden Handel mit Myanmar.",
+        "Wichtiger Standort für die thailändische Fischverarbeitung.",
+        "Verfügt über moderne Anlegeplätze für Fracht- und Containerschiffe.",
+        "Reduziert die Transportzeit für Waren in den Indischen Ozean.",
+        "Ermöglicht den direkten Zugang zum Bay of Bengal."
+      ]
+    },
+    {
+      "id": "central-world-trade-hub-economic-v2",
+      "descriptionAdvanced": "CentralWorld in Bangkok ist einer der grössten Einkaufs- und Lifestyle-Komplexe der Welt und das pulsierende Herz des thailändischen Einzelhandels. Im zentralen Geschäftsviertel Ratchaprasong gelegen, ist es weit mehr als nur eine Mall; es ist ein Wirtschaftsmotor, der tausende nationale und internationale Marken unter einem Dach vereint. Mit einer gigantischen Verkaufsfläche, die Büros, Hotels und ein hochmodernes Konferenzzentrum umfasst, ist CentralWorld ein Symbol für den modernen thailändischen Konsumismus und die wirtschaftliche Dynamik Bangkoks. Der Komplex ist berühmt für seine spektakulären Veranstaltungen, wie das jährliche Neujahrs-Countdown-Event, das zu den grössten Asiens zählt. Für die thailändische Wirtschaft ist CentralWorld ein entscheidender Faktor für den Tourismus und den Dienstleistungssektor, da es als Schaufenster für globale Trends und thailändische Innovationen dient. Die erstklassige Anbindung an den BTS Skytrain macht es zu einem der am besten erreichbaren und am stärksten frequentierten Orte der Stadt.",
+      "factsAdvanced": [
+        "Eines der grössten Einkaufszentren weltweit nach Verkaufsfläche.",
+        "Liegt im Herzen des Ratchaprasong-Viertels in Bangkok.",
+        "Beherbergt über 500 Geschäfte und mehr als 100 Restaurants.",
+        "Umfasst den Centara Grand Hotel- und Konferenzkomplex.",
+        "Zentrum der jährlichen thailändischen Neujahrsfeierlichkeiten.",
+        "Wirtschaftliches Aushängeschild der Central Group.",
+        "Bietet hochmoderne Kinokomplexe und eine Eisbahn.",
+        "Wichtiger Standort für internationale Flagship-Stores in Thailand."
+      ]
+    },
+    {
+      "id": "thai-beverage-hq-economic-v2",
+      "descriptionAdvanced": "Das Hauptquartier von Thai Beverage (ThaiBev) in Bangkok ist die Schaltzentrale eines der grössten Getränkekonzerne Südostasiens und ein Symbol für thailändischen Unternehmergeist auf globaler Ebene. Bekannt vor allem für die Biermarke Chang und eine Vielzahl von Spirituosen wie Mekhong und SangSom, hat sich das Unternehmen zu einem diversifizierten Lebensmittel- und Getränkegiganten entwickelt. Die strategischen Entscheidungen, die hier getroffen werden, beeinflussen Märkte von Vietnam bis Europa, da ThaiBev aggressiv in der gesamten Region expandiert. Der Konzern ist ein bedeutender Pfeiler der thailändischen Wirtschaft, ein Schwergewicht an der Börse von Singapur (SGX) und einer der grössten Steuerzahler des Landes. Über das Kerngeschäft hinaus ist ThaiBev massiv im Sponsoring von Sport und Kultur engagiert und spielt eine einflussreiche Rolle im gesellschaftlichen Leben Thailands. Das Unternehmen ist ein Musterbeispiel für die Transformation eines lokalen Familienunternehmens in einen multinationalen Konzern.",
+      "factsAdvanced": [
+        "Grösster Getränkekonzern Thailands und einer der grössten in Asien.",
+        "Besitzt die weltbekannte Biermarke Chang.",
+        "Marktführer im Bereich Spirituosen in Thailand (Mekhong, SangSom).",
+        "Gelistet an der Singapore Exchange (SGX).",
+        "Wurde von Charoen Sirivadhanabhakdi gegründet.",
+        "Besitzt bedeutende Anteile an Fraser and Neave (F&N).",
+        "Bedeutender Sponsor des thailändischen Fussballs und Sports.",
+        "Besitzt eine weitverzweigte Logistik- und Vertriebskette in ganz ASEAN."
+      ]
+    },
+    {
+      "id": "phichit-gold-mines-economic-v2",
+      "descriptionAdvanced": "Die Goldminen in der Provinz Phichit, insbesondere die Chatree-Goldmine, waren über Jahre hinweg das Zentrum der thailändischen Edelmetallförderung und ein bedeutender, wenn auch kontroverser Wirtschaftsfaktor. Als grösste Goldmine des Landes trug sie erheblich zur thailändischen Rohstoffproduktion und zu den Exporterlösen bei. Der industrielle Abbau brachte Arbeitsplätze und Infrastrukturentwicklung in eine ansonsten ländlich geprägte Region. Dennoch stand der Betrieb aufgrund von Umweltbedenken und gesundheitlichen Beschwerden der Anwohner immer wieder im Fokus der Öffentlichkeit, was 2017 zu einer vorübergehenden Schliessung durch die Regierung führte. Nach langwierigen rechtlichen Auseinandersetzungen und der Implementierung strengerer Umweltauflagen wurde der Betrieb teilweise wieder aufgenommen. Phichit bleibt ein Beispiel für die Herausforderungen, die wirtschaftliche Nutzung von Bodenschätzen mit dem Schutz der Umwelt und der lokalen Bevölkerung in Einklang zu bringen. Die Mine ist ein wichtiger Indikator für Thailands Bergbaupolitik und Rohstoffstrategie.",
+      "factsAdvanced": [
+        "Grösste Goldmine Thailands, gelegen an der Grenze von Phichit und Phitsanulok.",
+        "Wird von Akara Resources (Tochter der australischen Kingsgate Consolidated) betrieben.",
+        "Die industrielle Förderung begann im Jahr 2001.",
+        "Zentrum kontroverser Debatten über Umwelt- und Gesundheitsstandards.",
+        "Wurde 2017 per Regierungsbeschluss geschlossen und 2023 wiedereröffnet.",
+        "Wichtiger Produzent von Gold und Silber für den Export.",
+        "Grösster privater Arbeitgeber in der Provinz Phichit während des Vollbetriebs.",
+        "Nutzt moderne Open-Pit-Bergbauverfahren."
+      ]
+    },
+    {
+      "id": "bangkok-gems-and-jewelry-fair-economic-v2",
+      "descriptionAdvanced": "Die Bangkok Gems and Jewelry Fair ist eine der weltweit bedeutendsten Fachmessen der Schmuck- und Edelsteinbranche und unterstreicht Thailands Status als globaler Knotenpunkt für den Handel mit Farbedelsteinen. Zweimal jährlich versammeln sich hier tausende Aussteller und Einkäufer aus über 100 Ländern, um Geschäfte in Milliardenhöhe abzuschliessen. Thailand ist weltweit führend in der Kunst des Schleifens und Veredelns von Saphiren und Rubinen, eine Expertise, die über Generationen perfektioniert wurde. Die Messe dient als Schaufenster für thailändische Handwerkskunst und innovatives Design und ist ein entscheidender Motor für den Exportsektor, der zu den Top-Einnahmequellen des Landes gehört. Organisiert vom Department of International Trade Promotion (DITP), fördert die Messe nicht nur den Handel, sondern auch die Vernetzung innerhalb der globalen Wertschöpfungskette. Für die thailändische Wirtschaft ist die Schmuckindustrie ein Symbol für Qualität und handwerkliche Exzellenz 'Made in Thailand', die weltweit geschätzt wird.",
+      "factsAdvanced": [
+        "Eine der fünf bedeutendsten Schmuckmessen der Welt.",
+        "Findet zweimal jährlich (Februar und September) in Bangkok statt.",
+        "Thailand ist das weltweite Zentrum für den Handel mit Rubinen und Saphiren.",
+        "Zieht über 10.000 internationale Besucher pro Veranstaltung an.",
+        "Bedeutender Beitrag zum thailändischen Exportvolumen (über 10 Mrd. USD).",
+        "Wird vom thailändischen Handelsministerium (DITP) unterstützt.",
+        "Zentrum für die Präsentation von thailändischem Kunsthandwerk und Design.",
+        "Plattform für die neuesten Technologien in der Edelsteinbearbeitung."
+      ]
+    },
+    {
+      "id": "wat-arun-temple-history-v2",
+      "descriptionAdvanced": "Der Wat Arun, auch als 'Tempel der Morgenröte' bekannt, ist eines der ikonischsten Wahrzeichen Bangkoks und ein Meisterwerk der thailändischen Architektur am Westufer des Chao Phraya Flusses. Sein markantes Merkmal ist der über 70 Meter hohe Prang (Turm im Khmer-Stil), der über und über mit bunten Porzellan- und Muschelstücken verziert ist, die einst als Ballast auf chinesischen Schiffen dienten. Der Tempel blickt auf eine lange Geschichte zurück, die bis in die Ayutthaya-Zeit reicht, und erlangte seine grösste Bedeutung während der Thonburi-Ära, als er den Status eines königlichen Tempels erhielt. Wenn die ersten Sonnenstrahlen am Morgen oder die letzten am Abend den Tempel treffen, erstrahlt er in einem magischen Licht, was ihm seinen poetischen Namen einbrachte. Besucher können die steilen Treppen des Prang erklimmen, um einen atemberaubenden Blick über den Fluss und die Skyline von Bangkok zu geniessen. Der Wat Arun ist nicht nur ein Touristenmagnet, sondern ein spirituelles Zentrum von höchster Bedeutung für das thailändische Volk.",
+      "factsAdvanced": [
+        "Offizieller Name: Wat Arun Ratchawararam Ratchaworamahawihan.",
+        "Der zentrale Prang ist etwa 70 bis 80 Meter hoch.",
+        "Verziert mit Millionen von chinesischen Porzellanscherben.",
+        "Diente kurzzeitig als Aufbewahrungsort für den Smaragd-Buddha.",
+        "Wahrzeichen von Thonburi, der ehemaligen Hauptstadt Thailands.",
+        "Symbol für die kosmologische Ordnung des Universums (Mount Meru).",
+        "Wurde unter König Rama II. und Rama III. massgeblich ausgebaut.",
+        "Direkt gegenüber dem Wat Pho am Chao Phraya Fluss gelegen."
+      ]
+    },
+    {
+      "id": "grand-palace-bangkok-history-v2",
+      "descriptionAdvanced": "Der Grand Palace in Bangkok ist das spirituelle und architektonische Herz Thailands und eine prachtvolle Palastanlage, die seit 1782 als Residenz der Könige von Siam diente. Auf einem weitläufigen Areal am Ufer des Chao Phraya gelegen, beherbergt er eine Vielzahl von beeindruckenden Gebäuden, Thronsälen und Tempeln, die den Gipfel thailändischer Handwerkskunst darstellen. Das heiligste Juwel innerhalb der Mauern ist der Wat Phra Kaeo, der Tempel des Smaragd-Buddhas, die am meisten verehrte Buddha-Statue des Landes. Die Architektur des Palastes ist eine faszinierende Mischung aus traditionellem thailändischem Stil und europäischen Einflüssen der Renaissance, was besonders im Chakri Maha Prasat Thronsaal deutlich wird. Obwohl die königliche Familie heute in einem anderen Palast residiert, bleibt der Grand Palace der Ort für wichtige Staatszeremonien und religiöse Riten. Die goldenen Pagoden, kunstvollen Wandmalereien und die majestätische Atmosphäre machen den Palast zu einem unvergleichlichen Zeugnis thailändischer Geschichte und königlicher Erhabenheit.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1782 nach der Thronbesteigung von König Rama I.",
+        "Umfasst eine Fläche von etwa 218.400 Quadratmetern.",
+        "Beherbergt den Smaragd-Buddha (Phra Kaew Morakot).",
+        "War bis 1925 die offizielle Residenz der Könige von Thailand.",
+        "Die Anlage ist von einer 1,9 km langen Schutzmauer umgeben.",
+        "Die Wandmalereien im Tempelbezirk zeigen das Epos Ramakien.",
+        "Chakri Maha Prasat vereint Thai-Dächer mit europäischer Architektur.",
+        "Strenger Dresscode für Besucher als Zeichen des Respekts."
+      ]
+    },
+    {
+      "id": "wat-pho-reclining-buddha-history-v2",
+      "descriptionAdvanced": "Der Wat Pho in Bangkok ist einer der ältesten und grössten Tempelkomplexe der Hauptstadt und weltberühmt für seinen gigantischen liegenden Buddha. Die vergoldete Statue ist beeindruckende 46 Meter lang und 15 Meter hoch und zeigt den Buddha beim Eintritt ins Nirvana. Ein besonderes Detail sind die Fusssohlen der Statue, die mit 108 glücksbringenden Symbolen aus Perlmutt verziert sind. Jenseits der berühmten Statue ist der Wat Pho als Geburtsstätte der traditionellen thailändischen Massage bekannt und beherbergt eine renommierte Massageschule, deren Wissen auf jahrhundertealten Inschriften an den Wänden des Tempels basiert. Die Anlage ist geschmückt mit über 1.000 Buddha-Bildern und zahlreichen kunstvollen Chedis, die den Königen der Chakri-Dynastie gewidmet sind. Als 'Erste Universität Thailands' war der Tempel ein Zentrum für Wissenschaft, Literatur und Medizin. Die ruhige Atmosphäre inmitten des geschäftigen Bangkoks macht den Wat Pho zu einem Ort der Besinnung und zu einem unverzichtbaren Ziel für Kulturliebhaber.",
+      "factsAdvanced": [
+        "Offizieller Name: Wat Phra Chetuphon Wimon Mangkhalaram Rajwaramahawihan.",
+        "Heimat des grössten liegenden Buddhas in Thailand (46 m lang).",
+        "Gilt als das erste Zentrum für öffentliche Bildung in Thailand.",
+        "UNESCO-Weltdokumentenerbe für seine epigraphischen Inschriften.",
+        "Beherbergt die berühmteste Schule für traditionelle Thai-Massage.",
+        "Ältester Tempel in Bangkok, gegründet vor der Ära von Rama I.",
+        "Die Anlage umfasst 91 kleine und 4 grosse Chedis.",
+        "Liegt direkt südlich vom Grand Palace."
+      ]
+    },
+    {
+      "id": "wat-rong-khun-white-temple-history-v2",
+      "descriptionAdvanced": "Der Wat Rong Khun, besser bekannt als der 'Weisse Tempel', ist ein surreales architektonisches Kunstwerk in der Nähe von Chiang Rai, das die Grenzen zwischen traditionellem Tempeldesign und moderner Kunst sprengt. Entworfen von dem berühmten thailändischen Künstler Chalermchai Kositpipat, besticht der Tempel durch seine blendend weisse Farbe, die Reinheit symbolisiert, und die Verwendung von unzähligen Spiegelmosaiken, die die Weisheit Buddhas widerspiegeln sollen. Der Weg zum Hauptgebäude führt über eine Brücke, unter der hunderte von Händen aus der Unterwelt emporragen, was den Weg von weltlichem Leiden zur Erleuchtung symbolisiert. Im Inneren überrascht der Tempel mit unkonventionellen Wandmalereien, die moderne Popkultur-Ikonen wie Superman oder Matrix-Motive enthalten, um buddhistische Lehren in einen zeitgenössischen Kontext zu setzen. Der Bau begann 1997 und wird voraussichtlich noch Jahrzehnte andauern, da der Künstler die Anlage ständig erweitert. Der Wat Rong Khun ist ein mutiges Statement thailändischer Gegenwartskunst und eines der meistfotografierten Gebäude des Landes.",
+      "factsAdvanced": [
+        "Privater Tempelbau, entworfen vom Künstler Chalermchai Kositpipat.",
+        "Die weisse Farbe symbolisiert die Reinheit Buddhas.",
+        "Spiegelglasstücke stehen für die Weisheit, die im Universum glänzt.",
+        "Eröffnet für Besucher im Jahr 1997.",
+        "Die Brücke des 'Zyklus der Wiedergeburt' ist ein zentrales Element.",
+        "Enthält moderne Wandmalereien mit Motiven aus Hollywood-Filmen.",
+        "Wurde bei einem Erdbeben im Jahr 2014 leicht beschädigt und restauriert.",
+        "Gehört zu den meistbesuchten Sehenswürdigkeiten in Nordthailand."
+      ]
+    },
+    {
+      "id": "sanctuary-of-truth-pattaya-history-v2",
+      "descriptionAdvanced": "Das Sanctuary of Truth in Pattaya ist ein monumentales Bauwerk ganz aus Holz, das majestätisch am Ufer des Meeres thront und als eine Hommage an die alte Weisheit und die Philosophie des Ostens konzipiert wurde. Es ist weder ein Palast noch ein klassischer Tempel, sondern eher ein riesiges religiöses und philosophisches Denkmal, das komplett ohne metallene Nägel erbaut wurde. Jedes Detail des über 100 Meter hohen Gebäudes ist mit aufwendigen Schnitzereien verziert, die Motive aus der hinduistischen und buddhistischen Mythologie sowie aus der thailändischen, chinesischen und indischen Kultur darstellen. Der Bau wurde 1981 von dem thailändischen Geschäftsmann Lek Viriyaphant initiiert und ist bis heute ein fortlaufendes Projekt, bei dem ständig Handwerker die Holzelemente schnitzen und instand halten. Das Sanctuary of Truth soll den Besucher zum Nachdenken über das Leben, das Universum und die moralischen Werte anregen. Die Kombination aus handwerklicher Perfektion, spiritueller Tiefe und der salzigen Meeresbrise verleiht diesem Ort eine einzigartige, fast mystische Atmosphäre.",
+      "factsAdvanced": [
+        "Komplett aus Holz gefertigt (überwiegend Teak und Mahagoni).",
+        "Erbaut ohne die Verwendung von Eisen- oder Stahlnägeln.",
+        "Höhe des Gebäudes beträgt etwa 105 Meter.",
+        "Projektstart war am 13. August 1981.",
+        "Vereint Schnitzkunst aus Thailand, China, Kambodscha und Indien.",
+        "Soll die sieben Schöpfer des Menschen darstellen (Himmel, Erde, Vater, Mutter usw.).",
+        "Liegt am Kap Ratchavate im Norden von Pattaya.",
+        "Gilt als das grösste handgeschnitzte Holzgebäude der Welt."
+      ]
+    },
+    {
+      "id": "wat-chetuphon-wihan-history-v2",
+      "descriptionAdvanced": "Der Wat Chetuphon, besser bekannt unter seinem kürzeren Namen Wat Pho, ist historisch gesehen einer der bedeutendsten Tempel Siams und eng mit der Gründung Bangkoks verknüpft. Er wurde auf dem Gelände eines älteren Tempels aus der Ayutthaya-Zeit errichtet und von König Rama I. zu seinem persönlichen Tempel erhoben. Die Anlage diente als Wissensspeicher für das gesamte Königreich, in dem Inschriften über Medizin, Astronomie und Ethik für die Öffentlichkeit zugänglich gemacht wurden, was ihm den Ruf als erste Universität des Landes einbrachte. Ein architektonisches Highlight sind die vier grossen Chedis, die den ersten vier Königen der Chakri-Dynastie gewidmet sind und durch ihre farbenprächtigen Kachelmosaike bestechen. Die spirituelle Kraft des Ortes wird durch die über tausend Buddha-Figuren unterstrichen, die aus verschiedenen Teilen Thailands hierher gebracht wurden. Wat Chetuphon bleibt ein lebendiger Ort des Gebets, des Lernens und der traditionellen Heilkunst, der tief in der kulturellen DNA Thailands verwurzelt ist.",
+      "factsAdvanced": [
+        "Offizieller Sitz der nationalen Schule für traditionelle Thai-Medizin.",
+        "Die Anlage beherbergt die grösste Sammlung von Buddha-Bildern in Thailand.",
+        "Die vier 'Phra Maha Chedi Si Ratchakan' sind das Wahrzeichen der Anlage.",
+        "Wurde im Jahr 1788 von König Rama I. grundlegend renoviert.",
+        "Beherbergt 1.431 Steininschriften, die zum UNESCO-Erbe gehören.",
+        "Einer von nur sechs Tempeln des höchsten königlichen Ranges.",
+        "Bekannt für die kunstvoll gestalteten Steinstatuen von Wächtern (Giants).",
+        "Wichtiger Ort für die Erhaltung der thailändischen Massagekunst."
+      ]
+    },
+    {
+      "id": "wat-phra-si-sanphet-history-v2",
+      "descriptionAdvanced": "Der Wat Phra Si Sanphet war der heiligste und prächtigste Tempel im alten Ayutthaya und diente als direkter Vorläufer für den Wat Phra Kaeo in Bangkok. Er lag innerhalb des Areals des königlichen Palastes und war ausschliesslich der königlichen Familie vorbehalten. Das markanteste Merkmal der heutigen Ruinenstätte sind die drei grossen, glockenförmigen Chedis, die die Asche von drei bedeutenden Königen von Ayutthaya beherbergen. Einst thronte hier eine 16 Meter hohe, mit Gold überzogene Buddha-Statue, die dem Tempel seinen Namen gab, bevor sie bei der Zerstörung durch die Birmanen im Jahr 1767 geraubt und eingeschmolzen wurde. Die monumentalen Ausmasse der Anlage zeugen von der einstigen Macht und dem unermesslichen Reichtum des Königreichs Siam. Heute ist der Wat Phra Si Sanphet das Herzstück des UNESCO-Weltkulturerbe-Parks von Ayutthaya und ein melancholisches Symbol für vergängliche Pracht. Die Anlage ist besonders bei Sonnenuntergang ein Ort von erhabener Schönheit und historischer Stille.",
+      "factsAdvanced": [
+        "Bedeutendster Tempel der Ayutthaya-Periode (gegründet 1448).",
+        "Diente als Vorbild für den Tempel des Smaragd-Buddhas in Bangkok.",
+        "Die drei zentralen Chedis enthalten die Asche der Könige Borommaratchathirat II und III sowie Ramathibodi II.",
+        "Beherbergte ursprünglich eine goldene Buddha-Statue von 16 Metern Höhe.",
+        "Wurde im Jahr 1767 durch die birmanische Armee fast vollständig zerstört.",
+        "Teil des UNESCO-Weltkulturerbes 'Historische Stadt Ayutthaya'.",
+        "Lag innerhalb der Mauern des alten Königspalastes (Wang Luang).",
+        "Diente nur für königliche Zeremonien, keine Mönche lebten dort."
+      ]
+    },
+    {
+      "id": "vimanmek-mansion-history-v2",
+      "descriptionAdvanced": "Vimanmek Mansion in Bangkok ist berühmt als das grösste Gebäude der Welt, das komplett aus goldenem Teakholz errichtet wurde. Der prachtvolle Palast wurde im Jahr 1900 unter König Rama V. (Chulalongkorn) erbaut, nachdem er von der Insel Ko Sichang nach Bangkok verlegt worden war. Das Gebäude besticht durch seine elegante Architektur, die thailändische Traditionen mit viktorianischen Einflüssen verbindet, was den Modernisierungskurs des Königs widerspiegelt. Mit seinen 72 Zimmern diente es dem Monarchen für einige Jahre als Residenz und beherbergte später ein Museum für königliche Kunstschätze, Möbel und persönliche Gegenstände der Chakri-Dynastie. Die Mansion ist von wunderschönen Gärten im Dusit-Palastbezirk umgeben und bietet einen faszinierenden Einblick in das höfische Leben des frühen 20. Jahrhunderts. Derzeit ist das Gebäude aufgrund umfangreicher Restaurierungsarbeiten für die Öffentlichkeit geschlossen, bleibt aber ein bedeutendes architektonisches Denkmal für die Ära Chulalongkorns, in der Thailand seine Unabhängigkeit und kulturelle Identität bewahrte.",
+      "factsAdvanced": [
+        "Grösstes Teakholz-Gebäude der Welt, erbaut ohne Metallnägel.",
+        "Ursprünglich auf Ko Sichang erbaut und 1900 nach Bangkok versetzt.",
+        "Diente als Residenz für König Rama V. zwischen 1901 und 1906.",
+        "Besteht aus drei Stockwerken und hat einen L-förmigen Grundriss.",
+        "Architekturstil kombiniert Thai-Tradition mit neoklassizistischen Elementen.",
+        "Beherbergte die erste Dusche und elektrische Beleuchtung in Thailand.",
+        "Teil des Dusit-Palast-Komplexes in Bangkok.",
+        "Ein Symbol für die Modernisierung Siams um die Jahrhundertwende."
+      ]
+    },
+    {
+      "id": "wat-sri-chum-sukhothai-history-v2",
+      "descriptionAdvanced": "Der Wat Sri Chum ist einer der geheimnisvollsten und beeindruckendsten Tempel im Geschichtspark von Sukhothai, der ersten Hauptstadt Thailands. Bekannt ist er vor allem für den 'Phra Achana', eine monumentale sitzende Buddha-Statue, die in einem quadratischen, dachlosen Gebäude (Mondop) untergebracht ist. Durch einen schmalen Spalt in der Fassade erblickt man das friedliche Gesicht des Buddhas, was dem Ort eine fast überirdische Aura verleiht. Eine Legende besagt, dass die Statue zu den Soldaten sprechen konnte, um ihnen vor Schlachten Mut zuzusprechen – in Wahrheit verbarg sich ein Geheimgang in den dicken Mauern des Mondop, von dem aus der König zu seinen Truppen sprach. Die Statue selbst ist elf Meter breit und 15 Meter hoch und strahlt eine immense Ruhe aus. Die Wände des Geheimgangs sind mit den ältesten erhaltenen Steinritzungen Thailands verziert, die Szenen aus dem Leben Buddhas zeigen. Der Wat Sri Chum ist ein kraftvolles Zeugnis für die spirituelle Blütezeit der Sukhothai-Ära und ein Muss für jeden Besucher des Weltkulturerbes.",
+      "factsAdvanced": [
+        "Heimat der monumentalen 'Phra Achana' Buddha-Statue.",
+        "Die Statue ist etwa 15 Meter hoch und 11 Meter breit.",
+        "Der Name Phra Achana bedeutet 'der Unbewegliche'.",
+        "Gehört zum UNESCO-Weltkulturerbe 'Geschichtspark Sukhothai'.",
+        "Berühmt für die Legende des 'sprechenden Buddhas'.",
+        "Die Mauern des Mondop sind drei Meter dick und enthalten einen Geheimgang.",
+        "Bauzeit wird auf das 14. Jahrhundert (Sukhothai-Periode) datiert.",
+        "Die Statue wurde in den 1950er Jahren umfassend restauriert."
+      ]
+    },
+    {
+      "id": "battle-of-nong-sarai-history-v2",
+      "descriptionAdvanced": "Die Schlacht von Nong Sarai im Jahr 1593 ist einer der bedeutendsten und am meisten glorifizierten Momente der thailändischen Geschichte. Sie markiert den entscheidenden Sieg von König Naresuan dem Grossen über den birmanischen Kronprinzen Mingyi Swa und besiegelte die Unabhängigkeit des Königreichs Ayutthaya von der birmanischen Vorherrschaft. Der Legende nach wurde die Schlacht durch ein episches Duell auf Kriegselefanten entschieden, bei dem Naresuan den birmanischen Prinzen persönlich besiegte. Dieser Sieg wird heute als nationales Symbol für Tapferkeit und Freiheit gefeiert, und das Datum der Schlacht wird oft mit dem thailändischen Tag der Streitkräfte in Verbindung gebracht. Am Ort der Schlacht in der Provinz Suphan Buri steht heute das Don Chedi Monument, eine riesige Pagode, die zum Gedenken an diesen Triumph errichtet wurde. Jedes Jahr findet hier ein grosses Festival mit historischen Aufführungen statt, die den Elefantenkampf nachstellen. Für das thailändische Nationalbewusstsein ist Nong Sarai der Inbegriff des heroischen Widerstands gegen fremde Invasoren.",
+      "factsAdvanced": [
+        "Fand am 18. Januar 1593 in der Nähe von Suphan Buri statt.",
+        "Entscheidender Sieg des Königreichs Ayutthaya über das birmanische Reich Toungoo.",
+        "Berühmt für das Elefantenduell ('Yuddhahatthi') zwischen den Anführern.",
+        "König Naresuan der Grosse wurde durch diesen Sieg zum Nationalhelden.",
+        "Das Don Chedi Monument markiert den Ort des Geschehens.",
+        "Der thailändische Tag der Streitkräfte bezieht sich auf dieses historische Datum.",
+        "Sicherte Ayutthaya eine Phase der Stabilität für über 150 Jahre.",
+        "Thema zahlreicher thailändischer Filme, Bücher und Gemälde."
+      ]
+    },
+    {
+      "id": "wat-cheun-tha-history-v2",
+      "descriptionAdvanced": "Der Wat Cheun Tha ist ein weniger bekannter, aber architektonisch faszinierender Tempel in Ayutthaya, der für seine harmonische Lage am Ufer des Lopburi-Flusses bekannt ist. Obwohl er nicht zu den monumentalen Tempeln des zentralen Parks gehört, bietet er einen authentischen Einblick in die religiöse Architektur der späten Ayutthaya-Periode. Die Anlage besticht durch ihre gut erhaltenen Chedis und die Überreste eines Gebetssaals, der einst mit prächtigen Wandmalereien geschmückt war. Besucher schätzen die friedliche Stille des Ortes, der weitab von den grossen Touristenströmen liegt und eine melancholische Schönheit ausstrahlt. Der Name des Tempels ist eng mit dem lokalen Leben am Fluss verbunden und zeugt von der strategischen Bedeutung der Wasserwege für das alte Königreich. Historische Aufzeichnungen deuten darauf hin, dass der Tempel eine Rolle bei religiösen Zeremonien für die Bewohner der Flussufer spielte. Für Entdecker, die das 'unbekannte' Ayutthaya suchen, ist der Wat Cheun Tha ein wunderbarer Ort, um in die Geschichte einzutauchen und die Atmosphäre vergangener Jahrhunderte am Wasser zu geniessen.",
+      "factsAdvanced": [
+        "Liegt im nördlichen Teil der historischen Stadt Ayutthaya am Lopburi-Fluss.",
+        "Wurde vermutlich in der mittleren bis späten Ayutthaya-Periode erbaut.",
+        "Die Chedis zeigen den charakteristischen Stil der Epoche mit quadratischer Basis.",
+        "Bietet eine ruhige Alternative zu den überlaufenen Haupttempeln.",
+        "Wichtiger Punkt für das Verständnis der Besiedlung entlang der Flüsse.",
+        "Die Fundamente zeigen die klassische Ausrichtung nach Osten.",
+        "Wurde im Rahmen des UNESCO-Weltkulturerbe-Programms teilweise gesichert.",
+        "Ein idealer Ort für Fotografie abseits der Massen."
+      ]
+    },
+    {
+      "id": "khmer-ruins-of-lopburi-history-v2",
+      "descriptionAdvanced": "Die Khmer-Ruinen von Lopburi, allen voran der Prang Sam Yod, sind beeindruckende Zeugnisse der Ausdehnung des Angkor-Reiches bis tief in das heutige Zentralthailand. Die Stadt Lopburi, einst als Lavo bekannt, war ein bedeutendes religiöses und administratives Zentrum der Khmer im 12. und 13. Jahrhundert. Der Prang Sam Yod mit seinen drei markanten, aus Laterit und Sandstein errichteten Türmen repräsentiert die hinduistische Dreifaltigkeit, bevor er später in ein buddhistisches Heiligtum umgewandelt wurde. Die kunstvollen Reliefs und Skulpturen zeigen den typischen Bayon-Stil, der auch in Angkor Wat zu finden ist. Eine Besonderheit der Ruinen von Lopburi ist die Koexistenz mit hunderten von freilebenden Javaneraffen, die die antiken Bauwerke bevölkern und für eine einzigartige Atmosphäre sorgen. Neben dem Prang Sam Yod zeugen weitere Ruinen wie der Prang Khaek von der einstigen kulturellen Dominanz der Khmer. Diese Stätten sind nicht nur archäologische Schätze, sondern auch lebendige Symbole für die multikulturelle Geschichte Thailands, in der verschiedene Zivilisationen aufeinandertrafen.",
+      "factsAdvanced": [
+        "Wichtigstes Bauwerk ist der Prang Sam Yod mit seinen drei Türmen.",
+        "Erbaut im 13. Jahrhundert unter König Jayavarman VII.",
+        "Ursprünglich ein hinduistischer Schrein, später buddhistisch genutzt.",
+        "Besteht primär aus Laterit mit Stuckverzierungen.",
+        "Symbol für die Ausdehnung des Khmer-Reiches nach Westen.",
+        "Heimat der berühmten Affenpopulation von Lopburi.",
+        "Bietet wertvolle Einblicke in den Bayon-Architekturstil.",
+        "Liegt im Herzen der Altstadt von Lopburi."
+      ]
+    },
+    {
+      "id": "king-taksin-monument-history-v2",
+      "descriptionAdvanced": "Das King Taksin Monument in Bangkok ehrt einen der grössten und am meisten verehrten Monarchen Thailands, der das Land nach der totalen Zerstörung Ayutthayas im Jahr 1767 vor dem Untergang rettete. König Taksin der Grosse vereinte die zersplitterten thailändischen Fürstentümer, vertrieb die birmanischen Invasoren und gründete die neue Hauptstadt Thonburi am Westufer des Chao Phraya. Das imposante Reiterstandbild am Wongwian Yai Kreisverkehr zeigt den König in kampfbereiter Pose mit erhobenem Schwert, ein Symbol für seinen unermüdlichen Kampfgeist und seine Führungsstärke. Für die Bevölkerung Thailands ist er ein Nationalheld, der für nationale Wiedergeburt und Souveränität steht. Jedes Jahr am 28. Dezember, dem Tag seiner Krönung, finden am Monument grosse Gedenkzeremonien statt. Taksin war nicht nur ein genialer Militärstratege, sondern förderte auch den Handel und die religiöse Erneuerung Siams. Das Denkmal ist ein wichtiger Ort der nationalen Identität und erinnert an die Ära, die den Grundstein für das heutige Thailand und die spätere Gründung Bangkoks legte.",
+      "factsAdvanced": [
+        "Gedenkstätte für den einzigen König der Thonburi-Ära (1767–1782).",
+        "Das Monument wurde 1954 von dem berühmten Künstler Silpa Bhirasri entworfen.",
+        "Liegt im Zentrum des Wongwian Yai Kreisverkehrs in Thonburi.",
+        "König Taksin befreite Siam nach dem Fall von Ayutthaya in nur sieben Monaten.",
+        "Wird am 28. Dezember, dem King Taksin Memorial Day, feierlich geehrt.",
+        "Das Standbild zeigt ihn auf seinem Pferd mit erhobenem Säbel.",
+        "Taksin verlegte die Hauptstadt nach Thonburi wegen der strategischen Lage.",
+        "Er gilt als Schutzpatron des thailändischen Militärs und der Händler."
+      ]
+    },
+    {
+      "id": "cemetery-of-allied-prisoners-history-v2",
+      "descriptionAdvanced": "Der Friedhof der alliierten Kriegsgefangenen in Kanchanaburi ist ein bewegendes Mahnmal an die dunklen Jahre des Zweiten Weltkriegs und das unermessliche Leid beim Bau der 'Todesbahn'. Auf dem akribisch gepflegten Gelände ruhen über 6.900 Soldaten, vorwiegend aus Grossbritannien, den Niederlanden und Australien, die als Gefangene der japanischen Armee unter unmenschlichen Bedingungen am Bau der Eisenbahnstrecke nach Myanmar schuften mussten und an Erschöpfung, Hunger oder Krankheiten starben. Die endlosen Reihen von Bronzeplaketten auf den flachen Steingräbern vermitteln eine bedrückende Stille und regen zum Nachdenken über den Preis von Krieg und Tyrannei an. Der Friedhof wird von der Commonwealth War Graves Commission verwaltet und ist ein Ort internationaler Trauer und Versöhnung. Besucher aus aller Welt kommen hierher, um den Opfern Respekt zu zollen, oft verbunden mit einem Besuch der nahegelegenen Brücke am Kwai. Kanchanaburi bleibt durch diesen Ort untrennbar mit dem globalen Gedächtnis an die Gräueltaten des Pazifikkriegs verbunden.",
+      "factsAdvanced": [
+        "Ruhestätte für 6.982 alliierte Kriegsgefangene.",
+        "Gefangene starben beim Bau der Thailand-Burma-Eisenbahn (Death Railway).",
+        "Verwaltet von der Commonwealth War Graves Commission (CWGC).",
+        "Die meisten Opfer stammten aus Grossbritannien, Australien und den Niederlanden.",
+        "Befindet sich an der Saeng Chuto Road im Stadtzentrum von Kanchanaburi.",
+        "Ein zweiter Friedhof, Chungkai, liegt etwas ausserhalb der Stadt.",
+        "In der Nähe befindet sich das Thailand-Burma Railway Centre (Museum).",
+        "Ein Ort für jährliche Gedenkfeiern zum ANZAC Day am 25. April."
+      ]
+    },
+    {
+      "id": "wat-phra-that-doi-suthep-history-v2",
+      "descriptionAdvanced": "Der Wat Phra That Doi Suthep ist der heiligste Tempel Nordthailands und thront majestätisch auf dem gleichnamigen Berg hoch über der Stadt Chiang Mai. Der Legende nach wurde der Ort für den Tempel von einem weissen Elefanten gewählt, der eine heilige Reliquie Buddhas trug und an dieser Stelle dreimal trompetete, bevor er verstarb. Das Herzstück der Anlage ist der goldene Chedi, der weithin sichtbar im Sonnenlicht glänzt und von unzähligen kunstvollen Buddha-Statuen, Glockenspielen und Wandmalereien umgeben ist. Um den Tempel zu erreichen, müssen Besucher eine prachtvolle Treppe mit 306 Stufen erklimmen, deren Geländer von schuppigen Nagas (Schlangenwesen) gebildet wird. Von der Aussichtsplattform des Tempels bietet sich ein spektakulärer Panoramablick über das gesamte Chiang-Mai-Tal. Der Wat Phra That Doi Suthep ist ein bedeutendes Pilgerziel für Buddhisten aus aller Welt und ein unvergleichliches Symbol für die spirituelle Kraft und kulturelle Identität der Lan Na Region. Die kühle Bergluft und das ferne Klingen der Tempelglocken verleihen dem Ort eine erhabene Ruhe.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1383 durch König Kue Na.",
+        "Liegt auf einer Höhe von 1.073 Metern über dem Meeresspiegel.",
+        "Der zentrale goldene Chedi beherbergt eine Reliquie (Schulterknochen) Buddhas.",
+        "Die Naga-Treppe hat 306 Stufen und ist die längste ihrer Art.",
+        "Ein weisser Elefant bestimmte der Legende nach den Standort.",
+        "Bietet den besten Aussichtspunkt über die Stadt Chiang Mai.",
+        "Ein wichtiges Zentrum für Vipassana-Meditation in Nordthailand.",
+        "Der Tempel ist ein Symbol auf dem Wappen der Provinz Chiang Mai."
+      ]
+    }
+  ]
+}

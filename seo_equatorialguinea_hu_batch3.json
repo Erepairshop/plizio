@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cogo-cities-v2",
+      "descriptionAdvanced": "Cogo a Río Muni régió déli határán, az Estuario de Muni folyó torkolatvidékén fekszik, és jelentős tengeri kikötője az országnak. A település történelmileg fontos szerepet játszott a régió kereskedelmében, ma pedig a halászat és az erdőgazdálkodás egyik legfontosabb központja. A környező mangroveerdők és vizes élőhelyek védett területnek számítanak, amelyek gazdag biodiverzitást biztosítanak. Cogo stratégiai fekvése révén fontos kapu a déli régiók számára, miközben természeti szépségei miatt a jövőbeni turisztikai fejlesztések számára is potenciállal bír. Tanterv: Földrajz K7, Környezettan K8.",
+      "factsAdvanced": [
+        "A Río Muni torkolatvidékén fekszik.",
+        "Fontos tengeri kikötőváros.",
+        "A halászat és erdőgazdálkodás központja.",
+        "Védett mangrove-ökoszisztémák övezik.",
+        "Stratégiai fekvésű a déli régiók számára.",
+        "Potenciális turisztikai fejlesztési központ."
+      ]
+    },
+    {
+      "id": "nsork-cities-v2",
+      "descriptionAdvanced": "Nsork a szárazföldi rész keleti részén, Wele-Nzas tartományban található, és a környező erdővidékek kereskedelmi központjaként ismert. A város a mezőgazdasági termékek összegyűjtésében és a helyi kereskedelemben játszik alapvető szerepet. A környéken jellemző a hagyományos gazdálkodás és az erdő alapú megélhetés, amely meghatározza az itt élők mindennapjait. Nsork a központi fekvése miatt a régió fontos logisztikai pontja, amelyen keresztül a vidéki termékek eljutnak a távolabbi piacokra. Tanterv: Földrajz K6, Gazdaságtan K8.",
+      "factsAdvanced": [
+        "Wele-Nzas tartomány városa.",
+        "A környező erdővidékek kereskedelmi központja.",
+        "Mezőgazdasági termékgyűjtőpont.",
+        "Hagyományos gazdálkodási központ.",
+        "Fontos regionális logisztikai állomás.",
+        "A vidéki és városi piacokat összekötő pont."
+      ]
+    }
+  ]
+}

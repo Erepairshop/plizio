@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-lagos-city-cities-v2",
+      "descriptionAdvanced": "Lagos is a vibrant megacity and the economic powerhouse of Nigeria, originally serving as the capital until 1991. Situated on the Atlantic coast, the city comprises a mix of islands and mainland areas connected by extensive bridges like the Third Mainland Bridge. It is home to the bustling tech ecosystem often dubbed Yabacon Valley and hosts one of the largest and busiest ports in Africa. Known for its dynamic culture, Lagos is the birthplace of the globally recognized Afrobeat music genre and the Nigerian film industry, Nollywood. The city faces significant urban challenges due to its rapid population growth, but remains the undisputed financial hub of the region. Geography K8 — megacities and urban growth.",
+      "factsAdvanced": [
+        "Served as Nigeria's capital until December 1991.",
+        "Home to the Third Mainland Bridge, one of the longest in Africa.",
+        "The Apapa port handles the majority of Nigeria's import and export trade.",
+        "Considered the center of the Nigerian film industry, Nollywood.",
+        "The city spans multiple islands, including Victoria Island and Ikoyi.",
+        "Nollywood produces over 2,500 movies annually, centered mainly in Lagos."
+      ]
+    },
+    {
+      "id": "ng-kano-city-cities-v2",
+      "descriptionAdvanced": "Kano is one of the oldest and most historically significant cities in West Africa, deeply rooted in trans-Saharan trade history. The city is defined by its ancient walls and the impressive Emir's Palace, which stands as a symbol of the traditional Kano Emirate. For centuries, it has been a prominent center for Islamic scholarship and traditional crafts, notably its renowned indigo-dyed fabrics. Today, Kano serves as the commercial nerve center of Northern Nigeria, balancing its rich historical heritage with a rapidly modernizing economy. The city's bustling Kurmi Market remains one of the oldest continuous markets in Africa. History K7 — trans-Saharan trade networks.",
+      "factsAdvanced": [
+        "Features the centuries-old Kano city walls built for defense.",
+        "Home to the ancient Kurmi Market, established in the 15th century.",
+        "Serves as the capital of Kano State in Northern Nigeria.",
+        "Famous for traditional indigo dye pits, some over 500 years old.",
+        "The Kano Emirate remains a powerful traditional institution.",
+        "A major hub for agricultural trade, especially groundnuts and cotton."
+      ]
+    },
+    {
+      "id": "ng-ibadan-cities-v2",
+      "descriptionAdvanced": "Ibadan is a sprawling metropolis in southwestern Nigeria, historically significant as a military state established in the 1820s. It boasts several monumental firsts for the nation, including the establishment of the University of Ibadan in 1948, making it a premier center for education. The city's skyline is punctuated by the Cocoa House, a towering testament to the region's agricultural wealth during the mid-20th century. Ibadan's vast territorial spread makes it the largest city by geographical area in the country, characterized by its distinctive brown, rusted roofs. The city remains a crucial junction linking the coast with the hinterland. Geography K7 — urban expansion and historical settlements.",
+      "factsAdvanced": [
+        "Founded in the 1820s as a military sanctuary for the Yoruba people.",
+        "Hosts the University of Ibadan, Nigeria's first degree-awarding institution.",
+        "The Cocoa House was once the tallest building in tropical Africa.",
+        "Recognized as the largest city in Nigeria by geographical landmass.",
+        "Contains the University College Hospital, established in 1952.",
+        "Bower's Tower offers panoramic views of the city's iconic rusted roofs."
+      ]
+    },
+    {
+      "id": "ng-port-harcourt-cities-v2",
+      "descriptionAdvanced": "Port Harcourt, affectionately known as the Garden City, was established by the British in 1912 primarily to export coal. Located in the Niger Delta, it has evolved into the central hub of Nigeria's petroleum industry, driving significant economic activity. The city hosts multiple refineries and serves as the operational base for numerous multinational oil companies. Despite its industrial focus, it retains a vibrant culture and is a major port along the Bonny River. The rapid industrialization has brought wealth but also pressing environmental concerns related to the oil sector. Geography K8 — industrial resources and port cities.",
+      "factsAdvanced": [
+        "Founded in 1912 to export coal from the Enugu collieries.",
+        "Named after Lewis Harcourt, the British Secretary of State for the Colonies.",
+        "Considered the primary capital of the Nigerian oil and gas industry.",
+        "Located along the Bonny River, facilitating major maritime trade.",
+        "Hosts the Port Harcourt Tourist Beach, a popular recreational spot.",
+        "The city experiences heavy rainfall typical of a tropical monsoon climate."
+      ]
+    },
+    {
+      "id": "ng-benin-city-cities-v2",
+      "descriptionAdvanced": "Benin City is the heart of the illustrious historical Benin Empire, a civilization celebrated globally for its sophisticated art and culture. The city is most famous for the Benin Bronzes, exquisite brass and bronze sculptures created by guild artisans dating back to the 13th century. Once enclosed by the massive Walls of Benin, considered one of the largest man-made structures prior to the modern era, the city holds immense historical weight. Today, the Oba of Benin continues to be a highly respected traditional ruler, preserving the deep cultural heritage of the Edo people. History K8 — ancient African empires and artifacts.",
+      "factsAdvanced": [
+        "Capital of the historical Benin Empire, dating back to the 11th century.",
+        "Famous for the intricate Benin Bronzes looted during the 1897 expedition.",
+        "The ancient Walls of Benin were an extensive network of earthworks.",
+        "The Oba's Palace remains the center of traditional Edo culture.",
+        "Located in Edo State, serving as a major commercial center.",
+        "Known for highly skilled traditional brass casters who still operate today."
+      ]
+    },
+    {
+      "id": "ng-kaduna-city-cities-v2",
+      "descriptionAdvanced": "Kaduna is an important political and industrial center located on the Kaduna River in Northern Nigeria. It was established by the British colonial administration in 1913 and served as the capital of the defunct Northern Region. The city became a major hub for the textile industry, although its economy has since diversified into manufacturing and agriculture. Kaduna acts as a vital transportation junction, linking northern trade routes with the southern ports via rail and road. The city is a melting pot of various ethnic and religious groups, reflecting the complex demographic tapestry of the nation. Geography K7 — colonial administrative centers and rail hubs.",
+      "factsAdvanced": [
+        "Founded in 1913 by British colonial authorities as a railway junction.",
+        "Served as the administrative capital of Nigeria's Northern Region.",
+        "Located along the banks of the Kaduna River.",
+        "Historically dominated by a massive, now-declining textile industry.",
+        "Hosts the National Museum Kaduna, featuring terracotta figures.",
+        "A critical road and railway junction connecting north and south."
+      ]
+    },
+    {
+      "id": "ng-jos-cities-v2",
+      "descriptionAdvanced": "Jos is uniquely situated on the Jos Plateau at an elevation of over 1,200 meters, granting it a temperate climate rarely found elsewhere in Nigeria. The city's origins are deeply tied to the tin mining boom of the early 20th century, which attracted a diverse population from across the country and Europe. This mining legacy left a landscape dotted with artificial lakes and deep gorges, now forming distinct geographical features. Known for its agricultural output, particularly temperate crops like strawberries and Irish potatoes, Jos is a major food basket. Despite historical conflicts, it remains a culturally rich and geographically stunning destination. Geography K7 — high plateaus and climate zones.",
+      "factsAdvanced": [
+        "Located at an elevation of approximately 1,217 meters above sea level.",
+        "Enjoys a significantly cooler, more temperate climate than the rest of Nigeria.",
+        "Developed rapidly in the 1920s due to large-scale tin mining operations.",
+        "Produces temperate crops rarely grown elsewhere in the country.",
+        "Surrounded by unique geological formations, including the Shere Hills.",
+        "Home to the Jos Wildlife Park and an important national museum."
+      ]
+    },
+    {
+      "id": "ng-ilorin-cities-v2",
+      "descriptionAdvanced": "Ilorin stands as a fascinating cultural crossroads, where the traditions of the southern Yoruba people blend seamlessly with the Islamic heritage of the northern Hausa-Fulani. Historically, it served as a major military outpost and provincial capital of the Oyo Empire before becoming an emirate in the 19th century. The city is celebrated for its traditional pottery and the distinct Aso Oke weaving, which remains an essential part of local commerce. As the capital of Kwara State, Ilorin boasts significant educational institutions and a growing agricultural processing sector. The grand Central Mosque is a prominent landmark symbolizing the city's religious identity. History K7 — cultural crossroads and historic empires.",
+      "factsAdvanced": [
+        "Acts as a cultural boundary between Northern and Southern Nigeria.",
+        "Historically a provincial military headquarters of the ancient Oyo Empire.",
+        "Transformed into an Islamic emirate during the early 19th century.",
+        "Renowned for traditional arts, including pottery and Aso Oke weaving.",
+        "The Ilorin Central Mosque is a central architectural and religious landmark.",
+        "Capital of Kwara State, known as the 'State of Harmony'."
+      ]
+    },
+    {
+      "id": "ng-maiduguri-cities-v2",
+      "descriptionAdvanced": "Maiduguri is the largest city in northeastern Nigeria, serving as the capital of Borno State and a historic gateway to the Lake Chad region. Founded in 1907 by the British as a military outpost, it quickly grew into a major commercial hub for trans-Saharan trade routes. The city has a deep-rooted Islamic scholarly tradition, deeply connected to the ancient Kanem-Borno Empire. The climate is notoriously hot and semi-arid, influencing local agriculture and architecture. While recently impacted by regional conflicts, Maiduguri remains a vital cultural and economic lifeline for the Sahelian edge of the country. Geography K7 — semi-arid cities and border trade.",
+      "factsAdvanced": [
+        "Founded in 1907 as a British military outpost.",
+        "Serves as the modern center of the historic Kanem-Borno Empire.",
+        "Features a hot, semi-arid climate typical of the Sahel region.",
+        "The principal trading hub connecting Nigeria with Chad and Cameroon.",
+        "Home to the University of Maiduguri, a major educational center.",
+        "The primary gateway to the shrinking Lake Chad basin."
+      ]
+    },
+    {
+      "id": "ng-enugu-city-cities-v2",
+      "descriptionAdvanced": "Enugu, widely recognized as the 'Coal City', was built around the massive coal deposits discovered by colonial explorers in 1909. For decades, it was the driving force of Nigeria's energy sector, powering railways and steamships across West Africa. The city rests at the foot of the Udi Hills, providing a picturesque, undulating landscape that defines its urban layout. Today, Enugu is a major cultural and administrative center for the Igbo people and the capital of Enugu State. Its economy has transitioned from mining to commerce, education, and an emerging film industry within Nollywood. History K8 — colonial resource extraction.",
+      "factsAdvanced": [
+        "Developed primarily due to the discovery of coal in 1909.",
+        "Served as the capital of the Eastern Region and the short-lived Republic of Biafra.",
+        "The name translates roughly to 'Top of the Hill' in the Igbo language.",
+        "Nestled at the base of the prominent Udi Hills.",
+        "Features the historic Iva Valley coal mine, site of a major 1949 strike.",
+        "Has transitioned into a hub for education and the Nollywood film industry."
+      ]
+    },
+    {
+      "id": "ng-zaria-cities-v2",
+      "descriptionAdvanced": "Zaria is an ancient city steeped in Hausa history, originally known as Zazzau and recognized as one of the original seven Hausa city-states. It is deeply associated with the legendary Queen Amina, a 16th-century warrior queen who expanded the city's territory and fortifications. The old city is still surrounded by remnants of massive earthen walls that once provided defense. Today, Zaria is predominantly known as a major educational center, hosting Ahmadu Bello University, which is one of the largest and most prestigious universities in Sub-Saharan Africa. The city maintains a strong agricultural sector, particularly in cotton and tobacco. History K7 — Hausa city-states and ancient fortifications.",
+      "factsAdvanced": [
+        "Historically known as Zazzau, one of the original seven Hausa city-states.",
+        "Famed as the domain of the legendary 16th-century warrior Queen Amina.",
+        "Hosts Ahmadu Bello University, established in 1962.",
+        "Surrounded by remnants of ancient defensive mud walls.",
+        "A major center for traditional Islamic education and scholarship.",
+        "Known for the cultivation and processing of cotton and tobacco."
+      ]
+    },
+    {
+      "id": "ng-aba-cities-v2",
+      "descriptionAdvanced": "Aba is widely celebrated as the commercial and manufacturing powerhouse of southeastern Nigeria. The city is defined by its massive Ariaria International Market, which is often cited as the largest market of its kind in West Africa, attracting traders from neighboring countries. Aba has a strong reputation for indigenous manufacturing, producing everything from textiles and footwear to plastics, often branded as 'Aba Made'. Historically, it was the site of the famous 1929 Aba Women's Riot, a significant anti-colonial protest. The city's industrious spirit makes it a vital engine for the regional economy. Geography K8 — industrial hubs and regional trade.",
+      "factsAdvanced": [
+        "Home to the Ariaria International Market, one of West Africa's largest.",
+        "Famous for local manufacturing, commonly referred to as 'Aba Made' goods.",
+        "Site of the historic 1929 Aba Women's Riot against British colonial taxation.",
+        "A major center for the production of textiles, shoes, and plastics.",
+        "Serves as a crucial commercial intersection for southeastern states.",
+        "Grew rapidly as a market town following the arrival of the railway in 1915."
+      ]
+    },
+    {
+      "id": "ng-onitsha-cities-v2",
+      "descriptionAdvanced": "Onitsha holds a strategic position on the eastern bank of the Niger River, making it an indispensable inland port and commercial center. The city is renowned for the Onitsha Main Market, historically regarded as the largest open-air market in West Africa by geographical size and volume of goods. It serves as a crucial transit point bridging Western and Eastern Nigeria via the iconic Niger Bridge. Beyond commerce, Onitsha has a rich cultural heritage, with the traditional ruler, the Obi of Onitsha, playing a significant role in local customs. The city's immense trading network influences the economy of the entire region. Geography K7 — river ports and commercial geography.",
+      "factsAdvanced": [
+        "Strategically located on the eastern bank of the Niger River.",
+        "Hosts the Onitsha Main Market, a colossal center for West African commerce.",
+        "Connected to Western Nigeria via the vital Niger Bridge, completed in 1965.",
+        "The traditional monarch is known as the Obi of Onitsha.",
+        "A major transit point for goods traveling between the coast and the hinterland.",
+        "Famous for the 'Onitsha Market Literature', a prominent literary movement in the 1960s."
+      ]
+    },
+    {
+      "id": "ng-warri-cities-v2",
+      "descriptionAdvanced": "Warri is a critical industrial and commercial hub situated in the oil-rich Delta State of southern Nigeria. Originally a prominent provincial center for trade in palm oil and rubber during the late 19th century, its economy drastically shifted with the discovery of crude oil. Today, the city is defined by its deep-water port and a massive petrochemical refinery, making it essential to the national economy. The local culture is a dynamic mix of the Urhobo, Itsekiri, and Ijaw ethnic groups, overseen by traditional rulers like the Olu of Warri. The city remains a focal point for maritime trade and the energy sector. Geography K8 — petrochemical industry and coastal economics.",
+      "factsAdvanced": [
+        "A major center for the Nigerian petrochemical and oil industries.",
+        "Historically significant as a port for the palm oil and rubber trade.",
+        "Home to the Warri Refinery and Petrochemicals Company.",
+        "Features a diverse population of Urhobo, Itsekiri, and Ijaw peoples.",
+        "The traditional ruler of the Itsekiri people is the Olu of Warri.",
+        "Serves as a critical deep-water port connecting the Niger Delta to the Atlantic."
+      ]
+    },
+    {
+      "id": "ng-sokoto-city-cities-v2",
+      "descriptionAdvanced": "Sokoto occupies a profound place in Nigerian history as the epicenter of the Sokoto Caliphate, established by Usman dan Fodio in the early 19th century. Today, it remains the spiritual headquarters for Nigerian Muslims, with the Sultan of Sokoto serving as the preeminent Islamic leader in the country. Located in the extreme northwest, the city experiences a harsh, semi-arid climate that deeply influences its agricultural practices, heavily dependent on the Sokoto River and irrigation. The local economy is driven by livestock rearing, leather work, and traditional farming. Sokoto is a bastion of Islamic scholarship and traditional Hausa-Fulani architecture. History K8 — the Sokoto Caliphate and religious centers.",
+      "factsAdvanced": [
+        "Capital of the historic Sokoto Caliphate founded in 1804.",
+        "The Sultan of Sokoto is recognized as the spiritual leader of Nigerian Muslims.",
+        "Located near the confluence of the Sokoto and Rima rivers.",
+        "Experiences an extreme semi-arid climate with distinct dry and wet seasons.",
+        "Famous for high-quality Moroccan leather, historically sourced from Sokoto.",
+        "A major center for traditional Islamic education and scholarship."
+      ]
+    },
+    {
+      "id": "ng-calabar-cities-v2",
+      "descriptionAdvanced": "Calabar is widely regarded as one of Nigeria's most beautiful and historically significant cities, nestled in the southeastern corner near the Cameroon border. It served as the first capital of the Southern Nigeria Protectorate and was a major port during the transatlantic slave trade before transitioning to the export of palm oil. Today, Calabar is renowned for its cleanliness, rich colonial architecture, and as a premier tourist destination. The city hosts the massive annual Calabar Carnival, dubbed 'Africa's Biggest Street Party', drawing visitors globally. It also serves as the gateway to the Cross River National Park, a vital biodiversity hotspot. Geography K7 — coastal tourism and colonial history.",
+      "factsAdvanced": [
+        "Served as the first capital of the Southern Nigeria Protectorate.",
+        "A historically significant port city during both the slave and palm oil trades.",
+        "Hosts the annual Calabar Carnival, one of Africa's largest street festivals.",
+        "Known for its well-preserved colonial architecture and clean streets.",
+        "Gateway to the ecologically diverse Cross River National Park.",
+        "Features a prominent Free Trade Zone to encourage regional commerce."
+      ]
+    },
+    {
+      "id": "ng-uyo-cities-v2",
+      "descriptionAdvanced": "Uyo has rapidly transformed into one of the most organized and visually striking cities in southern Nigeria, serving as the capital of the oil-rich Akwa Ibom State. Benefiting immensely from petroleum revenues, the city boasts modern infrastructure, including an expansive road network and the impressive Godswill Akpabio International Stadium. Uyo is characterized by its lush tropical surroundings and a generally peaceful, orderly atmosphere compared to other major hubs. It serves as a central point for the local agricultural industry, particularly in palm produce and seafood. The city reflects modern urban planning backed by regional oil wealth. Geography K7 — modern urban planning and regional wealth.",
+      "factsAdvanced": [
+        "Capital of Akwa Ibom State, a major oil-producing region.",
+        "Home to the Godswill Akpabio International Stadium, known as the 'Nest of Champions'.",
+        "Has experienced rapid infrastructural development driven by petroleum revenues.",
+        "Known for its orderly street layouts and relatively peaceful environment.",
+        "A major center for the trading of palm oil, yams, and seafood.",
+        "Features a tropical monsoon climate with significant annual rainfall."
+      ]
+    },
+    {
+      "id": "ng-ado-ekiti-cities-v2",
+      "descriptionAdvanced": "Ado Ekiti is a historic city nestled among the rugged, rocky hills of southwestern Nigeria. As the cultural and political capital of the Ekiti people, it has a long history of independent kingdoms and resistance during the Yoruba civil wars of the 19th century. Today, the city is primarily known for its strong emphasis on education, frequently boasting a high concentration of academics and professors per capita. The economy is heavily reliant on agriculture, with the surrounding fertile lands producing significant quantities of cocoa, yams, and timber. The landscape is characterized by prominent granite outcrops that define the city's geography. Geography K7 — highland settlements and agricultural zones.",
+      "factsAdvanced": [
+        "Serves as the capital of Ekiti State and the heartland of the Ekiti people.",
+        "Historically known for its independence and resistance during the 19th-century Yoruba wars.",
+        "Surrounded by distinctive, rugged granite hills and outcrops.",
+        "Has a strong reputation as a center for education and academia.",
+        "A major agricultural hub for the production of cocoa, yams, and cassava.",
+        "The traditional ruler of the city is known as the Ewi of Ado Ekiti."
+      ]
+    },
+    {
+      "id": "ng-akure-cities-v2",
+      "descriptionAdvanced": "Akure serves as the bustling administrative and economic capital of Ondo State, a region fundamentally shaped by the cocoa boom of the 20th century. The city has grown from a traditional Yoruba settlement into a modern commercial hub, balancing historical traditions with urban expansion. The Deji of Akure's palace remains a central cultural monument, reflecting the city's deep ancestral roots. Surrounded by dense tropical rainforests, Akure is a critical center for timber processing and agricultural trade, particularly for cocoa and palm produce. It also hosts the Federal University of Technology, driving local innovation. Geography K7 — agricultural trade centers.",
+      "factsAdvanced": [
+        "Capital of Ondo State, historically a major center for cocoa production.",
+        "Features the ancient palace of the Deji of Akure, a significant cultural site.",
+        "Surrounded by dense tropical rainforests that support a local timber industry.",
+        "Hosts the Federal University of Technology, Akure (FUTA).",
+        "A critical hub for the regional trade of yams, cassava, and palm oil.",
+        "Has experienced significant urban expansion over the past three decades."
+      ]
+    },
+    {
+      "id": "ng-abeokuta-cities-v2",
+      "descriptionAdvanced": "Abeokuta, whose name translates to 'Under the Rock', is famously defined by the massive Olumo Rock that towers over the city. Founded in 1830 by Egba refugees fleeing the collapse of the Oyo Empire, the rock provided natural fortifications and a safe haven. Today, this historic city is the capital of Ogun State and a major center for traditional Adire fabric dyeing, a vibrant indigo craft. Abeokuta combines its rich 19th-century history with modern industrial growth, heavily influenced by its proximity to Lagos. The city serves as a crucial agricultural and manufacturing link in southwestern Nigeria. History K7 — natural fortifications and refugee settlements.",
+      "factsAdvanced": [
+        "Founded in 1830 by Egba refugees utilizing Olumo Rock as a fortress.",
+        "The name Abeokuta literally means 'Under the Rock' in the Yoruba language.",
+        "Famous for the production of traditional Adire indigo-dyed cloth.",
+        "Olumo Rock is now a major tourist attraction featuring an elevator and museum.",
+        "Serves as the capital of Ogun State and an industrial satellite to Lagos.",
+        "Located on the east bank of the Ogun River."
+      ]
+    },
+    {
+      "id": "ng-osogbo-cities-v2",
+      "descriptionAdvanced": "Osogbo is globally celebrated as the cultural heart of traditional Yoruba religion, primarily due to the sacred Osun-Osogbo Grove. This pristine forest, a UNESCO World Heritage site, is dedicated to the river goddess Osun and is dotted with striking shrines and sculptures. The city gained prominence in the 20th century as a center for contemporary African art, pioneered by the Osogbo School of Art. Beyond its deep spiritual and artistic heritage, Osogbo serves as the administrative capital of Osun State and a busy commercial junction. The annual Osun-Osogbo festival draws thousands of devotees and tourists worldwide. History K8 — UNESCO heritage and traditional religions.",
+      "factsAdvanced": [
+        "Home to the Osun-Osogbo Sacred Grove, a UNESCO World Heritage site.",
+        "Hosts the annual Osun-Osogbo festival, attracting global tourists and devotees.",
+        "Known as a major center for the Osogbo School of Art and traditional crafts.",
+        "Serves as the capital and administrative center of Osun State.",
+        "Located along the banks of the Osun River.",
+        "Historically known for its textile dyeing and brass casting industries."
+      ]
+    },
+    {
+      "id": "ng-bauchi-city-cities-v2",
+      "descriptionAdvanced": "Bauchi serves as a critical gateway to the diverse landscapes of northeastern Nigeria, blending Islamic heritage with natural wonders. The city is the administrative center of Bauchi State and lies on the edge of the Jos Plateau, offering a slightly more moderate climate than the extreme north. It is most famous internationally as the staging point for the Yankari National Park, Nigeria's premier wildlife reserve known for its elephants and natural warm springs. The city itself features traditional Hausa architecture and the tomb of Sir Abubakar Tafawa Balewa, Nigeria's first Prime Minister. Bauchi is a peaceful, culturally rich city rooted in agriculture. Geography K7 — gateways to national parks.",
+      "factsAdvanced": [
+        "The primary gateway to Yankari National Park, famous for its elephant population.",
+        "Houses the tomb of Sir Abubakar Tafawa Balewa, Nigeria's first Prime Minister.",
+        "Located on the northeastern edge of the Jos Plateau.",
+        "Capital of Bauchi State, featuring a mix of Islamic and indigenous cultures.",
+        "The economy is heavily reliant on agriculture, particularly cotton and groundnuts.",
+        "Founded in the 19th century as part of the Sokoto Caliphate."
+      ]
+    },
+    {
+      "id": "ng-owerri-cities-v2",
+      "descriptionAdvanced": "Owerri is the bustling capital of Imo State, widely celebrated across Nigeria for its vibrant nightlife and entertainment industry. The city boasts an exceptionally high density of hotels, casinos, and recreational centers, making it a major destination for domestic tourism in the southeast. Despite its modern reputation as a leisure hub, Owerri has a deep historical significance, having served as the last capital of the Republic of Biafra during the Nigerian Civil War. The city is surrounded by agricultural lands producing palm oil and cassava, though its economy is increasingly driven by commerce and hospitality. Geography K8 — urban tourism and entertainment hubs.",
+      "factsAdvanced": [
+        "Widely known as the entertainment and hospitality capital of southeastern Nigeria.",
+        "Served as the final capital of the Republic of Biafra during the Civil War.",
+        "Features a very high density of hotels, restaurants, and recreational centers.",
+        "Capital of Imo State, a predominantly Igbo-speaking region.",
+        "Hosts several higher education institutions, including the Federal University of Technology Owerri.",
+        "The local economy is heavily supported by the service sector and domestic tourism."
+      ]
+    },
+    {
+      "id": "ng-yola-cities-v2",
+      "descriptionAdvanced": "Yola is beautifully situated along the banks of the Benue River, serving as the administrative and cultural heart of Adamawa State in eastern Nigeria. The city is essentially divided into two distinct parts: the old traditional town, which houses the palace of the Lamido of Adamawa, and the newer administrative center of Jimeta. Yola's geography is characterized by rolling hills and a tropical savanna climate, making it a critical hub for regional agriculture and livestock trading. It is also home to the prestigious American University of Nigeria, which has brought a modern educational focus to the historic city. Geography K7 — river settlements and savanna climates.",
+      "factsAdvanced": [
+        "Located on the banks of the Benue River in eastern Nigeria.",
+        "Divided into the historic town of Yola and the modern administrative center, Jimeta.",
+        "The Lamido of Adamawa is the traditional ruler based in the old city.",
+        "Hosts the American University of Nigeria, founded in 2004.",
+        "A major regional hub for the trading of cattle, hides, and agricultural produce.",
+        "Features a tropical savanna climate with distinct wet and dry seasons."
+      ]
+    },
+    {
+      "id": "ng-umuahia-cities-v2",
+      "descriptionAdvanced": "Umuahia is the quiet but strategically important capital of Abia State, historically known as a major railway distribution center for agricultural produce. During the Nigerian Civil War, it briefly served as the capital of the Republic of Biafra and now houses the National War Museum, which preserves artifacts and bunkers from the conflict. The city is set amidst lush tropical rainforests and is a primary hub for the trade of palm oil, yams, and cassava. Unlike its highly industrialized neighbor Aba, Umuahia is primarily an administrative and agricultural city, characterized by a more relaxed pace of life. History K8 — civil war history and museums.",
+      "factsAdvanced": [
+        "Serves as the administrative capital of Abia State in southeastern Nigeria.",
+        "Home to the National War Museum, documenting the Nigerian Civil War.",
+        "Briefly served as the capital of the secessionist Republic of Biafra.",
+        "Developed significantly after the arrival of the railway in the early 20th century.",
+        "A major collection and distribution center for palm oil and root crops.",
+        "Surrounded by dense tropical rainforest and agricultural plantations."
+      ]
+    }
+  ]
+}

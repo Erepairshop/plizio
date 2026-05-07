@@ -1,0 +1,269 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "renk-cities-v2",
+      "descriptionAdvanced": "Renk, the northernmost major town in South Sudan, is a vital economic gateway situated near the border with Sudan in Upper Nile State. The city is renowned for its large-scale mechanized farming projects, primarily focused on the production of sorghum and gum arabic. As a key river port on the White Nile, Renk serves as a crucial transit point for goods moving between the northern and southern regions of the country. Its strategic location and agricultural productivity make it a cornerstone of the national economy. Geography K8 – Industrial agriculture in steppe regions.",
+      "factsAdvanced": [
+        "Northernmost major town in South Sudan",
+        "Center for large-scale mechanized agriculture",
+        "Major river port on the White Nile",
+        "Top producer of sorghum in the country",
+        "Primary gateway for trade with Sudan",
+        "Rich in gum arabic production",
+        "Located in Upper Nile State"
+      ]
+    },
+    {
+      "id": "bor-cities-v2",
+      "descriptionAdvanced": "Bor, the capital of Jonglei State, holds immense historical significance as the starting point of the Second Sudanese Civil War in 1983. Situated on the east bank of the White Nile, it serves as a major river port and a gateway to the vast Sudd wetlands. The city is a central cultural hub for the Dinka Bor community and has played a pivotal role in the country's struggle for independence. Bor is a key center for livestock trading and serves as a vital link in the river transport network connecting Juba to the north. History K8 – Independence movements in Africa.",
+      "factsAdvanced": [
+        "Capital city of Jonglei State",
+        "Site of the 1983 mutiny starting the civil war",
+        "Major river port on the White Nile",
+        "Cultural center for the Dinka Bor people",
+        "Gateway to the Sudd wetlands",
+        "Home to John Garang Memorial University",
+        "Critical hub for livestock and river trade"
+      ]
+    },
+    {
+      "id": "aweil-cities-v2",
+      "descriptionAdvanced": "Aweil, the capital of Northern Bahr el Ghazal State, is primarily known for the Aweil Rice Scheme, one of the largest agricultural projects in South Sudan. The city is located at the confluence of the Lol and Pongo rivers, benefiting from fertile floodplains that support diverse crops. Aweil serves as an essential commercial hub for grains and livestock in the northwestern region. Its location on the railway line connecting South Sudan to Sudan historically made it a vital trade center, and it continues to be a key point for regional development. Geography K7 – Water management in agriculture.",
+      "factsAdvanced": [
+        "Capital of Northern Bahr el Ghazal State",
+        "Host of the massive Aweil Rice Scheme",
+        "Located at the confluence of Lol and Pongo rivers",
+        "Strategic railway link to Sudan",
+        "Major regional grain and livestock market",
+        "Key administrative and educational center",
+        "Population approximately 100,000"
+      ]
+    },
+    {
+      "id": "torit-cities-v2",
+      "descriptionAdvanced": "Torit, the capital of Eastern Equatoria State, is historically famous as the location where the first Sudanese military mutiny broke out in 1955, marking the dawn of the nation's independence struggles. The city is surrounded by a dramatic mountain landscape, including the majestic Imatong Massif, which provides a backdrop of rich biodiversity and scenic beauty. As a key administrative hub in the southeast, Torit is central to the Lotuko people and serves as a strategic point on the trade routes toward Kenya and Uganda. History K8 – The beginning of modern African conflicts.",
+      "factsAdvanced": [
+        "Capital of Eastern Equatoria State",
+        "Birthplace of the 1955 military uprising",
+        "Near the foothills of the Imatong Mountains",
+        "Center of Lotuko cultural heritage",
+        "Strategic town on the route to Kenya",
+        "Known for its rugged and scenic terrain",
+        "Administrative and commercial hub for the southeast"
+      ]
+    },
+    {
+      "id": "bentiu-cities-v2",
+      "descriptionAdvanced": "Bentiu, the capital of Unity State, is the heart of South Sudan's rich oil industry. Located on the southern bank of the Bahr el Ghazal River, the city is surrounded by some of the country's most productive oil fields, which form the backbone of the national economy. Bentiu is also a significant traditional center for the Nuer people, particularly known for its large livestock markets and pastoralist traditions. The city's growth is closely tied to the energy sector, making it one of the most economically strategic locations in the country. Geography K8 – Natural resources and the economy.",
+      "factsAdvanced": [
+        "Capital of oil-rich Unity State",
+        "Hub for the nation's petroleum industry",
+        "Located on the Bahr el Ghazal River",
+        "Major center for Nuer pastoralist culture",
+        "Proximity to massive oil refineries",
+        "Critical livestock and agricultural market",
+        "Economic gateway for the northern region"
+      ]
+    },
+    {
+      "id": "rumbek-cities-v2",
+      "descriptionAdvanced": "Rumbek, the capital of Lakes State, served as an interim administrative headquarters for the SPLM/A during the liberation struggle. The city is a central focal point for the Dinka Agar community and is renowned for its spirit of resistance and political heritage. Located in a region of vast savannas, Rumbek is a major center for the cattle trade and traditional pastoralist life. Its historical role as a base for humanitarian and political operations has cemented its status as one of South Sudan's most influential regional cities. History K8 – Wartime capitals and political centers.",
+      "factsAdvanced": [
+        "Capital city of Lakes State",
+        "Former interim capital during the war",
+        "Cultural center of the Dinka Agar",
+        "Major hub for livestock and cattle trade",
+        "Significant base for humanitarian operations",
+        "Located in the central savanna belt",
+        "Key educational and administrative center"
+      ]
+    },
+    {
+      "id": "kuajok-cities-v2",
+      "descriptionAdvanced": "Kuajok, the capital of Warrap State, is a crucial administrative and commercial center in western South Sudan. The city has experienced rapid growth since the country's independence, evolving into a hub for regional development and government services. Situated along the Jur River, it serves a region characterized by extensive cattle herding and subsistence agriculture. Kuajok is home to the Dinka Rek community and plays a vital role in connecting the western states through its growing infrastructure and markets. Geography K7 – Development of administrative centers.",
+      "factsAdvanced": [
+        "Capital city of Warrap State",
+        "Major administrative hub in the west",
+        "Situated near the banks of the Jur River",
+        "Center of the Dinka Rek community",
+        "Rapidly growing urban center",
+        "Key market for livestock and crops",
+        "Hub for regional governance and services"
+      ]
+    },
+    {
+      "id": "nimule-cities-v2",
+      "descriptionAdvanced": "Nimule is South Sudan's most important border town, located on the boundary with Uganda along the White Nile. It serves as the primary gateway for goods imported from East Africa, making it vital for the supply of the capital, Juba. The town is also the site of Nimule National Park, famous for its elephant populations and the spectacular Fula Rapids. Its strategic position as a logistics hub and a center for cross-border trade makes Nimule an essential pillar of the national economy. Geography K6 – Importance of cross-border trade.",
+      "factsAdvanced": [
+        "Primary border crossing with Uganda",
+        "Major 'dry port' for the country's imports",
+        "Home to Nimule National Park",
+        "Located on the banks of the White Nile",
+        "Key logistics and transit center",
+        "Near the famous Fula Rapids",
+        "Critical for the national supply chain"
+      ]
+    },
+    {
+      "id": "kapoeta-cities-v2",
+      "descriptionAdvanced": "Kapoeta is a strategic town in Eastern Equatoria State, renowned for its rich gold deposits and traditional pastoralist culture. It is the primary center for the Toposa people, who have maintained strong cultural traditions and a nomadic lifestyle. The town serves as a crucial stop on the trade route between South Sudan and Kenya, connecting through the border at Nadapal. Kapoeta's economy is driven by artisanal gold mining and livestock trading, making it a unique cultural and economic landmark in the semi-arid southeast. Geography K8 – Mining of mineral resources.",
+      "factsAdvanced": [
+        "Center for artisanal gold mining",
+        "Primary town of the Toposa people",
+        "Key trade link between South Sudan and Kenya",
+        "Located in a distinct semi-arid climate",
+        "Major regional market for livestock",
+        "Known for unique cultural beadwork and traditions",
+        "Strategic stop on the southeastern trade route"
+      ]
+    },
+    {
+      "id": "maridi-cities-v2",
+      "descriptionAdvanced": "Maridi is a picturesque town in Western Equatoria, surrounded by dense forests and highly productive agricultural lands. Due to its abundant rainfall, the region produces a wide variety of fruits and grains, and it is well-known for its high-quality educational institutions. The town maintains a peaceful and green atmosphere, serving as a model for sustainable agriculture and community resilience. Maridi's environment supports diverse tropical flora, making it one of the most lush and productive areas in the southern part of the country. Science K3 – Tropical rainforest ecosystems.",
+      "factsAdvanced": [
+        "Major agricultural town in Western Equatoria",
+        "Renowned for its high-standard schools",
+        "Top producer of mangoes and pineapples",
+        "Surrounded by teak and mahogany forests",
+        "High elevation with a relatively cool climate",
+        "Center for vocational training and education",
+        "Known for its lush, green environment"
+      ]
+    },
+    {
+      "id": "kajokeji-cities-v2",
+      "descriptionAdvanced": "Kajo Keji is situated in the far south of the country, near the border with Uganda, on a fertile plateau. The town is known for the Kuku people and their strong dedication to education and agriculture. The region has historically been a center of resistance and a major site for Christian missions. Its elevated position provides a cooler climate and fertile soil, supporting the production of various crops such as tobacco and grains. Kajo Keji remains a vital cultural and educational anchor for the southern Equatoria region. Geography K7 – Plateau relief and land use.",
+      "factsAdvanced": [
+        "Located on a fertile high plateau",
+        "Home of the Kuku people",
+        "Major center for education and missions",
+        "Close proximity to the Uganda border",
+        "Top producer of tobacco and grains",
+        "Historically significant site of resistance",
+        "Known for its scenic, elevated landscape"
+      ]
+    },
+    {
+      "id": "tonj-cities-v2",
+      "descriptionAdvanced": "Tonj is a historical town in Warrap State, situated on the banks of the Tonj River. It is a central settlement for the Dinka communities and has been an important administrative point since the colonial era. The town is surrounded by vast grazing lands, making it a vital hub for the seasonal movement of cattle between the wet and dry season pastures. Tonj is known for its deep-rooted Dinka traditions and has played a significant role as a regional trade center for livestock and agricultural products. Geography K7 – Pastoral life and seasonal cycles.",
+      "factsAdvanced": [
+        "Situated on the banks of the Tonj River",
+        "Major livestock and cattle herding center",
+        "Historical administrative town in Warrap",
+        "Key link on the road to Wau",
+        "Known for Dinka cultural festivals and wrestling",
+        "Important base during the liberation struggle",
+        "Strategic market for regional trade"
+      ]
+    },
+    {
+      "id": "yirol-cities-v2",
+      "descriptionAdvanced": "Yirol is spectacularly located on the shores of Lake Yirol in Lakes State, offering a unique landscape in the heart of South Sudan. The town's economy is centered on fishing and agriculture, and it is famous for its locally produced sesame oil. The lake provides vital resources for the community and is a hotspot for local biodiversity, including various bird species. Yirol serves as an important commercial link between the central and eastern regions, blending aquatic and terrestrial livelihoods. Science K4 – Life around freshwater lakes.",
+      "factsAdvanced": [
+        "Located on the scenic shores of Lake Yirol",
+        "Center for sesame oil production",
+        "Fishing is the primary economic activity",
+        "Major town in the eastern part of Lakes State",
+        "Hotspot for regional biodiversity",
+        "Key hub for the trade of dried fish",
+        "Known for its unique lakeside environment"
+      ]
+    },
+    {
+      "id": "akobo-cities-v2",
+      "descriptionAdvanced": "Akobo is a strategic town on the eastern border with Ethiopia, situated on the banks of the Pibor River. Due to its remote and strategic location, it serves as a critical border post and a central hub for the Anyuak and Nuer communities of the east. Akobo is an important site for humanitarian assistance and small-scale cross-border trade with Ethiopia's Gambela region. Its isolation during the rainy season highlights the challenges of infrastructure in the far east, yet it remains a vital link for regional security and trade. Geography K8 – Remote border zones.",
+      "factsAdvanced": [
+        "Directly on the border with Ethiopia",
+        "Situated on the Pibor and Akobo rivers",
+        "Central hub for the Anyuak and Nuer",
+        "Critical strategic security point",
+        "Highly isolated during the wet season",
+        "Regional hub for humanitarian aid",
+        "Gateway for trade with the Gambela region"
+      ]
+    },
+    {
+      "id": "kodok-cities-v2",
+      "descriptionAdvanced": "Kodok, historically known as Fashoda, is the spiritual and cultural seat of the Shilluk Kingdom. It is the residence of the Reth (King) of the Shilluk and the site of traditional coronation ceremonies. The town gained international fame through the 'Fashoda Incident' of 1898, a diplomatic dispute between France and Great Britain over control of the Upper Nile. Today, Kodok remains a major cultural landmark, preserving the ancient traditions and architectural styles of the Shilluk people. History K8 – Colonial diplomacy in Africa.",
+      "factsAdvanced": [
+        "Historical name: Fashoda",
+        "Seat of the Shilluk King (Reth)",
+        "Site of the 1898 Fashoda Incident",
+        "Major spiritual and cultural center",
+        "Located on the west bank of the White Nile",
+        "Home to traditional Shilluk architecture",
+        "Venue for royal coronation ceremonies"
+      ]
+    },
+    {
+      "id": "nasir-cities-v2",
+      "descriptionAdvanced": "Nasir is a strategically important town located on the banks of the Sobat River, near the border with Ethiopia. The town has a long history as a military and mission outpost, serving as a central hub for the Jikany Nuer community. Its position on the Sobat River facilitates river transport and connections to the city of Malakal. Nasir's history is marked by its role in regional political movements and its status as a key transit point for people and goods moving across the eastern frontier. Geography K8 – River transport networks.",
+      "factsAdvanced": [
+        "Situated on the strategic Sobat River",
+        "Close proximity to the Ethiopian border",
+        "Central hub for the Jikany Nuer people",
+        "Former Anglo-Egyptian military outpost",
+        "Key junction for river navigation",
+        "Important regional health and education center",
+        "Strategic gateway to the eastern plains"
+      ]
+    },
+    {
+      "id": "leer-cities-v2",
+      "descriptionAdvanced": "Leer is an influential town in Unity State, located in the heart of the Dok Nuer region. The town is known for its fertile soil and its historical role as a center for education and health services in the Sudd region. Leer has been a focal point of resistance and local culture during various periods of conflict, representing the resilience of the Nuer people. Its proximity to the Sudd wetlands provides rich resources for fishing and agriculture, making it a vital economic hub in the central part of the state. Geography K7 – Life in flood-prone areas.",
+      "factsAdvanced": [
+        "Heart of the Dok Nuer region",
+        "Located in the fertile south of Unity State",
+        "Major center for regional agriculture",
+        "Historical site for missions and education",
+        "Near the edges of the vast Sudd swamps",
+        "Significant hub for the local cattle trade",
+        "Known for its resilient community spirit"
+      ]
+    },
+    {
+      "id": "magwi-cities-v2",
+      "descriptionAdvanced": "Magwi is the capital of Magwi County in Eastern Equatoria State, situated in a fertile mountainous and forested area. The town is the home of the Acholi people and is renowned for its production of grains and root crops. Magwi has been a central site for hosting returnees and has developed rapidly as an agricultural hub in the post-independence era. The surrounding landscape, characterized by rolling hills and lush vegetation, makes it one of the most productive and scenic areas in the south. Geography K6 – Refugee integration and rural development.",
+      "factsAdvanced": [
+        "Capital city of Magwi County",
+        "Cultural center for the Acholi people",
+        "Known for highly fertile volcanic soils",
+        "Major producer of sweet potatoes and grains",
+        "Spectacular mountainous and hilly landscape",
+        "Proximity to the Uganda-South Sudan border",
+        "Hub for post-war reconstruction and returnees"
+      ]
+    },
+    {
+      "id": "mundri-cities-v2",
+      "descriptionAdvanced": "Mundri is a strategic town located at the intersection of major trade routes in Western Equatoria State. It serves as a gateway from the capital, Juba, to the rest of the state and is the center of the Moro community. The town is known for its green landscapes and its historical importance in religious education within the region. Mundri's position as a transit hub makes its markets vibrant and essential for the distribution of goods across the southwestern part of the country. Geography K7 – Towns as road junctions.",
+      "factsAdvanced": [
+        "Strategic junction town in Western Equatoria",
+        "Cultural home of the Moro people",
+        "Located on the primary route to Juba",
+        "Highly productive agricultural zone",
+        "Renowned for its historical church schools",
+        "Lush landscape of wet savanna",
+        "Key transit point for regional trade"
+      ]
+    },
+    {
+      "id": "tambura-cities-v2",
+      "descriptionAdvanced": "Tambura is located in the far western corner of South Sudan, near the border with the Central African Republic. The town is named after a famous Azande chief and serves as the center of royal Azande culture in the region. Its geographical isolation has allowed for the preservation of unique traditions and an almost intact forest ecosystem. Tambura is a vital administrative outpost for the west, blending traditional leadership with modern governance in a region rich in tropical biodiversity. History K8 – Traditional kingdoms in the modern era.",
+      "factsAdvanced": [
+        "Near the Central African Republic border",
+        "Royal center of Azande cultural heritage",
+        "Named after the historical Chief Tambura",
+        "Area of dense and diverse tropical forest",
+        "Geographically and culturally distinct",
+        "Producer of local cotton and coffee",
+        "Strategic westernmost administrative hub"
+      ]
+    }
+  ]
+}

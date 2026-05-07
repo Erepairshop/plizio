@@ -24,7 +24,16 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Több mint 20 teknősfajt véd.", "Sok állatot az illegális kereskedelemből mentettek meg.", "Fajvédelmi oktatási programokat kínál.", "Fontos hozzájárulás a biodiverzitás megőrzéséhez."],
       ro: ["Protejează peste 20 de specii de țestoase.", "Multe animale au fost salvate din comerțul ilegal.", "Oferă programe educaționale privind conservarea speciilor.", "Contribuție importantă la conservarea biodiversității."],
       en: ["Protects over 20 species of turtles.", "Many animals are rescued from the illegal wildlife trade.", "Offers educational programs on conservation.", "Important contribution to biodiversity preservation."]
-    }, image: "/poi-images/cuc-phuong-turtle-center-life-v2.webp"},
+    }, image: "/poi-images/cuc-phuong-turtle-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cúc Phương Schildkröten-Schutzzentrum spielt eine entscheidende Rolle beim Schutz gefährdeter Arten in den reichhaltigen Ökosystemen Vietnams. Die Einrichtung arbeitet unermüdlich daran, Tiere aus dem illegalen Handel zu retten, sie zu rehabilitieren und, wann immer möglich, wieder in ihre natürlichen Habitate auszuwildern. Es fungiert zudem als Bildungszentrum, das Besucher über die Bedeutung der Biodiversität und die akuten Bedrohungen für die einheimische Tierwelt aufklärt. Sachkunde K5 — Naturschutz und Tierarten.",
+      ro: "Centrul de Conservare a Țestoaselor din Cuc Phuong este un refugiu vital pentru salvarea și protejarea speciilor de țestoase pe cale de dispariție din Vietnam, fiind un centru de cercetare și educație ecologică de importanță majoră."
+    },
+    factsAdvanced: {
+      de: ["Beheimatet mehr als 20 verschiedene Schildkrötenarten", "Kombiniert Rehabilitation, Forschung und Bildung", "Eng verbunden mit dem Schutz des Cúc-Phương-Nationalparks", "Unterstützt internationale Bemühungen zum Schutz der Reptilien", "Finanziert sich unter anderem durch ökologischen Tourismus", "Wichtiger Ort für wissenschaftliche Studien zur Artenerhaltung"],
+      ro: ["Centru specializat în conservarea țestoaselor", "Situat în Parcul Național Cuc Phuong", "Găzduiește numeroase specii pe cale de dispariție", "Implicat în programe de eliberare în sălbăticie", "Centru educativ important pentru școli", "Eforturi de combatere a comerțului ilegal"]
+    }
+  },
   {
     id: "dalat-flower-gardens-life-v2",
     type: "park",
@@ -47,7 +56,16 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["1966-ban alapították.", "Több mint 300 különböző virágfajt foglal magában.", "Itt rendezik meg az éves virágfesztivált.", "A Xuân Hương-tó partján található."],
       ro: ["Înființată în 1966.", "Include peste 300 de specii diferite de flori.", "Festivalul anual al florilor are loc aici.", "Situată pe malul lacului Xuân Hương."],
       en: ["Established in 1966.", "Features over 300 different types of flowers.", "Annual flower festival is held here.", "Located by Xuan Huong Lake."]
-    }, image: "/poi-images/dalat-flower-gardens-life-v2.webp"},
+    }, image: "/poi-images/dalat-flower-gardens-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Blumengärten von Đà Lạt (Vườn Hoa Đà Lạt) sind der Stolz der 'Stadt des ewigen Frühlings' und ein Zentrum für botanische Pracht in den zentralen Hochländern Vietnams. Aufgrund des milden Klimas gedeihen hier Pflanzen, die in anderen Teilen Vietnams kaum überleben würden, darunter europäische Klassiker und tropische Raritäten. Der Park ist ein bedeutendes Ziel für die einheimische Freizeitkultur und der Hauptschauplatz des berühmten alljährlichen Blumenfestivals, das die Region weit über die Landesgrenzen hinaus bekannt machte. Geografie K6 — botanische Vielfalt und Klima.",
+      ro: "Grădinile de flori din Dalat, cunoscute sub numele de 'Orașul Primăverii Eterne', sunt o atracție colorată care reflectă climatul temperat unic al podișului Lang Biang, fiind paradisul horticulturii din Vietnam."
+    },
+    factsAdvanced: {
+      de: ["Erste Anlage wurde bereits 1966 angelegt", "Beherbergt über 300 verschiedene Pflanzen- und Blumenarten", "Zentraler Ort für das jährlich stattfindende Blumenfestival von Đà Lạt", "Gelegen an den malerischen Ufern des Xuân-Hương-Sees", "Profitierte maßgeblich vom ganzjährig gemäßigten Klima der Region", "Dient sowohl der botanischen Forschung als auch als öffentliche Erholungsanlage"],
+      ro: ["Dalat supranumit 'Orașul Primăverii Eterne'", "Regiune faimoasă pentru flori și cafea", "Grădini cu varietăți impresionante de orhidee", "Climat temperat, ideal pentru horticultură", "Atracție turistică de top în zona muntoasă", "Sursă majoră de flori pentru tot Vietnamul"]
+    }
+  },
   {
     id: "tra-que-vegetable-village-life-v2",
     type: "agriculture",
@@ -70,7 +88,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["A gazdák a közeli folyóból származó algát használják trágyaként.", "A látogatók részt vehetnek a mezőgazdasági tevékenységekben.", "Friss termékeket szállít a Hội An-i éttermeknek.", "A menta és a bazsalikom illatáról ismert."],
       ro: ["Fermierii folosesc alge din râul din apropiere ca îngrășământ.", "Vizitatorii pot participa la activități agricole.", "Furnizează produse proaspete restaurantelor din Hội An.", "Cunoscut pentru aroma de mentă și busuioc."],
       en: ["Farmers use algae from the nearby river as fertilizer.", "Visitors can participate in farming activities.", "Supplies fresh produce to restaurants in Hoi An.", "Known for the aroma of mint and basil."]
-    }, image: "/poi-images/tra-que-vegetable-village-life-v2.webp"},
+    }, image: "/poi-images/tra-que-vegetable-village-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Satul Tra Que este renumit pentru metodele sale tradiționale de cultivare a legumelor organice, oferind o experiență autentică a vieții rurale vietnameze lângă orașul istoric Hoi An."
+    },
+    factsAdvanced: {
+      ro: ["Sat tradițional cu metode organice", "Aproape de Hoi An", "Faimos pentru ierburile aromatice locale", "Experiență de turism rural autentică", "Tehnici agricole transmise prin generații", "Sursă pentru bucătăria locală din Hoi An"]
+    }
+  },
   {
     id: "suoi-tien-theme-park-life-v2",
     type: "kid-friendly",
@@ -93,7 +118,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["'Buddha Vidámparkként' is ismert.", "Van egy vízi parkja és egy dinoszaurusz kertje.", "Tartalmaz egy krokodil tavat.", "Az építészet színes és extravagáns."],
       ro: ["Cunoscut ca 'Parcul de distracții Buddha'.", "Are un parc acvatic și o grădină cu dinozauri.", "Include un iaz cu crocodili.", "Arhitectura este colorată și extravagantă."],
       en: ["Known as the 'Buddha Amusement Park'.", "Has a water park and a dinosaur garden.", "Includes a crocodile pond.", "The architecture is colorful and extravagant."]
-    }, image: "/poi-images/suoi-tien-theme-park-life-v2.webp"},
+    }, image: "/poi-images/suoi-tien-theme-park-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul tematic Suoi Tien din Ho Chi Minh City îmbină atracțiile moderne cu tematica mitologică vietnameză, fiind un loc unic de divertisment cultural care celebrează legendele naționale."
+    },
+    factsAdvanced: {
+      ro: ["Parc tematic bazat pe mitologia vietnameză", "Situat în orașul Ho Chi Minh", "Include temple, grădini și tobogane acvatice", "Cea mai mare statuie a lui Buddha din regiune", "Destinație populară pentru familii", "Decor spectaculos inspirat din folclor"]
+    }
+  },
   {
     id: "thu-le-park-hanoi-zoo-life-v2",
     type: "park",
@@ -116,7 +148,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Egy nagy tavat ölel körül szigetekkel.", "Több száz állatfajnak ad otthont.", "Népszerű hely a családok számára.", "Vízibiciklizési lehetőséget kínál a tavon."],
       ro: ["Înconjoară un lac mare cu insule.", "Găzduiește sute de specii de animale.", "Loc popular pentru familii.", "Oferă plimbări cu hidrobicicleta pe lac."],
       en: ["Surrounds a large lake with islands.", "Home to hundreds of animal species.", "A popular spot for families.", "Offers pedal boating on the lake."]
-    }, image: "/poi-images/thu-le-park-hanoi-zoo-life-v2.webp"},
+    }, image: "/poi-images/thu-le-park-hanoi-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul Thu Le din Hanoi găzduiește grădina zoologică a capitalei, fiind un spațiu verde important care oferă o interacțiune directă cu fauna locală și exotică în inima orașului."
+    },
+    factsAdvanced: {
+      ro: ["Găzduiește Grădina Zoologică din Hanoi", "Spațiu verde recreativ în capitală", "Repertoriu divers de animale locale și exotice", "Destinație favorită a familiilor locale", "Situat lângă un lac pitoresc", "Eforturi de conservare a speciilor native"]
+    }
+  },
   {
     id: "mekong-delta-fruit-orchards-life-v2",
     type: "agriculture",
@@ -139,7 +178,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Ismert a duriánról, rambutánról, mangosztánról és sárkánygyümölcsről.", "A látogatók friss gyümölcsöt szedhetnek közvetlenül a fákról.", "Sok kert nyitva áll a csónaktúrák számára.", "Vietnám 'rizses tálja' és 'gyümölcsös tálja'."],
       ro: ["Renumită pentru durian, rambutan, mangostan și fructul dragonului.", "Vizitatorii pot culege fructe proaspete direct din copaci.", "Multe livezi sunt deschise pentru tururi cu barca.", "'Bolul de orez' și 'Coșul de fructe' al Vietnamului."],
       en: ["Known for durian, rambutan, mangosteen, and dragon fruit.", "Visitors can pick fresh fruit straight from the trees.", "Many orchards are open for boat tours.", "The 'Rice Bowl' and 'Fruit Basket' of Vietnam."]
-    }, image: "/poi-images/mekong-delta-fruit-orchards-life-v2.webp"},
+    }, image: "/poi-images/mekong-delta-fruit-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Livezile de fructe din Delta Mekongului constituie 'grădina de fructe a Vietnamului', unde diversitatea tropicală este pusă în valoare prin metode tradiționale de cultivare pe solurile aluvionare fertile."
+    },
+    factsAdvanced: {
+      ro: ["Regiune cunoscută ca 'grădina de fructe'", "Varietate imensă de fructe tropicale", "Soluri aluvionare extrem de fertile", "Viață bazată pe piețe plutitoare și livezi", "Sursă principală de fructe pentru țară", "Turism de tip 'farm-to-table'"]
+    }
+  },
   {
     id: "vinpearl-land-nha-trang-life-v2",
     type: "kid-friendly",
@@ -162,7 +208,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Hullámvasutakkal, víziparkkal és akváriummal rendelkezik.", "A felvonózás látványos kilátást nyújt.", "Luxus üdülőhelyeket és golfpályát is kínál.", "Népszerű célpont a családi nyaralásokhoz."],
       ro: ["Dispune de montagne russe, un parc acvatic și un acvariu.", "Plimbarea cu telecabina oferă vederi spectaculoase.", "Oferă și stațiuni de lux și un teren de golf.", "O destinație populară pentru vacanțele în familie."],
       en: ["Features roller coasters, a water park, and an aquarium.", "The cable car ride offers spectacular views.", "Also offers luxury resorts and a golf course.", "A popular destination for family holidays."]
-    }, image: "/poi-images/vinpearl-land-nha-trang-life-v2.webp"},
+    }, image: "/poi-images/vinpearl-land-nha-trang-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Vinpearl Land, situat pe insula Hon Tre din Nha Trang, este un complex modern de divertisment și resorturi, accesibil printr-o telecabină spectaculoasă peste mare."
+    },
+    factsAdvanced: {
+      ro: ["Situat pe insula Hon Tre", "Complex masiv de divertisment", "Acces prin telecabină peste mare", "Include aquapark și parc de atracții", "Parte dintr-un resort de lux", "Destinație majoră pe litoralul central"]
+    }
+  },
   {
     id: "bear-sanctuary-ninh-binh-life-v2",
     type: "wildlife-area",
@@ -185,7 +238,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Faj-specifikus otthont biztosít a medvéknek.", "A rehabilitációra és gondozásra összpontosít.", "A látogatók természetközeli környezetben figyelhetik meg a medvéket.", "Hozzájárul a medveepe-tartás felszámolásához."],
       ro: ["Oferă un adăpost adecvat speciei pentru urși.", "Se concentrează pe reabilitare și îngrijire.", "Vizitatorii pot observa urșii într-un mediu semi-natural.", "Contribuie la încetarea fermelor de bilă de urs."],
       en: ["Provides a species-appropriate home for bears.", "Focuses on rehabilitation and care.", "Visitors can observe bears in a semi-natural environment.", "Contributes to ending bear bile farming."]
-    }, image: "/poi-images/bear-sanctuary-ninh-binh-life-v2.webp"},
+    }, image: "/poi-images/bear-sanctuary-ninh-binh-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Sanctuarul de urși din Ninh Binh este un refugiu dedicat salvării urșilor de la ferme de fiere, oferindu-le un habitat natural sigur pentru recuperare."
+    },
+    factsAdvanced: {
+      ro: ["Refugiu pentru urși salvați din captivitate", "Situat în provincia Ninh Binh", "Focus pe reabilitare și protecție", "Eforturi de eradicare a fermelor de fiere", "Spațiu extins pentru habitat natural", "Centru educativ privind drepturile animalelor"]
+    }
+  },
   {
     id: "ho-tay-water-park-life-v2",
     type: "kid-friendly",
@@ -208,7 +268,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Különböző vízicsúszdák és medencék.", "Hullámmedence és 'lassú folyó'.", "Egy nagyobb szórakoztató komplexum része.", "Nyáron nagyon népszerű a helyiek körében."],
       ro: ["Diverse tobogane de apă și piscine.", "Piscină cu valuri și 'lazy river'.", "Parte a unui complex de distracții mai mare.", "Foarte popular printre localnici în timpul verii."],
       en: ["Various water slides and pools.", "Wave pool and a lazy river.", "Part of a larger amusement complex.", "Very popular with locals in the summer."]
-    }, image: "/poi-images/ho-tay-water-park-life-v2.webp"},
+    }, image: "/poi-images/ho-tay-water-park-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul acvatic Ho Tay (West Lake) din Hanoi este o destinație populară pentru recreere, situată pe malul celui mai mare lac din capitală, oferind distracție pentru toate vârstele."
+    },
+    factsAdvanced: {
+      ro: ["Situat pe malul Lacului de Vest (West Lake)", "Parc acvatic cu facilități diverse", "Destinație estivală majoră în Hanoi", "Parte a unei zone recreative extinse", "Include tobogane și piscine pentru familie", "Locație pitorească în oraș"]
+    }
+  },
   {
     id: "tao-dan-park-life-v2",
     type: "park",
@@ -231,7 +298,14 @@ export const poiExtraVietnamLifeV2: POI[] = [
       hu: ["Több mint 10 hektár területű.", "Népszerű a tai chi és a csoportos edzések számára.", "'Madárkávézó' résszel rendelkezik.", "Egy cham torony másolatának ad otthont."],
       ro: ["Peste 10 hectare în dimensiune.", "Popular pentru Tai Chi și exerciții de grup.", "Are o zonă de 'cafenea a păsărilor'.", "Găzduiește o replică a unui turn Cham."],
       en: ["Over 10 hectares in size.", "Popular for Tai Chi and group exercises.", "Has a 'bird cafe' area.", "Features a replica Cham tower."]
-    }, image: "/poi-images/tao-dan-park-life-v2.webp"},
+    }, image: "/poi-images/tao-dan-park-life-v2.webp",
+    descriptionAdvanced: {
+      ro: "Parcul Tao Dan din Ho Chi Minh City este 'plămânul verde' al orașului, un spațiu public utilizat zilnic de locuitori pentru sport, relaxare și întâlniri comunitare sub umbra copacilor seculari."
+    },
+    factsAdvanced: {
+      ro: ["Plămânul verde al Ho Chi Minh City", "Locație populară pentru activități sportive", "Găzduiește copaci seculari uriași", "Spațiu esențial de relaxare urbană", "Centru pentru socializare comunitară", "Oază liniștită în mijlocul traficului urban"]
+    }
+  },
   {
     id: "moc-chau-tea-plantations-life-v2",
     type: "agriculture",

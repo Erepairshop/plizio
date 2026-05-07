@@ -1,0 +1,171 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wadi-al-ajal-relief-v2",
+      "descriptionAdvanced": "Das topografische Relief des Wadi al-Ajal ist eine flache, langgezogene Senke, die als natürliche Barriere zwischen der weichen Ubari-Sandsee im Norden und dem harten Messak-Felsplateau im Süden fungiert. Diese Depression fängt gelegentlich abfließendes Grundwasser ein, was sie historisch zur produktivsten und am dichtesten besiedelten Zone des Fezzan machte. Geografie K7 — Senken und Wadis.",
+      "factsAdvanced": [
+        "Lange topografische Senke im Südwesten Libyens",
+        "Trennt die Ubari-Sandsee vom Messak-Plateau",
+        "Fängt unterirdisches Grundwasser ab",
+        "Ermöglicht dichte Siedlungsstrukturen in der Wüste",
+        "Zentrum der prähistorischen Garamanten-Zivilisation",
+        "Geprägt von sanften Hängen und Oasen"
+      ]
+    },
+    {
+      "id": "wadi-zamzam-relief-v2",
+      "descriptionAdvanced": "Das Relief des Wadi Zamzam bildet ein weit verzweigtes, flaches Entwässerungssystem (Dendritenmuster), das sich durch das Kalksteinplateau Nordwestlibyens schneidet. Es sammelt nach seltenen, aber heftigen Winterregen riesige Wassermengen aus einem gigantischen Einzugsgebiet und leitet diese in Form massiver Sturzfluten (Flash Floods) Richtung Küste. Geografie K8 — Fluviale Geomorphologie.",
+      "factsAdvanced": [
+        "Weit verzweigtes Entwässerungs-Relief in Nordwestlibyen",
+        "Bildet ein dendritisches (baumartiges) Talsystem",
+        "Sammelt Wasser aus einem extrem großen Einzugsgebiet",
+        "Schneidet sanft in das umgebende Kalksteinplateau",
+        "Verursacht heftige Sturzfluten nach starken Regenfällen",
+        "Wichtiger Faktor der regionalen Erosion"
+      ]
+    },
+    {
+      "id": "wadi-mathendous-relief-v2",
+      "descriptionAdvanced": "Das Wadi Mathendous ist eine scharf in das Messak Settafet Plateau eingeschnittene Schlucht im tiefen Südwesten. Seine steilen, dunklen Sandsteinwände boten prähistorischen Jägern die perfekte 'Leinwand' für Felsgravuren; heute zeugt das ausgetrocknete Flussbett von den massiven Wassermassen, die diese tiefe Kerbe vor Jahrtausenden geformt haben. Geografie K7 — Schluchtenbildung.",
+      "factsAdvanced": [
+        "Tief eingeschnittene Schlucht im Messak Settafet Plateau",
+        "Steile, fast vertikale Sandsteinwände",
+        "Entstanden durch prähistorische Flusserosion",
+        "Berühmt für großflächige, prähistorische Felsgravuren",
+        "Heute ein völlig trockenes Wadi",
+        "Beispiel extremer geologischer Trockenlegung"
+      ]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "descriptionAdvanced": "Das Relief des Wadi al-Farigh in der Kyrenaika zeichnet sich durch extrem flache, extrem weite Täler aus, die allmählich in das große Sandmeer der Sahara übergehen. Da das Gefälle hier nur minimal ist, verliert sich der winterliche Abfluss aus dem Dschabal al-Achdar schließlich in flachen, versickernden Schwemmfächern und Steppen. Geografie K7 — Abflusslose Becken.",
+      "factsAdvanced": [
+        "Extrem flaches und weites Talsystem im Osten Libyens",
+        "Gefälle ist fast nicht spürbar",
+        "Leitet Wasser vom Dschabal al-Achdar in die Sahara",
+        "Endet in versickernden Schwemmfächern (Endseen)",
+        "Spärlich mit Steppengras bewachsen",
+        "Wichtige Übergangszone zwischen Bergen und Sandwüste"
+      ]
+    },
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "descriptionAdvanced": "Das Relief der Sarir Tanezrouft stellt das geologische Extrem einer absoluten Ebene dar. Diese riesige, von abgerundeten Kieselsteinen bedeckte Fläche weist auf Hunderten von Kilometern keinerlei Erhebungen, Täler oder Dünen auf; sie ist das Resultat äolischer (Wind-) Ausblasung, die den gesamten Sand abtransportiert und nur grobes Material hinterlassen hat. Geografie K8 — Serir (Kieswüste).",
+      "factsAdvanced": [
+        "Gigantische, absolut flache Kies-Ebene (Serir)",
+        "Keinerlei Erhebungen, Wadis oder Dünen sichtbar",
+        "Entstanden durch extreme Winderosion (Deflation)",
+        "Sand wurde komplett ausgeblasen, grober Kies blieb zurück",
+        "Extrem monoton und orientierungslos",
+        "Ein geologisches Extrem der flachen Wüste"
+      ]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "descriptionAdvanced": "Die Reliefstruktur um den Gaberoun-See ist geprägt von einer massiven topografischen Senke, die von steilen, gigantischen Sanddünen eingeschlossen ist. Diese tiefe, schalenförmige Mulde reicht unter den lokalen Grundwasserspiegel hinab, wodurch der extrem salzige See im tiefsten Punkt erhalten bleibt, während das steile Ufer direkt in hohe Sandwände übergeht. Geografie K7 — Dünenseen.",
+      "factsAdvanced": [
+        "Topografische Senke (Depression) im Sandmeer",
+        "Tiefster Punkt reicht unter den Grundwasserspiegel",
+        "Eingeschlossen von extrem steilen Sanddünen",
+        "Schalenförmige Mulde ohne sichtbaren Abfluss",
+        "Relief verhindert schnelles Austrocknen durch Wind",
+        "Markanter Kontrast zwischen See und Sandwänden"
+      ]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "descriptionAdvanced": "Die Mandara-Seen liegen in einer Reihe flacher Pfannen, die zwischen den gigantischen, linearen Längsdünen des Fezzan eingebettet sind. Das Relief dieser Senken fördert eine extreme Verdunstung; wenn das Grundwasser nicht bis an die Oberfläche reicht, bleibt lediglich eine krustige, fast völlig flache Salzebene (Sebkha) am tiefsten Punkt zurück. Geografie K7 — Sebkha-Bildung.",
+      "factsAdvanced": [
+        "Reihe von flachen Pfannen zwischen Längsdünen",
+        "Gelegen in der Region Fezzan",
+        "Relief fördert extreme Verdunstungsraten",
+        "Hinterlässt weiße Salzebenen (Sebkhas) in der Trockenzeit",
+        "Tiefste Punkte füllen sich nur bei extremem Regen",
+        "Senken sind umgeben von steilem Sand"
+      ]
+    },
+    {
+      "id": "ubari-sand-sea-relief-v2",
+      "descriptionAdvanced": "Das Relief der Ubari-Sandsee ist ein atemberaubendes 'Meer' aus stetig wandernden Barchan- und Seif-Dünen, die bis zu 100 Meter hoch aufragen können. Diese dynamische, wellenförmige Topografie wird unaufhörlich durch die vorherrschenden Nordostwinde geformt, wobei sich an den geschützten, steilen Leeseiten der Dünen tiefe, dunkle Täler bilden. Geografie K8 — Dünendynamik.",
+      "factsAdvanced": [
+        "Dynamisches Relief aus Barchan- und Seif-Dünen",
+        "Dünenkämme erreichen bis zu 100 Meter Höhe",
+        "Wellenförmige, ständig wandernde Topografie",
+        "Geformt durch starke Nordostwinde (Passat)",
+        "Steile Leeseiten, flache Luvseiten",
+        "Eines der markantesten Sandmeere der Sahara"
+      ]
+    },
+    {
+      "id": "kufra-basin-relief-v2",
+      "descriptionAdvanced": "Das Relief des Kufra-Beckens im Südosten ist extrem flach und sanft gewellt, geprägt durch weite Sandebenen und gelegentliche flache Felsrücken. Diese strukturelle Depression ist das oberflächliche Merkmal eines riesigen unterirdischen Sedimentspeichers, der eines der größten fossilen Grundwasservorkommen des gesamten afrikanischen Kontinents beherbergt. Geografie K8 — Sedimentbecken.",
+      "factsAdvanced": [
+        "Extrem flaches und sanft gewelltes Relief",
+        "Oberfläche eines gigantischen geologischen Beckens",
+        "Geprägt durch weite Sandebenen",
+        "Nur gelegentliche flache Sandstein-Felsrücken",
+        "Verbirgt den gewaltigen Nubischen Sandstein-Aquifer",
+        "Zentrum der extrem isolierten Südost-Sahara"
+      ]
+    },
+    {
+      "id": "gar-al-marah-relief-v2",
+      "descriptionAdvanced": "Das geomorphologische Relief von Gar al-Marah zeichnet sich durch scharfe Karstformationen und starke Erosionsrinnen aus. Mitten in den Nafusa-Bergen gelegen, haben hier Wind und spärlicher Regen den Kalkstein extrem ausgewaschen und eine labyrinthartige Landschaft mit bizarren Felstürmen, Höhlen und schroffen Felsvorsprüngen geschaffen. Geografie K7 — Karstlandschaften.",
+      "factsAdvanced": [
+        "Scharfe Karst- und Erosionslandschaft",
+        "Gelegen in den westlichen Nafusa-Bergen",
+        "Geprägt durch ausgewaschene Kalksteinfelsen",
+        "Labyrinthartige Struktur mit Höhlen und Felstürmen",
+        "Ergebnis jahrtausendelanger Winderosion",
+        "Sehr unwegsames und raues Terrain"
+      ]
+    },
+    {
+      "id": "sirtica-desert-relief-v2",
+      "descriptionAdvanced": "Das Relief der Sirtica-Wüste südlich des Golfs von Sidra ist eine weite, leicht nach Norden abfallende Küstenebene, die allmählich in das afrikanische Hinterland ansteigt. Es ist eine sehr monotone, von flachen Kieseln und harten Kalksteinplatten bedeckte Ebene, die aufgrund fehlender Flüsse fast gar keine topografische Gliederung aufweist. Geografie K7 — Küstenebenen.",
+      "factsAdvanced": [
+        "Sanft nach Norden abfallende Küstenebene",
+        "Extrem monotones, weites Relief",
+        "Bedeckt von flachem Kies und Kalksteinplatten",
+        "Fast keine Flusstäler oder topografische Barrieren",
+        "Geht nahtlos in die Sahara-Wüste über",
+        "Ermöglicht einfache Verlegung von Öl-Pipelines"
+      ]
+    },
+    {
+      "id": "gargaf-desert-relief-v2",
+      "descriptionAdvanced": "Das Relief der Gargaf-Wüste besteht aus einem zerschundenen, extrem harten Felsplateau, das stark von Rissen, Spalten und Verwerfungen durchzogen ist. Dieser Übergang vom Gargaf-Gebirge in die Ebene ist eine 'Steinwüste' (Hammada), in der der beständige Wind den Sand weggeblasen und nur dunkle, scharfkantige Felsblöcke hinterlassen hat. Geografie K7 — Steinwüsten.",
+      "factsAdvanced": [
+        "Zerschundenes, rissiges Felsplateau",
+        "Übergangszone am Rande des Gargaf-Gebirges",
+        "Klassische Steinwüste (Hammada) ohne Sand",
+        "Übersät mit schwarzen, scharfkantigen Gesteinsblöcken",
+        "Geprägt durch extreme tektonische Verwerfungen",
+        "Sehr schwierig für Fahrzeuge zu durchqueren"
+      ]
+    },
+    {
+      "id": "cyrenaica-coast-relief-v2",
+      "descriptionAdvanced": "Das Relief der Kyrenaika-Küste ist stark durch die tektonische Hebung des Dschabal al-Achdar geprägt, das hier abrupt ins Mittelmeer abfällt. Die Küste wechselt dramatisch zwischen schmalen, sandigen Küstenebenen, eingeschnittenen Buchten und massiven, steil abfallenden Kalksteinklippen, die von kleinen Trockentälern durchbrochen werden. Geografie K7 — Steilküsten.",
+      "factsAdvanced": [
+        "Dramatisches Küstenrelief am Mittelmeer",
+        "Geprägt durch die Hebung des Dschabal al-Achdar",
+        "Massive, steil abfallende Kalksteinklippen",
+        "Durchbrochen von kleinen Wadis und Buchten",
+        "Bietet enge, aber fruchtbare Küstenebenen",
+        "Geologisch sehr aktive und junge Küstenform"
+      ]
+    }
+  ]
+}

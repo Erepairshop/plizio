@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "turalei-cities-v2",
+      "descriptionAdvanced": "Turalei este un centru regional proeminent în partea de nord a statului Warrap, situat în zona Twic. Orașul este cunoscut pentru importanța sa culturală și ca punct de origine pentru multe figuri sportive internaționale, inclusiv faimosul baschetbalist Manute Bol. Comunitatea locală este strâns legată de tradițiile Dinka și de economia bazată pe creșterea vitelor. Geografie K7 – Personalități locale și identitatea urbană.",
+      "factsAdvanced": [
+        "Centru principal al comitatului Twic",
+        "Locul de origine al lui Manute Bol",
+        "Piață importantă de cereale",
+        "Situat în nordul statului Warrap",
+        "Centru cultural Dinka Twic",
+        "Hub pentru servicii de sănătate"
+      ]
+    },
+    {
+      "id": "rubkona-cities-v2",
+      "descriptionAdvanced": "Rubkona este orașul geamăn al lui Bentiu, cele două fiind separate de râul Bahr el Ghazal dar conectate printr-un pod strategic. Orașul este un nod de transport major, găzduind un aeroport activ care deservește industria petrolieră și operațiunile umanitare. Piața din Rubkona este una dintre cele mai mari și mai vibrante din regiunea de nord. Geografie K8 – Infrastructura de transport și economia petrolului.",
+      "factsAdvanced": [
+        "Oraș geamăn cu Bentiu",
+        "Găzduiește Aeroportul Rubkona",
+        "Piață regională imensă",
+        "Situat pe Bahr el Ghazal",
+        "Punct de tranzit pentru petrol",
+        "Hub logistic major"
+      ]
+    },
+    {
+      "id": "mayom-cities-v2",
+      "descriptionAdvanced": "Mayom este un oraș situat strategic în vestul statului Unity, servind ca punct de legătură crucial între zonele petroliere și regiunea Bahr el Ghazal. Orașul are o istorie lungă ca centru administrativ pentru comunitatea Bul Nuer. Datorită locației sale, Mayom este un hub pentru comerțul cu animale și pentru rutele de transport transfrontaliere. Geografie K8 – Noduri logistice în zone de savană.",
+      "factsAdvanced": [
+        "Centru al comunității Bul Nuer",
+        "Locație strategică în vestul Unity",
+        "Hub pentru comerțul cu vite",
+        "Intersecție de drumuri regionale",
+        "Istorie administrativă bogată",
+        "Punct de acces spre Warrap"
+      ]
+    },
+    {
+      "id": "pariang-cities-v2",
+      "descriptionAdvanced": "Pariang este centrul administrativ al Zonei Administrative Ruweng, o regiune vitală pentru producția de petrol a Sudanului de Sud. Orașul este înconjurat de unele dintre cele mai productive câmpuri petroliere din țară. Comunitatea Dinka Ruweng din zonă îmbină stilul de viață pastoral tradițional cu provocările și oportunitățile aduse de industria extractivă modernă. Geografie K8 – Impactul industriei petroliere asupra comunităților.",
+      "factsAdvanced": [
+        "Capitala regiunii Ruweng",
+        "Înconjurat de câmpuri petroliere",
+        "Centru al comunității Dinka Ruweng",
+        "Hub pentru companiile petroliere",
+        "Dezvoltare rapidă a infrastructurii",
+        "Punct strategic în nordul țării"
+      ]
+    },
+    {
+      "id": "pibor-cities-v2",
+      "descriptionAdvanced": "Pibor este centrul administrativ al Zonei Administrative Greater Pibor, situat în estul îndepărtat și izolat al țării. Orașul este inima poporului Murle și este situat pe malul râului Pibor. În timpul sezonului ploios, Pibor devine aproape inaccesibil pe cale terestră, depinzând de transportul aerian și fluvial pentru aprovizionare. Geografie K7 – Provocările izolării geografice.",
+      "factsAdvanced": [
+        "Capitala regiunii Greater Pibor",
+        "Centru al poporului Murle",
+        "Situat pe râul Pibor",
+        "Accesibil în principal prin aer",
+        "Zonă de savană inundabilă",
+        "Centru pentru viața pastorală"
+      ]
+    },
+    {
+      "id": "pochalla-cities-v2",
+      "descriptionAdvanced": "Pochalla este un oraș izolat situat la granița cu Etiopia, înconjurat de peisaje naturale virgine și râuri bogate. Este așezarea principală a poporului Anyuak din Sudanul de Sud, o comunitate cu o structură socială regală unică. Orașul se bazează pe agricultura de subzistență și pe legăturile culturale strânse cu rudele lor de peste graniță în regiunea Gambela. Geografie K8 – Comunități transfrontaliere în Africa.",
+      "factsAdvanced": [
+        "Situat pe granița etiopiană",
+        "Centru al poporului Anyuak",
+        "Zonă bogată în viață sălbatică",
+        "Izolat de restul țării",
+        "Agricultură bazată pe inundații",
+        "Păstrează tradiții regale Anyuak"
+      ]
+    },
+    {
+      "id": "raja-cities-v2",
+      "descriptionAdvanced": "Raja este cel mai vestic oraș din Sudanul de Sud, situat aproape de punctul de întâlnire al granițelor cu Sudanul și Republica Centrafricană. Orașul este renumit pentru diversitatea sa etnică excepțională, găzduind numeroase grupuri lingvistice mici. Regiunea din jurul orașului Raja este acoperită de savane împădurite și este bogată în resurse minerale încă neexploatate. Geografie K7 – Diversitatea etnolingvistică în zonele de frontieră.",
+      "factsAdvanced": [
+        "Cel mai vestic oraș al țării",
+        "Diversitate etnică foarte mare",
+        "Aproape de Rep. Centrafricană",
+        "Climat tropical de savană",
+        "Centru administrativ izolat",
+        "Zonă bogată în minerale"
+      ]
+    },
+    {
+      "id": "deim-zubeir-cities-v2",
+      "descriptionAdvanced": "Deim Zubeir este un oraș cu o istorie întunecată și complexă, fiind în secolul al XIX-lea baza principală a puternicului negustor Zubeir Pasha. Orașul a servit drept centru major pentru comerțul cu sclavi și fildeș în regiunea Bahr el Ghazal. Astăzi, ruinele fortificațiilor sale servesc ca un memento istoric important al perioadei pre-coloniale. Istorie K8 – Comerțul cu sclavi în Africa de Est.",
+      "factsAdvanced": [
+        "Fostă bază a lui Zubeir Pasha",
+        "Centru istoric al comerțului cu sclavi",
+        "Situat în Bahr el Ghazal de Vest",
+        "Numele înseamnă 'Tabăra lui Zubeir'",
+        "Sit arheologic de importanță națională",
+        "Zonă istorică protejată"
+      ]
+    },
+    {
+      "id": "terekeka-cities-v2",
+      "descriptionAdvanced": "Terekeka este centrul principal al poporului Mundari, situat pe malul vestic al Nilului Alb, la nord de Juba. Orașul este faimos în întreaga lume pentru cultura pastorală spectaculoasă a Mundari și pentru taberele lor de vite impresionante. Terekeka este, de asemenea, un centru major pentru pescuitul artizanal pe Nil, aprovizionând capitala cu pește proaspăt. Geografie K6 – Relația dintre om, animale și râu.",
+      "factsAdvanced": [
+        "Centru al poporului Mundari",
+        "Situat pe malul Nilului Alb",
+        "Renumit pentru taberele de vite",
+        "Sursă majoră de pește pentru Juba",
+        "Punct de trecere a Nilului",
+        "Peisaj de savană deschisă"
+      ]
+    },
+    {
+      "id": "lainya-cities-v2",
+      "descriptionAdvanced": "Lainya este un oraș agricol important situat pe drumul principal dintre Juba și Yei. Regiunea este cunoscută pentru productivitatea sa agricolă ridicată, beneficiind de precipitații regulate și soluri fertile. Lainya a fost istoric un centru educațional și de formare profesională, contribuind la dezvoltarea capitalului uman în statul Equatoria Centrală. Sachkunde K3 – Importanța drumurilor comerciale pentru sate.",
+      "factsAdvanced": [
+        "Situat pe ruta Juba-Yei",
+        "Centru agricol în plină creștere",
+        "Cunoscut pentru școlile sale",
+        "Zonă de producție a tecului",
+        "Altitudine moderată, climat plăcut",
+        "Populație majoritar Pojulu"
+      ]
+    },
+    {
+      "id": "morobo-cities-v2",
+      "descriptionAdvanced": "Morobo este situat la granița triplă dintre Sudanul de Sud, Uganda și Republica Democrată Congo, fiind un punct focal pentru comerțul regional. Această locație strategică face din Morobo un hub vibrant unde se întâlnesc comercianți din mai multe țări. Orașul depinde în mare măsură de schimburile transfrontaliere de produse agricole și bunuri de larg consum. Geografie K8 – Dinamica piețelor de frontieră.",
+      "factsAdvanced": [
+        "Punct tri-frontalier strategic",
+        "Hub comercial vibrant",
+        "Conectează Uganda și DR Congo",
+        "Piață mare de produse agricole",
+        "Populație multietnică",
+        "Punct de control vamal major"
+      ]
+    },
+    {
+      "id": "ezo-cities-v2",
+      "descriptionAdvanced": "Ezo este situat în colțul de sud-vest al țării, la intersecția granițelor cu Republica Centrafricană și Republica Democrată Congo. Orașul este înconjurat de păduri tropicale dense și beneficiază de un climat umed care susține o agricultură diversificată. Fiind un centru al poporului Azande, Ezo este un bastion al culturii tradiționale în această regiune izolată. Geografie K7 – Ecosisteme de graniță și biodiversitate.",
+      "factsAdvanced": [
+        "Situat la granița triplă (RCA/RDC)",
+        "Centru al culturii Azande",
+        "Înconjurat de pădure tropicală",
+        "Punct de trecere pentru refugiați",
+        "Zonă bogată în resurse forestiere",
+        "Climat tropical umed"
+      ]
+    },
+    {
+      "id": "nagero-cities-v2",
+      "descriptionAdvanced": "Nagero este un oraș mic, dar important din punct de vedere strategic, situat în statul Equatoria de Vest. Regiunea din jurul orașului este caracterizată prin savane împădurite și terenuri agricole fertile, fiind locuită de comunități care practică o combinație de vânătoare tradițională și agricultură. Nagero joacă un rol de punct de legătură între zonele forestiere din sud și savanele din nord. Sachkunde K3 – Diversitatea habitatelor naturale.",
+      "factsAdvanced": [
+        "Oraș strategic în Equatoria de Vest",
+        "Zonă de tranziție ecologică",
+        "Agricultură de subzistență activă",
+        "Punct administrativ local",
+        "Populație mică dar stabilă",
+        "Înconjurat de natură virgină"
+      ]
+    },
+    {
+      "id": "nzara-cities-v2",
+      "descriptionAdvanced": "Nzara este un centru industrial și agricol istoric din Equatoria de Vest, renumit pentru complexul său agro-industrial dezvoltat în epoca colonială. Orașul a fost inima producției de bumbac și zahăr în regiune, având infrastructură de procesare care a atras muncitori din întreaga zonă. Astăzi, Nzara rămâne un simbol al potențialului industrial rural al Sudanului de Sud. Geografie K8 – Industrializarea zonelor rurale.",
+      "factsAdvanced": [
+        "Centru istoric al bumbacului",
+        "Complex agro-industrial celebru",
+        "Situat lângă orașul Yambio",
+        "Infrastructură industrială colonială",
+        "Centru agricol de succes",
+        "Populație muncitoare diversă"
+      ]
+    },
+    {
+      "id": "ibba-cities-v2",
+      "descriptionAdvanced": "Ibba este un oraș în Equatoria de Vest, cunoscut în ultimii ani pentru proiectele sale educaționale de succes, în special școala rezidențială pentru fete care a devenit un model național. Regiunea este una verde și fertilă, unde agricultura este activitatea principală a locuitorilor. Ibba este un exemplu de comunitate care investește în educație pentru a schimba viitorul regiunii. Sachkunde K4 – Educația și dezvoltarea comunității.",
+      "factsAdvanced": [
+        "Renumit pentru Școala de Fete Ibba",
+        "Situat pe drumul spre Maridi",
+        "Zonă agricolă foarte verde",
+        "Comunitate focalizată pe educație",
+        "Climat tropical favorabil",
+        "Model de dezvoltare locală"
+      ]
+    },
+    {
+      "id": "mvolo-cities-v2",
+      "descriptionAdvanced": "Mvolo este situat în partea de nord-est a statului Equatoria de Vest și este faimos pentru producția sa de miere de înaltă calitate, colectată din pădurile înconjurătoare. Orașul este un punct de întâlnire între culturile agricole din sud și cele pastorale din statul Lakes. Această poziție de tranziție face din Mvolo un centru de schimb cultural și comercial interesant. Sachkunde K3 – Produse naturale din pădure.",
+      "factsAdvanced": [
+        "Centru major pentru miere",
+        "Zonă de tranziție între state",
+        "Situat în nordul Equatoriei de Vest",
+        "Intersecție culturală agricol-pastorală",
+        "Bogată în resurse naturale",
+        "Piață locală activă"
+      ]
+    },
+    {
+      "id": "lui-cities-v2",
+      "descriptionAdvanced": "Lui este un oraș de misiune istoric în Equatoria de Vest, fondat de Dr. Kenneth Fraser la începutul secolului XX. Orașul este renumit pentru spitalul său și pentru instituțiile educaționale care au servit regiunea timp de decenii. Lui rămâne un centru spiritual și medical important pentru comunitatea Moro și pentru întreaga zonă înconjurătoare. Istorie K8 – Rolul misiunilor medicale în dezvoltare.",
+      "factsAdvanced": [
+        "Oraș de misiune istoric",
+        "Fondat de Dr. Kenneth Fraser",
+        "Renumit pentru Spitalul Lui",
+        "Centru spiritual al poporului Moro",
+        "Instituții de învățământ vechi",
+        "Situat într-un peisaj colinar"
+      ]
+    },
+    {
+      "id": "amadi-cities-v2",
+      "descriptionAdvanced": "Amadi este un oraș mic situat în statul Equatoria de Vest, care servește ca centru administrativ local și punct de colectare a produselor agricole. Orașul are o istorie lungă ca post guvernamental, fiind situat într-o zonă care face tranziția de la pădurile dese spre savanele deschise. Amadi este cunoscut pentru spiritul său comunitar și pentru târgurile locale. Geografie K7 – Rolul administrativ al orașelor mici.",
+      "factsAdvanced": [
+        "Centru administrativ de comitat",
+        "Post guvernamental istoric",
+        "Zonă de producție a sorgului",
+        "Punct de legătură spre Mundri",
+        "Situat în Equatoria de Vest",
+        "Comunitate agricolă unită"
+      ]
+    },
+    {
+      "id": "kotobi-cities-v2",
+      "descriptionAdvanced": "Kotobi este o așezare agricolă în statul Equatoria de Vest, caracterizată prin ferme mici care produc o varietate de culturi, de la cereale la fructe tropicale. Orașul s-a dezvoltat în jurul unor proiecte de dezvoltare rurală și rămâne un punct important pentru securitatea alimentară locală. Peisajul din jur este unul de o frumusețe naturală rară, cu păduri și cursuri de apă mici. Sachkunde K3 – Viața la fermă în regiuni tropicale.",
+      "factsAdvanced": [
+        "Așezare agricolă model",
+        "Producător de fructe tropicale",
+        "Situat în statul Equatoria de Vest",
+        "Centru pentru dezvoltare rurală",
+        "Biodiversitate locală ridicată",
+        "Comunitate bazată pe cooperare"
+      ]
+    },
+    {
+      "id": "ganyliel-cities-v2",
+      "descriptionAdvanced": "Ganyliel este un oraș izolat situat adânc în mlaștinile Sudd din statul Unity, accesibil aproape exclusiv cu barca sau pe calea aerului. Această izolare a făcut din Ganyliel un refugiu sigur în timpul perioadelor de conflict, protejat de geografia sa dificilă. Viața locuitorilor este strâns legată de apă, pescuitul fiind principala sursă de hrană și venit. Geografie K7 – Adaptarea la viața în mlaștini.",
+      "factsAdvanced": [
+        "Izolat în mlaștinile Sudd",
+        "Accesibil în principal prin apă",
+        "Refugiu istoric sigur",
+        "Economie bazată pe pescuit",
+        "Situat în sudul statului Unity",
+        "Hub pentru transportul cu barca"
+      ]
+    },
+    {
+      "id": "panyijar-cities-v2",
+      "descriptionAdvanced": "Panyijar este situat în sudul extrem al statului Unity, într-un peisaj dominat de zone umede și canalele Nilului. Orașul servește ca centru administrativ pentru o regiune vastă și inundabilă, unde comunitățile locale practică pescuitul și creșterea vitelor adaptată la inundațiile sezoniere. Este un loc de o importanță ecologică majoră, făcând parte din ecosistemul Sudd. Geografie K8 – Managementul zonelor umede.",
+      "factsAdvanced": [
+        "Capitală de comitat în Unity",
+        "Inima ecosistemului Sudd",
+        "Populație adaptată la inundații",
+        "Centru major de pescuit",
+        "Peisaj dominat de papirus",
+        "Zonă bogată în păsări de apă"
+      ]
+    },
+    {
+      "id": "fangak-cities-v2",
+      "descriptionAdvanced": "Fangak este un oraș legendar situat în mlaștinile Sudd din statul Jonglei, cunoscut pentru reziliența sa în fața provocărilor naturale. Orașul este împărțit în Fangak-ul Vechi și Fangak-ul Nou, fiind un centru cultural important pentru comunitatea Nuer Gawaar. Din cauza inundațiilor frecvente, Fangak a devenit un model de adaptare a infrastructurii la un mediu acvatic dinamic. Geografie K8 – Urbanism în medii inundabile.",
+      "factsAdvanced": [
+        "Oraș emblematic în mlaștinile Sudd",
+        "Centru al Nuer Gawaar",
+        "Accesibil doar prin barcă/avion",
+        "Situat în statul Jonglei",
+        "Zonă de importanță istorică",
+        "Hub pentru comerțul cu pește"
+      ]
+    },
+    {
+      "id": "ayod-cities-v2",
+      "descriptionAdvanced": "Ayod este un oraș central în statul Jonglei, situat într-o zonă de savană deschisă, fiind un punct focal pentru stilul de viață pastoral al poporului Nuer Lou. Orașul este un hub pentru mișcarea vitelor spre pășunile de sezon uscat de lângă Nil. Ayod are o importanță strategică datorită poziției sale pe axa nord-sud a statului Jonglei. Geografie K7 – Rutele de transhumanță în savană.",
+      "factsAdvanced": [
+        "Centru pentru Nuer Lou",
+        "Situat în inima statului Jonglei",
+        "Nod important pentru transhumanță",
+        "Punct strategic de aprovizionare",
+        "Economie bazată pe vite",
+        "Zonă de savană aridă"
+      ]
+    },
+    {
+      "id": "uror-cities-v2",
+      "descriptionAdvanced": "Uror este un centru administrativ în statul Jonglei, reprezentând o zonă vastă locuită de comunități pastorale Nuer. Orașul este punctul central pentru coordonarea serviciilor în această regiune îndepărtată, unde creșterea vitelor definește statutul social și economic. Uror este cunoscut pentru piețele sale de animale și pentru adunările comunitare tradiționale. Geografie K7 – Structura socială a popoarelor pastorale.",
+      "factsAdvanced": [
+        "Centru administrativ în Jonglei",
+        "Hub pentru comunitățile Nuer",
+        "Economie pastorală tradițională",
+        "Zonă cu pășuni vaste",
+        "Punct de întâlnire pentru clanuri",
+        "Piață locală de vite"
+      ]
+    },
+    {
+      "id": "paloch-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Paloch, situat în statul Nilul Superior, este unul dintre pilonii centrali ai economiei Sudanului de Sud. Această facilitate imensă extrage țiței de tip 'Dar Blend' și include infrastructură complexă de procesare și pompare. Paloch este conectat direct la conducta care transportă petrolul spre Port Sudan la Marea Roșie, fiind vital pentru veniturile naționale. Geografie K8 – Impactul resurselor energetice asupra PIB-ului.",
+      "factsAdvanced": [
+        "Cel mai mare câmp petrolier activ",
+        "Extrage țiței de tip Dar Blend",
+        "Situat în statul Nilul Superior",
+        "Hub pentru conductele majore",
+        "Găzduiește facilități de procesare",
+        "Coloana vertebrală a exporturilor"
+      ]
+    }
+  ]
+}

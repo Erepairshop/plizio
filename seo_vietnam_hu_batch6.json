@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dong-xoai-cities-v2",
+      "descriptionAdvanced": "Đồng Xoài Bình Phước tartomány székhelye, amely a központi fennsík és a déli alföld találkozásánál fekszik. A város gazdasága alapvetően a mezőgazdaságra, különösen a kiterjedt gumi- és kesudió-ültetvényekre épül, de a legutóbbi években egyre jelentősebb szerepet játszik a régió kereskedelmében és a Cát Tiên Nemzeti Parkhoz vezető turisztikai útvonalak mentén. Földrajz K6 — mezőgazdasági régiók és természet.",
+      "factsAdvanced": [
+        "Bình Phước tartomány gazdasági központja",
+        "A vietnámi háború idején stratégiai jelentőségű csata helyszíne",
+        "Kiemelt régió a gumi- és kesudió-termelésben",
+        "A Cát Tiên Nemzeti Park közeli kapuja",
+        "Dinamikus várostervezés és infrastrukturális fejlesztések",
+        "Fontos kereskedelmi csomópont a déli régióban"
+      ]
+    },
+    {
+      "id": "tay-ninh-cities-v2",
+      "descriptionAdvanced": "Tây Ninh a Cao Đài vallási központjaként ismert, amelynek díszes, színes Szent Széke (Tòa Thánh) a város legfőbb látnivalója. A település a Kambodzsával határos régió egyik legfontosabb városa, amely a vallási zarándoklatok mellett a Fekete Szűz-hegy (Núi Bà Đen) természeti értékeivel vonzza az utazókat. Vallástörténet K7 — vallások és kultúrák találkozása.",
+      "factsAdvanced": [
+        "A Cao Đài vallás világszintű központja",
+        "A monumentális Szent Szék (Tòa Thánh) épülete",
+        "A Núi Bà Đen hegy népszerű túracélpont és spirituális hely",
+        "Közeli kapcsolat Kambodzsával (Mộc Bài határátkelő)",
+        "Mezőgazdasági központ, különösen a cukornád és manióka termesztésében",
+        "Élénk vallási és kulturális turizmus"
+      ]
+    },
+    {
+      "id": "tam-diep-cities-v2",
+      "descriptionAdvanced": "Tam Điệp Ninh Bình tartomány déli kapuja, amely stratégiai elhelyezkedése miatt fontos közlekedési és ipari csomópont észak és közép Vietnám között. A várost történelmileg jelentős védelmi vonalai és az utóbbi időben gyorsan fejlődő építőanyag-ipara, különösen a cementgyártás teszi meghatározóvá a régió gazdaságában. Földrajz K6 — ipari központok a közlekedési útvonalak mentén.",
+      "factsAdvanced": [
+        "A cementgyártás meghatározó központja",
+        "Történelmi jelentőségű védelmi vonal a feudalizmus idején",
+        "Fontos kapu Ninh Bình tartomány felé délről",
+        "Erősödő logisztikai szerepkör az észak-déli útvonalon",
+        "Fejlődő városi infrastruktúra a tartományban",
+        "Jelentős szerepet játszott az ország történeti védelmi rendszereiben"
+      ]
+    },
+    {
+      "id": "lai-chau-cities-v2",
+      "descriptionAdvanced": "Lai Châu az északnyugati hegyvidék egyik legeldugottabb tartományi székhelye, ahol a természeti táj érintetlensége és a több mint húsz etnikai kisebbség kulturális öröksége találkozik. A rendkívül alacsony népsűrűségű régióban a város a közigazgatás és a helyi közösségek központja, amely a hegyi turizmus számára biztosít bázist a vadvilág és a hegyek felfedezéséhez. Földrajz K8 — eldugott hegyvidéki régiók.",
+      "factsAdvanced": [
+        "Vietnám egyik leghegyvidékibb tartománya",
+        "Több mint 20 különböző etnikai csoport él itt",
+        "Lélegzetelállító hegyi panorámák és hágók",
+        "Közigazgatási és oktatási központ a régióban",
+        "A természetközeli életforma és turizmus fellegvára",
+        "Alacsony népsűrűségű, tiszta természeti környezet"
+      ]
+    },
+    {
+      "id": "an-khe-cities-v2",
+      "descriptionAdvanced": "An Khê a központi fennsík Gia Lai tartományában található város, amely történelmileg az An Khê-hágó stratégiai jelentőségéről ismert, mint a felföld és a partvidék közötti átjáró. A település egy vidéki környezetből fejlődő várossá, amely a közlekedési ütőerek mellett fontos szerepet tölt be a helyi gazdaságban és a környék mezőgazdasági termékeinek kereskedelmében. Földrajz K6 — átjárók és közlekedési csomópontok.",
+      "factsAdvanced": [
+        "Stratégiai fontosságú átjáró a történelem során",
+        "Vidéki városból városiasodó település",
+        "Fontos közlekedési ütőér a felföldön",
+        "A mezőgazdasági termékek kereskedelmi központja",
+        "A történelem során több katonai konfliktus helyszíne",
+        "A Gia Lai tartományi kereskedelmi hálózat része"
+      ]
+    }
+  ]
+}

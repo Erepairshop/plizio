@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-au-prince-port-economic-v2",
+      "descriptionAdvanced": "The Port of Port-au-Prince stands as Haiti's most vital maritime gateway, handling the vast majority of the nation's international trade. Located strategically in the Gulf of Gonâve, it processes over 70% of the country's imported goods, including essential fuels, construction materials, and food supplies. Following the devastating 2010 earthquake, the port underwent significant reconstruction efforts funded by international partners, leading to the establishment of modern container terminals and enhanced crane capacities by 2015. The facility features a main dock stretching over 800 meters, allowing it to accommodate large cargo vessels and Panamax ships. Its economic footprint extends deeply into the capital's commercial sectors, supporting thousands of direct and indirect jobs in logistics, customs, and transport. The continuous development of the port infrastructure remains a central focus for the Autorité Portuaire Nationale (APN) to streamline operations and reduce shipping delays. Geography K8 — maritime trade networks.",
+      "factsAdvanced": [
+        "Handles more than 70% of Haiti's total import cargo annually.",
+        "The primary North Pier was heavily damaged in the 2010 earthquake and later rebuilt.",
+        "Features an 800-meter main docking area for international vessels.",
+        "Managed and regulated by the Autorité Portuaire Nationale (APN).",
+        "A major 2015 modernization project introduced advanced container handling equipment.",
+        "Connects the capital directly to shipping routes across the Caribbean and North America."
+      ]
+    },
+    {
+      "id": "cap-haitien-port-economic-v2",
+      "descriptionAdvanced": "Serving the northern region of Haiti, the Port of Cap-Haïtien operates as the country's second-largest maritime facility and a critical hub for decentralized trade. Situated on the Atlantic coast, this port provides an essential alternative to the capital, facilitating the export of regional agricultural products such as coffee, cacao, and mangoes. In 2018, significant investments were initiated to deepen the harbor draft to 10.5 meters, enabling larger cruise ships and freight carriers to dock safely. The port features specialized zones for both commercial cargo and passenger vessels, supporting the growing tourism industry centered around nearby historical sites like the Citadelle Laferrière. With a handling capacity of over 150,000 TEUs per year, the facility greatly reduces the logistical reliance on Port-au-Prince. The expansion project also included modern warehouses and improved security measures to meet international shipping standards. Geography K7 — regional economic hubs.",
+      "factsAdvanced": [
+        "Serves as Haiti's second-largest commercial seaport.",
+        "Harbor draft was targeted for deepening to 10.5 meters in 2018.",
+        "Key export hub for northern agricultural goods like cacao and coffee.",
+        "Designed to handle approximately 150,000 TEUs (Twenty-foot Equivalent Units) annually.",
+        "Supports regional tourism by accommodating mid-sized cruise ships.",
+        "Operates under the supervision of the national port authority, APN."
+      ]
+    },
+    {
+      "id": "caracol-industrial-park-economic-v2",
+      "descriptionAdvanced": "The Caracol Industrial Park (PIC) is a flagship manufacturing center established in the Nord-Est department to stimulate economic growth outside the crowded capital. Inaugurated in October 2012 with an initial investment of 300 million USD backed by the US government and the IDB, the 246-hectare facility primarily focuses on the textile and garment manufacturing sectors. It features an independent 10-megawatt heavy fuel power plant, ensuring uninterrupted electricity for its factories and surrounding communities. The park employs over 15,000 local workers, making it one of the largest single employment sites in Haiti. By operating within a specialized free-trade zone, companies at Caracol benefit from duty-free exports to the United States under the HOPE and HELP legislative acts. The site also includes a modern wastewater treatment plant capable of processing 4,000 cubic meters daily, mitigating environmental impacts. Economics K8 — industrial development.",
+      "factsAdvanced": [
+        "Inaugurated in October 2012 in the Nord-Est department of Haiti.",
+        "Developed with a 300 million USD initial investment from international partners.",
+        "Covers an expansive 246 hectares of industrial zoning.",
+        "Provides direct employment for more than 15,000 Haitian workers.",
+        "Includes a dedicated 10-megawatt power generation facility.",
+        "Features a wastewater treatment plant processing 4,000 cubic meters daily."
+      ]
+    },
+    {
+      "id": "miragoane-port-economic-v2",
+      "descriptionAdvanced": "The Port of Miragoâne, located in the Nippes department along the southern coast of the Gulf of Gonâve, serves as a crucial transit point for regional commerce and second-hand goods. Historically known for the importation of used vehicles and bulk commodities, this natural deep-water port supports the economic activities of the entire southern peninsula. Despite facing infrastructural challenges over the years, it maintains a steady flow of coastal shipping, connecting local producers to larger domestic markets. The facility's 150-meter dock allows for the handling of mid-sized regional freighters and specialized cargo ships. In recent years, local authorities have proposed modernization plans aimed at upgrading the customs facilities and improving the access roads connecting the port to Route Nationale 2. This port remains a vital lifeline for the local economy, providing hundreds of jobs in stevedoring, transport, and commercial trading. Geography K7 — coastal trade centers.",
+      "factsAdvanced": [
+        "Located in the Nippes department on the southern shore of the Gulf of Gonâve.",
+        "Renowned as a major entry point for imported used vehicles into Haiti.",
+        "Features a main docking area of approximately 150 meters in length.",
+        "Provides a natural deep-water harbor suitable for mid-sized vessels.",
+        "Connects directly to Route Nationale 2, facilitating transport to the southern peninsula.",
+        "Supports hundreds of local jobs in customs, transport, and stevedoring."
+      ]
+    },
+    {
+      "id": "saint-marc-port-economic-v2",
+      "descriptionAdvanced": "Positioned along the western coast in the Artibonite department, the Port of Saint-Marc functions as a significant maritime node for central Haiti. It is strategically important for the importation of bulk food staples, particularly rice, which is widely consumed across the nation and heavily cultivated in the adjacent Artibonite Valley. The port features a 120-meter concrete pier that accommodates coastal freighters and medium-sized international cargo ships. Operating under the jurisdiction of the Autorité Portuaire Nationale, the facility handles an estimated 200,000 tons of freight annually. In 2014, minor dredging and structural reinforcement projects were completed to maintain operational safety standards. The port's activity directly influences the local economy of Saint-Marc, driving the growth of surrounding warehouses, wholesale markets, and transport logistics companies. Economics K7 — agricultural supply chains.",
+      "factsAdvanced": [
+        "Located in the Artibonite department on Haiti's western coastline.",
+        "A key import center for bulk food commodities, notably rice.",
+        "Equipped with a 120-meter concrete pier for cargo operations.",
+        "Handles approximately 200,000 tons of freight on an annual basis.",
+        "Underwent structural reinforcement and minor dredging in 2014.",
+        "Directly supports the commercial logistics of the Artibonite Valley region."
+      ]
+    },
+    {
+      "id": "jeremie-port-economic-v2",
+      "descriptionAdvanced": "The Port of Jérémie is the primary maritime link for the geographically isolated Grand'Anse department on Haiti's southwestern peninsula. Historically referred to as the 'City of Poets', Jérémie relies heavily on its port for the export of regional cash crops like cacao, coffee, and essential oils, particularly vetiver. The port infrastructure consists of a modest 80-meter pier that primarily serves coastal cabotage vessels connecting the region to Port-au-Prince. Due to the area's challenging overland routes, especially prior to the completion of the Route Nationale 7, the port has been an indispensable lifeline for basic goods and passenger transport. In the aftermath of Hurricane Matthew in 2016, the port suffered severe damage but was quickly prioritized for emergency repairs to allow international relief ships to dock. Today, it remains a focal point for the economic recovery and sustained development of the Grand'Anse. Geography K7 — isolated regional economies.",
+      "factsAdvanced": [
+        "Serves as the main maritime gateway for the Grand'Anse department.",
+        "Critical for exporting regional products like cacao and vetiver oil.",
+        "Features an 80-meter pier primarily used for coastal cabotage.",
+        "Acted as a crucial entry point for relief supplies after Hurricane Matthew in 2016.",
+        "Reduces regional isolation by providing a maritime alternative to Route Nationale 7.",
+        "Supports the local economy of Jérémie through coastal trade and transport."
+      ]
+    },
+    {
+      "id": "port-de-paix-port-economic-v2",
+      "descriptionAdvanced": "Situated on the northern coast overlooking the Tortuga Channel, the Port of Port-de-Paix is the economic anchor of the Nord-Ouest department. The facility is heavily engaged in robust coastal trade, serving as the primary departure point for ferries and small cargo boats traveling to Île de la Tortue just 16 kilometers offshore. Beyond local transit, the port handles agricultural exports, particularly bananas, coffee, and tobacco cultivated in the fertile hinterlands. The port infrastructure remains relatively traditional, featuring a small commercial wharf that accommodates shallow-draft vessels and regional traders. Efforts to formalize trade operations have been ongoing, as the port area is known for intense, informal commercial exchanges with the nearby Bahamas and Turks and Caicos Islands. The port's continuous activity provides essential income for thousands of residents in one of the country's most historically underserved regions. Economics K7 — informal maritime trade.",
+      "factsAdvanced": [
+        "Located in the Nord-Ouest department along the Tortuga Channel.",
+        "Serves as the main transit point for ferries to Île de la Tortue, 16 km away.",
+        "Handles the export of regional crops including bananas, coffee, and tobacco.",
+        "Operates a small commercial wharf suitable for shallow-draft regional vessels.",
+        "Acts as a hub for informal commercial trade with the Bahamas and Turks and Caicos.",
+        "Provides vital economic activity for the historically underserved northwestern region."
+      ]
+    },
+    {
+      "id": "aux-cayes-port-economic-v2",
+      "descriptionAdvanced": "The Port of Les Cayes is the preeminent commercial maritime facility in the Sud department, driving the economic engine of Haiti's southern peninsula. It specializes in the export of vetiver oil, a highly sought-after essential oil used in the global perfume industry, of which the Les Cayes region is a leading world producer. The port also facilitates the shipment of coffee, sugar, and local agricultural produce to the capital and international markets. The infrastructure includes a 140-meter concrete dock and several adjacent warehouses for temporary cargo storage. In 2021, the port played a critical logistical role in receiving humanitarian aid following a major 7.2 magnitude earthquake that struck the southern region. The continuous operation of the port is essential for integrating the agricultural output of the Plaine des Cayes into the broader national and global economy. Geography K8 — export-driven regional development.",
+      "factsAdvanced": [
+        "The largest commercial port facility in Haiti's Sud department.",
+        "A major global export hub for vetiver oil used in perfumery.",
+        "Features a 140-meter concrete dock for regional and international vessels.",
+        "Serves the fertile agricultural zone of the Plaine des Cayes.",
+        "Played a vital role in receiving sea-based relief aid after the 2021 earthquake.",
+        "Facilitates the regional trade of coffee, sugar, and bulk produce."
+      ]
+    },
+    {
+      "id": "fort-liberte-port-economic-v2",
+      "descriptionAdvanced": "The Port of Fort-Liberté, located in the Nord-Est department, leverages a deeply sheltered natural bay to provide secure maritime access. Historically a significant colonial export hub for sisal and sugar, modern operations are more localized but possess immense potential for expansion due to the bay's natural depth and protection from rough Atlantic seas. The port's proximity to the Dominican Republic border, approximately 20 kilometers away, makes it a strategic asset for cross-border logistics and regional integration. While current infrastructure is limited to smaller commercial wharves, feasibility studies have repeatedly highlighted Fort-Liberté as an ideal candidate for a future deep-water container terminal to relieve congestion at other northern ports. The site also supports a thriving local fishing community that relies on the calm waters of the bay for daily sustenance and economic activity. Geography K7 — natural harbors and potential trade routes.",
+      "factsAdvanced": [
+        "Situated in a deeply sheltered natural bay in the Nord-Est department.",
+        "Located approximately 20 kilometers from the Dominican Republic border.",
+        "Historically utilized for the large-scale export of sisal and sugar.",
+        "Identified by feasibility studies as an ideal site for a future deep-water terminal.",
+        "Currently supports small-scale commercial wharves and coastal cabotage.",
+        "Provides a secure and calm environment for the local fishing industry."
+      ]
+    },
+    {
+      "id": "la-gonave-port-economic-v2",
+      "descriptionAdvanced": "The Port of La Gonâve, primarily centered around the town of Anse-à-Galets, is the vital lifeline connecting Haiti's largest island to the mainland. Situated in the Gulf of Gonâve, this port handles the daily influx of essential goods, food supplies, and construction materials required to sustain the island's population of over 80,000 residents. The facility is dominated by small-scale wooden transport vessels and motorized ferries that make the 50-kilometer crossing to Port-au-Prince and coastal towns like Montrouis. Infrastructure consists of basic concrete piers designed for shallow-draft passenger and cargo boats rather than international shipping. The port is also the center of the island's fishing industry, serving as a market point for the daily catch. Improving this port's resilience against storms is a frequent focus of local development plans to ensure the island remains connected during extreme weather events. Economics K7 — island logistics and survival economies.",
+      "factsAdvanced": [
+        "The primary maritime connection for the island of La Gonâve to the Haitian mainland.",
+        "Located mostly in Anse-à-Galets, serving a population of over 80,000.",
+        "Facilitates the 50-kilometer sea crossing to Port-au-Prince and other coastal towns.",
+        "Infrastructure consists of basic concrete piers for shallow-draft vessels.",
+        "Crucial for importing all essential goods, food, and building materials to the island.",
+        "Acts as the central economic hub for the island's commercial fishing sector."
+      ]
+    },
+    {
+      "id": "cite-soleil-manufacturing-economic-v2",
+      "descriptionAdvanced": "The Cité Soleil Industrial Zone, located on the northern edge of Port-au-Prince, is one of Haiti's oldest and most concentrated manufacturing districts. Established in the late 1970s, it was originally designed as an Export Processing Zone (EPZ) to attract foreign investment in light manufacturing and assembly. Today, the zone houses factories producing textiles, footwear, plastics, and essential consumer goods for both the domestic market and export. Despite immense socio-economic challenges in the surrounding municipality, the industrial park continues to provide thousands of formal jobs, relying on proximity to the capital's main port and airport for logistics. Factories operating here benefit from established grid connections and high-capacity water wells. Recent initiatives by local businesses have focused on upgrading security protocols and providing localized vocational training to maintain a skilled workforce amidst complex urban dynamics. Economics K8 — urban industrial zones.",
+      "factsAdvanced": [
+        "Established in the late 1970s as a major Export Processing Zone (EPZ).",
+        "Located strategically near the main seaport and international airport of Port-au-Prince.",
+        "Houses numerous factories producing textiles, plastics, and footwear.",
+        "Provides thousands of formal manufacturing jobs to residents of the capital.",
+        "Features established utility infrastructure, including high-capacity industrial water wells.",
+        "Operates continuously despite the complex socio-economic challenges of the area."
+      ]
+    },
+    {
+      "id": "gonaives-industry-economic-v2",
+      "descriptionAdvanced": "The Gonaïves Industry sector is a vital component of the Artibonite department's economy, deeply intertwined with the region's agricultural output. Located in the 'City of Independence', the industrial activities here are predominantly focused on agro-processing, particularly the milling and packaging of rice grown in the fertile Artibonite Valley. The city also hosts facilities for refining locally harvested sea salt from the nearby coastal flats of Grande Saline. In recent years, small-scale manufacturing of construction materials, such as concrete blocks and metal roofing, has expanded to meet the demands of regional urbanization. While lacking a massive centralized industrial park, the decentralized factories in Gonaïves provide essential value-added processing that increases the marketability of rural products. The sector relies heavily on Route Nationale 1 for the distribution of finished goods to northern markets and the capital. Economics K7 — agro-processing integration.",
+      "factsAdvanced": [
+        "Serves as the central agro-processing hub for the Artibonite department.",
+        "Heavily focused on the milling, processing, and packaging of regional rice.",
+        "Includes facilities for refining sea salt harvested from the Grande Saline flats.",
+        "Produces construction materials like concrete blocks for regional development.",
+        "Adds essential market value to the raw agricultural products of the Artibonite Valley.",
+        "Utilizes Route Nationale 1 for the efficient distribution of processed goods."
+      ]
+    },
+    {
+      "id": "thomazeau-agri-industry-economic-v2",
+      "descriptionAdvanced": "The Thomazeau Agro-industry zone, situated east of Port-au-Prince near the brackish Lake Azuéi, specializes in large-scale agricultural cultivation and initial processing. The area is particularly noted for its expansive sugarcane plantations, which feed into the production of raw sugar and traditional Haitian rum (clairin) at local distilleries. Over the past decade, investments have been made to modernize irrigation systems in the arid plains, allowing for the year-round cultivation of cash crops like sorghum and mangoes. The agro-industrial facilities here focus on sorting, packing, and juicing operations, designed to extend the shelf life of produce destined for urban markets. The sector is a major employer in the Croix-des-Bouquets arrondissement, providing seasonal and full-time agricultural labor. The development of Thomazeau represents a strategic effort to bolster domestic food security and reduce reliance on imported agricultural goods. Agriculture K8 — modern farming and processing.",
+      "factsAdvanced": [
+        "Located east of Port-au-Prince, bordered by the brackish Lake Azuéi.",
+        "Renowned for large sugarcane plantations supporting local clairin distilleries.",
+        "Utilizes modernized irrigation to cultivate crops like sorghum and mangoes in arid plains.",
+        "Features facilities for the sorting, packing, and juicing of raw agricultural produce.",
+        "A major source of seasonal and permanent agricultural employment in the region.",
+        "Focuses on increasing domestic food production to reduce import dependency."
+      ]
+    },
+    {
+      "id": "milot-industry-economic-v2",
+      "descriptionAdvanced": "The Milot Construction Industry has grown significantly to support the infrastructure and tourism needs of the Nord department. Located near the UNESCO World Heritage site of the National History Park, the local industry specializes in the artisanal and semi-industrial production of building materials. This includes the manufacturing of fired clay bricks, decorative ironwork, and concrete components used in regional housing and heritage restoration projects. The town's economy, historically dependent on agriculture, has diversified as demand for culturally appropriate building materials increased. Local workshops employ hundreds of skilled tradesmen who utilize techniques that blend modern cement production with traditional masonry. This industrial micro-hub plays a crucial role in maintaining the structural integrity of the surrounding communities while providing a stable economic alternative to seasonal farming. Economics K7 — artisanal manufacturing.",
+      "factsAdvanced": [
+        "Specializes in the production of construction materials in the Nord department.",
+        "Produces fired clay bricks, concrete blocks, and decorative ironwork.",
+        "Supports regional housing construction and localized heritage restoration projects.",
+        "Employs hundreds of skilled tradesmen and masons in the Milot area.",
+        "Blends modern cement manufacturing with traditional Haitian masonry techniques.",
+        "Provides a vital economic alternative to the region's traditional seasonal agriculture."
+      ]
+    },
+    {
+      "id": "mirebalais-energy-economic-v2",
+      "descriptionAdvanced": "The Mirebalais Energy Center is a landmark achievement in Haiti's push for sustainable and reliable power generation. Centered around the Hôpital Universitaire de Mirebalais (HUM), the facility features one of the largest solar panel arrays in the Caribbean, originally installed in 2013 with 1,800 solar panels. This system generates over 1.2 megawatt-hours of electricity daily, providing 100% of the hospital's power needs during peak daylight hours and feeding surplus energy back into the local grid. The success of this installation has spurred further renewable energy investments in the Centre department, promoting solar micro-grids for surrounding rural communities. The center includes advanced battery storage systems to ensure continuous operation of critical medical equipment during outages. This site serves as a national model for integrating green technology with essential public infrastructure. Science K8 — renewable energy applications.",
+      "factsAdvanced": [
+        "Features one of the largest solar panel installations in the Caribbean.",
+        "Originally equipped with 1,800 solar panels inaugurated in 2013.",
+        "Generates over 1.2 megawatt-hours of renewable electricity on a daily basis.",
+        "Provides power to the Hôpital Universitaire de Mirebalais and the local grid.",
+        "Utilizes advanced battery storage to ensure uninterrupted critical medical services.",
+        "Serves as a pioneering national model for sustainable green energy infrastructure."
+      ]
+    },
+    {
+      "id": "les-cayes-manufacturing-economic-v2",
+      "descriptionAdvanced": "Les Cayes Industry in the Sud department is characterized by its highly specialized agro-manufacturing, most notably the distillation of vetiver oil. Haiti produces over 50% of the world's supply of this essential oil, and the majority of the distilleries are concentrated around Les Cayes. These industrial facilities process the roots of the vetiver grass, employing hundreds of technicians and supporting thousands of local farmers. The manufacturing sector here also includes coffee roasting plants, rum distilleries, and small-scale textile production. In recent years, there has been a push to modernize the distillation equipment to improve fuel efficiency and reduce environmental impact. The robust output of these factories makes Les Cayes a vital contributor to Haiti's foreign exchange earnings, linking rural agriculture directly to global luxury markets. Economics K8 — specialized global exports.",
+      "factsAdvanced": [
+        "The global epicenter for the distillation and production of vetiver essential oil.",
+        "Haiti supplies over 50% of the worldwide demand for vetiver, centered in this region.",
+        "Distilleries process locally grown roots, supporting thousands of agricultural workers.",
+        "The sector includes regional coffee roasting plants and traditional rum distilleries.",
+        "Modernization efforts aim to improve the fuel efficiency of the distillation process.",
+        "Directly links the rural agricultural economy of the Sud department to global luxury markets."
+      ]
+    },
+    {
+      "id": "cabaret-cement-economic-v2",
+      "descriptionAdvanced": "The Cabaret Cement Plant area, historically known as Ciment d'Haïti, is located in the Ouest department along Route Nationale 1. For decades, this site was the cornerstone of Haiti's domestic building materials industry, utilizing the rich local limestone deposits to produce Portland cement. Although the original large-scale manufacturing operations faced prolonged closures due to political instability and the 2010 earthquake, the industrial zone remains highly active with bulk cement importation, bagging, and distribution facilities. Companies operating here import raw clinker and utilize local grinding mills to produce finished cement for the national market. The facility's coastal location allows for direct offloading from specialized bulk carrier ships. The revitalized operations provide crucial materials for ongoing reconstruction efforts nationwide and maintain Cabaret's status as a key industrial logistics hub. Economics K8 — construction material supply chains.",
+      "factsAdvanced": [
+        "Located in the Ouest department, utilizing local limestone geology.",
+        "Historically the site of the massive Ciment d'Haïti Portland cement factory.",
+        "Currently serves as a major hub for bulk cement importation and localized bagging.",
+        "Facilities use industrial grinding mills to process imported raw clinker.",
+        "Coastal positioning allows specialized bulk carrier ships to offload directly.",
+        "Supplies critical construction materials required for nationwide rebuilding efforts."
+      ]
+    },
+    {
+      "id": "petion-ville-commerce-economic-v2",
+      "descriptionAdvanced": "Pétion-Ville Commercial Hub is the premier economic and financial center of the Port-au-Prince metropolitan area. Nestled in the hills above the capital, it transitioned from a residential suburb into a dense commercial district following the 2010 earthquake, as many businesses relocated to its relatively stable infrastructure. The area is defined by modern banking headquarters, upscale supermarkets, international hotels, and telecom corporate offices. Street-level commerce is intense, featuring a mix of high-end boutiques and sprawling informal markets that handle imported consumer goods. The real estate market here is among the most expensive in the country, driving continuous multi-story commercial construction. Pétion-Ville's dynamic economy generates significant tax revenue and formal employment, acting as the primary consumption engine for Haiti's urban middle and upper classes. Economics K8 — urban commercial gentrification.",
+      "factsAdvanced": [
+        "The premier financial and commercial district in the Port-au-Prince metropolitan area.",
+        "Experienced rapid commercial growth after businesses relocated post-2010 earthquake.",
+        "Hosts the national headquarters for major banks and telecommunications companies.",
+        "Features a dense concentration of international hotels and upscale retail supermarkets.",
+        "Characterized by some of the highest commercial real estate values in Haiti.",
+        "Serves as the primary economic consumption center for the urban middle and upper classes."
+      ]
+    },
+    {
+      "id": "saint-michel-agri-economic-v2",
+      "descriptionAdvanced": "Saint-Michel de l'Attalaye, located in the Artibonite department, is a powerhouse of Haitian agro-industry, specifically famous for its production of Clairin, a traditional sugarcane spirit. The region's flat, fertile terrain is dominated by vast, unhybridized sugarcane fields cultivated without synthetic chemicals. The local economy revolves around dozens of artisanal distilleries (guildives) that crush the cane using animal or mechanical power and ferment the pure juice using wild yeasts. This unique, hyper-local production method has recently gained international recognition, leading to the export of Saint-Michel Clairin to high-end spirits markets in Europe and North America. Beyond sugarcane, the area is also a major producer of yams, corn, and tobacco. The agro-industrial success of Saint-Michel demonstrates the economic viability of preserving traditional agricultural techniques while accessing global premium markets. Agriculture K8 — artisanal agro-exports.",
+      "factsAdvanced": [
+        "Located in the Artibonite department, renowned for its fertile agricultural plains.",
+        "A national center for the production of Clairin, Haiti's traditional sugarcane spirit.",
+        "Features dozens of artisanal distilleries known locally as guildives.",
+        "Sugarcane is cultivated organically without the use of synthetic fertilizers or pesticides.",
+        "Local clairin has successfully entered premium international spirits markets.",
+        "Also a significant regional producer of staple crops like yams, corn, and tobacco."
+      ]
+    },
+    {
+      "id": "limonade-tech-economic-v2",
+      "descriptionAdvanced": "The Limonade Educational and Industrial Park is a modern development node in the Nord department, blending higher education with regional economic expansion. It is anchored by the Université d'État d'Haïti Campus Henry Christophe, a state-of-the-art academic facility donated by the Dominican Republic in 2012, which accommodates over 10,000 students. The campus focuses on STEM, agriculture, and business administration to directly supply skilled labor to nearby industrial zones, including the Caracol Industrial Park. The surrounding area has seen rapid development of technical training centers, student housing, and light commercial services supporting the academic population. This synergy between education and industry is designed to decentralize Haiti's economy and create a knowledge-based workforce in the north. The Limonade tech corridor represents a long-term investment in human capital as a driver of industrial growth. Economics K8 — human capital and regional development.",
+      "factsAdvanced": [
+        "Anchored by the modern Campus Henry Christophe of the State University of Haiti.",
+        "The university campus was inaugurated in 2012 and can host over 10,000 students.",
+        "Academic programs are heavily focused on STEM, agriculture, and business administration.",
+        "Designed to provide a skilled, educated workforce for nearby northern industrial parks.",
+        "Has spurred localized economic growth in housing, retail, and technical services.",
+        "Represents a strategic national effort to decentralize higher education and industry."
+      ]
+    },
+    {
+      "id": "jacmel-port-economic-v2",
+      "descriptionAdvanced": "The Port of Jacmel, situated on Haiti's southern coast in the Sud-Est department, is a historic maritime facility with deep ties to the nation's cultural and economic heritage. During the late 19th and early 20th centuries, it was a booming export hub for Haitian coffee, financing the construction of the city's famous French colonial architecture. Today, the port operates on a smaller scale, featuring a 100-meter wharf that primarily handles coastal cabotage, imported cement, and regional agricultural produce. Following the 2010 earthquake, the port saw renewed importance for receiving relief supplies and has since been the focus of various revitalization plans aimed at accommodating cruise ships. Integrating the port into Jacmel's vibrant tourism and artisan sector—famous for its papier-mâché crafts and Carnival—remains a strategic priority for regional economic developers. Geography K7 — historic ports and tourism.",
+      "factsAdvanced": [
+        "Located in the Sud-Est department along the southern Caribbean coast.",
+        "Historically one of Haiti's wealthiest ports due to the booming 19th-century coffee trade.",
+        "Features a 100-meter commercial wharf used primarily for regional cabotage.",
+        "Currently handles the importation of construction materials and regional produce.",
+        "Revitalization plans aim to upgrade facilities to accommodate boutique cruise ships.",
+        "Strategically linked to the city's robust cultural tourism and artisan economy."
+      ]
+    },
+    {
+      "id": "anse-a-galets-port-economic-v2",
+      "descriptionAdvanced": "The Port of Anse-à-Galets is the primary maritime gateway for the island of La Gonâve, situated within the Gulf of Gonâve. It is an indispensable logistical lifeline, processing nearly all the commercial goods, fuel, and foodstuffs required by the island's residents. The port infrastructure comprises a series of concrete and wooden jetties where dozens of motorized wooden freighters, known as 'bateaux', dock daily after making the crossing from the Haitian mainland. Beyond basic imports, the port is a bustling hub for the export of island-produced charcoal, salt, and freshly caught seafood. The intense daily activity around the port drives the local economy of Anse-à-Galets, supporting markets, transport operators, and informal vendors. Ensuring the operational safety and weather resilience of this port is a continuous challenge for the local maritime authorities. Economics K7 — island dependency and trade.",
+      "factsAdvanced": [
+        "The largest and most active port facility on the island of La Gonâve.",
+        "Processes nearly 100% of the island's imported commercial goods, food, and fuel.",
+        "Features concrete and wooden jetties tailored for traditional motorized wooden freighters.",
+        "Serves as the departure point for island exports like charcoal, sea salt, and fish.",
+        "Supports the sprawling daily market and transport economy of Anse-à-Galets.",
+        "Operates as a critical lifeline requiring constant maintenance against storm damage."
+      ]
+    },
+    {
+      "id": "port-margot-fishing-economic-v2",
+      "descriptionAdvanced": "The Port-Margot Fishing Industry is a central economic pillar for this coastal municipality in the Nord department. Nestled along the Atlantic coast, the local economy relies heavily on artisanal fishing, utilizing traditional wooden boats (bwa fouye) and hand-woven nets. The daily catch, consisting of snapper, grouper, and various crustaceans, is a crucial source of protein and income, sold in local markets and transported to larger cities like Cap-Haïtien. In recent years, local cooperatives have introduced fiberglass boats and modern outboard motors to improve safety and increase the range of the fishing fleets. The industry is complemented by localized fish smoking and salting operations, which preserve the catch for extended inland transport without refrigeration. The marine environment around Port-Margot is carefully monitored by community groups to prevent overfishing and protect the vital mangrove ecosystems. Agriculture K7 — artisanal marine economies.",
+      "factsAdvanced": [
+        "Located on the Atlantic coast in the Nord department of Haiti.",
+        "Centered around artisanal fishing utilizing traditional wooden vessels and hand-nets.",
+        "Primary catches include snapper, grouper, and various local crustaceans.",
+        "Cooperatives are modernizing the fleet with fiberglass hulls and outboard motors.",
+        "Includes secondary local industries for smoking and salting fish for inland transport.",
+        "Community initiatives actively work to protect local mangroves from over-exploitation."
+      ]
+    },
+    {
+      "id": "miragoane-industrial-zone-economic-v2",
+      "descriptionAdvanced": "The Miragoâne Industry zone in the Nippes department is characterized by logistics, bulk storage, and automotive processing. Taking advantage of the deep-water port, the industrial sector here includes massive petroleum storage terminals that supply fuel to the entire southern peninsula of Haiti. Furthermore, the area is the national epicenter for the importation and processing of second-hand vehicles. Industrial lots are dedicated to mechanics, auto body repair, and the salvage of spare parts, creating a robust circular economy around vehicle maintenance. Smaller scale manufacturing includes block-making facilities and ice plants supporting the regional fishing fleets. The concentration of these heavy commercial activities makes Miragoâne a critical node in Haiti's national supply chain, providing substantial formal and informal employment in transport and mechanical trades. Economics K8 — automotive and fuel logistics.",
+      "factsAdvanced": [
+        "Located in the Nippes department, leveraging the local deep-water port infrastructure.",
+        "Hosts massive petroleum storage terminals supplying fuel to the southern peninsula.",
+        "Functions as the national epicenter for the importation and processing of used vehicles.",
+        "Features expansive industrial lots dedicated to auto repair, bodywork, and parts salvage.",
+        "Includes secondary manufacturing like ice plants for the regional fishing industry.",
+        "Provides significant employment in logistics, mechanical trades, and transport."
+      ]
+    },
+    {
+      "id": "carrefour-commerce-economic-v2",
+      "descriptionAdvanced": "The Carrefour Commercial Zone is a sprawling, high-density economic district located at the southern exit of the Port-au-Prince metropolitan area. Because Route Nationale 2 passes directly through the municipality, Carrefour acts as a mandatory commercial bottleneck connecting the capital to the four southern departments. The zone is dominated by large-scale wholesale depots, building material suppliers, and bustling open-air markets that operate from dawn until dusk. In addition to retail, the coastal edge of Carrefour hosts industrial port facilities that receive bulk shipments of fuel and grain. The immense volume of vehicular and pedestrian traffic fuels a massive informal service economy, including street food vendors, mechanics, and public transport operators (tap-taps). The economic vitality of Carrefour is a testament to its irreplaceable strategic location in Haiti's national transit network. Economics K8 — urban transit commerce.",
+      "factsAdvanced": [
+        "Located at the southern exit of Port-au-Prince, straddling Route Nationale 2.",
+        "Acts as the mandatory logistical gateway connecting the capital to the southern peninsula.",
+        "Dominated by massive wholesale depots, hardware suppliers, and sprawling street markets.",
+        "Features localized industrial port facilities for the importation of fuel and bulk grain.",
+        "Supports a massive informal economy driven by transit traffic and local residents.",
+        "Characterized by intense daily commercial activity operating from dawn until dusk."
+      ]
+    }
+  ]
+}

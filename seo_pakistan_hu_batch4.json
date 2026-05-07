@@ -1,0 +1,375 @@
+{
+  "lang": "hu",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "himalayan-ibex-habitat-life-v2",
+      "descriptionAdvanced": "A himalájai kőszáli kecske (Himalayan Ibex) Pakisztán északi hegyvidékeinek, különösen Gilgit-Baltisztán és a Karakorum régió meredek, sziklás lejtőinek lenyűgöző lakója. Ezek az állatok elképesztő ügyességgel mozognak a szinte függőleges sziklafalakon, ahol ragadozóik – mint a hópárduc – nehezebben érik el őket. A hímek hatalmas, hátrahajló, bordázott szarvakkal rendelkeznek, amelyek hossza akár az egy métert is meghaladhatja. A téli kemény fagyok idején vastag aljszőrzetet (pashmina) növesztenek, amely az egyik legfinomabb gyapjú a világon. Védelmük kulcsfontosságú a helyi trófeavadászati programokon keresztül, amelyek bevételei a helyi közösségeket támogatják. Sachkunde K8 — az alpesi fauna, a zoológia és a fenntartható vadászat.",
+      "factsAdvanced": [
+        "Élőhelyük elsősorban a 3500 és 5000 méter közötti meredek sziklafalakra korlátozódik.",
+        "A hímek szarva a dominancia és a párzási harcok eszköze, hossza akár az 1,2 métert is elérheti.",
+        "A hópárduc legfőbb természetes zsákmányállata Pakisztán hegyeiben.",
+        "Télen az állatok vastag 'pashmina' aljszőrzetet növesztenek a hideg ellen.",
+        "A szigorúan szabályozott trófeavadászat bevételeinek 80%-a a helyi közösségekhez kerül.",
+        "Táplálékuk a hegyi füvekből, zuzmókból és szívós cserjékből áll."
+      ]
+    },
+    {
+      "id": "punjab-mango-farms-life-v2",
+      "descriptionAdvanced": "Pandzsáb tartomány kiterjedt mangófarmjai a pakisztáni mezőgazdaság legédesebb büszkeségei. Különösen Multan, Bahawalpur és Muzaffargarh környékén, a folyóközök (doabok) termékeny, alluviális talaján és forró klímájában terem a világ legjobb minőségű mangója. Pakisztánban a mangót a 'Gyümölcsök Királyának' hívják, és a nyári hónapok a betakarítás ünnepét jelentik. Több tucat fajtát termesztenek, melyek közül a legnépszerűbbek a mézédes, rostmentes Chaunsa, a Sindhri és az Anwar Ratol. A mangószezon mélyen gyökerezik a pandzsábi kultúrában, a falusi élettől kezdve az ajándékozási szokásokig mindent áthat. Sachkunde K5 — a trópusi gyümölcstermesztés és a mezőgazdasági kultúra.",
+      "factsAdvanced": [
+        "A Multan és Bahawalpur környéki régió adja a pandzsábi mangótermés gerincét.",
+        "A leghíresebb és legkeresettebb fajta az illatos és édes 'Chaunsa'.",
+        "Pakisztán a világ 4. legnagyobb mangótermelője és exportőre.",
+        "A mangófák akár 100 évig is élhetnek és termést hozhatnak.",
+        "A betakarítás május végén kezdődik és egészen augusztusig tart.",
+        "A mangót hagyományosan hűtött vízben áztatva, kézzel eszik a forró nyári napokon."
+      ]
+    },
+    {
+      "id": "lake-view-park-islamabad-life-v2",
+      "descriptionAdvanced": "A Lake View Park Iszlámábád legnépszerűbb családi és rekreációs központja, amely a Rawal-tó festői északi partján terül el. Ez a hatalmas, zöld park a fővárosiak kedvenc hétvégi menedéke, ahol az aktív kikapcsolódás és a természet ötvöződik. A park rengeteg szórakozási lehetőséget kínál: a tó partján piknikező és grillező (BBQ) helyek százai sorakoznak, a vízen csónakázni és jet-skizni lehet, a szárazföldön pedig go-kart pályák, paintball és egy óriási madárröpde (aviary) várja a látogatókat. A park madárröpdéje Pakisztán legnagyobbja, több száz egzotikus madárfajjal. Földrajz K7 — a városi zöldterületek, a rekreációs turizmus és a szabadidős központok.",
+      "factsAdvanced": [
+        "A parkot a Rawal-tó mesterséges víztározója köré építették ki a 2000-es években.",
+        "Itt található Pakisztán legnagyobb szabadon bejárható madárröpdéje (aviárium).",
+        "A park területén speciális szabadtéri BBQ (grillező) zónákat alakítottak ki.",
+        "A tavon tilos a motorcsónakázás (a vízszennyezés elkerülése végett), csak evezni lehet.",
+        "Rendszeres helyszíne szabadtéri koncerteknek és tavaszi virágkiállításoknak.",
+        "A park bejáratától egy kisvonat is szállítja a turistákat a kiterjedt területen."
+      ]
+    },
+    {
+      "id": "joyland-rawalpindi-life-v2",
+      "descriptionAdvanced": "A Joyland (Ayub Nemzeti Park vidámparkja) Rawalpindi legrégebbi és legkedveltebb szórakoztató központja, amely generációk óta nyújt kikapcsolódást a helyieknek. A több évtizedes múltra visszatekintő park az Ayub National Park zöldterületébe ágyazva található. Bár nem rendelkezik a modern gigavidámparkok extrém hullámvasútjaival, nosztalgikus bája, óriáskereke, körhintái és dodzsempályái miatt a kisgyermekes családok kedvence. Az Eid ünnepek és a tavaszi fesztiválok idején a park megtelik élettel, nevetéssel és a hagyományos pandzsábi street food árusok illataival, hűen tükrözve a pakisztáni nagyvárosi közösségi életet. Sachkunde K5 — a családi szórakozás és a városi vidámparkok élete.",
+      "factsAdvanced": [
+        "A vidámpark a hatalmas kiterjedésű Ayub Nemzeti Park szívében található.",
+        "Az óriáskerékről szép kilátás nyílik Rawalpindi sűrűn beépített negyedeire.",
+        "Különösen az Eid al-Fitr és az Eid al-Adha ünnepei alatt vonz hatalmas tömegeket.",
+        "A vidámpark közvetlen szomszédságában található egy csónakázó tó is.",
+        "A belépőjegyek árazása hagyományosan nagyon családbarát maradt.",
+        "A park területén esténként népszerű ételstandok nyitnak (chaat, dahi bhalla)."
+      ]
+    },
+    {
+      "id": "deosai-national-park-wildlife-life-v2",
+      "descriptionAdvanced": "A Deosai Nemzeti Park nemcsak egy kopár fennsík, hanem egy rendkívül érzékeny és egyedi magashegyi ökoszisztéma, amely számtalan ritka állatfajnak ad menedéket. A parkot eredetileg 1993-ban hozták létre kifejezetten a kihalás szélén álló himalájai barna medve (Ursus arctos isabellinus) megmentése érdekében. A sikeres védelmi programoknak köszönhetően a medvék populációja az elmúlt évtizedekben lassan, de stabilan növekedésnek indult. A fennsík nyáron megtelik élettel: a havasi mormoták (golden marmot) füttyszóval figyelmeztetik egymást a szirti sasok és a tibeti farkasok közeledtére, miközben a virágos réteken a pásztorok jakokat és juhokat legeltetnek. Biologie K8 — a veszélyeztetett fajok védelme és a magashegyi fauna.",
+      "factsAdvanced": [
+        "A parkot elsősorban a himalájai barna medve védelmére alapították 1993-ban.",
+        "Nyáron a terület a havasi mormoták (golden marmot) hatalmas kolóniáinak ad otthont.",
+        "A medvék populációja az 1990-es évekbeli 19 egyedről mára 70 fölé emelkedett.",
+        "Télen a park az extrém hóviszonyok miatt teljesen elzárt az állatvilág és az emberek elől.",
+        "Itt fészkel a ritka és gyönyörű szakállas saskeselyű (Gypaetus barbatus) is.",
+        "A helyi Gujjar nomádok évszázadok óta legeltetnek itt a rövid, nyári hónapokban."
+      ]
+    },
+    {
+      "id": "sindh-sugarcane-fields-life-v2",
+      "descriptionAdvanced": "A Szindh tartományt átszelő Indus-folyó völgye és az öntözőcsatornák környéke (különösen Nawabshah, Sanghar és Mirpur Khas régiók) a pakisztáni cukornádtermesztés fellegvára. A cukornád egy rendkívül vízigényes növény (cash crop), amelynek zöldellő, akár 3 méter magasra növő 'erdei' meghatározzák a helyi tájképet. A téli hónapokban, a betakarítás (crushing season) idején a régió teljesen átalakul: a földeket kézi erővel arató munkások lepik el, és az édes levet szállító, túlrakodott, színes traktorok és szamárkordék ezrei indulnak meg a hatalmas cukorfinomítók (sugar mills) felé. A frissen préselt cukornádlé (ganne ka ras) a vidék legkedveltebb téli itala. Földrajz K7 — az ipari növények termesztése és az agrárgazdaság.",
+      "factsAdvanced": [
+        "A cukornád Pakisztán második legfontosabb ipari növénye (cash crop) a gyapot után.",
+        "Szindh tartomány termésátlaga a legmagasabb az országban a trópusi klíma miatt.",
+        "A betakarítási szezon (crushing season) novembertől kora tavaszig tart.",
+        "A növény hatalmas vízigényét a brit és pakisztáni csatornarendszerek fedezik.",
+        "A cukorgyárak melléktermékét, a kipréselt nádat (bagasz) bioüzemanyagként égetik el.",
+        "A vidéki utakon jellegzetes látvány a több méter magasan cukornáddal megrakott teherautó."
+      ]
+    },
+    {
+      "id": "shalimar-gardens-lahore-life-v2",
+      "descriptionAdvanced": "A lahori Shalimar-kertek ma nemcsak a letűnt mogul kor emlékhelye, hanem a modern lahori közösségi élet egyik fénypontja is. A kőfalakon belüli árnyas fák és hűs vízmedencék menedéket nyújtanak a forró, szmogos nagyvárosi nyár elől. A hétvégéken a helyiek színes ruhákban sétálnak a teraszokon, a családok a pázsiton piknikeznek, a gyerekek pedig a szökőkutak permetében hűsölnek. A kertek a pandzsábi költészet és a szerelmespárok kedvelt találkozóhelye. Évente megrendezik itt a híres Mela Chiraghan (Lámpások Fesztiválja) ünnepet Madho Lal Hussain szufi szent tiszteletére, amikor a kert ezernyi olajmécses fényében fürdik. Sachkunde K5 — a történelmi terek modern közösségi használata.",
+      "factsAdvanced": [
+        "A történelmi park ma Lahore egyik legfontosabb nyilvános zöldterülete.",
+        "A Mela Chiraghan (Lámpások Fesztiválja) alkalmával ezrek gyújtanak itt mécseseket.",
+        "A kertek teraszos kialakítása természetes mikroklímát, hűvösebbet teremt a városnál.",
+        "A helyi esküvői fotósok egyik legkedveltebb szabadtéri helyszíne.",
+        "A park fenntartása és a vízfolyások működtetése állandó kihívás a város számára.",
+        "A kertben sétálva gyakran találkozni hagyományos pandzsábi zenét játszó utcazenészekkel."
+      ]
+    },
+    {
+      "id": "sindbad-wonderland-karachi-life-v2",
+      "descriptionAdvanced": "A Sindbad's Wonderland Karacsi legikonikusabb és legrégebbi családi vidámpark-hálózata, amely több évtizede szórakoztatja a tengerparti metropolisz lakóit. A Gulshan-e-Iqbal városrészben található eredeti park a 80-as és 90-es években élte fénykorát, és ma is a gyermekkori nosztalgia jelképe sok pakisztáni számára. Bár a modern bevásárlóközpontok fedett játszóházai (mint a Sindbad's Xtreme) próbálják átvenni a szerepét, a szabadtéri park neonfényes körhintái, az ikonikus dodzsempályák és a lézer-tag arénák továbbra is mágnesként vonzzák az osztálykirándulásokat és a hétvégi családokat. A park éjszaka, a nyári tengerparti szellőben a legélénkebb. Sachkunde K5 — a nagyvárosi gyermekkor és a klasszikus vidámparkok.",
+      "factsAdvanced": [
+        "A Sindbad lánc Pakisztán első modern, gépesített vidámpark-hálózata volt.",
+        "A Karacsi Gulshan-e-Iqbal negyedben lévő park az 1980-as évek óta üzemel.",
+        "A park benti (indoor) és kinti (outdoor) szórakoztató elemeket is kombinál.",
+        "A dodzsemek (Bumper Cars) és a 3D-szimulátorok a legnépszerűbb attrakciói.",
+        "A márkanév ma már a nagy bevásárlóközpontokban is jelen van játéktermek formájában.",
+        "A szabadtéri parkba a belépés ingyenes, csak az egyes játékokért kell fizetni."
+      ]
+    },
+    {
+      "id": "khunjerab-national-park-life-v2",
+      "descriptionAdvanced": "A Khunjerab Nemzeti Park a világ egyik legmagasabban fekvő természetvédelmi területe, amely a Pakisztán és Kína közötti határvidéken, a Karakorum Highway mentén terül el. A park zord, alpesi tundrája ritka és fenséges állatfajok menedéke. Itt vadászik a legendás, rejtőzködő hópárduc, amelynek megfigyelése a világ minden tájáról vonzza a biológusokat. A park hatalmas csordákban otthona a Marco Polo juhnak, amelynek spirális szarvai elképesztő méreteket ölthetnek, valamint a kék juhnak (bharal) és a himalájai kőszáli kecskének. A helyi közösségek és a parkőrök együttműködése szigorúan védi ezt a törékeny ökoszisztémát az orvvadászoktól. Biologie K8 — a magashegyi ragadozók és a határokon átnyúló ökoszisztémák.",
+      "factsAdvanced": [
+        "A park a híres Khunjerab-hágó (4693 méter) körüli területet foglalja magába.",
+        "Pakisztán egyik legfontosabb menedéke a veszélyeztetett hópárducok számára.",
+        "Itt él a híres Marco Polo juh, amelynek szarvai elérhetik az 1,5 métert is.",
+        "A parkot hivatalosan 1975-ben alapították a vadon élő állatok védelmére.",
+        "A területen télen az átlaghőmérséklet -20 °C alá süllyed.",
+        "A Karakorum Highway (KKH) egyenesen keresztülvág a nemzeti parkon."
+      ]
+    },
+    {
+      "id": "kp-tobacco-farms-life-v2",
+      "descriptionAdvanced": "Hajber Pahtunhva (Khyber Pakhtunkhwa) tartomány termékeny völgyei, különösen Swabi és Mardan körzetei, adják Pakisztán dohánytermelésének oroszlánrészét. A tavaszi ültetés után a nyár közepére a földeket méter magas, hatalmas levelekkel rendelkező Virginia és Flue-Cured dohányültetvények borítják. Az aratás a nyár végén kezdődik, ami elképesztő logisztikai munkát igényel: a hatalmas leveleket kézzel szedik, majd a falvak köré épített jellegzetes, magas, téglafalú dohányfüstölő és szárító pajtákba (bhattis) hordják. E pajták kéményeiből szálló fafüst látványa és a szárított dohány édeskés illata meghatározza a régió nyár végi atmoszféráját. Földrajz K7 — a mezőgazdasági betakarítás és a helyi feldolgozóipar (cash crops).",
+      "factsAdvanced": [
+        "A Swabi és Mardan körzet adja az országos dohánytermés több mint 70%-át.",
+        "A legnépszerűbb termesztett fajta a Flue-Cured Virginia (FCV).",
+        "A dohány betakarítása és feldolgozása százezreknek ad nyári munkát a régióban.",
+        "A leveleket hatalmas, fával fűtött téglapajtákban (bhatti) szárítják 6-7 napig.",
+        "Pakisztán az egyik legnagyobb dohánytermelő a régióban, főként hazai fogyasztásra.",
+        "A dohány az egyik legjövedelmezőbb ipari növény a kisgazdák számára errefelé."
+      ]
+    },
+    {
+      "id": "jinnah-garden-lahore-life-v2",
+      "descriptionAdvanced": "A Jinnah-kert, amelyet történelmileg Lawrence Gardens néven ismertek, Lahore városának legnagyobb és legidősebb botanikus kertje és városi parkja. Az 1862-ben, a brit gyarmati korszakban alapított park hatalmas banyánfái, ősi platánjai és gondozott pázsitjai nyugalmat árasztanak. A kert a város polgárainak reggeli találkozóhelye: korán kelők ezrei jönnek ide kocogni, jógázni és tollaslabdázni. A parkban található a gyönyörű, fehér Quaid-e-Azam Könyvtár (egy klasszikus viktoriánus épület) és egy szabadtéri színház is. A tavaszi virágzás idején, különösen a krizantém-kiállításokkor, a park lenyűgöző színekbe borul. Sachkunde K5 — a városi parkok, az egészséges életmód és a botanika.",
+      "factsAdvanced": [
+        "A park eredeti neve Lawrence Gardens volt, John Lawrence brit alkirály után.",
+        "Területe mintegy 141 acre (kb. 57 hektár) a város szívében.",
+        "Több mint 150 ritka fa- és cserjefajnak ad otthont a világ minden tájáról.",
+        "A park közepén található az elegáns, neoklasszikus Quaid-e-Azam Könyvtár épülete.",
+        "Itt található Pakisztán egyik első szabadtéri színháza (Open Air Theatre).",
+        "A park krikettpályáján (Bagh-e-Jinnah) egykor hivatalos Test meccseket is játszottak."
+      ]
+    },
+    {
+      "id": "chunkey-monkey-islamabad-life-v2",
+      "descriptionAdvanced": "A Chunky Monkey egy modern, vibráló fedett és szabadtéri vidámpark Iszlámábádban, amely a Lake View Park és más rekreációs zónák közelében nyújt önfeledt szórakozást a fővárosi fiataloknak. Szemben a hagyományos vurstlikkal, ez a park a modern arcade játékokra, a 7D szimulátorokra, a beltéri ejtőtornyokra (drop tower) és az interaktív VR-élményekre fókuszál. A park tökéletes menedéket nyújt a nyári forróság vagy a monszunesők elől. Hétvégéken a születésnapi zsúroktól és a nevető tinédzserektől hangos komplexum az iszlámábádi új, középosztálybeli szórakozási kultúra és a plázákhoz kapcsolódó élménygazdaság (experience economy) egyik iskolapéldája. Sachkunde K5 — a beltéri szórakoztató központok és a modern városi életmód.",
+      "factsAdvanced": [
+        "A Chunky Monkey egy modern, felerészt fedett szórakoztatóipari központ.",
+        "A park a klasszikus körhintákat modern VR és arcade játékokkal kombinálja.",
+        "Főként a főváros tehetősebb középosztálya és a tinédzserek körében népszerű.",
+        "A benti játéktermek kártyás/zsetonos rendszerrel (token system) működnek.",
+        "A létesítményben népszerű kalózhajó (pirate ship) és dodzsem is található.",
+        "A komplexumban gyorséttermek és születésnapi parti-zónák is helyet kaptak."
+      ]
+    },
+    {
+      "id": "lal-suhanra-national-park-life-v2",
+      "descriptionAdvanced": "A Lal Suhanra Nemzeti Park a Cholistan-sivatag peremén fekszik, és Pakisztán egyik legnagyobb és legkülönlegesebb bioszféra-rezervátuma. Különlegessége, hogy egyszerre foglal magába sivatagi, erdős és mocsaras/tavi ökoszisztémákat. A parkot 1972-ben alapították, és elsődleges célja az indiai antilop (Blackbuck) kihalásának megakadályozása volt. A sikeres tenyésztési programnak köszönhetően ma több száz antilop ugrándozik a védett kerítések mögött, ahonnan fokozatosan engedik ki őket a vadonba. A park sűrű erdeiben rinocéroszok élnek, míg a közeli Patisar-tó több tízezer vonuló madár (például flamingók és récék) téli pihenőhelye. Biologie K8 — a sivatagi bioszféra-rezervátumok és a fajmentő programok.",
+      "factsAdvanced": [
+        "Ez Pakisztán egyik első, 1972-ben alapított nemzeti parkja.",
+        "Az UNESCO bioszféra-rezervátumként tartja számon egyedi ökoszisztémája miatt.",
+        "A park legnagyobb sikertörténete a ritka indiai antilop (Blackbuck) visszatelepítése.",
+        "A terület három zónából áll: sivatagi homokdűnék, sűrű mesterséges erdők és a Patisar-tó.",
+        "A tó vizén télen akár 30 000 vándormadár is megpihen egy időben.",
+        "A területet az Abbasia csatorna vizével öntözik, ami oázist teremt a sivatag szélén."
+      ]
+    },
+    {
+      "id": "balochistan-apple-orchards-life-v2",
+      "descriptionAdvanced": "Beludzsisztán tartomány magasan fekvő völgyei – különösen Ziarat, Kvetta, Kalat és Pishin körzetei – adnak otthont Pakisztán legkiválóbb almaültetvényeinek. A száraz, hegyvidéki klíma, a hideg telek és a hosszú, napsütéses nyarak tökéletes körülményeket teremtenek a ropogós, lédús almák (mint a helyi Kulu és Amri fajták) termesztéséhez. Kora ősszel a völgyek megtelnek a betakarítás zajával: a fák roskadoznak a piros és sárga gyümölcsöktől, amelyeket a helyi balucsi és pastu gazdák kézzel szednek le, fadobozokba csomagolnak, és a kvettai nagykereskedelmi piacokon keresztül juttatnak el az egész országba. Az ültetvények öntözését sok helyen a több ezer éves, földalatti 'karez' vízvezetékrendszerek biztosítják. Földrajz K7 — a hegyvidéki gyümölcstermesztés és az ősi öntözési technikák (karez).",
+      "factsAdvanced": [
+        "Beludzsisztán tartomány adja Pakisztán éves almatermésének több mint 80%-át.",
+        "A Ziarat és Pishin völgyek az ország legfontosabb almatermelő vidékei.",
+        "A legelterjedtebb helyi almafajták a 'Kulu', 'Amri', 'Mashadi' és 'Golden Delicious'.",
+        "A szárazföldi öntözést gyakran ősi, földalatti vízcsatornák (karez) biztosítják.",
+        "Az itteni almák a magaslati, hűvös klíma miatt kiválóan tárolhatók és ropogósak.",
+        "Az almaszezon szeptembertől novemberig tart a tartományban."
+      ]
+    },
+    {
+      "id": "bagh-e-jinnah-karachi-life-v2",
+      "descriptionAdvanced": "A Karacsiban található Bagh-e-Jinnah (korábban Frere Hall kertek) a 20 milliós metropolisz egyik legimpozánsabb és legnyüzsgőbb közparkja, amely közvetlenül a történelmi Frere Hall épülete körül terül el. A kert történelmi fái, pálmafái és pázsitjai az egyetlen zöld menedéket jelentik a beton- és aszfaltdzsungelben. Délutánonként a park megtelik élettel: egyetemi hallgatók olvasnak a fűben, gyerekek kergetik egymást, a könyvtár látogatói pedig itt pihennek meg. Hétvégéken a park gyakran ad otthont könyvvásároknak, ételfesztiváloknak és szabadtéri művészeti kiállításoknak, ami a városi polgári élet és a kultúra lüktető központjává teszi. Sachkunde K5 — a nagyvárosi köztér (public space) és az állampolgári élet.",
+      "factsAdvanced": [
+        "A park a brit gyarmati időkben Frere Hall kertek néven volt ismert.",
+        "Pakisztán függetlensége után nevezték át Bagh-e-Jinnah (Jinnah-kert) névre.",
+        "A hatalmas zöldterület közepén áll a velencei gótikus stílusú Frere Hall épülete.",
+        "A helyszín minden vasárnap egy nagy könyvbazárnak (Sunday Book Bazaar) ad otthont.",
+        "Sétányai és öreg banyánfái a karacsi elit és a diákok kedvelt pihenőhelye.",
+        "A pázsiton gyakran tartanak kulturális fesztiválokat (pl. Karachi Eat)."
+      ]
+    },
+    {
+      "id": "atlantis-water-park-karachi-life-v2",
+      "descriptionAdvanced": "Az Atlantis Vízil Élménypark egyike Karacsi legnépszerűbb nyári hűsölőhelyeinek, amely a forró trópusi klímában igazi oázist jelent a helyiek számára. A Super Highway (University Road) közelében található park hatalmas medencékkel, hullámmedencével, extrém csúszdákkal és egy hosszú 'Lusta folyóval' (Lazy River) vonzza a hőséget elviselni vágyó tömegeket. A park nagy hangsúlyt fektet a családi kikapcsolódásra, külön, teljesen elszeparált medencéket (ladies-only) fenntartva a nők és gyermekek számára. Az iskolai szünetek és a fesztiválok idején a vízipark színültig telik zenével, vízi játékokkal és a hideg italokat kínáló büfék vendégeivel. Sachkunde K5 — a modern vízivárosok és a trópusi klíma rekreációs kihívásai.",
+      "factsAdvanced": [
+        "A park Karacsi forgalmas külvárosában, tágas, pálmafás területen fekszik.",
+        "A legnagyobb attrakciók közé tartozik az óriás hullámmedence és a kamikaze csúszda.",
+        "Kulturális okokból szigorúan elkülönített 'csak nőknek' szóló napokat vagy medencéket tartanak fenn.",
+        "A víz tisztaságát folyamatos, modern szűrőrendszerekkel és kútvízzel (borehole) biztosítják.",
+        "A helyszínen számos helyi street-food és frissítő (gola ganda, falooda) kapható.",
+        "Az iskolai osztálykirándulások (summer camps) egyik legfőbb célpontja a városban."
+      ]
+    },
+    {
+      "id": "chitral-gol-national-park-life-v2",
+      "descriptionAdvanced": "A Chitral Gol Nemzeti Park a Hindukus-hegység szívében fekszik, és a lenyűgöző kasmíri pödröttszarvú kecske, a Markhor (Pakisztán nemzeti állata) egyik utolsó, érintetlen fellegvára. A meredek, tölgy- és cédruserdőkkel borított szurdokvölgy (Chitral Gol) a helyi uralkodók, a Mehtarok magán vadászterülete volt évszázadokon át, ami ironikus módon megóvta a vadvilágot a kipusztulástól. Ősszel, a párzási szezonban a látogatók tanúi lehetnek a hím Markhorok drámai szarvcsatáinak a meredek sziklafalakon. A terület védelme érdekében a helyi közösségek Chitral városával együttműködve szervezik az ökoturizmust, megakadályozva a fakitermelést és az orvvadászatot. Biologie K8 — a hegyi ökoszisztémák, a Markhor megmentése és az ökoturizmus.",
+      "factsAdvanced": [
+        "A parkot hivatalosan 1984-ben nyilvánították nemzeti parkká.",
+        "Ez a terület rendelkezik a világ legnagyobb kasmíri Markhor (pödröttszarvú kecske) populációjával.",
+        "A völgy régen a chirtali uralkodók (Mehtarok) elzárt vadászterülete volt.",
+        "A parkban él a ritka hópárduc is, amely a Markhorok természetes ragadozója.",
+        "A park meredek hegyoldalait őshonos magyaltölgy (holly oak) és himalájai cédrus borítja.",
+        "A Birmoghlasht Summer Fort, a Mehtarok nyári kastélya a park határán áll."
+      ]
+    },
+    {
+      "id": "gilgit-baltistan-apricot-groves-life-v2",
+      "descriptionAdvanced": "Gilgit-Baltisztán hegyi völgyei – különösen Hunza, Nagar és Skardu – a világ legfinomabb sárgabarackjainak (khubani) otthonai. Tavasszal a völgyek látványa lélegzetelállító: a sárgabarackfák milliói borulnak fehér és halványrózsaszín virágba a havas 7000 méteres csúcsok háttere előtt. A sárgabarack nemcsak gyümölcs errefelé, hanem a túlélés záloga is a kemény hegyi teleken. A nyári szüret idején a helyiek minden lapos tetőt és sziklateraszt telepakolnak a kettészedett gyümölcsökkel, hogy a napon aszalják őket. A barackmagból kivont, aranysárga sárgabarackmag-olajat mind a főzéshez, mind a hagyományos hegyi orvosláshoz és bőrápoláshoz használják. Földrajz K7 — a magashegyi teraszos földművelés és a szárításos (aszaló) tartósítás.",
+      "factsAdvanced": [
+        "A sárgabarack a legfontosabb és legelterjedtebb gyümölcs Gilgit-Baltisztánban.",
+        "A régióban több tucat egyedi, őshonos sárgabarackfajtát termesztenek.",
+        "A napon szárított (aszalt) sárgabarack alapvető téli élelmiszer a hegyi falvakban.",
+        "A barackmagból (kernel) sajtolt olaj a helyi étrend és kozmetika alapja.",
+        "A sárgabarackvirágzás (áprilisban) a régió legfőbb turisztikai vonzereje Japán cseresznyevirágzásához hasonlóan.",
+        "A fák a gleccservizekkel öntözött teraszos hegyoldalakon (kuhls) növekednek."
+      ]
+    },
+    {
+      "id": "fatima-jinnah-park-islamabad-life-v2",
+      "descriptionAdvanced": "A Fatima Jinnah Park (F-9 Park) Pakisztán egyik legnagyobb városi közparkja, amely egy teljes szektort (az F-9-et) elfoglal a főváros, Iszlámábád rácsos várostervében. A több mint 750 hektáros területet a japán Kenzo Tange tervezte; a park belseje nagyrészt érintetlenül hagyott erdőkből és mezőkből áll, melyeket kanyargós aszfaltos séta- és futóutak hálóznak be. Ez a park a város 'tüdeje', ahol reggelente minisztériumi dolgozók és diplomaták kocognak, délután pedig krikettező fiatalok és piknikező családok töltik meg a pázsitokat. A park bejáratánál áll az ikonikus fehér, modernista 'Megacity' szökőkút- és kapukomplexum, a parkban pedig egy gigantikus napóra is található. Sachkunde K5 — a tervezett fővárosok városépítészete és a nagyvárosi zöld tüdejék.",
+      "factsAdvanced": [
+        "A park egy teljes 3x3 kilométeres szektort, az F-9-et foglalja el Iszlámábádban.",
+        "Nevét Fatima Jinnah, a nemzetalapító húga és az állam 'Anyja' után kapta.",
+        "Az alapterveit a világhírű japán építész, Kenzo Tange készítette.",
+        "A terület nagy része szándékosan vadon hagyott, természetes erdő és bokros vidék.",
+        "A parkban található az ország egyik legnagyobb modern napórája.",
+        "Közepén egy modern, többszintes rekreációs klub és uszoda (Megazone) is épült."
+      ]
+    },
+    {
+      "id": "sozo-water-park-lahore-life-v2",
+      "descriptionAdvanced": "A Sozo Water Park Lahore városának legrégebbi és leghíresebb víziparkja, amely Jallo Park mellett fekszik. Megnyitása a 90-es évek elején hatalmas szenzáció volt, és máig a lahori fiatalok és családok kedvenc helye a perzselő nyári napokon, amikor a hőmérséklet a 45 fokot is elérheti. A létesítmény számos extrém csúszdával, hatalmas hullámmedencével és a gyerekek számára épült sekély, játékos vizesárokkal rendelkezik. Pakisztánban a víziparkok kultúrája a nemek szerinti szeparációt is magában foglalja; a Sozo volt az egyik első, amely külön 'Ladies Water Park' részt alakított ki, hogy a nők is konzervatív keretek között, mégis szabadon élvezhessék a fürdőzést. Sachkunde K5 — a nyári rekreáció, a víziparkok és a konzervatív társadalmi terek.",
+      "factsAdvanced": [
+        "A Sozo Water Park Pakisztán egyik legelső, nemzetközi szabványú víziparkja.",
+        "Lahore keleti szélén, a Jallo rekreációs övezet és az Indiai határ közelében fekszik.",
+        "A park egy teljesen különálló, fallal körülvett részt üzemeltet kizárólag nők számára.",
+        "Hatalmas hullámmedencéje (Wave Pool) a tengerpart élményét imitálja a szárazföld belsejében.",
+        "Az osztálykirándulások, egyetemi bulik és a családi Eid ünneplések kedvelt helyszíne.",
+        "A vizet a környék csatornáiból tisztítják, és szigorú vegyszeres kezelésnek vetik alá."
+      ]
+    },
+    {
+      "id": "saif-ul-maluk-lake-nature-v2",
+      "descriptionAdvanced": "A Saif-ul-Maluk-tó Pakisztán egyik legismertebb és legfotózottabb alpesi tava, amely a Kaghan-völgy legfelső szakaszán, 3224 méter magasan fekszik a tengerszint felett. A tavat a környező gleccserek olvadékvize táplálja, ezért vize kristálytiszta és káprázatosan türkizkék. Fenséges hátterét a Malika Parbat (A Hegyek Királynője) 5290 méteres hófödte csúcsa adja, amely tükröződik a tó felszínén. A helyet misztikus legendák övezik: a híres szufi költő, Mian Muhammad Bakhsh meséje szerint Saif-ul-Maluk perzsa herceg itt szeretett bele Badi-ul-Jamal tündérkirálynőbe. Télen a tó teljesen befagy, nyáron viszont a turisták ezreinek csónakázóhelye. Földrajz K8 — a gleccsertavak kialakulása (tengerszemek) és a hegyi mondavilág.",
+      "factsAdvanced": [
+        "A tó a Mansehra körzetben, a Kaghan-völgy északi végén, Naran város felett található.",
+        "Tengerszint feletti magassága 3224 méter, így vize nyáron is jéghideg.",
+        "A tó mögött tornyosul a Malika Parbat, a régió legmagasabb csúcsa (5290 m).",
+        "A tó nevét a legendás perzsa hercegről, Saif-ul-Malukról kapta.",
+        "Vizében bőségesen él a sebes pisztráng, ami a helyi horgászok kedvence.",
+        "A tóhoz egy rendkívül veszélyes, sziklás, csak dzsippel járható földút vezet fel Naranból."
+      ]
+    },
+    {
+      "id": "k2-mountain-nature-v2",
+      "descriptionAdvanced": "A K2, más néven Mount Godwin-Austen vagy Chogori, a világ második legmagasabb hegycsúcsa (8611 méter), és a hegymászók egybehangzó véleménye szerint a legnehezebben és legveszélyesebben megmászható nyolcezres. A Karakorum-hegységben, a pakisztáni-kínai határon emelkedő, tökéletes piramis alakú sziklaóriást gyakran 'Vad Hegykent' (Savage Mountain) emlegetik a kiszámíthatatlan viharok, az állandó lavinaveszély és a kegyetlen meredekség miatt. Télen történő megmászása évtizedekig lehetetlennek tűnt, egészen 2021-ig. A K2 gleccserei, mint a Baltoro-gleccser, a bolygó leghosszabb sarkvidéken kívüli jégfolyamai, elképesztő, rideg, jégbe fagyott világot teremtve. Földrajz K8 — az extrém magashegységek, az alpinizmus és a Karakorum geológiája.",
+      "factsAdvanced": [
+        "A K2 a Föld második legmagasabb csúcsa, pontosan 8611 méter (28 251 láb) magas.",
+        "A 'K2' név a Karakorum-hegység második csúcsát jelöli az 1856-os brit felmérés alapján.",
+        "Sokkal meredekebb és nehezebben megmászható, mint a Mount Everest.",
+        "A csúcs a Baltoro-Muztagh vonulatban, a pakisztáni Gilgit-Baltisztán és Kína határán áll.",
+        "Az első sikeres téli megmászást egy nepáli serpákból álló csapat hajtotta végre 2021-ben.",
+        "A hegy halálozási rátája a hegymászók körében a világon az egyik legmagasabb."
+      ]
+    },
+    {
+      "id": "nanga-parbat-mountain-nature-v2",
+      "descriptionAdvanced": "A Nanga Parbat a Himalája-hegység nyugati végpontja Pakisztánban, 8126 méteres magasságával a világ kilencedik legmagasabb csúcsa. Urdu és hindi eredetű neve 'Meztelen Hegyet' jelent, ami arra utal, hogy déli sziklafalai olyan meredekek, hogy a hó nem képes megmaradni rajtuk. A hegyet a hegymászók a 'Gyilkos Hegy' néven is ismerik, mivel az első sikeres 1953-as megmászásáig (Hermann Buhl) számos tragikus expedíciót követelt. A Nanga Parbat drámai módon, több mint 7000 métert emelkedik ki az alatta rohanó Indus-folyó völgyéből, ami a világ legnagyobb függőleges szintkülönbségét (relief) eredményezi mindössze 25 kilométeres távolságon belül. Földrajz K8 — a tektonikai gyűrődések, a függőleges szintkülönbségek és a Himalája.",
+      "factsAdvanced": [
+        "8126 méteres magasságával a világ 9. legmagasabb hegye.",
+        "A név szanszkrit eredetű, jelentése 'Meztelen Hegy'.",
+        "A hegy déli oldala, a Rupal-fal a világ legmagasabb (kb. 4600 méter) függőleges sziklafala.",
+        "Az 1953-as első sikeres megmászásáig 31 hegymászó vesztette itt életét ('Gyilkos Hegy').",
+        "A hegy képezi a Himalája láncolatának legnyugatibb bástyáját.",
+        "Északi lábánál fekszik a lenyűgözően szép Tündérrétek (Fairy Meadows) alpesi legelője."
+      ]
+    },
+    {
+      "id": "hunza-valley-nature-v2",
+      "descriptionAdvanced": "A Hunza-völgy Pakisztán északi részének, Gilgit-Baltisztánnak a legvarázslatosabb természeti ékköve, egy édenkert a Karakorum hatalmas jégcsúcsai között. A völgyet a Rakaposhi (7788 m) és az Ultar Sar jégsipkái őrzik, a mélyben pedig a Hunza-folyó zuhatagai vájják a sziklákat. Ez a régió évszázadokig elzárt királyság volt, ma azonban a Karakorum Highway jóvoltából a turisták számára is elérhető. A völgy nemcsak a hihetetlen gránitcsúcsok (mint a Passu Cones) és gleccserek, hanem az itt élők hosszú élettartama miatt is híres. Ősszel a völgy teraszos sárgabarack-, cseresznye- és almafái lángoló vörös és arany színekbe borítják a hegyoldalakat. Földrajz K8 — az alpesi folyóvölgyek, a mikroklíma és a gleccserfolyók hatása.",
+      "factsAdvanced": [
+        "A völgy Gilgit városától északra terül el, a Karakorum-hegység szívében.",
+        "Híres az ősszel aranyba boruló, végtelen sárgabarack- és almaültetvényeiről.",
+        "A völgy felett magasodik a 7788 méter magas Rakaposhi hegycsúcs.",
+        "A Hunza-völgy lakói a burusaszki nyelvet beszélik, amely egyetlen más nyelvvel sincs rokonságban.",
+        "A völgyön halad keresztül a Kínába vezető híres Karakorum Highway (KKH).",
+        "A Passu Cones (Passu Kúpok) hegyes, tűszerű csúcsai a völgy legfotózottabb sziklái."
+      ]
+    },
+    {
+      "id": "deosai-national-park-nature-v2",
+      "descriptionAdvanced": "A Deosai-fennsík egy hatalmas, kopár alpesi füves puszta, amely átlagosan 4114 méter magasan fekszik, és a Tibeti-fennsík után a világ második legmagasabb platója. Neve, amely 'Az Óriások Földjét' jelenti, a tibeti és balti mondavilágra utal, akik szerint egykor szellemek és óriások lakták ezt az élettelennek tűnő, fáktól mentes vidéket. A park geológiailag egy hatalmas felgyűrődött tálca a Himalája és a Karakorum között. Bár fákat nem látni, nyáron (júliustól augusztusig) a dombokat virágzó vadvirágok milliói, például lila kankalinok és sárga boglárkák borítják. A park kék vizű gleccsertavai (mint a Sheosar-tó) tükörként verik vissza az eget ezen a szélfútta tetőn. Földrajz K8 — a magashegyi tundrák, a tektonikai fennsíkok és az alpesi flóra.",
+      "factsAdvanced": [
+        "A Deosai a Tibeti-fennsík után a világ második legmagasabban fekvő egybefüggő fennsíkja.",
+        "A fennsík átlagos tengerszint feletti magassága eléri a 4114 métert.",
+        "A 'Deosai' név balti nyelven 'Az Óriások Földjét' (Deo = Óriás, Sai = Föld) jelenti.",
+        "A területen egyetlen fa sem nő az extrém magasság és az állandó jeges szél miatt.",
+        "A fennsík szélén fekszik a szív formájú, kristálytiszta vizű Sheosar-tó.",
+        "A terület az év nagy részében (novembertől júniusig) vastag hóréteg alatt, elzártan pihen."
+      ]
+    },
+    {
+      "id": "indus-river-nature-v2",
+      "descriptionAdvanced": "Az Indus-folyó Pakisztán ütőere, geográfiai gerince és a világ egyik leghosszabb, legbővizűbb folyója. A tibeti Manszarovar-tó gleccsereiből eredve több mint 3100 kilométeren keresztül kanyarog, átvágva a Himalája és a Karakorum hegységein, mielőtt elérné Pandzsáb és Szindh síkságait, hogy végül az Arab-tengerbe ömöljön Karacsi közelében. A folyó rohanó, jeges hegyi zuhatagból a síkságon lassan hömpölygő, sáros folyammá változik, amely hatalmas, deltatorkolattal (Indus-delta) végződik. A folyó vize táplálja a világ legnagyobb összefüggő öntözőrendszerét (az Indus-medencét), amely nélkül a pakisztáni mezőgazdaság nem létezhetne, és élőhelye a ritka és vak indusi folyamidelfinnek (bhulan). Földrajz K8 — a folyórendszerek (vízgyűjtő medencék), a delták és az öntözéses gazdálkodás alapjai.",
+      "factsAdvanced": [
+        "A folyó teljes hossza 3180 kilométer, ezzel Ázsia egyik leghosszabb folyama.",
+        "A tibeti fennsíkon ered, majd a Himaláját áttörve jut Pakisztán területére.",
+        "A folyó pakisztáni neve Sindhu, amiből a 'Szindh' tartomány és az 'India' név is származik.",
+        "Pakisztán síkságain öt nagy mellékfolyó (Jhelum, Chenab, Ravi, Beas, Sutlej) ömlik bele.",
+        "Az Indus vizén alapszik a Föld legnagyobb csatornás öntözőhálózata.",
+        "A torkolatvidékén fekvő Indus-delta a világ hetedik legnagyobb mangrove erdejét táplálja."
+      ]
+    },
+    {
+      "id": "satpara-lake-nature-v2",
+      "descriptionAdvanced": "A Satpara-tó Skardu városának közelében fekvő, égszínkék gleccsertó, amely Gilgit-Baltisztán régió egyik legfontosabb édesvízbázisa. A 2636 méter magasan elterülő tavat a Satpara-patak (amely a Deosai-fennsík havának olvadékvizét hozza le) táplálja. A tó közepén egy varázslatos kis sziklasziget áll, amely csónakkal megközelíthető. Bár a tó természetes eredetű, 2011-ben egy földgát építésével megnövelték a vízszintjét és a területét (Satpara Dam projekt), hogy hidroelektromos energiát és stabil öntözővizet biztosítsanak Skardu völgye számára. A gát ellenére a tó megőrizte vadregényes szépségét, és kedvelt horgászhelye a sebes pisztrángnak. Földrajz K8 — a gleccsertavak, az édesvíz-készletek és a duzzasztógátak ökológiája.",
+      "factsAdvanced": [
+        "A tó a Karakorum-hegységben, 2636 méteres magasságban fekszik Skardu mellett.",
+        "Fő vízutánpótlását a Deosai-fennsík gleccsereinek olvadékvize biztosítja.",
+        "A tó vizében egy festői sziklasziget található, amely nyáron csónakkal látogatható.",
+        "2011-ben befejezték a Satpara-gátat a tó végén, amely elektromos áramot termel a régiónak.",
+        "A tó vize a Skardu völgy lakóinak legfontosabb ivóvíz- és öntözővíz-forrása.",
+        "A britek által betelepített barna és szivárványos pisztrángok miatt a horgászok paradicsoma."
+      ]
+    },
+    {
+      "id": "nangma-valley-nature-v2",
+      "descriptionAdvanced": "A Nangma-völgy egy kevésbé ismert, de annál lenyűgözőbb szurdokvölgy a Karakorum hegység Baltisztán régiójában, amelyet sok alpinista a 'Karakorum Yosemite-jének' tart. Ez az eldugott paradicsom zöldellő, füves teraszokkal és tiszta hegyi patakokkal rendelkezik, ám ami igazán különlegessé teszi, az a völgyből szinte függőlegesen feltörő gránittornyok erdeje (mint az Amin Brakk vagy a Great Trango toronyképződményei). Ezek a több ezer méter magas, sima sziklafalak a világ minden tájáról vonzzák a big wall (nagy fal) sziklamászókat és bázisugrókat. A Nangma-völgy a nyers, érintetlen geológiai dráma és a buja hegyi legelők békés kontrasztját nyújtja. Földrajz K8 — a glaciális erózió, a gránit tornyok (big walls) és az extrém sziklamászás.",
+      "factsAdvanced": [
+        "A völgy a Karakorum hegység Kondus régiójában, Hushe település közelében fekszik.",
+        "Hatalmas, függőleges gránitfalai miatt a 'Karakorum Yosemite-jeként' emlegetik.",
+        "A völgy legkiemelkedőbb és legnehezebben megmászható sziklatornya az Amin Brakk (5800 m).",
+        "A terület a globális extrém sziklamászók (big wall climbers) egyik Szent Grálja.",
+        "A völgy alját dús füvű nyári legelők, vad rózsabokrok és kanyargós patakok borítják.",
+        "A turisztikai tömegek elől elzárt, így természete szinte teljesen érintetlen."
+      ]
+    },
+    {
+      "id": "hingol-national-park-nature-v2",
+      "descriptionAdvanced": "A Hingol Nemzeti Park Pakisztán legnagyobb területű nemzeti parkja, amely a száraz és kietlen makráni tengerpart mentén húzódik Beludzsisztánban. A park tájképe szürreális és idegen: holdbéli sziklás szurdokok, kiszáradt sivatagok, sárvulkánok és kietlen, homokos strandok (mint a Kund Malir) váltakoznak. Az állandó szél és eső eróziója elképesztő formákat faragott a mészkőből, köztük a híres 'Remény Hercegnője' (Princess of Hope) sziklaalakzatot és a 'Beludzsisztán Szfinxét'. A kietlen szárazföld ellenére a parkon keresztül kanyarog a Hingol-folyó, ami egy hatalmas torkolati oázist és krokodiloknak otthont adó ökoszisztémát teremt a tengerpart előtt. Földrajz K8 — a szélerózió (eolian), a sárvulkánok és a sivatagi-tengerparti ökoszisztémák.",
+      "factsAdvanced": [
+        "A park Pakisztán legnagyobb nemzeti parkja, területe meghaladja a 6100 négyzetkilométert.",
+        "A területen található az egyedülálló, aktív sárvulkán-hálózat (Chandragup).",
+        "A szélerózió faragta ki a híres 'Remény Hercegnője' (Princess of Hope) sziklaformációt.",
+        "A Hingol-folyó deltájában egy ritka mocsári krokodil populáció él a sivatag peremén.",
+        "A park területén áthaladó Makran Coastal Highway Pakisztán legszebb tengerparti útja.",
+        "A park mélyén található a Hinglaj Mata (Nani Mandir), amely Dél-Ázsia egyik legősibb hindu zarándokhelye."
+      ]
+    },
+    {
+      "id": "attabad-lake-nature-v2",
+      "descriptionAdvanced": "Az Attabad-tó egy gyönyörű, ám tragikus eredetű jégkék tó a Hunza-völgyben. A tó 2010 januárjában jött létre, amikor egy hatalmas hegyoldal omlott le, elzárva a Hunza-folyó medrét. A földcsuszamlás falvakat (köztük Attabadot) temetett maga alá, és elvágta a Kínába vezető Karakorum Highway egy hosszú szakaszát. A gátként funkcionáló kőomlás mögött a folyó vize felduzzadt, egy 21 kilométer hosszú, elképesztően élénk, világoskék színű tavat hozva létre, melynek színét a gleccserekből származó kőzetliszt (glacier flour) adja. Ma a tó Hunza egyik legfőbb turisztikai látványossága, csónakázókkal és a tó partjába fúrt új alagútrendszerrel (Pakisztán-Kína Barátság Alagutak). Földrajz K8 — a földcsuszamlások, a hegyi gátszakadások (GLOF) és a kőzetliszt optikai hatása.",
+      "factsAdvanced": [
+        "A tó egy 2010. januári katasztrofális, természetes földcsuszamlás eredményeként jött létre.",
+        "Az omlás több mint 20 kilométer hosszan duzzasztotta fel a Hunza-folyót.",
+        "A tó elárasztotta a történelmi Karakorum Highway (KKH) egy részét.",
+        "Lenyűgöző türkiz színét a vízben lebegő finom gleccser-ásványoknak (kőzetliszt) köszönheti.",
+        "Öt évig csónakokkal kellett szállítani az autókat, amíg 2015-ben át nem adták a tó melletti alagutakat.",
+        "Ma népszerű helyszín a jet-ski, a csónakázás és a hegyi luxusszállodák (pl. Luxus Hunza) számára."
+      ]
+    }
+  ]
+}

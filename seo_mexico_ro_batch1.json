@@ -1,0 +1,292 @@
+{
+  "lang": "ro",
+  "country": "mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monterrey-cities-v2",
+      "descriptionAdvanced": "Monterrey, capitala statului Nuevo León, este unul dintre cele mai importante centre economice și industriale din Mexic. Situat la poalele spectaculoaselor munți Sierra Madre Oriental, orașul este dominat vizual de iconicul Cerro de la Silla. Monterrey a evoluat de la o mică așezare fondată în 1596 într-o metropolă modernă, cunoscută sub numele de 'Orașul Munților'. Este un hub major pentru producția de oțel, sticlă și ciment, găzduind sediile unor corporații multinaționale imense. Dincolo de latura industrială, Monterrey oferă o viață culturală vibrantă, cu muzee de clasă mondială precum MARCO și vasta Macroplaza, una dintre cele mai mari piețe publice din lume. Educația joacă un rol crucial, orașul fiind sediul prestigioasei instituții Tecnológico de Monterrey (ITESM).",
+      "factsAdvanced": [
+        "A fost fondat în 1596 de Diego de Montemayor sub numele de Ciudad Metropolitana de Nuestra Señora de Monterrey.",
+        "Muntele Cerro de la Silla, cu o altitudine de 1.820 de metri, este simbolul natural oficial al orașului.",
+        "Macroplaza se întinde pe 40 de hectare, fiind de trei ori mai mare decât Piața Roșie din Moscova.",
+        "Orașul a găzduit mai multe meciuri în timpul Campionatului Mondial de Fotbal din 1986.",
+        "Este sediul CEMEX, una dintre cele mai mari companii de materiale de construcții din lume.",
+        "Parcul Fundidora este un exemplu remarcabil de regenerare urbană, transformând o veche topitorie de oțel în spațiu verde.",
+        "Temperatura medie în timpul verii depășește adesea 35 de grade Celsius din cauza climatului semiarid.",
+        "Este considerat cel mai bogat oraș din Mexic în ceea ce privește PIB-ul pe cap de locuitor."
+      ]
+    },
+    {
+      "id": "puebla-cities-v2",
+      "descriptionAdvanced": "Puebla de Zaragoza, situată în valea Cuetlaxcoapan, este renumită pentru arhitectura sa colonială spectaculoasă și moștenirea culinară profundă. Centrul său istoric, inclus în Patrimoniul Mondial UNESCO, este un labirint de străzi pavate, biserici cu cupole strălucitoare și fațade decorate cu celebrele plăci de ceramică Talavera. Orașul este locul unde s-a născut celebrul sos 'mole poblano' și ardeii 'chiles en nogada', elemente esențiale ale identității mexicane. Importanța istorică a orașului este marcată de Bătălia de la Puebla din 5 mai 1862, când forțele mexicane au învins armata franceză, eveniment celebrat astăzi ca Cinco de Mayo. Situat între vulcanii Popocatépetl și Iztaccíhuatl, Puebla oferă un peisaj dramatic și o atmosferă care îmbină tradiția cu modernitatea industrială.",
+      "factsAdvanced": [
+        "Centrul istoric găzduiește peste 2.600 de monumente istorice înregistrate la UNESCO.",
+        "Catedrala din Puebla are cele mai înalte turnuri clopotniță dintre toate catedralele din Mexic.",
+        "Ceramica Talavera de Puebla este protejată de o denumire de origine controlată din 1997.",
+        "Aici se află cea mai veche bibliotecă publică din America, Biblioteca Palafoxiana, fondată în 1646.",
+        "Bătălia de la Puebla este motivul celebrării sărbătorii internaționale Cinco de Mayo.",
+        "Este sediul uneia dintre cele mai mari fabrici Volkswagen din afara Germaniei.",
+        "Mâncarea tradițională Mole Poblano se prepară adesea cu peste 20 de ingrediente diferite, inclusiv ciocolată.",
+        "Vulcanii gemeni Popocatépetl și Iztaccíhuatl domină orizontul vestic al orașului."
+      ]
+    },
+    {
+      "id": "tijuana-cities-v2",
+      "descriptionAdvanced": "Tijuana, situată chiar la granița cu Statele Unite, este adesea numită 'Poarta Mexicului'. Evoluând de la un mic avanpost la una dintre cele mai vizitate frontiere terestre din lume, orașul este o fuziune dinamică de culturi. Tijuana a devenit un centru important pentru industria manufacturieră, în special în sectorul electronic și medical, datorită proximității sale față de California. Viața culturală a suferit o transformare radicală, zona devenind un hub pentru arta contemporană, muzica independentă și gastronomia inovatoare cunoscută sub numele de 'Baja Med'. Bulevardul Revoluției rămâne artera principală pentru turism, în timp ce Centrul Cultural Tijuana (CECUT) oferă o perspectivă asupra istoriei și artelor regionale. Orașul este definit de reziliența sa și de capacitatea de a reinventa identitatea urbană la intersecția a două națiuni.",
+      "factsAdvanced": [
+        "Punctul de trecere a frontierei San Ysidro este cel mai tranzitat punct de frontieră terestră de pe glob.",
+        "Salata Caesar a fost inventată în Tijuana în anul 1924, în restaurantul lui Caesar Cardini.",
+        "Centrul Cultural Tijuana (CECUT) este cunoscut sub porecla 'La Bola' datorită cinematografului său IMAX sferic.",
+        "Orașul găzduiește peste 500 de fabrici de asamblare (maquiladoras) care exportă la nivel mondial.",
+        "Gastronomia Baja Med combină ingrediente mexicane tradiționale cu tehnici mediteraneene.",
+        "Este singurul oraș din Mexic care are o graniță directă cu Oceanul Pacific și Statele Unite simultan.",
+        "Pasajul Rodríguez este un loc emblematic pentru artiștii locali și micile afaceri creative.",
+        "Stadionul Caliente este singurul din liga profesionistă mexicană care are gazon artificial."
+      ]
+    },
+    {
+      "id": "ciudad-juarez-cities-v2",
+      "descriptionAdvanced": "Ciudad Juárez, situată în statul Chihuahua, pe malul râului Rio Grande, este un punct strategic vital în comerțul nord-american. Învecinându-se cu orașul El Paso din Texas, Juárez are o istorie bogată, servind drept capitală temporară a Mexicului sub președintele Benito Juárez, de unde și-a primit și numele. Orașul este un motor industrial, fiind pionier în modelul fabricilor 'maquiladora' încă din anii 1960. Deși s-a confruntat cu provocări de securitate în trecut, Juárez trece printr-un proces intens de regenerare urbană și economică. Parcul Central și numeroasele muzee, cum ar fi Muzeul Revoluției de la Frontieră (MUREF), reflectă o comunitate mândră de moștenirea sa istorică și de rolul său crucial de punte între culturile hispanice și anglo-saxone.",
+      "factsAdvanced": [
+        "A fost fondată în 1659 ca 'Misión de Nuestra Señora de Guadalupe de los Mansos del Paso del Norte'.",
+        "Numele orașului a fost schimbat în Ciudad Juárez în 1888, în onoarea președintelui Benito Juárez.",
+        "Podul Paso del Norte este unul dintre principalele puncte de conexiune rutieră cu SUA.",
+        "Orașul a fost un loc cheie în timpul Revoluției Mexicane, fiind capturat de trupele lui Francisco Madero.",
+        "MUREF este situat în clădirea fostei vămi, unde a avut loc prima întâlnire istorică între un președinte american și unul mexican în 1909.",
+        "Este considerat leagănul industriei de asamblare moderne din Mexic.",
+        "Băutura Margarita se spune că ar fi fost creată în barul Tommy's Place din Juárez în 1942.",
+        "În oraș se află monumentul 'La Equis', o structură roșie masivă în formă de X, creată de sculptorul Sebastián."
+      ]
+    },
+    {
+      "id": "leon-cities-v2",
+      "descriptionAdvanced": "León de los Aldama, situat în regiunea Bajío din statul Guanajuato, este recunoscut pe plan internațional ca 'Capitala Mondială a Încălțămintei'. Orașul are o tradiție seculară în prelucrarea pielii, producând o mare parte din pantofii și articolele de marochinărie din Mexic. León este un oraș modern, cu o infrastructură excelentă și un sistem de transport public avansat, fiind un exemplu de dezvoltare urbană planificată. Centrul istoric păstrează clădiri elegante, precum Templul Expiatoriu cu arhitectura sa neo-gotică impresionantă și Arcul Triumfal al Cauzei. De asemenea, orașul găzduiește anual Festivalul Internațional al Baloanelor, unul dintre cele mai mari evenimente de acest gen din lume, care atrage vizitatori din toate colțurile globului în Parcul Metropolitan.",
+      "factsAdvanced": [
+        "Se estimează că 7 din 10 perechi de pantofi produși în Mexic provin din León.",
+        "Templul Expiatoriu al Sfintei Inimi a luat peste 90 de ani pentru a fi finalizat, fiind început în 1921.",
+        "Arcul Triumfal, decorat cu un leu de bronz, a fost construit în 1883 pentru a celebra 25 de ani de la independență.",
+        "Festivalul Internațional al Baloanelor atrage anual peste 200 de baloane cu aer cald din întreaga lume.",
+        "León este al patrulea cel mai populat oraș din Mexic, depășind multe capitale de state.",
+        "Poliforum León este unul dintre cele mai mari centre de expoziții și convenții din America Latină.",
+        "Sistemul Optibús a fost primul sistem BRT (Bus Rapid Transit) implementat în Mexic în 2003.",
+        "Orașul are un climat temperat, fiind situat la o altitudine de 1.815 metri deasupra mării."
+      ]
+    },
+    {
+      "id": "zapopan-cities-v2",
+      "descriptionAdvanced": "Zapopan este o municipalitate vibrantă situată în zona metropolitană Guadalajara, în statul Jalisco. Este cunoscut în mod tradițional pentru importanța sa religioasă, găzduind Bazilica Fecioarei din Zapopan, un loc de pelerinaj major pentru milioane de credincioși anual. În ultimele decenii, Zapopan s-a transformat într-un pol tehnologic și comercial de lux, fiind considerat unul dintre cele mai bogate orașe din Mexic. Găzduiește universități de renume, centre comerciale exclusiviste precum Andares și parcuri industriale de înaltă tehnologie. În ciuda modernizării rapide, orașul păstrează zone verzi impresionante, cum ar fi Pădurea La Primavera, plămânul verde al regiunii. Zapopan reprezintă amestecul perfect între tradiția spirituală profundă și dinamismul economic al Mexicului contemporan.",
+      "factsAdvanced": [
+        "Bazilica din Zapopan a fost sfințită în 1730 și este un exemplu remarcabil de baroc mexican.",
+        "Pelerinajul 'Romería de Zapopan' a fost declarat Patrimoniu Cultural Imaterial al Umanității de către UNESCO.",
+        "Municipalitatea are cel mai mare PIB pe cap de locuitor din statul Jalisco.",
+        "Stadionul Akron, sediul echipei de fotbal Chivas, este situat în Zapopan și are un design ecologic unic.",
+        "Aici se află Muzeul de Artă din Zapopan (MAZ), un centru cultural important pentru arta contemporană.",
+        "Arcul de Intrare în Zapopan are 20 de metri înălțime și a fost construit în stil colonial spaniol.",
+        "Pădurea La Primavera acoperă peste 30.000 de hectare și este o rezervație a biosferei protejată.",
+        "Zapopan este sediul a numeroase companii internaționale de software și microelectronică."
+      ]
+    },
+    {
+      "id": "nezahualcoyotl-cities-v2",
+      "descriptionAdvanced": "Ciudad Nezahualcóyotl, cunoscută simplu sub numele de 'Neza', este o zonă urbană fascinantă situată în statul Mexic, la marginea estică a capitalei. Numit după regele-poet chichimec, orașul este un exemplu unic de creștere urbană explozivă pe fundul uscat al lacului Texcoco. Ceea ce a început în anii 1940 ca o așezare precară fără servicii de bază, s-a transformat într-une metropolă vibrantă cu o clasă mijlocie în dezvoltare și o infrastructură comercială solidă. Neza este celebră pentru spiritul său comunitar puternic și pentru viața culturală de stradă, fiind un centru pentru diverse subculturi urbane. Monumentul 'Cabeza de Coyote' (Capul de Coiot) este simbolul mândru al orașului, reflectând rădăcinile sale prehispanice și identitatea sa modernă ca motor economic regional.",
+      "factsAdvanced": [
+        "Numele Nezahualcóyotl provine din limba Nahuatl și înseamnă 'Coiotul care postește'.",
+        "A fost fondată oficial ca municipalitate în 1963, fiind un oraș relativ tânăr.",
+        "Densitatea populației în Neza este una dintre cele mai ridicate din întregul Mexic.",
+        "Statuia 'Cabeza de Coyote', creată de artistul Sebastián, are o înălțime de 40 de metri.",
+        "Orașul este construit pe un teren care a făcut parte din sistemul de lacuri din Valea Mexicului.",
+        "Stadionul Neza 86 a fost gazda mai multor meciuri de la Cupa Mondială de Fotbal din 1986.",
+        "Este renumit pentru 'Tianguis' (piețe de stradă) gigantice care se întind pe kilometri întregi.",
+        "Neza York este o poreclă populară a orașului, reflectând influența culturală a migranților întorși din SUA."
+      ]
+    },
+    {
+      "id": "merida-cities-v2",
+      "descriptionAdvanced": "Mérida, cunoscută sub numele de 'Orașul Alb', este capitala culturală și administrativă a peninsulei Yucatán. Fondată în 1542 pe ruinele vechiului oraș Maya Ichkaansihó, Mérida păstrează o eleganță colonială distinctă, cu bulevarde largi precum Paseo de Montejo, inspirat de Champs-Élysées. Orașul este celebru pentru siguranța sa ridicată și calitatea vieții, fiind adesea votat cel mai bun oraș pentru a trăi în Mexic. Cultura sa este o fuziune armonioasă între tradițiile Maya și influențele spaniole, vizibilă în gastronomia unică (cum ar fi cochinita pibil), muzica trova și festivalurile strânse. Mérida servește drept bază ideală pentru explorarea siturilor arheologice din apropiere, precum Uxmal și Chichén Itzá, oferind în același timp o viață urbană sofisticată.",
+      "factsAdvanced": [
+        "A fost construită folosind pietre din piramidele Maya dezasamblate de conchistadori.",
+        "Paseo de Montejo găzduiește palate fastuoase construite în perioada 'aurului verde' (fibra de henequen).",
+        "Catedrala San Ildefonso din Mérida este cea mai veche catedrală din America continentală, terminată în 1598.",
+        "Orașul este numit 'Orașul Alb' datorită abundenței pietrei de calcar de culoare deschisă folosită în construcții.",
+        "A fost ales de două ori drept Capitală Americană a Culturii (2000 și 2017).",
+        "Gastronomia yucatecă este distinctă de restul Mexicului, având influențe caraibiene și europene.",
+        "Piața Mare (Plaza Grande) este inima orașului, unde se dansează Jarana în fiecare duminică.",
+        "Climatul este tropical, cu temperaturi ridicate și umiditate mare pe tot parcursul anului."
+      ]
+    },
+    {
+      "id": "cancun-cities-v2",
+      "descriptionAdvanced": "Cancún, situat pe coasta de est a peninsulei Yucatán în statul Quintana Roo, este una dintre cele mai faimoase destinații turistice din lume. Creat special de guvernul mexican în anii 1970 ca un centru turistic planificat, Cancún s-a transformat dintr-o insulă de barieră pustie într-o metropolă strălucitoare. Este faimos pentru plajele sale cu nisip alb ultra-fin și apele turcoaz ale Mării Caraibelor. Orașul este împărțit în două zone: Zona Hotelieră, situată pe o fâșie de pământ în formă de '7', și centrul orașului (Downtown), unde locuiește populația locală. Dincolo de resorturile de lux, Cancún oferă acces la cel mai mare muzeu subacvatic din lume (MUSA) și la impresionantele păduri de mangrove din laguna Nichupté, fiind o poartă de intrare către lumea Maya.",
+      "factsAdvanced": [
+        "Înainte de 1970, pe insula Cancún locuiau doar trei persoane care aveau grijă de o plantație de cocos.",
+        "Numele Cancún înseamnă 'Cuibul de Șerpi' în limba Maya yucatecă.",
+        "Bariera de corali de lângă Cancún face parte din Marele Recif Maya, al doilea ca mărime din lume.",
+        "Muzeul Subacvatic de Artă (MUSA) conține peste 500 de sculpturi în mărime naturală pe fundul mării.",
+        "Aeroportul Internațional Cancún este al doilea cel mai tranzitat din Mexic, primind milioane de turiști anual.",
+        "Plajele din Cancún sunt compuse din calcar zdrobit, ceea ce face ca nisipul să nu se încingă sub soare.",
+        "Nisipul alb provine în mare parte din resturile de alge coraline calcificate.",
+        "Orașul a fost gazda conferinței COP16 privind schimbările climatice în anul 2010."
+      ]
+    },
+    {
+      "id": "queretaro-city-cities-v2",
+      "descriptionAdvanced": "Santiago de Querétaro este un oraș istoric și modern situat în inima Mexicului, recunoscut pentru calitatea vieții sale excepționale și creșterea economică rapidă. Centrul său istoric este un sit al Patrimoniului Mondial UNESCO, celebru pentru străzile sale coloniale perfect conservate, fântânile baroce și emblematicul apeduct din secolul al XVIII-lea. Querétaro a jucat un rol crucial în istoria națională, fiind locul unde s-a plănuit independența Mexicului și unde a fost semnată Constituția actuală în 1917. Astăzi, orașul este un hub industrial de înaltă tehnologie, în special în sectoarele aerospațial și auto, atrăgând investiții masive. Combinația dintre bogăția istorică profundă și viziunea futuristă face din Querétaro unul dintre cele mai dinamice și atractive centre urbane din America Latină.",
+      "factsAdvanced": [
+        "Apeductul din Querétaro, construit între 1726 și 1738, are 74 de arcade de piatră și o lungime de 1.280 de metri.",
+        "Aici a fost semnat Tratatul de la Guadalupe Hidalgo în 1848, care a pus capăt războiului cu SUA.",
+        "Teatrul Republicii este locul unde a fost proclamată Constituția Mexicului din 1917.",
+        "Orașul a servit drept capitală a Mexicului în două ocazii diferite în timpul crizelor naționale.",
+        "Querétaro găzduiește unul dintre cele mai importante parcuri industriale aerospațiale din lume.",
+        "Legenda spune că fundarea orașului în 1531 a fost marcată de o eclipsă de soare și apariția Sfântului Iacob pe cer.",
+        "Mănăstirea Santa Cruz este faimoasă pentru copacii săi care produc spini în formă de cruce.",
+        "Este considerat unul dintre cele mai sigure și curate orașe din întregul Mexic."
+      ]
+    },
+    {
+      "id": "aguascalientes-cities-v2",
+      "descriptionAdvanced": "Aguascalientes, capitala statului cu același nume din centrul Mexicului, este un oraș prosper cunoscut pentru eleganța sa colonială și industria sa feroviară istorică. Numele său, care înseamnă 'Ape Calde', provine de la numeroasele izvoare termale descoperite în zonă de primii coloniști spanioli. Orașul este faimos la nivel mondial pentru 'Feria de San Marcos', cel mai mare târg din Mexic, care atrage milioane de vizitatori în fiecare primăvară. Aguascalientes este un centru industrial modern, găzduind fabrici majore de asamblare auto (în special Nissan), dar își păstrează identitatea culturală prin muzee dedicate artistului José Guadalupe Posada, creatorul celebrei 'La Catrina'. Cu o infrastructură urbană de invidiat și o atmosferă liniștită, este un exemplu de progres constant în inima geografică a țării.",
+      "factsAdvanced": [
+        "Feria Nacional de San Marcos are o istorie de peste 190 de ani, fiind înființată în 1828.",
+        "Orașul a fost un nod feroviar crucial, iar vechile ateliere sunt acum un muzeu și centru cultural imens (Macro Espacio).",
+        "José Guadalupe Posada, tatăl graficii mexicane moderne, s-a născut în Aguascalientes în 1852.",
+        "Se spune că orașul are un tunel subteran legendar care conectează principalele biserici și clădiri guvernamentale.",
+        "Aguascalientes este situat exact în centrul geografic al Mexicului.",
+        "Industria textilă și a broderiilor ('deshilados') este o tradiție artizanală locală foarte prețuită.",
+        "Piața Patriei găzduiește Coloana Vulturului, un monument ridicat pentru a marca eliberarea orașului.",
+        "Clădirea Guvernului este renumită pentru cele cinci picturi murale care descriu istoria și cultura locală."
+      ]
+    },
+    {
+      "id": "chihuahua-city-cities-v2",
+      "descriptionAdvanced": "Chihuahua, capitala celui mai mare stat din Mexic, este un oraș definit de caracterul său de frontieră și de o istorie revoluționară profundă. Situat într-o regiune muntoasă spectaculoasă, orașul este inima economică a nordului țării, fiind un centru pentru industria minieră, zootehnie și manufactură avansată. Chihuahua a jucat roluri cheie în istoria Mexicului: aici a fost executat Miguel Hidalgo, părintele independenței, și tot aici se află reședința legendarului Pancho Villa, transformată astăzi într-un muzeu fascinant. Orașul este, de asemenea, punctul de plecare pentru celebrul tren 'El Chepe', care traversează Canionul Cuprului. Arhitectura sa îmbină rigoarea clădirilor coloniale de piatră cu dinamismul construcțiilor moderne, reflectând o comunitate rezistentă și mândră de tradițiile sale nordice.",
+      "factsAdvanced": [
+        "Numele Chihuahua provine din limba Tarahumara și s-ar traduce prin 'Locul unde se întâlnesc apele râurilor'.",
+        "Catedrala din Chihuahua este una dintre cele mai frumoase exemple de arhitectură barocă din nordul Mexicului.",
+        "Palatul Guvernului găzduiește 'Altarul Patriei', locul exact unde Miguel Hidalgo a fost împușcat în 1811.",
+        "Muzeul Revoluției (Quinta Luz) a fost casa lui Pancho Villa și păstrează mașina în care acesta a fost asasinat.",
+        "Rasa de câini Chihuahua poartă numele statului, deoarece aici au fost găsite primele exemplare în secolul XIX.",
+        "Este un centru major pentru exportul de vită de înaltă calitate către piețele internaționale.",
+        "Orașul are un climat extrem, cu veri fierbinți și ierni în care zăpada este o prezență obișnuită.",
+        "Apeductul istoric, construit în 1751 pentru a aduce apă din râul Chuviscar, are încă arcade în picioare."
+      ]
+    },
+    {
+      "id": "hermosillo-cities-v2",
+      "descriptionAdvanced": "Hermosillo, cunoscut drept 'Orașul Soarelui', este capitala statului Sonora și unul dintre cele mai moderne orașe din nord-vestul Mexicului. Situat în inima deșertului sonorean, Hermosillo este un centru economic vital, bazat pe o agricultură de irigații avansată, minerit și o industrie auto înfloritoare. Orașul se remarcă prin infrastructura sa urbană de calitate și prin proximitatea față de Marea Cortez (Golful Californiei). Cultural, Hermosillo este renumit pentru gastronomia sa robustă, în special carnea de vită la grătar (carne asada) și faimoasele tortillas de făină gigantice. Catedrala Adormirii Maicii Domnului și Centrul Guvernamental sunt repere arhitecturale majore. În ciuda căldurii extreme de vară, orașul vibrează de energie, fiind un exemplu de adaptare umană și succes economic întrun mediu arid.",
+      "factsAdvanced": [
+        "Hermosillo este adesea menționat ca având unele dintre cele mai ridicate temperaturi din lume în timpul verii, depășind 45°C.",
+        "Se află la doar 100 de kilometri de stațiunea Bahía de Kino, o poartă către Marea Cortez.",
+        "Orașul găzduiește o fabrică de asamblare Ford imensă, una dintre cele mai productive din rețeaua globală.",
+        "În apropiere se află Cerro de la Campana, un deal care oferă o panoramă spectaculoasă de 360 de grade asupra orașului.",
+        "Hermosillo a fost numit în onoarea generalului José María González de Hermosillo, erou al independenței.",
+        "Este principalul producător de struguri de masă din Mexic, datorită sistemelor moderne de irigații.",
+        "Stadionul Sonora este unul dintre cele mai moderne stadioane de baseball din America Latină.",
+        "Aici se organizează anual 'Fiestas del Pitic', celebrând fundarea orașului prin evenimente culturale diverse."
+      ]
+    },
+    {
+      "id": "saltillo-cities-v2",
+      "descriptionAdvanced": "Saltillo, capitala statului Coahuila, este un oraș cu o identitate istorică și industrială puternică, supranumit adesea 'Detroit-ul Mexicului' datorită uriașei sale industrii de asamblare auto. Situat într-o vale înconjurată de munți înalți, Saltillo oferă un climat mai răcoros decât restul regiunii, fiind o așezare fondată în 1577. Orașul este celebru pentru producția de 'sarapes', păturile viu colorate care au devenit un simbol al culturii mexicane. Centrul istoric este dominat de Catedrala Santiago, una dintre cele mai spectaculoase construcții religioase din nordul țării, cu o fațadă bogat ornamentată. Saltillo este, de asemenea, un centru academic important, găzduind universități de renume, și un loc unde paleontologia prinde viață la Muzeul Deșertului, unul dintre cele mai bune din America Latină.",
+      "factsAdvanced": [
+        "Catedrala Santiago din Saltillo îmbină stilurile baroc și churrigueresco, având un turn de 81 de metri înălțime.",
+        "Pătura 'Sarape de Saltillo' este celebră pentru designul său în degrade și culorile inspirate de răsăritul soarelui.",
+        "Muzeul Deșertului (Museo del Desierto) găzduiește cea mai mare colecție de fosile de dinozauri din Mexic.",
+        "Orașul a fost capitala statului combinat Coahuila y Tejas înainte ca Texasul să devină independent.",
+        "Clusterul auto din Saltillo include giganți precum General Motors, Stellantis și numeroși furnizori de componente.",
+        "Aici s-a născut Venustiano Carranza, unul dintre liderii principali ai Revoluției Mexicane.",
+        "Piața de Arme este înconjurată de clădiri istorice precum Palatul Guvernului și Casa Purcell.",
+        "Saltillo este situat la o altitudine de 1.600 de metri, ceea ce îi conferă un climat temperat muntos."
+      ]
+    },
+    {
+      "id": "culiacan-cities-v2",
+      "descriptionAdvanced": "Culiacán Rosales este capitala statului Sinaloa și un centru agricol și comercial vital în nord-vestul Mexicului. Situat la confluența râurilor Humaya și Tamazula, orașul este inima celei mai productive regiuni agricole din țară, fiind adesea numit 'Grădina Mexicului'. Culiacán este un oraș al contrastelor, cu o infrastructură modernă, bulevarde largi și o viață culturală activă, vizibilă în Grădina Botanică și în numeroasele muzee de artă contemporană. Gastronomia sa bazată pe fructe de mare proaspete este legendară. Deși este adesea asociat în mass-media cu provocări sociale, realitatea urbană a Culiacánului este cea a unei societăți dinamice, orientate spre antreprenoriat și mândră de influența sa culturală, în special în muzica regională mexicană.",
+      "factsAdvanced": [
+        "Orașul a fost fondat în 1531 de conchistadorul Nuño de Guzmán pe locul unei vechi așezări indigene numite Colhuacán.",
+        "Grădina Botanică din Culiacán este considerată una dintre cele mai bune din lume pentru designul său peisagistic și colecția de plante.",
+        "Statul Sinaloa, cu centrul în Culiacán, produce majoritatea roșiilor consumate în America de Nord.",
+        "Catedrala Nuestra Señora del Rosario, terminată în 1885, domină centrul istoric cu cele două turnuri înalte.",
+        "Sărbătoarea 'Ziua Culiacánului' are loc în fiecare 29 septembrie, celebrând fundarea orașului.",
+        "Orașul găzduiește echipa de baseball Tomateros de Culiacán, una dintre cele mai populare din liga de iarnă.",
+        "Parcul Las Riberas este cel mai mare parc urban din nord-vestul Mexicului, situat de-a lungul râurilor orașului.",
+        "Numele Culiacán înseamnă în limba Nahuatl 'Locul unde cei care adoră zeul Coltzin își întorc drumul'."
+      ]
+    },
+    {
+      "id": "acapulco-cities-v2",
+      "descriptionAdvanced": "Acapulco de Juárez este una dintre cele mai iconice și istorice destinații turistice din Mexic, situată pe coasta Pacificului în statul Guerrero. Golful Acapulco, cu forma sa perfectă de semicerc, a fost primul port major al Mexicului în perioada colonială, fiind punctul terminus al celebrului 'Galeon de Manila'. În anii 1950 și 60, orașul a devenit locul preferat de vacanță al vedetelor de la Hollywood, transformându-se într-un simbol al luxului tropical. Astăzi, Acapulco rămâne celebru pentru spectacolul periculos al scafandrilor de la La Quebrada, care sar de pe stânci înalte în valurile înguste ale mării. Deși s-a confruntat cu dificultăți naturale și sociale recente, Acapulco își păstrează farmecul plajelor sale aurii și viața de noapte legendară, rămânând o destinație fundamentală pentru identitatea turistică mexicană.",
+      "factsAdvanced": [
+        "Galeonul de Manila a conectat Acapulco cu Filipinele timp de 250 de ani (1565–1815), aducând mătase și condimente din Asia.",
+        "Scafandrii de la La Quebrada sar de la o înălțime de 35 de metri într-o gaură de apă adâncă de doar 4 metri.",
+        "Cetatea San Diego, construită în 1616, este cea mai importantă fortificație istorică de pe coasta Pacificului mexican.",
+        "Johnny Weissmuller (Tarzan) și John Wayne au deținut hoteluri celebre în zona 'Acapulco Tradicional'.",
+        "Golful este împărțit în trei zone turistice principale: Acapulco Tradicional, Zona Dorada și Acapulco Diamante.",
+        "Elvis Presley a filmat celebrul său film 'Fun in Acapulco' în anul 1963.",
+        "Parcul Național El Veladero înconjoară orașul și protejează ecosistemele de pădure tropicală uscată.",
+        "Numele Acapulco provine din Nahuatl și înseamnă 'Locul unde au fost distruse trestiile'."
+      ]
+    },
+    {
+      "id": "tlalnepantla-de-baz-cities-v2",
+      "descriptionAdvanced": "Tlalnepantla de Baz este o municipalitate strategică situată în partea de nord a zonei metropolitane a Văii Mexicului. Numele său, care înseamnă 'Pământul de Mijloc', reflectă locația sa istorică între influențele culturilor otomí și aztecă. Tlalnepantla este unul dintre cele mai industrializate centre din țară, găzduind sute de fabrici și centre logistice care alimentează capitala. Cu toate acestea, orașul păstrează vestigii arheologice și coloniale remarcabile. Siturile Tenayuca și Santa Cecilia Acatitlán oferă unele dintre cele mai bine conservate piramide cu dublu fundament din regiune, servind drept modele pentru Marele Templu din Tenochtitlán. Modernitatea se reflectă în cartierele sale rezidențiale vaste și în centrele comerciale de mare amploare, făcând din Tlalnepantla un nod urban complex unde istoria antică se întâlnește cu forța industrială contemporană.",
+      "factsAdvanced": [
+        "Piramida din Tenayuca este considerată locul de origine al stilului arhitectural aztec cu scară dublă.",
+        "Santa Cecilia Acatitlán păstrează singurul templu de pe vârful unei piramide care este aproape complet intact.",
+        "Numele 'de Baz' a fost adăugat în onoarea lui Gustavo Baz Prada, un eminent medic și politician local.",
+        "Este una dintre puținele municipalități din Mexic care are zone situate atât în Valea Mexicului, cât și în Valea Toluca.",
+        "Catedrala Corpus Christi a fost construită în secolul al XVI-lea de către franciscani, folosind pietre din templele indigene.",
+        "Municipalitatea contribuie semnificativ la PIB-ul național datorită zonei sale industriale extinse.",
+        "Ex-Hacienda de Santa Mónica este o bijuterie colonială din secolul XVI transformată în muzeu și centru de evenimente.",
+        "Tlalnepantla găzduiește importante noduri feroviare și terminale de transport intermodal."
+      ]
+    },
+    {
+      "id": "chimalhuacan-cities-v2",
+      "descriptionAdvanced": "Chimalhuacán este o municipalitate istorică situată în statul Mexic, cu rădăcini care coboară adânc în perioada prehispanică. Fondată inițial de grupuri chichimece, a devenit ulterior un aliat important al Imperiului Aztec. Situat pe malul estic al fostului lac Texcoco, orașul a fost celebru timp de secole pentru măiestria cioplitorilor săi în piatră (canteros), o tradiție care se păstrează vie și astăzi. În ultimele decenii, Chimalhuacán a cunoscut o expansiune urbană masivă, transformându-se dintr-o zonă rurală într-o metropolă dens populată. Simbolul modern al orașului este colosala sculptură 'Guerrero Chimalli', care domină orizontul și reprezintă forța și reziliența locuitorilor săi. Orașul luptă să își echilibreze moștenirea culturală bogată cu nevoile unei populații urbane în continuă creștere.",
+      "factsAdvanced": [
+        "Numele Chimalhuacán înseamnă în limba Nahuatl 'Locul celor care au scuturi'.",
+        "Sculptura 'Guerrero Chimalli', creată de artistul Sebastián, are o înălțime de 60 de metri și cântărește 600 de tone.",
+        "Tradiția cioplirii în piatră este celebrată anual prin Târgul Pietrei (Feria de la Piedra).",
+        "Zona arheologică Los Pochotes păstrează vestigii ale palatelor și templelor de pe vremea regelui Nezahualcóyotl.",
+        "Chimalhuacán a fost unul dintre punctele de plecare pentru colonizarea altor zone ale Văii Mexicului în vechime.",
+        "Aici s-au găsit resturi de mamut în depozitele lacustre vechi, demonstrând prezența umană timpurie.",
+        "Carnavalul din Chimalhuacán este unul dintre cele mai lungi și colorate din regiune, durând mai multe săptămâni.",
+        "Orașul are o vedere spectaculoasă asupra vulcanilor Popocatépetl și Iztaccíhuatl în zilele senine."
+      ]
+    },
+    {
+      "id": "reynosa-cities-v2",
+      "descriptionAdvanced": "Reynosa este un oraș de frontieră dinamic situat în statul Tamaulipas, pe malul sudic al râului Rio Grande, direct vizavi de McAllen, Texas. Fondată în 1749, Reynosa a evoluat spectaculos în secolul XX datorită descoperirii zăcămintelor de gaze naturale și boom-ului industriei 'maquiladora'. Astăzi, este cel mai populat oraș din statul său și un hub crucial pentru logistica internațională și sectorul energetic. Reynosa se caracterizează printr-o cultură vibrantă de graniță, unde muzica norteña și gastronomia bazată pe preparate din carne (cabrito) sunt elemente centrale. În ciuda provocărilor complexe specifice zonelor de frontieră, orașul rămâne un motor economic de neoprit, atrăgând forță de muncă din tot Mexicul și menținând o conexiune strânsă, socială și comercială, cu comunitățile din sudul Statelor Unite.",
+      "factsAdvanced": [
+        "A fost fondată pe 14 martie 1749 de José de Escandón, sub numele de Villa de Nuestra Señora de Guadalupe de Reynosa.",
+        "Reynosa găzduiește unul dintre cele mai mari complexe de prelucrare a gazelor naturale aparținând companiei PEMEX.",
+        "Podul Internațional Reynosa-Hidalgo este una dintre principalele artere comerciale dintre Mexic și SUA.",
+        "Orașul este centrul regiunii numite 'La Ribereña', faimoasă pentru tradițiile sale muzicale și ecvestre.",
+        "Parcul Industrial Reynosa este sediul a numeroase companii din lista Fortune 500.",
+        "Grădina Zoologică din Reynosa oferă o zonă de safari unică în regiune, pe malul râului Rio Grande.",
+        "Climatul este semiarid, cu veri extrem de fierbinți și influențe ocazionale de umiditate din Golful Mexic.",
+        "Numele orașului este un omagiu adus orașului spaniol Reinosa, locul de naștere al viceregelui de atunci."
+      ]
+    },
+    {
+      "id": "torreon-cities-v2",
+      "descriptionAdvanced": "Torreón este un oraș modern și prosper situat în regiunea cunoscută sub numele de La Laguna, în statul Coahuila. Spre deosebire de alte orașe mexicane cu origini coloniale vechi, Torreón s-a dezvoltat rapid la sfârșitul secolului al XIX-lea ca un centru feroviar și agricol, fiind oficial declarat oraș abia în 1907. Această creștere a fost alimentată de producția masivă de bumbac, care a atras imigranți din Europa și Asia, conferind orașului un caracter cosmopolit unic. Astăzi, Torreón este un pol industrial diversificat, cu o prezență puternică în sectoarele metalurgic, alimentar și de echipamente auto. Simbolul orașului este 'Cristo de las Noas', o statuie monumentală situată pe un deal care oferă o panoramă asupra întregii regiuni, reflectând spiritul întreprinzător și mândria locuitorilor săi (laguneros).",
+      "factsAdvanced": [
+        "Numele provine de la un turn de veghe ('torreón') construit în secolul XIX pentru a monitoriza inundațiile râului Nazas.",
+        "Statuia 'Cristo de las Noas' este a treia cea mai înaltă din America Latină, având 21,8 metri înălțime.",
+        "Orașul a fost scena unor bătălii sângeroase în timpul Revoluției Mexicane, fiind capturat de mai multe ori de Pancho Villa.",
+        "Găzduiește sediul companiei Lala, unul dintre cei mai mari producători de lactate din lume.",
+        "Canalul de la Perla este o veche structură subterană de irigații transformată într-un pasaj turistic și cultural.",
+        "Teatrul Isauro Martínez este considerat unul dintre cele mai frumoase teatre din Mexic datorită decorului său Art Deco și maur.",
+        "Torreón face parte dintr-o zonă metropolitană tri-statală rară, împreună cu orașele Gómez Palacio și Lerdo din Durango.",
+        "Este renumit pentru 'Puente Ojuela', un pod suspendat istoric situat în apropiere, într-un fost oraș minier."
+      ]
+    }
+  ]
+}

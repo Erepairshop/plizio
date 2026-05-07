@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "snug-corner-cities-v2",
+      "descriptionAdvanced": "Snug Corner ist die wichtigste Siedlung auf Acklins Island und dient als administratives Zentrum der Insel. Der Ort verkörpert die ruhige und abgeschiedene Atmosphäre der südlichen Bahamas. Die Bewohner leben traditionell vom Fischfang und der Landwirtschaft, wobei die Gemeinde eng zusammenhält. Für Besucher bietet Snug Corner einen authentischen Einblick in das bahamaische Inselleben, weit entfernt von den großen Touristenzentren. Die Umgebung ist geprägt von unberührten Stränden und flachen Buchten, die ideal zum Knochenfischangeln (Bonefishing) sind. Geografisch liegt der Ort geschützt an der Bucht von Acklins, was ihm seinen gemütlichen Namen einbrachte.",
+      "factsAdvanced": [
+        "Administratives Zentrum von Acklins Island",
+        "Wichtiger Ausgangspunkt für Bonefishing-Touren",
+        "Traditionelle Fischerei- und Landwirtschaftsgemeinde",
+        "Sitz lokaler Regierungsbüros und kleiner Geschäfte",
+        "Liegt an der geschützten Westküste der Insel",
+        "Zugang zu unberührten Stränden der Umgebung"
+      ]
+    },
+    {
+      "id": "gregory-town-cities-v2",
+      "descriptionAdvanced": "Gregory Town, oft als 'Pineapple Capital' der Bahamas bezeichnet, liegt im Norden von Eleuthera. Der Ort ist weltberühmt für seine süßen Lady-Abaco-Ananas, die auf den umliegenden fruchtbaren Böden gedeihen. Jährlich im Juni feiert die Gemeinde das Pineapple Festival zu Ehren dieser Tradition. Gregory Town liegt malerisch an einer tiefen Bucht und ist von Hügeln umgeben. Bekannt ist der Ort auch bei Surfern, da sich in der Nähe der berühmte Surfspot 'Surfer's Beach' befindet. Die bunte Architektur und die engen Gassen verleihen der Siedlung einen charmanten, fast mediterranen Charakter, der viele Künstler und Individualreisende anzieht.",
+      "factsAdvanced": [
+        "Bekannt als Ananashauptstadt der Bahamas",
+        "Gastgeber des jährlichen Pineapple Festivals im Juni",
+        "Nahegelegener Surfer's Beach gilt als Top-Spot",
+        "Berühmt für die süße Sorte 'Lady Abaco'",
+        "Malerische Lage an einer geschützten Meeresbucht",
+        "Beliebter Treffpunkt für Künstler und Surfer"
+      ]
+    },
+    {
+      "id": "freetown-cities-v2",
+      "descriptionAdvanced": "Freetown auf Grand Bahama ist eine geschichtsträchtige Siedlung, die von ehemals versklavten Menschen nach der Emanzipation gegründet wurde. Der Name symbolisiert die Freiheit und den Neuanfang der Gründerfamilien. Heute ist der Ort eine ruhige Gemeinde, die ihre Traditionen pflegt und eng mit der Natur der Insel verbunden ist. In der Nähe befinden sich bedeutende archäologische Stätten, wie die Ruinen alter Plantagen, die von der kolonialen Vergangenheit zeugen. Die Lage an der Südküste bietet Zugang zu weitläufigen Stränden und Mangrovensümpfen, die für das Ökosystem der Insel von großer Bedeutung sind. Freetown bewahrt das kulturelle Erbe der Insel durch lokale Feste und mündliche Überlieferungen.",
+      "factsAdvanced": [
+        "Gründung durch befreite Sklaven nach 1834",
+        "Symbolort für Freiheit und Emanzipation",
+        "Nähe zum Lucayan National Park",
+        "Traditionelle Architektur und Lebensweise",
+        "Wichtiger Standort für lokales Kulturerbe",
+        "Liegt an der naturbelassenen Südküste von Grand Bahama"
+      ]
+    },
+    {
+      "id": "bluff-cities-v2",
+      "descriptionAdvanced": "The Bluff ist eine der größeren Siedlungen im Norden von Eleuthera und bekannt für seine erhöhte Lage, die einen weiten Blick über das Meer bietet. Der Ort hat eine starke landwirtschaftliche Tradition und ist für seine freundliche Gemeinschaft bekannt. Viele Bewohner sind im Tourismus oder im Fischfang tätig, bewahren jedoch ihren eigenständigen Lebensstil. Die Architektur in The Bluff ist eine Mischung aus traditionellen bahamaischen Holzhäusern und modernen Bauten. Die Nähe zum North Eleuthera Airport macht den Ort zu einem strategisch wichtigen Punkt für Reisende, die die nördlichen Cays wie Harbour Island oder Spanish Wells besuchen möchten. Die Umgebung ist ideal für Naturbeobachtungen und ruhige Strandspaziergänge.",
+      "factsAdvanced": [
+        "Erhöhte Lage mit Panoramablick auf die Küste",
+        "Wichtige landwirtschaftliche Gemeinde im Norden",
+        "Nahe dem North Eleuthera International Airport",
+        "Ausgangspunkt für Reisen zu den benachbarten Cays",
+        "Traditionelle bahamaische Siedlungsstruktur",
+        "Bekannt für starken Gemeinschaftszusammenhalt"
+      ]
+    },
+    {
+      "id": "dunmore-cities-v2",
+      "descriptionAdvanced": "Dunmore Town auf Harbour Island ist eine der ältesten und exklusivsten Siedlungen der Bahamas. Benannt nach Lord Dunmore, einem ehemaligen Gouverneur, war der Ort einst die Hauptstadt der Bahamas. Heute ist Dunmore Town weltbekannt für seinen Pink Sands Beach, dessen Sand durch winzige rote Organismen eine zartrosa Färbung erhält. Die Siedlung besticht durch ihre perfekt erhaltene loyalisitische Architektur aus dem 18. Jahrhundert mit pastellfarbenen Häusern und weißen Lattenzäunen. Da Autos selten sind, bewegen sich Bewohner und Besucher meist per Golfkarren fort. Dunmore Town verbindet historischen Charme mit erstklassiger Gastronomie und luxuriösen Unterkünften, was es zu einem Magneten für die internationale Prominenz macht.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt der Bahamas",
+        "Berühmt für den 5 km langen Pink Sands Beach",
+        "Herausragende loyalisitische Architektur des 18. Jh.",
+        "Hauptverkehrsmittel sind Golfkarren",
+        "Exklusives Reiseziel für Luxustourismus",
+        "Einer der ältesten Orte des Archipels"
+      ]
+    },
+    {
+      "id": "simms-cities-v2",
+      "descriptionAdvanced": "Simms ist eine bedeutende Siedlung im Norden von Long Island und bekannt für seine historische Kirche und die traditionelle Landwirtschaft. Der Ort dient als Versorgungszentrum für die umliegenden kleineren Gemeinden und beherbergt eine der wenigen Regierungsstellen im Norden der Insel. Besonders sehenswert ist die St. Peter's Church, ein architektonisches Juwel, das von Pater Jerome entworfen wurde. Simms ist auch berühmt für sein jährliches Farmer's Market und Regatta-Event, das Besucher von der ganzen Insel anzieht. Die Landschaft um Simms ist geprägt von sanften Hügeln und fruchtbarem Ackerland, auf dem Obst und Gemüse für den lokalen Bedarf angebaut werden. Die Menschen hier sind stolz auf ihre Seefahrertradition und ihre handwerklichen Fähigkeiten.",
+      "factsAdvanced": [
+        "Zentrum für Landwirtschaft und Handel im Norden",
+        "Heimat der historischen St. Peter's Church",
+        "Architektur beeinflusst durch Pater Jerome",
+        "Austragungsort lokaler Regatten und Märkte",
+        "Wichtiger administrativer Standort auf Long Island",
+        "Traditionelles Handwerk und Schiffbaugeschichte"
+      ]
+    },
+    {
+      "id": "bullocks-harbour-cities-v2",
+      "descriptionAdvanced": "Bullocks Harbour ist der Hauptort der Berry Islands und liegt auf Great Harbour Cay. Die Siedlung ist das Herzstück der kleinen Inselgruppe und bietet die wichtigste Infrastruktur, darunter Regierungsgebäude, Schulen und Geschäfte. Der Ort hat sich den entspannten Charme einer abgelegenen Inselgemeinde bewahrt, während er gleichzeitig Segler und Privatpiloten anzieht. In den 1960er Jahren war die Gegend als exklusiver Rückzugsort für das Jetset bekannt, wovon noch einige Ruinen und der Flugplatz zeugen. Heute ist Bullocks Harbour vor allem bei Sportfischern und Ruhesuchenden beliebt, die die unglaubliche Vielfalt der umliegenden Riffe und die kilometerlangen, einsamen Sandstrände schätzen. Die Gemeinschaft ist klein, aber sehr gastfreundlich.",
+      "factsAdvanced": [
+        "Hauptort und administratives Zentrum der Berry Islands",
+        "Gelegen auf der größten Insel, Great Harbour Cay",
+        "Einstiger Jetset-Rückzugsort in den 1960er Jahren",
+        "Top-Destination für Sportfischer und Segler",
+        "Bietet die einzige größere Marina der Inselgruppe",
+        "Bekannt für die unberührte Natur der 'Stirrup Cays'"
+      ]
+    },
+    {
+      "id": "current-cities-v2",
+      "descriptionAdvanced": "Current ist eine der ältesten Siedlungen auf Eleuthera und liegt auf einer schmalen Landzunge im Nordwesten. Der Name leitet sich von den starken Gezeitenströmungen ab, die durch den schmalen Durchgang zwischen Current Island und dem Festland fließen. Diese Strömungen machen den Ort zu einem erstklassigen Ziel für 'Drift-Diving', bei dem Taucher sich mühelos von der Strömung treiben lassen können. Current hat eine sehr ruhige, fast verschlafene Atmosphäre bewahrt, mit traditionellen Steinhäusern und üppigen Gärten. Die Einwohner sind eng mit dem Meer verbunden und leben seit Generationen vom Fischfang. Der Ort bietet einen tiefen Einblick in das traditionelle Bahama, abseits jeglicher Hektik und kommerziellem Tourismus.",
+      "factsAdvanced": [
+        "Eine der ältesten durchgehend bewohnten Siedlungen",
+        "Berühmt für das 'Current Cut' Drift-Diving Erlebnis",
+        "Namensgebung durch starke Gezeitenströmungen",
+        "Traditionelle bahamaische Steinarchitektur",
+        "Zentrum für nachhaltigen Fischfang",
+        "Sehr ruhige Lage abseits der Hauptstraßen"
+      ]
+    },
+    {
+      "id": "staniel-cay-cities-v2",
+      "descriptionAdvanced": "Staniel Cay ist das pulsierende Herz der Exuma Cays und ein Paradies für Segler und Naturfreunde. Die kleine Insel bietet eine erstklassige Marina und ist der perfekte Ausgangspunkt für Erkundungen in den Exuma Cays Land and Sea Park. Weltberühmt wurde die Insel durch die nahegelegene Thunderball Grotto, die als Drehort für James-Bond-Filme diente. Nur eine kurze Bootsfahrt entfernt befindet sich auch der berühmte Pig Beach bei Big Major Cay. Trotz seiner Berühmtheit hat Staniel Cay seinen dörflichen Charakter behalten, wobei das Staniel Cay Yacht Club als sozialer Mittelpunkt fungiert. Die Insel verfügt über einen eigenen Flugplatz, was sie zu einer der am leichtesten zugänglichen und dennoch exklusiven Inseln der Exumas macht.",
+      "factsAdvanced": [
+        "Zentraler Knotenpunkt für Yachtsport in den Exumas",
+        "Nähe zur Thunderball Grotto (James Bond Drehort)",
+        "Ausgangspunkt zu den schwimmenden Schweinen",
+        "Heimat des historischen Staniel Cay Yacht Club",
+        "Eigener Flugplatz für einfache Erreichbarkeit",
+        "Zugang zum ältesten Meeres-Nationalpark der Welt"
+      ]
+    },
+    {
+      "id": "black-point-cities-v2",
+      "descriptionAdvanced": "Black Point auf Great Guana Cay (Exumas) ist eine authentische bahamaische Siedlung, die für ihre herzliche Gastfreundschaft und ihre traditionelle Handwerkskunst bekannt ist. Es ist die größte Gemeinde in den Exuma Cays abseits von George Town. Besonders berühmt ist der Ort für das Flechten von Strohkörben und -hüten, eine Kunst, die hier von Generation zu Generation weitergegeben wird. Segler schätzen Black Point wegen seiner geschützten Bucht und der ausgezeichneten Versorgungsmöglichkeiten, einschließlich einer der besten Wäschereien der Karibik mit Meerblick. Die Gemeinde ist stolz auf ihre Unabhängigkeit und ihren starken sozialen Zusammenhalt. Jährlich finden hier lokale Regatten statt, die die traditionelle bahamaische Segelkultur feiern.",
+      "factsAdvanced": [
+        "Größte Siedlung in den mittleren Exuma Cays",
+        "Zentrum für traditionelles bahamaisches Strohflechten",
+        "Beliebter Ankerplatz für Langfahrtsegler",
+        "Bekannt für exzellente lokale Küche und Bäckereien",
+        "Austragungsort lokaler Segelregatten",
+        "Authentisches Inselleben ohne große Resorts"
+      ]
+    },
+    {
+      "id": "little-farmers-cay-cities-v2",
+      "descriptionAdvanced": "Little Farmers Cay ist eine winzige, charmante Insel in den Exumas, die eine unglaublich reiche Kultur auf kleinstem Raum bietet. Die Siedlung wurde im 19. Jahrhundert von einer befreiten Sklavin gegründet, und viele der heutigen Bewohner sind ihre direkten Nachfahren. Der Ort ist bekannt für das jährliche 'Farmers Cay Festival' im Februar, das Hunderte von Booten und Flugzeugen anzieht. Trotz seiner geringen Größe bietet die Insel alles, was das Herz begehrt: gemütliche Restaurants, kristallklares Wasser zum Schnorcheln mit Schildkröten und eine Atmosphäre tiefer Gelassenheit. Die Gemeinschaft lebt nachhaltig vom Meer und dem Tourismus und legt großen Wert auf den Erhalt ihrer einzigartigen Geschichte und Identität.",
+      "factsAdvanced": [
+        "Gegründet im 19. Jahrhundert durch befreite Sklaven",
+        "Austragungsort des berühmten Farmers Cay Festivals",
+        "Bekannt für Schnorcheln mit Meeresschildkröten",
+        "Einzigartige Insellage in den mittleren Exumas",
+        "Starke Gemeinschaft mit tiefen historischen Wurzeln",
+        "Wichtiger Stopp für Segler auf dem Weg nach Süden"
+      ]
+    },
+    {
+      "id": "mortimers-cities-v2",
+      "descriptionAdvanced": "Mortimer's ist die südlichste Siedlung auf Long Island und markiert das Ende der Hauptstraße der Insel. Der Ort liegt in einer dramatischen Landschaft, wo der ruhige Karibische Ozean auf den wilden Atlantik trifft. Mortimer's ist bekannt für seine traditionelle Fischerei, insbesondere für den Fang von Langusten (Conch) und Hummer. In der Nähe befinden sich beeindruckende Höhlensysteme und historische Stätten, die bis in die Zeit der Lucayaner zurückreichen. Die Bewohner führen ein beschauliches Leben im Einklang mit den Gezeiten. Aufgrund der abgelegenen Lage bietet Mortimer's eine Ruhe und Unberührtheit, die man in touristischeren Gebieten selten findet. Die Küstenabschnitte hier sind berühmt für ihre reiche Vielfalt an Muscheln und Fossilien.",
+      "factsAdvanced": [
+        "Südlichste bewohnte Siedlung auf Long Island",
+        "Endpunkt des Queen's Highway auf der Insel",
+        "Zentrum für traditionellen Langustenfang",
+        "Dramatische Lage am Treffpunkt zweier Ozeane",
+        "Zugang zu unentdeckten Höhlen und Ruinen",
+        "Bekannt für Muschelsammler und Naturliebhaber"
+      ]
+    },
+    {
+      "id": "congo-town-cities-v2",
+      "descriptionAdvanced": "Congo Town liegt auf South Andros und dient als wichtigstes Zugangstor für diesen Teil der größten Bahama-Insel. Der Ort ist eng mit der afrikanischen Identität der Bahamas verbunden, was sich im Namen und in den lokalen Traditionen widerspiegelt. Congo Town verfügt über einen eigenen Flughafen, der für die Verbindung der abgelegenen südlichen Gemeinden mit Nassau entscheidend ist. Die Gegend ist ein Weltklasse-Ziel für das Fliegenfischen auf Bonefish in den riesigen, flachen Küstengewässern ('Flats'). Die Umgebung ist geprägt von dichten Mangrovenwäldern und den mysteriösen Blue Holes, für die Andros berühmt ist. Das Leben in Congo Town ist ruhig, naturverbunden und bietet ein hohes Maß an Privatsphäre für Individualtouristen.",
+      "factsAdvanced": [
+        "Wichtigstes Drehkreuz für South Andros",
+        "Standort des South Andros Airport (MYAS)",
+        "Weltklasse-Destination for Bonefishing",
+        "Namensgebung verweist auf afrikanisches Erbe",
+        "Zugang zu spektakulären Blue Holes in der Nähe",
+        "Tor zu unberührten Mangroven-Ökosystemen"
+      ]
+    },
+    {
+      "id": "kemps-bay-cities-v2",
+      "descriptionAdvanced": "Kemp's Bay ist eine bedeutende Gemeinde im Süden von Andros und war lange Zeit das administrative Zentrum für South Andros. Der Ort ist bekannt für seine malerische Küstenlinie und die tief verwurzelten Traditionen der Selbstversorgung durch Fischfang und Gartenbau. In Kemp's Bay findet man noch das ursprüngliche, unverfälschte Bahama-Gefühl, weit weg von großen Hotelketten. Die Gegend ist besonders bei Naturforschern und passionierten Anglern beliebt, da die unberührten Korallenriffe und Mangrovenkanäle eine enorme Artenvielfalt beherbergen. Die lokale Architektur zeichnet sich durch einfache, aber robuste Bauweisen aus, die den Elementen trotzen. Die Gastfreundschaft der 'Androsians' ist legendär und macht einen Besuch in Kemp's Bay zu einem persönlichen Erlebnis.",
+      "factsAdvanced": [
+        "Einstiges administratives Zentrum von South Andros",
+        "Zentrum für ökologischen Tourismus und Angeln",
+        "Berühmt für die Gastfreundschaft der Bewohner",
+        "Traditionelle Lebensweise durch Fischfang geprägt",
+        "Zugang zum drittgrößten Barriereriff der Welt",
+        "Authentische Inselarchitektur und Kultur"
+      ]
+    },
+    {
+      "id": "savannah-sound-cities-v2",
+      "descriptionAdvanced": "Savannah Sound ist eine malerische Siedlung im zentralen Eleuthera, die an einer flachen, geschützten Bucht liegt. Der Ort ist berühmt für sein kristallklares Wasser, das oft nur knietief ist und hunderte Meter weit in die Bucht reicht – ideal zum Waten und für Naturbeobachtungen. Savannah Sound hat eine reiche Geschichte und beherbergt eine der ältesten Schulen der Insel. Die Gemeinschaft ist bekannt für ihren Fleiß in der Landwirtschaft und ihre Seefahrerexpertise. In der Nähe befindet sich der 'Windermere Island' Zugang, ein exklusiver Rückzugsort, der oft von königlichen Gästen besucht wurde. Der Ort selbst strahlt eine ruhige Eleganz aus und ist ein verstecktes Juwel für Reisende, die die natürliche Schönheit und Ruhe der Inselmitte suchen.",
+      "factsAdvanced": [
+        "Gelegen an einer flachen, spiegelglatten Lagune",
+        "Wichtiges historisches Bildungszentrum der Insel",
+        "Nachbarschaft zur exklusiven Windermere Island",
+        "Hervorragendes Revier für Bonefishing und Kajakfahren",
+        "Traditionelle Landwirtschaftsgemeinde",
+        "Malerische Lage zwischen Atlantik und Sound"
+      ]
+    },
+    {
+      "id": "pirates-well-cities-v2",
+      "descriptionAdvanced": "Pirates Well ist die wichtigste Siedlung auf Mayaguana, einer der östlichsten und isoliertesten Inseln der Bahamas. Der Name erinnert an die Zeit, als Piraten die Insel als Versteck und Wasserstelle nutzten. Heute ist es eine friedliche Gemeinde, in der das Leben in einem langsamen, traditionellen Rhythmus verläuft. Die Bewohner sind Meister darin, das Beste aus den natürlichen Ressourcen der Insel zu machen, sei es durch Fischfang oder das Sammeln von wilden Früchten. Mayaguana ist eine der wenigen Inseln, die ihren ursprünglichen Namen der Lucayaner behalten hat, und Pirates Well bewahrt diesen Geist der Unabhängigkeit. Für Abenteurer bietet der Ort Zugang zu unberührten Riffen und Stränden, an denen man oft der einzige Mensch weit und breit ist.",
+      "factsAdvanced": [
+        "Hauptort der abgelegenen Insel Mayaguana",
+        "Historischer Bezugspunkt für Piraten des 17. Jh.",
+        "Eine der am wenigsten entwickelten Inseln der Bahamas",
+        "Bewahrung ursprünglicher lucayanischer Einflüsse",
+        "Paradies für Ökotourismus und Abenteurer",
+        "Bekannt für unberührte Natur und Einsamkeit"
+      ]
+    },
+    {
+      "id": "betsy-bay-cities-v2",
+      "descriptionAdvanced": "Betsy Bay ist eine kleine, ruhige Siedlung an der Westküste von Mayaguana. Der Ort ist bekannt für seine atemberaubenden Sonnenuntergänge über dem Karibischen Meer und seine freundliche, eng verbundene Gemeinschaft. Das Leben in Betsy Bay ist einfach und auf das Wesentliche konzentriert, wobei der Fischfang die primäre Lebensgrundlage darstellt. Die abgeschiedene Lage macht es zu einem idealen Ort für Reisende, die totale digitale Entgiftung und Ruhe suchen. Die Umgebung ist geprägt von dichten Büschen und Kalksteinformationen, die typisch für die südöstlichen Bahamas sind. In Betsy Bay wird die bahamaische Tradition des Geschichtenerzählens und des gemeinsamen Feierns bei lokalen Festen noch sehr lebendig gehalten.",
+      "factsAdvanced": [
+        "Westlichste Siedlung auf Mayaguana Island",
+        "Berühmt für spektakuläre Sonnenuntergänge",
+        "Zentrum für Kleinfischerei und Selbstversorgung",
+        "Abgelegener Rückzugsort für Ruhesuchende",
+        "Starke Tradition in der mündlichen Überlieferung",
+        "Zugang zu einsamen Stränden an der Leeseite"
+      ]
+    },
+    {
+      "id": "albert-town-cities-v2",
+      "descriptionAdvanced": "Albert Town ist die historische Hauptstadt von Fortune Island (auch Long Cay genannt), die südlich von Crooked Island liegt. Im 19. Jahrhundert war der Ort ein blühendes Handelszentrum, da er als wichtiger Hafen für Dampfschiffe diente, die hier Kohle bunkerten und Arbeitskräfte anheuerten. Heute ist Albert Town eine fast vergessene Siedlung mit nur noch wenigen Bewohnern, die jedoch stolz auf ihre große Vergangenheit sind. Die Ruinen prachtvoller Gebäude und der alte Hafen zeugen vom einstigen Reichtum. Die Insel ist heute vor allem für ihre riesigen Flamingokolonien und als exzellentes Angelrevier bekannt. Ein Besuch in Albert Town ist wie eine Zeitreise in die koloniale Blütezeit der Bahamas.",
+      "factsAdvanced": [
+        "Einstiges wichtiges Handelszentrum im 19. Jh.",
+        "Hauptort der geschichtsträchtigen Insel Long Cay",
+        "Wichtiger Bunkerschiff-Hafen der Vergangenheit",
+        "Heimat großer Populationen von Westindischen Flamingos",
+        "Historische Ruinen aus der Kolonialzeit",
+        "Abgelegenes Ziel für Geschichtsinteressierte"
+      ]
+    },
+    {
+      "id": "duncans-cities-v2",
+      "descriptionAdvanced": "Duncan Town ist die einzige Siedlung auf den Ragged Islands, einer Kette winziger Inseln im fernen Süden der Bahamas. Es ist einer der isoliertesten bewohnten Orte des Landes, gelegen auf Great Ragged Island. Die Bewohner von Duncan Town sind bekannt für ihre außerordentliche Zähigkeit und ihre Fähigkeiten als Seeleute und Fischer. Die Inselkette liegt strategisch günstig nahe der kubanischen Küste. Trotz der extremen Abgeschiedenheit verfügt der Ort über eine Landebahn und ein Regierungsgebäude. Das Leben hier wird durch die Ankunft von Versorgungsschiffen bestimmt. Duncan Town bietet eine einzigartige Perspektive auf das Überleben und Gedeihen in einer der entlegensten Gegenden der Karibik, geprägt von Salzgewinnung und handwerklichem Schiffbau.",
+      "factsAdvanced": [
+        "Einzige Siedlung der Ragged Island Kette",
+        "Einer der isoliertesten Orte der Bahamas",
+        "Traditionelles Zentrum der Salzgewinnung",
+        "Bekannt für herausragende Seefahrer und Fischer",
+        "Gelegen im fernen Süden nahe Kuba",
+        "Wichtiger Außenposten für die Küstenwache"
+      ]
+    },
+    {
+      "id": "gordons-cities-v2",
+      "descriptionAdvanced": "Gordon's ist eine kleine Siedlung am südlichen Ende von Long Island, bekannt für ihre dramatischen Klippen und die Nähe zu einigen der besten Tauchgebiete der Insel. Der Ort liegt in einer Gegend, die von der Landwirtschaft und dem Meer lebt. Die Landschaft um Gordon's ist rauer als im Norden, mit zerklüfteten Felsen und tiefblauem Wasser. In der Nähe befinden sich beeindruckende Meereshöhlen und historische Ruinen von Plantagen aus der Loyalistenzone. Die Gemeinde ist klein und pflegt einen sehr traditionellen Lebensstil. Für Besucher bietet Gordon's einen authentischen Einblick in das Leben auf den 'Out Islands', wo die Zeit langsamer zu laufen scheint. Die Strände hier sind oft menschenleer und bieten eine unglaubliche Privatsphäre.",
+      "factsAdvanced": [
+        "Südliche Siedlung auf Long Island",
+        "Nähe zu spektakulären Atlantikklippen",
+        "Wichtiger Standort für lokale Fischerei",
+        "Tor zu unentdeckten Tauchplätzen und Höhlen",
+        "Traditioneller bahamaischer Lebensstil",
+        "Bekannt für Ruhe und natürliche Schönheit"
+      ]
+    },
+    {
+      "id": "mckanns-cities-v2",
+      "descriptionAdvanced": "McKann's ist eine charmante Siedlung im zentralen Teil von Long Island, die für ihre erhöhte Lage und den weiten Blick über die Küste bekannt ist. Der Ort ist ein wichtiger Bestandteil der landwirtschaftlichen Identität der Insel, wobei viele Bewohner Obst und Gemüse auf den fruchtbaren Hügeln anbauen. McKann's liegt verkehrsgünstig am Queen's Highway und bietet eine gute Anbindung sowohl in den Norden als auch in den Süden. Die Siedlung ist geprägt von bunten Häusern und gepflegten Gärten. In der Nähe gibt es interessante geologische Formationen, darunter kleine Höhlen und Kalksteinlöcher. Die Atmosphäre ist freundlich und einladend, typisch für die Gemeinschaften auf Long Island, die für ihren starken Zusammenhalt bekannt sind.",
+      "factsAdvanced": [
+        "Erhöhte Lage im Zentrum von Long Island",
+        "Teil des landwirtschaftlichen Gürtels der Insel",
+        "Gute Anbindung über den Queen's Highway",
+        "Traditionelle bunte Inselarchitektur",
+        "Nähe zu interessanten geologischen Stätten",
+        "Bekannt für lokale Bauernmärkte"
+      ]
+    },
+    {
+      "id": "landrail-point-cities-v2",
+      "descriptionAdvanced": "Landrail Point ist die Hauptsiedlung auf Crooked Island und dient als wichtigster Hafen für die Insel. Der Ort hat eine reiche maritime Geschichte und war einst ein bedeutender Stützpunkt für die Schifffahrt in der Windward Passage. Heute ist Landrail Point vor allem bei Sportfischern bekannt, die die Insel wegen der legendären Bonefish-Gründe in den umliegenden Flats besuchen. In der Nähe befinden sich die Ruinen des Marine Farm Forts, das einst den Hafen schützte. Die Siedlung bietet grundlegende Dienstleistungen und ist der Ausgangspunkt für die Erkundung der unberührten Natur von Crooked Island. Die Strände bei Landrail Point sind spektakulär und bieten ideale Bedingungen zum Schnorcheln und Entspannen in völliger Abgeschiedenheit.",
+      "factsAdvanced": [
+        "Hauptsiedlung und Hafen von Crooked Island",
+        "Historisch bedeutend für die Schifffahrt",
+        "Weltklasse-Ziel für das Bonefishing",
+        "Standort historischer Festungsruinen (Marine Farm)",
+        "Wichtiger Versorgungszentrum der Insel",
+        "Tor zu den unberührten Cays der Umgebung"
+      ]
+    },
+    {
+      "id": "moss-town-cities-v2",
+      "descriptionAdvanced": "Moss Town ist eine geschichtsträchtige Siedlung auf Little Exuma, die eng mit der Plantagenwirtschaft der Vergangenheit verbunden ist. Der Name leitet sich von einer der frühen Siedlerfamilien ab. Heute ist der Ort eine ruhige Gemeinde, die für ihre traditionelle Lebensweise und die Nähe zum berühmten 'Tropic of Cancer Beach' (Pelican Beach) bekannt ist. Die Architektur in Moss Town zeigt oft noch Elemente aus der Kolonialzeit, eingebettet in eine üppige tropische Vegetation. Die Bewohner sind stolz auf ihr Erbe und feiern lokale Traditionen mit Leidenschaft. In der Nähe befinden sich bedeutende historische Ruinen und Salzpfannen, die einst die wirtschaftliche Basis der Insel bildeten. Moss Town bietet eine perfekte Mischung aus Geschichte und natürlicher Schönheit.",
+      "factsAdvanced": [
+        "Historische Siedlung auf Little Exuma",
+        "Benannt nach einer bedeutenden Siedlerfamilie",
+        "Nähe zum berühmten Wendekreis des Krebses (Strand)",
+        "Traditionelle Landwirtschaft und Fischerei",
+        "Zugang zu historischen Ruinen und Salzpfannen",
+        "Zentrum für lokales Kunsthandwerk"
+      ]
+    },
+    {
+      "id": "ramsey-cities-v2",
+      "descriptionAdvanced": "Ramsey ist eine wachsende Siedlung auf Great Exuma, die sich nördlich von George Town befindet. Der Ort hat sich in den letzten Jahren zu einem beliebten Wohngebiet für Einheimische und Langzeiturlauber entwickelt, da er eine gute Infrastruktur mit einer ruhigen Wohnatmosphäre verbindet. Ramsey liegt strategisch günstig in der Nähe des Flughafens von Exuma und bietet einfachen Zugang zu den herrlichen Stränden der Nordküste. Die Gegend ist bekannt für ihre sanften Hügel und den Blick auf das türkisblaue Wasser der Exuma Cays. Trotz der modernen Entwicklung bewahrt Ramsey seinen bahamaischen Charme durch lokale Geschäfte und eine aktive Kirchengemeinde. Es ist ein idealer Ausgangspunkt für Touren durch die gesamte Inselkette der Exumas.",
+      "factsAdvanced": [
+        "Wachsende Gemeinde auf Great Exuma",
+        "Günstige Lage nahe dem Exuma International Airport",
+        "Beliebtes Wohngebiet mit guter Infrastruktur",
+        "Zugang zu spektakulären Stränden der Nordküste",
+        "Moderner bahamaischer Lebensstil",
+        "Zentraler Punkt für Inselexpeditionen"
+      ]
+    },
+    {
+      "id": "forbes-hill-cities-v2",
+      "descriptionAdvanced": "Forbes Hill ist eine malerische, kleine Siedlung auf Little Exuma, die für ihre Ruhe und ihre wunderschönen, einsamen Buchten bekannt ist. Der Ort ist durch die Ferry Bridge mit Great Exuma verbunden und bietet eine der idyllischsten Landschaften der gesamten Inselgruppe. Forbes Hill hat eine sehr enge Gemeinschaft, die vor allem vom Fischfang und dem Kleinanbau lebt. Besonders sehenswert ist der Forbes Hill Beach, ein unberührtes Paradies mit feinem weißen Sand und ruhigem Wasser. Die Siedlung selbst wirkt wie aus der Zeit gefallen, mit kleinen Cottages und blühenden Gärten. Es ist der perfekte Ort für Reisende, die die absolute Stille suchen und die Seele in einer der schönsten Naturkulissen der Bahamas baumeln lassen wollen.",
+      "factsAdvanced": [
+        "Idyllische Kleinsiedlung auf Little Exuma",
+        "Bekannt für den unberührten Forbes Hill Beach",
+        "Verbunden durch die historische Ferry Bridge",
+        "Sehr ruhige Atmosphäre, ideal zur Erholung",
+        "Traditionelle Selbstversorgungsgemeinde",
+        "Kristallklares Wasser und hervorragende Schnorchelplätze"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kon-tum-cities-v2",
+      "descriptionAdvanced": "Kon Tum a központi fennsíkon elterülő csendes kisváros, amely különleges építészeti örökségéről, különösen az 1913-ban fából épült templomáról vált híressé. A régió egyedülálló kulturális kincset rejt, mivel számos bahnar és sedang népcsoport él a környező falvakban, akik máig megőrizték ősi hagyományaikat és építészeti stílusukat. Sachkunde K5 — etnikai és kulturális sokszínűség.",
+      "factsAdvanced": [
+        "A híres fafából épült templom 1913-ban készült",
+        "A bahnar és sedang népek központi régiója",
+        "Fontos francia koloniális örökségi pont",
+        "A Dak Bla-folyó mellett fekszik",
+        "Gazdag kézműves hagyományokkal bírnak a helyi népek",
+        "A környékbeli falvak máig őrzik a hagyományos 'Rong' házakat"
+      ]
+    },
+    {
+      "id": "gia-nghia-cities-v2",
+      "descriptionAdvanced": "Gia Nghĩa Đắk Nông tartomány fiatal fővárosa a központi fennsíkon, amelyet lenyűgöző természeti adottságok, kávéültetvények és festői vízesések vesznek körül. A város dinamikusan fejlődik a helyi bauxitbányászat és a mezőgazdaság hatására, ugyanakkor egyre nagyobb hangsúlyt fektet a természeti értékekre alapozó fenntartható turizmusra. Földrajz K6 — hegyvidéki fejlődés.",
+      "factsAdvanced": [
+        "Vietnám egyik legfiatalabb tartományi fővárosa",
+        "Jelentős bauxitbányászati központ",
+        "Kávétermesztés az egyik fő gazdasági ág",
+        "Számos vízesés és természeti park található a környéken",
+        "Gyorsan bővülő városi és infrastrukturális hálózat",
+        "A központi fennsík ökológiai központja"
+      ]
+    },
+    {
+      "id": "bao-loc-cities-v2",
+      "descriptionAdvanced": "Bảo Lộc a központi fennsík egyik hűvösebb klímájú városa, amely a kiváló minőségű teatermesztés és a selyemgyártás egyik legfontosabb központja Vietnámban. A környék domborzata és éghajlata ideális a mezőgazdasági különlegességeknek, emellett a Dambri-vízesés közelsége miatt a természetkedvelők kedvelt úticélja is. Földrajz K7 — mezőgazdasági specializáció és hegyi klíma.",
+      "factsAdvanced": [
+        "Vietnám egyik vezető teatermesztő régiója",
+        "A selyemgyártás és feldolgozás központja",
+        "A Dambri-vízesés a régió leghíresebb látnivalója",
+        "Az átlagosnál lényegesen hűvösebb klíma jellemzi",
+        "Központi csomópont a központi fennsík kereskedelmében",
+        "Kiterjedt teaültetvények alkotják a vidéki tájat"
+      ]
+    }
+  ]
+}

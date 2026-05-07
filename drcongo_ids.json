@@ -1,0 +1,942 @@
+[
+  {
+    "id": "cd-kinshasa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-maluku-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-matadi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-boma-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-muanda-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mbanza-ngungu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-lubumbashi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-likasi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kipushi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kasumbalesa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kolwezi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-fungurume-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mutshatsha-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kamina-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bukama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kabongo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kalemie-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kongolo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-manono-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bukavu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-uvira-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-baraka-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kamituga-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-goma-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-beni-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-butembo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-oicha-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bunia-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mahagi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-aru-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-isiro-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-watsa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kisangani-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bafwasende-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-buta-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bondo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-gbadolite-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-businga-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-lisala-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bumba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-gemena-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-zongo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mbandaka-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-basankusu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-bikoro-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-boende-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-ikela-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-tshikapa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-ilebo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mweka-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kananga-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-tshimbulu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-demba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mbuji-mayi-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-tshilenge-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kabinda-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mwene-ditu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-lusambo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-lodja-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-kole-cities-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoCitiesV2.ts"
+  },
+  {
+    "id": "cd-mine-tenke-fungurume-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-kibali-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-ruashi-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-mutanda-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-kamoto-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-kamoa-kakula-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-kipushi-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-kinsevere-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-bisie-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-miba-mbuji-mayi-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-tshikapa-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-oil-perenco-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-dam-inga-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-industry-maluku-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-industry-cilu-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-matadi-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-banana-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-boma-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-kinshasa-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-kisangani-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-ilebo-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-kalemie-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-zongo-ii-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-kamituga-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-industry-bralima-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-industry-shinkolobwe-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-twangiza-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-namoya-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-port-mbandaka-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "cd-mine-luiswishi-economic-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoEconomicV2.ts"
+  },
+  {
+    "id": "bunkeya-yeke-capital",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "mushenge-kuba-capital",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "nyangwe-swahili-arab-post",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "kasongo-tippu-tip",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "boma-first-capital",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "vivi-stanley-outpost",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-shinkakasa",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "jadotville-likasi",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "shinkolobwe-mine",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "ishango-archaeological-site",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "sanga-kisale-graves",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "kolwezi-battle-1978",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "stanley-falls-station",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "mbandaka-coquilhatville",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "lovanium-university-site",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "baudouinville-moba",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "albertville-kalemie",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "uvira-swahili-post",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "banza-manteke-mission",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "kamina-military-base",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "matupi-cave",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "dimba-cave",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "mount-mangengenge",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "kongo-dia-vwa",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "yumbi-historical-trade",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "kimpese-mission",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "businga-colonial-post",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "ruvubu-valley-historical",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "ruvubu-valley-historical-2",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "zongo-falls-historical",
+    "file": "lib/visualLab/data/poiExtraDrcongoHistoryV2.ts"
+  },
+  {
+    "id": "cd-stade-des-martyrs-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-palais-du-peuple-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-echangeur-de-limete-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-musee-national-rdc-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-nd-congo-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-mausolee-kabila-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-academie-beaux-arts-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-gare-centrale-kinshasa-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-monument-independance-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-stade-tata-raphael-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-eglise-sainte-anne-kinshasa-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-pont-marechal-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-baobab-de-stanley-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-assomption-boma-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-chukudu-monument-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-saint-joseph-goma-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-pierre-paul-lubumbashi-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-musee-national-lubumbashi-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-stade-tp-mazembe-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-palais-de-justice-lubumbashi-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-paix-bukavu-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-college-alfajiri-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-rosaire-kisangani-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-universite-kisangani-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-place-de-la-femme-kisangani-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-cathedrale-christ-roi-kalemie-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-gare-de-kalemie-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-pont-de-kongolo-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-barrage-inga-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "cd-palais-de-la-nation-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLandmarksV2.ts"
+  },
+  {
+    "id": "virunga-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kahuzi-biega-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "okapi-wildlife-reserve-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "salonga-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "garamba-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "upemba-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kundelungu-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "lomami-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "maiko-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "mangroves-national-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-kakaoplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kinshasa-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-kaffeeplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-palmoelplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "lubumbashi-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-erdnussfeld-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-zuckerrohrplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "goma-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-bananenplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kisangani-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-reisfeld-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "bukavu-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-manjokfeld-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-teebau-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "matadi-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-ananasplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "mbandaka-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-mais-feld-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kongo-gummibaumplantage-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "kolwezi-kinderpark-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoLifeV2.ts"
+  },
+  {
+    "id": "congo-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "tanganyika-lake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "ituri-forest-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "virunga-mountains-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "maiko-forest-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "lualaba-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "kivu-lake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "kasai-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "upemba-lake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "ruwenzori-mountains-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "congo-basin-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "salonga-forest-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "lukuga-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "edward-lake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "ubangi-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "niari-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "albert-lake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "lomami-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "kwango-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "tshuapa-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "mweru-lake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "sankuru-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "kwilu-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "sangha-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "luapula-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "ituri-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "wamba-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "lufira-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "luapula-river-2-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "lukenie-river-nature-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  },
+  {
+    "id": "congo-basin-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mitumba-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "virunga-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "rwenzori-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "tanganyika-trough-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "kivu-basin-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "plateau-of-katanga-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "ubangi-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-kahuzi-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-nyiragongo-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-nyamuragira-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-karisimbi-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-mikeno-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "ituri-forest-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mayombe-forest-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-visoke-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-sabyinyo-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-gahinga-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "mount-goma-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "luama-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "boyoma-falls-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "marungu-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "kundelungu-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "biano-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  },
+  {
+    "id": "lowland-forest-relief-v2",
+    "file": "lib/visualLab/data/poiExtraDrcongoReliefV2.ts"
+  }
+]

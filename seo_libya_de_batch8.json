@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "slonta-nursery-life-v2",
+      "descriptionAdvanced": "Die landwirtschaftlichen Gärtnereien in Slonta, einer kleinen Stadt im Dschabal al-Achdar, sind für die Aufforstung und Erhaltung der grünen Berge in der Kyrenaika von entscheidender Bedeutung. Das relativ kühle und feuchte Klima dieser Höhenlage ermöglicht die Aufzucht empfindlicher Pflanzen und Obstbäume, die später im gesamten Osten Libyens gepflanzt werden. Geografie K6 — Bergbauern.",
+      "factsAdvanced": [
+        "Gärtnereien in der Bergstadt Slonta",
+        "Wichtig für die Aufforstung der Kyrenaika",
+        "Profitiert von kühlem, feuchtem Mikroklima",
+        "Spezialisiert auf Obstbäume und Setzlinge",
+        "Unterstützt die lokale Landwirtschaft im Dschabal al-Achdar",
+        "Sichert den Erhalt der grünen Berge"
+      ]
+    },
+    {
+      "id": "jalu-oasis-farm-life-v2",
+      "descriptionAdvanced": "Die Oasen-Landwirtschaft in Jalu ist berühmt für die Produktion hochwertiger libyscher Datteln, die landesweit vertrieben werden. Die Bauern nutzen das tiefe Grundwasser der Region, um in dem ansonsten extrem lebensfeindlichen Wüstenklima weitläufige, Schatten spendende Palmenhaine zu erhalten, die seit Jahrtausenden die Existenz der Siedlung sichern. Geografie K7 — Oasenwirtschaft.",
+      "factsAdvanced": [
+        "Ausgedehnte Palmenhaine in der Oase Jalu",
+        "Produziert hochwertige libysche Datteln",
+        "Abhängig von tiefen Grundwasserreservoirs",
+        "Lebensader der isolierten Wüstensiedlung",
+        "Wichtiger Schattenspender in der heißen Sahara",
+        "Jahrhundertealte landwirtschaftliche Tradition"
+      ]
+    },
+    {
+      "id": "awjila-orchard-life-v2",
+      "descriptionAdvanced": "Die traditionellen Dattelhaine von Awjila sind nicht nur eine wirtschaftliche Ressource, sondern ein wichtiger Teil des historischen und kulturellen Erbes der Berber-Gemeinschaft. Diese Gärten zeugen von einem extrem feingestimmten, uralten Bewässerungssystem, das bereits von den antiken Griechen erwähnt wurde und bis heute Datteln von hervorragender Qualität liefert. Geografie K7 — Historische Landwirtschaft.",
+      "factsAdvanced": [
+        "Traditionelle Dattelhaine der Oase Awjila",
+        "Bewirtschaftet von der lokalen Amazigh-Bevölkerung",
+        "Zentraler Bestandteil des lokalen Erbes",
+        "Sichert das Überleben in der libyschen Wüste",
+        "Liefert besonders süße, hochwertige Datteln",
+        "Nutzt antike Bewässerungsmethoden"
+      ]
+    },
+    {
+      "id": "tauergha-park-life-v2",
+      "descriptionAdvanced": "Der Tauergha Park in der gleichnamigen Stadt ist ein kleiner sozialer Freiraum, der für die durch Bürgerkriege stark gebeutelte Bevölkerung der Region von enormer psychologischer und gesellschaftlicher Bedeutung ist. Als Ort der Begegnung hilft der Park der städtischen Gemeinschaft bei dem langsamen und schwierigen Prozess des sozialen Wiederaufbaus und der Rückkehr in die Normalität. Geografie K6 — Soziale Freiräume.",
+      "factsAdvanced": [
+        "Stadtpark in der umkämpften Stadt Tauergha",
+        "Wichtiger Ort für den sozialen Wiederaufbau",
+        "Zentraler Treffpunkt für zurückkehrende Familien",
+        "Bietet psychologische Entlastung nach Konflikten",
+        "Symbol für die Resilienz der Bevölkerung",
+        "Seltener grüner Freiraum in der Gemeinde"
+      ]
+    },
+    {
+      "id": "homsh-city-park-life-v2",
+      "descriptionAdvanced": "Der Stadtpark von Al Khums (Homs) bietet der rasch wachsenden Hafenstadt einen wichtigen Rückzugsort und eine grüne Lunge. Familien nutzen die gepflegten Wege unter Eukalyptus- und Kiefernbäumen häufig für Picknicks und Wochenendausflüge, um der geschäftigen Atmosphäre des Hafens und der umliegenden Industrieviertel zu entkommen. Geografie K6 — Städtische Naherholung.",
+      "factsAdvanced": [
+        "Grüne Lunge der geschäftigen Hafenstadt Al Khums",
+        "Bepflanzt mit Eukalyptus und Kiefern",
+        "Beliebtes Ziel für Familienausflüge",
+        "Bietet Spielplätze und schattige Wege",
+        "Kontrastiert die industrielle Hafenlandschaft",
+        "Zentraler Treffpunkt der Küstenbewohner"
+      ]
+    },
+    {
+      "id": "sirte-family-life-v2",
+      "descriptionAdvanced": "Das Familienzentrum und die Parks in Sirte spielen eine wichtige Rolle bei der Wiederherstellung des sozialen Lebensrahmens der Stadt, die 2011 und in den Folgejahren massive Zerstörungen erlitt. Diese sorgfältig gepflegten öffentlichen Plätze bieten den Familien, insbesondere den Kindern, eine sichere und entspannte Umgebung abseits der sichtbaren Narben des Krieges. Geografie K6 — Wiederaufbau der Zivilgesellschaft.",
+      "factsAdvanced": [
+        "Wichtige Erholungsanlage in der Stadt Sirte",
+        "Bietet eine sichere Umgebung für Kinder",
+        "Zentral für die Rückkehr zur Normalität",
+        "Schattige Plätze in einer trockenen Küstenregion",
+        "Sorgfältig gepflegt nach Kriegszerstörungen",
+        "Stark frequentiert nach Sonnenuntergang"
+      ]
+    },
+    {
+      "id": "murzuq-oasis-life-v2",
+      "descriptionAdvanced": "Die Murzuq-Oase, umgeben vom erbarmungslosen Sand der Fezzan-Wüste, ist ein Wunderwerk der saharischen Landwirtschaft. Die dichten Palmengärten stützen sich auf jahrhundertealte artesische Brunnen, die das historische Karawanenzentrum versorgten, und bilden noch heute die wirtschaftliche und ökologische Lebensgrundlage der gesamten Stadt. Geografie K7 — Wüstenökosysteme.",
+      "factsAdvanced": [
+        "Umfangreiche Palmengärten im tiefen Süden Libyens",
+        "Ökologisches Rückgrat der Stadt Murzuq",
+        "Wird durch historische artesische Brunnen bewässert",
+        "Sichert die Existenz in der Fezzan-Region",
+        "Bietet essenziellen Schatten und Schutz vor Sand",
+        "Wichtiger Produzent lokaler Agrargüter"
+      ]
+    },
+    {
+      "id": "ghat-oasis-life-v2",
+      "descriptionAdvanced": "Die Farmen der Ghat-Oase werden überwiegend von der indigenen Tuareg-Bevölkerung bewirtschaftet und stellen einen faszinierenden Mix aus traditioneller Landwirtschaft und Wüstenkultur dar. Zwischen Sanddünen und den schroffen Akakus-Bergen kultivieren die Bewohner hier mit minimalem Wassereinsatz Datteln und Feigen, um ihr isoliertes Überleben zu sichern. Geografie K7 — Tuareg-Lebensweise.",
+      "factsAdvanced": [
+        "Traditionelle Agrarwirtschaft der Tuareg",
+        "Liegt zwischen Sanddünen und Akakus-Bergen",
+        "Fokus auf Dattel- und Feigenanbau",
+        "Angepasst an extremen Wassermangel",
+        "Sichert das Leben an der algerischen Grenze",
+        "Erhalt der Kultur durch den Ghat-Festplatz"
+      ]
+    },
+    {
+      "id": "zwara-green-belt-life-v2",
+      "descriptionAdvanced": "Der Grüne Gürtel von Zuwara ist eine beeindruckende von Menschen geschaffene Waldzone entlang der Mittelmeerküste, die hauptsächlich aus widerstandsfähigen Pinien und Eukalyptus besteht. Dieser ökologische Puffer schützt die Stadt und die dahinter liegenden Agrarflächen vor aggressiven Sandstürmen, salzigem Meereswind und starker Küstenerosion. Geografie K8 — Küstenschutz.",
+      "factsAdvanced": [
+        "Künstlicher Schutzwald an der Nordwestküste",
+        "Schützt die Stadt Zuwara vor Küstenerosion",
+        "Besteht aus salztoleranten Pinien und Eukalyptus",
+        "Verhindert das Vordringen von Sanddünen",
+        "Bietet eine wertvolle Grünfläche für die Bewohner",
+        "Kritisches ökologisches Infrastrukturprojekt"
+      ]
+    },
+    {
+      "id": "darj-oasis-life-v2",
+      "descriptionAdvanced": "Die Oasengärten von Darj, gelegen in der Nähe von Ghadames, sind ein dichtes, sattgrünes Labyrinth aus Dattelpalmen und kleinen Gemüsefeldern. Diese isolierte Gemeinde am Rande der extrem trockenen Al-Hamada al-Hamra-Steinwüste ist vollständig von diesem fragilen Ökosystem abhängig, das durch sorgfältig verwaltete Grundwasserquellen aufrechterhalten wird. Geografie K7 — Leben in Steinwüsten.",
+      "factsAdvanced": [
+        "Dichtes Netzwerk aus Palmen und Gemüsefeldern",
+        "Isolierte Lage am Rand der Al-Hamada al-Hamra",
+        "Essenziell für das Überleben der lokalen Gemeinde",
+        "Sorgfältiges Management lokaler Wasserquellen",
+        "Spendet lebenswichtigen Schatten",
+        "Nahe der bekannten Oase Ghadames gelegen"
+      ]
+    },
+    {
+      "id": "nalut-terrace-life-v2",
+      "descriptionAdvanced": "Der Terrassenfeldbau in Nalut ist ein beeindruckendes Beispiel für die geniale landschaftliche Anpassung der Amazigh im Nafusa-Gebirge. Durch den Bau flacher Steinterrassen an den steilen, trockenen Berghängen wird das spärliche Regenwasser optimal eingefangen, wodurch der Anbau von alten, widerstandsfähigen Olivenbäumen und Getreide möglich wird. Geografie K7 — Geomorphologie und Landwirtschaft.",
+      "factsAdvanced": [
+        "Traditionelle Terrassen an steilen Berghängen",
+        "Typische Agrartechnik der Amazigh (Berber)",
+        "Fängt spärliches Regenwasser effizient ein",
+        "Ermöglicht den Anbau von Oliven in Trockengebieten",
+        "Verhindert aktiv massive Bodenerosion",
+        "Prägt das Landschaftsbild um Nalut"
+      ]
+    },
+    {
+      "id": "jufra-orchard-life-v2",
+      "descriptionAdvanced": "Die ausgedehnten Palmenhaine in der Region Jufra gehören zu den produktivsten landwirtschaftlichen Flächen Zentrallibyens und liefern jährlich Zehntausende Tonnen der berühmtesten libyschen Dattelsorten. Dieses riesige Oasennetzwerk profitiert von unterirdischen Süßwasserreserven und ist der Motor der lokalen Wirtschaft sowie Zentrum des jährlichen Jufra-Dattelfestivals. Geografie K7 — Oasenwirtschaft.",
+      "factsAdvanced": [
+        "Produktivstes Oasensystem in Zentrallibyen",
+        "Liefert die berühmtesten libyschen Datteln",
+        "Wirtschaftliches Rückgrat der Region Jufra",
+        "Austragungsort des jährlichen Dattelfestivals",
+        "Bewässert durch tiefe Grundwasserleiter",
+        "Umgeben von schwarzer Steinwüste"
+      ]
+    },
+    {
+      "id": "tarhuna-nursery-life-v2",
+      "descriptionAdvanced": "Die Setzlings- und Baumzuchtzentren in Tarhuna sind die agrarische Basis für weite Teile des westlichen Libyens. Die hügelige und relativ fruchtbare Region südöstlich von Tripolis bietet optimale Bedingungen für die massenhafte Aufzucht von Mandel-, Feigen- und jungen Olivenbäumen, die später die großen Plantagen der Küstenregionen bestücken. Geografie K6 — Agrarinfrastruktur.",
+      "factsAdvanced": [
+        "Zentrum der Setzlingszucht in Westlibyen",
+        "Aufzucht von Oliven-, Mandel- und Feigenbäumen",
+        "Nutzt die fruchtbaren Böden um Tarhuna",
+        "Versorgt die Landwirtschaft der gesamten Tripolitania",
+        "Wichtiger Arbeitgeber für die lokale Bevölkerung",
+        "Fokus auf trockentolerante Pflanzenarten"
+      ]
+    },
+    {
+      "id": "msallata-olive-life-v2",
+      "descriptionAdvanced": "Die ausgedehnten Olivenplantagen von Msallata sind weithin berühmt als das historische Zentrum der libyschen Olivenölproduktion. Die sanften Hügel dieser Region sind mit Tausenden von alten Olivenbäumen bedeckt, deren Früchte jeden Herbst handverlesen und in traditionellen sowie modernen Mühlen zu hochwertigem Öl gepresst werden. Geografie K7 — Regionale Spezialisierung.",
+      "factsAdvanced": [
+        "Historisches Zentrum der libyschen Olivenölproduktion",
+        "Bedeckt die sanften Hügel um Msallata",
+        "Einige Olivenbäume sind mehrere hundert Jahre alt",
+        "Ernte erfolgt großteils in traditioneller Handarbeit",
+        "Wichtigstes agrarisches Exportgut der Region",
+        "Jährliche Ernte ist ein großes gesellschaftliches Ereignis"
+      ]
+    },
+    {
+      "id": "ghat-family-life-v2",
+      "descriptionAdvanced": "Der Ghat Family Square ist ein zentraler öffentlicher Treffpunkt in der historischen Tuareg-Oase, wo sich die Bewohner jeden Abend versammeln. In einer so isolierten Stadt inmitten der Sahara dienen solche liebevoll gepflegten Freiflächen mit Bänken und Schatten spendenden Bäumen der Pflege des sozialen Zusammenhalts und der Traditionen. Geografie K6 — Soziales Leben in der Sahara.",
+      "factsAdvanced": [
+        "Zentraler öffentlicher Platz in der Oase Ghat",
+        "Wichtiger abendlicher Treffpunkt für Familien",
+        "Schatten durch gepflanzte Palmen und Bäume",
+        "Fördert den sozialen Zusammenhalt der Tuareg",
+        "Ein seltener öffentlicher Freiraum in der Wüstenstadt",
+        "Ort für informellen Austausch und lokale Festlichkeiten"
+      ]
+    },
+    {
+      "id": "bin-jawad-park-life-v2",
+      "descriptionAdvanced": "Der Freizeitpark in Bin Jawad bietet den Bewohnern der kleinen Küstenstadt am Golf von Sidra einen wichtigen Ort zur Entspannung. Da die Region stark durch riesige Ölterminals und Industrie geprägt ist, bildet dieser grüne Park mit Spielplätzen und Picknick-Arealen einen unverzichtbaren Kontrast zur harten industriellen Arbeitsumgebung. Geografie K6 — Freiräume in Industriezonen.",
+      "factsAdvanced": [
+        "Freizeitpark in der Küstenstadt Bin Jawad",
+        "Kontrast zur industriellen Umgebung des Öl-Terminals",
+        "Wichtiges Naherholungsgebiet für Familien",
+        "Ausgestattet mit schattigen Wegen und Spielgeräten",
+        "Rückzugsort für lokale Ölarbeiter und Anwohner",
+        "Wertvolle Grünfläche am trockenen Golf von Sidra"
+      ]
+    },
+    {
+      "id": "al-azizia-agri-life-v2",
+      "descriptionAdvanced": "Die weiten landwirtschaftlichen Flächen rund um Al-Azizia (El Azizia) gehören zur fruchtbaren Jafara-Ebene südlich von Tripolis. Trotz extremer Hitze im Sommer – der Ort ist berühmt für einige der höchsten jemals gemessenen Temperaturen weltweit – wird hier dank moderner Grundwasser-Pumpensysteme intensive Landwirtschaft zur Getreide- und Gemüsegewinnung betrieben. Geografie K7 — Landwirtschaft unter Extrembedingungen.",
+      "factsAdvanced": [
+        "Gelegen in der fruchtbaren Jafara-Ebene",
+        "Bekannt für extreme Hitzerekorde im Sommer",
+        "Intensiver Getreide- und Gemüseanbau",
+        "Abhängig von tiefen Grundwasser-Pumpensystemen",
+        "Wichtige Kornkammer für Tripolis",
+        "Kontrast zwischen Wüstenklima und Landwirtschaft"
+      ]
+    },
+    {
+      "id": "zintan-orchard-life-v2",
+      "descriptionAdvanced": "Die Obstgärten von Zintan verdeutlichen die raue landwirtschaftliche Tradition der westlichen Nafusa-Berge. Trotz der trockenen, zerklüfteten Landschaft kultivieren die Bergbewohner in den geschützten, steilen Tälern der Stadt kleine Mengen an Feigen, Oliven und Mandeln, die hauptsächlich für den Eigenbedarf und den lokalen Markt der Stadt bestimmt sind. Geografie K6 — Subsistenzwirtschaft in den Bergen.",
+      "factsAdvanced": [
+        "Obstgärten in den schroffen Nafusa-Bergen",
+        "Anbau in geschützten Gebirgstälern",
+        "Fokus auf Feigen, Mandeln und kleine Olivenhaine",
+        "Hauptsächlich Subsistenzwirtschaft für den lokalen Markt",
+        "Zeigt die agrarische Resilienz der Bergstadt Zintan",
+        "Nutzung von spärlichen Winterniederschlägen"
+      ]
+    },
+    {
+      "id": "wadi-al-hayat-nature-v2",
+      "descriptionAdvanced": "Das Wadi al-Hayat (Tal des Lebens) ist eine langgestreckte, grüne Oasenzone im extrem trockenen Südwesten Libyens. Eingebettet zwischen riesigen Sanddünen der Ubari-Sandsee im Norden und kargen Felsplateaus im Süden, bietet das Wadi lebenswichtiges Grundwasser, das eine reiche Kette von Siedlungen, Landwirtschaft und alten Tuareg-Dörfern ermöglicht. Geografie K8 — Wüstengeomorphologie.",
+      "factsAdvanced": [
+        "Langgestrecktes fruchtbares Tal in der Sahara",
+        "Wörtlich übersetzt 'Das Tal des Lebens'",
+        "Trennt die Ubari-Sandsee von den südlichen Felsplateaus",
+        "Lebensader für die historische Garamanten-Zivilisation",
+        "Sichert die Landwirtschaft im extremen Wüstenklima",
+        "Enthält zahlreiche Tuareg-Siedlungen"
+      ]
+    },
+    {
+      "id": "jebel-akhdar-nature-v2",
+      "descriptionAdvanced": "Der Dschabal al-Achdar ('Der Grüne Berg') ist ein hoch gelegenes Plateau in der Kyrenaika und die waldreichste Region Libyens. Dank regelmäßiger Winterregen weist dieses einzigartige Biotop eine dichte, mediterrane Macchie, Zypressenwälder und eine reiche Tierwelt auf, was es in extremem Kontrast zur trockenen Wüste des restlichen Landes stellt. Geografie K8 — Mediterrane Ökosysteme in Nordafrika.",
+      "factsAdvanced": [
+        "Das einzige waldreiche Gebiet Libyens",
+        "Wörtlich übersetzt 'Der Grüne Berg'",
+        "Erreicht Höhen von fast 900 Metern",
+        "Hohe Niederschlagsmengen im Winter (bis zu 600mm)",
+        "Reich an Zypressen, Wacholder und Macchie",
+        "Beherbergt einzigartige Flora und seltene Tierarten"
+      ]
+    }
+  ]
+}

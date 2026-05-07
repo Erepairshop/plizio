@@ -1,0 +1,184 @@
+{
+  "lang": "hu",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-carbon-berg-nature-v2",
+      "descriptionAdvanced": "El Carbón (A Szén) hegye és a környező erdőség Olancho megye keleti részén található, és szorosan kötődik a hondurasi pech (paya) őslakos népcsoporthoz. A hegy trópusi felhőerdői és fenyvesei nem csupán elképesztő természeti gazdagsággal rendelkeznek, de ez a terület a pech törzs egyik utolsó kulturális és fizikai menedéke. A helyiek életmódja szorosan kapcsolódik a hegyhez: hagyományos gyógynövényeket gyűjtenek, vadásznak, és megóvják a szentként tisztelt forrásokat. A hegy neve valószínűleg a sűrű, sötét növényzetre vagy a hagyományos faszénkészítésre utal. El Carbón térsége jelentős régészeti leleteket is rejt a pech kultúra fénykorából, bár ezek nagy része még feltáratlan. A terület megőrzése létfontosságú az őslakos identitás és a hondurasi biodiverzitás szempontjából. Természet K8 — őslakos hegyek.",
+      "factsAdvanced": [
+        "Olancho megye keleti, elszigetelt hegyvidékén helyezkedik el.",
+        "A pech (korábban paya) őslakos népcsoport legfontosabb kulturális központja.",
+        "Sűrű felhőerdők, fenyvesek és tiszta hegyi források borítják.",
+        "Az őslakosok a hegyből szerzik be a tradicionális gyógynövényeket.",
+        "A hegy neve (Szén) a sötét erdőkre vagy a faszénkészítésre utal.",
+        "Számos feltáratlan prehispán pech régészeti leletet rejt.",
+        "A terület védelme kritikus az őslakos kultúra fennmaradása érdekében."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-pico-bonito-relief-v2",
+      "descriptionAdvanced": "A Pico Bonito-hegység (Montañas de Pico Bonito) a Nombre de Dios hegylánc (Cordillera Nombre de Dios) leglátványosabb és legmeredekebb szakasza, amely egyenesen a Karib-tenger partjáról, La Ceiba városánál emelkedik a magasba. A csúcsok, amelyek közül a legmagasabb eléri a 2435 métert, drámai, szinte függőleges sziklafalakkal törnek a magasba. Ez a rendkívüli szintkülönbség hihetetlenül változatos mikroklímákat hoz létre egy nagyon kis területen belül: a hegy lábánál trópusi esőerdő, míg a csúcsokon hűvös, állandóan ködös felhőerdő található. A domborzat völgyeiben hatalmas, gyors sodrású folyók – mint a Cangrejal – vájtak mély szurdokokat, amelyek a vadvízi evezősök paradicsomai. A hegycsoport az ország egyik legzordabb, legnehezebben járható domborzati egysége. Domborzat K8 — meredek hegyvonulatok.",
+      "factsAdvanced": [
+        "A Nombre de Dios hegylánc része La Ceiba (Atlántida) felett.",
+        "Rendkívül meredek hegység, hirtelen emelkedik a tengerszintről 2435 méterre.",
+        "A gyors emelkedés extrém sokszínű mikroklíma-zónákat hoz létre.",
+        "Sűrű, szinte áthatolhatatlan eső- és felhőerdők borítják.",
+        "A hegyről lezúduló vizek (pl. Cangrejal) mély szurdokvölgyeket vágtak.",
+        "Topográfiája miatt a csúcsok megközelítése extrém hegymászást igényel.",
+        "Vizuálisan lenyűgöző zöld falat alkot a Karib-tenger felől nézve."
+      ]
+    },
+    {
+      "id": "hn-cordillera-nombre-de-dios-relief-v2",
+      "descriptionAdvanced": "A Nombre de Dios hegylánc (Cordillera Nombre de Dios) Honduras északi, karibi partvidékével párhuzamosan futó hatalmas, sziklás hegyvonulat. Az Atlántida és Colón megyéken keresztülhúzódó hegylánc természetes akadályt és éghajlati választóvonalat képez a Karib-tenger és az ország belső, forró völgyei (mint a Sula és az Aguán-völgy) között. A hegyvonulat drámai módon, szinte a tengerből emelkedik fel, megfogva a tenger felől érkező nedves passzátszeleket, ami folyamatos, bőséges csapadékot biztosít az északi lejtőkön, sűrű esőerdőket hozva létre. A hegygerincen húzódik a Pico Bonito Nemzeti Park is. A domborzat tagoltsága miatt a folyók rövidek, de rendkívül sebesek, és a hegy lábánál fekvő parti síkság (Planicie Costera) is nagyon keskeny. Domborzat K7 — parti hegyláncok.",
+      "factsAdvanced": [
+        "Honduras északi karibi partjával párhuzamosan futó hegyvonulat.",
+        "Természetes éghajlati és földrajzi gát a tenger és a belső völgyek között.",
+        "Megfogja a tengeri szeleket, rendkívül csapadékos északi lejtőket hozva létre.",
+        "Szinte közvetlenül a tengerpartból emelkedik a magasba.",
+        "Része a híres Pico Bonito hegytömb is.",
+        "Rövid, de gyors sodrású, nagy esésű folyók erednek a lejtőin.",
+        "Elzárja az Atlántida megyei parti síkságot a belső területektől."
+      ]
+    },
+    {
+      "id": "hn-cerro-azul-meambar-relief-v2",
+      "descriptionAdvanced": "A Cerro Azul Meámbar (Kék Hegy) Honduras középső részén, Comayagua és Cortés megyék határán tornyosuló masszív hegytömb, amely egyben egy védett nemzeti park (PANACAM) is. A domborzati egység 2047 méteres magasságig emelkedik, és drámai módon szakad le a Yojoa-tó (Lago de Yojoa) keleti partvidéke felé. A hegység jellegzetes, kékbe hajló színét a sűrű felhőerdők és a párás levegő egyedi fénytörése okozza. A Cerro Azul Meámbar domborzata rendkívül tagolt, mély kanyonokkal, sziklafalakkal és számtalan rejtett vízeséssel. Földrajzilag azért kulcsfontosságú, mert a hegyoldalakról lezúduló vízfolyások jelentik a Yojoa-tó, valamint a hatalmas El Cajón (Francisco Morazán) vízerőmű gátjának legfőbb természetes vízutánpótlását. Domborzat K8 — tavi hegyvidékek.",
+      "factsAdvanced": [
+        "A Yojoa-tó keleti partja fölé magasodó, 2047 méteres hegytömb.",
+        "Comayagua és Cortés megyék természetes határvonalán fekszik.",
+        "Jellegzetes kékes színét a sűrű felhőerdő és a pára fénytörése adja.",
+        "Erősen tagolt domborzat: mély kanyonok, sziklafalak és vízesések jellemzik.",
+        "Létfontosságú vízgyűjtője a Yojoa-tónak és az El Cajón vízerőműnek.",
+        "A hegyoldalak meredeksége megvédte az erdőket a mezőgazdasági pusztítástól.",
+        "Kiválóan kiépített ökoturisztikai túraútvonalakkal rendelkezik."
+      ]
+    },
+    {
+      "id": "hn-cordillera-de-el-merendon-high-relief-v2",
+      "descriptionAdvanced": "Az El Merendón-hegylánc (Cordillera del Merendón) egy kiterjedt, magas hegyvonulat, amely természetes határt képez Honduras (Cortés megye) és Guatemala között. A hegylánc mintegy zöld falként tornyosul Honduras legiparosodottabb városa, San Pedro Sula fölé, védelmet nyújtva a karibi hurrikánok pusztító szeleivel szemben, ugyanakkor a város ivóvízének (és folyóinak) fő forrása is. A hegyvonulat északi része egészen a Karib-tengerig nyúlik (Omoa környéke), délen pedig a Cusuco Nemzeti Park magaslati felhőerdeiben csúcsosodik ki, több mint 2200 méteres magasságban. A hegy meredek, gyakran ködbe burkolózó gerincei és trópusi erdői megdöbbentő ellentétben állnak a Sula-völgy sík és forró, iparosodott síkságával. Domborzat K8 — határhegységek.",
+      "factsAdvanced": [
+        "Természetes földrajzi határt képez Honduras (Cortés) és Guatemala között.",
+        "Magas zöld falként magasodik San Pedro Sula és a Sula-völgy felett.",
+        "Létfontosságú vízgyűjtő terület Honduras ipari fővárosa számára.",
+        "Legmagasabb része a 2200 métert meghaladó Cusuco Nemzeti Park.",
+        "Megvédi a belső völgyeket a közvetlen karibi trópusi viharoktól.",
+        "A hegylánc egészen a Karib-tenger partvidékéig (Omoa) kifut.",
+        "Éles klímakontrasztot képez a forró síkságok és a hűvös felhőerdők között."
+      ]
+    },
+    {
+      "id": "hn-cordillera-de-la-paz-relief-v2",
+      "descriptionAdvanced": "A La Paz-hegylánc (Cordillera de La Paz), más néven Sierra de La Paz, egy kiterjedt és rendkívül összetett domborzatú hegyvonulat Honduras délnyugati részén, amely La Paz, Intibucá és Lempira megyéket köti össze. Ez a régió ad otthont az ország leghidegebb településeinek és legmagasabban fekvő mezőgazdasági területeinek. A hegyláncot meredek sziklafalak, kiterjedt, hűvös fenyőerdők és mély kanyonok jellemzik. A domborzat elzártsága és nehezen járhatósága hozzájárult ahhoz, hogy a területen élő lenca őslakos közösségek megőrizhessék ősi hagyományaikat és életmódjukat a modernizációtól távol. A hegyvidék legmagasabb csúcsai elérik a 2400 métert, és a terület stratégiai fontosságú vízgyűjtő a déli országrész felé (Csendes-óceán) és észak felé (Karib-tenger) folyó vizek számára egyaránt. Domborzat K7 — őslakos hegyvidékek.",
+      "factsAdvanced": [
+        "Honduras délnyugati hegyvidéki gerince, La Paz és Intibucá megyékben.",
+        "A terület az ország leghidegebb klímájú (fagyos) része.",
+        "Meredek kanyonok és hűvös, sűrű fenyvesek borítják.",
+        "A nehezen járható terep megóvta a lenca őslakos közösségek izolációját.",
+        "Csúcsai elérik a 2400 méteres tengerszint feletti magasságot.",
+        "Kontinentális vízválasztó: innen folynak vizek mindkét óceán felé.",
+        "Magaslati mezőgazdaságra (kávé, burgonya, őszibarack) használják lankáit."
+      ]
+    },
+    {
+      "id": "hn-valle-de-comayagua-relief-v2",
+      "descriptionAdvanced": "A Comayagua-völgy (Valle de Comayagua) Honduras középső részének legnagyobb, tektonikus eredetű süllyedéke, amely Comayagua megye szívében fekszik. A több mint 40 kilométer hosszú, széles és teljesen sík völgyet minden oldalról magas hegyvonulatok (mint a PANACO) zárják közre. Emiatt a völgy éghajlata rendkívül forró és száraz, szinte sivatagos jellegű (trópusi szavannaklíma), mivel a hegyek felfogják az esőfelhőket. Földrajzi fekvése és egyenletes domborzata tette lehetővé, hogy a spanyol hódítók itt alapítsák meg az ország egykori fővárosát. Ma a völgy Honduras legfejlettebb, gépesített és intenzíven öntözött mezőgazdasági régiója, valamint az új Palmerola (Soto Cano) nemzetközi repülőtér tökéletes, sík helyszíne. Domborzat K8 — száraz völgyek.",
+      "factsAdvanced": [
+        "Hatalmas, tektonikus eredetű sík völgy Honduras középső részén.",
+        "Hosszúsága meghaladja a 40 kilométert, magas hegyek veszik körbe.",
+        "A hegyek árnyékoló hatása miatt rendkívül forró és száraz az éghajlata.",
+        "Honduras legfejlettebb, öntözéses (zöldség export) agrárrégiója.",
+        "A sík domborzat tette lehetővé a Palmerola nemzetközi repülőtér megépítését.",
+        "Történelmileg az ország egykori fővárosának és közigazgatásának központja.",
+        "Éles vizuális és klimatikus kontrasztban áll a környező zöld hegyekkel."
+      ]
+    },
+    {
+      "id": "hn-valle-de-aguán-relief-v2",
+      "descriptionAdvanced": "Az Aguán-völgy (Valle del Aguán vagy Bajo Aguán) Honduras egyik legkiterjedtebb és legtermékenyebb alföldje, amely Yoro és Colón megyéken húzódik keresztül az Aguán-folyó alsó folyásánál. A völgy északi határát a Cordillera Nombre de Dios hegylánc képezi, míg délen a La Esperanza-hegység szegélyezi. A tengerparthoz közeli, szinte teljesen sík, hordalékos domborzat tökéletes feltételeket teremtett az ipari méretű mezőgazdaság számára: a 20. században hatalmas banánültetvények borították, ma pedig Honduras afrikai pálma- és narancstermesztésének központja. A sík, folyóparti domborzat azonban egyben a régió legnagyobb átka is, ugyanis a trópusi hurrikánok idején a hegyekből lezúduló víz hatalmas, katasztrofális áradásokat okoz az egész völgyben. Domborzat K7 — hordalékos alföldek.",
+      "factsAdvanced": [
+        "Hatalmas, hordalékos alföld Yoro és Colón megyék területén.",
+        "Északról a Nombre de Dios, délről a La Esperanza hegyláncok határolják.",
+        "Honduras afrikai pálma- és citrus (narancs) termesztésének epicentruma.",
+        "Sík domborzata miatt ideális az ipari méretű, gépesített mezőgazdaság számára.",
+        "A 20. században a banánköztársaság-korszak egyik fő helyszíne volt.",
+        "Sík fekvése és a folyó miatt a hurrikánok során extrém árvízveszélyes.",
+        "A régiót átszeli az Aguán-folyó, ami a Karib-tengerbe ömlik."
+      ]
+    },
+    {
+      "id": "hn-sierra-de-omao-relief-v2",
+      "descriptionAdvanced": "A Sierra de Omoa (Omoa-hegység) a Merendón-hegylánc legészakibb, a Karib-tengerig kifutó hegyvonulata Cortés megyében. A domborzat sajátossága, hogy a hegyek drámai módon, közvetlenül a tengerpartról emelkednek több ezer méteres magasságba, mindössze egy rendkívül keskeny partszakaszt hagyva Omoa városa és a szomszédos települések számára. A meredek, sűrű esőerdőkkel és magaslati felhőerdőkkel (mint a Cusuco Nemzeti Park északi része) borított hegyoldalak gazdag patak- és folyóhálózatot (pl. Río Motagua határfolyó közelsége) táplálnak. A Sierra de Omoa természetes védőfalként szolgált a spanyol gyarmati időszakban – itt épült a San Fernando Erőd is az öbölben –, ma pedig a hegymászók és az ökoturizmus kedvelt, bár nehezen járható célpontja a guatemalai határ közelében. Domborzat K8 — tengerbe szakadó hegyek.",
+      "factsAdvanced": [
+        "A Merendón-hegylánc legészakibb része Cortés megyében.",
+        "Közvetlenül a Karib-tengerből emelkedik, meredek sziklafalakkal.",
+        "Csak egy nagyon keskeny, homokos parti sáv húzódik a hegy lábánál.",
+        "A sűrű esőerdő meredek lejtői nehezen járhatóak és feltáratlanok.",
+        "Természetes határt és védelmet nyújt a guatemalai határ mentén.",
+        "Történelmileg az Omoa erőd természetes, földrajzi hátterét biztosította.",
+        "Gazdag vízhálózata sebes hegyi patakokat és kisebb vízeséseket rejt."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-colomoncagua-relief-v2",
+      "descriptionAdvanced": "A Colomoncagua-hegység (Montañas de Colomoncagua) Intibucá megye déli, El Salvadorral határos részén található kiterjedt, sziklás és meredek hegyvidék. A domborzat rendkívül tagolt: mély kanyonok, meredek szakadékok és sűrű fenyőerdők tarkítják a tájat. Emiatt a terület Honduras egyik leginkább elszigetelt, közúton nehezen megközelíthető régiója, ahol a hagyományőrző lenca közösségek élnek, és gyakran még lovakat vagy öszvéreket használnak a közlekedéshez. A hegyvonulat az 1980-as években az El Salvador-i polgárháború elől menekülők ezreinek nyújtott biztonságos, de zord menedéket (hírhedt menekülttáborok működtek a hegyek között). A domborzat stratégiai fekvése és a magaslati kávétermesztésre alkalmas mikroklímája ma a helyi gazdaság alapját adja. Domborzat K7 — elzárt határhegyek.",
+      "factsAdvanced": [
+        "Intibucá megye déli, El Salvadorral határos zord hegyvidéke.",
+        "Mély kanyonok, sziklás csúcsok és meredek fenyőerdők alkotják.",
+        "A rendkívül tagolt terep miatt Honduras egyik legelszigeteltebb régiója.",
+        "Történelmileg ezrek találtak itt menedéket az El Salvador-i polgárháború elől.",
+        "A hagyományos lenca közösségek izolált otthona.",
+        "A nehézkes közlekedés miatt gyakori az öszvérek és lovak használata.",
+        "Lankáin magaslati, kistermelői kávégazdálkodás folyik."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-la-sierra-de-sulaco-relief-v2",
+      "descriptionAdvanced": "A Sierra de Sulaco (Sulaco-hegység) egy robusztus, kiterjedt hegyvonulat Honduras középső részén, amely természetes határt képez Comayagua és Yoro megyék között. A hegylánc átlagosan 1500–2000 méter magasra emelkedik, domborzatát lekerekített, erdővel borított csúcsok és mély, termékeny völgyek jellemzik. Földrajzi jelentősége hatalmas, mivel a hegység sűrű tölgy- és fenyőerdei táplálják a Sulaco-folyót és az ország legnagyobb víztározóját, a Francisco Morazán (El Cajón) gátat. A hegyvidék a gyarmati idők óta gazdag réz- és ezüstlelőhelyként is ismert volt, bár ma a gazdaság inkább a magaslati kávé- és szarvasmarha-tenyésztésre fókuszál. A domborzat változatossága miatt az itt élő közösségek viszonylag elszigeteltek a nagy közlekedési folyosóktól. Domborzat K8 — víztározó-hegyvidék.",
+      "factsAdvanced": [
+        "Természetes hegyvidéki határ Comayagua és Yoro megyék között.",
+        "Átlagosan 1500–2000 méter magas, kiterjedt tölgy- és fenyőerdők borítják.",
+        "A terület a Sulaco-folyó és az El Cajón vízerőmű fő vízgyűjtője.",
+        "Domborzata lekerekített hegycsúcsokból és mély, termékeny völgyekből áll.",
+        "Történelmileg jelentős réz- és ezüstbányászati helyszín volt.",
+        "A helyiek főleg magaslati kávétermesztéssel és állattenyésztéssel foglalkoznak.",
+        "A nehéz domborzat miatt az úthálózat fejletlen és kanyargós."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-paz-relief-v2",
+      "descriptionAdvanced": "A Montañas de Paz (Béke-hegység) a délnyugati Sierra de La Paz hegylánc része, amely Lempira és La Paz megyék között húzódik. Ez a magashegyi, andoki jellegű domborzat Honduras egyik legzordabb és leghidegebb klímájú régiója. A tájat éles, sziklás gerincek, szakadékok és magaslati füves puszták (páramos), valamint sűrű fenyvesek uralják. A meredek lejtők és a teraszosított domboldalak évezredek óta a lenca őslakosok otthonául szolgálnak, akik a teraszokon ('milpákban') termesztenek kukoricát, babot és hidegtűrő növényeket. A domborzat természetes védőfalként és vízválasztóként is működik a Lempa-folyó és más déli vízrendszerek között. A nehéz megközelíthetőség ellenére a térség egyedülálló, hiteles képet ad a hondurasi hegyvidéki életről. Domborzat K7 — andoki jellegű tájak.",
+      "factsAdvanced": [
+        "Lempira és La Paz megyék határán fekvő magashegyi, zord domborzat.",
+        "Honduras egyik leghidegebb régiója, magaslati füves pusztákkal (páramos).",
+        "Meredek, sziklás gerincek és mély szakadékok jellemzik.",
+        "A lenca őslakosok hagyományosan teraszos (milpa) földművelést folytatnak a lejtőkön.",
+        "Természetes vízválasztó a Lempa-folyó és a déli (Csendes-óceáni) medence felé.",
+        "Közúton rendkívül nehezen megközelíthető, izolált terület.",
+        "A fenyvesek és a meredek terep andoki jellegű (dél-amerikai) látványt nyújtanak."
+      ]
+    },
+    {
+      "id": "hn-montana-de-flor-relief-v2",
+      "descriptionAdvanced": "A Montaña de la Flor (A Virág Hegye) egy elszigetelt, sűrű erdőkkel borított hegyvonulat Yoro és Francisco Morazán megyék határán. A terület domborzata dombos, kanyargós patakokkal és mély völgyekkel szabdalt, amelyeket trópusi eső- és fenyőerdő borít. Ez a viszonylag nehezen megközelíthető földrajzi zárvány a jicaque (vagy tolupán) őslakos törzs utolsó, kulturálisan leginkább érintetlen menedéke Hondurasban. A hegyvidéki rezervátumot az 1860-as években jelölték ki a tolupánok számára, akik ide menekültek a kényszermunka elől. A domborzat megvédte őket a külső behatásoktól, lehetővé téve, hogy máig megőrizzék nyelvüket (tol) és hagyományos vadászó-gyűjtögető, valamint kistermelői (kukorica) életmódjukat. A fakitermelés azonban egyre inkább fenyegeti ezt a szent hegyvidéket. Domborzat K8 — antropológiai zárványok.",
+      "factsAdvanced": [
+        "Yoro és Francisco Morazán megyék határán fekvő, elszigetelt hegyvidék.",
+        "A tolupán (jicaque) őslakos népcsoport utolsó menedékhelye Hondurasban.",
+        "A nehezen járható domborzat tette lehetővé az ősi 'tol' nyelv és kultúra megőrzését.",
+        "A 19. században (1860-as évek) hozták létre itt a törzsi rezervátumot.",
+        "A hegyet sűrű fenyő- és tölgyfaerdők, valamint mély völgyek jellemzik.",
+        "A helyiek hagyományos vadászattal és kistermelői földműveléssel foglalkoznak.",
+        "A terület környezetét súlyosan fenyegeti az illegális fakitermelés."
+      ]
+    }
+  ]
+}

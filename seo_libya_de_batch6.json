@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dat-el-imad-landmarks-v2",
+      "descriptionAdvanced": "Der Dat El Imad Komplex ist eines der bekanntesten modernen Wahrzeichen von Tripolis und besteht aus fünf markanten, identisch gestalteten Säulentürmen, die direkt an der Küstenstraße stehen. Sie beherbergen wichtige Ministerien, Banken sowie Firmensitze internationaler Ölgesellschaften und symbolisieren den Wirtschaftsboom Libyens der 1980er Jahre. Geografie K8 — Städtische Wirtschaftszentren.",
+      "factsAdvanced": [
+        "Komplex aus fünf markanten Säulentürmen",
+        "Gelegen im Geschäftszentrum von Tripolis",
+        "Erbaut in den 1980er Jahren",
+        "Sitz internationaler Unternehmen und Banken",
+        "Direkter Blick auf das Mittelmeer",
+        "Modernes architektonisches Wahrzeichen Libyens"
+      ]
+    },
+    {
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Gamal Abdel Nasser Moschee, gelegen am zentralen Algerien-Platz in Tripolis, war ursprünglich die römisch-katholische Kathedrale von Tripolis. Nach der Revolution 1969 wurde das beeindruckende Gebäude im neoromanischen Stil stark umgebaut, seiner christlichen Symbolik entledigt und in eine der Hauptmoscheen der Stadt umgewandelt. Geschichte K8 — Umwidmung sakraler Bauten.",
+      "factsAdvanced": [
+        "Ehemalige katholische Kathedrale von Tripolis",
+        "Umgebaut in eine Moschee im Jahr 1970",
+        "Gelegen am zentralen Algerien-Platz",
+        "Erbaut in den 1920er Jahren (italienische Kolonialzeit)",
+        "Besitzt noch die ursprünglichen Bögen",
+        "Benannt nach dem ägyptischen Präsidenten Nasser"
+      ]
+    },
+    {
+      "id": "martyrs-square-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Der Märtyrerplatz (früher Grüner Platz) ist das absolute Zentrum und der wichtigste öffentliche Versammlungsort in der Hauptstadt Tripolis. Er liegt strategisch zwischen dem Mittelmeer und der Altstadt, gesäumt von italienischer Kolonialarchitektur und der massiven Roten Burg, und war Schauplatz zahlreicher politischer Reden und Aufstände. Geschichte K8 — Politische Zentren.",
+      "factsAdvanced": [
+        "Zentraler Platz der Hauptstadt Tripolis",
+        "Früher bekannt als Grüner Platz",
+        "Schauplatz historischer politischer Versammlungen",
+        "Grenzt an die historische Rote Burg (Assaraya al-Hamra)",
+        "Umgeben von italienischer Kolonialarchitektur",
+        "Symbolisches Herz der Revolution von 2011"
+      ]
+    },
+    {
+      "id": "tripoli-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Tripolis-Stadion (früher Stadion des 11. Juni) ist die größte Sportarena in Libyen und die Heimat der libyschen Fußballnationalmannschaft. Das Stadion war Gastgeber zahlreicher wichtiger kontinentaler und regionaler Turniere, darunter der Afrikacup 1982, und bietet Platz für Zehntausende begeisterte Fans aus der ganzen Region. Geografie K7 — Sport- und Freizeitstätten.",
+      "factsAdvanced": [
+        "Größtes Sportstadion in Libyen",
+        "Ehemalig bekannt als Stadion des 11. Juni",
+        "Kapazität von über 60.000 Zuschauern",
+        "Heimat der libyschen Nationalmannschaft",
+        "Austragungsort des Afrikacups 1982",
+        "Zentraler Ort für große Sportevents"
+      ]
+    },
+    {
+      "id": "benina-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Der internationale Flughafen Bengasi-Benina ist das wichtigste zivile und militärische Luftfahrtdrehkreuz für die Region Kyrenaika im Osten Libyens. Das Terminalgebäude war während der Konflikte 2014 schweren Zerstörungen ausgesetzt, wurde jedoch wieder in Betrieb genommen und sichert die internationale Anbindung Ostlibyens. Geografie K8 — Infrastruktur im Wiederaufbau.",
+      "factsAdvanced": [
+        "Wichtigster Flughafen der Region Kyrenaika",
+        "Liegt in der Ortschaft Benina nahe Bengasi",
+        "Dient zivilen und militärischen Zwecken",
+        "Schwer beschädigt im Bürgerkrieg (2014)",
+        "Wiederaufbau und Wiedereröffnung 2017",
+        "Zentrales logistisches Tor zum Osten Libyens"
+      ]
+    },
+    {
+      "id": "tibesti-hotel-benghazi-landmarks-v2",
+      "descriptionAdvanced": "Das Tibesti Hotel ist das höchste Gebäude in Bengasi und ein unverkennbares architektonisches Wahrzeichen der Stadt mit Blick auf den See. Vor den Konflikten war es das führende Luxushotel für Geschäftsreisende im Osten des Landes und diente während des Bürgerkriegs zeitweise als Sitz provisorischer politischer Räte. Geschichte K8 — Urbane Wahrzeichen.",
+      "factsAdvanced": [
+        "Höchstes Gebäude in der Stadt Bengasi",
+        "Benannt nach dem Tibesti-Gebirge",
+        "Markanter Turm am Ufer des Stadtsees",
+        "Treffpunkt für Politiker und Geschäftsleute",
+        "Erlebte schwere Zeiten während des Krieges",
+        "Symbol für die moderne Ära Bengasis"
+      ]
+    },
+    {
+      "id": "benghazi-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Bengasi, erbaut in den 1920er Jahren während der italienischen Kolonialzeit, ist ein charmantes Wahrzeichen an der Küste der Stadt. Er weist den Schiffen den sicheren Weg in den Hafen von Bengasi und hat die intensiven Bombardierungen der Stadt im Zweiten Weltkrieg sowie jüngste Konflikte relativ unbeschadet überstanden. Geschichte K7 — Maritime Navigation.",
+      "factsAdvanced": [
+        "Erbaut während der italienischen Herrschaft (1922)",
+        "Dient der Navigation in den Hafen von Bengasi",
+        "Klassische koloniale Leuchtturm-Architektur",
+        "Überlebte den Zweiten Weltkrieg unbeschadet",
+        "Pittoreskes Wahrzeichen am Mittelmeer",
+        "Beliebtes Fotomotiv der Küstenstadt"
+      ]
+    },
+    {
+      "id": "al-sahaba-mosque-derna-landmarks-v2",
+      "descriptionAdvanced": "Die Al-Sahaba-Moschee in Derna ist ein historisch tief verehrter Ort, da sie an siebzig Gefährten des Propheten Muhammad (die Sahaba) erinnert, die hier während der arabischen Eroberung gefallen sein sollen. Die Moschee mit ihren markanten grünen Dächern wurde bei den dramatischen Überschwemmungen im Jahr 2023 schwer in Mitleidenschaft gezogen. Geschichte K8 — Islamische Eroberung und Naturkatastrophen.",
+      "factsAdvanced": [
+        "Gewidmet 70 gefallenen Gefährten des Propheten",
+        "Gelegen in der Küstenstadt Derna",
+        "Wichtiger historischer und spiritueller Ort",
+        "Markante Architektur mit grünen Dächern",
+        "Schwer beschädigt durch die Überschwemmungen 2023",
+        "Zentrum der lokalen Gemeinschaft"
+      ]
+    },
+    {
+      "id": "misrata-central-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Zentralmoschee von Misrata ist nicht nur ein spirituelles Zentrum der drittgrößten Stadt Libyens, sondern auch ein Symbol für die Widerstandskraft der Bevölkerung. Während der massiven Belagerung Misratas im Jahr 2011 diente die Umgebung der Moschee als Sammelpunkt und medizinisches Versorgungszentrum für die Verteidiger der Stadt. Geschichte K8 — Revolution 2011.",
+      "factsAdvanced": [
+        "Wichtigste Moschee in der Stadt Misrata",
+        "Zentraler spiritueller Sammelpunkt",
+        "Große Bedeutung während der Revolution 2011",
+        "Zeigt moderne islamische Architektur",
+        "Umgrenzt von belebten Stadtplätzen",
+        "Symbol für den Zusammenhalt der Stadt"
+      ]
+    },
+    {
+      "id": "ouagadougou-conference-center-landmarks-v2",
+      "descriptionAdvanced": "Das gigantische Ouagadougou-Konferenzzentrum in Sirte wurde von Muammar al-Gaddafi als Schauplatz für panafrikanische Gipfeltreffen errichtet. Der massive, bunkerartige Komplex mit seinen riesigen Hallen war 1999 Geburtsort der Afrikanischen Union (Sirte-Deklaration) und wurde 2011 zum Schauplatz erbitterter Endkämpfe. Geschichte K8 — Panafrikanismus und Diktatur.",
+      "factsAdvanced": [
+        "Riesiger Konferenzkomplex in Sirte",
+        "Geburtsort der Afrikanischen Union (1999)",
+        "Austragungsort vieler panafrikanischer Gipfel",
+        "Errichtet im Auftrag Muammar al-Gaddafis",
+        "Massive, bunkerähnliche Beton-Architektur",
+        "Schauplatz intensiver Kämpfe im Jahr 2011"
+      ]
+    },
+    {
+      "id": "zawiya-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Zawiya liegt prominent am zentralen Platz der Stadt und ist das unbestrittene spirituelle Zentrum der Gemeinde. Sie war während der schweren Kämpfe um Zawiya 2011 ein zentrales Symbol und Schutzort für die Einheimischen, was zu schweren Beschädigungen an ihren Türmen und Mauern führte. Geschichte K8 — Lokale Brennpunkte.",
+      "factsAdvanced": [
+        "Zentrale Moschee der Küstenstadt Zawiya",
+        "Gelegen am Märtyrerplatz der Stadt",
+        "Schauplatz erbitterter Kämpfe im Februar 2011",
+        "Erlitt starke strukturelle Schäden im Krieg",
+        "Klassische libysch-islamische Architektur",
+        "Zentrum des öffentlichen Lebens in Westlibyen"
+      ]
+    },
+    {
+      "id": "al-khums-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der historische Leuchtturm von Al Khums, erbaut während der italienischen Kolonialzeit, erhebt sich direkt an der Mittelmeerküste unweit des florierenden Hafens der Stadt. Er bot nicht nur sichere Navigation für den Seehandel, sondern markiert auch die Nähe zu den weltberühmten römischen Ruinen von Leptis Magna. Geografie K7 — Navigation und Kolonialgeschichte.",
+      "factsAdvanced": [
+        "Kolonialer Leuchtturm in Al Khums",
+        "Erbaut während der italienischen Besatzung",
+        "Leitet Schiffe in den wichtigen Hafen von Khoms",
+        "Nahe der antiken Stätte Leptis Magna gelegen",
+        "Typische mediterrane Leuchtturmarchitektur",
+        "Wichtiges lokales Wahrzeichen an der Küste"
+      ]
+    },
+    {
+      "id": "brega-oil-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Brega Oil Terminal Landmark steht stellvertretend für die massive petrochemische Industrie am Golf von Sidra. Diese gigantischen, hochindustrialisierten Anlagen mit ihren endlosen Pipelinenetzwerken, Fackeltürmen und Verladekränen prägen die flache Wüstenküste und verdeutlichen die enorme Abhängigkeit des Landes vom Ölsektor. Geografie K8 — Industrielle Landschaften.",
+      "factsAdvanced": [
+        "Zentrum der libyschen Petrochemie",
+        "Markante industrielle Skyline am Golf von Sidra",
+        "Beherbergt riesige Gastanks und Verladekräne",
+        "Ausgangspunkt für wichtige Exportrouten",
+        "Symbol für die libysche Erdöl-Monokultur",
+        "Prägt die gesamte städtische Umgebung von Brega"
+      ]
+    },
+    {
+      "id": "ras-lanuf-refinery-landmarks-v2",
+      "descriptionAdvanced": "Die Skyline der Ras Lanuf Raffinerie, mit ihren rauchenden Fackeltürmen und gigantischen Destillationskolonnen, ist ein weithin sichtbares Landmark am Mittelmeer. Die schiere Größe dieser industriellen Anlage, einer der größten in Afrika, macht sie zu einem beeindruckenden Denkmal für die massiven Infrastrukturprojekte der 1980er Jahre. Geografie K8 — Industriearchitektur.",
+      "factsAdvanced": [
+        "Riesiger Raffinerie-Komplex in Ostlibyen",
+        "Markante industrielle Skyline mit Fackeltürmen",
+        "Eines der größten Industrieprojekte Afrikas",
+        "Erbaut in den frühen 1980er Jahren",
+        "Kritische Infrastruktur am Golf von Sidra",
+        "Weithin von der Küstenautobahn sichtbar"
+      ]
+    },
+    {
+      "id": "fortezza-margherita-sabha-landmarks-v2",
+      "descriptionAdvanced": "Die Fortezza Margherita, auch bekannt als Fort Elena, ist eine massive Befestigungsanlage, die von der italienischen Kolonialmacht auf einem prominenten Hügel in Sabha errichtet wurde. Sie dominiert die Skyline der Oasenstadt, diente der Überwachung des Fessan und war später das Motiv auf der libyschen Zehn-Dinar-Banknote. Geschichte K8 — Wüstenfestungen.",
+      "factsAdvanced": [
+        "Kolonialfestung in der Oasenstadt Sabha",
+        "Erbaut von Italien zur Kontrolle des Fezzan",
+        "Lokal oft Fort Elena oder Sabha Fort genannt",
+        "Thront auf einem Hügel über der Stadt",
+        "War auf dem libyschen 10-Dinar-Schein abgebildet",
+        "Bietet weiten Blick über die Sahara"
+      ]
+    },
+    {
+      "id": "sabha-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Terminal des Flughafens Sabha ist das wichtigste zivile und logistische Tor zur gewaltigen Wüstenregion Fezzan im Süden Libyens. Ohne diese entscheidende Infrastruktur wären Reisen und die Versorgung der abgelegenen Wüstenstädte auf dem Landweg extrem beschwerlich, wodurch der Flughafen als wahres Wahrzeichen der Modernisierung gilt. Geografie K8 — Wüstenlogistik.",
+      "factsAdvanced": [
+        "Wichtigster Flughafen im tiefen Süden Libyens",
+        "Zentrales Drehkreuz für die Region Fezzan",
+        "Verbindet die Wüste mit Tripolis und Bengasi",
+        "Bedeutend für Öl-Arbeiter und lokale Oasen",
+        "Diente historisch auch als militärische Basis",
+        "Kritische Infrastruktur in der Wüste"
+      ]
+    },
+    {
+      "id": "al-asmarya-mosque-zliten-landmarks-v2",
+      "descriptionAdvanced": "Die Al-Asmariya-Moschee in Zliten ist weithin berühmt als eines der bedeutendsten Sufi-Zentren in Nordafrika und beherbergt das Grab des verehrten Sufi-Gelehrten Sidi Abd as-Salam al-Asmari. Die wunderschön verzierte Moschee ist Teil eines großen Universitätscampus, an dem Tausende Studenten traditionelle islamische Wissenschaften studieren. Geschichte K8 — Sufismus in Nordafrika.",
+      "factsAdvanced": [
+        "Bedeutendstes Sufi-Zentrum in Libyen",
+        "Beherbergt das Grab von Sidi Abd as-Salam al-Asmari",
+        "Zentrum der Al-Asmariya-Universität",
+        "Prächtige architektonische Verzierungen",
+        "Ort für islamische Rechtswissenschaften",
+        "Ziel religiöser Pilgerfahrten in Nordafrika"
+      ]
+    },
+    {
+      "id": "shahat-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Shahat ist das spirituelle Zentrum der modernen Stadt, die sich direkt neben den weltberühmten Ruinen des antiken Kyrene gebildet hat. Mit ihrer auffälligen Architektur und den weißen Kuppeln bildet sie einen faszinierenden Kontrast zu den dorischen Säulen der griechischen Tempel, die das Landschaftsbild dominieren. Geografie K7 — Kontraste der Architektur.",
+      "factsAdvanced": [
+        "Hauptmoschee der modernen Stadt Shahat",
+        "Liegt in unmittelbarer Nähe zum antiken Kyrene",
+        "Bietet Kontrast zur griechischen Ruinenarchitektur",
+        "Zentraler Punkt für das soziale Leben der Stadt",
+        "Gelegen im grünen Dschabal al-Achdar",
+        "Markante weiße Kuppelarchitektur"
+      ]
+    },
+    {
+      "id": "al-baida-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Al Bayda ist eines der eindrucksvollsten religiösen Gebäude im Dschabal al-Achdar. Sie zeugt von der reichen Geschichte der Stadt, die einst als Hauptquartier des islamischen Senussi-Ordens diente und während der Senussi-Revolte gegen die Italiener ein geistiges Zentrum für die lokale Bevölkerung bildete. Geschichte K8 — Senussi-Bewegung.",
+      "factsAdvanced": [
+        "Zentrale Moschee in der Stadt Al Bayda",
+        "Historisch verbunden mit dem Senussi-Orden",
+        "Eindrucksvolle Architektur im Dschabal al-Achdar",
+        "Symbol der religiösen und politischen Unabhängigkeit",
+        "Zentrum für theologische Versammlungen",
+        "Große Kuppel und hohe Minarette"
+      ]
+    },
+    {
+      "id": "omar-mukhtar-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "Das Omar Mukhtar Mausoleum in Bengasi ist eine heilige Pilgerstätte für libysche Nationalisten und ehrt den berühmtesten Freiheitskämpfer des Landes, den 'Löwen der Wüste'. Omar Mukhtar führte den erbitterten bewaffneten Widerstand der Beduinen gegen die brutale italienische Kolonialbesatzung an, bis er 1931 hingerichtet wurde. Geschichte K8 — Antikolonialer Widerstand.",
+      "factsAdvanced": [
+        "Ruhestätte des libyschen Nationalhelden Omar Mukhtar",
+        "Führer des Widerstands gegen Italien (1911-1931)",
+        "Bekannt als der 'Löwe der Wüste'",
+        "Zentrale Pilgerstätte für libysche Patrioten",
+        "Verlegt von Soluq nach Bengasi",
+        "Symbol für Freiheit und Unabhängigkeit"
+      ]
+    }
+  ]
+}

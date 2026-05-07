@@ -1,0 +1,290 @@
+
+{
+  "lang": "de",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-niassa-nature-v2",
+      "descriptionAdvanced": "Der Malawisee, in Mosambik als Lago Niassa bekannt, ist der drittgrößte See Afrikas und der neuntgrößte der Welt. Er ist Teil des Großen Afrikanischen Grabenbruchs und bekannt für seine außergewöhnliche Biodiversität, insbesondere seine Buntbarsche. Schätzungen zufolge leben hier zwischen 700 und 1.000 Fischarten, von denen die meisten endemisch sind. Der mosambikanische Teil des Sees ist weniger entwickelt als der malawische und bietet unberührte Strände und kristallklares Wasser. Er ist ein Paradies für Süßwassertaucher und Schnorchler. Biologie K9 – Evolution und Artenvielfalt.",
+      "factsAdvanced": [
+        "Der See ist etwa 580 km lang und bis zu 75 km breit.",
+        "Seine tiefste Stelle misst über 700 Meter.",
+        "99% der im See vorkommenden Buntbarscharten sind endemisch.",
+        "Der mosambikanische Teil des Sees wurde 2011 zum Reservat erklärt.",
+        "Die Städte Metangula und Cobue sind die wichtigsten Siedlungen am mosambikanischen Ufer.",
+        "Der See wird vom Shire-Fluss entwässert, einem Nebenfluss des Sambesi.",
+        "Er ist einer der Afrikanischen Großen Seen.",
+        "Die Wassertemperaturen liegen ganzjährig zwischen 24°C und 29°C."
+      ]
+    },
+    {
+      "id": "bazaruto-island-nature-v2",
+      "descriptionAdvanced": "Die Insel Bazaruto ist die größte Insel des gleichnamigen Archipels vor der Küste der Provinz Inhambane. Sie ist berühmt für ihre spektakulären, hoch aufragenden Sanddünen, unberührten Strände und das klare, türkisfarbene Wasser. Die Insel ist das Herzstück des Bazaruto-Nationalparks, des ersten Meeresschutzgebiets Mosambiks. Die Gewässer um die Insel beherbergen eine reiche Meeresfauna, darunter Delfine, Wale, Meeresschildkröten und die letzte überlebensfähige Population von Dugongs (Seekühen) in Ostafrika. Die Insel ist ein exklusives Reiseziel für Luxus- und Ökotourismus. Ökologie K10 – Meeresschutz.",
+      "factsAdvanced": [
+        "Bazaruto ist etwa 37 km lang und bis zu 7 km breit.",
+        "Die Dünen auf der Insel können eine Höhe von über 100 Metern erreichen.",
+        "Der Bazaruto-Archipel-Nationalpark wurde 1971 gegründet.",
+        "Die Dugong-Population des Archipels ist die größte in der westlichen Indischen Ozean Region.",
+        "Fünf Arten von Meeresschildkröten kommen in den Gewässern des Archipels vor.",
+        "Die Korallenriffe rund um die Insel sind beliebte Tauchspots.",
+        "Es gibt mehrere Süßwasserseen auf der Insel, die durch Regenwasser in den Dünentälern entstehen.",
+        "Die Insel war einst Teil des Festlandes."
+      ]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "descriptionAdvanced": "Der Mount Gorongosa ist ein majestätisches Granitmassiv, das sich bis auf 1.863 Meter erhebt und den gleichnamigen Nationalpark überragt. Er ist ein entscheidender Bestandteil des Parkökosystems, da er als 'Wasserturm' fungiert und die Flüsse und Seen in der darunter liegenden Ebene speist. Die Hänge des Berges sind mit einem einzigartigen Mosaik aus Grasland, Bergwäldern und Regenwald bedeckt. Diese isolierten Lebensräume beherbergen eine hohe Anzahl endemischer Arten, darunter Vögel, Reptilien und Pflanzen, die nirgendwo sonst auf der Welt zu finden sind. Der Berg ist ein Fokus für Wiederaufforstungs- und Naturschutzprojekte. Geographie K8 – Gebirgsökosysteme.",
+      "factsAdvanced": [
+        "Der höchste Gipfel ist der Gogogo mit 1.863 m.",
+        "Der Berg liefert den Großteil des Wassers für den Urema-See.",
+        "Es gibt mehrere endemische Pflanzenarten, wie die Gorongosa-Aloe.",
+        "Ein Kaffeeanbauprojekt hilft bei der Wiederaufforstung und unterstützt die lokale Gemeinschaft.",
+        "Die Wälder des Berges wurden während des Bürgerkriegs stark abgeholzt.",
+        "Forscher entdecken hier regelmäßig neue Arten.",
+        "Der Berg hat eine große spirituelle Bedeutung für die umliegenden Gemeinschaften.",
+        "Der Aufstieg zum Gipfel bietet einen atemberaubenden Blick über den gesamten Nationalpark."
+      ]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "descriptionAdvanced": "Das Primeiras- und Segundas-Archipel ist eine Kette von zehn unbewohnten Barriereinseln und zwei Korallenriffkomplexen, die sich über 100 km entlang der Küste der Provinzen Zambezia und Nampula erstrecken. Es ist das größte Meeresschutzgebiet Afrikas und ein Hotspot der marinen Biodiversität. Die Gewässer beherbergen einige der widerstandsfähigsten Korallenriffe des westlichen Indischen Ozeans, Seegraswiesen und Mangrovenwälder. Das Gebiet ist ein wichtiges Brut- und Nahrungsgebiet für Meeresschildkröten, Delfine, Wale und unzählige Fischarten. Der Schutz des Archipels ist entscheidend für die Fischerei und den Küstenschutz. Ozeanographie K9.",
+      "factsAdvanced": [
+        "Das Schutzgebiet erstreckt sich über mehr als 10.400 km².",
+        "Es ist Afrikas größtes Meeresschutzgebiet.",
+        "Fünf der sieben weltweit existierenden Meeresschildkrötenarten kommen hier vor.",
+        "Die Korallenriffe zeigen eine bemerkenswerte Widerstandsfähigkeit gegenüber der Korallenbleiche.",
+        "Die Inseln sind wichtige Nistplätze für Seevögel.",
+        "Die lokale Bevölkerung, hauptsächlich Fischer, ist stark von den Ressourcen des Archipels abhängig.",
+        "Das Gebiet wurde 2012 offiziell zum Umweltreservat erklärt.",
+        "Die Inseln sind niedrig und anfällig für den Anstieg des Meeresspiegels."
+      ]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "descriptionAdvanced": "Die Maputo-Bucht, früher bekannt als Delagoa-Bucht, ist eine große und geschützte Bucht an der Küste des südlichen Mosambiks. Sie erstreckt sich über etwa 90 Kilometer Länge und 30 Kilometer Breite. Die Bucht ist ein wichtiges marines Ökosystem mit Mangrovenwäldern, Seegraswiesen und einer reichen Vogelwelt. Sie ist die Mündung mehrerer Flüsse, darunter der Incomati, Maputo und Tembe. Die Hauptstadt Maputo liegt am Nordufer und ihr Hafen ist einer der wichtigsten in der Region. Die Bucht ist auch ein Naherholungsgebiet für die Stadtbevölkerung, mit den Inseln Inhaca und Portuguesa als beliebte Ausflugsziele. Küstengeographie K7.",
+      "factsAdvanced": [
+        "Die Bucht hat eine Fläche von etwa 1.700 km².",
+        "Sie ist die größte Bucht im südlichen Afrika.",
+        "Die Insel Inhaca am Eingang der Bucht ist ein bekanntes Forschungszentrum für Meeresbiologie.",
+        "Die Mangroven der Bucht sind wichtige Brutstätten für Garnelen.",
+        "Wale besuchen die Bucht saisonal während ihrer Wanderungen.",
+        "Der Hafen von Maputo kann große Schiffe aufnehmen und ist ein wichtiger Wirtschaftsfaktor.",
+        "Die Wasserqualität in der Bucht ist durch die Nähe zur Großstadt und Industrie bedroht.",
+        "Vasco da Gama war einer der ersten Europäer, der die Bucht 1498 besuchte."
+      ]
+    },
+    {
+      "id": "cahora-bassa-lake-nature-v2",
+      "descriptionAdvanced": "Der Cahora-Bassa-Stausee in der Provinz Tete ist der zweitgrößte künstliche See Afrikas. Er entstand durch den Bau des Cahora-Bassa-Staudamms am Sambesi in den 1970er Jahren. Der See erstreckt sich über eine Länge von etwa 250 Kilometern und ist eine dominierende Landschaftsform in der Region. Er ist von großer wirtschaftlicher Bedeutung, da er nicht nur die Turbinen eines der größten Wasserkraftwerke Afrikas antreibt, sondern auch eine florierende Fischereiindustrie unterstützt. Insbesondere der Kapenta-Fisch (eine Sardinenart) wird hier in großen Mengen gefangen und ist eine wichtige Proteinquelle. Wasserbau K9.",
+      "factsAdvanced": [
+        "Der See hat eine Fläche von bis zu 2.700 km².",
+        "Seine maximale Länge beträgt etwa 250 km.",
+        "Der Damm wurde zwischen 1969 und 1974 gebaut.",
+        "Das Wasserkraftwerk hat eine Kapazität von über 2.075 Megawatt.",
+        "Der See ist bekannt für seine großen Populationen von Tigerfischen, die Angler anziehen.",
+        "Die Schaffung des Sees hat das lokale Ökosystem und die Migrationsmuster von Tieren drastisch verändert.",
+        "Die Stadt Songo wurde für die Arbeiter des Staudammprojekts gebaut.",
+        "Krokodile und Flusspferde haben sich im See stark vermehrt."
+      ]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "descriptionAdvanced": "Das Quirimbas-Archipel ist eine atemberaubende Kette von etwa 32 Koralleninseln, die sich entlang der Küste von Cabo Delgado im Norden Mosambiks erstrecken. Die Inseln sind von unberührten Stränden, dichten Mangrovenwäldern und spektakulären Korallenriffen umgeben. Ein großer Teil des Archipels, einschließlich 11 der südlichen Inseln, bildet den Quirimbas-Nationalpark. Dieses Gebiet ist ein UNESCO-Biosphärenreservat und schützt eine reiche marine und terrestrische Biodiversität. Die Insel Ibo, mit ihrer faszinierenden, verfallenden Kolonialarchitektur, ist das historische Zentrum des Archipels. Weltkulturerbe K8.",
+      "factsAdvanced": [
+        "Das Archipel erstreckt sich über mehr als 250 km Küstenlinie.",
+        "Der Quirimbas-Nationalpark wurde 2002 gegründet.",
+        "Das Gebiet wurde 2018 zum UNESCO-Biosphärenreservat erklärt.",
+        "Die Insel Ibo war ein wichtiger portugiesischer Handelsposten für Sklaven und Elfenbein.",
+        "Die Gewässer beherbergen Delfine, Wale, Meeresschildkröten und über 400 Fischarten.",
+        "Einige Inseln sind in Privatbesitz und beherbergen exklusive Luxuslodges.",
+        "Die lokale Bevölkerung lebt hauptsächlich vom Fischfang und kleinbäuerlicher Landwirtschaft.",
+        "Der Park umfasst sowohl marine als auch terrestrische Ökosysteme, einschließlich Miombo-Wäldern auf dem Festland."
+      ]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "descriptionAdvanced": "Der Mount Romue ist ein wenig bekanntes, aber ökologisch bedeutsames Bergmassiv in der Provinz Niassa. Er ist Teil des komplexen Hochlandsystems Nordmosambiks und zeichnet sich durch seine Abgeschiedenheit und unberührte Natur aus. Die Hänge des Berges sind mit Miombo-Wäldern und Berggrasland bedeckt und bieten Lebensraum für eine Vielzahl von Tier- und Pflanzenarten, von denen viele noch nicht wissenschaftlich erforscht sind. Wie andere Inselberge in der Region fungiert auch der Mount Romue als 'Himmelinsel', dessen Ökosysteme von den umliegenden Tiefländern isoliert sind, was zur Entstehung endemischer Arten führt. Explorationsgeographie K10.",
+      "factsAdvanced": [
+        "Der Berg liegt in einer der am dünnsten besiedelten Regionen Mosambiks.",
+        "Seine genaue Höhe ist in vielen Karten uneinheitlich, wird aber auf über 1.800 m geschätzt.",
+        "Die Region ist Teil des ostafrikanischen Afromontane-Biodiversitäts-Hotspots.",
+        "Der Berg ist schwer zugänglich, was zu seinem Schutz beigetragen hat.",
+        "Die Flora und Fauna des Berges sind noch weitgehend unerforscht.",
+        "Er ist eine wichtige Wasserquelle für die umliegenden Gebiete.",
+        "Die Entdeckung neuer Arten ist in dieser Region sehr wahrscheinlich.",
+        "Der Berg hat für die lokale Yao-Bevölkerung spirituelle Bedeutung."
+      ]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "descriptionAdvanced": "Die Ilha do Inda ist eine kleine, unbewohnte Sandinsel im Bazaruto-Archipel. Sie liegt in den geschützten Gewässern zwischen der Festlandküste und den größeren Inseln. Die Insel ist nicht mehr als eine Sandbank mit spärlicher Vegetation, aber sie ist ein wichtiger Nistplatz für verschiedene Seevögel, insbesondere für Seeschwalbenarten. Bei Ebbe ist die Insel von ausgedehnten Sandflächen und Seegraswiesen umgeben, die von Watvögeln zur Nahrungssuche genutzt werden. Sie ist ein Beispiel für die dynamische und fragile Natur von Sandinseln in einem gezeitenabhängigen Ökosystem. Ornithologie K7.",
+      "factsAdvanced": [
+        "Die Insel ist Teil des Bazaruto-Archipel-Nationalparks.",
+        "Ihre Form und Größe ändern sich ständig durch Meeresströmungen und Gezeiten.",
+        "Sie ist ein wichtiger Nistplatz für Rußseeschwalben und andere Seevogelarten.",
+        "Die Insel ist unbewohnt und bietet keine touristische Infrastruktur.",
+        "Das Schnorcheln in den umliegenden Seegraswiesen ist beliebt.",
+        "Der Name 'Inda' ist ein lokaler Name.",
+        "Die Insel kann bei Ebbe fast mit benachbarten Sandbänken verschmelzen.",
+        "Sie ist ein wichtiger Indikator für die Gesundheit des Küstenökosystems."
+      ]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "descriptionAdvanced": "Der Chiuta-See ist ein flacher See an der Grenze zwischen Mosambik und Malawi, nördlich des größeren, verwandten Chilwa-Sees. Der See hat keine Mündung und sein Wasserstand schwankt dramatisch mit den saisonalen Regenfällen und der Verdunstung. Er ist von ausgedehnten Feuchtgebieten und Schilfgürteln umgeben, die einen wichtigen Lebensraum für eine Vielzahl von Wasservögeln, Fischen und Amphibien darstellen. Für die lokale Bevölkerung auf beiden Seiten der Grenze ist der See eine wichtige Quelle für Fisch und Wasser für die Landwirtschaft. Hydrologie K8 – Endorheische Becken.",
+      "factsAdvanced": [
+        "Der See liegt auf der Grenze zwischen Mosambik und Malawi.",
+        "Er hat eine durchschnittliche Tiefe von nur 1-3 Metern.",
+        "Der Wasserstand ist stark von den Niederschlägen abhängig und kann in Dürrejahren erheblich sinken.",
+        "Er ist ein wichtiger Ort für die lokale Fischerei, insbesondere auf Wels und Tilapia.",
+        "Das umliegende Feuchtgebiet ist ein Ramsar-Gebiet (auf der Malawi-Seite).",
+        "Mehr als 160 Vogelarten wurden am See nachgewiesen.",
+        "Der See ist durch übermäßige Fischerei und landwirtschaftliche Verschmutzung bedroht.",
+        "Er ist durch einen Sumpf mit dem Chilwa-See verbunden."
+      ]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "descriptionAdvanced": "Der Mount Pungo ist ein markanter Berg in der Provinz Zambezia. Er ist Teil des komplexen Hochlandsystems, das sich durch Zentralmosambik zieht. Obwohl er nicht so hoch ist wie der nahegelegene Mount Namuli, ist er ein wichtiges lokales Wahrzeichen und ein bedeutendes Gebiet für die Biodiversität. Seine Hänge sind mit Miombo-Wäldern und Grasland bedeckt. Der Berg ist eine wichtige Wasserquelle für die umliegenden Gemeinden und spielt eine Rolle in deren spirituellen Traditionen. Die Erforschung solcher kleineren, isolierten Berge ist oft entscheidend für das Verständnis der regionalen Biodiversitätsmuster. Regionale Geographie K6.",
+      "factsAdvanced": [
+        "Der Berg liegt in der Provinz Zambezia, einer der bevölkerungsreichsten Provinzen Mosambiks.",
+        "Er erhebt sich deutlich aus der umliegenden Ebene.",
+        "Die Vegetation ist eine Mischung aus Savannenwald und Berggrasland.",
+        "Der Berg ist Lebensraum für verschiedene Vogelarten und kleine Säugetiere.",
+        "Er ist eine wichtige Wasserquelle für lokale Flüsse und Bäche.",
+        "Die umliegenden Gebiete werden intensiv landwirtschaftlich genutzt.",
+        "Die genaue Höhe und die endemischen Arten des Berges sind nicht umfassend dokumentiert.",
+        "Er spielt eine Rolle in den lokalen Mythen und Traditionen der Lomwe-Bevölkerung."
+      ]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "descriptionAdvanced": "Die Lagoa de Gaza ist kein einzelner See, sondern ein System von Küstenlagunen und Seen in der Provinz Gaza im Süden Mosambiks. Diese Gewässer verlaufen parallel zur Küste des Indischen Ozeans und sind oft nur durch einen schmalen Streifen von Sanddünen vom Meer getrennt. Sie sind ein wichtiges Feuchtgebietsökosystem, reich an Vögeln, Fischen und Krebstieren. Die Lagunen sind von Gezeiteneinflüssen abhängig und ihr Salzgehalt variiert stark. Sie sind eine wichtige Ressource für die lokale Fischerei und bieten Schutz für Jungfische, bevor sie ins offene Meer ziehen. Limnologie K7 – Küstenlagunen.",
+      "factsAdvanced": [
+        "Dieses Lagunensystem erstreckt sich über viele Kilometer entlang der Gaza-Küste.",
+        "Bekannte Seen in diesem System sind der Bilene-See und der Nhambavale-See.",
+        "Der Bilene-See ist durch einen Kanal mit dem Meer verbunden.",
+        "Die Lagunen sind ein Paradies für Vogelbeobachter, mit Flamingos, Pelikanen und vielen Watvögeln.",
+        "Sie sind ein beliebtes Wochenendausflugsziel für Einwohner von Maputo.",
+        "Der Salzgehalt der Seen variiert je nach Süßwasserzufluss und Meerwasserübertritt.",
+        "Die umliegenden Dünenwälder sind wichtig für die Stabilisierung der Küste.",
+        "Die Fischerei in den Lagunen ist eine wichtige Lebensgrundlage für die lokalen Gemeinschaften."
+      ]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "descriptionAdvanced": "Die Insel Bangue ist eine kleine, idyllische Insel, die Teil des Bazaruto-Archipels ist. Sie liegt südlich der Hauptinsel Bazaruto und ist bekannt für ihre unberührten Strände und das klare Wasser, das sie umgibt. Die Insel ist unbewohnt und bietet ein authentisches Gefühl von Abgeschiedenheit und unberührter Natur. Sie ist von Korallenriffen umgeben, die sich hervorragend zum Schnorcheln und Tauchen eignen. Als Teil des Bazaruto-Nationalparks ist die Insel und ihre marine Umgebung streng geschützt. Sie ist ein Beispiel für die kleinen, aber ökologisch wichtigen Sandinseln, die das Archipel ausmachen. Inselökologie K8.",
+      "factsAdvanced": [
+        "Die Insel gehört zum Bazaruto-Archipel-Nationalpark.",
+        "Sie ist unbewohnt und hat keine touristische Infrastruktur.",
+        "Die umliegenden Korallenriffe sind reich an marinem Leben.",
+        "Die Insel ist ein beliebtes Ziel für Tagesausflüge von Vilanculos aus.",
+        "Sie ist ein wichtiger Nistplatz für Seevögel.",
+        "Ihre Sandstrände sind auch Nistplätze für Meeresschildkröten.",
+        "Die Insel ist nur per Boot erreichbar.",
+        "Die Form der Insel wird ständig durch die Meeresströmungen geformt."
+      ]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "descriptionAdvanced": "Das Nampula-Waldgebiet bezieht sich auf die ausgedehnten Miombo-Wälder, die große Teile der Provinz Nampula bedecken. Diese Wälder sind keine dichten Regenwälder, sondern offene, laubabwerfende Wälder, die an die saisonalen Trockenzeiten angepasst sind. Sie sind ein entscheidender Teil des ländlichen Lebens, da sie Bauholz, Brennholz, Holzkohle und traditionelle Medizin liefern. Die Wälder sind auch Lebensraum für eine Vielzahl von Tieren, obwohl die Populationen großer Säugetiere durch den Jagddruck zurückgegangen sind. Der Schutz dieser Wälder ist eine große Herausforderung, da sie durch landwirtschaftliche Expansion und Holzeinschlag bedroht sind. Forstwirtschaft K7.",
+      "factsAdvanced": [
+        "Miombo-Wald bedeckt große Teile des zentralen und nördlichen Mosambiks.",
+        "Diese Wälder werden von Bäumen der Gattungen Brachystegia und Julbernardia dominiert.",
+        "Sie sind an regelmäßige Brände während der Trockenzeit angepasst.",
+        "Über 80% der ländlichen Bevölkerung in der Region sind von diesen Wäldern abhängig.",
+        "Die Holzkohleproduktion für städtische Zentren ist eine Hauptursache für die Entwaldung.",
+        "Die Wälder sind reich an Vogelarten, darunter mehrere endemische Miombo-Spezialisten.",
+        "Die charakteristischen Granit-Inselberge ragen aus den Wäldern empor.",
+        "Gemeindebasierte Waldbewirtschaftungsprojekte versuchen, die Nutzung nachhaltiger zu gestalten."
+      ]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "descriptionAdvanced": "Der Mount Songo ist ein Berg, der die gleichnamige Stadt und den Cahora-Bassa-Stausee in der Provinz Tete überblickt. Die Stadt Songo wurde in den späten 1960er Jahren auf dem Bergplateau erbaut, um die Arbeiter und Ingenieure unterzubringen, die den Cahora-Bassa-Staudamm bauten. Der Berg bietet ein kühleres und angenehmeres Klima als das extrem heiße Sambesi-Tal darunter. Von seinen Hängen hat man eine spektakuläre Aussicht auf den riesigen Stausee und den Damm. Die Vegetation ist eine Mischung aus Savanne und Wald, und die Gegend ist ein beliebtes Ziel für Wanderer und Einheimische. Stadtplanung K8.",
+      "factsAdvanced": [
+        "Die Stadt Songo liegt auf einer Höhe von etwa 1.000 Metern.",
+        "Der Berg bietet einen Panoramablick auf den Cahora-Bassa-See.",
+        "Er wurde als Standort für die Dammbau-Siedlung wegen seines kühleren Klimas gewählt.",
+        "Die Architektur von Songo ist ein Beispiel für modernistische Planung der 1960er Jahre.",
+        "Wanderwege führen zu verschiedenen Aussichtspunkten auf dem Berg.",
+        "Die Flora auf dem Berg unterscheidet sich deutlich von der im Sambesi-Tal.",
+        "Der Berg ist über eine gut ausgebaute, kurvenreiche Straße erreichbar.",
+        "In der Nähe befindet sich ein Flugplatz, der die Region bedient."
+      ]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "descriptionAdvanced": "Die Lupata-Schlucht ist ein dramatischer, etwa 32 Kilometer langer Engpass des Sambesi-Flusses in der Provinz Tete. Hier zwängt sich der mächtige Fluss durch eine enge Schlucht aus hartem Vulkangestein. Die steilen, felsigen Klippen schaffen eine beeindruckende und wilde Landschaft. Die Schlucht war historisch ein bedeutendes Hindernis für die Schifffahrt und ein strategischer Kontrollpunkt. Der Entdecker David Livingstone beschrieb sie als einen der schwierigsten Abschnitte seiner Sambesi-Reise. Die Geologie der Schlucht ist bemerkenswert und zieht Geologen aus aller Welt an. Geomorphologie K9.",
+      "factsAdvanced": [
+        "Die Schlucht ist ungefähr 32 Kilometer lang.",
+        "Sie besteht aus Karoo-Rhyolithen, einem widerstandsfähigen Vulkangestein.",
+        "Der Name 'Lupata' bedeutet 'enge Passage' oder 'Schlucht'.",
+        "Die Schlucht ist für ihre Stromschnellen und gefährlichen Strömungen bekannt.",
+        "Sie liegt flussabwärts des Cahora-Bassa-Staudamms.",
+        "Die Felsen der Schlucht enthalten interessante Mineralien, darunter Achat und Fluorit.",
+        "Die Ufer sind Heimat von Pavianen und Klippspringern.",
+        "Die Schlucht ist ein eindrucksvolles Beispiel für fluviale Erosion in hartem Gestein."
+      ]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "descriptionAdvanced": "Der Macossa-Wald ist ein wichtiges Waldgebiet in der zentralen Provinz Manica. Er ist Teil des Mosaiks aus Savannen, Wäldern und landwirtschaftlichen Flächen, das für diese Region typisch ist. Der Wald ist ein wichtiger Lebensraum für die lokale Tierwelt und eine entscheidende Ressource für die umliegenden Gemeinden, die ihn für Bauholz, Brennstoff und nicht-forstwirtschaftliche Produkte nutzen. Der Schutz des Macossa-Waldes ist wichtig für die Erhaltung der Biodiversität und die Stabilisierung der lokalen Wasserkreisläufe. Der Wald ist durch die Ausdehnung der Landwirtschaft und illegale Abholzung bedroht. Ökologie K6 – Waldressourcen.",
+      "factsAdvanced": [
+        "Der Wald liegt im Distrikt Macossa in der Provinz Manica.",
+        "Er ist ein Beispiel für einen Miombo-Trockenwald.",
+        "Der Wald bietet Lebensraum für Antilopen, Affen und eine Vielzahl von Vögeln.",
+        "Die lokale Bevölkerung ist für ihren Lebensunterhalt stark vom Wald abhängig.",
+        "Brandrodung für die Landwirtschaft ist eine große Bedrohung.",
+        "Gemeindebasierte Naturschutzprogramme versuchen, den Wald nachhaltig zu bewirtschaften.",
+        "Der Wald spielt eine Rolle bei der Regulierung des lokalen Klimas.",
+        "Er ist Teil des größeren ostafrikanischen Miombo-Wald-Ökosystems."
+      ]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "descriptionAdvanced": "Der Massingir-See ist ein großer Stausee, der durch den Massingir-Damm am Olifants-Fluss (in Mosambik als Rio dos Elefantes bekannt) in der Provinz Gaza entstanden ist. Der See ist ein entscheidender Bestandteil des Great Limpopo Transfrontier Park, da er Wasser für die Tierwelt in dieser trockenen Region liefert. Er ist ein wichtiger Lebensraum für große Populationen von Flusspferden und Krokodilen. Der See ist jedoch auch umstritten, da sein Bau zur Umsiedlung von Tausenden von Menschen führte und die flussabwärts gelegenen Ökosysteme veränderte. Wasserbau und Soziales K9.",
+      "factsAdvanced": [
+        "Der Massingir-Damm wurde 1977 fertiggestellt.",
+        "Der See liegt an der Ostgrenze des Limpopo-Nationalparks.",
+        "Er ist die Hauptwasserquelle für den Limpopo-Nationalpark.",
+        "Tausende von Krokodilen leben im See, was ihn zu einem der krokodilreichsten Gewässer Afrikas macht.",
+        "Der Damm wurde gebaut, um Wasser für die Bewässerung im Limpopo-Tal zu liefern.",
+        "Die Umsiedlung der lokalen Gemeinschaften war ein großes soziales Problem.",
+        "Der See ist ein wichtiger Ort für die Fischerei.",
+        "Die Dammwand wurde kürzlich saniert, um ihre Sicherheit zu erhöhen."
+      ]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "descriptionAdvanced": "Der Mount Moamba ist Teil der Lebombo-Bergkette und erhebt sich in der Nähe der Stadt Moamba in der Provinz Maputo. Obwohl er nicht extrem hoch ist, stellt er in der ansonsten flachen bis sanft hügeligen Landschaft ein markantes Merkmal dar. Der Berg und seine Umgebung sind von landwirtschaftlichen Flächen und Savannen geprägt. Er bietet Wander- und Erholungsmöglichkeiten für die Bewohner der nahegelegenen Hauptstadt Maputo. Geologisch gesehen ist der Berg Teil der vulkanischen Gesteinsformationen, die die Lebombo-Kette bilden. Regionale Geographie K5.",
+      "factsAdvanced": [
+        "Der Berg ist Teil der Lebombo-Bergkette.",
+        "Er liegt in der Nähe der Stadt Moamba, einem wichtigen Verkehrsknotenpunkt.",
+        "Die Vegetation ist typisch für die Lebombo-Region, eine Mischung aus Savanne und Dickicht.",
+        "Von den oberen Hängen hat man einen weiten Blick über das Incomati-Tal.",
+        "Die Region ist bekannt für ihre Rinderzucht.",
+        "Der Berg ist über die Hauptstraße EN4 von Maputo aus leicht zu erreichen.",
+        "Geologisch besteht er aus Rhyolith aus der Jurazeit.",
+        "Die Nähe zur südafrikanischen Grenze macht die Region wirtschaftlich dynamisch."
+      ]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "descriptionAdvanced": "Der Savane-See ist eine Küstenlagune in der Provinz Sofala, nördlich der Stadt Beira. Er ist Teil eines Komplexes von Feuchtgebieten und Lagunen, die für die Küstenökologie dieser Region von entscheidender Bedeutung sind. Der See ist ein brackiges Gewässer, dessen Salzgehalt je nach Süßwasserzufluss und Gezeiten variiert. Er ist ein wichtiger Lebensraum für Wasservögel, darunter Pelikane und Flamingos, und dient als Kinderstube für viele Fisch- und Garnelenarten. Die umliegenden Mangroven und Feuchtwiesen sind wichtig für den Küstenschutz und die lokale Fischerei. Feuchtgebietsökologie K7.",
+      "factsAdvanced": [
+        "Der See liegt in der Nähe des Indischen Ozeans in der Provinz Sofala.",
+        "Er ist ein wichtiges Gebiet für die Vogelbeobachtung.",
+        "Die lokale Fischerei ist stark vom Gesundheitszustand des Sees abhängig.",
+        "Die Wasserstände schwanken saisonal.",
+        "Mangrovenwälder säumen Teile des Ufers.",
+        "Die Lagune ist durch die nahe gelegene Infrastrukturentwicklung potenziell gefährdet.",
+        "Sie ist ein Beispiel für die vielen Küstenfeuchtgebiete, die für Mosambiks Fischerei entscheidend sind.",
+        "Das Gebiet ist relativ unzugänglich und daher wenig touristisch erschlossen."
+      ]
+    }
+  ]
+}

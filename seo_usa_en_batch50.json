@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-okeechobee-nature-v2",
+      "descriptionAdvanced": "Lake Okeechobee, in Florida, is the second-largest freshwater lake located entirely within the contiguous United States. Often called the 'Liquid Heart of Florida,' it is a shallow, sprawling wetland that serves as the central hydrological regulator for the entire Everglades ecosystem. Historically, the lake was naturally connected to a massive expanse of southern wetlands, but intensive agricultural development, urbanization, and a massive dike system have fundamentally altered its natural water-flow patterns and nutrient balance. Today, Okeechobee is a critical focal point for scientific research into large-scale ecosystem restoration, nutrient management, and the challenge of balancing urban flood control with the urgent need to restore the Everglades' historic, sustainable water supply. Biologie K7 — Wetland hydrology and ecosystem restoration.",
+      "factsAdvanced": [
+        "Second-largest freshwater lake entirely within the contiguous United States.",
+        "Functionally serves as the 'Liquid Heart' and hydrological center of the Everglades.",
+        "Natural water-flow patterns have been severely altered by massive levee systems.",
+        "Major study site for large-scale nutrient management and ecosystem restoration.",
+        "Critical conflict point between urban flood protection and Everglades water supply.",
+        "Essential to the ongoing regional project to restore historic wetland hydrology."
+      ]
+    },
+    {
+      "id": "santa-catalina-island-nature-v2",
+      "descriptionAdvanced": "Santa Catalina Island, located 22 miles off the coast of Southern California, is a semi-isolated maritime environment that hosts a striking number of endemic species found nowhere else on Earth, including unique island foxes and Catalina ironwood trees. The island’s rugged, high-relief topography and maritime climate create a distinct, fragile ecosystem that has evolved in isolation from the mainland. Managed largely for conservation by the Catalina Island Conservancy, the island serves as a vital natural laboratory for studying island biogeography, climate-driven species evolution, and the ongoing challenges of invasive-species management in a small-scale, fragile habitat. Today, it stands as a celebrated landmark for preserving unique island biodiversity while balancing the economic pressures of island-based recreation and coastal tourism. Biologie K7 — Island biogeography and endemic biodiversity.",
+      "factsAdvanced": [
+        "Semi-isolated maritime ecosystem hosting numerous endemic plant and animal species.",
+        "Home to unique fauna like the distinct Catalina island fox.",
+        "High-relief rugged topography and maritime climate support rare biomes.",
+        "Managed as a critical conservation preserve by the Catalina Island Conservancy.",
+        "Serves as a vital natural laboratory for studying island-based species evolution.",
+        "A celebrated example of island biodiversity protection versus tourism pressure."
+      ]
+    },
+    {
+      "id": "missouri-river-nature-v2",
+      "descriptionAdvanced": "The Missouri River, the longest river in the United States, winds 2,341 miles from its headwaters in the Rocky Mountains across the Great Plains to its confluence with the Mississippi River near St. Louis. It is the fundamental arterial backbone of the American heartland, providing essential water for agriculture, navigation, and power generation for millions of people and vast swathes of farmland. Like the Colorado, the Missouri’s flow is drastically altered by one of the most extensive systems of dams and reservoirs in the nation, which were built to control flooding and stabilize water supply but have fundamentally transformed its native aquatic habitats. Today, the river is a major study site for balancing large-scale industrial use, flood risk management, and the ecological restoration of North America’s most complex river arterial systems. Geografie K8 — River arterial management and industrial infrastructure.",
+      "factsAdvanced": [
+        "Longest river in the United States, flowing over 2,300 miles from the Rockies.",
+        "Fundamental backbone of the American heartland's water, navigation, and power.",
+        "Flow is drastically altered by one of the largest systems of dams and reservoirs.",
+        "Dams were built to manage massive floods and stabilize inland agricultural water.",
+        "The river system is a major laboratory for balancing industrial use with ecology.",
+        "Essential focus for ongoing projects to restore native aquatic arterial habitats."
+      ]
+    }
+  ]
+}

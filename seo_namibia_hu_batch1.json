@@ -1,0 +1,315 @@
+{
+  "lang": "hu",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "walvis-bay-cities-v2",
+      "descriptionAdvanced": "Walvis Bay Namíbia legfontosabb kikötővárosa, amely egy mélyvízi öböl partján fekszik az Atlanti-óceán partvidékén. A város hosszú ideig dél-afrikai fennhatóság alatt állt, és csak 1994-ben csatolták vissza hivatalosan Namíbiához. Gazdasága nagymértékben függ a tengeri kereskedelemtől, a halászattól és a tengeri só lepárlásától, melyből évente hatalmas mennyiséget exportálnak. A várost övező sekély vizű lagúnák rendkívül gazdag madárvilágnak adnak otthont, különösen a flamingók és pelikánok ezrei jelentenek lenyűgöző látványt. A helyi tengeri ökoszisztéma megfigyelése mellett népszerűek a dűnés szafarik a közeli Namíb-sivatag homokdűnéi között. Földrajz K7 — kikötők és tengeri kereskedelem",
+      "factsAdvanced": [
+        "Namíbia legnagyobb mélyvízi kikötője",
+        "1994. február 28-án került vissza Namíbia irányítása alá",
+        "A helyi sólepárlók Afrika legnagyobbjai közé tartoznak",
+        "Évente több tízezer flamingó gyűlik össze a lagúnában",
+        "A város lakossága meghaladja a 62 000 főt",
+        "Számos hajózási útvonal kulcsfontosságú állomása a dél-afrikai régióban"
+      ]
+    },
+    {
+      "id": "swakopmund-cities-v2",
+      "descriptionAdvanced": "Swakopmund Namíbia legismertebb tengerparti üdülővárosa, amelyet 1892-ben alapítottak német telepesek a Namíb-sivatag és az Atlanti-óceán találkozásánál. A város arculatát a mai napig meghatározza az egykori gyarmati építészet, például a Hohenzollern-ház és az 1902-ben épült világítótorony. Kellemes, mérsékelt óceáni éghajlata miatt a belföldi és külföldi turisták kedvelt célpontja, különösen a forró nyári hónapokban. Swakopmund a kalandturizmus központja is; népszerűek a dűnés motorozások, a sivatagi szafarik és a homokdeszkázás (sandboarding). Bár a tenger vize a Benguela-áramlat miatt hideg, a tengerparti sétányok lenyűgöző élményt nyújtanak. Történelem K8 — afrikai gyarmatosítás",
+      "factsAdvanced": [
+        "1892-ben alapította Curt von François német őrnagy",
+        "A Namíb-sivatag homokdűnéi veszik körül",
+        "Jelentős német ajkú kisebbség él a városban",
+        "A híres Swakopmundi Világítótorony 21 méter magas",
+        "Éghajlatát a hideg Benguela-áramlat hűsíti",
+        "A namíbiai kalandturizmus legfontosabb központja"
+      ]
+    },
+    {
+      "id": "oshakati-cities-v2",
+      "descriptionAdvanced": "Oshakati Namíbia északi részének legnagyobb és legfontosabb kereskedelmi központja, amely az Omusati, Oshana, Ohangwena és Oshikoto régiók alkotta "Négy O" területen fekszik. A város az 1960-as évek közepén indult gyors fejlődésnek, eleinte dél-afrikai katonai bázisként funkcionált, de mára egy nyüzsgő, gyorsan urbanizálódó településsé vált. Az esős évszakban a közeli oshana nevű sekély mélyedések megtelnek vízzel, ami drasztikusan átalakítja a helyi tájat és jelentősen befolyásolja a mezőgazdaságot. Gazdasága főként a kiskereskedelemre, szolgáltatásokra és a hagyományos pásztorkodó gazdálkodásból származó bevételekre épül. Földrajz K8 — afrikai urbanizáció",
+      "factsAdvanced": [
+        "Namíbia északi régiójának legnépesebb városa",
+        "Az 1966-ban alapított település gyors gazdasági fejlődést ért el",
+        "A helyi lakosság jelentős része az owambo népcsoporthoz tartozik",
+        "Az esős évszakban a környező időszakos tavak (oshanák) meghatározzák a tájat",
+        "Fontos közlekedési és kereskedelmi csomópont az angolai határ felé",
+        "Lakossága dinamikusan növekszik, túllépve a 36 000 főt"
+      ]
+    },
+    {
+      "id": "rehoboth-cities-v2",
+      "descriptionAdvanced": "Rehoboth Közép-Namíbiában, Windhoektól mintegy 90 kilométerre délre található történelmi jelentőségű város. A települést 1871-ben alapították a Baster közösség tagjai, akik a Fokföldről vándoroltak északra egy új haza reményében. A város mind a mai napig a Baster kultúra kulturális és közigazgatási központjának számít, ami egyedi identitást ad a helynek. A környéken termálvízforrások is fakadnak, amelyek a múltban és napjainkban is vonzzák a látogatókat. Rehoboth gazdaságát a mezőgazdaság, különösen a juh- és kecsketenyésztés, valamint a fővároshoz való közelsége miatti szolgáltató szektor határozza meg. Történelem K7 — dél-afrikai népmozgások",
+      "factsAdvanced": [
+        "A Baster közösség 1871-ben telepedett le a régióban",
+        "A helyi forró vizű források miatt kapta nevét",
+        "A Basterek különleges, félig afrikai, félig európai származású népcsoport",
+        "A város Windhoek jelentős gazdasági vonzáskörzetében helyezkedik el",
+        "A város lakossága nagyjából 28 000 fő",
+        "Fontos állomás a Dél-Afrikába vezető B1-es főúton"
+      ]
+    },
+    {
+      "id": "katima-mulilo-cities-v2",
+      "descriptionAdvanced": "Katima Mulilo a Zambézi régió (korábban Caprivi-sáv) közigazgatási és gazdasági központja, mely a Zambézi folyó partján fekszik, Namíbia legészakkeletibb csücskében. A város buja trópusi környezete és bőséges csapadékmennyisége éles kontrasztban áll az ország nagy részét jellemző sivatagos tájakkal. 2004-ben adták át a Zambézi folyót átívelő Katima Mulilo hidat, amely stratégiai kereskedelmi útvonalat nyitott Zambia és a környező országok felé. A helyi gazdaság alapját a határmenti kereskedelem, a halászat és az egyre növekvő ökoturizmus képezi, mivel a régió gazdag elefánt- és víziló-populációval rendelkezik. Földrajz K8 — határokon átnyúló folyók",
+      "factsAdvanced": [
+        "A Zambézi folyó partján fekszik, Zambia határánál",
+        "A régió éves csapadékmennyisége jelentősen meghaladja az országos átlagot",
+        "A 2004-ben épült 900 méter hosszú híd köti össze Zambiával",
+        "Környezete trópusi és szubtrópusi növényzettel borított",
+        "Fontos tranzitállomás a Walvis Bay–Ndola–Lubumbashi fejlesztési folyosón",
+        "Számos nemzeti park és vadvédelmi terület kapuja"
+      ]
+    },
+    {
+      "id": "ondangwa-cities-v2",
+      "descriptionAdvanced": "Ondangwa egy másik kulcsfontosságú város Észak-Namíbiában, az Oshana régióban, mintegy 30 kilométerre délkeletre Oshakatitól. A város történelmileg az ország egyik legfontosabb missziós és adminisztratív központja volt a 19. század végétől. Ma nyüzsgő kereskedelmi csomópont, amely egyre több modern bevásárlóközponttal és ipari parkkal bővül, kiszolgálva a sűrűn lakott északi térséget. Az Ondangwa repülőtér fontos logisztikai kapu, amely belföldi járatokat biztosít Windhoek felé, megkönnyítve az üzleti és magáncélú utazásokat egyaránt. Földrajz K7 — infrastruktúra és közlekedés",
+      "factsAdvanced": [
+        "A finn misszionáriusok már az 1870-es években tevékenykedtek a régióban",
+        "Az ország északi részének egyik legforgalmasabb repülőtere található itt",
+        "Fontos vasúti végállomás lett az északi vonalhálózat bővítésével",
+        "Lakossága meghaladja a 22 000 főt",
+        "Gazdasága szorosan összefonódik a szomszédos Oshakati városával",
+        "A hagyományos omahangu (köles) termesztés központi piaca"
+      ]
+    },
+    {
+      "id": "okahandja-cities-v2",
+      "descriptionAdvanced": "Okahandja egy fontos történelmi és közlekedési csomópont Közép-Namíbiában, körülbelül 70 kilométerre északra Windhoektól. A város a Herero nép tradicionális központja, ahol minden év augusztusában megemlékeznek történelmi vezetőikről a Herero-napon. Okahandja híres a hatalmas fafaragó piacáról is, amely az ország minden részéből vonzza a kézműveseket, kiváló minőségű fa szobrokat és maszkokat kínálva a turistáknak. Két jelentős folyó, a Swakop és az Okahandja folyó találkozásánál fekszik, és stratégiai fekvése miatt a tengerpartra és az északi országrészbe tartó utazók kedvelt megállóhelye. Történelem K8 — afrikai törzsi történelem",
+      "factsAdvanced": [
+        "A Herero nép spirituális és történelmi fővárosának tartják",
+        "Több jelentős Herero vezető, köztük Maharero főnök nyughelye",
+        "Két nagy nyílt fafaragó piac is működik a településen",
+        "A város nevét a Swakop folyó kiszélesedő medréről kapta",
+        "Fontos ipari központ, itt található az ország egyik legnagyobb vágóhídja",
+        "Népessége megközelítőleg 24 000 fő"
+      ]
+    },
+    {
+      "id": "keetmanshoop-cities-v2",
+      "descriptionAdvanced": "Keetmanshoop Namíbia déli részének, a Karas régiónak a legnagyobb városa és közigazgatási központja. A település egy német üzletemberről, Johann Keetmanról kapta a nevét, aki jelentős összeggel támogatta az itteni misszió megalapítását a 19. század közepén. A várost a száraz, kietlen Karoo táj veszi körül, hírnevét pedig leginkább a közelben található lenyűgöző Tegezfa-erdő (Quiver Tree Forest) adja, ahol több száz ősi, aloé fafajta él. Gazdasága nagyrészt a kiterjedt karakuljuh-tenyésztésen alapszik, de fontos szerepet tölt be a Dél-Afrikát Namíbiával összekötő tranzitútvonalak csomópontjaként is. Földrajz K8 — sivatagi növényzet és alkalmazkodás",
+      "factsAdvanced": [
+        "1866-ban alapították a Rajnai Missziós Társaság segítségével",
+        "A város nevét Johann Keetman német bankárról kapta",
+        "A közeli Tegezfa-erdő 1995-ben kapott nemzeti műemléki védelmet",
+        "A régió klímája rendkívül száraz, nagy napi hőingadozásokkal",
+        "A Karakuljuh tenyésztésének központja Namíbiában",
+        "Népessége körülbelül 20 000 fő"
+      ]
+    },
+    {
+      "id": "tsumeb-cities-v2",
+      "descriptionAdvanced": "Tsumeb Namíbia északi részén található, a hírhedt réz- és ásványkincsekben gazdag "rézháromszög" egyik legfontosabb városa. A várost az 1900-as évek elején alapították a fellendülő bányászat kiszolgálására, és az évtizedek során a világ egyik leghíresebb ásványlelőhelyévé vált, ahol eddig több mint 200 különböző, ritka ásványt azonosítottak. A bányászat, bár napjainkban csökkenő jelentőségű, továbbra is meghatározza a város arculatát, amelyet a rézkohó hatalmas kéménye dominál. A település egyben fontos turisztikai kapu is a népszerű Etosha Nemzeti Park keleti bejárata felé. Kémia K8 — ásványok és ércek",
+      "factsAdvanced": [
+        "Több mint 243 különböző ásványtípust fedeztek fel a helyi bányában",
+        "A Tsumeb Múzeum gazdag helytörténeti és ásványtani gyűjteménnyel rendelkezik",
+        "1905-ben alapították a német gyarmati időszak alatt",
+        "A városi kohó jelenleg is fontos szerepet játszik az ércfeldolgozásban",
+        "Az Etosha Nemzeti Park keleti kapuja (Von Lindequist Gate) közelében fekszik",
+        "Lakossága nagyjából 19 000 fő"
+      ]
+    },
+    {
+      "id": "gobabis-cities-v2",
+      "descriptionAdvanced": "Gobabis Kelet-Namíbiában, az Omaheke régió központjában fekszik, és az ország marhatenyésztésének legfőbb fellegvára. A város a Botswana felé vezető Trans-Kalahari útvonal fontos állomása, ami kiemelt kereskedelmi és tranzit csomóponttá teszi. A település bejáratánál egy hatalmas bika szobra hirdeti a régió mezőgazdasági profilját és a szarvasmarha-tenyésztésből származó büszkeségét. Gobabis történelmileg több különböző népcsoport – hererók, namák, sanok és búr telepesek – találkozóhelye, ami gazdag, többnemzetiségű kulturális életet eredményezett. Földrajz K7 — állattenyésztés a félsivatagban",
+      "factsAdvanced": [
+        "A 'Kelet Fővárosaként' és a 'Marhák Városaként' is ismert",
+        "A város nevét 1856-ban kapta a területen tevékenykedő misszionáriusoktól",
+        "Kiemelt tranzitállomás a Namíbia és Botswana közötti B6-os autópályán",
+        "Környezetét nagyrészt félsivatagos, füves szavanna alkotja",
+        "Az Omaheke régió adminisztratív székhelye",
+        "Népessége mintegy 19 000 fő"
+      ]
+    },
+    {
+      "id": "grootfontein-cities-v2",
+      "descriptionAdvanced": "Grootfontein egy jelentős bányászati és mezőgazdasági város Észak-Namíbiában, a híres Otavi-hegység lábánál. A település nevét – mely afrikaans nyelven 'nagy forrást' jelent – a közelben fakadó bőséges vízforrásról kapta, ami dús növényzetet biztosít a város számára az egyébként száraz környezetben. Grootfontein a 'rézháromszög' egyik csúcsa, de legismertebb nevezetessége a várostól mintegy 24 kilométerre található Hoba-meteorit, amely a Földön valaha talált legnagyobb egyben maradt meteorit. A város katonai szempontból is kulcsfontosságú, hiszen itt található az ország egyik legnagyobb légitámaszpontja. Csillagászat K8 — meteoritok",
+      "factsAdvanced": [
+        "A város neve 'Nagy forrást' jelent az afrikaans nyelvben",
+        "A Hoba-meteorit a maga 60 tonnájával a legnagyobb a világon",
+        "A 'rézháromszög' (Tsumeb, Otavi, Grootfontein) keleti csúcsa",
+        "1896-ban alapították a Délnyugat-afrikai Társaság telepeseként",
+        "Fontos katonai légibázissal (Grootfontein Air Force Base) rendelkezik",
+        "Lakossága meghaladja a 16 000 főt"
+      ]
+    },
+    {
+      "id": "luderitz-cities-v2",
+      "descriptionAdvanced": "Lüderitz egy történelmi kikötőváros Namíbia déli partvidékén, amelyet az Atlanti-óceán zord hullámai és a Namíb-sivatag sivár homokdűnéi fognak közre. A várost 1883-ban alapította Adolf Lüderitz német kereskedő, és az ország egyik legrégebbi gyarmati települése, ami a jellegzetes, élénk színű, bajor stílusú épületeiben is tükröződik. Bár a kikötő sekély vize korlátozza a modern hajózást, a város virágzó halásziparral, különösen homár- és osztrigahalászattal rendelkezik. A közeli Kolmanskop szellemváros – egy egykori gyémántbányász település, amelyet mára félig betemetett a homok – a régió egyik legnagyobb turisztikai attrakciója. Történelem K8 — gyarmati építészet és történelem",
+      "factsAdvanced": [
+        "1883-ban alapították, így az egyik legrégebbi város Namíbiában",
+        "Nevét Adolf Lüderitz brémai kereskedőről kapta",
+        "Híres bajor stílusú, Art Nouveau (Jugendstil) épületeiről",
+        "A közeli partvidék gazdag homár- és osztrigatelepekben",
+        "A város mellett fekszik a híres Kolmanskop (Kolmanskuppe) szellemváros",
+        "Népessége hozzávetőleg 12 500 fő"
+      ]
+    },
+    {
+      "id": "mariental-cities-v2",
+      "descriptionAdvanced": "Mariental a Hardap régió közigazgatási központja Namíbia déli-középső részén, a Fish folyó közelében. A várostól mindössze 20 kilométerre északnyugatra található a Hardap-gát, Namíbia legnagyobb víztározója, amely elengedhetetlen a helyi mezőgazdaság, különösen a lucerna-, szőlő- és gyapottermesztés öntözéséhez. Mariental emellett az ország strucctenyésztésének központja is, amellyel egyedülálló hús- és bőripari termékeket állítanak elő. A forró sivatagi környezetben fekvő település fontos tranzitpont a B1-es főúton, összekötve a fővárost, Windhoeket a déli országrésszel és Dél-Afrikával. Földrajz K7 — gátak és vízgazdálkodás",
+      "factsAdvanced": [
+        "A Hardap régió adminisztratív székhelye",
+        "Közelében fekszik a 25 négyzetkilométeres Hardap-gát",
+        "Namíbia legnagyobb strucctenyésztő területe",
+        "Jelentős lucerna-, kukorica- és szőlőültetvények találhatók a környékén",
+        "A várost egy német misszionárius feleségéről, Mariáról nevezték el",
+        "Lakossága nagyjából 10 000 fő"
+      ]
+    },
+    {
+      "id": "outjo-cities-v2",
+      "descriptionAdvanced": "Outjo egy festői mezőgazdasági kisváros Namíbia északnyugati részén, amelyet gyakran emlegetnek az Etosha Nemzeti Park déli kapujaként. A települést német csapatok alapították 1897-ben egy katonai helyőrség részeként, melynek emléke a város központjában álló ikonikus Franke-ház. Gazdaságának pillérei a szarvasmarha- és vadtenyésztés, valamint az Etoshába igyekvő turisták kiszolgálása. A város nyugodt, zöldellő utcákkal, hangulatos pékségekkel és vendégházakkal rendelkezik, és kiváló kiindulópont Damaraland lenyűgöző sziklaképződményeinek felfedezéséhez. Földrajz K7 — turisztikai útvonalak",
+      "factsAdvanced": [
+        "Az Etosha Nemzeti Park Andersson-kapuja közelében található",
+        "1897-ben alapította Theodor von Leutwein német katonatiszt",
+        "Híres az ősi Franke-házról, amely ma múzeum",
+        "A régió szarvasmarha- és vadtenyésztési központja",
+        "Kiváló megállóhely Damaraland és a Kaokoveld felé vezető utakon",
+        "Népessége körülbelül 8 500 fő"
+      ]
+    },
+    {
+      "id": "karasburg-cities-v2",
+      "descriptionAdvanced": "Karasburg Namíbia mélydéli részén fekszik, és a Karas régió egyik legfontosabb logisztikai csomópontja a dél-afrikai határ közelében. A város főként a vasúti teherforgalom és a tehergépjárművek átkelőhelyeként játszik kulcsszerepet az országos közlekedési hálózatban. Bár a környező vidék száraz és kopár, a Karakul-juh tenyésztése életképes mezőgazdasági ágazatot jelent a helyi gazdák számára. A település fontos tranzitállomás a híres Fish River Canyon, a világ második legnagyobb kanyonja felé tartó utazók számára is. Földrajz K8 — határmenti logisztika",
+      "factsAdvanced": [
+        "Korábbi neve Kalkfontein volt",
+        "Fontos csomópontja a Dél-Afrikába tartó vasúti és közúti forgalomnak",
+        "Gazdaságát a juh- és kecsketenyésztés dominálja",
+        "A híres Fish River Canyon déli megközelítési útvonalán fekszik",
+        "Éghajlata sivatagi, rendkívül forró nyarakkal",
+        "Lakossága mindössze 4 500 fő körüli"
+      ]
+    },
+    {
+      "id": "karibib-cities-v2",
+      "descriptionAdvanced": "Karibib egy apró, de ásványtanilag annál jelentősebb bányászváros az Erongo régióban, a Swakopmund és Windhoek közötti B2-es főút mentén. A város világszerte ismert a közeli Navachab-aranybányáról, amely Namíbia legfontosabb nyílt színi aranybányája. Emellett a település híres a környéken fejtett kiváló minőségű, sötét tónusú márványról, amelyet a világ számos pontjára exportálnak építészeti célokra. Karibib történelmi jelentőségét egykor az 1900-ban megépült vasútvonal adta, és számos régi, 20. század eleji kőépület őrzi a múlt emlékét. Kémia K8 — arany- és márványbányászat",
+      "factsAdvanced": [
+        "A közeli Navachab-bánya Namíbia egyetlen jelentős aranykitermelője",
+        "A karibibi sötét márvány világszerte elismert építőanyag",
+        "A Windhoek-Swakopmund vasútvonal egyik első állomása volt 1900-ban",
+        "Az Erongo-hegység közelsége rengeteg túrázót vonz",
+        "Számos épülete nemzeti műemléki védettséget élvez",
+        "Népessége nagyjából 5 000 fő"
+      ]
+    },
+    {
+      "id": "omaruru-cities-v2",
+      "descriptionAdvanced": "Omaruru egy kulturálisan és történelmileg gazdag kisváros az Erongo régióban, amelyet az időszakos Omaruru folyó fás, zöldellő partja tesz egyedivé. A város a művészetek központja, évente megrendezik az Omaruru Művészeti Fesztivált, amely országszerte vonzza az alkotókat. Történelmi szempontból a Franke-torony a legfőbb látványossága, amely az 1904-es herero felkelés alatt lezajlott omarurui csata emlékét őrzi. A település körül több borászat is működik – ami ritkaság Namíbiában –, valamint egy helyi csokoládégyár és egy kávépörkölő is gazdagítja a kulináris kínálatot. Történelem K8 — a Herero-háborúk emlékei",
+      "factsAdvanced": [
+        "1871-ben alapították rajnai misszionáriusok",
+        "A Franke-tornyot 1908-ban építették katonai emlékműként",
+        "Namíbia kevés bortermesztő vidékének egyike",
+        "Jelentős művészeti és kézműves közösséggel rendelkezik",
+        "A város nevét a helyi herero nyelvjárásból kapta",
+        "Népessége körülbelül 6 000 fő"
+      ]
+    },
+    {
+      "id": "otjiwarongo-cities-v2",
+      "descriptionAdvanced": "Otjiwarongo az Otjozondjupa régió gyorsan fejlődő fővárosa, melynek neve herero nyelven annyit tesz: 'gyönyörű hely'. A város stratégiai elhelyezkedése a B1-es autópályán – a főváros és a sűrűn lakott északi területek, valamint az Etosha Nemzeti Park között – jelentős tranzit- és kereskedelmi központtá emelte. Otjiwarongo kiemelkedő szerepet játszik a vadvédelemben is; a gepárdok megőrzésére fókuszáló Cheetah Conservation Fund központja a közelben található. A mezőgazdaság, különösen a marhatenyésztés, továbbra is a helyi gazdaság alappillére. Biológia K7 — nagymacskák védelme",
+      "factsAdvanced": [
+        "A Cheetah Conservation Fund (Gepárdvédelmi Alap) nemzetközi központja a közelben van",
+        "Az Otjozondjupa régió közigazgatási székhelye",
+        "Kiváló infrastruktúrával rendelkező kereskedelmi csomópont",
+        "1892-ben kötöttek itt békét a herero és nama törzsek",
+        "Namíbia legnagyobb krokodilfarmja is itt működik",
+        "Lakossága dinamikusan növekszik, mintegy 28 000 fő"
+      ]
+    },
+    {
+      "id": "eenhana-cities-v2",
+      "descriptionAdvanced": "Eenhana az Ohangwena régió adminisztratív központja Namíbia sűrűn lakott északi határvidékén, az angolai határ közelében. A település eredetileg katonai bázisként funkcionált a függetlenségi háború idején, ám az 1990-es évek óta rohamos fejlődésnek indult, és mára modern infrastruktúrával rendelkező várossá vált. A helyi gazdaság nagyrészt az agrárágazatra – különösen az omahangu (köles) termesztésére – és az egyre növekvő kiskereskedelemre épül. A város egyik legfontosabb látnivalója az Eenhana Szentély, amely a függetlenségi háborúban elesett katonák emlékét őrzi. Történelem K8 — afrikai függetlenségi háborúk",
+      "factsAdvanced": [
+        "Az Ohangwena régió gyorsan növekvő közigazgatási székhelye",
+        "A namíbiai függetlenségi háború egyik kulcsfontosságú katonai helyszíne volt",
+        "A 2008-ban felavatott Eenhana Shrine (Emlékmű) a nemzeti hősöknek állít emléket",
+        "Gazdasága szorosan kapcsolódik az angolai határkereskedelemhez",
+        "Környezetét trópusi fás szavanna borítja",
+        "Lakossága eléri a 10 000 főt"
+      ]
+    },
+    {
+      "id": "opuwo-cities-v2",
+      "descriptionAdvanced": "Opuwo a hatalmas és ritkán lakott Kunene régió (korábban Kaokoland) fővárosa, Namíbia északnyugati részén. A város egy igazi kulturális olvasztótégely, ahol a modern világ és a tradíciók látványosan találkoznak; az utcákon gyakran látni a hagyományos, vörös okkerrel kent bőrű himba és a színes ruházatú herero nép tagjait is. Opuwo a kiindulópontja a zord, de lenyűgöző Kaokoveld vidékének felfedezésére, és innen indulnak a túrák az Epupa-vízesés felé a Kunene folyón. Az infrastruktúra folyamatosan fejlődik, bár a város megőrizte nyers, határvidéki atmoszféráját. Földrajz K8 — afrikai etnikai csoportok",
+      "factsAdvanced": [
+        "A Kunene régió közigazgatási és logisztikai központja",
+        "A himba és herero kultúra egyik legfontosabb találkozási pontja",
+        "A név jelentése herero nyelven: 'a vég' vagy 'elég'",
+        "Kaput jelent a kietlen, sivatagi tájakkal borított Kaokoveld felé",
+        "Innen indulnak a turisták a Kunene folyó Epupa-vízeséséhez",
+        "Lakossága nagyjából 7 500 fő"
+      ]
+    },
+    {
+      "id": "ongwediva-cities-v2",
+      "descriptionAdvanced": "Ongwediva egy gyorsan modernizálódó város az északi Oshana régióban, amely szervesen egybeolvadt Oshakati és Ondangwa városaival, létrehozva Namíbia második legnépesebb agglomerációját. A város az ország egyik legfontosabb oktatási és egészségügyi központja, itt található a Namíbiai Egyetem (UNAM) mérnöki és informatikai campusa. Minden évben az Ongwediva Annual Trade Fair (OATF) üzleti kiállítás tízezreket vonz a régióból és a szomszédos országokból, megerősítve a település gazdasági súlyát. Az infrastruktúra, beleértve a bevásárlóközpontokat és az új lakóparkokat, dinamikusan bővül. Földrajz K8 — kereskedelmi vásárok jelentősége",
+      "factsAdvanced": [
+        "A Namíbiai Egyetem (UNAM) egyik fő kampusza itt működik",
+        "Minden augusztusban megrendezik az Ongwediva Éves Kereskedelmi Vásárt",
+        "A 'Négy O' régió üzleti és kulturális gócpontja",
+        "A település 1960-as évekbeli alapítása óta gyors urbanizációt élt meg",
+        "Fejlett orvosi intézményekkel és kórházakkal rendelkezik",
+        "Lakossága meghaladja a 20 000 főt"
+      ]
+    },
+    {
+      "id": "oranjemund-cities-v2",
+      "descriptionAdvanced": "Oranjemund egy egyedülálló, elszigetelt bányaváros Namíbia legdélebbi pontján, ahol az Oranje folyó az Atlanti-óceánba ömlik. Évtizedeken át zárt városként működött a Namdeb gyémántbányászati vállalat irányítása alatt, és csak 2017-ben nyitották meg teljesen a nyilvánosság előtt. A várost különleges ökológiai környezet övezi, gyakran lehet találkozni a parkokban legelésző vadon élő bejza-antilopokkal (oryx). Ahogy a gyémántkitermelés a szárazföldről egyre inkább a tenger felé tolódik, Oranjemund gazdaságilag is próbál nyitni a turizmus és az alternatív iparágak felé. Földrajz K7 — gyémántbányászat és zárt városok",
+      "factsAdvanced": [
+        "Az Oranje folyó torkolatánál, a dél-afrikai határon fekszik",
+        "1936-ban alapították a gyémántbányászok elszállásolására",
+        "Évtizedeken át szigorúan zárt, engedélyköteles zóna volt",
+        "2017-ben kapott hivatalos városi rangot és nyílt meg a turisták előtt",
+        "Vadon élő oryx antilopok kószálnak szabadon a város utcáin",
+        "Népessége körülbelül 4 000 fő, de a bányászat ingadozása befolyásolja"
+      ]
+    },
+    {
+      "id": "usakos-cities-v2",
+      "descriptionAdvanced": "Usakos egy csendes történelmi város a Windhoekot Swakopmunddal összekötő B2-es autópálya mentén, a fenséges Erongo-hegység árnyékában. A település aranykorát a 20. század elején élte, amikor kulcsfontosságú mozdonyjavító műhely volt a keskeny nyomtávú vasútvonalon, aminek emlékét egy régi gőzmozdony ma is őrzi a város központjában. Noha a vasúti ipar jelentősége csökkent, Usakos ma népszerű bázis a sziklamászók, geológusok és turisták számára, akik a közeli Spitzkoppe sziklaképződményeit és a helyi ásványlelőhelyeket látogatják. Történelem K8 — afrikai vasútépítés",
+      "factsAdvanced": [
+        "A kora 20. századi gőzmozdony-forgalom legfőbb karbantartó központja volt",
+        "A várost festői domborzat és az Erongo-hegység öleli körül",
+        "A híres Spitzkoppe sziklaalakzatok innen közelíthetők meg a legkönnyebben",
+        "Neve a damara nyelvből származik, utalva a víz bőségére a múltban",
+        "Számos német gyarmati stílusú épület található a településen",
+        "Lakossága nagyjából 3 000 fő"
+      ]
+    },
+    {
+      "id": "outapi-cities-v2",
+      "descriptionAdvanced": "Outapi, más néven Uutapi, az Omusati régió dinamikusan fejlődő közigazgatási központja Észak-Namíbiában, nem messze az angolai határtól. A város legfőbb nevezetessége az Ombalantu Baobab-fa, egy hatalmas, üreges törzsű, több mint 800 éves majomkenyérfa, amely a történelem során kápolnaként, postahivatalként és menedékhelyként is szolgált. Az esős évszakban a régió mezőgazdasága felvirágzik, és a hagyományos vízgazdálkodás (oshanák) kulcsszerepet játszik a lakosság megélhetésében. A modern bevásárlóközpontok megjelenése az elmúlt évtizedben jelentősen növelte a város gazdasági súlyát. Biológia K7 — afrikai fafajok és ökológia",
+      "factsAdvanced": [
+        "Az Omusati régió adminisztratív és kulturális székhelye",
+        "A hatalmas Ombalantu Baobab-fa több mint 28 méter kerületű",
+        "A baobab fát 1940-ben kápolnává alakították az olasz misszionáriusok",
+        "A helyi gazdaság nagyrészt a hagyományos pásztorkodáson alapul",
+        "A város gyors ütemű urbanizáción megy keresztül",
+        "Lakossága 2011-ben nagyjából 6 500 fő volt, de azóta jelentősen nőtt"
+      ]
+    },
+    {
+      "id": "helao-nafidi-cities-v2",
+      "descriptionAdvanced": "Helao Nafidi egy különleges státuszú, több település (köztük Oshikango, Ohangwena és Omafo) összeolvadásából létrejött határváros az Ohangwena régióban. Közvetlenül az angolai határon fekszik, így Namíbia egyik legforgalmasabb kereskedelmi és tranzit csomópontja, különösen a járművek és a fogyasztási cikkek exportja terén. A város nevét a namíbiai függetlenségi háború egyik mártírjáról, Helao Nafidiról kapta. Az angolai gazdaság ingadozásai – különösen az olajárak és a valutaárfolyamok – közvetlen, drasztikus hatással vannak a helyi üzleti életre és az export volumenére. Földrajz K8 — határmenti gazdasági zónák",
+      "factsAdvanced": [
+        "2004-ben hozták létre több északi határtelepülés egyesítésével",
+        "Oshikango kerülete az ország legforgalmasabb határátkelője Angola felé",
+        "A várost egy PLAN-harcosról (People's Liberation Army of Namibia) nevezték el",
+        "Hatalmas raktárkomplexumok és import/export központok működnek itt",
+        "A helyi gazdaság nagymértékben függ az angolai vásárlóerőtől",
+        "Lakossága megközelíti a 20 000 főt"
+      ]
+    }
+  ]
+}

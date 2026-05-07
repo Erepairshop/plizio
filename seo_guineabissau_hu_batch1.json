@@ -1,0 +1,255 @@
+{
+  "lang": "hu",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bafata-cities-v2",
+      "descriptionAdvanced": "Bafatá Bissau-Guinea második legnagyobb városa, amely a Geba-folyó mentén terül el. A város az ország egyik legfontosabb kereskedelmi és mezőgazdasági központja, különösen a földimogyoró- és pamuttermesztéséről híres. A gyarmati időszakban a portugál adminisztráció jelentős bázisa volt, aminek nyomait a mai napig őrzik az óváros jellegzetes épületei. Itt született Amílcar Cabral, a függetlenségi mozgalom ikonikus vezetője, akinek szülőháza napjainkban múzeumként funkcionál. Bafatá kulturálisan is sokszínű, ahol a fula, mandinka és balanta népcsoportok élnek békében egymás mellett. A város élénk piacai és nyüzsgő folyami kikötője a helyi gazdaság ütőerét jelentik. Földrajz K7 — Nyugat-Afrika városai.",
+      "factsAdvanced": [
+        "A város a Geba-folyó partján fekszik.",
+        "Itt született 1924-ben Amílcar Cabral.",
+        "Bissau-Guinea második legnépesebb települése.",
+        "Gazdasága nagyrészt a földimogyoró-termesztésre épül.",
+        "A helyi piac a régió legnagyobb kereskedelmi csomópontja.",
+        "Jelentős iszlám közösséggel rendelkezik a fula lakosság révén."
+      ]
+    },
+    {
+      "id": "gabu-cities-v2",
+      "descriptionAdvanced": "Gabú az ország keleti részének központja és a Kaabu Birodalom egykori szívterülete. A város stratégiai elhelyezkedése miatt fontos kereskedelmi útvonalak találkozási pontja, különösen Szenegál és Guinea irányába. Lakossága zömében muszlim, amit a városban található impozáns mecsetek is tükröznek. A régió történelmi jelentősége kiemelkedő, hiszen a 16. és 19. század között a mandinka Kaabu Birodalom uralta ezt a területet. A mai Gabú gazdaságát a szarvasmarha-tenyésztés és a mezőgazdasági kereskedelem dominálja. A helyi piacokon a határon átnyúló árucserék zajlanak napi szinten. Geschichte K8 — a Kaabu Birodalom története.",
+      "factsAdvanced": [
+        "A város Szenegál és Guinea határának közelében fekszik.",
+        "A történelmi Kaabu Birodalom központja volt.",
+        "Lakosságának többsége az iszlám vallást követi.",
+        "Jelentős szerepet játszik a regionális szarvasmarha-kereskedelemben.",
+        "A mandinka etnikum kulturális központja Bissau-Guineában.",
+        "Gabú piacai a nyugat-afrikai csempészutak fontos állomásai voltak."
+      ]
+    },
+    {
+      "id": "bissora-cities-v2",
+      "descriptionAdvanced": "Bissorã az Oio régió egyik legfontosabb városa, amely a mezőgazdasági termeléséről és történelmi örökségéről ismert. A település a portugál gyarmati időszakban katonai jelentőséggel bírt, a függetlenségi háború alatt pedig heves harcok színtere volt. A városban található a függetlenségi harcosok emlékműve, amely a PAIGC mozgalom mártírjainak állít emléket. Bissorã környéke sűrű erdőkkel és termékeny mezőgazdasági területekkel van körülvéve, ahol elsősorban rizst és kesudiót termesztenek. A helyi közösség erős balanta hagyományokat ápol, ami megmutatkozik a zenei és vallási rítusokban. Történelem K8 — gyarmati harcok Nyugat-Afrikában.",
+      "factsAdvanced": [
+        "Az Oio régió jelentős települése.",
+        "A függetlenségi háború egyik fontos helyszíne volt.",
+        "A lakosság főként a balanta etnikumhoz tartozik.",
+        "A környéken a kesudió- és rizstermesztés a meghatározó.",
+        "Itt található a PAIGC mártírjainak emlékműve.",
+        "A város körüli területek sűrű trópusi növényzettel rendelkeznek."
+      ]
+    },
+    {
+      "id": "bolama-cities-v2",
+      "descriptionAdvanced": "Bolama a Bijagós-szigetcsoport egyik legkeletibb szigetén található, és egykor Bissau-Guinea fővárosa volt. A város a portugál gyarmati építészet lenyűgöző, bár pusztuló emlékeit őrzi, köztük a Kormányzói Palotát és a régi kórházat. A 19. században Nagy-Britannia és Portugália is versengett a szigetért, végül 1870-ben Ulysses S. Grant amerikai elnök döntött a portugálok javára. 1941-ig töltötte be a fővárosi rangot, amikor is vízhiány miatt a központot Bissau-ba helyezték át. Ma Bolama egy csendes szigetváros, amelynek melankolikus, omladozó épületei vonzzák a történelem iránt érdeklődőket. Geschichte K8 — gyarmati fővárosok.",
+      "factsAdvanced": [
+        "1941-ig Bissau-Guinea gyarmati fővárosa volt.",
+        "Ulysses S. Grant elnök 1870-ben ítélte oda Portugáliának.",
+        "A sziget az UNESCO bioszféra-rezervátum része.",
+        "A régi Kormányzói Palota romjai ma is láthatók.",
+        "Fővárosi rangját az ivóvíz hiánya miatt veszítette el.",
+        "Kikötője egykor a régió legforgalmasabb tranzitpontja volt."
+      ]
+    },
+    {
+      "id": "cacheu-cities-v2",
+      "descriptionAdvanced": "Cacheu a Cacheu-folyó torkolatánál fekszik, és az egyik legrégebbi európai település Nyugat-Afrikában. A várost a 16. században alapították a portugálok, és hamar a rabszolga-kereskedelem egyik legfontosabb központjává vált. A városban található 16. századi erőd (Forte de Cacheu) ma is emlékeztet a sötét történelmi időkre. A közelmúltban egy emlékmúzeumot is nyitottak, amely a transzatlanti rabszolga-kereskedelem áldozatainak állít emléket. A város körül elterülő Cacheu Folyó Nemzeti Park gazdag mangrove-erdőiről és madárvilágáról híres. A helyi gazdaság ma már elsősorban a halászatra és a pálmaolaj-termelésre támaszkodik. Geschichte K8 — a transzatlanti rabszolga-kereskedelem.",
+      "factsAdvanced": [
+        "A portugálok alapították 1588-ban.",
+        "A 17. és 18. században a rabszolga-kereskedelem központja volt.",
+        "A Forte de Cacheu a legrégebbi erőd az országban.",
+        "A Cacheu Folyó Nemzeti Park mangrove-erdői védettek.",
+        "A város a pálmaolaj és pálmabor gyártásáról is ismert.",
+        "2016-ban rabszolga-emlékmúzeum nyílt a városban."
+      ]
+    },
+    {
+      "id": "buba-cities-v2",
+      "descriptionAdvanced": "Buba a Quinara régió központja, amely festői környezetben, a Rio Grande de Buba tölcsértorkolatánál fekszik. A város különleges fekvése miatt egykor jelentős kikötőváros volt, a portugálok is fontos adminisztratív bázisként használták. A közelben található Cufada-tó (Lagoa de Cufada) az ország legnagyobb édesvizű tava és Ramsar-egyezmény által védett vizes élőhely. Buba környéke egyedülálló biológiai sokféleséggel rendelkezik, ahol csimpánzok és ritka madárfajok is élnek. A város jelenleg egy tervezett mélyvízi kikötő építésének helyszíne, amely a bauxit exportját hivatott megkönnyíteni. Földrajz K7 — Nyugat-Afrika vizes élőhelyei.",
+      "factsAdvanced": [
+        "A Rio Grande de Buba partján fekszik.",
+        "A Quinara régió adminisztratív központja.",
+        "A közeli Cufada-tó az ország legnagyobb édesvízi tava.",
+        "A térségben jelentős csimpánzpopuláció él.",
+        "A város egy jövőbeli mélyvízi kikötő tervezett helyszíne.",
+        "Gazdasága a halászatra és az erdészetre épül."
+      ]
+    },
+    {
+      "id": "catio-cities-v2",
+      "descriptionAdvanced": "Catió a Tombali régió székhelye, amely mélyen az ország déli részén, trópusi erdők és folyók ölelésében helyezkedik el. A település a mezőgazdaság, különösen a rizstermesztés és az olajpálma-feldolgozás fontos bázisa. A régió ad otthont a Cantanhez Nemzeti Parknak, amely Bissau-Guinea utolsó érintetlen esőerdőinek egyike. Catió elszigeteltsége ellenére élénk piaccal rendelkezik, ahová a környékbeli falvakból hozzák a friss terményeket. A gyarmati időkben a portugálok igyekeztek fejleszteni az itteni infrastruktúrát, aminek nyomai az elhagyatott adminisztratív épületekben még láthatók. Biológia K7 — esőerdők ökoszisztémája.",
+      "factsAdvanced": [
+        "A Tombali régió fővárosa és adminisztratív központja.",
+        "A közeli Cantanhez Nemzeti Park trópusi esőerdőket véd.",
+        "Gazdaságának alapja a rizstermesztés és a pálmaolaj.",
+        "A déli országrész egyik legfontosabb mezőgazdasági piaca.",
+        "A balanta és a nalú etnikumok jelentős számban élnek itt.",
+        "A város klímája rendkívül párás és csapadékos."
+      ]
+    },
+    {
+      "id": "farim-cities-v2",
+      "descriptionAdvanced": "Farim egy történelmi város a Cacheu-folyó északi partján, amely az Oio régió egyik legfontosabb települése. A várost 1641-ben alapították a portugálok, és sokáig fontos kereskedelmi posztként szolgált a folyami hajózásban. A 20. század közepén élénk kereskedelmi központ volt, ahol libanoni és szír kereskedők is letelepedtek. Ma Farim a közelében felfedezett hatalmas foszfátlelőhelyekről ismert, amelyek kiaknázása jelentős gazdasági potenciált jelent az ország számára. A város környéki erdők és a folyópart kiváló élőhelyet biztosít a helyi faunának. Földrajz K8 — ásványkincsek és bányászat Afrikában.",
+      "factsAdvanced": [
+        "A várost 1641-ben alapították portugál kereskedők.",
+        "A Cacheu-folyó északi partján helyezkedik el.",
+        "Jelentős foszfátlelőhelyek találhatók a város közelében.",
+        "Történelmileg fontos libanoni és szír kereskedőkolóniája volt.",
+        "A függetlenségi háború idején jelentős katonai bázis volt.",
+        "A folyami hajózás ma is fontos szerepet játszik a közlekedésben."
+      ]
+    },
+    {
+      "id": "quinhamel-cities-v2",
+      "descriptionAdvanced": "Quinhamel a Biombo régió székhelye, amely mindössze néhány tíz kilométerre nyugatra található Bissau-tól. A város a papel etnikai csoport kulturális és politikai központja, hagyományosan a papel királyságok egyik fontos helyszíne. Quinhamel híres a 'pano de pinti' nevű, kézzel szőtt hagyományos textíliákról, amelyeket a helyi mesteremberek készítenek. A település part menti fekvése miatt a halászat és az osztrigagyűjtés a lakosság jelentős részének biztosít megélhetést. A városban működik egy hagyományos pálmaborlepárló üzem is, amely a 'cana de cajeira' (kesualma-pálinka) gyártásáról is ismert. Kulturális tanulmányok K6 — afrikai kézművesség.",
+      "factsAdvanced": [
+        "A Biombo régió adminisztratív központja.",
+        "A papel etnikum hagyományos központja.",
+        "Híres a hagyományos 'pano de pinti' szőttesekről.",
+        "Jelentős az osztrigagyűjtés és a part menti halászat.",
+        "Itt gyártják a helyi specialitásnak számító kesualma-pálinkát.",
+        "Közel fekszik Bissau fővároshoz, annak agglomerációjának része."
+      ]
+    },
+    {
+      "id": "mansoa-cities-v2",
+      "descriptionAdvanced": "Mansôa egy élénk kereskedelmi város az Oio régióban, amely a Mansôa-folyó mentén fekszik. A település stratégiai fekvése miatt az ország belső területeit és a fővárost összekötő útvonalak fontos csomópontja. Mansôa a függetlenségi háború alatt katonai szempontból is kiemelt szerepet kapott, a folyón átívelő hídja pedig kulcsfontosságú infrastrukturális elem. A város környéke elsősorban kesudió- és földimogyoró-termesztésből él, a helyi piac a régió mezőgazdasági termékeinek fő gyűjtőpontja. A balanta és a mandinka lakosság kulturális keveredése egyedi atmoszférát teremt a városban. Földrajz K7 — mezőgazdasági csomópontok.",
+      "factsAdvanced": [
+        "A Mansôa-folyó mentén, fontos közlekedési útvonalon fekszik.",
+        "A folyón átívelő hídja stratégiai jelentőségű.",
+        "Gazdaságát a kesudió- és földimogyoró-kereskedelem hajtja.",
+        "A függetlenségi háború fontos helyszíne volt.",
+        "Jelentős balanta és mandinka populációval rendelkezik.",
+        "A régió egyik legforgalmasabb mezőgazdasági piaca működik itt."
+      ]
+    },
+    {
+      "id": "bambadinca-cities-v2",
+      "descriptionAdvanced": "Bambadinca a Bafatá régió egyik dinamikusan fejlődő városa, amely a Geba-folyó mentén helyezkedik el. A város az utóbbi években leginkább innovatív napenergia-projektjéről vált híressé, amely az ország egyik első hibrid (napenergia-dízel) mikrohálózataként biztosít 24 órás áramellátást a lakosoknak. Ez a projekt modellértékű egész Nyugat-Afrika számára. Bambadinca emellett fontos mezőgazdasági központ is, ahol a fula és mandinka gazdák rizst, kölest és zöldségeket termesztenek a folyó árterében. A település történelmi jelentőségét adja, hogy Amílcar Cabral gyakran látogatta a függetlenségi harcok idején. Fizika K8 — megújuló energiaforrások.",
+      "factsAdvanced": [
+        "A város egy úttörő napenergia-mikrohálózat otthona.",
+        "A Geba-folyó völgyében fekszik, termékeny területen.",
+        "Fontos szerepet játszott a függetlenségi háború logisztikájában.",
+        "Lakossága nagyrészt a fula és mandinka etnikumból kerül ki.",
+        "A 24 órás áramellátás ritkaságnak számít a régió vidéki részein.",
+        "A helyi piac a mezőgazdasági termények fontos elosztóhelye."
+      ]
+    },
+    {
+      "id": "canchungo-cities-v2",
+      "descriptionAdvanced": "Canchungo a Cacheu régió legnagyobb és legnépesebb városa, amely a gyarmati időkben Vila Teixeira Pinto néven volt ismert. A város a manzacu etnikum szellemi és kulturális központja, akik a helyi fakitermelésben és mezőgazdaságban vállalnak jelentős szerepet. Canchungo gazdaságát a kesudió-termesztés dominálja, és a helyi üzemekben végzik a dió előfeldolgozását is. A városban működik egy történelmi katolikus misszió és egy jelentős regionális kórház, amely a környező falvakat is ellátja. A település építészete még őrzi a 20. század közepének portugál gyarmati stílusjegyeit. Társadalomismeret K7 — etnikai központok.",
+      "factsAdvanced": [
+        "A gyarmati érában Vila Teixeira Pinto volt a neve.",
+        "A manzacu etnikum kulturális központja.",
+        "A Cacheu régió legnépesebb települése.",
+        "A kesudió-feldolgozás egyik helyi központja.",
+        "Rendelkezik egy jelentős történelmi katolikus misszióval.",
+        "A helyi kórház fontos szerepet tölt be az egészségügyi ellátásban."
+      ]
+    },
+    {
+      "id": "quebo-cities-v2",
+      "descriptionAdvanced": "Quebo a Tombali régió egy kisebb, de annál fontosabb városa, amely a guineai határhoz közel helyezkedik el. Fekvése miatt a határon átnyúló kereskedelem egyik legfontosabb gócpontja Bissau-Guinea déli részén. A város jelentős forgalmat bonyolít le mind legális, mind informális áruk cseréjében Guinea irányába. A környék sűrű erdőségei miatt az illegális fakitermelés komoly problémát jelent a régióban, amit a helyi hatóságok igyekeznek visszaszorítani. A fula és szuszu lakosság keveredése sajátos kulturális arculatot ad a városnak, ahol a heti piacnapok hatalmas tömegeket vonzanak. Földrajz K8 — határmenti kereskedelem.",
+      "factsAdvanced": [
+        "Közvetlenül a guineai határ közelében található.",
+        "A déli országrész legfontosabb tranzit- és kereskedővárosa.",
+        "Jelentős fula és szuszu népesség él a városban.",
+        "A helyi gazdaság a határon átnyúló kereskedelemre épül.",
+        "A környéken komoly problémát jelent az illegális fakitermelés.",
+        "A heti piac (lumo) a térség legnagyobb gazdasági eseménye."
+      ]
+    },
+    {
+      "id": "bedanda-cities-v2",
+      "descriptionAdvanced": "Bedanda egy történelmi település a Tombali régióban, amely a függetlenségi háború (1963-1974) egyik szimbolikus helyszíneként vonult be a történelembe. A régiót a PAIGC (Afrikai Párt Guinea és a Zöld-foki szigetek Függetlenségéért) nagyon hamar az ellenőrzése alá vonta, és innen irányították a déli front hadműveleteit. Bedanda ma egy békés mezőgazdasági központ, amelyet a sűrű trópusi erdők és a környező rizsföldek ölelnek körbe. A település közvetlen közelében található a Cantanhez Nemzeti Park peremvidéke, amely a ritka csimpánzok és erdei elefántok otthona. Történelem K8 — afrikai dekolonizáció.",
+      "factsAdvanced": [
+        "A guineai függetlenségi harcok egyik fontos déli bázisa volt.",
+        "A Tombali régióban, sűrű erdők között helyezkedik el.",
+        "A lakosság főként a balanta és nalú etnikumhoz tartozik.",
+        "A Cantanhez Nemzeti Park védett övezetének közelében fekszik.",
+        "A mezőgazdaság, különösen a rizstermesztés a fő bevételi forrás.",
+        "A PAIGC mozgalom korai felszabadított területeinek egyike volt."
+      ]
+    },
+    {
+      "id": "nhacra-cities-v2",
+      "descriptionAdvanced": "Nhacra az Oio régió déli részén, a fővároshoz, Bissau-hoz viszonylag közel elhelyezkedő település. Stratégiai fekvése miatt fontos közlekedési csomópont, ahol a Bissau-t a belső területekkel összekötő főútvonalak találkoznak. A város fejlődését jelentősen meghatározza a főváros közelsége, sokan innen ingáznak Bissau-ba dolgozni. A helyi gazdaság alapját a mangó-, kesudió- és zöldségtermesztés adja, amelyet a fővárosi piacokon értékesítenek. A függetlenségi harcok alatt Nhacra környéke súlyos harcok színtere volt a portugál csapatok és a gerillák között. Társadalomföldrajz K7 — agglomerációs övezetek.",
+      "factsAdvanced": [
+        "Fontos közlekedési csomópont Bissau-Guinea fő úthálózatán.",
+        "Bissau főváros tágabb agglomerációjához tartozik.",
+        "Mezőgazdasága a főváros élelmiszer-ellátását segíti.",
+        "A függetlenségi háborúban heves összecsapások színhelye volt.",
+        "A lakosság többsége a balanta és papel etnikumból származik.",
+        "A kesudió-kereskedelem jelentős helyi bevételi forrás."
+      ]
+    },
+    {
+      "id": "safim-cities-v2",
+      "descriptionAdvanced": "Safim egy rohamosan növekvő város a Biombo régióban, közvetlenül Bissau északi határánál. A település az ország egyik legfontosabb közlekedési ütőerén, a Mansôa felé vezető út mentén fekszik. Az utóbbi évtizedekben Safim jelentős urbanizációs robbanáson ment keresztül, ahogy Bissau terjeszkedése elérte a város határait. Ma Safim gyakorlatilag a főváros alvóvárosaként funkcionál. A közelben található az ország függetlenségi hőseinek szentelt emlékmű. A helyi lakosság hagyományosan halászattal és mezőgazdasággal foglalkozott, de ma már a szolgáltató szektor és az ingázás a domináns. Társadalomföldrajz K8 — urbanizáció Afrikában.",
+      "factsAdvanced": [
+        "Bissau főváros északi határánál fekszik.",
+        "Gyakorlatilag a főváros alvóvárosává fejlődött.",
+        "Az ország egyik legforgalmasabb tranzitútvonala halad át rajta.",
+        "Itt található az egyik legfontosabb függetlenségi emlékmű.",
+        "Jelentős urbanizációs és népességnövekedést él át.",
+        "A papel etnikum történelmi településterületéhez tartozik."
+      ]
+    },
+    {
+      "id": "bubaque-cities-v2",
+      "descriptionAdvanced": "Bubaque a Bijagós-szigetcsoport adminisztratív központja és a régió legfejlettebb települése. A város Bubaque-szigeten található, és az UNESCO bioszféra-rezervátum kapujaként szolgál a turisták és kutatók számára. A település utcáit gyarmati korabeli, pusztuló épületek szegélyezik, de a kikötő környékén élénk élet zajlik. Itt található a helyi rádióállomás, a kórház és több apró szálloda, amely a nemzetközi ökoturizmusra épít. A szigetcsoport lakói, a bijagó emberek itt adják el a friss halat, pálmabort és kézműves termékeket. A kikötőből rendszeres kompjárat köti össze a szigetet a szárazföldi Bissau-val. Földrajz K8 — szigeti ökoszisztémák és turizmus.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport adminisztratív és turisztikai központja.",
+        "A szigetet rendszeres kompjárat köti össze Bissau-val.",
+        "Az UNESCO bioszféra-rezervátum kutatási központja itt található.",
+        "Jelentős a bijagó etnikum hagyományos kultúrájának jelenléte.",
+        "A város gazdasága erősen támaszkodik az ökoturizmusra.",
+        "Gyarmati épületei turisztikai látványosságként szolgálnak."
+      ]
+    },
+    {
+      "id": "fulacunda-cities-v2",
+      "descriptionAdvanced": "Fulacunda egy festői kisváros a Quinara régióban, amely történelmi romjairól és a környező természeti szépségekről ismert. A település nevét a fula etnikumról kapta, akik a történelem során jelentős befolyást gyakoroltak erre a területre. A portugál gyarmatosítás idején fontos közigazgatási pont volt, aminek bizonyítékai a városban szétszórt elhagyatott épületek. Fulacunda közvetlen közelében kiterjedt mangrove-erdők és folyótorkolatok találhatók, amelyek gazdag halászzsákmányt biztosítanak a helyieknek. A pálmaolaj-készítés és a rizstermesztés a helyi megélhetés alapjai. Történelem K7 — gyarmati adminisztráció.",
+      "factsAdvanced": [
+        "A Quinara régió egyik legrégebbi közigazgatási központja volt.",
+        "Nevét a fula etnikai csoport jelenlétéről kapta.",
+        "A városban több gyarmati korabeli romépület is található.",
+        "Gazdasága a pálmaolaj-termelésre és rizstermesztésre épül.",
+        "Kiterjedt mangrove-erdők veszik körül a települést.",
+        "A biafada és fula etnikumok békés együttélésének helyszíne."
+      ]
+    },
+    {
+      "id": "bigene-cities-v2",
+      "descriptionAdvanced": "Bigene a Cacheu régió északi részén fekvő kisváros, egészen közel a szenegáli (Casamance) határhoz. A város földrajzi elhelyezkedése miatt erős kulturális és gazdasági szálak fűzik a szomszédos Casamance régióhoz, a határon átnyúló kereskedelem mindennapos. Bigene lakossága zömében diola és mandinka származású, akik főként földimogyoró-termesztéssel és szarvasmarha-tartással foglalkoznak. A 80-as és 90-es években a casamance-i konfliktus menekültjei gyakran találtak itt menedéket. A város fejlődését hátráltatja a viszonylagos elszigeteltség és az infrastruktúra hiánya. Társadalomföldrajz K8 — határmenti konfliktusok és migráció.",
+      "factsAdvanced": [
+        "A Cacheu régió északi peremén, a szenegáli határ mellett fekszik.",
+        "Erős gazdasági kapcsolatokat ápol a casamance-i régióval.",
+        "A lakosság főként a diola és mandinka etnikumokból áll.",
+        "Menedékhelyként szolgált a casamance-i konfliktus idején.",
+        "Fő mezőgazdasági termékei a földimogyoró és a köles.",
+        "A helyi piac fontos szerepet játszik a regionális élelmiszer-ellátásban."
+      ]
+    },
+    {
+      "id": "ingore-cities-v2",
+      "descriptionAdvanced": "Ingoré egy fontos mezőgazdasági és tranzitváros a Cacheu régióban, az ország északnyugati részén. A település az északi határállomáshoz (São Domingos) vezető főútvonalon fekszik, így élénk átmenő forgalommal és pezsgő kereskedelemmel büszkélkedhet. Ingoré az ország egyik legfontosabb kesudió-feldolgozó központja; a szüret idején a város lakossága jelentősen megnő az idénymunkások miatt. A helyi közösség erős katolikus hagyományokkal rendelkezik, a város központjában álló templom a vallási élet központja. A felata és manzacu etnikumok jelenléte kulturális sokszínűséget biztosít. Földrajz K7 — mezőgazdasági ipar.",
+      "factsAdvanced": [
+        "A São Domingos felé vezető északi főútvonalon található.",
+        "Az ország egyik legjelentősebb kesudió-feldolgozó központja.",
+        "A manzacu és felata etnikumok kulturális olvasztótégelye.",
+        "Jelentős katolikus közösséggel és központi templommal rendelkezik.",
+        "Gazdasága nagymértékben függ az idényjellegű mezőgazdasági munkáktól.",
+        "Tranzitvárosként fontos szerepet játszik a Szenegál felé tartó kereskedelemben."
+      ]
+    }
+  ]
+}

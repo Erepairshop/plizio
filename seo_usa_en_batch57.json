@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "colorado-plateau-relief-v2",
+      "descriptionAdvanced": "The Colorado Plateau is a massive, high-elevation tectonic plateau spanning parts of Utah, Colorado, Arizona, and New Mexico, renowned for its extraordinary geological diversity and iconic, deep canyon landscapes. Composed of thick, layered sedimentary rock, the plateau has been carved over millions of years by the Colorado River and its tributaries, revealing some of the most continuous and readable records of geological time on Earth. The plateau’s arid climate, coupled with its extreme vertical relief, creates a mosaic of fragile desert environments that are essential for studying long-term landscape erosion, the geological history of the North American crust, and the challenges of managing water resources in an increasingly fragile, warming desert region. Geografie K7 — Tectonic plateau geology and layered sedimentary landscapes.",
+      "factsAdvanced": [
+        "A massive high-elevation plateau spanning four states of the American Southwest.",
+        "Renowned globally for its extraordinary geological diversity and deep canyons.",
+        "Features one of the most continuous and clear records of Earth's geological history.",
+        "Carved extensively over millions of years by the Colorado River system.",
+        "Provides a vital laboratory for studying long-term landscape erosion and tectonic uplift.",
+        "Critical region for managing fragile desert water resources amid rapid warming."
+      ]
+    },
+    {
+      "id": "great-basin-relief-v2",
+      "descriptionAdvanced": "The Great Basin is a vast, expansive interior drainage region covering most of Nevada and portions of surrounding states. It is a defining physiographic feature of North America, characterized by the absence of a natural outlet to the ocean, meaning all precipitation that falls within the basin either evaporates or drains into landlocked, salt-rich sinks. The landscape is a product of dramatic crustal stretching and extension, creating a series of alternating mountain ranges and basins that define the region's harsh, arid climate. This isolation has fostered high levels of biological endemism and unique hydrological systems, making the Great Basin a premier site for researching arid-land water stability, the management of internally draining basins, and the resilience of high-desert ecosystems against climate-induced drying. Geografie K8 — Endorheic drainage systems and crustal extension geology.",
+      "factsAdvanced": [
+        "A vast, interior drainage region with no natural outlet to the ocean.",
+        "All internal drainage collects in terminal, often highly saline, lake-like sinks.",
+        "Physiographic landscape formed by extensive crustal stretching and thinning.",
+        "Defining region of Nevada, characterized by alternating arid mountains and basins.",
+        "Premier natural laboratory for studying arid-land hydrology and basin management.",
+        "High levels of regional biological endemism driven by long-term landscape isolation."
+      ]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "descriptionAdvanced": "The Sierra Madre Occidental is a massive, volcanic-derived mountain range that extends from the U.S.-Mexico border deep into central Mexico, acting as a profound climatic and ecological barrier between the Pacific coast and the Mexican interior. Its high, rugged peaks and complex volcanic plateaus foster incredibly high levels of biodiversity, including expansive forests and unique species that have evolved within this massive, north-south-oriented biological bridge. The range serves as a critical watershed for both Mexican and border-region American rivers, making it essential for the ecological and agricultural stability of the broader desert Southwest. Today, the Sierra Madre Occidental stands as a pivotal site for studying high-biodiversity corridor conservation, the impacts of climate change on mountain-range moisture capture, and the critical importance of preserving connectivity in North America's mountain-wildlife biomes. Geografie K8 — Volcanic arc ecology and biodiversity corridors.",
+      "factsAdvanced": [
+        "Massive volcanic-derived range stretching from the US border into central Mexico.",
+        "Serves as a fundamental climatic barrier between the Pacific and Mexican interior.",
+        "Highly complex volcanic topography fosters world-class levels of biodiversity.",
+        "Essential high-elevation watershed for both Mexican and American border-region rivers.",
+        "Acts as a critical north-south biological bridge for mountain wildlife corridors.",
+        "Vital site for studying the impacts of climate change on mountain moisture capture."
+      ]
+    }
+  ]
+}

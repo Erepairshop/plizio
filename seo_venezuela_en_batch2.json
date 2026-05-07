@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "valencia-cities-v2",
+      "descriptionAdvanced": "Valencia, an important industrial and commercial hub in Venezuela, serves as the capital of the Carabobo state. Nestled in a valley surrounded by majestic mountains, it is known for its role in the nation's economic development, particularly in manufacturing and automotive industries. The city combines modern urban expansion with historical landmarks, reflecting its significance in both Venezuela's past and present. Geography K6 — Industry and Economy.",
+      "factsAdvanced": [
+        "Capital of Carabobo state.",
+        "Major hub for automotive and manufacturing industries in Venezuela.",
+        "Founded in 1555.",
+        "Strategically located in a fertile valley near the coast.",
+        "Home to the significant Lake Valencia.",
+        "Known for its rapid industrial growth in the 20th century."
+      ]
+    },
+    {
+      "id": "barquisimeto-cities-v2",
+      "descriptionAdvanced": "Barquisimeto, the capital of Lara state, is widely recognized as the musical capital of Venezuela. It is a city defined by its cultural vibrancy, stunning sunsets, and the iconic Flor de Venezuela structure, which symbolizes the nation's botanical diversity. As a key transport and commercial center, Barquisimeto acts as a strategic connector between the western and central parts of the country. Geography K5 — Cities and Culture.",
+      "factsAdvanced": [
+        "Known as the 'Musical Capital of Venezuela'.",
+        "Home to the famous Flor de Venezuela architectural monument.",
+        "Capital of the Lara state.",
+        "Founded in 1552.",
+        "Strategic transportation hub in western Venezuela.",
+        "Famous for the annual Divina Pastora procession."
+      ]
+    },
+    {
+      "id": "maracay-cities-v2",
+      "descriptionAdvanced": "Maracay, often called the 'Garden City', serves as the capital of Aragua state. It is strategically positioned between the Coastal Range and Lake Valencia, making it a vital hub for military and agricultural activity. The city is famous for its unique urban design and its historical association with the development of Venezuela's armed forces. Its pleasant climate and proximity to the Henri Pittier National Park make it an important gateway for ecological tourism. Geography K7 — Nature and Infrastructure.",
+      "factsAdvanced": [
+        "Known as 'La Ciudad Jardín' (The Garden City).",
+        "Capital of the Aragua state.",
+        "Strategic hub for military installations.",
+        "Proximity to Henri Pittier National Park, the oldest in the country.",
+        "Gateway between the Andes and the capital region.",
+        "Historical importance in Venezuelan aviation development."
+      ]
+    }
+  ]
+}

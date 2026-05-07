@@ -1,0 +1,123 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "descriptionAdvanced": "The relief of the Sarir Tanezrouft (Calanshio Sand Sea region) is defined by its almost terrifying lack of vertical variation. It is an archetypal 'sarir' landscape—a massive, overwhelmingly flat plain entirely covered by heavily compacted coarse sand and gravel. Unlike a 'hamada', there is no exposed bedrock or sharp cliff drop-offs; it simply stretches flat to the horizon in every direction. This uniform, unbroken relief offers absolutely zero shade or protection from the wind, making it one of the most psychologically and physically demanding terrains to cross in the Sahara. Geography K7 — flat gravel plains and sarir landscapes.",
+      "factsAdvanced": [
+        "A massive, hyper-arid geographical plain located in eastern Libya.",
+        "An archetypal 'sarir' landscape characterized by overwhelmingly flat relief.",
+        "Surface is completely covered by highly compacted coarse sand and gravel.",
+        "Lacks the exposed bedrock or sheer cliffs found in rocky 'hamada' deserts.",
+        "The unbroken topography offers absolutely zero natural shade or wind protection.",
+        "Notoriously demanding to navigate due to the complete lack of visual landmarks."
+      ]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "descriptionAdvanced": "The relief surrounding Gaberoun Lake is incredibly stark and dramatic, defined by a massive, deep depression hidden entirely within a sea of towering sand dunes. The hyper-saline lake sits at the very bottom of this sandy crater, fringed by a dense, circular ring of palm trees. The sheer, steep slopes of the enclosing dunes plunge directly toward the water, creating a highly localized, wind-protected micro-environment. Getting to the water's edge requires navigating down these massive, shifting slopes of loose sand. Geography K8 — aeolian depressions and desert lakes.",
+      "factsAdvanced": [
+        "A spectacular hyper-saline lake located in a deep depression in the Ubari Sand Sea.",
+        "The relief is defined by massive, towering sand dunes that completely enclose the lake.",
+        "The steep slopes of the dunes plunge aggressively toward the water's edge.",
+        "Creates a highly localized, wind-protected micro-environment at the bottom.",
+        "The lake is fringed by a dense, circular ring of date palm trees.",
+        "Access requires navigating incredibly steep, shifting slopes of loose sand."
+      ]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "descriptionAdvanced": "The relief of the Mandara Lakes cluster is highly dynamic and temporary, consisting of multiple extremely shallow, interconnected depressions between large sand dunes. Unlike the deep crater of Gaberoun, these lakes sit in relatively flat, low-lying interdune valleys. Because the relief is so shallow, the intense Saharan evaporation rate frequently dries these lakes completely during the summer, leaving behind flat, crusty salt pans (sebkhas). The topography perfectly demonstrates how slight variations in elevation dictate the presence of surface water in the deep desert. Earth Science K7 — shallow interdune hydrology.",
+      "factsAdvanced": [
+        "A cluster of highly saline lakes situated in shallow interdune valleys.",
+        "The relief is notably flatter and shallower than the deep Gaberoun crater.",
+        "Located within the massive dune fields of the Ubari Sand Sea.",
+        "The shallow relief causes rapid evaporation, turning them into salt pans in summer.",
+        "Highlights how slight elevation changes dictate desert surface hydrology.",
+        "Surrounded by shifting, dynamic sand dune topography."
+      ]
+    },
+    {
+      "id": "ubari-sand-sea-relief-v2",
+      "descriptionAdvanced": "The relief of the Ubari Sand Sea is a constantly shifting, chaotic ocean of towering, longitudinal and star-shaped sand dunes (ergs). The topography is entirely aeolian, sculpted meticulously by the prevailing Saharan winds over millennia. The dunes can reach staggering heights of over 100 meters, separated by deep, sweeping valleys that occasionally reveal the ancient bedrock below. Navigating this relief requires intense specialized driving skills, as the leeward sides of the dunes frequently feature treacherous, near-vertical drop-offs (slip faces). Geography K8 — aeolian dune topography.",
+      "factsAdvanced": [
+        "A massive 'erg' landscape entirely composed of shifting Saharan sand.",
+        "Topography is heavily sculpted by prevailing winds into longitudinal and star dunes.",
+        "Dune crests can reach staggering elevations exceeding 100 meters.",
+        "Separated by deep, sweeping valleys that occasionally expose bedrock.",
+        "The leeward sides of dunes feature treacherous, near-vertical 'slip faces'.",
+        "The relief is highly dynamic, constantly changing shape over time."
+      ]
+    },
+    {
+      "id": "kufra-basin-relief-v2",
+      "descriptionAdvanced": "The relief of the Al-Kufra Basin is characterized by a massive, gentle geological depression in the far southeast of Libya. On the surface, the topography appears as an endless, flat sandy plain interspersed with low, scattered sandstone outcroppings. However, the critical relief is subsurface; the basin forms a massive structural bowl that traps and holds one of the largest ancient fossil water aquifers on Earth. It is this specific geological depression that makes the massive, artificial pivot irrigation fields in the region physically possible. Earth Science K8 — subsurface geological basins.",
+      "factsAdvanced": [
+        "A massive, subtle geological depression located in the remote southeastern desert.",
+        "Surface relief is generally flat, sandy, and interspersed with low sandstone outcrops.",
+        "Forms a massive subterranean structural bowl that traps fossil water.",
+        "Sits directly above the massive Nubian Sandstone Aquifer System.",
+        "The specific basin relief is what allows for massive artificial oasis agriculture.",
+        "Geologically separate from the hydrocarbon-rich Sirte Basin to the north."
+      ]
+    },
+    {
+      "id": "gar-al-marah-relief-v2",
+      "descriptionAdvanced": "The relief of Gar al-Marah is uniquely striking, forming an ancient, collapsed volcanic crater surrounded by the chaotic Black Haruj lava fields. The topography features a distinct, raised circular rim composed of dark basaltic rock, enclosing a lower, relatively flat interior basin. The surrounding terrain is a heavily fractured, extremely abrasive lava field that makes the approach to the crater incredibly arduous. This distinct, localized relief offers geologists perfectly preserved evidence of ancient, explosive Saharan volcanism. Earth Science K8 — volcanic craters and basaltic relief.",
+      "factsAdvanced": [
+        "A distinct, preserved volcanic crater located in the central Black Haruj.",
+        "Relief features a raised, circular rim composed of dark basaltic rock.",
+        "Encloses a relatively flat, lower interior basin.",
+        "Surrounded by a chaotic, highly abrasive, and heavily fractured lava field.",
+        "The dark volcanic relief absorbs massive amounts of solar radiation.",
+        "Provides pristine geological evidence of ancient Saharan volcanic activity."
+      ]
+    },
+    {
+      "id": "sirtica-desert-relief-v2",
+      "descriptionAdvanced": "The relief of the Sirtica Desert acts as a massive, gently sloping geographic transition zone, gradually descending from the higher interior plateaus down to the Gulf of Sidra. The topography is largely featureless, consisting of sweeping gravel plains ('reg') interrupted occasionally by low, dry wadis that channel rare winter runoff to the sea. The lack of severe vertical relief made it relatively easy to lay the massive, complex networks of oil pipelines that crisscross the region today. It is a textbook example of a low-relief, coastal-adjacent desert plain. Geography K7 — transitional coastal plains.",
+      "factsAdvanced": [
+        "A massive, gently sloping transitional geographic zone south of the Gulf of Sidra.",
+        "Relief gradually descends from the interior plateaus toward the Mediterranean.",
+        "Characterized by sweeping, featureless gravel plains known as 'reg'.",
+        "Interrupted occasionally by low, shallow wadis that channel rare runoff.",
+        "The flat topography is ideal for laying massive, complex oil pipeline networks.",
+        "Lacks the severe vertical relief found in the southern mountain ranges."
+      ]
+    },
+    {
+      "id": "gargaf-desert-relief-v2",
+      "descriptionAdvanced": "The relief of the Gargaf Desert is a classic, harsh 'hamada' landscape, characterized by an elevated, deeply eroded rocky plateau. Unlike sandy deserts, the topography here consists of stark, flat-topped mesas (tablelands) and steep, sudden cliff edges carved by ancient water flows. The surface is heavily compacted and covered with loose, jagged stones, making it highly abrasive. This jagged, elevated relief acts as a natural geographic separator between the northern Hamada al Hamra and the deep southern Fezzan sand seas. Geography K7 — hamada plateaus and mesas.",
+      "factsAdvanced": [
+        "A harsh, highly eroded rocky plateau landscape in the central Fezzan.",
+        "Characterized by classic 'hamada' relief: flat mesas and steep cliff drop-offs.",
+        "Surface is highly abrasive, covered entirely by loose, jagged stones.",
+        "Lacks the sweeping sand dunes found in the nearby Ubari Sand Sea.",
+        "Acts as a massive natural geographic divider in the Libyan interior.",
+        "The topography was carved heavily by ancient, prehistoric water flows."
+      ]
+    },
+    {
+      "id": "cyrenaica-coast-relief-v2",
+      "descriptionAdvanced": "The relief of the Cyrenaica Coast is exceptionally dynamic, marked by the abrupt collision of the high Jabal al Akhdar plateau with the Mediterranean Sea. The topography features sheer limestone cliffs that plunge directly into deep water, interspersed with narrow, hidden sandy coves and small coastal plains. This varied, rugged relief naturally creates numerous protected, deep-water anchorages that were heavily utilized by ancient Greek and Roman maritime traders. It presents a stark physical contrast to the long, flat, featureless beaches of western Tripolitania. Geography K8 — coastal geomorphology and cliffs.",
+      "factsAdvanced": [
+        "Features highly dynamic, varied relief along the eastern Mediterranean coastline.",
+        "Marked by the abrupt collision of the Jabal al Akhdar plateau with the sea.",
+        "Topography includes sheer limestone cliffs plunging directly into deep water.",
+        "Interspersed with narrow, hidden coves and small, localized coastal plains.",
+        "The rugged relief creates natural, highly protected deep-water anchorages.",
+        "Contrasts sharply with the flat, featureless beaches of western Libya."
+      ]
+    }
+  ]
+}

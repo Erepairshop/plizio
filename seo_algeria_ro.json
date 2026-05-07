@@ -1,0 +1,665 @@
+{
+  "lang": "ro",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bordj-bou-arreridj-cities-v2",
+      "descriptionAdvanced": "Bordj Bou Arreridj, situat la aproximativ 200 km est de Alger, este un centru industrial vital în regiunea Hautes Plaines. Orașul este cunoscut drept "capitala electronică" a Algeriei datorită numeroaselor fabrici de asamblare de aparate electrocasnice și tehnologie. Poziția sa strategică pe axa rutieră și feroviară care leagă capitala de estul țării a favorizat o dezvoltare economică rapidă în ultimele decenii. Pe lângă profilul industrial, regiunea înconjurătoare are o bază agricolă solidă, axată pe cultivarea cerealelor. Orașul îmbină infrastructura modernă cu tradițiile locale ale provinciei omonime. Geografie K7 — centre industriale și urbanizare.",
+      "factsAdvanced": [
+        "Localizare: Podișul Hautes Plaines",
+        "Poreclă: Capitala electronică a Algeriei",
+        "Distanță față de Alger: 200 km",
+        "Economie principală: Industrie electronică",
+        "Altitudine: 916 metri",
+        "Sector agricol: Cultivarea cerealelor",
+        "Nod feroviar important: Linia Alger-Constantine"
+      ]
+    },
+    {
+      "id": "chlef-cities-v2",
+      "descriptionAdvanced": "Chlef, cunoscut în trecut sub numele de El Asnam, este un oraș situat strategic pe valea râului cu același nume, la jumătatea distanței dintre Alger și Oran. Orașul are o istorie marcată de reziliență, fiind reconstruit după seismul devastator din 1980. Regiunea Chlef este unul dintre pilonii agricoli ai Algeriei, beneficiind de un climat favorabil pentru viticultură și cultura citricelor. De asemenea, orașul servește ca un important nod comercial și de transport. Universitatea Hassiba Benbouali contribuie la profilul academic dinamic al localității. Arhitectura modernă a orașului reflectă eforturile de reconstrucție antiseismică. Geografie K7 — riscuri naturale și planificare urbană.",
+      "factsAdvanced": [
+        "Nume vechi: El Asnam (până în 1980)",
+        "Altitudine: 114 metri",
+        "Râu principal: Oued Chlef",
+        "Eveniment istoric: Cutremurul din 10 octombrie 1980",
+        "Agricultură: Citrice și viticultură",
+        "Instituție: Universitatea Hassiba Benbouali",
+        "Distanță față de mare: 30 km (Ténès)"
+      ]
+    },
+    {
+      "id": "souk-ahras-cities-v2",
+      "descriptionAdvanced": "Souk Ahras, situat în nord-estul Algeriei, aproape de granița cu Tunisia, este orașul natal al Sfântului Augustin și un loc de o profunzime istorică remarcabilă. Cunoscut în antichitate sub numele de Thagaste, orașul păstrează vestigii care atestă importanța sa culturală în perioada romană și creștină timpurie. Peisajul din jur este muntos și împădurit, oferind un cadru pitoresc și un climat mai răcoros decât în zonele de câmpie. Economia locală se bazează pe agricultură, în special pe cultura cerealelor și creșterea animalelor. Souk Ahras este un punct de tranzit transfrontalier esențial, facilitând schimburile comerciale și culturale cu țara vecină. Istorie K6 — Thagaste și Sfântul Augustin.",
+      "factsAdvanced": [
+        "Nume antic: Thagaste",
+        "Personalitate: Locul nașterii Sfântului Augustin",
+        "Altitudine: 699 metri",
+        "Poziție: Aproape de granița cu Tunisia",
+        "Relief: Munții Medjerda",
+        "Economie: Agricultură și comerț de frontieră",
+        "Punct de interes: Măslinul Sfântului Augustin"
+      ]
+    },
+    {
+      "id": "medea-cities-v2",
+      "descriptionAdvanced": "Médéa, situată la 900 de metri altitudine în munții Atlasului Tellian, este renumită pentru livezile sale bogate și pentru podgoriile care produc struguri de masă de înaltă calitate. Orașul are o istorie veche, fiind o așezare romană numită ad-Dachira în perioada medievală, înainte de a deveni capitala beilicatului Titteri sub dominație otomană. Médéa a jucat un rol strategic în timpul rezistenței lui Emir Abdelkader împotriva ocupației franceze în secolul al XIX-lea. Astăzi, orașul este un important centru administrativ și agricol, păstrând în același timp un farmec tradițional prin arhitectura sa și festivalurile locale. Aerul curat de munte și peisajele verzi fac din Médéa o destinație apreciată. Geografie K7 — agricultura montană și climatul mediteranean.",
+      "factsAdvanced": [
+        "Altitudine: 900 metri",
+        "Regiune: Munții Atlasul Tellian",
+        "Istorie: Capitala Titteri (perioada otomană)",
+        "Agricultură: Podgorii și livezi de peri",
+        "Distanță față de Alger: 80 km",
+        "Climat: Mediteranean montan",
+        "Cultură locală: Festivalul Strugurilor"
+      ]
+    },
+    {
+      "id": "el-eulma-cities-v2",
+      "descriptionAdvanced": "El Eulma, situată în provincia Sétif, s-a transformat dintr-un centru agricol modest într-unul dintre cele mai vibrante hub-uri comerciale din Algeria, fiind renumită pentru "Piața Dubai". Orașul este un motor economic major pentru regiunea Hautes Plaines, atrăgând comercianți din întreaga țară pentru achiziționarea de bunuri importate și produse locale, în special electronice și piese auto. Pe lângă succesul comercial, El Eulma păstrează o bază industrială în creștere și o tradiție solidă în cultivarea cerealelor în zonele rurale învecinate. Orașul beneficiază de proximitatea față de autostrada est-vest, facilitând distribuția rapidă a mărfurilor. Este un exemplu de dinamism urban și adaptabilitate comercială. Geografie K8 — comerțul internațional și logistica.",
+      "factsAdvanced": [
+        "Locație: Provincia Sétif",
+        "Zonă comercială: Celebra "Piață Dubai"",
+        "Economie: Comerț angro și electronică",
+        "Infrastructură: Acces la Autostrada Est-Vest",
+        "Populație: Peste 150.000 locuitori",
+        "Agricultură: Cultivarea grâului în împrejurimi",
+        "Distanță față de Sétif: 27 km"
+      ]
+    },
+    {
+      "id": "touggourt-cities-v2",
+      "descriptionAdvanced": "Touggourt este o poartă importantă către regiunea de est a Saharei, fiind o oază istorică situată în bazinul Oued Righ. Orașul este renumit pentru producția sa excepțională de curmale din soiul Deglet Nour, exportate în întreaga lume. Touggourt a fost în trecut capitala unui sultanat local, păstrând mormintele regale ale dinastiei Beni Djellab ca mărturie a importanței sale politice trecute. Arhitectura tradițională din cartierul M'zab și moscheile istorice se împletesc cu dezvoltarea modernă susținută de industria petrolieră din regiunea Hassi Messaoud situată la sud. Orașul servește ca punct terminal pentru linia feroviară din nord, fiind un nod logistic esențial pentru deșert. Geografie K6 — sisteme de oază și economia deșertului.",
+      "factsAdvanced": [
+        "Localizare: Bazinul Oued Righ (Sahara)",
+        "Agricultură: Curmale Deglet Nour",
+        "Istorie: Capitala Sultanatului Touggourt",
+        "Morminte istorice: Dinastia Beni Djellab",
+        "Transport: Punct terminal feroviar",
+        "Religie: Marea Moschee din Touggourt",
+        "Climat: Arid saharian"
+      ]
+    },
+    {
+      "id": "ghardaia-cities-v2",
+      "descriptionAdvanced": "Ghardaia, inima văii M'zab, este o capodoperă a urbanismului adaptat la mediul deșertic, fiind inclusă în Patrimoniul Mondial UNESCO. Fondată în secolul al XI-lea de către comunitatea ibadită, Ghardaia este formată din cinci orașe fortificate (ksour), fiecare cu o arhitectură distinctă dominată de minaretele piramidale ale moscheilor. Sistemul ingenious de distribuție a apei în oază a permis supraviețuirea acestui centru cultural în condiții de ariditate extremă timp de un mileniu. Orașul este renumit pentru covoarele sale lucrate manual și pentru piața centrală vibrantă, un loc de întâlnire pentru culturile sahariene. Ghardaia reprezintă un model de sustenabilitate și organizare socială tradițională care continuă să inspire arhitecții moderni. Geografie K7 — adaptarea umană în zone aride.",
+      "factsAdvanced": [
+        "Statut: Patrimoniul Mondial UNESCO",
+        "Regiune: Valea M'zab",
+        "Fondare: Secolul al XI-lea",
+        "Arhitectură: Stil M'zabite (ksour)",
+        "Comunitate: Ibadită",
+        "Meșteșug: Producția de covoare tradiționale",
+        "Infrastructură antică: Sistem de partajare a apei"
+      ]
+    },
+    {
+      "id": "saida-cities-v2",
+      "descriptionAdvanced": "Saïda, supranumit "orașul apelor" datorită numeroaselor sale izvoare termale și subterane, este situat pe versantul sudic al munților Atlasului Tellian. Orașul are o importanță istorică deosebită, fiind o bază strategică pentru Emir Abdelkader în secolul al XIX-lea, care a construit aici o cetate pentru rezistență. Peisajul din jurul orașului este caracterizat de podișuri înalte unde se practică intens cultura cerealelor și creșterea ovinelor. Saïda este cunoscută și pentru producția sa de apă minerală, fiind una dintre cele mai renumite mărci din Algeria. Orașul reprezintă un punct de legătură între coasta mediteraneană și zonele muntoase ale interiorului. Geografie K7 — resursele de apă și agricultura extensivă.",
+      "factsAdvanced": [
+        "Poreclă: Orașul Apelor",
+        "Altitudine: 800 metri",
+        "Istorie: Fortăreață a lui Emir Abdelkader",
+        "Resurse: Apă minerală naturală",
+        "Agricultură: Cereale și zootehnie (oi)",
+        "Industrie: Prelucrarea esențelor vegetale",
+        "Poziție: Versantul sudic al Atlasului Tellian"
+      ]
+    },
+    {
+      "id": "laghouat-cities-v2",
+      "descriptionAdvanced": "Laghouat este un oraș de oază strategic situat la poalele Atlasului Saharian, fiind considerat poarta de intrare în marea Sahara. Orașul se distinge prin grădinile sale luxuriante și livezile de palmieri care contrastează puternic cu peisajul arid înconjurător. Laghouat are o istorie bogată de rezistență anti-colonială și este un centru cultural important pentru triburile din regiune. În ultimele decenii, orașul a cunoscut o expansiune economică semnificativă datorită apropierii sale de câmpul de gaze naturale de la Hassi R'Mel, cel mai mare din Africa. Médersa (școala religioasă) din Laghouat este un monument istoric renumit. Orașul îmbină armonios viața de oază cu facilitățile urbane moderne. Geografie K8 — resursele de hidrocarburi și urbanizarea deșertului.",
+      "factsAdvanced": [
+        "Poziție: Poarta către Sahara",
+        "Munți: Atlasul Saharian",
+        "Economie: Proximitate față de Hassi R'Mel (gaze)",
+        "Agricultură: Livezi de curmali și fructe",
+        "Istorie: Rezistența din 1852",
+        "Cultură: Școli religioase istorice (Médersas)",
+        "Altitudine: 750 metri"
+      ]
+    },
+    {
+      "id": "msila-cities-v2",
+      "descriptionAdvanced": "M'Sila, fondată în secolul al X-lea de către dinastia Fatimidă, este astăzi un centru administrativ și universitar vital în inima regiunii Hodna. Orașul este cunoscut pentru proximitatea sa față de situl arheologic Qal'a Beni Hammad, prima capitală a hammadizilor, inclusă în patrimoniul UNESCO. M'Sila joacă un rol crucial în economia agricolă a țării prin cultura cerealelor și creșterea animalelor în câmpiile înconjurătoare. De asemenea, orașul s-a industrializat prin fabrici de aluminiu și materiale de construcții. Universitatea Mohamed Boudiaf din M'Sila este una dintre cele mai mari din Algeria, contribuind la dinamismul social al regiunii. Orașul servește ca un nod de legătură între regiunile Hautes Plaines și începutul zonelor de stepă. Geografie K7 — istoria dinastiilor maghrebiene și dezvoltarea regională.",
+      "factsAdvanced": [
+        "Fondare: Anul 925 (dinastia Fatimidă)",
+        "Sit UNESCO apropiat: Qal'a Beni Hammad",
+        "Regiune: Bazinul Hodna",
+        "Economie: Aluminiu și cereale",
+        "Educație: Universitatea Mohamed Boudiaf",
+        "Altitudine: 471 metri",
+        "Poreclă: Orașul Științei în regiune"
+      ]
+    },
+    {
+      "id": "jijel-cities-v2",
+      "descriptionAdvanced": "Jijel este una dintre cele mai pitorești destinații de coastă ale Algeriei, fiind renumită pentru Corniche-ul său spectaculos, unde muntele se întâlnește direct cu apele de smarald ale Mediteranei. Orașul are o istorie maritimă lungă, fiind un vechi post comercial fenician și mai târziu o bază pentru flota otomană. Portul modern de la Djendjen, situat în apropiere, este unul dintre cele mai mari porturi de containere din Africa, impulsionând comerțul internațional. Parcul Național Taza, aflat în vecinătate, protejează ecosisteme rare și specii endemice precum macacul de Berberia. Pe lângă turism și port, Jijel este cunoscut pentru producția de plută și pescuit. Atmosfera sa relaxată și plajele sălbatice atrag mii de vizitatori anual. Geografie K6 — coastele mediteraneene și ecosistemele de munte.",
+      "factsAdvanced": [
+        "Relief: Munții Babors",
+        "Port principal: Djendjen (hub internațional)",
+        "Natură: Parcul Național Taza",
+        "Poreclă: Igilgili (numele fenician)",
+        "Produs local: Plută și ulei de măsline",
+        "Atractivitate: Corniche Jijelienne",
+        "Istorie: Bază maritimă a fraților Barbarossa"
+      ]
+    },
+    {
+      "id": "relizane-cities-v2",
+      "descriptionAdvanced": "Relizane este situat în fertila câmpie a râului Mina, fiind un centru agricol și industrial major în vestul Algeriei. Orașul a fost construit pe locul anticei așezări Mina, o colonie romană strategică pe drumul dintre Cartagina și Atlantic. Astăzi, Relizane este motorul unei zone agricole intensive unde se cultivă bumbac, cereale și citrice, beneficiind de sistemele moderne de irigații de pe barajele din apropiere. Recent, orașul a cunoscut o industrializare rapidă, în special în sectorul textil și al asamblării de vehicule, datorită noilor parcuri industriale. Poziția sa pe Autostrada Est-Vest a accelerat dezvoltarea economică, făcând din Relizane un punct logistic esențial. Geografie K7 — agricultura de irigații și noile zone industriales.",
+      "factsAdvanced": [
+        "Râu: Oued Mina",
+        "Nume antic: Mina (colonie romană)",
+        "Agricultură: Bumbac și culturi furajere",
+        "Industrie recentă: Asamblare auto (Volkswagen/SOVAC)",
+        "Infrastructură: Nod pe Autostrada Est-Vest",
+        "Populație: Peste 130.000 locuitori",
+        "Poziție: La 130 km est de Oran"
+      ]
+    },
+    {
+      "id": "guelma-cities-v2",
+      "descriptionAdvanced": "Guelma, situată în nord-estul Algeriei, este un oraș cu o moștenire istorică și naturală extraordinară. Cunoscută în antichitate unter numele de Calama, orașul găzduiește unul dintre cele mai frumoase teatre romane din Africa de Nord, restaurat și utilizat și astăzi pentru evenimente culturale. Guelma este renumită la nivel mondial pentru "Hammam Meskhoutine", izvoare termale naturale cu cascade de travertin formate de ape care ating temperaturi de peste 90 de grade Celsius. Regiunea este foarte fertilă, fiind o zonă cheie pentru producția de tomate și grâu. Orașul a fost, de asemenea, un punct central al evenimentelor istorice din 1945 care au marcat începutul luptei pentru independență. Geografie K6 — resurse termale și vestigii romane.",
+      "factsAdvanced": [
+        "Nume antic: Calama",
+        "Monument: Teatrul Roman din Guelma",
+        "Fenomen natural: Hammam Debagh (Meskhoutine)",
+        "Temperatură apă: Aprox. 95°C (printre cele mai fierbinți din lume)",
+        "Agricultură: Lider în producția de roșii",
+        "Eveniment istoric: Masacrele din 8 mai 1945",
+        "Poziție: Între munți și valea râului Seybouse"
+      ]
+    },
+    {
+      "id": "ain-beida-cities-v2",
+      "descriptionAdvanced": "Aïn Beïda, situată în provincia Oum El Bouaghi, este cel mai mare oraș din regiunea Hautes Plaines din estul Algeriei. Orașul este renumit pentru spiritul său comercial dinamic, fiind un punct central pentru comerțul cu grâne și animale. Numele său, care înseamnă "Izvorul Alb", provine de la apele limpezi care au atras așezări umane încă din antichitate. Aïn Beïda are o istorie intelectuală bogată, fiind centrul tribului Haracta și un loc unde poezia și cultura tradițională arabă au înflorit. Deși este un oraș comercial, împrejurimile sale sunt vaste zone de cultivare a grâului. Orașul servește ca un nod rutier crucial între orașele Constantine, Tebessa și Khenchela. Geografie K7 — comerțul agricol pe podișurile înalte.",
+      "factsAdvanced": [
+        "Semnificație nume: Izvorul Alb",
+        "Trib dominant: Haracta",
+        "Regiune: Hautes Plaines (Est)",
+        "Economie: Comerț cu cereale și zootehnie",
+        "Altitudine: 1.015 metri",
+        "Poziție: Nod rutier strategic în est",
+        "Cultură: Renumit pentru poezia populară"
+      ]
+    },
+    {
+      "id": "khenchela-cities-v2",
+      "descriptionAdvanced": "Khenchela este situat în inima masivului muntos Aurès, fiind un centru cultural major al poporului berber Chaouia. Orașul este situat la o altitudine ridicată, oferind un peisaj montan impresionant cu păduri vaste de cedru și pin. Khenchela este renumită pentru Hammam Essalihine, un complex termal roman vechi de 2000 de ani care funcționează perfect și astăzi, oferind ape cu proprietăți curative. Economia regiunii este bazată pe exploatarea lemnului, agricultură și meșteșuguri tradiționale, cum ar fi țesutul covoarelor. Orașul are o istorie eroică, fiind regiunea de origine a reginei Kahina care a rezistat cuceririi arabe. Geografie K7 — cultura Aurès și resursele montane.",
+      "factsAdvanced": [
+        "Regiune: Munții Aurès",
+        "Altitudine: 1.130 metri",
+        "Statut istoric: Capitala triburilor Chaouia",
+        "Monument viu: Hammam Essalihine (băi romane active)",
+        "Natură: Păduri de cedru milenare",
+        "Economie: Industria lemnului și artizanat",
+        "Poziție: 470 km est de Alger"
+      ]
+    },
+    {
+      "id": "bousaada-cities-v2",
+      "descriptionAdvanced": "Bou Saâda, adesea numit "Orașul Fericirii" sau "Poarta Saharei", este cea mai apropiată oază de capitala Alger. Orașul a fascinat pictorii orientaliști, precum Étienne Dinet, care și-a petrecut o mare parte din viață aici, capturând lumina unică și peisajele deșertice. Bou Saâda este renumit pentru artizanatul său de înaltă calitate, în special pentru confecționarea cuțitelor tradiționale (Boussaadi) și a bijuteriilor de argint. Orașul găzduiește și un moulin (moară) istoric și Institutul Național de Turism. Poziția sa geografică între podișurile înalte și marele deșert îi conferă un climat de tranziție unic. Este o destinație culturală și turistică de prim rang pentru explorarea autenticității algeriene. Geografie K6 — turismul cultural și oazele de proximitate.",
+      "factsAdvanced": [
+        "Poreclă: Orașul Fericirii",
+        "Distanță față de Alger: 245 km",
+        "Artă: Muzeul Étienne Dinet",
+        "Meșteșug: Cuțitele tradiționale Boussaadi",
+        "Natură: Munții Djebel Kerdada",
+        "Religie: Centrul religios de la El Hamel",
+        "Produs: Bijuterii tradiționale din argint"
+      ]
+    },
+    {
+      "id": "mascara-cities-v2",
+      "descriptionAdvanced": "Mascara este un oraș de o importanță istorică simbolică pentru Algeria, fiind prima capitală a statului algerian modern sub conducerea lui Emir Abdelkader între 1832 și 1841. Situat în inima unei zone agricole fertile, orașul este renumit pentru podgoriile sale care produc vinuri de calitate recunoscute internațional. Regiunea este, de asemenea, un centru major pentru cultura cerealelor și a măslinilor. Mascara păstrează vestigii ale epocii otomane și ale rezistenței naționale, inclusiv sediul guvernului lui Abdelkader. Poziția sa pe platourile înalte din vest îi oferă un peisaj variat, dominat de munții Beni Chougrane. Orașul rămâne un simbol al demnității și luptei pentru suveranitate. Geografie K7 — istoria națională și viticultura.",
+      "factsAdvanced": [
+        "Statut istoric: Capitala lui Emir Abdelkader",
+        "Agricultură: Viticultură și ulei de măsline",
+        "Relief: Munții Beni Chougrane",
+        "Altitudine: 585 metri",
+        "Monument: Sediul Comandamentului lui Abdelkader",
+        "Economie: Prelucrarea pieilor și cereale",
+        "Poziție: 100 km sud-est de Oran"
+      ]
+    },
+    {
+      "id": "tindouf-cities-v2",
+      "descriptionAdvanced": "Tindouf este un oraș strategic situat în extremitatea de sud-vest a Algeriei, la granița cu Maroc, Mauritania și Sahara Occidentală. Această poziție izolată, dar crucială, a făcut din Tindouf un hub logistic și militar esențial. Recent, importanța sa economică a crescut exponențial datorită lansării megaproiectului minier Gara Djebilet, una dintre cele mai mari rezerve de fier din lume situată în apropiere. Orașul găzduiește tabere de refugiați saharieni, reflectând rolul său în geopolitica regională. Climatul este arid extrem, cu temperaturi ce pot depăși 50 de grade în timpul verii. Tindouf servește ca punct de plecare pentru rutele comerciale trans-sahariene către Africa de Vest. Geografie K8 — minerit la scară largă și geopolitică.",
+      "factsAdvanced": [
+        "Localizare: Sud-vest extrem (Sahara)",
+        "Granițe: Maroc, Mauritania, Sahara Occidentală",
+        "Resurse: Proximitate față de mina Gara Djebilet (fier)",
+        "Climat: Deșertic arid extrem",
+        "Transport: Aeroport și noi linii feroviare planificate",
+        "Economie: Minerit și comerț transfrontalier",
+        "Populație: Peste 60.000 locuitori"
+      ]
+    },
+    {
+      "id": "adrar-cities-v2",
+      "descriptionAdvanced": "Adrar este un oraș vibrant situat în inima regiunii Touat din Sahara algeriană. Este renumit pentru arhitectura sa deosebită din cărămidă de noroi roșu și pentru piața sa centrală imensă. Adrar este un centru major pentru industria de gaze naturale și petrol, dar și pentru proiecte inovatoare de agricultură în deșert sub pivot. Sistemul tradițional de irigații "foggara", inclus în patrimoniul imaterial, este încă vizibil în regiune, demonstrând geniul străvechi de captare a apei subterane. Orașul este și un centru de învățământ religios și academic, găzduind numeroase "zaouïas" (școli sufi). Deși situat în plin deșert, Adrar cunoaște o modernizare rapidă și o creștere demografică susținută. Geografie K7 — energia fosilă și agricultura de irigații sahariană.",
+      "factsAdvanced": [
+        "Regiune: Touat (Sahara)",
+        "Arhitectură: Cărămidă roșie de pământ",
+        "Infrastructură: Sistemul antic de irigații Foggara",
+        "Economie: Hidrocarburi și agricultură sub pivot",
+        "Educație: Universitatea din Adrar și școli sufi",
+        "Culoare dominantă: Roșu saharian",
+        "Climat: Arid, cu vânturi frecvente (Sirocco)"
+      ]
+    },
+    {
+      "id": "tamanrasset-cities-v2",
+      "descriptionAdvanced": "Tamanrasset, cunoscut sub numele de "Tam", este metropola sudului extrem al Algeriei și capitala munților Hoggar. Situat la 1.400 de metri altitudine, orașul beneficiază de un climat mai blând decât restul Saharei. Este inima culturii Tuareg, renumit pentru bijuteriile de argint, muzica tradițională și festivalurile internaționale care celebrează arta deșertului. Tamanrasset este punctul de plecare pentru expedițiile către masivul vulcanic Atakor și schitul lui Charles de Foucauld de pe platoul Assekrem. Orașul are o importanță strategică imensă, fiind un nod de legătură pentru rutele comerciale către Niger și Mali. Este un amestec fascinant de tradiție nomadă și dezvoltare urbană modernă. Geografie K7 — munții deșertici și cultura Tuareg.",
+      "factsAdvanced": [
+        "Altitudine: 1.400 metri",
+        "Munți: Masivul Hoggar (Ahaggar)",
+        "Poreclă: Capitala Saharei",
+        "Cultură: Centru al populației Tuareg",
+        "Turism: Poarta către platoul Assekrem",
+        "Logistica: Punct de tranzit trans-saharian",
+        "Distanță față de Alger: 1.900 km"
+      ]
+    },
+    {
+      "id": "bouira-cities-v2",
+      "descriptionAdvanced": "Bouira, situată la poalele masivului muntos Djurdjura, este o provincie agricolă esențială în nordul Algeriei. Orașul servește ca un nod de transport vital pe autostrada est-vest, legând capitala de estul țării. Regiunea este renumită pentru producția sa de ulei de măsline de înaltă calitate și pentru câmpiile fertile unde se cultivă cereale. Bouira este, de asemenea, poarta către parcul național Djurdjura și stațiunea de schi Tikjda, oferind peisaje montane spectaculoase. Recent, industrializarea a luat avânt prin crearea parcului industrial Sidi Khaled, unul dintre cele mai mari din țară. Orașul îmbină dinamismul economic cu tradițiile rurale ale populației berbere și arabe. Geografie K6 — agricultura mediteraneană și turismul montan.",
+      "factsAdvanced": [
+        "Munți: Djurdjura (Atlasul Tellian)",
+        "Agricultură: Ulei de măsline și cereale",
+        "Turism: Stațiunea Tikjda",
+        "Infrastructură: Nod pe Autostrada Est-Vest",
+        "Industrie: Parcul industrial Sidi Khaled",
+        "Relief: Câmpia centrală și zone montane",
+        "Populație: Peste 90.000 locuitori"
+      ]
+    },
+    {
+      "id": "tissemsilt-cities-v2",
+      "descriptionAdvanced": "Tissemsilt, situată în inima munților Ouarsenis, este renumită pentru frumusețea sa naturală sălbatică și pădurile de cedru milenare. Orașul este poarta de intrare către Parcul Național Theniet El Had, cunoscut drept "Parcul Cedrilor", un loc de o biodiversitate rară. Economia locală este predominant agricolă, bazată pe cultura cerealelor și pe resursele forestiere. Tissemsilt este un oraș liniștit care păstrează un mod de viață tradițional, departe de agitația marilor metropole. Peisajul este dominat de vârful impozant Sidi Amar, cel mai înalt din masivul Ouarsenis. Dezvoltarea infrastructurii rutiere a început să deschidă această regiune muntoasă către restul țării. Geografie K6 — conservarea biodiversității și relieful Ouarsenis.",
+      "factsAdvanced": [
+        "Regiune: Munții Ouarsenis",
+        "Natură: Parcul Național Theniet El Had",
+        "Vegetație: Păduri de cedru atlasic",
+        "Relief: Vârful Sidi Amar (1.985 metri)",
+        "Economie: Agricultură și silvicultură",
+        "Altitudine: 850 metri",
+        "Poziție: 220 km sud-vest de Alger"
+      ]
+    },
+    {
+      "id": "naama-cities-v2",
+      "descriptionAdvanced": "Naâma este situat pe podișurile înalte din vestul Algeriei, fiind un centru vital pentru păstoritul tradițional și creșterea ovinelor. Orașul are un climat semiarid, fiind o zonă de tranziție între nordul mediteranean și Sahara. Regiunea Naâma este cunoscută pentru diversitatea sa peisagistică, incluzând dune de nisip, munți și zone umede temporare. Orașul istoric Aïn Séfra, situat în apropiere, este faimos pentru legătura sa cu exploratoarea Isabelle Eberhardt. Naâma beneficiază de dezvoltarea rețelei feroviare care leagă nordul de zonele de frontieră, facilitând comerțul cu animale. Este un loc unde tradiția nomadismului se întâlnește cu urbanizarea modernă. Geografie K7 — viața pe Hautes Plaines și zootehnia.",
+      "factsAdvanced": [
+        "Regiune: Podișurile Înalte (Vest)",
+        "Economie: Creșterea oilor (ovinotecnie)",
+        "Climat: Semiarid de stepă",
+        "Istorie: Aproape de Aïn Séfra (Isabelle Eberhardt)",
+        "Transport: Nod pe linia feroviară de vest",
+        "Altitudine: 1.176 metri",
+        "Relief: Munții Ksour"
+      ]
+    },
+    {
+      "id": "el-bayadh-cities-v2",
+      "descriptionAdvanced": "El Bayadh este situat la o altitudine impresionantă în munții Atlasului Saharian, fiind unul dintre cele mai înalte orașe din Algeria. Regiunea este faimoasă pentru creșterea ovinelor, producând unele dintre cele mai apreciate rase de oi din țară. Peisajul este unul de un contrast dramatic, cu platouri stâncoase, situri cu urme de dinozauri și gravuri rupestre preistorice care atestă o locuire umană milenară. El Bayadh are o istorie de rezistență împotriva colonizării franceze, fiind sediul triburilor Ouled Sidi Cheikh. Orașul servește ca un punct strategic de monitorizare a mediului și de luptă împotriva deșertificării prin inițiativele de "Baraj Verde". Este un loc de o frumusețe austeră și autenticitate culturală. Geografie K7 — Atlasul Saharian și tradițiile pastorale.",
+      "factsAdvanced": [
+        "Altitudine: 1.300 metri",
+        "Regiune: Munții Atlasul Saharian",
+        "Economie: Lider în creșterea ovinelor",
+        "Arheologie: Situri cu urme de dinozauri",
+        "Cultură: Tribul Ouled Sidi Cheikh",
+        "Istorie: Rezistența anti-colonială din secolul XIX",
+        "Natură: Proiectul Barajul Verde"
+      ]
+    },
+    {
+      "id": "tizi-ouzou-cities-v2",
+      "descriptionAdvanced": "Tizi Ouzou este capitala culturală și administrativă a regiunii Grande Kabylie, situată într-o vale fertilă înconjurată de vârfurile spectaculoase ale munților Djurdjura. Orașul este inima identității berbere (Amazigh) în Algeria, renumit pentru spiritul său independent și bogăția culturală exprimată prin muzică, poezie și artizanat. Tizi Ouzou este un centru educațional major, găzduind Universitatea Mouloud Mammeri. Economia locală îmbină industria prelucrătoare cu agricultura montană, fiind cunoscută pentru producția de ulei de măsline și covoare de lână. Satul tradițional kabyl, situat pe culmile din jur, păstrează o arhitectură unică și un sistem de organizare socială ancestral. Geografie K7 — cultura Kabyle și relieful montan.",
+      "factsAdvanced": [
+        "Regiune: Grande Kabylie",
+        "Cultură: Inima identității Amazigh (berbere)",
+        "Educație: Universitatea Mouloud Mammeri",
+        "Munți învecinați: Masivul Djurdjura",
+        "Sport: Sediul clubului JSK (Jeunesse Sportive de Kabylie)",
+        "Agricultură: Ulei de măsline și smochine",
+        "Limbi: Tamazight și Arabă"
+      ]
+    },
+    {
+      "id": "ain-defla-cities-v2",
+      "descriptionAdvanced": "Aïn Defla este situat în inima văii râului Chlef, fiind unul dintre principalele centre de producție de cartofi și fructe din Algeria. Poziționat între munții Dahra la nord și masivul Ouarsenis la sud, orașul beneficiază de un sol extrem de fertil și de resurse de apă abundente provenite din barajele locale. Aïn Defla este un oraș în plină expansiune, profitând de poziția sa strategică pe drumul național și autostrada care leagă Alger de Oran. Orașul are o istorie lungă, fiind un nod important încă din perioada otomană. Pe lângă agricultură, sectorul asamblării și serviciilor industriale s-a dezvoltat constant în ultimii ani. Orașul reflectă prosperitatea agricolă a Algeriei centrale. Geografie K7 — producția de legume în zonele de câmpie fluvială.",
+      "factsAdvanced": [
+        "Regiune: Valea Chlef",
+        "Agricultură: Principal producător de cartofi",
+        "Munți: Situat între Dahra și Ouarsenis",
+        "Infrastructură: Nod pe Autostrada Alger-Oran",
+        "Hidrografie: Barajul Ghrib din apropiere",
+        "Altitudine: 280 metri",
+        "Economie: Agro-industrie"
+      ]
+    },
+    {
+      "id": "tipaza-cities-v2",
+      "descriptionAdvanced": "Tipaza este o bijuterie a coastei algeriene, renumită pentru combinația unică între vestigiile arheologice romane și frumusețea apelor albastre ale Mediteranei. Orașul, inclus în Patrimoniul Mondial UNESCO, găzduiește ruinele unui port antic care se întinde pe malul mării, oferind o perspectivă rară asupra vieții urbane din antichitate. Tipaza a fost o sursă de inspirație majoră pentru scriitorul Albert Camus, care a celebrat lumina și peisajele locului în eseurile sale. Dincolo de istorie, Tipaza este un important centru turistic modern, cu complexe hoteliere și plaje populare. Muntele Chenoua, care domină orașul, oferă trasee de drumeție și priveliști panoramice spectaculoase. Geografie K6 — siturile UNESCO și turismul de coastă.",
+      "factsAdvanced": [
+        "Statut: Patrimoniul Mondial UNESCO",
+        "Istorie: Port fenician și colonie romană",
+        "Literatură: Sursă de inspirație pentru Albert Camus",
+        "Monumente: Bazilica Sfânta Salsa, Teatrul Roman",
+        "Relief: Muntele Chenoua (905 metri)",
+        "Distanță față de Alger: 70 km",
+        "Economie: Turism și pescuit"
+      ]
+    },
+    {
+      "id": "mila-cities-v2",
+      "descriptionAdvanced": "Mila este unul dintre cele mai vechi orașe locuite din Algeria, având o istorie continuă care datează din perioada numidiană și romană. Orașul este faimos pentru Moscheea Sidi Ghanem, construită în secolul al VII-lea pe locul unei foste bazilici romane, fiind considerată prima moschee construită în Algeria după cucerirea islamică. Mila este situată într-o regiune extrem de fertilă, fiind poreclită "coșul de pâine al estului" datorită producției masive de cereale. În prezent, orașul găzduiește barajul Beni Haroun, cel mai mare baraj din Algeria și unul dintre cele mai mari din Africa, care alimentează cu apă mai multe provincii din est. Este un loc unde istoria profundă se întâlnește cu proiectele gigantice de infrastructură modernă. Geografie K7 — resursele hidrografice și istoria maghrebiană.",
+      "factsAdvanced": [
+        "Monument: Moscheea Sidi Ghanem (cea mai veche din țară)",
+        "Hidrografie: Barajul Beni Haroun (cel mai mare din Algeria)",
+        "Istorie: Oraș roman sub numele de Milev",
+        "Agricultură: Producție intensivă de cereale",
+        "Poziție: Aproape de Constantine",
+        "Nume antic: Milevum",
+        "Altitudine: 470 metri"
+      ]
+    },
+    {
+      "id": "el-tarf-cities-v2",
+      "descriptionAdvanced": "El Tarf este situat în extremitatea nord-estice a Algeriei, fiind renumit pentru biodiversitatea sa excepțională și pădurile de plută. Orașul este poarta către Parcul Național El Kala, un ecosistem unic de lacuri, zone umede și păduri de coastă inclus în patrimoniul UNESCO. Regiunea este un paradis pentru ornitologi, fiind o stație majoră pentru păsările migratoare între Europa și Africa. El Tarf este, de asemenea, o zonă agricolă importantă, cunoscută pentru producția de tomate și fructe de pădure. Proximitatea față de granița cu Tunisia face din oraș un punct strategic pentru comerțul transfrontalier. Plajele sălbatice și peisajele verzi oferă un potențial turistic ecologic imens. Geografie K6 — ecosisteme de mlaștină și conservarea naturii.",
+      "factsAdvanced": [
+        "Natură: Parcul Național El Kala",
+        "Ecosistem: Lacuri (Tonga, Mellah, Oubeira)",
+        "Biodiversitate: Habitat pentru cerbul de Berberia",
+        "Agricultură: Culturi de roșii și cereale",
+        "Poziție: Granița cu Tunisia",
+        "Silvicultură: Producție de plută",
+        "Statut: Rezervație a Biosferei UNESCO"
+      ]
+    },
+    {
+      "id": "oum-el-bouaghi-cities-v2",
+      "descriptionAdvanced": "Oum El Bouaghi, situat în regiunea Hautes Plaines din estul Algeriei, este un centru administrativ și universitar vital situat la poalele munților Sidi R'ghiss. Orașul se află în inima unei zone caracterizate prin prezența "chott-urilor" (lacuri sărate temporare), care atrag mii de păsări flamingo în timpul iernii. Regiunea este un pilon al producției de cereale din Algeria, cu câmpii vaste dedicate culturii grâului și orzului. Oum El Bouaghi a cunoscut o dezvoltare rapidă prin creșterea instituțiilor de învățământ superior și a infrastructurii rutiere care leagă Constantine de zonele sudice. Cultura locală este marcată de tradițiile triburilor berbere Chaouia. Geografie K7 — zonele umede de interior și producția cerealieră.",
+      "factsAdvanced": [
+        "Regiune: Hautes Plaines",
+        "Natură: Chott Tinsilt (zonă umedă Ramsar)",
+        "Altitudine: 900 metri",
+        "Populație: Majoritar berberi Chaouia",
+        "Educație: Universitatea Larbi Ben M'hidi",
+        "Agricultură: Producție masivă de cereale",
+        "Poziție: Între Constantine și Tebessa"
+      ]
+    },
+    {
+      "id": "ain-temouchent-cities-v2",
+      "descriptionAdvanced": "Aïn Témouchent este situat în nord-vestul Algeriei, fiind renumit pentru pământurile sale agricole de o fertilitate legendară și pentru coasta sa spectaculoasă. Orașul are rădăcini istorice numidiene și romane, fiind situat pe locul vechiului Albulae. Regiunea este unul dintre principalii producători de vin și cereale din țară, beneficiind de un microclimat ideal. Orașul de coastă Beni Saf, aflat în apropiere, este un port de pescuit și un centru istoric al mineritului. Aïn Témouchent este, de asemenea, faimos pentru izvoarele sale termale, Hammam Bouhadjar. În ultimii ani, orașul a devenit un pol de atracție turistică datorită plajelor sale virgine și a investițiilor în infrastructura hotelieră. Geografie K6 — agricultura de coastă și resursele termale.",
+      "factsAdvanced": [
+        "Nume antic: Albulae",
+        "Agricultură: Viticultură și cereale",
+        "Turism termal: Hammam Bouhadjar",
+        "Pescuit: Portul Beni Saf (apropiat)",
+        "Altitudine: 250 metri",
+        "Relief: Podișul Oran",
+        "Istorie: Oraș numidian și roman"
+      ]
+    },
+    {
+      "id": "boumerdes-cities-v2",
+      "descriptionAdvanced": "Boumerdès, situat pe coasta mediteraneană la est de Alger, este cunoscut ca centrul academic și tehnologic al Algeriei, fiind sediul multor institute naționale de hidrocarburi și tehnologie. Orașul a fost reconstruit într-un stil modern și planificat, oferind plaje largi și parcuri verzi care atrag mii de turiști în timpul verii. Boumerdès este un pol industrial important în sectoarele electronic și agroalimentar. Orașul a demonstrat o reziliență incredibilă după seismul major din 2003, devenind un model de reconstrucție urbană sigură. Proximitatea sa față de capitală îl face o zonă rezidențială și academică extrem de căutată. Corniche-ul din Boumerdès este unul dintre cele mai lungi și bine amenajate din țară. Geografie K8 — educația tehnologică și industria.",
+      "factsAdvanced": [
+        "Poreclă: Orașul Științei",
+        "Distanță față de Alger: 45 km",
+        "Educație: Universitatea M'Hamed Bougara",
+        "Institute: Hidrocarburi, Electricitate și Gaz",
+        "Turism: Plaja centrală și Corniche",
+        "Eveniment: Reconstrucția post-seism 2003",
+        "Sector economic: Tehnologie și pescuit"
+      ]
+    },
+    {
+      "id": "bordj-badji-mokhtar-cities-v2",
+      "descriptionAdvanced": "Bordj Badji Mokhtar este situat în extremitatea sudică a Algeriei, pe linia de demarcație cu Mali, fiind unul dintre cele mai izolate orașe din Sahara. Orașul servește ca un punct de frontieră critic și un nod comercial pentru populațiile nomade de pe ambele părți ale graniței. Regiunea este caracterizată de un peisaj deșertic imens (Tanezrouft), cu condiții climatice extreme de ariditate și căldură. Populația locală, formată în mare parte din Tuaregi și Reguibat, trăiește dintr-un amestec de comerț transfrontalier și creșterea cămilelor. Bordj Badji Mokhtar este un simbol al suveranității algeriene în deșertul adânc, fiind deservit de un aeroport care asigură singura legătură rapidă cu nordul țării. Geografie K8 — frontierele deșertice și logistica sahariană.",
+      "factsAdvanced": [
+        "Poziție: Sud extrem, granița cu Mali",
+        "Regiune: Deșertul Tanezrouft",
+        "Populație: Tuaregi și nomazi Reguibat",
+        "Economie: Comerț transfrontalier și dromaderi",
+        "Acces: Aeroport strategic",
+        "Climat: Unul dintre cele mai calde locuri din Algeria",
+        "Distanță față de Alger: 2.200 km"
+      ]
+    },
+    {
+      "id": "in-salah-cities-v2",
+      "descriptionAdvanced": "In Salah este un oraș de oază istoric situat în inima Saharei algeriene, renumit pentru bogăția sa în resurse energetice. Orașul este situat deasupra uneia dintre cele mai mari rezerve de gaze naturale din lume și a fost locul unui proiect pionier de captare și stocare a carbonului. Din punct de vedere istoric, In Salah a fost un punct de oprire crucial pe rutele caravanelor trans-sahariene care legau nordul Africii de Niger. Orașul este divizat simbolic de o dună de nisip care avansează constant, ilustrând lupta permanentă dintre om și deșert. Arhitectura din argilă roșie este tipică regiunii Tidikelt. Grădinile de palmieri sunt irigate prin sisteme tradiționale care permit producția de fructe în condiții de arșiță extremă. Geografie K8 — energia fosilă și avansul deșertului.",
+      "factsAdvanced": [
+        "Regiune: Tidikelt (Central Sahara)",
+        "Resurse: Gigantice rezerve de gaz natural",
+        "Ecologie: Proiecte de stocare a CO2",
+        "Istorie: Nod pe rutele caravanelor de sare și aur",
+        "Arhitectură: Stil Ksar din lut roșu",
+        "Problemă mediu: Avansul dunelor de nisip",
+        "Climat: Arid extrem"
+      ]
+    },
+    {
+      "id": "in-guezzam-cities-v2",
+      "descriptionAdvanced": "In Guezzam este ultimul oraș algerian înainte de granița cu Nigerul, situat în inima deșertului saharian. Orașul funcționează ca un punct de tranzit vital pentru fluxurile migratorii și comerciale dintre Maghreb și Africa Subsahariană. Viața în In Guezzam este definită de izolarea geografică și de adaptarea la condițiile de deșert extrem, unde apa și resursele sunt prețioase. Populația este formată preponderent din comunități nomade sedentarizate care păstrează legături strânse cu triburile din Sahel. În ultimii ani, orașul a beneficiat de investiții guvernamentale pentru a deveni un pol de dezvoltare în sudul extrem, vizând securitatea alimentară și comerțul legal. Este o zonă unde peisajul este dominat de imensitatea platourilor stâncoase și a nisipului. Geografie K8 — zonele de frontieră și integrarea africană.",
+      "factsAdvanced": [
+        "Statut: Punct de frontieră cu Nigerul",
+        "Regiune: Sud extrem (Sahara)",
+        "Economie: Comerț de tranzit și logistica de frontieră",
+        "Transport: Aeroportul In Guezzam",
+        "Climat: Hiper-arid",
+        "Distanță față de Tamanrasset: 400 km sud",
+        "Populație: Comunități Tuareg"
+      ]
+    },
+    {
+      "id": "djanet-cities-v2",
+      "descriptionAdvanced": "Djanet este o oază fascinantă situată în sud-estul Algeriei, fiind principala poartă de acces către Parcul Național Tassili n'Ajjer. Orașul este construit între munții de gresie și imensele dune de nisip ale Erg-ului Admer, oferind un peisaj ireal care a atras călători din întreaga lume. Djanet este renumit pentru festivalul "Sebeïba", o celebrare milenară a dansului și muzicii Tuareg, inclusă în patrimoniul UNESCO. Oaza este alimentată de ape subterane care susțin livezi luxuriante de palmieri chiar și în mijlocul deșertului. Arhitectura orașului este compusă din ksour (sate fortificate) vechi de secole. Este locul ideal pentru a explora gravurile rupestre preistorice care povestesc despre o Sahară verde și plină de viață. Geografie K6 — turismul de aventură și arta rupestră.",
+      "factsAdvanced": [
+        "Poartă de acces: Parcul Național Tassili n'Ajjer",
+        "UNESCO: Festivalul Sebeïba",
+        "Natură: Erg Admer și munții de gresie",
+        "Cultură: Inima culturii Tuareg Ajjer",
+        "Produs local: Curmale de oază",
+        "Climat: Arid, cu nopți reci de deșert",
+        "Distanță față de Alger: 2.100 km"
+      ]
+    },
+    {
+      "id": "el-menia-cities-v2",
+      "descriptionAdvanced": "El Ménia, cunoscută în trecut sub numele de El Goléa, este supranumită "perla deșertului" datorită vegetației sale bogate și a apelor subterane abundente. Orașul este dominat de ruinele unui ksar (castel) impozant situat pe un deal, care oferă o priveliște panoramică asupra livezilor de palmieri și a dunelor de nisip. El Ménia este renumită pentru biserica Sfântul Iosif și pentru mormântul lui Charles de Foucauld, reflectând o istorie spirituală diversă. Orașul este un centru agricol major în deșert, producând fructe, legume și curmale de calitate superioară. Proiectele recente de irigații sub pivot au transformat împrejurimile în zone verzi productive vizibile din satelit. Este un punct de oprire obligatoriu pe ruta trans-sahariană. Geografie K7 — agricultura modernă în deșert și patrimoniul oazelor.",
+      "factsAdvanced": [
+        "Poreclă: Perla deșertului",
+        "Nume vechi: El Goléa",
+        "Monument: Vechiul Ksar din secolul X",
+        "Religie: Mormântul lui Charles de Foucauld",
+        "Agricultură: Lider în culturile sub pivot (Sahara)",
+        "Hidrografie: Rezerve imense de apă fosilă",
+        "Poziție: Pe drumul spre In Salah"
+      ]
+    },
+    {
+      "id": "timimoun-cities-v2",
+      "descriptionAdvanced": "Timimoun, supranumit "oaza roșie", este una dintre cele mai spectaculoase destinații din Sahara algeriană, renumită pentru arhitectura sa unică în stil sudanez, realizată din argilă roșie. Orașul este situat pe marginea unui platou (Gourara), oferind o vedere panoramică asupra vechiului lac sărat și a dunelor de nisip. Timimoun este renumit pentru sistemul său ingenios de irigații prin "foggara" și pentru spiritul ospitalier al locuitorilor săi. Orașul este un centru cultural major, unde muzica "Ahellil" (inclusă în patrimoniul UNESCO) răsună în timpul festivalurilor tradiționale. Deși păstrează un aspect ancestral, Timimoun a cunoscut o dezvoltare modernă prin turismul sustenabil și industria gazelor naturale din regiune. Geografie K7 — regiunea Gourara și sistemele foggara.",
+      "factsAdvanced": [
+        "Poreclă: Oaza Roșie",
+        "Regiune: Gourara",
+        "UNESCO: Muzica și poezia Ahellil",
+        "Infrastructură: Sistem de irigații Foggara",
+        "Arhitectură: Stil neo-sudanez",
+        "Turism: Destinație de top pentru revelion în deșert",
+        "Culoare: Ocru-roșu natural"
+      ]
+    },
+    {
+      "id": "beni-abbes-cities-v2",
+      "descriptionAdvanced": "Béni Abbès, cunoscută sub numele de "Oaza Albă", este situată pe malul stâng al râului Saoura, fiind un loc de o frumusețe rară unde deșertul se întâlnește cu apa. Orașul este celebru pentru "Marea Dună" care îl domină și pentru ksar-ul său istoric situat într-o pădure de palmieri în formă de inimă. Béni Abbès este un centru de cercetare sahariană important și locul unde Charles de Foucauld a construit primul său schit. Orașul este renumit pentru festivalurile sale de muzică tradițională și pentru producția de curmale. Peisajul din jur este marcat de valea râului Saoura, un coridor verde care traversează deșertul stâncos (Hamada). Este o destinație liniștită, apreciată pentru spiritualitatea și autenticitatea sa. Geografie K6 — valea Saoura și oazele fluviale.",
+      "factsAdvanced": [
+        "Poreclă: Oaza Albă",
+        "Râu: Oued Saoura",
+        "Religie: Schitul lui Charles de Foucauld (1901)",
+        "Relief: Marea Dună din Béni Abbès",
+        "Stiință: Centru de Cercetări Sahariene",
+        "Natură: Palmierat în formă de inimă",
+        "Climat: Saharian cu microclimat fluvial"
+      ]
+    },
+    {
+      "id": "ouled-djellal-cities-v2",
+      "descriptionAdvanced": "Ouled Djellal este renumit la nivel mondial pentru "oaia de Ouled Djellal", cea mai importantă și apreciată rasă de ovine din Algeria și din Maghreb, cunoscută pentru calitatea cărnii și adaptabilitatea la mediile aride. Orașul este un centru economic major pentru comerțul cu animale, influențând prețurile la nivel național. Pe lângă zootehnie, Ouled Djellal este o oaza fertilă situată la porțile Saharei, producând curmale de înaltă calitate. Recent devenit capitală de provincie, orașul cunoaște o modernizare administrativă și urbană semnificativă. Este un loc unde tradiția pastorală este motorul dezvoltării moderne. Regiunea înconjurătoare este marcată de câmpii vaste de stepă ideale pentru pășunat. Geografie K7 — rasele de animale endemice și economia pastorală.",
+      "factsAdvanced": [
+        "Faimă: Rasa de oi "Ouled Djellal" (albă)",
+        "Economie: Cel mai mare hub de ovine din țară",
+        "Regiune: Ziban (Porțile Saharei)",
+        "Agricultură: Producția de curmale",
+        "Populație: Peste 70.000 locuitori",
+        "Statut: Recent ridicat la rang de provincie",
+        "Poziție: 100 km sud-vest de Biskra"
+      ]
+    },
+    {
+      "id": "khemis-miliana-cities-v2",
+      "descriptionAdvanced": "Khemis Miliana este un centru urban și universitar dinamic situat în fertila vale a râului Chlef, la jumătatea distanței dintre Alger și Oran. Orașul a evoluat de la o piață agricolă regională la un hub industrial și academic important, găzduind Universitatea Djilali Bounaama. Khemis Miliana beneficiază de o poziție geografică privilegiată, fiind un punct de intersecție major pe axele rutiere est-vest și nord-sud. Orașul este înconjurat de zone agricole productive unde se cultivă cereale și fructe. Istoric, a fost un loc de schimb comercial esențial încă din perioada colonială. Astăzi, dinamismul său este susținut de o populație tânără și de dezvoltarea micilor întreprinderi industriale. Geografie K7 — orașele medii și funcția lor de nod de transport.",
+      "factsAdvanced": [
+        "Localizare: Valea Chlef",
+        "Educație: Universitatea Djilali Bounaama",
+        "Poziție: Nod rutier strategic (A1 și rute naționale)",
+        "Agricultură: Piață majoră de cereale și fructe",
+        "Altitudine: 250 metri",
+        "Populație: Peste 100.000 locuitori",
+        "Distanță față de Alger: 120 km"
+      ]
+    },
+    {
+      "id": "port-of-bejaia-economic-v2",
+      "descriptionAdvanced": "Portul Bejaïa este unul dintre cele mai importante și strategice terminale maritime ale Algeriei, situat pe coasta estică a Mediteranei. Este un port polivalent care gestionează o gamă largă de mărfuri, fiind principalul punct de export pentru petrolul extras din zona Hassi Messaoud prin conducte. De asemenea, portul este un hub major pentru importul de materii prime alimentare, piese industriale și containere. Datorită adâncimii apelor sale și a infrastructurii moderne, Bejaïa poate găzdui nave de mare tonaj. Poziția sa în golful Bejaïa oferă o protecție naturală excelentă. Portul joacă un rol vital în economia regiunii Kabylie și a întregii țări, facilitând comerțul cu Europa și restul lumii. Geografie K8 — logistica portuară și exportul de hidrocarburi.",
+      "factsAdvanced": [
+        "Funcție principală: Terminal petrolier și mărfuri generale",
+        "Locație: Golful Bejaïa (Mediterana)",
+        "Capacitate: Peste 20 milioane tone anual",
+        "Infrastructură: Terminal de containere și cereale",
+        "Logistica: Conectat prin oleoduct la Hassi Messaoud",
+        "Economie: Al doilea port ca mărime din Algeria",
+        "Importanță: Nod comercial pentru regiunea Kabylie"
+      ]
+    },
+    {
+      "id": "port-of-annaba-economic-v2",
+      "descriptionAdvanced": "Portul Annaba, situat în estul extrem al Algeriei, este un hub industrial și comercial de prim rang, fiind esențial pentru exportul resurselor minerale ale țării. Portul este punctul principal de ieșire pentru fierul extras din minele Ouenza și Boukhadra, alimentând în același timp giganticul complex siderurgic El Hadjar din apropiere. De asemenea, gestionează volume mari de fosfați și produse chimice. Infrastructura portuară include terminale specializate pentru mărfuri vrac, containere și pasageri, legând estul Algeriei de partenerii internaționali. Annaba beneficiază de o poziție strategică pe rutele maritime mediteraneene, fiind un motor de creștere economică pentru întreaga regiune de est. Geografie K8 — industria extractivă și terminalele minerale.",
+      "factsAdvanced": [
+        "Specializare: Export de fier și fosfați",
+        "Localizare: Golful Annaba",
+        "Sinergie: Deservește complexul siderurgic El Hadjar",
+        "Capacitate: Hub major pentru estul țării",
+        "Infrastructură: Terminale minerale și de cereale",
+        "Istorie: Unul dintre cele mai vechi porturi comerciale",
+        "Transport: Legătură feroviară directă cu minele din interior"
+      ]
+    },
+    {
+      "id": "port-of-mostaganem-economic-v2",
+      "descriptionAdvanced": "Portul Mostaganem este un nod maritim dinamic situat în vestul Algeriei, cunoscut pentru rolul său crucial în importul de vehicule și în exportul de produse agricole. În ultimii ani, portul a cunoscut o expansiune semnificativă, devenind unul dintre cele mai solicitate puncte de intrare pentru autoturisme și utilaje industriale. De asemenea, Mostaganem gestionează exportul surplusului agricol din câmpiile fertile din vest, în special fructe și legume. Infrastructura sa modernă include terminale de containere și facilități pentru navele Ro-Ro (Roll-on/Roll-off). Portul contribuie la decongestionarea portului Oran și susține dezvoltarea industrială a regiunii înconjurătoare. Este, de asemenea, un punct important pentru traficul de pasageri către Europa. Geografie K8 — diversificarea activităților portuare.",
+      "factsAdvanced": [
+        "Specializare: Import auto și produse agroalimentare",
+        "Tip port: Polivalent și Ro-Ro",
+        "Localizare: Vestul Algeriei (Golful Arzew)",
+        "Capacitate: În creștere rapidă",
+        "Transport: Linii regulate de feribot către Spania",
+        "Economie: Sprijină agricultura intensivă din regiune",
+        "Infrastructură: Terminale moderne de stocare"
+      ]
+    },
+    {
+      "id": "djendjen-port-economic-v2",
+      "descriptionAdvanced": "Portul Djendjen, situat lângă Jijel, este proiectat să fie unul dintre cele mai mari și mai adânci porturi de transbordare din bazinul mediteranean. Cu o adâncime a apei de 18 metri, portul poate găzdui cele mai mari nave de containere din lume, servind ca un hub logistic major pentru Africa de Nord. Djendjen joacă un rol vital în exportul de produse siderurgice provenite de la complexul Bellara și în importul de vehicule la scară industrială. Parteneriatele internaționale, în special cu DP World, au transformat acest port într-o zonă de clasă mondială. Poziția sa strategică și conexiunea cu autostrada est-vest prin noi rute rapide fac din Djendjen un pilon al strategiei de export a Algeriei. Geografie K8 — hub-uri de transbordare și comerț global.",
+      "factsAdvanced": [
+        "Adâncime maximă: 18 metri (pentru nave gigant)",
+        "Funcție: Hub de transbordare și terminal containere",
+        "Specializare: Export de oțel (Bellara) și logistică auto",
+        "Locație: Provincia Jijel",
+        "Parteneriat: Management comun cu DP World",
+        "Infrastructură: Terminale moderne de mare capacitate",
+        "Obiectiv: Cel mai mare port din Maghreb"
+      ]
+    },
+    {
+      "id": "ghazaouet-port-economic-v2",
+      "descriptionAdvanced": "Portul Ghazaouet este situat în extremitatea de nord-vest a Algeriei, aproape de granița cu Marocul, fiind un punct maritim strategic pentru regiunea Tlemcen. Portul este specializat în manipularea mărfurilor generale și a produselor miniere, fiind principalul punct de ieșire pentru zincul și plumbul procesat în regiune. Ghazaouet este, de asemenea, un port de pescuit tradițional renumit, contribuind semnificativ la aprovizionarea pieței locale cu fructe de mare. Terminalul de feribot asigură legături regulate cu Spania, facilitând transportul de pasageri și vehicule. Deși este un port mai mic comparativ cu Oran, importanța sa regională pentru economia și conectivitatea provinciei Tlemcen este vitală. Geografie K8 — porturile de graniță și exporturile minerale.",
+      "factsAdvanced": [
+        "Poziție: Nord-vest extrem (Provincia Tlemcen)",
+        "Export principal: Metale neferoase (Zinc, Plumb)",
+        "Activitate secundară: Pescuit industrial și artizanal",
+        "Transport: Linii de feribot Ghazaouet-Almería",
+        "Infrastructură: Terminal polivalent",
+        "Statut istoric: Nod comercial mediteranean vechi",
+        "Impact: Motor economic pentru vestul extrem"
+      ]
+    },
+    {
+      "id": "ouenza-iron-mine-economic-v2",
+      "descriptionAdvanced": "Mina de fier Ouenza, situată în provincia Tébessa lângă granița cu Tunisia, este cea mai mare și mai veche mină de fier în exploatare din Algeria. Fierul extras aici este de o puritate ridicată (peste 50%), fiind esențial pentru aprovizionarea complexului siderurgic El Hadjar din Annaba. Exploatarea se face în carieră deschisă, transformând peisajul muntos într-un amfiteatru industrial gigantic. Mina Ouenza, împreună cu mina învecinată Boukhadra, reprezintă inima industriei extractive de minereuri metalifere a țării. Minereul este transportat pe cale ferată specializată direct către portul și fabricile din nord. Această activitate susține mii de locuri de muncă și economia întregii regiuni de est. Geografie K8 — resursele minerale și siderurgia.",
+      "factsAdvanced": [
+        "Resursă: Minereu de fier de înaltă puritate",
+        "Locație: Provincia Tébessa (Est)",
+        "Tip exploatare: Carieră deschisă",
+        "Destinație principală: Complexul El Hadjar (Annaba)",
+        "Producție: Milioane de tone anual",
+        "Transport: Linie feroviară dedicată mineritului",
+        "Importanță: Cea mai mare mină de fier din Algeria"
+      ]
+    },
+    {
+      "id": "boukhadra-iron-mine-economic-v2",
+      "descriptionAdvanced": "Mina Boukhadra este o unitate extractivă majoră situată în estul Algeriei, fiind complementară gigantului de la Ouenza. Situată într-o zonă muntoasă din provincia Tébessa, mina furnizează minereu de fier hematit de calitate superioară pentru industria metalurgică națională. Boukhadra joacă un rol strategic în asigurarea materiei prime pentru producția de oțel a Algeriei, reducând dependența de importuri. Activitatea minieră a modelat comunitatea locală, orașul Boukhadra dezvoltându-se în jurul acestor resurse. Minereul este încărcat în trenuri minerale lungi care parcurg relieful accidentat spre coasta mediteraneană. Investițiile recente vizează modernizarea echipamentelor pentru creșterea eficienței extracției. Geografie K8 — lanțul valoric al oțelului în Algeria.",
+      "factsAdvanced": [
+        "Resursă: Hematit (minereu de fier)",
+        "Localizare: Provincia Tébessa",
+        "Relație: Al doilea furnizor pentru El Hadjar",
+        "Transport: Feroviar (linia minieră de est)",
+        "Tip: Exploatare de suprafață și parțial subterană",
+        "Economie: Sursă principală de venit pentru regiune",
+        "Calitate minereu: Conținut ridicat de fier"
+      ]
+    },
+    {
+      "id": "djebel-onk-phosphate-mine-economic-v2",
+      "descriptionAdvanced": "Mina Djebel Onk este una dintre cele mai mari exploatări de fosfați din lume, situată în sudul provinciei Tébessa. Algeria deține rezerve masive de fosfați, iar Djebel Onk este centrul acestei bogății, furnizând materia primă pentru producția de îngrășăminte chimice și acid fosforic. Fosfatul extras aici este esențial pentru agricultura globală, fiind exportat prin portul Annaba. Guvernul algerian a lansat proiecte integrate gigantice pentru transformarea locală a fosfatului în îngrășăminte, vizând transformarea țării într-un lider mondial în acest sector. Exploatarea este una de mare amploare, utilizând tehnologii moderne de procesare a minereului. Este un pilon al diversificării economice a Algeriei dincolo de petrol și gaze. Geografie K8 — fosfații și securitatea alimentară globală.",
+      "factsAdvanced": [
+        "Resursă: Fosfați naturali",
+        "Rang mondial: Printre cele mai mari rezerve de fosfat",
+        "Locație: Bir El Ater, Provincia Tébessa",
+        "Utilizare: Îngrășăminte agricole și industrie chimică",
+        "Export: Portul Annaba",
+        "Proiect: Proiectul Integrat al Fosfatului (PPI)",
+        "Importanță: Pilon al diversificării economice"
+      ]
+    },
+    {
+      "id": "in-amenas-gas-plant-economic-v2",
+      "descriptionAdvanced": "Complexul de gaze In Amenas, situat în sud-estul Algeriei lângă granița cu Libia, este una dintre cele mai importante unități de producție de gaz și condensat din țară. Operat în parteneriat internațional, complexul exploatează mai multe câmpuri de gaze din bazinul Illizi. In Amenas reprezintă o verigă critică în securitatea energetică a Europei, furnizând volume semnificative de gaze naturale prin rețeaua de conducte trans-sahariene. Instalațiile sunt de o complexitate tehnică extremă, fiind capabile să proceseze gaze în condițiile de mediu severe ale Saharei. Deși situat într-o zonă izolată, complexul dispune de propria infrastructură logistică și de siguranță de înalt nivel. Este un simbol al puterii energetice a Algeriei pe scena mondială. Geografie K8 — industria gazelor și piețele globale de energie.",
+      "factsAdvanced": [
+        "Produs: Gaz natural și condensat",
+        "Locație: Provincia Illizi (lângă Libia)",
+        "Capacitate: Peste 10 miliarde mc anual",
+        "Parteneriat: Sonatrach cu parteneri internaționali",
+        "Importanță: Furnizor major pentru piața europeană",
+        "Bazin: Illizi-Ghadames",
+        "Tip: Complex integrat de extracție și procesare"
+      ]
+    }
+  ]
+}

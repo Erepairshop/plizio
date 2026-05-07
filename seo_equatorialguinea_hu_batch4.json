@@ -1,0 +1,33 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "riaba-cities-v2",
+      "descriptionAdvanced": "Riaba egy kisebb, történelmi jelentőségű város Bioko szigetének keleti részén, amely egykor a mezőgazdasági export egyik központja volt. A város elhelyezkedése lehetővé teszi a környező vulkanikus tájak és a partvidék könnyű megközelítését, ami kedvez a lassú turizmus fejlődésének. Riaba atmoszférája csendes, tükrözi a sziget múltbeli gyarmati és agrárfejlődését, és jó példa a biokói életmód konzerválására. A település környékén számos trópusi növénytermesztési projekt valósult meg az évtizedek során. Tanterv: Földrajz K6, Történelem K8.",
+      "factsAdvanced": [
+        "Bioko szigetének keleti részén található.",
+        "Történelmi mezőgazdasági központ.",
+        "Könnyű hozzáférés a vulkanikus tájakhoz.",
+        "Csendes, hagyományos biokói városka.",
+        "Kiemelkedő szerepet játszott az agrárexportban.",
+        "A sziget kulturális örökségének része."
+      ]
+    },
+    {
+      "id": "baney-cities-v2",
+      "descriptionAdvanced": "Baney Bioko szigetének északi részén, a fővárostól nem messze található, és fontos szerepet játszik az északi tartomány ellátásában. A település környezete termékeny, vulkanikus talajon alapuló intenzív növénytermesztésre alkalmas, különösen a banán és más trópusi gyümölcsök tekintetében. Baney a Malabóhoz való közelsége miatt fontos elővárosi jellegű településsé vált, ahol a mezőgazdaság mellett a kereskedelem is meghatározó. A város fejlődése szorosan összekapcsolódik a sziget északi részének gazdasági növekedésével. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      "factsAdvanced": [
+        "Bioko sziget északi részén fekszik.",
+        "Termékeny, vulkanikus talajú régió.",
+        "Központja a banántermesztésnek.",
+        "Malabo közelsége miatt fontos előváros.",
+        "A mezőgazdaság és kereskedelem ötvözete.",
+        "A sziget gazdasági növekedésének egyik motorja."
+      ]
+    }
+  ]
+}

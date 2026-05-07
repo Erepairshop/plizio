@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "philippines",
+  "files": [
+    "lib/visualLab/data/poiExtraPhilippinesCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesLifeV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesNatureV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "imus-cities-v2",
+      "descriptionAdvanced": "Imus, Cavite tartomány hivatalos fővárosa, kiemelkedő szerepet játszott a Fülöp-szigetek történelmében, különösen a spanyol gyarmati uralom elleni forradalom idején. A várost gyakran a „Fülöp-szigetek zászlófővárosaként” emlegetik, mivel itt vonták fel először a nemzeti lobogót az 1898-as alapani csata után. Ma Imus egy dinamikusan fejlődő gazdasági központ, amely stratégiai elhelyezkedésének köszönhetően Manila déli kapujaként funkcionál. A város modern lakóparkoknak, ipari övezeteknek és hatalmas bevásárlóközpontoknak ad otthont, miközben büszkén őrzi vallási örökségét a gyönyörű Imusi székesegyház révén. Évente megrendezik a Wagayway fesztivált, amely a hazafiság és az ősök bátorsága előtt tiszteleg. Földrajz K7 — városfejlődés és történelmi jelentőség.",
+      "factsAdvanced": [
+        "Cavite tartomány fővárosa 1977 óta.",
+        "Itt vonták fel először a filippínó zászlót 1898. május 28-án.",
+        "Az Imusi székesegyház a 18. században épült kőből.",
+        "Híres a helyi készítésű 'Imus Longganisa' nevű kolbászáról.",
+        "A város területe körülbelül 64,70 négyzetkilométer.",
+        "Hivatalosan 2012-ben kapott városi (city) rangot.",
+        "A Wagayway fesztivál a zászló első felvonásának emléknapja.",
+        "Fontos ipari parkok és kereskedelmi központok találhatók itt."
+      ]
+    },
+    {
+      "id": "olongapo-cities-v2",
+      "descriptionAdvanced": "Olongapo City a Subic-öböl partján fekszik, és történelme elválaszthatatlanul összefonódott az amerikai haditengerészeti jelenléttel. Évtizedekig itt működött az USA legnagyobb tengerentúli bázisa, ami meghatározta a város gazdaságát és társadalmi szerkezetét. Az amerikai erők 1992-es kivonulása és a Pinatubo-vulkán 1991-es pusztító kitörése után a város figyelemre méltó rugalmasságról tett tanúbizonyságot. Olongapo modern szabadkikötővé és turisztikai központtá alakult a Subic Bay Freeport Zone-on belül. A város úttörő szerepet tölt be a köztisztaság és az önkéntesség területén a Fülöp-szigeteken. Látogatóit vibráló éjszakai élettel, modern bevásárlóközpontokkal és a közeli természetvédelmi területekkel vonzza. Geschichte K8 — posztkoloniális fejlődés és gazdasági átalakulás.",
+      "factsAdvanced": [
+        "1959-ig az amerikai haditengerészet közvetlen irányítása alatt állt.",
+        "1966-ban nyerte el a magasan urbanizált városi rangot.",
+        "A Pinatubo-vulkán hamuja súlyos károkat okozott a városban 1991-ben.",
+        "Az országban elsők között tiltották be a műanyag zacskók használatát.",
+        "Területe mintegy 185 négyzetkilométert tesz ki.",
+        "A város szoros együttműködésben működik a Subic-öböl hatóságával.",
+        "Itt található a népszerű Mardi Gras fesztivál helyszíne.",
+        "Stratégiai kikötője fontos a nemzetközi kereskedelem számára."
+      ]
+    },
+    {
+      "id": "malolos-cities-v2",
+      "descriptionAdvanced": "Malolos City, Bulacan tartomány fővárosa, a filippínó demokrácia bölcsőjeként ismert. 1898-ban a Barasoain-templomban ült össze a Malolosi Kongresszus, hogy megalkossa Ázsia első demokratikus alkotmányát és kikiáltsa az Első Fülöp-szigeteki Köztársaságot. Ez a történelmi jelentőség nemzeti zarándokhellyé teszi a várost a történelemkedvelők számára. Malolos emellett Közép-Luzon egyik oktatási és kulturális központja, ahol számos egyetem és múzeum működik. A város büszkén őrzi gyarmati építészetét, különösen a Kamestizuhan negyed régi házaiban. A helyi konyha is híres, különösen a malolosi ensaymada és más édességek révén. Geschichte K7 — a Fülöp-szigeteki nemzet születése.",
+      "factsAdvanced": [
+        "Az Első Fülöp-szigeteki Köztársaság székhelye volt 1899-ben.",
+        "A Barasoain-templom szerepel a 200 pesós bankjegyen.",
+        "Itt található a Bulacan Állami Egyetem központi kampusza.",
+        "Minden év januárjában megrendezik a Fiesta Republicát.",
+        "A várostól kb. 45 kilométerre északra fekszik Manila.",
+        "A Kamestizuhan negyedben számos 19. századi kúria látható.",
+        "Hivatalosan 1999-ben nyilvánították várossá.",
+        "Híres a hagyományos kézműves termékeiről és édességeiről."
+      ]
+    },
+    {
+      "id": "tacloban-cities-v2",
+      "descriptionAdvanced": "Tacloban City, Kelet-Visayas gazdasági és közigazgatási központja, mély történelmi és szimbolikus jelentőséggel bír. 1944-ben vált világhírűvé, amikor Douglas MacArthur tábornok itt tért vissza a Fülöp-szigetekre, hogy felszabadítsa az országot a japán megszállás alól. A közelmúltban a város a 2013-as pusztító Haiyan (Yolanda) szupertájfun utáni újjáépítésével mutatta meg rendkívüli erejét. Tacloban fontos kereskedelmi kapu Leyte szigetén, amelyet a monumentális San Juanico híd köt össze a szomszédos Samar szigettel. A város pezsgő kulturális életét a Pintados-Kasadyaan fesztivál koronázza meg, amely az ősi tetoválási hagyományokat és a keresztény hitet ötvözi. Földrajz K8 — természeti katasztrófák és városi rugalmasság.",
+      "factsAdvanced": [
+        "A felszabadítás idején, 1944-ben rövid ideig az ország fővárosa volt.",
+        "Leyte szigetének legnagyobb városa és gazdasági motorja.",
+        "A San Juanico híd, az ország egyik leghosszabb hídja innen indul.",
+        "A 2013-as tájfun során több mint 300 km/h-s széllökéseket mértek.",
+        "A Daniel Z. Romualdez repülőtér a régió legforgalmasabb légikikötője.",
+        "A Pintados fesztivált minden év júniusában rendezik meg.",
+        "Számos regionális kormányzati szerv székhelye található itt.",
+        "A város fontos elosztó központja a mezőgazdasági termékeknek."
+      ]
+    },
+    {
+      "id": "pateros-cities-v2",
+      "descriptionAdvanced": "Pateros az egyetlen megmaradt község Metro Manilában, amely nem kapott városi rangot, ami különleges, kisvárosi hangulatot kölcsönöz neki a felhőkarcolók gyűrűjében. Világszerte híres a „balut” iparáról – ez egy speciális, főtt kacsatojás, benne embrióval, amely nemzeti különlegesség. A község neve közvetlenül a spanyol „kacsatenyésztő” szóból származik, utalva a lakók ősi mesterségére. Bár Makati és Taguig modern negyedei veszik körül, Pateros megőrizte identitását a kézművesség és a helyi ünnepek révén. A település ismert még az „Alfombra” papucsok készítéséről és a finom hímzésekről is, amelyeket gyakran használnak a hagyományos Barong Tagalog ingekhez. Sachkunde K3 — hagyományos mesterségek és helyi kézművesség.",
+      "factsAdvanced": [
+        "Metro Manila legkisebb önkormányzata terület és népesség alapján.",
+        "Az egyetlen egység a fővárosi régióban, amely nem 'city' rangú.",
+        "A 'Fülöp-szigetek Balut-fővárosaként' tartják számon.",
+        "Neve a tagalog 'pato' (kacsa) szóból ered.",
+        "Híres az évenkénti 'Pagoda' folyami fesztiváljáról.",
+        "Az Alfombra papucsok kézzel készülnek a helyi műhelyekben.",
+        "Történelmileg szoros kapcsolatban áll a Pasig-folyóval.",
+        "Fontos beszállítója a kacsatermékeknek a környező városok számára."
+      ]
+    },
+    {
+      "id": "tagaytay-cities-v2",
+      "descriptionAdvanced": "Tagaytay City a Taal-vulkán kráterperemén fekvő elhelyezkedésének és az ebből adódó hűvös klímájának köszönhetően a Fülöp-szigetek egyik legnépszerűbb üdülőhelye. A város páratlan panorámát kínál a Taal-tóra és a benne fekvő aktív vulkánra, ami mágnesként vonzza a természetbarátokat és a fotósokat. Tagaytay egy álmos hegyi faluból prémium turisztikai, gasztronómiai és wellness központtá fejlődött. A gerinc mentén futó éttermek híresek a „Bulalo”-ról, egy kiadós marhahúslevesről, amelyet a hűvös időben különösen kedvelnek. A város népszerű esküvői helyszín és vallási elvonulóhely is, köszönhetően festői templomainak és csendes kertjeinek. Földrajz K7 — vulkanizmus és hegyvidéki éghajlat.",
+      "factsAdvanced": [
+        "Átlagosan 600 méteres tengerszint feletti magasságban fekszik.",
+        "Itt található a világ legkisebb aktív vulkánjának legjobb kilátópontja.",
+        "Manila lakói számára a legkedveltebb 'nyári menekülőhely'.",
+        "Híres a marhahúsból készült helyi specialitásáról, a Bulalóról.",
+        "Jelentős ananász- és kávétermesztő terület a környéken.",
+        "Itt található a 'People's Park in the Sky' nevű befejezetlen palota.",
+        "Éghajlata jóval hűvösebb, mint a környező síkságoké.",
+        "Gyakori helyszíne nemzetközi konferenciáknak és csúcstalálkozóknak."
+      ]
+    },
+    {
+      "id": "valenzuela-cities-v2",
+      "descriptionAdvanced": "Valenzuela City, amely Pío Valenzuela orvosról és forradalmárról kapta a nevét, Metro Manila északi részének ipari gerincét alkotja. A „metropolisz északi kapujaként” döntő szerepet játszik az áruforgalomban a főváros és Közép-Luzon között. Valenzuela sikeresen alakult át mezőgazdasági közösségből magasan iparosodott várossá, ahol textil-, élelmiszer- és műanyaggyárak virágoznak. A városvezetés országosan elismert a hatékony kormányzás és a digitális innovációk terén. Az ipar mellett Valenzuela a kultúrát is támogatja múzeumaival és a People’s Parkkal, amely zöld pihenőhelyet kínál a lakóknak. Wirtschaft K8 — ipari átalakulás és városfejlesztés.",
+      "factsAdvanced": [
+        "Korábban Bulacan tartomány része volt, mielőtt Metro Manilához csatolták.",
+        "Dr. Pío Valenzueláról, a Katipunan mozgalom tagjáról nevezték el.",
+        "Itt található a Fatimai Szűzanya Nemzeti Szentélye.",
+        "Az egyik leginkább üzletbarát és legbiztonságosabb városnak tartják.",
+        "A Valenzuela City People’s Park egy díjnyertes közpark.",
+        "A fémfeldolgozó ipar egyik legfontosabb központja az országban.",
+        "Modern városi könyvtára a legfejlettebbek közé tartozik.",
+        "Fontos közlekedési csomópont a MacArthur Highway és az NLEX mentén."
+      ]
+    },
+    {
+      "id": "roxas-city-cities-v2",
+      "descriptionAdvanced": "Roxas City, Capiz tartomány fővárosa, büszkén viseli a „Fülöp-szigetek tenger gyümölcsei fővárosa” címet. A Visayas-tenger partján fekvő elhelyezkedése gazdag halászhelyeket biztosít, így a halak, garnélák és rákok dominálják a helyi gazdaságot és konyhát. A város Manuel Roxasról, a Harmadik Fülöp-szigeteki Köztársaság első elnökéről kapta a nevét, akinek szülőháza ma védett műemlék. Roxas Cityt tiszta környezet és nyugodt légkör jellemzi, ami éles ellentétben áll a nyüzsgő metropoliszokkal. A látogatók megtekinthetik a közeli Pan-ay templomot a hatalmas haranggal, vagy élvezhetik a környék érintetlen strandjait. A város a Sinadya sa Halaran fesztivál központja is. Wirtschaft K6 — halászat és regionális erőforrások.",
+      "factsAdvanced": [
+        "Manuel Roxasról, a Fülöp-szigetek 5. elnökéről nevezték el.",
+        "Nyugat-Visayas legnagyobb tengeri gyümölcs termelője.",
+        "Az Ang Panublion Múzeum egy régi víztoronyban kapott helyet.",
+        "A Baybay Beach híres a tengerparti haléttermeiről.",
+        "1951-ben kapta meg a városi rangot.",
+        "A közeli Pan-ay templom őrzi Ázsia legnagyobb keresztény harangját.",
+        "Fontos kikötő a szigetek közötti kereskedelem számára.",
+        "A Sinadya sa Halaran fesztivált minden decemberben megrendezik."
+      ]
+    },
+    {
+      "id": "tagum-cities-v2",
+      "descriptionAdvanced": "Tagum City, Davao del Norte fővárosa, az utóbbi években a Fülöp-szigetek egyik legélhetőbb és legjobban irányított városává vált. A „pálmák fővárosaként” ismert várost gyönyörű, pálmafákkal szegélyezett sugárutak jellemzik. Tagum fontos kereskedelmi, mezőgazdasági és kulturális központ a Davao régióban. Különösen büszke zenei örökségére, amiért elnyerte a „Dél zenei fővárosa” címet. Évente 15 különböző fesztivált rendeznek itt, melyek közül a zenei és a banánfesztivál a legkiemelkedőbb. Modern infrastruktúrája, a környezetvédelemre és az oktatásra való erős összpontosításával együtt Tagumot Mindanao városi növekedésének példaképévé teszi. Wirtschaft K8 — várostervezés és erőforrás-menedzsment.",
+      "factsAdvanced": [
+        "Davao régió második legnagyobb városa Davao City után.",
+        "Gyakran emlegetik 'Mindanao fesztiválfővárosaként'.",
+        "Itt található az ország legnagyobb rózsakertje.",
+        "Három fő országút találkozásánál fekvő stratégiai csomópont.",
+        "A banán és a kókuszdió egyik legfontosabb termelője.",
+        "Díjnyertes köztisztaságáról és zöld környezetéről híres.",
+        "Az ASEAN zenei fesztiválok rendszeres házigazdája.",
+        "Itt található az új, futurisztikus városháza (City Hall)."
+      ]
+    },
+    {
+      "id": "surigao-city-cities-v2",
+      "descriptionAdvanced": "Surigao City Mindanao északkeleti csücskén fekszik, és a Visayas felől érkező utazók számára „Mindanao kapujaként” szolgál. A város gazdag természeti erőforrásokban, különösen ásványkincsekben, történelme pedig szorosan összefügg a bányászattal és a halászattal. Surigao City tagolt partvonaláról, számos fehér homokos stranddal rendelkező szigetéről és titokzatos barlangrendszereiről ismert. A szörfösök és kalandvágyók számára gyakran ez a kiindulópont a világhírű Siargao-szigetre való átkeléshez. A város minden évben megrendezi a Bonok-Bonok fesztivált, egy színes rituális táncünnepet, amely a mamanwa őslakos kultúrát tiszteli. Kikötője és repülőtere révén Surigao City létfontosságú logisztikai központ Északkelet-Mindanaóban. Földrajz K7 — partvidéki morfológia és természeti erőforrások.",
+      "factsAdvanced": [
+        "Stratégiai fontosságú kikötő a Liloan felé tartó kompoknak.",
+        "Mindanao és a Csendes-óceán találkozási pontjánál helyezkedik el.",
+        "Híres a kerek köveiről ismert 'Mabua Pebble Beach'-ről.",
+        "Jelentős arany-, nikkel- és vasérclelőhelyek találhatók a környéken.",
+        "A Bonok-Bonok fesztivált minden év szeptember 10-én tartják.",
+        "A második világháború alatt fontos haditengerészeti támaszpont volt.",
+        "A surigaonon kultúra és nyelv központja.",
+        "Itt érhető el a Day-as úszó falu, amelyet a helyi Velenceként emlegetnek."
+      ]
+    },
+    {
+      "id": "calamba-cities-v2",
+      "descriptionAdvanced": "Calamba City, Laguna tartományban, világszerte a Fülöp-szigetek nemzeti hősének, Dr. José Rizalnak a szülőhelyeként ismert. A Rizal-ház, szülőházának hű másolata, ma az ország egyik leglátogatottabb történelmi helyszíne. Történelmi jelentősége mellett Calamba a „Fülöp-szigetek üdülőfővárosa”, köszönhetően a Makiling-hegy lábánál feltörő meleg vizes forrásoknak, amelyekre több száz termálfürdő és üdülő épült. Gazdaságilag Calamba a CALABARZON régió egyik motorja, ahol számos technológiai park és multinacionális vállalat telepedett le. A város egyedülálló módon ötvözi a 19. századi örökséget a 21. századi ipari dinamizmussal. Geschichte K7 — José Rizal élete és öröksége.",
+      "factsAdvanced": [
+        "José Rizal születési helye (1861. június 19.).",
+        "Itt található a világ legnagyobb José Rizal emlékműve.",
+        "Az elektronikai gyártás és az IT-szektor egyik fő központja.",
+        "Híres a pansol negyedben található természetes hőforrásairól.",
+        "Laguna tartomány legnépesebb városa.",
+        "Stratégiai közlekedési csomópont a South Luzon Expressway mentén.",
+        "Területének egy része a Makiling-hegyi erdőrezervátumhoz tartozik.",
+        "2001-ben kapta meg hivatalosan a városi rangot."
+      ]
+    },
+    {
+      "id": "butuan-cities-v2",
+      "descriptionAdvanced": "Butuan City Mindanao északkeleti részén a Fülöp-szigetek egyik legrégebbi települése, amely dicső múltra tekint vissza európaiak előtti királyságként. A régészeti leletek, mint például a híres „Balangay” csónakok bizonyítják, hogy Butuan már a 10. században virágzó tengeri kereskedelmi központ volt, amely kapcsolatot tartott Kínával és Délkelet-Ázsiával. Ma Butuan a Caraga régió adminisztratív központja, valamint a fa- és agráripar fontos csomópontja. A város a Butuani Nemzeti Múzeumban őrzi örökségét, miközben modernizálódik, hogy megfeleljen a regionális szolgáltató központ kihívásainak. A hatalmas Agusan-folyó partján fekvő elhelyezkedése ma is meghatározza a városképet és az emberek életmódját. Geschichte K6 — gyarmatosítás előtti kereskedelmi birodalmak és régészet.",
+      "factsAdvanced": [
+        "A Butuani Királyság egykori központja (1001-1521).",
+        "Itt találták meg a Balangay-kat, Délkelet-Ázsia legősibb vízi járműveit.",
+        "A Caraga régió (XIII. régió) közigazgatási fővárosa.",
+        "Az Agusan-völgy mezőgazdasági termékeinek legfőbb piaca.",
+        "Híres a Kahimunan fesztiválról, amelyet a Santo Niño tiszteletére tartanak.",
+        "Az ország harmadik leghosszabb folyója, az Agusan-folyó mentén fekszik.",
+        "Már 1001-ben említik a kínai évkönyvek kereskedelmi misszióit.",
+        "Kelet-Mindanao oktatási és egészségügyi központja."
+      ]
+    },
+    {
+      "id": "santiago-city-cities-v2",
+      "descriptionAdvanced": "Santiago City a termékeny Cagayan-völgy szívében fekszik, és a gyors gazdasági felemelkedés mintapéldája. Bár földrajzilag Isabela tartományban található, független városként kormányozzák, és a régió elsődleges kereskedelmi és pénzügyi csomópontjaként szolgál. A város elnyerte az „Észak királynője” címet erős mezőgazdasági bázisának és virágzó szolgáltatási szektorának köszönhetően. Santiago ismert etnikai sokszínűségéről és harmonikus közösségéről, amely évente megünnepli a Pattaraday fesztivált (ami „egységet” jelent). Logisztikai központként Santiago összeköti Isabela, Nueva Vizcaya és Quirino tartományokat, és nélkülözhetetlen állomás a Luzon északi részére utazók számára. Wirtschaft K8 — regionális kereskedelmi hálózatok és mezőgazdaság.",
+      "factsAdvanced": [
+        "A Cagayan-völgy régió egyetlen független városa.",
+        "Metro Manila és az északi területek közötti legfontosabb kereskedelmi központ.",
+        "Isabela tartomány egyik legnagyobb rizstermelője az országos ellátáshoz.",
+        "A Pattaraday fesztivál az egységet és a sokszínűséget ünnepli.",
+        "Észak-Luzon egyik leggyorsabban fejlődő városának tartják.",
+        "Stratégiai elhelyezkedése fontos kereskedelmi utak találkozásánál van.",
+        "Itt található a La Salette-i Miasszonyunk történelmi szentélye.",
+        "Gazdaságilag teljesen független Isabela tartományi kormányzatától."
+      ]
+    },
+    {
+      "id": "san-fernando-la-union-cities-v2",
+      "descriptionAdvanced": "San Fernando City nemcsak La Union tartomány fővárosa, hanem az Ilocos régió adminisztratív központja is. A város híres festői öbléről és a szomszédos San Juan világszínvonalú szörfhelyeiről, amelyek a vízi sportok kedvelőinek paradicsomává teszik. Történelmileg San Fernando fontos kikötő volt a gályakereskedelem idején, és ma is őrzi ennek az korszaknak a nyomait. Kiemelkedő kulturális látnivaló a Ma-Cho templom, a Fülöp-szigetek legnagyobb taoista temploma Manilán kívül, amely a kínai-filippínó közösség erős jelenlétét tükrözi. A város ötvözi a kormányzati központ funkcióit egy tengerparti város nyugodt légkörével, és fontos kapuként szolgál a Cordillera-hegység felé. Földrajz K7 — tengerparti turizmus és regionális igazgatás.",
+      "factsAdvanced": [
+        "La Union fővárosa és az Ilocos régió (I. régió) központja.",
+        "A Dél-kínai-tenger egyik legfontosabb tengeri kikötője.",
+        "Itt található a Mazu istennőnek szentelt hatalmas Ma-Cho templom.",
+        "Kapu San Juan híres szörfstrandjaihoz.",
+        "Itt működik a Poro Point szabadkikötő egy korábbi amerikai bázison.",
+        "A dohány és az agrártermékek kereskedelmének regionális központja.",
+        "Híres az évenkénti Pindangan fesztiválról.",
+        "Számos regionális kormányzati hivatal és oktatási intézmény székhelye."
+      ]
+    },
+    {
+      "id": "dipolog-cities-v2",
+      "descriptionAdvanced": "Dipolog City, Zamboanga del Norte fővárosa, országosan a „Fülöp-szigetek orchidea-városaként” ismert, utalva gazdag flórájára és gondozott közparkjaira. A Sulu-tenger partján idilli környezetben fekvő város híres kiváló minőségű szardíniakonzervjeiről, amelyeket Európába is exportálnak. Dipolog kiemelkedik rendkívüli tisztaságával és vendégszerető lakóival. A „Dipolog Sunset Boulevard” a helyiek és a turisták kedvenc találkozóhelye, ahol látványos naplementékben gyönyörködhetnek. Nyugat-Mindanao oktatási központjaként a város több egyetemnek ad otthont, és aktívan támogatja a sportot és a kultúrát olyan rendezvényekkel, mint a P'gsalabuk fesztivál. Wirtschaft K6 — élelmiszer-feldolgozás és helyi ipar.",
+      "factsAdvanced": [
+        "Zamboanga del Norte tartomány fővárosa.",
+        "Híres az ország legjobb üveges szardíniáinak gyártásáról.",
+        "Gyakran szerepel Mindanao legbiztonságosabb városainak listáján.",
+        "A Dipolog Sunset Boulevard az ország egyik leghosszabb tengerparti sétánya.",
+        "Kapu a történelmi Dapitan-szentélyhez, ahol José Rizal száműzetésben élt.",
+        "A P'gsalabuk fesztivál a kulturális egységet hirdeti minden májusban.",
+        "Modern repülőtere közvetlen összeköttetést biztosít Manilával és Cebuval.",
+        "A régió ökológiai mezőgazdaságának egyik legfontosabb központja."
+      ]
+    },
+    {
+      "id": "pagadian-cities-v2",
+      "descriptionAdvanced": "Pagadian City, Zamboanga del Sur fővárosa és a Zamboanga-félsziget új regionális központja, egy egészen különleges domborzattal rendelkező város. Rendkívül dombos terepe miatt gyakran a „Dél kis Hongkongjaként” emlegetik. Egyedülállóak a helyi triciklik, amelyeket 25-40 fokos szögben építettek meg, hogy biztonságosan közlekedhessenek a város meredek utcáin – ez egy technikai különlegesség, amely csak itt található meg. Pagadian létfontosságú csomópontként szolgál a Közép-Mindanao és a félsziget közötti kereskedelemben. A város lélegzetelállító kilátást nyújt az Illana-öbölre, és ismert kulturális sokszínűségéről, ahol keresztény, muszlim és őslakos közösségek élnek harmóniában. Földrajz K7 — városi alkalmazkodás a domborzati kihívásokhoz.",
+      "factsAdvanced": [
+        "A Zamboanga-félsziget (IX. régió) központja 2004 óta.",
+        "A világon egyedül itt találhatók ferdén épített triciklik.",
+        "Zamboanga del Sur közigazgatási fővárosa.",
+        "Stratégiai elhelyezkedése az Illana-öböl partján fekszik.",
+        "A Pagadian City Rotunda Park népszerű kilátópont a város felett.",
+        "Fontos piaca a halaknak és a hátországból érkező agrártermékeknek.",
+        "Gyakori helyszíne regionális sport- és kulturális eseményeknek.",
+        "Saját repülőtere biztosítja a gyors összeköttetést a szigetország többi részével."
+      ]
+    },
+    {
+      "id": "malaybalay-cities-v2",
+      "descriptionAdvanced": "Malaybalay City, Bukidnon fővárosa, Közép-Mindanao egy fennsíkján fekszik, és kellemesen hűvös hegyvidéki klímájáról ismert. Gyakran a „Dél nyári fővárosaként” emlegetik, frissítő alternatívát kínálva a forró tengerparti városokhoz képest. A környező tájat hatalmas ananászültetvények, mély szurdokok és olyan fenséges hegyek jellemzik, mint a Kitanglad-hegység. Malaybalay a tartomány kulturális szíve, ahol évente megrendezik a lenyűgöző Kaamulan fesztivált. Ezen az ünnepen Bukidnon hét őslakos törzse mutatja be hagyományait, táncait és viseleteit. A város az ökoturizmus és a vallási elmélyülés központja is, itt található a különleges építészetű Színeváltozás kolostora. Sachkunde K4 — őslakos kultúrák és hegyvidéki régiók.",
+      "factsAdvanced": [
+        "Bukidnon tartomány fővárosa Mindanao szívében.",
+        "A Kaamulan fesztivál az ország egyik leghitelesebb etnikai ünnepe.",
+        "Itt található a Leandro Locsin által tervezett Színeváltozás kolostora.",
+        "A szarvasmarha-tenyésztés és a nagyüzemi ananásztermesztés központja.",
+        "Átlagosan 622 méteres tengerszint feletti magasságban terül el.",
+        "Mindanao egyik legfontosabb kiindulópontja hegymászó túrákhoz.",
+        "Gazdag örökséggel rendelkezik az őslakos nyelvek és szokások terén.",
+        "A Bukidnon Állami Egyetem székhelye található itt."
+      ]
+    },
+    {
+      "id": "tuguegarao-cities-v2",
+      "descriptionAdvanced": "Tuguegarao City a Cagayan-völgy lüktető szíve és a II. régió adminisztratív központja. A város híres extrém nyári hőmérsékletéről, amely gyakran az ország legmagasabb értékeit éri el, így kiérdemelte a Fülöp-szigetek egyik legforróbb helye hírnevet. Tuguegarao a Cagayan és a Pinacanauan folyók találkozásánál fekszik, és Elsődleges kereskedelmi, oktatási és egészségügyi központként szolgál Északkelet-Luzon számára. A város egyik jelképe a spanyol gyarmati korból származó Szent Péter és Pál székesegyház. A közelben találhatók a lenyűgöző Callao-barlangok, amelyek hét kamrájukról és egy föld alatti kápolnáról ismertek. Az augusztusi Pav-vurulun Afi fesztivál tűzszimbólumokkal ünnepli a város védőszentjeit. Földrajz K8 — klimatológia és regionális földrajz.",
+      "factsAdvanced": [
+        "A Cagayan-völgy (II. régió) regionális központja.",
+        "Itt mérték az országos hőmérsékleti rekordot (42,2 Celsius-fok).",
+        "Északkelet-Luzon legfontosabb közlekedési csomópontja.",
+        "Híres a helyi tésztaételről, a 'Pancit Batil Patung'-ról.",
+        "Kiindulópont a Callao-barlangok és a Sierra Madre felfedezéséhez.",
+        "Cagayan tartomány közigazgatási székhelye.",
+        "Itt található a régió legtöbb egyeteme és főiskolája.",
+        "Stratégiai fekvése a Cagayan-folyó, az ország legbővízűbb folyója mentén van."
+      ]
+    },
+    {
+      "id": "koronadal-cities-v2",
+      "descriptionAdvanced": "Koronadal City, helyi nevén gyakran Marbel, South Cotabato fővárosa és a SOCCSKSARGEN régió adminisztratív központja. A város egy termékeny völgyben fekszik, festői hegyekkel körülvéve, és Dél-Mindanao jelentős kereskedelmi és szolgáltató központjává fejlődött. Koronadal büszke kulturális sokszínűségére, amelyet a Luzonból és a Visayas-szigetekről érkező betelepülők, valamint az olyan őslakos törzsek formáltak, mint a B'laan. Az évenkénti T'nalak fesztivál a kulturális élet csúcspontja, ahol a T'boli nép különleges szövési művészetét ünneplik. A város a fenntartható városfejlesztés modelljének számít, széles utcáiról és zöld környezetéről ismert. Wirtschaft K8 — regionális integráció és multikulturális társadalom.",
+      "factsAdvanced": [
+        "A SOCCSKSARGEN régi (XII. régió) központja 2004 óta.",
+        "Széles körben ismert Marbel néven is.",
+        "South Cotabato tartomány közigazgatási fővárosa.",
+        "A júliusi T'nalak fesztivál az ország egyik legszínesebb eseménye.",
+        "Neve a B'laan nyelvből ered, jelentése 'kogon fű síkság'.",
+        "A kukorica, a rizs és a trópusi gyümölcsök fontos kereskedelmi központja.",
+        "Mindanao egyik leggyorsabban növekvő városának tartják.",
+        "Számos nemzetközi segélyszervezet és regionális kormányhivatal székhelye."
+      ]
+    },
+    {
+      "id": "panabo-cities-v2",
+      "descriptionAdvanced": "Panabo City, Davao del Norte tartományban, országszerte a „Fülöp-szigetek banánfővárosaként” ismert. A város ad otthont a világ néhány legnagyobb banánültetvényének, köztük a Tagum Agricultural Development Company (TADECO) hatalmas területeinek. A város gazdasági életének szinte egésze e gyümölcs termesztése, feldolgozása és exportja körül forog. Panabo modern kikötőjén keresztül évente több millió doboz banánt szállítanak a világ minden tájára. Ipari jellege ellenére a város megőrizte zöld területeit és aktívan védi partmenti ökoszisztémáját. Az évenkénti Binulig fesztivál a gazdag aratást és a gazdák kemény munkáját ünnepli. Panabo fontos lakóhelyül is szolgál a közeli Davao Citybe ingázók számára. Wirtschaft K6 — agrárexport és globális kereskedelmi láncok.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb Cavendish-banán exportőre.",
+        "Stratégiai helyen fekszik Davao City és Tagum City között.",
+        "Itt található a TADECO ültetvény, amely kategóriájában a legnagyobb.",
+        "Saját, speciális kikötővel rendelkezik a gyümölcsexporthoz.",
+        "Minden év októberében megrendezik a Binulig fesztivált.",
+        "2001-ben nyilvánították hivatalosan várossá.",
+        "A régió legjelentősebb tengeri haltenyésztési központja.",
+        "Mezőgazdasági kutatási és technológiai innovációs központ."
+      ]
+    },
+    {
+      "id": "digos-cities-v2",
+      "descriptionAdvanced": "Digos City, Davao del Sur fővárosa, az Apo-hegy, a Fülöp-szigetek legmagasabb csúcsának lábánál fekszik. Ez a stratégiai elhelyezkedés a várost a hegymászók és természetkedvelők ideális kiindulópontjává teszi. Digos híres édes mangóiról, amiért elnyerte a „Fülöp-szigetek mangófővárosa” címet. A város ötvözi a városi központ előnyeit a látványos természeti tájak közvetlen közelségével, a hűvös hegyi üdülőktől a Davao-öböl napsütötte strandjaiig. Gazdaságilag Digos sokat profitál abból, hogy fontos megállóhely a Davao City és Cotabato közötti tranzitútvonalon. A Gintong Pakasasa fesztivál a lakók bátorságát és úttörő szellemét ünnepli, akik az ország különböző részeiről érkeztek ide. Földrajz K7 — magassági szintek és mezőgazdasági specializáció.",
+      "factsAdvanced": [
+        "Davao del Sur tartomány közigazgatási székhelye.",
+        "Az Apo-hegy Nemzeti Park egyik fő belépési pontja.",
+        "Híres a kiváló minőségű Carabao-mangók exportjáról.",
+        "Itt érhetők el a Kapatagan negyed népszerű hegyi üdülőhelyei.",
+        "Stratégiai fekvése a Davao-Cotabato országút mentén van.",
+        "Minden év szeptember 8-án tartják az 'Araw ng Digos' ünnepséget.",
+        "2000-ben kapott városi rangot.",
+        "A felvidéki mezőgazdasági termékek legfontosabb elosztóhelye."
+      ]
+    },
+    {
+      "id": "laoag-cities-v2",
+      "descriptionAdvanced": "Laoag City, Ilocos Norte fővárosa, gyakran „a napfény városa” néven ismert, ami utal ragyogó klímájára és lakóinak barátságosságára is. A város a spanyol gyarmati építészet ragyogó példája, modern hatásokkal ötvözve. Egyik legismertebb jelképe a „Süllyedő harangtorony”, amely hatalmas súlya miatt a homokos talajon minden évben egy kicsit mélyebbre süllyed. Laoag Luzon északi részének legfontosabb kulturális és gazdasági központjaként szolgál. A környéken olyan lenyűgöző természeti csodák találhatók, mint a La Paz-i homokdűnék és a Paoay-tó. A város kiváló konyhájáról is híres, különösen a „Laoag Empanada” és a „Bagnet” révén. Geschichte K7 — spanyol örökség és regionális identitás északon.",
+      "factsAdvanced": [
+        "Ilocos Norte tartomány fővárosa.",
+        "Észak-Luzon legfontosabb nemzetközi repülőtere található itt.",
+        "Itt látható a híres Süllyedő harangtorony (Sinking Bell Tower).",
+        "A fokhagyma, a dohány és a szövött anyagok kereskedelmi központja.",
+        "A város határain belül találhatók a La Paz homokdűnék.",
+        "Minden év februárjában megrendezik a Pamulinawen fesztivált.",
+        "1965-ben nyilvánították hivatalosan várossá.",
+        "A 'Laoag' név ilokano nyelven 'fényt' jelent."
+      ]
+    },
+    {
+      "id": "san-carlos-negros-occidental-cities-v2",
+      "descriptionAdvanced": "San Carlos City, a Negros-sziget északkeleti partján, a fenntarthatóság és a megújuló energiaforrások úttörője a Fülöp-szigeteken. A város hatalmas napelemfarmoknak és biomassza-erőműveknek ad otthont, ami nemzetközi elismerést szerzett számára. Történelmileg San Carlos a cukoripar egyik jelentős központja volt, de sikeresen diverzifikálta gazdaságát. A város híres a Pintaflores fesztiválról, egy színes látványosságról, ahol a táncosok testét bonyolult virágmintás festések díszítik – ez a tetoválási hagyomány és a virágünnep egyedülálló ötvözete. Mélyvízi kikötőjével San Carlos fontos összekötő kapocsként szolgál Negros és Cebu szigetei között. Wirtschaft K8 — energiafordulat és fenntartható városfejlesztés.",
+      "factsAdvanced": [
+        "Délkelet-Ázsia egyik vezető városa a napenergia hasznosításában.",
+        "Fontos kompkikötő Cebu szigete felé (Toledo City irányába).",
+        "A Pintaflores fesztivált minden év novemberében rendezik meg.",
+        "Itt működik az ország első biomassza-erőműve.",
+        "1960-ban kapta meg a városi rangot.",
+        "Történelmileg a cukornád-feldolgozás egyik fő bázisa.",
+        "A Visayas-szigetek egyik legzöldebb városaként tartják számon.",
+        "A Mount Kanlaon-vulkán árnyékában fekszik."
+      ]
+    },
+    {
+      "id": "gapan-cities-v2",
+      "descriptionAdvanced": "Gapan City, Nueva Ecija tartományban, a Fülöp-szigetek egyik legrégebbi városa, amelyet már 1595-ben alapítottak. Országszerte az „észak cipőfővárosaként” ismert, mivel hosszú hagyományokkal rendelkezik a cipők és papucsok készítése terén, amivel méltó vetélytársa Marikinának. A város jelentős vallási központ is, itt található a Divina Pastora Nemzeti Szentély, amely az ország minden részéből vonzza a zarándokokat. Gapan megőrizte történelmi magját, különösen a főtér és a régi templom környékén, miközben Közép-Luzon egyik fontos mezőgazdasági központja maradt a rizstermesztés terén. Geschichte K7 — vallási örökség és kézműves hagyomány.",
+      "factsAdvanced": [
+        "A Fülöp-szigetek negyedik legrégebbi városa (alapítva 1595-ben).",
+        "A cipő- és papucsgyártás északi fellegvára.",
+        "Itt található a Divina Pastora nemzeti zarándokhely.",
+        "Nueva Ecija tartomány egyik legnagyobb rizstermelője.",
+        "2001-ben kapta meg hivatalosan a városi rangot.",
+        "Történelmi spanyol gyarmati temploma téglából épült.",
+        "Stratégiai fekvése a Pán-Fülöp-szigeteki autópálya mentén van.",
+        "Híres a jól megőrzött történelmi főteréről (plaza)."
+      ]
+    },
+    {
+      "id": "tandag-cities-v2",
+      "descriptionAdvanced": "Tandag City, Surigao del Sur fővárosa, egy bájos tengerparti város, amely a Csendes-óceán és Mindanao zöld hegyei között húzódik meg. A város hosszú múltra tekint vissza, amely a korai spanyol gyarmati időkig nyúlik vissza, amikor fontos védelmi pont volt a kalózok ellen. Ma Tandag a tartomány közigazgatási és oktatási központja. Ismert érintetlen strandjairól és a Surigao del Sur spektakuláris vízeséseinek és lagúnáinak közelségéről. Az évenkénti Sirong fesztivál az ősök történelmi harcaira emlékezik és a keresztény hitet ünnepli. Tandagot békés légkör, valamint a halászathoz és a mezőgazdasághoz való erős kötődés jellemzi. Földrajz K7 — partvidéki fejlődés és regionális örökség.",
+      "factsAdvanced": [
+        "Surigao del Sur tartomány közigazgatási fővárosa.",
+        "Fontos kikötőváros a Csendes-óceán partján.",
+        "A Sirong fesztivál a történelem felidézésének fő ünnepe.",
+        "Saját repülőtere van, amely összeköti Cebuval.",
+        "2007-ben kapta meg a városi rangot.",
+        "Ásványkincsekben gazdag hegyek veszik körül.",
+        "A kopra és a rizs legfőbb elosztó központja a régióban.",
+        "Mindanao északkeleti partvidékének egyik gyöngyszeme."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "antsirabe-cities-v2",
+    "name": "Antsirabe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "fianarantsoa-cities-v2",
+    "name": "Fianarantsoa",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mahajanga-cities-v2",
+    "name": "Mahajanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "toliara-cities-v2",
+    "name": "Toliara",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antsiranana-cities-v2",
+    "name": "Antsiranana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antanifotsy-cities-v2",
+    "name": "Antanifotsy",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambovombe-cities-v2",
+    "name": "Ambovombe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "amparafaravola-cities-v2",
+    "name": "Amparafaravola",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "tolanaro-cities-v2",
+    "name": "Tolanaro",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatondrazaka-cities-v2",
+    "name": "Ambatondrazaka",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mananara-avaratra-cities-v2",
+    "name": "Mananara Avaratra",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "soavinandriana-cities-v2",
+    "name": "Soavinandriana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mahanoro-cities-v2",
+    "name": "Mahanoro",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "soanierana-ivongo-cities-v2",
+    "name": "Soanierana Ivongo",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "faratsiho-cities-v2",
+    "name": "Faratsiho",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "nosy-varika-cities-v2",
+    "name": "Nosy Varika",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vavatenina-cities-v2",
+    "name": "Vavatenina",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "morondava-cities-v2",
+    "name": "Morondava",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "amboasary-cities-v2",
+    "name": "Amboasary",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatoboeny-cities-v2",
+    "name": "Ambatoboeny",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vohipeno-cities-v2",
+    "name": "Vohipeno",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ankazobe-cities-v2",
+    "name": "Ankazobe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambohimahasoa-cities-v2",
+    "name": "Ambohimahasoa",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "sambava-cities-v2",
+    "name": "Sambava",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "manakara-cities-v2",
+    "name": "Manakara",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  }
+]

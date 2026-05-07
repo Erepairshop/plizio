@@ -20,9 +20,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "An important conservation area and breeding center for Uruguay's native animal species." },
     descriptionAdvanced: {
       de: "Der Biopark M'Bopicuá ist ein herausragendes Beispiel für den Naturschutz in Uruguay und liegt am Ufer des Uruguay-Flusses. Das Reservat widmet sich primär der Wiederansiedlung und Aufzucht einheimischer Tierarten, die in ihrem natürlichen Lebensraum bedroht sind. Besucher können hier die reiche Vielfalt der uruguayischen Fauna in einer geschützten und naturnahen Umgebung erleben. Besonders hervorzuheben ist die Arbeit des Zentrums mit Arten wie dem Großen Ameisenbären und verschiedenen Wildkatzen. Der Park ist zudem für seine historischen Steinruinen bekannt, die harmonisch in die Landschaft integriert sind. Sachkunde K3 — Tierwelt und Naturschutz.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Fontos természetvédelmi terület és tenyésztőközpont Uruguay őshonos állatfajai számára. M'Bopicuá Biopark Río Negro megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O zonă de conservare importantă și un centru de reproducere pentru speciile de animale native din Uruguay. Bioparcul M'Bopicuá se află în departamentul Río Negro și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "An important conservation area and breeding center for Uruguay's native animal species. M'Bopicuá Biopark lies in the Río Negro department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -31,9 +31,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Auf dem Gelände befinden sich die Ruinen einer Fleischsalzerei (Saladero) aus dem 19. Jahrhundert.",
         "M'Bopicuá arbeitet eng mit internationalen Naturschutzorganisationen zusammen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["1999-ben alapították.", "Kapybarákat és pekarikat is véd.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Fondat în 1999.", "Protejează capibara și pecari.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Founded in 1999.", "Protects capybaras and peccaries.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["1999 gegründet.", "Schützt Capybaras und Pekaris."],
@@ -59,9 +59,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "An expansive nature park in Montevideo housing a variety of exotic and native animals." },
     descriptionAdvanced: {
       de: "Der Parque Lecocq am Stadtrand von Montevideo ist ein beliebtes Ziel für Naturfreunde und Familien, die dem Trubel der Hauptstadt entfliehen möchten. Das weitläufige Gelände umfasst Feuchtgebiete, Wälder und offene Grasflächen, die ideale Bedingungen für eine naturnahe Tierhaltung bieten. Besonders bekannt ist der Park für seine große Herde von Mendesantilopen, die hier im Rahmen eines internationalen Schutzprogramms leben. Die Besucher können auf langen Wanderwegen die einheimische Vogelwelt beobachten und die friedliche Atmosphäre genießen. Der Park spielt eine wichtige Rolle in der Umweltbildung für Schulen und Universitäten. Sachkunde K3 — Lebensräume von Tieren.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egy kiterjedt természetvédelmi park Montevideóban, amely sokféle egzotikus és őshonos állatnak ad otthont. Lecocq Természetvédelmi Park Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un parc natural întins din Montevideo, care adăpostește o varietate de animale exotice și native. Parcul Natural Lecocq se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "An expansive nature park in Montevideo housing a variety of exotic and native animals. Lecocq Nature Park lies in the Montevideo department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -70,9 +70,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die angrenzenden Feuchtgebiete des Santa Lucía Flusses sind ein Paradies für Zugvögel.",
         "Lecocq ist nicht nur ein Zoo, sondern ein Zentrum für wissenschaftliche Forschung und Artenschutz."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Egy antilopcsorda otthona.", "Nyílt élőhelyeket biztosít.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Găzduiește o turmă de antilope.", "Oferă habitate deschise.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Home to a herd of antelopes.", "Provides open habitats.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Zuhause einer Antilopenherde.", "Bietet offene Lebensräume."],
@@ -98,9 +98,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A reserve at the foot of Mount Pan de Azúcar dedicated to caring for local wildlife." },
     descriptionAdvanced: {
       de: "Das Faunareservat am Cerro Pan de Azúcar ist ein unverzichtbares Zentrum für die Rehabilitation einheimischer Tiere in Uruguay. Am Fuße eines der höchsten Berge des Landes gelegen, bietet es verletzten oder verwaisten Tieren ein sicheres Zuhause. Die Besucher können auf schattigen Pfaden spazieren gehen und dabei Jaguare, Pumas und verschiedene Affenarten beobachten. Ein besonderer Schwerpunkt liegt auf der Zucht und Wiederauswilderung von einheimischen Hirschen und Greifvögeln. Das Reservat ist zudem ein idealer Ausgangspunkt für Wanderungen zum Gipfel des Pan de Azúcar, von dem man eine fantastische Aussicht hat. Sachkunde K3 — Naturschutz und Artenvielfalt.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A Pan de Azúcar hegy lábánál fekvő rezervátum, amely a helyi vadvilág gondozásának szenteli magát. Cerro Pan de Azúcar Állatrezervátum Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O rezervație la poalele muntelui Pan de Azúcar, dedicată îngrijirii vieții sălbatice locale. Rezervația de Faună Cerro Pan de Azúcar se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A reserve at the foot of Mount Pan de Azúcar dedicated to caring for local wildlife. Cerro Pan de Azúcar Fauna Reserve lies in the Maldonado department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -109,9 +109,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Park ist bekannt für seine erfolgreiche Aufzucht von Venado de Campo, einer seltenen Hirschart.",
         "Jährlich besuchen Hunderttausende Menschen das Reservat, das keinen Eintritt verlangt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A kihalástól fenyegetett fajokat védi.", "Piriápolis városához közel van.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Protejează speciile pe cale de dispariție.", "Aproape de orașul Piriápolis.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Protects endangered species.", "Close to the city of Piriápolis.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Schützt vom Aussterben bedrohte Arten.", "Nahe der Stadt Piriápolis."],
@@ -137,9 +137,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A modern, family-friendly park featuring over 1,500 animals and interactive children's attractions." },
     descriptionAdvanced: {
       de: "Der Ecoparque Tálice in Flores ist ein visionäres Projekt, das Naturschutz mit modernem Freizeitvergnügen für die ganze Familie verbindet. Auf dem Gelände einer ehemaligen Tierstation ist ein Park entstanden, der über 1.500 Tiere in weiträumigen Gehegen beherbergt. Besonders spannend für Kinder sind die interaktiven Bereiche und die Safaribusse, die eine Fahrt mitten durch die Tierwelt ermöglichen. Die nachhaltige Gestaltung des Parks nutzt Solarenergie und ökologische Wasserkreisläufe zur Versorgung der Anlagen. Hier wird Wissen über die Natur auf spielerische Weise vermittelt, was den Park zu einem Top-Ziel für Schulausflüge macht. Sachkunde K3 — Tiere und ökologische Verantwortung.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egy modern, családbarát park több mint 1500 állattal és interaktív gyermekattrakciókkal. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un parc modern, potrivit pentru familii, cu peste 1.500 de animale și atracții interactive pentru copii. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei. Poziția geografică pe Río de la Plata sau în interiorul țării influențează climatul și vegetația.",
+      en: "A modern, family-friendly park featuring over 1,500 animals and interactive children's attractions. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -148,9 +148,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Tálice setzt konsequent auf Barrierefreiheit, damit alle Besucher die Natur erleben können.",
         "Das Projekt ist Teil des Geoparks Grutas del Palacio, der unter dem Schutz der UNESCO steht."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 120 különböző faj.", "Vízibicikliket és szafaribuszokat is kínál.", "Népszerű fotótéma és turisztikai látványosság.", "kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Peste 120 de specii diferite.", "Include hidrobiciclete și autobuze de safari.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a .", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Over 120 different species.", "Includes pedal boats and safari buses.", "A popular photo subject and tourist attraction.", "Part of the cultural life of .", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 120 verschiedene Arten.", "Umfasst Tretboote und Safaribusse."],
@@ -176,9 +176,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "One of Uruguay's oldest and most renowned wineries, famous for the Tannat grape." },
     descriptionAdvanced: {
       de: "Establecimiento Juanicó im Departement Canelones ist ein Inbegriff für uruguayische Weinbautradition und Exzellenz. Das Weingut wurde bereits im 19. Jahrhundert gegründet und hat die Entwicklung der Branche im Land maßgeblich geprägt. Die historischen Keller aus Stein bieten ideale Bedingungen für die Reifung der edlen Tannat-Weine, die heute in alle Welt exportiert werden. Besucher können hier nicht nur erstklassige Verkostungen erleben, sondern auch viel über die Geschichte des uruguayischen Weinbaus lernen. Die Verbindung von jahrhundertealter Erfahrung mit modernster Kellertechnik macht Juanicó zu einem der führenden Betriebe Südamerikas. Sachkunde K3 — Landwirtschaft und Kulturgeschichte.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay egyik legrégebbi és legismertebb borászata, amely a Tannat szőlőjéről híres. Establecimiento Juanicó Pincészet Canelones megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Una dintre cele mai vechi și cunoscute crame din Uruguay, faimoasă pentru strugurii Tannat. Crama Establecimiento Juanicó se află în departamentul Canelones și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "One of Uruguay's oldest and most renowned wineries, famous for the Tannat grape. Establecimiento Juanicó Winery lies in the Canelones department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -187,9 +187,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Weinberge erstrecken sich über Hunderte von Hektar auf den sanften Hügeln von Canelones.",
         "Viele der hier produzierten Weine haben Goldmedaillen bei den wichtigsten Wettbewerben in Europa gewonnen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["1830 óta működik.", "A minőségi borok úttörője.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["În funcțiune din 1830.", "Pionier al vinului de calitate.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Operating since 1830.", "A pioneer of quality wine.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Seit 1830 in Betrieb.", "Pionier des Qualitätsweins."],
@@ -215,9 +215,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A historic agricultural estate producing high-quality wine and artisanal cheeses." },
     descriptionAdvanced: {
       de: "Die Finca Narbona in der Nähe von Carmelo ist ein idyllisches Anwesen, das die reiche Agrargeschichte Uruguays lebendig hält. Das Haupthaus stammt aus dem 18. Jahrhundert und strahlt eine zeitlose Eleganz aus, die Besucher sofort in ihren Bann zieht. Der Betrieb ist bekannt für seine handwerkliche Käseherstellung nach traditionellen Methoden und seine exzellenten Weine. Ein Highlight für Genießer ist der Besuch der hofeigenen Käserei, wo man den Reifeprozess hautnah miterleben kann. Die umliegenden Obstgärten und Weinberge prägen das Bild dieser authentischen uruguayischen Estancia. Hier wird Gastfreundschaft großgeschrieben, was den Ort zu einem Geheimtipp für Genießer macht. Sachkunde K3 — Regionale Lebensmittelproduktion.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egy történelmi mezőgazdasági birtok, amely minőségi bort és kézműves sajtokat állít elő. Finca Narbona Farm Colonia megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O proprietate agricolă istorică care produce vin de înaltă calitate și brânzeturi artizanale. Ferma Finca Narbona se află în departamentul Colonia și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A historic agricultural estate producing high-quality wine and artisanal cheeses. Finca Narbona Farm lies in the Colonia department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -226,9 +226,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Weingut der Finca ist spezialisiert auf kräftige Rotweine der Rebsorte Tannat.",
         "Die historische Kapelle auf dem Gelände ist eines der ältesten religiösen Gebäude in der Region Colonia."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Carmelóban található.", "Dulce de leche-t is készít.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Situată în Carmelo.", "Produce dulce de leche.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Located in Carmelo.", "Produces dulce de leche.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Befindet sich in Carmelo.", "Produziert Dulce de Leche."],
@@ -256,9 +256,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A modern, sustainable agricultural project featuring extensive vineyards and olive groves." },
     descriptionAdvanced: {
       de: "Die Bodega Garzón ist ein visionäres landwirtschaftliches Projekt, das die Region Maldonado in ein erstklassiges Anbaugebiet verwandelt hat. Die Anlage besticht durch ihre futuristische Architektur und die konsequente Ausrichtung auf Nachhaltigkeit und Umweltschutz. Auf Tausenden von Hektar wachsen hier nicht nur Weintrauben, sondern auch Olivenbäume für die Produktion von Premium-Ölen. Das milde Seeklima des nahen Atlantiks verleiht den Produkten von Garzón eine ganz besondere Note. Besucher können per Heißluftballon über die sanften Hügel schweben oder die modernen Produktionshallen besichtigen. Es ist ein Musterbeispiel für den erfolgreichen Einsatz moderner Technologie in der Landwirtschaft. Sachkunde K3 — Nachhaltige Landwirtschaft.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egy modern, fenntartható mezőgazdasági projekt kiterjedt szőlőültetvényekkel és olajfaligetekkel. Garzón Pincészet és Olívaliget Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un proiect agricol modern și durabil, cu podgorii extinse și plantații de măslini. Crama și Livada de Măslini Garzón se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A modern, sustainable agricultural project featuring extensive vineyards and olive groves. Garzón Winery and Olive Grove lies in the Maldonado department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -267,9 +267,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Weinkeller wurde tief in den Fels gehauen, um eine natürliche Temperaturregulierung zu ermöglichen.",
         "Die Anlage beherbergt ein Restaurant des berühmten argentinischen Kochs Francis Mallmann."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Díjnyertes olívaolajat termel.", "Az első LEED-minősítésű pincészet.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Produce ulei de măsline premiat.", "Prima cramă certificată LEED.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Produces award-winning olive oil.", "First LEED-certified winery.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Produziert preisgekröntes Olivenöl.", "Erstes LEED-zertifiziertes Weingut."],
@@ -295,9 +295,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A private protected area with lush forests, natural springs, and rich native fauna." },
     descriptionAdvanced: {
       de: "Das Naturreservat Salus ist ein grünes Juwel im Herzen des Departements Lavalleja und schützt die Quellen des berühmtesten Mineralwassers Uruguays. Die hügelige Landschaft ist von dichtem einheimischen Wald bedeckt, der als Rückzugsort für bedrohte Tierarten dient. Wanderer können auf gut markierten Pfaden die unberührte Natur erkunden und dabei vielleicht einen Blick auf einen scheuen Puma erhaschen. Die legendäre 'Quelle des Pumas' ist der zentrale Punkt des Parks und ein Symbol für Reinheit und Naturkraft. Hier wird eindrucksvoll gezeigt, wie industrielle Nutzung von Ressourcen mit striktem Naturschutz einhergehen kann. Das Reservat bietet zudem lehrreiche Pfade für Kinder über die lokale Ökologie. Sachkunde K3 — Trinkwasser und Naturschutzgebiete.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Magánkézben lévő védett terület buja erdőkkel, természetes forrásokkal és gazdag őshonos faunával. Salus Természetvédelmi Terület Lavalleja megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O zonă protejată privată cu păduri luxuriante, izvoare naturale și o faună nativă bogată. Rezervația Naturală Salus se află în departamentul Lavalleja și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A private protected area with lush forests, natural springs, and rich native fauna. Salus Nature Reserve lies in the Lavalleja department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -306,9 +306,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Quelle wurde 1892 entdeckt und ist seitdem die Basis für das Salus-Mineralwasser.",
         "Im Park lebt eine kleine Population von Pumas, die hier unter speziellem Schutz stehen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A puma egyik élőhelye.", "Az ismert Salus ásványvíz forrása.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Habitatul pumei.", "Sursa cunoscutei ape Salus.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Habitat of the puma.", "Source of the well-known Salus water.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Heimat des Pumas.", "Quelle des bekannten Salus-Wassers."],
@@ -334,9 +334,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "This coastal area hosts one of the world's largest colonies of sea lions in the wild." },
     descriptionAdvanced: {
       de: "Cabo Polonio ist ein magischer Ort an der Atlantikküste, der für seine unberührte Natur und seine riesige Seelöwenkolonie berühmt ist. Die Tiere leben direkt an den felsigen Klippen unterhalb des historischen Leuchtturms und können von dort aus beobachtet werden. Da es im Ort kein öffentliches Strom- oder Wassernetz gibt, hat sich hier ein einzigartiger, entschleunigter Lebensstil erhalten. Der Schutz der Robben und Seelöwen hat oberste Priorität und macht den Nationalpark zu einem wichtigen Zentrum für marine Forschung. Die weiten Dünenlandschaften, die den Zugang zum Ort nur mit speziellen Allradfahrzeugen erlauben, schützen dieses ökologische Paradies. Es ist ein Ort, an dem die Wildnis des Ozeans unmittelbar spürbar wird. Sachkunde K3 — Meeresbewohner und Küstenökosysteme.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Ez a partvidék ad otthont a világ egyik legnagyobb szabadon élő oroszlánfóka-kolóniájának. Cabo Polonio Nemzeti Park (Oroszlánfókák) Rocha megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Această zonă de coastă găzduiește una dintre cele mai mari colonii de lei de mare în sălbăticie din lume. Parcul Național Cabo Polonio (Lei de mare) se află în departamentul Rocha și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "This coastal area hosts one of the world's largest colonies of sea lions in the wild. Cabo Polonio National Park (Sea Lions) lies in the Rocha department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -345,9 +345,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Cabo Polonio gehört zum nationalen System der geschützten Gebiete (SNAP) Uruguays.",
         "Der Leuchtturm von Cabo Polonio wurde bereits 1881 errichtet, um Schiffe vor den gefährlichen Klippen zu warnen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Nincs elektromos hálózat.", "Fontos tengeri ökoszisztéma.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Fără rețea electrică.", "Ecosistem marin important.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Off the power grid.", "Important marine ecosystem.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Ohne Stromnetz.", "Wichtiges marines Ökosystem."],
@@ -373,9 +373,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A rocky island off Punta del Este serving as a vital refuge for South American fur seals." },
     descriptionAdvanced: {
       de: "Die Isla de Lobos liegt etwa 8 Kilometer vor der Küste von Punta del Este und ist die Heimat einer der größten Robbenkolonien der südlichen Hemisphäre. Zehntausende von Seebären und Seelöwen bevölkern die felsigen Ufer der Insel und nutzen sie als Brutplatz. Das Wasser rund um die Insel ist extrem nährstoffreich, was ideale Bedingungen für die Jagd der Meeressäuger bietet. Der imposante Leuchtturm der Insel, einer der höchsten der Welt, wacht über das maritime Treiben. Für Besucher gibt es spezielle Bootstouren, die einen respektvollen Blick aus der Ferne auf das beeindruckende Naturschauspiel ermöglichen. Die Insel ist ein streng geschütztes Naturreservat ohne menschliche Bewohner. Sachkunde K3 — Schutz der Ozeane und ihrer Bewohner.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Punta del Este partjainál fekvő sziklás sziget, amely a dél-amerikai medvefókák fontos menedéke. Isla de Lobos Sziget Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O insulă stâncoasă în largul coastei Punta del Este, servind drept refugiu important pentru focile cu blană sud-americane. Insula Isla de Lobos se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A rocky island off Punta del Este serving as a vital refuge for South American fur seals. Isla de Lobos Island lies in the Maldonado department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -384,9 +384,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Es ist der südlichste Punkt Uruguays und markiert den Übergang vom Río de la Plata zum Atlantik.",
         "Die Insel war früher ein wichtiger Stützpunkt für die Robbenjagd, bevor sie unter Naturschutz gestellt wurde."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 200 000 fóka él itt.", "Egy világítótorony is van rajta.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Peste 200.000 de foci trăiesc aici.", "Are un far.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Over 200,000 seals live here.", "Features a lighthouse.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 200.000 Robben leben hier.", "Hat einen Leuchtturm."],
@@ -412,9 +412,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "Wetlands and islands along the Uruguay River, providing shelter to birds and the endangered maned wolf." },
     descriptionAdvanced: {
       de: "Der Nationalpark Esteros de Farrapos schützt ein komplexes System aus Feuchtgebieten, Inseln und Galeriewäldern entlang des Uruguay-Flusses. Es ist eines der artenreichsten Ökosysteme des Landes und ein wichtiges Brutgebiet für zahlreiche Wasservögel. Besonders wertvoll ist der Park als Rückzugsgebiet für seltene Säugetiere wie den Mähnenwolf und den Sumpfhirsch. Die Flussinseln bilden natürliche Barrieren, die die ungestörte Entwicklung der Fauna ermöglichen. Der Park ist zudem als Ramsar-Gebiet von internationaler Bedeutung anerkannt. Besucher können die verwunschenen Wasserwege per Kajak erkunden und die Stille der Natur genießen. Sachkunde K3 — Feuchtgebiete und ihre ökologische Bedeutung.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A Río Uruguay melletti vizes élőhelyek és szigetek, amelyek madaraknak és a veszélyeztetett sörényes farkasnak nyújtanak menedéket. Esteros de Farrapos Nemzeti Park Río Negro megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "Zone umede și insule de-a lungul râului Uruguay, oferind adăpost păsărilor și lupului cu coamă pe cale de dispariție. Parcul Național Esteros de Farrapos se află în departamentul Río Negro și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "Wetlands and islands along the Uruguay River, providing shelter to birds and the endangered maned wolf. Esteros de Farrapos National Park lies in the Río Negro department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -423,9 +423,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Park dient als natürlicher Filter für das Wasser des Uruguay-Flusses.",
         "Die Vegetation besteht größtenteils aus dichten Galeriewäldern und schwimmenden Pflanzeninseln."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["2004 óta Ramsari terület.", "24 szigetből áll.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Zonă Ramsar din 2004.", "Formată din 24 de insule.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Ramsar site since 2004.", "Consists of 24 islands.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Ramsar-Schutzgebiet seit 2004.", "Besteht aus 24 Inseln."],
@@ -451,9 +451,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A shallow coastal lagoon serving as a crucial habitat for black-necked swans and flamingos." },
     descriptionAdvanced: {
       de: "Die Laguna de Rocha ist ein einzigartiges Küstenökosystem, in dem Süßwasser auf das salzige Wasser des Atlantiks trifft. Diese besondere Mischung schafft eine unglaubliche Vielfalt an Lebensräumen für Fische, Krebstiere und vor allem Vögel. Hunderte von Flamingos und die eleganten Schwarzhalsschwäne prägen das Bild der Lagune während der Sommermonate. Das Gebiet steht unter strengem Schutz, um das empfindliche Gleichgewicht dieses Biosphärenreservats zu bewahren. Eine kleine Gemeinschaft von handwerklichen Fischern lebt hier nachhaltig vom Fang der Lagune und pflegt alte Traditionen. Es ist ein Ort von stiller Schönheit, der die Bedeutung der uruguayischen Küste für den weltweiten Vogelschutz unterstreicht. Sachkunde K3 — Vögel und aquatische Lebensräume.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Sekély tengerparti lagúna, amely fekete nyakú hattyúk és flamingók létfontosságú élőhelye. Laguna de Rocha Madárvédelmi Terület Rocha megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O lagună de coastă puțin adâncă, fiind un habitat crucial pentru lebedele cu gât negru și flamingo. Rezervația de Păsări Laguna de Rocha se află în departamentul Rocha și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A shallow coastal lagoon serving as a crucial habitat for black-necked swans and flamingos. Laguna de Rocha Bird Sanctuary lies in the Rocha department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -462,9 +462,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Man kann hier seltene Vogelarten beobachten, die von der Nordhalbkugel zum Überwintern kommen.",
         "Die Tiefe der Lagune beträgt an den meisten Stellen weniger als einen Meter."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 220 madárfajt regisztráltak.", "Az UNESCO bioszféra-rezervátum része.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Peste 220 de specii de păsări înregistrate.", "Parte a rezervei biosferei UNESCO.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Over 220 bird species registered.", "Part of the UNESCO Biosphere Reserve.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 220 Vogelarten registriert.", "Teil des UNESCO-Biosphärenreservats."],
@@ -492,9 +492,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A popular agrotourism farm where families can experience the production of the famous dulce de leche." },
     descriptionAdvanced: {
       de: "Tambo Lapataia bei Punta del Este ist ein Paradies für Kinder und Liebhaber süßer Spezialitäten. Auf diesem traditionellen Bauernhof wird die berühmte uruguayische Milchcreme 'Dulce de Leche' in höchster Qualität hergestellt. Kleine Besucher können hier hautnah erleben, wie Kühe gemolken werden und woher die Milch für ihre Lieblingsspeise kommt. Der Hof bietet zudem Ponyreiten, Spielplätze und die Möglichkeit, viele verschiedene Nutztiere zu füttern. Die weitläufigen Wiesen laden zu Picknicks im Freien ein, während man die frische Landluft genießt. Es ist ein Ort, der Landwirtschaft erlebbar macht und den Wert lokaler Produkte vermittelt. Sachkunde K3 — Herkunft von Lebensmitteln.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Népszerű agroturisztikai farm, ahol a családok megismerhetik a híres dulce de leche készítését. Tambo Lapataia Farm Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O fermă agroturistică populară unde familiile pot experimenta producția faimosului dulce de leche. Ferma Tambo Lapataia se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "A popular agrotourism farm where families can experience the production of the famous dulce de leche. Tambo Lapataia Farm lies in the Maldonado department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -503,9 +503,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Lapataia bietet in der Hochsaison ein umfangreiches Unterhaltungsprogramm für Kinder an.",
         "Der Bauernhof ist harmonisch in die Hügellandschaft von Maldonado eingebettet."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A gyerekek etethetik az állatokat.", "Ingyenes kóstolókat is tartanak.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Copiii pot hrăni animalele.", "Sunt oferite degustări gratuite.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Children can feed the animals.", "Free tastings are offered.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Kinder können Tiere füttern.", "Kostenlose Verkostungen angeboten."],
@@ -531,9 +531,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A traditional agricultural enterprise known for its homemade fruit jams and a quirky pencil museum." },
     descriptionAdvanced: {
       de: "Granja Arenas im Departement Colonia ist ein Ort voller Kuriositäten und köstlicher Traditionen. Bekannt wurde der Betrieb vor allem durch seine exzellenten hausgemachten Marmeladen, die nach alten Familienrezepten aus frischen Früchten der Region gekocht werden. Doch was diesen Bauernhof wirklich einzigartig macht, ist die unglaubliche Sammelleidenschaft des Besitzers. In einem eigenen Museum können Besucher die weltweit größte Sammlung von Bleistiften bewundern, die sogar im Guinness-Buch der Rekorde steht. Neben Stiften gibt es auch riesige Sammlungen von Schlüsselanhängern und Aschenbechern zu entdecken. Ein Besuch bei Granja Arenas ist eine Reise in eine Welt voller origineller Sammlerstücke und ländlicher Genüsse. Sachkunde K3 — Traditionelles Handwerk und Sammlungen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Hagyományos mezőgazdasági üzem, amely házi gyümölcslekvárjairól és különleges ceruzamúzeumáról ismert. Granja Arenas Lekvárüzem Colonia megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O întreprindere agricolă tradițională cunoscută pentru gemurile sale de fructe de casă și muzeul excentric de creioane. Fabrica de Gemuri Granja Arenas se află în departamentul Colonia și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A traditional agricultural enterprise known for its homemade fruit jams and a quirky pencil museum. Granja Arenas Jam Factory lies in the Colonia department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -542,9 +542,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Granja ist ein beliebter Stopp für Reisende auf dem Weg zwischen Montevideo und Colonia.",
         "Das Museum ist privat geführt und zeigt die lebenslange Leidenschaft der Familie Arenas."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Guinness-rekordot tart a ceruzagyűjteménye.", "Helyi gyümölcsöket dolgoz fel.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Deține un record mondial Guinness pentru creioane.", "Procesează fructe locale.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Holds a Guinness World Record for pencils.", "Processes local fruits.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Hält einen Guinness-Weltrekord für Stifte.", "Verarbeitet lokale Früchte."],
@@ -570,9 +570,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A conservation initiative at Cerro Verde that rescues and rehabilitates injured sea turtles." },
     descriptionAdvanced: {
       de: "Das Karumbé-Projekt ist ein leuchtendes Beispiel für bürgerschaftliches Engagement im Meeresschutz in Uruguay. Das Zentrum in Rocha widmet sich der Rettung, medizinischen Versorgung und anschließenden Freilassung von Meeresschildkröten, die oft durch Fischernetze oder Plastikmüll verletzt werden. Freiwillige und Wissenschaftler arbeiten hier Hand in Hand, um die Wanderrouten dieser faszinierenden Reptilien zu erforschen. Besucher können die Rehabilitationsbecken besichtigen und viel über die Gefahren lernen, denen das marine Leben heute ausgesetzt ist. Die Bildungsarbeit von Karumbé erreicht Tausende von Schülern und fördert ein neues Bewusstsein für den Ozean. Es ist eine inspirierende Erfahrung, den Einsatz des Teams für die sanften Riesen der Meere zu erleben. Sachkunde K3 — Gefährdete Arten und Umweltschutz.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A Cerro Verde melletti természetvédelmi kezdeményezés, amely sérült tengeri teknősöket ment és rehabilitál. Karumbé Tengeriteknős-központ Rocha megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O inițiativă de conservare la Cerro Verde care salvează și reabilitează țestoasele marine rănite. Centrul de Țestoase Marine Karumbé se află în departamentul Rocha și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A conservation initiative at Cerro Verde that rescues and rehabilitates injured sea turtles. Karumbé Sea Turtle Center lies in the Rocha department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -581,9 +581,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Organisation finanziert sich teilweise durch Patenschaften für gerettete Tiere.",
         "Uruguayische Gewässer sind wichtige Futtergebiete für die Grüne Meeresschildkröte."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["1999 óta aktív.", "Környezeti oktatást is népszerűsít.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Activă din 1999.", "Promovează educația ecologică.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Active since 1999.", "Promotes environmental education.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Seit 1999 aktiv.", "Fördert Umweltbildung."],
@@ -609,9 +609,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "Surrounded by a rare Ombu forest, this lagoon is a haven for numerous capybaras and water birds." },
     descriptionAdvanced: {
       de: "Die Laguna de Castillos ist ein Ort von wilder, ursprünglicher Schönheit und beherbergt eines der größten zusammenhängenden Gebiete mit Ombu-Bäumen weltweit. Dieser Wald ist besonders faszinierend, da der Ombu normalerweise als einzelner Baum in der Pampa wächst und hier ein echtes Waldökosystem bildet. Die Lagune selbst ist ein wichtiger Lebensraum für Capybaras, die größten Nagetiere der Welt, die man hier oft in Gruppen am Ufer beobachten kann. Das Schutzgebiet bietet zudem ideale Bedingungen für die Beobachtung von Reihern, Löfflern und anderen seltenen Wasservögeln. Auf leisen Bootstouren kann man tief in die verwunschenen Winkel der Lagune vordringen. Es ist ein unverzichtbares Ziel für jeden Naturfotografen und Biologen. Sachkunde K3 — Besondere Baumarten und Feuchtgebiete.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A ritka ombu-erdővel körülvett lagúna számtalan kapybara és vízimadár menedéke. Laguna de Castillos Védett Terület Rocha megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Înconjurată de o pădură rară de ombu, această lagună este un refugiu pentru numeroase capibara și păsări de apă. Aria Protejată Laguna de Castillos se află în departamentul Rocha și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "Surrounded by a rare Ombu forest, this lagoon is a haven for numerous capybaras and water birds. Laguna de Castillos Protected Area lies in the Rocha department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -620,9 +620,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Gebiet gehört zum Nationalen System der geschützten Gebiete (SNAP).",
         "Einige der Ombu-Bäume werden auf ein Alter von mehreren hundert Jahren geschätzt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az erdő több mint 500 éves.", "Fontos költőterület.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Pădurea are peste 500 de ani.", "Zonă importantă de cuibărit.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["The forest is over 500 years old.", "Important breeding ground.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Der Wald ist über 500 Jahre alt.", "Wichtiges Brutgebiet."],
@@ -648,9 +648,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A vast swamp and lagoon system acting as a biosphere reserve protecting countless migratory birds." },
     descriptionAdvanced: {
       de: "Die Bañados del Este sind ein gigantisches Mosaik aus Sümpfen, Lagunen und Grasland im Osten Uruguays. Als UNESCO-Biosphärenreservat anerkannt, spielen sie eine entscheidende Rolle für den globalen Klimaschutz und die Erhaltung der Biodiversität. Die Region ist besonders für ihre ausgedehnten Palmenhaine der Butiá-Palme bekannt, die der Landschaft ein fast tropisches Aussehen verleihen. Millionen von Vögeln nutzen diese Feuchtgebiete als Rastplatz auf ihren langen Wanderungen quer über den Kontinent. Auch seltene Säugetiere wie das Sumpfkaninchen finden hier einen der letzten sicheren Lebensräume. Es ist eine Region, in der Natur und traditionelle Viehzucht in einem empfindlichen, aber stabilen Gleichgewicht existieren. Geographie K7 — Ökosysteme und globale Biodiversität.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Hatalmas mocsár- és lagúnarendszer, amely bioszféra-rezervátumként számtalan vándormadarat véd. Bañados del Este Vizes Élőhelyek Rocha megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un vast sistem de mlaștini și lagune care, ca rezervație a biosferei, protejează nenumărate păsări migratoare. Zonele Umede Bañados del Este se află în departamentul Rocha și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A vast swamp and lagoon system acting as a biosphere reserve protecting countless migratory birds. Bañados del Este Wetlands lies in the Rocha department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -659,9 +659,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Bañados fungieren als riesiger natürlicher Wasserspeicher für die Region.",
         "Über 120 Fischarten wurden in den Kanälen und Lagunen der Bañados dokumentiert."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["UNESCO bioszféra-rezervátum.", "Pálmafaligeteket is magában foglal.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Rezervația Biosferei UNESCO.", "Include crânguri de palmieri.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["UNESCO Biosphere Reserve.", "Includes palm groves.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["UNESCO-Biosphärenreservat.", "Umfasst Palmenhaine."],
@@ -687,9 +687,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A premium boutique winery near the capital, known for Albarino wines and a classic car collection." },
     descriptionAdvanced: {
       de: "Die Bodega Bouza steht für eine neue Ära des uruguayischen Weinbaus, die auf höchste Qualität und Individualität setzt. Nur eine kurze Fahrt von Montevideo entfernt, bietet dieses Weingut eine perfekte Symbiose aus Genuss und Kultur. Neben der Nationaltraube Tannat hat sich Bouza einen Namen für seinen außergewöhnlichen Albarino gemacht, der hier hervorragend gedeiht. Der Besuch wird durch die beeindruckende private Sammlung von Oldtimern und Motorrädern zu einem unvergesslichen Erlebnis. Das Restaurant der Bodega serviert erstklassige lokale Gerichte, die perfekt auf die hauseigenen Weine abgestimmt sind. Es ist ein Ort, der zeigt, wie moderne Landwirtschaft und exklusiver Tourismus erfolgreich zusammenwirken. Sachkunde K3 — Regionale Landwirtschaft und Handwerk.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A főváros közelében található prémium butikborászat, amely Albarino borairól és veteránautó-gyűjteményéről ismert. Bodega Bouza Pincészet Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O cramă de tip boutique de primă clasă lângă capitală, cunoscută pentru vinurile Albarino și o colecție de mașini clasice. Crama Bodega Bouza se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A premium boutique winery near the capital, known for Albarino wines and a classic car collection. Bodega Bouza Winery lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -698,9 +698,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Weingut ist für seine akribische Arbeit im Weinberg bekannt, wobei jede Traube von Hand selektiert wird.",
         "Die Autosammlung umfasst seltene Stücke der Marken Citroën, Ford und Alfa Romeo."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Vezetett szőlőtúrákat kínál.", "Egy autógyűjteményt is magában foglal.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Oferă tururi ghidate ale podgoriilor.", "Integrează o colecție de mașini.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Offers guided vineyard tours.", "Integrates a car collection.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Bietet geführte Weinbergtouren.", "Integriert eine Autosammlung."],
@@ -726,9 +726,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "This steep gorge is a biodiversity hotspot and home to numerous vulture and bird of prey species." },
     descriptionAdvanced: {
       de: "Die Quebrada de los Cuervos ist eine tief eingeschnittene Schlucht im Departement Treinta y Tres und bietet eine Landschaft, die man in Uruguay kaum vermuten würde. Steile Felswände und dichte, subtropische Vegetation schaffen ein Mikroklima, das vielen seltenen Pflanzen- und Tierarten Schutz bietet. Der Name bezieht sich auf die zahlreichen Rabengeier, die in den Aufwinden der Schlucht kreisen und dort ihre Nester bauen. Auf abenteuerlichen Wanderwegen können Besucher bis zum Boden des Canyons hinabsteigen und die unberührte Wildnis erleben. Die Region war das erste Gebiet, das in das uruguayische System geschützter Landschaften aufgenommen wurde. Es ist ein absolutes Muss für Trekking-Begeisterte und Ornithologen. Sachkunde K3 — Geomorphologie und Lebensräume.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Ez a meredek szurdok a biológiai sokféleség központja, számos keselyű- és ragadozómadár-faj otthona. Quebrada de los Cuervos Szurdok Treinta y Tres megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Acest defileu abrupt este un punct fierbinte al biodiversității și adăpostește numeroase specii de vulturi și păsări de pradă. Defileul Quebrada de los Cuervos se află în departamentul Treinta y Tres și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "This steep gorge is a biodiversity hotspot and home to numerous vulture and bird of prey species. Quebrada de los Cuervos Gorge lies in the Treinta y Tres department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -737,9 +737,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Über 180 Vogelarten nutzen die Quebrada als geschützten Lebensraum.",
         "Der Yerba-Bach am Boden der Schlucht lädt an heißen Tagen zu einer Erfrischung ein."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A neve 'Varjak szurdoka'-t jelent.", "Uruguay első hivatalos védett területe.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Numele înseamnă 'Defileul Corbilor'.", "Prima arie protejată oficială din Uruguay.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Name means 'Ravine of the Crows'.", "Uruguay's first official protected area.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Name bedeutet 'Krähenschlucht'.", "Das erste offizielle Schutzgebiet Uruguays."],
@@ -765,9 +765,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "An ecological corridor with waterfalls and dense forests, housing coatis and rare amphibians." },
     descriptionAdvanced: {
       de: "Das Valle del Lunarejo im Norden Uruguays ist eine spektakuläre Hügellandschaft, die durch ihre tiefe Schluchten und versteckten Wasserfälle besticht. Als Teil der Cuchilla de Haedo bildet es einen wichtigen biologischen Korridor für Arten, die aus dem Amazonasbecken nach Süden wandern. Die dichten Wälder bieten idealen Schutz für Nasenbären (Coatis) und eine Vielzahl von bunten Schmetterlingen und seltenen Amphibien. Besucher können auf geführten Touren die reiche Flora entdecken, die durch die hohe Luftfeuchtigkeit in den Tälern besonders üppig gedeiht. Der Park setzt stark auf nachhaltigen Ökotourismus, um die traditionelle Lebensweise der lokalen Bevölkerung mit dem Naturschutz zu vereinen. Es ist ein unentdecktes Juwel für Abenteurer, die das authentische Uruguay abseits der Küste suchen. Sachkunde K3 — Biologische Korridore und Biodiversität.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Ökológiai folyosó vízesésekkel és sűrű erdőkkel, amely ormányosmedvéknek és ritka kétéltűeknek ad otthont. Valle del Lunarejo Természeti Park Rivera megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un coridor ecologic cu cascade și păduri dense, care găzduiește coati și amfibieni rari. Parcul Natural Valle del Lunarejo se află în departamentul Rivera și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "An ecological corridor with waterfalls and dense forests, housing coatis and rare amphibians. Valle del Lunarejo Nature Park lies in the Rivera department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -776,9 +776,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "In den Tälern wachsen seltene Palmenarten und riesige Farne.",
         "Die Region ist bekannt für ihre kristallklaren Bäche, die in zahlreiche kleine Kaskaden abfallen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A SNAP védett hálózat része.", "A fenntartható ökoturizmust népszerűsíti.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Parte a rețelei protejate SNAP.", "Promovează ecoturismul durabil.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Part of the SNAP protected network.", "Promotes sustainable ecotourism.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Teil des SNAP-Schutznetzwerks.", "Fördert nachhaltigen Ökotourismus."],
@@ -804,9 +804,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "Uruguay's largest contiguous forest area, a refuge for the margay and the Pampas fox." },
     descriptionAdvanced: {
       de: "Die Montes del Queguay repräsentieren den größten zusammenhängenden naturbelassenen Wald Uruguays und liegen am Zusammenfluss des Queguay Grande und des Queguay Chico. Diese dichten Galeriewälder sind ein lebenswichtiger Korridor für eine Vielzahl von Säugetieren, darunter der seltene Margay (eine kleine Wildkatze) und der Pampasfuchs. Die verschlungenen Wasserwege bieten zudem hervorragende Bedingungen für die Beobachtung von Eisvögeln und Ottern. Aufgrund seiner Größe und Unzugänglichkeit hat sich hier eine Urwüchsigkeit bewahrt, die in anderen Teilen des Landes selten geworden ist. Für Naturbegeisterte bietet das Gebiet einzigartige Möglichkeiten für Kajaktouren und Wanderungen durch fast undurchdringliches Grün. Es ist eine der wildesten und unberührtesten Ecken Uruguays. Sachkunde K3 — Waldökosysteme und Flusshabitate.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay legnagyobb egybefüggő erdeje, amely a margay és a pampasi róka menedéke. Montes del Queguay Galériaerdők Paysandú megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Cea mai mare zonă forestieră continuă din Uruguay, un refugiu pentru margay și vulpea de pampas. Pădurile Galerie Montes del Queguay se află în departamentul Paysandú și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "Uruguay's largest contiguous forest area, a refuge for the margay and the Pampas fox. Montes del Queguay Gallery Forests lies in the Paysandú department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials. Local initiatives promote sustainable tourism and the preservation of the area."
     },
     factsAdvanced: {
       de: [
@@ -815,9 +815,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Queguay-Fluss ist bekannt für seine reiche Fischpopulation, was viele Wasservögel anzieht.",
         "Die Region wurde 2014 offiziell in das nationale System der Schutzgebiete (SNAP) aufgenommen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 20 000 hektárt foglal magában.", "Népszerű a folyón tett kenu túrák miatt.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Acoperă peste 20.000 de hectare.", "Popular pentru excursiile cu canoea pe râu.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Covers over 20,000 hectares.", "Popular for river canoe trips.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Umfasst über 20.000 Hektar.", "Beliebt für Kanutouren auf dem Fluss."],
@@ -843,9 +843,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A recreation complex in the Minas mountains featuring numerous leisure activities and children's play areas." },
     descriptionAdvanced: {
       de: "Der Ferienpark UTE-Antel in den Sierras de Minas ist ein wahres Paradies für Familienurlaub mitten in der Natur. Ursprünglich für die Angestellten der staatlichen Unternehmen UTE und Antel geschaffen, steht der riesige Park heute allen Besuchern offen. Er bietet eine perfekte Mischung aus Entspannung in der hügeligen Landschaft und aktiver Freizeitgestaltung für Kinder. Es gibt zahlreiche Spielplätze, Schwimmbäder und Sportanlagen, die über das weitläufige Gelände verteilt sind. Besonders beliebt sind die Ausritte zu Pferd durch die umliegenden Wälder und Hügelketten. Der Park vermittelt ein Gefühl von Gemeinschaft und Freiheit, was ihn zu einem idealen Ort für einen Familienausflug macht. Sachkunde K3 — Freizeitgestaltung und Erholung in der Natur.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Pihenőkomplexum a Minas-hegységben, számtalan szabadidős tevékenységgel és gyermekjátszóterekkel. UTE-Antel Üdülőpark Lavalleja megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un complex de recreere în munții Minas cu numeroase activități de agrement și zone de joacă pentru copii. Parcul de Vacanță UTE-Antel se află în departamentul Lavalleja și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A recreation complex in the Minas mountains featuring numerous leisure activities and children's play areas. UTE-Antel Holiday Park lies in the Lavalleja department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -854,9 +854,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Komplex verfügt über spezialisierte Einrichtungen für Jugendfreizeiten und Ferienlager.",
         "Der Park ist bekannt für seine gepflegten Grünanlagen und den Schutz der lokalen Flora."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Lovaglási lehetőséget is kínál.", "Állami alkalmazottak számára alapították.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Oferă excursii călare.", "Înființat pentru angajații de stat.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Offers horseback riding.", "Founded for state employees.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Bietet Reitausflüge an.", "Gegründet für Staatsangestellte."],
@@ -882,9 +882,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A family-friendly museum featuring a massive collection of shells, whale skeletons, and maritime artifacts." },
     descriptionAdvanced: {
       de: "Das Museo del Mar in La Barra ist eine faszinierende Welt für kleine und große Entdecker und beherbergt eine der größten Muschelsammlungen der Welt. Die detailreichen Ausstellungen führen durch die Geschichte der Seefahrt, von alten Piratengeschichten bis hin zur Biologie der Ozeane. Ein absolutes Highlight ist das riesige Skelett eines Blauwals, das die beeindruckenden Dimensionen der Meeresbewohner verdeutlicht. Das Museum wurde mit viel Leidenschaft gestaltet und vermittelt Kindern auf anschauliche Weise, wie wichtig der Schutz der Meere ist. Neben maritimen Fundstücken gibt es auch Kuriositäten wie alte Bademoden und Strandaccessoires aus vergangenen Zeiten zu bewundern. Es ist ein Ort, an dem man Stunden verbringen kann, ohne dass es langweilig wird. Sachkunde K3 — Meeresbiologie und maritime Geschichte.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Családbarát múzeum hatalmas kagylógyűjteménnyel, bálnacsontvázakkal és tengeri leletekkel. La Barra Tengeri Múzeum Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un muzeu potrivit pentru familii, cu o colecție vastă de scoici, schelete de balene și artefacte maritime. Muzeul Mării La Barra se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A family-friendly museum featuring a massive collection of shells, whale skeletons, and maritime artifacts. La Barra Museum of the Sea lies in the Maldonado department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -893,9 +893,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Besucher können echte Gebisse von Haien und andere faszinierende Exponate aus nächster Nähe sehen.",
         "Der Gründer des Museums sammelt seit über 40 Jahren maritime Objekte aus aller Welt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Egy gigantikus bálnacsontvázat is kiállítanak.", "Régi kalóztörténeteket is bemutat.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Expune un schelet uriaș de balenă.", "Include povești vechi cu pirați.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Displays a gigantic whale skeleton.", "Features old pirate stories.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Zeigt ein gigantisches Walskelett.", "Beinhaltet alte Piratengeschichten."],
@@ -921,9 +921,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "Extensive agricultural lands where blueberries are cultivated for domestic and international markets." },
     descriptionAdvanced: {
       de: "Die Blaubeerplantagen rund um Salto sind ein beeindruckendes Zeugnis für den Wandel der uruguayischen Landwirtschaft hin zu hochwertigen Nischenprodukten. Dank der fruchtbaren Böden und des günstigen Mikroklimas im Norden gedeihen Heidelbeeren hier hervorragend und werden für Märkte in Europa und Nordamerika produziert. Während der Erntezeit verwandelt sich die Region in ein emsiges Zentrum, in dem Tausende von Helfern die empfindlichen Früchte sorgfältig von Hand pflücken. Die Plantagen setzen auf modernste Bewässerungssysteme und nachhaltige Anbaumethoden, um die Qualität der Beeren zu sichern. Für Besucher bieten einige Betriebe geführte Touren an, bei denen man die süßen Früchte direkt vom Strauch kosten kann. Es ist ein wichtiger Wirtschaftsfaktor, der Uruguay als Exporteur von Frischfrüchten stärkt. Sachkunde K3 — Obstbau und Exportwirtschaft.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Kiterjedt mezőgazdasági területek, ahol áfonyát termesztenek a hazai és a nemzetközi piac számára. Salto Áfonyaültetvényei Salto megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Zone agricole extinse unde se cultivă afine pentru piețele naționale și internaționale. Plantațiile de Afine din Salto se află în departamentul Salto și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale.",
+      en: "Extensive agricultural lands where blueberries are cultivated for domestic and international markets. Salto Blueberry Plantations lies in the Salto department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -932,9 +932,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Anbau erfordert eine präzise Kontrolle des Boden-pH-Wertes und eine ständige Wasserversorgung.",
         "Die Haupterntezeit liegt zwischen September und November, wenn in der nördlichen Hemisphäre keine Saison ist."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Salto a bogyóstermesztés központja.", "A betakarítás kézzel történik.", "Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Salto este centrul cultivării fructelor de pădure.", "Recoltarea se face manual.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Salto is the center of berry cultivation.", "Harvesting is done by hand.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Salto ist das Zentrum des Beerenanbaus.", "Die Ernte erfolgt von Hand."],
@@ -960,9 +960,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A triple border area with Brazil and Argentina, rich in aquatic fauna and tropical birds." },
     descriptionAdvanced: {
       de: "Rincón de Franquía liegt am äußersten nordwestlichen Zipfel Uruguays, wo der Cuareim-Fluss in den mächtigen Uruguay mündet. Dieses Schutzgebiet ist ein wahrer Hotspot für Ornithologen, da hier viele tropische Vogelarten aus Brasilien ihre südliche Verbreitungsgrenze erreichen. Die Landschaft ist geprägt von dichten Galeriewäldern, Sümpfen und sandigen Ufern, die eine unglaubliche Vielfalt an Leben beherbergen. Durch das Engagement lokaler Naturschützer konnte dieses Gebiet vor der Zerstörung bewahrt und für den sanften Tourismus erschlossen werden. Besucher können auf Beobachtungstürmen die seltene Tierwelt beobachten oder die Stille der Grenzregion genießen. Es ist ein Ort der Begegnung nicht nur zwischen drei Ländern, sondern auch zwischen verschiedenen klimatischen Zonen. Sachkunde K3 — Grenzüberschreitender Naturschutz.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "A Brazília és Argentína határán fekvő hármashatár, amely vízifaunában és trópusi madarakban gazdag. Rincón de Franquía Védett Terület Artigas megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A védett terület az őshonos állatfajok megóvását és a tudományos kutatás támogatását szolgálja. Oktatási programok hozzák közelebb a látogatókhoz a biológiai sokféleség jelentőségét. A létesítmény szorosan együttműködik nemzeti és nemzetközi természetvédelmi szervezetekkel. Környezetismeret K3 — Állatvilág és természetvédelem. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "O zonă de triplă frontieră cu Brazilia și Argentina, bogată în faună acvatică și păsări tropicale. Aria Protejată Rincón de Franquía se află în departamentul Artigas și reprezintă un exemplu remarcabil al diversității Uruguayului. Aria protejată servește la conservarea speciilor native de animale și la promovarea cercetării științifice. Programele educaționale apropie vizitatorii de importanța biodiversității. Instituția colaborează strâns cu organizații naționale și internaționale de conservare a naturii. Științe K3 — Faună și protecția naturii. Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale. Inițiative locale promovează turismul durabil și conservarea zonei.",
+      en: "A triple border area with Brazil and Argentina, rich in aquatic fauna and tropical birds. Rincón de Franquía Protected Area lies in the Artigas department and is a notable example of Uruguay's diversity. The reserve is dedicated to conserving native animal species and supporting scientific research. Educational programmes bring visitors closer to the importance of biodiversity. The site works closely with national and international nature conservation organisations. Science Y3 — Wildlife and nature conservation. The site is part of Uruguay's national heritage and is featured in school and educational materials."
     },
     factsAdvanced: {
       de: [
@@ -971,9 +971,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Schutzgebiet wird erfolgreich von einer lokalen Organisation in Zusammenarbeit mit der Regierung verwaltet.",
         "Die Region ist bekannt für ihr warmes, fast subtropisches Klima im Vergleich zum Rest Uruguays."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 200 madárfajt dokumentáltak.", "Az Uruguay és a Cuareim folyók találkozásánál fekszik.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Peste 200 de specii de păsări documentate.", "Situată la confluența râurilor Uruguay și Cuareim.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Over 200 bird species documented.", "Located at the confluence of the Uruguay and Cuareim rivers.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 200 Vogelarten dokumentiert.", "Liegt am Zusammenfluss von Uruguay und Cuareim."],
@@ -999,9 +999,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "One of Uruguay's oldest and most significant estancias, now combining cattle breeding with historic agrotourism." },
     descriptionAdvanced: {
       de: "Die Estancia San Pedro de Timote im Departement Florida ist ein nationales Denkmal und ein lebendiges Museum der uruguayischen Landwirtschaft. Gegründet in der Mitte des 19. Jahrhunderts, war sie Schauplatz bedeutender historischer Ereignisse und technologischer Innovationen in der Rinderzucht. Die prächtige Architektur des Haupthauses und die weitläufigen Stallungen zeugen vom einstigen Reichtum der 'Estancieros'. Heute ist das Anwesen ein führendes Ziel für Agrotourismus, wo Gäste in das authentische Leben der Gauchus eintauchen können. Die Kombination aus historischem Charme, erstklassiger Gastronomie und der Weite der uruguayischen Pampa macht diesen Ort einzigartig. Es ist ein Muss für jeden, der die Wurzeln der uruguayischen Identität verstehen möchte. Sachkunde K3 — Rinderzucht und ländliche Traditionen.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Uruguay egyik legrégebbi és legjelentősebb birtoka, amely ma a szarvasmarha-tenyésztést és a történelmi agroturizmust ötvözi. San Pedro de Timote Birtok Florida megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "Una dintre cele mai vechi și mai importante moșii din Uruguay, care combină astăzi creșterea bovinelor cu agroturismul istoric. Moșia San Pedro de Timote se află în departamentul Florida și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "One of Uruguay's oldest and most significant estancias, now combining cattle breeding with historic agrotourism. San Pedro de Timote Estate lies in the Florida department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -1010,9 +1010,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Anwesen umfasst eine Fläche von mehreren tausend Hektar fruchtbaren Weidelandes.",
         "Der Komplex wurde zum Nationalen Historischen Denkmal Uruguays erklärt."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["1854-ben alapították.", "Hagyományos gaucho élményt nyújt.", "Népszerű fotótéma és turisztikai látványosság.", "Florida megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Fondată în 1854.", "Oferă o experiență tradițională gaucho.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Florida.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Founded in 1854.", "Offers a traditional gaucho experience.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Florida department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["1854 gegründet.", "Bietet traditionelles Gaucho-Erlebnis."],
@@ -1038,9 +1038,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A picturesque farm near Pan de Azúcar specializing in artisanal olive oil and natural cosmetics." },
     descriptionAdvanced: {
       de: "Chacra La Anyta ist ein bezauberndes Familienunternehmen, das sich der Herstellung von erstklassigem, handwerklichem Olivenöl verschrieben hat. Gelegen in den sanften Hügeln nahe dem Cerro Pan de Azúcar, bietet die Farm ideale Bedingungen für den Anbau verschiedener Olivensorten. Hier wird der gesamte Prozess von der Ernte bis zur Pressung mit größter Sorgfalt und Respekt vor der Natur durchgeführt. Neben dem flüssigen Gold produziert La Anyta auch eine eigene Linie an Naturkosmetik auf Basis von Olivenöl. Besucher sind eingeladen, an Führungen durch die Haine teilzunehmen und die verschiedenen Öle bei einer Verkostung kennenzulernen. Es ist ein Ort, der Leidenschaft für das Land und moderne Wellness-Trends harmonisch vereint. Sachkunde K3 — Olivenanbau und Naturprodukte.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Festői farm a Pan de Azúcar közelében, amely kézműves olívaolajra és natúrkozmetikumokra specializálódott. Chacra La Anyta Olíva Farm Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "O fermă pitorească lângă Pan de Azúcar, specializată în ulei de măsline artizanal și cosmetice naturale. Ferma de Măslini Chacra La Anyta se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A picturesque farm near Pan de Azúcar specializing in artisanal olive oil and natural cosmetics. Chacra La Anyta Olive Farm lies in the Maldonado department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -1049,9 +1049,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die produzierten Öle von La Anyta haben bereits mehrere nationale Qualitätsauszeichnungen erhalten.",
         "Das Anwesen bietet einen fantastischen Blick auf den markanten Zuckerhut-Berg."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A betakarítás és a sajtolás helyben történik.", "A látogatók segíthetnek a szüretelésben.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Recoltare și presare la fața locului.", "Vizitatorii pot ajuta la recoltare.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Harvesting and pressing on site.", "Visitors can help with the harvest.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Ernte und Pressung vor Ort.", "Besucher können bei der Ernte helfen."],
@@ -1077,9 +1077,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A massive agricultural complex using wind energy to sustainably produce almonds, pecans, and beef." },
     descriptionAdvanced: {
       de: "Agroland ist ein wegweisendes landwirtschaftliches Unternehmen in Uruguay, das neue Maßstäbe für Nachhaltigkeit und Innovation setzt. Der riesige Komplex im Departement Maldonado ist vor allem für seine ausgedehnten Plantagen von Mandeln und Pekannüssen bekannt, die in Uruguay eine Seltenheit sind. Ein besonderes Merkmal von Agroland ist die Nutzung eigener Windkraftanlagen, die den gesamten Energiebedarf des Betriebs decken. Neben dem Obstanbau wird hier auch eine hocheffiziente Rinderzucht betrieben, die modernste genetische Verfahren einsetzt. Die Produkte von Agroland werden unter dem Namen 'Colinas de Garzón' weltweit als Premiumware vermarktet. Es ist ein beeindruckendes Beispiel dafür, wie Großlandwirtschaft im Einklang mit ökologischen Prinzipien funktionieren kann. Wirtschaft K8 — Nachhaltige Großlandwirtschaft.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Hatalmas agráripari komplexum, amely szélenergiát használ mandula, pekándió és marhahús fenntartható előállításához. Agroland Mezőgazdasági Vállalat Maldonado megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását. A földrajzi elhelyezkedés a Río de la Plata mentén vagy a belső területeken befolyásolja a klímát és a növényzetet.",
+      ro: "Un complex agricol uriaș care folosește energia eoliană pentru a produce sustenabil migdale, nuci pecan și carne de vită. Întreprinderea Agricolă Agroland se află în departamentul Maldonado și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A massive agricultural complex using wind energy to sustainably produce almonds, pecans, and beef. Agroland Agricultural Enterprise lies in the Maldonado department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -1088,9 +1088,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die hofeigenen Windräder speisen überschüssigen Strom in das nationale Netz ein.",
         "Besucher können bei geführten Touren die hochmodernen Verarbeitungsanlagen besichtigen."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Több mint 4000 hektár földterület.", "Saját szélturbinákkal rendelkezik.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Peste 4.000 de hectare de teren.", "Are propriile turbine eoliene.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Over 4,000 hectares of land.", "Has its own wind turbines.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 4.000 Hektar Land.", "Hat eigene Windkraftanlagen."],
@@ -1116,9 +1116,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "A striking building on Montevideo's beach offering marine biology and zoology exhibits especially for children." },
     descriptionAdvanced: {
       de: "Das Ozeanographische Museum Damaso Antonio Larrañaga in Montevideo ist ein Muss für neugierige Kinder und alle, die das Meer lieben. Das Gebäude selbst ist eine architektonische Besonderheit und erinnert in seinem Stil an eine maurische Moschee, was es zu einem Blickfang an der Küste macht. Im Inneren erwartet die Besucher eine umfangreiche Sammlung von präparierten Tieren, Skeletten und Exponaten zur Meeresökologie. Besonders beeindruckend für die Kleinen sind die riesigen Walskelette und die Vielfalt der uruguayischen Fischarten. Das Museum widmet sich intensiv der Umweltbildung und zeigt die Bedeutung der Ozeane für das globale Gleichgewicht auf. Es ist ein idealer Ort, um einen Strandspaziergang mit einer spannenden Entdeckungsreise in die Welt der Wissenschaft zu verbinden. Sachkunde K3 — Ozeane und Meeresbiologie.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Feltűnő épület Montevideo tengerpartján, amely a tengerbiológiáról és az állattanról szóló, kifejezetten gyerekeknek szóló kiállításokat kínál. Damaso Antonio Larrañaga Óceanográfiai Múzeum Montevideo megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "O clădire impresionantă pe plaja din Montevideo, oferind expoziții de biologie marină și zoologie, în special pentru copii. Muzeul Oceanografic Damaso Antonio Larrañaga se află în departamentul Montevideo și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "A striking building on Montevideo's beach offering marine biology and zoology exhibits especially for children. Damaso Antonio Larrañaga Oceanographic Museum lies in the Montevideo department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -1127,9 +1127,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Museum beherbergt eines der vollständigsten Walskelette in ganz Südamerika.",
         "Es ist nach Damaso Antonio Larrañaga benannt, einem Pionier der Naturwissenschaften in Uruguay."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["Az épület egy mecsetre emlékeztet.", "Számos preparált állatot mutat be.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Clădirea amintește de o moschee.", "Expune numeroase animale împăiate.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["The building resembles a mosque.", "Displays numerous taxidermied animals.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Das Gebäude erinnert an eine Moschee.", "Zeigt zahlreiche präparierte Tiere."],
@@ -1155,9 +1155,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
       en: "An adventure park around a waterfall featuring ziplines, horseback riding, and nature exploration for the whole family." },
     descriptionAdvanced: {
       de: "Der Park Salto del Penitente ist ein spektakuläres Ausflugsziel in den Bergen von Lavalleja und bietet Nervenkitzel pur für Abenteuerlustige. Der zentrale Punkt ist der 60 Meter hohe Wasserfall, der über steile Felswände in ein natürliches Becken stürzt. Für Kinder und Jugendliche gibt es aufregende Ziplines, die hoch über die Schlucht führen und einen atemberaubenden Blick bieten. Wer es etwas ruhiger mag, kann an geführten Reitausflügen durch die wilde Hügellandschaft teilnehmen oder auf markierten Pfaden wandern. Das moderne Besucherzentrum mit seinem Restaurant ist architektonisch spektakulär in den Fels integriert und bietet lokale Spezialitäten. Es ist ein Ort, der zeigt, wie man Outdoor-Sport und den Schutz einer einzigartigen Geologie perfekt miteinander verbindet. Sachkunde K3 — Geologie und Abenteuersport in der Natur.",
-      hu: "",
-      ro: "",
-      en: ""
+      hu: "Egy vízesés körüli kalandpark zipline-pályákkal, lovaglással és természetjárással az egész család számára. Salto del Penitente Természeti Park Lavalleja megye területén található, és Uruguay sokszínűségének figyelemre méltó példája. A nevezetesség hazai és külföldi látogatókat egyaránt vonz, és szorosan kötődik a helyi identitáshoz. Az építmény és szimbolikája sokat elárul Uruguay kulturális történetéről. A helyet rendszeresen felújítják, és központi motívuma az útikönyveknek és oktatási anyagoknak. Történelem K7 — Kulturális örökség és turizmus. A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban. Helyi kezdeményezések támogatják a fenntartható turizmust és a terület megóvását.",
+      ro: "Un parc de aventură în jurul unei cascade, cu tiroliene, călărie și explorarea naturii pentru întreaga familie. Parcul Natural Salto del Penitente se află în departamentul Lavalleja și reprezintă un exemplu remarcabil al diversității Uruguayului. Monumentul atrage vizitatori din țară și din străinătate și este strâns legat de identitatea locală. Arhitectura și simbolistica locului dezvăluie multe despre istoria culturală a Uruguayului. Locul este restaurat periodic și constituie un motiv central în ghidurile turistice și materialele educative. Istorie K7 — Patrimoniu cultural și turism.",
+      en: "An adventure park around a waterfall featuring ziplines, horseback riding, and nature exploration for the whole family. Salto del Penitente Nature Park lies in the Lavalleja department and is a notable example of Uruguay's diversity. The landmark draws visitors from home and abroad and is closely tied to local identity. The architecture and symbolism of the place reveal much about Uruguay's cultural history. The site is regularly restored and is a central motif in travel guides and educational materials. History Y7 — Cultural heritage and tourism."
     },
     factsAdvanced: {
       de: [
@@ -1166,9 +1166,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Besucherzentrum wurde mehrfach für sein modernes, landschaftlich integriertes Design ausgezeichnet.",
         "Die Region gehört zu den ältesten geologischen Formationen Südamerikas."
       ],
-      hu: [],
-      ro: [],
-      en: []
+      hu: ["A vízesés 60 métert zuhan.", "Lombkorona-túrákat is kínál.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Cascada cade 60 de metri.", "Oferă tururi prin coronament.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Waterfall drops 60 meters.", "Offers canopy tours.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Wasserfall fällt 60 Meter ab.", "Bietet Canopy-Touren."],

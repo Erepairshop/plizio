@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "gambia",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bijilo-cities-v2",
+      "descriptionAdvanced": "Bijilo ist ein exklusiver Küstenort, der für den Bijilo Forest Park bekannt ist, in dem eine beeindruckende Vielfalt an Affenarten in ihrer natürlichen Umgebung beobachtet werden kann. Der Ort hat sich zu einem beliebten Zentrum für Reisende entwickelt, die die Nähe zur Natur mit einem luxuriösen Aufenthalt verbinden möchten. Der Waldpark dient zudem als grünes Rückzugsgebiet in der ansonsten wachsenden Küstenregion und spielt eine wichtige Rolle für den lokalen Naturschutz. Durch die Kombination aus hochwertigen Unterkünften und direkter Strandnähe ist Bijilo ein Paradebeispiel für den modernen gambischen Tourismus. Geographie K7 — Naturschutz in touristischen Regionen.",
+      "factsAdvanced": ["Standort des Bijilo Forest Park.", "Lebensraum für zahlreiche Affenarten.", "Bedeutendes Tourismuszentrum.", "Luxuriöse Unterkunftsmöglichkeiten.", "Wichtiger grüner Rückzugsort an der Küste.", "Förderer des lokalen Naturschutzes.", "Beliebt bei Natur- und Strandtouristen."]
+    },
+    {
+      "id": "kololi-cities-v2",
+      "descriptionAdvanced": "Kololi bildet das pulsierende Herz des gambischen Tourismus und ist berühmt für den 'Senegambia Strip'. Dieser Bereich ist gesäumt von zahlreichen erstklassigen Restaurants, Bars und Hotels, die Kololi zum nächtlichen Treffpunkt für Besucher aus aller Welt machen. Trotz der starken touristischen Prägung bietet der Ort direkten Zugang zu den weiten Sandstränden des Atlantiks. Kololi ist ein Beispiel für eine hochgradig spezialisierte touristische Infrastruktur, die maßgeblich zum wirtschaftlichen Erfolg der gambischen Tourismusbranche beiträgt. Geographie K8 — Tourismusökonomie und Dienstleistungszentren.",
+      "factsAdvanced": ["Zentrum des gambischen Tourismus.", "Bekannt durch den 'Senegambia Strip'.", "Hauptstandort für gehobene Gastronomie.", "Direkter Zugang zu atlantischen Sandstränden.", "Pulsierendes Zentrum für das Nachtleben.", "Maßgeblicher Beitrag zur gambischen Tourismuswirtschaft.", "Treffpunkt für internationale Reisende."]
+    },
+    {
+      "id": "kanifing-cities-v2",
+      "descriptionAdvanced": "Kanifing fungiert als industrielles Rückgrat der Metropolregion Serekunda und ist ein zentraler Ort für wirtschaftliche und akademische Aktivitäten. Hier befindet sich die Universität von Gambia, die eine entscheidende Rolle für die Ausbildung der künftigen Generation des Landes spielt. Die Stadt vereint großflächige Industriegebiete mit stetig wachsenden Wohnflächen und bildet damit einen wichtigen Lebens- und Arbeitsraum in Gambia. Durch die Konzentration von Bildungseinrichtungen und gewerblichen Unternehmen ist Kanifing ein unverzichtbarer Baustein in der ökonomischen Struktur des Landes. Politik/Wirtschaft K8 — Bildung und Industrie in Schwellenländern.",
+      "factsAdvanced": ["Sitz der Universität von Gambia.", "Industrielles Zentrum des Landes.", "Wichtiger Bildungsstandort.", "Hohe Konzentration von Gewerbebetrieben.", "Zentraler Arbeitsort der Region.", "Verbindung von Industrie und Wohnraum.", "Wichtiger Knotenpunkt für die ökonomische Entwicklung."]
+    },
+    {
+      "id": "bundung-cities-v2",
+      "descriptionAdvanced": "Bundung ist ein dicht besiedeltes, dynamisches Wohnviertel, das tief in der sozialen Struktur der Kanifing Municipality verwurzelt ist. Als Teil der Serekunda-Agglomeration ist Bundung ein Mosaik aus verschiedenen ethnischen Gruppen und Kulturen, was sich in einer einzigartigen sozialen Lebendigkeit widerspiegelt. Die dichte Bebauung ist ein Ergebnis des enormen Wachstumsdrucks und der Landflucht, die Gambias Städte in den letzten Jahrzehnten transformiert haben. Bundung ist ein Ort des täglichen Austauschs und ein faszinierendes Beispiel für gelebte Gemeinschaft in einer afrikanischen Großstadt. Sozialkunde K7 — Soziale Dynamik in wachsenden Stadtvierteln.",
+      "factsAdvanced": ["Siedlungsdichtes Wohnviertel.", "Kultureller Schmelztiegel der Serekunda-Region.", "Ergebnis rasanten urbanen Wachstums.", "Starke lokale Gemeinschaftsstrukturen.", "Diversität der ethnischen Bevölkerung.", "Zentrum für kleinteiliges soziales Leben.", "Typisches Beispiel für afrikanische Urbanisierung."]
+    },
+    {
+      "id": "tallinding-cities-v2",
+      "descriptionAdvanced": "Tallinding ist ein wichtiger Stadtteil innerhalb der Serekunda-Agglomeration, der vor allem als dicht besiedeltes Wohngebiet und lokales Handelszentrum fungiert. Durch die Lage direkt an einer der Hauptverkehrsstraßen nach Banjul ist das Viertel ein Durchgangspunkt für viele Bewohner, die in der Hauptstadt arbeiten. Die lokalen Märkte von Tallinding bieten eine Vielzahl von Lebensmitteln und Alltagswaren, die den Grundbedarf der wachsenden Bevölkerung decken. Als integrierter Bestandteil des urbanen Gefüges von Serekunda spiegelt Tallinding das Wachstum und die wirtschaftliche Energie des gambischen Westens wider. Wirtschaft K6 — Lokale Marktwirtschaft.",
+      "factsAdvanced": ["Bedeutendes Wohngebiet in Serekunda.", "Lage an der Hauptstraße nach Banjul.", "Wichtige lokale Märkte für Alltagswaren.", "Hohe urbane Dichte.", "Zentrum für den lokalen Handel.", "Wichtiger Transitpunkt für Pendler.", "Integration in das städtische Gesamtgefüge."]
+    }
+  ]
+}

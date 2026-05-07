@@ -1,0 +1,375 @@
+{
+  "lang": "de",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "minas-del-jicaro-history-v2",
+      "descriptionAdvanced": "Die historischen Minen von El Jícaro, insbesondere die Mine San Albino im Departement Nueva Segovia, sind untrennbar mit der Genesis der nicaraguanischen Revolution verknüpft. In den 1920er Jahren florierte hier der Goldabbau durch US-amerikanische Unternehmen, die lokale Arbeiter unter harten Bedingungen ausbeuteten. Einer dieser Arbeiter, ein Buchhalter namens Augusto C. Sandino, war zutiefst empört über die amerikanische Militärintervention. Am 1. Juli 1927 veröffentlichte er in genau dieser Mine sein berühmtes "Manifest von San Albino", das den Startschuss für den bewaffneten Guerillakrieg gegen die US-Marineinfanterie gab. Heute sind die Stollen größtenteils verlassen, doch der Ort bleibt ein kraftvolles Symbol des nicaraguanischen Antiimperialismus. Geschichte K8 — Antiimperialismus und Bergbauausbeutung.",
+      "factsAdvanced": [
+        "Die Mine San Albino war in den 1920er Jahren in US-amerikanischem Besitz.",
+        "Augusto C. Sandino arbeitete hier vorübergehend als Angestellter.",
+        "Der Ort der Veröffentlichung von Sandinos erstem politischen Manifest (Juli 1927).",
+        "Gelegen in der bergigen und pinienreichen Landschaft von Nueva Segovia.",
+        "Der historische Ort verfällt heute zunehmend und wird langsam vom Dschungel zurückerobert.",
+        "Ein kleines lokales Monument erinnert an den Beginn von Sandinos Rebellion."
+      ]
+    },
+    {
+      "id": "fuerte-de-la-inmaculada-concepcion-el-castillo-history-v2",
+      "descriptionAdvanced": "Die Festung der Unbefleckten Empfängnis (El Castillo) am Ufer des Río San Juan ist das eindrucksvollste koloniale Militärbauwerk Nicaraguas. Die 1675 von den Spaniern fertiggestellte Anlage thront auf einem Hügel direkt über den tückischen Raudal del Diablo (Teufels-Stromschnellen). Ihr Zweck war es, die reiche Kolonialstadt Granada am Nicaraguasee vor den ständigen Überfällen englischer und französischer Piraten aus der Karibik zu schützen. Zu den berühmtesten militärischen Aktionen gehört die Verteidigung der Festung durch die junge Rafaela Herrera 1762 sowie die kurze, aber tödliche Belagerung durch den britischen Admiral Horatio Nelson 1780. Heute bietet das massive Sternfort einen spektakulären Einblick in die militärische Architektur des 17. Jahrhunderts. Geschichte K7 — Piraterie und koloniale Verteidigungsanlagen.",
+      "factsAdvanced": [
+        "Erbaut 1675 auf Befehl der spanischen Krone zur Abwehr karibischer Piraten.",
+        "Gelegen am strategischen Engpass der Stromschnellen (Raudal del Diablo) des Río San Juan.",
+        "Wurde 1762 von der 19-jährigen Rafaela Herrera erfolgreich gegen eine britische Flotte verteidigt.",
+        "Der berühmte britische Seeheld Horatio Nelson belagerte und eroberte das Fort 1780 kurzzeitig.",
+        "Verfügt über dicke Steinmauern, Bastionen und historische Kanonen, die heute noch sichtbar sind.",
+        "Das Fort beherbergt heute ein kleines Museum, das die Geschichte der Flussschifffahrt dokumentiert."
+      ]
+    },
+    {
+      "id": "puerto-de-corinto-historical-port-history-v2",
+      "descriptionAdvanced": "Der historische Hafen von Corinto wurde 1858 gegründet, um den veralteten und flachen Hafen von El Realejo abzulösen. Seit seiner Entstehung hat sich Corinto als das wichtigste Tor Nicaraguas zum Pazifik und zur Weltwirtschaft bewährt. Im späten 19. und frühen 20. Jahrhundert veränderten die massive Einfuhr europäischer Maschinen und der massive Export von Baumwolle, Kaffee und später Zucker die Landschaft Nicaraguas komplett. Der Hafen war auch Schauplatz militärischer Spannungen, darunter die britische Besetzung 1895 zur Erzwingung von Schuldenzahlungen und die Verminung des Hafens durch die CIA in den 1980er Jahren. Heute ist Corinto ein Mix aus moderner Containerlogistik und kolonialem Erbe. Geschichte K8 — Hafenlogistik und Kanonenbootpolitik.",
+      "factsAdvanced": [
+        "Gegründet 1858 als Ersatz für den kolonialen, durch Piraten zerstörten Hafen El Realejo.",
+        "Wurde 1895 im Zuge der "Corinto-Krise" kurzzeitig von britischen Marinesoldaten besetzt.",
+        "War der Endpunkt der historischen Pazifischen Eisenbahn (Ferrocarril del Pacífico).",
+        "Wichtiger Umschlagplatz während des nicaraguanischen Baumwollbooms in den 1950er Jahren.",
+        "Im Jahr 1983 wurde der Hafen durch von der US-CIA verlegte Seeminen blockiert.",
+        "Die Insel Corinto ist heute über eine strategische Brücke mit dem Festland von Chinandega verbunden."
+      ]
+    },
+    {
+      "id": "sitio-historico-san-rafael-del-norte-history-v2",
+      "descriptionAdvanced": "San Rafael del Norte, eingebettet in die nebligen Berge von Jinotega, birgt eine zweifache historische Bedeutung. In den 1920er Jahren diente die kühle Stadt Augusto C. Sandino als wichtiges Hauptquartier; hier heiratete er die lokale Telegrafistin Blanca Aráuz, die zu einer Schlüsselfigur in seinem Kommunikationsnetzwerk wurde. Das Haus der Familie Aráuz ist heute ein faszinierendes Nationalmuseum. In der zweiten Hälfte des 20. Jahrhunderts wurde der Ort durch den italienischen Franziskanerpater Odorico D'Andrea transformiert. Er versöhnte nicht nur verfeindete Gruppen während des Contra-Krieges, sondern half beim Bau der kolossalen lokalen Kirche und der Infrastruktur. Sein Grab im Tepeyac-Heiligtum macht die Stadt zu einem nationalen Pilgerort. Geschichte K8 — Guerilla-Romantik und spirituelle Versöhnung.",
+      "factsAdvanced": [
+        "Heimat des Blanca-Aráuz-Museums, das die Heirat von Sandino und Blanca (1927) dokumentiert.",
+        "Die kühle Bergstadt diente oft als geheimes logistisches Zentrum der Sandino-Rebellion.",
+        "Pater Odorico D'Andrea, ein verehrter Franziskaner, ist für die Stadtentwicklung verantwortlich.",
+        "D'Andrea verhandelte 1990 erfolgreich den ersten lokalen Waffenstillstand im Contra-Krieg.",
+        "Das Tepeyac-Heiligtum in der Stadt ist ein wichtiges katholisches Wallfahrtszentrum.",
+        "Die Region profitiert von ihrem nebligen Klima und dem Anbau von Premium-Kaffee."
+      ]
+    },
+    {
+      "id": "minas-de-siuna-rosita-bonanza-history-v2",
+      "descriptionAdvanced": "Das historische "Triángulo Minero" (Bergbau-Dreieck), bestehend aus den Städten Siuna, Rosita und Bonanza in der Karibikregion (RACCN), erzählt die brutale, aber faszinierende Geschichte der nicaraguanischen Rohstoffausbeutung. Ab dem späten 19. Jahrhundert, aber massiv in den 1940er Jahren, begannen multinationale Konzerne hier riesige Flächen Regenwald für den Abbau von Gold, Silber und Kupfer zu roden. Es entstand eine völlig isolierte Gesellschaft, die stark von nordamerikanischer Firmenkultur, kreolischem Englisch und den indigenen Mayangna geprägt war. Der massive Einsatz von Chemikalien hinterließ giftige Seen (Lagunas de Oxidación), die heute als surreale Monumente einer Ära dienen, in der der Profit aus der Karibik direkt ins Ausland floss. Geschichte K8 — Extraktive Industrien und Umweltgeschichte.",
+      "factsAdvanced": [
+        "Das Bergbau-Dreieck umfasst die Städte Siuna (Gold), Rosita (Kupfer) und Bonanza (Gold).",
+        "Wurde im 20. Jahrhundert fast ausschließlich von kanadischen und US-amerikanischen Firmen betrieben.",
+        "Hinterließ massive Umweltschäden in Form von zyanid- und kupferverseuchten Kraterseen.",
+        "Die isolierten Minenstädte wurden von den Firmen mit eigenen Währungen und Krankenhäusern betrieben.",
+        "War während der 1980er Jahre Schauplatz schwerer Kämpfe zwischen Contras und Sandinisten.",
+        "Die lokale Bevölkerung bestand historisch aus Miskito, Mayangna und kreolischen Arbeitern."
+      ]
+    },
+    {
+      "id": "guerra-constitucionalista-leon-history-v2",
+      "descriptionAdvanced": "Die Stadt León war 1926 und 1927 das Epizentrum der blutigen "Constitucionalistischen Revolution" (Guerra Constitucionalista). Der Konflikt brach aus, nachdem Konservative in Managua die Macht ergriffen hatten und die liberale Hochburg León eine Gegenregierung unter Juan Bautista Sacasa bildete. Die Straßen von León und die Umgebung (wie die Festung El Coyotepe in Masaya und Chinandega) wurden zu Schlachtfeldern zwischen Liberalen und Konservativen. Dieser verheerende Bürgerkrieg gipfelte in der erneuten militärischen Intervention der Vereinigten Staaten, die 1927 den Pakt von Espino Negro erzwangen – ein Abkommen, das alle Generäle außer Augusto C. Sandino entwaffnete und damit den Grundstein für Sandinos siebenjährigen Anti-US-Guerillakrieg legte. Geschichte K8 — Bürgerkriege und der Pakt von Espino Negro.",
+      "factsAdvanced": [
+        "León diente 1926 als selbsternannte Hauptstadt der liberalen konstitutionellen Gegenregierung.",
+        "Der Bürgerkrieg wurde zwischen der konservativen Regierung und liberalen Rebellen ausgetragen.",
+        "Die massive Zerstörung während der Kämpfe führte zur Intervention der US-Marineinfanterie.",
+        "Der Konflikt endete 1927 formell durch den von den USA diktierten Pakt von Espino Negro.",
+        "Augusto C. Sandino war der einzige liberale General, der sich weigerte, die Waffen niederzulegen.",
+        "Die Einschusslöcher dieser Ära prägten das Stadtbild Leóns lange vor der Revolution von 1979."
+      ]
+    },
+    {
+      "id": "bombardeo-de-ocotal-history-v2",
+      "descriptionAdvanced": "Das historische Zentrum von Ocotal, der Hauptstadt von Nueva Segovia, ging am 16. Juli 1927 auf tragische Weise in die globale Militärgeschichte ein. An diesem Tag verteidigten sich US-Marineinfanteristen in der städtischen Kaserne gegen einen massiven Überraschungsangriff durch Hunderte von Sandinos Guerillakämpfern. Um die Marines zu retten, befahl das US-Kommando einen Luftangriff: Fünf DeHavilland-Sturzkampfbomber warfen Bomben ab und bestrichen das Stadtzentrum mit Maschinengewehrfeuer. Dieses Ereignis gilt in der Militärhistorie als einer der ersten gezielten, organisierten Sturzkampfbomberangriffe (Dive Bombing) zur direkten Luftunterstützung in einem Konflikt, der zahllose zivile Todesopfer forderte und die Brutalität der US-Intervention weltweit in die Schlagzeilen brachte. Geschichte K8 — Luftkriegsgeschichte und Sandinistenkrieg.",
+      "factsAdvanced": [
+        "Der Angriff fand am 16. Juli 1927 während der Belagerung Ocotals durch Sandinos Truppen statt.",
+        "Gilt historisch als der erste koordinierte Sturzkampfbomber-Angriff (Dive Bombing) der US-Marine.",
+        "Fünf DeHavilland DH-4 Doppeldecker bombardierten das Stadtzentrum um den zentralen Park.",
+        "Schätzungen zufolge starben dabei zwischen 50 und 300 Nicaraguaner, darunter viele Zivilisten.",
+        "Der Vorfall brachte der US-Militärintervention massive internationale diplomatische Verurteilungen ein.",
+        "Ocotal blieb während des gesamten Krieges ein stark umkämpfter strategischer Garnisonsort."
+      ]
+    },
+    {
+      "id": "ni-plaza-revolucion-landmarks-v2",
+      "descriptionAdvanced": "Die Plaza de la Revolución ist das weitläufige historische Herz der nicaraguanischen Hauptstadt Managua. Vor dem Erdbeben von 1972 war dies das geschäftige Zentrum (damals Plaza de la República), umgeben von Hotels und Geschäften. Heute ist der große Platz ein weitgehend offener Raum, flankiert von den drei monumentalen Überlebenden des Bebens: der Alten Kathedrale, dem Nationalpalast der Kultur und dem Casa de los Pueblos. Seinen heutigen Namen erhielt der Platz, als die Sandinisten hier am 20. Juli 1979 vor hunderttausenden jubelnden Menschen den endgültigen Triumph über die Somoza-Diktatur feierten. Ein zentrales Element ist das Mausoleum mit den sterblichen Überresten von Carlos Fonseca Amador, dem Gründer der FSLN, bewacht von einer "Ewigen Flamme". Architektur K7 — Urbane Transformation und politische Zentren.",
+      "factsAdvanced": [
+        "Das historische, politische und kulturelle Zentrum von Managua.",
+        "Umgeben von der Alten Kathedrale, dem Nationalpalast und dem Rubén-Darío-Park.",
+        "Ort der massiven Siegesfeier der Sandinisten am 20. Juli 1979.",
+        "Beherbergt das Mausoleum des FSLN-Gründers Carlos Fonseca und des Guerillaführers Tomás Borge.",
+        "In der Mitte brennt die "Ewige Flamme" (Llama Eterna) in Erinnerung an die gefallenen Helden.",
+        "Vor 1972 hieß der Platz "Plaza de la República" und war von dichten Häuserblocks umgeben."
+      ]
+    },
+    {
+      "id": "ni-monumento-ruben-dario-landmarks-v2",
+      "descriptionAdvanced": "Das Denkmal für Rubén Darío (Monumento a Rubén Darío) in Managua ist die kunstvollste und ehrwürdigste Hommage an den größten Literaten Nicaraguas. Das aus schneeweißem Carrara-Marmor gefertigte und 1933 enthüllte Monument steht inmitten eines Springbrunnens im Parque Central, angrenzend an den Nationalpalast. Im Zentrum der Anlage thront die lebensgroße Statue des Dichters in einem Boot, gestützt von Allegorien seiner berühmtesten Gedichte – darunter der ikonische Zentaur und Schwäne. Es überstand das verheerende Erdbeben von 1972 fast unbeschadet und symbolisiert für die Nicaraguaner die Unzerstörbarkeit ihrer Kultur und Poesie in einem ansonsten von Katastrophen gebeutelten Land. Kunstgeschichte K7 — Nationale Denkmäler und allegorische Bildhauerei.",
+      "factsAdvanced": [
+        "Erbaut aus feinstem Carrara-Marmor und offiziell im Jahr 1933 enthüllt.",
+        "Erschaffen vom italienischen Bildhauer Mario Favilli.",
+        "Die Statue des Dichters Rubén Darío wird von Schwänen und einem Zentauren (aus seinen Gedichten) flankiert.",
+        "Das Denkmal überstand das schwere Managua-Erdbeben von 1972 fast vollkommen unversehrt.",
+        "Liegt im Parque Central de Managua, direkt neben der Plaza de la Revolución.",
+        "Darío trägt auf dem Denkmal einen Lorbeerkranz, ein antikes Symbol für poetische Unsterblichkeit."
+      ]
+    },
+    {
+      "id": "ni-teatro-nacional-ruben-dario-landmarks-v2",
+      "descriptionAdvanced": "Das Teatro Nacional Rubén Darío am Ufer des Managuasees ist das wichtigste und prestigeträchtigste Zentrum für darstellende Künste in Nicaragua. Es wurde 1969 eingeweiht, nachdem eine jahrelange Spendenkampagne (geführt von Hope Portocarrero, der Ehefrau des Diktators Somoza Debayle) die Gelder beschafft hatte. Das Gebäude ist ein Meisterwerk der modernistischen Architektur und der Antisismik-Technik: Es war eines der wenigen hohen Gebäude in Managua, das das katastrophale Erdbeben von 1972 dank tief im Boden verankerter Schwingungsdämpfer unbeschadet überstand. Der Hauptsaal, berühmt für seine außergewöhnliche Akustik und die riesigen Kristallkronleuchter im Foyer, beherbergt bis heute Ballettaufführungen, Sinfonieorchester und internationale Theaterstücke. Architektur K8 — Modernistische Antisismik und Nationalkultur.",
+      "factsAdvanced": [
+        "Offiziell am 6. Dezember 1969 eröffnet, gilt es als eines der besten Theater in Lateinamerika.",
+        "Entworfen von den Architekten José Francisco Terán und Eduardo Chamorro Coronel.",
+        "Dank innovativer japanischer Antisismik-Technologie überstand es das Erdbeben von 1972 schadlos.",
+        "Die Akustik des Hauptsaals (1.200 Plätze) wird von Experten weltweit gelobt.",
+        "Das riesige Foyer (Salón de los Cristales) wird von enormen spanischen Kristallkronleuchtern erhellt.",
+        "Diente nach dem Erdbeben kurzzeitig als Notunterkunft und Versammlungsort."
+      ]
+    },
+    {
+      "id": "ni-catedral-de-leon-landmarks-v2",
+      "descriptionAdvanced": "Die Basílica Catedral de la Asunción in León ist das majestätischste religiöse Gebäude in ganz Mittelamerika und wurde 2011 zum UNESCO-Weltkulturerbe erklärt. Die Konstruktion dieses massiven, blendend weißen Bauwerks dauerte von 1747 bis 1814. Sie vereint eine robuste Barockarchitektur mit elegantem Neoklassizismus und dicken Mauern, die es ihr ermöglichten, Vulkaneruptionen, Kriege und Erdbeben zu überstehen. Weltweit berühmt ist ihr weitläufiges, begehbares strahlend weißes Kuppeldach, das an die Architektur des Mittelmeerraums erinnert und einen spektakulären Blick auf die Vulkankette Maribios bietet. Im Inneren, unter den Gewölben, ruhen die sterblichen Überreste des Nationaldichters Rubén Darío unter einer beeindruckenden Skulptur eines weinenden Löwen. Architektur K8 — UNESCO-Weltkulturerbe und koloniales Ingenieurwesen.",
+      "factsAdvanced": [
+        "Die größte und wichtigste Kathedrale in Mittelamerika, Bauzeit von 1747 bis 1814.",
+        "Wurde im Jahr 2011 offiziell als UNESCO-Weltkulturerbe (Patrimonio de la Humanidad) anerkannt.",
+        "Der Nationaldichter Rubén Darío ist hier unter einer massiven Löwenskulptur begraben.",
+        "Das strahlend weiße, von Kuppeln geprägte Dach ist für Touristen begehbar.",
+        "Besitzt extrem dicke, erdbebensichere Wände und tiefe unterirdische Tunnel (Katakomben).",
+        "In der Kathedrale liegt auch der Komponist José de la Cruz Mena begraben."
+      ]
+    },
+    {
+      "id": "ni-ruinas-leon-viejo-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen von León Viejo (Ruinas de León Viejo), gelegen am Ufer des Managuasees im Departement León, sind ein faszinierendes Fenster in die früheste spanische Kolonisationsgeschichte Amerikas. 1524 von Francisco Hernández de Córdoba gegründet, war die Stadt eines der ersten wirtschaftlichen Zentren in Zentralamerika. Sie wurde jedoch immer wieder von katastrophalen Ausbrüchen des nahen Vulkans Momotombo und schweren Erdbeben heimgesucht, weshalb die Einwohner die Stadt 1610 aufgaben und das heutige León weiter westlich gründeten. Die vom Vulkansand verschütteten Ruinen wurden erst 1967 wiederentdeckt. Heute sind die freigelegten Grundmauern der alten Kathedrale und des Gouverneurspalastes im Jahr 2000 zum UNESCO-Weltkulturerbe ernannt worden. Geschichte K8 — Vulkankatastrophen und koloniale Archäologie.",
+      "factsAdvanced": [
+        "Die ursprüngliche Stadt León wurde 1524 am Ufer des Xolotlán (Managuasee) gegründet.",
+        "Die Stadt wurde 1610 nach kontinuierlichen Erdbeben des Vulkans Momotombo aufgegeben.",
+        "Wurde im Jahr 2000 als eine der ältesten spanischen Siedlungen zum UNESCO-Weltkulturerbe erklärt.",
+        "Unter den Ruinen wurden die enthaupteten Überreste des Stadtgründers Hernández de Córdoba gefunden.",
+        "Die Ruinen blieben über 350 Jahre unter Vulkansand begraben, bevor sie 1967 entdeckt wurden.",
+        "Das Ausgrabungsgelände ermöglicht Studien über die städtebauliche Rasterplanung des 16. Jahrhunderts."
+      ]
+    },
+    {
+      "id": "ni-catedral-de-granada-landmarks-v2",
+      "descriptionAdvanced": "Die strahlend gelbe Catedral de Nuestra Señora de la Asunción de Granada ist das absolute Wahrzeichen der ältesten Kolonialstadt auf dem amerikanischen Festland. Die ursprüngliche Kirche wurde im 16. Jahrhundert erbaut, aber wie fast ganz Granada 1856 durch die Truppen des US-Söldners William Walker bei seiner Flucht komplett niedergebrannt. Das heutige Gebäude im neoklassizistischen Stil wurde erst Ende des 19. Jahrhunderts entworfen und nach jahrzehntelanger Arbeit 1915 fertiggestellt. Mit ihren vier prächtigen Kapellen, den massiven Kuppeln und der dominanten Präsenz an der Ostseite des Parque Central ist die Kathedrale das am meisten fotografierte Bauwerk Nicaraguas und das spirituelle Herz der granadinischen Elite. Architektur K7 — Neoklassizismus und Wiederaufbau nach Zerstörung.",
+      "factsAdvanced": [
+        "Das dominierende neoklassizistische Wahrzeichen der Stadt Granada am Parque Central.",
+        "Der ursprüngliche Bau wurde 1856 von William Walkers Truppen vollständig niedergebrannt.",
+        "Das heutige Gebäude wurde Ende des 19. Jahrhunderts entworfen und 1915 vollendet.",
+        "Ihre markante gelbe und rote Fassade macht sie zum meistfotografierten Gebäude des Landes.",
+        "Die Kathedrale verfügt über vier kleine flankierende Kapellen und eine große zentrale Kuppel.",
+        "Die ursprüngliche Kirche von 1525 diente einst als erste Kathedrale des Landes."
+      ]
+    },
+    {
+      "id": "ni-fortaleza-coyotepe-landmarks-v2",
+      "descriptionAdvanced": "Die Festung Coyotepe, drohend auf einem steilen Hügel über der Stadt Masaya gelegen, ist eines der dunkelsten und blutigsten Wahrzeichen Nicaraguas. Ursprünglich 1893 erbaut, spielte die sternförmige Burg ihre wichtigste militärische Rolle 1912, als der nicaraguanische General Benjamín Zeledón hier heldenhaft, aber erfolglos gegen eine Übermacht angreifender US-Marineinfanteristen kämpfte. Später, unter der Diktatur der Somoza-Familie (1936-1979), wurde Coyotepe in ein furchterregendes politisches Gefängnis verwandelt. In den tiefen, stockfinsteren Kerkern unter der Festung wurden hunderte von Regimegegnern und Sandinisten brutal gefoltert. Heute führt der Ort als historisches Mahnmal Besuchern die Schrecken der Diktatur und der ausländischen Interventionen drastisch vor Augen. Geschichte K8 — Politische Gefängnisse und US-Interventionen.",
+      "factsAdvanced": [
+        "Erbaut 1893 auf einem strategischen Hügel, der den Verkehr zwischen Managua und Masaya überblickt.",
+        "Schauplatz einer heftigen Schlacht im Jahr 1912 zwischen General Zeledón und US-Marines.",
+        "Die Somoza-Diktatur nutzte die sternförmige Festung als berüchtigtes politisches Hochsicherheitsgefängnis.",
+        "Das tief unter der Erde liegende Kerkersystem verfügte über völlige Dunkelheit und winzige Zellen.",
+        "Während der Revolution 1979 lieferten sich Sandinisten und Nationalgarde hier erbitterte Artilleriegefechte.",
+        "Heute kann das unheimliche unterirdische Gefängnissystem von Besuchern besichtigt werden."
+      ]
+    },
+    {
+      "id": "ni-cruz-de-bobadilla-landmarks-v2",
+      "descriptionAdvanced": "Das Bobadilla-Kreuz (La Cruz de Bobadilla) steht als historisches Symbol auf der rauen Kraterlippe des extrem aktiven Vulkans Masaya (Santiago-Krater). Es wurde erstmals 1529 vom spanischen Mönch Francisco de Bobadilla aufgestellt. Die präkolumbianische indigene Bevölkerung verehrte den lavaspeienden Krater als Ort einer mächtigen Gottheit und warf bei Eruptionen Opfer (manchmal Menschen) hinein. Bobadilla, überzeugt davon, dass der glühende Krater der "Schlund zur Hölle" (Boca del Infierno) sei, errichtete das massive Holzkreuz, um die Dämonen zu exorzieren. Heute existiert das Kreuz als Nachbildung und ist der finale Aussichtspunkt für Touristen, die die aufsteigenden, ätzenden Schwefelgase und die Lava im Krater beobachten. Geschichte K7 — Kolonialer Exorzismus und indigener Vulkan-Kult.",
+      "factsAdvanced": [
+        "Aufgestellt im Jahr 1529 durch den spanischen Ordensbruder Francisco de Bobadilla.",
+        "Steht am Rand des extrem aktiven Santiago-Kraters des Vulkans Masaya.",
+        "Sollte den Ort exorzieren, den die Spanier als den "Schlund zur Hölle" ansahen.",
+        "Die Indigenen glaubten, dass in der Lava eine mächtige Hexe/Göttin lebte, die beschwichtigt werden musste.",
+        "Das heutige Holzkreuz ist eine authentische Rekonstruktion an der historischen Stelle.",
+        "Besucher müssen aufgrund der giftigen Schwefelgase die Zeit in der Nähe des Kreuzes begrenzen."
+      ]
+    },
+    {
+      "id": "ni-cristo-misericordia-landmarks-v2",
+      "descriptionAdvanced": "Die Statue des Cristo de la Misericordia (Christus der Barmherzigkeit) in San Juan del Sur ist das modernste und weithin sichtbarste Monument der nicaraguanischen Pazifikküste. Die 2008 vollendete Statue ragt auf der Klippe von Punta Jesús María 134 Meter über dem Meeresspiegel empor; die Statue selbst ist 24 Meter hoch und damit eine der größten Jesusstatuen der Welt (größer als das Vorbild in Rio de Janeiro). Errichtet vom lokalen Unternehmer Erwin Gonzalez, um ein Überlebensgelübde zu erfüllen, zieht das Monument heute Tausende von Touristen an. Der steile Aufstieg wird mit einem unvergleichlichen 360-Grad-Blick über die halbmondförmige Bucht von San Juan del Sur und den Pazifischen Ozean belohnt. Architektur K6 — Moderne Monumentalplastik und Küstentourismus.",
+      "factsAdvanced": [
+        "Mit 24 Metern Höhe (plus Sockel) eine der höchsten Jesusstatuen der Welt.",
+        "Die Statue thront auf dem Hügel Punta Jesús María, 134 Meter über dem Pazifik.",
+        "Wurde 2008 vom nicaraguanischen Unternehmer Erwin Gonzalez finanziert und eingeweiht.",
+        "Die Statue besteht aus einer Stahlstruktur, die mit fast 3.000 Glasfaser-Paneelen verkleidet ist.",
+        "Im Sockel der Statue befindet sich eine kleine, mit Klimaanlage ausgestattete Kapelle.",
+        "Bietet den berühmtesten Panoramablick über die Bucht von San Juan del Sur."
+      ]
+    },
+    {
+      "id": "ni-iglesia-subtiava-landmarks-v2",
+      "descriptionAdvanced": "Die Kirche San Juan Bautista in Sutiaba (Subtiava), einem indigenen Barrio der Stadt León, ist eines der bemerkenswertesten kolonialen Gebäude Zentralamerikas. Die Bauarbeiten begannen um 1530 und endeten 1710; das massive Gebäude vereint das spanische Kolonialdesign mit starken indigenen Einflüssen. Anders als die barocken Kirchen der spanischen Elite hat Sutiaba ein gewaltiges Holzdach, gestützt von mächtigen, kunstvoll geschnitzten Zedernholzsäulen. Einzigartig ist die hölzerne Darstellung einer Sonne im Deckengewölbe, ein direktes Zugeständnis an die indigene Religion der Sutiavas. Die Kirche ist der absolute Mittelpunkt dieses historischen Viertels, das bis heute seine separate Identität bewahrt hat. Architektur K7 — Synkretismus und indigene Barrios.",
+      "factsAdvanced": [
+        "Gilt als eine der ältesten kolonialen Kirchen in Nicaragua (erbaut zwischen 1530 und 1710).",
+        "Gelegen im Barrio Sutiaba, dem historisch indigenen Viertel der Stadt León.",
+        "Die Deckenkonstruktion aus Zedernholz ist im ländlichen, rustikalen Kolonialstil gefertigt.",
+        "Im Inneren befindet sich das ikonische Schnitzwerk einer indigenen Sonne am Gewölbe (Synkretismus).",
+        "Die Kirche besitzt keinen prachtvollen Barockaltar, sondern einen sehr massiven, schlichten Altarraum.",
+        "Die Fassade wird von vier massiven Türmen ohne spitze Dächer geprägt, um Erdbeben zu widerstehen."
+      ]
+    },
+    {
+      "id": "ni-monumento-diriangen-landmarks-v2",
+      "descriptionAdvanced": "Das Monument des Kaziken Diriangén am Eingang der Stadt Diriamba (Carazo) ehrt einen der wichtigsten Helden des indigenen Widerstands in Zentralamerika. Diriangén, ein furchtloser Anführer der Chorotega (Dirianes), verweigerte im Jahr 1523 die Unterwerfung und Zwangstaufe durch den spanischen Konquistador Gil González Dávila. Stattdessen griff er die spanische Expedition wenige Tage später mit Tausenden von Kriegern in einer der ersten dokumentierten Schlachten des amerikanischen Festlandes an. Die Bronzestatue in Diriamba (der Stadt, die seinen Namen trägt) zeigt den Kaziken in kriegerischer Pose und ist ein Symbol des nicaraguanischen Nationalstolzes und des anhaltenden Respekts vor der indigenen Identität des Landes. Geschichte K7 — Indigener Widerstand und spanische Eroberung.",
+      "factsAdvanced": [
+        "Das Monument ehrt den Kaziken Diriangén, den Anführer des Dirianes-Volkes (Chorotegas).",
+        "Diriangén führte 1523 den ersten indigenen militärischen Widerstand gegen die Spanier in Nicaragua an.",
+        "Die Stadt Diriamba ("Ort der vielen Berge und Diriangéns") ist direkt nach ihm benannt.",
+        "Er täuschte den Spanier Gil González vor, sich taufen zu lassen, und griff ihn stattdessen am 17. April 1523 an.",
+        "Die Statue markiert den traditionellen Eintritt in das Carazo-Plateau.",
+        "Er gilt neben dem Helden Nicarao (der Verhandlungswege suchte) als Symbol des kriegerischen Stolzes."
+      ]
+    },
+    {
+      "id": "ni-santuario-cuapa-landmarks-v2",
+      "descriptionAdvanced": "Das Nationale Heiligtum Unserer Lieben Frau von Cuapa (Santuario Nacional de la Virgen de Cuapa) im Departement Chontales ist ein mystischer Anziehungspunkt in den weiten Rinderweiden Nicaraguas. Die Entstehung des Ortes basiert auf Ereignissen aus dem Jahr 1980, als der Sakristan Bernardo Martínez berichtete, dass ihm mehrfach die Jungfrau Maria erschienen sei, leuchtend und schwebend über den Steinen. Dies geschah während einer sehr blutigen Phase der Revolution, und die Botschaften forderten Frieden, Gebet und Vergebung. Das Heiligtum selbst ist in die raue, natürliche Felslandschaft integriert, um den originalen Erscheinungsort zu bewahren. Hunderttausende Pilger aus ganz Zentralamerika besuchen den Schrein jedes Jahr am 8. Mai, dem Jahrestag der ersten Erscheinung. Kultur K6 — Zeitgenössische Wallfahrtsorte und religiöse Mystik.",
+      "factsAdvanced": [
+        "Ein offiziell vom Vatikan (2001) anerkannter Ort von Marienerscheinungen in Nicaragua.",
+        "Die Erscheinungen geschahen 1980 dem örtlichen Bauern und Sakristan Bernardo Martínez.",
+        "Das Heiligtum ist in eine rustikale, natürliche Felslandschaft eingebettet.",
+        "Der Hauptpilgertag am 8. Mai zieht Zehntausende von Gläubigen in die abgelegene Gemeinde.",
+        "Die Visionen geschahen in einer Zeit extremer nationaler politischer Spannungen und Gewalt.",
+        "Das Heiligtum beinhaltet eine kleine Kapelle und eine lebensgroße Statue der "Virgen de Cuapa"."
+      ]
+    },
+    {
+      "id": "ni-iglesia-asuncion-masaya-landmarks-v2",
+      "descriptionAdvanced": "Die Parroquia Nuestra Señora de la Asunción im Zentrum der Stadt Masaya ist ein architektonisches Prunkstück des kolonialen Erbes der "Stadt der Blumen". Die im 18. Jahrhundert begonnene und 1833 fertiggestellte Kirche besticht durch ihre robuste, barocke Eleganz und eine massive Bauweise, die sie unzählige Erdbeben überstehen ließ. Die Fassade kombiniert klassizistische Säulen mit tiefen, runden Nischen, während der Innenraum hohe Gewölbe und wertvolle religiöse Malereien beherbergt. Obwohl die Kirche San Jerónimo das Epizentrum des Hauptfestes der Stadt ist, bleibt La Asunción das theologische und formelle Herzstück am Zentralpark von Masaya, vor deren Pforten die farbenfrohen Marimba-Tänzer bei nationalen Festen auftreten. Architektur K7 — Provinzieller Barock und erdbebensicheres Bauen.",
+      "factsAdvanced": [
+        "Die Hauptpfarrkirche am zentralen Parque Central der Stadt Masaya.",
+        "Der Bau dauerte über ein Jahrhundert, von 1730 bis zur offiziellen Vollendung 1833.",
+        "Die Architektur vereint spanischen Barock mit neoklassizistischen Einflüssen.",
+        "Ihre massive, breite Fassade ist typisch für die erdbebensichere Bauweise Nicaraguas.",
+        "Während des Bürgerkrieges 1979 war der Platz um die Kirche Schauplatz schwerer Gefechte.",
+        "Die Mariä-Himmelfahrt-Prozession (Asunción) im August ist ein wichtiges lokales Ereignis."
+      ]
+    },
+    {
+      "id": "ni-loma-tiscapa-landmarks-v2",
+      "descriptionAdvanced": "Der Loma de Tiscapa (Tiscapa-Hügel) in Managua ist der Kraterrand einer vulkanischen Lagune und der historisch wichtigste und blutigste Hügel des Landes. Aufgrund seiner überragenden Position über der Stadt baute die Somoza-Diktatur hier ihren befestigten Präsidentenpalast und das berüchtigte Foltergefängnis "El Chipote". Genau hier wurde 1934 der Nationalheld Augusto C. Sandino nach einem Abendessen bei Somoza ermordet. Das Erdbeben 1972 zerstörte den Palast, und nach der Revolution wurden die Kasernen in einen historischen Park umgewandelt. Heute wird der Hügel vom "Monumento a Sandino" dominiert, einer riesigen schwarzen Stahlsilhouette des Helden, die über ganz Managua wacht. Geografie K8 — Urbane Vulkankrater und politische Diktaturen.",
+      "factsAdvanced": [
+        "Ist der hohe, steile Kraterrand der inaktiven vulkanischen Tiscapa-Lagune mitten in Managua.",
+        "War von den 1930ern bis 1979 der befestigte Regierungssitz der Somoza-Diktatur.",
+        "Der Ort, an dem Augusto C. Sandino 1934 auf Befehl von Anastasio Somoza García gefangen und getötet wurde.",
+        "Beherbergte das brutale politische Gefängnis "El Chipote", in dem Tausende gefoltert wurden.",
+        "Die markante schwarze Silhouette von Sandino (entworfen vom Künstler Ernesto Cardenal) krönt heute den Hügel.",
+        "Bietet den besten 360-Grad-Panoramablick auf die Stadt Managua und den Managuasee."
+      ]
+    },
+    {
+      "id": "ni-iglesia-recoleccion-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia de La Recolección ist wohl die auffälligste und fotogenste Kirche in der Universitätsstadt León. Das 1786 im mexikanischen Barockstil (Churriguerismus) vollendete Gebäude erstrahlt in einem intensiven Gelb, das sich dramatisch vom blauen Himmel abhebt. Ihre reich verzierte Fassade ist gesäumt von aufwendigen Gipsornamenten in Form von Weinreben und Medaillons aus rotem Stein, die die Leidenswerkzeuge Christi (Kreuz, Nägel, Dornenkrone) darstellen. Gegründet von den Recollects-Brüdern, war sie lange Zeit das spirituelle Zentrum der Eliten der Stadt. Sie gilt heute als das schönste erhaltene Beispiel des reinen kolonialen Barockstils in Nicaragua. Architektur K7 — Mexikanischer Barock und religiöse Symbolik.",
+      "factsAdvanced": [
+        "Erbaut 1786, ist sie das wichtigste Beispiel für den mexikanischen Barockstil (Churriguerismus) in Nicaragua.",
+        "Weltberühmt für ihre intensiv gelbe Fassade, die mit feinen, karminroten Ornamenten verziert ist.",
+        "Die Medaillons auf der Fassade zeigen die Symbole der Passion Christi (Leidenswerkzeuge).",
+        "Wurde als Kirche der Congregación de la Recolección (Franziskaner) gegründet.",
+        "Die dicken Lehmmauern wurden konstruiert, um starken vulkanischen Erdbeben standzuhalten.",
+        "Das angrenzende Kloster dient heute teilweise als Bildungseinrichtung in León."
+      ]
+    },
+    {
+      "id": "ni-mausoleo-heroes-martires-landmarks-v2",
+      "descriptionAdvanced": "Das Mausoleum der Helden und Märtyrer (Mausoleo de los Héroes y Mártires) im Zentralpark von León ist eine der emotionalsten und direktesten Gedenkstätten der Sandinistischen Revolution. Das Monument in Form einer großen, offenen Wand, umgeben von ewig brennenden Fackeln, ehrt die jungen Männer und Frauen – oft Studenten und Jugendliche aus León –, die beim Aufstand gegen die Nationalgarde der Somoza-Diktatur 1978/1979 ums Leben kamen. Eine gewaltige Wandmalerei um das Mausoleum illustriert die Geschichte der Unterdrückung und Befreiung. Für die Einwohner Leóns, der ersten Stadt, die befreit wurde, ist dies ein heiliger Ort der Trauer und des nationalen Stolzes. Geschichte K8 — Gedenkkultur und Studentenbewegungen.",
+      "factsAdvanced": [
+        "Das Denkmal befindet sich direkt am Parque Central von León, neben der Kathedrale.",
+        "Es dient als letzte Ruhestätte für Dutzende junger Kämpfer (Märtyrer), die 1978/79 bei den Straßenkämpfen starben.",
+        "Das Areal ist mit farbenfrohen, aber ernsten Wandgemälden (Murales) der Revolution dekoriert.",
+        "León war das intellektuelle und studentische Herz der sandinistischen Widerstandsbewegung.",
+        "Eine Ewige Flamme im Zentrum des Mausoleums ehrt das Opfer der Gefallenen.",
+        "Der Ort wird oft für politische Kundgebungen und Gedenkfeiern der Regierungspartei genutzt."
+      ]
+    },
+    {
+      "id": "ni-reloj-diriamba-landmarks-v2",
+      "descriptionAdvanced": "Der Uhrenturm von Diriamba (El Reloj Público de Diriamba) ist das unübersehbare, ikonische Wahrzeichen der auf dem Carazo-Plateau gelegenen Stadt. Der elegante, weiße Turm wurde 1935 während der Amtszeit von Präsident Juan Bautista Sacasa errichtet. Architektonisch ist er ein faszinierendes Beispiel für den Art-Déco-Einfluss im kolonial geprägten Zentralamerika, mit klaren, geometrischen Linien und einer markanten Wetterfahne auf der Spitze. Der Turm prägt das Zentrum von Diriamba und schlägt traditionell zu jeder vollen Stunde. Er überstand mehrere Erdbeben in der Region unversehrt und ist heute der beliebteste Treffpunkt für Einheimische bei Festlichkeiten wie dem UNESCO-geschützten Güegüense-Tanz. Architektur K6 — Art-Déco-Türme und urbane Wahrzeichen.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1935 und ist das offizielle architektonische Symbol der Stadt Diriamba.",
+        "Die Turmuhr wurde ursprünglich aus Deutschland importiert und ist bis heute mechanisch funktionsfähig.",
+        "Der Turm ist etwa 15 Meter hoch und im klaren, geometrischen Art-Déco-Stil entworfen.",
+        "Steht auf einer zentralen Verkehrsinsel unweit der Basilica San Sebastián.",
+        "Es ist ein beliebter Versammlungsort während des Januarfestes des Schutzpatrons.",
+        "Überlebte aufgrund seiner soliden Konstruktion schwere Erdbeben im 20. Jahrhundert unbeschadet."
+      ]
+    },
+    {
+      "id": "ni-faro-masachapa-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Masachapa (El Faro de Masachapa) ist ein maritimes Relikt an Nicaraguas windiger Pazifikküste im Departement Managua. Dieses einfache, robuste Metallbauwerk wurde im frühen 20. Jahrhundert errichtet, als Masachapa ein aktiver Handelshafen für den Export von Hölzern und Zucker aus dem Hinterland von Managua war. Heute hat der Ort seine kommerzielle Hafenbedeutung längst verloren und ist ein geschäftiges Fischerdorf sowie ein beliebtes Strandbad für die Hauptstädter. Der stark vom Salzwind verrostete Leuchtturm steht als nostalgischer Wächter über den dunklen Vulkansandstränden und ist ein perfektes Fotomotiv, das die raue Atmosphäre der nicaraguanischen Pazifikfischerkultur einfängt. Geografie K6 — Historische Leuchttürme und Fischereihäfen.",
+      "factsAdvanced": [
+        "Ein historischer Navigationsleuchtturm an der stark besuchten Pazifikküste von Masachapa.",
+        "Wurde im frühen 20. Jahrhundert errichtet, als Masachapa als Exporthafen florierte.",
+        "Die offene Gitterkonstruktion aus Stahl sollte starken Küstenwinden und Erdbeben widerstehen.",
+        "Der Leuchtturm hat heute keine primäre nautische Funktion mehr, da die Großschifffahrt nach Corinto abgewandert ist.",
+        "Steht symbolisch für die Transformation des Dorfes von einem Handelshafen zu einem Fischerort.",
+        "Masachapa ist heute neben Pochomil das wichtigste Strand-Wochenendziel für die Einwohner von Managua."
+      ]
+    },
+    {
+      "id": "ni-capilla-maria-auxiliadora-landmarks-v2",
+      "descriptionAdvanced": "Die Capilla María Auxiliadora in Granada ist ein atemberaubendes Juwel der neugotischen Architektur. Im Gegensatz zu den wuchtigen barocken Kirchen der Stadt besticht diese Kapelle durch filigrane Eleganz, spitze Bögen und detaillierte Fassadenarbeiten. Erbaut in den 1920er Jahren von den Salesianern, hebt sie sich durch ihre pastellblaue und weiße Farbgebung deutlich ab. Das Innere der Kapelle ist ebenso beeindruckend, mit außergewöhnlich gut erhaltenen Buntglasfenstern und feinen Holzschnitzereien, die ein Gefühl europäischer Gotik mitten in die Tropen transportieren. Die Kirche ist tief in das Bildungswesen der Stadt integriert, da sie an das bedeutende Colegio Salesiano angrenzt. Architektur K7 — Neugotik in Zentralamerika und salesianische Architektur.",
+      "factsAdvanced": [
+        "Eine der wenigen Kirchen Nicaraguas im reinen neugotischen Stil, fertiggestellt im Jahr 1922.",
+        "Gegründet und betreut von der Kongregation der Salesianer Don Boscos.",
+        "Berühmt für ihre himmelblaue Fassade mit detaillierten, spitzen gotischen Bögen und feinen Zinnen.",
+        "Beherbergt wertvolle Buntglasfenster (Vitrales), die Heiligenfiguren und Szenen aus dem Leben Marias zeigen.",
+        "Die Kirche grenzt direkt an das Salesianer-Kolleg (Colegio Salesiano), eine der besten Schulen der Stadt.",
+        "Während der Kämpfe 1979 in Granada diente der massive Komplex als Zufluchtsort für Zivilisten."
+      ]
+    },
+    {
+      "id": "ni-iglesia-san-jeronimo-landmarks-v2",
+      "descriptionAdvanced": "Die Iglesia de San Jerónimo in Masaya mag nicht die formelle Kathedrale der Stadt sein, ist aber unbestritten das emotionale und kulturelle Epizentrum. Diese farbenfrohe Kirche aus dem 19. Jahrhundert beherbergt die Statue des San Jerónimo (Heiliger Hieronymus), den die Einheimischen liebevoll den "Arzt der Armen" (El Doctor de los Pobres) nennen. Von September bis November ist der Vorplatz dieser Kirche der absolute Höhepunkt der längsten Schutzpatronatsfeierlichkeiten Nicaraguas (Fiestas Patronales). Zehntausende von Tänzern – in traditionellen Masken und Trachten (wie den Agüizotes) – sowie Hunderte von Marimba-Spielern versammeln sich hier in einem ekstatischen, ohrenbetäubenden Fest des Synkretismus aus indigenen und katholischen Traditionen. Kultur K6 — Der längste Patronatszyklus und Volksheilige.",
+      "factsAdvanced": [
+        "Beherbergt die Statue des San Jerónimo, dem wichtigsten und verehrtesten Volksheiligen von Masaya.",
+        "Der Start- und Endpunkt der längsten Feierlichkeiten (Fiestas Patronales) in Nicaragua, die drei Monate dauern.",
+        "Die Fassade der Kirche erstrahlt in auffälligen Rot- und Weißtönen mit barocken Verzierungen.",
+        "Während der Feiern im September versammeln sich Tausende maskierte Tänzer (Los Agüizotes) vor der Kirche.",
+        "Das Gebäude wurde bei einem Erdbeben 2000 leicht beschädigt, aber zügig restauriert.",
+        "San Jerónimo wird lokal der "Doctor de los Pobres" (Arzt der Armen) genannt, der Wunder vollbringt."
+      ]
+    },
+    {
+      "id": "ni-antigua-estacion-ferrocarril-granada-landmarks-v2",
+      "descriptionAdvanced": "Die Alte Eisenbahnstation (Antigua Estación del Ferrocarril) in Granada ist ein wehmütiges Relikt aus dem goldenen Zeitalter der nicaraguanischen Schiene. Das elegante Gebäude im neoklassizistischen und viktorianischen Stil wurde im späten 19. Jahrhundert errichtet und diente als südlicher Endpunkt der Pazifischen Eisenbahn (Ferrocarril del Pacífico). Täglich trafen hier Dampfzüge aus Managua und Corinto ein, um Passagiere zum Hafen von Granada zu bringen, von wo aus sie Dampfschiffe über den See nahmen. Nachdem die Regierung in den 1990er Jahren den Betrieb der Eisenbahn einstellte und die Gleise abriss, verfiel das Gebäude. Heute ist es restauriert und dient als Berufsschule, doch eine ausrangierte historische Dampflokomotive auf dem Hof erinnert an den einstigen Logistik-Ruhm der Stadt. Geschichte K7 — Das Eisenbahnzeitalter und verlassene Infrastruktur.",
+      "factsAdvanced": [
+        "Erbaut 1886 im viktorianisch-neoklassizistischen Stil am nördlichen Rand von Granada.",
+        "Diente fast ein Jahrhundert lang als Endstation der wichtigen Eisenbahnlinie Corinto-Managua-Granada.",
+        "Nach der Stilllegung der Eisenbahn (1993) retteten internationale Spenden das Gebäude vor dem Abriss.",
+        "Das Gebäude beherbergt heute die angesehene Handwerks- und Berufsschule "Escuela Taller".",
+        "Auf dem alten Bahngelände steht noch immer die schwarze, verrostete Präsidentenlokomotive als Ausstellungsstück.",
+        "Der Bahnhof war historisch essenziell für den massiven Export von Kaffee und Kakao über den Nicaraguasee."
+      ]
+    },
+    {
+      "id": "ni-ruinas-hospital-san-juan-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen des Krankenhauses San Juan de Dios in Estelí stehen wie ein offenes Geschichtsbuch des Krieges im Norden Nicaraguas. Das massiv gebaute Gebäude im neoklassizistischen Stil wurde in den 1920er Jahren als modernstes medizinisches Zentrum der Region eingeweiht. Sein Schicksal besiegelte sich jedoch während der sandinistischen Offensive gegen den Diktator Anastasio Somoza im Jahr 1979. Da sich Guerillakämpfer in dem soliden Gebäude verschanzten, befahl die Nationalgarde verheerende Luftangriffe. Die massiven Mauern hielten dem Bombardement teilweise stand, doch das Dach und die Infrastruktur wurden zerstört. Heute sind die überwucherten, von Einschusslöchern durchsiebten Ruinen ein inoffizielles Mahnmal für die Schrecken der städtischen Kriegsführung. Geschichte K8 — Urbane Kriegsführung und Krankenhausruinen.",
+      "factsAdvanced": [
+        "Das Krankenhaus wurde in den späten 1920er Jahren im neoklassizistischen Stil errichtet.",
+        "Galt in der Mitte des 20. Jahrhunderts als eines der besten Krankenhäuser der Region.",
+        "Wurde während der sandinistischen Befreiung von Estelí 1979 schwer bombardiert.",
+        "Die Nationalgarde Somozas flog Luftangriffe auf das Gebäude, um Guerillakämpfer auszuschalten.",
+        "Die riesige Struktur ist heute eine verlassene Ruine, durchsetzt mit Einschusslöchern.",
+        "Wird aufgrund seiner dramatischen Atmosphäre oft als Filmkulisse oder von Fotografen genutzt."
+      ]
+    },
+    {
+      "id": "ni-catedral-san-pedro-matagalpa-landmarks-v2",
+      "descriptionAdvanced": "Die Catedral de San Pedro, dominierend im zentralen Park der kühlen Bergstadt Matagalpa gelegen, ist ein architektonisches Meisterwerk des 19. Jahrhunderts. Der Bau der drittwichtigsten Kathedrale Nicaraguas (nach León und Granada) begann 1874 und dauerte über 20 Jahre. Auffällig ist ihr robuster barocker und neoklassizistischer Stil mit den dicken, strahlend weißen Mauern, die speziell entworfen wurden, um den Kräften der Natur in der rauen Bergregion zu trotzen. Die Kirche ist der geistliche Mittelpunkt der wohlhabenden Kaffeeregion. Ihre beiden hohen, kuppelgekrönten Glockentürme sind von überall in dem von steilen Hügeln umschlossenen Tal sichtbar und bilden den stolzen Mittelpunkt der Gesellschaft der sogenannten "Perle des Nordens". Architektur K7 — Bergkathedralen und regionale Identität.",
+      "factsAdvanced": [
+        "Die wichtigste und größte Kirche im Departement Matagalpa (Bauzeit 1874 bis 1895).",
+        "Offiziell 1924 zur Kathedrale der neu geschaffenen Diözese von Matagalpa erhoben.",
+        "Die Architektur vereint barocke Grundelemente mit einer neoklassizistischen weißen Fassade.",
+        "Wurde 2007 vom Nationalen Institut für Kultur (INC) zum nationalen Kulturerbe (Patrimonio Cultural) erklärt.",
+        "Die Kathedrale beherbergt historische Gräber vieler Bischöfe und wichtiger Kaffeepioniere der Region.",
+        "Ihre zwei markanten Glockentürme sind fast 35 Meter hoch."
+      ]
+    }
+  ]
+}

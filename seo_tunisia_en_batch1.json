@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tunis-cities-v2",
+      "descriptionAdvanced": "Tunis, the vibrant capital of Tunisia, serves as the country's primary political, cultural, and economic hub. Located along the Mediterranean coast, it uniquely bridges ancient history with modern urban development. The city's crown jewel is its Medina, a UNESCO World Heritage site known for its labyrinthine alleys and traditional souks. Adjacent to this historic core, the 20th-century 'Ville Nouvelle' showcases French colonial architecture and grand boulevards like the Avenue Habib Bourguiba. Today, Tunis stands as a bustling metropolitan area, central to North African commerce. Geography K6: Students explore the strategic significance and urbanization of major North African capitals.",
+      "factsAdvanced": [
+        "Population exceeds 1 million inhabitants",
+        "Home to the UNESCO-listed Medina of Tunis",
+        "Political capital since 1956",
+        "Strategic location on the Gulf of Tunis",
+        "Features the famous Avenue Habib Bourguiba",
+        "Connected to the ancient site of Carthage"
+      ]
+    },
+    {
+      "id": "ariana-cities-v2",
+      "descriptionAdvanced": "Ariana is a major northern suburb of Tunis, widely recognized for its high quality of life and lush green spaces. Historically a quiet residential area, it has developed into a bustling part of the Greater Tunis metropolitan region. It is particularly famous for its annual Rose Festival, reflecting the city's strong horticultural traditions. Ariana benefits from excellent connectivity, linking the capital to northern coastal regions, making it a key urban node. Geography K7: The study of suburban growth and urban planning in North African metropolitan centers.",
+      "factsAdvanced": [
+        "Part of the Greater Tunis metropolitan area",
+        "Famous for the annual Rose Festival",
+        "Known for significant horticultural heritage",
+        "Key administrative and residential hub",
+        "Rapid urban development in the last decades",
+        "Located near the Tunis-Carthage International Airport"
+      ]
+    },
+    {
+      "id": "ben-arous-cities-v2",
+      "descriptionAdvanced": "Ben Arous serves as a vital industrial and residential hub situated south of the capital, Tunis. As an integral part of the Greater Tunis area, it plays a critical role in the country's manufacturing and logistics sectors. The city features a diverse economic landscape, housing many production facilities while providing essential housing for the metropolitan workforce. Its strategic location facilitates easy access to major ports and transport networks, driving local economic growth. Geography K7: Analyzing the industrialization and urbanization processes in the outskirts of major capital cities.",
+      "factsAdvanced": [
+        "Major industrial hub of Greater Tunis",
+        "Essential logistics and manufacturing center",
+        "High concentration of production facilities",
+        "Part of the southern suburban belt",
+        "Strategic proximity to Rades port",
+        "Rapidly growing residential population"
+      ]
+    },
+    {
+      "id": "manouba-cities-v2",
+      "descriptionAdvanced": "Manouba, situated just west of Tunis, is a significant administrative and educational center within the national capital region. Home to the prestigious University of Manouba, the area has a youthful and dynamic character, shaped by academic activity and growing service industries. The city also maintains rich agricultural roots, with areas still dedicated to traditional farming despite recent urbanization. Its unique blend of academic life, history, and rural development defines its modern identity. Geography K7: Understanding the role of educational institutions and service sectors in urban development.",
+      "factsAdvanced": [
+        "Home to the University of Manouba",
+        "Key administrative district of Greater Tunis",
+        "Retains pockets of traditional agricultural heritage",
+        "Significant educational and research hub",
+        "Rapid transition from rural to urban land use",
+        "Located at the western gate of the capital"
+      ]
+    },
+    {
+      "id": "nabeul-cities-v2",
+      "descriptionAdvanced": "Nabeul is a prominent coastal city located on the Cap Bon peninsula, celebrated for its long-standing tradition of pottery and ceramics. As a major tourism destination, it attracts visitors with its pristine beaches and Mediterranean climate, balancing industrial craft production with a thriving resort economy. The city is the capital of its governorate and serves as the primary gateway to the northern Cap Bon region, rich in citrus groves and agricultural wealth. Geography K8: Analyzing the intersection of artisanal craft industries, agriculture, and tourism in coastal development.",
+      "factsAdvanced": [
+        "Renowned for Tunisian pottery and ceramics",
+        "Key tourist destination on the Cap Bon peninsula",
+        "Capital of the Nabeul Governorate",
+        "Surrounded by vast citrus and fruit orchards",
+        "Historic site of Roman Neapolis",
+        "Coastal economy based on crafts and tourism"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "lang": "ro",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kitchener-cities-v2",
+      "descriptionAdvanced": "Kitchener are o moștenire culturală germană distinctă, fiind celebră pentru găzduirea celui mai mare Oktoberfest din afara Germaniei. Orașul face parte din "Triunghiul Tehnologic" al Canadei, alături de Waterloo și Cambridge, fiind un centru înfloritor pentru inovație și producție industrială. Istorie K7 — migrație și cultură locală.",
+      "factsAdvanced": ["Găzduiește cel mai mare Oktoberfest din Canada", "Parte din "Triunghiul Tehnologic" al Canadei", "Anterior cunoscut sub numele de Berlin până în 1916", "Sediul multor companii de software", "Moștenire puternică a imigrației germane", "Situat în regiunea Waterloo"]
+    },
+    {
+      "id": "windsor-cities-v2",
+      "descriptionAdvanced": "Windsor este situat chiar peste râul Detroit, vizavi de orașul american cu același nume, fiind poarta principală de acces către Statele Unite din sud-vestul Ontario. Orașul este esențial pentru industria auto a Canadei, fiind supranumit "Capitala Auto a Canadei". Geografie K7 — relații transfrontaliere și industrie.",
+      "factsAdvanced": ["Situat la granița cu Statele Unite", "Supranumit "Capitala Auto a Canadei"", "Conexiune majoră prin podul Ambassador", "Gazdă a parcului Coventry Gardens", "Industrie manufacturieră dominantă", "Climat blând pentru standardele canadiene"]
+    },
+    {
+      "id": "guelph-cities-v2",
+      "descriptionAdvanced": "Guelph este cunoscut pentru arhitectura sa istorică bine conservată și pentru Universitatea din Guelph, un lider mondial în studiile agricole și veterinare. Orașul este apreciat pentru calitatea vieții și pentru designul său urban, fiind fondat în 1827. Educație K8 — științe agricole și comunitate.",
+      "factsAdvanced": ["Găzduiește Universitatea din Guelph", "Arhitectură victoriană remarcabilă", "Centru de excelență în științe agricole", "Fondat în 1827", "Calitatea vieții ridicată", "Situat în inima regiunii rurale Wellington"]
+    },
+    {
+      "id": "oshawa-cities-v2",
+      "descriptionAdvanced": "Oshawa a fost mult timp considerată "Capitala Auto a Canadei" datorită prezenței dominante a General Motors, care a modelat întreaga economie locală timp de un secol. Orașul se transformă rapid într-un centru de educație și servicii în zona Greater Toronto Area. Economie K8 — istoria industrială și tranziție.",
+      "factsAdvanced": ["Sediul istoric al producției General Motors Canada", "Găzduiește Universitatea Ontario Tech", "Parte a Greater Toronto Area", "Centru educațional în creștere", "Moștenire industrială puternică", "Situat pe malul lacului Ontario"]
+    }
+  ]
+}

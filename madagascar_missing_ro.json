@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "antsirabe-cities-v2",
+    "name": "Antsirabe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "fianarantsoa-cities-v2",
+    "name": "Fianarantsoa",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mahajanga-cities-v2",
+    "name": "Mahajanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "toliara-cities-v2",
+    "name": "Toliara",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antsiranana-cities-v2",
+    "name": "Antsiranana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antanifotsy-cities-v2",
+    "name": "Antanifotsy",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambovombe-cities-v2",
+    "name": "Ambovombe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "amparafaravola-cities-v2",
+    "name": "Amparafaravola",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "tolanaro-cities-v2",
+    "name": "Tolanaro",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatondrazaka-cities-v2",
+    "name": "Ambatondrazaka",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mananara-avaratra-cities-v2",
+    "name": "Mananara Avaratra",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "soavinandriana-cities-v2",
+    "name": "Soavinandriana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mahanoro-cities-v2",
+    "name": "Mahanoro",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "soanierana-ivongo-cities-v2",
+    "name": "Soanierana Ivongo",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "faratsiho-cities-v2",
+    "name": "Faratsiho",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "nosy-varika-cities-v2",
+    "name": "Nosy Varika",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vavatenina-cities-v2",
+    "name": "Vavatenina",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "morondava-cities-v2",
+    "name": "Morondava",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "amboasary-cities-v2",
+    "name": "Amboasary",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatoboeny-cities-v2",
+    "name": "Ambatoboeny",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vohipeno-cities-v2",
+    "name": "Vohipeno",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ankazobe-cities-v2",
+    "name": "Ankazobe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambohimahasoa-cities-v2",
+    "name": "Ambohimahasoa",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "sambava-cities-v2",
+    "name": "Sambava",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "manakara-cities-v2",
+    "name": "Manakara",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "farafangana-cities-v2",
+    "name": "Farafangana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "maroantsetra-cities-v2",
+    "name": "Maroantsetra",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vangaindrano-cities-v2",
+    "name": "Vangaindrano",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambalavao-cities-v2",
+    "name": "Ambalavao",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "moramanga-cities-v2",
+    "name": "Moramanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambanja-cities-v2",
+    "name": "Ambanja",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antalaha-cities-v2",
+    "name": "Antalaha",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ihosy-cities-v2",
+    "name": "Ihosy",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "maevatanana-cities-v2",
+    "name": "Maevatanana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "betroka-cities-v2",
+    "name": "Betroka",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "fenoarivo-atsinanana-cities-v2",
+    "name": "Fenoarivo Atsinanana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "tsiroanomandidy-cities-v2",
+    "name": "Tsiroanomandidy",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "miarinarivo-cities-v2",
+    "name": "Miarinarivo",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatolampy-cities-v2",
+    "name": "Ambatolampy",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "arivonimamo-cities-v2",
+    "name": "Arivonimamo",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "andapa-cities-v2",
+    "name": "Andapa",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ankazoabo-cities-v2",
+    "name": "Ankazoabo",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "belo-sur-tsiribihina-cities-v2",
+    "name": "Belo sur Tsiribihina",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "fandriana-cities-v2",
+    "name": "Fandriana",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vatomandry-cities-v2",
+    "name": "Vatomandry",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "hell-ville-cities-v2",
+    "name": "Hell-Ville",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambilobe-cities-v2",
+    "name": "Ambilobe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "vohemar-cities-v2",
+    "name": "Vohemar",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambodifotatra-cities-v2",
+    "name": "Ambodifotatra",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "miandrivazo-cities-v2",
+    "name": "Miandrivazo",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "bekily-cities-v2",
+    "name": "Bekily",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "kandreho-cities-v2",
+    "name": "Kandreho",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "antsalova-cities-v2",
+    "name": "Antsalova",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "befandriana-avaratra-cities-v2",
+    "name": "Befandriana-Avaratra",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "tsihombe-cities-v2",
+    "name": "Tsihombe",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "mananjary-cities-v2",
+    "name": "Mananjary",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "port-berg\u00e9-cities-v2",
+    "name": "Port-Berg\u00e9",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "sakaraha-cities-v2",
+    "name": "Sakaraha",
+    "file": "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  },
+  {
+    "id": "ambatovy-mine-economic-v2",
+    "name": "Ambatovy Nickel Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "toamasina-port-economic-v2",
+    "name": "Port of Toamasina",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "ehola-port-economic-v2",
+    "name": "Port Ehoala",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "qmm-mine-economic-v2",
+    "name": "QMM Ilmenite Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "mahajanga-port-economic-v2",
+    "name": "Port of Mahajanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "kraoma-mine-economic-v2",
+    "name": "Kraoma Chrome Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "antsiranana-port-economic-v2",
+    "name": "Port of Antsiranana",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "star-brewery-tana-economic-v2",
+    "name": "STAR Brewery Antananarivo",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "star-brewery-antsirabe-economic-v2",
+    "name": "STAR Brewery Antsirabe",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "toliara-port-economic-v2",
+    "name": "Port of Toliara",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "cotona-textile-economic-v2",
+    "name": "COTONA Textile Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "ambilobe-sugar-economic-v2",
+    "name": "Ambilobe Sugar Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "holcim-cement-ibity-economic-v2",
+    "name": "Holcim Cement Plant Ibity",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "galana-refinery-economic-v2",
+    "name": "Galana Refinery",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "morondava-port-economic-v2",
+    "name": "Port of Morondava",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "dzamandzar-rum-economic-v2",
+    "name": "Dzamandzar Rum Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "tolanaro-port-economic-v2",
+    "name": "Port of Tolagnaro",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "toliara-sands-economic-v2",
+    "name": "Toliara Sands Project",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "savonnerie-tropicale-economic-v2",
+    "name": "Savonnerie Tropicale Soap Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "jb-confectionery-economic-v2",
+    "name": "JB Confectionery Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "tsimiroro-oil-economic-v2",
+    "name": "Tsimiroro Oil Field",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "bemolanga-tar-sands-economic-v2",
+    "name": "Bemolanga Tar Sands",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "sakoa-coal-economic-v2",
+    "name": "Sakoa Coal Mine",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "fanalamanga-forestry-economic-v2",
+    "name": "Fanalamanga Forestry Company",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "pecheries-nosy-be-economic-v2",
+    "name": "Nosy Be Fishery Plant",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "somacou-textile-economic-v2",
+    "name": "SOMACOU Textile Factory",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "antsingy-port-economic-v2",
+    "name": "Antsingy River Port",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "maintirano-port-economic-v2",
+    "name": "Port of Maintirano",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "sainte-marie-port-economic-v2",
+    "name": "Ambodifotatra Port",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "soavoanio-coconut-economic-v2",
+    "name": "Soavoanio Coconut Processing",
+    "file": "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  },
+  {
+    "id": "ambohimanga-royal-hill-history-v2",
+    "name": "Royal Hill of Ambohimanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "rova-antananarivo-history-v2",
+    "name": "Rova of Antananarivo",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "ile-sainte-marie-pirate-cemetery-history-v2",
+    "name": "Sainte Marie Pirate Cemetery",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "fianarantsoa-old-town-history-v2",
+    "name": "Fianarantsoa Old Town",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "fort-dauphin-tolanaro-history-v2",
+    "name": "Fort Dauphin",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "prime-minister-palace-andafiavaratra-history-v2",
+    "name": "Andafiavaratra Palace",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "maromokotro-royal-tombs-history-v2",
+    "name": "Royal Tombs of Maromokotro",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "amozon-fort-flacourt-history-v2",
+    "name": "Fort Flacourt",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "ila-fitsarana-history-v2",
+    "name": "Ila Fitsarana",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "betioky-royal-tombs-history-v2",
+    "name": "Mahafaly Tombs of Betioky",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "mahabo-royal-cemetery-history-v2",
+    "name": "Mahabo Royal Cemetery",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "zoma-market-historical-site-history-v2",
+    "name": "Historical Zoma Market",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "antongil-bay-dutch-settlement-history-v2",
+    "name": "Antongil Dutch Settlement",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "mahajanga-arab-trading-post-history-v2",
+    "name": "Mahajanga Arab Trading Post",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "nosy-be-marodoka-history-v2",
+    "name": "Marodoka Ghost Town",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "amohi-palace-fianarantsoa-history-v2",
+    "name": "Fianarantsoa Royal Palace",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "jean-laborde-house-mantasoa-history-v2",
+    "name": "Jean Laborde House in Mantasoa",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "antongona-fortifications-history-v2",
+    "name": "Fortifications of Antongona",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "analamazaotra-colonial-station-history-v2",
+    "name": "Analamazaotra Colonial Station",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "toliara-colonial-center-history-v2",
+    "name": "Toliara Colonial Center",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "morondava-royal-tombs-history-v2",
+    "name": "Morondava Royal Tombs",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "faratsiho-mission-history-v2",
+    "name": "Faratsiho Mission",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "cap-mined-diego-suarez-history-v2",
+    "name": "Cap d'Ambre Military Fort",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "tamatave-old-port-history-v2",
+    "name": "Old Port of Toamasina",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "nosy-boraha-fort-history-v2",
+    "name": "\u00cele Sainte-Marie French Fort",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "alasora-royal-village-history-v2",
+    "name": "Alasora Royal Village",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "antahakana-martyrs-cliff-history-v2",
+    "name": "Antsahamanitra Martyrs Cliff",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "vohipeno-arab-settlement-history-v2",
+    "name": "Vohipeno Arab Settlement",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "foulpointe-fort-manda-history-v2",
+    "name": "Manda Fort Mahavelona",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "nosy-mangabe-dutch-inscriptions-history-v2",
+    "name": "Nosy Mangabe Dutch Inscriptions",
+    "file": "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  },
+  {
+    "id": "andafiavaratra-palace-landmarks-v2",
+    "name": "Andafiavaratra Palace",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "cathedrale-andohalo-landmarks-v2",
+    "name": "Immaculate Conception Cathedral",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "mahamasina-stadium-landmarks-v2",
+    "name": "Mahamasina Municipal Stadium",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "gare-soarano-landmarks-v2",
+    "name": "Soarano Railway Station",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "lake-anosy-monument-landmarks-v2",
+    "name": "Black Angel of Lake Anosy",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "phare-cap-minne-landmarks-v2",
+    "name": "Cap Min\\u00e9 Lighthouse",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "hotel-des-thermes-landmarks-v2",
+    "name": "H\\u00f4tel des Thermes",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "morondava-mosque-landmarks-v2",
+    "name": "Grand Mosque of Morondava",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+    "name": "St. Joseph Cathedral",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "pont-kamoro-landmarks-v2",
+    "name": "Kamoro Suspension Bridge",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "university-of-antananarivo-landmarks-v2",
+    "name": "University of Antananarivo Campus",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "chateau-d-eau-amparibe-landmarks-v2",
+    "name": "Amparibe Water Tower",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "port-of-toamasina-landmarks-v2",
+    "name": "Port of Toamasina Terminal",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "tour-zital-landmarks-v2",
+    "name": "Zital Tower",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "tulear-sea-museum-landmarks-v2",
+    "name": "Oceanographic Museum of Toliara",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "ambalonamana-market-hall-landmarks-v2",
+    "name": "Analakely Market Pavilions",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "nosy-be-lighthouse-landmarks-v2",
+    "name": "Ambatoloaka Lighthouse",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "fort-flacourt-ruins-landmarks-v2",
+    "name": "Ruins of Fort Flacourt",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "palais-justice-amboasary-landmarks-v2",
+    "name": "Palace of Justice Ambatondrafandrana",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "monument-aux-morts-diego-suarez-landmarks-v2",
+    "name": "War Memorial Diego Suarez",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "gare-antsirabe-landmarks-v2",
+    "name": "Antsirabe Railway Station",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "trano-gasy-architecture-landmarks-v2",
+    "name": "Trano Gasy Houses",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "ambatovy-plant-landmarks-v2",
+    "name": "Ambatovy Refinery",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "pont-betsiboka-landmarks-v2",
+    "name": "Betsiboka Bridge",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "hotel-de-ville-mahajanga-landmarks-v2",
+    "name": "Mahajanga City Hall",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "temple-ambatonakanga-landmarks-v2",
+    "name": "Ambatonakanga Memorial Church",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "tour-orange-antananarivo-landmarks-v2",
+    "name": "Orange Telecom Tower",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "independance-avenue-arc-landmarks-v2",
+    "name": "Avenue of Independence",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "katedraly-faravohitra-landmarks-v2",
+    "name": "Cathedral of Faravohitra",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "pirate-cemetery-sainte-marie-landmarks-v2",
+    "name": "Pirate Cemetery of Sainte-Marie",
+    "file": "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  },
+  {
+    "id": "andasibe-mantadia-life-v2",
+    "name": "Andasibe-Mantadia National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "berenty-reservat-life-v2",
+    "name": "Berenty Reserve",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "kirindy-wald-life-v2",
+    "name": "Kirindy Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tsingy-bemaraha-park-life-v2",
+    "name": "Bemaraha National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "sahambavy-tee-plantage-life-v2",
+    "name": "Sahambavy Tea Plantation",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "antsirabe-kinderpark-life-v2",
+    "name": "Antsirabe Children's Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "andasibe-orchid-park-life-v2",
+    "name": "Andasibe Orchid Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "vakona-lemuren-insel-life-v2",
+    "name": "Vakona Lemur Island",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "ampefy-geyser-park-life-v2",
+    "name": "Ampefy Geyser Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tamatave-stadtpark-life-v2",
+    "name": "Tamatave City Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "maroantsetra-vanille-farm-life-v2",
+    "name": "Maroantsetra Vanilla Farm",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-be-korallenriff-life-v2",
+    "name": "Nosy Be Coral Reef",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "ranomafana-zoo-bereich-life-v2",
+    "name": "Ranomafana Zoo Area",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "lakato-lemuren-schutz-life-v2",
+    "name": "Lakato Lemur Conservation",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "antsirabe-reis-felder-life-v2",
+    "name": "Antsirabe Rice Fields",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-tanikely-marine-life-v2",
+    "name": "Nosy Tanikely Marine Reserve",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "toliara-botanischer-garten-life-v2",
+    "name": "Toliara Botanical Garden",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "manakara-kanal-life-v2",
+    "name": "Manakara Canal",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "mahajanga-strand-life-v2",
+    "name": "Mahajanga Beach",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "andohahela-nationalpark-life-v2",
+    "name": "Andohahela National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tsingy-namoroka-park-life-v2",
+    "name": "Tsingy of Namoroka Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "fianarantsoa-weingut-life-v2",
+    "name": "Fianarantsoa Winery",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-komba-lemuren-life-v2",
+    "name": "Nosy Komba Lemur Peninsula",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "zombitse-vohibasia-park-life-v2",
+    "name": "Zombitse-Vohibasia National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "antsirabe-thermalbad-life-v2",
+    "name": "Antsirabe Thermal Baths",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "ankarafantsika-vogelbeobachtung-life-v2",
+    "name": "Ankarafantsika Bird Watching",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "nosy-mitsio-tauchen-life-v2",
+    "name": "Nosy Mitsio Diving",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tampolo-naturreservat-life-v2",
+    "name": "Tampolo Nature Reserve",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "amphibien-wald-ranomafana-life-v2",
+    "name": "Ranomafana Amphibian Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "mahajanga-zoo-life-v2",
+    "name": "Mahajanga Zoo",
+    "file": "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  },
+  {
+    "id": "tsaratanana-nature-v2",
+    "name": "Tsaratanana Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "masoala-nature-v2",
+    "name": "Masoala Rainforest",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsingy-bemaraha-nature-v2",
+    "name": "Tsingy de Bemaraha",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-alaotra-nature-v2",
+    "name": "Lake Alaotra",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lokobe-nature-v2",
+    "name": "Lokobe Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-be-nature-v2",
+    "name": "Nosy Be",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "betsiboka-river-nature-v2",
+    "name": "Betsiboka River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsiribihina-river-nature-v2",
+    "name": "Tsiribihina River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "mangoky-river-nature-v2",
+    "name": "Mangoky River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-itasy-nature-v2",
+    "name": "Lake Itasy",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "ankarafantsika-nature-v2",
+    "name": "Ankarafantsika National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "andringitra-nature-v2",
+    "name": "Andringitra Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "ranomafana-nature-v2",
+    "name": "Ranomafana National Park",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-komba-nature-v2",
+    "name": "Nosy Komba",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "isalo-nature-v2",
+    "name": "Isalo Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "masoala-peninsula-nature-v2",
+    "name": "Masoala Peninsula",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsingy-namoroka-nature-v2",
+    "name": "Tsingy of Namoroka",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-tampolo-nature-v2",
+    "name": "Lake Tampolo",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "mahajanga-coast-nature-v2",
+    "name": "Coast near Mahajanga",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "saint-marie-island-nature-v2",
+    "name": "Nosy Boraha",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsiribihina-delta-nature-v2",
+    "name": "Tsiribihina Delta",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-tsimanampetsotsa-nature-v2",
+    "name": "Lake Tsimanampetsotsa",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "mangoro-river-nature-v2",
+    "name": "Mangoro River",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-mitseo-nature-v2",
+    "name": "Nosy Mitsio",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "montagne-ambre-nature-v2",
+    "name": "Montagne d'Ambre",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "baie-de-bombetoka-nature-v2",
+    "name": "Bombetoka Bay",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "lake-anivorano-nature-v2",
+    "name": "Lake Anivorano",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "nosy-tanikely-nature-v2",
+    "name": "Nosy Tanikely",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "massif-des-makay-nature-v2",
+    "name": "Makay Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  },
+  {
+    "id": "tsaratanana-massif-relief-v2",
+    "name": "Tsaratanana Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "maromokotro-peak-relief-v2",
+    "name": "Maromokotro",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "ankaratra-mountains-relief-v2",
+    "name": "Ankaratra Mountains",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "tsiafajavona-peak-relief-v2",
+    "name": "Tsiafajavona",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "andringitra-massif-relief-v2",
+    "name": "Andringitra Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "pic-boby-relief-v2",
+    "name": "Pic Boby",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "bemaraha-plateau-relief-v2",
+    "name": "Bemaraha Plateau",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "central-highlands-relief-v2",
+    "name": "Central Highlands",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "isalo-plateau-relief-v2",
+    "name": "Isalo Plateau",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "analavelona-forest-relief-v2",
+    "name": "Analavelona Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "sahafary-forest-relief-v2",
+    "name": "Sahafary Forest",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "montagne-dambre-relief-v2",
+    "name": "Montagne d'Ambre",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "makay-massif-relief-v2",
+    "name": "Makay Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "karambony-peak-relief-v2",
+    "name": "Karambony",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "analamera-relief-v2",
+    "name": "Analamera",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "marojejy-massif-relief-v2",
+    "name": "Marojejy Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "boby-peak-foothills-relief-v2",
+    "name": "Pic Boby Foothills",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "manongarivo-massif-relief-v2",
+    "name": "Manongarivo Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "tsaratanana-foothills-relief-v2",
+    "name": "Tsaratanana Foothills",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "ankarana-karst-relief-v2",
+    "name": "Ankarana Karst",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "vohimana-relief-v2",
+    "name": "Vohimana",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "ranomafana-hills-relief-v2",
+    "name": "Ranomafana Hills",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "andohahela-massif-relief-v2",
+    "name": "Andohahela Massif",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "tsitondroina-relief-v2",
+    "name": "Tsitondroina",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  },
+  {
+    "id": "itasy-volcanic-field-relief-v2",
+    "name": "Itasy Volcanic Field",
+    "file": "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  }
+]
+Total POIs missing RO: 232

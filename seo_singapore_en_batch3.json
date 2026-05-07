@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "singapore",
+  "files": [
+    "lib/visualLab/data/poiExtraSingaporeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeLifeV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeNatureV2.ts",
+    "lib/visualLab/data/poiExtraSingaporeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "singapore-freeport-economic-v2",
+      "descriptionAdvanced": "The Le Freeport Singapore is a high-security, ultra-modern storage facility located at Changi Airport, designed for the preservation and trade of high-value assets such as fine art, precious metals, and wine. Often referred to as the 'Fort Knox of Asia,' it operates as a free trade zone, allowing international collectors and institutions to store their treasures without being subject to customs duties or taxes until the assets are imported into Singapore. The facility features state-of-the-art climate control, fire suppression systems, and 24/7 armed security. Its sleek architecture and world-class services have made it a preferred choice for global auction houses and private collectors, further strengthening Singapore's position as a premier global hub for wealth management and the international art market.",
+      "factsAdvanced": [
+        "Strategically located within the Changi Airfreight Centre free trade zone.",
+        "Known as the 'Fort Knox of Asia' due to its extreme security measures.",
+        "Designed by Swiss architects to provide optimal conditions for art storage.",
+        "Opened in 2010 to cater to the growing wealth in Asia.",
+        "Assets stored are exempt from GST and customs duties while in the zone.",
+        "Features specialized vaults for fine wine, jewelry, and bullion.",
+        "Utilizes biometric access and advanced surveillance technology.",
+        "A key pillar of Singapore's strategy to become a global art and wealth hub."
+      ]
+    },
+    {
+      "id": "senoko-power-station-economic-v2",
+      "descriptionAdvanced": "Senoko Power Station is one of Singapore's largest and oldest power generation facilities, situated in the northern industrial area of Senoko. Operated by Senoko Energy, it plays a vital role in providing a reliable and sustainable supply of electricity to the nation. The station has undergone several phases of modernization, transitioning from oil-fired plants to high-efficiency combined-cycle gas turbines (CCGT) that utilize natural gas. Senoko Power Station accounts for a significant portion of Singapore's total power generation capacity, serving millions of residential and industrial customers. Its coastal location allows for efficient cooling and access to natural gas pipelines. The facility's commitment to reducing environmental impact and improving efficiency aligns with Singapore's goal of achieving a low-carbon energy future while maintaining economic competitiveness.",
+      "factsAdvanced": [
+        "Singapore's largest power station by generation capacity at its peak.",
+        "Operated by Senoko Energy, which was established in 1977.",
+        "Transitioned to clean-burning natural gas in the early 2000s.",
+        "Features multiple high-efficiency Combined-Cycle Gas Turbines (CCGT).",
+        "Provides about 20% of Singapore's total electricity demand.",
+        "Strategically located in the Senoko industrial estate in the north.",
+        "Continuous investment in upgrading technology to reduce emissions.",
+        "A key asset for Singapore's national energy security."
+      ]
+    },
+    {
+      "id": "seletar-aerospace-park-economic-v2",
+      "descriptionAdvanced": "Seletar Aerospace Park (SAP) is a premier 320-hectare industrial park dedicated to the aerospace industry, located in the North-East Region of Singapore. Centered around Seletar Airport, the park hosts a vibrant cluster of aerospace companies involved in aircraft maintenance, repair and overhaul (MRO), manufacturing, and research and development. SAP is home to global leaders like Rolls-Royce, Airbus, and Bell Helicopter, as well as numerous local aerospace firms. The park is designed with an integrated campus concept, fostering collaboration and talent development. It also features the Seletar Aerospace Heights residential and lifestyle hub, which includes restored colonial bungalows and trendy cafes. Seletar Aerospace Park is a key driver of Singapore's aerospace sector, contributing significantly to the country's status as a leading global aviation hub in Asia.",
+      "factsAdvanced": [
+        "320-hectare integrated industrial park dedicated to aviation.",
+        "Centered around Seletar Airport, Singapore's first civil airport.",
+        "Home to the Rolls-Royce Seletar Campus, which opened in 2012.",
+        "A major hub for regional MRO (Maintenance, Repair, and Overhaul) services.",
+        "Features restored 'Black and White' colonial bungalows from the RAF era.",
+        "Hosts the Singapore Institute of Technology's aerospace engineering programs.",
+        "Contributes to Singapore's 10% share of the global MRO market.",
+        "Located within the North Coast Innovation Corridor."
+      ]
+    },
+    {
+      "id": "pasir-panjang-terminal-economic-v2",
+      "descriptionAdvanced": "Pasir Panjang Terminal is the crown jewel of PSA Singapore's container operations, representing the pinnacle of maritime efficiency and technology. Located along the southwestern coast, it is the most advanced and largest container terminal in the country, featuring deep-water berths capable of accommodating the world's biggest container ships (mega-vessels). The terminal is equipped with state-of-the-art automated cranes and sophisticated yard management systems to ensure rapid turnaround times for vessels. As a critical node in the global supply chain, Pasir Panjang Terminal handles a significant portion of Singapore's total container throughput. Its ongoing development has pushed the boundaries of port engineering and sustainability, setting new standards for the global maritime industry and reinforcing Singapore's position as a premier international transshipment hub.",
+      "factsAdvanced": [
+        "Singapore's largest and most technologically advanced container terminal.",
+        "Features deep-water berths with a depth of up to 18 meters.",
+        "Utilizes automated rail-mounted gantry cranes for yard operations.",
+        "Capable of handling the largest container ships (24,000+ TEUs).",
+        "Part of the PSA Singapore port network, the world's busiest.",
+        "Implemented advanced sustainable practices to reduce carbon footprint.",
+        "Strategically located near the Jurong industrial and petrochemical hubs.",
+        "Key driver of Singapore's status as a top global maritime capital."
+      ]
+    },
+    {
+      "id": "micron-semiconductor-fab-economic-v2",
+      "descriptionAdvanced": "Micron Technology's semiconductor fabrication facility (Fab) in Singapore is a world-class manufacturing site and a cornerstone of the country's electronics industry. Located in Woodlands and North Bridge Road, Micron's Singapore operations serve as the company's NAND Center of Excellence, specializing in the production of advanced memory and storage solutions. The facility utilizes cutting-edge cleanroom technology and automated manufacturing processes to produce high-density NAND flash memory used in smartphones, data centers, and consumer electronics. Singapore's strong ecosystem for the semiconductor industry, including a skilled workforce and reliable infrastructure, has made it a key location for Micron's global production. The presence of such advanced fabs has solidified Singapore's position as a major player in the global semiconductor supply chain and a leader in high-tech manufacturing.",
+      "factsAdvanced": [
+        "Micron's largest NAND flash memory manufacturing site globally.",
+        "Designated as the NAND Center of Excellence for the company.",
+        "Woodlands Fab is a massive high-tech facility with extensive cleanrooms.",
+        "Produces advanced 3D NAND memory used in global electronics.",
+        "A major employer in Singapore's manufacturing sector.",
+        "Part of the electronics cluster which contributes 40% of manufacturing GDP.",
+        "Uses advanced AI and automation to optimize production yields.",
+        "Critical component of the global semiconductor supply chain."
+      ]
+    },
+    {
+      "id": "singapore-lng-terminal-economic-v2",
+      "descriptionAdvanced": "The Singapore LNG (SLNG) Terminal, located on Jurong Island, is a critical infrastructure facility that ensures the country's energy security and supports its transition to a cleaner energy future. As Singapore's first and only liquefied natural gas (LNG) import terminal, it allows the country to diversify its gas supply sources by importing LNG from around the world via sea. The terminal features large-scale storage tanks and regasification facilities that convert LNG back into natural gas for use in power plants and industries. By providing a reliable and flexible supply of natural gas, the SLNG terminal has played a vital role in reducing Singapore's dependence on piped gas from neighboring countries. It also positions Singapore as a regional LNG trading and bunkering hub, leveraging its strategic location and world-class maritime infrastructure.",
+      "factsAdvanced": [
+        "Singapore's first and only LNG (Liquefied Natural Gas) terminal.",
+        "Located on a 40-hectare site on the reclaimed Jurong Island.",
+        "Began commercial operations in May 2013.",
+        "Features multiple massive LNG storage tanks with huge capacities.",
+        "Ensures energy security by diversifying natural gas supply sources.",
+        "Allows Singapore to import LNG from global producers via tankers.",
+        "Supports Singapore's goal of becoming a regional LNG trading hub.",
+        "Critical for fueling over 95% of Singapore's electricity generation."
+      ]
+    },
+    {
+      "id": "google-data-center-jurong-west-economic-v2",
+      "descriptionAdvanced": "Google's data center in Jurong West is a state-of-the-art facility that powers the company's digital services across Asia and beyond. As one of the largest and most efficient data centers in the region, it reflects Google's significant investment in Singapore's digital infrastructure. The facility is designed with advanced cooling technology and energy-efficient systems to minimize its environmental impact, even in Singapore's tropical climate. It provides the necessary computing power and storage for services like Search, Gmail, and YouTube, serving millions of users. The data center's presence has bolstered Singapore's status as a leading regional hub for data and cloud computing, attracting further investments from global tech companies. It also contributes to the local economy by creating high-skilled jobs and supporting the growth of the digital economy in Southeast Asia.",
+      "factsAdvanced": [
+        "One of Google's largest and most efficient data centers in Asia.",
+        "Represents part of Google's multi-billion dollar investment in Singapore.",
+        "Designed with a focus on sustainability and energy efficiency.",
+        "Powers key Google services like Search, Maps, and YouTube.",
+        "Helps satisfy the growing demand for cloud services in the region.",
+        "Strategically located in the Jurong West industrial area.",
+        "Features advanced security and data protection measures.",
+        "Reinforces Singapore's position as a premier regional data hub."
+      ]
+    },
+    {
+      "id": "raffles-place-economic-v2",
+      "descriptionAdvanced": "Raffles Place is the traditional and historic heart of Singapore's Central Business District (CBD), located in the Downtown Core. Named after the founder of modern Singapore, Sir Stamford Raffles, it has evolved from a commercial square in the 1820s to a dense cluster of iconic skyscrapers that house major global financial institutions and multinational corporations. Key landmarks include the UOB Plaza, OUB Centre, and Republic Plaza, which have defined the city's skyline for decades. Raffles Place is a bustling hub of activity during the workweek, with its underground MRT station being one of the busiest in the country. The area also features Raffles Green, a popular open space for office workers. Beyond its corporate facade, Raffles Place is connected to various historic sites along the Singapore River, blending its commercial importance with the city's rich history.",
+      "factsAdvanced": [
+        "Named after Sir Stamford Raffles, who founded modern Singapore in 1819.",
+        "Historically the primary commercial and financial center of Singapore.",
+        "Home to the iconic UOB Plaza and One Raffles Place skyscrapers.",
+        "The Raffles Place MRT station is a major transport interchange.",
+        "Features Raffles Green, a rare open park in the heart of the CBD.",
+        "Surrounded by historic buildings like the Fullerton Hotel.",
+        "The area was originally developed in the 1820s as Commercial Square.",
+        "Centrally located near the mouth of the Singapore River."
+      ]
+    },
+    {
+      "id": "tuas-mega-port-economic-v2",
+      "descriptionAdvanced": "Tuas Port, currently under development, is Singapore's visionary project to consolidate all its container port operations into a single, massive, and fully automated mega-port. Located in the far west of the country, Tuas Port is being built in four phases on extensive reclaimed land. Once completed in the 2040s, it will be the world's largest fully automated container terminal, with a capacity of 65 million TEUs annually. The port will feature cutting-edge technologies such as automated guided vehicles (AGVs), automated yard cranes, and a digital twin system to optimize operations. Its strategic location away from the city center will free up prime waterfront land for urban redevelopment while ensuring that Singapore remains the premier global transshipment hub. Tuas Port is a testament to Singapore's long-term planning and commitment to maintaining its leadership in the maritime world.",
+      "factsAdvanced": [
+        "Future world's largest fully automated container mega-port.",
+        "Planned to have a total annual capacity of 65 million TEUs.",
+        "Being built on 1,337 hectares of reclaimed land in four phases.",
+        "Phase 1 began operations in 2021 with two berths.",
+        "Will utilize a fleet of fully electric Automated Guided Vehicles (AGVs).",
+        "Deep-water berths are designed to handle future ultra-large vessels.",
+        "Projected to be fully completed by the 2040s.",
+        "A critical investment to maintain Singapore's global maritime leadership."
+      ]
+    },
+    {
+      "id": "shell-bukom-refinery-economic-v2",
+      "descriptionAdvanced": "The Shell Bukom Refinery, located on Pulau Bukom just off Singapore's southern coast, is one of the world's most significant and complex oil refining and petrochemical sites. It serves as Shell's largest wholly-owned refinery and a major energy hub in Asia. The facility processes crude oil into a wide range of products, including gasoline, diesel, and aviation fuel, as well as chemical feedstocks. Pulau Bukom has a long history with Shell, dating back to 1891 when it was used as a storage site for kerosene. Today, the refinery is undergoing transformation into an 'Energy and Chemicals Park,' focusing on more sustainable products and lower-carbon energy solutions. Its strategic location and integrated operations allow for efficient distribution of energy across the region, making it a vital asset for Shell's global operations and Singapore's energy sector.",
+      "factsAdvanced": [
+        "Shell's largest wholly-owned refinery in the world.",
+        "Located on Pulau Bukom, an island 5 km south of Singapore.",
+        "Has been a site for oil storage and refining for over 130 years.",
+        "Integrated with a major ethylene cracker and chemical plants.",
+        "Strategically located along major international shipping routes.",
+        "Transitioning into a sustainable Energy and Chemicals Park.",
+        "A pioneer in implementing digital and automated refining technologies.",
+        "Produces fuels and chemicals exported to over 50 countries."
+      ]
+    },
+    {
+      "id": "sg-thian-hock-keng-temple-history-v2",
+      "descriptionAdvanced": "Thian Hock Keng, also known as the 'Temple of Heavenly Happiness,' is one of Singapore's oldest and most significant Hokkien Buddhist-Taoist temples. Built in 1839 on the site of a small joss house, it was originally located on the waterfront of Telok Ayer Street, where early Chinese immigrants would offer thanks to Mazu, the Goddess of the Sea, for a safe voyage across the South China Sea. The temple is a masterpiece of traditional southern Chinese architecture, constructed entirely without the use of nails. It features exquisite carvings, colorful tiles, and intricate roof decorations. Thian Hock Keng has undergone several restorations, receiving UNESCO Asia-Pacific Heritage Awards for its meticulous preservation. Today, it remains a bustling center of worship and a powerful reminder of the heritage and resilience of the Chinese pioneer community in Singapore.",
+      "factsAdvanced": [
+        "One of Singapore's oldest temples, established in 1839.",
+        "Dedicated to Mazu, the Goddess of the Sea, protector of sailors.",
+        "Built in the traditional Fujian architectural style without nails.",
+        "The temple was originally on the coastline before land reclamation.",
+        "Received a UNESCO Asia-Pacific Heritage Award in 2001.",
+        "Gazetted as a National Monument of Singapore in 1973.",
+        "Features intricate sculptures of dragons and phoenixes.",
+        "A historic focal point for the early Hokkien immigrant community."
+      ]
+    },
+    {
+      "id": "sg-bukit-brown-cemetery-history-v2",
+      "descriptionAdvanced": "Bukit Brown Cemetery, also known as Kopi Sua, is a historic Chinese cemetery in Singapore that holds immense cultural and heritage value. Established in 1922, it was once the largest Chinese cemetery outside of China, containing approximately 100,000 graves. The cemetery is the final resting place for many of Singapore's pioneers, including prominent figures like Chew Joo Chiat and Lim Nee Soon, whose names are now synonymous with various districts. Bukit Brown is unique for its diverse tomb designs, which blend traditional Chinese styles with Western and local influences, featuring intricate carvings and colorful tiles. Beyond its funerary role, the cemetery has become a significant biodiversity site, home to numerous bird species and lush vegetation. Despite recent developments that led to the exhumation of some graves for a new road, Bukit Brown remains a site of deep historical interest and a symbol of Singapore's multiracial heritage.",
+      "factsAdvanced": [
+        "Established in 1922 as a public Chinese cemetery.",
+        "Contains the largest concentration of Chinese graves in Singapore.",
+        "Final resting place for many of Singapore's early pioneers.",
+        "Famous for its 'Sikh Guard' statues standing watch at some tombs.",
+        "Listed as a 'World Monuments Watch' site in 2014.",
+        "An important ecological habitat with over 90 species of birds.",
+        "The cemetery was closed for burials in 1973.",
+        "Named after George Henry Brown, a British businessman."
+      ]
+    },
+    {
+      "id": "sg-the-cenotaph-history-v2",
+      "descriptionAdvanced": "The Cenotaph is a poignant war memorial located within the Esplanade Park in Singapore's Downtown Core. Built in 1922, it was originally erected to honor the 124 men from the Straits Settlements who died during World War I. Following the end of World War II, a second inscription was added to its reverse side to commemorate those who perished in the second global conflict. The monument is made of granite and features a sober, stepped design that symbolizes the journey of the fallen. It is an important site for annual remembrance services, particularly on Remembrance Sunday. The Cenotaph stands as a solemn reminder of the sacrifices made by individuals during the two world wars and remains one of Singapore's most significant civic monuments, reflecting the country's shared history and the enduring legacy of those who served in the defense of peace.",
+      "factsAdvanced": [
+        "A World War I and World War II memorial built in 1922.",
+        "Made of local granite and designed by architect Denis Santry.",
+        "Located in the historic Esplanade Park along the waterfront.",
+        "The front side honors 124 men who died in World War I.",
+        "The reverse side was added in 1950 to honor WWII victims.",
+        "Gazetted as a National Monument of Singapore in 2010.",
+        "Features the inscription 'They Died That We Might Live'.",
+        "A key site for ANZAC Day and Remembrance Day ceremonies."
+      ]
+    },
+    {
+      "id": "sg-tanjong-pagar-railway-station-history-v2",
+      "descriptionAdvanced": "The Tanjong Pagar Railway Station is a historic landmark in Singapore that served as the southern terminus of the Keretapi Tanah Melayu (KTM) railway for nearly 80 years. Completed in 1932, the station is a fine example of Art Deco architecture, designed by the firm Swan & Maclaren. Its grand entrance features four massive statues representing the pillars of the Malayan economy: agriculture, commerce, transport, and industry. The interior is known for its high vaulted ceilings and beautiful mosaic tiles depicting scenes of Malayan life. The station played a vital role in connecting Singapore with the rest of the Malay Peninsula, facilitating the movement of people and goods. Since the cessation of railway operations in 2011, the station has been gazetted as a National Monument. It is currently being integrated into the Cantonment MRT station on the Circle Line, ensuring its preservation for future generations.",
+      "factsAdvanced": [
+        "Completed in 1932 as the main railway terminal in Singapore.",
+        "Designed in the Art Deco style with neoclassical influences.",
+        "Features four statues symbolizing agriculture, commerce, transport, and industry.",
+        "Interior walls are decorated with mosaic tiles from England.",
+        "Served as the terminus for the KTM railway until June 2011.",
+        "Gazetted as a National Monument of Singapore in 2011.",
+        "Currently being integrated into the new Cantonment MRT station.",
+        "The station building is a key part of Singapore's transport heritage."
+      ]
+    },
+    {
+      "id": "sg-istana-kampong-glam-history-v2",
+      "descriptionAdvanced": "The Istana Kampong Glam is a historic palace located in the heart of the Kampong Glam district, serving as the former residence of the Malay royalty in Singapore. Built in its current form in 1840 for Sultan Hussein Shah's son, Sultan Ali Iskandar Shah, the palace is a beautiful blend of traditional Malay and colonial architectural styles. It is set within a large garden and was the focal point of the Malay community's political and cultural life for over a century. In 2004, the palace was carefully restored and transformed into the Malay Heritage Centre, which houses galleries and exhibits that explore the rich history, culture, and contributions of the Malay community in Singapore. The Istana Kampong Glam stands as a symbol of the enduring presence and heritage of the Malay people, providing a vital link to the country's pre-colonial past and its multicultural identity.",
+      "factsAdvanced": [
+        "Built in 1840 as the palace for the Sultan of Johor in Singapore.",
+        "Designed by George Drumgoole Coleman, a prominent colonial architect.",
+        "Located within the Kampong Glam conservation district.",
+        "Served as the royal residence until the early 20th century.",
+        "Now houses the Malay Heritage Centre, which opened in 2005.",
+        "Gazetted as a National Monument of Singapore in 2015.",
+        "Surrounded by the historic Gelam trees and a traditional garden.",
+        "A key landmark reflecting Singapore's Malay royal history."
+      ]
+    },
+    {
+      "id": "sg-alexandra-hospital-wwii-history-v2",
+      "descriptionAdvanced": "Alexandra Hospital is a historic medical institution in Singapore, infamous for the tragic massacre that occurred there during the final stages of the Battle of Singapore in February 1942. On February 14, Japanese troops entered the hospital and brutally killed hundreds of patients and staff, including those in operating theaters. This dark chapter remains one of the most horrific events of the Japanese occupation. The hospital itself was originally built as a British military hospital in 1938 and was known for its state-of-the-art facilities at the time. Despite its tragic past, Alexandra Hospital continued to serve as a medical facility throughout the occupation and into the post-war era. Today, it is a modern public hospital that honors its history through memorials and heritage trails, serving as a reminder of the human cost of war and the resilience of those who serve in the medical profession.",
+      "factsAdvanced": [
+        "Originally opened as the British Military Hospital in 1938.",
+        "Site of a horrific massacre by Japanese troops on Feb 14, 1942.",
+        "Known for its colonial architecture and lush green surroundings.",
+        "One of the most advanced military hospitals in Southeast Asia at the time.",
+        "Features a butterfly garden and numerous heritage trees on its grounds.",
+        "Continues to operate as a public hospital under the NUHS cluster.",
+        "Historical relics and memorials are located within the hospital compound.",
+        "Plays a key role in Singapore's World War II heritage trails."
+      ]
+    },
+    {
+      "id": "sg-adam-park-battlefield-history-v2",
+      "descriptionAdvanced": "Adam Park is a historic residential estate in Singapore that served as a significant battlefield during the final days of the Battle of Singapore in February 1942. The area, characterized by its colonial 'Black and White' bungalows, was the site of a fierce three-day struggle between the 1st Battalion, Cambridgeshire Regiment, and the Japanese 41st Infantry Regiment. After the British surrender, Adam Park was used as a prisoner-of-war (POW) camp for both British and Australian soldiers. During their captivity, the POWs were forced to work on the nearby Syonan Chureito (Japanese war memorial). Recent archaeological surveys at Adam Park have uncovered numerous artifacts, including ammunition, equipment, and personal items, providing valuable insights into the lives of the soldiers and prisoners. Adam Park remains a quiet residential neighborhood today, but its history as a battlefield and POW camp makes it a site of deep historical significance.",
+      "factsAdvanced": [
+        "Site of the last major battle before the British surrender in 1942.",
+        "Home to beautiful colonial 'Black and White' bungalows.",
+        "The Cambridgeshire Regiment held the estate against intense attacks.",
+        "Used as a POW camp for over 3,000 Allied soldiers from 1942-1945.",
+        "POWs here were forced to build a Japanese shrine on MacRitchie hill.",
+        "Recent excavations have unearthed over 1,000 battlefield artifacts.",
+        "A rare example of a well-preserved WWII battlefield in an urban setting.",
+        "A key site for research into the POW experience in Singapore."
+      ]
+    },
+    {
+      "id": "sg-yuch-hai-ching-temple-history-v2",
+      "descriptionAdvanced": "Yueh Hai Ching Temple, also known as the 'Temple of the Calm Sea,' is one of the oldest Taoist temples in Singapore, founded in 1826 by Teochew immigrants from Guangzhou. Originally a small shrine near the sea, it provided a place for sailors and traders to offer prayers to Mazu and Xuan Wu for safe passage. The temple is famous for its intricate Teochew-style architecture, particularly its stunning roof sculptures that depict scenes from Chinese legends and folklore. It is also well-known as the 'Temple of Love,' as many devotees come to pray to Yue Lao, the God of Marriage, for blessings in their relationships. Yueh Hai Ching Temple has received numerous accolades for its meticulous restoration, including the UNESCO Asia-Pacific Heritage Award. It remains a tranquil and spiritually significant landmark in the heart of Singapore's financial district.",
+      "factsAdvanced": [
+        "Founded in 1826, making it the oldest Teochew temple in Singapore.",
+        "Commonly referred to as the 'Temple of Love' for its God of Marriage.",
+        "Features some of the most intricate roof sculptures in Southeast Asia.",
+        "Originally built on the coastline before land reclamation moved the sea.",
+        "Received a UNESCO Asia-Pacific Heritage Award of Merit in 2014.",
+        "Gazetted as a National Monument of Singapore in 1996.",
+        "Dedicated to Xuan Wu (Emperor of Heaven) and Mazu (Sea Goddess).",
+        "A masterwork of traditional Teochew craftsmanship and art."
+      ]
+    },
+    {
+      "id": "sg-german-girl-shrine-history-v2",
+      "descriptionAdvanced": "The German Girl Shrine is a unique and intriguing historical site located on Pulau Ubin, an island off the northeastern coast of Singapore. The shrine is dedicated to a young German girl who allegedly died on the island in 1914 while fleeing from British troops who were rounding up German nationals at the start of World War I. Her body was later discovered and buried by local residents, who eventually established a shrine in her honor. Over the decades, the shrine has become a place of worship for locals and visitors, who offer dolls, cosmetics, and flowers to the girl, whom they believe can grant blessings and good luck. The current shrine is a small, well-maintained yellow structure that reflects a blend of Taoist and local folk beliefs. It stands as a curious testament to the island's history and the way local legends can evolve into enduring spiritual traditions.",
+      "factsAdvanced": [
+        "A unique shrine on Pulau Ubin dedicated to a young German girl.",
+        "The girl died in 1914 while fleeing internment during World War I.",
+        "Devotees often offer Barbie dolls and cosmetics at the shrine.",
+        "Believed by locals to possess spiritual powers and grant luck.",
+        "The shrine has been relocated several times due to quarrying on the island.",
+        "The girl's family reportedly owned a coffee plantation on Ubin.",
+        "A fascinating example of local folklore and cross-cultural belief.",
+        "Located near the Ketam Mountain Bike Park on the island."
+      ]
+    },
+    {
+      "id": "sg-masjid-hajjah-fatimah-history-v2",
+      "descriptionAdvanced": "Masjid Hajjah Fatimah is a beautiful and historic mosque located in the Kampong Glam district of Singapore, known for its unique blend of architectural styles. Built in 1846, it was commissioned by Hajjah Fatimah, a wealthy Malay businesswoman and philanthropist, on the site of her former home. The mosque is famous for its leaning minaret, which has earned it the nickname the 'Leaning Tower of Singapore.' This minaret, along with the mosque's dome, shows a distinct European influence, possibly designed by a British architect. The mosque's interior features traditional Islamic motifs and exquisite woodwork. Masjid Hajjah Fatimah was the first mosque in Singapore to be named after a woman, reflecting her significant status in the community. It remains an active place of worship and a National Monument, symbolizing the rich history and contributions of the Malay and Muslim pioneers in Singapore.",
+      "factsAdvanced": [
+        "Commissioned in 1846 by Hajjah Fatimah, a wealthy trader.",
+        "First mosque in Singapore named after a woman.",
+        "Famous for its leaning minaret, tilted about 6 degrees.",
+        "Features a unique blend of Islamic, European, and Malay architecture.",
+        "Hajjah Fatimah's grave is located within the mosque compound.",
+        "Gazetted as a National Monument of Singapore in 1973.",
+        "Located on Beach Road, formerly near the sea.",
+        "Represents the entrepreneurial spirit of early Malay women in Singapore."
+      ]
+    }
+  ]
+}

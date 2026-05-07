@@ -1,0 +1,587 @@
+[
+  {
+    "id": "bombardopolis-cities-v2",
+    "name": "Bombardopolis",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "baie-de-henne-cities-v2",
+    "name": "Baie-de-Henne",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "jean-rabel-cities-v2",
+    "name": "Jean-Rabel",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "anse-a-folleur-cities-v2",
+    "name": "Anse-à-Foleur",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "saint-michel-de-lattalaye-cities-v2",
+    "name": "Saint-Michel-de-l'Attalaye",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "marmelade-cities-v2",
+    "name": "Marmelade",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "lascahobas-cities-v2",
+    "name": "Lascahobas",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "savanette-cities-v2",
+    "name": "Savanette",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "cerca-la-source-cities-v2",
+    "name": "Cerca-la-Source",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "gros-roche-cities-v2",
+    "name": "Gros-Roche",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "mont-organise-cities-v2",
+    "name": "Mont-Organisé",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "vallieres-cities-v2",
+    "name": "Vallières",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "capotille-cities-v2",
+    "name": "Capotille",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "arcahaie-cities-v2",
+    "name": "Arcahaie",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "cabaret-cities-v2",
+    "name": "Cabaret",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "cornillon-cities-v2",
+    "name": "Cornillon",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "ganthier-cities-v2",
+    "name": "Ganthier",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "fonds-verrettes-cities-v2",
+    "name": "Fonds-Verrettes",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "tiburon-cities-v2",
+    "name": "Tiburon",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "les-anglais-cities-v2",
+    "name": "Les Anglais",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "chardonniere-cities-v2",
+    "name": "Les Chardonnières",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "arnaud-cities-v2",
+    "name": "Arnaud",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "lazarre-cities-v2",
+    "name": "L'Asile",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "belle-anse-cities-v2",
+    "name": "Belle-Anse",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "thiotte-cities-v2",
+    "name": "Thiotte",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "anse-a-pitres-cities-v2",
+    "name": "Anse-à-Pitres",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "fond-des-negres-cities-v2",
+    "name": "Fond-des-Nègres",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "paillant-cities-v2",
+    "name": "Paillant",
+    "file": "lib/visualLab/data/poiExtraHaitiCitiesV2.ts"
+  },
+  {
+    "id": "fort-delpesche-history-v2",
+    "name": "Fort Delpesche",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-du-caille-history-v2",
+    "name": "Habitation du Caille",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-brossard-history-v2",
+    "name": "Fort Brossard",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "ruines-de-saint-michel-history-v2",
+    "name": "Ruinen von Saint-Michel",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-la-riviere-froide-history-v2",
+    "name": "Fort de la Rivière Froide",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-le-clerc-history-v2",
+    "name": "Habitation Le Clerc",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-la-presquile-sud-history-v2",
+    "name": "Fort de la Presqu'île",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-des-lauriers-history-v2",
+    "name": "Habitation des Lauriers",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-drouet-v2-history-v2",
+    "name": "Fort Drouet",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-val-fleury-history-v2",
+    "name": "Habitation Val Fleury",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-la-poudriere-history-v2",
+    "name": "Fort de la Poudrière",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "ruines-de-l-aqueduc-history-v2",
+    "name": "Aquäduktruinen",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-du-grand-riviere-history-v2",
+    "name": "Fort de la Grand Rivière",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-sylvain-history-v2",
+    "name": "Habitation Sylvain",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-saint-michel-history-v2",
+    "name": "Fort Saint-Michel",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-mornay-history-v2",
+    "name": "Habitation Mornay",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-des-anglais-history-v2",
+    "name": "Fort des Anglais",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-la-ferriere-history-v2",
+    "name": "Habitation La Ferrière",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-la-crete-history-v2",
+    "name": "Fort La Crête",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-bellevue-history-v2",
+    "name": "Habitation Bellevue",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-moulin-history-v2",
+    "name": "Fort Moulin",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-des-laurier-bas-history-v2",
+    "name": "Habitation des Laurier-Bas",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-la-riviere-blanche-history-v2",
+    "name": "Fort de la Rivière Blanche",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-saint-jean-history-v2",
+    "name": "Habitation Saint-Jean",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-bambou-history-v2",
+    "name": "Fort Bambou",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-du-nord-history-v2",
+    "name": "Habitation du Nord",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-des-trois-baies-history-v2",
+    "name": "Fort des Trois Baies",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-le-vieux-history-v2",
+    "name": "Habitation Le Vieux",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "fort-de-la-presquile-est-history-v2",
+    "name": "Fort de la Presqu'île Est",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "habitation-du-sud-history-v2",
+    "name": "Habitation du Sud",
+    "file": "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  },
+  {
+    "id": "haiti-cathedral-cap-haitien-landmarks-v2",
+    "name": "Kathedrale von Cap-Haïtien",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-liberte-landmarks-v2",
+    "name": "Fort Dauphin",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-palais-aux-365-portes-landmarks-v2",
+    "name": "Palast der 365 Türen",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-alexandre-landmarks-v2",
+    "name": "Fort Alexandre",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-monument-toussaint-louverture-landmarks-v2",
+    "name": "Toussaint Louverture Denkmal",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-cathedrale-de-la-sainte-trinite-landmarks-v2",
+    "name": "Kathedrale der Heiligen Dreifaltigkeit",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-relais-landmarks-v2",
+    "name": "Fort Relais",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-monument-marron-inconnu-landmarks-v2",
+    "name": "Le Marron Inconnu",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-toussaint-landmarks-v2",
+    "name": "Fort Toussaint",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-cathedrale-jacmel-landmarks-v2",
+    "name": "Kathedrale von Jacmel",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-place-saint-pierre-landmarks-v2",
+    "name": "Place Saint-Pierre",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-ogé-landmarks-v2",
+    "name": "Fort Ogé",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-jardin-botanique-cayes-landmarks-v2",
+    "name": "Botanischer Garten von Les Cayes",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-mairie-cap-haitien-landmarks-v2",
+    "name": "Rathaus von Cap-Haïtien",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-bousquet-landmarks-v2",
+    "name": "Fort Bousquet",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-hotel-oleander-landmarks-v2",
+    "name": "Hotel Oleander",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-place-bover-landmarks-v2",
+    "name": "Place Bover",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-du-grand-riviere-landmarks-v2",
+    "name": "Fort du Grand-Rivière",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-gare-maritime-cayes-landmarks-v2",
+    "name": "Maritimer Bahnhof von Les Cayes",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-lycee-philippe-guerrier-landmarks-v2",
+    "name": "Lycée Philippe Guerrier",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-biche-landmarks-v2",
+    "name": "Fort Biche",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-place-bowen-landmarks-v2",
+    "name": "Place Bowen",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-maison-dufresne-landmarks-v2",
+    "name": "Maison Dufresne",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-bel-air-landmarks-v2",
+    "name": "Fort Bel-Air",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-kiosque-occitant-landmarks-v2",
+    "name": "Kiosque Occitant",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-monument-pétion-landmarks-v2",
+    "name": "Pétion Denkmal",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-brossard-landmarks-v2",
+    "name": "Fort Brossard",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-place-toussaint-landmarks-v2",
+    "name": "Place Toussaint Louverture",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "haiti-fort-st-joseph-landmarks-v2",
+    "name": "Fort St. Joseph",
+    "file": "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  },
+  {
+    "id": "parc-national-macaya-life-v2",
+    "name": "Nationalpark Pic Macaya",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-national-la-visite-life-v2",
+    "name": "Nationalpark La Visite",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "foret-des-pins-life-v2",
+    "name": "Forêt des Pins Reservat",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "plaine-artibonite-agri-life-v2",
+    "name": "Artibonite-Ebene Agrarregion",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "cotes-de-fer-agri-life-v2",
+    "name": "Côtes-de-Fer Kaffeeanbau",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "jardin-botanique-cayes-life-v2",
+    "name": "Botanischer Garten Les Cayes",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "ferme-ecologique-jacmel-life-v2",
+    "name": "Ökologischer Bauernhof Jacmel",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "reserve-animale-gonave-life-v2",
+    "name": "Gonâve Tierreservat",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "bassin-bleu-nature-life-v2",
+    "name": "Bassin-Bleu Kinderparadies",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-miraculeux-pa-p-life-v2",
+    "name": "Kinderfreizeitpark Port-au-Prince",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "bananenausbau-limonade-life-v2",
+    "name": "Bananenplantagen Limonade",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "station-biologique-macaya-life-v2",
+    "name": "Biologische Forschungsstation Macaya",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "jardin-zoologique-simple-life-v2",
+    "name": "Einfacher Tierpark Pétion-Ville",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "agrarzentrum-saint-michel-life-v2",
+    "name": "Agrarzentrum Saint-Michel",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-enfants-jeremie-life-v2",
+    "name": "Kinderpark Jérémie",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "plantation-cacao-grand-anse-life-v2",
+    "name": "Grand-Anse Kakaoanbau",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "ferme-animaux-leogane-life-v2",
+    "name": "Tierfarm Léogâne",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-nature-cayemites-life-v2",
+    "name": "Cayemites Naturpark",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "marais-trou-caiman-life-v2",
+    "name": "Trou Caïman Feuchtgebiet",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "jardin-fruitier-saint-marc-life-v2",
+    "name": "Obstgarten Saint-Marc",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-enfants-jacmel-life-v2",
+    "name": "Kinderparadies Jacmel",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "reserve-marine-cap-haitien-life-v2",
+    "name": "Meeresschutzgebiet Cap-Haïtien",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "centre-edu-agriculture-miragoane-life-v2",
+    "name": "Agrarbildungszentrum Miragoâne",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-naturel-riviere-froide-life-v2",
+    "name": "Naturpark Rivière Froide",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "jardin-education-haiti-life-v2",
+    "name": "Haiti Lern- und Lehrgarten",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "plantation-cafe-kenskoff-life-v2",
+    "name": "Kaffeeplantage Kenskoff",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "parc-enfants-port-de-paix-life-v2",
+    "name": "Port-de-Paix Kinderpark",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "ferme-experimentale-artibonite-life-v2",
+    "name": "Versuchs-Bauernhof Artibonite",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "reserve-oiseaux-lac-peligre-life-v2",
+    "name": "Vogelreservat Lac Péligre",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  },
+  {
+    "id": "jardin-ornemental-jeremie-life-v2",
+    "name": "Jérémie Ziergarten",
+    "file": "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  }
+]

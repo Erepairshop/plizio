@@ -1,0 +1,610 @@
+[
+  {
+    "id": "sapporo-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "sendai-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "yokohama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "kawasaki-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "nagoya-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "kyoto-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "osaka-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "kobe-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "hiroshima-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "fukuoka-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "nara-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "kanazawa-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "okayama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "kumamoto-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "kagoshima-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "naha-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "niigata-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "chiba-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "saitama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "shizuoka-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "hamamatsu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "fukuyama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "takasaki-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "himeji-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "matsuyama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "fukushima-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "aomori-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "akita-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "nagasaki-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "gifu-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "toyama-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "utsunomiya-cities-v2",
+    "file": "lib/visualLab/data/poiExtraJapanCitiesV2.ts"
+  },
+  {
+    "id": "toyota-tahara-plant-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "port-of-yokohama-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "kashima-industrial-zone-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "port-of-nagoya-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "hitachi-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "osaka-station-city-trade-hub-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "kashiwazaki-kariwa-npp-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "port-of-kobe-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "kitakyushu-industrial-zone-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "sado-gold-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "shibuya-scramble-crossing-trade-hub-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "hamaoka-npp-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "port-of-hakata-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "j-power-isogo-thermal-plant-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "tsukiji-outer-market-trade-hub-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "iwami-silver-mine-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "keihin-industrial-zone-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "port-of-tomakomai-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "yokkaichi-industrial-complex-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "oizumi-town-industry-economic-v2",
+    "file": "lib/visualLab/data/poiExtraJapanEconomicV2.ts"
+  },
+  {
+    "id": "goryokaku-fort-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "yoshino-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "sekigahara-battlefield-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "dejimia-island-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "sannai-maruyama-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "peace-monument-okinawa-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "takeda-castle-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "ichijodani-asakura-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "hara-castle-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "sugawara-no-michizane-tomb-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "izumo-taisha-shrine-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "azuchi-castle-ruins-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "gassho-zukuri-villages-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "hiraizumi-temples-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "sugimoto-residence-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "tombs-of-mozufuruichi-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "adachi-museum-garden-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "tsumago-juku-post-town-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "iwami-ginzan-silver-mine-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "kakunodate-samurai-district-history-v2",
+    "file": "lib/visualLab/data/poiExtraJapanHistoryV2.ts"
+  },
+  {
+    "id": "imperial-palace-tokyo-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "hakone-open-air-museum-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "nachi-falls-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "un-chastel-en-le-ciel-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "tokyo-metropolitan-gov-bldg-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "rainbow-bridge-tokyo-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "gundam-factory-yokohama-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "usuki-stone-buddhas-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "tottori-sand-dunes-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "ise-grand-shrine-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "lake-ashinoko-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "teamlab-borderless-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "kurashiki-bikan-historical-quarter-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "naoshima-art-island-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "magome-juku-post-town-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "mount-koya-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "onomichi-temple-walk-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "beppu-hells-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "takachiho-gorge-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "mori-art-museum-landmarks-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLandmarksV2.ts"
+  },
+  {
+    "id": "ueno-park-and-zoo-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "yoyogi-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "shinjuku-gyoen-national-garden-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "fuji-q-highland-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "ghibli-museum-mitaka-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "niseko-united-agriculture-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "kushiro-shitsugen-wildlife-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "jigokudani-monkey-park-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "furano-flower-fields-agriculture-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "tokyo-disneyland-disneysea-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "hokkaido-dairy-farms-agriculture-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "shiretoko-national-park-wildlife-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "kerama-shoto-national-park-wildlife-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "sanrio-puroland-life-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "shizuoka-tea-plantations-agriculture-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "hida-folk-village-kid-friendly-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "iriomote-jima-wildlife-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "hakone-ropeway-kid-friendly-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "noboribetsu-bear-park-wildlife-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "minamichita-beach-land-kid-friendly-v2",
+    "file": "lib/visualLab/data/poiExtraJapanLifeV2.ts"
+  },
+  {
+    "id": "jp-fuji-hakone-izu-national-park-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-biwa-see-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-shinano-fluss-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-aso-kuju-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-berg-kita-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-yakushima-wald-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-towada-see-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-chubu-sangaku-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-berg-asahi-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-shikotsu-toya-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-kiso-fluss-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-nikko-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-berg-ontake-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-aokigahara-wald-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-chuzenji-see-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-yoshino-kumano-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-ishikari-fluss-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-daisetsuzan-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-berg-yari-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "jp-akan-mashu-nationalpark-nature-v2",
+    "file": "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  },
+  {
+    "id": "fuji-mountain-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "aso-caldera-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "kiso-valley-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "japan-alps-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "tottori-dunes-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "daisetsuzan-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "sanriku-coast-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "hidaka-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "iya-valley-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "kanto-plain-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "noto-peninsula-coast-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "mount-zao-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "kujukushima-islands-coast-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "shikotsu-toya-plateau-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "mount-asama-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "yatsugatake-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "kamikochi-valley-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "shimokita-peninsula-coast-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "kirishima-mountains-relief-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  },
+  {
+    "id": "echigo-plain-plateau-v2",
+    "file": "lib/visualLab/data/poiExtraJapanReliefV2.ts"
+  }
+]

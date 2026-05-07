@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mont-greboun-relief-v2",
+      "descriptionAdvanced": "Der Mont Gréboun erhebt sich als einer der bedeutendsten und imposantesten Gipfel majestätisch über die raue Landschaft des vulkanischen Aïr-Gebirges. Mit einer beeindruckenden Höhe von 1.944 Metern bietet dieser schroffe, dunkle Berg einen spektakulären Panoramablick über das schier endlose Sandmeer der östlichen Sahara. Die unteren Flanken des Berges verbergen tiefe, schattige Schluchten, in denen seltene Akazien wachsen und Wüstenfüchse Unterschlupf finden. Für wagemutige Bergsteiger und Geologen stellt der Mont Gréboun aufgrund seiner massiven Basaltformationen und der isolierten Lage eine der reizvollsten, aber auch anspruchsvollsten Herausforderungen in ganz Westafrika dar.",
+      "factsAdvanced": [
+        "Bedeutendster und imposantester Gipfel im vulkanischen Aïr-Gebirge.",
+        "Erreicht eine beeindruckende Höhe von 1.944 Metern.",
+        "Bietet spektakuläre Panoramablicke über das östliche Sahara-Sandmeer.",
+        "Flanken verbergen tiefe, schattige Schluchten mit seltener Vegetation.",
+        "Massive Basaltformationen ziehen Geologen und Bergsteiger an.",
+        "Stellt eine der anspruchsvollsten Bergbesteigungen Westafrikas dar."
+      ]
+    },
+    {
+      "id": "plateau-djado-relief-v2",
+      "descriptionAdvanced": "Die Djado-Plateau-Erhebung ist eine gewaltige, stark erodierte steinige Hochfläche im äußersten Nordosten Nigers, die wie eine natürliche Festung über der flachen Wüste thront. Die steilen, stark zerklüfteten Klippen des Plateaus leuchten im Licht der tiefstehenden Sonne in intensiven Rot- und Ockertönen. Diese geologische Formation schützte jahrhundertelang die legendäre, heute verlassene Karawanenstadt Djado vor den unerbittlichen Sandstürmen. Die schwer zugänglichen Höhlen an den Rändern der Erhebung bewahren einige der am besten erhaltenen prähistorischen Felsgravuren der Region, die von einer Zeit zeugen, als dieses heute knochentrockene Plateau eine grüne Weidelandschaft war.",
+      "factsAdvanced": [
+        "Gewaltige, erodierte steinige Hochfläche im äußersten Nordosten Nigers.",
+        "Wirkt durch steile Klippen wie eine natürliche Wüstenfestung.",
+        "Felsformationen leuchten intensiv in charakteristischen Rot- und Ockertönen.",
+        "Schützte historisch die legendäre Salz-Karawanenstadt Djado.",
+        "Beherbergt unzählige prähistorische Felsgravuren in tiefen Höhlen.",
+        "Zeugt geologisch von einer Zeit, als die Sahara noch feucht war."
+      ]
+    },
+    {
+      "id": "massif-termit-relief-v2",
+      "descriptionAdvanced": "Die Gipfel des Termit-Massivs ragen wie schwarze Zähne aus den hellen Dünen der Ténéré-Wüste und bilden eine der markantesten Reliefstrukturen im Osten Nigers. Diese stark verwitterten, fast bizarren Sandsteingipfel sind das Ergebnis jahrtausendelanger Winderosion. Trotz ihrer lebensfeindlichen Erscheinung bieten die tiefen Risse und winzigen Überhänge der Gipfel kühlen Schatten, in dem sich die Feuchtigkeit seltener Regenfälle sammelt. Dieses mikro-klimatische Relief ist der Grund, warum die vom Aussterben bedrohte Addax-Antilope hier ihre weltweit letzte echte Zuflucht gefunden hat. Das Massiv ist ein meisterhaftes Beispiel für die extreme geologische Anpassung in der Sahara.",
+      "factsAdvanced": [
+        "Markante, schwarze Sandsteingipfel ragen aus hellen Wüstendünen.",
+        "Bizarre Formen sind das Ergebnis jahrtausendelanger Winderosion.",
+        "Tiefe Risse und Überhänge bieten kühlen Schatten und speichern Feuchtigkeit.",
+        "Mikroklima bildet die letzte Hochburg der bedrohten Addax-Antilope.",
+        "Geologische Struktur ist ein Meisterwerk der Anpassung an Wüstenklima.",
+        "Bildet das raue, unzugängliche Herzstück der östlichen Ténéré."
+      ]
+    },
+    {
+      "id": "plateau-damagaram-relief-v2",
+      "descriptionAdvanced": "Die Kante des Damagaram-Plateaus bildet den geologischen Übergang vom feuchteren Süden zur kargen Sahelzone rund um die historische Hauptstadt Zinder. Dieses sanft gewellte Hochland ist geprägt durch markante, riesige Granitblöcke, die von den Einheimischen respektvoll als 'Inselberge' bezeichnet werden. Diese Felsen erheben sich abrupt aus der sonst flachen Steppe und dienten den frühen Hausa-Siedlern oft als natürliche Wachtürme. Das Relief des Plateaus lenkt die saisonalen Winde ab und begünstigt ein lokal milderes Klima, weshalb das Damagaram-Plateau seit Jahrhunderten ein Zentrum für Landwirtschaft und dichte Besiedlung ist.",
+      "factsAdvanced": [
+        "Markiert den geologischen Übergang vom feuchten Süden zur Sahelzone.",
+        "Sanft gewelltes Hochland, dominiert von riesigen Granitblöcken.",
+        "Einheimische bezeichnen diese abrupten Felsen als 'Inselberge'.",
+        "Granitfelsen dienten historischen Hausa-Siedlern als natürliche Wachtürme.",
+        "Relief lenkt Winde ab und begünstigt ein milderes Mikroklima.",
+        "Seit Jahrhunderten bevorzugtes Zentrum für Landwirtschaft und Besiedlung."
+      ]
+    },
+    {
+      "id": "dallol-bosso-relief-v2",
+      "descriptionAdvanced": "Die Dallol-Bosso-Talung ist eine beeindruckende topografische Narbe im Südwesten Nigers, die von den gewaltigen Wassermassen urzeitlicher Flüsse in die Landschaft gefräst wurde. Obwohl das breite, flache Tal heute fast vollständig ausgetrocknet ist, prägt es die Landschaft durch seine steilen, verwitterten Ränder, die oft dicht mit Büschen bewachsen sind. Die Senke wirkt wie ein riesiges, flaches Becken, das während der kurzen Regenzeit das Wasser aus dem Umland auffängt und in den Untergrund leitet. Diese topografische Senkung sorgt dafür, dass das Dallol Bosso die produktivste grüne Ader in der ansonsten ariden Tillabéri-Region darstellt.",
+      "factsAdvanced": [
+        "Gewaltige topografische Narbe im Südwesten, von Urflüssen geformt.",
+        "Breites, heute trockenes Tal mit steilen, dicht bewachsenen Rändern.",
+        "Fungiert topografisch als riesiges, wasserauffangendes Becken.",
+        "Leitet während der Regenzeit wertvolles Wasser in den Untergrund.",
+        "Verantwortlich für die enorme landwirtschaftliche Produktivität der Region.",
+        "Bildet die wichtigste grüne Lebensader der trockenen Tillabéri-Zone."
+      ]
+    },
+    {
+      "id": "adrar-bous-relief-v2",
+      "descriptionAdvanced": "Die Adrar-Bous-Höhen bilden ein schroffes, isoliertes Bergmassiv, das sich dramatisch nördlich des großen Aïr-Gebirges direkt an der Schwelle zur absolut wasserlosen Wüste erhebt. Das Relief dieses Massivs besteht aus steilen, schwarzen Basaltklippen, die sich in einem unglaublichen Kontrast vom umliegenden, extrem hellen Ténéré-Sand abheben. In der Antike, als das Klima feuchter war, bildeten diese Höhen die natürliche Barriere eines riesigen Sees. Heute sind die verwitterten Flanken der Adrar-Bous-Höhen ein Magnet für Geologen und Archäologen, die hier die Werkzeuge längst vergessener Jäger- und Sammlerkulturen aus dem Wüstensand graben.",
+      "factsAdvanced": [
+        "Schroffes, isoliertes Bergmassiv nördlich des Aïr-Gebirges.",
+        "Erhebt sich dramatisch an der Schwelle zur wasserlosen Wüste.",
+        "Steile schwarze Basaltklippen kontrastieren mit hellem Ténéré-Sand.",
+        "Bildeten in der feuchten Antike die natürliche Barriere eines Sees.",
+        "Verwitterte Flanken sind ein Hotspot für Geologen und Archäologen.",
+        "Reich an prähistorischen Werkzeugen längst vergessener Jägerkulturen."
+      ]
+    },
+    {
+      "id": "plateau-tchigai-relief-v2",
+      "descriptionAdvanced": "Die Tchigaï-Plateau-Felsen im extremen Norden Nigers nahe der tschadischen Grenze formen eine der unwirtlichsten und abgelegensten Felsregionen des afrikanischen Kontinents. Dieses von Wind und Sandstürmen zerschliffene Relief ist geprägt von tückischen, rasiermesserscharfen Gesteinsformationen und tief eingeschnittenen, trockenen Wadis. Die massiven Sandsteinblöcke weisen eine ungewöhnlich dunkle, fast verbrannt wirkende Patina auf, die als 'Wüstenlack' bekannt ist. Aufgrund seiner brutalen Topografie und extremen Isolation ist das Tchigaï-Plateau nahezu menschenleer und bietet lediglich einigen der zähesten Schlangen- und Eidechsenarten einen ungestörten Lebensraum.",
+      "factsAdvanced": [
+        "Unwirtliche, extrem abgelegene Felsregion an der Grenze zum Tschad.",
+        "Relief ist von tückischen, rasiermesserscharfen Felsen geprägt.",
+        "Durchzogen von tief eingeschnittenen, absolut trockenen Wadis.",
+        "Sandstein weist die dunkle, verbrannte Patina des 'Wüstenlacks' auf.",
+        "Aufgrund der brutalen Topografie nahezu komplett menschenleer.",
+        "Ungestörter Lebensraum für hochgradig zähe Reptilienarten."
+      ]
+    },
+    {
+      "id": "dallol-maouri-relief-v2",
+      "descriptionAdvanced": "Die Dallol-Maouri-Senke ist eine weite, flache topografische Niederung im Südwesten Nigers, die sich hunderte Kilometer durch die Savanne zieht. Dieses fossile Flusstal unterscheidet sich durch seine extrem breite Sohle von typischen steilen Canyons. Das sanfte Gefälle der Senke sorgt dafür, dass Niederschlagswasser während der Monsunmonate nicht schnell abfließt, sondern sich in einer Kette von temporären Flachseen sammelt. Diese topografische Besonderheit macht die Maouri-Senke zu einem herausragenden agrarischen Zentrum, da die dicken, fruchtbaren Lehmschichten auf dem Grund der Senke ideal für den intensiven Anbau von Reis und Gemüse sind.",
+      "factsAdvanced": [
+        "Weite, flache topografische Niederung im Südwesten Nigers.",
+        "Fossiles Flusstal mit einer extrem breiten und sanften Sohle.",
+        "Sanftes Gefälle verhindert raschen Wasserabfluss im Sommer-Monsun.",
+        "Bildet eine Kette von ökologisch wichtigen, temporären Flachseen.",
+        "Dicke Lehmschichten auf dem Grund sind extrem fruchtbar.",
+        "Herausragendes Reliefzentrum für den Anbau von Trockenreis und Gemüse."
+      ]
+    },
+    {
+      "id": "goulbi-maradi-relief-v2",
+      "descriptionAdvanced": "Die Goulbi-de-Maradi-Talung schneidet sich als markantes, saisonales Flusstal tief in die landwirtschaftlich intensiv genutzten Ebenen der südlichen Region Maradi ein. Das Relief dieses Tales zeichnet sich durch steile, oft von Wassererosion stark unterspülte Sandbänke aus, die den dynamischen hydrologischen Rhythmus des Flusses bezeugen. Wenn der Fluss im Sommer mächtige Wassermassen aus Nigeria heranführt, formt die Strömung das Talbett ständig neu und lagert auf den inneren Bänken frischen, nährstoffreichen Schlamm ab. Diese tiefe topografische Rinne ist die absolute Lebensader, die Maradi zu einem der wohlhabendsten Getreidehubs des Landes macht.",
+      "factsAdvanced": [
+        "Markantes, tief eingeschnittenes Flusstal in den Ebenen von Maradi.",
+        "Relief zeichnet sich durch stark unterspülte, steile Sandbänke aus.",
+        "Bezeugt eindrucksvoll den dynamischen hydrologischen Rhythmus.",
+        "Sommerliche Strömungen formen das Talbett kontinuierlich neu.",
+        "Lagert jährlich frischen, hochgradig nährstoffreichen Schlamm ab.",
+        "Topografische Lebensader und Grundlage für Maradis Agrarreichtum."
+      ]
+    },
+    {
+      "id": "koutous-relief-v2",
+      "descriptionAdvanced": "Die Koutous-Massiv-Höhe ist eine dramatische geologische Anomalie östlich des Aïr-Gebirges. Wie eine verlassene Festung erhebt sich dieses isolierte Sandsteinmassiv unvermittelt aus der flachen, staubigen Steppe. Das Relief ist durch vertikale Klippen und tiefe, von Wasserlinsen gespeiste Spalten charakterisiert, die das Eindringen von Feinden oder Sandstürmen erschweren. Oben auf dem Massiv bildet eine flache, felsige Hochebene eine völlig eigene kleine Welt. In der Vergangenheit nutzten Nomaden diese hoch gelegene Zuflucht als uneinnehmbares Versteck während regionaler Kriege. Heute ziehen die zerklüfteten Höhenlinien vor allem wagemutige Naturliebhaber an.",
+      "factsAdvanced": [
+        "Dramatische geologische Anomalie und isoliertes Massiv östlich des Aïr.",
+        "Erhebt sich wie eine verlassene Festung abrupt aus der flachen Steppe.",
+        "Relief charakterisiert durch vertikale Klippen und tiefe Spalten.",
+        "Flache, felsige Hochebene oben bildet eine eigene mikroklimatische Welt.",
+        "Diente Nomaden historisch als uneinnehmbare Festung in Kriegszeiten.",
+        "Zerklüftete Höhenlinien bieten wagemutigen Besuchern Schutz und Zuflucht."
+      ]
+    },
+    {
+      "id": "komadougou-yobe-relief-v2",
+      "descriptionAdvanced": "Die Komadougou-Yobé-Niederung formt ein ausgedehntes, extrem flaches Becken im äußersten Südosten Nigers. Diese topografische Senke dient als gigantischer natürlicher Trichter, der das saisonale Wasser des Grenzflusses langsam in Richtung des schwindenden Tschadsees leitet. Durch die fast vollständige Abwesenheit von Gefälle mäandert der Fluss in unzähligen Schleifen durch die Niederung und schafft so weitreichende Überschwemmungsgebiete. Dieses flache Relief sorgt für eine anhaltende Bodenfeuchtigkeit, die den Anbau des berühmten Paprikas von Diffa ermöglicht, ist jedoch auch hochgradig anfällig für katastrophale Sturzfluten nach ungewöhnlich starken Regenfällen.",
+      "factsAdvanced": [
+        "Ausgedehntes, extrem flaches topografisches Becken im Südosten.",
+        "Fungiert als Trichter, der Wasser Richtung Tschadsee leitet.",
+        "Fast fehlendes Gefälle zwingt den Fluss in unzählige Mäander.",
+        "Schafft durch das flache Relief weitreichende Überschwemmungsgebiete.",
+        "Anhaltende Bodenfeuchtigkeit begünstigt den berühmten Paprika-Anbau.",
+        "Die extreme Flachheit macht das Gebiet anfällig für Sturzfluten."
+      ]
+    },
+    {
+      "id": "dallol-fogha-relief-v2",
+      "descriptionAdvanced": "Die Dallol-Fogha-Ebene ist eine langgestreckte, grabenartige Struktur, die das geologische Überbleibsel eines prähistorischen Flusssystems darstellt. Das Relief dieser Ebene ist gekennzeichnet durch einen sehr flachen, breiten Grund, der an seinen Rändern von sanft ansteigenden Sandhügeln flankiert wird. Diese spezifische Muldenform schützt die zentrale Ebene vor den rauen, austrocknenden Winden der Sahara und begünstigt ein überraschend dichtes Wachstum von Akazien- und Baobabbäumen. Hydrologisch wirkt die gesamte Ebene wie eine Auffangrinne, was sie zu einem der stabilsten und wichtigsten Weidegebiete für die großen Rinderherden der Wodaabe-Fulani macht.",
+      "factsAdvanced": [
+        "Langgestreckte, grabenartige Struktur eines prähistorischen Flusssystems.",
+        "Sehr flacher, breiter Grund, flankiert von sanft ansteigenden Sandhügeln.",
+        "Muldenförmiges Relief schützt vor harten, austrocknenden Sahara-Winden.",
+        "Begünstigt unerwartet dichtes Wachstum von Akazien und Baobabs.",
+        "Hydrologische Auffangrinne für lokale Niederschläge.",
+        "Stabilste und wichtigste Weide-Ebene für Rinderherden der Wodaabe."
+      ]
+    },
+    {
+      "id": "goulbi-kaba-relief-v2",
+      "descriptionAdvanced": "Das Goulbi-Kaba-Tal ist ein prägnanter, tief eingeschnittener Nebenarm des größeren Goulbi-Flusssystems im südlichen Niger. Sein Relief ist deutlich dramatischer als das der Hauptflüsse, mit steilen, stark erodierten Uferwänden, die oft aus rotem Lateritstein bestehen. Das enge Tal funktioniert wie ein Trichter, in dem sich das Wasser bei Sommergewittern gefährlich schnell staut und als tosender Bachlauf talabwärts schießt. Dieses dynamische Relief erschwert zwar die Besiedlung direkt am Ufer, hinterlässt aber in den kleinen Senken extrem mineralreiche Böden, die von den Bauern geschickt für den spezialisierten Gemüsebau genutzt werden.",
+      "factsAdvanced": [
+        "Tief eingeschnittener, prägnanter Nebenarm des großen Goulbi-Systems.",
+        "Relief dominiert von steilen, stark erodierten roten Laterit-Uferwänden.",
+        "Enges Tal fungiert als Trichter für gefährlich schnelle Sturzfluten.",
+        "Sturzfluten schießen bei Sommergewittern tosend talabwärts.",
+        "Erschwert die ständige Besiedlung in unmittelbarer Ufernähe.",
+        "Hinterlässt in kleinen Senken extrem mineralreiche Böden für Gemüsebau."
+      ]
+    },
+    {
+      "id": "ife-massif-relief-v2",
+      "descriptionAdvanced": "Der Iférouane-Massiv-Anstieg bildet die spektakuläre östliche Barriere des vulkanischen Aïr-Gebirges. Diese monumentale Felswand erhebt sich fast senkrecht aus dem umgebenden Wüstensand und bietet einen der dramatischsten Anblicke Nigers. Das Relief ist geprägt von riesigen, erstarrten Lavaströmen und schwarzen Basaltsäulen, die im Sonnenlicht unnatürlich glänzen. Der steile Anstieg blockiert effektiv die heißen Ostwinde und erzeugt an seinem Fuß eine windstille Zone, in der die grüne Oase Iférouane florieren kann. Für geübte Wanderer bieten die versteckten Kletterpfade auf diesem Massiv den besten Blick über die endlosen Dünen der Ténéré.",
+      "factsAdvanced": [
+        "Spektakuläre, fast senkrechte östliche Barriere des Aïr-Gebirges.",
+        "Monumentale Felswand erhebt sich dramatisch aus dem Wüstensand.",
+        "Relief geprägt von riesigen, erstarrten Lavaströmen und Basaltsäulen.",
+        "Steiler Anstieg blockiert effektiv die harten, heißen Ostwinde.",
+        "Ermöglicht durch Windschatten das Florieren der Oase Iférouane.",
+        "Versteckte Kletterpfade bieten Ausblicke über die Ténéré-Wüste."
+      ]
+    },
+    {
+      "id": "goulbi-goulbi-relief-v2",
+      "descriptionAdvanced": "Die Goulbi-Goulbi-Talung ist ein feines Netzwerk aus flachen, trockenen Rinnen, das sich wie ein kapillares Gefäßsystem durch die südlichen Steppen zieht. Im Gegensatz zu den großen Flusstälern hat diese Talung ein sehr weiches Relief mit flachen Übergängen, weshalb sie in der Trockenzeit fast unsichtbar mit der Landschaft verschmilzt. Erst bei Regen wird die geniale Topografie sichtbar, wenn hunderte kleine Rinnsale das Wasser in größere natürliche Senken ableiten. Diese flache, wassersammelnde Topografie ist das Erfolgsgeheimnis der lokalen Bauern, die das Gelände mit kleinen Erdwällen terrassieren, um jeden kostbaren Tropfen Regen auf ihren Feldern zu halten.",
+      "factsAdvanced": [
+        "Feines Netzwerk aus flachen Rinnen in den südlichen Steppen Nigers.",
+        "Weiches Relief mit extrem flachen landschaftlichen Übergängen.",
+        "Verschmilzt während der Trockenzeit fast unsichtbar mit der Umgebung.",
+        "Leitet bei Regenwasser effizient hunderte kleine Rinnsale in Senken ab.",
+        "Topografisches Erfolgsgeheimnis für lokale Landwirtschaft.",
+        "Erlaubt den Bau von Erdwällen, um jeden Tropfen Regenwasser zu speichern."
+      ]
+    },
+    {
+      "id": "er-erg-tenere-relief-v2",
+      "descriptionAdvanced": "Die Dünen des Erg Ténéré formen eines der imposantesten und beständig veränderlichsten Reliefs der gesamten Sahara. Dieses riesige Sandmeer besteht aus einer unendlichen Abfolge von 'Ghourds' – gigantischen, sternförmigen Dünen, die sich hunderte Meter in den stahlblauen Himmel schrauben. Das Relief wird exklusiv von der Kraft der Winde diktiert; während der Luvhang flach und festgepresst ist, bricht der Leehang steil und rutschig ab. Die ständige Wanderung dieser gewaltigen Sandberge verschluckt alte Karawanenrouten und formt Täler aus reinem Sand, die Navigationsversuche ohne lokales Tuareg-Wissen absolut lebensmüde machen.",
+      "factsAdvanced": [
+        "Eines der imposantesten, sich stetig verändernden Reliefs der Sahara.",
+        "Besteht aus einer endlosen Abfolge gigantischer, sternförmiger Dünen.",
+        "Dünen ('Ghourds') schrauben sich hunderte Meter in den Himmel.",
+        "Relief wird exklusiv durch die Windströmungen der Wüste geformt.",
+        "Steile Leehänge und flache Luvhänge prägen die Topografie.",
+        "Ständige Sandwanderung macht Navigation ohne Tuareg-Wissen extrem gefährlich."
+      ]
+    },
+    {
+      "id": "gourma-lowland-relief-v2",
+      "descriptionAdvanced": "Das Gourma-Tiefland im Südwesten Nigers ist eine immense, topografisch völlig ebene Fläche, die durch kaum wahrnehmbare Höhenunterschiede charakterisiert ist. Dieses flache Relief sorgt dafür, dass Niederschläge extrem langsam abfließen und sich in der Savanne kleine, feuchte Senken bilden, die oft monatelang Bestand haben. Geologisch ist die Region von tiefen Sedimentschichten überzogen, die den Anbau von Getreide extrem erleichtern. Für die großen Elefantenherden, die durch das Gourma ziehen, ist das Fehlen von steilen Hindernissen und Canyons ein entscheidender Faktor für ihre enorm weiten, kraftsparenden jährlichen Wanderungen.",
+      "factsAdvanced": [
+        "Immense, topografisch völlig ebene Fläche im Südwesten Nigers.",
+        "Charakterisiert durch kaum wahrnehmbare geologische Höhenunterschiede.",
+        "Flaches Relief verlangsamt den Abfluss wertvoller Niederschläge.",
+        "Tiefe, flache Sedimentschichten erleichtern den Getreideanbau erheblich.",
+        "Fehlen von Hindernissen begünstigt weite Wanderungen der Elefanten.",
+        "Lässt kleine, feuchte Senken entstehen, die das Mikroklima kühlen."
+      ]
+    },
+    {
+      "id": "eastern-damagaram-relief-v2",
+      "descriptionAdvanced": "Das Östliche Damagaram-Plateau präsentiert sich als raue, unwirtliche Bruchzone, wo die bebaubare Savanne allmählich in den Wüstensand abgleitet. Das Relief fällt hier in leichten Terrassenstufen nach Osten ab, gezeichnet von tiefen Furchen, die vor Jahrtausenden von abfließendem Oberflächenwasser erodiert wurden. Der felsige, oft mit Lateritkrusten überzogene Boden ist extrem hart, was die Regenversickerung erschwert und die Landschaft in ein trockenes, buschiges Ödland verwandelt. Diese topografische Härte dient als natürliche Barriere gegen die Ausbreitung der Wüste und ist primär die Domäne zäher, nomadischer Kamelzüchter.",
+      "factsAdvanced": [
+        "Raue, unwirtliche Bruchzone am Übergang von Savanne zu Wüste.",
+        "Relief fällt in leichten, erodierten Terrassenstufen nach Osten ab.",
+        "Gezeichnet von tiefen geologischen Furchen urzeitlichen Wassers.",
+        "Extrem harter, von Lateritkrusten überzogener, felsiger Boden.",
+        "Harte Topografie fungiert als natürliche Barriere gegen Wüstenbildung.",
+        "Domäne zäher, nomadischer Kamelzüchter, da Ackerbau kaum möglich ist."
+      ]
+    },
+    {
+      "id": "goulbi-kane-relief-v2",
+      "descriptionAdvanced": "Die Goulbi-Kane-Talung ist ein malerisches, kleineres Flusstalbecken, dessen Relief eine sanfte U-Form aufweist. Diese sanften, kaum abbrechenden Uferhänge ermöglichen es den Wassermassen der Regenzeit, über die Ufer zu treten und breite, extrem fruchtbare Überschwemmungsauen zu bilden, ohne die zerstörerische Kraft steiler Schluchten zu entwickeln. Wenn das Wasser zurückgeht, hinterlässt es eine perfekte topografische Terrasse für die Landwirtschaft. Bauern nutzen dieses terrassierte Relief, um in konzentrischen Kreisen um das Restwasser herum wertvolles Wurzelgemüse und Zwiebeln zu kultivieren, was das Tal zu einem kleinen agrarischen Paradies macht.",
+      "factsAdvanced": [
+        "Malerisches, kleineres Flusstalbecken mit einer sanften U-Form.",
+        "Sanfte Uferhänge erlauben schonende Ausbreitung von Überschwemmungen.",
+        "Verhindert die zerstörerische Kraft starker Strömungen steiler Schluchten.",
+        "Bildet extrem fruchtbare, weitläufige Überschwemmungsauen.",
+        "Hinterlässt perfekte topografische Terrassen für den Gemüseanbau.",
+        "Bauern pflanzen in konzentrischen Kreisen um das Restwasser herum."
+      ]
+    },
+    {
+      "id": "tchad-basin-relief-v2",
+      "descriptionAdvanced": "Das Niger-Becken des Tschad ist eine immense geologische Senkungszone im Südosten Nigers, deren Relief durch eine kontinuierliche, fast unsichtbare Neigung in Richtung des Tschadsees geprägt ist. Die Landschaft fällt so gleichmäßig ab, dass sie wie ein gigantischer, hunderte Kilometer breiter Trichter wirkt. Diese topografische Struktur sammelt das gesamte Oberflächenwasser und die saisonalen Flüsse des Ostens. Der Boden ist bedeckt mit alten Sedimenten eines ehemals viel größeren Sees. Das Fehlen jeglicher Erhebungen lässt die starken Sahel-Winde ungebremst über die Ebenen fegen, was die Bodenerosion beschleunigt und den Kampf gegen die Wüstenbildung erschwert.",
+      "factsAdvanced": [
+        "Immense geologische Senkungszone im tiefen Südosten Nigers.",
+        "Geprägt durch kontinuierliche, flache Neigung Richtung Tschadsee.",
+        "Wirkt topografisch wie ein gigantischer, wassersammelnder Trichter.",
+        "Boden ist bedeckt mit fruchtbaren Sedimenten eines prähistorischen Sees.",
+        "Fehlen von Erhebungen erlaubt ungebremste, scharfe Sahel-Winde.",
+        "Flaches Relief beschleunigt die Erosion und erschwert Wüstenbekämpfung."
+      ]
+    },
+    {
+      "id": "air-massif-relief-v2",
+      "descriptionAdvanced": "Der Aïr-Gebirgs-Kern ist das hochkristalline, vulkanische Herzstück des Massivs und bietet das wildeste, zerrissenste Relief des gesamten Landes. Es besteht aus einer dichten Ansammlung dunkler, fast kreisrunder Vulkanschlote, die vor Millionen von Jahren aktiv waren und nun als gewaltige Basalttürme in den Himmel ragen. Zwischen diesen Türmen haben sich tiefe, kraterförmige Senken gebildet, die in der Tuareg-Sprache 'Koris' genannt werden und in denen sich kostbares Regenwasser sammelt. Dieses brutale, vertikale Relief ist extrem schwer zu durchqueren und schuf eine isolierte Welt, in der endemische Pflanzen und bedrohte Tierarten der Sahara bis heute überleben.",
+      "factsAdvanced": [
+        "Hochkristallines, vulkanisches Herzstück des mächtigen Aïr-Massivs.",
+        "Bietet das wildeste, zerrissenste, vertikale Relief des Landes.",
+        "Geprägt durch alte Vulkanschlote, die als Basalttürme aufragen.",
+        "Beherbergt tiefe kraterförmige Senken ('Koris') zum Wassersammeln.",
+        "Extrem schwer zugängliche Topografie schuf eine biologisch isolierte Welt.",
+        "Rückzugsort für endemische Pflanzen und bedrohte Wüsten-Tierarten."
+      ]
+    },
+    {
+      "id": "bilma-escarpment-relief-v2",
+      "descriptionAdvanced": "Die Bilma-Steilstufe ist eine markante, über hunderte Kilometer fast schnurgerade verlaufende Geländestufe (Escarpment), die das Kaouar-Tal vom höher gelegenen Wüstenplateau trennt. Diese massive Kalksteinwand fällt dramatisch bis zu hundert Meter fast vertikal ab. Ihr Relief ist der Schlüssel zum Leben in der Ténéré: Die Steilstufe zwingt den ständigen, trockenen Ostwind zum Aufsteigen und blockiert Sandstürme, während sie gleichzeitig tiefes Grundwasser an ihrer Basis (der Oase Bilma) an die Oberfläche drückt. Die schroffen, erodierten Klippen der Steilstufe leuchten spektakulär bei Sonnenuntergang und dienen Karawanen seit Jahrtausenden als unfehlbarer Kompass.",
+      "factsAdvanced": [
+        "Markante, fast schnurgerade Geländestufe über hunderte Kilometer.",
+        "Trennt das Kaouar-Tal dramatisch vom hochgelegenen Wüstenplateau.",
+        "Kalksteinwand fällt fast vertikal bis zu 100 Meter in die Tiefe ab.",
+        "Relief blockiert Sandstürme und zwingt Grundwasser an die Oberfläche.",
+        "Ermöglicht durch ihre Topografie die Existenz der großen Bilma-Oase.",
+        "Schroffe Klippen dienen als unfehlbarer visueller Wüsten-Kompass."
+      ]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "descriptionAdvanced": "Die Kaouar-Klippen setzen die majestätische geologische Barriere im Nordosten Nigers fort und formen eine steile, zusammenhängende Felswand, die die Oasenkette im Osten flankiert. Das Relief dieser Felsen ist stark von äolischer Verwitterung (Winderosion) gezeichnet, was zu tief ausgewaschenen Höhlen, überhängenden Galerien und spitzen Pfeilern geführt hat. Diese Felsformationen bieten nicht nur spektakuläre Schattenspiele, sondern fungieren auch als natürlicher Hitzeschild für die darunterliegenden Dattelpalmenhaine. Historisch boten die zahlreichen natürlichen Aushöhlungen der Klippen Zufluchtsorte für nomadische Stämme, um ihre Vorräte vor Sand und Hitze sicher zu lagern.",
+      "factsAdvanced": [
+        "Steile, zusammenhängende Felswand im Nordosten Nigers.",
+        "Flankiert und schützt die gesamte grüne Kaouar-Oasenkette.",
+        "Relief stark gezeichnet durch äolische Verwitterung (Winderosion).",
+        "Formte tiefe Höhlen, überhängende Galerien und spitze Fels-Pfeiler.",
+        "Fungiert topografisch als mächtiger natürlicher Hitzeschild für Palmen.",
+        "Aushöhlungen boten Nomaden historisch kühle Lagerplätze für Vorräte."
+      ]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "descriptionAdvanced": "Die Fachi-Erhebung ist ein einzelner, prominenter Hügel, der völlig unerwartet aus der ansonsten vollkommen flachen und sandigen Ténéré-Wüste herausragt. Dieser isolierte Berg aus dunklem Vulkangestein wirkt wie eine Leuchtturm-Insel in einem endlosen gelben Meer. Das raue, felsige Relief des Hügels lenkt den Wind so ab, dass der Sand um ihn herum abgelagert wird, anstatt ihn zu verschütten. An seinem Fuß entspringen die lebensrettenden artesischen Quellen der Fachi-Oase. Für die Salz-Karawanen der Tuareg ist dieser markante Hügel seit Generationen die wichtigste Landmarke, die das Überleben auf der gnadenlosen Route nach Bilma garantiert.",
+      "factsAdvanced": [
+        "Einzelner, prominenter Hügel inmitten der flachen Ténéré-Wüste.",
+        "Besteht aus dunklem Vulkangestein, wirkt wie ein Leuchtturm im Sandmeer.",
+        "Raues Relief lenkt Winde ab und verhindert das Verschütten der Oase.",
+        "Am Fuß der Erhebung entspringen lebensrettende artesische Quellen.",
+        "Die wichtigste geologische Landmarke für Tuareg-Salzkarawanen.",
+        "Sichert die Navigation auf der gnadenlosen historischen Route nach Bilma."
+      ]
+    },
+    {
+      "id": "koutous-east-relief-v2",
+      "descriptionAdvanced": "Der Östliche Koutous-Ausläufer ist eine geologisch stark degradierte Hochebene, die sanft in die weiten Sandebenen der östlichen Sahara abgleitet. Im Gegensatz zum zentralen Koutous-Massiv ist das Relief hier weniger durch scharfe Klippen, sondern durch abgerundete, von Wind und Wetter rundgeschliffene Gesteinsformationen geprägt. Breite, mit Geröll gefüllte Täler trennen kleine Hochebenen voneinander. Dieses topografische Gefälle ermöglicht ein extrem schnelles Abfließen spärlicher Regenfälle, was die Böden extrem trocken hält. Dennoch bietet dieses weiche, gewellte Relief den perfekten, offenen Weidegrund für die zähen Kamelherden der lokalen Tubu-Nomaden.",
+      "factsAdvanced": [
+        "Geologisch stark degradierte Hochebene am Rand der östlichen Sahara.",
+        "Geprägt durch abgerundete, windgeschliffene Gesteinsformationen.",
+        "Relief fällt in breiten, geröllgefüllten Tälern sanft ab.",
+        "Topografisches Gefälle sorgt für sehr schnelles Abfließen von Regenwasser.",
+        "Offene, gewellte Landschaft bietet perfekte Sicht für Hirten.",
+        "Idealer, weitläufiger Weidegrund für die zähen Kamelherden der Tubu."
+      ]
+    }
+  ]
+}

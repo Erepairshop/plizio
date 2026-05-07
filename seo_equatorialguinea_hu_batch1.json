@@ -1,0 +1,39 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mbini-cities-v2",
+      "descriptionAdvanced": "Mbini, a Río Muni régió part menti városa, a Benito-folyó torkolatánál fekszik. A város az elmúlt években jelentős fejlődésen ment keresztül, különösen a híd megépülése után, amely összeköti a tengerparti övezetet a szárazföld belsejével. A területet körülvevő sűrű mangroveerdők és folyóvízi élőhelyek gazdag élővilágot biztosítanak, ami a helyi halászat számára is meghatározó. Mbini egyre inkább fontos turisztikai és logisztikai központtá válik, amely összeköti a modern infrastruktúrát a hagyományos afrikai környezettel. Tanterv: Földrajz K6, Környezettan K8.",
+      "factsAdvanced": [
+        "A Benito-folyó torkolatánál fekszik.",
+        "A város egy modern híddal rendelkezik.",
+        "Gazdag mangrove-ökoszisztéma veszi körül.",
+        "Fontos helyi halászközpont.",
+        "Növekvő logisztikai jelentőségű város.",
+        "A part menti turizmus egyik ígéretes helyszíne."
+      ]
+    },
+    {
+      "id": "aconibe-cities-v2",
+      "descriptionAdvanced": "Aconibe Egyenlítői-Guinea belsejében, Wele-Nzas tartományban található település, amely a mezőgazdasági régiók kereskedelmi központjaként ismert. A város környezete dombos, trópusi erdőkkel borított, ahol a helyi gazdálkodók főként maniókát és kakaót termesztenek. Aconibe stratégiai elhelyezkedése miatt fontos gyűjtőpont a környező falvakból érkező áruk számára. A település életét a hagyományos kereskedelmi utak és a helyi piacok nyüzsgése határozza meg, amelyek elengedhetetlenek a tartományi ellátás szempontjából. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      "factsAdvanced": [
+        "Wele-Nzas tartomány egyik települése.",
+        "Mezőgazdasági kereskedelmi központ.",
+        "Fő termények: manióka és kakaó.",
+        "Fontos szerepet játszik a regionális élelmiszerellátásban.",
+        "A környező erdős területek jelentős biodiverzitással bírnak.",
+        "A helyi piacok a régió társadalmi és gazdasági találkozópontjai."
+      ]
+    }
+  ]
+}

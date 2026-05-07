@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "farim-phosphatmine-economic-v2",
+      "descriptionAdvanced": "Mina de Fosfați din Farim este unul dintre cele mai promițătoare și mari proiecte extractive din Africa de Vest, vizând exploatarea unui zăcământ gigantic descoperit în nord-estul țării. Resursele au fost evaluate la peste 100 de milioane de tone de minereu brut, capabile să producă concentrat de fosfat de înaltă calitate folosit global ca fertilizator agricol. Proiectul implică o planificare logistică masivă, necesitând barje care să transporte minereul pe Râul Cacheu până la un port maritim pentru export. Cu toate acestea, dezvoltarea sa a fost amânată repetat din cauza lipsei de capital, instabilității politice și a îngrijorărilor majore privind poluarea apelor freatice care deservesc comunitățile locale, amenințând ecosistemul fragil de mangrove de pe râu. Chimie K8 — extracția mineralelor și îngrășăminte.",
+      "factsAdvanced": [
+        "Rezervele zăcământului depășesc 100 de milioane de tone de fosfați.",
+        "A fost descoperit inițial în timpul explorărilor geologice din anii 1980.",
+        "Se prevede transportul minereului exclusiv pe barje prin Râul Cacheu.",
+        "Exploatarea sa promite să dubleze Produsul Intern Brut (PIB) al țării.",
+        "Investitorii principali variază între companii canadiene, asiatice și europene.",
+        "Prezintă riscuri ecologice ridicate pentru comunitățile de pescari locali."
+      ]
+    },
+    {
+      "id": "boe-bauxitmine-economic-v2",
+      "descriptionAdvanced": "Zăcământul de Bauxită de la Boé, ascuns sub dealurile accidentate și roșii din estul Guineei-Bissau, la granița cu Guineea (Conakry), reprezintă cea mai importantă bogăție minerală neatinsă a țării. Zăcământul conține bauxită (minereul principal din care se obține aluminiul) de un grad superior de puritate. Promis inițial investitorilor chinezi și angolezi pentru exploatare masivă, proiectul s-a oprit din cauza lipsei acute de infrastructură: este nevoie de un port de ape adânci (probabil la Buba) și a zeci de kilometri de drumuri sau cale ferată pentru export. În prezent, zona este un paradox: deși stă pe miliarde de dolari sub pământ, populația locală din regiunea Gabú trăiește în sărăcie extremă, bazându-se pe o agricultură grea de subzistență. Fizică K8 — metale ușoare și infrastructură.",
+      "factsAdvanced": [
+        "Rezervele sunt estimate la o magnitudine de peste 110 milioane de tone.",
+        "Minereul este esențial pentru producerea globală de aluminiu.",
+        "Lipsește complet infrastructura rutieră grea capabilă să susțină camioanele.",
+        "A fost vizat de un mega-acord cu Angola (Bauxite Angola) în 2007.",
+        "Zăcământul se află la suprafață, permițând mineritul relativ ieftin în carieră deschisă.",
+        "Zona este locul istoric unde s-a declarat independența națională (1973)."
+      ]
+    },
+    {
+      "id": "varela-schwermineralsand-economic-v2",
+      "descriptionAdvanced": "Proiectul de nisipuri minerale grele din Varela, situat pe coasta nord-vestică a Guineei-Bissau, vizează depozitele bogate în zircon, ilmenit și rutil, folosite pe scară largă în industriile aeronautică, a vopselelor și pentru producerea titanului. În ciuda valorii lor economice uriașe, concesiunea a declanșat un val de furie la nivel național. Excavațiile necesare amenință distrugerea totală a plajelor neatinse cu pini Casuarina, un ecosistem protejat care servește ca zonă de cuibărit pentru broaște țestoase și sursă de turism. Comunitățile Diola au organizat proteste puternice, argumentând că extracția le distruge orezăriile de coastă prin eliberarea de reziduuri toxice și intruziunea apei sărate. Proiectul ilustrează lupta clasică dintre exportul de materii prime și protecția mediului ambiant. Geografie K7 — conflicte de mediu.",
+      "factsAdvanced": [
+        "Vizează extragerea de zircon, rutil și ilmenit, esențiale pentru metale dure.",
+        "Mineralele de aici sunt rezultatul depunerilor oceanice de peste mii de ani.",
+        "Sute de pini Casuarina plantați istoric sunt în pericol de a fi distruși.",
+        "Exploatarea pe plajă deteriorează barierele naturale de nisip împotriva oceanului.",
+        "Locuitorii acuză companiile de creșterea salinității în pânza de apă freatică.",
+        "Lucrările au fost oprite repetat de guvern din cauza presiunii activiștilor."
+      ]
+    },
+    {
+      "id": "bissau-cicer-brauerei-economic-v2",
+      "descriptionAdvanced": "Fabrica CICER (Companhia Industrial de Cervejas e Refrigerantes) din Bissau a fost cândva un pilon al industriei naționale și singura fabrică majoră de bere și băuturi răcoritoare din Guineea-Bissau. Inaugurată cu fast în epoca colonială târzie, fabrica furniza băuturi populare (precum marca Pampa) care deveniseră o marcă a mândriei naționale. Totuși, decenii de instabilitate politică, conflictele armate (mai ales Războiul Civil din 1998) și concurența masivă a berilor de import ieftine din Senegal și Portugalia au dus la colapsul utilajelor sale și la închiderea liniilor de producție. Ruinele marii fabrici din capitală stau astăzi ca un memento al dezindustrializării bruște, eforturile de privatizare și repornire a unității eșuând rând pe rând. Economie K6 — industrializare și privatizare.",
+      "factsAdvanced": [
+        "Fondată în anii 1960 pentru a furniza băuturi răcoritoare și bere populației urbane.",
+        "Bere locală, numită Pampa (după eroina Okinka Pampa), era extrem de populară.",
+        "Fabrica a suferit jafuri și daune ireparabile în timpul Războiului Civil din 1998.",
+        "Importurile masive neimpozitate din țările vecine au ruinat rentabilitatea sa.",
+        "Găzduia sute de muncitori direcți, fiind un angajator major în capitală.",
+        "Tentativele guvernamentale de a atrage capital străin pentru reconstrucție au eșuat."
+      ]
+    },
+    {
+      "id": "bissau-kraftwerk-economic-v2",
+      "descriptionAdvanced": "Centrala Termică din Bissau (Central Elétrica de Bissau) este inima sistemului energetic al capitalei, operată de compania națională EAGB. Mult timp, a reprezentat o sursă de frustrare uriașă pentru cetățeni; generatoarele vechi pe motorină (diesel și păcură grea) se stricau frecvent, lăsând capitala în întuneric săptămâni întregi, forțând companiile și spitalele să se bazeze pe generatoare private. Recent, cu sprijinul financiar al Băncii Mondiale și al donatorilor africani, centrala a beneficiat de motoare noi de zeci de Megawați, ceea ce a dus la stabilizarea, pentru prima dată după decenii, a iluminatului stradal și public. Cu toate acestea, costul importului de petrol menține prețul electricității printre cele mai ridicate din Africa, frânând dezvoltarea industrială de scară largă. Fizică K7 — termodinamica și eficiența energetică.",
+      "factsAdvanced": [
+        "Funcționează aproape exclusiv pe bază de derivate din petrol (păcură și diesel).",
+        "A suferit o modernizare masivă cu generatoare noi de 15 MW finanțată extern.",
+        "Costul kilowatt-ului rămâne excepțional de ridicat din cauza importului de combustibil.",
+        "Timp de decenii (1990-2010), capitala a experimentat un 'blackout' aproape total.",
+        "EAGB (compania națională) gestionează direct producția și distribuția sa.",
+        "Se fac eforturi tehnice pentru a conecta rețeaua la barajele hidroelectrice din țările vecine."
+      ]
+    },
+    {
+      "id": "industriezone-bra-economic-v2",
+      "descriptionAdvanced": "Zona Industrială Brá, localizată la marginea nordică a capitalei Bissau, este concepută pentru a fi principalul hub manufacturier al țării. Terenul găzduiește depozite angro, ateliere de mecanică grea, mici unități de prelucrare a plasticului și fabrici artizanale de gheață (esențiale pentru conservarea peștelui). Deși viziunea inițială a vizat atragerea corporațiilor internaționale pentru prelucrarea masivă a nucilor de caju, mediul de afaceri volatil a limitat dezvoltarea. Zona suferă de lipsa infrastructurii rutiere interne adecvate; drumurile se transformă în noroi de netrecut în timpul lunilor musonice, blocând camioanele. Totuși, Brá rămâne cel mai bun indicator al antreprenoriatului local din Guineea-Bissau, plin de micii comercianți inovatori care refolosesc metale și componente auto. Economie K6 — zone antreprenoriale.",
+      "factsAdvanced": [
+        "Reprezintă principalul perimetru industrial formal al capitalei Bissau.",
+        "Găzduiește multiple ateliere de reciclare auto (dezmembrări de camioane).",
+        "Fabricile de gheață de aici deservesc sute de pescari din Portul Bandim.",
+        "Nu deține un sistem eficient de canalizare pentru apele pluviale (risc de inundație).",
+        "Prelucrarea primară a anacardelor se face aici la nivel extrem de redus.",
+        "Vizarea de noi investitori este îngreunată de fluctuațiile de tensiune electrică."
+      ]
+    },
+    {
+      "id": "cumere-industriekomplex-economic-v2",
+      "descriptionAdvanced": "Complexul Industrial Cumere, ridicat lângă Bissau, a fost cel mai mare eșec al viziunii industriale post-coloniale din istoria Guineei-Bissau. Construit la finalul anilor 1970 cu sprijin sovietic masiv, acest complex gigantic a fost gândit ca o unitate universală pentru prelucrarea completă a producției naționale de arahide și extragerea uleiurilor vegetale, capabilă să sprijine o întreagă economie urbană. Cu toate acestea, din cauza erorilor colosale de planificare (capacitatea utilajelor depășea cu mult cantitatea totală de recoltă națională), a lipsei rețelelor de energie și a pieselor de schimb, uzina nu a funcționat niciodată la capacitate și a fost abandonată prematur. Astăzi, structurile ruginite de oțel acoperite de iarbă de savană zac ca un 'elefant alb' clasic. Istorie K8 — industrializarea planificată și eșecuri.",
+      "factsAdvanced": [
+        "A fost construit la sfârșitul anilor '70, în era socialismului post-independență.",
+        "Proiectat inițial cu ajutor tehnic și utilaje din URSS.",
+        "Capacitatea de procesare a uzinei era mai mare decât producția de arahide a țării.",
+        "Nu a atins niciodată mai mult de o fracțiune din potențialul său de producție.",
+        "Situația sa este un exemplu clasic de 'elefant alb' în economia africană.",
+        "Locația ruinelor este acum adesea vizitată de fotografi atrași de estetica industrială abandonată."
+      ]
+    },
+    {
+      "id": "antula-steinbruch-economic-v2",
+      "descriptionAdvanced": "Cariera din Antula, situată strategic într-un cartier de la periferia orașului Bissau, este inima sectorului construcțiilor civile din capitală. Aici, piatra brută (mai ales lateritul și bazaltul de suprafață) este excavată și spartă pentru a obține pietrișul necesar la producerea cimentului armat și a cărămizilor de beton. Deși unele utilaje grele există, o parte șocant de mare din muncă este efectuată manual, în condiții extrem de dure: grupuri de bărbați și chiar tineri sparg blocurile de rocă folosind doar ciocane grele, sub soarele ecuatorial, câștigând un venit zilnic modest în funcție de volumul livrat. Deși esențială pentru boom-ul imobiliar al capitalei, cariera prezintă probleme severe de sănătate din cauza prafului (silicoză) și a accidentelor de muncă. Sociologie K8 — condiții de muncă și urbanizare.",
+      "factsAdvanced": [
+        "Furnizează majoritatea agregatelor (pietrișului) necesare pentru fundațiile din Bissau.",
+        "Terenul carierei a fost extins semnificativ datorită boom-ului imobiliar recent.",
+        "Zeci de lucrători independenți practică spargerea rocilor complet manual.",
+        "Boli respiratorii (precum silicoza) sunt foarte frecvente din cauza prafului necontrolat.",
+        "Piatra de aici este un laterit foarte dens și roci vulcanice învechite.",
+        "Munca în carieră este plătită strict proporțional cu grămada de pietriș produsă."
+      ]
+    },
+    {
+      "id": "bissau-zementwerk-economic-v2",
+      "descriptionAdvanced": "Fabrica de Ciment din Bissau este o entitate esențială pentru dezvoltarea infrastructurii naționale. Până la deschiderea unor facilități de măcinare (grinding plants) pe teritoriul național, Guineea-Bissau a depins integral de sacii de ciment importați pe nave din Europa sau din Senegal, ceea ce bloca dezvoltarea infrastructurii prin costuri exorbitante. Facilitățile actuale nu produc clincherul de la zero, ci importă materia primă masivă pe care o macină și o amestecă local, scăzând astfel substanțial prețurile de retail pentru sacii de ciment. Funcționarea uzinei este uneori perturbată de descărcările întârziate din portul Bissau, însă rămâne un pilon vital pentru construcția de drumuri noi, școli și cartiere periferice în creștere. Chimie K7 — lianți, clincher și construcții.",
+      "factsAdvanced": [
+        "Uzina este bazată pe măcinarea clincherului de import, neavând cuptoare proprii.",
+        "A redus dependența statului de importul produselor de beton deja finite din Dakar.",
+        "Sacii de 50 kg de ciment produși local au ajutat la accelerarea clădirilor rezidențiale.",
+        "Compania colaborează cu mari furnizori nord-africani și europeni de materie primă.",
+        "Se bazează pe energia rețelei EAGB, funcționarea fiind sensibilă la penele de curent.",
+        "Capacitatea de procesare acoperă cu ușurință nevoile interne actuale ale pieței."
+      ]
+    },
+    {
+      "id": "bafata-ziegelei-economic-v2",
+      "descriptionAdvanced": "Fabrica de Cărămizi din Bafatá este inima uneia dintre cele mai vechi meserii de producție a materialelor din regiunea centrală a țării. Aici, solul argilos bogat, extras din albiile retrase ale Râului Geba în timpul sezonului secetos, este modelat și ars în cuptoare tradiționale. Produsul finit, o cărămidă roșiatică extrem de durabilă, a fost folosit de peste un secol pentru construcția principalelor clădiri istorice și administrative din estul țării, oferind o izolație termică remarcabilă, absolut necesară în căldura extremă a Bafatei. Spre deosebire de betonul modern care absoarbe căldura, casele locale construite din aceste cărămizi rămân răcoroase. Astăzi, fabrica asigură un loc de muncă stabil pentru comunitatea Fula în lunile în care agricultura este inactivă. Fizică K6 — inerția termică a materialelor.",
+      "factsAdvanced": [
+        "Folosește lutul moale obținut direct din albiile Râului Geba.",
+        "Cuptoarele funcționează masiv cu lemne și deșeuri vegetale drept combustibil.",
+        "Cărămizile produse au o rezistență termică net superioară blocurilor de ciment.",
+        "Producția în masă este oprită total în perioada ploilor musonice (august-octombrie).",
+        "Clădirile coloniale istorice din Bafatá au fost ridicate folosind exact acest material.",
+        "Munca grea de frământare a lutului este frecvent prestată de tineri ucenici."
+      ]
+    },
+    {
+      "id": "port-von-bolama-economic-v2",
+      "descriptionAdvanced": "Portul de pe Insula Bolama, cu debarcaderul său elegant dar ruinat și utilajele metalice ruginite, stă mărturie istoriei în care acest loc servea drept principal port și punct de export pentru prima capitală a Guineei Portugheze, conectând teritoriul cu Europa spre finalul secolului XIX. Cheiul a fost proiectat pentru a primi nave de marfă încărcate cu arahide și piei exotice. În prezent, portul a pierdut total statutul comercial, fiind doar locul de acostare pentru feribotul artizanal care transportă ocazional orez și fructe tropicale dinspre continent. Rămășițele macaralelor din oțel și pașii largi coborând în apă sunt populare printre turiști, deși apele puțin adânci împiedică orice navigație de tonaj greu. Istorie K7 — porturi coloniale decăzute.",
+      "factsAdvanced": [
+        "A fost cel mai important punct de tranzit maritim la începutul anilor 1900.",
+        "Structurile principale din fontă și oțel zac ruginite în apa sărată de peste 50 de ani.",
+        "Declinul a fost cauzat de mutarea oficială a capitalei la Bissau (1941).",
+        "Servește în prezent doar canoelor lungi locale și micilor bărci de pasageri.",
+        "Aici debarcau primele hidroavioane ale Poștei Aeropostale spre Africa de Vest.",
+        "Infrastructura de piatră a rezistat parțial, grație mortarului colonial portughez."
+      ]
+    },
+    {
+      "id": "port-von-cacheu-economic-v2",
+      "descriptionAdvanced": "Portul de la Cacheu, situat adânc în estuarul sinuos al râului cu același nume, poartă cicatricile istoriei timpurii a comerțului transatlantic, începând ca unul dintre primele puncte portugheze fortificate de extracție a sclavilor, aurului și a chihlimbarului în secolul al XVI-lea. Poziția sa geografică protejată, la zeci de kilometri de valurile deschise ale oceanului, l-a făcut un sanctuar perfect. Astăzi, cheiul de ciment și lemn servește unei aglomerări modeste, dar vitale, de pirogi pescărești motorizate. Aici, economia locală prosperă din vânzarea fructelor de mare prinse direct printre mangrove, de la barracuda la pești prădători de apă sălcie. Proiectele recente urmăresc reamenajarea acestui doc istoric pentru a încuraja turismul legat de parcul național ecologic vecin. Istorie K8 — rute comerciale atlantice primare.",
+      "factsAdvanced": [
+        "Are o adâncime suficientă (cca 5-8 metri) pentru a primi vase medii fluviale.",
+        "A fost centrul 'Căpităniei de Cacheu' (Capitania de Cacheu) în secolul XVI.",
+        "Un muzeu nou dedicat comerțului cu sclavi a fost construit chiar lângă port.",
+        "Estuarul râului apără navele ancorate aici de furtunile oceanice violente.",
+        "Se află la aproximativ 100 km de estuar spre interior, apărat de mangrove.",
+        "Majoritatea flotei care acostează astăzi este formată din bărci colorate de pescari."
+      ]
+    },
+    {
+      "id": "port-von-farim-economic-v2",
+      "descriptionAdvanced": "Portul de la Farim a cunoscut un declin uriaș din anii săi de glorie ai epocii coloniale târzii, când Râul Cacheu era principala autostradă pentru transportul alunelor și mierii de albine de la producătorii Mandinka către coastă. Cheiul său de cărămidă se pierde astăzi sub invazia vegetației de apă. Cu toate acestea, portul este subiectul celui mai ambițios plan de redresare la nivel național: autoritățile intenționează să-l reconstruiască masiv pentru a-l transforma în terminal de încărcare pentru viitoarea gigant-mină de fosfați din zonă. Dacă acest proiect minier prinde viață, zeci de barje grele ar urma să preia fosfatul brut de aici, redând viața economică a orașului Farim, dar generând temeri profunde privind poluarea apelor folosite de pescari. Geografie K8 — infrastructura de export minier.",
+      "factsAdvanced": [
+        "A fost poarta principală de export pentru alune în deceniul 1930-1940.",
+        "Se află la zeci de kilometri adâncime fluvială față de ieșirea în ocean.",
+        "Proiectul modern de la mina de fosfați necesită reconstrucția totală a debarcaderelor.",
+        "Cheiul vechi colonial zace parțial prăbușit în mâlul argilos al râului.",
+        "Traseul pe apă Farim-Cacheu economisește masiv costurile cu transportul rutier lipstă.",
+        "Navele cu pescaj mic încă mai tranzitează pasageri spre comunitățile din aval."
+      ]
+    },
+    {
+      "id": "port-von-cacine-economic-v2",
+      "descriptionAdvanced": "Portul de la Cacine, extremitatea navigabilă de sud a Guineei-Bissau, este una dintre cele mai izolate dar critice structuri maritime. Amplasat la vărsarea râului Cacine direct pe coastele furtunoase, portul funcționează ca un veritabil colac de salvare pentru satele mărginite de Parcul Național Cantanhez, unde drumurile de macadam dispar luni întregi sub apele musonului. De pe rampele sale modeste pleacă lemn de esență tare recoltat (adesea ilegal) din pădurile virgine adiacente, dar și cantități uriașe de ulei de palmier roșu presat artizanal. Fără o infrastructură modernă din ciment, pescarii folosesc scânduri de mahon și debarcadere improvizate. Portul este patrulată sporadic de autorități maritime, confruntându-se frecvent cu vasele de pescuit străine care încalcă zona economică exclusivă a țării. Economie K7 — porturi izolate și braconaj forestier.",
+      "factsAdvanced": [
+        "Este ultimul punct portuar major înainte de granița sudică (spre Conakry).",
+        "Deservește exclusiv nave care transportă mărfuri agricole (lemn și palmier).",
+        "Nu deține macarale, toată marfa, inclusiv butoaiele, fiind manevrată manual.",
+        "Constituie singura cale fiabilă de ieșire spre capitală în sezonul ploios intens.",
+        "Apele estuarului aici ascund numeroase adâncituri periculoase și bancuri de nisip.",
+        "Se confruntă des cu intruziunea vaselor ilegale (IUU fishing) dinspre apele externe."
+      ]
+    },
+    {
+      "id": "port-von-sao-domingos-economic-v2",
+      "descriptionAdvanced": "Portul informal (sau fluvial) de la São Domingos diferă fundamental de porturile oceanice; situat pe o rețea complicată de canale și estuare la granița cu Senegalul, acesta funcționează ca punctul principal al unei contrabande fluviale extinse. Traficul de mici dimensiuni cu bărci din lemn (pirogi lungi) înlocuiește infrastructura masivă. Saci cu zahăr, ciment senegalez și alte bunuri traversează cursurile înguste de apă noaptea pentru a evita taxele vamale grele de pe autostradă, ocolind barierele. În timpul zilei, micul port servește pescarii indigeni din grupul Diola, care prind scoici și crabi în mangrove. Zona arată ca un labirint lichid, perfect adaptat tradițiilor de navigare ale populațiilor locale și imposibil de controlat strict de autorități. Geografie K7 — economii de frontieră și contrabandă fluvială.",
+      "factsAdvanced": [
+        "Infrastructura oficială de acostare este aproape inexistentă, doar pământ și lemne.",
+        "Canalele din jur fac legătura discretă cu apele din regiunea Casamance, Senegal.",
+        "Este tranzitat masiv de o flotă uriașă de canoe de marfă sculptate manual.",
+        "Bunurile de consum de bază ocolesc taxele rutiere trecând granița pe apă.",
+        "Mangrovele dese oferă ascunzători naturale excelente pentru pescari și mărfuri.",
+        "Traficul este dependent de maree; pirogile rămân adesea blocate în noroi la reflux."
+      ]
+    },
+    {
+      "id": "port-von-tite-economic-v2",
+      "descriptionAdvanced": "Portul de la Tite funcționează ca un veritabil releu vascular al agriculturii în regiunea vestică Quinara. Amplasat pe cursul Râului Grande de Buba, utilitatea sa a explodat o dată cu expansiunea masivă a livezilor de anacardier din anii 2000. În lunile de primăvară, portul vuiește: sute de tone de nuci de caju, adunate manual de micii agricultori Beafada și Balanta, sunt încărcate pe barje plate cu destinația Bissau, unde vasele asiatice le așteaptă. Pe lângă rolul său în logistica agricolă, portul are debarcadere pline cu pește afumat de femeile locale folosind tehnicile tradiționale, bun care este apoi distribuit în toată țara. Tite demonstrează clar cum transportul pe râu învinge obstacolele rutiere ale Guineei-Bissau. Economie K6 — logistica lanțului de aprovizionare.",
+      "factsAdvanced": [
+        "Afluența Râului Grande de Buba oferă adâncime de acostare navelor mijlocii.",
+        "Reprezintă polul logistic pentru peste 10.000 de fermieri de nuci de caju.",
+        "În timpul recoltării (aprilie-iunie), devine unul dintre cele mai aglomerate porturi interne.",
+        "Locația găzduiește o importantă piață angro pentru peștele uscat și afumat (bonga).",
+        "A fost o redută militară maritimă critică pentru aprovizionarea portugheză în 1970.",
+        "Carențele podurilor naționale transformă barjele de aici într-o necesitate absolută."
+      ]
+    },
+    {
+      "id": "port-von-prabis-economic-v2",
+      "descriptionAdvanced": "Portul de la Prabis nu este un complex comercial din ciment și fier, ci o întindere vibrantă de nisip pe țărmul nordic, dedicată aproape exclusiv pescuitului artizanal oceanic al etniei Papel. Prabis deține una dintre cele mai vaste flote de pirogi de mare (bărci colorate, pictate cu ochi sau motive religioase) din Guineea-Bissau. Aici, diminețile sunt o explozie de culoare, când sute de pescari aduc peștele (corvine, rândunici de mare și rechini mici) la țărm, unde negustoresele cumpără capturile pe loc pentru a le transporta cu furgonete spre piețele urbane din Bissau, aflat la doar 15 km distanță. Pe plajă sunt înșirate plase de kilometri lungime pentru a fi reparate, oferind vizitatorilor o privire nefiltrată asupra economiei pescărești neindustrializate. Biologie K7 — lanțuri trofice marine și supra-pescuit.",
+      "factsAdvanced": [
+        "Este portul cu cel mai mare volum de captură zilnică de pește din apropierea capitalei.",
+        "Bărcile (pirogues) sunt propulsate combinând vâsle, pânze și motoare externe de 40 CP.",
+        "Femeile domină sectorul de cumpărare, procesare (sărare/afumare) și distribuție de pește.",
+        "Nu prezintă facilități moderne de depozitare la rece (chill rooms).",
+        "Flota artizanală de aici concurează inegal cu navele uriașe de traul europene.",
+        "Apele adânci și limpezi asigură debarcarea sigură pe nisip, fără diguri de piatră."
+      ]
+    },
+    {
+      "id": "port-von-encheia-economic-v2",
+      "descriptionAdvanced": "Portul din Encheia se ascunde pe malurile mocirloase, pline de rădăcini aeriene, ale largului estuar Mansoa. Așezarea are un port minimal de lemn, ridicat pentru a deservi direct locuitorii zonei nordice a provinciei Oio care au nevoie de acces imediat la regiunea Biombo. Acest port este dominat de schimbul de produse primare de supraviețuire; luntrele aduc sare groasă din spre mare și transportă la schimb cărbune de lemn, trunchiuri de mangrove tăiate și arahide de pe uscat. Condițiile dificile, în special refluxul puternic care seacă zeci de metri de mâl gros din fața satului, impun un orar de navigație strict legat de faza lunii (mareea înaltă), un ritm care guvernează viața a mii de localnici și blochează dezvoltarea unei economii constante și predictibile. Geografie K6 — mareele și navigația estuarină.",
+      "factsAdvanced": [
+        "Depinde 100% de graficele lunare ale mareelor (poate fi operat doar la flux).",
+        "Refluxul lasă bărcile eșuate pe paturi de noroi gri extrem de adânci.",
+        "Punct cheie de intrare pentru comerțul masiv cu lemne și cărbune către coastă.",
+        "Estuarul Râului Mansoa la acest punct atinge o lățime de aproape 1 kilometru.",
+        "Structurile portului sunt adesea distruse și reconstruite anual după musoni.",
+        "Baza ecologică (mangrovele) este amenințată vizibil de recoltarea de lemn aici."
+      ]
+    },
+    {
+      "id": "port-von-bion-economic-v2",
+      "descriptionAdvanced": "Portul de la Bion funcționează de facto ca un popas izolat pe insulele mărunte și izolate ale Arhipelagului Bijagós. Mai degrabă o porțiune de coastă natural adâncă decât un port construit, acesta este esențial pentru andocarea vaselor pescărești oceanice care se adăpostesc din calea vremii capricioase a Atlanticului. Așezat departe de rutele regulate de feribot (cum este cel din Bubaque), comunitatea locală o folosește pentru a trimite dincolo de insule surplusul din recoltele imense de mango și manioc. Zona e renumită pentru apele sale cristaline și periculoase, locuite de bancuri mari de raze manta și rechini. Izolarea sa extremă limitează posibilitățile de a exporta bunuri perisabile fără ca acestea să se degradeze înainte de a ajunge pe continent. Economie K6 — logistica pe insule îndepărtate.",
+      "factsAdvanced": [
+        "Lipsesc complet rampele betonate, accesul făcându-se direct pe bancul de nisip.",
+        "Insulele învecinate (ex: Uno, Formosa) depind de acesta ca ancoraj de rezervă.",
+        "Se folosește pentru a expedia marfă sezonieră (exclusiv fructe tropicale proaspete).",
+        "Lipsa de frigidere mecanice blochează vânzarea de pește comercial pe distanțe lungi.",
+        "Accesibil doar cu pirogi cu fund plat, capabile să alunece prin recifele de corali și pietre.",
+        "Furtunile frecvente blochează orice transport spre continent timp de zile întregi."
+      ]
+    },
+    {
+      "id": "bissau-reismuehle-economic-v2",
+      "descriptionAdvanced": "Moara Mare de Orez (Fábrica de Descasque de Arroz) din capitala Bissau reprezintă singura încercare de industrializare majoră a alimentului de bază al națiunii. Orezul este inima culturii și dietei din Guineea-Bissau (consumat practic zilnic), însă din cauza lipsei tehnologiei mecanizate la sate, decorticarea acestuia revine manual femeilor folosind pisăloage grele din lemn, cu pierderi uriașe de calitate. Uzina de la Bissau a fost dotată pentru a procesa orezul cumpărat la scară industrială, separând boabele, lustruindu-le și ambalându-le. Totuși, din pricina producției naționale reduse, care a scăzut în favoarea profitabilei nuci de caju, și a prețului ridicat al curentului, fabrica operează intermitent, iar piața urbană este invadată de importuri subvenționate de orez (fragmente) cu proveniență asiatică, în special din Thailanda și India. Geografie K8 — suveranitate alimentară și piața globală.",
+      "factsAdvanced": [
+        "A fost concepută pentru a mecaniza și automatiza curățarea orezului la scară națională.",
+        "Zilnic, un cetățean consumă în medie peste 400 de grame de orez (aliment de bază unic).",
+        "Competiția agresivă a orezului de import asiatic a falimentat eficiența internă a fabricii.",
+        "Procesul mecanic reduce masiv spargerile boabelor (broken rice) comparativ cu cel manual.",
+        "Agricultorii au abandonat masiv orezul pentru nucile de caju, privând fabrica de marfă brută.",
+        "Dependența țării de orezul asiatic afectează grav rezervele de valută ale statului."
+      ]
+    },
+    {
+      "id": "fortaleza-amura-history-v2",
+      "descriptionAdvanced": "Fortaleza de São José da Amura reprezintă inima militară și simbolică a capitalei Bissau, un fort antic construit de coloniștii portughezi la finalul secolului al XVII-lea. Structura masivă din piatră de laterit tăiată, cu plan în stea și bastioane înalte echipate cu tunuri negre din fier, a servit ca garnizoană pentru a proteja monopolul colonialist european de atacurile navale externe și revoltele din interior (în special ale etniei Papel). Zidurile sale de patru metri grosime impresionează și azi. După recâștigarea independenței în 1974, curtea fortului a fost transformată în Panteonul Național, devenind locul de veci sacru al lui Amílcar Cabral (marele lider marxist asasinat în 1973) și al altor eroi, simbolizând re-aproprierea puterii naționale din mâinile asupritorului. Istorie K8 — arhitectură militară colonială.",
+      "factsAdvanced": [
+        "Zidurile mari actuale din piatră (laterit și bazalt) datează majoritar din anul 1753.",
+        "A fost sediul principal al comandamentului portughez în timpul Războiului Colonial (1963-74).",
+        "În centrul curții sale se odihnește liderul fondator al PAIGC, Amílcar Cabral.",
+        "Designul urmează modelul de 'fortăreață stelară' (trace italienne) pentru acoperirea artileriei.",
+        "Prezintă o ușă masivă ornată cu scutul oficial sculptat al Portugaliei antice.",
+        "Găzduiește în prezent un mic muzeu militar și forțele de elită ale armatei statului."
+      ]
+    },
+    {
+      "id": "memorial-pidjiguiti-history-v2",
+      "descriptionAdvanced": "Monumentul Pidjiguiti (Monumentul Martirilor din Pidjiguiti) este ridicat chiar în zona vechiului port din Bissau. Sculptura monumentală în formă de pumn uriaș strâns din piatră și bronz, purtând frânghii rupte, amintește de un masacru sângeros care a marcat un punct de cotitură istoric pe 3 august 1959. În acea zi, zeci de docheri (muncitori portuari) și marinari africani care protestau pașnic pentru salarii mai mari au fost împușcați mortal de forțele de poliție portugheze PIDE. Tragedia a șocat societatea și i-a convins pe liderii PAIGC (precum Amílcar Cabral) că lupta politică pașnică pentru independență era imposibilă, forțându-i să se retragă în junglă pentru a organiza lupta armată de gherilă ce a durat peste un deceniu. Istorie K8 — masacre coloniale și declanșarea revoltelor.",
+      "factsAdvanced": [
+        "Masacrul portuar de pe 3 august 1959 s-a soldat cu moartea a peste 50 de docheri africani.",
+        "A marcat trecerea definitivă a partidului PAIGC de la negocieri la tactici militare ascunse.",
+        "Monumentul uriaș ia forma unui pumn din oțel/piatră simbolizând forța muncii și revolta.",
+        "Situat chiar pe locul unde sângele muncitorilor s-a scurs în estuarul docului istoric.",
+        "Data de 3 August este comemorată anual ca Sărbătoare Națională a Martirilor.",
+        "A devenit cel mai fotografiat și vizitat simbol al luptei de clasă din Bissau."
+      ]
+    },
+    {
+      "id": "herois-patria-history-v2",
+      "descriptionAdvanced": "Monumentul Eroilor Patriei (Monumento aos Heróis da Pátria) domină marea piață circulară centrală (Praça dos Heróis Nacionais) a capitalei Bissau, acționând ca inima civică a națiunii. Această coloană înaltă, albă, decorată cu o stea socialistă (simbolul mișcării de eliberare pan-africaniste), se ridică din centrul unui sens giratoriu imens înconjurat de ministere și bănci. Construit în anii post-independență, simbolizează victoria asupra Portugaliei coloniale și amintește de efortul colectiv al bărbaților și femeilor din pădurile Guineei care și-au sacrificat viața pentru libertate (1963-1974). Parcul îngrijit de sub obelisc este adesea flancat de steaguri și este centrul formal al paradelor militare, comemorărilor de Ziua Independenței și ceremoniilor de depunere de coroane ale președintelui. Sociologie K6 — spații civice și identitatea de stat.",
+      "factsAdvanced": [
+        "Aflat în mijlocul celei mai mari piețe giratorii publice (Praça dos Heróis Nacionais) din oraș.",
+        "Arhitectura obeliscului alb curat poartă amprenta estetică monumentală comunistă/socialistă.",
+        "Piața era numită în timpul dominației portugheze 'Piața Imperiului' (Praça do Império).",
+        "Baza monumentului este decorată cu steaua neagră în cinci colțuri, marcă a PAIGC-ului.",
+        "Toate protestele publice și adunările de susținere majoră converg aici în mod tradițional.",
+        "Zona este luminată și întreținută meticulos ca un respect național, un rar spațiu verde protejat."
+      ]
+    },
+    {
+      "id": "bissau-cathedral-history-v2",
+      "descriptionAdvanced": "Catedrala din Bissau (Catedral de Nossa Senhora da Candelária) este cel mai impresionant edificiu catolic din întreaga țară și o dovadă remarcabilă a ambițiilor arhitecturale portugheze târzii. Situată strategic în centrul orașului Bissau Vechi, catedrala a fost finalizată de abia în anii '50. Turnurile sale masive de beton vopsite în alb cu influențe neo-romane domină orizontul orizontal al capitalei, fiind un reper excelent de navigare. În ciuda unei populații naționale predominant musulmane și animiste (catolicii reprezintă doar 10-12%), catedrala este un loc extrem de respectat de toate confesiunile. Un turn adăpostește farul care a funcționat decenii ghidând navele în estuarul râului Geba pe timp de noapte. Istorie K7 — misiunile catolice și arhitectura urbană.",
+      "factsAdvanced": [
+        "S-a finalizat definitiv în 1950, un efort ecleziastic modern în epoca portugheză.",
+        "Unul dintre cele două turnuri gemene albe a funcționat istoric drept far marin real (Lighthouse).",
+        "A fost lovită grav de artilerie în timpul Războiului Civil sângeros din 1998, dar a fost restaurată.",
+        "Aici își are sediul și conducerea oficială episcopia Catolică națională din Guineea-Bissau.",
+        "Vitraliile sale sunt puține dar spectaculoase, protejate de soarele extrem al verii tropicale.",
+        "A găzduit slujbele de înmormântare pentru unii dintre cei mai importanți președinți recenți."
+      ]
+    },
+    {
+      "id": "cacheu-fort-history-v2",
+      "descriptionAdvanced": "Fortăreața din Cacheu este un artefact macabru dar istoric fundamental, fiind piatra de temelie a dominației portugheze în Africa de Vest, ridicat prima oară din noroi și lemne în 1588. Fortul patrat, rebuidat din piatră vulcanică dură în secolul al XIX-lea, păstrează și acum ziduri înalte prevăzute cu ferestre de tragere, orientate cu fața spre curentul râului Cacheu, cu 16 tunuri originale din fontă încă fixate pe creneluri. Era hub-ul companiei 'Companhia de Cacheu', care deținea un monopol sângeros asupra comerțului transatlantic de sclavi. Captivi aparținând triburilor Manjaco și Balanta erau aduși aici cu forța, marcați și ținuți în temnițe (feitorias) până când vasele cu vele ajungeau să îi transporte în Brazilia, o pată neștearsă asupra istoriei lumii. Istorie K8 — comerțul transatlantic cu sclavi (Middle Passage).",
+      "factsAdvanced": [
+        "Ridicată din anul 1588 de negustori (lançados), este una dintre cele mai vechi cetăți din Africa.",
+        "Deținea un monopol regal oficial pentru prinderea și exportul sclavilor africani spre insula Cabo Verde.",
+        "Prezintă o curte interioară largă înconjurată de bastioane ascuțite din laterit vulcanic gros.",
+        "Păstrează aproximativ 16 tunuri de fontă și oțel greu datând din secolele XVII și XVIII.",
+        "La apogeul funcționării sale, fortul încărca mii de captivi anual spre munca forțată din Lumea Nouă.",
+        "Statui de bronz ale exploratorilor precum Nuno Tristão stăteau odată pe pilonii săi centrali."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "jinotega-cities-v2",
+    "name": "Jinotega"
+  },
+  {
+    "id": "rivas-cities-v2",
+    "name": "Rivas"
+  },
+  {
+    "id": "juigalpa-cities-v2",
+    "name": "Juigalpa"
+  },
+  {
+    "id": "boaco-cities-v2",
+    "name": "Boaco"
+  },
+  {
+    "id": "somoto-cities-v2",
+    "name": "Somoto"
+  },
+  {
+    "id": "ocotal-cities-v2",
+    "name": "Ocotal"
+  },
+  {
+    "id": "san-carlos-cities-v2",
+    "name": "San Carlos"
+  },
+  {
+    "id": "tipitapa-cities-v2",
+    "name": "Tipitapa"
+  },
+  {
+    "id": "el-viejo-cities-v2",
+    "name": "El Viejo"
+  },
+  {
+    "id": "chichigalpa-cities-v2",
+    "name": "Chichigalpa"
+  },
+  {
+    "id": "diriamba-cities-v2",
+    "name": "Diriamba"
+  },
+  {
+    "id": "jinotepe-cities-v2",
+    "name": "Jinotepe"
+  },
+  {
+    "id": "el-rama-cities-v2",
+    "name": "El Rama"
+  },
+  {
+    "id": "nueva-guinea-cities-v2",
+    "name": "Nueva Guinea"
+  },
+  {
+    "id": "somotillo-cities-v2",
+    "name": "Somotillo"
+  },
+  {
+    "id": "la-paz-centro-cities-v2",
+    "name": "La Paz Centro"
+  },
+  {
+    "id": "nagarote-cities-v2",
+    "name": "Nagarote"
+  },
+  {
+    "id": "san-marcos-cities-v2",
+    "name": "San Marcos"
+  },
+  {
+    "id": "ciudad-sandinocities-v2",
+    "name": "Ciudad Sandino"
+  },
+  {
+    "id": "condega-cities-v2",
+    "name": "Condega"
+  },
+  {
+    "id": "sebaco-cities-v2",
+    "name": "S\u00e9baco"
+  },
+  {
+    "id": "nandaime-cities-v2",
+    "name": "Nandaime"
+  },
+  {
+    "id": "jalapa-cities-v2",
+    "name": "Jalapa"
+  },
+  {
+    "id": "el-sauce-cities-v2",
+    "name": "El Sauce"
+  },
+  {
+    "id": "larreynaga-malpaisillo-cities-v2",
+    "name": "Larreynaga (Malpaisillo)"
+  },
+  {
+    "id": "posoltega-cities-v2",
+    "name": "Posoltega"
+  },
+  {
+    "id": "san-rafael-del-sur-cities-v2",
+    "name": "San Rafael del Sur"
+  },
+  {
+    "id": "masatepe-cities-v2",
+    "name": "Masatepe"
+  },
+  {
+    "id": "niquinohomo-cities-v2",
+    "name": "Niquinohomo"
+  },
+  {
+    "id": "la-concepcion-masaya-cities-v2",
+    "name": "La Concepci\u00f3n"
+  },
+  {
+    "id": "telica-cities-v2",
+    "name": "Telica"
+  },
+  {
+    "id": "san-juan-de-limay-cities-v2",
+    "name": "San Juan de Limay"
+  },
+  {
+    "id": "tola-cities-v2",
+    "name": "Tola"
+  },
+  {
+    "id": "moyogalpa-cities-v2",
+    "name": "Moyogalpa"
+  },
+  {
+    "id": "altagracia-cities-v2",
+    "name": "Altagracia"
+  },
+  {
+    "id": "wien-cities-v2",
+    "name": "Wiwil\u00ed de Nueva Segovia"
+  },
+  {
+    "id": "waspam-cities-v2",
+    "name": "Waspam"
+  },
+  {
+    "id": "rio-blanco-cities-v2",
+    "name": "R\u00edo Blanco"
+  },
+  {
+    "id": "siuna-cities-v2",
+    "name": "Siuna"
+  },
+  {
+    "id": "rosita-cities-v2",
+    "name": "Rosita"
+  },
+  {
+    "id": "bonanza-cities-v2",
+    "name": "Bonanza"
+  },
+  {
+    "id": "puerto-morazan-cities-v2",
+    "name": "Puerto Moraz\u00e1n"
+  },
+  {
+    "id": "el-jicaral-cities-v2",
+    "name": "El Jicaral"
+  },
+  {
+    "id": "mateare-cities-v2",
+    "name": "Mateare"
+  },
+  {
+    "id": "waslala-cities-v2",
+    "name": "Waslala"
+  },
+  {
+    "id": "san-isidro-matagalpa-cities-v2",
+    "name": "San Isidro"
+  },
+  {
+    "id": "tecolostote-cities-v2",
+    "name": "Tecolostote"
+  },
+  {
+    "id": "san-lorenzo-boaco-cities-v2",
+    "name": "San Lorenzo"
+  },
+  {
+    "id": "santo-tomas-chontales-cities-v2",
+    "name": "Santo Tom\u00e1s"
+  },
+  {
+    "id": "villa-sandino-cities-v2",
+    "name": "Villa Sandino"
+  },
+  {
+    "id": "acoyapa-cities-v2",
+    "name": "Acoyapa"
+  },
+  {
+    "id": "san-miguelito-cities-v2",
+    "name": "San Miguelito"
+  },
+  {
+    "id": "el-castillo-de-la-concepcion-cities-v2",
+    "name": "El Castillo"
+  },
+  {
+    "id": "san-juan-del-norte-greytown-cities-v2",
+    "name": "San Juan de Nicaragua (Greytown)"
+  },
+  {
+    "id": "pueblo-nuevo-esteli-cities-v2",
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "id": "la-trinidad-esteli-cities-v2",
+    "name": "La Trinidad"
+  },
+  {
+    "id": "ciudad-dario-cities-v2",
+    "name": "Ciudad Dar\u00edo"
+  },
+  {
+    "id": "esquipulas-matagalpa-cities-v2",
+    "name": "Esquipulas"
+  },
+  {
+    "id": "san-dionisio-matagalpa-cities-v2",
+    "name": "San Dionisio"
+  },
+  {
+    "id": "la-dalia-matagalpa-cities-v2",
+    "name": "La Dalia"
+  },
+  {
+    "id": "rancho-grande-matagalpa-cities-v2",
+    "name": "Rancho Grande"
+  },
+  {
+    "id": "el-tuma-la-dalia-cities-v2",
+    "name": "El Tuma - La Dalia"
+  },
+  {
+    "id": "matiguas-matagalpa-cities-v2",
+    "name": "Matigu\u00e1s"
+  },
+  {
+    "id": "muy-muy-matagalpa-cities-v2",
+    "name": "Muy Muy"
+  },
+  {
+    "id": "san-ramon-matagalpa-cities-v2",
+    "name": "San Ram\u00f3n"
+  },
+  {
+    "id": "terrabona-matagalpa-cities-v2",
+    "name": "Terrabona"
+  },
+  {
+    "id": "quilali-nueva-segovia-cities-v2",
+    "name": "Quilal\u00ed"
+  },
+  {
+    "id": "san-fernando-nueva-segovia-cities-v2",
+    "name": "San Fernando"
+  },
+  {
+    "id": "el-jicaro-nueva-segovia-cities-v2",
+    "name": "El J\u00edcaro"
+  },
+  {
+    "id": "almicamba-cities-v2",
+    "name": "Almicamba"
+  },
+  {
+    "id": "desembocadura-de-rio-grande-cities-v2",
+    "name": "Desembocadura de R\u00edo Grande"
+  },
+  {
+    "id": "corn-island-cities-v2",
+    "name": "Corn Island"
+  },
+  {
+    "id": "la-cruz-de-rio-grande-cities-v2",
+    "name": "La Cruz de R\u00edo Grande"
+  },
+  {
+    "id": "el-tortuguero-cities-v2",
+    "name": "El Tortuguero"
+  },
+  {
+    "id": "paiwas-cities-v2",
+    "name": "Paiwas"
+  },
+  {
+    "id": "morrito-rio-san-juan-cities-v2",
+    "name": "Morrito"
+  },
+  {
+    "id": "san-jorge-rivas-cities-v2",
+    "name": "San Jorge"
+  },
+  {
+    "id": "belen-rivas-cities-v2",
+    "name": "Bel\u00e9n"
+  },
+  {
+    "id": "potosi-rivas-cities-v2",
+    "name": "Potos\u00ed"
+  },
+  {
+    "id": "buenos-aires-rivas-cities-v2",
+    "name": "Buenos Aires"
+  },
+  {
+    "id": "cardenas-rivas-cities-v2",
+    "name": "C\u00e1rdenas"
+  },
+  {
+    "id": "telpaneca-madriz-cities-v2",
+    "name": "Telpaneca"
+  },
+  {
+    "id": "san-juan-de-rio-coco-madriz-cities-v2",
+    "name": "San Juan del R\u00edo Coco"
+  },
+  {
+    "id": "san-jose-de-cusmapa-madriz-cities-v2",
+    "name": "San Jos\u00e9 de Cusmapa"
+  },
+  {
+    "id": "yalaguina-madriz-cities-v2",
+    "name": "Yalag\u00fcina"
+  },
+  {
+    "id": "totogalpa-madriz-cities-v2",
+    "name": "Totogalpa"
+  },
+  {
+    "id": "palacaguina-madriz-cities-v2",
+    "name": "Palacag\u00fcina"
+  },
+  {
+    "id": "santa-rosa-del-penon-leon-cities-v2",
+    "name": "Santa Rosa del Pe\u00f1\u00f3n"
+  },
+  {
+    "id": "el-realejo-chinandega-cities-v2",
+    "name": "El Realejo"
+  },
+  {
+    "id": "cinco-pinos-chinandega-cities-v2",
+    "name": "Cinco Pinos"
+  },
+  {
+    "id": "san-francisco-de-cuapa-chontales-cities-v2",
+    "name": "San Francisco de Cuapa"
+  },
+  {
+    "id": "santo-domingo-chontales-cities-v2",
+    "name": "Santo Domingo"
+  },
+  {
+    "id": "la-libertad-chontales-cities-v2",
+    "name": "La Libertad"
+  },
+  {
+    "id": "teustepe-boaco-cities-v2",
+    "name": "Teustepe"
+  },
+  {
+    "id": "santa-lucia-boaco-cities-v2",
+    "name": "Santa Luc\u00eda"
+  },
+  {
+    "id": "camopa-boaco-cities-v2",
+    "name": "Camoapa"
+  },
+  {
+    "id": "san-jose-de-los-remates-boaco-cities-v2",
+    "name": "San Jos\u00e9 de los Remates"
+  },
+  {
+    "id": "puerto-corinto-economic-v2",
+    "name": "Port of Corinto"
+  },
+  {
+    "id": "puerto-sandino-economic-v2",
+    "name": "Puerto Sandino"
+  },
+  {
+    "id": "puerto-el-bluff-economic-v2",
+    "name": "Port of El Bluff"
+  },
+  {
+    "id": "puerto-arlen-siu-economic-v2",
+    "name": "Arlen Siu Port"
+  },
+  {
+    "id": "puerto-san-juan-del-sur-economic-v2",
+    "name": "Port of San Juan del Sur"
+  },
+  {
+    "id": "puerto-potosi-economic-v2",
+    "name": "Puerto Potos\u00ed"
+  },
+  {
+    "id": "zona-franca-las-mercedes-economic-v2",
+    "name": "Las Mercedes Free Trade Zone"
+  },
+  {
+    "id": "ingenio-san-antonio-economic-v2",
+    "name": "San Antonio Sugar Mill"
+  },
+  {
+    "id": "ingenio-monte-rosa-economic-v2",
+    "name": "Monte Rosa Sugar Mill"
+  },
+  {
+    "id": "mina-el-limon-economic-v2",
+    "name": "El Lim\u00f3n Gold Mine"
+  },
+  {
+    "id": "mina-la-libertad-economic-v2",
+    "name": "La Libertad Gold Mine"
+  },
+  {
+    "id": "mina-bonanza-economic-v2",
+    "name": "Bonanza Gold Mine"
+  },
+  {
+    "id": "zona-franca-saratoga-economic-v2",
+    "name": "Saratoga Free Trade Zone"
+  },
+  {
+    "id": "zona-franca-astro-economic-v2",
+    "name": "Astro Free Trade Zone"
+  },
+  {
+    "id": "parque-industrial-portezuelo-economic-v2",
+    "name": "Portezuelo Industrial Park"
+  },
+  {
+    "id": "compania-cervecera-de-nicaragua-economic-v2",
+    "name": "Nicaragua Brewery (CCN)"
+  },
+  {
+    "id": "destileria-flor-de-cana-economic-v2",
+    "name": "Flor de Ca\u00f1a Distillery"
+  },
+  {
+    "id": "planta-geotermica-momotombo-economic-v2",
+    "name": "Momotombo Geothermal Plant"
+  },
+  {
+    "id": "planta-geotermica-san-jacinto-tizate-economic-v2",
+    "name": "San Jacinto-Tizate Geothermal Plant"
+  },
+  {
+    "id": "planta-hidroelectrica-centroamerica-economic-v2",
+    "name": "Centroam\u00e9rica Hydroelectric Plant"
+  },
+  {
+    "id": "planta-hidroelectrica-carlos-fonseca-economic-v2",
+    "name": "Carlos Fonseca Hydroelectric Plant"
+  },
+  {
+    "id": "parque-eolico-amayo-economic-v2",
+    "name": "Amayo Wind Farm"
+  },
+  {
+    "id": "parque-eolico-camilo-ortega-economic-v2",
+    "name": "Camilo Ortega Wind Farm"
+  },
+  {
+    "id": "matadero-san-martin-economic-v2",
+    "name": "San Mart\u00edn Slaughterhouse"
+  },
+  {
+    "id": "cemex-san-rafael-del-sur-economic-v2",
+    "name": "CEMEX San Rafael del Sur Cement Plant"
+  },
+  {
+    "id": "holcim-nagarote-economic-v2",
+    "name": "Holcim Nagarote Cement Plant"
+  },
+  {
+    "id": "planta-lactea-centrolac-economic-v2",
+    "name": "Centrolac Dairy Plant"
+  },
+  {
+    "id": "planta-lactea-eskimo-economic-v2",
+    "name": "Eskimo Dairy Plant"
+  },
+  {
+    "id": "mina-rosita-economic-v2",
+    "name": "Rosita Gold and Copper Mine"
+  },
+  {
+    "id": "cafe-soluble-sa-economic-v2",
+    "name": "Caf\u00e9 Soluble Coffee Processing Plant"
+  },
+  {
+    "id": "hacienda-san-jacinto-history-v2",
+    "name": "San Jacinto Hacienda"
+  },
+  {
+    "id": "palacio-nacional-cultura-history-v2",
+    "name": "National Palace of Culture"
+  },
+  {
+    "id": "antigua-catedral-managua-history-v2",
+    "name": "Old Cathedral of Managua"
+  },
+  {
+    "id": "iglesia-la-merced-granada-history-v2",
+    "name": "La Merced Church (Granada)"
+  },
+  {
+    "id": "convento-san-francisco-granada-history-v2",
+    "name": "San Francisco Convent (Granada)"
+  },
+  {
+    "id": "fortaleza-la-polvora-granada-history-v2",
+    "name": "La P\u00f3lvora Fortress (Granada)"
+  },
+  {
+    "id": "museo-de-la-revolucion-leon-history-v2",
+    "name": "Museum of the Revolution (Le\u00f3n)"
+  },
+  {
+    "id": "el-calvario-church-leon-history-v2",
+    "name": "El Calvario Church (Le\u00f3n)"
+  },
+  {
+    "id": "casa-museo-ruben-dario-leon-history-v2",
+    "name": "Rub\u00e9n Dar\u00edo House Museum (Le\u00f3n)"
+  },
+  {
+    "id": "santuario-de-jesus-del-rescate-popoyuapa-history-v2",
+    "name": "Sanctuary of Jes\u00fas del Rescate"
+  },
+  {
+    "id": "zapatera-archaeological-park-history-v2",
+    "name": "Zapatera Archaeological Park"
+  },
+  {
+    "id": "petroglifos-ometepe-history-v2",
+    "name": "Ometepe Petroglyphs"
+  },
+  {
+    "id": "san-agustin-church-somoto-history-v2",
+    "name": "San Agust\u00edn Church (Somoto)"
+  },
+  {
+    "id": "antiguo-hospital-san-juan-de-dios-esteli-history-v2",
+    "name": "Old San Juan de Dios Hospital (Estel\u00ed)"
+  },
+  {
+    "id": "santuario-nacional-nuestra-senora-de-la-concepcion-el-viejo-history-v2",
+    "name": "National Sanctuary of El Viejo"
+  },
+  {
+    "id": "batalla-de-coyotepe-site-history-v2",
+    "name": "Coyotepe Battlefield"
+  },
+  {
+    "id": "casa-hacienda-de-simon-bolivar-el-vapor-history-v2",
+    "name": "El Vapor Hacienda"
+  },
+  {
+    "id": "nacimiento-de-ciudad-dario-history-v2",
+    "name": "Birthplace of Rub\u00e9n Dar\u00edo"
+  },
+  {
+    "id": "iglesia-de-xalteva-granada-history-v2",
+    "name": "Xalteva Church"
+  },
+  {
+    "id": "sitio-arqueologico-el-paisaje-history-v2",
+    "name": "El Paisaje Archaeological Site"
+  },
+  {
+    "id": "muelle-de-granada-history-v2",
+    "name": "Granada Pier"
+  },
+  {
+    "id": "ferrocarril-del-pacifico-ruinas-history-v2",
+    "name": "Ruins of the Pacific Railroad"
+  },
+  {
+    "id": "sitio-historico-pancas-history-v2",
+    "name": "Pancas\u00e1n Historic Site"
+  },
+  {
+    "id": "minas-del-jicaro-history-v2",
+    "name": "Mines of El J\u00edcaro"
+  },
+  {
+    "id": "fuerte-de-la-inmaculada-concepcion-el-castillo-history-v2",
+    "name": "Fortress of the Immaculate Conception"
+  },
+  {
+    "id": "puerto-de-corinto-historical-port-history-v2",
+    "name": "Historic Port of Corinto"
+  },
+  {
+    "id": "sitio-historico-san-rafael-del-norte-history-v2",
+    "name": "San Rafael del Norte Historic Site"
+  },
+  {
+    "id": "minas-de-siuna-rosita-bonanza-history-v2",
+    "name": "Mining Triangle (historic)"
+  },
+  {
+    "id": "guerra-constitucionalista-leon-history-v2",
+    "name": "Constitutionalist War Sites"
+  },
+  {
+    "id": "bombardeo-de-ocotal-history-v2",
+    "name": "Site of the Bombing of Ocotal"
+  },
+  {
+    "id": "ni-plaza-revolucion-landmarks-v2",
+    "name": "Plaza of the Revolution"
+  },
+  {
+    "id": "ni-monumento-ruben-dario-landmarks-v2",
+    "name": "Rub\u00e9n Dar\u00edo Monument"
+  },
+  {
+    "id": "ni-teatro-nacional-ruben-dario-landmarks-v2",
+    "name": "Rub\u00e9n Dar\u00edo National Theater"
+  },
+  {
+    "id": "ni-catedral-de-leon-landmarks-v2",
+    "name": "Le\u00f3n Cathedral"
+  },
+  {
+    "id": "ni-ruinas-leon-viejo-landmarks-v2",
+    "name": "Ruins of Le\u00f3n Viejo"
+  },
+  {
+    "id": "ni-catedral-de-granada-landmarks-v2",
+    "name": "Granada Cathedral"
+  },
+  {
+    "id": "ni-fortaleza-coyotepe-landmarks-v2",
+    "name": "El Coyotepe Fortress"
+  },
+  {
+    "id": "ni-cruz-de-bobadilla-landmarks-v2",
+    "name": "Bobadilla Cross"
+  },
+  {
+    "id": "ni-cristo-misericordia-landmarks-v2",
+    "name": "Christ of the Mercy Statue"
+  },
+  {
+    "id": "ni-iglesia-subtiava-landmarks-v2",
+    "name": "Church of San Juan Bautista of Subtiava"
+  },
+  {
+    "id": "ni-monumento-diriangen-landmarks-v2",
+    "name": "Monument to Cacique Diriang\u00e9n"
+  },
+  {
+    "id": "ni-santuario-cuapa-landmarks-v2",
+    "name": "National Sanctuary of Our Lady of Cuapa"
+  },
+  {
+    "id": "ni-iglesia-asuncion-masaya-landmarks-v2",
+    "name": "Church of the Assumption (Masaya)"
+  },
+  {
+    "id": "ni-loma-tiscapa-landmarks-v2",
+    "name": "Tiscapa Hill"
+  },
+  {
+    "id": "ni-iglesia-recoleccion-landmarks-v2",
+    "name": "La Recolecci\u00f3n Church"
+  },
+  {
+    "id": "ni-mausoleo-heroes-martires-landmarks-v2",
+    "name": "Mausoleum of Heroes and Martyrs"
+  },
+  {
+    "id": "ni-reloj-diriamba-landmarks-v2",
+    "name": "Clock Tower of Diriamba"
+  },
+  {
+    "id": "ni-faro-masachapa-landmarks-v2",
+    "name": "Masachapa Lighthouse"
+  },
+  {
+    "id": "ni-capilla-maria-auxiliadora-landmarks-v2",
+    "name": "Mar\u00eda Auxiliadora Chapel"
+  },
+  {
+    "id": "ni-iglesia-san-jeronimo-landmarks-v2",
+    "name": "San Jer\u00f3nimo Church"
+  },
+  {
+    "id": "ni-antigua-estacion-ferrocarril-granada-landmarks-v2",
+    "name": "Old Railway Station of Granada"
+  },
+  {
+    "id": "ni-ruinas-hospital-san-juan-landmarks-v2",
+    "name": "Ruins of San Juan de Dios Hospital"
+  },
+  {
+    "id": "ni-catedral-san-pedro-matagalpa-landmarks-v2",
+    "name": "San Pedro Cathedral of Matagalpa"
+  },
+  {
+    "id": "ni-monumento-caidos-esteli-landmarks-v2",
+    "name": "Monument to the Fallen of Estel\u00ed"
+  },
+  {
+    "id": "ni-puente-paso-caballos-landmarks-v2",
+    "name": "Paso Caballos Bridge"
+  },
+  {
+    "id": "ni-estadio-soberania-landmarks-v2",
+    "name": "Soberan\u00eda National Stadium"
+  },
+  {
+    "id": "ni-campana-paz-landmarks-v2",
+    "name": "Peace Bell of Managua"
+  },
+  {
+    "id": "ni-basilica-san-sebastian-diriamba-landmarks-v2",
+    "name": "San Sebasti\u00e1n Basilica (Diriamba)"
+  },
+  {
+    "id": "ni-iglesia-guadalupe-granada-landmarks-v2",
+    "name": "Guadalupe Church (Granada)"
+  },
+  {
+    "id": "ni-fortaleza-san-pablo-landmarks-v2",
+    "name": "San Pablo Fortress"
+  },
+  {
+    "id": "refugio-vida-silvestre-chacocente-life-v2",
+    "name": "Chacocente Wildlife Refuge"
+  },
+  {
+    "id": "finca-las-nubes-managua-life-v2",
+    "name": "Las Nubes Farm"
+  },
+  {
+    "id": "selva-negra-matagalpa-life-v2",
+    "name": "Selva Negra"
+  },
+  {
+    "id": "reserva-natural-miraflor-life-v2",
+    "name": "Miraflor Nature Reserve"
+  },
+  {
+    "id": "finca-magdalena-ometepe-life-v2",
+    "name": "Finca Magdalena"
+  },
+  {
+    "id": "parque-nacional-volcan-masaya-zoo-life-v2",
+    "name": "National Zoological Garden"
+  },
+  {
+    "id": "mariposario-charco-verde-ometepe-life-v2",
+    "name": "Charco Verde Butterfly Garden"
+  },
+  {
+    "id": "heriberto-sanchez-amusement-park-life-v2",
+    "name": "Heriberto S\u00e1nchez Amusement Park"
+  },
+  {
+    "id": "puerto-salvador-allende-playground-life-v2",
+    "name": "Puerto Salvador Allende Playground"
+  },
+  {
+    "id": "parque-luis-alfonso-velasquez-flores-life-v2",
+    "name": "Luis Alfonso Vel\u00e1squez Flores Park"
+  },
+  {
+    "id": "finca-esperanza-verde-life-v2",
+    "name": "Finca Esperanza Verde"
+  },
+  {
+    "id": "los-guatuzos-wildlife-refuge-life-v2",
+    "name": "Los Guatuzos Wildlife Refuge"
+  },
+  {
+    "id": "domitila-private-wildlife-reserve-life-v2",
+    "name": "Domitila Private Wildlife Reserve"
+  },
+  {
+    "id": "finca-el-chile-coffee-farm-life-v2",
+    "name": "El Chile Coffee Farm"
+  },
+  {
+    "id": "hacienda-merida-ometepe-life-v2",
+    "name": "Hacienda M\u00e9rida"
+  },
+  {
+    "id": "parque-saurio-nindiri-life-v2",
+    "name": "Nindir\u00ed Dinosaur Park"
+  },
+  {
+    "id": "el-ojo-de-agua-ometepe-life-v2",
+    "name": "Ojo de Agua"
+  },
+  {
+    "id": "reserva-silvestre-privada-el-tesoro-life-v2",
+    "name": "El Tesoro Private Wildlife Reserve"
+  },
+  {
+    "id": "finca-el-paraiso-boaco-life-v2",
+    "name": "El Para\u00edso Farm"
+  },
+  {
+    "id": "centro-turistico-xiloa-life-v2",
+    "name": "Xilo\u00e1 Tourist Center"
+  },
+  {
+    "id": "parque-acuatico-salvador-allende-life-v2",
+    "name": "Salvador Allende Water Park"
+  },
+  {
+    "id": "finca-san-juan-de-la-isla-ometepe-life-v2",
+    "name": "Finca San Juan de la Isla"
+  },
+  {
+    "id": "reserva-natural-volcan-cosiguina-fauna-life-v2",
+    "name": "Cosig\u00fcina Volcano Fauna"
+  },
+  {
+    "id": "tortugas-marinas-isla-juan-venado-life-v2",
+    "name": "Sea Turtles of Juan Venado Island"
+  },
+  {
+    "id": "parque-central-de-granada-kids-life-v2",
+    "name": "Granada Central Park for Kids"
+  },
+  {
+    "id": "finca-el-platanal-cacao-life-v2",
+    "name": "El Platanal Cacao Farm"
+  },
+  {
+    "id": "hertylandia-amusement-park-life-v2",
+    "name": "Hertylandia Amusement Park"
+  },
+  {
+    "id": "el-chocoyero-el-brujo-reserve-life-v2",
+    "name": "El Chocoyero - El Brujo Reserve"
+  },
+  {
+    "id": "aventura-las-nubes-zipline-life-v2",
+    "name": "Aventura Las Nubes Zipline"
+  },
+  {
+    "id": "finca-ecologica-la-bomba-coffee-life-v2",
+    "name": "La Bomba Ecological Farm"
+  },
+  {
+    "id": "rio-coco-nature-v2",
+    "name": "Coco River"
+  },
+  {
+    "id": "lago-de-nicaragua-nature-v2",
+    "name": "Lake Nicaragua"
+  },
+  {
+    "id": "lago-de-managua-nature-v2",
+    "name": "Lake Managua (Xolotl\u00e1n)"
+  },
+  {
+    "id": "solentiname-archipelago-nature-v2",
+    "name": "Solentiname Archipelago"
+  },
+  {
+    "id": "pearl-cays-nature-v2",
+    "name": "Pearl Cays"
+  },
+  {
+    "id": "rio-escondido-nature-v2",
+    "name": "Escondido River"
+  },
+  {
+    "id": "indio-maiz-reserve-nature-v2",
+    "name": "Indio Ma\u00edz Biological Reserve"
+  },
+  {
+    "id": "peninsula-de-chiltepe-nature-v2",
+    "name": "Chiltepe Peninsula"
+  },
+  {
+    "id": "la-flor-wildlife-refuge-nature-v2",
+    "name": "La Flor Wildlife Refuge"
+  },
+  {
+    "id": "gulf-of-fonseca-nicaragua-nature-v2",
+    "name": "Gulf of Fonseca (Nicaragua)"
+  },
+  {
+    "id": "rio-tuma-nature-v2",
+    "name": "Tuma River"
+  },
+  {
+    "id": "tisey-estanzuela-reserve-nature-v2",
+    "name": "Tisey-Estanzuela Nature Reserve"
+  },
+  {
+    "id": "rio-prinza-nature-v2",
+    "name": "Prinzapolka River"
+  },
+  {
+    "id": "miskito-cays-nature-v2",
+    "name": "Miskito Cays"
+  },
+  {
+    "id": "rio-grande-de-matagalpa-nature-v2",
+    "name": "Grande de Matagalpa River"
+  },
+  {
+    "id": "zapatera-island-nature-v2",
+    "name": "Zapatera Island"
+  },
+  {
+    "id": "laguna-de-perlas-nature-v2",
+    "name": "Pearl Lagoon (body of water)"
+  },
+  {
+    "id": "telica-volcano-nature-v2",
+    "name": "Telica Volcano"
+  },
+  {
+    "id": "san-lorenzo-cloud-forest-nature-v2",
+    "name": "San Lorenzo Cloud Forest"
+  },
+  {
+    "id": "little-corn-island-nature-v2",
+    "name": "Little Corn Island"
+  },
+  {
+    "id": "cosiguina-lagoon-nature-v2",
+    "name": "Cosig\u00fcina Lagoon"
+  },
+  {
+    "id": "estero-real-nature-v2",
+    "name": "Estero Real"
+  },
+  {
+    "id": "rio-bocay-nature-v2",
+    "name": "Bocay River"
+  },
+  {
+    "id": "cerro-el-arenal-nature-v2",
+    "name": "El Arenal Hill"
+  },
+  {
+    "id": "saslaya-national-park-nature-v2",
+    "name": "Saslaya National Park"
+  },
+  {
+    "id": "caribbean-sea-nicaragua-nature-v2",
+    "name": "Caribbean Sea (Nicaragua)"
+  },
+  {
+    "id": "pacific-ocean-nicaragua-nature-v2",
+    "name": "Pacific Ocean (Nicaragua)"
+  },
+  {
+    "id": "cerro-negro-forest-nature-v2",
+    "name": "Dry Forest around Cerro Negro"
+  },
+  {
+    "id": "laguna-nejapa-nature-v2",
+    "name": "Nejapa Lagoon"
+  },
+  {
+    "id": "rio-wawa-nature-v2",
+    "name": "Wawa River"
+  },
+  {
+    "id": "cordillera-chontale-relief-v2",
+    "name": "Chontale\u00f1a Mountain Range"
+  },
+  {
+    "id": "cerro-saslaya-relief-v2",
+    "name": "Mount Saslaya"
+  },
+  {
+    "id": "meseta-pueblos-relief-v2",
+    "name": "Pueblos Plateau"
+  },
+  {
+    "id": "valle-de-seaco-relief-v2",
+    "name": "S\u00e9baco Valley"
+  },
+  {
+    "id": "llanos-de-esteli-relief-v2",
+    "name": "Estel\u00ed Plains"
+  },
+  {
+    "id": "selva-de-las-nubes-relief-v2",
+    "name": "Cloud Forest"
+  },
+  {
+    "id": "cerro-killibrin-relief-v2",
+    "name": "Mount Killibrin"
+  },
+  {
+    "id": "valle-de-las-garzas-relief-v2",
+    "name": "Las Garzas Valley"
+  },
+  {
+    "id": "sierra-de-diabolo-relief-v2",
+    "name": "Devil"
+  },
+  {
+    "id": "cerro-mogoton-relief-v2",
+    "name": "Mount Mogot\u00f3n"
+  },
+  {
+    "id": "valle-de-la-luna-relief-v2",
+    "name": "Valley of the Moon"
+  },
+  {
+    "id": "cerro-kilambe-relief-v2",
+    "name": "Mount Kilamb\u00e9"
+  },
+  {
+    "id": "meseta-de-juigalpa-relief-v2",
+    "name": "Juigalpa Plateau"
+  },
+  {
+    "id": "cerro-el-pilon-relief-v2",
+    "name": "Mount El Pil\u00f3n"
+  },
+  {
+    "id": "valle-de-osua-relief-v2",
+    "name": "Osua Valley"
+  },
+  {
+    "id": "meseta-del-pacifico-relief-v2",
+    "name": "Pacific Plateau"
+  },
+  {
+    "id": "valle-de-jalapa-relief-v2",
+    "name": "Jalapa Valley"
+  },
+  {
+    "id": "cerro-punta-gorda-relief-v2",
+    "name": "Mount Punta Gorda"
+  },
+  {
+    "id": "meseta-jinotega-relief-v2",
+    "name": "Jinotega Plateau"
+  },
+  {
+    "id": "cerro-la-quinta-relief-v2",
+    "name": "Mount La Quinta"
+  },
+  {
+    "id": "valle-de-la-libertad-relief-v2",
+    "name": "Libertad Valley"
+  },
+  {
+    "id": "cerro-coyol-relief-v2",
+    "name": "Mount Coyol"
+  }
+]

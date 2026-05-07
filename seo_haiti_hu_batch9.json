@@ -1,0 +1,183 @@
+{
+  "lang": "hu",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ht-riviere-de-nippes-nature-v2",
+      "descriptionAdvanced": "A Rivière de Nippes (Nippes-folyó) egy rövid, de annál jelentősebb vízfolyás, amely a délnyugati félsziget hegyeiben ered és Miragoâne városa közelében, a Nippes megyében torkollik a tengerbe. Bár a folyó hossza nem éri el az Artibonite-ét, a vízgyűjtő területe létfontosságú a helyi agrárgazdaság, különösen a cukornád- és banánültetvények számára. A folyó torkolatvidéke sűrű, buja trópusi zöldbe burkolózik, ahol a friss víz keveredik a tengerrel, fontos ívóhelyet biztosítva a helyi halfajoknak. A szárazföld belsejében a folyót gyakran használják hagyományos ruhamosásra, fürdésre és a helyi vudu rituálék során (a víziszellemek, vagyis a Lwa Simbi tiszteletére). A klímaváltozás és az erdőirtás miatt azonban a Rivière de Nippes vízhozama a száraz évszakokban egyre kritikusabb szintre csökken. Földrajz K6 — hegyi folyók és a helyi közösségek.",
+      "factsAdvanced": [
+        "A Nippes megyében folyik, a Massif de la Hotte északi lejtőiről indulva.",
+        "Rövid folyású, de a vízgyűjtő területe kritikusan fontos a helyi mezőgazdaságnak.",
+        "A torkolat (estuaire) fontos ökológiai átmeneti zóna (édesvíz-tengervíz).",
+        "Kulturálisan és vallásilag is jelentős a helyi mosási és vudu rituálékban.",
+        "Vízhozama rendkívül ingadozó; nyáron drasztikusan lecsökken.",
+        "A folyóparti növényzet megóvása kulcsfontosságú az erózió megállításához."
+      ]
+    },
+    {
+      "id": "ht-foret-des-pins-reserve-nature-v2",
+      "descriptionAdvanced": "A Forêt des Pins Rezervátum (Fenyőerdő Rezervátum) Haiti egyik utolsó megmaradt nagy kiterjedésű, magasan fekvő tűlevelű erdeje a Chaîne de la Selle hegységben, az Ouest és Sud-Est megyék határán. Ez a természetes 'fenyő-tenger' 1500 és 2200 méter közötti magasságban terül el, ahol a hűvös, gyakran ködös, alpesi klíma lehetővé teszi az endemikus hispaniolai fenyő (Pinus occidentalis) növekedését. A rezervátum évtizedeken át az ország legfőbb fenyőfa- és gyantakitermelő helye volt, ami jelentős területek elvesztéséhez vezetett. Ma, bár névleg védett, a rezervátum folyamatos harcot vív az illegális faszénégetőkkel (carboniers) és a földet égető parasztokkal szemben. Az erdő lombkoronája alatt gazdag cserje- és mohaszint húzódik, amely menedéket nyújt olyan ritka madaraknak, mint a hispaniolai papagáj. Földrajz K8 — magaslati tűlevelű erdők az Egyenlítő közelében.",
+      "factsAdvanced": [
+        "A Chaîne de la Selle vonulatában, mintegy 2000 méteres átlagmagasságban fekszik.",
+        "Kizárólag itt honos a hispaniolai fenyő (Pinus occidentalis) nagy egyedszámban.",
+        "Hideg, csapadékos, gyakran ködös mikroklímája éles kontraszt a partvidékkel.",
+        "Súlyosan érintett a deforesztáció és az illegális fakitermelés által.",
+        "Az Ouest megye és Port-au-Prince egyik legfontosabb csapadékvíz-megkötő területe.",
+        "Hivatalosan nemzeti parki státusszal (vagy rezervátumi védelemmel) rendelkezik."
+      ]
+    },
+    {
+      "id": "ht-les-cayemites-nature-v2",
+      "descriptionAdvanced": "A Les Cayemites egy ikersziget-csoport (Petite Cayemite és Grande Cayemite) a Gonâve-öbölben, a Grand'Anse megye északi partjaitól mindössze néhány kilométerre. A szigetek domborzata alacsony, karsztos mészkőből épül fel, és jórészt száraz, tüskés bozótos, illetve ritkás trópusi erdő borítja őket. Elszigeteltségük miatt a szigetek az érintetlen természet szigetei maradtak a haiti partvidéken. Lakosságuk csekély, infrastruktúrájuk szinte teljesen hiányzik, nincsenek autók vagy aszfaltozott utak. A helyiek hagyományos, kisüzemi halászatból élnek a környező sekély, smaragdzöld vizeken, amelyek gazdagok tengerifűben és korallokban. Ezek a vizek egyben a karibi manátusz (lamantin) egyik utolsó ismert haiti élőhelyei is. A szigetek tiszta strandjai és rejtett öblei miatt a terület jelentős jövőbeli ökoturisztikai potenciált rejt. Földrajz K6 — partmenti karsztszigetek és halászati kultúra.",
+      "factsAdvanced": [
+        "Két mészkőszigetből (Grande és Petite Cayemite) áll a Grand'Anse partjainál.",
+        "Gépjárműforgalom nélküli, rendkívül elszigetelt, rurális terület.",
+        "Haiti egyik legtisztább, legkevésbé szennyezett parti ökoszisztémája.",
+        "A part menti vizek a ritka karibi manátusz (Trichechus manatus) élőhelyei.",
+        "A szigetek közötti csatornák sekélyek, ideálisak a tengerifű-mezők számára.",
+        "A helyi lakosság megélhetése szinte teljes mértékben a halászattól függ."
+      ]
+    },
+    {
+      "id": "ht-trou-caiman-nature-v2",
+      "descriptionAdvanced": "A Trou Caïman (Kajmán Lyuk) egy terjedelmes édes- és brakkvizes mocsárvidék az Ouest megyében, a Plaine du Cul-de-Sac keleti részén. Történelmileg egy sokkal nagyobb tórendszer része volt, amely összeköttetésben állt a szomszédos Etang Saumâtre-ral. A kiterjedt náddal, gyékénnyel és sással borított vízfelület (amikor épp nem sújtja extrém aszály) Haiti legjelentősebb vízimadár-élőhelye. Télen több ezer vándormadár, köztük flamingók, kanalasgémek és vadrécék érkeznek ide Észak-Amerikából. Bár nevét az egykor itt tömegesen élő hegyesorrú krokodilokról (kajmánokról) kapta, ezeket a vadászat és az élőhely pusztulása miatt szinte teljesen kiirtották. Ma a helyi földművesek folyamatosan csapolják le a mocsár széleit rizstermesztés céljából, ami a klímaváltozással párosulva a tó kiszáradásával fenyeget. Földrajz K8 — vizes élőhelyek és ökológiai stressz.",
+      "factsAdvanced": [
+        "Az Ouest megyében, az Etang Saumâtre tótól északnyugatra található.",
+        "Sekély mélységű (átlagosan alig 1 méter), kiterjedt édesvizű mocsár.",
+        "Nemzetközi jelentőségű madárvédelmi terület (IBA) a telelő vízimadarak számára.",
+        "A krokodilpopuláció (amelyről a nevét kapta) mára kritikusan lecsökkent vagy eltűnt.",
+        "Vízszintje drasztikusan ingadozik az évszakok és a mezőgazdasági vízkivétel hatására.",
+        "Súlyosan fenyegeti a rizstermesztés miatti területfoglalás és a lecsapolás."
+      ]
+    },
+    {
+      "id": "ht-canal-de-saint-marc-nature-v2",
+      "descriptionAdvanced": "A Canal de Saint-Marc (Saint-Marc-csatorna) egy mély és széles tengeri csatorna, amely Haiti központi partvidékét, konkrétan az Artibonite megye partjait választja el a hatalmas Gonâve-szigettől. Ez a stratégiai vízterület a Gonâve-öböl (Golfe de la Gonâve) északi kijárata a nyílt Karib-tenger felé. Mély vizének (néhol eléri az 1000 métert) és kedvező áramlatainak köszönhetően ez Haiti egyik legfontosabb nemzetközi hajózási útvonala, amelyen keresztül a Port-au-Prince-be és Saint-Marc-ba tartó hatalmas konténerszállító hajók haladnak. Ökológiai szempontból a csatorna mélytengeri áramlatai ('upwelling') tápanyagban gazdag hideg vizet hoznak a felszínre, ami vonzza a nagy pelágikus (nyílt vízi) halakat, például a kardhalat, a marlint és a tonhalat, így a csatorna népszerű, de veszélyes terep a helyi halászok számára. Földrajz K8 — óceáni csatornák és mélytengeri hajózás.",
+      "factsAdvanced": [
+        "A szárazföldi Haiti (Artibonite megye) és a Gonâve-sziget északi partja között húzódik.",
+        "Mélyvízi csatorna, fontos tranzitútvonal a Port-au-Prince-be tartó teherhajóknak.",
+        "A vízmélység itt meredeken esik, néhol az 1000 métert is meghaladja.",
+        "Az óceáni áramlatok miatt a vizek gazdagok pelágikus (nyílt tengeri) halakban.",
+        "Keresztezése a kis vitorlások (chaloupes) számára kockázatos a hirtelen szelek miatt.",
+        "A csatorna mélye fontos geológiai törésvonalakat (pl. a Septentrional törést) is rejt."
+      ]
+    },
+    {
+      "id": "ht-canal-du-sud-nature-v2",
+      "descriptionAdvanced": "A Canal du Sud (Déli-csatorna) az a széles tengeri átjáró, amely a Gonâve-sziget déli partjait választja el a Tiburon-félszigettől (Ouest, Nippes és Grand'Anse megyék északi partjaitól). A csatorna vizuálisan lenyűgöző, ahogy a déli magas, zöld hegyek meredeken zuhannak a tengerbe. Bár sekélyebb, mint a Saint-Marc-csatorna, navigációs szempontból legalább olyan fontos a belföldi áruszállítás (cabotage) számára, amely összeköti a déli kikötőket (Miragoâne, Jérémie) a fővárossal és a szigettel. A Canal du Sud különleges mikroklímával bír; a déli hegyek esőárnyéka miatt az áramlatok és a széljárások gyorsan változnak. A parti sekélyesek (pl. a Cayemites-szigetek környékén) fontos tengeri óvodák, ám a csatornát gyakran szennyezik az intenzív mezőgazdaság által lemosott talaj és növényvédő szerek maradványai az esős évszakban. Földrajz K8 — partmenti tengeráramlatok és belföldi hajózás.",
+      "factsAdvanced": [
+        "A Gonâve-sziget déli pereme és a Tiburon-félsziget (déli megyék) között terül el.",
+        "Kritikus tengeri útvonal a déli országrész és Port-au-Prince belföldi áruszállításában.",
+        "Sekélyebb, homokpadokkal és zátonyokkal sűrűbben pettyezett, mint az északi csatorna.",
+        "Partvonalát meredek hegyek (pl. a Chaîne des Matheux és a déli masszívum) keretezik.",
+        "Az esős évszakban a megáradó déli folyók hatalmas iszaptömeget mosnak a csatornába.",
+        "A helyi halászok intenzíven használják a part menti, védettebb vizeket."
+      ]
+    },
+    {
+      "id": "ht-montagnes-noires-nature-v2",
+      "descriptionAdvanced": "A Montagnes Noires (Fekete Hegység) egy jelentős, központi elhelyezkedésű hegyvonulat, amely elválasztja az Artibonite megye északi részét a Plateau Central (Központi Fennsík) medencéjétől. A hegység nevét a sötét, dús trópusi lombozatról vagy a feketés kőzetekről kaphatta, bár a mai erdőirtások miatt a 'fekete' jelző már kevésbé illik a pogasz, lekopaszított hegyoldalakra. A hegység legmagasabb csúcsai elérik az 1700 métert. Geológiailag főként mészkőből áll, amely számos kis folyót és forrást táplál (például a Rivière de l'Estère vízgyűjtője). A Montagnes Noires nehéz terepe történelmileg mindig is természetes akadályt jelentett a belső területek és az Artibonite síkság között, ugyanakkor a haiti forradalom idején biztonságos menedéket nyújtott a hegyekbe menekülő 'marroon' harcosoknak. Földrajz K7 — középhegységi vonulatok és geomorfológia.",
+      "factsAdvanced": [
+        "Központi hegyvonulat, amely az Artibonite-síkságot és a Plateau Centralt választja el.",
+        "Legmagasabb pontjai 1500–1700 méter körül vannak.",
+        "A karsztos (mészkő) geológia miatt számos búvópatak és barlang található a hegyekben.",
+        "Történelmileg az ország egyik legfontosabb kávétermő területe volt a meredek lejtőkön.",
+        "Az intenzív faszénégetés és mezőgazdaság miatt ma már nagyrészt deforesztált.",
+        "Menedéket és gerillabázist biztosított a forradalom és a későbbi felkelések alatt."
+      ]
+    },
+    {
+      "id": "ht-riviere-momance-nature-v2",
+      "descriptionAdvanced": "A Rivière Momance (Momance-folyó) egy sebes folyású hegyi folyó az Ouest megyében, amely a Massif de la Selle északi lejtőiről ered, és a Léogâne-síkságon (Plaine de Léogâne) keresztül a Karib-tengerbe (a Gonâve-öbölbe) ömlik. A folyó rendkívül fontos szerepet játszik Léogâne híres cukornádültetvényeinek – és közvetve a clairin rumgyártásnak – a természetes öntözésében. Mivel a folyó nagy esésű hegyoldalakon gyűjti össze a vizet, a vízjárása hektikus: a száraz hónapokban kőmedre szinte teljesen kiszárad, de a trópusi esőzések és hurrikánok alatt iszonyatos erejű villámárvizeket (crues) produkál, amelyek gyakran elöntik a síkságot és elsodorják a hidakat. A folyótorkolat vidéke a folyamatos iszaplerakódás miatt változó partvonalú. A folyó a helyi vudu hiedelmekben a vízi loa-k lakhelyeként is tisztelt terület. Földrajz K6 — hegyi vízgyűjtők és síksági öntözés.",
+      "factsAdvanced": [
+        "Az Ouest megyében, a Massif de la Selle-ben eredő, északi irányban folyó vízfolyás.",
+        "A Léogâne-síkság legfontosabb természetes öntözőbázisa (főként cukornádhoz).",
+        "A meredek hegyvidéki forrásvidék miatt rendkívül hajlamos a hirtelen áradásokra.",
+        "Torkolatánál (Léogâne mellett) jelentős iszapos, hordalékos deltát épít.",
+        "A száraz évszakban (december-március) a meder nagy része gyakran kiszárad.",
+        "Kulturálisan fontos szerepet játszik a helyi közösségek tisztálkodási és vallási rituáléiban."
+      ]
+    },
+    {
+      "id": "ht-riviere-des-trois-rivieres-nature-v2",
+      "descriptionAdvanced": "A Trois Rivières (Három Folyó) nevű vízfolyás Haiti északnyugati régiójának, a Nord-Ouest megyének az ütőere. Bár a neve 'három folyót' jelent, ez valójában a forrásvidék három nagy ágának (köztük a Rivière de Gros-Morne) összefolyására utal, mielőtt azok egyetlen, széles mederben Port-de-Paix városánál a Tortuga-csatornába ömlenének. A folyó völgye az ország egyik legbujább, zöld oázisa az amúgy kifejezetten száraz északnyugati félszigeten. Hatalmas banán-, plantán- és kakaóültetvények kísérik az útját, mivel a folyó megbízható vizet biztosít a mezőgazdaságnak. A torkolatnál, Port-de-Paix-nál azonban az áradások és a hordalékosodás komoly problémát jelentenek a városi infrastruktúra számára. A Trois Rivières egyedülálló ökológiai folyosót képez a hegyvidéki és a partmenti száraz erdők között. Földrajz K7 — vízrajzi rendszerek és oázis-szerű folyóvölgyek.",
+      "factsAdvanced": [
+        "A Nord-Ouest megye legnagyobb és legbővizűbb folyórendszere.",
+        "Nevét a felső szakaszán egyesülő három nagyobb vízfolyásról kapta.",
+        "Port-de-Paix városánál, a sziget északi partján ömlik az óceánba.",
+        "Völgye zöldellő, termékeny oázis (banán, kakaó) a száraz északnyugati régióban.",
+        "A heves áradások rendszeresen veszélyeztetik Port-de-Paix alacsonyabban fekvő negyedeit.",
+        "A folyó a szárazföld belsejében fontos közlekedési és mosási pont a helyieknek."
+      ]
+    },
+    {
+      "id": "ht-grande-cayemite-island-nature-v2",
+      "descriptionAdvanced": "A Grande Cayemite a Les Cayemites szigetcsoport nagyobbik tagja, amely a Tiburon-félsziget északi partjaitól, Grand'Anse megyétől (Corail és Pestel magasságában) néhány kilométerre fekszik a tengerben. Ez a körülbelül 45 négyzetkilométeres, karsztos mészkőből álló sziget szinte teljesen mentes a modern civilizáció zajától. Mivel a mészkő magába szívja az édesvizet, felszíni folyók nincsenek, a növényzet ritkás, szárazságtűrő trópusi cserjés. A mintegy 18 000 lakos (főként Anse-à-Maçon településen) hagyományos partmenti halászatból, kecsketenyésztésből és kézműves faszénkészítésből él. A sziget igazi természeti kincse azonban a víz alatt rejlik: a partjait övező sekély, türkizkék lagúnákban kiterjedt tengerifű-mezők (Thalassia testudinum) húzódnak, amelyek a karibi manátuszoknak (lamantinok) adnak otthont. A sziget ökoturisztikai gyöngyszem lehetne, ha a megközelíthetősége jobb lenne. Földrajz K7 — elszigetelt szigeti ökoszisztémák és karsztvidékek.",
+      "factsAdvanced": [
+        "A Grand'Anse megye északi partjainál fekvő, mintegy 45 km² területű mészkősziget.",
+        "Szigorú karsztos domborzat jellemzi, felszíni édesvízi folyók nélkül.",
+        "A lakosság fő megélhetési forrása a tengeri halászat és az esővízgyűjtés.",
+        "Nincsenek aszfaltozott utak, az infrastruktúra és az áramellátás minimális.",
+        "A környező sekély vizekben (herbiers marins) él a rendkívül ritka karibi lamantin.",
+        "A száraz, bozótos növényzetet jelentősen károsítja az intenzív faszénégetés."
+      ]
+    },
+    {
+      "id": "ht-cap-du-mole-saint-nicolas-nature-v2",
+      "descriptionAdvanced": "A Cap du Môle (vagy Môle-Saint-Nicolas-fok) egy ikonikus, drámai tengerfok Haiti legészaknyugatibb csücskében, a Nord-Ouest megyében. Ez a meredek, hófehér mészkősziklákkal teli, kaktuszokkal és száraz bozótossal borított fok választja el az Atlanti-óceánt a Karib-tengertől, és őrzi a stratégiai fontosságú Szél felőli átjárót (Windward Passage) Kuba felé. Történelmileg is kiemelkedő jelentőségű: Kolumbusz Kristóf itt lépett először Hispaniola földjére 1492. december 6-án. A fok rendkívül erős, állandó passzátszeleknek (alizés) van kitéve, ami ideális helyszínné teszi a szörfösök és a jövőbeli szélerőműparkok számára, miközben a fákat szinte a földig hajlítja. A kopár táj, a történelmi francia és brit erődromok, valamint a mélykék óceán találkozása az egyik leglátványosabb természeti kontrasztot nyújtja az egész karibi térségben. Földrajz K8 — tengerfokok geomorfológiája és az állandó passzátszelek.",
+      "factsAdvanced": [
+        "Haiti legészaknyugatibb csücske a Nord-Ouest megyében, a Windward Passage mentén.",
+        "1492. december 6-án itt szállt partra először Kolumbusz Hispaniolán.",
+        "A domborzatát meredek mészkősziklák és félsivatagos, kaktuszos növényzet jellemzi.",
+        "Folyamatos, erős passzátszelek ostromolják, így hatalmas szélenergia-potenciállal bír.",
+        "Stratégiai fontossága miatt a gyarmati korban (brit és francia) sűrűn erődítették.",
+        "Kiváló természetes, mélyvizű, védett öböllel (Môle öböl) rendelkezik a fok mögött."
+      ]
+    },
+    {
+      "id": "ht-parc-national-des-trois-baies-nature-v2",
+      "descriptionAdvanced": "A Parc National des Trois Baies (A Három Öböl Nemzeti Park) Haiti legújabb és legnagyobb védett tengeri és parti övezete, amelyet 2014-ben hoztak létre a Nord-Est (Északkeleti) megyében. Nevét a három összefüggő, lenyűgöző öbölről kapta: a Baie de Limonade, a Baie de Caracol és a Baie de Fort-Liberté. Ez a több mint 75 000 hektáros park védi az ország legfontosabb megmaradt mangroveerdeit (amelyek a tengeri halak legfőbb 'óvodái'), a kiterjedt korallzátonyokat és a parti sómocsarakat. A terület gazdag madárvilágban és a veszélyeztetett tengeri teknősök is itt fészkelnek. A park azonban folyamatos konfliktusban áll az intenzív emberi tevékenységgel: a mangrovefákat gyakran vágják ki faszénnek vagy sólepárló medencék kialakításához, a közeli Caracol Ipari Park pedig potenciális ipari szennyezés forrása. A park védelme a haiti ökológiai jövő próbaköve. Földrajz K8 — tengeri nemzeti parkok és a mangrove-ökoszisztémák.",
+      "factsAdvanced": [
+        "2014-ben alapított, több mint 75 000 hektáros tengeri és parti nemzeti park.",
+        "Magában foglalja a Limonade, a Caracol és a Fort-Liberté öblöket (Nord-Est megye).",
+        "Haiti legnagyobb és legépebb egybefüggő mangrove-erdőségeit védi.",
+        "Kritikus élőhelye a tengeri teknősöknek, vízimadaraknak és a zátonyhalaknak.",
+        "Súlyosan fenyegeti a mangroveirtás a faszén és a sólepárlás ('marais salants') miatt.",
+        "Közvetlen szomszédja a hatalmas Caracol Ipari Park (PIC), amely ipari terhelést jelent."
+      ]
+    },
+    {
+      "id": "ht-gros-morne-mountain-nature-v2",
+      "descriptionAdvanced": "A Gros Morne (Nagy Hegy) nemcsak egy hegy, hanem egy kiterjedt hegyvidéki terület is az Artibonite és a Nord-Ouest megyék határán, amely uralja az északnyugati félsziget felé vezető utat. A masszív, de nagyrészt fátlanított hegygerincek leginkább száraz, meleg éghajlatukról és sziklás, erodált talajukról ismertek. Annak ellenére, hogy a környezet zord, a hegy lankáin található mélyebb völgyekben virágzik a gyümölcstermesztés, különösen a mangó (Francisque) termesztése, ami a helyi gazdaság alapja. A Gros Morne régió geológiai felépítése sok mészkövet tartalmaz, és az intenzív csapadékos időszakokban, fák hiányában a felszíni lefolyás katasztrofális sárlavinákat indíthat el az alacsonyabban fekvő települések, köztük az azonos nevű Gros-Morne városka felé. A táj drámai szépségű, de intő példája a talajpusztulásnak. Földrajz K7 — hegyvidéki erózió és mangótermesztés.",
+      "factsAdvanced": [
+        "Masszív hegyvidéki régió az Artibonite és a Nord-Ouest megye választóvonalán.",
+        "Az extenzív erdőirtás miatt hegyoldalai kopárak, a sziklák ('roches') kilátszanak.",
+        "Haiti egyik legfontosabb exportmangó-termő ('Francisque' fajta) vidéke.",
+        "A fátlanság miatt az esős évszakban súlyos sárlavinák és erózió sújtja.",
+        "A domborzat jelentős akadályt képez a Port-au-Prince és Port-de-Paix közötti közlekedésben.",
+        "A száraz völgyekben az állattartás (főként kecske) is kulcsfontosságú megélhetés."
+      ]
+    },
+    {
+      "id": "ht-baie-de-lacul-nature-v2",
+      "descriptionAdvanced": "A Baie de l'Acul (Acul-öböl) Észak-Haiti egyik leglenyűgözőbb, mélyen a szárazföldbe nyúló, tengerszoros-szerű öble a Nord megyében, Cap-Haïtien-től nyugatra. A teljesen szélvédett, nyugodt, sötétkék vizű öblöt magas, zöldellő hegyek ölelik körül, amelyek drámaian zuhannak a tengerbe. Kolumbusz Kristóf is horgonyzott itt 1492-ben, és naplóiban megénekelte az öböl biztonságát és szépségét. A vízfelszín alatt kiterjedt korallzátonyok és gazdag tengeri élet található, míg a partokat mangrove-bozótok szegélyezik. A helyiek elsősorban halászatból élnek, de a terület a nyugodt vizek és a festői környezet miatt hatalmas potenciállal rendelkezik a vitorlás turizmus számára. A közeli Labadee üdülőhely hajói időnként idelátogatnak, de a tömegturizmus szerencsére még elkerülte ezt az ökológiai ékszerdobozt. Földrajz K7 — védett öblök (ria-jellegű) és a tengeri halászat.",
+      "factsAdvanced": [
+        "A Nord megyében, Cap-Haïtien és Labadee között elhelyezkedő mély öböl.",
+        "Meredek, zöld hegyek veszik körül, így szinte teljesen védett a tengeri viharoktól.",
+        "Történelmi horgonyzóhely, 1492-ben Kolumbusz flottája is menedéket talált itt.",
+        "Vizei gazdagok partmenti halakban, a helyi halászat központja (L'Acul-du-Nord).",
+        "Kiváló természetes menedéket nyújt a jachtok és kisebb vitorlások számára.",
+        "Partvonalán még fellelhetők a védett mangrove-ökoszisztémák maradványai."
+      ]
+    }
+  ]
+}

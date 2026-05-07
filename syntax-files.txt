@@ -1,0 +1,8 @@
+lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts
+lib/visualLab/data/poiExtraSenegalCitiesV2.ts
+lib/visualLab/data/poiExtraSenegalEconomicV2.ts
+lib/visualLab/data/poiExtraSenegalHistoryV2.ts
+lib/visualLab/data/poiExtraSenegalLandmarksV2.ts
+lib/visualLab/data/poiExtraSenegalLifeV2.ts
+lib/visualLab/data/poiExtraSenegalNatureV2.ts
+lib/visualLab/data/poiExtraSenegalReliefV2.ts

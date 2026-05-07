@@ -1,0 +1,117 @@
+[
+  {
+    "id": "jalu-oasis-farm-life-v2",
+    "name": "Jalu Oasis Farming",
+    "desc": "Traditional cultivation in the oasis."
+  },
+  {
+    "id": "awjila-orchard-life-v2",
+    "name": "Awjila Date Grove",
+    "desc": "Historical oasis with date farming."
+  },
+  {
+    "id": "tauergha-park-life-v2",
+    "name": "Tauergha Park",
+    "desc": "A recreational area in reconstruction."
+  },
+  {
+    "id": "homsh-city-park-life-v2",
+    "name": "Homs City Park",
+    "desc": "A shaded park near the coast."
+  },
+  {
+    "id": "sirte-family-life-v2",
+    "name": "Sirte Family Center",
+    "desc": "A meeting place for families in Sirte."
+  },
+  {
+    "id": "murzuq-oasis-life-v2",
+    "name": "Murzuq Oasis",
+    "desc": "Traditional farming in the desert."
+  },
+  {
+    "id": "ghat-oasis-life-v2",
+    "name": "Ghat Oasis Farming",
+    "desc": "Farming at the edge of Tassili n"
+  },
+  {
+    "id": "zwara-green-belt-life-v2",
+    "name": "Zwara Green Belt",
+    "desc": "An agricultural protected area."
+  },
+  {
+    "id": "darj-oasis-life-v2",
+    "name": "Darj Oasis Gardens",
+    "desc": "Small gardens in the Libyan desert."
+  },
+  {
+    "id": "nalut-terrace-life-v2",
+    "name": "Nalut Terrace Farming",
+    "desc": "Historical terrace fields on the mountain."
+  },
+  {
+    "id": "jufra-orchard-life-v2",
+    "name": "Jufra Palm Groves",
+    "desc": "Large-scale cultivation of date palms."
+  },
+  {
+    "id": "tarhuna-nursery-life-v2",
+    "name": "Tarhuna Seedling Center",
+    "desc": "A facility for young fruit trees."
+  },
+  {
+    "id": "msallata-olive-life-v2",
+    "name": "Msallata Olive Plantations",
+    "desc": "Important olive region near the coast."
+  },
+  {
+    "id": "ghat-family-life-v2",
+    "name": "Ghat Family Square",
+    "desc": "A central place for families in Ghat."
+  },
+  {
+    "id": "bin-jawad-park-life-v2",
+    "name": "Bin Jawad Leisure Park",
+    "desc": "A park at the edge of the gulf."
+  },
+  {
+    "id": "al-azizia-agri-life-v2",
+    "name": "Al-Azizia Farmland",
+    "desc": "Fertile farmland south of Tripoli."
+  },
+  {
+    "id": "zintan-orchard-life-v2",
+    "name": "Zintan Orchard",
+    "desc": "A small orchard in the mountains."
+  },
+  {
+    "id": "wadi-al-hayat-nature-v2",
+    "name": "Wadi al-Hayat",
+    "desc": "A desert valley in the Sahara."
+  },
+  {
+    "id": "jebel-akhdar-nature-v2",
+    "name": "Jebel Akhdar",
+    "desc": "A mountain range in northeastern Libya."
+  },
+  {
+    "id": "lake-gaberoun-nature-v2",
+    "name": "Gaberoun Lake",
+    "desc": "A salt lake in the middle of the Sahara."
+  },
+  {
+    "id": "mandara-lakes-nature-v2",
+    "name": "Mandara Lakes",
+    "desc": "A group of salt lakes in the desert."
+  },
+  {
+    "id": "jebel-nafusa-nature-v2",
+    "name": "Jebel Nafusa",
+    "desc": "A mountain plateau in northwestern Libya."
+  },
+  {
+    "id": "gar-al-marah-nature-v2",
+    "name": "Gar al-Marah",
+    "desc": "A prominent elevation in the Green Mountain."
+  }
+]

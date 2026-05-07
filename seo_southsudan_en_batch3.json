@@ -1,0 +1,269 @@
+{
+  "lang": "en",
+  "country": "southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "paloch-oil-field-economic-v2",
+      "descriptionAdvanced": "The Paloch Oil Field, located in Upper Nile State, is one of South Sudan's most significant and productive petroleum extraction sites. It forms a central part of the Melut Basin, contributing a substantial portion of the nation's daily oil output. The field is equipped with extensive processing facilities and is connected to a major pipeline that transports crude oil through Sudan to international markets. As the primary engine of South Sudan's economy, Paloch represents both the immense resource wealth and the industrial complexity of the country's energy sector. Geography K8 – Fossil fuels and national infrastructure.",
+      "factsAdvanced": [
+        "One of the largest oil fields in the Melut Basin",
+        "Primary source of South Sudan's petroleum exports",
+        "Operated by large international energy consortia",
+        "Connected to the main export pipeline to Port Sudan",
+        "Includes extensive crude oil processing facilities",
+        "Critical for the national gross domestic product",
+        "Strategic industrial zone in Upper Nile State"
+      ]
+    },
+    {
+      "id": "thar-jath-oil-field-economic-v2",
+      "descriptionAdvanced": "Thar Jath is a major oil field located in Unity State, known for its significant reserves and its role in the country's energy production. The field is part of the Muglad Basin, a geological region shared with Sudan that contains vast petroleum deposits. Extraction at Thar Jath has historically been a key contributor to the regional economy, though it has also faced challenges related to environmental impact and local community development. The site features complex engineering infrastructure designed to handle the extraction of crude oil from deep subterranean layers. Economy K8 – Extractive industries and regional development.",
+      "factsAdvanced": [
+        "Major petroleum production site in Unity State",
+        "Located within the Muglad Basin geological zone",
+        "Significant contributor to the state's economic output",
+        "Equipped with modern drilling and pumping stations",
+        "Connected to the regional oil pipeline network",
+        "Focal point for discussions on environmental protection",
+        "Provides employment in the industrial energy sector"
+      ]
+    },
+    {
+      "id": "unity-oil-field-economic-v2",
+      "descriptionAdvanced": "The Unity Oil Field, situated near Bentiu in Unity State, is a cornerstone of South Sudan's petroleum industry. As one of the earliest developed fields in the region, it has played a historic role in establishing the country as a significant oil producer. The field produces high-quality Nile Blend crude oil, which is highly valued on the international market for its low sulfur content. The infrastructure at Unity includes processing plants and pumping stations that facilitate the flow of oil toward the main export conduits. Geography K8 – Energy resources and geopolitical significance.",
+      "factsAdvanced": [
+        "One of the oldest and most famous oil fields in the country",
+        "Producer of the premium 'Nile Blend' crude oil",
+        "Strategic industrial asset located near Bentiu",
+        "Connected to the northern export pipeline system",
+        "Significant historically for the nation's economic independence",
+        "Focal point for regional energy infrastructure development",
+        "Source of substantial national revenue"
+      ]
+    },
+    {
+      "id": "juba-river-port-economic-v2",
+      "descriptionAdvanced": "The Juba River Port is the most critical inland shipping terminal in South Sudan, located on the White Nile in the national capital. It serves as the primary hub for river-borne commerce, connecting the south of the country to the northern states and the Sudd region. Large barges frequently dock here to unload fuel, construction materials, and foodstuffs, while transporting regional agricultural products downstream. The port's development is essential for reducing transport costs and improving the country's logistical connectivity within the Nile Basin. Geography K7 – Inland waterways and urban logistics.",
+      "factsAdvanced": [
+        "Largest and busiest river port in South Sudan",
+        "Primary logistical hub for the White Nile trade",
+        "Main entry point for river-borne fuel and supplies",
+        "Vital link between the capital and the Sudd region",
+        "Strategic asset for the national transport network",
+        "Focus of modernization and expansion projects",
+        "Handles large-scale barge traffic and cargo"
+      ]
+    },
+    {
+      "id": "bor-river-port-economic-v2",
+      "descriptionAdvanced": "The Bor River Port is a strategic transit point located on the east bank of the White Nile in Jonglei State. It serves as a vital link between Juba and the northern river ports, as well as a gateway for the distribution of goods into the vast interior of Jonglei. The port is particularly important for the transport of livestock, grains, and humanitarian aid. Due to its location, it facilitates the movement of supplies into the Sudd wetlands, where road access is often limited or impossible during the rainy season. Economy K7 – River transport and regional trade.",
+      "factsAdvanced": [
+        "Key transit port on the White Nile in Jonglei",
+        "Strategic hub for livestock and grain transport",
+        "Essential for humanitarian aid distribution in the east",
+        "Provides vital access to the Sudd wetland regions",
+        "Major docking site for commercial Nile barges",
+        "Supports the local economy of Bor and surrounding areas",
+        "Critical link in the north-south river corridor"
+      ]
+    },
+    {
+      "id": "malakal-river-port-economic-v2",
+      "descriptionAdvanced": "Malakal River Port is the most important commercial terminal in northeastern South Sudan, situated on the White Nile in Upper Nile State. It serves as a crucial junction for trade between the oil-rich northern regions and the central parts of the country. The port handles significant volumes of petroleum products, agricultural equipment, and food supplies. Historically, Malakal has been a major center for Nile navigation, and its port remains a lifeline for the state's economy, especially for communities residing along the river's banks. Geography K7 – The role of rivers in regional commerce.",
+      "factsAdvanced": [
+        "Main commercial port for Upper Nile State",
+        "Strategic terminal for petroleum and agricultural trade",
+        "Vital junction for Nile navigation to the north",
+        "Primary supply point for the city of Malakal",
+        "Handles significant barge and passenger traffic",
+        "Key link in the transport chain to the Melut Basin",
+        "Historically significant center for Nilotic trade"
+      ]
+    },
+    {
+      "id": "mangalla-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The Mangalla Sugar Factory, located north of Juba in Central Equatoria, represents an ambitious attempt to industrialize the country's agricultural sector. The region around Mangalla features fertile soil and a climate well-suited for the large-scale cultivation of sugarcane. While the facility has faced challenges due to regional instability, it remains a symbol of the potential for agro-industrial development in South Sudan. Revitalizing such projects is seen as a key step toward achieving food self-sufficiency and diversifying the national economy beyond petroleum. Economy K8 – Agro-industrialization and food security.",
+      "factsAdvanced": [
+        "Major agro-industrial site in Central Equatoria",
+        "Designed for large-scale sugar production and refining",
+        "Surrounded by fertile sugarcane plantation lands",
+        "Strategic location on the White Nile north of Juba",
+        "Symbol of national efforts to diversify the economy",
+        "Potential hub for regional agricultural employment",
+        "Key project for achieving national food self-sufficiency"
+      ]
+    },
+    {
+      "id": "nzara-cotton-ginnery-economic-v2",
+      "descriptionAdvanced": "The Nzara Cotton Ginnery is a historical landmark of industrial development in Western Equatoria, established as part of the Zande Project in the mid-20th century. This facility was once the centerpiece of a thriving textile industry that processed locally grown cotton for both domestic use and export. Although the ginnery's output has fluctuated over the decades, the infrastructure remains a testament to the region's industrial potential. Its location in the fertile Green Belt makes it a prime candidate for agricultural revitalization and local manufacturing growth. History K8 – Industrial projects in the late colonial era.",
+      "factsAdvanced": [
+        "Historical core of the Zande industrial project",
+        "Primary facility for cotton processing in the southwest",
+        "Symbol of Western Equatoria's industrial heritage",
+        "Located in the highly productive Green Belt region",
+        "Potential center for modern textile manufacturing",
+        "Strategic asset for regional agricultural value chains",
+        "Evidence of early efforts in industrial self-reliance"
+      ]
+    },
+    {
+      "id": "renk-river-port-economic-v2",
+      "descriptionAdvanced": "The Renk River Port is the northernmost river terminal in South Sudan, located in Upper Nile State near the border with Sudan. It serves as a vital transshipment point for agricultural products, particularly sorghum and gum arabic, harvested from the region's vast mechanized farms. The port facilitates the movement of these goods downstream to Juba and upstream to Sudanese markets. Its strategic border location makes it a critical node for international trade and a primary source of revenue for the northern region. Geography K7 – Border ports and agricultural logistics.",
+      "factsAdvanced": [
+        "Northernmost river port on the White Nile",
+        "Primary terminal for sorghum and gum arabic exports",
+        "Strategic trade link between South Sudan and Sudan",
+        "Critical logistical hub for mechanized agriculture",
+        "Major revenue source for Upper Nile State",
+        "Handles high volumes of barge traffic and grain",
+        "Gateway for northern commercial goods"
+      ]
+    },
+    {
+      "id": "kapoeta-gold-mines-economic-v2",
+      "descriptionAdvanced": "The Kapoeta Gold Mines in Eastern Equatoria are among the most significant artisanal mining areas in South Sudan. The region is rich in alluvial gold deposits, which are traditionally mined by local communities, particularly the Toposa. This economic activity provides a primary source of income for thousands of people in the semi-arid southeast. While much of the mining remains small-scale, the area has attracted interest for potential commercial development. The gold trade in Kapoeta is a vital component of the regional economy and a unique part of local cultural identity. Geography K8 – Mineral wealth and artisanal mining.",
+      "factsAdvanced": [
+        "Major center for artisanal gold mining in the southeast",
+        "Rich in alluvial gold deposits in riverbeds",
+        "Primary income source for the Toposa people",
+        "Strategic mineral resource for Eastern Equatoria",
+        "Focal point for regional precious metal trade",
+        "Significant potential for commercial mining development",
+        "Cultural and economic landmark of the Kapoeta region"
+      ]
+    },
+    {
+      "id": "bentiu-oil-refinery-economic-v2",
+      "descriptionAdvanced": "The Bentiu Oil Refinery represents a significant step toward South Sudan's goal of processing its own natural resources domestically. Located in the heart of the oil-rich Unity State, the refinery is designed to process crude oil into refined products such as diesel and furnace oil for local consumption. This facility aims to reduce the country's dependence on expensive fuel imports and provide a steady supply of energy for regional industries. The refinery's presence underscores the strategic importance of Bentiu as an industrial hub for the national energy sector. Economy K8 – Industrial refining and resource sovereignty.",
+      "factsAdvanced": [
+        "First major domestic oil refinery in the country",
+        "Located in the strategic energy hub of Bentiu",
+        "Processes local crude oil for domestic use",
+        "Aims to reduce reliance on refined fuel imports",
+        "Key facility for regional industrial growth",
+        "Strategic asset for national energy security",
+        "Located near the Bahr el Ghazal river"
+      ]
+    },
+    {
+      "id": "shambe-river-port-economic-v2",
+      "descriptionAdvanced": "Shambe River Port is a strategic inland terminal located in Lakes State, serving as an important docking point for barges navigating the White Nile through the Sudd wetlands. The port is essential for the distribution of goods to the central parts of the country and serves as a major center for the regional fish trade. Due to the difficult terrain of the surrounding swamps, the port at Shambe provides a rare and vital connection for communities that are otherwise isolated from the main road networks. Geography K7 – River transport in wetland environments.",
+      "factsAdvanced": [
+        "Strategic river terminal in the Sudd region",
+        "Major hub for the trade of Nile fish",
+        "Vital supply point for central Lakes State",
+        "Provides connectivity in difficult swamp terrain",
+        "Important docking site for deep-river barges",
+        "Supports the livelihoods of local fishing communities",
+        "Key link in the White Nile transport corridor"
+      ]
+    },
+    {
+      "id": "aweil-rice-mill-economic-v2",
+      "descriptionAdvanced": "The Aweil Rice Mill is the industrial heart of the Aweil Rice Scheme in Northern Bahr el Ghazal. This facility is designed to process and package rice grown in the fertile floodplains of the Lol River, serving as a model for large-scale agricultural industrialization in South Sudan. When fully operational, the mill has the capacity to supply a significant portion of the country's rice needs, contributing to national food security. The project represents a major investment in the agricultural potential of the northwest and a vital source of local employment. Economy K8 – Agricultural processing and food security.",
+      "factsAdvanced": [
+        "Primary processing facility for the Aweil Rice Scheme",
+        "Major industrial asset in Northern Bahr el Ghazal",
+        "Designed to enhance national rice self-sufficiency",
+        "Located in the fertile Lol River basin",
+        "Key employer in the regional agricultural sector",
+        "Symbol of South Sudan's potential in mechanized farming",
+        "Strategic site for food production and distribution"
+      ]
+    },
+    {
+      "id": "fula-rapids-hydro-economic-v2",
+      "descriptionAdvanced": "The Fula Rapids, located on the White Nile near Nimule, are considered the most promising site for hydroelectric power generation in South Sudan. The rapids possess immense hydraulic energy due to the river's high volume and steep gradient at this point. Developing a power plant here is a strategic national priority aimed at providing clean, affordable electricity to Juba and other major towns. Such a project would be transformative for the country's industrial development, reducing reliance on costly diesel generators and supporting regional economic integration. Science K8 – Renewable energy and hydroelectricity.",
+      "factsAdvanced": [
+        "Premier site for hydroelectric power in the country",
+        "Located on the White Nile near the Uganda border",
+        "Capable of generating significant renewable energy",
+        "Key project for national industrial electrification",
+        "Strategically located near the Nimule-Juba road",
+        "Transformative potential for the local and national economy",
+        "Harnesses the natural energy of the Fula Rapids"
+      ]
+    },
+    {
+      "id": "yirol-sesame-plant-economic-v2",
+      "descriptionAdvanced": "The Yirol Sesame Plant is a specialized agricultural facility in Lakes State dedicated to the processing of sesame seeds, one of South Sudan's most important non-oil exports. The region around Yirol is famous for the high quality of its sesame, which thrives in the local climate. The plant aims to add value to the raw harvest by producing sesame oil and other products for domestic and international markets. This project is a key example of how local agricultural strengths can be leveraged to create industrial growth and improve rural livelihoods. Economy K8 – Value addition in the agricultural sector.",
+      "factsAdvanced": [
+        "Leading facility for sesame processing in Lakes State",
+        "Produces high-quality sesame oil for trade",
+        "Strategic project for agricultural value addition",
+        "Located in a prime sesame-growing region",
+        "Supports thousands of local smallholder farmers",
+        "Key contributor to the region's non-oil economy",
+        "Model for rural industrial development"
+      ]
+    },
+    {
+      "id": "kuajok-meat-plant-economic-v2",
+      "descriptionAdvanced": "The Kuajok Meat Plant is an industrial facility in Warrap State designed to process livestock from the region's vast cattle herds. Warrap is one of the most cattle-rich areas in South Sudan, and the plant aims to modernize the meat industry by providing high-standard slaughtering and packaging services. By adding value to the livestock sector, the facility helps pastoralist communities transition toward a more commercialized economy. The project is vital for improving meat safety, supporting exports, and creating industrial jobs in the western part of the country. Economy K8 – Modernizing the livestock industry.",
+      "factsAdvanced": [
+        "Major livestock processing facility in Warrap State",
+        "Designed to modernize the regional meat trade",
+        "Strategic asset for the cattle-rich western states",
+        "Aims to enhance the value of local livestock",
+        "Key center for industrial animal products",
+        "Supports the transition to a commercial pastoral economy",
+        "Located in the administrative hub of Kuajok"
+      ]
+    },
+    {
+      "id": "terekeka-fish-center-economic-v2",
+      "descriptionAdvanced": "The Terekeka Fish Center is a crucial facility for the collection and processing of Nile fish caught by the Mundari and other local communities. Located on the White Nile, it serves as the primary supply hub for fresh and dried fish destined for the markets of Juba. The center provides infrastructure for cooling and drying, which is essential for reducing post-harvest losses and improving the quality of the catch. This facility is a vital part of the local economy, supporting the livelihoods of thousands of fishermen and traders along the river. Biology K7 – Sustainable fishing and aquatic resources.",
+      "factsAdvanced": [
+        "Primary hub for the Nile fish trade in Central Equatoria",
+        "Key supplier of fresh and dried fish to Juba",
+        "Provides essential cooling and processing infrastructure",
+        "Vital economic center for the Mundari community",
+        "Located on a strategic stretch of the White Nile",
+        "Enhances the value chain of the inland fishing industry",
+        "Supports sustainable use of river resources"
+      ]
+    },
+    {
+      "id": "adar-yale-oil-field-economic-v2",
+      "descriptionAdvanced": "Adar Yale is a major oil field situated in the Melut Basin of Upper Nile State. It is one of the primary production areas contributing to the country's total petroleum output. The field is characterized by large-scale extraction infrastructure and is integrated into the regional pipeline network that carries crude oil to the processing facilities at Paloch. The continued operation and development of Adar Yale are essential for maintaining the national revenue stream and supporting the industrial growth of the northern energy sector. Geography K8 – Resource extraction and pipeline networks.",
+      "factsAdvanced": [
+        "Significant oil production site in the Melut Basin",
+        "Located in the petroleum-rich Upper Nile State",
+        "Integrated into the Paloch industrial complex",
+        "Primary contributor to national energy revenues",
+        "Equipped with extensive drilling and transport systems",
+        "Strategically important for the national economy",
+        "Key node in the northern oil production chain"
+      ]
+    },
+    {
+      "id": "melut-basin-oil-complex-economic-v2",
+      "descriptionAdvanced": "The Melut Basin Oil Complex is a vast industrial region in Upper Nile State that encompasses several of South Sudan's most productive oil fields. This complex includes extraction sites, central processing facilities, and the starting points of the main export pipelines. It represents the pinnacle of industrial infrastructure in the country, where advanced engineering is used to manage the flow of hundreds of thousands of barrels of oil. The security and efficiency of the Melut Basin are paramount to the financial stability of the South Sudanese state. Economy K8 – The economics of petroleum and infrastructure.",
+      "factsAdvanced": [
+        "Most productive petroleum basin in South Sudan",
+        "Encompasses major fields like Paloch and Adar Yale",
+        "Center of massive national energy infrastructure",
+        "Primary source of government revenue",
+        "Strategic industrial zone with high-security status",
+        "Site of the country's largest processing facilities",
+        "Crucial node for international energy exports"
+      ]
+    },
+    {
+      "id": "mala-oil-field-economic-v2",
+      "descriptionAdvanced": "The Mala Oil Field is a productive petroleum extraction site located in Unity State. It forms part of the regional energy cluster that supports the national economy through the export of crude oil. The field is equipped with specialized pumping stations and is connected to the network that feeds into the main pipeline to the north. Like other fields in Unity State, Mala is a key part of the industrial landscape, providing employment and driving the development of regional infrastructure in one of South Sudan's most resource-wealthy areas. Geography K8 – Hydrocarbon resources in the Nile Basin.",
+      "factsAdvanced": [
+        "Important petroleum extraction field in Unity State",
+        "Contributor to the regional oil production output",
+        "Connected to the northern export pipeline network",
+        "Strategic industrial asset in the Muglad Basin",
+        "Source of regional and national economic revenue",
+        "Part of the Bentiu-centered energy cluster",
+        "Includes essential pumping and storage facilities"
+      ]
+    }
+  ]
+}

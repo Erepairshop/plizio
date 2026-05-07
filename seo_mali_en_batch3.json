@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMaliHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts",
+    "lib/visualLab/data/poiExtraMaliReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bourem-cities-v2",
+      "descriptionAdvanced": "Bourem is a strategic river town in northern Mali, located at the critical junction where the Niger River turns sharply southward towards Gao and Niger. Historically, it was a vital node for trans-Saharan trade and a key administrative post in the Gao Region. The town's economy is centered on river fishing, flood-recession agriculture, and livestock herding, which are essential for the local Songhai and Tuareg populations. Bourem also serves as a gateway to the Tilemsi Valley, a major fossil riverbed that leads into the Adrar des Ifoghas mountains. It remains a significant point for regional security and commercial transit in the north. Geography K7 — River confluences and desert trade.",
+      "factsAdvanced": [
+        "Strategically located where the Niger River turns south",
+        "Key gateway to the prehistoric Tilemsi Valley",
+        "Important administrative center in the Gao Region",
+        "Major hub for Songhai fishing and Tuareg herding",
+        "Historical junction for trans-Saharan caravan routes",
+        "Economy based on seasonal river flooding and livestock",
+        "Known for its traditional Sudano-Sahelian architecture",
+        "Critical node for regional transport between Gao and Timbuktu"
+      ]
+    },
+    {
+      "id": "ansongo-cities-v2",
+      "descriptionAdvanced": "Ansongo is a prominent river town in eastern Mali, situated on the Niger River south of Gao, near the border with Niger. It is a vital commercial and administrative center for the region, where the river's fertile banks support intensive rice cultivation and livestock herding. Ansongo is historically significant as a former province of the Songhai Empire and remains a cultural stronghold for the Songhai people. The town's river port is a busy terminal for the transit of goods between Mali and its eastern neighbors. It is also well-known for being located near the Ansongo-Ménaka animal reserve, which hosts diverse Sahelian wildlife. Geography K7 — River trade and Sahelian wildlife.",
+      "factsAdvanced": [
+        "Strategically located near the international border with Niger",
+        "Major river port for trade between Mali and West African neighbors",
+        "Center for the productive Ansongo-Ménaka animal reserve",
+        "Historical province of the medieval Songhai Empire",
+        "Key producer of irrigated rice and regional livestock",
+        "Administrative capital of the strategic Ansongo Cercle",
+        "Home to a diverse population of Songhai, Peul, and Tuareg",
+        "Known for its vibrant weekly markets and traditional crafts"
+      ]
+    },
+    {
+      "id": "menaka-cities-v2",
+      "descriptionAdvanced": "Ménaka is a remote and strategic city in eastern Mali, serving as the administrative capital of the Ménaka Region near the border with Niger. Located in a rugged Sahelian landscape, it is a primary cultural and political center for the Tuareg and Peul peoples. Ménaka's history is deeply tied to the nomadic traditions of the Sahara, where livestock herding, particularly camels and cattle, forms the backbone of the economy. The city is famous for its dramatic desert scenery and its position as a key outpost on the trans-Saharan routes. It remains a vital but isolated hub for regional governance and desert commerce in Mali's vast eastern territory. Geography K7 — Desert outposts and nomadic livestock.",
+      "factsAdvanced": [
+        "Administrative capital of the Ménaka Region in eastern Mali",
+        "Strategic desert outpost near the border with Niger",
+        "Primary center for Tuareg and Peul nomadic culture",
+        "Economy is based on the large-scale trade of camels and cattle",
+        "Located in the arid transition zone of the eastern Sahel",
+        "Historical node for trans-Saharan caravan and trade routes",
+        "Known for its harsh climate and rugged desert landscapes",
+        "Key location for regional security and nomadic diplomacy"
+      ]
+    },
+    {
+      "id": "tessalit-cities-v2",
+      "descriptionAdvanced": "Tessalit is a strategic desert town in the extreme north of Mali, located in the Adrar des Ifoghas mountains near the Algerian border. Often called the 'Gateway to Algeria,' it is a vital transit point for trans-Saharan trade and migration. Tessalit is famous for its dramatic rocky landscapes and its unique desert climate, which supports specialized livestock herding. Historically, it has been an important administrative and military post due to its proximity to the border and its legendary gypsum mines. The town is a cultural center for the Kel Adagh Tuareg and is well-known for its traditional desert music and resilience. Geography K7 — High desert mountains and border trade.",
+      "factsAdvanced": [
+        "Strategically located near the international border with Algeria",
+        "Key gateway for trans-Saharan trade and transport",
+        "Located in the heart of the Adrar des Ifoghas mountains",
+        "Home to Mali's largest and most famous gypsum mines",
+        "Major cultural center for the Kel Adagh Tuareg people",
+        "Strategic military and administrative post in the far north",
+        "Known for its unique and dramatic rocky desert scenery",
+        "Important node for nomadic camel and livestock routes"
+      ]
+    },
+    {
+      "id": "aguelhok-cities-v2",
+      "descriptionAdvanced": "Aguelhok is a remote and strategic town in the Kidal Region of northern Mali, situated in the Adrar des Ifoghas mountains on the road to Algeria. It is a critical node for nomadic trade and livestock herding, serving as a vital stop for caravans and travellers crossing the vast Saharan landscape. Aguelhok is primarily inhabited by the Tuareg people, whose culture and traditions are deeply integrated into the rugged desert environment. Historically, the town has served as an administrative center and a key location for regional security. Its identity is defined by its resilience and its role as a bridge between the northern mountains and the southern desert plains. Geography K7 — Desert highlands and nomadic transit.",
+      "factsAdvanced": [
+        "Strategically located in the Adrar des Ifoghas mountains",
+        "Key stop on the trans-Saharan highway to Algeria",
+        "Major center for Tuareg nomadic culture and livestock",
+        "Important administrative hub in the Kidal Region",
+        "Surrounded by dramatic landscapes of granite and sand",
+        "Strategic outpost for regional security in the north",
+        "Economy is centered on camel herding and desert trade",
+        "Known for its harsh climate and traditional desert music"
+      ]
+    },
+    {
+      "id": "araouane-cities-v2",
+      "descriptionAdvanced": "Araouane is a legendary desert outpost located in the heart of the Timbuktu Region, about 250 kilometers north of Timbuktu. Once a major hub on the trans-Saharan caravan route for gold and salt, it is now a symbol of the struggle against the encroaching Sahara. The town is famous for its historic role as a center of Islamic scholarship and its ancient mosques, which are often partially buried by shifting sands. Today, Araouane is primarily a stop for the 'Azalaï' salt caravans traveling from the Taoudenni mines. It remains a vital but isolated desert community, preserving the ancient traditions of Saharan life. History K8 — Salt caravans and trans-Saharan trade.",
+      "factsAdvanced": [
+        "Historical hub for the trans-Saharan gold and salt trade",
+        "Strategic stop for the 'Azalaï' camel caravans from Taoudenni",
+        "Legendary center for Islamic scholarship in the deep desert",
+        "Located in the extremely arid Tanezrouft region of the Sahara",
+        "Known for its ancient mosques and scholarly manuscripts",
+        "Fights a constant battle against shifting desert dunes",
+        "One of Mali's most isolated and remote desert settlements",
+        "Symbolizes the endurance of Saharan nomadic culture"
+      ]
+    },
+    {
+      "id": "taoudenni-cities-v2",
+      "descriptionAdvanced": "Taoudenni is one of the most remote and extreme settlements in the world, located in the far northern desert of Mali, over 700 kilometers from Timbuktu. It is famous for its ancient salt mines, which have been exploited for centuries to produce the legendary 'white gold' of the Sahara. The town consists primarily of salt-block structures and is inhabited by miners who endure incredibly harsh conditions and extreme heat. Taoudenni is the starting point for the 'Azalaï,' the traditional camel caravans that transport salt slabs across the desert to the southern markets. It is a place of immense historical and economic importance for the Saharan trade. Economy K6 — Salt mining and caravan history.",
+      "factsAdvanced": [
+        "Home to some of the world's most remote salt mines",
+        "Origin point for the legendary 'Azalaï' salt caravans",
+        "Located in one of the hottest and driest places on Earth",
+        "Salt is mined in large slabs and transported by camels",
+        "Consists of unique structures built entirely from salt blocks",
+        "Historical source of wealth for the West African empires",
+        "Inhabited primarily by semi-permanent mining communities",
+        "Strategically vital for the traditional Saharan economy"
+      ]
+    },
+    {
+      "id": "yelimane-cities-v2",
+      "descriptionAdvanced": "Yélimané is a prominent town in western Mali, located in the Kayes Region near the border with Mauritania. It is the administrative center of a district known for its strong traditions of migration and its vibrant Sahelian economy. Yélimané's climate is semi-arid, supporting livestock herding and dryland agriculture, particularly millet and sorghum. The town is culturally significant as a center for the Soninke people, whose influence is seen in the local architecture and social structures. Historically, it was a key point on the trade routes connecting the Senegal valley to the northern deserts. Its markets are vital for regional commerce and livestock exchange. Geography K7 — Sahelian agriculture and the Soninke people.",
+      "factsAdvanced": [
+        "Administrative capital of the Sahelian Yélimané Cercle",
+        "Strategic commercial hub near the Mauritanian border",
+        "Major center for the Soninke ethnic group's culture",
+        "Economy is driven by livestock herding and remittances",
+        "Key producer of millet, sorghum, and traditional grains",
+        "Known for its resilient community and migration history",
+        "Vibrant weekly markets for livestock and desert goods",
+        "Located in the transition zone between the savanna and Sahara"
+      ]
+    },
+    {
+      "id": "dioila-cities-v2",
+      "descriptionAdvanced": "Dioïla is a bustling agricultural town in the Koulikoro Region, situated in the heart of Mali's highly productive 'cotton belt.' It is one of the nation's most important centers for cotton production and processing, hosting a major ginning plant that supports thousands of local farmers. The region's fertile soils also allow for the large-scale cultivation of maize, millet, and peanuts. Dioïla serves as a vital administrative and commercial hub, connecting the southern rural areas with the markets of Bamako and Ségou. Its rapid development reflects the economic dynamism of Mali's southern agricultural heartland and the importance of industrial crops. Economy K6 — Industrial crops and cotton ginning.",
+      "factsAdvanced": [
+        "One of Mali's premier centers for cotton ginning and trade",
+        "Administrative capital of the highly productive Dioïla Cercle",
+        "Major producer of maize, millet, and groundnuts",
+        "Strategically located in the fertile southern savanna zone",
+        "Host to industrial facilities operated by the CMDT",
+        "Key node in the national agricultural distribution network",
+        "Known for its vibrant and economically active markets",
+        "A rapidly growing urban center in the Koulikoro Region"
+      ]
+    },
+    {
+      "id": "baroueli-cities-v2",
+      "descriptionAdvanced": "Barouéli is a significant agricultural and commercial town in the Ségou Region, located on the main highway between Bamako and Ségou. It is the center of a fertile district known for its intensive production of millet, peanuts, and livestock. The town's vibrant weekly market is one of the busiest in central Mali, serving as a primary collection point for agricultural goods destined for the capital. Barouéli is also culturally significant, with a population that maintains strong Bambara traditions. Its strategic location on a vital transport artery makes it an essential node for Mali's internal trade and the movement of food supplies. Geography K7 — Agricultural markets and transport nodes.",
+      "factsAdvanced": [
+        "Strategic market town on the vital Bamako–Ségou highway",
+        "Major center for the trade of millet, sorghum, and peanuts",
+        "Administrative capital of the productive Barouéli Cercle",
+        "Hosts one of the busiest weekly agricultural markets in Mali",
+        "Key supplier of livestock and grain to the Bamako markets",
+        "Situated in the fertile floodplains of the Niger basin",
+        "Known for its traditional Bambara cultural festivals",
+        "Vital stop for regional transport and commercial logistics"
+      ]
+    },
+    {
+      "id": "ouelessebougou-cities-v2",
+      "descriptionAdvanced": "Ouéléssébougou is a thriving town in the Koulikoro Region, located about 80 kilometers south of Bamako on the highway leading to Ivory Coast. It is a vital agricultural hub, serving as the 'orchard of Bamako' due to its intensive production of fruits and vegetables. The town is also a major center for poultry farming and livestock trade, supplying a significant portion of the capital's food requirements. Ouéléssébougou is culturally diverse and serves as an important administrative and educational center for the southern district. Its rapid growth and economic vitality are driven by its strategic location and its role as a primary supplier to Mali's largest city. Economy K6 — Peri-urban agriculture and food supply.",
+      "factsAdvanced": [
+        "Major supplier of fruits and vegetables to the city of Bamako",
+        "Strategic stop on the international highway to Ivory Coast",
+        "Center for intensive poultry farming and livestock trade",
+        "Administrative capital of the productive Ouéléssébougou Cercle",
+        "Known for its vibrant daily markets and commercial dynamism",
+        "Located in the relatively humid and fertile southern zone",
+        "Key junction for regional agricultural transport networks",
+        "Rapidly expanding residential and commercial satellite town"
+      ]
+    },
+    {
+      "id": "nampala-cities-v2",
+      "descriptionAdvanced": "Nampala is a strategic and remote town in the Ségou Region of central Mali, located near the border with Mauritania. It is situated in a semi-arid Sahelian landscape that is vital for nomadic and semi-nomadic livestock herding. Nampala serves as an important administrative and security post, managing the cross-border movement of people and animals. The town's economy is centered on the livestock trade, with its markets being a primary node for the exchange of cattle and traditional goods. As a gateway between the central agricultural plains and the northern deserts, Nampala reflects the cultural diversity and security challenges of the Malian Sahel. Geography K7 — Sahelian borders and livestock herding.",
+      "factsAdvanced": [
+        "Strategic administrative and security post near the Mauritanian border",
+        "Major center for Sahelian livestock trade and camel herding",
+        "Located in the arid transition zone between Ségou and the Sahara",
+        "Important node for trans-national nomadic migration routes",
+        "Administrative capital of the remote Nampala district",
+        "Known for its harsh climate and resilient nomadic communities",
+        "Key location for regional border management and stability",
+        "Center for traditional desert crafts and leatherwork"
+      ]
+    },
+    {
+      "id": "dialakoroba-cities-v2",
+      "descriptionAdvanced": "Dialakoroba is a dynamic town in the Koulikoro Region, located just south of Bamako on the main road to the southern borders. It has evolved into a vital peri-urban agricultural hub, specializing in market gardening and the production of fresh produce for the capital. The town is also home to several agricultural training centers and experimental farms, making it a node for modern farming techniques in Mali. Dialakoroba's rapid urban expansion is driven by its proximity to Bamako and its role as a logistics center for goods moving to and from Ivory Coast. It represents the modernization and intensification of agriculture in the Niger valley. Economy K6 — Market gardening and agricultural innovation.",
+      "factsAdvanced": [
+        "Key peri-urban supplier of fresh produce to the capital, Bamako",
+        "Strategic stop on the international highway to the southern borders",
+        "Home to several major agricultural research and training centers",
+        "Center for modern market gardening and poultry production",
+        "Located in the fertile Niger River valley plains",
+        "Rapidly growing commercial and residential satellite town",
+        "Known for its innovative agricultural techniques and greenhouses",
+        "Significant node for regional transport and commercial trade"
+      ]
+    },
+    {
+      "id": "diabaly-cities-v2",
+      "descriptionAdvanced": "Diabaly is a strategic agricultural town in the Ségou Region, located in the heart of the Office du Niger irrigation project. It is one of the most productive rice-growing centers in Mali, benefiting from an extensive network of canals that bring water from the Niger River. Diabaly serves as a vital administrative and logistics hub for thousands of small-scale farmers who cultivate the surrounding paddy fields. Historically, the town has been an important center for rural development and Islamic education. Its economy and identity are entirely shaped by the cycle of the rice harvest and the management of water in the Sahelian landscape. Geography K7 — Irrigation systems and rice farming.",
+      "factsAdvanced": [
+        "Major production center for the Office du Niger irrigation scheme",
+        "Located in one of Mali's most intensive rice-growing districts",
+        "Strategic node in the national food security infrastructure",
+        "Features an extensive network of irrigation canals and gates",
+        "Administrative capital of the productive Diabaly district",
+        "Center for agricultural services, fertilizers, and equipment",
+        "Known for its lush, green landscapes amidst the semi-arid Sahel",
+        "Important market town for grain and local livestock"
+      ]
+    },
+    {
+      "id": "sofara-cities-v2",
+      "descriptionAdvanced": "Sofara is a historic and culturally rich town in the Mopti Region, located on the banks of the Bani River. It is famously known for its magnificent weekly livestock market, one of the largest and most vibrant in West Africa, where thousands of cattle, sheep, and goats are traded every Monday. Sofara is a major center for the Fulani (Peul) people and serves as a vital transit point for goods and animals moving into the Inner Niger Delta. The town's architecture features beautiful Sudano-Sahelian mud-brick structures, reflecting its deep religious and historical roots. It remains a pulse point for the traditional economy of central Mali. Economy K6 — Livestock trade and river markets.",
+      "factsAdvanced": [
+        "Host to one of West Africa's largest weekly livestock markets",
+        "Strategically located on the banks of the Bani River",
+        "Major center for Fulani (Peul) cultural and economic life",
+        "Important transit node for the Inner Niger Delta trade",
+        "Features iconic Sudano-Sahelian mud-brick architecture",
+        "Key supplier of cattle to the southern cities of Mali",
+        "Known for its vibrant multi-ethnic commercial atmosphere",
+        "Significant hub for the trade of traditional textiles and crafts"
+      ]
+    },
+    {
+      "id": "beleko-cities-v2",
+      "descriptionAdvanced": "Béléko is a prominent agricultural town in the Koulikoro Region, situated in a highly productive zone known for its diverse crop production. It serves as an important administrative and commercial center for a district that specializes in cotton, maize, and millet. Béléko's economic vitality is driven by its fertile soils and its role as a collection point for agricultural goods destined for the larger markets of Ségou and Bamako. The town is primarily inhabited by the Bambara people, whose rich cultural traditions and agricultural expertise define the local character. Its markets are vital for the regional exchange of seeds, fertilizers, and traditional goods. Geography K7 — Agricultural diversity and rural markets.",
+      "factsAdvanced": [
+        "Major center for cotton and grain production in the Koulikoro Region",
+        "Administrative capital of the productive Béléko district",
+        "Key supplier of maize and millet to central Malian markets",
+        "Located in the fertile savanna zone with high agricultural potential",
+        "Center for traditional Bambara cultural and social organization",
+        "Vibrant market town for agricultural supplies and livestock",
+        "Significant node for regional rural development projects",
+        "Known for its traditional crafts and locally produced textiles"
+      ]
+    },
+    {
+      "id": "kignan-cities-v2",
+      "descriptionAdvanced": "Kignan is an important agricultural and commercial town in the Sikasso Region, located in the heart of Mali's southern 'cotton belt.' It is a primary center for the production of 'white gold,' hosting several industrial collection and storage facilities operated by the CMDT. The town's fertile surroundings also support the large-scale cultivation of maize and yams, making it a critical node for national food security. Kignan is culturally significant as a center for the Minianka and Bambara ethnic groups, whose agricultural festivals and traditions are central to local life. Its position on the southern trade routes makes it an essential point for regional commerce. Economy K6 — The cotton industry and food security.",
+      "factsAdvanced": [
+        "Major hub for cotton production and storage in the Sikasso Region",
+        "Strategically located in the highly fertile southern agricultural zone",
+        "Key producer of maize, yams, and grain for the national market",
+        "Administrative capital of the productive Kignan district",
+        "Center for Minianka and Bambara agricultural traditions",
+        "Important market for the trade of industrial and food crops",
+        "Connected to the vital transport networks of southern Mali",
+        "Supports a large population of farmers and agricultural workers"
+      ]
+    },
+    {
+      "id": "zegoua-cities-v2",
+      "descriptionAdvanced": "Zégoua is a strategic international border town in southern Mali, located in the Sikasso Region directly on the boundary with Ivory Coast. It is the busiest land border crossing in Mali, serving as the primary gateway for goods arriving from the port of Abidjan. Zégoua's economy is entirely centered on customs, logistics, and trans-national trade, with hundreds of trucks crossing every day. The town's vibrant, multi-ethnic marketplace reflects its role as a regional hub for commerce and migration. As a critical point for Mali's international trade, Zégoua is essential for the nation's economic stability and its integration into the West African market. Geography K7 — International borders and trade logistics.",
+      "factsAdvanced": [
+        "Mali's busiest and most important land border crossing",
+        "Primary gateway for imports from the port of Abidjan, Ivory Coast",
+        "Strategic node for national customs and trade logistics",
+        "Located in the humid and fertile extreme south of Mali",
+        "Key logistics hub for trans-national truck and passenger traffic",
+        "Economy is driven by border trade, transit, and services",
+        "Administrative capital of the strategic Zégoua district",
+        "Vibrant multi-ethnic community focused on regional commerce"
+      ]
+    },
+    {
+      "id": "niena-cities-v2",
+      "descriptionAdvanced": "Niéna is a prominent town in the Sikasso Region, strategically located on the main highway between Bamako and Sikasso. It is situated in one of Mali's most productive agricultural areas, specializing in the cultivation of cotton, maize, and tropical fruits like mangoes and cashews. Niéna serves as a vital transport and commercial node, where agricultural goods are collected for distribution across the country. The town is also culturally significant as a center for the Ganadougou region, known for its unique music and social traditions. Its rapid development is a testament to the economic strength of Mali's southern agricultural belt and its key role in regional trade. Economy K6 — Highway trade and southern agriculture.",
+      "factsAdvanced": [
+        "Strategic transport hub on the vital Bamako–Sikasso highway",
+        "Major center for cotton, maize, and cashew nut production",
+        "Cultural capital of the historic Ganadougou region",
+        "Key supplier of tropical fruits to the northern markets",
+        "Administrative capital of the productive Niéna district",
+        "Hosts one of the busiest highway-side markets in southern Mali",
+        "Located in the fertile and high-rainfall Sudano-Guinean zone",
+        "Significant node for agricultural logistics and regional trade"
+      ]
+    },
+    {
+      "id": "loulo-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Loulo Gold Mine is one of Mali's largest and most technologically advanced industrial mines, located in the Kéniéba district near the Senegal border. Operated by Barrick Gold, it forms part of the Loulo-Gounkoto complex, which is one of the world's premier gold-producing sites. The mine utilizes both open-pit and sophisticated underground mining techniques to extract high-grade ore from the Birimian greenstone belt. Loulo is a major contributor to Mali's national economy, providing thousands of jobs and significant tax revenue. It also represents a center for industrial innovation and environmental management in West Africa's mining sector. Economy K6 — Industrial mining and gold export.",
+      "factsAdvanced": [
+        "One of the largest gold mines in Africa and the world",
+        "Operated by Barrick Gold as part of a major mining complex",
+        "Utilizes world-class underground and open-pit mining technology",
+        "Major contributor to Mali's GDP and national export earnings",
+        "Located in the gold-rich Birimian greenstone belt",
+        "Provides employment and training for thousands of Malians",
+        "Features advanced environmental and water management systems",
+        "Strategically located near the border with Senegal"
+      ]
+    },
+    {
+      "id": "gounkoto-gold-mine-economic-v2",
+      "descriptionAdvanced": "Gounkoto Gold Mine is a massive open-pit mining operation in western Mali, forming the second half of the world-class Loulo-Gounkoto complex. Located in the Kayes Region, it shares a processing plant with the nearby Loulo mine, creating a highly efficient industrial hub. Gounkoto is known for its high-grade gold deposits and its large-scale earthmoving operations, which have significantly boosted Mali's position as a leading African gold producer. The mine's development has led to major infrastructure improvements in the remote Kéniéba district and continues to be a cornerstone of the nation's industrial economy and foreign investment. Economy K6 — Open-pit mining and mineral wealth.",
+      "factsAdvanced": [
+        "Key component of the Loulo-Gounkoto world-class mining complex",
+        "Major open-pit operation extracting high-grade gold ore",
+        "Operated by Barrick Gold in partnership with the Malian state",
+        "Located in the highly mineralized Kéniéba district",
+        "Shares one of the largest gold processing plants in West Africa",
+        "Crucial for Mali's status as a top gold exporter in Africa",
+        "Provides significant infrastructure and social investment in the region",
+        "Reflects the scale of modern industrial mining in the Sahara-Sahel"
+      ]
+    },
+    {
+      "id": "sadiola-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Sadiola Gold Mine is one of Mali's oldest and most historically significant industrial gold mines, located in the Kayes Region. Established in the mid-1990s, it played a pioneering role in the modernization of Mali's mining sector and the attraction of international investment. The mine is an enormous open-pit operation that has produced millions of ounces of gold over its long history. Sadiola's success transformed the local economy of western Mali and helped establish the country as a major player in the global gold market. It continues to operate as a vital industrial site, utilizing advanced processing techniques to maximize its remaining mineral resources. Economy K6 — Mining history and international investment.",
+      "factsAdvanced": [
+        "Mali's first major modern industrial gold mine",
+        "Massive open-pit operation located in the Kayes Region",
+        "Pioneered the large-scale mining sector in independent Mali",
+        "Has produced millions of ounces of gold since the 1990s",
+        "Key driver of regional development in the Sadiola district",
+        "Historically operated by AngloGold Ashanti and IAMGOLD",
+        "Symbolizes the start of Mali's 'gold rush' era",
+        "A major source of national revenue and industrial expertise"
+      ]
+    },
+    {
+      "id": "syama-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Syama Gold Mine is a world-renowned industrial mining operation located in southern Mali, distinguished by being the world's first fully automated underground gold mine. Situated in the Sikasso Region, it utilizes cutting-edge robotics and digital technology to extract ore with unprecedented efficiency and safety. Syama's complex includes a large open pit and a sophisticated underground facility that accesses the deep Syama shear zone. The mine is a major economic engine for southern Mali and a global showcase for the future of autonomous mining technology. It represents the transition of Mali's mining industry towards a high-tech, sustainable future. Economy K6 — Automated mining and technological innovation.",
+      "factsAdvanced": [
+        "World's first fully automated underground industrial gold mine",
+        "Operated by Resolute Mining in the southern Sikasso Region",
+        "Utilizes robotic loaders and autonomous haulage systems",
+        "Extracts ore from the highly productive Syama shear zone",
+        "Major industrial employer and economic hub in southern Mali",
+        "Combines large-scale open-pit and underground operations",
+        "A global leader in the use of digital mining technology",
+        "Significantly boosts Mali's technical and industrial capacity"
+      ]
+    },
+    {
+      "id": "morila-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Morila Gold Mine, once famously nicknamed 'Morila the Gorilla' due to its exceptional gold grades, is a legendary mining site in southern Mali. Located in the Sikasso Region, it was one of the world's lowest-cost and highest-grade gold producers during its peak in the early 2000s. The mine utilized large-scale open-pit methods and a massive processing plant to extract gold from the Birimian formations. Morila's phenomenal success was instrumental in the rapid growth of Mali's GDP and the modernization of its industrial infrastructure. Today, it remains an active site, focusing on tailings treatment and satellite deposit mining to extend its economic life. Economy K6 — High-grade mining and economic impact.",
+      "factsAdvanced": [
+        "Formerly one of the world's highest-grade industrial gold mines",
+        "Nicknamed 'Morila the Gorilla' for its massive gold output",
+        "Located in the fertile and mineral-rich Sikasso Region",
+        "Instrumental in Mali's economic boom during the early 2000s",
+        "Major contributor to national infrastructure and employment",
+        "Features some of Mali's largest industrial processing facilities",
+        "Transitioned to tailings recycling and satellite mining",
+        "Operated through a successful partnership with international firms"
+      ]
+    },
+    {
+      "id": "fekola-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Fekola Gold Mine is a massive and high-performing industrial gold mine located in southwestern Mali, near the border with Senegal. Operated by B2Gold, it is one of the most efficient and productive mines in the country, utilizing large-scale open-pit methods. Fekola's success is driven by its high-grade ore and its state-of-the-art processing plant, which has repeatedly exceeded production targets. The mine is a major pillar of Mali's economy and is notable for its innovative use of renewable energy, including one of the world's largest off-grid solar-battery hybrid systems for a mining site. It represents the modern standard for sustainable and profitable mining in Africa. Economy K6 — Efficient mining and renewable energy.",
+      "factsAdvanced": [
+        "One of Mali's most productive and efficient industrial gold mines",
+        "Operated by B2Gold near the strategic Senegal border",
+        "Features one of the world's largest off-grid solar-hybrid power plants",
+        "Key driver of Mali's national export revenue and GDP",
+        "Located in the highly mineralized Fekola-Kéniéba geological zone",
+        "Consistently exceeds international production and safety standards",
+        "Major industrial employer in the southwestern Kayes Region",
+        "A flagship project for sustainable and modern mining in West Africa"
+      ]
+    }
+  ]
+}

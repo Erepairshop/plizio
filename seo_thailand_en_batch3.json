@@ -1,0 +1,295 @@
+{
+  "lang": "en",
+  "country": "thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraThailandEconomicV2.ts",
+    "lib/visualLab/data/poiExtraThailandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraThailandLifeV2.ts",
+    "lib/visualLab/data/poiExtraThailandNatureV2.ts",
+    "lib/visualLab/data/poiExtraThailandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "damnoen-saduak-floating-market-economic-v2",
+      "descriptionAdvanced": "Damnoen Saduak Floating Market is the most famous and photogenic floating market in Thailand, serving as a global symbol of traditional canal-side commerce. Located in Ratchaburi province, this vibrant market dates back over a century to when King Rama IV ordered the excavation of the canal to connect the Mae Klong and Tha Chin rivers. Every morning, hundreds of narrow wooden boats laden with exotic fruits, fresh vegetables, and snacks cooked on-board fill the canals in a spectacle of color and aroma. Damnoen Saduak remains a vital economic hub for local farmers and a must-visit destination for tourists, providing an authentic, albeit now highly popular, glimpse into the historic way of life in the 'Venice of the East.' It is a center for the local agricultural economy and a primary driver of tourism revenue for the region.",
+      "factsAdvanced": [
+        "The Damnoen Saduak canal is the longest straight canal in Thailand at 32 kilometers.",
+        "The market gained international fame after appearing in the James Bond film 'The Man with the Golden Gun'.",
+        "Peak activity occurs between 7:00 AM and 9:00 AM every morning.",
+        "Farmers sell produce directly from their orchards situated along the canal banks.",
+        "The market is famous for its 'boat noodles' (kuaitiao ruea) prepared and served on the water.",
+        "There are three main sections to the market: Ton Khem, Hia Kui, and Khun Phitak.",
+        "It is located approximately 100 kilometers southwest of Bangkok.",
+        "While traditional wooden paddle boats are still used, many now feature long-tail motors for tourists."
+      ]
+    },
+    {
+      "id": "phatthalung-bird-nest-industry-economic-v2",
+      "descriptionAdvanced": "The Phatthalung Bird's Nest Industry is one of Thailand's most unique and high-value agricultural sectors, centered around the limestone islands of the Songkhla Lake. The industry involves the harvesting of edible nests built by swiftlets (salanganes) using their own saliva. These 'white gold' nests are highly prized in Chinese culture for their purported health benefits and are among the most expensive animal products in the world. The harvesting process is a dangerous and traditional trade, where local climbers scale bamboo poles in pitch-black caves to reach the nests. Phatthalung is a major center for this trade, with the government granting concessions to private companies for the sustainable harvesting of the nests. This export-oriented luxury industry generates substantial revenue for the province and supports a specialized workforce of harvesters, cleaners, and traders.",
+      "factsAdvanced": [
+        "Edible bird's nests are made entirely from the solidified saliva of male swiftlets.",
+        "The industry is centered on the islands of Ko Si and Ko Ha in the Songkhla Lake.",
+        "Thailand is the world's third-largest producer of edible bird's nests after Indonesia and Malaysia.",
+        "Nests can sell for up to $2,500 per kilogram depending on their color and quality.",
+        "The harvesting season typically runs from February to August each year.",
+        "Bird's nest soup is considered a delicacy with 'cooling' properties in Traditional Chinese Medicine.",
+        "The industry is strictly regulated by the Thai government through a concession system.",
+        "Specialized 'bird houses' have been built on the mainland to encourage swiftlets to nest in controlled environments."
+      ]
+    },
+    {
+      "id": "chachoengsao-solar-farm-economic-v2",
+      "descriptionAdvanced": "The Chachoengsao Solar Farm is one of Thailand's largest and most significant renewable energy projects, reflecting the nation's strategic shift toward a low-carbon economy. Spanning hundreds of acres in the Chachoengsao province, this massive facility utilizes thousands of photovoltaic panels to harness Thailand's abundant tropical sunlight. As a key part of the Alternative Energy Development Plan (AEDP), the farm contributes a substantial amount of clean electricity to the national grid, reducing the country's reliance on imported fossil fuels. The project represents a major private-sector investment in green technology and serves as a model for solar development in Southeast Asia. Its success highlights Thailand's potential as a regional leader in renewable energy and its commitment to meeting international climate goals while supporting the energy demands of its growing industrial and urban sectors.",
+      "factsAdvanced": [
+        "Chachoengsao is home to one of the largest solar power plants in Southeast Asia.",
+        "The facility helps Thailand reach its goal of 30% renewable energy in its power mix by 2037.",
+        "The solar farm generates clean electricity without emitting greenhouse gases during operation.",
+        "It features advanced solar tracking technology to maximize energy capture throughout the day.",
+        "The project is a collaboration between major Thai energy firms and international technology partners.",
+        "The location was chosen for its high solar irradiance and proximity to industrial demand in the EEC.",
+        "It provides enough electricity to power tens of thousands of Thai households.",
+        "The site includes research facilities for monitoring solar panel efficiency in tropical climates."
+      ]
+    },
+    {
+      "id": "sadao-border-crossing-economic-v2",
+      "descriptionAdvanced": "The Sadao Border Crossing, located in Songkhla province, is the busiest and most economically vital land gateway between Thailand and Malaysia. As a primary node on the Asian Highway 2, it handles a massive volume of trade, ranging from electronics and automotive parts to rubber and consumer goods. The crossing is essential for the logistics networks of both countries and is a major hub for international tourism, with millions of travelers passing through each year. Sadao is the heart of the Indonesia-Malaysia-Thailand Growth Triangle (IMT-GT) economic cooperation. To accommodate the growing traffic, the Thai government has invested heavily in a new, state-of-the-art customs complex and special economic zone (SEZ) to facilitate smoother trade and attract further investment. The border area has developed into a thriving commercial town, offering a mix of duty-free shopping, hotels, and logistics services.",
+      "factsAdvanced": [
+        "Sadao is the highest-value land border crossing in Thailand for import and export.",
+        "It connects Sadao in Thailand with Bukit Kayu Hitam in Malaysia.",
+        "The crossing is a key link on the Trans-Asian Railway and Asian Highway network.",
+        "Millions of Malaysian tourists enter Thailand through Sadao annually.",
+        "A new, larger border complex was opened recently to reduce truck congestion.",
+        "The Sadao Special Economic Zone (SEZ) offers tax incentives for manufacturers and logistics firms.",
+        "It is a major transit point for goods traveling between Singapore and Bangkok.",
+        "The border operates 24 hours a day for commercial cargo to support the regional supply chain."
+      ]
+    },
+    {
+      "id": "siam-cement-group-hq-economic-v2",
+      "descriptionAdvanced": "The Siam Cement Group (SCG) Headquarters in Bangkok is the command center for one of Southeast Asia's oldest and largest industrial conglomerates. Founded in 1913 by royal decree of King Rama VI to reduce Thailand's reliance on imported cement, SCG has grown into a multi-billion dollar giant with three core businesses: Cement-Building Materials, Chemicals, and Packaging. The company is a primary driver of the Thai economy and a leader in sustainable development and innovation in the region. Its headquarters complex is a landmark of corporate excellence, reflecting a century of industrial evolution. SCG is renowned for its commitment to high-quality engineering and its role in building the nation's infrastructure, from its earliest bridges to modern high-rises. As a 'blue chip' company, SCG's performance is often seen as a barometer for the overall health of the Thai and regional manufacturing sectors.",
+      "factsAdvanced": [
+        "SCG was founded in 1913, making it one of the oldest industrial companies in Thailand.",
+        "The company was originally established to support the construction of the nation's infrastructure.",
+        "SCG is the largest cement and building material producer in Southeast Asia.",
+        "The group has expanded into over 10 countries across the ASEAN region.",
+        "SCG Chemicals is a major producer of polyolefins used in the global plastics industry.",
+        "The company is a perennial leader on the Dow Jones Sustainability Indices (DJSI).",
+        "The headquarters is located in the Bang Sue district of Bangkok.",
+        "The King of Thailand's Crown Property Bureau is a significant shareholder in the group."
+      ]
+    },
+    {
+      "id": "ranong-port-economic-v2",
+      "descriptionAdvanced": "Ranong Port is Thailand's only international deep-sea port on the Andaman Sea coast, serving as a strategic gateway to the markets of South Asia, the Middle East, and Europe. Located in Ranong province, the port provides a vital alternative to the congested shipping routes through the Strait of Malacca, potentially shortening sea voyages to India and beyond. It is a key component of the Southern Economic Corridor (SEC) and the BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) framework. The port is primarily used for the export of agricultural products, minerals, and fisheries, while also serving as a major hub for the local fishing industry and trade with neighboring Myanmar. Ongoing development plans aim to upgrade its container handling capacity and improve its rail and road connections to the Gulf of Thailand, creating a 'land bridge' across the Kra Isthmus.",
+      "factsAdvanced": [
+        "Ranong is Thailand's primary western gateway for maritime trade with the Bay of Bengal.",
+        "The port is a key logistics hub for the BIMSTEC economic cooperation group.",
+        "It is Thailand's deepest natural port on the Andaman side.",
+        "The port handles significant trade with Myanmar's southern coastal regions.",
+        "It is a major landing site for the region's massive tuna and seafood industry.",
+        "Development plans include a new container terminal to handle larger international vessels.",
+        "Ranong Port is a centerpiece of the proposed Kra Isthmus Land Bridge project.",
+        "The port is operated by the Port Authority of Thailand (PAT)."
+      ]
+    },
+    {
+      "id": "central-world-trade-hub-economic-v2",
+      "descriptionAdvanced": "CentralWorld, located at the Ratchaprasong intersection in Bangkok, is much more than a shopping mall; it is one of the world's largest commercial complexes and a premier global trade hub. As the flagship of the Central Group, it represents the pinnacle of Thailand's modern retail and consumer economy. The complex spans over 800,000 square meters, housing hundreds of international brands, luxury department stores, and a world-class convention center. It serves as a major destination for international business meetings, trade fairs, and tourism. CentralWorld is the heart of Bangkok's 'shopping mile' and a symbol of the city's status as a global lifestyle and fashion capital. Its economic impact is massive, providing thousands of jobs and serving as a platform for both global giants and emerging Thai designers to reach millions of domestic and international customers annually.",
+      "factsAdvanced": [
+        "CentralWorld is the ninth largest shopping complex in the world by gross leasable area.",
+        "The site was formerly occupied by the World Trade Center Bangkok.",
+        "It hosts the Centara Grand hotel and one of Thailand's largest convention centers.",
+        "The complex was significantly rebuilt and expanded after the 2010 political unrest.",
+        "CentralWorld Square is the site of Bangkok's famous New Year's Eve countdown event.",
+        "It features the 'Groove' dining zone, a major hub for Bangkok's sophisticated culinary scene.",
+        "The mall houses the flagship store of many international brands in Thailand.",
+        "It is connected to the BTS Skytrain via an extensive network of skywalks."
+      ]
+    },
+    {
+      "id": "thai-beverage-hq-economic-v2",
+      "descriptionAdvanced": "Thai Beverage, commonly known as ThaiBev, is Thailand's largest and one of Southeast Asia's most powerful beverage companies, with its headquarters in Bangkok. Founded by billionaire Charoen Sirivadhanabhakdi, the company is a dominant force in the regional alcohol and non-alcoholic drink markets. It is the producer of the iconic Chang Beer and a wide range of spirits, including SangSom rum and Mekhong whiskey. Beyond beverages, ThaiBev has evolved into a massive food and retail conglomerate, owning major chains like KFC Thailand and Starbucks Thailand. The company's economic footprint is vast, with dozens of breweries and distilleries across Thailand, Scotland, and China. As a major taxpayer and employer, ThaiBev is a pillar of the Thai corporate landscape, known for its aggressive international expansion and its role as a major sponsor of sports and cultural events across the globe.",
+      "factsAdvanced": [
+        "ThaiBev is the largest beverage company in Thailand and one of the largest in Asia.",
+        "The company is most famous for producing Chang Beer, launched in 1995.",
+        "It owns several historic Scotch whisky distilleries, including Balblair and Old Pulteney.",
+        "ThaiBev is a major sponsor of English Premier League football clubs.",
+        "The group owns F&N (Fraser and Neave), a leading food and beverage company in Singapore.",
+        "It operates over 20 distilleries and several large-scale breweries in Thailand.",
+        "ThaiBev is listed on the Singapore Exchange (SGX) rather than the Thai stock exchange.",
+        "The company is a major player in the regional tea market through its Oishi brand."
+      ]
+    },
+    {
+      "id": "phichit-gold-mines-economic-v2",
+      "descriptionAdvanced": "The Phichit Gold Mines, centered around the Chatree Mining Complex, represent the history and challenges of large-scale commercial mining in Thailand. Located on the border of Phichit and Phitsanulok provinces, the Chatree mine was the country's first and largest modern gold mine, operated by Akara Resources (a subsidiary of Australia's Kingsgate Consolidated). Since starting operations in 2001, the mine produced millions of ounces of gold and silver, providing a significant economic boost to the rural region and thousands of jobs. However, the mine became a center of national controversy due to environmental and health concerns raised by local communities, leading to its mandatory closure by the Thai government in 2017. Following years of international arbitration and new environmental regulations, the mine was permitted to resume operations in 2023, serving as a landmark case for the balance between industrial development and community rights in Thailand.",
+      "factsAdvanced": [
+        "The Chatree mine was Thailand's only commercial-scale gold mine for nearly two decades.",
+        "At its peak, it was a low-cost, high-volume open-pit mining operation.",
+        "The mine produced over 1.8 million ounces of gold before its closure in 2017.",
+        "The 2017 closure was ordered under Section 44 of the interim constitution.",
+        "Kingsgate Consolidated, the parent company, filed a multi-billion dollar lawsuit against Thailand.",
+        "The mine resumed operations in early 2023 under stricter environmental conditions.",
+        "It is a major source of silver production in addition to gold.",
+        "The mine's infrastructure includes a massive ore processing plant on-site."
+      ]
+    },
+    {
+      "id": "bangkok-gems-and-jewelry-fair-economic-v2",
+      "descriptionAdvanced": "The Bangkok Gems and Jewelry Fair is one of the world's most influential and longest-running trade shows in the gemstone and jewelry industry. Held twice a year at the IMPACT Exhibition and Convention Center, it serves as a global platform for Thailand to showcase its prowess as a leading hub for gemstone cutting, polishing, and jewelry design. Thailand is particularly famous for its colored gemstones, such as rubies and sapphires, and the fair attracts thousands of international buyers from over 100 countries. Organized by the Department of International Trade Promotion (DITP), the event is a critical driver for the nation's export economy, generating billions of dollars in trade value. The fair highlights Thailand's unique blend of traditional craftsmanship and modern technology, cementing its reputation as the 'World's Gem and Jewelry Hub.'",
+      "factsAdvanced": [
+        "The fair is one of the top five largest gems and jewelry trade shows in the world.",
+        "Thailand is the world's leading exporter of silver jewelry and a top hub for colored stones.",
+        "The event has been held for over 65 editions as of the mid-2020s.",
+        "It features the 'The New Faces' zone, showcasing emerging Thai jewelry designers.",
+        "Thailand's Chanthaburi province is the source for many of the world's fine rubies and sapphires.",
+        "The fair includes specialized seminars on gemological trends and market analysis.",
+        "It attracts over 10,000 international visitors and exhibitors in each edition.",
+        "The jewelry industry is one of the top ten export earners for Thailand."
+      ]
+    },
+    {
+      "id": "wat-arun-temple-history-v2",
+      "descriptionAdvanced": "Wat Arun, the 'Temple of Dawn,' is one of Bangkok's most iconic and majestic landmarks, standing prominently on the west bank of the Chao Phraya River. Its most striking feature is the central 'prang' (Khmer-style tower), which rises over 70 meters and is intricately decorated with tiny pieces of colored Chinese porcelain and seashells. This unique ornamentation, which glistens brilliantly in the morning and evening sun, was created during the reign of King Rama III using porcelain that had been used as ballast on ships from China. Historically, the temple served as the royal chapel for King Taksin during the Thonburi period and once housed the sacred Emerald Buddha before it was moved to Wat Phra Kaew. Wat Arun represents Mount Meru, the center of the universe in Buddhist cosmology, and its steep staircases symbolize the difficulty of reaching higher levels of existence. It remains a focal point of Thai spiritual life and a masterpiece of 19th-century architecture.",
+      "factsAdvanced": [
+        "Wat Arun's central prang is 77 meters tall and is the highest in Thailand.",
+        "The temple is named after Aruna, the Hindu god of dawn.",
+        "It was the main temple of the short-lived Thonburi Kingdom (1767–1782).",
+        "The porcelain decoration was added during the reign of King Rama III.",
+        "The temple once housed the Emerald Buddha for five years.",
+        "The four smaller prangs at the corners house statues of Phra Phai, the god of wind.",
+        "The prang features sculptures of mythical kinnari (half-human, half-bird) and giants.",
+        "Wat Arun is the site of the annual Royal Kathin Ceremony, involving a grand barge procession."
+      ]
+    },
+    {
+      "id": "grand-palace-bangkok-history-v2",
+      "descriptionAdvanced": "The Grand Palace is the architectural and spiritual soul of Bangkok, established in 1782 when King Rama I moved the capital across the river from Thonburi. For over 150 years, this sprawling 218,000-square-meter complex served as the official residence of the Kings of Siam and the seat of the royal government. The palace is an breathtaking display of Thai craftsmanship, featuring gilded spires, intricate mosaics, and grand audience halls. It is divided into several courts, including the Outer Court, which houses the Wat Phra Kaew (Temple of the Emerald Buddha)—the most sacred site in Thailand. The architecture is a fascinating blend of traditional Thai styles and later European influences, particularly in the Chakri Maha Prasat Throne Hall. Although the royal family no longer resides here full-time, the Grand Palace remains the venue for the most important state ceremonies and is the most visited historical site in the kingdom, embodying the continuity and majesty of the Thai monarchy.",
+      "factsAdvanced": [
+        "The Grand Palace was the official residence of the Thai Kings from 1782 to 1925.",
+        "Wat Phra Kaew, located within the walls, houses the 14th-century Emerald Buddha.",
+        "The palace walls are decorated with 178 mural panels depicting the Ramakien (Thai Ramayana).",
+        "The Emerald Buddha is carved from a single block of jade, not emerald.",
+        "King Rama I modeled the palace after the royal palace in the former capital, Ayutthaya.",
+        "The Chakri Maha Prasat Hall combines a European-style body with traditional Thai roofs.",
+        "Only the King is allowed to touch the Emerald Buddha to change its seasonal robes.",
+        "The complex is still used today for royal coronations and state funerals."
+      ]
+    },
+    {
+      "id": "wat-pho-reclining-buddha-history-v2",
+      "descriptionAdvanced": "Wat Pho, the 'Temple of the Reclining Buddha,' is one of Bangkok's oldest and largest temple complexes, located immediately south of the Grand Palace. It is world-famous for its colossal Reclining Buddha statue, which measures 46 meters in length and 15 meters in height, covered entirely in gold leaf and featuring feet inlaid with mother-of-pearl. Beyond its visual splendor, Wat Pho is considered the first public university in Thailand. During the reign of King Rama III, the temple was turned into a center for knowledge, with stone inscriptions and murals covering subjects like medicine, history, and literature. Most notably, it is the birthplace and global headquarters of traditional Thai massage; the temple still operates a renowned massage school where the ancient techniques of 'Nuat Thai' are taught. The complex is also home to the largest collection of Buddha images in Thailand and four massive, colorful chedis dedicated to the first four kings of the Chakri dynasty.",
+      "factsAdvanced": [
+        "Wat Pho houses over 1,000 Buddha images, more than any other temple in Thailand.",
+        "The Reclining Buddha's feet are 5 meters long and feature 108 auspicious signs of the Buddha.",
+        "The temple was designated a UNESCO Memory of the World for its historic stone inscriptions.",
+        "It is the official center for the study and preservation of traditional Thai massage.",
+        "The four Great Chedis (Phra Maha Chedi Si Ratchakan) are 42 meters high each.",
+        "Traditional Thai medicine practitioners still use the temple's murals as a guide.",
+        "The temple was founded in the 16th century, predating the founding of Bangkok.",
+        "It contains 91 small chedis and several Chinese-style stone giants at its gates."
+      ]
+    },
+    {
+      "id": "wat-rong-khun-white-temple-history-v2",
+      "descriptionAdvanced": "Wat Rong Khun, universally known as the 'White Temple,' is a surreal and avant-garde Buddhist temple in Chiang Rai that has become one of Thailand's most famous modern landmarks. Unlike traditional temples, it was entirely designed and funded by the renowned Thai artist Chalermchai Kositpipat, who began the project in 1997. The temple is stunningly white to symbolize the purity of the Buddha, with embedded fragments of mirror glass that sparkle in the sun, representing the Buddha's wisdom. The entrance involves crossing a bridge over a sea of reaching hands, symbolizing human desire and the path to enlightenment. Inside, the murals are equally unconventional, blending traditional Buddhist imagery with modern pop-culture icons like Superman and Matrix characters, intended to convey the struggle between good and evil in the contemporary world. Still unfinished, the artist envisions the complex will eventually consist of nine buildings, serving as a center for meditation and Buddhist teachings.",
+      "factsAdvanced": [
+        "Wat Rong Khun is a private art installation in the form of a Buddhist temple.",
+        "The artist Chalermchai Kositpipat has spent over $1 million of his own money on the project.",
+        "The bridge to the main hall is known as the 'Cycle of Rebirth' bridge.",
+        "The white color is a departure from the traditional gold found in most Thai temples.",
+        "Murals inside feature modern icons like Spider-Man, Hello Kitty, and the 9/11 attacks.",
+        "The complex includes a stunning golden building which is actually the public restrooms.",
+        "It was severely damaged by an earthquake in 2014 but has been meticulously restored.",
+        "The artist expects the entire project to take another 50 to 90 years to complete."
+      ]
+    },
+    {
+      "id": "sanctuary-of-truth-pattaya-history-v2",
+      "descriptionAdvanced": "The Sanctuary of Truth in Pattaya is a breathtaking architectural wonder and a monumental tribute to ancient Thai woodworking traditions. Rising 105 meters above the shoreline, this massive structure is constructed entirely of teak, redwood, and other precious woods, without the use of a single metal nail. The project was started in 1981 by the Thai businessman Lek Viriyaphant, who also created Ancient City and the Erawan Museum. Every square inch of the sanctuary is covered in intricate, hand-carved sculptures that reflect Hindu and Buddhist mythologies, as well as the philosophies of China, India, and Cambodia. The carvings are intended to use art and culture as a way to reflect ancient vision and human responsibility. Because it is built so close to the sea, the wood is constantly being weathered and replaced, making the sanctuary a living, 'eternal' construction site where visitors can watch master carvers at work using traditional tools.",
+      "factsAdvanced": [
+        "The Sanctuary of Truth is the largest wooden building in Thailand, over 100 meters tall.",
+        "It is held together using ancient wood-joining techniques like wedges and dowels.",
+        "The project is intended to be a 'living museum' that is never truly finished.",
+        "Each of the four wings is dedicated to a different cultural and philosophical tradition.",
+        "The carvings represent the seven creators: Heaven, Earth, Father, Mother, Moon, Sun, and Stars.",
+        "The central spire features a figure of the deity Kalaki on a horse, symbolizing the future.",
+        "Visitors must wear hard hats due to the ongoing construction and carving work.",
+        "The wood used is specially treated to withstand the salty sea air of the Gulf of Thailand."
+      ]
+    },
+    {
+      "id": "wat-chetuphon-wihan-history-v2",
+      "descriptionAdvanced": "Wat Chetuphon is one of the most significant and spiritually evocative temples within the Sukhothai Historical Park, the capital of the first Thai kingdom. Located in the South Zone, outside the city's main walls, it is famous for its massive slate-and-brick Mandapa (square building) which once housed four colossal Buddha statues in the four traditional postures: walking, standing, sitting, and reclining. Today, only the standing and walking images remain in recognizable form, with the walking Buddha considered a masterpiece of the 'Sukhothai style,' characterized by its fluid, graceful lines. The temple is surrounded by an unusual moat and features walls made of large slate slabs, a construction technique unique to the Sukhothai era. Wat Chetuphon offers a serene and less-crowded experience compared to the central zone, allowing visitors to contemplate the spiritual grandeur and architectural innovation that defined the dawn of Thai history in the 13th and 14th centuries.",
+      "factsAdvanced": [
+        "Wat Chetuphon was built during the late 14th century in the Sukhothai Kingdom.",
+        "It is the only temple in Sukhothai designed to house Buddhas in all four main postures.",
+        "The walking Buddha image here is a prime example of the elegant 'Sukhothai Art' style.",
+        "The temple's outer walls are made of massive, vertically-aligned slate slabs.",
+        "It is located approximately 2 kilometers south of the central walled city of Sukhothai.",
+        "The name 'Chetuphon' is the Thai version of 'Jetavana,' a famous monastery in India.",
+        "The central mandapa is surrounded by several smaller brick stupas.",
+        "The site was restored by the Thai Fine Arts Department in the 1980s."
+      ]
+    },
+    {
+      "id": "wat-phra-si-sanphet-history-v2",
+      "descriptionAdvanced": "Wat Phra Si Sanphet was the holiest and most magnificent temple in the Ayutthaya Kingdom, serving as the royal chapel within the palace grounds. It functioned much like Wat Phra Kaew does in modern Bangkok—a temple for royal ceremonies without resident monks. Its most iconic feature is the line of three massive, bell-shaped chedis (stupas), which were built in the 15th century to house the ashes of three Ayutthayan kings. Historically, the temple was famous for housing the 'Phra Si Sanphet,' a 16-meter-high standing Buddha image covered in over 250 kilograms of solid gold. When Ayutthaya fell to the Burmese in 1767, the temple was looted and the gold was melted down, leaving only the charred bronze core and the brick chedis. Today, these towering chedis stand as a hauntingly beautiful silhouette against the sky, symbolizing the peak of Ayutthayan power and the tragic end of one of Asia's greatest cities.",
+      "factsAdvanced": [
+        "Wat Phra Si Sanphet was the largest and most important temple in the Ayutthaya capital.",
+        "The three main chedis house the remains of King Borommatrailokkanat and his two sons.",
+        "The 16-meter-high gold-covered Buddha was the largest of its kind when built in 1500.",
+        "The temple was strictly for royal use; no monks lived within its grounds.",
+        "It was the model for the Temple of the Emerald Buddha in Bangkok.",
+        "The Burmese army set fire to the temple in 1767 to melt the gold off the statues.",
+        "The bronze core of the main Buddha is now enshrined in a pagoda at Wat Pho in Bangkok.",
+        "It was designated a UNESCO World Heritage site as part of the Ayutthaya Historical Park."
+      ]
+    },
+    {
+      "id": "vimanmek-mansion-history-v2",
+      "descriptionAdvanced": "Vimanmek Mansion, located in Bangkok's Dusit Palace complex, is celebrated as the world's largest golden teakwood building. It was built in 1900 by King Chulalongkorn (Rama V) after his return from a grand tour of Europe. The King personally designed the mansion, which combines traditional Thai craftsmanship with European Victorian influences, featuring 81 rooms, halls, and ante-rooms. Originally built as a summer palace on the island of Ko Sichang, the entire structure was dismantled and moved to its current location in Bangkok. The mansion was the first building in Thailand to have indoor plumbing and electricity, reflecting the King's modernization efforts. For decades, it served as a museum showcasing royal artifacts, 19th-century photography, and the King's personal collections. While it has been closed for major renovations in recent years, it remains a symbol of the 'golden era' of Thai-European diplomatic and cultural exchange.",
+      "factsAdvanced": [
+        "Vimanmek Mansion is the largest teakwood building in the world.",
+        "It was built without using a single iron nail, using traditional wood-joinery.",
+        "The name 'Vimanmek' means 'Cloud Mansion' or 'Heavenly Dwelling.'",
+        "King Rama V lived in the mansion for five years (1901–1906).",
+        "The L-shaped building is 60 meters long and 20 meters high.",
+        "It was the first residence in Thailand to be equipped with electric lights.",
+        "The mansion was rediscovered and opened as a museum by Queen Sirikit in 1982.",
+        "It contains the first typewriter with a Thai keyboard and ancient European porcelain."
+      ]
+    },
+    {
+      "id": "wat-sri-chum-sukhothai-history-v2",
+      "descriptionAdvanced": "Wat Sri Chum is arguably the most mysterious and photographically famous temple in the Sukhothai Historical Park. Its fame rests on the 'Phra Achana,' a massive seated Buddha statue that is 15 meters high and 11 meters wide, housed within a roofless, thick-walled square building called a Mandapa. The statue is visible from the outside through a narrow vertical slit in the wall, creating a dramatic and awe-inspiring sight. 'Phra Achana' translates to 'the one who is not frightened,' and the image is known for its long, graceful fingers, often covered in gold leaf by devotees. A unique feature of Wat Sri Chum is the 'secret' narrow staircase built into the south wall, leading to the roof. Legends say that kings or generals would stand behind the Buddha's head and speak to their troops, making the soldiers believe the statue itself was talking to them, thus boosting their morale before battle.",
+      "factsAdvanced": [
+        "The Phra Achana Buddha at Wat Sri Chum is 15.6 meters high.",
+        "The name 'Phra Achana' means 'unfrightened' or 'motionless.'",
+        "A hidden tunnel in the wall contains 50 slate slabs engraved with scenes from the Jataka (Buddha's lives).",
+        "The temple dates back to the late 13th or early 14th century.",
+        "It is famous for the legend of the 'Speaking Buddha' used to motivate Siamese soldiers.",
+        "The Buddha's fingers are unusually long and elegant, a hallmark of Sukhothai art.",
+        "The mandapa (mondop) walls are 3 meters thick.",
+        "The temple is located in the North Zone of the Sukhothai Historical Park."
+      ]
+    },
+    {
+      "id": "battle-of-nong-sarai-history-v2",
+      "descriptionAdvanced": "The Battle of Nong Sarai, fought in 1593, is one of the most legendary and pivotal moments in Thai history, marking the restoration of Siamese independence from Burmese rule. The battle is famously climaxed by the 'Yuddhahatthi' (elephant duel) between King Naresuan of Ayutthaya and the Burmese Crown Prince Mingyi Swa. According to historical accounts, as the two armies clashed in Suphan Buri, the King challenged the Prince to a personal duel to end the bloodshed. In a heroic display of bravery and skill, King Naresuan slew the Prince with his 'Ngao' (long-handled sword) while atop his war elephant, Chao Phraya Chaiyanuphap. This victory effectively ended Burmese invasions for several decades and cemented King Naresuan's legacy as a national liberator. The date of the battle is now celebrated annually as Royal Thai Armed Forces Day, and a massive monument stands at the site in Don Chedi to commemorate this heroic feat.",
+      "factsAdvanced": [
+        "The battle took place on January 18, 1593, in what is now Suphan Buri province.",
+        "It is celebrated every year as the Royal Thai Armed Forces Day.",
+        "The 'Yuddhahatthi' was an ancient, honorable form of combat between leaders.",
+        "The King's war elephant was later given the title 'Chao Phraya Prap Hongsawadi' (Conqueror of Pegu).",
+        "The victory secured Ayutthaya's independence from the Toungoo Dynasty of Burma.",
+        "King Naresuan's Ngao (sword) used in the duel is considered a national relic.",
+        "The Don Chedi monument was built on the site where the duel is believed to have occurred.",
+        "This event is a central theme in Thai nationalistic literature and film."
+      ]
+    }
+  ]
+}

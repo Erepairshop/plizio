@@ -1,0 +1,62 @@
+{
+  "lang": "hu",
+  "country": "sweden",
+  "files": ["lib/visualLab/data/swedenPoi.ts"],
+  "items": [
+    {
+      "id": "city-stockholm",
+      "descriptionAdvanced": "Stockholm, Svédország fővárosa, 14 szigeten épült, melyeket több mint 50 híd köt össze. A "Észak Velencéje" néven is ismert város lenyűgöző építészetével, tiszta vizeivel és számos zöldterületével vonzza a látogatókat. A történelmi Gamla Stan óvárosa a szűk, macskaköves utcáival és színes épületeivel a középkori hangulatot idézi, míg a város modern arculata a technológia, a dizájn és a fenntartható életmód ötvözetét tükrözi. A város világszínvonalú múzeumoknak, mint a Vasa Múzeum, otthona. Földrajz K8.",
+      "factsAdvanced": [
+        "A stockholmi metróhálózat több mint 110 kilométer hosszú, és 90 díszített állomásával a világ leghosszabb művészeti galériájának számít.",
+        "A város 14 szigeten terül el, amelyeket 57 híd köt össze egy komplex rendszerben.",
+        "A stockholmi Királyi Palota több mint 600 szobával rendelkezik, és a világ egyik legnagyobb működő királyi palotája.",
+        "A Vasa Múzeum a 17. századi, 1961-ben kiemelt Vasa hadihajónak ad otthont, amely 333 évet töltött a víz alatt.",
+        "A város területének egyharmadát zöldterületek teszik ki, Stockholm az egyik legzöldebb főváros."
+      ]
+    },
+    {
+      "id": "city-gothenburg",
+      "descriptionAdvanced": "Göteborg, Svédország nyugati partján fekvő második legnagyobb városa, egyben az ország legforgalmasabb kikötője. A holland stílusú csatornákról, buja parkjairól és élénk kulináris kínálatáról ismert, különösen híres friss tengeri ételeiről. A város a Volvo autógyár otthonaként fontos ipari és innovációs központ. A Liseberg vidámpark, Skandinávia legnagyobbja, évente turisták millióit vonzza. A közeli szigetvilág hajóval könnyen elérhető, ideális kirándulóhely. Földrajz K7.",
+      "factsAdvanced": [
+        "Göteborg városát 1621-ben alapították királyi oklevéllel, stratégiai kereskedelmi központként.",
+        "A Volvo vállalatot 1627-ben Göteborgban alapították, és központja ma is itt található.",
+        "A Gothia Kupa, a világ legnagyobb ifjúsági labdarúgótornája, minden évben itt kerül megrendezésre.",
+        "Liseberg 1923-ban nyílt meg, azóta Skandinávia leglátogatottabb vidámparkja.",
+        "A Feskekörka (Haltemplom) egy különleges piac, amelynek épülete egy gótikus templomra emlékeztet."
+      ]
+    },
+    {
+      "id": "city-malmo",
+      "descriptionAdvanced": "Malmö Svédország harmadik legnagyobb városa, Skåne tartományban fekszik. A város multikulturális metropolisszá vált, melyet az Öresund híd közvetlenül kapcsol össze Koppenhágával. Az innovatív építészet egyik kiemelkedő példája a Turning Torso felhőkarcoló, amely a város modernkori fejlődését jelképezi. Malmö sikeresen alakult át ipari központból fenntartható, modern lakónegyeddé, mint amilyen a Västra Hamnen. A város gazdag kulturális élettel, fesztiválokkal és kiterjedt kerékpárút-hálózattal várja a látogatókat. Sachkunde K5.",
+      "factsAdvanced": [
+        "Az Öresund híd 7,8 kilométeres hosszával köti össze Svédországot Dániával.",
+        "A Turning Torso felhőkarcoló 190 méter magas, és 90 fokos csavarodással épült az alapjától a csúcsáig.",
+        "Malmö lakosai több mint 170 nemzetből érkeztek, ezzel az egyik legváltozatosabb svéd város.",
+        "A Malmöhus kastély a legrégebbi reneszánsz erőd Skandináviában, amely ma több múzeumnak is otthont ad.",
+        "A városban több mint 500 kilométernyi kerékpárút található, ami a világ egyik legbarátságosabb kerékpáros városává teszi."
+      ]
+    },
+    {
+      "id": "city-uppsala",
+      "descriptionAdvanced": "Uppsala történelmi városa Stockholmtól északra fekszik, rangos egyeteméről ismert, amely Skandinávia legrégebbi felsőoktatási intézménye. A várost a hatalmas Uppsalai Székesegyház uralja, amely a skandináv országok legnagyobb temploma. A Fyris-folyó által átszelt város gazdag történelmi emlékekkel, köztük az Uppsalai várral rendelkezik, ahonnan csodás panoráma nyílik. A város Carl Linnaeus botanikus otthona is volt, botanikus kertjei ma is látogathatók. A hallgatói közösség vibráló hangulatot kölcsönöz a történelmi városnak. Istorie K6.",
+      "factsAdvanced": [
+        "Az Uppsalai Egyetemet 1477-ben alapították, ezzel a skandináv országok legrégebbi egyeteme.",
+        "Carl Linnaeus, a modern rendszertan atyja, Uppsalában dolgozott; egykori lakhelye ma botanikai múzeum.",
+        "Az Uppsalai Székesegyház 118,7 méteres tornyaival Skandinávia legmagasabb templomépülete.",
+        "A Carolina Rediviva könyvtár őrzi a Codex Argenteust, az értékes 6. századi gótikus ezüstbibliát.",
+        "Valborg (Walpurgis-éj) minden év április 30-án a hallgatók nagy ünnepe máglyákkal és rendezvényekkel."
+      ]
+    },
+    {
+      "id": "reg-lapland",
+      "descriptionAdvanced": "Svéd Lappföld egy hatalmas vadon az ország északi részén, amelyet sarkvidéki tájak, fenséges hegyek és kristálytiszta folyók jellemeznek. Ez az éjféli nap földje nyáron és az északi fényé a téli éjszakákon. A régió az őshonos számi nép otthona, akik évezredek óta hagyományos rénszarvastartással foglalkoznak. Lappföld olyan egyedülálló élményeket kínál, mint a kutyaszánozás, a rénszarvas-pásztorkodás vagy a Jukkasjärvi Jéghotelben való tartózkodás. A természet és a kaland szerelmeseinek igazi paradicsoma. Erdkunde K8.",
+      "factsAdvanced": [
+        "Lappföld Svédország területének körülbelül 25%-át teszi ki, ugyanakkor rendkívül ritkán lakott.",
+        "A számi nép rénszarvastartása mélyen beépült Lappföld kultúrájába, és évezredes hagyományokat őriz.",
+        "A Torne-folyó adja a jeget a faimos Jég Hotel számára, amelynek szobáit minden évben nemzetközi művészek tervezik újra.",
+        "A régió híres az "éjféli napról", amikor a nap a nyári hónapokban nem bukik le a horizont alá.",
+        "A régió változatos arktikus állatvilágnak ad otthont, beleértve az elanokat, rénszarvasokat és wolverinokat."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "city-monaghan",
+    "name": "Monaghan"
+  },
+  {
+    "id": "city-letterkenny",
+    "name": "Letterkenny"
+  },
+  {
+    "id": "city-killarney",
+    "name": "Killarney"
+  },
+  {
+    "id": "city-clonmel",
+    "name": "Clonmel"
+  },
+  {
+    "id": "city-dungarvan",
+    "name": "Dungarvan"
+  },
+  {
+    "id": "city-mallow",
+    "name": "Mallow"
+  },
+  {
+    "id": "city-wicklow",
+    "name": "Wicklow"
+  },
+  {
+    "id": "city-ballina",
+    "name": "Ballina"
+  },
+  {
+    "id": "city-westport",
+    "name": "Westport"
+  },
+  {
+    "id": "hist-hill-of-tara",
+    "name": "Hill of Tara"
+  },
+  {
+    "id": "hist-jerpoint-abbey",
+    "name": "Jerpoint Abbey"
+  },
+  {
+    "id": "landmark-king-johns-castle",
+    "name": "King John's Castle"
+  },
+  {
+    "id": "hist-glenveagh-castle",
+    "name": "Glenveagh Castle"
+  },
+  {
+    "id": "hist-rathcroghan",
+    "name": "Rathcroghan"
+  },
+  {
+    "id": "hist-fore-abbey",
+    "name": "Fore Abbey"
+  },
+  {
+    "id": "landmark-dun-aonghasa",
+    "name": "Dun Aonghasa"
+  },
+  {
+    "id": "historical-glasnevin-cemetery",
+    "name": "Glasnevin Cemetery"
+  },
+  {
+    "id": "mountain-mweelrea",
+    "name": "Mweelrea"
+  },
+  {
+    "id": "mountain-mangerton",
+    "name": "Mangerton"
+  },
+  {
+    "id": "lake-lough-mask",
+    "name": "Lough Mask"
+  },
+  {
+    "id": "lake-lough-gill",
+    "name": "Lough Gill"
+  },
+  {
+    "id": "river-barrow",
+    "name": "River Barrow"
+  },
+  {
+    "id": "river-blackwater",
+    "name": "River Blackwater"
+  },
+  {
+    "id": "river-liffey",
+    "name": "River Liffey"
+  },
+  {
+    "id": "island-inishbofin",
+    "name": "Inishbofin"
+  },
+  {
+    "id": "industry-midleton-distillery",
+    "name": "Midleton Distillery"
+  },
+  {
+    "id": "industry-teeling-whiskey-distillery",
+    "name": "Teeling Whiskey Distillery"
+  },
+  {
+    "id": "industry-slane-distillery",
+    "name": "Slane Distillery"
+  },
+  {
+    "id": "industry-foxford-woollen-mills",
+    "name": "Foxford Woollen Mills"
+  },
+  {
+    "id": "industry-tullamore-dew",
+    "name": "Tullamore Dew"
+  }
+]

@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mz-samora-machel-bridge-history-v2",
+      "descriptionAdvanced": "The Samora Machel Bridge is a monumental engineering feat spanning the mighty Zambezi River in the city of Tete. Completed in 1973 during the late Portuguese colonial period, this iconic suspension bridge was designed by renowned engineer Edgar Cardoso. Stretching over 760 meters, it was crucial for connecting the coal-rich northern regions with the central and southern transport corridors. Named posthumously after Mozambique's first president, the bridge remains a vital, heavily trafficked lifeline for both domestic transit and international freight moving through the Moatize basin. History K8 — Civil engineering, colonial infrastructure, and river crossings.",
+      "factsAdvanced": [
+        "Spans the Zambezi River at Tete.",
+        "A suspension bridge with a total length of 762 meters.",
+        "Designed by renowned Portuguese engineer Edgar Cardoso.",
+        "Completed in 1973, shortly before Mozambican independence.",
+        "Named in honor of Samora Machel, the nation's first president.",
+        "A critical logistical link for the Moatize coal mining region."
+      ]
+    },
+    {
+      "id": "mz-old-sofala-history-v2",
+      "descriptionAdvanced": "Old Sofala, once one of the most prosperous and mythologized coastal trading ports in East Africa, is now largely lost to the encroaching ocean. Established as a Swahili trading outpost around the 10th century, it was the principal export point for the vast gold wealth of the interior Mutapa Empire. The Portuguese, seeking to control this legendary gold trade, built a massive fort here in 1505. Today, due to centuries of severe coastal erosion and shifting sands, the original ruins of Sofala are almost entirely submerged, leaving only scattered remnants near the modern village of Nova Sofala. History K8 — Swahili coast trade, lost cities, and coastal erosion.",
+      "factsAdvanced": [
+        "Located on the Buzi River estuary, south of modern Beira.",
+        "Historically the primary export node for Mutapa Empire gold.",
+        "Portuguese established the Fort of São Caetano here in 1505.",
+        "Much of the original settlement has been destroyed by coastal erosion.",
+        "Described in early Arabic texts as the southernmost limit of safe navigation.",
+        "Served as the namesake for the modern Sofala Province."
+      ]
+    },
+    {
+      "id": "mz-maputo-cathedral-history-v2",
+      "descriptionAdvanced": "The Maputo Cathedral (Cathedral of Our Lady of the Immaculate Conception) is a towering, starkly white architectural landmark dominating Independence Square in the capital. Completed in 1944, its design was deeply influenced by modern European architectural trends, specifically resembling the church of Our Lady of Fátima in Portugal. The cathedral features a soaring spire and a cruciform layout, standing as a powerful symbol of the Catholic Church's historical alliance with the Portuguese colonial administration. Today, it remains an active, central place of worship for the city's Catholic community. History K8 — Religious architecture, colonial capitals, and modernism.",
+      "factsAdvanced": [
+        "Located on Independence Square in central Maputo.",
+        "Completed in 1944 during the Portuguese colonial era.",
+        "Features a stark white exterior and a tall, singular spire.",
+        "Architecturally inspired by European modernist and Art Deco trends.",
+        "Dedicated to Our Lady of the Immaculate Conception.",
+        "Remains the seat of the Roman Catholic Archdiocese of Maputo."
+      ]
+    },
+    {
+      "id": "mz-monument-great-war-history-v2",
+      "descriptionAdvanced": "The Monument to the Great War (Monumento aos Heróis da Grande Guerra) is a striking, somber memorial located in Maputo's central train station square. Unveiled in 1935, the monument commemorates the Portuguese and African soldiers who died defending Portuguese East Africa against German incursions from Tanganyika during World War I. The intricate stone carvings depict soldiers in combat and scenes of suffering, designed by the acclaimed Portuguese sculptor Rui Gameiro. It stands as a rare and poignant reminder of the devastating African theater of the First World War. History K8 — World War I in Africa, colonial armies, and commemorative art.",
+      "factsAdvanced": [
+        "Located in the square outside the Maputo Railway Station.",
+        "Unveiled in 1935 to honor casualties of World War I.",
+        "Designed by the prominent Portuguese sculptor Rui Gameiro.",
+        "Commemorates the defense of northern Mozambique against German forces.",
+        "Features intricate stone bas-reliefs of soldiers and civilians.",
+        "One of the few major WWI monuments in southern Africa."
+      ]
+    },
+    {
+      "id": "mz-vila-algarve-history-v2",
+      "descriptionAdvanced": "Vila Algarve is a building in Maputo with an incredibly dark and terrifying history. Originally constructed in 1934 as an elegant, tile-clad residential mansion for a wealthy Portuguese family, it was later requisitioned by the PIDE, the brutal secret police of the Portuguese Estado Novo regime. During the struggle for independence, the building's basement was used as a notorious interrogation and torture center for Mozambican political prisoners. Today, the heavily decayed, abandoned structure stands as a chilling, informal monument to the suffering endured during the fight for liberation. History K8 — Secret police, liberation struggles, and dark heritage.",
+      "factsAdvanced": [
+        "Built in 1934 featuring ornate Portuguese azulejo tiles.",
+        "Located in the upscale Polana neighborhood of Maputo.",
+        "Served as the local headquarters for the PIDE secret police.",
+        "Used as a notorious interrogation and torture facility.",
+        "Currently sits in a state of severe decay and abandonment.",
+        "A profound symbol of colonial repression and the liberation struggle."
+      ]
+    },
+    {
+      "id": "mz-polana-church-history-v2",
+      "descriptionAdvanced": "The Church of Santo António da Polana is one of the most distinctive and recognizable pieces of modernist architecture in Maputo. Designed by the visionary Portuguese architect Nuno Craveiro Lopes and completed in 1962, the church's radical concrete design resembles an inverted flower or a futuristic lemon squeezer. The structure utilizes striking pleated concrete walls that allow brilliant natural light to flood the circular interior. This avant-garde building breaks entirely from traditional European church designs, reflecting the bold architectural experimentation that characterized late-colonial Lourenço Marques. History K8 — Modernist architecture, brutalism, and urban aesthetics.",
+      "factsAdvanced": [
+        "Located in the affluent Polana district of Maputo.",
+        "Completed in 1962, designed by Nuno Craveiro Lopes.",
+        "Features a radical, circular 'inverted flower' concrete structure.",
+        "Considered a masterpiece of tropical modernism and brutalism.",
+        "The pleated walls provide natural ventilation and dramatic lighting.",
+        "Often referred to locally as the 'Lemon Squeezer' church."
+      ]
+    },
+    {
+      "id": "mz-inhambane-mosque-history-v2",
+      "descriptionAdvanced": "The Inhambane Central Mosque is a striking religious and cultural landmark in one of Mozambique's oldest cities. Situated near the historic waterfront, the mosque reflects the deep, centuries-old influence of Arab and Swahili maritime trade on the southern coast. Its distinctive architecture features brilliant white walls, intricate geometric details, and a prominent, vibrant green dome that dominates the town's skyline. The mosque serves as the spiritual heart for the city's significant Muslim community, representing the enduring legacy of Islamic culture in the 'Land of the Good People.' History K8 — Islamic architecture, Swahili coast culture, and religious heritage.",
+      "factsAdvanced": [
+        "Located near the historic harbor of Inhambane city.",
+        "Features a highly distinctive, large green dome and minaret.",
+        "Serves as the primary place of worship for the local Muslim community.",
+        "Reflects the deep historical ties to Arab maritime trade routes.",
+        "One of the most photographed architectural landmarks in the province.",
+        "Stands in close proximity to the city's historic Catholic Cathedral."
+      ]
+    },
+    {
+      "id": "mz-cathedral-our-lady-inhambane-history-v2",
+      "descriptionAdvanced": "The Cathedral of Our Lady of the Conception in Inhambane is a beautiful, centuries-old church that stands as a testament to early Portuguese settlement on the Mozambican coast. Construction of the current building began in the late 18th century, featuring classic Portuguese colonial architecture, thick whitewashed walls, and an ornate, functioning clock tower. Inside, the church houses antique wooden pews and historic religious artifacts imported from Europe. Located near the waterfront, it has long served as a navigational landmark for ships entering the bay and remains an active parish today. History K8 — Colonial church architecture, maritime landmarks, and early settlements.",
+      "factsAdvanced": [
+        "Located in the historic center of Inhambane city.",
+        "Construction of the current structure dates back to the 18th century.",
+        "Features classic Portuguese colonial design and a prominent clock tower.",
+        "Served historically as a navigational aid for ships entering the bay.",
+        "Contains antique European religious artifacts and woodwork.",
+        "Remains a fully functioning parish for the local Catholic community."
+      ]
+    },
+    {
+      "id": "mz-quelimane-old-cathedral-history-v2",
+      "descriptionAdvanced": "The Old Cathedral of Quelimane (Catedral Velha) is a massive, historic ruin located in the center of the Zambezia provincial capital. Built in the late 18th century, the imposing twin-towered structure was the focal point of Portuguese religious and administrative life during the height of the region's plantation and trade era. Over the decades, the building suffered from neglect and severe weather, eventually falling into a state of grand decay. Today, its enormous, crumbling brick and stucco facade stands as a haunting, picturesque monument to the complex colonial history of the Zambezi delta region. History K8 — Architectural ruins, colonial history, and coastal settlements.",
+      "factsAdvanced": [
+        "Located in the city center of Quelimane, Zambezia Province.",
+        "Constructed by the Portuguese in the late 18th century.",
+        "Features a grand, classical twin-towered facade.",
+        "Currently stands in a state of severe, picturesque ruin.",
+        "Reflects the historical wealth generated by the regional plantation economy.",
+        "A new, modern cathedral was built nearby to replace it."
+      ]
+    },
+    {
+      "id": "mz-fort-sao-caetano-sofala-history-v2",
+      "descriptionAdvanced": "The Fort of São Caetano was the very first massive stone fortress built by the Portuguese on the East African coast, established at Sofala in 1505. Constructed to monopolize the legendary gold trade of the interior Mutapa Empire, the fort was built using stone imported all the way from Europe. For centuries, it stood as a formidable symbol of European military and economic ambition. However, due to relentless coastal erosion and shifting ocean currents, the massive stone structure collapsed into the sea in the early 20th century. Today, only submerged foundation stones remain of this once-mighty garrison. History K8 — Early maritime forts, coastal erosion, and the gold trade.",
+      "factsAdvanced": [
+        "Established in 1505 by Portuguese explorer Pêro de Anaia.",
+        "The first major European stone fortress built in East Africa.",
+        "Constructed to control the export of gold from the Mutapa Empire.",
+        "Built using imported European stone brought as ship ballast.",
+        "The entire structure collapsed into the ocean due to severe coastal erosion.",
+        "Only scattered, submerged ruins remain near modern Nova Sofala."
+      ]
+    },
+    {
+      "id": "mz-heroes-square-history-v2",
+      "descriptionAdvanced": "Heroes' Square (Praça dos Heróis Moçambicanos) is the most sacred political space in Mozambique, located in Maputo. At its center lies a striking, star-shaped white marble monument housing the remains of the nation's most revered liberation figures, including the first president, Samora Machel, and the founder of FRELIMO, Eduardo Mondlane. The square is defined by an immense, vibrant mural spanning over 90 meters, painted by renowned Mozambican artists. The mural vividly depicts the long, arduous struggle against colonial rule, the fight for independence, and the vision of a unified post-colonial society. History K8 — National monuments, liberation struggles, and political art.",
+      "factsAdvanced": [
+        "Located near the international airport in Maputo.",
+        "Features a massive, star-shaped white marble mausoleum.",
+        "Holds the remains of key figures like Samora Machel and Eduardo Mondlane.",
+        "Surrounded by an iconic 95-meter-long mural depicting Mozambican history.",
+        "The mural was created collaboratively by acclaimed local artists.",
+        "The site of major national ceremonies and political commemorations."
+      ]
+    },
+    {
+      "id": "mz-angoche-sultanate-history-v2",
+      "descriptionAdvanced": "The Ruins of the Angoche Sultanate are scattered across the complex estuary and islands near the modern town of Angoche in Nampula Province. Founded in the late 15th century by Swahili and Arab traders seeking to bypass Portuguese control, the Sultanate grew into a powerful, independent maritime state. For centuries, it dominated the regional ivory and slave trades, maintaining its sovereignty and Islamic culture against immense colonial pressure. Today, the remnants of ancient mosques, trading houses, and royal tombs serve as vital archaeological evidence of this fiercely independent pre-colonial coastal power. History K8 — Swahili sultanates, resistance to colonialism, and maritime history.",
+      "factsAdvanced": [
+        "Located around the estuary of modern-day Angoche.",
+        "Founded in the 1490s by traders fleeing Portuguese control of Sofala.",
+        "Grew into a powerful, independent Islamic maritime state.",
+        "Dominated the regional illicit trade networks until the late 19th century.",
+        "Remnants include ruined mosques, coral-rag houses, and tombs.",
+        "Maintained strong political and cultural ties with Zanzibar and Kilwa."
+      ]
+    },
+    {
+      "id": "mz-macuti-lighthouse-history-v2",
+      "descriptionAdvanced": "The Macuti Lighthouse is a striking and iconic navigational landmark located on the beaches of Beira. Distinctive for its bold red and white horizontal stripes, the lighthouse was constructed in 1904 to safely guide vast numbers of merchant ships into the bustling Pungwe River estuary. Surviving decades of severe tropical storms, intense civil war, and the devastating Cyclone Idai in 2019, the lighthouse stands as a symbol of Beira's resilience. The surrounding Macuti beach area remains a popular, albeit weathered, gathering place for locals, with the lighthouse dominating the coastal skyline. History K8 — Navigational infrastructure, coastal landmarks, and extreme weather resilience.",
+      "factsAdvanced": [
+        "Located on Macuti Beach in the city of Beira.",
+        "Constructed in 1904 to guide ships into the busy Beira port.",
+        "Features highly distinctive red and white horizontal stripes.",
+        "Stands approximately 28 meters tall.",
+        "Survived the catastrophic winds and storm surge of Cyclone Idai.",
+        "Remains an iconic symbol of the city's maritime heritage."
+      ]
+    },
+    {
+      "id": "mz-goa-island-lighthouse-history-v2",
+      "descriptionAdvanced": "The Goa Island Lighthouse is a critical, historic navigational beacon located on a tiny, uninhabited island just off the coast of the Island of Mozambique. Built in 1876, the stark white, square-shaped lighthouse was essential for guiding heavily laden merchant and military vessels safely through the treacherous coral reefs surrounding the former colonial capital. Today, the pristine, isolated island is a popular excursion for tourists visiting the historic 'Stone Town', offering spectacular views of the Indian Ocean and a glimpse into the 19th-century maritime infrastructure of Portuguese East Africa. History K8 — Maritime navigation, coral reef hazards, and island history.",
+      "factsAdvanced": [
+        "Located on the tiny, uninhabited Goa Island (Ilha de Goa).",
+        "Constructed in 1876 during the Portuguese colonial era.",
+        "Features a distinctive square, whitewashed tower design.",
+        "Built to warn ships of the treacherous reefs approaching Ilha de Moçambique.",
+        "The island is only accessible by traditional dhow or small boat.",
+        "Functions today primarily as a tourist excursion site."
+      ]
+    },
+    {
+      "id": "mz-massacre-mueda-history-v2",
+      "descriptionAdvanced": "The Massacre of Mueda Monument is a deeply revered memorial located on the high plateau of Mueda in Cabo Delgado Province. It marks the tragic events of June 16, 1960, when Portuguese colonial forces opened fire on an unarmed crowd of Makonde people peacefully petitioning for better wages and political rights. The massacre resulted in numerous deaths and is widely considered the brutal catalyst that ignited the Mozambican War of Independence. The monument stands not only to honor those who fell but as a powerful symbol of the origins of the nation's liberation struggle. History K8 — Independence movements, colonial violence, and national memorials.",
+      "factsAdvanced": [
+        "Located in the town of Mueda, Cabo Delgado Province.",
+        "Commemorates the massacre that occurred on June 16, 1960.",
+        "The event is considered the catalyst for the Mozambican War of Independence.",
+        "Portuguese troops fired on an unarmed crowd of Makonde petitioners.",
+        "The date is marked annually as a national day of remembrance.",
+        "Serves as a focal point for national liberation history."
+      ]
+    },
+    {
+      "id": "mz-nampula-cathedral-history-v2",
+      "descriptionAdvanced": "The Nampula Cathedral (Cathedral of Our Lady of the Conception) is a magnificent architectural centerpiece in the bustling capital of northern Mozambique. Consecrated in 1956 when Nampula was elevated to city status, the building reflects a grand, modernist interpretation of traditional Portuguese religious architecture, featuring twin symmetrical towers and a sweeping, cavernous nave. The cathedral was designed to symbolize the growing economic and administrative power of the northern interior during the mid-20th century. Today, it remains the seat of the Archdiocese and a prominent gathering place for the city's devout Catholic population. History K8 — Modernist church architecture, urban expansion, and religious centers.",
+      "factsAdvanced": [
+        "Located in the center of Nampula city.",
+        "Consecrated in 1956, coinciding with Nampula's elevation to city status.",
+        "Features an imposing modernist design with striking twin towers.",
+        "Dedicated to Our Lady of the Conception.",
+        "Serves as the seat of the Roman Catholic Archdiocese of Nampula.",
+        "A major architectural landmark in the rapidly expanding northern capital."
+      ]
+    },
+    {
+      "id": "mz-mandlakazi-history-v2",
+      "descriptionAdvanced": "Historic Mandlakazi (now known as Manjacaze) in Gaza Province was the formidable royal capital of the mighty Gaza Empire during the late 19th century. Under the rule of the legendary Emperor Ngungunhane, Mandlakazi was the political and military epicenter of a vast African state that fiercely resisted European encroachment. The capital was eventually sacked and burned by Portuguese forces in 1895 following a series of brutal battles, leading to Ngungunhane's capture and exile. Today, the area is deeply respected as a site of profound African resistance, symbolising the power and ultimate fall of the last great southern African empire. History K8 — African empires, anti-colonial resistance, and royal capitals.",
+      "factsAdvanced": [
+        "Located in the modern district of Manjacaze, Gaza Province.",
+        "Served as the royal capital of Emperor Ngungunhane's Gaza Empire.",
+        "The political center of one of the last great pre-colonial African states.",
+        "Sacked and destroyed by Portuguese forces in 1895.",
+        "Ngungunhane was captured nearby and exiled to the Azores.",
+        "Remains a site of immense historical pride and cultural memory."
+      ]
+    },
+    {
+      "id": "mz-fort-sao-lourenco-history-v2",
+      "descriptionAdvanced": "The Fort of São Lourenço is a small, isolated historic fortification situated on a tiny islet near the southern edge of the Island of Mozambique. Built in the late 16th century, it was constructed as an auxiliary defense structure to protect the shallower southern approaches to the main Fort of São Sebastião. The fort played a crucial role in repelling amphibious assaults during the intense Dutch sieges of the early 1600s. Today, its weather-beaten, coral-rag walls are only accessible during low tide, offering a quiet, evocative glimpse into the layered, strategic maritime defenses of the Portuguese empire. History K8 — Auxiliary fortifications, naval defense, and tidal islands.",
+      "factsAdvanced": [
+        "Located on a small islet south of Ilha de Moçambique.",
+        "Constructed in 1595 to defend the shallow southern anchorage.",
+        "Played a key role in defending against Dutch sieges in 1607 and 1608.",
+        "Built using local coral-rag stone.",
+        "Accessible by foot only during extreme low tides.",
+        "Functioned as a critical auxiliary battery to the main Fort of São Sebastião."
+      ]
+    },
+    {
+      "id": "maputo-city-hall-landmarks-v2",
+      "descriptionAdvanced": "The Maputo City Hall (Conselho Municipal de Maputo) is a stunning neoclassical masterpiece that anchors the city's Independence Square. Completed in 1947, the building projects power and elegance, featuring a grand, symmetrical facade, massive Doric columns, and a prominent central pediment. Originally built to house the colonial municipal government of Lourenço Marques, it seamlessly transitioned into the administrative heart of the independent capital. The building's immaculate preservation and commanding presence make it one of the most photographed and respected architectural landmarks in Mozambique. History K8 — Neoclassical architecture, civic buildings, and urban design.",
+      "factsAdvanced": [
+        "Located at the head of Independence Square in central Maputo.",
+        "Completed in 1947 during the colonial administration.",
+        "Designed in a striking, monumental neoclassical architectural style.",
+        "Features a grand entrance flanked by massive stone columns.",
+        "Currently serves as the headquarters for the Maputo City Council.",
+        "One of the best-preserved historic civic buildings in the country."
+      ]
+    },
+    {
+      "id": "casa-de-ferro-landmarks-v2",
+      "descriptionAdvanced": "The Iron House (Casa de Ferro) is a bizarre and iconic architectural landmark situated in the heart of Maputo. Designed in 1892 by an associate of Gustave Eiffel, the entire structure is composed of prefabricated iron panels imported from Belgium. Originally intended as the residence for the Portuguese Governor-General, it proved completely uninhabitable due to the blistering tropical heat trapped by the iron walls. Today, it serves as an administrative building for the Ministry of Culture and stands as a fascinating, if misguided, example of European industrial architecture transplanted into the African tropics. History K8 — Prefabricated architecture, colonial planning, and tropical climates.",
+      "factsAdvanced": [
+        "Designed in 1892 by the school of Gustave Eiffel.",
+        "Constructed entirely from prefabricated iron plates imported from Europe.",
+        "Originally intended to house the Portuguese Governor-General.",
+        "Rendered nearly uninhabitable by the intense tropical heat.",
+        "Has been relocated several times within the city of Maputo.",
+        "Currently houses the National Directorate of Cultural Heritage."
+      ]
+    },
+    {
+      "id": "fortaleza-de-maputo-landmarks-v2",
+      "descriptionAdvanced": "The Maputo Fortress (Fortaleza de Nossa Senhora da Conceição) is one of the capital's most significant historical landmarks. Originally constructed by the Portuguese in the late 18th century to protect their trading interests on Delagoa Bay, the imposing quadrangular stone fort now serves as a military history museum. It houses intricate colonial-era artillery, striking statues of prominent Portuguese figures like Mouzinho de Albuquerque, and the intricate wooden coffin of Ngungunhane, the last emperor of the Gaza Empire. The fortress stands as a stark monument to the complex and violent colonial history of southern Mozambique. History K8 — Colonial fortifications, military history, and the Gaza Empire.",
+      "factsAdvanced": [
+        "Located near the waterfront in central Maputo.",
+        "Built in its current stone form by the Portuguese in the late 18th century.",
+        "Features a classic quadrangular defensive design with corner bastions.",
+        "Houses the remains of Ngungunhane, the famous Gaza Emperor.",
+        "Displays numerous colonial-era cannons and military artifacts.",
+        "Now operates as a public museum managed by Eduardo Mondlane University."
+      ]
+    },
+    {
+      "id": "monument-mozambican-woman-landmarks-v2",
+      "descriptionAdvanced": "The Monument to the Mozambican Woman (Monumento à Mulher Moçambicana) is a powerful, evocative bronze statue located in the capital, Maputo. It was erected to honor the profound sacrifices, resilience, and vital contributions of women during the national struggle for independence and the subsequent civil war. The statue depicts a strong, determined woman, symbolizing both the traditional backbone of the rural family and the fierce female fighters of the liberation front. It serves as a daily, public reminder of the indispensable role women have played in shaping the modern Mozambican nation. History K8 — Commemorative art, women in history, and national identity.",
+      "factsAdvanced": [
+        "Located in a prominent public square in Maputo.",
+        "Honors the role of women in the Mozambican war of independence.",
+        "Cast in bronze, depicting a strong, resolute female figure.",
+        "Celebrates both maternal resilience and female military combatants.",
+        "A key site for ceremonies during Mozambican Women's Day (April 7).",
+        "Reflects the socialist-inspired monumental art style of the post-independence era."
+      ]
+    },
+    {
+      "id": "samora-machel-statue-landmarks-v2",
+      "descriptionAdvanced": "The Samora Machel Statue is an imposing, monumental bronze sculpture standing proudly at the center of Independence Square in Maputo. Unveiled in 1999, it honors Mozambique's founding father and revolutionary leader, President Samora Machel, who died tragically in a 1986 plane crash. The statue portrays him in his characteristic military fatigues, his right arm outstretched in his signature impassioned, fiery speaking style. Crafted by North Korean artists, the towering figure is a daily reminder to the city's residents of the intense, socialist-driven revolutionary spirit that birthed the independent nation. History K8 — Monumental sculpture, revolutionary leaders, and political history.",
+      "factsAdvanced": [
+        "Located at the absolute center of Independence Square in Maputo.",
+        "Depicts Mozambique's first President, Samora Machel.",
+        "Unveiled in 1999, standing over 9 meters tall including the pedestal.",
+        "Produced by the Mansudae Art Studio of North Korea.",
+        "Replaced a former colonial statue of Joaquim Mouzinho de Albuquerque.",
+        "Portrays Machel in a dynamic, mid-speech revolutionary pose."
+      ]
+    },
+    {
+      "id": "praca-dos-herois-landmarks-v2",
+      "descriptionAdvanced": "Heroes' Square (Praça dos Heróis Moçambicanos) is the most sacred political space in Mozambique, located in Maputo. At its center lies a striking, star-shaped white marble monument housing the remains of the nation's most revered liberation figures, including the first president, Samora Machel, and the founder of FRELIMO, Eduardo Mondlane. The square is defined by an immense, vibrant mural spanning over 90 meters, painted by renowned Mozambican artists. The mural vividly depicts the long, arduous struggle against colonial rule, the fight for independence, and the vision of a unified post-colonial society. History K8 — National monuments, liberation struggles, and political art.",
+      "factsAdvanced": [
+        "Located near the international airport in Maputo.",
+        "Features a massive, star-shaped white marble mausoleum.",
+        "Holds the remains of key figures like Samora Machel and Eduardo Mondlane.",
+        "Surrounded by an iconic 95-meter-long mural depicting Mozambican history.",
+        "The mural was created collaboratively by acclaimed local artists.",
+        "The site of major national ceremonies and political commemorations."
+      ]
+    },
+    {
+      "id": "tunduru-botanical-gardens-gates-landmarks-v2",
+      "descriptionAdvanced": "The Tunduru Botanical Gardens Gates form the grand entrance to Maputo's lush, central public park. Designed in 1885 by the famous British landscape architect Thomas Honney, the gardens offer a dense, tropical escape from the bustling city center. The ornate, intricately forged iron gates themselves are a masterpiece of late 19th-century colonial design. Stepping through them reveals a beautifully manicured sanctuary featuring an incredible diversity of indigenous and exotic plant species, a tennis club, and a large cycad forest. The gates stand as an elegant threshold between rapid urban development and historical botanical preservation. Geography K7 — Urban parks, botanical history, and colonial landscaping.",
+      "factsAdvanced": [
+        "The gates serve as the main entrance to the Tunduru Botanical Gardens in Maputo.",
+        "The gardens were originally designed in 1885 by British architect Thomas Honney.",
+        "Features highly ornate, late 19th-century wrought-iron craftsmanship.",
+        "The park was formerly known as the Vasco da Gama Gardens.",
+        "Located directly adjacent to the Iron House and Independence Square.",
+        "The gardens house a massive collection of indigenous and exotic tropical plants."
+      ]
+    }
+  ]
+}

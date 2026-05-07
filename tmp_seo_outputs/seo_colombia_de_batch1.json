@@ -1,0 +1,325 @@
+{
+  "lang": "de",
+  "country": "colombia",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "leticia-cities-v2",
+      "descriptionAdvanced": "Leticia, die am südlichsten gelegene Stadt Kolumbiens, ist das Tor zum Amazonas-Regenwald und ein faszinierender Grenzpunkt zwischen Kolumbien, Brasilien und Peru. Die Stadt liegt direkt am mächtigen Amazonasstrom und ist nur auf dem Luft- oder Wasserweg erreichbar, was ihre isolierte und exotische Atmosphäre unterstreicht. Leticia dient als wichtiges Zentrum für den Ökotourismus und die wissenschaftliche Forschung in der Region. Besucher schätzen die Nähe zur unberührten Natur, den Besuch indigener Gemeinschaften und das einzigartige Phänomen der tausenden Papageien, die jeden Abend im Parque Santander landen. Die Stadt vereint kulturelle Einflüsse aus drei Nationen, was sich besonders in der Gastronomie und dem täglichen Leben widerspiegelt.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Amazonas.",
+        "Liegt im Dreiländereck 'Tres Fronteras'.",
+        "Nur per Flugzeug oder Schiff erreichbar.",
+        "Durchschnittstemperatur von etwa 27 Grad Celsius.",
+        "Wichtiger Hafen am oberen Amazonasstrom.",
+        "Beheimatet das völkerkundliche Museum 'Museo Etnográfico'.",
+        "Basis für Expeditionen in den Nationalpark Amacayacu."
+      ]
+    },
+    {
+      "id": "medellin-cities-v2",
+      "descriptionAdvanced": "Medellín, bekannt als die 'Stadt des ewigen Frühlings', hat eine beeindruckende Transformation von einer krisengebeutelten Metropole zu einem weltweit anerkannten Zentrum für Innovation und soziale Integration vollzogen. Die zweitgrößte Stadt Kolumbiens liegt im malerischen Aburrá-Tal und ist berühmt für ihr angenehmes Klima und die Herzlichkeit ihrer Bewohner, der Paisas. Medellín beeindruckt durch sein modernes Nahverkehrssystem, einschließlich Seilbahnen, die abgelegene Viertel verbinden, und die berühmte Rolltreppe in der Comuna 13. Die Stadt ist ein kulturelles Kraftzentrum mit zahlreichen Museen, wie dem Museo de Antioquia, das Werke von Fernando Botero zeigt, und Schauplatz des farbenfrohen Blumenfestivals 'Feria de las Flores'.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt Kolumbiens.",
+        "Gastgeber der jährlichen Feria de las Flores.",
+        "Verfügt über das einzige Metrosystem Kolumbiens.",
+        "Heimat des berühmten Künstlers Fernando Botero.",
+        "Wurde 2013 zur innovativsten Stadt der Welt gewählt.",
+        "Liegt auf einer Höhe von etwa 1.500 Metern.",
+        "Wichtiges Zentrum für Textilindustrie und Mode.",
+        "Berühmt für die Skulpturen auf der Plaza Botero."
+      ]
+    },
+    {
+      "id": "arauca-cities-v2",
+      "descriptionAdvanced": "Arauca, die Hauptstadt des gleichnamigen Departements im Osten Kolumbiens, liegt in den weiten Ebenen der Llanos Orientales direkt an der Grenze zu Venezuela. Die Stadt ist durch die José-Antonio-Páez-Brücke mit dem Nachbarland verbunden und dient als strategisches Handelszentrum in der Region. Geprägt durch die Viehzucht und die Erdölförderung, spiegelt Arauca die raue Schönheit und die traditionelle Llanero-Kultur wider. Musikalisch ist die Region eng mit dem Harfenspiel und dem Joropo-Tanz verbunden. Trotz ihrer abgelegenen Lage bietet die Stadt einen Einblick in das authentische Leben der kolumbianischen Tiefebenen, flankiert vom Fluss Arauca, der eine lebenswichtige Ader für Transport und Fischerei darstellt.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Arauca.",
+        "Liegt direkt am Grenzfluss zu Venezuela.",
+        "Zentrum der kolumbianischen Llanero-Kultur.",
+        "Wichtiger Standort für die Erdölindustrie.",
+        "Bekannt für den traditionellen Joropo-Tanz.",
+        "Heimat des internationalen Festivals 'El Araucano de Oro'.",
+        "Gegründet im Jahr 1780."
+      ]
+    },
+    {
+      "id": "barranquilla-cities-v2",
+      "descriptionAdvanced": "Barranquilla, die 'Goldene Pforte Kolumbiens', ist die wichtigste Hafenstadt an der Karibikküste und liegt strategisch günstig an der Mündung des Río Magdalena in das Karibische Meer. Die Stadt ist weltberühmt für ihren Karneval, der von der UNESCO als Meisterwerk des mündlichen und immateriellen Erbes der Menschheit anerkannt wurde. Barranquilla ist ein Schmelztiegel der Kulturen, geprägt durch Einflüsse von Einwanderern aus aller Welt, was sich in ihrer Architektur und vielfältigen Küche zeigt. Als industrielles und wirtschaftliches Zentrum treibt die Stadt den Außenhandel Kolumbiens voran. Ihre offene und lebensfrohe Atmosphäre macht sie zu einem dynamischen Ort, der Tradition und Moderne auf einzigartige Weise verbindet.",
+      "factsAdvanced": [
+        "Viertgrößte Stadt Kolumbiens.",
+        "Heimat des zweitgrößten Karnevals der Welt.",
+        "Geburtsort der Sängerin Shakira.",
+        "Wichtigster See- und Flusshafen des Landes.",
+        "UNESCO-Weltkulturerbe durch seinen Karneval.",
+        "Sitz des Fußballstadions Metropolitano Roberto Meléndez.",
+        "Gründungsort der ersten Fluggesellschaft Amerikas (SCADTA).",
+        "Wirtschaftliches Zentrum der Karibikregion."
+      ]
+    },
+    {
+      "id": "cartagena-cities-v2",
+      "descriptionAdvanced": "Cartagena de Indias ist zweifellos eine der schönsten Kolonialstädte Südamerikas und ein Juwel an der kolumbianischen Karibikküste. Die historische Altstadt, umgeben von einer mächtigen Stadtmauer aus der spanischen Kolonialzeit, gehört zum UNESCO-Weltkulturerbe und verzaubert mit ihren farbenfrohen Gebäuden, blumengeschmückten Balkonen und kopfsteingepflasterten Gassen. Cartagena war einst der wichtigste Hafen für den Goldexport der spanischen Krone und musste sich gegen zahlreiche Piratenangriffe verteidigen, wovon die Festung San Felipe de Barajas bis heute zeugt. Heute ist die Stadt ein erstklassiges Touristenziel, das reiche Geschichte mit modernem Luxus, weißen Sandstränden auf den nahegelegenen Rosario-Inseln und einem pulsierenden Nachtleben vereint.",
+      "factsAdvanced": [
+        "UNESCO-Weltkulturerbe seit 1984.",
+        "Gegründet im Jahr 1533 von Pedro de Heredia.",
+        "Die Stadtmauer ist etwa 11 Kilometer lang.",
+        "Heimat der Festung San Felipe de Barajas.",
+        "Wichtigster Schauplatz in den Werken von Gabriel García Márquez.",
+        "Wichtigster Hafen Kolumbiens in der Kolonialzeit.",
+        "Bekannt für die 'Palenqueras' mit ihren bunten Kleidern.",
+        "Austragungsort des Internationalen Filmfestivals von Cartagena."
+      ]
+    },
+    {
+      "id": "tunja-cities-v2",
+      "descriptionAdvanced": "Tunja, die höchstgelegene Hauptstadt eines Departements in Kolumbien, ist ein Ort voller Geschichte und kolonialem Charme in der Andenregion Boyacá. Gegründet auf dem Gebiet der indigenen Muisca, bewahrt die Stadt ein beeindruckendes architektonisches Erbe mit Kirchen und Herrenhäusern aus der spanischen Ära, die oft mit exquisiten Malereien verziert sind. Das kühle Klima und die ruhige Atmosphäre stehen im Kontrast zu ihrer Bedeutung als Bildungszentrum mit zahlreichen Universitäten. Tunja ist zudem eng mit dem Unabhängigkeitskampf Kolumbiens verbunden, da die entscheidende Schlacht von Boyacá in unmittelbarer Nähe stattfand. Die Stadt ist bekannt für ihre religiösen Traditionen und das Festival 'Aguinaldo Boyacense', das jährlich im Dezember gefeiert wird.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Boyacá.",
+        "Liegt auf einer Höhe von 2.822 Metern.",
+        "Besitzt eines der besterhaltenen Kolonialzentren.",
+        "Gegründet am 6. August 1539.",
+        "Heimat des berühmten 'Casa del Escribano'.",
+        "Wichtiges Universitätszentrum Kolumbiens.",
+        "Ort des jährlichen Aguinaldo Boyacense Festivals.",
+        "Liegt nahe der historischen Brücke von Boyacá."
+      ]
+    },
+    {
+      "id": "manizales-cities-v2",
+      "descriptionAdvanced": "Manizales, gelegen im Herzen der kolumbianischen Kaffeezone, ist eine Stadt, die für ihre steilen Straßen und den atemberaubenden Blick auf die schneebedeckten Gipfel der Zentralkordillere bekannt ist. Als Hauptstadt des Departements Caldas ist sie ein bedeutendes Zentrum für den Kaffeeanbau und die Hochschulbildung. Die Stadt zeichnet sich durch ihre neugotische Kathedrale aus, die eine der höchsten des Landes ist, sowie durch ein reges kulturelles Leben, das im Internationalen Theaterfestival gipfelt. Manizales bietet eine einzigartige Mischung aus urbanem Flair und unmittelbarer Nähe zur Natur, insbesondere zum Nationalpark Los Nevados. Die Herzlichkeit der 'Manizaleños' und das gemäßigte Klima machen die Stadt zu einem attraktiven Ziel für Reisende und Studenten gleichermaßen.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Caldas.",
+        "Liegt in der zum UNESCO-Welterbe gehörenden Kaffee-Kulturlandschaft.",
+        "Bekannt für die steilsten Straßen Kolumbiens.",
+        "Heimat der beeindruckenden Kathedrale Basilika Unserer Lieben Frau vom Rosenkranz.",
+        "Austragungsort der berühmten 'Feria de Manizales'.",
+        "Wichtiges Zentrum für die Kaffeeproduktion weltweit.",
+        "Sitz zahlreicher renommierter Universitäten.",
+        "Tor zum National-Naturpark Los Nevados."
+      ]
+    },
+    {
+      "id": "florencia-cities-v2",
+      "descriptionAdvanced": "Florencia, bekannt als die 'Goldene Pforte zum Amazonas', ist die Hauptstadt des Departements Caquetá und bildet den Übergang zwischen den Anden und dem dichten Regenwald. Die Stadt liegt strategisch am Fuße der Cordillera Oriental und wird von zahlreichen Flüssen und Bächen durchzogen, die ihr eine üppige, grüne Kulisse verleihen. Florencia hat sich in den letzten Jahren zu einem Zentrum für Ökotourismus entwickelt, wobei Wasserfälle, Höhlen und die reiche Artenvielfalt der Region Besucher anlocken. Die Wirtschaft wird traditionell von der Viehzucht und Landwirtschaft geprägt, wandelt sich aber zunehmend hin zu nachhaltigen Dienstleistungen. Als kulturelles Zentrum der Region bewahrt Florencia indigene Traditionen und feiert die Identität des kolumbianischen Amazonasgebiets.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Caquetá.",
+        "Gegründet im Jahr 1902 von Kapuzinermönchen.",
+        "Wichtigster Verbindungspunkt zwischen Anden und Amazonas.",
+        "Zentrum für Viehzucht und Landwirtschaft in Süd-Kolumbien.",
+        "Heimat des Festivals 'El Colono de Oro'.",
+        "Umgeben von zahlreichen Naturschutzgebieten und Wasserfällen.",
+        "Besitzt eine bedeutende Kathedrale, die 'Nuestra Señora de Lourdes'."
+      ]
+    },
+    {
+      "id": "yopal-cities-v2",
+      "descriptionAdvanced": "Yopal, die junge und dynamische Hauptstadt des Departements Casanare, ist das wirtschaftliche Herz der kolumbianischen Llanos Orientales. Einst ein kleines Dorf, erlebte die Stadt durch den Erdölboom in den 1990er Jahren ein rasantes Wachstum und entwickelte sich zu einer modernen Metropole in den weiten Ebenen. Trotz des industriellen Einflusses bleibt Yopal tief in der Llanero-Kultur verwurzelt, was sich in der Liebe zur Viehzucht, der traditionellen Musik und dem Pferdesport zeigt. Die Umgebung von Yopal bietet spektakuläre Safaris in der Savanne, wo man Ameisenbären, Wasserschweine und eine enorme Vielfalt an Vögeln beobachten kann. Die Stadt ist ein idealer Ausgangspunkt, um die unendlichen Horizonte und die einzigartige Fauna der kolumbianischen Tiefebene zu erkunden.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Casanare.",
+        "Erlebte ein extremes Bevölkerungswachstum durch Erdöl.",
+        "Wirtschaftliches Zentrum der östlichen Ebenen Kolumbiens.",
+        "Basis für Ökotourismus und Wildlife-Safaris.",
+        "Bekannt für das 'Festival del Garcero del Llano'.",
+        "Liegt am Fuße der Cordillera Oriental.",
+        "Wichtiges Zentrum für Reis- und Viehwirtschaft."
+      ]
+    },
+    {
+      "id": "popayan-cities-v2",
+      "descriptionAdvanced": "Popayán, oft als die 'Weiße Stadt' bezeichnet, ist eine der ehrwürdigsten und historisch bedeutendsten Städte Kolumbiens. Die Hauptstadt des Departements Cauca ist berühmt für ihre perfekt erhaltene koloniale Architektur, wobei fast alle Gebäude im historischen Zentrum in strahlendem Weiß gehalten sind. Popayán war lange Zeit ein religiöses und politisches Zentrum, was sich in der beeindruckenden Anzahl an Kirchen und Klöstern sowie in der Tatsache widerspiegelt, dass viele kolumbianische Präsidenten hier geboren wurden. Die Stadt ist weltweit für ihre Osterprozessionen bekannt, die von der UNESCO zum immateriellen Kulturerbe erklärt wurden. Zudem wurde Popayán als erste Stadt von der UNESCO als 'Stadt der Gastronomie' ausgezeichnet, was ihre reiche kulinarische Tradition würdigt.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Cauca.",
+        "Berühmt für die weißen Fassaden im Kolonialviertel.",
+        "UNESCO-Weltkulturerbe für die Osterprozessionen.",
+        "Erste UNESCO 'Stadt der Gastronomie' weltweit.",
+        "Gegründet 1537 von Sebastián de Belalcázar.",
+        "Heimat zahlreicher Museen und historischer Kirchen.",
+        "Wichtiges Zentrum für Bildung und Kunst.",
+        "Liegt im fruchtbaren Pubenza-Tal."
+      ]
+    },
+    {
+      "id": "valledupar-cities-v2",
+      "descriptionAdvanced": "Valledupar, gelegen zwischen der Sierra Nevada de Santa Marta und der Serranía del Perijá, ist das unangefochtene Zentrum der Vallenato-Musik, einem der wichtigsten kulturellen Symbole Kolumbiens. Die Hauptstadt des Departements Cesar atmet Rhythmus und Poesie, was jedes Jahr im berühmten Festival der Vallenato-Legende gipfelt. Die Stadt ist geprägt von üppiger Vegetation, schattigen Parks und dem klaren Wasser des Flusses Guatapurí, dessen Ufer ein beliebter Treffpunkt für Einheimische und Besucher ist. Valledupar bewahrt einen traditionellen kolonialen Kern, hat sich aber zu einer modernen Stadt mit starker landwirtschaftlicher Basis entwickelt. Die Verbindung von indigenen Einflüssen aus den Bergen und der karibischen Lebensfreude verleiht der Stadt eine ganz besondere, warme Atmosphäre.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Cesar.",
+        "Weltzentrum der Vallenato-Musik.",
+        "Heimat des 'Festival de la Leyenda Vallenata'.",
+        "Liegt im Tal des Flusses Cesar.",
+        "Bekannt für den Fluss Guatapurí und den Park 'La Provincia'.",
+        "Wichtiger Standort für Viehzucht und Landwirtschaft.",
+        "Gegründet im Jahr 1550.",
+        "Besitzt eine Statue zu Ehren der Vallenato-Komponisten."
+      ]
+    },
+    {
+      "id": "quibdo-cities-v2",
+      "descriptionAdvanced": "Quibdó, die Hauptstadt des Departements Chocó, liegt im Herzen einer der regenreichsten Regionen der Erde am Ufer des majestätischen Flusses Atrato. Die Stadt ist das kulturelle und administrative Zentrum der afrokolumbianischen Bevölkerung und besticht durch ihre lebendige, rhythmische Atmosphäre. Trotz der wirtschaftlichen Herausforderungen strahlt Quibdó eine enorme Lebensenergie aus, die besonders während des San-Pacho-Festes, einer farbenfrohen Feier zu Ehren des Heiligen Franz von Assisi, spürbar wird. Die Umgebung ist geprägt von dichtem, unberührtem Regenwald und einem komplexen Flusssystem, das den primären Transportweg darstellt. Quibdó bietet einen tiefen Einblick in die pazifische Kultur Kolumbiens, weit abseits der ausgetretenen Touristenpfade, und ist ein Ort von außergewöhnlicher biologischer Vielfalt.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Chocó.",
+        "Eine der regenreichsten Städte der Welt.",
+        "Liegt am schiffbaren Fluss Atrato.",
+        "Zentrum der afrokolumbianischen Kultur im Pazifikraum.",
+        "Heimat des 'Fiesta de San Pacho', UNESCO-Weltkulturerbe.",
+        "Wirtschaft basiert auf Bergbau, Fischerei und Handel.",
+        "Umgeben von tropischem Regenwald mit höchster Biodiversität."
+      ]
+    },
+    {
+      "id": "monteria-cities-v2",
+      "descriptionAdvanced": "Montería, bekannt als die 'Viehzuchthauptstadt Kolumbiens', liegt in den fruchtbaren Tälern des Flusses Sinú und ist ein pulsierendes Zentrum im Norden des Landes. Die Stadt hat in den letzten Jahren eine beeindruckende städtebauliche Entwicklung durchgemacht, insbesondere durch die Gestaltung des 'Ronda del Sinú', einem der längsten linearen Parks Lateinamerikas entlang des Flussufers. Montería verbindet wirtschaftliche Stärke im Agrarsektor mit einem Fokus auf Nachhaltigkeit und Lebensqualität. Die Stadt ist berühmt für ihre Gastronomie, die auf regionalen Produkten wie Fleisch und Käse basiert, sowie für ihre kulturellen Feste, die die Traditionen der Sinú-Region feiern. Das warme Klima und die sanfte Brise des Flusses prägen den entspannten Lebensstil dieser dynamischen karibischen Metropole.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Córdoba.",
+        "Bekannt als die Viezhuchthauptstadt Kolumbiens.",
+        "Heimat der 'Ronda del Sinú', ein preisgekrönter Uferpark.",
+        "Zentrum des fruchtbaren Sinú-Tals.",
+        "Wichtiger Standort für die Baumwoll- und Maisproduktion.",
+        "Gastgeber der jährlichen 'Feria de la Ganadería'.",
+        "Gegründet am 1. Mai 1777.",
+        "Besitzt ein modernes System von Flussfähren ('Planchones')."
+      ]
+    },
+    {
+      "id": "bogota-cities-v2",
+      "descriptionAdvanced": "Bogotá, die pulsierende Hauptstadt Kolumbiens, liegt auf einem Hochplateau in den Anden auf über 2.600 Metern Höhe und ist das politische, wirtschaftliche und kulturelle Herz des Landes. Als Schmelztiegel der Kulturen vereint die Stadt koloniale Pracht in der Altstadt 'La Candelaria' mit ultramodernen Wolkenkratzern und weitläufigen Parks. Bogotá ist bekannt für seine erstklassigen Museen, wie das berühmte Goldmuseum (Museo del Oro) und das Botero-Museum, sowie für eine dynamische Gastronomie- und Kunstszene. Trotz ihrer Größe bietet die Stadt mit dem Berg Monserrate, der über dem Zentrum thront, spektakuläre Ausblicke und Rückzugsorte im Grünen. Als bedeutendes Bildungszentrum mit zahlreichen Universitäten wird Bogotá oft als das 'Athen Südamerikas' bezeichnet.",
+      "factsAdvanced": [
+        "Hauptstadt und größte Stadt Kolumbiens.",
+        "Liegt auf einer durchschnittlichen Höhe von 2.640 Metern.",
+        "Heimat des Museo del Oro, der weltweit größten Goldsammlung.",
+        "Größte Fahrrad-Infrastruktur Lateinamerikas (Ciclovía).",
+        "Kulturelles Zentrum mit over 100 Museen.",
+        "Gegründet am 6. August 1538 von Gonzalo Jiménez de Quesada.",
+        "Sitz der kolumbianischen Regierung und des Präsidenten.",
+        "Wichtigster Wirtschaftsstandort des Landes."
+      ]
+    },
+    {
+      "id": "inirida-cities-v2",
+      "descriptionAdvanced": "Inírida, früher bekannt als Puerto Inírida, ist die abgelegene Hauptstadt des Departements Guainía im Osten Kolumbiens, nahe der Grenzen zu Venezuela und Brasilien. Die Stadt liegt im Übergangsgebiet zwischen den Llanos-Ebenen und dem Amazonas-Regenwald und wird von mächtigen Flüssen wie dem Inírida und dem Guaviare umspült. Inírida ist berühmt für die spektakulären Cerros de Mavecure, drei riesige Monolithen aus dem Erdaltertum, die aus dem Dschungel emporragen und eines der beeindruckendsten Naturwunder Kolumbiens darstellen. Die Region ist ein Paradies für Ökotouristen und Naturliebhaber, die die reiche Vogelwelt, seltene Süßwasserdelphine und die einzigartige Flora, wie die 'Flor de Inírida', entdecken wollen. Die Stadt selbst ist ein multikulturelles Zentrum, geprägt von verschiedenen indigenen Gemeinschaften.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Guainía.",
+        "Liegt nahe dem Zusammenfluss von Inírida und Guaviare.",
+        "Tor zu den heiligen Cerros de Mavecure.",
+        "Heimat der endemischen Blume 'Flor de Inírida'.",
+        "Wichtiges Zentrum für indigene Kulturen (Curripaco, Puinave).",
+        "Nur per Flugzeug oder über lange Flusswege erreichbar.",
+        "Besitzt eine einzigartige 'schwarze Wasser'-Ökologie."
+      ]
+    },
+    {
+      "id": "san-jose-del-guaviare-cities-v2",
+      "descriptionAdvanced": "San José del Guaviare ist eine faszinierende Stadt am Rande des Amazonasbeckens, die als Brücke zwischen der Zivilisation und den unberührten Schätzen des Dschungels dient. Als Hauptstadt des Departements Guaviare hat sich die Stadt zu einem erstklassigen Ziel für Abenteurer und Archäologie-Interessierte entwickelt. Besonders beeindruckend sind die prähistorischen Felsmalereien von Cerro Azul und Nuevo Tolima, die tausende von Jahren alt sind und einen tiefen Einblick in das Leben früherer Kulturen bieten. Die Umgebung lockt zudem mit Naturwundern wie den roten Flüssen von Caño Sabana, natürlichen Felsbrücken und labyrinthartigen Felsformationen. San José ist ein Ort des Aufbruchs, wo Naturschutz und nachhaltiger Tourismus zunehmend an Bedeutung gewinnen, um die fragile Schönheit dieser Grenzregion zu bewahren.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Guaviare.",
+        "Beherbergt jahrtausendealte Felsmalereien (Tepuys).",
+        "Liegt am Ufer des Flusses Guaviare.",
+        "Wichtiges Zentrum für Ökotourismus in Süd-Kolumbien.",
+        "Heimat der 'Ciudad de Piedra' (Steinstadt).",
+        "Tor zum Nationalpark Chiribiquete (aus der Ferne).",
+        "Gegründet im Jahr 1910.",
+        "Bekannt für die farbenfrohen Algen im Caño Sabana."
+      ]
+    },
+    {
+      "id": "neiva-cities-v2",
+      "descriptionAdvanced": "Neiva, die Hauptstadt des Departements Huila, liegt im weiten Tal des Flusses Magdalena zwischen der Zentral- und der Ostkordillere. Die Stadt ist bekannt für ihre intensive Hitze und die herzliche Gastfreundschaft ihrer Bewohner, die besonders während des San-Pedro-Festivals im Juni zum Ausdruck kommt. Neiva ist das Tor zur Tatacoa-Wüste, einer der faszinierendsten Landschaften Kolumbiens, sowie zum archäologischen Park von San Agustín weiter südlich. Die Stadt selbst bietet moderne Annehmlichkeiten, schöne Parks entlang des Magdalena-Flusses und eine reiche kulinarische Tradition, in der das 'Asado Huilense' (gebratenes Schweinefleisch) eine Hauptrolle spielt. Als wirtschaftliches Zentrum der Region ist Neiva ein wichtiger Knotenpunkt für den Handel mit Kaffee, Reis und Erdöl.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Huila.",
+        "Gastgeber des berühmten 'Festival Folclórico und Reinado Nacional del Bambuco'.",
+        "Liegt im oberen Tal des Río Magdalena.",
+        "Tor zur Tatacoa-Wüste.",
+        "Wichtiges Zentrum für Reis- und Kaffeeproduktion.",
+        "Gegründet im Jahr 1612.",
+        "Besitzt das Denkmal 'La Gaitana' zu Ehren des indigenen Widerstands.",
+        "Bekannt für das traditionelle Gericht 'Achiras'."
+      ]
+    },
+    {
+      "id": "riohacha-cities-v2",
+      "descriptionAdvanced": "Riohacha, die Hauptstadt des Departements La Guajira, ist eine sonnenverwöhnte Küstenstadt am Karibischen Meer, die als Ausgangspunkt für Entdeckungsreisen in die faszinierende Halbinsel La Guajira dient. Die Stadt ist tief mit der Kultur der Wayuu-Indigenen verbunden, deren farbenfrohe Kunsthandwerke, insbesondere die handgewebten Mochila-Taschen, das Stadtbild und die Märkte prägen. Riohacha bietet eine entspannte Strandpromenade (El Malecón), an der man den Sonnenuntergang über dem Meer genießen und lokale Köstlichkeiten probieren kann. Die Region ist bekannt für ihre extremen Kontraste zwischen Wüste und Meer sowie für Naturschutzgebiete wie das Flamenco-Schutzgebiet. Riohachas Geschichte ist geprägt von Perlenfischerei und Piratenangriffen, was ihr eine geheimnisvolle und geschichtsträchtige Aura verleiht.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements La Guajira.",
+        "Gegründet im Jahr 1535, berühmt für Perlenfischerei.",
+        "Tor zur Wüste von La Guajira und zum Cabo de la Vela.",
+        "Zentrum der Wayuu-Kultur in Kolumbien.",
+        "Liegt an der Mündung des Flusses Ranchería.",
+        "Bekannt für den Malecón (Strandpromenade).",
+        "Heimat des 'Festival Francisco el Hombre' (Vallenato).",
+        "Wichtigster Handelsplatz für Wayuu-Textilien."
+      ]
+    },
+    {
+      "id": "santa-marta-cities-v2",
+      "descriptionAdvanced": "Santa Marta ist die älteste von Spaniern gegründete Stadt Kolumbiens und eine der reizvollsten Destinationen an der Karibikküste. Zwischen dem tiefblauen Meer und den schneebedeckten Gipfeln der Sierra Nevada de Santa Marta gelegen, bietet die Stadt eine einzigartige landschaftliche Vielfalt. Die historische Altstadt wurde liebevoll restauriert und lädt mit ihren Plätzen und kolonialen Gebäuden zum Verweilen ein. Santa Marta ist zudem der Sterbeort des Befreiers Simón Bolívar, dessen Vermächtnis in der Quinta de San Pedro Alejandrino bewahrt wird. Die Stadt dient als Tor zum weltberühmten Tayrona-Nationalpark und zur 'Verlorenen Stadt' (Ciudad Perdida). Ihre Mischung aus Geschichte, lebendiger karibischer Kultur und atemberaubender Natur macht sie zu einem unverzichtbaren Ziel für jeden Kolumbien-Reisenden.",
+      "factsAdvanced": [
+        "Älteste bestehende Stadt Kolumbiens (gegründet 1525).",
+        "Sterbeort von Simón Bolívar (1830).",
+        "Tor zum Tayrona-Nationalpark.",
+        "Liegt am Fuße des höchsten Küstengebirges der Welt.",
+        "Wichtiger Seehafen für den Bananen- und Kohleexport.",
+        "Besitzt ein bedeutendes Goldmuseum (Museo del Oro Tairona).",
+        "Beliebtes Touristenzentrum mit dem Viertel Rodadero.",
+        "Ausgangspunkt für Treks zur Ciudad Perdida."
+      ]
+    },
+    {
+      "id": "villavicencio-cities-v2",
+      "descriptionAdvanced": "Villavicencio, oft liebevoll 'Villavo' genannt, ist das Tor zu den unendlichen Weiten der kolumbianischen Llanos Orientales. Nur eine kurze Fahrt von Bogotá entfernt, am Fuße der Ostkordillere gelegen, markiert die Stadt den Übergang von den Bergen in die Savanne. Villavicencio ist das pulsierende Zentrum der Llanero-Kultur, berühmt für Viehzucht, erstklassiges gegrilltes Fleisch (Mamona) und den leidenschaftlichen Joropo-Tanz. Die Stadt hat sich rasant entwickelt und bietet moderne Infrastruktur gepaart mit traditionellem Charme. Besucher können in den umliegenden Parks wie dem Biopark Los Ocarros die heimische Fauna entdecken oder die spektakuläre Aussicht von den Hügeln über die Savanne genießen. Die Stadt versprüht eine Energie von Freiheit und Abenteuer, die typisch für das kolumbianische Flachland ist.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Meta.",
+        "Wichtigstes Handelszentrum der Llanos Orientales.",
+        "Bekannt als die Welthauptstadt des 'Coleo' (Llanero-Sport).",
+        "Berühmt für die Gastronomie, insbesondere die 'Ternera a la llanera'.",
+        "Gastgeber des Internationalen Joropo-Turniers.",
+        "Liegt strategisch günstig zwischen Bogotá und dem Tiefland.",
+        "Gegründet im Jahr 1840.",
+        "Heimat des Bioparks Los Ocarros."
+      ]
+    },
+    {
+      "id": "pasto-cities-v2",
+      "descriptionAdvanced": "Pasto, offiziell San Juan de Pasto, ist eine geschichtsträchtige Stadt im Südwesten Kolumbiens, eingebettet in das Atriz-Tal am Fuße des majestätischen Vulkans Galeras. Die Hauptstadt des Departements Nariño ist bekannt für ihren tief verwurzelten Glauben und ihre herausragende Handwerkskunst, insbesondere die einzigartige Varnish-Technik 'Barniz de Pasto'. Weltberühmt ist die Stadt für den Karneval der Schwarzen und Weißen (Carnaval de Negros y Blancos), der zum UNESCO-Weltkulturerbe gehört und die ethnische Vielfalt der Region feiert. Pasto bewahrt ein koloniales Erbe mit prachtvollen Kirchen und bietet eine Brücke zur Kultur des Nachbarlandes Ecuador. Die Umgebung lockt mit Naturwundern wie der Laguna de la Cocha, einem Ort von mystischer Schönheit und spiritueller Bedeutung.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Nariño.",
+        "Liegt am Fuße des aktiven Vulkans Galeras.",
+        "Heimat des Carnaval de Negros y Blancos (UNESCO-Welterbe).",
+        "Berühmt für die 'Barniz de Pasto' Kunsthandwerk-Technik.",
+        "Bekannt für die kulinarische Spezialität 'Cuy' (Meerschweinchen).",
+        "Gegründet im Jahr 1537 von Sebastián de Belalcázar.",
+        "Religiöses Zentrum mit zahlreichen prunkvollen Kirchen.",
+        "Liegt auf einer Höhe von ca. 2.527 Metern."
+      ]
+    },
+    {
+      "id": "cucuta-cities-v2",
+      "descriptionAdvanced": "Cúcuta, die 'Stadt ohne Grenzen', ist eine dynamische Metropole im Nordosten Kolumbiens und spielt als wichtigster Grenzpunkt zu Venezuela eine zentrale wirtschaftliche und politische Rolle. Die Stadt ist bekannt für ihre üppige Vegetation und ihre Alleen mit majestätischen Bäumen, was ihr den Beinamen 'Grüne Stadt' eingebracht hat. Cúcuta ist geschichtlich von großer Bedeutung, da hier 1821 der Kongress von Cúcuta stattfand, bei dem die erste Verfassung von Großkolumbien verabschiedet wurde. Trotz der Herausforderungen durch die Grenzlage strahlt die Stadt eine enorme Vitalität aus, mit modernen Einkaufszentren, einem lebhaften Handel und einer herzlichen Bevölkerung. Die Nähe zu historischen Orten wie Villa del Rosario macht Cúcuta zu einem Ort, an dem die Wurzeln der kolumbianischen Republik lebendig bleiben.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Norte de Santander.",
+        "Wichtigster Grenzübergang zwischen Kolumbien und Venezuela.",
+        "Geburtsort der Republik Großkolumbien (Verfassung von 1821).",
+        "Bekannt für seine weitläufigen Parks und Alleen.",
+        "Heimat des Fußballvereins Cúcuta Deportivo.",
+        "Wurde 1875 durch ein schweres Erdbeben fast vollständig zerstört.",
+        "Strategisches Handelszentrum für Textilien und Schuhe.",
+        "Besitzt ein Denkmal für die Schlacht von Cúcuta."
+      ]
+    },
+    {
+      "id": "mocoa-cities-v2",
+      "descriptionAdvanced": "Mocoa, die Hauptstadt des Departements Putumayo, ist ein verborgenes Juwel im Südwesten Kolumbiens, wo die Anden auf das Amazonasbecken treffen. Die Stadt ist von einer überwältigenden natürlichen Schönheit umgeben, geprägt von dichten Wäldern, kristallklaren Flüssen und beeindruckenden Wasserfällen wie dem 'Fin del Mundo'. Mocoa dient als administratives Zentrum einer Region, die reich an indigener Kultur und biologischer Vielfalt ist. Nach den Herausforderungen der Vergangenheit hat sich die Stadt als Ziel für Naturbegeisterte und spirituell Suchende positioniert, die die unberührte Wildnis und die traditionelle Medizin der Region kennenlernen möchten. Die entspannte Atmosphäre und die üppige grüne Landschaft machen Mocoa zu einem Ort der Ruhe und der tiefen Verbindung mit der Natur.",
+      "factsAdvanced": [
+        "Hauptstadt des Departements Putumayo.",
+        "Tor zum Amazonas im Südwesten Kolumbiens.",
+        "Berühmt für den spektakulären Wasserfall 'Fin del Mundo'.",
+        "Zentrum für indigene Traditionen und Ethnotourismus.",
+        "Liegt an den Ausläufern der Cordillera Oriental.",
+        "Gegründet im Jahr 1563.",
+        "Wichtigster Standort für Biodiversitätsforschung.",
+        "Liegt am Zusammenfluss der Flüsse Mocoa und Sangoyaco."
+      ]
+    }
+  ]
+}

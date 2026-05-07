@@ -36,7 +36,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Among the deepest mines.",
         "Important employer in the region.",
       ]
-    }, image: "/poi-images/zm-mopani-copper-mines-economic-v2.webp"},
+    }, image: "/poi-images/zm-mopani-copper-mines-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Mopani Copper Mines represents a vital industrial operation in the Zambian Copperbelt, specializing in the extraction and processing of copper and cobalt. Operating extensive underground mines and a sophisticated smelter, it significantly contributes to the nation's mineral output and export revenue. The company is a massive employer, shaping the socio-economic dynamics of the towns it operates in, such as Mufulira and Kitwe. As one of the country's most prominent industrial players, Mopani's activities are crucial for the long-term viability of the Zambian mining sector. Industry — industrial mineral extraction."
+    },
+    factsAdvanced: {
+      en: ["Major copper and cobalt producer in the Copperbelt", "Operates underground mines in Mufulira and Kitwe", "Includes a large-scale smelting and refining facility", "One of the largest private sector employers in Zambia", "Key contributor to national copper production", "Operates multiple deep-level shafts and processing plants"]
+    }
+  },
   {
     id: "zm-konkola-copper-mines-economic-v2",
     type: "industry",
@@ -71,7 +78,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "One of the wettest mines globally.",
         "Also produces cobalt.",
       ]
-    }, image: "/poi-images/zm-konkola-copper-mines-economic-v2.webp"},
+    }, image: "/poi-images/zm-konkola-copper-mines-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Konkola Copper Mines (KCM) is one of Zambia's largest and most complex mining operations, known for its high-grade copper resources located in the Chililabombwe area. With deep-level mining activities and extensive processing infrastructure, KCM is a cornerstone of the national economy and an essential provider of industrial employment. Its operations span from extraction to smelting, integrating the full value chain of copper production. The company's presence is transformative for the northern Copperbelt, driving local infrastructure development and supporting numerous secondary businesses in the region. Industry — integrated copper mining."
+    },
+    factsAdvanced: {
+      en: ["One of Zambia's largest integrated copper mining units", "Primary operations based in Chililabombwe", "Renowned for its extensive deep-shaft infrastructure", "Includes a smelter facility in Nchanga", "Key pillar of the national export economy", "Massive workforce impacting regional development"]
+    }
+  },
   {
     id: "zm-kansanshi-copper-gold-mine-economic-v2",
     type: "industry",
@@ -106,6 +120,12 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Located near Solwezi.",
         "Operated as an open-pit mine.",
       ]
+    },
+    descriptionAdvanced: {
+      en: "Kansanshi, located near Solwezi in the North-Western Province, is Africa's largest operating copper mine. This vast open-pit and underground operation produces significant quantities of copper as well as gold as a byproduct. Kansanshi has been a game-changer for the North-Western Province, shifting the economic center of gravity of the country toward this region. Its success has led to rapid urban growth in Solwezi and the development of extensive support services in the area. The mine remains a benchmark for modern industrial scale and technology in Zambian mineral extraction. Industry — large-scale open-pit mining."
+    },
+    factsAdvanced: {
+      en: ["Largest operating copper mine in Africa", "Located near Solwezi in North-Western Province", "Produces significant byproduct gold", "Operations include both open-pit and underground mining", "Driver of rapid urban development in Solwezi", "Benchmark operation for industrial scale in the sector"]
     }
   },
   {
@@ -142,7 +162,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Opened in 2008.",
         "Processes large amounts of ore.",
       ]
-    }, image: "/poi-images/zm-lumwana-copper-mine-economic-v2.webp"},
+    }, image: "/poi-images/zm-lumwana-copper-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Lumwana Copper Mine, situated in the North-Western Province, is a major large-scale open-pit mining operation known for its substantial copper reserves. Operated by Barrick Gold, the mine has been a crucial driver for the regional economy, creating thousands of jobs and fueling local trade in the Solwezi area. Its open-pit methodology and efficient processing plants represent modern mining practices aimed at maximizing extraction in challenging geological conditions. Lumwana remains a critical component of Zambia's diverse mining portfolio, significantly boosting the country's position as a leading global copper producer. Industry — modern open-pit extraction."
+    },
+    factsAdvanced: {
+      en: ["Major open-pit copper mining operation", "Located in North-Western Province of Zambia", "Operated as a large-scale mining concession", "Significant contributor to regional economic growth", "Key asset for the global mining portfolio", "Advanced extraction and processing facilities on-site"]
+    }
+  },
   {
     id: "zm-lubambe-copper-mine-economic-v2",
     type: "industry",
@@ -177,7 +204,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Underground operation.",
         "Important source of foreign exchange.",
       ]
-    }, image: "/poi-images/zm-lubambe-copper-mine-economic-v2.webp"},
+    }, image: "/poi-images/zm-lubambe-copper-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Lubambe Copper Mine is a modern underground mining project located in the Copperbelt region, focused on exploiting deep-seated copper ore bodies. Utilizing advanced mining methods, Lubambe is a key contributor to regional industrial output and provides essential stable employment for the local population. Its operations are focused on long-term sustainability and efficient resource recovery, reflecting the evolution of mining techniques in the Copperbelt. The mine's activity supports the local service economy, ensuring the continued relevance of the region as a global hub for copper production. Industry — specialized underground extraction."
+    },
+    factsAdvanced: {
+      en: ["Focuses on deep-seated underground copper ore", "Located in the Copperbelt Province", "Modern facility emphasizing sustainable mining practices", "Provides stable regional industrial employment", "Key contributor to Zambia's copper production capacity", "Utilizes advanced geological monitoring technology"]
+    }
+  },
   {
     id: "zm-chambishi-metals-economic-v2",
     type: "industry",
@@ -212,7 +246,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Largest cobalt refinery in the country.",
         "Processes ores from the entire region.",
       ]
-    }, image: "/poi-images/zm-chambishi-metals-economic-v2.webp"},
+    }, image: "/poi-images/zm-chambishi-metals-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Chambishi Metals operates a critical metallurgical processing facility dedicated to refining copper and cobalt. By treating ores from various sources, it plays a vital role in the regional industrial ecosystem, ensuring that raw minerals are upgraded to higher-value commercial products for the international market. The facility is a cornerstone of the Chambishi industrial area, contributing significantly to local employment and technical development within the metallurgy sector. Chambishi Metals is key to diversifying the value proposition of Zambian mineral products. Industry — advanced metallurgical refining."
+    },
+    factsAdvanced: {
+      en: ["Specializes in refining copper and cobalt", "Located in the Chambishi industrial zone", "Treats ores for higher-value commercial output", "Important player in regional mineral beneficiation", "Provides skilled technical jobs in metallurgy", "Crucial for diversifying mineral exports"]
+    }
+  },
   {
     id: "zm-chibuluma-copper-mine-economic-v2",
     type: "industry",
@@ -247,7 +288,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Underground mine.",
         "Has been privatized.",
       ]
-    }, image: "/poi-images/zm-chibuluma-copper-mine-economic-v2.webp"},
+    }, image: "/poi-images/zm-chibuluma-copper-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Chibuluma Copper Mine is a mid-sized underground mining operation located in the Copperbelt Province. Despite its scale, it has been a reliable producer of high-grade copper for many years, providing steady employment and contributing consistently to national mineral output. Its operations emphasize efficient ore management and long-term asset viability. As a foundational mine in the region, Chibuluma illustrates the enduring importance of smaller, well-managed underground operations in maintaining the health of Zambia's mining-dependent towns. Industry — stable mid-scale mining."
+    },
+    factsAdvanced: {
+      en: ["Underground mining operation in the Copperbelt", "Known for producing high-grade copper ore", "Consistent contributor to national mineral statistics", "Emphasis on efficient resource management", "Provides stable industrial employment", "Long-running asset with established mining history"]
+    }
+  },
   {
     id: "zm-sentinel-copper-mine-economic-v2",
     type: "industry",
@@ -282,7 +330,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Uses state-of-the-art technology.",
         "High production capacity.",
       ]
-    }, image: "/poi-images/zm-sentinel-copper-mine-economic-v2.webp"},
+    }, image: "/poi-images/zm-sentinel-copper-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Sentinel Copper Mine, part of the Kalumbila operation in North-Western Province, is one of Zambia's most technologically advanced large-scale mining projects. Focusing on massive open-pit extraction, it processes enormous quantities of ore to extract copper, significantly expanding Zambia's overall production capacity. The operation has effectively spurred the development of a brand-new town and infrastructure in a previously remote area of the country. Sentinel is a testament to the transformative potential of large-scale industrial projects in remote Zambian provinces. Industry — state-of-the-art open-pit mining."
+    },
+    factsAdvanced: {
+      en: ["Technologically advanced large-scale open-pit mine", "Located in North-Western Province (Kalumbila)", "Processes very large quantities of low-grade ore", "Key factor in increasing national copper output", "Spurred regional development of new infrastructure", "Key industrial center in remote Zambia"]
+    }
+  },
   {
     id: "zm-ndola-lime-company-economic-v2",
     type: "industry",
@@ -317,7 +372,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Supplies the mining industry.",
         "Founded in the 1930s.",
       ]
-    }, image: "/poi-images/zm-ndola-lime-company-economic-v2.webp"},
+    }, image: "/poi-images/zm-ndola-lime-company-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "Ndola Lime Company is a key industrial firm located in Ndola, dedicated to producing high-quality lime products essential for industrial and agricultural applications. Its output is critical for the mining sector, where lime is used in refining processes, as well as for construction and agricultural pH correction. The company serves as a vital service provider to the Copperbelt's massive industrial base. Through its strategic location in Ndola, the company remains a cornerstone of regional industrial services, illustrating the interconnectedness of Zambia's manufacturing and mining sectors. Industry — industrial chemicals and mineral processing."
+    },
+    factsAdvanced: {
+      en: ["Produces high-quality lime for diverse applications", "Located in the industrial city of Ndola", "Critical supplier to the Copperbelt mining sector", "Product used for refining processes and construction", "Essential partner for industrial service integration", "Key player in regional manufacturing"]
+    }
+  },
   {
     id: "zm-dangote-cement-plant-economic-v2",
     type: "industry",
@@ -352,7 +414,14 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Belongs to the Nigerian Dangote Group.",
         "Daily capacity of several thousand tons.",
       ]
-    }, image: "/poi-images/zm-dangote-cement-plant-economic-v2.webp"},
+    }, image: "/poi-images/zm-dangote-cement-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      en: "The Dangote Cement plant, located near Ndola, is a massive manufacturing facility that has significantly reshaped the Zambian construction materials market. By introducing large-scale, automated production of cement, the plant has lowered regional costs and spurred infrastructure development across the country. The facility is a prime example of foreign direct investment fueling local manufacturing capacity and job creation. As a major player in the construction materials sector, it is essential for the ongoing development of roads, bridges, and housing projects throughout Zambia. Industry — large-scale manufacturing."
+    },
+    factsAdvanced: {
+      en: ["Major automated cement manufacturing plant", "Located near Ndola in the Copperbelt", "Significant foreign direct investment project", "Drives down national construction material costs", "Critical supplier for major infrastructure projects", "Provides large-scale local industrial employment"]
+    }
+  },
   {
     id: "zm-chilanga-cement-economic-v2",
     type: "industry",

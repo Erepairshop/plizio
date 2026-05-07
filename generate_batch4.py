@@ -1,307 +1,315 @@
 import json
 
-faqs = {
-    "ba-bjelasnica": {
-        "de": [
-            {"q": "Welche Bedeutung hatte die Bjelašnica bei den Olympischen Winterspielen 1984?", "a": "Hier fanden die alpinen Skiwettbewerbe der Männer statt."},
-            {"q": "Wie hoch ist der Berg Bjelašnica?", "a": "Der höchste Gipfel liegt bei 2067 m."},
-            {"q": "Wofür ist das Wetter auf der Bjelašnica bekannt?", "a": "Für seine extremen und schnellen Wetterumschwünge sowie starken Wind."},
-            {"q": "Welches berühmte Dorf liegt auf der Bjelašnica?", "a": "Das Bergdorf Lukomir."},
-            {"q": "Was kann man im Winter auf der Bjelašnica machen?", "a": "Skifahren, Snowboarden und Nachtskifahren werden angeboten."},
-        ],
-        "hu": [
-            {"q": "Milyen jelentősége volt a Bjelašnicának az 1984-es téli olimpián?", "a": "Itt rendezték meg a férfi alpesi síversenyeket."},
-            {"q": "Milyen magas a Bjelašnica-hegy?", "a": "Legmagasabb csúcsa 2067 méteren található."},
-            {"q": "Miről ismert a Bjelašnica időjárása?", "a": "A szélsőséges és gyors időjárás-változásokról, valamint az erős szélről."},
-            {"q": "Melyik híres falu található a Bjelašnicán?", "a": "Lukomir hegyi falu."},
-            {"q": "Mit lehet csinálni télen a Bjelašnicán?", "a": "Síelést, snowboardozást és éjszakai síelést kínálnak a látogatóknak."},
-        ],
-        "ro": [
-            {"q": "Ce importanță a avut Bjelašnica la Jocurile Olimpice de iarnă din 1984?", "a": "Aici au avut loc competițiile masculine de schi alpin."},
-            {"q": "Cât de înalt este muntele Bjelašnica?", "a": "Cel mai înalt vârf se află la 2067 m."},
-            {"q": "Pentru ce este cunoscută vremea de pe Bjelašnica?", "a": "Pentru schimbările de temperatură extreme și rapide, precum și pentru vânturile puternice."},
-            {"q": "Ce sat faimos este situat pe Bjelašnica?", "a": "Satul de munte Lukomir."},
-            {"q": "Ce se poate face iarna pe Bjelašnica?", "a": "Sunt oferite schi, snowboarding și schi nocturn."},
-        ],
-        "en": [
-            {"q": "What was the significance of Bjelašnica during the 1984 Winter Olympics?", "a": "The men's alpine skiing competitions were held here."},
-            {"q": "How high is Mount Bjelašnica?", "a": "The highest peak is at 2067 m."},
-            {"q": "What is the weather on Bjelašnica known for?", "a": "For its extreme and rapid weather changes as well as strong winds."},
-            {"q": "Which famous village is located on Bjelašnica?", "a": "The mountain village of Lukomir."},
-            {"q": "What can you do on Bjelašnica in winter?", "a": "Skiing, snowboarding, and night skiing are offered."},
-        ]
+data = {
+  "lang": "de",
+  "country": "northkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraNorthkoreaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNorthkoreaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uss-pueblo-ag-er-2-landmarks-v2",
+      "descriptionAdvanced": "Die USS Pueblo ist ein ehemaliges Spionageschiff der US-Marine, das heute als schwimmendes Wahrzeichen und Museumsschiff am Ufer des Pothong-Flusses in Pjöngjang liegt. Nach der dramatischen Kaperung durch nordkoreanische Kräfte im Jahr 1968 wurde das Schiff behalten und als Symbol des Triumphs über den amerikanischen Imperialismus in die Hauptstadt gebracht. Besucher können durch die engen Korridore des Schiffs navigieren und den Funkraum, die Kombüse sowie Einschusslöcher besichtigen. Es ist das einzige US-Marineschiff, das sich in der Hand einer feindlichen Nation befindet, was ihm in Nordkorea einen immensen propagandistischen Wert verleiht. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Die USS Pueblo wurde am 23. Januar 1968 von Nordkorea gekapert.",
+        "Sie liegt heute als Museumsschiff in Pjöngjang am Flussufer.",
+        "Besucher können die Einschusslöcher vom Überfall besichtigen.",
+        "Es ist das einzige von einer fremden Macht festgehaltene US-Marineschiff.",
+        "Das Schiff gehört offiziell noch zur Flotte der US Navy.",
+        "Die Kaperung führte zur 11-monatigen Gefangenschaft der Besatzung."
+      ]
     },
-    "ba-perucica": {
-        "de": [
-            {"q": "Was ist Perućica?", "a": "Einer der letzten verbliebenen Urwälder Europas."},
-            {"q": "In welchem Nationalpark liegt Perućica?", "a": "Im Nationalpark Sutjeska."},
-            {"q": "Darf man den Urwald Perućica alleine betreten?", "a": "Nein, der Zugang ist streng geschützt und nur in Begleitung von lizenzierten Guides erlaubt."},
-            {"q": "Welcher spektakuläre Wasserfall befindet sich in Perućica?", "a": "Der Skakavac-Wasserfall, der über 70 Meter tief stürzt."},
-            {"q": "Wie alt schätzt man die Bäume in Perućica?", "a": "Einige Bäume sind über 300 Jahre alt."},
-        ],
-        "hu": [
-            {"q": "Mi az a Perućica?", "a": "Európa egyik utolsó fennmaradt őserdője."},
-            {"q": "Melyik nemzeti parkban található Perućica?", "a": "A Sutjeska Nemzeti Parkban."},
-            {"q": "Szabad-e egyedül belépni a Perućica őserdőbe?", "a": "Nem, a belépés szigorúan korlátozott és csak engedéllyel rendelkező vezetők kíséretében lehetséges."},
-            {"q": "Milyen látványos vízesés található Perućicában?", "a": "A több mint 70 méter magas Skakavac-vízesés."},
-            {"q": "Milyen idősre becsülik a Perućica fáit?", "a": "Néhány fa több mint 300 éves."},
-        ],
-        "ro": [
-            {"q": "Ce este Perućica?", "a": "Una dintre ultimele păduri virgine rămase în Europa."},
-            {"q": "În ce parc național se află Perućica?", "a": "În Parcul Național Sutjeska."},
-            {"q": "Este permis accesul neînsoțit în pădurea Perućica?", "a": "Nu, accesul este strict protejat și permis doar însoțit de ghizi autorizați."},
-            {"q": "Ce cascadă spectaculoasă se află în Perućica?", "a": "Cascada Skakavac, care are o cădere de peste 70 de metri."},
-            {"q": "Cât de vechi sunt estimați arborii din Perućica?", "a": "Unii arbori au o vechime de peste 300 de ani."},
-        ],
-        "en": [
-            {"q": "What is Perućica?", "a": "One of the last remaining primeval forests in Europe."},
-            {"q": "In which national park is Perućica located?", "a": "In the Sutjeska National Park."},
-            {"q": "Is it allowed to enter the Perućica primeval forest alone?", "a": "No, access is strictly protected and only allowed accompanied by licensed guides."},
-            {"q": "Which spectacular waterfall is located in Perućica?", "a": "The Skakavac waterfall, which drops over 70 meters."},
-            {"q": "How old are the trees in Perućica estimated to be?", "a": "Some trees are estimated to be over 300 years old."},
-        ]
+    {
+      "id": "tomb-of-king-tongmyong-landmarks-v2",
+      "descriptionAdvanced": "Das Grab des Königs Tongmyŏng ist eine monumentale Ruhestätte außerhalb von Pjöngjang und ein zentrales Pilgerziel für die historische Identität Nordkoreas. Der gewaltige Grabhügel ruht auf einem quadratischen Steinsockel und ehrt den legendären Gründer des Goguryeo-Reiches. Die Stätte wurde in den 1990er Jahren massiv umgestaltet und durch beeindruckende, breite Steinalleen mit steinernen Ministern und mächtigen Tigern ergänzt. Diese majestätische Anlage inmitten von Pinienwäldern soll die Kontinuität und Größe der koreanischen Zivilisation unterstreichen. Die UNESCO hat dieses Grab wegen seiner kulturellen Einzigartigkeit als Weltkulturerbe anerkannt. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Das Grab ehrt König Tongmyŏng, den mythischen Goguryeo-Gründer.",
+        "Die heutige Anlage ist das Resultat einer massiven Restaurierung 1993.",
+        "Der eigentliche Grabhügel wird von riesigen Steintigern bewacht.",
+        "Das Grabmal ist Teil des UNESCO-Weltkulturerbes der Goguryeo-Stätten.",
+        "Die Anlage umfasst mehr als ein Dutzend steinerne Ministerstatuen.",
+        "Die architektonische Gestaltung orientiert sich streng an traditionellen koreanischen Normen."
+      ]
     },
-    "ba-maglaj": {
-        "de": [
-            {"q": "Was ist das Wahrzeichen von Maglaj?", "a": "Die mittelalterliche Festung von Maglaj, die über der Stadt thront."},
-            {"q": "Welcher Fluss fließt durch Maglaj?", "a": "Der Fluss Bosna."},
-            {"q": "Welche bedeutende Moschee steht in Maglaj?", "a": "Die Kuršumlija-Moschee aus dem 16. Jahrhundert."},
-            {"q": "Wofür ist die Industrie in Maglaj bekannt?", "a": "Besonders für die Papier- und Zellstoffindustrie (Natron-Hayat)."},
-            {"q": "Welches kulturelle Denkmal ist in Maglaj noch erhalten?", "a": "Die alte Brücke und die historische Altstadt."},
-        ],
-        "hu": [
-            {"q": "Mi Maglaj jelképe?", "a": "A város fölé magasodó középkori Maglaj vára."},
-            {"q": "Melyik folyó folyik át Maglajon?", "a": "A Boszna folyó."},
-            {"q": "Melyik jelentős mecset található Maglajban?", "a": "A 16. századi Kursumlija-mecset."},
-            {"q": "Miről ismert Maglaj ipara?", "a": "Különösen a papír- és cellulóziparáról (Natron-Hayat)."},
-            {"q": "Milyen egyéb kulturális emlék maradt fenn Maglajban?", "a": "A régi híd és a történelmi óváros."},
-        ],
-        "ro": [
-            {"q": "Care este simbolul orașului Maglaj?", "a": "Cetatea medievală Maglaj, care tronează deasupra orașului."},
-            {"q": "Ce râu trece prin Maglaj?", "a": "Râul Bosna."},
-            {"q": "Ce moschee importantă se află în Maglaj?", "a": "Moscheea Kuršumlija din secolul al XVI-lea."},
-            {"q": "Pentru ce este cunoscută industria din Maglaj?", "a": "În special pentru industria hârtiei și a celulozei (Natron-Hayat)."},
-            {"q": "Ce alt monument cultural este păstrat în Maglaj?", "a": "Podul vechi și centrul istoric al orașului."},
-        ],
-        "en": [
-            {"q": "What is the landmark of Maglaj?", "a": "The medieval Maglaj Fortress, which towers over the town."},
-            {"q": "Which river flows through Maglaj?", "a": "The Bosna River."},
-            {"q": "Which significant mosque is located in Maglaj?", "a": "The 16th-century Kuršumlija Mosque."},
-            {"q": "What is the industry in Maglaj known for?", "a": "Especially for the paper and pulp industry (Natron-Hayat)."},
-            {"q": "What other cultural monument is preserved in Maglaj?", "a": "The old bridge and the historical old town."},
-        ]
+    {
+      "id": "ryugyong-hotel-landmarks-v2",
+      "descriptionAdvanced": "Das Ryugyong-Hotel in Pjöngjang ist zweifellos das markanteste Gebäude Nordkoreas. Die 330 Meter hohe, pyramidenförmige Struktur aus Glas und Beton wurde 1987 begonnen, aber der Bau stockte nach dem Zusammenbruch der Sowjetunion über Jahrzehnte. Erst ab 2008 wurde die Glasfassade mit Hilfe ägyptischer Investoren fertiggestellt, doch das Innere bleibt Berichten zufolge weitgehend unvollendet. Das oft als 'Hotel der Verdammnis' bezeichnete Gebäude verfügt über 105 Stockwerke und ist nachts mit einer gigantischen LED-Matrix beleuchtet, die Propagandavideos abspielt. Es dominiert die Silhouette der Hauptstadt und ist das höchste ungenutzte Gebäude der Welt. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Das Ryugyong-Hotel ist 330 Meter hoch und hat 105 Stockwerke.",
+        "Der Bau begann 1987 und ist bis heute innerlich unvollendet.",
+        "Es ist das größte Gebäude in Nordkorea.",
+        "Die Glasfassade wurde erst 2011 vollständig angebracht.",
+        "Nachts fungiert das Gebäude als gigantischer LED-Bildschirm.",
+        "Es ist die höchste jemals gebaute pyramidenförmige Struktur der Welt."
+      ]
     },
-    "ba-orasje": {
-        "de": [
-            {"q": "An welchem Fluss liegt Orašje?", "a": "Am Fluss Save, an der Grenze zu Kroatien."},
-            {"q": "Wofür ist Orašje in der Region bekannt?", "a": "Für sein jährliches Filmfestival (Dani hrvatskog filma)."},
-            {"q": "Wie wird die Grenzregion bei Orašje genannt?", "a": "Bosanska Posavina."},
-            {"q": "Was ist die wirtschaftliche Basis von Orašje?", "a": "Landwirtschaft, Handel und Grenzverkehr."},
-            {"q": "Gibt es bedeutende religiöse Stätten in der Nähe?", "a": "Das Franziskanerkloster in Tolisa ist ein wichtiges kulturelles Denkmal."},
-        ],
-        "hu": [
-            {"q": "Melyik folyó partján fekszik Orašje?", "a": "A Száva folyó partján, a horvát határon."},
-            {"q": "Miről ismert Orašje a régióban?", "a": "Az évente megrendezett horvát filmfesztiválról (Dani hrvatskog filma)."},
-            {"q": "Hogy hívják az Orašje körüli határrégiót?", "a": "Bosanska Posavina."},
-            {"q": "Mi Orašje gazdasági alapja?", "a": "A mezőgazdaság, a kereskedelem és a határmenti forgalom."},
-            {"q": "Vannak-e jelentős vallási helyszínek a közelben?", "a": "A tolisai ferences kolostor fontos kulturális műemlék."},
-        ],
-        "ro": [
-            {"q": "Pe ce râu se află Orašje?", "a": "Pe râul Sava, la granița cu Croația."},
-            {"q": "Pentru ce este cunoscut orașul Orašje în regiune?", "a": "Pentru festivalul său anual de film (Zilele Filmului Croat)."},
-            {"q": "Cum se numește regiunea de frontieră din jurul Orašje?", "a": "Bosanska Posavina."},
-            {"q": "Care este baza economică a orașului Orašje?", "a": "Agricultura, comerțul și traficul transfrontalier."},
-            {"q": "Există lăcașuri de cult importante în apropiere?", "a": "Mănăstirea franciscană din Tolisa este un monument cultural important."},
-        ],
-        "en": [
-            {"q": "On which river is Orašje located?", "a": "On the Sava River, on the border with Croatia."},
-            {"q": "What is Orašje known for in the region?", "a": "For its annual film festival (Days of Croatian Film)."},
-            {"q": "What is the border region around Orašje called?", "a": "Bosanska Posavina."},
-            {"q": "What is the economic base of Orašje?", "a": "Agriculture, trade, and border traffic."},
-            {"q": "Are there significant religious sites nearby?", "a": "The Franciscan monastery in Tolisa is an important cultural monument."},
-        ]
+    {
+      "id": "may-day-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Rungrado 1. Mai Stadion auf der Insel Rungra in Pjöngjang ist das größte Stadion der Welt in Bezug auf die Sitzplatzkapazität. Mit geschätzten 114.000 bis 150.000 Sitzplätzen ist diese massive Arena eine Meisterleistung der monumentalistischen Architektur. Das wellenförmige Dach, getragen von 16 riesigen Bögen, erinnert an die Form einer Magnolienblüte. Es wurde 1989 anlässlich der Weltfestspiele der Jugend eingeweiht. Weltweit berühmt wurde das Stadion als Austragungsort der Arirang-Massenspiele, bei denen über 100.000 Darsteller in perfekter Synchronität gigantische lebende Mosaike und gymnastische Choreografien präsentierten. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Es ist das größte Stadion der Welt nach Sitzplatzkapazität.",
+        "Die Kapazität liegt je nach Quelle zwischen 114.000 und 150.000 Plätzen.",
+        "Das Stadion wurde 1989 eingeweiht.",
+        "Das wellenförmige Dach erinnert an eine aufblühende Magnolie.",
+        "Es ist der historische Austragungsort der gigantischen Arirang-Massenspiele.",
+        "Die Bodenfläche des Stadions umfasst über 200.000 Quadratmeter."
+      ]
     },
-    "ba-savariver": {
-        "de": [
-            {"q": "Welche Rolle spielt der Fluss Save für Bosnien?", "a": "Er bildet den größten Teil der nördlichen Grenze zu Kroatien."},
-            {"q": "In welchen Fluss mündet die Save?", "a": "In die Donau (bei Belgrad)."},
-            {"q": "Ist die Save schiffbar?", "a": "Ja, die Save ist für größere Schiffe befahrbar und eine wichtige Wasserstraße."},
-            {"q": "Welche bosnischen Städte liegen an der Save?", "a": "Orašje, Brčko, Bosanski Šamac und Bosanska Gradiška."},
-            {"q": "Was ist das Besondere an der Save?", "a": "Sie ist der wasserreichste Nebenfluss der Donau."},
-        ],
-        "hu": [
-            {"q": "Milyen szerepet játszik a Száva folyó Bosznia számára?", "a": "Az ország északi határának nagy részét alkotja Horvátországgal."},
-            {"q": "Melyik folyóba torkollik a Száva?", "a": "A Dunába (Belgrádnál)."},
-            {"q": "Hajózható-e a Száva?", "a": "Igen, a Száva nagyobb hajók számára is hajózható és fontos vízi út."},
-            {"q": "Melyik bosnyák városok fekszenek a Száva partján?", "a": "Orašje, Brčko, Bosanski Šamac és Bosanska Gradiška."},
-            {"q": "Mi a különleges a Szávában?", "a": "Ez a Duna legbővizűbb mellékfolyója."},
-        ],
-        "ro": [
-            {"q": "Ce rol joacă râul Sava pentru Bosnia?", "a": "Formează cea mai mare parte a frontierei de nord cu Croația."},
-            {"q": "În ce râu se varsă Sava?", "a": "În Dunăre (la Belgrad)."},
-            {"q": "Este râul Sava navigabil?", "a": "Da, râul Sava este navigabil pentru nave mari și reprezintă o cale navigabilă importantă."},
-            {"q": "Ce orașe bosniace se află pe malul râului Sava?", "a": "Orašje, Brčko, Bosanski Šamac și Bosanska Gradiška."},
-            {"q": "Ce este special la râul Sava?", "a": "Este afluentul cu cel mai mare debit de apă al Dunării."},
-        ],
-        "en": [
-            {"q": "What role does the Sava River play for Bosnia?", "a": "It forms most of the northern border with Croatia."},
-            {"q": "Which river does the Sava flow into?", "a": "The Danube (at Belgrade)."},
-            {"q": "Is the Sava River navigable?", "a": "Yes, the Sava is navigable for larger ships and is an important waterway."},
-            {"q": "Which Bosnian cities are located on the Sava?", "a": "Orašje, Brčko, Bosanski Šamac, and Bosanska Gradiška."},
-            {"q": "What is special about the Sava River?", "a": "It is the tributary with the largest discharge to the Danube."},
-        ]
+    {
+      "id": "arch-of-reunification-landmarks-v2",
+      "descriptionAdvanced": "Das Wiedervereinigungsmonument am südlichen Stadtrand von Pjöngjang überspannte bis zu seiner Zerstörung Anfang 2024 die Thongil-Autobahn in Richtung der demilitarisierten Zone (DMZ). Das 2001 eingeweihte, ikonische Denkmal zeigte zwei steinerne Frauen in traditioneller koreanischer Kleidung, die symbolisch die Nord- und Südhälfte Koreas repräsentierten und gemeinsam eine Karte des ungeteilten Landes emporhielten. Der Bogen fungierte nicht nur als markantes Tor für Reisende in Richtung Grenze, sondern repräsentierte auch den jahrzehntelangen offiziellen Staatsmythos der friedlichen Wiedervereinigung. Der Abriss markierte das offizielle Ende dieses politischen Ziels unter Kim Jong-un. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Das Monument überspannte die Autobahn zwischen Pjöngjang und der DMZ.",
+        "Es wurde 2001 offiziell eingeweiht.",
+        "Die Skulpturen bestanden aus massiven, 30 Meter hohen Granitblöcken.",
+        "Es zeigte Nord- und Südkorea in Form von zwei traditionell gekleideten Frauen.",
+        "Das Monument hielt eine bronzene Karte der koreanischen Halbinsel.",
+        "Anfang 2024 wurde das Wahrzeichen von der Regierung abgerissen."
+      ]
     },
-    "ba-brcko": {
-        "de": [
-            {"q": "Was ist der politische Status von Brčko?", "a": "Es ist ein neutraler, selbstverwalteter Distrikt innerhalb Bosnien und Herzegowinas."},
-            {"q": "Warum ist Brčko wirtschaftlich wichtig?", "a": "Es hat den einzigen internationalen Binnenhafen des Landes an der Save."},
-            {"q": "Was ist das Wahrzeichen der Stadt?", "a": "Das Rathaus (Vijećnica) im pseudo-maurischen Stil."},
-            {"q": "Wo liegt Brčko genau?", "a": "Im Nordosten des Landes, am Ufer der Save."},
-            {"q": "Gibt es Brücken in Brčko?", "a": "Ja, eine wichtige Brücke verbindet Brčko mit Gunja in Kroatien."},
-        ],
-        "hu": [
-            {"q": "Mi Brčko politikai státusza?", "a": "Ez egy semleges, önkormányzati körzet Bosznia-Hercegovinán belül."},
-            {"q": "Miért fontos Brčko gazdaságilag?", "a": "Itt található az ország egyetlen nemzetközi folyami kikötője a Száván."},
-            {"q": "Mi a város jelképe?", "a": "A pszeudo-mór stílusban épült Városháza (Vijećnica)."},
-            {"q": "Hol fekszik pontosan Brčko?", "a": "Az ország északkeleti részén, a Száva partján."},
-            {"q": "Vannak-e hidak Brčkóban?", "a": "Igen, egy fontos híd köti össze Brčkót a horvátországi Gunjával."},
-        ],
-        "ro": [
-            {"q": "Care este statutul politic al orașului Brčko?", "a": "Este un district neutru, administrat de sine stătător în cadrul Bosniei și Herțegovinei."},
-            {"q": "De ce este Brčko important din punct de vedere economic?", "a": "Deține singurul port fluvial internațional al țării, pe râul Sava."},
-            {"q": "Care este simbolul orașului?", "a": "Primăria (Vijećnica) construită în stil pseudo-maur."},
-            {"q": "Unde se află Brčko mai exact?", "a": "În nord-estul țării, pe malul râului Sava."},
-            {"q": "Există poduri în Brčko?", "a": "Da, un pod important leagă Brčko de localitatea Gunja din Croația."},
-        ],
-        "en": [
-            {"q": "What is the political status of Brčko?", "a": "It is a neutral, self-governing district within Bosnia and Herzegovina."},
-            {"q": "Why is Brčko economically important?", "a": "It has the country's only international inland port on the Sava River."},
-            {"q": "What is the landmark of the city?", "a": "The City Hall (Vijećnica) in pseudo-Moorish style."},
-            {"q": "Where exactly is Brčko located?", "a": "In the northeast of the country, on the banks of the Sava."},
-            {"q": "Are there bridges in Brčko?", "a": "Yes, an important bridge connects Brčko with Gunja in Croatia."},
-        ]
+    {
+      "id": "victorious-war-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Museum für den siegreichen vaterländischen Befreiungskrieg ist ein kolossales architektonisches Bauwerk und das Epizentrum der nordkoreanischen Kriegserinnerung. Das 2013 massiv erweiterte Gebäude in Pjöngjang verbindet klassizistische und modernistische Elemente und wird von gewaltigen Granitsäulen dominiert. Die riesige Außenanlage fungiert als Skulpturenpark mit Heldendenkmälern und Ausstellungen erbeuteter amerikanischer Ausrüstung. Das Gebäude selbst beeindruckt durch eine gigantische Eingangshalle, aufwendige Kristallkronleuchter und ein lebensechtes Wachsfigurenkabinett von Kim Il-sung. Es dient nicht nur als historisches Archiv, sondern als überwältigende Bühne der nationalen Identitätsbildung. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Der heutige Museumsbau wurde 2013 komplett neu eröffnet.",
+        "Das Gebäude verbindet Marmor, Kristall und massiven Granit.",
+        "Die Außenanlage umfasst einen großen Heldenpark mit Statuen.",
+        "Erbeutete amerikanische Militärfahrzeuge säumen den Zugang.",
+        "Im Inneren befindet sich eine gewaltige lebensgroße Kim-Il-sung-Statue.",
+        "Das Gebäude ist abends oft tiefrot illuminiert."
+      ]
     },
-    "ba-vijecnica-brcko": {
-        "de": [
-            {"q": "In welchem Baustil wurde das Rathaus von Brčko errichtet?", "a": "In einem prächtigen pseudo-maurischen Stil."},
-            {"q": "Wann wurde das Gebäude erbaut?", "a": "Es wurde Ende des 19. Jahrhunderts (1892) fertiggestellt."},
-            {"q": "Wofür wird das Gebäude heute genutzt?", "a": "Es ist der Sitz des Bürgermeisters und dient repräsentativen Zwecken."},
-            {"q": "Wer war der Architekt?", "a": "Ćiril Iveković entwarf das Gebäude."},
-            {"q": "Ist das Gebäude für Touristen zugänglich?", "a": "Man kann es von außen bewundern; Innenbesichtigungen sind teilweise bei Veranstaltungen möglich."},
-        ],
-        "hu": [
-            {"q": "Milyen stílusban épült a brčkói városháza?", "a": "Pompás pszeudo-mór stílusban."},
-            {"q": "Mikor épült az épület?", "a": "A 19. század végén, 1892-ben fejezték be."},
-            {"q": "Mire használják ma az épületet?", "a": "A polgármesteri hivatal székhelye és reprezentatív célokat szolgál."},
-            {"q": "Ki volt az építész?", "a": "Az épületet Ćiril Iveković tervezte."},
-            {"q": "Látogatható-e az épület a turisták számára?", "a": "Kívülről megcsodálható; belső látogatás alkalmanként, rendezvények idején lehetséges."},
-        ],
-        "ro": [
-            {"q": "În ce stil arhitectural a fost construită Primăria din Brčko?", "a": "Într-un stil pseudo-maur magnific."},
-            {"q": "Când a fost construită clădirea?", "a": "A fost finalizată la sfârșitul secolului al XIX-lea (1892)."},
-            {"q": "Pentru ce este folosită clădirea astăzi?", "a": "Este sediul primarului și servește în scopuri de reprezentare."},
-            {"q": "Cine a fost arhitectul?", "a": "Ćiril Iveković a proiectat clădirea."},
-            {"q": "Este clădirea accesibilă turiștilor?", "a": "Poate fi admirată din exterior; vizitele în interior sunt parțial posibile în timpul unor evenimente."},
-        ],
-        "en": [
-            {"q": "In what architectural style was the Brčko City Hall built?", "a": "In a magnificent pseudo-Moorish style."},
-            {"q": "When was the building constructed?", "a": "It was completed at the end of the 19th century (1892)."},
-            {"q": "What is the building used for today?", "a": "It is the seat of the mayor and is used for representative purposes."},
-            {"q": "Who was the architect?", "a": "Ćiril Iveković designed the building."},
-            {"q": "Is the building accessible to tourists?", "a": "It can be admired from the outside; interior visits are sometimes possible during events."},
-        ]
+    {
+      "id": "myohyang-mountains-landmarks-v2",
+      "descriptionAdvanced": "Das Myohyang-Gebirge (Berg der geheimnisvollen Düfte) ist eines der schönsten Naturdenkmäler Nordkoreas und ein heiliger Ort. Die Region ist berühmt für ihre spitzen, nebelverhangenen Granitfelsen, dichten Pinienwälder und klaren Wasserfälle, die jahrhundertelang Maler und Dichter inspirierten. Der Sage nach war dieses Gebirge der Aufenthaltsort von Dangun, dem Stammvater Koreas. Heute lockt die Bergkette mit gut ausgebauten Wanderwegen Touristen an und beherbergt den historischen Pohyŏn-Tempel. Das Mikroklima und die unberührte Natur bieten einen starken Kontrast zur stark industrialisierten Umgebung der tiefer gelegenen Provinzen. Geografie K7 — Berge und Täler.",
+      "factsAdvanced": [
+        "Das Myohyang-Gebirge liegt in der Provinz Nord-P'yŏngan.",
+        "Sein höchster Gipfel, der Piro-bong, erreicht 1.909 Meter.",
+        "Das Gebirge wurde 2009 in das UNESCO-Weltnetz der Biosphärenreservate aufgenommen.",
+        "Der historische Pohyŏn-Tempel befindet sich in einem Tal des Gebirges.",
+        "Der Name übersetzt sich als 'Berg der geheimnisvollen Düfte'.",
+        "Das Gebiet ist ein beliebtes Ziel für inländische Wandergruppen."
+      ]
     },
-    "ba-bijeljina": {
-        "de": [
-            {"q": "In welcher Region liegt Bijeljina?", "a": "In der Region Semberija im Nordosten des Landes."},
-            {"q": "Wie groß ist Bijeljina?", "a": "Es ist die zweitgrößte Stadt der Republika Srpska."},
-            {"q": "Was ist das Kloster Tavna?", "a": "Ein historisches serbisch-orthodoches Kloster in der Nähe von Bijeljina."},
-            {"q": "Wofür ist die Region Semberija bekannt?", "a": "Als 'Kornkammer' Bosniens aufgrund ihrer fruchtbaren Ebenen."},
-            {"q": "Gibt es Thermalquellen in Bijeljina?", "a": "Ja, das Bad Dvorovi ist ein bekanntes Thermalbad in der Nähe."},
-        ],
-        "hu": [
-            {"q": "Melyik régióban található Bijeljina?", "a": "Az ország északkeleti részén, a Semberija régióban."},
-            {"q": "Mekkora város Bijeljina?", "a": "A Szerb Köztársaság második legnagyobb városa."},
-            {"q": "Mi az a Tavna kolostor?", "a": "Egy történelmi szerb ortodox kolostor Bijeljina közelében."},
-            {"q": "Miről ismert a Semberija régió?", "a": "Bosznia 'magtáraként' emlegetik termékeny síkságai miatt."},
-            {"q": "Vannak-e termálforrások Bijeljinában?", "a": "Igen, a Dvorovi fürdő egy ismert termálfürdő a közelben."},
-        ],
-        "ro": [
-            {"q": "În ce regiune se află Bijeljina?", "a": "În regiunea Semberija, în nord-estul țării."},
-            {"q": "Cât de mare este orașul Bijeljina?", "a": "Este al doilea oraș ca mărime din Republika Srpska."},
-            {"q": "Ce este mănăstirea Tavna?", "a": "O mănăstire ortodoxă sârbă istorică situată lângă Bijeljina."},
-            {"q": "Pentru ce este cunoscută regiunea Semberija?", "a": "Ca fiind 'grânarul' Bosniei, datorită câmpiei sale fertile."},
-            {"q": "Există izvoare termale în Bijeljina?", "a": "Da, Băile Dvorovi sunt o stațiune termală cunoscută în apropiere."},
-        ],
-        "en": [
-            {"q": "In which region is Bijeljina located?", "a": "In the Semberija region in the northeast of the country."},
-            {"q": "How large is Bijeljina?", "a": "It is the second-largest city of Republika Srpska."},
-            {"q": "What is the Tavna Monastery?", "a": "A historic Serbian Orthodox monastery near Bijeljina."},
-            {"q": "What is the Semberija region known for?", "a": "As the 'granary' of Bosnia due to its fertile plains."},
-            {"q": "Are there thermal springs in Bijeljina?", "a": "Yes, Dvorovi Spa is a well-known thermal bath nearby."},
-        ]
+    {
+      "id": "international-friendship-exhibition-landmarks-v2",
+      "descriptionAdvanced": "Die Internationale Freundschaftsausstellung im Myohyang-Gebirge ist ein einzigartiger Schatz-Bunker der nordkoreanischen Führung. Versteckt in einem stark gesicherten Gebäude, das sich architektonisch an traditionellen koreanischen Tempeln orientiert, aber tief in den Berg hineingebaut ist, präsentiert sie Geschenke aus aller Welt an Kim Il-sung, Kim Jong-il und Kim Jong-un. Die Sammlung umfasst geschätzt über 100.000 Artefakte, von gepanzerten Limousinen über ausgestopfte Bären bis hin zu Basketbällen. Die gigantischen, fensterlosen Hallen sind massiv klimatisiert. Die Ausstellung soll dem Volk suggerieren, dass die ganze Welt tiefe Ehrfurcht vor der nordkoreanischen Führung empfindet. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Die Ausstellung besteht aus zwei gigantischen Gebäudekomplexen.",
+        "Sie beherbergt über 100.000 Geschenke aus über 180 Nationen.",
+        "Die Anlagen sind tief in den harten Fels des Myohyang-Gebirges gehauen.",
+        "Ein gepanzerter Zugwagen von Josef Stalin befindet sich in der Sammlung.",
+        "Die Türen der Tresore wiegen mehrere Tonnen pro Stück.",
+        "Das Gebäude wurde 1978 eröffnet und später erweitert."
+      ]
     },
-    "ba-stanisici": {
-        "de": [
-            {"q": "Was ist das Ethno-Dorf Stanišići?", "a": "Ein Komplex, der ein traditionelles bosnisches Dorf des 19. Jahrhunderts nachbildet."},
-            {"q": "Wo befindet sich das Ethno-Dorf?", "a": "In der Nähe der Stadt Bijeljina."},
-            {"q": "Was kann man dort sehen?", "a": "Alte Holzhäuser, Wassermühlen, kleine Seen und eine historische Kapelle."},
-            {"q": "Gibt es dort Museen?", "a": "Ja, es gibt Ausstellungen von altem Handwerk und traditionellen Gegenständen."},
-            {"q": "Kann man dort übernachten?", "a": "Ja, es gibt Hotels und Restaurants im traditionellen Stil innerhalb des Dorfes."},
-        ],
-        "hu": [
-            {"q": "Mi az a Stanišići etnofalu?", "a": "Egy komplexum, amely egy 19. századi hagyományos bosnyák falut mutat be."},
-            {"q": "Hol található az etnofalu?", "a": "Bijeljina városa közelében."},
-            {"q": "Mit lehet ott látni?", "a": "Régi faházakat, vízimalmokat, kis tavakat és egy történelmi kápolnát."},
-            {"q": "Vannak-e ott múzeumok?", "a": "Igen, régi mesterségek és hagyományos tárgyak kiállításai tekinthetők meg."},
-            {"q": "Lehet-e ott megszállni?", "a": "Igen, a falun belül hagyományos stílusú szállodák és éttermek találhatók."},
-        ],
-        "ro": [
-            {"q": "Ce este satul etno Stanišići?", "a": "Un complex care recreează un sat tradițional bosniac din secolul al XIX-lea."},
-            {"q": "Unde se află satul etno?", "a": "Lângă orașul Bijeljina."},
-            {"q": "Ce se poate vedea acolo?", "a": "Case vechi din lemn, mori de apă, lacuri mici și o capelă istorică."},
-            {"q": "Există muzee acolo?", "a": "Da, există expoziții de meșteșuguri vechi și obiecte tradiționale."},
-            {"q": "Se poate înnopta acolo?", "a": "Da, în interiorul satului există hoteluri și restaurante în stil tradițional."},
-        ],
-        "en": [
-            {"q": "What is the Ethno Village Stanišići?", "a": "A complex recreating a traditional 19th-century Bosnian village."},
-            {"q": "Where is the Ethno Village located?", "a": "Near the city of Bijeljina."},
-            {"q": "What can you see there?", "a": "Old wooden houses, watermills, small lakes, and a historic chapel."},
-            {"q": "Are there museums there?", "a": "Yes, there are displays of old crafts and traditional objects."},
-            {"q": "Can you stay overnight there?", "a": "Yes, there are hotels and restaurants in traditional style within the village."},
-        ]
+    {
+      "id": "paektu-mountain-landmarks-v2",
+      "descriptionAdvanced": "Der Paektu-san (Weißkopfberg) an der Grenze zu China ist der höchste Berg der koreanischen Halbinsel und das heiligste Naturdenkmal beider Koreas. Der massive, ruhende Stratovulkan beherbergt in seiner riesigen Caldera den atemberaubenden, tiefblauen 'Himmelssee' (Chonji). Für Nordkorea ist der Berg das ideologische Herzstück der Nation; die staatliche Propaganda behauptet, Kim Jong-il sei in einem geheimen Lager an den Hängen des Berges geboren worden. Der Paektu ist Schauplatz massiver politischer Pilgerreisen, bei denen oft in winterlicher Kälte die Ursprünge der 'Paektu-Blutlinie', der herrschenden Kim-Familie, verehrt werden. Geografie K7 — Berge und Täler.",
+      "factsAdvanced": [
+        "Der Paektu-san ist mit 2.744 Metern der höchste Berg der koreanischen Halbinsel.",
+        "Er ist ein ruhender Stratovulkan an der chinesischen Grenze.",
+        "Die Caldera an der Spitze enthält den tiefen Himmelssee (Chonji).",
+        "Der Berg gilt als mystischer Ursprung der koreanischen Nation.",
+        "In der nordkoreanischen Ideologie begründet er die 'Paektu-Blutlinie'.",
+        "Der Himmelssee ist oft bis in den Frühsommer hinein zugefroren."
+      ]
     },
-    "ba-livno": {
-        "de": [
-            {"q": "Wofür ist Livno kulinarisch bekannt?", "a": "Für seinen berühmten Livno-Käse (Livanjski sir)."},
-            {"q": "Welches Naturphänomen kann man bei Livno beobachten?", "a": "Große Herden von Wildpferden, die auf dem Kruzi-Plateau leben."},
-            {"q": "An welchem Berg liegt die Stadt?", "a": "Am Fuße des Berges Bašajkovac."},
-            {"q": "Was ist die Dumuman-Quelle?", "a": "Eine starke Quelle des Flusses Bistrica mitten in der Stadt."},
-            {"q": "Welche historische Moschee steht in Livno?", "a": "Die Hadži-Ahmet-Dukatar-Moschee."},
-        ],
-        "hu": [
-            {"q": "Miről ismert Livno gasztronómiailag?", "a": "Híres livnói sajtjáról (Livanjski sir)."},
-            {"q": "Milyen természeti jelenséget lehet megfigyelni Livnónál?", "a": "Hatalmas vadlóméneseket, amelyek a Kruzi-fennsíkon élnek."},
-            {"q": "Melyik hegy lábánál fekszik a város?", "a": "A Bašajkovac-hegy lábánál."},
-            {"q": "Mi az a Duman-forrás?", "a": "A Bistrica folyó nagy hozamú forrása a város közepén."},
-            {"q": "Melyik történelmi mecset található Livnóban?", "a": "A Hadži Ahmet Dukatar mecset."},
-        ],
-        "ro": [
-            {"q": "Pentru ce este cunoscut Livno din punct de vedere culinar?", "a": "Pentru faimoasa sa brânză de Livno (Livanjski sir)."},
-            {"q": "Ce fenomen natural poate fi observat lângă Livno?", "a": "Turme mari de cai sălbatici care trăiesc pe platoul Kruzi."},
-            {"q": "La poalele cărui munte se află orașul?", "a": "La poalele muntelui Bašajkovac."},
-            {"q": "Ce este izvorul Duman?", "a": "Un izvor puternic al râului Bistrica, situat chiar în centrul orașului."},
-            {"q": "Ce moschee istorică se află în Livno?", "a": "Moscheea Hadži Ahmet Dukatar."},
-        ],
-        "en": [
-            {"q": "What is Livno culinary famous for?", "a": "For its famous Livno cheese (Livanjski sir)."},
-            {"q": "What natural phenomenon can be observed near Livno?", "a": "Large herds of wild horses living on the Kruzi plateau."},
-            {"q": "At the foot of which mountain is the city located?", "a": "At the foot of Mount Bašajkovac."},
-            {"q": "What is the Duman spring?", "a": "A powerful spring of the Bistrica River in the middle of the city."},
-            {"q": "Which historic mosque is in Livno?", "a": "The Hadži Ahmet Dukatar Mosque."},
-        ]
+    {
+      "id": "dmz-panmunjom-landmarks-v2",
+      "descriptionAdvanced": "Panmunjom, im Herzen der demilitarisierten Zone (DMZ), ist eine der weltweit bekanntesten militärischen Sehenswürdigkeiten und ein Überbleibsel des Kalten Krieges. Das Joint Security Area (JSA) besteht aus charakteristischen blauen Baracken, die von UN- und nordkoreanischen Streitkräften gleichermaßen bewacht werden. Ein flacher Betonstreifen am Boden markiert die exakte Grenze zwischen Nord- und Südkorea. Besucher aus dem Norden durchqueren das monumentale Panmungak-Hauptgebäude, um einen Blick auf den südkoreanischen Freedom House-Pavillon zu werfen. Diese surreale Touristenattraktion ist geprägt von ständiger Anspannung und strengen militärischen Choreografien auf beiden Seiten. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Panmunjom liegt in der Joint Security Area innerhalb der DMZ.",
+        "Die blauen Baracken stehen exakt auf der militärischen Demarkationslinie.",
+        "Nordkoreanische Touristen betreten das Gelände über den Panmungak-Pavillon.",
+        "Die Zone wird streng von bewaffneten Soldaten beider Seiten bewacht.",
+        "Auf dem Boden markiert eine kleine Betonschwelle die Staatsgrenze.",
+        "Die Anlage ist eines der wenigen Gebiete, wo direkte Treffen zwischen Nord und Süd stattfinden können."
+      ]
+    },
+    {
+      "id": "kaesong-historic-city-landmarks-v2",
+      "descriptionAdvanced": "Die Altstadt von Kaesŏng ist ein außergewöhnliches architektonisches Relikt in Nordkorea, da sie im Gegensatz zu den meisten anderen Städten während des Koreakriegs nicht ausgebombt wurde. Die Stadt war einst die florierende Hauptstadt der Koryŏ-Dynastie. Heute verzaubern die historischen Viertel mit ihren endlosen Reihen traditioneller, einstöckiger koreanischer Hanok-Häuser, die durch dunkle Ziegeldächer und enge, kopfsteingepflasterte Gassen gekennzeichnet sind. Das intakte Stadtbild, durchsetzt mit konfuzianischen Akademien und alten Steingottheiten, bietet einen seltenen und authentischen Einblick in das vormoderne Korea, der von der UNESCO mit dem Weltkulturerbe-Titel ausgezeichnet wurde. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Kaesŏng war über vier Jahrhunderte die Hauptstadt des Koryŏ-Reiches.",
+        "Die Altstadt wurde im Koreakrieg weitgehend vor Zerstörung verschont.",
+        "Sie besteht aus Hunderten traditioneller Hanok-Häuser.",
+        "Die historischen Monumente von Kaesŏng sind seit 2013 UNESCO-Weltkulturerbe.",
+        "Die Stadt war das historische Zentrum des Ginseng-Handels.",
+        "Kaesŏng liegt unmittelbar an der demilitarisierten Zone (DMZ)."
+      ]
+    },
+    {
+      "id": "masikryong-ski-resort-landmarks-v2",
+      "descriptionAdvanced": "Das Masik-Ryong Skigebiet nahe der Küstenstadt Wŏnsan ist Nordkoreas luxuriösestes Wintersportresort. Es wurde 2014 im Rahmen einer massiven Kampagne ('Masik-Ryong-Geschwindigkeit') in Rekordzeit unter Kim Jong-un erbaut, um den internationalen Tourismus und inländischen Elite-Sport zu fördern. Das Resort bietet mehrere Skipisten, Sessellifte und ein beeindruckendes Luxushotel mit hölzerner Bergarchitektur, das mit modernen Annehmlichkeiten wie Spas ausgestattet ist. Das Projekt ist ein Symbol für die Bestrebungen der nordkoreanischen Führung, trotz internationaler Sanktionen den Bau von Freizeitinfrastruktur nach internationalem Standard zu demonstrieren. Geografie K7 — Berge und Täler.",
+      "factsAdvanced": [
+        "Das Skigebiet wurde Anfang 2014 nach nur 10 Monaten Bauzeit eröffnet.",
+        "Es liegt am Berg Taehwa in der Nähe von Wŏnsan.",
+        "Das Resort verfügt über Pisten mit einer Gesamtlänge von fast 17 Kilometern.",
+        "Die Anlage beinhaltet ein neunstöckiges Luxushotel.",
+        "Die importierten österreichischen Sessellifte waren Gegenstand internationaler Sanktionsdebatten.",
+        "Der Bau prägte den Propaganda-Begriff 'Masik-Ryong-Geschwindigkeit'."
+      ]
+    },
+    {
+      "id": "wonsan-kalma-coastal-tourist-area-landmarks-v2",
+      "descriptionAdvanced": "Das Wŏnsan-Kalma Küsten-Tourismusgebiet ist ein gigantisches Bauprojekt an der Ostküste Nordkoreas. Entlang eines feinsandigen Strandes auf der Kalma-Halbinsel bei Wŏnsan wurden über hundert moderne Hotels, Aquaparks, Kinos und Stadien errichtet. Das Projekt, das von Kim Jong-un initiiert wurde, soll Nordkorea in ein internationales Sommerferienziel verwandeln, das mit Badeorten im Ausland konkurrieren kann. Obwohl der Baukomplex beeindruckend ist und zehntausende Soldaten und Arbeiter eingesetzt wurden, verzögerte sich die geplante Eröffnung aufgrund von Materialengpässen, Pandemie-Maßnahmen und Sanktionen mehrfach erheblich, weshalb das Resort lange leer stand. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Die Kalma-Halbinsel erstreckt sich in die Bucht von Wŏnsan.",
+        "Das Resort umfasst über 100 Gebäude, darunter riesige Luxushotels.",
+        "Der Bau wurde von Kim Jong-un persönlich stark forciert.",
+        "Die Eröffnung wurde seit 2019 mehrfach verschoben.",
+        "In der Nähe befindet sich ein kürzlich ausgebauter internationaler Flughafen.",
+        "Die Halbinsel wurde früher für Artillerie- und Raketentests genutzt."
+      ]
+    },
+    {
+      "id": "sinchon-museum-of-american-war-atrocities-landmarks-v2",
+      "descriptionAdvanced": "Das Sinchŏn-Museum ist ein wuchtiges Wahrzeichen in der Provinz Süd-Hwanghae, das als architektonische Verkörperung der staatlichen Anti-USA-Propaganda fungiert. Der große, mehrstöckige Bau im brutalistischen Stil ist umgeben von Denkmälern, die Schmerz und Kampfbereitschaft symbolisieren, wie beispielsweise große Fäuste, die amerikanische Helme zerquetschen. Die Struktur selbst ist entworfen, um bei den Besuchern Ehrfurcht und Trauer hervorzurufen. Es ist landesweit bekannt als der zentrale Ort für politische Exkursionen und Hass-Rallyes, wobei die weiten Vorplätze für militärische Aufmärsche und Gelöbnisse der Rache genutzt werden. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Das Museum ist in Süd-Hwanghae das wichtigste politische Denkmal.",
+        "Der Gebäudekomplex wurde 2015 unter Kim Jong-un massiv vergrößert.",
+        "Die Außenarchitektur umfasst massive Granitstatuen der Rache.",
+        "Der Vorplatz fasst tausende Menschen für politische Versammlungen.",
+        "Es konserviert angebliche Massengräber aus dem Jahr 1950.",
+        "Das Museum zielt darauf ab, den ideologischen Kampfgeist zu stärken."
+      ]
+    },
+    {
+      "id": "pyongyang-central-zoo-life-v2",
+      "descriptionAdvanced": "Der Zentrale Zoo von Pjöngjang, gelegen am Stadtrand nahe dem Berg Taesong, ist der größte und wichtigste Tierpark Nordkoreas. Er wurde 1959 auf Anweisung von Kim Il-sung erbaut und 2016 umfassend renoviert. Der Zoo beherbergt klassische wilde Tiere wie Elefanten, Tiger und Flusspferde, von denen viele diplomatische Geschenke von ausländischen Staatsoberhäuptern an die nordkoreanische Führung waren. Eine besondere Attraktion ist der umstrittene 'Hunde-Pavillon', der verschiedene gezüchtete Hunderassen ausstellt. Der Zoo dient den Bewohnern Pjöngjangs als beliebtes Ausflugsziel am Wochenende und verfügt zudem über ein großes, schildkrötenförmiges Aquarium. Biologie K6 — Tiere und Lebensräume.",
+      "factsAdvanced": [
+        "Der Zoo wurde 1959 eröffnet.",
+        "Er erstreckt sich über eine massive Fläche am Berg Taesong.",
+        "Viele Tiere im Zoo waren Geschenke verbündeter Staaten an die Kim-Familie.",
+        "2016 wurde das große Aquarium in Form einer Schildkröte eingeweiht.",
+        "Der Zoo beinhaltet einen speziellen Pavillon nur für Rassehunde.",
+        "In der Vergangenheit kam es oft zu Diskussionen über die Haltungsbedingungen der Tiere."
+      ]
+    },
+    {
+      "id": "taesongsan-amusement-park-life-v2",
+      "descriptionAdvanced": "Der Taesongsan-Vergnügungspark liegt malerisch am Fuße des Berges Taesong in Pjöngjang und ist ein Zentrum für Freizeit und Erholung. Der Park wurde in den 1970er Jahren erbaut und bietet eine charmante Mischung aus sowjetisch inspirierten Fahrgeschäften und weitläufigen, gepflegten Gärten. Besonders an nationalen Feiertagen wie dem Tag der Sonne strömen Familien hierher, um Picknicks unter blühenden Bäumen zu veranstalten und Achterbahnen oder das Riesenrad zu nutzen. Der Park ist ein Symbol für die Bemühungen des Staates, der städtischen Elite Freizeitaktivitäten zu bieten, und strotzt oft vor traditioneller koreanischer Musik und Tanz. Sozialkunde K4 — städtisches Leben.",
+      "factsAdvanced": [
+        "Der Park wurde 1977 für die Bewohner Pjöngjangs eröffnet.",
+        "Er verfügt über Achterbahnen, Autoscooter und ein Riesenrad.",
+        "Der Park ist direkt an das U-Bahn-Netz von Pjöngjang angeschlossen.",
+        "An nationalen Feiertagen finden hier oft große öffentliche Tänze statt.",
+        "Neben Fahrgeschäften gibt es auch ausgedehnte Picknick-Flächen.",
+        "Der Park grenzt direkt an den Zentralen Zoo von Pjöngjang."
+      ]
+    },
+    {
+      "id": "sukchon-agriculture-collective-life-v2",
+      "descriptionAdvanced": "Die Sukchŏn-Landwirtschaftskooperative in der Provinz Süd-P'yŏngan gilt als landesweiter Modellbetrieb für den Reisanbau und die staatliche Kollektivierung in Nordkorea. In der weiten, fruchtbaren Yoldusamcholli-Ebene gelegen, nutzen die Bauern ein massives Netz aus Bewässerungskanälen, um im Frühling und Sommer unendliche grüne Reisfelder zu bewirtschaften. Während der Pflanz- und Erntezeit werden Studenten, Soldaten und Fabrikarbeiter aus den Städten hierher mobilisiert, um das Einbringen der Ernte zu garantieren. Solche Kooperativen bilden das Rückgrat der fragilen nordkoreanischen Lebensmittelversorgung und funktionieren nach den strengen Regeln der staatlichen Planwirtschaft. Geografie K7 — Landwirtschaft.",
+      "factsAdvanced": [
+        "Der Landkreis Sukchŏn ist eines der Hauptzentren für die Reisproduktion.",
+        "Die Farm liegt in der sehr fruchtbaren Yoldusamcholli-Ebene.",
+        "Die landwirtschaftliche Arbeit wird oft durch landesweite Massenmobilisierungen unterstützt.",
+        "Der Betrieb ist vollständig als Kolchos organisiert.",
+        "Ein großes Netzwerk an Kanälen sichert die Bewässerung.",
+        "Ertragssteigerungen hier werden oft in den staatlichen Medien gefeiert."
+      ]
+    },
+    {
+      "id": "moranbong-park-life-v2",
+      "descriptionAdvanced": "Der Moranbong-Park (Pfingsrosen-Hügel) liegt im Zentrum von Pjöngjang und gilt als die grüne Lunge der Stadt. Dieser historische bewaldete Hügel ist reich an alten Pavillons, Befestigungsmauern aus der Koryŏ-Zeit und Monumenten. Für die Einheimischen ist der Park das beliebteste Ziel am Wochenende, besonders im Frühling zur Kirschblütenzeit. Tausende Menschen strömen auf die Hügel, breiten Planen aus, grillen Fleisch, singen Karaoke und tanzen gemeinsam zu Akkordeon-Musik. Diese spontanen, fröhlichen Massenpicknicks bieten Besuchern einen seltenen Einblick in die entspannte, private Seite der ansonsten stark reglementierten nordkoreanischen Gesellschaft. Sozialkunde K4 — städtisches Leben.",
+      "factsAdvanced": [
+        "Der Moranbong-Hügel (Pfingstrosenhügel) ist der bekannteste Park Pjöngjangs.",
+        "Auf dem Hügel stehen historische Koryŏ-Pavillons wie der Ryongwang-Pavillon.",
+        "Der Park ist ein Hotspot für Massenpicknicks im Frühling und Sommer.",
+        "Im Park befindet sich das Befreiungsdenkmal für die sowjetische Armee.",
+        "Das Moranbong-Freilichttheater bietet Platz für Tausende Zuschauer.",
+        "Gesang und Akkordeon-Musik sind fester Bestandteil der Picknicks."
+      ]
+    },
+    {
+      "id": "ryongmun-cave-park-life-v2",
+      "descriptionAdvanced": "Der Ryongmun-Höhlenpark nahe der Stadt Kujang ist ein beeindruckendes, sechs Kilometer langes unterirdisches Karsthöhlensystem, das tief in den Berg ragt. Das weitläufige Netz aus Tropfsteinhöhlen lockt Touristen und Einheimische gleichermaßen an, die durch spektakuläre Hallen mit Stalaktiten und Stalagmiten geführt werden. Die Formationen werden mit bunten Scheinwerfern angestrahlt, und Reiseführer erzählen poetische Mythen über Felsen, die wie Drachen, Blumen oder Bauern aussehen. Der Park ist ein exzellentes Beispiel für den staatlich geförderten Inlands-Naturtourismus und bietet eine kühle Flucht vor den heißen Sommern der Region Nord-P'yŏngan. Biologie K6 — Tiere und Lebensräume.",
+      "factsAdvanced": [
+        "Das Ryongmun-Höhlensystem ist über 6 Kilometer lang.",
+        "Es befindet sich im Landkreis Kujang in der Provinz Nord-P'yŏngan.",
+        "Die Karsthöhlen wurden über Millionen von Jahren geformt.",
+        "Besucherführungen dauern in der Regel zwei Stunden.",
+        "Die unterirdischen Hallen sind mit grellen, farbigen Lichtern illuminiert.",
+        "Die Temperatur in der Höhle bleibt ganzjährig konstant kühl."
+      ]
+    },
+    {
+      "id": "kwail-county-orchards-life-v2",
+      "descriptionAdvanced": "Der Landkreis Kwail in der Provinz Süd-Hwanghae macht seinem Namen – 'Kwail' bedeutet auf Koreanisch 'Frucht' oder 'Obst' – alle Ehre. Die Region an der Küste des Gelben Meeres ist ein gigantischer, zusammenhängender Obstgarten, der sich über zehntausende Hektar erstreckt. Begünstigt durch das milde maritime Klima und den fruchtbaren Boden wachsen hier massenhaft Äpfel, Birnen, Pfirsiche und Kirschen. Im Herbst verwandelt sich die Region in ein Zentrum wuseliger Aktivität, wenn Erntebrigaden aus dem ganzen Land eintreffen. Die Früchte aus Kwail gelten als die besten des Landes und werden in Fabriken zu Säften und Marmeladen verarbeitet. Geografie K7 — Landwirtschaft.",
+      "factsAdvanced": [
+        "Das Wort 'Kwail' bedeutet in der koreanischen Sprache 'Frucht'.",
+        "Der Landkreis besteht fast ausschließlich aus riesigen Obstplantagen.",
+        "Äpfel und Pfirsiche sind die wichtigsten Anbauprodukte der Region.",
+        "Kwail liegt an der Küste der Provinz Süd-Hwanghae.",
+        "Die Plantagen erstrecken sich über mehr als 10.000 Hektar.",
+        "Große Verarbeitungsbetriebe für Säfte befinden sich direkt vor Ort."
+      ]
+    },
+    {
+      "id": "majon-beach-resort-life-v2",
+      "descriptionAdvanced": "Das Majon-Strandresort nahe der Industriestadt Hamhŭng an der Ostküste Nordkoreas ist ein beliebter Rückzugsort im Sommer. Der lange, von dichten Pinienwäldern gesäumte Sandstrand am Japanischen Meer bietet erstaunlich gute Badebedingungen mit sauberen Wellen. Das Resort zieht sowohl einheimische Funktionäre aus Pjöngjang als auch ausländische Diplomaten und Touristen an. Trotz der Nähe zur Schwerindustrie in Hamhŭng ist die Küstenlinie hier sehr malerisch. Im Resort-Hotel, das Anfang der 2010er Jahre modernisiert wurde, können Besucher surfen, schwimmen oder auf den Terrassen entspannen, was das Strandbad zu einem der wenigen klassischen Freizeitziele des Landes macht. Geografie K7 — asiatische Metropolen.",
+      "factsAdvanced": [
+        "Das Majon-Resort liegt am Japanischen Meer nahe Hamhŭng.",
+        "Der Sandstrand ist mehrere Kilometer lang und von Pinien gesäumt.",
+        "Das Hotelresort wurde 2009 aufwendig im modernen Stil renoviert.",
+        "Es ist ein bevorzugtes Urlaubsziel für die nordkoreanische Elite.",
+        "Am Strand gibt es Möglichkeiten zum Wellenreiten und Schwimmen.",
+        "Die Anlage verfügt über spezielle Badebereiche für ausländische Touristen."
+      ]
+    },
+    {
+      "id": "mundok-migratory-bird-reserve-life-v2",
+      "descriptionAdvanced": "Das Mundŏk-Vogelschutzgebiet liegt im flachen Küstengebiet der Provinz Süd-P'yŏngan am Gelben Meer. Die ausgedehnten Wattflächen und Schilflandschaften der Ch'ŏngch'ŏn-Flussmündung sind ein weltweit bedeutendes Ökosystem. Sie dienen als kritischer Rastplatz für Zugvögel auf der ostasiatisch-australasiatischen Flugroute. Jeden Frühling und Herbst rasten hier Hunderttausende Vögel, darunter stark gefährdete Arten wie der Schwanengans und der Löffelstrandläufer. Angesichts schrumpfender Lebensräume in Ostasien hat Nordkorea diese Gebiete aktiv unter Schutz gestellt. Für Naturliebhaber und Ornithologen bietet die weite, flache Küstenlandschaft ein spektakuläres und unberührtes Naturschauspiel. Biologie K6 — Tiere und Lebensräume.",
+      "factsAdvanced": [
+        "Das Mundŏk-Reservat ist ein Wattgebiet am Gelben Meer.",
+        "Es ist ein entscheidender Rastplatz für seltene Zugvögel in Asien.",
+        "Das Schutzgebiet erstreckt sich über fast 4.000 Hektar Gezeitenzone.",
+        "Es ist Heimat für gefährdete Arten wie den Schwanengans.",
+        "Im Jahr 2018 wurde es in die renommierte Ramsar-Konvention aufgenommen.",
+        "Der Schutz der Vögel ist eines der wenigen international gelobten Umweltprojekte Nordkoreas."
+      ]
+    },
+    {
+      "id": "ryongaksan-pleasure-ground-life-v2",
+      "descriptionAdvanced": "Der Berg Ryongak, auch bekannt als der 'Drachenberg' von Pjöngjang, ist ein beliebtes Wander- und Naherholungsgebiet direkt vor den Toren der Hauptstadt. Die steilen, dicht bewaldeten Klippen bieten eine herrliche Flucht aus dem städtischen Beton. Der Park ist durchzogen von Wanderwegen, die sich bis zum Gipfel schlängeln, von wo aus man einen spektakulären Blick auf die Skyline von Pjöngjang und das Mangyongdae-Viertel hat. Unterwegs passieren Wanderer historische Tempel, wie den Pŏpun-Tempel, und Pavillons. An warmen Tagen füllen sich die Wälder mit Familien, die grillen und traditionellen nordkoreanischen Soju trinken. Sozialkunde K4 — städtisches Leben.",
+      "factsAdvanced": [
+        "Ryongak-san bedeutet übersetzt 'Drachenberg'.",
+        "Der Berg liegt etwa 12 Kilometer vom Stadtzentrum Pjöngjangs entfernt.",
+        "Die höchste Erhebung erreicht fast 300 Meter.",
+        "Auf dem Berg befindet sich der historische Pŏpun-Tempel.",
+        "Er ist ein sehr beliebtes Ziel für Wochenendwanderungen der Pjöngjanger.",
+        "Im Herbst zieht der Berg wegen seiner prächtigen Laubfärbung viele Besucher an."
+      ]
+    },
+    {
+      "id": "sinpyong-kumgang-tourist-area-life-v2",
+      "descriptionAdvanced": "Die Sinp'yŏng-Kŭmgang-Tourismuszone liegt tief verborgen im gebirgigen Landesinneren der Provinz Nord-Hwanghae, auf halbem Weg zwischen Pjöngjang und der Ostküste. Diese raue, wildromantische Gebirgslandschaft zeichnet sich durch tiefe Schluchten, smaragdgrüne Flüsse und dramatische Wasserfälle aus. Die Region ist noch sehr unberührt und weniger stark frequentiert als das berühmte Kŭmgang-Gebirge im Osten. Ein idyllischer Stausee bietet Möglichkeiten zum Bootfahren inmitten der Berge. Die Wälder in Sinp'yŏng sind bekannt für ihre vielfältige Tierwelt und dichten Herbstwälder, weshalb sie sich ideal als Erholungsgebiet für Ökotourismus und Bergwanderungen eignen. Geografie K7 — Berge und Täler.",
+      "factsAdvanced": [
+        "Sinp'yŏng liegt an der wichtigen Autobahn zwischen Pjöngjang und Wŏnsan.",
+        "Das Gebiet wird oft das 'Kŭmgang-Gebirge von Hwanghae' genannt.",
+        "Die Region verfügt über spektakuläre Karstformationen und Wasserfälle.",
+        "In der Mitte des Tals liegt ein malerischer, künstlicher Stausee.",
+        "Das Resort ist ein beliebter Stopp für Überlandreisende zur Ostküste.",
+        "Es dient zunehmend dem inländischen Wandertourismus."
+      ]
+    },
+    {
+      "id": "changja-river-fish-farm-life-v2",
+      "descriptionAdvanced": "Die Changja-Fluss-Fischfarm in der gebirgigen Provinz Chagang ist ein Musterbeispiel für die moderne nordkoreanische Aquakultur. In einer Region, die stark von der Landwirtschaft abgeschnitten ist, nutzt diese gigantische Anlage das kalte, klare Wasser des Changja-Flusses, um in unzähligen Becken Millionen von Süßwasserfischen zu züchten, darunter Forellen und Störe. Die Farm wurde in den letzten Jahren unter Kim Jong-un massiv modernisiert und mit automatisierten Fütterungssystemen ausgestattet. Die gezüchteten Fische sind entscheidend, um den Proteinbedarf in den rauen, isolierten Bergstädten wie Kanggye zu decken, und gelten als Triumph staatlicher Lebensmittelproduktion. Biologie K6 — Tiere und Lebensräume.",
+      "factsAdvanced": [
+        "Die Fischfarm liegt am Changja-Fluss in der Provinz Chagang.",
+        "Die Anlage nutzt das extrem klare, kalte Bergwasser der Region.",
+        "Sie züchtet hauptsächlich Regenbogenforellen und andere Süßwasserfische.",
+        "Kim Jong-un hat die Anlage als nationales Vorzeigeprojekt gefördert.",
+        "Die Farm hilft, die schwierige Proteinversorgung im gebirgigen Norden zu sichern.",
+        "Moderne, teils computergesteuerte Anlagen wurden kürzlich installiert."
+      ]
     }
+  ]
 }
 
-with open("faqs_batch4.json", "w", encoding="utf-8") as f:
-    json.dump(faqs, f, ensure_ascii=False, indent=2)
+with open('/mnt/c/Users/User/plizio-repo/seo_outputs/seo_northkorea_de_batch4.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)

@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bibiani-cities-v2",
+      "descriptionAdvanced": "Bibiani este un oraș activ din Regiunea Western North, construit ferm în jurul uneia dintre cele mai renumite mine de aur din zonă. Existența sa depinde istoric și economic de zăcămintele aurifere gestionate de compania Mensin Gold. Dincolo de peisajul minier marcat de excavatoare și tunele adânci, regiunea înconjurătoare excelează în cultivarea boabelor de cacao, oferind orașului o economie duală. Combinația dintre bogăția subsolului și fertilitatea solului face din Bibiani un magnet constant pentru migranții ghanezi. Economie K7 — economii duale minier-agricole.",
+      "factsAdvanced": [
+        "Economia se bazează dual pe minerit aurifer și plantații de cacao.",
+        "Este reședința oficială a districtului municipal Bibiani-Anhwiaso-Bekwai.",
+        "Mina Bibiani Gold Mine a fost deschisă pentru prima dată în anii 1900.",
+        "Găzduiește un stadion de fotbal popular numit Duns Park.",
+        "Populația prezintă un aflux mare de muncitori migranți temporari.",
+        "Este conectat de marile centre comerciale prin autostrăzi forestiere dense."
+      ]
+    },
+    {
+      "id": "somanya-cities-v2",
+      "descriptionAdvanced": "Somanya, situat la poalele dramatice ale lanțului montan Akwapim, este un centru agricol și cultural vital pentru poporul Krobo. Localitatea este recunoscută pe plan mondial pentru artizanii săi care produc mărgele din sticlă reciclată, o tehnică transmisă din generație în generație, ale cărei culori vibrante reprezintă mesaje culturale precise. Din punct de vedere agricol, regiunea este un furnizor uriaș de mango, un produs sărbătorit intens în piețele sale săptămânale. Cultură K6 — meșteșuguri tradiționale.",
+      "factsAdvanced": [
+        "Așezarea reprezintă inima culturală a subgrupului etnic Yilo Krobo.",
+        "Cunoscut pe plan internațional pentru fabricarea mărgelelor din sticlă.",
+        "Are o industrie înfloritoare bazată pe cultivarea și exportul de mango.",
+        "Festivalul său anual Kloyosikplemi comemorează expulzarea lor din munți.",
+        "Piața din Somanya este un hub imens pentru produse artizanale din toată regiunea.",
+        "Terenul deluros oferă condiții climatice blânde pe tot parcursul anului."
+      ]
+    },
+    {
+      "id": "foso-cities-v2",
+      "descriptionAdvanced": "Foso, adesea numit Assin Foso, servește drept ancoră comercială pentru fermierii izolați din Regiunea Centrală a Ghanei. Orașul atrage recoltele uriașe de cacao, ulei de palmier și citrice din zeci de așezări rurale, preluându-le pentru a fi transportate către sudul industrial. Datorită prezenței instituțiilor superioare de educație (inclusiv colegii pentru pregătirea profesorilor), are un aer tânăr, plin de studenți și viață comercială nocturnă, o raritate pentru un oraș provincial. Economie K6 — distribuție agricolă centrală.",
+      "factsAdvanced": [
+        "Este considerat punctul central al administrației districtului Assin North.",
+        "Economia se focusează exclusiv pe preluarea și tranzitul recoltelor de cacao.",
+        "Colegiul de Educație Assin Foso este una dintre cele mai mari instituții pedagogice.",
+        "Stația sa de autobuze este printre cele mai aglomerate din regiune.",
+        "A cunoscut o dezvoltare imobiliară accentuată datorită cadrelor didactice.",
+        "Comerțul cu ulei de palmier asigură venituri substanțiale fermierilor."
+      ]
+    },
+    {
+      "id": "wenchi-cities-v2",
+      "descriptionAdvanced": "Wenchi ocupă o poziție geografică excelentă la marginea de nord a Regiunii Bono, fiind un oraș curat, definit de agricultură și stabilitate administrativă. Istoria orașului se leagă strâns de familia lui Kofi Abrefa Busia, fostul prim-ministru al Ghanei, care provine din această regiune regală. Solul din Wenchi este incredibil de fertil, favorizând faimoasele plantații uriașe de nuci de caju care furnizează materie primă pentru fabricile de procesare locale, dar și pentru piața internațională de export. Economie K8 — producție de export (caju).",
+      "factsAdvanced": [
+        "Este cunoscut drept capitala neoficială a producției de caju din Ghana.",
+        "Orașul este locul de naștere al fostului prim-ministru Kofi Abrefa Busia.",
+        "Posedă unele dintre cele mai mari facilități de procesare a nucilor de caju.",
+        "Este reședința șefului tradițional al Consiliului Wenchi.",
+        "Relieful trece de la pădure la savană arboricolă în această regiune.",
+        "Universitatea Metodistă din Ghana menține un campus în așezare."
+      ]
+    },
+    {
+      "id": "mumford-cities-v2",
+      "descriptionAdvanced": "Mumford este un sat pescăresc clasic situat în districtul Gomoa West din Regiunea Centrală, unde timpul pare să se fi oprit, iar oceanul dictează viețile tuturor. Plaja este o expoziție vibrantă de bărci canotate masive, vopsite în culori aprinse și împodobite cu steaguri religioase sau embleme ale cluburilor europene de fotbal. Activitatea zilnică începe la răsăritul soarelui cu ridicarea plaselor pline de sardine și se termină târziu în noapte în mirosul fumului gros de la nenumăratele cuptoare de conservare a peștelui. Societate K7 — viața de coastă.",
+      "factsAdvanced": [
+        "Se numără printre cele mai tradiționale comunități pescărești din Regiunea Centrală.",
+        "Ambarcațiunile din lemn masiv sunt sculptate manual și decorate complex.",
+        "Femeile controlează sectorul afumării și vânzării peștelui în piețele de interior.",
+        "Vara aduce frecvent festivaluri dedicate spiritelor ocrotitoare ale mării.",
+        "Eroziunea plajelor rămâne o amenințare majoră la adresa clădirilor de coastă.",
+        "Comunitatea se confruntă cu un declin masiv al capturilor din cauza pescuitului industrial."
+      ]
+    },
+    {
+      "id": "duayaw-nkwanta-cities-v2",
+      "descriptionAdvanced": "Duayaw Nkwanta este un oraș regal respectat situat în Regiunea Ahafo, faimos pentru legăturile sale tradiționale puternice și alianța sa cu tronul Ashanti. Economia se bazează substanțial pe exploatarea pădurilor înconjurătoare și prelucrarea cherestelei de înaltă calitate, care susține fabrici de mobilă la nivel național. Mai mult, așezarea găzduiește instituții medicale specializate apreciate (cum ar fi Spitalul St. John of God), atrăgând pacienți chiar și din afara granițelor țării. Societate K8 — influența tradiției și sănătate.",
+      "factsAdvanced": [
+        "A funcționat ca sediu istoric tradițional pentru vechiul regat Ahafo.",
+        "Spitalul St. John of God deține un departament de ortopedie renumit.",
+        "Are o piață foarte stabilă dedicată exclusiv vânzării de cherestea.",
+        "Membrii consiliului tradițional continuă să exercite o putere locală masivă.",
+        "Orașul s-a bazat recent pe modernizarea micilor ferme de păsări de curte.",
+        "Populația rămâne stabilă datorită locurilor de muncă din sectorul medical."
+      ]
+    },
+    {
+      "id": "bekwai-cities-v2",
+      "descriptionAdvanced": "Bekwai își extrage valoarea dintr-o poziție centrală de invidiat în inima Regiunii Ashanti. Ca sediu al unuia dintre statele fondatoare ale vechii alianțe Asante, orașul deține o rezonanță istorică puternică. Era cândva o oprire vitală pe calea ferată colonială de aur și lemn, aspect dovedit de arhitectura feroviară abandonată. Astăzi, pilonul financiar principal este vânzarea boabelor de cacao de pe plantațiile colinare adiacente, aducând un aflux de comercianți la fiecare sfârșit de sezon. Geografie K7 — așezări forestiere.",
+      "factsAdvanced": [
+        "Seful tradițional din Bekwai (Omanhene) este esențial în politica Ashanti.",
+        "Istoria modernă a fost stimulată de construirea căii ferate către Kumasi.",
+        "Regiunea este renumită pentru calitatea superioară a boabelor de cacao.",
+        "Centrul istoric este definit de case din piatră cu arhitectură colonială engleză.",
+        "Include o piață masivă destinată echipamentelor și uneltelor agricole grele.",
+        "Populația menține o preferință clară pentru practici agricole ecologice."
+      ]
+    },
+    {
+      "id": "bechem-cities-v2",
+      "descriptionAdvanced": "Bechem ocupă o poziție geografică excelentă în Regiunea Ahafo și s-a format de-a lungul istoriei ca un sanctuar de pace și refugiu în timpul conflictelor tribale. Orașul găzduiește cu mândrie echipe naționale de fotbal și multiple instituții educaționale de stat, dintre care Școala de Surdo-Muți este recunoscută internațional. Datorită vegetației sale neatinse, aerul din Bechem este răcoros, oferind un mediu fertil agricultorilor ce cultivă banani, manioc și arbori de tec. Societate K6 — incluziune educațională.",
+      "factsAdvanced": [
+        "Orașul este gazda principalei Școli de Surdo-Muți din sectorul de mijloc.",
+        "Echipa sa de fotbal, Bechem United, activează în prima ligă națională.",
+        "Este reședința istorică și administrativă a Districtului Tano South.",
+        "Populația locală obține venituri din producția masivă de banane (plantain).",
+        "Tradiția orală indică zona ca un refugiu vechi pe timp de război.",
+        "Găzduiește multiple colegii pentru pregătirea asistentelor și infirmierelor."
+      ]
+    },
+    {
+      "id": "denu-cities-v2",
+      "descriptionAdvanced": "Denu este principalul centru urban civil de pe coasta sud-estică a Ghanei, ocrotit sub palmierii falnici din Regiunea Volta. Funcționând la unison cu Aflao, acest oraș beneficiază de un amestec interesant de culturi transfrontaliere, cu numeroși cetățeni ce fac naveta între țările vecine. Denu este mai degrabă baza administrativă, găzduind agenții guvernamentale, spitalul districtual și instanțele, în timp ce comerțul zgomotos este lăsat vecinului său de graniță. Cultură K8 — administrația de graniță.",
+      "factsAdvanced": [
+        "Funcționează ca baza administrativă a districtului municipal Ketu South.",
+        "Se află la doar câțiva kilometri de linia de graniță cu Togo.",
+        "Terenul său este complet plan, caracteristic fâșiei de coastă Denu.",
+        "Are numeroase resorturi și hoteluri preferate de funcționarii vamali.",
+        "Populația dominantă a zonei face parte din grupul etnic Ewe.",
+        "Spitalul din Denu este unitatea de referință pentru urgențele de pe frontiera estică."
+      ]
+    },
+    {
+      "id": "anloga-cities-v2",
+      "descriptionAdvanced": "Anloga se bucură de un statut sacru și respectat, fiind capitala spirituală milenară a etniei Anlo Ewe din estul extrem al Ghanei. Găzduit într-un peisaj nisipos între Laguna Keta masivă și valurile Oceanului Atlantic, orașul a supraviețuit veacuri de amenințări prin izolare și tenacitate. Agricultura inovatoare domină, localnicii folosind irigarea intensivă pe soluri nisipoase (sistemul de paturi raised) pentru a produce tone de șalote și roșii. Cultură K7 — inovații agricole pe nisip.",
+      "factsAdvanced": [
+        "Este sediul curții tradiționale supreme a poporului Anlo Ewe.",
+        "Găzduiește celebrul festival Hogbetsotso, care atrage turiști anual.",
+        "Fermierii de aici cultivă șalote legendare (mici cepe) folosind paturi de nisip irigate.",
+        "Sunt expuși unor riscuri masive din cauza ridicării nivelului oceanelor.",
+        "Arhitectura tradițională folosește frecvent ramuri de palmier pentru acoperișuri.",
+        "Istoria sa abundă în conflicte precoloniale pentru controlul rutelor lagunare."
+      ]
+    },
+    {
+      "id": "ghana-tema-port",
+      "descriptionAdvanced": "Portul Tema, situat strategic pe coasta sudică a Ghanei, reprezintă cel mai masiv și mai avansat terminal logistic din întreaga țară. Inaugurat oficial în anul 1962 de președintele Kwame Nkrumah, portul a fost proiectat pentru a transforma Ghana într-o putere industrială independentă. Astăzi, el gestionează peste 70% din comerțul internațional al națiunii, cu o capacitate enormă de manipulare a containerelor și terminale specializate pentru ciment, aluminiu și produse petroliere, servind chiar și țările vecine fără ieșire la mare (Burkina Faso, Mali). Economie K8 — infrastructura portuară africană.",
+      "factsAdvanced": [
+        "A fost inaugurat oficial în luna februarie a anului 1962.",
+        "Gestionează anual peste 70% din totalul importurilor și exporturilor Ghanei.",
+        "Terminalul său modern MPS Terminal 3 a costat aproximativ 1,5 miliarde de dolari.",
+        "Construcția sa a impus relocarea completă a unui sat pescăresc antic.",
+        "Oferă un traseu de tranzit esențial pentru națiunile africane izolate terestru.",
+        "Deține diguri masive care pătrund peste 3 kilometri în largul Oceanului Atlantic."
+      ]
+    },
+    {
+      "id": "ghana-takoradi-port",
+      "descriptionAdvanced": "Portul Takoradi se distinge prin faptul că este cel mai vechi port comercial de mare adâncime din istoria Ghanei, deschizându-și porțile în 1928. Poziționat optim în Regiunea de Vest, el se concentrează pe facilitarea exporturilor bogate din regiune: cantități uriașe de mangan, bauxită, cherestea și boabe de cacao sunt încărcate zilnic. După descoperirea zăcămintelor de petrol din anul 2007, portul și-a extins substanțial baza operațională pentru a susține flotele navelor de aprovizionare offshore. Economie K7 — porturi și export de materii prime.",
+      "factsAdvanced": [
+        "Este considerat prima facilitate portuară modernă de mare adâncime din Ghana.",
+        "A fost deschis oficial în timpul guvernării coloniale britanice în 1928.",
+        "Prelucrează aproape integral exporturile naționale de mangan și bauxită.",
+        "Servește ca bază logistică principală pentru câmpurile petroliere Jubilee din larg.",
+        "În timpul celui de-al Doilea Război Mondial, a găzduit hidroavioane britanice (Sunderlands).",
+        "Se află într-un amplu proces de extindere pentru primirea navelor de tonaj gigant."
+      ]
+    },
+    {
+      "id": "ghana-anglogold-ashanti",
+      "descriptionAdvanced": "Mina AngloGold Ashanti din Obuasi este o forță colosală a industriei miniere mondiale, ale cărei rezerve aurifere par nesfârșite. Această exploatare, inaugurată la sfârșitul secolului al XIX-lea, a dominat viața din Regiunea Ashanti, atrăgând forță de muncă și capital internațional. Caracterizată prin tunele extrem de adânci (ajungând la mii de metri sub nivelul mării), mina ilustrează provocările geologice imense asociate extracției industriale la mare adâncime, alături de modernizările tehnologice recente care utilizează sisteme automatizate. Economie K8 — gigantism minier.",
+      "factsAdvanced": [
+        "Primele operațiuni miniere moderne au început aici în anul 1897.",
+        "Este una dintre cele mai profunde mine operaționale din lume.",
+        "A produs zeci de milioane de uncii de aur de la deschiderea sa.",
+        "Este pivotul economic și ocupațional pentru orașul Obuasi.",
+        "Procesele de extragere presupun provocări extreme legate de ventilare și stabilitate.",
+        "A trecut recent printr-o pauză operațională pentru modernizarea completă a utilajelor."
+      ]
+    },
+    {
+      "id": "ghana-tarkwa-mine",
+      "descriptionAdvanced": "Mina Tarkwa Gold Fields este epicentrul extracției aurifere de suprafață (open-pit) din Africa de Vest. Amplasată printre dealurile din Regiunea de Vest a Ghanei, mina se extinde pe zone masive de unde roca este escavată cu mașinării de mărimea unor clădiri. Spre deosebire de exploatările subterane adânci, acest sit utilizează tehnici gigantice de mutare a pământului pentru a accesa straturile fine de minereu răspândite aproape de suprafață. Eficiența și amploarea sa au transformat orașul din apropiere, Tarkwa. Economie K7 — extracția minieră de suprafață.",
+      "factsAdvanced": [
+        "Reprezintă cea mai extinsă mină de suprafață administrată de compania Gold Fields.",
+        "Producția sa anuală a depășit frecvent 500.000 de uncii de aur.",
+        "Are zeci de utilaje imense, inclusiv basculante ce pot căra peste 200 de tone.",
+        "Procesează straturi specifice de rocă sedimentară faimoase pe plan global (Tarkwaian).",
+        "Atragerea masivă de forță de muncă a extins rapid așezările locale limitrofe.",
+        "Posedă programe ecologice dedicate refacerii zonelor de pădure decopertate."
+      ]
+    },
+    {
+      "id": "ghana-awaso-bauxite",
+      "descriptionAdvanced": "Mina Awaso este unică pe teritoriul Ghanei, fiind prima și cea mai bogată sursă comercială de extracție a bauxitei, materia primă necesară producției de aluminiu. Începând cu anii 1940, mineralul prețios a fost excavat din solurile roșiatice de laterit ale dealurilor înalte, de unde era apoi expediat masiv folosind calea ferată direct spre portul din Takoradi. Această mină singură sprijină întregul efort național de a crea o ramură integrată a prelucrării aluminiului, un vis îndelungat al politicienilor ghanezi. Economie K8 — bauxita și lanțul de aluminiu.",
+      "factsAdvanced": [
+        "Este cea mai veche mină de bauxită funcțională de pe teritoriul național.",
+        "Operațiunile de extracție masivă au demarat în timpul anilor 1940.",
+        "Minereul brut extras este de o culoare roșiatică intensă, bogat în fier.",
+        "Este administrată în prezent de corporația Ghana Bauxite Company.",
+        "Exportul depinde puternic de o linie de cale ferată învechită spre ocean.",
+        "Este esențială pentru visul Ghanei de a avea o industrie a aluminiului completă."
+      ]
+    },
+    {
+      "id": "ghana-nsuta-manganese",
+      "descriptionAdvanced": "Dealurile din apropierea Nsuta sunt dominate de singura mină comercială de mangan din Ghana, operată fără întrerupere de la descoperirea zăcământului în anul 1914. Manganul obținut de aici are un impact direct asupra industriei globale, fiind esențial pentru fabricarea oțelului de duritate superioară și a bateriilor electrice. Amplasată ideal foarte aproape de orașul Tarkwa și conectată direct la calea ferată, mina reușește să își transporte rapid marfa grea către porturile din sud. Economie K6 — minerale industriale rare.",
+      "factsAdvanced": [
+        "Singurul sit major de extracție a manganului de pe cuprinsul Ghanei.",
+        "Zăcământul a fost descoperit oficial și recunoscut în anul 1914.",
+        "Manganul extras aici conține adesea o puritate foarte ridicată de carbonat.",
+        "Mina a furnizat resurse cruciale pentru industria oțelului în cel de-al Doilea Război Mondial.",
+        "Peste o sută de mii de tone sunt încărcate și exportate lunar prin tren.",
+        "Utilizează exclusiv tehnici masive de terasare și excavare la suprafață."
+      ]
+    },
+    {
+      "id": "ghana-akwatia-diamonds",
+      "descriptionAdvanced": "Câmpul Diamantifer Akwatia acoperă valea fluviului Birim, formând inima de necontestat a extracției aluviale de diamante din Ghana. Spre deosebire de alte țări africane cu mine kimberlitice de mare adâncime, aici pietrele prețioase sunt ascunse în straturile de prundis antic. Din anul 1924, escavatoare masive și tehnologii de spălare a solului au filtrat diamante de uz industrial și geme pure. În prezent, zona are un aspect apocaliptic de sol scos la lumină, dominat adesea de mici grupuri de mineri informali (Tributers). Economie K7 — extracția diamantelor.",
+      "factsAdvanced": [
+        "A dominat complet producția ghaneză de diamante încă din anul 1924.",
+        "Marea majoritate a diamantelor extrase (peste 70%) sunt de uz strict industrial.",
+        "Nu există „tuburi” de rocă kimberlit, extracția depinzând de straturi aluviale spălate.",
+        "Mii de excavatori neoficiali obțin permise temporare de la consiliile tradiționale.",
+        "Zonă masivă este plină de gropi deschise umplute cu apă stătătoare.",
+        "Punctul istoric de referință al regiunii este compania defunctă GCD."
+      ]
+    },
+    {
+      "id": "ghana-jubilee-oil",
+      "descriptionAdvanced": "Câmpul Petrolier Jubilee este coroana offshore a noii economii a Ghanei, ascuns sub sute de metri de ape agitate în Golful Guineei. Descoperit cu mare pompă mediatică în anul 2007, a plasat rapid statul vest-african pe lista globală a producătorilor de aur negru. Producția sa depinde de o mega-navă specială (FPSO Kwame Nkrumah), o fabrică plutitoare autonomă capabilă să stocheze cantități uriașe de țiței extrase de pe fundul mării, susținând un viitor economic promițător. Economie K8 — industria petrolieră marină.",
+      "factsAdvanced": [
+        "A fost prima descoperire comercială majoră de petrol din istoria statului (2007).",
+        "Primele barili de țiței brut au fost pompate oficial în anul 2010.",
+        "Nava sa de producție poartă numele primului președinte, Kwame Nkrumah.",
+        "Este administrat central de consorțiul internațional Tullow Oil.",
+        "Produce peste 100.000 de barili de petrol brut ușor zilnic, extrem de căutat.",
+        "Include zeci de puțuri conectate prin conducte la mare adâncime marină."
+      ]
+    },
+    {
+      "id": "ghana-tema-oil-refinery",
+      "descriptionAdvanced": "Tema Oil Refinery (TOR) este singura și grandioasa instalație de rafinare a țițeiului brut din Ghana, servind drept monument al ambițiilor industriale ale erei Kwame Nkrumah (1963). Instalația transformă cantități imense de petrol vâscos în carburanți rafinați - benzină, motorină, kerosen și gaze lichefiate, necesari vieții zilnice și transportului național. Deși uzina s-a confruntat adesea cu provocări tehnice și financiare grele, funcționarea ei rămâne o componentă esențială pentru asigurarea securității energetice naționale africane. Economie K8 — procesarea țițeiului.",
+      "factsAdvanced": [
+        "Este singura rafinărie de stat operativă din toate granițele Ghanei.",
+        "Piatra de temelie a fost pusă și producția a început în anul 1963.",
+        "Are o capacitate oficială de procesare estimată la 45.000 de barili pe zi.",
+        "Prezintă o vastă rețea de stocare formată din zeci de rezervoare sferice gigantice.",
+        "Incapacitatea financiară a blocat uneori funcționarea ei luni de zile.",
+        "Se conectează direct la docurile portuare pentru descărcarea din petroliere."
+      ]
+    },
+    {
+      "id": "ghana-valco-aluminum",
+      "descriptionAdvanced": "Topitoria de Aluminiu VALCO domină priveliștea industrială din portul Tema și rămâne unul dintre cele mai mari proiecte de industrializare din Africa de Vest de după independență. Baza sa operațională implică consumul enorm al energiei ieftine generate de barajul Akosombo, esențială pentru topirea pudrei de alumină brută prin electroliză la temperaturi colosale. Când funcționează la capacitate maximă, metalul pur produs alimentează exporturi globale și fabrici locale specializate în foi și utilaje metalice. Economie K8 — metalurgie și energie electrică.",
+      "factsAdvanced": [
+        "A fost inaugurată ca un simbol uriaș al industrializării în anul 1967.",
+        "Topirea prin electroliză se bazează puternic pe prezența hidroenergiei ieftine.",
+        "Este în mod curent deținută în totalitate de guvernul ghanez (după achiziția din 2008).",
+        "Dispune de sute de „celule” masive (potlines) pentru separarea metalului din alumină.",
+        "Fluctuațiile în nivelul apei de pe Lacul Volta cauzează dese opriri de producție.",
+        "A fost proiectată pentru a procesa resursele enorme de bauxită ale Ghanei."
+      ]
+    },
+    {
+      "id": "ghana-takoradi-thermal",
+      "descriptionAdvanced": "Stația Termoelectrică Takoradi, situată exact la periferia portului Abaodze, acționează ca un scut vital împotriva lipsei de electricitate ale cărei secete dese o impun. Este prima și cea mai importantă centrală termică majoră a țării, utilizând turbine care ard o combinație curată de gaze naturale și țiței ușor. Peisajul său este definit de coșuri imense ce emană aburi în briză, garantând energia esențială pentru iluminarea caselor ghaneze când barajele hidroelectrice masive din nord nu au apă. Geografie K7 — mixul energetic și securitatea rețelei.",
+      "factsAdvanced": [
+        "Este un complex energetic imens operat în mare măsură de autoritatea de stat VRA.",
+        "Inaugurarea și prima etapă au pornit turbinele în anul 1997.",
+        "Utilizează direct gaz natural livrat de conducta vest-africană (WAGP) și gaz autohton.",
+        "Are o putere operațională maximă combinată ce depășește adesea 330 de Megawați.",
+        "Se sprijină pe un sistem cu ciclu combinat, recuperând excesul de căldură pentru eficiență.",
+        "Localizarea de coastă a ușurat enorm importurile masive de combustibil pe mare."
+      ]
+    },
+    {
+      "id": "ghana-chirano-gold",
+      "descriptionAdvanced": "Mina de Aur Chirano este un model fascinant de extracție duală ascunsă în verdeața deluroasă a Regiunii Western North din Ghana. Spre deosebire de exploatările clasice de suprafață, Chirano a evoluat de la o groapă minieră tradițională la un complex vast de tunele tehnologizate care intră adânc în stânca vulcanică (underground mining). Mina se remarcă național prin abordarea inovatoare, fiind una dintre primele ce au implementat parcuri solare proprii și utilaje electrice, vizând un viitor energetic autonom și mai curat în extracție. Economie K8 — mineritul hibrid.",
+      "factsAdvanced": [
+        "Include operațiuni moderne combinate de suprafață deschisă și adâncime (underground).",
+        "Poziționarea geografică traversează coridorul forestier Bibiani dens și productiv.",
+        "Piatra prețioasă este măcinată și prelucrată folosind metoda lixivierii din rezervoare mari.",
+        "A fost integrată în portofoliul masiv al corporației internaționale Asante Gold.",
+        "Furnizează zeci de mii de locuri de muncă sigure populației adiacente din Sefwi.",
+        "Susține un nivel foarte ridicat de proiecte de ecologizare în comunitățile locale."
+      ]
+    },
+    {
+      "id": "ghana-iduapriem-gold",
+      "descriptionAdvanced": "Mina de Aur Iduapriem, gestionată cu eficiență riguroasă de AngloGold Ashanti, este un punct culminant al peisajului din districtul Tarkwa. Acest gigant minier de suprafață utilizează pe o scară copleșitoare flotile de camioane imense care decopertează straturi sedimentare antice de rocă dură cunoscute drept „conglomerate”. Complexul este renumit pe plan african pentru fabricile sale de steril cu randament ridicat, unde fiecare tonă de stâncă zdrobită este analizată meticulos pentru a obține o producție considerabilă. Geografie K8 — metode de prelucrare de suprafață.",
+      "factsAdvanced": [
+        "Operează masiv doar prin tehnica excavării sedimentare deschise (open-pit).",
+        "Geologia minereului conține structuri sedimentare tari, similare cu Tarkwa.",
+        "Zilnic sunt manipulate, zdrobite și separate mii de tone de piatră inferioară.",
+        "Comunitățile rurale din regiune depind aproape exclusiv de locurile ei de muncă.",
+        "A fost lăudată constant pentru sistemele de siguranță la nivel de excelență.",
+        "Este capabilă să producă zeci de lingouri (dore) uriașe complet neprelucrate pe săptămână."
+      ]
+    },
+    {
+      "id": "ghana-bogoso-gold",
+      "descriptionAdvanced": "Bogoso Prestea Mine constituie o axă esențială în centura istorică minieră Ashanti, marcată de treceri tumultoase prin istoria secolului XX. Resursele sale sunt adesea minereuri „refractare”, adică roci dificile în care particulele de aur sunt prinse capcană într-o matrice microscopică de sulfuri, necesitând metode foarte speciale de coacere și filtrare chimică pentru eliberare (BIOX). Deși presiunea financiară o obligă adesea la restructurări de corporație, mina reprezintă un epicentru crucial al experienței inginerești. Geografie K8 — roci refractare.",
+      "factsAdvanced": [
+        "Include faimoasele tunele miniere subterane adiacente ale rețelei Prestea.",
+        "Utilizează frecvent instalații complexe și foarte rare de oxidare biologică (BIOX).",
+        "Posedă o concentrație mare de stâncă ce necesită metode chimice grele de purificare.",
+        "Calea de acces principală și rețeaua electrică au fost create datorită existenței minei.",
+        "Mina a schimbat numeroși proprietari internaționali din dorința obținerii de randament.",
+        "Se luptă în zonele de suprafață cu prezența unor tabere imense de mineri ilegali (galamsey)."
+      ]
+    },
+    {
+      "id": "ghana-ahafo-gold",
+      "descriptionAdvanced": "Mina Ahafo, un munte de productivitate din inima Regiunii Ahafo, poartă pecetea prestigiosului grup american Newmont. După deschiderea sa uimitoare din 2006, complexul format din mai multe gropi uriașe excavate (Subika, Awonsu) a generat o dezvoltare frenetică a orașelor anterior liniștite, ca Kenyasi. Cu baraje de retentie uriașe și utilaje computerizate de la distanță, mina reprezintă vârful de lance absolut al modernizării tehnologice pe teritoriul african, setând o ștachetă neegalată de sustenabilitate. Economie K8 — megaproiecte nord-americane.",
+      "factsAdvanced": [
+        "Producția inițială și turnarea primelor volume de aur a luat startul în anul 2006.",
+        "Acest complex masiv este administrat oficial de corporația Newmont Corporation.",
+        "Zăcămintele variază și sunt concentrate pe mai multe puțuri și exploatări de adâncime.",
+        "Deține recorduri de rentabilitate financiară uriașe comparativ cu minele vest-africane.",
+        "Găzduiește un amplu program de bursieri ce favorizează rezidenții locali dezavantajați.",
+        "Se remarcă printre toate exploatările naționale prin investițiile sale majore în drumuri locale."
+      ]
+    }
+  ]
+}

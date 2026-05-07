@@ -1,0 +1,315 @@
+{
+  "lang": "en",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiNatureV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "petit-goave-port-economic-v2",
+      "descriptionAdvanced": "The Port of Petit-Goâve serves as a vital maritime link in the Ouest department, located strategically along the southern coast of the Gulf of Gonâve. Although smaller than the neighboring Miragoâne port, it plays a critical role in the regional cabotage network, facilitating the transport of agricultural goods such as coffee, sweet potatoes, and mangoes to the capital. The facility features a modest pier designed for regional wooden freighters and small commercial vessels. Following the construction of Route Nationale 2, the port's focus shifted primarily to bulk material importation, including cement and timber, which are essential for regional construction. The local fishing fleet also relies heavily on the port's protected anchorage, making it a bustling center for the daily seafood market. Ensuring the structural integrity of this port against coastal erosion is a continuous challenge for municipal authorities. Geography K7 — coastal trade centers.",
+      "factsAdvanced": [
+        "Located in the Ouest department on the southern coast of the Gulf of Gonâve.",
+        "Facilitates regional cabotage transporting coffee and mangoes to Port-au-Prince.",
+        "Features a modest pier accommodating wooden freighters and small commercial ships.",
+        "Crucial for the bulk importation of construction materials like cement and timber.",
+        "Provides a protected anchorage heavily utilized by the local artisanal fishing fleet.",
+        "Acts as the central economic hub for the town's vibrant daily seafood market."
+      ]
+    },
+    {
+      "id": "saint-louis-du-sud-port-economic-v2",
+      "descriptionAdvanced": "Situated in the Sud department, the Port of Saint-Louis-du-Sud is a historically significant deep-water bay that currently functions as a specialized local maritime hub. Once a heavily fortified colonial port, its modern operations are predominantly focused on the export of raw agricultural products, particularly raw sugar cane, vetiver, and diverse tropical fruits. The exceptionally calm waters of the bay, protected by a series of small barrier islands, make it an ideal safe harbor during hurricane season. While large-scale international shipping has moved to Les Cayes, Saint-Louis maintains a robust coastal trade network serving isolated coastal communities. The area is also highly regarded for its thriving artisanal crustacean fishery, supplying fresh lobster and crab to upscale markets and hotels across the southern peninsula. Economics K7 — specialized regional hubs.",
+      "factsAdvanced": [
+        "Features a naturally protected deep-water bay in the Sud department.",
+        "Historically a major colonial port, now focused on local agricultural exports.",
+        "Serves as a primary safe harbor for regional vessels during hurricane season.",
+        "Facilitates coastal trade of raw sugar cane, vetiver roots, and tropical fruits.",
+        "Renowned for a thriving artisanal fishery specializing in high-value crustaceans.",
+        "Provides essential maritime connections for isolated communities in the southern peninsula."
+      ]
+    },
+    {
+      "id": "bainet-fishing-economic-v2",
+      "descriptionAdvanced": "The Bainet Fishing Industry forms the economic backbone of this isolated coastal commune in the Sud-Est department. Facing the turbulent waters of the Caribbean Sea, the local fishermen rely on deep-sea techniques to catch pelagic species such as tuna, mahi-mahi, and kingfish. The industry operates almost entirely on an artisanal scale, with cooperatives slowly integrating motorized fiberglass boats to safely navigate the rough southern swells. A significant portion of the daily catch is immediately processed using traditional sun-drying and salting methods, a crucial preservation technique in an area with limited access to reliable electricity. These preserved fish, locally known as 'pwason sel', are highly valued commodities traded extensively in the inland markets of Jacmel and beyond. The fishing sector provides the primary source of cash income for the majority of families residing in the Bainet coastal zone. Agriculture K7 — traditional marine preservation.",
+      "factsAdvanced": [
+        "Located in the Sud-Est department facing the open Caribbean Sea.",
+        "Focuses on deep-sea artisanal fishing for pelagic species like tuna and mahi-mahi.",
+        "Cooperatives utilize motorized fiberglass vessels to navigate rough southern swells.",
+        "Relies heavily on traditional sun-drying and salting methods for fish preservation.",
+        "Produces 'pwason sel' (salted fish) which is highly traded in inland markets.",
+        "Serves as the primary source of cash income for the Bainet coastal communities."
+      ]
+    },
+    {
+      "id": "les-anglais-fishing-economic-v2",
+      "descriptionAdvanced": "Situated at the far western edge of the southern peninsula in the Sud department, the Les Anglais Fishing Industry thrives in an area rich with marine biodiversity. The local economy is defined by near-shore net fishing and the trapping of reef species, operating in the shallow coastal waters near the mouth of the Les Anglais River. Fishermen here primarily use non-motorized, hand-carved canoes to sustainably harvest snapper, parrotfish, and conch. Due to the extreme geographic isolation of the town, nearly all the catch is consumed locally or sold in immediate neighboring communes. Recent environmental initiatives by local NGOs aim to establish protected marine zones to ensure the long-term viability of the fish stocks, combatting the threat of habitat degradation. This localized industry is a vital food security mechanism for the commune. Agriculture K7 — sustainable coastal foraging.",
+      "factsAdvanced": [
+        "Operates at the far western edge of the southern peninsula in the Sud department.",
+        "Characterized by near-shore net fishing and traditional reef species trapping.",
+        "Local fishermen primarily utilize traditional, hand-carved non-motorized canoes.",
+        "Most of the harvest, including snapper and conch, is consumed within the local commune.",
+        "NGO initiatives are currently working to establish localized protected marine zones.",
+        "Acts as a critical food security mechanism due to the geographic isolation of the town."
+      ]
+    },
+    {
+      "id": "port-au-prince-airport-cargo-economic-v2",
+      "descriptionAdvanced": "The Port-au-Prince Airport Cargo Terminal, located adjacent to the Toussaint Louverture International Airport, is Haiti's premier air freight logistics hub. This facility is indispensable for the rapid importation of high-value goods, critical medical supplies, perishable pharmaceuticals, and expedited mail. In 2012, the terminal underwent significant expansion to handle an increased volume of humanitarian aid and commercial electronics, currently processing thousands of metric tons of cargo annually. The complex includes specialized cold-storage warehousing necessary for vaccines and sensitive agricultural exports like premium Haitian mangoes bound for the US market. Operating 24/7, the cargo terminal directly integrates with the nearby Cité Soleil industrial zones, providing vital, fast-tracked supply chain solutions for the textile manufacturing sector. The facility's efficiency is closely monitored by the National Airport Authority (AAN). Economics K8 — international air logistics.",
+      "factsAdvanced": [
+        "Haiti's premier air freight hub, adjacent to Toussaint Louverture International Airport.",
+        "Essential for importing critical medical supplies, pharmaceuticals, and high-value electronics.",
+        "Features specialized cold-storage facilities for sensitive goods and premium agricultural exports.",
+        "Processes thousands of metric tons of international cargo on an annual basis.",
+        "Provides fast-tracked logistics for the nearby Cité Soleil textile manufacturing sector.",
+        "Managed under the strict supervision of the National Airport Authority (AAN)."
+      ]
+    },
+    {
+      "id": "fort-brossard-history-v2",
+      "descriptionAdvanced": "Fort Brossard is a significant, yet lesser-known, historical fortification situated in the rugged terrain of the Nord department. Constructed during the intense period of militarization following Haiti's independence in 1804, it was part of Emperor Jean-Jacques Dessalines' strategic defensive network designed to repel potential French reinvasion. Positioned on a high ridge, the fort offered commanding views of the surrounding valleys, allowing garrisons to monitor troop movements inland from the coast. The structure was built using local limestone and heavy masonry, intended to withstand prolonged artillery sieges. Although now largely in ruins and reclaimed by thick tropical vegetation, the foundations and remnants of canon emplacements remain visible. Fort Brossard serves as a poignant archaeological reminder of the immense resources and labor the newly formed nation dedicated to preserving its hard-won freedom. History K8 — post-independence military strategy.",
+      "factsAdvanced": [
+        "Constructed shortly after Haiti's declaration of independence in 1804.",
+        "Formed part of Emperor Dessalines' inland defensive network against French reinvasion.",
+        "Strategically positioned on a high ridge to monitor inland troop movements.",
+        "Built utilizing heavy masonry and locally sourced limestone for artillery resistance.",
+        "Currently exists as a ruined archaeological site reclaimed by tropical vegetation.",
+        "Visible remnants include massive foundational walls and old canon emplacements."
+      ]
+    },
+    {
+      "id": "habitation-val-fleury-history-v2",
+      "descriptionAdvanced": "Habitation Val Fleury is the ruins of a prominent French colonial plantation located in the agriculturally rich Ouest department. During the late 18th century, prior to the Haitian Revolution, this estate was a highly profitable center for the cultivation and processing of indigo and coffee, relying entirely on the brutal system of enslaved African labor. The site still features the sprawling stone foundations of the master's house, extensive terraced processing basins, and the remnants of an aqueduct system used to power the plantation's grinding mills. In 1791, during the initial massive uprisings of the Revolution, Val Fleury was largely destroyed by insurgent forces seeking to dismantle the infrastructure of the plantation economy. Today, the ruins are studied by historians to understand the spatial layout and industrial scale of colonial-era wealth extraction in Saint-Domingue. History K8 — colonial plantation economies.",
+      "factsAdvanced": [
+        "A former French colonial plantation located in the Ouest department.",
+        "Specialized in the lucrative cultivation and processing of indigo and coffee.",
+        "Relied entirely on the systemic exploitation of enslaved African laborers.",
+        "Features remnants of extensive stone processing basins and a water-powered aqueduct.",
+        "Largely destroyed by insurgent forces during the massive uprisings of 1791.",
+        "Studied by modern historians to analyze the industrial scale of colonial Saint-Domingue."
+      ]
+    },
+    {
+      "id": "fort-de-la-riviere-blanche-history-v2",
+      "descriptionAdvanced": "Fort de la Rivière Blanche is a historic colonial-era redoubt located near the banks of the Rivière Blanche in the Artibonite department. Originally established by French colonial forces in the mid-18th century, it was designed to protect the highly lucrative sugar plantations of the Artibonite Valley from both internal slave revolts and incursions by rival European powers. The fort features a classic star-shaped bastion design, complete with deep defensive moats and thick brick walls that once housed a garrison of over a hundred soldiers. During the Haitian Revolution, the fort changed hands multiple times, serving as a critical strategic chokepoint controlling access to the fertile plains. Following independence, it was briefly utilized by the Haitian military before being gradually abandoned. The site remains an important historical marker of the intense militarization of the colonial agricultural zones. History K7 — colonial defensive architecture.",
+      "factsAdvanced": [
+        "Established by French colonial forces in the mid-18th century in the Artibonite department.",
+        "Designed to protect lucrative sugar plantations from slave revolts and foreign attacks.",
+        "Features a classic star-shaped bastion design with deep defensive moats.",
+        "Housed a permanent colonial military garrison of over a hundred soldiers.",
+        "Served as a highly contested strategic chokepoint during the Haitian Revolution.",
+        "Reflects the intense militarization required to maintain the colonial plantation economy."
+      ]
+    },
+    {
+      "id": "habitation-du-sud-history-v2",
+      "descriptionAdvanced": "Habitation du Sud is a sprawling historical site located in the Sud department, representing the remnants of one of the largest colonial sugar estates on the southern peninsula. Operating at peak capacity during the 1780s, the plantation was a massive industrial complex that included boiling houses, curing rooms, and a towering stone windmill used to crush raw sugarcane. The wealth generated by this estate contributed significantly to the booming export economy of nearby colonial ports. The brutal working conditions on the estate fueled deep-seated resistance among the enslaved population, which culminated in the estate's burning during the revolutionary wars. The surviving structures, particularly the massive stone windmill tower, remain standing today as solemn monuments. The site is frequently visited by researchers analyzing the intersection of colonial industrial architecture and the history of enslaved resistance. History K8 — colonial sugar production.",
+      "factsAdvanced": [
+        "Located in the Sud department, formerly one of the largest regional sugar estates.",
+        "Operated at peak industrial capacity during the booming colonial era of the 1780s.",
+        "Included massive boiling houses, curing rooms, and a stone windmill for crushing cane.",
+        "The brutal conditions on the estate fueled significant resistance among the enslaved population.",
+        "Largely burned and dismantled during the revolutionary wars for independence.",
+        "The surviving stone windmill tower serves as a prominent historical monument today."
+      ]
+    },
+    {
+      "id": "haiti-fort-biche-landmarks-v2",
+      "descriptionAdvanced": "Fort Biche is a formidable early 19th-century military stronghold perched defensively in the mountains of the Artibonite department. Commissioned by King Henri Christophe around 1807, the fortress was strategically built to guard the vital mountain passes connecting the northern kingdom to the central valleys against potential French invasion forces. Its massive walls, constructed from hand-hewn limestone blocks, feature numerous gun ports specifically angled to command the steep approach trails. Because of its remote elevation, supplying the fort required immense logistical effort, demonstrating the new nation's total commitment to maintaining its sovereignty. Although it never saw major combat against European powers, Fort Biche was later used during various internal conflicts in the mid-19th century. Today, the overgrown ruins offer sweeping panoramic views and serve as an important symbol of Haitian resilience and architectural engineering. History K8 — early Haitian state defense.",
+      "factsAdvanced": [
+        "Commissioned by King Henri Christophe around 1807 in the Artibonite mountains.",
+        "Built to guard vital mountain passes against anticipated French reinvasion forces.",
+        "Constructed using massive hand-hewn limestone blocks with angled artillery ports.",
+        "Required immense logistical effort to supply due to its high, remote elevation.",
+        "Later utilized as a regional stronghold during mid-19th-century internal conflicts.",
+        "Offers sweeping panoramic views and stands as a symbol of early national resilience."
+      ]
+    },
+    {
+      "id": "haiti-fort-st-joseph-landmarks-v2",
+      "descriptionAdvanced": "Fort St. Joseph is a historic coastal battery located near the city of Cap-Haïtien in the Nord department. Initially constructed by French colonial engineers in the 1740s to defend the wealthy harbor of Cap-Français from British and Spanish naval attacks, the fort was heavily armed with heavy bronze cannons. During the Haitian Revolution, the fort played a crucial role during the Battle of Cap-Français in 1793, where it was fiercely contested by revolutionary forces. Following independence, the Haitian military upgraded the fort to incorporate it into the northern coastal defense network. The structure is characterized by its semicircular seawall and low-profile design, meant to ricochet incoming naval cannon fire. Today, the partially restored ruins of Fort St. Joseph are a popular landmark, offering visitors insight into the intense maritime conflicts of the 18th and 19th centuries. History K7 — coastal colonial defenses.",
+      "factsAdvanced": [
+        "Located near the coastal city of Cap-Haïtien in the Nord department.",
+        "Initially constructed by the French in the 1740s to defend the harbor from naval attacks.",
+        "Played a critical, fiercely contested role during the 1793 Battle of Cap-Français.",
+        "Upgraded by the Haitian military post-independence for coastal defense.",
+        "Features a distinctive semicircular seawall designed to deflect incoming naval artillery.",
+        "Currently serves as a partially restored historical landmark open to visitors."
+      ]
+    },
+    {
+      "id": "cotes-de-fer-agri-life-v2",
+      "descriptionAdvanced": "The Côtes-de-Fer Coffee Cultivation zone, located in the mountainous terrain of the Sud-Est department, represents a deeply traditional agricultural lifestyle. The region's high altitude, cool microclimate, and rich volcanic soil provide optimal conditions for growing Arabica coffee under a dense canopy of shade trees. Local farming families manage small, inherited plots (jardins) using organic methods passed down for generations, relying entirely on manual labor to harvest the ripe coffee cherries between October and January. The beans are sun-dried on large concrete patios in the villages before being sold to regional cooperatives. This traditional agroforestry system not only produces high-quality, specialty coffee but also protects the steep mountainsides from severe soil erosion. Coffee cultivation remains the primary cultural and economic anchor for the rural communities of Côtes-de-Fer. Agriculture K7 — traditional agroforestry.",
+      "factsAdvanced": [
+        "Located in the high-altitude mountainous terrain of the Sud-Est department.",
+        "Specializes in the organic cultivation of high-quality Arabica coffee under shade trees.",
+        "Harvesting is done entirely by manual labor between October and January.",
+        "Beans are traditionally sun-dried on large concrete village patios.",
+        "The shade-grown agroforestry system critically protects steep slopes from soil erosion.",
+        "Provides the primary economic and cultural anchor for local rural families."
+      ]
+    },
+    {
+      "id": "ferme-ecologique-jacmel-life-v2",
+      "descriptionAdvanced": "The Jacmel Ecological Farm, situated in the verdant hills just outside the city of Jacmel in the Sud-Est department, is a pioneering center for sustainable agriculture and permaculture training. Founded as a community-driven initiative following the 2010 earthquake, the farm spans 15 hectares and focuses on combating deforestation and food insecurity through regenerative farming techniques. It serves as a living laboratory where local farmers learn contour terracing, composting, and the intercropping of nitrogen-fixing legumes with staple crops like maize and beans. The site also operates a large-scale tree nursery, distributing thousands of fruit and timber saplings annually to reforest the surrounding watershed. By integrating livestock management, such as goat and poultry rearing, the farm creates a closed-loop organic system. It stands as a vital educational hub promoting long-term environmental resilience in southern Haiti. Science K8 — sustainable agricultural practices.",
+      "factsAdvanced": [
+        "A 15-hectare permaculture training center located in the hills near Jacmel.",
+        "Founded as a community-driven resilience initiative following the 2010 earthquake.",
+        "Teaches regenerative techniques like contour terracing, composting, and intercropping.",
+        "Operates a large tree nursery distributing thousands of saplings for watershed reforestation.",
+        "Integrates livestock management to maintain a closed-loop, organic agricultural system.",
+        "Serves as a vital regional hub for education on environmental sustainability."
+      ]
+    },
+    {
+      "id": "parc-miraculeux-pa-p-life-v2",
+      "descriptionAdvanced": "The Port-au-Prince Children's Leisure Park, located in a relatively secure urban enclave of the capital, is a rare and essential recreational space dedicated to youth development. In a dense city with highly limited green spaces, this park provides a safe environment for thousands of children to engage in physical activities and organized sports. Supported by municipal authorities and international child-welfare NGOs, the park features structured playgrounds, miniature soccer pitches, and shaded pavilions for community educational workshops. On weekends, the area transforms into a vibrant cultural hub hosting youth theater performances, art classes, and local food vendors. The park plays a crucial psychological role, offering a sense of normalcy and trauma-relief for children growing up amidst the city's complex socio-economic challenges. It is recognized as a critical investment in the urban social fabric of Port-au-Prince. Social Studies K7 — urban community spaces.",
+      "factsAdvanced": [
+        "Located within a secure urban enclave in the dense capital of Port-au-Prince.",
+        "Provides a rare, safe recreational green space specifically dedicated to children.",
+        "Features structured playgrounds, miniature soccer pitches, and educational pavilions.",
+        "Supported by a coalition of municipal authorities and international child-welfare NGOs.",
+        "Hosts weekend cultural events including youth theater and local art classes.",
+        "Offers essential psychological relief and normalcy for children in a complex urban environment."
+      ]
+    },
+    {
+      "id": "bananenausbau-limonade-life-v2",
+      "descriptionAdvanced": "The Limonade Banana Plantations in the Nord department represent one of Haiti's most successful ventures into large-scale, modernized agriculture. Taking advantage of the fertile plains and high water table, these sprawling agricultural estates focus heavily on the cultivation of organic export-grade bananas and plantains. Supported by significant private investment, the plantations utilize advanced drip irrigation systems, mechanized harvesting cables, and dedicated packing facilities to meet stringent international quality standards. The project provides hundreds of formal, steady jobs for the local population, significantly boosting the rural economy. A core mission of the plantations is to re-establish Haiti as a competitive fruit exporter in the Caribbean and European markets, a status the country lost decades ago. Additionally, the farms supply a massive volume of staple plantains to the domestic market, enhancing national food security. Agriculture K8 — modern commercial farming.",
+      "factsAdvanced": [
+        "Sprawling agricultural estates located in the fertile plains of the Nord department.",
+        "Specializes in the large-scale cultivation of organic, export-grade bananas and plantains.",
+        "Utilizes advanced drip irrigation and mechanized cable systems for harvesting.",
+        "Includes dedicated packing facilities designed to meet international quality standards.",
+        "Provides hundreds of formal, stable agricultural jobs to the local rural population.",
+        "Aims to re-establish Haiti as a competitive fruit exporter in global markets."
+      ]
+    },
+    {
+      "id": "ferme-animaux-leogane-life-v2",
+      "descriptionAdvanced": "The Léogâne Animal Farm is a prominent livestock breeding and veterinary research facility situated in the agriculturally rich Léogâne Plain in the Ouest department. The farm is dedicated to improving the genetic stock and health of local livestock, focusing primarily on resilient breeds of goats, Creole pigs, and poultry that are well-adapted to the hot, humid Caribbean climate. It serves as a central distribution point, providing rural families with high-yield breeding animals to increase their household protein and income. Staffed by agronomists and veterinary technicians, the farm also conducts vital vaccination campaigns against regional diseases like Newcastle disease in poultry and swine fever. By teaching modern animal husbandry techniques—such as proper enclosed housing and balanced feed rationing—the facility plays a critical role in modernizing Haiti's largely informal livestock sector. Science K8 — animal husbandry and genetics.",
+      "factsAdvanced": [
+        "A prominent livestock breeding and research facility located in the Léogâne Plain.",
+        "Focuses on improving the genetics of goats, Creole pigs, and local poultry.",
+        "Distributes resilient, high-yield breeding animals to rural farming families.",
+        "Staffed by trained agronomists conducting vital regional vaccination campaigns.",
+        "Educates farmers on modern animal husbandry, enclosed housing, and feed rationing.",
+        "Plays a critical role in modernizing and securing Haiti's informal livestock sector."
+      ]
+    },
+    {
+      "id": "parc-nature-cayemites-life-v2",
+      "descriptionAdvanced": "The Cayemites Nature Park encompasses the fragile and highly biodiverse marine and terrestrial ecosystems of the Îles Cayemites, located in the Gulf of Gonâve off the coast of the Grand'Anse department. This protected area is recognized for its pristine coral reefs, extensive sea grass beds, and thick coastal mangrove forests, which serve as critical nurseries for regional fish populations and endangered sea turtles. The park was established to combat severe overfishing and destructive mangrove charcoal harvesting. Local conservation groups employ community rangers from the island's fishing villages to monitor the protected zones and enforce sustainable catch limits. The park also promotes eco-tourism, allowing visitors to experience the untouched beaches and unique avifauna of the islands. The preservation of the Cayemites is considered essential for maintaining the ecological balance of the entire southern Haitian coastline. Science K8 — marine ecosystem conservation.",
+      "factsAdvanced": [
+        "Encompasses the marine and terrestrial ecosystems of the Îles Cayemites in the Gulf of Gonâve.",
+        "Protects pristine coral reefs, sea grass beds, and vital coastal mangrove forests.",
+        "Serves as a critical natural nursery for regional fish populations and endangered sea turtles.",
+        "Established to combat severe threats from overfishing and mangrove charcoal harvesting.",
+        "Employs local fishermen as community rangers to monitor and enforce protected zones.",
+        "Promotes low-impact eco-tourism focused on untouched beaches and unique birdlife."
+      ]
+    },
+    {
+      "id": "jardin-education-haiti-life-v2",
+      "descriptionAdvanced": "The Haiti Learning and Teaching Garden, located on the outskirts of Port-au-Prince, is an innovative educational complex dedicated to environmental literacy and botanical conservation. Managed by a consortium of local educators and international botanists, the 5-hectare garden features categorized zones showcasing Haiti's diverse endemic flora, medicinal plants, and traditional staple crops. The facility is heavily utilized by urban schools, hosting thousands of students annually for hands-on field trips focused on biology, climate change adaptation, and national ecology. A major highlight is the medicinal garden, which preserves the knowledge of traditional Haitian herbal remedies (fey) used in rural healthcare. The site also functions as a seed bank for endangered native tree species. By physically reconnecting urban youth with their natural heritage, the garden fosters a new generation of environmental stewards. Science K7 — botanical education and conservation.",
+      "factsAdvanced": [
+        "A 5-hectare educational botanical complex located on the outskirts of Port-au-Prince.",
+        "Features categorized zones of endemic flora, staple crops, and medicinal plants.",
+        "Hosts thousands of urban students annually for hands-on biology field trips.",
+        "Preserves the traditional knowledge of Haitian herbal remedies and rural healthcare.",
+        "Functions as a critical active seed bank for endangered native tree species.",
+        "Managed by a consortium of local educators and international botanical experts."
+      ]
+    },
+    {
+      "id": "chaine-des-matheux-relief-v2",
+      "descriptionAdvanced": "The Chaîne des Matheux is a rugged, deeply fissured mountain range extending across the central-western region of Haiti, forming a natural border between the Artibonite and Ouest departments. Reaching elevations of over 1,500 meters, this predominantly limestone massif is characterized by dramatic karst topography, featuring numerous caves, subterranean rivers, and steep ravines. The range plays a critical hydro-geological role by capturing moisture from Caribbean trade winds, serving as the primary water catchment area that feeds the fertile Arcahaie plain below. Due to severe historical deforestation driven by agriculture and charcoal production, the slopes are highly susceptible to rapid runoff and soil erosion during heavy rains. Recently, environmental initiatives have focused on reforesting the upper ridges to stabilize the watershed and protect the downstream agricultural zones from catastrophic flooding. Geography K8 — karst topography and watersheds.",
+      "factsAdvanced": [
+        "A rugged limestone mountain range dividing the Artibonite and Ouest departments.",
+        "Reaches peak elevations exceeding 1,500 meters above sea level.",
+        "Characterized by dramatic karst topography including deep caves and subterranean rivers.",
+        "Acts as a critical water catchment area feeding the fertile Arcahaie plain.",
+        "Suffers from severe historical deforestation, making it susceptible to rapid soil erosion.",
+        "Currently the focus of watershed stabilization and reforestation initiatives."
+      ]
+    },
+    {
+      "id": "plaine-du-cul-de-sac-relief-v2",
+      "descriptionAdvanced": "The Cul-de-Sac Plain is a massive, highly fertile rift valley stretching eastwards from Port-au-Prince to the border with the Dominican Republic. Bounded by the Chaîne des Matheux to the north and the Massif de la Selle to the south, this 30-kilometer-wide depression is geologically active and heavily influenced by the Enriquillo-Plantain Garden fault zone. Historically, it was the epicenter of colonial sugar wealth, supported by extensive irrigation networks drawing from the Rivière Grise and Rivière Blanche. Today, the western edge of the plain is heavily urbanized, heavily absorbed by the sprawling expansion of the capital. The eastern sections, surrounding the brackish Lake Azuéi, remain predominantly agricultural, dedicated to growing sugarcane, beans, and sorghum. The plain is highly vulnerable to both seismic activity and severe flooding due to its low elevation and degraded mountain watersheds. Geography K8 — rift valleys and fault zones.",
+      "factsAdvanced": [
+        "A 30-kilometer-wide fertile rift valley stretching from Port-au-Prince to the border.",
+        "Bounded by the Chaîne des Matheux (north) and the Massif de la Selle (south).",
+        "Lies directly atop the highly seismically active Enriquillo-Plantain Garden fault zone.",
+        "Historically the wealthiest region for colonial sugar production via extensive irrigation.",
+        "The western section is heavily urbanized, absorbed by the capital's expansion.",
+        "Highly vulnerable to severe flooding due to low elevation and degraded watersheds."
+      ]
+    },
+    {
+      "id": "morne-baptiste-relief-v2",
+      "descriptionAdvanced": "Morne Baptiste is a prominent, isolated peak located in the Nord-Ouest department, rising sharply from the surrounding coastal plains. Reaching an elevation of approximately 800 meters, it acts as a distinct geographic landmark visible for miles from both land and the sea. The mountain's steep, rocky slopes are composed primarily of ancient volcanic and limestone rock, making large-scale agriculture difficult. Instead, the local population utilizes the lower terraces for subsistence farming of hardy crops like cassava and pigeon peas, while the upper reaches are used for goat grazing. The peak's topography plays a role in generating localized orographic rainfall, capturing moisture from the Atlantic trade winds to supply small, seasonal streams. Morne Baptiste remains largely undeveloped, preserving pockets of native scrub forest that provide habitat for regional bird species. Geography K7 — isolated peaks and orographic lift.",
+      "factsAdvanced": [
+        "A prominent, isolated peak reaching approximately 800 meters in the Nord-Ouest department.",
+        "Serves as a distinct geographic landmark visible from both land and the surrounding sea.",
+        "Composed primarily of ancient volcanic and steep limestone rock formations.",
+        "Lower terraces are utilized for the subsistence farming of cassava and pigeon peas.",
+        "Generates localized orographic rainfall by capturing moisture from Atlantic trade winds.",
+        "Preserves pockets of native scrub forest providing habitat for regional birdlife."
+      ]
+    },
+    {
+      "id": "foret-nationale-de-pins-relief-v2",
+      "descriptionAdvanced": "The National Pine Forest (Forêt des Pins) is the largest remaining contiguous coniferous forest in Haiti, located at high altitudes within the Massif de la Selle in the Sud-Est department. Situated at elevations ranging from 1,500 to over 2,600 meters, the forest is dominated by the endemic Hispaniolan pine (Pinus occidentalis), thriving in the cold, misty alpine climate. This 30,000-hectare reserve is a critical ecological asset, serving as a massive carbon sink and the primary watershed for several major rivers flowing into the Cul-de-Sac plain. Despite being a protected area, the forest faces relentless pressure from illegal logging, controlled agricultural burns, and charcoal production. Conservation efforts, backed by international environmental agencies, focus on establishing guarded perimeters and providing alternative livelihoods for surrounding mountain communities to halt the rapid degradation of this unique alpine ecosystem. Science K8 — alpine forest conservation.",
+      "factsAdvanced": [
+        "The largest contiguous coniferous forest in Haiti, located in the Massif de la Selle.",
+        "Situated at high alpine elevations ranging from 1,500 to over 2,600 meters.",
+        "Dominated entirely by the endemic Hispaniolan pine (Pinus occidentalis).",
+        "Covers roughly 30,000 hectares, serving as a massive carbon sink and critical watershed.",
+        "Faces intense environmental threats from illegal logging and charcoal production.",
+        "Conservation efforts are actively establishing guarded perimeters to protect the ecosystem."
+      ]
+    },
+    {
+      "id": "plaine-de-leogane-relief-v2",
+      "descriptionAdvanced": "The Léogâne Plain is a highly fertile, alluvial coastal plain located in the Ouest department, wedged between the Gulf of Gonâve and the towering Massif de la Selle. Formed over millennia by sediment deposited from the Momance and Rouyonne rivers, the plain boasts some of the richest agricultural soil in the country. It is famous nationwide for its sprawling, dense sugarcane plantations, which supply the region's renowned rum and clairin distilleries. Because it sits directly over the Enriquillo-Plantain Garden fault line, the plain was the catastrophic epicenter of the devastating 2010 earthquake, suffering immense structural damage and soil liquefaction. Today, it remains heavily populated and agricultural, with farmers utilizing intricate colonial-era canal networks to irrigate crops year-round. The plain's coastal edges are fringed with vital, though threatened, mangrove ecosystems. Geography K8 — alluvial plains and seismic zones.",
+      "factsAdvanced": [
+        "A highly fertile alluvial coastal plain located in the Ouest department.",
+        "Formed by rich sediment deposited over millennia by the Momance and Rouyonne rivers.",
+        "Famous nationwide for vast sugarcane plantations supplying local rum distilleries.",
+        "Served as the catastrophic epicenter of the devastating 2010 earthquake.",
+        "Farmers utilize intricate, historical canal networks for year-round irrigation.",
+        "Sits directly atop the highly active Enriquillo-Plantain Garden seismic fault line."
+      ]
+    },
+    {
+      "id": "morne-des-commissaires-relief-v2",
+      "descriptionAdvanced": "Morne des Commissaires is a significant high-altitude plateau and peak region within the Massif de la Selle, situated near the Dominican Republic border in the Sud-Est department. Characterized by elevations consistently above 1,600 meters, the area experiences a cool, temperate climate vastly different from the tropical lowlands. It is historically known for its dense pine forests and the cultivation of cold-weather crops such as potatoes, carrots, and cabbage. The region forms a vital part of the trans-boundary watershed shared with the Dominican Republic, feeding several critical rivers. Environmental degradation, primarily through slash-and-burn agriculture, has severely impacted the soil retention capabilities of the plateau, leading to devastating landslides. Recent cross-border environmental agreements aim to establish joint biosphere reserves to protect the fragile geology and unique flora of the Morne des Commissaires. Geography K8 — high-altitude plateaus and watersheds.",
+      "factsAdvanced": [
+        "A high-altitude plateau region located within the Massif de la Selle near the eastern border.",
+        "Characterized by elevations consistently exceeding 1,600 meters above sea level.",
+        "Experiences a cool, temperate climate supporting cold-weather crops like potatoes and carrots.",
+        "Forms a vital component of the trans-boundary watershed shared with the Dominican Republic.",
+        "Severely impacted by soil erosion and landslides due to slash-and-burn agriculture.",
+        "Subject to recent cross-border environmental agreements to establish joint biosphere reserves."
+      ]
+    },
+    {
+      "id": "vallee-de-jacmel-relief-v2",
+      "descriptionAdvanced": "The Jacmel Valley, primarily carved by the flow of the Grande Rivière de Jacmel, is a lush, deep ravine system cutting through the mountains of the Sud-Est department down to the Caribbean Sea. The valley's geology is defined by steep limestone cliffs and dense tropical vegetation, creating a humid microclimate ideal for intense agriculture. The river banks are heavily cultivated with bananas, breadfruit, and citrus, while the higher valley slopes are dominated by traditional shade-grown coffee and cacao farms. The valley is also famous for its spectacular series of cascading waterfalls and deep turquoise pools, known as Bassin-Bleu, a premier eco-tourism destination. During the rainy season, the steep topography makes the valley highly prone to flash flooding, requiring robust community-managed drainage systems to protect the agricultural output and the city of Jacmel at the valley's mouth. Geography K7 — river valleys and tropical agriculture.",
+      "factsAdvanced": [
+        "A lush, deep ravine system carved by the Grande Rivière de Jacmel in the Sud-Est department.",
+        "Geology is defined by steep limestone cliffs creating a humid, tropical microclimate.",
+        "Riverbanks are heavily cultivated with bananas, breadfruit, and citrus fruits.",
+        "Hosts the famous Bassin-Bleu, a series of spectacular cascading waterfalls and pools.",
+        "Upper slopes are dedicated to traditional shade-grown coffee and cacao agroforestry.",
+        "Highly prone to rapid flash flooding during the intense Caribbean rainy season."
+      ]
+    }
+  ]
+}

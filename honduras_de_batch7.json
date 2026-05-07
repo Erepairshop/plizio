@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "la-tigra-national-park-life-v2",
+      "descriptionAdvanced": "Der Nationalpark La Tigra, nur wenige Kilometer von der Hauptstadt Tegucigalpa entfernt, war 1980 der erste Nationalpark, der in Honduras ausgewiesen wurde. Dieses üppige Nebelwaldreservat erstreckt sich auf Höhen zwischen 1.300 und fast 2.300 Metern und spielt eine entscheidende Rolle für die Wasserversorgung von mehr als einer halben Million Hauptstadtbewohnern. Früher stark von der Silbermine von San Juancito abgeholzt, hat sich die Natur eindrucksvoll erholt und beherbergt heute Pumas, Ozelots und den scheuen Göttervogel Quetzal. Ausgedehnte Wanderwege führen durch dichte Baumfarne und moosbedeckte Eichen. Ökologie K7 — Nebelwälder und städtische Wasserversorgung.",
+      "factsAdvanced": [
+        "Wurde am 1. Januar 1980 als erster Nationalpark von Honduras gegründet.",
+        "Ein Nebelwaldreservat, das bis auf fast 2.300 Meter Höhe reicht.",
+        "Versorgt rund 30% der Hauptstadt Tegucigalpa mit frischem Trinkwasser.",
+        "Beherbergt seltene Tierarten wie den Quetzal, Pumas und Pekaris.",
+        "Die Region wurde im 19. Jahrhundert massiv für den Silberbergbau abgeholzt.",
+        "Besitzt ein gut ausgebautes Netzwerk von acht verschiedenen Wanderwegen."
+      ]
+    },
+    {
+      "id": "uyuca-biological-reserve-life-v2",
+      "descriptionAdvanced": "Das Biologische Reservat Uyuca ist ein kleiner, aber extrem wichtiger Nebelwald auf dem Gipfel des Berges Uyuca, unweit von Tegucigalpa. Es wird von der renommierten Panamerikanischen Landwirtschaftsschule Zamorano verwaltet und primär für forst- und landwirtschaftliche Forschungen sowie zum Schutz der lokalen Wassereinzugsgebiete genutzt. Im Gegensatz zu den größeren Nationalparks ist Uyuca von einer intensiven Stille geprägt und zieht vor allem Botaniker an, die seltene Orchideen, Epiphyten und endemische Farne studieren. Der dichte Nebel, der den Berg fast das ganze Jahr umhüllt, schafft ein einzigartiges Mikroklima. Biologie K8 — Mikroklimata und universitäre Forschung.",
+      "factsAdvanced": [
+        "Verwaltet und geschützt durch die landwirtschaftliche Universität Zamorano.",
+        "Ein hochgelegenes Nebelwald-Ökosystem mit extrem hoher Luftfeuchtigkeit.",
+        "Zentrum für universitäre Forschung in Botanik und Forstwissenschaft.",
+        "Beherbergt eine enorme Vielfalt an wilden Orchideen und Bromelien.",
+        "Der dichte Nebelwald ist die Hauptwasserquelle für die umliegenden Gemeinden.",
+        "Der Zugang ist strikt reguliert, um die fragile Flora zu schützen."
+      ]
+    },
+    {
+      "id": "cerro-azul-meambar-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Cerro Azul Meámbar (PANACAM) schützt die tiefblauen Bergspitzen, die majestätisch über dem Yojoa-See thronen. Der Park zeichnet sich durch seine extrem steilen, oft in Wolken gehüllten Hänge aus, von denen zahlreiche Wasserfälle in den See hinabstürzen. PANACAM ist berühmt für seine hervorragend ausgebaute touristische Infrastruktur mit Besucherzentren und Hängebrücken, die es ermöglichen, tief in den Dschungel vorzudringen, ohne das fragile Ökosystem zu zerstören. Hier trifft der tropische Regenwald der tieferen Lagen auf den Nebelwald der Gipfel. Geografie K6 — Ökotourismus und Höhenstufung der Vegetation.",
+      "factsAdvanced": [
+        "Liegt an den östlichen Hängen oberhalb des Yojoa-Sees.",
+        "Der Name bedeutet wörtlich Blauer Berg von Meámbar.",
+        "Verfügt über einige der besten und sichersten Wanderwege in Honduras.",
+        "Ein Paradies für Vogelbeobachter mit Tukanen und unzähligen Kolibriarten.",
+        "Schützt das wichtigste Wassereinzugsgebiet für das Kraftwerk Francisco Morazán.",
+        "Eine ökologische Übergangszone zwischen tropischem Regen- und Nebelwald."
+      ]
+    },
+    {
+      "id": "celaque-national-park-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Celaque im westlichen Departement Lempira beheimatet den Cerro Las Minas, mit 2.849 Metern den höchsten Berg von Honduras. Der Name \"Celaque\" stammt aus der indigenen Lenca-Sprache und bedeutet treffend \"Wasserkasten\" – der massive Bergkomplex ist die Quelle für unzählige Flüsse in der Region. Der Aufstieg zum Gipfel ist extrem anspruchsvoll und führt durch mehrere Vegetationszonen, von Kiefernwäldern bis hin zu urzeitlich anmutenden Nebelwäldern voller Riesenfarne. Der Park ist nicht nur ein ökologisches, sondern auch ein spirituelles Zentrum für die Lenca. Ökologie K8 — Gebirgsklima und Wasserspeicher.",
+      "factsAdvanced": [
+        "Beherbergt den höchsten Gipfel von Honduras, den Cerro Las Minas (2.849 m).",
+        "Der Name Celaque bedeutet in der Sprache der Lenca Kasten aus Wasser.",
+        "Eine der anspruchsvollsten und steilsten Wanderrouten in Zentralamerika.",
+        "Das Ökosystem besteht aus Kiefern-, Laub- und dichtem Nebelwald.",
+        "Schützt die Quellen von mindestens 11 wichtigen honduranischen Flüssen.",
+        "Beheimatet endemische Salamander und Amphibien, die nur hier vorkommen."
+      ]
+    },
+    {
+      "id": "cusuco-national-park-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Cusuco liegt in der schroffen Merendón-Gebirgskette westlich von San Pedro Sula. Trotz seiner Nähe zur größten Industriestadt des Landes ist Cusuco ein isoliertes Wunderland der Biodiversität. Der Park wurde nach dem \"Cusuco\" (honduranischer Begriff für Gürteltier) benannt, aber international bekannt ist er vor allem für seltene, endemische Amphibien, Frösche und Insekten, die jedes Jahr internationale Forschergruppen (wie die Operation Wallacea) anziehen. Dichte Wolken, riesige Baumfarne und steile Schluchten machen die Navigation hier extrem schwierig, schützen aber den Kern des Waldes vor Abholzung. Biologie K8 — Endemismus und wissenschaftliche Expeditionen.",
+      "factsAdvanced": [
+        "Liegt in der Bergkette Sierra del Merendón nahe San Pedro Sula.",
+        "Wichtiger Standort für die britische Forschungsexpedition Operation Wallacea.",
+        "Benannt nach dem Gürteltier (Cusuco), das hier heimisch ist.",
+        "Bekannt für eine hohe Konzentration an seltenen, endemischen Amphibien.",
+        "Die Zufahrt erfordert robuste Allradfahrzeuge über steile, schlammige Wege.",
+        "Die majestätischen Baumfarne können Höhen von bis zu 20 Metern erreichen."
+      ]
+    },
+    {
+      "id": "pico-bonito-national-park-life-v2",
+      "descriptionAdvanced": "Pico Bonito ist vielleicht der optisch spektakulärste Nationalpark in Honduras. Direkt von der Karibikküste bei La Ceiba steigt das Massiv fast senkrecht auf über 2.400 Meter an, was zu extrem unterschiedlichen Ökosystemen auf engstem Raum führt. Der Park ist eine unwirtliche Wildnis aus tiefen Schluchten, tosenden Wildwasserflüssen (wie dem Río Cangrejal) und unpassierbarem Dschungel. Ein Großteil von Pico Bonito ist noch immer unerforscht und bietet Rückzugsorte für Jaguare, Tapire und unzählige tropische Vögel. Ökotourismus beschränkt sich zumeist auf die Ränder des Parks. Geografie K7 — Extreme Topografie und Biodiversität.",
+      "factsAdvanced": [
+        "Das Bergmassiv steigt dramatisch von der Küstenebene auf über 2.400 Meter an.",
+        "Der markante, pyramidenförmige Gipfel ist das Wahrzeichen von La Ceiba.",
+        "Zweitgrößter Nationalpark in Honduras mit enormer Biodiversität.",
+        "Berühmt für extreme Wildwasser-Rafting-Bedingungen am Río Cangrejal.",
+        "Weite Teile des steilen Parkzentrums sind bis heute unerforscht.",
+        "Lebensraum für Jaguare, Brüllaffen, Ozelots und den Quetzal."
+      ]
+    },
+    {
+      "id": "lancetilla-botanical-garden-life-v2",
+      "descriptionAdvanced": "Der Botanische Garten von Lancetilla nahe Tela ist der zweitgrößte tropische botanische Garten der Welt. Gegründet 1925 vom Botaniker Wilson Popenoe im Auftrag der United Fruit Company, diente Lancetilla ursprünglich als riesiges Versuchslabor, um asiatische und afrikanische Früchte auf ihre Tauglichkeit in den amerikanischen Tropen zu testen. Hier wurden Pflanzen wie die afrikanische Ölpalme und die Rambutan-Frucht erstmals nach Zentralamerika eingeführt. Heute ist das gewaltige Areal ein lebendiges Museum der globalen Botanik und ein Paradies für unzählige tropische Vogelarten, die von den Früchten angelockt werden. Botanik K8 — Agrarische Experimente und Arteneinführung.",
+      "factsAdvanced": [
+        "Der zweitgrößte tropische botanische Garten der Erde (nach Bogor, Indonesien).",
+        "Gegründet 1925 als landwirtschaftliche Forschungsstation der United Fruit Company.",
+        "Verantwortlich für die Einführung der afrikanischen Ölpalme in Honduras.",
+        "Beherbergt tausende exotische Pflanzenarten aus Afrika, Asien und Südamerika.",
+        "Die berühmte Bambusallee (Túnel de Bambú) ist ein beliebtes Fotomotiv.",
+        "Zählt über 300 Vogelarten, die durch die reiche Nahrungsquelle angelockt werden."
+      ]
+    },
+    {
+      "id": "jeannette-kawas-national-park-life-v2",
+      "descriptionAdvanced": "Der Jeannette Kawas Nationalpark, oft noch unter seinem alten Namen Punta Sal bekannt, ist ein atemberaubendes Küstenschutzgebiet im Departement Atlántida. Er schützt eine unglaubliche Vielfalt an Lebensräumen: von ausgedehnten Mangrovenwäldern und Lagunen bis hin zu schroffen Felsklippen, Korallenriffen und weißen Karibikstränden. Der Park wurde zu Ehren der honduranischen Umweltaktivistin Jeannette Kawas umbenannt, die 1995 wegen ihres Kampfes gegen den illegalen Holzeinschlag und die Ausweitung von Palmölplantagen im Reservat ermordet wurde. Heute ist das Gebiet Zufluchtsort für Seekühe, Brüllaffen und Meeresschildkröten. Umwelt und Gesellschaft K8 — Umweltaktivismus und Küstenschutz.",
+      "factsAdvanced": [
+        "Früher als Nationalpark Punta Sal bekannt, umbenannt zu Ehren von Jeannette Kawas.",
+        "Kawas wurde 1995 für ihren Kampf zum Schutz des Parks ermordet.",
+        "Umfasst eine Halbinsel, dichte Mangrovenwälder und die Laguna de Los Micos.",
+        "Lebensraum für karibische Seekühe (Manatis) und Brüllaffen.",
+        "Die Buchten wurden im 17. Jahrhundert von europäischen Piraten genutzt.",
+        "Steht unter ständigem Druck durch illegale Plantagenerweiterungen."
+      ]
+    },
+    {
+      "id": "punta-izopo-national-park-life-v2",
+      "descriptionAdvanced": "Der Punta Izopo Nationalpark liegt östlich von Tela und ergänzt die Küstenschutzgebiete der Region. Anders als der felsige Nachbar Punta Sal ist Punta Izopo vor allem ein nasses Labyrinth aus dichten Mangroven und Kanälen, die von den Flüssen Plátano und Colorado in die Karibik münden. Das Gebiet lässt sich am besten auf leise gleitenden Kajaks erkunden, was Beobachtungen von Kaimanen, Flussschildkröten und hunderten von Reihern und Eisvögeln ermöglicht. Der Park hat zudem eine wichtige kulturelle Dimension, da sich an seinen Rändern traditionelle Dörfer der Garífuna-Gemeinschaft (wie Triunfo de la Cruz) befinden. Ökologie K6 — Mangroven-Labyrinthe und Garífuna-Küste.",
+      "factsAdvanced": [
+        "Ein feuchtes Küstenschutzgebiet, geprägt durch tiefe Mangrovenkanäle.",
+        "Zweitgrößter Nationalpark in der Bucht von Tela nach Jeannette Kawas.",
+        "Ein Paradies für Kajaktouren und stille Wildtierbeobachtungen.",
+        "Beheimatet eine dichte Population von Brüllaffen und Spitzkrokodilen (Kaimane).",
+        "Wird von den traditionellen Garífuna-Dörfern für nachhaltige Fischerei genutzt.",
+        "Der Park schützt die Mündungen der Flüsse Plátano und Colorado."
+      ]
+    },
+    {
+      "id": "cuero-y-salado-wildlife-refuge-life-v2",
+      "descriptionAdvanced": "Das Refugio de Vida Silvestre Cuero y Salado (Cuero und Salado Wildtierreservat) liegt zwischen den Flusssystemen Cuero und Salado nahe La Ceiba. Es ist international bekannt als das wichtigste Schutzgebiet für den vom Aussterben bedrohten Antillen-Manati (Seekuh) in Honduras. Das Reservat ist nur mit einem alten, historischen Bananenzug (Burra) aus dem frühen 20. Jahrhundert oder mit dem Boot erreichbar, was seine Isolation garantiert. Die stillen Süß- und Brackwasserkanäle werden von Mangroven und riesigen Bäumen gesäumt, in denen Faultiere, Kapuzineraffen und eine Vielzahl von Reptilien leben. Biologie K7 — Manati-Schutz und historische Anreisewege.",
+      "factsAdvanced": [
+        "Das wichtigste Schutzgebiet für Seekühe (Manatis) in Honduras.",
+        "Benannt nach den beiden großen Flüssen Cuero und Salado.",
+        "Der Zugang zum Parkzentrum erfolgt traditionell mit einer historischen Schmalspurbahn.",
+        "Umfasst Süßwasserkanäle, Lagunen und undurchdringliche Mangroven.",
+        "Lebensraum für über 35 Spezies von Säugetieren, darunter Faultiere und Affen.",
+        "Wurde 1987 als Zufluchtsort für vom Aussterben bedrohte Arten gegründet."
+      ]
+    },
+    {
+      "id": "cayos-cochinos-marine-reserve-life-v2",
+      "descriptionAdvanced": "Die Cayos Cochinos sind eine Gruppe von zwei kleinen Inseln und 13 noch kleineren Korallencays (Cayos) südlich von Roatán. Das Gebiet wurde als Marines Nationalmonument ausgewiesen, was es zu einem der am strengsten geschützten Riffe im gesamten Mesoamerikanischen Barriereriff-System macht. Kommerzieller Fischfang und das Ankern in Korallen sind streng verboten. Diese Maßnahmen haben zu einer extrem hohen Dichte an gesunden Korallen und Meeresbewohnern geführt. Die einzige erlaubte Besiedlung sind kleine, traditionelle Garífuna-Dörfer auf den Cays, die von nachhaltigem Fischfang und sanftem Ökotourismus leben. Umwelt K8 — Marine Schutzgebiete und Korallenriffe.",
+      "factsAdvanced": [
+        "Eine isolierte Inselgruppe, die als hochgeschütztes Marine-Denkmal gilt.",
+        "Teil des zweitgrößten Riffsystems der Erde, des Mesoamerikanischen Riffs.",
+        "Kommerzieller Fischfang und das Werfen von Ankern sind strikt untersagt.",
+        "Die rosa Boa Constrictor der Cayos Cochinos kommt nirgendwo sonst auf der Welt vor.",
+        "Verwaltet durch die wissenschaftliche Stiftung Honduran Coral Reef Fund.",
+        "Beheimatet kleine, traditionelle Siedlungen der Garífuna-Gemeinschaft."
+      ]
+    },
+    {
+      "id": "roatan-marine-science-center-life-v2",
+      "descriptionAdvanced": "Das Roatan Institute for Marine Sciences (RIMS) ist eine Forschungs- und Bildungseinrichtung an der Nordwestküste von Roatán. Ursprünglich zur Beobachtung der lokalen Delfinpopulation gegründet, hat sich das Institut zu einem Zentrum für die Erforschung karibischer Korallenökosysteme und zur Meeresbiologie-Ausbildung für internationale Studenten entwickelt. Die Einrichtung führt Langzeitstudien zur Korallenbleiche, Riff-Wiederherstellung und zur Kommunikation von Großen Tümmlern (Delfinen) durch. Durch seine Interaktionsprogramme mit Delfinen fördert das Institut auch das Bewusstsein von Touristen für den Schutz mariner Säugetiere. Naturwissenschaften K8 — Delfinforschung und Riff-Regeneration.",
+      "factsAdvanced": [
+        "Zentrum für Meeresbiologie-Forschung auf der Insel Roatán.",
+        "Spezialisiert auf die Verhaltensforschung karibischer Delfine (Große Tümmler).",
+        "Arbeitet intensiv an der Überwachung und dem Stopp von Korallenkrankheiten.",
+        "Bietet Bildungsprogramme für internationale Universitätsstudenten.",
+        "Befindet sich innerhalb des bekannten Anthony's Key Resorts.",
+        "Das Institut kooperiert mit zahlreichen nordamerikanischen Universitäten."
+      ]
+    },
+    {
+      "id": "archs-iguana-and-marine-park-life-v2",
+      "descriptionAdvanced": "Arch's Iguana and Marine Park auf der Insel Roatán ist ein Familienbetrieb, der sich seit Jahrzehnten dem Schutz des gefährdeten schwarzen Leguans (Ctenosaura similis) verschrieben hat. Da der Lebensraum dieser Leguane auf der Insel durch Hotelbauten und illegale Jagd fast vollständig zerstört wurde, schuf die Familie Arch auf ihrem Grundstück ein sicheres Reservat. Heute leben in dem Park über 4.000 dieser massiven Reptilien frei, was ihn zu einer der ungewöhnlichsten und erfolgreichsten privaten Artenschutzinitiativen in Zentralamerika macht. Der Park hat zudem eine kleine Auffangstation für verletzte Meerestiere. Biologie K6 — Privater Artenschutz und endemische Reptilien.",
+      "factsAdvanced": [
+        "Privat geführtes Schutzgebiet auf der Insel Roatán (French Cay).",
+        "Beherbergt über 4.000 geschützte schwarze Leguane (Iguanas).",
+        "Wurde gegründet, da die Tiere lokal vom Aussterben durch Jagd bedroht waren.",
+        "Die Leguane im Park sind an Menschen gewöhnt und bewegen sich frei.",
+        "Zieht große Mengen an Touristen von den Kreuzfahrtschiffen an.",
+        "Setzt Einnahmen für die Rettung und Rehabilitation von Meeresschildkröten ein."
+      ]
+    },
+    {
+      "id": "daniel-johnson-sloth-and-monkey-hangout-life-v2",
+      "descriptionAdvanced": "Daniel Johnson's Hangout ist ein beliebtes Tierrettungs- und Rehabilitationszentrum auf Roatán, gelegen in der Siedlung French Cay. Gegründet von einem leidenschaftlichen Insulaner, rettet die Einrichtung wilde Faultiere, Affen und tropische Vögel, die in der Vergangenheit illegal als Haustiere gehalten, beschlagnahmt oder verletzt aufgefunden wurden. Während einige Tiere nach ihrer Genesung ausgewildert werden, dient das Zentrum für schwer traumatisierte Tiere als lebenslanges Refugium. Das Projekt verbindet erfolgreichen Tierschutz mit Tourismus, indem es Aufklärungsarbeit über die Gefahren des illegalen Tierhandels leistet. Biologie K6 — Tierrettung und Bekämpfung des Schmuggels.",
+      "factsAdvanced": [
+        "Ein lokales Zentrum zur Rettung verwaister und illegal gehaltener Wildtiere.",
+        "Spezialisiert auf die Rehabilitation von Dreifinger-Faultieren und Kapuzineraffen.",
+        "Zielt darauf ab, genesene Tiere wieder in unbewohnte Dschungelgebiete auszuwildern.",
+        "Befindet sich in einem Mangrovenökosystem im Osten von Roatán.",
+        "Fokussiert sich auf die Aufklärung von Touristen über den illegalen Haustierhandel.",
+        "Wurde als kleines, familiäres Leidenschaftsprojekt eines Einheimischen gestartet."
+      ]
+    },
+    {
+      "id": "iguana-research-breeding-station-copan-life-v2",
+      "descriptionAdvanced": "Die Leguan-Forschungs- und Aufzuchtstation in Copán Ruinas ist eine entscheidende ökologische Ergänzung zu den historischen Maya-Stätten der Region. Ziel der Anlage ist es, die stark dezimierten Bestände des Grünen Leguans im Flusstal des Copán wiederherzustellen, nachdem die Art durch Jagd und den Verlust von Lebensräumen fast verschwunden war. In der Anlage werden Eier ausgebrütet und Jungtiere geschützt aufgezogen, bevor sie mit Erreichen einer überlebensfähigen Größe in die Wildnis des Maya-Parks ausgesetzt werden. Die Station ist ein Modell für erfolgreiche Ex-situ-Arterhaltung. Umwelt K7 — Aufzuchtprogramme und Ex-situ-Artenschutz.",
+      "factsAdvanced": [
+        "Befindet sich in Copán Ruinas nahe der Grenze zu Guatemala.",
+        "Gegründet zum Schutz und zur Aufzucht des bedrohten Grünen Leguans.",
+        "Jungtiere werden in Sicherheit aufgezogen und später in die Wildnis entlassen.",
+        "Ein wichtiges Instrument gegen die Ausrottung der Art durch lokale Wilderer.",
+        "Wird von Spenden und Eintrittsgeldern von Touristen finanziert.",
+        "Führt Bildungsprogramme für lokale Schulkinder über Reptilienschutz durch."
+      ]
+    },
+    {
+      "id": "el-picacho-park-life-v2",
+      "descriptionAdvanced": "Der Parque Naciones Unidas El Picacho ist ein weitläufiger Bergnationalpark und die wichtigste grüne Lunge der stark verschmutzten Hauptstadt Tegucigalpa. Gelegen auf einer Höhe von fast 1.300 Metern, bietet der Park mit seinen dichten Kiefernwäldern eine dringend benötigte Zuflucht für die Stadtbewohner. Er ist vor allem berühmt für das gewaltige Monument El Cristo del Picacho, eine über 30 Meter hohe Christusstatue, die nachts beleuchtet das Stadtbild prägt. Der Park kombiniert naturbelassene Waldwege mit gepflegten Gärten, einem kleinen Zoo und atemberaubenden Aussichtspunkten über die Metropole. Kultur K6 — Städtische Parks und monumentale Skulpturen.",
+      "factsAdvanced": [
+        "Die wichtigste grüne Erholungszone für die Einwohner von Tegucigalpa.",
+        "Thront auf dem steilen Hügel Picacho mit Panoramablick über das Tal.",
+        "Bekannt für die riesige, 1997 eingeweihte Christusstatue (El Cristo del Picacho).",
+        "Der Park wurde zum 40-jährigen Jubiläum der Vereinten Nationen eingeweiht.",
+        "Die Statue wiegt etwa 2.500 Tonnen und ist erdbebensicher gebaut.",
+        "Beherbergt alte Maya-Ruinen-Repliken und einen städtischen Zoo."
+      ]
+    },
+    {
+      "id": "chiminike-life-v2",
+      "descriptionAdvanced": "Das Chiminike ist das erste interaktive Kindermuseum in Honduras und ein Meilenstein für die nicht-formale Bildung im Land. Gelegen in einem modernen Komplex nahe dem Präsidentenpalast in Tegucigalpa, ermutigt das Museum Kinder, durch spielerische Ausstellungen etwas über Wissenschaft, Energie, honduranische Kultur und Umweltschutz zu lernen. Eine der beliebtesten Ausstellungen simuliert eine kleine Stadt, in der Kinder Berufe ausüben können, während andere Säle komplexe Konzepte wie Schwerkraft und Wasserrecycling altersgerecht erklären. Es ist das Zentrum für Schulausflüge aus der ganzen Hauptstadt. Gesellschaft K6 — Interaktive Bildung und Naturwissenschaften für Kinder.",
+      "factsAdvanced": [
+        "Das erste und größte interaktive Kindermuseum in Honduras.",
+        "Der Name Chiminike ist ein fiktives Wort, das Neugierde symbolisiert.",
+        "Befindet sich im modernen Regierungsviertel von Tegucigalpa.",
+        "Verfügt über permanente Ausstellungen zu Physik, Kultur und Umweltschutz.",
+        "Wurde als private Stiftung in Kooperation mit der Regierung gegründet.",
+        "Zielt darauf ab, die mangelnden naturwissenschaftlichen Ressourcen in Schulen auszugleichen."
+      ]
+    },
+    {
+      "id": "tegucigalpa-central-park-life-v2",
+      "descriptionAdvanced": "Der Parque Central in Tegucigalpa, auch Plaza Morazán genannt, ist das historische, politische und religiöse Herz der Hauptstadt. Flankiert von der kolonialen San Miguel-Kathedrale und dem alten Kongressgebäude, ist der Platz seit Jahrhunderten der Schauplatz für die wichtigsten Ereignisse des Landes, von Staatsstreichen bis hin zu religiösen Prozessionen. In der Mitte dominiert ein großes Reiterstandbild des Nationalhelden Francisco Morazán. Trotz der Modernisierung und des dichten Verkehrsflusses im historischen Zentrum bleibt der Platz ein lebendiger Mikrokosmos der honduranischen Gesellschaft. Geschichte K7 — Städtische Kernzentren und politische Kundgebungen.",
+      "factsAdvanced": [
+        "Historisch bekannt als Plaza Francisco Morazán.",
+        "Der älteste und wichtigste Platz im Zentrum von Tegucigalpa.",
+        "Wird von der Kathedrale und historischen Regierungsgebäuden umrahmt.",
+        "Im Zentrum steht eine ikonische Reiterstatue von Francisco Morazán.",
+        "Der Boden ist kunstvoll mit farbigen Mosaiken und Natursteinen gepflastert.",
+        "Traditioneller Austragungsort für städtische Festivals und politische Proteste."
+      ]
+    },
+    {
+      "id": "cerro-juana-lainez-park-life-v2",
+      "descriptionAdvanced": "Der Cerro Juana Laínez ist ein kleiner, aber historisch extrem bedeutender Hügel im Stadtgebiet von Tegucigalpa, der vor Kurzem in einen modernen Stadtpark verwandelt wurde. Auf dem Gipfel steht das auffällige Friedensdenkmal (Monumento a la Paz), das nach einem Krieg errichtet wurde und von allen Seiten der Stadt sichtbar ist. Lange Zeit vernachlässigt, wurde der Hügel durch massive private und städtische Initiativen saniert und verfügt heute über gut ausgeleuchtete Spazierwege, Fahrrad-Infrastruktur und bewaldete Hänge. Er dient als Symbol für die zivile Rückeroberung öffentlicher Räume in der Hauptstadt. Gesellschaft K7 — Urbane Erneuerung und Friedensdenkmäler.",
+      "factsAdvanced": [
+        "Kleiner, aber prominenter Hügel mitten im städtischen Kessel von Tegucigalpa.",
+        "Gekrönt von dem runden Friedensdenkmal (Monumento a la Paz) aus dem Jahr 1948.",
+        "Wurde in den letzten Jahren aufwendig zu einem sicheren, modernen Park saniert.",
+        "Das Denkmal wird traditionell verwendet, um den Unabhängigkeitstag einzuläuten.",
+        "Besitzt ausgedehnte Joggingstrecken und Aufforstungsprojekte.",
+        "Ein seltenes Beispiel erfolgreicher urbaner Rückeroberung in Honduras."
+      ]
+    },
+    {
+      "id": "san-pedro-sula-zoo-life-v2",
+      "descriptionAdvanced": "Der städtische Zoo Joya Grande in San Pedro Sula ist ein Zufluchtsort für zahlreiche Tierarten der Region. Ursprünglich ein Privatzoo auf einem beschlagnahmten Grundstück, das mit illegalen Aktivitäten in Verbindung gebracht wurde, wird das Areal heute verwaltet, um lokale und exotische Wildtiere, darunter Jaguare, Tapire und Flusspferde, zu beherbergen. Der Zoo leidet unter chronischer Unterfinanzierung, stellt aber dennoch einen wichtigen Kontaktpunkt für Stadtkinder dar, um die einheimische Fauna kennenzulernen. Die weiten grünen Anlagen um den Zoo bieten eine kleine Oase der Ruhe in der lauten Industriemetropole. Biologie K6 — Städtische Tierhaltung und beschlagnahmte Ländereien.",
+      "factsAdvanced": [
+        "Einer der wenigen großen Zoos im Nordwesten von Honduras.",
+        "Beherbergt zahlreiche große Raubkatzen, darunter Jaguare und Pumas.",
+        "Entstand auf dem Gelände einer beschlagnahmten privaten Finca.",
+        "Dient häufig als Auffangstation für von den Behörden konfiszierte Wildtiere.",
+        "Verfügt über Canopy-Seilrutschen und Freizeitanlagen für Familien.",
+        "Hat stark mit finanziellen und logistischen Herausforderungen zu kämpfen."
+      ]
+    },
+    {
+      "id": "lago-de-yojoa-life-v2",
+      "descriptionAdvanced": "Der Lago de Yojoa ist der einzige natürliche Binnensee von nennenswerter Größe in Honduras und ein ökologisches Kronjuwel vulkanischen Ursprungs. Gelegen zwischen den Industriestädten und der Hauptstadt, bildet der See eine gewaltige Wassersenke umgeben von zwei Nationalparks (Cerro Azul Meámbar und Santa Bárbara). Mit fast 500 registrierten Vogelarten ist die Region ein weltweites Mekka für Ornithologen. Leider steht das sensible Ökosystem des Sees unter massivem Druck durch intensive Tilapia-Fischzuchten, Bergbauabwässer in den Zuflüssen und großflächige Abholzung der Uferzonen, was zu ernsthafter Wasserverschmutzung führt. Ökologie K8 — Binnengewässer und ökologische Gefährdung.",
+      "factsAdvanced": [
+        "Der größte natürliche See in Honduras (ca. 79 Quadratkilometer).",
+        "Ein tektonischer und vulkanischer Kratersee auf etwa 700 Metern Höhe.",
+        "Ein Paradies für Ornithologen mit nahezu 500 katalogisierten Vogelarten.",
+        "Heimat lukrativer, aber umstrittener kommerzieller Tilapia-Fischfarmen.",
+        "Leidet unter starker Umweltbelastung durch unregulierte Landwirtschaft und Bergbau.",
+        "Ist von ausgedehnten Sumpfgebieten und heißen Quellen umgeben."
+      ]
+    },
+    {
+      "id": "laguna-de-caratasca-life-v2",
+      "descriptionAdvanced": "Die Laguna de Caratasca (Lagune der Kaimane) ist ein gigantisches System von Brackwasserlagunen im extrem abgelegenen Departement Gracias a Dios (La Mosquitia). Diese weite, flache Wasserfläche verbindet die Karibische See mit dem dichten Regenwald und ist gesäumt von undurchdringlichen Mangroven und Sümpfen. Caratasca ist das Herzstück des Transports und der Kultur der indigenen Miskito, die den See mit ihren schmalen Einbäumen befahren, um Krabben und Fische zu fangen. Die Region ist so isoliert, dass sie bis heute kaum von westlichen Zivilisationseinflüssen oder moderner Infrastruktur berührt wurde. Geografie K8 — Küstenlagunen und die Miskito-Sümpfe.",
+      "factsAdvanced": [
+        "Die größte Lagune in Honduras, gelegen im Departement Gracias a Dios.",
+        "Der Name stammt aus der Miskito-Sprache und bedeutet Lagune der Alligatoren.",
+        "Spielt eine unverzichtbare Rolle als Transportweg in La Mosquitia.",
+        "Das Wasser ist eine Mischung aus einfließenden Flüssen und Karibik-Salzwasser.",
+        "Umgeben von Savannen, Mangrovenwäldern und undurchdringlichen Sümpfen.",
+        "Die lokale Miskito-Bevölkerung ist für den Lebensunterhalt extrem von der Lagune abhängig."
+      ]
+    },
+    {
+      "id": "laguna-de-guaimoreto-life-v2",
+      "descriptionAdvanced": "Die Laguna de Guaimoreto, gelegen an der Karibikküste nahe Trujillo, ist ein biologisches Reservat und ein komplexes Feuchtgebiets-Ökosystem. Diese Brackwasserlagune ist von riesigen Roten und Schwarzen Mangroven umgeben und fungiert als immense \"Kinderstube\" für karibische Fische, Krebse und den bedrohten Antillen-Manati. Für die umliegenden Garífuna-Gemeinden ist die Lagune heilig und lebenswichtig, da sie nachhaltig Muscheln und Fische ernten, indem sie traditionelle Techniken nutzen. Das ruhige, oft spiegelglatte Wasser reflektiert den dichten Dschungel und macht Guaimoreto zu einem wahren Naturwunder. Ökologie K7 — Mangroven-Kinderstuben und Garífuna-Fischerei.",
+      "factsAdvanced": [
+        "Ein geschütztes Feuchtgebiet und Lagunensystem östlich von Trujillo.",
+        "Umgeben von extrem dichten Wäldern aus Roten, Weißen und Schwarzen Mangroven.",
+        "Dient als biologische Kinderstube (Laichgebiet) für viele karibische Meerestiere.",
+        "Wichtiges Rückzugsgebiet für die scheue karibische Seekuh.",
+        "Sichert den traditionellen, nachhaltigen Fischfang der lokalen Garífuna.",
+        "Die Lagune bietet exzellente Möglichkeiten für die Vogelbeobachtung von Pelikanen."
+      ]
+    },
+    {
+      "id": "punta-sal-national-park-life-v2",
+      "descriptionAdvanced": "Punta Sal (heute Jeannette Kawas Nationalpark) ist eine weit ins Karibische Meer ragende, dramatisch zerklüftete Halbinsel. Die felsigen Landzungen verbergen kleine, paradiesische Buchten (Coves), die von Piraten im 17. und 18. Jahrhundert genutzt wurden, um ihre Schiffe vor spanischen Patrouillen zu verstecken. Der Meeresabschnitt vor Punta Sal beherbergt einige der gesündesten Küsten-Korallenriffe vor dem Festland, weshalb der Park auch ein wichtiges marines Schutzgebiet ist. An Land ist die Halbinsel von unzugänglichem tropischem Regenwald bedeckt, der von Brüllaffen bevölkert ist. Geografie K7 — Felsige Halbinseln und Piratenbuchten.",
+      "factsAdvanced": [
+        "Eine felsige Halbinsel, die die Bucht von Tela umschließt.",
+        "Berühmt für versteckte Buchten (wie Puerto Escondido), die einst Piraten dienten.",
+        "Das Festland ist von einem steilen, schwer zugänglichen Regenwald bedeckt.",
+        "Die Unterwasserwelt umfasst intakte, küstennahe Korallenriffe.",
+        "War Gegenstand eines aufsehenerregenden Urteils des Interamerikanischen Gerichtshofs für Menschenrechte.",
+        "Der Park ist ein entscheidender Puffer gegen atlantische Stürme."
+      ]
+    },
+    {
+      "id": "reserva-biologica-el-chile-life-v2",
+      "descriptionAdvanced": "Das Biologische Reservat El Chile liegt an den gebirgigen Grenzen der Departements Francisco Morazán und El Paraíso. Es schützt einen faszinierenden Nebelwald, der sich über ein schroffes, stark zerklüftetes Relief erstreckt. Das Reservat fungiert als entscheidender Wasserspeicher für unzählige umliegende Bauerndörfer. El Chile ist bekannt für gigantische, mit Bromelien behängte Eichenbäume und zahlreiche versteckte Wasserfälle (wie Salto del Ángel). Wegen der Abgelegenheit der Steilhänge ist der Park wenig besucht, was das fragile, feuchte Ökosystem effektiv vor dem Vordringen landwirtschaftlicher Flächen schützt. Biologie K7 — Nebelwald-Relief und Wassersicherheit.",
+      "factsAdvanced": [
+        "Biologisches Reservat zwischen Francisco Morazán und El Paraíso.",
+        "Schützt einen hochgelegenen Nebelwald und seine empfindliche Flora.",
+        "Wichtigster Wasserversorger für Dutzende Landgemeinden im Talboden.",
+        "Besitzt beeindruckende versteckte Wasserfälle, darunter den Salto del Ángel.",
+        "Kaum touristisch erschlossen, was der unberührten Natur zugutekommt.",
+        "Die Wälder sind reich an Epiphyten, Moosen und seltenen Farnen."
+      ]
+    }
+  ]
+}

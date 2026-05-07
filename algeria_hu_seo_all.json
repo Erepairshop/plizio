@@ -1,0 +1,650 @@
+{
+  "lang": "hu",
+  "country": "algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "palais-des-rais-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az algíri tengerparton álló Palais des Rais, más néven Bastion 23, az oszmán építészet egyik legfontosabb fennmaradt emléke az országban. Ez a palotakomplexum három palotából és hat házból áll, amelyek a 16. és 18. század között épültek. Az épületegyüttes egykor a város védelmi rendszerének részét képezte, ma pedig kulturális központként és múzeumként üzemel. A belső tereket díszes kerámiák, faragott mennyezetek és márványoszlopok teszik lenyűgözővé, amelyek az algíri regencia fénykorát idézik. A látogatók bepillantást nyerhetnek a korabeli előkelőségek életébe, miközben a teraszokról páratlan kilátás nyílik a Földközi-tengerre. Az épületegyüttes túlélte a francia gyarmatosítás idején végzett városrendezéseket is. Történelem K7 – Az Oszmán Birodalom terjeszkedése."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1576-ban kezdték meg az építését a tengerpart mentén.",
+          "Három fő palotát (17-es, 18-as és 23-as) foglal magában.",
+          "1992 óta az UNESCO Világörökség részét képező Casbah része.",
+          "A 23-as palota a legnagyobb az egész épületegyüttesben.",
+          "1980 és 1985 között teljes körű restauráláson esett át.",
+          "Ma a Mediterrán Örökség és Művészetek Központjának ad otthont."
+        ]
+      }
+    },
+    {
+      "id": "ketchaoua-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Ketchaoua-mecset az algíri Casbah bejáratánál található, és a város viharos történelmének egyik leglátványosabb szimbóluma. Az eredetileg 1612-ben épült oszmán mecsetet a francia gyarmati uralom alatt, 1845-ben Szent Fülöp-székesegyházzá alakították át, majd Algéria 1962-es függetlenné válása után ismét mecset lett. Építészete a bizánci és a mór stílus elemeit ötvözi, két monumentális minaretje és tágas lépcsősora uralja a teret. A belső teret gyönyörű stukkók és feliratok díszítik. A mecset nemcsak vallási központ, hanem a nemzeti ellenállás és az újjászületés jelképe is az algériaiak számára. Az épület az UNESCO Világörökség része, és emlékeztet a vallások és kultúrák közötti átmenetekre. Történelem K8 – Gyarmatosítás és függetlenségi mozgalmak."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Eredetileg 1612-ben épült, majd 1794-ben Hassan pasa bővítette.",
+          "1845 és 1962 között katolikus székesegyházként működött.",
+          "Első pénteki imáját mecsetként 1962. november 2-án tartották.",
+          "A Casbah-negyed legalacsonyabb pontján, a tenger közelében fekszik.",
+          "2018-ben fejeződött be a legutóbbi, török segítséggel végzett restaurálása.",
+          "Két jellegzetes, nyolcszögletű minarettel rendelkezik."
+        ]
+      }
+    },
+    {
+      "id": "sidi-mcid-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Constantine, a 'hidak városa' legikonikusabb építménye a Sidi M'Cid függőhíd, amely a Rhumel-folyó mély szakadéka felett ível át. 1912-es átadásakor ez volt a világ legmagasabb hídja, 175 méteres magasságával ma is lélegzetelállító látványt nyújt. A híd Ferdinand Arnodin francia mérnök tervei alapján készült, és a város központját köti össze a Casbah-negyeddel és a kórházzal. A 164 méter hosszú szerkezet nemcsak fontos közlekedési útvonal, hanem a városi mérnöki bravúr és a modernizáció jelképe is. A hídról lenyűgöző panoráma nyílik a környező sziklákra és a folyóvölgyre. Constantine látképének elválaszthatatlan része, amely az emberi alkotóerő diadala a természet felett. Földrajz K7 – Felszínformáló erők és az ember tájátalakító tevékenysége."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1912. április 19-én nyitották meg a forgalom előtt.",
+          "Maximális magassága a folyó felett 175 méter.",
+          "Ferdinand Arnodin mérnök tervezte, aki a függőhidak specialistája volt.",
+          "Teljes hossza 164 méter, szélessége pedig 5,8 méter.",
+          "Több mint 100 éve dacol az idővel és az erős szelekkel.",
+          "A híd a közeli Sidi M'Cid remetéről kapta a nevét."
+        ]
+      }
+    },
+    {
+      "id": "monument-aux-morts-constantine-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Constantine-i Monument aux Morts egy fenséges háborús emlékmű, amely egy meredek szikla peremén, a város felett magasodik. Az 1934-ben emelt építmény az első világháborúban elesett katonáknak állít emléket. Az emlékművet Traianus diadalíve ihlette, and egy hatalmas bronz győzelmi szobor koronázza meg. Elhelyezkedése miatt stratégiai kilátópontként is szolgál, ahonnan az egész Rhumel-szurdok és a város hidai beláthatók. Az építészeti stílus a klasszicizmust idézi, tiszta vonalaival és méltóságteljes megjelenésével a béke és az áldozathozatal fontosságát hirdeti. A helyi lakosok számára kedvelt sétálóhely és a történelemre való emlékezés fontos színhelye. Történelem K8 – Az első világháború és következményei."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az emlékművet 1930-ban kezdték építeni és 1934-ben avatták fel.",
+          "A timgadi Traianus-diadalív mintájára tervezték.",
+          "A sziklafal 635 méterrel magasodik a tengerszint felett.",
+          "Egy 800 katonából álló ezred tiszteletére emelték.",
+          "A tetején álló szárnyas győzelem szobor (Niké) Ebba Ostberg munkája.",
+          "Esténként díszkivilágításban pompázik, messziről is látható."
+        ]
+      }
+    },
+    {
+      "id": "emir-abdelkader-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Emir Abdelkader-mecset Constantine egyik legmodernebb és legimpozánsabb épülete, amely az algériai függetlenségi harc hőséről kapta a nevét. Ez az iszlám építészeti remekmű egyben egyetem is, és az ország egyik legnagyobb vallási központja. Két 107 méter magas minaretje messziről hirdeti a város spirituális jelentőségét. A mecset belső tereit finom márványfaragások, bonyolult mozaikok és hatalmas kristálycsillárok díszítik, amelyek a hagyományos mór és a modern építészet ötvözetét mutatják be. A hatalmas kupola alatt egyszerre több ezer hívő imádkozhat. Az épület nemcsak vallási funkciót tölt be, hanem az oktatás és a kulturális párbeszéd helyszíne is, tükrözve a modern Algéria identitását. Történelem K8 – Az algériai nemzeti öntudat kialakulása."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1994-ben nyitották meg, építése több mint egy évtizedig tartott.",
+          "Minaretjei 107 méter magasak, Algéria legmagasabbjai közé tartoznak.",
+          "Befogadóképessége eléri a 15 000 főt.",
+          "Itt működik az Emir Abdelkader Iszlám Tudományok Egyeteme.",
+          "A belső kupola átmérője 20 méter, magassága 64 méter.",
+          "Az épülethez használt fehér márvány Olaszországból származik."
+        ]
+      }
+    },
+    {
+      "id": "mellah-slimane-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Mellah Slimane-híd egy elegáns és keskeny gyalogos függőhíd Constantine központjában, amely a Rhumel-szurdok felett ível át. Ez a 'lebegő' híd közvetlen kapcsolatot teremt a városközpont (Place de la Brèche) és a vasútállomás környéke között. A híd különlegessége, hogy lift kapcsolódik hozzá, amely segít leküzdeni a jelentős szintkülönbséget a szurdok és a város felsőbb részei között. A gyalogosok számára a híd átkelése izgalmas élmény, hiszen a rácsos szerkezeten keresztül közvetlenül látható az alattuk tátongó mélység. A szerkezet kecsessége és funkcionális jelentősége miatt a helyiek egyik kedvenc közlekedési eszköze, és a városi látkép fontos eleme. Földrajz K7 – Ember és a természeti környezet kölcsönhatása."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1925-ben adták át a gyalogos forgalomnak.",
+          "Körülbelül 100 méterrel magasodik a folyómeder fölé.",
+          "A híd hossza 125 méter, szélessége mindössze 2,4 méter.",
+          "Ferdinand Arnodin mérnöki irodája tervezte, akárcsak a Sidi M'Cid hidat.",
+          "A hídhoz egy 42 méter magas felvonó tartozik a könnyebb elérés érdekében.",
+          "2000-ben jelentős szerkezeti megerősítésen esett át."
+        ]
+      }
+    },
+    {
+      "id": "fort-santa-cruz-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Oran városa felett, a Murdjadjo-hegy tetején magasodik a Fort Santa Cruz, amely a spanyol hódítás korának lenyűgöző emléke. Az erődöt a 16. században építették a spanyolok, hogy védelmet nyújtsanak a városnak és a stratégiai jelentőségű kikötőnek. Masszív falaival és bástyáival az erődrendszer az akkori katonai építészet csúcsteljesítménye volt. A hegycsúcsról lélegzetelállító kilátás nyílik Oran öblére és a Földközi-tengerre. Az erőd alatt található kápolna és a monumentális Szűz Mária-szobor tovább emeli a hely spirituális és történelmi fényét. A helyszín ma népszerű turisztikai célpont, ahol a történelem megelevenedik a kőfalak között. Történelem K7 – Európai hatalmak terjeszkedése a Földközi-tengeren."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A spanyolok építették 1577 és 1604 között.",
+          "Kb. 400 méteres magasságban található a tengerszint felett.",
+          "Az erődrendszert alagutak kötik össze a hegy más részeivel.",
+          "Az oszmánok 1708-ban elfoglalták, majd a spanyolok 1732-ben visszavették.",
+          "A franciák 1831-ben vették birtokba és korszerűsítették.",
+          "Minden évben zarándoklatot tartanak a hegyre a kápolna tiszteletére."
+        ]
+      }
+    },
+    {
+      "id": "chapelle-santa-cruz-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Chapelle Santa Cruz egy fehér falú, festői kápolna Oranban, közvetlenül a Fort Santa Cruz erőd alatt. A kápolnát 1850-ben emelték hálából, miután egy pusztító kolerajárvány sújtotta a várost, és a hívők szerint a Szűz Mária közbenjárására érkezett eső vetett véget a kórnak. Az épület fölött magasodó hatalmas Szűz Mária-szobor (Notre-Dame du Salut) a város egyik legfőbb jelképe, amely védelmezően tekint le az öbölre. A kápolna építészeti stílusa egyszerű, de elhelyezkedése miatt drámai hatást kelt. A hívők és a turisták számára egyaránt fontos zarándokhely, ahol a hit és a történelem összefonódik a tengeri panorámával. Vizuális kultúra K7 – Építészet és vallási szimbólumok."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1850-ben épült egy kolerajárványt követően.",
+          "A rajta látható Szűz Mária-szobor az 1870-es években készült.",
+          "A kápolnát 2018-ban teljesen felújították.",
+          "Az épület a 'Salut' (Megváltás) dombján fekszik.",
+          "Minden évben májusban tartják a hagyományos körmenetet.",
+          "A kápolna prides látható az El Mers El Kebir haditengerészeti bázis."
+        ]
+      }
+    },
+    {
+      "id": "mosque-of-the-pasha-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Pasa-mecset Oran történelmi negyedében található, és az oszmán építészeti örökség egyik legszebb példája a városban. A mecsetet 1796-ban építtette Baba Hassan pasa az 1792-es spanyol kiűzés emlékére. Az épület egyik legjellegzetesebb eleme a kecses, spirális díszítésű minaretje, amely a mór stílus jegyeit hordozza. A mecset belső udvara és oszlopcsarnoka a nyugalom szigete a nyüzsgő városban, finom kerámiái és feliratai a korabeli mesterek tudását dicsérik. Az épület története szorosan kapcsolódik az algériai függetlenségi törekvésekhez és a nemzeti identitáshoz. Az UNESCO által is elismert műemlék fontos szerepet játszik Oran vallási és kulturális életében. Történelem K7 – Az algíri regencia és az oszmán-spanyol szembenállás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1796-ban épült Baba Hassan pasa parancsára.",
+          "A spanyolok Oranból való végső kivonulása után emelték.",
+          "Jellegzetes, nyolcszögletű alapú minaretje van.",
+          "A belső falakat andalúziai stílusú csempék díszítik.",
+          "Francia uralom alatt fegyverraktárként is használták.",
+          "Ma is aktív vallási és közösségi központ."
+        ]
+      }
+    },
+    {
+      "id": "el-mechouar-palace-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az El Mechouar palota Tlemcen szívében található, és egykor a Zayyanida-dinasztia uralkodóinak királyi rezidenciája volt. A 13. században épült citadella és palotaegyüttes a mór művészet egyik gyöngyszeme, amelyet gyakran hasonlítanak a granadai Alhambrához. A komplexum központi része a lenyűgöző udvar, díszes szökőkutakkal, faragott stukkókkal és 'zellige' csempékkel, amelyek a korabeli matematika és esztétika tökéletes harmóniáját tükrözik. A palota falai között egykor tudósok, költők és politikusok tanácskoztak, formálva a régió történelmét. A nemrégiben végzett alapos restaurálás után a palota újra régi fényében pompázik, és bemutatja Tlemcen dicső múltját, mint a maghreb kultúra egyik központját. Történelem K6 – A középkori iszlám államok és kultúra."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A 13. században alapították a Zayyanida uralkodók.",
+          "A komplexum neve (Mechouar) tanácskozóhelyet jelent.",
+          "Híres a minaretjéről, amelyet 1317-ben építettek.",
+          "A francia gyarmatosítás idején katonai laktanyává alakították.",
+          "2010-ben fejeződött be a nagyszabású rekonstrukciója.",
+          "A palota kertjeiben őshonos mediterrán növények találhatók."
+        ]
+      }
+    },
+    {
+      "id": "mansourah-fortress-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Tlemcen határában állnak a Mansourah erőd és mecset monumentális romjai, amelyek a Marinida-dinasztia ostromművészetének és vallási építészetének emlékei. A 14. században épült városfalak és a 40 méter magas minaret egykor egy hatalmas, megerősített várost (Mansourah - a Győzedelmes) alkottak, amelyet a szultán Tlemcen ostromára hozott létre. A minaret maradványai még ma is fenségesek, finom kőfaragásokkal és boltívekkel díszítve, amelyek a mór-andalúz stílus hatását mutatják. A romok között sétálva érezhető a történelem súlya és az egykori hatalmi harcok drámája. Mansourah nemcsak egy katonai tábor volt, hanem egy virágzó kulturális központ is a maga idejében. Történelem K6 – Ostromok és erődítmények a középkorban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1299 és 1303 között épült Abu Jakub Juszuf szultán uralkodása alatt.",
+          "A minaret ma is 40 méter magas, bár csak három oldala áll.",
+          "A városfalak hossza eredetileg több mint 4 kilométer volt.",
+          "A helyszínt a 14. század közepén elhagyták a lakók.",
+          "A mecset udvara egykor 60 oszloppal rendelkezett.",
+          "A romok 1900 óta nemzeti műemléknek számítanak."
+        ]
+      }
+    },
+    {
+      "id": "great-mosque-of-tlemcen-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Tlemceni Nagymecset az Almoravida-építészet egyik legősibb és legfontosabb képviselője Észak-Afrikában. Az 1136-ban alapított épület az iszlám művészet letisztultságát és eleganciáját tükrözi. Különlegessége a bonyolult, áttört faragású kupolája és a patkó alakú boltívei, amelyek a córdobai mecset hatását mutatják. A belső imaterem oszloperdeje méltóságteljes nyugalmat áraszt, míg a mihrab (imafülke) gazdagon díszített felületei a korabeli kézművesség remekei. A mecset az évszázadok során Tlemcen vallási életének központja maradt, túlélve dinasztiák felemelkedését és bukását. Az épület minden köve a hit és a tudás tiszteletéről tanúskodik. Vizuális kultúra K6 – Iszlám művészet és építészet."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1136-ban épült Ali ibn Juszuf Almoravida szultán idején.",
+          "A minaretet 1236-ban adta hozzá az első Zayyanida uralkodó.",
+          "Egyike az ország három legrégebbi Almoravida mecsetének.",
+          "Híres a 'múkarnasz' (cseppkőboltozat) díszítéséről.",
+          "Az imaterem 13 hajóra oszlik.",
+          "A mecset mellett egykor híres medresze (iskola) is működött."
+        ]
+      }
+    },
+    {
+      "id": "royal-mausoleum-of-mauretania-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Tipaza közelében, egy dombtetőn található a Mauritániai Királyi Mauzóleum, amely az ókori Algéria egyik legrejtélyesebb építménye. A kör alaprajzú, piramis alakú tetővel rendelkező hatalmas kőépítmény II. Juba numidiai király és felesége, II. Kleopátra Szeléné (a híres Kleopátra lánya) nyughelye lehetett. A helyi legenda szerint 'a keresztény nő sírjaként' (Le Tombeau de la Chrétienne) is ismert, a rajta látható álajtók kereszt alakú motívumai miatt. Az építmény méretei és precíz kivitelezése a hellenisztikus és a helyi berber építészeti stílusok találkozását mutatják. A dombról csodálatos kilátás nyílik a tengerre és az Atlasz-hegység vonulataira. Történelem K6 – Az ókori Numidia és a Római Birodalom."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Kr. e. 3. században vagy a Kr. u. 1. században épülhetett.",
+          "Átmérője 60 méter, magassága eredetileg elérte a 40 métert.",
+          "60 jón stílusú féloszlop díszíti az oldalát.",
+          "A belsejében egy bonyolult folyosórendszer vezet a sírkamrákhoz.",
+          "1982 óta az UNESCO Világörökség részét képezi.",
+          "Több ágyúlövés nyomát viseli a kalózok elleni harcok idejéből."
+        ]
+      }
+    },
+    {
+      "id": "arch-of-trajan-timgad-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Timgad romvárosának kapujában áll Traianus diadalíve, a római várostervezés és győzelmi építészet kiemelkedő példája. Az i.sz. 2. század végén emelt háromnyílású kapu a város nyugati bejáratát jelölte, a Cardo Maximus és a Decumanus Maximus utak találkozásánál. A homokkőből készült ív elegáns korinthoszi oszlopaival és szoborfülkéivel a Birodalom hatalmát és stabilitását hirdette a távoli afrikai provinciában. Timgad, a 'Numidiai Pompeji', szabályos négyzethálós alaprajzáról híres, amelynek ez a diadalív a leglátványosabb megmaradt eleme. A sivatagi szelek és a homok évszázadokig megőrizték a várost, hogy ma bepillantást engedjenek a római légiósok egykori életébe. Történelem K6 – Római városok és életmód Pannónián túl."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Traianus császár alapította a várost i. sz. 100-ban.",
+          "A diadalív valójában a 2. század végén vagy a 3. század elején épült.",
+          "Magassága 12 méter, szélessége pedig 11 méter.",
+          "Középső íve 6 méter magas a kocsiforgalom számára.",
+          "Timgad városa 1982 óta az UNESCO Világörökség része.",
+          "A diadalívet a 19. század végén restaurálták."
+        ]
+      }
+    },
+    {
+      "id": "medracen-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Medracen Algéria legrégebbi királyi mauzóleuma, amely Batna tartományban, a kopár felföldön áll. Ez a lenyűgöző, kúp alakú építmény a Kr. e. 3. századból származik, és numidiai királyok nyughelyeként szolgált. Építészeti szempontból egyfajta átmenetet képez a helyi temetkezési hagyományok és a görög hatás között, amit a dór stílusú oszlopdíszítései is igazolnak. A hatalmas kőtömbökből emelt mauzóleum dacol az idővel és a zord időjárással, magányos őrként vigyázva a tájat. A Medracen a berber civilizáció erejének és szervezettségének bizonyítéka, jóval a római hódítás előtti időkből. Megőrzése kiemelt feladat az algériai régészek számára. Történelem K6 – Berber királyságok felemelkedése."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Kr. e. 3. század környékén épült, a numidiai korszakban.",
+          "Átmérője 59 méter, magassága jelenleg 19 méter.",
+          "60 dór stílusú oszlop fut körbe az alapzata mentén.",
+          "A nevét Madghis numidiai királyról kapta a legenda szerint.",
+          "Az épület belsejében rejtett sírkamra található.",
+          "A világ egyik legveszélyeztetettebb műemlékeként tartják számon."
+        ]
+      }
+    },
+    {
+      "id": "opera-algiers-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Algíri Operaház (Boualem Bessaïh) a modern Algéria kulturális ébredésének szimbóluma, amely Ouled Fayet negyedében található. Az épület a Kína és Algéria közötti diplomáciai barátság ajándékaként épült, és 2016-ban nyitotta meg kapuit. Építészeti stílusa a kortárs megoldásokat ötvözi az iszlám díszítőelemekkel, tágas terei és kiváló akusztikája nemzetközi szintű előadások megtartását is lehetővé teszi. Az operaház nemcsak komolyzenei koncerteknek és balettelőadásoknak ad otthont, hanem a hagyományos algériai zene és tánc megőrzésének is fontos bástyája. A 1400 férőhelyes nézőtér modern felszereltsége biztosítja a látogatók számára a magas szintű művészi élményt. Vizuális kultúra K8 – Modern építészet és kulturális intézmények."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "2016. július 20-án avatták fel ünnepélyes keretek között.",
+          "A kínai kormány ajándéka volt Algéria számára.",
+          "Befogadóképessége 1400 fő a nagyteremben.",
+          "Nevét Boualem Bessaïh íróról és politikusról kapta.",
+          "Az épület területe meghaladja a 35 000 négyzetmétert.",
+          "Itt székel az Algériai Nemzeti Szimfonikus Zenekar is."
+        ]
+      }
+    },
+    {
+      "id": "nelson-mandela-stadium-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az algíri Nelson Mandela Stadion egy ultramodern sportlétesítmény, amelyet 2023-ban adtak át a főváros Baraki negyedében. A stadion a modern építészet és a sport iránti szenvedély találkozása, amely nevét a világhírű dél-afrikai szabadságharcosról kapta, ezzel is jelezve Algéria elkötelezettségét az afrikai egység mellett. A 40 000 férőhelyes aréna minden igényt kielégítő kényelemmel, fedett lelátókkal és a legmodernebb gyepszőnyeg-technológiával rendelkezik. A stadion nemcsak labdarúgó-mérkőzések helyszíne, hanem közösségi tér is, amely büszkeséggel tölti el az algériai szurkolókat. Futurisztikus megjelenése és esti fényei az új Algéria dinamizmusát szimbolizálják. Földrajz K8 – Városfejlődés és nagyberuházások."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "2023. január 7-én avatták fel a CHAN labdarúgótorna előtt.",
+          "40 784 ülőhellyel rendelkezik, amelyek mindegyike fedett.",
+          "Algéria első teljesen digitális, intelligens stadionja.",
+          "A stadion építése 2009-ben kezdődött.",
+          "Az avatáson részt vett Nelson Mandela unokája is.",
+          "A stadion megfelel a legszigorúbb FIFA-előírásoknak."
+        ]
+      }
+    },
+    {
+      "id": "miloud-hadefi-stadium-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Oran városának új büszkesége a Miloud Hadefi Olimpiai Stadion, amely a 2022-es Mediterrán Játékok központi helyszíne volt. A stadion egy hatalmas sportkomplexum része, amely uszodákat, sportcsarnokokat és edzőpályákat is magában foglal. Építészeti stílusa modern és lendületes, a tetőszerkezet hálós megoldása egyedi karaktert kölcsönöz az épületnek. A 40 000 néző befogadására alkalmas aréna a legmagasabb nemzetközi szabványoknak is megfelel. Nevét a város legendás labdarúgójáról kapta, aki az 'afrikai Beckenbauer' néven volt ismert. A stadion nemcsak a profi sportot szolgálja, hanem ösztönzi a fiatalokat is az egészséges életmódra és a tehetségük kibontakoztatására. Földrajz K8 – Sportlétesítmények szerepe a regionális fejlődésben."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "2021. június 17-én avatták fel az első hivatalos mérkőzéssel.",
+          "A stadion 40 143 néző befogadására képes.",
+          "A komplexumhoz tartozik egy 6000 férőhelyes atlétikai pálya is.",
+          "Nevét Miloud Hadefi válogatott labdarúgóról kapta.",
+          "Ez volt a 19. Mediterrán Játékok fő helyszíne 2022-ben.",
+          "A gyepszőnyeg természetes hibrid technológiával készült."
+        ]
+      }
+    },
+    {
+      "id": "bahia-center-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Oran látképét meghatározó Bahia Center négy monumentális lakótornya a modern városi élet és a gazdasági fejlődés jelképe Nyugat-Algériában. A tornyok 31 emeletesek, és a tengerpart közelében magasodnak, luxuslakásokat, irodákat és bevásárlóközpontokat kínálva. Építészeti szempontból a tornyok a kortárs stílust képviselik, nagy üvegfelületeikről pazar kilátás nyílik az öbölre és a kikötőre. A Bahia Center egyfajta 'város a városban' koncepció, amely ötvözi a kényelmet, a biztonságot és a modern szolgáltatásokat. Az épületegyüttes Oran dinamikus átalakulását és ambiciózus jövőképét tükrözi a 21. században. Földrajz K9 – Világgazdasági folyamatok és modern városképek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Négy darab, egyenként 113 méter magas toronyból áll.",
+          "Mindegyik torony 31 emeletes.",
+          "2008 és 2014 között épültek fel a tornyok.",
+          "Az ország legmagasabb lakóépületei közé tartoznak.",
+          "A komplexum aljában egy 25 000 m2-es pláza található.",
+          "Közvetlen összeköttetésben áll a Sheraton Oran szállodával."
+        ]
+      }
+    },
+    {
+      "id": "dar-hassan-pacha-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az algíri Casbah egyik legpompásabb magánpalotája a Dar Hassan Pacha, amelyet az algíri regencia egyik hatalmas méltósága építtetett a 18. század végén. A palota a mór polgári építészet remekműve, amelyre később a neoklasszicista stílus is hatást gyakorolt. Belső udvara (west-ed-dar) márványoszlopokkal és bonyolult csempeburkolatokkal díszített, a szobák mennyezetét pedig kézzel festett faelemek teszik egyedivé. Az épület tanúja volt az oszmán uralom utolsó éveinek és a francia korszak kezdetének is. Ma a palota az Iszlám Művészetek és Kalligráfia Múzeumának ad otthont, ahol a látogatók megcsodálhatják az iszlám írásművészet legszebb példáit. Történelem K7 – Városi élet és építészet az oszmán Algírban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1791-ben építtette Hassan pasa, aki később Algír deye lett.",
+          "A francia korszakban téli palotaként és kormányzói rezidenciaként szolgált.",
+          "Híres a monumentális, faragott kapujáról.",
+          "A belső udvarban eredeti delfti és tunéziai csempék is találhatók.",
+          "1982 óta az UNESCO Világörökség része a Casbah keretében.",
+          "Két különálló részből: egy nyilvános és egy magánlakrészből áll."
+        ]
+      }
+    },
+    {
+      "id": "lighthouse-cap-caxine-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Algírtól nyugatra található Cap Caxine világítótorony a tengeri navigáció egyik fontos és látványos pontja a Földközi-tenger partján. Az 1868-ban épült torony egy meredek sziklán áll, és fehérre meszelt falaival messziről is jól látható a hajósok számára. A világítótorony a gyarmati korszak mérnöki precizitását tükrözi, és máig aktív szerepet játszik a hajóforgalom biztonságos irányításában. A torony tetejéről lélegzetelállító kilátás nyílik a végtelen kék tengerre és a part menti sziklás szakaszokra. A helyszín népszerű a kirándulók körében is, akik a sós tengeri levegő és a naplemente látványa miatt látogatnak el ide. A Cap Caxine nemcsak technikai létesítmény, hanem a partvidék romantikus és ikonikus szimbóluma is. Földrajz K8 – Tengerparti felszínformák és navigáció."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1868-ban helyezték üzembe az algíri partok védelmére.",
+          "A torony magassága 33 méter, de a tengerszint felett 64 méteren van.",
+          "Fénye több mint 40 kilométeres távolságból is látható.",
+          "A torony alapja egy masszív sziklaplatón nyugszik.",
+          "Egyike az ország legrégebbi, ma is működő világítótornyainak.",
+          "A toronyban ma is lakik egy őr, aki felügyeli a berendezéseket."
+        ]
+      }
+    },
+    {
+      "id": "first-november-1954-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Batna városában található 1954. November 1. Mecset az algériai forradalom kitörésének tiszteletére emelt monumentális vallási és kulturális építmény. Ez a modern mecset az egyik legnagyobb az országban, építészete pedig a hagyományos iszlám formákat ötvözi a kortárs anyagokkal és léptékkel. Hatalmas kupolája és égbe nyúló minaretjei uralják a város látképét. A belső tér tágas és világos, finom geometriai mintákkal és kalligráfiával díszítve, amelyek az algériai kézművesség büszkeségei. A mecset nemcsak az imádság helyszíne, hanem a nemzeti emlékezet fontos pontja is, emlékeztetve a függetlenségért hozott áldozatokra. Az épület egyben oktatási központként is szolgál a helyi közösség számára. Történelem K8 – Az 1954-es forradalom emlékezete."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Nevét az algériai függetlenségi háború kezdetének dátumáról kapta.",
+          "A mecset több mint 30 000 hívő befogadására alkalmas.",
+          "Két monumentális minaretje 100 méternél is magasabb.",
+          "Batna tartomány legjelentősebb modern vallási építménye.",
+          "A belső teret értékes márvány és faragott cédrusfa díszíti.",
+          "A komplexumhoz könyvtár és konferenciaterem is tartozik."
+        ]
+      }
+    },
+    {
+      "id": "bab-el-khemis-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Bab el-Khemis (a 'Csütörtöki kapu') Tlemcen történelmi városfalának egyik legjelentősebb és legjobb állapotban fennmaradt kapuja. A Marinida-korszakban épült kapu egykor a város egyik fő bejárata volt, amelyen keresztül a kereskedők és az utazók érkeztek. Masszív kőépítménye és patkó alakú boltíve a mór katonai építészet jellegzetes vonásait hordozza. A kapu környékén zajlott egykor a híres heti vásár, amelyről a nevét is kapta. Ma a kapu a múlt és a jelen találkozási pontja, a modern forgalom lüktetése közepette is őrzi a középkori Tlemcen méltóságát. A látogatók számára a kapu az első lépés a város gazdag történelmi negyedeinek felfedezése felé. Történelem K6 – Kereskedelem és városfalak az iszlám világban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A 14. században épült a Marinida szultánok idején.",
+          "Egyike Tlemcen hét eredeti történelmi kapujának.",
+          "Nevét a minden csütörtökön tartott piacról kapta.",
+          "A kapu vöröses homokkőből készült, amely a környékre jellemző.",
+          "Díszítése egyszerű, de arányai monumentális hatást keltenek.",
+          "Ma is fontos közlekedési csomópont a városban."
+        ]
+      }
+    },
+    {
+      "id": "sidi-rached-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "A Sidi Rached-viadukt Constantine egyik leglátványosabb kőhídja, amely a Rhumel-szurdok felett ível át fenséges boltíveivel. Az 1912-ben átadott híd egyike a világ legmagasabb és leghosszabb kőboltozatos hídjainak, mérnöki mestermű, amely a város központját köti össze a déli negyedekkel. A 27 boltívből álló szerkezet legmagasabb pontja több mint 100 méterrel van a folyó felett. A híd neve a közelben nyugvó Sidi Rached szentről kapta a nevét, aki a város spirituális védelmezője. A viadukt nemcsak közlekedési eszköz, hanem Constantine sziklás látképének drámai eleme, amely az emberi kitartás és a precíz építészet diadalát hirdeti. Földrajz K7 – Közlekedési folyosók nehéz terepviszonyok között."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1908 és 1912 között épült Paul Séjourné francia mérnök tervei alapján.",
+          "A híd teljes hossza 447 méter, 27 kőboltívből áll.",
+          "Középső, legnagyobb ívének fesztávolsága 70 méter.",
+          "Építésekor a világ legmagasabb kőhídjaként tartották számon.",
+          "Mintegy 60 000 köbméter követ használtak fel az építéséhez.",
+          "A híd a város egyik legfontosabb közlekedési artériája."
+        ]
+      }
+    },
+    {
+      "id": "casbah-of-algiers-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az algíri Casbah egy élő történelemkönyv, az oszmán kori óvárosok egyik legkülönlegesebb példája a Földközi-tenger térségében. A domboldalra épült, szűk, kanyargós utcák és lépcsők labirintusa fehérre meszelt házaival, belső udvaros palotáival és ősi mecseteivel varázsolja el a látogatót. Ez a negyed volt az algériai ellenállás központja a gyarmati időkben, falai között ma is érezhető a múlt lüktetése. A Casbah nemcsak építészeti együttes, hanem egy különleges közösség otthona is, ahol a hagyományos kézművesség és a mindennapi élet rítusai generációk óta öröklődnek. 1992 óta az UNESCO Világörökség része, amely védelmet élvez, hogy megőrizzék ezt az egyedülálló kulturális kincset. Történelem K7 – Városi életmód a kora újkori Maghrebben."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A 16. században nyerte el mai formáját az oszmán uralom alatt.",
+          "A név az erődítményre (kasbah) utal, amely a negyed tetején áll.",
+          "Híres a bonyolult, egymásba fonódó tetőteraszairól.",
+          "Itt található az ország legrégebbi mecseteinek többsége.",
+          "A negyed vízellátását egykor bonyolult csatornarendszer biztosította.",
+          "Az algíri csata (1956-57) legfontosabb helyszíne volt."
+        ]
+      }
+    },
+    {
+      "id": "el-kantara-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "hu": "Az El Kantara-híd Constantine kapuja, amely már az ókor óta fontos átkelőhely a Rhumel-folyó sziklái felett. A mai híd egy 19. századi fémvázas és kőszerkezetű építmény, amely egy korábbi római, majd oszmán híd helyén áll. Ez a híd köti össze a modern várost a történelmi központtal, és az egyik legforgalmasabb pontja Constantine-nak. A szurdok két oldalát összekötő ív alatt a mélyben morajlik a folyó, lenyűgöző kontrasztot alkotva a városi zajjal. Az El Kantara híd a folytonosság szimbóluma, amely évszázadok óta tanúja a város fejlődésének és a rajta átvonuló hadseregeknek és kereskedőknek. Esti kivilágítása még hangsúlyosabbá teszi a város drámai fekvését. Földrajz K7 – Települések kialakulása stratégiai pontokon."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A helyén már a rómaiak is építettek hidat az ókorban.",
+          "A jelenlegi szerkezetet 1863-ban adták át III. Napóleon idején.",
+          "A híd 125 méter hosszú és 65 méter magas.",
+          "1951-ben jelentősen átépítették és megerősítették a teherforgalom számára.",
+          "A híd lábánál található a híres 'Hidak útja' túraútvonal kezdete.",
+          "A neve arabul egyszerűen 'A Hidat' jelenti."
+        ]
+      }
+    },
+    {
+      "id": "el-kala-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Az algéria északkeleti csücskében található El Kala Nemzeti Park az ország egyik legfontosabb biológiai sokféleséggel rendelkező területe. A park különlegessége a tavakból, mocsarakból, erdőkből és tengerparti dűnékből álló változatos ökoszisztéma. Ez a terület kulcsfontosságú állomása a vándormadaraknak, amelyek Európa és Afrika között vonulnak. A parkban található édesvizű tavak, mint a Tonga-tó, ritka madárfajoknak és vízi növényeknek adnak otthont. A dús parafa tölgyesek és fenyvesek között vaddisznók, sakálok és ritka szarvasfajok élnek. El Kala nemcsak a tudósok paradise-a, hanem a természetkedvelők számára is menedék, ahol a vizek tükre és a zöld erdők harmóniája fogadja a látogatót. Földrajz K9 – Természetvédelem és ökológiai egyensúly."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1983-ban alapították, területe mintegy 800 négyzetkilométer.",
+          "Az UNESCO bioszféra-rezervátumként tartja számon 1990 óta.",
+          "Itt található Algéria legfontosabb vizes élőhely-rendszere.",
+          "Több mint 40 emlősfaj és 200 madárfaj él a területén.",
+          "A park híres a ritka berber szarvas állományáról.",
+          "Három nagy tava van: Mellah (sós), Oubeira és Tonga (édesvizű)."
+        ]
+      }
+    },
+    {
+      "id": "chrea-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Az Atlasz-hegység szívében, Blida városa felett található Chréa Nemzeti Park Algéria egyik legnépszerűbb hegyvidéki üdülőhelye. A park sűrű atlaszcédrus erdőiről híres, amelyek télen hófödte tájjá változnak, lehetővé téve a síelést is, ami ritka jelenség Afrikában. A terület fontos menedéke a veszélyeztetett berber makákóknak, amelyek gyakran merészkednek az utazók közelébe. A tiszta hegyi levegő és a kanyargós szerpentinek vonzzák a túrázókat és a természetfotósokat. A park legmagasabb pontjairól tiszta időben ellátni egészen a Földközi-tengerig. Chréa a biodiverzitás megőrzésének mintapéldája, ahol az emberi kikapcsolódás és a vadon védelme kéz a kézben jár. Földrajz K8 – Hegyvidéki övezetek és magashegységi éghajlat."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1983-ban hozták létre a parkot az Atlasz-hegység védelmére.",
+          "Itt található Afrika egyik kevés síközpontjának egyike.",
+          "Az atlaszcédrus (Cedrus atlanti) egyik legfontosabb élőhelye.",
+          "A parkban él a veszélyeztetett berber makákó egyik legnagyobb populációja.",
+          "Legmagasabb pontja a Sidi Abdelkader-csúcs (1629 m).",
+          "A terület 2002 óta az UNESCO bioszféra-rezervátum része."
+        ]
+      }
+    },
+    {
+      "id": "gouraya-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Gouraya Nemzeti Park Bejaia városa mellett, a Földközi-tenger partján fekszik, ahol a meredek mészkősziklák találkoznak a türkizkék vízzel. A park névadója a Gouraya-hegy, amelynek csúcsán egy régi erődítmény vigyázza az öblöt. A terület gazdag növényvilággal rendelkezik, mediterrán bozótosok és ritka orchideák díszítik a sziklás lejtőket. A park lakói között megtalálhatók a berber makákók és számos ragadozó madár. A látogatókat festői öblök, mint a Les Aiguades, és kristálytiszta források várják. Gouraya nemcsak természeti kincs, hanem kulturális szempontból is jelentős, hiszen számos legenda kötődik a hegy szelleméhez, Yemma Gourayához. Földrajz K8 – Mediterrán tájak és tengerparti ökoszisztémák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bejaia tartományban található, 1984-ben vált nemzeti parkká.",
+          "Területe viszonylag kicsi (20 km2), de rendkívül sűrű a biodiverzitása.",
+          "A Cap Carbon világítótorony a park egyik legmagasabb pontján áll.",
+          "Tengeri része delfinek és tengeri teknősök fontos élőhelye.",
+          "A park területén számos barlang és régészeti lelet található.",
+          "Évente több mint egymillió látogatót fogad."
+        ]
+      }
+    },
+    {
+      "id": "mitidja-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Mitidja-síkság Algéria 'éléskamrája', egy hatalmas és termékeny mezőgazdasági terület az Atlasz-hegység lábánál, Algír szomszédságában. Az egykor mocsaras területet az évszázadok során virágzó kertekké és ültetvényekké alakították. Itt található az ország legjelentősebb narancs- és citromligeteinek nagy része, de jelentős a szőlő-, gabona- és zöldségtermesztés is. A síkság bőséges vízkészletei és a mediterrán éghajlat ideális feltételeket biztosítanak az intenzív gazdálkodáshoz. A Mitidja nemcsak gazdasági motor, hanem a tájképet meghatározó zöld szőnyeg is, amely friss élelmiszerrel látja el a fővárost és környékét. A modern öntözőrendszerek bevezetése tovább növelte a terület hatékonyságát. Földrajz K8 – Mezőgazdasági termelési körzetek és élelmiszerbiztonság."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Mintegy 100 kilométer hosszan húzódik kelet-nyugati irányban.",
+          "Algéria legfontosabb citrusféle-termelő vidéke.",
+          "A terület vízellátását számos gát és felszín alatti vízréteg biztosítja.",
+          "A gyarmati időkben itt alakultak ki az első modern mintagazdaságok.",
+          "Fontos szerepe van a tejtermelésben és az állattenyésztésben is.",
+          "A síkság központja Blida, a 'Rózsák városa'."
+        ]
+      }
+    },
+    {
+      "id": "oued-souf-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Oued Souf az algériai Szahara egyik legkülönlegesebb mezőgazdasági csodája, ahol az emberi leleményesség győzedelmeskedett a sivatag felett. A térség híres a 'ghout' technológiáról: a gazdák mély tölcséreket ásnak a homokdűnék közé, hogy a datolyapálmák gyökerei elérjék a felszín alatti vízréteget. Felülről nézve a táj olyan, mintha ezer apró zöld oázis pettyezné a homoktengert. A pálmák mellett a homokban burgonyát és egyéb zöldségeket is termesztenek modern öntözéssel. A régió központja, El Oued, az 'ezer kupola városa' nevet viseli, különleges építészete miatt. Oued Souf példája annak, hogyan lehet fenntartható életet kialakítani a legszélsőségesebb környezetben is. Földrajz K9 – Oázisgazdálkodás és elsivatagosodás elleni küzdelem."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A 'ghout' módszerrel a pálmák közvetlenül a talajvízből isznak.",
+          "Algéria egyik legnagyobb burgonyatermelő vidéke lett az utóbbi években.",
+          "A datolyatermesztés (Deglet Nour fajta) világszínvonalú.",
+          "A területen több mint egymillió datolyapálma található.",
+          "A homokdűnék mozgása állandó kihívást jelent a gazdáknak.",
+          "A régióban a napenergia használata is egyre elterjedtebb az öntözéshez."
+        ]
+      }
+    },
+    {
+      "id": "annaba-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Annaba és környéke Algéria északkeleti részének meghatározó mezőgazdasági központja, ahol a bőséges csapadék és a vasban gazdag, vörös talaj kiváló feltételeket teremt. A Seybouse-folyó völgye különösen termékeny, itt hatalmas paradicsom-, búza- és dohányültetvények sorakoznak. Annaba környéke híres a gyümölcsöskertjeiről is, különösen a lédús szilva és a barack népszerű. Az élelmiszeripar szorosan kapcsolódik a termeléshez, számos feldolgozóüzem működik a város közelében. A tájat a zöldellő dombok és a rendezett szántóföldek határozzák meg, amelyek a tenger közelsége miatt sajátos mikroklímával rendelkeznek. A régió hozzájárulása az ország élelmiszer-exportjához kiemelkedő. Földrajz K8 – Talajfajták és növénytermesztési övezetek."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A Seybouse-folyó völgye az ország egyik legfontosabb öntözött területe.",
+          "Vezető szerepet tölt be az ipari paradicsom termesztésében.",
+          "A régióban jelentős a parafa-kitermelés a környező erdőkből.",
+          "Híres az őshonos olajfaligeteiről és a minőségi olívaolajról.",
+          "A modern technológiák révén évente több betakarítást is végeznek.",
+          "Annaba kikötője fontos kapu a mezőgazdasági termékek kiviteléhez."
+        ]
+      }
+    },
+    {
+      "id": "biskra-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Biskra, a 'Szahara kapuja', a világ egyik legfontosabb datolyatermelő vidéke. Az oázisvárost körülvevő hatalmas pálmaligetekben terem a híres 'Deglet Nour' (a fény ujja) datolya, amely mézédes ízéről és áttetsző húsáról ismert. A mezőgazdaság itt a hagyományos csatornarendszerek (foggarák) és a modern fúrt kutak kombinációjára épül. Az utóbbi évtizedekben Biskra a primőr zöldségek (paprika, paradicsom) központjává is vált, köszönhetően a fóliasátras termesztés elterjedésének a téli napsütésben. A tájképet a végtelen pálmaerdők és a távolban magasodó Aurès-hegység kontrasztja teszi felejthetetlenné. Biskra az élettel teli sivatagi gazdálkodás mintaképe. Földrajz K9 – Trópusi sivatagi éghajlat és öntözéses gazdálkodás."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Több mint 4 millió datolyapálma található a tartományban.",
+          "A Deglet Nour datolya Algéria egyik legfontosabb exportterméke.",
+          "Biskra az ország legnagyobb téli zöldségszállítója.",
+          "A pálmák alatt gyakran gyümölcsfákat és takarmánynövényeket is termesztenek.",
+          "A Tolga-oázis adja a legjobb minőségű datolyatermést.",
+          "A helyi gazdák évezredes tapasztalattal rendelkeznek a pálmák beporzásában."
+        ]
+      }
+    },
+    {
+      "id": "setif-highlands-agriculture-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Sétif-fennsík Algéria legfontosabb gabonatermesztő vidéke, amelyet gyakran az ország 'búzaövéként' emlegetnek. A magas fekvésű területeken a hideg telek és a forró nyarak ideálisak az őszi búza és az árpa számára. A tájat végtelen, aranyló gabonatáblák és modern silók határozzák meg, amelyek a betakarítás idején pezsdülnek fel igazán. Sétif környékén az állattenyésztés, különösen a szarvasmarha- és juhtartás is jelentős, ami megalapozza a helyi tej- és húsipart. A fennsík mezőgazdasága nagyban függ az időszakos csapadéktól, ezért a vízgazdálkodás kulcsfontosságú a fenntartható termeléshez. A régió évezredek óta fontos élelmiszerforrás, már a rómaiak is innen látták el birodalmukat gabonával. Földrajz K8 – Kontinentális éghajlat hatása a növénytermesztésre."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Átlagosan 800-1000 méteres tengerszint feletti magasságban fekszik.",
+          "Algéria teljes gabonatermésének jelentős részét ez a régió adja.",
+          "Híres a 'durumbúza' termesztéséről, amely a kuszkusz alapanyaga.",
+          "A térségben modern kísérleti gazdaságok segítik a hozamok növelését.",
+          "Jelentős a burgonya- és a szárazhüvelyes-termelés is.",
+          "Sétif városa fontos logisztikai központ a termények elosztásához."
+        ]
+      }
+    },
+    {
+      "id": "algiers-botanical-garden-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Az algíri Jardin d'Essai du Hamma a világ egyik legszebb és legjelentősebb botanikus kertje, egy valóságos zöld oázis a nagyvárosi nyüzsgésben. Az 1832-ben alapított kert egy hatalmas élő laboratórium, ahol a világ minden tájáról származó egzotikus növényeket honosítottak meg. A kert két fő részből áll: egy szimmetrikus francia kertből és egy buja, dzsungelszerű angolparkból. Hatalmas fikuszok, ritka pálmák és bambuszerdők között sétálhatunk, miközben a tenger felől érkező szellő hűsíti a levegőt. A kert híres filmes helyszín is, itt forgatták az 1932-es Tarzan-filmet. A Hamma nemcsak a pihenés helye, hanem a botanikai kutatás és az oktatás nemzetközileg elismert központja is. Földrajz K7 – Globális növényföldrajz és mesterséges ökoszisztémák."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1832-ben alapították, területe ma mintegy 32 hektár.",
+          "Több mint 3000 növényfaj található meg a kertben.",
+          "Egyik különlegessége a hatalmas sárkányvérfák gyűjteménye.",
+          "A kert mikroklímája 2-3 fokkal hűvösebb a környező városnál.",
+          "Itt forgatták a 'Tarzan, a majomember' című film egyes jeleneteit.",
+          "A kert végén található az Országos Képzőművészeti Múzeum épülete."
+        ]
+      }
+    },
+    {
+      "id": "aquafortland-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Aquafortland egy modern vízi élménypark Algír keleti részén, Bordj El Kiffan tengerpartján, amely a helyi családok és fiatalok kedvelt kikapcsolódási helyszíne. A park számos csúszdával, hullámmedencével és kalandpályával várja a látogatókat a forró nyári napokon. A létesítmény kialakítása megfelel a nemzetközi szabványoknak, tiszta és biztonságos környezetet nyújtva a szórakozáshoz. Aquafortland nemcsak a vízről szól: fitneszterem, wellness-részleg és kiváló éttermek is találhatók a területén. A park népszerűsége mutatja a modern szabadidős szolgáltatások iránti növekvő igényt Algériában. A tenger közelsége és a vidám hangulat miatt a park a fővárosi nyár elengedhetetlen részévé vált. Földrajz K8 – Szolgáltatások és turizmus a nagyvárosokban."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bordj El Kiffan negyedben található, közvetlenül a tengerparton.",
+          "Számos különböző nehézségi fokú óriáscsúszdával rendelkezik.",
+          "A park területén mesterséges vízesések és folyók is vannak.",
+          "Éjszakai rendezvényeknek és koncerteknek is gyakran helyet ad.",
+          "Saját strandrésszel rendelkezik a Földközi-tenger partján.",
+          "A park egész évben nyitva tartó sportközpontot is üzemeltet."
+        ]
+      }
+    },
+    {
+      "id": "dinosaur-park-setif-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Sétifben található Dinoszaurusz Park egy különleges tematikus élménypark, amely az őslények világába repíti vissza a látogatókat. Az élethű, gyakran mozgó és hangot adó dinoszaurusz-modellek között sétálva a gyerekek és felnőttek egyaránt játékos formában tanulhatnak a Föld történetéről. A park célja az oktatás és a szórakoztatás ötvözése, segítve a természettudományok népszerűsítését. A területen játszóterek, pihenőhelyek és zöld felületek is találhatók, így ideális célpont családi kirándulásokhoz. A park létrejötte a város kulturális kínálatának modernizálását tükrözi, és Sétif egyik új turisztikai vonzerejévé vált. A kiállított fajok között a legismertebb ragadozók és növényevők is megtalálhatók. Földrajz K7 – A Föld története és az élővilág fejlődése."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Sétif városának egyik legújabb családi látványossága.",
+          "Több tucat élethű, méretarányos dinoszaurusz-reprodukciót mutat be.",
+          "Néhány modell interaktív elemekkel (mozgás, hang) is rendelkezik.",
+          "A park oktatási táblái bemutatják az egyes fajok életterét.",
+          "A látogatók között nagyon népszerűek a fotózási pontok.",
+          "A parkhoz kávézó és szuvenírbolt is tartozik."
+        ]
+      }
+    },
+    {
+      "id": "mostaganem-wildlife-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Mostaganem Wildlife Park (Mosta Land) egy hatalmas állatkert és vidámpark együttes, amely Nyugat-Algéria egyik legfontosabb szabadidős központja. A parkban a világ minden tájáról származó állatfajok, köztük oroszlánok, tigrisek, zsiráfok és egzotikus madarak láthatók tágas és modern kifutókban. Az állatkert mellett egy izgalmas vidámpark is működik, óriáskerékkel és különböző játékokkal, amelyek felejthetetlen élményt nyújtanak minden korosztálynak. A park nagy hangsúlyt fektet az állatvédelemre és a környezeti nevelésre. A domboldalon elhelyezkedő komplexumból csodás kilátás nyílik a tengerre, a sétányok pedig ideálisak a délutáni pihenéshez. Földrajz K8 – Állatföldrajzi övezetek bemutatása."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "2017-ben nyitotta meg kapuit a nagyközönség előtt.",
+          "Több mint 100 különböző állatfajnak ad otthont.",
+          "Területe meghaladja az 50 hektárt.",
+          "A vidámpark része az ország egyik legmodernebb hullámvasútja.",
+          "A parkban sikeres tenyészprogramok folynak ritka fajok számára.",
+          "Hétvégente és ünnepnapokon több tízezer látogatót vonz."
+        ]
+      }
+    },
+    {
+      "id": "oran-aquarium-life-v2",
+      "descriptionAdvanced": {
+        "hu": "Az orani akvárium a Földközi-tenger és a világ óceánjainak rejtélyes világába enged betekintést. A létesítmény célja a tengeri élővilág bemutatása és a környezetvédelmi tudatosság növelése az algériai fiatalok körében. A medencékben színes halak, cápák, korallok és különleges tengeri gerinctelenek csodálhatók meg, amelyek a régió tengeri biodiverzitását reprezentálják. Az akvárium oktatási programjai segítenek megérteni a tengerek törékeny egyensúlyát és a szennyezés elleni küzdelem fontosságát. A látogatók számára a vízi világ látványa egyszerre megnyugtató és lenyűgöző élmény. Az orani kikötő közelében található épület fontos tudományos és turisztikai bástyája a városnak. Földrajz K9 – Világtengerek élővilága és védelme."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Oran történelmi belvárosában, a tenger közelében található.",
+          "Kifejezett figyelmet fordítanak a helyi, mediterrán halfajok bemutatására.",
+          "Interaktív kijelzők segítik a tengeri ökoszisztémák megismerését.",
+          "Az akvárium szoros kapcsolatban áll tengerbiológiai kutatóintézetekkel.",
+          "Rendszeresen szerveznek iskolás csoportok számára tanórákat.",
+          "Egyik legnépszerűbb látványossága a trópusi korallzátony-medence."
+        ]
+      }
+    },
+    {
+      "id": "taza-national-park-life-v2",
+      "descriptionAdvanced": {
+        "hu": "A Jijel tartományban található Taza Nemzeti Park Algéria egyik legvadregényesebb és legzöldebb tája, ahol az erdővel borított hegyek meredeken szakadnak bele a tengerbe. A park híres buja növényzetéről, különösen a paratölgy- és afrikai tölgyerdőiről, amelyek hűvös menedéket nyújtanak a nyári melegben. Itt él a rendkívül ritka kabyl csuszka, egy apró madárfaj, amely csak ezen a vidéken honos. A park part menti szakaszán titokzatos barlangok, mint a 'Grottes Merveilleuses' (Csodálatos barlangok), várják a felfedezőket lenyűgöző cseppkőalakzataikkal. Taza a természet érintetlenségének jelképe, ahol a hegyi túrázás és a tengerparti pihenés egyedülálló módon ötvöződik. Földrajz K8 – A Maghreb természetes növényzete és endemikus fajai."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "1984-ben alapították, területe mintegy 3800 hektár.",
+          "Az UNESCO bioszféra-rezervátumként ismerte el 2004-ben.",
+          "Itt található Algéria egyik legszebb barlangrendszere.",
+          "A park jelképe a ritka kabyl csuszka (Sitta ledanti).",
+          "A tengerparti sziklák között számos rejtett, homokos öböl található.",
+          "A park területén tilos a beépítés, megőrizve a táj eredeti szépségét."
+        ]
+      }
+    }
+  ]
+}

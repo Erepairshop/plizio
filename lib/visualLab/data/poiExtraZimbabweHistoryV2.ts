@@ -36,7 +36,14 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
         "Built starting in the 11th century.",
         "The stone walls were constructed without mortar."
       ]
-    }, image: "/poi-images/great-zimbabwe-history-v2.webp"},
+    }, image: "/poi-images/great-zimbabwe-history-v2.webp",
+    descriptionAdvanced: {
+      en: "Great Zimbabwe is the most significant archaeological site in Zimbabwe and served as the capital of the Kingdom of Zimbabwe during the Late Iron Age. Built between the 11th and 15th centuries, its massive dry-stone walls—constructed without mortar—are a testament to the architectural brilliance of its Shona ancestors. The site, which covers nearly 800 hectares, was a major trading center for gold and ivory. History K7 — medieval African kingdoms."
+    },
+    factsAdvanced: {
+      en: ["Period: Constructed between the 11th and 15th centuries.", "Status: UNESCO World Heritage site since 1986.", "Architecture: Famous for massive mortarless dry-stone walls.", "Significance: Capital of the Kingdom of Zimbabwe.", "Economy: Centralized hub for regional gold and ivory trade.", "Scale: Spread over nearly 800 hectares."]
+    }
+  },
   {
     id: "khami-ruins-history-v2",
     type: "historical",
@@ -71,7 +78,14 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
         "Flourished between 1450 and 1650.",
         "Known for its elaborate terraced walls."
       ]
-    }, image: "/poi-images/khami-ruins-history-v2.webp"},
+    }, image: "/poi-images/khami-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Khami Ruins, located west of Bulawayo, represent the capital of the Torwa State that emerged after the decline of Great Zimbabwe. Inhabited from the 16th to the 19th centuries, the site is known for its terraced platforms and beautifully decorated stone walls featuring intricate chevron and herringbone patterns. Khami provides a vital historical link to understanding the transition of political power in Southern Africa. History K7 — post-Great Zimbabwe civilizations."
+    },
+    factsAdvanced: {
+      en: ["Period: Inhabited from the 16th to the 19th centuries.", "Significance: Former capital of the Torwa State.", "Design: Features elaborate terraced platforms.", "Decoration: Known for distinct chevron and herringbone stonework.", "Status: UNESCO World Heritage site.", "Geography: Located west of Bulawayo."]
+    }
+  },
   {
     id: "ziwa-ruins-history-v2",
     type: "historical",
@@ -106,7 +120,14 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
         "Date back to the 15th century.",
         "Shows complex early farming methods."
       ]
-    }, image: "/poi-images/ziwa-ruins-history-v2.webp"},
+    }, image: "/poi-images/ziwa-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      en: "The Ziwa ruins, situated in the Nyanga region, constitute one of the most expansive archaeological landscapes in Southern Africa, covering roughly 3,300 hectares. The site contains evidence of ancient agricultural societies, including terraced hills, pit structures, and irrigation channels. This landscape illustrates a highly advanced civilization that thrived for centuries through integrated land management. History K6 — ancient agricultural practices."
+    },
+    factsAdvanced: {
+      en: ["Scale: Covers approximately 3,300 hectares.", "Location: Nyanga region, Eastern Highlands.", "Features: Includes terraced hills and sophisticated water channels.", "Society: Evidence of advanced ancient agricultural communities.", "Research: Crucial site for understanding Iron Age settlement patterns.", "Heritage: Offers a unique look at pre-colonial environmental management."]
+    }
+  },
   {
     id: "danangombe-history-v2",
     type: "historical",
@@ -141,6 +162,12 @@ export const poiExtraZimbabweHistoryV2: POI[] = [
         "Founded in the late 17th century.",
         "Site where Spanish silver coins and Portuguese artifacts were found."
       ]
+    },
+    descriptionAdvanced: {
+      en: "Danangombe, formerly known as Dhlodhlo, was the capital of the Rozvi Empire during the 17th and 18th centuries. The ruins, located on a granite hill, reflect the architectural traditions established by Great Zimbabwe and the Torwa State, but with unique developments in domestic stone-walled dwellings. It served as a powerful political and military center, maintaining control over vast trade networks in the Zimbabwean interior. History K7 — rise and fall of the Rozvi Empire."
+    },
+    factsAdvanced: {
+      en: ["Period: 17th to 18th century.", "Status: Former capital of the Rozvi Empire.", "Location: Situated on a prominent granite hill.", "Architecture: Combines earlier architectural traditions with new dwelling styles.", "Political role: Center of military and trade power.", "Heritage: Important ruins for studying post-Torwa state formation."]
     }
   },
   {

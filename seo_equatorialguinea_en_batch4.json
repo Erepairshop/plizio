@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "niefang-cities-v2",
+      "descriptionAdvanced": "Niefang is situated in the continental part of Equatorial Guinea, in the Rio Muni region, and plays an important role in connecting the country's internal road network. The area surrounding the town is covered by dense, lush tropical rainforests, which form an integral part of the country's biodiversity. Niefang also serves as a commercial center where goods from the surrounding forests are exchanged, thus contributing to local economic stability. The town continues to develop, while its environment remains an example of the harmonious coexistence of nature and human settlement. Geography K6, Ecology K8.",
+      "factsAdvanced": [
+        "Important city in the Rio Muni region.",
+        "Connecting point for the country's internal road network.",
+        "Surrounded by tropical rainforests.",
+        "Commercial hub in the region.",
+        "Contributes to economic stability.",
+        "Example of harmony between nature and human settlement."
+      ]
+    },
+    {
+      "id": "nkue-cities-v2",
+      "descriptionAdvanced": "Nkue is an important administrative and commercial center in mainland Equatorial Guinea, in the Kie-Ntem province. Due to its location, the city holds strategic significance in regional logistics, connecting surrounding agricultural areas with more distant centers. Nkue is undergoing continuous infrastructure development, which increases the economic potential of the region. The surrounding landscape consists of characteristic tropical forests and smaller cultivated areas, which are important for self-sufficiency and trade. Geography K6, Economics K7.",
+      "factsAdvanced": [
+        "Important city in Kie-Ntem province.",
+        "Regional commercial center.",
+        "Strategic logistical role.",
+        "Continuous infrastructural developments.",
+        "Tropical forest and agricultural environment.",
+        "Contributes to local economic growth."
+      ]
+    },
+    {
+      "id": "machinda-cities-v2",
+      "descriptionAdvanced": "Machinda is a small but important commercial station in the Rio Muni region, closely linked to the surrounding agricultural production. The life of the settlement is determined by the exchange of local farmers' products, making market activity a part of daily routine. Through its location, Machinda provides convenient access for surrounding villages to commercial services. The town is constantly developing, while its environment continues to showcase a mix of traditional lifestyles and tropical natural features. Geography K6, Social Studies K7.",
+      "factsAdvanced": [
+        "Small town in the Rio Muni region.",
+        "Important agricultural commercial station.",
+        "Center for local market activity.",
+        "Convenient commercial services.",
+        "Blend of traditional and modern lifestyles.",
+        "Strong connection to agricultural producers."
+      ]
+    },
+    {
+      "id": "acurenam-cities-v2",
+      "descriptionAdvanced": "Acurenam is a somewhat secluded but culturally rich settlement in the Centro Sur province, located deep in the heart of tropical rainforests. The surroundings of the town are an excellent example of untouched nature, where local inhabitants have lived in harmony with the forest using traditional methods for centuries. Acurenam plays an important role in maintaining community life and is also a gateway for ecotourism for those exploring the hidden treasures of Rio Muni's interior. The town's infrastructure is gradually improving while it strives to preserve its unique, quiet character. Geography K6, Ecology K8.",
+      "factsAdvanced": [
+        "Settlement in the Centro Sur province.",
+        "Located in the heart of tropical rainforests.",
+        "Center for traditional lifestyles.",
+        "One of the starting points for ecotourism.",
+        "Gateway to the hidden treasures of the region.",
+        "Quiet town with a unique character."
+      ]
+    },
+    {
+      "id": "bicurga-cities-v2",
+      "descriptionAdvanced": "Bicurga is a defining agricultural town in the Centro Sur province, playing an important role in the region's supply. The life of the settlement is characterized by farming on fertile lands, where locals mainly cultivate basic food items. Bicurga's location allows surrounding villages to reach commercial services, thereby encouraging local economic activity. The town is experiencing slow but steady growth while preserving the rural charm and traditions of the central region. Geography K6, Economics K7.",
+      "factsAdvanced": [
+        "One of the towns in the Centro Sur province.",
+        "Agricultural production center.",
+        "Central role in regional supply.",
+        "Provides access to commercial services.",
+        "Slow, sustainable economic development.",
+        "Preserves the rural traditions of the central region."
+      ]
+    }
+  ]
+}

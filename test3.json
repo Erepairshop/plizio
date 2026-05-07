@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "abomey-calavi-cities-v2",
+      "descriptionAdvanced": {
+        "en": "Abomey-Calavi, located in the Atlantique Department, serves as a crucial urban center just north of Cotonou. Once a smaller settlement, it has exploded into one of Benin's most populous urban areas due to its proximity to the economic capital. The city is home to the University of Abomey-Calavi, the largest and most prestigious academic institution in the nation, which attracts students from across West Africa. Its rapid expansion has transformed it into a vital residential and administrative hub, connecting the vibrant coastal economy with the country's interior. Geography K7 \u2014 urban development and regional growth."
+      },
+      "factsAdvanced": {
+        "en": [
+          "Population growth accelerated significantly after the year 2000.",
+          "The university was established in 1970 as the University of Dahomey.",
+          "Abomey-Calavi acts as a primary dormitory suburb for the Cotonou workforce.",
+          "It is situated at an elevation of approximately 30 meters above sea level.",
+          "The city covers a vast area that bridges coastal lagoons and inland plateaus.",
+          "Benin's population density is highest in the southern urban corridor including Abomey-Calavi."
+        ]
+      }
+    }
+  ]
+}

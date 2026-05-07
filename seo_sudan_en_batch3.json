@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haya-cities-v2",
+      "descriptionAdvanced": "Haya is a critical railway and road junction town in the Red Sea State, situated in the arid plains between the Atbara River and the Red Sea coast. It serves as the primary pivot where the railway line from Khartoum splits toward Port Sudan and Kassala. This strategic location makes Haya a vital logistics and transit hub for movement between the capital, the eastern agricultural regions, and the country's main port. The town's economy is centered on transport services, small-scale trade, and supporting the nomadic Beja communities of the surrounding desert. Haya's role as a transportation 'bottleneck' ensures its continued significance in Sudan's national logistics network.",
+      "factsAdvanced": [
+        "Major junction for the Sudanese railway network.",
+        "Located 200 kilometers southwest of Port Sudan.",
+        "Strategic intersection of the Khartoum-Port Sudan and Kassala highways.",
+        "Key transit point for cargo moving to and from the coast.",
+        "Primary center for the Beja (Hadendowa) nomadic groups.",
+        "Features significant railway maintenance and logistics facilities.",
+        "Located in a highly arid, desert environment.",
+        "Essential stop for long-distance truckers and travelers."
+      ]
+    },
+    {
+      "id": "sinkat-cities-v2",
+      "descriptionAdvanced": "Sinkat is a historic and culturally significant town in the Red Sea State, nestled in the scenic Red Sea Hills. Due to its higher elevation, it enjoys a much cooler and more pleasant climate than the sweltering coastal plains, traditionally serving as a summer retreat for the residents of Port Sudan and Suakin. Sinkat is a major center for the Beja people and is historically famous as a stronghold of the Mahdist movement and the birthplace of the legendary leader Osman Digna. The town is also a significant spiritual site, hosting the tombs of several prominent Sufi saints. Its beautiful mountain setting and rich history make it a unique cultural pivot in eastern Sudan.",
+      "factsAdvanced": [
+        "Situated at an altitude of approximately 850 meters.",
+        "Birthplace of the Mahdist leader Osman Digna.",
+        "Located 80 kilometers southwest of Port Sudan.",
+        "Renowned for its relatively cool and healthy mountain climate.",
+        "Key cultural and spiritual center for the Beja people.",
+        "Historic base for the Khatmiyya and other Sufi orders.",
+        "Strategically located on the main road to the Nile Valley.",
+        "Surrounded by the rugged granite peaks of the Red Sea Hills."
+      ]
+    },
+    {
+      "id": "karari-cities-v2",
+      "descriptionAdvanced": "Karari is a significant administrative and historic district within the Omdurman metropolitan area, located on the western bank of the Nile. It is most famous as the site of the Battle of Omdurman (also known as the Battle of Karari) in 1898, where the Anglo-Egyptian forces defeated the Mahdist army, leading to the end of the Mahdiyya state. Modern Karari is a rapidly growing urban area, hosting several military academies, government institutions, and expanding residential neighborhoods. The district serves as a northern gateway to Omdurman and preserves several historical landmarks related to the 19th-century conflict. Its development reflects the northward expansion of the Khartoum-Omdurman urban core.",
+      "factsAdvanced": [
+        "Site of the decisive Battle of Karari on September 2, 1898.",
+        "Located in the northern part of the Omdurman municipality.",
+        "Home to the Karari Military Academy.",
+        "Key administrative hub for the northern Khartoum State.",
+        "Features historical memorials and trenches from the 1898 battle.",
+        "Major residential and commercial expansion zone.",
+        "Connected to Khartoum Bahri by the Halfaya Bridge.",
+        "Strategically located along the western bank of the Nile."
+      ]
+    },
+    {
+      "id": "jabal-awliya-cities-v2",
+      "descriptionAdvanced": "Jabal Awliya is a town and administrative district located about 40 kilometers south of Khartoum, on the White Nile. It is primarily famous for the Jabal Awliya Dam, built in 1937 to regulate the flow of the White Nile for irrigation in Egypt and later Sudan. The dam has created a large reservoir that supports a thriving local fishing industry and provides a popular recreational area for residents of the capital. Jabal Awliya serves as a southern gateway to the Khartoum metropolitan area and is a major center for agriculture and livestock trade. Its location at the transition between the urban sprawl and the rural south makes it a vital commercial and logistics node.",
+      "factsAdvanced": [
+        "Home to the Jabal Awliya Dam, completed in 1937.",
+        "Located on the White Nile, 40 kilometers south of Khartoum.",
+        "Major center for Sudan's freshwater fishing industry.",
+        "Hosts a significant regional livestock and agricultural market.",
+        "Key recreational destination for weekenders from Khartoum.",
+        "Strategic stop on the highway connecting the capital to the south.",
+        "Features a large reservoir providing habitat for many bird species.",
+        "Named after the nearby twin granite hills (The Saints' Hills)."
+      ]
+    },
+    {
+      "id": "abu-hamad-cities-v2",
+      "descriptionAdvanced": "Abu Hamad is a strategic town in the River Nile State, located at the northern apex of the 'Great Bend' of the Nile. It is famously known as the starting point for the 'Railway across the Desert,' built by the British to bypass the difficult cataracts of the Nile on the way to Wadi Halfa. Modern Abu Hamad has become a booming center for artisanal gold mining, attracting thousands of miners to the surrounding Nubian Desert. The town serves as a vital logistics and supply hub for the mining industry and as a major transit point for trade between the Nile Valley and the Red Sea. Its geography is defined by the river and the encroaching sands of the desert.",
+      "factsAdvanced": [
+        "Located at the sharpest turn of the Nile's 'Great Bend'.",
+        "Key hub for the Sudanese artisanal gold mining boom.",
+        "Strategic junction for the railway line to Wadi Halfa.",
+        "Located about 550 kilometers north of Khartoum.",
+        "Major center for desert caravan and trucking routes.",
+        "Gateway to the gold-rich areas of the Nubian Desert.",
+        "Features a historic railway station and colonial-era buildings.",
+        "Important market for dates and agricultural products from the Nile."
+      ]
+    },
+    {
+      "id": "ad-dabba-cities-v2",
+      "descriptionAdvanced": "Ad-Dabba is a historic river port and commercial town in the Northern State, situated on the western bank of the Nile. For centuries, it was a crucial terminus for the 'Arba'in Road' (Forty Days Road) caravan route, connecting the Nile Valley with the Darfur region and central Africa. Modern Ad-Dabba remains a significant agricultural and trading center, famous for its high-quality dates, citrus fruits, and wheat. The town serves as a vital administrative hub for the surrounding Nubian communities and as a transit point for trade between northern Sudan and the western states. Its traditional houses and riverside setting reflect the timeless heritage of the Dongola region.",
+      "factsAdvanced": [
+        "Historically a major terminus for the 'Forty Days Road' to Darfur.",
+        "Located 150 kilometers south of Dongola city.",
+        "Key center for the production of 'Barakat' and 'Abdel Tam' dates.",
+        "Major river crossing point with a modern bridge.",
+        "Strategic stop on the highway connecting the north to the west.",
+        "Important regional market for livestock and crops.",
+        "Known for its well-preserved traditional Nubian architecture.",
+        "Surrounded by fertile irrigated lands along the Nile."
+      ]
+    },
+    {
+      "id": "argo-cities-v2",
+      "descriptionAdvanced": "Argo is a significant historic town and island in the Northern State, located on the Nile north of Dongola. It was a major center of the Kingdom of Kush and later an important administrative hub during the Ottoman and colonial periods. The town is famous for its rich archaeological heritage, including the nearby ruins of Tabo. Modern Argo is a thriving agricultural center, renowned for its extensive date palm groves and citrus orchards. It remains a stronghold of Nubian culture and language. The town's unique island geography and its role as a regional educational and commercial center make it a vital part of the cultural landscape of northern Sudan.",
+      "factsAdvanced": [
+        "Located on a large island and the adjacent river bank.",
+        "Historically the seat of the Melik (King) of Argo.",
+        "Site of the significant archaeological ruins of Tabo.",
+        "Located 40 kilometers north of Dongola.",
+        "Major center for Nubian language and heritage.",
+        "Renowned for its high-quality citrus and date production.",
+        "Hosts several historic mosques and traditional buildings.",
+        "Key commercial hub for the surrounding Nubian villages."
+      ]
+    },
+    {
+      "id": "kutum-cities-v2",
+      "descriptionAdvanced": "Kutum is a significant town in North Darfur State, located in a fertile valley (Wadi Kutum) northwest of Al-Fashir. Due to its location in the foothills of the Jebel Marra range, it receives more rainfall than the surrounding plains, making it an important agricultural center. The town is famous for its lush gardens, orchards, and the production of a variety of vegetables and fruits. Kutum is a major center for the Fur, Zaghawa, and Tunjur peoples, and it serves as a vital commercial and administrative hub for the northern Darfur region. Its traditional market is a vibrant meeting point for nomadic pastoralists and settled farmers, reflecting the area's diverse cultural tapestry.",
+      "factsAdvanced": [
+        "Located 120 kilometers northwest of Al-Fashir.",
+        "Situated in the fertile Wadi Kutum valley.",
+        "Major center for fruit and vegetable production in Darfur.",
+        "Known for its relatively mild climate and seasonal greenery.",
+        "Key hub for the trade of tobacco and agricultural crops.",
+        "Hosts a diverse population of Fur, Zaghawa, and Arab tribes.",
+        "Strategic administrative center for northern Darfur.",
+        "Gateway to the northern reaches of the Jebel Marra mountains."
+      ]
+    },
+    {
+      "id": "mellit-cities-v2",
+      "descriptionAdvanced": "Mellit is a historic and commercial town in North Darfur State, situated on the edge of the Sahara Desert. For centuries, it was a crucial customs post and a major stop on the 'Arba'in Road' caravan route between Sudan and Egypt. Modern Mellit remains a vital trading hub, especially for the livestock and camel trade with North Africa. The town is located in an area with a high water table, supporting unique desert gardening and palm groves. Mellit is a major center for the Berti and Zaghawa peoples and is renowned for its traditional handicrafts and its role as an intellectual and religious center in northern Darfur. Its geography is defined by the surrounding sand dunes and rocky outcrops.",
+      "factsAdvanced": [
+        "Historically a major customs post on the road to Egypt.",
+        "Located 60 kilometers north of Al-Fashir.",
+        "Key center for the international camel and livestock trade.",
+        "Major hub for the Berti and Zaghawa people.",
+        "Known for its high-quality leatherwork and traditional crafts.",
+        "Situated in an area with productive desert wells and gardens.",
+        "Strategic gateway between Darfur and the Libyan desert.",
+        "Features a vibrant and historic weekly market."
+      ]
+    },
+    {
+      "id": "bashayer-marine-terminal-economic-v2",
+      "descriptionAdvanced": "The Bashayer Marine Terminal, located 25 kilometers south of Port Sudan, is the primary gateway for Sudan's crude oil exports. This state-of-the-art facility serves as the terminus for the 1,600-kilometer Greater Nile Oil Pipeline, which transports oil from the productive basins of the interior to the Red Sea. The terminal features massive storage tank farms and offshore loading platforms capable of accommodating Very Large Crude Carriers (VLCCs). Bashayer is the economic heart of Sudan's petroleum sector, handling the majority of the country's foreign exchange earnings. Its operation is critical for national economic stability and for Sudan's participation in the global energy market.",
+      "factsAdvanced": [
+        "Primary export point for Sudanese 'Nile Blend' and 'Dar Blend' crude oil.",
+        "Terminus of the strategic 1,600-km pipeline from the interior fields.",
+        "Located about 25 kilometers south of Port Sudan.",
+        "Features multiple offshore berths for supertankers (VLCCs).",
+        "Hosts massive storage facilities with a capacity of millions of barrels.",
+        "Critically important for Sudan's foreign currency revenues.",
+        "Operated under high security and international technical standards.",
+        "Equipped with advanced spill prevention and environmental monitoring systems."
+      ]
+    },
+    {
+      "id": "al-khair-terminal-economic-v2",
+      "descriptionAdvanced": "The Al-Khair Petroleum Terminal is a specialized facility within the Port Sudan harbor complex, dedicated to the import and export of refined petroleum products and liquefied petroleum gas (LPG). Unlike the Bashayer terminal which handles crude oil, Al-Khair is the nation's primary entry point for processed fuels like diesel and gasoline, which are essential for Sudan's transport, agriculture, and industrial sectors. The terminal features modern pumping stations and a direct pipeline link to the Khartoum refinery and national distribution networks. Al-Khair plays a vital role in national energy security, ensuring a steady supply of refined energy products to meet domestic demand.",
+      "factsAdvanced": [
+        "Main import terminal for refined petroleum products and LPG.",
+        "Located within the strategic Port Sudan maritime complex.",
+        "Equipped with high-capacity pumping and filtration systems.",
+        "Directly connected to the national fuel distribution pipeline.",
+        "Key hub for the import of diesel used in mechanized agriculture.",
+        "Features specialized berths for product tankers and gas carriers.",
+        "Vital for stabilizing domestic fuel prices and supply.",
+        "Supports the strategic national fuel reserve system."
+      ]
+    },
+    {
+      "id": "prince-osman-digna-port-economic-v2",
+      "descriptionAdvanced": "The Prince Osman Digna Port, located in the historic city of Suakin, is Sudan's second-largest seaport and the primary hub for passenger traffic and livestock exports. Named after the legendary Beja leader of the Mahdist movement, the port serves as the main gateway for the annual Hajj and Umrah pilgrimages to Mecca, connected by regular ferry services to Jeddah, Saudi Arabia. It is also the country's most important outlet for the export of live sheep, cattle, and camels to the Middle East, featuring extensive quarantine and veterinary facilities. The port's development has revitalized Suakin, making it a modern commercial center that complements the industrial capacity of Port Sudan.",
+      "factsAdvanced": [
+        "Sudan's primary passenger port and hub for the Hajj pilgrimage.",
+        "Located in Suakin, 60 kilometers south of Port Sudan.",
+        "World's largest export terminal for live sheep and camels.",
+        "Offers regular ferry services to Jeddah, Saudi Arabia.",
+        "Equipped with modern passenger terminals and customs facilities.",
+        "Hosts massive livestock quarantine and veterinary centers.",
+        "Named in honor of the Beja military leader Osman Digna.",
+        "Strategic maritime link between Sudan and the Arabian Peninsula."
+      ]
+    },
+    {
+      "id": "port-sudan-south-port-economic-v2",
+      "descriptionAdvanced": "The South Port of Port Sudan is the country's premier container terminal and its most modern maritime facility. It handles over 90% of Sudan's containerized trade, serving as the main entry point for consumer goods, machinery, and industrial inputs. The terminal is equipped with high-performance gantry cranes and advanced logistics management systems, enabling it to handle the world's largest container vessels. As the logistical nerve center of Sudan, the South Port is directly connected to the national railway and highway networks, ensuring the efficient movement of goods to Khartoum and beyond. Its performance is a key indicator of the country's economic vitality and international trade integration.",
+      "factsAdvanced": [
+        "Sudan's largest and most modern container terminal.",
+        "Gestures the vast majority of the country's manufactured imports.",
+        "Equipped with multiple ship-to-shore gantry cranes.",
+        "Deep-water berths capable of handling post-Panamax vessels.",
+        "Directly linked to the Khartoum-Port Sudan railway line.",
+        "Hosts the main logistics offices of the Sudan Sea Ports Corporation.",
+        "Key hub for international humanitarian aid shipments to the region.",
+        "Features extensive yard space for container storage and maintenance."
+      ]
+    },
+    {
+      "id": "port-sudan-green-port-economic-v2",
+      "descriptionAdvanced": "The Green Port in Port Sudan is a specialized deep-water facility dedicated to the handling of dry bulk cargo, such as grain, fertilizers, and minerals. It plays a critical role in Sudan's food security, as it is the primary discharge point for international wheat imports, featuring massive silos and automated conveyor systems for efficient unloading. The port also serves as a major export hub for Sudanese minerals like chrome and iron ore. Built to alleviate congestion in the older parts of the harbor, the Green Port utilizes modern technologies to minimize environmental impact during bulk handling. Its large-scale storage and high throughput capacity make it a vital component of the national logistics chain.",
+      "factsAdvanced": [
+        "Primary terminal for dry bulk cargo like wheat, cement, and minerals.",
+        "Equipped with Sudan's largest grain silo and suction systems.",
+        "Critical for national food security and grain reserve management.",
+        "Main export outlet for the country's mineral resources.",
+        "Features deep-water berths for large bulk carrier ships.",
+        "Designed with advanced dust control and environmental systems.",
+        "Strategically located in the northern section of Port Sudan's harbor.",
+        "Directly integrated with the national rail and trucking networks."
+      ]
+    },
+    {
+      "id": "kosti-inland-port-economic-v2",
+      "descriptionAdvanced": "Kosti Inland Port, situated on the White Nile, is Sudan's largest and most important river port. It serves as the primary multimodal logistics hub connecting the northern railway and highway systems with the southern riverine transport network. The port is the northern terminus for steamer and barge services to South Sudan, making it a vital link for cross-border trade and humanitarian aid. Kosti handles large volumes of food supplies, fuels, and construction materials, featuring extensive warehousing and specialized loading facilities. Its strategic position south of the Jabal Awliya Dam ensures year-round navigability, making it the 'Gateway to the South' and a cornerstone of Nilotic commercial integration.",
+      "factsAdvanced": [
+        "Sudan's primary river port on the White Nile.",
+        "Strategic hub for multimodal transport (rail, road, and river).",
+        "Northern terminus for barge convoys to the South.",
+        "Key logistics center for the UN World Food Programme.",
+        "Equipped with specialized fuel and grain loading systems.",
+        "Located 260 kilometers south of Khartoum.",
+        "Maintains a large shipyard for barge maintenance and construction.",
+        "Vital for the economic integration of the White Nile valley."
+      ]
+    },
+    {
+      "id": "wadi-halfa-river-port-economic-v2",
+      "descriptionAdvanced": "The Wadi Halfa River Port, located on the shores of Lake Nubia, is the primary maritime link between Sudan and Egypt. In the absence of a continuous railway connection, this port handles the bulk of passenger and cargo transit between the two Nile neighbors via Lake Nasser. It is the terminus for the weekly ferry service from Aswan, serving as a bustling hub for small-scale traders and international travelers. The port is a vital gateway for the export of Sudanese livestock and agricultural products to the north. Its infrastructure is essential for the logistics of the Northern State, facilitating cross-border trade and reinforcing the historical and economic ties between the two countries.",
+      "factsAdvanced": [
+        "Sudan's northernmost river port on Lake Nubia.",
+        "Primary gateway for passenger and cargo ferry services to Egypt.",
+        "Terminus for the iconic weekly Aswan-Wadi Halfa ferry.",
+        "Major customs and border control point for northern trade.",
+        "Key hub for the export of cattle and dates to the Egyptian market.",
+        "Strategic logistics node for international transit to North Africa.",
+        "Equipped to handle heavy machinery and containers via barge.",
+        "Vital for the local economy of the Wadi Halfa border region."
+      ]
+    },
+    {
+      "id": "kenana-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The Kenana Sugar Factory is one of the world's largest integrated sugarcane production and refining complexes, representing a landmark of Sudanese industrial success. Located in the fertile plains of the White Nile, the project combines a massive 40,000-hectare irrigated plantation with a high-capacity refinery. Beyond sugar, Kenana is a pioneer in the 'green' economy, producing bio-ethanol, animal feed from molasses, and generating its own electricity from sugarcane biomass (bagasse). As a major international joint venture, it has transformed a formerly arid region into a thriving industrial city, providing jobs and social services for tens of thousands. Kenana is a cornerstone of Sudan's non-oil economy and a model for sustainable agro-industry.",
+      "factsAdvanced": [
+        "One of the largest integrated sugarcane facilities in the world.",
+        "Produces over 400,000 tons of refined white sugar annually.",
+        "Major producer of bio-ethanol for domestic use and export.",
+        "Generates its own power (up to 40 MW) from bagasse biomass.",
+        "Irrigates over 40,000 hectares of land from the White Nile.",
+        "Employs over 15,000 people and supports a city of 100,000.",
+        "A successful multinational joint venture involving Arab investment.",
+        "Leading center for agricultural research and technical training."
+      ]
+    },
+    {
+      "id": "white-nile-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The White Nile Sugar Factory is one of Sudan's most modern and ambitious industrial megaprojects, aimed at achieving national self-sufficiency in sugar production. Located in the White Nile State, the facility employs state-of-the-art irrigation and refining technologies to process sugarcane from vast nearby plantations. The factory is designed as a fully integrated complex, producing not only high-quality sugar but also bio-ethanol and surplus electricity for the national grid. Its development has significantly boosted the regional economy, creating thousands of jobs and modernizing the agricultural landscape. The project exemplifies Sudan's strategic focus on diversifying its economy through large-scale industrialization of its abundant natural and water resources.",
+      "factsAdvanced": [
+        "One of the newest and most technologically advanced sugar mills in Africa.",
+        "Projected annual production capacity of 450,000 tons of sugar.",
+        "Includes a modern bio-ethanol plant and biomass power station.",
+        "Uses advanced pivot and canal irrigation for its plantations.",
+        "Located 150 kilometers south of Khartoum near the White Nile.",
+        "Strategically important for national food and energy security.",
+        "Significant contributor to regional infrastructure and social development.",
+        "A major hub for agricultural innovation and mechanized farming."
+      ]
+    },
+    {
+      "id": "assalaya-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The Assalaya Sugar Factory, operated by the state-owned Sudan Sugar Company, is a key pillar of the national agro-industrial sector. Situated on the eastern bank of the White Nile near Rabak, it processes sugarcane from extensive irrigated fields that benefit from the river's abundant water. Assalaya has a long history of contributing to the domestic sugar market and supporting the economic stability of the White Nile region. The factory has undergone multiple modernization phases to improve its efficiency and diversify its outputs, including molasses for export and industrial use. As a major employer and a provider of social services, the factory is a vital institution for the local communities and a symbol of the country's enduring agricultural heritage.",
+      "factsAdvanced": [
+        "Major state-owned sugar production complex in the White Nile State.",
+        "Processes sugarcane from a 14,000-hectare irrigated scheme.",
+        "Important producer of molasses for the industrial and export markets.",
+        "Located about 260 kilometers south of Khartoum.",
+        "Provides employment and housing for thousands of families.",
+        "Key contributor to the regional economy and food security.",
+        "Includes modern refining and packaging facilities.",
+        "Part of the national network of traditional sugar factories."
+      ]
+    },
+    {
+      "id": "guneid-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The Guneid Sugar Factory is the oldest modern sugar facility in Sudan, established in 1962 as a pioneer of the country's industrialization. Located on the eastern bank of the Blue Nile in Al Jazirah State, it operates on a unique 'tenant farmer' model, where local growers cultivate sugarcane on their own land and sell it to the factory for processing. This partnership has fostered a strong sense of community and provided a stable income for generations of farmers. Guneid is not only an industrial site but a historic symbol of Sudan's agricultural progress, featuring its own schools, hospitals, and social infrastructure. Its enduring success demonstrates the viability of cooperative industrial models in the Sudanese context.",
+      "factsAdvanced": [
+        "Sudan's first modern sugar factory, founded in 1962.",
+        "Utilizes a successful cooperative model with local tenant farmers.",
+        "Located 120 kilometers southeast of Khartoum on the Blue Nile.",
+        "Historically significant as the cradle of Sudan's sugar industry.",
+        "Produces high-quality sugar for the central Sudanese market.",
+        "Supported by a large-scale pump irrigation system from the river.",
+        "Includes comprehensive social and educational facilities for workers.",
+        "A major landmark of industrial development in the Gezira region."
+      ]
+    },
+    {
+      "id": "new-halfa-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The New Halfa Sugar Factory was established as the industrial heart of the Nubian resettlement project in eastern Sudan. Built to provide a sustainable livelihood for the communities displaced from Wadi Halfa by the Aswan High Dam, the factory processes sugarcane from the 16,000-hectare New Halfa Agricultural Scheme. It utilizes water from the Khashm el-Girba Dam on the Atbara River, transforming a semi-arid region into a productive agro-industrial hub. The factory is a vital source of sugar for the eastern states and a major center for employment and social development. Its unique history and its role as a cultural and economic anchor make it one of the most significant industrial projects in eastern Sudan.",
+      "factsAdvanced": [
+        "Central industrial project for the New Halfa Nubian resettlement.",
+        "Processes sugarcane from the 16,000-hectare Khashm el-Girba scheme.",
+        "Major producer of sugar for the eastern and northern regions.",
+        "Irrigated by the seasonal Atbara River via the Khashm el-Girba Dam.",
+        "Provides thousands of jobs for the Halfawi Nubian community.",
+        "Includes modern refining, ethanol, and power generation units.",
+        "Strategic contributor to the development of the Kassala State.",
+        "A symbol of resilience and economic adaptation for displaced people."
+      ]
+    },
+    {
+      "id": "sennar-sugar-factory-economic-v2",
+      "descriptionAdvanced": "The Sennar Sugar Factory is a major industrial complex located near the historic Sennar Dam on the Blue Nile. It leverages the area's rich agricultural tradition and the reliable water supply from the dam to produce sugar for the national market. The factory is a key component of the industrial network in central Sudan, processing sugarcane from surrounding irrigated plantations. Beyond sugar, the complex is a hub for agricultural research and the production of animal feed, contributing to the region's diverse economic output. Sennar's factory is a vital employer and an administrative center for the local agro-industrial sector, reflecting the importance of the Blue Nile valley as a powerhouse of Sudanese agriculture and processing.",
+      "factsAdvanced": [
+        "Major state-owned sugar factory in the Sennar State.",
+        "Leverages irrigation from the historic Sennar Dam (built 1925).",
+        "Produces white sugar, molasses, and industrial-grade alcohol.",
+        "Located 280 kilometers southeast of Khartoum.",
+        "Key driver for the regional economy and mechanized farming.",
+        "Supports extensive social and medical infrastructure for the area.",
+        "Hosts specialized labs for sugarcane quality and pest control.",
+        "Strategic partner for the surrounding Gezira and Rahad schemes."
+      ]
+    },
+    {
+      "id": "al-jaili-oil-refinery-economic-v2",
+      "descriptionAdvanced": "The Al-Jaili Oil Refinery, also known as the Khartoum Refinery, is Sudan's largest and most technologically advanced petrochemical facility. Located 70 kilometers north of the capital, it is a flagship joint venture between Sudan and China (CNPC). The refinery processes domestic crude oil from the southern and western fields into a full range of products, including gasoline, diesel, jet fuel, and liquefied petroleum gas (LPG), meeting the majority of the country's domestic energy needs. Al-Jaili is the nerve center of Sudan's energy independence, featuring complex distillation towers, cracking units, and a direct link to the national pipeline network. It represents the pinnacle of industrial engineering in Sudan and is a critical asset for national economic security.",
+      "factsAdvanced": [
+        "Sudan's primary and largest oil refinery.",
+        "Located 70 kilometers north of Khartoum at Al-Jaili.",
+        "A major joint venture between the Sudanese government and CNPC.",
+        "Refines over 100,000 barrels of crude oil per day.",
+        "Produces the bulk of the nation's gasoline, diesel, and LPG.",
+        "Directly connected to the main trans-Sudanese pipeline system.",
+        "Key hub for the national strategic energy reserve.",
+        "Utilizes modern computer-controlled refining and safety systems."
+      ]
+    },
+    {
+      "id": "el-obeid-oil-refinery-economic-v2",
+      "descriptionAdvanced": "The El-Obeid Oil Refinery is a strategic energy facility in North Kordofan, designed to improve fuel availability in central and western Sudan. It specializes in processing heavy crude oil from the nearby Muglad Basin into diesel, furnace oil, and high-quality bitumen (asphalt) for road construction. By localizing production, the refinery reduces the logistical cost of transporting fuels from the capital, serving as a vital supply node for the Kordofan and Darfur regions. The facility is a key employer in El-Obeid and has spurred the development of a local industrial service sector. Its operation is essential for the region's transport network and for powering the local industries that drive the economy of the western plains.",
+      "factsAdvanced": [
+        "Strategic regional refinery serving western and central Sudan.",
+        "Specialized in refining heavy crude oil and producing asphalt.",
+        "Located in El-Obeid, a major railway and commercial junction.",
+        "Provides fuel for regional power plants and transport fleets.",
+        "Directly linked by rail and road to the western oil fields.",
+        "Crucial for reducing regional fuel prices and import dependence.",
+        "A major industrial landmark in the North Kordofan State.",
+        "Supports the development of national road infrastructure."
+      ]
+    },
+    {
+      "id": "port-sudan-oil-refinery-economic-v2",
+      "descriptionAdvanced": "The Port Sudan Oil Refinery is the nation's oldest petrochemical facility, holding significant historical importance in Sudan's energy history. Located directly on the Red Sea coast, it was established in the 1960s to process imported crude oil, serving as the country's sole refinery for decades. While newer facilities in the interior have taken over the primary refining role, the Port Sudan refinery remains a strategic asset for the storage and processing of imported energy products and for supplying the eastern region. Its location near the main shipping lanes makes it a vital node for maritime fuel logistics (bunkering) and a key component of the national reserve infrastructure, reflecting the city's role as the country's primary energy gateway.",
+      "factsAdvanced": [
+        "Sudan's first modern oil refinery, established in 1964.",
+        "Located strategically within the Port Sudan maritime zone.",
+        "Historically the primary source of refined fuel for the country.",
+        "Key hub for the storage and distribution of imported fuel products.",
+        "Provides bunkering services for international ships in the Red Sea.",
+        "Serves as a vital energy backup for the eastern states.",
+        "Features extensive coastal tank farms for strategic reserves.",
+        "A symbol of the early industrialization of the Red Sea coast."
+      ]
+    }
+  ]
+}

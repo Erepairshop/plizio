@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "midoun-cities-v2",
+      "descriptionAdvanced": "Midoun is a dynamic town on Djerba Island, known for its vibrant street life, historic Friday market, and proximity to the island's most beautiful beach resorts. As the second-largest town on the island, Midoun blends traditional island village life with modern tourist services. It is a center for traditional Djerbian culture, often hosting cultural events and showcasing the island's unique blend of religious and ethnic history. The town acts as a bridge between the island's heritage and its reputation as a premier Mediterranean vacation destination. Geography K7: Analyzing tourist-destination development and cultural heritage preservation on small islands.",
+      "factsAdvanced": [
+        "Second-largest town on Djerba Island",
+        "Famous for the traditional Friday market",
+        "Close proximity to coastal beach resorts",
+        "Blend of traditional village and tourism",
+        "Center for Djerbian cultural events",
+        "Bridges historic heritage with vacation life"
+      ]
+    },
+    {
+      "id": "hammamet-cities-v2",
+      "descriptionAdvanced": "Hammamet, a leading resort destination on the Gulf of Hammamet, is celebrated for its jasmine gardens, historic medina, and exquisite beaches. Known as the 'Garden of Tunisia', the city was a quiet fishing village before transforming into one of the country's first and most popular tourist centers. Its medina, bordered by the sea, features 15th-century walls that provide a stunning backdrop to the city's lively resort strip. Hammamet offers a perfect synthesis of historic coastal charm and modern leisure activities. Geography K7: The rapid transformation of small coastal settlements into major international tourist resorts.",
+      "factsAdvanced": [
+        "Known as the 'Garden of Tunisia'",
+        "One of the first major tourist centers",
+        "Features a sea-bordered 15th-century Medina",
+        "Renowned for its jasmine and flower gardens",
+        "Leading Mediterranean resort destination",
+        "Historic fishing village origins"
+      ]
+    },
+    {
+      "id": "zarzis-cities-v2",
+      "descriptionAdvanced": "Zarzis is a tranquil coastal town near the Libyan border, famous for its extensive olive groves and beautiful, wide beaches that stretch along the Mediterranean. As an agricultural and fishing center, it maintains a strong connection to local Mediterranean traditions, far from the intensity of the mass-tourism hubs. Zarzis serves as the gateway to the southern coast and the island of Djerba, providing a unique vantage point on the borderland between agricultural lands and the arid southern interior. Geography K8: The study of borderland economies and agricultural coastal settlements in North Africa.",
+      "factsAdvanced": [
+        "Coastal gateway to southern Tunisia",
+        "Renowned for extensive regional olive groves",
+        "Famous for wide, pristine Mediterranean beaches",
+        "Active agricultural and fishing town",
+        "Quiet alternative to mass-tourism hubs",
+        "Positioned in the borderland region"
+      ]
+    },
+    {
+      "id": "douz-cities-v2",
+      "descriptionAdvanced": "Douz, the 'Gateway to the Sahara', is the epicenter of desert adventure and traditional nomadic culture in Tunisia. It is world-renowned for its annual International Festival of the Sahara, which celebrates desert life, camel racing, and local Berber traditions. The city borders the vast Grand Erg Oriental dunes, making it a critical point for Saharan expeditions and desert tourism. Douz offers an authentic glimpse into the lives of those who have historically navigated the vast Tunisian dunes. Geography K7: The cultural significance of desert festivals and tourism as an economic driver for borderland Saharan cities.",
+      "factsAdvanced": [
+        "Known as the 'Gateway to the Sahara'",
+        "Host of the International Festival of the Sahara",
+        "Episenter of desert adventure tourism",
+        "Located at the edge of the Grand Erg Oriental",
+        "Celebrates camel racing and Berber traditions",
+        "Critical hub for Saharan expeditions"
+      ]
+    },
+    {
+      "id": "sbeitla-cities-v2",
+      "descriptionAdvanced": "Sbeitla is home to some of the best-preserved Roman ruins in Tunisia, known as the site of ancient Sufetula. The city’s archaeological park features spectacular triumphal arches, temples, and theaters that testify to its historical prominence as a wealthy inland center. Today, Sbeitla is a growing city that balances its rich archaeological assets with a developing agricultural and service economy. It serves as an essential destination for anyone wanting to understand the Roman footprint on the Tunisian landscape. Geography K8: Analyzing the preservation of historical archaeological assets within modern inland urban developments.",
+      "factsAdvanced": [
+        "Site of the well-preserved ancient Sufetula",
+        "Famous for Roman temples and triumphal arches",
+        "Essential destination for historical tourism",
+        "Wealthy historical inland urban center",
+        "Growing modern agricultural-service economy",
+        "Showcases deep Roman footprint in Tunisia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "lang": "hu",
+  "country": "malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "murud-mountain-sarawak-relief-v2",
+      "descriptionAdvanced": "A Gunung Murud (Murud-hegy) Sarawak állam legmagasabb csúcsa, amely 2423 méteres magasságával a Kelabit-fennsík északi peremén magasodik. Geológiai felépítését tekintve masszív homokkő rétegekből áll, melyeket az esővíz drámai hegygerincekké és mély szakadékokká formált. A hegycsúcs mikroklímája különlegesen hűvös és csapadékos, amely kedvez egy alacsony, göcsörtös fákból álló kiterjedt köderdő (mossy forest) kialakulásának. Ez a terület híres a hatalmas termetű, kancsó alakú húsevő növényeiről, mint a Nepenthes hurrelliana, amely egy természetes hibrid. Emellett a hegy a helyi Lun Bawang törzsek szent helye és a sarawaki keresztények fontos zarándokhelye; a csúcs alatt egy valóságos hegyi templomfalu (Ba' Kelalan) található. A biológia és vallásföldrajz oktatásában a magashegyi ökoszisztémák és az őslakos szinkretizmus egyedi bemutatóhelye.",
+      "factsAdvanced": [
+        "2423 méteres magasságával Sarawak állam legmagasabb pontja.",
+        "Geológiailag a Kelabit-fennsíkot határoló hatalmas homokkőhegység része.",
+        "Kiterjedt köderdői (mossy forest) ritka húsevő kancsókák (Nepenthes) élőhelyei.",
+        "A helyi őslakosok (Lun Bawang, Kelabit) számára hagyományosan szent és spirituális hely.",
+        "A csúcs közelében lévő 'Church Camp' a sarawaki keresztények rendszeres zarándokhelye.",
+        "A csúcsról tiszta időben megfigyelhető a szomszédos Gunung Mulu karszttömbje is."
+      ]
+    },
+    {
+      "id": "teluk-cempedak-coast-relief-v2",
+      "descriptionAdvanced": "A Teluk Cempedak (Cempedak-öböl) Pahang állam partvidékének egyik leglátványosabb és legnépszerűbb partszakasza, alig öt kilométerre Kuantan központjától. Földrajzi különlegessége a drámai partmenti reliefben rejlik: a finom, fehér homokos partot két oldalról hatalmas, gömbölyded gránitsziklák (boulders) fogják közre, melyeket a Dél-kínai-tenger évezredes hullámverése csiszolt simára. A partvonal mögött azonnal sűrű, dipterokarp fákból álló trópusi parti dzsungel (coastal forest) emelkedik, melyet egy fák közé épített fasétány (boardwalk) szel át a szomszédos, eldugottabb Pelindung-part felé. A tengerpart gyakran van kitéve az erős északkeleti monszunnak (november-március), ami átrendezi a homokdűnéket és intenzív hullámzást okoz. Természetföldrajzból a grániterózió és a parti akkumuláció látványos tankönyvi esete.",
+      "factsAdvanced": [
+        "Kuantan belvárosától alig öt kilométerre fekvő népszerű, természetes homokos tengerpart.",
+        "A partot a Dél-kínai-tenger hullámai által simára csiszolt, masszív gránitsziklák tagolják.",
+        "Mögötte közvetlenül sűrű trópusi parti dzsungel emelkedik, majmok (makaók) lakhelye.",
+        "Egy kiépített fapallós ösvény (boardwalk) köti össze a szomszédos Teluk Pelindung stranddal.",
+        "Az északkeleti monszun idején a partot hatalmas, gyakran veszélyes hullámok verik.",
+        "A terület népszerű a szörfösök és a helyi rekreációt keresők körében is."
+      ]
+    },
+    {
+      "id": "tambunan-valley-sabah-relief-v2",
+      "descriptionAdvanced": "A Tambunan-völgy Sabah állam belső, hegyvidéki részén található, a Crocker-hegység és a Trusmadi-hegység közötti tektonikus süllyedékben. Ezt a nagyjából 750 méteres tengerszint feletti magasságban lévő zöld völgyet a Pegalan-folyó szeli ketté, és éghajlata sokkal hűvösebb, mint a part menti síkságoké. A 'Kelet Svájcaként' is emlegetett területet festői, teraszos rizsföldek borítják, valamint sűrű bambuszerdők szegélyezik. Geomorfológiailag a völgy egy hatalmas, termékeny alluviális (folyami hordalék) síkság, amelyet a környező hegyekből lezúduló vizek töltöttek fel évmilliók alatt. A völgy történelmileg a Kadazan-Dusun őslakosok szíve és a híres brit-ellenes felkelő, Mat Salleh utolsó erődítménye. Földrajz és társadalomismeret oktatásában a hegyközi medencék mezőgazdasági potenciáljának és az őslakos ellenállásnak a példája.",
+      "factsAdvanced": [
+        "A völgy átlagos tengerszint feletti magassága 750 méter, klímája hűvös.",
+        "A Crocker- és a Trusmadi-hegység közötti tektonikus süllyedékben fekszik.",
+        "Hatalmas teraszos rizsföldek és sűrű, őshonos bambuszerdők ('Bambusz Völgye') uralják.",
+        "A Pegalan-folyó hozta létre a terület termékeny, alluviális hordaléktalaját.",
+        "A terület a Sabah-i Kadazan-Dusun őslakosok egyik legfőbb kulturális központja.",
+        "Itt volt a hírhedt 19. századi helyi lázadó, Mat Salleh utolsó erődítménye (Kubu Mat Salleh)."
+      ]
+    },
+    {
+      "id": "berembun-mountain-pahang-relief-v2",
+      "descriptionAdvanced": "A Gunung Berembun (Berembun-hegy) Pahang államban, a Cameron Highlands régióban emelkedik 1840 méteres magasságba. Ez a hegy a Titiwangsa-hegység masszív gránitgerincének része, amelyet sűrű, alacsony növésű hegyvidéki köderdő (mossy forest) borít. A hegy különlegessége a rendkívül nehéz, meredek és sziklás mászóösvény, amely az őserdei növényzet (pl. rovaremésztő kancsókák és vad orchideák) legszebb állományain halad keresztül. Történelmileg is ismert helyszín, mivel a hegy lejtőin találhatóak egy második világháború utáni, 1945-ben lezuhant brit katonai repülőgép (egy B-24 Liberator) mohával benőtt roncsai, amelyek mára a túrázók népszerű zarándokhelyévé váltak. A földrajz és történelem oktatásban a hegyvidéki dzsungelek áthatolhatatlanságát és a trópusi erózió roncs-elrejtő képességét illusztrálja.",
+      "factsAdvanced": [
+        "A Cameron Highlands gránitmasszívumának 1840 méter magas, sűrű erdővel borított csúcsa.",
+        "A hegy lejtőit a magasság miatt vastag moha, páfrányok és epifita (fán lakó) növények borítják.",
+        "A dzsungel mélyén található egy 1945-ben lezuhant brit B-24 Liberator bombázó roncsa.",
+        "A lezuhant gép megtalálása évtizedekig tartott a sűrű, megközelíthetetlen aljnövényzet miatt.",
+        "Népszerű a hegymászók körében a meredek és technikás ösvények (Jungle Trekking) miatt.",
+        "A csúcs környéke gyakran felhőbe burkolózik, ami hűvös (15-20 °C) klímát biztosít."
+      ]
+    },
+    {
+      "id": "kenong-rimba-park-coast-relief-v2",
+      "descriptionAdvanced": "A Kenong Rimba Park Pahang állam mélyén található (a Taman Negara Nemzeti Park szomszédságában), és geológiailag Malajzia egyik leglenyűgözőbb mészkő- és barlangrendszerét rejti. A 'relief' kifejezés itt a trópusi karsztosodás drámai felszínformáira utal: hatalmas, zöld dzsungellel benőtt mészkőtornyok (mogote-ok) emelkednek ki a síkságból. A park mintegy 120 négyzetkilométeres területén folyóvízi erózió hozta létre azokat a hatalmas mészkőbarlangokat (Gua Batu Tinggi, Gua Hijau), amelyeket denevérek ezrei és ritka madárfajok laknak. A park megközelítése is kalandos, általában a helyi 'Dzsungel Vasúton' (Jungle Railway), majd csónakon és gyalog történik. Geomorfológia és környezetismeret tantárgyak keretében a trópusi karsztfejlődés és a mészkőbarlangok ökológiai izolációjának ragyogó példája.",
+      "factsAdvanced": [
+        "A park Pahang dzsungelében található, szorosan kötődve a Taman Negara ökoszisztémájához.",
+        "A terület geológiai arculatát a trópusi karszt: hatalmas mészkőtornyok (mogoték) határozzák meg.",
+        "Kiterjedt barlangrendszerei (pl. Gua Batu Tinggi, Gua Hijau) a folyóvízi erózió révén jöttek létre.",
+        "A barlangok plafonjáról méteres mészkő cseppkövek és cseppkőoszlopok lógnak alá.",
+        "Megközelíthető Malajzia híres keleti parti 'Jungle Railway' vonalán (Kuala Lipis állomás felől).",
+        "A sűrű erdő fontos élőhelye a vad elefántoknak és az őslakos Batek törzsnek."
+      ]
+    },
+    {
+      "id": "tanjung-datu-national-park-coast-relief-v2",
+      "descriptionAdvanced": "A Tanjung Datu Nemzeti Park Sarawak legnyugatibb csücskében fekszik, pontosan az indonéz (Kalimantan) határon. Bár Malajzia egyik legkisebb nemzeti parkja (kb. 14 négyzetkilométer), domborzata rendkívül drámai: a sűrű dipterokarp dzsungellel borított meredek hegygerincek szinte közvetlenül a Dél-kínai-tenger finom homokos strandjaiba szakadnak bele. Ez a meredek parti profil akadályozta meg az emberi betelepülést, megőrizve a partvonal érintetlenségét. A tiszta és sekély vizű öblök, melyeket hatalmas, erodált parti sziklák ('headlands') választanak el egymástól, fontos fészkelőhelyei a tengeri teknősöknek. A biológia és parti geomorfológia tantárgyakban az abráziós partszakaszok (tengeri erózió) és a kontinensperemi izolált ökoszisztémák bemutatására kiváló helyszín.",
+      "factsAdvanced": [
+        "Sarawak legkisebb nemzeti parkja a borneói sziget legnyugatibb, indonéz határmenti csücskében.",
+        "A hegyvidéki trópusi esőerdő szinte függőlegesen szakad bele a Dél-kínai-tengerbe.",
+        "A meredek partszakaszt ('headland') finom homokos tengerparti öblök tagolják.",
+        "A terület rendkívül izolált, közút nem vezet ide, kizárólag csónakkal (Sematanból) érhető el.",
+        "A partok kulcsfontosságú éjszakai fészkelőhelyei a veszélyeztetett zöld levesteknősöknek.",
+        "A park erdeje otthont ad a ritka borneói szarvascsőrű madaraknak és ezüstös languroknak."
+      ]
+    },
+    {
+      "id": "datu-mountain-sarawak-relief-v2",
+      "descriptionAdvanced": "A Gunung Datu (Datu-hegy) a Tanjung Datu Nemzeti Park mögött emelkedő hegytömb, amely éles földrajzi és politikai határvonalat képez Malajzia (Sarawak) és Indonézia (Nyugat-Kalimantan) között. A hegy geológiailag a kontinensperem mezozoikumi magmás intruzióiból áll, amely kemény, eróziónak ellenálló gránitból és homokkőből épül fel. A csúcsrégiót szélnek kitett, alacsony növésű hegyi erdő (kerangas) borítja, míg a lejtőkön sűrű trópusi esőerdő tenyészik. A hegy stratégiai fontosságú vízgyűjtő terület, amely számos gyors sodrású patakot táplál, amik a meredek lejtőkön vízeséseket formálva zúdulnak a tengerbe. Földrajz oktatásban a természetes hegyvidéki államhatárok és a part menti orográfiai emelkedés klímaalakító szerepének kiváló példája.",
+      "factsAdvanced": [
+        "A hegygerinc természetes, fizikai országhatárt képez Malajzia és Indonézia között.",
+        "A hegytömb magmás gránit és ősi homokkő kőzetekből épül fel.",
+        "A csúcsrégiót a folyamatos tengeri szelek miatt ritkás, tápanyagszegény 'kerangas' erdő borítja.",
+        "A hegyről lezúduló csapadék gyors sodrású, tiszta vizű patakokat és vízeséseket táplál.",
+        "Elszigeteltsége miatt a hegy lejtői menedéket nyújtanak a borneói nagyorrú majmoknak.",
+        "Megmászása szigorú engedélyekhez kötött a határzóna közelsége és az érintetlenség miatt."
+      ]
+    },
+    {
+      "id": "cherating-coast-pahang-relief-v2",
+      "descriptionAdvanced": "Cherating partvidéke Pahang állam keleti partján a Dél-kínai-tenger hullámai által formált jellegzetes nyílt homokos tengerpart és mangrove mocsárvidék találkozása. A kilométereken át nyúló lapos, széles homokdűnék mögött a Cherating-folyó sekély torkolata kanyarog, amely a félsósvízi (brackish) mangrove-erdők hatalmas rendszerét táplálja. A part geomorfológiáját az éves északkeleti monszun (november-február) viharos szele és erős áramlatai határozzák meg, amelyek ideálissá teszik a helyet a hullámlovaglásra (szörf), ugyanakkor hatalmas mennyiségű tengeri homokot mozgatnak meg. A folyótorkolat fái éjszaka lenyűgöző természeti jelenség, a szentjánosbogarak ('fireflies') szinkronizált rajzásának adnak otthont. A természetföldrajz oktatásában a monszun által dominált partszakaszok (beach dynamics) és a folyótorkolati mangrove-ökoszisztémák bemutatására szolgál.",
+      "factsAdvanced": [
+        "Pahang állam legismertebb szörfparadicsoma, hatalmas hullámokkal a monszun idején.",
+        "A széles, homokos partok dűnéit a Dél-kínai-tenger erős áramlatai építik és rombolják.",
+        "A part mögött a Cherating-folyó kiterjedt mangrove-mocsárrendszert (estuary) alakított ki.",
+        "A mangroveerdő az ország egyik legnagyobb szentjánosbogár (firefly) kolóniájának élőhelye.",
+        "Itt nyílt meg Ázsia első Club Med üdülőkomplexuma az 1970-es évek végén.",
+        "A parton található egy fontos, államilag támogatott tengeri teknős keltető és mentőközpont."
+      ]
+    },
+    {
+      "id": "jelebu-valley-negeri-sembilan-relief-v2",
+      "descriptionAdvanced": "A Jelebu-völgy Negeri Sembilan állam északi részén, a Titiwangsa-hegység déli lankái között fekvő kiterjedt, száraz mikroklímájú medence. Földrajzi különlegessége, hogy a környező hegyvonulatok (Titiwangsa) egyfajta 'esőárnyékot' (rain shadow) képeznek, ami miatt a völgy Malajzia egyik legszárazabb területe, éves csapadékmennyisége jelentősen elmarad az országos átlagtól. A völgy alluviális talaja kiválóan alkalmas a minőségi gyümölcstermesztésre, különösen az ananász és a híres durian ('Jelebu durian') termesztésére. Történelmileg a völgy a szumátrai Minangkabau bevándorlók fontos letelepedési pontja volt, amit a jellegzetes, bivalyszarv alakú tetőszerkezettel épült faházak (Rumah Gadang) is bizonyítanak. Geográfiai szempontból a domborzat éghajlatmódosító hatásának (orográfiai esőárnyék) klasszikus példája egy trópusi országban.",
+      "factsAdvanced": [
+        "A Titiwangsa-hegység déli vonulatai által közrezárt hegyközi medence.",
+        "A hegyek esőárnyékoló hatása miatt Malajzia egyik legszárazabb mikroklímájú területe.",
+        "A termékeny alluviális talaj miatt híres ananász- és duriantermesztő vidék.",
+        "A terület építészetét a szumátrai Minangkabau kultúra (bivalyszarv alakú tetők) uralja.",
+        "Itt található a Kenaboi Erdőrezervátum, amely ritka alföldi esőerdei fajokat őriz.",
+        "A történelmi Jelebu 19. századi ónbányászata is hozzájárult a völgy demográfiai növekedéséhez."
+      ]
+    },
+    {
+      "id": "korbu-mountain-perak-relief-v2",
+      "descriptionAdvanced": "A Gunung Korbu (Korbu-hegy) a Titiwangsa-hegység legmagasabb pontja, 2183 méteres magasságával Perak államban található (a második legmagasabb csúcs az egész Maláj-félszigeten a Gunung Tahan után). A hatalmas gránitmasszívum a félsziget 'gerincének' ikonikus része. Geológiailag a földkéreg mélyén lassan kihűlt magmás kőzetből áll, amelyet a trópusi időjárás több tízmillió év alatt hámozott ki az őt takaró rétegekből. A hegyoldalak meredekek és nehezen megközelíthetők, sűrű bambuszerdőkkel és hegyvidéki dipterokarp növényzettel borítottak. A csúcsra vezető extrém túraútvonal (a 'G10' hegységek egyike) napokat vesz igénybe, átszelve a mély folyóvölgyeket és a sárral teli, gyökerekkel szőtt meredélyeket. A geomorfológia és a biológia oktatásában a kontinentális gránithegységek lepusztulásának és a magassági övezetességnek lenyűgöző példája.",
+      "factsAdvanced": [
+        "2183 méteres magasságával a Titiwangsa-hegyvonulat legmagasabb gránitcsúcsa.",
+        "Malajzia félszigeti részének második legmagasabb hegye a Gunung Tahan után.",
+        "Geológiailag a 'Main Range' (Fő-hegység) masszív, mélységi magmás (gránit) kőzetéből épül fel.",
+        "A hegy lejtői a Kinta-völgy folyóinak legfontosabb természetes vízgyűjtő területei.",
+        "Megmászása az ország legkeményebb túraútvonalai ('G10' hegyek) közé tartozik.",
+        "A csúcsrégió hűvös, gyakran felhőkbe burkolózik (mossy forest), és ritka orchideáknak ad otthont."
+      ]
+    },
+    {
+      "id": "rancangan-penempatan-semula-sahabat-plateau-relief-v2",
+      "descriptionAdvanced": "A FELDA Sahabat komplexum geológiailag egy hatalmas, hullámzó trópusi fennsíkon (plateau) helyezkedik el Sabah állam keleti részén, a Dent-félszigeten. Ezt a nagy kiterjedésű, enyhén tagolt síkságot tengeri és folyóvízi üledékek formálták, ami kiváló, ásványi anyagokban gazdag talajt (ultisols) biztosít a gigantikus pálmaolaj-ültetvények számára. A domborzat viszonylagos sík jellege tette lehetővé a monokultúrás gazdálkodás és az agráripari infrastruktúra (több tucat település, gyárak, aszfaltozott utak) gyors kiépítését az 1980-as évektől. Bár gazdaságilag rendkívül sikeres, a primer dzsungel kiirtása ezen a fennsíkon drámaian megváltoztatta a terület mikroklímáját és vízháztartását (a talajerózió és az árvizek kockázatát növelve). A mezőgazdasági földrajzban a trópusi fennsíkok ipari léptékű mezőgazdasági átalakításának (land use change) radikális esettanulmánya.",
+      "factsAdvanced": [
+        "A Dent-félsziget tengeri és folyóvízi üledékekkel borított, hullámzó trópusi fennsíkja.",
+        "A viszonylag sík domborzat tette lehetővé Malajzia legnagyobb (100 000 ha) pálmaolaj-telepének létrehozását.",
+        "A területet átszelő lassú folyású patakok vizét az ültetvények intenzív öntözésére használják.",
+        "Az eredeti dzsungel hiánya miatt a fennsík mikroklímája melegebb és szárazabb lett.",
+        "Az esőzések idején a lecsupaszított talaj (fedőnövényzet nélkül) fokozottan kitett az eróziónak.",
+        "A fennsík keleti pereme hirtelen süllyed bele a Sulu- és a Celebesz-tenger vizébe."
+      ]
+    },
+    {
+      "id": "papar-sabah-coast-relief-v2",
+      "descriptionAdvanced": "Papar partvidéke Sabah állam nyugati részén, a Dél-kínai-tenger mentén terül el, a Crocker-hegység lábainál. A geomorfológiai formáció egy klasszikus, gyorsan hízó tengerparti hordaléksíkság (coastal alluvial plain), amelyet a Papar-folyó és más hegyi patakok évezredes hordalékszállítása hozott létre. A lapos, termékeny síkság kiválóan alkalmas rizstermesztésre, így a régió Sabah 'Rizses Táljának' (Rice Bowl) számít. A partvonalat hosszan elnyúló, finom homokos strandok és dús mangrove mocsarak (estuaries) tagolják, amelyek védik a szárazföldet az eróziótól és a vihardagályoktól. A folyó torkolata fontos kikötője a hagyományos halászoknak. A földrajz és mezőgazdaság oktatásában a folyami akkumuláció (hordaléklerakódás) és a parti síkságok agrárhasznosításának tökéletes példája.",
+      "factsAdvanced": [
+        "Sabah nyugati partvidékének termékeny, alluviális (folyami hordalék) parti síksága.",
+        "A terület a Crocker-hegységből lezúduló Papar-folyó üledéklerakódása révén jött létre.",
+        "A sík domborzatnak köszönhetően a régió Sabah állam legfontosabb rizstermelő vidéke.",
+        "A tengerpartot hosszan elnyúló homokos strandok és folyótorkolati mangrove mocsarak védik.",
+        "A parti síkság és a hegyek közelsége gyakori heves, délutáni trópusi zivatarokat (konvekció) eredményez.",
+        "A part menti falvak hagyományos, cölöpökre épített fa házai alkalmazkodnak az árapály-ingadozáshoz."
+      ]
+    },
+    {
+      "id": "seri-menanti-valley-negeri-sembilan-relief-v2",
+      "descriptionAdvanced": "A Seri Menanti völgy Negeri Sembilan állam szívében fekszik, zöldellő hegyekkel és ősi dzsungelekkel (a Titiwangsa-hegység nyúlványaival) körbevéve. Ez az elzárt, termékeny medence a maláj történelem egyik legfontosabb kulturális központja, hiszen itt található a Minangkabau gyökerű Negeri Sembilan uralkodóinak (a Yang di-Pertuan Besar-nak) a királyi székhelye. A völgy geomorfológiája (a nehezen járható hegyekkel való elszigeteltség) hozzájárult ahhoz, hogy a szumátrai bevándorlók megőrizhessék egyedülálló, matriarchális (Adat Perpatih) szokásaikat és lenyűgöző faépítészetüket. Ennek csúcspontja a lenyűgöző Régi Királyi Palota (Istana Lama), amely egyetlen fémszög felhasználása nélkül, sötét fából épült a völgy közepén. Történelem és kulturális földrajz oktatásban a domborzati elszigeteltség kultúramegőrző szerepének kiváló példája.",
+      "factsAdvanced": [
+        "A Titiwangsa-hegység déli lábainál fekvő, zöld hegyekkel körbezárt, termékeny völgy.",
+        "Az izolált földrajzi helyzet segített megőrizni a szumátrai Minangkabau kulturális hagyományokat.",
+        "A völgy a Negeri Sembilan állam uralkodójának (Yang di-Pertuan Besar) hivatalos királyi székhelye.",
+        "Itt épült 1902-ben a híres, vasszegek nélkül összeállított négyemeletes fa palota (Istana Lama).",
+        "A völgy területét számos kristálytiszta hegyi patak szeli át, amelyek biztosítják a mezőgazdaságot.",
+        "A helyi építészetre jellemző a hegyvonulatokat utánzó, felfelé ívelő 'bivalyszarv' alakú tetőszerkezet."
+      ]
+    },
+    {
+      "id": "penang-island-west-coast-relief-v2",
+      "descriptionAdvanced": "A Penang-sziget nyugati partvidéke (Balik Pulau régió) merőben eltér a keleti oldal sűrűn beépített, modern nagyvárosi betonrengetegétől. Geomorfológiailag ez a terület a szigetet kettészelő központi gránithegység (Penang Hill masszívum) hirtelen, gyakran meredek leereszkedése a tengerbe, amelyet kis kiterjedésű, elzárt parti síkságok tarkítanak. A hegyvidéki relief miatt a nyugati part megőrizte vidékies (kampung) jellegét, ahol a domboldalakat gyümölcsültetvények – különösen a híres szerecsendió, szegfűszeg és a prémium minőségű durian (pl. Red Prawn) – borítják. A kanyargós hegyi utakon megközelíthető, szélvédett halászfalvak a hagyományos maláj életmódot tükrözik. Földrajz és társadalomismeret tantárgyak keretében a szigeti hegységek által okozott aszimmetrikus fejlődés (urbanizált keleti vs. mezőgazdasági nyugati oldal) bemutatására szolgál.",
+      "factsAdvanced": [
+        "Penang szigetének nyugati oldala, melyet a központi gránithegység fizikailag elvág a fővárostól.",
+        "A hegyes domborzat (relief) akadályozta a nagyvárosi (urbanizációs) terjeszkedést erre az oldalra.",
+        "A meredek, termékeny hegyoldalakat prémium durian- és fűszerültetvények (szerecsendió) borítják.",
+        "Az elzárt parti síkságokon tradicionális maláj halászfalvak (kampung) és rizsföldek találhatók.",
+        "A nyugati partvonal kanyargós, meredek tengerbe szakadó gránitsziklákkal (headlands) tagolt.",
+        "Balik Pulau maláj nyelven szó szerint a 'sziget hátulját' vagy túlsó oldalát jelenti."
+      ]
+    },
+    {
+      "id": "ulu-gombak-forest-reserve-nature-v2",
+      "descriptionAdvanced": "Az Ulu Gombak Erdőrezervátum Selangor államban, a Titiwangsa-hegység meredek, gránitból álló nyugati lejtőin (escarpment) található, közvetlenül Kuala Lumpur határában. A domborzat (relief) itt szabdalt V-alakú völgyekből, sebes folyású hegyi patakokból (pl. a Gombak-folyó forrásvidéke) és sűrű dipterokarp erdőkből áll. Ez a terület létfontosságú vízgyűjtő medence, amely a fővárost látja el ivóvízzel. A meredek, csúszós lejtők és a változó domborzat miatt a régió a Malajá-félsziget egyik legfontosabb ökológiai kutatóállomásának (University of Malaya Field Studies Centre) ad otthont, ahol több mint fél évszázada kutatják az esőerdei növények, kétéltűek és rovarok élőhelyeit. A biológia és vízrajz oktatásában a hegyvidéki forrásvidékek (catchment areas) védelmének és a trópusi erózió megelőzésének kritikus példája.",
+      "factsAdvanced": [
+        "A Titiwangsa-hegység meredek nyugati lejtőin, V-alakú völgyekkel szabdalt gránitalapon fekszik.",
+        "Kritikus vízgyűjtő terület, innen ered a Kuala Lumpurt átszelő Gombak-folyó.",
+        "A meredek domborzat miatt a terület nagyrészt megmenekült az urbanizációtól és fakitermeléstől.",
+        "1965 óta a Maláj Egyetem (UM) nemzetközileg elismert biológiai terepkutató állomása működik itt.",
+        "Több mint 100 endemikus béka- és kétéltűfajt, valamint ritka pálmaféléket azonosítottak az erdeiben.",
+        "A völgyön halad keresztül a történelmi (és mára nagyrészt forgalmon kívüli) régi Gombak-Bentong hegyi út."
+      ]
+    }
+  ]
+}

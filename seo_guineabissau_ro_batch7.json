@@ -1,0 +1,249 @@
+{
+  "lang": "ro",
+  "country": "guineabissau",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-mocende-relief-v2",
+      "descriptionAdvanced": "Muntele Mocende (sau Morro de Mocende) este unul dintre puținele puncte de elevație distincte din Guineea-Bissau, o țară definită în proporție covârșitoare de un relief plat de coastă. Aflat în inima colinelor Boé, în sud-estul extrem, Muntele Mocende se ridică brusc peste savana prăfuită. Structura sa geologică este caracterizată prin gresii masive și depozite bogate de laterit roșu. În timpul musonului, acest masiv atrage și condensează cantități mari de ploaie, creând mici pâraie sezoniere vitale pentru animalele din regiune. Pentru luptătorii mișcării de eliberare, pantele și peșterile de aici au funcționat ca o fortăreață naturală invizibilă din aer. Geografie K7 — relief rezidual de laterit.",
+      "factsAdvanced": [
+        "Reprezintă unul dintre punctele culminante fizice ale statului.",
+        "Altitudinea sa maximă atinge aproximativ 262 de metri deasupra nivelului mării.",
+        "Format masiv din blocuri de rocă de laterit feruginos rezistente la eroziune.",
+        "Zonă utilizată masiv ca observator strategic de către gherilele PAIGC.",
+        "Lipsit total de vegetație densă la nivelul vârfului din cauza solului stâncos subțire.",
+        "Relieful său acționează ca un zid ce modifică ușor microclimatul ploios regional."
+      ]
+    },
+    {
+      "id": "boe-plateau-relief-v2",
+      "descriptionAdvanced": "Platoul Boé, aflat în sud-estul țării, reprezintă tranziția bruscă de la câmpiile joase ale Guineei-Bissau la munții maiestuoși Fouta Djallon din statul vecin Guineea (Conakry). Relieful său este un mozaic colinar dur, cu creste ascuțite și pante erodate, dominat de rocă bauxitică. Solul subțire și pietros susține doar o savană forestieră uscată și arbuști spinoși rezistenți la foc. Condițiile geografice aspre de pe platou, alături de lipsa completă a rețelelor rutiere asfaltate, izolează regiunea, dar tocmai această izolare a făcut-o teatrul nașterii națiunii (proclamația din 1973). Geologie K8 — structuri de platou și bauxită.",
+      "factsAdvanced": [
+        "Altitudinile medii pe platou variază între 150 și 250 de metri.",
+        "Extrem de bogat în rezerve minerale, stând pe unul dintre marile depozite de bauxită africane.",
+        "Acoperit de o savană de stepă aspră, care favorizează doar creșterea extensivă a vitelor Zebu.",
+        "Tranziția de la câmpie la platou se face frecvent prin faleze roșiatice vizibile de departe.",
+        "Sunt înregistrate frecvent temperaturi diurne sufocante de peste 40°C primăvara pe rocă.",
+        "Formează bariera care împinge Râul Corubal să sape defilee masive spre vest."
+      ]
+    },
+    {
+      "id": "varela-dunes-relief-v2",
+      "descriptionAdvanced": "Dunele de la Varela alcătuiesc o fâșie geografică cu totul inedită pentru Guineea-Bissau, singura formațiune de coastă masivă expusă direct valurilor deschise și vânturilor puternice ale Oceanului Atlantic din nord-vest. Spre deosebire de relieful plat, noroios și dominat de mangrove de pe restul litoralului, aici nisipul fin alb formează dealuri mișcătoare (dune). Aceste dune au o importanță capitală ca barieră naturală împotriva eroziunii marine și a furtunilor. Pădurile de pini Casuarina au fost plantate în deceniile trecute pentru a fixa mecanic nisipul, însă activitățile recente de extracție a mineralelor grele amenință să niveleze aceste structuri defensive cruciale. Geografie K6 — morfologia dunelor litorale.",
+      "factsAdvanced": [
+        "Singurul sector masiv de dune de nisip litoral deschis la ocean din toată țara.",
+        "Dunele ating altitudini de până la 10-15 metri, blocând vânturile sărate.",
+        "Pădurea de Casuarina a fost implementată strict pentru a opri migrarea nisipului peste terenurile agricole.",
+        "Conține concentrații uriașe de minerale industriale grele, vizate de companiile miniere.",
+        "Eroziunea recentă din cauza distrugerii dunelor a redus plaja cu zeci de metri anual.",
+        "Grupul etnic Diola folosește zona adăpostită de dune pentru plantațiile sale orezărești."
+      ]
+    },
+    {
+      "id": "binta-forest-relief-v2",
+      "descriptionAdvanced": "Pădurea Binta (Mata de Binta) este o formă de relief forestier ușor denivelată din regiunea Cacheu. Spre deosebire de câmpia aluvionară extrem de plată din jur, solul din zona Binta este un strat stabil de laterit compactat care permite dezvoltarea unor arbori masivi de esență tare (precum mahonul sau lemnul de fier). Această ridicătură feruginoasă naturală, acoperită cu o boltă densă de frunze, creează un microclimat net mai răcoros decât câmpiile expuse la soare unde domină plantațiile de caju. Relieful rezistent a oferit de asemenea siguranță comunităților Manjaco în construirea satelor lor departe de inundațiile estuarelor, păstrându-și tradițiile neatinse în mijlocul densității forestiere. Biologie K7 — păduri pe soluri lateritice.",
+      "factsAdvanced": [
+        "Reprezintă o platformă stabilă de laterit ridicată ușor deasupra nivelului inundațiilor.",
+        "Vegetația principală include lemnul prețios de mahon african, vizat frecvent de braconajul forestier.",
+        "Solul stâncos previne transformarea masivă a zonei în orezării convenționale.",
+        "Adăpostește populații importante de maimuțe folivore și specii forestiere de antilope mici.",
+        "Temperatura la nivelul solului forestier este în medie cu 4-5°C mai mică decât pe câmpie.",
+        "Rădăcinile arborilor uriași sunt fundamentale pentru fixarea pământului în lunile musonice."
+      ]
+    },
+    {
+      "id": "geba-lowland-relief-v2",
+      "descriptionAdvanced": "Câmpia Râului Geba (Planície do Geba) este cea mai masivă și vitală trăsătură morfologică a Guineei-Bissau, extinzându-se pe toată lățimea central-vestică a țării, o vastă depresiune extrem de plată acoperită constant de aluviuni. Lipsită de orice denivelare semnificativă, câmpia este dominată absolut de dinamica hidrologică a Geba-ului, fiind frecvent și masiv inundată în timpul sezonului ploios, transformând-o într-un uriaș lac temporar de apă dulce-noroioasă. Această topografie inundabilă (cunoscută local sub numele de 'bolanhas') este esențială supraviețuirii umane, permițând cultivarea intensivă a orezului pe terenuri extrem de fertile fără a necesita irigații complicate mecanic. Geografie K6 — câmpii aluvionare și agricultura naturală.",
+      "factsAdvanced": [
+        "Cel mai extins sistem plan și argilos din țară, o capcană enormă pentru aluviuni fluviale.",
+        "Altitudinea sa rareori depășește 10 metri deasupra nivelului oceanului pe arii imense.",
+        "Inundațiile anuale naturale depun un strat nou și fertil de noroi (silt) esențial orezăriilor.",
+        "Apa se retrage doar cu câteva luni înainte de recoltă, lăsând un pământ moale, ușor de lucrat.",
+        "Relieful complet plat favorizează malariei din cauza stazei apelor reziduale calde.",
+        "Lipsa altitudinii permite valurilor mareice să se reverse mult în interior pe canale secundare."
+      ]
+    },
+    {
+      "id": "corubal-basin-relief-v2",
+      "descriptionAdvanced": "Bazinul Râului Corubal prezintă un relief complet distinct față de restul câmpiilor leneșe din vest. Taie o vale masivă și uneori abruptă prin platourile roșiatice și gresiile din sud-estul țării. Datorită pantei accentuate pe care râul Corubal coboară dinspre masivul Fouta Djallon, valea s-a adâncit semnificativ în patul de rocă vulcanică și lateritică veche, creând o morfologie cu repezișuri hidraulice (praguri de stâncă). Malurile înalte protejează de inundațiile tipice estuarelor, permițând o vegetație deasă de galerie forestieră să înflorească fix pe margini, în contrast puternic cu savana uscată care începe doar la câteva zeci de metri mai încolo pe platou. Fizică K8 — eroziunea hidraulică a rocilor dure.",
+      "factsAdvanced": [
+        "Unul dintre puținele bazine hidrografice naționale definite de o vale stâncoasă adâncă.",
+        "Curenții foarte rapizi spală solul moale, lăsând un pat fluvial masiv de gresie brută expusă.",
+        "Pereții abrupți ai văii ascund microclimate extrem de umede sub bolta pădurii de galerie.",
+        "Rocile subacvatice expuse formează minicascade, imposibil de navigat fără efort extrem.",
+        "Separă abrupt regiunea Gabú din nord de pădurile din Guineea la sud.",
+        "Reprezintă baza calculelor hidrotehnice pentru potențiale baraje naționale din țară."
+      ]
+    },
+    {
+      "id": "mansoa-mangroves-relief-v2",
+      "descriptionAdvanced": "Mangrovele Râului Mansoa (Mangais do Mansoa) constituie un mega-relief biogen, unde însăși vegetația a devenit pământ. De-a lungul estuarului enorm din vestul țării, acumulările masive de aluviuni cenușii aduse de ocean s-au contopit cu sistemele radiculare ale mangrovelor pentru a forma noi suprafețe de teren nămolos stadiu după stadiu. Aceste platforme intertidale – nici complet uscat, nici complet apă – sunt scufundate de două ori pe zi de o maree de o forță impresionantă. Este un peisaj complet labirintic, o rețea uriașă de insulițe vegetale instabile și canale (bolongs) esențiale pentru viața peștilor mici. Totodată, acționează ca un imens amortizor natural, absorbind energia valurilor atlantice înainte să lovească așezările rurale adiacente. Biologie K7 — morfologie biogenă și zone umede.",
+      "factsAdvanced": [
+        "Relief definit integral prin sedimentarea noroiului la baza arborilor de mangrove aeriene.",
+        "Zilnic, mai bine de 60% din suprafața acestui relief dispare sub apele aduse de fluxul oceanic.",
+        "Rădăcinile puternice acționează ca filtre de reținere a pământului, extinzând mecanic uscatul.",
+        "Canalele dintre mangrove ('bolongs') formează rutele unice de navigație pescărească.",
+        "Solul aici este anaerob (lipsit de oxigen) și sulfuros, cu un miros extrem de puternic (hidrogen sulfurat).",
+        "Orice extincție a vegetației aici ar duce instantaneu la eroziunea letală a uscatului."
+      ]
+    },
+    {
+      "id": "rio-grande-relief-v2",
+      "descriptionAdvanced": "Relieful Litoral de pe Rio Grande de Buba (Regiunea Quinara) contrazice topografia obișnuită a estuarelor guineene. Deși este un braț masiv al oceanului care pătrunde adânc pe uscat (un ria), malurile sale nu sunt exclusiv mlaștini argiloase, ci prezintă porțiuni surprinzătoare de maluri stâncoase ferme și terase ridicate. Această stabilitate structurală (rocă compactă de o elevație constantă deasupra nivelului extrem al mării) a fost motivul principal pentru care Marina Portugheză a ales această zonă pentru construcția portului militar secret. În plus, pantele ferme ale malurilor permit pădurilor tropicale masive să crească până la câțiva pași de marginea apei, fără să fie măturate de salinitate, rezultând o imagine spectaculoasă unde vegetația continentală domină apele litorale. Geologie K7 — estuare ria și formațiuni stâncoase litorale.",
+      "factsAdvanced": [
+        "Relieful său de estuar formează un 'ria' extrem de adânc (vale de râu scufundată natural în ocean).",
+        "Prezintă pe alocuri maluri abrupte de rocă compactă vulcanică rară pentru un estuar aluvionar.",
+        "Altitudinea stabilă a malurilor împiedică pătrunderea apei sărate letale adânc pe uscat.",
+        "A permis andocarea istorică sigură a navelor navale militare fără docuri elaborate artificiale.",
+        "Spre deosebire de alte zone, pajiștea sau pădurea densă ajung fix la nivelul apei, fără zonă de tranziție.",
+        "Valea inundată este o ruptură tectonică antică umplută pe parcurs cu apele oceanului."
+      ]
+    },
+    {
+      "id": "bolama-palm-forest-relief-v2",
+      "descriptionAdvanced": "Pădurea de Palmieri de pe Insula Bolama acoperă o insulă care, ca relief, este un vast platou sedimentar complet nivelat (cel mai înalt punct natural al insulei abia depășește 15 metri altitudine). Din pricina acestui teren complet plat și lipsit de orice deal protector împotriva intemperiilor aduse de vânturile oceanului, suprafața este complet expusă furtunilor (Squall lines). Relieful jos, alături de abundența precipitațiilor reținute bine de pământul poros argilos, au creat mediul perfect pentru extinderea dominatoare a palmierilor tropicali de-a lungul întregii suprafețe, rădăcinile lor acționând ca o rețea ascunsă care menține insula compactă. Lipsa altitudinii înseamnă însă o vulnerabilitate critică a habitatelor la creșterea globală a nivelului mărilor, ce inundă acum frecvent porțiunile vechi. Fizică K6 — topografia plană și vulnerabilitatea insulelor.",
+      "factsAdvanced": [
+        "Insula funcționează geomorfologic ca o platformă sedimentară ultra-plată.",
+        "Vârful absolut atinge aproximativ 15-20 metri altitudine față de marea înconjurătoare.",
+        "Suprafața insulară atrage cantități colosale de precipitații absorbite rapid de pământul poros.",
+        "Structura plată lipsită de munți face vânturile atlantice să măture direct canopia pădurii.",
+        "Înghițirea parțială a plajelor nordice este documentată ca efect direct al încălzirii globale recente.",
+        "Fără rădăcinile masive ale milioanelor de palmieri, stratul de sol superior s-ar spăla integral."
+      ]
+    },
+    {
+      "id": "quinara-hills-relief-v2",
+      "descriptionAdvanced": "Colinele Quínara (Regiunea Quinara) sunt o excepție remarcabilă în sudul țării, formând un mic lanț muntos de laterit antic masiv erodat. Ridicându-se brusc și dominant peste mlaștinile și savanele estuarine din apropiere de Fulacunda și Buba, aceste coline stâncoase și dens împădurite creează o barieră naturală geografică extrem de dificilă de traversat de către oameni, neexistând rute auto importante peste ele. Pantele lor aspre favorizează un regim de scurgeri hidrologice rapide spre câmpii, evitând reținerea apelor stagnante și, implicit, prezența malariei. Fauna profită de acest teren inaccesibil, maimuțele și antilopele retrăgându-se aici în siguranță pe timpul arșiței. Geografie K7 — bariere naturale forestiere și eroziune antică.",
+      "factsAdvanced": [
+        "Singura formațiune de lanț deluros semnificativ din sud-vestul extrem al Guineei-Bissau.",
+        "Structurate din rocă roșiatică masivă antică supusă secole de-a rândul eroziunii apei pluviale.",
+        "Topografia oferă o panoramă spectaculoasă neîntreruptă deasupra regiunilor estuarine vaste din jur.",
+        "Acționează ca zonă de scurgere instantanee a precipitațiilor gigantice (fără mlaștini sau orezării).",
+        "Rămâne un spațiu sălbatic necultivabil masiv datorită declivităților severe ale versanților.",
+        "A constituit o faimoasă zonă tampon de retragere pentru forțele de gherilă din anii 1970."
+      ]
+    },
+    {
+      "id": "gabu-plateau-relief-v2",
+      "descriptionAdvanced": "Platoul Gabú (Planalto de Gabú), ocupând o vastă suprafață a jumătății estice a națiunii, este definit de peisajul său arid și uscat de tranziție către zona Sahelului (savana sudaneză). Din punct de vedere fizic, terenul este o câmpie ușor înălțată, presărată ocazional cu mici inselberg-uri (ridicături pietroase solitare). Solul conține cantități enorme de praf fin amestecat cu laterit, o masă roșie care pe timp de vară este acoperită de norii constanți ai vântului de praf (Harmattan). Acest platou reține puțină apă de suprafață, astfel că supraviețuirea localnicilor Fula depinde exclusiv de accesul la freaticul adânc prin puțuri săpate greu manual. Fără bariere de copaci masivi, temperaturile devin extreme. Meteorologie K8 — efectul aridității Sahelului și praf mineral.",
+      "factsAdvanced": [
+        "Reprezintă zona majoră de tranziție climatică și topografică spre Sahel-ul uscat african.",
+        "Relieful complet orizontal lipsit de păduri atrage temperaturi diurne medii de 38°C primăvara.",
+        "Praf extrem de fin din deșert (Harmattan) acoperă adesea platoul în lunile ianuarie-martie.",
+        "Solurile lateritice și pietroase exclud în mare măsură irigațiile masive de orez specifice vestului.",
+        "Aici apar frecvent mirajele optice datorate refracției luminii pe pământul fierbinte uscat.",
+        "Structurile satelor (tabancas) folosesc acoperișuri de paie extrem de groase ca izolator termic local."
+      ]
+    },
+    {
+      "id": "tombali-rainforest-relief-v2",
+      "descriptionAdvanced": "Relieful Pădurii Tombali (Cantanhez) este intim legat de cel mai extrem regim pluviometric ecuatorial al țării, primind mase enorme de ploi violente. Geomorfologic, zona este formată din văi adânci create de curenții de apă curgătoare care coboară vijelios spre coasta de sud a oceanului. Solul forestier este mereu îmbibat, un strat adânc de humus compus din descompunerea plantelor groase, menținut de canopia de 40 de metri care blochează evaporarea. Relieful este dominat de ravii (micro-râpe) tăiate de râurile temporare și de prezența izvoarelor naturale nealterate. Aici nu poți găsi câmpii uscate largi; vegetația uriașă și rețeaua intensă de râulețe au izolat zona rutier de restul lumii, conservând habitatul maimuțelor la un nivel unic în vestul Africii. Geografie K7 — păduri pluviale tropicale și humus dens.",
+      "factsAdvanced": [
+        "Relieful forestier are cea mai masivă concentrație de precipitații anuale din toată Guineea-Bissau.",
+        "Stratul de suprafață ('litter') conține zeci de centimetri de humus umed extrem de hrănitor organic.",
+        "Terenul prezintă micro-văi și ravine adânci formate din eroziunea pluvială pe sub copaci.",
+        "Vara musonică transformă fiecare potecă joasă din pădure într-un curs de apă imposibil de trecut.",
+        "Solul fixat ferm de arborii seculari blochează complet fenomenul rapid al deșertificării de nord.",
+        "Adăpostește numeroase râulețe de apă cristalină perenă unice și izvoare sacre locale neexplorate."
+      ]
+    },
+    {
+      "id": "cacheu-plain-relief-v2",
+      "descriptionAdvanced": "Câmpia Cacheu domină secțiunea nord-vestică a Guineei-Bissau, un platou vast dar cu altitudine aproape zero, sfâșiat de afluenții meandrați ai bazinului Cacheu. Din punct de vedere fizic, terenul se remarcă prin solul său de tranziție, cu insule gigantice de iarbă umedă și zone ușor mai uscate unde cresc arborii de caju. Aceste caracteristici fac câmpia extrem de fertilă, dar vulnerabilă la salinizarea ascunsă din apa freatică în timpul refluxurilor mari. Satele etniei Manjaco s-au stabilit cu precădere pe cele mai mici creste imperceptibile din câmpie pentru a sta deasupra apelor stagnante periculoase pe durata musonilor din luna august. Relieful neted permite apusurilor de soare să fie vizibile spectaculos la zeci de kilometri orizont liber. Geografie K6 — câmpiile umede și așezări aliniate la nivel.",
+      "factsAdvanced": [
+        "Suprafața sa masivă plană abia dacă depășește altitudinea de 10-12 metri pe arii kilometrice uriașe.",
+        "Structura este tăiată în secțiuni deseori complet izolate de zeci de cursuri de apă lente locale.",
+        "Cea mai fertilă zonă națională folosită pentru combinația complexă de orezării (umede) și caju (uscate).",
+        "Risc uriaș de salinizare agricolă dacă fluxul Râului Cacheu trece de digurile de pământ joase.",
+        "Nivelul microscopic al elevațiilor dictează cu strictețe locul exact de construire al colibelor de sat.",
+        "Vaste pajiști inundabile susțin o imensă colecție sezonală de berze și păsări limicole euroasiatice."
+      ]
+    },
+    {
+      "id": "bubaque-coastal-relief-v2",
+      "descriptionAdvanced": "Relieful Coastei Bubaque (din Arhipelagul Bijagós) prezintă un contrast geografic superb: în timp ce centrul insulei este plat și împădurit, marginile sale costiere variază între plaje infinite de nisip argintiu fin și aglomerări subite de rocă vulcanică întunecată de tip laterit, măcinată constant de violența valurilor atlantice. Aceste stânci litorale, ciuruite de mii de crabi, funcționează ca un scut care absoarbe forța distructivă a furtunilor de primăvară. Lățimea expusă a plajei Praia de Bruce este complet dictată de maree; relieful subacvatic scade atât de lent, încât la reflux oceanul se retrage aproape un kilometru, oferind pescarilor posibilitatea de a culege stridii cu mâinile goale de pe stâncile ascuțite apărute complet la vedere. Biologie K7 — morfologia recifelor stâncoase la reflux.",
+      "factsAdvanced": [
+        "Include zeci de kilometri de coastă presărată cu roci vulcanice (bazalt și laterit) tăiate de mare.",
+        "Mareea uriașă lasă expus aproape un kilometru de fund marin neted pe faimoasa Plajă Bruce (sud).",
+        "Falezele joase de stâncă brună creează cele mai bogate rezervoare piscicole miniaturale ale zonei.",
+        "Relieful subacvatic lent și plan previne crearea curenților puternici verticali de scufundare oceanică.",
+        "Rocile mărunțite oferă materia primă de bază pentru construcția modesta a portului Bubaque modern.",
+        "Atracție mondială, plaja de vest servește vizitatorilor un relief imaculat fără intervenții umane vizibile."
+      ]
+    },
+    {
+      "id": "rubane-forest-relief-v2",
+      "descriptionAdvanced": "Relieful Pădurii Rubane, aflate pe o insulă luxuriantă de mici dimensiuni din inima Arhipelagului Bijagós, este surprinzător de protejat contra vânturilor extreme. Interiorul insulei formează o ușoară adâncitură centrală ca un castron natural larg, reținând o peliculă permanentă de umiditate extrem de ridicată a solului sub o canopie vegetală imensă. Aici, trunchiurile gigantice ale copacilor Ceiba pentandra (arborele kapok), sprijinite pe rădăcini radiale externe ca niște contraforturi colosale, preiau funcția de schelet de stabilizare a insulei întregi, prevenind eroziunea nisipului sub ploi. Marginea Pădurii Rubane cade lin spre marele canal turbulent de apă cu Bubaque, unde relieful subacvatic tăiat brusc creează un perete oceanic foarte adânc și mortal, bogat în pești. Fizică K6 — rezistența hidraulică și sistemele radiculare gigantice.",
+      "factsAdvanced": [
+        "Pădurea interioară Rubane se află într-o micro-depresiune centrală unică, mereu protejată termic total.",
+        "Rădăcinile de contrafort (tabulare) ale copacilor uriași Kapok stabilizează insulița de forța musonilor.",
+        "Aria sa uscată coboară invizibil spre abisul subacvatic ('Canal de Rubane') periculos pentru nave.",
+        "Lipsa de pante înclinate evită masiv torentele distructive în lunile ploioase iulie și august.",
+        "Spre deosebire de alte insule, vegetația de pădure tropicală se oprește doar la zece metri de plajă.",
+        "Relieful permite ecosisteme hoteliere ecologice perfect ascunse în coronamentul copacilor de coastă."
+      ]
+    },
+    {
+      "id": "bafata-hills-relief-v2",
+      "descriptionAdvanced": "Colinele Bafatá reprezintă primele accidente geografice de amploare care sparg monotonia reliefului vestic plat pe drumul național către estul arid. Această rețea de dealuri lateritice, ușor ondulate și cu sol prăfos roșu-sângeriu, este complet acoperită de întinderi imense de savană sub-sudaneză, dominată vizual de plantații de anacardieri pe zeci de kilometri. Spre deosebire de mlaștinile estuarelor, aceste coline se drenează perfect, făcându-le locul ideal pentru construcția marilor așezări coloniale precum orașul Bafatá însuși, clădit strategic fix pe panta superioară a unui deal ce oferă vizibilitate completă asupra albiei râului Geba. Aerul relativ uscat care circulă aici reduce considerabil incidența malariei față de câmpii. Geografie K7 — așezări ridicate natural și drenaj pluvial.",
+      "factsAdvanced": [
+        "Reprezintă sistemul principal de coline ușoare din zona central-vestică cu înălțimi sub 100 de metri.",
+        "Suprafața de laterit uscat se comportă ideal pentru plantarea culturii de nuci de caju la nivel național.",
+        "Altitudinea colinelor previne catastrofele asociate cu inundațiile majore ale fluviului masiv Geba local.",
+        "Orașele coloniale istorice s-au construit expres aici datorită reliefului defensiv și aerului ventilat optim.",
+        "Prezintă o climă uscată și un sol pufos-rosu care vopsește iremediabil veșmintele locuitorilor locali zilnic.",
+        "Lipsite de bariere uriașe forestiere, colinele oferă un câmp de radiație solară maximizat perfect agricol."
+      ]
+    },
+    {
+      "id": "farim-depression-relief-v2",
+      "descriptionAdvanced": "Depresiunea Farim este o vastă adâncitură geologică ascunsă în nordul țării, traversată de cursul râului Cacheu. Dincolo de peisajul domol aparent de la suprafață, adevărata importanță a reliefului din depresiunea Farim se găsește subteran. Structura geologică este un 'lighean' sedimetar masiv creat în urmă cu milioane de ani care a păstrat intact unul dintre cele mai bogate paturi de fosfați de calitate înaltă din lume, aflate destul de aproape de nivelul solului agricol. Aceste câmpii joase devin impracticabile din cauza nămolului zeci de săptămâni pe an, fiind o zonă cu temperaturi și o rată de umiditate apăsătoare, care impune fermierilor de aici munca la primele ore ale dimineții, ferindu-se de dogoarea reținută în adâncitura văii. Chimie K8 — depozite sedimentare și zăcăminte prețioase de fosfat.",
+      "factsAdvanced": [
+        "Reprezintă o depresiune uriașă tăiată de râul Cacheu în extremitatea nordică a Guineei-Bissau moderne.",
+        "Structura de bazin sedimentar conține la adâncimi minime peste 100 milioane de tone de fosfat pur brut.",
+        "Forma depresiunii concentrează fizic și reține cantități neobișnuite de umiditate termică sufocantă.",
+        "Majoritatea drumurilor care traversează acest relief devin efectiv mocirle imposibile în lunile musonice.",
+        "Terenurile inundabile laterale bogate au determinat așezarea satelor de etnie Mandinka doar la margine.",
+        "Reprezintă zona focală masivă a celui mai mare proiect național guvernamental viitor de tip minerit."
+      ]
+    },
+    {
+      "id": "biombo-coastal-swamp-relief-v2",
+      "descriptionAdvanced": "Mlaștina de Coastă Biombo conturează peninsula vestică situată la porțile oceanului și a marii capitale Bissau. Peisajul său este cel mai bun exemplu vizual al unui țărm tânăr, în continuă formare hidrografică, dominat covârșitor de o rețea complicată de mlaștini saline, izvoare leneșe și estuare cu apă salmastră. Rădăcinile de mangrove se intersectează pe suprafețe gigantice plate care, atunci când apele atlantice avansează brutal, devin medii toxice salinizate periculoase pentru agricultură. Cu toate acestea, tocmai această masă geografică mlaștinoasă inospitalieră este cea care a izolat fizic etnia Papel de forțele europene terestre secole la rând. Aici, solul instabil forțează oamenii să construiască poteci delicate de lemn printre canale pentru a putea naviga distanțe scurte la picior. Biologie K7 — estuare saline și ecosisteme umede intertidale.",
+      "factsAdvanced": [
+        "Peninsula are margini compuse masiv din soluri inundate, sărate zilnic și mangrove gigantice inospitaliere.",
+        "Relieful instabil previne definitiv construcția autostrăzilor naționale grele pe coasta vestică nordică totală.",
+        "Oferă mediul perfect (fără valuri, oxigenat din plin de alge) de creștere și repopulare a puietului oceanului.",
+        "Topografia locală a funcționat strategic ca un perete natural masiv împotriva avansului armatei portugheze.",
+        "Agricultorii Papel folosesc sisteme uriașe de noroi compactat pentru a proteja câmpurile de salinitatea oceanului.",
+        "Pătrunderea apei se face prin brațe înguste ascunse de noroi (bolongs), perfecte de explorat doar cu luntrea."
+      ]
+    },
+    {
+      "id": "oio-plateau-relief-v2",
+      "descriptionAdvanced": "Platoul Oio reprezintă regiunea centrală elevată a țării, o uriașă „masă” plană de uscat suspendată cu doar câteva zeci de metri deasupra câmpiilor estuariilor inferioare. Constând predominant dintr-o scoarță groasă, uscată, din laterit și depozite de gresie vulcanică inferioară, platoul se distinge clar de relieful noroios predominant prin stabilitatea sa excepțională sub muson (fără inundații stătătoare grave). Această proprietate a tranformarmat Platoul Oio într-o rețea uriașă de rute de comunicație interne fără poduri uriașe și a propulsat regiunea drept centrul suprem de creștere al arahidelor pe scară masivă înainte de 1980. În sezonul uscat târziu, priveliștea spre orizont pe acest teren arată un peisaj de savană complet dezgolit, învăluit într-o ceață groasă portocalie-cafenie cauzată strict de praful african ridicat. Geografie K6 — câmpiile centrale și stabilizare.",
+      "factsAdvanced": [
+        "Reprezintă nucleul terestru plan geografic cel mai stabil la inundații extinse din întreaga regiune națională.",
+        "Elevarea subtilă drenează apele naturale perfect către bazinele hidrografice nordice Cacheu și sudice Mansoa.",
+        "Solurile argilo-nisipoase de pe suprafață sunt mediul optim istoric pentru penetrarea rădăcinilor de arahide fine.",
+        "Zonă care concentrează masiv rutele rutiere majore care conectează direct nordul senegalez cu capitala țării.",
+        "Absența apelor mari stagnante a redus incidența mortalității de cauză comună provocată de mușcătura țânțarilor.",
+        "Orizontul plat, fără obstacole montane, favorizează masiv deplasarea furtunilor violente de rafale uscate de vânt."
+      ]
+    },
+    {
+      "id": "galinhas-forest-relief-v2",
+      "descriptionAdvanced": "Pădurea Insulei Galinhas prezintă o particularitate bizară și fascinantă în cadrul marelui Arhipelag Bijagós. Fiind geografic despărțită de Bolama, Insula Galinhas are o formă de carapace alungită masivă, al cărei centru găzduiește o suprafață compactă de palmieri sălbatici și arbuști intercalați pe sol de laterit dur. Importanța istorică a acestui relief constă în funcția sa izolată brutală: la începutul secolului XX, pădurea dură și lipsa de conexiuni au transformat natural mica insulă de 18 km² într-o colonie penală colonială inexpugnabilă fără ziduri masive (aici a fost exilat celebrul erou rege animist din Canchungo, Infali Soncó, un luptător împotriva taxelor europenilor). Oamenii din regiune ezită masiv să perturbe ecosistemul forestier al insulei din cauza amintirilor triste atașate pământului. Istorie K8 — geografia izolării penitenciarelor.",
+      "factsAdvanced": [
+        "Insula deține o formă alungită acoperită de relief dens forestier pe laterit izolat total la 10 km de uscat.",
+        "A fost utilizată specific de portughezi pe post de închisoare de exilare inexpugnabilă datorită lipsei evadărilor.",
+        "Pădurea centrală densă ascunde micile ruine abandonate brutal din fosta colonie penitenciară portugheză istorică.",
+        "Regiunea este mărginită exclusiv de un teren oceanic instabil tăiat de curenți marini extremi care izolează totul.",
+        "Aici a fost deținut și lăsat să piară în exil faimosul rege tribal indigen rebel Manjaco, liderul Infali Soncó.",
+        "Turismul evită insula, ecosistemul ei forestier prosperând sălbatic nealterat complet astăzi sub păsările de pradă."
+      ]
+    }
+  ]
+}

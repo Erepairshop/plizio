@@ -1,0 +1,379 @@
+{
+  "lang": "en",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mataram-cities-v2",
+      "descriptionAdvanced": "Mataram is the capital and largest city of West Nusa Tenggara, located on the western coast of the island of Lombok. It is a unique administrative center composed of four main districts: Mataram itself, the historical Ampenan port, the commercial hub of Cakranegara, and the residential area of Pejanggik. The city is a fascinating cultural tapestry where the majority Sasak Muslims coexist with a significant Balinese Hindu minority, reflected in the presence of both grand mosques and ornate royal temples like Pura Meru. Mataram serves as the primary gateway for travelers heading to the pristine beaches of the Gili Islands and the volcanic heights of Mount Rinjani. It is a city that balances rapid modern development with deep-rooted religious traditions and colonial history. Geography K7 — Cultural Diversity in the Lesser Sunda Islands.",
+      "factsAdvanced": [
+        "The city's name is derived from the Mataram Sultanate of Java.",
+        "Ampenan was a major Dutch colonial port, featuring 19th-century architecture.",
+        "Pura Meru, built in 1720, is the largest Balinese temple on the island of Lombok.",
+        "The Islamic Center of West Nusa Tenggara features a 99-meter tall minaret.",
+        "Cakranegara is the historic center of Lombok's royal Balinese administration.",
+        "Mataram's climate is tropical with a distinct dry season from May to October.",
+        "The city is a major center for the production of world-class Lombok pearls.",
+        "Famous for 'Ayam Taliwang,' a legendary spicy grilled chicken dish."
+      ]
+    },
+    {
+      "id": "bengkulu-cities-v2",
+      "descriptionAdvanced": "Bengkulu, located on the remote southwest coast of Sumatra, holds a distinctive place in history as a major British colonial outpost in an otherwise Dutch-dominated archipelago. Historically known as 'Bencoolen,' it was a center for the pepper trade and the site of Fort Marlborough, the largest British fortress in Southeast Asia. The city is also famously linked to Sir Stamford Raffles, who served as its governor before founding Singapore, and to the discovery of the giant Rafflesia arnoldii flower in the surrounding rainforests. Today, Bengkulu is a quiet provincial capital known for its rugged coastlines, historical monuments, and its significance as the place of exile for Indonesia's first president, Sukarno, during the struggle for independence. Geography K7 — Colonial Rivalries and the Pepper Trade.",
+      "factsAdvanced": [
+        "Fort Marlborough was built by the British East India Company in 1714.",
+        "The city was exchanged for Malacca between the British and Dutch in 1824.",
+        "The 'Rafflesia arnoldii,' the world's largest flower, was discovered nearby in 1818.",
+        "Sukarno, Indonesia's first president, was exiled here from 1938 to 1942.",
+        "The 'Rumah Pengasingan Bung Karno' is now a preserved national museum.",
+        "Bengkulu is the only province on Sumatra's west coast with significant British heritage.",
+        "The 'Tabot' festival commemorates the martyrdom of Imam Hussain annually.",
+        "A major hub for the export of coal and rubber from the southern Sumatran interior."
+      ]
+    },
+    {
+      "id": "ternate-cities-v2",
+      "descriptionAdvanced": "Ternate is a spectacular volcanic island-city in the Maluku archipelago that once stood at the very center of the global economy. For centuries, this small island and its neighbor, Tidore, were the world's only sources of cloves, a spice so rare it sparked the Age of Discovery and fueled the rise of European empires. The city is dominated by the near-perfect cone of Mount Gamalama, an active volcano that has shaped its fertile soil and dramatic landscape. Today, Ternate remains a vital regional hub, characterized by its historic forts, the palace of the Sultan of Ternate, and a vibrant seafaring culture. It offers a unique glimpse into the 'Spice Islands' legacy, where ancient maritime traditions and royal heritage continue to define local life. Geography K7 — The Age of Discovery and Spice Monopolies.",
+      "factsAdvanced": [
+        "The Sultanate of Ternate is one of the oldest in Indonesia, founded in 1257.",
+        "Mount Gamalama is a 1,715-meter tall active stratovolcano.",
+        "Fort Tolukko was originally built by the Portuguese in 1540 to guard cloves.",
+        "Alfred Russel Wallace wrote his famous 'Ternate Essay' on evolution here in 1858.",
+        "The city is depicted on the 1,000 Rupiah banknote (2016 series).",
+        "The Sultan's Palace (Kedaton Sultan) houses a sacred crown with growing hair.",
+        "Historically, the island was the destination for the first global circumnavigation.",
+        "A major center for the capture and export of yellowfin tuna in Maluku."
+      ]
+    },
+    {
+      "id": "palu-cities-v2",
+      "descriptionAdvanced": "Palu, the capital of Central Sulawesi, is situated in a unique geographical setting at the head of a narrow, deep-water bay surrounded by high mountain ranges. This topography creates a rain-shadow effect, making Palu one of the driest cities in the Indonesian archipelago. The city is located directly atop the Palu-Koro fault, one of the most active tectonic structures in the world, which caused a devastating earthquake and tsunami in 2018. Despite these environmental challenges, Palu is a resilient commercial and educational hub for Central Sulawesi. Its culture is a blend of the indigenous Kaili people and migrants from across Sulawesi, known for their unique traditions and exceptional local salt and fried shallots. Geography K10 — Tectonic Hazards and Rain Shadow Effects.",
+      "factsAdvanced": [
+        "Records the lowest annual rainfall in Indonesia (less than 600mm).",
+        "The Palu-Koro fault moves at a remarkably fast rate of 35-45 mm per year.",
+        "Suffered a tragic 7.5 magnitude earthquake and liquefaction in September 2018.",
+        "The city is surrounded by mountains reaching up to 2,500 meters.",
+        "Known for 'Bawang Goreng Palu,' Indonesia's most famous crispy fried shallots.",
+        "Lore Lindu National Park, a UNESCO Biosphere Reserve, is located nearby.",
+        "The Palu River bisects the city and is the primary freshwater source.",
+        "Home to Tadulako University, the largest higher education center in the province."
+      ]
+    },
+    {
+      "id": "kendari-cities-v2",
+      "descriptionAdvanced": "Kendari is the growing capital of Southeast Sulawesi, nestled along the shores of the sheltered Kendari Bay. The city's history is closely tied to the regional trade of sea products and forest resources, particularly agarwood and rattan. Kendari is famous for its intricate silver jewelry and filigree work, a craft that has been refined over centuries by local artisans. As the province's primary administrative center, it serves as the gateway to the world-class marine destination of Wakatobi and the pristine Labengki Islands. The city is currently undergoing rapid expansion driven by the massive growth of the nickel mining and smelting industries in the surrounding region, positioning it as a key player in Indonesia's industrial future. Geography K11 — Resource-Driven Urbanization.",
+      "factsAdvanced": [
+        "The city was first mapped by the Dutch explorer Vosmaer in 1831.",
+        "Famous for 'Kendari Silver,' known for its delicate hand-crafted filigree.",
+        "The Bahteramas Bridge is the city's newest landmark, opened in 2020.",
+        "Served as a major Japanese airbase during World War II.",
+        "Kendari Bay is a significant habitat for mangrove forests and seagrass.",
+        "The Kendari Beach area is the center of the city's social and culinary life.",
+        "A primary logistics hub for the export of Southeast Sulawesi's nickel ore.",
+        "Home to Haluoleo University, the leading university in the province."
+      ]
+    },
+    {
+      "id": "gorontalo-cities-v2",
+      "descriptionAdvanced": "Gorontalo, located on the northern 'arm' of Sulawesi, is a city with a deep religious and cultural soul, often referred to as the 'Porch of Medina' due to its strong Islamic heritage. Situated between the Tomini Bay and the Sulawesi Sea, the city offers spectacular marine access, most notably to the unique whale shark sightings that occur very close to its shores. Gorontalo's architecture is a mix of Dutch colonial remnants and traditional stilt houses, with the 16th-century Otanaha Fortress standing as a testament to its resistance against colonial powers. The city's economy is centered on agriculture, particularly corn production, and it remains a peaceful gateway to the underwater wonders of the Togian Islands. Geography K8 — Marine Conservation and Coastal Livelihoods.",
+      "factsAdvanced": [
+        "Known as the 'City of Corn' (Kota Jagung) due to its massive production.",
+        "The Otanaha Fortress was built in 1522 to defend against invaders.",
+        "Whale sharks (Rhincodon typus) are frequently spotted in Botubarani, near the city.",
+        "The city became an independent province in 2000, separating from North Sulawesi.",
+        "Traditional 'Karawo' embroidery is a unique, hand-drawn textile art of the region.",
+        "Limboto Lake, near the city, is a vital but ecologically threatened wetland.",
+        "The Tomini Bay is the largest bay in Indonesia and exceptionally calm.",
+        "Home to many well-preserved Dutch colonial buildings in its old town district."
+      ]
+    },
+    {
+      "id": "tanjung-priok-port-economic-v2",
+      "descriptionAdvanced": "Tanjung Priok, located in North Jakarta, is the busiest and most advanced seaport in Indonesia, serving as the nation's primary gateway for international trade. It handles more than 50% of Indonesia's total trans-shipment container traffic, making it a critical pillar of the national economy. The port area is a massive industrial complex featuring specialized terminals for containers, bulk cargo, and vehicles, as well as extensive warehousing and logistics facilities. Continuous expansion projects, such as the New Priok Port, aim to increase its capacity to handle the world's largest 'mega-vessels.' As a vital link in the global supply chain, Tanjung Priok connects Indonesia's manufacturing heartland in West Java to markets across Asia, Europe, and the Americas. Geography K11 — Global Logistics and Maritime Infrastructure.",
+      "factsAdvanced": [
+        "Handles over 7 million TEUs (Twenty-foot Equivalent Units) annually.",
+        "First established as a modern port by the Dutch in 1877.",
+        "The New Priok Terminal (Kalibaru) is designed to handle 18,000 TEU vessels.",
+        "Accounts for approximately 50% of Indonesia's non-oil and gas export-import flow.",
+        "Features a 24/7 digital port management system to reduce dwelling times.",
+        "Connected to the industrial zones of Bekasi and Karawang via dedicated toll roads.",
+        "The port complex covers a total area of over 600 hectares.",
+        "A major hub for the Indonesian automotive industry's export activities."
+      ]
+    },
+    {
+      "id": "grasberg-mine-economic-v2",
+      "descriptionAdvanced": "The Grasberg Mine, located high in the Sudirman Range of Papua, is one of the largest gold and copper mining operations in the world. Situated at an elevation of 4,270 meters near the Puncak Jaya glacier, it represents an extraordinary engineering feat in one of the most remote and rugged environments on Earth. The mine consists of a massive open pit and an extensive network of underground tunnels that extract millions of tons of ore annually. It is a major contributor to Indonesia's GDP and the primary economic driver for the province of Papua, though it has also been at the center of significant environmental and social debates. The operation includes a complex infrastructure of power plants, a 100-kilometer slurry pipeline, and the port of Amamapare. Geography K11 — Extractive Industries and Highland Logistics.",
+      "factsAdvanced": [
+        "Contains the world's largest gold reserve and third-largest copper reserve.",
+        "The open pit was once over 3 kilometers wide at its rim.",
+        "Located at an altitude of 4,270 meters, where oxygen levels are significantly lower.",
+        "Operated by PT Freeport Indonesia, with the Indonesian government as a majority owner.",
+        "The mine's underground rail system is one of the most advanced in the world.",
+        "Produces hundreds of thousands of tons of copper and millions of ounces of gold yearly.",
+        "The ore is transported as slurry through a 100-km pipeline to the coast.",
+        "Employs over 30,000 workers, primarily in the remote highlands of Papua."
+      ]
+    },
+    {
+      "id": "bekasi-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Bekasi, located on the eastern edge of Jakarta, is home to the largest concentrated industrial zone in Southeast Asia. This massive economic corridor, encompassing areas like Cikarang and Jababeka, hosts thousands of multinational companies from Japan, Korea, and Europe. It is the heart of Indonesia's manufacturing sector, particularly in the automotive, electronics, and consumer goods industries. The estate features world-class infrastructure, including independent power plants, water treatment facilities, and direct access to major toll roads and dry ports. This industrial powerhouse has transformed Bekasi from a sleepy satellite town into a vibrant urban center, driving national export growth and attracting millions of workers from across the country. Geography K11 — Industrial Agglomeration and Global Value Chains.",
+      "factsAdvanced": [
+        "Houses over 4,000 companies from more than 30 different countries.",
+        "The Jababeka Industrial Estate alone covers approximately 5,600 hectares.",
+        "Produces a significant portion of Indonesia's total automotive output.",
+        "Features the Cikarang Dry Port, the first integrated customs-free zone in Indonesia.",
+        "Home to massive manufacturing plants for Toyota, Honda, and Samsung.",
+        "Strategically located along the Jakarta-Cikampek industrial corridor.",
+        "Supports a residential population of over 3 million people in the surrounding area.",
+        "A key destination for Foreign Direct Investment (FDI) in the ASEAN region."
+      ]
+    },
+    {
+      "id": "paiton-power-station-economic-v2",
+      "descriptionAdvanced": "The Paiton Power Station, located on the northern coast of East Java, is one of the largest coal-fired power complexes in the world. It serves as a critical backbone for the Java-Bali electricity grid, providing a significant portion of the power required by Indonesia's most populated islands. The complex consists of multiple units operated by both state-owned and private enterprises, utilizing advanced sub-critical and super-critical boiler technologies. Its strategic coastal location allows for the efficient delivery of coal by sea from the mines of Kalimantan. As Indonesia seeks to balance its growing energy needs with environmental commitments, Paiton is a focal point for discussions on energy security, coal dependency, and the transition toward cleaner technologies. Geography K11 — Energy Infrastructure and Grid Stability.",
+      "factsAdvanced": [
+        "Has a total generating capacity of over 4,600 Megawatts (MW).",
+        "Supplies approximately 10-15% of the total electricity for Java and Bali.",
+        "One of the largest coal-fired power station complexes in the Southern Hemisphere.",
+        "Features a dedicated coal terminal that can handle large bulk carriers.",
+        "Located 150 kilometers east of Surabaya along the Madura Strait.",
+        "Utilizes seawater for its massive cooling systems through a sophisticated intake.",
+        "The facility includes nine separate power-generating units.",
+        "A key site for testing clean coal technologies and carbon reduction initiatives."
+      ]
+    },
+    {
+      "id": "batam-free-trade-zone-economic-v2",
+      "descriptionAdvanced": "The Batam Free Trade Zone (FTZ) is a strategic economic area designed to attract international investment by offering exemptions from import duties, value-added taxes, and luxury taxes. Located at the crossroads of the world's busiest shipping lanes in the Malacca Strait, it was developed as a competitive alternative and partner to neighboring Singapore. The FTZ covers the islands of Batam, Rempang, and Galang, focusing on export-oriented industries such as shipbuilding, electronics, and oil and gas services. This special status has spurred incredible urban growth and industrial diversification, making Batam one of the most successful special economic zones in the developing world and a vital engine for Indonesia's integration into the global economy. Geography K11 — Special Economic Zones and Trade Liberalization.",
+      "factsAdvanced": [
+        "Strategically located only 20 kilometers from Singapore's port.",
+        "Established to take advantage of the Sijori (Singapore-Johor-Riau) Growth Triangle.",
+        "Home to more than 20 major shipyards and hundreds of electronics firms.",
+        "The Batam Indonesia Free Zone Authority (BIFZA) manages the area.",
+        "Exempt from import and export duties for goods destined for international markets.",
+        "Handles a significant portion of Indonesia's electronics and machinery exports.",
+        "Features world-class logistics infrastructure, including Hang Nadim Airport.",
+        "A major hub for the repair and maintenance of regional offshore oil rigs."
+      ]
+    },
+    {
+      "id": "kaltim-prima-coal-mine-economic-v2",
+      "descriptionAdvanced": "The Kaltim Prima Coal (KPC) mine, located in Sangatta, East Kalimantan, is one of the world's largest open-pit coal mines. It produces a high-quality thermal coal known as 'Prima Coal,' which is highly valued in international markets for its high energy content and low impurities. The operation is a massive industrial landscape covering thousands of hectares, utilizing some of the world's largest mining equipment, including giant excavators and dump trucks. KPC is a major contributor to Indonesia's position as the world's leading exporter of thermal coal. The mine features its own deep-water port terminal at Tanjung Bara, capable of loading massive capesize vessels, and follows extensive land reclamation and environmental monitoring programs. Geography K11 — Fossil Fuels and International Energy Trade.",
+      "factsAdvanced": [
+        "Produces over 50 million tons of high-quality thermal coal annually.",
+        "The mining concession area covers approximately 84,000 hectares.",
+        "The Tanjung Bara Coal Terminal can load ships at a rate of 8,000 tons per hour.",
+        "KPC coal is exported primarily to China, India, Japan, and Taiwan.",
+        "Employs over 4,000 permanent staff and thousands of contractors.",
+        "Utilizes a 13-kilometer overland conveyor system to transport coal to the port.",
+        "Winner of numerous national awards for mine reclamation and CSR programs.",
+        "A critical source of tax revenue and royalties for the Indonesian government."
+      ]
+    },
+    {
+      "id": "surabaya-port-tanjung-perak-economic-v2",
+      "descriptionAdvanced": "Tanjung Perak is the main seaport of Surabaya and the second busiest gateway in Indonesia. It serves as the primary maritime hub for the eastern half of the country, connecting Java to Sulawesi, Maluku, Papua, and the Lesser Sunda Islands. The port's history as a modern facility dates back to the early 20th century, and it has recently undergone massive modernization, including the development of the automated Teluk Lamong Terminal. As a multi-purpose port, it handles a wide variety of cargo, from containers and dry bulk to livestock and passengers. Its strategic location on the Madura Strait makes it a vital artery for the distribution of consumer goods and industrial materials across the Indonesian archipelago. Geography K11 — Inter-Island Connectivity and Maritime Trade.",
+      "factsAdvanced": [
+        "Serves as the main logistics hub for Eastern Indonesia's 100 million people.",
+        "The Teluk Lamong Terminal is one of the most eco-friendly and automated in Asia.",
+        "Handles over 3.5 million TEUs of container traffic per year.",
+        "The port is the main base for the state-owned shipping line, PELNI.",
+        "Features a modern passenger terminal that handles over 1 million travelers annually.",
+        "Connected to the Suramadu Bridge and East Java's extensive rail network.",
+        "A major hub for the domestic distribution of rice, sugar, and cement.",
+        "Strategically protected from high waves by its location in the Madura Strait."
+      ]
+    },
+    {
+      "id": "cilegon-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Cilegon, located on the western tip of Java in Banten province, is famously known as the 'Steel City' of Indonesia. It is the site of Krakatau Steel, the largest integrated steel producer in Southeast Asia, which forms the core of a massive heavy industrial cluster. The zone also hosts a significant concentration of chemical and petrochemical plants due to its proximity to the Merak ferry terminal and deep-water port facilities. This industrial powerhouse is essential to the nation's infrastructure development, providing the raw materials needed for construction, automotive manufacturing, and energy projects. The area's strategic position along the Sunda Strait makes it a vital link for trade between Java and Sumatra. Geography K11 — Heavy Industry and Strategic Locations.",
+      "factsAdvanced": [
+        "Home to Krakatau Steel, established in 1970 as a national strategic project.",
+        "Produces over 3 million tons of steel products annually.",
+        "The zone contains more than 100 large-scale industrial factories.",
+        "A major global hub for the production of petrochemicals and plastics.",
+        "Strategically located near the Merak Port, the gateway to Sumatra.",
+        "Features the Cigading Port, the largest bulk cargo port in Indonesia.",
+        "Supplies essential steel for Indonesia's national bridge and skyscraper projects.",
+        "Employs over 50,000 workers in the heavy manufacturing sector."
+      ]
+    },
+    {
+      "id": "tanggguh-lng-plant-economic-v2",
+      "descriptionAdvanced": "The Tangguh LNG (Liquefied Natural Gas) plant, located in Bintuni Bay, West Papua, is one of Indonesia's most significant energy projects. It extracts natural gas from massive offshore fields and processes it into liquid form for export to international markets, primarily in East Asia. The facility represents a multi-billion dollar investment in one of the most remote regions of Indonesia, requiring self-sufficient infrastructure, including its own power plant, water treatment, and specialized LNG loading docks. Tangguh is a key contributor to the national treasury and is central to Indonesia's strategy to maximize its natural gas resources. The project also implements extensive social and environmental programs aimed at benefiting the local indigenous communities of Papua. Geography K11 — Natural Gas Extraction and Remote Industrialization.",
+      "factsAdvanced": [
+        "Operated by BP (British Petroleum) in partnership with international firms.",
+        "Consists of three massive 'trains' for liquefying natural gas.",
+        "Produces over 11 million tons of LNG per year at full capacity.",
+        "The gas fields are located deep beneath the seabed of Bintuni Bay.",
+        "Provides a significant portion of the global LNG supply for Japan and China.",
+        "The project includes a 100% Indonesian-crewed fleet of LNG tankers.",
+        "Invests heavily in 'Integrated Social Programmes' for local Papuan villages.",
+        "One of the largest foreign direct investment projects in Indonesian history."
+      ]
+    },
+    {
+      "id": "makassar-port-economic-v2",
+      "descriptionAdvanced": "Makassar Port, also known as Soekarno-Hatta Port, is the primary maritime gateway to eastern Indonesia and one of the most strategic ports in the archipelago. Located on the Makassar Strait, it has served as a vital crossroads for trade between the western and eastern islands for centuries. Today, it is a modern facility that handles the majority of the region's exports, including nickel, cocoa, coffee, and fish. The port has recently seen massive expansion with the Makassar New Port project, which significantly increases its container handling capacity and allows it to accommodate larger international vessels. As a key node in the 'Maritime Highway' (Tol Laut) initiative, Makassar Port is essential for reducing logistics costs and promoting economic development across eastern Indonesia. Geography K11 — Regional Hubs and Maritime Connectivity.",
+      "factsAdvanced": [
+        "The primary distribution center for goods heading to Sulawesi and Papua.",
+        "The Makassar New Port is designed to handle up to 2.5 million TEUs annually.",
+        "A major export hub for Indonesian cocoa, which is among the world's best.",
+        "Strategically located on the ALKI II (Indonesian Archipelago Sea Lane).",
+        "The port is a key stop for international cruise ships exploring eastern Indonesia.",
+        "Handles a significant volume of inter-island passenger traffic in the region.",
+        "Connected to the Trans-Sulawesi railway, the first railway on the island.",
+        "Historically a crucial center for the global spice trade since the 16th century."
+      ]
+    },
+    {
+      "id": "palembang-trade-hub-economic-v2",
+      "descriptionAdvanced": "Palembang, the capital of South Sumatra, is a major economic and trade hub driven by its rich natural resources and strategic location on the Musi River. The city is a center for the processing and export of coal, rubber, and palm oil, supported by the large-scale Boom Baru Port. Palembang is also home to one of Indonesia's largest fertilizer plants, PT Pusri, which plays a critical role in supporting the nation's food security. Its economic history is deeply rooted in its status as a river-based trading power, a legacy that continues today as the Musi River remains a vital artery for transporting bulk commodities. With modern infrastructure like the LRT and new industrial zones, Palembang is a key driver of growth in southern Sumatra. Geography K11 — Resource Processing and Inland Waterway Trade.",
+      "factsAdvanced": [
+        "Home to PT Pupuk Sriwidjaja (Pusri), a major national fertilizer producer.",
+        "The Musi River can accommodate large barges carrying thousands of tons of coal.",
+        "A primary global hub for the export of South Sumatran crumb rubber.",
+        "The Boom Baru Port is the largest river port on the island of Sumatra.",
+        "The city's economy is strongly influenced by global commodity price fluctuations.",
+        "Strategically connected to the Trans-Sumatra Toll Road network.",
+        "A major center for the refining of crude oil in the Plaju district.",
+        "The trade hub supports the agricultural activities of millions of Sumatran farmers."
+      ]
+    },
+    {
+      "id": "pt-semen-gresik-plant-economic-v2",
+      "descriptionAdvanced": "The PT Semen Gresik plant, part of the Semen Indonesia Group, is a massive industrial facility that represents the foundation of Indonesia's construction and infrastructure sectors. Located in East Java, it is one of the largest cement production complexes in Southeast Asia. The plant utilizes advanced dry-process technology to transform limestone and clay from nearby quarries into various types of cement used in everything from residential housing to massive dams and bridges. As a state-owned enterprise, it is a strategic national asset that ensures a stable supply of building materials for the country's rapid urbanization. The facility is also a leader in industrial sustainability, implementing waste-to-energy programs and extensive land reclamation at its mining sites. Geography K11 — Construction Materials and National Development.",
+      "factsAdvanced": [
+        "Founded in 1957 as the first nationalized cement company in Indonesia.",
+        "Produces millions of tons of high-grade cement annually for domestic use.",
+        "The Semen Indonesia Group is the largest cement producer in Southeast Asia.",
+        "The Tuban facility nearby features some of the world's largest cement kilns.",
+        "Utilizes alternative fuels, such as biomass and industrial waste, in its production.",
+        "Supplied the cement for the iconic Monas and the Suramadu Bridge.",
+        "Listed on the Indonesia Stock Exchange (IDX) since 1991.",
+        "A major employer and economic driver for the Gresik and Tuban regencies."
+      ]
+    },
+    {
+      "id": "jatiluhur-dam-economic-v2",
+      "descriptionAdvanced": "The Jatiluhur Dam, located in West Java, is the largest multi-purpose dam in Indonesia and a critical piece of national infrastructure. Completed in 1967, it creates a massive reservoir that provides irrigation water for over 240,000 hectares of rice paddies, directly supporting the food security of millions. The dam also houses a major hydroelectric power station that supplies electricity to the Java-Bali grid and is the primary source of raw water for the city of Jakarta. Beyond its economic functions, Jatiluhur is a popular destination for water sports and tourism. As a masterpiece of 20th-century engineering, it symbolizes Indonesia's efforts to harness its water resources for agricultural and industrial modernization. Geography K11 — Water Resource Management and Irrigation Systems.",
+      "factsAdvanced": [
+        "Technically named the Juanda Dam, it was completed with French assistance.",
+        "The reservoir covers an area of approximately 8,300 hectares.",
+        "The hydroelectric plant has a total generating capacity of 187 MW.",
+        "Irrigates one of Indonesia's most productive 'rice bowl' regions in West Java.",
+        "The dam's wall stands 105 meters high and is 1.2 kilometers long.",
+        "Provides roughly 80% of the raw water supply for Jakarta's 10 million residents.",
+        "Features a unique 'morning glory' circular spillway for overflow control.",
+        "A major center for freshwater aquaculture and cage-fish farming."
+      ]
+    },
+    {
+      "id": "dumai-port-and-refinery-economic-v2",
+      "descriptionAdvanced": "Dumai, located on the strategic coast of Riau province facing the Malacca Strait, is Indonesia's primary hub for oil refining and palm oil export. It features a massive Pertamina refinery that processes crude oil from the rich fields of Central Sumatra into fuel for the domestic market. Dumai is also home to the world's largest palm oil processing and export complex, handling millions of tons of CPO (Crude Palm Oil) and its derivatives annually. This industrial landscape is characterized by extensive tank farms, specialized berths for tankers, and a bustling international port. As a critical node in both the energy and agricultural sectors, Dumai's economy is a powerhouse that drives regional prosperity and national export earnings. Geography K11 — Oil Refining and Global Commodity Exports.",
+      "factsAdvanced": [
+        "Home to the Pertamina RU II refinery, which produces high-quality fuel.",
+        "The largest export gateway for palm oil in the entire world.",
+        "Strategically located along the world's busiest shipping lane, the Malacca Strait.",
+        "Handles approximately 10-15 million tons of palm oil products per year.",
+        "The city's status was upgraded from a town to a city in 1999 due to rapid growth.",
+        "Features specialized terminals for the export of oleochemicals and biodiesel.",
+        "A major destination for crude oil pipelines from the Duri and Minas fields.",
+        "Connected to the new Trans-Sumatra Toll Road, accelerating its growth."
+      ]
+    },
+    {
+      "id": "sorowako-nickel-mine-economic-v2",
+      "descriptionAdvanced": "The Sorowako Nickel Mine, located in the remote highlands of South Sulawesi, is one of the largest integrated nickel mining and smelting operations in the world. Operated by PT Vale Indonesia, the site extracts laterite nickel ore from vast open-pit mines and processes it into nickel-in-matte for export. A unique feature of Sorowako is its reliance on three massive hydroelectric power plants built on the Larona River system, making it one of the most energy-efficient mining operations globally. The mine is a critical supplier of nickel for the world's stainless steel and electric vehicle battery industries. The operation has transformed a remote mountain region into a highly developed industrial enclave with its own airport, schools, and modern infrastructure. Geography K11 — Mining Enclaves and Renewable Energy in Industry.",
+      "factsAdvanced": [
+        "Consistently ranks among the world's top 10 largest nickel producers.",
+        "Powered by 365 MW of clean energy from its three hydroelectric dams.",
+        "Produces approximately 70,000 to 80,000 tons of nickel-in-matte annually.",
+        "Located on the shores of Lake Matano, the deepest lake in Southeast Asia.",
+        "The mining concession covers an area of over 118,000 hectares.",
+        "Most of the production is exported directly to Japan for industrial use.",
+        "Features one of the highest levels of local workforce participation in Indonesian mining.",
+        "A pioneer in nickel smelting technology using electric furnaces."
+      ]
+    },
+    {
+      "id": "karawang-automotive-industry-economic-v2",
+      "descriptionAdvanced": "Karawang, located just east of Jakarta, has emerged as the 'Detroit of Indonesia,' hosting a massive cluster of global automotive manufacturers and component suppliers. This industrial zone is the heart of the nation's car and motorcycle production, with giant factories from Toyota, Honda, Mitsubishi, and Suzuki. The area benefits from world-class infrastructure, including high-speed toll roads and proximity to the Tanjung Priok port, making it a competitive base for both the domestic market and international exports. Karawang's transformation from a traditional agricultural 'rice granary' into a high-tech manufacturing powerhouse is a prime example of Indonesia's rapid industrialization and its growing role as a regional automotive hub in Southeast Asia. Geography K11 — Manufacturing Hubs and Foreign Direct Investment.",
+      "factsAdvanced": [
+        "Produces over 1 million cars and millions of motorcycles per year.",
+        "Home to the massive Karawang International Industrial City (KIIC) estate.",
+        "The automotive sector in Karawang contributes significantly to West Java's GDP.",
+        "A major global export base for Indonesian-made vehicles to over 80 countries.",
+        "Features advanced research and development centers for various car brands.",
+        "Home to the first electric vehicle battery factory in Southeast Asia (HKML).",
+        "The area still maintains significant rice production alongside its factories.",
+        "Strategically located on the Jakarta-Bandung High-Speed Railway route."
+      ]
+    },
+    {
+      "id": "belawan-port-economic-v2",
+      "descriptionAdvanced": "Belawan Port, located in Medan, is the busiest seaport on the island of Sumatra and the primary gateway for the region's vast plantation exports. Historically established by the Dutch in the late 19th century to export tobacco, it has grown into a massive multi-purpose facility. Today, Belawan is a global hub for the export of palm oil, rubber, coffee, and tea from North Sumatra's fertile highlands. The port consists of specialized container terminals, bulk cargo facilities, and a passenger terminal for inter-island travel. As the main link between Sumatra and the world's markets in Asia and Europe, Belawan is an essential engine of economic growth for northern Indonesia and a key node in the Malacca Strait trade network. Geography K11 — Plantation Economies and Maritime Trade.",
+      "factsAdvanced": [
+        "The third largest container port in Indonesia after Jakarta and Surabaya.",
+        "Handles approximately 1.5 million TEUs of container traffic annually.",
+        "A primary global terminal for the export of North Sumatran palm oil.",
+        "Strategically located near the northern entrance of the Malacca Strait.",
+        "The port is located at the mouth of the Deli and Belawan rivers.",
+        "Features the Belawan International Container Terminal (BICT).",
+        "A major hub for ferry connections to Malaysia and other Indonesian islands.",
+        "Connected to the city of Medan via the Belmera (Belawan-Medan-Tanjung Morawa) toll road."
+      ]
+    },
+    {
+      "id": "ompu-sunggu-mine-economic-v2",
+      "descriptionAdvanced": "The Ompu Sunggu mine (part of the Martabe Gold Mine project) in South Tapanuli, North Sumatra, is a significant gold and silver operation that highlights the mineral wealth of the Sumatran volcanic arc. The mine utilizes conventional open-pit methods and a modern carbon-in-leach (CIL) processing plant to extract precious metals from high-grade epithermal deposits. Martabe is recognized for its strong commitment to community development and environmental management in a sensitive tropical rainforest environment. The project is a major economic driver for the local region, providing jobs and supporting local businesses, while contributing substantial royalties to the Indonesian state. It exemplifies the balance between modern large-scale mining and the preservation of regional biodiversity. Geography K11 — Precious Metal Mining and Sustainable Practices.",
+      "factsAdvanced": [
+        "Produces approximately 300,000 to 400,000 ounces of gold annually.",
+        "Extracts significant quantities of silver as a secondary product.",
+        "Located within the Bukit Barisan mountain range of North Sumatra.",
+        "Utilizes a high-efficiency processing plant with a capacity of 6 million tons per year.",
+        "The mine's 'Ompu Sunggu' pit is one of several high-grade deposits in the area.",
+        "Operated by PT Agincourt Resources, a leading Indonesian mining firm.",
+        "Follows strict international standards for cyanide management and tailings storage.",
+        "Features extensive community health and education programs in South Tapanuli."
+      ]
+    },
+    {
+      "id": "jakarta-financial-district-economic-v2",
+      "descriptionAdvanced": "The Jakarta Financial District, primarily centered around the 'Golden Triangle' (Sudirman, Thamrin, and Kuningan), is the economic heart of Indonesia and a symbol of its modern global aspirations. This dense skyline of glass-and-steel skyscrapers houses the headquarters of the nation's largest banks, the Indonesia Stock Exchange, and the regional offices of numerous multinational corporations. It is the center of high finance, legal services, and corporate decision-making for the world's fourth most populous country. The district is characterized by bustling traffic, luxurious malls, and sophisticated public transport like the MRT and LRT. As Indonesia moves toward becoming a top-five global economy, this district serves as the essential hub for capital flows and international business integration. Geography K11 — Financial Services and Urban Globalization.",
+      "factsAdvanced": [
+        "Home to the Indonesia Stock Exchange (IDX), with over 800 listed companies.",
+        "The 'Golden Triangle' is the most expensive real estate area in the country.",
+        "The district includes the SCBD (Sudirman Central Business District), a city-within-a-city.",
+        "Features the 'Autograph Tower,' one of the tallest skyscrapers in the Southern Hemisphere.",
+        "The primary hub for the 'Big Four' accounting firms and global investment banks.",
+        "Serves as the nerve center for Indonesia's $1.3 trillion economy.",
+        "Connected by the Jakarta MRT, which carries over 100,000 commuters daily.",
+        "Hosts the headquarters of major tech unicorns like GoTo and Traveloka."
+      ]
+    },
+    {
+      "id": "cirata-power-plant-economic-v2",
+      "descriptionAdvanced": "The Cirata Hydroelectric Power Plant, located on the Citarum River in West Java, is the largest hydroelectric facility in Southeast Asia. This massive engineering project features an underground powerhouse and a reservoir that stores billions of cubic meters of water. Cirata is a critical source of clean, renewable energy for the Java-Bali power grid, helping to stabilize the network during peak demand periods. Recently, it has become a global pioneer in renewable energy as the site of Indonesia's first and the world's third-largest floating solar farm, installed directly on the reservoir's surface. Cirata represents the future of 'hybrid' renewable energy systems, combining hydro and solar power to maximize land use and energy output. Geography K11 — Renewable Energy and Hybrid Power Systems.",
+      "factsAdvanced": [
+        "The hydroelectric plant has a massive total capacity of 1,008 Megawatts (MW).",
+        "Home to a 145 MW floating solar power plant, the largest in Southeast Asia.",
+        "The Citarum River is the primary water source for this and two other major dams.",
+        "The powerhouse is located 200 meters underground for structural stability.",
+        "The dam's reservoir covers a surface area of over 6,000 hectares.",
+        "The floating solar panels help reduce water evaporation from the reservoir.",
+        "Plays a vital role in providing 'black start' capability to the national power grid.",
+        "A major center for freshwater fishing and local tourism in West Java."
+      ]
+    }
+  ]
+}

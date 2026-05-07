@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "everglades-national-park-life-v2",
+      "descriptionAdvanced": "Everglades National Park in Florida is a unique subtropical ecosystem, fundamentally defined as a slow-moving, wide, and shallow 'river of grass.' This expansive wetland is a critical sanctuary for an extraordinary diversity of species, including the American alligator, the endangered Florida panther, and thousands of avian species. Unlike other national parks centered on mountain or forest geology, the Everglades is a fragile, hydrological wonder that has faced significant threats from agricultural development, water diversion, and climate-related shifts in sea level. Today, it stands as a leading global site for research into wetland restoration and climate adaptation, serving as a vital natural barrier and water-purification system for South Florida. Biologie K7 — Subtropical wetland ecology and restoration science.",
+      "factsAdvanced": [
+        "Unique subtropical wetland known as a 'river of grass'.",
+        "Critical habitat for endangered species like the Florida panther.",
+        "Largest tropical wilderness in the United States.",
+        "Vital natural water-purification system for the South Florida ecosystem.",
+        "Faces significant challenges from water diversion and sea-level rise.",
+        "Leading global site for wetland restoration research and ecology."
+      ]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "descriptionAdvanced": "The Central Park Zoo in New York City is a compact, world-class zoo tucked into the heart of Manhattan’s most iconic park. Since the late 19th century, the site has provided city residents and visitors with an accessible connection to wildlife, offering educational exhibits ranging from the tropics to the polar regions. In the 1980s, the facility underwent a major transformation to prioritize naturalistic habitats over old-fashioned cages, ensuring higher standards for animal care in a dense urban environment. Today, it remains an essential site for urban science education, serving as an oasis that connects millions of city-dwellers to global biodiversity and the importance of habitat conservation. Sachkunde K5 — Urban biology and accessible conservation education.",
+      "factsAdvanced": [
+        "Compact, world-class zoological facility in the heart of Manhattan.",
+        "Historic site providing urban wildlife education since the late 19th century.",
+        "Underwent a significant modernization in the 1980s to prioritize naturalistic exhibits.",
+        "Features immersive climate-specific zones from tropics to polar regions.",
+        "Serves as an essential science education oasis for millions of city visitors.",
+        "Highlights the importance of global biodiversity and conservation to urban residents."
+      ]
+    },
+    {
+      "id": "napa-valley-vineyards-life-v2",
+      "descriptionAdvanced": "The Napa Valley in California is an elite viticultural region where the intersection of unique Mediterranean climate, specialized soil composition, and human innovation creates some of the world's most prized wines. For over a century, the valley has evolved from a small agricultural community into a global center for luxury wine production and premium tourism. This development has been carefully managed through strict land-use policies that prevent industrial or heavy residential expansion, protecting the agricultural essence of the region. The Napa experience today is a blend of scientific enology, sustainable farming practices, and high-end hospitality, representing a model for how high-value, sustainable agricultural landscapes can drive regional economic growth. Landwirtschaft K8 — Sustainable viticulture and high-value agricultural economics.",
+      "factsAdvanced": [
+        "Elite global viticultural region known for world-class wine production.",
+        "Unique Mediterranean climate and specialized soils provide optimal vine health.",
+        "Evolved into a global center for luxury wine production and tourism.",
+        "Strict land-use policies successfully prevent industrial or urban expansion.",
+        "Combines scientific enology with sustainable, high-value farming practices.",
+        "Model for sustainable agricultural landscapes that drive economic growth."
+      ]
+    }
+  ]
+}

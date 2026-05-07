@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nalut-cities-v2",
+      "descriptionAdvanced": "Nalut, eine der wichtigsten Städte im westlichen Nafusa-Gebirge, beeindruckt durch ihr historisches Zentrum. Die Hauptattraktion ist der gut erhaltene Ksar Nalut, eine alte, mehrstöckige Speicherburg der Berber, die als herausragendes Beispiel der traditionellen Lehbau-Architektur der Amazigh gilt. Geschichte K7 — Berber-Architektur.",
+      "factsAdvanced": [
+        "Wichtige Stadt im Nafusa-Gebirge",
+        "Berühmt für den Ksar Nalut",
+        "Zentrum der Amazigh-Kultur",
+        "Historische Speicherburg mit hunderten Kammern",
+        "Eindrucksvolle Lage am Klippenrand",
+        "Rolle bei der Bewahrung lokaler Traditionen"
+      ]
+    },
+    {
+      "id": "murzuq-cities-v2",
+      "descriptionAdvanced": "Murzuq war im 16. Jahrhundert ein blühendes Zentrum im Fessan und ein entscheidender Knotenpunkt des Karawanenhandels durch die Sahara. Die Ruinen der massiven osmanischen Festung zeugen von der strategischen Bedeutung der Stadt, die einst eine wichtige Rolle im transsaharischen Sklaven- und Goldhandel spielte. Geschichte K8 — Transsaharahandel.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt des Fessan",
+        "Zentrum des historischen Transsaharahandels",
+        "Ruinen der osmanischen Festung Murzuq",
+        "Historische Rolle im Sklaven- und Goldhandel",
+        "Gelegen in einer großen Wüstensenke",
+        "Umgeben von Dattelpalmen-Oasen"
+      ]
+    },
+    {
+      "id": "awbari-cities-v2",
+      "descriptionAdvanced": "Awbari (Ubari) ist eine malerische Wüstenstadt, die im fruchtbaren Wadi al Hayaa liegt. Sie ist das Hauptzentrum der libyschen Tuareg-Bevölkerung und dient als idealer Ausgangspunkt für Ausflüge zu den atemberaubenden, stark salzhaltigen Ubari-Seen, die umgeben von hohen Sanddünen mitten in der Wüste liegen. Geografie K7 — Wüstenökosysteme.",
+      "factsAdvanced": [
+        "Gelegen im Wadi al Hayaa",
+        "Hauptzentrum der Tuareg in Libyen",
+        "Ausgangspunkt zu den Ubari-Seen",
+        "Umgrenzt von riesigen Sanddünen",
+        "Historisch ein Rastplatz für Karawanen",
+        "Stark von landwirtschaftlichen Oasen geprägt"
+      ]
+    },
+    {
+      "id": "ghat-cities-v2",
+      "descriptionAdvanced": "Ghat, nahe der algerischen Grenze, war lange ein Endpunkt der Karawanenrouten und ist heute noch eine traditionelle Tuareg-Oase. Die Stadt ist berühmt für ihre alte, lehmgebaute Medina sowie die nahegelegenen Akakus-Berge, in denen prähistorische Felsmalereien von einer einst grünen Sahara erzählen. Geschichte K7 — Prähistorische Kunst.",
+      "factsAdvanced": [
+        "Traditionelle Tuareg-Oasenstadt",
+        "Nahe der Grenze zu Algerien",
+        "Historische, lehmgebaute Medina",
+        "Tor zu den Akakus-Bergen",
+        "Zugang zu prähistorischen Felszeichnungen",
+        "Austragungsort des Ghat-Festivals"
+      ]
+    },
+    {
+      "id": "ghadames-cities-v2",
+      "descriptionAdvanced": "Ghadames, oft als die 'Perle der Wüste' bezeichnet, ist berühmt für seine einzigartige, traditionelle Architektur, die an extreme Wüstenbedingungen angepasst ist. Die durch weiß getünchte Wände und verwinkelte Gänge geprägte Altstadt gehört seit 1986 zum UNESCO-Weltkulturerbe und bot einst Schutz vor Wüstenhitze und Sandstürmen. Geografie K8 — Klimaangepasstes Bauen.",
+      "factsAdvanced": [
+        "Bekannt als 'Perle der Wüste'",
+        "UNESCO-Weltkulturerbe seit 1986",
+        "Einzigartige klimatisierte Lehmarchitektur",
+        "Drei-Länder-Eck (Libyen, Algerien, Tunesien)",
+        "Historisch wichtige Karawanenstadt",
+        "Unterirdische Fußgängerwege"
+      ]
+    },
+    {
+      "id": "hun-cities-v2",
+      "descriptionAdvanced": "Hun ist die größte der drei historischen Oasenstädte in der Region Jufra in Zentrallibyen. Die Stadt ist landesweit bekannt für ihr jährliches Dattelfestival, bei dem die reiche lokale Ernte gefeiert wird, sowie für ihre strategische Lage zwischen der Küstenregion und dem tiefen Süden. Geografie K7 — Oasenwirtschaft.",
+      "factsAdvanced": [
+        "Hauptstadt des Jufra-Bezirks",
+        "Zentrale Oasenstadt Libyens",
+        "Bekannt für das jährliche Dattelfestival",
+        "Liegt südlich der Syrte-Wüste",
+        "Wichtiger ziviler und militärischer Knotenpunkt",
+        "Umgeben von fruchtbaren Palmenhainen"
+      ]
+    },
+    {
+      "id": "waddan-cities-v2",
+      "descriptionAdvanced": "Waddan ist die älteste Stadt in der Jufra-Oasengruppe und verfügt über antike, prähistorische und islamische Ruinen. Die historische Stadt war historisch von zentraler Bedeutung für Karawanen, die sich in Zentrallibyen aufhielten, und hat ihre Beduinen- und Oasentraditionen bis heute weitgehend bewahrt. Geschichte K7 — Saharische Siedlungen.",
+      "factsAdvanced": [
+        "Älteste Stadt in der Jufra-Region",
+        "Enthält antike und islamische Ruinen",
+        "Historischer Karawanen-Knotenpunkt",
+        "Traditioneller Dattelanbau",
+        "Liegt am Rand vulkanischen Gesteins",
+        "Bewahrt reiche Oasenkultur"
+      ]
+    },
+    {
+      "id": "brak-cities-v2",
+      "descriptionAdvanced": "Brak liegt im fruchtbaren Wadi al-Shati im Südwesten Libyens und ist ein wichtiges lokales Landwirtschaftszentrum. Die Stadt profitiert von unterirdischen Wasserquellen, die eine intensive Oasen-Landwirtschaft ermöglichen, und dient als administratives Zentrum für die weiten, spärlich besiedelten Täler der Region. Geografie K6 — Wüstenlandwirtschaft.",
+      "factsAdvanced": [
+        "Hauptstadt des Wadi al-Shati",
+        "Zentrum der lokalen Landwirtschaft",
+        "Nutzung tiefer Grundwasserleiter",
+        "Zahlreiche Dattel- und Gemüsefarmen",
+        "Historisch eine wichtige Raststätte",
+        "Starke traditionelle Stammesstruktur"
+      ]
+    },
+    {
+      "id": "al-qatrun-cities-v2",
+      "descriptionAdvanced": "Al Qatrun ist eine der südlichsten Siedlungen Libyens und ein zentrales Siedlungsgebiet der indigenen Tebu. Aufgrund ihrer abgelegenen Lage an der Straße Richtung Tschad und Niger ist die Stadt ein wichtiger, wenn auch rauer Grenzposten und Transitort für Handel und Migration durch die tiefste Sahara. Geografie K8 — Grenzen und Migration.",
+      "factsAdvanced": [
+        "Eine der südlichsten Städte Libyens",
+        "Hauptsächlich vom Volk der Tebu bewohnt",
+        "Wichtiger Transitort nach Tschad und Niger",
+        "Extreme Wüstenumgebung",
+        "Historisch Teil der Gold- und Salzroute",
+        "Grenzposten für den Saharahandel"
+      ]
+    },
+    {
+      "id": "zintan-cities-v2",
+      "descriptionAdvanced": "Zintan liegt hoch in den Nafusa-Bergen und wurde 2011 weltweit bekannt, als bewaffnete Gruppen aus der Stadt eine Schlüsselrolle beim Fall des Gaddafi-Regimes in Tripolis spielten. Die robuste Bergstadt zeichnet sich durch ihre starke, kriegerische Stammeskultur und die traditionelle Weidewirtschaft in den Tälern aus. Geschichte K8 — Jüngste Konflikte.",
+      "factsAdvanced": [
+        "Gelegen im Nafusa-Gebirge",
+        "Schlüsselrolle in der Revolution 2011",
+        "Starke, traditionelle Stammesidentität",
+        "Viehzucht und lokale Landwirtschaft",
+        "Bedeutende militärische Präsenz",
+        "Strategischer Blick auf die Küstenebene"
+      ]
+    },
+    {
+      "id": "mizda-cities-v2",
+      "descriptionAdvanced": "Mizda, eingebettet in die Hochebenen Tripolitaniens südlich von Tripolis, hat eine lange Geschichte als Rastplatz auf den Handelsrouten in den Fezzan. Die Region ist von zerklüfteten Tälern und Steinwüsten geprägt und dient bis heute als wichtiger Verkehrsknotenpunkt, der den Norden mit den Wüstenregionen verbindet. Geografie K7 — Historische Geografie.",
+      "factsAdvanced": [
+        "Knotenpunkt in Tripolitanien",
+        "Historischer Rastplatz auf dem Weg in den Süden",
+        "Umgeben von Halbwüste und Felsplateaus",
+        "Landwirtschaft in bewässerten Tälern",
+        "Wichtige Straßenverbindung nach Sabha",
+        "Gemischte Bevölkerungsstruktur"
+      ]
+    },
+    {
+      "id": "shahhat-cities-v2",
+      "descriptionAdvanced": "Shahhat wurde direkt neben den beeindruckenden Ruinen der antiken griechischen Stadt Kyrene (Cyrene) erbaut. Diese UNESCO-Weltkulturerbestätte in den fruchtbaren Hügeln des Dschabal al-Achdar zeugt von der enormen Bedeutung Libyens in der hellenistischen Epoche, mit gut erhaltenen Tempeln des Apollon und Zeus. Geschichte K7 — Griechische Antike.",
+      "factsAdvanced": [
+        "Heimat der antiken Stadt Kyrene",
+        "UNESCO-Weltkulturerbe",
+        "Hervorragend erhaltene griechische Tempel",
+        "Gelegen im fruchtbaren Dschabal al-Achdar",
+        "Einst wichtiges hellenistisches Zentrum",
+        "Nahe der Stadt Al Bayda"
+      ]
+    },
+    {
+      "id": "susa-cities-v2",
+      "descriptionAdvanced": "Susa ist eine pittoreske Küstenstadt, die direkt auf den Überresten der antiken Hafenstadt Apollonia liegt. In der Antike diente sie als Haupthafen für die nahegelegene Stadt Kyrene; heute zieht die Stadt Touristen und Archäologen durch die teilweise im Mittelmeer versunkenen Ruinen an. Geschichte K7 — Antike Hafenstädte.",
+      "factsAdvanced": [
+        "Erbaut auf der antiken Stadt Apollonia",
+        "Antiker Hafen von Kyrene",
+        "Versunkene römische und griechische Ruinen",
+        "Pittoreske Lage am Mittelmeer",
+        "Besitzt antikes römisches Theater am Meer",
+        "Bedeutendes byzantinisches Erbe"
+      ]
+    },
+    {
+      "id": "jalu-cities-v2",
+      "descriptionAdvanced": "Die Oase Jalu im Nordosten Libyens ist besonders bekannt für ihre hochwertigen Datteln, die seit Jahrhunderten in die Küstenstädte exportiert werden. Seit der Entdeckung von Erdöl in der umliegenden Wüste hat sich die Stadt zudem zu einem wichtigen logistischen Zentrum für die libysche Ölindustrie entwickelt. Geografie K8 — Oasen und Erdöl.",
+      "factsAdvanced": [
+        "Zentrum des libyschen Dattelanbaus",
+        "Strategisches Logistikzentrum für Erdöl",
+        "Bedeutende Oasenstadt in Ostlibyen",
+        "Einheimische sprachen historisch den Awjila-Jalu-Dialekt",
+        "Wichtiger Wüsten-Knotenpunkt",
+        "Starker Ausbau durch die Ölindustrie"
+      ]
+    },
+    {
+      "id": "awjila-cities-v2",
+      "descriptionAdvanced": "Awjila ist eine historisch extrem bedeutsame Oase, die bereits vom antiken griechischen Historiker Herodot erwähnt wurde. Sie ist berühmt für die Große Moschee, die als älteste Moschee in ganz Nordafrika gilt, sowie für die Bewahrung der vom Aussterben bedrohten lokalen Berbersprache. Geschichte K8 — Islamische Frühgeschichte.",
+      "factsAdvanced": [
+        "Eine der ältesten Oasen Nordafrikas",
+        "Heimat der ältesten Moschee Libyens (Große Moschee)",
+        "Bewahrung der indigenen Awjila-Sprache",
+        "Schon von Herodot in der Antike erwähnt",
+        "Wichtige Station im alten Karawanenhandel",
+        "Typische Lehmziegel-Architektur"
+      ]
+    },
+    {
+      "id": "zella-cities-v2",
+      "descriptionAdvanced": "Zella, die südlichste Oase in der Jufra-Region, war einst ein ruhiges landwirtschaftliches Zentrum, das sich dem Palmenanbau widmete. Heute ist die Stadt stark von der umgebenden libyschen Ölindustrie geprägt, wobei große Ölfelder in der Nähe maßgeblich zur lokalen Wirtschaft beitragen. Geografie K8 — Öl-Ökonomie.",
+      "factsAdvanced": [
+        "Südlichste Oase der Jufra-Region",
+        "Historisches Zentrum des Dattelanbaus",
+        "Heute geprägt von umliegenden Ölfeldern",
+        "Wichtiger lokaler Knotenpunkt",
+        "Extrem trockenes und heißes Klima",
+        "Dient als Stützpunkt für Ölarbeiter"
+      ]
+    },
+    {
+      "id": "sokna-cities-v2",
+      "descriptionAdvanced": "Sokna ist eine der drei großen historischen Siedlungen der Jufra-Oasengruppe und war in der Vergangenheit bekannt für einen lokalen Amazigh-Dialekt, die Sokna-Sprache, die heute als ausgestorben gilt. Die traditionelle Altstadt ist umgeben von Palmen und spiegelt das ruhige Leben der Oasenbauern wider. Geografie K7 — Oasen und Linguistik.",
+      "factsAdvanced": [
+        "Teil der historischen Jufra-Oasen",
+        "Historische Heimat der ausgestorbenen Sokna-Sprache",
+        "Landwirtschaft geprägt von Dattelpalmen",
+        "Traditionelle Lehmziegelarchitektur",
+        "Knotenpunkt auf der Straße nach Sabha",
+        "Ruhiges Zentrum der Region Zentrallibyen"
+      ]
+    },
+    {
+      "id": "tiji-cities-v2",
+      "descriptionAdvanced": "Tiji ist eine beschauliche Kleinstadt an den Hängen des Nafusa-Gebirges. Wie viele Siedlungen in dieser zerklüfteten Region stützt sich die Wirtschaft von Tiji hauptsächlich auf die Landwirtschaft, insbesondere den Anbau von Olivenbäumen und die Schaf- und Ziegenzucht in den trockenen Tälern. Geografie K6 — Ländliche Wirtschaft.",
+      "factsAdvanced": [
+        "Gelegen in den Ausläufern des Nafusa-Gebirges",
+        "Traditionelles Agrarzentrum",
+        "Fokus auf Olivenanbau und Viehzucht",
+        "Starke ländliche und familiäre Strukturen",
+        "Historische lokale Marktstadt",
+        "Typische Berg-Architektur der Region"
+      ]
+    },
+    {
+      "id": "wazin-cities-v2",
+      "descriptionAdvanced": "Wazin ist eine strategisch wichtige libysche Grenzstadt, die den primären westlichen Grenzübergang zu Tunesien kontrolliert. Während der Revolution 2011 war Wazin hart umkämpft, da der Grenzübergang von zentraler Bedeutung für die Versorgung der Rebellen im Nafusa-Gebirge war. Geschichte K8 — Grenzen und Konflikte.",
+      "factsAdvanced": [
+        "Wichtiger Grenzübergang zu Tunesien",
+        "Gelegen in den Nafusa-Bergen",
+        "Schauplatz schwerer Kämpfe im Jahr 2011",
+        "Strategischer Versorgungspunkt",
+        "Traditionelle berberische (Amazigh) Wurzeln",
+        "Knotenpunkt des regionalen Schmuggels"
+      ]
+    },
+    {
+      "id": "al-abyar-cities-v2",
+      "descriptionAdvanced": "Al Abyar ist eine florierende Agrarstadt im Osten Libyens, nicht weit von der Großstadt Bengasi entfernt. Die fruchtbaren Ebenen rund um die Stadt sind ideal für den Getreideanbau und die Viehzucht, wodurch Al Abyar eine wichtige Rolle für die lokale Nahrungsmittelversorgung der Kyrenaika spielt. Geografie K7 — Landwirtschaft.",
+      "factsAdvanced": [
+        "Bedeutende Agrarstadt nahe Bengasi",
+        "Zentrum des Getreideanbaus",
+        "Wichtig für die Viehzucht in der Kyrenaika",
+        "Milder, mediterraner Einfluss",
+        "Einst italienische landwirtschaftliche Siedlung",
+        "Wichtiger lokaler Viehmarkt"
+      ]
+    }
+  ]
+}

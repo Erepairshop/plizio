@@ -1,0 +1,171 @@
+{
+  "lang": "de",
+  "country": "indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mataram-cities-v2",
+      "descriptionAdvanced": "Mataram ist das pulsierende Herz der Insel Lombok und fungiert als Hauptstadt der Provinz West-Nusa Tenggara. Die Stadt ist ein faszinierendes Konglomerat aus drei ehemals eigenständigen Orten: dem Hafenviertel Ampenan, dem Verwaltungszentrum Mataram und dem Handelsviertel Cakranegara. Ein besonderes Highlight ist der Mayura-Wasserpalast, der 1744 erbaut wurde und die balinesischen Einflüsse in der Geschichte Lomboks widerspiegelt. Die Stadt dient als wichtigstes logistisches Drehkreuz für Reisende, die den majestätischen Vulkan Rinjani besteigen oder die paradiesischen Gili-Inseln besuchen möchten. Kulturell ist Mataram ein Schmelztiegel, in dem die Traditionen der indigenen Sasak auf balinesische und javanische Einflüsse treffen. Mit ihren breiten Alleen und geschäftigen Märkten ist die Stadt ein Beispiel für die dynamische Urbanisierung im Osten Indonesiens. Geographie K7 — Stadtentwicklung auf den Kleinen Sundainseln.",
+      "factsAdvanced": [
+        "Hauptort der Provinz West-Nusa Tenggara mit rund 495.000 Einwohnern.",
+        "Besteht aus dem historischen Hafen Ampenan, Mataram und Cakranegara.",
+        "Der Mayura-Wasserpalast wurde im Jahr 1744 von balinesischen Herrschern errichtet.",
+        "Pura Meru, der größte Tempel auf Lombok, stammt aus dem Jahr 1720.",
+        "Wichtigster Ausgangspunkt für Trekkingtouren zum 3.726 Meter hohen Berg Rinjani.",
+        "Der internationale Flughafen Lombok (LOP) liegt etwa 30 Kilometer südlich der Stadt.",
+        "Das Stadtbild wird durch die prachtvolle Große Moschee Hubbul Wathan geprägt."
+      ]
+    },
+    {
+      "id": "bengkulu-cities-v2",
+      "descriptionAdvanced": "Bengkulu, an der abgelegenen Südwestküste Sumatras gelegen, blickt auf eine für indonesische Verhältnisse ungewöhnliche Geschichte zurück. Zwischen 1685 und 1824 war die Stadt unter dem Namen „Bencoolen“ ein wichtiger britischer Kolonialposten, bevor sie im Tausch gegen Singapur an die Niederländer fiel. Zeuge dieser Zeit ist das imposante Fort Marlborough, eine der am besten erhaltenen britischen Festungen im Osten. Bengkulu erlangte zudem historische Bedeutung als Ort des Exils für den späteren ersten Präsidenten Indonesiens, Sukarno, in den 1930er Jahren. In der Naturkunde ist die Region weltberühmt für die Rafflesia arnoldii, die größte Blume der Erde, die in den umliegenden Regenwäldern heimisch ist. Die Stadt verbindet koloniales Erbe mit tropischer Natur und traumhaften Stränden wie dem kilometerlangen Pantai Panjang. Geschichte K7 — Kolonialgeschichte in Südostasien.",
+      "factsAdvanced": [
+        "War von 1685 bis 1824 unter dem Namen Bencoolen ein britischer Kolonialstützpunkt.",
+        "Fort Marlborough wurde zwischen 1713 und 1719 erbaut und ist massiv befestigt.",
+        "Sukarno lebte hier von 1938 bis 1942 im Exil; sein Wohnhaus ist heute ein Museum.",
+        "Heimat der Rafflesia arnoldii, deren Blüte einen Durchmesser von über 100 cm erreichen kann.",
+        "Der Pantai Panjang (Langer Strand) erstreckt sich über eine Länge von etwa 7 Kilometern.",
+        "Die Provinzstadt zählt heute rund 375.000 Einwohner.",
+        "Wichtigstes Handelszentrum für Kohle und Palmöl in der Region Südwest-Sumatra."
+      ]
+    },
+    {
+      "id": "ternate-cities-v2",
+      "descriptionAdvanced": "Die kleine, fast kreisrunde Insel Ternate im Norden der Molukken ist ein geschichtsträchtiger Ort, der einst das Zentrum des globalen Gewürzhandels bildete. Dominiert wird die Insel vom imposanten, aktiven Vulkan Gamalama, dessen fruchtbare Hänge die Grundlage für den Reichtum der Region bildeten: Ternate war über Jahrhunderte der weltweit wichtigste Produzent von Nelken. Das mächtige Sultanat von Ternate kontrollierte ein riesiges Gebiet und trotzte lange Zeit den europäischen Mächten. Heute zeugen zahlreiche Festungsruinen wie Fort Tolukko und Fort Oranje von den erbitterten Kämpfen zwischen Portugiesen, Spaniern, Engländern und Niederländern um das Gewürzmonopol. Die Stadt Ternate verbindet diese dramatische Geschichte mit einer atemberaubenden Naturkulisse aus Lavafeldern und azurblauem Meer. Geschichte K7 — Der Kampf um das Gewürzmonopol.",
+      "factsAdvanced": [
+        "Der Vulkan Gamalama ist 1.715 Meter hoch und prägt die gesamte Inselfläche.",
+        "War im 15. und 16. Jahrhundert das mächtigste Sultanat im Osten des Archipels.",
+        "Fort Tolukko wurde ursprünglich 1540 von den Portugiesen erbaut.",
+        "Das Sultanats-Palastmuseum (Kedaton) bewahrt eine heilige, jahrhundertealte Krone.",
+        "Ternate war bis zum 19. Jahrhundert ein exklusives Anbaugebiet für Gewürznelken.",
+        "Das Naturphänomen Batu Angus zeigt erstarrte Lavaflüsse aus dem Ausbruch von 1673.",
+        "Die Insel besitzt einen Durchmesser von nur etwa 10 bis 13 Kilometern."
+      ]
+    },
+    {
+      "id": "palu-cities-v2",
+      "descriptionAdvanced": "Palu, die Hauptstadt von Zentral-Sulawesi, liegt spektakulär am Ende einer schmalen, tief ins Land einschneidenden Bucht. Geografisch ist die Lage der Stadt jedoch hochgefährlich, da sie direkt auf der Palu-Koro-Verwerfung liegt, einer der aktivsten tektonischen Bruchzonen Indonesiens. Dies wurde der Stadt im September 2018 zum Verhängnis, als ein verheerendes Erdbeben und ein anschließender Tsunami große Teile der Küste und Infrastruktur zerstörten. Palu ist zudem bekannt für sein ungewöhnlich trockenes Mikroklima, was sie zu einer der regenärmsten Städte des Landes macht. Trotz der Naturkatastrophen ist Palu ein wichtiges Handelszentrum für Edelhölzer wie Ebenholz und ein Schmelztiegel verschiedener ethnischer Gruppen. Der mühsame Wiederaufbau und die Anpassung an die seismischen Risiken prägen das heutige Stadtbild. Geographie K10 — Tektonik und Naturgefahren.",
+      "factsAdvanced": [
+        "Hauptstadt von Zentral-Sulawesi mit einer Bevölkerung von etwa 370.000 Menschen.",
+        "Liegt direkt auf der Palu-Koro-Verwerfung, einer hochaktiven tektonischen Zone.",
+        "Am 28. September 2018 wurde die Stadt von einem Erdbeben der Stärke 7,5 getroffen.",
+        "Die Region gilt mit nur ca. 500-600 mm Jahresniederschlag als trockenster Ort Indonesiens.",
+        "Die markante gelbe Brücke Jembatan Palu IV wurde durch den Tsunami 2018 zerstört.",
+        "Wichtigste Zentrum für die Verarbeitung und den Export von hochwertigem Ebenholz.",
+        "Die Bucht von Palu erstreckt sich über eine Länge von fast 30 Kilometern."
+      ]
+    },
+    {
+      "id": "kendari-cities-v2",
+      "descriptionAdvanced": "Kendari, die Hauptstadt von Südost-Sulawesi, ist eine aufstrebende Küstenstadt, die sich rund um die geschützte Kendari-Bucht erstreckt. Lange Zeit galt die Stadt als beschaulicher Verwaltungsposten, hat sich aber in den letzten Jahren zu einem dynamischen Handels- und Bildungszentrum entwickelt. Ein neues architektonisches Wahrzeichen ist die beeindruckende Kendari-Bucht-Brücke, die die Stadtteile verbindet und nachts spektakulär beleuchtet ist. Kendari ist berühmt für seine feine Silberschmiedekunst und dient als wichtigstes Tor zu den unberührten Korallenriffen des Wakatobi-Nationalparks, einem der besten Tauchgebiete weltweit. Die Kombination aus moderner Infrastruktur, traditionellem Handwerk und der Nähe zu einzigartigen marinen Ökosystemen macht Kendari zu einem Schlüsselstandort für die Entwicklung des östlichen Sulawesi. Geographie K8 — Regionalentwicklung in Sulawesi.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Südost-Sulawesi mit rund 345.000 Einwohnern.",
+        "Die im Jahr 2020 eingeweihte Kendari-Bucht-Brücke ist 1,34 Kilometer lang.",
+        "Wichtigster logistischer Hub für Reisen zum Wakatobi-Archipel.",
+        "Bekannt für 'Kendari Silver', filigrane Handarbeit aus hochwertigem Silber.",
+        "Die Halu Oleo Universität ist die größte Bildungseinrichtung der Provinz.",
+        "Der Hafen von Kendari ist ein Umschlagplatz für Nickel, Fisch und Agrarprodukte.",
+        "Die Stadt wurde während der niederländischen Kolonialzeit im Jahr 1831 kartiert."
+      ]
+    },
+    {
+      "id": "gorontalo-cities-v2",
+      "descriptionAdvanced": "Gorontalo liegt an der Nordküste Sulawesis am Rande der riesigen Tomini-Bucht und wird oft als „Veranda von Medina“ bezeichnet. Dieser Beiname verweist auf die tiefe Verwurzelung des Islam und die Bewahrung traditioneller religiöuer Werte in der Region. Wirtschaftlich ist Gorontalo das landwirtschaftliche Kraftzentrum der Insel, wobei die Maisproduktion die dominierende Rolle spielt und weite Teile der Landschaft prägt. Die Stadt bietet zudem Zugang zu einer außergewöhnlichen marinen Biodiversität; in den Gewässern vor der Küste können Besucher regelmäßig Walhaie beobachten. Historisch ist das Otanaha-Fort von Bedeutung, eine portugiesische Festung aus dem 16. Jahrhundert, die einen weiten Blick über den Limboto-See bietet. Gorontalo ist ein Ort, an dem religiöse Tradition, landwirtschaftliche Produktivität und ökologische Schätze eine einzigartige Symbiose eingehen. Geographie K7 — Landwirtschaft und Kulturräume.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Gorontalo, die im Jahr 2000 von Nord-Sulawesi abgetrennt wurde.",
+        "Die Region produziert jährlich über 1,5 Millionen Tonnen Mais für den Export.",
+        "Die Walhai-Beobachtungsstelle in Botubarani liegt nur wenige Kilometer vom Zentrum entfernt.",
+        "Fort Otanaha wurde im Jahr 1522 mit Hilfe portugiesischer Seefahrer errichtet.",
+        "Das Gericht 'Binte Biluhuta' ist eine traditionelle Maissuppe der Region.",
+        "Die Tomini-Bucht gilt als das größte Meeresbecken Indonesiens.",
+        "Gorontalo besitzt ein einzigartiges Gewohnheitsrecht (Adat), das 17 Königreiche vereinte."
+      ]
+    },
+    {
+      "id": "tanjung-priok-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Tanjung Priok in Nord-Jakarta ist der unangefochtene pulsierende Herzschlag der indonesischen Wirtschaft. Als größter und modernster Seehafen des Inselstaates wickelt er über 50 Prozent des gesamten indonesischen Güterverkehrs ab und ist damit das wichtigste Tor zum Weltmarkt. Die Geschichte des Hafens reicht bis in die späten 1870er Jahre zurück, als die Niederländer ihn errichteten, um den veralteten Hafen von Batavia zu ersetzen. Heute ist Tanjung Priok ein gigantischer Komplex aus Containerterminals, Raffinerien und Logistikzentren, der rund um die Uhr in Betrieb ist. Die ständige Erweiterung des Hafens, wie das New Priok-Projekt, unterstreicht Indonesiens Ambitionen, ein globaler maritimer Hub an der Straße von Malakka zu werden. Geographie K12 — Welthandel und Logistikzentren.",
+      "factsAdvanced": [
+        "Der Bau des Hafens durch die Niederländer begann im Jahr 1877.",
+        "Schlägt jährlich über 7 Millionen TEU (Standardcontainer) um.",
+        "Erstreckt sich über eine Landfläche von etwa 600 Hektar in Nord-Jakarta.",
+        "Über 50% der indonesischen Im- und Exporte fließen durch diesen Hafen.",
+        "Das Terminal Kalibaru (New Priok) kann die weltweit größten Containerschiffe aufnehmen.",
+        "Direkt mit dem Schienennetz und dem mautpflichtigen Stadtautobahnring verbunden.",
+        "Beschäftigt direkt und indirekt Zehntausende von Menschen in der Logistikbranche."
+      ]
+    },
+    {
+      "id": "grasberg-mine-economic-v2",
+      "descriptionAdvanced": "Die Grasberg-Mine in der Provinz Papua ist ein gigantisches Bergbauprojekt der Superlative und eine der bedeutendsten Rohstoffquellen der Welt. Inmitten der unwegsamen Jayawijaya-Berge, in unmittelbarer Nähe zum Puncak Jaya, dem höchsten Berg Ozeaniens, befinden sich hier die weltweit größten Goldreserven und die zweitgrößten Kupfervorkommen. Das Projekt, das von Freeport-McMoRan betrieben wird, ist technologisch extrem anspruchsvoll; es kombiniert einen riesigen Tagebau in über 4.000 Metern Höhe mit komplexen Untertage-Minensystemen. Während die Mine einen massiven Beitrag zum indonesischen Bruttoinlandsprodukt leistet, steht sie aufgrund der massiven Landschaftsveränderungen und der Entsorgung von Abraum (Tailings) in der Kritik. Sie ist ein Paradebeispiel für die Spannungsfelder zwischen wirtschaftlicher Ausbeutung, technologischer Meisterleistung und ökologischer Verantwortung. Geographie K11 — Ressourcenextraktion und Umweltfolgen.",
+      "factsAdvanced": [
+        "Beherbergt die weltweit größte bekannte Goldreserve.",
+        "Liegt auf einer Höhe von bis zu 4.270 Metern in den Bergen von Papua.",
+        "Produziert jährlich über 600.000 Tonnen Kupfer und enorme Mengen Gold.",
+        "Beschäftigt rund 30.000 Mitarbeiter und Auftragnehmer vor Ort.",
+        "Der Übergang vom Tagebau zum reinen Untertagebau erfolgte weitgehend ab 2019.",
+        "Das Erztagebau-Loch hat einen Durchmesser von etwa 4 Kilometern.",
+        "Die Mine trägt etwa 1% zum gesamten BIP von Indonesien bei."
+      ]
+    },
+    {
+      "id": "bekasi-industrial-estate-economic-v2",
+      "descriptionAdvanced": "Das Industriegebiet von Bekasi, östlich der Hauptstadt Jakarta gelegen, bildet das industrielle Rückgrat Indonesiens und ist eine der größten Konzentrationen produzierender Betriebe in Südostasien. In riesigen Parks wie Jababeka oder MM2100 haben sich Hunderte von multinationalen Konzernen niedergelassen, wobei der Schwerpunkt auf der Automobil-, Elektronik- und Konsumgüterindustrie liegt. Giganten wie Toyota, Honda und Samsung betreiben hier hochmoderne Montagewerke für den Weltmarkt. Bekasi symbolisiert den rasanten Wandel Indonesiens von einer agrarisch geprägten Gesellschaft zu einer führenden Industrienation. Die schiere Größe der Anlagen und die komplexe Logistikinfrastruktur verdeutlichen die Integration des Landes in globale Wertschöpfungsketten. Gleichzeitig stellt die massive Urbanisierung die Region vor enorme verkehrstechnische und ökologische Herausforderungen. Geographie K11 — Industrialisierung und globale Wertschöpfungsketten.",
+      "factsAdvanced": [
+        "Das Gebiet umfasst über 10 große Industrieparks auf einer Fläche von Tausenden Hektar.",
+        "Jababeka, gegründet 1989, ist der größte Industriepark in Südostasien.",
+        "Über 2.500 Unternehmen aus 30 Ländern sind in der Region Bekasi angesiedelt.",
+        "Hier werden jährlich rund eine Million Kraftfahrzeuge für den In- und Export produziert.",
+        "Die Region trägt maßgeblich zum Exportvolumen von West-Java bei.",
+        "Direkt an die Autobahn Jakarta-Cikampek und das neue LRT-System angebunden.",
+        "Beschäftigt über eine Million Arbeiter in der verarbeitenden Industrie."
+      ]
+    },
+    {
+      "id": "paiton-power-station-economic-v2",
+      "descriptionAdvanced": "Der Kraftwerkskomplex Paiton an der Nordküste von Ost-Java ist eine der gewaltigsten Energieerzeugungsanlagen Südostasiens. Mit einer installierten Kapazität von über 4.600 Megawatt ist das Kohlekraftwerk eine unverzichtbare Säule für die Stromversorgung der dicht besiedelten Inseln Java und Bali. Die riesigen Schornsteine und die kilometerlangen Kohleförberbänder, die direkt ins Meer ragen, prägen die Küstenlinie zwischen Probolinggo und Situbondo. Paiton verdeutlicht das Dilemma der indonesischen Energiepolitik: Einerseits deckt es den rasant wachsenden Strombedarf der Industrie und Bevölkerung, andererseits steht es als einer der größten Emittenten von Treibhausgasen im Fokus der Klimadebatte. Die Anlage wird von verschiedenen internationalen Konsortien betrieben und nutzt modernste Verbrennungstechnologien, bleibt aber ein Symbol für die Abhängigkeit des Landes von fossilen Brennstoffen. Geographie K10 — Energieversorgung und Klimawandel.",
+      "factsAdvanced": [
+        "Die Gesamtkapazität des Komplexes beträgt etwa 4.645 Megawatt (MW).",
+        "Besteht aus neun Kraftwerkseinheiten, die seit den 1990er Jahren gebaut wurden.",
+        "Versorgt schätzungsweise 10% des gesamten Java-Bali-Stromnetzes.",
+        "Verbraucht täglich Zehntausende Tonnen Kohle, die meist per Schiff geliefert wird.",
+        "Die Einheiten 7 und 8 waren die ersten privaten Kraftwerksprojekte Indonesiens.",
+        "Einheit 3 nutzt modernste 'Supercritical'-Technologie für höhere Effizienz.",
+        "Liegt strategisch günstig direkt an der Straße von Madura zur Kühlung."
+      ]
+    },
+    {
+      "id": "batam-free-trade-zone-economic-v2",
+      "descriptionAdvanced": "Die Freihandelszone Batam ist ein Musterbeispiel für den Erfolg strategisch geplanter Sonderwirtschaftszonen. Nur etwa 20 Kilometer südlich von Singapur gelegen, hat sich die Insel innerhalb weniger Jahrzehnte von einem unbewohnten Dschungel zu einem globalen Zentrum für Elektronikfertigung, Schiffbau und Logistik entwickelt. Batam profitiert massiv von seiner Lage an einer der meistbefahrenen Wasserstraßen der Welt, der Straße von Malakka. Als Teil des SIJORI-Wachstumsdreiecks (Singapur-Johor-Riau) bietet die Insel steuerliche Anreize, die sie für ausländische Direktinvestitionen äußerst attraktiv machen. Neben der Schwerindustrie ist Batam auch ein bedeutendes Zentrum für den Tourismus und den Dienstleistungssektor, was Batam zu einer der am schnellsten wachsenden Städte Indonesiens macht. Geographie K11 — Sonderwirtschaftszonen und Globalisierung.",
+      "factsAdvanced": [
+        "Wurde im Jahr 1971 offiziell zur strategischen Industriezone erklärt.",
+        "Besitzt den Status einer Freihandelszone (FTZ) mit Zollbefreiungen.",
+        "Beherbergt über 20 Industrieparks und zahlreiche internationale Werften.",
+        "Batam ist der weltweit größte Standort für die Wartung von Ölplattformen.",
+        "Die Bevölkerung stieg von 6.000 im Jahr 1970 auf über 1,2 Millionen im Jahr 2023.",
+        "Die Barelang-Brücke verbindet Batam mit 6 benachbarten Inseln.",
+        "Nur 45 bis 60 Minuten mit der Fähre von Singapurs Zentrum entfernt."
+      ]
+    },
+    {
+      "id": "kaltim-prima-coal-mine-economic-v2",
+      "descriptionAdvanced": "Die Mine von Kaltim Prima Coal (KPC) in der Nähe von Sangatta in Ost-Kalimantan ist eine der weltweit größten und effizientesten Tagebau-Kohleminen. Auf einem riesigen Konzessionsgebiet werden hier gewaltige Mengen hochwertiger thermischer Kohle gefördert, die vor allem auf die asiatischen Energiemärkte exportiert werden. Die Dimensionen des Betriebs sind atemberaubend: Riesige Schaufelradbagger und Muldenkipper mit einer Traglast von hunderten Tonnen bewegen täglich Millionen Kubikmeter Gestein und Kohle. KPC ist ein entscheidender Wirtschaftsfaktor für die Provinz Ost-Kalimantan und trägt maßgeblich zu den Exporterlösen Indonesiens bei. Die Mine steht jedoch auch exemplarisch für die massiven Eingriffe in die tropischen Ökosysteme Borneos und die Herausforderungen der Rekultivierung nach Ende der Bergbauaktivitäten. Geographie K11 — Bergbau und Flächennutzung.",
+      "factsAdvanced": [
+        "Eine der größten Exportminen für energetische Kohle weltweit.",
+        "Das Konzessionsgebiet umfasst eine Fläche von rund 84.000 Hektar.",
+        "Produziert jährlich zwischen 50 und 60 Millionen Tonnen Kohle.",
+        "Verfügt über eine eigene 13 Kilometer lange Förderbandanlage zum Seehafen.",
+        "Der Hafen von Tanjung Bara kann Schiffe der 'Cape Size' mit 200.000 Tonnen laden.",
+        "Die Mine wird seit dem Jahr 1982 entwickelt und betrieben.",
+        "Hauptmärkte sind China, Indien, Japan und andere asiatische Staaten."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jardas-al-ahrar-cities-v2",
+      "descriptionAdvanced": "Jardas al Ahrar is a picturesque municipality situated in the lush Jabal al Akhdar mountains. Historically part of a massive Italian colonization agricultural project during the 1930s, the town still exhibits a rigid, grid-like layout designed for farming efficiency. Today, it remains heavily agricultural, producing high-quality wheat, barley, and honey. Its elevated position gives it a remarkably cool climate, often seeing frost in the winter months. Geography K7 — mountain agriculture and climate.",
+      "factsAdvanced": [
+        "Located in the fertile Jabal al Akhdar mountain range.",
+        "Originally developed as an Italian agricultural colony in the 1930s.",
+        "Famous locally for its high-quality honey production.",
+        "Experiences a cool, Mediterranean mountain climate.",
+        "Characterized by structured, grid-like rural planning.",
+        "Produces significant amounts of wheat and barley."
+      ]
+    },
+    {
+      "id": "masa-cities-v2",
+      "descriptionAdvanced": "Masa is a tranquil agricultural village located south of Al Bayda, deeply embedded in the green, rolling hills of Cyrenaica. It represents the quiet, traditional heartland of eastern Libya's farming communities. The village is surrounded by dense thickets of juniper and pine, offering a stark contrast to the typical Libyan desert environment. The community here is closely knit, relying primarily on livestock and small-scale crop cultivation. Sociology K7 — rural mountain communities.",
+      "factsAdvanced": [
+        "Located just south of Al Bayda in eastern Libya.",
+        "Surrounded by natural pine and juniper woodlands.",
+        "Economy is based almost entirely on subsistence agriculture.",
+        "Features a highly traditional, tight-knit community structure.",
+        "Enjoys a mild, temperate climate year-round.",
+        "Connected to larger markets via winding mountain roads."
+      ]
+    },
+    {
+      "id": "martuba-cities-v2",
+      "descriptionAdvanced": "Martuba is a small town located south of Derna, historically significant for its large airbase used extensively during the North African campaign of World War II. Today, the town is a quiet logistical node connecting the coastal road to inland desert routes. It is surrounded by semi-arid grazing land, where local Bedouin tribes maintain their traditional herding practices. The lingering remnants of military history give the town a unique, somewhat austere character. History K8 — WWII military aviation infrastructure.",
+      "factsAdvanced": [
+        "Situated south of the coastal city of Derna.",
+        "Historically famous for the Martuba Airbase used in WWII.",
+        "Serves as a transition point between the coast and the desert.",
+        "Economy is supported by local livestock herding.",
+        "Played a strategic role during the battles of Tobruk and Gazala.",
+        "Features flat, open terrain ideal for aviation."
+      ]
+    },
+    {
+      "id": "umm-al-rizam-cities-v2",
+      "descriptionAdvanced": "Umm al Rizam is a coastal municipality located between Derna and Tobruk, characterized by its stunning, unspoiled coastline and historical ruins. The town serves as a regional center for the surrounding scattered villages, providing basic administrative and commercial services. Offshore, the waters are rich with marine life, making small-scale fishing a vital economic activity. The area is also noted for its archaeological potential, containing unexcavated Roman and Greek remnants. Geography K7 — coastal rural economies.",
+      "factsAdvanced": [
+        "Located on the eastern Mediterranean coast between Derna and Tobruk.",
+        "Serves as an administrative center for surrounding small villages.",
+        "Economy relies heavily on artisanal fishing and agriculture.",
+        "Contains several undocumented historical ruins.",
+        "Features beautiful, untouched beaches and coves.",
+        "Connected via the main coastal highway of Cyrenaica."
+      ]
+    },
+    {
+      "id": "kambut-cities-v2",
+      "descriptionAdvanced": "Kambut is a minor settlement located east of Tobruk, existing primarily as a transit stop along the highway leading to the Egyptian border. During World War II, it was the site of several skirmishes and housed a notable Axis airfield. Today, its economy is completely tied to cross-border logistics, smuggling routes, and highway commerce. The stark, barren landscape surrounding the town is typical of the extreme eastern Cyrenaican desert. History K6 — border towns and desert logistics.",
+      "factsAdvanced": [
+        "Located east of Tobruk, near the Egyptian border.",
+        "Historically the site of a World War II Axis airfield.",
+        "Economy is driven by highway commerce and cross-border trade.",
+        "Features an extremely dry, barren desert environment.",
+        "Acts as a rest stop for long-haul truckers.",
+        "Population is small, consisting mostly of local tribal members."
+      ]
+    },
+    {
+      "id": "jaghbub-cities-v2",
+      "descriptionAdvanced": "Jaghbub is an incredibly isolated oasis located near the Egyptian border, famous for its deep historical connection to the Senussi religious order. The town is physically defined by a massive depression that lies below sea level, featuring highly saline lakes and date palm groves. It was the headquarters of the Senussi movement in the 19th century and remains a site of profound religious pilgrimage. The extreme isolation has perfectly preserved its unique historical character. Sociology K8 — religious movements and extreme isolation.",
+      "factsAdvanced": [
+        "Located in a deep depression close to the Egyptian border.",
+        "Historically the primary headquarters of the Senussi order.",
+        "Sits roughly 10 meters below sea level.",
+        "Features unique, highly saline desert lakes.",
+        "Economy relies entirely on date palm cultivation.",
+        "A major site for religious pilgrimage and historical study."
+      ]
+    },
+    {
+      "id": "qasr-bin-ghashir-cities-v2",
+      "descriptionAdvanced": "Qasr bin Ghashir is a bustling southern suburb of Tripoli, acting as the primary gateway to Tripoli International Airport. The town has grown rapidly from a quiet agricultural village into a densely populated logistical and industrial hub. Its strategic location makes it critical for the transport of goods from the capital to the southern interior. Unfortunately, its proximity to the airport has frequently made it a flashpoint during recent urban conflicts. Geography K8 — urban sprawl and strategic infrastructure.",
+      "factsAdvanced": [
+        "Located immediately south of Tripoli city center.",
+        "Serves as the main access point to Tripoli International Airport.",
+        "Has experienced rapid urbanization over the last two decades.",
+        "Functions as a major industrial and transport hub.",
+        "Historically surrounded by fertile citrus and olive orchards.",
+        "Frequently contested due to its strategic logistical importance."
+      ]
+    },
+    {
+      "id": "tajoura-cities-v2",
+      "descriptionAdvanced": "Tajoura is a historic coastal city that has essentially merged into the eastern sprawl of the Tripoli metropolitan area. It is famous for its beautiful beaches, historic mosques, and its specialized industrial sector, particularly the Tajoura Nuclear Research Center. The city maintains a strong, distinct local identity despite being absorbed by the capital. Fishing and tourism remain important, alongside significant manufacturing facilities. Sociology K7 — urban integration and historic identity.",
+      "factsAdvanced": [
+        "Forms the eastern coastal boundary of the Tripoli metropolitan area.",
+        "Home to the historic Murad Agha Mosque, built in the 16th century.",
+        "Hosts the Tajoura Nuclear Research Center.",
+        "Known for beautiful Mediterranean beaches and seafood.",
+        "Maintains a fierce, independent local identity.",
+        "Features significant light manufacturing and industrial zones."
+      ]
+    },
+    {
+      "id": "msallata-cities-v2",
+      "descriptionAdvanced": "Msallata is perched in the hills overlooking the coastal plain east of Tripoli, renowned universally across Libya for its exceptional olive oil. The city is surrounded by ancient, sprawling olive groves that form the backbone of the local economy. It has a rich history as an Islamic educational center, hosting several important historic schools and mosques. The hilly terrain offers natural fortifications, which historically made it a stronghold during colonial resistance. Geography K7 — specialized agricultural economies.",
+      "factsAdvanced": [
+        "Located in the coastal hills approximately 130 kilometers east of Tripoli.",
+        "Considered the premier producer of high-quality olive oil in Libya.",
+        "Surrounded by vast, ancient olive orchards.",
+        "Historically a major center for Islamic jurisprudence and education.",
+        "Features a cooler climate than the immediate coastal strip.",
+        "Played a notable role in the resistance against Italian colonization."
+      ]
+    },
+    {
+      "id": "al-ajaylat-cities-v2",
+      "descriptionAdvanced": "Al Ajaylat is a densely populated agricultural town located in the western Nuqat al Khams district, set slightly inland from the coast. The town thrives on the fertile soil and groundwater of the Jafara plain, producing massive quantities of dates, citrus, and vegetables. It acts as a vital commercial center for surrounding farming communities. Al Ajaylat is also known for its strong tribal heritage and large traditional markets that draw traders from across the western region. Geography K7 — regional farming hubs.",
+      "factsAdvanced": [
+        "Situated in western Libya, inland from Sabratha and Surman.",
+        "A major producer of agricultural goods on the Jafara plain.",
+        "Famous for expansive date palm and citrus orchards.",
+        "Functions as a central market hub for surrounding rural areas.",
+        "Has a rapidly growing population due to urban centralization.",
+        "Deeply rooted in traditional western Libyan tribal structures."
+      ]
+    },
+    {
+      "id": "al-qubbah-cities-v2",
+      "descriptionAdvanced": "Al Qubbah is the largest city in the Derna District, situated prominently in the green highlands of the Jabal al Akhdar. Historically a major agricultural hub during Italian colonization, it continues to be a massive producer of livestock and grain. The city's elevated position gives it a brisk, cool climate, very different from the coastal heat. It serves as a vital crossroad connecting the coastal highway to deep inland desert routes. Geography K7 — mountain agricultural crossroads.",
+      "factsAdvanced": [
+        "The largest city by population in the Derna District.",
+        "Located high in the Jabal al Akhdar mountain range.",
+        "A major center for grain production and livestock herding.",
+        "Experiences a cool, Mediterranean mountain climate.",
+        "Historically expanded during the Italian colonization period.",
+        "Serves as a strategic road junction for eastern Libya."
+      ]
+    },
+    {
+      "id": "badr-cities-v2",
+      "descriptionAdvanced": "Badr is a rugged, strategically located town in the western Nafusa Mountains, sitting near the border with Tunisia. It is heavily involved in the local agricultural economy, particularly olive and almond cultivation. Due to its proximity to the border, the town's economy is supplemented by cross-border trade and logistics. Badr is known for its strong sense of community and its traditional, fortified mountain architecture that provides protection against the elements. Sociology K8 — border economies and mountain life.",
+      "factsAdvanced": [
+        "Located in the western reaches of the Nafusa Mountains.",
+        "Close to the international border with Tunisia.",
+        "Economy blends traditional agriculture with border trade.",
+        "Cultivates hardy crops like olives, figs, and almonds.",
+        "Features historic, fortified stone architecture.",
+        "Maintains strong tribal affiliations with neighboring regions."
+      ]
+    },
+    {
+      "id": "al-magrun-cities-v2",
+      "descriptionAdvanced": "Al Magrun is a quiet coastal village situated south of Benghazi, functioning as a minor transit point along the highway to Ajdabiya. The village is surrounded by vast, flat plains used extensively for livestock grazing by local Bedouin populations. Its proximity to the sea allows for small-scale artisanal fishing, though agriculture dominates the local economy. It represents the sparse, spread-out nature of settlements along the Gulf of Sidra coast. Geography K6 — coastal plains and grazing.",
+      "factsAdvanced": [
+        "Located on the main coastal highway south of Benghazi.",
+        "Economy is dominated by pastoral livestock grazing.",
+        "Sits on the flat, semi-arid coastal plain.",
+        "Features a very small, tightly knit local population.",
+        "Supports minor, artisanal coastal fishing activities.",
+        "Serves as a rest stop for highway travelers."
+      ]
+    },
+    {
+      "id": "qandulah-cities-v2",
+      "descriptionAdvanced": "Qandulah is a small, elevated village in the Jabal al Akhdar, known for its pristine natural environment and deep agricultural roots. The village is surrounded by thick Mediterranean brush, making it a beautiful, isolated retreat from the larger cities. Its economy relies entirely on family-owned farms producing honey, fruits, and livestock. The community is highly traditional, preserving older ways of life that have largely vanished in modern Libyan urban centers. Sociology K7 — traditional subsistence agriculture.",
+      "factsAdvanced": [
+        "Located in the heavily forested Jabal al Akhdar region.",
+        "Features a very traditional, agriculture-based economy.",
+        "Surrounded by natural Mediterranean maquis shrubland.",
+        "Known locally for high-quality natural honey and fruits.",
+        "Has a small, stable, and deeply rooted population.",
+        "Offers a significantly cooler climate than the coastal plains."
+      ]
+    },
+    {
+      "id": "port-of-tripoli-economic-v2",
+      "descriptionAdvanced": "The Port of Tripoli is Libya's primary maritime gateway, handling the vast majority of the nation's imported general cargo and consumer goods. Located directly adjacent to the historic center of the capital, the port's massive breakwaters and container terminals dominate the city's coastline. It is a critical lifeline for the country's economy, ensuring the steady flow of food, machinery, and vehicles into the Tripolitania region. The port's continuous operation is a major priority for national security. Economics K8 — maritime trade and national imports.",
+      "factsAdvanced": [
+        "Libya's largest port for general cargo and container shipping.",
+        "Located directly in the heart of the capital city, Tripoli.",
+        "Features massive defensive breakwaters extending into the Mediterranean.",
+        "Handles the majority of imported food and consumer goods.",
+        "Operates numerous deep-water berths for international vessels.",
+        "A critical strategic asset for the national economy."
+      ]
+    },
+    {
+      "id": "port-of-benghazi-economic-v2",
+      "descriptionAdvanced": "The Port of Benghazi serves as the indispensable commercial lifeline for eastern Libya and the broader Cyrenaica region. Reopened and modernized after periods of severe conflict, the port now handles massive volumes of container traffic, construction materials, and food imports. It sits perfectly integrated into the city's coastline, providing thousands of jobs and driving the regional economy. Its strategic location makes it the primary competitor to the ports in the west. Economics K8 — regional maritime logistics.",
+      "factsAdvanced": [
+        "The primary commercial maritime port for eastern Libya.",
+        "Located in the center of Benghazi city.",
+        "Handles critical imports of construction materials and food.",
+        "Was significantly rehabilitated after recent urban conflicts.",
+        "Vital for the economic independence of the Cyrenaica region.",
+        "Features specialized terminals for dry bulk and containers."
+      ]
+    },
+    {
+      "id": "misrata-port-economic-v2",
+      "descriptionAdvanced": "The Misrata Free Zone and Port is arguably Libya's most successful modern economic project, transforming the city into an international trade powerhouse. Established in 2000, the Free Zone offers tax incentives that have attracted immense foreign investment and light manufacturing. The deep-water port of Qasr Ahmed handles massive container ships, functioning as a regional transshipment hub for North Africa. This dual-purpose facility is the engine driving Misrata's robust economy. Economics K8 — free trade zones and transshipment.",
+      "factsAdvanced": [
+        "Home to Libya's first and largest Free Trade Zone, established in 2000.",
+        "Features the deep-water Qasr Ahmed port.",
+        "A major transshipment hub for the Mediterranean and North Africa.",
+        "Attracts significant foreign direct investment and manufacturing.",
+        "Handles a massive percentage of Libya's total maritime traffic.",
+        "Directly linked to Misrata's heavy iron and steel industries."
+      ]
+    },
+    {
+      "id": "al-khums-port-economic-v2",
+      "descriptionAdvanced": "Al Khums Port is a highly specialized maritime facility, known primarily for its enormous capacity to handle imported vehicles and roll-on/roll-off (RoRo) cargo. Located east of Tripoli, it acts as a massive parking and distribution center for cars entering the Libyan market. Beyond vehicles, the port also supports local fishing fleets and handles regional agricultural exports. Its specific focus on automotive imports makes it a unique and vital node in the national economy. Economics K7 — specialized maritime cargo.",
+      "factsAdvanced": [
+        "Located roughly 120 kilometers east of Tripoli.",
+        "Specializes heavily in roll-on/roll-off (RoRo) vehicle imports.",
+        "Acts as a primary distribution hub for cars entering Libya.",
+        "Also features significant facilities for local fishing fleets.",
+        "Helps relieve congestion from the main Port of Tripoli.",
+        "Strategically located near major coastal highway networks."
+      ]
+    },
+    {
+      "id": "tobruk-port-economic-v2",
+      "descriptionAdvanced": "The Port of Tobruk boasts one of the finest natural deep-water harbors in North Africa, heavily protected from Mediterranean storms. While historically famous for its naval significance during World War II, today it is a critical commercial and oil-exporting hub. Located near the Egyptian border, it facilitates significant international trade for the extreme east of the country. The port is essential for exporting crude oil pumped from the massive Sarir field deep in the desert. Economics K8 — natural harbors and oil export.",
+      "factsAdvanced": [
+        "Features one of the deepest, best-protected natural harbors in North Africa.",
+        "Located near the Egyptian border in extreme eastern Libya.",
+        "A critical export terminal for oil from the Sarir field.",
+        "Historically a massive strategic naval base during WWII.",
+        "Handles commercial shipping and general cargo for the east.",
+        "Less susceptible to bad weather compared to other coastal ports."
+      ]
+    },
+    {
+      "id": "derna-port-economic-v2",
+      "descriptionAdvanced": "The Port of Derna is a small but historically vital maritime facility nestled between the Mediterranean Sea and the steep Jabal al Akhdar mountains. Historically serving the local agricultural and fishing communities, its capacity is limited compared to massive hubs like Misrata or Benghazi. The port suffered catastrophic damage during the 2023 floods when the city's dams collapsed, washing immense debris into the harbor. Recovery and dredging efforts are ongoing to restore this local lifeline. Geography K8 — maritime infrastructure and natural disasters.",
+      "factsAdvanced": [
+        "A smaller, localized port serving the city of Derna.",
+        "Historically supported fishing and regional agricultural export.",
+        "Suffered catastrophic damage and silting during the 2023 floods.",
+        "Nestled uniquely between steep coastal mountains and the sea.",
+        "Currently undergoing massive rehabilitation and dredging.",
+        "Vital for the economic recovery of the surrounding disaster zone."
+      ]
+    }
+  ]
+}

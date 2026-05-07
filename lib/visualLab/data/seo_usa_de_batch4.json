@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "buffalo-cities-v2",
+      "descriptionAdvanced": "Buffalo liegt am östlichen Ende des Eriesees, direkt am Ursprung des Niagara Rivers in New York. Der Bau des Eriekanals 1825 verwandelte die einst kleine Siedlung in einen der wichtigsten Binnenhäfen der Welt, da hier Getreide aus dem Mittleren Westen auf Kanalkähne in Richtung Ostküste umgeladen wurde ('Queen City of the Lakes'). Die enorme Wasserkraft der nahen Niagarafälle ermöglichte ab dem späten 19. Jahrhundert eine gigantische Stahl- und Getreidemühlenindustrie. Nach dem drastischen industriellen Niedergang im späten 20. Jahrhundert hat Buffalo in den letzten Jahren durch umfangreiche Revitalisierung der historischen Wasserfront (Canalside) und Investitionen in Medizinforschung ein Comeback erlebt. Geographie K8 — Der Eriekanal und industrielle Wasserwege.",
+      "factsAdvanced": [
+        "Historisch ein massiver Umschlagplatz für Getreide dank des Eriekanals (1825)",
+        "Trug im frühen 20. Jahrhundert den Spitznamen 'City of Light' aufgrund des ersten Stromnetzes",
+        "Die Wasserkraft der nahen Niagarafälle trieb den frühen industriellen Boom an",
+        "Einer der massivsten Schneefall-Orte der USA aufgrund des Lake-Effekts",
+        "Wurde 1901 weltweit bekannt durch die Pan-American Exposition",
+        "Heimat des massiven Buffalo Niagara Medical Campus"
+      ]
+    },
+    {
+      "id": "fort-wayne-cities-v2",
+      "descriptionAdvanced": "Fort Wayne, die zweitgrößte Stadt in Indiana, liegt strategisch günstig am Zusammenfluss der Flüsse St. Joseph, St. Marys und Maumee. 1794 als amerikanisches Militärfort unter General Anthony Wayne auf der Asche eines Miami-Dorfes (Kekionga) errichtet, wuchs die Stadt später massiv durch den Bau des Wabash-Erie-Kanals und die Eisenbahn. Im 20. Jahrhundert entwickelte sich Fort Wayne zu einem bedeutenden Zentrum der Fertigungsindustrie (z.B. General Electric, International Harvester). Trotz Deindustrialisierung in bestimmten Sektoren bewahrt die Stadt eine starke Wirtschaft im Bereich Verteidigung und Spezialfahrzeuge. Die Stadt ist zudem stolz auf ihr weitreichendes Flusspark-System, das aktiv revitalisiert wird. Wirtschaft K7 — Kanalbau und industrielle Konsolidierung im Mittleren Westen.",
+      "factsAdvanced": [
+        "1794 als amerikanisches Fort anstelle der indigenen Hauptstadt Kekionga errichtet",
+        "Liegt an den drei Flüssen St. Joseph, St. Marys und Maumee",
+        "Wurde durch den Wabash-Erie-Kanal zu einem regionalen Wirtschaftszentrum",
+        "Heimat des Johnny Appleseed-Festivals, zu Ehren des Pioniers John Chapman",
+        "Historisch ein großes Produktionszentrum für Lkw (International Harvester)",
+        "Besaß in den 1980ern die höchste Dichte an Kirchen in Indiana ('City of Churches')"
+      ]
+    },
+    {
+      "id": "boise-cities-v2",
+      "descriptionAdvanced": "Boise, die Hauptstadt und bevölkerungsreichste Stadt von Idaho, liegt im Südwesten des Bundesstaates am Fuße der majestätischen Rocky Mountains. Gegründet 1863 während des Idaho-Goldrauschs, entwickelte sich die Stadt dank des Boise Rivers rasch zum wichtigsten Versorgungszentrum der Region. Die ausgedehnten Wälder brachten ihr den Namen 'City of Trees' ein. Heute ist Boise das unbestrittene wirtschaftliche Zentrum Idahos, stark geprägt durch Landwirtschaft (insbesondere Kartoffeln und Rüben) und Technologie; der Halbleiterhersteller Micron Technology wurde hier 1978 gegründet. Das städtische Leben wird massiv durch den Boise River Greenbelt, ein kilometerlanges Netzwerk aus Parks und Pfaden am Flussufer, bereichert. Geographie K8 — Ressourcennutzung und Technologie im Nordwesten.",
+      "factsAdvanced": [
+        "1863 als Versorgungsposten während des Idaho-Goldrauschs gegründet",
+        "Trägt den offiziellen Spitznamen 'City of Trees' (Stadt der Bäume)",
+        "Ist das unbestrittene politische und wirtschaftliche Zentrum des Bundesstaates",
+        "Beherbergt den globalen Hauptsitz des Speicherchip-Herstellers Micron Technology",
+        "Hat eine der größten baskischen Gemeinden (Basque Block) in den Vereinigten Staaten",
+        "Der Boise River Greenbelt ist ein 40 Kilometer langer durchgehender Uferpark"
+      ]
+    },
+    {
+      "id": "richmond-va-cities-v2",
+      "descriptionAdvanced": "Richmond, gelegen am Fall Line des James Rivers, ist die historische Hauptstadt von Virginia. Die 1737 von William Byrd II gegründete Stadt war ein Zentrum der Amerikanischen Revolution; in der dortigen St. John’s Church hielt Patrick Henry 1775 seine berühmte Rede ('Give me liberty, or give me death!'). Besondere Bekanntheit erlangte Richmond jedoch als Hauptstadt der Konföderierten Staaten von Amerika (CSA) während des Bürgerkriegs (1861–1865), woraufhin ein Großteil der Stadt bei der Evakuierung niederbrannte. Heute floriert Richmond durch staatliche Verwaltung, Finanzwesen (Sitz einer Federal Reserve Bank) und juristische Dienstleistungen. Das beeindruckende Virginia State Capitol wurde von Thomas Jefferson entworfen. Geschichte K8 — Der Amerikanische Bürgerkrieg und historische Hauptstädte.",
+      "factsAdvanced": [
+        "1737 durch William Byrd II gegründet, am geografischen Fall Line des James River",
+        "Diente von 1861 bis 1865 als offizielle Hauptstadt der Konföderation im Bürgerkrieg",
+        "Ort der berühmten Rede 'Give me liberty, or give me death!' von Patrick Henry (1775)",
+        "Sitz der Federal Reserve Bank of Richmond",
+        "Das von Thomas Jefferson entworfene State Capitol inspirierte zahlreiche andere US-Regierungsgebäude",
+        "Bedeutender historischer Knotenpunkt für den frühen US-Eisenbahnbau"
+      ]
+    },
+    {
+      "id": "des-moines-cities-v2",
+      "descriptionAdvanced": "Des Moines ist die Hauptstadt und bevölkerungsreichste Stadt von Iowa, zentral gelegen im Herzen des Corn Belts. Die 1843 als Fort Des Moines gegründete Stadt wurde am Zusammenfluss von Des Moines River und Raccoon River erbaut. Obwohl sie von riesigen landwirtschaftlichen Anbauflächen umgeben ist, hat sich die Metropole zu einem der weltweit bedeutendsten Zentren der Versicherungsbranche entwickelt. Wegen der massiven Konzentration an Versicherungs- und Finanzunternehmen ('Hartford of the West') verzeichnet die Stadt ein stetiges Wirtschaftswachstum. Politisch rückt Des Moines alle vier Jahre ins globale Rampenlicht, da hier die Iowa Caucuses stattfinden, die erste und oft richtungsweisende Vorwahl im Präsidentschaftswahlkampf der USA. Politik K8 — Vorwahlen und die Versicherungsindustrie im Corn Belt.",
+      "factsAdvanced": [
+        "1843 ursprünglich als Militärposten (Fort Des Moines) errichtet",
+        "Gilt weltweit als eines der größten Zentren der Versicherungsindustrie",
+        "Gastgeber der alle vier Jahre stattfindenden Iowa Caucuses (erste US-Präsidentschaftsvorwahl)",
+        "Das Iowa State Capitol besitzt eine markante goldene Kuppel",
+        "Liegt exakt im landwirtschaftlichen Epizentrum des amerikanischen Corn Belts",
+        "Beherbergt die massiv frequentierte jährliche Landwirtschaftsmesse Iowa State Fair"
+      ]
+    },
+    {
+      "id": "baton-rouge-cities-v2",
+      "descriptionAdvanced": "Baton Rouge ist die Hauptstadt von Louisiana und liegt am östlichen Ufer des Mississippi Rivers. Der Name, französisch für 'roter Stock', stammt von einem rot bemalten Zypressenpfahl, der als Grenzmarkierung zwischen indigenen Stämmen diente und von französischen Entdeckern 1699 gefunden wurde. Die Stadt besitzt den am weitesten im Landesinneren gelegenen Tiefwasserhafen des Mississippi, der riesige Mengen an petrochemischen Produkten umschlägt. Tatsächlich dominieren gigantische Erdölraffinerien und Chemieanlagen die Industrie der Region. Architektonisch überragt das markante Louisiana State Capitol, das höchste Capitol-Gebäude der USA (entworfen in den 1930ern unter Gouverneur Huey Long), die Skyline. Geographie K8 — Tiefwasserhäfen und die Petrochemie am Mississippi.",
+      "factsAdvanced": [
+        "Der Name 'Baton Rouge' (Roter Stock) geht auf eine indigene Grenzmarkierung von 1699 zurück",
+        "Verfügt über den tiefsten Binnenhafen für Hochseeschiffe am Mississippi River",
+        "Ein massives globales Zentrum für Erdölraffination und petrochemische Produktion",
+        "Das Louisiana State Capitol ist mit 137 Metern das höchste Capitol-Gebäude der USA",
+        "Heimat der Louisiana State University (LSU), der größten Universität des Bundesstaates",
+        "Erlebte 2005 nach Hurrikan Katrina einen dramatischen Bevölkerungszuwachs durch Evakuierte"
+      ]
+    },
+    {
+      "id": "spokane-cities-v2",
+      "descriptionAdvanced": "Spokane ist die zweitgrößte Stadt im Bundesstaat Washington und fungiert als wirtschaftliches und kulturelles Zentrum für die riesige 'Inland Northwest'-Region, die sich bis nach Idaho und Montana erstreckt. 1871 an den Ufern des Spokane Rivers gegründet, profitierte die Stadt immens von den Spokane Falls, deren Wasserkraft den raschen Aufbau von Sägewerken, Getreidemühlen und später der Elektrizitätserzeugung ermöglichte. Die Entdeckung von massiven Silber- und Blei-Lagerstätten in der nahen Coeur d'Alene-Region brachte der Stadt enormen Reichtum, was sich im historischen Stadtkern widerspiegelt. Die Austragung der Expo '74, der ersten umweltbezogenen Weltausstellung, verwandelte das alte Industriegelände in den heute berühmten Riverfront Park. Geographie K7 — Wasserkraft und Weltausstellungen im pazifischen Nordwesten.",
+      "factsAdvanced": [
+        "1871 nahe der Wasserfälle am Spokane River gegründet",
+        "Diente historisch als massiver Umschlagplatz für Holz- und Bergbauindustrie der Region",
+        "Trägt den offiziellen Spitznamen 'Lilac City' (Fliederstadt)",
+        "Gastgeber der Expo '74, der ersten Weltausstellung mit ökologischem Schwerpunkt",
+        "Der Riverfront Park entstand aus der massiven städtebaulichen Erneuerung der Expo '74",
+        "Bildet das unbestrittene medizinische Zentrum der Inland Northwest-Region"
+      ]
+    },
+    {
+      "id": "birmingham-al-cities-v2",
+      "descriptionAdvanced": "Birmingham, die größte Stadt Alabamas, liegt in den Ausläufern der Appalachen am Jones Valley. Anders als viele Südstaatenstädte entstand Birmingham erst nach dem Bürgerkrieg im Jahr 1871. Wegen der enormen, in unmittelbarer Nähe abbaubaren Vorkommen an Eisenerz, Kohle und Kalkstein – den drei essentiellen Rohstoffen für die Stahlproduktion – explodierte das Wachstum der Stadt, was ihr den Spitznamen 'Magic City' (Magische Stadt) einbrachte. Bis Mitte des 20. Jahrhunderts war Birmingham das primäre Industriezentrum des amerikanischen Südens ('Pittsburgh of the South'). Traurige Berühmtheit erlangte die Stadt in den 1960er Jahren als Epizentrum blutiger Bürgerrechtskämpfe (16th Street Baptist Church Bombing). Heute dominiert das Gesundheitswesen, angeführt durch die University of Alabama at Birmingham (UAB). Geschichte K8 — Stahlindustrie und Bürgerrechtsbewegung im Neuen Süden.",
+      "factsAdvanced": [
+        "1871 nach dem Amerikanischen Bürgerkrieg an einer Eisenbahnkreuzung gegründet",
+        "Besitzt eine einzigartige Konzentration an Eisen-, Kohle- und Kalksteinvorkommen",
+        "Bekannt als 'The Magic City' aufgrund des rasanten Wachstums der Stahlindustrie",
+        "Epizentrum der Bürgerrechtsbewegung in den 1960er Jahren (u.a. durch Martin Luther King Jr.)",
+        "Das Birmingham Civil Rights Institute ist ein national bedeutendes Museum",
+        "Die University of Alabama at Birmingham (UAB) ist heute der größte Arbeitgeber im Bundesstaat"
+      ]
+    },
+    {
+      "id": "rochester-ny-cities-v2",
+      "descriptionAdvanced": "Rochester liegt im Westen des Bundesstaates New York am südlichen Ufer des Ontariosees. Die Stadt wuchs im frühen 19. Jahrhundert rasant durch den Eriekanal und die Wasserkraft des Genesee Rivers, die riesige Getreidemühlen antrieb ('The Flour City'). Später verlagerte sich der Schwerpunkt auf Baumschulen und Blumen ('The Flower City'). Im 20. Jahrhundert wurde Rochester jedoch weltweit berühmt als Zentrum der amerikanischen Optik- und Fotografieindustrie, maßgeblich durch die Gründung von Eastman Kodak (1888), Bausch & Lomb sowie Xerox. Auch wenn diese Konzerne heute verkleinert sind, bleibt Rochester ein technologisches Kraftzentrum im Bereich Optik und beherbergt das renommierte Rochester Institute of Technology (RIT). Geschichte K8 — Pioniere der Fotografie und Optik in den USA.",
+      "factsAdvanced": [
+        "Gegründet um die Wasserkraft der Genesee River-Wasserfälle zu nutzen",
+        "Historisch bekannt als 'Flour City' (Getreide) und später 'Flower City' (Gartenbau)",
+        "Geburtsort der globalen Fotografieindustrie durch George Eastman (Kodak, 1888)",
+        "Heimat des Eastman School of Music, einer der renommiertesten Musikhochschulen",
+        "Susan B. Anthony war hier eine der zentralen Figuren der Frauenrechtsbewegung",
+        "Zentrum der High-Tech-Optik, Photonik und Bildverarbeitungsforschung"
+      ]
+    },
+    {
+      "id": "aurora-co-cities-v2",
+      "descriptionAdvanced": "Aurora ist die drittgrößte Stadt in Colorado und grenzt als riesige Vorstadtmetropole direkt östlich an Denver. Ursprünglich 1891 als Fletcher gegründet, blieb die Region lange Zeit stark landwirtschaftlich geprägt. Dies änderte sich drastisch während des Kalten Krieges durch die Einrichtung massiver militärischer Anlagen, insbesondere der Buckley Space Force Base, die noch heute eine zentrale Rolle in der Luft- und Raumfahrtabwehr der USA spielt. Heute hat sich Aurora zudem als bedeutendes Zentrum der Gesundheitswirtschaft und medizinischen Forschung etabliert; der gewaltige Anschutz Medical Campus ist ein florierendes Zentrum für Innovation. Trotz Vorstadtcharakter besticht die Stadt durch ein starkes Engagement für Grünflächen, mit Dutzenden Parks und ausgedehnten Wegenetzen. Geographie K8 — Militärische Stützpunkte und Vorstadtwachstum.",
+      "factsAdvanced": [
+        "1891 als Fletcher gegründet und 1907 in Aurora umbenannt",
+        "Heimat der strategisch wichtigen Buckley Space Force Base",
+        "Der Anschutz Medical Campus ist eines der modernsten medizinischen Forschungszentren der USA",
+        "Die drittgrößte Stadt Colorados, eng verwoben mit der Metropolregion Denver",
+        "Erlebte 2012 ein tragisches Massaker in einem örtlichen Kino, das weltweit Entsetzen auslöste",
+        "Besitzt eine enorm vielfältige Bevölkerung mit starken internationalen Gemeinschaften"
+      ]
+    },
+    {
+      "id": "little-rock-cities-v2",
+      "descriptionAdvanced": "Little Rock ist die Hauptstadt und größte Stadt des Bundesstaates Arkansas, malerisch am Südufer des Arkansas Rivers in den Ausläufern der Ouachita Mountains gelegen. Der Name stammt von der 'La Petite Roche', einer markanten Felsformation am Fluss, die 1722 von französischen Entdeckern als Orientierungspunkt genutzt wurde. Historische, weltweite Aufmerksamkeit erlangte die Stadt 1957 während der Desegregationskrise an der Little Rock Central High School, als US-Präsident Eisenhower Bundestruppen entsenden musste, um neun afroamerikanischen Schülern (den 'Little Rock Nine') den Schulbesuch zu ermöglichen. Heute beherbergt die Stadt zudem die William J. Clinton Presidential Library and Museum, die die Amtszeit des in Arkansas geborenen US-Präsidenten dokumentiert. Geschichte K8 — Schul-Desegregation und die Little Rock Nine.",
+      "factsAdvanced": [
+        "Benannt nach 'La Petite Roche' (Der kleine Felsen), einem Wegpunkt der Flussnavigation (1722)",
+        "Hauptstadt und wirtschaftliches Zentrum von Arkansas seit 1821",
+        "Schauplatz der erzwungenen Schul-Desegregation durch die 'Little Rock Nine' im Jahr 1957",
+        "Sitz der William J. Clinton Presidential Library am Ufer des Arkansas Rivers",
+        "Das Arkansas State Capitol ist ein markanter Bau im neoklassizistischen Stil",
+        "Zentrum der Medizinforschung mit der University of Arkansas for Medical Sciences"
+      ]
+    },
+    {
+      "id": "columbia-sc-cities-v2",
+      "descriptionAdvanced": "Columbia ist die Hauptstadt von South Carolina, strategisch gelegen in der Mitte des Bundesstaates am Zusammenfluss der Flüsse Saluda und Broad, die hier den Congaree River bilden. Sie wurde 1786 als eine der ersten geplanten Hauptstädte in den USA gegründet, um die Macht vom elitären Küstenzentrum Charleston ins landwirtschaftliche Landesinnere zu verlagern. Im Amerikanischen Bürgerkrieg wurde Columbia 1865 von den Truppen General Shermans nahezu vollständig in Schutt und Asche gelegt. Heute ist die Metropole stark vom staatlichen Regierungsapparat und dem gewaltigen Campus der University of South Carolina (USC) geprägt. Die nahegelegene Fort Jackson ist zudem der größte Ausbildungsposten für Rekruten der US Army in der Nation. Geschichte K7 — Geplante Hauptstädte und Zerstörung im Bürgerkrieg.",
+      "factsAdvanced": [
+        "1786 als geplante Hauptstadt für South Carolina im Zentrum des Staates gegründet",
+        "Wurde im Februar 1865 während des Amerikanischen Bürgerkriegs großflächig niedergebrannt",
+        "Heimat der University of South Carolina (gegründet 1801)",
+        "Fort Jackson in der Nähe bildet mehr Rekruten aus als jede andere Basis der US Army",
+        "Der Congaree-Nationalpark mit seinen riesigen alten Hartholzbäumen liegt nur wenige Kilometer entfernt",
+        "Das South Carolina State House verfügt über eine kupferbedeckte Kuppel"
+      ]
+    },
+    {
+      "id": "jackson-ms-cities-v2",
+      "descriptionAdvanced": "Jackson, gelegen am Ufer des Pearl Rivers, ist die Hauptstadt und größte Stadt des Bundesstaates Mississippi. Gegründet 1821, wurde die Stadt nach Andrew Jackson benannt, dem siebten US-Präsidenten, der zuvor in der Region militärisch operierte ('City with Soul'). Im 20. Jahrhundert wurde Jackson zu einem der aktivsten Schlachtfelder der amerikanischen Bürgerrechtsbewegung. Eines der tragischsten Ereignisse war die Ermordung des Bürgerrechtsführers Medgar Evers im Jahr 1963 in der Einfahrt seines Hauses. Zur Würdigung dieses historischen Kampfes wurde 2017 das herausragende Mississippi Civil Rights Museum in Jackson eröffnet. Die Stadt kämpft heute mit starken infrastrukturellen Problemen, besitzt jedoch eine unglaublich reiche afroamerikanische Musikkultur, insbesondere im Blues und Gospel. Geschichte K8 — Die Bürgerrechtsbewegung in Mississippi.",
+      "factsAdvanced": [
+        "1821 als neue Hauptstadt gegründet und nach Andrew Jackson benannt",
+        "Zentraler Schauplatz der Bürgerrechtsbewegung, inkl. der Ermordung von Medgar Evers (1963)",
+        "Beherbergt das Mississippi Civil Rights Museum und das Museum of Mississippi History",
+        "Trägt den offiziellen Spitznamen 'City with Soul' (Stadt mit Seele)",
+        "Sitzt direkt auf einem erloschenen Vulkan, dem sogenannten Jackson Volcano",
+        "Kämpft im 21. Jahrhundert mit massiven Problemen im städtischen Wassernetz"
+      ]
+    },
+    {
+      "id": "providence-cities-v2",
+      "descriptionAdvanced": "Providence ist die Hauptstadt und bevölkerungsreichste Stadt von Rhode Island, dem kleinsten US-Bundesstaat. Sie wurde 1636 von dem Theologen Roger Williams als Zufluchtsort für religiöse Toleranz gegründet, nachdem dieser aus der puritanischen Massachusetts Bay Colony verbannt wurde. Providence war im 19. Jahrhundert ein massives Zentrum der amerikanischen Textil- und Silberwarenindustrie, was einen enormen Wohlstand generierte. Diese reiche Vergangenheit spiegelt sich in einer der landesweit größten Sammlungen historischer Architektur wider. Heute prägt eine starke intellektuelle Atmosphäre das Stadtbild, angetrieben von der prestigeträchtigen Brown University und der Rhode Island School of Design (RISD). Das Kunstprojekt 'WaterFire', bei dem Feuerschalen auf den innerstädtischen Flüssen brennen, ist eine berühmte kulturelle Touristenattraktion. Geschichte K8 — Religiöse Toleranz in den Neuengland-Kolonien.",
+      "factsAdvanced": [
+        "1636 von Roger Williams als Hafen der religiösen Freiheit gegründet",
+        "Eine der ältesten Städte der USA mit enormem Bestand an historischer Architektur",
+        "Heimat der zur Ivy League gehörenden Brown University (gegründet 1764)",
+        "War historisch das globale Zentrum der amerikanischen Silber- und Schmuckherstellung",
+        "Das moderne Kunst-Event 'WaterFire' hat die Flüsse der Innenstadt wiederbelebt",
+        "Die Stadt erstreckt sich am nördlichen Ende der Narragansett Bay"
+      ]
+    },
+    {
+      "id": "hartford-cities-v2",
+      "descriptionAdvanced": "Hartford, die Hauptstadt des Bundesstaates Connecticut, liegt idyllisch am Ufer des Connecticut River in Neuengland. Gegründet im Jahr 1635, zählt sie zu den absolut ältesten Städten der Vereinigten Staaten. Nach dem Amerikanischen Bürgerkrieg stieg Hartford, angetrieben durch enormen Reichtum, für mehrere Jahrzehnte zur reichsten Stadt der USA auf. Dies führte zur Ansiedlung zahlreicher Versicherungsgesellschaften (wie Aetna, Travelers, The Hartford), weshalb die Stadt noch heute stolz den Titel 'Insurance Capital of the World' (Versicherungshauptstadt der Welt) trägt. Hartford ist zudem reich an literarischer Geschichte; die weltberühmten Autoren Mark Twain und Harriet Beecher Stowe lebten hier in direkter Nachbarschaft, und ihre prachtvollen, gut erhaltenen Häuser sind heute bedeutende Museen. Wirtschaft K8 — Der historische Aufstieg der US-Versicherungsindustrie.",
+      "factsAdvanced": [
+        "1635 von dem englischen Geistlichen Thomas Hooker gegründet",
+        "Bekannt als 'Insurance Capital of the World' wegen der Konzentration großer Versicherer",
+        "Heimat des Mark Twain House, wo der Autor Werke wie 'Huckleberry Finn' verfasste",
+        "War in den Jahrzehnten nach dem Bürgerkrieg die pro Kopf reichste Stadt der USA",
+        "Das Wadsworth Atheneum ist eines der ältesten und besten öffentlichen Kunstmuseen der USA",
+        "Das historische State House (1796) ist das älteste erhaltene State House des Landes"
+      ]
+    },
+    {
+      "id": "salt-lake-city-cities-v2",
+      "descriptionAdvanced": "Salt Lake City, die Hauptstadt Utahs, liegt spektakulär im Salt Lake Valley zwischen den hohen Wasatch Mountains und dem Großen Salzsee. Die Stadt wurde 1847 von Brigham Young und einer massiven Gruppe von Mormonen-Pionieren gegründet, die auf der Flucht vor religiöser Verfolgung ein gelobtes Land ('Deseret') im trockenen Westen suchten. Noch heute ist das Zentrum von Salt Lake City vom Temple Square und dem imposanten Salt-Lake-Tempel dominiert, dem weltweiten Hauptsitz der Kirche Jesu Christi der Heiligen der Letzten Tage. Trotz dieser religiösen Wurzeln ist die Stadt demografisch zunehmend diverser geworden. Im Jahr 2002 erlangte sie weltweites Ansehen durch die erfolgreiche Austragung der Olympischen Winterspiele, gestützt durch die gigantischen Skigebiete in der unmittelbaren Umgebung. Geschichte K8 — Die Mormonen-Pioniere und die Besiedlung des Großen Beckens.",
+      "factsAdvanced": [
+        "1847 von Brigham Young und Mormonen-Pionieren gegründet",
+        "Der Temple Square ist der globale Hauptsitz der Kirche Jesu Christi der Heiligen der Letzten Tage",
+        "Liegt unmittelbar am Großen Salzsee, dem größten Salzwassersee der westlichen Hemisphäre",
+        "Straßen und Adressen basieren auf einem strikten Rastersystem, das vom Temple Square ausgeht",
+        "Austragungsort der stark beachteten Olympischen Winterspiele im Jahr 2002",
+        "Das Umland wird oft als 'Silicon Slopes' bezeichnet, ein stark wachsendes Tech-Zentrum"
+      ]
+    },
+    {
+      "id": "charleston-sc-cities-v2",
+      "descriptionAdvanced": "Charleston liegt auf einer Halbinsel in South Carolina, dort wo die Flüsse Ashley und Cooper in den Atlantik münden. Die 1670 als Charles Town gegründete Stadt ist eine der ältesten und historisch besterhaltenen Städte im amerikanischen Süden. Im 18. und frühen 19. Jahrhundert erlangte Charleston durch den massiven Export von Reis und Indigo extremen Reichtum, was tragischerweise vollständig auf dem brutalen System der Sklaverei aufbaute; die Stadt war der größte Umschlagplatz für versklavte Menschen in Nordamerika. Am 12. April 1861 begann hier der Amerikanische Bürgerkrieg mit dem Artilleriebeschuss von Fort Sumter in der Bucht. Heute wird die makellose koloniale Architektur (Battery, Rainbow Row) rigoros geschützt, was Charleston zu einer der wichtigsten Tourismusdestinationen des Kontinents macht. Geschichte K8 — Kolonialer Reichtum, Sklaverei und der Beginn des Bürgerkriegs.",
+      "factsAdvanced": [
+        "1670 gegründet und nach König Karl II. von England benannt",
+        "Einst der reichste Hafen der Dreizehn Kolonien durch Reis- und Indigoplantagen",
+        "War historisch der größte Ankunftshafen für versklavte Afrikaner in Nordamerika",
+        "Der Amerikanische Bürgerkrieg begann 1861 hier mit dem Angriff auf Fort Sumter",
+        "Bekannt für die pastellfarbenen Häuser der historischen 'Rainbow Row'",
+        "Besitzt eine der striktesten Architekturschutz-Verordnungen der Vereinigten Staaten"
+      ]
+    },
+    {
+      "id": "savannah-cities-v2",
+      "descriptionAdvanced": "Savannah ist die älteste Stadt im Bundesstaat Georgia und liegt an der Mündung des Savannah River. Sie wurde 1733 von General James Oglethorpe gegründet, der einen revolutionären, noch heute erhaltenen Stadtplan ('Oglethorpe Plan') mit einem perfekten Raster aus 24 schattigen, moosbedeckten Plätzen (Squares) entwarf. Diese einzigartige Gestaltung macht Savannah zu einer der fußgängerfreundlichsten und visuell romantischsten Städte der USA. Im Amerikanischen Bürgerkrieg wurde die Stadt – im Gegensatz zu Atlanta – von General Sherman verschont und 1864 Präsident Lincoln als 'Weihnachtsgeschenk' überreicht. Heute ist die Altstadt (Savannah Historic District) eine gigantische Touristenattraktion. Zudem floriert der Port of Savannah als einer der umschlagstärksten Containerhäfen der nordamerikanischen Ostküste. Geschichte K7 — Koloniale Stadtplanung und General Oglethorpe.",
+      "factsAdvanced": [
+        "1733 von General James Oglethorpe als erste Siedlung der Kolonie Georgia gegründet",
+        "Die historische Innenstadt ist um ein Raster aus 22 erhaltenen, öffentlichen Plätzen (Squares) aufgebaut",
+        "Wurde im Bürgerkrieg 1864 von General Sherman verschont und nicht niedergebrannt",
+        "Der Savannah Historic District ist einer der größten historischen Bezirke der USA",
+        "Der Port of Savannah gehört zu den am schnellsten wachsenden Containerhäfen des Landes",
+        "Sitz des renommierten Savannah College of Art and Design (SCAD)"
+      ]
+    },
+    {
+      "id": "santa-fe-cities-v2",
+      "descriptionAdvanced": "Santa Fe ist die Hauptstadt von New Mexico und zugleich die älteste staatliche Hauptstadt der Vereinigten Staaten. Auf einer Höhe von fast 2200 Metern in den Ausläufern der Sangre de Cristo Mountains gelegen, wurde die Stadt 1610 von spanischen Konquistadoren gegründet. Das Zentrum wird vom historischen Plaza und dem Palace of the Governors geprägt, dem ältesten kontinuierlich genutzten öffentlichen Gebäude des Landes. Santa Fe ist architektonisch weltweit einzigartig durch den konsequenten, gesetzlich vorgeschriebenen Schutz des Pueblo-Revival-Stils (Adobe-Lehmbau). Kulturell fungiert die Stadt als gewaltiger Magnet für bildende Kunst und besitzt nach New York und Los Angeles den drittgrößten Kunstmarkt der USA, stark fokussiert auf indigene und südwestliche Kunst. Geschichte K8 — Spanische Kolonialarchitektur und Kunstmärkte im Südwesten.",
+      "factsAdvanced": [
+        "1610 von Spaniern gegründet, ist es die älteste State Capital in den USA",
+        "Mit einer Höhe von fast 2200 Metern die höchstgelegene US-Hauptstadt",
+        "Das Stadtbild wird gesetzlich vom markanten Pueblo-Revival-Stil (Adobe) dominiert",
+        "Der Palace of the Governors ist das älteste öffentliche Gebäude der USA (erbaut 1610)",
+        "Trotz geringer Größe der drittgrößte Kunstmarkt in den Vereinigten Staaten (Canyon Road)",
+        "Endpunkt des historischen Santa Fe Trails aus dem 19. Jahrhundert"
+      ]
+    },
+    {
+      "id": "juneau-cities-v2",
+      "descriptionAdvanced": "Juneau ist die Hauptstadt des Bundesstaates Alaska und besitzt die einzigartige geografische Eigenschaft, dass sie nicht über das nordamerikanische Straßennetz erreichbar ist; man kann nur per Flugzeug oder Schiff (insbesondere der Alaska Marine Highway) anreisen. Die Stadt liegt dramatisch eingequetscht zwischen steilen, bewaldeten Bergen und dem Gastineau-Kanal im zerklüfteten Alaska Panhandle. Gegründet 1881 durch die Prospektoren Joe Juneau und Richard Harris, wuchs sie schnell durch massive Goldfunde heran. Neben der Verwaltung des größten US-Bundesstaates stützt sich die heutige Wirtschaft extrem stark auf den Sommer-Tourismus, wenn gigantische Kreuzfahrtschiffe täglich Tausende Besucher anlanden, um die Gletscher (Mendenhall Glacier) und die marine Tierwelt zu bestaunen. Geographie K8 — Isolierte Verkehrsinfrastruktur im Alaska Panhandle.",
+      "factsAdvanced": [
+        "Die einzige State Capital der USA, die nicht an das Straßennetz angebunden ist",
+        "1881 während eines Goldrausches gegründet und nach dem Schürfer Joe Juneau benannt",
+        "Flächenmäßig die zweitgrößte Stadtgemeinde in den USA (über 8000 km²)",
+        "Dient im Sommer als massiver Hafen für Alaska-Kreuzfahrtschiffe",
+        "Der Mendenhall-Gletscher ist eine der Hauptattraktionen und vom Straßenrand sichtbar",
+        "Seit 1906 die offizielle Hauptstadt von Alaska (Ablösung von Sitka)"
+      ]
+    },
+    {
+      "id": "montgomery-cities-v2",
+      "descriptionAdvanced": "Montgomery ist die Hauptstadt des Bundesstaates Alabama und liegt an den Ufern des Alabama Rivers. Historisch ist die Stadt ein absoluter Schnittpunkt der amerikanischen Geschichte: 1861 wurde sie als die erste Hauptstadt der Konföderierten Staaten von Amerika gegründet ('Cradle of the Confederacy'), bevor die Regierung nach Richmond umzog. Ein Jahrhundert später, in den 1950er Jahren, wurde Montgomery zum Epizentrum der Bürgerrechtsbewegung. Der Montgomery Bus Boycott, ausgelöst 1955 durch die Verweigerung von Rosa Parks, ihren Sitzplatz aufzugeben, katapultierte Martin Luther King Jr. an die Spitze der Bewegung. Die Abschlusskundgebung der historischen Selma-nach-Montgomery-Märsche von 1965 fand direkt vor dem Alabama State Capitol statt. Wirtschaftlich stützt sich die Stadt heute stark auf Verwaltung, Militär (Maxwell Air Force Base) und Automobilproduktion. Geschichte K8 — Von der Konföderation zur Bürgerrechtsbewegung.",
+      "factsAdvanced": [
+        "1819 gegründet, fungierte sie 1861 als die erste Hauptstadt der Konföderation",
+        "Schauplatz des Montgomery Bus Boykotts (1955-1956) nach der Festnahme von Rosa Parks",
+        "Zielort der historischen Selma-nach-Montgomery-Märsche für das Wahlrecht im Jahr 1965",
+        "Heimat der Maxwell Air Force Base, dem Bildungszentrum der US-Luftwaffe",
+        "Beherbergt das 2018 eröffnete National Memorial for Peace and Justice (Lynchmord-Mahnmal)",
+        "Die Dexter Avenue Baptist Church war die Wirkungsstätte von Martin Luther King Jr."
+      ]
+    },
+    {
+      "id": "annapolis-cities-v2",
+      "descriptionAdvanced": "Annapolis liegt pittoresk an der Mündung des Severn River in die Chesapeake Bay und fungiert als die Hauptstadt des Bundesstaates Maryland. 1649 von puritanischen Siedlern gegründet, war Annapolis 1783–1784 sogar kurzzeitig die Hauptstadt der frisch unabhängigen Vereinigten Staaten; hier trat George Washington als Oberbefehlshaber der Kontinentalarmee zurück. Die Stadt bewahrt ein fast vollständig intaktes historisches Zentrum aus dem 18. Jahrhundert mit Ziegelstraßen und kolonialen Herrenhäusern. Weltweite Berühmtheit genießt Annapolis jedoch als Sitz der United States Naval Academy (gegründet 1845), der Kaderschmiede für Offiziere der US-Marine und des Marine Corps. Das Wasser dominiert das städtische Leben, und Annapolis bezeichnet sich stolz als 'Segelhauptstadt der USA'. Geschichte K8 — Marineausbildung und koloniale Hauptstädte an der Chesapeake Bay.",
+      "factsAdvanced": [
+        "1649 gegründet und seit 1694 die offizielle Hauptstadt von Maryland",
+        "Diente von 1783 bis 1784 als temporäre Hauptstadt der gesamten Vereinigten Staaten",
+        "Sitz der United States Naval Academy, an der Offiziere der US Navy ausgebildet werden",
+        "Bezeichnet sich aufgrund der tief verwurzelten maritimen Kultur als 'Segelhauptstadt der USA'",
+        "Das Maryland State House ist das älteste noch legislativ genutzte Kapitol der USA",
+        "Besitzt die höchste Konzentration an Gebäuden aus dem 18. Jahrhundert im ganzen Land"
+      ]
+    },
+    {
+      "id": "albany-ny-cities-v2",
+      "descriptionAdvanced": "Albany, die Hauptstadt des Bundesstaates New York, liegt majestätisch am westlichen Ufer des Hudson River. Die Wurzeln der Stadt reichen bis ins Jahr 1614 zurück, als niederländische Pelzhändler Fort Nassau errichteten, was Albany zu einer der ältesten kontinuierlich bewohnten europäischen Siedlungen in den USA macht. Der absolute wirtschaftliche Durchbruch gelang 1825 mit der Eröffnung des Eriekanals, der genau hier in den schiffbaren Hudson River mündete. Dies machte Albany zum dominanten Logistik- und Holzzentrum des 19. Jahrhunderts. Heute wird das Stadtzentrum vom gigantischen, modernistischen Empire State Plaza dominiert, dem Sitz der mächtigen New Yorker Staatsregierung. Zudem hat sich die Region in jüngster Zeit als führendes Zentrum für Halbleiterforschung ('Tech Valley') etabliert. Geschichte K7 — Der Hudson River, Pelzhandel und die Bedeutung des Eriekanals.",
+      "factsAdvanced": [
+        "1614 als niederländischer Pelzhandelsposten gegründet, ist eine der ältesten US-Siedlungen",
+        "Seit 1797 die ständige Hauptstadt des einflussreichen Bundesstaates New York",
+        "Der Eriekanal (1825) endete hier, was die Stadt zum gigantischen Logistikknoten machte",
+        "Die Empire State Plaza ist ein massiver modernistischer Regierungskomplex (1960er Jahre)",
+        "Kern des 'Tech Valley', einem Forschungszentrum für Nanotechnologie und Mikrochips",
+        "Gelegen am schiffbaren Ende des Hudson River für Hochseeschiffe"
+      ]
+    },
+    {
+      "id": "harrisburg-cities-v2",
+      "descriptionAdvanced": "Harrisburg ist die Hauptstadt des US-Bundesstaates Pennsylvania, idyllisch gelegen am Ostufer des Susquehanna Rivers. Gegründet von John Harris Sr. im frühen 18. Jahrhundert als Handelsposten, wuchs die Stadt aufgrund ihrer strategischen Lage rasch zu einem massiven Knotenpunkt für Kanäle und Eisenbahnen, was die Industrialisierung (insbesondere die Stahlproduktion) der gesamten Region anfeuerte. Das Pennsylvania State Capitol besticht durch eine atemberaubende grüne Kuppel, die stark vom Petersdom in Rom inspiriert ist. Nur wenige Kilometer flussabwärts ereignete sich 1979 im Kernkraftwerk Three Mile Island der folgenschwerste Reaktorunfall in der Geschichte der US-Kernenergie, der weitreichende Auswirkungen auf die globale Energiepolitik hatte. Geschichte K8 — Industrielle Eisenbahnknoten und Kernenergie-Risiken.",
+      "factsAdvanced": [
+        "1719 als 'Harris' Ferry' gegründet und seit 1812 die Hauptstadt von Pennsylvania",
+        "Historisch ein massiver Knotenpunkt für Eisenbahnen (Pennsylvania Railroad) und Kanäle",
+        "Das State Capitol besitzt eine massive, 83 Meter hohe, vom Petersdom inspirierte Kuppel",
+        "Ort der Kernschmelze im Reaktor von Three Mile Island im Jahr 1979",
+        "Schauplatz schwerer Überflutungen durch den Susquehanna River in der Vergangenheit",
+        "Heimat des National Civil War Museum (Museum des Amerikanischen Bürgerkriegs)"
+      ]
+    },
+    {
+      "id": "trenton-cities-v2",
+      "descriptionAdvanced": "Trenton ist die Hauptstadt des Bundesstaates New Jersey und liegt am Delaware River. Im Amerikanischen Bürgerkrieg erlangte die Stadt 1776 legendären Status: Nach der riskanten Überquerung des eisigen Delaware Rivers an Weihnachten besiegten George Washingtons Truppen hier in der Schlacht von Trenton hessische Söldner – ein gigantischer moralischer Wendepunkt für die Revolution. Im 19. Jahrhundert wurde Trenton zu einem massiven, global operierenden Industriezentrum für Stahl, Drahtseile und Keramik, was sich im noch heute am Flussufer sichtbaren Slogan manifestiert: 'Trenton Makes, The World Takes'. Trotz Deindustrialisierung in der zweiten Hälfte des 20. Jahrhunderts fungiert die Stadt weiterhin als der entscheidende politische und verwaltungstechnische Kern von New Jersey. Geschichte K8 — Wendepunkte im Unabhängigkeitskrieg (Delaware-Überquerung).",
+      "factsAdvanced": [
+        "Schauplatz von George Washingtons erstem großen Sieg (Schlacht von Trenton, 1776)",
+        "War 1784 für kurze Zeit (zwei Monate) die Hauptstadt der gesamten Vereinigten Staaten",
+        "Seit 1790 die ständige Hauptstadt von New Jersey",
+        "Massives historisches Zentrum der Drahtseilproduktion (John A. Roebling, Erbauer der Brooklyn Bridge)",
+        "Der Slogan 'Trenton Makes, The World Takes' leuchtet seit 1935 über einer Brücke",
+        "Das New Jersey State House ist das einzige noch stehende, in dem ein US-Präsident ratifiziert wurde"
+      ]
+    }
+  ]
+}

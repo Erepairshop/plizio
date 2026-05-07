@@ -1,0 +1,295 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-lilliput-cities-v2",
+      "descriptionAdvanced": "Lilliput egy gyorsan növekvő közösség Saint James megyében, Montego Bay keleti peremén. A neve, amelyet Jonathan Swift 'Gulliver utazásai' című műve ihletett, ironikus kontrasztban áll a terület gyors fejlődésével. Eredetileg egy csendes vidéki terület volt, de az elmúlt évtizedekben a turizmus fejlődésével és a lakhatási igények növekedésével egy sűrűn lakott lakóövezetté vált. Számos nagy szálloda és üdülőhely található a közelben, amelyek munkát adnak a helyi lakosságnak. Lilliput jó példája a turizmus által generált szuburbanizációnak Jamaica északi partján. A közösség kihívásokkal küzd az infrastruktúra, például az utak és a vízellátás terén, hogy lépést tudjon tartani a népességnövekedéssel. Társadalomföldrajz K8 – A turizmus hatása a településszerkezetre.",
+      "factsAdvanced": [
+        "A közeli Rose Hall Great House a környék leghíresebb turisztikai látványossága.",
+        "A területen számos új lakópark épült az elmúlt években, hogy kielégítse a lakhatási igényeket.",
+        "A lakosság nagy része a közeli szállodákban és a turisztikai szolgáltatásokban dolgozik.",
+        "A 'Lilliput' név a 18. századi ültetvényesek irodalmi érdeklődésére utalhat.",
+        "A közösség aktív, és gyakran szerveznek sport- és kulturális eseményeket.",
+        "A forgalmas északi parti főút átszeli a területet, ami hozzájárul a további fejlődéshez.",
+        "A közeli 'Barrett Town' egy másik, hasonlóan fejlődő közösség.",
+        "A gyors és gyakran tervezetlen fejlődés komoly környezeti és társadalmi kihívásokat vet fel."
+      ]
+    },
+    {
+      "id": "jm-adelphi-cities-v2",
+      "descriptionAdvanced": "Adelphi egy kisváros Saint James megye hegyvidéki részén, Montego Baytől keletre. A város a 19. században egy virágzó cukorültetvény, a 'Hampden Estate' központja volt. A neve görögül 'testvéreket' jelent, ami utalhat az alapító testvérekre. A város a rabszolgaság eltörlése után is fontos mezőgazdasági központ maradt. Ma Adelphi egy csendes vidéki város, amely a környező gazdálkodó közösségeket szolgálja ki. A közeli Hampden Estate ma is működik, és híres a nehéz, aromás rumjairól, amelyeket a világ minden tájára exportálnak. A város betekintést nyújt a jamaicai cukor- és rumgyártás történelmébe. Ipartörténet K8 – Rumgyártás és örökség.",
+      "factsAdvanced": [
+        "A Hampden Estate rumlepárló az egyik legrégebbi Jamaicában, a 18. század óta működik.",
+        "A lepárló a mai napig a hagyományos 'pot still' eljárást használja.",
+        "Adelphi-ban található egy 19. századi baptista templom, amely fontos szerepet játszott a felszabadított rabszolgák oktatásában.",
+        "A város egykor vasúti összeköttetéssel is rendelkezett a cukornád szállítása érdekében.",
+        "A helyi gazdaság ma is a cukornádtermesztésre és a kapcsolódó tevékenységekre épül.",
+        "Az Adelphi-i általános iskola a környék oktatási központja.",
+        "A város a Great River folyó völgyének közelében fekszik.",
+        "A 'Goodin's River' egy népszerű helyi fürdőzőhely a közelben."
+      ]
+    },
+    {
+      "id": "jm-maggotty-cities-v2",
+      "descriptionAdvanced": "Maggotty egy kisváros St. Elizabeth megye északi részén, a Black River folyó partján. A város leginkább a közeli vízerőművéről ismert, amely Jamaica egyik első elektromos áramforrása volt. A Maggotty-i vízerőmű a Black River erejét használja fel az elektromos energia termelésére. A város a Kingston-Montego Bay vasútvonal egyik állomása volt, ami hozzájárult a kereskedelemhez. A név, bár nem túl vonzó, valószínűleg egy afrikai vagy taino szó eltorzult formája. A környék mezőgazdasági jellegű, főként cukornádat és citrusféléket termesztenek. A közeli Apple Valley Park egy népszerű pihenőhely a folyó partján. Technikatörténet K8 – Vízerőművek.",
+      "factsAdvanced": [
+        "A vízerőművet az 1950-es években építették, és ma is működik.",
+        "A közeli Appleton Estate rumlepárló a környék legnagyobb munkáltatója.",
+        "A Black River itt még keskenyebb és gyorsabb folyású, mint az alsó szakaszán.",
+        "A város a Cockpit Country peremén fekszik.",
+        "A vasútállomás épülete ma is látható, emlékeztetve a vasút aranykorára.",
+        "A 'Maggotty' név eredete vitatott, de valószínűleg nincs köze a 'kukac' szóhoz.",
+        "A városban egy középiskola és egy egészségügyi központ is működik.",
+        "A helyi gazdaság szorosan kötődik a közeli nagyvállalatokhoz, mint az Appleton és a JPS (áramszolgáltató)."
+      ]
+    },
+    {
+      "id": "jm-nain-cities-v2",
+      "descriptionAdvanced": "Nain egy település St. Elizabeth megye déli részén, amely szinonimájává vált a jamaicai bauxitiparnak. Itt található a Jamalco (Jamaica Alumina Company) hatalmas timföldfinomítója, amely a régió gazdaságának és társadalmának központi eleme. A gyárat az 1950-es években építették, és a környező területeken kiterjedt bauxitbányászat folyik. A bányászat és a finomítás jelentős gazdasági hasznot hozott, de komoly környezeti kihívásokat is teremtett, mint például a vörösiszap-tározók és a levegőszennyezés. A település élete a gyár köré szerveződik, a legtöbb lakos a bauxitiparban dolgozik. Iparföldrajz K8 – Bányászat és környezeti hatásai.",
+      "factsAdvanced": [
+        "A Jamalco egy vegyesvállalat a jamaicai kormány és a Noble Group között.",
+        "A bauxitot a közeli hegyekből külszíni fejtéssel termelik ki.",
+        "A timföldet vasúton szállítják a Rocky Point-i kikötőbe exportra.",
+        "A vörösiszap, a timföldgyártás lúgos mellékterméke, tárolása komoly környezeti kockázatot jelent.",
+        "A gyárnak saját erőműve van, hogy biztosítsa az energiaellátását.",
+        "A 'Nain' név bibliai eredetű, egy galileai városra utal.",
+        "A közösségben a cég támogatásával iskolák és sportlétesítmények épültek.",
+        "A bauxitipar jövője és a környezetvédelem közötti egyensúly a régió legfontosabb kérdése."
+      ]
+    },
+    {
+      "id": "jm-new-market-cities-v2",
+      "descriptionAdvanced": "New Market egy forgalmas mezőváros St. Elizabeth megyében, a Westmoreland és a Saint James megyékkel közös határon. Ahogy a neve is sugallja, a város egy fontos piaci központ, amely a környező, hegyvidéki gazdálkodó közösségeket szolgálja ki. A New Market-i piac különösen a 'ground provisions' (gyökérzöldségek), a zöldségek és a gyümölcsök széles választékáról ismert. A város egy völgyben fekszik, és a környező területek gyakran ki vannak téve a földcsuszamlásoknak, különösen a heves esőzések idején. A 20. század végén egy hatalmas földcsuszamlás ideiglenesen egy tavat hozott létre, elárasztva a város egy részét. Természetföldrajz K7 – Természeti katasztrófák és települések.",
+      "factsAdvanced": [
+        "A város a 'Parish Cockpit' nevű karsztos területen fekszik.",
+        "A 'New Market Lake' vagy 'Big Pond' néven ismert ideiglenes tó a 1979-es áradások után keletkezett.",
+        "A város a Carmel baptista misszió egyik korai központja volt a 19. században.",
+        "A helyi gazdaság szinte teljes mértékben a mezőgazdaságra épül.",
+        "A város fontos közlekedési csomópont a megye északi és déli részei között.",
+        "A Lewisville High School a város fontos oktatási intézménye.",
+        "A közösségnek folyamatosan meg kell küzdenie az infrastrukturális kihívásokkal, amelyeket a geológiai instabilitás okoz.",
+        "A piacnapokon a város megtelik élettel, a környező falvakból érkező gazdákkal és vásárlókkal."
+      ]
+    },
+    {
+      "id": "jm-southfield-cities-v2",
+      "descriptionAdvanced": "Southfield egy kiterjedt mezőgazdasági közösség St. Elizabeth megye déli, hegyvidéki részén. A terület Jamaica 'éléskamrájának' egyik legfontosabb része, híres a magas minőségű zöldségek, fűszerek és gyökérfélék termesztéséről. A vörös, bauxitban gazdag talaj és a hűvösebb, szeles éghajlat ideális feltételeket teremt a gazdálkodáshoz. A gazdák itt különösen büszkék a hagymájukra, a paradicsomukra, a sárgarépájukra és a 'scotch bonnet' paprikájukra. A területet a fenntartható gazdálkodási gyakorlatok és az erős közösségi szellem jellemzi. A közeli 'Lovers' Leap' drámai sziklái lenyűgöző hátteret biztosítanak a termékeny tájnak. Agrárföldrajz K8 – Talajtípusok és növénytermesztés.",
+      "factsAdvanced": [
+        "A Southfield-i gazdák termékei az egész szigeten keresettek.",
+        "A 'Top Hill' és a 'Pedro Plains' a környék további fontos gazdálkodó közösségei.",
+        "A csepegtető öntözés és más víztakarékos technikák elterjedtek a szárazabb időszakok átvészelésére.",
+        "A bauxitbányászat itt is jelen van, ami konfliktusokhoz vezet a mezőgazdasági területek használata miatt.",
+        "A Munro College, Jamaica egyik legnevesebb fiúiskolája, a közeli Malvernben található.",
+        "A 'Potsdam' nevű terület a német telepesek örökségére utal.",
+        "A helyi gazdák gyakran szövetkezetekbe tömörülnek, hogy javítsák piaci pozícióikat.",
+        "A Southfield-i kilátópontokról lenyűgöző panoráma nyílik a tengerpartra."
+      ]
+    },
+    {
+      "id": "jm-treasure-beach-cities-v2",
+      "descriptionAdvanced": "Treasure Beach nem egyetlen város, hanem egy laza szövetségű, több öbölből (Billy's Bay, Frenchman's Bay, Calabash Bay, Great Bay) álló halász- és gazdálkodó közösség St. Elizabeth száraz, déli partján. Ellentétben az északi part all-inclusive üdülőhelyeivel, Treasure Beach a közösségi alapú, fenntartható turizmus modelljét követi. A látogatók kis, családi tulajdonban lévő vendégházakban és villákban szállnak meg, és közvetlen kapcsolatba kerülnek a helyi kultúrával. A táj drámai, sivatagi jellegű, sötét homokos strandokkal és sziklás partokkal. A közösség híres irodalmi fesztiváljáról, a Calabash-ról, és a sport, különösen a krikett iránti szenvedélyéről. Turizmusföldrajz K8 – Alternatív turizmus.",
+      "factsAdvanced": [
+        "A Calabash International Literary Festival a Karib-térség legjelentősebb irodalmi eseménye.",
+        "A Breds Foundation egy helyi non-profit szervezet, amely a közösség fejlesztésén dolgozik sporton és oktatáson keresztül.",
+        "A halászat és a mezőgazdaság továbbra is a gazdaság fontos része a turizmus mellett.",
+        "A közeli 'Lovers' Leap' egy 520 méter magas szikla, amely egy tragikus szerelmi történetről kapta a nevét.",
+        "A Treasure Beach-i nők pelikán asszonyoknak (Pelican Women) nevezik magukat, ami a közösség erős női szerepére utal.",
+        "A terület a teknősvédelmi programjairól is ismert.",
+        "A 'Jakes Hotel' a közösségi turizmus egyik úttörője és legismertebb szálláshelye.",
+        "A táj egyedülálló, száraz éghajlata miatt a 'sivatag a tengerparton' néven is ismert."
+      ]
+    },
+    {
+      "id": "jm-kellits-cities-v2",
+      "descriptionAdvanced": "Kellits egy elszigetelt, hegyvidéki mezőgazdasági közösség Clarendon megye északi részén. A falu egy mély völgyben fekszik, amelyet magas hegyek vesznek körül, ami festői, de nehezen megközelíthető elhelyezkedést biztosít. A gazdaság szinte kizárólag a mezőgazdaságra épül, különösen a banán, a kávé és a gyökérzöldségek termesztésére. A Kellits-völgy rendkívül termékeny, de a piacoktól való távolság és a rossz utak komoly kihívást jelentenek a gazdák számára. A közösség erős és összetartó, az élet a hagyományos vidéki értékek köré szerveződik. A Kellits-i középiskola a régió fontos oktatási központja. Vidékföldrajz K7 – Elszigetelt települések gazdasága.",
+      "factsAdvanced": [
+        "A falu a Bull Head-hegység, Jamaica földrajzi középpontjának közelében fekszik.",
+        "A Pindar's folyó folyik keresztül a völgyön.",
+        "A terület a rabszolgaság eltörlése után felszabadítottak által alapított 'szabad falvak' egyike volt.",
+        "A 'Kellits' név valószínűleg egy skót vagy ír telepes nevéből ered.",
+        "A közösségnek saját, egyedi dialektusa és kulturális hagyományai vannak.",
+        "A heves esőzések gyakran okoznak földcsuszamlásokat és áradásokat, elzárva a falut a külvilágtól.",
+        "A gazdálkodás nagyrészt kézi erővel, a meredek hegyoldalakon történik.",
+        "A Kellits-i közösség a kitartás és az önellátás szimbóluma."
+      ]
+    },
+    {
+      "id": "jm-hayes-cities-v2",
+      "descriptionAdvanced": "Hayes egy kisváros Clarendon megye déli, iparosodott síkságain. A város a közeli Jamalco timföldfinomító és a Rocky Point-i kikötő vonzáskörzetében fekszik, és sok lakosa ezekben az ipari létesítményekben dolgozik. A város a Rio Minho folyó közelében található, és a környező területek a cukornádtermesztésről és a szarvasmarha-tenyésztésről ismertek. Hayes egy tipikus iparvidéki település, ahol a mezőgazdaság és az ipar egymás mellett él. A városban működik a Vere Technical High School, amely híres atlétikai programjáról és számos olimpiai és világbajnok sprintert nevelt ki. Sporttörténet K8 – Atlétikai központok.",
+      "factsAdvanced": [
+        "A Vere Technical High School olyan hírességeket adott a világnak, mint Merlene Ottey és Veronica Campbell-Brown.",
+        "A 'Hayes' név valószínűleg egy angol birtokos család nevéből ered.",
+        "A közeli 'Carlisle Bay' egykor a régió fő kikötője volt.",
+        "A bauxitipar és a cukoripar a helyi gazdaság két legfontosabb pillére.",
+        "A városban egy rendőrőrs és egy egészségügyi központ is működik.",
+        "A terület sík és alacsonyan fekszik, ami sebezhetővé teszi az áradásokkal szemben.",
+        "A lakosság a munkahelyek miatt gyakran ingázik a közeli ipari központokba.",
+        "A Hayes-i kukoricaföldekről a város szintén ismert."
+      ]
+    },
+    {
+      "id": "jm-race-course-cities-v2",
+      "descriptionAdvanced": "Race Course egy közösség Clarendon megye déli síkságain, a főút mentén, May Pen és Toll Gate között. A neve arra utal, hogy a 19. században és a 20. század elején a területen egy lóversenypálya működött, amely a környező ültetvényesek és a brit katonák kedvelt szórakozóhelye volt. Ma már a versenypályának nincsenek látható nyomai, és a település egy csendes lakó- és mezőgazdasági közösséggé vált. A gazdaság a cukornádtermesztésre és a közeli ipari létesítményekben, például a bauxitiparban való munkavállalásra épül. A közösség jó közlekedési kapcsolatokkal rendelkezik a megyeszékhellyel, May Pen-nel. Helytörténet K7 – Eltűnt funkciójú településnevek.",
+      "factsAdvanced": [
+        "A lóversenyzés a gyarmati Jamaica fontos társadalmi eseménye volt.",
+        "A közeli 'Toll Gate' (Vámkapu) település neve szintén a múlt közlekedési rendszerére utal.",
+        "A terület a Vere síkság része, amely Jamaica egyik legfontosabb mezőgazdasági területe.",
+        "A közösségben egy általános iskola és több templom is található.",
+        "A lakosság nagy része a közeli May Pen-be vagy a déli parti ipari övezetbe ingázik.",
+        "A 'Race Course' név ma már csak a történelmi múltra emlékeztet.",
+        "A közeli Monymusk cukorgyár a régió legnagyobb munkáltatója.",
+        "A terület sík és ideális a nagytáblás mezőgazdasági termeléshez."
+      ]
+    },
+    {
+      "id": "jm-toll-gate-cities-v2",
+      "descriptionAdvanced": "Toll Gate egy kis közösség Clarendon megyében, a Kingston és Mandeville közötti forgalmas főút mentén. A neve egyértelműen a 19. századi úthasználati díj fizetőkapukra utal, amelyek a sziget fő útvonalain működtek a karbantartási költségek fedezésére. Egy ilyen kapu állt itt, amely a Vere síkságon átvezető fontos utat ellenőrizte. Ma Toll Gate egy átutazó település, amelyet üzletek, éttermek és bárok szegélyeznek, kiszolgálva a forgalmas főút utasait. A település a környező mezőgazdasági területek, különösen a cukornád- és a citrusültetvények központja is. A közeli Clarendon Park egy történelmi birtok és pihenőhely. Közlekedéstörténet K7 – Útdíjak és közlekedési infrastruktúra.",
+      "factsAdvanced": [
+        "A 'Turnpike' úthálózatot a 18. és 19. században építették ki Angliában és a gyarmatokon.",
+        "A vámkapuk a közlekedés modernizálásának korai formái voltak.",
+        "A Toll Gate-i rendőrőrs a főút biztonságáért felel.",
+        "A közeli St. Toolies település a bauxitbányászat egyik központja.",
+        "A Clarendon Park egykor egy nagy szarvasmarha-farm volt, ma pedig népszerű megállóhely az utazók számára.",
+        "A település a sík Vere síkság és a manchesteri hegyek lábának találkozásánál fekszik.",
+        "A helyi gazdaság erősen függ az átmenő forgalomtól.",
+        "A név egy letűnt kor emlékét őrzi a modern autópályák világában."
+      ]
+    },
+    {
+      "id": "jm-newport-cities-v2",
+      "descriptionAdvanced": "Newport egy hegyvidéki közösség Manchester megyében, Mandeville-től délre. A terület a hűvös éghajlatáról, a termékeny vörös talajáról és a virágzó mezőgazdaságáról ismert. Newport a jamaicai 'ír burgonya' termesztésének egyik központja, de emellett sárgarépát, hagymát és más zöldségeket is nagy mennyiségben termesztenek. A bauxitbányászat szintén jelentős gazdasági tevékenység a környéken, ami gyakran konfliktusba kerül a mezőgazdasági érdekekkel. A Newport-i közösség erős gazdálkodó hagyományokkal rendelkezik, és a helyi gazdák termékei országszerte ismertek. A Northern Caribbean University (NCU) közelsége miatt a terület oktatási és diákélettel is pezseg. Agrárföldrajz K8 – Mezőgazdaság és bányászat konfliktusa.",
+      "factsAdvanced": [
+        "A vörös talaj a magas bauxittartalom következménye.",
+        "A Northern Caribbean University egy adventista magánegyetem, amely fontos szerepet játszik a régió életében.",
+        "A bányászat utáni tájrehabilitáció fontos környezetvédelmi kérdés a területen.",
+        "A 'Newport' név valószínűleg angol vagy walesi eredetű.",
+        "A közeli 'Spur Tree Hill' egy meredek és kanyargós útszakasz, amely a déli partra vezet.",
+        "A közösségben több nagy, modern farm is működik, amelyek a legújabb technológiákat alkalmazzák.",
+        "A helyi gazdák termékeit a nagy szupermarket-láncok is felvásárolják.",
+        "A hűvös éghajlat miatt a terület népszerű a nyugdíjasok körében is."
+      ]
+    },
+    {
+      "id": "jm-mile-gully-cities-v2",
+      "descriptionAdvanced": "Mile Gully egy mezőgazdasági közösség Manchester megye északi részén. A neve egy mérföld hosszú völgyre vagy szakadékra utal, amely a település jellegzetessége. A terület a szarvasmarha-tenyésztésről és a tejtermelésről ismert, valamint a citrusfélék és a gyökérzöldségek termesztéséről. A tájat lankás dombok, legelők és kisebb farmok tarkítják. Mile Gully egy csendes, vidéki közösség, amely megőrizte a hagyományos jamaicai életformát. A közeli bauxitbányászat hatással van a helyi gazdaságra és a környezetre. A Mile Gully-i középiskola a környékbeli fiatalok fontos oktatási intézménye. Vidékföldrajz K7 – Dombsági gazdálkodás.",
+      "factsAdvanced": [
+        "A 'gully' egy jamaicai angol kifejezés a völgyre vagy vízmosásra.",
+        "A közösség a Mandeville és a déli part közötti alternatív útvonal mentén fekszik.",
+        "A szarvasmarha-tenyésztés a brit telepesek öröksége.",
+        "A közösségben egy egészségügyi központ és egy rendőrőrs is működik.",
+        "A bauxitipar munkahelyeket teremt, de a földhasználat miatt konfliktusokat is okoz.",
+        "A helyi gazdálkodás nagymértékben függ az esőzésektől.",
+        "A közösségi élet a templomok és a helyi sportesemények köré szerveződik.",
+        "A terület a 'Jamaica Hope' szarvasmarhafajta tenyésztésének egyik központja."
+      ]
+    },
+    {
+      "id": "jm-bluefields-cities-v2",
+      "descriptionAdvanced": "Bluefields egy történelmi tengerparti falu Westmoreland megyében, a déli parton. Ez az egyik legkorábbi európai település helyszíne Jamaicában, ahol a spanyolok az 1500-as években kikötőt létesítettek. A 17. században a híres kalóz, Henry Morgan egyik kedvelt búvóhelye volt. Ma Bluefields egy csendes üdülőhely, amely a gyönyörű Bluefields-öbölről és a Bluefields Beach Parkról ismert. A falu megőrizte nyugodt, autentikus hangulatát, és népszerű a turisták körében, akik elkerülik a nagy, zsúfolt üdülőhelyeket. A közeli Bluefields-hegység drámai hátteret biztosít a tengerpartnak. A Bluefields Bay Villák exkluzív szálláshelyeket kínálnak a környéken. Történelem K6 – Kalózok és korai települések.",
+      "factsAdvanced": [
+        "A spanyolok 'Oristan' néven ismerték a települést.",
+        "A Bluefields Beach Park egy népszerű nyilvános strand játszótérrel és piknikező helyekkel.",
+        "A falu a 'community tourism' (közösségi turizmus) egyik jó példája.",
+        "A tengerfenék a búvárok és a sznorkelezők kedvelt célpontja.",
+        "A Belmont folyó itt ömlik a tengerbe, ahol a híres Peter Tosh emlékmű található.",
+        "A közeli 'Paradise Park' egy működő farm és ökoturisztikai látványosság.",
+        "A helyi gazdaság a turizmusra, a halászatra és a mezőgazdaságra épül.",
+        "A 18. században a területen több cukorültetvény is működött."
+      ]
+    },
+    {
+      "id": "jm-white-house-cities-v2",
+      "descriptionAdvanced": "White House egy gyorsan fejlődő halászfalu és üdülőhely Westmoreland déli partján. A falu a nevét egy fehérre meszelt épületről kapta, amely egykor tájékozódási pontként szolgált a halászok számára. Hagyományosan egy csendes halászfalu volt, de az elmúlt években a turizmus fejlődésével egyre népszerűbbé vált. Itt található a Sandals South Coast (korábban Sandals Whitehouse) luxusüdülőhely, amely jelentősen megváltoztatta a falu gazdaságát és arculatát. A helyi halászok továbbra is a tengerből élnek, és a falu híres a friss tenger gyümölcseiről. White House jó példája a modern turizmus és a hagyományos életmód egymás mellett élésének. Turizmusföldrajz K8 – A turizmusfejlesztés hatásai.",
+      "factsAdvanced": [
+        "A Sandals South Coast üdülőhelyet 2005-ben nyitották meg.",
+        "Az üdülőhely egy 500 hektáros természetvédelmi területen fekszik.",
+        "A helyi halászok a 'King Fish' (királymakréla) fogásáról híresek.",
+        "A falu a Kincardine-öbölben fekszik, amely egy nyugodt, védett partszakasz.",
+        "A turizmus munkahelyeket teremtett, de a földárak emelkedéséhez és környezeti aggályokhoz is vezetett.",
+        "A White House-i piac a helyi termékek és a friss hal fontos értékesítési helye.",
+        "A közeli Scott's Cove egy népszerű megállóhely, ahol a helyiek sült halat és 'bammy'-t (kasszáva lepény) árulnak.",
+        "A falu a Bluefields és a Black River városok között helyezkedik el."
+      ]
+    },
+    {
+      "id": "jm-malvern-cities-v2",
+      "descriptionAdvanced": "Malvern egy kis, hegyvidéki település a Santa Cruz-hegységben, St. Elizabeth megyében, körülbelül 700 méteres tengerszint feletti magasságban. Híres a hűvös, frissítő éghajlatáról és a tiszta levegőjéről, ami miatt a 19. század óta népszerű egészségügyi üdülőhely. A település az oktatás egyik központja is, itt található a Munro College, Jamaica egyik legrégebbi és legtekintélyesebb fiúiskolája, valamint a Hampton School, egy neves lányiskola. A magaslati fekvés miatt Malvern lenyűgöző panorámát kínál a sziget déli partvidékére. A terület a mezőgazdaságról is ismert, különösen a zöldségtermesztésről. Oktatástörténet K8 – Bentlakásos iskolák.",
+      "factsAdvanced": [
+        "A Munro College-ot 1856-ban alapították.",
+        "A Hampton School for Girls 1858-ban jött létre.",
+        "A 'Malvern' név az angliai Malvern Hills-re utal, amely szintén egy hegyvidéki üdülőhely.",
+        "A területen egykor egy nagy meteorológiai obszervatórium is működött.",
+        "A Bethlehem Moravian College, egy tanárképző főiskola, szintén a közelben található.",
+        "A hűvös éghajlat vonzza a nyugdíjasokat és azokat, akik a part menti hőség elől menekülnek.",
+        "A Malvern-i kórház a környék egészségügyi ellátásának fontos része.",
+        "A település a 'Lovers' Leap' kilátóponthoz vezető út mentén fekszik."
+      ]
+    },
+    {
+      "id": "jm-top-hill-cities-v2",
+      "descriptionAdvanced": "Top Hill egy mezőgazdasági közösség St. Elizabeth megye hegyvidéki részén, a Santa Cruz-hegységben. Ahogy a neve is mutatja, a település a régió egyik magasabban fekvő pontján található. Ez a terület Jamaica 'éléskamrájának' része, és a gazdák itt kiváló minőségű zöldségeket, fűszereket és gyökérzöldségeket termesztenek. A vörös, bauxitban gazdag talaj és a mérsékelt éghajlat kedvez a gazdálkodásnak. A Top Hill-i gazdák különösen a hagymájukról, a paradicsomukról és a 'scotch bonnet' paprikájukról híresek. A közösség szorosan kötődik a földhöz, és a gazdálkodási hagyományok generációról generációra szállnak. Agrárföldrajz K7 – Hegyvidéki zöldségtermesztés.",
+      "factsAdvanced": [
+        "A Top Hill a Southfield-i mezőgazdasági övezet része.",
+        "A közeli bauxitbányászat folyamatos feszültséget okoz a mezőgazdasági földhasználat miatt.",
+        "A gazdálkodás nagyrészt kis, családi farmokon történik.",
+        "A helyi termékeket a Junction-i és a Santa Cruz-i piacokon értékesítik.",
+        "A közösségben több általános iskola és templom is működik.",
+        "A vízellátás gyakran kihívást jelent, a gazdák esővízgyűjtő tartályokat használnak.",
+        "A 'Top Hill' név a terület magaslati elhelyezkedésére utal.",
+        "A közösség a kitartásáról és a kemény munkájáról ismert."
+      ]
+    },
+    {
+      "id": "jm-pope-hill-cities-v2",
+      "descriptionAdvanced": "Pope Hill egy hegyvidéki közösség Manchester megyében. Nevét valószínűleg egy helyi birtokosról, a Pope családról kapta. A terület a szarvasmarha-tenyésztésről és a tejtermelésről ismert, valamint a citrusfélék és a gyökérzöldségek termesztéséről. A tájat lankás dombok, legelők és kisebb farmok tarkítják. Pope Hill egy csendes, vidéki közösség, amely megőrizte a hagyományos jamaicai életformát. A közeli bauxitbányászat hatással van a helyi gazdaságra és a környezetre. A közösség a Mandeville és a déli part közötti útvonal közelében fekszik. Vidékföldrajz K7 – Dombsági gazdálkodás.",
+      "factsAdvanced": [
+        "A 'gully' egy jamaicai angol kifejezés a völgyre vagy vízmosásra.",
+        "A közösség a Mandeville és a déli part közötti alternatív útvonal mentén fekszik.",
+        "A szarvasmarha-tenyésztés a brit telepesek öröksége.",
+        "A közösségben egy egészségügyi központ és egy rendőrőrs is működik.",
+        "A bauxitipar munkahelyeket teremt, de a földhasználat miatt konfliktusokat is okoz.",
+        "A helyi gazdálkodás nagymértékben függ az esőzésektől.",
+        "A közösségi élet a templomok és a helyi sportesemények köré szerveződik.",
+        "A terület a 'Jamaica Hope' szarvasmarhafajta tenyésztésének egyik központja."
+      ]
+    },
+    {
+      "id": "jm-alexandria-cities-v2",
+      "descriptionAdvanced": "Alexandria egy hegyvidéki város Saint Ann megye szívében, a sziget egyik legzöldebb és legtermékenyebb részén. A város a környező gazdálkodó közösségek fontos kereskedelmi és társadalmi központja. A terület híres a pimento (szegfűbors), a banán, a kávé és a gyökérzöldségek termesztéséről. Alexandria a nevét valószínűleg egy skót telepesről vagy helységről kapta. A városban található a St. D'Acre-i baptista templom, amely a 19. században a rabszolgák felszabadítása utáni oktatás egyik központja volt. A közeli hegyek és völgyek, mint például a 'Golden Vale', festői tájat alkotnak. A város megőrizte nyugodt, vidéki hangulatát. Helytörténet K7 – Misszionáriusok és oktatás.",
+      "factsAdvanced": [
+        "Az Alexandria-i kórház a régió fontos egészségügyi intézménye.",
+        "A közeli 'Stepney' a nemzeti hős, Marcus Garvey anyjának szülőfaluja.",
+        "A területen számos barlang és karsztforrás található.",
+        "A város ad otthont az Aabuthnott Gallimore High Schoolnak.",
+        "A helyi gazdaság szinte teljes egészében a mezőgazdaságra épül.",
+        "A 'Breadnut Valley' a kenyérfa gyümölcséről kapta a nevét, amely fontos helyi élelmiszer.",
+        "A város a megye belsejében, a parttól távol helyezkedik el.",
+        "A közösségi élet a piac, a templomok és az iskolák köré szerveződik."
+      ]
+    },
+    {
+      "id": "jm-cave-valley-cities-v2",
+      "descriptionAdvanced": "Cave Valley egy mezőgazdasági közösség Saint Ann megye északi részén, amely a nevét a környéken található számos barlangról és a völgyben való elhelyezkedéséről kapta. A terület a Cockpit Country karsztvidékének része, amelyet lyukacsos mészkő, földalatti folyók és barlangrendszerek jellemeznek. A Cave River (Barlang-folyó) itt bukik a föld alá, majd több kilométerrel arrébb újra a felszínre tör. A völgy termékeny talaja ideális a cukornád és más növények termesztéséhez. A közeli 'Cave Valley' cukorgyár egykor a helyi gazdaság központja volt. A közösség élete szorosan kötődik a földhöz és a vízhez. Természetföldrajz K8 – Karsztjelenségek.",
+      "factsAdvanced": [
+        "A Cave Valley barlangrendszer Jamaica egyik legnagyobbja.",
+        "A folyó eltűnése és újbóli felbukkanása a karsztosodás klasszikus példája.",
+        "A 'Hectors River' a Cave River egyik mellékfolyója, amely szintén a föld alá bukik.",
+        "A terület a taino indiánok számára is fontos szertartási hely lehetett.",
+        "A cukornádtermesztés évszázadok óta a fő gazdasági tevékenység.",
+        "A barlangok denevérpopulációinak otthont adnak, amelyek fontos szerepet játszanak a beporzásban.",
+        "A helyiek jól ismerik a barlangokat, de a turisták számára a felfedezésük veszélyes lehet.",
+        "A közösség a fenntartható gazdálkodás és az ökoturizmus lehetőségeit kutatja."
+      ]
+    }
+  ]
+}

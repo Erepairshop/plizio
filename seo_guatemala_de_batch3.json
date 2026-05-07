@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "guatemala",
+  "files": [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gt-santiago-sacatepequez-cities-v2",
+      "descriptionAdvanced": "Santiago Sacatepéquez, gelegen im kühlen Hochland nahe Guatemala-Stadt, ist weltberühmt für eines der farbenprächtigsten Feste des Landes. Jedes Jahr am 1. November (Allerheiligen) versammeln sich hier Tausende von Menschen auf dem örtlichen Friedhof, um das Festival der riesigen Drachen ('Barriletes Gigantes') zu feiern. Diese aus Papier und Bambus gebauten Meisterwerke messen oft über zehn Meter im Durchmesser und dienen der indigenen Kaqchikel-Bevölkerung traditionell dazu, mit den Geistern ihrer Vorfahren zu kommunizieren. Abseits dieses Spektakels ist die Stadt eine hart arbeitende landwirtschaftliche Gemeinde, die den fruchtbaren vulkanischen Boden intensiv für den Anbau von Gemüse und Blumen nutzt. Der traditionelle Markt am Hauptplatz bietet einen tiefen Einblick in den Alltag dieser eng verbundenen indigenen Gemeinschaft. Kunst K8 — Indigene Feste und Traditionen.",
+      "factsAdvanced": [
+        "Die Stadt ist weltbekannt für das Festival der 'Barriletes Gigantes' am 1. November.",
+        "Santiago Sacatepéquez liegt auf einer Höhe von über 2.000 Metern.",
+        "Die riesigen Papierdrachen dienen der Kommunikation mit den Ahnen.",
+        "Die Einwohner gehören fast ausschließlich der ethnischen Gruppe der Kaqchikel an.",
+        "Die Wirtschaft basiert größtenteils auf dem intensiven Gemüse- und Blumenanbau.",
+        "Die Architektur des Ortes ist eine Mischung aus einfachen Adobe-Häusern und Betonbauten."
+      ]
+    },
+    {
+      "id": "gt-sumpango-cities-v2",
+      "descriptionAdvanced": "Sumpango, eine Nachbarstadt von Santiago Sacatepéquez im Departamento Chimaltenango, teilt mit dieser die faszinierende Tradition der Riesen-Drachen ('Barriletes Gigantes'). Auch hier findet am 1. November ein massives Festival statt, bei dem monatelang in Handarbeit erstellte Papierdrachen in den Himmel aufsteigen. In den letzten Jahren hat das Fest in Sumpango sogar noch mehr internationale Aufmerksamkeit erlangt als in Nachbarorten. Die Motive der Drachen sind oft politisch, sozial oder spirituell aufgeladen und spiegeln die aktuellen Sorgen und den Stolz der Kaqchikel-Maya wider. Wirtschaftlich ist die stark wachsende Gemeinde von Textilwerkstätten, Kunsthandwerk und dem Anbau von Mais und Bohnen geprägt. Die Lage direkt an der Interamericana (CA-1) macht die Stadt sehr gut zugänglich. Kunst K8 — Soziale Kunst und Kultur.",
+      "factsAdvanced": [
+        "Sumpango beherbergt eines der größten Drachenfestivals in ganz Lateinamerika.",
+        "Die Herstellung der Drachen dauert oft mehrere Monate und erfordert ganze Teams.",
+        "Die Stadt liegt an der viel befahrenen Autobahn CA-1 auf rund 1.900 Metern Höhe.",
+        "Der Name Sumpango stammt aus dem Nahuatl und bedeutet 'Ort der Schädel'.",
+        "Die Drachenmotive thematisieren oft Umweltschutz, Frauenrechte und Maya-Identität.",
+        "Landwirtschaft und der Verkauf von Textilien bilden das wirtschaftliche Rückgrat."
+      ]
+    },
+    {
+      "id": "gt-el-progreso-cities-v2",
+      "descriptionAdvanced": "Die Stadt Guastatoya, oft einfach El Progreso genannt, ist die kleine und sehr heiße Hauptstadt des Departamentos El Progreso. Sie liegt im tiefen, semiariden Tal des Motagua-Flusses, dem sogenannten Trockenkorridor Guatemalas. Das Klima hier ist extrem warm und trocken, weshalb Kakteen und dorniges Gestrüpp das Landschaftsbild bestimmen. Bemerkenswert ist, dass die Stadt in den letzten Jahren enorm in öffentliche Infrastruktur investiert hat; der große städtische Wasserpark ('Parque Acuático Guastatoya') zieht am Wochenende Tausende von Besuchern aus dem ganzen Osten an, die Abkühlung suchen. Kulturell dominiert hier die Ladino-Kultur, und indigene Einflüsse sind fast nicht vorhanden. Die Menschen leben vom Handel entlang der wichtigen Atlantik-Autobahn und dem Anbau trockenheitsresistenter Früchte. Geografie K7 — Der Trockenkorridor.",
+      "factsAdvanced": [
+        "Guastatoya (El Progreso) liegt im Herzen des heißen guatemaltekischen Trockenkorridors.",
+        "Die Stadt verzeichnet einige der höchsten Durchschnittstemperaturen des Landes.",
+        "Der städtische Wasserpark ist eine der größten Attraktionen der gesamten Region.",
+        "Die Bevölkerung besteht fast ausschließlich aus Mestizen (Ladinos).",
+        "Das Departamento El Progreso wurde im Jahr 1908 offiziell gegründet.",
+        "Die Stadt profitiert wirtschaftlich stark vom enormen Lkw-Verkehr zum Atlantik."
+      ]
+    },
+    {
+      "id": "gt-san-agustin-ac-cities-v2",
+      "descriptionAdvanced": "San Agustín Acasaguastlán ist eine historische, kleine Gemeinde im Departamento El Progreso. Sie liegt im Tal des Motagua-Flusses und teilt das typisch heiße und trockene Klima dieser Region. Der unbestrittene Stolz der Stadt ist die wunderschöne, weiß getünchte Kolonialkirche, die im 16. Jahrhundert erbaut wurde. Sie gilt als eines der architektonischen Juwelen des guatemaltekischen Ostens und überstand im Gegensatz zu vielen anderen Kirchen die zahlreichen Erdbeben der Region relativ gut. In archäologischer Hinsicht ist die Umgebung ebenfalls faszinierend, da hier wertvolle Jade-Artefakte gefunden wurden, was auf einen intensiven prähispanischen Handel mit diesem kostbaren Gestein im Motagua-Tal hindeutet. Die Menschen leben vorwiegend vom Handel, der Landwirtschaft und der Herstellung lokaler Süßigkeiten. Geschichte K7 — Koloniale Architektur.",
+      "factsAdvanced": [
+        "Die historische Kolonialkirche von San Agustín ist ein nationales Kulturdenkmal.",
+        "Die Stadt liegt auf etwa 290 Metern Höhe im Tal des Motagua-Flusses.",
+        "Der Name Acasaguastlán bedeutet im indigenen Nahuatl 'Ort der Reiher'.",
+        "Das Motagua-Tal in dieser Gegend ist die wichtigste Quelle für guatemaltekische Jade.",
+        "Das Klima ist extrem heiß und stark von der Trockenzeit geprägt.",
+        "Handgemachte Süßwaren (Dulces Típicos) sind ein bekanntes Produkt der Region."
+      ]
+    },
+    {
+      "id": "gt-malacatan-cities-v2",
+      "descriptionAdvanced": "Malacatán, im extremen Westen des Departamentos San Marcos gelegen, ist eine hitzige, geschäftige und oft chaotische Handelsstadt in unmittelbarer Nähe zur mexikanischen Grenze. Durch den stark frequentierten Grenzübergang bei El Carmen (Talismán) passieren täglich riesige Mengen an legalen und illegalen Waren, die das Stadtbild prägen. Die Wirtschaft blüht durch den grenzüberschreitenden Handel, Wechselstuben, Transportunternehmen und große Märkte, auf denen mexikanische Produkte allgegenwärtig sind. Malacatán liegt in der pazifischen Küstenebene und verfügt über ein feuchtheißes Klima, das in starkem Kontrast zur Kälte der Hauptstadt des Departamentos, San Marcos, steht. Im Umland werden Kaffee und Bananen angebaut, doch der Handel ist die unangefochtene Lebensader der Stadt. Geografie K8 — Grenzwirtschaft.",
+      "factsAdvanced": [
+        "Malacatán liegt auf etwa 390 Metern Höhe und ist für seine drückende Hitze bekannt.",
+        "Die Nähe zur mexikanischen Grenze befeuert eine massive, informelle Handelsökonomie.",
+        "Ein großer Teil der städtischen Wirtschaft dreht sich um Transport und Logistik.",
+        "Das Stadtbild ist geprägt von zahllosen Märkten und kleinen Händlern.",
+        "Der Grenzposten El Carmen ist nur wenige Kilometer vom Stadtzentrum entfernt.",
+        "Die Region ist ein wichtiger Transitpunkt für Migranten auf dem Weg nach Norden."
+      ]
+    },
+    {
+      "id": "gt-san-pablo-cities-v2",
+      "descriptionAdvanced": "San Pablo liegt an den unteren Hängen des imposanten Vulkans Tajumulco im Departamento San Marcos. Die Stadt bildet einen perfekten Übergang vom eisigen Hochland in die warme pazifische Küstenebene. Diese geografische Lage (die sogenannte 'Boca Costa') schafft ein feuchtwarmes Mikroklima, das San Pablo zu einem exzellenten Ort für den Anbau von hochwertigem Kaffee, Kardamom und Bananen macht. Die steilen, grünen Berge umgeben die Stadt und zahlreiche kleine Flüsse fließen durch das Gebiet, was der Landschaft ein üppiges, tropisches Aussehen verleiht. Die Bevölkerung ist eine Mischung aus indigenen Mam und Ladinos. Der Rhythmus der Gemeinde wird weitgehend von den landwirtschaftlichen Erntezyklen, insbesondere der Kaffeeernte, diktiert. Sachkunde K6 — Mikroklimata.",
+      "factsAdvanced": [
+        "San Pablo liegt an den südlichen Ausläufern des Vulkans Tajumulco.",
+        "Die Stadt befindet sich auf einer durchschnittlichen Höhe von etwa 600 Metern.",
+        "Die Region ('Boca Costa') bietet perfekte Bedingungen für Kaffee- und Kardamomanbau.",
+        "Die üppige Vegetation wird durch ergiebige Regenfälle fast das ganze Jahr über gespeist.",
+        "Die Wirtschaft basiert beinahe vollständig auf Landwirtschaft und lokalen Märkten.",
+        "Das Fest des Schutzpatrons Sankt Paulus (San Pablo) wird im Januar gefeiert."
+      ]
+    },
+    {
+      "id": "gt-chicacao-cities-v2",
+      "descriptionAdvanced": "Chicacao, im Departamento Suchitepéquez gelegen, ist eine traditionelle Agrarstadt am südlichen Fuße des majestätischen Atitlán-Vulkans. Die heiße, sehr feuchte Umgebung bietet optimale Bedingungen für den Anbau von Kaffee, Bananen und vor allem Kakao. Tatsächlich hat Chicacao historische Wurzeln in der Kakao-Produktion, die bis in die Zeit vor der spanischen Eroberung zurückreichen, als Kakaobohnen in Mesoamerika als Währung genutzt wurden. Noch heute sind große Fincas das Rückgrat der lokalen Wirtschaft. Die Stadt selbst ist geschäftig und stark vom Handel mit diesen Agrargütern geprägt. Die Bevölkerung, mehrheitlich indigene Tz'utujil und Kaqchikel, ist eng mit der Rhythmik der Natur und den Erntezeiten verbunden. Geschichte K7 — Kakao als Währung.",
+      "factsAdvanced": [
+        "Chicacao liegt auf etwa 500 Metern Höhe an den Hängen des Atitlán-Vulkans.",
+        "Die Region war historisch eines der wichtigsten Gebiete für den Kakao-Anbau.",
+        "Neben Kakao werden Kaffee und Zuckerrohr in großen Mengen produziert.",
+        "Die lokale Bevölkerung ist eine Mischung aus Tz'utujil, Kaqchikel und Ladinos.",
+        "Der Name Chicacao bedeutet in der indigenen Sprache wörtlich 'Ort des Kakaos'.",
+        "Zahlreiche Flüsse entspringen am Vulkan und fließen durch das Gemeindegebiet."
+      ]
+    },
+    {
+      "id": "gt-san-antonio-suchitepequez-cities-v2",
+      "descriptionAdvanced": "San Antonio Suchitepéquez ist eine alte und historisch bedeutende Stadt in der pazifischen Küstenebene Guatemalas. Gegründet von den Spaniern im 16. Jahrhundert, entwickelte sie sich schnell zu einem zentralen Knotenpunkt für die landwirtschaftliche Produktion, insbesondere für Zucker, Kakao und Indigo. Heute ist die Stadt ein pulsierendes Handelszentrum an der verkehrsreichen Autobahn CA-2, was sie zu einem obligatorischen Stopp für den Warenverkehr macht. Das extrem heiße und feuchte Klima ist ideal für die großflächige Landwirtschaft, die das Umland dominiert. San Antonio Suchitepéquez veranstaltet in der Karwoche farbenprächtige Prozessionen, bei denen die koloniale Geschichte und die tief verwurzelte Religiosität der oft aus Mestizen (Ladinos) bestehenden Bevölkerung eindrucksvoll zur Geltung kommen. Geografie K7 — Agrarische Knotenpunkte.",
+      "factsAdvanced": [
+        "Die Stadt wurde 1549 von spanischen Kolonialherren gegründet.",
+        "Sie liegt auf einer Höhe von 400 Metern in der fruchtbaren 'Boca Costa'.",
+        "Die Lage an der CA-2 macht San Antonio zu einem essenziellen Handelsort.",
+        "Historisch war die Region ein Zentrum für den Export des wertvollen Kakaos.",
+        "Die Wirtschaft heute wird von Zuckerrohr, Kaffee und Handel dominiert.",
+        "Der Patronatstag zu Ehren des Heiligen Antonius von Padua wird im Juni gefeiert."
+      ]
+    },
+    {
+      "id": "gt-san-jose-pinula-cities-v2",
+      "descriptionAdvanced": "San José Pinula liegt in den kühlen, von Kiefernwäldern bewachsenen Bergen nur wenige Kilometer südöstlich von Guatemala-Stadt. Traditionell war die Gemeinde berühmt für ihre Milchwirtschaft und Rinderzucht; die frische Milch aus Pinula belieferte die gesamte Hauptstadt. In den letzten Jahrzehnten hat die Stadt jedoch einen massiven Wandel erlebt. Durch die Nähe zur Hauptstadt wurden hier exklusive geschlossene Wohnanlagen, luxuriöse Golfplätze (wie Hacienda Nueva Country Club) und große Einkaufszentren gebaut. Diese rasante Urbanisierung hat einen starken Kontrast zwischen dem traditionellen ländlichen Leben der einheimischen Bauern und dem Lebensstil der wohlhabenden Pendler geschaffen. Trotz des städtischen Wachstums bleiben die kühlen Hügel ein wichtiger Rückzugsort. Geografie K8 — Suburbanisierung.",
+      "factsAdvanced": [
+        "San José Pinula liegt auf einer kühlen Höhe von etwa 1.752 Metern.",
+        "Die Region war lange Zeit das Zentrum der guatemaltekischen Milchproduktion.",
+        "Die Stadt beherbergt mehrere der exklusivsten Golfplätze des Landes.",
+        "Ein massives Vorstadtwachstum prägt das heutige Gesicht der Gemeinde.",
+        "Die Berge um Pinula sind bekannt für ihre dichten Kiefernwälder (Pinares).",
+        "Der Name Pinula leitet sich vom Nahuatl-Wort 'Pinol' (Maismehl-Getränk) ab."
+      ]
+    },
+    {
+      "id": "gt-santa-catarina-pinula-cities-v2",
+      "descriptionAdvanced": "Santa Catarina Pinula ist ein rasant gewachsener Vorort im direkten Südosten von Guatemala-Stadt, der durch extreme soziale Kontraste geprägt ist. Einerseits befinden sich hier Zonen wie Muxbal und Carretera a El Salvador, die zu den modernsten und wohlhabendsten Gebieten des Landes mit Luxusapartments und Hochhäusern zählen. Andererseits leben viele Einheimische in dicht besiedelten Vierteln in den tiefen, oft instabilen Schluchten. Eine katastrophale Folge dieser Topografie war der Erdrutsch in der Siedlung El Cambray II im Oktober 2015, bei dem hunderte Menschen ums Leben kamen. Wirtschaftlich profitiert die Gemeinde extrem von den Steuereinnahmen der Geschäfts- und Wohnzentren, muss aber gewaltige logistische Herausforderungen durch das massive tägliche Pendleraufkommen meistern. Sachkunde K6 — Naturkatastrophen und Urbanisierung.",
+      "factsAdvanced": [
+        "Santa Catarina Pinula ist administrativ eigenständig, aber de facto ein Vorort der Hauptstadt.",
+        "Ein massiver Erdrutsch begrub im Jahr 2015 die Siedlung El Cambray II unter sich.",
+        "In der Gemeinde befinden sich einige der exklusivsten Wohngebiete des Landes (Muxbal).",
+        "Die steile, zerklüftete Topographie macht die Region anfällig für Erdrutsche.",
+        "Der Verkehr in Richtung Guatemala-Stadt ist eine der größten Herausforderungen.",
+        "Die Stadt verfügt über ein extrem hohes kommunales Steueraufkommen durch die Handelszentren."
+      ]
+    },
+    {
+      "id": "gt-san-raimundo-cities-v2",
+      "descriptionAdvanced": "San Raimundo liegt in den trockeneren Hügeln nördlich von Guatemala-Stadt. Landesweite Bekanntheit erlangte die kleine Stadt als das unangefochtene Zentrum der Pyrotechnik in Guatemala. In zahllosen, oft informellen Familienwerkstätten werden hier Feuerwerkskörper aller Art – von kleinen Knallfröschen bis hin zu riesigen 'Castillos' (Feuerwerkstürmen) – in Handarbeit hergestellt. Diese Industrie birgt große Gefahren, und leider sind Explosionen in den Werkstätten keine Seltenheit. Trotz des Risikos ist die Produktion von Pyrotechnik für die meisten Familien die wichtigste Einkommensquelle, besonders in der Vorweihnachtszeit, in der die Nachfrage im ganzen Land explodiert. Die Landwirtschaft spielt aufgrund der eher trockenen Böden nur eine untergeordnete Rolle. Chemie K7 — Gefahren der Pyrotechnik.",
+      "factsAdvanced": [
+        "San Raimundo ist das nationale Zentrum für die Herstellung von Feuerwerkskörpern.",
+        "Die Pyrotechnik wird meist in kleinen, familiären Werkstätten produziert.",
+        "Aufgrund mangelnder Sicherheitsstandards kommt es regelmäßig zu schweren Unfällen.",
+        "Die Stadt liegt auf etwa 1.570 Metern Höhe nördlich der Hauptstadt.",
+        "Weihnachten und Neujahr sind die wichtigsten wirtschaftlichen Zeiten für die Gemeinde.",
+        "Die Landwirtschaft fokussiert sich auf Bohnen und Mais für den Eigenbedarf."
+      ]
+    },
+    {
+      "id": "gt-fraijanes-cities-v2",
+      "descriptionAdvanced": "Fraijanes liegt in den kühlen, hoch gelegenen Bergen südlich von Guatemala-Stadt. Das Klima hier ist perfekt für den Anbau von Spitzenkaffee, und die Herkunftsbezeichnung 'Fraijanes SHB' (Strictly Hard Bean) gehört zu den anerkanntesten Kaffee-Regionen des Landes. Die vulkanischen Böden, angereichert durch Asche des nahegelegenen Vulkans Pacaya, verleihen dem Kaffee sein charakteristisches starkes Aroma. Neben dem Kaffee hat Fraijanes eine zweite, bekanntere Identität: Die Stadt beherbergt den größten Gefängniskomplex Guatemalas (Pavón und Fraijanes I und II), was ihr oft mediale Aufmerksamkeit in den Nachrichten beschert. In den letzten Jahren breitet sich auch hier die Urbanisierung aus, da viele wohlhabende Familien das kühle Klima und die Abgeschiedenheit für den Bau von Landsitzen nutzen. Geografie K8 — Hochlandkaffee und vulkanische Böden.",
+      "factsAdvanced": [
+        "Fraijanes ist eine der acht offiziellen und weltbekannten Kaffee-Regionen Guatemalas.",
+        "Die Stadt liegt auf einer kühlen Höhe von etwa 1.600 Metern.",
+        "Der Boden der Region ist extrem reich an mineralischer Vulkanasche.",
+        "Die wichtigsten und größten Hochsicherheitsgefängnisse des Landes befinden sich hier.",
+        "Ein Großteil der ursprünglichen Fincas wird heute in Wohnviertel umgewandelt.",
+        "Das typische Klima in Fraijanes ist morgens sonnig, nachmittags oft bewölkt und kühl."
+      ]
+    },
+    {
+      "id": "gt-osti-calco-cities-v2",
+      "descriptionAdvanced": "San Juan Ostuncalco (in Aufzeichnungen oft Ostuncalco) ist eine traditionsreiche, kalte Bergstadt im Departament Quetzaltenango. Sie ist eines der kulturellen Zentren der indigenen Mam-Bevölkerung. Die Stadt ist landesweit berühmt für ihr exzellentes Holzhandwerk; entlang der Hauptstraße reihen sich Werkstätten aneinander, die kunstvolle Möbel, Marimbas und fein geschnitzte Stühle herstellen. Ein weiteres Highlight ist die massive, koloniale Hauptkirche mit ihrer spektakulären Barockfassade und den prunkvollen Altären. Das Klima in San Juan Ostuncalco ist oft bitterkalt und neblig, da die Stadt am Fuße steiler Vulkanausläufer liegt. Auf den kühlen Märkten bieten indigene Frauen, bekleidet mit wunderschönen traditionellen Röcken (Cortes), frische Kartoffeln, Äpfel und Pfirsiche aus den Bergregionen an. Kunst K7 — Holzschnitzerei und Möbelbau.",
+      "factsAdvanced": [
+        "Ostuncalco liegt auf über 2.500 Metern Höhe und besitzt ein sehr kaltes Klima.",
+        "Die Stadt ist eines der wichtigsten kulturellen Zentren der Mam-Maya.",
+        "Die lokale Möbel- und Holzindustrie ist im ganzen Land hoch angesehen.",
+        "Die Herstellung der traditionellen Marimba-Instrumente ist hier tief verwurzelt.",
+        "Auf dem Hauptplatz befindet sich ein faszinierendes koloniales Kreuz.",
+        "Die Landwirtschaft konzentriert sich auf Kältekulturen wie Kartoffeln und Äpfel."
+      ]
+    },
+    {
+      "id": "gt-la-esperanza-cities-v2",
+      "descriptionAdvanced": "La Esperanza ist die flächenmäßig kleinste Gemeinde im Departamento Quetzaltenango, aber eine der am dichtesten besiedelten. De facto ist die Stadt heute vollständig mit der Großstadt Quetzaltenango (Xela) verschmolzen und funktioniert als deren Vorort. Trotz der dichten Bebauung versuchen die Einwohner, landwirtschaftliche Flächen zu erhalten, auf denen Kohl, Karotten und Mais angebaut werden. Aufgrund des Mangels an Platz florieren hier zahlreiche kleine Gewerbebetriebe, Werkstätten für Textilien und Bäckereien. La Esperanza (Die Hoffnung) verzeichnet ein extrem starkes Bevölkerungswachstum durch die Zuwanderung aus ländlicheren Gebieten. Die fast ausschließlich indigene K'iche'-Bevölkerung bringt starke organisatorische Strukturen in die Gemeinde, die oft autonom von der Zentralregierung Projekte umsetzt. Geografie K8 — Urbanisierungsprozesse in den Bergen.",
+      "factsAdvanced": [
+        "La Esperanza ist die flächenmäßig kleinste Gemeinde in Quetzaltenango (nur 32 km²).",
+        "Die Stadt ist städtebaulich komplett mit der Metropole Quetzaltenango verwachsen.",
+        "Trotz der Größe gibt es eine enorme Dichte an kleinen Textilwerkstätten.",
+        "Die lokale Bevölkerung ist zu über 90 % indigen (K'iche').",
+        "Die Gemeinde liegt auf einer kühlen Höhe von rund 2.450 Metern.",
+        "Im Mai feiert die Stadt ein großes Fest zu Ehren des Niño de la Cruz."
+      ]
+    },
+    {
+      "id": "gt-cantel-cities-v2",
+      "descriptionAdvanced": "Cantel, eingebettet in ein tiefes Tal nahe Quetzaltenango, ist ein historischer Meilenstein der guatemaltekischen Industrie. Im Jahr 1884 wurde hier die 'Fábrica Cantel' gegründet, die erste und größte maschinelle Textilfabrik Zentralamerikas, angetrieben durch die Wasserkraft des Samalá-Flusses. Diese Fabrik veränderte die Region radikal, indem sie aus Bauern Fabrikarbeiter machte und eine frühe Arbeiterbewegung ('Sindicato') in Guatemala hervorbrachte. Noch heute werden in der Anlage Fäden und Stoffe produziert. Das städtische Leben von Cantel ist bis heute von den Sirenen der Fabrik und dem indigenen Erbe der K'iche' geprägt. In der Umgebung experimentieren die Menschen mit der Nutzung von geothermischer Energie und dem Anbau von Bergfrüchten. Geschichte K8 — Die industrielle Revolution in Mittelamerika.",
+      "factsAdvanced": [
+        "Cantel beheimatet die erste große Textilfabrik Zentralamerikas, gegründet 1884.",
+        "Die Wasserkraft des Río Samalá treibt noch heute Turbinen der Industrie an.",
+        "Die Stadt war der Geburtsort einer der ersten starken Gewerkschaften Guatemalas.",
+        "Cantel liegt auf rund 2.370 Metern in einer bergigen, bewaldeten Region.",
+        "Die Glasbläserei-Kooperative COPAVIC stellt hier Kunstwerke aus Altglas her.",
+        "Die mehrheitlich K'iche'-indigene Bevölkerung verbindet Industrie mit alten Traditionen."
+      ]
+    },
+    {
+      "id": "gt-tactic-cities-v2",
+      "descriptionAdvanced": "Tactic ist eine charmante, nebelverhangene Stadt im Departamento Alta Verapaz. Sie ist eine Hochburg der Poqomchi'-Maya und berühmt für ihre atemberaubenden Webarbeiten, insbesondere die silbern durchwirkten Blusen (Huipiles), die oft Tiermotive darstellen. Ein wirtschaftliches Standbein von Tactic ist die Milchproduktion; die lokale Genossenschaft Chi-Ixim produziert Käse, Sahne und Joghurt, die in der ganzen Region beliebt sind. Über der Stadt, auf einem kleinen Hügel, thront das Santuario de Chi-Ixim, eine tief verehrte kleine Kirche, die sowohl für katholische als auch für intensive Maya-Rituale genutzt wird. Das Klima ist fast das ganze Jahr über kühl und sehr feucht, was der Landschaft eine tiefgrüne Farbe und den typischen Nieselregen ('Chipi-chipi') beschert. Sachkunde K5 — Milchwirtschaft und Handwerk.",
+      "factsAdvanced": [
+        "Die Stadt ist das kulturelle Zentrum der indigenen Poqomchi'-Bevölkerung.",
+        "Tactic ist landesweit bekannt für den hervorragenden 'Chi-Ixim'-Käse.",
+        "Der Hügel Chi-Ixim beherbergt eine für Maya-Rituale wichtige Kapelle.",
+        "Die Weberinnen der Stadt stellen extrem aufwendige, silbern glänzende Huipiles her.",
+        "Tactic liegt auf einer kühlen Höhe von 1.450 Metern.",
+        "Ein lokales Silberhandwerk (Schmuck) hat hier eine sehr lange Tradition."
+      ]
+    },
+    {
+      "id": "gt-chisec-cities-v2",
+      "descriptionAdvanced": "Chisec ist eine feuchtheiße, wachsende Dschungelstadt im Norden des Departamentos Alta Verapaz. In den letzten Jahrzehnten hat sich Chisec von einem isolierten Q'eqchi'-Dorf zu einem wichtigen Zentrum des Ökotourismus entwickelt. Die umliegende Karstlandschaft ist von faszinierenden Wasserwegen und gewaltigen Höhlensystemen durchzogen. Die Bombil-Pek-Höhlen, in die man sich an Seilen abseilen muss, und die spektakulären türkisfarbenen Wasserbecken von Hun Nal Ye ziehen Abenteurer aus aller Welt an. Die stark wachsende Wirtschaft basiert neben dem Tourismus auf der Landwirtschaft, wobei die Anlage von riesigen Palmölplantagen im Umland die traditionelle Subsistenzwirtschaft (Mais und Bohnen) zunehmend verdrängt und für hitzige Landrechtskonflikte sorgt. Geografie K8 — Karstlandschaften und Höhlen.",
+      "factsAdvanced": [
+        "Chisec liegt in den heißen, tief gelegenen Ausläufern der Alta Verapaz (ca. 230 m).",
+        "Die Region ist berühmt für spektakuläre Höhlensysteme wie Bombil Pek.",
+        "Ökotourismus und das 'Tubing' auf den unterirdischen Flüssen sind wichtige Einnahmequellen.",
+        "Die überwiegende Mehrheit der Bevölkerung spricht Q'eqchi'.",
+        "Der massive Anbau von afrikanischen Ölpalmen ist ein bestimmender Wirtschaftsfaktor.",
+        "Chisec verzeichnet eines der schnellsten Bevölkerungswachstumsraten im Departamento."
+      ]
+    },
+    {
+      "id": "gt-el-palmar-cities-v2",
+      "descriptionAdvanced": "El Palmar ist eine Gemeinde im Departamento Quetzaltenango mit einer tragischen und faszinierenden Geschichte. Das ursprüngliche Dorf ('Viejo Palmar') wurde in den späten 1980er und 1990er Jahren durch gewaltige Schlammlawinen (Lahare) aus Vulkanasche, die vom stetig ausbrechenden Lavadom des Santiaguito-Vulkans stammten, komplett zerstört und unter meterhohen Trümmern begraben. Daraufhin musste die gesamte Bevölkerung umgesiedelt werden und gründete in einer sichereren Zone die Siedlung 'Nuevo Palmar'. Heute leben die Menschen dort weiterhin vom Anbau von Kaffee und Macadamia in der fruchtbaren 'Boca Costa'. Die Ruinen der alten, halb verschütteten Kirche von Viejo Palmar gelten heute als stummes Mahnmal der unberechenbaren Naturgewalten Guatemalas. Geografie K8 — Vulkanismus und Lahare.",
+      "factsAdvanced": [
+        "Das alte El Palmar wurde durch Schlammlawinen (Lahare) des Santiaguito zerstört.",
+        "Die heutige Siedlung Nuevo Palmar wurde weiter südlich als sicherer Hafen gegründet.",
+        "Die Ruinen der alten Kolonialkirche ragen heute surreal aus der Aschelandschaft heraus.",
+        "Die Gemeinde liegt in der 'Boca Costa', einer perfekten Zone für Kaffeeanbau.",
+        "Der nahegelegene Santiaguito-Lavadom ist einer der aktivsten Vulkankomplexe der Welt.",
+        "Die Bevölkerung ist mehrheitlich indigen (K'iche') und stark agrarisch geprägt."
+      ]
+    },
+    {
+      "id": "gt-gualzacapa-cities-v2",
+      "descriptionAdvanced": "Guanagazapa ist eine ausgedehnte, flache und extrem heiße Gemeinde im Departamento Escuintla. Die Stadt liegt in der pazifischen Küstenebene und wird durch riesige landwirtschaftliche Fincas geprägt. Wo einst dichte tropische Trockenwälder standen, dominieren heute endlose Felder mit Zuckerrohr, Weideflächen für die Rinderzucht und in jüngster Zeit auch Plantagen für afrikanische Ölpalmen. Diese Agroindustrie kontrolliert den Großteil des Landes und der lokalen Wirtschaft. Die Stadt selbst ist eher einfach, funktional und staubig, bevölkert von Landarbeitern und Aufsehern. Guanagazapa hat nur sehr geringe indigene Einflüsse und wird kulturell von der rauen, pragmatischen Mestizenkultur (Ladinos) der heißen Küste dominiert. Sachkunde K6 — Monokulturen und Rinderzucht.",
+      "factsAdvanced": [
+        "Guanagazapa liegt auf etwa 120 Metern Höhe in der heißen pazifischen Ebene.",
+        "Der Name der Stadt leitet sich vom Nahuatl ab und bedeutet in etwa 'Fluss der Leguane'.",
+        "Die Landschaft wird vollständig von großen Zuckerrohr- und Rinderfincas dominiert.",
+        "Ein großer Teil der ursprünglichen Wälder wurde für die Landwirtschaft gerodet.",
+        "Die Temperaturen sind ganzjährig sehr hoch und können oft 35°C überschreiten.",
+        "Die lokale Kultur ist klassisch 'Costeño' (Küstenbewohner) und stark landwirtschaftlich orientiert."
+      ]
+    },
+    {
+      "id": "gt-la-libertad-p-cities-v2",
+      "descriptionAdvanced": "La Libertad ist die flächenmäßig größte Gemeinde in ganz Guatemala und nimmt weite Teile des zentralen und westlichen Departamentos Petén ein. Jahrhundertelang war dieses Gebiet ein undurchdringlicher Regenwald. Heute ist La Libertad das nationale Zentrum für großflächige Rinderzucht. Riesige Flächen des Dschungels wurden abgeholzt, um Weideland zu schaffen, was der Region enormen wirtschaftlichen Reichtum, aber auch massive ökologische Probleme einbrachte. Die weite, offene Landschaft wird von gewaltigen Rinderfarmen und Plantagen für afrikanische Ölpalmen dominiert. In der Gemeinde befindet sich außerdem der Nationalpark Laguna del Tigre sowie das Archäologische Projekt El Peru-Waka, die zu den wichtigsten Naturschutzgebieten und archäologischen Stätten der Maya-Tiefland-Region zählen. Geografie K8 — Entwaldung und Viehzucht.",
+      "factsAdvanced": [
+        "La Libertad ist die mit Abstand flächengrößte Gemeinde des Landes.",
+        "Die Region ist das absolute Zentrum der guatemaltekischen Rinderzucht.",
+        "Massive Entwaldung verwandelte den Dschungel in weite Savannenlandschaften.",
+        "Im Gemeindegebiet liegen bedeutende Ölförderanlagen (Xan-Feld im Laguna del Tigre).",
+        "Die Stadt wurde 1795 gegründet und entwickelte sich als Pionierstadt im Dschungel.",
+        "Die Bevölkerung besteht größtenteils aus Einwanderern ('Ladinos') aus dem Süden des Landes."
+      ]
+    },
+    {
+      "id": "gt-la-libertad-h-cities-v2",
+      "descriptionAdvanced": "La Libertad ist eine stark vom Handel geprägte Grenzgemeinde im fernen Westen des Departamentos Huehuetenango. Das bekannteste Zentrum der Gemeinde ist nicht die Stadt selbst, sondern der Grenzübergang 'La Mesilla', der einer der wichtigsten und geschäftigsten Durchgangsorte nach Mexiko (Chiapas) ist. Die Wirtschaft von La Libertad pulsiert durch den formellen und informellen Grenzhandel; von Kleidung über Elektronik bis hin zu Nahrungsmitteln wird hier alles gehandelt. Die hügelige und heiße Landschaft bietet auch gute Bedingungen für den Anbau von Kaffee. Die Kultur ist geprägt durch eine Mischung aus indigenen Maya (Mam und Huasteken) und Mestizen, die alle vom unaufhörlichen Transit von Reisenden, Händlern und Migranten leben. Geografie K7 — Grenzübergänge und Transit.",
+      "factsAdvanced": [
+        "Die Gemeinde La Libertad beherbergt den massiven Grenzübergang 'La Mesilla'.",
+        "Ein Großteil der lokalen Wirtschaft basiert auf dem Handel mit dem benachbarten Mexiko.",
+        "Die Stadt liegt auf einer bergigen, aber warmen Höhe von etwa 1.100 Metern.",
+        "Aufgrund der Grenzlage gibt es hier viele Wechselstuben und Logistikunternehmen.",
+        "Die Panamericana (CA-1) verläuft direkt durch das Gemeindegebiet.",
+        "Kaffeeanbau ist in den ländlichen, höher gelegenen Dörfern der Gemeinde weit verbreitet."
+      ]
+    },
+    {
+      "id": "gt-melchor-de-mencos-cities-v2",
+      "descriptionAdvanced": "Melchor de Mencos ist die wichtigste und einzige offizielle Grenzstadt Guatemalas zu Belize, gelegen im tiefen Petén am Mopan-Fluss. Das Leben in dieser heißen, isolierten Stadt wird vollständig vom Grenzverkehr diktiert. Tagtäglich überqueren hunderte Touristen auf ihrem Weg zu den Maya-Ruinen von Tikal oder den karibischen Stränden von Belize die Brücke über den Fluss. Da die guatemaltekischen Preise für viele Produkte niedriger sind, kommen auch viele Belizer zum Einkaufen nach Melchor, was einen florierenden Einzelhandel geschaffen hat. Die Stadt trägt den Namen eines spanischen Unteroffiziers, der im 18. Jahrhundert englische Piraten bekämpfte. Umgeben von Dschungel versprüht die Stadt das raue Flair einer echten Grenz- und Pionierstadt. Wirtschaft K7 — Grenztourismus und Handel.",
+      "factsAdvanced": [
+        "Melchor de Mencos ist der offizielle Land-Grenzübergang zwischen Guatemala und Belize.",
+        "Die Stadt liegt direkt am Ufer des Mopan-Flusses, der hier die Grenze markiert.",
+        "Ein großer Teil der Wirtschaft basiert auf Touristen auf dem Weg nach Tikal.",
+        "Viele Bürger aus Belize kommen nach Melchor, um günstige Waren einzukaufen.",
+        "Die Gemeinde wurde erst 1960 offiziell gegründet, benannt nach einem spanischen Sergeanten.",
+        "Das Klima ist extrem heiß und feucht, typisch für das Tiefland des Petén."
+      ]
+    },
+    {
+      "id": "gt-san-mateo-ixtatan-cities-v2",
+      "descriptionAdvanced": "San Mateo Ixtatán ist eine extrem abgelegene, faszinierende und traditionelle Bergstadt im nördlichen Cuchumatanes-Gebirge (Huehuetenango). Die Stadt ist das wichtigste Zentrum der Chuj-Maya, die eine der ältesten und isoliertesten Kulturen Guatemalas darstellen. National bekannt ist San Mateo für seine uralten, heiligen Salzquellen. Seit präkolumbischer Zeit wird hier 'Schwarzes Salz' (Sal Negra) in Handarbeit in Höhlen gekocht und verdampft. Dieses Salz wird im ganzen Land geschätzt und für spirituelle Zwecke genutzt. Die Frauen tragen wunderschöne, feuerrote Huipiles, die mit dicken bunten Sternen bestickt sind. Das Klima ist bitterkalt und feucht. Aufgrund der Isolation und extremen Armut haben viele Einwohner die Stadt verlassen, um in den USA Arbeit zu finden. Geschichte K8 — Präkolumbische Salzminen.",
+      "factsAdvanced": [
+        "Die Stadt liegt auf einer sehr kalten und nebligen Höhe von über 2.500 Metern.",
+        "San Mateo Ixtatán ist das Zentrum der Chuj-sprachigen Maya-Bevölkerung.",
+        "Das heilige 'Schwarze Salz' wird hier seit mehr als tausend Jahren abgebaut.",
+        "Der dicke, leuchtend rote Traje (Huipil) der Frauen ist im ganzen Land einzigartig.",
+        "Die Gemeinde liegt extrem isoliert im nördlichen Teil der Cuchumatanes-Berge.",
+        "Ein Großteil der lokalen Wirtschaft ist auf Geldüberweisungen aus den USA angewiesen."
+      ]
+    },
+    {
+      "id": "gt-nevaj-cities-v2",
+      "descriptionAdvanced": "Santa María Nebaj ist die größte und bekannteste Gemeinde des isolierten 'Ixil-Dreiecks' im Departamento Quiché. Eingebettet in ein tiefes, atemberaubend schönes Tal in den Cuchumatanes-Bergen, hat Nebaj eine schmerzhafte und starke Geschichte. Während des guatemaltekischen Bürgerkriegs in den 1980er Jahren war die Region Schauplatz brutaler militärischer Repressionen gegen die indigene Ixil-Bevölkerung. Trotz dieser Tragödie hat die Kultur der Ixil unaufhaltsam überlebt. Die Frauen von Nebaj tragen einige der aufwendigsten und auffälligsten traditionellen Kleidungsstücke Guatemalas, in denen Rot- und Grüntöne dominieren, oft verziert mit Vögeln und Rautenmustern. Wirtschaftlich lebt die kühle Bergstadt von Subsistenzlandwirtschaft, Kaffeeanbau und einem langsam wachsenden, respektvollen Kulturtourismus. Geschichte K8 — Das Ixil-Dreieck und der Bürgerkrieg.",
+      "factsAdvanced": [
+        "Nebaj ist die Hauptgemeinde des berühmten 'Ixil-Dreiecks'.",
+        "Die Stadt liegt in einem beeindruckenden Tal auf einer Höhe von 1.900 Metern.",
+        "Die Ixil-Bevölkerung erlitt während des Bürgerkriegs massive Verluste und Zerstörungen.",
+        "Die traditionelle Kleidung der Frauen (Corte und Huipil) ist landesweit für ihre Pracht bekannt.",
+        "In den Bergen der Umgebung gedeiht ausgezeichneter Hochlandkaffee.",
+        "Die Stadt ist ein wachsendes Ziel für Wanderer und ethischen Tourismus."
+      ]
+    },
+    {
+      "id": "gt-chajul-cities-v2",
+      "descriptionAdvanced": "San Gaspar Chajul ist eine der isoliertesten und traditionsreichsten Städte Guatemalas, gelegen tief im Ixil-Dreieck (Departamento Quiché). Die Stadt scheint in der Zeit stehengeblieben zu sein; die wunderschönen, rot gepunkteten Huipiles und die roten Röcke der Frauen prägen das Straßenbild. Chajul ist landesweit bekannt für den tief verwurzelten Kult um den Pilgerort 'El Cristo de Golgota' in der wunderschönen, alten Kolonialkirche, der tausende Pilger aus den Bergen anzieht. Wie das benachbarte Nebaj litt Chajul enorm unter dem bewaffneten Konflikt, wodurch die Entwicklung der Gemeinde stark zurückgeworfen wurde. Heute ist die Region berühmt für ihren außergewöhnlichen Bio-Kaffee, der von lokalen Kooperativen auf dem internationalen Markt für fairen Handel verkauft wird. Kunst K8 — Indigene Webkunst und Fair-Trade.",
+      "factsAdvanced": [
+        "Chajul bildet zusammen mit Nebaj und Cotzal das indigene 'Ixil-Dreieck'.",
+        "Die Stadt liegt sehr isoliert in den Bergen auf fast 2.000 Metern Höhe.",
+        "Die Kirche von Chajul ist ein massiver kolonialer Bau, der den Cristo de Golgota beherbergt.",
+        "Lokale Kaffeekooperativen exportieren hochpreisigen Bio-Kaffee nach Europa und in die USA.",
+        "Die traditionelle Kleidung der Frauen ist von einem intensiven Kirschrot geprägt.",
+        "Viele alte Maya-Praktiken, wie die Konsultation von Tageszählern, sind hier noch Alltag."
+      ]
+    }
+  ]
+}

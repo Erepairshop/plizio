@@ -1,0 +1,36 @@
+{
+  "lang": "hu",
+  "files": ["lib/visualLab/data/poiExtraLibyaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "tripoli-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tripolis, die pulsierende Hauptstadt Libyens, wurde im 7. Jahrhundert v. Chr. als Oea von Phöniziern gegründet. Die Stadt dient als das wichtigste politische, wirtschaftliche und kulturelle Zentrum des Landes und ist direkt an der Mittelmeerküste gelegen. Besucher können hier die historische Medina erkunden, die durch enge Gassen und traditionelle Architektur besticht. Geografie K8 — Küstenstädte und Wirtschaftsräume.",
+        "hu": "Tripoli, Líbia lüktető fővárosa, amelyet a 7. században alapítottak a föníciaiak Oea néven. A város az ország legfontosabb politikai, gazdasági és kulturális központja, amely festőien helyezkedik el a Földközi-tenger partján. A látogatók felfedezhetik a történelmi Medinát, amely szűk utcáival és hagyományos építészetével nyűgöz le. Földrajz K8 — tengerparti városok és gazdasági körzetek.",
+        "ro": "Tripoli, capitala vibrantă a Libiei, a fost fondată în secolul al VII-lea î.Hr. sub numele de Oea de către fenicieni. Orașul servește drept cel mai important centru politic, economic și cultural al țării, fiind situat direct pe coasta Mării Mediterane. Vizitatorii pot explora Medina istorică, care impresionează prin străzile sale înguste și arhitectura tradițională. Geografie K8 — orașe de coastă și regiuni economice.",
+        "en": "Tripoli, the vibrant capital of Libya, was founded in the 7th century BC as Oea by the Phoenicians. The city serves as the country's main political, economic, and cultural hub, situated directly on the Mediterranean coast. Visitors can explore the historical Medina, characterized by its narrow alleys and traditional architecture. Geography K8 — coastal cities and economic regions."
+      },
+      "factsAdvanced": {
+        "de": ["Gegründet um 700 v. Chr.", "Hauptsitz der libyschen Regierung.", "Bevölkerungsreichste Stadt des Landes.", "Besitzt den größten Hafen Libyens.", "Historische Altstadt ist Medina.", "Dient als nationales Bildungszentrum."],
+        "hu": ["Kr. e. 700 körül alapították.", "A líbiai kormány székhelye.", "Az ország legnépesebb városa.", "Itt található Líbia legnagyobb kikötője.", "A történelmi óváros neve Medina.", "Országos oktatási központ."],
+        "ro": ["Fondat în jurul anului 700 î.Hr.", "Sediul guvernului libian.", "Cel mai populat oraș al țării.", "Deține cel mai mare port din Libia.", "Orașul vechi istoric este Medina.", "Centru național de educație."],
+        "en": ["Founded around 700 BC.", "Headquarters of the Libyan government.", "Most populous city in the country.", "Hosts the largest port in Libya.", "Historical old town is the Medina.", "Serves as a national educational center."]
+      }
+    },
+    {
+      "id": "benghazi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bengasi, die zweitgrößte Stadt Libyens, ist das Herz der östlichen Region Kyrenaika. Ihre Geschichte reicht bis in die Antike zurück, als sie unter dem Namen Berenice bekannt war. Heute fungiert sie als vitaler Knotenpunkt für Handel und Verwaltung in Ostlibyen und spielt eine entscheidende Rolle für die regionale Infrastruktur. Geografie K7 — Regionale Zentren und Hafenstädte.",
+        "hu": "Bengázi, Líbia második legnagyobb városa, a keleti Kirenaika régió szíve. Története az ókorig nyúlik vissza, amikor Berenice néven volt ismert. Ma a kereskedelem és a közigazgatás létfontosságú csomópontja Kelet-Líbiában, és döntő szerepet játszik a regionális infrastruktúrában. Földrajz K7 — regionális központok és kikötővárosok.",
+        "ro": "Benghazi, al doilea oraș ca mărime din Libia, este inima regiunii estice Cirenaica. Istoria sa datează din antichitate, când era cunoscut sub numele de Berenice. Astăzi, acesta funcționează ca un nod vital pentru comerț și administrație în estul Libiei și joacă un rol crucial în infrastructura regională. Geografie K7 — centre regionale și orașe portuare.",
+        "en": "Benghazi, the second-largest city in Libya, is the heart of the eastern Cyrenaica region. Its history dates back to ancient times when it was known as Berenice. Today, it serves as a vital hub for trade and administration in eastern Libya, playing a crucial role in regional infrastructure. Geography K7 — regional centers and port cities."
+      },
+      "factsAdvanced": {
+        "de": ["Ursprünglich Berenice genannt.", "Wichtigster Hafen der Kyrenaika.", "Zentrum der libyschen Revolution 2011.", "Zweitgrößtes Wirtschaftszentrum des Landes.", "Historische Stätte der antiken Welt.", "Strategischer Knotenpunkt am Mittelmeer."],
+        "hu": ["Eredetileg Berenice-nek hívták.", "Kirenaika legfontosabb kikötője.", "A 2011-es líbiai forradalom központja.", "Az ország második legnagyobb gazdasági központja.", "Az ókori világ történelmi helyszíne.", "Stratégiai csomópont a Földközi-tengeren."],
+        "ro": ["Numit inițial Berenice.", "Cel mai important port din Cirenaica.", "Centrul revoluției libiene din 2011.", "Al doilea mare centru economic al țării.", "Sit istoric al lumii antice.", "Nod strategic la Marea Mediterană."],
+        "en": ["Originally named Berenice.", "Most important port in Cyrenaica.", "Center of the 2011 Libyan revolution.", "Second-largest economic hub of the country.", "Historical site of the ancient world.", "Strategic Mediterranean crossroads."]
+      }
+    }
+  ]
+}

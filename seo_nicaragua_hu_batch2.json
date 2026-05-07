@@ -1,0 +1,309 @@
+{
+  "lang": "hu",
+  "country": "nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "posoltega-cities-v2",
+      "descriptionAdvanced": "Posoltega egy történelmi, ősi chorotega gyökerekkel rendelkező város Chinandega megyében. A település neve örökre összefonódott az 1998-as Mitch hurrikán tragédiájával, amikor a közeli Casita vulkán oldaláról lezúduló iszaplavina két teljes szomszédos falut elpusztított. Ma a város a megújulás és az újjáépítés szimbóluma. Gazdasága főként a mezőgazdaságra épül, szezámot, földimogyorót és kukoricát termesztenek a vulkáni hamuval gazdagított síkságokon. A városközpontban a helyreállított gyarmati templom és a katasztrófa áldozatainak emlékműve található. Történelem K8 — természeti katasztrófák és helyreállítás.",
+      "factsAdvanced": [
+        "A várost még a spanyol hódítás előtt alapították őslakos közösségek.",
+        "Az 1998-as iszaplavina (lahar) több mint 2000 ember életét követelte a térségben.",
+        "Nevének jelentése a chorotega nyelvből 'víz és hamu városa' lehet.",
+        "A tengerszint feletti magassága megközelítőleg 70 méter.",
+        "Jelentős nemzetközi segélyprogramok segítették az újjáépítést 1999 után.",
+        "A Casita vulkán (1405 m) közvetlenül a város keleti határában emelkedik."
+      ]
+    },
+    {
+      "id": "san-rafael-del-sur-cities-v2",
+      "descriptionAdvanced": "San Rafael del Sur Managua megye óceánparti települése, amely híres kiváló minőségű mészkőbányáiról és a CEMEX nagy cementgyáráról. Ez a vidék adja a nicaraguai építőipar számára szükséges cement és beton jelentős részét. A városhoz tartozik a népszerű Pochomil és Masachapa strand is, amelyek a fővárosiak kedvenc hétvégi célpontjai. Bár az ipar domináns, a hagyományos halászat és a turizmus is egyre fontosabb bevételi forrássá válik a part menti közösségekben. Földrajz K7 — bányászat és partvidéki turizmus.",
+      "factsAdvanced": [
+        "1831-ben alapították, és 1956-ban kapott városi rangot.",
+        "Nicaragua legfőbb cementgyártó központja az 1940-es évek óta.",
+        "A várostól csupán 20 kilométerre fekszenek a Csendes-óceán strandjai.",
+        "Lakossága meghaladja az 50 000 főt.",
+        "A helyi gazdaságban több mint ezer ember dolgozik közvetlenül a cementiparban.",
+        "Kellemes trópusi szavanna éghajlata van, száraz és esős évszakokkal."
+      ]
+    },
+    {
+      "id": "masatepe-cities-v2",
+      "descriptionAdvanced": "Masatepe a Pueblos Blancos (Fehér Falvak) néven ismert kulturális útvonal része Masaya megyében. A város szűk utcáin hagyományos kézműves műhelyek sorakoznak, ahol a helyiek évszázados technikákkal készítenek finom bútorokat, különösen fonott székeket és mahagóni asztalokat. A település kulináris hírnevét a 'sopa de mondongo' (pacalleves) adja, amely országszerte vonzza az ínyenceket. Földrajzilag a Carazo-fennsíkon helyezkedik el, ahol a hűvösebb klíma ideális a kávétermesztéshez. Történelem K6 — hagyományos kézművesség és konyhaművészet.",
+      "factsAdvanced": [
+        "A név chorotega nyelven 'szarvasok hegyét' jelenti.",
+        "A várost 1995-ben nyilvánították hivatalosan várossá.",
+        "A bútorgyártás mintegy 300 család elsődleges megélhetése a városban.",
+        "Tengerszint feletti magassága körülbelül 450 méter.",
+        "Szent János (San Juan Bautista) a falu védőszentje, ünnepét júniusban tartják.",
+        "Az ország legjobb pacallevesét készítő éttermek (comedores) a központban találhatók."
+      ]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "descriptionAdvanced": "Niquinohomo történelmi jelentőségű település Masaya megyében, amelyet 2002-ben a "Nemzet Történelmi Örökségének" nyilvánítottak. A város leginkább Augusto C. Sandino tábornok, a nicaraguai függetlenségi küzdelem legismertebb alakjának szülőhelyeként híres. Sandino szülőháza ma könyvtár és múzeum. A város a Pueblos Blancos (Fehér Falvak) része, gyarmati építészeti emlékeinek csúcsa az 1668-ban épült, barokk és reneszánsz elemeket ötvöző Szent Anna-templom. Történelem K8 — Augusto C. Sandino és a nemzeti identitás.",
+      "factsAdvanced": [
+        "Nevének jelentése a chorotega nyelvből 'a harcosok völgye'.",
+        "Augusto C. Sandino 1895. május 18-án született itt.",
+        "Az 1668-as Santa Ana templomot 1999-ben Nemzeti Műemlékké nyilvánították.",
+        "Tengerszint feletti magassága kb. 467 méter.",
+        "Szent Anna-napján (július 26.) a híres 'Baile de los Chinegros' táncot adják elő.",
+        "A város egyike annak a kevés településnek, amely szinte teljesen megőrizte eredeti utcaszerkezetét."
+      ]
+    },
+    {
+      "id": "la-concepcion-masaya-cities-v2",
+      "descriptionAdvanced": "La Concepción, amelyet a helyiek egyszerűen "La Concha" néven ismernek, a citrusfélék és a trópusi gyümölcsök termesztésének fellegvára Masaya megyében. A vulkanikus talaj és a mikroklíma kedvez a narancs, a mandarin, a pitaya és az ananász gazdag termésének. A gyümölcstermesztés mellett a település fontos közlekedési csomópont is, amely összeköti Managuát a déli megyékkel. A hagyományos spanyol stílusú házakkal és zöld parkokkal rendelkező város az ország egyik legdinamikusabban fejlődő agrár-települése. Földrajz K6 — gyümölcstermesztés és vulkáni talajok.",
+      "factsAdvanced": [
+        "A várost 1889-ben alapították, és 1999-ben kapott városi rangot.",
+        "A 'La Concha' népszerű elnevezés a Szeplőtelen Fogantatásra utal.",
+        "Nicaragua pitaya (sárkánygyümölcs) termelésének több mint 40%-a innen származik.",
+        "Az éves gyümölcsfesztivál (Feria de las Frutas) augusztusban vonzza a kereskedőket.",
+        "Környezetét számos kisebb, kialudt vulkáni kúp (cerro) öleli körbe.",
+        "Lakossága nagyjából 40 000 fő."
+      ]
+    },
+    {
+      "id": "telica-cities-v2",
+      "descriptionAdvanced": "Telica León megye nyugati részén fekszik, a folyamatosan aktív Telica vulkán árnyékában, amelyről a város a nevét is kapta. A vulkán állandó gőz- és hamukibocsátása meghatározza az itt élők mindennapjait. A település elsősorban mezőgazdasági központ, ahol nagy mennyiségben termesztenek földimogyorót és kukoricát. Telica híres a gejzírekről és az iszapvulkánokról, melyek a Los Hervideros de San Jacinto nevű természetes képződménynél figyelhetők meg a város határában, és amelyek komoly turisztikai vonzerőt jelentenek. Földrajz K7 — vulkáni utóélet és geotermikus jelenségek.",
+      "factsAdvanced": [
+        "A Telica vulkán 1061 méter magas, és szinte folyamatosan mutat aktivitást.",
+        "San Jacinto forró iszapmedencéi a Föld kérgén áttörő magma melegének eredményei.",
+        "A várost hivatalosan 1858-ban jegyezték be önkormányzatként.",
+        "A Telica név a navatl nyelvből származik, valószínűleg 'sötét kövek földje' jelentéssel.",
+        "A régióban a 20. század közepén jelentős gyapottermesztés zajlott.",
+        "A település áramellátását részben a közeli geotermikus erőművek biztosítják."
+      ]
+    },
+    {
+      "id": "san-juan-de-limay-cities-v2",
+      "descriptionAdvanced": "San Juan de Limay egy festői kisváros Estelí megye északnyugati hegyei között. A település országos és nemzetközi hírnevét a 'Marmolina' (egy puha, zsírkőszerű kőzet) faragásának köszönheti. A helyi szobrászok generációk óta készítik ebből a kőből a gyönyörű, jellegzetesen kövérkés női alakokat, amelyeket "Gorditas"-nak neveznek. A falu elszigetelt fekvése hozzájárult egyedülálló, békés atmoszférájának megőrzéséhez. A környező tájat hatalmas fenyők és sziklás csúcsok uralják. Történelem K6 — kőfaragás és népművészet.",
+      "factsAdvanced": [
+        "A várost hivatalosan 1860-ban alapították.",
+        "A 'Marmolina' (zsírkő) faragásának művészete a 20. század második felében vált itt népszerűvé.",
+        "A szobrászati műhelyek (talleres) a város gazdaságának egyik fő mozgatórugói.",
+        "Tengerszint feletti magassága csupán 280 méter, ami melegebb klímát eredményez a megye többi részéhez képest.",
+        "A város védőszentje Keresztelő Szent János.",
+        "San Juan de Limay volt az egyik fő bázisa a művészek és költők közösségeinek a 80-as években."
+      ]
+    },
+    {
+      "id": "tola-cities-v2",
+      "descriptionAdvanced": "Tola Rivas megye Csendes-óceáni partvidékének kulcsfontosságú települése, amely az elmúlt évtizedekben csendes halászfaluból nemzetközi szörfparadicsommá vált. Hozzá tartozik a világhírű "Emerald Coast" (Smaragd Part), benne olyan exkluzív strandokkal, mint Playa Colorado és Guasacate, ahol a lenyűgöző hullámok egész évben vonzzák a szörfösöket. A turisztikai robbanás luxusüdülők építéséhez vezetett, míg a városközpont megőrizte álmos, mezőgazdasági jellegét, ahol az állattenyésztés továbbra is jelentős. Földrajz K8 — partvidéki turizmus és szörf-földrajz.",
+      "factsAdvanced": [
+        "1898-ban kapta meg a hivatalos települési rangot.",
+        "A 'Smaragd Part' (Costa Esmeralda) több mint 30 kilométernyi érintetlen partszakaszt foglal magába.",
+        "Itt rendezték meg a 2015-ös ISA Szörf Világbajnokságot.",
+        "Híres a 'La Novia de Tola' (A tolai menyasszony) nicaraguai legendáról.",
+        "A település határában nyílt meg a Costa Esmeralda repülőtér 2015-ben.",
+        "A part menti Papagayo-szelek egész évben kedvező hullámokat biztosítanak."
+      ]
+    },
+    {
+      "id": "moyogalpa-cities-v2",
+      "descriptionAdvanced": "Moyogalpa a Nicaragua-tóban fekvő Ometepe-sziget fő belépési pontja és legforgalmasabb kikötővárosa. A város közvetlenül a lenyűgöző, tökéletes kúp alakú Concepción vulkán lábánál fekszik. Innen indulnak a kompok és komphajók a szárazföldi San Jorge irányába. A település az ökoturizmus központja, ahol a látogatók robogókat bérelhetnek a sziget felfedezéséhez, vagy túrákat szervezhetnek a vulkán megmászására. Moyogalpa megőrizte kisvárosi, barátságos jellegét az élénk hátizsákos turistaforgalom ellenére is. Földrajz K6 — szigeti települések és vulkanizmus.",
+      "factsAdvanced": [
+        "A név navatl nyelven 'szúnyogok települését' jelenti.",
+        "A város kikötője naponta több száz turistát és helyi utast fogad.",
+        "1853-ban alapították hivatalosan önkormányzatként.",
+        "A közeli Concepción vulkán (1610 m) ma is aktív.",
+        "Moyogalpa központjában érdekes régészeti gyűjtemény található prekolumbián kerámiákból.",
+        "Jelentős mezőgazdasági termékük a vulkáni talajon termő útifű (plátano)."
+      ]
+    },
+    {
+      "id": "altagracia-cities-v2",
+      "descriptionAdvanced": "Altagracia az Ometepe-sziget második legnagyobb települése, amely a sziget keleti felén, a Maderas vulkán közelében terül el. A település különösen gazdag történelem előtti örökségben; a falu központi parkja és a helyi múzeum egyedülálló, nagyméretű bazalt bálványszobrokat mutat be, amelyeket az őslakos chorotegák készítettek. Altagracia csendesebb, mint Moyogalpa, gazdasága hagyományosan a banán-, szezám- és dohánytermesztésre épül. A település kiindulópont a sziget buja erdeinek és kávéültetvényeinek felfedezéséhez. Történelem K7 — prekolumbián kőszobrászat és mitológia.",
+      "factsAdvanced": [
+        "Eredeti őslakos neve 'Aztagalpa', ami 'gémek falvát' jelenti.",
+        "A városi parkban 4 masszív prekolumbián kőszobor áll szabad ég alatt.",
+        "San Diego de Alcalá tiszteletére novemberben tartják híres védőszent-ünnepüket.",
+        "A közeli Maderas vulkán (1394 m) kráterében egy köderdővel övezett tó található.",
+        "A szigetlakók nagy része még mindig hagyományos mezőgazdaságból él.",
+        "Altagracia repülőtere jelenleg ritkán használt tartalék leszállópálya."
+      ]
+    },
+    {
+      "id": "wien-cities-v2",
+      "descriptionAdvanced": "Wiwilí de Nueva Segovia egy távoli, trópusi dzsungellel körülvett település a Coco-folyó bal partján, Nicaragua északi határán. A település ikervárosa a folyó túlpartján fekvő Wiwilí de Jinotega, a két várost a történelmi folyó választja el. Wiwilí történelmi jelentőségét Augusto C. Sandino adta, aki az 1930-as években itt alapított agrár-szövetkezeteket harcosai számára. A nehezen megközelíthető vidék lakossága főként mezőgazdaságból és a fakitermelésből él. Földrajz K8 — folyami határvárosok és izoláció.",
+      "factsAdvanced": [
+        "A települést az 1930-as években hozták létre, majd 1989-ben kapott önkormányzati rangot.",
+        "Wiwilí név miszkító nyelven valószínűleg 'vízfolyások találkozását' jelenti.",
+        "Sandino tábornok itt hozta létre az első fegyveres agrár-szövetkezetet (cooperativa) 1933-ban.",
+        "A várost 1998-ban a Mitch hurrikán szinte teljesen elmosta, újra kellett építeni.",
+        "Csak 2021-ben épült modern híd a Coco-folyón, ami összeköti az ikervárosokat.",
+        "Éghajlata forró és nedves trópusi esőerdei."
+      ]
+    },
+    {
+      "id": "waspam-cities-v2",
+      "descriptionAdvanced": "Waspam az Észak-Karib-tengeri Autonóm Régió (RACCN) legészakibb, hatalmas kiterjedésű települése, amely a Coco-folyó (Wangki) alsó folyásánál fekszik. Ez a város a miszkító őslakos kultúra szíve és közigazgatási központja Nicaraguában. Waspam elszigetelt, úthálózata szegényes, a közlekedés leginkább a folyón történik hagyományos fatörzsből vájt kenukkal (pangas). A helyi gazdaság fakitermelésre, halászatra és önellátó mezőgazdaságra épül. A város történelme során számos határkonfliktust és hurrikánt élt túl. Földrajz K7 — őslakos autonóm régiók és folyami közlekedés.",
+      "factsAdvanced": [
+        "Területe alapján Nicaragua legnagyobb önkormányzata (több mint 9300 km²).",
+        "A lakosság több mint 80%-a a miszkító őslakos etnikumhoz tartozik.",
+        "Hivatalosan 1956-ban nyilvánították önkormányzattá.",
+        "A Coco-folyó (Río Coco) több mint 100 helyi őslakos közösséget köt össze Waspammal.",
+        "A 2007-es Felix hurrikán a város épületeinek többségét lerombolotta.",
+        "Waspam egy fontos kiindulópont a hondurasi La Mosquitia régióba tartó utazásokhoz."
+      ]
+    },
+    {
+      "id": "rio-blanco-cities-v2",
+      "descriptionAdvanced": "Río Blanco Matagalpa megye és a Karib-tengeri régió határán, egy hegyvidéki völgyben helyezkedik el. A várost átszelő Fehér-folyó (Río Blanco) a hegyekből lezúduló mészköves hordalék miatt kapta nevét. A település az 1970-es években tapasztalt mezőgazdasági robbanás során indult jelentős fejlődésnek, ma a szarvasmarha-tenyésztés, a tejfeldolgozás és a fakitermelés kulcsfontosságú központja az ország belsejében. Stratégiai elhelyezkedése miatt kereskedelmi kapocs a nyugati piacok és a keleti dzsungelvidékek között. Földrajz K6 — átmeneti zónák és mezőgazdasági terjeszkedés.",
+      "factsAdvanced": [
+        "1974-ben vált hivatalosan önálló önkormányzattá.",
+        "Lakossága nagy része az ország csendes-óceáni partvidékéről érkezett betelepülő (colonos).",
+        "A város környéki hegyek magassága eléri a 600-800 métert.",
+        "Jelentős tejfeldolgozó üzemek működnek itt (queseras), amelyek sajtot exportálnak Salvadorba.",
+        "Trópusi esőerdei éghajlat jellemzi, gyakori délutáni záporokkal.",
+        "A Cerro Musún természetvédelmi terület közvetlenül a várostól északra fekszik."
+      ]
+    },
+    {
+      "id": "siuna-cities-v2",
+      "descriptionAdvanced": "Siuna a történelmi Bányászati Háromszög (Triángulo Minero) egyik legfontosabb városa az Észak-Karib-tengeri Autonóm Régióban. A várost az 1800-as évek végén fedezték fel az aranyásók, és a 20. század közepére Közép-Amerika egyik legtermelékenyebb aranybányászati központjává nőtte ki magát a külföldi befektetések révén. Bár az ipari léptékű bányászat az 1980-as években jelentősen visszaesett, a kisipari bányászat és a mezőgazdaság (különösen a fakitermelés és állattenyésztés) ma is a város gerincét alkotja. Siuna az URACCAN egyetem egyik fő kampuszának otthona. Történelem K8 — aranyláz és nyersanyag-kitermelés.",
+      "factsAdvanced": [
+        "A kanadai La Luz Mining Company 1909 és 1968 között hatalmas bányakomplexumot üzemeltetett itt.",
+        "Siuna repülőterét a 20. század elején építették az arany szállítására.",
+        "A név szumo őslakos nyelven feltehetően 'forró vizet' jelent.",
+        "1969-ben önkormányzati státuszt kapott.",
+        "Az URACCAN (Közép-Amerikai Karibi Autonóm Régiók Egyeteme) egyetemi kampusza itt található.",
+        "A várost sűrű egyenlítői esőerdők és kanyargós folyók övezik."
+      ]
+    },
+    {
+      "id": "rosita-cities-v2",
+      "descriptionAdvanced": "Rosita, korábbi nevén Santa Rita, a Bányászati Háromszög (Triángulo Minero) másik kulcsfontosságú települése. Míg Siuna és Bonanza az aranyról voltak híresek, Rosita a réz- és ezüstbányászat központja volt. A Rosario Mining Company az 1950-es években óriási nyílt színi rézbányát hozott itt létre, ami több évtizedes gazdasági fellendülést eredményezett. Ma a bánya elhagyatott krátere egy mély, zöld vizű tóvá változott. A bányászat leáldozása után a város gazdasága a fakitermelés felé fordult, mivel a környező Bambana-folyó völgye gazdag trópusi fafajokban. Földrajz K7 — bányatavak és rézkitermelés.",
+      "factsAdvanced": [
+        "A várost 1989-ben nyilvánították hivatalos önkormányzattá.",
+        "A helyi nyílt színi rézbányából (La Luz) 1959 és 1971 között több mint 30 millió font rezet termeltek ki.",
+        "A bányató (Laguna de Rosita) mélysége helyenként eléri az 50 métert.",
+        "Eredetileg egy Santa Rita nevű kis bánya köré épült fel a település.",
+        "A lakosság főleg mestizo, de jelentős a mayangna és miszkító kisebbség is.",
+        "Az évi átlagos csapadékmennyiség meghaladja a 2500 millimétert."
+      ]
+    },
+    {
+      "id": "bonanza-cities-v2",
+      "descriptionAdvanced": "Bonanza a Bányászati Háromszög legmagasabban fekvő és legkisebb, de bányászatilag ma is legaktívabb városa. Nevét a hatalmas aranyércek (bonanzas) felfedezéséről kapta a 19. század végén. A települést meredek hegyek veszik körül, a házak a domboldalakba kapaszkodnak, amitől különleges, teraszos városképe van. A HEMCO bányavállalat ma is jelentős kitermelést végez a térségben, rengeteg helyinek biztosítva munkát, miközben a hagyományos, veszélyes 'güirisero' (kézi bányász) tevékenység is elterjedt a helyiek körében. Történelem K7 — bányavárosok kialakulása.",
+      "factsAdvanced": [
+        "Az aranyat az 1880-as évek végén fedezték fel itt spanyol kutatók.",
+        "A település 1989-ben kapott független önkormányzati státuszt.",
+        "A HEMCO (korábban Rosario Mining) Nicaragua egyik legnagyobb aranyexportőre.",
+        "Környezete rendkívül csapadékos, évi átlagos esőzése gyakran 3000 mm feletti.",
+        "Az őslakos mayangna közösség a közeli Bosawás bioszféra-rezervátumban él.",
+        "A domborzat miatt Bonanzában szinte nincsenek egyenes utcák."
+      ]
+    },
+    {
+      "id": "puerto-morazan-cities-v2",
+      "descriptionAdvanced": "Puerto Morazán, eredeti nevén Tonalá, egy csendes-óceáni torkolatvidéken fekvő kikötőváros Chinandega megyében. A várost a történelmi Estero Real vadvédelmi terület gazdag mangroveerdei ölelik körbe. A település a 20. század első felében nyüzsgő kereskedelmi kikötő volt a banánexport számára, ám a vasút felszámolása és a közeli Corinto kikötőjének felemelkedése miatt veszített jelentőségéből. Ma gazdasága nagyrészt a rák- és garnélahalászatra (camaroneras), valamint a mezőgazdaságra épül. Földrajz K6 — mangrove mocsarak és akvakultúra.",
+      "factsAdvanced": [
+        "1946-ban nevezték át Puerto Morazánra Francisco Morazán közép-amerikai unionista tiszteletére.",
+        "Az Estero Real deltavidéke Közép-Amerika egyik legfontosabb mangrove-ökoszisztémája.",
+        "A garnélarák-tenyésztés a régió egyik fő exportcikkét adja.",
+        "Tengerszint feletti magassága szinte a tengerszinttel azonos (0-5 méter).",
+        "A településről rálátni a távoli Cosigüina vulkánra.",
+        "A banánbetegségek (Panama-kór) az 1930-as években tönkretették az itteni ültetvényeket."
+      ]
+    },
+    {
+      "id": "el-jicaral-cities-v2",
+      "descriptionAdvanced": "El Jicaral egy dombok közé ékelődött kisváros León megye északi felén. A település neve a 'jícaro' fa (lopótökfa) ligeteire utal, amely bőségesen terem a régió száraz, szavannás vidékén. A falu az ország egyik legkevésbé ismert, ám egyedülálló bányászati projektjének, egy ősi aranybánya maradványainak ad otthont. Gazdaságilag elsősorban az extenzív szarvasmarha-tenyésztésre és a gabonafélék termesztésére támaszkodik. Csendes, hagyományőrző életmód jellemzi, lovaskocsik és hagyományos vályogházak határozzák meg a látképet. Történelem K6 — vidékfejlesztés és hagyományos életforma.",
+      "factsAdvanced": [
+        "1834-ben kapott önálló önkormányzati státuszt.",
+        "A jícaro terméséből készítik a hagyományos nicaraguai 'chicha' (edény) kelyheket.",
+        "Lakossága nagyrészt vidéki (rurális) területeken él.",
+        "Az éghajlata száraz trópusi, hosszú aszályos időszakokkal (verano).",
+        "Az elmúlt években megkezdték a környék aranylelőhelyeinek modern felmérését.",
+        "Mindössze kb. 12 000 lakos él az egész közigazgatási területen."
+      ]
+    },
+    {
+      "id": "mateare-cities-v2",
+      "descriptionAdvanced": "Mateare az egyik legrégebbi chorotega őslakos település, amely a Managua-tó (Xolotlán) déli partvidékén húzódik. A város a Chiltepe-félsziget tövében fekszik, ahonnan csodálatos kilátás nyílik az Apoyeque vulkán tavára. Mateare az évszázadok során hagyományos halászfaluból és agrártérségből modern elővárossá nőtte ki magát a főváros, Managua közelsége miatt. Az ipari parkok terjeszkedése ellenére a helyiek ma is büszkék kulturális gyökereikre, amit a központi parkban álló évszázados 'ceiba' (selyemfa) is jelképez. Földrajz K6 — tavak és elővárosi fejlődés.",
+      "factsAdvanced": [
+        "A spanyol hódítók 1524-ben már feljegyezték a település nevét.",
+        "1898-ban nyilvánították hivatalos önkormányzattá.",
+        "A Chiltepe-félsziget Természeti Rezervátum közvetlenül a város határában kezdődik.",
+        "Lakossága meredeken nőtt a Managuából kiköltöző munkások miatt.",
+        "Gyakran sújtották erős földrengések a vulkanikus törésvonalak közelsége miatt.",
+        "A halászat egykor a tóban élő 'guapote' halfajra épült, ma már ipari jellegű."
+      ]
+    },
+    {
+      "id": "waslala-cities-v2",
+      "descriptionAdvanced": "Waslala egy elszigetelt, sűrű erdőkkel és hegyekkel körülvett város az Észak-Karib-tengeri Autonóm Régió határán, amely közigazgatásilag a közelmúltig Matagalpához tartozott. A település Nicaragua híres 'kakaó fővárosa'; az itt termesztett bio kakaóbab kiváló minőségű, és számos európai luxuscsokoládé alapanyagául szolgál. A várost meredek, sáros utak kötik össze a külvilággal, de a gazdag vízkészlet, a Zuia- és a Waslala-folyó termékeny oázissá varázsolja. A falu neve a nemzeti költészetben a béke és a természeti szépség szinonimájává vált Gioconda Belli verse nyomán. Földrajz K7 — fenntartható agrárium és finom kakaó.",
+      "factsAdvanced": [
+        "1989-ben vált önálló önkormányzattá.",
+        "Waslala nevét egy miszkító szóból eredeztetik, ami 'a folyó, ami énekel'-t jelenti.",
+        "Nicaragua legkiválóbb minőségű bio kakaóját a 'Cacaonica' szövetkezet exportálja innen.",
+        "Gioconda Belli híres nicaraguai írónő 'Waslala' című utópikus regénye tette híressé a nevet.",
+        "Környezetében gyönyörű, felfedezetlen vízesések és barlangok találhatók.",
+        "Trópusi esőerdei klíma miatt az év 9 hónapjában folyamatos az esőzés."
+      ]
+    },
+    {
+      "id": "san-isidro-matagalpa-cities-v2",
+      "descriptionAdvanced": "San Isidro egy fontos tranzitváros Matagalpa megyében, ahol a Panamerikai főútvonal keresztezi a León és Matagalpa felé tartó utakat. E sík vidéki település gazdasága az intenzív, öntözéses rizstermesztésen és más gabonafélék termelésén alapszik, amelyet a Sébaco-völgy termékeny talaja és meleg klímája tesz lehetővé. San Isidro stratégiai elhelyezkedése miatt szárazföldi kikötőként (puerto seco) funkcionál; tele van raktárakkal, éttermekkel és a teherautó-forgalmat kiszolgáló létesítményekkel. Földrajz K7 — öntözéses mezőgazdaság és logisztika.",
+      "factsAdvanced": [
+        "1862-ben alapították hivatalosan önkormányzatként.",
+        "Nevét Földműves Szent Izidorról (San Isidro Labrador), a parasztok védőszentjéről kapta.",
+        "Körülbelül 114 kilométerre fekszik Managuától.",
+        "Évente nagyszabású agrárvásárt rendeznek májusban a védőszent ünnepén.",
+        "A helyi gazdaság 60%-át a rizstermesztés és malomipar teszi ki.",
+        "A város környéke egykor mocsaras volt, melyet rizsföldekké alakítottak."
+      ]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "descriptionAdvanced": "Tecolostote egy történelmi, kis méretű falu Boaco megyében, amely a San Lorenzo önkormányzatához tartozik. A település hírnevét lenyűgöző kőszídjáról (Puente Tecolostote) kapta, amelyet a 20. század elején építettek a Panamerikai út elődjének részeként. A falu gazdasága erősen függ az állattenyésztéstől, és a környező tanyák látják el tejjel és sajttal az országos hálózatokat. A csendes, poros utcájú település körül szavannás legelők és szárazságtűrő erdők húzódnak. Történelem K6 — történelmi hidak és infrastruktúra.",
+      "factsAdvanced": [
+        "A település neve valószínűleg a navatl 'tecolote' (bagoly) szóból ered.",
+        "A Tecolostote hidat 1934 körül építették amerikai mérnöki tervek alapján.",
+        "Közigazgatásilag San Lorenzo városához (municipality) tartozik.",
+        "Jelentős tejgyűjtő állomások működnek a faluban.",
+        "Trópusi szavanna éghajlata van, hosszú nyári aszállyal.",
+        "A falut átszeli a Tecolostote-folyó, amely a száraz évszakban gyakran kiszárad."
+      ]
+    },
+    {
+      "id": "san-lorenzo-boaco-cities-v2",
+      "descriptionAdvanced": "San Lorenzo egy dimbes-dombos területen fekvő, mezőgazdasági irányultságú város Boaco megye déli felén. A lakosok főként szarvasmarha-tenyésztéssel élnek, a város híres az ízletes sajtok (queso chontaleño) gyártásáról, amelyet nagy mennyiségben exportálnak a fővárosba és Salvadorba. San Lorenzo történelmi központja a spanyol gyarmati időket idézi, egy szép központi parkkal és egy hófehér plébániatemplommal. A Panamerikai főútvonal megnyitása fellendítette a város kereskedelmét az 1950-es években. Földrajz K6 — állattenyésztő régiók.",
+      "factsAdvanced": [
+        "1858-ban alapították spanyol telepesek a térségben.",
+        "1971-ben emelték városi (ciudad) rangra.",
+        "Szent Lőrinc diakónus a város védőszentje, ünnepét augusztus 10-én tartják.",
+        "Híres az itt megrendezett hagyományos bikaviadalokról (montas de toros).",
+        "A terület domborzata átmenetet képez a parti síkságok és a központi hegyvidék között.",
+        "Gazdasága szinte teljes egészében a szarvasmarha-tenyésztéstől függ."
+      ]
+    },
+    {
+      "id": "santo-tomas-chontales-cities-v2",
+      "descriptionAdvanced": "Santo Tomás egy vibráló és dinamikusan fejlődő kereskedelmi csomópont Chontales megyében, a Nicaragua-tó felé tartó hegyvidéki úton. A "tej fővárosaként" vagy a 'quesillo' (sajtos tortilla) igazi otthonaként is hivatkoznak rá a helyiek, hiszen az itteni sajtkészítési hagyományok páratlanok. A település fekvése lehetővé teszi a szarvasmarhák bőséges legeltetését a dús füvű domboldalakon. Santo Tomás az ország egyik legnagyobb sajt- és tejtermék exportőre Közép-Amerika más országaiba, jelentős sajtgyárakkal (queseras) a peremvidékein. Földrajz K7 — tejipar és élelmiszerexport.",
+      "factsAdvanced": [
+        "A várost 1861-ben alapították.",
+        "Gyakran tartják a 'quesillo' étel valódi szülőföldjének (Nagarote és La Paz Centro mellett).",
+        "A környékbeli sajtgyárak (queseras) naponta több ezer liter tejet dolgoznak fel.",
+        "Santo Tomás (Aquinói Szent Tamás) tiszteletére hatalmas fiesztát tartanak decemberben.",
+        "Körülbelül 400 méteres tengerszint feletti magasságban helyezkedik el.",
+        "A város egy kis vulkáni fennsíkon épült, ami hűvösebb klímát biztosít."
+      ]
+    },
+    {
+      "id": "villa-sandino-cities-v2",
+      "descriptionAdvanced": "Villa Sandino egy hegyvidéki bányász- és mezőgazdasági kisváros Chontales megye keleti szélén, amelyet eredetileg San Francisco del Carnicero néven alapítottak. A település ősi rejtélyeket őriz; határában találhatók a híres Garrobo Grande petroglifák (karcrajzok), amelyek az ősi civilizációk csillagászati és vallási megfigyeléseit ábrázolják. Bár a város főként tejtermelésből él, aranybányászati múlttal is rendelkezik. Nevét 1979 után változtatták meg Augusto C. Sandino forradalmár tiszteletére. Történelem K7 — petroglifák és prekolumbián csillagászat.",
+      "factsAdvanced": [
+        "1942-ben kapott független önkormányzati státuszt San Francisco del Carnicero néven.",
+        "Nevét 1979-ben, a sandinista forradalom győzelme után változtatták Villa Sandinóra.",
+        "A Garrobo Grande régészeti lelőhely több tucat ősi sziklarajzot (petroglifát) rejt.",
+        "A város a központi hegylánc (Cordillera Chontaleña) lábánál fekszik.",
+        "Gazdaságának egyharmada a helyi aranyásók (güiriseros) munkájából származik.",
+        "Körülbelül 194 kilométerre fekszik Managuától keletre."
+      ]
+    }
+  ]
+}

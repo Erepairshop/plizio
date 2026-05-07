@@ -1,0 +1,285 @@
+{
+  "lang": "de",
+  "country": "haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "reserve-animale-gonave-life-v2",
+      "descriptionAdvanced": "Das Tierreservat auf der Île de la Gonâve ist ein wichtiges Schutzgebiet für die endemische Fauna Haitis. Die isolierte Insellage bietet einen natürlichen Schutz für seltene Reptilien und Vogelarten, die auf dem Festland durch Lebensraumverlust stark bedroht sind. Biologie K7 — Insulare Ökosysteme.",
+      "factsAdvanced": [
+        "Befindet sich auf der größten Insel Haitis.",
+        "Schützt endemische Leguanarten und seltene Vögel.",
+        "Die Insel leidet unter akutem Wassermangel.",
+        "Wichtiger Brutplatz für Meeresschildkröten an den Küsten.",
+        "Die Flora besteht größtenteils aus Trockenwald und Kakteen.",
+        "Projekte zur Wiederaufforstung laufen an."
+      ]
+    },
+    {
+      "id": "bassin-bleu-nature-life-v2",
+      "descriptionAdvanced": "Bassin-Bleu, mit seinen leuchtend blauen natürlichen Pools und kaskadierenden Wasserfällen, ist ein magischer Ort. Oft als Kinderparadies bezeichnet, zieht es Familien und Naturliebhaber an, die in dem kristallklaren, mineralstoffreichen Wasser schwimmen möchten. Geographie K5 — Natürliche Wasserbecken.",
+      "factsAdvanced": [
+        "Besteht aus drei miteinander verbundenen natürlichen Pools.",
+        "Das intensiv blaue Wasser entsteht durch gelöste Mineralien.",
+        "Liegt verborgen in den Hügeln nahe Jacmel.",
+        "Der tiefste Pool, Cheval, hat eine versteckte Unterwasserhöhle.",
+        "Lokale Voodoo-Legenden besagen, dass Wassergeister hier leben.",
+        "Ein beliebtes Ziel für ökotouristische Ausflüge."
+      ]
+    },
+    {
+      "id": "parc-miraculeux-pa-p-life-v2",
+      "descriptionAdvanced": "Der Kinderfreizeitpark in Port-au-Prince ist eine seltene, aber umso wichtigere städtische Oase für Familien in der dicht besiedelten Hauptstadt. Er bietet sichere Spielplätze und fördert das gemeinschaftliche Leben inmitten des turbulenten urbanen Alltags. Gesellschaft K5 — Urbane Erholung.",
+      "factsAdvanced": [
+        "Einer der wenigen gesicherten Spielparks in der Hauptstadt.",
+        "Wurde mit internationaler Hilfe nach dem Erdbeben saniert.",
+        "Bietet bunte Karussells und Klettergerüste.",
+        "Oft Treffpunkt für schulische Ausflüge.",
+        "Ermöglicht Kindern einen sicheren Raum abseits des Straßenverkehrs.",
+        "Wird regelmäßig für lokale Feste und Musikveranstaltungen genutzt."
+      ]
+    },
+    {
+      "id": "bananenausbau-limonade-life-v2",
+      "descriptionAdvanced": "Die ausgedehnten Bananenplantagen in Limonade im Norden Haitis sind ein Zentrum moderner landwirtschaftlicher Initiativen. Hier wird versucht, die historische Exportstärke Haitis im Bananenhandel durch verbesserte Bewässerungs- und Erntetechniken wiederzubeleben. Wirtschaft K7 — Exportlandwirtschaft.",
+      "factsAdvanced": [
+        "Limonade ist ein Zentrum für den kommerziellen Bananenanbau.",
+        "Die Plantagen exportieren in benachbarte Karibikinseln.",
+        "Wichtiger lokaler Arbeitgeber im Département Nord.",
+        "Es werden vor allem Kochbananen (Plantains) angebaut.",
+        "Profitieren von den fruchtbaren Böden in Meeresnähe.",
+        "Die Produktion wird oft durch heftige Hurrikans gefährdet."
+      ]
+    },
+    {
+      "id": "station-biologique-macaya-life-v2",
+      "descriptionAdvanced": "Die Biologische Forschungsstation Macaya dient Wissenschaftlern als Basis zur Untersuchung des extrem artenreichen, aber stark bedrohten Nebelwald-Ökosystems. Die Station ist entscheidend für die Kartierung bisher unentdeckter Pflanzen- und Tierarten in der Region. Umweltkunde K8 — Ökologische Forschung.",
+      "factsAdvanced": [
+        "Zentrum für internationale biologische Expeditionen.",
+        "Liegt tief im unwegsamen Gelände des Pic Macaya.",
+        "Sammelt Daten zu Klimawandel und Biodiversitätsverlust.",
+        "Beherbergt ein kleines Labor für Wasser- und Bodenanalysen.",
+        "Forscht an der Wiederansiedlung bedrohter Froscharten.",
+        "Die Logistik zur Versorgung der Station ist extrem anspruchsvoll."
+      ]
+    },
+    {
+      "id": "jardin-zoologique-simple-life-v2",
+      "descriptionAdvanced": "Der einfache Tierpark in Pétion-Ville bietet einen kleinen, familiären Einblick in die heimische und karibische Tierwelt. Obwohl er klein ist, spielt er eine wichtige Rolle bei der Sensibilisierung städtischer Kinder für den Tierschutz und die Natur. Sachkunde K4 — Tiere kennenlernen.",
+      "factsAdvanced": [
+        "Ein kleiner, städtischer Zoo für Familienausflüge.",
+        "Fokussiert auf haitianische Vogelarten und kleine Reptilien.",
+        "Dient vor allem der schulischen Umwelterziehung.",
+        "Befindet sich im grünen Vorort Pétion-Ville.",
+        "Besitzt ein kleines Pflegezentrum für verletzte Wildtiere.",
+        "Wird durch private Spenden lokaler Geschäftsleute finanziert."
+      ]
+    },
+    {
+      "id": "agrarzentrum-saint-michel-life-v2",
+      "descriptionAdvanced": "Das Agrarzentrum Saint-Michel konzentriert sich auf die Verbesserung der landwirtschaftlichen Erträge durch die Schulung lokaler Bauern. Es fördert den Einsatz resistenterer Saatgüter und effizienterer Methoden zur Verarbeitung von Zuckerrohr und Mais. Landwirtschaft K6 — Agrarische Innovation.",
+      "factsAdvanced": [
+        "Fördert moderne Landwirtschaftstechniken im Artibonite.",
+        "Verfügt über Testfelder für neue Maissorten.",
+        "Bietet Workshops für lokale Kleinbauern an.",
+        "Spezialisiert auf die Effizienzsteigerung der Zuckerrohrernte.",
+        "Untersucht die Auswirkungen von Dürre auf den Ernteertrag.",
+        "Ein wichtiges Projekt zur Sicherung der lokalen Lebensmittelversorgung."
+      ]
+    },
+    {
+      "id": "parc-enfants-jeremie-life-v2",
+      "descriptionAdvanced": "Der Kinderpark in Jérémie, oft liebevoll 'Die Stadt der Dichter' genannt, ist ein kleiner kultureller Treffpunkt für die jüngsten Einwohner. Er kombiniert Spielgeräte mit Wandgemälden lokaler Künstler, die Motive aus haitianischen Märchen und Fabeln zeigen. Kunst K5 — Märchen und Spiel.",
+      "factsAdvanced": [
+        "Liegt im historischen Zentrum der Küstenstadt Jérémie.",
+        "Geschmückt mit Wandgemälden berühmter haitianischer Künstler.",
+        "Bietet Platz für Freiluft-Erzählstunden (Conte).",
+        "Wurde nach dem Hurrikan Matthew (2016) von der Gemeinde wiederaufgebaut.",
+        "Ein sicherer Raum für Kinder am Rande des Meeres.",
+        "Oft Austragungsort für kleine Jugend-Festivals."
+      ]
+    },
+    {
+      "id": "plantation-cacao-grand-anse-life-v2",
+      "descriptionAdvanced": "Die Region Grand-Anse ist das Herz der haitianischen Kakaoproduktion. Die Kakaoplantagen gedeihen hier im feuchttropischen Klima unter den schattigen Baumkronen großer Waldbäume, was den Kakaobohnen ihr charakteristisches, reiches Aroma verleiht. Wirtschaft K7 — Kakaoproduktion.",
+      "factsAdvanced": [
+        "Hauptanbaugebiet für haitianischen Export-Kakao.",
+        "Die Plantagen nutzen das Agroforst-System.",
+        "Der Kakao wird größtenteils für Premium-Schokolade in Europa verwendet.",
+        "Die Fermentation der Bohnen erfolgt oft noch nach traditioneller Art.",
+        "Lokale Kooperativen bündeln die Ernten der Kleinbauern.",
+        "Das feuchte, heiße Klima der Grand-Anse ist ideal für Kakao."
+      ]
+    },
+    {
+      "id": "ferme-animaux-leogane-life-v2",
+      "descriptionAdvanced": "Die Tierfarm Léogâne ist ein Lehrbetrieb, der sich auf die Verbesserung der lokalen Viehzucht spezialisiert hat. Kinder und angehende Landwirte können hier die Aufzucht und Pflege von Ziegen, Schweinen und Geflügel erlernen, die für die Ernährungssicherheit wichtig sind. Sachkunde K5 — Nutztiere.",
+      "factsAdvanced": [
+        "Spezialisiert auf die Zucht robuster Ziegen und Schweine.",
+        "Dient als Ausbildungsort für Agrarschüler.",
+        "Lehrt moderne Methoden der Tiergesundheit.",
+        "Die Farm nutzt Solarenergie für die Wasserpumpen.",
+        "Liegt in der Ebene von Léogâne, dem Zentrum des Voodoo.",
+        "Fördert auch die Haltung von Legehennen zur Ei-Produktion."
+      ]
+    },
+    {
+      "id": "parc-nature-cayemites-life-v2",
+      "descriptionAdvanced": "Der Naturpark Cayemites umfasst die Inseln Grande und Petite Cayemite. Diese abgelegene Inselgruppe bewahrt unberührte Mangrovenwälder und Korallenriffe, die als essenzielle Brutstätten für Fische und unzählige karibische Meeresvögel dienen. Biologie K6 — Mangroven-Ökosysteme.",
+      "factsAdvanced": [
+        "Besteht aus zwei Hauptinseln vor der Küste von Grand-Anse.",
+        "Berühmt für ausgedehnte, gesunde Mangrovenwälder.",
+        "Ein wichtiger Zufluchtsort für Pelikane und Fregattvögel.",
+        "Das umliegende Meer ist reich an Hummern und Muscheln.",
+        "Weitgehend vom Massentourismus unberührt.",
+        "Es gibt Bemühungen, das Riff als Schutzgebiet zu deklarieren."
+      ]
+    },
+    {
+      "id": "marais-trou-caiman-life-v2",
+      "descriptionAdvanced": "Das Trou Caïman Feuchtgebiet ist ein ökologisch wertvoller Sumpf und See, der als eines der wichtigsten Vogelbeobachtungsgebiete der Karibik gilt. Hunderte von Flamingo- und Reiherarten nutzen dieses Binnengewässer als Rastplatz auf ihren jährlichen Migrationsrouten. Biologie K7 — Zugvögel und Feuchtgebiete.",
+      "factsAdvanced": [
+        "Ein großer Flachsee (etwa 16 km²).",
+        "Wichtiger Rastplatz für nordamerikanische Zugvögel.",
+        "Heimat großer Populationen von Flamingos und Ibissen.",
+        "Wurde traditionell zur Süßwasserfischerei genutzt.",
+        "Der Wasserspiegel schwankt extrem nach Regenfällen.",
+        "Stark bedroht durch landwirtschaftliche Verschmutzung."
+      ]
+    },
+    {
+      "id": "jardin-fruitier-saint-marc-life-v2",
+      "descriptionAdvanced": "Der große Obstgarten von Saint-Marc ist ein Paradies für tropische Früchte. Mit seinen endlosen Reihen von Mangos, Papayas und Guaven zeigt er das immense landwirtschaftliche Potenzial Haitis, wenn moderne Bewässerung auf fruchtbaren Boden trifft. Landwirtschaft K5 — Tropischer Obstanbau.",
+      "factsAdvanced": [
+        "Liegt in der Nähe der Hafenstadt Saint-Marc.",
+        "Spezialisiert auf die Produktion der berühmten Francique-Mango.",
+        "Nutzt moderne Tröpfchenbewässerung.",
+        "Ein Großteil der Ernte wird in die USA exportiert.",
+        "Bietet saisonale Arbeitsplätze für hunderte Erntehelfer.",
+        "Dient auch als Forschungsgelände für Baumkrankheiten."
+      ]
+    },
+    {
+      "id": "parc-enfants-jacmel-life-v2",
+      "descriptionAdvanced": "Das Kinderparadies Jacmel verbindet Spiel und kreativen Ausdruck. In dieser künstlerischen Stadt wurde der Spielplatz mit bunten Papiermaché-Figuren und Mosaiken dekoriert, die die berühmte haitianische Karnevalstradition spielerisch für Kinder erlebbar machen. Kunst K4 — Karneval und Handwerk.",
+      "factsAdvanced": [
+        "Dekoriert mit typischen Papiermaché-Masken aus Jacmel.",
+        "Der Boden besteht aus recycelten, bunten Fliesenmosaiken.",
+        "Direkt an der Promenade (Boardwalk) der Stadt gelegen.",
+        "Oft Schauplatz kleiner Kinder-Karnevalsumzüge.",
+        "Ermöglicht Kindern sicheres Spielen am Meer.",
+        "Ein schönes Beispiel für Kunst im öffentlichen Raum."
+      ]
+    },
+    {
+      "id": "reserve-marine-cap-haitien-life-v2",
+      "descriptionAdvanced": "Das Meeresschutzgebiet vor Cap-Haïtien schützt einige der ältesten Riffsysteme der Nordküste. Es ist nicht nur ein Paradies für Taucher, sondern bewahrt auch historische Schiffswracks aus der Kolonialzeit, die heute als künstliche Riffe für exotische Fische dienen. Geographie K7 — Unterwasserarchäologie.",
+      "factsAdvanced": [
+        "Umfasst wertvolle Korallenriffe vor der Nordküste.",
+        "Beherbergt alte Schiffswracks aus dem 18. Jahrhundert.",
+        "Soll vor Überfischung und Dynamitfischerei schützen.",
+        "Wichtiger Lebensraum für gefährdete Seekühe (Manatis).",
+        "Zieht zunehmend Tauch- und Ökotourismus an.",
+        "Die Riffe dämpfen die starken Wellen bei Stürmen."
+      ]
+    },
+    {
+      "id": "centre-edu-agriculture-miragoane-life-v2",
+      "descriptionAdvanced": "Das Agrarbildungszentrum in Miragoâne widmet sich der Ausbildung einer neuen Generation haitianischer Landwirte. Der Fokus liegt auf der Entwicklung klimaresilienter Pflanzen und dem Kampf gegen die fortschreitende Bodenerosion, die die haitianische Landwirtschaft bedroht. Umweltkunde K8 — Klimaresilienz.",
+      "factsAdvanced": [
+        "Schult Landwirte in Erosionsschutz-Maßnahmen.",
+        "Testet dürreresistente Bohnen- und Hirsesorten.",
+        "Liegt in der Nähe des Miragoâne-Sees.",
+        "Fördert das Anlegen von Baumterrassen an steilen Hängen.",
+        "Arbeitet eng mit internationalen Agrar-NGOs zusammen.",
+        "Verteilt jährlich tausende Setzlinge an Kleinbauern."
+      ]
+    },
+    {
+      "id": "parc-naturel-riviere-froide-life-v2",
+      "descriptionAdvanced": "Der Naturpark Rivière Froide schützt das Einzugsgebiet eines der wichtigsten Flüsse nahe der Hauptstadt. Die dichten Galeriewälder entlang der Flussufer sind essenziell, um Erdrutsche zu verhindern und die Trinkwasserqualität für die umliegenden Gemeinden zu bewahren. Geographie K6 — Fluss-Ökosysteme.",
+      "factsAdvanced": [
+        "Schützt die Uferzonen der Rivière Froide.",
+        "Wichtig für die Trinkwasserversorgung von Port-au-Prince.",
+        "Die Galeriewälder beheimaten viele seltene Vogelarten.",
+        "Verhindert das schnelle Abfließen von Regenwasser.",
+        "Lokale Wäschewasch-Plätze (Lavoirs) sind in den Park integriert.",
+        "Ein beliebtes Ausflugsziel für gestresste Stadtbewohner."
+      ]
+    },
+    {
+      "id": "jardin-education-haiti-life-v2",
+      "descriptionAdvanced": "Der Haiti Lern- und Lehrgarten ist ein interaktives Bildungsprojekt, das Schulkindern die Grundlagen der Biologie und Ernährung vermittelt. Durch das eigenhändige Pflanzen von Gemüse lernen die Kinder den Wert von Lebensmitteln und den Respekt vor der Natur kennen. Biologie K4 — Pflanzenwachstum.",
+      "factsAdvanced": [
+        "Ein Schulgarten-Projekt für Grundschüler.",
+        "Die Kinder säen und ernten eigenes Gemüse.",
+        "Lehrt Grundlagen der Botanik und Kompostierung.",
+        "Die Ernte wird oft in der Schulkantine verwendet.",
+        "Soll das Bewusstsein für gesunde Ernährung stärken.",
+        "Wird von Lehrern und ehrenamtlichen Agronomen betreut."
+      ]
+    },
+    {
+      "id": "plantation-cafe-kenskoff-life-v2",
+      "descriptionAdvanced": "Auf über 1.500 Metern Höhe gelegen, produziert die Kaffeeplantage Kenskoff einige der feinsten Arabica-Bohnen der Karibik. Der Nebel und die kühlen Temperaturen in dieser Bergregion verlangsamen das Wachstum der Kaffeekirschen, was zu einem besonders komplexen Geschmacksprofil führt. Landwirtschaft K7 — Hochland-Kaffee.",
+      "factsAdvanced": [
+        "Liegt in der kühlen Bergregion von Kenskoff.",
+        "Produziert hochwertigen, schattengebauten Arabica-Kaffee.",
+        "Die Ernte erfolgt von Hand in sehr steilem Gelände.",
+        "Die Bohnen werden auf traditionellen Trockendecks (Glacis) getrocknet.",
+        "Zieht Kaffeeliebhaber und Ökotouristen an.",
+        "Das kühle Klima ist auch ideal für den Anbau von Erdbeeren."
+      ]
+    },
+    {
+      "id": "parc-enfants-port-de-paix-life-v2",
+      "descriptionAdvanced": "Der Kinderpark in Port-de-Paix bietet einen fröhlichen und sicheren Spielbereich an der nördlichen Küste. Mit maritimen Elementen dekoriert, spiegelt der Spielplatz die tiefe Verbundenheit der Hafenstadt mit dem Meer und der Schifffahrt wider. Sachkunde K4 — Leben am Meer.",
+      "factsAdvanced": [
+        "Spielgeräte sind in Form von Booten und Leuchttürmen gestaltet.",
+        "Befindet sich nahe der historischen Küstenpromenade.",
+        "Bietet eine wunderschöne Aussicht auf die Insel Tortuga (Île de la Tortue).",
+        "Wurde als Gemeinschaftsprojekt der Stadtbewohner errichtet.",
+        "Ein wichtiger Ort für familiäre Wochenendausflüge.",
+        "Der Park ist umzäunt und wird bewacht."
+      ]
+    },
+    {
+      "id": "ferme-experimentale-artibonite-life-v2",
+      "descriptionAdvanced": "Der Versuchs-Bauernhof im Artibonite-Tal ist das Herzstück der nationalen Reis-Forschung Haitis. Agronomen testen hier neue Reissorten und Düngemethoden, um die Erträge zu maximieren und die Abhängigkeit von internationalen Lebensmittelimporten zu verringern. Landwirtschaft K8 — Agrarforschung.",
+      "factsAdvanced": [
+        "Zentrum der landwirtschaftlichen Forschung im Reisanbau.",
+        "Experimentiert mit wassersparenden Reisanbau-Techniken.",
+        "Sucht nach resistenten Sorten gegen den Reis-Virus.",
+        "Staatlich finanzierte Einrichtung mit internationaler Unterstützung.",
+        "Verfügt über ein eigenes kleines meteorologisches Labor.",
+        "Schult Techniker, die ihr Wissen an die Bauern weitergeben."
+      ]
+    },
+    {
+      "id": "reserve-oiseaux-lac-peligre-life-v2",
+      "descriptionAdvanced": "Das Vogelreservat am Lac Péligre ist ein ökologisches Juwel rund um den größten Stausee Haitis. Die ruhigen Buchten des Sees bieten zahlreichen endemischen Enten- und Reiherarten einen sicheren Nistplatz inmitten der ansonsten trockenen Landschaft des Département Centre. Biologie K6 — Stauseen-Ökologie.",
+      "factsAdvanced": [
+        "Umgibt den gigantischen Péligre-Staudamm.",
+        "Wichtiger Brutplatz für Kormorane und Pelikane.",
+        "Der See bietet reichlich Fischnahrung für die Vögel.",
+        "Die steilen Ufer schützen die Nester vor Raubtieren.",
+        "Die Wasserqualität leidet oft unter Bodenerosion.",
+        "Fischer und Vögel teilen sich das fischreiche Gewässer."
+      ]
+    },
+    {
+      "id": "jardin-ornemental-jeremie-life-v2",
+      "descriptionAdvanced": "Der Ziergarten von Jérémie ist ein botanisches Kunstwerk, das die natürliche Schönheit der tropischen Flora mit klassischer Gartengestaltung verbindet. Mit seinen farbenprächtigen Bougainvillea-Hecken und alten Palmen ist er ein Ort der Ruhe in der 'Stadt der Poeten'. Kunst K5 — Gartenkunst.",
+      "factsAdvanced": [
+        "Bekannt für seine üppigen, blühenden Bougainvillea-Sträucher.",
+        "Ein beliebter Ort für Hochzeitsfotografie.",
+        "Die Wege sind oft mit weißen Korallensteinen gesäumt.",
+        "Instand gehalten von einer lokalen Frauenkooperative.",
+        "Befindet sich im gehobenen historischen Viertel der Stadt.",
+        "Ein wunderschönes Beispiel für urbane Verschönerung."
+      ]
+    }
+  ]
+}

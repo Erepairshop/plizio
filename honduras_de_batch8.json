@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "honduras",
+  "files": [
+    "lib/visualLab/data/poiExtraHondurasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraHondurasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHondurasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHondurasLifeV2.ts",
+    "lib/visualLab/data/poiExtraHondurasNatureV2.ts",
+    "lib/visualLab/data/poiExtraHondurasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "montana-de-yoro-national-park-life-v2",
+      "descriptionAdvanced": "Der Nationalpark Montaña de Yoro ist eine majestätische und extrem isolierte Gebirgskette im Zentrum von Honduras. Dieser Nationalpark schützt eine der letzten großen, zusammenhängenden Flächen von Nebel- und Kiefernwäldern im Departement Yoro. Für die indigene Bevölkerung der Tolupanes, die am Rande des Parks lebt, ist der Wald eine wichtige Quelle für Wild, medizinische Pflanzen und Bauholz. Die steilen Schluchten und dichten Wälder bieten Lebensraum für Jaguare, Pumas und Hunderte von Vogelarten, bleiben jedoch aufgrund fehlender Straßen und touristischer Infrastruktur weitgehend unberührt. Naturwissenschaften K8 — Biodiversität und indigene Nutzung.",
+      "factsAdvanced": [
+        "Schützt ausgedehnte Nebel- und Kiefernwälder im Departement Yoro.",
+        "Dient als wichtiges ökologisches Rückzugsgebiet für Jaguare und Pumas.",
+        "Traditionelles Jagd- und Sammelgebiet für das indigene Volk der Tolupanes.",
+        "Aufgrund mangelnder Infrastruktur touristisch fast völlig unerschlossen.",
+        "Die Berge erreichen Höhen von über 2.200 Metern.",
+        "Spielt eine entscheidende Rolle für den regionalen Wasserhaushalt."
+      ]
+    },
+    {
+      "id": "montana-de-comayagua-life-v2",
+      "descriptionAdvanced": "Die Montaña de Comayagua erhebt sich dramatisch im Osten des gleichnamigen Tals und bildet eine massive natürliche Wand, die das Zentrum von Honduras durchschneidet. Diese Gebirgskette ist berühmt für ihr kühles, wolkenverhangenes Klima auf den Gipfeln, was sie zu einem perfekten Anbaugebiet für hochwertigen Kaffee macht. Der Nationalpark, der die höchsten Gipfel schützt, fungiert als primärer Wasserspeicher für die historische Hauptstadt Comayagua. Tiefe Schluchten und steile Abhänge prägen die Topografie, weshalb die meisten Siedlungen auf den tieferen, sonnigeren Hängen liegen. Geografie K7 — Gebirgsketten und Wasserscheiden.",
+      "factsAdvanced": [
+        "Eine markante Bergkette, die das historische Comayagua-Tal begrenzt.",
+        "Gipfelbereiche sind oft in dichten Nebel gehüllt und als Nationalpark geschützt.",
+        "Wichtigster Wasserspeicher für die Stadt Comayagua und umliegende Plantagen.",
+        "Ein hervorragendes, hochgelegenes Anbaugebiet für honduranischen Kaffee.",
+        "Erreicht maximale Höhen von über 2.400 Metern über dem Meeresspiegel.",
+        "Bietet steile, spektakuläre Wanderwege für extreme Ökotouristen."
+      ]
+    },
+    {
+      "id": "reserva-biologica-opalaca-life-v2",
+      "descriptionAdvanced": "Das Biologische Reservat Opalaca ist ein rauer, hochgelegener Nebelwald im Herzen des Lenca-Territoriums. Die Berge von Opalaca, die sich zwischen Intibucá und Lempira erstrecken, sind von dichten Eichen- und Kiefernwäldern bedeckt und weisen extrem schroffe Täler auf. Das Reservat ist von enormer kultureller Bedeutung, da in diesen Wäldern die Quellen heiliger Lenca-Flüsse entspringen und traditionelle landwirtschaftliche Terrassierungen in die Hänge geschnitten wurden. Opalaca beherbergt auch den vom Aussterben bedrohten Ozelot und den Quetzal, die in den ungestörten Baumkronen Zuflucht finden. Kultur und Natur K8 — Lenca-Territorien und Nebelwälder.",
+      "factsAdvanced": [
+        "Ein hochgelegenes biologisches Reservat im Westen von Honduras.",
+        "Tief verwurzelt im angestammten Territorium der indigenen Lenca.",
+        "Besteht überwiegend aus unberührten Eichen- und Kiefern-Nebelwäldern.",
+        "Beherbergt bedrohte Tierarten wie den Quetzal und den Ozelot.",
+        "Schützt die Quellgebiete wichtiger lokaler Flusssysteme.",
+        "Die Ränder des Reservats werden für traditionelle Subsistenzlandwirtschaft genutzt."
+      ]
+    },
+    {
+      "id": "reserva-biologica-la-muralla-life-v2",
+      "descriptionAdvanced": "Das Biologische Reservat La Muralla (Die Mauer) macht seinem Namen alle Ehre: Es ist eine massive, grüne Wand aus dichten Wäldern im Departement Olancho. La Muralla war in den 1990er Jahren eines der bestausgestatteten Naturschutzgebiete von Honduras mit ausgezeichneten Besucherzentren, bevor Tropenstürme und mangelnde staatliche Finanzierung die Infrastruktur beschädigten. Dennoch bleibt es ein herausragender Zufluchtsort für Jaguare, Tapire und Tukane. Die Wanderwege führen durch schattige Pfade, auf denen riesige Mahagonibäume und unzählige Schmetterlingsarten zu finden sind. Ökologie K7 — Tropische Fauna und Reservatsmanagement.",
+      "factsAdvanced": [
+        "Massives biologisches Reservat im bergigen Norden von Olancho.",
+        "Einst eines der bestverwalteten Schutzgebiete des Landes (1990er Jahre).",
+        "Wichtiger Zufluchtsort für große Säugetiere wie Jaguare und Baird-Tapire.",
+        "Der Name La Muralla (Die Mauer) beschreibt die steilen, bewaldeten Flanken.",
+        "Zieht internationale Vogelbeobachter auf der Suche nach Harpyien an.",
+        "Die touristische Infrastruktur hat unter massiven Stürmen gelitten."
+      ]
+    },
+    {
+      "id": "islas-del-cisne-nature-v2",
+      "descriptionAdvanced": "Die Islas del Cisne (Schwaneninseln) sind eine abgelegene, winzige Inselgruppe im Karibischen Meer, etwa 150 Kilometer vor der Nordküste von Honduras. Wegen ihrer extremen Isolation haben sich auf den Inseln einzigartige endemische Reptilienarten, darunter seltene Leguane, entwickelt. Historisch dienten die Inseln als Versteck für Piraten, im 20. Jahrhundert als guano-abbauendes Gebiet und sogar als geheime Basis des US-amerikanischen CIA während des Kalten Krieges (Radio Swan). Heute sind die Inseln größtenteils unbewohnt und stehen unter strengem Naturschutz als marines und terrestrisches Reservat. Geschichte und Biologie K8 — Insel-Endemismus und der Kalte Krieg.",
+      "factsAdvanced": [
+        "Eine der am stärksten isolierten Inselgruppen von Honduras in der Karibik.",
+        "Heimat der endemischen Swan-Island-Hutia und seltener Leguan-Arten.",
+        "Diente im Kalten Krieg als Standort für den CIA-Radiosender Radio Swan.",
+        "Wurde im 19. Jahrhundert massiv für den Guano-Abbau genutzt.",
+        "Die Inseln sind heute ein streng geschütztes marines Naturreservat.",
+        "Keine permanente Zivilbevölkerung, nur eine kleine Militärpräsenz."
+      ]
+    },
+    {
+      "id": "cerro-pico-cristal-nature-v2",
+      "descriptionAdvanced": "Cerro Pico Cristal, tief im Nationalpark Pico Bonito gelegen, ist einer der unzugänglichsten und wildesten Gipfel in Honduras. Umhüllt von dichtem, ewigem Nebelwald, ist der Berg nach dem kristallklaren Wasser der Flüsse benannt, die hier entspringen. Expeditionen zu diesem Gipfel erfordern Macheten, um durch das dichte Unterholz zu dringen, und eine ausgezeichnete physische Verfassung. Die Region um den Pico Cristal gilt als eines der letzten Rückzugsgebiete für den honduranischen Jaguar, da das unwegsame Terrain jeglichen Holzeinschlag oder Wilderei unmöglich macht. Geografie K8 — Unerforschte Berggipfel und Jaguar-Habitat.",
+      "factsAdvanced": [
+        "Extrem isolierter Gipfel innerhalb des Nationalparks Pico Bonito.",
+        "Benannt nach dem kristallklaren Quellwasser, das vom Berg herabfließt.",
+        "Eine der anspruchsvollsten und am wenigsten erforschten Zonen des Landes.",
+        "Tief verwurzelter primärer Nebelwald mit riesigen Baumfarnen.",
+        "Dient als ungestörter Lebensraum für den vom Aussterben bedrohten Jaguar.",
+        "Es gibt keine markierten Wege, Expeditionen erfordern lokale Führer."
+      ]
+    },
+    {
+      "id": "montana-de-comayagua-np-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark Montaña de Comayagua schützt die hoch gelegenen, dichten Nebelwälder, die sich östlich der Stadt Comayagua erstrecken. Diese massive Bergkette ist eine entscheidende ökologische Barriere in Zentralhonduras. Die dichten Epiphyten (Aufsitzerpflanzen) und Moose der Gipfelbäume saugen die Feuchtigkeit aus den Wolken und speisen so ein dichtes Netzwerk von Wasserfällen und Flüssen. Für die umliegenden ländlichen Gemeinden ist der Park das Rückgrat ihrer Landwirtschaft. Darüber hinaus ist der Park ein spektakuläres Gebiet für die Vogelbeobachtung, mit regelmäßigen Sichtungen des Quetzals in den höchsten Lagen. Biologie K7 — Nebelwälder als Wasserspeicher.",
+      "factsAdvanced": [
+        "Schützt das hochgelegene Ökosystem der Montaña de Comayagua.",
+        "Das feuchte Mikroklima ist essentiell für die Wasserversorgung im Tal.",
+        "Bedeckt von einem dichten Teppich aus Epiphyten, Bromelien und Moosen.",
+        "Ein idealer Ort für die Beobachtung des berühmten Quetzal-Vogels.",
+        "Erreicht Höhen von bis zu 2.407 Metern über dem Meeresspiegel.",
+        "Der Park ist stark von der Ausbreitung des Kaffeeanbaus bedroht."
+      ]
+    },
+    {
+      "id": "rio-ulua-nature-v2",
+      "descriptionAdvanced": "Der Río Ulúa ist der wichtigste und wirtschaftlich bedeutendste Fluss in Honduras. Er entspringt im westlichen Hochland, durchquert das Santa-Bárbara-Departement und mündet schließlich im massiven, fruchtbaren Sula-Tal in die Karibik. Historisch war der Ulúa eine zentrale Transportader für die Bananenunternehmen, die das Tal kontrollierten. Heute sichert sein Wasser die Bewässerung von Millionen Hektar landwirtschaftlicher Fläche, darunter Zuckerrohr und Palmöl. Gleichzeitig stellt der Ulúa eine enorme Gefahr dar; während schwerer Stürme und Hurrikane (wie Eta und Iota) verursacht der Fluss katastrophale Überschwemmungen. Geografie K7 — Große Flusssysteme und Überschwemmungsrisiken.",
+      "factsAdvanced": [
+        "Einer der größten und wasserreichsten Flüsse in ganz Zentralamerika.",
+        "Hauptquelle für die Bewässerung des hochproduktiven Sula-Tals.",
+        "Diente im frühen 20. Jahrhundert als Transportweg für den Bananenexport.",
+        "Neigt während der Hurrikan-Saison zu extrem zerstörerischen Überschwemmungen.",
+        "Mündet in die Karibik, wo er ein großes Delta bildet.",
+        "Ist stark von Verschmutzung durch industrielle und städtische Abwässer betroffen."
+      ]
+    },
+    {
+      "id": "laguna-de-los-micos-nature-v2",
+      "descriptionAdvanced": "Die Laguna de Los Micos im Jeannette Kawas Nationalpark ist eines der beeindruckendsten Lagunensysteme der Karibikküste. Umgeben von einem endlosen Labyrinth aus Mangrovenwäldern, ist das flache Brackwasser ein entscheidendes Fortpflanzungsgebiet für unzählige Meeresfische und Krebse. Die Lagune verdankt ihren Namen den zahlreichen Brüll- und Kapuzineraffen (Micos), die in den Bäumen entlang der Ufer leben. Auf dem Wasser sieht man oft traditionelle Garífuna-Fischer in ihren Einbäumen, die ihre Netze auswerfen. Im Winter zieht die Lagune tausende von nordamerikanischen Zugvögeln an. Biologie K6 — Mangrovenlagunen und Zugvögel.",
+      "factsAdvanced": [
+        "Riesige Brackwasserlagune innerhalb des Jeannette Kawas Nationalparks.",
+        "Benannt nach den zahlreichen Affen (Micos), die in den Uferwäldern leben.",
+        "Ein essenzielles Fortpflanzungsgebiet (Kinderstube) für karibische Meereslebewesen.",
+        "Wichtiges Überwinterungsgebiet für Tausende von Zugvögeln aus Nordamerika.",
+        "Traditionelles Fischereigebiet für die nahe gelegenen Garífuna-Dörfer.",
+        "Geprägt von dichten roten, weißen und schwarzen Mangrovenwäldern."
+      ]
+    },
+    {
+      "id": "tawahka-asagni-reservat-nature-v2",
+      "descriptionAdvanced": "Das Biosphärenreservat Tawahka Asangni liegt tief in der schwer zugänglichen Region La Mosquitia. Es wurde speziell zum Schutz der extrem bedrohten indigenen Tawahka-Kultur sowie ihres angestammten Regenwaldes eingerichtet. Das Reservat wird vom mächtigen Río Patuca durchschnitten, der als einzige Verkehrsader der Tawahka dient. Hier findet man noch primären tropischen Regenwald, in dem Riesenotter, Jaguare und Harpyien heimisch sind. Die Tawahka kämpfen seit Jahrzehnten gegen illegale Holzwirtschaft, Goldgräber und den Bau von Staudämmen, um ihre isolierte Lebensweise und dieses gigantische Dschungelgebiet zu bewahren. Kultur und Umwelt K8 — Indigene Reservate und der Río Patuca.",
+      "factsAdvanced": [
+        "Gegründet, um das Land und die Kultur der indigenen Tawahka zu schützen.",
+        "Liegt im unzugänglichen, dichten Regenwald der Mosquitia-Region.",
+        "Der mächtige Fluss Río Patuca ist die wichtigste Lebens- und Transportader.",
+        "Ein Hotspot für bedrohte Großtierarten wie den Jaguar und Riesenotter.",
+        "Leidet stark unter dem Vordringen illegaler Holzfäller und Viehzüchter.",
+        "Eines der größten unberührten Regenwaldgebiete in Zentralamerika."
+      ]
+    },
+    {
+      "id": "rio-negro-nature-v2",
+      "descriptionAdvanced": "Der Río Negro (Schwarzer Fluss) an der südlichen Pazifikküste von Honduras bildet die natürliche Grenze zu Nicaragua, bevor er in den Golf von Fonseca mündet. Der Fluss hat seinen Namen von der dunklen Färbung seines Wassers, das durch Sedimente aus den extrem trockenen Böden des südlichen Corredor Seco entsteht. Er ist eine essenzielle Lebensader für die Landwirtschaft in dieser dürregeplagten Region und versorgt riesige Wassermelonen- und Zuckerrohrplantagen. In der Nähe der Mündung formt der Río Negro dichte, ökologisch äußerst wertvolle Mangrovenwälder, die als Brutgebiet für die kommerzielle Garnelenzucht dienen. Geografie K7 — Grenzflüsse und pazifische Mangroven.",
+      "factsAdvanced": [
+        "Bildet teilweise die internationale Grenze zwischen Honduras und Nicaragua im Süden.",
+        "Mündet in den Pazifischen Ozean (Golf von Fonseca).",
+        "Eine unverzichtbare Wasserquelle in einem der trockensten Teile des Landes.",
+        "Die Mündung beherbergt riesige, ökologisch wichtige Mangrovenwälder.",
+        "Dient der Bewässerung der regionalen Melonen- und Zuckerrohrplantagen.",
+        "Das Delta ist ein Zentrum für die industrielle honduranische Garnelenzucht."
+      ]
+    },
+    {
+      "id": "laguna-de-alvarado-nature-v2",
+      "descriptionAdvanced": "Die Laguna de Alvarado ist eine markante Lagune im Zentrum der industriellen Hafenstadt Puerto Cortés. Obwohl sie durch den intensiven Schiffsverkehr, städtische Abwässer und Industrieanlagen stark umweltbelastet ist, spielt sie eine fundamentale Rolle für die Ökologie der Küste. Die Lagune wird durch einen schmalen Kanal mit dem Karibischen Meer verbunden und wird von dichten Mangroven gesäumt, die trotz der Verschmutzung ein Refugium für Seevögel und kleine Reptilien bieten. Für die Stadt dient die Lagune auch als natürlicher Puffer bei starken tropischen Stürmen, indem sie überschüssiges Regenwasser aufnimmt. Ökologie K8 — Urbane Gewässer und industrielle Verschmutzung.",
+      "factsAdvanced": [
+        "Eine große Brackwasserlagune inmitten der Hafenstadt Puerto Cortés.",
+        "Verbunden mit dem Karibischen Meer durch einen schmalen natürlichen Kanal.",
+        "Leidet erheblich unter industrieller und städtischer Umweltverschmutzung.",
+        "Bewahrt trotz der Industrie kleine, resistente Mangrovenwälder an den Rändern.",
+        "Fungiert als wichtiger Puffer gegen Überschwemmungen bei Hurrikanen.",
+        "Beliebter Aufenthaltsort für Pelikane und andere Seevögel."
+      ]
+    },
+    {
+      "id": "la-muralla-nationalpark-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark La Muralla ist ein gewaltiges, grünes Bergmassiv im nordwestlichen Olancho, das als eine uneinnehmbare \"Mauer\" aus Bäumen und Felsen erscheint. Dieser dichte, mehrstöckige Wald beherbergt eine der höchsten Konzentrationen an Farnen und Epiphyten (Aufsitzerpflanzen) im ganzen Land, da die Region fast ununterbrochen von feuchten Wolken bedeckt ist. Die steilen, abgelegenen Hänge schützen einige der letzten großen Raubkatzenpopulationen Zentralamerikas, einschließlich Jaguare und Ozelots. Ein Großteil des Parks ist völlig unzugänglich und fungiert als natürliche Barriere gegen die landwirtschaftliche Erschließung im Hinterland. Biologie K7 — Biodiversitäts-Hotspots und natürliche Barrieren.",
+      "factsAdvanced": [
+        "Ein massives Bergmassiv in Olancho, das an eine bewaldete Mauer erinnert.",
+        "Ein herausragendes Beispiel für einen hoch gelegenen, dichten Nebelwald.",
+        "Bekannt für eine enorme Konzentration an wilden Orchideen und Farnen.",
+        "Dient als Rückzugsgebiet für die größten Raubkatzen Zentralamerikas.",
+        "Verfügt nur über sehr rudimentäre, schwer zugängliche Wanderwege.",
+        "Die extrem steilen Hänge verhindern erfolgreich den illegalen Holzeinschlag."
+      ]
+    },
+    {
+      "id": "cerro-el-pital-nature-v2",
+      "descriptionAdvanced": "Der Cerro El Pital, direkt an der Grenze zu El Salvador gelegen, ist der dritthöchste Gipfel in Honduras und der höchste in El Salvador. Das Bergmassiv ist bekannt für sein ungewöhnlich kaltes Klima; in den Nächten zwischen Dezember und Februar fallen die Temperaturen regelmäßig nahe den Gefrierpunkt, was in Zentralamerika extrem selten ist. Der dichte, feuchte Nebelwald auf dem Gipfel ist ein Paradies für Naturliebhaber und beherbergt endemische Flora, die an das raue Wetter angepasst ist. Auf honduranischer Seite (Ocotepeque) wird der Berg intensiv für den Anbau von Kohl, Pfirsichen und Blumen genutzt. Geografie K7 — Hochgebirgsklima und Landwirtschaft.",
+      "factsAdvanced": [
+        "Dritthöchster Gipfel in Honduras (über 2.700 Meter).",
+        "Bildet die internationale Berg-Grenze zwischen Honduras und El Salvador.",
+        "Einer der wenigen Orte in Honduras, an dem Temperaturen nahe 0 °C erreicht werden.",
+        "Der dichte Nebelwald beherbergt Flora, die an Kälte angepasst ist.",
+        "Ein Großteil der Hänge wird für den Anbau von Gemüse und Bergfrüchten genutzt.",
+        "Beliebtes Ziel für extremes Camping und Bergsteigen."
+      ]
+    },
+    {
+      "id": "aguacatal-waldreservat-nature-v2",
+      "descriptionAdvanced": "Das Waldreservat Aguacatal ist eine kleine, aber essenzielle Schutzzone, die vorwiegend für die Erhaltung der Trinkwasserressourcen eingerichtet wurde. Diese dichten Nadel- und Eichenwälder wirken wie ein riesiger Schwamm, der während der heftigen tropischen Regenfälle das Wasser aufnimmt und langsam an die umliegenden ländlichen Gemeinden abgibt. Ohne das Aguacatal-Reservat würden die Täler während der langen Trockenzeit austrocknen. Die lokalen Gemeinden patrouillieren oft selbst in diesen Wäldern, um illegalen Holzeinschlag und Waldbrände, die durch Brandrodung entstehen, zu verhindern, was das Reservat zu einem Modell für kommunalen Umweltschutz macht. Umwelt K6 — Wassereinzugsgebiete und kommunaler Naturschutz.",
+      "factsAdvanced": [
+        "Primär zum Schutz von kritischen Wassereinzugsgebieten ausgewiesen.",
+        "Besteht zu großen Teilen aus tropischen Kiefern- und Eichenwäldern.",
+        "Verhindert durch seine Schwammfunktion extreme Dürren im Sommer.",
+        "Wird aktiv von lokalen Bauerngemeinschaften geschützt und patrouilliert.",
+        "Ständig bedroht durch Waldbrände infolge landwirtschaftlicher Brandrodung.",
+        "Bietet Zuflucht für zahlreiche kleine Säugetiere und Bergvögel."
+      ]
+    },
+    {
+      "id": "montana-de-la-sierra-nature-v2",
+      "descriptionAdvanced": "Die Montaña de La Sierra ist eine mächtige, zerklüftete Gebirgskette im südwestlichen Hochland von Honduras (Departement Intibucá/La Paz). Diese Region zeichnet sich durch ihre rauen, oft windgepeitschten Plateaus und tiefen, isolierten Täler aus. Die extreme Höhe sorgt für ein kühles Mikroklima, das die Entwicklung von Kiefernwäldern begünstigt, in denen eine Vielzahl von Hirscharten lebt. Diese Bergkette hat auch eine immense kulturelle Bedeutung, da sie historisch eine fast unüberwindbare Barriere bildete, die es den indigenen Lenca-Gemeinschaften ermöglichte, ihre Sprache und ihre Traditionen vor der völligen Assimilation durch die Spanier zu schützen. Geografie K8 — Kulturelle Isolation und Bergplateaus.",
+      "factsAdvanced": [
+        "Zerklüftete Gebirgskette im indigenen Kernland (Intibucá und La Paz).",
+        "Präsentiert sich durch windgepeitschte, kühle Hochebenen.",
+        "Die raue Topografie bot historischen Schutz für die Lenca-Bevölkerung.",
+        "Dominiert von weiten, widerstandsfähigen Kiefernwäldern.",
+        "Ein wichtiges Rückzugsgebiet für den honduranischen Weißwedelhirsch.",
+        "Viele isolierte Täler innerhalb der Kette haben keine Straßenanbindung."
+      ]
+    },
+    {
+      "id": "punta-sal-nationalpark-nature-v2",
+      "descriptionAdvanced": "Der Punta Sal Nationalpark (heute offiziell Jeannette Kawas) zeichnet sich durch seine spektakuläre karibische Schönheit aus, wo extrem dichter, primärer Regenwald direkt auf weiße Sandstrände und das offene Meer trifft. Diese Übergangszone ist weltweit einzigartig, da sie Korallenriffe, Mangrovenlagunen und tropischen Dschungel auf engstem Raum verbindet. Forscher haben hier Hunderte von Orchideenarten katalogisiert, die in den Feuchtwäldern auf den Klippen gedeihen. Die Küstenabschnitte sind zudem einer der wichtigsten Nistplätze für gefährdete Karettschildkröten an der honduranischen Nordküste, was nächtliche Patrouillen während der Brutsaison erfordert. Biologie K8 — Meeresökosysteme und Schildkrötenschutz.",
+      "factsAdvanced": [
+        "Eine Zone, in der dichter Regenwald direkt auf das Karibische Meer trifft.",
+        "Verbindet Korallenriffe, Strände und Dschungel auf engstem Raum.",
+        "Die Klippen und Bäume beherbergen eine enorme Vielfalt an wilden Orchideen.",
+        "Einer der wichtigsten Nistplätze für vom Aussterben bedrohte Meeresschildkröten.",
+        "Ehemaliges Versteck von Piraten im 17. und 18. Jahrhundert.",
+        "Offiziell umbenannt zu Ehren der ermordeten Umweltschützerin Jeannette Kawas."
+      ]
+    },
+    {
+      "id": "el-carbon-berg-nature-v2",
+      "descriptionAdvanced": "Der Cerro El Carbón, tief im indigenen Pech-Territorium im Departement Olancho gelegen, ist nicht nur eine geografische Erhebung, sondern ein heiliger Ort. Der Berg verdankt seinen Namen (\"Die Kohle\") seiner dichten, extrem dunklen Bewaldung und den historischen Kohlenmeilern der Einheimischen. Für die Pech-Kultur ist der Berg der Wohnort mächtiger Naturgeister, weshalb die Abholzung in großen Teilen des Berges streng tabu ist. Dieser tief verwurzelte kulturelle Glaube hat paradoxerweise zu einem der effektivsten und ursprünglichsten Waldschutzsysteme in ganz Zentralamerika geführt, in dem die Biodiversität unangetastet bleibt. Kultur und Ökologie K7 — Heilige Berge und indigener Umweltschutz.",
+      "factsAdvanced": [
+        "Ein heiliger Berg im Zentrum des indigenen Pech-Territoriums (Olancho).",
+        "Der Name El Carbón stammt von den dunkel bewaldeten Hängen.",
+        "Gilt in der Pech-Mythologie als Wohnort von Naturgeistern und Ahnen.",
+        "Traditionelle Tabus haben den Berg erfolgreich vor der Abholzung bewahrt.",
+        "Ein herausragendes Beispiel für nativen, kulturell motivierten Umweltschutz.",
+        "Der dichte Wald beherbergt viele traditionelle honduranische Heilpflanzen."
+      ]
+    },
+    {
+      "id": "hn-montanas-de-pico-bonito-relief-v2",
+      "descriptionAdvanced": "Die Gebirgskette Pico Bonito (Montañas de Pico Bonito) ist das steilste und dramatischste Relief an der Atlantikküste von Honduras. Das Massiv steigt auf einer Strecke von nur wenigen Kilometern von Meereshöhe auf über 2.435 Meter an. Diese steile Wand fungiert als massiver Wolkenfänger; die von der Karibik aufsteigenden Passatwinde regnen sich hier ab und machen die Nordhänge zu einer der niederschlagsreichsten Zonen des Landes. Die tiefen, V-förmigen Schluchten (Canyons), die in den Granit geschnitten sind, erzeugen reißende Wildwasserflüsse wie den Río Cangrejal, die extreme Erosionskräfte entfalten. Geografie K8 — Orografischer Niederschlag und Canyons.",
+      "factsAdvanced": [
+        "Steilste Gebirgskette an der honduranischen Karibikküste (bis über 2.400 m).",
+        "Das Massiv zwingt die Passatwinde zum Aufsteigen, was extremen Regen erzeugt.",
+        "Die Nordhänge erhalten einige der höchsten Niederschlagsmengen des Landes.",
+        "Tiefe V-förmige Granitschluchten leiten die Wassermassen ins Meer.",
+        "Ursprung des berühmten Wildwasserflusses Río Cangrejal.",
+        "Weite Teile der oberen Hänge sind zu steil für jegliche menschliche Besiedlung."
+      ]
+    },
+    {
+      "id": "hn-cordillera-nombre-de-dios-relief-v2",
+      "descriptionAdvanced": "Die Cordillera Nombre de Dios ist die dominierende Gebirgskette entlang der nördlichen Karibikküste und verläuft fast parallel zum Meer. Sie reicht vom Sula-Tal bis tief ins Departement Colón. Diese Kette bildet eine natürliche, geografische und klimatische Barriere, die das trockene Binnenland von Olancho von den tropischen Regenfällen der Küstenebenen trennt. Die Berge sind extrem schroff und von tiefen, schwer zugänglichen Tälern durchzogen, die historisch den Bau von Straßen behinderten und so eine natürliche Schutzmauer für den Regenwald und seine Tierwelt (darunter Jaguare und Harpyien) bildeten. Geografie K7 — Klimabarrieren und Küstengebirge.",
+      "factsAdvanced": [
+        "Die wichtigste, parallel zur Karibikküste verlaufende Gebirgskette in Honduras.",
+        "Fungiert als gigantische natürliche Klimabarriere zwischen Küste und Binnenland.",
+        "Reicht vom industriellen Sula-Tal bis tief in den Osten nach Colón.",
+        "Die raue Topografie verhinderte lange Zeit den Ausbau von Verkehrswegen.",
+        "Beherbergt große Nationalparks, darunter Pico Bonito und Texíguat.",
+        "Das Relief ist durch tief eingeschnittene, bewaldete Täler gekennzeichnet."
+      ]
+    },
+    {
+      "id": "hn-cerro-azul-meambar-relief-v2",
+      "descriptionAdvanced": "Das Relief des Cerro Azul Meámbar zeichnet sich durch einen gewaltigen, hoch aufragenden Gebirgsblock aus, der auf der östlichen Seite des Yojoa-Sees (Lago de Yojoa) emporsteigt. Die geologische Struktur ist durch vulkanische Aktivitäten und starke tektonische Verwerfungen geprägt. Die Hänge fallen auf der westlichen Seite extrem steil in das Seebecken ab, was unzählige kleine, kaskadenartige Wasserfälle erzeugt. Dieses stark geneigte Profil führt dazu, dass sich auf engstem Raum verschiedene Höhenstufen bilden, die in der Tiefe tropischen Regenwald und auf dem Gipfelplateau in über 2.000 Metern Höhe kühlen, dichten Nebelwald beherbergen. Geografie K7 — Tektonik, Höhenstufen und Kraterseen.",
+      "factsAdvanced": [
+        "Massiver Gebirgsblock, der sich direkt neben dem Yojoa-See (Lago de Yojoa) erhebt.",
+        "Die steilen Westhänge fallen dramatisch in das vulkanische Seebecken ab.",
+        "Erzeugt unzählige Kaskaden und Wasserfälle aufgrund des steilen Reliefs.",
+        "Geprägt durch tektonische Verwerfungen und alte vulkanische Aktivitäten.",
+        "Besitzt extreme klimatische Höhenstufen auf sehr kurzer Distanz.",
+        "Die Gipfelregion ist ein klassisches, flacheres Nebelwald-Plateau (Meseta)."
+      ]
+    },
+    {
+      "id": "hn-cordillera-de-el-merendon-high-relief-v2",
+      "descriptionAdvanced": "Die Cordillera de El Merendón ist die lebenswichtige, hoch aufragende Gebirgskette an der Grenze zu Guatemala, die das heiße, industrielle Sula-Tal vor karibischen Stürmen schützt. Das Relief besteht aus massiven Kalkstein- und Karstformationen, die von steilen Kliffs und tiefen unterirdischen Höhlensystemen durchsetzt sind. Diese schroffe Bergkette ist das wichtigste Wassereinzugsgebiet für die Millionenstadt San Pedro Sula. Die scharfe orografische Struktur fängt die feuchten Winde aus der Karibik ein und zwingt sie zum Abregnen, was die üppigen Nebelwälder in den höheren Lagen speist, wie sie im Nationalpark Cusuco zu finden sind. Geografie K8 — Karstgebirge, Wasserscheiden und Orographie.",
+      "factsAdvanced": [
+        "Mächtige Gebirgskette, die das westliche Honduras von Guatemala trennt.",
+        "Bildet eine schützende Wand westlich der Industriestadt San Pedro Sula.",
+        "Geprägt durch Karstgestein mit tiefen Höhlen und unterirdischen Flüssen.",
+        "Das steile Relief zwingt Karibikwinde zum Abregnen (Steigungsregen).",
+        "Das wichtigste Trinkwasserreservoir für das bevölkerungsreiche Sula-Tal.",
+        "Beherbergt in den Gipfellagen den dichten Nebelwald des Cusuco Nationalparks."
+      ]
+    },
+    {
+      "id": "hn-cordillera-de-la-paz-relief-v2",
+      "descriptionAdvanced": "Die Cordillera de La Paz (und Intibucá) bildet das südwestliche Hochland von Honduras. Im Gegensatz zu den schroffen Gipfeln im Norden ist dieses Relief durch weite, hochgelegene Hochebenen (Mesetas) gekennzeichnet, die von tief eingeschnittenen, trockenen Flusstälern zerschnitten werden. Auf Höhen zwischen 1.500 und 2.000 Metern bietet diese Gebirgskette das kälteste Klima des Landes. Das hügelige, oft von Pinien dominierte Terrain macht es schwer für großflächige Landwirtschaft, ist jedoch perfekt für den terrassierten Anbau von Kartoffeln und Kaffee. Diese Hochplateaus waren historisch der ideale natürliche Rückzugsort für das indigene Lenca-Volk. Geografie K7 — Mesetas, Hochlandklima und indigene Zufluchten.",
+      "factsAdvanced": [
+        "Eine hochgelegene Bergkette, die aus weiten Hochebenen (Mesetas) besteht.",
+        "Wird von extrem tief eingeschnittenen, trockenen Canyons durchkreuzt.",
+        "Bietet aufgrund der ständigen Höhe (über 1.500 m) das kühlste Klima in Honduras.",
+        "Die sanften Hochebenen werden traditionell für Kartoffel- und Gemüseanbau terrassiert.",
+        "Historischer und natürlicher Rückzugsort für die indigenen Gemeinschaften der Lenca.",
+        "Dominiert von weiten, windgepeitschten Kiefern- und Eichenwäldern."
+      ]
+    },
+    {
+      "id": "hn-valle-de-comayagua-relief-v2",
+      "descriptionAdvanced": "Das Valle de Comayagua ist ein riesiger, flacher Grabenbruch mitten im Zentrum von Honduras, der durch starke tektonische Verwerfungen entstanden ist. Das Relief des Tals ist außergewöhnlich eben, was in krassem Gegensatz zu den extrem steilen Gebirgsmassiven steht, die es wie eine Mauer im Osten und Westen einschließen. Diese flache, breite Ebene macht das Tal zum landwirtschaftlichen Herzen des Landes, ideal für großflächige Bewässerungssysteme und Gewächshäuser. Die einzigartige topografische Beschaffenheit bündelt zudem thermische Winde, was das Tal ungewöhnlich heiß und trocken hält, bis fortschrittliche Bewässerung es in eine Export-Oase verwandelte. Geografie K8 — Grabenbrüche, tektonische Täler und Thermik.",
+      "factsAdvanced": [
+        "Ein massiver, flacher Grabenbruch im geografischen Zentrum von Honduras.",
+        "Entstanden durch gigantische tektonische Verwerfungen vor Millionen Jahren.",
+        "Wird von den schroffen Bergen von Comayagua und Montecillos eingerahmt.",
+        "Die extreme Ebenheit macht es zum idealen Standort für großflächige Landwirtschaft.",
+        "Die Topografie erzeugt heiße, trockene thermische Winde im Talboden.",
+        "Beherbergt den internationalen Flughafen Palmerola aufgrund seiner flachen Weite."
+      ]
+    },
+    {
+      "id": "hn-valle-de-aguán-relief-v2",
+      "descriptionAdvanced": "Das Valle de Aguán ist ein riesiges Flusstal im Norden von Honduras (Departemente Yoro und Colón). Das Relief wird bestimmt durch den Lauf des Río Aguán, der im Laufe von Jahrtausenden Sedimente aus den Bergen abgetragen und hier als breite, flache Alluvialebene abgelagert hat. Diese tiefgründigen Schwemmböden gehören zu den fruchtbarsten des ganzen Landes. Das Tal ist extrem flach und fällt sanft zur Karibikküste hin ab. Diese geografische Besonderheit ermöglicht den unendlichen Anbau von afrikanischen Ölpalmen, macht die Region jedoch gleichzeitig bei Hurrikanen extrem anfällig für weitreichende, katastrophale Überschwemmungen. Geografie K7 — Alluvialebenen, Schwemmböden und Überschwemmungen.",
+      "factsAdvanced": [
+        "Eine riesige, flache Alluvialebene, geformt durch den Fluss Río Aguán.",
+        "Besitzt die fruchtbarsten Sedimentböden (Schwemmböden) in ganz Nordhonduras.",
+        "Fällt über Dutzende von Kilometern sanft in Richtung Karibisches Meer ab.",
+        "Die flache Topografie ist ideal für den großflächigen Anbau von afrikanischen Ölpalmen.",
+        "Wegen des fehlenden Gefälles extrem anfällig für langanhaltende Überschwemmungen.",
+        "Wird im Norden durch die Cordillera Nombre de Dios von der Küste abgeschirmt."
+      ]
+    }
+  ]
+}

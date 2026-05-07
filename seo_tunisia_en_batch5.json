@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kebili-cities-v2",
+      "descriptionAdvanced": "Kebili is one of the oldest oasis cities in the southern Sahara, serving as a historic crossroads for trans-Saharan trade routes. Located on the edge of the Chott el-Jerid salt flats, the city thrives on date cultivation and acts as a central hub for the remote southern regions of Tunisia. Its desert atmosphere and proximity to nomadic culture provide a deep look into the life of the southern interior, far removed from the coastal bustle. Kebili remains an vital outpost for regional commerce and Saharan exploration. Geography K7: Trans-Saharan trade history and the importance of oasis hubs in remote desert regions.",
+      "factsAdvanced": [
+        "Historic crossroads for Saharan trade routes",
+        "Situated on the edge of Chott el-Jerid",
+        "Key center for desert date cultivation",
+        "Central hub for remote southern Tunisia",
+        "Reflects traditional southern Saharan life",
+        "Essential outpost for regional desert commerce"
+      ]
+    },
+    {
+      "id": "gabes-cities-v2",
+      "descriptionAdvanced": "Gabès is a unique coastal-oasis city, where a lush inland palm grove extends all the way to the Mediterranean shore. This rare geographical feature makes it one of the few places in the world where one can swim in the sea while standing in the shade of a date palm forest. Beyond this, Gabès is a major industrial center for chemical and phosphate processing, creating a fascinating contrast between nature and heavy industry. It serves as the primary trade gateway to the Libyan border and southern Tunisia. Geography K8: Analyzing unique coastal-oasis ecosystems and the juxtaposition of tourism and industrial land use.",
+      "factsAdvanced": [
+        "Rare coastal-oasis geographical feature",
+        "Palm grove extending to the Mediterranean Sea",
+        "Major industrial hub for chemical processing",
+        "Primary gateway to southern Tunisia and Libya",
+        "Contrast between nature and heavy industry",
+        "Historically significant trade harbor"
+      ]
+    },
+    {
+      "id": "medenine-cities-v2",
+      "descriptionAdvanced": "Medenine is a historic trade city in the southeast, famed for its 'Ghorfas'—traditional multi-story communal granaries that were once used by nomadic tribes to store their grain. These architectural wonders define the city’s identity as a former center for Saharan commerce and regional tribal organization. Today, Medenine acts as the administrative and commercial capital of the far south, connecting the mainland to the island of Djerba. The city remains a key reference point for understanding the history of southern Tunisian Berber architecture and rural social structures. Geography K8: The study of traditional agricultural storage architecture and regional trade history.",
+      "factsAdvanced": [
+        "Home to historic 'Ghorfas' communal granaries",
+        "Former vital center for Saharan commerce",
+        "Commercial capital of the far south",
+        "Key transit city to Djerba Island",
+        "Reflects historic southern Berber architecture",
+        "Historical hub for nomadic grain storage"
+      ]
+    },
+    {
+      "id": "tataouine-cities-v2",
+      "descriptionAdvanced": "Tataouine, a city situated in the rugged southeastern desert, is famous for its unique 'ksour'—fortified Berber villages built on mountaintops, which once protected mountain tribes. The city's landscape, featuring arid plains and dramatic mountain ridges, has gained global fame as a filming location for science fiction classics like Star Wars. Tataouine serves as a cultural hub for the southern Berber-speaking communities and a gateway for exploring the remote Saharan landscape. It represents the intersection of ancient history, tribal resilience, and modern cultural pop-culture status. Geography K8: The intersection of rugged geography, fortified settlement patterns, and modern tourism.",
+      "factsAdvanced": [
+        "Famous for mountaintop 'ksour' villages",
+        "Cultural center for Berber communities",
+        "Global pop-culture fame as a filming location",
+        "Gateway to remote Saharan landscapes",
+        "Rugged, arid desert terrain",
+        "Historically fortified mountain tribal settlements"
+      ]
+    },
+    {
+      "id": "houmt-souk-cities-v2",
+      "descriptionAdvanced": "Houmt Souk is the main market town and administrative center of Djerba Island, reflecting a rich tapestry of Djerbian, Berber, and Mediterranean cultures. The city is famous for its lively traditional markets, historic mosques, and the imposing Borj el-Kebir fortress that guards the harbor. With its white-washed architecture and palm-lined streets, Houmt Souk is the beating heart of Djerba, blending tourism, traditional crafts, and island life. It is the perfect destination for experiencing the authentic island identity. Geography K7: Island urban planning and the role of central market towns in archipelago economies.",
+      "factsAdvanced": [
+        "Main market town of Djerba Island",
+        "Diverse Berber and Mediterranean culture",
+        "Features the historic Borj el-Kebir fortress",
+        "Lively traditional souk markets",
+        "Famous white-washed island architecture",
+        "Center of local island crafts and trade"
+      ]
+    }
+  ]
+}

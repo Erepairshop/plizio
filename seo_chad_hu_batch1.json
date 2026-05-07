@@ -1,0 +1,75 @@
+{
+  "lang": "hu",
+  "country": "chad",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraChadLifeV2.ts",
+    "lib/visualLab/data/poiExtraChadNatureV2.ts",
+    "lib/visualLab/data/poiExtraChadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ndjamena-cities-v2",
+      "descriptionAdvanced": "N'Djamena, a Chari és a Logone folyók összefolyásánál fekvő főváros, Csád politikai és kereskedelmi központja. Az 1900-ban alapított város egykor Fort-Lamy néven volt ismert, ma pedig a Száhel-övezet egyik legfontosabb kereskedelmi csomópontja. A városban a modern kormányzati épületek mellett élénk hagyományos piacok találhatók, amelyek tükrözik Csád etnikai sokszínűségét. N'Djamena stratégiai fekvése révén kapu a Csád-tó vidékére és az ország elszigeteltebb régióiba is. Földrajz K7 — Flusssysteme und urbane Entwicklung.",
+      "factsAdvanced": [
+        "Főváros az 1900-as alapítás óta",
+        "A Logone és a Chari folyók találkozásánál fekszik",
+        "Az ország legfontosabb kereskedelmi csomópontja",
+        "Több mint 1 millió lakosú metropolisz",
+        "A Nemzeti Múzeum otthona",
+        "Stratégiai kapu a Száhel-övezet kereskedelméhez"
+      ]
+    },
+    {
+      "id": "moundou-cities-v2",
+      "descriptionAdvanced": "Moundou Csád második legnagyobb városa, az ország ipari fellegvára, amely a Logone folyó partján fekszik. A város különösen ismert sörgyártásáról, amely a nemzeti gazdaság fontos részét képezi. A környező régió termékeny talaja kiváló feltételeket biztosít a mezőgazdaságnak, különösen a gyapottermesztésnek, ami Moundou-t kereskedelmi központtá emelte. A város oktatási és kulturális központként is szolgál a dél-csádi régió számára, ötvözve a hagyományos kereskedelmet a modern ipari folyamatokkal. Gazdaságtan K9 — Ipari fejlődés vidéken.",
+      "factsAdvanced": [
+        "Csád második legnagyobb városa",
+        "A nemzeti sörgyártás központja",
+        "Fontos kereskedelmi központ a Logone partján",
+        "Kiemelkedő gyapotfeldolgozó ipar",
+        "A déli régió fő oktatási központja",
+        "A kameruni határhoz közeli stratégiai fekvés"
+      ]
+    },
+    {
+      "id": "sarh-cities-v2",
+      "descriptionAdvanced": "Sarh, korábbi nevén Fort Archambault, Csád egyik legfontosabb városa az ország déli részén, a Chari folyó partján. A város a régió közigazgatási és mezőgazdasági központja, amely fontos szerepet játszott a gyarmati időkben is. A környező terület gazdag mezőgazdasági terményekben, így a kereskedelem Sarh életének alapja. A város hangulata csendesebb, mint a fővárosé, de kulturális öröksége és elhelyezkedése miatt fontos összekötő pont a központi és déli területek között. Történelem K8 — Gyarmati örökség és városfejlődés.",
+      "factsAdvanced": [
+        "Korábbi neve Fort Archambault volt",
+        "A Chari folyó partján fekszik",
+        "Fontos regionális mezőgazdasági központ",
+        "A déli régió közigazgatási központja",
+        "Kereskedelmi csomópont a központi területek felé",
+        "Hosszú történelmi múlt a gyarmati idők óta"
+      ]
+    },
+    {
+      "id": "abeche-cities-v2",
+      "descriptionAdvanced": "Abéché, az egykori Ouaddaï Szultánság központja, Csád egyik legrégebbi és legfontosabb kulturális városa a keleti régióban. A város sivatagi kereskedelmi központként fejlődött ki, amely a karavánutak fontos állomása volt. Ma Abéché az ország keleti részének közigazgatási központja, amely számos történelmi mecsettel és tradícióval büszkélkedhet. A száraz éghajlat ellenére a város fontos kereskedelmi kapcsolatokat tart fenn Szudánnal és a környező nomád törzsekkel. Történelem K8 — Sivatagi szultánságok és kereskedelem.",
+      "factsAdvanced": [
+        "Az egykori Ouaddaï Szultánság fővárosa",
+        "Kelet-Csád közigazgatási központja",
+        "Történelmi karavánút-csomópont",
+        "Számos történelmi mecset otthona",
+        "Fontos kereskedelmi kapu Szudán felé",
+        "A keleti nomád régiók kereskedelmi központja"
+      ]
+    },
+    {
+      "id": "kelo-cities-v2",
+      "descriptionAdvanced": "Kélo Csád egyik dinamikusan fejlődő városa a déli Tandjilé régióban. A mezőgazdaságra épülő helyi gazdaság különösen a gabonafélék és a pamut termesztésére koncentrál, ami a város fellendülését biztosítja. Kélo fontos piaci központ, ahova a környező falvak lakói érkeznek termékeik értékesítésére. A város társadalmi élete és oktatási intézményei a déli területek növekvő jelentőségét mutatják. Földrajz K5 — Mezőgazdaság és települések.",
+      "factsAdvanced": [
+        "A Tandjilé régióhoz tartozik",
+        "Mezőgazdasági kereskedelmi központ",
+        "Kiemelkedő gabonatermesztési régió",
+        "Fontos helyi piac a környező falvak számára",
+        "Növekvő oktatási jelentőség a régióban",
+        "Stratégiai pont a déli mezőgazdasági útvonalakon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mong-cai-cities-v2",
+      "descriptionAdvanced": "Móng Cái Quảng Ninh tartomány fontos határvárosa, amely közvetlen kapcsolatot biztosít Kínával. A várost a nemzetközi kereskedelmi forgalom mellett a közeli, hosszú homokos partszakaszáról, a Trà Cổ strandról is ismerik, ami jelentős turisztikai vonzerőt jelent a határ menti térségben. Földrajz K6 — határok és turizmus.",
+      "factsAdvanced": [
+        "Közvetlen határos a kínai Dongxing városával",
+        "A Trà Cổ strand az egyik leghosszabb Vietnámban",
+        "Élénk határmenti piacok és kereskedelmi központ",
+        "Fontos szerepet tölt be az északkeleti turizmusban",
+        "Kulturális olvasztótégely a vietnámi és kínai hatások között",
+        "A tartomány legészakibb pontjának kapuja"
+      ]
+    },
+    {
+      "id": "lao-cai-cities-v2",
+      "descriptionAdvanced": "Lào Cai az északnyugati hegyvidék legfontosabb határvárosa, amely az 1900-as évek eleje óta a kínai kereskedelmi kapcsolatok kulcsfontosságú kapuja. A város egyúttal a turisták számára az első állomás a híres Sa Pa hegyi üdülőhely felé vezető úton, ahol a változatos hegyvidéki táj és a hegyi törzsek kultúrája találkozik. Földrajz K7 — hegyvidéki kereskedelmi útvonalak.",
+      "factsAdvanced": [
+        "A kínai Hekou várossal határos",
+        "A Sa Pa-ba tartó vonatok és buszok végállomása",
+        "A Vörös-folyó és a Nậm Thi-folyó találkozásánál fekszik",
+        "Jelentős szerepet játszik az északnyugati régió kereskedelmében",
+        "Több etnikai kisebbség találkozóhelye",
+        "A hegyi turizmus legfontosabb elosztóközpontja"
+      ]
+    },
+    {
+      "id": "dien-bien-phu-cities-v2",
+      "descriptionAdvanced": "Điện Biên Phủ történelmi jelentőségű város a vietnámi hegyvidéken, amely az 1954-es döntő csata helyszíneként vált világszerte ismertté. Ma a város a múlt és a jelen találkozási pontja, ahol a háborús emlékek megőrzése mellett dinamikusan fejlődik a helyi közösség és a hegyi turizmus, bemutatva a térség gazdag történelmi örökségét. Történelem K8 — dekolonizáció és háború.",
+      "factsAdvanced": [
+        "1954-es győzelem a francia gyarmati erők felett",
+        "A háborús múzeum a térség egyik legfontosabb látnivalója",
+        "A1-domb a csata egyik meghatározó védelmi pontja volt",
+        "Điện Biên tartomány székhelye",
+        "A hegyvidéki etnikumok gazdag kulturális hagyományai",
+        "Fontos történelmi emlékhely a nemzeti identitás szempontjából"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "en",
+  "country": "namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "independence-memorial-museum-landmarks-v2",
+      "descriptionAdvanced": "The Independence Memorial Museum is a towering, modernist landmark located in the heart of Windhoek, inaugurated in 2014. Designed and built by North Korean firm Mansudae Overseas Projects, its striking, gold-tinted architectural style is intended to symbolize a coffee percolator, representing the brewing of independence. The museum's extensive exhibits focus entirely on the anti-colonial resistance and the national liberation struggle. Standing prominently between the Christuskirche and the Alte Feste, it dramatically alters the historical narrative of the capital's central ridge. Geschichte K8 — modern national identity.",
+      "factsAdvanced": [
+        "Inaugurated in 2014 on Namibia's 24th independence anniversary.",
+        "Built by the North Korean firm Mansudae Overseas Projects.",
+        "The gold-tinted design symbolizes a brewing coffee percolator.",
+        "Focuses on anti-colonial resistance and the liberation struggle.",
+        "Features a prominent statue of founding President Sam Nujoma.",
+        "Dramatically alters the skyline of central Windhoek."
+      ]
+    },
+    {
+      "id": "heroes-acre-windhoek-landmarks-v2",
+      "descriptionAdvanced": "Heroes' Acre is an imposing national monument situated in the hills roughly 10 kilometers south of Windhoek city center. Opened in 2002, the sprawling complex was built to honor the men and women who fought for Namibian independence. The design features a massive obelisk, a larger-than-life bronze statue of the Unknown Soldier, and an eternal flame. The terraced burial grounds are reserved exclusively for officially designated national heroes. The site offers sweeping, panoramic views of the capital city and serves as a powerful symbol of the ruling SWAPO party's legacy. Geschichte K8 — national monuments.",
+      "factsAdvanced": [
+        "Located 10 kilometers south of central Windhoek.",
+        "Officially opened in 2002 by President Sam Nujoma.",
+        "Honors the heroes of the Namibian War of Independence.",
+        "Features a massive obelisk and a bronze Unknown Soldier.",
+        "Contains terraced burial plots for designated national heroes.",
+        "Constructed by the North Korean Mansudae Overseas Projects."
+      ]
+    },
+    {
+      "id": "woermannhaus-landmarks-v2",
+      "descriptionAdvanced": "The Woermannhaus is an iconic landmark in Swakopmund, characterized by its traditional German half-timbered style (Fachwerk) and the towering Damara Tower. Built in 1905, it originally functioned as the primary headquarters for the powerful Woermann-Linie shipping company. The tower provided a crucial vantage point to spot approaching cargo ships from the Atlantic and incoming ox-wagons from the Namib Desert. Today, it stands beautifully restored as a national monument, housing the public library and serving as a tangible link to Swakopmund's bustling early maritime history. Geography K7 — historic maritime architecture.",
+      "factsAdvanced": [
+        "Built in 1905 as a shipping company headquarters.",
+        "Features traditional German half-timbered (Fachwerk) architecture.",
+        "The Damara Tower was used to spot incoming Atlantic ships.",
+        "Declared an official Namibian National Monument in 1976.",
+        "Currently houses the Swakopmund Public Library and an art gallery.",
+        "Extensively restored after falling into disrepair in the mid-20th century."
+      ]
+    },
+    {
+      "id": "swakopmund-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "The Swakopmund Lighthouse is a defining feature of the town's coastline, standing 21 meters tall. First operational in 1902 at half its current height, it was extended in 1910 to improve its range across the frequently fog-bound Atlantic waters. Unlike many historic lighthouses, it remains fully operational today, guiding vessels away from the perilous Skeleton Coast. Painted in striking red and white bands, the lighthouse is integrated into the town's central tourist district, situated right next to the historical Swakopmund Museum and the old sea wall (the Mole). Geography K7 — coastal navigation.",
+      "factsAdvanced": [
+        "Stands 21 meters tall along the Swakopmund coastline.",
+        "First became operational in 1902 at 11 meters high.",
+        "Extended to its current height in 1910 for better visibility.",
+        "Still functions as an active navigational lighthouse.",
+        "Painted in distinctive, highly visible red and white bands.",
+        "Located adjacent to the historic Swakopmund Museum."
+      ]
+    },
+    {
+      "id": "hohenzollernhaus-swakopmund-landmarks-v2",
+      "descriptionAdvanced": "The Hohenzollernhaus is one of the most extravagant and photographed landmarks in Swakopmund. Completed in 1906, this neo-Baroque building was originally designed as a high-end hotel to cater to wealthy passengers arriving via the Woermann shipping line. The building's ornate facade is adorned with stucco angels and features a prominent corner tower topped with a dome. Although its life as a luxury hotel was brief due to economic shifts, the building has been immaculately preserved as a private residential complex, showcasing the ambitious architectural flair of the colonial era. Geschichte K8 — colonial architecture.",
+      "factsAdvanced": [
+        "Completed in 1906 in a lavish neo-Baroque style.",
+        "Originally operated as a luxurious hotel for wealthy travelers.",
+        "Facade features intricate stucco angels and detailed masonry.",
+        "Designed by the prominent colonial architect Hermann Muthesius.",
+        "Currently functions as a well-preserved private residential building.",
+        "One of the most frequently photographed buildings in Namibia."
+      ]
+    },
+    {
+      "id": "felsenkirche-luderitz-landmarks-v2",
+      "descriptionAdvanced": "The Felsenkirche, meaning 'Church on the Rock', is a stunning visual landmark in the coastal town of Lüderitz. Consecrated in 1912, this Evangelical Lutheran church was built in a vertical Victorian Gothic style, using solid rock from Diamond Mountain as its foundation. The church is famous for its intricate stained-glass windows, including a large, vibrant window donated by Emperor Wilhelm II of Germany. Due to its elevated position, the church dominates the town's skyline and offers spectacular views over the stormy Atlantic Ocean. Geschichte K8 — religious landmarks.",
+      "factsAdvanced": [
+        "Consecrated in 1912 during the Lüderitz diamond boom.",
+        "Built in the striking vertical Victorian Gothic style.",
+        "Constructed directly onto the granite of Diamond Mountain.",
+        "Features a prominent stained-glass window gifted by Emperor Wilhelm II.",
+        "Dominates the skyline of the historic coastal town.",
+        "Remains an active Evangelical Lutheran church today."
+      ]
+    },
+    {
+      "id": "goerke-haus-luderitz-landmarks-v2",
+      "descriptionAdvanced": "The Goerke Haus is a premier architectural landmark in Lüderitz, known as one of the 'diamond palaces' built during the 1908 diamond rush. Completed in 1910 for magistrate and diamond inspector Hans Goerke, the house is a brilliant example of German Art Nouveau (Jugendstil) architecture adapted to the harsh desert environment. Perched on Diamond Mountain, the residence features opulent wooden staircases, intricate stained glass, and large bay windows. Today, it is meticulously maintained by the local mining company and operates as a public museum. Geschichte K8 — diamond boom wealth.",
+      "factsAdvanced": [
+        "Completed in 1910 for diamond inspector Hans Goerke.",
+        "Considered one of the premier 'diamond palaces' of Lüderitz.",
+        "Designed in the elegant German Art Nouveau (Jugendstil) style.",
+        "Perched prominently on the slopes of Diamond Mountain.",
+        "Maintained by Namdeb and operated as a public museum.",
+        "Features elaborate original woodwork and stained-glass details."
+      ]
+    },
+    {
+      "id": "diaz-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "The Diaz Point Lighthouse is a vital maritime landmark located on a rugged peninsula roughly 20 kilometers south of Lüderitz. Built in 1915, the 28-meter-tall tower guides shipping traffic safely past the incredibly treacherous, rocky Atlantic coastline known for its dense fog and violent storms. The lighthouse sits adjacent to the historical replica of the stone cross erected by Portuguese explorer Bartolomeu Dias in 1488. The area is heavily battered by winds, making the lighthouse a stark symbol of human resilience against the extreme coastal environment. Geography K7 — coastal hazards.",
+      "factsAdvanced": [
+        "Located on a rugged peninsula 20 kilometers south of Lüderitz.",
+        "Constructed in 1915 to guide ships past the rocky coast.",
+        "The lighthouse tower stands 28 meters tall.",
+        "Situated next to the historic Bartolomeu Dias cross replica.",
+        "Operates in an area famous for violent winds and thick fog.",
+        "Crucial for the safe navigation of the local fishing fleet."
+      ]
+    },
+    {
+      "id": "turnhalle-windhoek-landmarks-v2",
+      "descriptionAdvanced": "The Turnhalle building is a landmark of immense political significance in Windhoek. Built in 1909, its original purpose was a gymnasium for the local German sports club. However, it secured its place in history by hosting the controversial Turnhalle Constitutional Conference from 1975 to 1977, an attempt by South Africa to engineer an internal political settlement for Namibia. The building's classic colonial architecture belies its role as the birthplace of the Democratic Turnhalle Alliance (DTA). Today, the meticulously preserved building serves as the headquarters for the SADC Tribunal. Geschichte K8 — political milestones.",
+      "factsAdvanced": [
+        "Constructed in 1909 originally as a German gymnasium.",
+        "Hosted the pivotal Turnhalle Constitutional Conference in 1975.",
+        "Birthplace of the Democratic Turnhalle Alliance (DTA) political party.",
+        "Declared an official National Monument due to its history.",
+        "Features classic, well-preserved German colonial architecture.",
+        "Currently functions as the headquarters of the SADC Tribunal."
+      ]
+    },
+    {
+      "id": "alte-feste-windhoek-landmarks-v2",
+      "descriptionAdvanced": "The Alte Feste (Old Fortress) is the oldest surviving building in Windhoek, making it a critical historical landmark. Construction began in 1890 under Captain Curt von François to serve as a military stronghold for the German Schutztruppe. Characterized by its thick, whitewashed stone walls and defensive courtyard design, it was meant to assert colonial authority over the surrounding landscape. After changing hands from German to South African forces, it was eventually converted into a museum in 1962, housing extensive collections detailing Namibia's complex and often violent history. Geschichte K8 — early military outposts.",
+      "factsAdvanced": [
+        "The absolute oldest surviving building in the capital city.",
+        "Construction began in 1890 under Captain Curt von François.",
+        "Built as the primary military stronghold for the German Schutztruppe.",
+        "Features thick, whitewashed walls and a central defensive courtyard.",
+        "Converted into a public museum by the South African administration in 1962.",
+        "Declared a National Monument in 1957."
+      ]
+    },
+    {
+      "id": "schwerinsburg-landmarks-v2",
+      "descriptionAdvanced": "Schwerinsburg is the most prominent of Windhoek's three iconic 'castles', dominating the eastern skyline of the city. Originally a simple defensive watchtower built in 1890, it was purchased in 1913 by the eccentric architect Wilhelm Sander, who transformed it into a sprawling, romantic castle for Count von Schwerin. Built from local natural stone, the castle features battlements and a massive tower that offer unparalleled views over the capital. It is currently privately owned and serves as the official residence of the Italian Ambassador to Namibia. Geography K7 — urban landmarks.",
+      "factsAdvanced": [
+        "The largest and most prominent of Windhoek's three historic castles.",
+        "Originally built as a simple defensive watchtower in 1890.",
+        "Transformed into a castle by architect Wilhelm Sander in 1913.",
+        "Constructed almost entirely from locally quarried natural stone.",
+        "Dominates the eastern skyline overlooking the city center.",
+        "Serves as the private residence of the Italian Ambassador."
+      ]
+    },
+    {
+      "id": "heinitzburg-landmarks-v2",
+      "descriptionAdvanced": "Heinitzburg is a magnificent landmark castle in Windhoek, commissioned in 1914 by Count von Schwerin for his fiancée, Margarethe von Heinitz. Designed by Wilhelm Sander, the castle blends robust defensive stonework with elegant, romantic architectural details. Unlike Schwerinsburg, Heinitzburg is accessible to the public, having been expertly converted into a world-class luxury hotel in 1996. It is highly famous for its panoramic terraces overlooking the city and its extensive wine cellar, which was excavated directly out of the bedrock of the hill it stands on. Geography K7 — historic hospitality.",
+      "factsAdvanced": [
+        "Commissioned in 1914 by Count von Schwerin for his fiancée.",
+        "Designed by the prominent colonial architect Wilhelm Sander.",
+        "Converted into a world-class luxury hotel in 1996.",
+        "Famous for panoramic terraces offering views over Windhoek.",
+        "Features a massive wine cellar excavated directly into the bedrock.",
+        "One of the few historic Windhoek castles open to the public."
+      ]
+    },
+    {
+      "id": "sanderburg-landmarks-v2",
+      "descriptionAdvanced": "Sanderburg is the smallest and perhaps most architecturally unique of Windhoek's three famous castles. Built between 1917 and 1919, it was designed by Wilhelm Sander as his own private residence. The building diverges from the purely neo-romantic style of the other castles, incorporating distinct elements of early 20th-century modernism and Art Nouveau. Situated slightly lower on the hill than Schwerinsburg and Heinitzburg, Sanderburg features a prominent circular tower and remains a private residence, contributing to the distinct, historic skyline of the capital's eastern ridge. Geography K7 — architectural diversity.",
+      "factsAdvanced": [
+        "The smallest of the three famous historic castles in Windhoek.",
+        "Designed by Wilhelm Sander to serve as his own private residence.",
+        "Constructed between 1917 and 1919.",
+        "Incorporates distinct elements of modernism and Art Nouveau.",
+        "Features a prominent, uniquely styled circular tower.",
+        "Remains a private residence and is not open to the public."
+      ]
+    },
+    {
+      "id": "martin-luther-steam-tractor-landmarks-v2",
+      "descriptionAdvanced": "The 'Martin Luther' is a fascinating, rusted steam tractor stranded in the desert just outside Swakopmund, serving as a quirky historical landmark. Imported from Germany in 1896 by Lieutenant Edmund Troost, it was intended to replace ox-wagons for freight transport across the waterless Namib Desert. However, the massive machine frequently bogged down in the deep sand and required an impossible amount of water to run. It was finally abandoned in the desert. Locals jokingly named it 'Martin Luther', referencing the reformer's famous quote: 'Here I stand, I can do no other.' Geschichte K8 — failed colonial technology.",
+      "factsAdvanced": [
+        "A steam-powered tractor imported from Germany in 1896.",
+        "Intended to replace ox-wagons for desert freight transport.",
+        "Required massive amounts of scarce water to operate.",
+        "Frequently bogged down in the deep Namib Desert sand.",
+        "Abandoned just outside Swakopmund shortly after arriving.",
+        "Named 'Martin Luther' because 'it can do no other' but stand there."
+      ]
+    },
+    {
+      "id": "franke-tower-omaruru-landmarks-v2",
+      "descriptionAdvanced": "The Franke Tower is a prominent historical landmark in the town of Omaruru. Built in 1904, the stone tower commemorates the actions of Captain Victor Franke, whose German troops broke a siege of the town during the Herero uprising. The tower was funded and constructed by the grateful local German civilian population. Standing out against the flat surrounding landscape, it was declared a national monument in 1964. Today, it serves as an important, albeit controversial, historical marker of the brutal colonial conflicts that shaped central Namibia. Geschichte K8 — war memorials.",
+      "factsAdvanced": [
+        "Located centrally in the town of Omaruru.",
+        "Constructed in 1904 by the local German civilian population.",
+        "Commemorates Captain Victor Franke breaking the Herero siege.",
+        "Built entirely from locally sourced natural stone.",
+        "Declared an official National Monument in 1964.",
+        "A key historical marker of the 1904 Herero-German War."
+      ]
+    },
+    {
+      "id": "fort-namutoni-landmarks-v2",
+      "descriptionAdvanced": "Fort Namutoni is a visually striking landmark located on the eastern edge of the Etosha National Park. With its stark-white, crenellated walls and distinct corner towers, the fort looks like a piece of the Foreign Legion dropped into the African savanna. Originally built in 1897 as a veterinary control post, it was destroyed in 1904 by Ndonga warriors and rebuilt in its current imposing form to serve as a police outpost. Today, the brilliantly white fortress serves as a luxury rest camp for tourists and features an elevated viewing deck over a nearby waterhole. Geography K7 — tourism and historical sites.",
+      "factsAdvanced": [
+        "Located at the eastern entrance of Etosha National Park.",
+        "Features stark-white, crenellated walls and corner towers.",
+        "Originally established in 1897 as a veterinary outpost.",
+        "Destroyed in 1904 and rebuilt into its current fortress design.",
+        "Currently functions as the centerpiece of a major tourist rest camp.",
+        "Offers elevated views of the adjacent King Nehale waterhole."
+      ]
+    },
+    {
+      "id": "okaukuejo-waterhole-tower-landmarks-v2",
+      "descriptionAdvanced": "The Okaukuejo Stone Tower is a central landmark within the Okaukuejo rest camp, the administrative hub of the Etosha National Park. Built in 1963, the distinctive circular stone tower provides panoramic views over the camp and the surrounding flat savanna. However, Okaukuejo is most famous for its floodlit waterhole, located just steps from the tower. This waterhole is considered one of the best wildlife viewing spots in Africa, attracting massive herds of elephants, critically endangered black rhinos, and lions, particularly during the dry winter months. Geography K7 — wildlife conservation.",
+      "factsAdvanced": [
+        "Located in the Okaukuejo rest camp in Etosha National Park.",
+        "The distinctive circular stone viewing tower was built in 1963.",
+        "Provides sweeping panoramic views of the flat Etosha savanna.",
+        "Situated adjacent to a world-famous floodlit waterhole.",
+        "The waterhole attracts massive numbers of elephants and black rhinos.",
+        "Okaukuejo serves as the main administrative hub for the park."
+      ]
+    },
+    {
+      "id": "oorlog-memorial-okahandja-landmarks-v2",
+      "descriptionAdvanced": "The Oorlog Memorial in Okahandja, often referred to as the Moordkoppie (Murder Hill) memorial, is a deeply significant landmark marking a tragic event in Namibian history. It commemorates the events of August 1850, when a peace conference between the Herero and Nama people ended in a bloody massacre orchestrated by Nama leader Jonker Afrikaner. The site is a focal point for the Herero people, who gather nearby annually for Maharero Day to honor their ancestors and paramount chiefs, many of whom are buried in the adjacent historic cemetery. Geschichte K8 — tribal conflicts.",
+      "factsAdvanced": [
+        "Located in the culturally significant town of Okahandja.",
+        "Marks the site of a brutal massacre in August 1850.",
+        "Commemorates victims of a failed Herero-Nama peace conference.",
+        "Often referred to historically as Moordkoppie (Murder Hill).",
+        "Located near the graves of several prominent Herero paramount chiefs.",
+        "A central site for the annual Maharero Day commemorations."
+      ]
+    },
+    {
+      "id": "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
+      "descriptionAdvanced": "The Tsumeb Museum is housed in the beautifully restored Alte Minenkommissariat (Old Mine Commissioner's Office), making it a prime architectural landmark in the town. Built in 1907 during the initial copper mining boom, the building features classic German colonial architecture with wide verandas and robust stonework. Today, the museum houses an extraordinary collection of rare minerals extracted from the Tsumeb mine, alongside extensive historical artifacts detailing the region's mining history, local indigenous cultures, and the German colonial period. Sachkunde K3 — mining history and museums.",
+      "factsAdvanced": [
+        "Housed in the Old Mine Commissioner's Office, built in 1907.",
+        "A prime example of German colonial civic architecture in Tsumeb.",
+        "Located in the center of the historic copper mining town.",
+        "Features an internationally renowned collection of rare minerals.",
+        "Exhibits detailed artifacts from the German colonial era.",
+        "Highlights the deep history of the local mining industry."
+      ]
+    },
+    {
+      "id": "grootfontein-old-fort-landmarks-v2",
+      "descriptionAdvanced": "The Grootfontein Old Fort (Alte Fort) is a significant historical landmark in the Otjozondjupa Region. Built in 1896 by the German Schutztruppe, the fort was intended to project military authority and provide a safe haven for early settlers in the fertile Otavi Triangle. The structure features thick limestone walls and a prominent defensive tower. Unlike many colonial forts that were destroyed, the Alte Fort survived relatively intact. Today, it has been repurposed into a local museum, preserving the history of the Dorsland Trekkers, indigenous groups, and early colonial life. Geschichte K8 — colonial forts.",
+      "factsAdvanced": [
+        "Located in the agricultural town of Grootfontein.",
+        "Constructed in 1896 by the German Schutztruppe (colonial troops).",
+        "Built using thick, locally sourced limestone walls.",
+        "Features a prominent central defensive tower.",
+        "Survived the colonial conflicts relatively intact.",
+        "Currently functions as a local history and cultural museum."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "lang": "de",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "misrata-cities-v2",
+      "descriptionAdvanced": "Misrata ist das wirtschaftliche Zentrum Libyens und bekannt für seine florierende Freihandelszone sowie den wichtigen Hafen von Qasr Ahmad. Die Stadt spielte eine zentrale Rolle während der Revolution 2011 und hat sich seitdem als industrieller Motor des Landes etabliert, insbesondere in der Stahlproduktion. Geografie K8 — Wirtschaftsgeografie.",
+      "factsAdvanced": [
+        "Wirtschaftliches Zentrum Libyens",
+        "Wichtiger Hafen von Qasr Ahmad",
+        "Zentrum der Stahlproduktion",
+        "Zentrale Rolle in der Revolution 2011",
+        "Drittgrößte Stadt Libyens",
+        "Große Freihandelszone"
+      ]
+    },
+    {
+      "id": "bayda-cities-v2",
+      "descriptionAdvanced": "Al Bayda, gelegen in den Bergen des Dschabal al-Achdar, ist bekannt für ihr mildes Klima und ihre reiche Geschichte. Sie beherbergt die antiken Ruinen von Balagrae und das Grab des islamischen Gefährten Ruwaifi bin Thabit, was sie zu einem wichtigen kulturellen und religiösen Zentrum macht. Geschichte K7 — Antike und islamische Geschichte.",
+      "factsAdvanced": [
+        "Gelegen im Dschabal al-Achdar",
+        "Mildes Klima im Vergleich zum Rest Libyens",
+        "Antike Ruinen von Balagrae in der Nähe",
+        "Grab von Ruwaifi bin Thabit",
+        "Einst geplante Hauptstadt unter König Idris",
+        "Wichtiges landwirtschaftliches Zentrum"
+      ]
+    },
+    {
+      "id": "zawiya-cities-v2",
+      "descriptionAdvanced": "Zawiya ist eine bedeutende Küstenstadt westlich von Tripolis, die vor allem für ihre große Ölraffinerie bekannt ist, welche einen Großteil der Hauptstadtregion versorgt. Die Stadt hat starke historische Wurzeln, die bis in die osmanische Zeit zurückreichen, und war Schauplatz wichtiger historischer Ereignisse. Geografie K8 — Ressourcen und Industrie.",
+      "factsAdvanced": [
+        "Große Ölraffinerie",
+        "Liegt westlich von Tripolis",
+        "Wichtiger Knotenpunkt der Küstenautobahn",
+        "Historische osmanische Architektur",
+        "Bedeutende Universität von Zawiya",
+        "Umgrenzt von landwirtschaftlichen Flächen"
+      ]
+    },
+    {
+      "id": "zliten-cities-v2",
+      "descriptionAdvanced": "Zliten liegt an der Mittelmeerküste und ist berühmt für die al-Asmariya-Universität, ein wichtiges Zentrum islamischer Studien in Nordafrika. Zudem beherbergt die Stadt wunderschöne römische Mosaike, die in der antiken Villa Dar Buc Ammera gefunden wurden und von ihrer langen Siedlungsgeschichte zeugen. Geschichte K8 — Römisches Reich und Islam.",
+      "factsAdvanced": [
+        "Al-Asmariya-Universität für islamische Studien",
+        "Sufi-Schrein von Sidi Abd as-Salam",
+        "Römische Mosaike aus Dar Buc Ammera",
+        "Liegt zwischen Misrata und Tripolis",
+        "Wichtiges Zentrum für Bildung",
+        "Produktion von Olivenöl und Datteln"
+      ]
+    },
+    {
+      "id": "sirte-cities-v2",
+      "descriptionAdvanced": "Sirte, eine Hafenstadt am Golf von Sidra, erlangte als Geburtsort und letzte Bastion von Muammar al-Gaddafi internationale Bekanntheit. In der Vergangenheit war sie Austragungsort wichtiger afrikanischer Gipfeltreffen und beherbergt das Ouagadougou-Konferenzzentrum, das einst politische Führer aus ganz Afrika anzog. Geschichte K8 — Moderne libysche Geschichte.",
+      "factsAdvanced": [
+        "Geburtsort von Muammar al-Gaddafi",
+        "Lage am Golf von Sidra",
+        "Ouagadougou-Konferenzzentrum",
+        "Austragungsort der AU-Gipfel",
+        "Wichtige Station der Küstenautobahn",
+        "Sitz der Universität Sirte"
+      ]
+    },
+    {
+      "id": "tobruk-cities-v2",
+      "descriptionAdvanced": "Tobruk ist eine tief im Osten gelegene Hafenstadt in der Kyrenaika, die durch die langen Belagerungen während des Zweiten Weltkriegs berühmt wurde. Heute zeugen alliierte Friedhöfe und Denkmäler von dieser turbulenten Vergangenheit, während der Hafen eine wichtige Rolle für den Öl-Export und den Handel spielt. Geschichte K8 — Zweiter Weltkrieg in Nordafrika.",
+      "factsAdvanced": [
+        "Bedeutender Naturhafen",
+        "Lange Belagerung im Zweiten Weltkrieg (1941)",
+        "Alliierte und deutsche Kriegsgräber",
+        "Wichtiges Terminal für Ölexporte",
+        "Nahe der ägyptischen Grenze",
+        "Historisch wichtiger Stützpunkt"
+      ]
+    },
+    {
+      "id": "ajdabiya-cities-v2",
+      "descriptionAdvanced": "Ajdabiya dient als strategisch wichtiger Verkehrsknotenpunkt zwischen Tripolitanien im Westen und Kyrenaika im Osten Libyens. Historisch war die Stadt eine bedeutende Station für Karawanen auf den transsaharischen Handelsrouten und verbindet heute die Küste mit den Wüstengebieten im Süden. Geografie K7 — Handel und Verkehr.",
+      "factsAdvanced": [
+        "Verkehrsknotenpunkt zwischen West- und Ostlibyen",
+        "Historische transsaharische Handelsstation",
+        "Nahe den großen Ölfeldern",
+        "Ruinen antiker Moscheen und Paläste",
+        "Zugangspunkt zur Kufra-Oase",
+        "Wichtige Stadt im Cyrenaika-Gebiet"
+      ]
+    },
+    {
+      "id": "derna-cities-v2",
+      "descriptionAdvanced": "Derna zeichnet sich durch ihr andalusisches Erbe aus, das von Flüchtlingen aus Spanien nach Libyen gebracht wurde. Die Stadt ist bekannt für die wunderschönen Wasserfälle im Wadi Derna, erlebte jedoch 2023 durch verheerende Überschwemmungen nach dem Bruch zweier Staudämme eine tragische Zerstörung. Geografie K8 — Naturkatastrophen und Siedlungsgeschichte.",
+      "factsAdvanced": [
+        "Andalusisches architektonisches Erbe",
+        "Wasserfälle im Wadi Derna",
+        "Verheerende Überschwemmungen im September 2023",
+        "Einzige libysche Stadt mit kontinuierlichem Fluss",
+        "Reiche landwirtschaftliche Umgebung",
+        "Historisch ein Zentrum für Gelehrte"
+      ]
+    },
+    {
+      "id": "sabha-cities-v2",
+      "descriptionAdvanced": "Sabha ist die größte Stadt und historische Hauptstadt der Fezzan-Region, tief in der libyschen Wüste gelegen. Sie war lange Zeit ein zentraler Knotenpunkt der Karawanenrouten und beherbergt ein historisches Fort (Fort Elena), das auf einem Hügel thront und einen weiten Blick über die Oasenstadt bietet. Geschichte K7 — Sahara-Handel.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Fezzan",
+        "Historisches Fort Elena",
+        "Wichtiger Knotenpunkt für Sahara-Routen",
+        "Zentrum des Dattelanbaus",
+        "Gaddafi kündigte hier 1977 die Jamahiriya an",
+        "Bedeutende afrikanische Migrationsroute"
+      ]
+    },
+    {
+      "id": "khoms-cities-v2",
+      "descriptionAdvanced": "Khoms ist eine charmante Hafenstadt im Nordwesten Libyens, die vor allem als Ausgangspunkt für Besuche der nahegelegenen antiken römischen Stätte Leptis Magna bekannt ist. Die fruchtbare Umgebung der Stadt wird intensiv für den Anbau von Olivenbäumen und Dattelpalmen genutzt und trägt zur lokalen Wirtschaft bei. Geschichte K7 — Römisches Erbe in Afrika.",
+      "factsAdvanced": [
+        "Nahe der antiken Stadt Leptis Magna",
+        "Wichtiger Exporthafen",
+        "Bedeutend für Oliven- und Dattelanbau",
+        "Osmanische und italienische Architektur",
+        "Sitz der Al-Mergheb-Universität",
+        "Malerische Mittelmeerküste"
+      ]
+    },
+    {
+      "id": "bani-walid-cities-v2",
+      "descriptionAdvanced": "Bani Walid ist eine stark von Traditionen geprägte Stadt und gilt als die historische Hochburg des mächtigen Warfalla-Stammes. Die Stadt ist malerisch in das Wadi Merdum eingebettet, umgeben von unzähligen Olivenhainen, und spielte in der jüngeren Geschichte Libyens oft eine wichtige politische Rolle. Geschichte K8 — Libysche Stammesstrukturen.",
+      "factsAdvanced": [
+        "Hochburg des Warfalla-Stammes",
+        "Gelegen im malerischen Wadi Merdum",
+        "Zentrum der lokalen Olivenproduktion",
+        "Wichtige Rolle im Bürgerkrieg 2011",
+        "Sitz der Universität von Bani Walid",
+        "Reiche traditionelle Beduinenkultur"
+      ]
+    },
+    {
+      "id": "kufra-cities-v2",
+      "descriptionAdvanced": "Al Jawf, oft einfach als Kufra bezeichnet, ist eine isolierte, aber strategisch wichtige Oase tief in der Sahara-Wüste. Sie war im 19. Jahrhundert ein zentraler Knotenpunkt für Karawanen auf dem Weg in den Tschad und diente als wichtiges religiöses Zentrum und Stützpunkt des islamischen Senussi-Ordens. Geografie K7 — Oasen und Wüstenleben.",
+      "factsAdvanced": [
+        "Größte Oasenstadt im Südosten Libyens",
+        "Historisches Zentrum des Senussi-Ordens",
+        "Wichtiger Knotenpunkt für den Handel mit dem Tschad",
+        "Verfügt über riesige unterirdische Wasserreserven",
+        "Landwirtschaft in kreisrunden Bewässerungsfeldern",
+        "Extrem trockenes Wüstenklima"
+      ]
+    },
+    {
+      "id": "marj-cities-v2",
+      "descriptionAdvanced": "Die Stadt Marj liegt in einem äußerst fruchtbaren Tal im Osten Libyens, unweit der Ruinen der antiken griechischen und römischen Stadt Barka. Nachdem ein schweres Erdbeben 1963 die alte Stadt fast vollständig zerstörte, wurde sie in der Nähe mit moderner Infrastruktur komplett neu aufgebaut. Geografie K8 — Seismische Aktivitäten und Wiederaufbau.",
+      "factsAdvanced": [
+        "In einem sehr fruchtbaren Tal gelegen",
+        "Zerstört durch das Erdbeben von 1963",
+        "Neu aufgebaut mit moderner Architektur",
+        "Nahe der antiken Stadt Barka",
+        "Wichtiges landwirtschaftliches Zentrum (Weizen)",
+        "Einstiges Verwaltungszentrum unter den Osmanen"
+      ]
+    },
+    {
+      "id": "tarhuna-cities-v2",
+      "descriptionAdvanced": "Tarhuna ist ein wichtiges landwirtschaftliches Zentrum südöstlich von Tripolis, das für seine ausgedehnten Olivenhaine und den Anbau von Feigen bekannt ist. In der Umgebung finden sich antike römische Ruinen wie der Tempel von Gasr Doga, die bezeugen, dass das Gebiet schon vor Jahrtausenden fruchtbar war. Geschichte K8 — Landwirtschaft in der Antike.",
+      "factsAdvanced": [
+        "Bekannt für Oliven- und Feigenanbau",
+        "Nahe der antiken Stätte Gasr Doga",
+        "Liegt südöstlich von Tripolis",
+        "Schauplatz intensiver Kämpfe in jüngsten Konflikten",
+        "Wasserquelle für Teile von Tripolitanien",
+        "Historisch von Berberstämmen bewohnt"
+      ]
+    },
+    {
+      "id": "zuwara-cities-v2",
+      "descriptionAdvanced": "Zuwara ist eine stolze Berberstadt an der nordwestlichen Küste Libyens, nahe der tunesischen Grenze, in der noch immer der traditionelle Amazigh-Dialekt gesprochen wird. Sie ist bekannt für ihre weißen Sandstrände, ihren Fischereihafen und als wichtiger Handelsknotenpunkt zwischen Libyen und Tunesien. Geografie K7 — Kulturelle Vielfalt und Grenzen.",
+      "factsAdvanced": [
+        "Traditionelle Amazigh (Berber) Stadt",
+        "Nahe der Grenze zu Tunesien",
+        "Bekannt für wunderschöne weiße Strände",
+        "Wichtiger Fischerei- und Handelshafen",
+        "Eigene Sprache und kulturelle Identität",
+        "Austragungsort des jährlichen Awussu-Festivals"
+      ]
+    },
+    {
+      "id": "gharyan-cities-v2",
+      "descriptionAdvanced": "Gharyan, oft als das 'Tor zum Dschabal Nafusa' bezeichnet, liegt in den Bergen südlich von Tripolis und bietet spektakuläre Ausblicke. Die Stadt ist berühmt für ihre unterirdischen Höhlenwohnungen (Troglodyten), die einst als Schutz vor der Hitze dienten, sowie für ihre handwerkliche traditionelle Töpferei. Geografie K7 — Anpassung an das Klima.",
+      "factsAdvanced": [
+        "Tor zum Dschabal Nafusa-Gebirge",
+        "Berühmt für unterirdische Höhlenwohnungen",
+        "Zentrum der traditionellen libyschen Töpferei",
+        "Höchster Punkt in der Region Tripolitanien",
+        "Wichtiger Knotenpunkt für Reisen in den Süden",
+        "Oliven- und Feigenanbau an den Hängen"
+      ]
+    },
+    {
+      "id": "sabratha-cities-v2",
+      "descriptionAdvanced": "Sabratha war einst ein wichtiger phönizischer Handelsposten, bevor sie unter römischer Herrschaft zu einer wohlhabenden Küstenstadt heranwuchs. Heute ist die Stadt vor allem für ihr spektakuläres römisches Theater und das direkt am Mittelmeer gelegene archäologische UNESCO-Weltkulturerbe weltberühmt. Geschichte K7 — Phönizier und Römer.",
+      "factsAdvanced": [
+        "Einst phönizischer Handelsposten",
+        "Weltberühmtes römisches Theater",
+        "UNESCO-Weltkulturerbe seit 1982",
+        "Gut erhaltene antike Mosaike und Thermen",
+        "Direkt an der Mittelmeerküste gelegen",
+        "Bedeutender Tourismusmagnet vor 2011"
+      ]
+    },
+    {
+      "id": "al-jamil-cities-v2",
+      "descriptionAdvanced": "Al Jamil ist eine friedliche Kleinstadt im Westen Libyens, nahe der tunesischen Grenze gelegen. Die Region ist stark landwirtschaftlich geprägt und die Bewohner konzentrieren sich traditionell auf den Anbau von hochwertigen Oliven, Datteln und verschiedenen Getreidearten für den lokalen Markt. Geografie K6 — Lokale Landwirtschaft.",
+      "factsAdvanced": [
+        "Kleinstadt im Westen Libyens",
+        "Nahe der tunesischen Grenze",
+        "Zentrum der landwirtschaftlichen Produktion",
+        "Fokus auf Oliven und Datteln",
+        "Ruhiges lokales Handelszentrum",
+        "Traditionell von Beduinenstämmen geprägt"
+      ]
+    },
+    {
+      "id": "surman-cities-v2",
+      "descriptionAdvanced": "Surman liegt an der libyschen Mittelmeerküste und unterscheidet sich durch seine weitläufigen Pinienwälder, die als Teil des Surman-Nationalparks geschützt sind, von anderen Städten der Region. Die Nähe zu den Stränden und den antiken Ruinen der Umgebung machte sie früher zu einem beliebten lokalen Ausflugsziel. Geografie K7 — Küstenökologie.",
+      "factsAdvanced": [
+        "Heimat des Surman-Nationalparks",
+        "Ausgedehnte Pinienwälder an der Küste",
+        "Liegt westlich von Tripolis",
+        "Landwirtschaftliche Flächen im Hinterland",
+        "Historisch bedeutende Küstensiedlung",
+        "Nahe der archäologischen Stätte von Sabratha"
+      ]
+    },
+    {
+      "id": "yefren-cities-v2",
+      "descriptionAdvanced": "Yefren ist eine der bedeutendsten Städte der indigenen Berber (Amazigh) in Libyen, dramatisch an den Hängen der Nafusa-Berge gelegen. Die Stadt beherbergt historische Moscheen, alte Steinarchitektur und ist ein stolzes Zentrum für den Erhalt der Sprache, Kultur und Traditionen der Amazigh in Nordafrika. Geschichte K7 — Indigene Kulturen.",
+      "factsAdvanced": [
+        "Wichtige Amazigh (Berber) Stadt",
+        "Gelegen in den Nafusa-Bergen",
+        "Historische Steinarchitektur",
+        "Zentrum für die Erhaltung der Berber-Sprache",
+        "Spektakuläre Aussicht auf die Wüstenebene",
+        "Bedeutende Rolle in der Revolution 2011"
+      ]
+    }
+  ]
+}

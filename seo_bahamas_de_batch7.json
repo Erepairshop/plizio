@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "compass-point-studios-landmarks-v2",
+      "descriptionAdvanced": "Compass Point Studios in Nassau war eines der legendärsten Musikstudios der Welt. Gegründet 1977 von Chris Blackwell (Island Records), zog es Weltstars wie AC/DC, Bob Marley, Grace Jones und The Rolling Stones an. Die einzigartige Lage direkt am Meer und die entspannte bahamaische Atmosphäre trugen zu einem ganz besonderen Sound bei, der die Popmusik der 80er Jahre maßgeblich prägte. Obwohl das Studio heute nicht mehr für kommerzielle Aufnahmen genutzt wird, bleibt der farbenfrohe Komplex ein bedeutendes kulturelles Wahrzeichen für Musikliebhaber. Es symbolisiert die Zeit, in der die Bahamas das Epizentrum der globalen Kreativwirtschaft waren und zeigt, wie die natürliche Umgebung der Inseln künstlerische Höchstleistungen inspirieren kann.",
+      "factsAdvanced": [
+        "Weltberühmtes Tonstudio, gegründet 1977",
+        "Aufnahmeort legendärer Alben (z.B. AC/DC 'Back in Black')",
+        "Gegründet von Musikmogul Chris Blackwell",
+        "Wichtiger Schauplatz der globalen Pop- und Rockgeschichte",
+        "Architektonisch markante, bunte Cottages direkt am Meer",
+        "Prägte den 'Compass Point Sound' der 1980er Jahre"
+      ]
+    },
+    {
+      "id": "kendal-isaacs-gymnasium-landmarks-v2",
+      "descriptionAdvanced": "Das Kendal G. L. Isaacs National Gymnasium in Nassau ist die führende Indoor-Sportstätte der Bahamas. Benannt nach einem bedeutenden bahamaischen Politiker und Juristen, dient die Halle als Zentrum für Basketball, Volleyball und zahlreiche andere Sportarten. Das Gymnasium ist der Ort, an dem nationale Meisterschaften ausgetragen werden und die Stars der Zukunft ihren Weg beginnen. Neben sportlichen Wettkämpfen wird die Halle auch für kulturelle Veranstaltungen, Konzerte und religiöse Zusammenkünfte genutzt, was sie zu einem wichtigen sozialen Ankerpunkt der Hauptstadt macht. Die Architektur ist modern und funktional, entworfen um den Anforderungen internationaler Sportverbände gerecht zu werden. Es verkörpert den Geist des sportlichen Wettbewerbs und die Gemeinschaftswerte der bahamaischen Gesellschaft.",
+      "factsAdvanced": [
+        "Zentrales Indoor-Sportzentrum der Bahamas",
+        "Heimat des bahamaischen Basketballs und Volleyballs",
+        "Austragungsort zahlreicher internationaler Turniere",
+        "Benannt nach Sir Kendal Isaacs",
+        "Multifunktionale Halle für Sport und Kultur",
+        "Wichtiger Standort für die Jugendförderung"
+      ]
+    },
+    {
+      "id": "clifton-heritage-ruins-landmarks-v2",
+      "descriptionAdvanced": "Die Clifton Heritage Ruins an der Westspitze von New Providence sind eine der bedeutendsten archäologischen Stätten der Karibik. Hier finden sich die Spuren von drei aufeinanderfolgenden Kulturen: den Lucayanern, den afrikanischen Sklaven und den europäischen Siedlern. Die Ruinen umfassen die Fundamente von Sklavenunterkünften, das Herrenhaus der Plantage und zeremonielle Stätten der Ureinwohner. Der Park dient als nationales Denkmal für die Widerstandskraft und das Erbe der bahamaischen Vorfahren. Eingebettet in eine wilde Küstenlandschaft, bieten die Ruinen einen tiefen, oft bewegenden Einblick in die komplexen sozialen Schichten der Geschichte. Für Besucher ist Clifton Heritage ein Ort der Reflexion über Identität, Freiheit und die dauerhaften Spuren der Vergangenheit in der heutigen Gesellschaft.",
+      "factsAdvanced": [
+        "Einzigartige Stätte dreier historischer Kulturen",
+        "Beherbergt Ruinen bedeutender Baumwollplantagen",
+        "Gedenkstätte für das afrikanische Erbe der Bahamas",
+        "Gelegen in einem weitläufigen Natur- und Kulturpark",
+        "Wichtige archäologische Ausgrabungsstätte",
+        "Bietet Bildungswege zur Geschichte der Sklaverei"
+      ]
+    },
+    {
+      "id": "st-francis-xavier-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die St. Francis Xavier Cathedral in Nassau ist das spirituelle Zentrum der römisch-katholischen Kirche auf den Bahamas. Die neue Kathedrale, die direkt neben der historischen ursprünglichen Kirche aus dem Jahr 1885 errichtet wurde, besticht durch ihre moderne, lichtdurchflutete Architektur und ihre beeindruckenden Mosaike. Sie thront auf einem Hügel und bietet einen weiten Blick über die Stadt. Die Kathedrale ist ein Symbol für das Wachstum und die Vielfalt der Religionsgemeinschaften auf den Inseln. Besonders sehenswert sind die Kunstwerke im Inneren, die lokale spirituelle Motive mit klassischen christlichen Elementen verbinden. Als Sitz des Erzbischofs spielt St. Francis Xavier eine entscheidende Rolle im religiösen und sozialen Leben des Landes und ist ein Ort der Ruhe und des Gebets inmitten des geschäftigen Nassau.",
+      "factsAdvanced": [
+        "Mutterkirche des Katholizismus auf den Bahamas",
+        "Sitz des Erzbischofs von Nassau",
+        "Kombination aus historischer Kapelle und moderner Kathedrale",
+        "Berühmt für zeitgenössische religiöse Kunst und Mosaike",
+        "Markantes Wahrzeichen auf dem West Hill",
+        "Zentrum für caritative und soziale Arbeit"
+      ]
+    },
+    {
+      "id": "pink-sands-hotel-architecture-landmarks-v2",
+      "descriptionAdvanced": "Das Pink Sands Hotel auf Harbour Island ist nicht nur eine luxuriöse Unterkunft, sondern ein architektonisches Wahrzeichen des 'Barefoot Chic' der Bahamas. Das Resort ist bekannt für seine harmonische Integration in die natürliche Umgebung des weltberühmten Pink Sands Beach. Die Architektur zeichnet sich durch klassische karibische Elemente wie weitläufige Verandas, Lamellenfenster und die Verwendung von Naturhölzern aus. Jedes Cottage ist so positioniert, dass es die Meeresbrise und den Blick auf den Atlantik optimal nutzt. Das Hotel hat über Jahrzehnte den exklusiven, entspannten Stil von Harbour Island geprägt und ist ein Musterbeispiel für nachhaltige Luxusarchitektur, die den Charme der alten Karibik mit modernem Komfort verbindet. Es symbolisiert den zeitlosen Reiz der Out Islands für die anspruchsvolle Weltelite.",
+      "factsAdvanced": [
+        "Pionier des luxuriösen 'Insel-Stils' der Bahamas",
+        "Direkt am weltberühmten Pink Sands Beach gelegen",
+        "Meisterhaftes Beispiel für tropische Holzarchitektur",
+        "Setzt Maßstäbe für diskreten High-End Tourismus",
+        "Eingebettet in 20 Hektar üppige tropische Gärten",
+        "Architektonisches Vorbild für Resorts weltweit"
+      ]
+    },
+    {
+      "id": "alice-town-police-station-landmarks-v2",
+      "descriptionAdvanced": "Die Alice Town Police Station auf Bimini ist weit mehr als nur ein Dienstgebäude; sie ist ein historischer Ankerpunkt in der kleinsten Siedlung der Bahamas. Das markante, oft frisch weiß und blau gestrichene Gebäude repräsentiert die Präsenz des Gesetzes in einer Gegend, die für ihre wilde Vergangenheit als Schmugglerparadies bekannt ist. Die Architektur ist typisch für bahamaische Regierungsbauten der Mitte des 20. Jahrhunderts, mit soliden Mauern und funktionalem Design. Gelegen im Herzen von Alice Town, ist die Station ein vertrauter Orientierungspunkt für Einheimische und Besucher gleichermaßen. Sie steht symbolisch für die Ordnung und Sicherheit, die in der einst gesetzlosen Ära der Prohibition etabliert wurden, und ist ein lebendiger Teil des sozialen Gefüges der Insel.",
+      "factsAdvanced": [
+        "Zentrales administratives Wahrzeichen von Bimini",
+        "Klassische bahamaische Behördenarchitektur",
+        "Symbol für die Etablierung der Rechtsstaatlichkeit",
+        "Wichtiger Treffpunkt und Informationspunkt für Segler",
+        "Historisch verbunden mit der Kontrolle der Goldküste",
+        "Markantes Gebäude an der Hauptstraße von Alice Town"
+      ]
+    },
+    {
+      "id": "ardastra-gardens-zoo-life-v2",
+      "descriptionAdvanced": "Ardastra Gardens, Zoo and Conservation Centre in Nassau ist ein einzigartiges Naturerlebnis und die Heimat des Nationalvogels der Bahamas, des Westindischen Flamingos. Gegründet in den 1930er Jahren vom jamaikanischen Gärtner Hedley Edwards, begann Ardastra als botanischer Garten und entwickelte sich zu einem Refugium für seltene und gerettete Tiere. Weltberühmt sind die 'Marching Flamingos', die in einer choreografierten Show ihren natürlichen Stolz und ihre Disziplin zeigen. Der Zoo legt großen Wert auf Erziehung und Naturschutz, insbesondere für bedrohte bahamaische Arten wie den Abaco-Papagei und die Bahama-Hutias. Inmitten von über vier Hektar üppiger tropischer Gärten bietet Ardastra eine Oase der Ruhe und die Möglichkeit, die faszinierende Artenvielfalt der Region aus nächster Nähe zu erleben.",
+      "factsAdvanced": [
+        "Erster und einziger Zoo der Bahamas (gegründet 1937)",
+        "Heimat der weltberühmten marschierenden Flamingos",
+        "Zentrum für den Schutz bedrohter lokaler Tierarten",
+        "Beherbergt über 200 Tiere und Vögel",
+        "Herausragende Sammlung tropischer Pflanzen und Bäume",
+        "Wichtige Bildungseinrichtung für bahamaische Kinder"
+      ]
+    },
+    {
+      "id": "lucayan-national-park-habitat-life-v2",
+      "descriptionAdvanced": "Der Lucayan National Park auf Grand Bahama schützt eines der komplexesten Unterwasserhöhlensysteme der Welt und ist ein Paradebeispiel für die ökologische Vielfalt der Bahamas. Der Park umfasst sechs verschiedene Ökosysteme, von dichten Kiefernwäldern und Mangrovensümpfen bis hin zu unberührten Dünen und Korallenriffen. Dieses reiche Habitat bietet Lebensraum für zahlreiche endemische Arten, darunter seltene Fische, Fledermäuse und Vögel. Für die Ureinwohner, die Lucayaner, war dieses Gebiet heilig, wovon Funde in den Höhlen zeugen. Der Park ermöglicht es Besuchern, die faszinierende Verbindung zwischen Land und Meer hautnah zu erleben, sei es durch Wanderungen auf Naturpfaden oder beim Erkunden der kühlen Höhleneingänge. Er ist ein unverzichtbares Erbe, das die natürliche Schönheit und Geschichte der Bahamas für zukünftige Generationen bewahrt.",
+      "factsAdvanced": [
+        "Beherbergt eines der längsten Unterwasserhöhlensysteme weltweit",
+        "Einziger Ort auf den Bahamas mit sechs verschiedenen Ökosystemen",
+        "Wichtiges Schutzgebiet für die einheimische Tier- und Pflanzenwelt",
+        "Standort der berühmten Burial Mound und Ben's Cave",
+        "Tor zum traumhaften Gold Rock Beach",
+        "Zentrum für ökologische Forschung und Bildung"
+      ]
+    },
+    {
+      "id": "pig-beach-exuma-life-v2",
+      "descriptionAdvanced": "Pig Beach bei Big Major Cay in den Exumas ist ein weltweites Phänomen und symbolisiert das unbeschwerte, außergewöhnliche Leben auf den Bahamas. Hier leben Kolonien von verwilderten Schweinen, die gelernt haben, dass Boote Nahrung bedeuten und deshalb neugierig auf Schwimmer zupaddeln. Wie die Schweine ursprünglich auf die einsame Insel kamen – ob durch ein Schiffswrack oder von Seeleuten als Vorrat zurückgelassen – bleibt ein Geheimnis, das den Reiz des Ortes nur erhöht. Die Tiere führen ein privilegiertes Leben in Freiheit, geschützt von der lokalen Gemeinschaft und bewundert von Touristen aus aller Welt. Die Begegnung mit den schwimmenden Schweinen im kristallklaren, türkisfarbenen Wasser ist eine der meistgesuchten Erfahrungen der Bahamas und zeigt die charmante, überraschende Seite der karibischen Natur.",
+      "factsAdvanced": [
+        "Weltberühmte Kolonie schwimmender Schweine",
+        "Gelegen auf der unbewohnten Insel Big Major Cay",
+        "Symbol für den spielerischen Umgang mit der Natur",
+        "Mysteriöse Herkunftslegenden faszinieren Besucher",
+        "Top-Attraktion für internationale Social Media-Präsenz",
+        "Zentrum eines verantwortungsvollen Tier-Tourismus"
+      ]
+    },
+    {
+      "id": "harbour-island-pferde-life-v2",
+      "descriptionAdvanced": "Das Reiten am Strand von Harbour Island ist ein Inbegriff von Freiheit und bahamaischer Eleganz. Die Pferde, die oft von lokalen Familien liebevoll betreut werden, galoppieren über den berühmten rosa Sand und bieten eine Perspektive auf die Insel, die man vom Golfkarren aus nie erreichen würde. Diese Tradition ist eng mit der Geschichte der Insel als ruhiger Rückzugsort verbunden, wo Mensch und Tier im Einklang mit den Elementen leben. Für viele Besucher ist ein Ritt bei Sonnenaufgang, wenn das Meer spiegelglatt ist und der Sand in zartem Rosa leuchtet, der spirituelle Höhepunkt ihrer Reise. Die Pferde sind perfekt an das Klima und die Umgebung angepasst und symbolisieren den entspannten, naturverbundenen Lebensstil, für den Harbour Island weltweit geschätzt wird. Es ist ein lebendiges Bild von klassischer karibischer Romantik.",
+      "factsAdvanced": [
+        "Legendäre Strandritte auf dem Pink Sands Beach",
+        "Pferde als Symbol für den entschleunigten Lebensstil",
+        "Beliebtes Erlebnis für Hochzeitsreisende und Familien",
+        "Traditionell von lokalen bahamaischen Guides geführt",
+        "Spektakuläre Fotomotive im türkisfarbenen Flachwasser",
+        "Ausdruck der tiefen Naturverbundenheit der Inselbewohner"
+      ]
+    },
+    {
+      "id": "eleuthera-ananas-farmen-life-v2",
+      "descriptionAdvanced": "Das Leben auf den Ananas-Farmen von Eleuthera ist tief verwurzelt in der Identität der Insel und erzählt eine Geschichte von harter Arbeit und süßen Erfolgen. Der Anbau der berühmten 'Sugar Loaf'-Ananas erfordert Geduld und spezielles Wissen über die eisenreichen roten Böden der Insel. Jede Frucht wird von Hand gepflegt, ein Prozess, der Generationen von Bauernfamilien geprägt hat. Die Farmen sind nicht nur Produktionsstätten, sondern auch Orte der Begegnung, an denen Besucher lernen, wie aus einem kleinen Schössling eine der süßesten Früchte der Welt wird. Die Erntezeit im Frühsommer ist ein kulturelles Highlight, das in lokalen Festen gipfelt. Diese Farmen symbolisieren den bahamaischen Stolz auf lokale Erzeugnisse und die Beständigkeit landwirtschaftlicher Traditionen in einer zunehmend globalisierten Welt.",
+      "factsAdvanced": [
+        "Zentrum des weltberühmten bahamaischen Ananasanbaus",
+        "Spezialisierung auf die extrem süße 'Sugar Loaf' Sorte",
+        "Eisenreiche rote Erde als geologische Besonderheit",
+        "Traditionelles Wissen wird seit dem 18. Jh. weitergegeben",
+        "Basis für das jährliche Pineapple Festival",
+        "Wichtiges Standbein der lokalen Selbstversorgung"
+      ]
+    },
+    {
+      "id": "pirates-of-nassau-museum-life-v2",
+      "descriptionAdvanced": "Das Pirates of Nassau Museum im Herzen der Hauptstadt bietet ein lebendiges und interaktives Fenster in das gefährliche Leben der Piraten im 18. Jahrhundert. In einer Zeit, in der Nassau die 'Republic of Pirates' war, bestimmten Gesetzlose wie Blackbeard und Woodes Rogers das Schicksal des Archipels. Das Museum entführt Besucher auf ein originalgetreu nachgebautes Piratenschiff, die 'Revenge', und lässt sie die klaustrophobische Enge, die Geräusche und die Mythen jener Ära erleben. Es räumt mit romantischen Klischees auf und zeigt die brutale Realität des Piratenlebens sowie den verzweifelten Kampf der britischen Krone, die Ordnung wiederherzustellen. Die Ausstellung ist ein wesentlicher Teil der bahamaischen Geschichtsvermittlung und verdeutlicht, wie sehr die Ära der Freibeuter die heutige Kultur und Folklore der Inseln geprägt hat.",
+      "factsAdvanced": [
+        "Interaktives Geschichtsmuseum im Zentrum von Nassau",
+        "Beherbergt den lebensgroßen Nachbau eines Piratenschiffs",
+        "Detaillierte Darstellung der Ära von 1690 bis 1720",
+        "Fokus auf legendäre Kapitäne wie Blackbeard",
+        "Spannende Einblicke in die Justiz- und Seekriegsgeschichte",
+        "Ein Muss für Familien und Geschichtsinteressierte"
+      ]
+    },
+    {
+      "id": "allen-cay-iguanas-life-v2",
+      "descriptionAdvanced": "Allen Cay in den nördlichen Exumas ist die Heimat einer der letzten Kolonien des bedrohten Allen-Cay-Leguans (Cyclura cychlura inornata). Diese urzeitlich anmutenden Echsen sind die wahren Herrscher der kleinen Inseln und haben sich perfekt an das Leben in der kargen Küstenvegetation angepasst. Da sie keine natürlichen Feinde auf der Insel haben, zeigen sie eine bemerkenswerte Zutraulichkeit gegenüber Menschen, die sich respektvoll nähern. Das Leben der Leguane ist eng mit dem Ökosystem der Cays verknüpft, wobei sie als wichtige Samenverbreiter fungieren. Für Forscher und Naturliebhaber bietet Allen Cay die seltene Gelegenheit, diese lebenden Fossilien in ihrem natürlichen Habitat zu beobachten. Der Schutz dieser Tiere ist eine nationale Priorität, und ihr Überleben symbolisiert den Erfolg bahamaischer Bemühungen um den Erhalt der einzigartigen Biodiversität des Archipels.",
+      "factsAdvanced": [
+        "Refugium für den bedrohten Allen-Cay-Felsenleguan",
+        "Eine der wenigen verbliebenen Inselpopulationen weltweit",
+        "Wichtiger Standort für den internationalen Artenschutz",
+        "Echsen können bis zu 40 Jahre alt werden",
+        "Zutrauliches Verhalten ermöglicht einzigartige Beobachtungen",
+        "Teil eines streng geschützten marinen Ökosystems"
+      ]
+    },
+    {
+      "id": "the-retreat-garden-nassau-life-v2",
+      "descriptionAdvanced": "The Retreat Garden in Nassau ist ein botanisches Paradies und der Hauptsitz des Bahamas National Trust. Gegründet von Arthur und Margaret Langlois, beherbergt dieser private Garten eine der weltweit größten Sammlungen seltener Palmenarten in einer halbprivaten Umgebung. Inmitten des geschäftigen Nassau bietet The Retreat eine Oase der Stille, in der Besucher durch dichte Waldwege wandern und die unglaubliche Vielfalt tropischer Flora bewundern können. Der Garten dient nicht nur der ästhetischen Freude, sondern ist ein wichtiges Forschungs- und Bildungszentrum für den Pflanzenschutz. Er verkörpert die Leidenschaft bahamaischer Naturschützer für den Erhalt der grünen Lunge der Insel New Providence. Ein Besuch in The Retreat ist eine Reise in die faszinierende Welt der Botanik und ein Zeugnis für die Kraft privater Initiativen zum Schutz der Umwelt.",
+      "factsAdvanced": [
+        "Sitz des Bahamas National Trust",
+        "Beherbergt eine Weltklasse-Palmensammlung (über 90 Arten)",
+        "Gegründet als privates Refugium in den 1920er Jahren",
+        "Bedeutendes Zentrum für Umwelterziehung",
+        "Oase der Biodiversität im städtischen Nassau",
+        "Wichtiger Standort für lokale Vogelbeobachtungen"
+      ]
+    },
+    {
+      "id": "compass-cay-nurse-sharks-life-v2",
+      "descriptionAdvanced": "Die Ammenhaie von Compass Cay in den Exumas bieten eines der faszinierendsten und friedlichsten Naturerlebnisse der Bahamas. In der kristallklaren Marina der Insel hat sich eine Gruppe von Ammenhaien (Ginglymostoma cirratum) angesiedelt, die fast wie Haustiere mit den Menschen interagieren. Diese Haie sind für ihr ruhiges Wesen bekannt und lassen sich im flachen Wasser beobachten und sogar vorsichtig berühren. Das Leben auf Compass Cay dreht sich um den Respekt vor diesen Meeresbewohnern, die ein wichtiger Teil des lokalen Ökosystems sind. Die Erfahrung zeigt Besuchern die sanfte Seite der Haie und trägt maßgeblich dazu bei, Vorurteile abzubauen. Es ist ein Ort, an dem die Grenze zwischen Mensch und Meereswelt auf magische Weise verschwimmt, und symbolisiert den Geist der Harmonie, der die Exumas so besonders macht.",
+      "factsAdvanced": [
+        "Weltberühmte Begegnungsstätte mit Ammenhaien",
+        "Hervorragendes Beispiel für nachhaltigen Meeres-Tourismus",
+        "Sicherer Ort für das Schwimmen mit Haien im flachen Wasser",
+        "Fördert das Verständnis für den Schutz mariner Räuber",
+        "Marina mit kristallklarem Wasser und hoher Sichtbarkeit",
+        "Ein Highlight jeder Exuma-Bootstour"
+      ]
+    },
+    {
+      "id": "aquaventure-atlantis-life-v2",
+      "descriptionAdvanced": "Aquaventure im Atlantis Resort auf Paradise Island ist weit mehr als nur ein Wasserpark; es ist ein technisches und erzählerisches Meisterwerk, das das Leben in der mythischen versunkenen Stadt nachempfunden hat. Inmitten von Millionen Litern Wasser finden sich spektakuläre Rutschen wie der 'Leap of Faith', die durch haigefüllte Lagunen führen. Der Park ist so gestaltet, dass er den abenteuerlichen Geist der Bahamas mit modernster Unterhaltungstechnologie verbindet. Überall finden sich Referenzen an die Unterwasserwelt und die Legenden von Atlantis. Für das tägliche Leben auf Paradise Island ist Aquaventure ein massiver Wirtschaftsmotor und der zentrale Anziehungspunkt für Familien aus aller Welt. Es verkörpert den Anspruch der Bahamas, Fantasie und reale Naturschönheit zu einem einzigartigen, lebensfrohen Gesamtkunstwerk zu verschmelzen.",
+      "factsAdvanced": [
+        "Größter Wasserpark in der Karibik und Mittelamerika",
+        "Einzigartige Rutschen durch echte Haifischbecken",
+        "Beinhaltet kilometerlange Flusslandschaften (River Rides)",
+        "Meisterwerk themenorientierter Freizeitarchitektur",
+        "Zentraler Bestandteil des Atlantis Resorts",
+        "Umschlagplatz für weltweiten Familientourismus"
+      ]
+    },
+    {
+      "id": "bahamas-agri-research-centre-life-v2",
+      "descriptionAdvanced": "Das Bahamas Agriculture Marine Resources and Science Institute (BAMSI) in North Andros ist das wissenschaftliche Rückgrat für die Zukunft der bahamaischen Ernährungssicherheit. Hier wird geforscht, wie die kargen Böden und die reichen Meeresressourcen nachhaltig und effizient genutzt werden können. BAMSI ist ein Ort des Lernens und der Innovation, an dem Studenten und Forscher moderne Techniken in der Aquakultur und im Gartenbau entwickeln. Das Leben auf dem Campus ist geprägt von Pioniergeist und dem Ziel, die Abhängigkeit von Lebensmittelimporten zu verringern. Die Arbeit am BAMSI zeigt, dass die Bahamas nicht nur ein Urlaubsziel sind, sondern ein Ort ernsthafter wissenschaftlicher Bemühungen zum Schutz und zur Optimierung der natürlichen Lebensgrundlagen. Es ist das Hirn und das Labor einer modernen, autarken Inselnation.",
+      "factsAdvanced": [
+        "Führendes Forschungszentrum für Land- und Meereswirtschaft",
+        "Standort in North Andros für optimale Testbedingungen",
+        "Fokus auf Ernährungssicherheit und Nachhaltigkeit",
+        "Akademische Ausbildungsstätte für junge Bahama-Insulaner",
+        "Entwicklung moderner Aquakultur-Methoden",
+        "Strategischer Pfeiler für die wirtschaftliche Unabhängigkeit"
+      ]
+    },
+    {
+      "id": "rand-nature-centre-life-v2",
+      "descriptionAdvanced": "Das Rand Nature Centre in Freeport, Grand Bahama, ist eine grüne Lunge und ein bedeutendes Zentrum für Umwelterziehung. Benannt nach dem Philanthropen James Rand, beherbergt dieser 40 Hektar große Park eine beeindruckende Vielfalt an einheimischen Pflanzen und dient als Zufluchtsort für zahlreiche Vogelarten, darunter den seltenen Bahama-Waldsänger. Die Wege führen durch Pinienwälder und vorbei an einem Süßwasserteich, der Flamingos und andere Wasservögel anzieht. Für die Bewohner von Freeport ist das Rand Centre ein unverzichtbarer Ort der Erholung und ein lebendiges Klassenzimmer, in dem die Bedeutung des Schutzes der Inselökosysteme vermittelt wird. Es verkörpert das Engagement des Bahamas National Trust für den Erhalt der Natur inmitten städtischer Entwicklung und ist ein Symbol für die ökologische Resilienz von Grand Bahama.",
+      "factsAdvanced": [
+        "Bedeutender Naturpark im Herzen von Freeport",
+        "Regionale Zentrale des Bahamas National Trust",
+        "Exzellenter Standort für professionelle Vogelbeobachtung",
+        "Beherbergt eine wertvolle botanische Sammlung",
+        "Wichtiger Ort für Umweltbildung und Workshops",
+        "Refugium für den seltenen bahamaischen Nationalvogel"
+      ]
+    },
+    {
+      "id": "long-island-viehzucht-life-v2",
+      "descriptionAdvanced": "Die Viehzucht auf Long Island ist ein fester Bestandteil des traditionellen Lebensrhythmus und zeugt von der landwirtschaftlichen Zähigkeit der Bewohner. Long Island gilt als eine der produktivsten Inseln des Archipels, wo Schafe und Ziegen oft in freier Wildbahn oder auf weitläufigen Weiden grasen. Diese Form der Tierhaltung hat eine lange Tradition und ist eng mit der lokalen Küche verknüpft, insbesondere mit Gerichten wie 'Mutton Souse'. Für die Bewohner ist das Vieh nicht nur eine Nahrungsquelle, sondern auch eine wertvolle Kapitalreserve und ein Symbol für Unabhängigkeit. Die Tiere sind perfekt an das kalkhaltige Terrain und das trockene Klima angepasst. Ein Besuch auf den Farmen von Long Island bietet einen authentischen Einblick in das ländliche Bahama, wo die Menschen noch im Einklang mit dem Land und seinen Ressourcen leben, weit entfernt vom Glanz der Resorts.",
+      "factsAdvanced": [
+        "Zentrum der bahamaischen Schaf- und Ziegenzucht",
+        "Traditionelle Weidewirtschaft seit der Kolonialzeit",
+        "Wichtiger Lieferant für die nationale Fleischproduktion",
+        "Prägt das kulinarische Erbe der Insel (Mutton-Gerichte)",
+        "Ausdruck der bäuerlichen Identität von Long Island",
+        "Symbol für landwirtschaftliche Resilienz und Selbstversorgung"
+      ]
+    },
+    {
+      "id": "andros-krabbenfang-life-v2",
+      "descriptionAdvanced": "Der Krabbenfang auf Andros ist eine tief verwurzelte kulturelle Tradition und eine lebenswichtige saisonale Tätigkeit für viele Inselbewohner. Andros, bekannt als die 'Landkrabben-Insel', beherbergt riesige Populationen von weißen und schwarzen Landkrabben, die während der Regenzeit in Massen aus ihren Bauten kommen. Der Fang erfolgt oft nachts mit Taschenlampen und erfordert Geschick und Schnelligkeit. Diese Tätigkeit ist mehr als nur Nahrungserwerb; sie ist ein soziales Ereignis, bei dem Familien zusammenkommen und ihr Wissen über die Wälder weitergeben. Die Krabben von Andros sind auf den Märkten von Nassau heiß begehrt und bilden die Basis für nationale Köstlichkeiten wie 'Crab and Rice'. Der Krabbenfang symbolisiert die tiefe Verbundenheit der 'Androsians' mit ihrem wilden, unberührten Hinterland und ihren Stolz auf die Schätze ihrer Natur.",
+      "factsAdvanced": [
+        "Kulturelles Highlight der Insel Andros ('Crab Fest')",
+        "Traditioneller Fang von weißen und schwarzen Landkrabben",
+        "Wichtiger Wirtschaftsfaktor während der Regenzeit",
+        "Basis für bahamaische Nationalgerichte",
+        "Ausdruck lokaler Naturkenntnis und Überlebenskunst",
+        "Zieht Feinschmecker aus dem ganzen Archipel an"
+      ]
+    },
+    {
+      "id": "bimini-nature-trail-life-v2",
+      "descriptionAdvanced": "Der Bimini Nature Trail auf South Bimini bietet eine faszinierende Reise durch die vielfältige Flora und Fauna dieser kleinen Inselgruppe. Der Pfad führt Wanderer durch dichte Küstenwälder und Mangrovensümpfe, die die Heimat der seltenen Bimini-Boa und zahlreicher Zugvögel sind. Das Leben auf diesem Trail ist ein Mikrokosmos der unberührten bahamaischen Natur, in dem man die Stille genießen und mehr über die ökologischen Zusammenhänge zwischen Land und Meer erfahren kann. Informationstafeln entlang des Weges erklären die Heilkraft einheimischer Pflanzen, die seit Jahrhunderten in der bahamaischen Volksmedizin ('Bush Medicine') verwendet werden. Für die Bewohner von Bimini ist dieser Pfad ein Symbol für den Schutz ihres natürlichen Erbes gegenüber der touristischen Entwicklung. Es ist ein Ort der Entschleunigung und der respektvollen Begegnung mit der Wildnis.",
+      "factsAdvanced": [
+        "Wichtigster Lehrpfad für Ökotourismus auf Bimini",
+        "Habitat der endemischen Bimini-Boa",
+        "Zentrum für das Studium der bahamaischen Buschmedizin",
+        "Exzellenter Ort für Vogelbeobachtung und Naturfotografie",
+        "Fördert das ökologische Bewusstsein auf der Insel",
+        "Schützt wertvolle Küstenökosysteme vor Überbauung"
+      ]
+    },
+    {
+      "id": "sanctuary-bay-delfine-life-v2",
+      "descriptionAdvanced": "Sanctuary Bay in Freeport, Grand Bahama, ist die Heimat des weltweit renommierten Dolphin Experience. Hier leben Große Tümmler in einer geschützten, natürlichen Lagune, die direkt mit dem Meer verbunden ist. Im Gegensatz zu vielen anderen Einrichtungen liegt der Schwerpunkt hier auf Bildung, Forschung und der Interaktion in einer Umgebung, die dem natürlichen Lebensraum so nah wie möglich kommt. Die Delfine interagieren freiwillig mit den Trainern und Besuchern, was Sanctuary Bay zu einem Zentrum für das Verständnis dieser intelligenten Meeressäuger macht. Für die lokale Gemeinschaft ist die Bucht ein Symbol für die harmonische Beziehung zwischen Mensch und Tier. Die Forschungsprogramme hier haben weltweit wertvolle Daten über das Sozialverhalten von Delfinen geliefert. Ein Besuch bietet die seltene Gelegenheit, die Magie der Ozeane hautnah und mit Respekt zu erleben.",
+      "factsAdvanced": [
+        "Weltweit anerkanntes Zentrum für Delfinforschung",
+        "Natürliche Lagune ermöglicht artgerechte Haltung",
+        "Pionier für interaktive Meeresbildungs-Programme",
+        "Starke Einbindung in den lokalen Naturschutz",
+        "Bekannt für seine sanften und respektvollen Begegnungen",
+        "Wichtiges Ziel für internationale Meeresbiologen"
+      ]
+    },
+    {
+      "id": "graycliff-chocolatier-life-v2",
+      "descriptionAdvanced": "Die Graycliff Chocolatier in Nassau ist ein Inbegriff für handwerkliche Exzellenz und den luxuriösen Genuss der Bahamas. Gelegen im historischen Graycliff-Viertel, verbindet die Schokoladenmanufaktur traditionelle europäische Techniken mit den exotischen Aromen der Karibik. Besucher können den Chocolatiers dabei zusehen, wie sie aus edelsten Kakaobohnen kleine Kunstwerke schaffen, die oft mit lokalen Zutaten wie Meersalz, Kokosnuss oder bahamaischem Rum verfeinert werden. Die Manufaktur ist Teil einer größeren kulturellen Wiederbelebung der West Hill Street und bietet Kurse an, in denen man selbst in die Kunst der Schokoladenherstellung eintauchen kann. Graycliff Chocolatier symbolisiert den modernen, anspruchsvollen Geist Nassaus, der koloniales Erbe mit kulinarischer Innovation verbindet und zeigt, dass die Bahamas auch im Bereich der gehobenen Gastronomie Weltklasse bieten.",
+      "factsAdvanced": [
+        "Erste Gourmet-Schokoladenmanufaktur der Bahamas",
+        "Spezialisierung auf handgemachte Pralinen mit Inselaromen",
+        "Teil des historischen Graycliff Heritage Village",
+        "Bietet interaktive Workshops für Schokoladenliebhaber",
+        "Verwendung von hochwertigem Kakaobutter aus der Region",
+        "Kultureller Hotspot in der historischen Oberstadt Nassaus"
+      ]
+    },
+    {
+      "id": "abaco-barb-pferde-life-v2",
+      "descriptionAdvanced": "Die Abaco-Barb-Pferde waren eine einzigartige Rasse verwilderter Pferde, die jahrhundertelang in den Wäldern von Great Abaco lebten. Ihre Herkunft wird oft auf spanische Galeonen zurückgeführt, die im 16. Jahrhundert Schiffbruch erlitten. Diese robusten Tiere entwickelten sich zu einer eigenständigen Unterart, die perfekt an die harten Bedingungen der Insel angepasst war. Obwohl die Rasse in ihrer reinen Form heute leider als ausgestorben gilt, bleibt ihre Geschichte ein mächtiges Symbol für die Wildnis und die Resilienz der Abacos. Naturschutzprojekte versuchen heute, durch Klontechniken und Zuchtprogramme das genetische Erbe dieser faszinierenden Tiere zu bewahren. Für die Menschen auf Abaco sind die Barbs Legenden, die die ungezähmte Seele ihrer Insel verkörpern und an die tiefen historischen Spuren erinnern, die Entdecker und Schiffbrüchige im Archipel hinterlassen haben.",
+      "factsAdvanced": [
+        "Einzigartige historische Wildpferderasse der Abacos",
+        "Vermutlich Nachfahren spanischer Pferde aus dem 16. Jh.",
+        "Symbol für die natürliche Zähigkeit der bahamaischen Fauna",
+        "Zentrum nationaler Naturschutz- und Klonprojekte",
+        "Kulturelles Erbe und Legende der nördlichen Bahamas",
+        "Erinnert an die maritime Geschichte der Schiffbrüche"
+      ]
+    },
+    {
+      "id": "marine-habitat-atlantis-life-v2",
+      "descriptionAdvanced": "Das Marine Habitat im Atlantis Resort auf Paradise Island ist das größte Freiluft-Aquarium der Welt und bietet einen spektakulären Einblick in das Leben unter den Meereswellen. In riesigen Lagunen, die Millionen Liter Meerwasser fassen, leben über 50.000 Meerestiere aus mehr als 250 Arten, darunter majestätische Mantarochen, riesige Haie und bunte Riff-Fische. Das Besondere an diesem Habitat ist die naturalistische Gestaltung, die die geheimnisvolle Unterwelt von Atlantis nachempfindet. Es dient nicht nur der Unterhaltung, sondern ist ein wichtiges Zentrum für Meeresforschung und die Rettung verletzter Tiere durch die Atlantis Blue Project Foundation. Besucher können durch transparente Tunnel wandern und die unglaubliche Vielfalt des bahamaischen Ozeans erleben, ohne nass zu werden. Es ist ein lebendiges Monument für die Schönheit und Zerbrechlichkeit der marinen Ökosysteme.",
+      "factsAdvanced": [
+        "Weltweit größtes Open-Air-Aquarium-System",
+        "Beherbergt über 50.000 Meeresbewohner",
+        "Zentrum für Meeresforschung und Artenschutz (Blue Project)",
+        "Spektakuläre Unterwassertunnel für direkte Beobachtung",
+        "Einzigartige Inszenierung der Atlantis-Mythologie",
+        "Nationales Vorzeigeobjekt für marine Bildung"
+      ]
+    }
+  ]
+}

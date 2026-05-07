@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nok-village-history-v2",
+      "descriptionAdvanced": "Das winzige Dorf Nok im Bundesstaat Kaduna barg eines der größten archäologischen Geheimnisse Afrikas. In den 1920er Jahren fanden Zinn-Bergarbeiter hier zufällig seltsame, fast lebensgroße Terrakotta-Köpfe mit markanten, dreieckigen Augen und aufwendigen Frisuren. Archäologen datierten diese Kunstwerke auf eine Zeit von 1000 v. Chr. bis 500 n. Chr., was sie zu den ältesten bekannten Skulpturen südlich der Sahara macht. Die sogenannte Nok-Kultur war jedoch nicht nur künstlerisch brillant: Sie waren auch die frühesten bekannten Eisenhüttenleute in ganz Westafrika, was bedeutet, dass sie den direkten Sprung von der Stein- in die Eisenzeit machten, ohne eine Bronzezeit zu durchlaufen. Geschichte K7 — Antike Zivilisationen und Terrakotta-Kunst.",
+      "factsAdvanced": [
+        "Namensgeber für die berühmte Nok-Kultur (ca. 1000 v. Chr. bis 500 n. Chr.).",
+        "Ursprungsort der ältesten bekannten Terrakotta-Skulpturen südlich der Sahara.",
+        "Die Nok-Menschen gehörten zu den frühesten Eisenschmieden Westafrikas.",
+        "Die Funde wurden zufällig in den 1920er Jahren während des Zinnabbaus gemacht.",
+        "Die Terrakotta-Köpfe zeichnen sich durch markante, dreieckige (gebohrte) Augen aus.",
+        "Das moderne Nok ist heute ein kleines, bescheidenes Bauerndorf."
+      ]
+    },
+    {
+      "id": "owo-palace-history-v2",
+      "descriptionAdvanced": "Der Olowo-Palast in Owo ist nicht nur ein Gebäude, er ist eine halbe Stadt. Mit seinen gut 40 Hektar und weit über 100 historischen Innenhöfen (Ugha) gilt er als der flächenmäßig größte erhaltene Palast auf dem gesamten afrikanischen Kontinent. Jeder Hof hat eine spezifische rituelle oder administrative Funktion, von königlichen Audienzen bis hin zu streng geheimen religiösen Opfern. Die Architektur ist eine faszinierende Mischung aus alten Yoruba-Strukturen und massiven Pfeilern, die stark an den Stil des alten Benin-Königreichs erinnern. Der Palast ist ein lebendiges Relikt, in dem der amtierende Olowo noch heute regiert und jahrhundertealte Traditionen, wie das Igogo-Festival, zelebriert werden. Gesellschaft K7 — Palastarchitektur und Yoruba-Königreiche.",
+      "factsAdvanced": [
+        "Gilt mit fast 40 Hektar als der größte traditionelle Palast in Afrika.",
+        "Beherbergt weit über 100 rituelle und administrative Innenhöfe (Ugha).",
+        "Sitz des traditionellen Königs von Owo (dem Olowo).",
+        "Die Architektur mischt geschickt Yoruba-Einflüsse mit denen des Edo-Volkes.",
+        "Viele Wände sind mit historischen, geometrischen Schnitzereien verziert.",
+        "Dient als Austragungsort für das weltberühmte Igogo-Kulturfestival."
+      ]
+    },
+    {
+      "id": "idanre-hill-history-v2",
+      "descriptionAdvanced": "Die Idanre-Hügel im Ondo-Staat sind eine atemberaubende, fast 1000 Meter hohe Granit-Siedlung, die über 800 Jahre lang eine komplette Stadt beherbergte. Um den Kriegern und Sklavenjägern im Tiefland zu entkommen, zogen die Ureinwohner auf dieses massive Plateau. Wer die heute berühmten '682 Stufen' hinaufsteigt, betritt eine verlorene Welt: Oben finden sich alte Paläste, unleserliche Fußabdrücke im Fels ('Agbake') und der mystische Owa-Fluss, dessen Wasser heilende Kräfte haben soll. Erst in den 1920er Jahren verließ der Großteil der Bevölkerung unter britischem Druck das Plateau, um die heutige moderne Stadt am Fuß des Berges zu gründen. Geschichte K6 — Felsensiedlungen und Zufluchtsorte.",
+      "factsAdvanced": [
+        "Historische Bergsiedlung auf fast 1000 Metern Höhe im Bundesstaat Ondo.",
+        "Diente über 800 Jahre lang als uneinnehmbare Festung und Stadt.",
+        "Besucher müssen exakt 682 steinerne Stufen erklimmen, um die Ruinen zu erreichen.",
+        "Beherbergt den historischen Palast des Königs (Owa) und heilige Schreine.",
+        "Wurde erst in den 1920er Jahren von der Bevölkerung weitgehend verlassen.",
+        "Steht auf der Tentativliste für das UNESCO-Weltkulturerbe."
+      ]
+    },
+    {
+      "id": "gidan-rumfa-history-v2",
+      "descriptionAdvanced": "Gidan Rumfa ist das Herz der Macht in Nordnigeria. Dieser massive Palast im Zentrum von Kano wurde im späten 15. Jahrhundert vom mächtigen König Muhammad Rumfa erbaut. Er führte zahlreiche administrative Reformen ein, darunter die strikte Trennung der Frauen in Harems, und baute diesen Palast, um den wachsenden islamischen Einfluss und den Reichtum aus dem Transsaharahandel zu demonstrieren. Mit einer unglaublichen Fläche von 13 Hektar ist er eine Stadt in der Stadt, gesichert durch hohe Lehmziegelmauern und bewacht von den königlichen Palastwachen, den 'Dogarai', in ihren ikonischen rot-grünen Gewändern. Noch heute residiert hier der Emir von Kano. Geschichte K7 — Islamische Architektur und Hausa-Könige.",
+      "factsAdvanced": [
+        "Erbaut im späten 15. Jahrhundert durch König Muhammad Rumfa.",
+        "Ist seit über 500 Jahren der offizielle Sitz der Emire von Kano.",
+        "Umfasst ein gigantisches Areal von 13 Hektar im Herzen der Altstadt.",
+        "Zeigt klassische sudano-sahelische Lehmziegelarchitektur.",
+        "Wird von den traditionellen Palastwachen ('Dogarai') in rot-grün bewacht.",
+        "Diente als Vorbild für viele andere königliche Paläste in Hausaland."
+      ]
+    },
+    {
+      "id": "zaria-city-walls-history-v2",
+      "descriptionAdvanced": "Die Zaria-Stadtmauern sind ein Denkmal für eine der faszinierendsten Frauen der afrikanischen Geschichte: Königin Amina. Im 16. Jahrhundert ließ diese unerbittliche Kriegerkönigin von Zazzau riesige Wälle um ihre Hauptstadt – und angeblich auch um alle von ihr eroberten Städte – errichten. Die Mauern von Zaria, ursprünglich bis zu 15 Kilometer lang, wurden aus zähem rotem Lehm (Tubali) erbaut und besaßen acht massive Tore. Sie sicherten die Stadt vor Kavallerieangriffen und dienten als Zollstationen für den Karawanenhandel. Obwohl sie heute durch Witterung und Zersiedelung stark zerfallen, erzählen die Ruinen noch immer die Legende einer Frau, die ein ganzes Imperium erschuf. Geschichte K8 — Königin Amina und vorkoloniale Verteidigungsanlagen.",
+      "factsAdvanced": [
+        "Ursprünglich im 16. Jahrhundert unter der legendären Kriegerkönigin Amina erbaut.",
+        "Umschlossen einst die gesamte historische Stadt Zaria auf einer Länge von 15 Kilometern.",
+        "Errichtet aus traditionellen sonnengetrockneten Lehmziegeln (Tubali).",
+        "Besitzt acht historische, stark befestigte Tore ('Kofar').",
+        "Sicherten die Stadt als einen Hauptknotenpunkt des Sklaven- und Kolanuss-Handels.",
+        "Sind heute aufgrund von Erosion und städtischem Wachstum stark vom Verfall bedroht."
+      ]
+    },
+    {
+      "id": "igbo-ukwu-history-v2",
+      "descriptionAdvanced": "Die zufällige Ausgrabung von Igbo-Ukwu im Jahr 1938 veränderte alles, was die westliche Welt über die historische afrikanische Metallurgie dachte. Ein lokaler Bauer stieß beim Graben einer Zisterne auf unglaublich filigrane, tausend Jahre alte Bronzeobjekte. Archäologen fanden später eine königliche Grabkammer voller Perlen, Elfenbein und Bronzeartefakten, die in der extrem schwierigen 'Verlorene Form'-Technik gegossen wurden. Die Handwerkskunst von Igbo-Ukwu datiert auf das 9. Jahrhundert n. Chr. und ist älter als die berühmten Bronzen von Ife oder Benin. Es beweist die Existenz einer hochkomplexen, extrem wohlhabenden Igbo-Zivilisation, weit vor jedem Kontakt mit Europäern. Geschichte K8 — Prähistorische Metallurgie und Igbo-Zivilisation.",
+      "factsAdvanced": [
+        "Archäologische Stätte, an der 1938 zufällig uralte Bronzen gefunden wurden.",
+        "Die Artefakte datieren auf das 9. Jahrhundert n. Chr. (älter als Ife oder Benin).",
+        "Die Bronzen wurden im hochkomplexen Wachsausschmelzverfahren gegossen.",
+        "Funde deuten auf ein tiefes, prähistorisches Handelsnetzwerk (Glasperlen aus Ägypten) hin.",
+        "Einige der berühmtesten Funde sind ein Bronze-Leopardenschädel und rituelle Gefäße.",
+        "Beweist die Existenz einer sehr alten, hoch entwickelten Herrschaftskultur im Igboland."
+      ]
+    },
+    {
+      "id": "oduduwa-shrine-history-v2",
+      "descriptionAdvanced": "Der Oduduwa-Schrein in Ile-Ife ist der sprichwörtliche Nabel der Welt für Millionen von Yoruba. In der traditionellen Mythologie war Oduduwa der erste König von Ile-Ife und der Vorvater aller legitimen Yoruba-Könige. Der Schrein markiert angeblich die exakte Stelle, an der Oduduwa vom Himmel herabstieg (oder aus dem Osten einwanderte) und das Land formte. Der Hain, in dem sich der Schrein befindet, ist ein heiliger, umzäunter Ort, der von Priestern bewacht wird. Einmal im Jahr pilgern Könige und Anhänger aus ganz Westafrika und Südamerika hierher, um Rituale durchzuführen, die das spirituelle Gleichgewicht der Erde erneuern sollen. Gesellschaft K7 — Ursprungsmythen und afrikanische Kosmologie.",
+      "factsAdvanced": [
+        "Liegt im heiligen Zentrum von Ile-Ife im Bundesstaat Osun.",
+        "Gewidmet Oduduwa, dem mythischen Vorvater und Ersten König aller Yoruba.",
+        "Markiert die legendäre Stelle der Welterschaffung in der Yoruba-Kosmologie.",
+        "Ein hochheiliger Ort, der nur bestimmten Priestern vollständig zugänglich ist.",
+        "Zentrum zahlreicher Rituale bei der Krönung neuer Yoruba-Monarchen (Obas).",
+        "Zieht Pilger aus der afrikanischen Diaspora (Kuba, Brasilien) an."
+      ]
+    },
+    {
+      "id": "kofar-mata-dyeing-pits-history-v2",
+      "descriptionAdvanced": "Die Kofar Mata Färbegruben in Kano sind eine lebende Zeitkapsel. Seit dem Jahr 1498 werden diese tiefen Löcher im Boden ohne Unterbrechung genutzt. Hier färben die Handwerker Stoffe in einem tiefen, satten Indigoblau – ein Farbton, der in der gesamten Sahara und von den Tuareg-Nomaden (den 'Blauen Männern der Wüste') historisch hoch geschätzt wurde. Der Prozess ist reine Alchemie: Indigopflanzen, Asche und lokale Mineralien werden gemischt und vergoren, um den Farbstoff ohne jegliche chemische Zusätze zu erzeugen. Noch heute schlagen die Arbeiter die nassen Stoffe mit schweren Holzknüppeln, ein Rhythmus, der seit fünf Jahrhunderten in Kano widerhallt. Wirtschaft K6 — Historischer Transsaharahandel und Textilien.",
+      "factsAdvanced": [
+        "Wurden im Jahr 1498 (vor über 500 Jahren) in Kano gegründet.",
+        "Sind die ältesten noch aktiven Färbegruben in ganz Afrika.",
+        "Bekannt für die Produktion von tiefem Indigoblau aus natürlichen Pflanzen.",
+        "Die Tuareg-Nomaden der Sahara waren historisch die größten Abnehmer dieser Stoffe.",
+        "Verwenden keine modernen Chemikalien, sondern Asche und pflanzliches Indigo.",
+        "Bestehen aus über 100 handgegrabenen, runden Gruben."
+      ]
+    },
+    {
+      "id": "esie-museum-history-v2",
+      "descriptionAdvanced": "Das kleine Dorf Esie im Bundesstaat Kwara hütet das größte Rätsel der afrikanischen Kunstgeschichte. Als der Ort im 18. Jahrhundert besiedelt wurde, fanden die Anwohner in einem nahegelegenen Wäldchen Hunderte von mysteriösen, perfekt in Speckstein (Steatit) geschnitzten Figuren. Die Statuen zeigen Männer und Frauen mit extrem aufwendigen Frisuren, Waffen und Musikinstrumenten. Bis heute weiß absolut niemand, wer diese über 800 Statuen erschaffen hat oder warum sie dort zurückgelassen wurden. Die britische Kolonialverwaltung baute 1945 das Esie-Museum um diese Fundstelle herum, das erste offizielle Nationalmuseum Nigerias, um diese steinernen Geister zu schützen. Geschichte K7 — Ungelöste archäologische Rätsel.",
+      "factsAdvanced": [
+        "Das älteste offizielle Nationalmuseum Nigerias (eröffnet 1945).",
+        "Beherbergt die größte Sammlung von Speckstein-Figuren (Steatit) weltweit.",
+        "Die über 800 Statuen wurden im 18. Jahrhundert von Einheimischen zufällig gefunden.",
+        "Herkunft, Alter und Schöpfer der Statuen sind bis heute ein komplettes archäologisches Mysterium.",
+        "Die Figuren stellen bewaffnete Männer und Frauen mit extravaganten Frisuren dar.",
+        "Die lokale Legende besagt, es seien versteinerte Menschen aus einem fremden Königreich."
+      ]
+    },
+    {
+      "id": "dufuna-canoe-history-v2",
+      "descriptionAdvanced": "Mitten im trockenen, wüstenartigen Yobe-Staat, fernab von Ozeanen, machte ein Fulani-Hirte 1987 einen unfassbaren Fund. Beim Graben eines Brunnens stieß er tief in der Erde auf ein pechschwarzes, massives Holzobjekt. Archäologen legten ein über 8 Meter langes, perfekt erhaltenes Einbaum-Kanu frei. Radiokarbon-Datierungen schockierten die wissenschaftliche Welt: Das Kanu ist atemberaubende 8.000 Jahre alt! Es ist das mit Abstand älteste in Afrika gefundene Boot und das drittälteste der Welt. Das Dufuna-Kanu beweist, dass diese trockene Sahel-Region einst von riesigen Seen durchzogen war und die frühen Afrikaner hochentwickelte nautische Ingenieure waren. Geschichte K8 — Prähistorische Schifffahrt und Klimawandel.",
+      "factsAdvanced": [
+        "Mit rund 8.000 Jahren (6000 v. Chr.) das älteste bekannte Boot Afrikas.",
+        "Das drittälteste erhaltene Wasserfahrzeug der gesamten Welt.",
+        "1987 zufällig von einem Kuhhirten im trockenen Yobe-Staat ausgegraben.",
+        "Bewies, dass die heutige Sahelzone einst extrem wasserreich (Mega-Tschadsee) war.",
+        "Wurde aus dem Stamm eines afrikanischen Mahagonibaums meisterhaft herausgeschnitzt.",
+        "Zeigt eine hochentwickelte, strömungsdynamische Bug-Konstruktion."
+      ]
+    },
+    {
+      "id": "mbari-cultural-centre-history-v2",
+      "descriptionAdvanced": "Das Mbari Cultural Centre in Owerri ist ein Denkmal für die vielleicht einzigartigste Kunstform der Igbo. Historisch gesehen ist 'Mbari' kein Museum, sondern ein Opferritual: Wenn eine Gemeinde unter Seuchen oder Krieg litt, errichteten die Bewohner riesige, extrem farbenfrohe Lehmhäuser voller lebensgroßer Statuen von Göttern (wie der Erdgöttin Ala), Tieren und alltäglichen Szenen. Das Verrückte daran: Nach der Fertigstellung wurde das Bauwerk niemals repariert, sondern absichtlich dem Verfall überlassen, da der Bau selbst das Opfer war. Das moderne Zentrum in Owerri bewahrt diese fast ausgestorbene Tradition der vergänglichen, monumentalen Lehmkunst für die Nachwelt auf. Gesellschaft K7 — Vergängliche Kunst und Igbo-Mythologie.",
+      "factsAdvanced": [
+        "Bewahrt die historische Tradition der 'Mbari'-Lehmhäuser der Igbo.",
+        "Mbari-Häuser waren gigantische Opfergaben an die Erdgöttin Ala.",
+        "Die Strukturen wurden nie instand gehalten, sondern absichtlich dem Regen überlassen.",
+        "Die Statuen stellen Götter, Leoparden, Schlangen und Kolonialbeamte dar.",
+        "Befindet sich in Owerri (Imo State) und wurde zu einem festen Museum umgestaltet.",
+        "Zeigt den Wandel von ritueller, temporärer Kunst zu musealer Erhaltung."
+      ]
+    },
+    {
+      "id": "surame-cultural-landscape-history-v2",
+      "descriptionAdvanced": "Mitten in der heißen Savanne des Sokoto-Staates ragen die Ruinen von Surame aus dem Staub – die Überreste des vielleicht massivsten Imperiums Westafrikas, von dem kaum jemand gehört hat. Im 15. Jahrhundert war Surame die Hauptstadt des mächtigen Königreichs Kebbi, regiert von dem legendären Kriegerkönig Kanta der Große. Er rebellierte gegen das Songhai-Reich und erbaute diese gigantische Stadt, deren Ruinen aus sorgfältig behauenen roten Lateritsteinen bestehen – eine absolute Seltenheit in einer Region, die sonst nur Lehmbauweise kannte. Die massive Steinmauer zeugt von einem unglaublich organisierten, hochmilitarisierten Staat, der fast die gesamte Sahelzone dominierte. Geschichte K8 — Das Königreich Kebbi und Steinarchitektur im Sahel.",
+      "factsAdvanced": [
+        "Ruinen der historischen Hauptstadt des mächtigen Königreichs Kebbi (15.-16. Jh.).",
+        "Erbaut von dem berühmten Kriegerkönig Muhammadu Kanta (Kanta der Große).",
+        "Einzigartig in der Region, da die gewaltigen Mauern aus geschichteten Steinen bestehen.",
+        "Das Königreich trotzte erfolgreich dem extrem mächtigen Songhai-Imperium.",
+        "Gilt als Meisterwerk der mittelalterlichen westafrikanischen Militärarchitektur.",
+        "Steht seit 2007 auf der Tentativliste für das UNESCO-Weltkulturerbe."
+      ]
+    },
+    {
+      "id": "mary-slessor-house-history-v2",
+      "descriptionAdvanced": "Dieses einfache Holzhaus in Okoyong (nahe Calabar) ist eng mit der mutigen schottischen Missionarin Mary Slessor verbunden. Im späten 19. Jahrhundert kam sie in eine Region, in der extreme Praktiken an der Tagesordnung waren – darunter der rituelle Mord an Zwillingen, da man glaubte, eines der Kinder sei ein böser Geist. Slessor, die die lokale Efik-Sprache fließend lernte und sich den europäischen Luxus verweigerte, kämpfte unerbittlich gegen diese Praxis, indem sie hunderte ausgesetzte Zwillinge in diesem Haus aufnahm und rettete. Ihr Einfluss war so gewaltig, dass sie als erste Frau zur Vize-Konsulin des britischen Empire ernannt wurde. Geschichte K7 — Missionarinnen und soziale Reformen.",
+      "factsAdvanced": [
+        "Erbaut im späten 19. Jahrhundert in Okoyong, nahe Calabar.",
+        "Wohnhaus der berühmten schottischen Missionarin Mary Slessor.",
+        "Slessor bekämpfte erfolgreich die kulturelle Praxis der Zwillings-Tötung.",
+        "Das Haus diente als Zufluchtsort und Waisenhaus für ausgesetzte Kinder.",
+        "Slessor lernte die Efik-Sprache perfekt und lebte wie die Einheimischen.",
+        "Sie wurde später offiziell zur britischen Vize-Konsulin der Region ernannt."
+      ]
+    },
+    {
+      "id": "lugard-hall-history-v2",
+      "descriptionAdvanced": "Die Lugard Hall in Kaduna ist der architektonische Zwilling der britischen Machtkalkulation in Nigeria. Erbaut in einem auffälligen pseudo-islamischen Stil mit britischen Elementen, benannt nach Lord Frederick Lugard, dem ersten Generalgouverneur von Nigeria. Dieses Gebäude war das politische Gravitationszentrum für ganz Nordnigeria. Als die Region in den 1950er Jahren die Selbstverwaltung anstrebte, war dies der Sitz des House of Assembly der mächtigen Northern Region, geleitet von Sir Ahmadu Bello. Die Gesetze, Debatten und oft auch Intrigen, die in diesen Mauern geschmiedet wurden, bestimmten das Schicksal von über der Hälfte der Bevölkerung Nigerias. Geschichte K8 — Britische Kolonialverwaltung und regionale Parlamente.",
+      "factsAdvanced": [
+        "Benannt nach Lord Frederick Lugard, dem Architekten des modernen Nigerias.",
+        "Befindet sich in Kaduna, der ehemaligen kolonialen Hauptstadt Nordnigerias.",
+        "Architektur ist eine markante Mischung aus britischem Kolonialstil und islamischen Kuppeln.",
+        "Historischer Sitz des mächtigen nordnigerianischen Parlaments (House of Assembly).",
+        "Schauplatz entscheidender Debatten für die Unabhängigkeit des Nordens in den 1950ern.",
+        "Dient noch heute als Verwaltungsgebäude für die Regierung des Kaduna-Staates."
+      ]
+    },
+    {
+      "id": "mount-patti-history-v2",
+      "descriptionAdvanced": "Mount Patti, ein 458 Meter hoher Berg in Lokoja, ist nicht nur ein schöner Aussichtspunkt – er ist der angebliche Kreißsaal der nigerianischen Nation. Die Legende besagt, dass die britische Journalistin (und spätere Ehefrau von Lord Lugard) Flora Shaw Ende des 19. Jahrhunderts auf diesem Berg stand, auf den gewaltigen Zusammenfluss von Niger und Benue blickte und dabei den Namen 'Nigeria' (Niger-Area) für dieses gigantische, neu geformte Protektorat erfand. Noch heute steht auf dem Gipfel das historische Rasthaus von Lord Lugard, von wo aus die Briten die Handelsrouten der Royal Niger Company kontrollierten. Geografie K7 — Namensgebung Nigerias und Aussichtspunkte.",
+      "factsAdvanced": [
+        "Ein 458 Meter hoher Berg, der die Stadt Lokoja überblickt.",
+        "Bietet eine spektakuläre Sicht auf den Zusammenfluss von Niger und Benue.",
+        "Hier soll Flora Shaw den Namen 'Nigeria' ('Niger Area') geprägt haben.",
+        "Beherbergt das historische, verfallene Rasthaus des Kolonialgouverneurs Lord Lugard.",
+        "Diente im 19. Jahrhundert als kühler Rückzugsort vor den Malaria-Mücken im Tal.",
+        "Besitzt heute Sendemasten der großen nigerianischen Telekommunikationsunternehmen."
+      ]
+    },
+    {
+      "id": "gobirau-minaret-history-v2",
+      "descriptionAdvanced": "Das Gobarau-Minarett ragt wie ein spitzer, brauner Finger aus Lehm über die Dächer von Katsina. Mit fast 15 Metern Höhe war dieses im späten Mittelalter (etwa um 1348) erbaute Türmchen das absolute Zentrum für islamische Theologie und Wissenschaft im Transsahara-Netzwerk. Katsina rivalisierte damals stark mit Timbuktu um die besten Gelehrten aus Nordafrika und Arabien. Das Minarett diente nicht nur dem Muezzin, sondern angeblich auch als Wachturm, um Feinde kilometerweit in der flachen Savanne zu erspähen – lokale Mythen behaupten gar, Priester konnten von der Spitze aus in der spirituellen Ferne die Kaaba in Mekka sehen. Geschichte K8 — Islamische Gelehrsamkeit und Lehmarchitektur.",
+      "factsAdvanced": [
+        "Erbaut im 14. Jahrhundert (ca. 1348) unter König Muhammadu Korau.",
+        "Besteht vollständig aus sonnengetrocknetem Lehm und Palmholz.",
+        "Ist 15 Meter hoch und das höchste historische Gebäude in Katsina.",
+        "War ein extrem wichtiges Zentrum für islamische Gelehrte ('Die Universität von Katsina').",
+        "Wurde angeblich genutzt, um feindliche Armeen frühzeitig in der Savanne zu erkennen.",
+        "Legenden besagen, große Heilige konnten von der Spitze bis nach Mekka blicken."
+      ]
+    },
+    {
+      "id": "slave-history-museum-history-v2",
+      "descriptionAdvanced": "Das Slave History Museum in Calabar liegt beklemmend genau am Rand des Marina-Yachthafens – exakt an den Ufern, an denen jahrhundertelang Sklavenschiffe ankerten. Es ist kein Museum für schwache Nerven. Mit extrem realistischen, akustisch untermalten Dioramen und originalen Eisenketten, Halsfesseln und Schiffsinventar dokumentiert es die absolute Brutalität der Bucht von Biafra, die einst fast 30 % aller nach Amerika verschleppten Sklaven lieferte. Das Museum zeigt aber auch das hochkomplexe System lokaler Häuptlinge und Zwischenhändler, die mit europäischen Kapitänen verhandelten, bevor der Handel im späten 19. Jahrhundert durch britische Kanonenboote gewaltsam gestoppt wurde. Geschichte K8 — Die grausame Logistik des transatlantischen Sklavenhandels.",
+      "factsAdvanced": [
+        "Das Museum liegt direkt am Ufer des historischen Verladehafens in Calabar.",
+        "Die Bucht von Biafra war einer der weltgrößten Exporthäfen für afrikanische Sklaven.",
+        "Beherbergt originale Fußfesseln, Ketten, Peitschen und Schiffsgeld (Kaurischnecken).",
+        "Nutzt sehr anschauliche Dioramen und Audioaufnahmen, um den Horror zu rekonstruieren.",
+        "Zeigt auch die geheimen Ekpe-Kulte, die den Sklavenhandel lokal kontrollierten.",
+        "Dokumentiert den langsamen, erzwungenen Übergang vom Sklaven- zum Palmölhandel."
+      ]
+    },
+    {
+      "id": "chief-ekpo-bassey-house-history-v2",
+      "descriptionAdvanced": "Mitten im Herzen von Calabar steht ein wunderschönes, auf Pfählen errichtetes Haus, das komplett aus England importiert wurde. Dieses Gebäude gehörte Häuptling Ekpo Bassey, einem der mächtigsten Efik-Händler der Kolonialzeit. Als der Sklavenhandel im 19. Jahrhundert gestoppt wurde, stürzte das lokale Wirtschaftssystem zunächst ab. Männer wie Ekpo Bassey passten sich jedoch blitzschnell an und wurden unglaublich reich, indem sie stattdessen Palmöl für europäische Seifenfabriken lieferten. Sein Haus, das ohne einen einzigen Nagel, nur mit Holzstiften erbaut wurde, war ein Statussymbol seines Reichtums und diente oft als inoffizielles Gerichtszimmer für die Krone, weshalb er von den Briten später in die Legislative berufen wurde. Wirtschaft K7 — Der Übergang vom Sklaven- zum Palmölhandel.",
+      "factsAdvanced": [
+        "Historisches Wohnhaus des einflussreichen Efik-Händlers Ekpo Bassey in Calabar.",
+        "Erbaut im Jahr 1882 aus vorgefertigtem Holz, das aus Großbritannien verschifft wurde.",
+        "Die Konstruktion kam ohne eiserne Nägel aus, nur Holzzapfen wurden verwendet.",
+        "Ekpo Bassey wurde durch den Export von Palmöl ('Legitimer Handel') unfassbar reich.",
+        "Er wurde 1914 von den Briten zum Mitglied des ersten gesetzgebenden Rates ernannt.",
+        "Das Gebäude ist heute ein offizielles Nationaldenkmal Nigerias."
+      ]
+    },
+    {
+      "id": "amalgamation-house-history-v2",
+      "descriptionAdvanced": "Das Amalgamation House im kleinen Ort Ikot Abasi ist der Ort, an dem ein riesiges Land auf einem Blatt Papier geboren wurde. In diesem schlichten, hölzernen Kolonialgebäude unterschrieb Lord Frederick Lugard am 1. Januar 1914 das Dokument, das das britische Protektorat Nordnigeria und das Protektorat Südnigeria zu einem einzigen gigantischen Land – Nigeria – vereinigte. Die Briten taten dies nicht aus Ideologie, sondern aus purer Buchhaltung: Der reiche Süden sollte die Verwaltung des bankrotten Nordens querfinanzieren. Das Haus in Ikot Abasi (damals Opobo) war Lugards administratives Hauptquartier, bevor die Machtzentren später nach Lagos und Kaduna verlegt wurden. Geschichte K8 — Die Geburt der nigerianischen Nation (1914).",
+      "factsAdvanced": [
+        "Befindet sich in der Stadt Ikot Abasi (früher bekannt als Opobo) im Bundesstaat Akwa Ibom.",
+        "Hier wurde am 1. Januar 1914 die formelle Zusammenlegung Nigerias vollzogen.",
+        "Lord Lugard unterzeichnete hier das Dekret zur Vereinigung von Nord- und Südnigeria.",
+        "Der Hauptgrund für die Fusion (Amalgamation) war die Umverteilung von Steuergeldern.",
+        "Das Gebäude diente einst als Verwaltungshauptquartier für Lord Lugard.",
+        "Es beherbergte auch das Büro des gefürchteten britischen Handelsmonopolisten Jaja von Opobo."
+      ]
+    },
+    {
+      "id": "alok-ikom-monoliths-history-v2",
+      "descriptionAdvanced": "Mitten im Dschungel des Cross-River-Staates ragen hunderte von Steinen aus dem Boden, als wären sie versteinerte Menschen. Die Alok Ikom Monolithen sind etwa 300 kunstvoll geschnitzte, oft überlebensgroße vulkanische Basaltsteine. Sie stehen meist im Kreis und weisen unglaubliche, geometrische Gesichter und Muster auf. Bis heute sind diese Steine ein ungelöstes Rätsel: Radiokarbon-Datierungen an nahegelegenen Kohlen deuten auf ein Alter von fast 2000 Jahren hin (ca. 200 n. Chr.). Die lokalen Ekoi-Völker verehren sie als Geister ihrer Ahnen, aber niemand weiß wirklich, wer diesen unfassbaren Aufwand betrieb, um diese harten Steine ohne moderne Metallwerkzeuge derart präzise zu schnitzen. Geschichte K7 — Megalithen und ungelöste vorkoloniale Rätsel.",
+      "factsAdvanced": [
+        "Etwa 300 vulkanische Steinsäulen im dichten Wald des Cross-River-Staates.",
+        "Die Monolithen tragen kunstvolle, oft stilisierte menschliche Gesichter und Muster.",
+        "Einige Steine stammen schätzungsweise aus dem Zeitraum 200 n. Chr. (fast 2000 Jahre alt).",
+        "Wer sie geschaffen hat und wie der extrem harte Basalt bearbeitet wurde, ist völlig unklar.",
+        "Sie sind meist kreisförmig angeordnet und werden lokal als Ahnengeister verehrt.",
+        "Stehen seit Jahren auf der Beobachtungsliste für gefährdete afrikanische Monumente."
+      ]
+    },
+    {
+      "id": "national-mosque-abuja-landmarks-v2",
+      "descriptionAdvanced": "Die nigerianische Nationalmoschee in Abuja ist das funkelnde religiöse Zentrum des Nordens, sichtbar aus fast jedem Winkel der Hauptstadt. Ihre gewaltige, schimmernde goldene Kuppel und die vier spitzen Minarette sind ein Meisterwerk moderner islamischer Architektur. Sie wurde in den 1980er Jahren erbaut, als die Hauptstadt von Lagos in das zentrale Abuja verlegt wurde. Die Moschee ist nicht nur ein Ort des Gebets für Tausende Gläubige freitags, sondern beherbergt auch eine große islamische Bibliothek, ein Konferenzzentrum und Wohnquartiere für Imame. Sie steht direkt gegenüber dem Nationalen Christlichen Zentrum – ein architektonisches Symbol für das angestrebte Gleichgewicht der Religionen in Nigeria. Gesellschaft K7 — Moderne religiöse Architektur und religiöse Balance.",
+      "factsAdvanced": [
+        "Wurde im Jahr 1984 erbaut und ist eine der größten Moscheen Afrikas.",
+        "Berühmt für ihre riesige, goldglänzende Hauptkuppel und die vier Minarette.",
+        "Befindet sich im zentralen Geschäftsbezirk (Central Business District) von Abuja.",
+        "Beherbergt ein Konferenzzentrum, eine Bibliothek und eine Koranschule.",
+        "Steht in symbolischer, direkter Sichtweite zum National Christian Centre.",
+        "Zieht auch Nicht-Muslime an, da sie außerhalb der Gebetszeiten besichtigt werden kann."
+      ]
+    },
+    {
+      "id": "national-christian-centre-abuja-landmarks-v2",
+      "descriptionAdvanced": "Das Nationale Christliche Zentrum (früher Ecumenical Centre) in Abuja ist das architektonische Gegenstück zur Nationalmoschee. Entworfen in einem spektakulären neo-gotischen Stil, wird das massive Gebäude von gewaltigen Strebebögen gestützt, die sich wie eiserne Spinnenbeine über ein Kupferdach wölben. Der Bau war ein jahrzehntelanges Drama: Begonnen 1989, rostete das Betonskelett über 15 Jahre lang vor sich hin, weil das Geld ausging, bis christliche Organisationen 2004 eine massive Spendenkampagne starteten, um es fertigzustellen. Der gigantische Turm der Kirche bietet einen der besten Ausblicke über die Hauptstadt, und die Kirche wird heute für große nationale Gedenkgottesdienste genutzt. Gesellschaft K7 — Neogotik in Afrika und Kirchenbau.",
+      "factsAdvanced": [
+        "Das wichtigste überkonfessionelle Kirchengebäude in der Hauptstadt Abuja.",
+        "Auffälliger neo-gotischer Architekturstil mit massiven, freistehenden Strebebögen.",
+        "Der Bau begann 1989, wurde aber wegen Geldmangels erst 2005 fertiggestellt.",
+        "Die beeindruckenden Buntglasfenster werfen ein rotes und grünes Licht ins Innere.",
+        "Der hohe Glockenturm bietet einen Panoramablick über das Regierungsviertel.",
+        "Dient für alle wichtigen christlichen Staatsfeiertage und Zeremonien."
+      ]
+    },
+    {
+      "id": "national-arts-theatre-lagos-landmarks-v2",
+      "descriptionAdvanced": "Das National Arts Theatre in Iganmu (Lagos) ist die unbestrittene Königin der afrikanischen Event-Architektur. Das Gebäude hat die Form eines gigantischen, auf dem Boden liegenden Militärhutes – dem Wappen des ehemaligen Militärherrschers Olusegun Obasanjo nachempfunden. Es wurde 1977 für FESTAC '77, das wohl größte und legendärste Panafrikanische Festival für Kunst und Kultur in der Geschichte, erbaut. Damals traten hier Weltstars wie Stevie Wonder vor Tausenden auf. Nach jahrzehntelangem, schmerzhaftem Verfall wird das riesige Innere mit seinen massiven Kinosälen und Ausstellungsräumen aktuell von der Zentralbank Nigerias (CBN) umfassend und aufwendig restauriert. Kunst K8 — Panafrikanismus und FESTAC '77.",
+      "factsAdvanced": [
+        "Erbaut 1976 für das legendäre Kunstfestival FESTAC '77 in Lagos.",
+        "Die Architektur erinnert stark an einen bulgarischen Militärhut.",
+        "Die große Haupthalle bietet Platz für weit über 3.000 Zuschauer.",
+        "War Jahrzehnte lang das absolute Zentrum der nigerianischen Unterhaltungsindustrie.",
+        "Nach jahrelanger Vernachlässigung aktuell in einer massiven Restaurierungsphase (durch CBN/Banken).",
+        "Der umliegende Park ist eine extrem beliebte Grünanlage für die Bewohner von Lagos."
+      ]
+    },
+    {
+      "id": "tafawa-balewa-square-landmarks-v2",
+      "descriptionAdvanced": "Der Tafawa Balewa Square (TBS) im Herzen von Lagos ist der Ort, an dem Nigeria seine Unabhängigkeit feierte. Ursprünglich von den Briten als Pferderennbahn ('Race Course') genutzt, wurde der Platz am 1. Oktober 1960 zum Schauplatz, als die britische Flagge gesenkt und die grün-weiße Flagge Nigerias gehisst wurde. Umgeben von massiven Tribünen, wird der Eingang von gigantischen, weißen Betonpferden und majestätischen Adlern bewacht – dem nigerianischen Staatswappen. Früher der Ort für alle wichtigen Militärparaden und politischen Reden, wird das monumentale Areal heute für gigantische religiöse Kreuzzüge, Mega-Konzerte und Handelsmessen genutzt. Geschichte K8 — Die Unabhängigkeitserklärung 1960.",
+      "factsAdvanced": [
+        "Zentraler Monumentalplatz in Lagos, benannt nach dem ersten Premierminister Tafawa Balewa.",
+        "Hier wurde am 1. Oktober 1960 offiziell die Unabhängigkeit Nigerias ausgerufen.",
+        "Historisch in der Kolonialzeit als Pferderennbahn ('Lagos Race Course') genutzt.",
+        "Der Haupteingang wird von vier riesigen, skulpturalen Pferden und Adlern flankiert.",
+        "Bietet auf seinen Tribünen Platz für über 50.000 Menschen.",
+        "Das nahegelegene, extrem hohe, 26-stöckige Independence House dominiert den Platz."
+      ]
+    },
+    {
+      "id": "third-mainland-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Third Mainland Bridge ist mehr als nur Beton und Stahl; sie ist die Lebensader von Lagos. Mit einer Länge von fast 12 Kilometern schlängelt sie sich wie eine gewaltige Schlange über die Lagune und verbindet das geschäftige Festland mit den wohlhabenden Inseln (Ikoyi, Victoria Island). Eröffnet 1990 vom Militärherrscher Ibrahim Babangida, war sie bis zum Bau einer Brücke in Kairo 1996 die längste Brücke ganz Afrikas. Für Millionen von Pendlern ist die Fahrt über die Brücke ein tägliches Ritual aus Stau, atemberaubenden Sonnenaufgängen über dem Wasser und dem unablässigen Hupen der gelben Danfo-Busse. Erdkunde K7 — Megastädte und Verkehrsinfrastruktur.",
+      "factsAdvanced": [
+        "Mit 11,8 Kilometern Länge die längste der drei Brücken, die Lagos verbinden.",
+        "War von 1990 bis 1996 die längste Brücke des gesamten afrikanischen Kontinents.",
+        "Erbaut von einem internationalen Konsortium (unter Führung von Julius Berger).",
+        "Wurde vom ehemaligen Militärpräsidenten Ibrahim Babangida offiziell eröffnet.",
+        "Die Brücke leidet chronisch unter unfassbaren, kilometerlangen Verkehrsstaus ('Go-Slow').",
+        "Wird regelmäßig für monatelange, komplexe Wartungsarbeiten gesperrt."
+      ]
+    }
+  ]
+}

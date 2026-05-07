@@ -1,0 +1,115 @@
+{
+  "lang": "ro",
+  "country": "pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPakistanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPakistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPakistanLifeV2.ts",
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts",
+    "lib/visualLab/data/poiExtraPakistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jinnah-garden-lahore-life-v2",
+      "descriptionAdvanced": "Bagh-e-Jinnah, fostele Grădini Lawrence, reprezintă inima verde și culturală a metropolei Lahore. Acest parc botanic expansiv, creat în secolul 19, este renumit pentru colecția sa masivă de copaci și arbuști rari din întreaga lume. Pe lângă frumusețea naturală, parcul include un teatru în aer liber, istorica Bibliotecă Quaid-e-Azam, și numeroase terenuri de sport unde localnicii joacă cricket în fiecare dimineață. Este un refugiu esențial împotriva zgomotului urban, oferind un spațiu vast pentru iubitorii de jogging și familii. Geografie K7 — parcuri botanice și viața urbană.",
+      "factsAdvanced": ["Cunoscut istoric sub numele de Grădinile Lawrence (perioada britanică)", "Găzduiește o colecție botanică imensă de arbori și plante rare", "Incorporează impunătoarea clădire a Bibliotecii Quaid-e-Azam", "Oferă spații mari pentru meciuri matinale de cricket amator", "Include un teatru în aer liber extrem de popular vara", "Un refugiu esențial de aer curat în mijlocul metropolei aglomerate Lahore"]
+    },
+    {
+      "id": "chunkey-monkey-islamabad-life-v2",
+      "descriptionAdvanced": "Chunkey Monkey este un parc de distracții îndrăgit, situat în incinta parcului Lake View din Islamabad. Renumit printre copiii locali pentru jetoanele sale și mașinăriile colorate, acest spațiu a devenit sinonim cu ieșirile de familie din weekend-urile însorite. Oferă un amestec de jocuri mecanice sigure, carusele și zone arcade care aduc zâmbete generațiilor de locuitori din capitală. După câteva ore de distracție, familiile se pot bucura de bărcile cu vâsle de pe Lacul Rawal din apropiere. Geografie K7 — atracții pentru copii și cultură urbană.",
+      "factsAdvanced": ["Situat convenabil în perimetrul popularei destinații Lake View Park", "Cel mai renumit parc de distracții pentru copii mici din capitală", "Atracțiile sale principale includ carusele clasice și jocuri mecanice", "Este o destinație standard pentru excursiile școlare locale", "Oferă zone ample pentru părinți de unde pot supraveghea activitățile", "Conectat direct cu alte facilități recreative de pe malul lacului"]
+    },
+    {
+      "id": "lal-suhanra-national-park-life-v2",
+      "descriptionAdvanced": "Parcul Național Lal Suhanra din regiunea Bahawalpur este un ecosistem remarcabil și una dintre cele mai mari rezervații de biosferă recunoscute de UNESCO în Asia de Sud. Ceea ce îl face cu adevărat unic este amestecul său de trei tipuri diferite de relief: deșert, pădure și zonă umedă. Înființat pentru a proteja specii rare precum antilopa Chinkara și rinocerul indian, parcul joacă un rol crucial în stoparea deșertificării și menținerea biodiversității. Vizitatorii pot experimenta safari-uri pe dunele de nisip din apropiere de Pădurea Neagră. Biologie K7 — rezervații ale biosferei și ecosisteme mixte.",
+      "factsAdvanced": ["Unul dintre cele mai întinse parcuri naționale din întreaga Asie de Sud", "Declarat oficial rezervație internațională a biosferei de către UNESCO", "Reunește ecosisteme distincte: deșert, lacuri umede și pădure virgină", "Adăpostește populații vitale de antilopă Chinkara și păsări migratoare", "A fost inițial înființat pentru a proteja speciile de rinoceri cu un corn", "Lacul Patisar din interiorul parcului este perfect pentru bird-watching"]
+    },
+    {
+      "id": "balochistan-apple-orchards-life-v2",
+      "descriptionAdvanced": "Munții răcoroși și solul stâncos din văile Ziarat și Pishin din Balochistan creează condițiile perfecte pentru cultivarea unora dintre cele mai crocante și gustoase mere din lume. Cunoscute pentru culorile lor vibrante de roșu închis și galben-auriu, aceste mere asigură baza economică a mii de familii tribale care practică o agricultură tradițională în terase. În perioada recoltei, văile sunt cuprinse de activitate febrilă, iar camioanele încărcate cu lăzi de lemn transportă producția către marile piețe din sudul Pakistanului. Geografie K7 — agricultura montană și horticultură.",
+      "factsAdvanced": ["Văile Ziarat și Pishin sunt centrele primare ale cultivării", "Merele locale sunt cunoscute internațional pentru gustul lor crocant", "Agricultura în terase montane previne eficient eroziunea solului stâncos", "Mii de familii rurale se bazează financiar doar pe această recoltă", "Zona montană oferă temperaturile scăzute necesare creșterii fructelor", "Cultura merelor sprijină industria puternică a transportului spre Karachi"]
+    },
+    {
+      "id": "bagh-e-jinnah-karachi-life-v2",
+      "descriptionAdvanced": "Cunoscut istoric sub numele de Grădinile Frere, Bagh-e-Jinnah este o insulă de calm situată în centrul fierbinte și aglomerat al metropolei Karachi. Parcul înconjoară faimoasa structură gotică Frere Hall și oferă vizitatorilor peluze vaste, alei umbrite de copaci seculari și grădini geometrice bine îngrijite. Deși situat în mijlocul traficului intens, este cel mai popular loc pentru plimbările de duminică ale localnicilor și pentru expoziții de carte veche, reunind cetățenii de toate vârstele și din toate păturile sociale. Geografie K7 — conservarea patrimoniului și spații publice.",
+      "factsAdvanced": ["Cunoscut anterior în perioada colonială drept Grădinile Frere", "Situat în jurul spectaculoasei clădiri gotice numite Frere Hall", "Una dintre cele mai vitale și vechi zone verzi din orașul Karachi", "În fiecare duminică, găzduiește o mare expoziție stradală de cărți vechi", "Oferă alei umbrite de arbori exotici aduși în perioada britanică", "Este administrat direct pentru a menține echilibrul ecologic urban"]
+    },
+    {
+      "id": "atlantis-water-park-karachi-life-v2",
+      "descriptionAdvanced": "În lunile sufocante de vară, Parcul Acvatic Atlantis din Karachi este refugiul preferat al orășenilor. Dotat cu tobogane acvatice extrem de abrupte, bazine cu valuri artificiale și zone largi de joacă, acest parc atrage zilnic mii de familii care caută alinare de la căldura implacabilă a regiunii Sindh. Designul său modern, cu sisteme puternice de filtrare a apei, oferă siguranță și divertisment la prețuri accesibile. Parcul pulsează de energie și veselie, reprezentând o fațetă vibrantă a culturii moderne a divertismentului pakistanez. Geografie K7 — parcuri acvatice și soluții recreative pentru climă extremă.",
+      "factsAdvanced": ["Constituie o atracție majoră în lunile de vară cu temperaturi extreme", "Atracțiile cheie includ bazinul masiv cu valuri și toboganele rapide", "Oferă facilități recreative igienice și sigure pentru familiile mari", "Construit special pentru a aduce ușurare în climatul torid din Karachi", "Vizitat constant în excursii organizate de școli pe parcursul anului", "Este unul dintre puținele complexe acvatice la standarde internaționale din sud"]
+    },
+    {
+      "id": "chitral-gol-national-park-life-v2",
+      "descriptionAdvanced": "Parcul Național Chitral Gol este un ecosistem izolat și extrem de accidentat, situat în adâncul munților Hindu Kush. Renumit pe plan internațional ca un sanctuar esențial pentru Markhor, capra sălbatică națională a Pakistanului (care posedă coarne spiralate uimitoare), parcul are un relief marcat de ghețari și chei stâncoase. Izolarea sa protejează și alte specii rare, inclusiv urșii negri himalayeni și leoparzii de zăpadă care patrulează silențios pe creste. Eforturile stricte anti-braconaj din parc implică strâns comunitățile indigene din Chitral. Biologie K7 — faună rară și ecologie montană.",
+      "factsAdvanced": ["Aflat în inima lanțului muntos Hindu Kush din vestul țării", "Un habitat protejat critic pentru faimoasa capră sălbatică Markhor", "Terenul său abrupt este brăzdat de ghețari mari și pârâuri repezi", "Adăpostește prădători de top, inclusiv rarul leopard de zăpadă", "Are programe stricte anti-braconaj gestionate de localnicii din zonă", "Vegetația este predominant formată din păduri alpine de cedru și pin"]
+    },
+    {
+      "id": "gilgit-baltistan-apricot-groves-life-v2",
+      "descriptionAdvanced": "Livezile de caiși din Gilgit-Baltistan sunt coloana vertebrală a vieții economice și culturale a regiunii muntoase de nord. În timpul primăverii, văi precum Hunza și Skardu explodează în flori de cais de un roz pal, creând peisaje de basm care atrag turiști de pretutindeni. Caisul a asigurat supraviețuirea localnicilor timp de milenii; fructele sunt uscate pe acoperișuri de piatră la soare pentru a furniza nutrienți esențiali pe durata iernilor cumplite, iar sâmburii sunt presați manual pentru extragerea unui ulei foarte valoros. Geografie K7 — agronomie montană și metode de subzistență.",
+      "factsAdvanced": ["Caișii sunt sursa principală de venit și hrană în Gilgit-Baltistan", "Înfloresc primăvara, aducând un aflux masiv de turiști în regiune", "Fructele recoltate sunt uscate pe acoperișurile din piatră pentru iarnă", "Din sâmburii duri se extrage tradițional un ulei bogat și nutritiv", "Metodele de cultivare s-au păstrat neschimbate de secole întregi", "Reprezintă un aliment de bază care a garantat longevitatea localnicilor"]
+    },
+    {
+      "id": "fatima-jinnah-park-islamabad-life-v2",
+      "descriptionAdvanced": "Parcul Fatima Jinnah (cunoscut și sub numele de Parcul F-9), denumit în onoarea sorei fondatorului statului, acoperă o suprafață enormă în Islamabad, fiind unul dintre cele mai mari parcuri publice acoperite din Asia de Sud. Spre deosebire de parcurile puternic amenajate, o mare parte a sa este lăsată intenționat în stare naturală de pădure, susținând viața sălbatică urbană. Dispune de rețele de poteci pitorești care atrag mii de alergători, o secțiune solară inovatoare și o sculptură maiestuoasă de oțel la intrarea principală. Geografie K7 — planificarea parcurilor masive și silvicultură urbană.",
+      "factsAdvanced": ["Recunoscut ca unul dintre cele mai masive parcuri urbane din toată Asia", "Aproape întregul sector F-9 din capitală este dedicat acestui parc", "Designul său combină peluzele deschise cu secțiuni mari de pădure virgină", "O sculptură complexă de oțel marchează poarta sa monumentală", "Găzduiește piste de jogging extrem de populare printre sportivi", "Denumit pentru a o onora pe respectata "Mamă a Națiunii" pakistaneze"]
+    },
+    {
+      "id": "sozo-water-park-lahore-life-v2",
+      "descriptionAdvanced": "Sozo Water Park, înființat pe malul canalului de est din Lahore, este o atracție de referință în peisajul divertismentului din Punjab. Găzduind primele și cele mai mari tobogane de mare viteză și piscine cu valuri din oraș, parcul oferă familiilor posibilitatea de a scăpa de veri-le dogoritoare. A fost conceput cu standarde inalte de filtrare a apei, atrăgând nu doar localnicii din metropolă, ci și mii de excursioniști din districtele învecinate. Este un exemplu colorat și zgomotos de recreere modernă în regiune. Geografie K7 — atracții acvatice și turism de zi.",
+      "factsAdvanced": ["Primul și cel mai avansat parc de distracții acvatice din zona Lahore", "Găzduiește o impresionantă piscină masivă cu valuri artificiale", "Atrage public numeros datorită toboganelor sale cu o înclinare bruscă", "Oferă o evadare eficientă din căldura extremă de vară a Punjabului", "Este frecvent vizitat de mii de elevi în cadrul excursiilor școlare", "Prezintă un sistem modern de reciclare a apei la standarde globale"]
+    },
+    {
+      "id": "saif-ul-maluk-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Saif-ul-Maluk, ascuns în Valea Kaghan la o altitudine amețitoare de peste 3.200 de metri, este considerat de mulți ca fiind cel mai frumos lac alpin din Pakistan. Înconjurat de culmile înzăpezite ale muntelui Malika Parbat, lacul are o nuanță de albastru hipnotizantă. Numele său provine dintr-o poveste persană de dragoste între un prinț persan și o prințesă zână (pari). Accesibil doar cu jeep-ul printr-un drum montan accidentat sau prin drumeții, lacul oferă o imagine oglindită perfectă a munților în zilele clare de vară. Geografie K7 — lacuri glaciare și folclor alpin.",
+      "factsAdvanced": ["Aflat la o altitudine de 3.224 de metri în faimoasa Vale Kaghan", "Nuanța sa turcoaz-albastră este rezultatul topirii directe a ghețarilor", "Asociat cu povestea folclorică romantică a prințului Saif și zânei Badi-ul-Jamal", "Munții Malika Parbat din fundal se oglindesc perfect în apa calmă", "Apele sale adăpostesc cantități importante de păstrăv brun", "Rămâne complet înghețat și inaccesibil în lunile severe de iarnă"]
+    },
+    {
+      "id": "k2-mountain-nature-v2",
+      "descriptionAdvanced": "Situat pe granița extremă dintre Pakistan și China, masivul K2 este a doua cea mai înaltă montură din lume (8.611 m) și, fără îndoială, cea mai greu de escaladat. Supranumit "Muntele Sălbatic" datorită pantei sale stâncoase înfricoșătoare, furtunilor neprevăzute și avalanșelor constante, muntele ucide o proporție semnificativă din alpiniștii curajoși care încearcă să-l cucerească. Spre deosebire de Everest, topografia K2 prezintă un vârf abrupt sub formă de piramidă, făcându-l regele necontestat al masivului Karakoram. Geografie K7 — geomorfologie și recorduri de altitudine.",
+      "factsAdvanced": ["Al doilea cel mai înalt munte din lume, având oficial 8.611 metri", "Cunoscut sub denumirea internațională temută de "Muntele Sălbatic"", "Are o rată de fatalitate mult mai ridicată pentru alpiniști decât Everestul", "Situat în lanțul muntos izolat Karakoram din Gilgit-Baltistan", "Are o formă piramidală izbitoare, complet lipsită de platouri sigure", "Zăpada abundentă și furtunile constante previn expedițiile frecvente"]
+    },
+    {
+      "id": "nanga-parbat-mountain-nature-v2",
+      "descriptionAdvanced": "Nanga Parbat, al nouălea munte ca înălțime de pe planetă (8.126 m), ancorează extremitatea vestică a lanțului Himalaya în Pakistan. Numele său se traduce literalmente prin "Muntele Gol", deoarece pereții săi abrupți de stâncă sunt adesea prea verticali pentru ca zăpada să se poată așeza. Muntele este notoriu printre alpiniști, purtând porecla înfricoșătoare de "Muntele Ucigaș" din cauza numeroaselor decese înregistrate aici în secolul 20. Versantul său sudic, Fațada Rupal, este cel mai înalt perete de stâncă drept din lume (4.600 m). Geografie K7 — alpinism și topografie himalayană.",
+      "factsAdvanced": ["Este al nouălea cel mai înalt munte de pe Glob, cu o înălțime de 8.126 metri", "Supranumit istoric "Muntele Ucigaș" din cauza expedițiilor tragice", "Termenul se traduce exact din limba urdu drept "Muntele Gol"", "Fațada sa sudică, denumită Fațada Rupal, are o coborâre abruptă de 4.600 metri", "Marchează frontiera extremă de vest a colosalului lanț Himalaya", "A fost escaladat cu succes pentru prima dată în anul 1953"]
+    },
+    {
+      "id": "hunza-valley-nature-v2",
+      "descriptionAdvanced": "Valea Hunza este deseori descrisă drept faimosul tărâm Shangri-La datorită frumuseții sale hipnotizante. Înconjurată de vârfuri gigantice precum Rakaposhi și Passu Sar, valea este tăiată adânc de râul Hunza. Ecosistemul său izolat susține zeci de sate străvechi, unde locuitorii trăiesc neobișnuit de mult datorită unei diete bazate pe apă din ghețar bogată în minerale și livezi de cais. Primăvara, miile de pomi fructiferi în floare creează contraste vii împotriva albului dur al zăpezii alpine, oferind peisaje inegalabile. Geografie K7 — văi himalayene și longevitate.",
+      "factsAdvanced": ["Adesea descrisă în literatura globală drept paradisul mitic Shangri-La", "Este mărginită vizual de faimoasele vârfuri montane Rakaposhi și Ultar Sar", "Populația locală este studiată pentru durata de viață și sănătatea excelentă", "Livezile masive de cais sunt o trăsătură distinctivă a acestei văi alpine", "Se întinde de-a lungul cursurilor superioare ale râului omonim Hunza", "Oferă acces rutier strategic prin faimoasa Autostradă Karakoram"]
+    },
+    {
+      "id": "deosai-national-park-nature-v2",
+      "descriptionAdvanced": "Platoul Deosai este o minune geologică aflată la joncțiunea Munților Karakoram și Himalaya de Vest. Denumit "Pământul Uriașilor" în folclorul local, suprafața sa ondulată uriașă, situată la o altitudine medie uluitoare de 4.114 metri, este al doilea cel mai înalt platou din lume (după platoul Changtang din Tibet). Neavând arbori, terenul mlaștinos este acoperit vara de ierburi alpine care găzduiesc apele strălucitoare ale Lacului Sheosar. Este un sanctuar nealterat, izolat complet timp de aproape opt luni de ninsori severe. Geografie K7 — platouri de mare altitudine și floră alpină.",
+      "factsAdvanced": ["Este al doilea platou masiv ca altitudine din lume (4.114 metri)", "Peisajul său lipsit de arbori se transformă total în lunile călduroase", "Numele Deosai se traduce tradițional ca fiind "Tărâmul Uriașilor"", "În mijlocul platoului se află minunatul Lac Sheosar", "Iarna aduce zăpezi dense care blochează complet accesul uman", "Zonă tampon vitală pentru fauna urșilor bruni himalayeni și a lupilor"]
+    },
+    {
+      "id": "indus-river-nature-v2",
+      "descriptionAdvanced": "Fluviul Indus este linia de salvare vitală a Pakistanului, cel mai lung fluviu al țării (aproximativ 3.180 km) și unul dintre cele mai lungi râuri din Asia. Izvorând din Podișul Tibetan înghețat, se scurge majestuos prin văile muntoase profunde din Karakoram, traversează câmpiile Punjabului și se varsă printr-o imensă deltă în Marea Arabiei, la sud de Karachi. Bazându-se pe topirea zăpezii și pe musoni, el hrănește cea mai mare rețea interconectată de irigații din lume, susținând supraviețuirea agricolă a zeci de milioane de cetățeni. Geografie K7 — rețele hidrografice și fluvii intercontinentale.",
+      "factsAdvanced": ["Cel mai mare și lung fluviu de pe teritoriul Pakistanului (3.180 kilometri)", "Își are izvoarele originare în Podișul Tibetan din regiunea izolată chineză", "Susține financiar și agricol cel mai mare sistem de irigații din lume", "Curge din munții reci Karakoram până la vărsarea în Marea Arabiei", "Este considerat linia principală de salvare și apă dulce a țării", "Fluviul este habitatul exclusiv al delfinului orb de Indus"]
+    },
+    {
+      "id": "satpara-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Satpara este un corp uriaș de apă proaspătă de un albastru strălucitor situat lângă orașul Skardu din Baltistan, aflându-se la altitudinea de aproximativ 2.600 de metri. Alimentat direct de topirea ghețarilor de pe podișul Deosai, lacul reține o cantitate masivă de apă care asigură potabilitatea și generarea de hidroenergie pentru locuitorii din Valea Skardu. Înconjurat de pante stâncoase colosale, acest lac găzduiește o mică insulă în centrul său care poate fi vizitată prin închirierea unor bărci pitorești de la localnici. Geografie K7 — lacuri glaciare și surse de apă dulce.",
+      "factsAdvanced": ["Situat la o altitudine pitorească de peste 2.600 metri, lângă Skardu", "Apa sa turcoaz este provenită direct din topirea ghețarilor alpini", "Principala sursă viabilă de apă potabilă pentru orașul muntos Skardu", "Un baraj construit recent la baza sa generează hidroenergie vitală", "Prezintă o insuliță distinctivă poziționată exact în centrul lacului", "Este considerat un paradis pentru iubitorii de pescuit la păstrăv"]
+    },
+    {
+      "id": "nangma-valley-nature-v2",
+      "descriptionAdvanced": "Valea Nangma, adânc ascunsă în regiunea îndepărtată Baltistan, a fost supranumită rampa de joacă perfectă pentru alpiniști. Cu obeliscuri imense din granit perfect neted care străpung cerul, precum Amin Brakk, muntele ce seamănă cu un deget uriaș, valea a devenit echivalentul pakistanez al Parcului Național Yosemite. Pășunile sale verzi luxoase situate de-a lungul râurilor repezi creează o armonie uimitoare la baza acestor giganți de piatră colosali. Geografie K7 — topografie stâncoasă și alpinism.",
+      "factsAdvanced": ["Comparată intens de experți cu celebrul Parc Național Yosemite", "Atrage puternic atleți extremi pentru escaladă pe stâncă liberă", "Este dominată vizual de marele monolit stâncos denumit Amin Brakk", "Ascunsă adânc în Munții Karakoram din provincia Gilgit-Baltistan", "Baza văii este acoperită cu pășuni alpine verzi neatinse de poluare", "Unul dintre cele mai fotogenice, dar izolate locuri din întregul Pakistan"]
+    },
+    {
+      "id": "hingol-national-park-nature-v2",
+      "descriptionAdvanced": "Parcul Național Hingol este cel mai mare parc național din Pakistan, întinzându-se pe o suprafață de peste 6.000 de kilometri pătrați de-a lungul coastei aride Makran din Balochistan. Peisajul său ireal combină deșertul de coastă, mlaștinile râului Hingol, și formațiuni stâncoase bizare modelate de vânt. Aici se află faimoasa stâncă "Prințesa Speranței" și muntele Sfinxului de la Makran. Parcul adăpostește misterioșii vulcani noroioși (chandragup) care aruncă la suprafață noroi rece de adâncime, fiind deopotrivă un loc sacru și un obiectiv geologic major. Geografie K7 — ecosisteme costiere și geologie eoliană.",
+      "factsAdvanced": ["Cel mai extins parc național din țară, protejând o suprafață enormă", "Conține formațiunea stâncoasă renumită denumită "Prințesa Speranței"", "Găzduiește singurii vulcani noroioși activi (chandragup) din stat", "Combină un estuar vast, o plajă aridă și munți sculptați eolian", "Sanctuar protejat pentru specii amenințate, inclusiv crocodilul de mlaștină", "Adăpostește templul hindus Hinglaj Mata în inima munților aride"]
+    },
+    {
+      "id": "attabad-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Attabad, situat în Valea Gojal (Hunza), s-a format în mod tragic în ianuarie 2010 în urma unei alunecări masive de teren care a blocat râul Hunza. Deși a distrus complet sate întregi și a scufundat porțiuni din Autostrada Karakoram sub peste 100 de metri de apă, rezultatul a fost un lac imens cu o culoare uimitoare de smarald intens. În prezent, vizitatorii din toată lumea vin să navigheze pe această oglindă de apă turcoaz spectaculoasă, barată de vârfuri zimțate. Geografie K7 — geologie, lacuri de baraj natural și dezastre naturale.",
+      "factsAdvanced": ["Creat complet de un dezastru masiv de alunecare de teren în 2010", "A inundat permanent sate întregi și vechea Autostradă Karakoram", "Este extrem de renumit pentru o apă cu o nuanță unică de smarald", "Are o lungime spectaculoasă estimată la peste 20 de kilometri", "Navigarea cu bărci motorizate este principala atracție turistică astăzi", "Noul tunel rutier sculptează munții laterali pentru a ocoli lacul"]
+    }
+  ]
+}

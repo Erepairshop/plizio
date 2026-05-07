@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "galmi-onion-processing-economic-v2",
+      "descriptionAdvanced": "A \"Galmi lilahagyma\" Niger egyik legismertebb mezőgazdasági exportcikke, és a Galmi környéki feldolgozó központ az iparág szíve. A rendkívül erős, fűszeres ízű hagymafajtát Nyugat-Afrika szerte keresik. A helyi gazdák esős és száraz évszakban egyaránt termesztik, majd a város piaca köré épült hálózat begyűjti, osztályozza és hatalmas zsákokban szállítja a tengerparti országokba (például Elefántcsontpartra). Földrajz K7 — afrikai agrár-export.",
+      "factsAdvanced": [
+        "A \"Galmi lilahagyma\" Nyugat-Afrika egyik legkeresettebb fűszernövénye.",
+        "A termelést intenzív, egész éves öntözéssel biztosítják.",
+        "Hatalmas zsákokban exportálják a környező tengerparti országokba.",
+        "Több ezer helyi gazdának nyújt stabil, magas megélhetést.",
+        "A hagyma szárítása és tárolása speciális helyi technikákkal történik.",
+        "A régió gazdasági felemelkedésének fő mozgatórugója."
+      ]
+    }
+  ]
+}

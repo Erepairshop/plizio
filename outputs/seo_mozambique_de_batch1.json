@@ -1,0 +1,296 @@
+
+{
+  "lang": "de",
+  "country": "mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "serra-gorongosa-relief-v2",
+      "descriptionAdvanced": "Die Serra da Gorongosa ist ein isoliertes Granitmassiv in der Provinz Sofala, das sich majestätisch bis zu einer Höhe von 1.863 Metern erhebt. Sie ist das Herzstück des Gorongosa-Nationalparks und eine entscheidende Wasserquelle für die umliegenden Ökosysteme. Ihre Hänge sind mit üppigem Regenwald bedeckt, der eine hohe Biodiversität aufweist, darunter viele endemische Arten von Pflanzen und Tieren, die nirgendwo sonst auf der Welt zu finden sind. Die Region ist ein Paradebeispiel für erfolgreiche Naturschutz- und Wiederherstellungsbemühungen nach dem Bürgerkrieg. Geographie K7 – Gebirgsbildung und Biodiversität.",
+      "factsAdvanced": [
+        "Der höchste Punkt des Massivs ist der Gogogo mit 1.863 Metern.",
+        "Die Serra da Gorongosa ist geologisch gesehen ein Inselberg.",
+        "Sie liefert den Großteil des Wassers für den Urema-See im Park.",
+        "Über 500 Vogelarten wurden im Gorongosa-Nationalpark nachgewiesen.",
+        "Das Massiv beherbergt einzigartige endemische Pflanzen wie die Gorongosa-Aloe.",
+        "Die Wiederaufforstungsprojekte haben seit 2004 über eine Million Bäume gepflanzt.",
+        "Die Region war während des mosambikanischen Bürgerkriegs (1977-1992) stark betroffen.",
+        "Forschung im Park konzentriert sich auf die Dynamik von Savannen- und Waldökosystemen."
+      ]
+    },
+    {
+      "id": "lebombo-berge-relief-v2",
+      "descriptionAdvanced": "Die Lebombo-Berge erstrecken sich über 800 Kilometer und bilden eine natürliche Grenze zwischen Mosambik, Südafrika und Eswatini. Dieser lange, schmale Gebirgszug besteht hauptsächlich aus rhyolithischem Vulkangestein, das während der jurassischen Zeit vor etwa 180 Millionen Jahren entstand. Die Berge sind nicht besonders hoch, erreichen aber Höhen von bis zu 800 Metern. Sie sind von großer ökologischer Bedeutung, da sie verschiedene Lebensräume von Savannen bis zu subtropischen Wäldern umfassen und eine wichtige Wasserscheide für Flüsse wie den Incomati und Pongola darstellen. Geschichte K6 – Geologische Formationen.",
+      "factsAdvanced": [
+        "Die Gebirgskette ist etwa 800 Kilometer lang.",
+        "Das Gestein ist vulkanischen Ursprungs und stammt aus dem Jura.",
+        "Der Name 'Lebombo' bedeutet in der Zulu-Sprache 'große Nase'.",
+        "Die Höhe variiert zwischen 400 und 800 Metern über dem Meeresspiegel.",
+        "Hier wurden einige der ältesten menschlichen Artefakte gefunden, datiert auf über 100.000 Jahre.",
+        "Der Krüger-Nationalpark liegt an der westlichen Flanke der Berge.",
+        "Die Berge sind Heimat der endemischen Lebombo-Eisenholzbaumart (Androstachys johnsonii).",
+        "Sie bilden die östliche Grenze des antiken Königreichs Swasiland."
+      ]
+    },
+    {
+      "id": "zungu-plateau-relief-v2",
+      "descriptionAdvanced": "Das Zungu-Plateau, auch bekannt als Lichinga-Plateau, ist ein ausgedehntes Hochland im Norden Mosambiks in der Provinz Niassa. Mit einer durchschnittlichen Höhe von etwa 1.300 Metern zeichnet es sich durch ein kühleres und feuchteres Klima aus als die umliegenden Tiefebenen. Diese Bedingungen machen es zu einem wichtigen landwirtschaftlichen Zentrum, insbesondere für den Anbau von Kartoffeln, Mais und Bohnen. Das Plateau ist von Miombo-Wäldern geprägt und stellt eine wichtige Wasserscheide für die Einzugsgebiete des Rovuma- und des Lugenda-Flusses dar. Geographie K5 – Hochland und Landwirtschaft.",
+      "factsAdvanced": [
+        "Die Durchschnittshöhe des Plateaus beträgt ca. 1.300 Meter.",
+        "Es liegt in der Provinz Niassa, der flächenmäßig größten Provinz Mosambiks.",
+        "Das Klima ist gemäßigt-tropisch, was den Anbau europäischer Nutzpflanzen ermöglicht.",
+        "Die Stadt Lichinga, die Hauptstadt der Provinz, liegt auf dem Plateau.",
+        "Während der Kolonialzeit war es als Vila Cabral bekannt.",
+        "Das Plateau ist von ausgedehnten Kiefernplantagen bedeckt, die in den 1960er Jahren angelegt wurden.",
+        "Es ist Teil des Großen Afrikanischen Grabenbruchs.",
+        "Die Region ist für ihre traditionelle Matrilinealgesellschaft bekannt."
+      ]
+    },
+    {
+      "id": "manica-hochland-relief-v2",
+      "descriptionAdvanced": "Das Manica-Hochland ist eine malerische Bergregion im Westen Mosambiks, die sich entlang der Grenze zu Simbabwe erstreckt. Es ist ein Ausläufer der östlichen Hochländer Simbabwes und bekannt für sein kühles Klima, hohe Niederschläge und fruchtbare Böden. Diese Bedingungen sind ideal für die Landwirtschaft; die Region ist führend im Anbau von Obst, Gemüse und Kaffee. Der höchste Berg Mosambiks, der Monte Binga (2.436 m), befindet sich in diesem Hochland. Die Landschaft ist geprägt von grünen Hügeln, tiefen Tälern und Wasserfällen. Landeskunde K6 – Agrarzonen.",
+      "factsAdvanced": [
+        "Der Monte Binga, Mosambiks höchster Punkt, liegt hier und misst 2.436 Meter.",
+        "Die Region ist ein Zentrum für den Anbau von Arabica-Kaffee.",
+        "Das Klima ist deutlich kühler als im Rest des Landes.",
+        "Die Felsmalereien von Chinhamapere, eine bedeutende prähistorische Stätte, befinden sich hier.",
+        "Das Hochland bildet eine wichtige Wasserscheide für den Pungwe- und den Buzi-Fluss.",
+        "Gold wurde hier schon in vorkolonialer Zeit abgebaut.",
+        "Die Stadt Chimoio ist das administrative und wirtschaftliche Zentrum der Region.",
+        "Die Biodiversität ist hoch, mit vielen endemischen Pflanzenarten."
+      ]
+    },
+    {
+      "id": "zambesi-delta-relief-v2",
+      "descriptionAdvanced": "Das Sambesi-Delta ist eines der wichtigsten Feuchtgebiete Afrikas und erstreckt sich über eine Fläche von rund 20.000 Quadratkilometern an der Mündung des viertlängsten Flusses des Kontinents. Es ist ein komplexes Mosaik aus Mangrovenwäldern, Graslandschaften, Sümpfen und Flussarmen. Diese Vielfalt an Lebensräumen unterstützt eine reiche Biodiversität, darunter große Populationen von Wasservögeln wie Pelikanen und Flamingos. Das Delta ist extrem fruchtbar und von großer Bedeutung für die Fischerei und die Landwirtschaft, insbesondere den Reisanbau. Ökologie K7 – Flussdeltas und Feuchtgebiete.",
+      "factsAdvanced": [
+        "Das Delta bedeckt eine Fläche von etwa 20.000 km².",
+        "Es ist eines der produktivsten Feuchtgebiete im südlichen Afrika.",
+        "Die Mangrovenwälder des Deltas sind die größten in Ostafrika.",
+        "Es ist ein Ramsar-Schutzgebiet, anerkannt für seine internationale Bedeutung.",
+        "Große Zuckerrohrplantagen, wie die bei Marromeu, befinden sich im Delta.",
+        "Historisch war das Delta ein Zentrum für den Elfenbein- und Sklavenhandel.",
+        "Die Population des Afrikanischen Büffels hier ist eine der größten des Kontinents.",
+        "Der Bau des Cahora-Bassa-Staudamms hat den Sedimentfluss ins Delta erheblich reduziert."
+      ]
+    },
+    {
+      "id": "cabo-delgado-kuesten-relief-v2",
+      "descriptionAdvanced": "Die Küste von Cabo Delgado im Norden Mosambiks ist eine der unberührtesten und landschaftlich reizvollsten Regionen des Landes. Sie zeichnet sich durch feine weiße Sandstrände, türkisfarbenes Wasser und eine Kette von vorgelagerten Inseln aus, die das Quirimbas-Archipel bilden. Unter Wasser verbergen sich ausgedehnte Korallenriffe, die eine spektakuläre Artenvielfalt an Meereslebewesen beherbergen. Die Küste ist geprägt von kleinen Fischerdörfern und historischen Handelsposten wie Ibo. In jüngerer Zeit sind hier riesige Erdgasvorkommen entdeckt worden. Geographie K9 – Küstenformen und Meeresressourcen.",
+      "factsAdvanced": [
+        "Die Küstenlinie von Cabo Delgado ist über 400 Kilometer lang.",
+        "Das Quirimbas-Archipel besteht aus über 30 Koralleninseln.",
+        "Ein großer Teil der Küste und der Inseln gehört zum Quirimbas-Nationalpark.",
+        "Die Bucht von Pemba ist einer der tiefsten natürlichen Häfen der Welt.",
+        "Die Region ist ein Hotspot für die Biodiversität von Korallenriffen.",
+        "Vor der Küste liegen die größten Erdgasreserven, die in den letzten Jahrzehnten in Subsahara-Afrika entdeckt wurden.",
+        "Historisch war die Küste ein wichtiger Teil der Swahili-Handelsrouten.",
+        "Die Region ist bekannt für ihre traditionellen Dhaus, hölzerne Segelboote."
+      ]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "descriptionAdvanced": "Das Tete-Tiefland ist eine ausgedehnte, trockene Beckenlandschaft, die sich entlang des Sambesi-Flusses in der Provinz Tete erstreckt. Die Region ist für ihr extrem heißes und arides Klima bekannt, mit Temperaturen, die regelmäßig 40°C überschreiten. Die Vegetation besteht hauptsächlich aus Mopane- und Baobab-Savannen. Trotz der harschen Bedingungen ist das Tiefland geologisch sehr reich. Es beherbergt die größten Kohlevorkommen Mosambiks, was die Region zu einem Zentrum des Bergbaus gemacht hat. Der Cahora-Bassa-Staudamm, einer der größten in Afrika, befindet sich ebenfalls hier. Wirtschaft K8 – Rohstoffabbau.",
+      "factsAdvanced": [
+        "Tete ist eine der heißesten Städte Mosambiks.",
+        "Die Region beherbergt Kohlereserven von mehreren Milliarden Tonnen.",
+        "Die Moatize-Mine ist eine der größten Kohleminen der Welt.",
+        "Der Cahora-Bassa-Staudamm erzeugt über 2.000 Megawatt Strom.",
+        "Der Sambesi ist die Hauptwasserquelle in dieser ariden Region.",
+        "Die Vegetation ist an Trockenheit angepasst, dominiert von Mopane-Bäumen.",
+        "Historisch war die Region Teil des Monomotapa-Reiches.",
+        "Die Tete-Brücke ist eine wichtige Verkehrsverbindung über den Sambesi."
+      ]
+    },
+    {
+      "id": "gaza-ebene-relief-v2",
+      "descriptionAdvanced": "Die Gaza-Ebene ist eine weite, flache und sandige Landschaft im Süden Mosambiks, die sich von der Küste des Indischen Ozeans bis ins Landesinnere erstreckt. Sie wird vom Limpopo-Fluss durchzogen, der hier ein breites Überschwemmungsgebiet bildet. Die Böden sind überwiegend sandig, aber in der Nähe des Flusses sehr fruchtbar, was intensiven Ackerbau ermöglicht. Die Ebene ist anfällig für extreme Wetterereignisse wie Dürren und verheerende Überschwemmungen, wie die große Flut im Jahr 2000. Die Region ist das Herzland des Gaza-Reiches aus dem 19. Jahrhundert. Geographie K5 – Ebenen und Flusssysteme.",
+      "factsAdvanced": [
+        "Die Ebene liegt in der Provinz Gaza, einer der größten Provinzen des Landes.",
+        "Der Limpopo-Fluss ist die Lebensader der Region.",
+        "Der Banhine-Nationalpark, ein wichtiges Feuchtgebiet, liegt in der Ebene.",
+        "Die Region ist das Zentrum der Chopi-Kultur, bekannt für ihre Timbila-Musik (UNESCO-Kulturerbe).",
+        "Im Jahr 2000 verursachte eine massive Flut des Limpopo eine humanitäre Katastrophe.",
+        "Die Landwirtschaft konzentriert sich auf Mais, Maniok und Cashewnüsse.",
+        "Die Hauptstadt der Provinz, Xai-Xai, liegt an der Mündung des Limpopo.",
+        "Die Ebene ist nur dünn besiedelt."
+      ]
+    },
+    {
+      "id": "niassa-waldgebiet-relief-v2",
+      "descriptionAdvanced": "Das Niassa-Waldgebiet, das einen Großteil der gleichnamigen Provinz im Norden Mosambiks einnimmt, ist das größte Schutzgebiet des Landes. Es ist geprägt von riesigen Flächen unberührter Miombo-Wälder, die von Granit-Inselbergen durchzogen sind. Dieses riesige Wildnisgebiet ist Heimat für eine der bedeutendsten Elefantenpopulationen Afrikas sowie für Löwen, Leoparden und eine der größten Populationen von Wildhunden. Das Gebiet ist extrem dünn besiedelt und stellt eine der letzten großen Wildnisse des Kontinents dar. Biologie K9 – Schutzgebiete und Wildtiermanagement.",
+      "factsAdvanced": [
+        "Das Niassa-Wildreservat ist mit 42.000 km² größer als die Schweiz.",
+        "Es beherbergt über 12.000 Elefanten.",
+        "Hier lebt eine der drei größten Populationen des afrikanischen Wildhundes.",
+        "Mehr als 400 Vogelarten sind im Reservat dokumentiert.",
+        "Das Gebiet ist praktisch frei von menschlicher Besiedlung.",
+        "Der Lugenda-Fluss ist die Hauptwasserader des Reservats.",
+        "Das Reservat ist Teil eines grenzüberschreitenden Schutzgebiets mit Tansania.",
+        "Miombo-Wald ist ein für das südliche Zentralafrika typischer, laubabwerfender Waldtyp."
+      ]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "descriptionAdvanced": "Das Nampula-Hochland ist ein hügeliges Plateau im Nordosten Mosambiks, das sich durch seine charakteristischen Granit-Inselberge (Monadnocks) auszeichnet. Diese Felsformationen ragen abrupt aus der ansonsten flachen bis sanft gewellten Landschaft empor und schaffen ein einzigartiges Panorama. Die Böden des Hochlands sind relativ fruchtbar, was die Region zu einem wichtigen landwirtschaftlichen Zentrum für den Anbau von Cashewnüssen, Baumwolle und Mais macht. Die Stadt Nampula, die drittgrößte Stadt Mosambiks, ist das wirtschaftliche und administrative Herz dieser Region. Geologie K6 – Felsformationen.",
+      "factsAdvanced": [
+        "Die Inselberge von Nampula sind geologische Formationen aus Granit.",
+        "Die Region ist der größte Produzent von Cashewnüssen in Mosambik.",
+        "Die Stadt Nampula ist ein wichtiger Verkehrsknotenpunkt im Norden.",
+        "Die Ilha de Moçambique, ein UNESCO-Weltkulturerbe, liegt vor der Küste Nampulas.",
+        "Das Hochland hat eine durchschnittliche Höhe von etwa 400-600 Metern.",
+        "Die Makua sind die dominierende ethnische Gruppe in der Region.",
+        "Der höchste Inselberg in der Nähe von Nampula ist der Mount Ribaue.",
+        "Die Region hat eine hohe Bevölkerungsdichte im Vergleich zu anderen Teilen Nordmosambiks."
+      ]
+    },
+    {
+      "id": "mount-namuli-relief-v2",
+      "descriptionAdvanced": "Der Mount Namuli ist mit 2.419 Metern der zweithöchste Berg Mosambiks und erhebt sich dramatisch aus der umliegenden Ebene in der Provinz Zambezia. Dieses massive Granit-Inselbergmassiv ist ein global anerkannter Hotspot der Biodiversität. Seine Hänge sind mit einzigartigen Bergwäldern und Graslandschaften bedeckt, die eine Vielzahl endemischer Arten beherbergen, darunter mehrere Vögel, Reptilien und Pflanzen, die nur hier vorkommen. Für die lokale Bevölkerung hat der Berg eine immense spirituelle Bedeutung und ist eine wichtige Wasserquelle. Biologie K8 – Endemismus und Biodiversität.",
+      "factsAdvanced": [
+        "Mit 2.419 Metern ist er der höchste Berg in der Provinz Zambezia.",
+        "Er wird als 'Himmelinsel' bezeichnet, da sein Ökosystem von den umliegenden Tiefländern isoliert ist.",
+        "Mindestens 12 endemische Wirbeltierarten sind vom Mount Namuli bekannt.",
+        "Darunter der Namuli-Webervogel (Ploceus nicolli) und die Namuli-Zwergkröte (Mertensophryne namuli).",
+        "Der Berg ist die Quelle mehrerer wichtiger Flüsse der Region.",
+        "Die Wälder des Mount Namuli sind durch die Ausdehnung der Landwirtschaft bedroht.",
+        "Das Legado-Namuli-Projekt arbeitet daran, den Berg und seine Kultur zu schützen.",
+        "Der Berg hat eine große spirituelle Bedeutung für die lokale Makua-Gemeinschaft."
+      ]
+    },
+    {
+      "id": "mount-binga-relief-v2",
+      "descriptionAdvanced": "Der Monte Binga ist mit einer Höhe von 2.436 Metern der höchste Punkt Mosambiks. Er liegt im Chimanimani-Massiv an der Grenze zu Simbabwe in der Provinz Manica. Der Berg besteht hauptsächlich aus Quarzit, was ihm seine zerklüfteten und spektakulären Felsformationen verleiht. Die Besteigung ist anspruchsvoll und führt durch eine vielfältige Landschaft aus Grasland, Heideland und Felswänden. Der Berg und seine Umgebung sind Teil des grenzüberschreitenden Chimanimani-Nationalparks, der für seine einzigartige Flora und Fauna und seine hohe Endemismusrate bekannt ist. Geographie K9 – Hochgebirge.",
+      "factsAdvanced": [
+        "Mit 2.436 Metern ist er der offizielle höchste Berg Mosambiks.",
+        "Er liegt direkt auf der Grenze zwischen Mosambik und Simbabwe.",
+        "Der Berg ist Teil des Chimanimani-Transfrontier-Parks.",
+        "Das Gestein besteht aus präkambrischem Quarzit.",
+        "Die Region ist ein Hotspot für Pflanzenendemismus.",
+        "Der Aufstieg zum Gipfel erfordert technisches Klettern und ist anspruchsvoll.",
+        "Der Name 'Chimanimani' bedeutet in der lokalen Sprache 'in einer Reihe gequetscht'.",
+        "Die Region wurde 2019 vom Zyklon Idai schwer getroffen, was zu massiven Erdrutschen führte."
+      ]
+    },
+    {
+      "id": "zambezia-kuesten-relief-v2",
+      "descriptionAdvanced": "Die Küste der Provinz Zambezia ist eine ausgedehnte, flache und feuchte Region, die von der Mündung des Sambesi-Flusses geprägt wird. Sie zeichnet sich durch eine komplexe Landschaft aus Mangrovenwäldern, Küstenlagunen, Sandbänken und kleinen Fischerdörfern aus. Die Küste ist wirtschaftlich stark von der Fischerei, insbesondere dem Garnelenfang, abhängig. Die Mangroven dienen als wichtige Brutstätte für viele Fischarten und schützen die Küste vor Erosion. Die historische Stadt Quelimane, die Provinzhauptstadt, war einst ein wichtiger Hafen für den Sklaven- und Elfenbeinhandel. Ökologie K6 – Küstenökosysteme.",
+      "factsAdvanced": [
+        "Die Küstenlinie ist über 400 Kilometer lang.",
+        "Die Mangrovenwälder hier gehören zu den ausgedehntesten in Ostafrika.",
+        "Die Region ist Mosambiks Hauptproduzent von Garnelen (Gamba).",
+        "Die Stadt Quelimane war ein wichtiger Handelsposten der Swahili-Kultur.",
+        "Die Küste ist anfällig für tropische Zyklone.",
+        "Der Fluss Bons Sinais (Gute Zeichen) mündet bei Quelimane ins Meer.",
+        "Vasco da Gama landete 1498 in dieser Region.",
+        "Die Küste ist nur dünn besiedelt und touristisch kaum erschlossen."
+      ]
+    },
+    {
+      "id": "chimoio-plateau-relief-v2",
+      "descriptionAdvanced": "Das Chimoio-Plateau ist ein mäßig hohes Plateau im Zentrum Mosambiks, das die Hauptstadt der Provinz Manica, Chimoio, umgibt. Es liegt auf einer durchschnittlichen Höhe von etwa 800 Metern und profitiert von einem kühleren und feuchteren Klima als die Küstenebene. Diese vorteilhaften Bedingungen machen es zu einem der fruchtbarsten landwirtschaftlichen Gebiete des Landes. Es ist bekannt für den Anbau von Obst, insbesondere Zitrusfrüchten und Mangos, sowie Gemüse und Mais. Das Plateau ist Teil des Beira-Korridors, einer wichtigen Verkehrs- und Wirtschaftsachse. Landwirtschaft K7 – Agrargeographie.",
+      "factsAdvanced": [
+        "Die Durchschnittshöhe beträgt rund 800 Meter.",
+        "Chimoio, die fünftgrößte Stadt Mosambiks, ist das Zentrum des Plateaus.",
+        "Das Plateau ist bekannt für seine 'Cabeça do Velho' (Kopf des alten Mannes) Felsformation.",
+        "Es ist eine wichtige Region für den Tabakanbau.",
+        "Während des Unabhängigkeitskrieges war die Region Schauplatz intensiver Kämpfe.",
+        "Das Klima ermöglicht den Anbau einer breiten Palette von Nutzpflanzen.",
+        "Die Eisenbahnlinie von Beira nach Simbabwe durchquert das Plateau.",
+        "Die Region hat eine hohe Bevölkerungsdichte und ist ein wichtiger Markt."
+      ]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "descriptionAdvanced": "Die Pemba-Bucht in der Provinz Cabo Delgado gilt als eine der größten und tiefsten natürlichen Buchten der Welt. Mit einer Breite von bis zu 10 Kilometern und einer Tiefe von über 50 Metern bietet sie einen außergewöhnlich geschützten Ankerplatz. Die Bucht ist von Mangrovenwäldern und Korallenriffen gesäumt und beherbergt eine reiche Meeresfauna. Die Stadt Pemba, die an ihrem südlichen Ufer liegt, hat sich zu einem wichtigen logistischen Zentrum für die aufstrebende Offshore-Gasindustrie entwickelt. Ihre natürliche Schönheit macht sie auch zu einem potenziellen Touristenziel. Geographie K8 – Hafenstädte.",
+      "factsAdvanced": [
+        "Die Pemba-Bucht ist der drittgrößte natürliche Hafen der Welt.",
+        "Die Bucht ist bis zu 10 km breit und 20 km lang.",
+        "Sie ist tief genug, um die größten Schiffe der Welt aufzunehmen.",
+        "Die Stadt Pemba wurde ursprünglich Porto Amélia genannt.",
+        "Die Bucht ist ein beliebtes Ziel für Taucher und Schnorchler.",
+        "Sie dient als Hauptversorgungsbasis für die Gasfelder im Rovuma-Becken.",
+        "Wimbe Beach ist ein berühmter Sandstrand am Eingang der Bucht.",
+        "Die Bucht ist ein wichtiger Lebensraum für Delfine und Meeresschildkröten."
+      ]
+    },
+    {
+      "id": "lupata-massiv-relief-v2",
+      "descriptionAdvanced": "Das Lupata-Massiv ist eine beeindruckende geologische Formation in der Provinz Tete, wo der Sambesi-Fluss eine enge und felsige Schlucht durchbricht. Das Massiv besteht aus hartem, widerstandsfähigem Vulkangestein, hauptsächlich Karoo-Rhyolithen. Die Lupata-Schlucht ist etwa 32 Kilometer lang und stellt ein signifikantes Hindernis für die Flussschifffahrt dar. Die schroffen Felsen und steilen Klippen der Schlucht sind ein dramatischer Anblick. Historisch gesehen war die Schlucht ein strategischer Punkt, der den Zugang zum oberen Sambesi kontrollierte. Geologie K7 – Flusserosion und Gesteinsarten.",
+      "factsAdvanced": [
+        "Die Lupata-Schlucht ist ca. 32 km lang.",
+        "Das Gestein des Massivs ist über 180 Millionen Jahre alt (Karoo-Supergruppe).",
+        "Der Name 'Lupata' bedeutet 'enge Passage' oder 'Schlucht'.",
+        "David Livingstone beschrieb die Schlucht ausführlich während seiner Sambesi-Expedition.",
+        "Die Felsen enthalten Fossilien, darunter versteinerte Baumstämme.",
+        "Die Schlucht liegt unterhalb des Cahora-Bassa-Staudamms.",
+        "Die Ufer sind steil und in vielen Bereichen unzugänglich.",
+        "Die Region ist reich an Mineralien, einschließlich Fluorit."
+      ]
+    },
+    {
+      "id": "morrumbala-berg-relief-v2",
+      "descriptionAdvanced": "Der Morrumbala-Berg ist ein markanter Inselberg, der sich isoliert aus der Schwemmebene des Sambesi in der Provinz Zambezia erhebt. Mit einer Höhe von über 1.000 Metern dominiert er die umliegende Landschaft. Seine Hänge sind mit dichten Wäldern bedeckt, die in höheren Lagen in Berggrasland übergehen. Der Berg ist ein wichtiger Wasserspeicher für die Region und beherbergt eine reiche Biodiversität, obwohl er weniger erforscht ist als andere Berge in Mosambik. Für die lokale Bevölkerung ist der Berg ein heiliger Ort mit großer kultureller Bedeutung. Landeskunde K5 – Landschaftsformen.",
+      "factsAdvanced": [
+        "Der Berg erreicht eine Höhe von etwa 1.050 Metern.",
+        "Er ist ein klassisches Beispiel für einen Inselberg (Monadnock).",
+        "Der Name 'Morrumbala' leitet sich von einem lokalen Begriff für 'hoher Ort' ab.",
+        "Er liegt am südlichen Rand des Großen Afrikanischen Grabenbruchs.",
+        "Die Wälder am Berg sind ein wichtiger Lebensraum für Vögel und Primaten.",
+        "Am Fuße des Berges liegt die gleichnamige Stadt Morrumbala.",
+        "Der Berg spielt eine wichtige Rolle in den Mythen und Traditionen der Sena-Bevölkerung.",
+        "Die Region ist ein wichtiges landwirtschaftliches Gebiet, insbesondere für Mais."
+      ]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "descriptionAdvanced": "Das Tete-Hochland ist eine zerklüftete und bergige Region im Nordwesten der Provinz Tete, die sich an der Grenze zu Sambia und Malawi erstreckt. Es ist Teil eines größeren Plateaus, das sich durch trockenere Bedingungen und eine spärlichere Vegetation auszeichnet als andere Hochländer in Mosambik. Die Landschaft ist von trockenen Bergwäldern und felsigen Böden geprägt. Die Region ist reich an Mineralvorkommen und hat eine lange Geschichte des Bergbaus, die bis in die vorkoloniale Zeit zurückreicht. Die Bevölkerung ist spärlich und lebt hauptsächlich von Subsistenzlandwirtschaft. Geographie K7 – Aride Zonen.",
+      "factsAdvanced": [
+        "Das Hochland liegt in der rohstoffreichen Provinz Tete.",
+        "Es grenzt an Sambia und Malawi und ist ein wichtiger Transitpunkt.",
+        "Die Böden sind oft felsig und für die Landwirtschaft weniger geeignet.",
+        "Trockene Miombo-Wälder dominieren die Vegetation.",
+        "Historisch war die Region ein Zentrum für den Handel mit Gold und Elfenbein.",
+        "Die Bevölkerung besteht hauptsächlich aus den ethnischen Gruppen der Nyanja und Chewa.",
+        "Der Cabora-Bassa-See bildet die südliche Grenze des Hochlands.",
+        "Die Infrastruktur in der Region ist unterentwickelt."
+      ]
+    },
+    {
+      "id": "incomati-tal-relief-v2",
+      "descriptionAdvanced": "Das Incomati-Tal in der Provinz Maputo ist eine der fruchtbarsten und wirtschaftlich wichtigsten landwirtschaftlichen Regionen im Süden Mosambiks. Der Incomati-Fluss, der aus Südafrika kommt, schafft eine breite Schwemmlandebene mit reichen alluvialen Böden. Diese Bedingungen sind ideal für den großflächigen Anbau von Zuckerrohr, Reis und Gemüse. Die Region beherbergt große Zuckerfabriken wie die in Xinavane und Maragra. Das Tal ist jedoch auch anfällig für Überschwemmungen, die regelmäßig zu erheblichen Schäden an Ernten und Infrastruktur führen. Agrarwirtschaft K8 – Bewässerungslandwirtschaft.",
+      "factsAdvanced": [
+        "Der Incomati-Fluss ist auch als Komati-Fluss bekannt.",
+        "Das Tal ist das Zentrum der Zuckerindustrie Mosambiks.",
+        "Die Zuckerfabriken in Xinavane und Maragra sind große Arbeitgeber.",
+        "Bewässerungssysteme sind für die Landwirtschaft im Tal unerlässlich.",
+        "Die Eisenbahnlinie von Maputo nach Simbabwe verläuft durch das Tal.",
+        "Die Region wurde 2000 und 2013 von schweren Fluten heimgesucht.",
+        "Neben Zuckerrohr werden auch Mais und Bohnen angebaut.",
+        "Das Tal hat eine hohe Bevölkerungsdichte im ländlichen Raum."
+      ]
+    },
+    {
+      "id": "bazaruto-duenen-relief-v2",
+      "descriptionAdvanced": "Die Dünen des Bazaruto-Archipels sind ein atemberaubendes Naturphänomen. Besonders auf der Insel Bazaruto, der größten Insel des Archipels, finden sich riesige, wandernde Sanddünen. Diese Dünen aus feinem, weißem Sand werden von den Winden des Indischen Ozeans ständig neu geformt. Einige erreichen Höhen von über 100 Metern. Der Aufstieg auf diese Dünen bietet spektakuläre Panoramablicke auf das türkisfarbene Meer und die anderen Inseln. Die Dünen sind ein wesentlicher Bestandteil des Ökosystems des Bazaruto-Nationalparks und ein beliebtes Ziel für Touristen. Geomorphologie K7 – Äolische Prozesse.",
+      "factsAdvanced": [
+        "Die Dünen auf der Insel Bazaruto sind über 100 Meter hoch.",
+        "Sie sind ein Beispiel für 'wandernde Dünen', die ihre Position verändern.",
+        "Der Sand besteht hauptsächlich aus Quarz.",
+        "Das Besteigen der Dünen ist eine beliebte Touristenaktivität.",
+        "Von den Dünen aus kann man manchmal Delfine oder Dugongs im Wasser sehen.",
+        "Die Dünen sind Teil des Bazaruto-Archipel-Nationalparks, gegründet 1971.",
+        "Süßwasserseen bilden sich manchmal in den Tälern zwischen den Dünen.",
+        "Die Vegetation versucht, die Dünen zu stabilisieren, wird aber oft vom Sand begraben."
+      ]
+    }
+  ]
+}

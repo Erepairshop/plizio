@@ -1,0 +1,315 @@
+{
+  "lang": "de",
+  "country": "bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahamasLifeV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts",
+    "lib/visualLab/data/poiExtraBahamasReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "salt-beacon-rum-cay-history-v2",
+      "descriptionAdvanced": "Der Salt Beacon auf Rum Cay ist ein eindrucksvolles Denkmal für die Zeit, als die Insel ein bedeutender Produzent von hochwertigem Salz war. Diese ca. 10 Meter hohe, weiß getünchte Steinsäule diente im 19. Jahrhundert als weithin sichtbares Seezeichen für Handelsschiffe, die das 'weiße Gold' der Bahamas bunkern wollten. Die Salzgewinnung war mühsame Handarbeit, die die Wirtschaft von Rum Cay über Jahrzehnte dominierte. Heute steht der Beacon als einsames, aber würdevolles Wahrzeichen an der Küste und erinnert an den einstigen industriellen Glanz der Insel. Die Umgebung ist geprägt von den Überresten der alten Salzpfannen, die nun wertvolle Lebensräume für Zugvögel bieten. Ein Besuch am Salt Beacon verbindet maritime Geschichte mit der rauen, unberührten Schönheit der südlichen Bahamas.",
+      "factsAdvanced": [
+        "Historisches Seezeichen für die Salzschifffahrt",
+        "Erbaut im 19. Jahrhundert aus massivem Kalkstein",
+        "Wichtiges Wahrzeichen für die Identität von Rum Cay",
+        "Diente der Navigation in gefährlichen Riffgewässern",
+        "Symbol für die Blütezeit der lokalen Salzindustrie",
+        "Beliebtes Ziel für Wanderer und Geschichtsinteressierte"
+      ]
+    },
+    {
+      "id": "parliament-square-history-v2",
+      "descriptionAdvanced": "Der Parliament Square im Herzen von Nassau ist das architektonische und politische Zentrum der Bahamas. Die markanten, pinkfarbenen Gebäude im neoklassizistischen Stil wurden im späten 18. und frühen 19. Jahrhundert von Loyalisten erbaut. Hier befinden sich das Abgeordnetenhaus, der Senat und der Oberste Gerichtshof. Die Architektur spiegelt die koloniale Vergangenheit und die Beständigkeit der parlamentarischen Demokratie nach britischem Vorbild wider. In der Mitte des Platzes thront eine Statue von Königin Victoria, die 1905 zum Gedenken an ihr Goldenes Jubiläum errichtet wurde. Der Platz ist nicht nur ein Ort der Gesetzgebung, sondern auch eine der meistfotografierten Sehenswürdigkeiten des Landes, die den Charme und die Würde der bahamaischen Hauptstadt verkörpert.",
+      "factsAdvanced": [
+        "Politisches Herzstück der Bahamas in Nassau",
+        "Ensemble aus Gebäuden im georgianischen Neoklassizismus",
+        "Sitz des Parlaments und des Obersten Gerichtshofs",
+        "Markante pinkfarbene Fassaden als Wahrzeichen",
+        "Standort der historischen Königin-Victoria-Statue",
+        "Erbaut zwischen 1815 und 1820 durch Loyalisten"
+      ]
+    },
+    {
+      "id": "government-house-history-v2",
+      "descriptionAdvanced": "Das Government House auf dem Mount Fitzwilliam in Nassau ist die offizielle Residenz des Generalgouverneurs der Bahamas. Das prachtvolle Gebäude in typisch bahamaischem Pink und Weiß ist ein herausragendes Beispiel für die Verschmelzung von kolonialer britischer und karibischer Architektur. Seit 1801 ist dieser Ort der Sitz der königlichen Vertretung auf den Inseln. Vor dem Eingang steht eine imposante Statue von Christoph Kolumbus, die an seine Landung im Jahr 1492 erinnert. Besonders sehenswert ist die Zeremonie der Wachablösung, die alle zwei Wochen stattfindet und bei der die Royal Bahamas Police Force Band in traditionellen Uniformen aufspielt. Das Anwesen bietet zudem einen spektakulären Blick über die Stadt und den Hafen von Nassau.",
+      "factsAdvanced": [
+        "Offizielle Residenz des Generalgouverneurs",
+        "Erbaut 1801 auf dem Mount Fitzwilliam",
+        "Herausragende koloniale Architektur in Pink und Weiß",
+        "Standort der berühmten Kolumbus-Statue (errichtet 1830)",
+        "Bekannt für die feierliche Wachablösung",
+        "Historisches Machtzentrum während der britischen Kolonialzeit"
+      ]
+    },
+    {
+      "id": "water-tower-nassau-history-v2",
+      "descriptionAdvanced": "Der Water Tower in Nassau ist das höchste Bauwerk der Insel New Providence und bietet einen unvergleichlichen Panoramablick über die gesamte Hauptstadt. Mit einer Höhe von etwa 38 Metern wurde dieser massive Turm im Jahr 1928 erbaut, um den Wasserdruck im städtischen Versorgungsnetz zu regulieren. Gelegen direkt neben dem Fort Fincastle und der Queen's Staircase, ist der Wasserturm ein integraler Bestandteil des historischen Rundgangs durch Nassau. Obwohl der Turm heute primär als Aussichtspunkt dient (sofern geöffnet), bleibt er ein markantes Wahrzeichen moderner Ingenieurskunst des frühen 20. Jahrhunderts auf den Bahamas. Seine schlichte, funktionale Architektur kontrastiert reizvoll mit den umliegenden kolonialen Festungsanlagen.",
+      "factsAdvanced": [
+        "Höchster Punkt der Insel New Providence (38 Meter)",
+        "Erbaut im Jahr 1928 zur Wasserversorgung",
+        "Bietet 360-Grad-Aussicht auf Nassau und den Hafen",
+        "Wichtiges technisches Baudenkmal der Moderne",
+        "Unmittelbar neben Fort Fincastle gelegen",
+        "Beliebtes Orientierungsmerkmal für Besucher"
+      ]
+    },
+    {
+      "id": "st-johns-anglican-church-history-v2",
+      "descriptionAdvanced": "Die St. John's Anglican Church in Harbour Island ist eine der ältesten und ehrwürdigsten Kirchen der Bahamas. Gegründet im Jahr 1768, spiegelt der Bau die tiefe Religiosität und den Gemeinschaftsgeist der frühen Siedler wider. Das Kirchengebäude besticht durch seine schlichte Eleganz, seine dicken Mauern aus Kalkstein und die wunderschönen Buntglasfenster. Über Jahrhunderte war St. John's der Mittelpunkt des sozialen Lebens in Dunmore Town und hat zahlreiche Stürme und historische Umbrüche überdauert. Das angrenzende Kirchspiel ist reich an Geschichte, und der Friedhof beherbergt die Gräber vieler bedeutender Persönlichkeiten der Inselgeschichte. Ein Besuch bietet einen Moment der Stille und Besinnung inmitten der lebendigen Atmosphäre von Harbour Island.",
+      "factsAdvanced": [
+        "Eine der ältesten anglikanischen Gemeinden (seit 1768)",
+        "Zentrales religiöses Denkmal von Harbour Island",
+        "Traditionelle bahamaische Kirchenarchitektur",
+        "Beherbergt wertvolle historische Kirchenregister",
+        "Mittelpunkt bedeutender lokaler Feierlichkeiten",
+        "Friedhof mit Gräbern aus der Kolonialzeit"
+      ]
+    },
+    {
+      "id": "hope-town-lighthouse-history-v2",
+      "descriptionAdvanced": "Der Hope Town Lighthouse, auch bekannt als Elbow Reef Lighthouse, ist eines der bekanntesten Wahrzeichen der Welt und der letzte seiner Art. Erbaut im Jahr 1863, ist er einer der wenigen verbliebenen Leuchttürme weltweit, die noch immer mit Kerosin betrieben werden und deren monumentale Fresnel-Linse per Hand aufgezogen wird. Sein charakteristischer Anstrich in rot-weißen Streifen macht ihn zu einem der meistfotografierten Motive der Karibik. Interessanterweise wehrten sich die Bewohner von Hope Town anfangs gegen den Bau, da sie fürchteten, ihr lukratives Geschäft mit Schiffswracks zu verlieren. Heute ist der Turm der ganze Stolz der Abacos und kann bestiegen werden, um einen atemberaubenden Blick über die Sea of Abaco zu genießen. Er symbolisiert die maritime Ausdauer und das handwerkliche Erbe der Bahamas.",
+      "factsAdvanced": [
+        "Letzter kerosinbetriebener Leuchtturm weltweit",
+        "Erbaut 1863 durch das British Imperial Lighthouse Service",
+        "Markante rot-weiße Streifenlackierung",
+        "Handaufzug der Optik alle zwei Stunden nötig",
+        "Bietet spektakuläre Aussicht nach 101 Stufen",
+        "Widerstandsfähiges Symbol gegen moderne Automatisierung"
+      ]
+    },
+    {
+      "id": "columbus-monument-long-island-history-v2",
+      "descriptionAdvanced": "Das Columbus Monument an der Nordspitze von Long Island markiert den Ort, an dem Christoph Kolumbus während seiner ersten Reise im Jahr 1492 gelandet sein soll. Gelegen auf einer hohen Klippe bei Cape Santa Maria, bietet das Denkmal einen der dramatischsten Ausblicke der Bahamas, wo der tiefblaue Atlantik und die türkisfarbene Karibik aufeinandertreffen. Das Monument selbst ist eine schlichte weiße Säule, die der Begegnung zweier Welten gewidmet ist. Der Aufstieg zum Denkmal führt durch raue Natur und belohnt Besucher mit einem Panoramablick über einsame Buchten und Riffe. Es ist ein Ort der geschichtlichen Kontemplation, der an die epochalen Veränderungen erinnert, die mit der Ankunft der Europäer in dieser Inselwelt begannen.",
+      "factsAdvanced": [
+        "Gedenkstätte für die Landung von Kolumbus 1492",
+        "Gelegen am spektakulären Cape Santa Maria",
+        "Einer der besten Aussichtspunkte von Long Island",
+        "Symbol für den Kontakt zwischen Europa und Amerika",
+        "Dramatische Lage auf hohen Kalksteinklippen",
+        "Wichtiger Punkt der nationalen Geschichtsroute"
+      ]
+    },
+    {
+      "id": "farquharson-plantation-ruins-history-v2",
+      "descriptionAdvanced": "Die Farquharson Plantation Ruins auf San Salvador bieten einen seltenen und detaillierten Einblick in das Plantagenleben des frühen 19. Jahrhunderts. Charles Farquharson, der Besitzer, hinterließ ein ausführliches Tagebuch, das heute eine der wichtigsten Quellen für das Verständnis der Sklaverei und der Landwirtschaft auf den Bahamas ist. Die Ruinen des Herrenhauses, der Küchen und der Sklavenquartiere sind noch heute sichtbar und von dichter Vegetation umgeben. Sie zeugen von der kurzen, aber intensiven Ära der Baumwollproduktion, die die Inseln nach der amerikanischen Unabhängigkeit prägte. Die Stätte ist ein mahnendes Denkmal für die harten Lebensbedingungen der versklavten Menschen und die wirtschaftlichen Träume der Loyalisten, die letztlich an den kargen Böden der Bahamas scheiterten.",
+      "factsAdvanced": [
+        "Bedeutende historische Plantagenruine (19. Jh.)",
+        "Bekannt durch das erhaltene 'Farquharson Journal'",
+        "Zentrum des Baumwollanbaus auf San Salvador",
+        "Authentisches Zeugnis der Sklaverei auf den Bahamas",
+        "Archäologisch wertvolle Gebäudereste",
+        "Wichtiger Ort für die Erforschung der Sozialgeschichte"
+      ]
+    },
+    {
+      "id": "three-queens-statue-history-v2",
+      "descriptionAdvanced": "Die Three Queens Statue auf St. Thomas (obwohl im Bahamas-Datensatz, bezieht sie sich oft auf die regionale Geschichte der Befreiung) ehrt drei mutige Frauen – Mary, Agnes und Josiah –, die 1878 einen bedeutenden Arbeiteraufstand gegen die harten sozialen Bedingungen anführten. Diese Frauen, bekannt als die 'Queens', symbolisieren den Widerstand gegen Unterdrückung und den Kampf für gerechte Löhne und Menschenwürde nach dem Ende der Sklaverei. Die Statue ist ein kraftvolles Denkmal für die Rolle der Frauen in der karibischen Freiheitsbewegung. Sie erinnert daran, dass die Emanzipation ein langer Prozess war, der oft von der Basis aus erkämpft werden musste. In der bahamaischen Wahrnehmung steht dieses Denkmal stellvertretend für den Mut aller Menschen, die sich für soziale Gerechtigkeit auf den Inseln eingesetzt haben.",
+      "factsAdvanced": [
+        "Denkmal für die Anführerinnen des Arbeiteraufstands von 1878",
+        "Symbol für weiblichen Widerstand in der Karibik",
+        "Ehrung von Queen Mary, Queen Agnes und Queen Josiah",
+        "Wichtiger Bezugspunkt für die lokale Identität",
+        "Erinnert an den Kampf um soziale Gerechtigkeit",
+        "Kraftvolles künstlerisches Statement zur Geschichte"
+      ]
+    },
+    {
+      "id": "old-fort-of-nassau-site-history-v2",
+      "descriptionAdvanced": "Das Old Fort of Nassau, ursprünglich als Fort Nassau bekannt, war die erste bedeutende Verteidigungsanlage der Stadt und lag dort, wo sich heute das British Colonial Hotel befindet. Erbaut im späten 17. Jahrhundert, war es Schauplatz zahlreicher Piratenüberfälle und kolonialer Konflikte zwischen Spanien, Frankreich und England. Hier suchten die Bewohner Schutz vor den berüchtigten Piraten wie Blackbeard, die Nassau zeitweise zu ihrer inoffiziellen Hauptstadt machten. Obwohl die ursprüngliche Festung im 19. Jahrhundert abgerissen wurde, markiert der Ort den Ursprung der militärischen Befestigung der Bahamas. Archäologische Funde und Gedenktafeln erinnern heute an die turbulente Zeit, als Nassau der Schlüssel zur Kontrolle über die Schifffahrtswege der Neuen Welt war.",
+      "factsAdvanced": [
+        "Erste militärische Festung von Nassau (1697)",
+        "Historisches Zentrum der Piratenabwehr",
+        "Einstiger Standort des britischen Gouverneurssitzes",
+        "Heute Standort des British Colonial Hotels",
+        "Schauplatz wechselvoller Kolonialschlachten",
+        "Ursprung der strategischen Bedeutung Nassaus"
+      ]
+    },
+    {
+      "id": "wrecker-s-wall-bimini-history-v2",
+      "descriptionAdvanced": "The Wrecker's Wall vor Bimini ist ein faszinierendes Unterwasserdenkmal, das von der gefährlichen, aber lukrativen Ära des 'Wrecking' zeugt. Im 19. Jahrhundert lebten viele Bahama-Insulaner davon, gestrandete Schiffe zu bergen – ein Geschäft, das strengen Regeln unterlag und Nassau zu großem Reichtum verhalf. Die Wall ist eine natürliche Riff-Formation, an der unzählige Schiffe zerschellten, bevor moderne Navigationshilfen existierten. Taucher finden hier heute Überreste von Ankern, Ballaststeinen und Kanonen aus verschiedenen Jahrhunderten. Dieser Ort ist nicht nur ein spektakulärer Tauchplatz, sondern ein maritimes Archiv, das die Geschichten von Stürmen, Fehlnavigationen und dem Wagemut der bahamaischen Berger erzählt. Er symbolisiert die enge und oft gefährliche Verbindung der Inselbewohner zum Meer.",
+      "factsAdvanced": [
+        "Bedeutender maritimer Friedhof vor Bimini",
+        "Zeugnis der historischen 'Wrecking'-Industrie",
+        "Unterwasserarchiv mit Artefakten aus 3 Jahrhunderten",
+        "Gefürchteter Ort für Seefahrer der Segelschiff-Ära",
+        "Spektakuläres Ziel für Wracktaucher",
+        "Erinnert an die ökonomische Bedeutung von Schiffsbergungen"
+      ]
+    },
+    {
+      "id": "hermann-gruber-s-house-history-v2",
+      "descriptionAdvanced": "Das Hermann Gruber House ist ein seltenes Beispiel für die Architektur der europäischen Einwanderer auf den Bahamas im frühen 20. Jahrhundert. Gruber, ein deutscher Geschäftsmann, errichtete dieses markante Gebäude, das sich durch seine solide Bauweise und die Integration lokaler Kalksteinmaterialien auszeichnet. Es spiegelt die Zeit wider, in der Nassau begann, internationale Investoren und Persönlichkeiten anzuziehen, die das Stadtbild mit neuen Stilen bereicherten. Das Haus hat über die Jahrzehnte verschiedene Funktionen erfüllt und ist heute ein geschütztes Denkmal. Es steht stellvertretend für die kosmopolitische Geschichte der Bahamas, in der Menschen aus aller Welt ihre Spuren in der Architektur und Wirtschaft des Archipels hinterlassen haben. Seine Erhaltung ist ein wichtiger Beitrag zur Bewahrung der vielfältigen Baugeschichte Nassaus.",
+      "factsAdvanced": [
+        "Architektonisches Denkmal aus dem frühen 20. Jh.",
+        "Erbaut von dem deutschen Unternehmer Hermann Gruber",
+        "Einzigartige Mischung aus europäischem und karibischem Stil",
+        "Verwendung von lokalem Kalkstein in der Fassade",
+        "Zeugnis der internationalen Geschichte Nassaus",
+        "Wichtiger Bestandteil der Denkmalpflege der Hauptstadt"
+      ]
+    },
+    {
+      "id": "st-augustines-monastery-history-v2",
+      "descriptionAdvanced": "Das St. Augustine's Monastery in Nassau ist ein beeindruckendes Beispiel für die Arbeit von Pater Jerome (John Hawes), einem Architekten und Priester, der das religiöse Bauwesen der Bahamas maßgeblich prägte. Das Kloster wurde im neogotischen und spanisch-missionarischen Stil erbaut und strahlt eine Atmosphäre der Ruhe und spirituellen Hingabe aus. Pater Jerome entwarf das Kloster als einen Ort der Bildung und Kontemplation, und bis heute beherbergt es eine der renommiertesten Schulen des Landes. Die Architektur zeichnet sich durch harmonische Proportionen, Rundbögen und die Verwendung lokaler Materialien aus. Das Kloster ist nicht nur ein religiöses Zentrum, sondern auch ein bedeutendes kulturelles Denkmal, das die Vision eines Mannes verkörpert, der Schönheit und Glauben in der bahamaischen Landschaft vereinen wollte.",
+      "factsAdvanced": [
+        "Entworfen von dem berühmten Architekten-Pater Jerome",
+        "Meisterwerk der religiösen Architektur auf den Bahamas",
+        "Sitz des renommierten St. Augustine's College",
+        "Einzigartige Verschmelzung gotischer und mediterraner Stile",
+        "Bedeutendes Zentrum für Bildung und Spiritualität",
+        "Architektonisches Wahrzeichen im Osten Nassaus"
+      ]
+    },
+    {
+      "id": "addersley-castle-history-v2",
+      "descriptionAdvanced": "Addersley Castle auf Long Island ist kein echtes Schloss im europäischen Sinne, sondern die Ruine eines imposanten Herrenhauses aus der loyalistischen Ära. Erbaut von der Familie Addersley im späten 18. Jahrhundert, thronte das Gebäude auf einem Hügel und bot einen weiten Blick über die Plantagenfelder und das Meer. Die massiven Mauern aus Kalkstein und Korallenstein zeugen vom Reichtum und dem Herrschaftsanspruch der frühen Siedler. Heute ist der Ort von der Natur zurückerobert, doch die Überreste vermitteln immer noch einen starken Eindruck von der Größe des Anwesens. Es ist ein bedeutender Ort für die Erforschung der kolonialen Siedlungsgeschichte von Long Island und ein Denkmal für die harten wirtschaftlichen Realitäten, die zum Niedergang der großen Plantagen führten.",
+      "factsAdvanced": [
+        "Historische Plantagenruine der Familie Addersley",
+        "Eines der größten Herrenhäuser der Kolonialzeit",
+        "Strategische Hügellage mit Panoramablick",
+        "Zeugnis des loyalistischen Einflusses auf Long Island",
+        "Erbaut aus lokalem Kalkstein und Korallensand",
+        "Wichtiger Ort für lokale Legenden und Geschichte"
+      ]
+    },
+    {
+      "id": "hatchet-bay-silos-history-v2",
+      "descriptionAdvanced": "Die Hatchet Bay Silos auf Eleuthera sind markante Industriedenkmäler, die von einem ehrgeizigen landwirtschaftlichen Projekt der 1930er und 40er Jahre zeugen. Damals wurde Hatchet Bay zu einem Zentrum der Milchwirtschaft und Geflügelzucht ausgebaut, das die gesamte Inselgruppe versorgen sollte. Die riesigen Betonsilos dienten der Lagerung von Futtermitteln und sind heute weithin sichtbare Wahrzeichen der Region. Obwohl der industrielle Betrieb längst eingestellt wurde, erinnern die Silos an die Zeit, als Eleuthera als die 'Brotkammer' der Bahamas galt. Die Anlage ist ein faszinierendes Beispiel für moderne Agrargeschichte und den Versuch, die Bahamas durch Großprojekte wirtschaftlich autarker zu machen. Heute sind die Silos ein beliebtes Fotomotiv und ein Symbol für die industrielle Vergangenheit der Insel.",
+      "factsAdvanced": [
+        "Bedeutende Denkmäler der bahamaischen Agrargeschichte",
+        "Erbaut in den 1930er Jahren für die Hatchet Bay Farms",
+        "Überreste eines großangelegten Milchwirtschaftsprojekts",
+        "Markante Betonarchitektur am Queen's Highway",
+        "Symbol für die einstige wirtschaftliche Blüte Eleutheras",
+        "Interessantes Ziel für 'Industrial Heritage' Fans"
+      ]
+    },
+    {
+      "id": "old-british-fort-barratarre-history-v2",
+      "descriptionAdvanced": "Das Old British Fort in Barratarre auf Great Exuma ist eine kleine, aber strategisch wichtige Ruine, die einst den nördlichen Zugang zu den Exuma Cays bewachte. Während der kolonialen Konflikte des 18. Jahrhunderts diente es als Ausguck und Verteidigungsposten gegen Piraten und feindliche Flotten. Die Überreste bestehen aus Kalksteinmauern und Fundamenten, die heute teilweise von Bäumen überwachsen sind. Von hier aus hatten die britischen Soldaten einen hervorragenden Blick über die flachen Gewässer und konnten herannahende Schiffe frühzeitig erkennen. Das Fort ist ein stilles Zeugnis der militärischen Anstrengungen Großbritanniens, seine Herrschaft über die strategisch wichtigen Bahama-Inseln zu sichern. Ein Besuch bietet neben historischen Einblicken auch spektakuläre Ausblicke auf die unberührte Küstenlandschaft der Exumas.",
+      "factsAdvanced": [
+        "Kolonialer Verteidigungsposten aus dem 18. Jahrhundert",
+        "Strategischer Ausguck über die nördlichen Exuma Cays",
+        "Teil des britischen Verteidigungsnetzes gegen Piraten",
+        "Malerische Ruine auf einer Anhöhe bei Barratarre",
+        "Historisches Bindeglied zur Militärgeschichte der Bahamas",
+        "Bietet weite Panoramablicke auf das Meer"
+      ]
+    },
+    {
+      "id": "cotton-gin-mill-ruin-history-v2",
+      "descriptionAdvanced": "Die Cotton Gin Mill Ruins auf den Bahamas (viele Standorte wie auf Crooked Island oder Cat Island) sind die mechanischen Relikte der Baumwoll-Ära. Hier wurde die geerntete 'Sea Island Cotton' entkörnt, bevor sie für den Export nach England gepresst wurde. Die Ruinen beherbergen oft noch Teile der massiven Mahlsteine oder Fundamente der Maschinen, die einst von Sklaven oder Tieren angetrieben wurden. Diese Stätten sind von unschätzbarem Wert für das Verständnis der industriellen Aspekte der Plantagenwirtschaft. Sie zeigen, dass die Plantagen keine reinen Farmen waren, sondern komplexe Produktionsstätten. Der Niedergang dieser Mühlen im frühen 19. Jahrhundert markierte das Ende eines ökonomischen Kapitels und den Übergang zu neuen Lebensgrundlagen wie dem Salzabbau oder der Fischerei.",
+      "factsAdvanced": [
+        "Industriehistorische Überreste der Baumwollverarbeitung",
+        "Zentrum der mechanischen Entkörnung (Ginning)",
+        "Technisches Denkmal der Plantagenwirtschaft",
+        "Zeugnis für den Exportreichtum des 18. Jahrhunderts",
+        "Oft in der Nähe großer Herrenhäuser zu finden",
+        "Mahnmale für die Arbeit der versklavten Bevölkerung"
+      ]
+    },
+    {
+      "id": "great-lighthouse-gun-cay-history-v2",
+      "descriptionAdvanced": "Der Great Lighthouse auf Gun Cay, erbaut im Jahr 1836, ist ein entscheidendes historisches Seezeichen am Rande der Bahamas-Bank. Er wurde errichtet, um Schiffen den gefährlichen Weg durch die Straße von Florida und entlang der Bimini-Inseln zu weisen. Der Turm aus massivem Stein hat über fast zwei Jahrhunderte zahllosen Hurrikanen getrotzt und Schiffe vor den tückischen Riffen bewahrt. Gun Cay war zudem ein bekannter Stützpunkt für Schmuggler während der amerikanischen Prohibition, was dem Ort eine zusätzliche historische Ebene verleiht. Heute ist der Leuchtturm ein Wahrzeichen der maritimen Sicherheit und ein beliebtes Ziel für Segler, die den Gulf Stream überqueren. Er steht stellvertretend für die Bemühungen des British Imperial Lighthouse Service, die Schifffahrtswege des Weltreichs zu sichern.",
+      "factsAdvanced": [
+        "Bedeutender historischer Leuchtturm (erbaut 1836)",
+        "Wichtiger Orientierungspunkt am Rand des Golfstroms",
+        "Schützte die Handelsschifffahrt vor den Bimini-Riffen",
+        "Einstiger Außenposten für Schmuggler in den 1920er Jahren",
+        "Klassische Leuchtturmarchitektur der Kolonialzeit",
+        "Wahrzeichen der Sicherheit in der Straße von Florida"
+      ]
+    },
+    {
+      "id": "slave-graveyard-carmichael-history-v2",
+      "descriptionAdvanced": "Der Slave Graveyard in Carmichael (Nassau) ist eine heilige und zutiefst bewegende historische Stätte. Hier ruhen die sterblichen Überreste von versklavten Afrikanern, die auf den Plantagen von New Providence arbeiten mussten oder als befreite Afrikaner nach dem Ende des Sklavenhandels in dieser Gegend angesiedelt wurden. Der Friedhof ist ein Ort der Stille und des Gedenkens an das Leid und die Widerstandskraft der Vorfahren der heutigen bahamaischen Bevölkerung. Er ist eines der wenigen physischen Zeugnisse, die direkt mit dem Leben und Sterben der versklavten Menschen verbunden sind, da viele andere Gräber im Laufe der Zeit verloren gingen. Die Stätte mahnt zur Auseinandersetzung mit der Geschichte der Sklaverei und ist ein wichtiges Ziel für Bildungsreisen und kulturelle Identitätsfindung auf den Bahamas.",
+      "factsAdvanced": [
+        "Heilige Gedenkstätte für die Opfer der Sklaverei",
+        "Einer der wenigen erhaltenen Sklavenfriedhöfe",
+        "Wichtiger Ort für das nationale Gedenken",
+        "Zeugnis der afrikanischen Wurzeln der Bahamas",
+        "Historisch verbunden mit dem Dorf Carmichael",
+        "Stätte der Ahnenverehrung und Geschichtsforschung"
+      ]
+    },
+    {
+      "id": "pirates-lair-ruins-history-v2",
+      "descriptionAdvanced": "Die Pirates' Lair Ruins, oft mit versteckten Buchten und Küstenhöhlen auf den Bahamas in Verbindung gebracht, erinnern an die 'Goldene Ära der Piraterie' im frühen 18. Jahrhundert. Diese Orte dienten als geheime Verstecke, Lager für Beute und Reparaturplätze für Schiffe berühmter Piraten wie Edward Teach (Blackbeard) oder Anne Bonny. Die Ruinen bestehen oft aus grob behauenen Felsen, Befestigungen an Engpässen oder künstlich erweiterten Höhlen. Sie erzählen die Geschichte der 'Republic of Pirates', als Nassau gesetzlos war und die Karibik von hier aus kontrolliert wurde. Heute sind diese Orte von Mythen und Schatzlegenden umwoben und bieten Besuchern die Möglichkeit, in die Welt der Freibeuter einzutauchen und die strategische Genialität dieser Gesetzlosen zu bewundern, die die Geographie der Bahamas perfekt zu nutzen wussten.",
+      "factsAdvanced": [
+        "Überreste legendärer Piratenstützpunkte",
+        "Verbunden mit Namen wie Blackbeard und Anne Bonny",
+        "Strategische Verstecke in unzugänglichen Buchten",
+        "Zentrum der bahamaischen Piratenfolklore",
+        "Zeugnisse der 'Piratenrepublik' von Nassau",
+        "Inspiration für zahllose Schatzsucher-Geschichten"
+      ]
+    },
+    {
+      "id": "lookout-tower-cat-island-history-v2",
+      "descriptionAdvanced": "Der Lookout Tower auf Cat Island ist ein historischer Beobachtungsposten, der während der Zeit der Plantagenwirtschaft und der kolonialen Konflikte errichtet wurde. Er bot einen strategischen Vorteil, um herannahende Schiffe – seien es Handelsschiffe, Piraten oder feindliche Kriegsschiffe – frühzeitig zu identifizieren. Der Turm ist aus lokalem Kalkstein erbaut und so positioniert, dass er weite Teile der Küstenlinie überblickt. Er symbolisiert die ständige Wachsamkeit, die in der isolierten Inselwelt notwendig war. Heute ist der Turm eine malerische Ruine, die Wanderern einen der besten Ausblicke auf Cat Island bietet. Er erinnert an die maritime Strategie der Briten und der Plantagenbesitzer, die versuchten, ihre wertvollen Ressourcen in einer turbulenten Ära zu schützen.",
+      "factsAdvanced": [
+        "Kolonialer Ausguck für die Inselverteidigung",
+        "Erbaut auf einer strategischen Anhöhe von Cat Island",
+        "Bietet weite Rundumblicke über den Atlantik",
+        "Wichtiger Teil des historischen Kommunikationsnetzes",
+        "Massive Bauweise aus behauenem Stein",
+        "Beliebtes Ziel für Wanderer und Naturfotografen"
+      ]
+    },
+    {
+      "id": "griffin-bunker-ruin-history-v2",
+      "descriptionAdvanced": "Die Griffin Bunker Ruins sind Relikte aus der Zeit des Zweiten Weltkriegs, als die Bahamas eine strategisch wichtige Rolle bei der Überwachung des Atlantiks und dem Schutz der Schifffahrtswege vor deutschen U-Booten spielten. Diese Bunker dienten als Beobachtungsposten und Funkstationen. Die massiven Betonstrukturen, die oft an versteckten Küstenabschnitten liegen, zeugen von der militärischen Bedeutung des Archipels für die Alliierten. Der Name 'Griffin' bezieht sich oft auf lokale Familien oder Kommandanten, die mit diesen Anlagen verbunden waren. Heute sind diese Ruinen faszinierende Orte für 'Urban Exploration' und erinnern daran, dass die Bahamas weit mehr als nur ein Urlaubsparadies waren, sondern ein aktiver Teil der globalen Weltgeschichte während der dunkelsten Stunden des 20. Jahrhunderts.",
+      "factsAdvanced": [
+        "Militärische Überreste aus dem Zweiten Weltkrieg",
+        "Ehemaliger Bunker zur U-Boot-Überwachung",
+        "Zeugnis der strategischen Rolle der Bahamas für die Alliierten",
+        "Massive Stahlbetonkonstruktion an der Küste",
+        "Wichtiger Ort der modernen bahamaischen Zeitgeschichte",
+        "Erinnert an die Verteidigung der atlantischen Seewege"
+      ]
+    },
+    {
+      "id": "hope-town-post-office-history-v2",
+      "descriptionAdvanced": "Das Hope Town Post Office ist ein charmantes Beispiel für die lokale Architektur und die Bedeutung der Kommunikation in einer Inselgemeinschaft. Das kleine, oft bunt gestrichene Gebäude war über Jahrzehnte das soziale Herz von Elbow Cay, wo Nachrichten von der Außenwelt eintrafen und der Austausch innerhalb des Dorfes stattfand. Die Postämter auf den Out Islands haben eine besondere historische Bedeutung, da sie oft die einzigen offiziellen Verbindungen zur Regierung in Nassau darstellten. Die Architektur spiegelt den typischen loyalistischen Stil der Abacos wider, mit Verandas und steilen Dächern. Ein Besuch im Hope Town Post Office bietet einen Einblick in den gemächlichen Lebensrhythmus der Inseln und die Beständigkeit kleiner Institutionen, die das Rückgrat der Gemeinschaft bilden.",
+      "factsAdvanced": [
+        "Historisches Kommunikationszentrum von Hope Town",
+        "Klassische loyalistische Inselarchitektur",
+        "Wichtiger sozialer Treffpunkt über Generationen",
+        "Symbol für die Eigenständigkeit der Out Islands",
+        "Malerisches Gebäude im Herzen des Dorfes",
+        "Beherbergt oft kleine Ausstellungen zur Lokalgeschichte"
+      ]
+    },
+    {
+      "id": "chancery-lane-ruins-history-v2",
+      "descriptionAdvanced": "Chancery Lane in Nassau ist eine der geschichtsträchtigsten Gassen der Stadt und beherbergt Ruinen und Gebäude aus der Blütezeit des britischen Einflusses. Die Lane war einst Sitz bedeutender juristischer und administrativer Büros, was ihr den Namen einbrachte. Die Überreste von Kalksteinmauern, verzierten Eisentoren und schattigen Durchgängen erzählen von der Eleganz und dem formalen Leben des 19. Jahrhunderts. Dieser Ort war ein Schmelztiegel für Anwälte, Händler und Regierungsbeamte. Heute ist Chancery Lane ein faszinierender Ort für einen Spaziergang abseits der Hauptstraßen, wo man die Schichten der Geschichte Nassaus spüren kann. Die Ruinen vermitteln ein Gefühl für die Dichte und den urbanen Charakter der kolonialen Hauptstadt, die sich ihren ganz eigenen karibischen Stolz bewahrt hat.",
+      "factsAdvanced": [
+        "Historische Gasse im Zentrum von Nassau",
+        "Zentrum der juristischen Geschichte der Bahamas",
+        "Beherbergt Ruinen kolonialer Amtsgebäude",
+        "Einzigartige Atmosphäre durch enge Steinarchitektur",
+        "Wichtiger Teil des historischen Stadtkerns",
+        "Ort unzähliger lokaler Anekdoten und Geschichten"
+      ]
+    },
+    {
+      "id": "cabbage-beach-fort-ruin-history-v2",
+      "descriptionAdvanced": "Die Cabbage Beach Fort Ruins auf Paradise Island (früher Hog Island) sind die Überreste kleinerer Verteidigungsanlagen, die den Hafen von Nassau vor feindlichen Angriffen von der Seeseite schützen sollten. Während die großen Festungen in Nassau bekannt sind, zeugen diese kleineren Batterien von der umfassenden militärischen Planung der Briten. Die Ruinen sind heute oft in die Landschaft moderner Resorts integriert oder liegen versteckt in der Vegetation am Rande des berühmten Cabbage Beach. Sie erinnern daran, dass Paradise Island einst ein strategischer Puffer für die Hauptstadt war. Die Kombination aus der heute luxuriösen Urlaubsatmosphäre und den steinernen Zeugen kriegerischer Auseinandersetzungen bietet einen spannenden Kontrast und zeigt die Transformation der Bahamas vom militärischen Außenposten zum Weltklasse-Touristenziel.",
+      "factsAdvanced": [
+        "Küstenverteidigungsanlage auf Paradise Island",
+        "Schützte die nördliche Einfahrt zum Hafen von Nassau",
+        "Teil des kolonialen Befestigungssystems",
+        "Malerische Kalksteinruinen direkt am Strand",
+        "Zeugnis der militärischen Vergangenheit der 'Schweineinsel'",
+        "Spannender Kontrast zu modernen Luxusresorts"
+      ]
+    }
+  ]
+}

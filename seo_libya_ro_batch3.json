@@ -1,0 +1,315 @@
+{
+  "lang": "ro",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qasr-bin-ghashir-cities-v2",
+      "descriptionAdvanced": "Qasr bin Ghashir s-a dezvoltat istoric dincolo de granițele sudice ale capitalei Tripoli, evoluând dintr-o așezare agrară într-o suburbie vibrantă, strâns legată de dinamica orașului principal. Așezarea are un rol logistic fundamental, fiind situată chiar lângă Aeroportul Internațional Tripoli. Din acest motiv, economia locală este un amestec de mici afaceri rurale, piețe locale și o puternică prezență a facilităților de depozitare sau servicii conexe aeroportului. Geografie K7 — dezvoltare suburbană și infrastructură de transport.",
+      "factsAdvanced": [
+        "Așezarea a fost denumită Castelul lui Bin Ghashir, referindu-se la moșiile vechi ale notabililor locali.",
+        "Este gazda fizică a Aeroportului Internațional Tripoli, deși acesta este adesea asociat cu capitala.",
+        "Reprezintă intrarea sudică principală în capitală dinspre Munții Nafusa.",
+        "Zona a suferit pagube materiale considerabile în conflictele din 2014 și 2019 pentru controlul aeroportului.",
+        "Agricultura locală a fost faimoasă pentru curmalii și citricele crescute în livezi irigate abundent.",
+        "Oferă un nod rutier major care conectează estul (Tarhuna) cu vestul (Aziziya)."
+      ]
+    },
+    {
+      "id": "tajoura-cities-v2",
+      "descriptionAdvanced": "Tajoura se întinde de-a lungul coastei la est de Tripoli, servind ca o comunitate maritimă și unul dintre cele mai istorice cartiere ale marii aglomerări urbane a capitalei. A fost un punct central al instalării otomane timpurii, lucru dovedit de numeroasele clădiri vechi cu influență arhitecturală turcească și curți interioare umbrite. Tajoura este, de asemenea, renumit național ca un hub științific național, adăpostind centrul de cercetări nucleare din Libia. Istorie K8 — influența otomană și centre științifice nord-africane.",
+      "factsAdvanced": [
+        "În Tajoura funcționează Centrul de Cercetare Nucleară al Libiei, o unitate științifică istorică.",
+        "A fost prima bază de operațiuni navale a amiralului otoman Turgut Reis în secolul al XVI-lea.",
+        "Cunoscut pentru moscheea sa antică Murad Agha, una dintre cele mai spectaculoase din nord-vest.",
+        "Litoralul din Tajoura atrage mii de familii libiene în timpul sfârșitului de săptămână estival.",
+        "Solul a fost istoric favorabil pentru vița de vie și culturile mici de pepeni.",
+        "Are o identitate comunitară foarte puternică, locuitorii considerându-se distinct de tripotani."
+      ]
+    },
+    {
+      "id": "msallata-cities-v2",
+      "descriptionAdvanced": "Msallata, cunoscut uneori ca Al Qasabat, este așezat grațios pe dealurile muntoase joase dintre Tarhuna și Khoms. Această așezare liniștită deține titlul de capitală a uleiului de măsline din Libia. Dealurile sale onduite sunt acoperite în mod spectaculos de livezi nesfârșite de măslini seculari. Istoria bogată a zonei reflectă, de asemenea, perioadele timpurii ale învățăturii coranice. Pentru vizitatori, festivalurile sezoniere ale măslinelor aduc un omagiu patrimoniului agrar local și calității presării la rece tradiționale. Geografie K7 — industria măslinelor și relieful colinar.",
+      "factsAdvanced": [
+        "Produce cel mai apreciat și pur ulei de măsline virgin din întreaga Libie.",
+        "Orașul este cunoscut sub vechiul său nume, Cussabat, în arhivele coloniale italiene.",
+        "Aici s-a proclamat Republica Tripolitană în anul 1918, un moment esențial în istoria libiană modernă.",
+        "Livezile din Msallata beneficiază de briza mării, situându-se la doar 20 km de țărm.",
+        "Mai multe mori de piatră antice (ma'sara) folosite pentru măsline sunt încă vizibile în zonă.",
+        "Climatul este favorabil dezvoltării unor plante mediteraneene extrem de aromate, cum ar fi rozmarinul."
+      ]
+    },
+    {
+      "id": "al-ajaylat-cities-v2",
+      "descriptionAdvanced": "Al Ajaylat este poziționat în districtul vestic Nuqat al Khams, formând o legătură vitală între orașul litoral Sabratha și peisajele de stepă interioară. Economia orașului a fost dintotdeauna bazată pe o relație strânsă cu agricultura și comerțul nomad. Tradiția meșteșugărească și fabricarea produselor bazate pe frunze de palmier și lână încă persistă. În ciuda dezvoltării recente, Al Ajaylat menține structurile sociale tribale, iar respectul pentru tradițiile arabo-berbere este reflectat în viața de zi cu zi a localnicilor. Antropologie K7 — sincretism cultural arabo-berber și economie pastorală.",
+      "factsAdvanced": [
+        "Așezarea este situată la sud de Sabratha, într-o regiune predominant plană.",
+        "Localitatea depinde de rezervele de apă subterană pentru mica sa producție de curmale.",
+        "Are o istorie îndelungată de cooperare cu rutele caravanelor comerciale către orașul Ghadames.",
+        "Este renumit local pentru calitatea și finețea produselor tradiționale țesute de mână.",
+        "Populația aparține în mare măsură unor ramuri ale marilor confederații tribale vestice.",
+        "Climatul este considerabil mai arid decât în Sabratha, marcând tranziția către semideșert."
+      ]
+    },
+    {
+      "id": "al-qubbah-cities-v2",
+      "descriptionAdvanced": "Al Qubbah este cel mai mare centru populațional situat între Derna și Al Bayda, ancorat ferm pe culmile Munților Jebel Akhdar din estul Libiei. Zona a fost recunoscută de coloniștii italieni, care i-au remarcat peisajul fertil și au dezvoltat infrastructuri pentru o largă exploatare a pământului. Astăzi, Al Qubbah rămâne dependent de agricultură, livezi vaste de mere, peri și grâu sprijinind economia locală. De asemenea, a devenit o oprire rutieră deosebit de activă care deservește călătorii spre vestul montan al Cyrenaicei. Geografie K8 — regiuni agricole montane și istorie colonială.",
+      "factsAdvanced": [
+        "Are una dintre cele mai scăzute medii termice anuale din toate orașele libiene majore.",
+        "Numele Al Qubbah se referă probabil la vechile domuri sau mausolee (qubba) specifice regiunii.",
+        "Zăpada acoperă frecvent zonele înalte ale orașului în anotimpul de iarnă.",
+        "Solurile roșiatice de aici sunt ideale pentru arbori fructiferi mediteraneeni cu frunze căzătoare.",
+        "În perioada ocupației italiene a purtat numele fascist de Giovanni Berta.",
+        "Pădurile înconjurătoare de chiparoși seculari adăpostesc numeroase specii de păsări endemice."
+      ]
+    },
+    {
+      "id": "badr-cities-v2",
+      "descriptionAdvanced": "Badr este o așezare îndepărtată din districtul Nalut, la baza versanților vestici ai Munților Nafusa. A fost considerată mult timp un "oraș de frontieră interioară", deservind păstorii semi-nomazi care coborau din munți spre câmpia al-Jifara. Așezarea are un caracter profund rural, cu puține facilități urbane moderne. Badr se remarcă mai mult prin ritmul său lent, peisajele stâncoase severe și importanța sa în organizarea apărării și conservării tradițiilor marilor triburi beduine din vestul îndepărtat. Sociologie K7 — comunități de păstori și conservare rurală.",
+      "factsAdvanced": [
+        "Așezat pe drumul pustiu ce face legătura dintre munții Nalut și zona de coastă vestică.",
+        "Economia se bazează esențial pe comerțul neformal și pășunatul oilor Awassi.",
+        "Spre deosebire de alte orașe montane, Badr este așezat în câmpia de tranzit de jos.",
+        "Orașul găzduiește tabere sezoniere de beduini care se retrag în timpul verilor extrem de calde.",
+        "Fântânile și puțurile săpate cu sute de ani în urmă sunt încă vizibile și active.",
+        "Peisajul este marcat de tufișuri de esparto, folosite anterior pentru împletirea coșurilor."
+      ]
+    },
+    {
+      "id": "al-magrun-cities-v2",
+      "descriptionAdvanced": "Al Magrun, situat la aproximativ 80 de kilometri sud de Benghazi, este o mică și modestă comunitate costieră cu ieșire la Golful Sidra. Cunoscut mai ales de călătorii de pe autostrada de coastă, acest sat s-a concentrat pe agricultură artizanală, pescuit de mică amploare și deservirea traficului de mărfuri. Deși este eclipsat de marii săi vecini, Al Magrun are un istoric dureros: a fost locația unuia dintre marile lagăre de concentrare coloniale din anii 1930, unde numeroși localnici și-au pierdut viața. Istorie K8 — lagărele coloniale din Cyrenaica și recuperarea istorică.",
+      "factsAdvanced": [
+        "Se află la mică distanță spre vest de autostrada principală de coastă nord-libiană.",
+        "Fostul lagăr de concentrare italian din Al Magrun a fost ridicat în timpul războiului de gherilă din 1930.",
+        "Are un mediu marin superficial și cu apă extrem de sărată în aproprierea plajelor.",
+        "Populația locală s-a concentrat tradițional în jurul creșterii cămilelor.",
+        "Dispune de câteva foraje care asigură apă pentru serele artizanale ce produc tomate.",
+        "Mica piață de produse din carne este cunoscută pentru rigoarea și autenticitatea rețetelor locale."
+      ]
+    },
+    {
+      "id": "qandulah-cities-v2",
+      "descriptionAdvanced": "Qandulah este un sat idilic ascuns în culmile înalte ale regiunii Jebel Akhdar din nord-estul Libiei. Altitudinea ridicată și microclimatul rece îi permit să susțină păduri dense, neobișnuite pentru restul țării, pline de flori sălbatice primăvara. Aici locuitorii practică o agricultură lentă, ecologică, axată pe creșterea fructelor de pădure și apicultură. Peisajul său pitoresc și lipsa dezvoltării masive industriale transformă Qandulah într-un microcosmos perfect pentru a observa biodiversitatea endemică a Munților Verzi. Biologie K7 — biodiversitatea pădurilor nord-africane și apicultură montană.",
+      "factsAdvanced": [
+        "Așezat în apropierea granițelor administrative dintre Al Bayda și Marj.",
+        "Pădurile de Quercus (stejar mediteranean) din jurul așezării sunt printre cele mai groase din țară.",
+        "Mierea locală are un profil de gust unic, datorat plantelor sălbatice rare (inclusiv arbutus).",
+        "Așezarea devine acoperită de zăpadă aproape în fiecare an în luna ianuarie.",
+        "Arheologii au descoperit în preajma satului pietre de mormânt cu inscripții greco-romane uitate.",
+        "Economia sa se bazează pe comunități mici, cu piețe de schimb organizate sâmbăta."
+      ]
+    },
+    {
+      "id": "port-of-tripoli-economic-v2",
+      "descriptionAdvanced": "Portul Tripoli este cel mai mare și cel mai important centru maritim comercial al Libiei, servind drept poartă principală de intrare a mărfurilor pentru întreaga țară. Situat strategic pe coasta Mediteranei, acest port antic transformat într-un centru modern gestionează marea majoritate a importurilor de alimente, bunuri de larg consum și echipamente necesare populației și economiei libiene. Deși și-a pierdut din traficul de pasageri, funcția sa de terminal de containere cu operațiuni non-stop rămâne o coloană vertebrală absolută pentru supraviețuirea națională. Economie K8 — rute comerciale maritime și logistică portuară națională.",
+      "factsAdvanced": [
+        "Este cel mai vechi port operațional continuu din istoria Libiei moderne.",
+        "Capacitatea de procesare depășește milioane de tone de mărfuri containerizate anual.",
+        "Portul dispune de diguri masive de protecție construite inițial în perioada colonială italiană.",
+        "Este administrat de compania de stat Socialist Ports Company (SPC).",
+        "Zilnic acostează zeci de nave comerciale internaționale, predominant din sudul Europei și Turcia.",
+        "Oferă adăpost de vreme severă grație barierelor naturale din recife stâncoase lărgite cu beton."
+      ]
+    },
+    {
+      "id": "port-of-benghazi-economic-v2",
+      "descriptionAdvanced": "Portul Benghazi, principalul nod maritim al regiunii estice (Cirenaica), are un impact economic critic asupra jumătății de est a Libiei. Deși a suferit daune extinse în timpul luptelor care au cuprins centrul orașului în deceniul trecut, s-a recuperat spectaculos și și-a reluat operațiunile de import intensiv de cereale, vehicule și materiale de construcții. Poziționarea sa excelentă pe rutele est-mediteraneene îi facilitează comerțul rapid cu Grecia și Egiptul, acționând ca un catalizator vital pentru reconstrucția orașului. Economie K7 — reconstrucție industrială și comerțul est-mediteranean.",
+      "factsAdvanced": [
+        "A fost complet închis între anii 2014 și 2017 din cauza Războiului Civil Libian.",
+        "Portul are terminale specializate pentru manipularea oțelului și a cherestelei.",
+        "Facilitățile sale pot acomoda simultan mai multe nave cu pescaj mare.",
+        "Din punct de vedere istoric, a fost poarta navală prin care forțele aliate se aprovizionau în WWII.",
+        "Se află la distanță de mers pe jos de inima vechiului oraș Benghazi (Medina).",
+        "Recent au fost implementate sisteme avansate de vămuire și scanare pentru o reactivare completă."
+      ]
+    },
+    {
+      "id": "misrata-port-economic-v2",
+      "descriptionAdvanced": "Zona Liberă și Portul Misrata, cunoscut și ca Qasr Ahmed, este, fără îndoială, cel mai profitabil și eficient hub de antreprenoriat și logistică din Libia. Este prima zonă de liber schimb înființată pe teritoriul libian, atrăgând investiții străine masive datorită scutirilor fiscale și birocrației reduse. Dinamismul comercial al orașului a transformat portul într-un lider de tranzit auto (ro-ro) și de containere, redefinind complet importanța economică a regiunii și creând o clasă antreprenorială influentă. Economie K8 — zone de liber schimb și dezvoltare comercială independentă.",
+      "factsAdvanced": [
+        "Misrata Free Zone a fost instituită prin decret guvernamental încă din anul 2000.",
+        "Posedă cele mai bune rate de descărcare și logistică a containerelor din nordul Africii.",
+        "Este liderul național în importul de vehicule rulate (second-hand) din Europa.",
+        "Se întinde pe sute de hectare incluzând facilități masive de depozitare la rece.",
+        "Dezvoltarea sa s-a făcut aproape exclusiv prin inițiativa clasei de afaceri locale.",
+        "Portul are ape adânci capabile să adăpostească super-containere oceanice internaționale."
+      ]
+    },
+    {
+      "id": "al-khums-port-economic-v2",
+      "descriptionAdvanced": "Portul Al Khums este adesea eclipsat de porturile gigant din Tripoli și Misrata, dar a câștigat o reputație ca un punct de intrare esențial pentru industria materialelor de construcții. Amplasat convenabil în apropriere de zona antică Leptis Magna, el gestionează preponderent transporturi masive de ciment, clinker și cherestea. Importanța sa strategică este dată și de decongestionarea traficului din capitală, oferind un punct de intrare mai accesibil și cu operațiuni de acostare rapide pentru comercianții din vestul montan. Geografie K7 — descentralizarea portuară și manipularea mărfurilor grele.",
+      "factsAdvanced": [
+        "A fost lărgit considerabil în anii 1980 pentru a susține boom-ul construcțiilor libiene.",
+        "Este situat în inima golfului protejat Al Khums la est de Tripoli.",
+        "Are instalații de macarale masive dedicate descărcării rapide de minereu și clinker.",
+        "Decongestionarea portului se face rapid printr-un nod rutier care previne blocajele.",
+        "Apropierea de fabricile locale de ciment îl transformă într-o roată dințată industrială cheie.",
+        "Micul doc adiacent susține una dintre cele mai prospere flote de pescuit regional."
+      ]
+    },
+    {
+      "id": "tobruk-port-economic-v2",
+      "descriptionAdvanced": "Portul Tobruk este unul dintre puținele porturi naturale cu ape de mare adâncime de pe coasta nord-africană. Poziționat la granița estică cu Egiptul, s-a dezvoltat în istoria modernă în jurul facilităților petroliere și logistice. Astăzi, pe lângă exportul masiv de țiței brut prin terminalul Marsa al-Hariga din imediata apropiere, el facilitează și o mare parte din mărfurile esențiale necesare populației districtului Al Butnan. Forma sa naturală curbată îl face aproape inexpugnabil în fața furtunilor mediteraneene de iarnă. Economie K8 — porturi naturale profunde și infrastructura petrolieră estică.",
+      "factsAdvanced": [
+        "Oferă un port natural perfect adăpostit, folosit intens din vremuri coloniale.",
+        "Include terminalul Marsa al-Hariga, esențial pentru exportul țițeiului din Cirenaica.",
+        "A jucat rolul de bază navală principală a flotelor italiene și britanice în război.",
+        "Marea sa adâncime de acostare evită necesitatea dragajului constant și scump.",
+        "Portul a servit drept linie de supraviețuire pentru Camera Reprezentanților în anii 2014-2015.",
+        "În apropiere de terminal există și o mică facilitate dedicată producției de gaz lichefiat."
+      ]
+    },
+    {
+      "id": "derna-port-economic-v2",
+      "descriptionAdvanced": "Portul Derna are un profil eminamente comercial de scară medie, fiind principala gură de aprovizionare marină pentru regiunea Jebel Akhdar oriental. Deși este afectat ocazional de curenții de coastă intenși, importanța sa pentru comerțul agricol și importul bunurilor de uz casnic rămâne mare pentru locuitorii izolați de marile capitale. Evenimentele tragice din septembrie 2023, cauzate de Furtuna Daniel, au provocat daune imense, copleșind infrastructura din apropierea apei și aducând la suprafață necesitatea unei reconstrucții hidrotehnice naționale. Geografie K7 — infrastructură vulnerabilă la schimbări climatice.",
+      "factsAdvanced": [
+        "În trecut a fost faimos pentru acostarea vaselor mici încărcate cu mirodenii și bureți de mare.",
+        "Infrastructura sa a suferit devastări inimaginabile în timpul inundațiilor masive din 2023.",
+        "Portul a stat decenii la rând sub controlul exclusiv al administrației locale orientale.",
+        "Accesul în doc este renumit de îngust și stâncos, punând la încercare îndemânarea navigației.",
+        "La sfârșitul anilor '90 s-a realizat o modernizare pentru a primi cargouri rusești și asiatice.",
+        "Pe lângă marfă, micii pescari artizanali folosesc portul zilnic de generații."
+      ]
+    },
+    {
+      "id": "ras-lanuf-port-economic-v2",
+      "descriptionAdvanced": "Portul petrolier Ras Lanuf, situat în adâncul Golfului Sidra, reprezintă una dintre "bijuteriile coroanei" pentru exportul libian de hidrocarburi. Portul este punctul terminus al nenumăratelor rețele de conducte care aduc petrolul din inima bazinului deșertic Sirte, acționând ca o facilitate de depozitare cu o capacitate imensă formată din rezervoare titanice vopsite în alb. Acesta alimentează direct petrolierele de mari dimensiuni ce ancorează la balize plutitoare de la distanță, evitând țărmurile stâncoase, fiind strict un nod de importanță internațională. Economie K8 — rafinare și terminale petroliere masive.",
+      "factsAdvanced": [
+        "A fost pus în funcțiune în 1964 de compania petrolieră Veba Oil.",
+        "Terminalul poate încărca nave tip VLCC (Very Large Crude Carriers) folosind cabluri plutitoare de ancorare.",
+        "Este conectat direct cu cel mai mare complex de rafinare a țițeiului brut din Libia.",
+        "Capacitatea rezervoarelor sale permite depozitarea a milioane de barili gata de export.",
+        "A fost adesea ținta luptelor strategice din anii 2011 și 2016.",
+        "De aici pleacă materie primă crucială pentru industria petrochimică sud-europeană."
+      ]
+    },
+    {
+      "id": "marsa-el-brega-port-economic-v2",
+      "descriptionAdvanced": "Marsa el Brega (sau Al Burayqah) este un port industrial și o zonă de rafinare enormă, cu o semnificație istorică: a fost locul primului terminal libian prin care s-a exportat vreodată petrol, în anul 1961. Astăzi, el s-a diversificat uimitor, devenind principalul hub de procesare și export petrochimic al Libiei. Fabricile masive de pe coastă produc o gamă largă de derivate din gaz natural, inclusiv uree și amoniac, transformând complet Marsa el Brega într-un pilon de neclintit al exportului internațional ne-petrolier, dar derivat din hidrocarburi. Economie K7 — industria petrochimică și derivatele gazelor naturale.",
+      "factsAdvanced": [
+        "Primul baril de petrol exportat din istoria Libiei a părăsit acest port la 12 septembrie 1961.",
+        "Sirte Oil Company administrează majoritatea enormelor sale facilități petrochimice.",
+        "Portul este echipat special pentru a descărca substanțe volatile și gaz lichefiat (GNL).",
+        "Adăpostește una dintre cele mai mari uzine de producere a amoniacului din nordul Africii.",
+        "Zona rezidențială din apropiere a fost special planificată urbanistic de arhitecți europeni.",
+        "Cablurile sale subacvatice protejează navele în timpul furtunilor grele din Golful Sidra."
+      ]
+    },
+    {
+      "id": "zueitina-oil-terminal-economic-v2",
+      "descriptionAdvanced": "Terminalul Petrolier Zueitina, situat la aproximativ 150 km sud-vest de Benghazi, este o facilitate maritimă critică, esențială pentru fluxul de țiței estic și central. Spre deosebire de alte mari porturi industriale, Zueitina a rămas aproape exclusiv o stație imensă de preluare și pompare maritimă de la capătul unei rețele de conducte lungi de sute de kilometri. Pe fundalul coastei aride, tancurile mari, albe de depozitare formează un reper vizual uimitor care adesea determină creșteri și descreșteri puternice ale pieței globale a petrolului în funcție de deschiderea sau blocarea sa politică. Geografie K8 — vulnerabilități logistice petroliere și geopolitică locală.",
+      "factsAdvanced": [
+        "A intrat inițial în exploatare în 1968 sub egida companiei petroliere americane Occidental.",
+        "Terminalul manipulează țiței din faimosul și bogatul bazin Sirte (ex: zăcămintele Intisar).",
+        "Capacitatea de încărcare a terminalului depășește adesea zeci de mii de barili pe oră.",
+        "A fost vizat de blocaje frecvente organizate de forțele politice est-libiene pentru influență.",
+        "Depozitele albe de țiței de la Zueitina au o capacitate totală impresionantă de milioane de barili.",
+        "O componentă critică include exportul prețiosului gaz natural lichefiat (LPG)."
+      ]
+    },
+    {
+      "id": "zawiya-port-economic-v2",
+      "descriptionAdvanced": "Portul Zawiya diferă de marile porturi estice prin orientarea sa vitală către necesitățile interne de combustibil procesat. Aflat imediat lângă Rafinăria Zawiya de la vest de Tripoli, acest port este inima logistică prin care Libia primește benzină rafinată de import (în lipsa propriei sale capacități suficiente de rafinare internă completă) și exportă țiței extras de la câmpurile sudice ca Sharara. Securitatea și fluența acestui port reprezintă "tensiunea arterială" a capitalei Tripoli; orice blocaj aici cauzează rapid pene de curent masive și crize de combustibil. Economie K7 — aprovizionarea internă cu energie și rafinării.",
+      "factsAdvanced": [
+        "Aprovizionează capitala Tripoli cu majoritatea produselor petroliere finite (benzină, motorină).",
+        "Este conectat direct prin conducte gigant cu câmpul Sharara din bazinul Murzuq.",
+        "Zilnic ancorează aici nave cisternă masive, aducând frecvent carburant din zona Europei.",
+        "Deși este mic ca suprafață maritimă, este cel mai bine protejat port energetic vestic.",
+        "Operațiunile sunt strict monopolizate de corporația națională libiană de petrol (NOC).",
+        "Vara, fluxul portului dictează direct buna funcționare a generatoarelor electrice naționale."
+      ]
+    },
+    {
+      "id": "mellitah-port-economic-v2",
+      "descriptionAdvanced": "Complexul și Portul de Ulei și Gaze Mellitah este, probabil, cel mai sofisticat proiect energetic modern din vestul Libiei. Rezultat al unui uriaș parteneriat de tip joint-venture între autoritățile libiene și compania italiană Eni, portul servește ca stație de comprimare și punct de plecare pentru gazoductul submarin Greenstream care alimentează Italia trecând prin Marea Mediterană. Mai mult decât un simplu port de vapoare, Mellitah este un triunghi vital al diplomației energetice euro-mediteraneene, exportând anual miliarde de metri cubi de gaz pur. Geografie K8 — gazoducte intercontinentale și diplomație energetică.",
+      "factsAdvanced": [
+        "Punctul de pornire libian al conductei Greenstream, care se întinde pe 520 km sub apă până în Sicilia.",
+        "A fost inaugurat oficial în anul 2004 de guvernul libian și partenerii internaționali.",
+        "Procesează gaz natural de la câmpurile offshore colosale Bahr Essalam și terestrele Wafa.",
+        "Include stații imense de de-sulfurare și prelucrare complexă a condensatelor toxice din gaz.",
+        "Situat la aproximativ 22 de kilometri est de așezarea de graniță Zuwara.",
+        "A contribuit fundamental la transformarea Italiei într-un pol european major de gazoducte."
+      ]
+    },
+    {
+      "id": "es-sider-terminal-economic-v2",
+      "descriptionAdvanced": "Es Sider, sau Al-Sidra, este cel mai mare terminal de export petrolier din întregul stat libian. Acest port gigant din Golful Sidra a fost proiectat cu o capacitate terifiantă de stocare de sute de mii de tone în 19 rezervoare mamut. Având statutul de pivot absolut al finanțelor țării, a suferit cele mai grave lovituri de artilerie și incendii dramatice în anii trecuți de tulburări. Astăzi, deși cicatrizat, a fost repornit parțial, demonstrând importanța vitală a zăcământului Waha în economia globală a hidrocarburilor. Istorie K8 — vulnerabilitatea macro-infrastructurii în conflicte.",
+      "factsAdvanced": [
+        "A deținut capacitatea teoretică maximă de export de aproape 450.000 barili pe zi.",
+        "A fost supus unui dezastru major în 2014, când lovituri directe au incendiat rezervoare masive de țiței.",
+        "Acționează ca un nod exclusiv pentru consorțiul Waha Oil Company.",
+        "Rezervoarele sunt interconectate printr-o plasă densă de sute de kilometri de conducte magistrale.",
+        "În apropiere există cimitire temporare create rapid pentru soldații din Războiul din Deșert (WWII).",
+        "Terminalul include un mic sat complet funcțional exclusiv pentru angajații din domeniul petrolier."
+      ]
+    },
+    {
+      "id": "sharara-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Sharara este o nestemată colosală ascunsă adânc în stâncosul bazin Murzuq din Sahara de sud-vest, fiind considerat cel mai mare câmp petrolifer din întreaga țară. Resursele masive extrase de aici se bucură de statut de excelență datorită compoziției foarte dulci a țițeiului, de înaltă calitate și foarte căutat global. Orașul invizibil al sondelor și stațiilor de separare depinde zilnic de aeroporturi proprii, sisteme energetice solare în expansiune și o imensă conductă care traversează deșertul și munții spre nord, direct în rafinăria portului Zawiya. Economie K7 — gigantismul extracției terestre și calitatea țițeiului.",
+      "factsAdvanced": [
+        "Capacitatea de producție depășește adesea 300.000 de barili prețioși de țiței zilnic.",
+        "Este exploatat de un consorțiu masiv numit Akakus Oil, format din Repsol, Total, OMV și Equinor.",
+        "Țițeiul extras este faimos global sub denumirea de Light Sweet (fără sulf toxic).",
+        "Se întinde pe sute de kilometri pătrați de relief stâncos la sud de lacurile din Ubari.",
+        "Închiderile frecvente impuse de grupuri armate sau tribale locale prăbușesc instantaneu bugetul național libian.",
+        "Apa extrasă alături de petrol este epurată folosind tehnologii complexe de separare."
+      ]
+    },
+    {
+      "id": "el-feel-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier El Feel, cu un nume tradus prin "Câmpul Elefantului", subliniază rezervele sale mamut și se află izolat în același imens bazin Murzuq ca și vecinul său Sharara. Acest zăcământ enorm a devenit vital la începutul anilor 2000, fiind susținut printr-o uriașă injecție de tehnologie italiană avansată (Eni). Ceea ce-l face fascinant este nivelul masiv de logistică necesar extragerii la sute de kilometri de cea mai apropiată șosea funcțională, reprezentând un exemplu clar de cucerire tehnologică a limitelor dure ale naturii. Geografie K8 — tehnologii de foraj în condiții extreme de mediu.",
+      "factsAdvanced": [
+        "Numele El Feel se traduce din limba arabă prin Elefantul, aluziv la marile sale dimensiuni.",
+        "A fost inaugurat abia în 2004, deși explorările începuseră masiv la sfârșitul anilor '90.",
+        "Operațiunea are o capacitate maximă teoretică de producție de peste 80.000 de barili pe zi.",
+        "Extracția este asigurată aproape complet de parteneriatul Mellitah Oil & Gas (cu ENI din Italia).",
+        "Țițeiul călătorește printr-o conductă colaterală care se varsă în marea conductă principală a Shararei.",
+        "Echipele de sondori suportă un mediu climatic unde diferențele diurne depășesc frecvent 30 de grade."
+      ]
+    },
+    {
+      "id": "waha-oil-field-economic-v2",
+      "descriptionAdvanced": "Sistemul zăcămintelor Waha este inima originală și inima batândă a bazinului Sirte din centrul Libiei, dominând piața extragerilor timp de decenii de la descoperirea istorică din anii 1950. Deși a ajuns în faza a doua de viață tehnologică (declin matur al presiunii naturale), complexul rămâne o rețea vastă și complicată de stații de pompare care asigură continuitate prin gigantul terminal Es Sider de pe coastă. Numele său definește practic corporația uriașă ce menține una dintre cele mai vaste operațiuni industriale neîntrerupte din regiunea deșertică fierbinte a continentului african. Economie K7 — maturitatea câmpurilor petroliere și consorții corporative.",
+      "factsAdvanced": [
+        "A fost decoperit și exploatat inițial de firmele gigantice americane (Oasis Oil Company).",
+        "Astăzi este administrat de Waha Oil Company, un consorțiu ce include filiale ConocoPhillips.",
+        "Este cunoscut ca fiind parte din cele mai vechi câmpuri extrem de bogate ale Libiei moderne.",
+        "Presiunea naturală s-a micșorat treptat, necesitând instalații uriașe pentru injecția de apă sau gaz.",
+        "Numele său, Waha, înseamnă oază în arabă, deși zona reprezintă o imensitate de nisip arid.",
+        "Terenul petrolier acoperă o zonă deșertică plată extrem de vastă, fără elevații proeminente."
+      ]
+    },
+    {
+      "id": "zelten-oil-field-economic-v2",
+      "descriptionAdvanced": "Câmpul petrolier Zelten ocupă un loc legendar în istoria economică modernă a țării; este prima și cea mai spectaculoasă decoperire de petrol realizată în bazinul Sirte (1959). Descoperirea a catapuldat brusc Libia, din statutul uneia dintre cele mai defavorizate și sărace colonii părăsite din nordul Africii, direct în topul magnaților globali de energie. Chiar dacă producția curentă este doar o umbră a anilor săi de vârf, importanța istorică a lui Zelten pentru formarea statului modern petrolier libian este considerată inegalabilă. Istorie K8 — transformarea petrostatelor și boom-ul anilor '60.",
+      "factsAdvanced": [
+        "A fost decoperit oficial în anul 1959 de către celebra companie americană Esso (în prezent ExxonMobil).",
+        "Reprezintă factorul primordial al transformării subite și masive din anii 1960 a statului libian.",
+        "A determinat construirea frenetică a uriașului terminal petrolier de pe coasta din Marsa el Brega.",
+        "Țițeiul extras din calcarele uriașe subterane are o concentrație redusă de poluanți corozivi.",
+        "Este cunoscută astăzi sub o denumire arabizată schimbată: câmpul Nasser.",
+        "O componentă critică din producție este obținută printr-o imensă rețea de injecție a apelor sărate."
+      ]
+    },
+    {
+      "id": "sarir-oil-field-economic-v2",
+      "descriptionAdvanced": "Situat în imensul și complet dezolantul deșert Sarir din est, Câmpul Sarir deține titlul celui mai mare zăcământ petrolier unic existent în toată structura geologică a Libiei. Extragerile masive realizate aici cu ajutorul giganților americani și britanici din perioada regalității (British Petroleum și Hunt) au finanțat majoritatea proiectelor de infrastructură din ultimii cincizeci de ani. Remarcabil, la zeci de metri sub suprafață, zăcământul împărtășește fundalul geologic cu un rezervor colosal de apă fosilă, ceea ce a determinat ulterior dezvoltarea mega-proiectului Great Man-Made River din est. Geografie K7 — geologia deșertului stâncos și explorările din timpul Războiului Rece.",
+      "factsAdvanced": [
+        "A fost decoperit în marea zonă de deșert calcaros și stâncos din anul 1961.",
+        "Deține recordul de rezerve estimat colosal, de zeci de miliarde de barili de țiței la fața locului.",
+        "Este izolat total din punct de vedere climatic, lipsit complet de precipitații sau vegetație naturală.",
+        "S-a aflat în centrul multor litigii de naționalizare explozive lansate de guvernul anilor 1970.",
+        "Exportul se realizează prin cea mai lungă conductă centrală a țării către terminalul din Hariga, la nord.",
+        "Împărtășește aceleași limite geologice sud-estice cu cele mai mari bazine de ape fosile de sub Sahara."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lang": "ro",
+  "country": "senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jardin-zoologique-dakar-life-v2",
+      "descriptionAdvanced": "Grădina Zoologică din Dakar, cunoscută oficial sub numele de Parc Hann, este o oază de verdeață în inima metropolei, servind drept plămân verde și spațiu de recreere pentru locuitorii capitalei. Fondată în 1903 ca grădină botanică și pepinieră, locația s-a transformat ulterior într-un complex care îmbină conservarea faunei cu educația ecologică. Vizitatorii pot vedea o varietate de specii africane, inclusiv lei, maimuțe, crocodili și păsări exotice, într-un cadru dominat de arbori seculari și plante tropicale. Parcul Hann include și o zonă de iazuri unde ecosistemele acvatice sunt protejate, oferind un refugiu rar pentru biodiversitate într-o zonă intens urbanizată. Proiectele recente de renovare vizează îmbunătățirea condițiilor pentru animale și transformarea grădinii într-un centru modern de cercetare și sensibilizare a publicului față de provocările de mediu din Senegal.",
+      "factsAdvanced": [
+        "Fondat inițial în 1903, fiind unul dintre cele mai vechi parcuri din regiune.",
+        "Situat în districtul Hann, acoperă o suprafață de peste 60 de hectare.",
+        "Găzduiește o colecție impresionantă de floră forestieră și specii rare de arbori.",
+        "Este un loc de studiu preferat pentru studenții la biologie și silvicultură.",
+        "Include o pepinieră care furnizează plante pentru reîmpădurirea orașului.",
+        "Parcul dispune de zone special amenajate pentru picnic și activități sportive.",
+        "Zidurile sale adăpostesc un arboretum unic în Africa de Vest.",
+        "Grădina zoologică face parte dintr-un ecosistem mai larg ce include lacul Hann."
+      ]
+    },
+    {
+      "id": "parc-lompoul-life-v2",
+      "descriptionAdvanced": "Deșertul Lompoul este o bijuterie naturală unică în Senegal, oferind vizitatorilor o experiență de deșert autentică pe o suprafață de aproximativ 18 kilometri pătrați. Situat între Dakar și Saint-Louis, acest mini-deșert este renumit pentru dunele sale înalte de nisip fin, de o culoare portocalie spectaculoasă, care par să fi fost rupte direct din Sahara. Viața în Lompoul se desfășoară într-un ritm liniștit, marcat de plimbări cu cămila și seri petrecute sub cerul înstelat în corturi tradiționale maure (khaimas). Această zonă a devenit un model pentru ecoturismul de succes, îmbinând aventura cu respectul pentru mediul fragil. Dunele sunt într-o continuă mișcare sub influența vânturilor atlantice, creând peisaje care se schimbă zilnic. Deși este o destinație turistică populară, Lompoul își păstrează aura de izolare și mister, oferind o perspectivă rară asupra forțelor geologice care modelează coasta de nord-vest a Africii.",
+      "factsAdvanced": [
+        "Unicul deșert de dune din Senegal, situat în regiunea Louga.",
+        "Nisipul are o nuanță caracteristică de portocaliu-roșcat, bogat în oxizi de fier.",
+        "Dunele pot atinge o înălțime de până la 40 de metri.",
+        "Este locația principală pentru „Festivalul din Lompoul”, care celebrează muzica africană.",
+        "Accesul în interiorul parcului se face exclusiv cu vehicule 4x4.",
+        "Oferă o platformă ideală pentru observarea astronomică datorită lipsei poluării luminoase.",
+        "Satele din jur cultivă legume în văile dintre dune folosind apa freatică.",
+        "Distanța față de malul Oceanului Atlantic este de numai câțiva kilometri."
+      ]
+    },
+    {
+      "id": "culture-coton-tambacounda-life-v2",
+      "descriptionAdvanced": "Cultura bumbacului în regiunea Tambacounda este fundamentul vieții economice pentru mii de gospodării din estul Senegalului. Cunoscut sub numele de „aurul alb”, bumbacul este cultivat în principal de micii fermieri sub coordonarea SODEFITEX, o societate care asigură suport tehnic și procesare industrială. Regiunea Tambacounda oferă condițiile climatice ideale pentru această cultură, cu un sezon ploios distinct și soluri fertile. Procesul de producție, de la însămânțare la recoltarea manuală și ulterior la egrenarea în fabrici, este un ciclu vital care susține veniturile rurale și stimulează exporturile naționale. Dincolo de valoarea economică, cultura bumbacului a modelat peisajul social al regiunii, ducând la crearea de cooperative și la dezvoltarea unei culturi a muncii colective. Produsele derivate, precum uleiul de bumbac și turtele pentru hrana animalelor, contribuie, de asemenea, la securitatea alimentară a zonei.",
+      "factsAdvanced": [
+        "Regiunea Tambacounda produce peste 70% din bumbacul Senegalului.",
+        "Bumbacul este o cultură de subzistență esențială pentru stabilitatea estului țării.",
+        "SODEFITEX operează mari unități de egrenare în orașul Tambacounda.",
+        "Cea mai mare parte a producției este exportată pe piețele asiatice și europene.",
+        "Cultivarea este manuală în proporție de peste 90%, asigurând o calitate superioară a fibrei.",
+        "Recolta are loc de obicei în perioada noiembrie-ianuarie.",
+        "Bumbacul senegalez este renumit pentru lungimea și rezistența fibrelor sale.",
+        "Sectorul este unul dintre cei mai mari utilizatori de inputuri agricole din țară."
+      ]
+    },
+    {
+      "id": "village-tortues-noflaye-life-v2",
+      "descriptionAdvanced": "Satul Țestoaselor de la Noflaye este un centru de conservare și educație dedicat protejării broaștelor țestoase din Senegal, fiind un reper important pentru biodiversitatea regională. Situat la aproximativ 35 de kilometri de Dakar, în zona Niayes, centrul se concentrează pe salvarea speciei Centrochelys sulcata, cea mai mare țestoasă de uscat din Africa, care este grav amenințată de pierderea habitatului. Vizitatorii pot parcurge trasee educaționale unde observă țestoase de toate vârstele, de la pui abia ieșiți din ou până la exemplare gigantice de peste 50 de ani. Satul Noflaye joacă un rol activ în reintroducerea acestor reptile în parcurile naționale din nordul țării, contribuind la restabilirea echilibrului ecologic. Centrul este gestionat de o asociație dedicată conservării, care colaborează cu școlile locale pentru a educa noua generație despre importanța protejării faunei sălbatice și a ecosistemelor fragile din Senegal.",
+      "factsAdvanced": [
+        "Adăpostește Centrochelys sulcata, o specie care poate cântări până la 100 kg.",
+        "Centrul a fost înființat în 1993 sub egida asociației S.O.S. Tortues.",
+        "Include o maternitate pentru puii de țestoasă și un spital veterinar.",
+        "Promovează protejarea zonelor umede Niayes împotriva expansiunii urbane.",
+        "Vizitatorii pot „adopta” simbolic o țestoasă pentru a susține hrana acesteia.",
+        "Noflaye este un sit cheie pentru cercetarea comportamentului reptilelor în Sahel.",
+        "Țestoasele crescute aici sunt eliberate periodic în rezervații protejate (ex. Ferlo).",
+        "Centrul oferă o experiență educativă unică pentru familii și grupuri școlare."
+      ]
+    },
+    {
+      "id": "port-peche-kayar-life-v2",
+      "descriptionAdvanced": "Portul de pescuit Kayar este unul dintre cele mai vibrante și spectaculoase centre ale pescuitului artizanal din Africa de Vest, situat pe „Grande Côte” a Senegalului. În fiecare după-amiază, plaja din Kayar devine scena unui spectacol incredibil, când sute de pirogi colorate revin din largul oceanului, trecând cu abilitate printre valurile puternice. Kayar este faimos nu doar pentru cantitatea uriașă de pește capturată, ci și pentru modul tradițional de organizare a comunității de pescari Lebou. O mare parte din captură este procesată local prin afumare sau uscare, fiind ulterior vândută în interiorul țării sau exportată în regiune. Canionul submarin din dreptul localității creează condiții oceanografice speciale care atrag mari concentrații de pește, transformând Kayar într-un pilon al securității alimentare naționale. Pentru turiști, vizitarea portului Kayar oferă o imersiune profundă în cultura maritimă senegaleză, într-un vârtej de culori, mirosuri și energie umană debordantă.",
+      "factsAdvanced": [
+        "Este cel de-al doilea cel mai important port de pescuit artizanal din Senegal.",
+        "Pirogile tradiționale sunt sculptate manual și pictate cu motive protectoare.",
+        "Beneficiază de un canion submarin adânc care aduce ape bogate în nutrienți la suprafață.",
+        "Comunitatea are reguli stricte de gestionare a resurselor pentru a evita pescuitul excesiv.",
+        "Zilnic sunt descărcate zeci de tone de pește (sardinella, doradă, ton).",
+        "Găzduiește un amplu sector de procesare condus în principal de femei.",
+        "Pescuitul în Kayar este considerat o formă de artă și de curaj datorită mării agitate.",
+        "Satul este conectat direct la piața centrală de pește din Dakar."
+      ]
+    },
+    {
+      "id": "marais-de-pout-life-v2",
+      "descriptionAdvanced": "Mlaștinile de la Pout, situate în regiunea Thiès, fac parte din complexul ecosistem Niayes, o zonă umedă de o importanță capitală pentru agricultura și biodiversitatea Senegalului. Aceste mlaștini sunt formate prin aflorarea pânzei freatice în depresiunile dintre dunele de nisip costiere, creând microclimate umede și fertile într-o regiune altfel aridă. Zona Pout este renumită ca fiind „grădina de zarzavaturi” a Senegalului, furnizând cea mai mare parte a legumelor și fructelor (în special mango și citrice) consumate în capitală. Mlaștinile servesc și ca habitat pentru numeroase specii de păsări și amfibieni, fiind un punct de observație interesant pentru naturaliști. Cu toate acestea, ecosistemul se confruntă cu presiuni din cauza utilizării intensive a pesticidelor și a scăderii nivelului pânzei freatice. Protejarea mlaștinilor de la Pout este esențială pentru menținerea producției agricole sustenabile și pentru asigurarea rezilienței ecologice a coastei senegaleze.",
+      "factsAdvanced": [
+        "Inima producției de fructe și legume pentru regiunea Dakar.",
+        "Mlaștinile sunt create de prezența unor ape subterane de mică adâncime.",
+        "Regiunea Pout este celebră pentru calitatea excepțională a mango-urilor exportate.",
+        "Ecosistemul funcționează ca o barieră naturală împotriva înaintării deșertului.",
+        "Include zone de vegetație luxuriantă cu palmieri și arbuști de baltă.",
+        "Este o zonă de popas vitală pentru păsările migratoare în timpul iernii.",
+        "Agricultura aici este un amestec de tehnici artizanale și moderne.",
+        "Zona este protejată sub reglementări locale de conservare a solului și apei."
+      ]
+    },
+    {
+      "id": "foret-de-mbao-life-v2",
+      "descriptionAdvanced": "Pădurea Clasată de la Mbao este ultima mare zonă forestieră de la periferia estică a capitalei Dakar, servind drept „plămân verde” pentru o regiune intens poluată și urbanizată. Această pădure joacă un rol ecologic multidimensional: reglează temperatura locală, purifică aerul și protejează zonele rezidențiale împotriva eroziunii eoliene și a inundațiilor. Mbao adăpostește o diversitate surprinzătoare de floră și faună mică, fiind un refugiu pentru păsări, reptile și mici mamifere. De-a lungul anilor, pădurea a fost amenințată de extinderea drumurilor și de urbanizarea ilegală, dar eforturile de conservare și reîmpădurire au reușit să păstreze nucleul său vital. Astăzi, pădurea de la Mbao este integrată în proiecte de educație de mediu și oferă trasee de plimbare pentru locuitorii din suburbiile Dakarului (Pikine și Keur Massar), fiind un simbol al luptei pentru păstrarea spațiilor naturale în contextul creșterii urbane galopante.",
+      "factsAdvanced": [
+        "Ultima barieră forestieră majoră înainte de intrarea în peninsula Cap-Vert.",
+        "Acoperă o suprafață protejată legal pentru a preveni specula imobiliară.",
+        "Adăpostește specii de eucalipt, akác și palmieri africani.",
+        "Este o zonă critică pentru reîncărcarea pânzei freatice locale.",
+        "Serviciul Silvic al Senegalului are aici un centru de monitorizare.",
+        "Pădurea este traversată de infrastructuri majore precum autostrada Dakar-Diamniadio.",
+        "Este un sit de studiu pentru impactul urbanizării asupra biodiversității.",
+        "Comunitățile locale utilizează marginea pădurii pentru culturi horticole mici."
+      ]
+    },
+    {
+      "id": "centre-handicapes-dakarnave-life-v2",
+      "descriptionAdvanced": "Centrul pentru Persoane cu Dizabilități de la Dakarnave este o inițiativă socială remarcabilă situată în portul industrial Dakar, dedicată integrării profesionale a persoanelor cu nevoi speciale prin formare tehnică și artizanat. Centrul oferă ateliere de prelucrare a lemnului, textilelor și metalului, unde persoanele cu dizabilități învață meserii care le permit să devină autonome economic. Produsele realizate aici sunt de o calitate excepțională, fiind vândute atât pe piața locală, cât și vizitatorilor străini, contribuind la schimbarea percepției societății asupra potențialului persoanelor cu handicap. Această instituție reprezintă un model de responsabilitate socială corporativă și de solidaritate umană în inima sectorului industrial dur al Senegalului. Succesul centrului se datorează abordării sale bazate pe demnitate prin muncă, oferind nu doar asistență, ci și mândria de a contribui activ la economia țării.",
+      "factsAdvanced": [
+        "Situat în zona portuară a Dakarului, aproape de marile șantiere navale.",
+        "Fondat pentru a oferi demnitate prin muncă persoanelor marginalizate.",
+        "Specializat în fabricarea de mobilier, accesorii din piele și obiecte decorative.",
+        "Oferă cursuri de calificare recunoscute de statul senegalez.",
+        "Produsele centrului sunt expuse frecvent la târguri de artizanat naționale.",
+        "Include servicii de consiliere și suport social pentru familiile beneficiarilor.",
+        "Este un exemplu de parteneriat între sectorul industrial (Dakarnave) și societatea civilă.",
+        "Contribuie la promovarea incluziunii sociale în context urban."
+      ]
+    },
+    {
+      "id": "fleuve-senegal-nature-v2",
+      "descriptionAdvanced": "Fluviul Senegal, cu o lungime de peste 1.700 de kilometri, este artera vitală care definește frontiera de nord a țării și susține viața în întregul bazin Sahelian. Izvorând din masivul Fouta Djallon din Guineea, fluviul traversează peisaje diverse, de la zonele muntoase la câmpiile secetoase, înainte de a se vărsa în Oceanul Atlantic la Saint-Louis. Importanța sa strategică este imensă, fiind sursa principală de apă pentru irigații, producție de energie hidroelectrică și navigație. Valea fluviului Senegal este centrul istoric al agriculturii intensive a țării, unde se cultivă orez, trestie de zahăr și cereale. Fluviul găzduiește ecosisteme bogate, inclusiv zone umede protejate care atrag mii de păsări migratoare. Gestiunea apelor sale este realizată în cooperare cu statele vecine prin OMVS (Organizația pentru Valorificarea Fluviului Senegal), fiind un exemplu de diplomație a apei în Africa. Fluviul nu este doar o resursă naturală, ci și un simbol cultural profund pentru popoarele Wolof, Peul și Soninke care trăiesc de-a lungul malurilor sale.",
+      "factsAdvanced": [
+        "Al doilea cel mai lung fluviu din Africa de Vest, după Niger.",
+        "Formează granița naturală între Senegal și Mauritania.",
+        "Vărsarea sa în ocean este marcată de fenomenul „Langue de Barbarie”.",
+        "Susține cel mai mare sistem de irigații din țară în regiunea Richard Toll.",
+        "Include baraje gigantice precum Diama (anti-sare) și Manantali (energie).",
+        "Navigația fluvială este posibilă pe distanțe mari în timpul sezonului ploios.",
+        "Este un habitat critic pentru lamantinii africani și crocodili.",
+        "Râul este inima istorică a vechilor regate Tekrur și Waalo."
+      ]
+    },
+    {
+      "id": "lac-rose-nature-v2",
+      "descriptionAdvanced": "Lacul Rose, cunoscut oficial sub numele de Lacul Retba, este una dintre cele mai spectaculoase atracții naturale ale Senegalului, situat la aproximativ 30 de kilometri nord-est de Dakar. Lacul este faimos pentru nuanța sa de roz intens, cauzată de prezența algei Dunaliella salina, care produce un pigment roșiatic pentru a rezista concentrației extrem de ridicate de sare. Cu o salinitate care depășește 40% în unele zone, lacul permite vizitatorilor să plutească fără efort la suprafața apei, similar cu experiența de la Marea Moartă. Dincolo de frumusețea sa vizuală, Lacul Rose este un centru economic important pentru recoltarea sării, unde sute de muncitori extrag manual cristalele din fundul lacului folosind pirogi mici. Peisajul este completat de dunele de nisip alb care separă lacul de ocean, oferind un contrast cromatic deosebit. Deși nuanța roz este mai vizibilă în sezonul uscat, lacul rămâne un sit natural fascinant și un simbol al rezilienței ecologice și economice a regiunii.",
+      "factsAdvanced": [
+        "Culoarea roz este rezultatul interacțiunii dintre sarea ridicată, soare și microalge.",
+        "Lacul Retba a fost punctul final tradițional al celebrului Raliu Dakar.",
+        "Salinitatea este de aproximativ 380 de grame pe litru, una dintre cele mai mari din lume.",
+        "Muncitorii se dau cu unt de shea pentru a-și proteja pielea de acțiunea sării.",
+        "Anual se extrag mii de tone de sare destinată conservării peștelui și exportului.",
+        "Este situat la doar câteva sute de metri de Oceanul Atlantic, separat de dune.",
+        "Lacul este relativ puțin adânc, având o medie de 1,5 - 3 metri.",
+        "Ecosistemul său este monitorizat atent din cauza riscului de sedimentare excesivă."
+      ]
+    },
+    {
+      "id": "parc-niokolo-koba-nature-v2",
+      "descriptionAdvanced": "Parcul Național Niokolo-Koba este cea mai mare și mai importantă arie protejată din Senegal, situată în sud-estul țării, pe malurile râului Gambia. Înscris în Patrimoniul Mondial UNESCO, parcul se întinde pe aproape un milion de hectare de savană africană curată, păduri-galerie și zone umede. Niokolo-Koba reprezintă ultimul mare refugiu pentru fauna sălbatică din Africa de Vest, adăpostind specii emblematice precum leul african, leopardul, elefantul și antilopa derbiană (cea mai mare antilopă din lume). Parcul este, de asemenea, singurul loc din Senegal unde mai pot fi găsite grupuri de cimpanzei de vest în habitatul lor natural. Biodiversitatea sa este uluitoare, cu peste 300 de specii de păsări și o varietate imensă de reptile și insecte. Deși se confruntă cu provocări precum braconajul și schimbările climatice, parcul rămâne inima eforturilor de conservare ale țării și o destinație de vis pentru iubitorii de safari și natură sălbatică autentică.",
+      "factsAdvanced": [
+        "Cel mai mare parc național din Senegal, fondat oficial în 1954.",
+        "UNESCO l-a declarat sit de Patrimoniu Mondial în anul 1981.",
+        "Este traversat de râurile Gambia, Niokolo și Koulountou.",
+        "Găzduiește ultima populație de elefanți sălbatici din Senegal.",
+        "Muntele Assirik din interiorul parcului este cel mai înalt punct din zonă.",
+        "Flora include peste 1.500 de specii de plante tropicale și de savană.",
+        "Este un sit Ramsar de importanță internațională pentru zonele umede.",
+        "Accesul turiștilor este limitat în timpul sezonului ploios din cauza drumurilor inundate."
+      ]
+    },
+    {
+      "id": "delta-du-saloum-nature-v2",
+      "descriptionAdvanced": "Delta Sine-Saloum este unul dintre cele mai frumoase și complexe ecosisteme din Senegal, situat la sud de „Bazinul de Arahide”. Această deltă fluvială-maritimă, formată de râurile Sine și Saloum, este compusă dintr-un labirint infinit de canale (bolonguri), lagune, bancuri de nisip și peste 200 de insule acoperite de păduri dense de mangrove. UNESCO a recunoscut delta ca Rezervație a Biosferei, subliniind armonia dintre natură și activitățile umane tradiționale ale popoarelor Serer și Niominka. Delta este un paradis pentru ornitologi, fiind locul de reproducere pentru mii de păsări acvatice, inclusiv pelicani și flamingo. Un element unic al peisajului sunt „grămăzile de scoici” create de mână omului de-a lungul a sute de ani, care acum sunt acoperite de baobabi uriași. Delta Saloum oferă o experiență de călătorie atemporală, unde piroga este singurul mijloc de transport și unde ritmul vieții este dictat de maree și de foșnetul frunzelor de mangrove.",
+      "factsAdvanced": [
+        "Înscrisă în Patrimoniul Mondial UNESCO pentru peisajul său cultural și natural.",
+        "Acoperă o suprafață totală de aproximativ 180.000 de hectare.",
+        "Mangrovele de aici joacă un rol crucial în captarea dioxidului de carbon.",
+        "Adăpostește sute de movile artificiale de scoici (amas coquilliers) preistorice.",
+        "Este unul dintre cele mai importante locuri de pescuit artizanal din țară.",
+        "Ecosistemul este un sit Ramsar esențial pentru conservarea păsărilor de apă.",
+        "Pirogile sunt esențiale pentru navigația prin rețeaua densă de canale.",
+        "Regiunea este celebră pentru „mierea de mangrove” produsă local."
+      ]
+    },
+    {
+      "id": "ile-de-goree-nature-v2",
+      "descriptionAdvanced": "Insula Gorée, deși celebră în principal pentru istoria sa tragică legată de sclavie, posedă un cadru natural și geologic fascinant. Această mică insulă vulcanică, situată la 3 kilometri de coasta Dakarului, este formată dintr-un platou de bazalt negru care se ridică brusc din apele turcoaz ale Oceanului Atlantic. Absența mașinilor și a zgomotului urban a permis florei tropicale, precum bougainvillea și palmierii, să se dezvolte exuberant printre clădirile coloniale colorate. Coasta insulei este stâncoasă și abruptă pe latura de sud, oferind un habitat protejat pentru diverse specii de păsări marine și pești de recif. Plaja mică din dreptul portului este una dintre puținele zone cu nisip fin, fiind un loc de relaxare popular. Natura pe Gorée este strâns împletită cu moștenirea construită, creând o atmosferă de sanctuar pașnic unde oceanul pare să protejeze memoria locului. Grădinile interioare ale caselor istorice ascund specii de plante aduse din toate colțurile fostului imperiu colonial, transformând insula într-o mică grădină botanică plutitoare.",
+      "factsAdvanced": [
+        "Insulă de origine vulcanică formată în principal din roci bazaltice.",
+        "Suprafața totală este de doar 28 de hectare, ușor de parcurs la pas.",
+        "Are un microclimat marin mai blând decât cel al capitalei Dakar.",
+        "Este o zonă complet pietonală, fără poluare cauzată de vehicule.",
+        "Apele din jurul insulei sunt bogate în biodiversitate marină, ideale pentru scufundări.",
+        "Stâncile de la Castel oferă o panoramă panoramică spre Dakar și ocean.",
+        "Insula este un punct de popas pentru păsările care traversează golful Dakar.",
+        "Include grădini istorice cu specii rare de flori tropicale."
+      ]
+    },
+    {
+      "id": "fleuve-casamance-nature-v2",
+      "descriptionAdvanced": "Râul Casamance este artera vitală a sudului Senegalului, dând numele întregii regiuni și modelând peisajul său unic de „pădure tropicală și apă”. Acest râu de câmpie se caracterizează printr-o pantă extrem de mică, ceea ce permite apei sărate a oceanului să pătrundă până la 200 de kilometri în interiorul continentului, creând un estuar vast dominat de mangrove. Malurile râului sunt înțesate de „bolonguri” – canale întortocheate care pătrund adânc în pădurile de palmieri și orezării. Casamance este esențial pentru transportul regional, legând orașul Ziguinchor de satele izolate și de mare. Ecosistemul său bogat susține o diversitate uluitoare de pești, crustacee și păsări exotice, fiind inima economiei de pescuit artizanal din sud. Pentru locuitorii Diola, râul este o prezență sacră, iar viața lor cotidiană este strâns legată de ritmul mareelor și de resursele oferite de acest curs de apă maiestuos și liniștit.",
+      "factsAdvanced": [
+        "Râul are o lungime totală de aproximativ 300 de kilometri.",
+        "Estuarul său este unul dintre cele mai mari și mai bine conservate din Africa.",
+        "Pătrunderea apei sărate permite dezvoltarea unor păduri de mangrove gigantice.",
+        "Este navigabil de către nave maritime până la portul Ziguinchor.",
+        "Malurile sale găzduiesc specii rare de delfini de estuar și crocodili.",
+        "Susține cultura tradițională a orezului prin controlul fluxului de apă.",
+        "Pirogile tradiționale din Casamance sunt vitale pentru comerțul local.",
+        "Ecosistemul râului este amenințat de salinizarea excesivă a terenurilor agricole."
+      ]
+    },
+    {
+      "id": "djoudj-sanctuarium-nature-v2",
+      "descriptionAdvanced": "Sanctuarul Național de Păsări Djoudj este cea de-a treia rezervație ornitologică din lume ca importanță, situată în delta fluviului Senegal. Acest paradis al păsărilor, inclus în Patrimoniul Mondial UNESCO, ocupă o suprafață de 16.000 de hectare și este compus dintr-o rețea complexă de lacuri, mlaștini și canale cu apă dulce. Djoudj reprezintă prima etapă vitală de odihnă și hrană pentru milioane de păsări migratoare după traversarea periculoasă a deșertului Sahara. Spectacolul cel mai impresionant este oferit de coloniile imense de pelicani albi și flamingo roz, care se adună aici în număr de zeci de mii. Vizitatorii pot explora sanctuarul cu piroga, alunecând silențios printre trestii pentru a observa stârci, lopătari și diverse specii de rațe sălbatice. Pe lângă păsări, rezervația adăpostește și mamifere precum facocherii și gazelele, fiind un exemplu strălucit de conservare a zonelor umede în marginea aridă a Sahelului.",
+      "factsAdvanced": [
+        "Găzduiește peste 3 milioane de păsări migratoare în fiecare an.",
+        "Este locul principal de cuibărit pentru pelicanul alb în Africa de Vest.",
+        "Înscris pe lista Patrimoniului Mondial UNESCO încă din anul 1981.",
+        "Apa dulce este menținută prin barajul Diama, prevenind invazia sării.",
+        "Situl este clasificat ca zonă umedă de importanță internațională (Ramsar).",
+        "Peste 350 de specii de păsări au fost inventariate în interiorul parcului.",
+        "Cel mai bun moment pentru vizită este între lunile noiembrie și aprilie.",
+        "Sanctuarul joacă un rol critic în monitorizarea gripei aviare la nivel global."
+      ]
+    },
+    {
+      "id": "fleuve-gambia-senegal-nature-v2",
+      "descriptionAdvanced": "Fluviul Gambia este unul dintre cele mai importante cursuri de apă din Africa de Vest, având o porțiune semnificativă care traversează sud-estul Senegalului înainte de a intra în țara vecină, Gambia. Izvorând din Podișul Fouta Djallon, fluviul pătrunde în Senegal în regiunea Kédougou, unde are un caracter muntos, cu zúgók și peisaje spectaculoase de savană împădurită. În această secțiune, râul traversează Parcul Național Niokolo-Koba, fiind coloana vertebrală a biodiversității parcului. Apele sale sunt adăpostul unor populații importante de hipopotami și crocodili, în timp ce malurile sale sunt umbrite de păduri-galerie luxuriante. Fluviul Gambia joacă un rol crucial în viața comunităților locale, oferind resurse de pescuit și apă pentru agricultură în zonele rurale. De-a lungul istoriei, fluviul a fost o cale majoră de pătrundere spre interiorul continentului, iar frumusețea sa sălbatică rămâne neschimbată, oferind una dintre cele mai autentice experiențe de natură din Senegal.",
+      "factsAdvanced": [
+        "Fluviul are o lungime totală de 1.120 km, din care o parte importantă în Senegal.",
+        "Secțiunea senegaleză este renumită pentru cascade și terenuri accidentate.",
+        "Este principala sursă de apă pentru fauna din Parcul Niokolo-Koba.",
+        "Adăpostește una dintre cele mai mari populații de hipopotami din regiune.",
+        "Râul este esențial pentru satele etniilor Bassari și Bedik din sud-est.",
+        "Formează văi adânci și fertile, ideale pentru culturile de subzistență.",
+        "Este navigabil pentru pirogi pe distanțe mari în regiunea Tambacounda.",
+        "Reprezintă un coridor ecologic vital între munții Guineei și Atlantic."
+      ]
+    },
+    {
+      "id": "lac-de-guier-nature-v2",
+      "descriptionAdvanced": "Lacul de Guiers este cel mai mare rezervor de apă dulce din Senegal, situat în nordul țării, și reprezintă sursa vitală de aprovizionare cu apă potabilă pentru capitala Dakar și multe alte orașe. Alimentat de fluviul Senegal prin canalul Taouey, lacul se întinde pe o lungime de peste 35 de kilometri, dar adâncimea sa este redusă. Malurile lacului sunt extrem de fertile, susținând mari exploatări agricole de trestie de zahăr și culturi de legume în sistem irigat. Din punct de vedere ecologic, Lacul de Guiers este o arie protejată parțial, fiind un refugiu pentru numeroase specii de păsări acvatice și pești de apă dulce. Importanța sa strategică este critică pentru securitatea hidrică a Senegalului, iar gestionarea calității apei sale este o prioritate națională. Peisajul lacului este unul de liniște absolută, cu ape ce oglindesc cerul Sahelului și sate tradiționale de pescari ce își desfășoară activitatea zilnică pe malurile sale ierboase.",
+      "factsAdvanced": [
+        "Unica rezervă majoră de apă dulce a țării în zona aridă de nord.",
+        "Furnizează peste 60% din necesarul de apă potabilă al orașului Dakar.",
+        "Lungimea lacului variază între 35 și 50 km în funcție de sezon.",
+        "Este conectat la fluviul Senegal printr-un sistem de ecluze și canale.",
+        "Susține industria zahărului din Richard Toll prin irigații masive.",
+        "Găzduiește colonii importante de păsări migratoare palearctice.",
+        "Ecosistemul este fragil din cauza riscului de poluare cu îngrășăminte.",
+        "Se află în inima regiunii istorice a regatului Waalo."
+      ]
+    },
+    {
+      "id": "pointe-des-almadies-nature-v2",
+      "descriptionAdvanced": "Pointe des Almadies este punctul geografic cel mai vestic al întregului continent african, situat la extremitatea peninsulei Cap-Vert din Dakar. Acest loc simbolic este marcat de o coastă stâncoasă formată din roci vulcanice negre care se prăbușesc direct în Oceanul Atlantic, unde curenții puternici se întâlnesc într-un spectacol de spumă și valuri. Almadies nu este doar un reper geografic, ci și o zonă de o frumusețe naturală aspră, unde cerul se unește cu oceanul într-un orizont nesfârșit. Zona este renumită pentru biodiversitatea sa marină, apele din jurul punctului fiind printre cele mai bogate în pește din Senegal, atrăgând pescari artizanali și pasionați de scufundări. Recifele de corali din apropiere și insulițele stâncoase oferă refugiu pentru numeroase specii de păsări marine. Pentru vizitatori, Pointe des Almadies oferă restaurante de pește cu vederi panoramice incredibile, fiind locul ideal pentru a urmări apusul soarelui în cel mai îndepărtat punct vestic al Africii.",
+      "factsAdvanced": [
+        "Localizat la coordonatele 17° 31' longitudine vestică.",
+        "Este marcat de o stelă simbolică ce atestă statutul de punct extrem al Africii.",
+        "Coasta este formată din bazalt vulcanic rezultat din vechi erupții.",
+        "Este una dintre cele mai bune locații de surfing din Africa de Vest.",
+        "Apele reci și adânci din apropiere sunt bogate în fructe de mare (homari).",
+        "Oferă o vedere directă spre insula Ngor și farul Mamelles.",
+        "Zona găzduiește sedii ale multor organizații internaționale și ambasade.",
+        "Curenții maritimi de aici sunt printre cei mai periculoși pentru navigație."
+      ]
+    },
+    {
+      "id": "massif-de-casamance-nature-v2",
+      "descriptionAdvanced": "Masivul Casamance, situat în sudul Senegalului, reprezintă o zonă de relief lankás și împădurit care se distinge de câmpiile monotone din restul țării. Această regiune este inima verde a Senegalului, caracterizată prin soluri fertile și o vegetație tropicală exuberantă, susținută de precipitații abundente. Relieful este compus din platouri de laterit erodate și văi adânci unde cresc păduri-galerie dense, dominate de arbori de kapok (fromagers) gigantici și palmieri de ulei. Masivul este crucial pentru echilibrul hidrologic al sudului, fiind locul unde se formează numeroasele mici brațe ale râului Casamance. Din punct de vedere cultural, relieful accidentat a oferit protecție comunităților Diola, permițându-le să își păstreze tradițiile și sistemele de irigații ingenioase. Peisajul este un mozaic de orezării verzi, păduri sacre și sate tradiționale cu arhitectură unică, oferind o perspectivă spectaculoasă asupra bogăției naturale a Africii tropicale.",
+      "factsAdvanced": [
+        "Regiunea cu cele mai ridicate precipitații anuale din Senegal.",
+        "Dominată de arbori gigantici „fromagers”, unii vechi de sute de ani.",
+        "Constituie „plămânul verde” al țării și principalul rezervor de biodiversitate.",
+        "Lateritul oferă culori roșiatice solului, contrastând cu verdele vegetației.",
+        "Adăpostește numeroase păduri sacre protejate de comunitățile locale.",
+        "Este un habitat important pentru specii de maimuțe și păsări de pădure.",
+        "Relieful permite agricultura pe mai multe niveluri (orez, mango, pui).",
+        "Oferă cele mai pitorești trasee de drumeție din sudul Senegalului."
+      ]
+    },
+    {
+      "id": "iles-de-la-madeleine-nature-v2",
+      "descriptionAdvanced": "Insulele Madeleine, situate la câțiva kilometri de coasta Dakarului, formează cel mai mic parc național marin din lume, dar și unul dintre cele mai fascinante. Arhipelagul este compus din două insule stâncoase principale, cea mai mare fiind Insula Șarpelui (Île aux Serpents), deși numele este înșelător, deoarece pe insulă nu trăiesc șerpi veninoși. Aceste insule vulcanice sunt formate din coloane de bazalt spectaculoase și găzduiesc o colonie unică de păsări marine, în special faimosul tropic cu cioc roșu (Phaethon aethereus), care cuibărește doar aici în întreaga regiune. Insula este acoperită de o vegetație pitică de baobabi modelați de vânturile puternice ale oceanului, având forme contorsionate și suprarealiste. Vizitarea insulelor se face cu piroga din golful Soumbédioune și oferă o incursiune într-o natură sălbatică și intactă, unde cerul este plin de păsări și apele sunt de o claritate cristalină, ideale pentru înot și snorkeling în micile golfuri protejate.",
+      "factsAdvanced": [
+        "Parc Național înființat în 1976 pentru protejarea ecosistemului insular.",
+        "Insula Șarpelui are o formă de semilună, oferind un golf interior liniștit.",
+        "Singurul loc de cuibărit din Africa de Vest pentru specia Phaethon aethereus.",
+        "Baobabii de pe insulă sunt pitici din cauza condițiilor de vânt extrem.",
+        "Apele din jurul insulelor sunt strict protejate împotriva pescuitului comercial.",
+        "Geologia insulelor prezintă formațiuni bazaltice similare cu „Giant's Causeway”.",
+        "Accesul turiștilor este limitat ca număr zilnic pentru a preveni degradarea.",
+        "Situl este încărcat de legende locale ale comunității Lebou."
+      ]
+    },
+    {
+      "id": "foret-de-mbao-nature-v2",
+      "descriptionAdvanced": "Pădurea Mbao este un spațiu natural protejat situat la est de Dakar, având o funcție ecologică vitală în reglarea calității aerului și a microclimatului pentru zona metropolitană extinsă. Ca barieră naturală împotriva avansului urban, pădurea păstrează o porțiune din flora originală a peninsulei Cap-Vert, oferind un habitat protejat pentru flora sălbatică și specii de faună mică. Din punct de vedere al naturii, mlaștinile sezoniere și depresiunile de pe teritoriul pădurii sunt esențiale pentru reținerea apelor pluviale și prevenirea inundațiilor în localitățile vecine. Mbao reprezintă un efort de succes în conservarea forestieră periurbană, fiind un loc de cercetare pentru silvicultori și botaniști. Peisajul său liniștit, marcat de rânduri de arbori bătrâni și poteci nisipoase, oferă o evadare necesară din agitația capitalei, subliniind importanța conservării biodiversității chiar și la marginea marilor orașe africane.",
+      "factsAdvanced": [
+        "Este considerată „plămânul verde” al regiunii Dakar (Banlieue).",
+        "Pădurea servește ca barieră împotriva vânturilor încărcate cu sare ale Atlanticului.",
+        "Adăpostește specii de palmieri indigeni și arbori de Neem.",
+        "Joacă un rol crucial în limitarea fenomenului de insulă de căldură urbană.",
+        "Situl este traversat de căi de comunicare strategice, dar rămâne protejat.",
+        "Este un punct de observație pentru speciile de păsări rezidente din Niayes.",
+        "Centrul silvic local organizează campanii anuale de plantare a arborilor.",
+        "Vegetația de aici ajută la stabilizarea dunelor de nisip interioare."
+      ]
+    },
+    {
+      "id": "fleuve-faleme-nature-v2",
+      "descriptionAdvanced": "Râul Falémé este cel mai important afluent al fluviului Senegal, marcând frontiera naturală dintre Senegal și Mali în estul îndepărtat al țării. Izvorând din Podișul Fouta Djallon din Guineea, Falémé curge prin peisaje sălbatice și accidentate, cu maluri stâncoase și văi adânci. Acest râu este vital pentru viața rurală din estul Senegalului, oferind apă pentru mii de animale și susținând mici culturi agricole de-a lungul albiei sale. Falémé este cunoscut la nivel mondial pentru zăcămintele sale bogate de aur alluvial, fiind un centru istoric al exploatării miniere artizanale. Din punct de vedere ecologic, râul păstrează o biodiversitate nealterată, cu specii de pești de apă dulce unice și păduri-galerie care adăpostesc faună rară. Frumusețea sa crudă, departe de marile rute turistice, face din Falémé unul dintre ultimele frontiere naturale ale Senegalului, unde natura și tradiția se întrepătrund într-un mod fascinant.",
+      "factsAdvanced": [
+        "Cel mai mare afluent de pe malul stâng al fluviului Senegal.",
+        "Lungimea sa este de aproximativ 414 kilometri.",
+        "Constituie granița naturală cu Mali pe aproape întreg cursul său.",
+        "Faimos pentru „aurul de Falémé”, exploatat de peste un mileniu.",
+        "Valea râului este bogată în depozite de fier și fosfați.",
+        "Apele sale sunt de o importanță capitală în timpul sezonului secetos.",
+        "Include cascade și zúgók pitorești în zona de munte din sud.",
+        "Râul este inima culturii Soninke și Malinke din regiune."
+      ]
+    },
+    {
+      "id": "parc-langue-de-barbarie-nature-v2",
+      "descriptionAdvanced": "Parcul Național Langue de Barbarie este o fâșie de pământ nisipoasă situată între fluviul Senegal și Oceanul Atlantic, în sudul orașului Saint-Louis. Acest sit natural fragil și spectaculos este esențial pentru protejarea coastei de eroziune și pentru conservarea păsărilor marine. Parcul este compus din dune, plaje cu nisip alb și zone intertidale unde apele dulci ale fluviului se întâlnesc cu cele sărate ale oceanului. Langue de Barbarie este un loc major de cuibărit pentru numeroase specii, inclusiv pescăruși, chire și pelicani, oferind un spectacol natural deosebit în timpul sezonului de reproducere. Din păcate, parcul este grav amenințat de schimbările climatice și de eroziunea accelerată a peninsulei, ceea ce a dus la modificări dramatice ale geografiei locale în ultimii ani. Vizitarea parcului cu piroga oferă vederi panoramice unice, unde poți vedea simultan calmul fluviului și forța dezlănțuită a Atlanticului.",
+      "factsAdvanced": [
+        "Ocupă o peninsulă nisipoasă lungă de aproximativ 15 kilometri.",
+        "Este un sit Ramsar protejat internațional pentru zonele umede.",
+        "Adăpostește colonii masive de chire (Sternidae) în timpul verii.",
+        "Peninsula s-a rupt în 2003 după o breșă artificială, devenind parțial insulă.",
+        "Este un habitat crucial pentru broasca țestoasă marină verde.",
+        "Vegetația este adaptată solurilor nisipoase și sărate (halofite).",
+        "Oferă condiții ideale pentru turismul de tip „birdwatching”.",
+        "Este un simbol al vulnerabilității coastelor africane la creșterea nivelului mării."
+      ]
+    },
+    {
+      "id": "massif-du-fouta-djallon-nature-v2",
+      "descriptionAdvanced": "Preluările Masivului Fouta Djallon în Senegal, situate în regiunea sud-estică Kédougou, oferă singurul peisaj cu adevărat montan al țării. Această zonă este caracterizată prin platouri înalte de gresie, faleze abrupte și văi verzi sculptate de cursuri de apă rapide. Fiind extremitatea nordică a marelui masiv din Guineea, acest relief determină microclimatul regiunii, atrăgând cele mai abundente ploi din Senegal. Natura aici este de o frumusețe sălbatică, cu numeroase cascade impunătoare, precum Dindefelo, care se prăbușesc de la înălțimi mari în bazine naturale cristaline. Versanții sunt acoperiți de păduri dense care adăpostesc specii rare, inclusiv cimpanzei și păsări de munte. Fouta Djallon este considerat „castelul de apă” al Africii de Vest, deoarece aici izvorăsc marile fluvii ale regiunii. Relieful accidentat a permis izolarea și conservarea tradițiilor unice ale etniilor Bassari și Bedik, transformând zona într-un sit de o valoare naturală și culturală inestimabilă.",
+      "factsAdvanced": [
+        "Singura regiune din Senegal cu altitudini ce depășesc 400 de metri.",
+        "Găzduiește cascada Dindefelo, cea mai înaltă din țară (115 m).",
+        "Zona este recunoscută ca sit UNESCO pentru peisajul cultural Bassari.",
+        "Sursa principală pentru râurile Gambia, Senegal și Niger.",
+        "Relieful este compus din roci pre-cambriene foarte vechi.",
+        "Vegetația include specii montane care nu se găsesc în restul Senegalului.",
+        "Unul dintre ultimele refugii pentru cimpanzeii de vest din Sahel.",
+        "Oferă cele mai bune condiții pentru trekking și explorare speologică."
+      ]
+    },
+    {
+      "id": "delta-du-sine-saloum-nature-v2",
+      "descriptionAdvanced": "Delta Sine-Saloum este unul dintre cele mai uimitoare ecosisteme estuare din Africa de Vest, unde apele râurilor Sine și Saloum se întâlnesc cu Oceanul Atlantic într-un labirint de canale și insule. Acest vast complex natural este dominat de păduri de mangrove care acționează ca un filtru biologic și o barieră protectoare pentru coastă. Biodiversitatea deltei este legendară, servind drept loc de hrănire și reproducere pentru sute de specii de pești și mii de păsări acvatice. Delta este, de asemenea, un peisaj cultural modelat de oameni de-a lungul a peste două milenii, fiind punctată de movile de scoici fosilizate care acum susțin vegetație forestieră. Rezervația Biosferei Sine-Saloum este un exemplu de echilibru fragil, unde comunitățile locale de pescari trăiesc în simbioză cu resursele regenerabile ale apei. Explorarea cu piroga printre canalele umbrite de mangrove oferă o liniște profundă și o perspectivă unică asupra bogăției biologice a Senegalului.",
+      "factsAdvanced": [
+        "Acoperă peste 180.000 de hectare de ecosisteme terestre și marine.",
+        "Este o rezervație a biosferei recunoscută de UNESCO din 1981.",
+        "Mangrovele de aici sunt esențiale pentru reproducerea lăcustelor de mare.",
+        "Movilele de scoici indică o prezență umană continuă de peste 2000 de ani.",
+        "Este unul dintre cele mai bogate locuri pentru observarea flamingo-ului roz.",
+        "Apele estuarului sunt renumite pentru diversitatea speciilor de stridii.",
+        "Situl protejează coasta împotriva inundațiilor și furtunilor oceanice.",
+        "Turismul responsabil este motorul economic principal pentru satele din deltă."
+      ]
+    }
+  ]
+}

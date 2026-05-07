@@ -1,0 +1,310 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bekily-cities-v2",
+      "descriptionAdvanced": "Bekily ist eine Stadt in der trockenen Region Androy im Süden Madagaskars. Die Gegend ist durch unregelmäßige Regenfälle geprägt und anfällig für Dürren. Landwirtschaftlich ist die Umgebung für den Anbau von Baumwolle, Erdnüssen und Cassava bekannt, auch wenn die Erträge stark schwanken. Wie in vielen Teilen des Südens spielt die Haltung von Zebu-Rindern eine zentrale wirtschaftliche und kulturelle Rolle für die lokale Antandroy-Bevölkerung. Die Infrastruktur um Bekily ist schwach entwickelt, was den Handel erschwert. Geografie K5 — Trockenfeldbau und Infrastruktur.",
+      "factsAdvanced": [
+        "Gelegen in der extrem trockenen Region Androy im Süden",
+        "Wirtschaft basiert auf Zebu-Zucht und kargem Ackerbau",
+        "Traditionelles Anbaugebiet für Erdnüsse und Baumwolle",
+        "Regelmäßig von schweren Dürren und Wasserknappheit betroffen",
+        "Bevölkerung gehört mehrheitlich zur ethnischen Gruppe der Antandroy",
+        "Leidet unter starker Isolation durch schlechte Straßen (RN13)"
+      ]
+    },
+    {
+      "id": "kandreho-cities-v2",
+      "descriptionAdvanced": "Kandreho ist eine der isoliertesten Kleinstädte Madagaskars, tief in der Region Betsiboka im zentralen Westen gelegen. Die Region ist geologisch komplex und von ausgedehnten Savannen sowie unwegsamen Hügelketten geprägt. Der Ort ist auf dem Landweg extrem schwer erreichbar, besonders während der Regenzeit. Die lokale Wirtschaft stützt sich auf Subsistenzwirtschaft, primär den Anbau von Reis und Maniok, sowie auf ausgedehnte Rinderweidewirtschaft. Die Abgeschiedenheit schützt zwar die lokale Kultur, behindert jedoch die wirtschaftliche Entwicklung massiv. Geografie K5 — Isolation und Subsistenzwirtschaft.",
+      "factsAdvanced": [
+        "Gilt als einer der abgelegensten Distrikte Madagaskars",
+        "Gelegen in der dünn besiedelten Region Betsiboka",
+        "Auf dem Landweg während der Regenzeit fast unerreichbar",
+        "Wirtschaft stützt sich auf Subsistenzlandwirtschaft und Zebu-Zucht",
+        "Landschaft dominiert von weiten Savannen und Hügeln",
+        "Fehlende Infrastruktur hemmt die lokale Entwicklung stark"
+      ]
+    },
+    {
+      "id": "antsalova-cities-v2",
+      "descriptionAdvanced": "Antsalova ist eine isolierte Ortschaft in der Region Melaky im Westen Madagaskars. Die Stadt ist vor allem als südlicher Zugangspunkt zu den weltberühmten Tsingy de Bemaraha bekannt, einem UNESCO-Weltnaturerbe aus messerscharfen Kalksteinformationen. Umgeben von trockenen Laubwäldern und Savannen, lebt die lokale Sakalava-Bevölkerung hauptsächlich von der Zebu-Rinderzucht. Die unzugängliche Natur der Region macht Antsalova zu einem faszinierenden, wenn auch infrastrukturell sehr schwachen Außenposten an der Westküste. Geografie K6 — Karstlandschaften und Naturschutz.",
+      "factsAdvanced": [
+        "Südlicher Zugang zum UNESCO-Weltnaturerbe Tsingy de Bemaraha",
+        "Gelegen in der Region Melaky im Westen Madagaskars",
+        "Umgebung ist durch Savannen und Trockenwälder geprägt",
+        "Einwohner sind hauptsächlich Sakalava-Rinderzüchter",
+        "Infrastruktur und Straßen sind extrem schlecht ausgebaut",
+        "Tourismuspotenzial ist hoch, aber schwer zu erschließen"
+      ]
+    },
+    {
+      "id": "befandriana-avaratra-cities-v2",
+      "descriptionAdvanced": "Befandriana-Avaratra (Befandriana Nord) ist eine geschäftige Stadt in der Region Sofia im Norden Madagaskars. Die Region ist landwirtschaftlich sehr produktiv, da das Klima warm ist und ausreichend Niederschlag für den Anbau von Reis, Tabak und Kaffee bietet. Die Stadt fungiert als wichtiges Handelszentrum für die umliegenden ländlichen Gebiete. Trotz ihres agrarischen Reichtums kämpft die Region mit infrastrukturellen Problemen und gelegentlichen Sicherheitsbedenken durch Viehdiebstahl. Wirtschaft K6 — Agrarhandel und Sicherheit.",
+      "factsAdvanced": [
+        "Wichtiges landwirtschaftliches Zentrum in der Region Sofia",
+        "Bedeutender Produzent von Reis, Tabak und Kaffee",
+        "Liegt auf einer strategischen Kreuzung lokaler Handelswege",
+        "Klima begünstigt eine sehr produktive Landwirtschaft",
+        "Region ist gelegentlich von Rinderdiebstahl (Dahalo) betroffen",
+        "Verfügt über ein eigenes kleines lokales Flugfeld"
+      ]
+    },
+    {
+      "id": "tsihombe-cities-v2",
+      "descriptionAdvanced": "Tsihombe liegt im tiefen Süden Madagaskars an der Küste der Region Androy, an der Mündung des Manambovo-Flusses. Es ist eine der trockensten, kargsten und ärmsten Regionen des Landes, in der die Landwirtschaft extremen Bedingungen ausgesetzt ist. Die lokale Antandroy-Bevölkerung überlebt durch den Anbau hitzeresistenter Pflanzen wie Maniok und Süßkartoffeln sowie durch die Fischerei am Indischen Ozean. Historisch und kulturell ist Tsihombe ein Zentrum für komplexe Beerdigungsrituale und imposante Steingräber. Anthropologie K7 — Wüstenleben und Totenkult.",
+      "factsAdvanced": [
+        "Gelegen an der extrem trockenen Küste der Androy-Region",
+        "Liegt nahe der Mündung des Trockenflusses Manambovo",
+        "Eine der am stärksten von der Kere (Hungersnot) betroffenen Zonen",
+        "Zentrum der Antandroy-Kultur mit einzigartigen Steingräbern",
+        "Fischerei an der Küste ergänzt die karge Landwirtschaft",
+        "Pflanzenwelt wird von endemischen Dornenbüschen dominiert"
+      ]
+    },
+    {
+      "id": "mananjary-cities-v2",
+      "descriptionAdvanced": "Mananjary ist eine bedeutende Küstenstadt in der Region Vatovavy an der südöstlichen Küste Madagaskars. Die Stadt ist durch den Canal des Pangalanes mit Toamasina im Norden verbunden. Das feuchte, tropische Klima macht Mananjary zu einem idealen Ort für den Anbau von Gewürzen, insbesondere Pfeffer, Nelken, Vanille und Kaffee. Die Stadt war während der französischen Kolonialzeit ein wohlhabendes Plantagenzentrum, wovon heute noch einige historische Gebäude zeugen. Alle sieben Jahre findet hier ein großes Beschneidungsritual der Antambahoaka statt. Wirtschaft K7 — Gewürzplantagen und Kanäle.",
+      "factsAdvanced": [
+        "Wichtige Station am historischen Canal des Pangalanes",
+        "Zentrum des Anbaus von Gewürznelken, Pfeffer und Kaffee",
+        "Kulturelles Herz der Antambahoaka-Volksgruppe",
+        "Ort des bedeutenden rituellen Sambatra-Festes (alle 7 Jahre)",
+        "Oft verheerenden Zyklonen aus dem Indischen Ozean ausgesetzt",
+        "Einstiges reiches Zentrum der französischen Plantagenwirtschaft"
+      ]
+    },
+    {
+      "id": "port-bergé-cities-v2",
+      "descriptionAdvanced": "Port-Bergé, heute offiziell Boriziny genannt, ist eine Stadt in der Region Sofia im Nordwesten Madagaskars. Die Stadt ist ein wichtiger Knotenpunkt an der Nationalstraße 6 (RN6), die in den tiefen Norden nach Antsiranana führt. Die umliegende weite Ebene im Einzugsgebiet des Sofia-Flusses wird intensiv für den Anbau von Baumwolle, Tabak und Reis genutzt. Aufgrund ihrer Lage an der Hauptverkehrsachse hat sich die Stadt zu einem lebhaften Handelszentrum entwickelt. Geografie K5 — Verkehrswege und Flussebenen.",
+      "factsAdvanced": [
+        "Offizieller malagassischer Name der Stadt ist Boriziny",
+        "Wichtiger Transitort an der Hauptstraße RN6 in den Norden",
+        "Liegt im fruchtbaren Einzugsgebiet des Sofia-Flusses",
+        "Bedeutendes Zentrum für den Anbau von Baumwolle und Tabak",
+        "Dient als Handelszentrum für landwirtschaftliche Güter",
+        "Klima ist typisch für den warmen, feucht-trockenen Nordwesten"
+      ]
+    },
+    {
+      "id": "sakaraha-cities-v2",
+      "descriptionAdvanced": "Sakaraha liegt im trockenen Südwesten Madagaskars in der Region Atsimo-Andrefana. Die Stadt erlebte in den späten 1990er Jahren einen massiven Boom, als in den nahegelegenen Flüssen der Ilakaka-Region reiche Saphirvorkommen entdeckt wurden. Dies lockte Tausende von Schürfern und internationalen Edelsteinhändlern an. Neben dem Bergbau ist Sakaraha ein wichtiges Zentrum der Mahafaly- und Bara-Volksgruppen, die in den weiten Savannen große Zebu-Herden züchten. In der Nähe liegt der Zombitse-Vohibasia-Nationalpark. Wirtschaft K7 — Edelsteinrausch und Naturschutz.",
+      "factsAdvanced": [
+        "Gelegen in der Region Atsimo-Andrefana an der RN7",
+        "Erlebte ab 1998 einen massiven Boom durch Saphirfunde (Ilakaka)",
+        "Wichtiger Umschlagplatz im madagassischen Edelsteinhandel",
+        "Ausgangspunkt zum Zombitse-Vohibasia-Nationalpark",
+        "Traditionelles Siedlungsgebiet der Rinder züchtenden Bara und Mahafaly",
+        "Umgebung ist durch weite, offene Graslandschaften geprägt"
+      ]
+    },
+    {
+      "id": "ambatovy-mine-economic-v2",
+      "descriptionAdvanced": "Die Ambatovy-Mine in der Nähe von Moramanga (Region Alaotra-Mangoro) ist das größte Industrieprojekt in der Geschichte Madagaskars. Es handelt sich um eine riesige Nickel- und Kobaltmine, die zu den weltweit größten Laterit-Nickel-Vorkommen zählt. Das geförderte Erz wird als Schlamm durch eine fast 350 Kilometer lange Pipeline zur Aufbereitungsanlage am Hafen von Toamasina gepumpt. Das Projekt hat massive wirtschaftliche Bedeutung, ist jedoch wegen seiner Auswirkungen auf die extrem biodiversen Regenwälder der Region umstritten. Wirtschaft K8 — Großbergbau und Umweltkonflikte.",
+      "factsAdvanced": [
+        "Größte Industrieinvestition in der Geschichte Madagaskars",
+        "Gehört zu den weltgrößten Förderern von Nickel und Kobalt",
+        "Erz wird über eine 348 km lange Pipeline nach Toamasina gepumpt",
+        "Investitionsvolumen betrug über 8 Milliarden US-Dollar",
+        "Stark reguliert durch strenge Umweltauflagen wegen Biodiversität",
+        "Bedeutender Devisenbringer und Arbeitgeber des Landes"
+      ]
+    },
+    {
+      "id": "toamasina-port-economic-v2",
+      "descriptionAdvanced": "Der autonome Hafen von Toamasina an der Ostküste ist der bei Weitem wichtigste Seehafen Madagaskars. Über diesen Tiefwasserhafen werden etwa 80 Prozent des gesamten internationalen Seehandels des Landes abgewickelt, darunter Exporte von Kaffee, Vanille, Nelken und Nickel sowie der Großteil der Importgüter. Der Hafen wurde in den letzten Jahren mit internationaler (insbesondere japanischer) Hilfe massiv erweitert und modernisiert. Er ist das wirtschaftliche Rückgrat der Nation und durch die RN2 direkt mit der Hauptstadt verbunden. Wirtschaft K7 — Globale Logistik und Seehandel.",
+      "factsAdvanced": [
+        "Wickelt rund 80 % des madagassischen Seehandels ab",
+        "Der einzige echte internationale Tiefwasserhafen des Landes",
+        "Hauptausfuhrhafen für Vanille, Gewürze und Mineralien (Ambatovy)",
+        "Stark erweitert durch ein massives japanisches Investitionsprojekt",
+        "Direkt mit der Hauptstadt Antananarivo durch die RN2 verbunden",
+        "Der Hafenbetrieb ist der größte Arbeitgeber in Toamasina"
+      ]
+    },
+    {
+      "id": "ehola-port-economic-v2",
+      "descriptionAdvanced": "Port d'Ehoala ist ein hochmoderner Tiefwasserhafen im äußersten Südosten Madagaskars, nahe der Stadt Tôlanaro (Fort-Dauphin). Der Hafen wurde 2009 fertiggestellt und primär vom Bergbauunternehmen Rio Tinto QMM finanziert, um Ilmenit (Titandioxid) zu exportieren. Er verfügt über einen über 600 Meter langen Wellenbrecher. Der Bau dieses Hafens sollte nicht nur der Mine dienen, sondern auch die extrem isolierte südliche Region wirtschaftlich öffnen und den Anlauf von internationalen Kreuzfahrtschiffen ermöglichen. Wirtschaft K8 — Infrastruktur und Bergbau.",
+      "factsAdvanced": [
+        "Hochmoderner Tiefwasserhafen, fertiggestellt im Jahr 2009",
+        "Finanziert und betrieben primär durch das Bergbauunternehmen QMM",
+        "Hauptsächlich für den Export von Ilmenit (Titandioxid) genutzt",
+        "Verfügt über einen massiven, über 600 Meter langen Wellenbrecher",
+        "Soll die wirtschaftliche Isolation der Südregion aufbrechen",
+        "Erlaubt erstmals das Anlegen großer internationaler Kreuzfahrtschiffe"
+      ]
+    },
+    {
+      "id": "qmm-mine-economic-v2",
+      "descriptionAdvanced": "Die QMM-Mine (QIT Madagascar Minerals) nahe Tôlanaro im Südosten ist ein gewaltiges Bergbauprojekt zur Gewinnung von Ilmenit, das für die Produktion von weißem Pigment (Titandioxid) verwendet wird. Die Mine, die zu 80% Rio Tinto und zu 20% dem madagassischen Staat gehört, ist wirtschaftlich enorm wichtig, steht jedoch weltweit in der Kritik von Naturschützern. Der Abbau findet in sensiblen Küstenwäldern statt, was die Vertreibung seltener Arten zur Folge hat, auch wenn Renaturierungsprogramme laufen. Geografie K8 — Ressourcenabbau und Ökosysteme.",
+      "factsAdvanced": [
+        "Fördert hauptsächlich Ilmenit zur Herstellung von Titandioxid-Pigmenten",
+        "Ist ein Joint Venture zwischen Rio Tinto (80%) und Madagaskar (20%)",
+        "Führte zum Bau des neuen Tiefwasserhafens Port d'Ehoala",
+        "Abbau bedroht endemische Küstenwälder und Feuchtgebiete",
+        "Betreibt umstrittene, aber groß angelegte Renaturierungsprogramme",
+        "Eines der wichtigsten ausländischen Investitionsprojekte des Landes"
+      ]
+    },
+    {
+      "id": "mahajanga-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Mahajanga an der Nordwestküste ist der zweitwichtigste Hafen Madagaskars. Er liegt strategisch günstig am Kanal von Mosambik an der großen Mündung des Betsiboka-Flusses. Der Hafen ist entscheidend für den Export von Agrarprodukten aus dem weiten Hinterland, wie Baumwolle, Tabak, Zucker und Garnelen. Ein großes Problem des Hafens ist jedoch die massive Verschlammung durch den Betsiboka-Fluss, bedingt durch Bodenerosion im Hochland, was ständige Baggerarbeiten erfordert. Wirtschaft K6 — Häfen und Erosion.",
+      "factsAdvanced": [
+        "Zweitwichtigster Seehafen Madagaskars am Kanal von Mosambik",
+        "Hauptexportort für Agrargüter wie Baumwolle, Zucker und Shrimps",
+        "Liegt an der geschützten Bucht von Bombetoka",
+        "Leidet stark unter der Verschlammung durch den Betsiboka-Fluss",
+        "Wichtiger Knotenpunkt für den Handel mit den Komoren und Afrika",
+        "Infrastruktur ist stark auf landwirtschaftliche Schüttgüter ausgelegt"
+      ]
+    },
+    {
+      "id": "kraoma-mine-economic-v2",
+      "descriptionAdvanced": "Die Kraoma-Mine (Kraomita Malagasy) in Brieville, in der zentralen Region Alaotra-Mangoro, war jahrzehntelang das Herz der madagassischen Chromit-Produktion. Das Bergwerk lieferte hochwertiges Chromerz, das hauptsächlich für die globale Edelstahlindustrie exportiert wurde. Das geförderte Erz wurde über eine eigens gebaute Eisenbahnlinie nach Moramanga und weiter zum Hafen Toamasina transportiert. In den letzten Jahren erlebte das staatliche Unternehmen jedoch schwere finanzielle und strukturelle Krisen, was zu massiven Produktionsrückgängen führte. Wirtschaft K7 — Staatliche Betriebe und Rohstoffe.",
+      "factsAdvanced": [
+        "Historisch wichtigste Mine für Chromit auf Madagaskar",
+        "Gelegen in Brieville in der zentral-östlichen Region",
+        "Chromerz ist entscheidend für die internationale Edelstahlindustrie",
+        "Erztransport erfolgt über Schiene nach Moramanga und Toamasina",
+        "Kraoma ist ein staatliches Bergbauunternehmen",
+        "Erlebte in den 2010er Jahren schwere finanzielle Krisen und Streiks"
+      ]
+    },
+    {
+      "id": "antsiranana-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Antsiranana, im extremen Norden Madagaskars, verfügt aufgrund der massiven, natürlichen Diego-Suarez-Bucht über hervorragende geographische Voraussetzungen. Historisch war er ein bedeutender französischer Marinestützpunkt. Heute wird der Hafen zivil genutzt, insbesondere für den Export von Salz, Zucker (aus Ambilobe) und Kakao, sowie für die Fischereiindustrie (insbesondere Thunfisch). Die schlechte Anbindung an den Rest des Landes (RN6) verhindert jedoch, dass der Hafen sein volles wirtschaftliches Potenzial ausschöpfen kann. Geografie K7 — Natürliche Häfen und Isolation.",
+      "factsAdvanced": [
+        "Gelegen in der zweitgrößten natürlichen Bucht der Welt",
+        "War bis 1973 ein wichtiger Militär- und Marinehafen Frankreichs",
+        "Wichtiger Standort für die industrielle Thunfischverarbeitung (Pêchexport)",
+        "Exporthafen für regionalen Zucker, Kakao und Salz",
+        "Potenzial ist durch extrem schlechte Straßenanbindung eingeschränkt",
+        "Bedeutender Anlaufhafen für Kreuzfahrtschiffe im Indischen Ozean"
+      ]
+    },
+    {
+      "id": "star-brewery-tana-economic-v2",
+      "descriptionAdvanced": "Die Brasseries Star in Antananarivo (oft einfach Star Brewery genannt) ist das Zentrum des Getränkemarktes auf Madagaskar. Das Unternehmen wurde 1953 gegründet und ist vor allem für die Produktion des Nationalbieres «Three Horses Beer» (THB) bekannt, das auf der Insel allgegenwärtig ist. Neben Bier produziert die Anlage in Andraharo (Tana) auch Mineralwasser, Limonaden und internationale Lizenzen wie Coca-Cola. Als einer der größten Steuerzahler und Arbeitgeber hat das Unternehmen eine enorme wirtschaftliche Bedeutung. Wirtschaft K6 — Konsumgüter und Industrie.",
+      "factsAdvanced": [
+        "Produzent des berühmten Nationalbieres «Three Horses Beer» (THB)",
+        "Gegründet im Jahr 1953, Hauptwerk in Antananarivo",
+        "Einer der größten privaten Arbeitgeber und Steuerzahler Madagaskars",
+        "Produziert auch Softdrinks und hält die Coca-Cola-Lizenz",
+        "Marktanteil bei Bier und Erfrischungsgetränken ist fast monopolistisch",
+        "Unternehmen wurde von der französischen Castel-Gruppe übernommen"
+      ]
+    },
+    {
+      "id": "star-brewery-antsirabe-economic-v2",
+      "descriptionAdvanced": "Das Werk der Star Brewery in Antsirabe ist eine der ältesten und wichtigsten Brauereien Madagaskars. Der Standort in Antsirabe wurde wegen des Reichtums an hochwertigen, mineralreichen Wasserquellen gewählt, die für den Brauprozess ideal sind. Die Brauerei ist der Hauptproduzent des legendären «Three Horses Beer» (THB). Die Anlage ist ein wirtschaftlicher Motor für die Stadt Antsirabe und bezieht einen Großteil der Rohstoffe, wie Gerste und Mais, von lokalen madagassischen Bauern aus dem Hochland. Wirtschaft K5 — Lebensmittelindustrie und regionale Rohstoffe.",
+      "factsAdvanced": [
+        "Wichtiger Produktionsstandort für das «Three Horses Beer»",
+        "Standortwahl erfolgte wegen der exzellenten Wasserqualität in Antsirabe",
+        "Gegründet in den 1950er Jahren, tief verwurzelt in der Region",
+        "Bezieht Gerste und Mais von landwirtschaftlichen Kooperativen im Hochland",
+        "Sichert tausende Arbeitsplätze in der Region Vakinankaratra",
+        "Bierauslieferung von hier aus versorgt weite Teile der Insel"
+      ]
+    },
+    {
+      "id": "toliara-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Toliara ist der wichtigste Seehafen für den gesamten Südwesten Madagaskars. Obwohl er im Vergleich zu Toamasina klein ist, ist er für die isolierte Region überlebenswichtig. Der Hafen exportiert hauptsächlich landwirtschaftliche Produkte des Südens, darunter Sisal aus dem Mandrare-Tal, Baumwolle, Meersalz und zunehmend auch Mineralien und Sande. Da das Hinterland keine Eisenbahnverbindung hat, ist der Hafen stark von der Nationalstraße 7 (RN7) abhängig. Er kämpft oft mit infrastrukturellen Mängeln und unzureichender Wassertiefe. Wirtschaft K6 — Regionale Häfen und Export.",
+      "factsAdvanced": [
+        "Einziger bedeutender Hafen im weiten Südwesten Madagaskars",
+        "Hauptausfuhrort für Sisalfasern, Baumwolle und Salz",
+        "Dient zunehmend dem Export von Mineralien (Ilmenit-Sande)",
+        "Stark von der RN7 als einziger Transportader abhängig",
+        "Kämpft mit Einschränkungen durch begrenzte Wassertiefe",
+        "Wichtiger Umschlagplatz für den lokalen Küstenhandel per Boot"
+      ]
+    },
+    {
+      "id": "cotona-textile-economic-v2",
+      "descriptionAdvanced": "Die Cotona (La Cotonnière d'Antsirabe) ist eines der größten und traditionsreichsten Textilunternehmen Madagaskars. Die Fabrik in Antsirabe wurde in der Mitte des 20. Jahrhunderts gegründet und deckt die gesamte textile Wertschöpfungskette ab — vom Spinnen der lokalen Baumwolle über das Weben bis hin zum Färben und Drucken. Cotona spielt eine zentrale Rolle in der madagassischen Exportindustrie, besonders für den europäischen und US-amerikanischen Markt (unter dem AGOA-Abkommen). Die Textilindustrie ist hier einer der wichtigsten Arbeitgeber für Frauen. Wirtschaft K7 — Textilindustrie und Globalisierung.",
+      "factsAdvanced": [
+        "Eine der größten und ältesten Textilfabriken in Madagaskar",
+        "Standort ist Antsirabe im zentralen Hochland",
+        "Deckt die komplette Produktion von der Baumwolle bis zum Stoff ab",
+        "Wichtiger Profiteur des US-amerikanischen AGOA-Handelsabkommens",
+        "Gehört zur madagassischen Groupe Socota",
+        "Bietet tausende von Arbeitsplätzen, überwiegend für Frauen"
+      ]
+    },
+    {
+      "id": "ambilobe-sugar-economic-v2",
+      "descriptionAdvanced": "Die Zuckerfabrik in Ambilobe, bekannt als Sirama (Siramamy Malagasy), war jahrzehntelang das Herzstück der madagassischen Zuckerindustrie. Die Region Diana im Norden bietet mit ihrem warmen Klima und der Bewässerung durch den Mahavavy-Fluss ideale Bedingungen für riesige Zuckerrohrplantagen. Während das staatliche Unternehmen in der Vergangenheit florierte, litt es ab den 2000er Jahren unter Missmanagement und Verfall. Heute gibt es Bestrebungen, die Anlagen mit privaten Investoren zu revitalisieren, um Madagaskars Abhängigkeit von Zuckerimporten zu verringern. Wirtschaft K6 — Agrarindustrie und Privatisierung.",
+      "factsAdvanced": [
+        "Historisch wichtigstes Zentrum der madagassischen Zuckerproduktion",
+        "Umgibt von riesigen Zuckerrohrplantagen am Mahavavy-Fluss",
+        "Wurde lange vom staatlichen Unternehmen Sirama betrieben",
+        "Erlebte nach 2000 einen starken Verfall durch Missmanagement",
+        "Raffinerie wird aktuell durch private Joint Ventures rehabilitiert",
+        "Zuckerproduktion ist entscheidend für den lokalen Rum (z.B. Dzama)"
+      ]
+    },
+    {
+      "id": "holcim-cement-ibity-economic-v2",
+      "descriptionAdvanced": "Das Zementwerk Ibity in der Nähe von Antsirabe ist die größte Zementfabrik Madagaskars. Die Anlage, die heute vom internationalen Holcim-Lafarge-Konzern betrieben wird, liegt strategisch günstig an reichen Kalksteinvorkommen des Ibity-Massivs. Die Fabrik ist von immenser strategischer Bedeutung für das Land, da madagassischer Zement für den Ausbau der landesweiten Infrastruktur (Brücken, Straßen, Gebäude) dringend benötigt wird. Das Werk ist ein Beispiel für moderne industrielle Produktion im Herzen des Landes. Wirtschaft K6 — Baustoffe und Infrastruktur.",
+      "factsAdvanced": [
+        "Größte und wichtigste Zementfabrik auf Madagaskar",
+        "Gelegen am Ibity-Massiv nahe Antsirabe, reich an Kalkstein",
+        "Betrieben durch den multinationalen Baustoffkonzern Holcim (Lafarge)",
+        "Entscheidender Lieferant für nationale Infrastrukturprojekte",
+        "Verwendet lokal abgebaute Mineralien zur Produktion",
+        "Gehört zu den technologisch fortschrittlichsten Fabriken des Landes"
+      ]
+    },
+    {
+      "id": "galana-refinery-economic-v2",
+      "descriptionAdvanced": "Die Galana-Raffinerie in Toamasina ist Madagaskars einzige bedeutende Anlage zur Verarbeitung von Erdöl. Ursprünglich als SOLIMA in den 1960er Jahren gegründet, wurde sie im Zuge von Privatisierungen von der Galana-Gruppe übernommen. Obwohl die eigentliche Raffination von Rohöl in den 2000er Jahren aus Rentabilitätsgründen oft eingestellt wurde, fungiert die Anlage heute als das größte Tanklager und Logistikzentrum für importierte raffinierte Kraftstoffe auf der Insel. Von hier aus wird das ganze Land per Lkw und Bahn mit Benzin und Diesel versorgt. Wirtschaft K7 — Energiesicherheit und Ölimporte.",
+      "factsAdvanced": [
+        "Einzige große Erdölraffinerie-Infrastruktur auf Madagaskar",
+        "Standort ist die Hafenstadt Toamasina an der Ostküste",
+        "Fungiert heute primär als gigantisches Tank- und Logistiklager",
+        "Wurde um das Jahr 2000 privatisiert (Übernahme durch Galana)",
+        "Sichert die Treibstoffversorgung für die gesamte madagassische Wirtschaft",
+        "Wirtschaftlich hochrelevant, da Madagaskar auf Ölimporte angewiesen ist"
+      ]
+    },
+    {
+      "id": "morondava-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Morondava an der Westküste ist ein kleinerer, aber regional bedeutsamer Umschlagplatz am Kanal von Mosambik. Mangels tiefem Wasser können hier keine großen Hochseeschiffe anlegen; stattdessen werden Güter oft mit Leichtern (kleineren Booten) zu den Schiffen auf Reede transportiert. Der Hafen dient primär dem Export der landwirtschaftlichen Erzeugnisse der Menabe-Region, wie Zucker, Erdnüsse, Reis und zunehmend auch Fischerei- und Garnelenprodukte. Der Holzhandel aus den umliegenden Wäldern spielt ebenfalls eine Rolle. Wirtschaft K5 — Regionale Logistik und Kabotage.",
+      "factsAdvanced": [
+        "Regionaler Hafen für die Menabe-Region an der Westküste",
+        "Wassertiefe reicht für große Frachtschiffe nicht aus",
+        "Güterumschlag erfolgt traditionell über Leichterboote auf offener See",
+        "Hauptexportgüter sind Zucker, Reis und Krebstiere",
+        "Wichtig für die Küstenschifffahrt (Kabotage) zwischen madagassischen Städten",
+        "Infrastruktur ist stark veraltet und wartet auf Investitionen"
+      ]
+    },
+    {
+      "id": "dzamandzar-rum-economic-v2",
+      "descriptionAdvanced": "Die Zuckerfabrik und Destillerie in Dzamandzar auf der Insel Nosy Be ist historisch legendär, da sie der Geburtsort des berühmten «Dzama Rum» ist. Gegründet in den 1920er Jahren, nutzte die Fabrik das hervorragende Zuckerrohr von Nosy Be, das zusammen mit dem Aroma von Ylang-Ylang-Plantagen dem Rum seinen einzigartigen Geschmack verlieh. Obwohl die Zuckerfabrik selbst vor Jahren geschlossen wurde und langsam verfällt, lebt die Marke Dzama weiter und gehört heute zu den meistverkauften und international preisgekrönten Spirituosen Madagaskars. Geschichte K6 — Spirituosen und Kolonialerbe.",
+      "factsAdvanced": [
+        "Ursprünglicher Herstellungsort des berühmten madagassischen «Dzama Rum»",
+        "Standort ist die Insel Nosy Be vor der Nordwestküste",
+        "Destillerie verarbeitete lokal angebautes Zuckerrohr und Melasse",
+        "Historische Fabrikanlagen in Dzamandzar sind heute ein Industriedenkmal",
+        "Marke Dzama ist heute international mehrfach preisgekrönt",
+        "Rum-Aroma soll durch die umliegenden Ylang-Ylang-Felder geprägt sein"
+      ]
+    },
+    {
+      "id": "tolanaro-port-economic-v2",
+      "descriptionAdvanced": "Der historische Hafen von Tôlanaro (Fort-Dauphin) war über Jahrhunderte der maritime Zugang für die isolierte Südostspitze Madagaskars. Bevor der moderne Tiefwasserhafen Ehoala gebaut wurde, schlug dieser alte, kleine Hafen alle Güter der Region um. Wegen der stürmischen See und der fehlenden Tiefe mussten Schiffe oft auf Reede liegen. Heute wird der alte Hafen vor allem für die lokale Küstenfischerei, den Tourismus und kleine Boote genutzt, während der große kommerzielle Verkehr ins nahe Ehoala abgewandert ist. Geografie K5 — Historische Häfen und Fischerei.",
+      "factsAdvanced": [
+        "Historischer Seehafen der Stadt Tôlanaro (Fort-Dauphin)",
+        "Diente vor dem Bau des Ehoala-Hafens der gesamten Südostregion",
+        "Wegen starker Brandung und Flachwasser für große Schiffe ungeeignet",
+        "Heute primär von lokaler Küstenfischerei und kleinen Booten genutzt",
+        "Zentral gelegen in der historischen Bucht von Fort-Dauphin",
+        "Verlor seine kommerzielle Bedeutung ab 2009 an Port d'Ehoala"
+      ]
+    }
+  ]
+}
